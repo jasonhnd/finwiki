@@ -1,0 +1,106 @@
+{
+  "schema_version": "1.0",
+  "slug": "loyalty/point-program-unit-economics",
+  "source_path": "loyalty/point-program-unit-economics.md",
+  "url": "https://finwiki.zksc.io/loyalty/point-program-unit-economics",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/loyalty/point-program-unit-economics.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/loyalty/point-program-unit-economics.md",
+  "domain": "loyalty",
+  "title": "Point program unit economics (JP loyalty funding, float, breakage, CPA)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Point program unit economics (JP loyalty funding, float, breakage, CPA)",
+    "aliases": [
+      "loyalty/point-program-unit-economics",
+      "point-program-unit-economics",
+      "ポイントプログラム ユニットエコノミクス",
+      "ポイント原資 ブレッカジ 経済",
+      "loyalty point unit economics",
+      "point funding float breakage CPA"
+    ],
+    "domain": "loyalty",
+    "created": "2026-06-03",
+    "last_updated": "2026-06-03",
+    "last_tended": "2026-06-03",
+    "review_by": "2026-12-03",
+    "confidence": "likely",
+    "tags": [
+      "loyalty",
+      "points",
+      "unit-economics",
+      "breakage",
+      "float",
+      "cpa",
+      "japan",
+      "finance"
+    ],
+    "status": "active",
+    "sources": [
+      "https://point.rakuten.co.jp/guidance/en/faq/pointinfo/",
+      "https://www.asb.or.jp/jp/wp-content/uploads/asbj_29.pdf",
+      "https://corp.rakuten.co.jp/investors/financial/",
+      "https://www.docomo.ne.jp/corporate/ir/",
+      "https://paymentsjapan.or.jp/"
+    ]
+  },
+  "summary": "This entry sits under loyalty index as the unit-economics / funding-mechanics page. It is the economic complement to point liability accounting boundary: that page asks how a point is classified, this page asks whether the program makes money and who pays. It reads alongside the program map in Japan",
+  "headings": [
+    "Point program unit economics (JP loyalty funding, float, breakage, CPA)",
+    "Wiki route",
+    "TL;DR",
+    "The unit-economics equation",
+    "Funding: who actually pays for the point",
+    "Breakage: the margin engine",
+    "Float: the interest-free funding balance",
+    "Monetisation: where thin programs turn profitable",
+    "Why this matters for JapanFG / financial analysis",
+    "Related"
+  ],
+  "body_links": {
+    "wikilinks_count": 16,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/ndfg",
+      "JapanFG/paypay-fg",
+      "JapanFG/rakuten-fg",
+      "JapanFG/smfg",
+      "fintech/INDEX",
+      "loyalty/INDEX",
+      "loyalty/d-point-detailed-ecosystem",
+      "loyalty/japan-points-landscape",
+      "loyalty/point-exchange-network-risk",
+      "loyalty/point-liability-accounting-boundary",
+      "loyalty/retail-media-points-data-loop",
+      "loyalty/sb-yahoo-paypay-points-unified-ecosystem",
+      "loyalty/v-point-smbc-ccc-case",
+      "payments/INDEX",
+      "payments/japan-prepaid-electronic-money-operator-matrix"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/ndfg",
+      "https://finwiki.zksc.io/JapanFG/paypay-fg",
+      "https://finwiki.zksc.io/JapanFG/rakuten-fg",
+      "https://finwiki.zksc.io/JapanFG/smfg",
+      "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/loyalty/INDEX",
+      "https://finwiki.zksc.io/loyalty/d-point-detailed-ecosystem",
+      "https://finwiki.zksc.io/loyalty/japan-points-landscape",
+      "https://finwiki.zksc.io/loyalty/point-exchange-network-risk",
+      "https://finwiki.zksc.io/loyalty/point-liability-accounting-boundary",
+      "https://finwiki.zksc.io/loyalty/retail-media-points-data-loop",
+      "https://finwiki.zksc.io/loyalty/sb-yahoo-paypay-points-unified-ecosystem",
+      "https://finwiki.zksc.io/loyalty/v-point-smbc-ccc-case",
+      "https://finwiki.zksc.io/payments/INDEX",
+      "https://finwiki.zksc.io/payments/japan-prepaid-electronic-money-operator-matrix"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 8881,
+    "word_like_tokens": 1481,
+    "inbound_wikilinks_count": 4,
+    "last_modified": "2026-06-03"
+  }
+}

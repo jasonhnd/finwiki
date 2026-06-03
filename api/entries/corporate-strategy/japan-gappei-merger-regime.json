@@ -1,0 +1,102 @@
+{
+  "schema_version": "1.0",
+  "slug": "corporate-strategy/japan-gappei-merger-regime",
+  "source_path": "corporate-strategy/japan-gappei-merger-regime.md",
+  "url": "https://finwiki.zksc.io/corporate-strategy/japan-gappei-merger-regime",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/corporate-strategy/japan-gappei-merger-regime.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/corporate-strategy/japan-gappei-merger-regime.md",
+  "domain": "corporate-strategy",
+  "title": "合併 (Japan corporate merger) — 吸収合併 / 新設合併 mechanics, 適格合併 tax treatment, and the triangular-merger variant",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "合併 (Japan corporate merger) — 吸収合併 / 新設合併 mechanics, 適格合併 tax treatment, and the triangular-merger variant",
+    "aliases": [
+      "japan-gappei-merger-regime",
+      "合併",
+      "吸収合併",
+      "新設合併",
+      "gappei",
+      "kyushu gappei shinsetsu gappei",
+      "tekikaku gappei",
+      "japan corporate merger tax",
+      "qualified merger japan",
+      "三角合併"
+    ],
+    "domain": "corporate-strategy",
+    "created": "2026-06-03",
+    "last_updated": "2026-06-03",
+    "last_tended": "2026-06-03",
+    "review_by": "2026-12-03",
+    "confidence": "likely",
+    "tags": [
+      "corporate-strategy",
+      "m-and-a",
+      "tax",
+      "japan",
+      "merger",
+      "reorganization"
+    ],
+    "status": "active",
+    "sources": [
+      "https://laws.e-gov.go.jp/document?lawid=417AC0000000086",
+      "https://www.nta.go.jp/law/tsutatsu/kihon/hojin/01/01_04_05.htm",
+      "https://www.meti.go.jp/policy/economy/keiei_innovation/keizaihousei/",
+      "https://www.jftc.go.jp/en/",
+      "https://www.fsa.go.jp/en/"
+    ]
+  },
+  "summary": "This entry sits under corporate-strategy INDEX and routes into finance INDEX for the deal-finance overlay. Merger is the combination-side counterpart to the separation-side 会社分割 (company split); both run on the same 適格 / 非適格 tax axis. Read it with 株式交換 / 株式移転 regime for the share-side route to 100%",
+  "headings": [
+    "合併 (Japan corporate merger) — 吸収合併 / 新設合併 mechanics, 適格合併 tax treatment, and the triangular-merger variant",
+    "Wiki route",
+    "TL;DR",
+    "1. 吸収合併 vs 新設合併 — the Two Forms",
+    "2. Universal Succession (包括承継) — Why Merger Is \"Clean\"",
+    "3. Tax Axis — 適格合併 vs 非適格合併",
+    "適格合併 test scenarios",
+    "Consequences",
+    "4. The Triangular Merger (三角合併) Variant",
+    "5. Where Merger Sits Among the Reorganization Tools"
+  ],
+  "body_links": {
+    "wikilinks_count": 13,
+    "wikilinks": [
+      "INDEX",
+      "corporate-strategy/INDEX",
+      "corporate-strategy/japan-holding-company-conversion",
+      "corporate-strategy/japan-kabushiki-koukan-iten-regime",
+      "corporate-strategy/japan-kaisha-bunkatsu-tax-regime",
+      "corporate-strategy/kabushiki-koufu-stock-distribution-regime",
+      "corporate-strategy/spinoff-decision-tree-japan",
+      "finance/INDEX",
+      "finance/cross-border-m-a-japan",
+      "finance/japan-large-shareholding-disclosure",
+      "finance/japan-mbo-and-squeeze-out-process",
+      "finance/jftc-merger-control-process",
+      "securities/japan-ipo-listing-disclosure-route"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/corporate-strategy/INDEX",
+      "https://finwiki.zksc.io/corporate-strategy/japan-holding-company-conversion",
+      "https://finwiki.zksc.io/corporate-strategy/japan-kabushiki-koukan-iten-regime",
+      "https://finwiki.zksc.io/corporate-strategy/japan-kaisha-bunkatsu-tax-regime",
+      "https://finwiki.zksc.io/corporate-strategy/kabushiki-koufu-stock-distribution-regime",
+      "https://finwiki.zksc.io/corporate-strategy/spinoff-decision-tree-japan",
+      "https://finwiki.zksc.io/finance/INDEX",
+      "https://finwiki.zksc.io/finance/cross-border-m-a-japan",
+      "https://finwiki.zksc.io/finance/japan-large-shareholding-disclosure",
+      "https://finwiki.zksc.io/finance/japan-mbo-and-squeeze-out-process",
+      "https://finwiki.zksc.io/finance/jftc-merger-control-process",
+      "https://finwiki.zksc.io/securities/japan-ipo-listing-disclosure-route"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 13410,
+    "word_like_tokens": 2174,
+    "inbound_wikilinks_count": 2,
+    "last_modified": "2026-06-03"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "schema_version": "1.0",
+  "slug": "manufacturer-finance/vendor-finance-mechanism",
+  "source_path": "manufacturer-finance/vendor-finance-mechanism.md",
+  "url": "https://finwiki.zksc.io/manufacturer-finance/vendor-finance-mechanism",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/manufacturer-finance/vendor-finance-mechanism.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/manufacturer-finance/vendor-finance-mechanism.md",
+  "domain": "manufacturer-finance",
+  "title": "Captive / Vendor Finance Mechanism (captive・vendor finance の仕組み)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Captive / Vendor Finance Mechanism (captive・vendor finance の仕組み)",
+    "aliases": [
+      "vendor-finance-mechanism",
+      "captive finance mechanism",
+      "vendor finance mechanism",
+      "captive vendor finance",
+      "captive finance",
+      "vendor finance",
+      "キャプティブファイナンス",
+      "ベンダーファイナンス",
+      "顧客金融の仕組み"
+    ],
+    "domain": "manufacturer-finance",
+    "created": "2026-06-03",
+    "last_updated": "2026-06-03",
+    "last_tended": "2026-06-03",
+    "review_by": "2026-12-03",
+    "confidence": "likely",
+    "tags": [
+      "manufacturing",
+      "captive-finance",
+      "vendor-finance",
+      "residual-value",
+      "floorplan",
+      "abs",
+      "mechanism",
+      "japan",
+      "global"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.oecd.org/en/topics/export-credits.html",
+      "https://www.deloitte.com/us/en/Industries/consumer/articles/electric-vehicle-lease-returns-market-analysis.html",
+      "https://www.jdpowervalues.com/oems-and-captive-finance-solutions",
+      "https://disclosure2.edinet-fsa.go.jp/"
+    ]
+  },
+  "summary": "This entry sits under manufacturing index as the mechanism page behind the domain's company profiles. The OEM finance arms that run this mechanism are documented in Toyota Financial Services, Honda Finance, Panasonic 顧客金融, and Hitachi 産業金融. For the cross-border variant — exporting capital goods with",
+  "headings": [
+    "Captive / Vendor Finance Mechanism (captive・vendor finance の仕組み)",
+    "Wiki route",
+    "TL;DR",
+    "1. captive と vendor finance の定義",
+    "2. なぜメーカーは captive を持つのか (4 つの動機)",
+    "3. Residual Value (残価) リスクの仕組み",
+    "4. Funding: captive はどう資金を調達するか",
+    "5. 規制・政策",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 17,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/INDEX",
+      "JapanFG/mitsubishi-hc-capital",
+      "JapanFG/orix-corp",
+      "JapanFG/tokyo-century",
+      "manufacturer-finance/INDEX",
+      "manufacturer-finance/export-finance-mechanism",
+      "manufacturer-finance/hitachi-industrial-finance-platform",
+      "manufacturer-finance/honda-finance",
+      "manufacturer-finance/mitsubishi-heavy-export-finance",
+      "manufacturer-finance/panasonic-captive-finance",
+      "manufacturer-finance/seiko-epson",
+      "manufacturer-finance/toyota-financial-services",
+      "manufacturer-finance/toyota-motor",
+      "structured-finance/auto-loan-abs-japan-toyota-honda",
+      "structured-finance/japan-auto-loan-abs-waterfall-mechanics",
+      "structured-finance/japan-equipment-lease-abs"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/mitsubishi-hc-capital",
+      "https://finwiki.zksc.io/JapanFG/orix-corp",
+      "https://finwiki.zksc.io/JapanFG/tokyo-century",
+      "https://finwiki.zksc.io/manufacturer-finance/INDEX",
+      "https://finwiki.zksc.io/manufacturer-finance/export-finance-mechanism",
+      "https://finwiki.zksc.io/manufacturer-finance/hitachi-industrial-finance-platform",
+      "https://finwiki.zksc.io/manufacturer-finance/honda-finance",
+      "https://finwiki.zksc.io/manufacturer-finance/mitsubishi-heavy-export-finance",
+      "https://finwiki.zksc.io/manufacturer-finance/panasonic-captive-finance",
+      "https://finwiki.zksc.io/manufacturer-finance/seiko-epson",
+      "https://finwiki.zksc.io/manufacturer-finance/toyota-financial-services",
+      "https://finwiki.zksc.io/manufacturer-finance/toyota-motor",
+      "https://finwiki.zksc.io/structured-finance/auto-loan-abs-japan-toyota-honda",
+      "https://finwiki.zksc.io/structured-finance/japan-auto-loan-abs-waterfall-mechanics",
+      "https://finwiki.zksc.io/structured-finance/japan-equipment-lease-abs"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 6971,
+    "word_like_tokens": 1012,
+    "inbound_wikilinks_count": 7,
+    "last_modified": "2026-06-03"
+  }
+}

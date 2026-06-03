@@ -1,0 +1,105 @@
+{
+  "schema_version": "1.0",
+  "slug": "manufacturer-finance/honda-finance",
+  "source_path": "manufacturer-finance/honda-finance.md",
+  "url": "https://finwiki.zksc.io/manufacturer-finance/honda-finance",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/manufacturer-finance/honda-finance.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/manufacturer-finance/honda-finance.md",
+  "domain": "manufacturer-finance",
+  "title": "Honda Finance (ホンダ captive auto-finance arm / American Honda Finance Corporation)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Honda Finance (ホンダ captive auto-finance arm / American Honda Finance Corporation)",
+    "aliases": [
+      "honda-finance",
+      "Honda Finance",
+      "Honda Financial Services",
+      "American Honda Finance Corporation",
+      "AHFC",
+      "Honda Finance Co., Ltd.",
+      "ホンダファイナンス",
+      "アメリカン ホンダ ファイナンス"
+    ],
+    "domain": "manufacturer-finance",
+    "created": "2026-06-03",
+    "last_updated": "2026-06-03",
+    "last_tended": "2026-06-03",
+    "review_by": "2026-12-03",
+    "confidence": "likely",
+    "tags": [
+      "manufacturing",
+      "honda",
+      "captive-finance",
+      "auto-finance",
+      "abs",
+      "residual-value",
+      "keepwell",
+      "japan",
+      "usa",
+      "global"
+    ],
+    "status": "active",
+    "sources": [
+      "https://global.honda/en/investors/",
+      "https://ir.americanhondafinance.com/",
+      "https://ir.americanhondafinance.com/IR_DCTM/quarterly_reports/Form%2010K%20FY2025%20Year%20ended%20Mar.%202025.pdf",
+      "https://my.americanhondafinance.com/s/about-us-pre-login",
+      "https://hondanews.com/en-US/releases/release-f20318eb27d18d74308003004c34bb7d-dedicated-acura-financial-services-launched",
+      "https://disclosure2.edinet-fsa.go.jp/"
+    ]
+  },
+  "summary": "This entry sits under manufacturing index and is the Honda-side complement to Toyota Financial Services — the two largest Japanese-OEM auto captives. Read it against Toyota Motor for the parent-OEM contrast, and against Panasonic 顧客金融, Sony FG, Hitachi 産業金融, MHI 輸出金融 for peer industrial-conglomerate",
+  "headings": [
+    "Honda Finance (ホンダ captive auto-finance arm / American Honda Finance Corporation)",
+    "Wiki route",
+    "TL;DR",
+    "1. 会社構造と製造業視点",
+    "製造業視点のグループ構造",
+    "Honda Motor 本体との関係",
+    "2. 製品 / 事業ライン × 製造業視点での意義",
+    "自動車 ABS との接続",
+    "3. 主要指標 (定性 + 公開ベース)",
+    "4. 戦略 (Residual Value + EV + Brand-Split)"
+  ],
+  "body_links": {
+    "wikilinks_count": 13,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/INDEX",
+      "manufacturer-finance/INDEX",
+      "manufacturer-finance/export-finance-mechanism",
+      "manufacturer-finance/hitachi-industrial-finance-platform",
+      "manufacturer-finance/mitsubishi-heavy-export-finance",
+      "manufacturer-finance/panasonic-captive-finance",
+      "manufacturer-finance/sony-group-finance-arm",
+      "manufacturer-finance/toyota-financial-services",
+      "manufacturer-finance/toyota-motor",
+      "manufacturer-finance/vendor-finance-mechanism",
+      "structured-finance/auto-loan-abs-japan-toyota-honda",
+      "structured-finance/japan-auto-loan-abs-waterfall-mechanics"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/manufacturer-finance/INDEX",
+      "https://finwiki.zksc.io/manufacturer-finance/export-finance-mechanism",
+      "https://finwiki.zksc.io/manufacturer-finance/hitachi-industrial-finance-platform",
+      "https://finwiki.zksc.io/manufacturer-finance/mitsubishi-heavy-export-finance",
+      "https://finwiki.zksc.io/manufacturer-finance/panasonic-captive-finance",
+      "https://finwiki.zksc.io/manufacturer-finance/sony-group-finance-arm",
+      "https://finwiki.zksc.io/manufacturer-finance/toyota-financial-services",
+      "https://finwiki.zksc.io/manufacturer-finance/toyota-motor",
+      "https://finwiki.zksc.io/manufacturer-finance/vendor-finance-mechanism",
+      "https://finwiki.zksc.io/structured-finance/auto-loan-abs-japan-toyota-honda",
+      "https://finwiki.zksc.io/structured-finance/japan-auto-loan-abs-waterfall-mechanics"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 7952,
+    "word_like_tokens": 1234,
+    "inbound_wikilinks_count": 6,
+    "last_modified": "2026-06-03"
+  }
+}

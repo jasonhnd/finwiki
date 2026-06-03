@@ -1,0 +1,110 @@
+{
+  "schema_version": "1.0",
+  "slug": "loyalty/loyalty-liability-customer-funded-float",
+  "source_path": "loyalty/loyalty-liability-customer-funded-float.md",
+  "url": "https://finwiki.zksc.io/loyalty/loyalty-liability-customer-funded-float",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/loyalty/loyalty-liability-customer-funded-float.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/loyalty/loyalty-liability-customer-funded-float.md",
+  "domain": "loyalty",
+  "title": "Loyalty liability as customer-funded float (point balance as a financing instrument)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Loyalty liability as customer-funded float (point balance as a financing instrument)",
+    "aliases": [
+      "loyalty/loyalty-liability-customer-funded-float",
+      "loyalty-liability-customer-funded-float",
+      "ポイント引当金 フロート",
+      "ポイント負債 資金調達",
+      "loyalty liability float economics",
+      "point balance as financing"
+    ],
+    "domain": "loyalty",
+    "created": "2026-06-03",
+    "last_updated": "2026-06-03",
+    "last_tended": "2026-06-03",
+    "review_by": "2026-12-03",
+    "confidence": "likely",
+    "tags": [
+      "loyalty",
+      "points",
+      "liability",
+      "float",
+      "balance-sheet",
+      "japan",
+      "finance",
+      "accounting"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.asb.or.jp/jp/wp-content/uploads/asbj_29.pdf",
+      "https://point.rakuten.co.jp/guidance/en/faq/pointinfo/",
+      "https://corp.rakuten.co.jp/investors/financial/",
+      "https://www.docomo.ne.jp/corporate/ir/",
+      "https://paymentsjapan.or.jp/"
+    ]
+  },
+  "summary": "This entry sits under loyalty index as the balance-sheet / financing view of the point liability — the layer that treats the outstanding point balance as a funding instrument, not just a cost accrual. It is the financing-side complement to point liability accounting boundary (how the liability is cl",
+  "headings": [
+    "Loyalty liability as customer-funded float (point balance as a financing instrument)",
+    "Wiki route",
+    "TL;DR",
+    "The liability as a balance, not just a cost",
+    "Float: the interest-free funding benefit",
+    "Breakage: the margin release on the same balance",
+    "How it differs from prepaid stored value",
+    "The risk side of the float",
+    "Why this matters for JapanFG / financial analysis",
+    "Related"
+  ],
+  "body_links": {
+    "wikilinks_count": 18,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/legal-financial-licenses/INDEX",
+      "JapanFG/ndfg",
+      "JapanFG/paypay-fg",
+      "JapanFG/rakuten-fg",
+      "fintech/INDEX",
+      "loyalty/INDEX",
+      "loyalty/d-point-detailed-ecosystem",
+      "loyalty/japan-points-landscape",
+      "loyalty/point-exchange-network-risk",
+      "loyalty/point-liability-accounting-boundary",
+      "loyalty/point-program-unit-economics",
+      "loyalty/rakuten-point-ecosystem-deep",
+      "loyalty/retail-media-points-data-loop",
+      "loyalty/sb-yahoo-paypay-points-unified-ecosystem",
+      "payments/INDEX",
+      "payments/funds-transfer-vs-prepaid-boundary",
+      "payments/japan-prepaid-electronic-money-operator-matrix"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX",
+      "https://finwiki.zksc.io/JapanFG/ndfg",
+      "https://finwiki.zksc.io/JapanFG/paypay-fg",
+      "https://finwiki.zksc.io/JapanFG/rakuten-fg",
+      "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/loyalty/INDEX",
+      "https://finwiki.zksc.io/loyalty/d-point-detailed-ecosystem",
+      "https://finwiki.zksc.io/loyalty/japan-points-landscape",
+      "https://finwiki.zksc.io/loyalty/point-exchange-network-risk",
+      "https://finwiki.zksc.io/loyalty/point-liability-accounting-boundary",
+      "https://finwiki.zksc.io/loyalty/point-program-unit-economics",
+      "https://finwiki.zksc.io/loyalty/rakuten-point-ecosystem-deep",
+      "https://finwiki.zksc.io/loyalty/retail-media-points-data-loop",
+      "https://finwiki.zksc.io/loyalty/sb-yahoo-paypay-points-unified-ecosystem",
+      "https://finwiki.zksc.io/payments/INDEX",
+      "https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary",
+      "https://finwiki.zksc.io/payments/japan-prepaid-electronic-money-operator-matrix"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 9598,
+    "word_like_tokens": 1576,
+    "inbound_wikilinks_count": 1,
+    "last_modified": "2026-06-03"
+  }
+}

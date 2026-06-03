@@ -44,13 +44,13 @@
     "Group overviews",
     "Cross-case comparison",
     "Deep dives",
+    "Concept / mechanism pages",
     "Retail Finance Pattern",
     "Related Domains",
-    "Expansion Backlog",
-    "Related"
+    "Expansion Backlog"
   ],
   "body_links": {
-    "wikilinks_count": 17,
+    "wikilinks_count": 20,
     "wikilinks": [
       "INDEX",
       "JapanFG/INDEX",
@@ -63,12 +63,15 @@
       "payments/cashless-jp-landscape",
       "retail/aeon-group",
       "retail/familymart-itochu-financial-integration",
+      "retail/japan-retail-economic-sphere-comparison",
       "retail/japan-retail-financial-distribution-wedge-matrix",
       "retail/japan-retail-financial-distribution-wedge-matrix\\",
+      "retail/japan-retail-media-finance-loop",
       "retail/lawson-kddi-retail-finance",
       "retail/lawson-mitsubishi-corporation-tie-up-2024-deep",
       "retail/seven-and-i-hd",
-      "retail/seven-i-holdings-finance-deep-dive"
+      "retail/seven-i-holdings-finance-deep-dive",
+      "retail/store-traffic-as-financial-distribution"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
@@ -82,20 +85,23 @@
       "https://finwiki.zksc.io/payments/cashless-jp-landscape",
       "https://finwiki.zksc.io/retail/aeon-group",
       "https://finwiki.zksc.io/retail/familymart-itochu-financial-integration",
+      "https://finwiki.zksc.io/retail/japan-retail-economic-sphere-comparison",
       "https://finwiki.zksc.io/retail/japan-retail-financial-distribution-wedge-matrix",
       "https://finwiki.zksc.io/retail/japan-retail-financial-distribution-wedge-matrix\\",
+      "https://finwiki.zksc.io/retail/japan-retail-media-finance-loop",
       "https://finwiki.zksc.io/retail/lawson-kddi-retail-finance",
       "https://finwiki.zksc.io/retail/lawson-mitsubishi-corporation-tie-up-2024-deep",
       "https://finwiki.zksc.io/retail/seven-and-i-hd",
-      "https://finwiki.zksc.io/retail/seven-i-holdings-finance-deep-dive"
+      "https://finwiki.zksc.io/retail/seven-i-holdings-finance-deep-dive",
+      "https://finwiki.zksc.io/retail/store-traffic-as-financial-distribution"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4757,
-    "word_like_tokens": 731,
-    "inbound_wikilinks_count": 24,
+    "nonspace_chars": 5851,
+    "word_like_tokens": 898,
+    "inbound_wikilinks_count": 29,
     "last_modified": "2026-06-03"
   }
 }

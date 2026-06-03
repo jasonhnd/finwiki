@@ -54,18 +54,21 @@ Use this page when the question is **"which cooperative finance entities does Ja
 - [[JapanFG/shinkin-shoken]]
 - [[JapanFG/zenshin-kumi]]
 
-### Shinkin banks (credit unions) (14)
+### Shinkin banks (credit unions) (17)
 
 - [[JapanFG/asahi-shinkin]]
+- [[JapanFG/gifu-shinkin]]
 - [[JapanFG/hamamatsu-iwata-shinkin]]
 - [[JapanFG/johoku-shinkin]]
 - [[JapanFG/jonan-shinkin]]
 - [[JapanFG/kawasaki-shinkin]]
 - [[JapanFG/kitakyushu-shinkin]]
 - [[JapanFG/kyoto-chuo-shinkin]]
+- [[JapanFG/kyoto-shinkin]]
 - [[JapanFG/nagoya-shinkin]]
 - [[JapanFG/okazaki-shinkin]]
 - [[JapanFG/osaka-shinkin]]
+- [[JapanFG/osaka-shoko-shinkin]]
 - [[JapanFG/sapporo-shinkin]]
 - [[JapanFG/sendai-shinkin]]
 - [[JapanFG/tama-shinkin]]

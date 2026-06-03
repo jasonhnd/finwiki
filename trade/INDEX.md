@@ -23,9 +23,9 @@ sources:
 
 ## TL;DR
 
-This domain routes **Japan trade-promotion institutional structure** — anchored on JETRO (日本貿易振興機構, the Japan External Trade Organization) and the wider METI/MOF export-support orbit. The three entries answer two distinct questions: a **decision page** that splits JETRO, NEXI, and JBIC (the promotion / insurance / financing institutions routinely confused as one), plus two **JETRO-anatomy** scoping pages that correct common misconceptions — JETRO is *not* a membership chamber, and the paid JETRO Members program is a B2B-proposal gate, not a price wall.
+This domain routes two complementary clusters. The first is **Japan trade-promotion institutional structure** — anchored on JETRO (日本貿易振興機構, the Japan External Trade Organization) and the wider METI/MOF export-support orbit: a **decision page** that splits JETRO, NEXI, and JBIC (the promotion / insurance / financing institutions routinely confused as one), plus two **JETRO-anatomy** scoping pages that correct common misconceptions — JETRO is *not* a membership chamber, and the paid JETRO Members program is a B2B-proposal gate, not a price wall. The second is the **trade-finance mechanism layer** — the ICC-governed instruments that make cross-border trade settle: the documentary credit (letter of credit) under UCP 600, the Incoterms 2020 delivery-terms framework, and the documentary-collection (URC 522) alternative.
 
-This is a small but high-leverage domain for any question about *how foreign businesses actually engage Japan's METI orbit*. For broader policy-finance institutions, see [[policy-finance/INDEX|policy-finance]]; for the general financial system context, see [[finance/INDEX|finance]] and [[INDEX|FinWiki index]].
+This is a small but high-leverage domain for any question about *how foreign businesses actually engage Japan's METI orbit* and *how cross-border trade is documented, delivered, and paid*. For broader policy-finance institutions, see [[policy-finance/INDEX|policy-finance]]; for the general financial system context, see [[finance/INDEX|finance]] and [[INDEX|FinWiki index]].
 
 ## Entries
 
@@ -34,6 +34,9 @@ This is a small but high-leverage domain for any question about *how foreign bus
 | certain | [[trade/jetro-organization-structure\|jetro-organization-structure]] | JETRO は会員組織ではなく経産省傘下の独立行政法人 | JETRO is a METI-supervised independent administrative agency, not a membership chamber |
 | certain | [[trade/jetro-members-gateway-model\|jetro-members-gateway-model]] | JETRO Members 有料会員制は B2B 提案の入口ゲート | JETRO Members paid program is a B2B proposal gateway, not a service-fee wall |
 | certain | [[trade/jetro-vs-nexi-vs-jbic-comparison\|jetro-vs-nexi-vs-jbic-comparison]] | JETRO vs NEXI vs JBIC 比較 — promotion / export-credit insurance / export financing | Decision page splitting the three METI-orbit institutions routinely confused as one |
+| likely | [[trade/letter-of-credit-documentary-mechanism\|letter-of-credit-documentary-mechanism]] | Letter of credit (documentary credit) — the trade-settlement mechanism | How a bank's UCP 600 undertaking pays against documents; independence + strict-compliance doctrines |
+| likely | [[trade/incoterms-2020-trade-terms-framework\|incoterms-2020-trade-terms-framework]] | Incoterms 2020 — the ICC trade-terms framework | The 11 delivery rules allocating carriage, risk transfer, and clearance between seller and buyer |
+| likely | [[trade/documentary-collection-vs-letter-of-credit\|documentary-collection-vs-letter-of-credit]] | Documentary collection vs letter of credit — settlement methods compared | URC 522 D/P vs D/A collections vs the L/C undertaking; the cost-vs-security trade-off |
 
 ## Start here
 
@@ -45,6 +48,12 @@ The two JETRO-anatomy pages are focused follow-ups, best read after the comparis
 3. Read [[trade/jetro-members-gateway-model|JETRO Members gateway model]] when the question moves to *"do I need to pay JETRO to work with them?"* This clarifies that the paid Members tier exists to gate higher-touch B2B services, not basic export-promotion access.
 
 Together these answer both the *which-institution* routing question and the *positioning* question that every foreign company or domestic exporter asks before engaging the JETRO network.
+
+For the **trade-finance mechanism** cluster — *how a cross-border trade is actually documented, delivered, and paid* — read in this order:
+
+4. [[trade/incoterms-2020-trade-terms-framework|Incoterms 2020]] — start here, because the delivery rule (FOB, CIF, FCA, DAP …) fixes who arranges carriage and insurance and where risk passes, which in turn shapes every payment document.
+5. [[trade/letter-of-credit-documentary-mechanism|letter of credit / documentary credit mechanism]] — the bank-undertaking method under UCP 600, with the independence and strict-compliance doctrines that define it.
+6. [[trade/documentary-collection-vs-letter-of-credit|documentary collection vs letter of credit]] — the lighter URC 522 alternative (D/P vs D/A), and how to choose along the cost-vs-security spectrum.
 
 ## Research control
 
@@ -65,7 +74,7 @@ When expanding this domain:
 
 ## Backlog
 
-**Shipped:** [[trade/jetro-vs-nexi-vs-jbic-comparison|jetro-vs-nexi-vs-jbic-comparison]] landed in Wave 5 (2026-05) — the decision page splitting JETRO (promotion), NEXI (export-credit insurance), and JBIC (export financing), now the domain's recommended landing page.
+**Shipped:** [[trade/jetro-vs-nexi-vs-jbic-comparison|jetro-vs-nexi-vs-jbic-comparison]] landed in Wave 5 (2026-05) — the decision page splitting JETRO (promotion), NEXI (export-credit insurance), and JBIC (export financing), now the domain's recommended landing page. The **trade-finance mechanism** cluster landed 2026-06 — [[trade/incoterms-2020-trade-terms-framework|Incoterms 2020]], [[trade/letter-of-credit-documentary-mechanism|letter of credit / documentary credit]], and [[trade/documentary-collection-vs-letter-of-credit|documentary collection vs letter of credit]] — covering ICC-governed delivery terms and settlement instruments as public institutional knowledge.
 
 Remaining gaps:
 

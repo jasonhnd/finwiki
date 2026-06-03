@@ -1,0 +1,104 @@
+{
+  "schema_version": "1.0",
+  "slug": "business/aeon-financial-service-retail-bank-case",
+  "source_path": "business/aeon-financial-service-retail-bank-case.md",
+  "url": "https://finwiki.zksc.io/business/aeon-financial-service-retail-bank-case",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/business/aeon-financial-service-retail-bank-case.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/business/aeon-financial-service-retail-bank-case.md",
+  "domain": "business",
+  "title": "Aeon Financial Service retail-bank case — a supermarket group's full financial holding: Aeon Bank + Aeon credit card + pan-Asia consumer finance",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Aeon Financial Service retail-bank case — a supermarket group's full financial holding: Aeon Bank + Aeon credit card + pan-Asia consumer finance",
+    "aliases": [
+      "aeon-financial-service-retail-bank-case",
+      "Aeon Financial Service case",
+      "AEON Financial Service retail bank case",
+      "Aeon Bank credit card Asia model",
+      "イオンフィナンシャルサービス リテール銀行 ケース"
+    ],
+    "domain": "business",
+    "created": "2026-06-03",
+    "last_updated": "2026-06-03",
+    "last_tended": "2026-06-03",
+    "review_by": "2026-12-03",
+    "confidence": "likely",
+    "tags": [
+      "business",
+      "case-study",
+      "aeon",
+      "aeon-financial-service",
+      "aeon-bank",
+      "retail-finance",
+      "consumer-credit",
+      "asia",
+      "japan"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.aeonfinancial.co.jp/en/corp/",
+      "https://www.aeonfinancial.co.jp/en/corp/overseas/",
+      "https://www.aeonfinancial.co.jp/en/ir/info/member/",
+      "https://www.aeon.com.hk/en/corporate-info/company-profile.html",
+      "https://www.fsa.go.jp/en/"
+    ]
+  },
+  "summary": "This entry sits under business INDEX as a public-company strategic case: a retail (supermarket) conglomerate that built a full financial holding rather than a single utility rail. Read it against Seven Bank ATM-platform + deconsolidation case — the cleanest contrast, since Seven & i monetised store",
+  "headings": [
+    "Aeon Financial Service retail-bank case — a supermarket group's full financial holding: Aeon Bank + Aeon credit card + pan-Asia consumer finance",
+    "Wiki route",
+    "TL;DR",
+    "1. The Full-Stack Retail-Finance Model",
+    "2. Why A Supermarket Group Built A Whole Bank",
+    "3. The Pan-Asia Consumer-Finance Footprint",
+    "4. Contrast — Two Retailer Paths To Finance",
+    "5. Comparison — Card / Consumer-Finance Peers",
+    "6. Strategic Rationale",
+    "7. Counterpoints"
+  ],
+  "body_links": {
+    "wikilinks_count": 15,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/aeon-bank",
+      "JapanFG/aeon-financial-service",
+      "JapanFG/credit-saison",
+      "JapanFG/jaccs",
+      "JapanFG/payments-cards-leasing-finance-index",
+      "business/INDEX",
+      "business/rakuten-group-mobile-finance-bundling-case",
+      "business/seven-bank-atm-platform-deconsolidation-case",
+      "business/toyota-financial-services-captive-finance-case",
+      "finance/cross-border-m-a-japan",
+      "payments/japan-consumer-credit-operator-comparison-matrix",
+      "payments/waon-prepaid-aeon",
+      "retail/aeon-group",
+      "retail/store-traffic-as-financial-distribution"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/aeon-bank",
+      "https://finwiki.zksc.io/JapanFG/aeon-financial-service",
+      "https://finwiki.zksc.io/JapanFG/credit-saison",
+      "https://finwiki.zksc.io/JapanFG/jaccs",
+      "https://finwiki.zksc.io/JapanFG/payments-cards-leasing-finance-index",
+      "https://finwiki.zksc.io/business/INDEX",
+      "https://finwiki.zksc.io/business/rakuten-group-mobile-finance-bundling-case",
+      "https://finwiki.zksc.io/business/seven-bank-atm-platform-deconsolidation-case",
+      "https://finwiki.zksc.io/business/toyota-financial-services-captive-finance-case",
+      "https://finwiki.zksc.io/finance/cross-border-m-a-japan",
+      "https://finwiki.zksc.io/payments/japan-consumer-credit-operator-comparison-matrix",
+      "https://finwiki.zksc.io/payments/waon-prepaid-aeon",
+      "https://finwiki.zksc.io/retail/aeon-group",
+      "https://finwiki.zksc.io/retail/store-traffic-as-financial-distribution"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 10900,
+    "word_like_tokens": 1786,
+    "inbound_wikilinks_count": 2,
+    "last_modified": "2026-06-03"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "schema_version": "1.0",
+  "slug": "loyalty/point-economy-funding-source-comparison",
+  "source_path": "loyalty/point-economy-funding-source-comparison.md",
+  "url": "https://finwiki.zksc.io/loyalty/point-economy-funding-source-comparison",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/loyalty/point-economy-funding-source-comparison.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/loyalty/point-economy-funding-source-comparison.md",
+  "domain": "loyalty",
+  "title": "Japan point economy funding-source comparison (V / Rakuten / d / PayPay / Ponta anchors)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Japan point economy funding-source comparison (V / Rakuten / d / PayPay / Ponta anchors)",
+    "aliases": [
+      "loyalty/point-economy-funding-source-comparison",
+      "point-economy-funding-source-comparison",
+      "ポイント経済 原資比較",
+      "共通ポイント 原資 アンカー比較",
+      "Japan common point funding comparison",
+      "five major point systems comparison"
+    ],
+    "domain": "loyalty",
+    "created": "2026-06-03",
+    "last_updated": "2026-06-03",
+    "last_tended": "2026-06-03",
+    "review_by": "2026-12-03",
+    "confidence": "likely",
+    "tags": [
+      "loyalty",
+      "points",
+      "comparison",
+      "funding",
+      "anchor",
+      "japan",
+      "retail-finance"
+    ],
+    "status": "active",
+    "sources": [
+      "https://point.rakuten.co.jp/guidance/en/faq/pointinfo/",
+      "https://dpoint.docomo.ne.jp/",
+      "https://www.ccc.co.jp/en/news/press/",
+      "https://paymentsjapan.or.jp/",
+      "https://www.asb.or.jp/jp/wp-content/uploads/asbj_29.pdf"
+    ]
+  },
+  "summary": "This entry sits under loyalty index as the cross-system comparison page: it reads the five major common-point systems side by side by the dimension that actually decides their economics — what anchors the program and who funds the point — rather than per-operator depth. It is the comparative complem",
+  "headings": [
+    "Japan point economy funding-source comparison (V / Rakuten / d / PayPay / Ponta anchors)",
+    "Wiki route",
+    "TL;DR",
+    "The five anchors at a glance",
+    "Funding source by anchor",
+    "Why the anchor decides the economics",
+    "Shared liabilities, different accounting pressure",
+    "Why this matters for JapanFG / financial analysis",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 20,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/INDEX",
+      "JapanFG/ndfg",
+      "JapanFG/paypay-fg",
+      "JapanFG/rakuten-fg",
+      "JapanFG/smfg",
+      "loyalty/INDEX",
+      "loyalty/d-point-au-kddi-docomo-telco-point-consolidation",
+      "loyalty/d-point-detailed-ecosystem",
+      "loyalty/japan-points-landscape",
+      "loyalty/point-exchange-network-risk",
+      "loyalty/point-liability-accounting-boundary",
+      "loyalty/point-program-unit-economics",
+      "loyalty/ponta-points-deep-dive",
+      "loyalty/rakuten-point-ecosystem-deep",
+      "loyalty/retail-media-points-data-loop",
+      "loyalty/sb-yahoo-paypay-points-unified-ecosystem",
+      "loyalty/v-point-smbc-ccc-case",
+      "payments/INDEX",
+      "payments/cashless-jp-landscape"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/ndfg",
+      "https://finwiki.zksc.io/JapanFG/paypay-fg",
+      "https://finwiki.zksc.io/JapanFG/rakuten-fg",
+      "https://finwiki.zksc.io/JapanFG/smfg",
+      "https://finwiki.zksc.io/loyalty/INDEX",
+      "https://finwiki.zksc.io/loyalty/d-point-au-kddi-docomo-telco-point-consolidation",
+      "https://finwiki.zksc.io/loyalty/d-point-detailed-ecosystem",
+      "https://finwiki.zksc.io/loyalty/japan-points-landscape",
+      "https://finwiki.zksc.io/loyalty/point-exchange-network-risk",
+      "https://finwiki.zksc.io/loyalty/point-liability-accounting-boundary",
+      "https://finwiki.zksc.io/loyalty/point-program-unit-economics",
+      "https://finwiki.zksc.io/loyalty/ponta-points-deep-dive",
+      "https://finwiki.zksc.io/loyalty/rakuten-point-ecosystem-deep",
+      "https://finwiki.zksc.io/loyalty/retail-media-points-data-loop",
+      "https://finwiki.zksc.io/loyalty/sb-yahoo-paypay-points-unified-ecosystem",
+      "https://finwiki.zksc.io/loyalty/v-point-smbc-ccc-case",
+      "https://finwiki.zksc.io/payments/INDEX",
+      "https://finwiki.zksc.io/payments/cashless-jp-landscape"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 8542,
+    "word_like_tokens": 1406,
+    "inbound_wikilinks_count": 1,
+    "last_modified": "2026-06-03"
+  }
+}

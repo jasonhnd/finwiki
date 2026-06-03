@@ -1,0 +1,83 @@
+{
+  "schema_version": "1.0",
+  "slug": "security/typosquatting-package-detection-checklist",
+  "source_path": "security/typosquatting-package-detection-checklist.md",
+  "url": "https://finwiki.zksc.io/security/typosquatting-package-detection-checklist",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/security/typosquatting-package-detection-checklist.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/security/typosquatting-package-detection-checklist.md",
+  "domain": "security",
+  "title": "Typosquatting package detection checklist — npm / PyPI / Go name-confusion triage",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Typosquatting package detection checklist — npm / PyPI / Go name-confusion triage",
+    "aliases": [
+      "typosquatting detection checklist",
+      "package name confusion triage",
+      "タイポスクワッティング検出チェックリスト"
+    ],
+    "domain": "security",
+    "created": "2026-06-03",
+    "last_updated": "2026-06-03",
+    "last_tended": "2026-06-03",
+    "review_by": "2026-12-03",
+    "confidence": "likely",
+    "tags": [
+      "security",
+      "supply-chain",
+      "dependency",
+      "typosquatting",
+      "npm",
+      "pypi",
+      "go",
+      "checklist"
+    ],
+    "status": "active",
+    "sources": [
+      "https://docs.npmjs.com/threats-and-mitigations/",
+      "https://owasp.org/www-project-top-ten/",
+      "https://google.github.io/osv-scanner/",
+      "https://osv.dev/"
+    ]
+  },
+  "summary": "This entry sits under security domain. It generalizes the concrete attack in module path confusion + LICENSE strip supply chain attack into a reusable, registry-agnostic triage checklist, and it shares its evidence layer with forensic identity anchor chain when a squatted package needs to be tied ba",
+  "headings": [
+    "Typosquatting package detection checklist — npm / PyPI / Go name-confusion triage",
+    "Wiki route",
+    "Three confusion families (don't conflate them)",
+    "Common squatting name transforms",
+    "Triage checklist (per suspect dependency)",
+    "Tooling that automates the checklist",
+    "When to use",
+    "When NOT to over-apply",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 5,
+    "wikilinks": [
+      "exchanges/jp-vasp-security-audit-certification",
+      "security/INDEX",
+      "security/forensic-identity-anchor-chain",
+      "security/fork-and-rebrand-5-layer-audit-framework",
+      "security/module-path-confusion-supply-chain-attack"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/exchanges/jp-vasp-security-audit-certification",
+      "https://finwiki.zksc.io/security/INDEX",
+      "https://finwiki.zksc.io/security/forensic-identity-anchor-chain",
+      "https://finwiki.zksc.io/security/fork-and-rebrand-5-layer-audit-framework",
+      "https://finwiki.zksc.io/security/module-path-confusion-supply-chain-attack"
+    ],
+    "external_links_count": 2,
+    "external_links": [
+      "https://osv.dev/",
+      "https://owasp.org/www-project-top-ten/"
+    ]
+  },
+  "metrics": {
+    "nonspace_chars": 5944,
+    "word_like_tokens": 943,
+    "inbound_wikilinks_count": 1,
+    "last_modified": "2026-06-03"
+  }
+}

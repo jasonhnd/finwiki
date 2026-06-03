@@ -10,7 +10,7 @@ last_updated: 2026-06-03
 last_tended: 2026-06-03
 review_by: 2026-11-20
 confidence: certain
-tags: [security, index, forensics, supply-chain, bytecode, wayback, audit]
+tags: [security, index, forensics, supply-chain, bytecode, wayback, audit, proxy, upgradeable, typosquatting, verification]
 status: active
 sources:
   - "https://web.archive.org/"
@@ -30,7 +30,7 @@ The unifying frame is *adversarial verification* — every entry assumes the pub
 
 ## Entries
 
-All five entries currently carry `status: candidate`; the column below reports each entry's `confidence:` level, not its lifecycle status. Note that **fork-and-rebrand-5-layer-audit-framework** is `confidence: certain` while still `status: candidate` — high confidence in the technique, but the page itself is not yet promoted past candidate.
+Nine entries. The original five carry `status: candidate`; the four added 2026-06-03 carry `status: active`. The column below reports each entry's `confidence:` level, not its lifecycle status. Note that **fork-and-rebrand-5-layer-audit-framework** is `confidence: certain` while still `status: candidate` — high confidence in the technique, but the page itself is not yet promoted past candidate.
 
 | Confidence | Slug | Title | Why it exists |
 |---|---|---|---|
@@ -39,6 +39,10 @@ All five entries currently carry `status: candidate`; the column below reports e
 | possible | [[security/wayback-machine-as-forensic-tool\|wayback-machine-as-forensic-tool]] | Actively de-published content recovery — Wayback Machine as forensic weapon | How to recover content the publisher has tried to erase |
 | possible | [[security/module-path-confusion-supply-chain-attack\|module-path-confusion-supply-chain-attack]] | Module path confusion + LICENSE strip = supply chain attack triple-play | Concrete supply-chain attack pattern combining three techniques |
 | certain | [[security/fork-and-rebrand-5-layer-audit-framework\|fork-and-rebrand-5-layer-audit-framework]] | Fork-and-Rebrand five-layer audit framework | Structured audit checklist for projects that fork an existing repo and rebrand |
+| likely | [[security/proxy-upgrade-rug-pattern\|proxy-upgrade-rug-pattern]] | Proxy-upgradeable contract rug pattern — admin upgrade rights as a backdoor | How to size the standing rug risk of an upgradeable proxy from public on-chain state |
+| likely | [[security/etherscan-verified-source-poisoning\|etherscan-verified-source-poisoning]] | Etherscan verified-source poisoning — why "verified" is not "the bytecode" | Why a "verified" badge is necessary but not sufficient, and how to cross-check it |
+| likely | [[security/git-history-rewrite-detection\|git-history-rewrite-detection]] | Git history rewrite detection — recovering squashed and force-pushed states | Source-code analogue of Wayback: recover commits a force-push tried to erase |
+| likely | [[security/typosquatting-package-detection-checklist\|typosquatting-package-detection-checklist]] | Typosquatting package detection checklist — npm / PyPI / Go name-confusion triage | Reusable, registry-agnostic checklist generalizing the module-path-confusion pattern |
 
 ## Start here
 
@@ -50,6 +54,8 @@ For a first-time investigator, read in this order:
 4. [[security/fork-and-rebrand-5-layer-audit-framework|Fork-and-Rebrand five-layer audit framework]] — apply when the project is a derivative work.
 5. [[security/module-path-confusion-supply-chain-attack|Module path confusion supply chain attack]] — the concrete attack pattern these techniques most often surface.
 
+For deeper dives once the basics are in place: [[security/proxy-upgrade-rug-pattern|proxy-upgrade rug pattern]] and [[security/etherscan-verified-source-poisoning|verified-source poisoning]] extend the bytecode track; [[security/git-history-rewrite-detection|git history rewrite detection]] extends the Wayback track; [[security/typosquatting-package-detection-checklist|typosquatting detection checklist]] generalizes the supply-chain track.
+
 ## Cross-technique pairing
 
 | Pairing | Use when |
@@ -57,6 +63,9 @@ For a first-time investigator, read in this order:
 | [[security/forensic-identity-anchor-chain\|identity anchor]] + [[security/wayback-machine-as-forensic-tool\|Wayback]] | Founder / team has scrubbed early bios, LinkedIn, or company history |
 | [[security/bytecode-forensic-three-tier-verify\|bytecode verify]] + [[security/fork-and-rebrand-5-layer-audit-framework\|fork-and-rebrand audit]] | A "new" protocol turns out to be a fork of a known codebase |
 | [[security/module-path-confusion-supply-chain-attack\|module path confusion]] + [[security/fork-and-rebrand-5-layer-audit-framework\|fork-and-rebrand audit]] | A dependency or template has been silently rerouted to a malicious source |
+| [[security/proxy-upgrade-rug-pattern\|proxy-upgrade rug]] + [[security/etherscan-verified-source-poisoning\|verified-source poisoning]] | A contract shows clean "verified" source but holds funds behind an upgradeable proxy admin key |
+| [[security/git-history-rewrite-detection\|git history rewrite]] + [[security/wayback-machine-as-forensic-tool\|Wayback]] | A repo's history was squashed/force-pushed and the web record was also de-published |
+| [[security/typosquatting-package-detection-checklist\|typosquatting checklist]] + [[security/forensic-identity-anchor-chain\|identity anchor]] | A squatted package needs both name-distance triage and attribution to a publisher |
 
 ## Research control
 
@@ -77,14 +86,16 @@ When expanding this domain:
 
 ## Backlog
 
-**Planned — not yet created.** Every page listed below is a placeholder for future work; none of these files exist yet. Do not expect to follow these as live links.
+**All four previously-planned pages were created on 2026-06-03** and now appear in the Entries table above:
 
-| Priority | Page (planned) | Why |
+| Priority | Page | Status |
 |---|---|---|
-| P1 | `security/proxy-upgrade-rug-pattern.md` _(not yet created)_ | Proxy-upgradeable contract rug-pull pattern is the most common adversarial use of admin upgrade rights and pairs with bytecode forensic. |
-| P1 | `security/etherscan-verified-source-poisoning.md` _(not yet created)_ | "Verified source" on block explorers is not the same as on-chain bytecode; needs a dedicated entry. |
-| P2 | `security/git-history-rewrite-detection.md` _(not yet created)_ | Companion to Wayback for source-code forensics — detect rebased / squashed git history that hides earlier states. |
-| P2 | `security/typosquatting-package-detection-checklist.md` _(not yet created)_ | Generalize the module-path-confusion entry to a reusable package-typosquat detection checklist. |
+| P1 | [[security/proxy-upgrade-rug-pattern\|proxy-upgrade-rug-pattern]] | Created 2026-06-03 — pairs with bytecode forensic. |
+| P1 | [[security/etherscan-verified-source-poisoning\|etherscan-verified-source-poisoning]] | Created 2026-06-03 — "verified source" vs on-chain bytecode. |
+| P2 | [[security/git-history-rewrite-detection\|git-history-rewrite-detection]] | Created 2026-06-03 — source-code companion to Wayback. |
+| P2 | [[security/typosquatting-package-detection-checklist\|typosquatting-package-detection-checklist]] | Created 2026-06-03 — reusable package-typosquat checklist. |
+
+No new planned pages are currently queued. Candidate future directions: non-EVM (Solana/Move) bytecode-fingerprint forensics, and a timelock-governance pattern entry to pair with proxy-upgrade-rug.
 
 ## Sources
 

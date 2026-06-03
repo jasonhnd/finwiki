@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-06-03T20:33:13+09:00",
+  "generated_at": "2026-06-03T23:00:37+09:00",
   "site_url": "https://finwiki.zksc.io/",
-  "total_entries": 1413,
+  "total_entries": 1459,
   "entries": [
     {
       "slug": "JapanFG/01-bank",
@@ -1125,6 +1125,13 @@
       "html_url": "https://finwiki.zksc.io/JapanFG/gibraltar-life"
     },
     {
+      "slug": "JapanFG/gifu-shinkin",
+      "domain": "JapanFG",
+      "title": "岐阜信用金庫",
+      "api_url": "https://finwiki.zksc.io/api/entries/JapanFG/gifu-shinkin.json",
+      "html_url": "https://finwiki.zksc.io/JapanFG/gifu-shinkin"
+    },
+    {
       "slug": "JapanFG/gmo-aozora-net",
       "domain": "JapanFG",
       "title": "GMO あおぞらネット銀行",
@@ -2063,6 +2070,13 @@
       "html_url": "https://finwiki.zksc.io/JapanFG/kyoto-fg"
     },
     {
+      "slug": "JapanFG/kyoto-shinkin",
+      "domain": "JapanFG",
+      "title": "京都信用金庫",
+      "api_url": "https://finwiki.zksc.io/api/entries/JapanFG/kyoto-shinkin.json",
+      "html_url": "https://finwiki.zksc.io/JapanFG/kyoto-shinkin"
+    },
+    {
       "slug": "JapanFG/kyushu-fg",
       "domain": "JapanFG",
       "title": "九州 FG (Kyushu FG)",
@@ -2950,6 +2964,13 @@
       "title": "大阪商銀信用組合 (Osaka Shogin Credit Cooperative)",
       "api_url": "https://finwiki.zksc.io/api/entries/JapanFG/osaka-shogin-shinkumi.json",
       "html_url": "https://finwiki.zksc.io/JapanFG/osaka-shogin-shinkumi"
+    },
+    {
+      "slug": "JapanFG/osaka-shoko-shinkin",
+      "domain": "JapanFG",
+      "title": "大阪商工信用金庫",
+      "api_url": "https://finwiki.zksc.io/api/entries/JapanFG/osaka-shoko-shinkin.json",
+      "html_url": "https://finwiki.zksc.io/JapanFG/osaka-shoko-shinkin"
     },
     {
       "slug": "JapanFG/pacific-life-re-japan",
@@ -5059,6 +5080,13 @@
       "html_url": "https://finwiki.zksc.io/business/INDEX"
     },
     {
+      "slug": "business/aeon-financial-service-retail-bank-case",
+      "domain": "business",
+      "title": "Aeon Financial Service retail-bank case — a supermarket group's full financial holding: Aeon Bank + Aeon credit card + pan-Asia consumer finance",
+      "api_url": "https://finwiki.zksc.io/api/entries/business/aeon-financial-service-retail-bank-case.json",
+      "html_url": "https://finwiki.zksc.io/business/aeon-financial-service-retail-bank-case"
+    },
+    {
       "slug": "business/brian-armstrong-coinbase-public-company-template",
       "domain": "business",
       "title": "Brian Armstrong / Coinbase listed-exchange operating template · direct-listing IPO + regulatory-engagement strategy",
@@ -5122,6 +5150,13 @@
       "html_url": "https://finwiki.zksc.io/business/jpx-public-company-as-market-infrastructure"
     },
     {
+      "slug": "business/kddi-au-financial-bundling-case",
+      "domain": "business",
+      "title": "KDDI au financial bundling case — au-FH consolidates bank + payments, hands securities to MUFG in 2024 reciprocal swap",
+      "api_url": "https://finwiki.zksc.io/api/entries/business/kddi-au-financial-bundling-case.json",
+      "html_url": "https://finwiki.zksc.io/business/kddi-au-financial-bundling-case"
+    },
+    {
       "slug": "business/kitao-yoshitaka-sbi-independent-strategy-case",
       "domain": "business",
       "title": "独立路線事例 · 産業連合への不参加 + クロスボーダー・コンプライアンス価値への賭け(北尾吉孝 / SBI)",
@@ -5141,6 +5176,13 @@
       "title": "三身分COIテンプレート · VC GP + 大口顧客Board + 被投資先CEO 三角構造",
       "api_url": "https://finwiki.zksc.io/api/entries/business/matt-huang-triple-role-coi-template.json",
       "html_url": "https://finwiki.zksc.io/business/matt-huang-triple-role-coi-template"
+    },
+    {
+      "slug": "business/mizuho-rakuten-finance-stake-accumulation-case",
+      "domain": "business",
+      "title": "Mizuho × Rakuten finance stake-accumulation case — megabank serially buys into a cash-pressed conglomerate's finance subsidiaries (Securities 49% + Card 14.99% + Bank ~10%)",
+      "api_url": "https://finwiki.zksc.io/api/entries/business/mizuho-rakuten-finance-stake-accumulation-case.json",
+      "html_url": "https://finwiki.zksc.io/business/mizuho-rakuten-finance-stake-accumulation-case"
     },
     {
       "slug": "business/ntt-docomo-d-point-telco-finance-case",
@@ -5171,6 +5213,20 @@
       "html_url": "https://finwiki.zksc.io/business/sandeep-nailwal-polygon-india-dpi-pattern"
     },
     {
+      "slug": "business/seven-bank-atm-platform-deconsolidation-case",
+      "domain": "business",
+      "title": "Seven Bank ATM-platform + deconsolidation case — retailer-owned bank funded by interbank ATM fees, cut below 40% in Seven & i's 2025 portfolio reshape",
+      "api_url": "https://finwiki.zksc.io/api/entries/business/seven-bank-atm-platform-deconsolidation-case.json",
+      "html_url": "https://finwiki.zksc.io/business/seven-bank-atm-platform-deconsolidation-case"
+    },
+    {
+      "slug": "business/softbank-paypay-financial-integration-case",
+      "domain": "business",
+      "title": "SoftBank / PayPay financial integration case — super-app folds card / bank / securities under PayPay, then files for a US listing",
+      "api_url": "https://finwiki.zksc.io/api/entries/business/softbank-paypay-financial-integration-case.json",
+      "html_url": "https://finwiki.zksc.io/business/softbank-paypay-financial-integration-case"
+    },
+    {
       "slug": "business/softbank-vision-fund-arm-ipo-template",
       "domain": "business",
       "title": "SoftBank Vision Fund + Arm IPO template — fund-structured stake monetization via portfolio listing",
@@ -5185,11 +5241,60 @@
       "html_url": "https://finwiki.zksc.io/business/sony-fg-partial-spinoff-case"
     },
     {
+      "slug": "business/toyota-financial-services-captive-finance-case",
+      "domain": "business",
+      "title": "Toyota Financial Services captive-finance case — automaker-owned bank for the dealer channel, funded by auto-loan ABS",
+      "api_url": "https://finwiki.zksc.io/api/entries/business/toyota-financial-services-captive-finance-case.json",
+      "html_url": "https://finwiki.zksc.io/business/toyota-financial-services-captive-finance-case"
+    },
+    {
       "slug": "corporate-strategy/INDEX",
       "domain": "corporate-strategy",
       "title": "Corporate strategy domain",
       "api_url": "https://finwiki.zksc.io/api/entries/corporate-strategy/INDEX.json",
       "html_url": "https://finwiki.zksc.io/corporate-strategy/INDEX"
+    },
+    {
+      "slug": "corporate-strategy/japan-business-succession-jigyou-shoukei",
+      "domain": "corporate-strategy",
+      "title": "事業承継 (jigyou shoukei) — Japan business-succession framework and 事業承継税制 inheritance / gift-tax deferral (法人版 / 個人版)",
+      "api_url": "https://finwiki.zksc.io/api/entries/corporate-strategy/japan-business-succession-jigyou-shoukei.json",
+      "html_url": "https://finwiki.zksc.io/corporate-strategy/japan-business-succession-jigyou-shoukei"
+    },
+    {
+      "slug": "corporate-strategy/japan-gappei-merger-regime",
+      "domain": "corporate-strategy",
+      "title": "合併 (Japan corporate merger) — 吸収合併 / 新設合併 mechanics, 適格合併 tax treatment, and the triangular-merger variant",
+      "api_url": "https://finwiki.zksc.io/api/entries/corporate-strategy/japan-gappei-merger-regime.json",
+      "html_url": "https://finwiki.zksc.io/corporate-strategy/japan-gappei-merger-regime"
+    },
+    {
+      "slug": "corporate-strategy/japan-group-tsusan-consolidated-tax-regime",
+      "domain": "corporate-strategy",
+      "title": "グループ通算制度 (Japan group tax-sharing regime) — the 2022 successor to 連結納税, loss-offsetting in wholly-owned groups, and its interaction with restructuring",
+      "api_url": "https://finwiki.zksc.io/api/entries/corporate-strategy/japan-group-tsusan-consolidated-tax-regime.json",
+      "html_url": "https://finwiki.zksc.io/corporate-strategy/japan-group-tsusan-consolidated-tax-regime"
+    },
+    {
+      "slug": "corporate-strategy/japan-holding-company-conversion",
+      "domain": "corporate-strategy",
+      "title": "持株会社化 (Japan holding-company conversion) — 株式移転 / 株式交換 / 会社分割 (抜け殻方式) routes to pure and operating HoldCo structures",
+      "api_url": "https://finwiki.zksc.io/api/entries/corporate-strategy/japan-holding-company-conversion.json",
+      "html_url": "https://finwiki.zksc.io/corporate-strategy/japan-holding-company-conversion"
+    },
+    {
+      "slug": "corporate-strategy/japan-kabushiki-bunpai-spinoff-regime",
+      "domain": "corporate-strategy",
+      "title": "株式分配 (kabushiki bunpai) — Japan share-distribution / pure spin-off regime (適格株式分配) and how it differs from パーシャルスピンオフ",
+      "api_url": "https://finwiki.zksc.io/api/entries/corporate-strategy/japan-kabushiki-bunpai-spinoff-regime.json",
+      "html_url": "https://finwiki.zksc.io/corporate-strategy/japan-kabushiki-bunpai-spinoff-regime"
+    },
+    {
+      "slug": "corporate-strategy/japan-kabushiki-koukan-iten-regime",
+      "domain": "corporate-strategy",
+      "title": "株式交換 / 株式移転 (kabushiki koukan / iten) — share-exchange and share-transfer regime for wholly-owned subsidiary and holding-company formation",
+      "api_url": "https://finwiki.zksc.io/api/entries/corporate-strategy/japan-kabushiki-koukan-iten-regime.json",
+      "html_url": "https://finwiki.zksc.io/corporate-strategy/japan-kabushiki-koukan-iten-regime"
     },
     {
       "slug": "corporate-strategy/japan-kaisha-bunkatsu-tax-regime",
@@ -7964,6 +8069,27 @@
       "html_url": "https://finwiki.zksc.io/loyalty/jre-point-and-jre-bank-ecosystem"
     },
     {
+      "slug": "loyalty/loyalty-liability-customer-funded-float",
+      "domain": "loyalty",
+      "title": "Loyalty liability as customer-funded float (point balance as a financing instrument)",
+      "api_url": "https://finwiki.zksc.io/api/entries/loyalty/loyalty-liability-customer-funded-float.json",
+      "html_url": "https://finwiki.zksc.io/loyalty/loyalty-liability-customer-funded-float"
+    },
+    {
+      "slug": "loyalty/point-economy-funding-source-comparison",
+      "domain": "loyalty",
+      "title": "Japan point economy funding-source comparison (V / Rakuten / d / PayPay / Ponta anchors)",
+      "api_url": "https://finwiki.zksc.io/api/entries/loyalty/point-economy-funding-source-comparison.json",
+      "html_url": "https://finwiki.zksc.io/loyalty/point-economy-funding-source-comparison"
+    },
+    {
+      "slug": "loyalty/point-exchange-network-risk",
+      "domain": "loyalty",
+      "title": "Point exchange network risk (JP cross-program conversion economics)",
+      "api_url": "https://finwiki.zksc.io/api/entries/loyalty/point-exchange-network-risk.json",
+      "html_url": "https://finwiki.zksc.io/loyalty/point-exchange-network-risk"
+    },
+    {
       "slug": "loyalty/point-liability-accounting-boundary",
       "domain": "loyalty",
       "title": "Point liability accounting boundary (JP loyalty programs)",
@@ -7971,11 +8097,32 @@
       "html_url": "https://finwiki.zksc.io/loyalty/point-liability-accounting-boundary"
     },
     {
+      "slug": "loyalty/point-program-unit-economics",
+      "domain": "loyalty",
+      "title": "Point program unit economics (JP loyalty funding, float, breakage, CPA)",
+      "api_url": "https://finwiki.zksc.io/api/entries/loyalty/point-program-unit-economics.json",
+      "html_url": "https://finwiki.zksc.io/loyalty/point-program-unit-economics"
+    },
+    {
       "slug": "loyalty/ponta-points-deep-dive",
       "domain": "loyalty",
       "title": "Ponta points deep dive — Loyalty Marketing Inc., KDDI au PAY integration, Lawson + Mitsubishi anchor",
       "api_url": "https://finwiki.zksc.io/api/entries/loyalty/ponta-points-deep-dive.json",
       "html_url": "https://finwiki.zksc.io/loyalty/ponta-points-deep-dive"
+    },
+    {
+      "slug": "loyalty/rakuten-point-ecosystem-deep",
+      "domain": "loyalty",
+      "title": "Rakuten Point ecosystem deep (楽天ポイント / 楽天経済圏 SPU flywheel)",
+      "api_url": "https://finwiki.zksc.io/api/entries/loyalty/rakuten-point-ecosystem-deep.json",
+      "html_url": "https://finwiki.zksc.io/loyalty/rakuten-point-ecosystem-deep"
+    },
+    {
+      "slug": "loyalty/retail-media-points-data-loop",
+      "domain": "loyalty",
+      "title": "Retail-media points data loop (JP point programs as ID-graph infrastructure)",
+      "api_url": "https://finwiki.zksc.io/api/entries/loyalty/retail-media-points-data-loop.json",
+      "html_url": "https://finwiki.zksc.io/loyalty/retail-media-points-data-loop"
     },
     {
       "slug": "loyalty/sb-yahoo-paypay-points-unified-ecosystem",
@@ -8006,6 +8153,20 @@
       "html_url": "https://finwiki.zksc.io/manufacturer-finance/INDEX"
     },
     {
+      "slug": "manufacturer-finance/export-finance-mechanism",
+      "domain": "manufacturer-finance",
+      "title": "Export Finance Mechanism (輸出金融の仕組み — buyer credit / supplier credit / ECA)",
+      "api_url": "https://finwiki.zksc.io/api/entries/manufacturer-finance/export-finance-mechanism.json",
+      "html_url": "https://finwiki.zksc.io/manufacturer-finance/export-finance-mechanism"
+    },
+    {
+      "slug": "manufacturer-finance/floorplan-finance-mechanism",
+      "domain": "manufacturer-finance",
+      "title": "Floorplan / Wholesale Finance Mechanism (フロアプラン・在庫金融の仕組み)",
+      "api_url": "https://finwiki.zksc.io/api/entries/manufacturer-finance/floorplan-finance-mechanism.json",
+      "html_url": "https://finwiki.zksc.io/manufacturer-finance/floorplan-finance-mechanism"
+    },
+    {
       "slug": "manufacturer-finance/hitachi-industrial-finance-platform",
       "domain": "manufacturer-finance",
       "title": "Hitachi Industrial Finance Platform (日立グループ産業金融プラットフォーム)",
@@ -8013,11 +8174,32 @@
       "html_url": "https://finwiki.zksc.io/manufacturer-finance/hitachi-industrial-finance-platform"
     },
     {
+      "slug": "manufacturer-finance/honda-finance",
+      "domain": "manufacturer-finance",
+      "title": "Honda Finance (ホンダ captive auto-finance arm / American Honda Finance Corporation)",
+      "api_url": "https://finwiki.zksc.io/api/entries/manufacturer-finance/honda-finance.json",
+      "html_url": "https://finwiki.zksc.io/manufacturer-finance/honda-finance"
+    },
+    {
+      "slug": "manufacturer-finance/komatsu-captive-finance",
+      "domain": "manufacturer-finance",
+      "title": "Komatsu Captive Finance (コマツ顧客金融 / Komatsu Financial)",
+      "api_url": "https://finwiki.zksc.io/api/entries/manufacturer-finance/komatsu-captive-finance.json",
+      "html_url": "https://finwiki.zksc.io/manufacturer-finance/komatsu-captive-finance"
+    },
+    {
       "slug": "manufacturer-finance/mitsubishi-heavy-export-finance",
       "domain": "manufacturer-finance",
       "title": "Mitsubishi Heavy Export Finance (三菱重工 輸出金融プラットフォーム)",
       "api_url": "https://finwiki.zksc.io/api/entries/manufacturer-finance/mitsubishi-heavy-export-finance.json",
       "html_url": "https://finwiki.zksc.io/manufacturer-finance/mitsubishi-heavy-export-finance"
+    },
+    {
+      "slug": "manufacturer-finance/nissan-financial-services",
+      "domain": "manufacturer-finance",
+      "title": "Nissan Financial Services (日産系 captive auto-finance arm / Nissan Motor Acceptance Company)",
+      "api_url": "https://finwiki.zksc.io/api/entries/manufacturer-finance/nissan-financial-services.json",
+      "html_url": "https://finwiki.zksc.io/manufacturer-finance/nissan-financial-services"
     },
     {
       "slug": "manufacturer-finance/panasonic-captive-finance",
@@ -8055,11 +8237,25 @@
       "html_url": "https://finwiki.zksc.io/manufacturer-finance/toyota-motor"
     },
     {
+      "slug": "manufacturer-finance/vendor-finance-mechanism",
+      "domain": "manufacturer-finance",
+      "title": "Captive / Vendor Finance Mechanism (captive・vendor finance の仕組み)",
+      "api_url": "https://finwiki.zksc.io/api/entries/manufacturer-finance/vendor-finance-mechanism.json",
+      "html_url": "https://finwiki.zksc.io/manufacturer-finance/vendor-finance-mechanism"
+    },
+    {
       "slug": "money-market/INDEX",
       "domain": "money-market",
       "title": "Money market domain",
       "api_url": "https://finwiki.zksc.io/api/entries/money-market/INDEX.json",
       "html_url": "https://finwiki.zksc.io/money-market/INDEX"
+    },
+    {
+      "slug": "money-market/boj-net-funds-transfer-system-rtgs-settlement",
+      "domain": "money-market",
+      "title": "BOJ-NET Funds Transfer System and RTGS settlement",
+      "api_url": "https://finwiki.zksc.io/api/entries/money-market/boj-net-funds-transfer-system-rtgs-settlement.json",
+      "html_url": "https://finwiki.zksc.io/money-market/boj-net-funds-transfer-system-rtgs-settlement"
     },
     {
       "slug": "money-market/boj-open-market-operations",
@@ -8097,6 +8293,13 @@
       "html_url": "https://finwiki.zksc.io/money-market/japan-mmf-money-market-mutual-fund"
     },
     {
+      "slug": "money-market/japan-money-market-benchmark-reform-tona",
+      "domain": "money-market",
+      "title": "Japan money-market benchmark reform (TONA and the multi-rate world)",
+      "api_url": "https://finwiki.zksc.io/api/entries/money-market/japan-money-market-benchmark-reform-tona.json",
+      "html_url": "https://finwiki.zksc.io/money-market/japan-money-market-benchmark-reform-tona"
+    },
+    {
       "slug": "money-market/japan-money-market",
       "domain": "money-market",
       "title": "Japan money market",
@@ -8111,6 +8314,13 @@
       "html_url": "https://finwiki.zksc.io/money-market/japan-ncd-negotiable-cd-market"
     },
     {
+      "slug": "money-market/japan-repo-transaction-structures-gensaki-cash-collateralized-securities-lending",
+      "domain": "money-market",
+      "title": "Japan repo transaction structures: gensaki vs cash-collateralized securities lending",
+      "api_url": "https://finwiki.zksc.io/api/entries/money-market/japan-repo-transaction-structures-gensaki-cash-collateralized-securities-lending.json",
+      "html_url": "https://finwiki.zksc.io/money-market/japan-repo-transaction-structures-gensaki-cash-collateralized-securities-lending"
+    },
+    {
       "slug": "money-market/japan-short-term-funding-instrument-matrix",
       "domain": "money-market",
       "title": "Japan short-term funding instrument matrix",
@@ -8123,6 +8333,27 @@
       "title": "Japan Treasury Discount Bills (TDB / 国庫短期証券)",
       "api_url": "https://finwiki.zksc.io/api/entries/money-market/japan-tbill-treasury-discount-bill.json",
       "html_url": "https://finwiki.zksc.io/money-market/japan-tbill-treasury-discount-bill"
+    },
+    {
+      "slug": "money-market/japan-tibor-benchmark-rate",
+      "domain": "money-market",
+      "title": "TIBOR (Tokyo Interbank Offered Rate)",
+      "api_url": "https://finwiki.zksc.io/api/entries/money-market/japan-tibor-benchmark-rate.json",
+      "html_url": "https://finwiki.zksc.io/money-market/japan-tibor-benchmark-rate"
+    },
+    {
+      "slug": "money-market/japan-torf-term-risk-free-rate",
+      "domain": "money-market",
+      "title": "TORF (Tokyo Term Risk Free Rate)",
+      "api_url": "https://finwiki.zksc.io/api/entries/money-market/japan-torf-term-risk-free-rate.json",
+      "html_url": "https://finwiki.zksc.io/money-market/japan-torf-term-risk-free-rate"
+    },
+    {
+      "slug": "money-market/japan-uncollateralized-vs-collateralized-call-market",
+      "domain": "money-market",
+      "title": "Uncollateralized vs collateralized call market (Japan)",
+      "api_url": "https://finwiki.zksc.io/api/entries/money-market/japan-uncollateralized-vs-collateralized-call-market.json",
+      "html_url": "https://finwiki.zksc.io/money-market/japan-uncollateralized-vs-collateralized-call-market"
     },
     {
       "slug": "money-market/jgb-repo-market-japan",
@@ -8153,11 +8384,32 @@
       "html_url": "https://finwiki.zksc.io/non-profit/japan-general-foundation-establishment-requirements"
     },
     {
+      "slug": "non-profit/japan-ippan-vs-koeki-shadan-houjin",
+      "domain": "non-profit",
+      "title": "日本 一般社団法人 vs 公益社団法人 — general vs public-interest incorporated association",
+      "api_url": "https://finwiki.zksc.io/api/entries/non-profit/japan-ippan-vs-koeki-shadan-houjin.json",
+      "html_url": "https://finwiki.zksc.io/non-profit/japan-ippan-vs-koeki-shadan-houjin"
+    },
+    {
       "slug": "non-profit/japan-koeki-vs-general-zaidan-comparison",
       "domain": "non-profit",
       "title": "公益財団 vs 一般財団 vs 一般社団 vs NPO法人 — Japan non-profit / public-interest legal form comparison",
       "api_url": "https://finwiki.zksc.io/api/entries/non-profit/japan-koeki-vs-general-zaidan-comparison.json",
       "html_url": "https://finwiki.zksc.io/non-profit/japan-koeki-vs-general-zaidan-comparison"
+    },
+    {
+      "slug": "non-profit/japan-nintei-npo-houjin-tax-benefits",
+      "domain": "non-profit",
+      "title": "日本 認定NPO法人 — certification route and donor tax benefits",
+      "api_url": "https://finwiki.zksc.io/api/entries/non-profit/japan-nintei-npo-houjin-tax-benefits.json",
+      "html_url": "https://finwiki.zksc.io/non-profit/japan-nintei-npo-houjin-tax-benefits"
+    },
+    {
+      "slug": "non-profit/japan-npo-houjin-overview",
+      "domain": "non-profit",
+      "title": "日本 NPO法人（特定非営利活動法人）— legal structure overview",
+      "api_url": "https://finwiki.zksc.io/api/entries/non-profit/japan-npo-houjin-overview.json",
+      "html_url": "https://finwiki.zksc.io/non-profit/japan-npo-houjin-overview"
     },
     {
       "slug": "non-profit/japan-research-grant-map-2026",
@@ -8916,11 +9168,25 @@
       "html_url": "https://finwiki.zksc.io/retail/familymart-itochu-financial-integration"
     },
     {
+      "slug": "retail/japan-retail-economic-sphere-comparison",
+      "domain": "retail",
+      "title": "Japan Retail Economic-Sphere Comparison",
+      "api_url": "https://finwiki.zksc.io/api/entries/retail/japan-retail-economic-sphere-comparison.json",
+      "html_url": "https://finwiki.zksc.io/retail/japan-retail-economic-sphere-comparison"
+    },
+    {
       "slug": "retail/japan-retail-financial-distribution-wedge-matrix",
       "domain": "retail",
       "title": "Japan retail financial-distribution wedge matrix",
       "api_url": "https://finwiki.zksc.io/api/entries/retail/japan-retail-financial-distribution-wedge-matrix.json",
       "html_url": "https://finwiki.zksc.io/retail/japan-retail-financial-distribution-wedge-matrix"
+    },
+    {
+      "slug": "retail/japan-retail-media-finance-loop",
+      "domain": "retail",
+      "title": "Japan Retail Media and Finance Data Loop",
+      "api_url": "https://finwiki.zksc.io/api/entries/retail/japan-retail-media-finance-loop.json",
+      "html_url": "https://finwiki.zksc.io/retail/japan-retail-media-finance-loop"
     },
     {
       "slug": "retail/lawson-kddi-retail-finance",
@@ -8949,6 +9215,13 @@
       "title": "Seven & i Holdings finance deep dive — 7-Bank, ATM platform, nanaco, EC acquiring, 2024 York reorganization",
       "api_url": "https://finwiki.zksc.io/api/entries/retail/seven-i-holdings-finance-deep-dive.json",
       "html_url": "https://finwiki.zksc.io/retail/seven-i-holdings-finance-deep-dive"
+    },
+    {
+      "slug": "retail/store-traffic-as-financial-distribution",
+      "domain": "retail",
+      "title": "Store Traffic as Financial Distribution",
+      "api_url": "https://finwiki.zksc.io/api/entries/retail/store-traffic-as-financial-distribution.json",
+      "html_url": "https://finwiki.zksc.io/retail/store-traffic-as-financial-distribution"
     },
     {
       "slug": "securities/INDEX",
@@ -9196,6 +9469,13 @@
       "html_url": "https://finwiki.zksc.io/security/bytecode-forensic-three-tier-verify"
     },
     {
+      "slug": "security/etherscan-verified-source-poisoning",
+      "domain": "security",
+      "title": "Etherscan verified-source poisoning — why \"verified\" is not \"the bytecode\"",
+      "api_url": "https://finwiki.zksc.io/api/entries/security/etherscan-verified-source-poisoning.json",
+      "html_url": "https://finwiki.zksc.io/security/etherscan-verified-source-poisoning"
+    },
+    {
       "slug": "security/forensic-identity-anchor-chain",
       "domain": "security",
       "title": "チームの真の身元フォレンジック・アンカーチェーン — 多源指紋の合成",
@@ -9210,11 +9490,32 @@
       "html_url": "https://finwiki.zksc.io/security/fork-and-rebrand-5-layer-audit-framework"
     },
     {
+      "slug": "security/git-history-rewrite-detection",
+      "domain": "security",
+      "title": "Git history rewrite detection — recovering squashed and force-pushed states",
+      "api_url": "https://finwiki.zksc.io/api/entries/security/git-history-rewrite-detection.json",
+      "html_url": "https://finwiki.zksc.io/security/git-history-rewrite-detection"
+    },
+    {
       "slug": "security/module-path-confusion-supply-chain-attack",
       "domain": "security",
       "title": "Module path confusion + LICENSE strip = サプライチェーン攻撃の三連撃",
       "api_url": "https://finwiki.zksc.io/api/entries/security/module-path-confusion-supply-chain-attack.json",
       "html_url": "https://finwiki.zksc.io/security/module-path-confusion-supply-chain-attack"
+    },
+    {
+      "slug": "security/proxy-upgrade-rug-pattern",
+      "domain": "security",
+      "title": "Proxy-upgradeable contract rug pattern — admin upgrade rights as a backdoor",
+      "api_url": "https://finwiki.zksc.io/api/entries/security/proxy-upgrade-rug-pattern.json",
+      "html_url": "https://finwiki.zksc.io/security/proxy-upgrade-rug-pattern"
+    },
+    {
+      "slug": "security/typosquatting-package-detection-checklist",
+      "domain": "security",
+      "title": "Typosquatting package detection checklist — npm / PyPI / Go name-confusion triage",
+      "api_url": "https://finwiki.zksc.io/api/entries/security/typosquatting-package-detection-checklist.json",
+      "html_url": "https://finwiki.zksc.io/security/typosquatting-package-detection-checklist"
     },
     {
       "slug": "security/wayback-machine-as-forensic-tool",
@@ -9875,6 +10176,20 @@
       "html_url": "https://finwiki.zksc.io/trade/INDEX"
     },
     {
+      "slug": "trade/documentary-collection-vs-letter-of-credit",
+      "domain": "trade",
+      "title": "Documentary collection vs letter of credit — trade settlement methods compared",
+      "api_url": "https://finwiki.zksc.io/api/entries/trade/documentary-collection-vs-letter-of-credit.json",
+      "html_url": "https://finwiki.zksc.io/trade/documentary-collection-vs-letter-of-credit"
+    },
+    {
+      "slug": "trade/incoterms-2020-trade-terms-framework",
+      "domain": "trade",
+      "title": "Incoterms 2020 — the ICC trade-terms framework",
+      "api_url": "https://finwiki.zksc.io/api/entries/trade/incoterms-2020-trade-terms-framework.json",
+      "html_url": "https://finwiki.zksc.io/trade/incoterms-2020-trade-terms-framework"
+    },
+    {
       "slug": "trade/jetro-members-gateway-model",
       "domain": "trade",
       "title": "JETRO Members 有料会員制は B2B 提案の入口ゲート",
@@ -9894,6 +10209,13 @@
       "title": "JETRO vs NEXI vs JBIC — Japan export-promotion / insurance / financing three-pillar comparison",
       "api_url": "https://finwiki.zksc.io/api/entries/trade/jetro-vs-nexi-vs-jbic-comparison.json",
       "html_url": "https://finwiki.zksc.io/trade/jetro-vs-nexi-vs-jbic-comparison"
+    },
+    {
+      "slug": "trade/letter-of-credit-documentary-mechanism",
+      "domain": "trade",
+      "title": "Letter of credit (documentary credit) — the trade-settlement mechanism",
+      "api_url": "https://finwiki.zksc.io/api/entries/trade/letter-of-credit-documentary-mechanism.json",
+      "html_url": "https://finwiki.zksc.io/trade/letter-of-credit-documentary-mechanism"
     }
   ]
 }

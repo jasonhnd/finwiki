@@ -1,0 +1,99 @@
+{
+  "schema_version": "1.0",
+  "slug": "retail/japan-retail-media-finance-loop",
+  "source_path": "retail/japan-retail-media-finance-loop.md",
+  "url": "https://finwiki.zksc.io/retail/japan-retail-media-finance-loop",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/retail/japan-retail-media-finance-loop.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/retail/japan-retail-media-finance-loop.md",
+  "domain": "retail",
+  "title": "Japan Retail Media and Finance Data Loop",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Japan Retail Media and Finance Data Loop",
+    "aliases": [
+      "retail/japan-retail-media-finance-loop",
+      "japan-retail-media-finance-loop",
+      "retail media finance convergence Japan",
+      "リテールメディアと金融データループ"
+    ],
+    "domain": "retail",
+    "created": "2026-06-03",
+    "last_updated": "2026-06-03",
+    "last_tended": "2026-06-03",
+    "review_by": "2026-12-03",
+    "confidence": "possible",
+    "tags": [
+      "retail",
+      "retail-media",
+      "loyalty",
+      "payments",
+      "financial-services",
+      "data",
+      "advertising"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.rokt.com/blog/retail-media-in-japan-isnt-emerging-its-evolving",
+      "https://www.mitsui.com/mgssi/en/report/detail/__icsFiles/afieldfile/2025/12/23/2511_i_takashima_e.pdf",
+      "https://www.aeon.info/en/company/",
+      "https://www.7andi.com/en/company/profile",
+      "https://www.rakuten.com/"
+    ]
+  },
+  "summary": "This entry routes from the retail INDEX and explains a convergence the group pages only touch: in Japanese retail-finance ecosystems, retail media (in-store and app advertising), loyalty points, payment, and card data are collapsing into a single data loop. It is the data-and-advertising companion t",
+  "headings": [
+    "Japan Retail Media and Finance Data Loop",
+    "Wiki route",
+    "What \"retail media\" means here",
+    "The loop",
+    "Why finance is inside the loop, not beside it",
+    "Governance and boundary notes",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 15,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/legal-financial-licenses/INDEX",
+      "JapanFG/paypay-fg",
+      "JapanFG/rakuten-fg",
+      "loyalty/japan-points-landscape",
+      "loyalty/point-liability-accounting-boundary",
+      "payments/cashless-jp-landscape",
+      "payments/credit-purchase-card-operators-japan-index",
+      "payments/famipay-valucreate-strategy",
+      "payments/nanaco-prepaid-seven-i",
+      "payments/waon-prepaid-aeon",
+      "retail/INDEX",
+      "retail/familymart-itochu-financial-integration",
+      "retail/japan-retail-economic-sphere-comparison",
+      "retail/store-traffic-as-financial-distribution"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX",
+      "https://finwiki.zksc.io/JapanFG/paypay-fg",
+      "https://finwiki.zksc.io/JapanFG/rakuten-fg",
+      "https://finwiki.zksc.io/loyalty/japan-points-landscape",
+      "https://finwiki.zksc.io/loyalty/point-liability-accounting-boundary",
+      "https://finwiki.zksc.io/payments/cashless-jp-landscape",
+      "https://finwiki.zksc.io/payments/credit-purchase-card-operators-japan-index",
+      "https://finwiki.zksc.io/payments/famipay-valucreate-strategy",
+      "https://finwiki.zksc.io/payments/nanaco-prepaid-seven-i",
+      "https://finwiki.zksc.io/payments/waon-prepaid-aeon",
+      "https://finwiki.zksc.io/retail/INDEX",
+      "https://finwiki.zksc.io/retail/familymart-itochu-financial-integration",
+      "https://finwiki.zksc.io/retail/japan-retail-economic-sphere-comparison",
+      "https://finwiki.zksc.io/retail/store-traffic-as-financial-distribution"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 5507,
+    "word_like_tokens": 888,
+    "inbound_wikilinks_count": 2,
+    "last_modified": "2026-06-03"
+  }
+}

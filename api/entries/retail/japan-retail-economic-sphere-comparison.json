@@ -1,0 +1,110 @@
+{
+  "schema_version": "1.0",
+  "slug": "retail/japan-retail-economic-sphere-comparison",
+  "source_path": "retail/japan-retail-economic-sphere-comparison.md",
+  "url": "https://finwiki.zksc.io/retail/japan-retail-economic-sphere-comparison",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/retail/japan-retail-economic-sphere-comparison.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/retail/japan-retail-economic-sphere-comparison.md",
+  "domain": "retail",
+  "title": "Japan Retail Economic-Sphere Comparison",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Japan Retail Economic-Sphere Comparison",
+    "aliases": [
+      "retail/japan-retail-economic-sphere-comparison",
+      "japan-retail-economic-sphere-comparison",
+      "Japan keizaiken comparison",
+      "PayPay vs Rakuten economic sphere",
+      "日本 経済圏 比較"
+    ],
+    "domain": "retail",
+    "created": "2026-06-03",
+    "last_updated": "2026-06-03",
+    "last_tended": "2026-06-03",
+    "review_by": "2026-12-03",
+    "confidence": "possible",
+    "tags": [
+      "retail",
+      "economic-sphere",
+      "loyalty",
+      "payments",
+      "financial-services",
+      "platform",
+      "ecosystem"
+    ],
+    "status": "active",
+    "sources": [
+      "https://global.rakuten.com/corp/news/press/2026/0522_01.html",
+      "https://symphony.rakuten.com/ecosystem",
+      "https://about.paypay.ne.jp/",
+      "https://www.rokt.com/blog/retail-media-in-japan-isnt-emerging-its-evolving",
+      "https://www.aeon.info/en/company/"
+    ]
+  },
+  "summary": "This entry routes from the retail INDEX and compares the \"economic sphere\" (経済圏, keizaiken) operating model across Japan's major consumer ecosystems — PayPay, Rakuten, the telco-anchored groups, and the in-house retail spheres. An economic sphere is a self-reinforcing membership ecosystem where one",
+  "headings": [
+    "Japan Retail Economic-Sphere Comparison",
+    "Wiki route",
+    "The anchor question: what holds the sphere together?",
+    "How the spheres recruit and bind",
+    "Open vs closed: the central trade-off",
+    "Why this matters for finance",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 20,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/au-fh",
+      "JapanFG/legal-financial-licenses/INDEX",
+      "JapanFG/ntt-docomo-sonpo",
+      "JapanFG/paypay-card",
+      "JapanFG/paypay-fg",
+      "JapanFG/rakuten-card",
+      "JapanFG/rakuten-fg",
+      "JapanFG/rakuten-securities",
+      "loyalty/d-point-detailed-ecosystem",
+      "loyalty/japan-points-landscape",
+      "loyalty/ponta-points-deep-dive",
+      "payments/cashless-jp-landscape",
+      "retail/INDEX",
+      "retail/aeon-group",
+      "retail/japan-retail-financial-distribution-wedge-matrix",
+      "retail/japan-retail-media-finance-loop",
+      "retail/lawson-kddi-retail-finance",
+      "retail/seven-and-i-hd",
+      "retail/store-traffic-as-financial-distribution"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/au-fh",
+      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX",
+      "https://finwiki.zksc.io/JapanFG/ntt-docomo-sonpo",
+      "https://finwiki.zksc.io/JapanFG/paypay-card",
+      "https://finwiki.zksc.io/JapanFG/paypay-fg",
+      "https://finwiki.zksc.io/JapanFG/rakuten-card",
+      "https://finwiki.zksc.io/JapanFG/rakuten-fg",
+      "https://finwiki.zksc.io/JapanFG/rakuten-securities",
+      "https://finwiki.zksc.io/loyalty/d-point-detailed-ecosystem",
+      "https://finwiki.zksc.io/loyalty/japan-points-landscape",
+      "https://finwiki.zksc.io/loyalty/ponta-points-deep-dive",
+      "https://finwiki.zksc.io/payments/cashless-jp-landscape",
+      "https://finwiki.zksc.io/retail/INDEX",
+      "https://finwiki.zksc.io/retail/aeon-group",
+      "https://finwiki.zksc.io/retail/japan-retail-financial-distribution-wedge-matrix",
+      "https://finwiki.zksc.io/retail/japan-retail-media-finance-loop",
+      "https://finwiki.zksc.io/retail/lawson-kddi-retail-finance",
+      "https://finwiki.zksc.io/retail/seven-and-i-hd",
+      "https://finwiki.zksc.io/retail/store-traffic-as-financial-distribution"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 6229,
+    "word_like_tokens": 999,
+    "inbound_wikilinks_count": 2,
+    "last_modified": "2026-06-03"
+  }
+}

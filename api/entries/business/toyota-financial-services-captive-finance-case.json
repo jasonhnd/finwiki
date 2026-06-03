@@ -1,0 +1,103 @@
+{
+  "schema_version": "1.0",
+  "slug": "business/toyota-financial-services-captive-finance-case",
+  "source_path": "business/toyota-financial-services-captive-finance-case.md",
+  "url": "https://finwiki.zksc.io/business/toyota-financial-services-captive-finance-case",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/business/toyota-financial-services-captive-finance-case.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/business/toyota-financial-services-captive-finance-case.md",
+  "domain": "business",
+  "title": "Toyota Financial Services captive-finance case — automaker-owned bank for the dealer channel, funded by auto-loan ABS",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Toyota Financial Services captive-finance case — automaker-owned bank for the dealer channel, funded by auto-loan ABS",
+    "aliases": [
+      "toyota-financial-services-captive-finance-case",
+      "TFS captive finance case",
+      "Toyota Financial Services business model",
+      "automaker captive finance template",
+      "トヨタ キャプティブファイナンス ケース"
+    ],
+    "domain": "business",
+    "created": "2026-06-03",
+    "last_updated": "2026-06-03",
+    "last_tended": "2026-06-03",
+    "review_by": "2026-12-03",
+    "confidence": "likely",
+    "tags": [
+      "business",
+      "case-study",
+      "toyota",
+      "captive-finance",
+      "auto-finance",
+      "abs",
+      "securitization",
+      "japan"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.toyotafinancial.com/us/en/about_us/company_overview.html",
+      "https://global.toyota/en/ir/",
+      "https://www.toyota-europe.com/brands-and-services/toyota-financial-services",
+      "https://en.wikipedia.org/wiki/Toyota_Financial_Services",
+      "https://www.toyotafinancial.com/"
+    ]
+  },
+  "summary": "This entry sits under business INDEX as a public-company strategic case (captive-finance subsidiary of a listed automaker). Read it against the dedicated Toyota Financial Services entity profile and its peers Honda Finance and Panasonic captive finance for the broader captive-finance pattern, and ag",
+  "headings": [
+    "Toyota Financial Services captive-finance case — automaker-owned bank for the dealer channel, funded by auto-loan ABS",
+    "Wiki route",
+    "TL;DR",
+    "1. What A Captive Finance Company Does",
+    "2. Why Automakers Run Their Own Bank",
+    "3. How TFS Funds Itself — ABS, Not Deposits",
+    "4. Scale And Market Position",
+    "5. Comparison — Captive Finance vs Telco / Super-App Finance",
+    "6. Read-Across To Other Captive Finance Arms",
+    "7. Counterpoints"
+  ],
+  "body_links": {
+    "wikilinks_count": 15,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/toyota-finance",
+      "business/INDEX",
+      "business/kddi-au-financial-bundling-case",
+      "business/ntt-docomo-d-point-telco-finance-case",
+      "business/softbank-paypay-financial-integration-case",
+      "business/sony-fg-partial-spinoff-case",
+      "manufacturer-finance/INDEX",
+      "manufacturer-finance/honda-finance",
+      "manufacturer-finance/panasonic-captive-finance",
+      "manufacturer-finance/sony-group-finance-arm",
+      "manufacturer-finance/toyota-financial-services",
+      "manufacturer-finance/vendor-finance-mechanism",
+      "structured-finance/INDEX",
+      "structured-finance/auto-loan-abs-japan-toyota-honda"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/toyota-finance",
+      "https://finwiki.zksc.io/business/INDEX",
+      "https://finwiki.zksc.io/business/kddi-au-financial-bundling-case",
+      "https://finwiki.zksc.io/business/ntt-docomo-d-point-telco-finance-case",
+      "https://finwiki.zksc.io/business/softbank-paypay-financial-integration-case",
+      "https://finwiki.zksc.io/business/sony-fg-partial-spinoff-case",
+      "https://finwiki.zksc.io/manufacturer-finance/INDEX",
+      "https://finwiki.zksc.io/manufacturer-finance/honda-finance",
+      "https://finwiki.zksc.io/manufacturer-finance/panasonic-captive-finance",
+      "https://finwiki.zksc.io/manufacturer-finance/sony-group-finance-arm",
+      "https://finwiki.zksc.io/manufacturer-finance/toyota-financial-services",
+      "https://finwiki.zksc.io/manufacturer-finance/vendor-finance-mechanism",
+      "https://finwiki.zksc.io/structured-finance/INDEX",
+      "https://finwiki.zksc.io/structured-finance/auto-loan-abs-japan-toyota-honda"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 10743,
+    "word_like_tokens": 1725,
+    "inbound_wikilinks_count": 2,
+    "last_modified": "2026-06-03"
+  }
+}

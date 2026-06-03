@@ -1,0 +1,109 @@
+{
+  "schema_version": "1.0",
+  "slug": "money-market/japan-tibor-benchmark-rate",
+  "source_path": "money-market/japan-tibor-benchmark-rate.md",
+  "url": "https://finwiki.zksc.io/money-market/japan-tibor-benchmark-rate",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/money-market/japan-tibor-benchmark-rate.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/money-market/japan-tibor-benchmark-rate.md",
+  "domain": "money-market",
+  "title": "TIBOR (Tokyo Interbank Offered Rate)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "TIBOR (Tokyo Interbank Offered Rate)",
+    "aliases": [
+      "money-market/japan-tibor-benchmark-rate",
+      "japan-tibor-benchmark-rate",
+      "TIBOR",
+      "Tokyo Interbank Offered Rate",
+      "Japanese Yen TIBOR",
+      "Euroyen TIBOR",
+      "JBA TIBOR",
+      "東京銀行間取引金利",
+      "全銀協TIBOR"
+    ],
+    "domain": "money-market",
+    "created": "2026-06-03",
+    "last_updated": "2026-06-03",
+    "last_tended": "2026-06-03",
+    "review_by": "2026-12-03",
+    "confidence": "likely",
+    "tags": [
+      "money-market",
+      "TIBOR",
+      "benchmark",
+      "JBATA",
+      "reference-rate",
+      "interbank"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.jbatibor.or.jp/english/about/",
+      "https://www.jbatibor.or.jp/english/reform/",
+      "https://www.jbatibor.or.jp/english/news/tibor_18.html",
+      "https://www.boj.or.jp/en/paym/market/jpy_cmte/index.htm",
+      "https://www.fsa.go.jp/en/news/2024/20240306/20240306.html"
+    ]
+  },
+  "summary": "This entry sits under money-market index. Read it against Japan money-market benchmark reform for peer / contrast context with the TONA risk-free rate, Call market structure for the actual transacted overnight market, and the Japanese Bankers Association for the administering institution.",
+  "headings": [
+    "TIBOR (Tokyo Interbank Offered Rate)",
+    "Wiki route",
+    "TL;DR",
+    "What TIBOR Measures",
+    "D-TIBOR vs Z-TIBOR",
+    "TIBOR vs TONA",
+    "Where TIBOR Is Used",
+    "Governance and Reform Context",
+    "Reading Checklist",
+    "JapanFG Relevance"
+  ],
+  "body_links": {
+    "wikilinks_count": 17,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/boj-monetary-policy",
+      "JapanFG/fsa",
+      "JapanFG/mizuho-fg",
+      "JapanFG/mufg",
+      "JapanFG/smfg",
+      "JapanFG/zenginkyo",
+      "derivatives/japan-interest-rate-derivatives-overview",
+      "derivatives/japan-irs-market",
+      "derivatives/ois-tona-curve",
+      "money-market/INDEX",
+      "money-market/boj-open-market-operations",
+      "money-market/call-market-structure",
+      "money-market/japan-money-market",
+      "money-market/japan-money-market-benchmark-reform-tona",
+      "money-market/japan-ncd-negotiable-cd-market",
+      "money-market/japan-uncollateralized-vs-collateralized-call-market"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/boj-monetary-policy",
+      "https://finwiki.zksc.io/JapanFG/fsa",
+      "https://finwiki.zksc.io/JapanFG/mizuho-fg",
+      "https://finwiki.zksc.io/JapanFG/mufg",
+      "https://finwiki.zksc.io/JapanFG/smfg",
+      "https://finwiki.zksc.io/JapanFG/zenginkyo",
+      "https://finwiki.zksc.io/derivatives/japan-interest-rate-derivatives-overview",
+      "https://finwiki.zksc.io/derivatives/japan-irs-market",
+      "https://finwiki.zksc.io/derivatives/ois-tona-curve",
+      "https://finwiki.zksc.io/money-market/INDEX",
+      "https://finwiki.zksc.io/money-market/boj-open-market-operations",
+      "https://finwiki.zksc.io/money-market/call-market-structure",
+      "https://finwiki.zksc.io/money-market/japan-money-market",
+      "https://finwiki.zksc.io/money-market/japan-money-market-benchmark-reform-tona",
+      "https://finwiki.zksc.io/money-market/japan-ncd-negotiable-cd-market",
+      "https://finwiki.zksc.io/money-market/japan-uncollateralized-vs-collateralized-call-market"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 8384,
+    "word_like_tokens": 1365,
+    "inbound_wikilinks_count": 4,
+    "last_modified": "2026-06-03"
+  }
+}

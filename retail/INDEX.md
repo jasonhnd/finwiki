@@ -25,7 +25,7 @@ sources:
 
 This domain routes retail groups when they matter to finance: store traffic, card issuing, prepaid electronic money, loyalty points, ATM networks, retail media, and embedded financial distribution.
 
-The domain now tracks four retail-finance groups — [[retail/aeon-group|AEON Group]], [[retail/seven-and-i-hd|Seven & i Holdings]], [[retail/lawson-kddi-retail-finance|Lawson + KDDI]], and [[retail/familymart-itochu-financial-integration|FamilyMart + Itochu]] — plus a cross-case wedge matrix and per-group deep dives. The canonical cross-group comparison is [[retail/japan-retail-financial-distribution-wedge-matrix|Japan retail financial-distribution wedge matrix]].
+The domain now tracks four retail-finance groups — [[retail/aeon-group|AEON Group]], [[retail/seven-and-i-hd|Seven & i Holdings]], [[retail/lawson-kddi-retail-finance|Lawson + KDDI]], and [[retail/familymart-itochu-financial-integration|FamilyMart + Itochu]] — plus a cross-case wedge matrix, per-group deep dives, and a concept layer covering store-traffic distribution economics, the retail-media data loop, and the economic-sphere (経済圏) operating model. The canonical cross-group comparison is [[retail/japan-retail-financial-distribution-wedge-matrix|Japan retail financial-distribution wedge matrix]].
 
 ## Active Entries
 
@@ -51,6 +51,14 @@ The domain now tracks four retail-finance groups — [[retail/aeon-group|AEON Gr
 | likely | [[retail/seven-i-holdings-finance-deep-dive|Seven & i Holdings finance deep dive]] | Deep dive behind [[retail/seven-and-i-hd|Seven & i Holdings]]: 7-Bank, ATM platform, nanaco, EC acquiring, 2024 York reorganization |
 | likely | [[retail/lawson-mitsubishi-corporation-tie-up-2024-deep|Lawson + Mitsubishi Corporation 2024 take-private deep]] | Deep dive behind [[retail/lawson-kddi-retail-finance|Lawson + KDDI retail finance]]: KDDI 50/50 tie-up, Ponta deepening, au telco-payment integration |
 
+### Concept / mechanism pages
+
+| Status | Page | Role |
+|---|---|---|
+| likely | [[retail/store-traffic-as-financial-distribution|Store traffic as financial distribution]] | Control page for the physical-retail CAC advantage: how store footfall becomes a low-cost channel for financial-product distribution and behavioral data |
+| possible | [[retail/japan-retail-media-finance-loop|Japan retail media and finance data loop]] | How retail media, loyalty points, payment, and card data converge into one financially load-bearing data loop |
+| possible | [[retail/japan-retail-economic-sphere-comparison|Japan retail economic-sphere comparison]] | Compares the 経済圏 operating model across PayPay, Rakuten, telco-anchored, and in-house retail spheres; open-alliance vs closed-loop trade-off |
+
 ## Retail Finance Pattern
 
 | Pattern | AEON | Seven & i | Lawson | FamilyMart |
@@ -75,8 +83,9 @@ The domain now tracks four retail-finance groups — [[retail/aeon-group|AEON Gr
 |---|---|---|
 | Done | [[retail/lawson-kddi-retail-finance|Lawson + KDDI retail finance]] | Created to complete the CVS-finance comparison beside Seven & i and AEON after the 2024-02 KDDI + Mitsubishi joint TOB |
 | Done | [[retail/japan-retail-financial-distribution-wedge-matrix\|Japan retail financial-distribution wedge matrix]] | Wave 6 (2026-05): cross-case matrix of physical-retail wedge × bank / payment / point / card layers across AEON, Seven & i, Lawson, Rakuten, PayPay, and telco-anchored groups |
-| P2 | `retail/japan-retail-media-finance-loop.md` | Retail media, points, payment, and card data are converging |
-| P2 | `retail/store-traffic-as-financial-distribution.md` | Control page for physical retail CAC advantage |
+| Done | [[retail/japan-retail-media-finance-loop|Japan retail media and finance data loop]] | Retail media, points, payment, and card data are converging into one financially load-bearing loop |
+| Done | [[retail/store-traffic-as-financial-distribution|Store traffic as financial distribution]] | Control page for physical retail CAC advantage |
+| Done | [[retail/japan-retail-economic-sphere-comparison|Japan retail economic-sphere comparison]] | 経済圏 operating-model comparison across PayPay, Rakuten, telco, and in-house retail spheres |
 
 ## Related
 

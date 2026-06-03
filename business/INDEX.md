@@ -30,7 +30,7 @@ sources:
 
 This domain holds **named strategic case studies** — people, founders, regulators, and one operating-company case — where the public record is rich enough to extract a *reusable pattern or template*. Each entry has a "what's the template" framing, not just a profile.
 
-The current set splits into two clusters: **people case studies** (founders, executives, regulators whose individual decisions visibly shape the system) and the **public-company strategic case** for GMO Internet Group as the lone operating-company entry. For Japan-financial-group entity coverage use [[JapanFG/INDEX|JapanFG]]; for the AI-agent protocols several of these case subjects influence, use [[agent-economy/INDEX|agent-economy]].
+The current set splits into two clusters: **people case studies** (founders, executives, regulators whose individual decisions visibly shape the system) and **public-company strategic cases** (operating-company and capital-structure cases such as GMO Internet Group plus a growing set of Japanese retail / telco / megabank finance cases — e.g. [[business/mizuho-rakuten-finance-stake-accumulation-case|Mizuho × Rakuten stake accumulation]], [[business/seven-bank-atm-platform-deconsolidation-case|Seven Bank ATM-platform / deconsolidation]], and [[business/aeon-financial-service-retail-bank-case|Aeon Financial Service]]). For Japan-financial-group entity coverage use [[JapanFG/INDEX|JapanFG]]; for the AI-agent protocols several of these case subjects influence, use [[agent-economy/INDEX|agent-economy]].
 
 ## Route map
 
@@ -47,6 +47,9 @@ The current set splits into two clusters: **people case studies** (founders, exe
 | Exchange-as-public-company template | [[business/brian-armstrong-coinbase-public-company-template\|Brian Armstrong / Coinbase · exchange-as-US-listed-public-company template]] | People case studies (Wave 5) |
 | Founder pivot-outcome matrix | [[business/founder-pivot-outcome-template-matrix\|Founder pivot-outcome template matrix · success vs failure vs hybrid pivots]] | Cross-case templates (Wave 6) |
 | Operating-company case | [[business/gmo-internet-group\|GMO Internet Group]] | Public-company strategic cases |
+| Megabank minority-stake play | [[business/mizuho-rakuten-finance-stake-accumulation-case\|Mizuho × Rakuten · megabank accumulates minority stakes across a conglomerate's finance subsidiaries]] | Public-company strategic cases |
+| Retailer ATM-bank + deconsolidation | [[business/seven-bank-atm-platform-deconsolidation-case\|Seven Bank · ATM-fee bank model + Seven & i's 2025 deconsolidation below 40%]] | Public-company strategic cases |
+| Retailer full-FG + Asia consumer finance | [[business/aeon-financial-service-retail-bank-case\|Aeon Financial Service · supermarket-group full financial holding with pan-Asia consumer finance]] | Public-company strategic cases |
 
 ## Start here
 
@@ -78,11 +81,14 @@ Each entry follows a "named individual → reusable template" pattern. The templ
 
 ## Public-company strategic cases
 
-The only operating-company case currently in this domain. Other Japan-licensed entities live in [[JapanFG/INDEX|JapanFG]].
+Operating-company and capital-structure cases grounded in public disclosures. Other Japan-licensed entities live in [[JapanFG/INDEX|JapanFG]].
 
 | Slug | Title |
 |---|---|
 | [[business/gmo-internet-group\|gmo-internet-group]] | GMO Internet Group |
+| [[business/mizuho-rakuten-finance-stake-accumulation-case\|mizuho-rakuten-finance-stake-accumulation-case]] | Mizuho × Rakuten finance stake-accumulation case · megabank serially buys into a cash-pressed conglomerate's finance subsidiaries (Securities 49% + Card 14.99% + Bank ~10%) |
+| [[business/seven-bank-atm-platform-deconsolidation-case\|seven-bank-atm-platform-deconsolidation-case]] | Seven Bank ATM-platform + deconsolidation case · retailer-owned bank funded by interbank ATM fees, cut below 40% in Seven & i's 2025 portfolio reshape |
+| [[business/aeon-financial-service-retail-bank-case\|aeon-financial-service-retail-bank-case]] | Aeon Financial Service retail-bank case · a supermarket group's full financial holding — Aeon Bank + Aeon credit card + pan-Asia consumer finance |
 
 ## Research control
 
