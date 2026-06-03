@@ -8,7 +8,12 @@ import { unmask, verify } from './protect.mjs';
 const HERE = import.meta.dir;
 const I18N = join(HERE, '..', 'src', 'content', 'i18n');
 const JOBS = join(HERE, '..', '.cache', 'jobs');
-const LANGS = ['zh', 'en'];
+
+const args = process.argv.slice(2);
+const optLangs = args.indexOf('--langs');
+const LANGS = optLangs >= 0 && args[optLangs + 1]
+  ? args[optLangs + 1].split(',').map((s) => s.trim()).filter(Boolean)
+  : ['zh', 'en'];
 
 const titleOf = (body) => {
   const m = body.match(/^#\s+(.+?)\s*$/m);

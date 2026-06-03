@@ -1,0 +1,41 @@
+---
+source: exchanges/jp-cex-sales-vs-exchange-model-economics
+source_hash: c25878f3236ce3fc
+lang: ja
+status: machine
+fidelity: ok
+title: "国内 CEX 販売所 vs 取引所 ビジネスモデル経済学"
+translated_at: 2026-06-02T12:19:04.234Z
+---
+﻿
+# 国内 CEX 販売所 vs 取引所 ビジネスモデル経済学
+
+## ウィキ上の位置づけ
+
+このエントリは [[exchanges/INDEX|exchanges index]] 配下に位置する。近接領域・比較対象の文脈については [[exchanges/jp-cex-points-economy-integration|国内 CEX × ポイントエコノミー統合モデル]]、より広いシステム上・規制上の境界については [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] とあわせて読む。
+
+## 概要
+
+国内 CEX は 2 つのサービス形態を並行運営する独自構造を持つ。**販売所 (はんばいじょ)** = CEX 自身が顧客と相対取引する OTC スプレッドモデル vs **取引所 (とりひきじょ)** = 顧客同士の指値板で約定する maker/taker fee モデル。両者は収益構造・規制上の位置付け・想定顧客層が大きく異なり、同一 CEX が両サービスを併設するケースが多い。
+
+## 販売所モデル (主流)
+
+- **収益源**: bid/ask スプレッド (典型 2-5% · 銘柄により 7-10%)
+- **CEX のポジション**: market maker · 在庫リスク保有 + ヘッジ義務
+- **顧客 UX**: クリック 1 回購入 · 数量/金額直接指定 · 市場価格が分かりにくい
+- **主要採用**: [[exchanges/jp-exchange-coincheck]] (販売所主力) · [[exchanges/jp-exchange-gmo-coin]] · DMM Bitcoin (旧) · [[exchanges/jp-exchange-rakuten-wallet]] · [[exchanges/jp-exchange-mercoin]] · OKJ
+
+## 取引所モデル (玄人向け)
+
+- **収益源**: maker/taker fee (典型 0.01-0.20%) · 圧倒的に薄い
+- **CEX のポジション**: matching engine 運営のみ · 在庫ポジション持たず中立
+- **顧客 UX**: 板情報 + 指値/成行注文 · プロ向け UI
+- **主要採用**: [[exchanges/jp-exchange-bitflyer]] Lightning · [[exchanges/jp-exchange-bitbank]] · GMO コイン取引所 (販売所と併存)
+
+## 経済学的含意
+
+- **販売所スプレッド ~3% は MM ([[exchanges/jp-crypto-market-maker-otc-layer]] B2C2 等) の卸値 ~0.5% より高い** — CEX マージン ~2.5% が中抜き構造
+- リテール客の "見えない手数料" 問題 — FSA 監督指針が透明性改善を継続的に要求
+- **取引高は販売所 > 取引所** だが **収益率は販売所 ≫ 取引所** — 国内 CEX 黒字化の主要レバー
+- 海外 CEX ([[exchanges/global-cex-top10-comparison]] Binance / Coinbase 等) は基本 maker/taker — 日本の販売所モデルは国際的に特異な構造
+- 暗号資産 ETF 解禁 ([[exchanges/btc-spot-etf-japan-impact|BTC spot ETF 日本 impact]])・税制改正 ([[exchanges/jp-crypto-asset-taxation-detailed|JP crypto asset 税制詳細]]) 等で取引所モデルへのシフト圧力が継続。最良執行は [[securities/japan-best-execution-sor-pts|japan best execution SOR/PTS]] を参照。

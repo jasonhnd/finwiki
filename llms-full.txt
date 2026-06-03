@@ -1,9 +1,9 @@
 # FinWiki Full LLM Manifest
 
-Generated: 2026-06-02T18:21:42+09:00
+Generated: 2026-06-03T10:13:36+09:00
 Site: https://finwiki.zksc.io
-Markdown files: 1467
-Public pages listed: 1466
+Markdown files: 1468
+Public pages listed: 1467
 
 ## Reading Rules
 
@@ -28,7 +28,7 @@ Public pages listed: 1466
 - Domain: root
 - Type: control_doc
 - Summary: 1. matt-huang-triple-role-coi-template — Stripe 取締役就任「2024」→ 2021-11(Stripe newsroom: 2021年11月5日)。 2. christine-moy-talent-signal-jpm-apollo — Apollo 移籍「2024」→ 2022-04(CoinDesk 2022-04-28 / Apollo 公式)。併せて整合しない「回収サイクル 6-18ヶ月」を「数年規模」へ修正。 3. jamie-dimon-anti-crypto-pivot-case — 「2022 ペットロック」を分離・修正:2022
-- Headings: CHANGELOG, 運用原則 / Maintenance Principles / 维护原则, 日本語, English, 中文, 2026-06-02, 静的サイト構造 Phase 1 整理 / Static Site Architecture Phase 1 / 静态站点架构 Phase 1, Bun工具体系への全面移行 / Full Bun tooling migration / Bun 工具体系全面迁移
+- Headings: CHANGELOG, 運用原則 / Maintenance Principles / 维护原则, 日本語, English, 中文, 2026-06-03, 日本語 i18n 翻訳層の全量追加 / Complete ja i18n translation layer / ja 翻译层全量追加, 2026-06-02
 - First resolved wikilinks: https://finwiki.zksc.io/..., https://finwiki.zksc.io/JapanFG, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/aia-life-japan, https://finwiki.zksc.io/JapanFG/american-express-international-japan, https://finwiki.zksc.io/JapanFG/asahi-shinkin, https://finwiki.zksc.io/JapanFG/atone, https://finwiki.zksc.io/JapanFG/bdo-sanyu, https://finwiki.zksc.io/JapanFG/bny-mellon-japan, https://finwiki.zksc.io/JapanFG/boj-financial-markets-dept, https://finwiki.zksc.io/JapanFG/boj-financial-system-dept, https://finwiki.zksc.io/JapanFG/boj-international-dept
 
 ### How to navigate FinWiki — reader profile guide
@@ -13180,6 +13180,15 @@ Public pages listed: 1466
 - Type: release_note
 - Summary: 2026-06-02 JST の FinWiki CI 品質リリースです。前回 release の残タスクだった Astro duplicate id warning と GitHub Actions Node.js 20 deprecation annotation を整理しました。
 - Headings: CI 警告整理と HTML ID 検証ゲート追加, 日本語, 概要, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業
+
+### 日本語 i18n 翻訳層の全量追加
+- URL: https://finwiki.zksc.io/releases/v2026.06.03
+- Source path: releases/v2026.06.03.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.06.03.md
+- Domain: releases
+- Type: release_note
+- Summary: FinWiki の ja i18n 翻訳層を全 1,380 entry に追加しました。これにより /ja/ は source fallback の日英混在本文ではなく、site/src/content/i18n/ja/ の機械翻訳 layer を優先して表示します。
+- Headings: 日本語 i18n 翻訳層の全量追加, 日本語, 概要, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業
 
 ### retail domain
 - URL: https://finwiki.zksc.io/retail/INDEX

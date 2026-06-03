@@ -1,0 +1,64 @@
+---
+source: fintech/european-payments-initiative-wero
+source_hash: 2669900e4bf06bee
+lang: ja
+status: machine
+fidelity: ok
+title: "European Payments Initiative · Wero · 欧州銀行連合のリテール決済ウォレット · PayPal / Apple Pay 対抗"
+translated_at: 2026-06-02T13:21:55.055Z
+---
+
+# European Payments Initiative · Wero · 欧州銀行連合のリテール決済ウォレット · PayPal / Apple Pay 対抗
+
+## ウィキ上の位置づけ
+
+このエントリは [[fintech/INDEX|fintech index]] の配下に位置づけられる。ECB 発行のリテールマネーという並行トラックは [[fintech/e-euro-retail-rollout|digital euro retail rollout]]、ホールセール側の欧州銀行コンソーシアム型パターンは [[fintech/fnality-wholesale-settlement|Fnality]] と併せて読む（Wero はそのリテール側の鏡像である）。
+
+> [!info] 要約
+> European Payments Initiative (EPI Company SE, ベルギー登記) は 2020 年に欧州主要銀行 14 行 + Worldline + Nexi が共同設立したリテール決済連合で、旗艦製品 **Wero wallet** は **2024 年 7 月から DE / FR / BE / NL 4 カ国で段階的にローンチ**、P2P 送金を先行させ、加盟店決済とオンライン決済が段階的にリリースされた。Wero の根本目的 = 欧州銀行による**リテール決済主権の奪還**であり、PayPal / Apple Pay / Google Pay / Visa-Mastercard 等の非欧州系に対抗。基盤は **SEPA Instant Credit Transfer (SCT Inst)** で、ECB が計画する [[fintech/e-euro-retail-rollout|digital euro]] と「銀行連合 vs 中銀直発」二者択一/並走構図を形成。
+
+## 主要事実
+
+- 登記法人: EPI Company SE · Brussels · 2020-Q3 設立 ^[extracted]
+- 株主 / 加盟銀行: BNP Paribas, BPCE, Crédit Mutuel, Deutsche Bank, DZ Bank, ING, KBC, La Banque Postale, Nationale-Nederlanden, Rabobank, Santander, Société Générale, Sparkassen-Finanzgruppe, UniCredit + Worldline + Nexi ^[extracted]
+- Wero ローンチ: 2024-07 (DE / FR 初登場, P2P) → 2024-Q4 (BE / NL P2P) → 2025-Q2 (オンライン加盟店決済) → 2026-Q1 (NFC 実店舗, EU 他国へ拡張) ^[extracted]
+- ユーザー数: ~ **30M+** Wero 登録ユーザー (2026-Q1 連合公表) ^[extracted]
+- 基盤決済: SEPA Instant Credit Transfer (SCT Inst, 10 秒以内に final settlement) ^[extracted]
+- 累計株式 / 開発投資: ~€1.5B+ (2020-2024 の多次注資) ^[extracted]
+- 拒否 / 撤退: スペイン BBVA、イタリア Intesa Sanpaolo 等が 2022-2023 に撤退 → 連合は 31 行から 14 行へ縮小 ^[extracted]
+- EBA Clearing / SCT Inst との相互運用: Wero 送金は RT1 / TIPS rails (Eurosystem TARGET Instant Payment Settlement) を走る ^[extracted]
+
+## 仕組み / 作動原理
+
+Wero のコアモデル = **「欧州銀行連合のリテール決済ウォレット」**で、ユーザーは 14 行加盟銀行のアプリ内で**直接 P2P 送金 (電話番号またはメールアドレスを利用) + 加盟店決済 + NFC 実店舗**が可能、全て SCT Inst 経由で 10 秒以内に完了。**重要な差異**: PayPal / Apple Pay は欧州消費者の決済データ + インターチェンジ収益を米国に残す;Wero はそれらの価値を欧州銀行体系内に留める。これは [[fintech/jurisdiction-list-monetary-protectionism|管轄区域通貨保護主義]] の欧州サンプル—— 外資を遮断するのではなく、並行体系を構築することである。
+
+技術 / 規制スタック: 基盤は [[systems/sepa-instant-overview|SEPA Instant Credit Transfer]] (10 秒以内に final、EBA Clearing RT1 + Eurosystem TIPS 二軌 rails)、Wero は SCT Inst 上の UX / addressing 層 (ユーザーは IBAN の代わりに電話番号/メールアドレスを使用)。**stablecoin / token / ブロックチェーンは導入せず**、完全に SEPA 内で運営される「伝統的決済の近代化」経路であり、[[fintech/circle-usdc-stablecoin|USDC]] / [[fintech/stripe-usdb-bridge-stablecoin|USDB]] の「オンチェーン・ドル」経路とは根本的に対照的。
+
+[[fintech/e-euro-retail-rollout|digital euro]] との関係: **両者の目標重複度は 80%** —— 共に欧州リテール決済主権の方案。ECB の digital euro は中銀直発のリテール通貨 (CBDC)、Wero は銀行連合の商業方案。**ECB の実際の戦略 = digital euro を「銀行 + Wero 等ウォレット経由で分配」と設計し、完全代替ではなく** → これは Wero を digital euro の重要リテール分配チャネルの一つとして固定し、[[fintech/cbdc-multi-tier-architecture-overview|CBDC 多層アーキテクチャ]] における「二層分配」モデルと一致。
+
+## 起源と発展
+
+2020-Q3 EPI Company SE 設立 = 欧州 31 行 + 2 PSP (Worldline / Nexi) が共同発起、目標は「汎欧州決済方案 = カード + ウォレット + 即時決済」。2021-2022 戦略調整: 自前カードスキームの構築を断念 (Visa/MA との正面対抗コストが高すぎ) → ウォレット + SCT Inst に集中。**2022 BBVA / Intesa / Commerzbank 等が撤退**、連合は 31 行から ~16 行 (後 14 行で安定) に縮小、これは [[fintech/multi-megabank-consortium-governance|多大銀行連邦ガバナンス]] の典型的なガバナンス摩擦。2023-Q4 フランス **Payconiq International** (BE/NL/LU の既存 P2P ウォレット) を買収 = Wero の原型。**2024-07 Wero 初登場**: DE (Deutsche Bank / Sparkassen) + FR (BPCE / SocGen / Crédit Mutuel)、P2P 送金先行。2024-Q4 BE/NL 参加。2025-Q2 オンライン決済段階。2026-Q1 NFC 実店舗 + EU 他国拡張計画。**重要イベント**: 2025 EU **Instant Payments Regulation** が EUR 圏全銀行に SCT Inst 対応 (10 秒 + 追加料金なし) を義務化 → Wero は直接受益、Wero の UX が SCT Inst 上のウォレット層であるため。2026-Q2 Wero ユーザー 30M+、[[fintech/circle-usdc-stablecoin|USDC]] 欧州リテールリーチとはほぼ重ならない (USDC は主に crypto-native ユーザー)。
+
+## 関連項目
+<!-- wiki-links:managed -->
+- [[INDEX|Wiki Index]]
+- [[fintech/INDEX|fintech index]]
+- [[fintech/e-euro-retail-rollout|digital euro retail rollout]]
+- [[fintech/fnality-wholesale-settlement|Fnality]]
+- [[fintech/multi-megabank-consortium-governance|多大銀行連邦ガバナンス]]
+- [[fintech/mica-overview|MiCA]]
+- [[fintech/cbdc-multi-tier-architecture-overview|CBDC 多層アーキテクチャ]]
+- [[fintech/jurisdiction-list-monetary-protectionism|管轄区域通貨保護主義]]
+- [[fintech/circle-usdc-stablecoin|Circle USDC / EURC]]
+- [[fintech/stripe-usdb-bridge-stablecoin|Stripe USDB]]
+- [[fintech/cbdc-adoption-curve-china-japan-eu-india-2026|CBDC 採用カーブ]]
+<!-- /wiki-links:managed -->
+
+## 出典
+
+- https://www.epicompany.eu/ — European Payments Initiative SE 公式トップページ
+- https://www.wero-wallet.eu/ — Wero wallet 公式トップページ
+- https://www.epicompany.eu/news — EPI ニュースリリース
+- https://www.ecb.europa.eu/paym/intro/news/html/index.en.html — ECB 決済システムニュース
+- https://www.bundesbank.de/en/tasks/payment-systems — Bundesbank 決済システムページ (EPI/Wero DE 側)

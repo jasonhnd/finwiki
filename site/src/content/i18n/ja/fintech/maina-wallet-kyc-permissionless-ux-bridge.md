@@ -1,0 +1,67 @@
+---
+source: fintech/maina-wallet-kyc-permissionless-ux-bridge
+source_hash: 31b098766004fe7a
+lang: ja
+status: machine
+fidelity: ok
+title: "マイナウォレットモデルは「KYC 済水準 × パーミッションレス UX」を両立させる日本特有の解"
+translated_at: 2026-06-02T13:21:55.080Z
+---
+﻿
+# マイナウォレットモデルは「KYC 済水準 × パーミッションレス UX」を両立させる日本特有の解
+
+
+## ウィキ上の位置づけ
+
+この項目は [[fintech/INDEX|fintech index]] の配下に位置する。隣接文脈は [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]]、より広いシステム境界は [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] とあわせて読む。
+
+> [!info] 要約
+> マイナンバーカードと連携した本人確認機能を持つウォレットを銀行アプリのアプリ内アプリとして組み込めば、銀行 KYC 水準を満たしつつパーミッションレスに近い UX を実現できる。日本のリテール SC が陥る[[fintech/retail-stablecoin-dual-bind|二律背反]]を打破する有力解。証券系・暗号資産系の事業者が 2025 年内に出資済（公開）。
+
+## 結論
+
+マイナウォレットモデルの構造:
+
+```
+ユーザー → 銀行アプリ起動
+       → アプリ内アプリ：マイナウォレット
+       → マイナンバーカード タップで本人確認
+       → 既に銀行で KYC 済 + マイナで実在確認
+       → KYC 済レイヤーで送金・SC 利用 (パーミッションレスに近い UX)
+```
+
+**核心**:
+- マイナンバーカードのタップ確認 = アプリ内で物理的に「実在する人物」を grounding
+- 銀行 KYC + マイナ実在確認 = 機関グレードの本人確認水準
+- 銀行アプリ内のアプリ内アプリ形態 → 「ウォレットを意識しない」UX 実現
+
+## 理由
+
+- 複数銀行・大手クレカに「マイナウォレット組込み」が提案されている
+- マイナンバーカードは 1 億発行超 = 日本社会インフラ化済
+- マイナウォレット社の株主構造に証券系（Monex）と暗号資産系（Coincheck グループ）が並ぶ → 暗号資産業務 know-how と証券業務 know-how が交差する組合せ
+- 病院決済 PoC、チケット転売防止、メルカリ偽物対策など、ID + 決済の組合せ use case が存在
+- 銀行・既存決済企業が単独では作れない「ID × ウォレット × KYC」レイヤーを社会インフラとして提供する位置取り（プロトコル基礎は [[systems/erc-4337-embedded-wallet-adoption|ERC-4337 embedded wallet adoption]] と同方向だが KYC 起点）
+
+## 適用場面
+
+- 日本リテール SC の差別化設計（マイナ連携 等、[[JapanFG/jpyc|JPYC]] と接続を検討する場面）
+- 「USDC vs 国産 SC」議論で日本の構造的優位を語るとき → マイナがある日本は KYC ベース SC を最初から組める「チャンス」
+- 銀行 BaaS × ウォレット連携の構造を設計するとき、[[exchanges/jp-cex-deposit-token-stablecoin-integration|JP CEX × 預金トークン/SC 統合]] と組み合わせて KYC レイヤーを共有する設計が成り立つ
+- SC 発行体として KYC レイヤーを設計するとき
+- ペイペイ・スイカ等既存リテール決済との差別化軸を組むとき
+
+## 出典
+
+- 公開: Monex グループ マイナウォレット出資（公開済）
+- 公開: マイナンバーカード発行枚数 1 億超（総務省）
+- 整合: [[banking/minna-bank-baas-model|みんなの銀行 BaaS]] アプリ内アプリ形態と構造同型
+- 整合: [[fintech/retail-stablecoin-dual-bind|retail-stablecoin-dual-bind]] の解
+
+## 関連項目
+<!-- wiki-links:managed -->
+- [[INDEX|Wiki Index]]
+- [[fintech/retail-stablecoin-dual-bind|リテール SC 二律背反]]
+- [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 三層構造]]
+- [[banking/minna-bank-baas-model|みんなの銀行 BaaS モデル]]
+<!-- /wiki-links:managed -->

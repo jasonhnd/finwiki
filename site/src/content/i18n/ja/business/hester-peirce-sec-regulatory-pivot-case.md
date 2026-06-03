@@ -1,0 +1,49 @@
+---
+source: business/hester-peirce-sec-regulatory-pivot-case
+source_hash: 543acffecaece9f6
+lang: ja
+status: machine
+fidelity: ok
+title: "規制転換のキーパーソン事例 · 個人イデオロギー + 制度的授権(Hester Peirce)"
+translated_at: 2026-06-02T11:47:37.289Z
+---
+
+# 規制転換のキーパーソン事例 · 個人イデオロギー + 制度的授権(Hester Peirce)
+
+## ウィキ上の位置づけ
+
+このエントリは [[business/INDEX|business INDEX]] の下に、公開企業の戦略事例アンカーとして位置する。ピア／対照の文脈については [[business/matt-huang-triple-role-coi-template|三身分COIテンプレート · VC GP + 大口顧客Board + 被投資先CEOの三角構造が複製不能となる理由]] と、より広範なシステム／規制境界については [[fintech/INDEX|fintech index]] と照らし合わせて読むこと。
+
+## 主要な事実
+
+- Peirceは2018年のWinklevoss BTC ETF反対意見で「Crypto Mom」の異名を得た ^[extracted]
+- 2020-02にToken Safe Harbor Proposal 2.0を提案(暗号資産スタートアップに3年の猶予期間を付与) ^[extracted]
+- 2025-01-21にSEC Crypto Task Forceの議長に就任(Trump + Paul Atkins SEC委員長の授権) ^[extracted]
+- 在任Q1-Q2にCoinbase / Robinhood / Uniswap / Consensysに対する訴訟を取下げ ^[extracted]
+- 同時期にSECの暗号資産執行部門が ~50%削減され、staking / memecoin / PoRに関するno-actionガイダンスを発出 ^[extracted]
+
+## 仕組み／動作の仕方
+
+規制転換は3点同時引き金メカニズムで成立する。**1) 個人イデオロギーの長期的一貫性**(Peirceの2018-2025年の立場は不変で、就任前から公的にコミット済)→ 就任後の行動が予測可能でreputationリスクも小さい。**2) 制度的授権**(Crypto Task Force議長就任)→ 一Commissionerの個人見解がSECの政策路線へ昇格。**3) 三角共振**(行政 = Trump / Atkins、立法 = Lummis / GENIUS Act、業界 = Coinbase / Circleの規制解除)→ どれか一つでも欠ければ転換は起きない([[business/jamie-dimon-anti-crypto-pivot-case|Jamie Dimonの反暗号資産から転換した事例]] と鏡像対比すると理解しやすい)。
+
+診断テンプレート:「次の規制転換」を識別する鍵は、その機関内で長期にわたり異論を持ち続ける官僚(在任5年以上 + 公的なdissent record + 大企業との経済利害を持たない)を特定し、行政側からの任命 + 立法側の法案が揃うのを待つこと。3点が揃えば、その官僚の任期内6-12ヶ月以内に政策の大幅転換が現れる。Peirceの事例 = 完全な三点揃いで、訴訟取下げのラッシュは2025-Q1に集中爆発した(参照:[[business/INDEX|business事例ライブラリ]] と [[fintech/genius-act-501-denylist-mandate|GENIUS Act §501 denylist 強制条項]] の立法側着地)。
+
+## 起源と進化
+
+起点は2018-01のPeirce SEC Commissioner就任(Trump第一期任命)。2018-07のWinklevoss ETF反対意見で「Crypto Mom」の異名が確立し、以降6年間にわたって暗号資産フレンドリーな少数派立場を維持。2020-02のToken Safe Harbor Proposal 2.0 → 業界がその政策フレームを把握。2024-Q4のTrump当選 + Atkins SEC委員長指名 → 3点引き金の条件が揃う。2025-01-21にCrypto Task Force発足、Peirce議長就任 → 規制転換が始動。2025-02にSECがCoinbase / Robinhood / Uniswap / Consensysを取下げ(2-3週間以内に集中爆発)→ 転換が着地。後段:Peirceは一貫して「議会立法による解決」(SECの行政裁量ではなく)を主張 → GENIUS Act / CLARITY Actが彼女の政治的帰結となる。
+
+## 関連項目
+<!-- wiki-links:managed -->
+- [[INDEX|Wiki Index]]
+- [[business/larry-fink-blackrock-digital-asset-template|Larry Fink BlackRock デジタル資産]]
+- [[business/jamie-dimon-anti-crypto-pivot-case|Jamie Dimon 反暗号資産から転換した事例]]
+- [[business/paolo-ardoino-tether-business-model-template|Paolo Ardoino Tether ビジネスモデル]]
+<!-- /wiki-links:managed -->
+
+## 出典
+
+- Dissent of Commissioner Hester M. Peirce on Winklevoss Bitcoin Trust (Release 34-83723, SEC, 2018-07-26) — https://www.sec.gov/newsroom/speeches-statements/peirce-dissent-34-83723
+- Token Safe Harbor Proposal 2.0 — three-year grace period (Commissioner Peirce, SEC) — https://www.sec.gov/newsroom/speeches-statements/peirce-statement-token-safe-harbor-proposal-20
+- SEC announces formation of Crypto Task Force led by Commissioner Peirce (SEC press release 2025-30, 2025-01-21) — https://www.sec.gov/newsroom/press-releases/2025-30
+- SEC Forms New Crypto Task Force Spearheaded by 'Crypto Mom' Hester Peirce (CoinDesk, 2025-01-21) — https://www.coindesk.com/policy/2025/01/21/sec-forms-new-crypto-task-force-spearheaded-by-hester-peirce
+- Coinbase Case Dropped by U.S. SEC as Agency Reverses Crypto Stance (CoinDesk, 2025-02-27) — https://www.coindesk.com/policy/2025/02/27/coinbase-case-dropped-by-u-s-sec-as-agency-reverses-crypto-stance
