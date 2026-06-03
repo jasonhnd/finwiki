@@ -17,8 +17,8 @@
     ],
     "domain": "loyalty",
     "created": "2026-05-20",
-    "last_updated": "2026-05-20",
-    "last_tended": "2026-05-20",
+    "last_updated": "2026-06-03",
+    "last_tended": "2026-06-03",
     "review_by": "2026-11-15",
     "confidence": "likely",
     "tags": [
@@ -46,17 +46,26 @@
     "Related"
   ],
   "body_links": {
-    "wikilinks_count": 14,
+    "wikilinks_count": 23,
     "wikilinks": [
       "INDEX",
       "JapanFG/INDEX",
+      "JapanFG/jal-card",
+      "JapanFG/jr-east-financial",
       "JapanFG/legal-financial-licenses/INDEX",
       "JapanFG/ndfg",
       "JapanFG/paypay-fg",
       "JapanFG/rakuten-fg",
+      "loyalty/au-pay-loyalty-ecosystem-deep",
       "loyalty/d-point-au-kddi-docomo-telco-point-consolidation\\",
+      "loyalty/d-point-detailed-ecosystem",
+      "loyalty/jal-mileage-bank-vs-ana-mileage-club-comparison",
       "loyalty/japan-points-landscape",
+      "loyalty/jre-point-and-jre-bank-ecosystem",
       "loyalty/point-liability-accounting-boundary",
+      "loyalty/ponta-points-deep-dive",
+      "loyalty/sb-yahoo-paypay-points-unified-ecosystem",
+      "loyalty/t-point-v-point-post-2024-merger",
       "loyalty/v-point-smbc-ccc-case",
       "payments/INDEX",
       "retail/INDEX",
@@ -66,13 +75,22 @@
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
       "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/jal-card",
+      "https://finwiki.zksc.io/JapanFG/jr-east-financial",
       "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX",
       "https://finwiki.zksc.io/JapanFG/ndfg",
       "https://finwiki.zksc.io/JapanFG/paypay-fg",
       "https://finwiki.zksc.io/JapanFG/rakuten-fg",
+      "https://finwiki.zksc.io/loyalty/au-pay-loyalty-ecosystem-deep",
       "https://finwiki.zksc.io/loyalty/d-point-au-kddi-docomo-telco-point-consolidation\\",
+      "https://finwiki.zksc.io/loyalty/d-point-detailed-ecosystem",
+      "https://finwiki.zksc.io/loyalty/jal-mileage-bank-vs-ana-mileage-club-comparison",
       "https://finwiki.zksc.io/loyalty/japan-points-landscape",
+      "https://finwiki.zksc.io/loyalty/jre-point-and-jre-bank-ecosystem",
       "https://finwiki.zksc.io/loyalty/point-liability-accounting-boundary",
+      "https://finwiki.zksc.io/loyalty/ponta-points-deep-dive",
+      "https://finwiki.zksc.io/loyalty/sb-yahoo-paypay-points-unified-ecosystem",
+      "https://finwiki.zksc.io/loyalty/t-point-v-point-post-2024-merger",
       "https://finwiki.zksc.io/loyalty/v-point-smbc-ccc-case",
       "https://finwiki.zksc.io/payments/INDEX",
       "https://finwiki.zksc.io/retail/INDEX",
@@ -83,9 +101,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3096,
-    "word_like_tokens": 483,
+    "nonspace_chars": 5011,
+    "word_like_tokens": 796,
     "inbound_wikilinks_count": 18,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-06-03"
   }
 }

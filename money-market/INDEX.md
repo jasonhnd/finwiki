@@ -5,8 +5,8 @@ aliases:
   - "短期金融市場 domain"
 domain: "money-market"
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-06-03
+last_tended: 2026-06-03
 review_by: 2026-11-15
 confidence: likely
 tags: [money-market, index, BoJ, call-market, tanshi]
@@ -35,6 +35,20 @@ Use [[JapanFG/boj-monetary-policy]] for the central-bank policy page and this do
 | JGB repo / secured funding | [[money-market/jgb-repo-market-japan|JGB repo market in Japan]] | How secured JGB funding, collateral scarcity, GC / SC repo, and securities lending affect market functioning. |
 | BoJ implementation | [[money-market/boj-open-market-operations|BoJ open market operations]] | What operation tools the BoJ uses to supply or absorb funds. |
 | Tanshi business model | [[money-market/tanshi-company-business-model|Tanshi company business model]] | How Tokyo / Central / Ueda Yagi tanshi differ in business model and intersect with BoJ operations. |
+| Instrument comparison hub | [[money-market/japan-short-term-funding-instrument-matrix|Japan short-term funding instrument matrix]] | Comparing tenor, issuer type, minimum lot, settlement, credit, and BoJ collateral eligibility across every front-end instrument. |
+| BoJ floor system | [[money-market/boj-post-2024-floor-system-complementary-deposit-facility|BoJ post-2024 floor system and complementary deposit facility]] | How the post-2024 floor system and 補完当座預金制度 tiered rates anchor the call rate. |
+
+## Instruments
+
+Start at the [[money-market/japan-short-term-funding-instrument-matrix|Japan short-term funding instrument matrix]] to compare these front-end instruments on tenor, issuer type, minimum lot, settlement cycle, credit profile, and BoJ collateral eligibility before drilling into a single product page.
+
+| Instrument | Page | Use when asking |
+|---|---|---|
+| Commercial paper | [[money-market/japan-cp-commercial-paper-market|Japan CP (commercial paper) market]] | How corporate short-term CP is issued, settled via JASDEC, and traded. |
+| Negotiable CDs | [[money-market/japan-ncd-negotiable-cd-market|Japan NCD (negotiable certificate of deposit) market]] | How bank-issued negotiable certificates of deposit fund the front end. |
+| Treasury Discount Bills | [[money-market/japan-tbill-treasury-discount-bill|Japan Treasury Discount Bills (TDB / 国庫短期証券)]] | How MoF-issued TDB / TBill discount bills work as the government's short paper. |
+| Money market funds | [[money-market/japan-mmf-money-market-mutual-fund|Japan MMF / MRF (money market mutual funds)]] | How MRF / MMF money funds invest in and connect retail flows to the money market. |
+| BoJ deposit facility | [[money-market/boj-post-2024-floor-system-complementary-deposit-facility|BoJ post-2024 floor system and complementary deposit facility]] | How the post-2024 floor system and tiered complementary deposit facility set the rate floor. |
 
 ## JapanFG Anchors
 
@@ -55,10 +69,9 @@ Use [[JapanFG/boj-monetary-policy]] for the central-bank policy page and this do
 
 ## Backlog
 
-| Priority | Page | Why |
+| Priority | Gap (not yet written) | Why |
 |---|---|---|
-| Done | [[money-market/tanshi-company-business-model|Tanshi company business model]] | Created to compare Tokyo Tanshi, Central Tanshi, and Ueda Yagi Tanshi business models, BoJ-operations adjacency, and FIEA Type 1 framing. |
-| P2 | `money-market/boj-current-account-access.md` | Useful for bank / settlement / tanshi boundary analysis. |
+| P2 | BoJ current account access — *no page yet* | Useful for bank / settlement / tanshi boundary analysis. Not yet authored; do not link until created. |
 
 ## Related
 

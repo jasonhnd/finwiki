@@ -17,8 +17,8 @@
     ],
     "domain": "governance",
     "created": "2026-05-24",
-    "last_updated": "2026-05-24",
-    "last_tended": "2026-05-24",
+    "last_updated": "2026-06-03",
+    "last_tended": "2026-06-03",
     "review_by": "2026-11-20",
     "confidence": "certain",
     "tags": [
@@ -39,7 +39,7 @@
       "https://www.nedo.go.jp/english/"
     ]
   },
-  "summary": "This domain routes non-profit / public-interest legal structure and research-funding plumbing in Japan — primarily the 一般財団法人 / 公益財団法人 establishment route and the institutional map for research grants. Both entries are operational reference pages: \"if you wanted to actually do this, here is the path",
+  "summary": "This domain routes non-profit / public-interest legal structure and research-funding plumbing in Japan — primarily the 一般財団法人 / 公益財団法人 establishment route, the 公益 vs 一般 decision, and the institutional map for research grants. All three entries are operational reference pages: \"if you wanted to actua",
   "headings": [
     "Governance domain",
     "TL;DR",
@@ -51,13 +51,14 @@
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 9,
+    "wikilinks_count": 10,
     "wikilinks": [
       "INDEX",
       "JapanFG/INDEX",
       "finance/INDEX",
       "governance/japan-general-foundation-establishment-requirements",
       "governance/japan-general-foundation-establishment-requirements\\",
+      "governance/japan-koeki-vs-general-zaidan-comparison",
       "governance/japan-koeki-vs-general-zaidan-comparison\\",
       "governance/japan-research-grant-map-2026",
       "governance/japan-research-grant-map-2026\\",
@@ -69,6 +70,7 @@
       "https://finwiki.zksc.io/finance/INDEX",
       "https://finwiki.zksc.io/governance/japan-general-foundation-establishment-requirements",
       "https://finwiki.zksc.io/governance/japan-general-foundation-establishment-requirements\\",
+      "https://finwiki.zksc.io/governance/japan-koeki-vs-general-zaidan-comparison",
       "https://finwiki.zksc.io/governance/japan-koeki-vs-general-zaidan-comparison\\",
       "https://finwiki.zksc.io/governance/japan-research-grant-map-2026",
       "https://finwiki.zksc.io/governance/japan-research-grant-map-2026\\",
@@ -78,9 +80,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4524,
-    "word_like_tokens": 750,
+    "nonspace_chars": 5138,
+    "word_like_tokens": 851,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-06-03"
   }
 }

@@ -20,13 +20,13 @@
   </url>
   <url>
     <loc>https://finwiki.zksc.io/HOW-TO-NAVIGATE</loc>
-    <lastmod>2026-06-02</lastmod>
+    <lastmod>2026-06-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://finwiki.zksc.io/INDEX</loc>
-    <lastmod>2026-05-25</lastmod>
+    <lastmod>2026-06-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -3830,7 +3830,7 @@
   </url>
   <url>
     <loc>https://finwiki.zksc.io/SCHEMA</loc>
-    <lastmod>2026-05-21</lastmod>
+    <lastmod>2026-06-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -4436,7 +4436,7 @@
   </url>
   <url>
     <loc>https://finwiki.zksc.io/corporate-strategy/INDEX</loc>
-    <lastmod>2026-05-25</lastmod>
+    <lastmod>2026-06-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -4472,7 +4472,7 @@
   </url>
   <url>
     <loc>https://finwiki.zksc.io/cross-domain-anchor-convention</loc>
-    <lastmod>2026-06-02</lastmod>
+    <lastmod>2026-06-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -6596,13 +6596,13 @@
   </url>
   <url>
     <loc>https://finwiki.zksc.io/frontmatter-canonical-anchor-field-proposal</loc>
-    <lastmod>2026-06-02</lastmod>
+    <lastmod>2026-06-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://finwiki.zksc.io/governance/INDEX</loc>
-    <lastmod>2026-05-25</lastmod>
+    <lastmod>2026-06-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -6824,7 +6824,7 @@
   </url>
   <url>
     <loc>https://finwiki.zksc.io/loyalty/INDEX</loc>
-    <lastmod>2026-05-25</lastmod>
+    <lastmod>2026-06-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -6896,7 +6896,7 @@
   </url>
   <url>
     <loc>https://finwiki.zksc.io/manufacturing/INDEX</loc>
-    <lastmod>2026-05-25</lastmod>
+    <lastmod>2026-06-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -6944,7 +6944,7 @@
   </url>
   <url>
     <loc>https://finwiki.zksc.io/money-market/INDEX</loc>
-    <lastmod>2026-05-24</lastmod>
+    <lastmod>2026-06-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -7957,6 +7957,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://finwiki.zksc.io/releases/v2026.06.03-6</loc>
+    <lastmod>2026-06-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://finwiki.zksc.io/releases/v2026.06.03</loc>
     <lastmod>2026-06-03</lastmod>
     <changefreq>weekly</changefreq>
@@ -7964,7 +7970,7 @@
   </url>
   <url>
     <loc>https://finwiki.zksc.io/retail/INDEX</loc>
-    <lastmod>2026-05-25</lastmod>
+    <lastmod>2026-06-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -7982,19 +7988,19 @@
   </url>
   <url>
     <loc>https://finwiki.zksc.io/retail/japan-retail-financial-distribution-wedge-matrix</loc>
-    <lastmod>2026-05-25</lastmod>
+    <lastmod>2026-06-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://finwiki.zksc.io/retail/lawson-kddi-retail-finance</loc>
-    <lastmod>2026-06-02</lastmod>
+    <lastmod>2026-06-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://finwiki.zksc.io/retail/lawson-mitsubishi-corporation-tie-up-2024-deep</loc>
-    <lastmod>2026-05-29</lastmod>
+    <lastmod>2026-06-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -8210,7 +8216,7 @@
   </url>
   <url>
     <loc>https://finwiki.zksc.io/security/INDEX</loc>
-    <lastmod>2026-05-25</lastmod>
+    <lastmod>2026-06-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -8804,7 +8810,7 @@
   </url>
   <url>
     <loc>https://finwiki.zksc.io/trade/INDEX</loc>
-    <lastmod>2026-06-01</lastmod>
+    <lastmod>2026-06-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>

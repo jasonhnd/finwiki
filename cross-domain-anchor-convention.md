@@ -98,7 +98,7 @@ Mechanically:
 
 - Add the cross-domain link inside the body (in a `## Wiki route` paragraph or in the relevant content section), not only in `## Related`.
 - Use the form `[[domain/slug|display-name]]` so the prose reads naturally.
-- The link audit ([[wiki-link-improvement-plan]] / `tools/wiki_link_audit.py`) does not enforce reciprocity, but reviewers should treat orphan cross-references as a flaw.
+- The link audit ([[wiki-link-improvement-plan]] / `tools/wiki_link_audit.ts`) does not enforce reciprocity, but reviewers should treat orphan cross-references as a flaw.
 
 ## 8. Common anti-patterns to avoid
 

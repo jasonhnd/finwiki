@@ -5,8 +5,8 @@ aliases:
   - "日本製造業 index"
 domain: "manufacturing"
 created: 2026-05-20
-last_updated: 2026-05-22
-last_tended: 2026-05-22
+last_updated: 2026-06-03
+last_tended: 2026-06-03
 review_by: 2026-11-16
 confidence: certain
 tags: [manufacturing, index]
@@ -19,9 +19,25 @@ sources:
 
 ## TL;DR
 
-`manufacturing/` contains **7 active entries** (excluding INDEX, 8 total) for non-financial operating companies referenced from JapanFG pages, with Wave 12 adding deep operating profiles for Hitachi industrial finance, Sony Group finance arm, Panasonic captive finance, Mitsubishi Heavy export finance, and Toyota Financial Services. Use this domain when a bank / finance page needs the underlying industrial borrower, parent company, or regional manufacturing anchor.
+`manufacturing/` contains **7 active entries** (excluding INDEX, 8 total). The domain scope is **manufacturer-perspective finance anchors, complementary to JapanFG entity pages and structured-finance ABS** — the captive/vendor/export finance arms run by industrial groups, plus the operating-company and regional manufacturing anchors they sit behind. Wave 12 added deep manufacturer-finance profiles for Toyota Financial Services, Sony Group finance arm, Hitachi industrial finance, Panasonic captive finance, and Mitsubishi Heavy export finance, alongside the existing operating-company anchors (Toyota Motor, Seiko Epson). Use this domain when a bank / finance page needs the underlying industrial borrower, captive-finance arm, parent company, or regional manufacturing anchor.
 
 ## Entries
+
+### Tier 1 — Manufacturer-finance profiles
+
+Captive, vendor, and export finance arms run by industrial groups (manufacturer-perspective view, complementary to JapanFG entity pages and structured-finance ABS).
+
+| Status | Slug | Company | Why it exists in FinWiki |
+|---|---|---|---|
+| ✅ likely | [[manufacturing/toyota-financial-services|toyota-financial-services]] | Toyota Financial Services | Captive auto-finance arm (residual-value, ABS, mobility) as seen from the manufacturer; complements [[JapanFG/toyota-financial|Toyota Financial Services]] |
+| ✅ likely | [[manufacturing/sony-group-finance-arm|sony-group-finance-arm]] | Sony Group Finance Arm | Group financial-services segment and partial-spinoff context from the Sony manufacturing parent |
+| ✅ likely | [[manufacturing/hitachi-industrial-finance-platform|hitachi-industrial-finance-platform]] | Hitachi Industrial Finance Platform | Industrial / infrastructure vendor-finance platform (Hitachi Capital legacy, social-innovation financing) |
+| ✅ likely | [[manufacturing/panasonic-captive-finance|panasonic-captive-finance]] | Panasonic Captive Finance | B2B captive / vendor finance, including EV-battery customer financing |
+| ✅ likely | [[manufacturing/mitsubishi-heavy-export-finance|mitsubishi-heavy-export-finance]] | Mitsubishi Heavy Export Finance | Export / project finance for aerospace, defense, and heavy equipment (JBIC / NEXI-backed) |
+
+### Tier 2 — Operating-company / regional anchors
+
+Underlying industrial borrowers and parent companies that finance pages point back to.
 
 | Status | Slug | Company | Why it exists in FinWiki |
 |---|---|---|---|

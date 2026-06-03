@@ -16,8 +16,8 @@
     ],
     "domain": "money-market",
     "created": "2026-05-19",
-    "last_updated": "2026-05-19",
-    "last_tended": "2026-05-19",
+    "last_updated": "2026-06-03",
+    "last_tended": "2026-06-03",
     "review_by": "2026-11-15",
     "confidence": "likely",
     "tags": [
@@ -40,6 +40,7 @@
     "Money market domain",
     "TL;DR",
     "Start Here",
+    "Instruments",
     "JapanFG Anchors",
     "Research Control",
     "Backlog",
@@ -47,7 +48,7 @@
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 21,
+    "wikilinks_count": 27,
     "wikilinks": [
       "INDEX",
       "JapanFG/INDEX",
@@ -64,8 +65,14 @@
       "JapanFG/ueda-yagi-tanshi",
       "banking/INDEX",
       "money-market/boj-open-market-operations",
+      "money-market/boj-post-2024-floor-system-complementary-deposit-facility",
       "money-market/call-market-structure",
+      "money-market/japan-cp-commercial-paper-market",
+      "money-market/japan-mmf-money-market-mutual-fund",
       "money-market/japan-money-market",
+      "money-market/japan-ncd-negotiable-cd-market",
+      "money-market/japan-short-term-funding-instrument-matrix",
+      "money-market/japan-tbill-treasury-discount-bill",
       "money-market/jgb-repo-market-japan",
       "money-market/tanshi-company-business-model",
       "policy-finance/INDEX",
@@ -87,8 +94,14 @@
       "https://finwiki.zksc.io/JapanFG/ueda-yagi-tanshi",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/money-market/boj-open-market-operations",
+      "https://finwiki.zksc.io/money-market/boj-post-2024-floor-system-complementary-deposit-facility",
       "https://finwiki.zksc.io/money-market/call-market-structure",
+      "https://finwiki.zksc.io/money-market/japan-cp-commercial-paper-market",
+      "https://finwiki.zksc.io/money-market/japan-mmf-money-market-mutual-fund",
       "https://finwiki.zksc.io/money-market/japan-money-market",
+      "https://finwiki.zksc.io/money-market/japan-ncd-negotiable-cd-market",
+      "https://finwiki.zksc.io/money-market/japan-short-term-funding-instrument-matrix",
+      "https://finwiki.zksc.io/money-market/japan-tbill-treasury-discount-bill",
       "https://finwiki.zksc.io/money-market/jgb-repo-market-japan",
       "https://finwiki.zksc.io/money-market/tanshi-company-business-model",
       "https://finwiki.zksc.io/policy-finance/INDEX",
@@ -98,9 +111,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3037,
-    "word_like_tokens": 490,
+    "nonspace_chars": 4571,
+    "word_like_tokens": 742,
     "inbound_wikilinks_count": 46,
-    "last_modified": "2026-05-24"
+    "last_modified": "2026-06-03"
   }
 }

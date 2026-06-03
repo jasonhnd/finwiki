@@ -16,8 +16,8 @@
     ],
     "domain": "manufacturing",
     "created": "2026-05-20",
-    "last_updated": "2026-05-22",
-    "last_tended": "2026-05-22",
+    "last_updated": "2026-06-03",
+    "last_tended": "2026-06-03",
     "review_by": "2026-11-16",
     "confidence": "certain",
     "tags": [
@@ -29,16 +29,18 @@
       "Domain index maintained from public FinWiki entries and source-backed entry frontmatter."
     ]
   },
-  "summary": "manufacturing/ contains 7 active entries (excluding INDEX, 8 total) for non-financial operating companies referenced from JapanFG pages, with Wave 12 adding deep operating profiles for Hitachi industrial finance, Sony Group finance arm, Panasonic captive finance, Mitsubishi Heavy export finance, and",
+  "summary": "manufacturing/ contains 7 active entries (excluding INDEX, 8 total). The domain scope is manufacturer-perspective finance anchors, complementary to JapanFG entity pages and structured-finance ABS — the captive/vendor/export finance arms run by industrial groups, plus the operating-company and region",
   "headings": [
     "manufacturing — Japanese manufacturing company index",
     "TL;DR",
     "Entries",
+    "Tier 1 — Manufacturer-finance profiles",
+    "Tier 2 — Operating-company / regional anchors",
     "Expansion rules",
     "Related"
   ],
   "body_links": {
-    "wikilinks_count": 8,
+    "wikilinks_count": 13,
     "wikilinks": [
       "INDEX",
       "JapanFG/INDEX",
@@ -46,7 +48,12 @@
       "JapanFG/toyota-financial",
       "banking/INDEX",
       "finance/INDEX",
+      "manufacturing/hitachi-industrial-finance-platform",
+      "manufacturing/mitsubishi-heavy-export-finance",
+      "manufacturing/panasonic-captive-finance",
       "manufacturing/seiko-epson",
+      "manufacturing/sony-group-finance-arm",
+      "manufacturing/toyota-financial-services",
       "manufacturing/toyota-motor"
     ],
     "resolved_wikilinks": [
@@ -56,16 +63,21 @@
       "https://finwiki.zksc.io/JapanFG/toyota-financial",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/finance/INDEX",
+      "https://finwiki.zksc.io/manufacturing/hitachi-industrial-finance-platform",
+      "https://finwiki.zksc.io/manufacturing/mitsubishi-heavy-export-finance",
+      "https://finwiki.zksc.io/manufacturing/panasonic-captive-finance",
       "https://finwiki.zksc.io/manufacturing/seiko-epson",
+      "https://finwiki.zksc.io/manufacturing/sony-group-finance-arm",
+      "https://finwiki.zksc.io/manufacturing/toyota-financial-services",
       "https://finwiki.zksc.io/manufacturing/toyota-motor"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1736,
-    "word_like_tokens": 252,
+    "nonspace_chars": 3386,
+    "word_like_tokens": 476,
     "inbound_wikilinks_count": 10,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-06-03"
   }
 }

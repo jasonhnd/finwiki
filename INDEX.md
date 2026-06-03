@@ -47,7 +47,7 @@ FinWiki is a public-facing Markdown knowledge base for finance, fintech, crypto-
 - [ai-index.json](ai-index.json): machine-readable JSON manifest for programmatic traversal and retrieval.
 - [sitemap.xml](sitemap.xml): XML sitemap for crawlers and search engines.
 - [robots.txt](robots.txt): crawler policy pointing to the sitemap and LLM entry points.
-- `tools/generate_ai_discovery.py`: repeatable generator for all AI discovery surfaces.
+- `tools/generate_ai_discovery.ts`: repeatable generator for all AI discovery surfaces (run with `bun`).
 
 ## Control Documents
 
@@ -58,7 +58,12 @@ FinWiki is a public-facing Markdown knowledge base for finance, fintech, crypto-
 - [[CHANGELOG]] / [CHANGELOG](CHANGELOG): bilingual maintenance record.
 - [[AGENTS]] / [AGENTS](AGENTS): local agent rules for this repository.
 - [wiki-link-improvement-plan.md](wiki-link-improvement-plan.md): body-link density and semantic-link audit report.
-- `tools/wiki_link_audit.py`: repeatable internal-link quality audit.
+- [cross-domain-anchor-convention.md](cross-domain-anchor-convention.md): rule for designating the single canonical domain anchor for a multi-domain entity.
+- [entity-mirror-page-policy.md](entity-mirror-page-policy.md): when a parallel mirror page is justified versus a single anchor with reciprocal cross-links.
+- [topic-cluster-reference.md](topic-cluster-reference.md): cross-domain thematic cluster index for entries that span domain boundaries.
+- [domain-bridge-navigation-guide.md](domain-bridge-navigation-guide.md): directed cross-domain reader journeys ("if reading X, go to Y").
+- [frontmatter-canonical-anchor-field-proposal.md](frontmatter-canonical-anchor-field-proposal.md): forward-looking proposal for an optional `canonical_anchor:` frontmatter field (not yet adopted in SCHEMA).
+- `tools/wiki_link_audit.ts`: repeatable internal-link quality audit (run with `bun`).
 - `.templates/`: new-entry template surface.
 - `releases/`: public release-note drafts.
 
@@ -78,4 +83,4 @@ FinWiki is a public-facing Markdown knowledge base for finance, fintech, crypto-
 4. Add body wikilinks, not only footer `Related` links.
 5. Update relevant domain indexes when entry lists change.
 6. Update `README.md` and `CHANGELOG.md` for public-surface, structure, sync, release, or maintenance-rule changes.
-7. Run `python3 tools/generate_ai_discovery.py` whenever wiki content, indexes, domain counts, or public snapshots change, then commit the refreshed `robots.txt`, `sitemap.xml`, `llms.txt`, `llms-full.txt`, and `ai-index.json`.
+7. Run `bun tools/generate_ai_discovery.ts` whenever wiki content, indexes, domain counts, or public snapshots change, then commit the refreshed `robots.txt`, `sitemap.xml`, `llms.txt`, `llms-full.txt`, and `ai-index.json`.

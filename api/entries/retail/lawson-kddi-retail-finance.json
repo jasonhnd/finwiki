@@ -41,7 +41,7 @@
       "https://www.mitsubishicorp.com/jp/ja/pr/"
     ]
   },
-  "summary": "After the February 2024 joint tender offer in which KDDI and Mitsubishi Corp each took 50% of Lawson at ¥4,952 per share, Lawson became a telco-anchored convenience-store finance case rather than a pure trading-house retail asset. For FinWiki, this is the third convenience-store finance model, sitti",
+  "summary": "After the February 2024 joint tender offer in which KDDI and Mitsubishi Corp each took 50% of Lawson at ¥10,360 per share, Lawson became a telco-anchored convenience-store finance case rather than a pure trading-house retail asset. For FinWiki, this is the third convenience-store finance model, sitt",
   "headings": [
     "Lawson + KDDI Retail Finance",
     "TL;DR",
@@ -88,9 +88,9 @@
     ]
   },
   "metrics": {
-    "nonspace_chars": 6269,
+    "nonspace_chars": 6271,
     "word_like_tokens": 1090,
     "inbound_wikilinks_count": 9,
-    "last_modified": "2026-06-02"
+    "last_modified": "2026-06-03"
   }
 }

@@ -45,7 +45,7 @@ FinWiki entries must work as connected wiki nodes, not as isolated notes with on
 - Every true wiki entry should contain at least three body `[[wikilink]]` links before `## Related` or `## Sources`.
 - Body links should normally include one route link to the domain index or nearest routing page, one peer / contrast link, and one system / regulatory link.
 - `## Related` remains useful as a footer, but footer-only links do not satisfy the body-link requirement.
-- Run `python3 tools/wiki_link_audit.py --report wiki-link-improvement-plan.md --fail-on-issues` before push.
+- Run `bun tools/wiki_link_audit.ts --report wiki-link-improvement-plan.md --fail-on-issues` before push.
 
 ## Optional / Legacy Fields
 
