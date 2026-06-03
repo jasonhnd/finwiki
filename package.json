@@ -12,5 +12,22 @@
     "wiki:audit:ci": "bun tools/wiki_link_audit.ts --fail-on-issues",
     "publish:assemble": "bun tools/assemble_static_publish.ts --out _vercel_public",
     "vercel:build": "bun tools/vercel_build.ts"
-  }
+  },
+  "version": "1.0.0",
+  "description": "FinWiki は、金融、決済、ステーブルコイン、暗号資産、資本市場、日本の金融機関、政策金融、公開企業・公開人物の戦略ケースを扱う Markdown ナレッジベースです。主なリンク形式は Obsidian の `[[wikilink]]` で、全体入口は [INDEX.md](INDEX.md) です。",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasonhnd/finwiki.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasonhnd/finwiki/issues"
+  },
+  "homepage": "https://github.com/jasonhnd/finwiki#readme"
 }

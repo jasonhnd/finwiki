@@ -31,6 +31,19 @@
 
 ## 2026-06-03
 
+### package metadata の公開同期 / Public package metadata sync / package metadata 公开同步
+#### 日本語記録 / English / 中文
+- **JST 時刻**: 2026-06-03 13:48 JST。
+- **背景**: 前回 push 後、root `package.json` だけが未コミットで残っていた。ユーザーから全内容を GitHub へ提交する指示があったため、残っていた package metadata を公開 repository state として取り込む。
+- **範囲**: `package.json`、`README.md`、`CHANGELOG.md`、`releases/v2026.06.03-4.md`、release-generated discovery surface と root content map。wiki 本文、i18n entry、site UI 実装は変更しない。
+- **主要変更**: root `package.json` に `version`、日本語 description、`main`、`directories.lib`、GitHub repository URL、keywords / author、license、bugs URL、homepage を追加し、project metadata を repository entry と揃えた。
+- **実行手順**: 残っていた `package.json` diff を確認し、README / CHANGELOG / release notes を三語で追加した。release write により Markdown count、root `index.html`、AI discovery surface、footer timestamp を再同期する。
+- **検証結果**: release strict check、site build、Pagefind index、duplicate HTML id gate、diff whitespace check を再実行してから commit / push する。
+- **既知の注意点**: 今回は metadata 同期のみであり、公開 wiki 本文や rendered ja 表示の挙動は変更しない。
+- **次の作業**: push 後に remote HEAD、GitHub Actions、GitHub Release を確認し、working tree に未提交内容が残っていないことを確認する。
+- **EN**: Committed the remaining root `package.json` metadata after the previous push left it uncommitted. The change adds version, Japanese description, repository, bugs, homepage, and related npm / GitHub metadata fields, with README / CHANGELOG / release notes and generated discovery surfaces kept in sync. No wiki body, i18n entry, or site UI behavior changes are included.
+- **中文**: 前一次 push 后只剩 root `package.json` 未提交。本轮按用户要求把剩余内容一并提交到 GitHub：新增 version、日文 description、repository、bugs、homepage 等 npm / GitHub 元数据字段，并同步 README、CHANGELOG、release notes 与生成的 discovery surface。本次不改 wiki 正文、i18n entry 或站点 UI 行为。
+
 ### 日本語サイト表示層の英語残留修正 / Japanese-site display-layer English residue cleanup / 日文站点显示层英文残留修正
 #### 日本語記録 / English / 中文
 - **JST 時刻**: 2026-06-03 13:32 JST。
