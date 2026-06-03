@@ -17,13 +17,13 @@
 
 ## Current Snapshot
 
-- Markdown files: 1484
-- Public Markdown pages in machine manifest: 1483
+- Markdown files: 1485
+- Public Markdown pages in machine manifest: 1484
 - Topical domains: 23
 - Link-audited entries: 1420
 - Unresolved link issues: 0
-- Non-space UTF-8 characters across Markdown: 10,079,420
-- Word-like tokens: 1,629,649
+- Non-space UTF-8 characters across Markdown: 10,094,949
+- Word-like tokens: 1,632,339
 
 ## URL Rules for AI Readers
 
@@ -49,8 +49,8 @@
 - finance (27 entries): https://finwiki.zksc.io/finance/INDEX - Public finance reference pages for FIRE math, cross-border M&A, acquisition finance, activist / engagement playbook, tender offers / public-company control transactions, MBO / squeeze-out process, large-shareholding disclosure, fair disclosure / insider trading controls, shareholder proposal / AGM voting route, investment-banking league tables, and public tax-jurisdiction comparison.
 - security (6 entries): https://finwiki.zksc.io/security/INDEX - Forensics, supply-chain risk, bytecode verification, and Wayback evidence preservation.
 - money-market (12 entries): https://finwiki.zksc.io/money-market/INDEX - Call markets, JGB repo / securities financing, BoJ open-market operations, and Japan money-market structure.
-- governance (4 entries): https://finwiki.zksc.io/governance/INDEX - Public legal and grant information for Japanese foundations and research grants.
-- manufacturing (8 entries): https://finwiki.zksc.io/manufacturing/INDEX - Manufacturing companies relevant to finance, regional banks, and captive finance.
+- non-profit (4 entries): https://finwiki.zksc.io/non-profit/INDEX - Japanese non-profit / public-interest legal structures (foundations, associations, NPOs) and research-grant information. Corporate / listed-company governance lives in finance / securities / exchanges.
+- manufacturer-finance (8 entries): https://finwiki.zksc.io/manufacturer-finance/INDEX - Manufacturer captive / vendor / export finance arms and OEM finance subsidiaries. Parent manufacturer entity pages live in JapanFG; manufacturing ABS lives in structured-finance.
 - retail (8 entries): https://finwiki.zksc.io/retail/INDEX - Retail groups as financial-services, payment, loyalty, ATM, and distribution platforms.
 - trade (4 entries): https://finwiki.zksc.io/trade/INDEX - JETRO and trade-channel knowledge.
 - corporate-strategy (6 entries): https://finwiki.zksc.io/corporate-strategy/INDEX - Public corporate reorganization and tax-structured spin-off reference.

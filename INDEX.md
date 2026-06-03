@@ -28,8 +28,8 @@ FinWiki is a public-facing Markdown knowledge base for finance, fintech, crypto-
 | finance | 27 | [[finance/INDEX]] / [web](finance/INDEX) | Public finance reference pages for FIRE math, cross-border M&A, acquisition finance, activist / engagement playbook, tender offers / public-company control transactions, MBO / squeeze-out process, large-shareholding disclosure, fair disclosure / insider trading controls, shareholder proposal / AGM voting route, investment-banking league tables, and public tax-jurisdiction comparison. |
 | security | 6 | [[security/INDEX]] / [web](security/INDEX) | Forensics, supply-chain risk, bytecode verification, and Wayback evidence preservation. |
 | money-market | 12 | [[money-market/INDEX]] / [web](money-market/INDEX) | Call markets, JGB repo / securities financing, BoJ open-market operations, and Japan money-market structure. |
-| governance | 4 | [[governance/INDEX]] / [web](governance/INDEX) | Public legal and grant information for Japanese foundations and research grants. |
-| manufacturing | 8 | [[manufacturing/INDEX]] / [web](manufacturing/INDEX) | Manufacturing companies relevant to finance, regional banks, and captive finance. |
+| non-profit | 4 | [[non-profit/INDEX]] / [web](non-profit/INDEX) | Japanese non-profit / public-interest legal structures (foundations, associations, NPOs) and research-grant information. Corporate / listed-company governance lives in finance / securities / exchanges. |
+| manufacturer-finance | 8 | [[manufacturer-finance/INDEX]] / [web](manufacturer-finance/INDEX) | Manufacturer captive / vendor / export finance arms and OEM finance subsidiaries. Parent manufacturer entity pages live in JapanFG; manufacturing ABS lives in structured-finance. |
 | retail | 8 | [[retail/INDEX]] / [web](retail/INDEX) | Retail groups as financial-services, payment, loyalty, ATM, and distribution platforms. |
 | trade | 4 | [[trade/INDEX]] / [web](trade/INDEX) | JETRO and trade-channel knowledge. |
 | corporate-strategy | 6 | [[corporate-strategy/INDEX]] / [web](corporate-strategy/INDEX) | Public corporate reorganization and tax-structured spin-off reference. |

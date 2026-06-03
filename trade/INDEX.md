@@ -58,7 +58,7 @@ When expanding this domain:
 ## Related domains
 
 - [[policy-finance/INDEX|policy-finance INDEX]] — JBIC, NEXI, JICA and related Japan public-finance institutions that frequently co-package with JETRO programs.
-- [[governance/INDEX|governance INDEX]] — Japan non-profit / public-interest legal structures, including foundations that operate alongside METI-orbit trade programs.
+- [[non-profit/INDEX|governance INDEX]] — Japan non-profit / public-interest legal structures, including foundations that operate alongside METI-orbit trade programs.
 - [[finance/INDEX|finance INDEX]] — general financial-system framing.
 - [[JapanFG/INDEX|JapanFG INDEX]] — Japanese financial groups whose trade-finance arms intersect with JETRO services.
 - [[INDEX|FinWiki index]] — top-level navigation.

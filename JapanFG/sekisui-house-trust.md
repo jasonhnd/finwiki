@@ -42,7 +42,7 @@ The page matters because it is a housing-company trust route. It shows how a con
 | Group context | Sekisui House group |
 | Registry route | FSA trust-company list |
 
-Keep this page focused on the trust company. Use [[manufacturing/INDEX|manufacturing]] or business pages for the operating-company side of housing / construction if needed.
+Keep this page focused on the trust company. Use [[manufacturer-finance/INDEX|manufacturing]] or business pages for the operating-company side of housing / construction if needed.
 
 ## Business Role Map
 

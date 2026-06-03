@@ -1,0 +1,83 @@
+{
+  "schema_version": "1.0",
+  "slug": "non-profit/japan-koeki-vs-general-zaidan-comparison",
+  "source_path": "non-profit/japan-koeki-vs-general-zaidan-comparison.md",
+  "url": "https://finwiki.zksc.io/non-profit/japan-koeki-vs-general-zaidan-comparison",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/non-profit/japan-koeki-vs-general-zaidan-comparison.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/non-profit/japan-koeki-vs-general-zaidan-comparison.md",
+  "domain": "non-profit",
+  "title": "公益財団 vs 一般財団 vs 一般社団 vs NPO法人 — Japan non-profit / public-interest legal form comparison",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "公益財団 vs 一般財団 vs 一般社団 vs NPO法人 — Japan non-profit / public-interest legal form comparison",
+    "aliases": [
+      "japan-koeki-vs-general-zaidan-comparison",
+      "公益財団 一般財団 比較",
+      "japan koeki zaidan ippan shadan NPO comparison",
+      "japan non-profit legal forms",
+      "japan public interest foundation",
+      "japan general foundation vs NPO",
+      "公益認定 vs NPO 認証",
+      "Japan koeki ippan zaidan shadan NPO"
+    ],
+    "domain": "non-profit",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "governance",
+      "non-profit",
+      "japan",
+      "foundation",
+      "tax-deductible"
+    ],
+    "status": "active",
+    "sources": [
+      "https://laws.e-gov.go.jp/",
+      "https://www.koeki-info.go.jp/",
+      "https://www.npo-homepage.go.jp/",
+      "https://www.moj.go.jp/MINJI/minji153.html",
+      "https://www.nta.go.jp/taxes/shiraberu/taxanswer/hojin/5275.htm"
+    ]
+  },
+  "summary": "This entry sits under governance INDEX and routes into corporate-strategy INDEX for entity selection in mission-driven structures. Read with Japan 一般財団法人 establishment requirements for the foundation-mechanics detail and Japan research grant map 2026 for the downstream grant-eligibility question.",
+  "headings": [
+    "公益財団 vs 一般財団 vs 一般社団 vs NPO法人 — Japan non-profit / public-interest legal form comparison",
+    "Wiki route",
+    "TL;DR",
+    "Side-by-Side Comparison Table",
+    "Choosing Between Foundation and Association",
+    "When Public-Interest 公益 Status Matters",
+    "NPO法人 — Different Statute, Different Logic",
+    "A Decision Tree",
+    "Governance Comparison — Required Organs",
+    "Tax Treatment in More Detail"
+  ],
+  "body_links": {
+    "wikilinks_count": 5,
+    "wikilinks": [
+      "INDEX",
+      "corporate-strategy/INDEX",
+      "non-profit/INDEX",
+      "non-profit/japan-general-foundation-establishment-requirements",
+      "non-profit/japan-research-grant-map-2026"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/corporate-strategy/INDEX",
+      "https://finwiki.zksc.io/non-profit/INDEX",
+      "https://finwiki.zksc.io/non-profit/japan-general-foundation-establishment-requirements",
+      "https://finwiki.zksc.io/non-profit/japan-research-grant-map-2026"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 12961,
+    "word_like_tokens": 2141,
+    "inbound_wikilinks_count": 1,
+    "last_modified": "2026-06-03"
+  }
+}

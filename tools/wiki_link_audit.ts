@@ -120,14 +120,14 @@ const DOMAIN_SYSTEM_CANDIDATES: Record<string, string[]> = {
     "business/gmo-internet-group",
     "JapanFG/INDEX",
   ],
-  governance: [
-    "governance/japan-general-foundation-establishment-requirements",
+  "non-profit": [
+    "non-profit/japan-general-foundation-establishment-requirements",
     "policy-finance/INDEX",
     "JapanFG/INDEX",
   ],
   loyalty: ["loyalty/INDEX", "retail/INDEX", "payments/INDEX"],
-  manufacturing: [
-    "manufacturing/INDEX",
+  "manufacturer-finance": [
+    "manufacturer-finance/INDEX",
     "JapanFG/INDEX",
     "business/gmo-internet-group",
   ],

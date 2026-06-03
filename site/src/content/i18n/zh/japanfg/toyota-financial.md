@@ -24,7 +24,7 @@ translated_at: 2026-06-01T02:31:57.139Z
 **设立**：2000-07-03
 **总部**：爱知县名古屋市西区（临近丰田汽车集团据点）
 **上市**：非上市 — 丰田汽车（东证 PRIME 7203）100% consolidated subsidiary
-**母公司**：丰田汽车株式会社（[[manufacturing/toyota-motor|toyota-motor]]）
+**母公司**：丰田汽车株式会社（[[manufacturer-finance/toyota-motor|toyota-motor]]）
 **定位**：Toyota group 的**金融事业统括持股公司**
 
 ### 主要子公司 / 集团公司
@@ -129,7 +129,7 @@ translated_at: 2026-06-01T02:31:57.139Z
 
 ## Related
 
-- [[manufacturing/toyota-motor|toyota-motor]]（母公司）
+- [[manufacturer-finance/toyota-motor|toyota-motor]]（母公司）
 - [[orix-corp]] · [[tokyo-century]]（独立系租赁竞争对手）
 - [[mufg]]（经 Mitsubishi HC Capital 形成租赁竞争）
 - 其他汽车系金融：Nissan NMAC · Honda Finance

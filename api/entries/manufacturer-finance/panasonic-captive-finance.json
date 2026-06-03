@@ -1,0 +1,105 @@
+{
+  "schema_version": "1.0",
+  "slug": "manufacturer-finance/panasonic-captive-finance",
+  "source_path": "manufacturer-finance/panasonic-captive-finance.md",
+  "url": "https://finwiki.zksc.io/manufacturer-finance/panasonic-captive-finance",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/manufacturer-finance/panasonic-captive-finance.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/manufacturer-finance/panasonic-captive-finance.md",
+  "domain": "manufacturer-finance",
+  "title": "Panasonic Captive Finance (パナソニック顧客金融)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Panasonic Captive Finance (パナソニック顧客金融)",
+    "aliases": [
+      "panasonic-captive-finance",
+      "Panasonic Captive Finance",
+      "Panasonic Finance",
+      "パナソニック ファイナンス",
+      "パナソニック オペレーショナル エクセレンス",
+      "Panasonic Operational Excellence"
+    ],
+    "domain": "manufacturer-finance",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "manufacturing",
+      "panasonic",
+      "captive-finance",
+      "vendor-finance",
+      "ev-battery",
+      "japan",
+      "b2b"
+    ],
+    "status": "active",
+    "sources": [
+      "https://holdings.panasonic/global/corporate/about/ir/",
+      "https://holdings.panasonic/global/corporate/about/profile.html",
+      "https://news.panasonic.com/global/",
+      "https://disclosure2.edinet-fsa.go.jp/",
+      "https://www.smfl.co.jp/"
+    ]
+  },
+  "summary": "This entry sits under manufacturing index. Read it against Hitachi 産業金融, Sony FG, MHI 輸出金融, and Toyota Financial Services for peer industrial-conglomerate finance arms. Pair with SMFL (三井住友ファイナンス&リース) and MUFG for the bank-side counterpart of Panasonic's B2B vendor-finance flows, JapanFG index for t",
+  "headings": [
+    "Panasonic Captive Finance (パナソニック顧客金融)",
+    "Wiki route",
+    "TL;DR",
+    "1. 会社構造と金融部門の位置",
+    "金融部門の位置 (2022 持株会社制移行後)",
+    "2. 製品 / 事業ライン × 金融組成パターン",
+    "3. KPI (FY2024 連結)",
+    "4. 戦略 (Operational Excellence + Energy)",
+    "5. 規制・政策",
+    "Related"
+  ],
+  "body_links": {
+    "wikilinks_count": 16,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/INDEX",
+      "JapanFG/jbic",
+      "JapanFG/mitsubishi-hc-capital",
+      "JapanFG/mufg",
+      "JapanFG/orix-corp",
+      "JapanFG/smfg",
+      "JapanFG/smfl",
+      "manufacturer-finance/INDEX",
+      "manufacturer-finance/hitachi-industrial-finance-platform",
+      "manufacturer-finance/mitsubishi-heavy-export-finance",
+      "manufacturer-finance/seiko-epson",
+      "manufacturer-finance/sony-group-finance-arm",
+      "manufacturer-finance/toyota-financial-services",
+      "manufacturer-finance/toyota-motor",
+      "policy-finance/nexi"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/jbic",
+      "https://finwiki.zksc.io/JapanFG/mitsubishi-hc-capital",
+      "https://finwiki.zksc.io/JapanFG/mufg",
+      "https://finwiki.zksc.io/JapanFG/orix-corp",
+      "https://finwiki.zksc.io/JapanFG/smfg",
+      "https://finwiki.zksc.io/JapanFG/smfl",
+      "https://finwiki.zksc.io/manufacturer-finance/INDEX",
+      "https://finwiki.zksc.io/manufacturer-finance/hitachi-industrial-finance-platform",
+      "https://finwiki.zksc.io/manufacturer-finance/mitsubishi-heavy-export-finance",
+      "https://finwiki.zksc.io/manufacturer-finance/seiko-epson",
+      "https://finwiki.zksc.io/manufacturer-finance/sony-group-finance-arm",
+      "https://finwiki.zksc.io/manufacturer-finance/toyota-financial-services",
+      "https://finwiki.zksc.io/manufacturer-finance/toyota-motor",
+      "https://finwiki.zksc.io/policy-finance/nexi"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 5781,
+    "word_like_tokens": 906,
+    "inbound_wikilinks_count": 5,
+    "last_modified": "2026-06-03"
+  }
+}

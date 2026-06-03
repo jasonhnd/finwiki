@@ -53,7 +53,7 @@
       "JapanFG/hogaraka-trust",
       "JapanFG/trust-companies-japan-index",
       "banking/japan-trust-bank-custody-map",
-      "governance/japan-general-foundation-establishment-requirements"
+      "non-profit/japan-general-foundation-establishment-requirements"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
@@ -61,15 +61,15 @@
       "https://finwiki.zksc.io/JapanFG/hogaraka-trust",
       "https://finwiki.zksc.io/JapanFG/trust-companies-japan-index",
       "https://finwiki.zksc.io/banking/japan-trust-bank-custody-map",
-      "https://finwiki.zksc.io/governance/japan-general-foundation-establishment-requirements"
+      "https://finwiki.zksc.io/non-profit/japan-general-foundation-establishment-requirements"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
     "nonspace_chars": 3132,
-    "word_like_tokens": 465,
+    "word_like_tokens": 467,
     "inbound_wikilinks_count": 2,
-    "last_modified": "2026-05-22"
+    "last_modified": "2026-06-03"
   }
 }

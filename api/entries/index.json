@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-06-03T17:25:14+09:00",
+  "generated_at": "2026-06-03T18:09:40+09:00",
   "site_url": "https://finwiki.zksc.io/",
   "total_entries": 1413,
   "entries": [
@@ -7684,34 +7684,6 @@
       "html_url": "https://finwiki.zksc.io/fintech/world-liberty-usd1-political-stablecoin"
     },
     {
-      "slug": "governance/INDEX",
-      "domain": "governance",
-      "title": "Governance domain",
-      "api_url": "https://finwiki.zksc.io/api/entries/governance/INDEX.json",
-      "html_url": "https://finwiki.zksc.io/governance/INDEX"
-    },
-    {
-      "slug": "governance/japan-general-foundation-establishment-requirements",
-      "domain": "governance",
-      "title": "日本 一般財団法人 設立要件・プロセス",
-      "api_url": "https://finwiki.zksc.io/api/entries/governance/japan-general-foundation-establishment-requirements.json",
-      "html_url": "https://finwiki.zksc.io/governance/japan-general-foundation-establishment-requirements"
-    },
-    {
-      "slug": "governance/japan-koeki-vs-general-zaidan-comparison",
-      "domain": "governance",
-      "title": "公益財団 vs 一般財団 vs 一般社団 vs NPO法人 — Japan non-profit / public-interest legal form comparison",
-      "api_url": "https://finwiki.zksc.io/api/entries/governance/japan-koeki-vs-general-zaidan-comparison.json",
-      "html_url": "https://finwiki.zksc.io/governance/japan-koeki-vs-general-zaidan-comparison"
-    },
-    {
-      "slug": "governance/japan-research-grant-map-2026",
-      "domain": "governance",
-      "title": "日本 研究助成金 map（2026 年度）",
-      "api_url": "https://finwiki.zksc.io/api/entries/governance/japan-research-grant-map-2026.json",
-      "html_url": "https://finwiki.zksc.io/governance/japan-research-grant-map-2026"
-    },
-    {
       "slug": "insurance/INDEX",
       "domain": "insurance",
       "title": "Insurance domain",
@@ -8027,60 +7999,60 @@
       "html_url": "https://finwiki.zksc.io/loyalty/v-point-smbc-ccc-case"
     },
     {
-      "slug": "manufacturing/INDEX",
-      "domain": "manufacturing",
+      "slug": "manufacturer-finance/INDEX",
+      "domain": "manufacturer-finance",
       "title": "manufacturing — Japanese manufacturing company index",
-      "api_url": "https://finwiki.zksc.io/api/entries/manufacturing/INDEX.json",
-      "html_url": "https://finwiki.zksc.io/manufacturing/INDEX"
+      "api_url": "https://finwiki.zksc.io/api/entries/manufacturer-finance/INDEX.json",
+      "html_url": "https://finwiki.zksc.io/manufacturer-finance/INDEX"
     },
     {
-      "slug": "manufacturing/hitachi-industrial-finance-platform",
-      "domain": "manufacturing",
+      "slug": "manufacturer-finance/hitachi-industrial-finance-platform",
+      "domain": "manufacturer-finance",
       "title": "Hitachi Industrial Finance Platform (日立グループ産業金融プラットフォーム)",
-      "api_url": "https://finwiki.zksc.io/api/entries/manufacturing/hitachi-industrial-finance-platform.json",
-      "html_url": "https://finwiki.zksc.io/manufacturing/hitachi-industrial-finance-platform"
+      "api_url": "https://finwiki.zksc.io/api/entries/manufacturer-finance/hitachi-industrial-finance-platform.json",
+      "html_url": "https://finwiki.zksc.io/manufacturer-finance/hitachi-industrial-finance-platform"
     },
     {
-      "slug": "manufacturing/mitsubishi-heavy-export-finance",
-      "domain": "manufacturing",
+      "slug": "manufacturer-finance/mitsubishi-heavy-export-finance",
+      "domain": "manufacturer-finance",
       "title": "Mitsubishi Heavy Export Finance (三菱重工 輸出金融プラットフォーム)",
-      "api_url": "https://finwiki.zksc.io/api/entries/manufacturing/mitsubishi-heavy-export-finance.json",
-      "html_url": "https://finwiki.zksc.io/manufacturing/mitsubishi-heavy-export-finance"
+      "api_url": "https://finwiki.zksc.io/api/entries/manufacturer-finance/mitsubishi-heavy-export-finance.json",
+      "html_url": "https://finwiki.zksc.io/manufacturer-finance/mitsubishi-heavy-export-finance"
     },
     {
-      "slug": "manufacturing/panasonic-captive-finance",
-      "domain": "manufacturing",
+      "slug": "manufacturer-finance/panasonic-captive-finance",
+      "domain": "manufacturer-finance",
       "title": "Panasonic Captive Finance (パナソニック顧客金融)",
-      "api_url": "https://finwiki.zksc.io/api/entries/manufacturing/panasonic-captive-finance.json",
-      "html_url": "https://finwiki.zksc.io/manufacturing/panasonic-captive-finance"
+      "api_url": "https://finwiki.zksc.io/api/entries/manufacturer-finance/panasonic-captive-finance.json",
+      "html_url": "https://finwiki.zksc.io/manufacturer-finance/panasonic-captive-finance"
     },
     {
-      "slug": "manufacturing/seiko-epson",
-      "domain": "manufacturing",
+      "slug": "manufacturer-finance/seiko-epson",
+      "domain": "manufacturer-finance",
       "title": "Seiko Epson Corporation (セイコーエプソン)",
-      "api_url": "https://finwiki.zksc.io/api/entries/manufacturing/seiko-epson.json",
-      "html_url": "https://finwiki.zksc.io/manufacturing/seiko-epson"
+      "api_url": "https://finwiki.zksc.io/api/entries/manufacturer-finance/seiko-epson.json",
+      "html_url": "https://finwiki.zksc.io/manufacturer-finance/seiko-epson"
     },
     {
-      "slug": "manufacturing/sony-group-finance-arm",
-      "domain": "manufacturing",
+      "slug": "manufacturer-finance/sony-group-finance-arm",
+      "domain": "manufacturer-finance",
       "title": "Sony Group Finance Arm (ソニーグループ 金融事業アーム)",
-      "api_url": "https://finwiki.zksc.io/api/entries/manufacturing/sony-group-finance-arm.json",
-      "html_url": "https://finwiki.zksc.io/manufacturing/sony-group-finance-arm"
+      "api_url": "https://finwiki.zksc.io/api/entries/manufacturer-finance/sony-group-finance-arm.json",
+      "html_url": "https://finwiki.zksc.io/manufacturer-finance/sony-group-finance-arm"
     },
     {
-      "slug": "manufacturing/toyota-financial-services",
-      "domain": "manufacturing",
+      "slug": "manufacturer-finance/toyota-financial-services",
+      "domain": "manufacturer-finance",
       "title": "Toyota Financial Services (トヨタファイナンシャルサービス 製造業視点アンカー)",
-      "api_url": "https://finwiki.zksc.io/api/entries/manufacturing/toyota-financial-services.json",
-      "html_url": "https://finwiki.zksc.io/manufacturing/toyota-financial-services"
+      "api_url": "https://finwiki.zksc.io/api/entries/manufacturer-finance/toyota-financial-services.json",
+      "html_url": "https://finwiki.zksc.io/manufacturer-finance/toyota-financial-services"
     },
     {
-      "slug": "manufacturing/toyota-motor",
-      "domain": "manufacturing",
+      "slug": "manufacturer-finance/toyota-motor",
+      "domain": "manufacturer-finance",
       "title": "Toyota Motor Corporation (トヨタ自動車)",
-      "api_url": "https://finwiki.zksc.io/api/entries/manufacturing/toyota-motor.json",
-      "html_url": "https://finwiki.zksc.io/manufacturing/toyota-motor"
+      "api_url": "https://finwiki.zksc.io/api/entries/manufacturer-finance/toyota-motor.json",
+      "html_url": "https://finwiki.zksc.io/manufacturer-finance/toyota-motor"
     },
     {
       "slug": "money-market/INDEX",
@@ -8165,6 +8137,34 @@
       "title": "Tanshi company business model",
       "api_url": "https://finwiki.zksc.io/api/entries/money-market/tanshi-company-business-model.json",
       "html_url": "https://finwiki.zksc.io/money-market/tanshi-company-business-model"
+    },
+    {
+      "slug": "non-profit/INDEX",
+      "domain": "non-profit",
+      "title": "Governance domain",
+      "api_url": "https://finwiki.zksc.io/api/entries/non-profit/INDEX.json",
+      "html_url": "https://finwiki.zksc.io/non-profit/INDEX"
+    },
+    {
+      "slug": "non-profit/japan-general-foundation-establishment-requirements",
+      "domain": "non-profit",
+      "title": "日本 一般財団法人 設立要件・プロセス",
+      "api_url": "https://finwiki.zksc.io/api/entries/non-profit/japan-general-foundation-establishment-requirements.json",
+      "html_url": "https://finwiki.zksc.io/non-profit/japan-general-foundation-establishment-requirements"
+    },
+    {
+      "slug": "non-profit/japan-koeki-vs-general-zaidan-comparison",
+      "domain": "non-profit",
+      "title": "公益財団 vs 一般財団 vs 一般社団 vs NPO法人 — Japan non-profit / public-interest legal form comparison",
+      "api_url": "https://finwiki.zksc.io/api/entries/non-profit/japan-koeki-vs-general-zaidan-comparison.json",
+      "html_url": "https://finwiki.zksc.io/non-profit/japan-koeki-vs-general-zaidan-comparison"
+    },
+    {
+      "slug": "non-profit/japan-research-grant-map-2026",
+      "domain": "non-profit",
+      "title": "日本 研究助成金 map（2026 年度）",
+      "api_url": "https://finwiki.zksc.io/api/entries/non-profit/japan-research-grant-map-2026.json",
+      "html_url": "https://finwiki.zksc.io/non-profit/japan-research-grant-map-2026"
     },
     {
       "slug": "payments/INDEX",
