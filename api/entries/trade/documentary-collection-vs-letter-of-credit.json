@@ -1,0 +1,90 @@
+{
+  "schema_version": "1.0",
+  "slug": "trade/documentary-collection-vs-letter-of-credit",
+  "source_path": "trade/documentary-collection-vs-letter-of-credit.md",
+  "url": "https://finwiki.zksc.io/trade/documentary-collection-vs-letter-of-credit",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/trade/documentary-collection-vs-letter-of-credit.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/trade/documentary-collection-vs-letter-of-credit.md",
+  "domain": "trade",
+  "title": "Documentary collection vs letter of credit — trade settlement methods compared",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Documentary collection vs letter of credit — trade settlement methods compared",
+    "aliases": [
+      "documentary-collection-vs-letter-of-credit",
+      "荷為替手形決済",
+      "にがわせてがた",
+      "documentary collection",
+      "URC 522 collection",
+      "D/P D/A documents against payment acceptance",
+      "trade settlement methods comparison"
+    ],
+    "domain": "trade",
+    "created": "2026-06-03",
+    "last_updated": "2026-06-03",
+    "last_tended": "2026-06-03",
+    "review_by": "2026-12-03",
+    "confidence": "likely",
+    "tags": [
+      "trade",
+      "trade-finance",
+      "documentary-collection",
+      "settlement",
+      "urc-522",
+      "icc"
+    ],
+    "status": "active",
+    "sources": [
+      "https://2go.iccwbo.org/urc-522-uniform-rules-for-collections-config-1+book_version-Book/",
+      "https://corporatefinanceinstitute.com/resources/commercial-lending/uniform-rules-for-collections-urc/",
+      "https://iccwbo.org/business-solutions/trade-finance/",
+      "https://www.trade.gov/methods-payment"
+    ]
+  },
+  "summary": "This entry sits under trade INDEX and is the direct comparison partner to the letter of credit / documentary credit mechanism. Both are document-driven settlement methods, but they differ sharply in who carries risk. Read alongside Incoterms 2020 (which fixes the delivery point the documents evidenc",
+  "headings": [
+    "Documentary collection vs letter of credit — trade settlement methods compared",
+    "Wiki route",
+    "TL;DR",
+    "What a documentary collection is",
+    "The two collection types: D/P and D/A",
+    "The parties under URC 522",
+    "Side-by-side comparison",
+    "The settlement-method spectrum",
+    "How the choice is actually made",
+    "Limitations of documentary collections"
+  ],
+  "body_links": {
+    "wikilinks_count": 9,
+    "wikilinks": [
+      "INDEX",
+      "insurance/marine-insurance-and-pi-cover-market",
+      "payments/japan-payment-clearing-and-settlement-infrastructure",
+      "policy-finance/INDEX",
+      "policy-finance/nexi-export-credit-insurance-products",
+      "trade/INDEX",
+      "trade/incoterms-2020-trade-terms-framework",
+      "trade/jetro-vs-nexi-vs-jbic-comparison",
+      "trade/letter-of-credit-documentary-mechanism"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/insurance/marine-insurance-and-pi-cover-market",
+      "https://finwiki.zksc.io/payments/japan-payment-clearing-and-settlement-infrastructure",
+      "https://finwiki.zksc.io/policy-finance/INDEX",
+      "https://finwiki.zksc.io/policy-finance/nexi-export-credit-insurance-products",
+      "https://finwiki.zksc.io/trade/INDEX",
+      "https://finwiki.zksc.io/trade/incoterms-2020-trade-terms-framework",
+      "https://finwiki.zksc.io/trade/jetro-vs-nexi-vs-jbic-comparison",
+      "https://finwiki.zksc.io/trade/letter-of-credit-documentary-mechanism"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 9198,
+    "word_like_tokens": 1553,
+    "inbound_wikilinks_count": 3,
+    "last_modified": "2026-06-03"
+  }
+}

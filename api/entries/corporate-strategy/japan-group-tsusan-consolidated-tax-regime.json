@@ -1,0 +1,97 @@
+{
+  "schema_version": "1.0",
+  "slug": "corporate-strategy/japan-group-tsusan-consolidated-tax-regime",
+  "source_path": "corporate-strategy/japan-group-tsusan-consolidated-tax-regime.md",
+  "url": "https://finwiki.zksc.io/corporate-strategy/japan-group-tsusan-consolidated-tax-regime",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/corporate-strategy/japan-group-tsusan-consolidated-tax-regime.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/corporate-strategy/japan-group-tsusan-consolidated-tax-regime.md",
+  "domain": "corporate-strategy",
+  "title": "グループ通算制度 (Japan group tax-sharing regime) — the 2022 successor to 連結納税, loss-offsetting in wholly-owned groups, and its interaction with restructuring",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "グループ通算制度 (Japan group tax-sharing regime) — the 2022 successor to 連結納税, loss-offsetting in wholly-owned groups, and its interaction with restructuring",
+    "aliases": [
+      "japan-group-tsusan-consolidated-tax-regime",
+      "グループ通算制度",
+      "group tsusan",
+      "japan group tax sharing",
+      "japan consolidated tax regime",
+      "連結納税制度",
+      "renketsu nozei",
+      "グループ法人税制",
+      "損益通算"
+    ],
+    "domain": "corporate-strategy",
+    "created": "2026-06-03",
+    "last_updated": "2026-06-03",
+    "last_tended": "2026-06-03",
+    "review_by": "2026-12-03",
+    "confidence": "likely",
+    "tags": [
+      "corporate-strategy",
+      "tax",
+      "japan",
+      "group-taxation",
+      "holding-company",
+      "loss-offset"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.nta.go.jp/taxes/shiraberu/zeimokubetsu/hojin/group_tsusan/index.htm",
+      "https://www.nta.go.jp/law/tsutatsu/kihon/hojin/01/01_04_05.htm",
+      "https://www.meti.go.jp/policy/economy/keiei_innovation/keizaihousei/",
+      "https://laws.e-gov.go.jp/document?lawid=340AC0000000034",
+      "https://www.fsa.go.jp/en/"
+    ]
+  },
+  "summary": "This entry sits under corporate-strategy INDEX and routes into finance INDEX for the group-capital overlay. It covers the ongoing group-tax regime that becomes a live design factor the moment a group sits under a parent — so read it directly after holding-company conversion (which creates the parent",
+  "headings": [
+    "グループ通算制度 (Japan group tax-sharing regime) — the 2022 successor to 連結納税, loss-offsetting in wholly-owned groups, and its interaction with restructuring",
+    "Wiki route",
+    "TL;DR",
+    "1. Why a Group-Tax Regime Exists",
+    "2. 連結納税 → グループ通算 — What the 2022 Reform Changed",
+    "3. グループ法人税制 vs グループ通算制度 — Two Layers, Don't Confuse Them",
+    "4. How 損益通算 Works (High Level)",
+    "5. Interaction with Restructuring — Where This Domain Cares",
+    "6. Why It Sits in Corporate Strategy, Not Just Tax",
+    "7. Counterpoints and Caveats"
+  ],
+  "body_links": {
+    "wikilinks_count": 11,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/INDEX",
+      "corporate-strategy/INDEX",
+      "corporate-strategy/japan-gappei-merger-regime",
+      "corporate-strategy/japan-holding-company-conversion",
+      "corporate-strategy/japan-kabushiki-bunpai-spinoff-regime",
+      "corporate-strategy/japan-kabushiki-koukan-iten-regime",
+      "corporate-strategy/japan-kaisha-bunkatsu-tax-regime",
+      "corporate-strategy/spinoff-decision-tree-japan",
+      "finance/INDEX",
+      "finance/japan-listed-financial-groups-investable-universe"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/corporate-strategy/INDEX",
+      "https://finwiki.zksc.io/corporate-strategy/japan-gappei-merger-regime",
+      "https://finwiki.zksc.io/corporate-strategy/japan-holding-company-conversion",
+      "https://finwiki.zksc.io/corporate-strategy/japan-kabushiki-bunpai-spinoff-regime",
+      "https://finwiki.zksc.io/corporate-strategy/japan-kabushiki-koukan-iten-regime",
+      "https://finwiki.zksc.io/corporate-strategy/japan-kaisha-bunkatsu-tax-regime",
+      "https://finwiki.zksc.io/corporate-strategy/spinoff-decision-tree-japan",
+      "https://finwiki.zksc.io/finance/INDEX",
+      "https://finwiki.zksc.io/finance/japan-listed-financial-groups-investable-universe"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 11072,
+    "word_like_tokens": 1927,
+    "inbound_wikilinks_count": 1,
+    "last_modified": "2026-06-03"
+  }
+}

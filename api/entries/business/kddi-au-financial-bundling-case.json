@@ -1,0 +1,110 @@
+{
+  "schema_version": "1.0",
+  "slug": "business/kddi-au-financial-bundling-case",
+  "source_path": "business/kddi-au-financial-bundling-case.md",
+  "url": "https://finwiki.zksc.io/business/kddi-au-financial-bundling-case",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/business/kddi-au-financial-bundling-case.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/business/kddi-au-financial-bundling-case.md",
+  "domain": "business",
+  "title": "KDDI au financial bundling case — au-FH consolidates bank + payments, hands securities to MUFG in 2024 reciprocal swap",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "KDDI au financial bundling case — au-FH consolidates bank + payments, hands securities to MUFG in 2024 reciprocal swap",
+    "aliases": [
+      "kddi-au-financial-bundling-case",
+      "KDDI au-FH telco-finance case",
+      "au Jibun Bank / au Kabucom MUFG swap case",
+      "au PAY financial bundling",
+      "KDDI 金融 再編ケース"
+    ],
+    "domain": "business",
+    "created": "2026-06-03",
+    "last_updated": "2026-06-03",
+    "last_tended": "2026-06-03",
+    "review_by": "2026-12-03",
+    "confidence": "likely",
+    "tags": [
+      "business",
+      "case-study",
+      "kddi",
+      "au",
+      "au-financial-holdings",
+      "telco-finance",
+      "mufg",
+      "japan",
+      "restructuring"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.kddi.com/english/corporate/ir/",
+      "https://www.aufinancialgroup.co.jp/",
+      "https://www.mufg.jp/dam/pressrelease/2024/pdf/news-20241129-003_en.pdf",
+      "https://www.nishimura.com/en/experience/work/108106",
+      "https://www.aujibun.com/"
+    ]
+  },
+  "summary": "This entry sits under business INDEX as a public-company strategic case. Read it against NTT Docomo d-Point telco-finance case for the contrasting partner-led model (Docomo leases SMBC's balance sheet rather than owning the bank) and Rakuten Group mobile-finance bundling case for the build-everythin",
+  "headings": [
+    "KDDI au financial bundling case — au-FH consolidates bank + payments, hands securities to MUFG in 2024 reciprocal swap",
+    "Wiki route",
+    "TL;DR",
+    "1. au-FH Group Architecture",
+    "2. The 2024 Reciprocal MUFG Swap",
+    "3. Telco-Finance Division-of-Labour Pattern",
+    "4. Comparison Matrix — Telco-Finance Models In Japan",
+    "5. Strategic Rationale",
+    "6. Read-Across To Other Telco-Finance Stacks",
+    "7. Counterpoints"
+  ],
+  "body_links": {
+    "wikilinks_count": 18,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/au-fh",
+      "JapanFG/au-insurance",
+      "JapanFG/au-jibun-bank",
+      "JapanFG/au-payment",
+      "JapanFG/mufg",
+      "JapanFG/payments-cards-leasing-finance-index",
+      "JapanFG/paypay-fg",
+      "JapanFG/rakuten-fg",
+      "JapanFG/smfg",
+      "business/INDEX",
+      "business/gmo-internet-group",
+      "business/ntt-docomo-d-point-telco-finance-case",
+      "business/rakuten-group-mobile-finance-bundling-case",
+      "business/softbank-paypay-financial-integration-case",
+      "corporate-strategy/partial-spinoff-tax-deferral",
+      "loyalty/d-point-au-kddi-docomo-telco-point-consolidation",
+      "payments/cashless-jp-landscape"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/au-fh",
+      "https://finwiki.zksc.io/JapanFG/au-insurance",
+      "https://finwiki.zksc.io/JapanFG/au-jibun-bank",
+      "https://finwiki.zksc.io/JapanFG/au-payment",
+      "https://finwiki.zksc.io/JapanFG/mufg",
+      "https://finwiki.zksc.io/JapanFG/payments-cards-leasing-finance-index",
+      "https://finwiki.zksc.io/JapanFG/paypay-fg",
+      "https://finwiki.zksc.io/JapanFG/rakuten-fg",
+      "https://finwiki.zksc.io/JapanFG/smfg",
+      "https://finwiki.zksc.io/business/INDEX",
+      "https://finwiki.zksc.io/business/gmo-internet-group",
+      "https://finwiki.zksc.io/business/ntt-docomo-d-point-telco-finance-case",
+      "https://finwiki.zksc.io/business/rakuten-group-mobile-finance-bundling-case",
+      "https://finwiki.zksc.io/business/softbank-paypay-financial-integration-case",
+      "https://finwiki.zksc.io/corporate-strategy/partial-spinoff-tax-deferral",
+      "https://finwiki.zksc.io/loyalty/d-point-au-kddi-docomo-telco-point-consolidation",
+      "https://finwiki.zksc.io/payments/cashless-jp-landscape"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 11006,
+    "word_like_tokens": 1873,
+    "inbound_wikilinks_count": 3,
+    "last_modified": "2026-06-03"
+  }
+}

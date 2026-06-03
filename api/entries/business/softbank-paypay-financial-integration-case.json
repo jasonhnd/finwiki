@@ -1,0 +1,106 @@
+{
+  "schema_version": "1.0",
+  "slug": "business/softbank-paypay-financial-integration-case",
+  "source_path": "business/softbank-paypay-financial-integration-case.md",
+  "url": "https://finwiki.zksc.io/business/softbank-paypay-financial-integration-case",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/business/softbank-paypay-financial-integration-case.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/business/softbank-paypay-financial-integration-case.md",
+  "domain": "business",
+  "title": "SoftBank / PayPay financial integration case — super-app folds card / bank / securities under PayPay, then files for a US listing",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "SoftBank / PayPay financial integration case — super-app folds card / bank / securities under PayPay, then files for a US listing",
+    "aliases": [
+      "softbank-paypay-financial-integration-case",
+      "PayPay financial integration case",
+      "SoftBank PayPay Nasdaq IPO case",
+      "PayPay super-app finance consolidation",
+      "PayPay 金融統合ケース"
+    ],
+    "domain": "business",
+    "created": "2026-06-03",
+    "last_updated": "2026-06-03",
+    "last_tended": "2026-06-03",
+    "review_by": "2026-12-03",
+    "confidence": "likely",
+    "tags": [
+      "business",
+      "case-study",
+      "softbank",
+      "paypay",
+      "super-app",
+      "ipo",
+      "payments",
+      "japan",
+      "restructuring"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.softbank.jp/en/corp/philosophy/strategy/financial/",
+      "https://about.paypay.ne.jp/en/",
+      "https://www.lycorp.co.jp/en/news/release/016692/",
+      "https://about.paypay.ne.jp/en/pr/20250930/01/",
+      "https://www.fintechfutures.com/stock-exchange-ipos/softbank-unit-paypay-files-for-nasdaq-ipo"
+    ]
+  },
+  "summary": "This entry sits under business INDEX as a public-company strategic case. Read it against KDDI au financial bundling case for the contrasting \"own the bank, hand securities to the megabank\" division of labour, NTT Docomo d-Point telco-finance case for the partner-led-bank model, and Rakuten Group mob",
+  "headings": [
+    "SoftBank / PayPay financial integration case — super-app folds card / bank / securities under PayPay, then files for a US listing",
+    "Wiki route",
+    "TL;DR",
+    "1. PayPay Finance Stack",
+    "2. The Consolidation Timeline",
+    "3. Super-App Consolidation Pattern",
+    "4. Comparison Matrix — Telco / Super-App Finance Models In Japan",
+    "5. Strategic Rationale",
+    "6. Read-Across To Other Super-App Strategies",
+    "7. Counterpoints"
+  ],
+  "body_links": {
+    "wikilinks_count": 16,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/au-jibun-bank",
+      "JapanFG/payments-cards-leasing-finance-index",
+      "JapanFG/paypay-card",
+      "JapanFG/paypay-fg",
+      "JapanFG/paypay-securities",
+      "JapanFG/rakuten-fg",
+      "JapanFG/smfg",
+      "business/INDEX",
+      "business/gmo-internet-group",
+      "business/kddi-au-financial-bundling-case",
+      "business/ntt-docomo-d-point-telco-finance-case",
+      "business/rakuten-group-mobile-finance-bundling-case",
+      "fintech/ai-payment-two-tracks",
+      "loyalty/sb-yahoo-paypay-points-unified-ecosystem",
+      "payments/cashless-jp-landscape"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/au-jibun-bank",
+      "https://finwiki.zksc.io/JapanFG/payments-cards-leasing-finance-index",
+      "https://finwiki.zksc.io/JapanFG/paypay-card",
+      "https://finwiki.zksc.io/JapanFG/paypay-fg",
+      "https://finwiki.zksc.io/JapanFG/paypay-securities",
+      "https://finwiki.zksc.io/JapanFG/rakuten-fg",
+      "https://finwiki.zksc.io/JapanFG/smfg",
+      "https://finwiki.zksc.io/business/INDEX",
+      "https://finwiki.zksc.io/business/gmo-internet-group",
+      "https://finwiki.zksc.io/business/kddi-au-financial-bundling-case",
+      "https://finwiki.zksc.io/business/ntt-docomo-d-point-telco-finance-case",
+      "https://finwiki.zksc.io/business/rakuten-group-mobile-finance-bundling-case",
+      "https://finwiki.zksc.io/fintech/ai-payment-two-tracks",
+      "https://finwiki.zksc.io/loyalty/sb-yahoo-paypay-points-unified-ecosystem",
+      "https://finwiki.zksc.io/payments/cashless-jp-landscape"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 11046,
+    "word_like_tokens": 1792,
+    "inbound_wikilinks_count": 2,
+    "last_modified": "2026-06-03"
+  }
+}

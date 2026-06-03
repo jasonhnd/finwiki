@@ -1,0 +1,87 @@
+{
+  "schema_version": "1.0",
+  "slug": "trade/incoterms-2020-trade-terms-framework",
+  "source_path": "trade/incoterms-2020-trade-terms-framework.md",
+  "url": "https://finwiki.zksc.io/trade/incoterms-2020-trade-terms-framework",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/trade/incoterms-2020-trade-terms-framework.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/trade/incoterms-2020-trade-terms-framework.md",
+  "domain": "trade",
+  "title": "Incoterms 2020 — the ICC trade-terms framework",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Incoterms 2020 — the ICC trade-terms framework",
+    "aliases": [
+      "incoterms-2020-trade-terms-framework",
+      "インコタームズ2020",
+      "インコタームズ",
+      "Incoterms rules",
+      "international commercial terms",
+      "EXW FCA FOB CIF CIP DAP DPU DDP"
+    ],
+    "domain": "trade",
+    "created": "2026-06-03",
+    "last_updated": "2026-06-03",
+    "last_tended": "2026-06-03",
+    "review_by": "2026-12-03",
+    "confidence": "likely",
+    "tags": [
+      "trade",
+      "trade-finance",
+      "incoterms",
+      "icc",
+      "shipping",
+      "delivery-terms"
+    ],
+    "status": "active",
+    "sources": [
+      "https://iccwbo.org/business-solutions/incoterms-rules/incoterms-2020/",
+      "https://en.wikipedia.org/wiki/Incoterms",
+      "https://academy.iccwbo.org/incoterms/article/incoterms-2020-vs-2010-whats-changed/",
+      "https://www.trade.gov/know-your-incoterms"
+    ]
+  },
+  "summary": "This entry sits under trade INDEX and pairs directly with the letter of credit / documentary credit mechanism, because the Incoterms rule a contract chooses determines which transport and insurance documents an L/C must call for. It also connects to the cargo risk-transfer layer in marine cargo / P&",
+  "headings": [
+    "Incoterms 2020 — the ICC trade-terms framework",
+    "Wiki route",
+    "TL;DR",
+    "The 11 rules of Incoterms 2020",
+    "Rules for any mode (including multimodal)",
+    "Rules for sea and inland waterway only",
+    "The cost / risk transfer point — the core idea",
+    "What changed from Incoterms 2010 to 2020",
+    "Interaction with letters of credit and trade finance",
+    "What Incoterms deliberately leave out"
+  ],
+  "body_links": {
+    "wikilinks_count": 8,
+    "wikilinks": [
+      "INDEX",
+      "insurance/marine-insurance-and-pi-cover-market",
+      "policy-finance/INDEX",
+      "policy-finance/nexi-export-credit-insurance-products",
+      "trade/INDEX",
+      "trade/documentary-collection-vs-letter-of-credit",
+      "trade/jetro-vs-nexi-vs-jbic-comparison",
+      "trade/letter-of-credit-documentary-mechanism"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/insurance/marine-insurance-and-pi-cover-market",
+      "https://finwiki.zksc.io/policy-finance/INDEX",
+      "https://finwiki.zksc.io/policy-finance/nexi-export-credit-insurance-products",
+      "https://finwiki.zksc.io/trade/INDEX",
+      "https://finwiki.zksc.io/trade/documentary-collection-vs-letter-of-credit",
+      "https://finwiki.zksc.io/trade/jetro-vs-nexi-vs-jbic-comparison",
+      "https://finwiki.zksc.io/trade/letter-of-credit-documentary-mechanism"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 8342,
+    "word_like_tokens": 1494,
+    "inbound_wikilinks_count": 3,
+    "last_modified": "2026-06-03"
+  }
+}

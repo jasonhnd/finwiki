@@ -1,0 +1,82 @@
+{
+  "schema_version": "1.0",
+  "slug": "security/etherscan-verified-source-poisoning",
+  "source_path": "security/etherscan-verified-source-poisoning.md",
+  "url": "https://finwiki.zksc.io/security/etherscan-verified-source-poisoning",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/security/etherscan-verified-source-poisoning.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/security/etherscan-verified-source-poisoning.md",
+  "domain": "security",
+  "title": "Etherscan verified-source poisoning — why \"verified\" is not \"the bytecode\"",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Etherscan verified-source poisoning — why \\\"verified\\\" is not \\\"the bytecode\\\"",
+    "aliases": [
+      "verified source poisoning",
+      "block explorer verification trust gap",
+      "Etherscan verified ソース汚染"
+    ],
+    "domain": "security",
+    "created": "2026-06-03",
+    "last_updated": "2026-06-03",
+    "last_tended": "2026-06-03",
+    "review_by": "2026-12-03",
+    "confidence": "likely",
+    "tags": [
+      "security",
+      "smart-contract",
+      "verification",
+      "etherscan",
+      "sourcify",
+      "bytecode",
+      "forensic"
+    ],
+    "status": "active",
+    "sources": [
+      "https://docs.sourcify.dev/docs/full-vs-partial-match/",
+      "https://docs.sourcify.dev/blog/talk-about-onchain-metadata-hash/",
+      "https://docs.soliditylang.org/en/latest/metadata.html",
+      "https://ethereum.org/en/developers/docs/smart-contracts/verifying/"
+    ]
+  },
+  "summary": "This entry sits under security domain. Read it with bytecode forensic three-tier verify as the hands-on counterpart, and against proxy-upgrade rug pattern for the case where the shown source is genuine but the next implementation is not.",
+  "headings": [
+    "Etherscan verified-source poisoning — why \"verified\" is not \"the bytecode\"",
+    "Wiki route",
+    "What \"verified\" actually asserts",
+    "Poisoning techniques the badge does not catch",
+    "Cross-checking the badge (public, reproducible)",
+    "Why this matters",
+    "When the badge is good enough",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 6,
+    "wikilinks": [
+      "exchanges/bybit-lazarus-hack-detailed-analysis",
+      "exchanges/jp-vasp-security-audit-certification",
+      "security/INDEX",
+      "security/bytecode-forensic-three-tier-verify",
+      "security/fork-and-rebrand-5-layer-audit-framework",
+      "security/proxy-upgrade-rug-pattern"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/exchanges/bybit-lazarus-hack-detailed-analysis",
+      "https://finwiki.zksc.io/exchanges/jp-vasp-security-audit-certification",
+      "https://finwiki.zksc.io/security/INDEX",
+      "https://finwiki.zksc.io/security/bytecode-forensic-three-tier-verify",
+      "https://finwiki.zksc.io/security/fork-and-rebrand-5-layer-audit-framework",
+      "https://finwiki.zksc.io/security/proxy-upgrade-rug-pattern"
+    ],
+    "external_links_count": 1,
+    "external_links": [
+      "https://docs.sourcify.dev/docs/full-vs-partial-match/"
+    ]
+  },
+  "metrics": {
+    "nonspace_chars": 5789,
+    "word_like_tokens": 966,
+    "inbound_wikilinks_count": 2,
+    "last_modified": "2026-06-03"
+  }
+}

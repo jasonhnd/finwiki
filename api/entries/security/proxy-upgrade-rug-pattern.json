@@ -1,0 +1,90 @@
+{
+  "schema_version": "1.0",
+  "slug": "security/proxy-upgrade-rug-pattern",
+  "source_path": "security/proxy-upgrade-rug-pattern.md",
+  "url": "https://finwiki.zksc.io/security/proxy-upgrade-rug-pattern",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/security/proxy-upgrade-rug-pattern.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/security/proxy-upgrade-rug-pattern.md",
+  "domain": "security",
+  "title": "Proxy-upgradeable contract rug pattern — admin upgrade rights as a backdoor",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Proxy-upgradeable contract rug pattern — admin upgrade rights as a backdoor",
+    "aliases": [
+      "proxy upgrade rug",
+      "upgradeable proxy rug pull",
+      "プロキシ・アップグレード rug パターン"
+    ],
+    "domain": "security",
+    "created": "2026-06-03",
+    "last_updated": "2026-06-03",
+    "last_tended": "2026-06-03",
+    "review_by": "2026-12-03",
+    "confidence": "likely",
+    "tags": [
+      "security",
+      "smart-contract",
+      "proxy",
+      "upgradeable",
+      "rug-pull",
+      "forensic"
+    ],
+    "status": "active",
+    "sources": [
+      "https://eips.ethereum.org/EIPS/eip-1967",
+      "https://eips.ethereum.org/EIPS/eip-1822",
+      "https://docs.openzeppelin.com/contracts/4.x/api/proxy",
+      "https://ethereum.org/en/developers/docs/smart-contracts/upgrading/"
+    ]
+  },
+  "summary": "This entry sits under security domain. Read it against bytecode forensic three-tier verify for the on-chain verification mechanics it depends on, and against ERC-4337 overview for the broader smart-account context where upgradeable proxies are now the default deployment shape.",
+  "headings": [
+    "Proxy-upgradeable contract rug pattern — admin upgrade rights as a backdoor",
+    "Wiki route",
+    "Mechanism: where the upgrade key lives",
+    "Two proxy shapes, two control locations",
+    "The rug sequence",
+    "Public risk-sizing checklist",
+    "When this matters most",
+    "When NOT to over-index on this",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 9,
+    "wikilinks": [
+      "agent-economy/erc-7715-agent-payment-stack",
+      "security/INDEX",
+      "security/bytecode-forensic-three-tier-verify",
+      "security/etherscan-verified-source-poisoning",
+      "security/fork-and-rebrand-5-layer-audit-framework",
+      "systems/canton-overview",
+      "systems/erc-4337-overview",
+      "systems/erc-7702-overview",
+      "systems/hook-enforced-compliance"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/agent-economy/erc-7715-agent-payment-stack",
+      "https://finwiki.zksc.io/security/INDEX",
+      "https://finwiki.zksc.io/security/bytecode-forensic-three-tier-verify",
+      "https://finwiki.zksc.io/security/etherscan-verified-source-poisoning",
+      "https://finwiki.zksc.io/security/fork-and-rebrand-5-layer-audit-framework",
+      "https://finwiki.zksc.io/systems/canton-overview",
+      "https://finwiki.zksc.io/systems/erc-4337-overview",
+      "https://finwiki.zksc.io/systems/erc-7702-overview",
+      "https://finwiki.zksc.io/systems/hook-enforced-compliance"
+    ],
+    "external_links_count": 3,
+    "external_links": [
+      "https://docs.sourcify.dev/docs/full-vs-partial-match/",
+      "https://eips.ethereum.org/EIPS/eip-1822",
+      "https://eips.ethereum.org/EIPS/eip-1967"
+    ]
+  },
+  "metrics": {
+    "nonspace_chars": 6569,
+    "word_like_tokens": 1069,
+    "inbound_wikilinks_count": 2,
+    "last_modified": "2026-06-03"
+  }
+}

@@ -27,7 +27,11 @@
       "spinoff",
       "tax",
       "japan-corporate-tax",
-      "restructuring"
+      "restructuring",
+      "merger",
+      "group-taxation",
+      "holding-company",
+      "business-succession"
     ],
     "status": "active",
     "sources": [
@@ -48,12 +52,21 @@
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 17,
+    "wikilinks_count": 26,
     "wikilinks": [
       "INDEX",
       "JapanFG/INDEX",
       "business/INDEX",
       "business/gmo-internet-group",
+      "corporate-strategy/japan-business-succession-jigyou-shoukei\\",
+      "corporate-strategy/japan-gappei-merger-regime",
+      "corporate-strategy/japan-gappei-merger-regime\\",
+      "corporate-strategy/japan-group-tsusan-consolidated-tax-regime",
+      "corporate-strategy/japan-group-tsusan-consolidated-tax-regime\\",
+      "corporate-strategy/japan-holding-company-conversion\\",
+      "corporate-strategy/japan-kabushiki-bunpai-spinoff-regime",
+      "corporate-strategy/japan-kabushiki-bunpai-spinoff-regime\\",
+      "corporate-strategy/japan-kabushiki-koukan-iten-regime\\",
       "corporate-strategy/japan-kaisha-bunkatsu-tax-regime",
       "corporate-strategy/japan-kaisha-bunkatsu-tax-regime\\",
       "corporate-strategy/kabushiki-koufu-stock-distribution-regime",
@@ -73,6 +86,15 @@
       "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/business/INDEX",
       "https://finwiki.zksc.io/business/gmo-internet-group",
+      "https://finwiki.zksc.io/corporate-strategy/japan-business-succession-jigyou-shoukei\\",
+      "https://finwiki.zksc.io/corporate-strategy/japan-gappei-merger-regime",
+      "https://finwiki.zksc.io/corporate-strategy/japan-gappei-merger-regime\\",
+      "https://finwiki.zksc.io/corporate-strategy/japan-group-tsusan-consolidated-tax-regime",
+      "https://finwiki.zksc.io/corporate-strategy/japan-group-tsusan-consolidated-tax-regime\\",
+      "https://finwiki.zksc.io/corporate-strategy/japan-holding-company-conversion\\",
+      "https://finwiki.zksc.io/corporate-strategy/japan-kabushiki-bunpai-spinoff-regime",
+      "https://finwiki.zksc.io/corporate-strategy/japan-kabushiki-bunpai-spinoff-regime\\",
+      "https://finwiki.zksc.io/corporate-strategy/japan-kabushiki-koukan-iten-regime\\",
       "https://finwiki.zksc.io/corporate-strategy/japan-kaisha-bunkatsu-tax-regime",
       "https://finwiki.zksc.io/corporate-strategy/japan-kaisha-bunkatsu-tax-regime\\",
       "https://finwiki.zksc.io/corporate-strategy/kabushiki-koufu-stock-distribution-regime",
@@ -91,9 +113,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6536,
-    "word_like_tokens": 1050,
-    "inbound_wikilinks_count": 16,
+    "nonspace_chars": 9085,
+    "word_like_tokens": 1454,
+    "inbound_wikilinks_count": 22,
     "last_modified": "2026-06-03"
   }
 }

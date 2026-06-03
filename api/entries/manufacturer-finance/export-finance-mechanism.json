@@ -1,0 +1,104 @@
+{
+  "schema_version": "1.0",
+  "slug": "manufacturer-finance/export-finance-mechanism",
+  "source_path": "manufacturer-finance/export-finance-mechanism.md",
+  "url": "https://finwiki.zksc.io/manufacturer-finance/export-finance-mechanism",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/manufacturer-finance/export-finance-mechanism.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/manufacturer-finance/export-finance-mechanism.md",
+  "domain": "manufacturer-finance",
+  "title": "Export Finance Mechanism (輸出金融の仕組み — buyer credit / supplier credit / ECA)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Export Finance Mechanism (輸出金融の仕組み — buyer credit / supplier credit / ECA)",
+    "aliases": [
+      "export-finance-mechanism",
+      "export finance mechanism",
+      "buyer credit supplier credit",
+      "ECA-backed export finance",
+      "manufacturer export finance",
+      "輸出金融の仕組み",
+      "バイヤーズクレジット",
+      "サプライヤーズクレジット"
+    ],
+    "domain": "manufacturer-finance",
+    "created": "2026-06-03",
+    "last_updated": "2026-06-03",
+    "last_tended": "2026-06-03",
+    "review_by": "2026-12-03",
+    "confidence": "likely",
+    "tags": [
+      "manufacturing",
+      "export-finance",
+      "buyer-credit",
+      "supplier-credit",
+      "eca",
+      "jbic",
+      "nexi",
+      "oecd-arrangement",
+      "project-finance",
+      "mechanism",
+      "japan",
+      "global"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.oecd.org/en/topics/export-credits.html",
+      "https://legalinstruments.oecd.org/Instruments/instruments/OECD-LEGAL-5005",
+      "https://www.jbic.go.jp/en/",
+      "https://www.nexi.go.jp/en/",
+      "https://disclosure2.edinet-fsa.go.jp/"
+    ]
+  },
+  "summary": "This entry sits under manufacturing index as the mechanism page behind export-oriented manufacturer finance. The Japanese manufacturer that runs this mechanism most visibly is documented in MHI 輸出金融; Hitachi 産業金融 uses the same ECA stack for rail and energy exports. It is the cross-border sibling of",
+  "headings": [
+    "Export Finance Mechanism (輸出金融の仕組み — buyer credit / supplier credit / ECA)",
+    "Wiki route",
+    "TL;DR",
+    "1. buyer credit と supplier credit",
+    "2. ECA の「公的支援」3 形態",
+    "3. OECD Arrangement (国際ルール)",
+    "4. 案件組成の流れ (典型例)",
+    "5. 規制・政策",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 12,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/INDEX",
+      "JapanFG/jbic",
+      "manufacturer-finance/INDEX",
+      "manufacturer-finance/hitachi-industrial-finance-platform",
+      "manufacturer-finance/mitsubishi-heavy-export-finance",
+      "manufacturer-finance/vendor-finance-mechanism",
+      "policy-finance/japan-policy-finance-system",
+      "policy-finance/nexi",
+      "policy-finance/oecd-export-credit-arrangement",
+      "structured-finance/infrastructure-finance-spv-japan",
+      "trade/jetro-vs-nexi-vs-jbic-comparison"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/jbic",
+      "https://finwiki.zksc.io/manufacturer-finance/INDEX",
+      "https://finwiki.zksc.io/manufacturer-finance/hitachi-industrial-finance-platform",
+      "https://finwiki.zksc.io/manufacturer-finance/mitsubishi-heavy-export-finance",
+      "https://finwiki.zksc.io/manufacturer-finance/vendor-finance-mechanism",
+      "https://finwiki.zksc.io/policy-finance/japan-policy-finance-system",
+      "https://finwiki.zksc.io/policy-finance/nexi",
+      "https://finwiki.zksc.io/policy-finance/oecd-export-credit-arrangement",
+      "https://finwiki.zksc.io/structured-finance/infrastructure-finance-spv-japan",
+      "https://finwiki.zksc.io/trade/jetro-vs-nexi-vs-jbic-comparison"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 6132,
+    "word_like_tokens": 912,
+    "inbound_wikilinks_count": 5,
+    "last_modified": "2026-06-03"
+  }
+}

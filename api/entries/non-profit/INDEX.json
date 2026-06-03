@@ -39,7 +39,7 @@
       "https://www.nedo.go.jp/english/"
     ]
   },
-  "summary": "This domain routes non-profit / public-interest legal structures and research-funding plumbing in Japan — primarily the 一般財団法人 / 公益財団法人 establishment route, the 公益 vs 一般 decision, the 一般社団 / NPO / 認定NPO landscape, and the institutional map for research grants. All three entries are operational refer",
+  "summary": "This domain routes non-profit / public-interest legal structures and research-funding plumbing in Japan — primarily the 一般財団法人 / 公益財団法人 establishment route, the 公益 vs 一般 decision, the 一般社団 / NPO / 認定NPO landscape, and the institutional map for research grants. All entries are operational reference p",
   "headings": [
     "Governance domain",
     "TL;DR",
@@ -51,7 +51,7 @@
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 12,
+    "wikilinks_count": 18,
     "wikilinks": [
       "INDEX",
       "JapanFG/INDEX",
@@ -59,8 +59,14 @@
       "finance/INDEX",
       "non-profit/japan-general-foundation-establishment-requirements",
       "non-profit/japan-general-foundation-establishment-requirements\\",
+      "non-profit/japan-ippan-vs-koeki-shadan-houjin",
+      "non-profit/japan-ippan-vs-koeki-shadan-houjin\\",
       "non-profit/japan-koeki-vs-general-zaidan-comparison",
       "non-profit/japan-koeki-vs-general-zaidan-comparison\\",
+      "non-profit/japan-nintei-npo-houjin-tax-benefits",
+      "non-profit/japan-nintei-npo-houjin-tax-benefits\\",
+      "non-profit/japan-npo-houjin-overview",
+      "non-profit/japan-npo-houjin-overview\\",
       "non-profit/japan-research-grant-map-2026",
       "non-profit/japan-research-grant-map-2026\\",
       "policy-finance/INDEX",
@@ -73,8 +79,14 @@
       "https://finwiki.zksc.io/finance/INDEX",
       "https://finwiki.zksc.io/non-profit/japan-general-foundation-establishment-requirements",
       "https://finwiki.zksc.io/non-profit/japan-general-foundation-establishment-requirements\\",
+      "https://finwiki.zksc.io/non-profit/japan-ippan-vs-koeki-shadan-houjin",
+      "https://finwiki.zksc.io/non-profit/japan-ippan-vs-koeki-shadan-houjin\\",
       "https://finwiki.zksc.io/non-profit/japan-koeki-vs-general-zaidan-comparison",
       "https://finwiki.zksc.io/non-profit/japan-koeki-vs-general-zaidan-comparison\\",
+      "https://finwiki.zksc.io/non-profit/japan-nintei-npo-houjin-tax-benefits",
+      "https://finwiki.zksc.io/non-profit/japan-nintei-npo-houjin-tax-benefits\\",
+      "https://finwiki.zksc.io/non-profit/japan-npo-houjin-overview",
+      "https://finwiki.zksc.io/non-profit/japan-npo-houjin-overview\\",
       "https://finwiki.zksc.io/non-profit/japan-research-grant-map-2026",
       "https://finwiki.zksc.io/non-profit/japan-research-grant-map-2026\\",
       "https://finwiki.zksc.io/policy-finance/INDEX",
@@ -84,9 +96,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5535,
-    "word_like_tokens": 916,
-    "inbound_wikilinks_count": 5,
+    "nonspace_chars": 7179,
+    "word_like_tokens": 1214,
+    "inbound_wikilinks_count": 8,
     "last_modified": "2026-06-03"
   }
 }

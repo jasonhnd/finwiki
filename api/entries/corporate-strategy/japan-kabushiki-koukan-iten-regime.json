@@ -1,0 +1,104 @@
+{
+  "schema_version": "1.0",
+  "slug": "corporate-strategy/japan-kabushiki-koukan-iten-regime",
+  "source_path": "corporate-strategy/japan-kabushiki-koukan-iten-regime.md",
+  "url": "https://finwiki.zksc.io/corporate-strategy/japan-kabushiki-koukan-iten-regime",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/corporate-strategy/japan-kabushiki-koukan-iten-regime.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/corporate-strategy/japan-kabushiki-koukan-iten-regime.md",
+  "domain": "corporate-strategy",
+  "title": "株式交換 / 株式移転 (kabushiki koukan / iten) — share-exchange and share-transfer regime for wholly-owned subsidiary and holding-company formation",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "株式交換 / 株式移転 (kabushiki koukan / iten) — share-exchange and share-transfer regime for wholly-owned subsidiary and holding-company formation",
+    "aliases": [
+      "japan-kabushiki-koukan-iten-regime",
+      "株式交換 株式移転",
+      "kabushiki koukan kabushiki iten",
+      "share exchange share transfer japan",
+      "適格株式交換 適格株式移転",
+      "japan stock swap stock transfer regime",
+      "完全子会社化 株式交換"
+    ],
+    "domain": "corporate-strategy",
+    "created": "2026-06-03",
+    "last_updated": "2026-06-03",
+    "last_tended": "2026-06-03",
+    "review_by": "2026-12-03",
+    "confidence": "likely",
+    "tags": [
+      "corporate-strategy",
+      "m-and-a",
+      "tax",
+      "japan",
+      "share-exchange",
+      "share-transfer",
+      "holding-company"
+    ],
+    "status": "active",
+    "sources": [
+      "https://laws.e-gov.go.jp/document?lawid=417AC0000000086",
+      "https://www.nta.go.jp/law/joho-zeikaishaku/hojin/070313/04.htm",
+      "https://www.nta.go.jp/law/tsutatsu/kihon/hojin/01/01_04_05.htm",
+      "https://www.meti.go.jp/policy/economy/keiei_innovation/keizaihousei/",
+      "https://www.fsa.go.jp/en/"
+    ]
+  },
+  "summary": "This entry sits under corporate-strategy INDEX and routes into finance INDEX for the transaction-finance overlay. Read it with 株式交付 regime for the partial-control sibling (the third share-side regime), 会社分割 tax regime for the asset-level contrast, spinoff decision tree for option-set placement, and",
+  "headings": [
+    "株式交換 / 株式移転 (kabushiki koukan / iten) — share-exchange and share-transfer regime for wholly-owned subsidiary and holding-company formation",
+    "Wiki route",
+    "TL;DR",
+    "1. The Two Mechanisms Side by Side",
+    "2. 株式交換 — Share Exchange in Detail",
+    "3. 株式移転 — Share Transfer in Detail",
+    "4. Tax Axis — 適格 vs 非適格",
+    "Qualified-test scenarios",
+    "Consequences",
+    "5. Where It Sits Among the Share-Side Regimes"
+  ],
+  "body_links": {
+    "wikilinks_count": 15,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/INDEX",
+      "corporate-strategy/INDEX",
+      "corporate-strategy/japan-holding-company-conversion",
+      "corporate-strategy/japan-kaisha-bunkatsu-tax-regime",
+      "corporate-strategy/kabushiki-koufu-stock-distribution-regime",
+      "corporate-strategy/spinoff-decision-tree-japan",
+      "finance/INDEX",
+      "finance/cross-border-m-a-japan",
+      "finance/japan-large-shareholding-disclosure",
+      "finance/japan-leveraged-buyout-economics",
+      "finance/japan-listed-financial-groups-investable-universe",
+      "finance/japan-mbo-and-squeeze-out-process",
+      "finance/japan-tender-offer-process",
+      "securities/japan-ipo-listing-disclosure-route"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/corporate-strategy/INDEX",
+      "https://finwiki.zksc.io/corporate-strategy/japan-holding-company-conversion",
+      "https://finwiki.zksc.io/corporate-strategy/japan-kaisha-bunkatsu-tax-regime",
+      "https://finwiki.zksc.io/corporate-strategy/kabushiki-koufu-stock-distribution-regime",
+      "https://finwiki.zksc.io/corporate-strategy/spinoff-decision-tree-japan",
+      "https://finwiki.zksc.io/finance/INDEX",
+      "https://finwiki.zksc.io/finance/cross-border-m-a-japan",
+      "https://finwiki.zksc.io/finance/japan-large-shareholding-disclosure",
+      "https://finwiki.zksc.io/finance/japan-leveraged-buyout-economics",
+      "https://finwiki.zksc.io/finance/japan-listed-financial-groups-investable-universe",
+      "https://finwiki.zksc.io/finance/japan-mbo-and-squeeze-out-process",
+      "https://finwiki.zksc.io/finance/japan-tender-offer-process",
+      "https://finwiki.zksc.io/securities/japan-ipo-listing-disclosure-route"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 12099,
+    "word_like_tokens": 1957,
+    "inbound_wikilinks_count": 5,
+    "last_modified": "2026-06-03"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "schema_version": "1.0",
+  "slug": "money-market/japan-torf-term-risk-free-rate",
+  "source_path": "money-market/japan-torf-term-risk-free-rate.md",
+  "url": "https://finwiki.zksc.io/money-market/japan-torf-term-risk-free-rate",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/money-market/japan-torf-term-risk-free-rate.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/money-market/japan-torf-term-risk-free-rate.md",
+  "domain": "money-market",
+  "title": "TORF (Tokyo Term Risk Free Rate)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "TORF (Tokyo Term Risk Free Rate)",
+    "aliases": [
+      "money-market/japan-torf-term-risk-free-rate",
+      "japan-torf-term-risk-free-rate",
+      "TORF",
+      "Tokyo Term Risk Free Rate",
+      "Term TONA",
+      "東京ターム物リスク・フリー・レート",
+      "ターム物RFR"
+    ],
+    "domain": "money-market",
+    "created": "2026-06-03",
+    "last_updated": "2026-06-03",
+    "last_tended": "2026-06-03",
+    "review_by": "2026-12-03",
+    "confidence": "likely",
+    "tags": [
+      "money-market",
+      "TORF",
+      "benchmark",
+      "RFR",
+      "TONA",
+      "reference-rate",
+      "term-rate"
+    ],
+    "status": "active",
+    "sources": [
+      "https://corporate.quick.co.jp/en/torf/",
+      "https://www.torf.co.jp/en/designated/",
+      "https://www.boj.or.jp/en/paym/market/jpy_cmte/index.htm",
+      "https://www.fsa.go.jp/en/policy/libor/index.html",
+      "https://www.boj.or.jp/en/statistics/market/short/mutan/index.htm"
+    ]
+  },
+  "summary": "This entry sits under money-market index. Read it against TIBOR for the quote-based credit-sensitive contrast, Japan money-market benchmark reform (TONA) for how the JPY risk-free-rate complex was built, and the OIS TONA curve for the derivative inputs TORF is computed from. The supervisory anchor i",
+  "headings": [
+    "TORF (Tokyo Term Risk Free Rate)",
+    "Wiki route",
+    "TL;DR",
+    "What TORF Measures",
+    "TORF vs TONA vs TIBOR",
+    "Why a Term RFR Was Needed",
+    "Where TORF Fits in Cash Products",
+    "Governance Context",
+    "Reading Checklist",
+    "JapanFG Relevance"
+  ],
+  "body_links": {
+    "wikilinks_count": 16,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/boj-monetary-policy",
+      "JapanFG/fsa",
+      "JapanFG/mizuho-fg",
+      "JapanFG/mufg",
+      "JapanFG/smfg",
+      "JapanFG/zenginkyo",
+      "derivatives/japan-interest-rate-derivatives-overview",
+      "derivatives/japan-irs-market",
+      "derivatives/ois-tona-curve",
+      "money-market/INDEX",
+      "money-market/call-market-structure",
+      "money-market/japan-money-market",
+      "money-market/japan-money-market-benchmark-reform-tona",
+      "money-market/japan-tibor-benchmark-rate",
+      "money-market/japan-uncollateralized-vs-collateralized-call-market"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/boj-monetary-policy",
+      "https://finwiki.zksc.io/JapanFG/fsa",
+      "https://finwiki.zksc.io/JapanFG/mizuho-fg",
+      "https://finwiki.zksc.io/JapanFG/mufg",
+      "https://finwiki.zksc.io/JapanFG/smfg",
+      "https://finwiki.zksc.io/JapanFG/zenginkyo",
+      "https://finwiki.zksc.io/derivatives/japan-interest-rate-derivatives-overview",
+      "https://finwiki.zksc.io/derivatives/japan-irs-market",
+      "https://finwiki.zksc.io/derivatives/ois-tona-curve",
+      "https://finwiki.zksc.io/money-market/INDEX",
+      "https://finwiki.zksc.io/money-market/call-market-structure",
+      "https://finwiki.zksc.io/money-market/japan-money-market",
+      "https://finwiki.zksc.io/money-market/japan-money-market-benchmark-reform-tona",
+      "https://finwiki.zksc.io/money-market/japan-tibor-benchmark-rate",
+      "https://finwiki.zksc.io/money-market/japan-uncollateralized-vs-collateralized-call-market"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 8311,
+    "word_like_tokens": 1416,
+    "inbound_wikilinks_count": 1,
+    "last_modified": "2026-06-03"
+  }
+}

@@ -6,7 +6,7 @@
 
 | Metric | Count |
 |---|---:|
-| Entries checked | 1420 |
+| Entries checked | 1466 |
 | Entries with any issue | 0 |
 | Dead wikilink references | 0 |
 | Unique dead wikilink targets | 0 |
@@ -15,7 +15,7 @@
 | Missing route link | 0 |
 | Missing peer link | 0 |
 | Missing system / regulatory link | 0 |
-| Changed or new entries in current worktree | 1 |
+| Changed or new entries in current worktree | 57 |
 | canonical_anchor declarations checked (informational) | 8 |
 | canonical_anchor drift (informational, non-gating) | 0 |
 
@@ -41,43 +41,99 @@
 
 | Path | State | Body | Issues |
 |---|---:|---:|---|
-| `insurance/saison-automobile-fire.md` | `M` | 12 | ok |
+| `business/aeon-financial-service-retail-bank-case.md` | `??` | 23 | ok |
+| `business/kddi-au-financial-bundling-case.md` | `??` | 31 | ok |
+| `business/mizuho-rakuten-finance-stake-accumulation-case.md` | `??` | 34 | ok |
+| `business/seven-bank-atm-platform-deconsolidation-case.md` | `??` | 26 | ok |
+| `business/softbank-paypay-financial-integration-case.md` | `??` | 37 | ok |
+| `business/toyota-financial-services-captive-finance-case.md` | `??` | 27 | ok |
+| `corporate-strategy/japan-business-succession-jigyou-shoukei.md` | `??` | 17 | ok |
+| `corporate-strategy/japan-gappei-merger-regime.md` | `??` | 24 | ok |
+| `corporate-strategy/japan-group-tsusan-consolidated-tax-regime.md` | `??` | 19 | ok |
+| `corporate-strategy/japan-holding-company-conversion.md` | `??` | 22 | ok |
+| `corporate-strategy/japan-kabushiki-bunpai-spinoff-regime.md` | `??` | 21 | ok |
+| `corporate-strategy/japan-kabushiki-koukan-iten-regime.md` | `??` | 23 | ok |
+| `JapanFG/gifu-shinkin.md` | `??` | 13 | ok |
+| `JapanFG/kyoto-shinkin.md` | `??` | 12 | ok |
+| `JapanFG/osaka-shoko-shinkin.md` | `??` | 8 | ok |
+| `loyalty/loyalty-liability-customer-funded-float.md` | `??` | 29 | ok |
+| `loyalty/point-economy-funding-source-comparison.md` | `??` | 30 | ok |
+| `loyalty/point-exchange-network-risk.md` | `??` | 17 | ok |
+| `loyalty/point-program-unit-economics.md` | `??` | 18 | ok |
+| `loyalty/rakuten-point-ecosystem-deep.md` | `??` | 26 | ok |
+| `loyalty/retail-media-points-data-loop.md` | `??` | 21 | ok |
+| `manufacturer-finance/export-finance-mechanism.md` | `??` | 20 | ok |
+| `manufacturer-finance/floorplan-finance-mechanism.md` | `??` | 23 | ok |
+| `manufacturer-finance/honda-finance.md` | `??` | 16 | ok |
+| `manufacturer-finance/komatsu-captive-finance.md` | `??` | 19 | ok |
+| `manufacturer-finance/nissan-financial-services.md` | `??` | 20 | ok |
+| `manufacturer-finance/vendor-finance-mechanism.md` | `??` | 22 | ok |
+| `money-market/boj-net-funds-transfer-system-rtgs-settlement.md` | `??` | 20 | ok |
+| `money-market/japan-money-market-benchmark-reform-tona.md` | `??` | 23 | ok |
+| `money-market/japan-repo-transaction-structures-gensaki-cash-collateralized-securities-lending.md` | `??` | 28 | ok |
+| `money-market/japan-tibor-benchmark-rate.md` | `??` | 20 | ok |
+| `money-market/japan-torf-term-risk-free-rate.md` | `??` | 23 | ok |
+| `money-market/japan-uncollateralized-vs-collateralized-call-market.md` | `??` | 23 | ok |
+| `non-profit/japan-ippan-vs-koeki-shadan-houjin.md` | `??` | 8 | ok |
+| `non-profit/japan-nintei-npo-houjin-tax-benefits.md` | `??` | 8 | ok |
+| `non-profit/japan-npo-houjin-overview.md` | `??` | 10 | ok |
+| `retail/japan-retail-economic-sphere-comparison.md` | `??` | 22 | ok |
+| `retail/japan-retail-media-finance-loop.md` | `??` | 16 | ok |
+| `retail/store-traffic-as-financial-distribution.md` | `??` | 14 | ok |
+| `security/etherscan-verified-source-poisoning.md` | `??` | 8 | ok |
+| `security/git-history-rewrite-detection.md` | `??` | 6 | ok |
+| `security/proxy-upgrade-rug-pattern.md` | `??` | 9 | ok |
+| `security/typosquatting-package-detection-checklist.md` | `??` | 5 | ok |
+| `trade/documentary-collection-vs-letter-of-credit.md` | `??` | 12 | ok |
+| `trade/incoterms-2020-trade-terms-framework.md` | `??` | 11 | ok |
+| `trade/letter-of-credit-documentary-mechanism.md` | `??` | 13 | ok |
+| `business/INDEX.md` | `M` | 45 | ok |
+| `corporate-strategy/INDEX.md` | `M` | 28 | ok |
+| `INDEX.md` | `M` | 29 | ok |
+| `JapanFG/cooperative-finance-index.md` | `M` | 47 | ok |
+| `loyalty/INDEX.md` | `M` | 58 | ok |
+| `manufacturer-finance/INDEX.md` | `M` | 18 | ok |
+| `money-market/INDEX.md` | `M` | 37 | ok |
+| `non-profit/INDEX.md` | `M` | 19 | ok |
+| `retail/INDEX.md` | `M` | 19 | ok |
+| `security/INDEX.md` | `M` | 33 | ok |
+| `trade/INDEX.md` | `M` | 16 | ok |
 
 ## Domain Snapshot
 
 | Domain | Entries | Failing | Avg body links |
 |---|---:|---:|---:|
-| `JapanFG` | 640 | 0 | 16.6 |
+| `JapanFG` | 643 | 0 | 16.6 |
 | `agent-economy` | 41 | 0 | 13.5 |
 | `banking` | 40 | 0 | 42.8 |
-| `business` | 19 | 0 | 16.4 |
+| `business` | 25 | 0 | 20.0 |
 | `control` | 1 | 0 | 207.0 |
 | `control-anchor` | 1 | 0 | 30.0 |
 | `control-bridge` | 1 | 0 | 116.0 |
 | `control-cluster` | 1 | 0 | 146.0 |
 | `control-mirror` | 1 | 0 | 25.0 |
 | `control-proposal` | 1 | 0 | 28.0 |
-| `corporate-strategy` | 6 | 0 | 14.8 |
+| `corporate-strategy` | 12 | 0 | 18.7 |
 | `derivatives` | 33 | 0 | 20.8 |
 | `exchanges` | 147 | 0 | 12.9 |
 | `finance` | 27 | 0 | 23.0 |
 | `fintech` | 144 | 0 | 10.9 |
 | `finwiki` | 1 | 0 | 29.0 |
-| `governance` | 1 | 0 | 13.0 |
+| `governance` | 1 | 0 | 19.0 |
 | `insurance` | 33 | 0 | 42.7 |
-| `loyalty` | 12 | 0 | 20.3 |
-| `manufacturer-finance` | 8 | 0 | 14.6 |
-| `money-market` | 12 | 0 | 22.2 |
-| `non-profit` | 3 | 0 | 8.3 |
+| `loyalty` | 18 | 0 | 22.6 |
+| `manufacturer-finance` | 14 | 0 | 17.4 |
+| `money-market` | 18 | 0 | 23.0 |
+| `non-profit` | 6 | 0 | 8.5 |
 | `payments` | 41 | 0 | 34.9 |
 | `policy-finance` | 35 | 0 | 27.1 |
 | `real-estate-finance` | 28 | 0 | 24.6 |
-| `retail` | 8 | 0 | 24.9 |
+| `retail` | 11 | 0 | 23.1 |
 | `securities` | 33 | 0 | 32.1 |
-| `security` | 6 | 0 | 9.5 |
+| `security` | 10 | 0 | 9.9 |
 | `structured-finance` | 30 | 0 | 23.4 |
 | `systems` | 62 | 0 | 9.7 |
-| `trade` | 4 | 0 | 11.5 |
+| `trade` | 7 | 0 | 12.6 |
 
 ## Informational: canonical_anchor Integrity
 

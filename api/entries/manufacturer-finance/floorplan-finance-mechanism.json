@@ -1,0 +1,107 @@
+{
+  "schema_version": "1.0",
+  "slug": "manufacturer-finance/floorplan-finance-mechanism",
+  "source_path": "manufacturer-finance/floorplan-finance-mechanism.md",
+  "url": "https://finwiki.zksc.io/manufacturer-finance/floorplan-finance-mechanism",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/manufacturer-finance/floorplan-finance-mechanism.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/manufacturer-finance/floorplan-finance-mechanism.md",
+  "domain": "manufacturer-finance",
+  "title": "Floorplan / Wholesale Finance Mechanism (フロアプラン・在庫金融の仕組み)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Floorplan / Wholesale Finance Mechanism (フロアプラン・在庫金融の仕組み)",
+    "aliases": [
+      "floorplan-finance-mechanism",
+      "floorplan finance mechanism",
+      "floor plan financing",
+      "wholesale finance mechanism",
+      "dealer inventory finance",
+      "floorplan curtailment",
+      "フロアプランファイナンス",
+      "在庫金融の仕組み",
+      "ディーラー在庫与信"
+    ],
+    "domain": "manufacturer-finance",
+    "created": "2026-06-03",
+    "last_updated": "2026-06-03",
+    "last_tended": "2026-06-03",
+    "review_by": "2026-12-03",
+    "confidence": "likely",
+    "tags": [
+      "manufacturing",
+      "floorplan",
+      "wholesale-finance",
+      "dealer-inventory",
+      "captive-finance",
+      "curtailment",
+      "mechanism",
+      "japan",
+      "global"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fdic.gov/risk-management-manual-examination-policies/floor-plan-lending",
+      "https://www.dllgroup.com/us/en-us/blog/latest/Floor-plan-financing-in-the-construction-transportation-and-industrial-sectors",
+      "https://www.autofinance.com/insights/floorplan-financing/",
+      "https://disclosure2.edinet-fsa.go.jp/"
+    ]
+  },
+  "summary": "This entry sits under manufacturing index as a mechanism page, focused on the upstream (dealer-inventory) half of manufacturer finance. It is the wholesale-side complement to the downstream (consumer) captive / vendor finance mechanism, and a sibling to export finance mechanism. The OEM finance arms",
+  "headings": [
+    "Floorplan / Wholesale Finance Mechanism (フロアプラン・在庫金融の仕組み)",
+    "Wiki route",
+    "TL;DR",
+    "1. floorplan finance とは何か",
+    "2. なぜ floorplan が必要か (ディーラー視点 / メーカー視点)",
+    "3. curtailment と audit (滞留・不正の管理)",
+    "4. 主体別の floorplan 提供パターン",
+    "5. 規制・政策・funding",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 15,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/INDEX",
+      "JapanFG/mitsubishi-hc-capital",
+      "JapanFG/orix-corp",
+      "JapanFG/tokyo-century",
+      "manufacturer-finance/INDEX",
+      "manufacturer-finance/export-finance-mechanism",
+      "manufacturer-finance/honda-finance",
+      "manufacturer-finance/komatsu-captive-finance",
+      "manufacturer-finance/nissan-financial-services",
+      "manufacturer-finance/panasonic-captive-finance",
+      "manufacturer-finance/toyota-financial-services",
+      "manufacturer-finance/vendor-finance-mechanism",
+      "structured-finance/auto-loan-abs-japan-toyota-honda",
+      "structured-finance/japan-auto-loan-abs-waterfall-mechanics"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/mitsubishi-hc-capital",
+      "https://finwiki.zksc.io/JapanFG/orix-corp",
+      "https://finwiki.zksc.io/JapanFG/tokyo-century",
+      "https://finwiki.zksc.io/manufacturer-finance/INDEX",
+      "https://finwiki.zksc.io/manufacturer-finance/export-finance-mechanism",
+      "https://finwiki.zksc.io/manufacturer-finance/honda-finance",
+      "https://finwiki.zksc.io/manufacturer-finance/komatsu-captive-finance",
+      "https://finwiki.zksc.io/manufacturer-finance/nissan-financial-services",
+      "https://finwiki.zksc.io/manufacturer-finance/panasonic-captive-finance",
+      "https://finwiki.zksc.io/manufacturer-finance/toyota-financial-services",
+      "https://finwiki.zksc.io/manufacturer-finance/vendor-finance-mechanism",
+      "https://finwiki.zksc.io/structured-finance/auto-loan-abs-japan-toyota-honda",
+      "https://finwiki.zksc.io/structured-finance/japan-auto-loan-abs-waterfall-mechanics"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 6857,
+    "word_like_tokens": 973,
+    "inbound_wikilinks_count": 3,
+    "last_modified": "2026-06-03"
+  }
+}

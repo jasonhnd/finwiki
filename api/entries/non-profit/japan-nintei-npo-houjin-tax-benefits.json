@@ -1,0 +1,88 @@
+{
+  "schema_version": "1.0",
+  "slug": "non-profit/japan-nintei-npo-houjin-tax-benefits",
+  "source_path": "non-profit/japan-nintei-npo-houjin-tax-benefits.md",
+  "url": "https://finwiki.zksc.io/non-profit/japan-nintei-npo-houjin-tax-benefits",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/non-profit/japan-nintei-npo-houjin-tax-benefits.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/non-profit/japan-nintei-npo-houjin-tax-benefits.md",
+  "domain": "non-profit",
+  "title": "日本 認定NPO法人 — certification route and donor tax benefits",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "日本 認定NPO法人 — certification route and donor tax benefits",
+    "aliases": [
+      "japan-nintei-npo-houjin-tax-benefits",
+      "認定NPO法人",
+      "認定特定非営利活動法人",
+      "nintei NPO houjin",
+      "japan certified NPO",
+      "japan certified specified non-profit corporation",
+      "パブリックサポートテスト PST",
+      "特例認定NPO法人"
+    ],
+    "domain": "non-profit",
+    "created": "2026-06-03",
+    "last_updated": "2026-06-03",
+    "last_tended": "2026-06-03",
+    "review_by": "2026-12-03",
+    "confidence": "likely",
+    "tags": [
+      "non-profit",
+      "japan",
+      "npo",
+      "certified-npo",
+      "tax-deductible",
+      "donations"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.npo-homepage.go.jp/about/npo-kisochishiki/ninteiseido",
+      "https://www.npo-homepage.go.jp/qa/ninteiseido/nintei-hantei-all",
+      "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/1263.htm",
+      "https://laws.e-gov.go.jp/law/410AC1000000007",
+      "https://www.npo-homepage.go.jp/about/npo-kisochishiki/nposeido-gaiyou"
+    ]
+  },
+  "summary": "This entry sits under non-profit INDEX and is the tax-upgrade companion to the base form described in Japan NPO法人 overview. The donor-deductibility prize it unlocks parallels the 公益 advantage covered in 公益財団 vs 一般財団 vs 一般社団 vs NPO法人 comparison, and matters most for organisations pursuing the public-",
+  "headings": [
+    "日本 認定NPO法人 — certification route and donor tax benefits",
+    "Wiki route",
+    "TL;DR",
+    "Who certifies, and under what law",
+    "The Public Support Test (PST)",
+    "特例認定 — the PST waiver for young NPOs",
+    "Donor tax benefits — the asymmetric prize",
+    "How this compares to 公益 status",
+    "Strategic reading",
+    "Related"
+  ],
+  "body_links": {
+    "wikilinks_count": 7,
+    "wikilinks": [
+      "INDEX",
+      "non-profit/INDEX",
+      "non-profit/japan-ippan-vs-koeki-shadan-houjin",
+      "non-profit/japan-koeki-vs-general-zaidan-comparison",
+      "non-profit/japan-npo-houjin-overview",
+      "non-profit/japan-research-grant-map-2026",
+      "policy-finance/INDEX"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/non-profit/INDEX",
+      "https://finwiki.zksc.io/non-profit/japan-ippan-vs-koeki-shadan-houjin",
+      "https://finwiki.zksc.io/non-profit/japan-koeki-vs-general-zaidan-comparison",
+      "https://finwiki.zksc.io/non-profit/japan-npo-houjin-overview",
+      "https://finwiki.zksc.io/non-profit/japan-research-grant-map-2026",
+      "https://finwiki.zksc.io/policy-finance/INDEX"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 6740,
+    "word_like_tokens": 1162,
+    "inbound_wikilinks_count": 2,
+    "last_modified": "2026-06-03"
+  }
+}

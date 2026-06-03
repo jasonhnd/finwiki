@@ -1,0 +1,104 @@
+{
+  "schema_version": "1.0",
+  "slug": "manufacturer-finance/komatsu-captive-finance",
+  "source_path": "manufacturer-finance/komatsu-captive-finance.md",
+  "url": "https://finwiki.zksc.io/manufacturer-finance/komatsu-captive-finance",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/manufacturer-finance/komatsu-captive-finance.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/manufacturer-finance/komatsu-captive-finance.md",
+  "domain": "manufacturer-finance",
+  "title": "Komatsu Captive Finance (コマツ顧客金融 / Komatsu Financial)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Komatsu Captive Finance (コマツ顧客金融 / Komatsu Financial)",
+    "aliases": [
+      "komatsu-captive-finance",
+      "Komatsu Captive Finance",
+      "Komatsu Financial",
+      "Komatsu Financial LP",
+      "Komatsu Finance",
+      "コマツ顧客金融",
+      "コマツ ファイナンシャル",
+      "コマツファイナンス"
+    ],
+    "domain": "manufacturer-finance",
+    "created": "2026-06-03",
+    "last_updated": "2026-06-03",
+    "last_tended": "2026-06-03",
+    "review_by": "2026-12-03",
+    "confidence": "likely",
+    "tags": [
+      "manufacturing",
+      "komatsu",
+      "captive-finance",
+      "vendor-finance",
+      "construction-equipment",
+      "floorplan",
+      "residual-value",
+      "lease",
+      "japan",
+      "usa",
+      "global"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.komatsu.com/en-us/services-and-support/financing",
+      "https://www.komatsu.eu/en/komatsu-finance",
+      "https://www.komatsu.jp/en/ir",
+      "https://disclosure2.edinet-fsa.go.jp/"
+    ]
+  },
+  "summary": "This entry sits under manufacturing index as the construction- / heavy-equipment captive, complementing the auto captives Toyota Financial Services, Honda Finance, and Nissan Financial Services. Because Komatsu's finance is B2B equipment finance, the closest mechanism page is captive / vendor financ",
+  "headings": [
+    "Komatsu Captive Finance (コマツ顧客金融 / Komatsu Financial)",
+    "Wiki route",
+    "TL;DR",
+    "1. 会社構造と製造業視点",
+    "製造業視点のグループ構造",
+    "Komatsu Ltd 本体との関係",
+    "2. 製品 / 事業ライン × 製造業視点での意義",
+    "設備リース ABS との接続",
+    "3. 主要指標 (定性 + 公開ベース)",
+    "4. 戦略 (Residual Value + B2B + Lifecycle)"
+  ],
+  "body_links": {
+    "wikilinks_count": 13,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/INDEX",
+      "manufacturer-finance/INDEX",
+      "manufacturer-finance/export-finance-mechanism",
+      "manufacturer-finance/floorplan-finance-mechanism",
+      "manufacturer-finance/hitachi-industrial-finance-platform",
+      "manufacturer-finance/honda-finance",
+      "manufacturer-finance/mitsubishi-heavy-export-finance",
+      "manufacturer-finance/nissan-financial-services",
+      "manufacturer-finance/panasonic-captive-finance",
+      "manufacturer-finance/toyota-financial-services",
+      "manufacturer-finance/vendor-finance-mechanism",
+      "structured-finance/japan-equipment-lease-abs"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/manufacturer-finance/INDEX",
+      "https://finwiki.zksc.io/manufacturer-finance/export-finance-mechanism",
+      "https://finwiki.zksc.io/manufacturer-finance/floorplan-finance-mechanism",
+      "https://finwiki.zksc.io/manufacturer-finance/hitachi-industrial-finance-platform",
+      "https://finwiki.zksc.io/manufacturer-finance/honda-finance",
+      "https://finwiki.zksc.io/manufacturer-finance/mitsubishi-heavy-export-finance",
+      "https://finwiki.zksc.io/manufacturer-finance/nissan-financial-services",
+      "https://finwiki.zksc.io/manufacturer-finance/panasonic-captive-finance",
+      "https://finwiki.zksc.io/manufacturer-finance/toyota-financial-services",
+      "https://finwiki.zksc.io/manufacturer-finance/vendor-finance-mechanism",
+      "https://finwiki.zksc.io/structured-finance/japan-equipment-lease-abs"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 7962,
+    "word_like_tokens": 1105,
+    "inbound_wikilinks_count": 2,
+    "last_modified": "2026-06-03"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "schema_version": "1.0",
+  "slug": "non-profit/japan-npo-houjin-overview",
+  "source_path": "non-profit/japan-npo-houjin-overview.md",
+  "url": "https://finwiki.zksc.io/non-profit/japan-npo-houjin-overview",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/non-profit/japan-npo-houjin-overview.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/non-profit/japan-npo-houjin-overview.md",
+  "domain": "non-profit",
+  "title": "日本 NPO法人（特定非営利活動法人）— legal structure overview",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "日本 NPO法人（特定非営利活動法人）— legal structure overview",
+    "aliases": [
+      "japan-npo-houjin-overview",
+      "NPO法人",
+      "特定非営利活動法人",
+      "tokutei hieiri katsudo houjin",
+      "japan NPO corporation",
+      "japan specified non-profit corporation",
+      "NPO法 特定非営利活動促進法"
+    ],
+    "domain": "non-profit",
+    "created": "2026-06-03",
+    "last_updated": "2026-06-03",
+    "last_tended": "2026-06-03",
+    "review_by": "2026-12-03",
+    "confidence": "likely",
+    "tags": [
+      "non-profit",
+      "japan",
+      "npo",
+      "civil-society",
+      "legal-structure"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.npo-homepage.go.jp/about/npo-kisochishiki/nposeido-gaiyou",
+      "https://www.npo-homepage.go.jp/about/npo-kisochishiki/ninshouseido",
+      "https://www.npo-homepage.go.jp/qa/seido-gaiyou/katsudou-bunya",
+      "https://laws.e-gov.go.jp/law/410AC1000000007",
+      "https://www.moj.go.jp/MINJI/minji153.html"
+    ]
+  },
+  "summary": "This entry sits under non-profit INDEX as the standalone deep-dive on the 特定非営利活動法人 (NPO法人) form. It is the member-driven, civic-activity counterpart to the foundation route in Japan 一般財団法人 establishment requirements, and the donor-deductibility upgrade (認定NPO法人) is covered in Japan 認定NPO法人 tax bene",
+  "headings": [
+    "日本 NPO法人（特定非営利活動法人）— legal structure overview",
+    "Wiki route",
+    "TL;DR",
+    "Governing law and supervisor",
+    "The 20 permitted activity categories",
+    "Establishment requirements",
+    "Mandatory public disclosure",
+    "Tax treatment",
+    "When NPO法人 is (and isn't) the right form",
+    "Related"
+  ],
+  "body_links": {
+    "wikilinks_count": 9,
+    "wikilinks": [
+      "INDEX",
+      "business/INDEX",
+      "finance/INDEX",
+      "non-profit/INDEX",
+      "non-profit/japan-general-foundation-establishment-requirements",
+      "non-profit/japan-ippan-vs-koeki-shadan-houjin",
+      "non-profit/japan-koeki-vs-general-zaidan-comparison",
+      "non-profit/japan-nintei-npo-houjin-tax-benefits",
+      "policy-finance/INDEX"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/business/INDEX",
+      "https://finwiki.zksc.io/finance/INDEX",
+      "https://finwiki.zksc.io/non-profit/INDEX",
+      "https://finwiki.zksc.io/non-profit/japan-general-foundation-establishment-requirements",
+      "https://finwiki.zksc.io/non-profit/japan-ippan-vs-koeki-shadan-houjin",
+      "https://finwiki.zksc.io/non-profit/japan-koeki-vs-general-zaidan-comparison",
+      "https://finwiki.zksc.io/non-profit/japan-nintei-npo-houjin-tax-benefits",
+      "https://finwiki.zksc.io/policy-finance/INDEX"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 7228,
+    "word_like_tokens": 1197,
+    "inbound_wikilinks_count": 3,
+    "last_modified": "2026-06-03"
+  }
+}

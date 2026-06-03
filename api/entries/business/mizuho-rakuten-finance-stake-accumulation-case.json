@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.0",
+  "slug": "business/mizuho-rakuten-finance-stake-accumulation-case",
+  "source_path": "business/mizuho-rakuten-finance-stake-accumulation-case.md",
+  "url": "https://finwiki.zksc.io/business/mizuho-rakuten-finance-stake-accumulation-case",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/business/mizuho-rakuten-finance-stake-accumulation-case.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/business/mizuho-rakuten-finance-stake-accumulation-case.md",
+  "domain": "business",
+  "title": "Mizuho × Rakuten finance stake-accumulation case — megabank serially buys into a cash-pressed conglomerate's finance subsidiaries (Securities 49% + Card 14.99% + Bank ~10%)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Mizuho × Rakuten finance stake-accumulation case — megabank serially buys into a cash-pressed conglomerate's finance subsidiaries (Securities 49% + Card 14.99% + Bank ~10%)",
+    "aliases": [
+      "mizuho-rakuten-finance-stake-accumulation-case",
+      "Mizuho Rakuten capital alliance case",
+      "Mizuho FG Rakuten Securities 49% case",
+      "Mizuho Rakuten Card 14.99% case",
+      "みずほ 楽天 資本業務提携 ケース"
+    ],
+    "domain": "business",
+    "created": "2026-06-03",
+    "last_updated": "2026-06-03",
+    "last_tended": "2026-06-03",
+    "review_by": "2026-12-03",
+    "confidence": "likely",
+    "tags": [
+      "business",
+      "case-study",
+      "mizuho",
+      "rakuten",
+      "capital-alliance",
+      "online-brokerage",
+      "credit-card",
+      "japan",
+      "megabank-strategy"
+    ],
+    "status": "active",
+    "sources": [
+      "https://global.rakuten.com/corp/news/press/2024/1113_12.html",
+      "https://www.mizuho-fg.com/investors/index.html",
+      "https://global.rakuten.com/corp/investors/",
+      "https://www.banking-gateway.com/news/mizuho-to-acquire-15-stake-in-rakuten-card-in-1bn-deal/",
+      "https://www.fsa.go.jp/en/"
+    ]
+  },
+  "summary": "This entry sits under business INDEX as a public-company strategic case, read from the megabank side of the Rakuten story. The companion entry Rakuten Group mobile-finance bundling case covers the same transactions from Rakuten's recapitalization angle; read both together. Contrast with Kitao Yoshit",
+  "headings": [
+    "Mizuho × Rakuten finance stake-accumulation case — megabank serially buys into a cash-pressed conglomerate's finance subsidiaries (Securities 49% + Card 14.99% + Bank ~10%)",
+    "Wiki route",
+    "TL;DR",
+    "1. Why A Megabank Buys Minority Stakes Instead Of Whole Companies",
+    "2. The Three Subsidiary Stakes In Detail",
+    "Rakuten Securities (to 49%)",
+    "Rakuten Card (14.99%)",
+    "Rakuten Bank (~10% voting, reported)",
+    "3. The Seller's Logic (Cross-Reference)",
+    "4. Comparison — How Japanese Megabanks Take Retail-Finance Exposure"
+  ],
+  "body_links": {
+    "wikilinks_count": 19,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/megabanks-and-fg-index",
+      "JapanFG/mizuho-fg",
+      "JapanFG/mizuho-securities",
+      "JapanFG/rakuten-card",
+      "JapanFG/rakuten-fg",
+      "JapanFG/rakuten-securities",
+      "JapanFG/sbi-securities",
+      "banking/rakuten-bank",
+      "business/INDEX",
+      "business/kddi-au-financial-bundling-case",
+      "business/kitao-yoshitaka-sbi-independent-strategy-case",
+      "business/ntt-docomo-d-point-telco-finance-case",
+      "business/rakuten-group-mobile-finance-bundling-case",
+      "business/sony-fg-partial-spinoff-case",
+      "finance/japan-cross-shareholding-unwinding-economics",
+      "loyalty/v-point-smbc-ccc-case",
+      "securities/japan-online-brokerage-competition",
+      "securities/nisa-2024-flow"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/megabanks-and-fg-index",
+      "https://finwiki.zksc.io/JapanFG/mizuho-fg",
+      "https://finwiki.zksc.io/JapanFG/mizuho-securities",
+      "https://finwiki.zksc.io/JapanFG/rakuten-card",
+      "https://finwiki.zksc.io/JapanFG/rakuten-fg",
+      "https://finwiki.zksc.io/JapanFG/rakuten-securities",
+      "https://finwiki.zksc.io/JapanFG/sbi-securities",
+      "https://finwiki.zksc.io/banking/rakuten-bank",
+      "https://finwiki.zksc.io/business/INDEX",
+      "https://finwiki.zksc.io/business/kddi-au-financial-bundling-case",
+      "https://finwiki.zksc.io/business/kitao-yoshitaka-sbi-independent-strategy-case",
+      "https://finwiki.zksc.io/business/ntt-docomo-d-point-telco-finance-case",
+      "https://finwiki.zksc.io/business/rakuten-group-mobile-finance-bundling-case",
+      "https://finwiki.zksc.io/business/sony-fg-partial-spinoff-case",
+      "https://finwiki.zksc.io/finance/japan-cross-shareholding-unwinding-economics",
+      "https://finwiki.zksc.io/loyalty/v-point-smbc-ccc-case",
+      "https://finwiki.zksc.io/securities/japan-online-brokerage-competition",
+      "https://finwiki.zksc.io/securities/nisa-2024-flow"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 12407,
+    "word_like_tokens": 2015,
+    "inbound_wikilinks_count": 1,
+    "last_modified": "2026-06-03"
+  }
+}

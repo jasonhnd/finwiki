@@ -25,7 +25,7 @@ sources:
 
 ## TL;DR
 
-This domain routes **non-profit / public-interest legal structures and research-funding plumbing in Japan** — primarily the 一般財団法人 / 公益財団法人 establishment route, the 公益 vs 一般 decision, the 一般社団 / NPO / 認定NPO landscape, and the institutional map for research grants. All three entries are operational reference pages: "if you wanted to actually do this, here is the path."
+This domain routes **non-profit / public-interest legal structures and research-funding plumbing in Japan** — primarily the 一般財団法人 / 公益財団法人 establishment route, the 公益 vs 一般 decision, the 一般社団 / NPO / 認定NPO landscape, and the institutional map for research grants. All entries are operational reference pages: "if you wanted to actually do this, here is the path."
 
 > **Scope / disambiguation.** "Governance" here means **Japanese non-profit and public-interest *legal* governance** — the legal form, supervisory regime, and funding plumbing of foundations, associations, NPOs, and research grants. It is **not** corporate or listed-company governance. The Corporate Governance Code, stewardship, board structures, shareholder activism, and disclosure obligations live under [[finance/INDEX|finance]], [[securities/INDEX|securities]], and [[exchanges/INDEX|exchanges]] — start there if you arrived searching for "governance" in the listed-company sense. For policy-finance institutions (JFC, DBJ, JBIC) see [[policy-finance/INDEX|policy-finance]]; for general financial-system context see [[finance/INDEX|finance]] and [[INDEX|FinWiki index]].
 
@@ -39,17 +39,23 @@ Flagship entry first, then alphabetical by slug:
 |---|---|---|---|
 | certain | [[non-profit/japan-koeki-vs-general-zaidan-comparison\|japan-koeki-vs-general-zaidan-comparison]] | 日本 公益財団法人 vs 一般財団法人 比較 | Flagship decision page splitting 公益財団 (tax-favored, supervisory burden) vs 一般財団 (simpler setup, no tax break) |
 | certain | [[non-profit/japan-general-foundation-establishment-requirements\|japan-general-foundation-establishment-requirements]] | 日本 一般財団法人 設立要件・プロセス | Legal route to establish a Japanese general incorporated foundation |
+| likely | [[non-profit/japan-ippan-vs-koeki-shadan-houjin\|japan-ippan-vs-koeki-shadan-houjin]] | 日本 一般社団法人 vs 公益社団法人 | Membership-based (社団) companion to the foundation pages: 一般社団 base form vs 公益社団 upgrade |
+| likely | [[non-profit/japan-npo-houjin-overview\|japan-npo-houjin-overview]] | 日本 NPO法人（特定非営利活動法人） | Standalone deep-dive on the NPO法人 form — separate statute, 認証 route, 20 activity categories |
+| likely | [[non-profit/japan-nintei-npo-houjin-tax-benefits\|japan-nintei-npo-houjin-tax-benefits]] | 日本 認定NPO法人 — 認定要件と寄付税制 | Certified-NPO upgrade: Public Support Test (PST), 特例認定, and donor tax benefits |
 | certain | [[non-profit/japan-research-grant-map-2026\|japan-research-grant-map-2026]] | 日本 研究助成金 map（2026 年度） | Mapping of Japan's research grant programs as of FY2026 |
 
 ## Start here
 
-There are three entries, so the routing is short:
+Six entries, grouped by question:
 
-1. Start with [[non-profit/japan-koeki-vs-general-zaidan-comparison|Japan 公益財団 vs 一般財団 comparison]] when the question is *"which foundation type do I even want?"* This is the flagship/most comprehensive entry — it splits 公益財団 (tax-favored, heavier supervision) from 一般財団 (simpler setup, no tax break) across tax, supervisory, and disclosure boundaries, and points you to the establishment page once you've chosen.
+1. Start with [[non-profit/japan-koeki-vs-general-zaidan-comparison|Japan 公益財団 vs 一般財団 comparison]] when the question is *"which legal form do I even want?"* This is the flagship/most comprehensive entry — it splits 公益財団 (tax-favored, heavier supervision) from 一般財団 (simpler setup, no tax break) across tax, supervisory, and disclosure boundaries, and tabulates 一般社団 / NPO alongside, pointing you to the form-specific pages once you've chosen.
 2. Read [[non-profit/japan-general-foundation-establishment-requirements|Japan general foundation establishment requirements]] when the question is *"can I (or this entity) set up a 財団法人 in Japan, and what does that take?"* Pair it with the policy-finance route map for any grant-receiving foundation pattern.
 3. Read [[non-profit/japan-research-grant-map-2026|Japan research grant map (FY2026)]] when the question is *"what public-money channels exist for research in Japan?"* and you need a starting list of JSPS / AMED / JST / NEDO programs.
+4. Read [[non-profit/japan-ippan-vs-koeki-shadan-houjin|Japan 一般社団法人 vs 公益社団法人]] when the organisation is **membership-driven** rather than endowment-driven and you need the 社団 base-form vs 公益 upgrade split.
+5. Read [[non-profit/japan-npo-houjin-overview|Japan NPO法人 overview]] when the activity is **civic / community-led** and may fit the 20 NPO categories — a separate statute family from the 一般法人 forms.
+6. Read [[non-profit/japan-nintei-npo-houjin-tax-benefits|Japan 認定NPO法人 tax benefits]] when an NPO needs **donor-side tax deduction** and you need the Public Support Test (PST) and 特例認定 mechanics.
 
-The entries are designed to be used **together**: the comparison page answers "which vehicle", the establishment page answers "what legal vehicle receives or disburses the money", and the grant-map page answers "where does the money come from / go to".
+The entries are designed to be used **together**: the comparison page answers "which vehicle", the form-specific pages (財団 / 社団 / NPO) answer "what does this vehicle require", the certified-NPO page answers "how does a donation become deductible", and the grant-map page answers "where does the money come from / go to".
 
 ## Research control
 
@@ -72,8 +78,10 @@ When expanding this domain:
 | Priority | Page | Why |
 |---|---|---|
 | Done | [[non-profit/japan-koeki-vs-general-zaidan-comparison\|japan-koeki-vs-general-zaidan-comparison]] | Wave 5 (2026-05): companion decision page comparing 公益財団 vs 一般財団 tax, supervisory, and disclosure boundaries. |
-| P1 | `governance/japan-npo-vs-zaidan-vs-shadan-comparison.md` | Decision page comparing NPO法人 / 一般財団 / 一般社団 / 公益財団 / 公益社団 by tax, governance, and disclosure obligations. |
-| P2 | `governance/japan-corporate-foundation-tax-deduction.md` | Tax-deduction rules for corporate donations into public-interest foundations — needed for any company-funded grant program. |
+| Done | [[non-profit/japan-ippan-vs-koeki-shadan-houjin\|japan-ippan-vs-koeki-shadan-houjin]] | 2026-06: membership-side (社団) page — 一般社団 base form vs 公益社団 upgrade; companion to the 財団 establishment page. |
+| Done | [[non-profit/japan-npo-houjin-overview\|japan-npo-houjin-overview]] | 2026-06: standalone NPO法人 deep-dive — separate statute, 認証 route, 20 activity categories, mandatory disclosure. |
+| Done | [[non-profit/japan-nintei-npo-houjin-tax-benefits\|japan-nintei-npo-houjin-tax-benefits]] | 2026-06: 認定NPO法人 upgrade — PST thresholds, 特例認定, donor tax benefits. Substantially closes the prior P1 cross-form decision backlog (`governance/japan-npo-vs-zaidan-vs-shadan-comparison.md`) alongside the 比較 + 社団 + NPO pages. |
+| P2 | `non-profit/japan-corporate-foundation-tax-deduction.md` | Tax-deduction rules for corporate donations into public-interest foundations — needed for any company-funded grant program. |
 
 ## Sources
 

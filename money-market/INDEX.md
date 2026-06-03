@@ -32,11 +32,14 @@ Use [[JapanFG/boj-monetary-policy]] for the central-bank policy page and this do
 |---|---|---|
 | Domain overview | [[money-market/japan-money-market|Japan money market]] | How Japan's short-term funding layer fits into BoJ policy and JapanFG entities. |
 | Call-rate mechanism | [[money-market/call-market-structure|Call market structure]] | How the uncollateralized overnight call rate is formed and why it matters. |
+| Secured vs unsecured call | [[money-market/japan-uncollateralized-vs-collateralized-call-market|Uncollateralized vs collateralized call market]] | Why "the call rate" means the uncollateralized overnight rate and where the collateralized segment went. |
 | JGB repo / secured funding | [[money-market/jgb-repo-market-japan|JGB repo market in Japan]] | How secured JGB funding, collateral scarcity, GC / SC repo, and securities lending affect market functioning. |
+| Repo contract structures | [[money-market/japan-repo-transaction-structures-gensaki-cash-collateralized-securities-lending|Repo transaction structures: gensaki vs cash-collateralized securities lending]] | The two legal forms (現先 gensaki vs 現金担保付債券貸借) underneath the repo market and how GC / SC overlays them. |
 | BoJ implementation | [[money-market/boj-open-market-operations|BoJ open market operations]] | What operation tools the BoJ uses to supply or absorb funds. |
 | Tanshi business model | [[money-market/tanshi-company-business-model|Tanshi company business model]] | How Tokyo / Central / Ueda Yagi tanshi differ in business model and intersect with BoJ operations. |
 | Instrument comparison hub | [[money-market/japan-short-term-funding-instrument-matrix|Japan short-term funding instrument matrix]] | Comparing tenor, issuer type, minimum lot, settlement, credit, and BoJ collateral eligibility across every front-end instrument. |
 | BoJ floor system | [[money-market/boj-post-2024-floor-system-complementary-deposit-facility|BoJ post-2024 floor system and complementary deposit facility]] | How the post-2024 floor system and 補完当座預金制度 tiered rates anchor the call rate. |
+| Settlement rail | [[money-market/boj-net-funds-transfer-system-rtgs-settlement|BOJ-NET Funds Transfer System and RTGS settlement]] | Where the cash legs of call, repo, and BoJ operations settle across BoJ current accounts on an RTGS basis. |
 
 ## Instruments
 
@@ -50,11 +53,25 @@ Start at the [[money-market/japan-short-term-funding-instrument-matrix|Japan sho
 | Money market funds | [[money-market/japan-mmf-money-market-mutual-fund|Japan MMF / MRF (money market mutual funds)]] | How MRF / MMF money funds invest in and connect retail flows to the money market. |
 | BoJ deposit facility | [[money-market/boj-post-2024-floor-system-complementary-deposit-facility|BoJ post-2024 floor system and complementary deposit facility]] | How the post-2024 floor system and tiered complementary deposit facility set the rate floor. |
 
+## Benchmarks and Rate Mechanics
+
+These pages cover how Japan's money-market reference rates are formed, governed, and reformed. Read them together: the call market is the cash market, TONA is the transaction-based risk-free rate built on it, TIBOR is the surviving quote-based credit-sensitive term benchmark, and TORF is the forward-looking term risk-free rate derived from TONA-referencing OIS.
+
+| Topic | Page | Use when asking |
+|---|---|---|
+| Call-market segmentation | [[money-market/japan-uncollateralized-vs-collateralized-call-market|Uncollateralized vs collateralized call market]] | The difference between 無担保コール and 有担保コール, and why the collateralized call rate is no longer calculated. |
+| Term benchmark (credit-sensitive) | [[money-market/japan-tibor-benchmark-rate|TIBOR (Tokyo Interbank Offered Rate)]] | How JBATA-administered Japanese Yen / Euroyen TIBOR works and why Euroyen TIBOR ended in 2024. |
+| Term benchmark (risk-free) | [[money-market/japan-torf-term-risk-free-rate|TORF (Tokyo Term Risk Free Rate)]] | How QUICK Benchmarks' forward-looking term RFR is derived from TONA-referencing OIS data and contrasts with credit-sensitive TIBOR. |
+| Benchmark reform | [[money-market/japan-money-market-benchmark-reform-tona|Japan money-market benchmark reform (TONA)]] | How JPY LIBOR was replaced by TONA, why TIBOR survives, and the resulting multi-rate world. |
+
+For the derivative-pricing expression of the risk-free rate, cross to [[derivatives/ois-tona-curve|the OIS TONA curve]] in the derivatives domain.
+
 ## JapanFG Anchors
 
 | Cluster | Entity pages |
 |---|---|
 | Central bank / policy | [[JapanFG/boj-monetary-policy]] |
+| Benchmark governance | [[JapanFG/zenginkyo]] (JBATA / TIBOR), [[JapanFG/fsa]] |
 | Tanshi companies | [[JapanFG/tokyo-tanshi]], [[JapanFG/central-tanshi]], [[JapanFG/ueda-yagi-tanshi]] |
 | Megabanks | [[JapanFG/mufg]], [[JapanFG/smfg]], [[JapanFG/mizuho-fg]] |
 | Securities / JGB market | [[JapanFG/mizuho-securities]], [[JapanFG/mufg-mums]], [[JapanFG/local-bond-market]] |
@@ -71,7 +88,7 @@ Start at the [[money-market/japan-short-term-funding-instrument-matrix|Japan sho
 
 | Priority | Gap (not yet written) | Why |
 |---|---|---|
-| P2 | BoJ current account access — *no page yet* | Useful for bank / settlement / tanshi boundary analysis. Not yet authored; do not link until created. |
+| — | BoJ current account access — now covered by [[money-market/boj-net-funds-transfer-system-rtgs-settlement|BOJ-NET FTS / RTGS settlement]] | The settlement-asset and reserve / policy roles of BoJ current accounts are documented on the settlement-rail page. |
 
 ## Related
 

@@ -1,0 +1,93 @@
+{
+  "schema_version": "1.0",
+  "slug": "retail/store-traffic-as-financial-distribution",
+  "source_path": "retail/store-traffic-as-financial-distribution.md",
+  "url": "https://finwiki.zksc.io/retail/store-traffic-as-financial-distribution",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/retail/store-traffic-as-financial-distribution.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/retail/store-traffic-as-financial-distribution.md",
+  "domain": "retail",
+  "title": "Store Traffic as Financial Distribution",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Store Traffic as Financial Distribution",
+    "aliases": [
+      "retail/store-traffic-as-financial-distribution",
+      "store-traffic-as-financial-distribution",
+      "retail footfall as financial CAC",
+      "店舗トラフィックと金融流通"
+    ],
+    "domain": "retail",
+    "created": "2026-06-03",
+    "last_updated": "2026-06-03",
+    "last_tended": "2026-06-03",
+    "review_by": "2026-12-03",
+    "confidence": "likely",
+    "tags": [
+      "retail",
+      "financial-services",
+      "payments",
+      "loyalty",
+      "distribution",
+      "customer-acquisition"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.aeon.info/en/company/",
+      "https://www.7andi.com/en/company/profile",
+      "https://www.rokt.com/blog/retail-media-in-japan-isnt-emerging-its-evolving",
+      "https://www.mitsui.com/mgssi/en/report/detail/__icsFiles/afieldfile/2025/12/23/2511_i_takashima_e.pdf"
+    ]
+  },
+  "summary": "This is the control / concept page behind the retail-finance group entries on the retail INDEX. Where the group pages (AEON Group, Seven & i Holdings, Lawson + KDDI) describe who owns which finance stack, this page isolates the underlying mechanism they all share: physical store traffic is a distrib",
+  "headings": [
+    "Store Traffic as Financial Distribution",
+    "Wiki route",
+    "The core claim",
+    "Why the CAC advantage is real",
+    "The conversion ladder",
+    "Limits and risks",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 13,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/legal-financial-licenses/payment-license-stack",
+      "JapanFG/paypay-fg",
+      "JapanFG/rakuten-fg",
+      "loyalty/japan-points-landscape",
+      "payments/cashless-jp-landscape",
+      "payments/nanaco-prepaid-seven-i",
+      "payments/waon-prepaid-aeon",
+      "retail/INDEX",
+      "retail/aeon-group",
+      "retail/japan-retail-financial-distribution-wedge-matrix",
+      "retail/lawson-kddi-retail-finance",
+      "retail/seven-and-i-hd"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/payment-license-stack",
+      "https://finwiki.zksc.io/JapanFG/paypay-fg",
+      "https://finwiki.zksc.io/JapanFG/rakuten-fg",
+      "https://finwiki.zksc.io/loyalty/japan-points-landscape",
+      "https://finwiki.zksc.io/payments/cashless-jp-landscape",
+      "https://finwiki.zksc.io/payments/nanaco-prepaid-seven-i",
+      "https://finwiki.zksc.io/payments/waon-prepaid-aeon",
+      "https://finwiki.zksc.io/retail/INDEX",
+      "https://finwiki.zksc.io/retail/aeon-group",
+      "https://finwiki.zksc.io/retail/japan-retail-financial-distribution-wedge-matrix",
+      "https://finwiki.zksc.io/retail/lawson-kddi-retail-finance",
+      "https://finwiki.zksc.io/retail/seven-and-i-hd"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 5252,
+    "word_like_tokens": 871,
+    "inbound_wikilinks_count": 5,
+    "last_modified": "2026-06-03"
+  }
+}

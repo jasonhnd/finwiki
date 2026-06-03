@@ -1,0 +1,90 @@
+{
+  "schema_version": "1.0",
+  "slug": "non-profit/japan-ippan-vs-koeki-shadan-houjin",
+  "source_path": "non-profit/japan-ippan-vs-koeki-shadan-houjin.md",
+  "url": "https://finwiki.zksc.io/non-profit/japan-ippan-vs-koeki-shadan-houjin",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/non-profit/japan-ippan-vs-koeki-shadan-houjin.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/non-profit/japan-ippan-vs-koeki-shadan-houjin.md",
+  "domain": "non-profit",
+  "title": "日本 一般社団法人 vs 公益社団法人 — general vs public-interest incorporated association",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "日本 一般社団法人 vs 公益社団法人 — general vs public-interest incorporated association",
+    "aliases": [
+      "japan-ippan-vs-koeki-shadan-houjin",
+      "一般社団法人",
+      "公益社団法人",
+      "ippan shadan houjin",
+      "koeki shadan houjin",
+      "japan general incorporated association",
+      "japan public interest incorporated association",
+      "一般社団 公益社団 違い"
+    ],
+    "domain": "non-profit",
+    "created": "2026-06-03",
+    "last_updated": "2026-06-03",
+    "last_tended": "2026-06-03",
+    "review_by": "2026-12-03",
+    "confidence": "likely",
+    "tags": [
+      "non-profit",
+      "japan",
+      "association",
+      "public-interest",
+      "legal-structure",
+      "tax-deductible"
+    ],
+    "status": "active",
+    "sources": [
+      "https://laws.e-gov.go.jp/law/418AC0000000048",
+      "https://laws.e-gov.go.jp/law/418AC0000000049",
+      "https://www.koeki-info.go.jp/",
+      "https://www.moj.go.jp/MINJI/minji153.html",
+      "https://www.nta.go.jp/taxes/shiraberu/taxanswer/hojin/5275.htm"
+    ]
+  },
+  "summary": "This entry sits under non-profit INDEX and is the membership-based (社団) companion to the endowment-based foundation page Japan 一般財団法人 establishment requirements. It expands the 社団 columns of the cross-form table in 公益財団 vs 一般財団 vs 一般社団 vs NPO法人 comparison, and contrasts with the separate-statute civ",
+  "headings": [
+    "日本 一般社団法人 vs 公益社団法人 — general vs public-interest incorporated association",
+    "Wiki route",
+    "TL;DR",
+    "一般社団法人 — the base form",
+    "非営利型 vs 普通法人扱い (tax sub-types)",
+    "公益社団法人 — the public-interest upgrade",
+    "Side-by-side",
+    "社団 vs 財団 — choosing the axis",
+    "Strategic reading",
+    "Related"
+  ],
+  "body_links": {
+    "wikilinks_count": 8,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/INDEX",
+      "fintech/japan-financial-regulation",
+      "non-profit/INDEX",
+      "non-profit/japan-general-foundation-establishment-requirements",
+      "non-profit/japan-koeki-vs-general-zaidan-comparison",
+      "non-profit/japan-npo-houjin-overview",
+      "non-profit/japan-research-grant-map-2026"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
+      "https://finwiki.zksc.io/non-profit/INDEX",
+      "https://finwiki.zksc.io/non-profit/japan-general-foundation-establishment-requirements",
+      "https://finwiki.zksc.io/non-profit/japan-koeki-vs-general-zaidan-comparison",
+      "https://finwiki.zksc.io/non-profit/japan-npo-houjin-overview",
+      "https://finwiki.zksc.io/non-profit/japan-research-grant-map-2026"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 6930,
+    "word_like_tokens": 1128,
+    "inbound_wikilinks_count": 3,
+    "last_modified": "2026-06-03"
+  }
+}

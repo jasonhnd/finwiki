@@ -1,0 +1,92 @@
+{
+  "schema_version": "1.0",
+  "slug": "trade/letter-of-credit-documentary-mechanism",
+  "source_path": "trade/letter-of-credit-documentary-mechanism.md",
+  "url": "https://finwiki.zksc.io/trade/letter-of-credit-documentary-mechanism",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/trade/letter-of-credit-documentary-mechanism.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/trade/letter-of-credit-documentary-mechanism.md",
+  "domain": "trade",
+  "title": "Letter of credit (documentary credit) — the trade-settlement mechanism",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Letter of credit (documentary credit) — the trade-settlement mechanism",
+    "aliases": [
+      "letter-of-credit-documentary-mechanism",
+      "信用状（信用状取引）",
+      "しんようじょう",
+      "documentary credit",
+      "L/C mechanism",
+      "UCP 600 documentary credit"
+    ],
+    "domain": "trade",
+    "created": "2026-06-03",
+    "last_updated": "2026-06-03",
+    "last_tended": "2026-06-03",
+    "review_by": "2026-12-03",
+    "confidence": "likely",
+    "tags": [
+      "trade",
+      "trade-finance",
+      "letter-of-credit",
+      "ucp-600",
+      "settlement",
+      "icc"
+    ],
+    "status": "active",
+    "sources": [
+      "https://iccwbo.org/business-solutions/trade-finance/",
+      "https://2go.iccwbo.org/ucp-600-uniform-rules-for-documentary-credits-config-1+book_version-Book/",
+      "https://en.wikipedia.org/wiki/Uniform_Customs_and_Practice_for_Documentary_Credits",
+      "https://academy.iccwbo.org/international-trade/article/documentary-credits-rules-guidelines-terminology/",
+      "https://iccwbo.org/news-publications/policies-reports/eucp-version-2-1-icc-uniform-customs-and-practice-for-documentary-credits/"
+    ]
+  },
+  "summary": "This entry sits under trade INDEX and is the trade-finance counterpart to the institutional pages anchored on JETRO vs NEXI vs JBIC. Read it alongside Incoterms 2020 (which defines the delivery point a credit's documents must evidence) and documentary collection vs letter of credit (the lighter, ban",
+  "headings": [
+    "Letter of credit (documentary credit) — the trade-settlement mechanism",
+    "Wiki route",
+    "TL;DR",
+    "What problem it solves",
+    "The parties",
+    "The lifecycle",
+    "Independence and strict compliance — the two governing doctrines",
+    "The rulebook: UCP 600, ISBP, and eUCP",
+    "Common credit variants",
+    "Where the L/C sits in the trade-finance and settlement stack"
+  ],
+  "body_links": {
+    "wikilinks_count": 10,
+    "wikilinks": [
+      "INDEX",
+      "insurance/marine-insurance-and-pi-cover-market",
+      "payments/japan-payment-clearing-and-settlement-infrastructure",
+      "policy-finance/INDEX",
+      "policy-finance/nexi-export-credit-insurance-products",
+      "policy-finance/oecd-export-credit-arrangement",
+      "trade/INDEX",
+      "trade/documentary-collection-vs-letter-of-credit",
+      "trade/incoterms-2020-trade-terms-framework",
+      "trade/jetro-vs-nexi-vs-jbic-comparison"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/insurance/marine-insurance-and-pi-cover-market",
+      "https://finwiki.zksc.io/payments/japan-payment-clearing-and-settlement-infrastructure",
+      "https://finwiki.zksc.io/policy-finance/INDEX",
+      "https://finwiki.zksc.io/policy-finance/nexi-export-credit-insurance-products",
+      "https://finwiki.zksc.io/policy-finance/oecd-export-credit-arrangement",
+      "https://finwiki.zksc.io/trade/INDEX",
+      "https://finwiki.zksc.io/trade/documentary-collection-vs-letter-of-credit",
+      "https://finwiki.zksc.io/trade/incoterms-2020-trade-terms-framework",
+      "https://finwiki.zksc.io/trade/jetro-vs-nexi-vs-jbic-comparison"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 11410,
+    "word_like_tokens": 1908,
+    "inbound_wikilinks_count": 3,
+    "last_modified": "2026-06-03"
+  }
+}
