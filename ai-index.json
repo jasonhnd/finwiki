@@ -1,16 +1,16 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-06-03T19:23:38+09:00",
+  "generated_at": "2026-06-03T20:33:12+09:00",
   "counts": {
-    "markdown_files": 1486,
-    "public_markdown_pages": 1485,
-    "site_urls_in_sitemap": 1486,
+    "markdown_files": 1487,
+    "public_markdown_pages": 1486,
+    "site_urls_in_sitemap": 1487,
     "topical_domains": 23,
     "link_audited_entries": 1420,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 10105853,
-    "word_like_tokens": 1634263
+    "nonspace_utf8_chars": 10115520,
+    "word_like_tokens": 1636048
   },
   "navigation": {
     "human_homepage": "https://finwiki.zksc.io/",
@@ -230,10 +230,10 @@
         "English",
         "中文",
         "2026-06-03",
+        "開発進度ドキュメント拡充と canonicalanchor Phase 2 起動 / Dev-progress docs + canonicalanchor Phase 2 kickoff / 开发进度文档扩充与 canonical_anchor Phase 2 起步",
         "開発文書システム docs/ の新設 / Internal developer-docs system under docs/ / 新建内部开发文档系统 docs/",
         "領域物理改名 governance→non-profit・manufacturing→manufacturer-finance / Domain physical rename governance→non-profit, manufacturing→manufacturer-finance / 领域物理改名 governance→non-profit、manufacturing→manufacturer-finance",
-        "canonicalanchor 全量 back-fill と Phase 1 report-only audit / canonicalanchor back-fill and Phase 1 report-only audit / canonical_anchor 全量 back-fill 与 Phase 1 report-only audit",
-        "領域再定位・JapanFG sub-INDEX・canonicalanchor Phase 0 / Domain rescope, JapanFG sub-indexes, canonicalanchor Phase 0 / 领域再定位、JapanFG sub-INDEX、canonical_anchor Phase 0"
+        "canonicalanchor 全量 back-fill と Phase 1 report-only audit / canonicalanchor back-fill and Phase 1 report-only audit / canonical_anchor 全量 back-fill 与 Phase 1 report-only audit"
       ],
       "wikilinks": [
         "...",
@@ -469,8 +469,8 @@
         "governance/...",
         "origin repository"
       ],
-      "nonspace_chars": 499582,
-      "word_like_tokens": 88654,
+      "nonspace_chars": 503188,
+      "word_like_tokens": 89341,
       "last_modified": "2026-06-03"
     },
     {
@@ -35702,8 +35702,8 @@
         "vercel.json",
         "wiki-link-improvement-plan.md"
       ],
-      "nonspace_chars": 47251,
-      "word_like_tokens": 8029,
+      "nonspace_chars": 48666,
+      "word_like_tokens": 8287,
       "last_modified": "2026-06-03"
     },
     {
@@ -65392,7 +65392,7 @@
       "title": "Saison Automobile & Fire / SOMPO Direct",
       "domain": "insurance",
       "entry_type": "wiki_entry",
-      "summary": "This entry sits under insurance index. Read it against Nat-cat reinsurance in Japan for peer / contrast context and JapanFG index for the broader system / regulatory boundary.",
+      "summary": "This entry sits under insurance index. The canonical entity anchor for this insurer is its JapanFG entity page; this insurance-domain page is the direct non-life / auto-insurance view of that same entity. Read it against Nat-cat reinsurance in Japan for peer / contrast context and JapanFG index for",
       "headings": [
         "Saison Automobile & Fire / SOMPO Direct",
         "Wiki route",
@@ -65407,6 +65407,7 @@
         "INDEX",
         "JapanFG/INDEX",
         "JapanFG/legal-financial-licenses/INDEX",
+        "JapanFG/saison-automobile-fire-insurance",
         "JapanFG/sompo",
         "JapanFG/sony-fg",
         "insurance/INDEX",
@@ -65417,6 +65418,7 @@
         "https://finwiki.zksc.io/INDEX",
         "https://finwiki.zksc.io/JapanFG/INDEX",
         "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX",
+        "https://finwiki.zksc.io/JapanFG/saison-automobile-fire-insurance",
         "https://finwiki.zksc.io/JapanFG/sompo",
         "https://finwiki.zksc.io/JapanFG/sony-fg",
         "https://finwiki.zksc.io/insurance/INDEX",
@@ -65424,8 +65426,8 @@
         "https://finwiki.zksc.io/insurance/natcat-reinsurance-japan"
       ],
       "markdown_links": [],
-      "nonspace_chars": 2861,
-      "word_like_tokens": 453,
+      "nonspace_chars": 3046,
+      "word_like_tokens": 486,
       "last_modified": "2026-06-03"
     },
     {
@@ -76792,6 +76794,33 @@
       "last_modified": "2026-06-03"
     },
     {
+      "source_path": "releases/v2026.06.03-11.md",
+      "url": "https://finwiki.zksc.io/releases/v2026.06.03-11",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.06.03-11.md",
+      "title": "開発進度ドキュメント拡充と canonical_anchor Phase 2 起動",
+      "domain": "releases",
+      "entry_type": "release_note",
+      "summary": "",
+      "headings": [
+        "開発進度ドキュメント拡充と canonical_anchor Phase 2 起動",
+        "日本語",
+        "公開範囲",
+        "主要変更",
+        "検証結果",
+        "既知の注意点",
+        "次の作業",
+        "English",
+        "Release Scope",
+        "Major Changes"
+      ],
+      "wikilinks": [],
+      "resolved_wikilinks": [],
+      "markdown_links": [],
+      "nonspace_chars": 4510,
+      "word_like_tokens": 814,
+      "last_modified": "2026-06-03"
+    },
+    {
       "source_path": "releases/v2026.06.03-2.md",
       "url": "https://finwiki.zksc.io/releases/v2026.06.03-2",
       "github_url": "https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.06.03-2.md",
@@ -86039,8 +86068,8 @@
         "https://finwiki.zksc.io/wikilink"
       ],
       "markdown_links": [],
-      "nonspace_chars": 2862,
-      "word_like_tokens": 514,
+      "nonspace_chars": 2813,
+      "word_like_tokens": 507,
       "last_modified": "2026-06-03"
     }
   ]

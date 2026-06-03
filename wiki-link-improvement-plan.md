@@ -15,9 +15,9 @@
 | Missing route link | 0 |
 | Missing peer link | 0 |
 | Missing system / regulatory link | 0 |
-| Changed or new entries in current worktree | 0 |
+| Changed or new entries in current worktree | 1 |
 | canonical_anchor declarations checked (informational) | 8 |
-| canonical_anchor drift (informational, non-gating) | 1 |
+| canonical_anchor drift (informational, non-gating) | 0 |
 
 ## Wiki Linking Standard
 
@@ -41,6 +41,7 @@
 
 | Path | State | Body | Issues |
 |---|---:|---:|---|
+| `insurance/saison-automobile-fire.md` | `M` | 12 | ok |
 
 ## Domain Snapshot
 
@@ -63,7 +64,7 @@
 | `fintech` | 144 | 0 | 10.9 |
 | `finwiki` | 1 | 0 | 29.0 |
 | `governance` | 1 | 0 | 13.0 |
-| `insurance` | 33 | 0 | 42.6 |
+| `insurance` | 33 | 0 | 42.7 |
 | `loyalty` | 12 | 0 | 20.3 |
 | `manufacturer-finance` | 8 | 0 | 14.6 |
 | `money-market` | 12 | 0 | 22.2 |
@@ -85,11 +86,11 @@
 > `canonical_anchor:` frontmatter either points at a non-existent entry or is
 > not cross-linked from the declaring page's core body (before `## Related`).
 
-Declarations checked: 8. Drift: 1.
+Declarations checked: 8. Drift: 0.
 
 | Path | Declared anchor | Resolves | Core-body link | Issue |
 |---|---|---|---|---|
-| `insurance/saison-automobile-fire.md` | `JapanFG/saison-automobile-fire-insurance` | yes | no | `missing_core_body_link` |
+| _none_ | - | - | - | - |
 
 ## Execution Notes
 

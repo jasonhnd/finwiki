@@ -1,9 +1,9 @@
 # FinWiki Full LLM Manifest
 
-Generated: 2026-06-03T19:23:38+09:00
+Generated: 2026-06-03T20:33:12+09:00
 Site: https://finwiki.zksc.io
-Markdown files: 1486
-Public pages listed: 1485
+Markdown files: 1487
+Public pages listed: 1486
 
 ## Reading Rules
 
@@ -28,7 +28,7 @@ Public pages listed: 1485
 - Domain: root
 - Type: control_doc
 - Summary: 1. matt-huang-triple-role-coi-template — Stripe 取締役就任「2024」→ 2021-11(Stripe newsroom: 2021年11月5日)。 2. christine-moy-talent-signal-jpm-apollo — Apollo 移籍「2024」→ 2022-04(CoinDesk 2022-04-28 / Apollo 公式)。併せて整合しない「回収サイクル 6-18ヶ月」を「数年規模」へ修正。 3. jamie-dimon-anti-crypto-pivot-case — 「2022 ペットロック」を分離・修正:2022
-- Headings: CHANGELOG, 運用原則 / Maintenance Principles / 维护原则, 日本語, English, 中文, 2026-06-03, 開発文書システム docs/ の新設 / Internal developer-docs system under docs/ / 新建内部开发文档系统 docs/, 領域物理改名 governance→non-profit・manufacturing→manufacturer-finance / Domain physical rename governance→non-profit, manufacturing→manufacturer-finance / 领域物理改名 governance→non-profit、manufacturing→manufacturer-finance
+- Headings: CHANGELOG, 運用原則 / Maintenance Principles / 维护原则, 日本語, English, 中文, 2026-06-03, 開発進度ドキュメント拡充と canonicalanchor Phase 2 起動 / Dev-progress docs + canonicalanchor Phase 2 kickoff / 开发进度文档扩充与 canonical_anchor Phase 2 起步, 開発文書システム docs/ の新設 / Internal developer-docs system under docs/ / 新建内部开发文档系统 docs/
 - First resolved wikilinks: https://finwiki.zksc.io/..., https://finwiki.zksc.io/JapanFG, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/aia-life-japan, https://finwiki.zksc.io/JapanFG/american-express-international-japan, https://finwiki.zksc.io/JapanFG/asahi-shinkin, https://finwiki.zksc.io/JapanFG/atone, https://finwiki.zksc.io/JapanFG/bdo-sanyu, https://finwiki.zksc.io/JapanFG/bny-mellon-japan, https://finwiki.zksc.io/JapanFG/boj-financial-markets-dept, https://finwiki.zksc.io/JapanFG/boj-financial-system-dept, https://finwiki.zksc.io/JapanFG/boj-international-dept
 
 ### How to navigate FinWiki — reader profile guide
@@ -11406,9 +11406,9 @@ Public pages listed: 1485
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/insurance/saison-automobile-fire.md
 - Domain: insurance
 - Type: wiki_entry
-- Summary: This entry sits under insurance index. Read it against Nat-cat reinsurance in Japan for peer / contrast context and JapanFG index for the broader system / regulatory boundary.
+- Summary: This entry sits under insurance index. The canonical entity anchor for this insurer is its JapanFG entity page; this insurance-domain page is the direct non-life / auto-insurance view of that same entity. Read it against Nat-cat reinsurance in Japan for peer / contrast context and JapanFG index for
 - Headings: Saison Automobile & Fire / SOMPO Direct, Wiki route, TL;DR, Company Identity, Strategic Meaning, Comparison Points, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX, https://finwiki.zksc.io/JapanFG/sompo, https://finwiki.zksc.io/JapanFG/sony-fg, https://finwiki.zksc.io/insurance/INDEX, https://finwiki.zksc.io/insurance/life-insurance-channel-mix, https://finwiki.zksc.io/insurance/natcat-reinsurance-japan
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX, https://finwiki.zksc.io/JapanFG/saison-automobile-fire-insurance, https://finwiki.zksc.io/JapanFG/sompo, https://finwiki.zksc.io/JapanFG/sony-fg, https://finwiki.zksc.io/insurance/INDEX, https://finwiki.zksc.io/insurance/life-insurance-channel-mix, https://finwiki.zksc.io/insurance/natcat-reinsurance-japan
 
 ### Sony Life group-life and Lifeplanner operating model
 - URL: https://finwiki.zksc.io/insurance/sony-life-group-life-operating-model
@@ -13278,6 +13278,14 @@ Public pages listed: 1485
 - Domain: releases
 - Type: release_note
 - Headings: 開発文書システム docs/ の新設, 日本語, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業, English
+
+### 開発進度ドキュメント拡充と canonical_anchor Phase 2 起動
+- URL: https://finwiki.zksc.io/releases/v2026.06.03-11
+- Source path: releases/v2026.06.03-11.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.06.03-11.md
+- Domain: releases
+- Type: release_note
+- Headings: 開発進度ドキュメント拡充と canonical_anchor Phase 2 起動, 日本語, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業, English
 
 ### human site カラートークンの冷灰テーマ化
 - URL: https://finwiki.zksc.io/releases/v2026.06.03-2

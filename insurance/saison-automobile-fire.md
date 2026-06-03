@@ -26,7 +26,7 @@ canonical_anchor: JapanFG/saison-automobile-fire-insurance
 
 ## Wiki route
 
-This entry sits under [[insurance/INDEX|insurance index]]. Read it against [[insurance/natcat-reinsurance-japan|Nat-cat reinsurance in Japan]] for peer / contrast context and [[JapanFG/INDEX|JapanFG index]] for the broader system / regulatory boundary.
+This entry sits under [[insurance/INDEX|insurance index]]. The canonical entity anchor for this insurer is [[JapanFG/saison-automobile-fire-insurance|its JapanFG entity page]]; this insurance-domain page is the direct non-life / auto-insurance view of that same entity. Read it against [[insurance/natcat-reinsurance-japan|Nat-cat reinsurance in Japan]] for peer / contrast context and [[JapanFG/INDEX|JapanFG index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
