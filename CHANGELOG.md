@@ -31,6 +31,17 @@
 
 ## 2026-06-04
 
+### JapanFG 分割 後始末 — 17 ドメインの localized 名 + audit route map / JapanFG split follow-up (titles + route map) / JapanFG 拆分收尾（标题 + route map）
+#### 日本語記録 / English / 中文
+- **JST 時刻**: 2026-06-04 21:14 JST。
+- **背景**: v2026.06.04-4（JapanFG 17 分割）の「次の作業」2 件（DOMAIN_TITLES 未追加 / audit route map 未拡充）をユーザー要請（「补充」）で消化。
+- **範囲**: `site/src/lib/siteIndex.mjs`（`DOMAIN_TITLES`）、`tools/wiki_link_audit.ts`（`DOMAIN_SYSTEM_CANDIDATES`）、三語 README/CHANGELOG/`releases/v2026.06.04-5.md`、discovery 再同期。
+- **主要変更**: (1) DOMAIN_TITLES に 17 ドメインの ja/zh/en 表示名（megabanks=メガバンク / regional-banks=地方銀行 / life-insurers=生命保険 … 計 17×3）。site の領域名が slug→正式名。(2) wiki_link_audit の route map に 17 ドメインの route/system-link 候補を追加（非 gating）、JapanFG エントリの旧 `legal-financial-licenses/INDEX` を `financial-licenses/INDEX` へ修正。corpus（wiki entry）と discovery の entity 構造は不変。
+- **検証結果**: `release.ts --check --strict` **EXIT=0**、entries=1473 / issues=0 / dead=0 / canonical_drift=0、domains=40、counts in sync、`siteIndex.mjs` import OK。追加 route map は新規 issue なし。
+- **既知の注意点 / 次の作業**: push 後 GitHub Actions build 緑確認（site/ 表示変更）。JapanFG 分割本体は v2026.06.04-4 で完了済み。
+- **EN**: Cleared the two v2026.06.04-4 follow-ups (the JapanFG 17-way split): added ja/zh/en `DOMAIN_TITLES` for the 17 domains in `site/src/lib/siteIndex.mjs` (site shows proper names instead of slugs) and added the 17 domains to the `DOMAIN_SYSTEM_CANDIDATES` route map in `tools/wiki_link_audit.ts` (non-gating route/system-link suggestions; also fixed the JapanFG entry's stale `legal-financial-licenses/INDEX` → `financial-licenses/INDEX`). Corpus (wiki entries) and discovery entity structure unchanged. Verification: `release.ts --check --strict` EXIT=0, entries=1473 / issues=0 / dead=0 / canonical_drift=0, domains=40, counts in sync, `siteIndex.mjs` imports OK; the added route map produced no new issues.
+- **中文**: 消化 v2026.06.04-4（JapanFG 17 拆分）的两项「下一步」：在 `site/src/lib/siteIndex.mjs` 给 17 个域补 ja/zh/en `DOMAIN_TITLES`（站点从 slug 改为正式名），并把 17 个域加入 `tools/wiki_link_audit.ts` 的 `DOMAIN_SYSTEM_CANDIDATES` route map（非 gating 的 route/system-link 建议；顺带修了 JapanFG 条目过时的 `legal-financial-licenses/INDEX` → `financial-licenses/INDEX`）。corpus（wiki entry）与 discovery 的 entity 结构不变。验证：`release.ts --check --strict` EXIT=0、entries=1473 / issues=0 / dead=0 / canonical_drift=0、domains=40、counts in sync、`siteIndex.mjs` import OK；新增 route map 无新 issue。
+
 ### JapanFG 分割 — 巨大ドメインを 17 機関類型別ドメインへ物理分割（23→40 領域）/ JapanFG split into 17 institution-type domains (23→40) / JapanFG 拆分为 17 个机构类型域（23→40）
 #### 日本語記録 / English / 中文
 - **JST 時刻**: 2026-06-04 16:54 JST。
