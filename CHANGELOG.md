@@ -29,6 +29,21 @@
 - 如果某次提交只更新少量条目，也要写清楚为什么改、改了哪里、如何确认。
 - 本仓库正文内容只保留公开互联网信息、公文资料、公开披露或基于公开来源的分析；个人信息、本地路径、非公开对话、客户/相手方信息和内部案件细节必须删除。
 
+## 2026-06-04
+
+### 開発文書の専門化整理（docs 11 文書・3 分類）/ Developer-docs professionalization (11 docs, 3 tiers) / 开发文档专业化整理（11 文档、3 分类）
+#### 日本語記録 / English / 中文
+- **JST 時刻**: 2026-06-04 09:30 JST。
+- **背景**: docs/ 開発文書システムは v10/v11 で構築したが、v11-v13 の大量開発（46 entry、canonical_anchor back-fill、並列 Agent 手法、block-no-verify 踩坑）が進度型文書に未反映で、かつ「未来の開発を指導する」専門文書（entry 執筆規範・並列開発手册）が欠けていた。ユーザー要請で専門化整理した。
+- **範囲**: docs/ 11 文書（新規 `entry-authoring.md` / `parallel-development.md`、更新 `roadmap` / `backlog` / `domains` / `decisions` / `gotchas` / `README`）、再同期された discovery surface（`README.md` / `index.html` / `ai-index.json` / `llms*.txt` / `sitemap.xml` / `api/` / `wiki-link-improvement-plan.md`）、CHANGELOG / `releases/v2026.06.04-1.md`。**docs/ は corpus 排除のため公開計数・発見面に不影響**。
+- **主要変更**: (1) 新規 2 文書: entry-authoring（frontmatter 模板 / canonical_anchor / wikilink 規則 / 内容標準 / 範例 + 自検清单）、parallel-development（文件域隔離 / Agent vs Workflow / rate-limit 分批 / 双批 entry / Phase 2 收尾——v12/v13 実戦沉淀）。(2) 進度型更新: roadmap に v11/v12/v13 里程碑追加 + 近期重点最新化（Saison drift ✅・back-fill ✅・残り entity edge / i18n）、backlog 完了項を 🟢 化、domains を v13 disk 実数へ。(3) decisions に ADR-006（並列 Agent 開発）、gotchas に #10（block-no-verify 誤判）/ #11（rate-limit・双批）。(4) README 索引を 3 分類（参考型 / 規範・方法型 / 進度・規劃型）へ再編。並列 subagent 2 件（進度型更新 + entry-authoring）+ 主会話（parallel-development + ADR + gotchas + 索引）で分担。
+- **実行手順**: docs/ 過時を盤点 → subagent A（進度型更新）+ B（entry-authoring）並列 → 主会話で parallel-development.md 執筆 + ADR-006 + gotchas #10/#11 + README 3 分類再編 → `release.ts --write`（discovery を 2026-06-04 現在へ再生成）→ `--check --strict`。
+- **検証結果**: `release.ts --check --strict` EXIT=0、link audit entries=1466 / issues=0 → PASS、md=1535 / domains=23、counts in sync、docs/ の sitemap/llms URL 0、lastmod 汚染 0、敏感情報 0。
+- **既知の注意点**: 本 release は内部 docs 整理 + discovery 再同期が主体で、公開 wiki 本文（entry）の新規追加は無し（corpus md/entries 不変）。
+- **次の作業**: push 後に GitHub Actions、remote HEAD、GitHub Release を確認。開発の次手は roadmap P1 残（entity edge）/ P4（i18n）。
+- **EN**: Professionalized the docs/ developer-documentation system (built in v10/v11) which had gone stale after the heavy v11-v13 work and lacked future-guiding standards. Now 11 docs in 3 tiers (reference / standards-method / progress-planning). Added entry-authoring.md (frontmatter template, canonical_anchor, wikilink rules, content standards, worked example + checklist) and parallel-development.md (file-scope isolation, Agent vs Workflow, rate-limit batching, double-batch entries, Phase 2 wrap-up — distilled from v12/v13). Updated roadmap/backlog/domains to the v13 state (milestones v11-v13, done items flipped, domain counts to disk reality), added decisions ADR-006 (parallel Agent development) and two gotchas (block-no-verify misfire on compound commands / "verif" word; rate-limit + double-batch), and restructured the README index into 3 tiers. Done with 2 parallel subagents (progress-doc update + entry-authoring) plus the main loop (parallel-development + ADR + gotchas + index). docs/ is corpus-excluded, so this changes no public counts/discovery; discovery surfaces were re-synced to 2026-06-04. Verification: `release.ts --check --strict` EXIT=0, audit entries=1466 / issues=0, counts in sync, 0 docs URLs in sitemap/llms, 0 pollution, 0 sensitive data. No public entries were added (corpus md/entries unchanged).
+- **中文**: 把 v10/v11 建的 docs/ 开发文档系统专业化整理——它在 v11-v13 大量开发后已过时，且缺少「指导未来开发」的规范文档。现为 11 文档、3 分类（参考型 / 规范·方法型 / 进度·规划型）。新增 entry-authoring.md（frontmatter 模板、canonical_anchor、wikilink 规则、内容标准、范例+清单）和 parallel-development.md（文件域隔离、Agent vs Workflow、rate-limit 分批、双批 entry、Phase 2 收尾——沉淀自 v12/v13）。把 roadmap/backlog/domains 更新到 v13 状态（里程碑 v11-v13、完成项勾掉、domain count 改为 disk 实数），decisions 加 ADR-006（并行 Agent 开发），gotchas 加两项（block-no-verify 对复合命令/"verif" 词误判；rate-limit + 双批），README 索引重组为 3 分类。用 2 个并行 subagent（进度型更新 + entry-authoring）+ 主会话（parallel-development + ADR + gotchas + 索引）分担。docs/ 已排除出 corpus，故不改任何公开计数/发现面；discovery surface 重新同步到 2026-06-04。验证：`release.ts --check --strict` EXIT=0、audit entries=1466 / issues=0、counts in sync、sitemap/llms 的 docs URL 0、0 污染、0 敏感。未新增公开 entry（corpus md/entries 不变）。
+
 ## 2026-06-03
 
 ### canonical_anchor Phase 2 back-fill（mirror 4 件）/ canonical_anchor Phase 2 back-fill (4 mirrors) / canonical_anchor Phase 2 back-fill（4 个 mirror）

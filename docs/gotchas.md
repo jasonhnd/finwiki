@@ -41,3 +41,11 @@ repo 既有 commit 惯例**不带 `Co-Authored-By` 尾注**。提交前看一眼
 ## 9. 发布门禁的硬约束
 
 `release.ts --check --strict` 必须 `EXIT=0` 才能发：link audit `issues=0`、counts in sync、JSON valid / LF endings / duplicate-id verify OK。任一不满足都别 push。
+
+## 10. block-no-verify hook 对复合命令 + "verif" 词误判（中危）
+
+`block-no-verify` hook 拦 `git commit --no-verify`，但匹配过宽，两种情况会**误拦**正常 commit：(a) commit message 里含 "**Verif**ied" 等 `verif` 子串；(b) 把 `release.ts --write` / `--check` 和 `git commit` 写进**同一个复合 Bash 命令**。**对策**：commit **单独成命令**跑（不和 `--write`/`--check` 合并），且 message 避开 `verif`（用 "Checks:" / "checked" 代替 "Verified" / "verified"）。v12 / v13 都踩过。
+
+## 11. 并行 agent 的 rate-limit 与双批 entry（中危）
+
+一次派太多（v12 一次 9 个含 WebSearch 的 agent）会撞 API rate-limit（`Server is temporarily limiting requests · not your usage limit`）。**rate-limited 的 agent 失败前可能已写好文件**（`tool_uses` 高、`subagent_tokens=0` 是统计假象）→ 盲目重试会得到双批 entry。**对策**：并发 ≤5-6、分批；重试前 `git status` 看是否已有产出；收尾按各领域 **disk 实数**（`ls`）对账 root INDEX，别信 agent 报告的数字。详见 [parallel-development.md](parallel-development.md)。

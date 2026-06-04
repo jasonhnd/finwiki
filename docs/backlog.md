@@ -6,17 +6,19 @@
 
 | 状态 | 项目 | 备注 |
 |---|---|---|
-| 🔴 | Saison drift 修复 | `insurance/saison-automobile-fire` 只在 `## Related` footer 引用 anchor，core body 未引用 → `canonical_anchor_drift=1`。加 body link 或保留为 warning。 |
-| 🔴 | 剩余 mirror pair 全量 back-fill | 当前 8 个 anchor；盘点未设的 mirror pair。 |
-| 🔴 | discovery 输出 entity edge | `ai-index.json` / `llms-full.txt` 暴露 mirror→anchor 关系。 |
-| 🔴 | 评估 hard requirement | 把 `canonical_anchor` 从 optional 变 mirror page 必填 + audit 升为 gate。 |
+| 🟢 | Saison drift 修复 | **v12 完成**。`insurance/saison-automobile-fire` core body 已引用 anchor，`canonical_anchor_drift=0`。 |
+| 🟢 | 剩余 mirror pair 全量 back-fill | **v13 完成**。补 4 个 mirror anchor（au-jibun-bank / kampo-life / sony-life / ja-kyosairen），现共 12 个，`canonical_anchor_checked=8→12`、drift=0。 |
+| 🔴 | discovery 输出 entity edge | `ai-index.json` / `llms-full.txt` 暴露 mirror→anchor 关系。back-fill 已 done（v13），但 discovery 输出仍未含机器可读 entity edge —— 这是 P1 唯一剩余主体工作。 |
+| 🔴 | 评估 hard requirement | 把 `canonical_anchor` 从 optional 变 mirror page 必填 + audit 升为 gate。back-fill done 后可重估覆盖率。 |
 
 ## 内容扩充（P3）
 
 | 状态 | 项目 | 备注 |
 |---|---|---|
-| 🔴 | `security` 4 个 planned 页 | INDEX「Status」列已标 planned 但未建。 |
-| 🔴 | 薄领域补内容 | `non-profit`(4) / `trade`(4) / `corporate-strategy`(6) / `manufacturer-finance`(8) / `retail`(8)。 |
+| 🟢 | `security` 4 个 planned 页 | **v12 完成**（+4，security 6→9）。 |
+| 🟢 | 薄领域补内容 | **v12 largely done**。并行 +46 entry：corporate-strategy 6→11、manufacturer-finance 8→13、retail 8→10、money-market 12→17、loyalty 12→17、business 19→24。仅 `non-profit`(6) / `trade`(6) 仍最薄（各 +3 后仍小），续扩。 |
+| 🔴 | i18n 翻译 v12 新增 46 entry | v12 并行新增的 46 个 entry 无 ja/zh/en mirror（机器翻译未生成）。补齐三语 mirror，符合三语同步原则。 |
+| 🔴 | 评估/合并 v12 双批近重复主题 | v12 中 5 领域（loyalty / money-market 等）因 rate-limit + 重试得到双量（6）entry，主题互补但 loyalty & money-market 出现多个 benchmark / point-economics 类页，人工核对是否近重复并按需合并。 |
 | 🔴 | 各领域 INDEX count 常态校准 | 内容增删后 INDEX 表 count 易滞后（`release.ts` 不自动改领域 count）。 |
 
 ## JapanFG（P2）

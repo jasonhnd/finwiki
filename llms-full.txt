@@ -1,9 +1,9 @@
 # FinWiki Full LLM Manifest
 
-Generated: 2026-06-03T23:42:03+09:00
+Generated: 2026-06-04T09:26:34+09:00
 Site: https://finwiki.zksc.io
-Markdown files: 1535
-Public pages listed: 1534
+Markdown files: 1536
+Public pages listed: 1535
 
 ## Reading Rules
 
@@ -28,7 +28,7 @@ Public pages listed: 1534
 - Domain: root
 - Type: control_doc
 - Summary: 1. matt-huang-triple-role-coi-template — Stripe 取締役就任「2024」→ 2021-11(Stripe newsroom: 2021年11月5日)。 2. christine-moy-talent-signal-jpm-apollo — Apollo 移籍「2024」→ 2022-04(CoinDesk 2022-04-28 / Apollo 公式)。併せて整合しない「回収サイクル 6-18ヶ月」を「数年規模」へ修正。 3. jamie-dimon-anti-crypto-pivot-case — 「2022 ペットロック」を分離・修正:2022
-- Headings: CHANGELOG, 運用原則 / Maintenance Principles / 维护原则, 日本語, English, 中文, 2026-06-03, canonicalanchor Phase 2 back-fill（mirror 4 件）/ canonicalanchor Phase 2 back-fill (4 mirrors) / canonical_anchor Phase 2 back-fill（4 个 mirror）, 並列 10 領域開発（46 entry 追加）/ Parallel 10-domain development (46 entries) / 并行 10 领域开发（新增 46 entry）
+- Headings: CHANGELOG, 運用原則 / Maintenance Principles / 维护原则, 日本語, English, 中文, 2026-06-04, 開発文書の専門化整理（docs 11 文書・3 分類）/ Developer-docs professionalization (11 docs, 3 tiers) / 开发文档专业化整理（11 文档、3 分类）, 2026-06-03
 - First resolved wikilinks: https://finwiki.zksc.io/..., https://finwiki.zksc.io/JapanFG, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/aia-life-japan, https://finwiki.zksc.io/JapanFG/american-express-international-japan, https://finwiki.zksc.io/JapanFG/asahi-shinkin, https://finwiki.zksc.io/JapanFG/atone, https://finwiki.zksc.io/JapanFG/bdo-sanyu, https://finwiki.zksc.io/JapanFG/bny-mellon-japan, https://finwiki.zksc.io/JapanFG/boj-financial-markets-dept, https://finwiki.zksc.io/JapanFG/boj-financial-system-dept, https://finwiki.zksc.io/JapanFG/boj-international-dept
 
 ### How to navigate FinWiki — reader profile guide
@@ -13737,6 +13737,14 @@ Public pages listed: 1534
 - Type: release_note
 - Summary: FinWiki の ja i18n 翻訳層を全 1,380 entry に追加しました。これにより /ja/ は source fallback の日英混在本文ではなく、site/src/content/i18n/ja/ の機械翻訳 layer を優先して表示します。
 - Headings: 日本語 i18n 翻訳層の全量追加, 日本語, 概要, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業
+
+### 開発文書の専門化整理（docs 11 文書・3 分類）
+- URL: https://finwiki.zksc.io/releases/v2026.06.04-1
+- Source path: releases/v2026.06.04-1.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.06.04-1.md
+- Domain: releases
+- Type: release_note
+- Headings: 開発文書の専門化整理（docs 11 文書・3 分類）, 日本語, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業, English
 
 ### retail domain
 - URL: https://finwiki.zksc.io/retail/INDEX
