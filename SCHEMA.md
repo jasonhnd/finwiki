@@ -56,7 +56,7 @@ FinWiki entries must work as connected wiki nodes, not as isolated notes with on
 | `evidence_count` | number | Legacy corroboration count. |
 | `challenges` | list | Legacy counter-evidence field. |
 | `related` | list | Cross-references. |
-| `canonical_anchor` | string | Vault-root path to the single source-of-truth anchor entry for a multi-domain entity or mirror page. |
+| `canonical_anchor` | string | Vault-root path to the single source-of-truth anchor entry for a multi-domain entity. **Required on mirror pages** (omit on ordinary single-domain entries and on the anchor itself). A declared anchor must resolve to an existing entry and be cross-linked from the declaring page's core body; the release gate runs the audit with `--fail-on-canonical-drift`, so `canonical_anchor_drift` must stay 0. |
 | `note` | string | Caveats or disclaimers. |
 | `type` | string | Usually `wiki` if present. |
 

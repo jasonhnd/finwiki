@@ -152,6 +152,7 @@ type Args = {
   minBodyLinks: number;
   failOnIssues: boolean;
   failOnLowBodyLinks: boolean;
+  failOnCanonicalDrift: boolean;
   unsupportedMutations: string[];
 };
 
@@ -264,7 +265,12 @@ function main(): number {
   if (args.report) {
     console.log(`report=${args.report}`);
   }
-  // Informational only: canonical_anchor integrity never gates the release.
+  // canonical_anchor integrity (proposal Phase 4): the counters are always
+  // emitted and stay isolated from entries_with_issues (ADR-002), but with
+  // --fail-on-canonical-drift a non-zero drift now fails the run. Drift = a
+  // declared canonical_anchor that does not resolve, or that is not cross-linked
+  // from the declaring page's core body. release.ts passes the flag, so every
+  // release gates on drift=0.
   console.log(`canonical_anchor_checked=${canonicalAnchors.checked}`);
   console.log(`canonical_anchor_drift=${canonicalAnchors.drift.length}`);
 
@@ -277,6 +283,9 @@ function main(): number {
   if (args.failOnIssues && failures.length > 0) {
     return 1;
   }
+  if (args.failOnCanonicalDrift && canonicalAnchors.drift.length > 0) {
+    return 1;
+  }
   return 0;
 }
 
@@ -285,6 +294,7 @@ function parseArgs(argv: string[]): Args {
     minBodyLinks: 3,
     failOnIssues: false,
     failOnLowBodyLinks: false,
+    failOnCanonicalDrift: false,
     unsupportedMutations: [],
   };
   for (let index = 0; index < argv.length; index += 1) {
@@ -308,6 +318,9 @@ function parseArgs(argv: string[]): Args {
         break;
       case "--fail-on-low-body-links":
         args.failOnLowBodyLinks = true;
+        break;
+      case "--fail-on-canonical-drift":
+        args.failOnCanonicalDrift = true;
         break;
       case "--apply-scaffold":
       case "--apply-semantic-scaffold":
@@ -1098,12 +1111,14 @@ function writeMarkdownReport(
     lines.push(`| \`${domain}\` | ${domainRows.length} | ${failing.length} | ${avg.toFixed(1)} |`);
   }
   lines.push("");
-  lines.push("## Informational: canonical_anchor Integrity");
+  lines.push("## canonical_anchor Integrity (drift-gated)");
   lines.push("");
-  lines.push("> Report-only (proposal Phase 1, audit-only). These rows never increment");
-  lines.push("> entries-with-issues and never fail the release gate. They flag pages whose");
-  lines.push("> `canonical_anchor:` frontmatter either points at a non-existent entry or is");
-  lines.push("> not cross-linked from the declaring page's core body (before `## Related`).");
+  lines.push("> Proposal Phase 4. These rows stay isolated from entries-with-issues");
+  lines.push("> (ADR-002), but drift now FAILS the release gate: `release.ts` runs the audit");
+  lines.push("> with `--fail-on-canonical-drift`, so any non-zero drift blocks the release.");
+  lines.push("> They flag pages whose `canonical_anchor:` frontmatter either points at a");
+  lines.push("> non-existent entry or is not cross-linked from the declaring page's core");
+  lines.push("> body (before `## Related`). Keep this at 0.");
   lines.push("");
   lines.push(`Declarations checked: ${canonicalAnchors.checked}. Drift: ${canonicalAnchors.drift.length}.`);
   lines.push("");

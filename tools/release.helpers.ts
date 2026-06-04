@@ -21,6 +21,7 @@ export interface AuditResult {
   ok: boolean;
   entriesChecked: number;
   issues: number;
+  canonicalDrift: number;
   stdout: string;
   stderr: string;
   exitCode: number;
