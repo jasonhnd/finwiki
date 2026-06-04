@@ -6,7 +6,7 @@
 
 | Metric | Count |
 |---|---:|
-| Entries checked | 1473 |
+| Entries checked | 1485 |
 | Entries with any issue | 0 |
 | Dead wikilink references | 0 |
 | Unique dead wikilink targets | 0 |
@@ -15,7 +15,7 @@
 | Missing route link | 0 |
 | Missing peer link | 0 |
 | Missing system / regulatory link | 0 |
-| Changed or new entries in current worktree | 0 |
+| Changed or new entries in current worktree | 15 |
 | canonical_anchor declarations checked (informational) | 12 |
 | canonical_anchor drift (informational, non-gating) | 0 |
 
@@ -41,6 +41,21 @@
 
 | Path | State | Body | Issues |
 |---|---:|---:|---|
+| `non-profit/japan-gakkou-houjin.md` | `??` | 10 | ok |
+| `non-profit/japan-iryou-houjin.md` | `??` | 7 | ok |
+| `non-profit/japan-josei-zaidan-grant-making.md` | `??` | 11 | ok |
+| `non-profit/japan-koeki-houjin-accounting-standard.md` | `??` | 11 | ok |
+| `non-profit/japan-shakai-fukushi-houjin.md` | `??` | 9 | ok |
+| `non-profit/japan-shuukyou-houjin.md` | `??` | 8 | ok |
+| `trade/electronic-bill-of-lading-mletr.md` | `??` | 9 | ok |
+| `trade/forfaiting-international-factoring.md` | `??` | 13 | ok |
+| `trade/japan-customs-tariff-origin-clearance.md` | `??` | 8 | ok |
+| `trade/japan-fta-epa-rcep-utilization.md` | `??` | 8 | ok |
+| `trade/nexi-trade-insurance-mechanism.md` | `??` | 12 | ok |
+| `trade/supply-chain-finance-reverse-factoring.md` | `??` | 10 | ok |
+| `INDEX.md` | `M` | 46 | ok |
+| `non-profit/INDEX.md` | `M` | 31 | ok |
+| `trade/INDEX.md` | `M` | 22 | ok |
 
 ## Domain Snapshot
 
@@ -70,7 +85,7 @@
 | `fintech` | 144 | 0 | 10.9 |
 | `finwiki` | 1 | 0 | 46.0 |
 | `foreign-financial-institutions` | 58 | 0 | 12.2 |
-| `governance` | 1 | 0 | 19.0 |
+| `governance` | 1 | 0 | 31.0 |
 | `insurance` | 33 | 0 | 42.7 |
 | `leasing-firms` | 24 | 0 | 22.3 |
 | `life-insurers` | 47 | 0 | 10.0 |
@@ -79,7 +94,7 @@
 | `megabanks` | 20 | 0 | 15.3 |
 | `money-market` | 18 | 0 | 23.0 |
 | `non-life-insurers` | 57 | 0 | 12.4 |
-| `non-profit` | 6 | 0 | 8.5 |
+| `non-profit` | 12 | 0 | 8.9 |
 | `payment-firms` | 54 | 0 | 11.6 |
 | `payments` | 41 | 0 | 34.9 |
 | `policy-finance` | 35 | 0 | 27.1 |
@@ -91,7 +106,7 @@
 | `security` | 10 | 0 | 9.9 |
 | `structured-finance` | 30 | 0 | 23.4 |
 | `systems` | 62 | 0 | 9.7 |
-| `trade` | 7 | 0 | 12.6 |
+| `trade` | 13 | 0 | 11.8 |
 | `trading-company-finance` | 8 | 0 | 28.3 |
 | `trust-banks` | 48 | 0 | 11.6 |
 

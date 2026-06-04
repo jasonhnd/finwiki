@@ -1,0 +1,89 @@
+{
+  "schema_version": "1.0",
+  "slug": "non-profit/japan-josei-zaidan-grant-making",
+  "source_path": "non-profit/japan-josei-zaidan-grant-making.md",
+  "url": "https://finwiki.zksc.io/non-profit/japan-josei-zaidan-grant-making",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/non-profit/japan-josei-zaidan-grant-making.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/non-profit/japan-josei-zaidan-grant-making.md",
+  "domain": "non-profit",
+  "title": "日本 助成財団 — grant-making foundations: structure, the 公益 grant-making test, and donor economics",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "日本 助成財団 — grant-making foundations: structure, the 公益 grant-making test, and donor economics",
+    "aliases": [
+      "non-profit/japan-josei-zaidan-grant-making",
+      "japan-josei-zaidan-grant-making",
+      "助成財団",
+      "じょせいざいだん",
+      "josei zaidan",
+      "japan grant-making foundation",
+      "research grant-making foundation japan",
+      "研究助成 財団"
+    ],
+    "domain": "non-profit",
+    "created": "2026-06-05",
+    "last_updated": "2026-06-05",
+    "last_tended": "2026-06-05",
+    "review_by": "2027-06-05",
+    "confidence": "likely",
+    "tags": [
+      "non-profit",
+      "japan",
+      "foundation",
+      "grant-making",
+      "research-funding",
+      "public-interest"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.koeki-info.go.jp/",
+      "https://www.jfc.or.jp/",
+      "https://laws.e-gov.go.jp/law/418AC0000000049",
+      "https://www.nta.go.jp/taxes/shiraberu/taxanswer/hojin/5275.htm"
+    ]
+  },
+  "summary": "This entry sits under non-profit INDEX as the grantor-side vehicle — the foundation that gives research/scholarship money — and is the deliberate companion to the grantee-side directory in Japan research grant map 2026 (which maps the public programmes you apply to). Structurally a 助成財団 is almost al",
+  "headings": [
+    "日本 助成財団 — grant-making foundations: structure, the 公益 grant-making test, and donor economics",
+    "Wiki route",
+    "TL;DR",
+    "Grant-making vs operating foundations",
+    "What makes grant-making a 公益目的事業",
+    "Funding sources of a 助成財団",
+    "Donor / sponsor economics — why 公益 status matters here",
+    "Grant-making mechanics",
+    "Strategic reading",
+    "Related"
+  ],
+  "body_links": {
+    "wikilinks_count": 8,
+    "wikilinks": [
+      "INDEX",
+      "corporate-strategy/INDEX",
+      "non-profit/INDEX",
+      "non-profit/japan-general-foundation-establishment-requirements",
+      "non-profit/japan-koeki-vs-general-zaidan-comparison",
+      "non-profit/japan-nintei-npo-houjin-tax-benefits",
+      "non-profit/japan-research-grant-map-2026",
+      "policy-finance/INDEX"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/corporate-strategy/INDEX",
+      "https://finwiki.zksc.io/non-profit/INDEX",
+      "https://finwiki.zksc.io/non-profit/japan-general-foundation-establishment-requirements",
+      "https://finwiki.zksc.io/non-profit/japan-koeki-vs-general-zaidan-comparison",
+      "https://finwiki.zksc.io/non-profit/japan-nintei-npo-houjin-tax-benefits",
+      "https://finwiki.zksc.io/non-profit/japan-research-grant-map-2026",
+      "https://finwiki.zksc.io/policy-finance/INDEX"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 6826,
+    "word_like_tokens": 1170,
+    "inbound_wikilinks_count": 1,
+    "last_modified": "2026-06-05"
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "schema_version": "1.0",
+  "slug": "non-profit/japan-koeki-houjin-accounting-standard",
+  "source_path": "non-profit/japan-koeki-houjin-accounting-standard.md",
+  "url": "https://finwiki.zksc.io/non-profit/japan-koeki-houjin-accounting-standard",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/non-profit/japan-koeki-houjin-accounting-standard.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/non-profit/japan-koeki-houjin-accounting-standard.md",
+  "domain": "non-profit",
+  "title": "日本 公益法人会計基準 — the accounting standard for public-interest corporations",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "日本 公益法人会計基準 — the accounting standard for public-interest corporations",
+    "aliases": [
+      "non-profit/japan-koeki-houjin-accounting-standard",
+      "japan-koeki-houjin-accounting-standard",
+      "公益法人会計基準",
+      "こうえきほうじんかいけいきじゅん",
+      "koeki houjin kaikei kijun",
+      "japan public interest corporation accounting standard",
+      "正味財産増減計算書"
+    ],
+    "domain": "non-profit",
+    "created": "2026-06-05",
+    "last_updated": "2026-06-05",
+    "last_tended": "2026-06-05",
+    "review_by": "2027-06-05",
+    "confidence": "likely",
+    "tags": [
+      "non-profit",
+      "japan",
+      "accounting",
+      "koeki-houjin",
+      "public-interest",
+      "disclosure"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.koeki-info.go.jp/",
+      "https://laws.e-gov.go.jp/law/418AC0000000049",
+      "https://www.moj.go.jp/MINJI/koeki1.html",
+      "https://www.nta.go.jp/taxes/shiraberu/taxanswer/hojin/5275.htm"
+    ]
+  },
+  "summary": "This entry sits under non-profit INDEX as the accounting / disclosure layer beneath the legal forms — it is what a 公益財団 / 公益社団 actually files, so it is the natural companion to 公益財団 vs 一般財団 vs 一般社団 vs NPO法人 comparison (which forms must report) and to Japan 一般財団法人 establishment requirements (who audi",
+  "headings": [
+    "日本 公益法人会計基準 — the accounting standard for public-interest corporations",
+    "Wiki route",
+    "TL;DR",
+    "Why a special standard exists",
+    "Core statements",
+    "The 指定 / 一般 正味財産 split",
+    "Segment accounting — 区分経理",
+    "Audit and who applies the standard",
+    "How it differs from for-profit and NPO accounting",
+    "Strategic reading"
+  ],
+  "body_links": {
+    "wikilinks_count": 8,
+    "wikilinks": [
+      "INDEX",
+      "financial-regulators/INDEX",
+      "financial-regulators/cpaaob",
+      "non-profit/INDEX",
+      "non-profit/japan-general-foundation-establishment-requirements",
+      "non-profit/japan-koeki-vs-general-zaidan-comparison",
+      "non-profit/japan-nintei-npo-houjin-tax-benefits",
+      "non-profit/japan-npo-houjin-overview"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/financial-regulators/INDEX",
+      "https://finwiki.zksc.io/financial-regulators/cpaaob",
+      "https://finwiki.zksc.io/non-profit/INDEX",
+      "https://finwiki.zksc.io/non-profit/japan-general-foundation-establishment-requirements",
+      "https://finwiki.zksc.io/non-profit/japan-koeki-vs-general-zaidan-comparison",
+      "https://finwiki.zksc.io/non-profit/japan-nintei-npo-houjin-tax-benefits",
+      "https://finwiki.zksc.io/non-profit/japan-npo-houjin-overview"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 6840,
+    "word_like_tokens": 1123,
+    "inbound_wikilinks_count": 1,
+    "last_modified": "2026-06-05"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "schema_version": "1.0",
+  "slug": "non-profit/japan-shakai-fukushi-houjin",
+  "source_path": "non-profit/japan-shakai-fukushi-houjin.md",
+  "url": "https://finwiki.zksc.io/non-profit/japan-shakai-fukushi-houjin",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/non-profit/japan-shakai-fukushi-houjin.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/non-profit/japan-shakai-fukushi-houjin.md",
+  "domain": "non-profit",
+  "title": "日本 社会福祉法人 — social welfare corporation governance, supervision, and tax treatment",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "日本 社会福祉法人 — social welfare corporation governance, supervision, and tax treatment",
+    "aliases": [
+      "non-profit/japan-shakai-fukushi-houjin",
+      "japan-shakai-fukushi-houjin",
+      "社会福祉法人",
+      "しゃかいふくしほうじん",
+      "shakai fukushi houjin",
+      "japan social welfare corporation",
+      "社会福祉法 social welfare act"
+    ],
+    "domain": "non-profit",
+    "created": "2026-06-05",
+    "last_updated": "2026-06-05",
+    "last_tended": "2026-06-05",
+    "review_by": "2027-06-05",
+    "confidence": "likely",
+    "tags": [
+      "non-profit",
+      "japan",
+      "social-welfare",
+      "shakai-fukushi-houjin",
+      "tax-deductible"
+    ],
+    "status": "active",
+    "sources": [
+      "https://laws.e-gov.go.jp/law/326AC1000000045",
+      "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000077928.html",
+      "https://www.nta.go.jp/taxes/shiraberu/taxanswer/hojin/5275.htm",
+      "https://www.wam.go.jp/"
+    ]
+  },
+  "summary": "This entry sits under non-profit INDEX as the social-welfare-specific legal form, governed by its own statute outside the 一般法人法 family tabulated in 公益財団 vs 一般財団 vs 一般社団 vs NPO法人 comparison. It is the welfare-sector peer to the civic-activity form in Japan NPO法人 overview, and its donor-deductibility",
+  "headings": [
+    "日本 社会福祉法人 — social welfare corporation governance, supervision, and tax treatment",
+    "Wiki route",
+    "TL;DR",
+    "What it is for — 第一種 / 第二種 社会福祉事業",
+    "Establishment and asset requirement",
+    "社会福祉充実残額 — the \"surplus must be reinvested\" rule",
+    "Tax treatment",
+    "How it differs from the other non-profit forms",
+    "Strategic reading",
+    "Related"
+  ],
+  "body_links": {
+    "wikilinks_count": 8,
+    "wikilinks": [
+      "INDEX",
+      "financial-regulators/INDEX",
+      "financial-regulators/fsa",
+      "non-profit/INDEX",
+      "non-profit/japan-general-foundation-establishment-requirements",
+      "non-profit/japan-koeki-vs-general-zaidan-comparison",
+      "non-profit/japan-nintei-npo-houjin-tax-benefits",
+      "non-profit/japan-npo-houjin-overview"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/financial-regulators/INDEX",
+      "https://finwiki.zksc.io/financial-regulators/fsa",
+      "https://finwiki.zksc.io/non-profit/INDEX",
+      "https://finwiki.zksc.io/non-profit/japan-general-foundation-establishment-requirements",
+      "https://finwiki.zksc.io/non-profit/japan-koeki-vs-general-zaidan-comparison",
+      "https://finwiki.zksc.io/non-profit/japan-nintei-npo-houjin-tax-benefits",
+      "https://finwiki.zksc.io/non-profit/japan-npo-houjin-overview"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 6795,
+    "word_like_tokens": 1154,
+    "inbound_wikilinks_count": 3,
+    "last_modified": "2026-06-05"
+  }
+}

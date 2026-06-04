@@ -17,8 +17,8 @@
 | 状态 | 项目 | 备注 |
 |---|---|---|
 | 🟢 | `security` 4 个 planned 页 | **v12 完成**（+4，security 6→9）。 |
-| 🟢 | 薄领域补内容 | **v12 largely done**。并行 +46 entry：corporate-strategy 6→11、manufacturer-finance 8→13、retail 8→10、money-market 12→17、loyalty 12→17、business 19→24。仅 `non-profit`(6) / `trade`(6) 仍最薄（各 +3 后仍小），续扩。 |
-| 🔴 | i18n 翻译 v12 新增 46 entry | v12 并行新增的 46 个 entry 无 ja/zh/en mirror（机器翻译未生成）。补齐三语 mirror，符合三语同步原则。 |
+| 🟢 | 薄领域补内容 | **v12 + v2026.06.05-1 完成**。v12 +46 entry；v05-1 并行 2 agent 把最薄的 `non-profit` 6→12、`trade` 6→12（+12）。现无「最薄」域。 |
+| 🔴 | i18n 翻译（v12 的 43 + v05-1 的 12 + 17 新域 INDEX）| 这些 root entry 无 ja/zh/en mirror。**P4 阻塞点**：i18n 流水线 `site/scripts/translate.mjs`（Claude Haiku）需 `ANTHROPIC_API_KEY`，当前 agent 环境未设置 → 未运行。设置密钥后 `bun site/scripts/translate.mjs`（默认 en,zh 增量）可补齐；ja 层另有流程。mirror 缺失 graceful fallback，build 不阻塞。 |
 | 🔴 | 评估/合并 v12 双批近重复主题 | v12 中 5 领域（loyalty / money-market 等）因 rate-limit + 重试得到双量（6）entry，主题互补但 loyalty & money-market 出现多个 benchmark / point-economics 类页，人工核对是否近重复并按需合并。 |
 | 🔴 | 各领域 INDEX count 常态校准 | 内容增删后 INDEX 表 count 易滞后（`release.ts` 不自动改领域 count）。 |
 

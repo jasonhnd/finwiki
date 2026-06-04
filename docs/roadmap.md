@@ -40,7 +40,7 @@
 ### P3. 各领域内容扩充
 
 v12 已用并行 subagent 给 10 领域加 46 个公开信息 entry，多数原「薄领域」已扩充（security 6→9、corporate-strategy 6→11、manufacturer-finance 8→13、retail 8→10、money-market 12→17、loyalty 12→17、business 19→24，含 `security` 原 4 个 planned 页）。
-- 现仍**最薄**且为 P3 重点：`non-profit`(6) / `trade`(6)。
+- ✅ 最薄 2 域扩充 —— **v2026.06.05-1 完成**：`non-profit` 6→12（社会福祉/学校/医療/宗教法人・公益法人会計基準・助成財団）、`trade` 6→12（NEXI貿易保険・通関・FTA/EPA/RCEP・電子提単・フォーフェイティング・SCF），并行 2 agent +12 entry。现无「最薄」域；后续 P3 = v12 双批去重 + INDEX count 校准。
 - 缺口明细见 [domains.md](domains.md)。
 
 ### P4. v12 新增 46 entry 的 i18n 翻译

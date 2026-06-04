@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-06-04T21:15:03+09:00",
+  "generated_at": "2026-06-05T00:21:55+09:00",
   "site_url": "https://finwiki.zksc.io/",
-  "total_entries": 1466,
+  "total_entries": 1478,
   "entries": [
     {
       "slug": "JapanFG/INDEX",
@@ -6445,6 +6445,13 @@
       "html_url": "https://finwiki.zksc.io/non-profit/INDEX"
     },
     {
+      "slug": "non-profit/japan-gakkou-houjin",
+      "domain": "non-profit",
+      "title": "日本 学校法人 — educational corporation governance and tax treatment under the 私立学校法",
+      "api_url": "https://finwiki.zksc.io/api/entries/non-profit/japan-gakkou-houjin.json",
+      "html_url": "https://finwiki.zksc.io/non-profit/japan-gakkou-houjin"
+    },
+    {
       "slug": "non-profit/japan-general-foundation-establishment-requirements",
       "domain": "non-profit",
       "title": "日本 一般財団法人 設立要件・プロセス",
@@ -6457,6 +6464,27 @@
       "title": "日本 一般社団法人 vs 公益社団法人 — general vs public-interest incorporated association",
       "api_url": "https://finwiki.zksc.io/api/entries/non-profit/japan-ippan-vs-koeki-shadan-houjin.json",
       "html_url": "https://finwiki.zksc.io/non-profit/japan-ippan-vs-koeki-shadan-houjin"
+    },
+    {
+      "slug": "non-profit/japan-iryou-houjin",
+      "domain": "non-profit",
+      "title": "日本 医療法人 — medical corporation types, the non-profit constraint, and tax treatment",
+      "api_url": "https://finwiki.zksc.io/api/entries/non-profit/japan-iryou-houjin.json",
+      "html_url": "https://finwiki.zksc.io/non-profit/japan-iryou-houjin"
+    },
+    {
+      "slug": "non-profit/japan-josei-zaidan-grant-making",
+      "domain": "non-profit",
+      "title": "日本 助成財団 — grant-making foundations: structure, the 公益 grant-making test, and donor economics",
+      "api_url": "https://finwiki.zksc.io/api/entries/non-profit/japan-josei-zaidan-grant-making.json",
+      "html_url": "https://finwiki.zksc.io/non-profit/japan-josei-zaidan-grant-making"
+    },
+    {
+      "slug": "non-profit/japan-koeki-houjin-accounting-standard",
+      "domain": "non-profit",
+      "title": "日本 公益法人会計基準 — the accounting standard for public-interest corporations",
+      "api_url": "https://finwiki.zksc.io/api/entries/non-profit/japan-koeki-houjin-accounting-standard.json",
+      "html_url": "https://finwiki.zksc.io/non-profit/japan-koeki-houjin-accounting-standard"
     },
     {
       "slug": "non-profit/japan-koeki-vs-general-zaidan-comparison",
@@ -6485,6 +6513,20 @@
       "title": "日本 研究助成金 map（2026 年度）",
       "api_url": "https://finwiki.zksc.io/api/entries/non-profit/japan-research-grant-map-2026.json",
       "html_url": "https://finwiki.zksc.io/non-profit/japan-research-grant-map-2026"
+    },
+    {
+      "slug": "non-profit/japan-shakai-fukushi-houjin",
+      "domain": "non-profit",
+      "title": "日本 社会福祉法人 — social welfare corporation governance, supervision, and tax treatment",
+      "api_url": "https://finwiki.zksc.io/api/entries/non-profit/japan-shakai-fukushi-houjin.json",
+      "html_url": "https://finwiki.zksc.io/non-profit/japan-shakai-fukushi-houjin"
+    },
+    {
+      "slug": "non-profit/japan-shuukyou-houjin",
+      "domain": "non-profit",
+      "title": "日本 宗教法人 — religious corporation status, supervision, and tax treatment",
+      "api_url": "https://finwiki.zksc.io/api/entries/non-profit/japan-shuukyou-houjin.json",
+      "html_url": "https://finwiki.zksc.io/non-profit/japan-shuukyou-houjin"
     },
     {
       "slug": "payment-firms/INDEX",
@@ -9840,11 +9882,39 @@
       "html_url": "https://finwiki.zksc.io/trade/documentary-collection-vs-letter-of-credit"
     },
     {
+      "slug": "trade/electronic-bill-of-lading-mletr",
+      "domain": "trade",
+      "title": "電子提単 (electronic bill of lading) and trade digitalization — the MLETR shift from paper to data",
+      "api_url": "https://finwiki.zksc.io/api/entries/trade/electronic-bill-of-lading-mletr.json",
+      "html_url": "https://finwiki.zksc.io/trade/electronic-bill-of-lading-mletr"
+    },
+    {
+      "slug": "trade/forfaiting-international-factoring",
+      "domain": "trade",
+      "title": "フォーフェイティング・国際ファクタリング (forfaiting and international factoring) — selling trade receivables for cash",
+      "api_url": "https://finwiki.zksc.io/api/entries/trade/forfaiting-international-factoring.json",
+      "html_url": "https://finwiki.zksc.io/trade/forfaiting-international-factoring"
+    },
+    {
       "slug": "trade/incoterms-2020-trade-terms-framework",
       "domain": "trade",
       "title": "Incoterms 2020 — the ICC trade-terms framework",
       "api_url": "https://finwiki.zksc.io/api/entries/trade/incoterms-2020-trade-terms-framework.json",
       "html_url": "https://finwiki.zksc.io/trade/incoterms-2020-trade-terms-framework"
+    },
+    {
+      "slug": "trade/japan-customs-tariff-origin-clearance",
+      "domain": "trade",
+      "title": "通関・関税・原産地証明 (customs clearance, tariff, certificate of origin) — the gate every cross-border shipment passes",
+      "api_url": "https://finwiki.zksc.io/api/entries/trade/japan-customs-tariff-origin-clearance.json",
+      "html_url": "https://finwiki.zksc.io/trade/japan-customs-tariff-origin-clearance"
+    },
+    {
+      "slug": "trade/japan-fta-epa-rcep-utilization",
+      "domain": "trade",
+      "title": "FTA / EPA / RCEP utilization — preferential trade agreements and how Japanese firms actually claim them",
+      "api_url": "https://finwiki.zksc.io/api/entries/trade/japan-fta-epa-rcep-utilization.json",
+      "html_url": "https://finwiki.zksc.io/trade/japan-fta-epa-rcep-utilization"
     },
     {
       "slug": "trade/jetro-members-gateway-model",
@@ -9873,6 +9943,20 @@
       "title": "Letter of credit (documentary credit) — the trade-settlement mechanism",
       "api_url": "https://finwiki.zksc.io/api/entries/trade/letter-of-credit-documentary-mechanism.json",
       "html_url": "https://finwiki.zksc.io/trade/letter-of-credit-documentary-mechanism"
+    },
+    {
+      "slug": "trade/nexi-trade-insurance-mechanism",
+      "domain": "trade",
+      "title": "貿易保険 (export-credit insurance) — the NEXI trade-insurance mechanism that backstops cross-border non-payment",
+      "api_url": "https://finwiki.zksc.io/api/entries/trade/nexi-trade-insurance-mechanism.json",
+      "html_url": "https://finwiki.zksc.io/trade/nexi-trade-insurance-mechanism"
+    },
+    {
+      "slug": "trade/supply-chain-finance-reverse-factoring",
+      "domain": "trade",
+      "title": "サプライチェーンファイナンス (supply-chain finance) — buyer-led reverse factoring and the payables-side liquidity layer",
+      "api_url": "https://finwiki.zksc.io/api/entries/trade/supply-chain-finance-reverse-factoring.json",
+      "html_url": "https://finwiki.zksc.io/trade/supply-chain-finance-reverse-factoring"
     },
     {
       "slug": "trading-company-finance/INDEX",

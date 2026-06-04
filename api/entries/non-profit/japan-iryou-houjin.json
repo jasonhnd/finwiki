@@ -1,0 +1,89 @@
+{
+  "schema_version": "1.0",
+  "slug": "non-profit/japan-iryou-houjin",
+  "source_path": "non-profit/japan-iryou-houjin.md",
+  "url": "https://finwiki.zksc.io/non-profit/japan-iryou-houjin",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/non-profit/japan-iryou-houjin.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/non-profit/japan-iryou-houjin.md",
+  "domain": "non-profit",
+  "title": "日本 医療法人 — medical corporation types, the non-profit constraint, and tax treatment",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "日本 医療法人 — medical corporation types, the non-profit constraint, and tax treatment",
+    "aliases": [
+      "non-profit/japan-iryou-houjin",
+      "japan-iryou-houjin",
+      "医療法人",
+      "いりょうほうじん",
+      "iryou houjin",
+      "japan medical corporation",
+      "社会医療法人",
+      "持分なし医療法人"
+    ],
+    "domain": "non-profit",
+    "created": "2026-06-05",
+    "last_updated": "2026-06-05",
+    "last_tended": "2026-06-05",
+    "review_by": "2027-06-05",
+    "confidence": "likely",
+    "tags": [
+      "non-profit",
+      "japan",
+      "healthcare",
+      "iryou-houjin",
+      "governance",
+      "tax"
+    ],
+    "status": "active",
+    "sources": [
+      "https://laws.e-gov.go.jp/law/323AC0000000205",
+      "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/igyou/",
+      "https://www.nta.go.jp/taxes/shiraberu/taxanswer/hojin/5275.htm",
+      "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/shaikairyou/"
+    ]
+  },
+  "summary": "This entry sits under non-profit INDEX as the healthcare-specific legal person under the 医療法 (Medical Care Act) — a non-profit-by-statute form that nonetheless can have ownership-like 持分, which makes it a partial peer to, not a member of, the 一般法人法 family in 公益財団 vs 一般財団 vs 一般社団 vs NPO法人 comparison.",
+  "headings": [
+    "日本 医療法人 — medical corporation types, the non-profit constraint, and tax treatment",
+    "Wiki route",
+    "TL;DR",
+    "Two structural axes: 社団 vs 財団, and 持分あり vs 持分なし",
+    "The non-profit constraint (and why it is not a 公益法人)",
+    "社会医療法人 — the public-mission upper tier",
+    "Governance organs",
+    "How it differs from the other non-profit forms",
+    "Strategic reading",
+    "Related"
+  ],
+  "body_links": {
+    "wikilinks_count": 8,
+    "wikilinks": [
+      "INDEX",
+      "financial-regulators/INDEX",
+      "financial-regulators/fsa",
+      "non-profit/INDEX",
+      "non-profit/japan-general-foundation-establishment-requirements",
+      "non-profit/japan-koeki-vs-general-zaidan-comparison",
+      "non-profit/japan-nintei-npo-houjin-tax-benefits",
+      "non-profit/japan-shakai-fukushi-houjin"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/financial-regulators/INDEX",
+      "https://finwiki.zksc.io/financial-regulators/fsa",
+      "https://finwiki.zksc.io/non-profit/INDEX",
+      "https://finwiki.zksc.io/non-profit/japan-general-foundation-establishment-requirements",
+      "https://finwiki.zksc.io/non-profit/japan-koeki-vs-general-zaidan-comparison",
+      "https://finwiki.zksc.io/non-profit/japan-nintei-npo-houjin-tax-benefits",
+      "https://finwiki.zksc.io/non-profit/japan-shakai-fukushi-houjin"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 6435,
+    "word_like_tokens": 1147,
+    "inbound_wikilinks_count": 1,
+    "last_modified": "2026-06-05"
+  }
+}

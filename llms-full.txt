@@ -1,9 +1,9 @@
 # FinWiki Full LLM Manifest
 
-Generated: 2026-06-04T21:15:02+09:00
+Generated: 2026-06-05T00:21:55+09:00
 Site: https://finwiki.zksc.io
-Markdown files: 1547
-Public pages listed: 1546
+Markdown files: 1560
+Public pages listed: 1559
 
 ## Reading Rules
 
@@ -28,7 +28,7 @@ Public pages listed: 1546
 - Domain: root
 - Type: control_doc
 - Summary: 1. matt-huang-triple-role-coi-template — Stripe 取締役就任「2024」→ 2021-11(Stripe newsroom: 2021年11月5日)。 2. christine-moy-talent-signal-jpm-apollo — Apollo 移籍「2024」→ 2022-04(CoinDesk 2022-04-28 / Apollo 公式)。併せて整合しない「回収サイクル 6-18ヶ月」を「数年規模」へ修正。 3. jamie-dimon-anti-crypto-pivot-case — 「2022 ペットロック」を分離・修正:2022
-- Headings: CHANGELOG, 運用原則 / Maintenance Principles / 维护原则, 日本語, English, 中文, 2026-06-04, JapanFG 分割 後始末 — 17 ドメインの localized 名 + audit route map / JapanFG split follow-up (titles + route map) / JapanFG 拆分收尾（标题 + route map）, JapanFG 分割 — 巨大ドメインを 17 機関類型別ドメインへ物理分割（23→40 領域）/ JapanFG split into 17 institution-type domains (23→40) / JapanFG 拆分为 17 个机构类型域（23→40）
+- Headings: CHANGELOG, 運用原則 / Maintenance Principles / 维护原则, 日本語, English, 中文, 2026-06-05, P3 内容拡充 — 最薄の non-profit / trade を各 +6（+12 entry）/ P3 content expansion (non-profit / trade +6 each) / P3 内容扩充（non-profit / trade 各 +6）, 2026-06-04
 - First resolved wikilinks: https://finwiki.zksc.io/..., https://finwiki.zksc.io/JapanFG, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/…, https://finwiki.zksc.io/asset-managers/mitsubishi-corp-asset-management, https://finwiki.zksc.io/asset-managers/nissay-asset-management, https://finwiki.zksc.io/asset-managers/principal-japan, https://finwiki.zksc.io/asset-managers/smt-am, https://finwiki.zksc.io/asset-managers/t-and-d-asset-management, https://finwiki.zksc.io/asset-managers/tokio-marine-asset-management, https://finwiki.zksc.io/banking/japan-banking-license-tier-comparison-matrix, https://finwiki.zksc.io/banking/japan-trust-bank-vs-global-custodian-comparison-matrix
 
 ### How to navigate FinWiki — reader profile guide
@@ -9329,7 +9329,17 @@ Public pages listed: 1546
 - Type: domain_index
 - Summary: This domain routes non-profit / public-interest legal structures and research-funding plumbing in Japan — primarily the 一般財団法人 / 公益財団法人 establishment route, the 公益 vs 一般 decision, the 一般社団 / NPO / 認定NPO landscape, and the institutional map for research grants. All entries are operational reference p
 - Headings: Governance domain, TL;DR, Entries, Start here, Research control, Related domains, Backlog, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/exchanges/INDEX, https://finwiki.zksc.io/finance/INDEX, https://finwiki.zksc.io/non-profit/japan-general-foundation-establishment-requirements, https://finwiki.zksc.io/non-profit/japan-general-foundation-establishment-requirements\, https://finwiki.zksc.io/non-profit/japan-ippan-vs-koeki-shadan-houjin, https://finwiki.zksc.io/non-profit/japan-ippan-vs-koeki-shadan-houjin\, https://finwiki.zksc.io/non-profit/japan-koeki-vs-general-zaidan-comparison, https://finwiki.zksc.io/non-profit/japan-koeki-vs-general-zaidan-comparison\, https://finwiki.zksc.io/non-profit/japan-nintei-npo-houjin-tax-benefits, https://finwiki.zksc.io/non-profit/japan-nintei-npo-houjin-tax-benefits\
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/exchanges/INDEX, https://finwiki.zksc.io/finance/INDEX, https://finwiki.zksc.io/non-profit/japan-gakkou-houjin, https://finwiki.zksc.io/non-profit/japan-gakkou-houjin\, https://finwiki.zksc.io/non-profit/japan-general-foundation-establishment-requirements, https://finwiki.zksc.io/non-profit/japan-general-foundation-establishment-requirements\, https://finwiki.zksc.io/non-profit/japan-ippan-vs-koeki-shadan-houjin, https://finwiki.zksc.io/non-profit/japan-ippan-vs-koeki-shadan-houjin\, https://finwiki.zksc.io/non-profit/japan-iryou-houjin, https://finwiki.zksc.io/non-profit/japan-iryou-houjin\
+
+### 日本 学校法人 — educational corporation governance and tax treatment under the 私立学校法
+- URL: https://finwiki.zksc.io/non-profit/japan-gakkou-houjin
+- Source path: non-profit/japan-gakkou-houjin.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/non-profit/japan-gakkou-houjin.md
+- Domain: non-profit
+- Type: wiki_entry
+- Summary: This entry sits under non-profit INDEX as the education-specific non-profit legal person, created under its own statute (私立学校法) rather than the 一般法人法 family compared in 公益財団 vs 一般財団 vs 一般社団 vs NPO法人 comparison. Like the foundation forms it is endowment/asset-governed rather than membership-governed,
+- Headings: 日本 学校法人 — educational corporation governance and tax treatment under the 私立学校法, Wiki route, TL;DR, Who authorises, and the 所轄庁 split, Governing organs and the 2023 governance reform, 私学助成 — public subsidy as a defining feature, Tax treatment, How it differs from the other non-profit forms
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/financial-regulators/INDEX, https://finwiki.zksc.io/financial-regulators/fsa, https://finwiki.zksc.io/non-profit/INDEX, https://finwiki.zksc.io/non-profit/japan-general-foundation-establishment-requirements, https://finwiki.zksc.io/non-profit/japan-ippan-vs-koeki-shadan-houjin, https://finwiki.zksc.io/non-profit/japan-koeki-vs-general-zaidan-comparison, https://finwiki.zksc.io/non-profit/japan-nintei-npo-houjin-tax-benefits, https://finwiki.zksc.io/non-profit/japan-npo-houjin-overview, https://finwiki.zksc.io/policy-finance/INDEX
 
 ### 日本 一般財団法人 設立要件・プロセス
 - URL: https://finwiki.zksc.io/non-profit/japan-general-foundation-establishment-requirements
@@ -9350,6 +9360,36 @@ Public pages listed: 1546
 - Summary: This entry sits under non-profit INDEX and is the membership-based (社団) companion to the endowment-based foundation page Japan 一般財団法人 establishment requirements. It expands the 社団 columns of the cross-form table in 公益財団 vs 一般財団 vs 一般社団 vs NPO法人 comparison, and contrasts with the separate-statute civ
 - Headings: 日本 一般社団法人 vs 公益社団法人 — general vs public-interest incorporated association, Wiki route, TL;DR, 一般社団法人 — the base form, 非営利型 vs 普通法人扱い (tax sub-types), 公益社団法人 — the public-interest upgrade, Side-by-side, 社団 vs 財団 — choosing the axis
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/fintech/japan-financial-regulation, https://finwiki.zksc.io/non-profit/INDEX, https://finwiki.zksc.io/non-profit/japan-general-foundation-establishment-requirements, https://finwiki.zksc.io/non-profit/japan-koeki-vs-general-zaidan-comparison, https://finwiki.zksc.io/non-profit/japan-npo-houjin-overview, https://finwiki.zksc.io/non-profit/japan-research-grant-map-2026
+
+### 日本 医療法人 — medical corporation types, the non-profit constraint, and tax treatment
+- URL: https://finwiki.zksc.io/non-profit/japan-iryou-houjin
+- Source path: non-profit/japan-iryou-houjin.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/non-profit/japan-iryou-houjin.md
+- Domain: non-profit
+- Type: wiki_entry
+- Summary: This entry sits under non-profit INDEX as the healthcare-specific legal person under the 医療法 (Medical Care Act) — a non-profit-by-statute form that nonetheless can have ownership-like 持分, which makes it a partial peer to, not a member of, the 一般法人法 family in 公益財団 vs 一般財団 vs 一般社団 vs NPO法人 comparison.
+- Headings: 日本 医療法人 — medical corporation types, the non-profit constraint, and tax treatment, Wiki route, TL;DR, Two structural axes: 社団 vs 財団, and 持分あり vs 持分なし, The non-profit constraint (and why it is not a 公益法人), 社会医療法人 — the public-mission upper tier, Governance organs, How it differs from the other non-profit forms
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/financial-regulators/INDEX, https://finwiki.zksc.io/financial-regulators/fsa, https://finwiki.zksc.io/non-profit/INDEX, https://finwiki.zksc.io/non-profit/japan-general-foundation-establishment-requirements, https://finwiki.zksc.io/non-profit/japan-koeki-vs-general-zaidan-comparison, https://finwiki.zksc.io/non-profit/japan-nintei-npo-houjin-tax-benefits, https://finwiki.zksc.io/non-profit/japan-shakai-fukushi-houjin
+
+### 日本 助成財団 — grant-making foundations: structure, the 公益 grant-making test, and donor economics
+- URL: https://finwiki.zksc.io/non-profit/japan-josei-zaidan-grant-making
+- Source path: non-profit/japan-josei-zaidan-grant-making.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/non-profit/japan-josei-zaidan-grant-making.md
+- Domain: non-profit
+- Type: wiki_entry
+- Summary: This entry sits under non-profit INDEX as the grantor-side vehicle — the foundation that gives research/scholarship money — and is the deliberate companion to the grantee-side directory in Japan research grant map 2026 (which maps the public programmes you apply to). Structurally a 助成財団 is almost al
+- Headings: 日本 助成財団 — grant-making foundations: structure, the 公益 grant-making test, and donor economics, Wiki route, TL;DR, Grant-making vs operating foundations, What makes grant-making a 公益目的事業, Funding sources of a 助成財団, Donor / sponsor economics — why 公益 status matters here, Grant-making mechanics
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/corporate-strategy/INDEX, https://finwiki.zksc.io/non-profit/INDEX, https://finwiki.zksc.io/non-profit/japan-general-foundation-establishment-requirements, https://finwiki.zksc.io/non-profit/japan-koeki-vs-general-zaidan-comparison, https://finwiki.zksc.io/non-profit/japan-nintei-npo-houjin-tax-benefits, https://finwiki.zksc.io/non-profit/japan-research-grant-map-2026, https://finwiki.zksc.io/policy-finance/INDEX
+
+### 日本 公益法人会計基準 — the accounting standard for public-interest corporations
+- URL: https://finwiki.zksc.io/non-profit/japan-koeki-houjin-accounting-standard
+- Source path: non-profit/japan-koeki-houjin-accounting-standard.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/non-profit/japan-koeki-houjin-accounting-standard.md
+- Domain: non-profit
+- Type: wiki_entry
+- Summary: This entry sits under non-profit INDEX as the accounting / disclosure layer beneath the legal forms — it is what a 公益財団 / 公益社団 actually files, so it is the natural companion to 公益財団 vs 一般財団 vs 一般社団 vs NPO法人 comparison (which forms must report) and to Japan 一般財団法人 establishment requirements (who audi
+- Headings: 日本 公益法人会計基準 — the accounting standard for public-interest corporations, Wiki route, TL;DR, Why a special standard exists, Core statements, The 指定 / 一般 正味財産 split, Segment accounting — 区分経理, Audit and who applies the standard
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/financial-regulators/INDEX, https://finwiki.zksc.io/financial-regulators/cpaaob, https://finwiki.zksc.io/non-profit/INDEX, https://finwiki.zksc.io/non-profit/japan-general-foundation-establishment-requirements, https://finwiki.zksc.io/non-profit/japan-koeki-vs-general-zaidan-comparison, https://finwiki.zksc.io/non-profit/japan-nintei-npo-houjin-tax-benefits, https://finwiki.zksc.io/non-profit/japan-npo-houjin-overview
 
 ### 公益財団 vs 一般財団 vs 一般社団 vs NPO法人 — Japan non-profit / public-interest legal form comparison
 - URL: https://finwiki.zksc.io/non-profit/japan-koeki-vs-general-zaidan-comparison
@@ -9390,6 +9430,26 @@ Public pages listed: 1546
 - Summary: This entry sits under 日本 一般財団法人 設立要件・プロセス and should be read with FinWiki index.
 - Headings: 日本 研究助成金 map（2026 年度）, Wiki route, 主要候補（2026 年度）, 重要注意, 1. 金額は年度ごとに変動する, 2. 「1 件あたり上限額」の記載がない場合, 3. 応募期間は 12 月〜翌 4 月に集中, 適用案
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/business/INDEX, https://finwiki.zksc.io/finance/INDEX, https://finwiki.zksc.io/non-profit/japan-general-foundation-establishment-requirements, https://finwiki.zksc.io/policy-finance/INDEX, https://finwiki.zksc.io/policy-finance/japan-student-services-organization
+
+### 日本 社会福祉法人 — social welfare corporation governance, supervision, and tax treatment
+- URL: https://finwiki.zksc.io/non-profit/japan-shakai-fukushi-houjin
+- Source path: non-profit/japan-shakai-fukushi-houjin.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/non-profit/japan-shakai-fukushi-houjin.md
+- Domain: non-profit
+- Type: wiki_entry
+- Summary: This entry sits under non-profit INDEX as the social-welfare-specific legal form, governed by its own statute outside the 一般法人法 family tabulated in 公益財団 vs 一般財団 vs 一般社団 vs NPO法人 comparison. It is the welfare-sector peer to the civic-activity form in Japan NPO法人 overview, and its donor-deductibility
+- Headings: 日本 社会福祉法人 — social welfare corporation governance, supervision, and tax treatment, Wiki route, TL;DR, What it is for — 第一種 / 第二種 社会福祉事業, Establishment and asset requirement, 社会福祉充実残額 — the "surplus must be reinvested" rule, Tax treatment, How it differs from the other non-profit forms
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/financial-regulators/INDEX, https://finwiki.zksc.io/financial-regulators/fsa, https://finwiki.zksc.io/non-profit/INDEX, https://finwiki.zksc.io/non-profit/japan-general-foundation-establishment-requirements, https://finwiki.zksc.io/non-profit/japan-koeki-vs-general-zaidan-comparison, https://finwiki.zksc.io/non-profit/japan-nintei-npo-houjin-tax-benefits, https://finwiki.zksc.io/non-profit/japan-npo-houjin-overview
+
+### 日本 宗教法人 — religious corporation status, supervision, and tax treatment
+- URL: https://finwiki.zksc.io/non-profit/japan-shuukyou-houjin
+- Source path: non-profit/japan-shuukyou-houjin.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/non-profit/japan-shuukyou-houjin.md
+- Domain: non-profit
+- Type: wiki_entry
+- Summary: This entry sits under non-profit INDEX as the religion-specific legal person under the 宗教法人法 (Religious Corporations Act) — a public-interest-type non-profit that, like the 公益法人 in 公益財団 vs 一般財団 vs 一般社団 vs NPO法人 comparison, is corporation-tax-favoured on its core (religious) activity but taxed on enu
+- Headings: 日本 宗教法人 — religious corporation status, supervision, and tax treatment, Wiki route, TL;DR, Establishment — 認証, not licence, The 1995 reform — disclosure and oversight after Aum, Tax treatment — the religious-vs-収益事業 boundary, Donor side, How it differs from the other non-profit forms
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/financial-regulators/INDEX, https://finwiki.zksc.io/financial-regulators/fsa, https://finwiki.zksc.io/non-profit/INDEX, https://finwiki.zksc.io/non-profit/japan-koeki-vs-general-zaidan-comparison, https://finwiki.zksc.io/non-profit/japan-nintei-npo-houjin-tax-benefits, https://finwiki.zksc.io/non-profit/japan-npo-houjin-overview, https://finwiki.zksc.io/non-profit/japan-shakai-fukushi-houjin
 
 ### payment-firms — Japanese payment-service operator index
 - URL: https://finwiki.zksc.io/payment-firms/INDEX
@@ -12933,6 +12993,14 @@ Public pages listed: 1546
 - Type: release_note
 - Headings: JapanFG 分割 後始末 — 17 ドメインの localized 名 + audit route map, 日本語, 公開範囲, 主要変更, 検証結果, 既知の注意点 / 次の作業, English, Release Scope
 
+### P3 内容扩充 — 最薄の non-profit / trade を各 +6 entry（12 entry 追加）
+- URL: https://finwiki.zksc.io/releases/v2026.06.05-1
+- Source path: releases/v2026.06.05-1.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.06.05-1.md
+- Domain: releases
+- Type: release_note
+- Headings: P3 内容扩充 — 最薄の non-profit / trade を各 +6 entry（12 entry 追加）, 日本語, 公開範囲, 主要変更, 検証結果, 既知の注意点 / 次の作業, English, Release Scope
+
 ### retail domain
 - URL: https://finwiki.zksc.io/retail/INDEX
 - Source path: retail/INDEX.md
@@ -14781,7 +14849,7 @@ Public pages listed: 1546
 - Type: domain_index
 - Summary: This domain routes two complementary clusters. The first is Japan trade-promotion institutional structure — anchored on JETRO (日本貿易振興機構, the Japan External Trade Organization) and the wider METI/MOF export-support orbit: a decision page that splits JETRO, NEXI, and JBIC (the promotion / insurance /
 - Headings: Trade domain, TL;DR, Entries, Start here, Research control, Related domains, Backlog, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/finance/INDEX, https://finwiki.zksc.io/non-profit/INDEX, https://finwiki.zksc.io/policy-finance/INDEX, https://finwiki.zksc.io/trade/documentary-collection-vs-letter-of-credit, https://finwiki.zksc.io/trade/documentary-collection-vs-letter-of-credit\, https://finwiki.zksc.io/trade/incoterms-2020-trade-terms-framework, https://finwiki.zksc.io/trade/incoterms-2020-trade-terms-framework\, https://finwiki.zksc.io/trade/jetro-members-gateway-model, https://finwiki.zksc.io/trade/jetro-members-gateway-model\, https://finwiki.zksc.io/trade/jetro-organization-structure
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/finance/INDEX, https://finwiki.zksc.io/non-profit/INDEX, https://finwiki.zksc.io/policy-finance/INDEX, https://finwiki.zksc.io/trade/documentary-collection-vs-letter-of-credit, https://finwiki.zksc.io/trade/documentary-collection-vs-letter-of-credit\, https://finwiki.zksc.io/trade/electronic-bill-of-lading-mletr, https://finwiki.zksc.io/trade/electronic-bill-of-lading-mletr\, https://finwiki.zksc.io/trade/forfaiting-international-factoring, https://finwiki.zksc.io/trade/forfaiting-international-factoring\, https://finwiki.zksc.io/trade/incoterms-2020-trade-terms-framework
 
 ### Documentary collection vs letter of credit — trade settlement methods compared
 - URL: https://finwiki.zksc.io/trade/documentary-collection-vs-letter-of-credit
@@ -14793,6 +14861,26 @@ Public pages listed: 1546
 - Headings: Documentary collection vs letter of credit — trade settlement methods compared, Wiki route, TL;DR, What a documentary collection is, The two collection types: D/P and D/A, The parties under URC 522, Side-by-side comparison, The settlement-method spectrum
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/insurance/marine-insurance-and-pi-cover-market, https://finwiki.zksc.io/payments/japan-payment-clearing-and-settlement-infrastructure, https://finwiki.zksc.io/policy-finance/INDEX, https://finwiki.zksc.io/policy-finance/nexi-export-credit-insurance-products, https://finwiki.zksc.io/trade/INDEX, https://finwiki.zksc.io/trade/incoterms-2020-trade-terms-framework, https://finwiki.zksc.io/trade/jetro-vs-nexi-vs-jbic-comparison, https://finwiki.zksc.io/trade/letter-of-credit-documentary-mechanism
 
+### 電子提単 (electronic bill of lading) and trade digitalization — the MLETR shift from paper to data
+- URL: https://finwiki.zksc.io/trade/electronic-bill-of-lading-mletr
+- Source path: trade/electronic-bill-of-lading-mletr.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/trade/electronic-bill-of-lading-mletr.md
+- Domain: trade
+- Type: wiki_entry
+- Summary: This entry sits under trade INDEX and documents the digitalization of the documents that the rest of the domain assumes are paper. Its closest same-domain peer is documentary collection vs letter of credit — both settlement methods route a paper bill of lading, and the electronic bill of lading (eBL
+- Headings: 電子提単 (electronic bill of lading) and trade digitalization — the MLETR shift from paper to data, Wiki route, TL;DR, Why the bill of lading resisted digitization, MLETR — the legal keystone, What changes when the B/L goes electronic, The wider trade-digitalization programme, Why adoption is gradual
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/payments/INDEX, https://finwiki.zksc.io/payments/account-to-account-payment-japan, https://finwiki.zksc.io/trade/INDEX, https://finwiki.zksc.io/trade/documentary-collection-vs-letter-of-credit, https://finwiki.zksc.io/trade/incoterms-2020-trade-terms-framework, https://finwiki.zksc.io/trade/japan-customs-tariff-origin-clearance, https://finwiki.zksc.io/trade/letter-of-credit-documentary-mechanism
+
+### フォーフェイティング・国際ファクタリング (forfaiting and international factoring) — selling trade receivables for cash
+- URL: https://finwiki.zksc.io/trade/forfaiting-international-factoring
+- Source path: trade/forfaiting-international-factoring.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/trade/forfaiting-international-factoring.md
+- Domain: trade
+- Type: wiki_entry
+- Summary: This entry sits under trade INDEX and covers the receivables-finance instruments an exporter uses to get paid now on a later-dated sale. Its same-domain peer is documentary collection vs letter of credit — those are settlement methods (how the buyer pays); forfaiting and factoring are financing meth
+- Headings: フォーフェイティング・国際ファクタリング (forfaiting and international factoring) — selling trade receivables for cash, Wiki route, TL;DR, The core idea: a true sale of the receivable, Factoring vs forfaiting, How international (two-factor) factoring works, How forfaiting works, Where these sit relative to insurance and settlement
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/trade/INDEX, https://finwiki.zksc.io/trade/documentary-collection-vs-letter-of-credit, https://finwiki.zksc.io/trade/japan-customs-tariff-origin-clearance, https://finwiki.zksc.io/trade/letter-of-credit-documentary-mechanism, https://finwiki.zksc.io/trade/nexi-trade-insurance-mechanism, https://finwiki.zksc.io/trading-company-finance/INDEX, https://finwiki.zksc.io/trading-company-finance/itochu-finance, https://finwiki.zksc.io/trading-company-finance/mitsubishi-corp-finance
+
 ### Incoterms 2020 — the ICC trade-terms framework
 - URL: https://finwiki.zksc.io/trade/incoterms-2020-trade-terms-framework
 - Source path: trade/incoterms-2020-trade-terms-framework.md
@@ -14802,6 +14890,26 @@ Public pages listed: 1546
 - Summary: This entry sits under trade INDEX and pairs directly with the letter of credit / documentary credit mechanism, because the Incoterms rule a contract chooses determines which transport and insurance documents an L/C must call for. It also connects to the cargo risk-transfer layer in marine cargo / P&
 - Headings: Incoterms 2020 — the ICC trade-terms framework, Wiki route, TL;DR, The 11 rules of Incoterms 2020, Rules for any mode (including multimodal), Rules for sea and inland waterway only, The cost / risk transfer point — the core idea, What changed from Incoterms 2010 to 2020
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/insurance/marine-insurance-and-pi-cover-market, https://finwiki.zksc.io/policy-finance/INDEX, https://finwiki.zksc.io/policy-finance/nexi-export-credit-insurance-products, https://finwiki.zksc.io/trade/INDEX, https://finwiki.zksc.io/trade/documentary-collection-vs-letter-of-credit, https://finwiki.zksc.io/trade/jetro-vs-nexi-vs-jbic-comparison, https://finwiki.zksc.io/trade/letter-of-credit-documentary-mechanism
+
+### 通関・関税・原産地証明 (customs clearance, tariff, certificate of origin) — the gate every cross-border shipment passes
+- URL: https://finwiki.zksc.io/trade/japan-customs-tariff-origin-clearance
+- Source path: trade/japan-customs-tariff-origin-clearance.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/trade/japan-customs-tariff-origin-clearance.md
+- Domain: trade
+- Type: wiki_entry
+- Summary: This entry sits under trade INDEX and documents the border-clearance layer that sits underneath every trade transaction. Read it against its same-domain peer Incoterms 2020 — the Incoterms rule fixes who is responsible for clearing the goods (export and import customs), and this entry explains what
+- Headings: 通関・関税・原産地証明 (customs clearance, tariff, certificate of origin) — the gate every cross-border shipment passes, Wiki route, TL;DR, The three questions customs asks every shipment, HS classification — the universal product language, Tariff (関税) — the duty layered on import, Certificate of origin (原産地証明) — proving economic nationality, How clearance interacts with the Incoterms rule
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/policy-finance/INDEX, https://finwiki.zksc.io/trade/INDEX, https://finwiki.zksc.io/trade/incoterms-2020-trade-terms-framework, https://finwiki.zksc.io/trade/japan-fta-epa-rcep-utilization, https://finwiki.zksc.io/trade/jetro-vs-nexi-vs-jbic-comparison
+
+### FTA / EPA / RCEP utilization — preferential trade agreements and how Japanese firms actually claim them
+- URL: https://finwiki.zksc.io/trade/japan-fta-epa-rcep-utilization
+- Source path: trade/japan-fta-epa-rcep-utilization.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/trade/japan-fta-epa-rcep-utilization.md
+- Domain: trade
+- Type: wiki_entry
+- Summary: This entry sits under trade INDEX and explains the preferential-tariff regime that determines whether a trader pays the MFN duty or a lower (often zero) rate. Its direct same-domain peer is customs, tariff and certificate of origin — that entry covers the general tariff machinery; this one covers th
+- Headings: FTA / EPA / RCEP utilization — preferential trade agreements and how Japanese firms actually claim them, Wiki route, TL;DR, FTA vs EPA vs the multilateral baseline, Rules of origin — the gate to the preference, Claiming the preference — certification models, The utilization gap — why available ≠ used, Japan's agreement landscape (shape, not exhaustive)
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/policy-finance/INDEX, https://finwiki.zksc.io/trade/INDEX, https://finwiki.zksc.io/trade/incoterms-2020-trade-terms-framework, https://finwiki.zksc.io/trade/japan-customs-tariff-origin-clearance, https://finwiki.zksc.io/trade/jetro-vs-nexi-vs-jbic-comparison
 
 ### JETRO Members 有料会員制は B2B 提案の入口ゲート
 - URL: https://finwiki.zksc.io/trade/jetro-members-gateway-model
@@ -14842,6 +14950,26 @@ Public pages listed: 1546
 - Summary: This entry sits under trade INDEX and is the trade-finance counterpart to the institutional pages anchored on JETRO vs NEXI vs JBIC. Read it alongside Incoterms 2020 (which defines the delivery point a credit's documents must evidence) and documentary collection vs letter of credit (the lighter, ban
 - Headings: Letter of credit (documentary credit) — the trade-settlement mechanism, Wiki route, TL;DR, What problem it solves, The parties, The lifecycle, Independence and strict compliance — the two governing doctrines, The rulebook: UCP 600, ISBP, and eUCP
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/insurance/marine-insurance-and-pi-cover-market, https://finwiki.zksc.io/payments/japan-payment-clearing-and-settlement-infrastructure, https://finwiki.zksc.io/policy-finance/INDEX, https://finwiki.zksc.io/policy-finance/nexi-export-credit-insurance-products, https://finwiki.zksc.io/policy-finance/oecd-export-credit-arrangement, https://finwiki.zksc.io/trade/INDEX, https://finwiki.zksc.io/trade/documentary-collection-vs-letter-of-credit, https://finwiki.zksc.io/trade/incoterms-2020-trade-terms-framework, https://finwiki.zksc.io/trade/jetro-vs-nexi-vs-jbic-comparison
+
+### 貿易保険 (export-credit insurance) — the NEXI trade-insurance mechanism that backstops cross-border non-payment
+- URL: https://finwiki.zksc.io/trade/nexi-trade-insurance-mechanism
+- Source path: trade/nexi-trade-insurance-mechanism.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/trade/nexi-trade-insurance-mechanism.md
+- Domain: trade
+- Type: wiki_entry
+- Summary: This entry sits under trade INDEX and explains the insurance layer that sits beside trade settlement. Read it against its same-domain peer documentary collection vs letter of credit — where collections leave the exporter holding buyer-default risk, 貿易保険 (trade insurance) is how that residual risk ge
+- Headings: 貿易保険 (export-credit insurance) — the NEXI trade-insurance mechanism that backstops cross-border non-payment, Wiki route, TL;DR, Why trade insurance exists: the two risk buckets, How the mechanism works, Trade insurance vs the letter of credit, The OECD discipline — why ECAs do not undercut each other, Where it plugs into the Japanese export stack
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/financial-regulators/jbic, https://finwiki.zksc.io/insurance/marine-insurance-and-pi-cover-market, https://finwiki.zksc.io/policy-finance/INDEX, https://finwiki.zksc.io/policy-finance/nexi-export-credit-insurance-products, https://finwiki.zksc.io/policy-finance/oecd-export-credit-arrangement, https://finwiki.zksc.io/trade/INDEX, https://finwiki.zksc.io/trade/documentary-collection-vs-letter-of-credit, https://finwiki.zksc.io/trade/jetro-vs-nexi-vs-jbic-comparison
+
+### サプライチェーンファイナンス (supply-chain finance) — buyer-led reverse factoring and the payables-side liquidity layer
+- URL: https://finwiki.zksc.io/trade/supply-chain-finance-reverse-factoring
+- Source path: trade/supply-chain-finance-reverse-factoring.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/trade/supply-chain-finance-reverse-factoring.md
+- Domain: trade
+- Type: wiki_entry
+- Summary: This entry sits under trade INDEX and covers the buyer-led, payables-side financing programme that complements seller-led receivables finance. Its same-domain peer is forfaiting and international factoring — that entry is seller-initiated (a supplier sells its own receivable); supply-chain finance (
+- Headings: サプライチェーンファイナンス (supply-chain finance) — buyer-led reverse factoring and the payables-side liquidity layer, Wiki route, TL;DR, Reverse factoring — how it works, Reverse factoring vs factoring — who initiates, Why buyers run SCF programmes, The accounting / disclosure controversy, Where SCF sits in the trade-finance picture
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/payments/INDEX, https://finwiki.zksc.io/trade/INDEX, https://finwiki.zksc.io/trade/documentary-collection-vs-letter-of-credit, https://finwiki.zksc.io/trade/forfaiting-international-factoring, https://finwiki.zksc.io/trade/nexi-trade-insurance-mechanism, https://finwiki.zksc.io/trading-company-finance/INDEX
 
 ### trading-company-finance — 商社系グループ財務 (sogo-shosha group-treasury arms) index
 - URL: https://finwiki.zksc.io/trading-company-finance/INDEX

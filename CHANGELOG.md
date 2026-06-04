@@ -29,6 +29,20 @@
 - 如果某次提交只更新少量条目，也要写清楚为什么改、改了哪里、如何确认。
 - 本仓库正文内容只保留公开互联网信息、公文资料、公开披露或基于公开来源的分析；个人信息、本地路径、非公开对话、客户/相手方信息和内部案件细节必须删除。
 
+## 2026-06-05
+
+### P3 内容拡充 — 最薄の non-profit / trade を各 +6（+12 entry）/ P3 content expansion (non-profit / trade +6 each) / P3 内容扩充（non-profit / trade 各 +6）
+#### 日本語記録 / English / 中文
+- **JST 時刻**: 2026-06-05 00:19 JST。
+- **背景**: roadmap P3 = 各領域内容拡充。v12 後も最薄だった `non-profit`(6) / `trade`(6) をユーザー要請（P3/P4 並列）で拡充。i18n（P4）は鍵未設定で別途（下記）。
+- **範囲**: `non-profit/` +6 + INDEX、`trade/` +6 + INDEX、root `INDEX.md`（2 行 count + scope）、discovery 再生成、三語 README/CHANGELOG/`releases/v2026.06.05-1.md`。
+- **主要変更**: 並列 2 subagent（file-scope 隔離）で計 +12 公開情報 entry。non-profit: 社会福祉 / 学校 / 医療 / 宗教法人 + 公益法人会計基準 + 助成財団。trade: NEXI 貿易保険 + 通関関税原産地 + FTA/EPA/RCEP + 電子提単(MLETR) + フォーフェイティング/国際ファクタリング + SCF。各 entry は entry-authoring 準拠（route + same-domain peer + cross-domain link、core-body ≥3 wikilink、公開 sources）。
+- **実行手順**: P3 並列 agent dispatch → audit oracle で dead=0 確認 → root INDEX の count を disk 実数へ照合（並列編集 race で clobber された trade 6→12 を再適用）→ `release.ts --write` → `--check --strict`。
+- **検証結果**: `release.ts --check --strict` **EXIT=0**、entries 1473→1485（+12）/ issues=0 / dead=0 / canonical_drift=0、md=1559 / domains=40、counts in sync、JSON/LF/dup-id OK。
+- **既知の注意点 / 次の作業（P4 未完）**: 新 12 entry + v12 の 43 entry + 新 17 ドメイン INDEX は ja/zh/en mirror 未生成。i18n パイプライン `site/scripts/translate.mjs`（Claude Haiku）は `ANTHROPIC_API_KEY` が必要で現環境に未設定のため未実行。鍵設定後 `bun site/scripts/translate.mjs` で増量翻訳可能（mirror 欠如は graceful fallback、build は緑）。
+- **EN**: Expanded the two thinnest roadmap-P3 domains via 2 parallel subagents (+12 public-info entries): `non-profit` 6→12 (social-welfare / school / medical / religious corporations + 公益法人会計基準 + grant-making foundations) and `trade` 6→12 (NEXI trade insurance + customs/tariff/origin + FTA/EPA/RCEP + electronic bill of lading/MLETR + forfaiting/international factoring + supply-chain finance). Each entry follows the authoring standard (route + same-domain peer + cross-domain link, ≥3 core-body wikilinks, public sources). Root-INDEX counts were reconciled to disk in a Phase-2 pass (re-applied trade 6→12 after a parallel-edit clobber). Verification: `release.ts --check --strict` EXIT=0, entries 1473→1485 / issues=0 / dead=0 / canonical_drift=0, md=1559 / domains=40, counts in sync. P4 (i18n) NOT done: the 12 new + 43 v12 entries + 17 new domain INDEX pages have no ja/zh/en mirrors; the pipeline (`site/scripts/translate.mjs`, Claude Haiku) needs `ANTHROPIC_API_KEY` (unset here), runnable later as `bun site/scripts/translate.mjs` (missing mirrors fall back gracefully).
+- **中文**: 用 2 个并行 subagent 扩充 roadmap P3 最薄的两个域（+12 个公开信息 entry）：`non-profit` 6→12（社会福祉 / 学校 / 医疗 / 宗教法人 + 公益法人会计基准 + 助成财团），`trade` 6→12（NEXI 贸易保险 + 通关关税原产地 + FTA/EPA/RCEP + 电子提单/MLETR + 福费廷/国际保理 + 供应链金融）。每个 entry 遵循写作规范（route + 同域 peer + 跨域链接、core-body ≥3 wikilink、公开 sources）。root INDEX 的 count 在 Phase 2 按 disk 对账（并行编辑 clobber 后重新把 trade 6→12）。验证：`release.ts --check --strict` EXIT=0、entries 1473→1485 / issues=0 / dead=0 / canonical_drift=0、md=1559 / domains=40、counts in sync。P4（i18n）未完成：12 个新 + 43 个 v12 entry + 17 个新域 INDEX 无 ja/zh/en 镜像；流水线（`site/scripts/translate.mjs`，Claude Haiku）需要 `ANTHROPIC_API_KEY`（此处未设置），之后可用 `bun site/scripts/translate.mjs` 运行（镜像缺失会优雅降级）。
+
 ## 2026-06-04
 
 ### JapanFG 分割 後始末 — 17 ドメインの localized 名 + audit route map / JapanFG split follow-up (titles + route map) / JapanFG 拆分收尾（标题 + route map）

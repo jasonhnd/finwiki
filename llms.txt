@@ -17,14 +17,14 @@
 
 ## Current Snapshot
 
-- Markdown files: 1547
-- Public Markdown pages in machine manifest: 1546
+- Markdown files: 1560
+- Public Markdown pages in machine manifest: 1559
 - Topical domains: 40
 - Canonical entity anchors: 12 (linking 12 mirror pages to their source-of-truth entry)
-- Link-audited entries: 1473
+- Link-audited entries: 1485
 - Unresolved link issues: 0
-- Non-space UTF-8 characters across Markdown: 10,692,120
-- Word-like tokens: 1,726,891
+- Non-space UTF-8 characters across Markdown: 10,792,834
+- Word-like tokens: 1,743,974
 
 ## URL Rules for AI Readers
 
@@ -68,10 +68,10 @@
 - finance (27 entries): https://finwiki.zksc.io/finance/INDEX - Public finance reference pages for FIRE math, cross-border M&A, acquisition finance, activist / engagement playbook, tender offers / public-company control transactions, MBO / squeeze-out process, large-shareholding disclosure, fair disclosure / insider trading controls, shareholder proposal / AGM voting route, investment-banking league tables, and public tax-jurisdiction comparison.
 - security (9 entries): https://finwiki.zksc.io/security/INDEX - Forensics, supply-chain risk, bytecode verification, and Wayback evidence preservation.
 - money-market (17 entries): https://finwiki.zksc.io/money-market/INDEX - Call markets, JGB repo / securities financing, BoJ open-market operations, and Japan money-market structure.
-- non-profit (6 entries): https://finwiki.zksc.io/non-profit/INDEX - Japanese non-profit / public-interest legal structures (foundations, associations, NPOs) and research-grant information. Corporate / listed-company governance lives in finance / securities / exchanges.
+- non-profit (12 entries): https://finwiki.zksc.io/non-profit/INDEX - Japanese non-profit / public-interest legal structures (一般/公益 財団・社団, NPO / 認定NPO, plus sector-licensed 社会福祉 / 学校 / 医療 / 宗教 法人), the 公益法人会計基準 reporting layer, and research-grant information (grantee map + grantor 助成財団). Corporate / listed-company governance lives in finance / securities / exchanges.
 - manufacturer-finance (13 entries): https://finwiki.zksc.io/manufacturer-finance/INDEX - Manufacturer captive / vendor / export finance arms and OEM finance subsidiaries. Parent manufacturer entity pages live in JapanFG; manufacturing ABS lives in structured-finance.
 - retail (10 entries): https://finwiki.zksc.io/retail/INDEX - Retail groups as financial-services, payment, loyalty, ATM, and distribution platforms.
-- trade (6 entries): https://finwiki.zksc.io/trade/INDEX - JETRO and trade-channel knowledge.
+- trade (12 entries): https://finwiki.zksc.io/trade/INDEX - JETRO and trade channels, plus trade finance — letters of credit / documentary collection, Incoterms 2020, NEXI trade insurance, customs / tariff / origin, FTA / EPA / RCEP, electronic bill of lading (MLETR), forfaiting / international factoring, and supply-chain finance.
 - corporate-strategy (11 entries): https://finwiki.zksc.io/corporate-strategy/INDEX - Public corporate reorganization and tax-structured spin-off reference.
 - loyalty (17 entries): https://finwiki.zksc.io/loyalty/INDEX - Japan points, rewards, loyalty liabilities, and retail / finance data loops.
 - payments (41 entries): https://finwiki.zksc.io/payments/INDEX - Japan cashless-payment, payment license stack, bank API / electronic payment agency, bank API incident / fraud controls, account-to-account payment, account-direct merchant acquiring, card issuer / acquirer / processor split, card security / authentication controls, interchange / merchant-fee stack, payment clearing / settlement infrastructure, card acquiring / merchant PSP, BNPL / credit-purchase boundary, wallet, prepaid issuer registry, funds-transfer registry, credit / card registry, code-payment competition, PSP settlement risk, and EPI-adjacent settlement landscape.
