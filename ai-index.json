@@ -1,16 +1,16 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-06-05T00:21:55+09:00",
+  "generated_at": "2026-06-05T08:11:09+09:00",
   "counts": {
-    "markdown_files": 1560,
-    "public_markdown_pages": 1559,
-    "site_urls_in_sitemap": 1560,
+    "markdown_files": 1561,
+    "public_markdown_pages": 1560,
+    "site_urls_in_sitemap": 1561,
     "topical_domains": 40,
     "link_audited_entries": 1485,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 10792834,
-    "word_like_tokens": 1743974,
+    "nonspace_utf8_chars": 10802591,
+    "word_like_tokens": 1745859,
     "entity_anchors": 12,
     "entity_mirror_pages": 12
   },
@@ -541,10 +541,10 @@
         "English",
         "中文",
         "2026-06-05",
+        "P4 i18n — 55 entry に ja/zh/en mirror 165 file（鍵不要・subagent 直接翻訳）/ P4 i18n: 165 ja/zh/en mirrors, no API key / P4 i18n：55 entry × 3 语 = 165 镜像（无需密钥）",
         "P3 内容拡充 — 最薄の non-profit / trade を各 +6（+12 entry）/ P3 content expansion (non-profit / trade +6 each) / P3 内容扩充（non-profit / trade 各 +6）",
         "2026-06-04",
-        "JapanFG 分割 後始末 — 17 ドメインの localized 名 + audit route map / JapanFG split follow-up (titles + route map) / JapanFG 拆分收尾（标题 + route map）",
-        "JapanFG 分割 — 巨大ドメインを 17 機関類型別ドメインへ物理分割（23→40 領域）/ JapanFG split into 17 institution-type domains (23→40) / JapanFG 拆分为 17 个机构类型域（23→40）"
+        "JapanFG 分割 後始末 — 17 ドメインの localized 名 + audit route map / JapanFG split follow-up (titles + route map) / JapanFG 拆分收尾（标题 + route map）"
       ],
       "wikilinks": [
         "...",
@@ -635,6 +635,7 @@
         "life-insurers/aia-life-japan",
         "life-insurers/pacific-life-re-japan",
         "life-insurers/rga-japan",
+        "link",
         "non-life-insurers/fm-global-japan",
         "non-life-insurers/gen-re-japan",
         "non-life-insurers/hannover-re-japan",
@@ -693,7 +694,8 @@
         "trading-company-finance/toyota-tsusho-finance",
         "trust-banks/jsf-trust-bank",
         "trust-banks/sbi-shinsei-trust-bank",
-        "wikilink"
+        "wikilink",
+        "…"
       ],
       "resolved_wikilinks": [
         "https://finwiki.zksc.io/...",
@@ -782,8 +784,8 @@
         "japanfg-split-design 参照",
         "origin repository"
       ],
-      "nonspace_chars": 534879,
-      "word_like_tokens": 95260,
+      "nonspace_chars": 538436,
+      "word_like_tokens": 95952,
       "last_modified": "2026-06-05"
     },
     {
@@ -1307,10 +1309,12 @@
       ],
       "wikilinks": [
         "JapanFG/…",
+        "link",
         "wikilink"
       ],
       "resolved_wikilinks": [
         "https://finwiki.zksc.io/JapanFG/…",
+        "https://finwiki.zksc.io/link",
         "https://finwiki.zksc.io/wikilink"
       ],
       "markdown_links": [
@@ -1349,8 +1353,8 @@
         "vercel.json",
         "wiki-link-improvement-plan.md"
       ],
-      "nonspace_chars": 62729,
-      "word_like_tokens": 10964,
+      "nonspace_chars": 64537,
+      "word_like_tokens": 11329,
       "last_modified": "2026-06-05"
     },
     {
@@ -76208,6 +76212,40 @@
       "last_modified": "2026-06-05"
     },
     {
+      "source_path": "releases/v2026.06.05-2.md",
+      "url": "https://finwiki.zksc.io/releases/v2026.06.05-2",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.06.05-2.md",
+      "title": "P4 i18n — v12 + P3 の 55 entry に ja/zh/en mirror を生成（165 file、鍵不要）",
+      "domain": "releases",
+      "entry_type": "release_note",
+      "canonical_anchor": "",
+      "summary": "",
+      "headings": [
+        "P4 i18n — v12 + P3 の 55 entry に ja/zh/en mirror を生成（165 file、鍵不要）",
+        "日本語",
+        "公開範囲",
+        "主要変更",
+        "検証結果",
+        "既知の注意点 / 次の作業",
+        "English",
+        "Release Scope",
+        "Major Changes",
+        "Validation Results"
+      ],
+      "wikilinks": [
+        "link",
+        "…"
+      ],
+      "resolved_wikilinks": [
+        "https://finwiki.zksc.io/link",
+        "https://finwiki.zksc.io/…"
+      ],
+      "markdown_links": [],
+      "nonspace_chars": 5142,
+      "word_like_tokens": 950,
+      "last_modified": "2026-06-05"
+    },
+    {
       "source_path": "retail/INDEX.md",
       "url": "https://finwiki.zksc.io/retail/INDEX",
       "github_url": "https://github.com/jasonhnd/finwiki/blob/main/retail/INDEX.md",
@@ -91189,8 +91227,8 @@
         "https://finwiki.zksc.io/wikilink"
       ],
       "markdown_links": [],
-      "nonspace_chars": 4130,
-      "word_like_tokens": 748,
+      "nonspace_chars": 3380,
+      "word_like_tokens": 626,
       "last_modified": "2026-06-05"
     }
   ]

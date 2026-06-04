@@ -15,7 +15,7 @@
 | Missing route link | 0 |
 | Missing peer link | 0 |
 | Missing system / regulatory link | 0 |
-| Changed or new entries in current worktree | 15 |
+| Changed or new entries in current worktree | 0 |
 | canonical_anchor declarations checked (informational) | 12 |
 | canonical_anchor drift (informational, non-gating) | 0 |
 
@@ -41,21 +41,6 @@
 
 | Path | State | Body | Issues |
 |---|---:|---:|---|
-| `non-profit/japan-gakkou-houjin.md` | `??` | 10 | ok |
-| `non-profit/japan-iryou-houjin.md` | `??` | 7 | ok |
-| `non-profit/japan-josei-zaidan-grant-making.md` | `??` | 11 | ok |
-| `non-profit/japan-koeki-houjin-accounting-standard.md` | `??` | 11 | ok |
-| `non-profit/japan-shakai-fukushi-houjin.md` | `??` | 9 | ok |
-| `non-profit/japan-shuukyou-houjin.md` | `??` | 8 | ok |
-| `trade/electronic-bill-of-lading-mletr.md` | `??` | 9 | ok |
-| `trade/forfaiting-international-factoring.md` | `??` | 13 | ok |
-| `trade/japan-customs-tariff-origin-clearance.md` | `??` | 8 | ok |
-| `trade/japan-fta-epa-rcep-utilization.md` | `??` | 8 | ok |
-| `trade/nexi-trade-insurance-mechanism.md` | `??` | 12 | ok |
-| `trade/supply-chain-finance-reverse-factoring.md` | `??` | 10 | ok |
-| `INDEX.md` | `M` | 46 | ok |
-| `non-profit/INDEX.md` | `M` | 31 | ok |
-| `trade/INDEX.md` | `M` | 22 | ok |
 
 ## Domain Snapshot
 
