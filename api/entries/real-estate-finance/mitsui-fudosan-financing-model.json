@@ -62,13 +62,11 @@
     "wikilinks_count": 20,
     "wikilinks": [
       "INDEX",
-      "JapanFG/mitsubishi-corp",
-      "JapanFG/mitsubishi-ufj-trust-bank",
-      "JapanFG/sumitomo-mitsui-trust",
       "business/INDEX",
       "corporate-strategy/INDEX",
       "derivatives/yen-basis-swap-market",
       "finance/INDEX",
+      "financial-conglomerates/mitsubishi-corp",
       "real-estate-finance/INDEX",
       "real-estate-finance/aeon-mall-financing-and-securitization",
       "real-estate-finance/bank-commercial-real-estate-lending-japan",
@@ -80,17 +78,17 @@
       "real-estate-finance/mitsubishi-estate-financing-model",
       "real-estate-finance/mitsubishi-estate-financing-model\\",
       "real-estate-finance/real-estate-cap-rate-compression-2026",
-      "real-estate-finance/top-10-j-reit-overview-matrix"
+      "real-estate-finance/top-10-j-reit-overview-matrix",
+      "trust-banks/mitsubishi-ufj-trust-bank",
+      "trust-banks/sumitomo-mitsui-trust"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/mitsubishi-corp",
-      "https://finwiki.zksc.io/JapanFG/mitsubishi-ufj-trust-bank",
-      "https://finwiki.zksc.io/JapanFG/sumitomo-mitsui-trust",
       "https://finwiki.zksc.io/business/INDEX",
       "https://finwiki.zksc.io/corporate-strategy/INDEX",
       "https://finwiki.zksc.io/derivatives/yen-basis-swap-market",
       "https://finwiki.zksc.io/finance/INDEX",
+      "https://finwiki.zksc.io/financial-conglomerates/mitsubishi-corp",
       "https://finwiki.zksc.io/real-estate-finance/INDEX",
       "https://finwiki.zksc.io/real-estate-finance/aeon-mall-financing-and-securitization",
       "https://finwiki.zksc.io/real-estate-finance/bank-commercial-real-estate-lending-japan",
@@ -102,15 +100,17 @@
       "https://finwiki.zksc.io/real-estate-finance/mitsubishi-estate-financing-model",
       "https://finwiki.zksc.io/real-estate-finance/mitsubishi-estate-financing-model\\",
       "https://finwiki.zksc.io/real-estate-finance/real-estate-cap-rate-compression-2026",
-      "https://finwiki.zksc.io/real-estate-finance/top-10-j-reit-overview-matrix"
+      "https://finwiki.zksc.io/real-estate-finance/top-10-j-reit-overview-matrix",
+      "https://finwiki.zksc.io/trust-banks/mitsubishi-ufj-trust-bank",
+      "https://finwiki.zksc.io/trust-banks/sumitomo-mitsui-trust"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 17930,
-    "word_like_tokens": 2827,
+    "nonspace_chars": 17978,
+    "word_like_tokens": 2833,
     "inbound_wikilinks_count": 8,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-04"
   }
 }

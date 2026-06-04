@@ -11,7 +11,7 @@ translated_at: 2026-06-01T03:31:12.264Z
 
 ## Wiki route
 
-This entry sits under [[policy-finance/INDEX|policy-finance index]] as the education-finance / human-capital node of the Japanese state-finance system. Read it against [[JapanFG/jfc|日本政策金融公庫 (JFC)]] for the household-education-loan adjacency that JFC's 国民生活事業 教育一般貸付 product overlaps with on the household side; with [[policy-finance/jfc-kokumin-life-finance-division|JFC 国民生活事業]] for the operating-mechanics of the JFC education-loan product; with [[policy-finance/jica|JICA]] for the international-student / overseas-cooperation lane that JASSO touches on inbound foreign students; with [[policy-finance/japan-housing-finance-agency|JHF]] as a peer institution in the household-targeted policy-finance / securitisation-support category; with [[policy-finance/okinawa-development-finance-corp|ODFC]] for the Okinawa-specific student-support handling; with [[policy-finance/japan-policy-finance-system|Japan policy finance system]] for the wider toolkit; with [[policy-finance/japan-policy-finance-institution-mandate-matrix|Japan policy-finance institution mandate matrix]] for the nine-institution comparison axis; and with [[banking/INDEX|banking index]] for the household-credit / consumer-finance perimeter where JASSO loan repayment behaviour interacts with household balance sheets.
+This entry sits under [[policy-finance/INDEX|policy-finance index]] as the education-finance / human-capital node of the Japanese state-finance system. Read it against [[financial-regulators/jfc|日本政策金融公庫 (JFC)]] for the household-education-loan adjacency that JFC's 国民生活事業 教育一般貸付 product overlaps with on the household side; with [[policy-finance/jfc-kokumin-life-finance-division|JFC 国民生活事業]] for the operating-mechanics of the JFC education-loan product; with [[policy-finance/jica|JICA]] for the international-student / overseas-cooperation lane that JASSO touches on inbound foreign students; with [[policy-finance/japan-housing-finance-agency|JHF]] as a peer institution in the household-targeted policy-finance / securitisation-support category; with [[policy-finance/okinawa-development-finance-corp|ODFC]] for the Okinawa-specific student-support handling; with [[policy-finance/japan-policy-finance-system|Japan policy finance system]] for the wider toolkit; with [[policy-finance/japan-policy-finance-institution-mandate-matrix|Japan policy-finance institution mandate matrix]] for the nine-institution comparison axis; and with [[banking/INDEX|banking index]] for the household-credit / consumer-finance perimeter where JASSO loan repayment behaviour interacts with household balance sheets.
 
 ## TL;DR
 
@@ -116,7 +116,7 @@ JASSO does not have a dedicated operating-mechanics sibling page in FinWiki at t
 
 ### Comparison axes vs JFC education-loan product (the closest peer)
 
-| Axis | JASSO | [[JapanFG/jfc\|JFC]] National Living Services Educational General Loan |
+| Axis | JASSO | [[financial-regulators/jfc\|JFC]] National Living Services Educational General Loan |
 |---|---|---|
 | Supervisor | MEXT | Four-minister common management (capital / governance to MoF, operations to MHLW for life-related) |
 | Legal form | Independent Administrative Agency | Special Company |
@@ -153,7 +153,7 @@ The two product channels are designed to be complementary — JASSO covers the s
 
 ## Related
 
-- [[JapanFG/jfc]]
+- [[financial-regulators/jfc]]
 - [[policy-finance/jfc-kokumin-life-finance-division]]
 - [[policy-finance/jica]]
 - [[policy-finance/japan-housing-finance-agency]]

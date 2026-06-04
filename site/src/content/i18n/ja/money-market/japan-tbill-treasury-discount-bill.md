@@ -90,9 +90,9 @@ MOF は JGB と TDB の投資家別保有内訳を公表しており、最新値
 
 ## JapanFG での重要性
 
-- メガバンク [[JapanFG/mufg]]、[[JapanFG/smfg]]、[[JapanFG/mizuho-fg]] は、HQLA、担保、ALM のために TDB を保有する。
-- 証券会社 [[JapanFG/mizuho-securities]]、[[JapanFG/mufg-mums]]、[[JapanFG/nomura-hd]]、[[JapanFG/daiwa-sg]] はプライマリーディーラーであり、TDB のマーケットメイクを担う。
-- [[JapanFG/tokyo-tanshi]]、[[JapanFG/central-tanshi]]、[[JapanFG/ueda-yagi-tanshi]] は隣接する短期金融市場仲介に参加する。
+- メガバンク [[megabanks/mufg]]、[[megabanks/smfg]]、[[megabanks/mizuho-fg]] は、HQLA、担保、ALM のために TDB を保有する。
+- 証券会社 [[securities-firms/mizuho-securities]]、[[securities-firms/mufg-mums]]、[[securities-firms/nomura-hd]]、[[securities-firms/daiwa-sg]] はプライマリーディーラーであり、TDB のマーケットメイクを担う。
+- [[financial-regulators/tokyo-tanshi]]、[[financial-regulators/central-tanshi]]、[[financial-regulators/ueda-yagi-tanshi]] は隣接する短期金融市場仲介に参加する。
 
 ## 境界事例
 
@@ -111,11 +111,11 @@ MOF は JGB と TDB の投資家別保有内訳を公表しており、最新値
 - [[money-market/japan-ncd-negotiable-cd-market]]
 - [[money-market/japan-mmf-money-market-mutual-fund]]
 - [[money-market/boj-post-2024-floor-system-complementary-deposit-facility]]
-- [[JapanFG/boj-monetary-policy]]
-- [[JapanFG/local-bond-market]]
-- [[JapanFG/tokyo-tanshi]]
-- [[JapanFG/central-tanshi]]
-- [[JapanFG/ueda-yagi-tanshi]]
+- [[financial-regulators/boj-monetary-policy]]
+- [[financial-regulators/local-bond-market]]
+- [[financial-regulators/tokyo-tanshi]]
+- [[financial-regulators/central-tanshi]]
+- [[financial-regulators/ueda-yagi-tanshi]]
 - [[INDEX|FinWiki index]]
 
 ## 出典

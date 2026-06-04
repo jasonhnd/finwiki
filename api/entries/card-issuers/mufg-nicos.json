@@ -1,0 +1,82 @@
+{
+  "schema_version": "1.0",
+  "slug": "card-issuers/mufg-nicos",
+  "source_path": "card-issuers/mufg-nicos.md",
+  "url": "https://finwiki.zksc.io/card-issuers/mufg-nicos",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/card-issuers/mufg-nicos.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/card-issuers/mufg-nicos.md",
+  "domain": "card-issuers",
+  "title": "三菱UFJニコス (Mitsubishi UFJ NICOS)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "三菱UFJニコス (Mitsubishi UFJ NICOS)",
+    "aliases": [
+      "Mitsubishi UFJ NICOS",
+      "MUFG NICOS",
+      "三菱UFJニコス",
+      "三菱UFJニコス株式会社"
+    ],
+    "domain": "card-issuers",
+    "created": "2026-05-21",
+    "last_updated": "2026-05-21",
+    "last_tended": "2026-05-21",
+    "review_by": "2026-11-21",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "payments",
+      "credit-card",
+      "acquirer",
+      "consumer-credit"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.cr.mufg.jp/corporate/company/overview/index.html",
+      "https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 三井住友カード (SMCC) for peer / contrast context and payments index for the broader system / regulatory boundary.",
+  "headings": [
+    "三菱UFJニコス (Mitsubishi UFJ NICOS)",
+    "Wiki route",
+    "TL;DR",
+    "1. 法人・ライセンス境界",
+    "2. Business role",
+    "3. Why this standalone page matters",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 9,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "card-issuers/jcb",
+      "card-issuers/rakuten-card",
+      "card-issuers/smbc-card",
+      "megabanks/mufg",
+      "megabanks/mufg-bank",
+      "payments/INDEX",
+      "payments/card-acquiring-japan-stack",
+      "payments/cashless-jp-landscape"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/card-issuers/jcb",
+      "https://finwiki.zksc.io/card-issuers/rakuten-card",
+      "https://finwiki.zksc.io/card-issuers/smbc-card",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/mufg-bank",
+      "https://finwiki.zksc.io/payments/INDEX",
+      "https://finwiki.zksc.io/payments/card-acquiring-japan-stack",
+      "https://finwiki.zksc.io/payments/cashless-jp-landscape"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2006,
+    "word_like_tokens": 307,
+    "inbound_wikilinks_count": 30,
+    "last_modified": "2026-06-04"
+  }
+}

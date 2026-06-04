@@ -12,7 +12,7 @@ translated_at: 2026-06-02T16:33:58.518Z
 
 ## ウィキ上の位置づけ
 
-このエントリは以下にあります[[manufacturer-finance/INDEX|manufacturing index]]。反対に読んでください[[manufacturer-finance/hitachi-industrial-finance-platform|Hitachi industrial finance]], [[manufacturer-finance/panasonic-captive-finance|Panasonic captive finance]], [[manufacturer-finance/toyota-financial-services|Toyota Financial Services]]、 そして[[manufacturer-finance/mitsubishi-heavy-export-finance|MHI 輸出金融]]同業の複合企業金融部門向け。とペアリングする[[JapanFG/sony-fg|ソニーフィナンシャルグループ (SFG)]]エンティティプロファイルの場合、[[business/sony-fg-partial-spinoff-case|Sony FG partial spinoff case]]のために2025 カーブアウトメカニクス、そして[[corporate-strategy/partial-spinoff-tax-deferral|partial spinoff tax deferral]]税制の根幹のために。
+このエントリは以下にあります[[manufacturer-finance/INDEX|manufacturing index]]。反対に読んでください[[manufacturer-finance/hitachi-industrial-finance-platform|Hitachi industrial finance]], [[manufacturer-finance/panasonic-captive-finance|Panasonic captive finance]], [[manufacturer-finance/toyota-financial-services|Toyota Financial Services]]、 そして[[manufacturer-finance/mitsubishi-heavy-export-finance|MHI 輸出金融]]同業の複合企業金融部門向け。とペアリングする[[megabanks/sony-fg|ソニーフィナンシャルグループ (SFG)]]エンティティプロファイルの場合、[[business/sony-fg-partial-spinoff-case|Sony FG partial spinoff case]]のために2025 カーブアウトメカニクス、そして[[corporate-strategy/partial-spinoff-tax-deferral|partial spinoff tax deferral]]税制の根幹のために。
 
 ## 要約
 
@@ -24,7 +24,7 @@ translated_at: 2026-06-02T16:33:58.518Z
 |---|---|
 | 親会社正式名 | ソニーグループ株式会社 / Sony Group Corporation |
 | 親会社上場 | 東証 PRIME6758、NYSE 上位 (ADR: SONY) |
-| 金融持株会社 | [[JapanFG/sony-fg|ソニーフィナンシャルグループ]](旧ソニーフィナンシャルホールディングス8729) |
+| 金融持株会社 | [[megabanks/sony-fg|ソニーフィナンシャルグループ]](旧ソニーフィナンシャルホールディングス8729) |
 | 完全子会社化 | 2020-09-29（TOB成立、先行廃止） |
 | 再上場 (予定) | 2025-10-01(パーシャルスピンオフによる東証 PRIME 再上場) |
 | 親会社の最終持分 (再上場後想定) | 20%未満 (連結除外要件) |
@@ -36,9 +36,9 @@ translated_at: 2026-06-02T16:33:58.518Z
 ```
 ソニーグループ (6758)
   └── ソニーフィナンシャルグループ (SFG,100%→再入場後20%未満)
-        ├── [[JapanFG/sony-life|ソニー生命保険]] (1981, ライフプランナー営業)
+        ├── [[life-insurers/sony-life|ソニー生命保険]] (1981, ライフプランナー営業)
         ├── ソニー損害保険 (1998, ネット自動車保険)
-        ├── [[JapanFG/sony-bank|ソニー銀行]] (2001, ネット銀行・外貨預金・住宅ローン)
+        ├── [[regional-banks/sony-bank|ソニー銀行]] (2001, ネット銀行・外貨預金・住宅ローン)
         └── ソニーフィナンシャルベンチャーズ (CVC・フィンテック投資)
         並列: ソニーネットワークコミュニケーションズ (So-net 系, 金融に近接)
 ```
@@ -89,7 +89,7 @@ translated_at: 2026-06-02T16:33:58.518Z
 
 ## 関連項目
 
-- [[JapanFG/sony-fg|ソニーフィナンシャルグループ]] · [[JapanFG/sony-bank|ソニー銀行]] · [[JapanFG/sony-life|ソニー生命]] · [[JapanFG/sony-insurance|ソニー損保]]
+- [[megabanks/sony-fg|ソニーフィナンシャルグループ]] · [[regional-banks/sony-bank|ソニー銀行]] · [[life-insurers/sony-life|ソニー生命]] · [[non-life-insurers/sony-insurance|ソニー損保]]
 - [[business/sony-fg-partial-spinoff-case|Sony FG partial spinoff case]] · [[corporate-strategy/partial-spinoff-tax-deferral|partial spinoff tax deferral]]
 - [[manufacturer-finance/hitachi-industrial-finance-platform|Hitachi 産業金融]] · [[manufacturer-finance/panasonic-captive-finance|Panasonic 顧客金融]] · [[manufacturer-finance/toyota-financial-services|Toyota Financial Services]] · [[manufacturer-finance/mitsubishi-heavy-export-finance|MHI 輸出金融]]
 - [[manufacturer-finance/INDEX|manufacturing INDEX]] · [[JapanFG/INDEX|JapanFG INDEX]] · [[INDEX|FinWiki index]]

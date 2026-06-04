@@ -1,0 +1,85 @@
+{
+  "schema_version": "1.0",
+  "slug": "megabanks/japan-post-holdings",
+  "source_path": "megabanks/japan-post-holdings.md",
+  "url": "https://finwiki.zksc.io/megabanks/japan-post-holdings",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/megabanks/japan-post-holdings.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/megabanks/japan-post-holdings.md",
+  "domain": "megabanks",
+  "title": "日本郵政株式会社",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "日本郵政株式会社",
+    "aliases": [
+      "日本郵政",
+      "Japan Post Holdings",
+      "JP Holdings",
+      "JP",
+      "6178"
+    ],
+    "domain": "megabanks",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "postal",
+      "holding-company",
+      "listed",
+      "government-stake"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: 日本郵政 (2026-05-25 抽出)",
+      "日本郵政 公式サイト (https://www.japanpost.jp/, 2026-05-25 参照)",
+      "日本郵政株式会社法 (平成 17 年法律第 98 号)",
+      "東京証券取引所 上場会社情報 6178 (2026-05-25 参照)"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against ゆうちょ銀行 (7182) and かんぽ生命 (7181) for its main金融子会社, and against 金融庁 / 日本銀行 for the broader system / regulatory boundary.",
+  "headings": [
+    "日本郵政株式会社",
+    "Wiki route",
+    "TL;DR",
+    "1. 法人構造",
+    "グループ構造",
+    "重要年表",
+    "2. 事業セグメント",
+    "法律上の保有義務",
+    "政府保有比率推移",
+    "トリプル IPO（2015-11-04）"
+  ],
+  "body_links": {
+    "wikilinks_count": 8,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "corporate-strategy/parent-subsidiary-listing",
+      "financial-regulators/boj",
+      "financial-regulators/fsa",
+      "financial-regulators/japan-exchange-group",
+      "life-insurers/kampo-life",
+      "megabanks/japan-post-co",
+      "regional-banks/japan-post-bank"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/corporate-strategy/parent-subsidiary-listing",
+      "https://finwiki.zksc.io/financial-regulators/boj",
+      "https://finwiki.zksc.io/financial-regulators/fsa",
+      "https://finwiki.zksc.io/financial-regulators/japan-exchange-group",
+      "https://finwiki.zksc.io/life-insurers/kampo-life",
+      "https://finwiki.zksc.io/megabanks/japan-post-co",
+      "https://finwiki.zksc.io/regional-banks/japan-post-bank"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 4248,
+    "word_like_tokens": 650,
+    "inbound_wikilinks_count": 4,
+    "last_modified": "2026-06-04"
+  }
+}

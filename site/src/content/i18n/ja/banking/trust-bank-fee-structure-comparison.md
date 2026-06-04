@@ -12,7 +12,7 @@ translated_at: 2026-06-02T11:47:37.310Z
 
 ## ウィキ上の位置づけ
 
-このエントリは [[banking/INDEX|banking index]] の下に位置し、オペレーティングモデルの詳細解説を補完する — [[banking/master-trust-bank-operating-model|Master Trust Bank operating model]]、[[banking/custody-bank-operating-model|Custody Bank operating model]]、[[banking/japan-master-trust-and-custody-bank-landscape|Japan master trust and custody bank landscape]]、陣営横断マトリクス [[banking/japan-trust-bank-vs-global-custodian-comparison-matrix|Japan trust bank vs global custodian comparison matrix]]、運用比較 [[banking/trust-bank-custody-operating-comparison|trust-bank custody operating comparison]] とともに読むこと。エンティティページ [[JapanFG/master-trust-bank|MTBJ]]、[[JapanFG/custody-bank|CBJ]]、[[JapanFG/mitsubishi-ufj-trust-bank|MUFG Trust]]、[[JapanFG/sumitomo-mitsui-trust|SMTB]]、[[JapanFG/mizuho-trust-bank|Mizuho Trust]]、[[JapanFG/smbc-trust-bank|SMBC Trust]]、[[JapanFG/bny-mellon-japan|BNY Mellon Japan]]、[[JapanFG/state-street-japan|State Street Japan]]、[[JapanFG/jpmorgan-japan|JP Morgan Japan]] とペアにすること。決済レールのコンテキストについては [[banking/jasdec-settlement-operations|JASDEC settlement operations]] を参照。機関投資家のコンテキストについては [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]] を参照。
+このエントリは [[banking/INDEX|banking index]] の下に位置し、オペレーティングモデルの詳細解説を補完する — [[banking/master-trust-bank-operating-model|Master Trust Bank operating model]]、[[banking/custody-bank-operating-model|Custody Bank operating model]]、[[banking/japan-master-trust-and-custody-bank-landscape|Japan master trust and custody bank landscape]]、陣営横断マトリクス [[banking/japan-trust-bank-vs-global-custodian-comparison-matrix|Japan trust bank vs global custodian comparison matrix]]、運用比較 [[banking/trust-bank-custody-operating-comparison|trust-bank custody operating comparison]] とともに読むこと。エンティティページ [[trust-banks/master-trust-bank|MTBJ]]、[[trust-banks/custody-bank|CBJ]]、[[trust-banks/mitsubishi-ufj-trust-bank|MUFG Trust]]、[[trust-banks/sumitomo-mitsui-trust|SMTB]]、[[trust-banks/mizuho-trust-bank|Mizuho Trust]]、[[trust-banks/smbc-trust-bank|SMBC Trust]]、[[foreign-financial-institutions/bny-mellon-japan|BNY Mellon Japan]]、[[foreign-financial-institutions/state-street-japan|State Street Japan]]、[[foreign-financial-institutions/jpmorgan-japan|JP Morgan Japan]] とペアにすること。決済レールのコンテキストについては [[banking/jasdec-settlement-operations|JASDEC settlement operations]] を参照。機関投資家のコンテキストについては [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]] を参照。
 
 ## 要約
 
@@ -22,16 +22,16 @@ translated_at: 2026-06-02T11:47:37.310Z
 
 | エンティティ | カテゴリ | 公開 AUC アンカー | 上場 | 詳細な手数料開示 |
 |---|---|---|---|---|
-| [[JapanFG/master-trust-bank|MTBJ]] | JP カストディ専門 | 約¥770兆(2025-03末, MTBJ 開示) | 非上場 | ラインアイテムレベルではなし;MUFG / 4 株主連結に集計 |
-| [[JapanFG/custody-bank|CBJ]] | JP カストディ専門 | 約¥696兆(2025-03末, CBJ 開示) | 非上場 | ラインアイテムレベルではなし;SMTB / Mizuho 側連結に集計 |
-| [[JapanFG/mitsubishi-ufj-trust-bank|MUFG Trust]] | JP フルサービス信託銀行 | 信託資産は100兆円規模;AUC + 不動産 + 年金 | [[JapanFG/mufg|MUFG]](上場)の子会社 | 集計セグメント開示 |
-| [[JapanFG/sumitomo-mitsui-trust|SMTB]] | JP フルサービス信託銀行 | 信託資産は100兆円規模 | [[JapanFG/sumitomo-mitsui-trust|SMT Holdings]](上場)の子会社 | 集計セグメント開示 |
-| [[JapanFG/mizuho-trust-bank|Mizuho Trust]] | JP フルサービス信託銀行 | 信託資産は10〜100兆円規模 | [[JapanFG/mizuho-fg|Mizuho FG]](上場)の子会社 | 集計セグメント開示 |
-| [[JapanFG/smbc-trust-bank|SMBC Trust]] | JP リテール PB 志向の信託銀行 | ¥10兆未満(PB／富裕層フォーカス) | [[JapanFG/smbc-group|SMBC Group]](上場)の子会社 | リテール／PB セグメント下に集計 |
-| [[JapanFG/bny-mellon-japan|BNY Mellon Japan]] | グローバルカストディアン — 日本ユニット | JP 固有の AUC 非開示;親会社 約$50兆 AuC/A | BNY Mellon(NYSE)の子会社 | 親会社レベルの集計のみ |
-| [[JapanFG/state-street-japan|State Street Japan]] | グローバルカストディアン — 日本ユニット | JP 固有の AUC 非開示;親会社 約$46.6兆 AuC/A(2024-12) | State Street(NYSE)の子会社 | 親会社レベルの集計のみ |
-| [[JapanFG/jpmorgan-japan|JP Morgan Japan]] | グローバルカストディアン — 日本ユニット | JP 固有の AUC 非開示;親会社 約$35兆超 AuC(2024末) | JPMorgan Chase(NYSE)の子会社 | 親会社レベルの集計のみ |
-| [[JapanFG/citigroup-japan|Citi Japan]] | グローバルカストディアン — 日本ユニット | JP 固有の AUC 非開示;親会社 約$26.3兆 AuC/A(2024-09) | Citigroup(NYSE)の子会社 | 親会社レベルの集計のみ |
+| [[trust-banks/master-trust-bank|MTBJ]] | JP カストディ専門 | 約¥770兆(2025-03末, MTBJ 開示) | 非上場 | ラインアイテムレベルではなし;MUFG / 4 株主連結に集計 |
+| [[trust-banks/custody-bank|CBJ]] | JP カストディ専門 | 約¥696兆(2025-03末, CBJ 開示) | 非上場 | ラインアイテムレベルではなし;SMTB / Mizuho 側連結に集計 |
+| [[trust-banks/mitsubishi-ufj-trust-bank|MUFG Trust]] | JP フルサービス信託銀行 | 信託資産は100兆円規模;AUC + 不動産 + 年金 | [[megabanks/mufg|MUFG]](上場)の子会社 | 集計セグメント開示 |
+| [[trust-banks/sumitomo-mitsui-trust|SMTB]] | JP フルサービス信託銀行 | 信託資産は100兆円規模 | [[trust-banks/sumitomo-mitsui-trust|SMT Holdings]](上場)の子会社 | 集計セグメント開示 |
+| [[trust-banks/mizuho-trust-bank|Mizuho Trust]] | JP フルサービス信託銀行 | 信託資産は10〜100兆円規模 | [[megabanks/mizuho-fg|Mizuho FG]](上場)の子会社 | 集計セグメント開示 |
+| [[trust-banks/smbc-trust-bank|SMBC Trust]] | JP リテール PB 志向の信託銀行 | ¥10兆未満(PB／富裕層フォーカス) | [[megabanks/smbc-group|SMBC Group]](上場)の子会社 | リテール／PB セグメント下に集計 |
+| [[foreign-financial-institutions/bny-mellon-japan|BNY Mellon Japan]] | グローバルカストディアン — 日本ユニット | JP 固有の AUC 非開示;親会社 約$50兆 AuC/A | BNY Mellon(NYSE)の子会社 | 親会社レベルの集計のみ |
+| [[foreign-financial-institutions/state-street-japan|State Street Japan]] | グローバルカストディアン — 日本ユニット | JP 固有の AUC 非開示;親会社 約$46.6兆 AuC/A(2024-12) | State Street(NYSE)の子会社 | 親会社レベルの集計のみ |
+| [[foreign-financial-institutions/jpmorgan-japan|JP Morgan Japan]] | グローバルカストディアン — 日本ユニット | JP 固有の AUC 非開示;親会社 約$35兆超 AuC(2024末) | JPMorgan Chase(NYSE)の子会社 | 親会社レベルの集計のみ |
+| [[foreign-financial-institutions/citigroup-japan|Citi Japan]] | グローバルカストディアン — 日本ユニット | JP 固有の AUC 非開示;親会社 約$26.3兆 AuC/A(2024-09) | Citigroup(NYSE)の子会社 | 親会社レベルの集計のみ |
 
 ### カストディ手数料の仕組み
 
@@ -181,17 +181,17 @@ translated_at: 2026-06-02T11:47:37.310Z
 - [[banking/jasdec-settlement-operations]]
 - [[banking/pension-trust-mandate-allocation-japan]]
 - [[banking/japan-banking-license-tier-comparison-matrix]]
-- [[JapanFG/master-trust-bank]]
-- [[JapanFG/custody-bank]]
-- [[JapanFG/mitsubishi-ufj-trust-bank]]
-- [[JapanFG/sumitomo-mitsui-trust]]
-- [[JapanFG/mizuho-trust-bank]]
-- [[JapanFG/smbc-trust-bank]]
-- [[JapanFG/nochu-trust-bank]]
-- [[JapanFG/bny-mellon-japan]]
-- [[JapanFG/state-street-japan]]
-- [[JapanFG/jpmorgan-japan]]
-- [[JapanFG/citigroup-japan]]
+- [[trust-banks/master-trust-bank]]
+- [[trust-banks/custody-bank]]
+- [[trust-banks/mitsubishi-ufj-trust-bank]]
+- [[trust-banks/sumitomo-mitsui-trust]]
+- [[trust-banks/mizuho-trust-bank]]
+- [[trust-banks/smbc-trust-bank]]
+- [[trust-banks/nochu-trust-bank]]
+- [[foreign-financial-institutions/bny-mellon-japan]]
+- [[foreign-financial-institutions/state-street-japan]]
+- [[foreign-financial-institutions/jpmorgan-japan]]
+- [[foreign-financial-institutions/citigroup-japan]]
 - [[securities/japan-securities-depository-center]]
 - [[securities/japan-securities-clearing-corp]]
 - [[finance/japan-listed-financial-groups-investable-universe]]

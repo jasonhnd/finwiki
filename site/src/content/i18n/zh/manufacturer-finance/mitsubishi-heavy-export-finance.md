@@ -12,11 +12,11 @@ translated_at: 2026-05-30T15:31:43.927Z
 
 ## Wiki 路由
 
-本词条归属于 [[manufacturer-finance/INDEX|manufacturing index]]。请对照 [[manufacturer-finance/hitachi-industrial-finance-platform|Hitachi 産業金融]]、[[manufacturer-finance/panasonic-captive-finance|Panasonic 顧客金融]]、[[manufacturer-finance/sony-group-finance-arm|Sony FG]]、[[manufacturer-finance/toyota-financial-services|Toyota Financial Services]] 阅读以作同业产业综合企业金融部门的比较。与 [[JapanFG/jbic|JBIC]]・[[policy-finance/nexi|NEXI]] 配对了解政策金融对应方，[[trade/jetro-vs-nexi-vs-jbic-comparison|JETRO vs NEXI vs JBIC]] 了解出口支持栈概览，[[JapanFG/mitsubishi-corp-finance|三菱商事 金融機能]] / [[JapanFG/INDEX|JapanFG index]] 了解更广的三菱系列（keiretsu）背景。
+本词条归属于 [[manufacturer-finance/INDEX|manufacturing index]]。请对照 [[manufacturer-finance/hitachi-industrial-finance-platform|Hitachi 産業金融]]、[[manufacturer-finance/panasonic-captive-finance|Panasonic 顧客金融]]、[[manufacturer-finance/sony-group-finance-arm|Sony FG]]、[[manufacturer-finance/toyota-financial-services|Toyota Financial Services]] 阅读以作同业产业综合企业金融部门的比较。与 [[financial-regulators/jbic|JBIC]]・[[policy-finance/nexi|NEXI]] 配对了解政策金融对应方，[[trade/jetro-vs-nexi-vs-jbic-comparison|JETRO vs NEXI vs JBIC]] 了解出口支持栈概览，[[trading-company-finance/mitsubishi-corp-finance|三菱商事 金融機能]] / [[JapanFG/INDEX|JapanFG index]] 了解更广的三菱系列（keiretsu）背景。
 
 ## TL;DR
 
-三菱重工业（MHI，7011）是拥有防务、航空、能源、产业机械、物流机器的日本最大级重工业厂商之一。**与 Toyota / Sony / Hitachi 不同，它本体不持有直系的银行 / 保险 / 卡 captive**，但 **大型案件（防务装备、商用航空、火力 / 核能透平、船舶、化学装置、火箭）的出口始终需要 [[JapanFG/jbic|JBIC]] 出口金融 + [[policy-finance/nexi|NEXI]] 贸易保险 + 大型银行银团 + ECA 的组合**，其组建与协调由 MHI 公司财务与项目本部一体承担。从 manufacturing 视角看，这是「厂商不持有 captive，而实质运营一个 **组合了政策金融 / 商业银行 / ECA 的出口金融平台**」的模式。近期论点为 F-X（未来战斗机）的 **GIGO/GCAP 计划**（日英意共同开发，旧称「X-2  心神」的延长线）、**蓝宝石（Sapphire）防务装备倡议**、AP1000  系 / 三菱重工 PWR 海外案件、H-IIA / H3  火箭商业化。
+三菱重工业（MHI，7011）是拥有防务、航空、能源、产业机械、物流机器的日本最大级重工业厂商之一。**与 Toyota / Sony / Hitachi 不同，它本体不持有直系的银行 / 保险 / 卡 captive**，但 **大型案件（防务装备、商用航空、火力 / 核能透平、船舶、化学装置、火箭）的出口始终需要 [[financial-regulators/jbic|JBIC]] 出口金融 + [[policy-finance/nexi|NEXI]] 贸易保险 + 大型银行银团 + ECA 的组合**，其组建与协调由 MHI 公司财务与项目本部一体承担。从 manufacturing 视角看，这是「厂商不持有 captive，而实质运营一个 **组合了政策金融 / 商业银行 / ECA 的出口金融平台**」的模式。近期论点为 F-X（未来战斗机）的 **GIGO/GCAP 计划**（日英意共同开发，旧称「X-2  心神」的延长线）、**蓝宝石（Sapphire）防务装备倡议**、AP1000  系 / 三菱重工 PWR 海外案件、H-IIA / H3  火箭商业化。
 
 ## 1. 公司结构与金融部门的位置
 
@@ -31,7 +31,7 @@ translated_at: 2026-05-30T15:31:43.927Z
 | 合并净利润 | 约 2,200 億円 规模（FY2024） |
 | 合并子公司 | 约 200 社 规模 |
 | 本体直系 captive 金融 | 无（不持有专业的银行 / 保险 / 大型卡） |
-| 主要 finance alliance | [[JapanFG/jbic|JBIC]] / [[policy-finance/nexi|NEXI]] / [[JapanFG/mufg|MUFG]] / [[JapanFG/smfg|SMFG]] / [[JapanFG/mizuho-fg|みずほ FG]] / 欧美 ECA |
+| 主要 finance alliance | [[financial-regulators/jbic|JBIC]] / [[policy-finance/nexi|NEXI]] / [[megabanks/mufg|MUFG]] / [[megabanks/smfg|SMFG]] / [[megabanks/mizuho-fg|みずほ FG]] / 欧美 ECA |
 
 ### 金融组建的位置（按计划）
 
@@ -57,13 +57,13 @@ MHI 并非「持有银行 / 保险型 captive」，而是作为「**按出口案
 
 | 事业线 | 主要客户金融组建 | 参与的金融 |
 |---|---|---|
-| 火力、核能、透平 | EPC + 项目金融 | [[JapanFG/jbic|JBIC]] / [[policy-finance/nexi|NEXI]] / 美 EXIM / 韩 KEXIM 等 |
+| 火力、核能、透平 | EPC + 项目金融 | [[financial-regulators/jbic|JBIC]] / [[policy-finance/nexi|NEXI]] / 美 EXIM / 韩 KEXIM 等 |
 | 海上风电、氢能 | 绿色金融、PF | JBIC GX 额度 / 欧洲系 PF 银行 |
 | 商用航空（旧 SpaceJet） | 航空机 ECA 金融 | JBIC + EDC + EXIM 系 |
 | 防务装备（国内） | 防卫省 GFE（政府配发品）+ 国内预算 | 防卫省、无政府担保 |
 | 防务装备（出口） | G-to-G 出口指引下，有限 | NEXI 政府担保额度（视案件而定） |
 | GCAP / GIGO（F-X） | 英 BAE Systems + 意 Leonardo + 日 MHI 的合资 GCAP International Government Organisation | 日英意政府协调，商业金融未介入 |
-| 物流（叉车 = 三菱物流未来 7105） | vendor finance | [[JapanFG/mitsubishi-hc-capital|三菱HCキャピタル]] / 银行系租赁 |
+| 物流（叉车 = 三菱物流未来 7105） | vendor finance | [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]] / 银行系租赁 |
 | 化学装置 | EPC + JBIC 资源金融额度 | JBIC + 大型银行 + ECA |
 | 火箭（MHI Launch Services） | 商业发射合同 + ECA | 客户卫星运营商 + JBIC |
 
@@ -96,7 +96,7 @@ MHI 并非「持有银行 / 保险型 captive」，而是作为「**按出口案
 - **能源转型**：从火力、核能基础向氢能、氨、海上风电、SAF（可持续航空燃料）拓展投资领域。在保持资本效率的同时，以碳中和产品创造长期订单。
 - **防务事业的规模扩张**：以 2022  国家安全保障战略、防卫力整备计划（5  年 43 兆円 规模）为背景，对防务事业分部进行结构性扩张。F-X / GCAP 为下一代支柱。
 - **GCAP/GIGO 国际协作**：通过与英 BAE Systems、意 Leonardo 的合资进入防务装备出口市场。在 GCAP International Government Organisation 由 3  国政府支援的框架下，与其说是商业金融组建，不如说以政府间金融为基础。
-- **JBIC / NEXI 协调**：能源、基础设施出口以 [[JapanFG/jbic|JBIC]] 出口金融 + [[policy-finance/nexi|NEXI]] 贸易保险的组合推进。商业银行（[[JapanFG/mufg|MUFG]] / [[JapanFG/smfg|SMFG]] / [[JapanFG/mizuho-fg|みずほ FG]]）参与银团。
+- **JBIC / NEXI 协调**：能源、基础设施出口以 [[financial-regulators/jbic|JBIC]] 出口金融 + [[policy-finance/nexi|NEXI]] 贸易保险的组合推进。商业银行（[[megabanks/mufg|MUFG]] / [[megabanks/smfg|SMFG]] / [[megabanks/mizuho-fg|みずほ FG]]）参与银团。
 - **物流 / 产业机器 captive 轻量化**：在三菱物流未来（叉车）等集团公司层级，vendor finance 经三菱 HC 资本组建，减轻本体财务负担。
 - **现金转换周期（CCC）改善**：因长期订单事业特性，运营资金易膨胀，故活用供应链金融、应收账款 ABL 改善 CCC。
 
@@ -110,8 +110,8 @@ MHI 并非「持有银行 / 保险型 captive」，而是作为「**按出口案
 
 ## 相关
 
-- [[JapanFG/jbic|JBIC]] · [[policy-finance/nexi|NEXI]] · [[trade/jetro-vs-nexi-vs-jbic-comparison|JETRO vs NEXI vs JBIC]]
-- [[JapanFG/mufg|MUFG]] · [[JapanFG/smfg|SMFG]] · [[JapanFG/mizuho-fg|みずほ FG]] · [[JapanFG/mitsubishi-corp-finance|三菱商事 金融機能]] · [[JapanFG/mitsubishi-hc-capital|三菱HCキャピタル]]
+- [[financial-regulators/jbic|JBIC]] · [[policy-finance/nexi|NEXI]] · [[trade/jetro-vs-nexi-vs-jbic-comparison|JETRO vs NEXI vs JBIC]]
+- [[megabanks/mufg|MUFG]] · [[megabanks/smfg|SMFG]] · [[megabanks/mizuho-fg|みずほ FG]] · [[trading-company-finance/mitsubishi-corp-finance|三菱商事 金融機能]] · [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]]
 - [[manufacturer-finance/hitachi-industrial-finance-platform|Hitachi 産業金融]] · [[manufacturer-finance/panasonic-captive-finance|Panasonic 顧客金融]] · [[manufacturer-finance/sony-group-finance-arm|Sony FG]] · [[manufacturer-finance/toyota-financial-services|Toyota Financial Services]]
 - [[manufacturer-finance/toyota-motor|Toyota Motor]] · [[manufacturer-finance/seiko-epson|Seiko Epson]]
 - [[manufacturer-finance/INDEX|manufacturing INDEX]] · [[JapanFG/INDEX|JapanFG INDEX]] · [[INDEX|FinWiki index]]

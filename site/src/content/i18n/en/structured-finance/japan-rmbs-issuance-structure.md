@@ -27,10 +27,10 @@ Private RMBS in Japan are usually jumbo deals backed by megabank-originated resi
 
 | Originator | Typical product |
 |---|---|
-| [[JapanFG/mufg]] / Mitsubishi UFJ Bank | Variable-rate mortgages, jumbo pools |
-| [[JapanFG/smfg]] / Sumitomo Mitsui Banking Corporation | Variable-rate mortgages |
-| [[JapanFG/mizuho-fg]] / Mizuho Bank | Mixed-rate mortgages |
-| Trust banks (Mitsubishi UFJ Trust, [[JapanFG/sumitomo-mitsui-trust]], Mizuho Trust) | Long-tenor fixed-rate mortgages |
+| [[megabanks/mufg]] / Mitsubishi UFJ Bank | Variable-rate mortgages, jumbo pools |
+| [[megabanks/smfg]] / Sumitomo Mitsui Banking Corporation | Variable-rate mortgages |
+| [[megabanks/mizuho-fg]] / Mizuho Bank | Mixed-rate mortgages |
+| Trust banks (Mitsubishi UFJ Trust, [[trust-banks/sumitomo-mitsui-trust]], Mizuho Trust) | Long-tenor fixed-rate mortgages |
 | Regional banks (occasional) | Smaller, regional-pool deals |
 
 Megabanks dominate private RMBS issuance because they hold large enough mortgage portfolios to make jumbo securitization economical.
@@ -84,7 +84,7 @@ Japan's prepayment behavior historically runs slower than US RMBS because Japane
 
 ## 6. Vehicle choice
 
-Private RMBS in Japan most often use a trust-beneficial-interest structure: the originator transfers the mortgage pool to a trust ([[JapanFG/sumitomo-mitsui-trust]] or another trust bank as trustee), and the trust issues trust beneficial interest in tranches to investors. See [[structured-finance/japan-trust-beneficial-interest-vs-spv]] for the trust-vs-SPV trade-off.
+Private RMBS in Japan most often use a trust-beneficial-interest structure: the originator transfers the mortgage pool to a trust ([[trust-banks/sumitomo-mitsui-trust]] or another trust bank as trustee), and the trust issues trust beneficial interest in tranches to investors. See [[structured-finance/japan-trust-beneficial-interest-vs-spv]] for the trust-vs-SPV trade-off.
 
 Some deals use a TMK (特定目的会社) under the asset-securitization law instead. The TMK route allows formal listed-bond issuance; trust-beneficial-interest route is typically private placement. See [[structured-finance/spv-tk-gk-vehicle-japan-tax]].
 

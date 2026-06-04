@@ -1,0 +1,79 @@
+{
+  "schema_version": "1.0",
+  "slug": "financial-regulators/dbj",
+  "source_path": "financial-regulators/dbj.md",
+  "url": "https://finwiki.zksc.io/financial-regulators/dbj",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/financial-regulators/dbj.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/financial-regulators/dbj.md",
+  "domain": "financial-regulators",
+  "title": "日本政策投資銀行 (DBJ)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "日本政策投資銀行 (DBJ)",
+    "aliases": [
+      "DBJ",
+      "Development Bank of Japan",
+      "株式会社日本政策投資銀行",
+      "日本政策投資銀行",
+      "政投銀"
+    ],
+    "domain": "financial-regulators",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "policy-finance",
+      "government"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: 株式会社日本政策投資銀行 (2026-05-19 抽出)",
+      "DBJ 公式サイト (会社概要・沿革, 2025 更新)"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 日本政策金融公庫 (JFC) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "日本政策投資銀行 (DBJ)",
+    "Wiki route",
+    "TL;DR",
+    "1. 会社概要",
+    "主要子会社・関連会社",
+    "重要年表",
+    "2. 事業セグメント・マップ",
+    "ポジショニング",
+    "戦略テーマ",
+    "「民間補完原則」"
+  ],
+  "body_links": {
+    "wikilinks_count": 7,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "banking/INDEX",
+      "financial-regulators/jfc",
+      "mizuho-fg",
+      "mufg",
+      "ndfg",
+      "smfg"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/financial-regulators/jfc",
+      "https://finwiki.zksc.io/mizuho-fg",
+      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/ndfg",
+      "https://finwiki.zksc.io/smfg"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3288,
+    "word_like_tokens": 484,
+    "inbound_wikilinks_count": 34,
+    "last_modified": "2026-06-04"
+  }
+}

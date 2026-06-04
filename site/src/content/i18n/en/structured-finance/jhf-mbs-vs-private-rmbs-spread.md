@@ -70,7 +70,7 @@ Prepayment behavior affects effective duration of MBS. Buy-and-hold investors (l
 | Investor | JHF MBS | Private RMBS |
 |---|---|---|
 | Lifers (Asahi, Daido, etc.) | Core ALM allocation, large size | Selective allocation, spread-seeking |
-| Megabank ALM books ([[JapanFG/mufg]], [[JapanFG/smfg]], [[JapanFG/mizuho-fg]]) | Yield-pickup vs JGB | Limited (concentration with own originator) |
+| Megabank ALM books ([[megabanks/mufg]], [[megabanks/smfg]], [[megabanks/mizuho-fg]]) | Yield-pickup vs JGB | Limited (concentration with own originator) |
 | Regional banks | Standard yen-yield holding | Selective |
 | Asset managers (Asset Management One, etc.) | Bond-fund constituent | Spread-fund constituent |
 | Public-credit investors | Direct allocation | Limited |
@@ -120,7 +120,7 @@ See [[structured-finance/credit-rating-methodology-jcr-r-and-i]] for rating-agen
 - [[policy-finance/japan-housing-finance-agency]]
 - [[policy-finance/INDEX]]
 - [[money-market/INDEX]]
-- [[JapanFG/boj-monetary-policy]]
+- [[financial-regulators/boj-monetary-policy]]
 - [[banking/INDEX]]
 
 ## Sources

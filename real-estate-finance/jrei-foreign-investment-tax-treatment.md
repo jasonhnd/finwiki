@@ -35,7 +35,7 @@ Foreign investment in Japan real estate carries distinct Japanese tax treatment 
 
 ## Wiki route
 
-This entry sits under [[real-estate-finance/INDEX]] and is the cross-border-tax-route page for [[real-estate-finance/j-reit-market-overview|J-REIT market overview]], [[real-estate-finance/j-reit-foreign-investor-ownership|J-REIT foreign-investor ownership]], [[real-estate-finance/real-estate-private-credit-japan|real-estate private credit]], [[real-estate-finance/bank-commercial-real-estate-lending-japan|bank CRE lending]], [[real-estate-finance/real-estate-cap-rate-compression-2026|cap-rate compression]], [[real-estate-finance/japan-real-estate-appraisal-methodology|appraisal methodology]], and [[real-estate-finance/j-reit-dividend-yield-vs-jgb-spread|J-REIT-vs-JGB spread analysis]]. Trust-bank and master-trust-side structuring sits at [[JapanFG/mitsubishi-ufj-trust-bank]] and [[JapanFG/sumitomo-mitsui-trust]]. Megabank arrangers for cross-border structures are [[JapanFG/mufg-bank]], [[JapanFG/sumitomo-mitsui-banking-corp]], and [[JapanFG/mizuho-bank]]. Policy-finance reference is [[JapanFG/dbj]]. Private-finance / private-equity context routes to [[finance/INDEX]], [[finance/japan-private-equity-operating-model]], and [[finance/japan-private-equity-fund-structure-matrix]]. Banking and money-market context lives at [[banking/INDEX]], [[banking/regional-bank-consolidation-pattern]], and [[money-market/japan-money-market]]. Insurance-side cross-link routes to [[insurance/japan-life-insurance-alm-overview]] for life-insurer real-estate-allocation tax reading.
+This entry sits under [[real-estate-finance/INDEX]] and is the cross-border-tax-route page for [[real-estate-finance/j-reit-market-overview|J-REIT market overview]], [[real-estate-finance/j-reit-foreign-investor-ownership|J-REIT foreign-investor ownership]], [[real-estate-finance/real-estate-private-credit-japan|real-estate private credit]], [[real-estate-finance/bank-commercial-real-estate-lending-japan|bank CRE lending]], [[real-estate-finance/real-estate-cap-rate-compression-2026|cap-rate compression]], [[real-estate-finance/japan-real-estate-appraisal-methodology|appraisal methodology]], and [[real-estate-finance/j-reit-dividend-yield-vs-jgb-spread|J-REIT-vs-JGB spread analysis]]. Trust-bank and master-trust-side structuring sits at [[trust-banks/mitsubishi-ufj-trust-bank]] and [[trust-banks/sumitomo-mitsui-trust]]. Megabank arrangers for cross-border structures are [[megabanks/mufg-bank]], [[megabanks/sumitomo-mitsui-banking-corp]], and [[megabanks/mizuho-bank]]. Policy-finance reference is [[financial-regulators/dbj]]. Private-finance / private-equity context routes to [[finance/INDEX]], [[finance/japan-private-equity-operating-model]], and [[finance/japan-private-equity-fund-structure-matrix]]. Banking and money-market context lives at [[banking/INDEX]], [[banking/regional-bank-consolidation-pattern]], and [[money-market/japan-money-market]]. Insurance-side cross-link routes to [[insurance/japan-life-insurance-alm-overview]] for life-insurer real-estate-allocation tax reading.
 
 ## Tax-Surface Map
 
@@ -74,7 +74,7 @@ The PE / FPI (foreign-portfolio-investor) distinction is the most common analyti
 | Dependent agent in Japan | Agency-PE trigger when agent habitually exercises authority. |
 | Asset-management or property-management activities | Asset-management activity carried out in Japan may risk PE under some interpretations; structuring uses trust-bank / qualified-asset-manager arrangements to mitigate. |
 
-The PE risk is one of the central structuring questions for foreign-GP real-estate investment in Japan. The trust-bank / qualified-asset-manager arrangement is part of the standard mitigation pattern, which is why trust-bank involvement (per [[JapanFG/mitsubishi-ufj-trust-bank]] and [[JapanFG/sumitomo-mitsui-trust]]) is structurally important.
+The PE risk is one of the central structuring questions for foreign-GP real-estate investment in Japan. The trust-bank / qualified-asset-manager arrangement is part of the standard mitigation pattern, which is why trust-bank involvement (per [[trust-banks/mitsubishi-ufj-trust-bank]] and [[trust-banks/sumitomo-mitsui-trust]]) is structurally important.
 
 ## Withholding Tax on Rental Income
 
@@ -203,12 +203,12 @@ The choice of structure is driven by investor-type, target asset class, target r
 - [[finance/INDEX]]
 - [[finance/japan-private-equity-fund-structure-matrix]]
 - [[finance/japan-private-equity-operating-model]]
-- [[JapanFG/mufg-bank]]
-- [[JapanFG/sumitomo-mitsui-banking-corp]]
-- [[JapanFG/mizuho-bank]]
-- [[JapanFG/sumitomo-mitsui-trust]]
-- [[JapanFG/mitsubishi-ufj-trust-bank]]
-- [[JapanFG/dbj]]
+- [[megabanks/mufg-bank]]
+- [[megabanks/sumitomo-mitsui-banking-corp]]
+- [[megabanks/mizuho-bank]]
+- [[trust-banks/sumitomo-mitsui-trust]]
+- [[trust-banks/mitsubishi-ufj-trust-bank]]
+- [[financial-regulators/dbj]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

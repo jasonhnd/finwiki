@@ -34,7 +34,7 @@ This registry index captures the FSA public license list for Japan's labor-bank 
 | Item | Value |
 | --- | --- |
 | FSA as-of date | 令和5年8月14日現在 |
-| Central institution | [[JapanFG/rokin-renraku]] |
+| Central institution | [[cooperative-banks/rokin-renraku]] |
 | Central rows in workbook | 1 |
 | Licensed rokin banks | 13 |
 | Legal / institutional route | 労働金庫法 |
@@ -44,7 +44,7 @@ This registry index captures the FSA public license list for Japan's labor-bank 
 
 - Closes the official rokin-bank population at index level.
 - Separates worker / labor-union-linked finance from shinkin banks, credit cooperatives, and ordinary regional banks.
-- Keeps [[JapanFG/rokin-renraku|Rokinren]] as the central-institution page while routing the 13 member rokin banks through this index.
+- Keeps [[cooperative-banks/rokin-renraku|Rokinren]] as the central-institution page while routing the 13 member rokin banks through this index.
 - Corporate numbers and head-office addresses are public registry fields; representative phone numbers remain in the source workbook and are omitted here to keep the index scannable.
 
 ## 3. Supervisory-bureau count
@@ -120,8 +120,8 @@ This registry index captures the FSA public license list for Japan's labor-bank 
 
 - [[banking/cooperative-banking-japan]]
 - [[banking/regional-bank-consolidation-pattern]]
-- [[JapanFG/rokin-renraku|労働金庫連合会]]
-- [[JapanFG/missing-financial-institutions-backlog]]
+- [[cooperative-banks/rokin-renraku|労働金庫連合会]]
+- [[financial-regulators/missing-financial-institutions-backlog]]
 - [[banking/INDEX]]
 
 ## Sources

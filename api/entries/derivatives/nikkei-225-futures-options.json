@@ -64,7 +64,6 @@
     "wikilinks_count": 17,
     "wikilinks": [
       "INDEX",
-      "JapanFG/mufg-bank",
       "banking/INDEX",
       "derivatives/INDEX",
       "derivatives/equity-volatility-hedging-corporates-japan",
@@ -74,6 +73,7 @@
       "derivatives/topix-futures",
       "exchanges/INDEX",
       "insurance/japan-life-insurance-alm-overview",
+      "megabanks/mufg-bank",
       "securities/INDEX",
       "securities/japan-market-infrastructure-map",
       "securities/japan-market-maker-and-liquidity-provider-landscape",
@@ -83,7 +83,6 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/mufg-bank",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/derivatives/INDEX",
       "https://finwiki.zksc.io/derivatives/equity-volatility-hedging-corporates-japan",
@@ -93,6 +92,7 @@
       "https://finwiki.zksc.io/derivatives/topix-futures",
       "https://finwiki.zksc.io/exchanges/INDEX",
       "https://finwiki.zksc.io/insurance/japan-life-insurance-alm-overview",
+      "https://finwiki.zksc.io/megabanks/mufg-bank",
       "https://finwiki.zksc.io/securities/INDEX",
       "https://finwiki.zksc.io/securities/japan-market-infrastructure-map",
       "https://finwiki.zksc.io/securities/japan-market-maker-and-liquidity-provider-landscape",
@@ -104,9 +104,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 10928,
+    "nonspace_chars": 10930,
     "word_like_tokens": 1770,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-04"
   }
 }

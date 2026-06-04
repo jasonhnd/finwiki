@@ -52,22 +52,22 @@
     "wikilinks_count": 9,
     "wikilinks": [
       "INDEX",
-      "JapanFG/boj-monetary-policy",
-      "JapanFG/central-tanshi",
-      "JapanFG/legal-financial-licenses/INDEX",
-      "JapanFG/tokyo-tanshi",
-      "JapanFG/ueda-yagi-tanshi",
+      "financial-licenses/INDEX",
+      "financial-regulators/boj-monetary-policy",
+      "financial-regulators/central-tanshi",
+      "financial-regulators/tokyo-tanshi",
+      "financial-regulators/ueda-yagi-tanshi",
       "money-market/INDEX",
       "money-market/boj-open-market-operations",
       "money-market/call-market-structure"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/boj-monetary-policy",
-      "https://finwiki.zksc.io/JapanFG/central-tanshi",
-      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX",
-      "https://finwiki.zksc.io/JapanFG/tokyo-tanshi",
-      "https://finwiki.zksc.io/JapanFG/ueda-yagi-tanshi",
+      "https://finwiki.zksc.io/financial-licenses/INDEX",
+      "https://finwiki.zksc.io/financial-regulators/boj-monetary-policy",
+      "https://finwiki.zksc.io/financial-regulators/central-tanshi",
+      "https://finwiki.zksc.io/financial-regulators/tokyo-tanshi",
+      "https://finwiki.zksc.io/financial-regulators/ueda-yagi-tanshi",
       "https://finwiki.zksc.io/money-market/INDEX",
       "https://finwiki.zksc.io/money-market/boj-open-market-operations",
       "https://finwiki.zksc.io/money-market/call-market-structure"
@@ -76,9 +76,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3654,
-    "word_like_tokens": 579,
+    "nonspace_chars": 3744,
+    "word_like_tokens": 585,
     "inbound_wikilinks_count": 47,
-    "last_modified": "2026-05-21"
+    "last_modified": "2026-06-04"
   }
 }

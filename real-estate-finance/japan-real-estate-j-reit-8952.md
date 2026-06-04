@@ -48,8 +48,8 @@ This entry sits under [[real-estate-finance/INDEX|real-estate-finance index]] as
 | Sponsor | [[real-estate-finance/mitsubishi-estate-financing-model|Mitsubishi Estate]] (TSE Prime 8802) |
 | Listing date | September 2001 (co-first-listed alongside NBF) |
 | Asset focus | Office buildings — Tokyo CBD core with strong Marunouchi anchor |
-| Asset administration trustee | Trust-bank trustee — [[JapanFG/mitsubishi-ufj-trust-bank|MUFG Trust]] / [[JapanFG/sumitomo-mitsui-trust|SMTB]] / [[JapanFG/mizuho-trust-bank|Mizuho Trust]] varies by property |
-| Rating | High investment-grade by [[JapanFG/jcr|JCR]] / [[JapanFG/rating-and-investment|R&I]]; AA-zone domestic rating typical |
+| Asset administration trustee | Trust-bank trustee — [[trust-banks/mitsubishi-ufj-trust-bank|MUFG Trust]] / [[trust-banks/sumitomo-mitsui-trust|SMTB]] / [[trust-banks/mizuho-trust-bank|Mizuho Trust]] varies by property |
+| Rating | High investment-grade by [[financial-regulators/jcr|JCR]] / [[financial-regulators/rating-and-investment|R&I]]; AA-zone domestic rating typical |
 | Index inclusion | TSE REIT Index, TSE REIT Office Index, GPR / FTSE EPRA Nareit Developed Asia |
 
 ## 2. Portfolio composition
@@ -70,7 +70,7 @@ The Marunouchi anchor is the most distinctive feature: very few other listed J-R
 | Item | JRE pattern |
 |---|---|
 | LTV policy band | Conservative — typically low-to-mid 40% zone |
-| Debt mix | Bank loans (megabank + trust-bank syndicate, frequently led by [[JapanFG/mufg-bank|MUFG Bank]] given the Mitsubishi-group affiliation) plus public investment-corporation bonds |
+| Debt mix | Bank loans (megabank + trust-bank syndicate, frequently led by [[megabanks/mufg-bank|MUFG Bank]] given the Mitsubishi-group affiliation) plus public investment-corporation bonds |
 | Bond curve | AA-zone domestic-rating tight spreads; benchmark issuance for office-J-REIT segment alongside NBF |
 | Sponsor support stake | Mitsubishi Estate retains a sponsor-support unit-holder stake (single-digit percent typical) |
 | Distribution policy | Semi-annual DPU; J-REIT 90% pass-through |
@@ -105,7 +105,7 @@ Both names compete head-on for investment-corporation-bond issuance, foreign-inv
 
 Marunouchi is a distinct Tokyo office sub-market with several structural features:
 
-- Concentration of megabank headquarters ([[JapanFG/mufg-bank|MUFG Bank]], [[JapanFG/mizuho-bank|Mizuho Bank]] HQ in adjacent Otemachi), large life-insurer headquarters, and major Japanese corporate HQs.
+- Concentration of megabank headquarters ([[megabanks/mufg-bank|MUFG Bank]], [[megabanks/mizuho-bank|Mizuho Bank]] HQ in adjacent Otemachi), large life-insurer headquarters, and major Japanese corporate HQs.
 - Effectively single-landlord ownership pattern around the Marunouchi anchor estate (Mitsubishi Estate is dominant).
 - Cap-rate behavior often tighter than broader Tokyo CBD given trophy-asset characteristics.
 - Tenant retention rate structurally high due to address prestige and clustering effects.
@@ -130,7 +130,7 @@ JRE's exposure to these features makes its NAV and DPU more directly sensitive t
 - [[real-estate-finance/j-reit-dividend-yield-vs-jgb-spread|J-REIT dividend yield vs JGB spread]]
 - [[real-estate-finance/logistics-j-reit-vs-office-j-reit-asset-class-comparison|logistics J-REIT vs office J-REIT comparison]]
 - [[banking/trust-bank-custody-operating-comparison|trust bank custody operating comparison]]
-- [[JapanFG/mufg-bank|MUFG Bank]]
+- [[megabanks/mufg-bank|MUFG Bank]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

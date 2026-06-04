@@ -25,13 +25,13 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[business/INDEX|business INDEX]] as a public-company strategic case. Read it against [[business/rakuten-group-mobile-finance-bundling-case|Rakuten Group mobile-finance bundling case]] for the inverse-direction cross-subsidy pattern (finance subsidizes mobile vs telco subsidizes finance), [[business/gmo-internet-group|GMO Internet Group]] for an internet-to-finance conglomerate contrast, and [[JapanFG/paypay-fg|PayPay FG]] for the SoftBank-side parallel. Pair with [[JapanFG/INDEX|JapanFG INDEX]] and [[payments/cashless-jp-landscape|payments INDEX]].
+This entry sits under [[business/INDEX|business INDEX]] as a public-company strategic case. Read it against [[business/rakuten-group-mobile-finance-bundling-case|Rakuten Group mobile-finance bundling case]] for the inverse-direction cross-subsidy pattern (finance subsidizes mobile vs telco subsidizes finance), [[business/gmo-internet-group|GMO Internet Group]] for an internet-to-finance conglomerate contrast, and [[megabanks/paypay-fg|PayPay FG]] for the SoftBank-side parallel. Pair with [[JapanFG/INDEX|JapanFG INDEX]] and [[payments/cashless-jp-landscape|payments INDEX]].
 
 ## TL;DR
 
 NTT Docomo (subsidiary of NTT Corp 9432, fully wholly-owned post-2020 TOB) operates the **d-Point / d-Card / d-Barai** financial-services stack as a **distribution channel for finance products to its mobile subscriber base** (~85mn d-Point members nationally). The 2024 SMBC strategic tie-up — under which SMBC subscribes to billions in Docomo financial-subsidiary stakes — formalized the inverse-Rakuten pattern: the telco provides distribution + subscriber data, the megabank provides balance sheet + product expertise + regulatory know-how.
 
-The architectural insight: rather than building a full FG inside the telco (Rakuten's path), Docomo positions the mobile subscription as the customer-acquisition layer and partners with [[JapanFG/smfg|SMFG]] / SMBC for the regulated-balance-sheet layer. This is a **telco-as-channel + bank-as-balance-sheet** division of labor, not vertical integration.
+The architectural insight: rather than building a full FG inside the telco (Rakuten's path), Docomo positions the mobile subscription as the customer-acquisition layer and partners with [[megabanks/smfg|SMFG]] / SMBC for the regulated-balance-sheet layer. This is a **telco-as-channel + bank-as-balance-sheet** division of labor, not vertical integration.
 
 ## 1. Pre-Tie-Up Docomo Finance Stack
 
@@ -47,7 +47,7 @@ Pre-tie-up, Docomo had distribution and brand but lacked bank-grade balance shee
 
 ## 2. The 2024 SMBC Strategic Tie-Up
 
-In 2024, Docomo and [[JapanFG/smfg|SMFG]] (via SMBC) announced a strategic alliance under which SMBC took economic interests in Docomo's financial subsidiaries / product lines, including planned investment in d-Card-related entities and combined distribution agreements.
+In 2024, Docomo and [[megabanks/smfg|SMFG]] (via SMBC) announced a strategic alliance under which SMBC took economic interests in Docomo's financial subsidiaries / product lines, including planned investment in d-Card-related entities and combined distribution agreements.
 
 Key features:
 
@@ -80,8 +80,8 @@ The mobile bill is the channel. The bank balance sheet is the back-end.
 |---|---|---|---|---|
 | **NTT Docomo** | Docomo (NTT 9432) | d-Point / d-Barai / d-Card | Telco → Finance | SMBC (2024 tie-up) |
 | **KDDI / au** | au (KDDI 9433) | au PAY / au Jibun Bank / au Insurance | Telco → Finance | MUFG (au Jibun Bank JV) |
-| **SoftBank** | SoftBank (9434) | [[JapanFG/paypay-fg|PayPay FG]], PayPay Bank, PayPay Card | Telco → Finance | (Internal PayPay FG) |
-| **Rakuten** | [[JapanFG/rakuten-fg|Rakuten Mobile]] | Card / Bank / Securities / Insurance | Finance → Telco (inverse) — see [[business/rakuten-group-mobile-finance-bundling-case|Rakuten case]] | Mizuho (Securities partial sale 2023) |
+| **SoftBank** | SoftBank (9434) | [[megabanks/paypay-fg|PayPay FG]], PayPay Bank, PayPay Card | Telco → Finance | (Internal PayPay FG) |
+| **Rakuten** | [[payment-firms/rakuten-fg|Rakuten Mobile]] | Card / Bank / Securities / Insurance | Finance → Telco (inverse) — see [[business/rakuten-group-mobile-finance-bundling-case|Rakuten case]] | Mizuho (Securities partial sale 2023) |
 | **GMO Internet** | (no mobile) | [[business/gmo-internet-group|GMO Internet Group]] payment / bank / FX / crypto | Internet infra → Finance | Aozora (Net Bank JV) |
 
 Docomo's distinction: largest telco subscriber base, latest to fully formalize bank partnership, and the only one explicitly going **partner-led rather than build-led** for the bank layer.
@@ -99,7 +99,7 @@ For **SMFG / SMBC**:
 
 - Access to 80mn+ Docomo subscriber distribution
 - Credit-card transaction volume growth in increasingly cashless economy
-- Defensive positioning vs Rakuten Card / [[JapanFG/paypay-card|PayPay Card]] / au PAY
+- Defensive positioning vs Rakuten Card / [[card-issuers/paypay-card|PayPay Card]] / au PAY
 - Hedge against megabank-direct-distribution decline as digital channels dominate
 
 For **NTT Corp parent**:
@@ -115,7 +115,7 @@ For **NTT Corp parent**:
 | Source of operating profit | Telco subscriber base | Card / Bank / Securities |
 | Destination of subsidy / capex | Finance product distribution | Mobile network buildout |
 | Bank balance sheet | Partner (SMBC) | Owned ([[JapanFG/rakuten-bank|Rakuten Bank]]) |
-| Securities | Partner (limited build) | Owned ([[JapanFG/rakuten-securities|Rakuten Securities]], partial sold to Mizuho) |
+| Securities | Partner (limited build) | Owned ([[securities-firms/rakuten-securities|Rakuten Securities]], partial sold to Mizuho) |
 | Capex profile | Light (no network build for finance) | Heavy (mobile network) |
 | Conglomerate-discount risk | Low | High |
 | Cross-subsidy break-risk | None (no loss-making subsidiary) | High (mobile loss persistent) |
@@ -145,10 +145,10 @@ The Docomo model is structurally more defensible because no subsidiary is loss-m
 - [[business/gmo-internet-group|GMO Internet Group]]
 - [[business/sony-fg-partial-spinoff-case|Sony FG partial spinoff case]]
 - [[business/kitao-yoshitaka-sbi-independent-strategy-case|Kitao Yoshitaka SBI independent strategy]]
-- [[JapanFG/smfg|SMFG]]
-- [[JapanFG/paypay-fg|PayPay FG]]
-- [[JapanFG/mufg|MUFG]]
-- [[JapanFG/rakuten-fg|Rakuten FG]]
+- [[megabanks/smfg|SMFG]]
+- [[megabanks/paypay-fg|PayPay FG]]
+- [[megabanks/mufg|MUFG]]
+- [[payment-firms/rakuten-fg|Rakuten FG]]
 - [[payments/cashless-jp-landscape|Japan cashless payment landscape]]
 - [[fintech/ai-payment-two-tracks|AI payment two tracks]]
 - [[corporate-strategy/partial-spinoff-tax-deferral|partial spinoff tax deferral]]

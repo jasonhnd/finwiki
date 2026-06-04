@@ -1,0 +1,85 @@
+{
+  "schema_version": "1.0",
+  "slug": "life-insurers/lifenet",
+  "source_path": "life-insurers/lifenet.md",
+  "url": "https://finwiki.zksc.io/life-insurers/lifenet",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/life-insurers/lifenet.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/life-insurers/lifenet.md",
+  "domain": "life-insurers",
+  "title": "ライフネット生命保険 (LifeNet Insurance)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "ライフネット生命保険 (LifeNet Insurance)",
+    "aliases": [
+      "ライフネット生命",
+      "LifeNet",
+      "LifeNet Insurance",
+      "ライフネット生命保険株式会社",
+      "7157"
+    ],
+    "domain": "life-insurers",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "life-insurance",
+      "internet"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: ライフネット生命保険 (2026-05-19 抽出、公開情報のみ)",
+      "東証グロース 上場会社情報 (証券コード 7157)"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 第一ライフグループ / 旧 第一生命 HD for peer / contrast context and insurance index for the broader system / regulatory boundary.",
+  "headings": [
+    "ライフネット生命保険 (LifeNet Insurance)",
+    "Wiki route",
+    "TL;DR",
+    "1. 会社概要",
+    "主要株主",
+    "創業者・経営陣（沿革）",
+    "2. 事業セグメント・マップ",
+    "チャネル・契約フロー",
+    "コア戦略",
+    "沿革"
+  ],
+  "body_links": {
+    "wikilinks_count": 10,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "au-fh",
+      "insurance/INDEX",
+      "insurance/internet-life-insurance-business-model",
+      "life-insurers/dai-ichi-life",
+      "mizuho-fg",
+      "mufg",
+      "paypay-fg",
+      "sbi-hd",
+      "smfg"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/au-fh",
+      "https://finwiki.zksc.io/insurance/INDEX",
+      "https://finwiki.zksc.io/insurance/internet-life-insurance-business-model",
+      "https://finwiki.zksc.io/life-insurers/dai-ichi-life",
+      "https://finwiki.zksc.io/mizuho-fg",
+      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/paypay-fg",
+      "https://finwiki.zksc.io/sbi-hd",
+      "https://finwiki.zksc.io/smfg"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3630,
+    "word_like_tokens": 543,
+    "inbound_wikilinks_count": 17,
+    "last_modified": "2026-06-04"
+  }
+}

@@ -12,13 +12,13 @@ translated_at: 2026-05-31T03:19:56.402Z
 
 ## Wiki route
 
-本条位于 [[banking/INDEX|banking index]]，是 [[JapanFG/ui-bank|UI Bank entity anchor]] 的运营概况配套页。可结合 [[banking/japan-net-bank-competition-map|Japan net bank competition map]] 阅读，并与区域数字银行同业 [[banking/minna-bank-baas-model|Minna Bank BaaS model]]、[[JapanFG/01-bank|01 Bank]] 对照；也可结合母集团 [[JapanFG/kiraboshi-fg|Tokyo Kiraboshi FG]]、[[JapanFG/kiraboshi-bank|Kiraboshi Bank]]，以及生态系网络银行 [[banking/rakuten-bank|Rakuten Bank]]、[[banking/paypay-bank|PayPay Bank]]、[[banking/au-jibun-bank|au Jibun Bank]]、[[banking/sony-bank|Sony Bank]]，理解更广泛的智能手机优先银行分发模式。区域集团数字化战略层面可配合 [[banking/regional-bank-api-digital-partnership-route|regional bank API digital partnership route]] 阅读。
+本条位于 [[banking/INDEX|banking index]]，是 [[regional-banks/ui-bank|UI Bank entity anchor]] 的运营概况配套页。可结合 [[banking/japan-net-bank-competition-map|Japan net bank competition map]] 阅读，并与区域数字银行同业 [[banking/minna-bank-baas-model|Minna Bank BaaS model]]、[[regional-banks/01-bank|01 Bank]] 对照；也可结合母集团 [[regional-banks/kiraboshi-fg|Tokyo Kiraboshi FG]]、[[regional-banks/kiraboshi-bank|Kiraboshi Bank]]，以及生态系网络银行 [[banking/rakuten-bank|Rakuten Bank]]、[[banking/paypay-bank|PayPay Bank]]、[[banking/au-jibun-bank|au Jibun Bank]]、[[banking/sony-bank|Sony Bank]]，理解更广泛的智能手机优先银行分发模式。区域集团数字化战略层面可配合 [[banking/regional-bank-api-digital-partnership-route|regional bank API digital partnership route]] 阅读。
 
 ## TL;DR
 
-UI Bank（UI Bank Co., Ltd.）是 [[JapanFG/kiraboshi-fg|Tokyo Kiraboshi FG]] 旗下以智能手机为核心入口的数字银行子公司，于 **2022-01-04** 开业，作为集团的独立数字银行运作。其战略逻辑是：母体区域银行 [[JapanFG/kiraboshi-bank|Kiraboshi Bank]] 负责以东京为中心的网点银行业务，而 UI Bank 则承接传统网点网络无法高效覆盖的全国性、纯手机客户旅程。
+UI Bank（UI Bank Co., Ltd.）是 [[regional-banks/kiraboshi-fg|Tokyo Kiraboshi FG]] 旗下以智能手机为核心入口的数字银行子公司，于 **2022-01-04** 开业，作为集团的独立数字银行运作。其战略逻辑是：母体区域银行 [[regional-banks/kiraboshi-bank|Kiraboshi Bank]] 负责以东京为中心的网点银行业务，而 UI Bank 则承接传统网点网络无法高效覆盖的全国性、纯手机客户旅程。
 
-UI Bank 与 [[banking/minna-bank-baas-model|Minna Bank]]（[[JapanFG/fukuoka-fg|Fukuoka FG]]）及 [[JapanFG/01-bank|01 Bank]]（[[JapanFG/saitama-resona-bank|Saitama Resona]] / Resona 集团）并列，是少数具有代表性的区域集团数字银行。三者架构不同：Minna Bank 偏重 BaaS 合作方渠道分发，01 Bank 偏重 Resona 集团内部交叉销售，UI Bank 则强调具备 API 连接能力的、以智能手机为中心的生活伙伴型金融 UX。
+UI Bank 与 [[banking/minna-bank-baas-model|Minna Bank]]（[[regional-banks/fukuoka-fg|Fukuoka FG]]）及 [[regional-banks/01-bank|01 Bank]]（[[megabanks/saitama-resona-bank|Saitama Resona]] / Resona 集团）并列，是少数具有代表性的区域集团数字银行。三者架构不同：Minna Bank 偏重 BaaS 合作方渠道分发，01 Bank 偏重 Resona 集团内部交叉销售，UI Bank 则强调具备 API 连接能力的、以智能手机为中心的生活伙伴型金融 UX。
 
 自 2022 年开业以来，UI Bank 存款余额稳步增长，但截至 2025-03-31 仍低于 1 万亿日元（约 `0.7 trillion / 6,952億円`），较生态系网络银行同业明显更小（同日 [[banking/rakuten-bank|Rakuten Bank]] `11.5tn` / [[banking/paypay-bank|PayPay Bank]] `1.9tn` / [[banking/au-jibun-bank|au Jibun Bank]] `4tn+`）。其战术定位强调通过单一移动优先 UX 层整合银行、储蓄、支付与生活服务。
 
@@ -30,8 +30,8 @@ UI Bank 与 [[banking/minna-bank-baas-model|Minna Bank]]（[[JapanFG/fukuoka-fg|
 | 英文名 | UI Bank Co., Ltd. |
 | 开业时间 | 2022-01-04 |
 | 银行牌照类别 | 《银行法》下的普通银行（ordinary bank），在 FSA 分类中归入“other banks” |
-| 母公司 | [[JapanFG/kiraboshi-fg|Tokyo Kiraboshi FG]]（100%） |
-| 姐妹银行 | [[JapanFG/kiraboshi-bank|Kiraboshi Bank]] - 集团主要区域银行（以东京为中心） |
+| 母公司 | [[regional-banks/kiraboshi-fg|Tokyo Kiraboshi FG]]（100%） |
+| 姐妹银行 | [[regional-banks/kiraboshi-bank|Kiraboshi Bank]] - 集团主要区域银行（以东京为中心） |
 | 总部 | 东京 |
 | 渠道结构 | 智能手机 App + Web；无实体网点 |
 | 主要监管机构 | 金融厅 / FSA |
@@ -80,9 +80,9 @@ UI Bank 开业初期以存款业务为先，之后逐步扩展零售贷款产品
 
 ### 三家区域数字银行对比
 
-| 维度 | UI Bank（本条） | [[banking/minna-bank-baas-model|Minna Bank]] | [[JapanFG/01-bank|01 Bank]] |
+| 维度 | UI Bank（本条） | [[banking/minna-bank-baas-model|Minna Bank]] | [[regional-banks/01-bank|01 Bank]] |
 |---|---|---|---|
-| 母集团 | [[JapanFG/kiraboshi-fg|Tokyo Kiraboshi FG]] | [[JapanFG/fukuoka-fg|Fukuoka FG]] | [[JapanFG/resona-hd|Resona HD]] / [[JapanFG/saitama-resona-bank|Saitama Resona]] |
+| 母集团 | [[regional-banks/kiraboshi-fg|Tokyo Kiraboshi FG]] | [[regional-banks/fukuoka-fg|Fukuoka FG]] | [[megabanks/resona-hd|Resona HD]] / [[megabanks/saitama-resona-bank|Saitama Resona]] |
 | 开业 | 2022-01 | 2021-05 | 较晚推出 |
 | 渠道结构 | 智能手机 + Web | BaaS 合作方旅程 + 自有 App | Resona 集团交叉销售 + 自有 App |
 | 战略主轴 | 手机优先生活伙伴型银行 + API | 完整 BaaS - 由合作品牌拥有客户旅程 | 集团客户数字补充平台 |
@@ -127,11 +127,11 @@ UI Bank 通过 Kiraboshi FG 的 IR 资料及自身披露材料发布选择性的
 - [[banking/rakuten-bank]]
 - [[banking/paypay-bank]]
 - [[banking/au-jibun-bank]]
-- [[JapanFG/ui-bank]]
-- [[JapanFG/kiraboshi-fg]]
-- [[JapanFG/kiraboshi-bank]]
-- [[JapanFG/01-bank]]
-- [[JapanFG/legal-financial-licenses/bank-license-and-baas-boundary]]
+- [[regional-banks/ui-bank]]
+- [[regional-banks/kiraboshi-fg]]
+- [[regional-banks/kiraboshi-bank]]
+- [[regional-banks/01-bank]]
+- [[financial-licenses/bank-license-and-baas-boundary]]
 
 ## Sources
 

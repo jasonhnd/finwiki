@@ -29,7 +29,7 @@ sources:
 
 Merchant bank-account direct acquiring is the merchant-side reading of [[payments/account-to-account-payment-japan|Japan account-to-account payment route]]. Bank Pay and J-Debit can look like ordinary QR / debit acceptance at checkout, but the control surface is different from card acquiring, prepaid wallets, and funds-transfer wallets: the payment starts from a bank account, merchant onboarding involves Bank Pay / J-Debit participant rules, and operational risk centers on account authentication, refund handling, registration screening, system connectivity, and settlement.
 
-Use this page with [[payments/INDEX|payments domain]], [[payments/card-acquiring-japan-stack|Japan card acquiring stack]], [[payments/psp-merchant-settlement-risk|PSP merchant settlement risk]], [[payments/funds-transfer-vs-prepaid-boundary|funds transfer vs prepaid boundary]], and [[JapanFG/legal-financial-licenses/INDEX|JapanFG legal / financial licenses]].
+Use this page with [[payments/INDEX|payments domain]], [[payments/card-acquiring-japan-stack|Japan card acquiring stack]], [[payments/psp-merchant-settlement-risk|PSP merchant settlement risk]], [[payments/funds-transfer-vs-prepaid-boundary|funds transfer vs prepaid boundary]], and [[financial-licenses/INDEX|JapanFG legal / financial licenses]].
 
 ## Merchant Route Map
 
@@ -77,10 +77,10 @@ The Bank Pay guideline further defines connection providers and re-connection pr
 
 ## JapanFG Relevance
 
-- [[JapanFG/mufg-bank|MUFG Bank]], [[JapanFG/sumitomo-mitsui-banking-corp|SMBC]], [[JapanFG/mizuho-bank|Mizuho Bank]], and [[JapanFG/resona-bank|Resona Bank]] matter because account-direct payment depends on bank participation and clearing / settlement connectivity.
-- [[JapanFG/recruit-mufg-business|Recruit MUFG Business]] / COIN+ is routed through the merchant network and account-direct acquisition lens, not only as another QR wallet.
-- [[JapanFG/gmo-payment-gateway|GMO Payment Gateway]], [[JapanFG/gmo-epsilon|GMO Epsilon]], [[JapanFG/sb-payment-service|SB Payment Service]], [[JapanFG/dg-financial-technology|DGFT]], and [[JapanFG/netstars|Netstars]] are PSP / gateway pages to compare when account-direct acceptance is bundled with card, wallet, or code payment acceptance.
-- [[JapanFG/paypay|PayPay]], [[JapanFG/merpay|Merpay]], [[JapanFG/au-payment|au PAY]], and [[payments/japan-code-payment-competitive-map|code-payment competition]] remain separate because wallet economics and account-direct economics can look similar in QR form but differ legally and operationally.
+- [[megabanks/mufg-bank|MUFG Bank]], [[megabanks/sumitomo-mitsui-banking-corp|SMBC]], [[megabanks/mizuho-bank|Mizuho Bank]], and [[megabanks/resona-bank|Resona Bank]] matter because account-direct payment depends on bank participation and clearing / settlement connectivity.
+- [[payment-firms/recruit-mufg-business|Recruit MUFG Business]] / COIN+ is routed through the merchant network and account-direct acquisition lens, not only as another QR wallet.
+- [[payment-firms/gmo-payment-gateway|GMO Payment Gateway]], [[payment-firms/gmo-epsilon|GMO Epsilon]], [[payment-firms/sb-payment-service|SB Payment Service]], [[payment-firms/dg-financial-technology|DGFT]], and [[payment-firms/netstars|Netstars]] are PSP / gateway pages to compare when account-direct acceptance is bundled with card, wallet, or code payment acceptance.
+- [[payment-firms/paypay|PayPay]], [[payment-firms/merpay|Merpay]], [[payment-firms/au-payment|au PAY]], and [[payments/japan-code-payment-competitive-map|code-payment competition]] remain separate because wallet economics and account-direct economics can look similar in QR form but differ legally and operationally.
 
 ## Research Checklist
 
@@ -99,12 +99,12 @@ The Bank Pay guideline further defines connection providers and re-connection pr
 - [[payments/psp-merchant-settlement-risk]]
 - [[payments/funds-transfer-vs-prepaid-boundary]]
 - [[payments/japan-code-payment-competitive-map]]
-- [[JapanFG/recruit-mufg-business]]
-- [[JapanFG/gmo-payment-gateway]]
-- [[JapanFG/netstars]]
-- [[JapanFG/mufg-bank]]
-- [[JapanFG/sumitomo-mitsui-banking-corp]]
-- [[JapanFG/legal-financial-licenses/INDEX]]
+- [[payment-firms/recruit-mufg-business]]
+- [[payment-firms/gmo-payment-gateway]]
+- [[payment-firms/netstars]]
+- [[megabanks/mufg-bank]]
+- [[megabanks/sumitomo-mitsui-banking-corp]]
+- [[financial-licenses/INDEX]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

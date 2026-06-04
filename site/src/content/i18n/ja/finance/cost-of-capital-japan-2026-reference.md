@@ -108,7 +108,7 @@ OIS TONA カーブは短期金利構築において JPY LIBOR を置き換えた
 
 | セクター | 目安 WACC クラス（2026） |
 |---|---|
-| メガバンク（[[JapanFG/mufg|MUFG]] / [[JapanFG/smfg|SMFG]] / [[JapanFG/mizuho-fg|Mizuho FG]]） | 株式側 7-9% / グループ混合 4-6% |
+| メガバンク（[[megabanks/mufg|MUFG]] / [[megabanks/smfg|SMFG]] / [[megabanks/mizuho-fg|Mizuho FG]]） | 株式側 7-9% / グループ混合 4-6% |
 | 総合商社（[[finance/japan-cross-shareholding-unwinding-economics|cross-shareholding-heavy]]） | 6-8% |
 | 通信（例: NTT、KDDI） | 5-7% |
 | 上場不動産デベロッパー | 5-7% |

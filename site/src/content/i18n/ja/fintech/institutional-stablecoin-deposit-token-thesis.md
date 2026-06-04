@@ -24,7 +24,7 @@ translated_at: 2026-06-02T13:21:55.055Z
 
 | 観点 | リテール SC（USDC 等） | 機関投資家 SC（預金トークン） |
 |---|---|---|
-| 発行体 | クリプト企業 | 銀行（[[fintech/jpmorgan-jpmd-coin|JPM]]・[[JapanFG/mufg|三菱 UFJ]]・[[JapanFG/smfg|三井住友]]等） |
+| 発行体 | クリプト企業 | 銀行（[[fintech/jpmorgan-jpmd-coin|JPM]]・[[megabanks/mufg|三菱 UFJ]]・[[megabanks/smfg|三井住友]]等） |
 | KYC | パーミッションレス | 銀行口座 KYC = 機関投資家グレード |
 | 規模 | 小口 | 200-300 億円単位 / 案件 |
 | 決済対象 | リテール送金・暗号資産取引 | 米国債、社債、レポ市場、有価証券、FX |

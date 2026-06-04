@@ -54,7 +54,7 @@ This entry sits under [[policy-finance/INDEX|policy-finance index]] as the indus
 
 The Association's published material is the principal openly-available source for:
 
-- **Local-bond market structure** as covered in [[policy-finance/local-government-bond-market|local government bond market]] and [[JapanFG/local-bond-market|JapanFG local-bond market]].
+- **Local-bond market structure** as covered in [[policy-finance/local-government-bond-market|local government bond market]] and [[financial-regulators/local-bond-market|JapanFG local-bond market]].
 - **Joint local government bond mechanics**, including jointly-and-severally-liable structure and pricing.
 - **Issuer-type breakdowns** (prefecture / designated city / ordinary city / town / village).
 - **Statistical aggregates** that pair with [[policy-finance/japan-finance-organization-municipalities|JFM]] lending data and MoF FILP statistics.
@@ -65,7 +65,7 @@ For [[policy-finance/japan-policy-finance-system|Japan policy finance system]] a
 
 | Layer | Role | FinWiki route |
 |---|---|---|
-| Issuer | Prefectures, designated cities, municipalities | [[JapanFG/local-govt-finance]] |
+| Issuer | Prefectures, designated cities, municipalities | [[financial-regulators/local-govt-finance]] |
 | Issuance arranger / underwriter | Megabanks, regional banks, securities firms | Bank / securities firm pages |
 | Public-credit lender | [[policy-finance/japan-finance-organization-municipalities|JFM]], FILP | Public-credit institution pages |
 | Industry association / documentation | Japan Local Government Bond Association | This page |
@@ -90,9 +90,9 @@ For [[policy-finance/japan-policy-finance-system|Japan policy finance system]] a
 - [[policy-finance/japan-policy-finance-system]]
 - [[policy-finance/local-government-bond-market]]
 - [[policy-finance/japan-finance-organization-municipalities]]
-- [[JapanFG/local-bond-market]]
-- [[JapanFG/local-govt-finance]]
-- [[JapanFG/jfc]]
+- [[financial-regulators/local-bond-market]]
+- [[financial-regulators/local-govt-finance]]
+- [[financial-regulators/jfc]]
 - [[money-market/INDEX]]
 - [[INDEX|FinWiki index]]
 

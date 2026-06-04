@@ -1,0 +1,109 @@
+{
+  "schema_version": "1.0",
+  "slug": "trading-company-finance/mitsui-bussan-financial-services",
+  "source_path": "trading-company-finance/mitsui-bussan-financial-services.md",
+  "url": "https://finwiki.zksc.io/trading-company-finance/mitsui-bussan-financial-services",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/trading-company-finance/mitsui-bussan-financial-services.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/trading-company-finance/mitsui-bussan-financial-services.md",
+  "domain": "trading-company-finance",
+  "title": "三井物産フィナンシャルサービス (Mitsui & Co. Financial Services)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "三井物産フィナンシャルサービス (Mitsui & Co. Financial Services)",
+    "aliases": [
+      "Mitsui & Co. Financial Services",
+      "三井物産フィナンシャルサービス",
+      "Mitsui Bussan Financial Services",
+      "MBFS",
+      "mitsui-bussan-financial-services"
+    ],
+    "domain": "trading-company-finance",
+    "created": "2026-05-24",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
+    "review_by": "2026-11-20",
+    "confidence": "possible",
+    "tags": [
+      "JapanFG",
+      "finance",
+      "trading-company-finance",
+      "mitsui-bussan",
+      "group-treasury",
+      "factoring",
+      "cms"
+    ],
+    "status": "active",
+    "sources": [
+      "三井物産 (8031) 有価証券報告書 (関係会社一覧)",
+      "三井物産 公式 IR / 統合報告書",
+      "公益社団法人リース事業協会 (JLA) https://www.leasing.or.jp/",
+      "EDINET 有価証券報告書検索"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 三菱商事フィナンシャルサービス (the closest peer trading-company group-treasury arm) and JA三井リース (the same-parent leasing arm, 三井物産系 + 農林中金 JV). For the broader peer set, see 丸紅フィナンス, 住友商事FM, 伊藤忠ファイナンス. The Mitsui-group banking side is SMBC under SMFG. See banki",
+  "headings": [
+    "三井物産フィナンシャルサービス (Mitsui & Co. Financial Services)",
+    "Wiki route",
+    "1. 会社概要",
+    "三井物産の金融機能配置",
+    "2. 事業セグメント・マップ",
+    "三井物産の事業構造と金融機能",
+    "競合 / Peer",
+    "4. 規制・政策",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 19,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "banking/INDEX",
+      "cooperative-banks/ja-mitsui-leasing",
+      "finance/japan-acquisition-finance",
+      "financial-regulators/boj-monetary-policy",
+      "leasing-firms/mitsubishi-hc-capital",
+      "leasing-firms/mizuho-lease",
+      "leasing-firms/smfl",
+      "leasing-firms/tokyo-century",
+      "megabanks/smfg",
+      "megabanks/sumitomo-mitsui-banking-corp",
+      "non-life-insurers/mitsui-sumitomo-insurance",
+      "trading-company-finance/itochu-finance",
+      "trading-company-finance/marubeni-financial-services",
+      "trading-company-finance/mitsubishi-corp-finance",
+      "trading-company-finance/sojitz-finance",
+      "trading-company-finance/sumitomo-corp-financial-management",
+      "trading-company-finance/toyota-tsusho-finance",
+      "trust-banks/smtb"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/cooperative-banks/ja-mitsui-leasing",
+      "https://finwiki.zksc.io/finance/japan-acquisition-finance",
+      "https://finwiki.zksc.io/financial-regulators/boj-monetary-policy",
+      "https://finwiki.zksc.io/leasing-firms/mitsubishi-hc-capital",
+      "https://finwiki.zksc.io/leasing-firms/mizuho-lease",
+      "https://finwiki.zksc.io/leasing-firms/smfl",
+      "https://finwiki.zksc.io/leasing-firms/tokyo-century",
+      "https://finwiki.zksc.io/megabanks/smfg",
+      "https://finwiki.zksc.io/megabanks/sumitomo-mitsui-banking-corp",
+      "https://finwiki.zksc.io/non-life-insurers/mitsui-sumitomo-insurance",
+      "https://finwiki.zksc.io/trading-company-finance/itochu-finance",
+      "https://finwiki.zksc.io/trading-company-finance/marubeni-financial-services",
+      "https://finwiki.zksc.io/trading-company-finance/mitsubishi-corp-finance",
+      "https://finwiki.zksc.io/trading-company-finance/sojitz-finance",
+      "https://finwiki.zksc.io/trading-company-finance/sumitomo-corp-financial-management",
+      "https://finwiki.zksc.io/trading-company-finance/toyota-tsusho-finance",
+      "https://finwiki.zksc.io/trust-banks/smtb"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 4193,
+    "word_like_tokens": 610,
+    "inbound_wikilinks_count": 10,
+    "last_modified": "2026-06-04"
+  }
+}

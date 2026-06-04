@@ -11,11 +11,11 @@ translated_at: 2026-06-03T00:53:08.268Z
 
 ## 要約
 
-日本の不動産プライベートクレジットは、[[real-estate-finance/bank-commercial-real-estate-lending-japan|bank CRE lending]]と並走する階層的なノンバンク金融市場である。この市場には二つの明確な投資経路がある。Blackstone、KKR、Apollo、Brookfield などの外国 GP 参入者が日本向けクロスボーダー不動産デット戦略を運用する経路と、[[JapanFG/dbj]]、[[JapanFG/mitsubishi-ufj-trust-bank]]、[[JapanFG/sumitomo-mitsui-trust]]、およびメガバンク系ファイナンス会社が国内バランスシート型のプライベートクレジットを運用する経路である。商品類型はブリッジ、メザニン、優先出資で、目標リターンはシニアストレッチ（低位から中位の一桁）から深い優先出資（十%台半ばから後半）まで段階的に上がる。このページは経路とリンクのみを目的とし、投資助言ではない。
+日本の不動産プライベートクレジットは、[[real-estate-finance/bank-commercial-real-estate-lending-japan|bank CRE lending]]と並走する階層的なノンバンク金融市場である。この市場には二つの明確な投資経路がある。Blackstone、KKR、Apollo、Brookfield などの外国 GP 参入者が日本向けクロスボーダー不動産デット戦略を運用する経路と、[[financial-regulators/dbj]]、[[trust-banks/mitsubishi-ufj-trust-bank]]、[[trust-banks/sumitomo-mitsui-trust]]、およびメガバンク系ファイナンス会社が国内バランスシート型のプライベートクレジットを運用する経路である。商品類型はブリッジ、メザニン、優先出資で、目標リターンはシニアストレッチ（低位から中位の一桁）から深い優先出資（十%台半ばから後半）まで段階的に上がる。このページは経路とリンクのみを目的とし、投資助言ではない。
 
 ## ウィキ上の位置づけ
 
-この項目は[[real-estate-finance/INDEX]]の配下に置かれ、[[real-estate-finance/bank-commercial-real-estate-lending-japan|bank CRE lending]]に対するノンバンク側の対応項目である。プライベートクレジット価格を枠づける資産側リターンフロアの背景は[[real-estate-finance/real-estate-cap-rate-compression-2026|cap-rate compression]]、J-REIT スポンサーのウェアハウス用途は[[real-estate-finance/j-reit-market-overview|J-REIT market overview]]、TK / GK-TK / TMK のストラクチャリング詳細は[[real-estate-finance/jrei-foreign-investment-tax-treatment|foreign-investment tax treatment]]、LTV / DSCR のアンダーライティング枠組みは[[real-estate-finance/japan-real-estate-appraisal-methodology|appraisal methodology]]、外国 GP エクイティ側の対応項目は[[real-estate-finance/j-reit-foreign-investor-ownership]]と併せて読む。国内金融のアンカーは[[JapanFG/dbj]]、[[JapanFG/mitsubishi-ufj-trust-bank]]、[[JapanFG/sumitomo-mitsui-trust]]である。メガバンク側の参照は[[JapanFG/mufg-bank]]、[[JapanFG/sumitomo-mitsui-banking-corp]]、[[JapanFG/mizuho-bank]]。PE / プライベートファイナンス規律は[[finance/japan-private-equity-operating-model]]と[[finance/japan-private-equity-fund-structure-matrix]]へ、より広いプライベートキャピタル経路は[[finance/INDEX|finance index]]へクロスリンクする。プライベートクレジットのリターンプレミアムに対する保険会社需要は、金利環境の背景である[[insurance/japan-life-insurance-alm-overview]]と[[money-market/japan-money-market]]を通じて読む。銀行システムの枠組みは[[banking/INDEX]]、地域銀行再編の文脈は[[banking/regional-bank-consolidation-pattern]]にある。
+この項目は[[real-estate-finance/INDEX]]の配下に置かれ、[[real-estate-finance/bank-commercial-real-estate-lending-japan|bank CRE lending]]に対するノンバンク側の対応項目である。プライベートクレジット価格を枠づける資産側リターンフロアの背景は[[real-estate-finance/real-estate-cap-rate-compression-2026|cap-rate compression]]、J-REIT スポンサーのウェアハウス用途は[[real-estate-finance/j-reit-market-overview|J-REIT market overview]]、TK / GK-TK / TMK のストラクチャリング詳細は[[real-estate-finance/jrei-foreign-investment-tax-treatment|foreign-investment tax treatment]]、LTV / DSCR のアンダーライティング枠組みは[[real-estate-finance/japan-real-estate-appraisal-methodology|appraisal methodology]]、外国 GP エクイティ側の対応項目は[[real-estate-finance/j-reit-foreign-investor-ownership]]と併せて読む。国内金融のアンカーは[[financial-regulators/dbj]]、[[trust-banks/mitsubishi-ufj-trust-bank]]、[[trust-banks/sumitomo-mitsui-trust]]である。メガバンク側の参照は[[megabanks/mufg-bank]]、[[megabanks/sumitomo-mitsui-banking-corp]]、[[megabanks/mizuho-bank]]。PE / プライベートファイナンス規律は[[finance/japan-private-equity-operating-model]]と[[finance/japan-private-equity-fund-structure-matrix]]へ、より広いプライベートキャピタル経路は[[finance/INDEX|finance index]]へクロスリンクする。プライベートクレジットのリターンプレミアムに対する保険会社需要は、金利環境の背景である[[insurance/japan-life-insurance-alm-overview]]と[[money-market/japan-money-market]]を通じて読む。銀行システムの枠組みは[[banking/INDEX]]、地域銀行再編の文脈は[[banking/regional-bank-consolidation-pattern]]にある。
 
 ## 商品スタック
 
@@ -74,9 +74,9 @@ translated_at: 2026-06-03T00:53:08.268Z
 
 | アンカー | 役割 |
 |---|---|
-| [[JapanFG/dbj]] | 政策連動のプロジェクトファイナンス、都市再開発ファイナンス、インフラファイナンスの主導、政策優先セクターでの選択的メザニン / 優先出資。 |
-| [[JapanFG/mitsubishi-ufj-trust-bank]] | 信託銀行の不動産信託スキームに、劣後バランスシート貸付と資産管理連携を組み合わせる。 |
-| [[JapanFG/sumitomo-mitsui-trust]] | 信託銀行の不動産信託スキームに劣後貸付を組み合わせる。大規模な不動産ファイナンスフランチャイズ。 |
+| [[financial-regulators/dbj]] | 政策連動のプロジェクトファイナンス、都市再開発ファイナンス、インフラファイナンスの主導、政策優先セクターでの選択的メザニン / 優先出資。 |
+| [[trust-banks/mitsubishi-ufj-trust-bank]] | 信託銀行の不動産信託スキームに、劣後バランスシート貸付と資産管理連携を組み合わせる。 |
+| [[trust-banks/sumitomo-mitsui-trust]] | 信託銀行の不動産信託スキームに劣後貸付を組み合わせる。大規模な不動産ファイナンスフランチャイズ。 |
 | メガバンク系ファイナンス会社 | MUFG、SMFG、Mizuho の専門ファイナンス子会社が、銀行のシニア貸付枠外で資本を投下する。 |
 | リース会社（ORIX、Mitsubishi HC Capital、Tokyo Century） | 中核のリースに加え、不動産クレジットとエクイティ共同投資プログラムを運営。 |
 | 保険会社系資産運用会社 | 親会社バランスシート配分のため、生命保険会社スポンサーの不動産クレジットプログラムを運営。 |
@@ -197,12 +197,12 @@ NIRP 後の正常化は、銀行のアンダーライティング厳格化とリ
 - [[finance/INDEX]]
 - [[finance/japan-private-equity-fund-structure-matrix]]
 - [[finance/japan-private-equity-operating-model]]
-- [[JapanFG/mufg-bank]]
-- [[JapanFG/sumitomo-mitsui-banking-corp]]
-- [[JapanFG/mizuho-bank]]
-- [[JapanFG/sumitomo-mitsui-trust]]
-- [[JapanFG/mitsubishi-ufj-trust-bank]]
-- [[JapanFG/dbj]]
+- [[megabanks/mufg-bank]]
+- [[megabanks/sumitomo-mitsui-banking-corp]]
+- [[megabanks/mizuho-bank]]
+- [[trust-banks/sumitomo-mitsui-trust]]
+- [[trust-banks/mitsubishi-ufj-trust-bank]]
+- [[financial-regulators/dbj]]
 - [[INDEX|FinWiki index]]
 
 ## 出典

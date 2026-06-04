@@ -24,7 +24,7 @@ translated_at: 2026-05-31T11:13:44.874Z
 |---|---|---|---|---|
 | 🇺🇸 美国合规 | USDC/美元1 / PYUSD / 欧元 | Arc / Tempo / Base / 以太坊 |[[fintech/genius-act-501-denylist-mandate|GENIUS Act §501]]|圆形/条纹/Coinbase/PayPal |
 | 🇪🇺 欧盟 |欧元/欧元稳定 |符合 MiCA 标准的链条 |[[fintech/mica-overview|MiCA]]艺术/急救 | Circle Ireland / 法国兴业银行 Forge / 万事达卡 MTN |
-| 🇯🇵 日本 | JPYC / XJPY / DCJPY | Progmat / 弧通道 / JPYC EPI |[[fintech/japan-epi-three-types-overview|改正資金決済法（EPI 三型）]] | [[JapanFG/mufg|三菱 UFJ]]/ SBI /[[JapanFG/jpyc|JPYC]]（[[stablecoin-channel-japan-sbi-jpyc-ring]]）|
+| 🇯🇵 日本 | JPYC / XJPY / DCJPY | Progmat / 弧通道 / JPYC EPI |[[fintech/japan-epi-three-types-overview|改正資金決済法（EPI 三型）]] | [[megabanks/mufg|三菱 UFJ]]/ SBI /[[payment-firms/jpyc|JPYC]]（[[stablecoin-channel-japan-sbi-jpyc-ring]]）|
 | 🇨🇳🇭🇰 中港 | e-CNY（オフチェーン）+ HKD-stable | 香港 sandbox + 円币科技 First Digital Trust |[[fintech/hkma-stablecoin-licensing-overview|HKMA 立法（2025-08）]]+ 中国人民银行 |蚂蚁国际/京东/渣打香港 |
 | 🌍 灰色 |泰达币 | Tron + 闪电 + 新频道 |规避各国法规| Tether（卢加诺）/Tron/Grey 支付处理器 |
 

@@ -24,7 +24,7 @@ NCD outstanding is one of the largest single short-term yen instrument balances 
 
 | Layer | Function | FinWiki route |
 |---|---|---|
-| Issuer | Deposit-taking banks issue NCDs in their own names; megabanks, trust banks, and regional banks all issue. | [[JapanFG/mufg]], [[JapanFG/smfg]], [[JapanFG/mizuho-fg]] |
+| Issuer | Deposit-taking banks issue NCDs in their own names; megabanks, trust banks, and regional banks all issue. | [[megabanks/mufg]], [[megabanks/smfg]], [[megabanks/mizuho-fg]] |
 | Dealer / placement | Securities firms and bank treasury desks place and market-make NCDs. | [[securities/japan-underwriting-market-structure]] |
 | Investor | Banks, asset managers, MRFs, corporate treasuries, insurance companies, and foreign investors hold NCDs. | [[money-market/japan-mmf-money-market-mutual-fund]] |
 | Secondary market | OTC dealer market; tanshi and bank treasury desks intermediate trading. | [[money-market/tanshi-company-business-model]] |
@@ -79,9 +79,9 @@ For banks, NCD issuance economics are now driven by whether the marginal cost of
 
 ## JapanFG Relevance
 
-- Issuer side: [[JapanFG/mufg]], [[JapanFG/smfg]], [[JapanFG/mizuho-fg]], trust banks under those groups, and regional banks captured in [[banking/INDEX|banking domain]] all issue NCDs.
-- Dealer side: [[JapanFG/mizuho-securities]], [[JapanFG/mufg-mums]], [[JapanFG/smbc-nikko]], [[JapanFG/nomura-hd]], and [[JapanFG/daiwa-sg]] participate in placement and secondary dealing.
-- Tanshi intermediation: [[JapanFG/tokyo-tanshi]], [[JapanFG/central-tanshi]], and [[JapanFG/ueda-yagi-tanshi]] provide brokerage that overlaps with NCD secondary-market activity.
+- Issuer side: [[megabanks/mufg]], [[megabanks/smfg]], [[megabanks/mizuho-fg]], trust banks under those groups, and regional banks captured in [[banking/INDEX|banking domain]] all issue NCDs.
+- Dealer side: [[securities-firms/mizuho-securities]], [[securities-firms/mufg-mums]], [[securities-firms/smbc-nikko]], [[securities-firms/nomura-hd]], and [[securities-firms/daiwa-sg]] participate in placement and secondary dealing.
+- Tanshi intermediation: [[financial-regulators/tokyo-tanshi]], [[financial-regulators/central-tanshi]], and [[financial-regulators/ueda-yagi-tanshi]] provide brokerage that overlaps with NCD secondary-market activity.
 
 ## Boundary Cases
 
@@ -109,13 +109,13 @@ For banks, NCD issuance economics are now driven by whether the marginal cost of
 - [[money-market/japan-tbill-treasury-discount-bill]]
 - [[money-market/japan-mmf-money-market-mutual-fund]]
 - [[money-market/boj-post-2024-floor-system-complementary-deposit-facility]]
-- [[JapanFG/boj-monetary-policy]]
-- [[JapanFG/mufg]]
-- [[JapanFG/smfg]]
-- [[JapanFG/mizuho-fg]]
-- [[JapanFG/tokyo-tanshi]]
-- [[JapanFG/central-tanshi]]
-- [[JapanFG/ueda-yagi-tanshi]]
+- [[financial-regulators/boj-monetary-policy]]
+- [[megabanks/mufg]]
+- [[megabanks/smfg]]
+- [[megabanks/mizuho-fg]]
+- [[financial-regulators/tokyo-tanshi]]
+- [[financial-regulators/central-tanshi]]
+- [[financial-regulators/ueda-yagi-tanshi]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

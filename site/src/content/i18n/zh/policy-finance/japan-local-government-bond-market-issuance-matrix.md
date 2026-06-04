@@ -153,7 +153,7 @@ translated_at: 2026-06-01T03:31:12.328Z
 
 ### Channel 1 — Direct public-offering (市场公募地方债)
 
-向广泛的投资者市场直接首次发行。结构上可用于东京都、主要都道府县和最大的指定城市。承销商是以银团形式运营的证券公司（野村证券、大和证券、SMBC Nikko、瑞穗证券、三菱日联摩根士丹利）。投资者为国内银行、人寿保险公司、养老基金、区域银行、[[JapanFG/norinchukin|農林中央金庫]] / [[JapanFG/shinkin-central|信金中金]]系统、境外机构持有人（仅限基准发行人）。与日本国债的利差是主要定价参考；根据 10y JGB 基准设置的优惠券。
+向广泛的投资者市场直接首次发行。结构上可用于东京都、主要都道府县和最大的指定城市。承销商是以银团形式运营的证券公司（野村证券、大和证券、SMBC Nikko、瑞穗证券、三菱日联摩根士丹利）。投资者为国内银行、人寿保险公司、养老基金、区域银行、[[cooperative-banks/norinchukin|農林中央金庫]] / [[cooperative-banks/shinkin-central|信金中金]]系统、境外机构持有人（仅限基准发行人）。与日本国债的利差是主要定价参考；根据 10y JGB 基准设置的优惠券。
 
 ### Channel 2 — Joint local-government bond (共同発行市场公募地方债)
 
@@ -188,7 +188,7 @@ translated_at: 2026-06-01T03:31:12.328Z
 - **国内银行 ([[banking/INDEX|banking sector]])。** 大型银行、[[banking/regional-bank-consolidation-pattern|regional banks]]、第二地区银行、信用社、信用合作社。地区银行持有大量本地债券，作为其投资组合多元化的一部分，远离日本国债。 [[banking/INDEX|banking-domain]] 持有者群体是最大的单一投资者群体。
 - **人寿保险和养老基金。** 对高等级日元计价公共信贷的长期需求；长期公开发行地方债券和[[policy-finance/japan-finance-organization-municipalities|JFM]]债券的大型机构持有者。
 - **公共养老金和 GPIF/公共基金。** 持有大量分配给 JGB 的资金，并有选择地分配给 JFM 债券和基准地方债券。
-- **合作银行顶级机构。** [[JapanFG/norinchukin|農林中央金庫]]、[[JapanFG/shinkin-central|信金中金]]、Rokinren、Zenshin Union 持有重大公共信贷日元风险敞口，包括地方债券和 JFM 债券。
+- **合作银行顶级机构。** [[cooperative-banks/norinchukin|農林中央金庫]]、[[cooperative-banks/shinkin-central|信金中金]]、Rokinren、Zenshin Union 持有重大公共信贷日元风险敞口，包括地方债券和 JFM 债券。
 - **外国机构持有人。** 集中于东京都债券、JFM 债券（包括以外币计价的发行），并选择性地关注最大的指定县和指定城市发行人（大阪、爱知、神奈川、横滨、名古屋）。小发行人债券和大部分联合发行债券基本上都是国内持有的。
 - **散户投资者。** 东京都政府和选定的其他发行人运行针对居民的散户债券系列。本地债券发行总量中的零售份额虽然不大，但对于发行人的知名度具有结构性意义。
 
@@ -236,8 +236,8 @@ translated_at: 2026-06-01T03:31:12.328Z
 - [[money-market/japan-money-market|Japan money market]]
 - [[finance/INDEX|finance index]]
 - [[finance/japan-listed-financial-groups-investable-universe|Japanese listed financial groups]]
-- [[JapanFG/local-bond-market|JapanFG local-bond market]]
-- [[JapanFG/local-govt-finance|JapanFG local-government finance corporate-history]]
+- [[financial-regulators/local-bond-market|JapanFG local-bond market]]
+- [[financial-regulators/local-govt-finance|JapanFG local-government finance corporate-history]]
 - [[INDEX|FinWiki index]]
 
 ## 来源

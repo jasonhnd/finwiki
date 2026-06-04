@@ -47,8 +47,6 @@
   "body_links": {
     "wikilinks_count": 12,
     "wikilinks": [
-      "JapanFG/monex-group",
-      "JapanFG/rakuten-fg",
       "exchanges/INDEX",
       "exchanges/fsa-vasp-registration-system",
       "exchanges/jp-cex-deposit-token-stablecoin-integration",
@@ -58,11 +56,11 @@
       "exchanges/jp-exchange-mercoin",
       "exchanges/jp-exchange-rakuten-wallet",
       "exchanges/jp-vasp-parent-company-map",
-      "fintech/japan-stablecoin-regulatory-landscape"
+      "fintech/japan-stablecoin-regulatory-landscape",
+      "payment-firms/rakuten-fg",
+      "securities-firms/monex-group"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/monex-group",
-      "https://finwiki.zksc.io/JapanFG/rakuten-fg",
       "https://finwiki.zksc.io/exchanges/INDEX",
       "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
       "https://finwiki.zksc.io/exchanges/jp-cex-deposit-token-stablecoin-integration",
@@ -72,15 +70,17 @@
       "https://finwiki.zksc.io/exchanges/jp-exchange-mercoin",
       "https://finwiki.zksc.io/exchanges/jp-exchange-rakuten-wallet",
       "https://finwiki.zksc.io/exchanges/jp-vasp-parent-company-map",
-      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape"
+      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
+      "https://finwiki.zksc.io/payment-firms/rakuten-fg",
+      "https://finwiki.zksc.io/securities-firms/monex-group"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2133,
-    "word_like_tokens": 341,
+    "nonspace_chars": 2148,
+    "word_like_tokens": 343,
     "inbound_wikilinks_count": 6,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-06-04"
   }
 }

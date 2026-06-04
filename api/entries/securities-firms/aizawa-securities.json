@@ -1,0 +1,93 @@
+{
+  "schema_version": "1.0",
+  "slug": "securities-firms/aizawa-securities",
+  "source_path": "securities-firms/aizawa-securities.md",
+  "url": "https://finwiki.zksc.io/securities-firms/aizawa-securities",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/securities-firms/aizawa-securities.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/securities-firms/aizawa-securities.md",
+  "domain": "securities-firms",
+  "title": "アイザワ証券 (Aizawa Securities)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "アイザワ証券 (Aizawa Securities)",
+    "aliases": [
+      "Aizawa Securities",
+      "アイザワ証券",
+      "アイザワ証券株式会社",
+      "藍澤證券",
+      "Aizawa Securities Co., Ltd."
+    ],
+    "domain": "securities-firms",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "securities",
+      "independent",
+      "asia-emerging",
+      "FIEA-type-1"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.aizawa.co.jp/company/profile/",
+      "https://www.aizawa.co.jp/company/history/",
+      "https://www.aizawa-sg.co.jp/company/outline.html",
+      "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against アイザワ証券グループ for parent holding context, 岩井コスモ証券 / 東海東京証券 / 岡三証券グループ for peer mid-tier independent securities, and securities index for the broader market-structure boundary.",
+  "headings": [
+    "アイザワ証券 (Aizawa Securities)",
+    "Wiki route",
+    "TL;DR",
+    "1. 法人・株主",
+    "2. ライセンス・登録",
+    "3. 営業基盤",
+    "4. 業務セグメント",
+    "5. 親会社・グループ関係",
+    "6. 競合・業界ポジション",
+    "7. 戦略・最近の動向"
+  ],
+  "body_links": {
+    "wikilinks_count": 12,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "securities-firms/aizawa-sg",
+      "securities-firms/iwai-cosmo-securities",
+      "securities-firms/marusan-securities",
+      "securities-firms/matsui-sec",
+      "securities-firms/monex-group",
+      "securities-firms/okasan-sg",
+      "securities-firms/tokai-tokyo-securities",
+      "securities/INDEX",
+      "securities/japan-securities-clearing-corp",
+      "securities/osaka-exchange",
+      "securities/tokyo-stock-exchange"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/securities-firms/aizawa-sg",
+      "https://finwiki.zksc.io/securities-firms/iwai-cosmo-securities",
+      "https://finwiki.zksc.io/securities-firms/marusan-securities",
+      "https://finwiki.zksc.io/securities-firms/matsui-sec",
+      "https://finwiki.zksc.io/securities-firms/monex-group",
+      "https://finwiki.zksc.io/securities-firms/okasan-sg",
+      "https://finwiki.zksc.io/securities-firms/tokai-tokyo-securities",
+      "https://finwiki.zksc.io/securities/INDEX",
+      "https://finwiki.zksc.io/securities/japan-securities-clearing-corp",
+      "https://finwiki.zksc.io/securities/osaka-exchange",
+      "https://finwiki.zksc.io/securities/tokyo-stock-exchange"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 4572,
+    "word_like_tokens": 668,
+    "inbound_wikilinks_count": 2,
+    "last_modified": "2026-06-04"
+  }
+}

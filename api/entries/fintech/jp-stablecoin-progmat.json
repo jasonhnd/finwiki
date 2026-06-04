@@ -53,8 +53,6 @@
   "body_links": {
     "wikilinks_count": 10,
     "wikilinks": [
-      "JapanFG/mitsubishi-ufj-trust-bank",
-      "JapanFG/progmat",
       "exchanges/jp-exchange-jpyc",
       "fintech/INDEX",
       "fintech/cross-border-sc-via-swift-api",
@@ -62,11 +60,11 @@
       "fintech/japan-stablecoin-regulatory-landscape",
       "fintech/jp-stablecoin-dcjpy",
       "fintech/jp-trust-type-sc-architecture",
-      "fintech/multi-megabank-consortium-governance"
+      "fintech/multi-megabank-consortium-governance",
+      "payment-firms/progmat",
+      "trust-banks/mitsubishi-ufj-trust-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/mitsubishi-ufj-trust-bank",
-      "https://finwiki.zksc.io/JapanFG/progmat",
       "https://finwiki.zksc.io/exchanges/jp-exchange-jpyc",
       "https://finwiki.zksc.io/fintech/INDEX",
       "https://finwiki.zksc.io/fintech/cross-border-sc-via-swift-api",
@@ -74,7 +72,9 @@
       "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
       "https://finwiki.zksc.io/fintech/jp-stablecoin-dcjpy",
       "https://finwiki.zksc.io/fintech/jp-trust-type-sc-architecture",
-      "https://finwiki.zksc.io/fintech/multi-megabank-consortium-governance"
+      "https://finwiki.zksc.io/fintech/multi-megabank-consortium-governance",
+      "https://finwiki.zksc.io/payment-firms/progmat",
+      "https://finwiki.zksc.io/trust-banks/mitsubishi-ufj-trust-bank"
     ],
     "external_links_count": 7,
     "external_links": [
@@ -88,9 +88,9 @@
     ]
   },
   "metrics": {
-    "nonspace_chars": 6232,
-    "word_like_tokens": 1109,
+    "nonspace_chars": 6254,
+    "word_like_tokens": 1113,
     "inbound_wikilinks_count": 20,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-06-04"
   }
 }

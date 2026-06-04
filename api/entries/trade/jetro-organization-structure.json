@@ -37,8 +37,8 @@
     "wikilinks_count": 7,
     "wikilinks": [
       "INDEX",
-      "JapanFG/jbic",
       "finance/cross-border-m-a-japan",
+      "financial-regulators/jbic",
       "fintech/japan-stablecoin-regulatory-landscape",
       "policy-finance/japan-policy-finance-system",
       "policy-finance/nexi",
@@ -46,8 +46,8 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/jbic",
       "https://finwiki.zksc.io/finance/cross-border-m-a-japan",
+      "https://finwiki.zksc.io/financial-regulators/jbic",
       "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
       "https://finwiki.zksc.io/policy-finance/japan-policy-finance-system",
       "https://finwiki.zksc.io/policy-finance/nexi",
@@ -57,9 +57,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1720,
-    "word_like_tokens": 269,
+    "nonspace_chars": 1733,
+    "word_like_tokens": 270,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-04"
   }
 }

@@ -14,7 +14,7 @@ translated_at: 2026-06-02T16:33:58.520Z
 
 日本ECカードのセキュリティは「だけではない」3-D Secure。」 便利な制御スタックは次のとおりです: カード データ保護 -> 加盟店脆弱性制御 -> EMV3-D 安全な認証 -> 不正行為の監視 -> アクワイアラ/PSP/販売者情報の共有 -> チャージバックと修復。
 
-このページを使用するには[[payments/japan-card-issuer-acquirer-processor-split|card issuer / acquirer / processor split]], [[payments/card-acquiring-japan-stack|card acquiring stack]], [[payments/psp-merchant-settlement-risk|PSP settlement risk]], [[payments/credit-purchase-card-operators-japan-index|credit / card operator registry]]、 そして[[JapanFG/installment-sales-act-2020-amendment|Installment Sales Act 2020 amendment]].
+このページを使用するには[[payments/japan-card-issuer-acquirer-processor-split|card issuer / acquirer / processor split]], [[payments/card-acquiring-japan-stack|card acquiring stack]], [[payments/psp-merchant-settlement-risk|PSP settlement risk]], [[payments/credit-purchase-card-operators-japan-index|credit / card operator registry]]、 そして[[card-issuers/installment-sales-act-2020-amendment|Installment Sales Act 2020 amendment]].
 
 ## ガイドライン概況
 
@@ -84,9 +84,9 @@ translated_at: 2026-06-02T16:33:58.520Z
 
 カードのセキュリティ分析は、単一の「クレジット カード会社」ラベルではなく、発行者/取得者/PSP の役割を通じてルーティングされます。
 
-- 発行者/取得者:[[JapanFG/jcb|JCB]], [[JapanFG/smbc-card|SMBC Card]], [[JapanFG/mufg-nicos|MUFG NICOS]], [[JapanFG/rakuten-card|Rakuten Card]], [[JapanFG/paypay-card|PayPay Card]], [[JapanFG/aeon-financial-service|AEON Financial Service]], [[JapanFG/orico|Orico]], [[JapanFG/jaccs|JACCS]], [[JapanFG/credit-saison|Credit Saison]].
-- PSP/ゲートウェイ:[[JapanFG/gmo-payment-gateway|GMO Payment Gateway]], [[JapanFG/gmo-epsilon|GMO Epsilon]], [[JapanFG/sb-payment-service|SB Payment Service]], [[JapanFG/dg-financial-technology|DGFT]], [[JapanFG/netstars|Netstars]].
-- 法務/レジストリ層:[[payments/credit-purchase-card-operators-japan-index|credit / card operator registry]]そして[[JapanFG/legal-financial-licenses/INDEX|JapanFG legal / financial licenses]].
+- 発行者/取得者:[[card-issuers/jcb|JCB]], [[card-issuers/smbc-card|SMBC Card]], [[card-issuers/mufg-nicos|MUFG NICOS]], [[card-issuers/rakuten-card|Rakuten Card]], [[card-issuers/paypay-card|PayPay Card]], [[card-issuers/aeon-financial-service|AEON Financial Service]], [[card-issuers/orico|Orico]], [[card-issuers/jaccs|JACCS]], [[card-issuers/credit-saison|Credit Saison]].
+- PSP/ゲートウェイ:[[payment-firms/gmo-payment-gateway|GMO Payment Gateway]], [[payment-firms/gmo-epsilon|GMO Epsilon]], [[payment-firms/sb-payment-service|SB Payment Service]], [[payment-firms/dg-financial-technology|DGFT]], [[payment-firms/netstars|Netstars]].
+- 法務/レジストリ層:[[payments/credit-purchase-card-operators-japan-index|credit / card operator registry]]そして[[financial-licenses/INDEX|JapanFG legal / financial licenses]].
 
 ## Wiki 調査上の警戒サイン
 
@@ -105,8 +105,8 @@ translated_at: 2026-06-02T16:33:58.520Z
 - [[payments/credit-purchase-card-operators-japan-index]]
 - [[payments/japan-bnpl-credit-purchase-boundary]]
 - [[payments/japan-bank-api-incident-and-fraud-control]]
-- [[JapanFG/installment-sales-act-2020-amendment]]
-- [[JapanFG/jcb]]
+- [[card-issuers/installment-sales-act-2020-amendment]]
+- [[card-issuers/jcb]]
 - [[INDEX|FinWiki index]]
 
 ## 出典

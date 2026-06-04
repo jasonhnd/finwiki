@@ -60,38 +60,38 @@
     "wikilinks": [
       "INDEX",
       "JapanFG/INDEX",
-      "JapanFG/japan-exchange-group",
-      "JapanFG/sbi-hd",
-      "JapanFG/sbi-shinsei-bank",
-      "JapanFG/wealthnavi",
       "finance/INDEX",
       "finance/cross-border-m-a-japan",
       "finance/japan-activist-investor-playbook",
       "finance/japan-mbo-and-squeeze-out-process",
       "finance/japan-tender-offer-process",
+      "financial-regulators/japan-exchange-group",
+      "megabanks/sbi-hd",
+      "payment-firms/wealthnavi",
+      "regional-banks/sbi-shinsei-bank",
       "securities/tokyo-stock-exchange"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
       "https://finwiki.zksc.io/JapanFG/INDEX",
-      "https://finwiki.zksc.io/JapanFG/japan-exchange-group",
-      "https://finwiki.zksc.io/JapanFG/sbi-hd",
-      "https://finwiki.zksc.io/JapanFG/sbi-shinsei-bank",
-      "https://finwiki.zksc.io/JapanFG/wealthnavi",
       "https://finwiki.zksc.io/finance/INDEX",
       "https://finwiki.zksc.io/finance/cross-border-m-a-japan",
       "https://finwiki.zksc.io/finance/japan-activist-investor-playbook",
       "https://finwiki.zksc.io/finance/japan-mbo-and-squeeze-out-process",
       "https://finwiki.zksc.io/finance/japan-tender-offer-process",
+      "https://finwiki.zksc.io/financial-regulators/japan-exchange-group",
+      "https://finwiki.zksc.io/megabanks/sbi-hd",
+      "https://finwiki.zksc.io/payment-firms/wealthnavi",
+      "https://finwiki.zksc.io/regional-banks/sbi-shinsei-bank",
       "https://finwiki.zksc.io/securities/tokyo-stock-exchange"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5971,
-    "word_like_tokens": 933,
+    "nonspace_chars": 6027,
+    "word_like_tokens": 939,
     "inbound_wikilinks_count": 20,
-    "last_modified": "2026-05-22"
+    "last_modified": "2026-06-04"
   }
 }

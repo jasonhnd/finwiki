@@ -23,7 +23,7 @@ Tokyo Commodity Exchange 是 JPX 旗下负责商品交易所业务的子公司�
 
 | 层级 | TOCOM 解读 |
 |---|---|
-| 母公司 | [[JapanFG/japan-exchange-group|Japan Exchange Group]] |
+| 母公司 | [[financial-regulators/japan-exchange-group|Japan Exchange Group]] |
 | 法律形式 | Tokyo Commodity Exchange, Inc. |
 | 成立 | 1951-02-19 |
 | 功能 | 能源商品期货市场运营。 |
@@ -43,7 +43,7 @@ Tokyo Commodity Exchange 是 JPX 旗下负责商品交易所业务的子公司�
 
 ## 相关
 
-- [[JapanFG/japan-exchange-group]]
+- [[financial-regulators/japan-exchange-group]]
 - [[securities/osaka-exchange]]
 - [[securities/japan-securities-clearing-corp]]
 - [[trade/jetro-organization-structure]]

@@ -30,17 +30,17 @@ status: active
 
 ## Wiki route
 
-This entry sits under [[policy-finance/INDEX|policy-finance index]] as the underwriting-process deep dive on [[JapanFG/jbic|国際協力銀行 (JBIC)]]. Read it with [[policy-finance/japan-project-finance-stack-diagram|Japan project finance stack diagram]] for how JBIC loans sit alongside [[policy-finance/nexi|NEXI]] insurance, [[policy-finance/jogmec|JOGMEC]] equity, and megabank commercial debt; with [[policy-finance/oecd-export-credit-arrangement|OECD Export Credit Arrangement]] for the term ceiling under which JBIC operates; with [[policy-finance/jica|JICA]] for the ODA-finance perimeter on the other side of the policy split; with [[policy-finance/japan-eximbank-history|Japan Eximbank history]] for the pre-2012 institutional history; and with [[finance/japan-acquisition-finance|Japan acquisition finance]] for how the same megabank syndicates structure private cross-border deals.
+This entry sits under [[policy-finance/INDEX|policy-finance index]] as the underwriting-process deep dive on [[financial-regulators/jbic|国際協力銀行 (JBIC)]]. Read it with [[policy-finance/japan-project-finance-stack-diagram|Japan project finance stack diagram]] for how JBIC loans sit alongside [[policy-finance/nexi|NEXI]] insurance, [[policy-finance/jogmec|JOGMEC]] equity, and megabank commercial debt; with [[policy-finance/oecd-export-credit-arrangement|OECD Export Credit Arrangement]] for the term ceiling under which JBIC operates; with [[policy-finance/jica|JICA]] for the ODA-finance perimeter on the other side of the policy split; with [[policy-finance/japan-eximbank-history|Japan Eximbank history]] for the pre-2012 institutional history; and with [[finance/japan-acquisition-finance|Japan acquisition finance]] for how the same megabank syndicates structure private cross-border deals.
 
 ## TL;DR
 
-JBIC underwriting is structured around a binary fund-account distinction — **General Operations (一般業務勘定)** versus **Special Operations (特別業務勘定)** — overlaid on a product taxonomy that runs from **export buyer credit / supplier credit** through **import loans for resource imports** through **overseas investment loans (OIL)** through **untied loans** and selectively into **equity participation**. The Special Operations Account (created 2016) gives JBIC explicit authority to take losses on policy-strategic, higher-risk transactions that General Operations cannot price — half the policy bank, half a state-funded merchant bank. The underwriting flow itself proceeds in roughly six phases: **(1) policy / pipeline screening** against METI / MOFA / MAFF priorities and the JBIC Medium-Term Business Plan; **(2) initial credit and country-risk screening** against JBIC country limits and sovereign rating; **(3) detailed credit committee work** with technical, environmental, and legal advisers, where for project finance the standard lenders'-engineer / market-consultant / legal due diligence stack is mobilised; **(4) **[[policy-finance/oecd-export-credit-arrangement|OECD Arrangement]]** compliance review** (minimum premia, repayment terms, climate / coal sector understandings); **(5) intercreditor and co-financing structuring** with megabanks ([[JapanFG/mufg|MUFG]] / [[JapanFG/smfg|SMFG]] / [[JapanFG/mizuho-fg|Mizuho FG]]), [[policy-finance/nexi|NEXI]], and where relevant peer ECAs (US EXIM, K-EXIM, UKEF, KfW IPEX, Bpifrance); and **(6) governor-approval and board sign-off** prior to executing common-terms / loan agreement and security trust. JBIC's policy posture has shifted markedly since 2022 toward **GX (energy / decarbonisation), critical-minerals supply chain, friend-shoring, semiconductors, and selected outbound-M&A** support, with parallel withdrawal from new coal-fired thermal financing and tightening of LNG climate framing.
+JBIC underwriting is structured around a binary fund-account distinction — **General Operations (一般業務勘定)** versus **Special Operations (特別業務勘定)** — overlaid on a product taxonomy that runs from **export buyer credit / supplier credit** through **import loans for resource imports** through **overseas investment loans (OIL)** through **untied loans** and selectively into **equity participation**. The Special Operations Account (created 2016) gives JBIC explicit authority to take losses on policy-strategic, higher-risk transactions that General Operations cannot price — half the policy bank, half a state-funded merchant bank. The underwriting flow itself proceeds in roughly six phases: **(1) policy / pipeline screening** against METI / MOFA / MAFF priorities and the JBIC Medium-Term Business Plan; **(2) initial credit and country-risk screening** against JBIC country limits and sovereign rating; **(3) detailed credit committee work** with technical, environmental, and legal advisers, where for project finance the standard lenders'-engineer / market-consultant / legal due diligence stack is mobilised; **(4) **[[policy-finance/oecd-export-credit-arrangement|OECD Arrangement]]** compliance review** (minimum premia, repayment terms, climate / coal sector understandings); **(5) intercreditor and co-financing structuring** with megabanks ([[megabanks/mufg|MUFG]] / [[megabanks/smfg|SMFG]] / [[megabanks/mizuho-fg|Mizuho FG]]), [[policy-finance/nexi|NEXI]], and where relevant peer ECAs (US EXIM, K-EXIM, UKEF, KfW IPEX, Bpifrance); and **(6) governor-approval and board sign-off** prior to executing common-terms / loan agreement and security trust. JBIC's policy posture has shifted markedly since 2022 toward **GX (energy / decarbonisation), critical-minerals supply chain, friend-shoring, semiconductors, and selected outbound-M&A** support, with parallel withdrawal from new coal-fired thermal financing and tightening of LNG climate framing.
 
 ## 1. 機関 / 部門位置
 
 | Item | Detail |
 |---|---|
-| Parent entity | [[JapanFG/jbic|JBIC]] (株式会社国際協力銀行), 100% state-owned special company, sole shareholder 財務大臣 |
+| Parent entity | [[financial-regulators/jbic|JBIC]] (株式会社国際協力銀行), 100% state-owned special company, sole shareholder 財務大臣 |
 | Statutory basis | 株式会社国際協力銀行法 (平成 23 年法律第 39 号) |
 | Predecessor history | 日本輸出銀行 (1950) → 日本輸出入銀行 (1953) → 統合 + OECF (1961) → 旧 JBIC (1999) → JFC 統合 (2008-10) → 再独立 (2012-04) — see [[policy-finance/japan-eximbank-history|Japan Eximbank history]] |
 | Fund-account split | **一般業務勘定** (General Operations) for standard policy-finance lending and **特別業務勘定** (Special Operations) for higher-risk policy-strategic transactions, established 2016 |
@@ -131,7 +131,7 @@ The compliance review is consequential: a transaction that fails Arrangement par
 
 ### 3.5 Phase 5 — Intercreditor / co-financing structuring
 
-- **Megabank co-finance structuring.** Almost all large OIL deals carry a parallel commercial tranche provided by [[JapanFG/mufg|MUFG]], [[JapanFG/smfg|SMFG]], [[JapanFG/mizuho-fg|Mizuho FG]], typically with one bank as **agent / facility bank**.
+- **Megabank co-finance structuring.** Almost all large OIL deals carry a parallel commercial tranche provided by [[megabanks/mufg|MUFG]], [[megabanks/smfg|SMFG]], [[megabanks/mizuho-fg|Mizuho FG]], typically with one bank as **agent / facility bank**.
 - **NEXI overlay structuring.** Insurance cover may wrap part of the commercial tranche or part of an equity exposure; structure choice is negotiated jointly between JBIC and [[policy-finance/nexi|NEXI]].
 - **Peer-ECA co-financing.** For large LNG, mining, or rail / metro deals, parallel ECA financing alongside US EXIM, K-EXIM, UKEF, KfW IPEX, Bpifrance, and EDC is common. JBIC sits on common-terms agreement and intercreditor agreement jointly with peer ECAs.
 - **Multilateral co-financing.** ADB / World Bank / AIIB participation is structurally compatible with JBIC OIL on common terms.
@@ -151,9 +151,9 @@ A typical large OIL deal cycle from initial mandate to financial close runs 12�
 
 JBIC's structural co-counterparts are the Japanese megabanks. Standard syndication geometry:
 
-- **One Japanese megabank as agent bank.** [[JapanFG/mufg|MUFG]], [[JapanFG/smfg|SMFG]], or [[JapanFG/mizuho-fg|Mizuho FG]] runs intercreditor mechanics, drawdown waterfall, and post-close monitoring.
+- **One Japanese megabank as agent bank.** [[megabanks/mufg|MUFG]], [[megabanks/smfg|SMFG]], or [[megabanks/mizuho-fg|Mizuho FG]] runs intercreditor mechanics, drawdown waterfall, and post-close monitoring.
 - **Megabank commercial tranche alongside JBIC direct tranche.** Pure commercial loan from megabanks plus the JBIC OIL slice plus, often, a NEXI-covered slice. The interplay between JBIC and NEXI is structural — see [[policy-finance/japan-project-finance-stack-diagram|Japan project finance stack diagram]] for the full layering, where JBIC sits as a direct lender and NEXI sits as the insurer wrapping the commercial slice.
-- **Regional banks / shinkin / Norinchukin participation.** For Japan-domiciled SPV financing within outbound-M&A or domestic-anchored cross-border structures, [[JapanFG/norinchukin|Norinchukin]] and large regional banks may participate.
+- **Regional banks / shinkin / Norinchukin participation.** For Japan-domiciled SPV financing within outbound-M&A or domestic-anchored cross-border structures, [[cooperative-banks/norinchukin|Norinchukin]] and large regional banks may participate.
 - **Foreign-bank participation.** For large LNG and mining deals, French, Singaporean, Australian, US, and Chinese banks routinely co-finance.
 - **Peer ECAs in syndicate.** US EXIM, K-EXIM, UKEF, KfW IPEX, Bpifrance, EDC, Cesce — common-terms documentation, harmonised insurance / direct-loan structures.
 
@@ -225,10 +225,10 @@ For single-name corporate OILs, monitoring is closer to corporate-loan covenant 
 - [[policy-finance/nexi]]
 - [[policy-finance/jogmec]]
 - [[policy-finance/jica]]
-- [[JapanFG/jbic]]
-- [[JapanFG/mufg]]
-- [[JapanFG/smfg]]
-- [[JapanFG/mizuho-fg]]
+- [[financial-regulators/jbic]]
+- [[megabanks/mufg]]
+- [[megabanks/smfg]]
+- [[megabanks/mizuho-fg]]
 - [[finance/japan-acquisition-finance]]
 
 ## Sources

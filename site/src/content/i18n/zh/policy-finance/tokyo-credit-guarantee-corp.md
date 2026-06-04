@@ -25,7 +25,7 @@ translated_at: 2026-06-01T03:31:12.329Z
 |成立 | 1937 （自根据 1953  法案重组以来持续）|
 |资助伙伴|东京都政府、在东京运营的金融机构以及会员捐款 |
 |联合会会员 | [[policy-finance/national-federation-credit-guarantee-corporations|Japan Federation of Credit Guarantee Corporations]]成员（51 本地军团总）|
-|公共信用再保险|由 [[JapanFG/jfc|JFC]] 信用保险业务再保险 |
+|公共信用再保险|由 [[financial-regulators/jfc|JFC]] 信用保险业务再保险 |
 
 ## 2。功能图
 
@@ -43,12 +43,12 @@ translated_at: 2026-06-01T03:31:12.329Z
 
 1。 **中小企业密度**：东京都的中小企业集中度是日本各县中最高的，包括制造业、服务业、零售业以及食品和饮料业。
 2。 **政策计划规模**：东京都政府紧急信贷计划（例如 2020–2021,  中的流行病特别担保，2022–2023 中的能源价格减免）是 51  企业中按日元金额计算最大的。
-3。 **银行业密度**：所有三大银行集团（[[JapanFG/mufg|MUFG]]、[[JapanFG/smfg|SMFG]] 和 [[JapanFG/mizuho-fg|Mizuho FG]]）以及地区性、信用金和信用合作贷款机构均在东京运营，使其成为中小企业担保流量最繁忙的单一交易对手。
-该公司在结构上位于借款人和公共信用再保险层（[[JapanFG/jfc|JFC]]）之间，因此其计划设计的变化可以通过信用系统快速传播。它是 [[policy-finance/osaka-credit-guarantee-corp|Osaka Credit Guarantee Corporation]] 的同类机构，但运营规模明显更大。
+3。 **银行业密度**：所有三大银行集团（[[megabanks/mufg|MUFG]]、[[megabanks/smfg|SMFG]] 和 [[megabanks/mizuho-fg|Mizuho FG]]）以及地区性、信用金和信用合作贷款机构均在东京运营，使其成为中小企业担保流量最繁忙的单一交易对手。
+该公司在结构上位于借款人和公共信用再保险层（[[financial-regulators/jfc|JFC]]）之间，因此其计划设计的变化可以通过信用系统快速传播。它是 [[policy-finance/osaka-credit-guarantee-corp|Osaka Credit Guarantee Corporation]] 的同类机构，但运营规模明显更大。
 
 ## 4。系统锚定
 
-本页是了解任何 51  本地信用担保公司的典型示例。相同的结构模式——当地企业为中小企业贷款提供担保，金融机构在责任分担制度下分担剩余风险，[[JapanFG/jfc|JFC]]通过信用保险进行再保险，全国联合会[[policy-finance/national-federation-credit-guarantee-corporations|JFG]]协调——适用于每个地市。
+本页是了解任何 51  本地信用担保公司的典型示例。相同的结构模式——当地企业为中小企业贷款提供担保，金融机构在责任分担制度下分担剩余风险，[[financial-regulators/jfc|JFC]]通过信用保险进行再保险，全国联合会[[policy-finance/national-federation-credit-guarantee-corporations|JFG]]协调——适用于每个地市。
 
 在 [[policy-finance/japan-policy-finance-system|Japan policy finance system]] 地图中，东京 CGC 代表 **中小企业信用担保通道**，不同于：
 - 农业/渔业担保（[[policy-finance/agriculture-credit-guarantee-system]]、[[policy-finance/fisheries-credit-guarantee-system]]）。
@@ -60,7 +60,7 @@ translated_at: 2026-06-01T03:31:12.329Z
 
 - **不是银行**：东京 CGC 不直接向中小企业提供贷款；它为银行和其他金融机构发放的贷款提供担保。
 - **不是东京都政府**：虽然东京都政府的政策通过东京 CGC 流动，但该公司是一家法律上独立的公共公司，拥有自己的资产负债表。
-- **不是 JFC**：[[JapanFG/jfc|JFC]] 是国家政策性金融机构，运营信用保险再保险层；东京 CGC 是面向借款人的本地企业层。
+- **不是 JFC**：[[financial-regulators/jfc|JFC]] 是国家政策性金融机构，运营信用保险再保险层；东京 CGC 是面向借款人的本地企业层。
 - **不是联盟**：[[policy-finance/national-federation-credit-guarantee-corporations|JFG]] 协调 51  公司；东京 CGC 是该联合会的成员之一。
 
 ## 6。开放式问题
@@ -68,7 +68,7 @@ translated_at: 2026-06-01T03:31:12.329Z
 - 东京中小企业银行贷款中平均有多少比例通过东京 CGC 担保流动？不同行业的情况有何不同？
 - 大流行病特别担保（実质无利子・无担保/零利息、无抵押品计划）如何重塑东京 CGC 在 2022–2024 中的代位权形象？
 - 小企业继承（事业承継）对东京 CGC 担保账簿的长期影响是什么？与继承相关的担保与普通营运资金相比？
-- 东京服务/零售/酒店行业的破产率趋势如何通过 [[JapanFG/jfc|JFC]] 影响长期再保险定价？
+- 东京服务/零售/酒店行业的破产率趋势如何通过 [[financial-regulators/jfc|JFC]] 影响长期再保险定价？
 
 ## 相关
 
@@ -77,10 +77,10 @@ translated_at: 2026-06-01T03:31:12.329Z
 - [[policy-finance/national-federation-credit-guarantee-corporations]]
 - [[policy-finance/japan-policy-finance-system]]
 - [[policy-finance/osaka-credit-guarantee-corp]]
-- [[JapanFG/jfc]]
-- [[JapanFG/mufg]]
-- [[JapanFG/smfg]]
-- [[JapanFG/mizuho-fg]]
+- [[financial-regulators/jfc]]
+- [[megabanks/mufg]]
+- [[megabanks/smfg]]
+- [[megabanks/mizuho-fg]]
 - [[banking/shinkin-bank-registry-japan]]
 - [[banking/credit-cooperative-registry-japan]]
 - [[INDEX|FinWiki index]]

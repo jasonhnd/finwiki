@@ -14,7 +14,7 @@ translated_at: 2026-05-31T06:16:15.690Z
 
 日本TOB分析是一套信息披露管控工作流：要约收购触发条件、公告、要约收购声明书、目标公司意见、修正、EDINET法定申报、TDnet及时披露、大量持股报告、结算，以及强制买取/退市路径。本页归属[[finance/INDEX|finance]]，因为这是上市公司控制权变更的交易流程，而非单纯的交易规则。
 
-结合[[finance/cross-border-m-a-japan|cross-border M&A Japan]]、[[finance/japan-acquisition-finance|Japan acquisition finance]]、[[finance/japan-activist-investor-playbook|Japan activist investor playbook]]、[[securities/tokyo-stock-exchange|Tokyo Stock Exchange]]、[[JapanFG/legal-financial-licenses/securities-license-stack|securities license stack]]、[[securities/japan-underwriting-market-structure|underwriting market structure]]、[[JapanFG/sbi-hd|SBI HD]]及[[JapanFG/sbi-shinsei-bank|SBI Shinsei Bank]]一并阅读。
+结合[[finance/cross-border-m-a-japan|cross-border M&A Japan]]、[[finance/japan-acquisition-finance|Japan acquisition finance]]、[[finance/japan-activist-investor-playbook|Japan activist investor playbook]]、[[securities/tokyo-stock-exchange|Tokyo Stock Exchange]]、[[financial-licenses/securities-license-stack|securities license stack]]、[[securities/japan-underwriting-market-structure|underwriting market structure]]、[[megabanks/sbi-hd|SBI HD]]及[[regional-banks/sbi-shinsei-bank|SBI Shinsei Bank]]一并阅读。
 
 ## 流程图
 
@@ -57,10 +57,10 @@ translated_at: 2026-05-31T06:16:15.690Z
 
 ## JapanFG相关性
 
-- [[JapanFG/sbi-hd|SBI HD]]/[[JapanFG/sbi-shinsei-bank|SBI Shinsei Bank]]是银行控制权及公开TOB分析的有益历史参照。
-- 当控制权发生变更时，[[JapanFG/sony-fg|Sony FG]]、[[JapanFG/wealthnavi|WealthNavi]]及其他上市金融/金融科技案件可能需要TOB/强制买取解读。
-- [[JapanFG/smbc-nikko|SMBC Nikko]]、[[JapanFG/mufg-mums|MUMSS]]、[[JapanFG/nomura-hd|Nomura]]及[[JapanFG/daiwa-sg|Daiwa Securities Group]]在担任要约收购代理人、财务顾问、承销商或公平意见提供方时具有相关性。
-- 当某方担任证券公司、要约收购代理人或财务顾问时，需参考[[JapanFG/legal-financial-licenses/securities-license-stack|Securities license stack]]。
+- [[megabanks/sbi-hd|SBI HD]]/[[regional-banks/sbi-shinsei-bank|SBI Shinsei Bank]]是银行控制权及公开TOB分析的有益历史参照。
+- 当控制权发生变更时，[[megabanks/sony-fg|Sony FG]]、[[payment-firms/wealthnavi|WealthNavi]]及其他上市金融/金融科技案件可能需要TOB/强制买取解读。
+- [[securities-firms/smbc-nikko|SMBC Nikko]]、[[securities-firms/mufg-mums|MUMSS]]、[[securities-firms/nomura-hd|Nomura]]及[[securities-firms/daiwa-sg|Daiwa Securities Group]]在担任要约收购代理人、财务顾问、承销商或公平意见提供方时具有相关性。
+- 当某方担任证券公司、要约收购代理人或财务顾问时，需参考[[financial-licenses/securities-license-stack|Securities license stack]]。
 
 ## 研究清单
 
@@ -79,11 +79,11 @@ translated_at: 2026-05-31T06:16:15.690Z
 - [[finance/japan-activist-investor-playbook]]
 - [[securities/tokyo-stock-exchange]]
 - [[securities/japan-underwriting-market-structure]]
-- [[JapanFG/legal-financial-licenses/securities-license-stack]]
-- [[JapanFG/sbi-hd]]
-- [[JapanFG/sbi-shinsei-bank]]
-- [[JapanFG/nomura-hd]]
-- [[JapanFG/daiwa-sg]]
+- [[financial-licenses/securities-license-stack]]
+- [[megabanks/sbi-hd]]
+- [[regional-banks/sbi-shinsei-bank]]
+- [[securities-firms/nomura-hd]]
+- [[securities-firms/daiwa-sg]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

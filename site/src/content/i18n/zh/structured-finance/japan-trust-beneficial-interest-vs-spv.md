@@ -11,7 +11,7 @@ translated_at: 2026-06-01T04:15:40.143Z
 
 ## TL;DR
 
-日本证券化交易可以使用 SPV（TK-GK、TMK 等）或信托受益权（信託受益権）作为发行载体。信托受益权本身就是一种证券化载体，而不仅是包装层：发起人将资产转移给信托，信托持有资产，信托受益权被分为不同 tranche 并出售给投资者。选择信托还是 SPV，取决于税务处理、出表标准、资产类别匹配，以及 [[JapanFG/sumitomo-mitsui-trust]] 等信托银行作为 trustee 的角色。有些交易使用 trust + SPV 组合的双层挂牌结构。本页用于 trust-vs-SPV 选择树；SPV 侧请配合 [[structured-finance/spv-tk-gk-vehicle-japan-tax]] 阅读。
+日本证券化交易可以使用 SPV（TK-GK、TMK 等）或信托受益权（信託受益権）作为发行载体。信托受益权本身就是一种证券化载体，而不仅是包装层：发起人将资产转移给信托，信托持有资产，信托受益权被分为不同 tranche 并出售给投资者。选择信托还是 SPV，取决于税务处理、出表标准、资产类别匹配，以及 [[trust-banks/sumitomo-mitsui-trust]] 等信托银行作为 trustee 的角色。有些交易使用 trust + SPV 组合的双层挂牌结构。本页用于 trust-vs-SPV 选择树；SPV 侧请配合 [[structured-finance/spv-tk-gk-vehicle-japan-tax]] 阅读。
 
 ## Wiki 路由
 
@@ -29,7 +29,7 @@ translated_at: 2026-06-01T04:15:40.143Z
 | 要素 | 说明 |
 |---|---|
 | 信托 | Trust Act 下的正式信托，包含 trustee、beneficiary 和 trust assets |
-| Trustee | 信托银行（[[JapanFG/sumitomo-mitsui-trust]]、Mitsubishi UFJ Trust、Mizuho Trust 等） |
+| Trustee | 信托银行（[[trust-banks/sumitomo-mitsui-trust]]、Mitsubishi UFJ Trust、Mizuho Trust 等） |
 | 信托资产 | 从发起人转移来的证券化资产池 |
 | 受益权 | 分为 senior、mezz、subordinated tranches |
 | 受益人 | 投资者；作为金融产品持有信托受益权 |
@@ -74,7 +74,7 @@ translated_at: 2026-06-01T04:15:40.143Z
 
 | 原因 | 细节 |
 |---|---|
-| 信托银行基础设施 | [[JapanFG/sumitomo-mitsui-trust]] 及其他信托银行具备现成的 trustee 运营能力 |
+| 信托银行基础设施 | [[trust-banks/sumitomo-mitsui-trust]] 及其他信托银行具备现成的 trustee 运营能力 |
 | 资产转移简便 | 应收款的信托转移在法律上已成熟 |
 | 税收透明 | 信托受益权在税务上穿透处理 |
 | Servicer 连续性 | 发起人通常保留 servicing，由 trustee 监督 |
@@ -145,7 +145,7 @@ JHF MBS Trust（[[structured-finance/jhf-mbs-mechanics]]）本身就是信托受
 - [[structured-finance/auto-loan-abs-japan-toyota-honda]]
 - [[structured-finance/consumer-loan-abs-japan-card-issuer]]
 - [[structured-finance/credit-rating-methodology-jcr-r-and-i]]
-- [[JapanFG/sumitomo-mitsui-trust]]
+- [[trust-banks/sumitomo-mitsui-trust]]
 - [[banking/INDEX]]
 - [[banking/master-trust-bank-operating-model]]
 

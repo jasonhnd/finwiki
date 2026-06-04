@@ -14,7 +14,7 @@ translated_at: 2026-05-30T18:10:53.988Z
 
 日本的 BaaS 可以从客户归属、存款合约持有方、UI 控制方、API 提供方、KYC / 反洗钱 / 欺诈监测责任,以及牌照堆栈等维度来描述。一款合作伙伴品牌的应用可以呈现银行业务的 UX,而银行账户在法律上仍归属于持牌银行。
 
-本页面位于 [[banking/INDEX|banking domain]] 之下,作为 [[banking/baas-japan-landscape|Japan BaaS landscape]] 的运营模式配套。它链接至 [[banking/minna-bank-baas-model|Minna Bank BaaS model]]、[[banking/mercari-bank|Mercari Bank]]、[[banking/mercari-bank-license-stack|Mercari Bank license stack]]、[[banking/quick-deposit-four-methods|quick deposit four methods]]、[[JapanFG/ssnb|SSNB]]、[[JapanFG/gmo-aozora-net|GMO Aozora Net Bank]]、[[JapanFG/ui-bank|UI Bank]]、[[banking/japan-net-bank-competition-map|Japan net bank competition map]] 及 [[banking/regional-bank-api-digital-partnership-route|regional bank API route]]。
+本页面位于 [[banking/INDEX|banking domain]] 之下,作为 [[banking/baas-japan-landscape|Japan BaaS landscape]] 的运营模式配套。它链接至 [[banking/minna-bank-baas-model|Minna Bank BaaS model]]、[[banking/mercari-bank|Mercari Bank]]、[[banking/mercari-bank-license-stack|Mercari Bank license stack]]、[[banking/quick-deposit-four-methods|quick deposit four methods]]、[[regional-banks/ssnb|SSNB]]、[[payment-firms/gmo-aozora-net|GMO Aozora Net Bank]]、[[regional-banks/ui-bank|UI Bank]]、[[banking/japan-net-bank-competition-map|Japan net bank competition map]] 及 [[banking/regional-bank-api-digital-partnership-route|regional bank API route]]。
 
 ## Operating-Model Matrix
 
@@ -22,9 +22,9 @@ translated_at: 2026-05-30T18:10:53.988Z
 |---|---|---|---|---|
 | API-provided banking | Partner app embeds transfers, balance, payment, or account-linking | Licensed bank | [[banking/minna-bank-baas-model|Minna Bank API]], quick-deposit routes | API consent, electronic payment agency, AML / fraud split. |
 | Partner branch | Bank app or bank account experience carries partner brand / branch | Licensed bank | Minna Bank partner branches | Partner marketing versus bank legal responsibility. |
-| Full-banking white-label / NEOBANK | Partner brand distributes a fuller bank-account proposition | Licensed bank | [[JapanFG/ssnb|SSNB]] NEOBANK | Who owns customer relationship, account economics, and support. |
-| Corporate API bank | Business account and payment workflows are embedded into SaaS / accounting / platform ops | Licensed bank | [[JapanFG/gmo-aozora-net|GMO Aozora Net Bank]] | API reliability, treasury operations, SME KYC, webhook / integration risk. |
-| Bank-agent route | Non-bank or adjacent bank partner introduces / handles banking service under bank-agent structure | Licensed bank | [[JapanFG/ui-bank|UI Bank]] / CQ BANK-style route | Agency authority and customer explanation boundary. |
+| Full-banking white-label / NEOBANK | Partner brand distributes a fuller bank-account proposition | Licensed bank | [[regional-banks/ssnb|SSNB]] NEOBANK | Who owns customer relationship, account economics, and support. |
+| Corporate API bank | Business account and payment workflows are embedded into SaaS / accounting / platform ops | Licensed bank | [[payment-firms/gmo-aozora-net|GMO Aozora Net Bank]] | API reliability, treasury operations, SME KYC, webhook / integration risk. |
+| Bank-agent route | Non-bank or adjacent bank partner introduces / handles banking service under bank-agent structure | Licensed bank | [[regional-banks/ui-bank|UI Bank]] / CQ BANK-style route | Agency authority and customer explanation boundary. |
 | Narrow BaaS | One banking function, such as quick deposit or direct account charge | Licensed bank plus payment / API layer | [[banking/quick-deposit-four-methods|quick deposit]] | Narrow utility can be valuable without full bank relationship. |
 
 ## Legal Stack Versus UX Stack
@@ -47,15 +47,15 @@ translated_at: 2026-05-30T18:10:53.988Z
 
 ### SSNB NEOBANK
 
-[[JapanFG/ssnb|SSNB]] NEOBANK 是一种全功能银行 BaaS 模式。它提供合作伙伴品牌的银行账户体验,并可连接存款、转账、贷款、卡片及证券毗邻功能。
+[[regional-banks/ssnb|SSNB]] NEOBANK 是一种全功能银行 BaaS 模式。它提供合作伙伴品牌的银行账户体验,并可连接存款、转账、贷款、卡片及证券毗邻功能。
 
 ### GMO Aozora
 
-[[JapanFG/gmo-aozora-net|GMO Aozora Net Bank]] 是法人 API / 中小企业运营模式。其 BaaS 价值在于开户、转账、支付运营、会计集成、API / webhook 工作流及初创 / 平台资金管理。
+[[payment-firms/gmo-aozora-net|GMO Aozora Net Bank]] 是法人 API / 中小企业运营模式。其 BaaS 价值在于开户、转账、支付运营、会计集成、API / webhook 工作流及初创 / 平台资金管理。
 
 ### UI Bank / CQ BANK
 
-[[JapanFG/ui-bank|UI Bank]] 是银行代理 / 区域集团数字银行的案例。它使用应用与合作伙伴渠道创建数字账户界面,而吸收存款仍是银行职能。
+[[regional-banks/ui-bank|UI Bank]] 是银行代理 / 区域集团数字银行的案例。它使用应用与合作伙伴渠道创建数字账户界面,而吸收存款仍是银行职能。
 
 ## Responsibility Boundary
 
@@ -86,9 +86,9 @@ translated_at: 2026-05-30T18:10:53.988Z
 - [[banking/mercari-bank-license-stack]]
 - [[banking/quick-deposit-four-methods]]
 - [[banking/japan-net-bank-competition-map]]
-- [[JapanFG/ssnb]]
-- [[JapanFG/gmo-aozora-net]]
-- [[JapanFG/ui-bank]]
+- [[regional-banks/ssnb]]
+- [[payment-firms/gmo-aozora-net]]
+- [[regional-banks/ui-bank]]
 - [[payments/japan-bank-api-payment-agency-route]]
 - [[INDEX|FinWiki index]]
 

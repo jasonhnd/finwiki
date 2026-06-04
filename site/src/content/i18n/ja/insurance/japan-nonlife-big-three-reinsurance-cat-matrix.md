@@ -12,13 +12,13 @@ translated_at: 2026-06-02T14:01:20.922Z
 
 ## 要約
 
-「日本の損保大手3社」である [[JapanFG/tokio-marine|Tokio Marine Holdings]]、[[JapanFG/msad|MS&AD Insurance Group Holdings]]、[[JapanFG/sompo|Sompo Holdings]] は、日本を本拠とする複数種目の P&C フランチャイズを共有する一方、分析上の読みを左右する5つのオーバーレイ軸で異なる。すなわち、危険別の災害エクスポージャー、再保険プログラムの形状、海外 specialty / London 市場のプレゼンス、政策保有株ポートフォリオの規模と縮減ペース、資本還元方針である。日本側の災害エクスポージャーは、地震（[[JapanFG/japan-earthquake-reinsurance|Japan Earthquake Reinsurance]] を通じた官民 retrocession layer を伴う大損失テール）、台風 / 風災（年間頻度ベースの損失要因）、洪水（上昇する secondary peril）、雪 / 雹（小さいが変動しやすい危険）に分かれる。再保険プログラムは、国内グループ内 retrocession、non-cat 種目向け比例特約、グローバル再保険市場で購入する cat 種目向け excess-of-loss (XL) cover を組み合わせる。Tokio Marine は3社で最も海外利益比率が高く、London 市場プラットフォームと米国 specialty フットプリントを含む。MS&AD の構造的特徴は、[[JapanFG/mitsui-sumitomo-insurance|MSI]] と [[JapanFG/aioi-nissay-dowa-insurance|ADI]] からなる国内二事業会社モデルと、Toyota / mobility ecosystem との接続である。Sompo の特徴は、Sompo Japan の国内中核と、近年の戦略開示を形づくってきた改善対応 / ガバナンスの流れにある。3社はいずれも複数年の政策保有株縮減プログラムを進めており、ESR の株式リスク資本を機械的に下げ、自社株買いに使える資本を解放している。コンバインド・レシオの読みは、任意自動車、火災、賠償責任、海上、その他商業種目に分かれ、海外コンバインド・レシオはグループレベルで別建て報告される。
+「日本の損保大手3社」である [[non-life-insurers/tokio-marine|Tokio Marine Holdings]]、[[non-life-insurers/msad|MS&AD Insurance Group Holdings]]、[[non-life-insurers/sompo|Sompo Holdings]] は、日本を本拠とする複数種目の P&C フランチャイズを共有する一方、分析上の読みを左右する5つのオーバーレイ軸で異なる。すなわち、危険別の災害エクスポージャー、再保険プログラムの形状、海外 specialty / London 市場のプレゼンス、政策保有株ポートフォリオの規模と縮減ペース、資本還元方針である。日本側の災害エクスポージャーは、地震（[[non-life-insurers/japan-earthquake-reinsurance|Japan Earthquake Reinsurance]] を通じた官民 retrocession layer を伴う大損失テール）、台風 / 風災（年間頻度ベースの損失要因）、洪水（上昇する secondary peril）、雪 / 雹（小さいが変動しやすい危険）に分かれる。再保険プログラムは、国内グループ内 retrocession、non-cat 種目向け比例特約、グローバル再保険市場で購入する cat 種目向け excess-of-loss (XL) cover を組み合わせる。Tokio Marine は3社で最も海外利益比率が高く、London 市場プラットフォームと米国 specialty フットプリントを含む。MS&AD の構造的特徴は、[[non-life-insurers/mitsui-sumitomo-insurance|MSI]] と [[non-life-insurers/aioi-nissay-dowa-insurance|ADI]] からなる国内二事業会社モデルと、Toyota / mobility ecosystem との接続である。Sompo の特徴は、Sompo Japan の国内中核と、近年の戦略開示を形づくってきた改善対応 / ガバナンスの流れにある。3社はいずれも複数年の政策保有株縮減プログラムを進めており、ESR の株式リスク資本を機械的に下げ、自社株買いに使える資本を解放している。コンバインド・レシオの読みは、任意自動車、火災、賠償責任、海上、その他商業種目に分かれ、海外コンバインド・レシオはグループレベルで別建て報告される。
 
 ## ウィキ上の位置づけ
 
 このオーバーレイは [[insurance/INDEX|insurance INDEX]] の下に位置し、[[insurance/japan-nonlife-big-three|japan-nonlife-big-three]] の災害リスクおよび再保険面の補完ページである。規制資本の観点は [[insurance/global-solvency-framework-comparison-matrix|the global solvency framework comparison matrix]]、災害再保険の仕組みは [[insurance/natcat-reinsurance-japan|the nat-cat reinsurance Japan entry]]、家計地震保険の再々保険レイヤーは [[insurance/earthquake-insurance-public-private-scheme|the earthquake insurance public-private scheme]]、グローバル再保険カウンターパーティ集合は [[insurance/foreign-reinsurer-japan-landscape|the foreign-reinsurer Japan landscape]]、料率サイクルの背景は [[insurance/japan-non-life-underwriting-cycle|the Japan non-life underwriting cycle]]、代替シンジケート・ルートは [[insurance/lloyds-japan-syndicate-operating-model|the Lloyd's Japan syndicate operating model]]、専門種目の文脈は [[insurance/marine-insurance-and-pi-cover-market|the marine / P&I cover market entry]]、法人自家保険との対比は [[insurance/captive-insurance-japan-market|the captive insurance Japan market entry]] と併せて読む。
 
-このオーバーレイのクリーンなエンティティ・アンカーは [[JapanFG/tokio-marine|Tokio Marine Holdings]]、[[JapanFG/msad|MS&AD Insurance Group Holdings]]、[[JapanFG/sompo|Sompo Holdings]] であり、事業会社アンカーは [[JapanFG/tokio-marine-nichido-fire|Tokio Marine & Nichido Fire]]、[[JapanFG/mitsui-sumitomo-insurance|MSI]]、[[JapanFG/aioi-nissay-dowa-insurance|ADI]]、[[JapanFG/sompo-japan-insurance|Sompo Japan]] である。資産運用関連会社のアンカーは [[JapanFG/tokio-marine-asset-management|Tokio Marine Asset Management]]。再々保険 / 再保険カウンターパーティのアンカーは [[JapanFG/japan-earthquake-reinsurance|Japan Earthquake Reinsurance]]、[[JapanFG/toa-reinsurance|Toa Reinsurance]]、[[JapanFG/munich-re-japan|Munich Re Japan]]、[[JapanFG/swiss-re-japan|Swiss Re Japan]]、[[JapanFG/lloyd-japan|Lloyd's Japan]] である。
+このオーバーレイのクリーンなエンティティ・アンカーは [[non-life-insurers/tokio-marine|Tokio Marine Holdings]]、[[non-life-insurers/msad|MS&AD Insurance Group Holdings]]、[[non-life-insurers/sompo|Sompo Holdings]] であり、事業会社アンカーは [[non-life-insurers/tokio-marine-nichido-fire|Tokio Marine & Nichido Fire]]、[[non-life-insurers/mitsui-sumitomo-insurance|MSI]]、[[non-life-insurers/aioi-nissay-dowa-insurance|ADI]]、[[non-life-insurers/sompo-japan-insurance|Sompo Japan]] である。資産運用関連会社のアンカーは [[asset-managers/tokio-marine-asset-management|Tokio Marine Asset Management]]。再々保険 / 再保険カウンターパーティのアンカーは [[non-life-insurers/japan-earthquake-reinsurance|Japan Earthquake Reinsurance]]、[[non-life-insurers/toa-reinsurance|Toa Reinsurance]]、[[non-life-insurers/munich-re-japan|Munich Re Japan]]、[[non-life-insurers/swiss-re-japan|Swiss Re Japan]]、[[non-life-insurers/lloyd-japan|Lloyd's Japan]] である。
 
 ## このマトリクスが重要である理由
 
@@ -32,19 +32,19 @@ translated_at: 2026-06-02T14:01:20.922Z
 
 ## Tokio Marine Holdings — overseas-led specialty franchise
 
-[[JapanFG/tokio-marine|Tokio Marine Holdings]] は、大手3社の中で構造的に最も海外比重が高い。国内損保中核は [[JapanFG/tokio-marine-nichido-fire|Tokio Marine & Nichido Fire]] である。海外では、同グループは US specialty insurer（Philadelphia / Pure / HCC platforms）、Lloyd's syndicate / London 市場プレゼンス、Asia / EMEA platforms を運営する。海外利益比率は大手3社で最も高く、グループのコンバインド・レシオと ESR 感応度は、US specialty のソフト市場、London casualty cycle、海外災害イベントなど、日本外のサイクルに意味のあるエクスポージャーを持つ。
+[[non-life-insurers/tokio-marine|Tokio Marine Holdings]] は、大手3社の中で構造的に最も海外比重が高い。国内損保中核は [[non-life-insurers/tokio-marine-nichido-fire|Tokio Marine & Nichido Fire]] である。海外では、同グループは US specialty insurer（Philadelphia / Pure / HCC platforms）、Lloyd's syndicate / London 市場プレゼンス、Asia / EMEA platforms を運営する。海外利益比率は大手3社で最も高く、グループのコンバインド・レシオと ESR 感応度は、US specialty のソフト市場、London casualty cycle、海外災害イベントなど、日本外のサイクルに意味のあるエクスポージャーを持つ。
 
-災害リスクでは、Tokio Marine の日本側エクスポージャーは地震、台風、洪水、雪 / 雹という標準的な組み合わせを含む。国内地震（商業不動産および信託型リスク）は家計地震保険プールとは別であり、家計向け制度は [[JapanFG/japan-earthquake-reinsurance|Japan Earthquake Reinsurance]] と [[insurance/earthquake-insurance-public-private-scheme|the earthquake insurance public-private scheme]] を通じた政府 retrocession layer によって運営される。海外災害エクスポージャーには、US hurricane（Atlantic および Gulf）、US wildfire、European windstorm、Asian typhoon が含まれる。
+災害リスクでは、Tokio Marine の日本側エクスポージャーは地震、台風、洪水、雪 / 雹という標準的な組み合わせを含む。国内地震（商業不動産および信託型リスク）は家計地震保険プールとは別であり、家計向け制度は [[non-life-insurers/japan-earthquake-reinsurance|Japan Earthquake Reinsurance]] と [[insurance/earthquake-insurance-public-private-scheme|the earthquake insurance public-private scheme]] を通じた政府 retrocession layer によって運営される。海外災害エクスポージャーには、US hurricane（Atlantic および Gulf）、US wildfire、European windstorm、Asian typhoon が含まれる。
 
-再保険プログラムは、グループ内 retrocession（米国 specialty platform が一部 retro を Tokio Marine Reinsurance へ戻す）、non-cat 種目向けの比例再保険、グローバル市場で購入する cat 種目向け XL cover を組み合わせる。相手方には、欧州大手再保険会社（[[JapanFG/munich-re-japan|Munich Re]]、[[JapanFG/swiss-re-japan|Swiss Re]]、Hannover Re、SCOR）、Bermuda 再保険会社、[[JapanFG/lloyd-japan|Lloyd's]] syndicate、[[JapanFG/toa-reinsurance|Toa Reinsurance]] などの日本国内再保険相手方が含まれる。
+再保険プログラムは、グループ内 retrocession（米国 specialty platform が一部 retro を Tokio Marine Reinsurance へ戻す）、non-cat 種目向けの比例再保険、グローバル市場で購入する cat 種目向け XL cover を組み合わせる。相手方には、欧州大手再保険会社（[[non-life-insurers/munich-re-japan|Munich Re]]、[[non-life-insurers/swiss-re-japan|Swiss Re]]、Hannover Re、SCOR）、Bermuda 再保険会社、[[non-life-insurers/lloyd-japan|Lloyd's]] syndicate、[[non-life-insurers/toa-reinsurance|Toa Reinsurance]] などの日本国内再保険相手方が含まれる。
 
 Tokio Marine Holdings の資本還元方針は大手3社の中で最も能動的であり、累進配当と ESR に合わせた機動的な自社株買いを組み合わせる。政策保有株の縮減は複数年のプログラムとして進み、一過性の実現益を生むと同時に、ESR 上の株式リスク資本を構造的に引き下げる。
 
 ## MS&AD Insurance Group Holdings — dual-domestic および mobility-tilted
 
-[[JapanFG/msad|MS&AD Insurance Group Holdings]] は、[[JapanFG/mitsui-sumitomo-insurance|Mitsui Sumitomo Insurance (MSI)]] と [[JapanFG/aioi-nissay-dowa-insurance|Aioi Nissay Dowa Insurance (ADI)]] という2つの主要国内事業会社を持つ点で構造的に特徴づけられる。MSI は商業・産業向けブックの比重が大きく、ADI は Toyota ディーラーネットワークに由来するモビリティ保険の歴史を持ち、グループのモビリティ / connected-car エコシステムのアンカーである。
+[[non-life-insurers/msad|MS&AD Insurance Group Holdings]] は、[[non-life-insurers/mitsui-sumitomo-insurance|Mitsui Sumitomo Insurance (MSI)]] と [[non-life-insurers/aioi-nissay-dowa-insurance|Aioi Nissay Dowa Insurance (ADI)]] という2つの主要国内事業会社を持つ点で構造的に特徴づけられる。MSI は商業・産業向けブックの比重が大きく、ADI は Toyota ディーラーネットワークに由来するモビリティ保険の歴史を持ち、グループのモビリティ / connected-car エコシステムのアンカーである。
 
-災害リスクでは、MS&AD の日本側エクスポージャーは Tokio Marine と同じ危険ミックスを含む。海外では、同グループは Lloyd's syndicate ルート（[[JapanFG/lloyd-japan|Lloyd's]]構造および過去の買収から継承した MS Amlin platform）、アジア損保プラットフォーム、米国 specialty エクスポージャーを構築してきた。London 市場 / Lloyd's のフットプリントは、Sompo に対する構造的な差別化要素の一つである。
+災害リスクでは、MS&AD の日本側エクスポージャーは Tokio Marine と同じ危険ミックスを含む。海外では、同グループは Lloyd's syndicate ルート（[[non-life-insurers/lloyd-japan|Lloyd's]]構造および過去の買収から継承した MS Amlin platform）、アジア損保プラットフォーム、米国 specialty エクスポージャーを構築してきた。London 市場 / Lloyd's のフットプリントは、Sompo に対する構造的な差別化要素の一つである。
 
 再保険プログラムは Tokio Marine と似た構造を持ち、グループ内 retrocession と、外部から購入する比例再保険および XL cover を組み合わせる。二事業会社構造のため、グループレベルの再保険最適化は MSI と ADI の双方にまたがり、持株会社レベルで報告される。
 
@@ -52,7 +52,7 @@ Tokio Marine Holdings の資本還元方針は大手3社の中で最も能動的
 
 ## Sompo Holdings — domestic-coreと overseas specialty
 
-[[JapanFG/sompo|Sompo Holdings]] は [[JapanFG/sompo-japan-insurance|Sompo Japan Insurance]] を国内損保の中核として運営する。海外ポートフォリオは US specialty（Endurance / Sompo International の系譜）、欧州、アジアから成る。近年の同グループは、代理店チャネルおよびサプライヤー関連の問題から生じた改善対応 / ガバナンス開示を管理しており、その開示の流れは中期計画メッセージと規制当局との対話に影響する。代理店チャネルの文脈は [[insurance/insurance-agency-and-brokerage-japan|the agency / brokerage Japan landscape]] を参照。
+[[non-life-insurers/sompo|Sompo Holdings]] は [[non-life-insurers/sompo-japan-insurance|Sompo Japan Insurance]] を国内損保の中核として運営する。海外ポートフォリオは US specialty（Endurance / Sompo International の系譜）、欧州、アジアから成る。近年の同グループは、代理店チャネルおよびサプライヤー関連の問題から生じた改善対応 / ガバナンス開示を管理しており、その開示の流れは中期計画メッセージと規制当局との対話に影響する。代理店チャネルの文脈は [[insurance/insurance-agency-and-brokerage-japan|the agency / brokerage Japan landscape]] を参照。
 
 災害リスクでは、日本側の peril mix は他の2グループと同じである。海外 cat exposure は US specialty および Europe specialty platform に連動する。再保険プログラムの構造も類似しており、グループ内 retrocession と外部の比例再保険および XL cover を組み合わせる。
 
@@ -68,7 +68,7 @@ Tokio Marine Holdings の資本還元方針は大手3社の中で最も能動的
 - **雪災 / 雹災** — 自動車および農業関連ラインでは、規模は相対的に小さいが変動しやすい危険である。
 - **海外（米国ハリケーン、米国 wildfire、欧州 windstorm、アジア台風、サイバー、賠償責任）** — 子会社レベルの Cat XL とグループレベルの再々保険で対応する。
 
-再保険相手方の集合は、欧州大手再保険会社（[[JapanFG/munich-re-japan|Munich Re]]、[[JapanFG/swiss-re-japan|Swiss Re]]、Hannover Re、SCOR）、Bermuda 再保険会社（Renaissance Re、Everest Re、AXIS）、[[JapanFG/lloyd-japan|Lloyd's]]市場、[[JapanFG/toa-reinsurance|Toa Reinsurance]] を含む日本の再保険相手方に集中する。家計地震保険の retrocession layer は [[JapanFG/japan-earthquake-reinsurance|Japan Earthquake Reinsurance]] と、[[insurance/earthquake-insurance-public-private-scheme|the earthquake insurance public-private scheme]] 項目で記録される政府レイヤーを通じて流れる。
+再保険相手方の集合は、欧州大手再保険会社（[[non-life-insurers/munich-re-japan|Munich Re]]、[[non-life-insurers/swiss-re-japan|Swiss Re]]、Hannover Re、SCOR）、Bermuda 再保険会社（Renaissance Re、Everest Re、AXIS）、[[non-life-insurers/lloyd-japan|Lloyd's]]市場、[[non-life-insurers/toa-reinsurance|Toa Reinsurance]] を含む日本の再保険相手方に集中する。家計地震保険の retrocession layer は [[non-life-insurers/japan-earthquake-reinsurance|Japan Earthquake Reinsurance]] と、[[insurance/earthquake-insurance-public-private-scheme|the earthquake insurance public-private scheme]] 項目で記録される政府レイヤーを通じて流れる。
 
 ## コンバインド・レシオと ESR 感応度の分解
 
@@ -92,10 +92,10 @@ Tokio Marine Holdings の資本還元方針は大手3社の中で最も能動的
 
 | 軸 | Tokio Marine Holdings | MS&AD Insurance Group Holdings | Sompo Holdings |
 |---|---|---|---|
-| 上場持株会社 | [[JapanFG/tokio-marine|Tokio Marine Holdings]] (TSE Prime) | [[JapanFG/msad|MS&AD Insurance Group Holdings]] (TSE Prime) | [[JapanFG/sompo|Sompo Holdings]] (TSE Prime) |
-| 国内損保事業会社 | [[JapanFG/tokio-marine-nichido-fire|Tokio Marine & Nichido Fire]] | [[JapanFG/mitsui-sumitomo-insurance|MSI]] および [[JapanFG/aioi-nissay-dowa-insurance|ADI]]（二事業会社モデル） | [[JapanFG/sompo-japan-insurance|Sompo Japan]] |
+| 上場持株会社 | [[non-life-insurers/tokio-marine|Tokio Marine Holdings]] (TSE Prime) | [[non-life-insurers/msad|MS&AD Insurance Group Holdings]] (TSE Prime) | [[non-life-insurers/sompo|Sompo Holdings]] (TSE Prime) |
+| 国内損保事業会社 | [[non-life-insurers/tokio-marine-nichido-fire|Tokio Marine & Nichido Fire]] | [[non-life-insurers/mitsui-sumitomo-insurance|MSI]] および [[non-life-insurers/aioi-nissay-dowa-insurance|ADI]]（二事業会社モデル） | [[non-life-insurers/sompo-japan-insurance|Sompo Japan]] |
 | 生命保険子会社 | Tokio Marine & Nichido Life | Mitsui Sumitomo Aioi Life | Sompo Himawari Life |
-| 資産運用関連会社 | [[JapanFG/tokio-marine-asset-management|Tokio Marine Asset Management]] | 関連 AM ビークル | 関連 AM ビークル |
+| 資産運用関連会社 | [[asset-managers/tokio-marine-asset-management|Tokio Marine Asset Management]] | 関連 AM ビークル | 関連 AM ビークル |
 | 特徴的な構造 | 最大の海外利益シェア。US specialty と London market | 国内二事業会社、Toyota / mobility ecosystem、Lloyd’s syndicate ルート | 国内中核重視と海外 specialty プラットフォーム、改善対応の流れ |
 | IAIG ステータス | IAIG 型のグループ監督ルートの対象。[[insurance/japan-iaig-ics-mapping|Japan IAIG / ICS mapping]] を参照。 | FSA 指定に応じた IAIG 型ステータス | FSA 指定に応じた IAIG 型ステータス |
 
@@ -104,7 +104,7 @@ Tokio Marine Holdings の資本還元方針は大手3社の中で最も能動的
 | 危険 | Tokio Marine | MS&AD | Sompo |
 |---|---|---|---|
 | 地震（商業） | 重要。Cat XL が主要な緩和策 | 重要。Cat XL が主要な緩和策 | 重要。Cat XL が主要な緩和策 |
-| 地震（家計） | [[JapanFG/japan-earthquake-reinsurance|Japan Earthquake Reinsurance]] へ出再され、そのルートは [[insurance/earthquake-insurance-public-private-scheme|public-private scheme]] を通じる | 同じルート | 同じルート |
+| 地震（家計） | [[non-life-insurers/japan-earthquake-reinsurance|Japan Earthquake Reinsurance]] へ出再され、そのルートは [[insurance/earthquake-insurance-public-private-scheme|public-private scheme]] を通じる | 同じルート | 同じルート |
 | 台風 / 風災 | 年間頻度ベースで最大の損失要因 | 年間頻度ベースで最大の損失要因 | 年間頻度ベースで最大の損失要因 |
 | 洪水 | 気候要因による頻度上昇 | 気候要因による頻度上昇 | 気候要因による頻度上昇 |
 | 雪災 / 雹災 | 自動車 / 農業ラインでは変動しやすい | 自動車 / 農業ラインでは変動しやすい（ADI の農業関連フットプリント） | 自動車 / 農業ラインでは変動しやすい |
@@ -119,7 +119,7 @@ Tokio Marine Holdings の資本還元方針は大手3社の中で最も能動的
 | Cat XL カバー | 主要な災害保護。複数レイヤーのプログラム | 主要な災害保護。複数レイヤーのプログラム | 主要な災害保護。複数レイヤーのプログラム |
 | 保有レイヤー | ESR 目標に合わせてグループレベルの保有を設定 | ESR 目標に合わせてグループレベルの保有を設定 | ESR 目標に合わせてグループレベルの保有を設定 |
 | Reinstatement provisions | cat XL では標準的 | cat XL では標準的 | cat XL では標準的 |
-| 主要再保険カウンターパーティ | [[JapanFG/munich-re-japan|Munich Re]]、[[JapanFG/swiss-re-japan|Swiss Re]]、Hannover Re、SCOR、Bermuda、[[JapanFG/lloyd-japan|Lloyd's]]、[[JapanFG/toa-reinsurance|Toa Reinsurance]] | 同じグローバル・カウンターパーティ集合に、自社 Lloyd’s syndicate エクスポージャーを加える | 同じグローバル・カウンターパーティ集合 |
+| 主要再保険カウンターパーティ | [[non-life-insurers/munich-re-japan|Munich Re]]、[[non-life-insurers/swiss-re-japan|Swiss Re]]、Hannover Re、SCOR、Bermuda、[[non-life-insurers/lloyd-japan|Lloyd's]]、[[non-life-insurers/toa-reinsurance|Toa Reinsurance]] | 同じグローバル・カウンターパーティ集合に、自社 Lloyd’s syndicate エクスポージャーを加える | 同じグローバル・カウンターパーティ集合 |
 | Cat bonds / ILS | 選択的に利用 | 選択的に利用 | 選択的に利用 |
 
 ### 海外ポートフォリオと専門保険のフットプリント
@@ -206,9 +206,9 @@ Tokio Marine Holdings の資本還元方針は大手3社の中で最も能動的
 現在の大手3社の形は、20年にわたる再編を反映している：
 
 - **原系譜。** 再編前の日本損保業界には、Tokio、Nichido、Yasuda、Sumitomo、Mitsui、Taisei、Dowa、Aioi、Nippon Fire、Nissan Fire、Chiyoda、Koa など、より多くの単独保険会社が存在していた。現在の大手3社は、これらのレガシー損保の多くが合併してできた再編の産物である。
-- **Tokio Marine Holdings の形成。** Tokio Marine と Nichido Fire が合併し、[[JapanFG/tokio-marine|Tokio Marine Holdings]] の下の国内事業中核である Tokio Marine & Nichido Fire を形成した。
-- **MS&AD の形成。** Mitsui Sumitomo、Aioi、Nissay Dowa が事業を統合し、[[JapanFG/msad|MS&AD Insurance Group Holdings]] の下で MSI と ADI という2つの国内事業会社を持つ現在の MS&AD 構造を形成した。
-- **Sompo の形成。** Sompo Japan と Nipponkoa が合併し、現在の [[JapanFG/sompo-japan-insurance|Sompo Japan Insurance]] である Sompo Japan Nipponkoa を [[JapanFG/sompo|Sompo Holdings]] の下で形成した。
+- **Tokio Marine Holdings の形成。** Tokio Marine と Nichido Fire が合併し、[[non-life-insurers/tokio-marine|Tokio Marine Holdings]] の下の国内事業中核である Tokio Marine & Nichido Fire を形成した。
+- **MS&AD の形成。** Mitsui Sumitomo、Aioi、Nissay Dowa が事業を統合し、[[non-life-insurers/msad|MS&AD Insurance Group Holdings]] の下で MSI と ADI という2つの国内事業会社を持つ現在の MS&AD 構造を形成した。
+- **Sompo の形成。** Sompo Japan と Nipponkoa が合併し、現在の [[non-life-insurers/sompo-japan-insurance|Sompo Japan Insurance]] である Sompo Japan Nipponkoa を [[non-life-insurers/sompo|Sompo Holdings]] の下で形成した。
 - **海外買収の波。** 3社はいずれも 2010年代を通じて海外 P&C 買収を進めた。Tokio Marine は Philadelphia Insurance、HCC、Pure を買収し、MS&AD は Lloyd's syndicate ルートである MS Amlin を買収し、Sompo は Endurance Specialty を買収して海外 specialty book を Sompo International として再ブランド化した。
 - **2019 台風リセット。** 2019 年の Typhoon Faxai と Typhoon Hagibis は大きな国内災害損害を発生させ、その後の事業年度にわたり大手3社の再保険価格と災害予算の前提をリセットした。
 - **2025 ESR 導入。** FSA の経済価値ベースのソルベンシー制度は 2025 年4月以降に導入され、従来のソルベンシー・マージン比率に代わって国内規制資本の主要指標となった。この移行により開示言語もリセットされた。制度は [[insurance/economic-value-based-solvency|economic-value-based solvency]]、比率は [[insurance/esr-economic-value-solvency|ESR]] を参照。
@@ -249,14 +249,14 @@ Tokio Marine Holdings の資本還元方針は大手3社の中で最も能動的
 - **数値は概念的なもの。** このページはオーバーレイ・ルートである。災害予算、ESR 比率、保有レイヤー、コンバインド・レシオ、海外利益シェア、株式ポートフォリオ規模は時点依存であり、各グループの最新の統合報告書 / 年次報告書および FSA 資料から確認すべきである。
 - **再保険は無リスクではない。** 再保険回収額は損失リスクをカウンターパーティへ移すが、そのカウンターパーティに対する信用リスクを導入する。複数の再保険会社への分散と担保付き構造の利用が重要である。
 - **災害予算は計画上の仮定である。** 中期計画で開示される災害予算は、引受年度の計画数値であり保証ではない。実際の災害経験は、単年度で予算を大きく上回ることも下回ることもある。
-- **家計地震保険制度は別枠である。** 家計地震保険プールは [[JapanFG/japan-earthquake-reinsurance|Japan Earthquake Reinsurance]] と [[insurance/earthquake-insurance-public-private-scheme|the earthquake insurance public-private scheme]] に記録された政府レイヤーを通じて運営される。商業用不動産の地震保険は別の民間レイヤーである。
+- **家計地震保険制度は別枠である。** 家計地震保険プールは [[non-life-insurers/japan-earthquake-reinsurance|Japan Earthquake Reinsurance]] と [[insurance/earthquake-insurance-public-private-scheme|the earthquake insurance public-private scheme]] に記録された政府レイヤーを通じて運営される。商業用不動産の地震保険は別の民間レイヤーである。
 - **海外コンバインド・レシオは日本外のサイクルを反映する。** US specialty の soft / hard 市場、London casualty サイクル、海外災害イベントは、日本側の状況とは独立して海外コンバインド・レシオを動かす。
 - **政策保有株の縮減は順序立てて進む。** 長期保有の株式を減らすペースは、カウンターパーティ / 顧客関係上の配慮に制約され、純粋に資本だけで決まるものではない。
 - **改善対応の流れは公開開示事項である。** ガバナンス / 代理店関連の改善対応開示、とくに近年の Sompo の改善対応の流れは、中期計画メッセージと規制当局との対話に影響する。チャネル文脈は [[insurance/insurance-agency-and-brokerage-japan|the agency / brokerage Japan landscape]] を参照。
 - **MS&AD の二事業会社モデル。** MSI と ADI は持株会社の下の別個の免許事業会社である。グループレベルの再保険と資本最適化は双方にまたがる。大手3社の「単一事業会社」コンバインド・レシオを比較する際には注意が必要である。
 - **IAIG グループ監督。** 指定 IAIG には、国内 ESR と並行してグループレベルの ICS 報告が適用される。[[insurance/japan-iaig-ics-mapping|Japan IAIG / ICS mapping]] を参照。国内資本指標の見出しは ESR のままである。
 - **専門リスクの代替ルート。** [[insurance/lloyds-japan-syndicate-operating-model|The Lloyd's Japan syndicate operating model]] と [[insurance/captive-insurance-japan-market|the captive insurance Japan market]] は、大手3社の商業ブックと相互作用する専門リスク向けの代替ルートである。
-- **外国再保険会社の状況。** [[insurance/foreign-reinsurer-japan-landscape|The foreign-reinsurer Japan landscape]] の項目は、[[JapanFG/munich-re-japan|Munich Re Japan]]、[[JapanFG/swiss-re-japan|Swiss Re Japan]]、[[JapanFG/lloyd-japan|Lloyd's Japan]] を含む出再側のカウンターパーティ集合を拡張して説明する。
+- **外国再保険会社の状況。** [[insurance/foreign-reinsurer-japan-landscape|The foreign-reinsurer Japan landscape]] の項目は、[[non-life-insurers/munich-re-japan|Munich Re Japan]]、[[non-life-insurers/swiss-re-japan|Swiss Re Japan]]、[[non-life-insurers/lloyd-japan|Lloyd's Japan]] を含む出再側のカウンターパーティ集合を拡張して説明する。
 - **引受サイクルの背景。** [[insurance/japan-non-life-underwriting-cycle|The Japan non-life underwriting cycle]] は、災害経験とは独立して商業ラインの価格設定とコンバインド・レシオの方向を決める料率サイクルの背景である。
 
 ## 関連項目
@@ -274,20 +274,20 @@ Tokio Marine Holdings の資本還元方針は大手3社の中で最も能動的
 - [[insurance/esr-economic-value-solvency]]
 - [[insurance/japan-iaig-ics-mapping]]
 - [[insurance/insurance-agency-and-brokerage-japan]]
-- [[JapanFG/tokio-marine]]
-- [[JapanFG/tokio-marine-nichido-fire]]
-- [[JapanFG/tokio-marine-asset-management]]
-- [[JapanFG/msad]]
-- [[JapanFG/mitsui-sumitomo-insurance]]
-- [[JapanFG/aioi-nissay-dowa-insurance]]
-- [[JapanFG/sompo]]
-- [[JapanFG/sompo-japan-insurance]]
-- [[JapanFG/japan-earthquake-reinsurance]]
-- [[JapanFG/toa-reinsurance]]
-- [[JapanFG/munich-re-japan]]
-- [[JapanFG/swiss-re-japan]]
-- [[JapanFG/lloyd-japan]]
-- [[JapanFG/legal-financial-licenses/insurance-license-and-solvency]]
+- [[non-life-insurers/tokio-marine]]
+- [[non-life-insurers/tokio-marine-nichido-fire]]
+- [[asset-managers/tokio-marine-asset-management]]
+- [[non-life-insurers/msad]]
+- [[non-life-insurers/mitsui-sumitomo-insurance]]
+- [[non-life-insurers/aioi-nissay-dowa-insurance]]
+- [[non-life-insurers/sompo]]
+- [[non-life-insurers/sompo-japan-insurance]]
+- [[non-life-insurers/japan-earthquake-reinsurance]]
+- [[non-life-insurers/toa-reinsurance]]
+- [[non-life-insurers/munich-re-japan]]
+- [[non-life-insurers/swiss-re-japan]]
+- [[non-life-insurers/lloyd-japan]]
+- [[financial-licenses/insurance-license-and-solvency]]
 - [[INDEX|FinWiki index]]
 
 ## 出典

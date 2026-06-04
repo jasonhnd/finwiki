@@ -61,31 +61,31 @@
     "wikilinks_count": 13,
     "wikilinks": [
       "INDEX",
-      "JapanFG/aeon-bank",
-      "JapanFG/legal-financial-licenses/INDEX",
-      "JapanFG/legal-financial-licenses/payment-license-stack",
-      "JapanFG/ndfg",
-      "JapanFG/paypay-fg",
-      "JapanFG/rakuten-fg",
+      "card-issuers/aeon-bank",
+      "financial-licenses/INDEX",
+      "financial-licenses/payment-license-stack",
       "fintech/INDEX",
       "loyalty/INDEX",
       "loyalty/japan-points-landscape",
       "loyalty/v-point-smbc-ccc-case",
+      "megabanks/ndfg",
+      "megabanks/paypay-fg",
+      "payment-firms/rakuten-fg",
       "payments/INDEX",
       "payments/funds-transfer-vs-prepaid-boundary"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/aeon-bank",
-      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX",
-      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/payment-license-stack",
-      "https://finwiki.zksc.io/JapanFG/ndfg",
-      "https://finwiki.zksc.io/JapanFG/paypay-fg",
-      "https://finwiki.zksc.io/JapanFG/rakuten-fg",
+      "https://finwiki.zksc.io/card-issuers/aeon-bank",
+      "https://finwiki.zksc.io/financial-licenses/INDEX",
+      "https://finwiki.zksc.io/financial-licenses/payment-license-stack",
       "https://finwiki.zksc.io/fintech/INDEX",
       "https://finwiki.zksc.io/loyalty/INDEX",
       "https://finwiki.zksc.io/loyalty/japan-points-landscape",
       "https://finwiki.zksc.io/loyalty/v-point-smbc-ccc-case",
+      "https://finwiki.zksc.io/megabanks/ndfg",
+      "https://finwiki.zksc.io/megabanks/paypay-fg",
+      "https://finwiki.zksc.io/payment-firms/rakuten-fg",
       "https://finwiki.zksc.io/payments/INDEX",
       "https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary"
     ],
@@ -93,9 +93,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 10274,
-    "word_like_tokens": 1692,
+    "nonspace_chars": 10233,
+    "word_like_tokens": 1686,
     "inbound_wikilinks_count": 22,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-04"
   }
 }

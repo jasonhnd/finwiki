@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "slug": "life-insurers/midori-life",
+  "source_path": "life-insurers/midori-life.md",
+  "url": "https://finwiki.zksc.io/life-insurers/midori-life",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/life-insurers/midori-life.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/life-insurers/midori-life.md",
+  "domain": "life-insurers",
+  "title": "みどり生命保険",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "みどり生命保険",
+    "aliases": [
+      "みどり生命",
+      "Midori Life",
+      "Midori Life Insurance",
+      "みどり生命保険株式会社"
+    ],
+    "domain": "life-insurers",
+    "created": "2026-05-21",
+    "last_updated": "2026-05-21",
+    "last_tended": "2026-05-21",
+    "review_by": "2026-11-21",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "insurance",
+      "life-insurance",
+      "specialty-insurer",
+      "operating-company"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/menkyo/hoken.pdf",
+      "https://www.seiho.or.jp/member/list/",
+      "https://midori-life.com/company/overview/"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 第一フロンティア生命保険 for peer / contrast context and insurance index for the broader system / regulatory boundary.",
+  "headings": [
+    "みどり生命保険",
+    "Wiki route",
+    "TL;DR",
+    "1. License / group boundary",
+    "2. Why this page matters",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 6,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "financial-regulators/missing-financial-institutions-backlog",
+      "insurance/INDEX",
+      "insurance/global-solvency-framework-comparison-matrix",
+      "life-insurers/asahi-life",
+      "life-insurers/dai-ichi-frontier-life"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/financial-regulators/missing-financial-institutions-backlog",
+      "https://finwiki.zksc.io/insurance/INDEX",
+      "https://finwiki.zksc.io/insurance/global-solvency-framework-comparison-matrix",
+      "https://finwiki.zksc.io/life-insurers/asahi-life",
+      "https://finwiki.zksc.io/life-insurers/dai-ichi-frontier-life"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 1770,
+    "word_like_tokens": 273,
+    "inbound_wikilinks_count": 3,
+    "last_modified": "2026-06-04"
+  }
+}

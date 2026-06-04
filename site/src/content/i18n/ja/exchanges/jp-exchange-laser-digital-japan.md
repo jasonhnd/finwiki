@@ -72,7 +72,7 @@ translated_at: 2026-06-02T12:19:04.222Z
 
 ## 7. 戦略動向
 
-- **[[JapanFG/nomura-hd|野村グループ]] digital asset 戦略の中核**: [[exchanges/jp-exchange-crypto-garage|Crypto Garage]]（野村 × MUFG × エスビーアイ JV 系）とは異なり、Laser Digital は野村 HD が 100% 直接設立・保有するグローバルデジタル資産専業子会社。グループ全体として機関向けトレード・AM・カストディの生態系構築を推進。
+- **[[securities-firms/nomura-hd|野村グループ]] digital asset 戦略の中核**: [[exchanges/jp-exchange-crypto-garage|Crypto Garage]]（野村 × MUFG × エスビーアイ JV 系）とは異なり、Laser Digital は野村 HD が 100% 直接設立・保有するグローバルデジタル資産専業子会社。グループ全体として機関向けトレード・AM・カストディの生態系構築を推進。
 - **[[exchanges/jp-custody-komainu|Komainu]] との役割分担**: Komainu（2018 年設立、野村 × CoinShares × Ledger の JV）はカストディ・インフラ担当。Laser Digital は取引・資産運用担当。Komainu Board に Laser Digital の Steve Ashley・Jez Mohideen（CEO）が参画し、両社の密接な連携体制を示す。
 - **BDYF（natively tokenized BTC yield fund）**: 2025-2026 年の主力商品。Cayman 籍で初のネイティブ・トークン化 BTC 利回りファンドと位置付け。
 - **米国国法信託銀行申請（2026-01）**: OCC への de novo 申請により、米国での custody・spot 取引に向けた布石。

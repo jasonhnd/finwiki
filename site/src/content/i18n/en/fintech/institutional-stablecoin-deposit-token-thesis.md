@@ -24,7 +24,7 @@ Institutional-market stablecoins and the crypto asset market are entirely separa
 
 | Dimension | Retail SC (USDC etc.) | Institutional SC (deposit token) |
 |---|---|---|
-| Issuer | Crypto company | Bank ([[fintech/jpmorgan-jpmd-coin|JPM]] · [[JapanFG/mufg|三菱 UFJ]] · [[JapanFG/smfg|三井住友]] etc.) |
+| Issuer | Crypto company | Bank ([[fintech/jpmorgan-jpmd-coin|JPM]] · [[megabanks/mufg|三菱 UFJ]] · [[megabanks/smfg|三井住友]] etc.) |
 | KYC | Permissionless | Bank-account KYC = institutional grade |
 | Scale | Small-lot | 200-300 億円 per transaction |
 | Settlement target | Retail transfers · crypto asset trading | US Treasuries, corporate bonds, repo market, securities, FX |

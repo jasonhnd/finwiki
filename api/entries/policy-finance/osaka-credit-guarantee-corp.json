@@ -55,11 +55,11 @@
     "wikilinks_count": 11,
     "wikilinks": [
       "INDEX",
-      "JapanFG/jfc",
-      "JapanFG/mufg",
-      "JapanFG/resona-hd",
-      "JapanFG/smfg",
       "banking/shinkin-bank-registry-japan",
+      "financial-regulators/jfc",
+      "megabanks/mufg",
+      "megabanks/resona-hd",
+      "megabanks/smfg",
       "policy-finance/INDEX",
       "policy-finance/japan-credit-guarantee-system",
       "policy-finance/japan-policy-finance-system",
@@ -68,11 +68,11 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/jfc",
-      "https://finwiki.zksc.io/JapanFG/mufg",
-      "https://finwiki.zksc.io/JapanFG/resona-hd",
-      "https://finwiki.zksc.io/JapanFG/smfg",
       "https://finwiki.zksc.io/banking/shinkin-bank-registry-japan",
+      "https://finwiki.zksc.io/financial-regulators/jfc",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/resona-hd",
+      "https://finwiki.zksc.io/megabanks/smfg",
       "https://finwiki.zksc.io/policy-finance/INDEX",
       "https://finwiki.zksc.io/policy-finance/japan-credit-guarantee-system",
       "https://finwiki.zksc.io/policy-finance/japan-policy-finance-system",
@@ -83,9 +83,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5952,
-    "word_like_tokens": 898,
+    "nonspace_chars": 6003,
+    "word_like_tokens": 901,
     "inbound_wikilinks_count": 10,
-    "last_modified": "2026-05-24"
+    "last_modified": "2026-06-04"
   }
 }

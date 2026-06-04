@@ -14,7 +14,7 @@ translated_at: 2026-06-01T03:31:12.225Z
 
 日本的 BNPL 最好被视为结账信用边界，而不是作为一个单独的魔法类别。类似“あと払い”的产品，其合法/运营路线涉及分期销售、信用购买中介、商户收单、消费者筛选、便利店还款、钱包联动或放贷等。
 
-将此页面与 [[payments/INDEX|payments domain]]、[[JapanFG/bnpl-landscape|Japan BNPL landscape]]、[[JapanFG/paidy|Paidy]]、[[JapanFG/installment-sales-act-2020-amendment|Installment Sales Act 2020 amendment]]、[[payments/japan-card-issuer-acquirer-processor-split|card issuer / acquirer / processor split]]、[[payments/credit-purchase-card-operators-japan-index|credit-purchase registry]] 和 [[payments/cashless-jp-landscape|cashless landscape]] 一起使用。
+将此页面与 [[payments/INDEX|payments domain]]、[[payment-firms/bnpl-landscape|Japan BNPL landscape]]、[[payment-firms/paidy|Paidy]]、[[card-issuers/installment-sales-act-2020-amendment|Installment Sales Act 2020 amendment]]、[[payments/japan-card-issuer-acquirer-processor-split|card issuer / acquirer / processor split]]、[[payments/credit-purchase-card-operators-japan-index|credit-purchase registry]] 和 [[payments/cashless-jp-landscape|cashless landscape]] 一起使用。
 
 ## 边界图
 
@@ -32,10 +32,10 @@ translated_at: 2026-06-01T03:31:12.225Z
 
 在全球 BNPL 浪潮之前，日本已经拥有成熟的分期销售和卡分期基础设施。这意味着 BNPL 与以下公司竞争，有时看起来像：
 
-- [[JapanFG/jcb|JCB]]、[[JapanFG/smbc-card|SMBC Card]]、[[JapanFG/rakuten-card|Rakuten Card]]、[[JapanFG/paypay-card|PayPay Card]]信用卡分期/循环产品；
-- 传统信贷/购物信贷运营商，例如 [[JapanFG/orico|Orico]]、[[JapanFG/jaccs|JACCS]]、[[JapanFG/aplus|APLUS]] 和 [[JapanFG/credit-saison|Credit Saison]]；
-- 平台结账产品如[[JapanFG/paidy|Paidy]]；
-- 围绕 [[JapanFG/paypay|PayPay]]、[[JapanFG/rakuten-fg|Rakuten FG]] 和 [[JapanFG/mercari-hd|Mercari HD]] 的钱包/积分生态系统。
+- [[card-issuers/jcb|JCB]]、[[card-issuers/smbc-card|SMBC Card]]、[[card-issuers/rakuten-card|Rakuten Card]]、[[card-issuers/paypay-card|PayPay Card]]信用卡分期/循环产品；
+- 传统信贷/购物信贷运营商，例如 [[card-issuers/orico|Orico]]、[[card-issuers/jaccs|JACCS]]、[[card-issuers/aplus|APLUS]] 和 [[card-issuers/credit-saison|Credit Saison]]；
+- 平台结账产品如[[payment-firms/paidy|Paidy]]；
+- 围绕 [[payment-firms/paypay|PayPay]]、[[payment-firms/rakuten-fg|Rakuten FG]] 和 [[payment-firms/mercari-hd|Mercari HD]] 的钱包/积分生态系统。
 
 ## 风险问题
 
@@ -50,9 +50,9 @@ translated_at: 2026-06-01T03:31:12.225Z
 
 ## JapanFG 相关性
 
-- [[JapanFG/paidy|Paidy]] 是锚点，因为 PayPal 将其收购为日本本地 BNPL 平台。
-- [[JapanFG/bnpl-landscape|Japan BNPL landscape]]给出了公司/市场的看法；本页给出了法律/运营边界。
-- [[JapanFG/orico|Orico]]、[[JapanFG/jaccs|JACCS]]、[[JapanFG/aplus|APLUS]]、[[JapanFG/toyota-finance|Toyota Finance]] 和 [[JapanFG/shinsei-financial|Shinsei Financial]] 是现任信用/分期付款比较锚。
+- [[payment-firms/paidy|Paidy]] 是锚点，因为 PayPal 将其收购为日本本地 BNPL 平台。
+- [[payment-firms/bnpl-landscape|Japan BNPL landscape]]给出了公司/市场的看法；本页给出了法律/运营边界。
+- [[card-issuers/orico|Orico]]、[[card-issuers/jaccs|JACCS]]、[[card-issuers/aplus|APLUS]]、[[card-issuers/toyota-finance|Toyota Finance]] 和 [[consumer-finance/shinsei-financial|Shinsei Financial]] 是现任信用/分期付款比较锚。
 - 当 BNPL 与卡在同一商户结账处提供时，需要 [[payments/japan-card-issuer-acquirer-processor-split|Card issuer / acquirer split]]。
 
 ## 研究清单
@@ -66,15 +66,15 @@ translated_at: 2026-06-01T03:31:12.225Z
 ## 相关
 
 - [[payments/INDEX]]
-- [[JapanFG/bnpl-landscape]]
-- [[JapanFG/paidy]]
-- [[JapanFG/installment-sales-act-2020-amendment]]
+- [[payment-firms/bnpl-landscape]]
+- [[payment-firms/paidy]]
+- [[card-issuers/installment-sales-act-2020-amendment]]
 - [[payments/japan-card-issuer-acquirer-processor-split]]
 - [[payments/credit-purchase-card-operators-japan-index]]
 - [[payments/psp-merchant-settlement-risk]]
 - [[payments/funds-transfer-vs-prepaid-boundary]]
-- [[JapanFG/orico]]
-- [[JapanFG/jaccs]]
+- [[card-issuers/orico]]
+- [[card-issuers/jaccs]]
 - [[INDEX|FinWiki index]]
 
 ## 来源

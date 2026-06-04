@@ -55,9 +55,6 @@
     "wikilinks_count": 12,
     "wikilinks": [
       "INDEX",
-      "JapanFG/mufg",
-      "JapanFG/progmat",
-      "JapanFG/smfg",
       "fintech/INDEX",
       "fintech/bis-project-agora-overview",
       "fintech/central-banking-function-unbundling",
@@ -65,13 +62,13 @@
       "fintech/cross-border-sc-via-swift-api",
       "fintech/japan-financial-regulation",
       "fintech/japan-stablecoin-regulatory-landscape",
-      "fintech/jp-trust-type-sc-architecture"
+      "fintech/jp-trust-type-sc-architecture",
+      "megabanks/mufg",
+      "megabanks/smfg",
+      "payment-firms/progmat"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/mufg",
-      "https://finwiki.zksc.io/JapanFG/progmat",
-      "https://finwiki.zksc.io/JapanFG/smfg",
       "https://finwiki.zksc.io/fintech/INDEX",
       "https://finwiki.zksc.io/fintech/bis-project-agora-overview",
       "https://finwiki.zksc.io/fintech/central-banking-function-unbundling",
@@ -79,15 +76,18 @@
       "https://finwiki.zksc.io/fintech/cross-border-sc-via-swift-api",
       "https://finwiki.zksc.io/fintech/japan-financial-regulation",
       "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
-      "https://finwiki.zksc.io/fintech/jp-trust-type-sc-architecture"
+      "https://finwiki.zksc.io/fintech/jp-trust-type-sc-architecture",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/smfg",
+      "https://finwiki.zksc.io/payment-firms/progmat"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3357,
-    "word_like_tokens": 540,
+    "nonspace_chars": 3367,
+    "word_like_tokens": 541,
     "inbound_wikilinks_count": 12,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-06-04"
   }
 }

@@ -160,7 +160,7 @@ This page sits under [[finance/INDEX|finance domain]] as a methodology reference
 |---|---|
 | 公平意见实践 | 实物期权在 [[finance/japan-mbo-and-squeeze-out-process|MBO]] 和 [[finance/japan-tender-offer-process|TOB]] 公平意见中罕见；DCF / 市场乘数 / NAV 仍占主导 |
 | 经产省公平 M&A 指引 | 多方法估值规范；实物期权可作为补充分析提交 |
-| 政策性银行敞口 | [[policy-finance/japan-project-finance-stack-diagram|JBIC]]、[[JapanFG/dbj|DBJ]] 参与具有嵌入期权性的转型金融和可再生能源项目投资 |
+| 政策性银行敞口 | [[policy-finance/japan-project-finance-stack-diagram|JBIC]]、[[financial-regulators/dbj|DBJ]] 参与具有嵌入期权性的转型金融和可再生能源项目投资 |
 | 东证治理守则 | 资本成本参与计划鼓励明确的资本成本分析；实物期权可强化这一分析 |
 | 无风险利率锚 | [[finance/cost-of-capital-japan-2026-reference|10Y JGB]] 为标准无风险利率输入值 |
 | 波动率输入 | 行业 / 资产类别隐含或历史波动率；通常是争议最多的输入值 |

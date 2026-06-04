@@ -26,7 +26,7 @@ translated_at: 2026-06-01T03:31:12.231Z
 | 发卡通道 | 公募境内债券、外币债券（历史间歇发行）、私募银行承销债券 |
 | 监管路线 | MIC咨询（協議）发行审批；某些课程的 MoF |
 | 投资者基础 | 银行、人寿保险公司、区域银行、养老基金、零售（在某些针对零售的系列中） |
-| FinWiki 相关路线 | [[policy-finance/local-government-bond-market]]（市场层面）、[[policy-finance/japan-finance-organization-municipalities|JFM]]（替代融资渠道）、[[JapanFG/local-bond-market]]（实体集群视图） |
+| FinWiki 相关路线 | [[policy-finance/local-government-bond-market]]（市场层面）、[[policy-finance/japan-finance-organization-municipalities|JFM]]（替代融资渠道）、[[financial-regulators/local-bond-market]]（实体集群视图） |
 
 ## 2。为什么东京都债券是一个特例
 
@@ -59,7 +59,7 @@ translated_at: 2026-06-01T03:31:12.231Z
 - **贴标债券先锋** — 东京都绿色和可持续发展债券为其他都道府县的类似发行奠定了基础。
 - 机构投资者的**另类公共信贷资产** — 日本银行、保险公司和养老基金可以在保持高等级日元公共信贷的同时，摆脱日本国债的多元化。
 
-它与 [[policy-finance/japan-project-finance-stack-diagram|project-finance stack]] 自然搭配，有助于了解日本机构投资者如何在日本国债、地方债券、[[JapanFG/jbic|JBIC]] / [[JapanFG/dbj|DBJ]] 相关政府担保债券和企业信贷之间进行配置。它还与这些债券作为抵押品的 [[money-market/INDEX|money-market]] 域相邻。
+它与 [[policy-finance/japan-project-finance-stack-diagram|project-finance stack]] 自然搭配，有助于了解日本机构投资者如何在日本国债、地方债券、[[financial-regulators/jbic|JBIC]] / [[financial-regulators/dbj|DBJ]] 相关政府担保债券和企业信贷之间进行配置。它还与这些债券作为抵押品的 [[money-market/INDEX|money-market]] 域相邻。
 
 ## 5。边界情况
 
@@ -88,10 +88,10 @@ translated_at: 2026-06-01T03:31:12.231Z
 - [[policy-finance/japan-finance-organization-municipalities]]
 - [[policy-finance/japan-local-bond-association]]
 - [[policy-finance/japan-policy-finance-system]]
-- [[JapanFG/local-bond-market]]
-- [[JapanFG/local-govt-finance]]
-- [[JapanFG/jbic]]
-- [[JapanFG/dbj]]
+- [[financial-regulators/local-bond-market]]
+- [[financial-regulators/local-govt-finance]]
+- [[financial-regulators/jbic]]
+- [[financial-regulators/dbj]]
 - [[money-market/INDEX]]
 - [[INDEX|FinWiki index]]
 

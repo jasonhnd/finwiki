@@ -50,7 +50,7 @@ Pick the profile closest to your question. Most users blend two or three.
 You need to confirm what a license, registry, or supervisory route covers, and how it maps to global frameworks.
 
 - Start: [[banking/japan-banking-license-tier-comparison-matrix]] for the full Japan banking license tier overlay (megabank / regional / second / trust / net / foreign branch / shinkin / credit cooperative / rōkin / Norinchukin-JA-JF).
-- Then: [[JapanFG/legal-financial-licenses/INDEX|JapanFG legal-license INDEX]] for the license-stack catalog.
+- Then: [[financial-licenses/INDEX|JapanFG legal-license INDEX]] for the license-stack catalog.
 - For payments: [[payments/INDEX]] plus [[fintech/japan-epi-three-types-overview]] for the EPI (electronic payment instrument) framework.
 - For insurance: [[insurance/global-solvency-framework-comparison-matrix]] (FSA ESR vs IAIS ICS vs EU Solvency II vs US RBC).
 - For crypto / VASP: [[exchanges/jvcea-self-regulatory-overview]] and [[exchanges/global-vasp-regulatory-comparison-matrix]].
@@ -188,7 +188,7 @@ Bedrock pages are domain anchors that explain the system layer before you go int
 | A Japanese securities firm | [[securities/INDEX]] + [[JapanFG/INDEX]] | `JapanFG/nomura-hd.md`, `JapanFG/daiwa-sg.md`, etc. |
 | A life or non-life insurer | [[insurance/INDEX]] | [[insurance/japan-life-insurance-big-four]] or [[insurance/japan-nonlife-big-three]] + entity page |
 | A Japanese policy-finance institution | [[policy-finance/japan-policy-finance-system]] | [[policy-finance/japan-policy-finance-institution-mandate-matrix]] + entity page |
-| A foreign-bank Japan branch | [[JapanFG/foreign-bank-branches-japan-index]] | individual branch page in `JapanFG/` |
+| A foreign-bank Japan branch | [[foreign-financial-institutions/foreign-bank-branches-japan-index]] | individual branch page in `JapanFG/` |
 | A Japanese crypto exchange | [[exchanges/INDEX]] | [[exchanges/japan-cex-parent-fg-adjacency-matrix]] + entity page in `JapanFG/` or `exchanges/` |
 | A payment operator (PayPay, Rakuten Pay, au PAY, d Barai) | [[payments/INDEX]] | [[payments/japan-code-payment-operator-2025-market-share-matrix]] + entity page in `JapanFG/` |
 | BaaS operating models | [[banking/baas-japan-landscape]] | [[banking/japan-baas-operating-models]] |
@@ -213,7 +213,7 @@ If you have time for a multi-hour deep dive, here is a recommended reading order
 ### Japan banking system
 
 1. [[banking/japan-banking-license-tier-comparison-matrix]]
-2. [[JapanFG/mufg]], [[JapanFG/smfg]], [[JapanFG/mizuho-fg]]
+2. [[megabanks/mufg]], [[megabanks/smfg]], [[megabanks/mizuho-fg]]
 3. [[banking/japan-net-bank-competition-map]] + [[banking/japan-net-bank-deposit-feature-matrix-2026]]
 4. [[banking/japan-master-trust-and-custody-bank-landscape]]
 5. [[banking/cooperative-banking-japan]] + [[banking/ja-bank-system-japan]] + [[banking/jf-marine-bank-system-japan]]

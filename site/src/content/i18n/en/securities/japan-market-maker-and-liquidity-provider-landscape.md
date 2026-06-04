@@ -59,10 +59,10 @@ Each major domestic securities firm operates equity / derivatives / ETF market-m
 
 | House | Market-making relevance |
 |---|---|
-| [[JapanFG/nomura-hd|Nomura Securities]] | Largest domestic MM footprint across equity / derivatives / ETF; major ETF AP. |
-| [[JapanFG/daiwa-sg|Daiwa Securities]] | Major domestic MM across equity / derivatives / ETF. |
-| [[JapanFG/smbc-nikko|SMBC Nikko]] | Domestic MM activity across equity / derivatives; SMFG group adjacency for rates / FX. |
-| [[JapanFG/mizuho-securities|Mizuho Securities]] | Domestic MM activity; strong rates / FX integration. |
+| [[securities-firms/nomura-hd|Nomura Securities]] | Largest domestic MM footprint across equity / derivatives / ETF; major ETF AP. |
+| [[securities-firms/daiwa-sg|Daiwa Securities]] | Major domestic MM across equity / derivatives / ETF. |
+| [[securities-firms/smbc-nikko|SMBC Nikko]] | Domestic MM activity across equity / derivatives; SMFG group adjacency for rates / FX. |
+| [[securities-firms/mizuho-securities|Mizuho Securities]] | Domestic MM activity; strong rates / FX integration. |
 | MUMSS (Mitsubishi UFJ Morgan Stanley) | Domestic MM with Morgan Stanley global integration; significant equity-derivatives activity. |
 
 These houses combine MM with underwriting, prime brokerage, securities lending, and full-service institutional sales — a structurally different cost structure from pure-prop HFT firms.
@@ -170,7 +170,7 @@ HFT inventory and intraday positions require funding infrastructure:
 | Need | Source |
 |---|---|
 | Prime brokerage / financing | See [[securities/japan-prime-brokerage-and-institutional-financing|prime brokerage]] for the bulk-financing layer; global IBs provide synthetic and physical financing. |
-| Securities lending for short side | See [[securities/japan-stock-lending-market-route|stock lending market route]]; [[JapanFG/japan-securities-finance|Japan Securities Finance]] is one structural rail; broker-to-broker lending is another. |
+| Securities lending for short side | See [[securities/japan-stock-lending-market-route|stock lending market route]]; [[financial-regulators/japan-securities-finance|Japan Securities Finance]] is one structural rail; broker-to-broker lending is another. |
 | Margin trading rails | See [[securities/japan-margin-trading-and-securities-finance|margin trading]]; relevant for retail-broker MM activity in margin-trading-eligible names. |
 | Clearing margin | Posted to [[securities/japan-securities-clearing-corp|JSCC]] under member margin requirements. |
 | Cash repo and JGB collateral | Cross-asset financing via JGB repo market. |
@@ -228,15 +228,15 @@ For [[securities/japan-asset-manager-landscape-matrix|domestic ETF issuers]] (No
 - [[securities/japan-margin-trading-and-securities-finance]]
 - [[securities/japan-asset-manager-landscape-matrix]]
 - [[securities/financial-instruments-business-operators-japan-index]]
-- [[JapanFG/nomura-hd]]
-- [[JapanFG/daiwa-sg]]
-- [[JapanFG/smbc-nikko]]
-- [[JapanFG/mizuho-securities]]
-- [[JapanFG/morgan-stanley-japan]]
-- [[JapanFG/goldman-sachs-japan]]
-- [[JapanFG/japan-exchange-group]]
-- [[JapanFG/japan-securities-finance]]
-- [[JapanFG/jsda]]
+- [[securities-firms/nomura-hd]]
+- [[securities-firms/daiwa-sg]]
+- [[securities-firms/smbc-nikko]]
+- [[securities-firms/mizuho-securities]]
+- [[securities-firms/morgan-stanley-japan]]
+- [[securities-firms/goldman-sachs-japan]]
+- [[financial-regulators/japan-exchange-group]]
+- [[financial-regulators/japan-securities-finance]]
+- [[financial-regulators/jsda]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

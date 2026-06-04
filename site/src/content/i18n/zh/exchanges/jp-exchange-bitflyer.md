@@ -106,7 +106,7 @@ translated_at: 2026-05-31T03:19:56.447Z
 - [[fintech/japan-financial-regulation]] — 日本金融监管全体
 - [[exchanges/jp-exchange-binance-japan]] — 同业其他公司 overview
 - [[exchanges/jp-exchange-gmo-coin]] — 同业其他公司 overview
-- [[JapanFG/bitflyer]] — bitFlyer Holdings 母公司简介
+- [[payment-firms/bitflyer]] — bitFlyer Holdings 母公司简介
 - [[exchanges/jp-vasp-parent-company-map]] — JP VASP 母公司地图
 - [[exchanges/jvcea-self-regulatory-overview]] — JVCEA 自主监管体系
 

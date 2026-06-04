@@ -63,14 +63,6 @@
     "wikilinks_count": 18,
     "wikilinks": [
       "INDEX",
-      "JapanFG/akita-bank",
-      "JapanFG/iwate-bank",
-      "JapanFG/joyo-bank",
-      "JapanFG/legal-financial-licenses/INDEX",
-      "JapanFG/norinchukin",
-      "JapanFG/rokin-renraku",
-      "JapanFG/shinkin-central",
-      "JapanFG/zenshin-kumi",
       "banking/INDEX",
       "banking/baas-japan-landscape",
       "banking/credit-cooperative-registry-japan",
@@ -79,18 +71,18 @@
       "banking/post-megabank-positioning",
       "banking/regional-bank-consolidation-pattern",
       "banking/rokin-bank-registry-japan",
-      "banking/shinkin-bank-registry-japan"
+      "banking/shinkin-bank-registry-japan",
+      "cooperative-banks/norinchukin",
+      "cooperative-banks/rokin-renraku",
+      "cooperative-banks/shinkin-central",
+      "cooperative-banks/zenshin-kumi",
+      "financial-licenses/INDEX",
+      "regional-banks/akita-bank",
+      "regional-banks/iwate-bank",
+      "regional-banks/joyo-bank"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/akita-bank",
-      "https://finwiki.zksc.io/JapanFG/iwate-bank",
-      "https://finwiki.zksc.io/JapanFG/joyo-bank",
-      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX",
-      "https://finwiki.zksc.io/JapanFG/norinchukin",
-      "https://finwiki.zksc.io/JapanFG/rokin-renraku",
-      "https://finwiki.zksc.io/JapanFG/shinkin-central",
-      "https://finwiki.zksc.io/JapanFG/zenshin-kumi",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/baas-japan-landscape",
       "https://finwiki.zksc.io/banking/credit-cooperative-registry-japan",
@@ -99,15 +91,23 @@
       "https://finwiki.zksc.io/banking/post-megabank-positioning",
       "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
       "https://finwiki.zksc.io/banking/rokin-bank-registry-japan",
-      "https://finwiki.zksc.io/banking/shinkin-bank-registry-japan"
+      "https://finwiki.zksc.io/banking/shinkin-bank-registry-japan",
+      "https://finwiki.zksc.io/cooperative-banks/norinchukin",
+      "https://finwiki.zksc.io/cooperative-banks/rokin-renraku",
+      "https://finwiki.zksc.io/cooperative-banks/shinkin-central",
+      "https://finwiki.zksc.io/cooperative-banks/zenshin-kumi",
+      "https://finwiki.zksc.io/financial-licenses/INDEX",
+      "https://finwiki.zksc.io/regional-banks/akita-bank",
+      "https://finwiki.zksc.io/regional-banks/iwate-bank",
+      "https://finwiki.zksc.io/regional-banks/joyo-bank"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5309,
-    "word_like_tokens": 766,
-    "inbound_wikilinks_count": 68,
-    "last_modified": "2026-05-21"
+    "nonspace_chars": 5482,
+    "word_like_tokens": 783,
+    "inbound_wikilinks_count": 69,
+    "last_modified": "2026-06-04"
   }
 }

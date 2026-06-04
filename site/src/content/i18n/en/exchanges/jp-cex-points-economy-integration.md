@@ -38,6 +38,6 @@ The US Cash App (Bitcoin), PayPal (Crypto Hub), and Revolut Crypto are payment-a
 
 ## Strategic implications
 
-The "finance × platform" hybrid is the competitive axis of domestic CEXs. **LINE's withdrawal vs PayPay's entry** = a sign of SoftBank-affiliated restructuring. Going forward, d Points and PayPay Points are the next integration candidates. The [[exchanges/jp-vasp-parent-company-map]] parent-company profiles, read together with [[JapanFG/rakuten-fg|Rakuten FG]] and [[JapanFG/monex-group|Monex Group]], reveal the relationships. For stablecoin integration, read [[exchanges/jp-cex-deposit-token-stablecoin-integration|JP CEX × 預金トークン / EPI 統合]] and [[fintech/japan-stablecoin-regulatory-landscape|日本 stablecoin 規制ランドスケープ]] together.
+The "finance × platform" hybrid is the competitive axis of domestic CEXs. **LINE's withdrawal vs PayPay's entry** = a sign of SoftBank-affiliated restructuring. Going forward, d Points and PayPay Points are the next integration candidates. The [[exchanges/jp-vasp-parent-company-map]] parent-company profiles, read together with [[payment-firms/rakuten-fg|Rakuten FG]] and [[securities-firms/monex-group|Monex Group]], reveal the relationships. For stablecoin integration, read [[exchanges/jp-cex-deposit-token-stablecoin-integration|JP CEX × 預金トークン / EPI 統合]] and [[fintech/japan-stablecoin-regulatory-landscape|日本 stablecoin 規制ランドスケープ]] together.
 
 Source: public-information compilation (IR / terms of service of each CEX/points issuer, JVCEA self-regulatory disclosures, press releases of Rakuten/SBI/PayPay/Mercari)

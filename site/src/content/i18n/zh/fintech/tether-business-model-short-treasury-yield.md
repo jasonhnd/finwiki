@@ -31,7 +31,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 ## Reasoning
 
 - 行业相关者的评价：“结果论来看赚到了钱”“最初像诈骗一样的生意”——反映其起源背景
-- 稳定币市场中，短期利率“直接利润化”的结构，监管型稳定币（USDC、[[JapanFG/jpyc|JPYC]]、银行发行存款代币）同样具备，但 Tether 通过规模 × 最小化 KYC 成本实现利润率最大化
+- 稳定币市场中，短期利率“直接利润化”的结构，监管型稳定币（USDC、[[payment-firms/jpyc|JPYC]]、银行发行存款代币）同样具备，但 Tether 通过规模 × 最小化 KYC 成本实现利润率最大化
 - 在美国短期利率上行周期（2023-2025）中利润急增；在日元利率上升缓慢期间，日本 SC 发行体无法复制同等利润结构（同样的“利息归谁所有”问题在 [[fintech/stablecoin-revenue-split-economics|稳定币利息分润経済学]] 中已整理）
 - 由于 [[fintech/institutional-stablecoin-deposit-token-thesis|預金トークン論]] 的存在，结构上无法进入机构投资者市场，因此主要用途是零售 / 交易所内 / 海外汇款
 

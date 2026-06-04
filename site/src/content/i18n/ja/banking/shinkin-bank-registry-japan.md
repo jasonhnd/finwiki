@@ -24,7 +24,7 @@ translated_at: 2026-06-02T11:47:37.288Z
 | 項目 | 値 |
 | --- | --- |
 | FSA基準日 | 令和7年11月6日現在 |
-| 中央機関 | [[JapanFG/shinkin-central]] |
+| 中央機関 | [[cooperative-banks/shinkin-central]] |
 | ワークブック内の中央機関の行 | 1 |
 | 免許を持つ信用金庫 | 254 |
 | 法的／制度的経路 | 信用金庫法 |
@@ -34,7 +34,7 @@ translated_at: 2026-06-02T11:47:37.288Z
 
 - 索引レベルで公式の信用金庫の母集団を閉じ、254  のシグナルの低い独立ページを作らない。
 - 協同組織型の地域金融、地域の中小企業向け融資、中央機関分析のための完全な名称レベルの経路を提供する。
-- [[JapanFG/shinkin-central|Shinkin Central Bank]] をシステム上重要なエンティティページとして維持しつつ、ロングテールの機関はこの索引を通じて経路づける。
+- [[cooperative-banks/shinkin-central|Shinkin Central Bank]] をシステム上重要なエンティティページとして維持しつつ、ロングテールの機関はこの索引を通じて経路づける。
 - 法人番号と本店所在地は公開レジストリの項目である；代表電話番号は出典のワークブックに残し、索引を一覧しやすく保つためここでは省略する。
 
 ## 3. 監督財務局別の件数
@@ -420,8 +420,8 @@ translated_at: 2026-06-02T11:47:37.288Z
 
 - [[banking/cooperative-banking-japan]]
 - [[banking/regional-bank-consolidation-pattern]]
-- [[JapanFG/shinkin-central|信金中央金庫]]
-- [[JapanFG/missing-financial-institutions-backlog]]
+- [[cooperative-banks/shinkin-central|信金中央金庫]]
+- [[financial-regulators/missing-financial-institutions-backlog]]
 - [[banking/INDEX]]
 
 ## 出典

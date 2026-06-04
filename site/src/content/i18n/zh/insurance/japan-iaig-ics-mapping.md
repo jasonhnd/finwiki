@@ -14,13 +14,13 @@ translated_at: 2026-05-31T11:13:44.864Z
 
 本条目位于 [[insurance/INDEX|insurance index]]，是日本总部保险集团的 IAIS 国际活跃保险集团（IAIG）认定与保险资本标准（ICS）申报交叉主题的路由页。建议与 [[insurance/global-solvency-framework-comparison-matrix|global solvency framework matrix]] 一起阅读，用于制度比较；与 [[insurance/economic-value-based-solvency|economic-value-based solvency]] 一起阅读，用于理解日本 FSA 框架；与 [[insurance/esr-economic-value-solvency|ESR]] 一起阅读，用于公司比率口径；与 [[insurance/japan-life-insurance-big-four|Japan life big four]] 一起阅读，用于寿险侧实体；与 [[insurance/japan-nonlife-big-three|Japan non-life big three]] 一起阅读，用于财险侧实体；与 [[insurance/foreign-life-affiliate-japan-positioning|foreign-life affiliates positioning]] 一起阅读，用于外资 IAIG 日本子公司的视角；并与 [[insurance/japan-life-insurance-alm-overview|Japan life ALM overview]] 一起阅读，用于理解 ICS 报送所覆盖的资产负债表驱动因素。
 
-牌照路径背景见 [[JapanFG/legal-financial-licenses/insurance-license-and-solvency|insurance license and solvency route]]。
+牌照路径背景见 [[financial-licenses/insurance-license-and-solvency|insurance license and solvency route]]。
 
 ## TL;DR
 
 IAIS 的 Insurance Capital Standard Version 2.0 在 2020-2024 五年监测期后，于 2024-12 定稿，并自 2025 起成为国际活跃保险集团（IAIG）的规定资本要求（PCR）。IAIG 是否被认定，由集团级主管机构依据 IAIS 标准执行，标准包括跨法域经营活动与规模门槛。
 
-对于日本总部保险集团，FSA 担任集团级主管机构，负责 IAIG 认定、ICS 报送收集、在适用时批准内部模型，以及参与国际监管学院。通常被讨论为 IAIG 候选或已认定对象的日本总部集团，在财险侧包括 [[JapanFG/tokio-marine|Tokio Marine]]、[[JapanFG/msad|MS&AD]]、[[JapanFG/sompo|Sompo]]，在寿险侧包括 [[JapanFG/nippon-life|Nippon Life]]、[[JapanFG/dai-ichi-life|Dai-ichi Life]]、[[JapanFG/sumitomo-life|Sumitomo Life]]、[[JapanFG/meiji-yasuda|Meiji Yasuda]]。已认定 IAIG 的公开名单由 IAIS 及各集团级主管机构维护。
+对于日本总部保险集团，FSA 担任集团级主管机构，负责 IAIG 认定、ICS 报送收集、在适用时批准内部模型，以及参与国际监管学院。通常被讨论为 IAIG 候选或已认定对象的日本总部集团，在财险侧包括 [[non-life-insurers/tokio-marine|Tokio Marine]]、[[non-life-insurers/msad|MS&AD]]、[[non-life-insurers/sompo|Sompo]]，在寿险侧包括 [[life-insurers/nippon-life|Nippon Life]]、[[life-insurers/dai-ichi-life|Dai-ichi Life]]、[[life-insurers/sumitomo-life|Sumitomo Life]]、[[life-insurers/meiji-yasuda|Meiji Yasuda]]。已认定 IAIG 的公开名单由 IAIS 及各集团级主管机构维护。
 
 日本的做法，是在本国 FSA 的 [[insurance/economic-value-based-solvency|ESR]] 制度之上，再叠加集团层面的 ICS。两套框架在理念上相近，但并不完全相同。
 
@@ -44,9 +44,9 @@ IAIS 通过 ComFrame（国际活跃保险集团监管共同框架）公开 IAIG 
 
 | 集团 | 与 IAIG 标准相关的国际足迹 |
 |---|---|
-| [[JapanFG/tokio-marine|Tokio Marine]] | 拥有全球财险 franchise，在美国（Philadelphia Consolidated、HCC、Pure Group）、欧洲、亚洲均有重要并购与布局，并具有 Lloyd's syndicate 存在，国际保费占比具有结构性意义 |
-| [[JapanFG/msad|MS&AD]] | 通过 [[JapanFG/aioi-nissay-dowa-insurance|Aioi Nissay Dowa Insurance]]（与 Toyota / mobility 全球关系）、MS Amlin（专业再保险、Lloyd's）及海外财险子公司形成国际布局 |
-| [[JapanFG/sompo|Sompo]] | 国际业务包括 Sompo International（专业险与再保险）、历史上的 Endurance / Sompo International 范围，以及海外分销网络 |
+| [[non-life-insurers/tokio-marine|Tokio Marine]] | 拥有全球财险 franchise，在美国（Philadelphia Consolidated、HCC、Pure Group）、欧洲、亚洲均有重要并购与布局，并具有 Lloyd's syndicate 存在，国际保费占比具有结构性意义 |
+| [[non-life-insurers/msad|MS&AD]] | 通过 [[non-life-insurers/aioi-nissay-dowa-insurance|Aioi Nissay Dowa Insurance]]（与 Toyota / mobility 全球关系）、MS Amlin（专业再保险、Lloyd's）及海外财险子公司形成国际布局 |
+| [[non-life-insurers/sompo|Sompo]] | 国际业务包括 Sompo International（专业险与再保险）、历史上的 Endurance / Sompo International 范围，以及海外分销网络 |
 
 这三家财险集团因国际足迹而普遍被视为 IAIG。FSA 作为集团级主管机构，在控股公司层面运行 ICS 报送。
 
@@ -54,14 +54,14 @@ IAIS 通过 ComFrame（国际活跃保险集团监管共同框架）公开 IAIG 
 
 | 集团 | 与 IAIG 标准相关的国际足迹 |
 |---|---|
-| [[JapanFG/nippon-life|Nippon Life]] | 日本最大寿险公司，在多个法域拥有保险与资管投资及并购；国际足迹明确，但相对于其总资产负债表，国际占比通常小于财险同业 |
-| [[JapanFG/dai-ichi-life|Dai-ichi Life]] | 上市寿险控股，拥有 TAL Australia、Protective Life US 及亚洲业务，国际足迹具有结构性意义 |
-| [[JapanFG/sumitomo-life|Sumitomo Life]] | 拥有海外投资组合和选择性的海外保险投资，国际足迹存在，但更集中于投资而非经营性保险业务 |
-| [[JapanFG/meiji-yasuda|Meiji Yasuda]] | 国际足迹包括 StanCorp Financial Group US，以及部分亚洲和欧洲投资 |
+| [[life-insurers/nippon-life|Nippon Life]] | 日本最大寿险公司，在多个法域拥有保险与资管投资及并购；国际足迹明确，但相对于其总资产负债表，国际占比通常小于财险同业 |
+| [[life-insurers/dai-ichi-life|Dai-ichi Life]] | 上市寿险控股，拥有 TAL Australia、Protective Life US 及亚洲业务，国际足迹具有结构性意义 |
+| [[life-insurers/sumitomo-life|Sumitomo Life]] | 拥有海外投资组合和选择性的海外保险投资，国际足迹存在，但更集中于投资而非经营性保险业务 |
+| [[life-insurers/meiji-yasuda|Meiji Yasuda]] | 国际足迹包括 StanCorp Financial Group US，以及部分亚洲和欧洲投资 |
 
 各寿险公司的 IAIG 认定，取决于 FSA 作为集团级主管机构在具体年度对 IAIS 标准门槛的适用。IAIS 与 FSA 均维护公开 IAIG 名单。Sumitomo Life 与 Meiji Yasuda 是否达到门槛，也受年度国际业务测度影响。
 
-[[JapanFG/sony-fg|Sony Financial Group]] / [[JapanFG/sony-life|Sony Life]] 的范围见 [[insurance/sony-life-group-life-operating-model|Sony Life Lifeplanner / group-life operating model]]。其结构与日本传统相互会社同业不同，因为最终母公司是非保险业的 Sony Group Corporation，保险集团边界也窄于独立的大型日本相互会社。其 IAIG 范围分类取决于 FSA 对集团边界的定义。
+[[megabanks/sony-fg|Sony Financial Group]] / [[life-insurers/sony-life|Sony Life]] 的范围见 [[insurance/sony-life-group-life-operating-model|Sony Life Lifeplanner / group-life operating model]]。其结构与日本传统相互会社同业不同，因为最终母公司是非保险业的 Sony Group Corporation，保险集团边界也窄于独立的大型日本相互会社。其 IAIG 范围分类取决于 FSA 对集团边界的定义。
 
 ## ICS 2.0 报送时间线
 
@@ -148,7 +148,7 @@ ICS 2.0 允许在特定风险模块中使用内部模型成分，但须经集团
 | IAIS 观察员（如适用） | 跨法域监测与基准比较 |
 | 集团内部审计或外部审计代表（如受邀） | 讨论与集团风险相关的审计发现 |
 
-对于 [[JapanFG/tokio-marine|Tokio Marine]]，东道监管参与方通常包括美国州监管机构（Philadelphia Consolidated、HCC、Pure Group）、英国 PRA（Lloyd's syndicate）以及其他亚洲与欧洲监管机构。对于 [[JapanFG/dai-ichi-life|Dai-ichi Life]]，通常包括 APRA（澳大利亚，针对 TAL）、美国州监管机构（针对 Protective Life）及部分亚洲监管机构。对于 [[JapanFG/msad|MS&AD]] 与 [[JapanFG/sompo|Sompo]]，东道监管结构则取决于各集团的海外财险布局。
+对于 [[non-life-insurers/tokio-marine|Tokio Marine]]，东道监管参与方通常包括美国州监管机构（Philadelphia Consolidated、HCC、Pure Group）、英国 PRA（Lloyd's syndicate）以及其他亚洲与欧洲监管机构。对于 [[life-insurers/dai-ichi-life|Dai-ichi Life]]，通常包括 APRA（澳大利亚，针对 TAL）、美国州监管机构（针对 Protective Life）及部分亚洲监管机构。对于 [[non-life-insurers/msad|MS&AD]] 与 [[non-life-insurers/sompo|Sompo]]，东道监管结构则取决于各集团的海外财险布局。
 
 监管学院是 ICS 能在集团层面运作的实际基础设施。若没有母国与东道监管之间的协调信息共享，集团层面的资本数字将难以可靠测量。
 
@@ -199,16 +199,16 @@ FSA 不会单方面对外国 IAIG 的日本子公司直接适用集团层面的 
 - [[insurance/natcat-reinsurance-japan]]
 - [[insurance/earthquake-insurance-public-private-scheme]]
 - [[insurance/mutual-vs-stock-life-insurer]]
-- [[JapanFG/tokio-marine]]
-- [[JapanFG/msad]]
-- [[JapanFG/sompo]]
-- [[JapanFG/nippon-life]]
-- [[JapanFG/dai-ichi-life]]
-- [[JapanFG/sumitomo-life]]
-- [[JapanFG/meiji-yasuda]]
-- [[JapanFG/sony-life]]
-- [[JapanFG/sony-fg]]
-- [[JapanFG/legal-financial-licenses/insurance-license-and-solvency]]
+- [[non-life-insurers/tokio-marine]]
+- [[non-life-insurers/msad]]
+- [[non-life-insurers/sompo]]
+- [[life-insurers/nippon-life]]
+- [[life-insurers/dai-ichi-life]]
+- [[life-insurers/sumitomo-life]]
+- [[life-insurers/meiji-yasuda]]
+- [[life-insurers/sony-life]]
+- [[megabanks/sony-fg]]
+- [[financial-licenses/insurance-license-and-solvency]]
 - [[finance/japan-listed-financial-groups-investable-universe]]
 - [[INDEX|FinWiki index]]
 

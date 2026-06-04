@@ -16,7 +16,7 @@ This entry sits under [[manufacturer-finance/INDEX|manufacturing index]]. Read i
 
 ## TL;DR
 
-Seiko Epson is a precision / electronics-equipment maker headquartered in Suwa City, Nagano Prefecture. It is referenced from the Nagano-Prefecture manufacturing main-bank context of [[JapanFG/hachijuni-bank|八十二銀行]]. Holding printing, projectors, robotics, and precision equipment, it is a manufacturing anchor for viewing the contact point between Nagano's electronics-industry cluster and regional finance.
+Seiko Epson is a precision / electronics-equipment maker headquartered in Suwa City, Nagano Prefecture. It is referenced from the Nagano-Prefecture manufacturing main-bank context of [[regional-banks/hachijuni-bank|八十二銀行]]. Holding printing, projectors, robotics, and precision equipment, it is a manufacturing anchor for viewing the contact point between Nagano's electronics-industry cluster and regional finance.
 
 ## 1. Corporate structure
 
@@ -45,7 +45,7 @@ The official company outline organizes Epson's businesses into the 4  areas of P
 
 ## 3. Strategy and competition
 
-- **Nagano electronics-industry anchor**: as a company representing the precision-machinery / electronic-components cluster around Suwa / Matsumoto, it connects to the local manufacturing-finance context of [[JapanFG/hachijuni-bank|hachijuni-bank]].
+- **Nagano electronics-industry anchor**: as a company representing the precision-machinery / electronic-components cluster around Suwa / Matsumoto, it connects to the local manufacturing-finance context of [[regional-banks/hachijuni-bank|hachijuni-bank]].
 - **Transformation of printing dependence**: Office / Home Printing is a major revenue source but faces paperless trends and changes in the consumables model.
 - **Robotics / industrial equipment**: against the backdrop of labor shortages and factory automation, there is growth room for industrial robots and precision equipment.
 - **Environmental strategy**: energy saving, resource circulation, and decarbonization become not only matters of corporate value but also financing themes for equipment renewal and regional finance.
@@ -58,7 +58,7 @@ The official company outline organizes Epson's businesses into the 4  areas of P
 
 ## Related
 
-- [[JapanFG/hachijuni-bank|hachijuni-bank]]
+- [[regional-banks/hachijuni-bank|hachijuni-bank]]
 - [[manufacturer-finance/toyota-motor|toyota-motor]]
 - [[manufacturer-finance/INDEX|manufacturing INDEX]] · [[INDEX|FinWiki index]]
 

@@ -1,0 +1,90 @@
+{
+  "schema_version": "1.0",
+  "slug": "megabanks/sbi-hd",
+  "source_path": "megabanks/sbi-hd.md",
+  "url": "https://finwiki.zksc.io/megabanks/sbi-hd",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/megabanks/sbi-hd.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/megabanks/sbi-hd.md",
+  "domain": "megabanks",
+  "title": "SBI ホールディングス (SBI HD)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "SBI ホールディングス (SBI HD)",
+    "aliases": [
+      "SBI HD",
+      "SBI Holdings",
+      "SBIホールディングス",
+      "SBI Holdings",
+      "Inc.",
+      "SBI 集団"
+    ],
+    "domain": "megabanks",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "internet-finance"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: SBIホールディングス (2026-05-19 抽出, FY2024/3期 = 2025-03 期 財務 KPI)",
+      "Wikipedia: SBI証券 (2026-05-19 抽出, 口座数 1500 万・FY2024/3 業績)",
+      "Wikipedia: 三井住友フィナンシャルグループ (2026-05-18 抽出, SMBC-SBI アライアンス cross-ref)"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 三菱 UFJ FG (MUFG) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "SBI ホールディングス (SBI HD)",
+    "Wiki route",
+    "TL;DR",
+    "1. 会社概要",
+    "連結財務 KPI（FY2024/3 期 = 2025-03 期）^[extracted]",
+    "主要株主（2025-07-17 時点）^[extracted]",
+    "主要子会社・持分",
+    "重要年表（抜粋）^[extracted]",
+    "2. 事業セグメント・マップ",
+    "「第 4 のメガバンク構想」（2020〜）"
+  ],
+  "body_links": {
+    "wikilinks_count": 12,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "banking/INDEX",
+      "banking/mercari-bank-license-stack",
+      "banking/minna-bank-baas-model",
+      "megabanks/mufg",
+      "mizuho-fg",
+      "mufg",
+      "ndfg",
+      "rakuten-fg",
+      "shimane-bank",
+      "smfg",
+      "ssnb"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/banking/mercari-bank-license-stack",
+      "https://finwiki.zksc.io/banking/minna-bank-baas-model",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/mizuho-fg",
+      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/ndfg",
+      "https://finwiki.zksc.io/rakuten-fg",
+      "https://finwiki.zksc.io/shimane-bank",
+      "https://finwiki.zksc.io/smfg",
+      "https://finwiki.zksc.io/ssnb"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 7381,
+    "word_like_tokens": 1435,
+    "inbound_wikilinks_count": 47,
+    "last_modified": "2026-06-04"
+  }
+}

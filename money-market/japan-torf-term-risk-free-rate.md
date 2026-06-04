@@ -28,7 +28,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[money-market/INDEX|money-market index]]. Read it against [[money-market/japan-tibor-benchmark-rate|TIBOR]] for the quote-based credit-sensitive contrast, [[money-market/japan-money-market-benchmark-reform-tona|Japan money-market benchmark reform (TONA)]] for how the JPY risk-free-rate complex was built, and [[derivatives/ois-tona-curve|the OIS TONA curve]] for the derivative inputs TORF is computed from. The supervisory anchor is [[JapanFG/fsa|the FSA]].
+This entry sits under [[money-market/INDEX|money-market index]]. Read it against [[money-market/japan-tibor-benchmark-rate|TIBOR]] for the quote-based credit-sensitive contrast, [[money-market/japan-money-market-benchmark-reform-tona|Japan money-market benchmark reform (TONA)]] for how the JPY risk-free-rate complex was built, and [[derivatives/ois-tona-curve|the OIS TONA curve]] for the derivative inputs TORF is computed from. The supervisory anchor is [[financial-regulators/fsa|the FSA]].
 
 ## TL;DR
 
@@ -51,7 +51,7 @@ For FinWiki, TORF is the "term version of the risk-free rate": it gives the forw
 | Underlying | Yen OIS (overnight index swap) transaction data referencing the uncollateralized overnight call rate (TONA). |
 | Credit content | Near risk-free — it carries almost none of the bank-credit / term premium that TIBOR embeds. |
 | Direction | Forward-looking: the term rate is known at the *start* of the interest period. |
-| Regulatory status | TORF is designated a "Specified Financial Benchmark" and QBS a "Specified Financial Benchmark Administrator" under the Financial Instruments and Exchange Act, supervised by the [[JapanFG/fsa|FSA]]. |
+| Regulatory status | TORF is designated a "Specified Financial Benchmark" and QBS a "Specified Financial Benchmark Administrator" under the Financial Instruments and Exchange Act, supervised by the [[financial-regulators/fsa|FSA]]. |
 | Currency | Japanese yen. |
 
 Because TORF is built from OIS data rather than from reference-bank judgement (TIBOR) or from a pool of overnight cash trades (TONA), it occupies a distinct methodological niche: a *term* rate that still inherits the *risk-free* character of the overnight rate beneath it.
@@ -63,7 +63,7 @@ Because TORF is built from OIS data rather than from reference-bank judgement (T
 | Nature | Term, forward-looking. | Overnight, backward-looking. | Term, forward-looking. |
 | Basis | Derived from TONA-referencing OIS data. | Volume-weighted average of actual uncollateralized overnight call trades. | Reference-bank quotes for unsecured term funding. |
 | Credit content | Near risk-free. | Near risk-free. | Embeds bank credit / term premium. |
-| Administrator | QUICK Benchmarks Inc. | [[JapanFG/boj-monetary-policy|Bank of Japan]]. | JBA TIBOR Administration (JBATA). |
+| Administrator | QUICK Benchmarks Inc. | [[financial-regulators/boj-monetary-policy|Bank of Japan]]. | JBA TIBOR Administration (JBATA). |
 | Typical use | Loans / products wanting a *forward-looking risk-free* term fix. | OIS, discounting, compounded-in-arrears products. | Term loans / bonds wanting a credit-sensitive term fix. |
 
 The three are complementary, not interchangeable. The spread between term TORF and term [[money-market/japan-tibor-benchmark-rate|TIBOR]] over the same tenor is, in effect, a market read on the bank-credit / term-premium component — because the two differ mainly in whether bank credit is embedded.
@@ -102,10 +102,10 @@ This governance is what lets TORF function as a usable reference rate rather tha
 
 ## JapanFG Relevance
 
-- [[JapanFG/fsa|FSA]] supervises TORF as a Specified Financial Benchmark and its administrator as a Specified Financial Benchmark Administrator.
-- [[JapanFG/boj-monetary-policy|BoJ]] administers TONA, the overnight rate underneath TORF, and convened the cross-industry benchmark-reform committee.
-- [[JapanFG/zenginkyo|Japanese Bankers Association (Zenginkyō)]] hosts JBATA, administrator of the contrasting TIBOR benchmark.
-- Megabanks [[JapanFG/mufg]], [[JapanFG/smfg]], and [[JapanFG/mizuho-fg]] are the major JPY lenders choosing between TORF, TIBOR, and compounded TONA for loan documentation.
+- [[financial-regulators/fsa|FSA]] supervises TORF as a Specified Financial Benchmark and its administrator as a Specified Financial Benchmark Administrator.
+- [[financial-regulators/boj-monetary-policy|BoJ]] administers TONA, the overnight rate underneath TORF, and convened the cross-industry benchmark-reform committee.
+- [[financial-regulators/zenginkyo|Japanese Bankers Association (Zenginkyō)]] hosts JBATA, administrator of the contrasting TIBOR benchmark.
+- Megabanks [[megabanks/mufg]], [[megabanks/smfg]], and [[megabanks/mizuho-fg]] are the major JPY lenders choosing between TORF, TIBOR, and compounded TONA for loan documentation.
 
 ## Boundary Cases
 
@@ -125,12 +125,12 @@ This governance is what lets TORF function as a usable reference rate rather tha
 - [[derivatives/ois-tona-curve]]
 - [[derivatives/japan-irs-market]]
 - [[derivatives/japan-interest-rate-derivatives-overview]]
-- [[JapanFG/fsa]]
-- [[JapanFG/boj-monetary-policy]]
-- [[JapanFG/zenginkyo]]
-- [[JapanFG/mufg]]
-- [[JapanFG/smfg]]
-- [[JapanFG/mizuho-fg]]
+- [[financial-regulators/fsa]]
+- [[financial-regulators/boj-monetary-policy]]
+- [[financial-regulators/zenginkyo]]
+- [[megabanks/mufg]]
+- [[megabanks/smfg]]
+- [[megabanks/mizuho-fg]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

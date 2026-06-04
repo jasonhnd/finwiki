@@ -12,9 +12,9 @@ translated_at: 2026-05-31T11:13:44.925Z
 
 ## Overview
 
-Japanese household earthquake insurance is not a normal private non-life product. It is a public-private scheme involving private non-life insurers, [[JapanFG/japan-earthquake-reinsurance|Japan Earthquake Reinsurance]], and the Japanese government. It is normally attached to household fire insurance and is designed for residential buildings and household goods, with statutory product constraints, payout classifications, and a government-backed reinsurance structure.
+Japanese household earthquake insurance is not a normal private non-life product. It is a public-private scheme involving private non-life insurers, [[non-life-insurers/japan-earthquake-reinsurance|Japan Earthquake Reinsurance]], and the Japanese government. It is normally attached to household fire insurance and is designed for residential buildings and household goods, with statutory product constraints, payout classifications, and a government-backed reinsurance structure.
 
-Use this page with [[insurance/natcat-reinsurance-japan|nat-cat reinsurance Japan]], [[insurance/japan-nonlife-big-three|Japan non-life big three]], [[JapanFG/japan-earthquake-reinsurance|Japan Earthquake Reinsurance]], [[JapanFG/toa-reinsurance|Toa Reinsurance]], [[JapanFG/tokio-marine|Tokio Marine]], [[JapanFG/msad|MS&AD]], and [[JapanFG/sompo|Sompo]].
+Use this page with [[insurance/natcat-reinsurance-japan|nat-cat reinsurance Japan]], [[insurance/japan-nonlife-big-three|Japan non-life big three]], [[non-life-insurers/japan-earthquake-reinsurance|Japan Earthquake Reinsurance]], [[non-life-insurers/toa-reinsurance|Toa Reinsurance]], [[non-life-insurers/tokio-marine|Tokio Marine]], [[non-life-insurers/msad|MS&AD]], and [[non-life-insurers/sompo|Sompo]].
 
 ## Scheme Map
 
@@ -54,7 +54,7 @@ Layer amounts and total payment limits are recorded with the source date from Ja
 | Public role | Direct government reinsurance participation | Usually indirect, except public disaster finance and policy measures |
 | FinWiki route | This page | [[insurance/natcat-reinsurance-japan]] |
 
-Do not use the household earthquake scheme to infer the entire catastrophe exposure of [[JapanFG/tokio-marine|Tokio Marine]], [[JapanFG/msad|MS&AD]], or [[JapanFG/sompo|Sompo]]. Large non-life groups also write commercial, overseas, and non-earthquake catastrophe risks that sit outside this public-private household scheme.
+Do not use the household earthquake scheme to infer the entire catastrophe exposure of [[non-life-insurers/tokio-marine|Tokio Marine]], [[non-life-insurers/msad|MS&AD]], or [[non-life-insurers/sompo|Sompo]]. Large non-life groups also write commercial, overseas, and non-earthquake catastrophe risks that sit outside this public-private household scheme.
 
 ## Scheme Effects
 
@@ -71,7 +71,7 @@ The public-private scheme has the following structural effects:
 1. Household earthquake insurance or broader catastrophe reinsurance category.
 2. Numeric limits or layers with Japan Earthquake Reinsurance / MOF source date.
 3. Link company-level non-life exposure to [[insurance/japan-nonlife-big-three|non-life big three]] and [[insurance/natcat-reinsurance-japan|nat-cat reinsurance Japan]].
-4. Link public scheme mechanics to [[JapanFG/japan-earthquake-reinsurance|Japan Earthquake Reinsurance]].
+4. Link public scheme mechanics to [[non-life-insurers/japan-earthquake-reinsurance|Japan Earthquake Reinsurance]].
 5. Boundary between household earthquake scheme and commercial catastrophe loss.
 
 ## Related
@@ -79,11 +79,11 @@ The public-private scheme has the following structural effects:
 - [[insurance/INDEX]]
 - [[insurance/natcat-reinsurance-japan]]
 - [[insurance/japan-nonlife-big-three]]
-- [[JapanFG/japan-earthquake-reinsurance]]
-- [[JapanFG/toa-reinsurance]]
-- [[JapanFG/tokio-marine]]
-- [[JapanFG/msad]]
-- [[JapanFG/sompo]]
+- [[non-life-insurers/japan-earthquake-reinsurance]]
+- [[non-life-insurers/toa-reinsurance]]
+- [[non-life-insurers/tokio-marine]]
+- [[non-life-insurers/msad]]
+- [[non-life-insurers/sompo]]
 - [[policy-finance/INDEX]]
 - [[INDEX|FinWiki index]]
 

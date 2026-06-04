@@ -108,7 +108,7 @@ DMM.com証券と DMM Bitcoin は別法人（住所は同じ東京日本橋タワ
 - [[fintech/japan-financial-regulation]] — 日本金融規制全体
 - [[fintech/japan-bittrade-listing-process]] — 上币流程一般论
 - [[fintech/japan-stablecoin-regulatory-landscape]] — 関連 stablecoin 制度
-- [[JapanFG/dmm-com-securities]] — JapanFG DMM.com 証券プロファイル
+- [[securities-firms/dmm-com-securities]] — JapanFG DMM.com 証券プロファイル
 - [[exchanges/jp-vasp-derivative-license-system]] — JP VASP デリバティブライセンス制度
 - [[exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis]] — DMM Bitcoin Lazarus ハック詳細分析（グループ関連）
 

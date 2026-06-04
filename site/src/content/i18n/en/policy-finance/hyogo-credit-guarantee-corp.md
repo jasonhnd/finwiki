@@ -15,7 +15,7 @@ This entry sits under [[policy-finance/INDEX|policy-finance index]] as one of th
 
 ## TL;DR
 
-Hyogo Credit Guarantee Corporation (兵庫県信用保証協会) is the Hyogo-prefecture member of Japan's 51-corporation local credit guarantee system. It is among the top ten federation members by guarantee balance because Hyogo concentrates Japan's most diverse heavy-industry / machinery SME base — Kobe-Hanshin steel and shipbuilding (Kobe Steel, Kawasaki Heavy Industries, Mitsubishi Heavy Industries Kobe works), the Kobe Port container / bulk logistics complex, precision machinery and printing presses around Himeji and Akashi, Banshu textile and leather goods, plus the Tajima / Awaji rural-economy tail. Dominant co-lending partners are [[JapanFG/minato-bank|Minato Bank ([[JapanFG/smfg|SMFG]] subsidiary)]], [[JapanFG/tajima-bank|Tajima Bank]], the Kansai Mirai Bank / [[JapanFG/resona-hd|Resona Group]] presence, plus a dense Hyogo shinkin / credit-cooperative network.
+Hyogo Credit Guarantee Corporation (兵庫県信用保証協会) is the Hyogo-prefecture member of Japan's 51-corporation local credit guarantee system. It is among the top ten federation members by guarantee balance because Hyogo concentrates Japan's most diverse heavy-industry / machinery SME base — Kobe-Hanshin steel and shipbuilding (Kobe Steel, Kawasaki Heavy Industries, Mitsubishi Heavy Industries Kobe works), the Kobe Port container / bulk logistics complex, precision machinery and printing presses around Himeji and Akashi, Banshu textile and leather goods, plus the Tajima / Awaji rural-economy tail. Dominant co-lending partners are [[regional-banks/minato-bank|Minato Bank ([[megabanks/smfg|SMFG]] subsidiary)]], [[regional-banks/tajima-bank|Tajima Bank]], the Kansai Mirai Bank / [[megabanks/resona-hd|Resona Group]] presence, plus a dense Hyogo shinkin / credit-cooperative network.
 
 ## 1. 機関概要
 
@@ -28,7 +28,7 @@ Hyogo Credit Guarantee Corporation (兵庫県信用保証協会) is the Hyogo-pr
 | Guaranteed balance | Trillion yen scale — Top among 51 associations nationwide |
 | Member financial institutions | About 30 行 (regional banks, megabank prefecture branch, shinkin, credit cooperatives) |
 | Member of the Federation | Member of [[policy-finance/national-federation-credit-guarantee-corporations|全国信用保証協会連合会 (Japan Federation of Credit Guarantee Corporations)]] |
-| Credit insurance | Reinsured by [[JapanFG/jfc|JFC]] credit-insurance operations |
+| Credit insurance | Reinsured by [[financial-regulators/jfc|JFC]] credit-insurance operations |
 | Boundary Note | Jurisdiction over the entire prefecture, including 1  City, an ordinance-designated city of Kobe City. Kobe City does not have its own designated city CGC, and is managed integrally by Hyogo Prefecture CGC |
 
 ## 2. Main warranty products
@@ -56,15 +56,15 @@ The 1995 Great Hanshin earthquake (阪神・淡路大震災) shaped Hyogo CGC's 
 
 ## 4. Co-lending and JFC overlay
 
-Hyogo CGC guarantees typically sit alongside loans from [[JapanFG/minato-bank|Minato Bank]] (the dominant regional bank, a [[JapanFG/smfg|SMFG]] subsidiary integrated into the Kansai Mirai Financial Group framework), [[JapanFG/tajima-bank|Tajima Bank]] (Northern Hyogo regional), Kansai Mirai Bank ([[JapanFG/resona-hd|Resona HD]] Kansai vehicle), plus the dense Hyogo shinkinkin/Kobecooperative network, (Kobecooperative credit). Hyogo Shinkin, Himeji Shinkin, others). Megabank presence is dense — [[JapanFG/smfg|SMFG]] dominates given the Sumitomo Kansai heritage and the Minato Bank ownership, while [[JapanFG/mufg|MUFG]] and [[JapanFG/mizuho-fg|Mizuho]] also operate active Kobe / Himeji branches.
+Hyogo CGC guarantees typically sit alongside loans from [[regional-banks/minato-bank|Minato Bank]] (the dominant regional bank, a [[megabanks/smfg|SMFG]] subsidiary integrated into the Kansai Mirai Financial Group framework), [[regional-banks/tajima-bank|Tajima Bank]] (Northern Hyogo regional), Kansai Mirai Bank ([[megabanks/resona-hd|Resona HD]] Kansai vehicle), plus the dense Hyogo shinkinkin/Kobecooperative network, (Kobecooperative credit). Hyogo Shinkin, Himeji Shinkin, others). Megabank presence is dense — [[megabanks/smfg|SMFG]] dominates given the Sumitomo Kansai heritage and the Minato Bank ownership, while [[megabanks/mufg|MUFG]] and [[megabanks/mizuho-fg|Mizuho]] also operate active Kobe / Himeji branches.
 
-The [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]] is highly visible in Hyogo — Minato Bank's absorption into SMFG / Kansai Mirai is a clean example of a regional-bank-into-megabank-group consolidation driven by Kansai market structure rather than peripheral-prefecture stress. The 2018 Kansai Mirai Bank merger (combining Kinki Osaka Bank + Kansai Urban Banking with Minato Bank under [[JapanFG/resona-hd|Resona]] / [[JapanFG/smfg|SMFG]] cross-shareholding) reshaped Hyogo's mid-tier banking counterparty landscape for guarantee-backed lending.
+The [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]] is highly visible in Hyogo — Minato Bank's absorption into SMFG / Kansai Mirai is a clean example of a regional-bank-into-megabank-group consolidation driven by Kansai market structure rather than peripheral-prefecture stress. The 2018 Kansai Mirai Bank merger (combining Kinki Osaka Bank + Kansai Urban Banking with Minato Bank under [[megabanks/resona-hd|Resona]] / [[megabanks/smfg|SMFG]] cross-shareholding) reshaped Hyogo's mid-tier banking counterparty landscape for guarantee-backed lending.
 
-Public-finance co-lending routes through [[JapanFG/jfc|JFC]] (政府系金融機関) — JFC's SME and small-business arms maintain dense Kobe and Himeji lending desks; JFC credit-insurance reinsures the guarantee layer. [[JapanFG/shoko-chukin|商工中金 (Shoko Chukin)]] participates particularly in cooperative-organized heavy-industry-supplier consortia.
+Public-finance co-lending routes through [[financial-regulators/jfc|JFC]] (政府系金融機関) — JFC's SME and small-business arms maintain dense Kobe and Himeji lending desks; JFC credit-insurance reinsures the guarantee layer. [[financial-regulators/shoko-chukin|商工中金 (Shoko Chukin)]] participates particularly in cooperative-organized heavy-industry-supplier consortia.
 
 ## 5. I love you
 
-When a guaranteed Hyogo SME defaults, Hyogo CGC pays subrogation (代位弁済) to the lending financial institution under the guarantee contract, then pursues recovery (求償). Residual losses after recovery flow into the federation-pooled credit-insurance layer reinsured by [[JapanFG/jfc|JFC]], with [[policy-finance/national-federation-credit-guarantee-corporations|全国信用保証協会連合会]] coordinating loss-sharing across the 51 corporations.
+When a guaranteed Hyogo SME defaults, Hyogo CGC pays subrogation (代位弁済) to the lending financial institution under the guarantee contract, then pursues recovery (求償). Residual losses after recovery flow into the federation-pooled credit-insurance layer reinsured by [[financial-regulators/jfc|JFC]], with [[policy-finance/national-federation-credit-guarantee-corporations|全国信用保証協会連合会]] coordinating loss-sharing across the 51 corporations.
 
 Subrogation volume in Hyogo has characteristic shock vectors: (1) global steel and shipbuilding cycle inversions (heavy-industry supplier base), (2) Kobe Port traffic shocks (logistics SMEs), (3) Banshu local-industry decline, secular leather, and leather (4) tourism shocks to the Kobe / Awaji / Arima / Kinosaki cluster. The 1995 earthquake recovery doctrine remains operationally relevant — Hyogo CGC's disaster-response protocols are the federation reference template.
 
@@ -77,7 +77,7 @@ Post-COVID normalization through 2023–2025 produced the expected wave of subro
 
 Within the [[policy-finance/japan-credit-guarantee-system|Japan credit guarantee system]] architecture, Hyogo CGC plays a distinctive doctrinal role as the federation's reference template for disaster-response credit-guarantee operations. The 1995 Great Hanshin earthquake recovery established the first large-scale prefectural-CGC disaster-response guarantee program in postwar Japan, and that operational template was later adapted by [[policy-finance/national-federation-credit-guarantee-corporations|全国信用保証協会連合会]] for the 2011 Tohoku earthquake response, multiple typhoon and flood-event responses through the 2010s and 2020s, and the COVID-19 special guarantee program.
 
-The federation-pooled credit-insurance layer at [[JapanFG/jfc|JFC]] absorbs the residual loss after Hyogo CGC's first-loss subrogation under the responsibility-sharing system. The disaster-response 100% guarantee variant operates outside the standard responsibility-sharing default, with the federation reinsurance and JFC credit-insurance absorbing larger shares of the loss in emergency programs. Hyogo CGC's heavy-industry-supplier subrogation profile is partially smoothed through this reinsurance layer because heavy-industry demand cycles are global rather than local — a Kobe Steel order-book collapse driven by global steel-cycle inversion diffuses through the [[JapanFG/jfc|JFC]] credit-insurance pool that backstops all 51 corporations.
+The federation-pooled credit-insurance layer at [[financial-regulators/jfc|JFC]] absorbs the residual loss after Hyogo CGC's first-loss subrogation under the responsibility-sharing system. The disaster-response 100% guarantee variant operates outside the standard responsibility-sharing default, with the federation reinsurance and JFC credit-insurance absorbing larger shares of the loss in emergency programs. Hyogo CGC's heavy-industry-supplier subrogation profile is partially smoothed through this reinsurance layer because heavy-industry demand cycles are global rather than local — a Kobe Steel order-book collapse driven by global steel-cycle inversion diffuses through the [[financial-regulators/jfc|JFC]] credit-insurance pool that backstops all 51 corporations.
 
 ## 8. Comparison with peer prefecture CGCs
 
@@ -87,7 +87,7 @@ The federation-pooled credit-insurance layer at [[JapanFG/jfc|JFC]] absorbs the 
 | Adjacent metro overlap | Adjacent to Osaka prefecture — shares Kansai economic gravity | Center of Kansai economic gravity | Adjacent to Tokyo — shares Kanto economic gravity |
 | Port footprint | Kobe Port (losing share to Yokohama / Tokyo) | Osaka Port (declining vs. Kobe) | Yokohama + Kawasaki Port (gaining share) |
 | Disaster-response doctrine | 1995 Hanshin earthquake recovery is operational template | Less prominent disaster history | Earthquake-prone but lower historical disaster-doctrine weight |
-| Dominant regional bank | [[JapanFG/minato-bank|Minato Bank]] (SMFG subsidiary) | Kansai Mirai Bank ([[JapanFG/resona-hd|Resona Group]]); SMBC historical | [[JapanFG/yokohama-bank|Yokohama Bank]] (Concordia FG) |
+| Dominant regional bank | [[regional-banks/minato-bank|Minato Bank]] (SMFG subsidiary) | Kansai Mirai Bank ([[megabanks/resona-hd|Resona Group]]); SMBC historical | [[regional-banks/yokohama-bank|Yokohama Bank]] (Concordia FG) |
 | Demographic-succession pressure | High (Hanshin / Banshu founder generation) | Very high (Kansai SME succession wave) | Moderate |
 
 This comparison illustrates how Hyogo CGC's industrial-belt-and-port profile differs from its larger Kansai peer [[policy-finance/osaka-credit-guarantee-corp|Osaka CGC]] and its structural mirror in Kanto, [[policy-finance/kanagawa-credit-guarantee-corp|Kanagawa CGC]], even though all three operate under the same [[policy-finance/japan-credit-guarantee-system|Japan credit guarantee system]] mechanism.
@@ -102,12 +102,12 @@ This comparison illustrates how Hyogo CGC's industrial-belt-and-port profile dif
 - [[policy-finance/aichi-credit-guarantee-corp]]
 - [[policy-finance/kanagawa-credit-guarantee-corp]]
 - [[policy-finance/fukuoka-credit-guarantee-corp]]
-- [[JapanFG/jfc]]
-- [[JapanFG/shoko-chukin]]
-- [[JapanFG/minato-bank]]
-- [[JapanFG/tajima-bank]]
-- [[JapanFG/smfg]]
-- [[JapanFG/resona-hd]]
+- [[financial-regulators/jfc]]
+- [[financial-regulators/shoko-chukin]]
+- [[regional-banks/minato-bank]]
+- [[regional-banks/tajima-bank]]
+- [[megabanks/smfg]]
+- [[megabanks/resona-hd]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/shinkin-bank-registry-japan]]
 - [[banking/INDEX]]

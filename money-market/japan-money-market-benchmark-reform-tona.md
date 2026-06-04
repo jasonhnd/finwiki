@@ -47,8 +47,8 @@ For FinWiki, this entry is the money-market-side narrative of who reformed what 
 | Study Group on Risk-Free Reference Rates | Identified the **uncollateralized overnight call rate (TONA)** as the JPY risk-free reference rate in its December 2016 report. |
 | Cross-Industry Committee on Japanese Yen Interest Rate Benchmarks | Established August 2018; the main public-private forum that ran the JPY LIBOR transition, developed the OIS market, and published transition guidance through many plenary meetings. |
 | Bank of Japan | Convenes the committee secretariat, calculates and publishes TONA, and supervises money-market functioning. |
-| [[JapanFG/fsa|Financial Services Agency (FSA)]] | Supervisory authority for the transition and for benchmark administrators. |
-| [[JapanFG/zenginkyo|Japanese Bankers Association]] / JBATA | Administers the reformed TIBOR (the surviving term benchmark). |
+| [[financial-regulators/fsa|Financial Services Agency (FSA)]] | Supervisory authority for the transition and for benchmark administrators. |
+| [[financial-regulators/zenginkyo|Japanese Bankers Association]] / JBATA | Administers the reformed TIBOR (the surviving term benchmark). |
 
 The committee structure is why "benchmark reform" in Japan was a coordinated public-private effort rather than a single regulator's decree.
 
@@ -100,11 +100,11 @@ This contrasts with currencies that moved almost entirely to an RFR. Keeping a r
 
 ## JapanFG Relevance
 
-- [[JapanFG/boj-monetary-policy|BoJ monetary policy]] / the Bank of Japan calculates TONA and convenes the reform committee.
-- [[JapanFG/fsa|FSA]] supervises the transition and benchmark administrators.
-- [[JapanFG/zenginkyo|Japanese Bankers Association]] (via JBATA) administers the surviving TIBOR.
-- [[JapanFG/mufg]], [[JapanFG/smfg]], and [[JapanFG/mizuho-fg]] transitioned large loan and derivative books across the reform.
-- [[JapanFG/mizuho-securities]] and [[JapanFG/mufg-mums]] are active in the TONA-OIS market that the reform helped build.
+- [[financial-regulators/boj-monetary-policy|BoJ monetary policy]] / the Bank of Japan calculates TONA and convenes the reform committee.
+- [[financial-regulators/fsa|FSA]] supervises the transition and benchmark administrators.
+- [[financial-regulators/zenginkyo|Japanese Bankers Association]] (via JBATA) administers the surviving TIBOR.
+- [[megabanks/mufg]], [[megabanks/smfg]], and [[megabanks/mizuho-fg]] transitioned large loan and derivative books across the reform.
+- [[securities-firms/mizuho-securities]] and [[securities-firms/mufg-mums]] are active in the TONA-OIS market that the reform helped build.
 
 ## Boundary Cases
 
@@ -125,12 +125,12 @@ This contrasts with currencies that moved almost entirely to an RFR. Keeping a r
 - [[derivatives/japan-irs-market]]
 - [[derivatives/isda-2020-protocol-japan-implementation]]
 - [[derivatives/japan-interest-rate-derivatives-overview]]
-- [[JapanFG/boj-monetary-policy]]
-- [[JapanFG/fsa]]
-- [[JapanFG/zenginkyo]]
-- [[JapanFG/mufg]]
-- [[JapanFG/smfg]]
-- [[JapanFG/mizuho-fg]]
+- [[financial-regulators/boj-monetary-policy]]
+- [[financial-regulators/fsa]]
+- [[financial-regulators/zenginkyo]]
+- [[megabanks/mufg]]
+- [[megabanks/smfg]]
+- [[megabanks/mizuho-fg]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

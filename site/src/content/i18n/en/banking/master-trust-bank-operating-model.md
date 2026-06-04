@@ -12,7 +12,7 @@ translated_at: 2026-05-30T18:52:47.785Z
 
 ## Wiki route
 
-This entry sits under [[banking/INDEX|banking index]]. Read it with the entity anchor [[JapanFG/master-trust-bank|日本MasterTrust信託銀行 (MTBJ)]], the operating peer [[JapanFG/custody-bank|日本Custody銀行 (CBJ)]], the landscape summary [[banking/japan-master-trust-and-custody-bank-landscape|Japan master trust and custody bank landscape]], the operating comparison [[banking/trust-bank-custody-operating-comparison|trust-bank custody operating comparison]], and the cross-camp matrix [[banking/japan-trust-bank-vs-global-custodian-comparison-matrix|Japan trust bank vs global custodian comparison matrix]]. Pair it with the settlement-rail entries [[securities/japan-securities-depository-center|JASDEC]] and [[securities/japan-securities-clearing-corp|JSCC]] for the infrastructure side, with [[banking/japan-banking-license-tier-comparison-matrix|Japan banking license tier comparison matrix]] for the regulatory boundary, with the shareholder-side trust-bank pages [[JapanFG/mitsubishi-ufj-trust-bank|三菱UFJ信託銀行]] and [[JapanFG/nochu-trust-bank|Norinchukin Trust銀行]], and with [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]] for the institutional context.
+This entry sits under [[banking/INDEX|banking index]]. Read it with the entity anchor [[trust-banks/master-trust-bank|日本MasterTrust信託銀行 (MTBJ)]], the operating peer [[trust-banks/custody-bank|日本Custody銀行 (CBJ)]], the landscape summary [[banking/japan-master-trust-and-custody-bank-landscape|Japan master trust and custody bank landscape]], the operating comparison [[banking/trust-bank-custody-operating-comparison|trust-bank custody operating comparison]], and the cross-camp matrix [[banking/japan-trust-bank-vs-global-custodian-comparison-matrix|Japan trust bank vs global custodian comparison matrix]]. Pair it with the settlement-rail entries [[securities/japan-securities-depository-center|JASDEC]] and [[securities/japan-securities-clearing-corp|JSCC]] for the infrastructure side, with [[banking/japan-banking-license-tier-comparison-matrix|Japan banking license tier comparison matrix]] for the regulatory boundary, with the shareholder-side trust-bank pages [[trust-banks/mitsubishi-ufj-trust-bank|三菱UFJ信託銀行]] and [[trust-banks/nochu-trust-bank|Norinchukin Trust銀行]], and with [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]] for the institutional context.
 
 ## TL;DR
 
@@ -32,16 +32,16 @@ The Master Trust Bank of Japan (MTBJ — 日本MasterTrust信託銀行) is a cus
 | Industry body | 信託協会 (Trust Companies Association of Japan) |
 | Functional position | Asset-administration specialist (no loans, no deposits, no PB, no real-estate trust) |
 | Public AUC anchor | ¥823 trillion trust assets under custody (MTBJ official "Our Work" page summary, of Japan's ¥2,351 trillion financial assets) |
-| Peer | [[JapanFG/custody-bank|Custody Bank of Japan (CBJ)]] |
+| Peer | [[trust-banks/custody-bank|Custody Bank of Japan (CBJ)]] |
 
 ### Shareholder structure (public disclosure)
 
 | Shareholder | Stake | Reading |
 |---|---|---|
-| [[JapanFG/mitsubishi-ufj-trust-bank|三菱UFJ信託銀行]] (MUFG group) | 46.5% | Lead industrial shareholder; provides Mitsubishi-side mandate flow and trust-bank operating know-how |
-| [[JapanFG/nippon-life|日本生命]] | 33.5% | Largest life-insurer shareholder; provides life-insurance separate-account custody plus corporate-pension mandate flow |
-| [[JapanFG/meiji-yasuda|明治安田生命]] | 10.0% | Second life-insurer shareholder; rounds out the life-insurer-side mandate base |
-| [[JapanFG/nochu-trust-bank|Norinchukin Trust銀行]] (Norinchukin group) | 10.0% | Cooperative-finance shareholder; provides JA Bank / 農林系 mandate flow |
+| [[trust-banks/mitsubishi-ufj-trust-bank|三菱UFJ信託銀行]] (MUFG group) | 46.5% | Lead industrial shareholder; provides Mitsubishi-side mandate flow and trust-bank operating know-how |
+| [[life-insurers/nippon-life|日本生命]] | 33.5% | Largest life-insurer shareholder; provides life-insurance separate-account custody plus corporate-pension mandate flow |
+| [[life-insurers/meiji-yasuda|明治安田生命]] | 10.0% | Second life-insurer shareholder; rounds out the life-insurer-side mandate base |
+| [[trust-banks/nochu-trust-bank|Norinchukin Trust銀行]] (Norinchukin group) | 10.0% | Cooperative-finance shareholder; provides JA Bank / 農林系 mandate flow |
 
 ### Why a custody-only trust bank exists
 
@@ -55,8 +55,8 @@ A custody-only trust bank under the 銀行法 + 信託業法 dual route can:
 
 | Segment | Core function | Typical client base | What it is not |
 |---|---|---|---|
-| **年金信託 (Pension trust administration)** | Trust contract for 厚生年金基金, 確定給付企業年金 (DB), and 確定拠出年金 (DC) — record-keeping, asset-owner reports, benefit-payment ops, member balances | GPIF, large corporate DB plans, DC plans (often through DC sponsor-side admins), 厚生年金基金 | Not the investment manager — investment discretion sits with [[JapanFG/mitsubishi-ufj-asset-management|asset managers]] and the asset owner's trustees |
-| **投資信託受託 (Securities-investment-trust admin)** | Trust contract for 公募投信 and 私募投信 — fund accounting, NAV calculation, holdings register, distribution processing, audit support | [[JapanFG/mitsubishi-ufj-asset-management|MUFG asset management arm]], [[JapanFG/nomura-asset-management|Nomura AM]], [[JapanFG/sbi-asset-management|SBI AM]], other asset managers using MTBJ as 受託銀行 | Not the fund sponsor or the distributor; not the fund manager |
+| **年金信託 (Pension trust administration)** | Trust contract for 厚生年金基金, 確定給付企業年金 (DB), and 確定拠出年金 (DC) — record-keeping, asset-owner reports, benefit-payment ops, member balances | GPIF, large corporate DB plans, DC plans (often through DC sponsor-side admins), 厚生年金基金 | Not the investment manager — investment discretion sits with [[asset-managers/mitsubishi-ufj-asset-management|asset managers]] and the asset owner's trustees |
+| **投資信託受託 (Securities-investment-trust admin)** | Trust contract for 公募投信 and 私募投信 — fund accounting, NAV calculation, holdings register, distribution processing, audit support | [[asset-managers/mitsubishi-ufj-asset-management|MUFG asset management arm]], [[asset-managers/nomura-asset-management|Nomura AM]], [[asset-managers/sbi-asset-management|SBI AM]], other asset managers using MTBJ as 受託銀行 | Not the fund sponsor or the distributor; not the fund manager |
 | **有価SecuritiesCustody (Securities custody)** | Safekeeping of equities, JGB, corporate bonds, foreign securities; book-entry registration; corporate-actions processing; dividend / interest receipt; tax reclaim ops | Pension plans, asset managers, life insurers, foreign global custodians needing a Japan sub-custodian | Not a proprietary investor; the 「信託口」 nominee label is a recordkeeping construct |
 | **議決権行使指図 (Voting administration)** | Mechanical voting execution per asset-owner / manager instruction; ICJ electronic-voting platform connection; proxy-advisor (ISS / Glass Lewis) materials handling | Asset managers, pension plans, foreign investors using MTBJ as sub-custodian | Not a discretionary voter — MTBJ does not form its own voting opinion |
 | **特定金外信託 (Specified-money-trust ops)** | Special-purpose investment trust structures (特金) for corporate treasury and financial-institution assets | Corporates, regional banks, insurers using 特金 as an investment vehicle | Not a discretionary asset manager |
@@ -72,7 +72,7 @@ A custody-only trust bank under the 銀行法 + 信託業法 dual route can:
 | Fund accounting / NAV calculation | Daily NAV calculation for 投信 mandates; valuation rules per 投信協会 guidance; audit-support workpapers |
 | Corporate actions | Dividend / interest receipt, splits, rights offerings, conversions, mandatory / voluntary events, withholding-tax processing; foreign-asset CA via global custodian sub-network |
 | Voting operations | Receipt of meeting materials, ICJ electronic-voting forwarding, mechanical execution of asset-owner / manager instructions |
-| Sub-custody for foreign assets | Re-routing through global custodians ([[JapanFG/bny-mellon-japan|BNY Mellon]] / [[JapanFG/state-street-japan|State Street]] / [[JapanFG/jpmorgan-japan|JP Morgan]]) for non-JP assets in mandate portfolios |
+| Sub-custody for foreign assets | Re-routing through global custodians ([[foreign-financial-institutions/bny-mellon-japan|BNY Mellon]] / [[foreign-financial-institutions/state-street-japan|State Street]] / [[foreign-financial-institutions/jpmorgan-japan|JP Morgan]]) for non-JP assets in mandate portfolios |
 | Securities-lending support | Lending program administration when client opts in; collateral posting; recall management |
 | Member / participant ops | Pension member balance reporting (DB / DC), benefit payment ops, fund-of-funds look-through |
 
@@ -90,9 +90,9 @@ This is why MTBJ's apparent "concentration" in the public shareholder register c
 
 | Layer | Competitor | Overlap with MTBJ | Differentiation |
 |---|---|---|---|
-| Domestic custody-only specialists | [[JapanFG/custody-bank|Custody Bank of Japan (CBJ)]] | Near-identical product set — pension trust, 投信受託, securities custody | Different shareholder camp (SMTB + Mizuho + 第一生命) and different mandate base; both anchor the two-strong domestic infrastructure |
-| Full-service trust-bank arms of megabanks | [[JapanFG/mitsubishi-ufj-trust-bank|MUFG Trust]], [[JapanFG/sumitomo-mitsui-trust|SMTB]], [[JapanFG/mizuho-trust-bank|Mizuho Trust]] | Full-service trust banks also run custody and pension trust internally — but typically offload back-office processing to MTBJ / CBJ for the asset-administration leg | Full-service trust banks add 不動産信託, 相続, PB, securities agency, 議決権電子化 service; they win the *front office* mandate while MTBJ / CBJ run the *processing* |
-| Global custodians (foreign sub-custody chain) | [[JapanFG/bny-mellon-japan|BNY Mellon Japan]], [[JapanFG/state-street-japan|State Street Japan]], [[JapanFG/jpmorgan-japan|JP Morgan Japan]] | Cross-border custody, foreign-investor Japan sub-custody, foreign-asset processing for Japan mandates | Globals dominate cross-border; MTBJ dominates domestic-Japanese assets; the chains interconnect for GPIF and 投信 海外資産 |
+| Domestic custody-only specialists | [[trust-banks/custody-bank|Custody Bank of Japan (CBJ)]] | Near-identical product set — pension trust, 投信受託, securities custody | Different shareholder camp (SMTB + Mizuho + 第一生命) and different mandate base; both anchor the two-strong domestic infrastructure |
+| Full-service trust-bank arms of megabanks | [[trust-banks/mitsubishi-ufj-trust-bank|MUFG Trust]], [[trust-banks/sumitomo-mitsui-trust|SMTB]], [[trust-banks/mizuho-trust-bank|Mizuho Trust]] | Full-service trust banks also run custody and pension trust internally — but typically offload back-office processing to MTBJ / CBJ for the asset-administration leg | Full-service trust banks add 不動産信託, 相続, PB, securities agency, 議決権電子化 service; they win the *front office* mandate while MTBJ / CBJ run the *processing* |
+| Global custodians (foreign sub-custody chain) | [[foreign-financial-institutions/bny-mellon-japan|BNY Mellon Japan]], [[foreign-financial-institutions/state-street-japan|State Street Japan]], [[foreign-financial-institutions/jpmorgan-japan|JP Morgan Japan]] | Cross-border custody, foreign-investor Japan sub-custody, foreign-asset processing for Japan mandates | Globals dominate cross-border; MTBJ dominates domestic-Japanese assets; the chains interconnect for GPIF and 投信 海外資産 |
 
 ### Cross-camp comparison table
 
@@ -221,17 +221,17 @@ This sub-custody dependency means MTBJ's foreign-asset processing cost is struct
 - [[banking/trust-bank-fee-structure-comparison]]
 - [[banking/pension-trust-mandate-allocation-japan]]
 - [[banking/japan-banking-license-tier-comparison-matrix]]
-- [[JapanFG/master-trust-bank]]
-- [[JapanFG/custody-bank]]
-- [[JapanFG/mitsubishi-ufj-trust-bank]]
-- [[JapanFG/sumitomo-mitsui-trust]]
-- [[JapanFG/mizuho-trust-bank]]
-- [[JapanFG/nochu-trust-bank]]
-- [[JapanFG/nippon-life]]
-- [[JapanFG/meiji-yasuda]]
-- [[JapanFG/bny-mellon-japan]]
-- [[JapanFG/state-street-japan]]
-- [[JapanFG/jpmorgan-japan]]
+- [[trust-banks/master-trust-bank]]
+- [[trust-banks/custody-bank]]
+- [[trust-banks/mitsubishi-ufj-trust-bank]]
+- [[trust-banks/sumitomo-mitsui-trust]]
+- [[trust-banks/mizuho-trust-bank]]
+- [[trust-banks/nochu-trust-bank]]
+- [[life-insurers/nippon-life]]
+- [[life-insurers/meiji-yasuda]]
+- [[foreign-financial-institutions/bny-mellon-japan]]
+- [[foreign-financial-institutions/state-street-japan]]
+- [[foreign-financial-institutions/jpmorgan-japan]]
 - [[securities/japan-securities-depository-center]]
 - [[securities/japan-securities-clearing-corp]]
 - [[securities/japan-market-infrastructure-map]]

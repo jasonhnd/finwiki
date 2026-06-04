@@ -85,13 +85,13 @@ Reading stress therefore requires checking *which axis* moved: a GC-wide funding
 | Settlement | JGB legs settle through the central JGB book-entry and funds-transfer plumbing; see [[money-market/boj-net-funds-transfer-system-rtgs-settlement|BOJ-NET FTS / RTGS settlement]] for the cash-and-securities DVP rail. |
 | Settlement cycle | Japanese JGB cash and repo settlement operates on a shortened cycle (the market moved to T+1 for outright JGB and to a correspondingly shortened repo cycle), which compresses fails risk and intraday liquidity timing. |
 | Central clearing | JGB repo can be novated to [[securities/japan-securities-clearing-corp|JSCC]] (the former JGBCC function), which assumes obligations and mutualizes counterparty risk for cleared JGB and JGB-repo trades. |
-| Intermediation | [[money-market/tanshi-company-business-model|Tanshi companies]] and [[JapanFG/japan-securities-finance|Japan Securities Finance]] intermediate bond repo and gensaki alongside dealer desks. |
+| Intermediation | [[money-market/tanshi-company-business-model|Tanshi companies]] and [[financial-regulators/japan-securities-finance|Japan Securities Finance]] intermediate bond repo and gensaki alongside dealer desks. |
 
 ## Why This Matters for FinWiki
 
 - **Data interpretation**: BoJ securities-financing statistics aggregate repo and cash-collateralized securities lending after adjusting for lending fees / rebate rates. A headline "repo" balance therefore blends both legal forms.
 - **Cross-market read**: the repo rate is the secured funding cost that sits beside the unsecured [[money-market/call-market-structure|call rate]]; the GC-repo-vs-call spread is a watched funding signal.
-- **Collateral transmission**: this layer connects [[JapanFG/boj-monetary-policy|BoJ monetary policy]], JGB market functioning, and dealer balance-sheet capacity. The BoJ Securities Lending Facility interacts with SC scarcity specifically.
+- **Collateral transmission**: this layer connects [[financial-regulators/boj-monetary-policy|BoJ monetary policy]], JGB market functioning, and dealer balance-sheet capacity. The BoJ Securities Lending Facility interacts with SC scarcity specifically.
 
 ## Reading Checklist
 
@@ -103,11 +103,11 @@ Reading stress therefore requires checking *which axis* moved: a GC-wide funding
 
 ## JapanFG Relevance
 
-- [[JapanFG/japan-securities-finance|Japan Securities Finance]] is a core bond-repo and gensaki intermediary and securities-finance specialist.
-- [[JapanFG/tokyo-tanshi]], [[JapanFG/central-tanshi]], and [[JapanFG/ueda-yagi-tanshi]] broker bond repo adjacent to call and CP activity.
-- Securities firms [[JapanFG/nomura-hd]], [[JapanFG/daiwa-sg]], [[JapanFG/mizuho-securities]], and [[JapanFG/mufg-mums]] fund JGB inventory through gensaki and cash-collateralized lending.
-- Megabanks [[JapanFG/mufg]], [[JapanFG/smfg]], and [[JapanFG/mizuho-fg]] are exposed through collateral management and reserve balances.
-- [[JapanFG/boj-monetary-policy|BoJ monetary policy]] drives the short-rate environment and the collateral framework underneath both forms.
+- [[financial-regulators/japan-securities-finance|Japan Securities Finance]] is a core bond-repo and gensaki intermediary and securities-finance specialist.
+- [[financial-regulators/tokyo-tanshi]], [[financial-regulators/central-tanshi]], and [[financial-regulators/ueda-yagi-tanshi]] broker bond repo adjacent to call and CP activity.
+- Securities firms [[securities-firms/nomura-hd]], [[securities-firms/daiwa-sg]], [[securities-firms/mizuho-securities]], and [[securities-firms/mufg-mums]] fund JGB inventory through gensaki and cash-collateralized lending.
+- Megabanks [[megabanks/mufg]], [[megabanks/smfg]], and [[megabanks/mizuho-fg]] are exposed through collateral management and reserve balances.
+- [[financial-regulators/boj-monetary-policy|BoJ monetary policy]] drives the short-rate environment and the collateral framework underneath both forms.
 
 ## Boundary Cases
 
@@ -130,11 +130,11 @@ Reading stress therefore requires checking *which axis* moved: a GC-wide funding
 - [[securities/japan-stock-lending-market-route]]
 - [[securities/japan-margin-trading-and-securities-finance]]
 - [[derivatives/japan-irs-market]]
-- [[JapanFG/boj-monetary-policy]]
-- [[JapanFG/japan-securities-finance]]
-- [[JapanFG/tokyo-tanshi]]
-- [[JapanFG/central-tanshi]]
-- [[JapanFG/ueda-yagi-tanshi]]
+- [[financial-regulators/boj-monetary-policy]]
+- [[financial-regulators/japan-securities-finance]]
+- [[financial-regulators/tokyo-tanshi]]
+- [[financial-regulators/central-tanshi]]
+- [[financial-regulators/ueda-yagi-tanshi]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

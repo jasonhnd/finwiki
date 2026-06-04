@@ -11,7 +11,7 @@ translated_at: 2026-06-01T04:15:40.095Z
 
 ## TL;DR
 
-日本可再生能源项目——太阳能（公用事业级 PV）、陆上和海上风电、地热、生物质——通常通过有限追索 [[structured-finance/spv-tk-gk-vehicle-japan-tax|TK / GK SPV]] 结构融资，权益由综合商社财团出资，债务由巨型银行牵头的银团提供且常有地方银行参与，收入则来自长期 PPA 或 FIT/FIP 合同。2012 Feed-in Tariff（FIT）制度创造了十年高 IRR 公用事业级太阳能交易，奠定了可再生能源 SPV 市场；2022 向 Feed-in Premium（FIP）市场价格加溢价制度的过渡降低了名义 IRR，但保持了结构完整。海上风电第 1 轮中标（2021）和第 2 轮中标已将重心转移到由 [[JapanFG/mitsubishi-corp|Mitsubishi Corporation]]、[[JapanFG/mitsui-co|Mitsui & Co.]]、[[JapanFG/sumitomo-corp|Sumitomo Corporation]] 及财团伙伴作为权益发起人的大型海上风电 SPV。FIT 时代太阳能交易再融资为运营期债券或新 SPV 债务，如今已成为一个有意义的市场板块。
+日本可再生能源项目——太阳能（公用事业级 PV）、陆上和海上风电、地热、生物质——通常通过有限追索 [[structured-finance/spv-tk-gk-vehicle-japan-tax|TK / GK SPV]] 结构融资，权益由综合商社财团出资，债务由巨型银行牵头的银团提供且常有地方银行参与，收入则来自长期 PPA 或 FIT/FIP 合同。2012 Feed-in Tariff（FIT）制度创造了十年高 IRR 公用事业级太阳能交易，奠定了可再生能源 SPV 市场；2022 向 Feed-in Premium（FIP）市场价格加溢价制度的过渡降低了名义 IRR，但保持了结构完整。海上风电第 1 轮中标（2021）和第 2 轮中标已将重心转移到由 [[financial-conglomerates/mitsubishi-corp|Mitsubishi Corporation]]、[[financial-conglomerates/mitsui-co|Mitsui & Co.]]、[[financial-conglomerates/sumitomo-corp|Sumitomo Corporation]] 及财团伙伴作为权益发起人的大型海上风电 SPV。FIT 时代太阳能交易再融资为运营期债券或新 SPV 债务，如今已成为一个有意义的市场板块。
 
 ## Wiki 路径
 
@@ -61,9 +61,9 @@ debt       senior     (sometimes)
 - **优先级 LTV**：项目成本的 65–80%
 - **DSCR 目标**：基本情形 1.20x–1.40x，下行情形 1.10x
 - **发起人权益 IRR**：8–15%（最高电价批次达到区间上端）
-- **牵头安排人**：通常为 [[JapanFG/mufg|MUFG]]、[[JapanFG/smfg|SMBC]]、[[JapanFG/mizuho-fg|Mizuho]] 或 [[JapanFG/dbj|Development Bank of Japan]]
+- **牵头安排人**：通常为 [[megabanks/mufg|MUFG]]、[[megabanks/smfg|SMBC]]、[[megabanks/mizuho-fg|Mizuho]] 或 [[financial-regulators/dbj|Development Bank of Japan]]
 - **参与方**：地方银行（尤其是电站所在地都道府县的地方银行）
-- **权益发起人**：综合商社（[[JapanFG/mitsubishi-corp|Mitsubishi Corp]]、[[JapanFG/mitsui-co|Mitsui]]、[[JapanFG/sumitomo-corp|Sumitomo Corp]]）、IPP 专业公司、基础设施基金，以及（偶尔）作为 fund-of-SPV 结构 LP 的机构投资者
+- **权益发起人**：综合商社（[[financial-conglomerates/mitsubishi-corp|Mitsubishi Corp]]、[[financial-conglomerates/mitsui-co|Mitsui]]、[[financial-conglomerates/sumitomo-corp|Sumitomo Corp]]）、IPP 专业公司、基础设施基金，以及（偶尔）作为 fund-of-SPV 结构 LP 的机构投资者
 
 ## 3. 陆上风电 — 结构
 
@@ -89,7 +89,7 @@ debt       senior     (sometimes)
 - **期限**：20–25 年
 - **PPA / FIP** 结构（FIT 之后）
 - **发起人财团**通常包括综合商社、日本电力公司和全球海上风电开发商（Ørsted 式国际伙伴）
-- **牵头贷款人**包括 [[JapanFG/mufg|MUFG]]、[[JapanFG/smfg|SMBC]]、[[JapanFG/mizuho-fg|Mizuho]]、[[JapanFG/dbj|DBJ]]，以及（针对出口信用支持的涡轮机采购）[[JapanFG/jbic|JBIC]] / [[policy-finance/nexi|NEXI]]
+- **牵头贷款人**包括 [[megabanks/mufg|MUFG]]、[[megabanks/smfg|SMBC]]、[[megabanks/mizuho-fg|Mizuho]]、[[financial-regulators/dbj|DBJ]]，以及（针对出口信用支持的涡轮机采购）[[financial-regulators/jbic|JBIC]] / [[policy-finance/nexi|NEXI]]
 - **保险**：海上施工风险、天气风险、供应链风险
 
 海上风电 SPV 比公用事业级太阳能 SPV 实质上更复杂——资本开支更高、建设期更长、交易对手更多、天气风险更高。
@@ -152,10 +152,10 @@ FIT 时代太阳能交易如今（2020年代中期）进入再融资窗口：
 
 - 下一批海上风电中标，以及发起人集中度是否变化
 - 在其他组合带来的资本压力下，日本银行是否降低可再生能源项目融资贷款意愿
-- [[JapanFG/japan-post-bank|Japan Post Bank]] 和生命保险公司作为再融资周期中项目债买方的角色
+- [[regional-banks/japan-post-bank|Japan Post Bank]] 和生命保险公司作为再融资周期中项目债买方的角色
 - 随着 METI / GX 政策强调电网级电池储能和氢能，[[policy-finance/japan-project-finance-stack-diagram|policy-finance stack]] 如何适应
 - 基础设施 J-REIT 或 YieldCo 是否为运营中可再生能源 SPV 提供公开市场退出
-- [[JapanFG/boj|BOJ]] 利率正常化下项目融资贷款的处理——再融资成本动态
+- [[financial-regulators/boj|BOJ]] 利率正常化下项目融资贷款的处理——再融资成本动态
 
 ## 相关
 
@@ -167,9 +167,9 @@ FIT 时代太阳能交易如今（2020年代中期）进入再融资窗口：
 - [[policy-finance/japan-project-finance-stack-diagram|Japan project finance stack]]
 - [[policy-finance/jbic-overseas-investment-underwriting-process|JBIC overseas-investment underwriting]]
 - [[finance/INDEX|finance index]]
-- [[JapanFG/mitsubishi-corp|Mitsubishi Corp]] · [[JapanFG/mitsui-co|Mitsui & Co.]] · [[JapanFG/sumitomo-corp|Sumitomo Corp]]
-- [[JapanFG/mufg|MUFG]] · [[JapanFG/smfg|SMFG]] · [[JapanFG/mizuho-fg|Mizuho FG]]
-- [[JapanFG/dbj|DBJ]] · [[JapanFG/jbic|JBIC]] · [[JapanFG/japan-exchange-group|JPX]]
+- [[financial-conglomerates/mitsubishi-corp|Mitsubishi Corp]] · [[financial-conglomerates/mitsui-co|Mitsui & Co.]] · [[financial-conglomerates/sumitomo-corp|Sumitomo Corp]]
+- [[megabanks/mufg|MUFG]] · [[megabanks/smfg|SMFG]] · [[megabanks/mizuho-fg|Mizuho FG]]
+- [[financial-regulators/dbj|DBJ]] · [[financial-regulators/jbic|JBIC]] · [[financial-regulators/japan-exchange-group|JPX]]
 
 ## 来源
 

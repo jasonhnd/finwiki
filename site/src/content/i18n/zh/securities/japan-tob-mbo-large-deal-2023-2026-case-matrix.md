@@ -34,7 +34,7 @@ translated_at: 2026-06-01T04:15:40.140Z
 - **Sapporo Holdings — 3D Investment Partners activism（进行中）** —— activist 要求 Yebisu Beer Garden 房地产 carve-out 与价值改革；作为 activist-driven restructuring 参考案例。
 - **Itochu / Descente 后续轮次（2024）** —— 2019  年 Itochu 对 Descente 的 TOB 是基础案例；2024  后续轮次进一步提高 Itochu 持股。
 - **Asahi Intec ←（special-situation TOB scenario）** —— 作为医疗器械行业控制权交易分析参考。
-- **Tokio Marine HD 子公司行动** —— 包括 [[JapanFG/tokio-marine-nichido|TMNF]] 内部子公司重定位，其中应用了 tender mechanics。
+- **Tokio Marine HD 子公司行动** —— 包括 [[non-life-insurers/tokio-marine-nichido|TMNF]] 内部子公司重定位，其中应用了 tender mechanics。
 - **Yodogawa Steel — 控制权交易参考** —— 钢铁行业控制权交易案例参考。
 - **Daiichi Sankyo Espha 相关重组** —— 制药子公司重组案例参考，其中 tender mechanics 用于 minority squeeze-out。
 
@@ -152,7 +152,7 @@ translated_at: 2026-06-01T04:15:40.140Z
 
 ### PE financing depth
 
-该 cohort 确认，日本 [[finance/japan-acquisition-finance|acquisition finance]] 市场 —— 由 [[JapanFG/mufg|MUFG]]、[[JapanFG/smbc|SMBC]]、[[JapanFG/mizuho-bank|Mizuho]] trust-bank pools、[[JapanFG/sumitomo-mitsui-trust|Sumitomo Mitsui Trust]] 牵头 —— 具备为数万亿日元 LBO（Toshiba）和数千亿日元 LBO（Outsourcing）融资的能力，不需要外部银团过度延伸。[[finance/japan-leveraged-buyout-economics|Japan LBO economics]] 记录 EBITDA multiple 与 leverage multiple norms。
+该 cohort 确认，日本 [[finance/japan-acquisition-finance|acquisition finance]] 市场 —— 由 [[megabanks/mufg|MUFG]]、[[megabanks/smbc|SMBC]]、[[megabanks/mizuho-bank|Mizuho]] trust-bank pools、[[trust-banks/sumitomo-mitsui-trust|Sumitomo Mitsui Trust]] 牵头 —— 具备为数万亿日元 LBO（Toshiba）和数千亿日元 LBO（Outsourcing）融资的能力，不需要外部银团过度延伸。[[finance/japan-leveraged-buyout-economics|Japan LBO economics]] 记录 EBITDA multiple 与 leverage multiple norms。
 
 ### Special-committee quality variance
 
@@ -211,8 +211,8 @@ translated_at: 2026-06-01T04:15:40.140Z
 - [[business/japan-listed-corp-strategic-restructuring-matrix]]
 - [[business/sony-fg-partial-spinoff-case]]
 - [[business/softbank-vision-fund-arm-ipo-template]]
-- [[JapanFG/mufg]]
-- [[JapanFG/mizuho-bank]]
+- [[megabanks/mufg]]
+- [[megabanks/mizuho-bank]]
 - [[JapanFG/orix]]
 - [[INDEX|FinWiki index]]
 

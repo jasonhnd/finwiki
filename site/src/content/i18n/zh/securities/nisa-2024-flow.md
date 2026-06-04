@@ -18,7 +18,7 @@ translated_at: 2026-06-01T04:15:40.175Z
 
 2024 NISA 改革把日本家庭的免税投资账户转变为永久性的资产形成制度。FSA 的 NISA 网站称，新制度自 2024 年 1 月开始并成为永久制度。官方指南将其框定为两个可使用额度：积立投资额度和成长投资额度，合计年度投资容量为 3.6 百万日元，终身免税持有容量为 18 百万日元。
 
-对 FinWiki 而言，NISA 是证券分销和家庭资产流动页面。它连接 [[JapanFG/rakuten-securities]] 等零售券商、[[JapanFG/nomura-hd]] 等综合证券公司，以及 [[JapanFG/mizuho-securities]] 和 [[JapanFG/mufg-mums]] 等银行系证券部门。
+对 FinWiki 而言，NISA 是证券分销和家庭资产流动页面。它连接 [[securities-firms/rakuten-securities]] 等零售券商、[[securities-firms/nomura-hd]] 等综合证券公司，以及 [[securities-firms/mizuho-securities]] 和 [[securities-firms/mufg-mums]] 等银行系证券部门。
 
 ## 系统地图
 
@@ -44,10 +44,10 @@ translated_at: 2026-06-01T04:15:40.175Z
 
 ## 与 JapanFG 的相关性
 
-- [[JapanFG/rakuten-securities]]：线上券商 / 生态系统获客案例。
-- [[JapanFG/nomura-hd]] 和 [[JapanFG/daiwa-sg]]：全服务证券和财富管理应对。
-- [[JapanFG/mizuho-securities]]、[[JapanFG/mufg-mums]] 和 [[JapanFG/smbc-nikko]]：银行系证券分销和集团财富战略。
-- [[JapanFG/jsda]]：自律监管 / 行业 Q&A 路由。
+- [[securities-firms/rakuten-securities]]：线上券商 / 生态系统获客案例。
+- [[securities-firms/nomura-hd]] 和 [[securities-firms/daiwa-sg]]：全服务证券和财富管理应对。
+- [[securities-firms/mizuho-securities]]、[[securities-firms/mufg-mums]] 和 [[securities-firms/smbc-nikko]]：银行系证券分销和集团财富战略。
+- [[financial-regulators/jsda]]：自律监管 / 行业 Q&A 路由。
 - [[loyalty/japan-points-landscape]]：积分计划可作为家庭投资获客通道发挥作用。
 
 ## 决策用途
@@ -62,15 +62,15 @@ translated_at: 2026-06-01T04:15:40.175Z
 ## 相关
 
 - [[securities/INDEX|securities INDEX]]
-- [[JapanFG/rakuten-securities]]
-- [[JapanFG/nomura-hd]]
-- [[JapanFG/daiwa-sg]]
-- [[JapanFG/mizuho-securities]]
-- [[JapanFG/mufg-mums]]
-- [[JapanFG/smbc-nikko]]
-- [[JapanFG/jsda]]
+- [[securities-firms/rakuten-securities]]
+- [[securities-firms/nomura-hd]]
+- [[securities-firms/daiwa-sg]]
+- [[securities-firms/mizuho-securities]]
+- [[securities-firms/mufg-mums]]
+- [[securities-firms/smbc-nikko]]
+- [[financial-regulators/jsda]]
 - [[loyalty/japan-points-landscape]]
-- [[JapanFG/legal-financial-licenses/INDEX]]
+- [[financial-licenses/INDEX]]
 - [[INDEX|FinWiki index]]
 
 ## 来源

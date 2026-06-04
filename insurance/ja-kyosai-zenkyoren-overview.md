@@ -30,11 +30,11 @@ canonical_anchor: JapanFG/ja-kyosairen
 
 ## TL;DR
 
-[[JapanFG/ja-kyosairen|JA共済 / 全共連 (Zenkyoren — 全国共済農業協同組合連合会)]] is the federated cooperative insurance underwriter of Japan's agricultural cooperative (JA / 農協) movement, and by reserve / asset scale is the largest non-[[JapanFG/fsa|FSA]]-supervised insurance entity in Japan. It writes a full kyosai (共済) product line — life-equivalent (whole life, term, endowment, medical, nursing), non-life-equivalent (building / dwelling, automobile, fire / earthquake), and pension — distributed through the unit-level agricultural cooperatives ("JA" local cooperatives) to their members and non-member users. Regulatory supervision sits with the Ministry of Agriculture, Forestry and Fisheries (MAFF / 農林水産省) under the Agricultural Cooperatives Act (農業協同組合法 / Nōkyō-hō), not with the FSA under the Insurance Business Act. This means Zenkyoren falls outside the formal [[insurance/japan-life-insurance-big-four|life big-four]] and [[insurance/japan-nonlife-big-three|non-life big-three]] private-insurer perimeter even though its general-account assets are on the order of several tens of trillions of yen and place it alongside the largest [[JapanFG/nippon-life|Nippon Life]]-class balance sheets. The dual structure — cooperative tax / governance status plus dual MAFF / FSA economic-value benchmarking — is what makes the Zenkyoren perimeter analytically distinct from FSA-licensed insurers.
+[[non-life-insurers/ja-kyosairen|JA共済 / 全共連 (Zenkyoren — 全国共済農業協同組合連合会)]] is the federated cooperative insurance underwriter of Japan's agricultural cooperative (JA / 農協) movement, and by reserve / asset scale is the largest non-[[financial-regulators/fsa|FSA]]-supervised insurance entity in Japan. It writes a full kyosai (共済) product line — life-equivalent (whole life, term, endowment, medical, nursing), non-life-equivalent (building / dwelling, automobile, fire / earthquake), and pension — distributed through the unit-level agricultural cooperatives ("JA" local cooperatives) to their members and non-member users. Regulatory supervision sits with the Ministry of Agriculture, Forestry and Fisheries (MAFF / 農林水産省) under the Agricultural Cooperatives Act (農業協同組合法 / Nōkyō-hō), not with the FSA under the Insurance Business Act. This means Zenkyoren falls outside the formal [[insurance/japan-life-insurance-big-four|life big-four]] and [[insurance/japan-nonlife-big-three|non-life big-three]] private-insurer perimeter even though its general-account assets are on the order of several tens of trillions of yen and place it alongside the largest [[life-insurers/nippon-life|Nippon Life]]-class balance sheets. The dual structure — cooperative tax / governance status plus dual MAFF / FSA economic-value benchmarking — is what makes the Zenkyoren perimeter analytically distinct from FSA-licensed insurers.
 
 ## Wiki route
 
-This page sits under [[insurance/INDEX|insurance INDEX]] and is the cooperative-insurance counterpart to [[insurance/japan-life-insurance-big-four|the Japan life big four]] and [[insurance/japan-nonlife-big-three|the non-life big three]]. Read it together with [[insurance/cooperative-insurance-system-japan|the cooperative insurance system Japan overview]] for the broader 共済 sector, [[insurance/mutual-vs-stock-life-insurer|the mutual vs stock comparison]] for corporate-form context (kyosai sit further along the mutuality axis than FSA-supervised mutuals), [[insurance/economic-value-based-solvency|economic-value-based solvency]] and [[insurance/esr-economic-value-solvency|ESR]] for the capital benchmark Zenkyoren voluntarily mirrors, and [[insurance/global-solvency-framework-comparison-matrix|the global solvency framework comparison matrix]] for the cross-regime view. The corresponding entity anchor is [[JapanFG/ja-kyosairen|JA共済連 / Zenkyoren]]. For the supervisor context see the MAFF hub and the contrast with the [[JapanFG/fsa|FSA]].
+This page sits under [[insurance/INDEX|insurance INDEX]] and is the cooperative-insurance counterpart to [[insurance/japan-life-insurance-big-four|the Japan life big four]] and [[insurance/japan-nonlife-big-three|the non-life big three]]. Read it together with [[insurance/cooperative-insurance-system-japan|the cooperative insurance system Japan overview]] for the broader 共済 sector, [[insurance/mutual-vs-stock-life-insurer|the mutual vs stock comparison]] for corporate-form context (kyosai sit further along the mutuality axis than FSA-supervised mutuals), [[insurance/economic-value-based-solvency|economic-value-based solvency]] and [[insurance/esr-economic-value-solvency|ESR]] for the capital benchmark Zenkyoren voluntarily mirrors, and [[insurance/global-solvency-framework-comparison-matrix|the global solvency framework comparison matrix]] for the cross-regime view. The corresponding entity anchor is [[non-life-insurers/ja-kyosairen|JA共済連 / Zenkyoren]]. For the supervisor context see the MAFF hub and the contrast with the [[financial-regulators/fsa|FSA]].
 
 ## What Zenkyoren is and is not
 
@@ -75,7 +75,7 @@ MAFF (農林水産省) supervises the JA / kyosai sector under the Agricultural 
 
 The supervisory split has practical consequences:
 
-- **License regime** — Zenkyoren does not need an FSA insurance license; see [[JapanFG/legal-financial-licenses/insurance-license-and-solvency|insurance license and solvency]] for the FSA framework that does not apply.
+- **License regime** — Zenkyoren does not need an FSA insurance license; see [[financial-licenses/insurance-license-and-solvency|insurance license and solvency]] for the FSA framework that does not apply.
 - **Capital rule** — MAFF solvency rules apply, not the FSA Insurance Business Act capital rule.
 - **Tax treatment** — kyosai are cooperative-sector products with cooperative-sector tax treatment.
 - **Distribution rule** — kyosai are sold through cooperatives to members and non-member users under the cooperative law, not under the insurance solicitation rule that governs FSA insurance agents and brokers.
@@ -114,7 +114,7 @@ Use this page when:
 - You are doing a Japan-wide insurance-sector scale comparison and need to bring the cooperative sector into the perimeter.
 - You are reading a Zenkyoren annual disclosure document and want the regulatory / structural context.
 - You are comparing the FSA economic-value-based solvency rule against the kyosai capital rule.
-- You are mapping the JA group's full financial perimeter — see [[JapanFG/ja-kyosairen|JA共済連]] and the JA Bank entries for the cooperative banking side.
+- You are mapping the JA group's full financial perimeter — see [[non-life-insurers/ja-kyosairen|JA共済連]] and the JA Bank entries for the cooperative banking side.
 - You are analysing earthquake-insurance pool architecture and need to keep the kyosai earthquake cover (which sits outside the JER pool) separate from the private-insurer pool — see [[insurance/earthquake-insurance-public-private-scheme|earthquake insurance public-private scheme]].
 
 ## Boundary cases / caveats
@@ -140,10 +140,10 @@ Use this page when:
 - [[insurance/earthquake-insurance-public-private-scheme]]
 - [[insurance/mutual-vs-stock-life-insurer]]
 - [[insurance/insurance-agency-and-brokerage-japan]]
-- [[JapanFG/ja-kyosairen]]
-- [[JapanFG/legal-financial-licenses/insurance-license-and-solvency]]
+- [[non-life-insurers/ja-kyosairen]]
+- [[financial-licenses/insurance-license-and-solvency]]
 - MAFF (Ministry of Agriculture, Forestry and Fisheries)
-- [[JapanFG/fsa]]
+- [[financial-regulators/fsa]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

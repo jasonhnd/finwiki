@@ -15,7 +15,7 @@ translated_at: 2026-06-02T12:19:04.239Z
 
 ## ウィキ上の位置づけ
 
-本項目は FG 隣接性の運用マトリクスとして [[exchanges/INDEX|exchanges index]] の配下に位置する。この項目が運用面へ落とし込む所有構造の分類は [[exchanges/jp-vasp-parent-company-map|JP VASP parent company map]]、より広い市場概観は [[exchanges/jp-crypto-exchange-overview|JP crypto exchange overview]]、ポイント連携の次元は [[exchanges/jp-cex-points-economy-integration|JP CEX points-economy integration]]、銀行 funding cost の観点は [[exchanges/jp-crypto-bank-credit-facilities|JP crypto bank credit facilities]]、現在の親 FG マップを生んだ構造再編は [[exchanges/jp-vasp-ma-consolidation-history|JP VASP M&A consolidation history]]、全行に共通する監督枠組みは [[exchanges/fsa-vasp-registration-system|FSA VASP registration system]] とあわせて読む。主要ポジションのエンティティアンカーは [[JapanFG/sbi-hd|SBI HD]]、[[JapanFG/gmo-financial-hd|GMO Financial HD]]、[[JapanFG/monex-group|Monex Group]]、[[JapanFG/rakuten-fg|Rakuten FG]]、[[JapanFG/mercari-hd|Mercari HD]]、[[JapanFG/nomura-hd|Nomura HD]]、[[JapanFG/daiwa-sg|Daiwa Securities Group]]。
+本項目は FG 隣接性の運用マトリクスとして [[exchanges/INDEX|exchanges index]] の配下に位置する。この項目が運用面へ落とし込む所有構造の分類は [[exchanges/jp-vasp-parent-company-map|JP VASP parent company map]]、より広い市場概観は [[exchanges/jp-crypto-exchange-overview|JP crypto exchange overview]]、ポイント連携の次元は [[exchanges/jp-cex-points-economy-integration|JP CEX points-economy integration]]、銀行 funding cost の観点は [[exchanges/jp-crypto-bank-credit-facilities|JP crypto bank credit facilities]]、現在の親 FG マップを生んだ構造再編は [[exchanges/jp-vasp-ma-consolidation-history|JP VASP M&A consolidation history]]、全行に共通する監督枠組みは [[exchanges/fsa-vasp-registration-system|FSA VASP registration system]] とあわせて読む。主要ポジションのエンティティアンカーは [[megabanks/sbi-hd|SBI HD]]、[[payment-firms/gmo-financial-hd|GMO Financial HD]]、[[securities-firms/monex-group|Monex Group]]、[[payment-firms/rakuten-fg|Rakuten FG]]、[[payment-firms/mercari-hd|Mercari HD]]、[[securities-firms/nomura-hd|Nomura HD]]、[[securities-firms/daiwa-sg|Daiwa Securities Group]]。
 
 ## このマトリクスが重要な理由
 
@@ -27,22 +27,22 @@ translated_at: 2026-06-02T12:19:04.239Z
 
 ### SBI VC Trade — SBI HD (8473)
 
-**親 FG**: [[JapanFG/sbi-hd|SBI HD]]（TSE Prime 8473）。[[JapanFG/sbi-securities|SBI Securities]] を通じたリテール証券口座数で日本最大級のオンライン金融コングロマリット。**グループが提供するサービス**:
+**親 FG**: [[megabanks/sbi-hd|SBI HD]]（TSE Prime 8473）。[[securities-firms/sbi-securities|SBI Securities]] を通じたリテール証券口座数で日本最大級のオンライン金融コングロマリット。**グループが提供するサービス**:
 - **証券クロスセル** — SBI VC Trade は SBI 証券の口座基盤（日本 #1  のオンライン証券）をクロスプロモーションの導線として利用でき、SBI 共通 ID がグループブランド横断で口座をつなぐ
-- **銀行入金チャネル** — [[JapanFG/sbi-shinsei-bank|SBI Shinsei Bank]]（グループ銀行、みずほ系の系譜）がグループ内 JPY 決済レールを提供し、[[JapanFG/sbi-regional-bank-hd|SBI Regional Bank HD]]（地域銀行持株会社）と提携地域銀行が追加の銀行預金基盤を提供する
-- **送金** — [[JapanFG/sbi-remit|SBI Remit]] がグループの海外送金 / 資金移動業面を運営する
-- **FX 隣接性** — [[JapanFG/sbi-fx-trade|SBI FX Trade]] がレバレッジ FX を運営し、関連会社 [[exchanges/jp-exchange-bi-fxtrade|BI FXTRADE]] がグループ内で暗号資産デリバティブライセンスを保有する
-- **保険 / 資産運用** — [[JapanFG/sbi-life|SBI Life]]、[[JapanFG/sbi-insurance|SBI Insurance]]、[[JapanFG/sbi-asset-management|SBI Asset Management]] がグループの商品層を補完する
+- **銀行入金チャネル** — [[regional-banks/sbi-shinsei-bank|SBI Shinsei Bank]]（グループ銀行、みずほ系の系譜）がグループ内 JPY 決済レールを提供し、[[megabanks/sbi-regional-bank-hd|SBI Regional Bank HD]]（地域銀行持株会社）と提携地域銀行が追加の銀行預金基盤を提供する
+- **送金** — [[payment-firms/sbi-remit|SBI Remit]] がグループの海外送金 / 資金移動業面を運営する
+- **FX 隣接性** — [[securities-firms/sbi-fx-trade|SBI FX Trade]] がレバレッジ FX を運営し、関連会社 [[exchanges/jp-exchange-bi-fxtrade|BI FXTRADE]] がグループ内で暗号資産デリバティブライセンスを保有する
+- **保険 / 資産運用** — [[life-insurers/sbi-life|SBI Life]]、[[non-life-insurers/sbi-insurance|SBI Insurance]]、[[asset-managers/sbi-asset-management|SBI Asset Management]] がグループの商品層を補完する
 
 **隣接度**: 非常に高い — 親グループが統合型金融スーパーストアモデルを運営しており、VASP はそのクロスセル接点の一つである。SBI 新生銀行レールにより、JPY 入出金は業界最速級である。詳細: [[exchanges/jp-exchange-sbi-vc-trade|jp-exchange-sbi-vc-trade]]。
 
 ### GMO Coin — GMO Financial HD (7177) / GMO Internet Group (9449)
 
-**親 FG**: [[JapanFG/gmo-financial-hd|GMO Financial HD]]（TSE Prime 7177）。それ自体が GMO Internet Group（TSE Prime 9449）の子会社である。**グループが提供するサービス**:
-- **証券クロスセル** — [[JapanFG/gmo-click-securities|GMO Click Securities]]（グループ証券会社で、GMO Financial HD の子会社でもある）が FIEA 側の商品厚みと共通インフラを提供する
-- **ダイレクト銀行** — [[JapanFG/gmo-aozora-net|GMO Aozora Net Bank]]（あおぞら銀行との合弁）がグループのインターネット銀行として運営され、内部 JPY 入金レールを提供する
-- **決済処理** — [[JapanFG/gmo-payment-gateway|GMO Payment Gateway]]（TSE Prime、別上場）は日本有数の top-3  PSP であり、[[JapanFG/gmo-epsilon|GMO Epsilon]] は中小企業向け PSP 部門である
-- **BNPL** — [[JapanFG/gmo-postpay|GMO Postpay]] がグループの BNPL / 後払いラインを運営する
+**親 FG**: [[payment-firms/gmo-financial-hd|GMO Financial HD]]（TSE Prime 7177）。それ自体が GMO Internet Group（TSE Prime 9449）の子会社である。**グループが提供するサービス**:
+- **証券クロスセル** — [[securities-firms/gmo-click-securities|GMO Click Securities]]（グループ証券会社で、GMO Financial HD の子会社でもある）が FIEA 側の商品厚みと共通インフラを提供する
+- **ダイレクト銀行** — [[payment-firms/gmo-aozora-net|GMO Aozora Net Bank]]（あおぞら銀行との合弁）がグループのインターネット銀行として運営され、内部 JPY 入金レールを提供する
+- **決済処理** — [[payment-firms/gmo-payment-gateway|GMO Payment Gateway]]（TSE Prime、別上場）は日本有数の top-3  PSP であり、[[payment-firms/gmo-epsilon|GMO Epsilon]] は中小企業向け PSP 部門である
+- **BNPL** — [[payment-firms/gmo-postpay|GMO Postpay]] がグループの BNPL / 後払いラインを運営する
 - **インターネットインフラ** — 広義の GMO Internet Group は GMO Cloud / ドメイン / SSL 事業を運営し、運用エンジニアリングの厚みを提供する
 
 **隣接度**: 高い — 証券、銀行、決済、暗号資産を横断する共通のエンジニアリング文化を持つ、インターネット金融専業型のシナジー。詳細: [[exchanges/jp-exchange-gmo-coin|jp-exchange-gmo-coin]]。
@@ -58,7 +58,7 @@ translated_at: 2026-06-02T12:19:04.239Z
 
 ### Coincheck — Monex Group (8698) / Coincheck Group N.V. (NASDAQ:CNCK)
 
-**親 FG**: [[JapanFG/monex-group|Monex Group]]（TSE Prime 8698）。現在は Coincheck Group N.V.（2024  SPAC 合併を通じて NASDAQ 上場）を通じて運営される。**グループが提供するサービス**:
+**親 FG**: [[securities-firms/monex-group|Monex Group]]（TSE Prime 8698）。現在は Coincheck Group N.V.（2024  SPAC 合併を通じて NASDAQ 上場）を通じて運営される。**グループが提供するサービス**:
 - **証券クロスセル** — Monex Securities（グループ証券会社）が FIEA 証券接点と米国株 / グローバル投資の販売網を提供する
 - **暗号資産デリバティブ** — Monex 株式会社（Monex Inc.、別ライセンス保有者）が FIEA Type 1,  に基づく暗号資産デリバティブを運営し、Coincheck の現物専業ライセンスを補完する
 - **TradeStation** — Monex Group の米国 TradeStation 部門が、米国市場および先物プラットフォームのエンジニアリング知見を提供する
@@ -68,13 +68,13 @@ translated_at: 2026-06-02T12:19:04.239Z
 
 ### Rakuten Wallet — Rakuten Group (4755) / Rakuten FG
 
-**親 FG**: [[JapanFG/rakuten-fg|Rakuten FG]]。Rakuten Group（TSE Prime 4755）内に位置する。**グループが提供するサービス**:
+**親 FG**: [[payment-firms/rakuten-fg|Rakuten FG]]。Rakuten Group（TSE Prime 4755）内に位置する。**グループが提供するサービス**:
 - **銀行** — Rakuten Bank（別上場、TSE Prime 5838）は日本最大級のインターネット銀行の一つで、主要なグループ内 JPY レールを提供する
-- **証券** — [[JapanFG/rakuten-securities|Rakuten Securities]]（口座数 top-3  のオンライン証券）が FIEA 証券接点を提供する
-- **カード** — [[JapanFG/rakuten-card|Rakuten Card]]（取扱高で日本最大級のカード発行会社）がカード側の接点を提供する
+- **証券** — [[securities-firms/rakuten-securities|Rakuten Securities]]（口座数 top-3  のオンライン証券）が FIEA 証券接点を提供する
+- **カード** — [[card-issuers/rakuten-card|Rakuten Card]]（取扱高で日本最大級のカード発行会社）がカード側の接点を提供する
 - **ポイント** — Rakuten Points（日本最大級のロイヤルティプログラム、約 90M ID 保有者）が連携接点である。Rakuten Wallet は過去に Rakuten Points を使った暗号資産購入を可能にしていた
-- **Edy** — [[JapanFG/rakuten-edy|Rakuten Edy]] はプリペイド電子マネー部門である。[[payments/japan-prepaid-electronic-money-operator-matrix|JP prepaid e-money operator matrix]] を参照
-- **保険** — [[JapanFG/rakuten-life|Rakuten Life]]、[[JapanFG/rakuten-general-insurance|Rakuten General Insurance]]、[[JapanFG/rakuten-insurance-hd|Rakuten Insurance HD]]
+- **Edy** — [[payment-firms/rakuten-edy|Rakuten Edy]] はプリペイド電子マネー部門である。[[payments/japan-prepaid-electronic-money-operator-matrix|JP prepaid e-money operator matrix]] を参照
+- **保険** — [[life-insurers/rakuten-life|Rakuten Life]]、[[non-life-insurers/rakuten-general-insurance|Rakuten General Insurance]]、[[non-life-insurers/rakuten-insurance-hd|Rakuten Insurance HD]]
 - **E コマース** — Rakuten Ichiba（日本最大級の marketplace）は、グループ内暗号資産実験を検証できる加盟店側接点である
 - **モバイル** — Rakuten Mobile（MNO）がグループに通信チャネルを与える
 
@@ -95,7 +95,7 @@ translated_at: 2026-06-02T12:19:04.239Z
 
 ### Mercoin — Mercari HD (4385)
 
-**親 FG**: [[JapanFG/mercari-hd|Mercari HD]]（TSE Prime 4385）。**グループが提供するサービス**:
+**親 FG**: [[payment-firms/mercari-hd|Mercari HD]]（TSE Prime 4385）。**グループが提供するサービス**:
 - **wallet / 決済** — Merpay（グループ wallet、資金移動業ライセンス保有）がグループ内 JPY レールを提供し、Mercari ポイント / Mercari 売上金を通じた Mercoin の BTC 購入における主要入口になる
 - **marketplace** — Mercari（日本最大級の C2C marketplace、月間アクティブ約 22M）が顧客獲得チャネルである。marketplace の UX により、出品者は売上金を Mercoin 経由で直接 BTC に変換できる
 - **グループ内銀行なし** — Mercari は銀行を運営していない。JPY レールは Merpay の資金移動業ライセンスと提携銀行を通じて処理される
@@ -106,10 +106,10 @@ translated_at: 2026-06-02T12:19:04.239Z
 
 ### Laser Digital Japan — Nomura HD (8604)
 
-**親 FG**: Laser Digital Holdings（スイス拠点のデジタルアセット子会社）経由の [[JapanFG/nomura-hd|Nomura HD]]（TSE Prime 8604）。**グループが提供するサービス**:
+**親 FG**: Laser Digital Holdings（スイス拠点のデジタルアセット子会社）経由の [[securities-firms/nomura-hd|Nomura HD]]（TSE Prime 8604）。**グループが提供するサービス**:
 - **機関向けブローカレッジ** — Nomura Securities（グループ証券会社、リテールウェルスで JP #1 ）が機関投資家の顧客基盤とプライムブローカレッジ隣接性を提供する
-- **資産運用** — [[JapanFG/nomura-asset-management|Nomura Asset Management]] が機関向け ETF / fund エンジニアリングの厚みを提供する
-- **信託銀行** — [[JapanFG/nomura-trust-bank|Nomura Trust Bank]] が機関投資家フローの trust / custody 側の法的主体を提供する
+- **資産運用** — [[asset-managers/nomura-asset-management|Nomura Asset Management]] が機関向け ETF / fund エンジニアリングの厚みを提供する
+- **信託銀行** — [[trust-banks/nomura-trust-bank|Nomura Trust Bank]] が機関投資家フローの trust / custody 側の法的主体を提供する
 - **ライセンス** — Laser Digital Japan は標準的な暗号資産交換業ではなく FIEA Type 2 （デリバティブ中心）を保有しており、リテール現物ではなく機関向け / デリバティブに焦点を置いていることを反映している
 - **グローバル Laser Digital ネットワーク** — スイス HQ、Dubai（VARA ライセンス）、Abu Dhabi、London の各面が JP entity へ機関投資家フローを送る
 
@@ -117,11 +117,11 @@ translated_at: 2026-06-02T12:19:04.239Z
 
 ### Crypto Garage — Daiwa Securities Group (8601) + DG / 野村 connection
 
-**親 FG**: [[JapanFG/daiwa-sg|Daiwa Securities Group]]（TSE Prime 8601）。DG ホールディングス（Digital Garage 4819）、東京短資、その他の戦略投資家も株主に入っている。**グループが提供するサービス**:
+**親 FG**: [[securities-firms/daiwa-sg|Daiwa Securities Group]]（TSE Prime 8601）。DG ホールディングス（Digital Garage 4819）、東京短資、その他の戦略投資家も株主に入っている。**グループが提供するサービス**:
 - **証券** — Daiwa Securities（グループ証券会社、リテールウェルスで JP #2 ）が機関向け接点を提供する
-- **資産運用** — [[JapanFG/daiwa-asset-management|Daiwa Asset Management]] が資産運用エンジニアリングの厚みを提供する
-- **信託銀行** — [[JapanFG/daiwa-living-trust|Daiwa Living Trust]] / Daiwa Trust 機能
-- **ダイレクト銀行** — [[JapanFG/daiwa-next-bank|Daiwa Next Bank]]（グループ direct bank）がグループ内 JPY レールを提供する
+- **資産運用** — [[asset-managers/daiwa-asset-management|Daiwa Asset Management]] が資産運用エンジニアリングの厚みを提供する
+- **信託銀行** — [[trust-banks/daiwa-living-trust|Daiwa Living Trust]] / Daiwa Trust 機能
+- **ダイレクト銀行** — [[regional-banks/daiwa-next-bank|Daiwa Next Bank]]（グループ direct bank）がグループ内 JPY レールを提供する
 - **ライセンス** — Crypto Garage は Type 2  / 機関向け重点構造を持ち、姿勢としては Laser Digital Japan に近い。この entity はリテール現物ではなく、PTS / 機関向け / DCJPY / stablecoin 発行実験に向けて位置づけられている
 
 **隣接度**: 高い（機関向け / 実験的）— Crypto Garage は Daiwa の機関向け接点と JPX 隣接の実験の交点に位置し、同じ JPX / 三井物産 / Monex コンソーシアム内の姉妹 entity [[exchanges/jp-exchange-digital-asset-markets|Digital Asset Markets]] が機関向け現物に関わる。詳細: [[exchanges/jp-exchange-crypto-garage|jp-exchange-crypto-garage]]。
@@ -153,15 +153,15 @@ translated_at: 2026-06-02T12:19:04.239Z
 
 | VASP | 親 FG | 東証コード | グループ内銀行 | グループ内証券 | グループ内 wallet / 決済 | グループ内ポイント | 保険 | E コマース / marketplace | 隣接度 | クロスセル循環 |
 |---|---|---|---|---|---|---|---|---|---|---|
-| **SBI VC Trade** | [[JapanFG/sbi-hd\|SBI HD]] | 8473 | [[JapanFG/sbi-shinsei-bank\|SBI Shinsei Bank]] + regional-bank-HD | [[JapanFG/sbi-securities\|SBI Securities]]（JP #1  online） | [[JapanFG/sbi-remit\|SBI Remit]] | SBI 共通 ID | [[JapanFG/sbi-life\|SBI Life]] + [[JapanFG/sbi-insurance\|SBI Insurance]] | （限定的） | 非常に高い | あり — superstore model |
-| **GMO Coin** | [[JapanFG/gmo-financial-hd\|GMO Financial HD]] / GMO Internet | 7177 / 9449 | [[JapanFG/gmo-aozora-net\|GMO Aozora Net]] | [[JapanFG/gmo-click-securities\|GMO Click Securities]] | [[JapanFG/gmo-payment-gateway\|GMO Payment Gateway]] + [[JapanFG/gmo-epsilon\|GMO Epsilon]] | （限定的） | （限定的） | （限定的） | 高い | あり — internet-finance |
+| **SBI VC Trade** | [[megabanks/sbi-hd\|SBI HD]] | 8473 | [[regional-banks/sbi-shinsei-bank\|SBI Shinsei Bank]] + regional-bank-HD | [[securities-firms/sbi-securities\|SBI Securities]]（JP #1  online） | [[payment-firms/sbi-remit\|SBI Remit]] | SBI 共通 ID | [[life-insurers/sbi-life\|SBI Life]] + [[non-life-insurers/sbi-insurance\|SBI Insurance]] | （限定的） | 非常に高い | あり — superstore model |
+| **GMO Coin** | [[payment-firms/gmo-financial-hd\|GMO Financial HD]] / GMO Internet | 7177 / 9449 | [[payment-firms/gmo-aozora-net\|GMO Aozora Net]] | [[securities-firms/gmo-click-securities\|GMO Click Securities]] | [[payment-firms/gmo-payment-gateway\|GMO Payment Gateway]] + [[payment-firms/gmo-epsilon\|GMO Epsilon]] | （限定的） | （限定的） | （限定的） | 高い | あり — internet-finance |
 | **bitFlyer** | 独立系 | n/a | 提携銀行のみ | （なし） | （なし） | 提携のみ | （なし） | （なし） | 低い | なし — brand only |
-| **Coincheck** | [[JapanFG/monex-group\|Monex Group]]（Coincheck Group N.V., NASDAQ:CNCK 経由） | 8698 （JP） / CNCK（US） | （日本に該当なし） | Monex Securities | （なし） | Monex points | （なし） | （なし） | 中〜高 | あり — securities cross-sell + global capital |
-| **Rakuten Wallet** | [[JapanFG/rakuten-fg\|Rakuten FG]] / Rakuten Group | 4755 | Rakuten Bank（5838） | [[JapanFG/rakuten-securities\|Rakuten Securities]] | [[JapanFG/rakuten-card\|Rakuten Card]] + [[JapanFG/rakuten-edy\|Rakuten Edy]] | Rakuten Points（約 90M IDs） | [[JapanFG/rakuten-life\|Rakuten Life]] + [[JapanFG/rakuten-general-insurance\|Rakuten General Insurance]] | Rakuten Ichiba | 非常に高い | あり — full superstore + points |
+| **Coincheck** | [[securities-firms/monex-group\|Monex Group]]（Coincheck Group N.V., NASDAQ:CNCK 経由） | 8698 （JP） / CNCK（US） | （日本に該当なし） | Monex Securities | （なし） | Monex points | （なし） | （なし） | 中〜高 | あり — securities cross-sell + global capital |
+| **Rakuten Wallet** | [[payment-firms/rakuten-fg\|Rakuten FG]] / Rakuten Group | 4755 | Rakuten Bank（5838） | [[securities-firms/rakuten-securities\|Rakuten Securities]] | [[card-issuers/rakuten-card\|Rakuten Card]] + [[payment-firms/rakuten-edy\|Rakuten Edy]] | Rakuten Points（約 90M IDs） | [[life-insurers/rakuten-life\|Rakuten Life]] + [[non-life-insurers/rakuten-general-insurance\|Rakuten General Insurance]] | Rakuten Ichiba | 非常に高い | あり — full superstore + points |
 | **DMM Bitcoin** | DMM HD（非公開） | n/a | （なし） | DMM.com Securities | （なし） | DMM Points | （なし） | DMM marketplaces | 中程度 → wind-down 2024 | （以前は）marketing reach |
-| **Mercoin** | [[JapanFG/mercari-hd\|Mercari HD]] | 4385 | （なし） | （なし） | Merpay（資金移動業） | Mercari Points | （なし） | Mercari（日本最大級の C2C） | 非常に高い | あり — captive marketplace on-ramp |
-| **Laser Digital Japan** | [[JapanFG/nomura-hd\|Nomura HD]] | 8604 | （自社銀行なし） | Nomura Securities（JP #1  wealth） | （なし） | （なし） | （Nomura Insurance） | （なし） | 非常に高い（機関向け） | あり — institutional client coverage |
-| **Crypto Garage** | [[JapanFG/daiwa-sg\|Daiwa SG]] + DG + 東京短資 + 野村 | 8601 （Daiwa） | [[JapanFG/daiwa-next-bank\|Daiwa Next Bank]] | Daiwa Securities（JP #2  wealth） | （なし） | （なし） | （Daiwa Life） | （なし） | 高い（機関向け） | あり — institutional + JPX-adjacent |
+| **Mercoin** | [[payment-firms/mercari-hd\|Mercari HD]] | 4385 | （なし） | （なし） | Merpay（資金移動業） | Mercari Points | （なし） | Mercari（日本最大級の C2C） | 非常に高い | あり — captive marketplace on-ramp |
+| **Laser Digital Japan** | [[securities-firms/nomura-hd\|Nomura HD]] | 8604 | （自社銀行なし） | Nomura Securities（JP #1  wealth） | （なし） | （なし） | （Nomura Insurance） | （なし） | 非常に高い（機関向け） | あり — institutional client coverage |
+| **Crypto Garage** | [[securities-firms/daiwa-sg\|Daiwa SG]] + DG + 東京短資 + 野村 | 8601 （Daiwa） | [[regional-banks/daiwa-next-bank\|Daiwa Next Bank]] | Daiwa Securities（JP #2  wealth） | （なし） | （なし） | （Daiwa Life） | （なし） | 高い（機関向け） | あり — institutional + JPX-adjacent |
 | **PayPay-related（via Binance Japan minority）** | SoftBank Group / PayPay-FG | 9984 | PayPay Bank | PayPay Securities | PayPay（日本最大級の QR） | PayPay Points | （限定的） | （限定的） | 中程度（間接、約 40% stake のみ） | 間接 — optionality |
 | **au-related** | KDDI | 9433 | auじぶん銀行（with MUFG） | auカブコム証券（with MUFG） | au PAY | Ponta-adjacent | （au Insurance） | au マーケット | 低い（自社 VASP なし） | （暗号資産 entity なし） |
 
@@ -191,8 +191,8 @@ translated_at: 2026-06-02T12:19:04.239Z
 - **証券 brokerage 口座基盤** — 親会社の既存 FIEA 証券顧客をクロスセル pool として使う（SBI Securities、Rakuten Securities、Nomura Securities、Daiwa Securities、Monex Securities、GMO Click Securities、auカブコム証券、PayPay Securities）。証券口座からのクロスセルは JP VASP にとって最も低 CAC のチャネルである。
 - **wallet / 資金移動業** — Merpay、PayPay、au PAY、Rakuten Pay、Rakuten Edy、SBI Remit（海外送金）。資金移動業ライセンスは、VASP の交換業ライセンスがカバーしない JPY 側の移動を扱うため、暗号資産交換業と構造的に補完関係にある。
 - **ポイント / loyalty cross-link** — Rakuten Points（最大級）、PayPay Points、Ponta（au 隣接）、JRE POINT（交通、別系統）、nanaco Points、WAON Points、dPoint（NTT DoCoMo）。ポイント連携により、現金消費なしで販促用 crypto rewards を組成できる。事業者別の統合深度は [[exchanges/jp-cex-points-economy-integration|JP CEX points-economy integration]] を参照。
-- **カード発行面** — Rakuten Card、PayPay Card、[[JapanFG/aeon-financial-service|AEON Financial Service]] cards、JCB（multi-FG）、[[JapanFG/smbc-card|SMBC Card]]、[[JapanFG/mufg-nicos|MUFG NICOS]]。カード発行会社との統合により、VASP は JPY auto-charge や card 経由の crypto purchase を可能にできる。
-- **保険クロスセル** — [[JapanFG/sbi-life|SBI Life]]、[[JapanFG/rakuten-life|Rakuten Life]]、Nomura insurance、AIG。暗号資産との直接関連は薄いが、FG 全体の bundle には寄与する。
+- **カード発行面** — Rakuten Card、PayPay Card、[[card-issuers/aeon-financial-service|AEON Financial Service]] cards、JCB（multi-FG）、[[card-issuers/smbc-card|SMBC Card]]、[[card-issuers/mufg-nicos|MUFG NICOS]]。カード発行会社との統合により、VASP は JPY auto-charge や card 経由の crypto purchase を可能にできる。
+- **保険クロスセル** — [[life-insurers/sbi-life|SBI Life]]、[[life-insurers/rakuten-life|Rakuten Life]]、Nomura insurance、AIG。暗号資産との直接関連は薄いが、FG 全体の bundle には寄与する。
 - **E コマース / marketplace** — Rakuten Ichiba、Mercari、DMM marketplaces。marketplace 統合は、加盟店側の crypto payment 実験と seller-side off-ramp を可能にする。
 - **通信チャネル** — SoftBank、KDDI（au）、NTT DoCoMo、Rakuten Mobile。通信配信は FG に MNO bundling のオプションを与える。
 
@@ -256,13 +256,13 @@ Coincheck NEM 2018-01  インシデント（[[exchanges/coincheck-nem-hack-detai
 - [[exchanges/jp-exchange-digital-asset-markets]]
 - [[exchanges/jp-exchange-custodiem]]
 - [[exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis]]
-- [[JapanFG/sbi-hd]]
-- [[JapanFG/gmo-financial-hd]]
-- [[JapanFG/monex-group]]
-- [[JapanFG/rakuten-fg]]
-- [[JapanFG/mercari-hd]]
-- [[JapanFG/nomura-hd]]
-- [[JapanFG/daiwa-sg]]
+- [[megabanks/sbi-hd]]
+- [[payment-firms/gmo-financial-hd]]
+- [[securities-firms/monex-group]]
+- [[payment-firms/rakuten-fg]]
+- [[payment-firms/mercari-hd]]
+- [[securities-firms/nomura-hd]]
+- [[securities-firms/daiwa-sg]]
 
 ## 出典
 

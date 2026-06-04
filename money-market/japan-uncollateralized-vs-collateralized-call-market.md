@@ -88,10 +88,10 @@ Both segments are brokered through tanshi (money-market broker) companies, which
 
 ## JapanFG Relevance
 
-- [[JapanFG/tokyo-tanshi]], [[JapanFG/central-tanshi]], and [[JapanFG/ueda-yagi-tanshi]] are the tanshi intermediaries whose reported transactions define the call rate.
-- [[JapanFG/mufg]], [[JapanFG/smfg]], and [[JapanFG/mizuho-fg]] participate through reserve / settlement balances and wholesale funding.
-- [[JapanFG/mizuho-securities]] and [[JapanFG/mufg-mums]] participate through securities-firm inventory funding and repo-adjacent activity.
-- [[JapanFG/boj-monetary-policy]] sets the policy framework; this page explains the secured-vs-unsecured call segmentation underneath it.
+- [[financial-regulators/tokyo-tanshi]], [[financial-regulators/central-tanshi]], and [[financial-regulators/ueda-yagi-tanshi]] are the tanshi intermediaries whose reported transactions define the call rate.
+- [[megabanks/mufg]], [[megabanks/smfg]], and [[megabanks/mizuho-fg]] participate through reserve / settlement balances and wholesale funding.
+- [[securities-firms/mizuho-securities]] and [[securities-firms/mufg-mums]] participate through securities-firm inventory funding and repo-adjacent activity.
+- [[financial-regulators/boj-monetary-policy]] sets the policy framework; this page explains the secured-vs-unsecured call segmentation underneath it.
 
 ## Boundary Cases
 
@@ -112,10 +112,10 @@ Both segments are brokered through tanshi (money-market broker) companies, which
 - [[money-market/japan-ncd-negotiable-cd-market]]
 - [[money-market/japan-cp-commercial-paper-market]]
 - [[derivatives/ois-tona-curve]]
-- [[JapanFG/boj-monetary-policy]]
-- [[JapanFG/tokyo-tanshi]]
-- [[JapanFG/central-tanshi]]
-- [[JapanFG/ueda-yagi-tanshi]]
+- [[financial-regulators/boj-monetary-policy]]
+- [[financial-regulators/tokyo-tanshi]]
+- [[financial-regulators/central-tanshi]]
+- [[financial-regulators/ueda-yagi-tanshi]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

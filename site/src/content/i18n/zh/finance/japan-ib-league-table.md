@@ -19,7 +19,7 @@ translated_at: 2026-05-31T06:16:15.690Z
 
 日本投资银行联赛表是排名工具，而非客观事实。结果取决于数据供应商、产品类别、有效交易范围、宣布/完成日期、角色归属及货币换算方式。可用于梳理竞争地位和项目获取情况，但须始终注明数据来源供应商及时间段。
 
-对于FinWiki而言，本页是[[JapanFG/goldman-sachs-japan]]、[[JapanFG/nomura-hd]]、[[JapanFG/daiwa-sg]]、[[JapanFG/smbc-nikko]]、[[JapanFG/mizuho-securities]]及[[JapanFG/mufg-mums]]的解读层。
+对于FinWiki而言，本页是[[securities-firms/goldman-sachs-japan]]、[[securities-firms/nomura-hd]]、[[securities-firms/daiwa-sg]]、[[securities-firms/smbc-nikko]]、[[securities-firms/mizuho-securities]]及[[securities-firms/mufg-mums]]的解读层。
 
 ## 排名内容
 
@@ -36,13 +36,13 @@ translated_at: 2026-05-31T06:16:15.690Z
 2. **记录时间段**：财年、日历年、半年、季度、YTD、宣布口径或完成口径。
 3. **区分产品**：并购、ECM、DCM及IPO承销考量的是不同能力。
 4. **区分顾问与主承销商归属**：银行可能为董事会提供顾问服务但未承销融资，或仅承销但未提供并购顾问。
-5. **注意母公司/合资企业归属**：MUFG/Morgan Stanley Japan的架构可能导致归属分配在[[JapanFG/mufg-mums]]实体与Morgan Stanley MUFG实体之间分割。
+5. **注意母公司/合资企业归属**：MUFG/Morgan Stanley Japan的架构可能导致归属分配在[[securities-firms/mufg-mums]]实体与Morgan Stanley MUFG实体之间分割。
 
 ## JapanFG相关性
 
-- [[JapanFG/nomura-hd]]及[[JapanFG/daiwa-sg]]：独立日系证券集团。
-- [[JapanFG/smbc-nikko]]、[[JapanFG/mizuho-securities]]、[[JapanFG/mufg-mums]]：大型银行系证券公司。
-- [[JapanFG/goldman-sachs-japan]]、[[JapanFG/bank-of-america-japan]]及[[JapanFG/socgen-japan]]：外资银行/外资证券竞争者。
+- [[securities-firms/nomura-hd]]及[[securities-firms/daiwa-sg]]：独立日系证券集团。
+- [[securities-firms/smbc-nikko]]、[[securities-firms/mizuho-securities]]、[[securities-firms/mufg-mums]]：大型银行系证券公司。
+- [[securities-firms/goldman-sachs-japan]]、[[foreign-financial-institutions/bank-of-america-japan]]及[[foreign-financial-institutions/socgen-japan]]：外资银行/外资证券竞争者。
 - [[securities/INDEX|securities INDEX]]关联牌照/经纪/NISA页面，解释资本市场下层的分销体系。
 
 ## 决策用途
@@ -60,12 +60,12 @@ translated_at: 2026-05-31T06:16:15.690Z
 - [[finance/INDEX|finance INDEX]]
 - [[finance/cross-border-m-a-japan]]
 - [[securities/INDEX]]
-- [[JapanFG/goldman-sachs-japan]]
-- [[JapanFG/nomura-hd]]
-- [[JapanFG/daiwa-sg]]
-- [[JapanFG/smbc-nikko]]
-- [[JapanFG/mizuho-securities]]
-- [[JapanFG/mufg-mums]]
+- [[securities-firms/goldman-sachs-japan]]
+- [[securities-firms/nomura-hd]]
+- [[securities-firms/daiwa-sg]]
+- [[securities-firms/smbc-nikko]]
+- [[securities-firms/mizuho-securities]]
+- [[securities-firms/mufg-mums]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

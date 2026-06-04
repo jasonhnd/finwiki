@@ -69,8 +69,6 @@
   "body_links": {
     "wikilinks_count": 14,
     "wikilinks": [
-      "JapanFG/jpyc",
-      "JapanFG/progmat",
       "exchanges/jp-exchange-sbi-vc-trade",
       "fintech/INDEX",
       "fintech/eu-mica-implementation-status-2026",
@@ -82,11 +80,11 @@
       "fintech/jp-stablecoin-dcjpy",
       "fintech/jp-stablecoin-progmat",
       "fintech/jp-trust-type-sc-architecture",
-      "fintech/stablecoin-channel-japan-sbi-jpyc-ring"
+      "fintech/stablecoin-channel-japan-sbi-jpyc-ring",
+      "payment-firms/jpyc",
+      "payment-firms/progmat"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/jpyc",
-      "https://finwiki.zksc.io/JapanFG/progmat",
       "https://finwiki.zksc.io/exchanges/jp-exchange-sbi-vc-trade",
       "https://finwiki.zksc.io/fintech/INDEX",
       "https://finwiki.zksc.io/fintech/eu-mica-implementation-status-2026",
@@ -98,15 +96,17 @@
       "https://finwiki.zksc.io/fintech/jp-stablecoin-dcjpy",
       "https://finwiki.zksc.io/fintech/jp-stablecoin-progmat",
       "https://finwiki.zksc.io/fintech/jp-trust-type-sc-architecture",
-      "https://finwiki.zksc.io/fintech/stablecoin-channel-japan-sbi-jpyc-ring"
+      "https://finwiki.zksc.io/fintech/stablecoin-channel-japan-sbi-jpyc-ring",
+      "https://finwiki.zksc.io/payment-firms/jpyc",
+      "https://finwiki.zksc.io/payment-firms/progmat"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 8684,
-    "word_like_tokens": 1656,
+    "nonspace_chars": 8714,
+    "word_like_tokens": 1661,
     "inbound_wikilinks_count": 2,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-04"
   }
 }

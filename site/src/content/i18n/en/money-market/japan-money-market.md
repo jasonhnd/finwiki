@@ -25,10 +25,10 @@ This page is the domain overview. Use [[money-market/call-market-structure|call 
 
 | Layer | Function | FinWiki route |
 |---|---|---|
-| Policy decision | BoJ Policy Board sets the guideline for money market operations at MPMs. | [[JapanFG/boj-monetary-policy]] |
+| Policy decision | BoJ Policy Board sets the guideline for money market operations at MPMs. | [[financial-regulators/boj-monetary-policy]] |
 | Operating market | Short-term rate formation, especially uncollateralized overnight call transactions. | [[money-market/call-market-structure]] |
 | Market operations | BoJ supplies or absorbs funds through open market operations. | [[money-market/boj-open-market-operations]] |
-| Intermediaries | Banks, securities firms, trust banks, and tanshi companies manage short-term liquidity. | [[JapanFG/tokyo-tanshi]], [[JapanFG/central-tanshi]], [[JapanFG/ueda-yagi-tanshi]] |
+| Intermediaries | Banks, securities firms, trust banks, and tanshi companies manage short-term liquidity. | [[financial-regulators/tokyo-tanshi]], [[financial-regulators/central-tanshi]], [[financial-regulators/ueda-yagi-tanshi]] |
 | Data layer | BoJ publishes call money market data and market-operation results. | BoJ statistics / market-operation releases |
 
 ## Why It Matters
@@ -50,11 +50,11 @@ After the BoJ's March 2024 regime shift away from negative rates and Yield Curve
 - [[money-market/INDEX|money-market INDEX]]
 - [[money-market/call-market-structure]]
 - [[money-market/boj-open-market-operations]]
-- [[JapanFG/boj-monetary-policy]]
-- [[JapanFG/tokyo-tanshi]]
-- [[JapanFG/central-tanshi]]
-- [[JapanFG/ueda-yagi-tanshi]]
-- [[JapanFG/legal-financial-licenses/INDEX]]
+- [[financial-regulators/boj-monetary-policy]]
+- [[financial-regulators/tokyo-tanshi]]
+- [[financial-regulators/central-tanshi]]
+- [[financial-regulators/ueda-yagi-tanshi]]
+- [[financial-licenses/INDEX]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

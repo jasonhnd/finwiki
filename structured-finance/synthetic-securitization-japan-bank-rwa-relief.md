@@ -28,11 +28,11 @@ sources:
 
 ## TL;DR
 
-Synthetic securitisation — where a bank transfers credit risk on a reference loan portfolio to outside investors via a **credit-default swap (CDS)** or **credit-linked note (CLN)** structure without selling the underlying loans — is the modern Basel III tool for **risk-weighted asset (RWA) relief** on bank balance sheets. In Japan, the three megabanks ([[JapanFG/mufg|MUFG]], [[JapanFG/smfg|SMFG]], [[JapanFG/mizuho-fg|Mizuho FG]]) have used synthetic securitisations selectively to free capital on **corporate-loan**, **project-finance**, and **infrastructure-finance** portfolios. Compared to European peer-bank deal flow, Japanese megabank synthetic-SRT (Significant Risk Transfer) issuance has been smaller and less frequent — Japanese banks historically have had ample capital buffers and have only intermittently needed RWA-relief deals. Investor base is dominated by global specialist credit-investor funds (hedge funds, structured-credit funds, some pension funds), which can absorb the junior or mezzanine risk-transfer tranches. [[structured-finance/credit-rating-methodology-jcr-r-and-i|FSA capital-relief approval]] requires the deal to demonstrate true credit-risk transfer under specific accounting and capital tests.
+Synthetic securitisation — where a bank transfers credit risk on a reference loan portfolio to outside investors via a **credit-default swap (CDS)** or **credit-linked note (CLN)** structure without selling the underlying loans — is the modern Basel III tool for **risk-weighted asset (RWA) relief** on bank balance sheets. In Japan, the three megabanks ([[megabanks/mufg|MUFG]], [[megabanks/smfg|SMFG]], [[megabanks/mizuho-fg|Mizuho FG]]) have used synthetic securitisations selectively to free capital on **corporate-loan**, **project-finance**, and **infrastructure-finance** portfolios. Compared to European peer-bank deal flow, Japanese megabank synthetic-SRT (Significant Risk Transfer) issuance has been smaller and less frequent — Japanese banks historically have had ample capital buffers and have only intermittently needed RWA-relief deals. Investor base is dominated by global specialist credit-investor funds (hedge funds, structured-credit funds, some pension funds), which can absorb the junior or mezzanine risk-transfer tranches. [[structured-finance/credit-rating-methodology-jcr-r-and-i|FSA capital-relief approval]] requires the deal to demonstrate true credit-risk transfer under specific accounting and capital tests.
 
 ## Wiki route
 
-This entry sits under [[structured-finance/INDEX|structured-finance index]] as the **bank-capital-management** securitisation node. Read against [[structured-finance/japan-abs-market-overview|Japan ABS market overview]] (true-sale ABS as the alternative to synthetic), [[structured-finance/spv-tk-gk-vehicle-japan-tax|TK / GK SPV vehicle]] for the legal structure layer, and [[derivatives/japan-cds-market-overview|Japan CDS market overview]] for the underlying credit-derivative infrastructure. System frame: [[finance/INDEX|finance index]] for the broader bank-capital context, and institution anchors: [[JapanFG/mufg|MUFG]], [[JapanFG/smfg|SMFG]], [[JapanFG/mizuho-fg|Mizuho FG]].
+This entry sits under [[structured-finance/INDEX|structured-finance index]] as the **bank-capital-management** securitisation node. Read against [[structured-finance/japan-abs-market-overview|Japan ABS market overview]] (true-sale ABS as the alternative to synthetic), [[structured-finance/spv-tk-gk-vehicle-japan-tax|TK / GK SPV vehicle]] for the legal structure layer, and [[derivatives/japan-cds-market-overview|Japan CDS market overview]] for the underlying credit-derivative infrastructure. System frame: [[finance/INDEX|finance index]] for the broader bank-capital context, and institution anchors: [[megabanks/mufg|MUFG]], [[megabanks/smfg|SMFG]], [[megabanks/mizuho-fg|Mizuho FG]].
 
 ## 1. The problem — bank capital constraints on loan growth
 
@@ -165,7 +165,7 @@ The pace of new issuance has been increasing as Basel finalisation effective dat
 ## 10. Open questions
 
 - The pace of Japanese megabank synthetic-SRT issuance under Basel finalisation pressure (output-floor effective dates, etc.)
-- Whether [[JapanFG/japan-post-bank|Japan Post Bank]] or large regional banks issue synthetic-SRT (so far the activity is concentrated in the megabanks)
+- Whether [[regional-banks/japan-post-bank|Japan Post Bank]] or large regional banks issue synthetic-SRT (so far the activity is concentrated in the megabanks)
 - Whether the FSA approval process becomes more standardised over time, reducing structuring friction
 - Whether Japanese institutional investors (life insurers, pension funds) develop appetite for the senior tranches of synthetic-SRT deals
 - The interaction between synthetic-SRT and [[structured-finance/aircraft-leasing-financing-japan-shosha|aircraft]] / [[structured-finance/ship-financing-japan-megabank|ship]] / [[structured-finance/project-finance-spv-japan-renewable|project-finance]] loan books — capital-intensive specialty loan portfolios are natural candidates
@@ -190,8 +190,8 @@ The pace of new issuance has been increasing as Basel finalisation effective dat
 - [[finance/INDEX|finance index]] · [[finance/japan-leveraged-buyout-economics|Japan LBO economics]]
 - [[real-estate-finance/INDEX|real-estate-finance index]]
 - [[policy-finance/japan-project-finance-stack-diagram|Japan project finance stack]]
-- [[JapanFG/mufg|MUFG]] · [[JapanFG/smfg|SMFG]] · [[JapanFG/mizuho-fg|Mizuho FG]]
-- [[JapanFG/norinchukin|Norinchukin]] · [[JapanFG/japan-post-bank|Japan Post Bank]] · [[JapanFG/japan-exchange-group|JPX]]
+- [[megabanks/mufg|MUFG]] · [[megabanks/smfg|SMFG]] · [[megabanks/mizuho-fg|Mizuho FG]]
+- [[cooperative-banks/norinchukin|Norinchukin]] · [[regional-banks/japan-post-bank|Japan Post Bank]] · [[financial-regulators/japan-exchange-group|JPX]]
 
 ## Sources
 

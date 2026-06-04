@@ -30,13 +30,13 @@ sources:
 
 ## TL;DR
 
-The Japanese megabanks — led by [[JapanFG/mufg-bank|MUFG Bank]] and [[JapanFG/sumitomo-mitsui-banking-corp|SMBC]] — issue **EUR and USD covered bonds** to international investors as a USD/EUR-denominated funding source positioned **between senior unsecured bonds and traditional [[structured-finance/japan-rmbs-issuance-structure|RMBS securitization]]**. The covered-bond programs are **contractually structured** (rather than statutory) because Japan does not have a domestic covered-bond legal framework comparable to Germany's Pfandbrief Act or the EU Covered Bond Directive. Issuance is conducted from offshore (typically London, Singapore, or Tokyo branches issuing into European Medium-Term Note programs) and the structural-credit enhancement is engineered to meet **UCITS Article 52(4)** quality criteria and to achieve **AAA-equivalent ratings** from [[JapanFG/sp-global-ratings-japan|S&P]], [[JapanFG/moodys-japan|Moody's]], or [[JapanFG/jcr|JCR]] / [[JapanFG/rating-and-investment|R&I]].
+The Japanese megabanks — led by [[megabanks/mufg-bank|MUFG Bank]] and [[megabanks/sumitomo-mitsui-banking-corp|SMBC]] — issue **EUR and USD covered bonds** to international investors as a USD/EUR-denominated funding source positioned **between senior unsecured bonds and traditional [[structured-finance/japan-rmbs-issuance-structure|RMBS securitization]]**. The covered-bond programs are **contractually structured** (rather than statutory) because Japan does not have a domestic covered-bond legal framework comparable to Germany's Pfandbrief Act or the EU Covered Bond Directive. Issuance is conducted from offshore (typically London, Singapore, or Tokyo branches issuing into European Medium-Term Note programs) and the structural-credit enhancement is engineered to meet **UCITS Article 52(4)** quality criteria and to achieve **AAA-equivalent ratings** from [[JapanFG/sp-global-ratings-japan|S&P]], [[JapanFG/moodys-japan|Moody's]], or [[financial-regulators/jcr|JCR]] / [[financial-regulators/rating-and-investment|R&I]].
 
 The **cover pool composition** is dominated by **Japanese residential mortgages** — prime-quality variable-rate or mixed-rate residential loans originated by the issuing megabank — segregated into a bankruptcy-remote pool that secures the covered bonds. Pricing for Japanese megabank covered bonds typically trades **inside senior unsecured** (since dual recourse — to the issuer plus to the cover pool — provides incremental investor protection) but **outside top-tier European Pfandbrief** (reflecting the contractual rather than statutory structure plus the country-of-issuer premium). Use this entry as the bridge between [[structured-finance/japan-rmbs-issuance-structure|Japan RMBS]] and unsecured megabank funding; the funding decision between covered bond, RMBS, and senior unsecured is a structural choice for megabank treasury teams.
 
 ## Wiki route
 
-This entry sits under [[structured-finance/INDEX|structured-finance index]] as the **Japan covered bond node** — the structured-credit-adjacent funding instrument between [[structured-finance/japan-rmbs-issuance-structure|RMBS]] and senior unsecured megabank bonds. Read against [[structured-finance/japan-abs-market-overview|Japan ABS market overview]] for total structured-credit context, [[structured-finance/japan-rmbs-issuance-structure|Japan RMBS issuance structure]] for the closest collateral-side cousin, [[structured-finance/credit-rating-methodology-jcr-r-and-i|JCR / R&I methodology]] for domestic-rating treatment vs global agencies, and [[structured-finance/spv-tk-gk-vehicle-japan-tax|SPV TK/GK/TMK/SPC vehicle choice]] for the structural-vehicle layer. System frame: [[finance/INDEX|finance index]], and the issuer-bank anchors [[JapanFG/mufg|MUFG]] / [[JapanFG/mufg-bank|MUFG Bank]] and [[JapanFG/smfg|SMFG]] / [[JapanFG/sumitomo-mitsui-banking-corp|SMBC]].
+This entry sits under [[structured-finance/INDEX|structured-finance index]] as the **Japan covered bond node** — the structured-credit-adjacent funding instrument between [[structured-finance/japan-rmbs-issuance-structure|RMBS]] and senior unsecured megabank bonds. Read against [[structured-finance/japan-abs-market-overview|Japan ABS market overview]] for total structured-credit context, [[structured-finance/japan-rmbs-issuance-structure|Japan RMBS issuance structure]] for the closest collateral-side cousin, [[structured-finance/credit-rating-methodology-jcr-r-and-i|JCR / R&I methodology]] for domestic-rating treatment vs global agencies, and [[structured-finance/spv-tk-gk-vehicle-japan-tax|SPV TK/GK/TMK/SPC vehicle choice]] for the structural-vehicle layer. System frame: [[finance/INDEX|finance index]], and the issuer-bank anchors [[megabanks/mufg|MUFG]] / [[megabanks/mufg-bank|MUFG Bank]] and [[megabanks/smfg|SMFG]] / [[megabanks/sumitomo-mitsui-banking-corp|SMBC]].
 
 ## 1. What a covered bond is — short refresher
 
@@ -66,7 +66,7 @@ The **contractual** rather than statutory Japanese structure is a key feature: J
 
 | Item | MUFG covered bond detail |
 |---|---|
-| Issuer | [[JapanFG/mufg-bank|MUFG Bank]] (typically via London branch or program-specific issuance entity) |
+| Issuer | [[megabanks/mufg-bank|MUFG Bank]] (typically via London branch or program-specific issuance entity) |
 | Format | Euro Medium-Term Note (EMTN) program with covered-bond structure |
 | Currency | EUR and USD primarily |
 | Cover pool | Japanese residential mortgages |
@@ -79,7 +79,7 @@ The **contractual** rather than statutory Japanese structure is a key feature: J
 
 | Item | SMBC covered bond detail |
 |---|---|
-| Issuer | [[JapanFG/sumitomo-mitsui-banking-corp|SMBC]] (typically via offshore branch or program entity) |
+| Issuer | [[megabanks/sumitomo-mitsui-banking-corp|SMBC]] (typically via offshore branch or program entity) |
 | Format | EMTN program with covered-bond structure |
 | Currency | EUR and USD primarily |
 | Cover pool | Japanese residential mortgages |
@@ -158,9 +158,9 @@ The two instruments are **complementary**, not substitutes. Covered bonds are a 
 - [[structured-finance/synthetic-securitization-japan-bank-rwa-relief|synthetic securitization Japan bank RWA relief]]
 - [[structured-finance/tmk-special-purpose-company-mechanics|TMK special-purpose company mechanics]]
 - [[structured-finance/japan-green-securitization|Japan green securitization]]
-- [[JapanFG/mufg|MUFG]] · [[JapanFG/mufg-bank|MUFG Bank]]
-- [[JapanFG/smfg|SMFG]] · [[JapanFG/sumitomo-mitsui-banking-corp|SMBC]]
-- [[JapanFG/mizuho-fg|Mizuho FG]] · [[JapanFG/mizuho-bank|Mizuho Bank]]
+- [[megabanks/mufg|MUFG]] · [[megabanks/mufg-bank|MUFG Bank]]
+- [[megabanks/smfg|SMFG]] · [[megabanks/sumitomo-mitsui-banking-corp|SMBC]]
+- [[megabanks/mizuho-fg|Mizuho FG]] · [[megabanks/mizuho-bank|Mizuho Bank]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

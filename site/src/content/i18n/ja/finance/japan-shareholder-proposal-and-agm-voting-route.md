@@ -13,7 +13,7 @@ translated_at: 2026-06-02T13:21:55.029Z
 
 日本の株主提案と 株主総会 議決権行使記録は、会社法上の株主権、招集通知、参考書類、書面投票、電子投票、コーポレートガバナンス開示、委任状投票、スチュワードシップ開示、総会後の議決権行使結果を接続する。このページは、上場会社のガバナンス・イベントで参照される公開記録項目を整理する。
 
-このページは [[finance/INDEX|finance domain]] に属し、[[finance/japan-activist-investor-playbook|Japan activist investor playbook]]、[[finance/japan-large-shareholding-disclosure|large-shareholding disclosure]]、[[finance/japan-fair-disclosure-and-insider-trading-controls|fair disclosure and insider trading controls]]、[[finance/japan-mbo-and-squeeze-out-process|Japan MBO and squeeze-out process]]、[[finance/japan-tender-offer-process|Japan tender offer process]]、[[securities/tokyo-stock-exchange|Tokyo Stock Exchange]]、[[JapanFG/japan-exchange-group|Japan Exchange Group]] と接続する。
+このページは [[finance/INDEX|finance domain]] に属し、[[finance/japan-activist-investor-playbook|Japan activist investor playbook]]、[[finance/japan-large-shareholding-disclosure|large-shareholding disclosure]]、[[finance/japan-fair-disclosure-and-insider-trading-controls|fair disclosure and insider trading controls]]、[[finance/japan-mbo-and-squeeze-out-process|Japan MBO and squeeze-out process]]、[[finance/japan-tender-offer-process|Japan tender offer process]]、[[securities/tokyo-stock-exchange|Tokyo Stock Exchange]]、[[financial-regulators/japan-exchange-group|Japan Exchange Group]] と接続する。
 
 ## ルートマップ
 
@@ -91,7 +91,7 @@ JPX の適時開示ガイドブック資料は、上場会社の 株主総会 / 
 
 ## JapanFG との関係
 
-上場 JapanFG ページは、公開 提出書類 または発行体資料が接続を裏付ける場合、株主総会 / 株主提案記録にリンクできる。関連する上場グループには、[[JapanFG/mufg]]、[[JapanFG/smfg]]、[[JapanFG/mizuho-fg]]、[[JapanFG/nomura-hd]]、[[JapanFG/daiwa-sg]]、[[JapanFG/sbi-hd]]、[[JapanFG/monex-group]]、[[JapanFG/wealthnavi]]、上場地域銀行 持株会社 が含まれる。
+上場 JapanFG ページは、公開 提出書類 または発行体資料が接続を裏付ける場合、株主総会 / 株主提案記録にリンクできる。関連する上場グループには、[[megabanks/mufg]]、[[megabanks/smfg]]、[[megabanks/mizuho-fg]]、[[securities-firms/nomura-hd]]、[[securities-firms/daiwa-sg]]、[[megabanks/sbi-hd]]、[[securities-firms/monex-group]]、[[payment-firms/wealthnavi]]、上場地域銀行 持株会社 が含まれる。
 
 ## 関連項目
 
@@ -102,7 +102,7 @@ JPX の適時開示ガイドブック資料は、上場会社の 株主総会 / 
 - [[finance/japan-mbo-and-squeeze-out-process]]
 - [[finance/japan-tender-offer-process]]
 - [[securities/tokyo-stock-exchange]]
-- [[JapanFG/japan-exchange-group]]
+- [[financial-regulators/japan-exchange-group]]
 - [[securities/japan-ipo-listing-disclosure-route]]
 - [[securities/japan-underwriting-market-structure]]
 - [[INDEX|FinWiki index]]

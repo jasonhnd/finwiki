@@ -53,7 +53,6 @@
     "wikilinks_count": 25,
     "wikilinks": [
       "INDEX",
-      "JapanFG/ssnb",
       "exchanges/INDEX",
       "exchanges/fsa-foreign-exchange-warning-system",
       "exchanges/fsa-vasp-registration-system",
@@ -76,11 +75,11 @@
       "exchanges/jp-vasp-cold-storage-segregation-rules",
       "exchanges/jp-vasp-derivative-license-system",
       "exchanges/jp-vasp-parent-company-map",
-      "exchanges/jvcea-self-regulatory-overview"
+      "exchanges/jvcea-self-regulatory-overview",
+      "regional-banks/ssnb"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/ssnb",
       "https://finwiki.zksc.io/exchanges/INDEX",
       "https://finwiki.zksc.io/exchanges/fsa-foreign-exchange-warning-system",
       "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
@@ -103,15 +102,16 @@
       "https://finwiki.zksc.io/exchanges/jp-vasp-cold-storage-segregation-rules",
       "https://finwiki.zksc.io/exchanges/jp-vasp-derivative-license-system",
       "https://finwiki.zksc.io/exchanges/jp-vasp-parent-company-map",
-      "https://finwiki.zksc.io/exchanges/jvcea-self-regulatory-overview"
+      "https://finwiki.zksc.io/exchanges/jvcea-self-regulatory-overview",
+      "https://finwiki.zksc.io/regional-banks/ssnb"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4127,
-    "word_like_tokens": 571,
+    "nonspace_chars": 4134,
+    "word_like_tokens": 572,
     "inbound_wikilinks_count": 7,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-04"
   }
 }

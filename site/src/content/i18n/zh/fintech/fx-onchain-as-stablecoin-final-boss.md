@@ -22,7 +22,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 机构结算中外汇链上化的收益有三：
 
-1. **主经纪商层消失** — 现状下，与 [[fintech/jpmorgan-jpmd-coin|JPM]] / 高盛 / 摩根士丹利 / [[JapanFG/mufg|三菱]] 等多家银行进行外汇结算的机构投资者，须委托主经纪商汇聚并支付相应费用。若直接以 SC 结算，则无需此中间层
+1. **主经纪商层消失** — 现状下，与 [[fintech/jpmorgan-jpmd-coin|JPM]] / 高盛 / 摩根士丹利 / [[megabanks/mufg|三菱]] 等多家银行进行外汇结算的机构投资者，须委托主经纪商汇聚并支付相应费用。若直接以 SC 结算，则无需此中间层
 2. **Herstatt 风险消除** — 日元在日本央行、美元在美联储分别结算，时差造成 12-14  小时的缺口。在此期间若结算对手倒闭，则已支付一方遭受单边损失（1974 Continental Illinois Bank 倒闭为历史案例）。24/365  同步结算则时差为零（跨链 PvP 设计参见 [[systems/cross-chain-five-pole-comparison-matrix|跨链五極対比マトリクス]]）
 3. **资本效率提升** — 银行须为结算风险备足资本，结算风险消失则可将资本释放至其他用途——直接提升经营效率
 

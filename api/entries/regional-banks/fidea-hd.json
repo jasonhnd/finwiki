@@ -1,0 +1,106 @@
+{
+  "schema_version": "1.0",
+  "slug": "regional-banks/fidea-hd",
+  "source_path": "regional-banks/fidea-hd.md",
+  "url": "https://finwiki.zksc.io/regional-banks/fidea-hd",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/regional-banks/fidea-hd.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/regional-banks/fidea-hd.md",
+  "domain": "regional-banks",
+  "title": "フィデア HD (Fidea Holdings)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "フィデア HD (Fidea Holdings)",
+    "aliases": [
+      "Fidea HD",
+      "Fidea Holdings",
+      "フィデアホールディングス",
+      "株式会社フィデアホールディングス"
+    ],
+    "domain": "regional-banks",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "regional-bank",
+      "tohoku"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: フィデアホールディングス (2026-05-19 抽出)",
+      "Wikipedia: 荘内銀行 (2026-05-19 抽出)",
+      "Wikipedia: 北都銀行 (2026-05-19 抽出)",
+      "https://www.hokutobank.co.jp/profile/",
+      "https://www.shonai.co.jp/profile/corporate_info/",
+      "https://www.hokutobank.co.jp/news/pdf/20220210-1.pdf"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against じもとホールディングス (JIMOTO HD) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "フィデア HD (Fidea Holdings)",
+    "Wiki route",
+    "TL;DR",
+    "1. 会社概要",
+    "主要子会社・持分 ^[extracted]",
+    "合併歴史・前身 ^[extracted]",
+    "重要年表 ^[extracted]",
+    "2. 事業セグメント・マップ ^[extracted]",
+    "北東北広域連合戦略",
+    "産業金融特化"
+  ],
+  "body_links": {
+    "wikilinks_count": 19,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "banking/INDEX",
+      "concordia-fg",
+      "dai-shi-hokuetsu-fg",
+      "hokuhoku-fg",
+      "hokuto-bank",
+      "mebuki-fg",
+      "mizuho-fg",
+      "mufg",
+      "regional-banks/77-bank",
+      "regional-banks/akita-bank",
+      "regional-banks/iwate-bank",
+      "regional-banks/jimoto-hd",
+      "regional-banks/proclair-hd",
+      "regional-banks/yamagata-bank",
+      "shonai-bank",
+      "smfg",
+      "tohoku-bank",
+      "yucho"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/concordia-fg",
+      "https://finwiki.zksc.io/dai-shi-hokuetsu-fg",
+      "https://finwiki.zksc.io/hokuhoku-fg",
+      "https://finwiki.zksc.io/hokuto-bank",
+      "https://finwiki.zksc.io/mebuki-fg",
+      "https://finwiki.zksc.io/mizuho-fg",
+      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/regional-banks/77-bank",
+      "https://finwiki.zksc.io/regional-banks/akita-bank",
+      "https://finwiki.zksc.io/regional-banks/iwate-bank",
+      "https://finwiki.zksc.io/regional-banks/jimoto-hd",
+      "https://finwiki.zksc.io/regional-banks/proclair-hd",
+      "https://finwiki.zksc.io/regional-banks/yamagata-bank",
+      "https://finwiki.zksc.io/shonai-bank",
+      "https://finwiki.zksc.io/smfg",
+      "https://finwiki.zksc.io/tohoku-bank",
+      "https://finwiki.zksc.io/yucho"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 4400,
+    "word_like_tokens": 679,
+    "inbound_wikilinks_count": 8,
+    "last_modified": "2026-06-04"
+  }
+}

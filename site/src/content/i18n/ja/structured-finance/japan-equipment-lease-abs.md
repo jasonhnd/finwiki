@@ -11,7 +11,7 @@ translated_at: 2026-06-03T00:53:08.272Z
 
 ## 要約
 
-日本の設備リース ABS は、年間で控えめな発行額（約 JPY 200-400 bn）にとどまる資産クラスであり、三大独立系リース会社（[[JapanFG/mitsubishi-hc-capital|Mitsubishi HC Capital]]、[[JapanFG/tokyo-century|Tokyo Century]]、[[JapanFG/orix-corp|ORIX]]）と銀行系リース会社（Mizuho-Marubeni 傘下の[[JapanFG/fuyo-lease|Fuyo Lease]]、SMFG 傘下の Sumitomo Mitsui Finance & Leasing、Mizuho 傘下の[[JapanFG/ibj-leasing|IBJ Leasing]]）が発行する。**機械、輸送機器、IT / 事務機器、医療機器、再生可能エネルギーインフラ**に関するリース債権を ABS プールに組み込む。この資産クラスは、二つの特徴により**ローン ABS とは構造的に異なる**。第一に、1として、日本基準（J-GAAP）と IFRS 16 に基づく **真正リース対ファイナンスリースの分類**である。ファイナンスリースはリスクと経済的便益のほぼすべてを借手に移転し、経済的にはローンに近い。真正リース（会計分類上のオペレーティングリース）は残価リスクを貸手に残し、貸手はリース終了時の設備価値を予測し回収しなければならない。第二に、**残価リスク**（2）である。これは借手の信用リスクに上乗せされる。借手デフォルトがゼロでも、リース終了時の設備実現価値が帳簿上の残価を下回れば、貸手（および ABS）は損失を被る。格付会社は、残価ヘアカットを吸収するため、**AAA シニアで10-15%の劣後**を適用する。これはオートローン ABS（6-12%）より高い。真正リース比率が高いプールほど信用補完は厚くなる。オートリース ABS と比べ、設備リースプールは設備種類がより異質であり、急速に価値が下がる IT / 事務機器と、価値を比較的長く保つ機械が混在する。また、個人消費者より法人借手が中心であるため集中リスクも高い。格付は[[structured-finance/credit-rating-methodology-jcr-r-and-i|JCR / R&I]]による。
+日本の設備リース ABS は、年間で控えめな発行額（約 JPY 200-400 bn）にとどまる資産クラスであり、三大独立系リース会社（[[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]]、[[leasing-firms/tokyo-century|Tokyo Century]]、[[leasing-firms/orix-corp|ORIX]]）と銀行系リース会社（Mizuho-Marubeni 傘下の[[leasing-firms/fuyo-lease|Fuyo Lease]]、SMFG 傘下の Sumitomo Mitsui Finance & Leasing、Mizuho 傘下の[[leasing-firms/ibj-leasing|IBJ Leasing]]）が発行する。**機械、輸送機器、IT / 事務機器、医療機器、再生可能エネルギーインフラ**に関するリース債権を ABS プールに組み込む。この資産クラスは、二つの特徴により**ローン ABS とは構造的に異なる**。第一に、1として、日本基準（J-GAAP）と IFRS 16 に基づく **真正リース対ファイナンスリースの分類**である。ファイナンスリースはリスクと経済的便益のほぼすべてを借手に移転し、経済的にはローンに近い。真正リース（会計分類上のオペレーティングリース）は残価リスクを貸手に残し、貸手はリース終了時の設備価値を予測し回収しなければならない。第二に、**残価リスク**（2）である。これは借手の信用リスクに上乗せされる。借手デフォルトがゼロでも、リース終了時の設備実現価値が帳簿上の残価を下回れば、貸手（および ABS）は損失を被る。格付会社は、残価ヘアカットを吸収するため、**AAA シニアで10-15%の劣後**を適用する。これはオートローン ABS（6-12%）より高い。真正リース比率が高いプールほど信用補完は厚くなる。オートリース ABS と比べ、設備リースプールは設備種類がより異質であり、急速に価値が下がる IT / 事務機器と、価値を比較的長く保つ機械が混在する。また、個人消費者より法人借手が中心であるため集中リスクも高い。格付は[[structured-finance/credit-rating-methodology-jcr-r-and-i|JCR / R&I]]による。
 
 ## ウィキ上の位置づけ
 
@@ -21,14 +21,14 @@ translated_at: 2026-06-03T00:53:08.272Z
 
 | 発行体 | 親会社 / 系列 | 資産焦点 | 年間 ABS 発行額（概算） |
 |---|---|---|---|
-| [[JapanFG/mitsubishi-hc-capital|Mitsubishi HC Capital]] | Mitsubishi（三菱 UFJ リースと日立キャピタルの合併により2021 に形成） | 機械、IT / 事務、輸送、不動産リース、再生可能 | JPY 80-150 bn |
-| [[JapanFG/tokyo-century|Tokyo Century]] | 独立系（Itochu / Tokyo MUFG 関連株主） | 航空機、船舶、IT / 事務、輸送、再生可能、環境 | JPY 60-120 bn |
-| [[JapanFG/orix-corp|ORIX]] | 独立系の総合金融グループ | 設備リース（機械、車両、IT）に加え、より広い金融 | JPY 50-100 bn |
-| [[JapanFG/fuyo-lease|Fuyo Lease]] | Mizuho / Marubeni 系 | 一般設備 + オートフリートリース | JPY 30-60 bn |
+| [[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]] | Mitsubishi（三菱 UFJ リースと日立キャピタルの合併により2021 に形成） | 機械、IT / 事務、輸送、不動産リース、再生可能 | JPY 80-150 bn |
+| [[leasing-firms/tokyo-century|Tokyo Century]] | 独立系（Itochu / Tokyo MUFG 関連株主） | 航空機、船舶、IT / 事務、輸送、再生可能、環境 | JPY 60-120 bn |
+| [[leasing-firms/orix-corp|ORIX]] | 独立系の総合金融グループ | 設備リース（機械、車両、IT）に加え、より広い金融 | JPY 50-100 bn |
+| [[leasing-firms/fuyo-lease|Fuyo Lease]] | Mizuho / Marubeni 系 | 一般設備 + オートフリートリース | JPY 30-60 bn |
 | Sumitomo Mitsui Finance & Leasing | SMFG / Sumitomo Corp 系 | 設備 + ベンダーファイナンス | JPY 40-80 bn |
-| [[JapanFG/ibj-leasing|IBJ Leasing]] | Mizuho group | 設備 + ストラクチャードリース | JPY 20-50 bn |
-| [[JapanFG/ricoh-leasing|Ricoh Leasing]] | Ricoh group 系 | 事務機器に焦点 | JPY 15-40 bn |
-| 地域銀行系リース会社（[[JapanFG/chibagin-leasing|Chibagin Leasing]]、[[JapanFG/iyogin-leasing|Iyogin Leasing]]、[[JapanFG/yokohama-bank-leasing|Yokohama Bank Leasing]]など） | 各地域銀行 | 地域 SME 向け設備リース | 個別発行は小規模。一部でプール案件あり |
+| [[leasing-firms/ibj-leasing|IBJ Leasing]] | Mizuho group | 設備 + ストラクチャードリース | JPY 20-50 bn |
+| [[leasing-firms/ricoh-leasing|Ricoh Leasing]] | Ricoh group 系 | 事務機器に焦点 | JPY 15-40 bn |
+| 地域銀行系リース会社（[[leasing-firms/chibagin-leasing|Chibagin Leasing]]、[[leasing-firms/iyogin-leasing|Iyogin Leasing]]、[[leasing-firms/yokohama-bank-leasing|Yokohama Bank Leasing]]など） | 各地域銀行 | 地域 SME 向け設備リース | 個別発行は小規模。一部でプール案件あり |
 
 上位三つの独立系が、公募リース ABS 発行の大半を占める。銀行系リース会社は親銀行の資金枠を利用でき、ABS 依存度は低い。ABS は中核的な財務調達というより、資本負担軽減または資金調達多様化の機会として発行する。
 
@@ -148,7 +148,7 @@ translated_at: 2026-06-03T00:53:08.272Z
 
 ## 9. リース会社にとっての資金調達ミックス上の役割
 
-[[JapanFG/mitsubishi-hc-capital|Mitsubishi HC Capital]] / [[JapanFG/tokyo-century|Tokyo Century]] / [[JapanFG/orix-corp|ORIX]]にとって、リース ABS は次と並ぶ。
+[[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]] / [[leasing-firms/tokyo-century|Tokyo Century]] / [[leasing-firms/orix-corp|ORIX]]にとって、リース ABS は次と並ぶ。
 
 - **銀行ライン調達**（メガバンクからのコミットメント付きクレジットファシリティ）。
 - **社債発行**（これらの発行体は IG 格付を持つ）。
@@ -161,7 +161,7 @@ ABS が提供するものは次のとおり。
 - **リース債権の期間に対する期間マッチング**。
 - **格付アービトラージ**（IG 発行体格付にもかかわらず AAA シニア）。
 
-銀行系リース会社（[[JapanFG/fuyo-lease|Fuyo Lease]]、SMFL、[[JapanFG/ibj-leasing|IBJ Leasing]]）はより安い親銀行資金にアクセスできるため、ABS 発行は機会的である。独立系に比べ、財務調達の中核ではない。
+銀行系リース会社（[[leasing-firms/fuyo-lease|Fuyo Lease]]、SMFL、[[leasing-firms/ibj-leasing|IBJ Leasing]]）はより安い親銀行資金にアクセスできるため、ABS 発行は機会的である。独立系に比べ、財務調達の中核ではない。
 
 ## 10. 反論点
 
@@ -176,8 +176,8 @@ ABS が提供するものは次のとおり。
 
 - ESG リンク型リース ABS（再生可能 / バッテリー / EV 充電インフラプール）が別個のサブセグメントになるか。
 - IFRS 16 の採用（グローバルにはほとんどのオペレーティングリースを借手のオンバランスに移した）が、日本で真正リース / ファイナンスリースの経済性を意味ある形で変えるか。
-- [[JapanFG/mitsubishi-hc-capital|Mitsubishi HC Capital]]の買収拡大が、ABS に多様な設備タイプのプールを追加し続けるか。
-- [[JapanFG/tokyo-century|Tokyo Century]]の航空機 / 船舶ファイナンス資産が、リース ABS 構造（または別個の航空機 / 船舶 ABS）で果たす役割。
+- [[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]]の買収拡大が、ABS に多様な設備タイプのプールを追加し続けるか。
+- [[leasing-firms/tokyo-century|Tokyo Century]]の航空機 / 船舶ファイナンス資産が、リース ABS 構造（または別個の航空機 / 船舶 ABS）で果たす役割。
 - デジタル設備 as-a-service（サーバー / ネットワーク as-a-service）のリースプールが証券化可能になるか。
 
 ## 関連項目
@@ -192,8 +192,8 @@ ABS が提供するものは次のとおり。
 - [[structured-finance/aircraft-leasing-financing-japan-shosha|aircraft leasing financing Japan shosha]]
 - [[structured-finance/spv-tk-gk-vehicle-japan-tax|TK / GK / TMK SPV vehicle]]
 - [[structured-finance/japan-securitization-product-matrix|Japan securitization product matrix]]
-- [[JapanFG/mitsubishi-hc-capital|Mitsubishi HC Capital]] ・ [[JapanFG/tokyo-century|Tokyo Century]] ・ [[JapanFG/orix-corp|ORIX]]
-- [[JapanFG/fuyo-lease|Fuyo Lease]] ・ [[JapanFG/ibj-leasing|IBJ Leasing]] ・ [[JapanFG/ricoh-leasing|Ricoh Leasing]]
+- [[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]] ・ [[leasing-firms/tokyo-century|Tokyo Century]] ・ [[leasing-firms/orix-corp|ORIX]]
+- [[leasing-firms/fuyo-lease|Fuyo Lease]] ・ [[leasing-firms/ibj-leasing|IBJ Leasing]] ・ [[leasing-firms/ricoh-leasing|Ricoh Leasing]]
 - [[finance/INDEX|finance index]] ・ [[real-estate-finance/INDEX|real-estate-finance index]]
 
 ## 出典

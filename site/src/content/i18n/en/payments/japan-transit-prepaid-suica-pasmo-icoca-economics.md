@@ -12,11 +12,11 @@ translated_at: 2026-06-01T03:31:12.271Z
 
 ## Wiki route
 
-This entry sits under [[payments/INDEX|payments index]] as the transit-prepaid scheme reference page that pairs with [[payments/prepaid-payment-instrument-issuers-japan-index|prepaid payment instrument issuers registry]] for the FSA-registered prepaid-issuer view, with [[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]] for the four-class scheme comparison, with [[payments/funds-transfer-vs-prepaid-boundary|funds-transfer vs prepaid boundary]] for the Mobile Suica refund / transferability question, and with [[payments/japan-payment-clearing-and-settlement-infrastructure|Japan payment clearing and settlement infrastructure]] for the inter-issuer settlement view via Cyberne. Compare with [[JapanFG/rakuten-edy|Rakuten Edy]] (non-transit FeliCa prepaid) and [[payments/japan-code-payment-competitive-map|code-payment competitive map]] for the substitute scheme that has cannibalized some transit-prepaid retail tap volume. Mobile-rail Apple Pay / Osaifu Keitai routing crosses into [[payments/japan-card-security-authentication-controls|card security and authentication controls]] for tokenization treatment.
+This entry sits under [[payments/INDEX|payments index]] as the transit-prepaid scheme reference page that pairs with [[payments/prepaid-payment-instrument-issuers-japan-index|prepaid payment instrument issuers registry]] for the FSA-registered prepaid-issuer view, with [[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]] for the four-class scheme comparison, with [[payments/funds-transfer-vs-prepaid-boundary|funds-transfer vs prepaid boundary]] for the Mobile Suica refund / transferability question, and with [[payments/japan-payment-clearing-and-settlement-infrastructure|Japan payment clearing and settlement infrastructure]] for the inter-issuer settlement view via Cyberne. Compare with [[payment-firms/rakuten-edy|Rakuten Edy]] (non-transit FeliCa prepaid) and [[payments/japan-code-payment-competitive-map|code-payment competitive map]] for the substitute scheme that has cannibalized some transit-prepaid retail tap volume. Mobile-rail Apple Pay / Osaifu Keitai routing crosses into [[payments/japan-card-security-authentication-controls|card security and authentication controls]] for tokenization treatment.
 
 ## TL;DR
 
-Japan transit-prepaid e-money runs on a **single mutual-use scheme** anchored by FeliCa (Sony's contactless IC technology), the **10 IC card cross-acceptance agreement** (since 2013), and the **Cyberne** inter-issuer settlement system. Nine of the ten cards are railway-operator issued: **Suica** ([[JapanFG/jr-east|JR East]]), **PASMO** (PASMO Co — Tokyo private railway / bus consortium), **ICOCA** ([[JapanFG/jr-west|JR West]]), **Kitaca** ([[JapanFG/jr-hokkaido|JR Hokkaido]]), **TOICA** ([[JapanFG/jr-central|JR Central]]), **manaca** (Nagoya — Meitetsu + Nagoya City Transportation Bureau), **nimoca** (Nishitetsu, Fukuoka), **SUGOCA** ([[JapanFG/jr-kyushu|JR Kyushu]]), **HAYAKAKEN** (Fukuoka City Transportation Bureau). PiTaPa (Surutto KANSAI) is the tenth and operates as post-pay rather than prepaid. All nine prepaid cards share inter-railway tap acceptance and substantial retail-merchant acceptance under each issuer's prepaid-payment-instrument registration. Mobile Suica via Apple Pay / Osaifu Keitai converted the scheme from card-only to smartphone-native around 2016 (Apple Pay launch); Mobile PASMO followed in 2020. The whole scheme is governed under the Payment Services Act prepaid-instrument framework — refundable only at issuance discontinuation, with **breakage economics** (unredeemed balance accruing to issuer over time) contributing to issuer P&L particularly for tourist-purchased cards never returned.
+Japan transit-prepaid e-money runs on a **single mutual-use scheme** anchored by FeliCa (Sony's contactless IC technology), the **10 IC card cross-acceptance agreement** (since 2013), and the **Cyberne** inter-issuer settlement system. Nine of the ten cards are railway-operator issued: **Suica** ([[card-issuers/jr-east|JR East]]), **PASMO** (PASMO Co — Tokyo private railway / bus consortium), **ICOCA** ([[JapanFG/jr-west|JR West]]), **Kitaca** ([[JapanFG/jr-hokkaido|JR Hokkaido]]), **TOICA** ([[JapanFG/jr-central|JR Central]]), **manaca** (Nagoya — Meitetsu + Nagoya City Transportation Bureau), **nimoca** (Nishitetsu, Fukuoka), **SUGOCA** ([[JapanFG/jr-kyushu|JR Kyushu]]), **HAYAKAKEN** (Fukuoka City Transportation Bureau). PiTaPa (Surutto KANSAI) is the tenth and operates as post-pay rather than prepaid. All nine prepaid cards share inter-railway tap acceptance and substantial retail-merchant acceptance under each issuer's prepaid-payment-instrument registration. Mobile Suica via Apple Pay / Osaifu Keitai converted the scheme from card-only to smartphone-native around 2016 (Apple Pay launch); Mobile PASMO followed in 2020. The whole scheme is governed under the Payment Services Act prepaid-instrument framework — refundable only at issuance discontinuation, with **breakage economics** (unredeemed balance accruing to issuer over time) contributing to issuer P&L particularly for tourist-purchased cards never returned.
 
 ## The 10 IC mutual-use scheme
 
@@ -24,7 +24,7 @@ The 10 IC card mutual-use agreement (10カード相互利用) was launched 2013-
 
 | Card | Issuer | Region | Operator type | Prepaid / post-pay |
 |---|---|---|---|---|
-| Suica | [[JapanFG/jr-east\|JR East]] | Greater Tokyo / Northern Japan | JR group | Prepaid |
+| Suica | [[card-issuers/jr-east\|JR East]] | Greater Tokyo / Northern Japan | JR group | Prepaid |
 | PASMO | PASMO Co Ltd | Greater Tokyo | Private railway + bus consortium | Prepaid |
 | ICOCA | [[JapanFG/jr-west\|JR West]] | Kansai / Western Japan | JR group | Prepaid |
 | Kitaca | [[JapanFG/jr-hokkaido\|JR Hokkaido]] | Hokkaido | JR group | Prepaid |
@@ -123,7 +123,7 @@ The single-acquirer dynamic is a structural reason that **JFTC merchant-fee disc
 
 ## JR East corporate stakes in Suica
 
-[[JapanFG/jr-east|JR East]]'s Suica franchise sits within a multi-segment retail / station / transit-services business that uses Suica as both a payment instrument and as a customer-data platform. The Suica installed base — approximately 100 million cards including mobile-version conversion — gives JR East one of Japan's largest captive prepaid populations and a corresponding data signal across transit, station-retail, and a portion of urban convenience-store and supermarket commerce. The corporate strategy treats Suica as a **strategic platform asset** rather than as a standalone payment-service P&L, which is one reason JR East has been willing to invest in Mobile Suica platform development, Suica Welcome tourist outreach, and JRE POINT integration without requiring direct standalone monetization of the prepaid instrument.
+[[card-issuers/jr-east|JR East]]'s Suica franchise sits within a multi-segment retail / station / transit-services business that uses Suica as both a payment instrument and as a customer-data platform. The Suica installed base — approximately 100 million cards including mobile-version conversion — gives JR East one of Japan's largest captive prepaid populations and a corresponding data signal across transit, station-retail, and a portion of urban convenience-store and supermarket commerce. The corporate strategy treats Suica as a **strategic platform asset** rather than as a standalone payment-service P&L, which is one reason JR East has been willing to invest in Mobile Suica platform development, Suica Welcome tourist outreach, and JRE POINT integration without requiring direct standalone monetization of the prepaid instrument.
 
 ## Suica next-generation platform direction
 
@@ -153,9 +153,9 @@ The consensus-based governance pattern is one reason scheme-wide changes (such a
 - [[payments/japan-card-security-authentication-controls]]
 - [[payments/japan-code-payment-competitive-map]]
 - [[payments/cashless-jp-landscape]]
-- [[JapanFG/rakuten-edy]]
-- [[JapanFG/aeon-bank]]
-- [[JapanFG/seven-bank]]
+- [[payment-firms/rakuten-edy]]
+- [[card-issuers/aeon-bank]]
+- [[regional-banks/seven-bank]]
 - [[loyalty/japan-points-landscape]]
 - [[INDEX|FinWiki index]]
 

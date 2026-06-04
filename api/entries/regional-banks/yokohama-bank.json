@@ -1,0 +1,78 @@
+{
+  "schema_version": "1.0",
+  "slug": "regional-banks/yokohama-bank",
+  "source_path": "regional-banks/yokohama-bank.md",
+  "url": "https://finwiki.zksc.io/regional-banks/yokohama-bank",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/regional-banks/yokohama-bank.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/regional-banks/yokohama-bank.md",
+  "domain": "regional-banks",
+  "title": "横浜銀行",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "横浜銀行",
+    "aliases": [
+      "Bank of Yokohama",
+      "The Bank of Yokohama",
+      "BOY",
+      "株式会社横浜銀行"
+    ],
+    "domain": "regional-banks",
+    "created": "2026-05-21",
+    "last_updated": "2026-05-21",
+    "last_tended": "2026-05-21",
+    "review_by": "2026-11-21",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "banking",
+      "regional-bank",
+      "concordia-fg",
+      "yokohama-fg",
+      "kanto",
+      "operating-company"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
+      "https://www.boy.co.jp/boy/company/gaiyou.html"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 東日本銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "横浜銀行",
+    "Wiki route",
+    "TL;DR",
+    "1. License / group boundary",
+    "2. Operating model",
+    "3. Why this page matters",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 6,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "banking/INDEX",
+      "concordia-fg",
+      "higashi-nippon-bank",
+      "kanagawa-bank",
+      "regional-banks/higashi-nippon-bank"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/concordia-fg",
+      "https://finwiki.zksc.io/higashi-nippon-bank",
+      "https://finwiki.zksc.io/kanagawa-bank",
+      "https://finwiki.zksc.io/regional-banks/higashi-nippon-bank"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 1766,
+    "word_like_tokens": 281,
+    "inbound_wikilinks_count": 14,
+    "last_modified": "2026-06-04"
+  }
+}

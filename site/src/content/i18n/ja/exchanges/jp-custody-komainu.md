@@ -68,7 +68,7 @@ translated_at: 2026-06-02T12:19:04.254Z
   - **スイス証券取引所上場 Bitcoin ETP**: 2021 年 1 月、ETP の カストディ 担当として選定（公表）
   - **UAE 政府 / VARA 管轄 case**: 2023 年、UAE での VARA ライセンス取得と同時期に政府系案件への関与が報道
   - **OKX との提携（Komainu Connect）**: 2023 年 6 月、OKX と カストディ 接続の提携を公表
-- **競合比較**: Anchorage Digital、[[exchanges/jp-custody-fireblocks-japan|Fireblocks]]、BitGo 等の機関向け カストディ プロバイダーと競合（[[exchanges/global-institutional-custody-five-pillars|グローバル institutional custody 5 本柱]] 参照）。同社の差別化点は Jersey・UK FCA・[[exchanges/uae-vara-licensing-overview|VARA]] の多重規制準拠 + [[JapanFG/nomura-hd|Nomura]] グループとの親和性。
+- **競合比較**: Anchorage Digital、[[exchanges/jp-custody-fireblocks-japan|Fireblocks]]、BitGo 等の機関向け カストディ プロバイダーと競合（[[exchanges/global-institutional-custody-five-pillars|グローバル institutional custody 5 本柱]] 参照）。同社の差別化点は Jersey・UK FCA・[[exchanges/uae-vara-licensing-overview|VARA]] の多重規制準拠 + [[securities-firms/nomura-hd|Nomura]] グループとの親和性。
 - **口座数・預り AUM**: 非公表
 
 ## 6. 沿革・重大事件

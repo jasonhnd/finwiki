@@ -60,7 +60,7 @@ Carve-outs from a multi-product parent almost always require a TSA — the paren
 | HR / payroll | Continued payroll processing until sub builds capacity |
 | Treasury / cash management | Inter-company cash pool unwind; new banking arrangement at sub |
 | Procurement | Shared supplier contracts; bridge purchasing until sub renegotiates |
-| Legal / compliance | Shared regulatory licenses (esp. financial-services under [[JapanFG/legal-financial-licenses/securities-license-stack|securities-license stack]]) |
+| Legal / compliance | Shared regulatory licenses (esp. financial-services under [[financial-licenses/securities-license-stack|securities-license stack]]) |
 | Real estate | Continued shared office occupancy with cost allocation |
 
 TSA pricing is typically **cost-plus 5-10%**, with step-ups to incentivize exit. Reverse-TSAs flow services from sub back to parent for retained obligations.
@@ -113,7 +113,7 @@ Non-qualified split triggers **mark-to-market gain at parent level** and stamp-d
 - [[finance/japan-acquisition-finance]]
 - [[finance/japan-leveraged-buyout-economics]]
 - [[finance/multi-jurisdiction-identity-tax-leverage]]
-- [[JapanFG/legal-financial-licenses/securities-license-stack]]
+- [[financial-licenses/securities-license-stack]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

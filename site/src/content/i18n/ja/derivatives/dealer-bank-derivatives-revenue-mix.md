@@ -14,11 +14,11 @@ translated_at: 2026-06-02T11:47:37.304Z
 
 日本のディーラー銀行のデリバティブフランチャイズは **三つの構造的な階層** に分かれており、それぞれがレート、為替、エクイティ、クレジットのデリバティブの間で異なる収益構成を持つ:
 
-1. **メガバンクのユニバーサルバンクフランチャイズ — [[JapanFG/mufg-bank|MUFG]] / [[JapanFG/sumitomo-mitsui-banking-corp|SMBC]] / [[JapanFG/mizuho-bank|Mizuho]]** — 日本のディーラー対事業会社およびディーラー対機関投資家のフローのために最大の円 IRS、OIS、ベーシススワップ、為替デリバティブのブックを運用する銀行・証券の統合事業体。レートと為替がメガバンクのデリバティブ収益構成を支配する;エクイティデリバティブはより小さく証券子会社に集中している;クレジットデリバティブは銀行勘定のヘッジと限定的なディーラー CDS の活動に集中している;
+1. **メガバンクのユニバーサルバンクフランチャイズ — [[megabanks/mufg-bank|MUFG]] / [[megabanks/sumitomo-mitsui-banking-corp|SMBC]] / [[megabanks/mizuho-bank|Mizuho]]** — 日本のディーラー対事業会社およびディーラー対機関投資家のフローのために最大の円 IRS、OIS、ベーシススワップ、為替デリバティブのブックを運用する銀行・証券の統合事業体。レートと為替がメガバンクのデリバティブ収益構成を支配する;エクイティデリバティブはより小さく証券子会社に集中している;クレジットデリバティブは銀行勘定のヘッジと限定的なディーラー CDS の活動に集中している;
 
-2. **独立系日本 IB フランチャイズ — [[JapanFG/nomura-hd|Nomura]] / [[JapanFG/daiwa-sg|Daiwa SG]]** にメガバンク証券部門([[JapanFG/smbc-nikko|SMBC Nikko]] / [[JapanFG/mizuho-securities|Mizuho Securities]])を加えたもの — 銀行のみの事業体より **より広範なエクイティデリバティブ能力** を持つ証券会社ベースのディーラーフランチャイズであり、プライマリーディーラーの JGB 活動を中心に構築された強力なレート / クレジットデリバティブのブックを持つ;
+2. **独立系日本 IB フランチャイズ — [[securities-firms/nomura-hd|Nomura]] / [[securities-firms/daiwa-sg|Daiwa SG]]** にメガバンク証券部門([[securities-firms/smbc-nikko|SMBC Nikko]] / [[securities-firms/mizuho-securities|Mizuho Securities]])を加えたもの — 銀行のみの事業体より **より広範なエクイティデリバティブ能力** を持つ証券会社ベースのディーラーフランチャイズであり、プライマリーディーラーの JGB 活動を中心に構築された強力なレート / クレジットデリバティブのブックを持つ;
 
-3. **外国 IB フランチャイズ — [[JapanFG/goldman-sachs-japan|Goldman Sachs Japan]]、[[JapanFG/morgan-stanley-japan|Morgan Stanley Japan / MUMSS]]、[[JapanFG/jpmorgan-japan|JPMorgan Japan]]、[[JapanFG/citigroup-japan|Citi Japan]]** — 完全な日本ディーラー事業体を持つグローバル IB であり、特徴的な **グローバルなクロスマージニングとクロスボーダーのデリバティブブック統合**、深いエクイティ OTC および仕組み商品の能力、ならびにその日本ブックに重なるグローバルな FX プライム / レートプライムのフランチャイズを持つ。
+3. **外国 IB フランチャイズ — [[securities-firms/goldman-sachs-japan|Goldman Sachs Japan]]、[[securities-firms/morgan-stanley-japan|Morgan Stanley Japan / MUMSS]]、[[foreign-financial-institutions/jpmorgan-japan|JPMorgan Japan]]、[[foreign-financial-institutions/citigroup-japan|Citi Japan]]** — 完全な日本ディーラー事業体を持つグローバル IB であり、特徴的な **グローバルなクロスマージニングとクロスボーダーのデリバティブブック統合**、深いエクイティ OTC および仕組み商品の能力、ならびにその日本ブックに重なるグローバルな FX プライム / レートプライムのフランチャイズを持つ。
 
 **日本固有のボルカールール相当の禁止は、米国ボルカールールと同じ明示的な形では存在しない** が、日本の規制枠組みは異なる仕組みを通じて同様の結果に達する:**FIEA / 銀行法のもとでの子会社化を通じた銀行業務と証券業務の分離**、**銀行事業体による自己勘定取引のリスクテイクの厳格な監督**、**バーゼル枠組みの資本およびレバレッジの制限**、**FSA によるマーケットメイクおよび自己勘定取引のコンダクト監督**。構造的な効果は、日本における「ディーラーフランチャイズ」が真にマーケットメイクと顧客対応であり、自己勘定取引型の投機的なブックは銀行事業体にとって実質的に制約されている(独自の資本およびコンダクト規則を持つ証券会社事業体にとっては制約はより小さい)ということである。
 
@@ -45,9 +45,9 @@ translated_at: 2026-06-02T11:47:37.304Z
 
 | メガバンク | 銀行事業体 | 証券部門 | 合弁パートナー |
 |---|---|---|---|
-| **[[JapanFG/mufg-bank|MUFG Bank]]** | 三菱 UFJ 銀行 | [[JapanFG/morgan-stanley-japan|MUMSS]](三菱 UFJ モルガン・スタンレー証券、合弁);三菱 UFJ 証券ホールディングスの非合弁事業も | モルガン・スタンレー(MUMSS の構造において) |
-| **[[JapanFG/sumitomo-mitsui-banking-corp|SMBC]]** | 三井住友銀行 | [[JapanFG/smbc-nikko|SMBC Nikko Securities]] | Jefferies(提携)、Moelis(アドバイザリー提携)など |
-| **[[JapanFG/mizuho-bank|Mizuho Bank]]** | みずほ銀行 | [[JapanFG/mizuho-securities|Mizuho Securities]];みずほグループにはみずほ信託銀行も含まれる | Greenhill(アドバイザリー買収の経緯) |
+| **[[megabanks/mufg-bank|MUFG Bank]]** | 三菱 UFJ 銀行 | [[securities-firms/morgan-stanley-japan|MUMSS]](三菱 UFJ モルガン・スタンレー証券、合弁);三菱 UFJ 証券ホールディングスの非合弁事業も | モルガン・スタンレー(MUMSS の構造において) |
+| **[[megabanks/sumitomo-mitsui-banking-corp|SMBC]]** | 三井住友銀行 | [[securities-firms/smbc-nikko|SMBC Nikko Securities]] | Jefferies(提携)、Moelis(アドバイザリー提携)など |
+| **[[megabanks/mizuho-bank|Mizuho Bank]]** | みずほ銀行 | [[securities-firms/mizuho-securities|Mizuho Securities]];みずほグループにはみずほ信託銀行も含まれる | Greenhill(アドバイザリー買収の経緯) |
 
 ### メガバンクのおおよその収益構成(公開情報源からの推論)
 
@@ -65,13 +65,13 @@ translated_at: 2026-06-02T11:47:37.304Z
 メガバンクのデリバティブ収益のレートと為替への集中は次を反映する:
 
 - **銀行事業体の顧客構成** ── 為替(輸出入を原資とする)の事業会社トレジャリーヘッジ、ローンポートフォリオの金利ヘッジ、事業会社の取引相手向けの仕組みレートソリューション;
-- **銀行ライセンスの制約** ── リテールまたは事業会社のエンドユーザーとのエクイティデリバティブの仲介は、銀行事業体ではなく [[JapanFG/japan-exchange-group|FIEA-licensed]] 証券子会社に集中している;
+- **銀行ライセンスの制約** ── リテールまたは事業会社のエンドユーザーとのエクイティデリバティブの仲介は、銀行事業体ではなく [[financial-regulators/japan-exchange-group|FIEA-licensed]] 証券子会社に集中している;
 - **信託銀行系列の能力** ── 信託で包んだエクスポージャー(従業員信託株式、仕組み投資家ビークル)を必要とする商品については、信託銀行子会社が法的なラッパーを扱い、銀行 / 証券事業体がデリバティブを提供する;
-- **JGB プライマリーディーラーの地位** ── メガバンク系列の証券部門([[JapanFG/smbc-nikko|SMBC Nikko]]、[[JapanFG/mizuho-securities|Mizuho Securities]]、[[JapanFG/morgan-stanley-japan|MUMSS]])は JGB プライマリーディーラーであり、構造的なレートデリバティブのアンカーを生み出す。
+- **JGB プライマリーディーラーの地位** ── メガバンク系列の証券部門([[securities-firms/smbc-nikko|SMBC Nikko]]、[[securities-firms/mizuho-securities|Mizuho Securities]]、[[securities-firms/morgan-stanley-japan|MUMSS]])は JGB プライマリーディーラーであり、構造的なレートデリバティブのアンカーを生み出す。
 
 ### 野村 HD、大和 SG
 
-[[JapanFG/nomura-hd|Nomura]] と [[JapanFG/daiwa-sg|Daiwa Securities Group]] は **二つの大きな独立系の日本本拠の投資銀行** であり ── メガバンク親会社を持たずに完全なディーラー銀行のデリバティブ能力を運営する証券会社根の フランチャイズである。
+[[securities-firms/nomura-hd|Nomura]] と [[securities-firms/daiwa-sg|Daiwa Securities Group]] は **二つの大きな独立系の日本本拠の投資銀行** であり ── メガバンク親会社を持たずに完全なディーラー銀行のデリバティブ能力を運営する証券会社根の フランチャイズである。
 
 ### 野村 / 大和のおおよその収益構成(公開情報源からの推論)
 
@@ -91,7 +91,7 @@ translated_at: 2026-06-02T11:47:37.304Z
 - ALM 起点の仕組みエクイティエクスポージャーのための国内の保険会社;
 - 証券子会社のチャネルを通じたリテール配分の仕組み商品。
 
-メガバンク系列の証券部門([[JapanFG/smbc-nikko|SMBC Nikko]]、[[JapanFG/mizuho-securities|Mizuho Securities]])は匹敵するがやや狭いエクイティデリバティブの能力を構築してきた ── メガバンクグループの資本配分の枠組みによって経済的に制約されている。
+メガバンク系列の証券部門([[securities-firms/smbc-nikko|SMBC Nikko]]、[[securities-firms/mizuho-securities|Mizuho Securities]])は匹敵するがやや狭いエクイティデリバティブの能力を構築してきた ── メガバンクグループの資本配分の枠組みによって経済的に制約されている。
 
 ### ゴールドマン・サックス・ジャパン、モルガン・スタンレー・ジャパン / MUMSS、JP モルガン・ジャパン、シティ・ジャパン、BofA ジャパン
 
@@ -101,11 +101,11 @@ translated_at: 2026-06-02T11:47:37.304Z
 
 | 外国 IB | 日本における特徴的なデリバティブ収益の傾き |
 |---|---|
-| **[[JapanFG/goldman-sachs-japan|GS Japan]]** | 外国 IB の中で最も深いエクイティ OTC および仕組み商品のフランチャイズ;強力なレートと為替;クロスボーダーのグローバルな資本市場の統合。エクイティボラティリティと OTC エクイティスワップが特徴的なフランチャイズ。 |
-| **[[JapanFG/morgan-stanley-japan|MS Japan / MUMSS]]** | 二チャネル構造(完全子会社の MS ジャパン + MUFG との MUMSS 合弁) ── グローバル IB の能力をレート / 為替のための MUFG グループのバランスシートと組み合わせる;MS ジャパンで深いエクイティ OTC;四つの資産クラスすべてで競争力。 |
-| **[[JapanFG/jpmorgan-japan|JPM Japan]]** | 特徴的に強力な為替プライムおよびレートデリバティブのフランチャイズ(為替およびレートにおける JPM のグローバルな市場シェアの先導を反映);強力なカストディ・銀行業務の統合;競争力のあるエクイティ OTC。 |
-| **[[JapanFG/citigroup-japan|Citi Japan]]** | 特徴的に強力な為替プライムおよびレートのフランチャイズ(シティのグローバルな市場シェアの先導);シティバンク東京支店を通じた銀行勘定の為替統合;競争力のあるエクイティ OTC。 |
-| **[[JapanFG/jpmorgan-japan|BofA Japan]](BofA 証券ジャパン)** | 資産クラスをまたいで競争力;GS / MS / JPM / シティより小さいアジアフランチャイズ;FICC およびエクイティ OTC の能力。 |
+| **[[securities-firms/goldman-sachs-japan|GS Japan]]** | 外国 IB の中で最も深いエクイティ OTC および仕組み商品のフランチャイズ;強力なレートと為替;クロスボーダーのグローバルな資本市場の統合。エクイティボラティリティと OTC エクイティスワップが特徴的なフランチャイズ。 |
+| **[[securities-firms/morgan-stanley-japan|MS Japan / MUMSS]]** | 二チャネル構造(完全子会社の MS ジャパン + MUFG との MUMSS 合弁) ── グローバル IB の能力をレート / 為替のための MUFG グループのバランスシートと組み合わせる;MS ジャパンで深いエクイティ OTC;四つの資産クラスすべてで競争力。 |
+| **[[foreign-financial-institutions/jpmorgan-japan|JPM Japan]]** | 特徴的に強力な為替プライムおよびレートデリバティブのフランチャイズ(為替およびレートにおける JPM のグローバルな市場シェアの先導を反映);強力なカストディ・銀行業務の統合;競争力のあるエクイティ OTC。 |
+| **[[foreign-financial-institutions/citigroup-japan|Citi Japan]]** | 特徴的に強力な為替プライムおよびレートのフランチャイズ(シティのグローバルな市場シェアの先導);シティバンク東京支店を通じた銀行勘定の為替統合;競争力のあるエクイティ OTC。 |
+| **[[foreign-financial-institutions/jpmorgan-japan|BofA Japan]](BofA 証券ジャパン)** | 資産クラスをまたいで競争力;GS / MS / JPM / シティより小さいアジアフランチャイズ;FICC およびエクイティ OTC の能力。 |
 
 ### なぜ外国 IB は日本ディーラー事業体を維持するか
 
@@ -121,9 +121,9 @@ translated_at: 2026-06-02T11:47:37.304Z
 日本のディーラーデリバティブ市場における外国 IB の合計シェアは、多くの商品でメガバンク + 独立系 IB の階層に対して **実質的だが二次的** である:
 
 - **円 IRS / OIS** ── メガバンク + 野村 / 大和が想定元本残高を支配する;外国 IB は競争するが下位にランクする;
-- **円-米ドルクロスカレンシーベーシススワップ** ── 外国 IB(特に [[JapanFG/jpmorgan-japan|JPM]] と [[JapanFG/citigroup-japan|Citi]])は、その米ドル調達側のフランチャイズゆえに構造的に重要である;
-- **日本のシングルネームに対する OTC エクイティデリバティブ** ── [[JapanFG/goldman-sachs-japan|GS]] と [[JapanFG/morgan-stanley-japan|MS]] は野村と競争する特徴的に深いフランチャイズを持つ;
-- **円為替オプション** ── グローバル IB(特に [[JapanFG/jpmorgan-japan|JPM]]、[[JapanFG/citigroup-japan|Citi]])はグローバルに Tier-1 であり東京で競争力がある;
+- **円-米ドルクロスカレンシーベーシススワップ** ── 外国 IB(特に [[foreign-financial-institutions/jpmorgan-japan|JPM]] と [[foreign-financial-institutions/citigroup-japan|Citi]])は、その米ドル調達側のフランチャイズゆえに構造的に重要である;
+- **日本のシングルネームに対する OTC エクイティデリバティブ** ── [[securities-firms/goldman-sachs-japan|GS]] と [[securities-firms/morgan-stanley-japan|MS]] は野村と競争する特徴的に深いフランチャイズを持つ;
+- **円為替オプション** ── グローバル IB(特に [[foreign-financial-institutions/jpmorgan-japan|JPM]]、[[foreign-financial-institutions/citigroup-japan|Citi]])はグローバルに Tier-1 であり東京で競争力がある;
 - **日本の参照事業体に対する CDS および iTraxx Japan** ── 外国 IB は、より小さい国内 CDS フランチャイズを踏まえ、歴史的に重要な取引相手であった。
 
 正確な市場シェアの数値は日本セグメントのレベルで常に利用可能とは限らないディーラーレベルの開示を必要とする;したがって各社ごとのサイジングは、グローバルなリーグテーブルのデータ、BIS の日本取引相手統計、JSCC の清算データの集計に基づいて、必然的に示唆的なものとなる。
@@ -150,7 +150,7 @@ translated_at: 2026-06-02T11:47:37.304Z
 
 一部のデリバティブ商品クラスは **クロスプロダクトのフランチャイズ統合** を牽引する:
 
-- **クロスカレンシーベーシススワップ(円-米ドル)** ── レート・為替の交点に位置する;事業会社の為替ヘッジと JGB-円レートヘッジの共同カバレッジを牽引する;[[JapanFG/mufg-bank|MUFG]]、[[JapanFG/sumitomo-mitsui-banking-corp|SMBC]]、[[JapanFG/mizuho-bank|Mizuho]]、[[JapanFG/nomura-hd|Nomura]]、およびグローバルな為替の外国 IB における主要なフランチャイズ;
+- **クロスカレンシーベーシススワップ(円-米ドル)** ── レート・為替の交点に位置する;事業会社の為替ヘッジと JGB-円レートヘッジの共同カバレッジを牽引する;[[megabanks/mufg-bank|MUFG]]、[[megabanks/sumitomo-mitsui-banking-corp|SMBC]]、[[megabanks/mizuho-bank|Mizuho]]、[[securities-firms/nomura-hd|Nomura]]、およびグローバルな為替の外国 IB における主要なフランチャイズ;
 - **JGB 現物、JGB 先物、JGB レポ、JGB-OIS のヘッジコンプレックス** ── プライマリーディーラーの JGB 活動に支えられた統合されたレートデリバティブのカバレッジを牽引する;
 - **エクイティデリバティブ + 持ち合い解消** ── 証券会社階層における事業会社トレジャリー + 資本市場 + 仕組み商品の活動の統合されたカバレッジを牽引する;
 - **クレジット CDS + 債券現物 + 仕組みクレジット** ── ディーラー銀行のクレジットデスクにおける統合されたクレジット商品のカバレッジを牽引する。
@@ -174,18 +174,18 @@ translated_at: 2026-06-02T11:47:37.304Z
 - [[securities/japan-best-execution-sor-pts]]
 - [[banking/japan-banking-license-tier-comparison-matrix]]
 - [[banking/foreign-bank-japan-retreat]]
-- [[JapanFG/japan-exchange-group]]
-- [[JapanFG/mufg-bank]]
-- [[JapanFG/sumitomo-mitsui-banking-corp]]
-- [[JapanFG/mizuho-bank]]
-- [[JapanFG/nomura-hd]]
-- [[JapanFG/daiwa-sg]]
-- [[JapanFG/smbc-nikko]]
-- [[JapanFG/mizuho-securities]]
-- [[JapanFG/goldman-sachs-japan]]
-- [[JapanFG/morgan-stanley-japan]]
-- [[JapanFG/jpmorgan-japan]]
-- [[JapanFG/citigroup-japan]]
+- [[financial-regulators/japan-exchange-group]]
+- [[megabanks/mufg-bank]]
+- [[megabanks/sumitomo-mitsui-banking-corp]]
+- [[megabanks/mizuho-bank]]
+- [[securities-firms/nomura-hd]]
+- [[securities-firms/daiwa-sg]]
+- [[securities-firms/smbc-nikko]]
+- [[securities-firms/mizuho-securities]]
+- [[securities-firms/goldman-sachs-japan]]
+- [[securities-firms/morgan-stanley-japan]]
+- [[foreign-financial-institutions/jpmorgan-japan]]
+- [[foreign-financial-institutions/citigroup-japan]]
 - [[finance/japan-listed-financial-groups-investable-universe]]
 - [[finance/japan-corporate-fx-and-rate-hedge-policy]]
 - [[finance/japan-cross-shareholding-unwinding-economics]]

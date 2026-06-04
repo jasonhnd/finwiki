@@ -12,11 +12,11 @@ translated_at: 2026-06-01T03:31:12.270Z
 
 ## Wiki route
 
-This entry sits under [[payments/INDEX|payments index]] as the FamilyMart-anchored code-payment operator page that pairs with [[payments/japan-code-payment-competitive-map|Japan code-payment competitive map]] for the wallet-class competitive context, with [[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]] for the four-class economic comparison, with [[payments/prepaid-payment-instrument-issuers-japan-index|prepaid payment instrument issuers registry]] for the licensing route, and with [[payments/funds-transfer-vs-prepaid-boundary|funds-transfer vs prepaid boundary]] for the wallet-balance classification. Compare with peer convenience-store-anchored wallets in [[payments/waon-nanaco-retail-prepaid-comparison|WAON / nanaco retail-prepaid comparison]] and with broader-platform peers [[JapanFG/paypay|PayPay]] and [[JapanFG/au-payment|au PAY]]. Group-anchor context is [[retail/INDEX|retail index]] with FamilyMart parent structure under Itochu.
+This entry sits under [[payments/INDEX|payments index]] as the FamilyMart-anchored code-payment operator page that pairs with [[payments/japan-code-payment-competitive-map|Japan code-payment competitive map]] for the wallet-class competitive context, with [[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]] for the four-class economic comparison, with [[payments/prepaid-payment-instrument-issuers-japan-index|prepaid payment instrument issuers registry]] for the licensing route, and with [[payments/funds-transfer-vs-prepaid-boundary|funds-transfer vs prepaid boundary]] for the wallet-balance classification. Compare with peer convenience-store-anchored wallets in [[payments/waon-nanaco-retail-prepaid-comparison|WAON / nanaco retail-prepaid comparison]] and with broader-platform peers [[payment-firms/paypay|PayPay]] and [[payment-firms/au-payment|au PAY]]. Group-anchor context is [[retail/INDEX|retail index]] with FamilyMart parent structure under Itochu.
 
 ## TL;DR
 
-**FamiPay** is the FamilyMart convenience-store-anchored code-payment wallet, operated by **FamiMa Digital One Co., Ltd.** (a joint venture between FamilyMart and partners under the Itochu group umbrella) and licensed as a third-party prepaid payment instrument issuer under the Payment Services Act. Launched in 2019-07, FamiPay occupies a structurally different competitive position from the four dominant cross-merchant wallets ([[JapanFG/paypay|PayPay]], d Payment, [[JapanFG/au-payment|au PAY]], and Rakuten Pay), because its primary acceptance anchor is FamilyMart's roughly 16,000-store network rather than open-merchant acquisition. The wallet's strategic role is **retention and monetization inside the FamilyMart loyalty ecosystem** through the T-Point transition, FamiPay Bonus campaigns, and deep FamilyMart app integration, rather than winning Japan-wide code-payment share. It is one of the Itochu group's principal consumer-facing data assets alongside the broader FamilyMart digital strategy.
+**FamiPay** is the FamilyMart convenience-store-anchored code-payment wallet, operated by **FamiMa Digital One Co., Ltd.** (a joint venture between FamilyMart and partners under the Itochu group umbrella) and licensed as a third-party prepaid payment instrument issuer under the Payment Services Act. Launched in 2019-07, FamiPay occupies a structurally different competitive position from the four dominant cross-merchant wallets ([[payment-firms/paypay|PayPay]], d Payment, [[payment-firms/au-payment|au PAY]], and Rakuten Pay), because its primary acceptance anchor is FamilyMart's roughly 16,000-store network rather than open-merchant acquisition. The wallet's strategic role is **retention and monetization inside the FamilyMart loyalty ecosystem** through the T-Point transition, FamiPay Bonus campaigns, and deep FamilyMart app integration, rather than winning Japan-wide code-payment share. It is one of the Itochu group's principal consumer-facing data assets alongside the broader FamilyMart digital strategy.
 
 ## Operator structure and licensing
 
@@ -33,13 +33,13 @@ The wallet itself operates as a prepaid sub-balance for retail spending. The Fam
 
 ## Competitive position vs other code-payment operators
 
-FamiPay does not compete head-to-head with [[JapanFG/paypay|PayPay]] for Japan-wide merchant acceptance share. Its competitive position is anchored on the retail-merchant ecosystem rather than the wallet-platform ecosystem:
+FamiPay does not compete head-to-head with [[payment-firms/paypay|PayPay]] for Japan-wide merchant acceptance share. Its competitive position is anchored on the retail-merchant ecosystem rather than the wallet-platform ecosystem:
 
 | Wallet | Primary competitive advantage | Acceptance footprint | Strategic anchor |
 |---|---|---|---|
-| [[JapanFG/paypay\|PayPay]] | Large MAU base, broad merchant acceptance, SoftBank / LY backing, telecom cross-sell | Universal | Cross-merchant wallet platform |
+| [[payment-firms/paypay\|PayPay]] | Large MAU base, broad merchant acceptance, SoftBank / LY backing, telecom cross-sell | Universal | Cross-merchant wallet platform |
 | d Payment | NTT docomo subscriber base, telecom billing, d Point | Broad | Telecom-anchored wallet |
-| [[JapanFG/au-payment\|au PAY]] | KDDI subscriber base, telecom billing, Ponta Points | Broad | Telecom-anchored wallet |
+| [[payment-firms/au-payment\|au PAY]] | KDDI subscriber base, telecom billing, Ponta Points | Broad | Telecom-anchored wallet |
 | Rakuten Pay | Rakuten ecosystem cross-sell, Rakuten Points flywheel, Rakuten Bank funding | Broad | E-commerce / point ecosystem |
 | Merpay | Mercari marketplace balance, BNPL/credit, identity / data | Moderate | Marketplace wallet |
 | FamiPay | **FamilyMart deep integration**, FamilyMart ecosystem campaigns, Itochu group cross-sell | **Concentrated at FamilyMart**, some non-FamilyMart acceptance | Retail-anchored wallet |
@@ -127,8 +127,8 @@ FamiPay's competitive context in the convenience-store-anchored wallet category 
 | Operator | Anchor chain | Code-payment route | Prepaid heritage | Group bank linkage |
 |---|---|---|---|---|
 | FamiPay | FamilyMart | Native QR / app | None (code-native launch) | Limited — no dedicated group bank |
-| Seven & i | 7-Eleven | Third-party wallet acceptance + nanaco app | nanaco (FeliCa prepaid) | [[JapanFG/seven-bank\|Seven Bank]] |
-| AEON Group | Ministop / AEON banners | AEON Pay (QR app) + WAON via FeliCa | WAON (FeliCa prepaid) | [[JapanFG/aeon-bank\|AEON Bank]] |
+| Seven & i | 7-Eleven | Third-party wallet acceptance + nanaco app | nanaco (FeliCa prepaid) | [[regional-banks/seven-bank\|Seven Bank]] |
+| AEON Group | Ministop / AEON banners | AEON Pay (QR app) + WAON via FeliCa | WAON (FeliCa prepaid) | [[card-issuers/aeon-bank\|AEON Bank]] |
 | Lawson | Lawson | Third-party wallet acceptance; Ponta-anchored | Limited proprietary | KDDI / au Jibun Bank partial linkage via Mitsubishi-Lawson relationship |
 
 The FamiPay distinguishing posture is **convenience-store-as-anchor with code-payment-native architecture and Itochu trading-house group cross-sell** rather than convenience-store-as-anchor with FeliCa-prepaid heritage (the WAON / nanaco posture). The Lawson posture historically delegated proprietary payment to third-party wallets while keeping Ponta as the loyalty anchor; KDDI's investment relationship with Lawson (via Mitsubishi Corporation) provides additional code-payment overlay via au PAY but not a Lawson-proprietary wallet to the same degree as FamilyMart's FamiPay.
@@ -155,11 +155,11 @@ The answers determine which P&L bucket the analysis sits in (wallet operator vs 
 - [[payments/funds-transfer-vs-prepaid-boundary]]
 - [[payments/japan-bnpl-credit-purchase-boundary]]
 - [[payments/waon-nanaco-retail-prepaid-comparison]]
-- [[JapanFG/paypay]]
-- [[JapanFG/au-payment]]
-- [[JapanFG/rakuten-edy]]
-- [[JapanFG/seven-payment-service]]
-- [[JapanFG/aeon-financial-service]]
+- [[payment-firms/paypay]]
+- [[payment-firms/au-payment]]
+- [[payment-firms/rakuten-edy]]
+- [[payment-firms/seven-payment-service]]
+- [[card-issuers/aeon-financial-service]]
 - [[retail/INDEX]]
 - [[loyalty/japan-points-landscape]]
 - [[INDEX|FinWiki index]]

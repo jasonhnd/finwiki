@@ -1,0 +1,93 @@
+{
+  "schema_version": "1.0",
+  "slug": "regional-banks/yamaguchi-fg",
+  "source_path": "regional-banks/yamaguchi-fg.md",
+  "url": "https://finwiki.zksc.io/regional-banks/yamaguchi-fg",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/regional-banks/yamaguchi-fg.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/regional-banks/yamaguchi-fg.md",
+  "domain": "regional-banks",
+  "title": "山口 FG (YMFG)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "山口 FG (YMFG)",
+    "aliases": [
+      "YMFG",
+      "Yamaguchi FG",
+      "Yamaguchi Financial Group",
+      "山口フィナンシャルグループ",
+      "株式会社山口フィナンシャルグループ",
+      "regional-banks/yamaguchi-bank"
+    ],
+    "domain": "regional-banks",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "regional-bank"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: 山口フィナンシャルグループ (2026-05-19 抽出)",
+      "Wikipedia: 山口銀行 / もみじ銀行 / 北九州銀行 (2026-05-19 抽出)"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against ふくおか FG (FFG) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "山口 FG (YMFG)",
+    "Wiki route",
+    "TL;DR",
+    "1. 会社概要",
+    "主要子会社・持分",
+    "合併歴史・前身",
+    "重要年表",
+    "2. 事業セグメント・マップ",
+    "「YMFG ZONE プランニング」3 行体制",
+    "山陽・関門海峡経済圏"
+  ],
+  "body_links": {
+    "wikilinks_count": 14,
+    "wikilinks": [
+      "18-shinwa-bank",
+      "JapanFG/INDEX",
+      "banking/INDEX",
+      "fukuoka-bank",
+      "fukuoka-fg",
+      "kitakyushu-bank",
+      "kumamoto-bank",
+      "mizuho-fg",
+      "momiji-bank",
+      "mufg",
+      "regional-banks/fukuoka-fg",
+      "resona-hd",
+      "saikyo-bank",
+      "smfg"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/18-shinwa-bank",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/fukuoka-bank",
+      "https://finwiki.zksc.io/fukuoka-fg",
+      "https://finwiki.zksc.io/kitakyushu-bank",
+      "https://finwiki.zksc.io/kumamoto-bank",
+      "https://finwiki.zksc.io/mizuho-fg",
+      "https://finwiki.zksc.io/momiji-bank",
+      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/regional-banks/fukuoka-fg",
+      "https://finwiki.zksc.io/resona-hd",
+      "https://finwiki.zksc.io/saikyo-bank",
+      "https://finwiki.zksc.io/smfg"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3597,
+    "word_like_tokens": 559,
+    "inbound_wikilinks_count": 1,
+    "last_modified": "2026-06-04"
+  }
+}

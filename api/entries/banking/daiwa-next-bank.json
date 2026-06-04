@@ -59,16 +59,7 @@
   "body_links": {
     "wikilinks_count": 22,
     "wikilinks": [
-      "JapanFG/au-kabucom-securities",
-      "JapanFG/daiwa-asset-management",
-      "JapanFG/daiwa-living-trust",
-      "JapanFG/daiwa-next-bank",
-      "JapanFG/daiwa-securities",
-      "JapanFG/daiwa-sg",
-      "JapanFG/orix-bank",
-      "JapanFG/rakuten-securities",
-      "JapanFG/sbi-securities",
-      "JapanFG/ssnb",
+      "asset-managers/daiwa-asset-management",
       "banking/INDEX",
       "banking/au-jibun-bank",
       "banking/gmo-aozora-net-bank",
@@ -79,20 +70,20 @@
       "banking/rakuten-bank",
       "banking/sony-bank",
       "banking/ui-bank",
+      "regional-banks/daiwa-next-bank",
+      "regional-banks/ssnb",
+      "securities-firms/au-kabucom-securities",
+      "securities-firms/daiwa-securities",
+      "securities-firms/daiwa-sg",
+      "securities-firms/rakuten-securities",
+      "securities-firms/sbi-securities",
       "securities/INDEX",
-      "securities/japan-online-brokerage-competition"
+      "securities/japan-online-brokerage-competition",
+      "trust-banks/daiwa-living-trust",
+      "trust-banks/orix-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/au-kabucom-securities",
-      "https://finwiki.zksc.io/JapanFG/daiwa-asset-management",
-      "https://finwiki.zksc.io/JapanFG/daiwa-living-trust",
-      "https://finwiki.zksc.io/JapanFG/daiwa-next-bank",
-      "https://finwiki.zksc.io/JapanFG/daiwa-securities",
-      "https://finwiki.zksc.io/JapanFG/daiwa-sg",
-      "https://finwiki.zksc.io/JapanFG/orix-bank",
-      "https://finwiki.zksc.io/JapanFG/rakuten-securities",
-      "https://finwiki.zksc.io/JapanFG/sbi-securities",
-      "https://finwiki.zksc.io/JapanFG/ssnb",
+      "https://finwiki.zksc.io/asset-managers/daiwa-asset-management",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/au-jibun-bank",
       "https://finwiki.zksc.io/banking/gmo-aozora-net-bank",
@@ -103,16 +94,25 @@
       "https://finwiki.zksc.io/banking/rakuten-bank",
       "https://finwiki.zksc.io/banking/sony-bank",
       "https://finwiki.zksc.io/banking/ui-bank",
+      "https://finwiki.zksc.io/regional-banks/daiwa-next-bank",
+      "https://finwiki.zksc.io/regional-banks/ssnb",
+      "https://finwiki.zksc.io/securities-firms/au-kabucom-securities",
+      "https://finwiki.zksc.io/securities-firms/daiwa-securities",
+      "https://finwiki.zksc.io/securities-firms/daiwa-sg",
+      "https://finwiki.zksc.io/securities-firms/rakuten-securities",
+      "https://finwiki.zksc.io/securities-firms/sbi-securities",
       "https://finwiki.zksc.io/securities/INDEX",
-      "https://finwiki.zksc.io/securities/japan-online-brokerage-competition"
+      "https://finwiki.zksc.io/securities/japan-online-brokerage-competition",
+      "https://finwiki.zksc.io/trust-banks/daiwa-living-trust",
+      "https://finwiki.zksc.io/trust-banks/orix-bank"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 11116,
-    "word_like_tokens": 1759,
+    "nonspace_chars": 11359,
+    "word_like_tokens": 1793,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-06-03"
+    "last_modified": "2026-06-04"
   }
 }

@@ -60,15 +60,15 @@
     "wikilinks_count": 16,
     "wikilinks": [
       "INDEX",
-      "JapanFG/boj-monetary-policy",
-      "JapanFG/fsa",
-      "JapanFG/mizuho-fg",
-      "JapanFG/mufg",
-      "JapanFG/smfg",
-      "JapanFG/zenginkyo",
       "derivatives/japan-interest-rate-derivatives-overview",
       "derivatives/japan-irs-market",
       "derivatives/ois-tona-curve",
+      "financial-regulators/boj-monetary-policy",
+      "financial-regulators/fsa",
+      "financial-regulators/zenginkyo",
+      "megabanks/mizuho-fg",
+      "megabanks/mufg",
+      "megabanks/smfg",
       "money-market/INDEX",
       "money-market/call-market-structure",
       "money-market/japan-money-market",
@@ -78,15 +78,15 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/boj-monetary-policy",
-      "https://finwiki.zksc.io/JapanFG/fsa",
-      "https://finwiki.zksc.io/JapanFG/mizuho-fg",
-      "https://finwiki.zksc.io/JapanFG/mufg",
-      "https://finwiki.zksc.io/JapanFG/smfg",
-      "https://finwiki.zksc.io/JapanFG/zenginkyo",
       "https://finwiki.zksc.io/derivatives/japan-interest-rate-derivatives-overview",
       "https://finwiki.zksc.io/derivatives/japan-irs-market",
       "https://finwiki.zksc.io/derivatives/ois-tona-curve",
+      "https://finwiki.zksc.io/financial-regulators/boj-monetary-policy",
+      "https://finwiki.zksc.io/financial-regulators/fsa",
+      "https://finwiki.zksc.io/financial-regulators/zenginkyo",
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/smfg",
       "https://finwiki.zksc.io/money-market/INDEX",
       "https://finwiki.zksc.io/money-market/call-market-structure",
       "https://finwiki.zksc.io/money-market/japan-money-market",
@@ -98,9 +98,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 8311,
-    "word_like_tokens": 1416,
+    "nonspace_chars": 8440,
+    "word_like_tokens": 1425,
     "inbound_wikilinks_count": 1,
-    "last_modified": "2026-06-03"
+    "last_modified": "2026-06-04"
   }
 }

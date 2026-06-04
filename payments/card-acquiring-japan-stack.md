@@ -70,9 +70,9 @@ For company analysis, this means a PSP's moat is not only API convenience. The m
 
 ## JapanFG Relevance
 
-- [[JapanFG/gmo-payment-gateway|GMO Payment Gateway]] is the clearest listed PSP / merchant acquiring infrastructure route.
-- [[JapanFG/jcb|JCB]] connects card network, issuing, acquiring, and Japanese domestic card rails.
-- [[JapanFG/paypay-fg|PayPay FG]], [[JapanFG/rakuten-fg|Rakuten FG]], and AEON-related card businesses use card acquiring and issuing economics as part of broader retail-finance ecosystems.
+- [[payment-firms/gmo-payment-gateway|GMO Payment Gateway]] is the clearest listed PSP / merchant acquiring infrastructure route.
+- [[card-issuers/jcb|JCB]] connects card network, issuing, acquiring, and Japanese domestic card rails.
+- [[megabanks/paypay-fg|PayPay FG]], [[payment-firms/rakuten-fg|Rakuten FG]], and AEON-related card businesses use card acquiring and issuing economics as part of broader retail-finance ecosystems.
 - [[payments/cashless-jp-landscape|Japan cashless payment landscape]] should use this page when card acceptance, PSP registration, PCI DSS, or merchant-contracting responsibility becomes the decisive issue.
 
 ## Related
@@ -80,9 +80,9 @@ For company analysis, this means a PSP's moat is not only API convenience. The m
 - [[payments/INDEX|payments INDEX]]
 - [[payments/cashless-jp-landscape]]
 - [[payments/funds-transfer-vs-prepaid-boundary]]
-- [[JapanFG/gmo-payment-gateway]]
-- [[JapanFG/jcb]]
-- [[JapanFG/legal-financial-licenses/INDEX]]
+- [[payment-firms/gmo-payment-gateway]]
+- [[card-issuers/jcb]]
+- [[financial-licenses/INDEX]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

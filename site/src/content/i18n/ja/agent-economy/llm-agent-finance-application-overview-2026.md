@@ -79,7 +79,7 @@ translated_at: 2026-06-02T11:47:37.307Z
 
 **PROD ではなく PILOT である理由**:適合性と受託者責任。SEC Reg BI はブローカーディーラーに対し、書面による根拠とともに顧客の最善の利益のために行動することを要求する。日本 FIEA 第38-2 条 + 40 は、第1 種金融商品取引業者に対し、商品を推奨する前に顧客属性を評価することを要求する。EU MIFID-II 第25 条は文書化を伴う適合性評価を要求する。文書化された適合性評価なしに「新興市場債券にリバランスすべきだ」と言う LLM は規制当局リスクを生む。2026 の妥協点:LLM が「情報提供のみ、助言ではない」と記された コメンタリーを生成し、実際のリバランス推奨は完全な適合性文書を伴う既存のルールベースエンジンから来る。
 
-日本のロボアドバイザーの標準的なフットプリントについては [[JapanFG/wealthnavi|WealthNavi]] を参照。
+日本のロボアドバイザーの標準的なフットプリントについては [[payment-firms/wealthnavi|WealthNavi]] を参照。
 
 ### (g) 開発者ツール
 
@@ -163,7 +163,7 @@ translated_at: 2026-06-02T11:47:37.307Z
 - [[agent-economy/claude-code-extension-architecture|Claude Code extension architecture]]
 - [[agent-economy/stripe-agent-toolkit-position|Stripe agent toolkit position]]
 - [[fintech/INDEX|fintech index]]
-- [[JapanFG/wealthnavi|WealthNavi]]
+- [[payment-firms/wealthnavi|WealthNavi]]
 - [[security/module-path-confusion-supply-chain-attack|module path confusion supply chain attack]]
 - [[security/fork-and-rebrand-5-layer-audit-framework|fork and rebrand 5-layer audit framework]]
 <!-- /wiki-links:managed -->

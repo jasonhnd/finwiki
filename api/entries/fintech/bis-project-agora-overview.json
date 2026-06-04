@@ -53,7 +53,6 @@
     "wikilinks_count": 14,
     "wikilinks": [
       "INDEX",
-      "JapanFG/mufg",
       "fintech/INDEX",
       "fintech/bis-project-agora-vs-mbridge",
       "fintech/bis-project-ensemble-overview",
@@ -65,11 +64,11 @@
       "fintech/japan-financial-regulation",
       "fintech/japan-stablecoin-regulatory-landscape",
       "fintech/mbridge-bis-multi-cbdc-overview",
-      "fintech/mica-overview"
+      "fintech/mica-overview",
+      "megabanks/mufg"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/mufg",
       "https://finwiki.zksc.io/fintech/INDEX",
       "https://finwiki.zksc.io/fintech/bis-project-agora-vs-mbridge",
       "https://finwiki.zksc.io/fintech/bis-project-ensemble-overview",
@@ -81,15 +80,16 @@
       "https://finwiki.zksc.io/fintech/japan-financial-regulation",
       "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
       "https://finwiki.zksc.io/fintech/mbridge-bis-multi-cbdc-overview",
-      "https://finwiki.zksc.io/fintech/mica-overview"
+      "https://finwiki.zksc.io/fintech/mica-overview",
+      "https://finwiki.zksc.io/megabanks/mufg"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3004,
+    "nonspace_chars": 3006,
     "word_like_tokens": 488,
     "inbound_wikilinks_count": 27,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-04"
   }
 }

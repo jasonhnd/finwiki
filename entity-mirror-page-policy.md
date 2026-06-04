@@ -59,11 +59,11 @@ If any of these fails, use a single canonical anchor plus cross-references from 
 
 ## 4. Worked example: Saison Automobile & Fire (justified mirror)
 
-The pair [[insurance/saison-automobile-fire|insurance domain page]] + [[JapanFG/saison-automobile-fire-insurance|JapanFG domain page]] is a justified mirror:
+The pair [[insurance/saison-automobile-fire|insurance domain page]] + [[non-life-insurers/saison-automobile-fire-insurance|JapanFG domain page]] is a justified mirror:
 
 - **Distinct perimeters:** the insurance perimeter (non-life insurance / direct insurance / auto insurance product) and the JapanFG operating-company perimeter (Credit Saison brand stack + SOMPO subsidiary structure) are both real and both have their own indexes that should enumerate this entity.
 - **Non-overlapping focus:** the insurance page emphasizes **product economics, channel mix, direct-insurance positioning, and natcat reinsurance bridge**. The JapanFG page emphasizes **the SOMPO subsidiary structure, the Saison brand stack, the "Otona no Jidousha Hoken" product line, and the operating-company catalog framing**.
-- **Index completeness:** [[insurance/INDEX]] needs to list this insurer alongside [[insurance/japan-nonlife-big-three]]; [[JapanFG/INDEX]] needs to list it alongside [[JapanFG/credit-saison]] and other SOMPO operating entities.
+- **Index completeness:** [[insurance/INDEX]] needs to list this insurer alongside [[insurance/japan-nonlife-big-three]]; [[JapanFG/INDEX]] needs to list it alongside [[card-issuers/credit-saison]] and other SOMPO operating entities.
 - **Maintainable:** the entity is a stable Japanese non-life insurer with predictable disclosure cadence.
 
 ## 5. Worked counter-example: Circle USDC (not mirrored)
@@ -80,7 +80,7 @@ The right pattern is therefore: one canonical anchor in `fintech/`, cross-refere
 
 The JPM family demonstrates a **cross-product split** that looks like a mirror but is not:
 
-- [[JapanFG/jpmorgan-japan|JapanFG JPMorgan Japan]] — Japan four-entity operating structure.
+- [[foreign-financial-institutions/jpmorgan-japan|JapanFG JPMorgan Japan]] — Japan four-entity operating structure.
 - [[fintech/jpmorgan-jpmd-coin|JPMD coin]] — tokenized-deposit product.
 - [[fintech/jpm-onyx-wholesale-network|JPM Onyx wholesale network]] — wholesale tokenized-money network.
 - [[fintech/partior-jpm-dbs-temasek-consortium|Partior]] — multi-bank consortium product.
@@ -146,6 +146,6 @@ The cost of converting a cross-reference into a mirror later is low. The cost of
 - [[SCHEMA]] — frontmatter spec.
 - [[AGENTS]] — public-surface rule.
 - [[INDEX]] — domain map.
-- Mirror pair examples: [[insurance/saison-automobile-fire]] and [[JapanFG/saison-automobile-fire-insurance]].
+- Mirror pair examples: [[insurance/saison-automobile-fire]] and [[non-life-insurers/saison-automobile-fire-insurance]].
 - Canonical-only examples: [[fintech/circle-usdc-stablecoin]], [[fintech/tether-business-model-short-treasury-yield]], [[fintech/paypal-pyusd-stablecoin]].
-- Cross-product split example: [[JapanFG/jpmorgan-japan]], [[fintech/jpmorgan-jpmd-coin]], [[fintech/jpm-onyx-wholesale-network]], [[fintech/partior-jpm-dbs-temasek-consortium]], [[business/jamie-dimon-anti-crypto-pivot-case]].
+- Cross-product split example: [[foreign-financial-institutions/jpmorgan-japan]], [[fintech/jpmorgan-jpmd-coin]], [[fintech/jpm-onyx-wholesale-network]], [[fintech/partior-jpm-dbs-temasek-consortium]], [[business/jamie-dimon-anti-crypto-pivot-case]].

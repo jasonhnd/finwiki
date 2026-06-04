@@ -11,11 +11,11 @@ translated_at: 2026-06-02T16:33:58.496Z
 
 ## ウィキ上の位置づけ
 
-この項目は、dポイントの **operator-deep page** として [[loyalty/INDEX|loyalty index]] の配下に位置する。通信会社アンカーの比較視点については [[loyalty/d-point-au-kddi-docomo-telco-point-consolidation|d Point / au telco-point consolidation case]]、銀行アンカー型との対比については [[loyalty/v-point-smbc-ccc-case|V Point (SMBC × CCC) case]]、エコシステムマップについては [[loyalty/japan-points-landscape|Japan points and loyalty landscape]]、[[loyalty/point-liability-accounting-boundary|point liability accounting boundary]] における IFRS-15 処理、ウォレット層の重ね合わせについては [[payments/japan-code-payment-operator-2025-market-share-matrix|Japan code-payment operator 2025 market share matrix]]、親金融持株構造については [[JapanFG/ndfg|NDFG]]、競合する小売アンカー側については [[retail/lawson-mitsubishi-corporation-tie-up-2024-deep|Lawson + Mitsubishi 2024 tie-up]] と組み合わせる。
+この項目は、dポイントの **operator-deep page** として [[loyalty/INDEX|loyalty index]] の配下に位置する。通信会社アンカーの比較視点については [[loyalty/d-point-au-kddi-docomo-telco-point-consolidation|d Point / au telco-point consolidation case]]、銀行アンカー型との対比については [[loyalty/v-point-smbc-ccc-case|V Point (SMBC × CCC) case]]、エコシステムマップについては [[loyalty/japan-points-landscape|Japan points and loyalty landscape]]、[[loyalty/point-liability-accounting-boundary|point liability accounting boundary]] における IFRS-15 処理、ウォレット層の重ね合わせについては [[payments/japan-code-payment-operator-2025-market-share-matrix|Japan code-payment operator 2025 market share matrix]]、親金融持株構造については [[megabanks/ndfg|NDFG]]、競合する小売アンカー側については [[retail/lawson-mitsubishi-corporation-tie-up-2024-deep|Lawson + Mitsubishi 2024 tie-up]] と組み合わせる。
 
 ## 要約
 
-**dポイント** は、**dポイントクラブ** の傘の下で運営される NTT docomo のオープン共通ポイントプログラムである。アクティブな **d-account ID 基盤は 100 million 超** (NTT docomo 公開開示) で、楽天ポイント、PayPay ポイントと並ぶ日本最大級の三大共通ポイントエコシステムの一つである。dポイントの戦略的役割は、計画中の **[[JapanFG/ndfg|NDFG (NTT docomo financial group)]] 統合のフロントエンド通貨** として機能し、携帯回線契約者を d払い (QR 決済)、d Card / d Card GOLD (クレジット)、d-account 銀行パートナー、dスマートバンク (デジタル銀行ブランド)、将来 NDFG に包まれる証券 / 保険 / 信託子会社へ結び付けることにある。**2025 dポイントクラブ改革** (2024-Q4, に発表、2025-2026にかけて段階的に展開) は、ランク制度 (4段階の「ランク」) を純粋なポイント獲得額ではなく d払い利用頻度を中心に再構成し、付与経済をウォレット活動へ大きく寄せた。IFRS 15  の会計処理では、付与ポイント債務は breakage 見積りを伴う繰延収益に置かれ、2021 ASBJ Statement No.29  採用後は、NTT docomo の年次報告書における契約負債開示へ完全に反映されている。
+**dポイント** は、**dポイントクラブ** の傘の下で運営される NTT docomo のオープン共通ポイントプログラムである。アクティブな **d-account ID 基盤は 100 million 超** (NTT docomo 公開開示) で、楽天ポイント、PayPay ポイントと並ぶ日本最大級の三大共通ポイントエコシステムの一つである。dポイントの戦略的役割は、計画中の **[[megabanks/ndfg|NDFG (NTT docomo financial group)]] 統合のフロントエンド通貨** として機能し、携帯回線契約者を d払い (QR 決済)、d Card / d Card GOLD (クレジット)、d-account 銀行パートナー、dスマートバンク (デジタル銀行ブランド)、将来 NDFG に包まれる証券 / 保険 / 信託子会社へ結び付けることにある。**2025 dポイントクラブ改革** (2024-Q4, に発表、2025-2026にかけて段階的に展開) は、ランク制度 (4段階の「ランク」) を純粋なポイント獲得額ではなく d払い利用頻度を中心に再構成し、付与経済をウォレット活動へ大きく寄せた。IFRS 15  の会計処理では、付与ポイント債務は breakage 見積りを伴う繰延収益に置かれ、2021 ASBJ Statement No.29  採用後は、NTT docomo の年次報告書における契約負債開示へ完全に反映されている。
 
 ## d-account、dポイントクラブ、会員規模
 
@@ -42,7 +42,7 @@ translated_at: 2026-06-02T16:33:58.496Z
 | 中下位 (★★) | 同上 | 低いしきい値の合成指標 |
 | 基本 (★) | デフォルト登録 | デフォルト登録 |
 
-経済的意図は、受動的なポイント蓄積ではなく **d払い活動に報いる** ことであり、歴史的に d Card 利用や docomo 請求支払いでポイントを得ながら d払いを使ってこなかった既存 dポイント保有者のウォレット採用を加速することにある。これは、コード決済マトリクスにおいて [[JapanFG/paypay|PayPay]] や 楽天ペイ に対して d払いの市場シェアを伸ばすという NTT docomo の戦略優先度と整合する。[[payments/japan-code-payment-operator-2025-market-share-matrix|2025 code-payment market share matrix]] を参照。
+経済的意図は、受動的なポイント蓄積ではなく **d払い活動に報いる** ことであり、歴史的に d Card 利用や docomo 請求支払いでポイントを得ながら d払いを使ってこなかった既存 dポイント保有者のウォレット採用を加速することにある。これは、コード決済マトリクスにおいて [[payment-firms/paypay|PayPay]] や 楽天ペイ に対して d払いの市場シェアを伸ばすという NTT docomo の戦略優先度と整合する。[[payments/japan-code-payment-operator-2025-market-share-matrix|2025 code-payment market share matrix]] を参照。
 
 この改革は、**保有残高の有効期限ルール** (固定日失効ではなくローリング 48か月ルール) も調整し、**特定の d払い加盟店カテゴリに結び付いたボーナス倍率キャンペーン** を導入した。
 
@@ -145,12 +145,12 @@ dポイントにとって最も直接のピアは **au PAY ポイント** であ
 - [[loyalty/t-point-v-point-post-2024-merger|T-Point + V-Point post-2024 merger detail]]
 - [[loyalty/ponta-points-deep-dive|Ponta points deep dive]]
 - [[loyalty/sb-yahoo-paypay-points-unified-ecosystem|SB/Yahoo/PayPay unified points]]
-- [[JapanFG/ndfg|NDFG (NTT docomo financial group)]]
-- [[JapanFG/paypay|PayPay]]
-- [[JapanFG/paypay-fg|PayPay FG]]
-- [[JapanFG/rakuten-fg|Rakuten FG]]
-- [[JapanFG/au-fh|au Financial Holdings]]
-- [[JapanFG/au-payment|au Payment]]
+- [[megabanks/ndfg|NDFG (NTT docomo financial group)]]
+- [[payment-firms/paypay|PayPay]]
+- [[megabanks/paypay-fg|PayPay FG]]
+- [[payment-firms/rakuten-fg|Rakuten FG]]
+- [[megabanks/au-fh|au Financial Holdings]]
+- [[payment-firms/au-payment|au Payment]]
 - [[payments/japan-code-payment-operator-2025-market-share-matrix|Japan code-payment operator 2025 market share matrix]]
 - [[payments/japan-code-payment-competitive-map|Japan code-payment competitive map]]
 - [[payments/funds-transfer-vs-prepaid-boundary|funds-transfer vs prepaid boundary]]

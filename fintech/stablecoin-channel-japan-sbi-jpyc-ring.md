@@ -28,7 +28,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 ## Key facts
 
 - **2025-08**：SBI Holdings + Circle Internet Financial が折半出資で **SBI Circle Holdings** 設立（50/50 JV）
-- **環状持株**：Circle が [[JapanFG/jpyc|JPYC]] を約 3.51% 保有；JPYC ∈ Circle Partner SC；SBI は SBI Circle Holdings 経由で JPYC と間接関連
+- **環状持株**：Circle が [[payment-firms/jpyc|JPYC]] を約 3.51% 保有；JPYC ∈ Circle Partner SC；SBI は SBI Circle Holdings 経由で JPYC と間接関連
 - **国内チャネル**：[[exchanges/jp-exchange-sbi-vc-trade|SBI VC トレード]] = 国内第 1 号 EPI 業者（2025-03-04 認可）· USDC 国内取扱開始（2025-03-26）
 - **資本投資**：SBI HD + SBI 新生 合計 $50M を Circle IPO に投資（2025-06-05 NYSE 上場）
 - **Progmat 不参加**：北尾吉孝 2026-02 X 投稿「画一的・競争制限的・護送船団的」—— Progmat 信託型コンソーシアムに加入しないと明言
@@ -73,7 +73,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 2026-02     北尾吉孝 X：「Progmat ジョイン拒絶」
 ```
 
-**v1 → v2 評価ジャンプ**：§501(d) 公布前、SBI 陣営は「独立路線 / #3」と見られていた。公布後、USDC ↔ JPY クロスボーダーコンプライアンスチャネルの価値が急騰し、SBI Circle Holdings は **#1 ★★★★★** に昇格 —— [[JapanFG/progmat|Progmat]]（3 メガバンク信託型）は #3 に降格、理由は「クロスボーダーコンプライアンスチャネルなし」、詳細は [[fintech/multi-megabank-consortium-governance|複数メガバンク連邦ガバナンス]] 参照。
+**v1 → v2 評価ジャンプ**：§501(d) 公布前、SBI 陣営は「独立路線 / #3」と見られていた。公布後、USDC ↔ JPY クロスボーダーコンプライアンスチャネルの価値が急騰し、SBI Circle Holdings は **#1 ★★★★★** に昇格 —— [[payment-firms/progmat|Progmat]]（3 メガバンク信託型）は #3 に降格、理由は「クロスボーダーコンプライアンスチャネルなし」、詳細は [[fintech/multi-megabank-consortium-governance|複数メガバンク連邦ガバナンス]] 参照。
 
 ## Related
 <!-- wiki-links:managed -->

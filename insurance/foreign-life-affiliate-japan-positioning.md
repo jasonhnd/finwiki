@@ -27,7 +27,7 @@ sources:
 
 This entry sits under [[insurance/INDEX|insurance index]] and is the routing page for foreign-parent life insurers operating in Japan. Read it together with [[insurance/japan-life-insurance-big-four|Japan life big four]] for the domestic-mutual / listed-stock contrast, with [[insurance/sony-life-group-life-operating-model|Sony Life Lifeplanner / group-life operating model]] for a Japan-headquartered Lifeplanner-style contrast, with [[insurance/life-insurance-channel-mix|life insurance channel mix]] for the macro distribution lens, with [[insurance/japan-life-insurance-alm-overview|Japan life ALM overview]] for balance-sheet structure, with [[insurance/economic-value-based-solvency|economic-value solvency]] for the regulatory frame, with [[insurance/global-solvency-framework-comparison-matrix|global solvency framework matrix]] for cross-jurisdiction reading, with [[insurance/mutual-vs-stock-life-insurer|mutual vs stock]] for legal-form interpretation, and with [[insurance/japan-iaig-ics-mapping|Japan IAIG-ICS mapping]] for the foreign-IAIG group-wide supervision angle.
 
-Entity routing goes through [[JapanFG/aflac-japan|AFLAC Japan]], [[JapanFG/metlife-japan|MetLife Japan]], [[JapanFG/manulife-japan|Manulife Japan]], [[JapanFG/prudential-japan|Prudential Japan]], [[JapanFG/gibraltar-life|Gibraltar Life]], [[JapanFG/axa-japan|AXA Japan]], and [[JapanFG/zurich-japan|Zurich Japan]]. Insurance-license context is in [[JapanFG/legal-financial-licenses/insurance-license-and-solvency|insurance license and solvency route]].
+Entity routing goes through [[life-insurers/aflac-japan|AFLAC Japan]], [[life-insurers/metlife-japan|MetLife Japan]], [[life-insurers/manulife-japan|Manulife Japan]], [[life-insurers/prudential-japan|Prudential Japan]], [[life-insurers/gibraltar-life|Gibraltar Life]], [[life-insurers/axa-japan|AXA Japan]], and [[non-life-insurers/zurich-japan|Zurich Japan]]. Insurance-license context is in [[financial-licenses/insurance-license-and-solvency|insurance license and solvency route]].
 
 ## TL;DR
 
@@ -37,7 +37,7 @@ The big seven foreign-affiliate names typically discussed are AFLAC Japan (cance
 
 ### AFLAC Japan — cancer insurance dominance
 
-[[JapanFG/aflac-japan|AFLAC Japan]] is the structural reference case for foreign-life dominance in a single product line: 癌保険 (cancer insurance) and broader supplemental medical. Public framing fields:
+[[life-insurers/aflac-japan|AFLAC Japan]] is the structural reference case for foreign-life dominance in a single product line: 癌保険 (cancer insurance) and broader supplemental medical. Public framing fields:
 
 - AFLAC built dominant market share in cancer-policy in-force in Japan over multiple decades, predating most subsequent foreign-affiliate entries;
 - distribution mix includes corporate sales agents (often in worksites), [[insurance/insurance-agency-and-brokerage-japan|independent agencies / hoken-shop]], plus alliance distribution agreements with major Japanese institutions;
@@ -48,7 +48,7 @@ The cancer-insurance specialization is structurally durable because Japanese mor
 
 ### MetLife Japan — multi-channel mass-affluent and foreign-currency
 
-[[JapanFG/metlife-japan|MetLife Japan]] (a Japan-licensed subsidiary of US-listed MetLife) operates a multi-channel model:
+[[life-insurers/metlife-japan|MetLife Japan]] (a Japan-licensed subsidiary of US-listed MetLife) operates a multi-channel model:
 
 - bancassurance for savings, foreign-currency annuity, and yen-denominated single-premium products;
 - a personal-financial-advisor channel for protection and consultative sales;
@@ -59,7 +59,7 @@ Product mix typically emphasizes foreign-currency-denominated whole life and ann
 
 ### Manulife Japan — multi-channel with Asian-parent strategic context
 
-[[JapanFG/manulife-japan|Manulife Japan]] (a Japan-licensed subsidiary of Canadian Manulife Financial) operates through:
+[[life-insurers/manulife-japan|Manulife Japan]] (a Japan-licensed subsidiary of Canadian Manulife Financial) operates through:
 
 - agency / agent channels for life and savings;
 - bancassurance partnerships;
@@ -69,7 +69,7 @@ Manulife's broader Asian franchise (Hong Kong, mainland China, Vietnam, the Phil
 
 ### Prudential Japan / Gibraltar Life — Lifeplanner channel benchmark
 
-[[JapanFG/prudential-japan|Prudential Japan]] and [[JapanFG/gibraltar-life|Gibraltar Life]] are Japan-licensed subsidiaries within the US-listed Prudential Financial group. Their channel positioning is a direct comparator to the [[JapanFG/sony-life|Sony Life]] [[insurance/sony-life-group-life-operating-model|Lifeplanner-only model]]:
+[[life-insurers/prudential-japan|Prudential Japan]] and [[life-insurers/gibraltar-life|Gibraltar Life]] are Japan-licensed subsidiaries within the US-listed Prudential Financial group. Their channel positioning is a direct comparator to the [[life-insurers/sony-life|Sony Life]] [[insurance/sony-life-group-life-operating-model|Lifeplanner-only model]]:
 
 - Prudential's Lifeplanner channel is one of the historical Lifeplanner-style references in Japan;
 - Gibraltar Life originated from the AOZORA / Kyoei Life lineage and was acquired into the Prudential group, adding a separate Japan-domestic channel and customer base;
@@ -79,7 +79,7 @@ Capital is up-streamed to Prudential Financial in the US under the parent group'
 
 ### AXA, Zurich, Allianz, AIA — European and pan-Asian challenger positions
 
-[[JapanFG/axa-japan|AXA Japan]] (subsidiary of French AXA) and [[JapanFG/zurich-japan|Zurich Japan]] (subsidiary of Swiss Zurich) operate at modest scale relative to the big-four domestic insurers but offer specialized lines. AXA's Japan history includes individual life and accident lines distributed through brokered and digital channels; Zurich's Japan presence historically emphasized direct auto P&C and specialty life-adjacent lines. Public framing should rely on each entity's annual disclosure book for current scope.
+[[life-insurers/axa-japan|AXA Japan]] (subsidiary of French AXA) and [[non-life-insurers/zurich-japan|Zurich Japan]] (subsidiary of Swiss Zurich) operate at modest scale relative to the big-four domestic insurers but offer specialized lines. AXA's Japan history includes individual life and accident lines distributed through brokered and digital channels; Zurich's Japan presence historically emphasized direct auto P&C and specialty life-adjacent lines. Public framing should rely on each entity's annual disclosure book for current scope.
 
 AIA (subsidiary of Hong Kong-listed AIA Group) and Allianz (German Allianz SE) have varying Japan presences with smaller scale than the headline foreign affiliates above. Both parents are large globally but have not built dominant Japan share.
 
@@ -149,7 +149,7 @@ The implication for foreign-affiliate strategy: bancassurance is a scale channel
 | Brand age in Japan | Decades for AFLAC, MetLife, Prudential; later for AXA, Zurich, AIA | Generations / over a century for big-four mutuals |
 | Channel dominance | Often specialized: cancer/medical (AFLAC), Lifeplanner (Prudential), bancassurance (MetLife) | Tied sales-rep nationwide + bancassurance + corporate + agencies |
 | Product specialization | Often a clear product anchor (cancer, foreign-currency annuity, Lifeplanner consultative) | Broad product menu across protection, savings, annuity |
-| Capital cycle | Capital flows up to parent; subsidiary retains for growth + ESR | Capital retained for policyholder dividend (mutuals) or shareholder dividend ([[JapanFG/dai-ichi-life|Dai-ichi Life]] listed) |
+| Capital cycle | Capital flows up to parent; subsidiary retains for growth + ESR | Capital retained for policyholder dividend (mutuals) or shareholder dividend ([[life-insurers/dai-ichi-life|Dai-ichi Life]] listed) |
 | Supervisory frame | FSA + foreign group-wide supervisor | FSA standalone (for Japan-headquartered IAIGs, FSA is also group-wide supervisor) |
 | Branding | Often parent global brand (AFLAC duck, MetLife) with Japan adaptation | Domestic Japanese brand identity |
 
@@ -197,7 +197,7 @@ Each foreign-affiliate channel faces a specific competitive set:
 | Channel | Competitive set |
 |---|---|
 | Cancer / supplemental medical (AFLAC) | Big-four medical riders, [[insurance/internet-life-insurance-business-model|internet life medical-only products]], cooperative-insurer (kyosai) cancer plans |
-| Lifeplanner consultative (Prudential, Sony) | [[JapanFG/sony-life|Sony Life]] Lifeplanner, [[JapanFG/dai-ichi-life|Dai-ichi Life]] consultative sales, hoken-shop IFA platforms |
+| Lifeplanner consultative (Prudential, Sony) | [[life-insurers/sony-life|Sony Life]] Lifeplanner, [[life-insurers/dai-ichi-life|Dai-ichi Life]] consultative sales, hoken-shop IFA platforms |
 | Bancassurance foreign-currency annuity (MetLife) | Big-four bancassurance, Manulife, AIA, and selected European bancassurance products |
 | Worksite voluntary benefits (multiple) | Big-four corporate channels, group-life programs, employee-benefit consultants |
 
@@ -217,16 +217,16 @@ The competitive dynamic determines acquisition cost, persistency, and pricing po
 - [[insurance/mutual-vs-stock-life-insurer]]
 - [[insurance/insurance-agency-and-brokerage-japan]]
 - [[insurance/internet-life-insurance-business-model]]
-- [[JapanFG/aflac-japan]]
-- [[JapanFG/metlife-japan]]
-- [[JapanFG/manulife-japan]]
-- [[JapanFG/prudential-japan]]
-- [[JapanFG/gibraltar-life]]
-- [[JapanFG/axa-japan]]
-- [[JapanFG/zurich-japan]]
-- [[JapanFG/sony-life]]
-- [[JapanFG/sony-fg]]
-- [[JapanFG/legal-financial-licenses/insurance-license-and-solvency]]
+- [[life-insurers/aflac-japan]]
+- [[life-insurers/metlife-japan]]
+- [[life-insurers/manulife-japan]]
+- [[life-insurers/prudential-japan]]
+- [[life-insurers/gibraltar-life]]
+- [[life-insurers/axa-japan]]
+- [[non-life-insurers/zurich-japan]]
+- [[life-insurers/sony-life]]
+- [[megabanks/sony-fg]]
+- [[financial-licenses/insurance-license-and-solvency]]
 - [[finance/japan-listed-financial-groups-investable-universe]]
 - [[INDEX|FinWiki index]]
 

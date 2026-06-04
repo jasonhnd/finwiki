@@ -1,0 +1,78 @@
+{
+  "schema_version": "1.0",
+  "slug": "trust-banks/fintech-global-trust",
+  "source_path": "trust-banks/fintech-global-trust.md",
+  "url": "https://finwiki.zksc.io/trust-banks/fintech-global-trust",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/trust-banks/fintech-global-trust.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/trust-banks/fintech-global-trust.md",
+  "domain": "trust-banks",
+  "title": "フィンテックグローバル信託 (Fintech Global Trust)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "フィンテックグローバル信託 (Fintech Global Trust)",
+    "aliases": [
+      "Fintech Global Trust",
+      "フィンテックグローバル信託株式会社",
+      "FGI Trust"
+    ],
+    "domain": "trust-banks",
+    "created": "2026-05-22",
+    "last_updated": "2026-05-22",
+    "last_tended": "2026-05-22",
+    "review_by": "2026-11-22",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "trust-company",
+      "structured-finance",
+      "fintech",
+      "real-estate-finance"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.xlsx",
+      "https://fgitr.co.jp/"
+    ]
+  },
+  "summary": "Fintech Global Trust is a standalone trust-company route under JapanFG and is promoted from the Japan trust companies registry index. Read it with Japan acquisition finance, cross-border M&A Japan, and Japan trust-bank custody map.",
+  "headings": [
+    "フィンテックグローバル信託 (Fintech Global Trust)",
+    "Wiki route",
+    "Overview",
+    "Entity Boundary",
+    "Business Role Map",
+    "Public Context",
+    "Research Checklist",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 7,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/INDEX",
+      "banking/japan-trust-bank-custody-map",
+      "finance/cross-border-m-a-japan",
+      "finance/japan-acquisition-finance",
+      "trust-banks/fpg-trust",
+      "trust-banks/trust-companies-japan-index"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/banking/japan-trust-bank-custody-map",
+      "https://finwiki.zksc.io/finance/cross-border-m-a-japan",
+      "https://finwiki.zksc.io/finance/japan-acquisition-finance",
+      "https://finwiki.zksc.io/trust-banks/fpg-trust",
+      "https://finwiki.zksc.io/trust-banks/trust-companies-japan-index"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3042,
+    "word_like_tokens": 491,
+    "inbound_wikilinks_count": 3,
+    "last_modified": "2026-06-04"
+  }
+}

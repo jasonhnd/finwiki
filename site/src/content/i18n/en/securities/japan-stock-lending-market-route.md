@@ -14,7 +14,7 @@ translated_at: 2026-06-01T04:15:40.131Z
 
 Stock lending in Japan is a market-infrastructure route that connects custodians, institutional investors, brokers, securities finance companies, margin trading, short selling, collateral, clearing, settlement, and corporate actions. It is analyzed as plumbing before it is analyzed as a bearish signal.
 
-Use this page with [[securities/INDEX|securities domain]], [[securities/japan-short-selling-and-stock-loan-controls|short-selling and stock-loan controls]], [[securities/japan-margin-trading-and-securities-finance|margin trading and securities finance]], [[securities/japan-prime-brokerage-and-institutional-financing|prime brokerage and institutional financing]], [[JapanFG/japan-securities-finance|Japan Securities Finance]], [[banking/japan-trust-bank-custody-map|trust-bank custody map]], [[securities/japan-market-infrastructure-map|market infrastructure map]], and [[money-market/jgb-repo-market-japan|JGB repo market]].
+Use this page with [[securities/INDEX|securities domain]], [[securities/japan-short-selling-and-stock-loan-controls|short-selling and stock-loan controls]], [[securities/japan-margin-trading-and-securities-finance|margin trading and securities finance]], [[securities/japan-prime-brokerage-and-institutional-financing|prime brokerage and institutional financing]], [[financial-regulators/japan-securities-finance|Japan Securities Finance]], [[banking/japan-trust-bank-custody-map|trust-bank custody map]], [[securities/japan-market-infrastructure-map|market infrastructure map]], and [[money-market/jgb-repo-market-japan|JGB repo market]].
 
 ## Route Map
 
@@ -23,7 +23,7 @@ Use this page with [[securities/INDEX|securities domain]], [[securities/japan-sh
 | Asset owner | Owns securities economically, often through pension, investment trust, insurer, or institutional account. |
 | Custodian / trust bank | Holds securities, handles corporate actions, and may support securities-lending programs by instruction. |
 | Broker / securities firm | Borrows securities for customer margin, market-making, hedging, settlement coverage, or prime-brokerage-like needs. |
-| [[JapanFG/japan-securities-finance|Japan Securities Finance]] | Supplies funds and securities to securities companies for standardized margin and broader securities-finance activities. |
+| [[financial-regulators/japan-securities-finance|Japan Securities Finance]] | Supplies funds and securities to securities companies for standardized margin and broader securities-finance activities. |
 | Clearing / depository | [[securities/japan-securities-clearing-corp|JSCC]] and [[securities/japan-securities-depository-center|JASDEC]] support post-trade settlement plumbing. |
 | Collateral provider | Supplies cash or securities collateral depending on the lending agreement and market practice. |
 
@@ -54,10 +54,10 @@ Trust banks and custodian banks matter because the legal title, beneficial owner
 
 ## JapanFG Relevance
 
-- [[JapanFG/custody-bank|Custody Bank of Japan]] and [[JapanFG/master-trust-bank|Master Trust Bank of Japan]] matter as domestic asset-administration and nominee-name infrastructure.
-- [[JapanFG/bny-mellon-japan|BNY Mellon Japan]] and [[JapanFG/state-street-japan|State Street Japan]] matter for global-custody and foreign-investor routes.
-- [[JapanFG/japan-securities-finance|Japan Securities Finance]] is the dedicated securities-finance node.
-- [[JapanFG/nomura-hd|Nomura]], [[JapanFG/daiwa-sg|Daiwa Securities Group]], [[JapanFG/smbc-nikko|SMBC Nikko]], [[JapanFG/mizuho-securities|Mizuho Securities]], and [[JapanFG/mufg-mums|MUMSS]] are broker / dealer-side anchors.
+- [[trust-banks/custody-bank|Custody Bank of Japan]] and [[trust-banks/master-trust-bank|Master Trust Bank of Japan]] matter as domestic asset-administration and nominee-name infrastructure.
+- [[foreign-financial-institutions/bny-mellon-japan|BNY Mellon Japan]] and [[foreign-financial-institutions/state-street-japan|State Street Japan]] matter for global-custody and foreign-investor routes.
+- [[financial-regulators/japan-securities-finance|Japan Securities Finance]] is the dedicated securities-finance node.
+- [[securities-firms/nomura-hd|Nomura]], [[securities-firms/daiwa-sg|Daiwa Securities Group]], [[securities-firms/smbc-nikko|SMBC Nikko]], [[securities-firms/mizuho-securities|Mizuho Securities]], and [[securities-firms/mufg-mums|MUMSS]] are broker / dealer-side anchors.
 
 ## Research Checklist
 
@@ -74,7 +74,7 @@ Trust banks and custodian banks matter because the legal title, beneficial owner
 - [[securities/japan-margin-trading-and-securities-finance]]
 - [[securities/japan-prime-brokerage-and-institutional-financing]]
 - [[securities/japan-market-infrastructure-map]]
-- [[JapanFG/japan-securities-finance]]
+- [[financial-regulators/japan-securities-finance]]
 - [[banking/japan-trust-bank-custody-map]]
 - [[banking/japan-master-trust-and-custody-bank-landscape]]
 - [[securities/japan-securities-clearing-corp]]

@@ -62,14 +62,14 @@ store visit
           -> mortgage / insurance / investment cross-sell (high-margin)
 ```
 
-Each rung reuses the trust and data built on the rung below, so the marginal cost of climbing is low. This is structurally different from megabank finance (which starts at the balance sheet) and from code-payment finance (which starts at the app). The payment rung specifically routes through the [[payments/cashless-jp-landscape|Japan cashless payment landscape]], and where each rung sits against bank / prepaid / credit-card licensing is governed by the [[JapanFG/legal-financial-licenses/payment-license-stack|payment license stack]].
+Each rung reuses the trust and data built on the rung below, so the marginal cost of climbing is low. This is structurally different from megabank finance (which starts at the balance sheet) and from code-payment finance (which starts at the app). The payment rung specifically routes through the [[payments/cashless-jp-landscape|Japan cashless payment landscape]], and where each rung sits against bank / prepaid / credit-card licensing is governed by the [[financial-licenses/payment-license-stack|payment license stack]].
 
 ## Limits and risks
 
 The advantage is not unconditional:
 
 - **Cashless substitution.** As code payments and account-to-account transfers rise, some physical rungs (notably ATM cash access) can lose relative value — a live tension for [[retail/seven-and-i-hd|Seven & i Holdings]] and its ATM economics.
-- **App execution.** Owning footfall does not guarantee a good app; a clumsy super-app can squander the contact advantage against [[JapanFG/paypay-fg|PayPay FG]] or [[JapanFG/rakuten-fg|Rakuten FG]].
+- **App execution.** Owning footfall does not guarantee a good app; a clumsy super-app can squander the contact advantage against [[megabanks/paypay-fg|PayPay FG]] or [[payment-firms/rakuten-fg|Rakuten FG]].
 - **Open vs closed loyalty.** A closed in-house point loop maximizes group stickiness but forgoes alliance network effects; an open one trades stickiness for reach.
 - **Margin dilution.** Heavy point-back and cashback campaigns can erase the CAC saving if they are funded as straight subsidy rather than recovered through retail margin.
 
@@ -82,7 +82,7 @@ The advantage is not unconditional:
 - [[retail/lawson-kddi-retail-finance|Lawson + KDDI retail finance]]
 - [[loyalty/japan-points-landscape|Japan points landscape]]
 - [[payments/cashless-jp-landscape|Japan cashless payment landscape]]
-- [[JapanFG/legal-financial-licenses/payment-license-stack|payment license stack]]
+- [[financial-licenses/payment-license-stack|payment license stack]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

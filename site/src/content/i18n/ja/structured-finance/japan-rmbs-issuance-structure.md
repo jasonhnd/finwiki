@@ -27,10 +27,10 @@ translated_at: 2026-06-03T00:53:08.294Z
 
 | オリジネーター | 典型的な商品 |
 |---|---|
-| [[JapanFG/mufg]] / 三菱UFJ銀行 | 変動金利住宅ローン、大型プール |
-| [[JapanFG/smfg]] / 三井住友銀行 | 変動金利住宅ローン |
-| [[JapanFG/mizuho-fg]] / みずほ銀行 | 混合金利住宅ローン |
-| 信託銀行（三菱UFJ信託、[[JapanFG/sumitomo-mitsui-trust]]、みずほ信託） | 長期固定金利住宅ローン |
+| [[megabanks/mufg]] / 三菱UFJ銀行 | 変動金利住宅ローン、大型プール |
+| [[megabanks/smfg]] / 三井住友銀行 | 変動金利住宅ローン |
+| [[megabanks/mizuho-fg]] / みずほ銀行 | 混合金利住宅ローン |
+| 信託銀行（三菱UFJ信託、[[trust-banks/sumitomo-mitsui-trust]]、みずほ信託） | 長期固定金利住宅ローン |
 | 地域銀行（時折） | 小規模な地域プール案件 |
 
 メガバンクは、大型証券化を経済的に成立させられるだけの住宅ローンポートフォリオを保有しているため、民間RMBS発行を支配している。
@@ -84,7 +84,7 @@ translated_at: 2026-06-03T00:53:08.294Z
 
 ## 6. ビークル選択
 
-日本の民間RMBSは、信託受益権構造を使うことが最も多い。オリジネーターが住宅ローンプールを信託（[[JapanFG/sumitomo-mitsui-trust]] または他の信託銀行が受託者）に移転し、その信託がトランチ化された信託受益権を投資家に発行する。信託とSPVのトレードオフについては [[structured-finance/japan-trust-beneficial-interest-vs-spv]] を参照。
+日本の民間RMBSは、信託受益権構造を使うことが最も多い。オリジネーターが住宅ローンプールを信託（[[trust-banks/sumitomo-mitsui-trust]] または他の信託銀行が受託者）に移転し、その信託がトランチ化された信託受益権を投資家に発行する。信託とSPVのトレードオフについては [[structured-finance/japan-trust-beneficial-interest-vs-spv]] を参照。
 
 一部案件では、資産流動化法上の TMK（特定目的会社）を使う。TMK ルートは正式な上場債発行を可能にする。信託受益権ルートは通常、私募である。[[structured-finance/spv-tk-gk-vehicle-japan-tax]] を参照。
 

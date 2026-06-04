@@ -12,11 +12,11 @@ translated_at: 2026-05-30T15:31:43.927Z
 
 ## Wiki route
 
-This entry sits under [[manufacturer-finance/INDEX|manufacturing index]]. Read it against [[manufacturer-finance/hitachi-industrial-finance-platform|Hitachi 産業金融]], [[manufacturer-finance/panasonic-captive-finance|Panasonic 顧客金融]], [[manufacturer-finance/sony-group-finance-arm|Sony FG]], and [[manufacturer-finance/toyota-financial-services|Toyota Financial Services]] for peer industrial-conglomerate finance arms. Pair with [[JapanFG/jbic|JBIC]]・[[policy-finance/nexi|NEXI]] for the policy-finance counterpart, [[trade/jetro-vs-nexi-vs-jbic-comparison|JETRO vs NEXI vs JBIC]] for the export-support stack overview, and [[JapanFG/mitsubishi-corp-finance|三菱商事 金融機能]] / [[JapanFG/INDEX|JapanFG index]] for the broader Mitsubishi-keiretsu context.
+This entry sits under [[manufacturer-finance/INDEX|manufacturing index]]. Read it against [[manufacturer-finance/hitachi-industrial-finance-platform|Hitachi 産業金融]], [[manufacturer-finance/panasonic-captive-finance|Panasonic 顧客金融]], [[manufacturer-finance/sony-group-finance-arm|Sony FG]], and [[manufacturer-finance/toyota-financial-services|Toyota Financial Services]] for peer industrial-conglomerate finance arms. Pair with [[financial-regulators/jbic|JBIC]]・[[policy-finance/nexi|NEXI]] for the policy-finance counterpart, [[trade/jetro-vs-nexi-vs-jbic-comparison|JETRO vs NEXI vs JBIC]] for the export-support stack overview, and [[trading-company-finance/mitsubishi-corp-finance|三菱商事 金融機能]] / [[JapanFG/INDEX|JapanFG index]] for the broader Mitsubishi-keiretsu context.
 
 ## TL;DR
 
-Mitsubishi Heavy Industries (MHI, 7011) is one of Japan's largest heavy-industry makers, holding defense, aerospace, energy, industrial machinery, and logistics equipment. **Unlike Toyota / Sony / Hitachi, it does not hold a directly-affiliated bank / insurance / large-card captive at the parent level**, but **the export of large deals (defense equipment, commercial aviation, thermal / nuclear turbines, ships, chemical plants, rockets) always requires a combination of [[JapanFG/jbic|JBIC]] export finance + [[policy-finance/nexi|NEXI]] trade insurance + a megabank syndicate + ECAs**, and MHI's corporate treasury and project headquarters jointly handle their structuring and coordination. From the manufacturing perspective, it is a model where "a maker does not hold a captive but effectively operates an **export-finance platform combining policy finance / commercial banks / ECAs**." Recent topics are the **GIGO/GCAP program** for F-X (the future fighter; a Japan-UK-Italy joint development, on the extension line of the former "X-2  Shinshin"), the **Sapphire defense-equipment initiative**, AP1000 -series / Mitsubishi Heavy PWR overseas projects, and the commercialization of H-IIA / H3  rockets.
+Mitsubishi Heavy Industries (MHI, 7011) is one of Japan's largest heavy-industry makers, holding defense, aerospace, energy, industrial machinery, and logistics equipment. **Unlike Toyota / Sony / Hitachi, it does not hold a directly-affiliated bank / insurance / large-card captive at the parent level**, but **the export of large deals (defense equipment, commercial aviation, thermal / nuclear turbines, ships, chemical plants, rockets) always requires a combination of [[financial-regulators/jbic|JBIC]] export finance + [[policy-finance/nexi|NEXI]] trade insurance + a megabank syndicate + ECAs**, and MHI's corporate treasury and project headquarters jointly handle their structuring and coordination. From the manufacturing perspective, it is a model where "a maker does not hold a captive but effectively operates an **export-finance platform combining policy finance / commercial banks / ECAs**." Recent topics are the **GIGO/GCAP program** for F-X (the future fighter; a Japan-UK-Italy joint development, on the extension line of the former "X-2  Shinshin"), the **Sapphire defense-equipment initiative**, AP1000 -series / Mitsubishi Heavy PWR overseas projects, and the commercialization of H-IIA / H3  rockets.
 
 ## 1. Corporate structure and the position of the finance function
 
@@ -31,7 +31,7 @@ Mitsubishi Heavy Industries (MHI, 7011) is one of Japan's largest heavy-industry
 | Consolidated net income | approx. 2,200 億円 scale (FY2024) |
 | Consolidated subsidiaries | approx. 200 社 scale |
 | Parent-level directly-affiliated captive finance | none (no dedicated bank / insurance / large card) |
-| Main finance alliance | [[JapanFG/jbic|JBIC]] / [[policy-finance/nexi|NEXI]] / [[JapanFG/mufg|MUFG]] / [[JapanFG/smfg|SMFG]] / [[JapanFG/mizuho-fg|みずほ FG]] / US-European ECAs |
+| Main finance alliance | [[financial-regulators/jbic|JBIC]] / [[policy-finance/nexi|NEXI]] / [[megabanks/mufg|MUFG]] / [[megabanks/smfg|SMFG]] / [[megabanks/mizuho-fg|みずほ FG]] / US-European ECAs |
 
 ### Position of finance structuring (by program)
 
@@ -57,13 +57,13 @@ MHI functions not as a "captive that holds banks / insurance," but as a "**finan
 
 | Business line | Main customer-finance structuring | Finance involved |
 |---|---|---|
-| Thermal, nuclear, turbines | EPC + project finance | [[JapanFG/jbic|JBIC]] / [[policy-finance/nexi|NEXI]] / US EXIM / Korea KEXIM, etc. |
+| Thermal, nuclear, turbines | EPC + project finance | [[financial-regulators/jbic|JBIC]] / [[policy-finance/nexi|NEXI]] / US EXIM / Korea KEXIM, etc. |
 | Offshore wind, hydrogen | green finance, PF | JBIC GX facility / European-style PF banks |
 | Commercial aviation (former SpaceJet) | aircraft ECA finance | JBIC + EDC + EXIM-type |
 | Defense equipment (domestic) | MoD GFE (government-furnished equipment) + domestic budget | MoD; no government guarantee |
 | Defense equipment (export) | limited, under G-to-G export guidelines | NEXI government-guaranteed facility (deal-dependent) |
 | GCAP / GIGO (F-X) | JV of UK BAE Systems + Italy Leonardo + Japan MHI: GCAP International Government Organisation | Japan-UK-Italy government coordination; commercial finance not involved |
-| Logistics (forklifts = Mitsubishi Logisnext 7105) | vendor finance | [[JapanFG/mitsubishi-hc-capital|三菱HCキャピタル]] / bank-affiliated leasing |
+| Logistics (forklifts = Mitsubishi Logisnext 7105) | vendor finance | [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]] / bank-affiliated leasing |
 | Chemical plants | EPC + JBIC resource-finance facility | JBIC + megabanks + ECAs |
 | Rockets (MHI Launch Services) | commercial launch contracts + ECA | customer satellite operators + JBIC |
 
@@ -96,7 +96,7 @@ MHI functions not as a "captive that holds banks / insurance," but as a "**finan
 - **Energy transition**: broadening investment areas from a thermal / nuclear base toward hydrogen, ammonia, offshore wind, and SAF (sustainable aviation fuel). Creating long-term orders with carbon-neutral products while maintaining capital efficiency.
 - **Scale expansion of the defense business**: against the backdrop of the 2022  National Security Strategy and Defense Buildup Program (43 兆円 scale over 5  years), structurally expanding the defense-business segment. F-X / GCAP is the next-generation pillar.
 - **GCAP/GIGO international collaboration**: entering the defense-equipment export market through JVs with UK BAE Systems and Italy Leonardo. Under a framework where the GCAP International Government Organisation is supported by the governments of 3  countries, the basis is intergovernmental finance rather than commercial-finance structuring.
-- **JBIC / NEXI coordination**: energy and infrastructure exports are advanced with a set of [[JapanFG/jbic|JBIC]] export finance + [[policy-finance/nexi|NEXI]] trade insurance. Commercial banks ([[JapanFG/mufg|MUFG]] / [[JapanFG/smfg|SMFG]] / [[JapanFG/mizuho-fg|みずほ FG]]) participate in the syndicate.
+- **JBIC / NEXI coordination**: energy and infrastructure exports are advanced with a set of [[financial-regulators/jbic|JBIC]] export finance + [[policy-finance/nexi|NEXI]] trade insurance. Commercial banks ([[megabanks/mufg|MUFG]] / [[megabanks/smfg|SMFG]] / [[megabanks/mizuho-fg|みずほ FG]]) participate in the syndicate.
 - **Lightening the logistics / industrial-equipment captive**: at the group-company level such as Mitsubishi Logisnext (forklifts), vendor finance is structured via Mitsubishi HC Capital, reducing the burden on the parent's treasury.
 - **Cash conversion cycle (CCC) improvement**: because the long-term-order business tends to inflate working capital, supply-chain finance and receivables ABL are used to improve the CCC.
 
@@ -110,8 +110,8 @@ MHI functions not as a "captive that holds banks / insurance," but as a "**finan
 
 ## Related
 
-- [[JapanFG/jbic|JBIC]] · [[policy-finance/nexi|NEXI]] · [[trade/jetro-vs-nexi-vs-jbic-comparison|JETRO vs NEXI vs JBIC]]
-- [[JapanFG/mufg|MUFG]] · [[JapanFG/smfg|SMFG]] · [[JapanFG/mizuho-fg|みずほ FG]] · [[JapanFG/mitsubishi-corp-finance|三菱商事 金融機能]] · [[JapanFG/mitsubishi-hc-capital|三菱HCキャピタル]]
+- [[financial-regulators/jbic|JBIC]] · [[policy-finance/nexi|NEXI]] · [[trade/jetro-vs-nexi-vs-jbic-comparison|JETRO vs NEXI vs JBIC]]
+- [[megabanks/mufg|MUFG]] · [[megabanks/smfg|SMFG]] · [[megabanks/mizuho-fg|みずほ FG]] · [[trading-company-finance/mitsubishi-corp-finance|三菱商事 金融機能]] · [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]]
 - [[manufacturer-finance/hitachi-industrial-finance-platform|Hitachi 産業金融]] · [[manufacturer-finance/panasonic-captive-finance|Panasonic 顧客金融]] · [[manufacturer-finance/sony-group-finance-arm|Sony FG]] · [[manufacturer-finance/toyota-financial-services|Toyota Financial Services]]
 - [[manufacturer-finance/toyota-motor|Toyota Motor]] · [[manufacturer-finance/seiko-epson|Seiko Epson]]
 - [[manufacturer-finance/INDEX|manufacturing INDEX]] · [[JapanFG/INDEX|JapanFG INDEX]] · [[INDEX|FinWiki index]]

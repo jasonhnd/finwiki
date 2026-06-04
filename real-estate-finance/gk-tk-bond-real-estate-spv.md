@@ -85,7 +85,7 @@ Reasons for the 信託受益権 layer:
 3. **Bankruptcy remoteness** — the trust-bank holding title isolates the asset from the GK's other creditors.
 4. **Operational standardization** — the trust-bank provides standardized rental-income collection, expense-payment, and reporting.
 
-The trust-bank role here is typically filled by [[JapanFG/mitsubishi-ufj-trust-bank|MUFG Trust]], [[JapanFG/sumitomo-mitsui-trust|SMTB]], or [[JapanFG/mizuho-trust-bank|Mizuho Trust]] — not by custody-only specialists like [[JapanFG/master-trust-bank|MTBJ]] or [[JapanFG/custody-bank|CBJ]], because the role is fee-bearing real-estate-trust front-office work rather than asset-administration utility work. See [[banking/trust-bank-custody-operating-comparison|trust-bank custody operating comparison]].
+The trust-bank role here is typically filled by [[trust-banks/mitsubishi-ufj-trust-bank|MUFG Trust]], [[trust-banks/sumitomo-mitsui-trust|SMTB]], or [[trust-banks/mizuho-trust-bank|Mizuho Trust]] — not by custody-only specialists like [[trust-banks/master-trust-bank|MTBJ]] or [[trust-banks/custody-bank|CBJ]], because the role is fee-bearing real-estate-trust front-office work rather than asset-administration utility work. See [[banking/trust-bank-custody-operating-comparison|trust-bank custody operating comparison]].
 
 ### Structure
 
@@ -104,7 +104,7 @@ The senior bond gets a clean, transferable, bankruptcy-remote claim. The mezzani
 1. **Investor universe** — life insurers, regional banks, asset managers, and other yen institutional investors prefer 社債-format investments for the same reasons they prefer publicly issued bonds: standardized claim form, easy custody, clear maturity, clear coupon.
 2. **Risk-weight treatment** — 社債 form supports cleaner risk-weight analysis for bank holders.
 3. **JASDEC settlement** — 社債 can settle through [[securities/japan-securities-depository-center|JASDEC]] book-entry, supporting clean institutional custody.
-4. **Public ratings** — a 社債 layer can be rated by [[JapanFG/jcr|JCR]] / [[JapanFG/rating-and-investment|R&I]] / [[JapanFG/sp-global-ratings-japan|S&P]] / [[JapanFG/moodys-japan|Moody's]] using structured-finance criteria similar to [[real-estate-finance/japan-cmbs-rmbs-securitization|Japan CMBS / RMBS]] criteria.
+4. **Public ratings** — a 社債 layer can be rated by [[financial-regulators/jcr|JCR]] / [[financial-regulators/rating-and-investment|R&I]] / [[JapanFG/sp-global-ratings-japan|S&P]] / [[JapanFG/moodys-japan|Moody's]] using structured-finance criteria similar to [[real-estate-finance/japan-cmbs-rmbs-securitization|Japan CMBS / RMBS]] criteria.
 
 ### How it differs from CMBS
 
@@ -228,12 +228,12 @@ For the structural sponsor (often the asset-management firm or developer that es
 - [[insurance/INDEX]]
 - [[policy-finance/INDEX]]
 - [[policy-finance/japan-housing-finance-agency]]
-- [[JapanFG/mitsubishi-ufj-trust-bank]]
-- [[JapanFG/sumitomo-mitsui-trust]]
-- [[JapanFG/mizuho-trust-bank]]
-- [[JapanFG/master-trust-bank]]
-- [[JapanFG/jcr]]
-- [[JapanFG/rating-and-investment]]
+- [[trust-banks/mitsubishi-ufj-trust-bank]]
+- [[trust-banks/sumitomo-mitsui-trust]]
+- [[trust-banks/mizuho-trust-bank]]
+- [[trust-banks/master-trust-bank]]
+- [[financial-regulators/jcr]]
+- [[financial-regulators/rating-and-investment]]
 - [[securities/japan-securities-depository-center]]
 - [[finance/INDEX]]
 

@@ -1,0 +1,101 @@
+{
+  "schema_version": "1.0",
+  "slug": "cooperative-banks/jf-marine-bank-hokkaido",
+  "source_path": "cooperative-banks/jf-marine-bank-hokkaido.md",
+  "url": "https://finwiki.zksc.io/cooperative-banks/jf-marine-bank-hokkaido",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/cooperative-banks/jf-marine-bank-hokkaido.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/cooperative-banks/jf-marine-bank-hokkaido.md",
+  "domain": "cooperative-banks",
+  "title": "JF Marine Bank 北海道 (北海道信用漁業協同組合連合会 / Hokkaido Shingyoren)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "JF Marine Bank 北海道 (北海道信用漁業協同組合連合会 / Hokkaido Shingyoren)",
+    "aliases": [
+      "JF-Marine-Bank-Hokkaido",
+      "北海道信漁連",
+      "北海道信用漁連",
+      "Hokkaido Shingyoren",
+      "JF Marine Bank Hokkaido",
+      "道信漁連"
+    ],
+    "domain": "cooperative-banks",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-21",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "jf-group",
+      "jf-marine-bank-system",
+      "prefectural-federation",
+      "shingyoren",
+      "hokkaido",
+      "fisheries-finance",
+      "cooperative-banking"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.jfmbk.org/",
+      "https://www.jfmbk.org/about/housin.html",
+      "https://www.jfmbk.org/common/pdf/housin_jf_all.pdf",
+      "https://www.nochubank.or.jp/about/features.html",
+      "水産業協同組合法 (昭和 23 年法律第 242 号)",
+      "https://www.zengyoren.or.jp/",
+      "https://marinebank.jp/disclosure/index.html",
+      "https://marinebank.jp/disclosure/disclosure2025_02.pdf"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index as the first JF Marine Bank prefectural-federation operating-company anchor in FinWiki, closing the audit gap that JF 信漁連 (集合的) was documented but no prefectural 信漁連 anchor existed. Hokkaido was selected as the single largest fisheries region in Japan (sake / hota",
+  "headings": [
+    "JF Marine Bank 北海道 (北海道信用漁業協同組合連合会 / Hokkaido Shingyoren)",
+    "Wiki route",
+    "TL;DR",
+    "1. License / 組織構造",
+    "北海道漁業の規模感 ^[extracted]",
+    "10 信漁連の構成 ^[extracted / inferred]",
+    "JF Marine Bank system 内の北海道信漁連の位置付け ^[extracted]",
+    "重要年表 ^[extracted / inferred]",
+    "4 大機能 (信漁連共通) ^[extracted]",
+    "規模感 (2025-03-31 / 令和7年3月末・公式ディスクロージャー)"
+  ],
+  "body_links": {
+    "wikilinks_count": 12,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "banking/cooperative-banking-japan",
+      "banking/ja-bank-system-japan",
+      "banking/jf-marine-bank-system-japan",
+      "cooperative-banks/ja-bank-tokyo-shinren",
+      "cooperative-banks/ja-kyosairen-fukushima",
+      "cooperative-banks/ja-shinnoren",
+      "cooperative-banks/jf-shingyoren",
+      "cooperative-banks/jf-zengyoren",
+      "cooperative-banks/norinchukin",
+      "regional-banks/hokkaido-bank",
+      "regional-banks/north-pacific-bank"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/banking/cooperative-banking-japan",
+      "https://finwiki.zksc.io/banking/ja-bank-system-japan",
+      "https://finwiki.zksc.io/banking/jf-marine-bank-system-japan",
+      "https://finwiki.zksc.io/cooperative-banks/ja-bank-tokyo-shinren",
+      "https://finwiki.zksc.io/cooperative-banks/ja-kyosairen-fukushima",
+      "https://finwiki.zksc.io/cooperative-banks/ja-shinnoren",
+      "https://finwiki.zksc.io/cooperative-banks/jf-shingyoren",
+      "https://finwiki.zksc.io/cooperative-banks/jf-zengyoren",
+      "https://finwiki.zksc.io/cooperative-banks/norinchukin",
+      "https://finwiki.zksc.io/regional-banks/hokkaido-bank",
+      "https://finwiki.zksc.io/regional-banks/north-pacific-bank"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 6742,
+    "word_like_tokens": 1085,
+    "inbound_wikilinks_count": 4,
+    "last_modified": "2026-06-04"
+  }
+}

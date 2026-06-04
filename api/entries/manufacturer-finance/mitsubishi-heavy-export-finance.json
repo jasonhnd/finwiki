@@ -64,12 +64,8 @@
     "wikilinks": [
       "INDEX",
       "JapanFG/INDEX",
-      "JapanFG/jbic",
-      "JapanFG/mitsubishi-corp-finance",
-      "JapanFG/mitsubishi-hc-capital",
-      "JapanFG/mizuho-fg",
-      "JapanFG/mufg",
-      "JapanFG/smfg",
+      "financial-regulators/jbic",
+      "leasing-firms/mitsubishi-hc-capital",
       "manufacturer-finance/INDEX",
       "manufacturer-finance/hitachi-industrial-finance-platform",
       "manufacturer-finance/panasonic-captive-finance",
@@ -77,18 +73,18 @@
       "manufacturer-finance/sony-group-finance-arm",
       "manufacturer-finance/toyota-financial-services",
       "manufacturer-finance/toyota-motor",
+      "megabanks/mizuho-fg",
+      "megabanks/mufg",
+      "megabanks/smfg",
       "policy-finance/nexi",
-      "trade/jetro-vs-nexi-vs-jbic-comparison"
+      "trade/jetro-vs-nexi-vs-jbic-comparison",
+      "trading-company-finance/mitsubishi-corp-finance"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
       "https://finwiki.zksc.io/JapanFG/INDEX",
-      "https://finwiki.zksc.io/JapanFG/jbic",
-      "https://finwiki.zksc.io/JapanFG/mitsubishi-corp-finance",
-      "https://finwiki.zksc.io/JapanFG/mitsubishi-hc-capital",
-      "https://finwiki.zksc.io/JapanFG/mizuho-fg",
-      "https://finwiki.zksc.io/JapanFG/mufg",
-      "https://finwiki.zksc.io/JapanFG/smfg",
+      "https://finwiki.zksc.io/financial-regulators/jbic",
+      "https://finwiki.zksc.io/leasing-firms/mitsubishi-hc-capital",
       "https://finwiki.zksc.io/manufacturer-finance/INDEX",
       "https://finwiki.zksc.io/manufacturer-finance/hitachi-industrial-finance-platform",
       "https://finwiki.zksc.io/manufacturer-finance/panasonic-captive-finance",
@@ -96,16 +92,20 @@
       "https://finwiki.zksc.io/manufacturer-finance/sony-group-finance-arm",
       "https://finwiki.zksc.io/manufacturer-finance/toyota-financial-services",
       "https://finwiki.zksc.io/manufacturer-finance/toyota-motor",
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/smfg",
       "https://finwiki.zksc.io/policy-finance/nexi",
-      "https://finwiki.zksc.io/trade/jetro-vs-nexi-vs-jbic-comparison"
+      "https://finwiki.zksc.io/trade/jetro-vs-nexi-vs-jbic-comparison",
+      "https://finwiki.zksc.io/trading-company-finance/mitsubishi-corp-finance"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6706,
-    "word_like_tokens": 1042,
+    "nonspace_chars": 6846,
+    "word_like_tokens": 1054,
     "inbound_wikilinks_count": 10,
-    "last_modified": "2026-06-03"
+    "last_modified": "2026-06-04"
   }
 }

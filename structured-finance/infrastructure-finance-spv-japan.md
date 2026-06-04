@@ -29,7 +29,7 @@ sources:
 
 ## TL;DR
 
-Japanese infrastructure financing combines (1) **traditional public-works financing** (central / local government, JFC, [[JapanFG/jbic|JBIC]], [[JapanFG/dbj|DBJ]]) for sovereign-backed projects, (2) **PFI (Private Finance Initiative)** structures since the 1999 PFI Law that involve private SPVs delivering and financing public-purpose infrastructure under long-term concession or service-purchase contracts, (3) **PPP (Public-Private Partnership)** equity investment structures (often through infrastructure funds), and (4) **infrastructure-asset securitisation** including the listed-infrastructure-fund and infrastructure-J-REIT segments on the [[JapanFG/japan-exchange-group|TSE]] (Industrial & Infrastructure Fund, Nippon Logistics, and the dedicated TSE Infrastructure Fund market for renewable-energy assets). Toll-road financing is dominated by the **NEXCO (NEXCO East, Central, West)** public-corporation system with limited private-SPV involvement; **airport concessions** (Kansai International, Sendai, others) have been the primary PFI-style infrastructure-SPV market in the 2010s–2020s; and **telecom-tower SPVs** are an emerging asset class as Japanese carriers (NTT Docomo, KDDI, SoftBank, Rakuten) consider tower-asset spinoffs.
+Japanese infrastructure financing combines (1) **traditional public-works financing** (central / local government, JFC, [[financial-regulators/jbic|JBIC]], [[financial-regulators/dbj|DBJ]]) for sovereign-backed projects, (2) **PFI (Private Finance Initiative)** structures since the 1999 PFI Law that involve private SPVs delivering and financing public-purpose infrastructure under long-term concession or service-purchase contracts, (3) **PPP (Public-Private Partnership)** equity investment structures (often through infrastructure funds), and (4) **infrastructure-asset securitisation** including the listed-infrastructure-fund and infrastructure-J-REIT segments on the [[financial-regulators/japan-exchange-group|TSE]] (Industrial & Infrastructure Fund, Nippon Logistics, and the dedicated TSE Infrastructure Fund market for renewable-energy assets). Toll-road financing is dominated by the **NEXCO (NEXCO East, Central, West)** public-corporation system with limited private-SPV involvement; **airport concessions** (Kansai International, Sendai, others) have been the primary PFI-style infrastructure-SPV market in the 2010s–2020s; and **telecom-tower SPVs** are an emerging asset class as Japanese carriers (NTT Docomo, KDDI, SoftBank, Rakuten) consider tower-asset spinoffs.
 
 ## Wiki route
 
@@ -67,9 +67,9 @@ Sponsors  Senior debt  Mezz / sub
  (equity)
    |          |
 Const. co  Megabank lead
-Operator   ([[JapanFG/mufg|MUFG]] /
-Mgmt co    [[JapanFG/smfg|SMBC]] /
-           [[JapanFG/mizuho-fg|Mizuho]])
+Operator   ([[megabanks/mufg|MUFG]] /
+Mgmt co    [[megabanks/smfg|SMBC]] /
+           [[megabanks/mizuho-fg|Mizuho]])
            + DBJ
            + regional banks
 ```
@@ -80,7 +80,7 @@ Sponsors are typically a consortium of:
 - A sōgō shōsha (often via infrastructure-fund vehicle)
 - A construction-related leasing / facilities-management firm
 
-Debt is typically megabank-led with [[JapanFG/dbj|DBJ]] as co-lender (DBJ has a dedicated infrastructure-finance mandate).
+Debt is typically megabank-led with [[financial-regulators/dbj|DBJ]] as co-lender (DBJ has a dedicated infrastructure-finance mandate).
 
 ## 3. Airport concessions — the flagship PFI segment
 
@@ -122,7 +122,7 @@ Watch for further activity as Japanese carrier consolidation and capital-efficie
 
 ## 6. Infrastructure-J-REIT and Infrastructure-Fund market
 
-Two listed-infrastructure channels exist on the [[JapanFG/japan-exchange-group|TSE]]:
+Two listed-infrastructure channels exist on the [[financial-regulators/japan-exchange-group|TSE]]:
 
 ### 6a. J-REIT infrastructure-flavour funds
 - **Industrial & Infrastructure Fund Investment Corporation** (3249) — logistics + industrial-infrastructure focus
@@ -142,11 +142,11 @@ The infrastructure-fund market remains smaller than originally hoped — partly 
 
 | Role | Institution | Function |
 |---|---|---|
-| Domestic infrastructure | [[JapanFG/dbj|DBJ]] | Senior debt to PFI SPVs, mezzanine, equity participations |
-| Overseas infrastructure | [[JapanFG/jbic|JBIC]] | Overseas investment loans to Japanese-led infrastructure projects, export buyer credit |
+| Domestic infrastructure | [[financial-regulators/dbj|DBJ]] | Senior debt to PFI SPVs, mezzanine, equity participations |
+| Overseas infrastructure | [[financial-regulators/jbic|JBIC]] | Overseas investment loans to Japanese-led infrastructure projects, export buyer credit |
 | Trade and political-risk insurance | [[policy-finance/nexi|NEXI]] | Insurance for cross-border infrastructure deals |
 
-[[JapanFG/dbj|DBJ]]'s domestic infrastructure-finance mandate complements the megabank syndicate role — DBJ often takes longer-tenor tranches and structured-debt positions that commercial banks would not match alone.
+[[financial-regulators/dbj|DBJ]]'s domestic infrastructure-finance mandate complements the megabank syndicate role — DBJ often takes longer-tenor tranches and structured-debt positions that commercial banks would not match alone.
 
 ## 8. PPP for renewables — overlap with structured-finance/project-finance-spv-japan-renewable
 
@@ -167,9 +167,9 @@ A subset of PPP-style structures support **renewable-energy infrastructure** —
 - The next wave of airport-concession refinancings post-COVID and what spreads / tenors emerge
 - Whether telecom-tower SPVs become a meaningful asset class in the 2026–2030 period
 - The path of the TSE Infrastructure Fund market — whether new asset categories (battery storage, hydrogen, EV-charging) gain listing volume
-- The role of [[JapanFG/japan-post-bank|Japan Post Bank]], life insurers, and pension funds as infrastructure-debt buyers in long-tenor format
+- The role of [[regional-banks/japan-post-bank|Japan Post Bank]], life insurers, and pension funds as infrastructure-debt buyers in long-tenor format
 - Whether private-sector toll-road or tunnel concessions emerge as PFI policy expands
-- Interaction between infrastructure SPV lending and [[JapanFG/boj|BOJ]] rate normalisation — refinancing cost dynamics
+- Interaction between infrastructure SPV lending and [[financial-regulators/boj|BOJ]] rate normalisation — refinancing cost dynamics
 
 ## Related
 
@@ -184,8 +184,8 @@ A subset of PPP-style structures support **renewable-energy infrastructure** —
 - [[finance/INDEX|finance index]]
 - [[policy-finance/japan-project-finance-stack-diagram|Japan project finance stack]]
 - [[policy-finance/jbic-overseas-investment-underwriting-process|JBIC overseas-investment underwriting]]
-- [[JapanFG/mufg|MUFG]] · [[JapanFG/smfg|SMFG]] · [[JapanFG/mizuho-fg|Mizuho FG]]
-- [[JapanFG/dbj|DBJ]] · [[JapanFG/jbic|JBIC]] · [[JapanFG/orix-corp|ORIX]] · [[JapanFG/tokyo-century|Tokyo Century]] · [[JapanFG/japan-exchange-group|JPX]]
+- [[megabanks/mufg|MUFG]] · [[megabanks/smfg|SMFG]] · [[megabanks/mizuho-fg|Mizuho FG]]
+- [[financial-regulators/dbj|DBJ]] · [[financial-regulators/jbic|JBIC]] · [[leasing-firms/orix-corp|ORIX]] · [[leasing-firms/tokyo-century|Tokyo Century]] · [[financial-regulators/japan-exchange-group|JPX]]
 
 ## Sources
 

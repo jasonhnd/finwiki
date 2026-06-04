@@ -11,11 +11,11 @@ translated_at: 2026-06-02T16:33:58.525Z
 
 ## ウィキ上の位置づけ
 
-このエントリは [[manufacturer-finance/INDEX|manufacturing index]] 配下に位置し、[[JapanFG/toyota-financial|Toyota Financial Services (JapanFG entity profile)]] と [[JapanFG/toyota-finance|トヨタファイナンス (国内オペレーティング会社)]] を補完する。製造業エントリは、TFS を**親 OEM の製造・戦略視点**から見るために存在する。すなわち、Toyota が世界最大級の自動車キャプティブ金融を使って、販売チャネル、残価リスク、モビリティサービスをどう制御しているかを扱う。親 OEM については [[manufacturer-finance/toyota-motor|Toyota Motor]]、同業の産業コングロマリット金融部門については [[manufacturer-finance/hitachi-industrial-finance-platform|Hitachi 産業金融]]、[[manufacturer-finance/panasonic-captive-finance|Panasonic 顧客金融]]、[[manufacturer-finance/sony-group-finance-arm|Sony FG]]、[[manufacturer-finance/mitsubishi-heavy-export-finance|MHI 輸出金融]] と照らして読む。証券化レイヤーについては [[structured-finance/auto-loan-abs-japan-toyota-honda|Japan auto-loan ABS]]、より広い規制境界については [[JapanFG/INDEX|JapanFG index]] と組み合わせる。
+このエントリは [[manufacturer-finance/INDEX|manufacturing index]] 配下に位置し、[[leasing-firms/toyota-financial|Toyota Financial Services (JapanFG entity profile)]] と [[card-issuers/toyota-finance|トヨタファイナンス (国内オペレーティング会社)]] を補完する。製造業エントリは、TFS を**親 OEM の製造・戦略視点**から見るために存在する。すなわち、Toyota が世界最大級の自動車キャプティブ金融を使って、販売チャネル、残価リスク、モビリティサービスをどう制御しているかを扱う。親 OEM については [[manufacturer-finance/toyota-motor|Toyota Motor]]、同業の産業コングロマリット金融部門については [[manufacturer-finance/hitachi-industrial-finance-platform|Hitachi 産業金融]]、[[manufacturer-finance/panasonic-captive-finance|Panasonic 顧客金融]]、[[manufacturer-finance/sony-group-finance-arm|Sony FG]]、[[manufacturer-finance/mitsubishi-heavy-export-finance|MHI 輸出金融]] と照らして読む。証券化レイヤーについては [[structured-finance/auto-loan-abs-japan-toyota-honda|Japan auto-loan ABS]]、より広い規制境界については [[JapanFG/INDEX|JapanFG index]] と組み合わせる。
 
 ## 要約
 
-トヨタファイナンシャルサービス (TFS) は **世界最大級の自動車キャプティブ金融**。トヨタ自動車 100% 子会社として、米州 (Toyota Motor Credit Corporation = TMCC)・欧州 (Toyota Kreditbank GmbH)・国内 ([[JapanFG/toyota-finance|トヨタファイナンス]])・新興国の 30+ ヵ国で **自動車ローン・リース・保険・カード・モビリティ金融** をワンストップで展開する。FinWiki manufacturing アンカーとしては、**(1) Toyota Motor (7203) が金融を本体外に持つ意味、(2) 残価リスク (RV) を OEM 本体ではなく captive 側に集約する設計、(3) 世界市場でのオート ABS 発行体としての規模 ([[structured-finance/auto-loan-abs-japan-toyota-honda|Japan auto-loan ABS]] と接続)、(4) BEV / コネクテッド・モビリティ時代の captive のリポジショニング** の 4 つを軸に読む。Ford Motor Credit、Ally Financial、GM Financial と並び世界の auto captive finance トップティアの一角。
+トヨタファイナンシャルサービス (TFS) は **世界最大級の自動車キャプティブ金融**。トヨタ自動車 100% 子会社として、米州 (Toyota Motor Credit Corporation = TMCC)・欧州 (Toyota Kreditbank GmbH)・国内 ([[card-issuers/toyota-finance|トヨタファイナンス]])・新興国の 30+ ヵ国で **自動車ローン・リース・保険・カード・モビリティ金融** をワンストップで展開する。FinWiki manufacturing アンカーとしては、**(1) Toyota Motor (7203) が金融を本体外に持つ意味、(2) 残価リスク (RV) を OEM 本体ではなく captive 側に集約する設計、(3) 世界市場でのオート ABS 発行体としての規模 ([[structured-finance/auto-loan-abs-japan-toyota-honda|Japan auto-loan ABS]] と接続)、(4) BEV / コネクテッド・モビリティ時代の captive のリポジショニング** の 4 つを軸に読む。Ford Motor Credit、Ally Financial、GM Financial と並び世界の auto captive finance トップティアの一角。
 
 ## 1. 会社構造と製造業視点
 
@@ -29,7 +29,7 @@ translated_at: 2026-06-02T16:33:58.525Z
 | 連結総資産 | 約 30 兆円規模 (推計、TMCC + 各国 captive の合計) |
 | FY2024 金融セグメント営業収益 | 約 3 兆円規模 (Toyota Motor 連結セグメント) |
 | FY2024 金融セグメント営業利益 | 約 4,000 億円規模 (同上) |
-| 主要子会社 | TMCC (米州), Toyota Kreditbank (欧州), [[JapanFG/toyota-finance|TF (国内)]], 各国 TFS 法人 |
+| 主要子会社 | TMCC (米州), Toyota Kreditbank (欧州), [[card-issuers/toyota-finance|TF (国内)]], 各国 TFS 法人 |
 
 ### 製造業視点のグループ構造
 
@@ -41,7 +41,7 @@ Toyota Motor Corporation (7203, 製造業本体)
         ├── 米州: Toyota Financial Services Americas → TMCC (Toyota Motor Credit Corp., 1988-)
         │     └── 米国最大級自動車金融、Ford Motor Credit / Ally / GM Financial と並ぶ
         ├── 欧州: Toyota Kreditbank GmbH (ドイツ拠点)
-        ├── 国内: [[JapanFG/toyota-finance|トヨタファイナンス (TF)]] + TS キュービックカード
+        ├── 国内: [[card-issuers/toyota-finance|トヨタファイナンス (TF)]] + TS キュービックカード
         ├── 保険: Toyota Insurance Management Solutions 等
         └── 30+ ヵ国の各国 TFS 法人
 ```
@@ -79,7 +79,7 @@ TFS は世界最大級の auto-loan / auto-lease ABS 発行体の一つ。米国
 | TFS 連結総資産 | 約 30 兆円規模 (推計) | 親会社セグメント・各国法人開示 |
 | 世界展開国 | 30+ ヵ国 | TFS 公式 |
 | 主要競合 (米国) | Ford Motor Credit, Ally Financial, GM Financial | 業界レポート |
-| 主要競合 (国内) | 日産 NMAC, ホンダファイナンス, [[JapanFG/mitsubishi-hc-capital|三菱HCキャピタル]], [[JapanFG/orix-corp|オリックス]] | 業界レポート |
+| 主要競合 (国内) | 日産 NMAC, ホンダファイナンス, [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]], [[leasing-firms/orix-corp|オリックス]] | 業界レポート |
 | 残価設定型ローン比率 | 国内・米国で過半数規模 | 業界推計 |
 
 > KPI は Toyota Motor 「Annual Report / Integrated Report」「決算短信」「金融事業セグメント」開示および TMCC SEC filing (Form 10-K) ・各国 TFS 法人開示から概算。TFS 単独の連結 IR は限定的で、親会社開示と各国法人開示の組合せが必要。
@@ -108,9 +108,9 @@ TFS は世界最大級の auto-loan / auto-lease ABS 発行体の一つ。米国
 ## 関連項目
 
 - [[manufacturer-finance/toyota-motor|Toyota Motor]] (親会社)
-- [[JapanFG/toyota-financial|Toyota Financial Services (JapanFG)]] · [[JapanFG/toyota-finance|トヨタファイナンス]] · [[JapanFG/toyota-tsusho-finance|豊田通商ファイナンス]]
+- [[leasing-firms/toyota-financial|Toyota Financial Services (JapanFG)]] · [[card-issuers/toyota-finance|トヨタファイナンス]] · [[trading-company-finance/toyota-tsusho-finance|豊田通商ファイナンス]]
 - [[structured-finance/auto-loan-abs-japan-toyota-honda|Japan auto-loan ABS]]
-- [[JapanFG/mitsubishi-hc-capital|三菱HCキャピタル]] · [[JapanFG/orix-corp|オリックス]] · [[JapanFG/tokyo-century|東京センチュリー]] · [[JapanFG/mufg|MUFG]] · [[JapanFG/smfg|SMFG]] · [[JapanFG/mizuho-fg|みずほ FG]]
+- [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]] · [[leasing-firms/orix-corp|オリックス]] · [[leasing-firms/tokyo-century|東京センチュリー]] · [[megabanks/mufg|MUFG]] · [[megabanks/smfg|SMFG]] · [[megabanks/mizuho-fg|みずほ FG]]
 - [[manufacturer-finance/hitachi-industrial-finance-platform|Hitachi 産業金融]] · [[manufacturer-finance/panasonic-captive-finance|Panasonic 顧客金融]] · [[manufacturer-finance/sony-group-finance-arm|Sony FG]] · [[manufacturer-finance/mitsubishi-heavy-export-finance|MHI 輸出金融]]
 - [[manufacturer-finance/INDEX|manufacturing INDEX]] · [[JapanFG/INDEX|JapanFG INDEX]] · [[INDEX|FinWiki index]]
 

@@ -41,7 +41,7 @@ translated_at: 2026-06-02T12:19:04.203Z
 
 ## 投資家含意
 
-- **日本 CEX 業界直接 exposure**: Monex Group / SBI HD / GMO Internet Group / CNCK / JN グループが主要ルート。親会社プロファイルは [[JapanFG/monex-group|Monex Group]] · [[JapanFG/sbi-hd|SBI HD]] · [[JapanFG/gmo-financial-hd|GMO Financial HD]] · [[JapanFG/bitflyer|bitFlyer Holdings]] を併読。
+- **日本 CEX 業界直接 exposure**: Monex Group / SBI HD / GMO Internet Group / CNCK / JN グループが主要ルート。親会社プロファイルは [[securities-firms/monex-group|Monex Group]] · [[megabanks/sbi-hd|SBI HD]] · [[payment-firms/gmo-financial-hd|GMO Financial HD]] · [[payment-firms/bitflyer|bitFlyer Holdings]] を併読。
 - **機関配分**: 大手金融 conglomerate 経由 (Monex / SBI / 野村) が現実的。専業上場は CNCK のみ。
 - **撤退/縮小 (反例)**: マネパG 上場廃止, LINE Xenesis 終了, DMM Bitcoin 廃業 — 専業独立は資本市場で持続困難。参照: [[exchanges/jp-vasp-ma-consolidation-history]]。
 

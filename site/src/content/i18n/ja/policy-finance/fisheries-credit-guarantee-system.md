@@ -10,7 +10,7 @@ translated_at: 2026-06-03T00:53:08.307Z
 
 # 日本の漁業信用保証制度
 ## ウィキ上の位置づけ
-この項目は [[policy-finance/INDEX|policy-finance index]] の下にあります。中小企業側の対比は [[policy-finance/japan-credit-guarantee-system|Japan credit guarantee system]]、姉妹セクター (同じ JAFFIC 親会社) は [[policy-finance/agriculture-credit-guarantee-system|agriculture credit guarantee system]]、より広範な公的信用境界線は [[policy-finance/japan-policy-finance-system|Japan policy finance system]] と対比して読み取ってください。漁業預貸先は[[banking/jf-marine-bank-system-japan|JF Marine Bank system]]、協同組合頂点は[[JapanFG/norinchukin|Norinchukin]]（農林漁協共同）です。
+この項目は [[policy-finance/INDEX|policy-finance index]] の下にあります。中小企業側の対比は [[policy-finance/japan-credit-guarantee-system|Japan credit guarantee system]]、姉妹セクター (同じ JAFFIC 親会社) は [[policy-finance/agriculture-credit-guarantee-system|agriculture credit guarantee system]]、より広範な公的信用境界線は [[policy-finance/japan-policy-finance-system|Japan policy finance system]] と対比して読み取ってください。漁業預貸先は[[banking/jf-marine-bank-system-japan|JF Marine Bank system]]、協同組合頂点は[[cooperative-banks/norinchukin|Norinchukin]]（農林漁協共同）です。
 ## 要約
 日本の漁業信用保証制度（漁業信用保証保険制度）は、二層構造を通じて中小漁業者の信用を補っています: (1) 都道府県および広域レベルの **信用基金協会** (漁業信用基金協会) は、融資機関に対する漁業の借り手の債務を保証し、**全国漁業信用基金協会連合会**を全国連合として、全国レベルの機関 (2) によって再保険されています。 **独立行政法人農林漁業信用基金** (JAFFIC) 漁業信用保険事業。この制度は[[policy-finance/agriculture-credit-guarantee-system|agriculture credit guarantee system]]と類似しているが、融資対象者が漁船ファイナンス、養殖業、水産加工業など分野別であり、地理的には北海道、九州（長崎・鹿児島）、東北太平洋岸、三陸沿岸など日本の沿岸部に集中しており、保証額の大部分を占めている。
 ## 1。 系統金融との位置関係 (漁業バリアント)
@@ -20,7 +20,7 @@ translated_at: 2026-06-03T00:53:08.307Z
 | 漁業者 / 漁業法人 / 加工業者 | 借入者（漁業者、水産法人、養殖業者、水産加工業者、対象協同組合）。 | システムルートはこちら |
 | 単位漁協 (JF / 単漁協) | 第一次漁業協同組合。会員の預金を受け取ります。漁業関連項目の信用を拡大する。水揚げ港物流と魚市場機能を運営。 | [[banking/jf-marine-bank-system-japan]] |
 | 信漁連 (都道府県信用漁業協同組合連合会) | 県信用漁業協同組合連合会。 | [[banking/jf-marine-bank-system-japan]] |
-| 農林中央金庫（農林中央金庫） | JA / 信連 / JF / 信漁連 / 森連協同組合の全国頂点銀行。農林漁業協同組合と連携して事業を行っています。 | [[JapanFG/norinchukin]] |
+| 農林中央金庫（農林中央金庫） | JA / 信連 / JF / 信漁連 / 森連協同組合の全国頂点銀行。農林漁業協同組合と連携して事業を行っています。 | [[cooperative-banks/norinchukin]] |
 | 漁業信用基金協会 | 漁業融資の都道府県・地域保証機関。デフォルト時に代位を実行します。 | このページ |
 | 全国漁業信用基金協会連合会 | 全国漁業信用基金協会連合会。 | このページ |
 | 独立行政法人農林漁業信用基金（JAFFIC） | 国家レベルの信用保険/再保険機関。 JAFFIC の親は農業システムと同じです。 | このページ |
@@ -97,7 +97,7 @@ translated_at: 2026-06-03T00:53:08.307Z
 - **農業ではありません** — 農業保証保険は [[policy-finance/agriculture-credit-guarantee-system]] (姉妹部門、同じ JAFFIC 親会社) に属します。
 - **通常の中小企業保証ではありません** — 通常の中小企業保証は [[policy-finance/japan-credit-guarantee-system]] に属します。
 - **森林（林業）ではありません** — 森林信用サポートも JAFFIC の下にありますが、別のアカウントです。
-- **JFC 漁業融資ではありません** — JFC の [[JapanFG/jfc|agriculture-forestry-fisheries arm]] が直接融資します。漁業融資保証保険についてのページです。
+- **JFC 漁業融資ではありません** — JFC の [[financial-regulators/jfc|agriculture-forestry-fisheries arm]] が直接融資します。漁業融資保証保険についてのページです。
 ## 関連項目項目
 - [[policy-finance/INDEX]]
 - [[policy-finance/japan-policy-finance-system]]
@@ -106,8 +106,8 @@ translated_at: 2026-06-03T00:53:08.307Z
 - [[policy-finance/national-federation-credit-guarantee-corporations]]
 - [[banking/jf-marine-bank-system-japan]]
 - [[banking/ja-bank-system-japan]]
-- [[JapanFG/norinchukin]]
-- [[JapanFG/jfc]]
+- [[cooperative-banks/norinchukin]]
+- [[financial-regulators/jfc]]
 - [[policy-finance/hokkaido-credit-guarantee-corp]]
 - [[INDEX|FinWiki index]]
 ## 出典

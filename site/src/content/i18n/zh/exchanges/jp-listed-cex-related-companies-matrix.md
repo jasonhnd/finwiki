@@ -41,7 +41,7 @@ translated_at: 2026-05-31T06:16:15.655Z
 
 ## 投资者含义
 
-- **日本 CEX 行业直接敞口**: Monex Group / SBI HD / GMO Internet Group / CNCK / JN Group 为主要途径。母公司概况参见 [[JapanFG/monex-group|Monex Group]] · [[JapanFG/sbi-hd|SBI HD]] · [[JapanFG/gmo-financial-hd|GMO Financial HD]] · [[JapanFG/bitflyer|bitFlyer Holdings]]。
+- **日本 CEX 行业直接敞口**: Monex Group / SBI HD / GMO Internet Group / CNCK / JN Group 为主要途径。母公司概况参见 [[securities-firms/monex-group|Monex Group]] · [[megabanks/sbi-hd|SBI HD]] · [[payment-firms/gmo-financial-hd|GMO Financial HD]] · [[payment-firms/bitflyer|bitFlyer Holdings]]。
 - **机构配置**: 经大型金融集团（Monex / SBI / 野村）为现实路径。专业上市仅 CNCK。
 - **退出/收缩（反例）**: Money Partners G 退市，LINE Xenesis 结束，DMM Bitcoin 停业 — 专业独立路线难以在资本市场持续。参照: [[exchanges/jp-vasp-ma-consolidation-history]]。
 

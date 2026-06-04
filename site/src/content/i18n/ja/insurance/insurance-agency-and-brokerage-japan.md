@@ -14,7 +14,7 @@ translated_at: 2026-06-02T14:01:20.906Z
 
 日本の保険流通は、権限と責任によって整理される。保険会社、保険代理店 / 募集人、保険仲立人、銀行窓口、小売業者、プラットフォームアプリ、比較サイトはいずれも顧客導線に関与しうるが、同じ法的役割を担うわけではない。
 
-このページは [[JapanFG/legal-financial-licenses/insurance-license-and-solvency|insurance license and solvency route]]、[[insurance/life-insurance-channel-mix|life-insurance channel mix]]、[[insurance/japan-life-insurance-big-four|Japan life insurance big four]]、[[insurance/japan-nonlife-big-three|Japan non-life big three]]、[[JapanFG/tokio-marine-nichido-fire|Tokio Marine & Nichido Fire]]、[[JapanFG/mitsui-sumitomo-insurance|Mitsui Sumitomo Insurance]]、[[JapanFG/sompo-japan-insurance|Sompo Japan Insurance]]、[[JapanFG/lifenet|Lifenet]]、[[JapanFG/sony-insurance|Sony Insurance]] とあわせて使う。
+このページは [[financial-licenses/insurance-license-and-solvency|insurance license and solvency route]]、[[insurance/life-insurance-channel-mix|life-insurance channel mix]]、[[insurance/japan-life-insurance-big-four|Japan life insurance big four]]、[[insurance/japan-nonlife-big-three|Japan non-life big three]]、[[non-life-insurers/tokio-marine-nichido-fire|Tokio Marine & Nichido Fire]]、[[non-life-insurers/mitsui-sumitomo-insurance|Mitsui Sumitomo Insurance]]、[[non-life-insurers/sompo-japan-insurance|Sompo Japan Insurance]]、[[life-insurers/lifenet|Lifenet]]、[[non-life-insurers/sony-insurance|Sony Insurance]] とあわせて使う。
 
 ## 流通上の役割マップ
 
@@ -75,15 +75,15 @@ FinWiki の複数領域が、すでに保険流通に関係している。
 ## 関連
 
 - [[insurance/INDEX]]
-- [[JapanFG/legal-financial-licenses/insurance-license-and-solvency]]
+- [[financial-licenses/insurance-license-and-solvency]]
 - [[insurance/life-insurance-channel-mix]]
 - [[insurance/internet-life-insurance-business-model]]
 - [[insurance/japan-life-insurance-big-four]]
 - [[insurance/japan-nonlife-big-three]]
-- [[JapanFG/lifenet]]
-- [[JapanFG/sony-insurance]]
-- [[JapanFG/tokio-marine-nichido-fire]]
-- [[JapanFG/sompo-japan-insurance]]
+- [[life-insurers/lifenet]]
+- [[non-life-insurers/sony-insurance]]
+- [[non-life-insurers/tokio-marine-nichido-fire]]
+- [[non-life-insurers/sompo-japan-insurance]]
 - [[INDEX|FinWiki index]]
 
 ## 出典

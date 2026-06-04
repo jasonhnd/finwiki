@@ -86,8 +86,8 @@ translated_at: 2026-06-02T13:21:55.049Z
 | 陣営 | §501 リスト入り後の地位 | 評価 |
 |---|---|---|
 | **SBI Circle Holdings** | クロスボーダー・コンプラ覇者(USDC ↔ JPYC 唯一の登録チャネル) | ★★★★★ |
-| **[[JapanFG/jpyc|JPYC]](岡部典孝)** | 日本リテール・コンプラ第 1 位 | ★★★★ |
-| **[[JapanFG/progmat|Progmat]](三大銀行)** | 日本 B2B 大口、**クロスボーダー・コンプラ・チャネルなし** | ★★★ |
+| **[[payment-firms/jpyc|JPYC]](岡部典孝)** | 日本リテール・コンプラ第 1 位 | ★★★★ |
+| **[[payment-firms/progmat|Progmat]](三大銀行)** | 日本 B2B 大口、**クロスボーダー・コンプラ・チャネルなし** | ★★★ |
 | **みんなの銀行 / Solana** | 純国内リテール、Solana は §501 ルート外 | ★★ |
 
 詳細な 4 陣営比較は [[fintech/japan-epi-four-camps-comparison|日本 SC 四陣営比較]] を参照。

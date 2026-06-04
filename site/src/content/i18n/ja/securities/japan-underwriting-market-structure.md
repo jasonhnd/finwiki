@@ -13,7 +13,7 @@ translated_at: 2026-06-03T00:53:08.270Z
 
 日本の引受は、発行体、証券会社、投資家、取引所、開示システム、決済インフラをつなぐ資本調達の橋渡しである。主幹事・主務幹事の役割は、単なる販売網ではない。デューデリジェンス、上場準備、価格決定、ブックビルディング、シンジケート調整、投資家保護の統制も支える。
 
-このページは、[[finance/japan-ib-league-table|Japan IB league table]]、[[JapanFG/legal-financial-licenses/securities-license-stack|Japan securities license stack]]、[[securities/japan-market-infrastructure-map|Japan market infrastructure map]]、および[[JapanFG/nomura-hd|Nomura]]、[[JapanFG/daiwa-sg|Daiwa Securities Group]]、[[JapanFG/smbc-nikko|SMBC Nikko]]、[[JapanFG/mizuho-securities|Mizuho Securities]]、[[JapanFG/mufg-mums|MUMSS]]のような発行体・ブローカー各ページと併せて使う。
+このページは、[[finance/japan-ib-league-table|Japan IB league table]]、[[financial-licenses/securities-license-stack|Japan securities license stack]]、[[securities/japan-market-infrastructure-map|Japan market infrastructure map]]、および[[securities-firms/nomura-hd|Nomura]]、[[securities-firms/daiwa-sg|Daiwa Securities Group]]、[[securities-firms/smbc-nikko|SMBC Nikko]]、[[securities-firms/mizuho-securities|Mizuho Securities]]、[[securities-firms/mufg-mums|MUMSS]]のような発行体・ブローカー各ページと併せて使う。
 
 ## 機能チェーン
 
@@ -30,11 +30,11 @@ translated_at: 2026-06-03T00:53:08.270Z
 
 | 類型 | 典型的な役割 | FinWiki ページ |
 |---|---|---|
-| 独立系総合証券グループ | 大型 IPO / PO / 債券引受、リサーチ、販売、トレーディング、ウェルスチャネル。 | [[JapanFG/nomura-hd]], [[JapanFG/daiwa-sg]] |
-| メガバンク系証券会社 | コーポレートバンキング関係と証券引受・販売の組み合わせ。 | [[JapanFG/smbc-nikko]], [[JapanFG/mizuho-securities]], [[JapanFG/mufg-mums]] |
-| 外資系投資銀行 / ブローカー | クロスボーダー株式・債券、M&A、機関投資家向け販売、グローバルなセクターカバレッジ。 | [[JapanFG/goldman-sachs-japan]], [[JapanFG/jpmorgan-japan]], [[JapanFG/morgan-stanley-japan]], [[JapanFG/bnp-paribas-japan]], [[JapanFG/ubs-japan]] |
-| 中堅・地域証券会社 | 地域発行体へのアクセス、個人向け販売、副幹事的役割、地域ウェルスチャネル。 | [[JapanFG/okasan-sg]], [[JapanFG/tokai-tokyo-fh]], [[JapanFG/aizawa-sg]], [[JapanFG/iwai-cosmo-hd]] |
-| オンラインブローカーの販売参加者 | 個人向け販売と上場後の取引アクセス。フルの主幹事中核を担うことは比較的少ない。 | [[JapanFG/sbi-securities]], [[JapanFG/rakuten-securities]], [[securities/japan-online-brokerage-competition]] |
+| 独立系総合証券グループ | 大型 IPO / PO / 債券引受、リサーチ、販売、トレーディング、ウェルスチャネル。 | [[securities-firms/nomura-hd]], [[securities-firms/daiwa-sg]] |
+| メガバンク系証券会社 | コーポレートバンキング関係と証券引受・販売の組み合わせ。 | [[securities-firms/smbc-nikko]], [[securities-firms/mizuho-securities]], [[securities-firms/mufg-mums]] |
+| 外資系投資銀行 / ブローカー | クロスボーダー株式・債券、M&A、機関投資家向け販売、グローバルなセクターカバレッジ。 | [[securities-firms/goldman-sachs-japan]], [[foreign-financial-institutions/jpmorgan-japan]], [[securities-firms/morgan-stanley-japan]], [[foreign-financial-institutions/bnp-paribas-japan]], [[foreign-financial-institutions/ubs-japan]] |
+| 中堅・地域証券会社 | 地域発行体へのアクセス、個人向け販売、副幹事的役割、地域ウェルスチャネル。 | [[securities-firms/okasan-sg]], [[securities-firms/tokai-tokyo-fh]], [[securities-firms/aizawa-sg]], [[securities-firms/iwai-cosmo-hd]] |
+| オンラインブローカーの販売参加者 | 個人向け販売と上場後の取引アクセス。フルの主幹事中核を担うことは比較的少ない。 | [[securities-firms/sbi-securities]], [[securities-firms/rakuten-securities]], [[securities/japan-online-brokerage-competition]] |
 
 ## IPO / PO の読み方
 
@@ -87,17 +87,17 @@ IPO と公募・売出しを分析する際は、四つの問いを分ける。
 
 - [[securities/INDEX]]
 - [[finance/japan-ib-league-table]]
-- [[JapanFG/legal-financial-licenses/securities-license-stack]]
+- [[financial-licenses/securities-license-stack]]
 - [[securities/japan-market-infrastructure-map]]
 - [[securities/tokyo-stock-exchange]]
 - [[securities/japan-securities-clearing-corp]]
 - [[securities/japan-securities-depository-center]]
-- [[JapanFG/jsda]]
-- [[JapanFG/nomura-hd]]
-- [[JapanFG/daiwa-sg]]
-- [[JapanFG/smbc-nikko]]
-- [[JapanFG/mizuho-securities]]
-- [[JapanFG/mufg-mums]]
+- [[financial-regulators/jsda]]
+- [[securities-firms/nomura-hd]]
+- [[securities-firms/daiwa-sg]]
+- [[securities-firms/smbc-nikko]]
+- [[securities-firms/mizuho-securities]]
+- [[securities-firms/mufg-mums]]
 - [[INDEX|FinWiki index]]
 
 ## 出典

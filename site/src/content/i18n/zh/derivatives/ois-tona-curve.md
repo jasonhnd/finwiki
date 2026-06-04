@@ -74,7 +74,7 @@ OIS-TONA 与政策利率指引之间的关系是:
 - OIS 远期利率内嵌了 BoJ 在每个期限将把政策利率设定在何处的概率加权预期。
 - 观察到的 TONA 与同一视野隐含 OIS 远期之间的差异,揭示了各 MPM 之间政策预期的重新定价。
 
-政策实施层见 [[JapanFG/boj-monetary-policy]](若存在)及 [[money-market/boj-open-market-operations]];本条目涵盖衍生品表达。
+政策实施层见 [[financial-regulators/boj-monetary-policy]](若存在)及 [[money-market/boj-open-market-operations]];本条目涵盖衍生品表达。
 
 ## OIS 曲线构建
 
@@ -166,9 +166,9 @@ TONA 期货流动性正在增长,但仍小于 OTC OIS。当用户偏好交易所
 - [[securities/INDEX]]
 - [[securities/japan-market-infrastructure-map]]
 - [[securities/japan-securities-clearing-corp]]
-- [[JapanFG/mufg-bank]]
-- [[JapanFG/sumitomo-mitsui-banking-corp]]
-- [[JapanFG/mizuho-bank]]
+- [[megabanks/mufg-bank]]
+- [[megabanks/sumitomo-mitsui-banking-corp]]
+- [[megabanks/mizuho-bank]]
 - [[INDEX|FinWiki index]]
 
 ## 来源

@@ -18,7 +18,7 @@ translated_at: 2026-06-02T16:33:58.468Z
 
 公開市場操作は、マネーマーケットを制御するための日本銀行の主要な実施手段である。金融政策決定会合で決定された政策方針の下で、日銀は担保付貸付、証券の買入・売却、レポ形式のオペレーション、その他の市場操作手段を用いて、資金を供給または吸収する。
 
-FinWiki では、このページを [[JapanFG/boj-monetary-policy]] と [[money-market/japan-money-market]] の下にある実務メカニクスのレイヤーとして扱う。
+FinWiki では、このページを [[financial-regulators/boj-monetary-policy]] と [[money-market/japan-money-market]] の下にある実務メカニクスのレイヤーとして扱う。
 
 ## オペレーションの種類
 
@@ -52,10 +52,10 @@ FinWiki では、このページを [[JapanFG/boj-monetary-policy]] と [[money-
 
 以下の内部アンカーを用いる。
 
-- [[JapanFG/mufg]], [[JapanFG/smfg]], [[JapanFG/mizuho-fg]]
-- [[JapanFG/mizuho-securities]], [[JapanFG/mufg-mums]]
-- [[JapanFG/tokyo-tanshi]], [[JapanFG/central-tanshi]], [[JapanFG/ueda-yagi-tanshi]]
-- [[JapanFG/local-bond-market]]
+- [[megabanks/mufg]], [[megabanks/smfg]], [[megabanks/mizuho-fg]]
+- [[securities-firms/mizuho-securities]], [[securities-firms/mufg-mums]]
+- [[financial-regulators/tokyo-tanshi]], [[financial-regulators/central-tanshi]], [[financial-regulators/ueda-yagi-tanshi]]
+- [[financial-regulators/local-bond-market]]
 
 ## 読解チェックリスト
 
@@ -74,9 +74,9 @@ FinWiki では、このページを [[JapanFG/boj-monetary-policy]] と [[money-
 - [[money-market/INDEX|money-market INDEX]]
 - [[money-market/japan-money-market]]
 - [[money-market/call-market-structure]]
-- [[JapanFG/boj-monetary-policy]]
-- [[JapanFG/local-bond-market]]
-- [[JapanFG/legal-financial-licenses/INDEX]]
+- [[financial-regulators/boj-monetary-policy]]
+- [[financial-regulators/local-bond-market]]
+- [[financial-licenses/INDEX]]
 - [[INDEX|FinWiki index]]
 
 ## 出典

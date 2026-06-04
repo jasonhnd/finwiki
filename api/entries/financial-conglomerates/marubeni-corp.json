@@ -1,0 +1,106 @@
+{
+  "schema_version": "1.0",
+  "slug": "financial-conglomerates/marubeni-corp",
+  "source_path": "financial-conglomerates/marubeni-corp.md",
+  "url": "https://finwiki.zksc.io/financial-conglomerates/marubeni-corp",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/financial-conglomerates/marubeni-corp.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/financial-conglomerates/marubeni-corp.md",
+  "domain": "financial-conglomerates",
+  "title": "丸紅 (Marubeni Corporation)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "丸紅 (Marubeni Corporation)",
+    "aliases": [
+      "Marubeni Corporation",
+      "Marubeni",
+      "丸紅",
+      "丸紅株式会社",
+      "8002",
+      "marubeni-corp",
+      "marubeni"
+    ],
+    "domain": "financial-conglomerates",
+    "created": "2026-05-24",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
+    "review_by": "2026-11-20",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "sogo-shosha",
+      "parent-company",
+      "power",
+      "ipp",
+      "grain",
+      "food",
+      "infrastructure",
+      "agribusiness",
+      "mizuho-group"
+    ],
+    "status": "active",
+    "sources": [
+      "丸紅 (8002) 公式 IR — https://www.marubeni.com/jp/ir/",
+      "丸紅 統合報告書 — https://www.marubeni.com/jp/ir/library/annual_report/",
+      "EDINET 有価証券報告書 — https://disclosure.edinet-fsa.go.jp/ (検索: 丸紅)",
+      "JPX 銘柄情報 8002 — https://www2.jpx.co.jp/"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index as a sōgō shōsha parent holding-company. Read it against 伊藤忠商事 (戦前の同根 = 旧 丸紅伊藤忠商事、戦後 1949 分割) and 住友商事 (5 大商社中堅同士) for peer / contrast context. For the financial-services adjacency that gives this entry its JapanFG anchor — see 丸紅フィナンス (内向け CMS) and みずほリース (旧 興銀リー",
+  "headings": [
+    "丸紅 (Marubeni Corporation)",
+    "Wiki route",
+    "1. 会社概要",
+    "主要子会社・関連会社 (JapanFG 文脈)",
+    "沿革ハイライト ^[extracted]",
+    "2. 事業セグメント・マップ",
+    "3. Financial-services adjacency",
+    "5 大商社内の identity",
+    "競合",
+    "5. 規制・政策"
+  ],
+  "body_links": {
+    "wikilinks_count": 15,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "finance/INDEX",
+      "finance/japan-listed-financial-groups-investable-universe",
+      "financial-conglomerates/itochu-corp",
+      "financial-conglomerates/mitsubishi-corp",
+      "financial-conglomerates/mitsui-co",
+      "financial-conglomerates/sojitz-corp",
+      "financial-conglomerates/sumitomo-corp",
+      "financial-conglomerates/toyota-tsusho-corp",
+      "leasing-firms/mitsubishi-hc-capital",
+      "leasing-firms/mizuho-lease",
+      "leasing-firms/orix-corp",
+      "leasing-firms/tokyo-century",
+      "megabanks/mizuho-fg",
+      "trading-company-finance/marubeni-financial-services"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/finance/INDEX",
+      "https://finwiki.zksc.io/finance/japan-listed-financial-groups-investable-universe",
+      "https://finwiki.zksc.io/financial-conglomerates/itochu-corp",
+      "https://finwiki.zksc.io/financial-conglomerates/mitsubishi-corp",
+      "https://finwiki.zksc.io/financial-conglomerates/mitsui-co",
+      "https://finwiki.zksc.io/financial-conglomerates/sojitz-corp",
+      "https://finwiki.zksc.io/financial-conglomerates/sumitomo-corp",
+      "https://finwiki.zksc.io/financial-conglomerates/toyota-tsusho-corp",
+      "https://finwiki.zksc.io/leasing-firms/mitsubishi-hc-capital",
+      "https://finwiki.zksc.io/leasing-firms/mizuho-lease",
+      "https://finwiki.zksc.io/leasing-firms/orix-corp",
+      "https://finwiki.zksc.io/leasing-firms/tokyo-century",
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/trading-company-finance/marubeni-financial-services"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 5496,
+    "word_like_tokens": 881,
+    "inbound_wikilinks_count": 9,
+    "last_modified": "2026-06-04"
+  }
+}

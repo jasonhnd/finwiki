@@ -91,9 +91,9 @@ MOF 发布按投资者类型的 JGB 和 TDB 持有细分,应查阅以了解当�
 
 ## JapanFG 相关性
 
-- 大型银行 [[JapanFG/mufg]], [[JapanFG/smfg]], [[JapanFG/mizuho-fg]] 持有 TDB 用于 HQLA、抵押品和 ALM。
-- 证券公司 [[JapanFG/mizuho-securities]], [[JapanFG/mufg-mums]], [[JapanFG/nomura-hd]] 和 [[JapanFG/daiwa-sg]] 是主要交易商并运行 TDB 做市。
-- [[JapanFG/tokyo-tanshi]], [[JapanFG/central-tanshi]] 和 [[JapanFG/ueda-yagi-tanshi]] 参与相邻的短期货币市场中介。
+- 大型银行 [[megabanks/mufg]], [[megabanks/smfg]], [[megabanks/mizuho-fg]] 持有 TDB 用于 HQLA、抵押品和 ALM。
+- 证券公司 [[securities-firms/mizuho-securities]], [[securities-firms/mufg-mums]], [[securities-firms/nomura-hd]] 和 [[securities-firms/daiwa-sg]] 是主要交易商并运行 TDB 做市。
+- [[financial-regulators/tokyo-tanshi]], [[financial-regulators/central-tanshi]] 和 [[financial-regulators/ueda-yagi-tanshi]] 参与相邻的短期货币市场中介。
 
 ## 边界情况
 
@@ -112,11 +112,11 @@ MOF 发布按投资者类型的 JGB 和 TDB 持有细分,应查阅以了解当�
 - [[money-market/japan-ncd-negotiable-cd-market]]
 - [[money-market/japan-mmf-money-market-mutual-fund]]
 - [[money-market/boj-post-2024-floor-system-complementary-deposit-facility]]
-- [[JapanFG/boj-monetary-policy]]
-- [[JapanFG/local-bond-market]]
-- [[JapanFG/tokyo-tanshi]]
-- [[JapanFG/central-tanshi]]
-- [[JapanFG/ueda-yagi-tanshi]]
+- [[financial-regulators/boj-monetary-policy]]
+- [[financial-regulators/local-bond-market]]
+- [[financial-regulators/tokyo-tanshi]]
+- [[financial-regulators/central-tanshi]]
+- [[financial-regulators/ueda-yagi-tanshi]]
 - [[INDEX|FinWiki index]]
 
 ## 来源

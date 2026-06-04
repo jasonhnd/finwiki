@@ -53,37 +53,37 @@
     "wikilinks_count": 11,
     "wikilinks": [
       "INDEX",
-      "JapanFG/jpyc",
-      "JapanFG/legal-financial-licenses/INDEX",
-      "JapanFG/progmat",
+      "financial-licenses/INDEX",
       "fintech/INDEX",
       "fintech/japan-epi-three-types-overview",
       "fintech/japan-financial-regulation",
       "fintech/japan-stablecoin-regulatory-landscape",
       "fintech/jp-trust-type-sc-architecture",
       "fintech/jurisdiction-list-monetary-protectionism",
-      "fintech/three-circles-stablecoin-mra-framework"
+      "fintech/three-circles-stablecoin-mra-framework",
+      "payment-firms/jpyc",
+      "payment-firms/progmat"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/jpyc",
-      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX",
-      "https://finwiki.zksc.io/JapanFG/progmat",
+      "https://finwiki.zksc.io/financial-licenses/INDEX",
       "https://finwiki.zksc.io/fintech/INDEX",
       "https://finwiki.zksc.io/fintech/japan-epi-three-types-overview",
       "https://finwiki.zksc.io/fintech/japan-financial-regulation",
       "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
       "https://finwiki.zksc.io/fintech/jp-trust-type-sc-architecture",
       "https://finwiki.zksc.io/fintech/jurisdiction-list-monetary-protectionism",
-      "https://finwiki.zksc.io/fintech/three-circles-stablecoin-mra-framework"
+      "https://finwiki.zksc.io/fintech/three-circles-stablecoin-mra-framework",
+      "https://finwiki.zksc.io/payment-firms/jpyc",
+      "https://finwiki.zksc.io/payment-firms/progmat"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2782,
+    "nonspace_chars": 2780,
     "word_like_tokens": 518,
     "inbound_wikilinks_count": 12,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-04"
   }
 }

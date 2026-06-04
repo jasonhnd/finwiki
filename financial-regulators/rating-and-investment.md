@@ -1,0 +1,131 @@
+---
+title: 格付投資情報センター (R&I)
+aliases: ["R&I", "Rating and Investment Information, Inc.", "株式会社格付投資情報センター", "格付投資情報センター"]
+domain: financial-regulators
+created: 2026-05-25
+last_updated: 2026-05-25
+last_tended: 2026-05-25
+review_by: 2026-11-25
+confidence: likely
+tags: [JapanFG, credit-rating-agency, mizuho-related, capital-markets]
+status: active
+sources:
+  - "Wikipedia: 格付投資情報センター (2026-05-25 抽出)"
+  - "R&I 公式サイト (https://www.r-i.co.jp/, 2026-05-25 参照)"
+  - "金融庁 信用格付業者一覧 (https://www.fsa.go.jp/, 2026-05-25 参照)"
+  - "金融商品取引法 第 66 条の 27 以下"
+---
+# 格付投資情報センター (R&I)
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[financial-regulators/jcr|日本格付研究所 (JCR)]] for peer / contrast context and [[financial-regulators/fsa|金融庁]] for the broader regulatory boundary.
+
+## TL;DR
+
+日本国内系信用格付機関の **2 大プレイヤーの一角**（もう 1 社は [[financial-regulators/jcr|JCR]]）。1998-04 に **日本公社債研究所**（[[megabanks/mizuho-fg|旧 IBJ・日本興業銀行系]]）と **日本インベスターズサービス**（日経系）の統合で発足。**みずほフィナンシャルグループ関連会社**として位置付けられる（[[megabanks/mizuho-fg|みずほ FG]] が主要株主）。ソブリン / 金融機関 / 事業会社 / ストラクチャードファイナンス / 投資信託評価 等を展開。**投信評価業務（R&I Fund Information）** を併営している点が JCR との大きな差別化要因。サステナビリティファイナンス第三者意見書（SPO）市場でも主要プレイヤー。
+
+## 1. 法人構造・沿革
+
+**正式名**: 株式会社格付投資情報センター
+**英名**: Rating and Investment Information, Inc. (R&I)
+**設立**: **1998-04-01**（日本公社債研究所 + 日本インベスターズサービス 統合）
+**本社**: 東京都千代田区大手町
+**業態**: 信用格付業者（金融商品取引法 第 66 条の 27 登録）
+**主要株主**: [[megabanks/mizuho-fg|みずほフィナンシャルグループ]] 関連が中核（みずほ系）
+**主管**: [[financial-regulators/fsa|金融庁]]（信用格付業者監督）
+
+### 沿革・前身
+
+```
+1979      日本公社債研究所 設立（日本興業銀行系 = 後の [[megabanks/mizuho-fg|みずほ FG]] 源流）
+1985      日本インベスターズサービス 設立（日本経済新聞社系）
+1998-04   両者統合 → 株式会社格付投資情報センター (R&I) 発足
+```
+
+### 重要年表
+
+| 年月 | 事象 |
+|---|---|
+| 1979 | 日本公社債研究所 設立（IBJ 系 = みずほ系源流） |
+| 1985 | 日本インベスターズサービス 設立（日経系） |
+| **1998-04** | **両者統合 → R&I 発足** |
+| 2000-04 | みずほホールディングス発足 → R&I の系列関係明確化 |
+| **2010-04** | **信用格付業者登録**（金融商品取引法登録制度施行に伴い） |
+| 2013〜 | ストラクチャードファイナンス格付の透明性強化 |
+| 2017〜 | **R&I グリーンボンドアセスメント** 等 ESG 評価業務本格化 |
+| 2020〜 | コロナ局面で社債発行急増 → 格付件数増加 |
+
+## 2. 業務 map
+
+| 領域 | 内容 |
+|---|---|
+| **発行体格付** | ソブリン / 金融機関 / 事業会社 / 政府関係機関 |
+| **ストラクチャードファイナンス** | RMBS / ABS / CMBS / ABCP / PF |
+| **保険財務力格付** | 生保 / 損保 |
+| **投信評価（R&I Fund Information）** | **国内最大級の投信評価サービス** |
+| **ESG / サステナビリティ評価** | グリーン / ソーシャル / サステナビリティリンク ボンド SPO |
+| **第三者意見書** | フレームワーク準拠性意見書 |
+| **格付関連情報サービス** | データ配信・分析レポート |
+
+### 格付スケール
+
+- **長期格付**: AAA → AA+ / AA / AA- → A+ / A / A- → BBB+ / BBB / BBB- → BB 以下 → D
+- **短期格付**: a-1+ / a-1 / a-2 / a-3 / b / c / d
+- 保険財務力評価は別スケール（AAA → ... → D）
+
+### vs JCR
+
+| 項目 | R&I | [[financial-regulators/jcr|JCR]] |
+|---|---|---|
+| 設立年 | 1998（前身は 1979）| 1985 |
+| 系列 | **みずほ系** | 独立系 |
+| 投信評価 | **R&I Fund Information 併営** | なし |
+| 発行体格付件数 | 数千件規模 | 数千件規模 |
+| ストラクチャードファイナンス | 強い | 強い |
+| ESG 評価 | グリーンボンドアセスメント | サステナビリティ評価業務 |
+
+### vs グローバル 3 大（S&P / Moody's / Fitch）
+
+- 国内市場では R&I + JCR の 2 社格付が標準、国際発行体は加えて S&P or Moody's を取得するのが定石
+- ECAI（外部信用評価機関）認定済 → バーゼル基準下で銀行リスクアセット算定に利用可
+
+### 投信評価事業
+
+- **R&I Fund Information** は国内投資信託評価で最大級のプレイヤー
+- ファンドの定量・定性評価、スター格付、ベンチマーク評価等
+- 金融機関の販売現場で R&I 投信評価が広く参照される
+- 競合: モーニングスター・三菱アセット・ブレインズ等
+
+## 4. 監督・規制
+
+- **主管**: [[financial-regulators/fsa|金融庁]]
+- **根拠法**: 金融商品取引法 第 66 条の 27 以下
+- **登録**: 信用格付業者登録（みずほ系であることに関する利益相反管理が重要監督ポイント）
+- **ECAI 認定**: バーゼル基準下で適格
+- **IOSCO 行動規範準拠**
+
+### 利益相反管理の論点
+
+- みずほ系である以上、**みずほ FG グループ会社の格付における独立性確保** が継続的な監督ポイント
+- R&I はファイアーウォール（人事・情報・収益・与信判断の分離）を内規で規定
+
+## Related
+
+- [[financial-regulators/jcr|日本格付研究所 (JCR)]] · [[financial-regulators/fsa|金融庁]]
+- [[megabanks/mizuho-fg|みずほフィナンシャルグループ]] · [[megabanks/mizuho-bank|みずほ銀行]]
+- [[megabanks/mufg|MUFG]] · [[megabanks/smfg|SMFG]]
+- [[financial-regulators/japan-exchange-group|日本取引所グループ]]
+- [[JapanFG/INDEX|JapanFG index]]
+
+## Sources
+
+- **Wikipedia: 格付投資情報センター**（https://ja.wikipedia.org/wiki/格付投資情報センター, 2026-05-25 抽出）
+- **R&I 公式サイト**（https://www.r-i.co.jp/, 2026-05-25 参照）
+- **R&I Fund Information**（https://www.r-i.co.jp/rifi/, 2026-05-25 参照）
+- **金融庁 信用格付業者一覧**（https://www.fsa.go.jp/menkyo/menkyoj/kakuduke.pdf, 2026-05-25 参照）
+- 金融商品取引法（第 66 条の 27 以下）
+
+---
+
+> [!info] 校核状態

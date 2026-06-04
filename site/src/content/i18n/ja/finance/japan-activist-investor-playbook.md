@@ -18,7 +18,7 @@ translated_at: 2026-06-02T13:21:55.082Z
 
 これは、日本における株主アクティビズムとエンゲージメントを公開情報から追うためのルートマップである。銘柄選定ページではない。有用な管理チェーンは、TSE の資本コスト要請 -> コーポレートガバナンス・コード -> スチュワードシップ・コード -> EDINET 大量保有報告書 -> 株主提案権 -> 株主総会での議決権行使 -> TDnet 開示 -> 公開買付規制、という流れである。
 
-このページは [[finance/japan-tender-offer-process|Japan tender offer process]]、[[finance/cross-border-m-a-japan|cross-border M&A Japan]]、[[securities/tokyo-stock-exchange|Tokyo Stock Exchange]]、[[JapanFG/japan-exchange-group|Japan Exchange Group]]、[[JapanFG/legal-financial-licenses/securities-license-stack|securities license stack]] とあわせて使う。
+このページは [[finance/japan-tender-offer-process|Japan tender offer process]]、[[finance/cross-border-m-a-japan|cross-border M&A Japan]]、[[securities/tokyo-stock-exchange|Tokyo Stock Exchange]]、[[financial-regulators/japan-exchange-group|Japan Exchange Group]]、[[financial-licenses/securities-license-stack|securities license stack]] とあわせて使う。
 
 ## 公開プレイブックの段階
 
@@ -72,9 +72,9 @@ translated_at: 2026-06-02T13:21:55.082Z
 
 日本の金融会社に対するアクティビズムは、資本政策、上場ステータス、銀行関係、証券アドバイザーの役割、公開市場インフラに関わることが多い。
 
-- インフラ / 規制当局隣接のアンカー: [[JapanFG/japan-exchange-group|Japan Exchange Group]]、[[JapanFG/jsda|JSDA]]、[[securities/tokyo-stock-exchange|TSE]]。
-- アドバイザー / ブローカー: [[JapanFG/nomura-hd|Nomura]]、[[JapanFG/daiwa-sg|Daiwa Securities Group]]、[[JapanFG/smbc-nikko|SMBC Nikko]]、[[JapanFG/mizuho-securities|Mizuho Securities]]、[[JapanFG/goldman-sachs-japan|Goldman Sachs Japan]]、[[JapanFG/jpmorgan-japan|J.P. Morgan Japan]]、[[JapanFG/morgan-stanley-japan|Morgan Stanley Japan]]。
-- 上場会社支配と交差し得る金融 / fintech 事例: [[JapanFG/sbi-hd|SBI HD]]、[[JapanFG/sbi-shinsei-bank|SBI Shinsei Bank]]、[[JapanFG/sony-fg|Sony FG]]、[[JapanFG/wealthnavi|WealthNavi]]。
+- インフラ / 規制当局隣接のアンカー: [[financial-regulators/japan-exchange-group|Japan Exchange Group]]、[[financial-regulators/jsda|JSDA]]、[[securities/tokyo-stock-exchange|TSE]]。
+- アドバイザー / ブローカー: [[securities-firms/nomura-hd|Nomura]]、[[securities-firms/daiwa-sg|Daiwa Securities Group]]、[[securities-firms/smbc-nikko|SMBC Nikko]]、[[securities-firms/mizuho-securities|Mizuho Securities]]、[[securities-firms/goldman-sachs-japan|Goldman Sachs Japan]]、[[foreign-financial-institutions/jpmorgan-japan|J.P. Morgan Japan]]、[[securities-firms/morgan-stanley-japan|Morgan Stanley Japan]]。
+- 上場会社支配と交差し得る金融 / fintech 事例: [[megabanks/sbi-hd|SBI HD]]、[[regional-banks/sbi-shinsei-bank|SBI Shinsei Bank]]、[[megabanks/sony-fg|Sony FG]]、[[payment-firms/wealthnavi|WealthNavi]]。
 
 ## レッドフラッグ / 注意点
 
@@ -103,9 +103,9 @@ translated_at: 2026-06-02T13:21:55.082Z
 - [[finance/japan-ib-league-table]]
 - [[securities/tokyo-stock-exchange]]
 - [[securities/japan-underwriting-market-structure]]
-- [[JapanFG/japan-exchange-group]]
-- [[JapanFG/legal-financial-licenses/securities-license-stack]]
-- [[JapanFG/sbi-hd]]
+- [[financial-regulators/japan-exchange-group]]
+- [[financial-licenses/securities-license-stack]]
+- [[megabanks/sbi-hd]]
 - [[INDEX|FinWiki index]]
 
 ## 出典

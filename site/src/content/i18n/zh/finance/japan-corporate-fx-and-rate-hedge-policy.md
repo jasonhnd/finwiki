@@ -16,7 +16,7 @@ This page sits under [[finance/INDEX|finance domain]]. Read it with [[finance/ja
 
 ## TL;DR
 
-日本上市企业实行涵盖外汇风险（日元敞口对美元、欧元、人民币等）、利率风险（浮动利率债务及掉期敞口）和大宗商品风险（能源、金属、农产品）的正式对冲政策。对冲比率决策取决于董事会批准的对冲政策、敞口期限结构、IFRS 9 / 日本会计准则下的套期保值会计资格、衍生品成本与自然对冲可用性，以及嵌入式衍生品考量。主要综合商社（[[JapanFG/mitsubishi-corp|Mitsubishi Corp]]、[[JapanFG/mitsui-co|Mitsui & Co]]、[[JapanFG/itochu-corp|Itochu Corp]]）和大型制造商运营复杂的多货币多商品对冲计划。三大城市银行（[[JapanFG/mufg|MUFG]]、[[JapanFG/smfg|SMFG]]、[[JapanFG/mizuho-fg|Mizuho FG]]）是主要的对冲交易对手方。
+日本上市企业实行涵盖外汇风险（日元敞口对美元、欧元、人民币等）、利率风险（浮动利率债务及掉期敞口）和大宗商品风险（能源、金属、农产品）的正式对冲政策。对冲比率决策取决于董事会批准的对冲政策、敞口期限结构、IFRS 9 / 日本会计准则下的套期保值会计资格、衍生品成本与自然对冲可用性，以及嵌入式衍生品考量。主要综合商社（[[financial-conglomerates/mitsubishi-corp|Mitsubishi Corp]]、[[financial-conglomerates/mitsui-co|Mitsui & Co]]、[[financial-conglomerates/itochu-corp|Itochu Corp]]）和大型制造商运营复杂的多货币多商品对冲计划。三大城市银行（[[megabanks/mufg|MUFG]]、[[megabanks/smfg|SMFG]]、[[megabanks/mizuho-fg|Mizuho FG]]）是主要的对冲交易对手方。
 
 ## 对冲政策框架
 
@@ -167,9 +167,9 @@ This page sits under [[finance/INDEX|finance domain]]. Read it with [[finance/ja
 
 | 集团 | 公开披露来源 |
 |---|---|
-| [[JapanFG/mitsubishi-corp|Mitsubishi Corp]] | 年度有价证券报告书；大宗商品敞口和对冲比率叙述 |
-| [[JapanFG/mitsui-co|Mitsui & Co]] | 年度有价证券报告书；能源/金属敞口 |
-| [[JapanFG/itochu-corp|Itochu Corp]] | 年度有价证券报告书；资源/非资源分部敞口 |
+| [[financial-conglomerates/mitsubishi-corp|Mitsubishi Corp]] | 年度有价证券报告书；大宗商品敞口和对冲比率叙述 |
+| [[financial-conglomerates/mitsui-co|Mitsui & Co]] | 年度有价证券报告书；能源/金属敞口 |
+| [[financial-conglomerates/itochu-corp|Itochu Corp]] | 年度有价证券报告书；资源/非资源分部敞口 |
 
 大宗商品对冲工具包括交易所上市期货（CME、ICE、TOCOM、LME、SHFE）、场外掉期、期权及通过配对买卖合约实现的实物自然对冲。
 
@@ -190,9 +190,9 @@ This page sits under [[finance/INDEX|finance domain]]. Read it with [[finance/ja
 
 | 交易对手方 | 角色 |
 |---|---|
-| [[JapanFG/mufg|MUFG]] / MUFG Bank | 日本企业主要外汇/利率掉期交易对手方 |
-| [[JapanFG/smfg|SMFG]] / SMBC | 主要外汇/利率掉期交易对手方 |
-| [[JapanFG/mizuho-fg|Mizuho FG]] / 瑞穗银行 | 主要外汇/利率掉期交易对手方 |
+| [[megabanks/mufg|MUFG]] / MUFG Bank | 日本企业主要外汇/利率掉期交易对手方 |
+| [[megabanks/smfg|SMFG]] / SMBC | 主要外汇/利率掉期交易对手方 |
+| [[megabanks/mizuho-fg|Mizuho FG]] / 瑞穗银行 | 主要外汇/利率掉期交易对手方 |
 | 信托银行（SMTB、三菱 UFJ 信托） | 专业对冲/托管/ALM |
 | 全球银行 | 跨境、奇异型、大名义本金对冲 |
 | 交易所结算 | TOCOM、JSCC、OSE 上市衍生品 |
@@ -246,13 +246,13 @@ This page sits under [[finance/INDEX|finance domain]]. Read it with [[finance/ja
 - [[finance/multi-jurisdiction-identity-tax-leverage]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[securities/japan-underwriting-market-structure]]
-- [[JapanFG/mufg]]
-- [[JapanFG/smfg]]
-- [[JapanFG/mizuho-fg]]
-- [[JapanFG/mitsubishi-corp]]
-- [[JapanFG/mitsui-co]]
-- [[JapanFG/itochu-corp]]
-- [[JapanFG/dbj]]
+- [[megabanks/mufg]]
+- [[megabanks/smfg]]
+- [[megabanks/mizuho-fg]]
+- [[financial-conglomerates/mitsubishi-corp]]
+- [[financial-conglomerates/mitsui-co]]
+- [[financial-conglomerates/itochu-corp]]
+- [[financial-regulators/dbj]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

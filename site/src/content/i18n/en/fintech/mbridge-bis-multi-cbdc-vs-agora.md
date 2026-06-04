@@ -30,7 +30,7 @@ Although mBridge and Agora both adopt permissioned DLT + BFT consensus at the te
 
 ## Origin & evolution
 
-2021 年 mBridge startup · At the same time Agora is only an ideation inside BIS. 2023-2024 年 mBridge is in MVP and Agora is still in preparation stage. 2024-04 Agora official announcement · 7 Central bank + 41 Commercial bank participation (JPM / Citi / HSBC / [[JapanFG/mufg|三菱 UFJ]] etc.). 2025-Q1-Q3 Agora first atomic settlement PoC completed · mBridge was surrounded by G7  political pressure at the same time. 2025-10 BIS announces withdrawal from mBridge operations — while continuing to promote Agora's progress. 2026-Q2 mBridge and Brazilian DREX interoperability test · Agora enters central bank expansion recruitment stage. Both projects have changed from "BIS two-track" to "technology stacks of competing 2  currency camps".
+2021 年 mBridge startup · At the same time Agora is only an ideation inside BIS. 2023-2024 年 mBridge is in MVP and Agora is still in preparation stage. 2024-04 Agora official announcement · 7 Central bank + 41 Commercial bank participation (JPM / Citi / HSBC / [[megabanks/mufg|三菱 UFJ]] etc.). 2025-Q1-Q3 Agora first atomic settlement PoC completed · mBridge was surrounded by G7  political pressure at the same time. 2025-10 BIS announces withdrawal from mBridge operations — while continuing to promote Agora's progress. 2026-Q2 mBridge and Brazilian DREX interoperability test · Agora enters central bank expansion recruitment stage. Both projects have changed from "BIS two-track" to "technology stacks of competing 2  currency camps".
 
 ## Related
 <!-- wiki-links:managed -->

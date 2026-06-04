@@ -151,7 +151,7 @@ The SPAN-based portfolio approach allows Nikkei 225 futures, options, mini, and 
 - [[exchanges/INDEX]]
 - [[banking/INDEX]]
 - [[insurance/japan-life-insurance-alm-overview]]
-- [[JapanFG/mufg-bank]]
+- [[megabanks/mufg-bank]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

@@ -66,14 +66,6 @@
     "wikilinks_count": 23,
     "wikilinks": [
       "INDEX",
-      "JapanFG/daiwa-sg",
-      "JapanFG/goldman-sachs-japan",
-      "JapanFG/mizuho-bank",
-      "JapanFG/morgan-stanley-japan",
-      "JapanFG/mufg",
-      "JapanFG/nomura-hd",
-      "JapanFG/smbc-nikko",
-      "JapanFG/sumitomo-mitsui-banking-corp",
       "banking/INDEX",
       "derivatives/INDEX",
       "derivatives/basis-trade-bond-cds-japan",
@@ -87,18 +79,18 @@
       "finance/japan-convertible-bond-mechanics",
       "finance/japan-cross-shareholding-unwinding-economics",
       "insurance/japan-life-insurance-alm-overview",
+      "megabanks/mizuho-bank",
+      "megabanks/mufg",
+      "megabanks/sumitomo-mitsui-banking-corp",
+      "securities-firms/daiwa-sg",
+      "securities-firms/goldman-sachs-japan",
+      "securities-firms/morgan-stanley-japan",
+      "securities-firms/nomura-hd",
+      "securities-firms/smbc-nikko",
       "securities/japan-prime-brokerage-and-institutional-financing"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/daiwa-sg",
-      "https://finwiki.zksc.io/JapanFG/goldman-sachs-japan",
-      "https://finwiki.zksc.io/JapanFG/mizuho-bank",
-      "https://finwiki.zksc.io/JapanFG/morgan-stanley-japan",
-      "https://finwiki.zksc.io/JapanFG/mufg",
-      "https://finwiki.zksc.io/JapanFG/nomura-hd",
-      "https://finwiki.zksc.io/JapanFG/smbc-nikko",
-      "https://finwiki.zksc.io/JapanFG/sumitomo-mitsui-banking-corp",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/derivatives/INDEX",
       "https://finwiki.zksc.io/derivatives/basis-trade-bond-cds-japan",
@@ -112,15 +104,23 @@
       "https://finwiki.zksc.io/finance/japan-convertible-bond-mechanics",
       "https://finwiki.zksc.io/finance/japan-cross-shareholding-unwinding-economics",
       "https://finwiki.zksc.io/insurance/japan-life-insurance-alm-overview",
+      "https://finwiki.zksc.io/megabanks/mizuho-bank",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/sumitomo-mitsui-banking-corp",
+      "https://finwiki.zksc.io/securities-firms/daiwa-sg",
+      "https://finwiki.zksc.io/securities-firms/goldman-sachs-japan",
+      "https://finwiki.zksc.io/securities-firms/morgan-stanley-japan",
+      "https://finwiki.zksc.io/securities-firms/nomura-hd",
+      "https://finwiki.zksc.io/securities-firms/smbc-nikko",
       "https://finwiki.zksc.io/securities/japan-prime-brokerage-and-institutional-financing"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 13573,
-    "word_like_tokens": 2147,
+    "nonspace_chars": 13701,
+    "word_like_tokens": 2159,
     "inbound_wikilinks_count": 11,
-    "last_modified": "2026-06-02"
+    "last_modified": "2026-06-04"
   }
 }

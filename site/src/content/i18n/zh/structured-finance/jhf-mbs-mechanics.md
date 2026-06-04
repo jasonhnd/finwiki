@@ -132,7 +132,7 @@ JHF 在自身 MBS 中持有首损次级权益 — 这是一种“风险共担”
 - [[structured-finance/credit-rating-methodology-jcr-r-and-i]]
 - [[policy-finance/japan-housing-finance-agency]]
 - [[policy-finance/INDEX]]
-- [[JapanFG/jfc]]
+- [[financial-regulators/jfc]]
 - [[real-estate-finance/INDEX]]
 
 ## Sources

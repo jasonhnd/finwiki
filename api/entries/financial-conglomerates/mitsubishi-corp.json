@@ -1,0 +1,106 @@
+{
+  "schema_version": "1.0",
+  "slug": "financial-conglomerates/mitsubishi-corp",
+  "source_path": "financial-conglomerates/mitsubishi-corp.md",
+  "url": "https://finwiki.zksc.io/financial-conglomerates/mitsubishi-corp",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/financial-conglomerates/mitsubishi-corp.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/financial-conglomerates/mitsubishi-corp.md",
+  "domain": "financial-conglomerates",
+  "title": "三菱商事 (Mitsubishi Corporation)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "三菱商事 (Mitsubishi Corporation)",
+    "aliases": [
+      "Mitsubishi Corporation",
+      "三菱商事",
+      "MC",
+      "8058",
+      "mitsubishi-corp",
+      "mitsubishi-shoji",
+      "三菱商事株式会社",
+      "finance/japan-trading-house-finance-arm-landscape",
+      "mitsubishi-corporation"
+    ],
+    "domain": "financial-conglomerates",
+    "created": "2026-05-24",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
+    "review_by": "2026-11-20",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "sogo-shosha",
+      "parent-company",
+      "mitsubishi-group",
+      "energy",
+      "metals",
+      "automotive",
+      "retail",
+      "finance",
+      "conglomerate"
+    ],
+    "status": "active",
+    "sources": [
+      "三菱商事 (8058) 公式 IR — https://www.mitsubishicorp.com/jp/ja/ir/",
+      "三菱商事 統合報告書 (最新版) — https://www.mitsubishicorp.com/jp/ja/ir/library/ar/",
+      "EDINET 有価証券報告書 — https://disclosure.edinet-fsa.go.jp/ (検索: 三菱商事)",
+      "JPX 銘柄情報 8058 — https://www2.jpx.co.jp/"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index as a sōgō shōsha parent holding-company (not a financial group per se, but it is the cap-table parent of multiple JapanFG-tagged finance subsidiaries). Read it against 三井物産 and 伊藤忠商事 for the closest 5 大商社 peer / contrast context. For the financial-services adjacen",
+  "headings": [
+    "三菱商事 (Mitsubishi Corporation)",
+    "Wiki route",
+    "1. 会社概要",
+    "主要子会社・関連会社 (JapanFG 文脈)",
+    "沿革ハイライト ^[extracted]",
+    "2. 事業セグメント・マップ",
+    "3. Financial-services adjacency",
+    "5 大商社ポジショニング",
+    "競合",
+    "5. 規制・政策"
+  ],
+  "body_links": {
+    "wikilinks_count": 14,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "asset-managers/mitsubishi-corp-asset-management",
+      "finance/INDEX",
+      "finance/japan-listed-financial-groups-investable-universe",
+      "financial-conglomerates/itochu-corp",
+      "financial-conglomerates/marubeni-corp",
+      "financial-conglomerates/mitsui-co",
+      "financial-conglomerates/sojitz-corp",
+      "financial-conglomerates/sumitomo-corp",
+      "financial-conglomerates/toyota-tsusho-corp",
+      "leasing-firms/mitsubishi-hc-capital",
+      "megabanks/mufg",
+      "trading-company-finance/mitsubishi-corp-finance",
+      "trust-banks/mitsubishi-ufj-trust"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/asset-managers/mitsubishi-corp-asset-management",
+      "https://finwiki.zksc.io/finance/INDEX",
+      "https://finwiki.zksc.io/finance/japan-listed-financial-groups-investable-universe",
+      "https://finwiki.zksc.io/financial-conglomerates/itochu-corp",
+      "https://finwiki.zksc.io/financial-conglomerates/marubeni-corp",
+      "https://finwiki.zksc.io/financial-conglomerates/mitsui-co",
+      "https://finwiki.zksc.io/financial-conglomerates/sojitz-corp",
+      "https://finwiki.zksc.io/financial-conglomerates/sumitomo-corp",
+      "https://finwiki.zksc.io/financial-conglomerates/toyota-tsusho-corp",
+      "https://finwiki.zksc.io/leasing-firms/mitsubishi-hc-capital",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/trading-company-finance/mitsubishi-corp-finance",
+      "https://finwiki.zksc.io/trust-banks/mitsubishi-ufj-trust"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 6151,
+    "word_like_tokens": 997,
+    "inbound_wikilinks_count": 19,
+    "last_modified": "2026-06-04"
+  }
+}

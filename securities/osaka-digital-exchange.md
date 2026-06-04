@@ -20,7 +20,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[securities/INDEX|securities index]]. Read it with [[securities/financial-instruments-business-operators-japan-index|financial instruments business operators japan index]] for adjacent context and [[JapanFG/legal-financial-licenses/INDEX|JapanFG index]] for the broader system boundary.
+This entry sits under [[securities/INDEX|securities index]]. Read it with [[securities/financial-instruments-business-operators-japan-index|financial instruments business operators japan index]] for adjacent context and [[financial-licenses/INDEX|JapanFG index]] for the broader system boundary.
 
 ## TL;DR
 
@@ -52,8 +52,8 @@ For FinWiki, ODX is the bridge between old securities market structure and token
 ODX matters because it puts three themes into one entity:
 
 - PTS competition against [[securities/tokyo-stock-exchange|TSE]] execution (peer venue: [[securities/japannext-securities|Japannext]]);
-- security-token secondary liquidity tied to [[JapanFG/progmat|Progmat]] tokenization infrastructure;
-- bank-backed digital settlement experiments coordinated with [[JapanFG/smfg|SMFG]] / [[JapanFG/nomura-hd|Nomura]] / [[JapanFG/sbi-hd|SBI HD]] shareholders.
+- security-token secondary liquidity tied to [[payment-firms/progmat|Progmat]] tokenization infrastructure;
+- bank-backed digital settlement experiments coordinated with [[megabanks/smfg|SMFG]] / [[securities-firms/nomura-hd|Nomura]] / [[megabanks/sbi-hd|SBI HD]] shareholders.
 
 It should be read together with [[fintech/jp-stablecoin-progmat|Progmat]], trust-type stablecoin design, and securities-settlement infrastructure ([[securities/japan-securities-depository-center|JASDEC]] / [[securities/japan-securities-clearing-corp|JSCC]]).
 
@@ -65,10 +65,10 @@ It should be read together with [[fintech/jp-stablecoin-progmat|Progmat]], trust
 - [[securities/japan-securities-depository-center]]
 - [[fintech/jp-stablecoin-progmat]]
 - [[fintech/jp-trust-type-sc-architecture]]
-- [[JapanFG/sbi-hd]]
-- [[JapanFG/smfg]]
-- [[JapanFG/nomura-hd]]
-- [[JapanFG/daiwa-sg]]
+- [[megabanks/sbi-hd]]
+- [[megabanks/smfg]]
+- [[securities-firms/nomura-hd]]
+- [[securities-firms/daiwa-sg]]
 
 ## Sources
 

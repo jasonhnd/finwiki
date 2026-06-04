@@ -31,7 +31,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[loyalty/INDEX|loyalty index]] as the **post-2024-04-22 operational detail page** for the T-Point + V-Point unification, complementing the strategic [[loyalty/v-point-smbc-ccc-case|V Point (SMBC × CCC) bank-led common-point case]] entry that documents the structural framing. Read with [[loyalty/japan-points-landscape|Japan points and loyalty landscape]] for the ecosystem map, [[loyalty/point-liability-accounting-boundary|point liability accounting boundary]] for the IFRS 15 / ASBJ 29 liability-transfer mechanics, [[loyalty/d-point-detailed-ecosystem|d Point detailed ecosystem]] for the telco-anchored peer, [[loyalty/sb-yahoo-paypay-points-unified-ecosystem|SoftBank / Yahoo / PayPay points unified ecosystem]] for the wallet-anchored peer, [[loyalty/ponta-points-deep-dive|Ponta points deep dive]] for the third coalition model, [[JapanFG/smfg|SMFG]] for the parent financial-holding context, and [[JapanFG/smbc-card|SMBC Card (SMCC)]] for the issuing-card entity.
+This entry sits under [[loyalty/INDEX|loyalty index]] as the **post-2024-04-22 operational detail page** for the T-Point + V-Point unification, complementing the strategic [[loyalty/v-point-smbc-ccc-case|V Point (SMBC × CCC) bank-led common-point case]] entry that documents the structural framing. Read with [[loyalty/japan-points-landscape|Japan points and loyalty landscape]] for the ecosystem map, [[loyalty/point-liability-accounting-boundary|point liability accounting boundary]] for the IFRS 15 / ASBJ 29 liability-transfer mechanics, [[loyalty/d-point-detailed-ecosystem|d Point detailed ecosystem]] for the telco-anchored peer, [[loyalty/sb-yahoo-paypay-points-unified-ecosystem|SoftBank / Yahoo / PayPay points unified ecosystem]] for the wallet-anchored peer, [[loyalty/ponta-points-deep-dive|Ponta points deep dive]] for the third coalition model, [[megabanks/smfg|SMFG]] for the parent financial-holding context, and [[card-issuers/smbc-card|SMBC Card (SMCC)]] for the issuing-card entity.
 
 ## TL;DR
 
@@ -145,12 +145,12 @@ The strategic intent is to make V-Point a **near-cash investment funding currenc
 - [[loyalty/d-point-au-kddi-docomo-telco-point-consolidation|d Point / au telco-point consolidation case]]
 - [[loyalty/ponta-points-deep-dive|Ponta points deep dive]]
 - [[loyalty/sb-yahoo-paypay-points-unified-ecosystem|SB/Yahoo/PayPay unified points]]
-- [[JapanFG/smfg|SMFG]]
-- [[JapanFG/smbc-card|SMBC Card / SMCC]]
-- [[JapanFG/paypay|PayPay]]
-- [[JapanFG/paypay-fg|PayPay FG]]
-- [[JapanFG/rakuten-fg|Rakuten FG]]
-- [[JapanFG/ndfg|NDFG]]
+- [[megabanks/smfg|SMFG]]
+- [[card-issuers/smbc-card|SMBC Card / SMCC]]
+- [[payment-firms/paypay|PayPay]]
+- [[megabanks/paypay-fg|PayPay FG]]
+- [[payment-firms/rakuten-fg|Rakuten FG]]
+- [[megabanks/ndfg|NDFG]]
 - [[payments/japan-code-payment-operator-2025-market-share-matrix|Japan code-payment operator 2025 market share matrix]]
 - [[payments/cashless-jp-landscape|Japan cashless payment landscape]]
 - [[retail/INDEX|retail index]]

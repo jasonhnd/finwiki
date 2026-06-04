@@ -12,7 +12,7 @@ translated_at: 2026-05-31T03:19:56.362Z
 
 ## TL;DR
 
-Japan's retail FX margin trading market (FX 証拠金取引) is among the largest in the world by turnover. It is structured as a regulated retail brokerage product offered by licensed Type 1 Financial Instruments Business operators under FIEA, with strict conduct rules from the Financial Services Agency (JFSA) and self-regulatory oversight from the Financial Futures Association of Japan (FFAJ). Individual accounts are capped at ~25x leverage; corporate (法人) accounts can go higher under different limits. Top brokers include [[JapanFG/gmo-click-securities|GMO Click Securities]], [[JapanFG/sbi-fx-trade|SBI FX Trade]], [[JapanFG/dmm-com-securities|DMM.com Securities]], [[JapanFG/matsui-sec|Matsui Securities (Matsui FX)]], OANDA Japan, and [[JapanFG/saxo-bank-securities|Saxo Bank Securities]]. Client funds must be segregated from broker accounts (信託保全).
+Japan's retail FX margin trading market (FX 証拠金取引) is among the largest in the world by turnover. It is structured as a regulated retail brokerage product offered by licensed Type 1 Financial Instruments Business operators under FIEA, with strict conduct rules from the Financial Services Agency (JFSA) and self-regulatory oversight from the Financial Futures Association of Japan (FFAJ). Individual accounts are capped at ~25x leverage; corporate (法人) accounts can go higher under different limits. Top brokers include [[securities-firms/gmo-click-securities|GMO Click Securities]], [[securities-firms/sbi-fx-trade|SBI FX Trade]], [[securities-firms/dmm-com-securities|DMM.com Securities]], [[securities-firms/matsui-sec|Matsui Securities (Matsui FX)]], OANDA Japan, and [[securities-firms/saxo-bank-securities|Saxo Bank Securities]]. Client funds must be segregated from broker accounts (信託保全).
 
 This entry sits in the [[derivatives/INDEX|derivatives index]] as the retail-FX surface, distinct from the wholesale corporate FX covered by [[derivatives/corporate-fx-hedge-policy-japan-listed|corporate FX hedge policy at Japan listed companies]] and [[derivatives/fx-options-japan-corporate-treasury|FX options for Japan corporate treasury]].
 
@@ -78,12 +78,12 @@ Approximate FFAJ-member ranking (varies month-to-month and by metric used):
 
 | Broker | Parent | Notable |
 |---|---|---|
-| [[JapanFG/gmo-click-securities|GMO Click Securities]] | GMO Internet Group | Long-running market-share leader in trading volume; proprietary trading platform. |
-| [[JapanFG/sbi-fx-trade|SBI FX Trade]] | SBI Holdings | Aggressive spread pricing; full SBI-group cross-sell. |
-| [[JapanFG/dmm-com-securities|DMM.com Securities (DMM FX)]] | DMM.com Group | Heavy retail-marketing; large account base. |
-| [[JapanFG/matsui-sec|Matsui Securities (Matsui FX)]] | Matsui Securities | Online-securities pioneer; FX is one of several product lines. |
+| [[securities-firms/gmo-click-securities|GMO Click Securities]] | GMO Internet Group | Long-running market-share leader in trading volume; proprietary trading platform. |
+| [[securities-firms/sbi-fx-trade|SBI FX Trade]] | SBI Holdings | Aggressive spread pricing; full SBI-group cross-sell. |
+| [[securities-firms/dmm-com-securities|DMM.com Securities (DMM FX)]] | DMM.com Group | Heavy retail-marketing; large account base. |
+| [[securities-firms/matsui-sec|Matsui Securities (Matsui FX)]] | Matsui Securities | Online-securities pioneer; FX is one of several product lines. |
 | OANDA Japan | OANDA Corp (foreign-affiliated) | Global brand; tight spreads; STP routing emphasis. |
-| [[JapanFG/saxo-bank-securities|Saxo Bank Securities]] | Saxo Bank (foreign-affiliated) | Multi-asset platform; institutional-grade tools for retail. |
+| [[securities-firms/saxo-bank-securities|Saxo Bank Securities]] | Saxo Bank (foreign-affiliated) | Multi-asset platform; institutional-grade tools for retail. |
 
 Other meaningful players include Hirose-tusyo (LION FX), Gaitame.com, Money Partners, External Securities, Rakuten Securities, and Monex. The market is consolidated at the top but the long tail of mid-sized brokers remains meaningful.
 
@@ -208,11 +208,11 @@ These features make regulated Japan retail FX more administratively friendly tha
 - [[derivatives/japan-interest-rate-derivatives-overview]]
 - [[money-market/japan-money-market]]
 - [[money-market/INDEX]]
-- [[JapanFG/gmo-click-securities]]
-- [[JapanFG/sbi-fx-trade]]
-- [[JapanFG/dmm-com-securities]]
-- [[JapanFG/matsui-sec]]
-- [[JapanFG/saxo-bank-securities]]
+- [[securities-firms/gmo-click-securities]]
+- [[securities-firms/sbi-fx-trade]]
+- [[securities-firms/dmm-com-securities]]
+- [[securities-firms/matsui-sec]]
+- [[securities-firms/saxo-bank-securities]]
 
 ## Sources
 

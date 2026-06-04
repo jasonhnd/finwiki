@@ -45,7 +45,7 @@ translated_at: 2026-06-02T16:33:58.519Z
 ## 楽器2 — Collateralized call money (有担保コール)
 
 - **法的な形式 / 市場。** 適格担保 (JGB、その他の公共部門の書類) に対する担保付銀行間融資。無担保コールから市場セグメントを分離します。
-- **発行者種別。** 無担保コールと同じ銀行・金融機関が中心で、協同組織金融の中央機関（[[JapanFG/norinchukin|農林中央金庫]]、[[JapanFG/shinkin-central|信金中央金庫]]）も活動する。
+- **発行者種別。** 無担保コールと同じ銀行・金融機関が中心で、協同組織金融の中央機関（[[cooperative-banks/norinchukin|農林中央金庫]]、[[cooperative-banks/shinkin-central|信金中央金庫]]）も活動する。
 - **期間範囲。** O/N が支配的で、一定期間の活動を伴います。無担保レーンより密度が低い。
 - **最小ロット。** ¥100 100 万の慣例で、より大きなサイズが一般的です。
 - **決済。** 日銀ネット経由の即日資金。標準化された保管取り決めを通じて差し入れられた担保。
@@ -64,7 +64,7 @@ translated_at: 2026-06-02T16:33:58.519Z
 - **決済。** T+0 /T+1 慣例に応じて。日銀ネット国債サービスを通じて国債の受け渡しを決済し、日銀ネットを通じて現金決済を行います。
 - **信用リスク。** 低 — 毎日の時価評価とヘアカットを伴う国債によって担保されています。担保残余に対するカウンターパーティリスク。
 - **日銀担保適格性。** GC レポは日銀預金商品ではありませんが、基礎となる国債担保は非常に低いヘアカットで日銀適格です。
-- **参加者。** メガバンクの財務金融機関、証券会社のファイナンシングデスク、信託銀行、現金貸し手としての生命保険会社、借り手としての外国銀行およびヘッジファンド、[[JapanFG/japan-securities-finance|JSF]]短資に隣接する仲介業者が仲介します。
+- **参加者。** メガバンクの財務金融機関、証券会社のファイナンシングデスク、信託銀行、現金貸し手としての生命保険会社、借り手としての外国銀行およびヘッジファンド、[[financial-regulators/japan-securities-finance|JSF]]短資に隣接する仲介業者が仲介します。
 - **残高・規模。** ストックで見れば日本最大の単一短期資金調達市場であり、公表される BoJ / JSDA ベースの日次売買高は数十兆円規模である。
 - **役職-2024 ** GC レポ (T/N) は、国債の担保が豊富に供給されている場合には政策金利バランスの下限をわずかに下回って取引されますが、担保が不足している場合にはわずかに上回ります。 GC レポレートは、無担保コールを補う正規の安全ショートレートベンチマークです。
 
@@ -101,7 +101,7 @@ translated_at: 2026-06-02T16:33:58.519Z
 - **期間範囲。**1 月から1 典型的な年で、集中しているのは3M /6M;一部の NCD は数年にわたる長期のものもあります。
 - **最小ロット。** Wholesale ¥100 典型的な発行額は 100 万件。大規模な機関投資家は、はるかに大きなチケットを受け取ります。
 - **決済。** T+1 /T+2 典型的な; JASDEC ではなく、銀行間協定による決済。
-- **信用リスク。** Issuing bank's senior unsecured credit; covered by[[JapanFG/yokin-hoken-kiko|DICJ]]預金保険基準限度額（円）まで10 百万の元金と利息）、したがってホールセールNCDはDICJを超えた発行者の信用に依存しています。
+- **信用リスク。** Issuing bank's senior unsecured credit; covered by[[financial-regulators/yokin-hoken-kiko|DICJ]]預金保険基準限度額（円）まで10 百万の元金と利息）、したがってホールセールNCDはDICJを超えた発行者の信用に依存しています。
 - **日銀担保適格性。** 日銀担保オペレーションにとって CP ほど中心的ではありません。資格は発行者/フォームによって異なります。外国銀行支店の NCD は、国内銀行の NCD とは異なる扱いを受けます。
 - **参加者。** 銀行の財務省（発行体側）、MMF / MRF、企業の財務省、外国の現金投資家（発行体を意識）、集団投資スキームの信託銀行。
 - **残高・規模。** 日銀の短期金融市場統計で追跡。同様の期間の企業CPを銀行発行が補完するもの。
@@ -129,7 +129,7 @@ translated_at: 2026-06-02T16:33:58.519Z
 - **決済。** 日銀ネット当座預金台帳;公開された日銀 MPM 決定に従って残高に適用される金利。
 - **信用リスク。** Central-bank credit (zero by construction for yen-domestic counterparties).
 - **BoJ 担保適格性。** これは日本銀行側の制度であり、外部担保は関与しない。
-- **参加者。** 日銀ネットの直接取引相手のみ: 銀行、信託銀行、日銀口座のある外国銀行支店、協同組合金融中央機関 ([[JapanFG/norinchukin|農中]], [[JapanFG/shinkin-central|信金中央金庫]]、全信組連、労働金連）、[[money-market/tanshi-company-business-model|tanshi companies]]、日銀の取引相手として認められた証券会社。
+- **参加者。** 日銀ネットの直接取引相手のみ: 銀行、信託銀行、日銀口座のある外国銀行支店、協同組合金融中央機関 ([[cooperative-banks/norinchukin|農中]], [[cooperative-banks/shinkin-central|信金中央金庫]]、全信組連、労働金連）、[[money-market/tanshi-company-business-model|tanshi companies]]、日銀の取引相手として認められた証券会社。
 - **残高・規模。** 量的金融緩和後の日銀当座預金残高は数百兆円に達する。政策金利バランス階層は、ヘッドライン短期金利を設定します。
 - **役職-2024 下限への影響。** これは下限そのものです。このマトリックス内の他のすべての金融商品は、政策金利と残高金利を差し引いて価格設定されます。豊富な埋蔵量は、廊下の天井の拘束ではなく、床の拘束を維持します。
 
@@ -178,7 +178,7 @@ translated_at: 2026-06-02T16:33:58.519Z
 
 - **コールとレポ。** 無担保コールと有担保コールは同じコール マーケット会場にあり、担保/無担保の法的形式が異なります。 GC および SC リポジトリは[[money-market/jgb-repo-market-japan|JGB repo market]]under different legal-form conventions (現先 vs 現金担保付債券貸借). Conflation である common misreading.
 - **CP と短期債券の比較。** CP は、[[securities/japan-securities-depository-center|JASDEC]]短期社債振替制度は、社債、つまり法的には社債、運用上は短期資金として扱われます。従来社債の期間は1 年ごとに別の振替経路を使用してください。
-- **NCD と普通銀行預金。** 個人銀行預金は次の条件でカバーされます。[[JapanFG/yokin-hoken-kiko|DICJ]]円まで10 たとえどちらも銀行法に基づく銀行負債であるにもかかわらず、100万ドルとDICJの上限を超えて保有されるホールセールNCDは同じ商品ではありません。
+- **NCD と普通銀行預金。** 個人銀行預金は次の条件でカバーされます。[[financial-regulators/yokin-hoken-kiko|DICJ]]円まで10 たとえどちらも銀行法に基づく銀行負債であるにもかかわらず、100万ドルとDICJの上限を超えて保有されるホールセールNCDは同じ商品ではありません。
 - **TBill と短期 JGB。** TBill（国庫短期証券 / TDB）は、残存期間が短い利付国債とは別個の短期 JGB 商品であり、発行・決済慣行も TBill 固有である。
 - **日銀補完預金制度と準備預金制度。** 準備預金制度（準備口座認証）は別の枠組みです。補完的な預金制度は準備預金金利レールです。どちらも日銀ネット残高にタッチしますが、同じ法的手段ではありません。
 - **MRF と MMF。** MRF は毎日償還される証券口座一括手段です。 MMF はより広範な投資信託マネーファンドのカテゴリーであり、戦後円市場からはほとんど姿を消しました。2001 NAVブレイクとポスト2016 NIRP。この 2 つは一緒に分類されることが多いですが、規制の枠組みが異なります。
@@ -201,10 +201,10 @@ translated_at: 2026-06-02T16:33:58.519Z
 - [[securities/japan-securities-clearing-corp]]
 - [[banking/INDEX]]
 - [[finance/japan-corporate-treasury-and-cash-management]]
-- [[JapanFG/yokin-hoken-kiko]]
-- [[JapanFG/boj-monetary-policy]]
-- [[JapanFG/norinchukin]]
-- [[JapanFG/shinkin-central]]
+- [[financial-regulators/yokin-hoken-kiko]]
+- [[financial-regulators/boj-monetary-policy]]
+- [[cooperative-banks/norinchukin]]
+- [[cooperative-banks/shinkin-central]]
 - [[INDEX|FinWiki index]]
 
 ## 出典

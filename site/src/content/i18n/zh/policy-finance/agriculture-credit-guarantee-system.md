@@ -11,7 +11,7 @@ translated_at: 2026-06-01T03:31:12.304Z
 
 ## Wiki 路径
 
-本条目位于[[policy-finance/INDEX|policy-finance index]]下。请与[[policy-finance/japan-credit-guarantee-system|Japan credit guarantee system]]进行 SME 侧对照，与[[policy-finance/fisheries-credit-guarantee-system|fisheries credit guarantee system]]进行姊妹行业制度对照，并与[[policy-finance/japan-policy-finance-system|Japan policy finance system]]一起理解更广的公共信用边界。农户的存款与贷款对应方是[[banking/ja-bank-system-japan|JA Bank system]]，合作体系顶点是[[JapanFG/norinchukin|Norinchukin]]。
+本条目位于[[policy-finance/INDEX|policy-finance index]]下。请与[[policy-finance/japan-credit-guarantee-system|Japan credit guarantee system]]进行 SME 侧对照，与[[policy-finance/fisheries-credit-guarantee-system|fisheries credit guarantee system]]进行姊妹行业制度对照，并与[[policy-finance/japan-policy-finance-system|Japan policy finance system]]一起理解更广的公共信用边界。农户的存款与贷款对应方是[[banking/ja-bank-system-japan|JA Bank system]]，合作体系顶点是[[cooperative-banks/norinchukin|Norinchukin]]。
 
 ## TL;DR
 
@@ -26,7 +26,7 @@ translated_at: 2026-06-01T03:31:12.304Z
 | 农户 / 农业法人 | 借款人（农户、农业法人、农业从业者、农业业务）。 | 本系统页 |
 | 单位农协 (JA / 单协) | 基层合作社；吸收农户存款并提供农业与家庭信贷。 | [[banking/ja-bank-system-japan]] |
 | 信连 | 都道府县农业协同组合信用联合会；中介 JA 存款 / 贷款。 | [[banking/ja-bank-system-japan]] / prefectural-信连层 |
-| 农林中央金库 (Norinchukin) | JA / 信连 / 渔业 / 林业合作社的全国顶点银行；作为全球投资者管理合作体系剩余存款。 | [[JapanFG/norinchukin]] |
+| 农林中央金库 (Norinchukin) | JA / 信连 / 渔业 / 林业合作社的全国顶点银行；作为全球投资者管理合作体系剩余存款。 | [[cooperative-banks/norinchukin]] |
 | 农业信用基金协会 | 农业贷款的都道府县保证机构；违约后代位清偿。 | 本页 |
 | JAFFIC | 对都道府县农业和渔业保证协会提供全国信用保险 / 再保险，也提供直接融资支持。 | 本页 |
 | MAFF | 合作体系与信用保证保险制度的政策监督方。 | [[policy-finance/INDEX]] |
@@ -114,7 +114,7 @@ translated_at: 2026-06-01T03:31:12.304Z
 | 借款人 | 农户 / 农业法人 / 农业相关业务者 | SME / 小企业（广泛行业） |
 | 地方保证方 | 农业信用基金协会（47 都道府县） | 信用保证协会（51 都道府县 / 市） |
 | 全国联合会 | 全国农业信用基金协会联合会 | [[policy-finance/national-federation-credit-guarantee-corporations\|全国信用保証協会連合会 (JFG)]] |
-| 全国再保险方 | JAFFIC | [[JapanFG/jfc\|JFC]]信用保险 |
+| 全国再保险方 | JAFFIC | [[financial-regulators/jfc\|JFC]]信用保险 |
 | 监督 | MAFF | METI / 中小企业厅 |
 | 贷款伙伴 | JA / 信连 / Norinchukin / 银行 / JFC 农业部门 | 区域银行 / 信金 / 信组 / JFC |
 | 危机旗舰 | 灾害、畜产疾病、食品安全保证 | 安全网 / 危机相关（ZeroZero 2020-2022） |
@@ -128,7 +128,7 @@ translated_at: 2026-06-01T03:31:12.304Z
 - **不是 SME 保证制度**：SME 保证路由至[[policy-finance/japan-credit-guarantee-system]]。
 - **不是渔业**：渔业保证保险属于[[policy-finance/fisheries-credit-guarantee-system]]，是同一 JAFFIC 母体下的姊妹行业。
 - **不是林业**：林业信用支持也是 JAFFIC 业务，但在 MAFF 林业政策下另行路由。
-- **不是 JFC 农业贷款**：JFC 的[[JapanFG/jfc|agriculture-forestry-fisheries arm]]直接向农户贷款；本页关注农户借款的保证保险，二者在 JFC 发放被保证贷款时可能重叠。
+- **不是 JFC 农业贷款**：JFC 的[[financial-regulators/jfc|agriculture-forestry-fisheries arm]]直接向农户贷款；本页关注农户借款的保证保险，二者在 JFC 发放被保证贷款时可能重叠。
 
 ## 相关
 
@@ -139,9 +139,9 @@ translated_at: 2026-06-01T03:31:12.304Z
 - [[policy-finance/national-federation-credit-guarantee-corporations]]
 - [[banking/ja-bank-system-japan]]
 - [[banking/jf-marine-bank-system-japan]]
-- [[JapanFG/norinchukin]]
-- [[JapanFG/jfc]]
-- [[JapanFG/shoko-chukin]]
+- [[cooperative-banks/norinchukin]]
+- [[financial-regulators/jfc]]
+- [[financial-regulators/shoko-chukin]]
 - [[INDEX|FinWiki index]]
 
 ## 来源

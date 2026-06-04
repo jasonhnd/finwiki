@@ -28,7 +28,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[payments/INDEX|payments index]] as the Rakuten Edy prepaid issuer page that pairs with [[payments/prepaid-payment-instrument-issuers-japan-index|prepaid payment instrument issuers registry]] for the FSA registry view and with [[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]] for the four-class scheme comparison. Compare with retail-anchored ([[payments/waon-prepaid-aeon|WAON]] / [[payments/nanaco-prepaid-seven-i|nanaco]]) and transit-anchored ([[payments/suica-prepaid-jr-east|Suica]] / [[payments/pasmo-prepaid-tokyo-metro|PASMO]]) prepaid systems — Edy is the **platform-agnostic FeliCa prepaid** without a retail-or-rail parent anchor, which is its principal structural distinction. Corporate / group anchor is [[JapanFG/rakuten-edy|楽天Edy株式会社]] (FSA-registered third-party prepaid issuer, 法人番号 3010901038102, registered 2016-07-21 under Rakuten group); related Rakuten payment products include [[JapanFG/rakuten-card|Rakuten Card]] (credit-card co-brand with Edy auto-charge) and 楽天ペイ (code-payment app). FeliCa technology backbone: [[payments/japan-transit-prepaid-suica-pasmo-icoca-economics|FeliCa scheme architecture]].
+This entry sits under [[payments/INDEX|payments index]] as the Rakuten Edy prepaid issuer page that pairs with [[payments/prepaid-payment-instrument-issuers-japan-index|prepaid payment instrument issuers registry]] for the FSA registry view and with [[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]] for the four-class scheme comparison. Compare with retail-anchored ([[payments/waon-prepaid-aeon|WAON]] / [[payments/nanaco-prepaid-seven-i|nanaco]]) and transit-anchored ([[payments/suica-prepaid-jr-east|Suica]] / [[payments/pasmo-prepaid-tokyo-metro|PASMO]]) prepaid systems — Edy is the **platform-agnostic FeliCa prepaid** without a retail-or-rail parent anchor, which is its principal structural distinction. Corporate / group anchor is [[payment-firms/rakuten-edy|楽天Edy株式会社]] (FSA-registered third-party prepaid issuer, 法人番号 3010901038102, registered 2016-07-21 under Rakuten group); related Rakuten payment products include [[card-issuers/rakuten-card|Rakuten Card]] (credit-card co-brand with Edy auto-charge) and 楽天ペイ (code-payment app). FeliCa technology backbone: [[payments/japan-transit-prepaid-suica-pasmo-icoca-economics|FeliCa scheme architecture]].
 
 ## TL;DR
 
@@ -39,7 +39,7 @@ This entry sits under [[payments/INDEX|payments index]] as the Rakuten Edy prepa
 | Dimension | Reading |
 |---|---|
 | Operating company | 楽天Edy株式会社 (Rakuten Edy Co Ltd) |
-| Group parent | [[JapanFG/rakuten-card\|Rakuten Card]] / Rakuten Group |
+| Group parent | [[card-issuers/rakuten-card\|Rakuten Card]] / Rakuten Group |
 | FSA prepaid registration | 第三者型前払式支払手段 |
 | Corporate number | 3010901038102 |
 | FSA registration date | 2016-07-21 |
@@ -96,7 +96,7 @@ Edy's principal customer-acquisition leverage post-Rakuten-acquisition is the **
 
 | Component | Role |
 |---|---|
-| [[JapanFG/rakuten-card\|Rakuten Card]] | Credit card co-brand with Edy IC embedded; auto-charge to Edy from Rakuten Card |
+| [[card-issuers/rakuten-card\|Rakuten Card]] | Credit card co-brand with Edy IC embedded; auto-charge to Edy from Rakuten Card |
 | Edy | FeliCa prepaid spending rail |
 | Rakuten Points (楽天ポイント) | Loyalty currency earned on Edy spending (typically 0.5% base, higher on promotional periods) |
 
@@ -136,8 +136,8 @@ Rakuten Edy's strategic role:
 - [[payments/waon-nanaco-retail-prepaid-comparison]]
 - [[payments/funds-transfer-vs-prepaid-boundary]]
 - [[payments/japan-payment-scheme-economics-matrix]]
-- [[JapanFG/rakuten-edy]]
-- [[JapanFG/rakuten-card]]
+- [[payment-firms/rakuten-edy]]
+- [[card-issuers/rakuten-card]]
 - [[loyalty/japan-points-landscape]]
 - [[INDEX|FinWiki index]]
 

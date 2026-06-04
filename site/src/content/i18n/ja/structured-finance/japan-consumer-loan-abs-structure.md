@@ -11,7 +11,7 @@ translated_at: 2026-06-03T00:53:08.346Z
 
 ## 要約
 
-日本の消費者ローン ABS は、年あたり ~JPY 300–600 bn 程度の控えめな発行量で、存続している消費者金融・ショッピングクレジットのオリジネーター (MUFG 傘下の [[JapanFG/acom|Acom]]、[[JapanFG/aiful|Aiful]]、[[JapanFG/smbc-consumer-finance|SMBC Consumer Finance]]、SBI / その他の傘下にある [[JapanFG/aplus|Aplus]]、みずほ・伊藤忠系の [[JapanFG/orico|Orient Corp]]、[[JapanFG/jaccs|JACCS]]) によって組成される。プール債権の期間が短く (1–4 年)、継続的に補充されるため、**強い早期償還トリガーを備えたダイナミックプール型リボルビング構造**を用いる。この資産クラスは、貸付残高規模に応じて APR を 15–20% に制限する **利息制限法 (Interest Rate Restriction Act) の金利上限規制**の下にあり、**貸金業法 2006 改正**が業界を恒久的に再編した。存続発行体はすべて、2006 後の過払い金返還の波を経て、引受とプール構成を作り直した。シニアトランシェは通常 AAA で、劣後比率は 15–25% と深い。これは自動車ローン ABS の 6–12% よりかなり厚く、無担保プールのデフォルト変動性を反映している。**早期償還トリガー**は債券保有者の主要な防御である。累積ネット貸倒または 90日超延滞が閾値を超えると、案件はリボルビングから償還モードへ切り替わり、シニア債券保有者がすべての入金キャッシュを受け取る。格付は主に [[structured-finance/credit-rating-methodology-jcr-r-and-i|JCR and R&I]] が行う。無担保日本消費者クレジット ABS への海外需要が薄いため、グローバル格付会社との共同格付はまれである。
+日本の消費者ローン ABS は、年あたり ~JPY 300–600 bn 程度の控えめな発行量で、存続している消費者金融・ショッピングクレジットのオリジネーター (MUFG 傘下の [[consumer-finance/acom|Acom]]、[[consumer-finance/aiful|Aiful]]、[[consumer-finance/smbc-consumer-finance|SMBC Consumer Finance]]、SBI / その他の傘下にある [[card-issuers/aplus|Aplus]]、みずほ・伊藤忠系の [[card-issuers/orico|Orient Corp]]、[[card-issuers/jaccs|JACCS]]) によって組成される。プール債権の期間が短く (1–4 年)、継続的に補充されるため、**強い早期償還トリガーを備えたダイナミックプール型リボルビング構造**を用いる。この資産クラスは、貸付残高規模に応じて APR を 15–20% に制限する **利息制限法 (Interest Rate Restriction Act) の金利上限規制**の下にあり、**貸金業法 2006 改正**が業界を恒久的に再編した。存続発行体はすべて、2006 後の過払い金返還の波を経て、引受とプール構成を作り直した。シニアトランシェは通常 AAA で、劣後比率は 15–25% と深い。これは自動車ローン ABS の 6–12% よりかなり厚く、無担保プールのデフォルト変動性を反映している。**早期償還トリガー**は債券保有者の主要な防御である。累積ネット貸倒または 90日超延滞が閾値を超えると、案件はリボルビングから償還モードへ切り替わり、シニア債券保有者がすべての入金キャッシュを受け取る。格付は主に [[structured-finance/credit-rating-methodology-jcr-r-and-i|JCR and R&I]] が行う。無担保日本消費者クレジット ABS への海外需要が薄いため、グローバル格付会社との共同格付はまれである。
 
 ## ウィキ上の位置づけ
 
@@ -23,12 +23,12 @@ translated_at: 2026-06-03T00:53:08.346Z
 
 | 発行体 | 系列 | プール焦点 | 注記 |
 |---|---|---|---|
-| [[JapanFG/acom|Acom]] | MUFG グループ (2008後に連結子会社) | 無担保消費者ローン (無担保、典型残高 ~JPY 0.5–3M) | 単独の無担保消費者金融 ABS 発行体として最大 |
-| [[JapanFG/aiful|Aiful]] | 独立系 (メガバンク買収を回避) | 無担保消費者ローン + 小規模事業者ローン | 2009–2010 の破綻寸前 / ADR 再建を生き残り、ABS を主要な資金調達手段として発行 |
-| [[JapanFG/smbc-consumer-finance|SMBC Consumer Finance]] | SMFG グループ (旧 Promise) | 無担保消費者ローン | 買収後に Promise からブランド変更。厳格な引受 |
-| [[JapanFG/aplus|Aplus]] | SBI Group 関連会社 | ショッピングクレジット (割賦) + 小口消費者ローン | 混合プール。割賦 / ショッピングクレジットが中心 |
-| [[JapanFG/orico|Orient Corp]] | みずほ・伊藤忠系 | ショッピングクレジット + 自動車割賦 + 消費者ローン | 分散型。消費者ローン比率はショッピングクレジットより小さい |
-| [[JapanFG/jaccs|JACCS]] | MUFG グループ | ショッピングクレジット + 自動車割賦 + カード | 純粋な消費者ローン ABS では小さく、割賦 / カードで大きい |
+| [[consumer-finance/acom|Acom]] | MUFG グループ (2008後に連結子会社) | 無担保消費者ローン (無担保、典型残高 ~JPY 0.5–3M) | 単独の無担保消費者金融 ABS 発行体として最大 |
+| [[consumer-finance/aiful|Aiful]] | 独立系 (メガバンク買収を回避) | 無担保消費者ローン + 小規模事業者ローン | 2009–2010 の破綻寸前 / ADR 再建を生き残り、ABS を主要な資金調達手段として発行 |
+| [[consumer-finance/smbc-consumer-finance|SMBC Consumer Finance]] | SMFG グループ (旧 Promise) | 無担保消費者ローン | 買収後に Promise からブランド変更。厳格な引受 |
+| [[card-issuers/aplus|Aplus]] | SBI Group 関連会社 | ショッピングクレジット (割賦) + 小口消費者ローン | 混合プール。割賦 / ショッピングクレジットが中心 |
+| [[card-issuers/orico|Orient Corp]] | みずほ・伊藤忠系 | ショッピングクレジット + 自動車割賦 + 消費者ローン | 分散型。消費者ローン比率はショッピングクレジットより小さい |
+| [[card-issuers/jaccs|JACCS]] | MUFG グループ | ショッピングクレジット + 自動車割賦 + カード | 純粋な消費者ローン ABS では小さく、割賦 / カードで大きい |
 
 2006 前のユニバース (Takefuji, Lake, Sanyo Shinpan など) は消滅している。破綻、買収、または上記生存者への再編を経た。業界統合は、現在の ABS プール構成を形づくる構造的事実の一つである。存続発行体は引受を厳格化し、返済率の追跡を改善し、格付会社との関係を再構築した。
 
@@ -140,15 +140,15 @@ JCR / R&I の消費者ローン ABS デフォルトモデリングは、**ヴィ
 - **「過払い金の波は昔の話である」** — 返還請求は技術的には続いており (時効の問題から散発的な請求がまだ出る)、新たな規制強化が同様の混乱を引き起こす可能性がある。格付会社はなおこのテールをモデル化している
 - **「シニアトランシェは 2008–2010 を問題なく乗り切ったので安全である」** — 乗り切ったが、救済した仕組みは急速な早期償還トリガーの発動だった。投資家はパーで資金を早期回収したが、**負のデュレーションショック**は現実である。3 年の WAL を想定していた投資家は 6 か月で資金を返された
 - **「15–25%の劣後は過剰である」** — 批判者は、2010 後の案件では劣後バッファーがほとんど使われていない (デフォルトが低下傾向) ため、構造はより効率的にできると指摘する。格付会社は、実現パフォーマンスにかかわらずテールリスクがバッファーを正当化すると反論する
-- **「BNPL がこの市場を侵食している」** — BNPL ([[JapanFG/bnpl-landscape|BNPL landscape]]) は小口消費者信用需要で競合する。BNPL 債権が最終的に ABS プールに現れるかは未解決である
+- **「BNPL がこの市場を侵食している」** — BNPL ([[payment-firms/bnpl-landscape|BNPL landscape]]) は小口消費者信用需要で競合する。BNPL 債権が最終的に ABS プールに現れるかは未解決である
 
 ## 10. 未解決の論点
 
 - BNPL 型債権が最終的に大規模に証券化されるか、格付会社が短期 (3-6 か月) BNPL プールをどう扱うか
-- [[JapanFG/sbi-shinsei|Shinsei]]傘下の [[JapanFG/aplus|Aplus]] と [[JapanFG/orico|Orient Corp]] が、新たな所有構造の下で消費者金融 ABS プログラムを統合するか
+- [[regional-banks/sbi-shinsei|Shinsei]]傘下の [[card-issuers/aplus|Aplus]] と [[card-issuers/orico|Orient Corp]] が、新たな所有構造の下で消費者金融 ABS プログラムを統合するか
 - BoJ の金利正常化が消費者借り手の支払能力に意味のあるストレスを与えるか (現在の家計レバレッジは低いため、経路は弱い)
 - デジタル専業 / フィンテック消費者貸し手 ([[JapanFG/lendable|Lendable]], [[JapanFG/funds|Funds]] など) が、ABS 発行に十分なプール規模を構築することがあるか
-- EC とともに割賦販売債権が増えるなか、[[JapanFG/jaccs|JACCS]] がショッピングクレジット ABS を統合する役割
+- EC とともに割賦販売債権が増えるなか、[[card-issuers/jaccs|JACCS]] がショッピングクレジット ABS を統合する役割
 
 ## 関連項目
 
@@ -162,9 +162,9 @@ JCR / R&I の消費者ローン ABS デフォルトモデリングは、**ヴィ
 - [[structured-finance/fitch-moody-sp-japan-criteria|Fitch / Moody's / S&P Japan criteria]]
 - [[structured-finance/spv-tk-gk-vehicle-japan-tax|TK / GK / TMK SPV vehicle]]
 - [[structured-finance/japan-securitization-product-matrix|Japan securitization product matrix]]
-- [[JapanFG/acom|Acom]] · [[JapanFG/aiful|Aiful]] · [[JapanFG/smbc-consumer-finance|SMBC Consumer Finance]]
-- [[JapanFG/aplus|Aplus]] · [[JapanFG/orico|Orient Corp]] · [[JapanFG/jaccs|JACCS]]
-- [[JapanFG/bnpl-landscape|BNPL landscape]]
+- [[consumer-finance/acom|Acom]] · [[consumer-finance/aiful|Aiful]] · [[consumer-finance/smbc-consumer-finance|SMBC Consumer Finance]]
+- [[card-issuers/aplus|Aplus]] · [[card-issuers/orico|Orient Corp]] · [[card-issuers/jaccs|JACCS]]
+- [[payment-firms/bnpl-landscape|BNPL landscape]]
 - [[banking/INDEX|banking index]] · [[finance/INDEX|finance index]]
 
 ## 出典

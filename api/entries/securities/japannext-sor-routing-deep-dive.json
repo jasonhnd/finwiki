@@ -64,11 +64,11 @@
     "wikilinks_count": 21,
     "wikilinks": [
       "INDEX",
-      "JapanFG/japan-exchange-group",
-      "JapanFG/jsda",
-      "JapanFG/nomura-hd",
-      "JapanFG/sbi-hd",
-      "JapanFG/sbi-securities",
+      "financial-regulators/japan-exchange-group",
+      "financial-regulators/jsda",
+      "megabanks/sbi-hd",
+      "securities-firms/nomura-hd",
+      "securities-firms/sbi-securities",
       "securities/INDEX",
       "securities/financial-instruments-business-operators-japan-index",
       "securities/japan-best-execution-sor-pts",
@@ -87,11 +87,11 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/japan-exchange-group",
-      "https://finwiki.zksc.io/JapanFG/jsda",
-      "https://finwiki.zksc.io/JapanFG/nomura-hd",
-      "https://finwiki.zksc.io/JapanFG/sbi-hd",
-      "https://finwiki.zksc.io/JapanFG/sbi-securities",
+      "https://finwiki.zksc.io/financial-regulators/japan-exchange-group",
+      "https://finwiki.zksc.io/financial-regulators/jsda",
+      "https://finwiki.zksc.io/megabanks/sbi-hd",
+      "https://finwiki.zksc.io/securities-firms/nomura-hd",
+      "https://finwiki.zksc.io/securities-firms/sbi-securities",
       "https://finwiki.zksc.io/securities/INDEX",
       "https://finwiki.zksc.io/securities/financial-instruments-business-operators-japan-index",
       "https://finwiki.zksc.io/securities/japan-best-execution-sor-pts",
@@ -112,9 +112,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 15942,
-    "word_like_tokens": 2626,
+    "nonspace_chars": 16043,
+    "word_like_tokens": 2635,
     "inbound_wikilinks_count": 6,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-04"
   }
 }

@@ -25,7 +25,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[business/INDEX|business INDEX]] as a public-company strategic case. Read it against [[business/softbank-vision-fund-arm-ipo-template|SoftBank/Arm IPO template]] and [[business/jpx-public-company-as-market-infrastructure|JPX listed exchange case]] as peer Japan large-cap public-company restructurings, [[corporate-strategy/partial-spinoff-tax-deferral|partial spinoff tax deferral]] for the tax-regime mechanics, [[JapanFG/sony-fg|Sony FG]] for the entity profile, and [[corporate-strategy/japan-kaisha-bunkatsu-tax-regime|会社分割 tax regime]] for the broader corporate-split legal plumbing. Also pair with [[corporate-strategy/INDEX|corporate-strategy INDEX]] and [[finance/INDEX|finance INDEX]] for capital-markets context.
+This entry sits under [[business/INDEX|business INDEX]] as a public-company strategic case. Read it against [[business/softbank-vision-fund-arm-ipo-template|SoftBank/Arm IPO template]] and [[business/jpx-public-company-as-market-infrastructure|JPX listed exchange case]] as peer Japan large-cap public-company restructurings, [[corporate-strategy/partial-spinoff-tax-deferral|partial spinoff tax deferral]] for the tax-regime mechanics, [[megabanks/sony-fg|Sony FG]] for the entity profile, and [[corporate-strategy/japan-kaisha-bunkatsu-tax-regime|会社分割 tax regime]] for the broader corporate-split legal plumbing. Also pair with [[corporate-strategy/INDEX|corporate-strategy INDEX]] and [[finance/INDEX|finance INDEX]] for capital-markets context.
 
 ## TL;DR
 
@@ -78,7 +78,7 @@ The 2023 partial-spinoff regime made option 3 economically viable for the first 
 
 For **Sony Group**: pure-play entertainment / semiconductor / imaging conglomerate after divestiture; reduces [[finance/japan-listed-financial-groups-investable-universe|conglomerate-discount drag]] from financial-services valuation multiples that differ from media-tech multiples; capital allocation freed to game / music / image-sensor priorities.
 
-For **Sony Financial Group**: independent management autonomy, own M&A currency (own stock), recruiting flexibility, ability to compete more directly with [[JapanFG/mufg|MUFG]] / [[JapanFG/smfg|SMFG]] / [[JapanFG/sbi-hd|SBI HD]] / [[JapanFG/paypay-fg|PayPay FG]] in personal-finance markets.
+For **Sony Financial Group**: independent management autonomy, own M&A currency (own stock), recruiting flexibility, ability to compete more directly with [[megabanks/mufg|MUFG]] / [[megabanks/smfg|SMFG]] / [[megabanks/sbi-hd|SBI HD]] / [[megabanks/paypay-fg|PayPay FG]] in personal-finance markets.
 
 For **shareholders**: no immediate tax recognition (regime-qualified deferral); receive two listed securities for one; can choose to hold or rebalance.
 
@@ -120,7 +120,7 @@ The pattern most likely to replicate: large industrial parent with a captive ins
 
 - Will Sony Group's <20% retained stake further dilute over time, eventually reaching zero?
 - Will SFG use newly available own-stock-as-currency to consolidate other regional / niche Japanese financial players?
-- How will [[JapanFG/sony-bank|Sony Bank]] / [[JapanFG/sony-life|Sony Life]] / [[JapanFG/sony-insurance|Sony Insurance]] cross-sell economics change with parent-company separation?
+- How will [[regional-banks/sony-bank|Sony Bank]] / [[life-insurers/sony-life|Sony Life]] / [[non-life-insurers/sony-insurance|Sony Insurance]] cross-sell economics change with parent-company separation?
 - Will the Sony precedent unlock similar deals from Toyota Financial Services, Nissan / Renault financial arms, or Mitsubishi Group financials?
 - How will the FSA treat post-spinoff capital adequacy supervision for an independent Sony FG?
 
@@ -130,10 +130,10 @@ The pattern most likely to replicate: large industrial parent with a captive ins
 - [[corporate-strategy/japan-kaisha-bunkatsu-tax-regime|会社分割 tax regime]]
 - [[corporate-strategy/spinoff-decision-tree-japan|spinoff decision tree Japan]]
 - [[corporate-strategy/kabushiki-koufu-stock-distribution-regime|株式交付 stock-distribution regime]]
-- [[JapanFG/sony-fg|Sony Financial Group entity]]
-- [[JapanFG/sony-bank|Sony Bank]]
-- [[JapanFG/sony-life|Sony Life]]
-- [[JapanFG/sony-insurance|Sony Insurance]]
+- [[megabanks/sony-fg|Sony Financial Group entity]]
+- [[regional-banks/sony-bank|Sony Bank]]
+- [[life-insurers/sony-life|Sony Life]]
+- [[non-life-insurers/sony-insurance|Sony Insurance]]
 - [[finance/japan-mbo-and-squeeze-out-process|Japan MBO / squeeze-out process]]
 - [[finance/japan-tender-offer-process|Japan tender offer process]]
 - [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]]

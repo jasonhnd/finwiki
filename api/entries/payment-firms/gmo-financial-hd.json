@@ -1,0 +1,109 @@
+{
+  "schema_version": "1.0",
+  "slug": "payment-firms/gmo-financial-hd",
+  "source_path": "payment-firms/gmo-financial-hd.md",
+  "url": "https://finwiki.zksc.io/payment-firms/gmo-financial-hd",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/payment-firms/gmo-financial-hd.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/payment-firms/gmo-financial-hd.md",
+  "domain": "payment-firms",
+  "title": "GMO フィナンシャルホールディングス (GMO FHD)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "GMO フィナンシャルホールディングス (GMO FHD)",
+    "aliases": [
+      "GMO FHD",
+      "GMO Financial Holdings",
+      "GMO フィナンシャルホールディングス",
+      "GMO ファイナンシャル",
+      "7177"
+    ],
+    "domain": "payment-firms",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "fintech",
+      "gmo"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: GMOフィナンシャルホールディングス (2026-05-19 抽出)",
+      "GMO フィナンシャルホールディングス 公式 IR (2026-05-19 参照)",
+      "GMO インターネットグループ 有価証券報告書",
+      "GMO インターネットグループ プレスリリース『外貨ex byGMO株式会社、2023年7月1日より「GMO外貨株式会社」に社名変更』 https://group.gmo/news/article/8418/",
+      "Wikipedia: FXプライムbyGMO (2023-09-01 GMOコイン吸収合併・消滅を確認, 2026-05-29)",
+      "GMO フィナンシャルホールディングス 公式 IR『経営方針・戦略』 https://www.gmofh.com/ir/policy/strategy.html"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 楽天グループ金融事業 (Rakuten FG) for peer / contrast context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system / regulatory boundary.",
+  "headings": [
+    "GMO フィナンシャルホールディングス (GMO FHD)",
+    "Wiki route",
+    "TL;DR",
+    "1. 会社概要",
+    "グループ構造（GMO 金融セグメント）",
+    "2. 事業セグメント・マップ",
+    "3. 沿革",
+    "GMO 金融経済圏の中核",
+    "競合ポジション",
+    "海外戦略"
+  ],
+  "body_links": {
+    "wikilinks_count": 20,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "bitflyer",
+      "daiwa-sg",
+      "fintech/japan-stablecoin-regulatory-landscape",
+      "freee",
+      "gmo-aozora-net",
+      "gmo-coin",
+      "gmo-payment-gateway",
+      "matsui-sec",
+      "mizuho-fg",
+      "monex-group",
+      "money-forward",
+      "mufg",
+      "nomura-hd",
+      "payment-firms/rakuten-fg",
+      "paypay-fg",
+      "rakuten-fg",
+      "sbi-hd",
+      "smbc-nikko",
+      "smfg"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/bitflyer",
+      "https://finwiki.zksc.io/daiwa-sg",
+      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
+      "https://finwiki.zksc.io/freee",
+      "https://finwiki.zksc.io/gmo-aozora-net",
+      "https://finwiki.zksc.io/gmo-coin",
+      "https://finwiki.zksc.io/gmo-payment-gateway",
+      "https://finwiki.zksc.io/matsui-sec",
+      "https://finwiki.zksc.io/mizuho-fg",
+      "https://finwiki.zksc.io/monex-group",
+      "https://finwiki.zksc.io/money-forward",
+      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/nomura-hd",
+      "https://finwiki.zksc.io/payment-firms/rakuten-fg",
+      "https://finwiki.zksc.io/paypay-fg",
+      "https://finwiki.zksc.io/rakuten-fg",
+      "https://finwiki.zksc.io/sbi-hd",
+      "https://finwiki.zksc.io/smbc-nikko",
+      "https://finwiki.zksc.io/smfg"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 6334,
+    "word_like_tokens": 1092,
+    "inbound_wikilinks_count": 7,
+    "last_modified": "2026-06-04"
+  }
+}

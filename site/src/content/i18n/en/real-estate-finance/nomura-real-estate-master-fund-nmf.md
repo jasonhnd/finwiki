@@ -26,11 +26,11 @@ This entry sits under [[real-estate-finance/INDEX|real-estate-finance index]] as
 | Ticker | TSE J-REIT **3462** |
 | Investment corporation | Nomura Real Estate Master Fund Inc. (野村不動産マスターファンド投資法人) |
 | Asset-management company | Nomura Real Estate Asset Management Co., Ltd. (sponsor: Nomura Real Estate Holdings) |
-| Sponsor | Nomura Real Estate Holdings (TSE Prime 3231); ultimate parent: [[JapanFG/nomura-hd|Nomura Holdings]] |
+| Sponsor | Nomura Real Estate Holdings (TSE Prime 3231); ultimate parent: [[securities-firms/nomura-hd|Nomura Holdings]] |
 | Listing date | Listed October 2015 as the merged successor (legacy NMF listed earlier; merger consolidated three Nomura J-REITs) |
 | Asset focus | Diversified — office, residential, retail, logistics |
 | Asset administration trustee | Trust-bank trustee — varies by property |
-| Rating | High investment-grade by [[JapanFG/jcr|JCR]] / [[JapanFG/rating-and-investment|R&I]]; among the higher-rated J-REITs given diversification and scale |
+| Rating | High investment-grade by [[financial-regulators/jcr|JCR]] / [[financial-regulators/rating-and-investment|R&I]]; among the higher-rated J-REITs given diversification and scale |
 | Index inclusion | TSE REIT Index, GPR / FTSE EPRA Nareit Developed Asia |
 
 ## 2. The 2015 three-way merger
@@ -112,7 +112,7 @@ The diversified-vs-pure-play choice is fundamental to investor selection: invest
 - [[real-estate-finance/logistics-j-reit-vs-office-j-reit-asset-class-comparison|logistics J-REIT vs office J-REIT comparison]]
 - [[real-estate-finance/mitsui-fudosan-financing-model|Mitsui Fudosan financing model]]
 - [[real-estate-finance/mitsubishi-estate-financing-model|Mitsubishi Estate financing model]]
-- [[JapanFG/nomura-hd|Nomura Holdings]]
+- [[securities-firms/nomura-hd|Nomura Holdings]]
 - [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]]
 - [[INDEX|FinWiki index]]
 

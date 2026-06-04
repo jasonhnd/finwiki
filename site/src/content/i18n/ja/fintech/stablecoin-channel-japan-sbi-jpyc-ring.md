@@ -19,7 +19,7 @@ SBI × Circle × JPYC は 2025-2026 年の重要配信チャネルである。SB
 
 ## 主要事実
 
-2025-08設立、50/50 JV、Circle が [[JapanFG/jpyc|JPYC]]を 3.51%保有、国内 [[exchanges/jp-exchange-sbi-vc-trade|SBI VC トレード]] EPI は 第 1 号で 2025-03-04認可、USDC は 2025-03-26開始。SBI は $50M を Circle IPO 2025-06-05へ投資し、北尾氏は 2026-02 X 投稿で Progmat 不参加を示した。JPYSC は 2026-Q2 、実店舗実証は 2026 春。
+2025-08設立、50/50 JV、Circle が [[payment-firms/jpyc|JPYC]]を 3.51%保有、国内 [[exchanges/jp-exchange-sbi-vc-trade|SBI VC トレード]] EPI は 第 1 号で 2025-03-04認可、USDC は 2025-03-26開始。SBI は $50M を Circle IPO 2025-06-05へ投資し、北尾氏は 2026-02 X 投稿で Progmat 不参加を示した。JPYSC は 2026-Q2 、実店舗実証は 2026 春。
 
 ## 仕組み
 
@@ -27,7 +27,7 @@ Circle から 50%、3.51%、SBI Circle は 50%、SBI VC トレード EPI #1、JP
 
 ## 起源と進化
 
-2023-11-27提携、2025-03-04国内 第 1 号 EPI、2025-03-25合弁契約、2025-03-26USDC 開始、2025-06-05NYSE 上場と $50M 投資、2025-08     SBI Circle（50/50）、2025-12-16JPYSC、2026-02     Progmat 拒絶。v1 →v2 、§501(d)、#3、#1 、[[JapanFG/progmat|Progmat]]、3 メガバンク、#3 、[[fintech/multi-megabank-consortium-governance|複数メガバンク連邦ガバナンス]]が評価軸である。
+2023-11-27提携、2025-03-04国内 第 1 号 EPI、2025-03-25合弁契約、2025-03-26USDC 開始、2025-06-05NYSE 上場と $50M 投資、2025-08     SBI Circle（50/50）、2025-12-16JPYSC、2026-02     Progmat 拒絶。v1 →v2 、§501(d)、#3、#1 、[[payment-firms/progmat|Progmat]]、3 メガバンク、#3 、[[fintech/multi-megabank-consortium-governance|複数メガバンク連邦ガバナンス]]が評価軸である。
 
 ## 関連
 

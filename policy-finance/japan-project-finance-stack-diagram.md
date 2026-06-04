@@ -27,11 +27,11 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[policy-finance/INDEX|policy-finance index]] as the cross-institution map of how Japan finances overseas resource and infrastructure projects. Read it with [[JapanFG/jbic]], [[policy-finance/nexi]], and [[policy-finance/jogmec]] for each institution in isolation, with [[policy-finance/oecd-export-credit-arrangement]] for the regulatory ceiling on official terms, and with [[finance/japan-acquisition-finance]] for how the same megabanks structure private syndicated debt outside the policy-finance perimeter.
+This entry sits under [[policy-finance/INDEX|policy-finance index]] as the cross-institution map of how Japan finances overseas resource and infrastructure projects. Read it with [[financial-regulators/jbic]], [[policy-finance/nexi]], and [[policy-finance/jogmec]] for each institution in isolation, with [[policy-finance/oecd-export-credit-arrangement]] for the regulatory ceiling on official terms, and with [[finance/japan-acquisition-finance]] for how the same megabanks structure private syndicated debt outside the policy-finance perimeter.
 
 ## TL;DR
 
-A typical Japanese overseas resource or infrastructure project does not sit on one balance sheet. Risk is sliced across four state and private layers stacked behind a sponsor SPV: [[policy-finance/jogmec|JOGMEC]] takes equity and exploration / geological risk at the upstream layer, [[JapanFG/jbic|JBIC]] lends sovereign-aligned overseas investment loans, untied loans, and export buyer credit, [[policy-finance/nexi|NEXI]] insures political and commercial risk on top of commercial bank lending, and the megabank syndicate ([[JapanFG/mufg|MUFG]], [[JapanFG/smfg|SMFG / SMBC]], [[JapanFG/mizuho-fg|Mizuho FG]]) provides commercial loans, often with one bank as agent / facility bank. The stack exists because no single balance sheet — public or private — can carry the full bundle of exploration risk, sovereign risk, political risk, and long-tenor commercial risk on its own.
+A typical Japanese overseas resource or infrastructure project does not sit on one balance sheet. Risk is sliced across four state and private layers stacked behind a sponsor SPV: [[policy-finance/jogmec|JOGMEC]] takes equity and exploration / geological risk at the upstream layer, [[financial-regulators/jbic|JBIC]] lends sovereign-aligned overseas investment loans, untied loans, and export buyer credit, [[policy-finance/nexi|NEXI]] insures political and commercial risk on top of commercial bank lending, and the megabank syndicate ([[megabanks/mufg|MUFG]], [[megabanks/smfg|SMFG / SMBC]], [[megabanks/mizuho-fg|Mizuho FG]]) provides commercial loans, often with one bank as agent / facility bank. The stack exists because no single balance sheet — public or private — can carry the full bundle of exploration risk, sovereign risk, political risk, and long-tenor commercial risk on its own.
 
 ## ASCII diagram of the stack
 
@@ -84,11 +84,11 @@ The diagram is stylised. Real deals shuffle the order — e.g., JBIC may take a 
 
 ### JOGMEC — equity / exploration risk
 
-[[policy-finance/jogmec|JOGMEC]] is the resource-security node. On the project finance stack it carries the risk that other lenders refuse to underwrite: pre-FID exploration, geological and reserve risk, and equity participation in upstream oil, gas, and critical-mineral assets. Instruments include equity capital injection into resource-development subsidiaries of Japanese trading houses and utilities, asset acquisition support, and liability guarantees for exploration borrowings. JOGMEC's presence in the cap table is often the signal that lets [[JapanFG/jbic|JBIC]] and the megabank syndicate move forward — once reserves are proved up and the project is bankable, the senior debt layer can be sized.
+[[policy-finance/jogmec|JOGMEC]] is the resource-security node. On the project finance stack it carries the risk that other lenders refuse to underwrite: pre-FID exploration, geological and reserve risk, and equity participation in upstream oil, gas, and critical-mineral assets. Instruments include equity capital injection into resource-development subsidiaries of Japanese trading houses and utilities, asset acquisition support, and liability guarantees for exploration borrowings. JOGMEC's presence in the cap table is often the signal that lets [[financial-regulators/jbic|JBIC]] and the megabank syndicate move forward — once reserves are proved up and the project is bankable, the senior debt layer can be sized.
 
 ### JBIC — sovereign-aligned overseas investment loan, untied loan, export buyer credit
 
-[[JapanFG/jbic|JBIC]] is the Japanese state's direct lending arm for overseas projects. On the stack it typically appears as one or more of: an **export buyer credit** to a foreign buyer of Japanese equipment (e.g., a turbine, a liquefaction train, a rail system); an **overseas investment loan** to a Japanese-affiliated SPV co-lending alongside the megabanks; or an **untied loan** to a sovereign or sovereign-adjacent borrower to secure long-term resource imports back to Japan. JBIC's role is partly to bring sovereign-aligned tenor (15–25 years for resource and infrastructure) and partly to provide a state counterparty that commercial banks can sit behind.
+[[financial-regulators/jbic|JBIC]] is the Japanese state's direct lending arm for overseas projects. On the stack it typically appears as one or more of: an **export buyer credit** to a foreign buyer of Japanese equipment (e.g., a turbine, a liquefaction train, a rail system); an **overseas investment loan** to a Japanese-affiliated SPV co-lending alongside the megabanks; or an **untied loan** to a sovereign or sovereign-adjacent borrower to secure long-term resource imports back to Japan. JBIC's role is partly to bring sovereign-aligned tenor (15–25 years for resource and infrastructure) and partly to provide a state counterparty that commercial banks can sit behind.
 
 ### NEXI — political-risk / commercial-risk insurance
 
@@ -96,11 +96,11 @@ The diagram is stylised. Real deals shuffle the order — e.g., JBIC may take a 
 
 ### Megabank syndicate — commercial bank loans, agent-bank role
 
-The Japanese megabank trio — [[JapanFG/mufg|MUFG]], [[JapanFG/smfg|SMFG / SMBC]], and [[JapanFG/mizuho-fg|Mizuho FG]] — provides the commercial loan tranche, almost always alongside foreign banks (French, Singaporean, US, Australian) on large LNG and mining deals. One bank typically takes the **agent / facility-agent** role, runs intercreditor mechanics, and manages drawdowns and waterfall. The megabanks also provide ancillary services: FX and interest-rate hedges, working-capital lines, trade finance for offtake flows, and post-COD refinancing into bond or sustainability-linked markets. Outside the policy-finance perimeter, the same banks structure pure private deals — see [[finance/japan-acquisition-finance|Japan acquisition finance]] for how the same syndicate machinery is reused for LBOs and corporate M&A.
+The Japanese megabank trio — [[megabanks/mufg|MUFG]], [[megabanks/smfg|SMFG / SMBC]], and [[megabanks/mizuho-fg|Mizuho FG]] — provides the commercial loan tranche, almost always alongside foreign banks (French, Singaporean, US, Australian) on large LNG and mining deals. One bank typically takes the **agent / facility-agent** role, runs intercreditor mechanics, and manages drawdowns and waterfall. The megabanks also provide ancillary services: FX and interest-rate hedges, working-capital lines, trade finance for offtake flows, and post-COD refinancing into bond or sustainability-linked markets. Outside the policy-finance perimeter, the same banks structure pure private deals — see [[finance/japan-acquisition-finance|Japan acquisition finance]] for how the same syndicate machinery is reused for LBOs and corporate M&A.
 
 ### Sponsor SPV — project company, equity sponsors
 
-The borrower of record is a single-purpose project company. Equity sponsors are typically a consortium of: a Japanese trading house ([[JapanFG/mufg|MUFG]] / [[JapanFG/smfg|SMFG]] / [[JapanFG/mizuho-fg|Mizuho FG]] are not the equity sponsors — the trading houses are: Mitsui, Mitsubishi Corp, Sumitomo Corp, Itochu, Marubeni, Sojitz), a Japanese utility (JERA, Tokyo Gas, Osaka Gas, Kansai Electric), a host-country national oil company or national mining company, and one or more international resource majors (e.g., TotalEnergies, Shell, BHP, Rio Tinto). The SPV is limited-recourse: lenders look principally to project cash flows, not sponsor balance sheets.
+The borrower of record is a single-purpose project company. Equity sponsors are typically a consortium of: a Japanese trading house ([[megabanks/mufg|MUFG]] / [[megabanks/smfg|SMFG]] / [[megabanks/mizuho-fg|Mizuho FG]] are not the equity sponsors — the trading houses are: Mitsui, Mitsubishi Corp, Sumitomo Corp, Itochu, Marubeni, Sojitz), a Japanese utility (JERA, Tokyo Gas, Osaka Gas, Kansai Electric), a host-country national oil company or national mining company, and one or more international resource majors (e.g., TotalEnergies, Shell, BHP, Rio Tinto). The SPV is limited-recourse: lenders look principally to project cash flows, not sponsor balance sheets.
 
 ## Typical deal flow timeline
 
@@ -144,7 +144,7 @@ The project-finance stack is different in five ways:
 - **Exploration risk (JOGMEC)**: Upstream geological risk has heavy-tailed loss distributions and long lead times. Private equity capital alone is unwilling to fund pre-FID exploration in geopolitically sensitive jurisdictions for marginal-return critical minerals. A state equity / risk-sharing vehicle is the only buyer of that risk at a price the Japanese policy objective (resource security) demands.
 - **Sovereign-tenor lending (JBIC)**: Commercial banks face Basel risk-weighting and depositor-tenor mismatches that make 20-year unhedged sovereign-exposure lending economically unattractive. A state lender with access to government-backed funding can extend that tenor at a politically tolerable price.
 - **Political-risk insurance (NEXI)**: Private political-risk insurance markets (Lloyd's, MIGA, private syndicates) have capacity caps per country and per peril. For a multi-billion-dollar LNG project in a frontier country, private capacity is insufficient; state insurance fills the gap.
-- **Commercial-bank syndicate (megabanks)**: Even with ECA backing, private banks are needed for ancillary services (hedging, agent role, working capital) and to provide market-pricing discipline that pure state finance would lack. The presence of [[JapanFG/mufg|MUFG]], [[JapanFG/smfg|SMFG]], and [[JapanFG/mizuho-fg|Mizuho FG]] also keeps the project compliant with Equator Principles ESG due diligence, which the state institutions also reference.
+- **Commercial-bank syndicate (megabanks)**: Even with ECA backing, private banks are needed for ancillary services (hedging, agent role, working capital) and to provide market-pricing discipline that pure state finance would lack. The presence of [[megabanks/mufg|MUFG]], [[megabanks/smfg|SMFG]], and [[megabanks/mizuho-fg|Mizuho FG]] also keeps the project compliant with Equator Principles ESG due diligence, which the state institutions also reference.
 - **SPV / sponsor**: A limited-recourse vehicle is required so that project failure does not impair the trading-house or utility parent rated balance sheet, which is what allows the parent to participate in multiple parallel projects.
 
 Each layer absorbs a risk that the layers below it cannot price. Remove any one layer and the deal does not get built — or it gets built only by a competitor's policy-finance stack.
@@ -152,14 +152,14 @@ Each layer absorbs a risk that the layers below it cannot price. Remove any one 
 ## Related
 
 - [[policy-finance/INDEX]]
-- [[JapanFG/jbic]]
+- [[financial-regulators/jbic]]
 - [[policy-finance/nexi]]
 - [[policy-finance/jogmec]]
 - [[policy-finance/oecd-export-credit-arrangement]]
 - [[policy-finance/japan-policy-finance-system]]
-- [[JapanFG/mufg]]
-- [[JapanFG/smfg]]
-- [[JapanFG/mizuho-fg]]
+- [[megabanks/mufg]]
+- [[megabanks/smfg]]
+- [[megabanks/mizuho-fg]]
 - [[finance/japan-acquisition-finance]]
 
 ## Sources

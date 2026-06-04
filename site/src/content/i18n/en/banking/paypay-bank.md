@@ -34,11 +34,11 @@ The 2025 年 share restructuring carries significant meaning in pulling the bank
 
 ## Related
 
-- [[JapanFG/paypay-fg]]
+- [[megabanks/paypay-fg]]
 - [[banking/rakuten-bank]]
 - [[banking/au-jibun-bank]]
-- [[JapanFG/ssnb]]
-- [[JapanFG/gmo-aozora-net]]
+- [[regional-banks/ssnb]]
+- [[payment-firms/gmo-aozora-net]]
 
 ## Sources
 

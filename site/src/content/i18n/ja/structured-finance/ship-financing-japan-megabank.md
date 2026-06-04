@@ -12,7 +12,7 @@ translated_at: 2026-06-03T00:53:08.284Z
 
 ## 要約
 
-日本の船舶ファイナンスはいくつかの層で構成されます: (1) [[JapanFG/mufg|MUFG]]、[[JapanFG/smfg|SMBC]]、[[JapanFG/mizuho-fg|Mizuho FG]] の**メガバンク船舶ファイナンスデスク**は、歴史的に世界トップ級の船舶融資機関として、世界および日本の船主にシニア担保ローンを提供してきました。(2) **日本のリース会社**（[[JapanFG/mitsubishi-hc-capital|Mitsubishi HC Capital]]、[[JapanFG/smfl|SMFL]]、[[JapanFG/mizuho-lease|Mizuho Leasing]]、[[JapanFG/tokyo-century|Tokyo Century]]）は [[structured-finance/spv-tk-gk-vehicle-japan-tax|TK / GK SPV]] 構造を用いた JOL 型船舶リースを提供します。(3) **日本の Big-3  海運会社**（[[JapanFG/nyk-line|NYK Line]]、[[JapanFG/mitsui-osk-lines|MOL]]、[[JapanFG/k-line|K-Line]]）は、船主であると同時にオフテイク相手方でもあります。(4) 2008 以前に日本型クロスボーダー税務ストラクチャーと競合したドイツとノルウェーの **KG（Kommanditgesellschaft）/ KS（Kommanditselskab）** 構造も歴史的参照点です。市場は 2008  金融危機と 2010 年代の海運不況後に大きくデレバレッジし、HSH Nordbank、Commerzbank などの欧州船舶銀行が撤退した領域で日本のメガバンクがシェアを伸ばしました。NYK / MOL / K-Line がコンテナ部門を **Ocean Network Express（ONE）** に統合した 2018 の株主再編も、オフテイク環境を作り替えました。
+日本の船舶ファイナンスはいくつかの層で構成されます: (1) [[megabanks/mufg|MUFG]]、[[megabanks/smfg|SMBC]]、[[megabanks/mizuho-fg|Mizuho FG]] の**メガバンク船舶ファイナンスデスク**は、歴史的に世界トップ級の船舶融資機関として、世界および日本の船主にシニア担保ローンを提供してきました。(2) **日本のリース会社**（[[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]]、[[leasing-firms/smfl|SMFL]]、[[leasing-firms/mizuho-lease|Mizuho Leasing]]、[[leasing-firms/tokyo-century|Tokyo Century]]）は [[structured-finance/spv-tk-gk-vehicle-japan-tax|TK / GK SPV]] 構造を用いた JOL 型船舶リースを提供します。(3) **日本の Big-3  海運会社**（[[JapanFG/nyk-line|NYK Line]]、[[JapanFG/mitsui-osk-lines|MOL]]、[[JapanFG/k-line|K-Line]]）は、船主であると同時にオフテイク相手方でもあります。(4) 2008 以前に日本型クロスボーダー税務ストラクチャーと競合したドイツとノルウェーの **KG（Kommanditgesellschaft）/ KS（Kommanditselskab）** 構造も歴史的参照点です。市場は 2008  金融危機と 2010 年代の海運不況後に大きくデレバレッジし、HSH Nordbank、Commerzbank などの欧州船舶銀行が撤退した領域で日本のメガバンクがシェアを伸ばしました。NYK / MOL / K-Line がコンテナ部門を **Ocean Network Express（ONE）** に統合した 2018 の株主再編も、オフテイク環境を作り替えました。
 
 ## ウィキ上の位置づけ
 
@@ -34,9 +34,9 @@ translated_at: 2026-06-03T00:53:08.284Z
 
 | 銀行 | ポジション | オフィス所在地 |
 |---|---|---|
-| [[JapanFG/mufg|MUFG Bank]] | ローンブックによる世界最大の船舶貸付会社の 1 つ | 東京、ロンドン、シンガポール、ニューヨーク |
-| [[JapanFG/smfg|SMBC]] | トップクラスの世界的船舶貸付業者 | 東京、ロンドン、シンガポール、ニューヨーク |
-| [[JapanFG/mizuho-fg|Mizuho Bank]] | トップクラスの世界的船舶貸付業者、MUFG / SMBC よりも若干規模が小さい | 東京、ロンドン、シンガポール |
+| [[megabanks/mufg|MUFG Bank]] | ローンブックによる世界最大の船舶貸付会社の 1 つ | 東京、ロンドン、シンガポール、ニューヨーク |
+| [[megabanks/smfg|SMBC]] | トップクラスの世界的船舶貸付業者 | 東京、ロンドン、シンガポール、ニューヨーク |
+| [[megabanks/mizuho-fg|Mizuho Bank]] | トップクラスの世界的船舶貸付業者、MUFG / SMBC よりも若干規模が小さい | 東京、ロンドン、シンガポール |
 
 彼らの融資帳簿は次のように構成されています。
 - **船舶タイプ**: タンク / バルカー / コンテナ / LNG / 特殊船
@@ -59,10 +59,10 @@ translated_at: 2026-06-03T00:53:08.284Z
 
 | 賃貸人 | 船舶部門の重点 |
 |---|---|
-| [[JapanFG/mitsubishi-hc-capital|Mitsubishi HC Capital]] | 大手船舶リースプラットフォーム。 JOL スタイルの構造 + 貸借対照表所有権 |
-| [[JapanFG/smfl|SMFL]] | より広範な輸送資産部門の一環としての船舶リース |
-| [[JapanFG/mizuho-lease|Mizuho Leasing]] | 船舶ファイナンスJOL手配 |
-| [[JapanFG/tokyo-century|Tokyo Century]] | 厳選された船舶リースへの参加 |
+| [[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]] | 大手船舶リースプラットフォーム。 JOL スタイルの構造 + 貸借対照表所有権 |
+| [[leasing-firms/smfl|SMFL]] | より広範な輸送資産部門の一環としての船舶リース |
+| [[leasing-firms/mizuho-lease|Mizuho Leasing]] | 船舶ファイナンスJOL手配 |
+| [[leasing-firms/tokyo-century|Tokyo Century]] | 厳選された船舶リースへの参加 |
 
 日本のリース会社との船舶取引では、航空機の JOL と同様の [[structured-finance/spv-tk-gk-vehicle-japan-tax|TK / GK SPV]] 構造が使用されます。
 - 日本の投資家は減価償却シールドを利用する
@@ -100,7 +100,7 @@ LNG 船は他の船とは異なる方法で資金調達されます。
 - 船舶コストが高い（最新の LNG 運搬船の場合、200m 以上）
 - チャーターは通常長期 (15–25  年) であり、特定の LNG 輸出ターミナル契約に関連付けられています
 - 貸し手はアセットファイナンス貸し手というよりはプロジェクトファイナンス貸し手のように見える
-- 日本の関与は重要 — 日本郵船と商船三井は大規模な LNG 船団を運営しており、[[JapanFG/jbic|JBIC]] は日本の LNG 取量に関連した特定の LNG 船の資金調達を支援しており、[[policy-finance/japan-project-finance-stack-diagram|policy-finance stack]] が適用されている
+- 日本の関与は重要 — 日本郵船と商船三井は大規模な LNG 船団を運営しており、[[financial-regulators/jbic|JBIC]] は日本の LNG 取量に関連した特定の LNG 船の資金調達を支援しており、[[policy-finance/japan-project-finance-stack-diagram|policy-finance stack]] が適用されている
 
 ## 8。 国境を越えた船舶所有に対する税制構造
 
@@ -150,10 +150,10 @@ v v
 
 - 海運における脱炭素化のペース（IMO排出規則、二元燃料新造船、アンモニア/メタノール船）と日本の船舶金融がどのように適応するか
 - ONE が安定した合弁会社であり続けるか、それとも最終的にはさらに統合されるか (日本の親会社 3 社のうちの 1 社が支配的な地位を占めるようになりつつある)
-- [[JapanFG/japan-post-bank|Japan Post Bank]] または生命保険会社がファンド構造を通じて船舶金融に拡大するかどうか
+- [[regional-banks/japan-post-bank|Japan Post Bank]] または生命保険会社がファンド構造を通じて船舶金融に拡大するかどうか
 - 船舶金融と[[structured-finance/synthetic-securitization-japan-bank-rwa-relief|synthetic securitisation]]との相互作用（大型船舶ローン帳簿に対するRWAの救済）
-- [[JapanFG/boj|BOJ]]正常化下の金利上昇環境において、税金を控除した利回りを求める企業投資家の需要により、JOLの船舶構造が牽引力を獲得するかどうか
-- 日本の船舶リース市場の成長を捉える上での[[JapanFG/mitsubishi-hc-capital|Mitsubishi HC Capital]]と[[JapanFG/smfl|SMFL]]の役割
+- [[financial-regulators/boj|BOJ]]正常化下の金利上昇環境において、税金を控除した利回りを求める企業投資家の需要により、JOLの船舶構造が牽引力を獲得するかどうか
+- 日本の船舶リース市場の成長を捉える上での[[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]]と[[leasing-firms/smfl|SMFL]]の役割
 
 ## 関連項目
 
@@ -165,10 +165,10 @@ v v
 - [[finance/INDEX|finance index]]
 - [[policy-finance/japan-project-finance-stack-diagram|Japan project finance stack]]
 - [[real-estate-finance/INDEX|real-estate-finance index]]
-- [[JapanFG/mufg|MUFG]] [[JapanFG/smfg|SMFG]] [[JapanFG/mizuho-fg|Mizuho FG]]
-- [[JapanFG/mitsubishi-hc-capital|Mitsubishi HC Capital]] · [[JapanFG/smfl|SMFL]] · [[JapanFG/mizuho-lease|Mizuho Leasing]] · [[JapanFG/tokyo-century|Tokyo Century]] · [[JapanFG/orix-corp|ORIX]]
-- [[JapanFG/mitsubishi-corp|Mitsubishi Corp]] [[JapanFG/mitsui-co|Mitsui & Co.]] [[JapanFG/sumitomo-corp|Sumitomo Corp]]
-- [[JapanFG/japan-exchange-group|JPX]]
+- [[megabanks/mufg|MUFG]] [[megabanks/smfg|SMFG]] [[megabanks/mizuho-fg|Mizuho FG]]
+- [[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]] · [[leasing-firms/smfl|SMFL]] · [[leasing-firms/mizuho-lease|Mizuho Leasing]] · [[leasing-firms/tokyo-century|Tokyo Century]] · [[leasing-firms/orix-corp|ORIX]]
+- [[financial-conglomerates/mitsubishi-corp|Mitsubishi Corp]] [[financial-conglomerates/mitsui-co|Mitsui & Co.]] [[financial-conglomerates/sumitomo-corp|Sumitomo Corp]]
+- [[financial-regulators/japan-exchange-group|JPX]]
 
 ## 出典
 

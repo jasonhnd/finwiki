@@ -29,7 +29,7 @@ sources:
 
 A Japanese listed-company MBO or controlling-shareholder buyout is a public-company control transaction. The public process route includes board and special committee process, valuation / fairness work, TOB launch and disclosure, target opinion / TDnet disclosure, settlement, post-TOB squeeze-out, and delisting where applicable.
 
-This page sits under [[finance/INDEX|finance domain]] and treats MBO / squeeze-out as a public-company control route. Use it with [[finance/japan-tender-offer-process|Japan tender offer process]], [[finance/japan-acquisition-finance|Japan acquisition finance]], [[finance/japan-activist-investor-playbook|Japan activist investor playbook]], [[finance/cross-border-m-a-japan|cross-border M&A Japan]], [[securities/tokyo-stock-exchange|Tokyo Stock Exchange]], [[JapanFG/japan-exchange-group|Japan Exchange Group]], [[JapanFG/sbi-shinsei-bank|SBI Shinsei Bank]], [[JapanFG/sony-fg|Sony FG]], and [[JapanFG/wealthnavi|WealthNavi]].
+This page sits under [[finance/INDEX|finance domain]] and treats MBO / squeeze-out as a public-company control route. Use it with [[finance/japan-tender-offer-process|Japan tender offer process]], [[finance/japan-acquisition-finance|Japan acquisition finance]], [[finance/japan-activist-investor-playbook|Japan activist investor playbook]], [[finance/cross-border-m-a-japan|cross-border M&A Japan]], [[securities/tokyo-stock-exchange|Tokyo Stock Exchange]], [[financial-regulators/japan-exchange-group|Japan Exchange Group]], [[regional-banks/sbi-shinsei-bank|SBI Shinsei Bank]], [[megabanks/sony-fg|Sony FG]], and [[payment-firms/wealthnavi|WealthNavi]].
 
 ## Four-Layer Framework
 
@@ -103,10 +103,10 @@ MBOs often require acquisition debt, sponsor equity, rollover equity, bridge loa
 - [[finance/japan-activist-investor-playbook]]
 - [[finance/cross-border-m-a-japan]]
 - [[securities/tokyo-stock-exchange]]
-- [[JapanFG/japan-exchange-group]]
-- [[JapanFG/sbi-shinsei-bank]]
-- [[JapanFG/sony-fg]]
-- [[JapanFG/wealthnavi]]
+- [[financial-regulators/japan-exchange-group]]
+- [[regional-banks/sbi-shinsei-bank]]
+- [[megabanks/sony-fg]]
+- [[payment-firms/wealthnavi]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

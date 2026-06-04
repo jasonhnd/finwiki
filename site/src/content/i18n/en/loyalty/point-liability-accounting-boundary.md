@@ -23,7 +23,7 @@ For program-by-program coverage, see [[loyalty/japan-points-landscape]] in the l
 | Marketing-promotional cost | Operator hands out a bonus point with no future redemption obligation tied to a past sale | Expensed when granted (promotion / advertising cost) | Generally outside Payment Services Act |
 | Loyalty liability (contract liability) | Points earned from a customer purchase that the operator must honour later | Deferred revenue under IFRS 15 (material right) or accrued liability under JGAAP (ASBJ Statement No.29 framing) | Disclosure under JGAAP / IFRS; Payments Japan disclosure norms apply if used in code payment |
 | Breakage | Expected unused balance | Pattern-based revenue recognition over expected redemption period | No standalone registry; estimation must be auditable |
-| Purchased / charged value | Customer pays cash for a stored balance | Prepaid liability; can become a regulated prepaid payment instrument | [[JapanFG/legal-financial-licenses/payment-license-stack|FSA prepaid issuer registry]] / Payment Services Act |
+| Purchased / charged value | Customer pays cash for a stored balance | Prepaid liability; can become a regulated prepaid payment instrument | [[financial-licenses/payment-license-stack|FSA prepaid issuer registry]] / Payment Services Act |
 | Cross-program exchange | One operator's points are converted into another's | Settlement leg + liability transfer between operators | Bilateral contracts, sometimes settlement bank involvement |
 
 ## 1. Marketing-promotional cost (no contract liability)
@@ -60,7 +60,7 @@ The Payments Japan code-payment disclosure expectations (industry self-regulator
 When a customer pays cash to load a balance — nanaco, WAON, Suica, or a gift card / prepaid card — the operator crosses into the **prepaid payment instrument** layer of the Payment Services Act:
 
 - Funds received are a prepaid liability, not a loyalty liability.
-- The operator must register with the FSA as a prepaid issuer (前払式支払手段発行者) — see [[JapanFG/legal-financial-licenses/payment-license-stack|payment-license stack]] for the registry boundary.
+- The operator must register with the FSA as a prepaid issuer (前払式支払手段発行者) — see [[financial-licenses/payment-license-stack|payment-license stack]] for the registry boundary.
 - Half-yearly **保全 (asset-preservation)** requirement under the Payment Services Act applies when unused balance exceeds 10 million yen.
 - If the prepaid value becomes refundable in cash or freely transferable between unrelated users, the operator may cross further into the **funds-transfer business** licence — see [[payments/funds-transfer-vs-prepaid-boundary|funds-transfer vs prepaid boundary]] for that step.
 
@@ -98,14 +98,14 @@ This matters because it makes "outstanding point liability" non-additive across 
 - [[loyalty/japan-points-landscape]]
 - [[loyalty/v-point-smbc-ccc-case]]
 - [[payments/funds-transfer-vs-prepaid-boundary]]
-- [[JapanFG/legal-financial-licenses/payment-license-stack|payment-license stack]]
-- [[JapanFG/legal-financial-licenses/INDEX|JapanFG legal / financial licenses]]
+- [[financial-licenses/payment-license-stack|payment-license stack]]
+- [[financial-licenses/INDEX|JapanFG legal / financial licenses]]
 - [[fintech/INDEX|fintech]]
 - [[payments/INDEX|payments]]
-- [[JapanFG/rakuten-fg|Rakuten FG]]
-- [[JapanFG/aeon-bank|Aeon Bank / AFS]]
-- [[JapanFG/paypay-fg|PayPay FG]]
-- [[JapanFG/ndfg|NDFG]]
+- [[payment-firms/rakuten-fg|Rakuten FG]]
+- [[card-issuers/aeon-bank|Aeon Bank / AFS]]
+- [[megabanks/paypay-fg|PayPay FG]]
+- [[megabanks/ndfg|NDFG]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

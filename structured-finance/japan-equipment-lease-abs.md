@@ -32,7 +32,7 @@ sources:
 
 ## TL;DR
 
-Japan equipment lease ABS — issued in modest annual volumes (~JPY 200–400 bn) by the three major independent leasing companies ([[JapanFG/mitsubishi-hc-capital|Mitsubishi HC Capital]], [[JapanFG/tokyo-century|Tokyo Century]], [[JapanFG/orix-corp|ORIX]]) and bank-affiliated leasing arms ([[JapanFG/fuyo-lease|Fuyo Lease]] under Mizuho-Marubeni, Sumitomo Mitsui Finance & Leasing under SMFG, [[JapanFG/ibj-leasing|IBJ Leasing]] under Mizuho) — packages **lease receivables on machinery, transportation equipment, IT/office equipment, medical equipment, and renewable-energy infrastructure** into ABS pools. The asset class is **structurally distinct from loan ABS** because of two features: (1) **true-lease vs finance-lease classification** under Japanese GAAP (J-GAAP) and IFRS 16 — finance-leases transfer substantially all risks/rewards to the lessee and are economically loan-like; true-leases (operating leases under accounting taxonomy) retain residual-value risk with the lessor, requiring the lessor to predict and recover the equipment value at lease-end; (2) **residual-value risk** which sits on top of the credit risk of the lessee — even with zero lessee default, the lessor (and the ABS) loses money if the equipment's end-of-lease realised value falls below the booked residual. Rating agencies apply **higher subordination (10–15% for AAA senior) vs auto-loan ABS (6–12%)** to absorb residual-value haircuts; pools with high true-lease share carry deeper enhancement. Compared to auto-lease ABS, equipment lease pools have more heterogeneous equipment types (mixing IT/office that depreciates fast with machinery that holds value longer) and more concentration risk (corporate lessees vs granular consumer). Rated by [[structured-finance/credit-rating-methodology-jcr-r-and-i|JCR / R&I]].
+Japan equipment lease ABS — issued in modest annual volumes (~JPY 200–400 bn) by the three major independent leasing companies ([[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]], [[leasing-firms/tokyo-century|Tokyo Century]], [[leasing-firms/orix-corp|ORIX]]) and bank-affiliated leasing arms ([[leasing-firms/fuyo-lease|Fuyo Lease]] under Mizuho-Marubeni, Sumitomo Mitsui Finance & Leasing under SMFG, [[leasing-firms/ibj-leasing|IBJ Leasing]] under Mizuho) — packages **lease receivables on machinery, transportation equipment, IT/office equipment, medical equipment, and renewable-energy infrastructure** into ABS pools. The asset class is **structurally distinct from loan ABS** because of two features: (1) **true-lease vs finance-lease classification** under Japanese GAAP (J-GAAP) and IFRS 16 — finance-leases transfer substantially all risks/rewards to the lessee and are economically loan-like; true-leases (operating leases under accounting taxonomy) retain residual-value risk with the lessor, requiring the lessor to predict and recover the equipment value at lease-end; (2) **residual-value risk** which sits on top of the credit risk of the lessee — even with zero lessee default, the lessor (and the ABS) loses money if the equipment's end-of-lease realised value falls below the booked residual. Rating agencies apply **higher subordination (10–15% for AAA senior) vs auto-loan ABS (6–12%)** to absorb residual-value haircuts; pools with high true-lease share carry deeper enhancement. Compared to auto-lease ABS, equipment lease pools have more heterogeneous equipment types (mixing IT/office that depreciates fast with machinery that holds value longer) and more concentration risk (corporate lessees vs granular consumer). Rated by [[structured-finance/credit-rating-methodology-jcr-r-and-i|JCR / R&I]].
 
 ## Wiki route
 
@@ -42,14 +42,14 @@ This entry sits under [[structured-finance/INDEX|structured-finance index]] as t
 
 | Issuer | Parent / affiliation | Asset focus | Annual ABS issuance (approx) |
 |---|---|---|---|
-| [[JapanFG/mitsubishi-hc-capital|Mitsubishi HC Capital]] | Mitsubishi (formed 2021 from merger of Mitsubishi UFJ Lease and Hitachi Capital) | Machinery, IT/office, transportation, real-estate-leasing, renewable | JPY 80–150 bn |
-| [[JapanFG/tokyo-century|Tokyo Century]] | Independent (Itochu / Tokyo MUFG-related shareholders) | Aircraft, ship, IT/office, transportation, renewable, environment | JPY 60–120 bn |
-| [[JapanFG/orix-corp|ORIX]] | Independent diversified financial group | Equipment lease (machinery, vehicle, IT), plus broader finance | JPY 50–100 bn |
-| [[JapanFG/fuyo-lease|Fuyo Lease]] | Mizuho / Marubeni affiliated | General equipment + auto-fleet leasing | JPY 30–60 bn |
+| [[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]] | Mitsubishi (formed 2021 from merger of Mitsubishi UFJ Lease and Hitachi Capital) | Machinery, IT/office, transportation, real-estate-leasing, renewable | JPY 80–150 bn |
+| [[leasing-firms/tokyo-century|Tokyo Century]] | Independent (Itochu / Tokyo MUFG-related shareholders) | Aircraft, ship, IT/office, transportation, renewable, environment | JPY 60–120 bn |
+| [[leasing-firms/orix-corp|ORIX]] | Independent diversified financial group | Equipment lease (machinery, vehicle, IT), plus broader finance | JPY 50–100 bn |
+| [[leasing-firms/fuyo-lease|Fuyo Lease]] | Mizuho / Marubeni affiliated | General equipment + auto-fleet leasing | JPY 30–60 bn |
 | Sumitomo Mitsui Finance & Leasing | SMFG / Sumitomo Corp affiliated | Equipment + vendor finance | JPY 40–80 bn |
-| [[JapanFG/ibj-leasing|IBJ Leasing]] | Mizuho group | Equipment + structured leasing | JPY 20–50 bn |
-| [[JapanFG/ricoh-leasing|Ricoh Leasing]] | Ricoh group affiliated | Office equipment focus | JPY 15–40 bn |
-| Regional-bank affiliated leasing arms ([[JapanFG/chibagin-leasing|Chibagin Leasing]], [[JapanFG/iyogin-leasing|Iyogin Leasing]], [[JapanFG/yokohama-bank-leasing|Yokohama Bank Leasing]], etc.) | Various regional banks | Regional SME equipment leasing | Modest individual issuance; some pooled deals |
+| [[leasing-firms/ibj-leasing|IBJ Leasing]] | Mizuho group | Equipment + structured leasing | JPY 20–50 bn |
+| [[leasing-firms/ricoh-leasing|Ricoh Leasing]] | Ricoh group affiliated | Office equipment focus | JPY 15–40 bn |
+| Regional-bank affiliated leasing arms ([[leasing-firms/chibagin-leasing|Chibagin Leasing]], [[leasing-firms/iyogin-leasing|Iyogin Leasing]], [[leasing-firms/yokohama-bank-leasing|Yokohama Bank Leasing]], etc.) | Various regional banks | Regional SME equipment leasing | Modest individual issuance; some pooled deals |
 
 The top three independents account for the majority of public lease-ABS issuance. The bank-affiliated leasing companies have access to parent-bank funding lines and are less ABS-reliant; they issue ABS opportunistically for capital relief or funding diversification rather than as core treasury.
 
@@ -169,7 +169,7 @@ Methodology details in [[structured-finance/jcr-ri-japan-securitization-rating-m
 
 ## 9. Funding mix role for leasing companies
 
-For [[JapanFG/mitsubishi-hc-capital|Mitsubishi HC Capital]] / [[JapanFG/tokyo-century|Tokyo Century]] / [[JapanFG/orix-corp|ORIX]], lease ABS sits alongside:
+For [[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]] / [[leasing-firms/tokyo-century|Tokyo Century]] / [[leasing-firms/orix-corp|ORIX]], lease ABS sits alongside:
 
 - **Bank-line funding** (committed credit facilities from megabanks)
 - **Corporate-bond issuance** (since these issuers have IG ratings)
@@ -182,7 +182,7 @@ ABS provides:
 - **Tenor matching** against lease-receivable life
 - **Rating arbitrage** (AAA senior despite IG issuer rating)
 
-Bank-affiliated leasing arms ([[JapanFG/fuyo-lease|Fuyo Lease]], SMFL, [[JapanFG/ibj-leasing|IBJ Leasing]]) have access to cheaper parent-bank funding, so ABS issuance is opportunistic — less core to their treasury than to the independents.
+Bank-affiliated leasing arms ([[leasing-firms/fuyo-lease|Fuyo Lease]], SMFL, [[leasing-firms/ibj-leasing|IBJ Leasing]]) have access to cheaper parent-bank funding, so ABS issuance is opportunistic — less core to their treasury than to the independents.
 
 ## 10. Counterpoints
 
@@ -197,8 +197,8 @@ Bank-affiliated leasing arms ([[JapanFG/fuyo-lease|Fuyo Lease]], SMFL, [[JapanFG
 
 - Whether ESG-linked lease ABS (renewable / battery / EV-charging-infrastructure pools) becomes a distinct sub-segment
 - Whether IFRS 16 adoption (which moved most operating leases to on-balance-sheet for lessees globally) reshapes the true-lease / finance-lease economics meaningfully in Japan
-- Whether [[JapanFG/mitsubishi-hc-capital|Mitsubishi HC Capital]]'s acquisition expansion continues to add diverse equipment-type pools to ABS
-- The role of [[JapanFG/tokyo-century|Tokyo Century]] aviation / ship-finance assets in lease-ABS structuring (or via separate aircraft / ship ABS)
+- Whether [[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]]'s acquisition expansion continues to add diverse equipment-type pools to ABS
+- The role of [[leasing-firms/tokyo-century|Tokyo Century]] aviation / ship-finance assets in lease-ABS structuring (or via separate aircraft / ship ABS)
 - Whether digital-equipment-as-a-service (servers / network as-a-service) lease pools become securitisable
 
 ## Related
@@ -213,8 +213,8 @@ Bank-affiliated leasing arms ([[JapanFG/fuyo-lease|Fuyo Lease]], SMFL, [[JapanFG
 - [[structured-finance/aircraft-leasing-financing-japan-shosha|aircraft leasing financing Japan shosha]]
 - [[structured-finance/spv-tk-gk-vehicle-japan-tax|TK / GK / TMK SPV vehicle]]
 - [[structured-finance/japan-securitization-product-matrix|Japan securitization product matrix]]
-- [[JapanFG/mitsubishi-hc-capital|Mitsubishi HC Capital]] · [[JapanFG/tokyo-century|Tokyo Century]] · [[JapanFG/orix-corp|ORIX]]
-- [[JapanFG/fuyo-lease|Fuyo Lease]] · [[JapanFG/ibj-leasing|IBJ Leasing]] · [[JapanFG/ricoh-leasing|Ricoh Leasing]]
+- [[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]] · [[leasing-firms/tokyo-century|Tokyo Century]] · [[leasing-firms/orix-corp|ORIX]]
+- [[leasing-firms/fuyo-lease|Fuyo Lease]] · [[leasing-firms/ibj-leasing|IBJ Leasing]] · [[leasing-firms/ricoh-leasing|Ricoh Leasing]]
 - [[finance/INDEX|finance index]] · [[real-estate-finance/INDEX|real-estate-finance index]]
 
 ## Sources

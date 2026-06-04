@@ -12,7 +12,7 @@ translated_at: 2026-06-02T11:47:37.319Z
 
 ## 要約
 
-日本のリテール FX 証拠金取引市場(FX 証拠金取引)は、売買高で世界最大級である。これは、FIEA のもとで免許を受けた第 1 種金融商品取引業者が提供する規制されたリテール仲介商品として構成され、金融庁(JFSA)の厳格な業務行為ルールと、金融先物取引業協会(FFAJ)の自主規制による監督に服する。個人口座はレバレッジ約 25 倍に上限が設けられ、法人口座は異なる上限のもとでより高くできる。主要なブローカーには、[[JapanFG/gmo-click-securities|GMO Click Securities]]、[[JapanFG/sbi-fx-trade|SBI FX Trade]]、[[JapanFG/dmm-com-securities|DMM.com Securities]]、[[JapanFG/matsui-sec|Matsui Securities (Matsui FX)]]、OANDA Japan、[[JapanFG/saxo-bank-securities|Saxo Bank Securities]] が含まれる。顧客資金はブローカーの口座から分別(信託保全)されなければならない。
+日本のリテール FX 証拠金取引市場(FX 証拠金取引)は、売買高で世界最大級である。これは、FIEA のもとで免許を受けた第 1 種金融商品取引業者が提供する規制されたリテール仲介商品として構成され、金融庁(JFSA)の厳格な業務行為ルールと、金融先物取引業協会(FFAJ)の自主規制による監督に服する。個人口座はレバレッジ約 25 倍に上限が設けられ、法人口座は異なる上限のもとでより高くできる。主要なブローカーには、[[securities-firms/gmo-click-securities|GMO Click Securities]]、[[securities-firms/sbi-fx-trade|SBI FX Trade]]、[[securities-firms/dmm-com-securities|DMM.com Securities]]、[[securities-firms/matsui-sec|Matsui Securities (Matsui FX)]]、OANDA Japan、[[securities-firms/saxo-bank-securities|Saxo Bank Securities]] が含まれる。顧客資金はブローカーの口座から分別(信託保全)されなければならない。
 
 本項目は、[[derivatives/corporate-fx-hedge-policy-japan-listed|corporate FX hedge policy at Japan listed companies]] および [[derivatives/fx-options-japan-corporate-treasury|FX options for Japan corporate treasury]] がカバーするホールセールの法人 FX とは別個の、リテール FX のサーフェスとして [[derivatives/INDEX|derivatives index]] の中に位置する。
 
@@ -78,12 +78,12 @@ translated_at: 2026-06-02T11:47:37.319Z
 
 | ブローカー | 親会社 | 特記事項 |
 |---|---|---|
-| [[JapanFG/gmo-click-securities|GMO Click Securities]] | GMO インターネットグループ | 取引量で長く続くマーケットシェアのリーダー、独自の取引プラットフォーム。 |
-| [[JapanFG/sbi-fx-trade|SBI FX Trade]] | SBI ホールディングス | アグレッシブなスプレッドのプライシング、SBI グループのフルなクロスセル。 |
-| [[JapanFG/dmm-com-securities|DMM.com Securities (DMM FX)]] | DMM.com グループ | 多量のリテールマーケティング、大きな口座基盤。 |
-| [[JapanFG/matsui-sec|Matsui Securities (Matsui FX)]] | 松井証券 | オンライン証券のパイオニア、FX は複数の商品ラインの一つ。 |
+| [[securities-firms/gmo-click-securities|GMO Click Securities]] | GMO インターネットグループ | 取引量で長く続くマーケットシェアのリーダー、独自の取引プラットフォーム。 |
+| [[securities-firms/sbi-fx-trade|SBI FX Trade]] | SBI ホールディングス | アグレッシブなスプレッドのプライシング、SBI グループのフルなクロスセル。 |
+| [[securities-firms/dmm-com-securities|DMM.com Securities (DMM FX)]] | DMM.com グループ | 多量のリテールマーケティング、大きな口座基盤。 |
+| [[securities-firms/matsui-sec|Matsui Securities (Matsui FX)]] | 松井証券 | オンライン証券のパイオニア、FX は複数の商品ラインの一つ。 |
 | OANDA Japan | OANDA Corp(外資系) | グローバルブランド、タイトなスプレッド、STP ルーティングを強調。 |
-| [[JapanFG/saxo-bank-securities|Saxo Bank Securities]] | Saxo Bank(外資系) | マルチアセットのプラットフォーム、リテール向けの機関グレードのツール。 |
+| [[securities-firms/saxo-bank-securities|Saxo Bank Securities]] | Saxo Bank(外資系) | マルチアセットのプラットフォーム、リテール向けの機関グレードのツール。 |
 
 その他の意味のあるプレイヤーには、ヒロセ通商(LION FX)、外為どっとコム、マネーパートナーズ、外為オンライン、楽天証券、マネックスが含まれる。市場は上位で統合されているが、中規模ブローカーのロングテールは依然として意味のあるものである。
 
@@ -208,11 +208,11 @@ translated_at: 2026-06-02T11:47:37.319Z
 - [[derivatives/japan-interest-rate-derivatives-overview]]
 - [[money-market/japan-money-market]]
 - [[money-market/INDEX]]
-- [[JapanFG/gmo-click-securities]]
-- [[JapanFG/sbi-fx-trade]]
-- [[JapanFG/dmm-com-securities]]
-- [[JapanFG/matsui-sec]]
-- [[JapanFG/saxo-bank-securities]]
+- [[securities-firms/gmo-click-securities]]
+- [[securities-firms/sbi-fx-trade]]
+- [[securities-firms/dmm-com-securities]]
+- [[securities-firms/matsui-sec]]
+- [[securities-firms/saxo-bank-securities]]
 
 ## 出典
 

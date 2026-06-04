@@ -67,7 +67,7 @@ Retail-oriented services such as fiat-deposit channels are not offered (purely i
   - **Bitcoin ETP listed on the Swiss stock exchange**: 2021 年 1 月, selected as the custody provider for the ETP (disclosed)
   - **UAE government / VARA-jurisdiction case**: 2023 年, involvement in a government-affiliated matter was reported around the same time as VARA license acquisition in the UAE
   - **Partnership with OKX (Komainu Connect)**: 2023 年 6 月, disclosed a custody-connectivity partnership with OKX
-- **Competitive comparison**: competes with institution-oriented custody providers such as Anchorage Digital, [[exchanges/jp-custody-fireblocks-japan|Fireblocks]], and BitGo (see [[exchanges/global-institutional-custody-five-pillars|グローバル institutional custody 5 本柱]]). The company's differentiators are multi-jurisdiction compliance across Jersey · UK FCA · [[exchanges/uae-vara-licensing-overview|VARA]] + affinity with the [[JapanFG/nomura-hd|Nomura]] group.
+- **Competitive comparison**: competes with institution-oriented custody providers such as Anchorage Digital, [[exchanges/jp-custody-fireblocks-japan|Fireblocks]], and BitGo (see [[exchanges/global-institutional-custody-five-pillars|グローバル institutional custody 5 本柱]]). The company's differentiators are multi-jurisdiction compliance across Jersey · UK FCA · [[exchanges/uae-vara-licensing-overview|VARA]] + affinity with the [[securities-firms/nomura-hd|Nomura]] group.
 - **Account count · AUM under custody**: not disclosed
 
 ## 6. History · major events

@@ -16,23 +16,23 @@ translated_at: 2026-06-02T11:47:37.322Z
 
 ## ウィキ上の位置づけ
 
-このエントリは [[banking/INDEX|banking index]] の配下にある。既存のカストディ領域マップについてはピアエントリの [[banking/japan-trust-bank-custody-map|Japan trust bank and custody map]]、[[banking/japan-master-trust-and-custody-bank-landscape|master trust and custody bank landscape]]、[[banking/trust-bank-custody-operating-comparison|trust-bank custody operating comparison]] と；エンティティの文脈については [[JapanFG/mitsubishi-ufj-trust-bank|三菱UFJ信託銀行]]、[[JapanFG/mizuho-trust-bank|みずほ信託銀行]]、[[JapanFG/smtb|三井住友信託銀行]]、[[JapanFG/bny-mellon-japan|BNY Mellon Japan]] と；システムのアンカーとして [[JapanFG/master-trust-bank|日本マスタートラスト信託銀行]] と [[JapanFG/custody-bank|日本カストディ銀行]] と；そしてクリアリング / 決済インフラについては [[securities/japan-securities-clearing-corp|JSCC]] と [[securities/japan-securities-depository-center|JASDEC]]、加えてクライアント側については [[securities/japan-asset-manager-landscape-matrix|asset manager landscape matrix]] と照らし合わせて読むこと。
+このエントリは [[banking/INDEX|banking index]] の配下にある。既存のカストディ領域マップについてはピアエントリの [[banking/japan-trust-bank-custody-map|Japan trust bank and custody map]]、[[banking/japan-master-trust-and-custody-bank-landscape|master trust and custody bank landscape]]、[[banking/trust-bank-custody-operating-comparison|trust-bank custody operating comparison]] と；エンティティの文脈については [[trust-banks/mitsubishi-ufj-trust-bank|三菱UFJ信託銀行]]、[[trust-banks/mizuho-trust-bank|みずほ信託銀行]]、[[trust-banks/smtb|三井住友信託銀行]]、[[foreign-financial-institutions/bny-mellon-japan|BNY Mellon Japan]] と；システムのアンカーとして [[trust-banks/master-trust-bank|日本マスタートラスト信託銀行]] と [[trust-banks/custody-bank|日本カストディ銀行]] と；そしてクリアリング / 決済インフラについては [[securities/japan-securities-clearing-corp|JSCC]] と [[securities/japan-securities-depository-center|JASDEC]]、加えてクライアント側については [[securities/japan-asset-manager-landscape-matrix|asset manager landscape matrix]] と照らし合わせて読むこと。
 
 ## 対象母集団
 
 **日本の信託銀行カストディ側（10 社）**
 
-- フルサービス信託銀行: [[JapanFG/mitsubishi-ufj-trust-bank|三菱UFJ信託銀行 (MUFG Trust)]]、[[JapanFG/mizuho-trust-bank|みずほ信託銀行 (Mizuho Trust)]]、[[JapanFG/smtb|三井住友信託銀行 (SMTB)]]
-- 外資系列のリテール / ウェルス信託銀行: [[JapanFG/smbc-trust-bank|SMBC信託銀行]]
-- 専門 / グループ内部信託銀行: [[JapanFG/nomura-trust-bank|野村信託銀行]]、[[JapanFG/nochu-trust-bank|農中信託銀行]]、[[JapanFG/sbi-shinsei-trust-bank|SBI新生信託銀行]]、[[JapanFG/jsf-trust-bank|JSF信託銀行]]
-- 資産管理専業（信託口の名義アンカー）: [[JapanFG/master-trust-bank|日本マスタートラスト信託銀行]]、[[JapanFG/custody-bank|日本カストディ銀行]]
+- フルサービス信託銀行: [[trust-banks/mitsubishi-ufj-trust-bank|三菱UFJ信託銀行 (MUFG Trust)]]、[[trust-banks/mizuho-trust-bank|みずほ信託銀行 (Mizuho Trust)]]、[[trust-banks/smtb|三井住友信託銀行 (SMTB)]]
+- 外資系列のリテール / ウェルス信託銀行: [[trust-banks/smbc-trust-bank|SMBC信託銀行]]
+- 専門 / グループ内部信託銀行: [[trust-banks/nomura-trust-bank|野村信託銀行]]、[[trust-banks/nochu-trust-bank|農中信託銀行]]、[[trust-banks/sbi-shinsei-trust-bank|SBI新生信託銀行]]、[[trust-banks/jsf-trust-bank|JSF信託銀行]]
+- 資産管理専業（信託口の名義アンカー）: [[trust-banks/master-trust-bank|日本マスタートラスト信託銀行]]、[[trust-banks/custody-bank|日本カストディ銀行]]
 
 **グローバルカストディアン側（4 社）**
 
-- [[JapanFG/bny-mellon-japan|BNY Mellon Japan]] (BNY メロン信託 + 東京支店 + AM JP)
-- [[JapanFG/state-street-japan|State Street Japan]]
-- [[JapanFG/jpmorgan-japan|JP Morgan Custody Japan]] (Securities Services 部門)
-- [[JapanFG/citigroup-japan|Citi custody Japan]] (Citigroup Global Markets Japan + Citibank N.A. Tokyo)
+- [[foreign-financial-institutions/bny-mellon-japan|BNY Mellon Japan]] (BNY メロン信託 + 東京支店 + AM JP)
+- [[foreign-financial-institutions/state-street-japan|State Street Japan]]
+- [[foreign-financial-institutions/jpmorgan-japan|JP Morgan Custody Japan]] (Securities Services 部門)
+- [[foreign-financial-institutions/citigroup-japan|Citi custody Japan]] (Citigroup Global Markets Japan + Citibank N.A. Tokyo)
 
 ## 比較マトリクス（日本の信託銀行）
 
@@ -82,7 +82,7 @@ translated_at: 2026-06-02T11:47:37.322Z
 
 ## Master Trust 対 Custody Bank of Japan — 2020 統合の意味
 
-**2020-07-27 JTSB (日本トラスティ・サービス信託銀行) + TCSB (資産管理サービス信託銀行) → [[JapanFG/custody-bank|日本カストディ銀行]]** という統合は、日本のカストディ・インフラの 2 強体制を **MUFG 系 [[JapanFG/master-trust-bank|日本マスタートラスト信託銀行]] vs SMTB / Mizuho / Resona / 第一生命系 [[JapanFG/custody-bank|日本カストディ銀行]]** として明確化したイベントである。^[extracted]
+**2020-07-27 JTSB (日本トラスティ・サービス信託銀行) + TCSB (資産管理サービス信託銀行) → [[trust-banks/custody-bank|日本カストディ銀行]]** という統合は、日本のカストディ・インフラの 2 強体制を **MUFG 系 [[trust-banks/master-trust-bank|日本マスタートラスト信託銀行]] vs SMTB / Mizuho / Resona / 第一生命系 [[trust-banks/custody-bank|日本カストディ銀行]]** として明確化したイベントである。^[extracted]
 
 統合理由として公開資料は次を示す:
 
@@ -122,22 +122,22 @@ translated_at: 2026-06-02T11:47:37.322Z
 - [[banking/japan-trust-bank-custody-map]]
 - [[banking/japan-master-trust-and-custody-bank-landscape]]
 - [[banking/trust-bank-custody-operating-comparison]]
-- [[JapanFG/master-trust-bank]]
-- [[JapanFG/custody-bank]]
-- [[JapanFG/mitsubishi-ufj-trust-bank]]
-- [[JapanFG/mizuho-trust-bank]]
-- [[JapanFG/smtb]]
-- [[JapanFG/smbc-trust-bank]]
-- [[JapanFG/nomura-trust-bank]]
-- [[JapanFG/nochu-trust-bank]]
-- [[JapanFG/sbi-shinsei-trust-bank]]
-- [[JapanFG/jsf-trust-bank]]
-- [[JapanFG/bny-mellon-japan]]
-- [[JapanFG/state-street-japan]]
-- [[JapanFG/jpmorgan-japan]]
-- [[JapanFG/citigroup-japan]]
-- [[JapanFG/euroclear-bank-japan]]
-- [[JapanFG/clearstream-banking-japan]]
+- [[trust-banks/master-trust-bank]]
+- [[trust-banks/custody-bank]]
+- [[trust-banks/mitsubishi-ufj-trust-bank]]
+- [[trust-banks/mizuho-trust-bank]]
+- [[trust-banks/smtb]]
+- [[trust-banks/smbc-trust-bank]]
+- [[trust-banks/nomura-trust-bank]]
+- [[trust-banks/nochu-trust-bank]]
+- [[trust-banks/sbi-shinsei-trust-bank]]
+- [[trust-banks/jsf-trust-bank]]
+- [[foreign-financial-institutions/bny-mellon-japan]]
+- [[foreign-financial-institutions/state-street-japan]]
+- [[foreign-financial-institutions/jpmorgan-japan]]
+- [[foreign-financial-institutions/citigroup-japan]]
+- [[foreign-financial-institutions/euroclear-bank-japan]]
+- [[foreign-financial-institutions/clearstream-banking-japan]]
 - [[securities/japan-securities-clearing-corp]]
 - [[securities/japan-securities-depository-center]]
 - [[securities/japan-asset-manager-landscape-matrix]]

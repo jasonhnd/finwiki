@@ -126,7 +126,7 @@ In contrast to emerging-market valuation, Japan country risk premium is typicall
 
 | Sector | Indicative WACC class (2026) |
 |---|---|
-| Megabank ([[JapanFG/mufg|MUFG]] / [[JapanFG/smfg|SMFG]] / [[JapanFG/mizuho-fg|Mizuho FG]]) | 7-9% on equity-side / 4-6% on group blended |
+| Megabank ([[megabanks/mufg|MUFG]] / [[megabanks/smfg|SMFG]] / [[megabanks/mizuho-fg|Mizuho FG]]) | 7-9% on equity-side / 4-6% on group blended |
 | Trading house ([[finance/japan-cross-shareholding-unwinding-economics|cross-shareholding-heavy]]) | 6-8% |
 | Telecom (e.g. NTT, KDDI) | 5-7% |
 | Listed real-estate developer | 5-7% |

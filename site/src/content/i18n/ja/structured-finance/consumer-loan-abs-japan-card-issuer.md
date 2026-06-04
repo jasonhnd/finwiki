@@ -11,7 +11,7 @@ translated_at: 2026-06-03T00:53:08.261Z
 
 ## 要約
 
-日本の消費者ローンおよびカード債権ABSは、[[JapanFG/aplus]]、[[JapanFG/orico]]、[[JapanFG/jaccs]]、[[JapanFG/mufg-nicos]]などの主要な消費者金融会社・カード発行会社によって発行され、早期償還トリガーを備えたリボルビング・プール構造を用いる。この資産クラスは、カード債権が短期・回転型であり、景気循環に敏感な消費者信用需要に結びついているため、オートローンABSとは構造的に異なる。デフォルト率はオートローンABSより循環的だが、強いトリガーを備えたリボルビング構造がシニア債投資家を保護する。このページは、[[structured-finance/INDEX]]における消費者／カードABSの構造メカニクスを扱い、[[JapanFG/INDEX]]の消費者金融会社ページへ接続するために使う。
+日本の消費者ローンおよびカード債権ABSは、[[card-issuers/aplus]]、[[card-issuers/orico]]、[[card-issuers/jaccs]]、[[card-issuers/mufg-nicos]]などの主要な消費者金融会社・カード発行会社によって発行され、早期償還トリガーを備えたリボルビング・プール構造を用いる。この資産クラスは、カード債権が短期・回転型であり、景気循環に敏感な消費者信用需要に結びついているため、オートローンABSとは構造的に異なる。デフォルト率はオートローンABSより循環的だが、強いトリガーを備えたリボルビング構造がシニア債投資家を保護する。このページは、[[structured-finance/INDEX]]における消費者／カードABSの構造メカニクスを扱い、[[JapanFG/INDEX]]の消費者金融会社ページへ接続するために使う。
 
 ## ウィキ上の位置づけ
 
@@ -21,19 +21,19 @@ translated_at: 2026-06-03T00:53:08.261Z
 | オートローンABSとの比較 | [[structured-finance/auto-loan-abs-japan-toyota-honda]] |
 | SPVビークル | [[structured-finance/spv-tk-gk-vehicle-japan-tax]] |
 | 格付手法 | [[structured-finance/credit-rating-methodology-jcr-r-and-i]] |
-| カード発行会社ページ | [[JapanFG/jcb]] |
+| カード発行会社ページ | [[card-issuers/jcb]] |
 
 ## 1. 反復発行体
 
 | 発行体 | ブランド／事業 | 典型的な証券化対象資産 |
 |---|---|---|
-| [[JapanFG/aplus]] | Aplus Financial（SBI／その他との関係あり） | 消費者ローン、割賦債権 |
-| [[JapanFG/orico]] | Orient Corporation | カード債権、自動車割賦、消費者ローン |
-| [[JapanFG/jaccs]] | JACCS Co., Ltd. | 割賦債権、カード債権、消費者ローン |
-| [[JapanFG/mufg-nicos]] | Mitsubishi UFJ NICOS | カード債権 |
-| [[JapanFG/jcb]] | JCB | カード債権（JCBブランド） |
-| [[JapanFG/credit-saison]] | Credit Saison | カード債権、割賦債権 |
-| [[JapanFG/aeon-financial-service]] | Aeon Financial Service（Aeon Cardなど） | カード債権、割賦債権 |
+| [[card-issuers/aplus]] | Aplus Financial（SBI／その他との関係あり） | 消費者ローン、割賦債権 |
+| [[card-issuers/orico]] | Orient Corporation | カード債権、自動車割賦、消費者ローン |
+| [[card-issuers/jaccs]] | JACCS Co., Ltd. | 割賦債権、カード債権、消費者ローン |
+| [[card-issuers/mufg-nicos]] | Mitsubishi UFJ NICOS | カード債権 |
+| [[card-issuers/jcb]] | JCB | カード債権（JCBブランド） |
+| [[card-issuers/credit-saison]] | Credit Saison | カード債権、割賦債権 |
+| [[card-issuers/aeon-financial-service]] | Aeon Financial Service（Aeon Cardなど） | カード債権、割賦債権 |
 
 これらが主要な反復発行体である。一部の案件は銀行系の信託構造を使い、別の案件はTK-GK型SPVを使う。
 
@@ -96,7 +96,7 @@ translated_at: 2026-06-03T00:53:08.261Z
 
 ## 7. ビークル選択
 
-日本の消費者／カード債権ABSの多くは、TK-GK型SPV（[[structured-finance/spv-tk-gk-vehicle-japan-tax]]）または信託受益権構造（[[structured-finance/japan-trust-beneficial-interest-vs-spv]]）を用いる。受託者が[[JapanFG/sumitomo-mitsui-trust]]やMitsubishi UFJ Trustのような大手信託銀行である場合、信託構造が一般的である。
+日本の消費者／カード債権ABSの多くは、TK-GK型SPV（[[structured-finance/spv-tk-gk-vehicle-japan-tax]]）または信託受益権構造（[[structured-finance/japan-trust-beneficial-interest-vs-spv]]）を用いる。受託者が[[trust-banks/sumitomo-mitsui-trust]]やMitsubishi UFJ Trustのような大手信託銀行である場合、信託構造が一般的である。
 
 ## 8. 発行体にとっての資金調達ミックス上の役割
 
@@ -120,11 +120,11 @@ ABSが提供するもの:
 - [[structured-finance/spv-tk-gk-vehicle-japan-tax]]
 - [[structured-finance/japan-trust-beneficial-interest-vs-spv]]
 - [[structured-finance/credit-rating-methodology-jcr-r-and-i]]
-- [[JapanFG/orico]]
-- [[JapanFG/jaccs]]
-- [[JapanFG/aplus]]
-- [[JapanFG/mufg-nicos]]
-- [[JapanFG/jcb]]
+- [[card-issuers/orico]]
+- [[card-issuers/jaccs]]
+- [[card-issuers/aplus]]
+- [[card-issuers/mufg-nicos]]
+- [[card-issuers/jcb]]
 
 ## 出典
 

@@ -27,13 +27,13 @@ sources:
 
 This entry sits under [[insurance/INDEX|insurance index]] and is the routing page for the intersection of IAIS Internationally Active Insurance Group designation and Insurance Capital Standard reporting for Japan-headquartered groups. Read it together with [[insurance/global-solvency-framework-comparison-matrix|global solvency framework matrix]] for the regime comparison, with [[insurance/economic-value-based-solvency|economic-value-based solvency]] for the Japan FSA framework, with [[insurance/esr-economic-value-solvency|ESR]] for the company-ratio interpretation, with [[insurance/japan-life-insurance-big-four|Japan life big four]] for the life-side entities, with [[insurance/japan-nonlife-big-three|Japan non-life big three]] for the P&C-side entities, with [[insurance/foreign-life-affiliate-japan-positioning|foreign-life affiliates positioning]] for the inbound foreign-IAIG perspective, and with [[insurance/japan-life-insurance-alm-overview|Japan life ALM overview]] for the balance-sheet drivers that ICS reporting captures.
 
-License-route context is in [[JapanFG/legal-financial-licenses/insurance-license-and-solvency|insurance license and solvency route]].
+License-route context is in [[financial-licenses/insurance-license-and-solvency|insurance license and solvency route]].
 
 ## TL;DR
 
 The IAIS Insurance Capital Standard Version 2.0 was finalized in December 2024 after a five-year monitoring period (2020-2024) and becomes the Prescribed Capital Requirement (PCR) for Internationally Active Insurance Groups (IAIGs) from 2025 onward. Designation as an IAIG is performed by the group's group-wide supervisor based on IAIS criteria including international activity (premium and assets in multiple jurisdictions) and size thresholds.
 
-For Japan-headquartered insurance groups, the FSA acts as the group-wide supervisor and is responsible for IAIG designation, ICS reporting collection, internal-model approval where applicable, and participation in international supervisory colleges. The Japan-headquartered groups typically discussed as candidates or designated IAIGs are [[JapanFG/tokio-marine|Tokio Marine]], [[JapanFG/msad|MS&AD]], [[JapanFG/sompo|Sompo]] on the non-life side, and [[JapanFG/nippon-life|Nippon Life]], [[JapanFG/dai-ichi-life|Dai-ichi Life]], [[JapanFG/sumitomo-life|Sumitomo Life]], and [[JapanFG/meiji-yasuda|Meiji Yasuda]] on the life side. The public list of designated IAIGs is maintained by the IAIS and by each group-wide supervisor.
+For Japan-headquartered insurance groups, the FSA acts as the group-wide supervisor and is responsible for IAIG designation, ICS reporting collection, internal-model approval where applicable, and participation in international supervisory colleges. The Japan-headquartered groups typically discussed as candidates or designated IAIGs are [[non-life-insurers/tokio-marine|Tokio Marine]], [[non-life-insurers/msad|MS&AD]], [[non-life-insurers/sompo|Sompo]] on the non-life side, and [[life-insurers/nippon-life|Nippon Life]], [[life-insurers/dai-ichi-life|Dai-ichi Life]], [[life-insurers/sumitomo-life|Sumitomo Life]], and [[life-insurers/meiji-yasuda|Meiji Yasuda]] on the life side. The public list of designated IAIGs is maintained by the IAIS and by each group-wide supervisor.
 
 The Japanese framework runs ICS as a group-level overlay on top of the domestic FSA [[insurance/economic-value-based-solvency|ESR]] regime, with the two frameworks calibrated to be conceptually close but not identical.
 
@@ -57,9 +57,9 @@ For Japan-headquartered insurance groups, IAIG perimeter is determined by intern
 
 | Group | International footprint relevant to IAIG criteria |
 |---|---|
-| [[JapanFG/tokio-marine|Tokio Marine]] | Global P&C franchise with major acquisitions in US (Philadelphia Consolidated, HCC, Pure Group), Europe, Asia, plus Lloyd's syndicate presence. International premium share is structurally meaningful |
-| [[JapanFG/msad|MS&AD]] | International franchise via [[JapanFG/aioi-nissay-dowa-insurance|Aioi Nissay Dowa Insurance]] (Toyota / mobility relationships globally), MS Amlin (specialty reinsurance, Lloyd's), and overseas P&C subsidiaries |
-| [[JapanFG/sompo|Sompo]] | International franchise including Sompo International (specialty and reinsurance), legacy Endurance / Sompo International perimeter, and overseas distribution |
+| [[non-life-insurers/tokio-marine|Tokio Marine]] | Global P&C franchise with major acquisitions in US (Philadelphia Consolidated, HCC, Pure Group), Europe, Asia, plus Lloyd's syndicate presence. International premium share is structurally meaningful |
+| [[non-life-insurers/msad|MS&AD]] | International franchise via [[non-life-insurers/aioi-nissay-dowa-insurance|Aioi Nissay Dowa Insurance]] (Toyota / mobility relationships globally), MS Amlin (specialty reinsurance, Lloyd's), and overseas P&C subsidiaries |
+| [[non-life-insurers/sompo|Sompo]] | International franchise including Sompo International (specialty and reinsurance), legacy Endurance / Sompo International perimeter, and overseas distribution |
 
 All three non-life groups are widely identified as IAIGs based on international footprint. The FSA acts as group-wide supervisor and runs ICS reporting at the holding-company level.
 
@@ -67,14 +67,14 @@ All three non-life groups are widely identified as IAIGs based on international 
 
 | Group | International footprint relevant to IAIG criteria |
 |---|---|
-| [[JapanFG/nippon-life|Nippon Life]] | Largest Japanese life insurer; overseas insurance and asset-management investments and acquisitions across multiple jurisdictions. Footprint is meaningful but proportionally smaller than non-life peers relative to total balance sheet |
-| [[JapanFG/dai-ichi-life|Dai-ichi Life]] | Listed life-insurance holding with TAL Australia, Protective Life US, and Asian operations. International footprint is structurally meaningful |
-| [[JapanFG/sumitomo-life|Sumitomo Life]] | Overseas investment portfolio and selective overseas insurance investments. Footprint exists but is more concentrated in investment than in operating insurance |
-| [[JapanFG/meiji-yasuda|Meiji Yasuda]] | International footprint including StanCorp Financial Group US and selected Asian and European investments |
+| [[life-insurers/nippon-life|Nippon Life]] | Largest Japanese life insurer; overseas insurance and asset-management investments and acquisitions across multiple jurisdictions. Footprint is meaningful but proportionally smaller than non-life peers relative to total balance sheet |
+| [[life-insurers/dai-ichi-life|Dai-ichi Life]] | Listed life-insurance holding with TAL Australia, Protective Life US, and Asian operations. International footprint is structurally meaningful |
+| [[life-insurers/sumitomo-life|Sumitomo Life]] | Overseas investment portfolio and selective overseas insurance investments. Footprint exists but is more concentrated in investment than in operating insurance |
+| [[life-insurers/meiji-yasuda|Meiji Yasuda]] | International footprint including StanCorp Financial Group US and selected Asian and European investments |
 
 IAIG designation for each life insurer depends on the specific IAIS criteria thresholds applied by the FSA as group-wide supervisor. Public IAIG lists are maintained by the IAIS and by the FSA. Sumitomo Life and Meiji Yasuda thresholds depend on year-specific international-activity measurement.
 
-[[JapanFG/sony-fg|Sony Financial Group]] / [[JapanFG/sony-life|Sony Life]] perimeter — discussed in [[insurance/sony-life-group-life-operating-model|Sony Life Lifeplanner / group-life operating model]] — is structurally different because the ultimate parent is the non-insurance Sony Group Corporation, and the insurance-group perimeter is narrower than the standalone Japanese mutual peers. IAIG-perimeter classification depends on the FSA's group-perimeter definition.
+[[megabanks/sony-fg|Sony Financial Group]] / [[life-insurers/sony-life|Sony Life]] perimeter — discussed in [[insurance/sony-life-group-life-operating-model|Sony Life Lifeplanner / group-life operating model]] — is structurally different because the ultimate parent is the non-insurance Sony Group Corporation, and the insurance-group perimeter is narrower than the standalone Japanese mutual peers. IAIG-perimeter classification depends on the FSA's group-perimeter definition.
 
 ## ICS 2.0 reporting timeline
 
@@ -161,7 +161,7 @@ Supervisory colleges convened by the FSA as group-wide supervisor for Japanese I
 | IAIS observer where applicable | Cross-jurisdiction monitoring and benchmarking |
 | Group internal-audit or external-audit representatives where invited | Discussion of audit findings relevant to group risk |
 
-For [[JapanFG/tokio-marine|Tokio Marine]] the host-supervisor participants typically include US state regulators (for Philadelphia Consolidated, HCC, Pure Group), UK PRA (for Lloyd's syndicates), and additional Asian and European supervisors. For [[JapanFG/dai-ichi-life|Dai-ichi Life]] the host-supervisor participants typically include APRA (Australia, for TAL), US state regulators (for Protective Life), and selected Asian supervisors. For [[JapanFG/msad|MS&AD]] and [[JapanFG/sompo|Sompo]] the host-supervisor mix reflects each group's specific overseas P&C footprint.
+For [[non-life-insurers/tokio-marine|Tokio Marine]] the host-supervisor participants typically include US state regulators (for Philadelphia Consolidated, HCC, Pure Group), UK PRA (for Lloyd's syndicates), and additional Asian and European supervisors. For [[life-insurers/dai-ichi-life|Dai-ichi Life]] the host-supervisor participants typically include APRA (Australia, for TAL), US state regulators (for Protective Life), and selected Asian supervisors. For [[non-life-insurers/msad|MS&AD]] and [[non-life-insurers/sompo|Sompo]] the host-supervisor mix reflects each group's specific overseas P&C footprint.
 
 The college mechanism is the practical infrastructure that makes ICS implementable at the group level — without coordinated information sharing across home and host supervisors, the group-level capital figure would not be reliably measurable.
 
@@ -212,16 +212,16 @@ The FSA does not unilaterally apply ICS to foreign-IAIG subsidiaries — that is
 - [[insurance/natcat-reinsurance-japan]]
 - [[insurance/earthquake-insurance-public-private-scheme]]
 - [[insurance/mutual-vs-stock-life-insurer]]
-- [[JapanFG/tokio-marine]]
-- [[JapanFG/msad]]
-- [[JapanFG/sompo]]
-- [[JapanFG/nippon-life]]
-- [[JapanFG/dai-ichi-life]]
-- [[JapanFG/sumitomo-life]]
-- [[JapanFG/meiji-yasuda]]
-- [[JapanFG/sony-life]]
-- [[JapanFG/sony-fg]]
-- [[JapanFG/legal-financial-licenses/insurance-license-and-solvency]]
+- [[non-life-insurers/tokio-marine]]
+- [[non-life-insurers/msad]]
+- [[non-life-insurers/sompo]]
+- [[life-insurers/nippon-life]]
+- [[life-insurers/dai-ichi-life]]
+- [[life-insurers/sumitomo-life]]
+- [[life-insurers/meiji-yasuda]]
+- [[life-insurers/sony-life]]
+- [[megabanks/sony-fg]]
+- [[financial-licenses/insurance-license-and-solvency]]
 - [[finance/japan-listed-financial-groups-investable-universe]]
 - [[INDEX|FinWiki index]]
 

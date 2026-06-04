@@ -30,7 +30,7 @@ translated_at: 2026-05-31T11:13:44.934Z
 
 ## 起源与演变
 
-2021 年 mBridge 启动 · 同时Agora还只是BIS内部的一个构想。 2023-2024 年 mBridge 处于 MVP 阶段，Agora 仍处于准备阶段。 2024-04 Agora官方公告·7 央行+41 商业银行参与（JPM/花旗/汇丰/[[JapanFG/mufg|三菱 UFJ]]等）。 2025-Q1-Q3 Agora第一个原子定居点PoC完成 · mBridge同时受到G7 政治压力的包围。 2025-10 BIS 宣布退出 mBridge 业务，同时继续推动 Agora 的进步。 2026-Q2 mBridge与巴西DREX互操作测试·Agora进入央行扩容招募阶段。两个项目都从“BIS双轨”转变为“竞争2 货币阵营的技术栈”。
+2021 年 mBridge 启动 · 同时Agora还只是BIS内部的一个构想。 2023-2024 年 mBridge 处于 MVP 阶段，Agora 仍处于准备阶段。 2024-04 Agora官方公告·7 央行+41 商业银行参与（JPM/花旗/汇丰/[[megabanks/mufg|三菱 UFJ]]等）。 2025-Q1-Q3 Agora第一个原子定居点PoC完成 · mBridge同时受到G7 政治压力的包围。 2025-10 BIS 宣布退出 mBridge 业务，同时继续推动 Agora 的进步。 2026-Q2 mBridge与巴西DREX互操作测试·Agora进入央行扩容招募阶段。两个项目都从“BIS双轨”转变为“竞争2 货币阵营的技术栈”。
 
 ＃＃ 有关的
 <!-- wiki-links:managed -->

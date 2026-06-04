@@ -69,13 +69,13 @@ These routes capture material operators already present in FinWiki. They are not
 
 | Segment | Existing routes |
 |---|---|
-| Independent securities groups | [[JapanFG/nomura-hd]], [[JapanFG/daiwa-sg]] |
-| Megabank securities arms | [[JapanFG/smbc-nikko]], [[JapanFG/mizuho-securities]], [[JapanFG/mufg-mums]] |
-| Online brokers | [[JapanFG/sbi-securities]], [[JapanFG/rakuten-securities]], [[JapanFG/monex-group]], [[JapanFG/mufg-esmart-securities]], [[JapanFG/paypay-securities]], [[JapanFG/gmo-click-securities]], [[JapanFG/dmm-com-securities]] |
-| FX / derivatives brokers | [[JapanFG/traders-securities]], [[JapanFG/saxo-bank-securities]], [[JapanFG/sbi-fx-trade]] |
-| Asset managers | [[JapanFG/nomura-asset-management]], [[JapanFG/asset-management-one]], [[JapanFG/mufg-asset-management]], [[JapanFG/smd-am]], [[JapanFG/daiwa-asset-management]], [[JapanFG/sbi-asset-management]], [[JapanFG/nikko-asset-management]] |
+| Independent securities groups | [[securities-firms/nomura-hd]], [[securities-firms/daiwa-sg]] |
+| Megabank securities arms | [[securities-firms/smbc-nikko]], [[securities-firms/mizuho-securities]], [[securities-firms/mufg-mums]] |
+| Online brokers | [[securities-firms/sbi-securities]], [[securities-firms/rakuten-securities]], [[securities-firms/monex-group]], [[securities-firms/mufg-esmart-securities]], [[securities-firms/paypay-securities]], [[securities-firms/gmo-click-securities]], [[securities-firms/dmm-com-securities]] |
+| FX / derivatives brokers | [[securities-firms/traders-securities]], [[securities-firms/saxo-bank-securities]], [[securities-firms/sbi-fx-trade]] |
+| Asset managers | [[asset-managers/nomura-asset-management]], [[asset-managers/asset-management-one]], [[asset-managers/mufg-asset-management]], [[asset-managers/smd-am]], [[asset-managers/daiwa-asset-management]], [[asset-managers/sbi-asset-management]], [[asset-managers/nikko-asset-management]] |
 | PTS / market infrastructure | [[securities/japannext-securities]], [[securities/osaka-digital-exchange]] |
-| Foreign investment banks / brokers | [[JapanFG/goldman-sachs-japan]], [[JapanFG/jpmorgan-japan]], [[JapanFG/morgan-stanley-japan]], [[JapanFG/bnp-paribas-japan]], [[JapanFG/ubs-japan]], [[JapanFG/barclays-japan]], [[JapanFG/citigroup-japan]], [[JapanFG/deutsche-japan]], [[JapanFG/bank-of-america-japan]], [[JapanFG/socgen-japan]] |
+| Foreign investment banks / brokers | [[securities-firms/goldman-sachs-japan]], [[foreign-financial-institutions/jpmorgan-japan]], [[securities-firms/morgan-stanley-japan]], [[foreign-financial-institutions/bnp-paribas-japan]], [[foreign-financial-institutions/ubs-japan]], [[foreign-financial-institutions/barclays-japan]], [[foreign-financial-institutions/citigroup-japan]], [[foreign-financial-institutions/deutsche-japan]], [[foreign-financial-institutions/bank-of-america-japan]], [[foreign-financial-institutions/socgen-japan]] |
 
 ## Promotion Rules
 
@@ -90,8 +90,8 @@ Promote an operator from registry-only to standalone page only if it is:
 
 - [[securities/INDEX]]
 - [[JapanFG/INDEX]]
-- [[JapanFG/legal-financial-licenses/INDEX]]
-- [[JapanFG/missing-financial-institutions-backlog]]
+- [[financial-licenses/INDEX]]
+- [[financial-regulators/missing-financial-institutions-backlog]]
 - [[securities/japan-securities-clearing-corp]]
 - [[securities/japan-securities-depository-center]]
 - [[securities/japannext-securities]]

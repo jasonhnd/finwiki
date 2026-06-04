@@ -49,5 +49,5 @@ translated_at: 2026-06-02T12:19:04.214Z
 - [[fintech/genius-act-501-denylist-mandate]]
 - [[fintech/global-stablecoin-regulatory-five-pole-matrix]] — グローバル stablecoin 規制 5 極比較
 - [[fintech/japan-stablecoin-regulatory-landscape]] — 日本 stablecoin 規制ランドスケープ
-- [[JapanFG/jpyc]] — JPYC operating-company anchor
-- [[JapanFG/progmat]] — Progmat operating-company anchor
+- [[payment-firms/jpyc]] — JPYC operating-company anchor
+- [[payment-firms/progmat]] — Progmat operating-company anchor

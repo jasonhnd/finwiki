@@ -13,7 +13,7 @@ translated_at: 2026-06-02T16:33:58.498Z
 
 日本の BNPL は、別個の魔法のようなカテゴリではなく、チェックアウト信用の境界として扱うのが最もよい。商品は「あと払い」に見えても、その法的 / 運用上のルートは、割賦販売、信用購入あっせん、加盟店管理、消費者審査、コンビニ返済、ウォレット連携、貸金に触れることがある。
 
-このページは [[payments/INDEX|payments domain]]、[[JapanFG/bnpl-landscape|Japan BNPL landscape]]、[[JapanFG/paidy|Paidy]]、[[JapanFG/installment-sales-act-2020-amendment|Installment Sales Act 2020 amendment]]、[[payments/japan-card-issuer-acquirer-processor-split|card issuer / acquirer / processor split]]、[[payments/credit-purchase-card-operators-japan-index|credit-purchase registry]]、[[payments/cashless-jp-landscape|cashless landscape]] と併せて用いる。
+このページは [[payments/INDEX|payments domain]]、[[payment-firms/bnpl-landscape|Japan BNPL landscape]]、[[payment-firms/paidy|Paidy]]、[[card-issuers/installment-sales-act-2020-amendment|Installment Sales Act 2020 amendment]]、[[payments/japan-card-issuer-acquirer-processor-split|card issuer / acquirer / processor split]]、[[payments/credit-purchase-card-operators-japan-index|credit-purchase registry]]、[[payments/cashless-jp-landscape|cashless landscape]] と併せて用いる。
 
 ## 境界マップ
 
@@ -31,10 +31,10 @@ translated_at: 2026-06-02T16:33:58.498Z
 
 日本には、世界的な BNPL ブーム以前から成熟した割賦販売およびカード分割インフラがあった。そのため BNPL は、次のものと競合し、ときに似た姿を取る。
 
-- [[JapanFG/jcb|JCB]]、[[JapanFG/smbc-card|SMBC Card]]、[[JapanFG/rakuten-card|Rakuten Card]]、[[JapanFG/paypay-card|PayPay Card]] が提供するクレジットカード分割 / リボ商品。
-- [[JapanFG/orico|Orico]]、[[JapanFG/jaccs|JACCS]]、[[JapanFG/aplus|APLUS]]、[[JapanFG/credit-saison|Credit Saison]] などの従来型クレジット / ショッピングクレジット事業者。
-- [[JapanFG/paidy|Paidy]] などのプラットフォームチェックアウト商品。
-- [[JapanFG/paypay|PayPay]]、[[JapanFG/rakuten-fg|Rakuten FG]]、[[JapanFG/mercari-hd|Mercari HD]] 周辺のウォレット / ポイントエコシステム。
+- [[card-issuers/jcb|JCB]]、[[card-issuers/smbc-card|SMBC Card]]、[[card-issuers/rakuten-card|Rakuten Card]]、[[card-issuers/paypay-card|PayPay Card]] が提供するクレジットカード分割 / リボ商品。
+- [[card-issuers/orico|Orico]]、[[card-issuers/jaccs|JACCS]]、[[card-issuers/aplus|APLUS]]、[[card-issuers/credit-saison|Credit Saison]] などの従来型クレジット / ショッピングクレジット事業者。
+- [[payment-firms/paidy|Paidy]] などのプラットフォームチェックアウト商品。
+- [[payment-firms/paypay|PayPay]]、[[payment-firms/rakuten-fg|Rakuten FG]]、[[payment-firms/mercari-hd|Mercari HD]] 周辺のウォレット / ポイントエコシステム。
 
 ## リスク上の問い
 
@@ -49,9 +49,9 @@ translated_at: 2026-06-02T16:33:58.498Z
 
 ## JapanFG での関連性
 
-- [[JapanFG/paidy|Paidy]] は、PayPal が日本ローカル BNPL プラットフォームとして買収したため anchor である。
-- [[JapanFG/bnpl-landscape|Japan BNPL landscape]] は会社 / 市場の見方を与え、このページは法的 / 運用上の境界を与える。
-- [[JapanFG/orico|Orico]]、[[JapanFG/jaccs|JACCS]]、[[JapanFG/aplus|APLUS]]、[[JapanFG/toyota-finance|Toyota Finance]]、[[JapanFG/shinsei-financial|Shinsei Financial]] は既存の信用 / 割賦比較 anchor である。
+- [[payment-firms/paidy|Paidy]] は、PayPal が日本ローカル BNPL プラットフォームとして買収したため anchor である。
+- [[payment-firms/bnpl-landscape|Japan BNPL landscape]] は会社 / 市場の見方を与え、このページは法的 / 運用上の境界を与える。
+- [[card-issuers/orico|Orico]]、[[card-issuers/jaccs|JACCS]]、[[card-issuers/aplus|APLUS]]、[[card-issuers/toyota-finance|Toyota Finance]]、[[consumer-finance/shinsei-financial|Shinsei Financial]] は既存の信用 / 割賦比較 anchor である。
 - [[payments/japan-card-issuer-acquirer-processor-split|Card issuer / acquirer split]] は、BNPL がカードと同じ加盟店チェックアウトで提供される場合に必要である。
 
 ## 調査チェックリスト
@@ -65,15 +65,15 @@ translated_at: 2026-06-02T16:33:58.498Z
 ## 関連項目
 
 - [[payments/INDEX]]
-- [[JapanFG/bnpl-landscape]]
-- [[JapanFG/paidy]]
-- [[JapanFG/installment-sales-act-2020-amendment]]
+- [[payment-firms/bnpl-landscape]]
+- [[payment-firms/paidy]]
+- [[card-issuers/installment-sales-act-2020-amendment]]
 - [[payments/japan-card-issuer-acquirer-processor-split]]
 - [[payments/credit-purchase-card-operators-japan-index]]
 - [[payments/psp-merchant-settlement-risk]]
 - [[payments/funds-transfer-vs-prepaid-boundary]]
-- [[JapanFG/orico]]
-- [[JapanFG/jaccs]]
+- [[card-issuers/orico]]
+- [[card-issuers/jaccs]]
 - [[INDEX|FinWiki index]]
 
 ## 出典

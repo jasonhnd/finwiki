@@ -59,48 +59,48 @@
     "wikilinks": [
       "INDEX",
       "JapanFG/INDEX",
-      "JapanFG/paypay-fg",
       "JapanFG/rakuten-bank",
-      "JapanFG/rakuten-card",
-      "JapanFG/rakuten-fg",
-      "JapanFG/rakuten-securities",
       "business/INDEX",
       "business/gmo-internet-group",
       "business/kitao-yoshitaka-sbi-independent-strategy-case",
       "business/ntt-docomo-d-point-telco-finance-case",
       "business/softbank-vision-fund-arm-ipo-template",
       "business/sony-fg-partial-spinoff-case",
+      "card-issuers/rakuten-card",
       "corporate-strategy/partial-spinoff-tax-deferral",
       "corporate-strategy/spinoff-decision-tree-japan",
       "exchanges/fsa-vasp-registration-system",
-      "payments/cashless-jp-landscape"
+      "megabanks/paypay-fg",
+      "payment-firms/rakuten-fg",
+      "payments/cashless-jp-landscape",
+      "securities-firms/rakuten-securities"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
       "https://finwiki.zksc.io/JapanFG/INDEX",
-      "https://finwiki.zksc.io/JapanFG/paypay-fg",
       "https://finwiki.zksc.io/JapanFG/rakuten-bank",
-      "https://finwiki.zksc.io/JapanFG/rakuten-card",
-      "https://finwiki.zksc.io/JapanFG/rakuten-fg",
-      "https://finwiki.zksc.io/JapanFG/rakuten-securities",
       "https://finwiki.zksc.io/business/INDEX",
       "https://finwiki.zksc.io/business/gmo-internet-group",
       "https://finwiki.zksc.io/business/kitao-yoshitaka-sbi-independent-strategy-case",
       "https://finwiki.zksc.io/business/ntt-docomo-d-point-telco-finance-case",
       "https://finwiki.zksc.io/business/softbank-vision-fund-arm-ipo-template",
       "https://finwiki.zksc.io/business/sony-fg-partial-spinoff-case",
+      "https://finwiki.zksc.io/card-issuers/rakuten-card",
       "https://finwiki.zksc.io/corporate-strategy/partial-spinoff-tax-deferral",
       "https://finwiki.zksc.io/corporate-strategy/spinoff-decision-tree-japan",
       "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
-      "https://finwiki.zksc.io/payments/cashless-jp-landscape"
+      "https://finwiki.zksc.io/megabanks/paypay-fg",
+      "https://finwiki.zksc.io/payment-firms/rakuten-fg",
+      "https://finwiki.zksc.io/payments/cashless-jp-landscape",
+      "https://finwiki.zksc.io/securities-firms/rakuten-securities"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 10416,
-    "word_like_tokens": 1626,
+    "nonspace_chars": 10493,
+    "word_like_tokens": 1636,
     "inbound_wikilinks_count": 11,
-    "last_modified": "2026-06-02"
+    "last_modified": "2026-06-04"
   }
 }

@@ -1,0 +1,81 @@
+{
+  "schema_version": "1.0",
+  "slug": "foreign-financial-institutions/ing-bank-japan",
+  "source_path": "foreign-financial-institutions/ing-bank-japan.md",
+  "url": "https://finwiki.zksc.io/foreign-financial-institutions/ing-bank-japan",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/foreign-financial-institutions/ing-bank-japan.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/foreign-financial-institutions/ing-bank-japan.md",
+  "domain": "foreign-financial-institutions",
+  "title": "アイエヌジーバンク エヌ・ヴイ 東京支店",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "アイエヌジーバンク エヌ・ヴイ 東京支店",
+    "aliases": [
+      "ING Bank Japan",
+      "ING Bank N.V. Tokyo Branch",
+      "ING Wholesale Banking Japan",
+      "アイエヌジーバンク エヌ・ヴイ",
+      "ING Japan"
+    ],
+    "domain": "foreign-financial-institutions",
+    "created": "2026-05-21",
+    "last_updated": "2026-05-21",
+    "last_tended": "2026-05-21",
+    "review_by": "2026-11-21",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "banking",
+      "foreign-bank-branch",
+      "netherlands",
+      "wholesale-banking",
+      "operating-branch"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
+      "https://www.ingwb.com/en/network/asia-pacific/japan",
+      "https://www.ingwb.com/en/network/asia-pacific/japan-info"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against クレディ・アグリコル銀行 東京支店 for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "アイエヌジーバンク エヌ・ヴイ 東京支店",
+    "Wiki route",
+    "TL;DR",
+    "1. License / branch boundary",
+    "2. Operating model",
+    "3. Why this page matters",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 7,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "banking/INDEX",
+      "banking/foreign-bank-japan-retreat",
+      "foreign-financial-institutions/bbva-bank-japan",
+      "foreign-financial-institutions/commerzbank-japan",
+      "foreign-financial-institutions/credit-agricole-bank-japan",
+      "foreign-financial-institutions/intesa-sanpaolo-japan"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/banking/foreign-bank-japan-retreat",
+      "https://finwiki.zksc.io/foreign-financial-institutions/bbva-bank-japan",
+      "https://finwiki.zksc.io/foreign-financial-institutions/commerzbank-japan",
+      "https://finwiki.zksc.io/foreign-financial-institutions/credit-agricole-bank-japan",
+      "https://finwiki.zksc.io/foreign-financial-institutions/intesa-sanpaolo-japan"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2676,
+    "word_like_tokens": 422,
+    "inbound_wikilinks_count": 8,
+    "last_modified": "2026-06-04"
+  }
+}

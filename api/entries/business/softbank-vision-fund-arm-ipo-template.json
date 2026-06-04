@@ -59,7 +59,6 @@
     "wikilinks": [
       "INDEX",
       "JapanFG/INDEX",
-      "JapanFG/sbi-hd",
       "business/INDEX",
       "business/brian-armstrong-coinbase-public-company-template",
       "business/founder-pivot-outcome-template-matrix",
@@ -71,12 +70,12 @@
       "finance/INDEX",
       "finance/japan-leveraged-buyout-economics",
       "finance/japan-listed-financial-groups-investable-universe",
-      "finance/japan-tender-offer-process"
+      "finance/japan-tender-offer-process",
+      "megabanks/sbi-hd"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
       "https://finwiki.zksc.io/JapanFG/INDEX",
-      "https://finwiki.zksc.io/JapanFG/sbi-hd",
       "https://finwiki.zksc.io/business/INDEX",
       "https://finwiki.zksc.io/business/brian-armstrong-coinbase-public-company-template",
       "https://finwiki.zksc.io/business/founder-pivot-outcome-template-matrix",
@@ -88,15 +87,16 @@
       "https://finwiki.zksc.io/finance/INDEX",
       "https://finwiki.zksc.io/finance/japan-leveraged-buyout-economics",
       "https://finwiki.zksc.io/finance/japan-listed-financial-groups-investable-universe",
-      "https://finwiki.zksc.io/finance/japan-tender-offer-process"
+      "https://finwiki.zksc.io/finance/japan-tender-offer-process",
+      "https://finwiki.zksc.io/megabanks/sbi-hd"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 9178,
+    "nonspace_chars": 9180,
     "word_like_tokens": 1573,
     "inbound_wikilinks_count": 7,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-06-04"
   }
 }

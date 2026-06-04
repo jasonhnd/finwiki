@@ -1,0 +1,92 @@
+{
+  "schema_version": "1.0",
+  "slug": "financial-regulators/sonpo-hosho-kiko",
+  "source_path": "financial-regulators/sonpo-hosho-kiko.md",
+  "url": "https://finwiki.zksc.io/financial-regulators/sonpo-hosho-kiko",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/financial-regulators/sonpo-hosho-kiko.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/financial-regulators/sonpo-hosho-kiko.md",
+  "domain": "financial-regulators",
+  "title": "損害保険契約者保護機構",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "損害保険契約者保護機構",
+    "aliases": [
+      "損保契約者保護機構",
+      "Non-life Insurance Policyholders Protection Corporation of Japan",
+      "NLIPP",
+      "損害保険契約者保護機構",
+      "financial-regulators/dai-ichi-mutual"
+    ],
+    "domain": "financial-regulators",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "insurance",
+      "policyholder-protection",
+      "financial-safety-net"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: 損害保険契約者保護機構 (2026-05-25 抽出)",
+      "損害保険契約者保護機構 公式サイト (https://www.sonpohogo.or.jp/, 2026-05-25 参照)",
+      "保険業法 第 259 条以下",
+      "金融庁 保険契約者保護機構関連ページ (https://www.fsa.go.jp/, 2026-05-25 参照)"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 生命保険契約者保護機構 for parallel safety-net peer and 預金保険機構 / 金融庁 for the broader system / regulatory boundary.",
+  "headings": [
+    "損害保険契約者保護機構",
+    "Wiki route",
+    "TL;DR",
+    "1. 法的根拠・設立",
+    "加入義務",
+    "重要年表",
+    "2. 業務スキーム",
+    "補償水準（主要種目）",
+    "3. 資金構造",
+    "負担金算定"
+  ],
+  "body_links": {
+    "wikilinks_count": 12,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "financial-regulators/dai-ichi-mutual",
+      "financial-regulators/dic",
+      "financial-regulators/fsa",
+      "financial-regulators/seimei-hokensha-hogo-kiko",
+      "insurance/INDEX",
+      "non-life-insurers/aioi-nissay-dowa-insurance",
+      "non-life-insurers/mitsui-sumitomo",
+      "non-life-insurers/sompo-japan",
+      "non-life-insurers/taisei-kasai",
+      "non-life-insurers/taisho-kasai",
+      "non-life-insurers/tokio-marine-hd"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/financial-regulators/dai-ichi-mutual",
+      "https://finwiki.zksc.io/financial-regulators/dic",
+      "https://finwiki.zksc.io/financial-regulators/fsa",
+      "https://finwiki.zksc.io/financial-regulators/seimei-hokensha-hogo-kiko",
+      "https://finwiki.zksc.io/insurance/INDEX",
+      "https://finwiki.zksc.io/non-life-insurers/aioi-nissay-dowa-insurance",
+      "https://finwiki.zksc.io/non-life-insurers/mitsui-sumitomo",
+      "https://finwiki.zksc.io/non-life-insurers/sompo-japan",
+      "https://finwiki.zksc.io/non-life-insurers/taisei-kasai",
+      "https://finwiki.zksc.io/non-life-insurers/taisho-kasai",
+      "https://finwiki.zksc.io/non-life-insurers/tokio-marine-hd"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 4439,
+    "word_like_tokens": 620,
+    "inbound_wikilinks_count": 8,
+    "last_modified": "2026-06-04"
+  }
+}

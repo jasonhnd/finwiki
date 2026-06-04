@@ -63,14 +63,6 @@
   "body_links": {
     "wikilinks_count": 25,
     "wikilinks": [
-      "JapanFG/aozora-bank",
-      "JapanFG/gmo-aozora-net",
-      "JapanFG/gmo-click-securities",
-      "JapanFG/gmo-coin",
-      "JapanFG/gmo-financial-hd",
-      "JapanFG/gmo-payment-gateway",
-      "JapanFG/legal-financial-licenses/bank-license-and-baas-boundary",
-      "JapanFG/ssnb",
       "banking/INDEX",
       "banking/au-jibun-bank",
       "banking/baas-japan-landscape",
@@ -85,19 +77,19 @@
       "banking/regional-bank-api-digital-partnership-route",
       "banking/sony-bank",
       "banking/ui-bank",
+      "financial-licenses/bank-license-and-baas-boundary",
       "fintech/japan-stablecoin-regulatory-landscape",
+      "payment-firms/gmo-aozora-net",
+      "payment-firms/gmo-coin",
+      "payment-firms/gmo-financial-hd",
+      "payment-firms/gmo-payment-gateway",
       "payments/japan-bank-api-incident-and-fraud-control",
-      "payments/japan-bank-api-payment-agency-route"
+      "payments/japan-bank-api-payment-agency-route",
+      "regional-banks/aozora-bank",
+      "regional-banks/ssnb",
+      "securities-firms/gmo-click-securities"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/aozora-bank",
-      "https://finwiki.zksc.io/JapanFG/gmo-aozora-net",
-      "https://finwiki.zksc.io/JapanFG/gmo-click-securities",
-      "https://finwiki.zksc.io/JapanFG/gmo-coin",
-      "https://finwiki.zksc.io/JapanFG/gmo-financial-hd",
-      "https://finwiki.zksc.io/JapanFG/gmo-payment-gateway",
-      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/bank-license-and-baas-boundary",
-      "https://finwiki.zksc.io/JapanFG/ssnb",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/au-jibun-bank",
       "https://finwiki.zksc.io/banking/baas-japan-landscape",
@@ -112,17 +104,25 @@
       "https://finwiki.zksc.io/banking/regional-bank-api-digital-partnership-route",
       "https://finwiki.zksc.io/banking/sony-bank",
       "https://finwiki.zksc.io/banking/ui-bank",
+      "https://finwiki.zksc.io/financial-licenses/bank-license-and-baas-boundary",
       "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
+      "https://finwiki.zksc.io/payment-firms/gmo-aozora-net",
+      "https://finwiki.zksc.io/payment-firms/gmo-coin",
+      "https://finwiki.zksc.io/payment-firms/gmo-financial-hd",
+      "https://finwiki.zksc.io/payment-firms/gmo-payment-gateway",
       "https://finwiki.zksc.io/payments/japan-bank-api-incident-and-fraud-control",
-      "https://finwiki.zksc.io/payments/japan-bank-api-payment-agency-route"
+      "https://finwiki.zksc.io/payments/japan-bank-api-payment-agency-route",
+      "https://finwiki.zksc.io/regional-banks/aozora-bank",
+      "https://finwiki.zksc.io/regional-banks/ssnb",
+      "https://finwiki.zksc.io/securities-firms/gmo-click-securities"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 11508,
-    "word_like_tokens": 1830,
+    "nonspace_chars": 11631,
+    "word_like_tokens": 1849,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-06-03"
+    "last_modified": "2026-06-04"
   }
 }

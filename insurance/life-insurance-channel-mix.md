@@ -30,7 +30,7 @@ This entry sits under [[insurance/INDEX|insurance index]]. Read it against [[ins
 
 Life insurance distribution in Japan is not one channel. Large insurers combine captive sales representatives, agencies, bancassurance, corporate / group channels, direct internet sales, call centers, and embedded partners. Channel mix determines product economics, compliance risk, customer demographics, and capital efficiency.
 
-Use this page to compare [[JapanFG/dai-ichi-life]], [[JapanFG/nippon-life]], [[JapanFG/sumitomo-life]], [[JapanFG/lifenet]], [[JapanFG/orix-life]], and [[JapanFG/sony-fg]].
+Use this page to compare [[life-insurers/dai-ichi-life]], [[life-insurers/nippon-life]], [[life-insurers/sumitomo-life]], [[life-insurers/lifenet]], [[life-insurers/orix-life]], and [[megabanks/sony-fg]].
 
 ## Channel Map
 
@@ -45,11 +45,11 @@ Use this page to compare [[JapanFG/dai-ichi-life]], [[JapanFG/nippon-life]], [[J
 
 ## JapanFG Patterns
 
-- [[JapanFG/nippon-life]] and [[JapanFG/sumitomo-life]]: mutual-company heritage and large human-sales infrastructure.
-- [[JapanFG/dai-ichi-life]]: listed holding-company model with multiple domestic channels and overseas subsidiaries; channel productivity affects shareholder returns.
-- [[JapanFG/lifenet]]: direct online origin, then partner / embedded expansion.
-- [[JapanFG/sony-fg]]: Sony Life is planner-led while Sony non-life and bank products are digital / direct, creating a useful contrast inside one brand family.
-- [[JapanFG/orix-life]]: strong product visibility in direct / agency channels.
+- [[life-insurers/nippon-life]] and [[life-insurers/sumitomo-life]]: mutual-company heritage and large human-sales infrastructure.
+- [[life-insurers/dai-ichi-life]]: listed holding-company model with multiple domestic channels and overseas subsidiaries; channel productivity affects shareholder returns.
+- [[life-insurers/lifenet]]: direct online origin, then partner / embedded expansion.
+- [[megabanks/sony-fg]]: Sony Life is planner-led while Sony non-life and bank products are digital / direct, creating a useful contrast inside one brand family.
+- [[life-insurers/orix-life]]: strong product visibility in direct / agency channels.
 
 ## Why It Matters
 
@@ -67,7 +67,7 @@ Channel mix is a strategic variable, not only a sales-detail variable:
 - [[insurance/internet-life-insurance-business-model]]
 - [[insurance/mutual-vs-stock-life-insurer]]
 - [[insurance/economic-value-based-solvency]]
-- [[JapanFG/legal-financial-licenses/INDEX]]
+- [[financial-licenses/INDEX]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

@@ -15,7 +15,7 @@ translated_at: 2026-06-02T16:33:58.511Z
 
 ## 要約
 
-セイコーエプソンは長野県諏訪市に本社を置く精密・電子機器メーカー。[[JapanFG/hachijuni-bank|八十二銀行]] の長野県製造業メインバンク文脈から参照される。プリンティング、プロジェクター、ロボティクス、精密機器を持ち、長野県の電子産業集積と地域金融の接点を見るための製造業アンカーである。
+セイコーエプソンは長野県諏訪市に本社を置く精密・電子機器メーカー。[[regional-banks/hachijuni-bank|八十二銀行]] の長野県製造業メインバンク文脈から参照される。プリンティング、プロジェクター、ロボティクス、精密機器を持ち、長野県の電子産業集積と地域金融の接点を見るための製造業アンカーである。
 
 ## 1. 会社構造
 
@@ -44,7 +44,7 @@ translated_at: 2026-06-02T16:33:58.511Z
 
 ## 3. 戦略と競合
 
-- **長野県電子産業アンカー**: 諏訪・松本周辺の精密機械・電子部品集積を代表する企業であり、[[JapanFG/hachijuni-bank|hachijuni-bank]] の地場製造業金融文脈と接続する。
+- **長野県電子産業アンカー**: 諏訪・松本周辺の精密機械・電子部品集積を代表する企業であり、[[regional-banks/hachijuni-bank|hachijuni-bank]] の地場製造業金融文脈と接続する。
 - **プリンティング依存の転換**: Office / Home Printing は大きな収益源だが、ペーパーレス化・消耗品モデル変化に直面する。
 - **ロボティクス・産業機器**: 人手不足・工場自動化を背景に、産業ロボットや精密機器の成長余地がある。
 - **環境戦略**: 省エネ・資源循環・脱炭素は、企業価値だけでなく設備更新・地域金融の融資テーマにもなる。
@@ -57,7 +57,7 @@ translated_at: 2026-06-02T16:33:58.511Z
 
 ## 関連項目
 
-- [[JapanFG/hachijuni-bank|hachijuni-bank]]
+- [[regional-banks/hachijuni-bank|hachijuni-bank]]
 - [[manufacturer-finance/toyota-motor|toyota-motor]]
 - [[manufacturer-finance/INDEX|manufacturing INDEX]] · [[INDEX|FinWiki index]]
 

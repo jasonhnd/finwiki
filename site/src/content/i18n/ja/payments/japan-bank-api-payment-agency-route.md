@@ -13,7 +13,7 @@ translated_at: 2026-06-02T16:33:58.490Z
 
 日本の銀行 API / 電子決済等代行業ルートは、口座情報を取得したり、口座連動の指図を開始したり、顧客向けサービスを預金口座レールに接続したりする fintech アプリと銀行の間にある、法的・実務上の橋渡しである。銀行、資金移動業者、前払式支払手段発行者、カード加盟店契約会社、ウォレット運営者であることとは同じではない。
 
-このページは [[payments/INDEX|payments domain]]、[[JapanFG/legal-financial-licenses/INDEX|JapanFG legal / financial licenses]]、[[payments/account-to-account-payment-japan|Japan account-to-account payment route]]、[[payments/funds-transfer-vs-prepaid-boundary|funds transfer vs prepaid boundary]]、[[banking/baas-japan-landscape|BaaS Japan landscape]]、[[banking/mercari-bank-license-stack|Mercari Bank license stack]] とあわせて使う。
+このページは [[payments/INDEX|payments domain]]、[[financial-licenses/INDEX|JapanFG legal / financial licenses]]、[[payments/account-to-account-payment-japan|Japan account-to-account payment route]]、[[payments/funds-transfer-vs-prepaid-boundary|funds transfer vs prepaid boundary]]、[[banking/baas-japan-landscape|BaaS Japan landscape]]、[[banking/mercari-bank-license-stack|Mercari Bank license stack]] とあわせて使う。
 
 ## ルートマップ
 
@@ -51,9 +51,9 @@ translated_at: 2026-06-02T16:33:58.490Z
 
 ## JapanFG での関連性
 
-- [[JapanFG/mufg-bank|MUFG Bank]]、[[JapanFG/sumitomo-mitsui-banking-corp|SMBC]]、[[JapanFG/mizuho-bank|Mizuho Bank]]、[[JapanFG/resona-bank|Resona Bank]] は、fintech の口座連携が銀行 API / 契約受入に依存するため重要である。
-- [[JapanFG/sb-payment-service|SB Payment Service]]、[[JapanFG/money-forward|Money Forward]]、[[JapanFG/freee|freee]] は、口座情報、会計、支払、API ルートが戦略的に重要になり得る事業体の例である。
-- [[JapanFG/merpay|Merpay]]、[[JapanFG/paypay|PayPay]]、[[JapanFG/au-payment|au PAY]] は、単一の「決済アプリ」カテゴリとしてではなく、ウォレット / 資金移動 / 前払 / 口座直接 / 銀行 API レイヤーに分けて読む必要がある。
+- [[megabanks/mufg-bank|MUFG Bank]]、[[megabanks/sumitomo-mitsui-banking-corp|SMBC]]、[[megabanks/mizuho-bank|Mizuho Bank]]、[[megabanks/resona-bank|Resona Bank]] は、fintech の口座連携が銀行 API / 契約受入に依存するため重要である。
+- [[payment-firms/sb-payment-service|SB Payment Service]]、[[payment-firms/money-forward|Money Forward]]、[[payment-firms/freee|freee]] は、口座情報、会計、支払、API ルートが戦略的に重要になり得る事業体の例である。
+- [[payment-firms/merpay|Merpay]]、[[payment-firms/paypay|PayPay]]、[[payment-firms/au-payment|au PAY]] は、単一の「決済アプリ」カテゴリとしてではなく、ウォレット / 資金移動 / 前払 / 口座直接 / 銀行 API レイヤーに分けて読む必要がある。
 - [[banking/mercari-bank-license-stack|Mercari Bank license stack]] は、銀行パートナー、アプリ UX、決済口座を分離できることを示す最も明確な内部ルートである。
 
 ## 統制上の確認事項
@@ -84,7 +84,7 @@ translated_at: 2026-06-02T16:33:58.490Z
 3. サービスが情報取得のみか、指図可能か、その両方かを確認する。
 4. 価値が保管、送金、前払化されるのか、単に指図されるだけなのかを確認する。
 5. 公開 API / 銀行パートナー開示と利用者保護告知を確認する。
-6. 会社ページを [[JapanFG/legal-financial-licenses/INDEX|legal / financial licenses]] および関連する決済・銀行ルートにリンクする。
+6. 会社ページを [[financial-licenses/INDEX|legal / financial licenses]] および関連する決済・銀行ルートにリンクする。
 
 ## 関連項目
 
@@ -95,12 +95,12 @@ translated_at: 2026-06-02T16:33:58.490Z
 - [[payments/funds-transfer-service-providers-japan-index]]
 - [[banking/baas-japan-landscape]]
 - [[banking/mercari-bank-license-stack]]
-- [[JapanFG/legal-financial-licenses/INDEX]]
-- [[JapanFG/mufg-bank]]
-- [[JapanFG/sumitomo-mitsui-banking-corp]]
-- [[JapanFG/mizuho-bank]]
-- [[JapanFG/money-forward]]
-- [[JapanFG/freee]]
+- [[financial-licenses/INDEX]]
+- [[megabanks/mufg-bank]]
+- [[megabanks/sumitomo-mitsui-banking-corp]]
+- [[megabanks/mizuho-bank]]
+- [[payment-firms/money-forward]]
+- [[payment-firms/freee]]
 - [[INDEX|FinWiki index]]
 
 ## 出典

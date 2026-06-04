@@ -17,7 +17,7 @@ translated_at: 2026-05-31T07:28:06.167Z
 
 日本寿险分销并非单一渠道。大型保险公司会组合专属销售员、代理店、银保、企业 / 团体渠道、互联网直销、呼叫中心以及嵌入式合作伙伴。渠道结构决定产品经济性、合规风险、客户画像与资本效率。
 
-使用本页来比较 [[JapanFG/dai-ichi-life]]、[[JapanFG/nippon-life]]、[[JapanFG/sumitomo-life]]、[[JapanFG/lifenet]]、[[JapanFG/orix-life]]、[[JapanFG/sony-fg]]。
+使用本页来比较 [[life-insurers/dai-ichi-life]]、[[life-insurers/nippon-life]]、[[life-insurers/sumitomo-life]]、[[life-insurers/lifenet]]、[[life-insurers/orix-life]]、[[megabanks/sony-fg]]。
 
 ## Channel Map
 
@@ -32,11 +32,11 @@ translated_at: 2026-05-31T07:28:06.167Z
 
 ## JapanFG Patterns
 
-- [[JapanFG/nippon-life]] 与 [[JapanFG/sumitomo-life]]：相互会社传统和庞大的人力销售基础设施。
-- [[JapanFG/dai-ichi-life]]：上市控股公司模式，拥有多元国内渠道和海外子公司；渠道生产率会影响股东回报。
-- [[JapanFG/lifenet]]：起源于线上直销，随后扩展到合作伙伴 / 嵌入式分发。
-- [[JapanFG/sony-fg]]：Sony Life 以规划师为主导，而 Sony 非寿险和银行产品更偏数字化 / 直销，在同一品牌家族内部形成有用对比。
-- [[JapanFG/orix-life]]：在直销 / 代理渠道中具备较强产品可见度。
+- [[life-insurers/nippon-life]] 与 [[life-insurers/sumitomo-life]]：相互会社传统和庞大的人力销售基础设施。
+- [[life-insurers/dai-ichi-life]]：上市控股公司模式，拥有多元国内渠道和海外子公司；渠道生产率会影响股东回报。
+- [[life-insurers/lifenet]]：起源于线上直销，随后扩展到合作伙伴 / 嵌入式分发。
+- [[megabanks/sony-fg]]：Sony Life 以规划师为主导，而 Sony 非寿险和银行产品更偏数字化 / 直销，在同一品牌家族内部形成有用对比。
+- [[life-insurers/orix-life]]：在直销 / 代理渠道中具备较强产品可见度。
 
 ## Why It Matters
 
@@ -54,7 +54,7 @@ translated_at: 2026-05-31T07:28:06.167Z
 - [[insurance/internet-life-insurance-business-model]]
 - [[insurance/mutual-vs-stock-life-insurer]]
 - [[insurance/economic-value-based-solvency]]
-- [[JapanFG/legal-financial-licenses/INDEX]]
+- [[financial-licenses/INDEX]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

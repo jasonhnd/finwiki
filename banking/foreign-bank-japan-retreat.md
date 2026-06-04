@@ -30,20 +30,20 @@ This entry sits under [[banking/INDEX|banking index]]. Read it against [[banking
 
 The useful pattern is not "foreign banks left Japan." FSA's current foreign-bank branch list still shows many licensed foreign bank branches. The real pattern is that many foreign banks have narrowed Japan from broad retail / mass-market ambitions to wholesale, institutional, custody, markets, corporate banking, or representative / branch functions where Japan-specific scale economics make sense.
 
-Use this page to read [[JapanFG/foreign-bank-branches-japan-index]], [[JapanFG/hsbc-japan]], [[JapanFG/bank-of-america-japan]], [[JapanFG/socgen-japan]], [[JapanFG/wells-fargo-japan]], [[JapanFG/bny-mellon-japan]], [[JapanFG/state-street-japan]], [[JapanFG/rbc-japan]], [[JapanFG/dbs-bank-japan]], [[JapanFG/euroclear-bank-japan]], [[JapanFG/clearstream-banking-japan]], and the Batch G P0 / P1 / P2 branch pages without flattening them into one category.
+Use this page to read [[foreign-financial-institutions/foreign-bank-branches-japan-index]], [[foreign-financial-institutions/hsbc-japan]], [[foreign-financial-institutions/bank-of-america-japan]], [[foreign-financial-institutions/socgen-japan]], [[foreign-financial-institutions/wells-fargo-japan]], [[foreign-financial-institutions/bny-mellon-japan]], [[foreign-financial-institutions/state-street-japan]], [[foreign-financial-institutions/rbc-japan]], [[foreign-financial-institutions/dbs-bank-japan]], [[foreign-financial-institutions/euroclear-bank-japan]], [[foreign-financial-institutions/clearstream-banking-japan]], and the Batch G P0 / P1 / P2 branch pages without flattening them into one category.
 
 ## Pattern Map
 
 | Model | Japan position | Examples / route |
 |---|---|---|
-| Global wholesale branch | Corporate banking, markets, treasury, trade, lending, derivatives. | [[JapanFG/bank-of-america-japan]], [[JapanFG/socgen-japan]], [[JapanFG/credit-agricole-bank-japan]], [[JapanFG/natixis-japan]], [[JapanFG/rbc-japan]], [[JapanFG/commerzbank-japan]], [[JapanFG/ing-bank-japan]], [[JapanFG/bbva-bank-japan]], [[JapanFG/intesa-sanpaolo-japan]] |
-| Custody / asset-servicing bank | Institutional custody, fund administration, securities services. | [[JapanFG/bny-mellon-japan]], [[JapanFG/state-street-japan]], [[JapanFG/euroclear-bank-japan]], [[JapanFG/clearstream-banking-japan]] |
-| ASEAN / Asia corridor branch | Corporate banking, trade finance, remittance, FDI, and Asia network bridge. | [[JapanFG/dbs-bank-japan]], [[JapanFG/ocbc-bank-japan]], [[JapanFG/uob-bank-japan]], [[JapanFG/bangkok-bank-japan]], [[JapanFG/bank-of-taiwan-japan]], [[JapanFG/mega-icbc-japan]], [[JapanFG/ctbc-bank-japan]], [[JapanFG/esun-bank-japan]] |
-| Korea corridor branch | Korean commercial / policy-bank branches for deposits, remittance, trade, project finance, and corporate banking. | [[JapanFG/woori-bank-japan]], [[JapanFG/hana-bank-japan]], [[JapanFG/korea-development-bank-japan]], [[JapanFG/industrial-bank-of-korea-japan]], [[JapanFG/kb-kookmin-bank-japan]] |
-| Mainland China branch | China-Japan deposits, lending, trade settlement, RMB / FX, and cross-border corporate services. | [[JapanFG/bank-of-china-japan]], [[JapanFG/icbc-japan]], [[JapanFG/china-construction-bank-japan]], [[JapanFG/agricultural-bank-of-china-japan]], [[JapanFG/bank-of-communications-japan]] |
-| India / Australia-New Zealand corridor branch | Corporate banking, trade finance, project / acquisition finance adjacency, markets, and financial-instruments stack. | [[JapanFG/state-bank-of-india-japan]], [[JapanFG/bank-of-india-japan]], [[JapanFG/anz-bank-japan]] |
-| Niche wholesale / securities service | Japan legal entity or branch built around institutional infrastructure. | [[JapanFG/wells-fargo-japan]], [[JapanFG/bank-of-america-japan]], [[JapanFG/anz-bank-japan]] |
-| Retail retreat / shrinkage | Retail banking is difficult without distribution scale, deposit franchise, and local brand. | [[JapanFG/hsbc-japan]] as a comparison anchor |
+| Global wholesale branch | Corporate banking, markets, treasury, trade, lending, derivatives. | [[foreign-financial-institutions/bank-of-america-japan]], [[foreign-financial-institutions/socgen-japan]], [[foreign-financial-institutions/credit-agricole-bank-japan]], [[foreign-financial-institutions/natixis-japan]], [[foreign-financial-institutions/rbc-japan]], [[foreign-financial-institutions/commerzbank-japan]], [[foreign-financial-institutions/ing-bank-japan]], [[foreign-financial-institutions/bbva-bank-japan]], [[foreign-financial-institutions/intesa-sanpaolo-japan]] |
+| Custody / asset-servicing bank | Institutional custody, fund administration, securities services. | [[foreign-financial-institutions/bny-mellon-japan]], [[foreign-financial-institutions/state-street-japan]], [[foreign-financial-institutions/euroclear-bank-japan]], [[foreign-financial-institutions/clearstream-banking-japan]] |
+| ASEAN / Asia corridor branch | Corporate banking, trade finance, remittance, FDI, and Asia network bridge. | [[foreign-financial-institutions/dbs-bank-japan]], [[foreign-financial-institutions/ocbc-bank-japan]], [[foreign-financial-institutions/uob-bank-japan]], [[foreign-financial-institutions/bangkok-bank-japan]], [[foreign-financial-institutions/bank-of-taiwan-japan]], [[foreign-financial-institutions/mega-icbc-japan]], [[foreign-financial-institutions/ctbc-bank-japan]], [[foreign-financial-institutions/esun-bank-japan]] |
+| Korea corridor branch | Korean commercial / policy-bank branches for deposits, remittance, trade, project finance, and corporate banking. | [[foreign-financial-institutions/woori-bank-japan]], [[foreign-financial-institutions/hana-bank-japan]], [[foreign-financial-institutions/korea-development-bank-japan]], [[foreign-financial-institutions/industrial-bank-of-korea-japan]], [[foreign-financial-institutions/kb-kookmin-bank-japan]] |
+| Mainland China branch | China-Japan deposits, lending, trade settlement, RMB / FX, and cross-border corporate services. | [[foreign-financial-institutions/bank-of-china-japan]], [[foreign-financial-institutions/icbc-japan]], [[foreign-financial-institutions/china-construction-bank-japan]], [[foreign-financial-institutions/agricultural-bank-of-china-japan]], [[foreign-financial-institutions/bank-of-communications-japan]] |
+| India / Australia-New Zealand corridor branch | Corporate banking, trade finance, project / acquisition finance adjacency, markets, and financial-instruments stack. | [[foreign-financial-institutions/state-bank-of-india-japan]], [[foreign-financial-institutions/bank-of-india-japan]], [[securities-firms/anz-bank-japan]] |
+| Niche wholesale / securities service | Japan legal entity or branch built around institutional infrastructure. | [[foreign-financial-institutions/wells-fargo-japan]], [[foreign-financial-institutions/bank-of-america-japan]], [[securities-firms/anz-bank-japan]] |
+| Retail retreat / shrinkage | Retail banking is difficult without distribution scale, deposit franchise, and local brand. | [[foreign-financial-institutions/hsbc-japan]] as a comparison anchor |
 
 ## Why Retail Is Hard
 
@@ -63,50 +63,50 @@ Foreign bank branches are supervised under the Banking Act and FSA's major-bank 
 
 Do not infer "unlicensed" from a brand's reduced retail presence. Check the current FSA foreign-bank branch list and the specific entity's Japan disclosure.
 
-The full 57-row FSA branch surface is tracked in [[JapanFG/foreign-bank-branches-japan-index]]. After the P2 strategic exception pass, 43 rows have standalone / umbrella wiki routes and 14 remain registry-only. Registry-only rows stays registry-only unless a future question needs standalone analysis.
+The full 57-row FSA branch surface is tracked in [[foreign-financial-institutions/foreign-bank-branches-japan-index]]. After the P2 strategic exception pass, 43 rows have standalone / umbrella wiki routes and 14 remain registry-only. Registry-only rows stays registry-only unless a future question needs standalone analysis.
 
 ## Related
 
 - [[banking/INDEX|banking INDEX]]
 - [[banking/post-megabank-positioning]]
-- [[JapanFG/foreign-bank-branches-japan-index]]
-- [[JapanFG/hsbc-japan]]
-- [[JapanFG/bank-of-america-japan]]
-- [[JapanFG/socgen-japan]]
-- [[JapanFG/bny-mellon-japan]]
-- [[JapanFG/state-street-japan]]
-- [[JapanFG/euroclear-bank-japan]]
-- [[JapanFG/clearstream-banking-japan]]
-- [[JapanFG/wells-fargo-japan]]
-- [[JapanFG/credit-agricole-bank-japan]]
-- [[JapanFG/natixis-japan]]
-- [[JapanFG/rbc-japan]]
-- [[JapanFG/commerzbank-japan]]
-- [[JapanFG/ing-bank-japan]]
-- [[JapanFG/dbs-bank-japan]]
-- [[JapanFG/ocbc-bank-japan]]
-- [[JapanFG/uob-bank-japan]]
-- [[JapanFG/bangkok-bank-japan]]
-- [[JapanFG/bbva-bank-japan]]
-- [[JapanFG/intesa-sanpaolo-japan]]
-- [[JapanFG/woori-bank-japan]]
-- [[JapanFG/hana-bank-japan]]
-- [[JapanFG/korea-development-bank-japan]]
-- [[JapanFG/industrial-bank-of-korea-japan]]
-- [[JapanFG/kb-kookmin-bank-japan]]
-- [[JapanFG/bank-of-taiwan-japan]]
-- [[JapanFG/mega-icbc-japan]]
-- [[JapanFG/ctbc-bank-japan]]
-- [[JapanFG/esun-bank-japan]]
-- [[JapanFG/bank-of-china-japan]]
-- [[JapanFG/icbc-japan]]
-- [[JapanFG/china-construction-bank-japan]]
-- [[JapanFG/agricultural-bank-of-china-japan]]
-- [[JapanFG/bank-of-communications-japan]]
-- [[JapanFG/state-bank-of-india-japan]]
-- [[JapanFG/bank-of-india-japan]]
-- [[JapanFG/anz-bank-japan]]
-- [[JapanFG/legal-financial-licenses/INDEX]]
+- [[foreign-financial-institutions/foreign-bank-branches-japan-index]]
+- [[foreign-financial-institutions/hsbc-japan]]
+- [[foreign-financial-institutions/bank-of-america-japan]]
+- [[foreign-financial-institutions/socgen-japan]]
+- [[foreign-financial-institutions/bny-mellon-japan]]
+- [[foreign-financial-institutions/state-street-japan]]
+- [[foreign-financial-institutions/euroclear-bank-japan]]
+- [[foreign-financial-institutions/clearstream-banking-japan]]
+- [[foreign-financial-institutions/wells-fargo-japan]]
+- [[foreign-financial-institutions/credit-agricole-bank-japan]]
+- [[foreign-financial-institutions/natixis-japan]]
+- [[foreign-financial-institutions/rbc-japan]]
+- [[foreign-financial-institutions/commerzbank-japan]]
+- [[foreign-financial-institutions/ing-bank-japan]]
+- [[foreign-financial-institutions/dbs-bank-japan]]
+- [[foreign-financial-institutions/ocbc-bank-japan]]
+- [[foreign-financial-institutions/uob-bank-japan]]
+- [[foreign-financial-institutions/bangkok-bank-japan]]
+- [[foreign-financial-institutions/bbva-bank-japan]]
+- [[foreign-financial-institutions/intesa-sanpaolo-japan]]
+- [[foreign-financial-institutions/woori-bank-japan]]
+- [[foreign-financial-institutions/hana-bank-japan]]
+- [[foreign-financial-institutions/korea-development-bank-japan]]
+- [[foreign-financial-institutions/industrial-bank-of-korea-japan]]
+- [[foreign-financial-institutions/kb-kookmin-bank-japan]]
+- [[foreign-financial-institutions/bank-of-taiwan-japan]]
+- [[foreign-financial-institutions/mega-icbc-japan]]
+- [[foreign-financial-institutions/ctbc-bank-japan]]
+- [[foreign-financial-institutions/esun-bank-japan]]
+- [[foreign-financial-institutions/bank-of-china-japan]]
+- [[foreign-financial-institutions/icbc-japan]]
+- [[foreign-financial-institutions/china-construction-bank-japan]]
+- [[foreign-financial-institutions/agricultural-bank-of-china-japan]]
+- [[foreign-financial-institutions/bank-of-communications-japan]]
+- [[foreign-financial-institutions/state-bank-of-india-japan]]
+- [[foreign-financial-institutions/bank-of-india-japan]]
+- [[securities-firms/anz-bank-japan]]
+- [[financial-licenses/INDEX]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

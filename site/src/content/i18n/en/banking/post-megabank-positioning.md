@@ -14,15 +14,15 @@ translated_at: 2026-05-31T03:19:56.402Z
 
 Post-megabank positioning describes banks and bank groups that sit below the three Japanese megabanks but above narrow local or fintech niches. They often compete by specializing in retail banking, regional concentration, trust / custody, platform banking, consumer finance, or local corporate relationships rather than full global universal-bank scale.
 
-The key JapanFG anchor is [[JapanFG/resona-hd]]: a bank group too large and strategically important to treat as a simple regional bank, but not a megabank on the MUFG / SMFG / Mizuho model.
+The key JapanFG anchor is [[megabanks/resona-hd]]: a bank group too large and strategically important to treat as a simple regional bank, but not a megabank on the MUFG / SMFG / Mizuho model.
 
 ## Positioning Map
 
 | Position | Business logic | Example routes |
 |---|---|---|
-| Megabank | Global / national universal bank with securities, trust, corporate, markets, overseas, and group finance scale. | [[JapanFG/mufg]], [[JapanFG/smfg]], [[JapanFG/mizuho-fg]] |
-| Post-megabank | National or supra-regional bank with focused retail / SME / trust / settlement strategy, but not full megabank breadth. | [[JapanFG/resona-hd]], [[JapanFG/sbi-shinsei-bank]] |
-| Strong regional group | Regional franchise with consolidation, holding-company, and local corporate relationship strategy. | [[JapanFG/chiba-bank]], [[JapanFG/fukuoka-fg]], [[JapanFG/concordia-fg]] |
+| Megabank | Global / national universal bank with securities, trust, corporate, markets, overseas, and group finance scale. | [[megabanks/mufg]], [[megabanks/smfg]], [[megabanks/mizuho-fg]] |
+| Post-megabank | National or supra-regional bank with focused retail / SME / trust / settlement strategy, but not full megabank breadth. | [[megabanks/resona-hd]], [[regional-banks/sbi-shinsei-bank]] |
+| Strong regional group | Regional franchise with consolidation, holding-company, and local corporate relationship strategy. | [[regional-banks/chiba-bank]], [[regional-banks/fukuoka-fg]], [[regional-banks/concordia-fg]] |
 | Platform / net bank | Digital acquisition and ecosystem banking rather than branch-led universal banking. | [[banking/rakuten-bank]], [[banking/paypay-bank]], [[banking/au-jibun-bank]] |
 | Cooperative / mutual local finance | Member or cooperative logic rather than shareholder bank logic. | [[banking/cooperative-banking-japan]] |
 
@@ -45,12 +45,12 @@ FSA's major-bank supervision guideline covers major banks, bank holding companie
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/foreign-bank-japan-retreat]]
 - [[banking/baas-japan-landscape]]
-- [[JapanFG/resona-hd]]
-- [[JapanFG/sbi-shinsei-bank]]
-- [[JapanFG/mufg]]
-- [[JapanFG/smfg]]
-- [[JapanFG/mizuho-fg]]
-- [[JapanFG/legal-financial-licenses/INDEX]]
+- [[megabanks/resona-hd]]
+- [[regional-banks/sbi-shinsei-bank]]
+- [[megabanks/mufg]]
+- [[megabanks/smfg]]
+- [[megabanks/mizuho-fg]]
+- [[financial-licenses/INDEX]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

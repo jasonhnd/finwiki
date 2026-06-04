@@ -46,11 +46,11 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 | Progmat | B2B 大客户 · 无跨境合规 | #1  | #3  ★★★ |
 | 网银 | 纯国内零售 | #4  | #4  ★★ |
 
-**核心逻辑**：在 §501(d) 入榜名单视角下，**跨境合规能力 > 国内规模**。SBI Circle Holdings 对 USDC 的独家销售意味着与 §501(d) 美元圈的自动对接，这是 [[JapanFG/progmat|Progmat]] / [[JapanFG/jpyc|JPYC]] / 网银均不具备的能力。Project Pax 的 3  大行跨境稳定币项目仅解决 SWIFT 兼容性（技术层），并不解决 §501(d) 合规要求（法律层）。
+**核心逻辑**：在 §501(d) 入榜名单视角下，**跨境合规能力 > 国内规模**。SBI Circle Holdings 对 USDC 的独家销售意味着与 §501(d) 美元圈的自动对接，这是 [[payment-firms/progmat|Progmat]] / [[payment-firms/jpyc|JPYC]] / 网银均不具备的能力。Project Pax 的 3  大行跨境稳定币项目仅解决 SWIFT 兼容性（技术层），并不解决 §501(d) 合规要求（法律层）。
 
 ## 起源与演变
 
-2023-06  EPI 3  型生效 → 2024 年 3  大行 Progmat XJPY + JPYC 流通量同步增长 → 2025-08  SBI Circle Holdings 50/50  合资成立格局生变 → 2026-Q1  JPYC 流通量 21 億円 + 6 万 持有者 + 3  个月增长 2.6  倍 → 2026-05  §501(d) 视角下 SBI-Circle 升至 #1 。2028  最终格局预测：SBI-Circle 跨境 + JPYC 零售 + Progmat 大客户 B2B + 网银地区。日本牌照体系总览参见 [[JapanFG/legal-financial-licenses/INDEX|日本金融ライセンス索引]]。
+2023-06  EPI 3  型生效 → 2024 年 3  大行 Progmat XJPY + JPYC 流通量同步增长 → 2025-08  SBI Circle Holdings 50/50  合资成立格局生变 → 2026-Q1  JPYC 流通量 21 億円 + 6 万 持有者 + 3  个月增长 2.6  倍 → 2026-05  §501(d) 视角下 SBI-Circle 升至 #1 。2028  最终格局预测：SBI-Circle 跨境 + JPYC 零售 + Progmat 大客户 B2B + 网银地区。日本牌照体系总览参见 [[financial-licenses/INDEX|日本金融ライセンス索引]]。
 
 ## Related
 <!-- wiki-links:managed -->

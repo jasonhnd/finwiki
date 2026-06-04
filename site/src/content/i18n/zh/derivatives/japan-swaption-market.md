@@ -145,7 +145,7 @@ This entry sits under [[derivatives/INDEX|derivatives index]] in the interest-ra
 - [[securities/japan-securities-clearing-corp]]
 - [[money-market/INDEX]]
 - [[money-market/boj-open-market-operations]]
-- [[JapanFG/mufg-bank]]
+- [[megabanks/mufg-bank]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

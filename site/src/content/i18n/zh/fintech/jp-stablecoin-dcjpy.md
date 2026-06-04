@@ -65,7 +65,7 @@ translated_at: 2026-05-31T11:13:44.872Z
 
 - 由于不是加密资产兑换服务，因此不包含在JVCEA的账户数量和交易金额统计中。
 - DCJPY 作为日本“银行发行的存款代币”（在稳定币巴西论坛上发表）的代表性实施示例而吸引了国际关注。2026年2月，钱20/20 亚洲介绍2026年4月等）。
-- **三大圈SC**构成中的位置：信托型SC（[[JapanFG/progmat|Progmat Coin]] / [[JapanFG/mufg|三菱UFJ]]等）・资金移动业者型 SC（[[JapanFG/jpyc|JPYC]]）、银行发行（DCJPY）是日本日元计价SC生态系统的三大支柱（4 之间的对比[[fintech/japan-epi-four-camps-comparison|日本 SC 四阵营对比]]参考）。
+- **三大圈SC**构成中的位置：信托型SC（[[payment-firms/progmat|Progmat Coin]] / [[megabanks/mufg|三菱UFJ]]等）・资金移动业者型 SC（[[payment-firms/jpyc|JPYC]]）、银行发行（DCJPY）是日本日元计价SC生态系统的三大支柱（4 之间的对比[[fintech/japan-epi-four-camps-comparison|日本 SC 四阵营对比]]参考）。
 - **B2B商贸DX**区是主战场。我们专注于企业对企业支付、供应链现金流和数字证券 DVP，而不是个人零售支付。
 
 ## 6. 沿革・重大事件

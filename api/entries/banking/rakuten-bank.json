@@ -47,32 +47,32 @@
   "body_links": {
     "wikilinks_count": 8,
     "wikilinks": [
-      "JapanFG/gmo-aozora-net",
-      "JapanFG/rakuten-fg",
-      "JapanFG/ssnb",
       "banking/INDEX",
       "banking/au-jibun-bank",
       "banking/cooperative-banking-japan",
       "banking/minna-bank-baas-model",
-      "banking/paypay-bank"
+      "banking/paypay-bank",
+      "payment-firms/gmo-aozora-net",
+      "payment-firms/rakuten-fg",
+      "regional-banks/ssnb"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/gmo-aozora-net",
-      "https://finwiki.zksc.io/JapanFG/rakuten-fg",
-      "https://finwiki.zksc.io/JapanFG/ssnb",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/au-jibun-bank",
       "https://finwiki.zksc.io/banking/cooperative-banking-japan",
       "https://finwiki.zksc.io/banking/minna-bank-baas-model",
-      "https://finwiki.zksc.io/banking/paypay-bank"
+      "https://finwiki.zksc.io/banking/paypay-bank",
+      "https://finwiki.zksc.io/payment-firms/gmo-aozora-net",
+      "https://finwiki.zksc.io/payment-firms/rakuten-fg",
+      "https://finwiki.zksc.io/regional-banks/ssnb"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1708,
-    "word_like_tokens": 255,
-    "inbound_wikilinks_count": 21,
-    "last_modified": "2026-05-29"
+    "nonspace_chars": 1740,
+    "word_like_tokens": 260,
+    "inbound_wikilinks_count": 22,
+    "last_modified": "2026-06-04"
   }
 }

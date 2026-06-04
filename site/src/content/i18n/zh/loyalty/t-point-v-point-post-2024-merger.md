@@ -12,7 +12,7 @@ translated_at: 2026-05-30T14:48:27.671Z
 
 ## Wiki 路由
 
-本条目归于 [[loyalty/INDEX|loyalty index]]，作为 T-Point + V-Point 统一的 **2024-04-22 之后运营细节页面**，与记录结构性框架的战略性 [[loyalty/v-point-smbc-ccc-case|V Point (SMBC × CCC) bank-led common-point case]] 条目互为补充。请与 [[loyalty/japan-points-landscape|Japan points and loyalty landscape]]（生态地图）、[[loyalty/point-liability-accounting-boundary|point liability accounting boundary]]（IFRS 15 / ASBJ 29 负债转移机制）、[[loyalty/d-point-detailed-ecosystem|d Point detailed ecosystem]]（以电信为锚的同类）、[[loyalty/sb-yahoo-paypay-points-unified-ecosystem|SoftBank / Yahoo / PayPay points unified ecosystem]]（以钱包为锚的同类）、[[loyalty/ponta-points-deep-dive|Ponta points deep dive]]（第三种联盟模式）、[[JapanFG/smfg|SMFG]]（母公司金融控股背景）以及 [[JapanFG/smbc-card|SMBC Card (SMCC)]]（发卡实体）配合阅读。
+本条目归于 [[loyalty/INDEX|loyalty index]]，作为 T-Point + V-Point 统一的 **2024-04-22 之后运营细节页面**，与记录结构性框架的战略性 [[loyalty/v-point-smbc-ccc-case|V Point (SMBC × CCC) bank-led common-point case]] 条目互为补充。请与 [[loyalty/japan-points-landscape|Japan points and loyalty landscape]]（生态地图）、[[loyalty/point-liability-accounting-boundary|point liability accounting boundary]]（IFRS 15 / ASBJ 29 负债转移机制）、[[loyalty/d-point-detailed-ecosystem|d Point detailed ecosystem]]（以电信为锚的同类）、[[loyalty/sb-yahoo-paypay-points-unified-ecosystem|SoftBank / Yahoo / PayPay points unified ecosystem]]（以钱包为锚的同类）、[[loyalty/ponta-points-deep-dive|Ponta points deep dive]]（第三种联盟模式）、[[megabanks/smfg|SMFG]]（母公司金融控股背景）以及 [[card-issuers/smbc-card|SMBC Card (SMCC)]]（发卡实体）配合阅读。
 
 ## TL;DR
 
@@ -126,12 +126,12 @@ PayPay Points 与 Yahoo 积分及 SoftBank Smart Login 的更广统一见 [[loya
 - [[loyalty/d-point-au-kddi-docomo-telco-point-consolidation|d Point / au telco-point consolidation case]]
 - [[loyalty/ponta-points-deep-dive|Ponta points deep dive]]
 - [[loyalty/sb-yahoo-paypay-points-unified-ecosystem|SB/Yahoo/PayPay unified points]]
-- [[JapanFG/smfg|SMFG]]
-- [[JapanFG/smbc-card|SMBC Card / SMCC]]
-- [[JapanFG/paypay|PayPay]]
-- [[JapanFG/paypay-fg|PayPay FG]]
-- [[JapanFG/rakuten-fg|Rakuten FG]]
-- [[JapanFG/ndfg|NDFG]]
+- [[megabanks/smfg|SMFG]]
+- [[card-issuers/smbc-card|SMBC Card / SMCC]]
+- [[payment-firms/paypay|PayPay]]
+- [[megabanks/paypay-fg|PayPay FG]]
+- [[payment-firms/rakuten-fg|Rakuten FG]]
+- [[megabanks/ndfg|NDFG]]
 - [[payments/japan-code-payment-operator-2025-market-share-matrix|Japan code-payment operator 2025 market share matrix]]
 - [[payments/cashless-jp-landscape|Japan cashless payment landscape]]
 - [[retail/INDEX|retail index]]

@@ -232,4 +232,4 @@ FSA registered crypto asset exchange operator list snapshot used here: 2026-04-0
 - Done: [[exchanges/global-vasp-regulatory-comparison-matrix|global VASP regulatory comparison matrix]] covering JP / KR / HK / SG / EU / US / UAE / UK across 13 axes (statute, license tiers, activity coverage, capital, cold-storage segregation, fit-and-proper, AML / Travel Rule, stablecoin issuance, cross-border passporting, marketing, enforcement, disclosure, carve-outs).
 - Split dormant / withdrawn Japan entities from active VASP operators.
 - Add a short source-quality tier for exchange entries: primary registry, company IR, media, inferred.
-- JPYC overlap reconciled via [[JapanFG/jpyc|JapanFG JPYC anchor]]; keep [[exchanges/jp-exchange-jpyc|JPYC]] as a legacy stablecoin-routing page, not a conventional CEX page.
+- JPYC overlap reconciled via [[payment-firms/jpyc|JapanFG JPYC anchor]]; keep [[exchanges/jp-exchange-jpyc|JPYC]] as a legacy stablecoin-routing page, not a conventional CEX page.

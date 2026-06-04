@@ -1,0 +1,90 @@
+{
+  "schema_version": "1.0",
+  "slug": "payment-firms/gmo-postpay",
+  "source_path": "payment-firms/gmo-postpay.md",
+  "url": "https://finwiki.zksc.io/payment-firms/gmo-postpay",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/payment-firms/gmo-postpay.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/payment-firms/gmo-postpay.md",
+  "domain": "payment-firms",
+  "title": "GMO後払い (GMO Postpay)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "GMO後払い (GMO Postpay)",
+    "aliases": [
+      "GMO 後払い",
+      "GMO Postpay",
+      "GMO Payment Service",
+      "GMOペイメントサービス"
+    ],
+    "domain": "payment-firms",
+    "created": "2026-05-24",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
+    "review_by": "2026-11-20",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "BNPL",
+      "atobarai",
+      "GMO",
+      "PSP",
+      "installment-sales"
+    ],
+    "status": "active",
+    "sources": [
+      "https://gmo-ps.com/",
+      "https://gmo-ps.com/service/postpay/",
+      "https://www.gmo-pg.com/corp/",
+      "https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html"
+    ]
+  },
+  "summary": "This entry sits under the JapanFG index as a PSP-side BNPL product. Read it against the Japan BNPL landscape system note, with the GMO ペイメントゲートウェイ sibling explaining the merchant-acquiring stack and the Net Protections HD / Paidy peers showing pure-play BNPL. The BNPL and credit-purchase boundary fr",
+  "headings": [
+    "GMO後払い (GMO Postpay)",
+    "Wiki route",
+    "TL;DR",
+    "1. 法人・ライセンス境界",
+    "2. Business role",
+    "3. Why this standalone page matters",
+    "4. 規制・政策",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 11,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "payment-firms/atone",
+      "payment-firms/bnpl-landscape",
+      "payment-firms/gmo-payment-gateway",
+      "payment-firms/gmo-postpay",
+      "payment-firms/kuroneko-atobarai",
+      "payment-firms/net-protections-hd",
+      "payment-firms/paidy",
+      "payments/credit-purchase-card-operators-japan-index",
+      "payments/japan-bnpl-credit-purchase-boundary",
+      "payments/japan-payment-scheme-economics-matrix"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/payment-firms/atone",
+      "https://finwiki.zksc.io/payment-firms/bnpl-landscape",
+      "https://finwiki.zksc.io/payment-firms/gmo-payment-gateway",
+      "https://finwiki.zksc.io/payment-firms/gmo-postpay",
+      "https://finwiki.zksc.io/payment-firms/kuroneko-atobarai",
+      "https://finwiki.zksc.io/payment-firms/net-protections-hd",
+      "https://finwiki.zksc.io/payment-firms/paidy",
+      "https://finwiki.zksc.io/payments/credit-purchase-card-operators-japan-index",
+      "https://finwiki.zksc.io/payments/japan-bnpl-credit-purchase-boundary",
+      "https://finwiki.zksc.io/payments/japan-payment-scheme-economics-matrix"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2967,
+    "word_like_tokens": 474,
+    "inbound_wikilinks_count": 4,
+    "last_modified": "2026-06-04"
+  }
+}

@@ -36,7 +36,7 @@ translated_at: 2026-06-02T11:47:37.303Z
 - **ソニーグループ → ソニーフィナンシャルグループのパーシャルスピンオフ(2026)** ── 2023改正制度のもとでの **課税繰延を伴うパーシャルスピンオフ** の国内テンプレートであり、SFG を別会社として公開上場する。[[business/sony-fg-partial-spinoff-case|Sony FG partial spinoff case]] を参照。
 - **ソフトバンクグループ → アーム・ホールディングス IPO(2023-09)** ── Nasdaq でのクロスボーダー IPO、親会社が過半数の持分を残存。[[business/softbank-vision-fund-arm-ipo-template|SoftBank Vision Fund Arm IPO template]] を参照。
 - **東芝 → 日本産業パートナーズ(JIP)の非公開化(2023)** ── TOB + スクイーズアウト + 上場廃止;国内 PE 主導。[[corporate-strategy/toshiba-tob-squeeze-out-2023-2024-case|Toshiba TOB squeeze-out 2023-2024 case]] を参照。
-- **楽天グループ → モバイル・金融の再編** ── グループ内部の再編([[banking/rakuten-bank|Rakuten Bank]] 2023-04の再 IPO;[[JapanFG/rakuten-securities|Rakuten Securities]] の少数株主 IPO のプロセスと撤回;[[business/rakuten-group-mobile-finance-bundling-case|Rakuten Group mobile-finance]] クラスター全体での資本注入のクロスサブシディ)。
+- **楽天グループ → モバイル・金融の再編** ── グループ内部の再編([[banking/rakuten-bank|Rakuten Bank]] 2023-04の再 IPO;[[securities-firms/rakuten-securities|Rakuten Securities]] の少数株主 IPO のプロセスと撤回;[[business/rakuten-group-mobile-finance-bundling-case|Rakuten Group mobile-finance]] クラスター全体での資本注入のクロスサブシディ)。
 - **日立 → 日立アステモのカーブアウト** ── 本田技研工業との合弁;JIP / Bain への部分売却;最終的な IPO の軌道。
 - **シャープ ← フォックスコンの非公開化(2016)** ── 公開買付に加え第三者割当による外国戦略的の非公開化(ビークル比較のために 2010年の事例として参照)。
 - **オリンパス → カメラ事業のスピンオフ(2020-2021)** ── 会社分割(kaisha bunkatsu)による JIP へのカメラ事業の売却;OM Digital Solutions に移管。
@@ -206,8 +206,8 @@ translated_at: 2026-06-02T11:47:37.303Z
 - [[securities/japan-ipo-2024-2025-case-study-kioxia-tokyo-metro]]
 - [[securities/japan-ipo-listing-disclosure-route]]
 - [[banking/rakuten-bank]]
-- [[JapanFG/sony-fg]]
-- [[JapanFG/rakuten-securities]]
+- [[megabanks/sony-fg]]
+- [[securities-firms/rakuten-securities]]
 - [[INDEX|FinWiki index]]
 
 ## 出典

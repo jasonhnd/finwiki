@@ -23,7 +23,7 @@ translated_at: 2026-05-31T03:19:56.493Z
 | 项目 | 数值 |
 | --- | --- |
 | FSA 截止日期 | 令和7年11月6日現在 |
-| 中央机构 | [[JapanFG/shinkin-central]] |
+| 中央机构 | [[cooperative-banks/shinkin-central]] |
 | 工作簿中的中央机构行数 | 1 |
 | 持牌信用金庫数 | 254 |
 | 法律 / 制度路由 | 信用金庫法 |
@@ -33,7 +33,7 @@ translated_at: 2026-05-31T03:19:56.493Z
 
 - 在索引层面封闭官方信用金庫总体，而不创建 254 个低信号的独立页面。
 - 为合作制区域金融、本地中小企业贷款和中央机构分析提供完整的名称级路由。
-- 将 [[JapanFG/shinkin-central|Shinkin Central Bank]] 保留为具系统重要性的实体页面，同时将长尾机构通过本索引路由。
+- 将 [[cooperative-banks/shinkin-central|Shinkin Central Bank]] 保留为具系统重要性的实体页面，同时将长尾机构通过本索引路由。
 - 法人编号与总部地址为公开登记字段；代表电话号码仍保留在源工作簿中，此处省略以保持索引便于浏览。
 
 ## 3. 监管财务局统计
@@ -419,8 +419,8 @@ translated_at: 2026-05-31T03:19:56.493Z
 
 - [[banking/cooperative-banking-japan]]
 - [[banking/regional-bank-consolidation-pattern]]
-- [[JapanFG/shinkin-central|信金中央金庫]]
-- [[JapanFG/missing-financial-institutions-backlog]]
+- [[cooperative-banks/shinkin-central|信金中央金庫]]
+- [[financial-regulators/missing-financial-institutions-backlog]]
 - [[banking/INDEX]]
 
 ## 来源

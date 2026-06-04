@@ -68,7 +68,7 @@ synthetic USD cost ≈ JPY funding rate − basis (in bp, applied to JPY leg)
 
 When the basis is −60 bp, the JPY-funded synthetic USD is 60 bp more expensive than the comparable native-USD borrowing — meaning the cheaper path is to issue USD directly if the issuer has a USD-bond franchise. Conversely, US dollar holders who want yen funding receive a 60 bp pickup for lending USD into the swap; this is the "yen pickup trade" that arbitrage capital pursues when basis is wide.
 
-For Japanese megabank treasuries, the basis directly prices the funding gap between yen-denominated deposits (cheap, ample) and USD assets (expensive, scarce), which is why megabank wholesale-funding strategy is sensitive to basis moves. See [[banking/INDEX]] and [[JapanFG/mufg-bank]], [[JapanFG/sumitomo-mitsui-banking-corp]], [[JapanFG/mizuho-bank]] for the franchise level.
+For Japanese megabank treasuries, the basis directly prices the funding gap between yen-denominated deposits (cheap, ample) and USD assets (expensive, scarce), which is why megabank wholesale-funding strategy is sensitive to basis moves. See [[banking/INDEX]] and [[megabanks/mufg-bank]], [[megabanks/sumitomo-mitsui-banking-corp]], [[megabanks/mizuho-bank]] for the franchise level.
 
 ## Megabank Dealer Franchise
 
@@ -136,9 +136,9 @@ Public data shows aggregate notional outstanding (multi-trillion USD-equivalent 
 - [[finance/japan-corporate-fx-and-rate-hedge-policy]]
 - [[finance/japan-listed-financial-groups-investable-universe]]
 - [[securities/japan-market-infrastructure-map]]
-- [[JapanFG/mufg-bank]]
-- [[JapanFG/sumitomo-mitsui-banking-corp]]
-- [[JapanFG/mizuho-bank]]
+- [[megabanks/mufg-bank]]
+- [[megabanks/sumitomo-mitsui-banking-corp]]
+- [[megabanks/mizuho-bank]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

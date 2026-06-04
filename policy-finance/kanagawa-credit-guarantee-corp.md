@@ -29,7 +29,7 @@ This entry sits under [[policy-finance/INDEX|policy-finance index]] as one of th
 
 ## TL;DR
 
-Kanagawa Credit Guarantee Corporation (神奈川県信用保証協会) is the Kanagawa-prefecture member of Japan's 51-corporation local credit guarantee system. Its guarantee balance ranks consistently in the top five federation-wide because Kanagawa is the second most populous prefecture in Japan and concentrates a uniquely diversified SME base — heavy machinery and parts (Kawasaki-Yokohama industrial belt), port and logistics services around Yokohama Port and Kawasaki Port, life-science and electronics (Shin-Yokohama / Kawasaki research zones), automotive (Nissan-anchored cluster), plus the Tokyo-commuter-economy SME tail in retail, services, and hospitality. Co-lending partners are dominated by [[JapanFG/yokohama-bank|Yokohama Bank (Concordia FG)]], [[JapanFG/kanagawa-bank|Kanagawa Bank]], and a dense Yokohama-Kawasaki shinkin tail led by [[JapanFG/yokohama-shinkin|Yokohama Shinkin]].
+Kanagawa Credit Guarantee Corporation (神奈川県信用保証協会) is the Kanagawa-prefecture member of Japan's 51-corporation local credit guarantee system. Its guarantee balance ranks consistently in the top five federation-wide because Kanagawa is the second most populous prefecture in Japan and concentrates a uniquely diversified SME base — heavy machinery and parts (Kawasaki-Yokohama industrial belt), port and logistics services around Yokohama Port and Kawasaki Port, life-science and electronics (Shin-Yokohama / Kawasaki research zones), automotive (Nissan-anchored cluster), plus the Tokyo-commuter-economy SME tail in retail, services, and hospitality. Co-lending partners are dominated by [[regional-banks/yokohama-bank|Yokohama Bank (Concordia FG)]], [[regional-banks/kanagawa-bank|Kanagawa Bank]], and a dense Yokohama-Kawasaki shinkin tail led by [[cooperative-banks/yokohama-shinkin|Yokohama Shinkin]].
 
 ## 1. 機関概要
 
@@ -42,7 +42,7 @@ Kanagawa Credit Guarantee Corporation (神奈川県信用保証協会) is the Ka
 | 保証残高 | 兆円規模 — 連合会全国51協会中の上位 |
 | 加盟金融機関 | 約 40 行 (regional banks, megabank 県内 branch, shinkin, credit cooperatives) |
 | 連合会加盟 | Member of [[policy-finance/national-federation-credit-guarantee-corporations|全国信用保証協会連合会 (Japan Federation of Credit Guarantee Corporations)]] |
-| 信用保険 | Reinsured by [[JapanFG/jfc|JFC]] credit-insurance operations |
+| 信用保険 | Reinsured by [[financial-regulators/jfc|JFC]] credit-insurance operations |
 | 境界 | 横浜市 / 川崎市 / 相模原市の政令指定都市 3 市を含む県全域を所管 |
 
 ## 2. 主要保証商品
@@ -69,15 +69,15 @@ Layered on top is the **Tokyo-commuter-economy service / retail / hospitality SM
 
 ## 4. Co-lending and JFC overlay
 
-Kanagawa CGC guarantees typically sit alongside loans from [[JapanFG/yokohama-bank|Yokohama Bank]] (the dominant regional bank, Concordia Financial Group), [[JapanFG/kanagawa-bank|Kanagawa Bank]] (second-tier regional), and dense shinkin coverage led by [[JapanFG/yokohama-shinkin|Yokohama Shinkin]] and the Kawasaki / Shonan / Sagamihara shinkin members. Megabank participation is substantial because Yokohama-Kawasaki sits inside the megabank commercial-banking footprint — [[JapanFG/mufg|MUFG]], [[JapanFG/smfg|SMFG]], and [[JapanFG/mizuho-fg|Mizuho]] all operate dense branch networks in the prefecture. Cross-border ship-finance and trade-finance flows around the port complex bring in additional bank counterparties.
+Kanagawa CGC guarantees typically sit alongside loans from [[regional-banks/yokohama-bank|Yokohama Bank]] (the dominant regional bank, Concordia Financial Group), [[regional-banks/kanagawa-bank|Kanagawa Bank]] (second-tier regional), and dense shinkin coverage led by [[cooperative-banks/yokohama-shinkin|Yokohama Shinkin]] and the Kawasaki / Shonan / Sagamihara shinkin members. Megabank participation is substantial because Yokohama-Kawasaki sits inside the megabank commercial-banking footprint — [[megabanks/mufg|MUFG]], [[megabanks/smfg|SMFG]], and [[megabanks/mizuho-fg|Mizuho]] all operate dense branch networks in the prefecture. Cross-border ship-finance and trade-finance flows around the port complex bring in additional bank counterparties.
 
 The [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]] is partially relevant here: Yokohama Bank merged with Higashi-Nippon Bank to form Concordia FG, but unlike other regional consolidations driven by peripheral-prefecture stress, the Concordia tie-up was a top-tier merger of strong banks.
 
-Public-finance co-lending routes through [[JapanFG/jfc|JFC]] (政府系金融機関) — JFC's SME and small-business arms co-lend with guarantee-backed regional-bank tranches, while JFC credit-insurance reinsures the guarantee layer. [[JapanFG/shoko-chukin|商工中金 (Shoko Chukin)]] supports cooperative-organized SME groups, particularly in the port-and-logistics segment.
+Public-finance co-lending routes through [[financial-regulators/jfc|JFC]] (政府系金融機関) — JFC's SME and small-business arms co-lend with guarantee-backed regional-bank tranches, while JFC credit-insurance reinsures the guarantee layer. [[financial-regulators/shoko-chukin|商工中金 (Shoko Chukin)]] supports cooperative-organized SME groups, particularly in the port-and-logistics segment.
 
 ## 5. 代位弁済と求償
 
-When a guaranteed Kanagawa SME defaults, Kanagawa CGC pays subrogation (代位弁済) to the lending financial institution under the guarantee contract, then pursues recovery (求償) directly from the borrower or through estate / succession M&A proceeds. Residual losses after recovery flow into the federation-pooled credit-insurance layer reinsured by [[JapanFG/jfc|JFC]], with [[policy-finance/national-federation-credit-guarantee-corporations|全国信用保証協会連合会]] coordinating loss-sharing and operational standards across the 51 corporations. Subrogation volume in Kanagawa is sensitive to two main shocks: global container-shipping cycle inversions (port-logistics SMEs) and Japanese heavy-industry / automotive demand cycles (Keihin-belt suppliers).
+When a guaranteed Kanagawa SME defaults, Kanagawa CGC pays subrogation (代位弁済) to the lending financial institution under the guarantee contract, then pursues recovery (求償) directly from the borrower or through estate / succession M&A proceeds. Residual losses after recovery flow into the federation-pooled credit-insurance layer reinsured by [[financial-regulators/jfc|JFC]], with [[policy-finance/national-federation-credit-guarantee-corporations|全国信用保証協会連合会]] coordinating loss-sharing and operational standards across the 51 corporations. Subrogation volume in Kanagawa is sensitive to two main shocks: global container-shipping cycle inversions (port-logistics SMEs) and Japanese heavy-industry / automotive demand cycles (Keihin-belt suppliers).
 
 ## 6. Crisis-era response
 
@@ -89,7 +89,7 @@ Post-COVID normalization through 2023–2025 produced the expected wave of subro
 
 Within the [[policy-finance/japan-credit-guarantee-system|Japan credit guarantee system]] architecture, Kanagawa CGC sits in the top-five tier by guarantee balance and functions as one of the largest single-corporation contributors to the federation-pooled credit-insurance layer. Its multi-cluster guarantee book (industrial / port / auto / R&D / commuter) makes it useful as a reference template for other prefectures with multi-cluster economies — its product mix is more diversified than the single-anchor concentration in [[policy-finance/aichi-credit-guarantee-corp|Aichi CGC]] or the urban-services concentration in [[policy-finance/tokyo-credit-guarantee-corp|Tokyo CGC]].
 
-The federation-pooled credit-insurance layer at [[JapanFG/jfc|JFC]] absorbs the residual loss after Kanagawa CGC's first-loss subrogation under the responsibility-sharing system. This is operationally important for the port-logistics SME segment because container-cycle inversions can produce localized subrogation spikes that are partially absorbed through the federation reinsurance rather than landing entirely on Kanagawa-prefecture banks. The [[policy-finance/national-federation-credit-guarantee-corporations|全国信用保証協会連合会]] coordinates loss-sharing standards and operational doctrine across the 51 corporations including Kanagawa CGC.
+The federation-pooled credit-insurance layer at [[financial-regulators/jfc|JFC]] absorbs the residual loss after Kanagawa CGC's first-loss subrogation under the responsibility-sharing system. This is operationally important for the port-logistics SME segment because container-cycle inversions can produce localized subrogation spikes that are partially absorbed through the federation reinsurance rather than landing entirely on Kanagawa-prefecture banks. The [[policy-finance/national-federation-credit-guarantee-corporations|全国信用保証協会連合会]] coordinates loss-sharing standards and operational doctrine across the 51 corporations including Kanagawa CGC.
 
 ## 8. Comparison with peer prefecture CGCs
 
@@ -97,7 +97,7 @@ The federation-pooled credit-insurance layer at [[JapanFG/jfc|JFC]] absorbs the 
 |---|---|---|---|
 | Dominant industry mix | Heavy industry + port logistics + commuter services | Services / retail / finance / IT / hospitality | Automotive supply chain (Toyota-anchored) |
 | Single-anchor concentration | Multi-cluster (Keihin / Port / Nissan / R&D / commuter) | Diffuse urban services | Single OEM family |
-| Dominant regional bank | [[JapanFG/yokohama-bank|Yokohama Bank]] (Concordia FG) | No single regional bank dominance | [[JapanFG/aichi-bank|Aichi Bank]] / [[JapanFG/aichi-fg|Aichi FG]] / [[JapanFG/chukyo-bank|Chukyo Bank]] split |
+| Dominant regional bank | [[regional-banks/yokohama-bank|Yokohama Bank]] (Concordia FG) | No single regional bank dominance | [[regional-banks/aichi-bank|Aichi Bank]] / [[regional-banks/aichi-fg|Aichi FG]] / [[regional-banks/chukyo-bank|Chukyo Bank]] split |
 | Cycle sensitivity | Container-shipping + auto + tourism overlap | Service / hospitality | Auto production cycle |
 | Loss correlation with [[policy-finance/tokyo-credit-guarantee-corp|Tokyo CGC]] | Moderate-high (commuter overlap) | self | Low |
 
@@ -111,12 +111,12 @@ This comparison clarifies how prefecture-CGC books differ in shape even though t
 - [[policy-finance/tokyo-credit-guarantee-corp]]
 - [[policy-finance/osaka-credit-guarantee-corp]]
 - [[policy-finance/aichi-credit-guarantee-corp]]
-- [[JapanFG/jfc]]
-- [[JapanFG/shoko-chukin]]
-- [[JapanFG/yokohama-bank]]
-- [[JapanFG/kanagawa-bank]]
-- [[JapanFG/yokohama-shinkin]]
-- [[JapanFG/yokohama-bank-leasing]]
+- [[financial-regulators/jfc]]
+- [[financial-regulators/shoko-chukin]]
+- [[regional-banks/yokohama-bank]]
+- [[regional-banks/kanagawa-bank]]
+- [[cooperative-banks/yokohama-shinkin]]
+- [[leasing-firms/yokohama-bank-leasing]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/shinkin-bank-registry-japan]]
 - [[banking/INDEX]]

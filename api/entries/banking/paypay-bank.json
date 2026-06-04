@@ -47,30 +47,30 @@
   "body_links": {
     "wikilinks_count": 7,
     "wikilinks": [
-      "JapanFG/gmo-aozora-net",
-      "JapanFG/paypay-fg",
-      "JapanFG/ssnb",
       "banking/INDEX",
       "banking/au-jibun-bank",
       "banking/cooperative-banking-japan",
-      "banking/rakuten-bank"
+      "banking/rakuten-bank",
+      "megabanks/paypay-fg",
+      "payment-firms/gmo-aozora-net",
+      "regional-banks/ssnb"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/gmo-aozora-net",
-      "https://finwiki.zksc.io/JapanFG/paypay-fg",
-      "https://finwiki.zksc.io/JapanFG/ssnb",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/au-jibun-bank",
       "https://finwiki.zksc.io/banking/cooperative-banking-japan",
-      "https://finwiki.zksc.io/banking/rakuten-bank"
+      "https://finwiki.zksc.io/banking/rakuten-bank",
+      "https://finwiki.zksc.io/megabanks/paypay-fg",
+      "https://finwiki.zksc.io/payment-firms/gmo-aozora-net",
+      "https://finwiki.zksc.io/regional-banks/ssnb"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1667,
-    "word_like_tokens": 268,
-    "inbound_wikilinks_count": 17,
-    "last_modified": "2026-05-29"
+    "nonspace_chars": 1682,
+    "word_like_tokens": 270,
+    "inbound_wikilinks_count": 18,
+    "last_modified": "2026-06-04"
   }
 }

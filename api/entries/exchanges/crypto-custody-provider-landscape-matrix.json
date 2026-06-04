@@ -65,9 +65,6 @@
   "body_links": {
     "wikilinks_count": 23,
     "wikilinks": [
-      "JapanFG/bny-mellon-japan",
-      "JapanFG/master-trust-bank",
-      "JapanFG/state-street-japan",
       "exchanges/INDEX",
       "exchanges/btc-spot-etf-japan-impact",
       "exchanges/cex-matching-engine-wallet-architecture",
@@ -87,12 +84,12 @@
       "exchanges/jp-institutional-custody-three-pillars",
       "exchanges/jp-vasp-cold-storage-segregation-rules",
       "exchanges/jp-vasp-incident-history",
-      "exchanges/jp-vasp-security-audit-certification"
+      "exchanges/jp-vasp-security-audit-certification",
+      "foreign-financial-institutions/bny-mellon-japan",
+      "foreign-financial-institutions/state-street-japan",
+      "trust-banks/master-trust-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/bny-mellon-japan",
-      "https://finwiki.zksc.io/JapanFG/master-trust-bank",
-      "https://finwiki.zksc.io/JapanFG/state-street-japan",
       "https://finwiki.zksc.io/exchanges/INDEX",
       "https://finwiki.zksc.io/exchanges/btc-spot-etf-japan-impact",
       "https://finwiki.zksc.io/exchanges/cex-matching-engine-wallet-architecture",
@@ -112,15 +109,18 @@
       "https://finwiki.zksc.io/exchanges/jp-institutional-custody-three-pillars",
       "https://finwiki.zksc.io/exchanges/jp-vasp-cold-storage-segregation-rules",
       "https://finwiki.zksc.io/exchanges/jp-vasp-incident-history",
-      "https://finwiki.zksc.io/exchanges/jp-vasp-security-audit-certification"
+      "https://finwiki.zksc.io/exchanges/jp-vasp-security-audit-certification",
+      "https://finwiki.zksc.io/foreign-financial-institutions/bny-mellon-japan",
+      "https://finwiki.zksc.io/foreign-financial-institutions/state-street-japan",
+      "https://finwiki.zksc.io/trust-banks/master-trust-bank"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 17532,
-    "word_like_tokens": 3075,
+    "nonspace_chars": 17720,
+    "word_like_tokens": 3092,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-06-04"
   }
 }

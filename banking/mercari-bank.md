@@ -72,7 +72,7 @@ This entry sits under [[banking/INDEX|banking index]]. Read it against [[banking
 - [[banking/quick-deposit-four-methods]]
 - [[banking/paypay-bank]]
 - [[banking/rakuten-bank]]
-- [[JapanFG/gmo-aozora-net]]
+- [[payment-firms/gmo-aozora-net]]
 
 ## Sources
 

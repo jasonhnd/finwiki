@@ -16,7 +16,7 @@ translated_at: 2026-05-30T15:08:51.571Z
 This entry sits under [[trade/jetro-organization-structure|JETRO is not a membership organization but an incorporated administrative agency under METI]] and should be read with [[INDEX|FinWiki index]].
 
 > [!info] TL;DR
-> "JETRO is not a membership organization" is legally correct, but in practice joining JETRO Members (paid) is the entry condition to the B2B proposal channel. When export finance or overseas project finance is involved, it is standard to build in [[JapanFG/jbic|JBIC]] · [[policy-finance/nexi|NEXI]] · [[policy-finance/japan-project-finance-stack-diagram|project-finance stack]] from the outset in addition to sales-channel support via JETRO.
+> "JETRO is not a membership organization" is legally correct, but in practice joining JETRO Members (paid) is the entry condition to the B2B proposal channel. When export finance or overseas project finance is involved, it is standard to build in [[financial-regulators/jbic|JBIC]] · [[policy-finance/nexi|NEXI]] · [[policy-finance/japan-project-finance-stack-diagram|project-finance stack]] from the outset in addition to sales-channel support via JETRO.
 
 ## Scope of Use After Joining
 

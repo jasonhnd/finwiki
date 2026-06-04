@@ -27,7 +27,7 @@ sources:
 
 Japan Finance Organization for Municipalities is the joint-funded public credit institution that supplies long-term low-cost loans to all 47 prefectures and municipalities for water, sewerage, transport, hospital, school, disaster-recovery, and general local-finance needs. It is **not** a national-government entity: capital is contributed jointly by local governments, and supervision sits with the Ministry of Internal Affairs and Communications (MIC) together with the Ministry of Finance.
 
-This page treats JFM through the [[policy-finance/INDEX|policy-finance index]] lens: as one lane in the public-credit map alongside [[JapanFG/jfc|JFC]] (SME / agriculture / fisheries), [[JapanFG/jbic|JBIC]] (overseas), [[JapanFG/dbj|DBJ]] (development bank / GX), and [[policy-finance/japan-housing-finance-agency|JHF]] (housing). The matching JapanFG-domain corporate-history page is [[JapanFG/local-govt-finance]].
+This page treats JFM through the [[policy-finance/INDEX|policy-finance index]] lens: as one lane in the public-credit map alongside [[financial-regulators/jfc|JFC]] (SME / agriculture / fisheries), [[financial-regulators/jbic|JBIC]] (overseas), [[financial-regulators/dbj|DBJ]] (development bank / GX), and [[policy-finance/japan-housing-finance-agency|JHF]] (housing). The matching JapanFG-domain corporate-history page is [[financial-regulators/local-govt-finance]].
 
 ## 1. Institutional boundary
 
@@ -40,7 +40,7 @@ This page treats JFM through the [[policy-finance/INDEX|policy-finance index]] l
 | Predecessor | 公営企業金融公庫 (Japan Finance Corporation for Municipal Enterprises, 1957–2008) |
 | Capital base | Joint contribution from all 47 prefectures and every municipality (no national-government equity) |
 | Supervisory route | MIC + MoF; reports to the Conference of Representatives drawn from the National Governors / Mayors / Towns and Villages associations |
-| FinWiki lane | [[policy-finance/INDEX|policy-finance]] for system role; [[JapanFG/local-govt-finance]] for corporate history; [[JapanFG/local-bond-market]] for market-side interaction |
+| FinWiki lane | [[policy-finance/INDEX|policy-finance]] for system role; [[financial-regulators/local-govt-finance]] for corporate history; [[financial-regulators/local-bond-market]] for market-side interaction |
 
 ## 2. Function map
 
@@ -56,7 +56,7 @@ This page treats JFM through the [[policy-finance/INDEX|policy-finance index]] l
 
 JFM is the structural answer to a market gap: smaller and rural local governments cannot tap public-offering local-bond markets at efficient cost, and private banks alone do not extend the 20-to-30-year tenors required for water, sewerage, and transport infrastructure. By pooling all local governments into a single joint-funded credit vehicle, JFM achieves issuance scale, AAA-equivalent market access, and risk diversification that any single prefecture lacks.
 
-It is a peer institution to [[JapanFG/jfc|JFC]], [[JapanFG/jbic|JBIC]], and [[JapanFG/dbj|DBJ]] in the broader Japanese public-credit stack mapped in [[policy-finance/japan-policy-finance-system|Japan policy finance system]], but its borrower base is governmental, not corporate. The [[policy-finance/japan-project-finance-stack-diagram|Japan project finance stack diagram]] does not include JFM because JFM does not co-finance overseas resource projects — its lane is domestic public infrastructure.
+It is a peer institution to [[financial-regulators/jfc|JFC]], [[financial-regulators/jbic|JBIC]], and [[financial-regulators/dbj|DBJ]] in the broader Japanese public-credit stack mapped in [[policy-finance/japan-policy-finance-system|Japan policy finance system]], but its borrower base is governmental, not corporate. The [[policy-finance/japan-project-finance-stack-diagram|Japan project finance stack diagram]] does not include JFM because JFM does not co-finance overseas resource projects — its lane is domestic public infrastructure.
 
 In the [[money-market/INDEX|money-market]] picture, JFM bonds and Joint Local Government Bonds (共同発行市場公募地方債) provide one of the largest non-JGB high-grade yen-denominated public-credit asset classes, used as collateral and held by banks, life insurers, regional banks, and public pension funds.
 
@@ -97,11 +97,11 @@ In the [[money-market/INDEX|money-market]] picture, JFM bonds and Joint Local Go
 - [[policy-finance/INDEX]]
 - [[policy-finance/japan-policy-finance-system]]
 - [[policy-finance/japan-project-finance-stack-diagram]]
-- [[JapanFG/jfc]]
-- [[JapanFG/jbic]]
-- [[JapanFG/dbj]]
-- [[JapanFG/local-govt-finance]]
-- [[JapanFG/local-bond-market]]
+- [[financial-regulators/jfc]]
+- [[financial-regulators/jbic]]
+- [[financial-regulators/dbj]]
+- [[financial-regulators/local-govt-finance]]
+- [[financial-regulators/local-bond-market]]
 - [[money-market/INDEX]]
 - [[INDEX|FinWiki index]]
 

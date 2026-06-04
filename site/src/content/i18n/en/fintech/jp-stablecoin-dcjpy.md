@@ -65,7 +65,7 @@ This entry sits under[[fintech/INDEX|fintech index]]. Read it against[[fintech/j
 
 - Because it is not a crypto asset exchange service, it is not included in JVCEA's statistics on the number of accounts and transaction amount.
 - DCJPY is attracting international attention as a representative implementation example of Japan's ``bank-issued deposit token'' (presented at Stablecoin Brazil Forum).2026年2月、Money20/20 Asia presentation2026年4月wait).
-- Position in the composition of **Three Big Circle SC**: Trust-type SC ([[JapanFG/progmat|Progmat Coin]] / [[JapanFG/mufg|三菱UFJ]]etc.)・Money mover type SC ([[JapanFG/jpyc|JPYC]]), bank-issued (DCJPY) is the three pillars of Japan's yen-denominated SC ecosystem (4 The contrast between[[fintech/japan-epi-four-camps-comparison|日本 SC 四阵营对比]]reference).
+- Position in the composition of **Three Big Circle SC**: Trust-type SC ([[payment-firms/progmat|Progmat Coin]] / [[megabanks/mufg|三菱UFJ]]etc.)・Money mover type SC ([[payment-firms/jpyc|JPYC]]), bank-issued (DCJPY) is the three pillars of Japan's yen-denominated SC ecosystem (4 The contrast between[[fintech/japan-epi-four-camps-comparison|日本 SC 四阵营对比]]reference).
 - **B2B Commerce DX** area is the main battlefield. We specialize in business-to-business payments, supply chain cash flow, and digital securities DVP rather than retail payments for individuals.
 
 ## 6. History and major events

@@ -30,7 +30,7 @@ mBridge と Agora は技術層では許可型 DLT + BFT コンセンサスを共
 
 ## 起源と展開
 
-2021 年 mBridge 始動 · 同時期 Agora は BIS 内部 構想段階 のみ。2023-2024 年 mBridge は MVP に入り、Agora は依然準備段階。2024-04 Agora 正式公表 · 7 中央銀行 + 41 商業銀行加入(JPM / Citi / HSBC / [[JapanFG/mufg|三菱 UFJ]] 等)。2025-Q1-Q3 Agora 初回 アトミック決済 PoC 完了 · mBridge は同時期に G7 政治圧力に包囲される。2025-10 BIS が mBridge 運営撤退を発表 —— 同時に Agora の進捗を継続的に宣伝。2026-Q2 mBridge とブラジル DREX の相互運用テスト · Agora は中央銀行拡大募集段階へ。両プロジェクトは「BIS 二軌」から「対立する 2 通貨陣営の技術スタック」へ変化。
+2021 年 mBridge 始動 · 同時期 Agora は BIS 内部 構想段階 のみ。2023-2024 年 mBridge は MVP に入り、Agora は依然準備段階。2024-04 Agora 正式公表 · 7 中央銀行 + 41 商業銀行加入(JPM / Citi / HSBC / [[megabanks/mufg|三菱 UFJ]] 等)。2025-Q1-Q3 Agora 初回 アトミック決済 PoC 完了 · mBridge は同時期に G7 政治圧力に包囲される。2025-10 BIS が mBridge 運営撤退を発表 —— 同時に Agora の進捗を継続的に宣伝。2026-Q2 mBridge とブラジル DREX の相互運用テスト · Agora は中央銀行拡大募集段階へ。両プロジェクトは「BIS 二軌」から「対立する 2 通貨陣営の技術スタック」へ変化。
 
 ## 関連項目
 <!-- wiki-links:managed -->

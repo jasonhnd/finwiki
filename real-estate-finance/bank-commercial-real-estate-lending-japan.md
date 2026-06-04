@@ -35,16 +35,16 @@ Japan commercial real-estate (CRE) lending is a layered system. Megabanks anchor
 
 ## Wiki route
 
-This entry sits under [[real-estate-finance/INDEX]] and routes to bank-side counterparties on [[banking/INDEX]]. Read against [[real-estate-finance/j-reit-market-overview]] for sponsor-side bank lending into the listed J-REIT universe, [[real-estate-finance/real-estate-private-credit-japan]] for the non-bank private-credit alternative, [[real-estate-finance/real-estate-cap-rate-compression-2026]] for the valuation backdrop driving LTV / DSCR ratios, and [[real-estate-finance/japan-real-estate-appraisal-methodology]] for the appraisal floor used in CRE underwriting. Megabank-side anchors are [[JapanFG/mufg-bank]], [[JapanFG/sumitomo-mitsui-banking-corp]], and [[JapanFG/mizuho-bank]]; trust-side anchors are [[JapanFG/sumitomo-mitsui-trust]] and [[JapanFG/mitsubishi-ufj-trust-bank]]; policy-finance anchor is [[JapanFG/dbj]]. Regional-bank concentration drivers route to [[banking/regional-bank-consolidation-pattern]]. Insurer competitor / co-lender map sits at [[insurance/japan-life-insurance-alm-overview]]. Funding-cost backdrop sits at [[money-market/japan-money-market]].
+This entry sits under [[real-estate-finance/INDEX]] and routes to bank-side counterparties on [[banking/INDEX]]. Read against [[real-estate-finance/j-reit-market-overview]] for sponsor-side bank lending into the listed J-REIT universe, [[real-estate-finance/real-estate-private-credit-japan]] for the non-bank private-credit alternative, [[real-estate-finance/real-estate-cap-rate-compression-2026]] for the valuation backdrop driving LTV / DSCR ratios, and [[real-estate-finance/japan-real-estate-appraisal-methodology]] for the appraisal floor used in CRE underwriting. Megabank-side anchors are [[megabanks/mufg-bank]], [[megabanks/sumitomo-mitsui-banking-corp]], and [[megabanks/mizuho-bank]]; trust-side anchors are [[trust-banks/sumitomo-mitsui-trust]] and [[trust-banks/mitsubishi-ufj-trust-bank]]; policy-finance anchor is [[financial-regulators/dbj]]. Regional-bank concentration drivers route to [[banking/regional-bank-consolidation-pattern]]. Insurer competitor / co-lender map sits at [[insurance/japan-life-insurance-alm-overview]]. Funding-cost backdrop sits at [[money-market/japan-money-market]].
 
 ## Bank-Side Structural Map
 
 | Lender class | Functional role | CRE positioning |
 |---|---|---|
-| Megabanks ([[JapanFG/mufg-bank]], [[JapanFG/sumitomo-mitsui-banking-corp]], [[JapanFG/mizuho-bank]]) | Large balance sheets, syndicated project finance, J-REIT sponsor lending, overseas CRE arms. | Anchor underwriters for prime Tokyo / Osaka office, logistics, hospitality, large mixed-use. |
-| Trust banks ([[JapanFG/sumitomo-mitsui-trust]], [[JapanFG/mitsubishi-ufj-trust-bank]]) | Trust-account lending plus real-estate brokerage, appraisal, and asset administration. | Bridge between balance-sheet lending, real-estate trust schemes (TMK / GK-TK), and pension / institutional client allocation. |
+| Megabanks ([[megabanks/mufg-bank]], [[megabanks/sumitomo-mitsui-banking-corp]], [[megabanks/mizuho-bank]]) | Large balance sheets, syndicated project finance, J-REIT sponsor lending, overseas CRE arms. | Anchor underwriters for prime Tokyo / Osaka office, logistics, hospitality, large mixed-use. |
+| Trust banks ([[trust-banks/sumitomo-mitsui-trust]], [[trust-banks/mitsubishi-ufj-trust-bank]]) | Trust-account lending plus real-estate brokerage, appraisal, and asset administration. | Bridge between balance-sheet lending, real-estate trust schemes (TMK / GK-TK), and pension / institutional client allocation. |
 | Regional banks | Local SME credit, real-estate-secured term loans, plus growing apartment-loan and Tokyo-CRE participation. | Concentration risk where CRE share of loan book rises to offset domestic NIM compression. |
-| Policy / development banks ([[JapanFG/dbj]]) | Policy-linked project finance, infrastructure, urban redevelopment co-lending. | Co-lender / lead-arranger for large urban-redevelopment and logistics projects with policy alignment. |
+| Policy / development banks ([[financial-regulators/dbj]]) | Policy-linked project finance, infrastructure, urban redevelopment co-lending. | Co-lender / lead-arranger for large urban-redevelopment and logistics projects with policy alignment. |
 | Foreign banks | Cross-border CRE finance, J-REIT senior tranches, mezzanine, and warehouse facilities. | Niche, often paired with foreign private-credit GPs covered in [[real-estate-finance/real-estate-private-credit-japan]]. |
 
 ## Project Finance vs Corporate Finance
@@ -102,7 +102,7 @@ Supervisory response over 2009 - 2015 (BoJ FSR, FSA inspection focus) tightened:
 | Project finance covenants | Tighter LTV / DSCR triggers and cash-trap mechanics. |
 | Mezzanine / preferred-equity disclosure | Better visibility on total leverage including non-bank tranches. |
 
-These are the baseline expectations carried into the current cycle and visible in megabank IR risk disclosures for [[JapanFG/mufg-bank]], [[JapanFG/sumitomo-mitsui-banking-corp]], and [[JapanFG/mizuho-bank]].
+These are the baseline expectations carried into the current cycle and visible in megabank IR risk disclosures for [[megabanks/mufg-bank]], [[megabanks/sumitomo-mitsui-banking-corp]], and [[megabanks/mizuho-bank]].
 
 ## Post-Pandemic CRE Concentration
 
@@ -137,11 +137,11 @@ Megabank IR disclosures publish CRE exposure under categories such as "real esta
 
 Three megabanks have meaningfully different mixes:
 
-- [[JapanFG/mufg-bank]] carries significant overseas CRE through US / EU branch networks plus a large domestic real-estate sponsor book.
-- [[JapanFG/sumitomo-mitsui-banking-corp]] runs a focused domestic CRE book plus selective overseas project finance.
-- [[JapanFG/mizuho-bank]] has a mixed domestic / overseas profile with a long history in J-REIT and listed-developer relationships.
+- [[megabanks/mufg-bank]] carries significant overseas CRE through US / EU branch networks plus a large domestic real-estate sponsor book.
+- [[megabanks/sumitomo-mitsui-banking-corp]] runs a focused domestic CRE book plus selective overseas project finance.
+- [[megabanks/mizuho-bank]] has a mixed domestic / overseas profile with a long history in J-REIT and listed-developer relationships.
 
-Trust-bank anchors [[JapanFG/sumitomo-mitsui-trust]] and [[JapanFG/mitsubishi-ufj-trust-bank]] add a real-estate-trust dimension where the trust bank holds beneficiary-interest structures and provides asset administration alongside lending.
+Trust-bank anchors [[trust-banks/sumitomo-mitsui-trust]] and [[trust-banks/mitsubishi-ufj-trust-bank]] add a real-estate-trust dimension where the trust bank holds beneficiary-interest structures and provides asset administration alongside lending.
 
 Exact CRE exposure figures and concentration ratios rotate at each quarterly disclosure; verify on the relevant megabank IR page before use.
 
@@ -186,12 +186,12 @@ Underwriting standards in 2025 - 2026 vintage CRE loans incorporate higher refer
 - [[money-market/japan-money-market]]
 - [[finance/japan-private-equity-fund-structure-matrix]]
 - [[finance/japan-private-equity-operating-model]]
-- [[JapanFG/mufg-bank]]
-- [[JapanFG/sumitomo-mitsui-banking-corp]]
-- [[JapanFG/mizuho-bank]]
-- [[JapanFG/sumitomo-mitsui-trust]]
-- [[JapanFG/mitsubishi-ufj-trust-bank]]
-- [[JapanFG/dbj]]
+- [[megabanks/mufg-bank]]
+- [[megabanks/sumitomo-mitsui-banking-corp]]
+- [[megabanks/mizuho-bank]]
+- [[trust-banks/sumitomo-mitsui-trust]]
+- [[trust-banks/mitsubishi-ufj-trust-bank]]
+- [[financial-regulators/dbj]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

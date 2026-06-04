@@ -74,7 +74,7 @@ The relationship between OIS-TONA and the policy rate guideline is:
 - OIS forward rates embed the probability-weighted expectation of where BoJ will set the policy rate over each tenor.
 - Differences between observed TONA and the implied OIS forward at the same horizon reveal repricing of policy expectations between MPMs.
 
-See [[JapanFG/boj-monetary-policy]] (where present) and [[money-market/boj-open-market-operations]] for the policy implementation layer; this entry covers the derivative expression.
+See [[financial-regulators/boj-monetary-policy]] (where present) and [[money-market/boj-open-market-operations]] for the policy implementation layer; this entry covers the derivative expression.
 
 ## OIS Curve Construction
 
@@ -166,9 +166,9 @@ TONA futures are growing in liquidity but remain smaller than OTC OIS. They are 
 - [[securities/INDEX]]
 - [[securities/japan-market-infrastructure-map]]
 - [[securities/japan-securities-clearing-corp]]
-- [[JapanFG/mufg-bank]]
-- [[JapanFG/sumitomo-mitsui-banking-corp]]
-- [[JapanFG/mizuho-bank]]
+- [[megabanks/mufg-bank]]
+- [[megabanks/sumitomo-mitsui-banking-corp]]
+- [[megabanks/mizuho-bank]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

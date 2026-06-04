@@ -108,7 +108,7 @@ DMM.com Securities and DMM Bitcoin are separate entities (their address is the s
 - [[fintech/japan-financial-regulation]] — Japanese financial regulation as a whole
 - [[fintech/japan-bittrade-listing-process]] — general theory of token-listing processes
 - [[fintech/japan-stablecoin-regulatory-landscape]] — related stablecoin regime
-- [[JapanFG/dmm-com-securities]] — JapanFG DMM.com Securities profile
+- [[securities-firms/dmm-com-securities]] — JapanFG DMM.com Securities profile
 - [[exchanges/jp-vasp-derivative-license-system]] — JP VASP derivatives licensing regime
 - [[exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis]] — DMM Bitcoin Lazarus hack detailed analysis (group-related)
 

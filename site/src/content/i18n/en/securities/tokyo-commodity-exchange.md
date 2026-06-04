@@ -23,7 +23,7 @@ For FinWiki, TOCOM is the commodity-derivatives branch of the JPX complex and sh
 
 | Layer | TOCOM reading |
 |---|---|
-| Parent | [[JapanFG/japan-exchange-group|Japan Exchange Group]] |
+| Parent | [[financial-regulators/japan-exchange-group|Japan Exchange Group]] |
 | Legal form | Tokyo Commodity Exchange, Inc. |
 | Founded | 1951-02-19 |
 | Function | Energy commodity futures market operation. |
@@ -43,7 +43,7 @@ TOCOM matters when the question is not about equity finance but about energy-pri
 
 ## Related
 
-- [[JapanFG/japan-exchange-group]]
+- [[financial-regulators/japan-exchange-group]]
 - [[securities/osaka-exchange]]
 - [[securities/japan-securities-clearing-corp]]
 - [[trade/jetro-organization-structure]]

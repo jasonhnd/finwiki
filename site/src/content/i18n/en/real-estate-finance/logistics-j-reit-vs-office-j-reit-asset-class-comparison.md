@@ -139,7 +139,7 @@ The bank-lending profile for the two asset classes also differs in nuanced ways.
 
 | Lending dimension | Logistics | Office |
 |---|---|---|
-| Lender type | Megabanks, trust banks ([[JapanFG/sumitomo-mitsui-trust\|SMTB]], [[JapanFG/mitsubishi-ufj-trust-bank\|MUFJ Trust]]), life insurers as direct lenders, regional banks for syndicate participation | Megabanks and trust banks as primary; life insurers as direct lenders; regional banks for syndicate participation |
+| Lender type | Megabanks, trust banks ([[trust-banks/sumitomo-mitsui-trust\|SMTB]], [[trust-banks/mitsubishi-ufj-trust-bank\|MUFJ Trust]]), life insurers as direct lenders, regional banks for syndicate participation | Megabanks and trust banks as primary; life insurers as direct lenders; regional banks for syndicate participation |
 | Loan structure | Non-recourse loans backed by specific facility cash flow; LTV typically conservative | Mix of non-recourse loans and corporate loans backed by developer balance sheet |
 | Tenor | Long-tenor matching lease tenor (5–15+ years) | Mix of construction loans (3–5 year) and permanent financing (5–10 year) |
 | Covenants | DSCR / LTV / cap-rate-based covenants | Similar; office may have more vacancy-rate-tested covenants |
@@ -199,8 +199,8 @@ The **foreign-investor flow rotation** between logistics and office J-REITs is o
 - [[retail/aeon-group|AEON Group]]
 - [[retail/seven-and-i-hd|Seven & i HD]]
 - [[retail/INDEX|retail INDEX]]
-- [[JapanFG/sumitomo-mitsui-trust|SMTB]]
-- [[JapanFG/mitsubishi-ufj-trust-bank|MUFJ Trust]]
+- [[trust-banks/sumitomo-mitsui-trust|SMTB]]
+- [[trust-banks/mitsubishi-ufj-trust-bank|MUFJ Trust]]
 - [[business/INDEX|business INDEX]]
 - [[corporate-strategy/INDEX|corporate-strategy INDEX]]
 - [[INDEX|FinWiki index]]

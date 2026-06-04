@@ -53,41 +53,41 @@
     "wikilinks_count": 13,
     "wikilinks": [
       "INDEX",
-      "JapanFG/boj-monetary-policy",
-      "JapanFG/central-tanshi",
-      "JapanFG/mizuho-fg",
-      "JapanFG/mizuho-securities",
-      "JapanFG/mufg",
-      "JapanFG/mufg-mums",
-      "JapanFG/smfg",
-      "JapanFG/tokyo-tanshi",
-      "JapanFG/ueda-yagi-tanshi",
+      "financial-regulators/boj-monetary-policy",
+      "financial-regulators/central-tanshi",
+      "financial-regulators/tokyo-tanshi",
+      "financial-regulators/ueda-yagi-tanshi",
+      "megabanks/mizuho-fg",
+      "megabanks/mufg",
+      "megabanks/smfg",
       "money-market/INDEX",
       "money-market/boj-open-market-operations",
-      "money-market/japan-money-market"
+      "money-market/japan-money-market",
+      "securities-firms/mizuho-securities",
+      "securities-firms/mufg-mums"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/boj-monetary-policy",
-      "https://finwiki.zksc.io/JapanFG/central-tanshi",
-      "https://finwiki.zksc.io/JapanFG/mizuho-fg",
-      "https://finwiki.zksc.io/JapanFG/mizuho-securities",
-      "https://finwiki.zksc.io/JapanFG/mufg",
-      "https://finwiki.zksc.io/JapanFG/mufg-mums",
-      "https://finwiki.zksc.io/JapanFG/smfg",
-      "https://finwiki.zksc.io/JapanFG/tokyo-tanshi",
-      "https://finwiki.zksc.io/JapanFG/ueda-yagi-tanshi",
+      "https://finwiki.zksc.io/financial-regulators/boj-monetary-policy",
+      "https://finwiki.zksc.io/financial-regulators/central-tanshi",
+      "https://finwiki.zksc.io/financial-regulators/tokyo-tanshi",
+      "https://finwiki.zksc.io/financial-regulators/ueda-yagi-tanshi",
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/smfg",
       "https://finwiki.zksc.io/money-market/INDEX",
       "https://finwiki.zksc.io/money-market/boj-open-market-operations",
-      "https://finwiki.zksc.io/money-market/japan-money-market"
+      "https://finwiki.zksc.io/money-market/japan-money-market",
+      "https://finwiki.zksc.io/securities-firms/mizuho-securities",
+      "https://finwiki.zksc.io/securities-firms/mufg-mums"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3569,
-    "word_like_tokens": 580,
+    "nonspace_chars": 3697,
+    "word_like_tokens": 590,
     "inbound_wikilinks_count": 24,
-    "last_modified": "2026-05-21"
+    "last_modified": "2026-06-04"
   }
 }

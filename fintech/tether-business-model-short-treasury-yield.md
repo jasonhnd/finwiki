@@ -43,7 +43,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 ## Reasoning
 
 - 業界関係者の評価: 「結果オーライで儲かってる」「最初は詐欺みたいなビジネス」と評される起源
-- ステーブルコイン市場における短期金利の「直接利益化」構造は、規制ステーブルコイン（USDC・[[JapanFG/jpyc|JPYC]]・銀行発行預金トークン）も同様に持つが、Tether は規模 × KYC コスト最小化で利益率最大化
+- ステーブルコイン市場における短期金利の「直接利益化」構造は、規制ステーブルコイン（USDC・[[payment-firms/jpyc|JPYC]]・銀行発行預金トークン）も同様に持つが、Tether は規模 × KYC コスト最小化で利益率最大化
 - 米国短期金利上昇期（2023-2025）の追い風で利益急増、日本円金利上昇が鈍い間は日本 SC 発行体には同等の利益構造を作れない（同じ「利息は誰が取るか」問題は [[fintech/stablecoin-revenue-split-economics|稳定币利息分润経済学]] で整理）
 - 機関投資家市場には [[fintech/institutional-stablecoin-deposit-token-thesis|預金トークン論]] により構造的に入れず、リテール / 取引所内 / 海外送金が主用途
 

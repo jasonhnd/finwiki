@@ -16,7 +16,7 @@ This entry sits under [[business/INDEX|business INDEX]] as a public-company stra
 
 ## TL;DR
 
-Rakuten Group (TSE 4755) operates as a conglomerate where **profitable financial subsidiaries cross-subsidize a deeply loss-making mobile network operator**. The core engine — [[JapanFG/rakuten-card|Rakuten Card]] (Japan's largest credit-card issuer by volume), [[JapanFG/rakuten-bank|Rakuten Bank]] (Japan's largest internet bank, IPO'd 2023-04), [[JapanFG/rakuten-securities|Rakuten Securities]] (top-3 online broker), and Rakuten Insurance / Rakuten Edy — generates the operating cash that funds Rakuten Mobile's network rollout (estimated cumulative losses exceeding ¥1tn since 2019).
+Rakuten Group (TSE 4755) operates as a conglomerate where **profitable financial subsidiaries cross-subsidize a deeply loss-making mobile network operator**. The core engine — [[card-issuers/rakuten-card|Rakuten Card]] (Japan's largest credit-card issuer by volume), [[JapanFG/rakuten-bank|Rakuten Bank]] (Japan's largest internet bank, IPO'd 2023-04), [[securities-firms/rakuten-securities|Rakuten Securities]] (top-3 online broker), and Rakuten Insurance / Rakuten Edy — generates the operating cash that funds Rakuten Mobile's network rollout (estimated cumulative losses exceeding ¥1tn since 2019).
 
 The 2023-2025 recapitalization moves — Rakuten Bank IPO, Rakuten Securities partial sale to Mizuho, and multiple straight / convertible bond placements — reveal a parent company in a slow-motion deleveraging while still trying to preserve the conglomerate logic that a mobile / e-commerce / payments / finance super-app can compound network effects unavailable to standalone competitors.
 
@@ -26,7 +26,7 @@ The 2023-2025 recapitalization moves — Rakuten Bank IPO, Rakuten Securities pa
 |---|---|---|
 | Internet services | Rakuten Ichiba (e-commerce), Rakuten Travel | Profitable, mature growth |
 | Mobile | Rakuten Mobile (RMK), Rakuten Symphony | Heavy operating loss, infrastructure capex |
-| Finance | [[JapanFG/rakuten-card|Rakuten Card]], [[JapanFG/rakuten-bank|Rakuten Bank]], [[JapanFG/rakuten-securities|Rakuten Securities]], Rakuten Pay | Highly profitable; growth + cross-sell engine |
+| Finance | [[card-issuers/rakuten-card|Rakuten Card]], [[JapanFG/rakuten-bank|Rakuten Bank]], [[securities-firms/rakuten-securities|Rakuten Securities]], Rakuten Pay | Highly profitable; growth + cross-sell engine |
 | Insurance | Rakuten Life, Rakuten General Insurance, Rakuten Insurance HD | Marginally profitable |
 | Loyalty | Rakuten Points (~120mn members) | Cross-segment glue |
 
@@ -46,9 +46,9 @@ By 2024-2025, Rakuten Mobile had reached ~7-8mn lines but still ran losses. Cumu
 
 | Subsidiary | Role | Cross-subsidy contribution |
 |---|---|---|
-| **[[JapanFG/rakuten-card|Rakuten Card]]** | #1 issuer by transaction volume in Japan | Merchant interchange + revolving interest + Rakuten Points engine; >¥20tn annual handling estimated |
+| **[[card-issuers/rakuten-card|Rakuten Card]]** | #1 issuer by transaction volume in Japan | Merchant interchange + revolving interest + Rakuten Points engine; >¥20tn annual handling estimated |
 | **[[JapanFG/rakuten-bank|Rakuten Bank]]** | #1 internet bank, IPO'd 2023-04 (TSE 5838) | Net-interest income, fee income; raised cash via partial sale at IPO |
-| **[[JapanFG/rakuten-securities|Rakuten Securities]]** | Top-3 online broker (vs SBI, Matsui) | Brokerage fees, margin lending; partial-sale to Mizuho |
+| **[[securities-firms/rakuten-securities|Rakuten Securities]]** | Top-3 online broker (vs SBI, Matsui) | Brokerage fees, margin lending; partial-sale to Mizuho |
 | Rakuten Pay / Rakuten Edy | QR-code + prepaid e-money | Cashless ecosystem tie-in, see [[payments/cashless-jp-landscape|cashless landscape]] |
 | Rakuten Insurance HD | Life + non-life | Smaller cross-subsidy contribution |
 
@@ -74,7 +74,7 @@ Each recapitalization moves further toward turning the conglomerate from net-los
 | **Rakuten** | Finance → Mobile (this case) | Card / Bank / Securities profit fills Mobile loss |
 | **NTT Docomo** | Telco → Finance (next entry) | Mobile subscriber base drives d-Point / d-Card / d-Barai growth, see [[business/ntt-docomo-d-point-telco-finance-case|d-Point case]] |
 | **KDDI / au** | Telco → Finance | au PAY / au Jibun Bank / au Insurance bundled into mobile plans |
-| **SoftBank / PayPay** | Telco + capital → Finance | [[JapanFG/paypay-fg|PayPay FG]] with SoftBank backing, see [[JapanFG/paypay-fg|PayPay FG]] |
+| **SoftBank / PayPay** | Telco + capital → Finance | [[megabanks/paypay-fg|PayPay FG]] with SoftBank backing, see [[megabanks/paypay-fg|PayPay FG]] |
 | **GMO Internet Group** | Internet infra → Finance | [[business/gmo-internet-group|GMO Internet Group]] payment / bank / FX layered on internet base |
 | **SBI Holdings** | Independent strategy | [[business/kitao-yoshitaka-sbi-independent-strategy-case|Kitao Yoshitaka SBI]] — no conglomerate cross-subsidy, finance pure-play |
 
@@ -118,7 +118,7 @@ Rakuten chose IPO over partial spinoff because the cash-raise was central to the
 
 - When will Rakuten Mobile reach operating breakeven, if ever?
 - Will the parent eventually have to divest mobile (sell to NTT / KDDI / SoftBank) and admit the bet failed?
-- How will progressive financial-subsidiary IPO / partial-sale moves affect Mizuho's strategic position in [[JapanFG/rakuten-securities|Rakuten Securities]]?
+- How will progressive financial-subsidiary IPO / partial-sale moves affect Mizuho's strategic position in [[securities-firms/rakuten-securities|Rakuten Securities]]?
 - Can the Points loyalty engine sustain the cross-segment glue if any major segment is divested?
 - Will FSA increase regulatory scrutiny on Card / Bank capital adequacy given parent-level credit stress?
 
@@ -130,11 +130,11 @@ Rakuten chose IPO over partial spinoff because the cash-raise was central to the
 - [[business/kitao-yoshitaka-sbi-independent-strategy-case|Kitao Yoshitaka SBI independent strategy]]
 - [[business/sony-fg-partial-spinoff-case|Sony FG partial spinoff case]]
 - [[business/softbank-vision-fund-arm-ipo-template|SoftBank Vision Fund Arm IPO template]]
-- [[JapanFG/rakuten-fg|Rakuten FG]]
-- [[JapanFG/rakuten-card|Rakuten Card]]
+- [[payment-firms/rakuten-fg|Rakuten FG]]
+- [[card-issuers/rakuten-card|Rakuten Card]]
 - [[JapanFG/rakuten-bank|Rakuten Bank]]
-- [[JapanFG/rakuten-securities|Rakuten Securities]]
-- [[JapanFG/paypay-fg|PayPay FG]]
+- [[securities-firms/rakuten-securities|Rakuten Securities]]
+- [[megabanks/paypay-fg|PayPay FG]]
 - [[payments/cashless-jp-landscape|Japan cashless payment landscape]]
 - [[corporate-strategy/spinoff-decision-tree-japan|spinoff decision tree Japan]]
 - [[INDEX|FinWiki index]]

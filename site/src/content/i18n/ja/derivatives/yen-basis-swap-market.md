@@ -67,7 +67,7 @@ synthetic USD cost ≈ JPY funding rate − basis (in bp, applied to JPY leg)
 
 basis が −60 bp の場合、JPY funding による合成 USD は、比較可能な native-USD borrowing より 60 bp 高くなる。つまり、発行体に USD 債の franchise があるなら、より安い経路は USD を直接発行することになる。逆に、円 funding を求める米ドル保有者は、swap に USD を貸し出すことで 60 bp の pickup を得る。これは basis が広いときに裁定資本が追う「yen pickup trade」である。
 
-日本のメガバンク treasury にとって、basis は円建て預金（安価で潤沢）と USD 資産（高価で希少）の funding gap を直接価格化する。そのため、メガバンクの wholesale funding 戦略は basis 変動に敏感である。franchise レベルについては [[banking/INDEX]]、[[JapanFG/mufg-bank]]、[[JapanFG/sumitomo-mitsui-banking-corp]]、[[JapanFG/mizuho-bank]] を参照。
+日本のメガバンク treasury にとって、basis は円建て預金（安価で潤沢）と USD 資産（高価で希少）の funding gap を直接価格化する。そのため、メガバンクの wholesale funding 戦略は basis 変動に敏感である。franchise レベルについては [[banking/INDEX]]、[[megabanks/mufg-bank]]、[[megabanks/sumitomo-mitsui-banking-corp]]、[[megabanks/mizuho-bank]] を参照。
 
 ## メガバンク dealer franchise
 
@@ -135,9 +135,9 @@ JPY-USD basis は、主要通貨 CCBS pairs の中で通常最も広く、最も
 - [[finance/japan-corporate-fx-and-rate-hedge-policy]]
 - [[finance/japan-listed-financial-groups-investable-universe]]
 - [[securities/japan-market-infrastructure-map]]
-- [[JapanFG/mufg-bank]]
-- [[JapanFG/sumitomo-mitsui-banking-corp]]
-- [[JapanFG/mizuho-bank]]
+- [[megabanks/mufg-bank]]
+- [[megabanks/sumitomo-mitsui-banking-corp]]
+- [[megabanks/mizuho-bank]]
 - [[INDEX|FinWiki index]]
 
 ## 出典

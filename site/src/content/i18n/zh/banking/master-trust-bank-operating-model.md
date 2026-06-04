@@ -12,7 +12,7 @@ translated_at: 2026-05-30T18:52:47.784Z
 
 ## Wiki route
 
-本条目归属于 [[banking/INDEX|banking index]]。请与实体锚点 [[JapanFG/master-trust-bank|日本マスタートラスト信託銀行 (MTBJ)]]、运营同侪 [[JapanFG/custody-bank|日本カストディ銀行 (CBJ)]]、格局汇总 [[banking/japan-master-trust-and-custody-bank-landscape|Japan master trust and custody bank landscape]]、运营比较 [[banking/trust-bank-custody-operating-comparison|trust-bank custody operating comparison]] 及跨阵营矩阵 [[banking/japan-trust-bank-vs-global-custodian-comparison-matrix|Japan trust bank vs global custodian comparison matrix]] 一并阅读。请将其与结算轨道条目 [[securities/japan-securities-depository-center|JASDEC]] 及 [[securities/japan-securities-clearing-corp|JSCC]]（基础设施侧）、[[banking/japan-banking-license-tier-comparison-matrix|Japan banking license tier comparison matrix]]（监管边界）、股东侧信托银行页面 [[JapanFG/mitsubishi-ufj-trust-bank|三菱UFJ信託銀行]] 及 [[JapanFG/nochu-trust-bank|農中信託銀行]]，以及 [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]]（机构背景）搭配阅读。
+本条目归属于 [[banking/INDEX|banking index]]。请与实体锚点 [[trust-banks/master-trust-bank|日本マスタートラスト信託銀行 (MTBJ)]]、运营同侪 [[trust-banks/custody-bank|日本カストディ銀行 (CBJ)]]、格局汇总 [[banking/japan-master-trust-and-custody-bank-landscape|Japan master trust and custody bank landscape]]、运营比较 [[banking/trust-bank-custody-operating-comparison|trust-bank custody operating comparison]] 及跨阵营矩阵 [[banking/japan-trust-bank-vs-global-custodian-comparison-matrix|Japan trust bank vs global custodian comparison matrix]] 一并阅读。请将其与结算轨道条目 [[securities/japan-securities-depository-center|JASDEC]] 及 [[securities/japan-securities-clearing-corp|JSCC]]（基础设施侧）、[[banking/japan-banking-license-tier-comparison-matrix|Japan banking license tier comparison matrix]]（监管边界）、股东侧信托银行页面 [[trust-banks/mitsubishi-ufj-trust-bank|三菱UFJ信託銀行]] 及 [[trust-banks/nochu-trust-bank|農中信託銀行]]，以及 [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]]（机构背景）搭配阅读。
 
 ## TL;DR
 
@@ -32,16 +32,16 @@ translated_at: 2026-05-30T18:52:47.784Z
 | 行业机构 | 信託協会（Trust Companies Association of Japan） |
 | 职能定位 | 资产管理专业机构（无贷款、无存款、无私人银行、无不动产信托） |
 | 公开 AUC 锚点 | ¥823  万亿日元受托管理信托资产（MTBJ 官方「私たちの仕事」页面汇总，占日本 ¥2,351  万亿日元金融资产之中） |
-| 同侪 | [[JapanFG/custody-bank|Custody Bank of Japan (CBJ)]] |
+| 同侪 | [[trust-banks/custody-bank|Custody Bank of Japan (CBJ)]] |
 
 ### 股东结构（公开披露）
 
 | Shareholder | Stake | Reading |
 |---|---|---|
-| [[JapanFG/mitsubishi-ufj-trust-bank|三菱UFJ信託銀行]]（MUFG 集团） | 46.5% | 主导产业股东；提供三菱侧委托流与信托银行运营专长 |
-| [[JapanFG/nippon-life|日本生命]] | 33.5% | 最大寿险股东；提供寿险分离账户托管及企业养老金委托流 |
-| [[JapanFG/meiji-yasuda|明治安田生命]] | 10.0% | 第二寿险股东；完善寿险侧委托基础 |
-| [[JapanFG/nochu-trust-bank|農中信託銀行]]（农林中金集团） | 10.0% | 合作社金融股东；提供 JA Bank / 农林系委托流 |
+| [[trust-banks/mitsubishi-ufj-trust-bank|三菱UFJ信託銀行]]（MUFG 集团） | 46.5% | 主导产业股东；提供三菱侧委托流与信托银行运营专长 |
+| [[life-insurers/nippon-life|日本生命]] | 33.5% | 最大寿险股东；提供寿险分离账户托管及企业养老金委托流 |
+| [[life-insurers/meiji-yasuda|明治安田生命]] | 10.0% | 第二寿险股东；完善寿险侧委托基础 |
+| [[trust-banks/nochu-trust-bank|農中信託銀行]]（农林中金集团） | 10.0% | 合作社金融股东；提供 JA Bank / 农林系委托流 |
 
 ### 为何存在纯托管信托银行
 
@@ -55,8 +55,8 @@ translated_at: 2026-05-30T18:52:47.784Z
 
 | Segment | Core function | Typical client base | What it is not |
 |---|---|---|---|
-| **年金信託（养老金信托管理）** | 为 厚生年金基金、確定給付企業年金（DB）及 確定拠出年金（DC）提供信托合约——记录保存、资产所有者报告、给付操作、成员余额 | GPIF、大型企业 DB 计划、DC 计划（常经由 DC 发起方侧管理人）、厚生年金基金 | 并非投资管理人——投资裁量权归于 [[JapanFG/mitsubishi-ufj-asset-management|asset managers]] 及资产所有者的受托人 |
-| **投資信託受託（证券投资信托管理）** | 为 公募投信 及 私募投信 提供信托合约——基金会计、NAV 计算、持仓登记、分配处理、审计支持 | [[JapanFG/mitsubishi-ufj-asset-management|MUFG asset management arm]]、[[JapanFG/nomura-asset-management|Nomura AM]]、[[JapanFG/sbi-asset-management|SBI AM]] 及其他以 MTBJ 为受託銀行的资产管理公司 | 并非基金发起方或分销商；并非基金经理 |
+| **年金信託（养老金信托管理）** | 为 厚生年金基金、確定給付企業年金（DB）及 確定拠出年金（DC）提供信托合约——记录保存、资产所有者报告、给付操作、成员余额 | GPIF、大型企业 DB 计划、DC 计划（常经由 DC 发起方侧管理人）、厚生年金基金 | 并非投资管理人——投资裁量权归于 [[asset-managers/mitsubishi-ufj-asset-management|asset managers]] 及资产所有者的受托人 |
+| **投資信託受託（证券投资信托管理）** | 为 公募投信 及 私募投信 提供信托合约——基金会计、NAV 计算、持仓登记、分配处理、审计支持 | [[asset-managers/mitsubishi-ufj-asset-management|MUFG asset management arm]]、[[asset-managers/nomura-asset-management|Nomura AM]]、[[asset-managers/sbi-asset-management|SBI AM]] 及其他以 MTBJ 为受託銀行的资产管理公司 | 并非基金发起方或分销商；并非基金经理 |
 | **有価証券カストディ（证券托管）** | 保管股票、JGB、公司债、外国证券；簿记登记；公司行为处理；股息 / 利息收取；退税操作 | 养老金计划、资产管理公司、寿险公司、需要日本次级托管人的外国全球托管机构 | 并非自有投资者；「信託口」名义人标签是记录保存的构造 |
 | **議決権行使指図（投票管理）** | 按资产所有者 / 管理人指图机械执行投票；ICJ 电子投票平台连接；代理顾问（ISS / Glass Lewis）材料处理 | 以 MTBJ 为次级托管人的资产管理公司、养老金计划、外国投资者 | 并非裁量性投票人——MTBJ 不形成自己的投票意见 |
 | **特定金外信託（特定金外信托操作）** | 面向企业资金管理与金融机构资产的特殊目的投资信托结构（特金） | 以 特金 为投资工具的企业、区域银行、保险公司 | 并非裁量性资产管理人 |
@@ -72,7 +72,7 @@ translated_at: 2026-05-30T18:52:47.784Z
 | 基金会计 / NAV 计算 | 为投信委托进行每日 NAV 计算；按 投信協会 指引的估值规则；审计支持工作底稿 |
 | 公司行为 | 股息 / 利息收取、拆分、配股、转换、强制 / 自愿事件、预扣税处理；外国资产 CA 经全球托管次级网络处理 |
 | 投票操作 | 接收会议材料、ICJ 电子投票转发、机械执行资产所有者 / 管理人指图 |
-| 外国资产次级托管 | 为委托组合中的非日本资产经全球托管机构（[[JapanFG/bny-mellon-japan|BNY Mellon]] / [[JapanFG/state-street-japan|State Street]] / [[JapanFG/jpmorgan-japan|JP Morgan]]）重新路由 |
+| 外国资产次级托管 | 为委托组合中的非日本资产经全球托管机构（[[foreign-financial-institutions/bny-mellon-japan|BNY Mellon]] / [[foreign-financial-institutions/state-street-japan|State Street]] / [[foreign-financial-institutions/jpmorgan-japan|JP Morgan]]）重新路由 |
 | 证券借贷支持 | 客户选择加入时的借贷计划管理；抵押品提交；召回管理 |
 | 成员 / 参与者操作 | 养老金成员余额报告（DB / DC）、给付操作、母子基金穿透 |
 
@@ -90,9 +90,9 @@ translated_at: 2026-05-30T18:52:47.784Z
 
 | Layer | Competitor | Overlap with MTBJ | Differentiation |
 |---|---|---|---|
-| 国内纯托管专业机构 | [[JapanFG/custody-bank|Custody Bank of Japan (CBJ)]] | 几乎相同的产品集——养老金信托、投信受託、证券托管 | 不同的股东阵营（SMTB + 瑞穗 + 第一生命）与不同的委托基础；两者共同锚定双强国内基础设施 |
-| 大型银行的全能型信托银行部门 | [[JapanFG/mitsubishi-ufj-trust-bank|MUFG Trust]]、[[JapanFG/sumitomo-mitsui-trust|SMTB]]、[[JapanFG/mizuho-trust-bank|Mizuho Trust]] | 全能型信托银行内部也经营托管与养老金信托——但通常将后台处理的资产管理腿外包给 MTBJ / CBJ | 全能型信托银行增加 不動産信託、相続、私人银行、证券代理、議決権電子化 服务；它们赢得*前台*委托，而 MTBJ / CBJ 运行*处理* |
-| 全球托管机构（外国次级托管链） | [[JapanFG/bny-mellon-japan|BNY Mellon Japan]]、[[JapanFG/state-street-japan|State Street Japan]]、[[JapanFG/jpmorgan-japan|JP Morgan Japan]] | 跨境托管、外国投资者日本次级托管、为日本委托处理外国资产 | 全球机构主导跨境；MTBJ 主导国内日本资产；两条链为 GPIF 与 投信 海外资产 互联 |
+| 国内纯托管专业机构 | [[trust-banks/custody-bank|Custody Bank of Japan (CBJ)]] | 几乎相同的产品集——养老金信托、投信受託、证券托管 | 不同的股东阵营（SMTB + 瑞穗 + 第一生命）与不同的委托基础；两者共同锚定双强国内基础设施 |
+| 大型银行的全能型信托银行部门 | [[trust-banks/mitsubishi-ufj-trust-bank|MUFG Trust]]、[[trust-banks/sumitomo-mitsui-trust|SMTB]]、[[trust-banks/mizuho-trust-bank|Mizuho Trust]] | 全能型信托银行内部也经营托管与养老金信托——但通常将后台处理的资产管理腿外包给 MTBJ / CBJ | 全能型信托银行增加 不動産信託、相続、私人银行、证券代理、議決権電子化 服务；它们赢得*前台*委托，而 MTBJ / CBJ 运行*处理* |
+| 全球托管机构（外国次级托管链） | [[foreign-financial-institutions/bny-mellon-japan|BNY Mellon Japan]]、[[foreign-financial-institutions/state-street-japan|State Street Japan]]、[[foreign-financial-institutions/jpmorgan-japan|JP Morgan Japan]] | 跨境托管、外国投资者日本次级托管、为日本委托处理外国资产 | 全球机构主导跨境；MTBJ 主导国内日本资产；两条链为 GPIF 与 投信 海外资产 互联 |
 
 ### 跨阵营比较表
 
@@ -221,17 +221,17 @@ MTBJ (record-name trust-account) → global custodian (BNY / State Street / JPM 
 - [[banking/trust-bank-fee-structure-comparison]]
 - [[banking/pension-trust-mandate-allocation-japan]]
 - [[banking/japan-banking-license-tier-comparison-matrix]]
-- [[JapanFG/master-trust-bank]]
-- [[JapanFG/custody-bank]]
-- [[JapanFG/mitsubishi-ufj-trust-bank]]
-- [[JapanFG/sumitomo-mitsui-trust]]
-- [[JapanFG/mizuho-trust-bank]]
-- [[JapanFG/nochu-trust-bank]]
-- [[JapanFG/nippon-life]]
-- [[JapanFG/meiji-yasuda]]
-- [[JapanFG/bny-mellon-japan]]
-- [[JapanFG/state-street-japan]]
-- [[JapanFG/jpmorgan-japan]]
+- [[trust-banks/master-trust-bank]]
+- [[trust-banks/custody-bank]]
+- [[trust-banks/mitsubishi-ufj-trust-bank]]
+- [[trust-banks/sumitomo-mitsui-trust]]
+- [[trust-banks/mizuho-trust-bank]]
+- [[trust-banks/nochu-trust-bank]]
+- [[life-insurers/nippon-life]]
+- [[life-insurers/meiji-yasuda]]
+- [[foreign-financial-institutions/bny-mellon-japan]]
+- [[foreign-financial-institutions/state-street-japan]]
+- [[foreign-financial-institutions/jpmorgan-japan]]
 - [[securities/japan-securities-depository-center]]
 - [[securities/japan-securities-clearing-corp]]
 - [[securities/japan-market-infrastructure-map]]

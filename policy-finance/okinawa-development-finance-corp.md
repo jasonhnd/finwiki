@@ -26,11 +26,11 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[policy-finance/INDEX|policy-finance index]] as the consolidated Okinawa-specific policy-finance institution in the Japanese state-finance system. Read it against [[JapanFG/jfc|日本政策金融公庫 (JFC)]] for the mainland Japan counterpart whose three functional divisions (国民生活 / 中小企業 / 農林水産) ODFC consolidates into a single regional institution; with [[policy-finance/jfc-sme-division-operating-model|JFC SME Division operating model]] for the operating-mechanics comparison on the mid-cap policy-finance lane; with [[policy-finance/jfc-agriculture-forestry-fisheries-division|JFC AFF Division]] for the agriculture-forestry-fisheries lane comparison; with [[policy-finance/jfc-kokumin-life-finance-division|JFC 国民生活事業]] for the micro-business / household lane; with [[policy-finance/japan-housing-finance-agency|JHF]] for the housing-finance lane that ODFC handles internally rather than via JHF; with [[policy-finance/japan-credit-guarantee-system|Japan credit guarantee system]] for the credit-guarantee perimeter; with [[policy-finance/japan-policy-finance-system|Japan policy finance system]] for the wider toolkit; with [[policy-finance/japan-policy-finance-institution-mandate-matrix|Japan policy-finance institution mandate matrix]] for the nine-institution comparison axis; with [[JapanFG/okinawa-fg|Okinawa FG]] and [[JapanFG/okinawa-kaiho-bank|Okinawa Kaiho Bank]] for the regional private-sector banking counterparts; and with [[JapanFG/okinawa-shinko|Okinawa Shinko]] / [[banking/INDEX|Okinawa shinkin / credit cooperatives]] for cooperative-banking peers.
+This entry sits under [[policy-finance/INDEX|policy-finance index]] as the consolidated Okinawa-specific policy-finance institution in the Japanese state-finance system. Read it against [[financial-regulators/jfc|日本政策金融公庫 (JFC)]] for the mainland Japan counterpart whose three functional divisions (国民生活 / 中小企業 / 農林水産) ODFC consolidates into a single regional institution; with [[policy-finance/jfc-sme-division-operating-model|JFC SME Division operating model]] for the operating-mechanics comparison on the mid-cap policy-finance lane; with [[policy-finance/jfc-agriculture-forestry-fisheries-division|JFC AFF Division]] for the agriculture-forestry-fisheries lane comparison; with [[policy-finance/jfc-kokumin-life-finance-division|JFC 国民生活事業]] for the micro-business / household lane; with [[policy-finance/japan-housing-finance-agency|JHF]] for the housing-finance lane that ODFC handles internally rather than via JHF; with [[policy-finance/japan-credit-guarantee-system|Japan credit guarantee system]] for the credit-guarantee perimeter; with [[policy-finance/japan-policy-finance-system|Japan policy finance system]] for the wider toolkit; with [[policy-finance/japan-policy-finance-institution-mandate-matrix|Japan policy-finance institution mandate matrix]] for the nine-institution comparison axis; with [[regional-banks/okinawa-fg|Okinawa FG]] and [[regional-banks/okinawa-kaiho-bank|Okinawa Kaiho Bank]] for the regional private-sector banking counterparts; and with [[financial-regulators/okinawa-shinko|Okinawa Shinko]] / [[banking/INDEX|Okinawa shinkin / credit cooperatives]] for cooperative-banking peers.
 
 ## TL;DR
 
-沖縄振興開発金融公庫 (Okinawa Development Finance Corporation — ODFC) is Japan's unique consolidated regional policy-finance institution. It was established 1972-05-15 — coincident with Okinawa's reversion to Japan — under the 沖縄振興開発金融公庫法 (Act No. 31 of 1972, predecessor of the current 沖縄振興開発金融公庫法 as amended). The institutional purpose is to provide centralized policy-based finance for Okinawa across **all** the functional lanes that mainland Japan distributes across separate national policy-finance institutions. Concretely, ODFC handles within a single entity what mainland Japan splits across [[JapanFG/jfc|JFC]] (国民生活 / 中小企業 / 農林水産), [[policy-finance/japan-housing-finance-agency|JHF]] (housing finance), and Welfare and Medical Service Agency (福祉医療機構 / WAM, welfare / medical facility finance), plus Okinawa-specific regional industries (tourism financing, specialty crops, agriculture-fisheries cooperative finance, business-succession / startup finance in regional context). The legal and policy basis for this consolidated form is the 沖縄振興特別措置法 (Okinawa Promotion Special Measures Act, currently in its fifth ten-year cycle 2022-2032), which gives Okinawa a special-treatment regime for regional development and finance. ODFC is supervised by the Cabinet Office (内閣府 沖縄担当部局) rather than by any single ministry — a unique supervisor structure reflecting the Okinawa-specific cross-ministerial policy framework. The institution complements rather than competes with [[JapanFG/okinawa-fg|Okinawa FG]] (parent of [[banking/bank-of-okinawa|Bank of Okinawa]]) and [[JapanFG/okinawa-kaiho-bank|Okinawa Kaiho Bank]], filling credit gaps the private banking system will not extend at required tenor / pricing in Okinawa's specific industrial structure (high tourism dependence, small-island geography, lower per-capita income than mainland average, US base-economy adjacency).
+沖縄振興開発金融公庫 (Okinawa Development Finance Corporation — ODFC) is Japan's unique consolidated regional policy-finance institution. It was established 1972-05-15 — coincident with Okinawa's reversion to Japan — under the 沖縄振興開発金融公庫法 (Act No. 31 of 1972, predecessor of the current 沖縄振興開発金融公庫法 as amended). The institutional purpose is to provide centralized policy-based finance for Okinawa across **all** the functional lanes that mainland Japan distributes across separate national policy-finance institutions. Concretely, ODFC handles within a single entity what mainland Japan splits across [[financial-regulators/jfc|JFC]] (国民生活 / 中小企業 / 農林水産), [[policy-finance/japan-housing-finance-agency|JHF]] (housing finance), and Welfare and Medical Service Agency (福祉医療機構 / WAM, welfare / medical facility finance), plus Okinawa-specific regional industries (tourism financing, specialty crops, agriculture-fisheries cooperative finance, business-succession / startup finance in regional context). The legal and policy basis for this consolidated form is the 沖縄振興特別措置法 (Okinawa Promotion Special Measures Act, currently in its fifth ten-year cycle 2022-2032), which gives Okinawa a special-treatment regime for regional development and finance. ODFC is supervised by the Cabinet Office (内閣府 沖縄担当部局) rather than by any single ministry — a unique supervisor structure reflecting the Okinawa-specific cross-ministerial policy framework. The institution complements rather than competes with [[regional-banks/okinawa-fg|Okinawa FG]] (parent of [[banking/bank-of-okinawa|Bank of Okinawa]]) and [[regional-banks/okinawa-kaiho-bank|Okinawa Kaiho Bank]], filling credit gaps the private banking system will not extend at required tenor / pricing in Okinawa's specific industrial structure (high tourism dependence, small-island geography, lower per-capita income than mainland average, US base-economy adjacency).
 
 ## 1. Institutional structure
 
@@ -138,7 +138,7 @@ ODFC does not currently have a dedicated operating-mechanics sibling page in Fin
 
 ### Comparison axes vs JFC (the closest peer)
 
-| Axis | ODFC | [[JapanFG/jfc\|JFC]] |
+| Axis | ODFC | [[financial-regulators/jfc\|JFC]] |
 |---|---|---|
 | Geographic perimeter | Okinawa only | Mainland Japan + Okinawa-equivalents on certain functions |
 | Legal form | 公庫 | 特殊会社 (株式会社) |
@@ -156,13 +156,13 @@ ODFC does not currently have a dedicated operating-mechanics sibling page in Fin
 - **Industrial-policy / credit-support blur.** Regional policy finance can blur credit support and industrial policy — the 沖縄振興特別措置法 framework explicitly directs ODFC toward Okinawa-specific industries (tourism, sugar cane, free-trade-zone, OIST-adjacent), which is industrial-policy direction layered on credit decisions. The 民間補完原則 (private-sector-complementary principle) still applies but with a thicker policy overlay than mainland JFC's nationwide product menu.
 - **Mainland-equivalence question.** The 2008 政策金融改革 explicitly preserved ODFC as separate from JFC; the recurring policy question is whether this separation should continue or whether ODFC should eventually be absorbed into a JFC Okinawa branch structure. The political answer (under the 沖縄振興特別措置法 framework) is that ODFC stays separate as long as Okinawa-specific policy treatment exists.
 - **Privatisation debate.** Unlike DBJ (privatisation on agenda, repeatedly delayed) or NEXI (already 株式会社化), ODFC's 公庫 form is structurally not on the privatisation agenda — the institution is policy-finance under the 沖縄振興特別措置法 framework, and conversion to commercial form would be inconsistent with the policy purpose.
-- **BIS Basel III interaction.** ODFC itself is not BIS-regulated (it is a public corporation, not a deposit-taking bank), but the private banks ([[banking/bank-of-okinawa|Bank of Okinawa]], [[JapanFG/okinawa-kaiho-bank|Okinawa Kaiho Bank]], [[banking/INDEX|Okinawa shinkin / cooperatives]]) that co-finance ODFC-supported projects **are** Basel-regulated. ODFC's policy-lending behavior interacts with private-bank balance sheets through co-financing structures.
+- **BIS Basel III interaction.** ODFC itself is not BIS-regulated (it is a public corporation, not a deposit-taking bank), but the private banks ([[banking/bank-of-okinawa|Bank of Okinawa]], [[regional-banks/okinawa-kaiho-bank|Okinawa Kaiho Bank]], [[banking/INDEX|Okinawa shinkin / cooperatives]]) that co-finance ODFC-supported projects **are** Basel-regulated. ODFC's policy-lending behavior interacts with private-bank balance sheets through co-financing structures.
 - **US base-economy adjacency.** Okinawa's industrial structure is shaped by the US military bases and the related landowner-rental income flows. ODFC product menus do not directly serve the base economy but indirectly recognize it through household / land-related finance. This is a politically sensitive structural feature unique to Okinawa.
 
 ## 7. Open questions
 
-- Which Okinawan sectors rely most on ODFC relative to [[banking/bank-of-okinawa|Bank of Okinawa]] and [[JapanFG/okinawa-kaiho-bank|Okinawa Kaiho Bank]] for credit at the margin.
-- How ODFC coordinates operationally with [[JapanFG/okinawa-fg|Okinawa FG]], Okinawa Kaiho Bank, and national policy-finance agencies (when a mainland-headquartered JFC product would not apply but a national policy framework does).
+- Which Okinawan sectors rely most on ODFC relative to [[banking/bank-of-okinawa|Bank of Okinawa]] and [[regional-banks/okinawa-kaiho-bank|Okinawa Kaiho Bank]] for credit at the margin.
+- How ODFC coordinates operationally with [[regional-banks/okinawa-fg|Okinawa FG]], Okinawa Kaiho Bank, and national policy-finance agencies (when a mainland-headquartered JFC product would not apply but a national policy framework does).
 - Whether tourism, OIST-adjacent startup finance, semiconductor onshoring (Rapidus / TSMC-adjacent supply-chain in Kyushu has prompted parallel discussion in Okinawa), and US base-economy-related issues change ODFC's risk mix.
 - Loan-loss provisioning trajectory across recent shocks (Covid tourism collapse, typhoon damage, post-2024 reconstruction needs).
 - Whether the fifth 沖縄振興特別措置法 cycle (2022-2032) produces any structural change in ODFC's mandate or institutional form.
@@ -170,7 +170,7 @@ ODFC does not currently have a dedicated operating-mechanics sibling page in Fin
 
 ## Related
 
-- [[JapanFG/jfc]]
+- [[financial-regulators/jfc]]
 - [[policy-finance/jfc-sme-division-operating-model]]
 - [[policy-finance/jfc-agriculture-forestry-fisheries-division]]
 - [[policy-finance/jfc-kokumin-life-finance-division]]
@@ -179,9 +179,9 @@ ODFC does not currently have a dedicated operating-mechanics sibling page in Fin
 - [[policy-finance/japan-credit-guarantee-system]]
 - [[policy-finance/japan-policy-finance-system]]
 - [[policy-finance/japan-policy-finance-institution-mandate-matrix]]
-- [[JapanFG/okinawa-shinko]]
-- [[JapanFG/okinawa-fg]]
-- [[JapanFG/okinawa-kaiho-bank]]
+- [[financial-regulators/okinawa-shinko]]
+- [[regional-banks/okinawa-fg]]
+- [[regional-banks/okinawa-kaiho-bank]]
 
 ## Sources
 

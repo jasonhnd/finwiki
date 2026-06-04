@@ -54,7 +54,7 @@ Mercari Bank 并非「Merpay 变成了银行」的项目。银行账户的主体
 
 ## BaaS design lesson
 
-Mercari Bank 这一项目表明，[[banking/baas-japan-landscape|BaaS 日本ランドスケープ]] 的本质并非「把牌照整体取得」，而是「在何处接入既有牌照与银行 API」。当 [[exchanges/jp-exchange-mercoin|メルコイン]] 等同集团的加密资产交换业者、证券 app、EC app 想要实现相同 UX 时，首先应切分的是以下 4  点（母公司的最新情况参见 [[JapanFG/mercari-hd|メルカリ HD]]）。
+Mercari Bank 这一项目表明，[[banking/baas-japan-landscape|BaaS 日本ランドスケープ]] 的本质并非「把牌照整体取得」，而是「在何处接入既有牌照与银行 API」。当 [[exchanges/jp-exchange-mercoin|メルコイン]] 等同集团的加密资产交换业者、证券 app、EC app 想要实现相同 UX 时，首先应切分的是以下 4  点（母公司的最新情况参见 [[payment-firms/mercari-hd|メルカリ HD]]）。
 
 1. 由谁提供存款账户。
 2. 由谁处理账户信息展示与资金移动指图。

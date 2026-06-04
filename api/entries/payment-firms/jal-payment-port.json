@@ -1,0 +1,86 @@
+{
+  "schema_version": "1.0",
+  "slug": "payment-firms/jal-payment-port",
+  "source_path": "payment-firms/jal-payment-port.md",
+  "url": "https://finwiki.zksc.io/payment-firms/jal-payment-port",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/payment-firms/jal-payment-port.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/payment-firms/jal-payment-port.md",
+  "domain": "payment-firms",
+  "title": "JALペイメント・ポート",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "JALペイメント・ポート",
+    "aliases": [
+      "JAL Payment Port",
+      "JALペイメント・ポート株式会社",
+      "JAL Pay",
+      "JAL Global WALLET"
+    ],
+    "domain": "payment-firms",
+    "created": "2026-05-21",
+    "last_updated": "2026-05-21",
+    "last_tended": "2026-05-21",
+    "review_by": "2026-11-21",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "payments",
+      "wallet",
+      "funds-transfer",
+      "prepaid",
+      "travel-finance"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.jal.co.jp/jp/ja/jmb/jalpay/pay/aboutus/index.html",
+      "https://www.jal.co.jp/jp/ja/jmb/jalpay/",
+      "https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it with funds-transfer registry for regulatory context, funds-transfer vs prepaid for wallet classification, and SBI / Sumishin SBI Net Bank for group-adjacent banking infrastructure.",
+  "headings": [
+    "JALペイメント・ポート",
+    "Wiki route",
+    "Overview",
+    "1. 法人・ライセンス境界",
+    "2. Business Role",
+    "3. Why This Standalone Page Matters",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 10,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "loyalty/japan-points-landscape",
+      "megabanks/sbi-hd",
+      "payment-firms/seven-payment-service",
+      "payments/INDEX",
+      "payments/funds-transfer-service-providers-japan-index",
+      "payments/funds-transfer-vs-prepaid-boundary",
+      "payments/japan-code-payment-competitive-map",
+      "payments/prepaid-payment-instrument-issuers-japan-index",
+      "regional-banks/ssnb"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/loyalty/japan-points-landscape",
+      "https://finwiki.zksc.io/megabanks/sbi-hd",
+      "https://finwiki.zksc.io/payment-firms/seven-payment-service",
+      "https://finwiki.zksc.io/payments/INDEX",
+      "https://finwiki.zksc.io/payments/funds-transfer-service-providers-japan-index",
+      "https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary",
+      "https://finwiki.zksc.io/payments/japan-code-payment-competitive-map",
+      "https://finwiki.zksc.io/payments/prepaid-payment-instrument-issuers-japan-index",
+      "https://finwiki.zksc.io/regional-banks/ssnb"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3120,
+    "word_like_tokens": 516,
+    "inbound_wikilinks_count": 9,
+    "last_modified": "2026-06-04"
+  }
+}

@@ -55,9 +55,9 @@ translated_at: 2026-06-01T03:31:12.309Z
 
 | Trustee（典型角色） | J-REIT 示例 |
 |---|---|
-| [[JapanFG/mitsubishi-ufj-trust-bank|Mitsubishi UFJ Trust Bank]] | 多个 J-REIT trustee 披露中出现 |
-| [[JapanFG/sumitomo-mitsui-trust|Sumitomo Mitsui Trust Bank]] | 多个 |
-| [[JapanFG/mizuho-trust-bank|Mizuho Trust Bank]] | 多个 |
+| [[trust-banks/mitsubishi-ufj-trust-bank|Mitsubishi UFJ Trust Bank]] | 多个 J-REIT trustee 披露中出现 |
+| [[trust-banks/sumitomo-mitsui-trust|Sumitomo Mitsui Trust Bank]] | 多个 |
+| [[trust-banks/mizuho-trust-bank|Mizuho Trust Bank]] | 多个 |
 
 Trustee 角色是托管 / 资产管理职能，独立于 sponsor 身份。同一家信托银行可以服务多个不同 sponsor 集团。这与 [[banking/trust-bank-custody-operating-comparison|信托银行托管运营比较]] 中覆盖的托管运营模式一致。
 

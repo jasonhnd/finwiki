@@ -16,7 +16,7 @@ translated_at: 2026-06-01T03:31:12.298Z
 
 ## 维基路线
 
-此条目位于 [[real-estate-finance/INDEX]] 下，是 [[real-estate-finance/j-reit-market-overview|J-REIT market overview]]、[[real-estate-finance/j-reit-foreign-investor-ownership|J-REIT foreign-investor ownership]]、[[real-estate-finance/real-estate-private-credit-japan|real-estate private credit]]、[[real-estate-finance/bank-commercial-real-estate-lending-japan|bank CRE lending]]、[[real-estate-finance/real-estate-cap-rate-compression-2026|cap-rate compression]]、[[real-estate-finance/japan-real-estate-appraisal-methodology|appraisal methodology]] 和 [[real-estate-finance/j-reit-dividend-yield-vs-jgb-spread|J-REIT-vs-JGB spread analysis]] 的跨境税务途径页面。信托银行和主信托方结构位于 [[JapanFG/mitsubishi-ufj-trust-bank]] 和 [[JapanFG/sumitomo-mitsui-trust]]。跨境结构的 Megabank 安排人为 [[JapanFG/mufg-bank]]、[[JapanFG/sumitomo-mitsui-banking-corp]] 和 [[JapanFG/mizuho-bank]]。政策金融编号为[[JapanFG/dbj]]。私募融资/私募股权上下文路由至 [[finance/INDEX]]、[[finance/japan-private-equity-operating-model]] 和 [[finance/japan-private-equity-fund-structure-matrix]]。银行和货币市场环境位于 [[banking/INDEX]]、[[banking/regional-bank-consolidation-pattern]] 和 [[money-market/japan-money-market]]。保险侧交叉链接路由至[[insurance/japan-life-insurance-alm-overview]]，用于寿险公司房产分配税读取。
+此条目位于 [[real-estate-finance/INDEX]] 下，是 [[real-estate-finance/j-reit-market-overview|J-REIT market overview]]、[[real-estate-finance/j-reit-foreign-investor-ownership|J-REIT foreign-investor ownership]]、[[real-estate-finance/real-estate-private-credit-japan|real-estate private credit]]、[[real-estate-finance/bank-commercial-real-estate-lending-japan|bank CRE lending]]、[[real-estate-finance/real-estate-cap-rate-compression-2026|cap-rate compression]]、[[real-estate-finance/japan-real-estate-appraisal-methodology|appraisal methodology]] 和 [[real-estate-finance/j-reit-dividend-yield-vs-jgb-spread|J-REIT-vs-JGB spread analysis]] 的跨境税务途径页面。信托银行和主信托方结构位于 [[trust-banks/mitsubishi-ufj-trust-bank]] 和 [[trust-banks/sumitomo-mitsui-trust]]。跨境结构的 Megabank 安排人为 [[megabanks/mufg-bank]]、[[megabanks/sumitomo-mitsui-banking-corp]] 和 [[megabanks/mizuho-bank]]。政策金融编号为[[financial-regulators/dbj]]。私募融资/私募股权上下文路由至 [[finance/INDEX]]、[[finance/japan-private-equity-operating-model]] 和 [[finance/japan-private-equity-fund-structure-matrix]]。银行和货币市场环境位于 [[banking/INDEX]]、[[banking/regional-bank-consolidation-pattern]] 和 [[money-market/japan-money-market]]。保险侧交叉链接路由至[[insurance/japan-life-insurance-alm-overview]]，用于寿险公司房产分配税读取。
 
 ## 税面图
 
@@ -55,7 +55,7 @@ PE / FPI（外国投资组合投资者）的区别是最常见的分析门控步
 | 日本的附属代理人 | Agency-PE在代理人习惯性行使权力时触发。 |
 | 资产管理或财产管理活动 | 根据某些解释，在日本开展的资产管理活动可能会面临 PE 风险；结构使用信托银行/合格资产管理人安排来缓解。 |
 
-PE 风险是外国普通合伙人在日本房地产投资的核心结构问题之一。信托银行/合格资产管理人安排是标准缓解模式的一部分，这就是为什么信托银行的参与（根据 [[JapanFG/mitsubishi-ufj-trust-bank]] 和 [[JapanFG/sumitomo-mitsui-trust]]）在结构上很重要。
+PE 风险是外国普通合伙人在日本房地产投资的核心结构问题之一。信托银行/合格资产管理人安排是标准缓解模式的一部分，这就是为什么信托银行的参与（根据 [[trust-banks/mitsubishi-ufj-trust-bank]] 和 [[trust-banks/sumitomo-mitsui-trust]]）在结构上很重要。
 
 ## 租金收入预扣税
 
@@ -184,12 +184,12 @@ J-REIT（J-REIT / 投资法人）结构通过 90% 分配规则提供实体层面
 - [[finance/INDEX]]
 - [[finance/japan-private-equity-fund-structure-matrix]]
 - [[finance/japan-private-equity-operating-model]]
-- [[JapanFG/mufg-bank]]
-- [[JapanFG/sumitomo-mitsui-banking-corp]]
-- [[JapanFG/mizuho-bank]]
-- [[JapanFG/sumitomo-mitsui-trust]]
-- [[JapanFG/mitsubishi-ufj-trust-bank]]
-- [[JapanFG/dbj]]
+- [[megabanks/mufg-bank]]
+- [[megabanks/sumitomo-mitsui-banking-corp]]
+- [[megabanks/mizuho-bank]]
+- [[trust-banks/sumitomo-mitsui-trust]]
+- [[trust-banks/mitsubishi-ufj-trust-bank]]
+- [[financial-regulators/dbj]]
 - [[INDEX|FinWiki index]]
 
 ## 来源

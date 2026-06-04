@@ -34,11 +34,11 @@ Use this domain when a product's real moat is **repeat purchase, app opening fre
 | National point ecosystems | [[loyalty/japan-points-landscape|Japan points and loyalty landscape]] | [[payments/INDEX|payments INDEX]] |
 | Common-point operator deep-dives | [[loyalty/rakuten-point-ecosystem-deep|楽天ポイント ecosystem]], [[loyalty/d-point-detailed-ecosystem|dポイント ecosystem]], [[loyalty/ponta-points-deep-dive|Ponta deep dive]], [[loyalty/au-pay-loyalty-ecosystem-deep|au PAY ecosystem]], [[loyalty/sb-yahoo-paypay-points-unified-ecosystem|PayPay points ecosystem]], [[loyalty/t-point-v-point-post-2024-merger|T-Point → V-Point merger]] | [[JapanFG/INDEX|JapanFG INDEX]] |
 | Cross-system comparison | [[loyalty/point-economy-funding-source-comparison|Funding-source comparison (V / Rakuten / d / PayPay / Ponta)]] | [[JapanFG/INDEX|JapanFG INDEX]] |
-| FFP / airline mileage | [[loyalty/jal-mileage-bank-vs-ana-mileage-club-comparison|JMB vs AMC]] | [[JapanFG/jal-card|JAL Card]] |
-| Transit-anchored loyalty | [[loyalty/jre-point-and-jre-bank-ecosystem|JRE Point + JRE Bank]] | [[JapanFG/jr-east-financial|JR-East Financial]] |
+| FFP / airline mileage | [[loyalty/jal-mileage-bank-vs-ana-mileage-club-comparison|JMB vs AMC]] | [[card-issuers/jal-card|JAL Card]] |
+| Transit-anchored loyalty | [[loyalty/jre-point-and-jre-bank-ecosystem|JRE Point + JRE Bank]] | [[card-issuers/jr-east-financial|JR-East Financial]] |
 | Retail points | [[retail/aeon-group|AEON Group]], [[retail/seven-and-i-hd|Seven & i]] | [[retail/INDEX|retail INDEX]] |
-| Finance distribution | [[JapanFG/rakuten-fg|Rakuten FG]], [[JapanFG/paypay-fg|PayPay FG]], [[JapanFG/ndfg|NDFG]] | [[JapanFG/INDEX|JapanFG INDEX]] |
-| Legal boundary | Points vs prepaid vs funds-transfer value | [[JapanFG/legal-financial-licenses/INDEX|legal / financial licenses]] |
+| Finance distribution | [[payment-firms/rakuten-fg|Rakuten FG]], [[megabanks/paypay-fg|PayPay FG]], [[megabanks/ndfg|NDFG]] | [[JapanFG/INDEX|JapanFG INDEX]] |
+| Legal boundary | Points vs prepaid vs funds-transfer value | [[financial-licenses/INDEX|legal / financial licenses]] |
 | Program economics | [[loyalty/point-program-unit-economics|Point program unit economics]], [[loyalty/point-liability-accounting-boundary|Point liability accounting boundary]], [[loyalty/loyalty-liability-customer-funded-float|Loyalty liability as customer-funded float]] | [[fintech/INDEX|fintech INDEX]] |
 | Data / ID-graph loop | [[loyalty/retail-media-points-data-loop|Retail-media points data loop]] | [[retail/INDEX|retail INDEX]] |
 | Cross-program exchange | [[loyalty/point-exchange-network-risk|Point exchange network risk]] | [[payments/INDEX|payments INDEX]] |
@@ -84,4 +84,4 @@ Use this domain when a product's real moat is **repeat purchase, app opening fre
 - [[INDEX|FinWiki index]]
 - [[payments/INDEX|payments INDEX]]
 - [[retail/INDEX|retail INDEX]]
-- [[JapanFG/legal-financial-licenses/INDEX|JapanFG legal / financial licenses]]
+- [[financial-licenses/INDEX|JapanFG legal / financial licenses]]

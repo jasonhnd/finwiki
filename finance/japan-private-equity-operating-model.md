@@ -39,7 +39,7 @@ This page sits under [[finance/INDEX|finance domain]]. Read it with [[finance/ja
 
 ## TL;DR
 
-Japan PE operates through a recognisable mix of global megafund Japan teams ([[JapanFG/goldman-sachs-japan|Goldman Sachs Japan]] adjacent KKR Japan, Bain Capital Japan, Carlyle Japan, CVC Japan, MBK Partners) and domestic GPs (Advantage Partners, J-STAR, Polaris Capital, Integral, JIC Capital). The operating model is GP-LP partnership, fee-and-carry economics, multi-vintage funds, board control through SPC, value-creation plan, and exit through IPO, secondary sale, or strategic sale. Post-2020, continuation funds and GP-led secondaries have become a third exit channel. Use [[finance/japan-acquisition-finance|acquisition finance]] for the debt stack and [[finance/japan-tender-offer-process|tender offer process]] for the public-take-private route.
+Japan PE operates through a recognisable mix of global megafund Japan teams ([[securities-firms/goldman-sachs-japan|Goldman Sachs Japan]] adjacent KKR Japan, Bain Capital Japan, Carlyle Japan, CVC Japan, MBK Partners) and domestic GPs (Advantage Partners, J-STAR, Polaris Capital, Integral, JIC Capital). The operating model is GP-LP partnership, fee-and-carry economics, multi-vintage funds, board control through SPC, value-creation plan, and exit through IPO, secondary sale, or strategic sale. Post-2020, continuation funds and GP-led secondaries have become a third exit channel. Use [[finance/japan-acquisition-finance|acquisition finance]] for the debt stack and [[finance/japan-tender-offer-process|tender offer process]] for the public-take-private route.
 
 ## GP landscape
 
@@ -55,7 +55,7 @@ Japan PE GP landscape is layered. Public sources include GP websites, press rele
 | CVC Japan | Tokyo office; pan-Asia fund | Mid to upper-mid |
 | MBK Partners | North Asia focus, including Japan carve-outs | Large-cap |
 
-Global megafunds often lead the bid in carve-out, [[finance/japan-mbo-and-squeeze-out-process|MBO]] and take-private processes alongside megabank lenders. Adviser credit accrues to [[JapanFG/nomura-hd|Nomura]], [[JapanFG/daiwa-sg|Daiwa]], [[JapanFG/smbc-nikko|SMBC Nikko]], [[JapanFG/mizuho-securities]], [[JapanFG/morgan-stanley-japan|Morgan Stanley Japan]], and [[JapanFG/goldman-sachs-japan|Goldman Sachs Japan]] in [[finance/japan-ib-league-table|league tables]].
+Global megafunds often lead the bid in carve-out, [[finance/japan-mbo-and-squeeze-out-process|MBO]] and take-private processes alongside megabank lenders. Adviser credit accrues to [[securities-firms/nomura-hd|Nomura]], [[securities-firms/daiwa-sg|Daiwa]], [[securities-firms/smbc-nikko|SMBC Nikko]], [[securities-firms/mizuho-securities]], [[securities-firms/morgan-stanley-japan|Morgan Stanley Japan]], and [[securities-firms/goldman-sachs-japan|Goldman Sachs Japan]] in [[finance/japan-ib-league-table|league tables]].
 
 ### Domestic Japan GPs
 
@@ -155,7 +155,7 @@ Listed-IPO exits route through the [[securities/japan-ipo-listing-disclosure-rou
 
 ### Strategic sale
 
-Sale to corporate buyer, including [[JapanFG/mitsubishi-corp|Mitsubishi Corp]], [[JapanFG/mitsui-co|Mitsui & Co]], [[JapanFG/itochu-corp|Itochu Corp]], cross-border buyer, or sector-strategic. Often via competitive auction process led by adviser.
+Sale to corporate buyer, including [[financial-conglomerates/mitsubishi-corp|Mitsubishi Corp]], [[financial-conglomerates/mitsui-co|Mitsui & Co]], [[financial-conglomerates/itochu-corp|Itochu Corp]], cross-border buyer, or sector-strategic. Often via competitive auction process led by adviser.
 
 ### Secondary sale to another PE
 
@@ -185,17 +185,17 @@ PE acquisition debt for Japan deals is typically arranged by megabank LBO desks.
 
 | Lender | Role |
 |---|---|
-| [[JapanFG/mufg|MUFG]] | MUFG Bank acquisition finance / LBO loan, frequent lead arranger |
-| [[JapanFG/smfg|SMFG]] | SMBC LBO desk, frequent participant |
-| [[JapanFG/mizuho-fg|Mizuho FG]] | Mizuho Bank LBO desk |
-| [[JapanFG/dbj|DBJ]] | Development Bank of Japan as strategic / mezzanine participant |
+| [[megabanks/mufg|MUFG]] | MUFG Bank acquisition finance / LBO loan, frequent lead arranger |
+| [[megabanks/smfg|SMFG]] | SMBC LBO desk, frequent participant |
+| [[megabanks/mizuho-fg|Mizuho FG]] | Mizuho Bank LBO desk |
+| [[financial-regulators/dbj|DBJ]] | Development Bank of Japan as strategic / mezzanine participant |
 | Mezzanine providers | Specialty funds, regional bank consortia, insurance-company private debt |
 
 Lender role attribution can be verified against [[finance/japan-ib-league-table|league tables]] (loan / LBO categories where published).
 
 ## JIC Capital specific case
 
-[[JapanFG/dbj|DBJ]] is policy-related but distinct from JIC Capital (Japan Investment Corporation Capital), which sits under METI's strategic investment umbrella. JIC Capital invests in strategic sectors and reorganisations where private capital alone is insufficient. Public disclosure is limited to JIC umbrella press releases.
+[[financial-regulators/dbj|DBJ]] is policy-related but distinct from JIC Capital (Japan Investment Corporation Capital), which sits under METI's strategic investment umbrella. JIC Capital invests in strategic sectors and reorganisations where private capital alone is insufficient. Public disclosure is limited to JIC umbrella press releases.
 
 ## Regulatory and disclosure surfaces
 
@@ -240,19 +240,19 @@ LP base composition affects fund governance, side-letter terms, ESG reporting, a
 - [[securities/japan-underwriting-market-structure]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[corporate-strategy/partial-spinoff-tax-deferral]]
-- [[JapanFG/mufg]]
-- [[JapanFG/smfg]]
-- [[JapanFG/mizuho-fg]]
-- [[JapanFG/dbj]]
-- [[JapanFG/nomura-hd]]
-- [[JapanFG/daiwa-sg]]
-- [[JapanFG/smbc-nikko]]
-- [[JapanFG/mizuho-securities]]
-- [[JapanFG/goldman-sachs-japan]]
-- [[JapanFG/morgan-stanley-japan]]
-- [[JapanFG/mitsubishi-corp]]
-- [[JapanFG/mitsui-co]]
-- [[JapanFG/itochu-corp]]
+- [[megabanks/mufg]]
+- [[megabanks/smfg]]
+- [[megabanks/mizuho-fg]]
+- [[financial-regulators/dbj]]
+- [[securities-firms/nomura-hd]]
+- [[securities-firms/daiwa-sg]]
+- [[securities-firms/smbc-nikko]]
+- [[securities-firms/mizuho-securities]]
+- [[securities-firms/goldman-sachs-japan]]
+- [[securities-firms/morgan-stanley-japan]]
+- [[financial-conglomerates/mitsubishi-corp]]
+- [[financial-conglomerates/mitsui-co]]
+- [[financial-conglomerates/itochu-corp]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

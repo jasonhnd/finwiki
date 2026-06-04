@@ -15,7 +15,7 @@ translated_at: 2026-06-01T03:31:12.260Z
 
 ## Wiki 路径
 
-它位于 [[payments/INDEX|payments index]] 下，作为跨类别预付费电子货币参考。使用 [[payments/prepaid-payment-instrument-issuers-japan-index|prepaid payment instrument issuers JP index]] 读取每个发行人的注册源，[[payments/funds-transfer-vs-prepaid-boundary|funds-transfer vs prepaid boundary]] 表示确定每个运营商持有哪个许可证的监管边界，[[payments/japan-transit-prepaid-suica-pasmo-icoca-economics|JP transit prepaid Suica/PASMO/ICOCA economics]] 表示运输端深入研究，[[payments/waon-nanaco-retail-prepaid-comparison|WAON vs nanaco retail prepaid comparison]] 表示零售端深入研究，[[payments/famipay-valucreate-strategy|FamiPay ValuCreate strategy]] 表示便利店-FG 预付费通道，[[payments/japan-payment-scheme-economics-matrix|JP payment scheme economics matrix]] 表示跨方案经济，[[payments/japan-code-payment-competitive-map|JP code-payment competitive map]] 表示 QR/代码支付覆盖，其中这些预付费品牌有时会占据上风。群组实体锚点为 [[JapanFG/rakuten-edy|Rakuten Edy]]、[[JapanFG/seven-card-service|Seven Card Service]]（nanaco 运算符）和 [[JapanFG/aeon-financial-service|AEON Financial Service]]（WAON 运算符），在 [[loyalty/japan-points-landscape|JP points landscape]]、[[retail/seven-and-i-hd|Seven & i HD]] 和 [[retail/aeon-group|AEON Group]] 处具有更广泛的群组表面。
+它位于 [[payments/INDEX|payments index]] 下，作为跨类别预付费电子货币参考。使用 [[payments/prepaid-payment-instrument-issuers-japan-index|prepaid payment instrument issuers JP index]] 读取每个发行人的注册源，[[payments/funds-transfer-vs-prepaid-boundary|funds-transfer vs prepaid boundary]] 表示确定每个运营商持有哪个许可证的监管边界，[[payments/japan-transit-prepaid-suica-pasmo-icoca-economics|JP transit prepaid Suica/PASMO/ICOCA economics]] 表示运输端深入研究，[[payments/waon-nanaco-retail-prepaid-comparison|WAON vs nanaco retail prepaid comparison]] 表示零售端深入研究，[[payments/famipay-valucreate-strategy|FamiPay ValuCreate strategy]] 表示便利店-FG 预付费通道，[[payments/japan-payment-scheme-economics-matrix|JP payment scheme economics matrix]] 表示跨方案经济，[[payments/japan-code-payment-competitive-map|JP code-payment competitive map]] 表示 QR/代码支付覆盖，其中这些预付费品牌有时会占据上风。群组实体锚点为 [[payment-firms/rakuten-edy|Rakuten Edy]]、[[card-issuers/seven-card-service|Seven Card Service]]（nanaco 运算符）和 [[card-issuers/aeon-financial-service|AEON Financial Service]]（WAON 运算符），在 [[loyalty/japan-points-landscape|JP points landscape]]、[[retail/seven-and-i-hd|Seven & i HD]] 和 [[retail/aeon-group|AEON Group]] 处具有更广泛的群组表面。
 
 ## 为什么这个矩阵很重要
 
@@ -26,14 +26,14 @@ translated_at: 2026-06-01T03:31:12.260Z
 ## 每个发行人的资料
 ### Edy — 乐天 Edy（乐天集团 4755）
 
-**运营商**：[[JapanFG/rakuten-edy|Rakuten Edy Co., Ltd.]]（乐天集团子公司，TSE Prime 4755）。 **许可证**：支付服务法第三者型前払式支払手段発行者（第三方类型预付费发行人）。 **技术**：FeliCa（Edy IC 芯片；还有用于 Apple Pay / Google Pay / Osaifu-Keitai 的移动 FeliCa）。 **发布**：bitWallet 推出的 2001 （被 Rakuten 2010,  更名为 Rakuten Edy 2012 收购）。 **分发**：实体 Edy 卡、Mobile FeliCa、Apple Pay Edy、Google Pay Edy。 **商户网络**：~1.1M 积分（预付费品牌中最广泛的之一）。 **移动集成**：非常深入 - 自推出以来，Apple Pay 添加了 Edy 2016-10, Google Pay 2018-05, native Osaifu-Keitai。 **退款政策**：余额退款可在 Rakuten Edy 办公室（文书工作繁重）进行。 **集团银行后盾**：乐天银行（TSE Prime 5838）是集团网上银行； Edy float 由 Rakuten FG 资产负债表提供支持。 **集团交叉链接**：乐天积分集成 — 通过 Edy 赚取/花费乐天积分。跨方案比较请参见 [[payments/japan-payment-scheme-economics-matrix|JP payment scheme economics matrix]]。
+**运营商**：[[payment-firms/rakuten-edy|Rakuten Edy Co., Ltd.]]（乐天集团子公司，TSE Prime 4755）。 **许可证**：支付服务法第三者型前払式支払手段発行者（第三方类型预付费发行人）。 **技术**：FeliCa（Edy IC 芯片；还有用于 Apple Pay / Google Pay / Osaifu-Keitai 的移动 FeliCa）。 **发布**：bitWallet 推出的 2001 （被 Rakuten 2010,  更名为 Rakuten Edy 2012 收购）。 **分发**：实体 Edy 卡、Mobile FeliCa、Apple Pay Edy、Google Pay Edy。 **商户网络**：~1.1M 积分（预付费品牌中最广泛的之一）。 **移动集成**：非常深入 - 自推出以来，Apple Pay 添加了 Edy 2016-10, Google Pay 2018-05, native Osaifu-Keitai。 **退款政策**：余额退款可在 Rakuten Edy 办公室（文书工作繁重）进行。 **集团银行后盾**：乐天银行（TSE Prime 5838）是集团网上银行； Edy float 由 Rakuten FG 资产负债表提供支持。 **集团交叉链接**：乐天积分集成 — 通过 Edy 赚取/花费乐天积分。跨方案比较请参见 [[payments/japan-payment-scheme-economics-matrix|JP payment scheme economics matrix]]。
 
 ### nanaco — 七卡服务（七 & i HD 3382）
 
-**运营商**：[[JapanFG/seven-card-service|Seven Card Service Co., Ltd.]]（[[retail/seven-and-i-hd|Seven & i HD]]、TSE Prime 3382 内的子公司）。 **许可证**：支付服务法第三者型前払式支払手段発行者。 **技术**：FeliCa（nanaco 卡 + 移动 FeliCa）。 **首发**：2007-04 （首日，全国7-11有售）。 **分发**：实体nanaco卡、nanaco手机（Android Osaifu-Keitai）、Apple Pay nanaco。 **商户网络**：~0.7M 积分，重点关注七家和 i 集团商店（7-11、Ito-Yokado、SOGO/Seibu Legacy、Denny's）。 **移动集成**：Apple Pay 添加了 nanaco 2019-10。 **退款政策**：可在七家银行柜台办理余额退款（七家银行 ATM 机是现金进出通道）。 **集团银行后盾**：[[JapanFG/seven-bank|Seven Bank]]（TSE Prime 8410）是集团银行； nanaco 的现金进/出通道使用七家银行 ATM 作为主要渠道——这在结构上在预付费品牌中是独特的（大多数使用第三方便利店或合作银行 ATM）。 **集团交叉链接**：nanaco 积分（7 和 i 集团购买时的 1.0%，0.5% 标准）以及与 [[payments/funds-transfer-service-providers-japan-index|funds-transfer]] 和七卡服务内的信用卡流量合并。有关详细信息，请参阅 [[payments/waon-nanaco-retail-prepaid-comparison|WAON vs nanaco retail prepaid comparison]]。
+**运营商**：[[card-issuers/seven-card-service|Seven Card Service Co., Ltd.]]（[[retail/seven-and-i-hd|Seven & i HD]]、TSE Prime 3382 内的子公司）。 **许可证**：支付服务法第三者型前払式支払手段発行者。 **技术**：FeliCa（nanaco 卡 + 移动 FeliCa）。 **首发**：2007-04 （首日，全国7-11有售）。 **分发**：实体nanaco卡、nanaco手机（Android Osaifu-Keitai）、Apple Pay nanaco。 **商户网络**：~0.7M 积分，重点关注七家和 i 集团商店（7-11、Ito-Yokado、SOGO/Seibu Legacy、Denny's）。 **移动集成**：Apple Pay 添加了 nanaco 2019-10。 **退款政策**：可在七家银行柜台办理余额退款（七家银行 ATM 机是现金进出通道）。 **集团银行后盾**：[[regional-banks/seven-bank|Seven Bank]]（TSE Prime 8410）是集团银行； nanaco 的现金进/出通道使用七家银行 ATM 作为主要渠道——这在结构上在预付费品牌中是独特的（大多数使用第三方便利店或合作银行 ATM）。 **集团交叉链接**：nanaco 积分（7 和 i 集团购买时的 1.0%，0.5% 标准）以及与 [[payments/funds-transfer-service-providers-japan-index|funds-transfer]] 和七卡服务内的信用卡流量合并。有关详细信息，请参阅 [[payments/waon-nanaco-retail-prepaid-comparison|WAON vs nanaco retail prepaid comparison]]。
 
 ### WAON — 永旺集团（永旺 8267 / 永旺金融服务 8570）
-**运营商**：[[JapanFG/aeon-financial-service|AEON Financial Service Co., Ltd.]]（[[retail/aeon-group|AEON Group]] 内的子公司，母公司 AEON Co. TSE Prime 8267；AEON Financial Services 单独上市 TSE Prime 8570）。 **许可证**：《支付服务法》第三方型预付支付工具发行人。 **技术**：FeliCa（WAON卡+移动FeliCa）。 **发布**：2007-04 （基本上与 nanaco 同一发布月份，故意的零售预付费竞争）。 **分发**：实体WAON卡、移动WAON（Android Osaifu-Keitai）、Apple Pay WAON。 **商户网络**：~1.0M 积分，重点关注 AEON 集团商店（AEON Mall、MaxValu、MiniStop、AEON Pharmacy、daiei）。 **移动集成**：Apple Pay 添加了 WAON 2021-05 （明显晚于 Nanaco）。 **退款政策**：余额可在 AEON 服务柜台退款。 **集团银行支持**：[[JapanFG/aeon-bank|AEON Bank]]（集团互联网银行）和AEON金融服务资产负债表共同支持WAON浮动。 **集团交叉链接**：WAON积分+AEON卡自动充值一体化； AEON 购物者的主要用户体验是与 AEON 卡相连的**WAON 接口**自动充值。参考[[payments/waon-nanaco-retail-prepaid-comparison|WAON vs nanaco retail prepaid comparison]]。
+**运营商**：[[card-issuers/aeon-financial-service|AEON Financial Service Co., Ltd.]]（[[retail/aeon-group|AEON Group]] 内的子公司，母公司 AEON Co. TSE Prime 8267；AEON Financial Services 单独上市 TSE Prime 8570）。 **许可证**：《支付服务法》第三方型预付支付工具发行人。 **技术**：FeliCa（WAON卡+移动FeliCa）。 **发布**：2007-04 （基本上与 nanaco 同一发布月份，故意的零售预付费竞争）。 **分发**：实体WAON卡、移动WAON（Android Osaifu-Keitai）、Apple Pay WAON。 **商户网络**：~1.0M 积分，重点关注 AEON 集团商店（AEON Mall、MaxValu、MiniStop、AEON Pharmacy、daiei）。 **移动集成**：Apple Pay 添加了 WAON 2021-05 （明显晚于 Nanaco）。 **退款政策**：余额可在 AEON 服务柜台退款。 **集团银行支持**：[[card-issuers/aeon-bank|AEON Bank]]（集团互联网银行）和AEON金融服务资产负债表共同支持WAON浮动。 **集团交叉链接**：WAON积分+AEON卡自动充值一体化； AEON 购物者的主要用户体验是与 AEON 卡相连的**WAON 接口**自动充值。参考[[payments/waon-nanaco-retail-prepaid-comparison|WAON vs nanaco retail prepaid comparison]]。
 
 ### Suica — JR 东日本（东日本铁路 9020）
 
@@ -69,9 +69,9 @@ translated_at: 2026-06-01T03:31:12.260Z
 
 |品牌 |操作员|家长群|许可证（支付服务法）|技术 |发布 |商户网络（大约）| Apple Pay 支持自 |退款政策 |集团银行后盾|集团交叉链接|堆栈层|
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| **Edy** | [[JapanFG/rakuten-edy\|Rakuten Edy]] |乐天集团（4755）|第三方型预付| FeliCa（移动 FeliCa）| 2001 | 〜1.1M | 2016-10 |办公室（文书工作）|乐天银行 (5838) |乐天积分 |零售/电子商务|
-| **nanaco** | [[JapanFG/seven-card-service\|Seven Card Service]] | [[retail/seven-and-i-hd\|Seven & i HD]] (3382) |第三方型预付 | FeliCa（移动 FeliCa）| 2007-04 | 〜0.7M | 2019-10 |七银行柜台| [[JapanFG/seven-bank\|Seven Bank]] (8410) | nanaco 积分 + 7&i 集团 |零售（以 CVS 为中心）|
-| **WAON** | [[JapanFG/aeon-financial-service\|AEON Financial Service]] (8570) | [[retail/aeon-group\|AEON Group]] (8267) |第三方型预付| FeliCa（移动 FeliCa）| 2007-04 | 〜1.0M | 2021-05 |永旺服务柜台 | [[JapanFG/aeon-bank\|AEON Bank]] | WAON 积分 + AEON 自动充值卡 |零售（以商场为中心）|
+| **Edy** | [[payment-firms/rakuten-edy\|Rakuten Edy]] |乐天集团（4755）|第三方型预付| FeliCa（移动 FeliCa）| 2001 | 〜1.1M | 2016-10 |办公室（文书工作）|乐天银行 (5838) |乐天积分 |零售/电子商务|
+| **nanaco** | [[card-issuers/seven-card-service\|Seven Card Service]] | [[retail/seven-and-i-hd\|Seven & i HD]] (3382) |第三方型预付 | FeliCa（移动 FeliCa）| 2007-04 | 〜0.7M | 2019-10 |七银行柜台| [[regional-banks/seven-bank\|Seven Bank]] (8410) | nanaco 积分 + 7&i 集团 |零售（以 CVS 为中心）|
+| **WAON** | [[card-issuers/aeon-financial-service\|AEON Financial Service]] (8570) | [[retail/aeon-group\|AEON Group]] (8267) |第三方型预付| FeliCa（移动 FeliCa）| 2007-04 | 〜1.0M | 2021-05 |永旺服务柜台 | [[card-issuers/aeon-bank\|AEON Bank]] | WAON 积分 + AEON 自动充值卡 |零售（以商场为中心）|
 | **Suica** | JR东日本（直营）| JR东日本 (9020) |第三方型预付| FeliCa（移动 FeliCa）| 2001-11 | 〜1.6M | 2016-10 |背景（完善）| JR东日本资产负债表（无集团银行）| JRE POINT + ekinet + Atre |交通（东京-东日本）|
 | **PASMO** | PASMO Co.（25+铁路合资公司）|都市私营铁路|第三方型预付 | FeliCa（移动 FeliCa）| 2007-03 | ~1.6M（利用）| 2020-10 |各发行人铁路办公室 |会员铁路资产负债表|每条铁路的忠诚度（TOKYU POINT等）|交通（东京地铁私铁） |
 | **ICOCA** | JR 西日本（直营）| JR 西日本 (9021) |第三方型预付 | FeliCa（移动 FeliCa）| 2003-11 | ~1.6M（利用）| 2023-06 | JR西日本售票处 | JR 西日本资产负债表 | ICOCA POINT + J-WEST 卡（SMBC 合作伙伴）|交通（关西） |
@@ -240,12 +240,12 @@ Apple Pay 支持时间差异是 JP 预付费分析中最常被提及的竞争标
 - [[payments/cashless-jp-landscape]]
 - [[payments/japan-card-issuer-acquirer-processor-split]]
 - [[payments/japan-interchange-and-merchant-fee-stack]]
-- [[JapanFG/rakuten-edy]]
-- [[JapanFG/seven-card-service]]
-- [[JapanFG/aeon-financial-service]]
-- [[JapanFG/seven-bank]]
-- [[JapanFG/aeon-bank]]
-- [[JapanFG/legal-financial-licenses/payment-license-stack]]
+- [[payment-firms/rakuten-edy]]
+- [[card-issuers/seven-card-service]]
+- [[card-issuers/aeon-financial-service]]
+- [[regional-banks/seven-bank]]
+- [[card-issuers/aeon-bank]]
+- [[financial-licenses/payment-license-stack]]
 - [[loyalty/japan-points-landscape]]
 - [[retail/seven-and-i-hd]]
 - [[retail/aeon-group]]

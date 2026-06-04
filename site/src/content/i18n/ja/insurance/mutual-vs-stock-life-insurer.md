@@ -17,7 +17,7 @@ translated_at: 2026-06-02T14:01:20.898Z
 
 日本の生命保険会社は、相互会社または株式会社として構成されうる。相互会社型生命保険会社は契約者会員と長期的な剰余分配を中心に設計される。株式会社型生命保険会社は株主を持ち、上場・非上場の株式ガバナンスと、株式市場からの資本調達のしやすさを持つ。法的形態は、ガバナンス、M&A 能力、開示インセンティブ、契約者還元と株主還元の緊張関係を左右する。
 
-JapanFG の主要例：[[JapanFG/nippon-life]]、[[JapanFG/meiji-yasuda]]、[[JapanFG/sumitomo-life]] は相互会社の参照例であり、[[JapanFG/dai-ichi-life]]、[[JapanFG/kampo-life]]、[[JapanFG/lifenet]]、[[JapanFG/orix-life]] は株式会社型の参照例である。
+JapanFG の主要例：[[life-insurers/nippon-life]]、[[life-insurers/meiji-yasuda]]、[[life-insurers/sumitomo-life]] は相互会社の参照例であり、[[life-insurers/dai-ichi-life]]、[[life-insurers/kampo-life]]、[[life-insurers/lifenet]]、[[life-insurers/orix-life]] は株式会社型の参照例である。
 
 ## 比較
 
@@ -32,11 +32,11 @@ JapanFG の主要例：[[JapanFG/nippon-life]]、[[JapanFG/meiji-yasuda]]、[[Ja
 
 ## JapanFG での重要性
 
-- [[JapanFG/nippon-life]]：最大の相互会社ベンチマーク。資本配分は契約者還元、グループ拡大、ソルベンシーを通じて読む。
-- [[JapanFG/meiji-yasuda]] と [[JapanFG/sumitomo-life]]：伝統的な相互会社型ピア。
-- [[JapanFG/dai-ichi-life]]：相互会社から株式会社化して上場したため、上場生命保険会社の比較例として重要。
-- [[JapanFG/kampo-life]]：郵政由来の販売網と上場市場ガバナンスを持つ株式会社型保険会社。
-- [[JapanFG/lifenet]]：インターネット由来の上場 / 株式会社モデルであり、成長市場の期待と生命保険資本ニーズを比較するうえで有用。
+- [[life-insurers/nippon-life]]：最大の相互会社ベンチマーク。資本配分は契約者還元、グループ拡大、ソルベンシーを通じて読む。
+- [[life-insurers/meiji-yasuda]] と [[life-insurers/sumitomo-life]]：伝統的な相互会社型ピア。
+- [[life-insurers/dai-ichi-life]]：相互会社から株式会社化して上場したため、上場生命保険会社の比較例として重要。
+- [[life-insurers/kampo-life]]：郵政由来の販売網と上場市場ガバナンスを持つ株式会社型保険会社。
+- [[life-insurers/lifenet]]：インターネット由来の上場 / 株式会社モデルであり、成長市場の期待と生命保険資本ニーズを比較するうえで有用。
 
 ## 分析での使い方
 
@@ -52,9 +52,9 @@ JapanFG の主要例：[[JapanFG/nippon-life]]、[[JapanFG/meiji-yasuda]]、[[Ja
 - [[insurance/INDEX|insurance INDEX]]
 - [[insurance/esr-economic-value-solvency]]
 - [[insurance/life-insurance-channel-mix]]
-- [[JapanFG/nippon-life]]
-- [[JapanFG/dai-ichi-life]]
-- [[JapanFG/legal-financial-licenses/INDEX]]
+- [[life-insurers/nippon-life]]
+- [[life-insurers/dai-ichi-life]]
+- [[financial-licenses/INDEX]]
 - [[INDEX|FinWiki index]]
 
 ## 出典

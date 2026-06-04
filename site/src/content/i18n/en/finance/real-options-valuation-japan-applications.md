@@ -160,7 +160,7 @@ For most Japan corporate / M&A applications, scenario-conditioned DCF with expli
 |---|---|
 | Fairness-opinion practice | Real options rare in [[finance/japan-mbo-and-squeeze-out-process|MBO]] and [[finance/japan-tender-offer-process|TOB]] fairness opinions; DCF / multiples / NAV remain dominant |
 | METI Fair M&A Guideline | Multi-method valuation discipline; real options can be presented as supplementary analysis |
-| Policy bank exposure | [[policy-finance/japan-project-finance-stack-diagram|JBIC]], [[JapanFG/dbj|DBJ]] participate in transition-finance and renewable-project investments with embedded optionality |
+| Policy bank exposure | [[policy-finance/japan-project-finance-stack-diagram|JBIC]], [[financial-regulators/dbj|DBJ]] participate in transition-finance and renewable-project investments with embedded optionality |
 | TSE governance code | Cost-of-capital engagement programme encourages explicit cost-of-capital analysis; real options can sharpen this |
 | Risk-free anchor | [[finance/cost-of-capital-japan-2026-reference|10Y JGB]] is the standard risk-free input |
 | Volatility input | Sector / asset-class implied or historical volatility; often the most contested input |

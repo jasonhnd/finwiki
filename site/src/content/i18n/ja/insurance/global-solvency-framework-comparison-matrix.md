@@ -11,7 +11,7 @@ translated_at: 2026-06-02T14:01:20.897Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[insurance/INDEX|insurance index]] の下に位置し、保険会社の資本規制枠組みを法域横断で比較するページである。日本固有の経済価値ベース詳細は [[insurance/economic-value-based-solvency]] と [[insurance/esr-economic-value-solvency]]、日本の免許 / 規制境界は [[JapanFG/legal-financial-licenses/insurance-license-and-solvency]]、日本企業レベルへの影響は [[insurance/japan-life-insurance-big-four]] と [[insurance/japan-nonlife-big-three]] と対比して読む。カタストロフィリスク・モジュールは [[insurance/natcat-reinsurance-japan]] へ戻る。日本側の翻訳で最も扱いやすい上場株式エンティティのアンカーは [[JapanFG/dai-ichi-life]] と [[JapanFG/tokio-marine]] である。
+この項目は [[insurance/INDEX|insurance index]] の下に位置し、保険会社の資本規制枠組みを法域横断で比較するページである。日本固有の経済価値ベース詳細は [[insurance/economic-value-based-solvency]] と [[insurance/esr-economic-value-solvency]]、日本の免許 / 規制境界は [[financial-licenses/insurance-license-and-solvency]]、日本企業レベルへの影響は [[insurance/japan-life-insurance-big-four]] と [[insurance/japan-nonlife-big-three]] と対比して読む。カタストロフィリスク・モジュールは [[insurance/natcat-reinsurance-japan]] へ戻る。日本側の翻訳で最も扱いやすい上場株式エンティティのアンカーは [[life-insurers/dai-ichi-life]] と [[non-life-insurers/tokio-marine]] である。
 
 ## 要約
 
@@ -27,7 +27,7 @@ translated_at: 2026-06-02T14:01:20.897Z
 |---|---|---|---|---|
 | 規制当局 | 金融庁（FSA） | 保険監督者国際機構（IAIS） | 欧州保険・企業年金監督機構（EIOPA）および各国監督当局 | 全米保険監督官協会（NAIC）および州規制当局 |
 | 適用時期 | 複数年のフィールドテスト後、2025-04 以降に導入 | Version 2.0 が 202412月に最終化。五年間のモニタリング期間後、2025 から IAIG に義務化 | 2016-01から運用。Solvency II 2.0 レビュー・パッケージは 2025 に採択 | 1990年代から有効。生命 RBC、P&C-RBC、health-RBC など種目別に進化 |
-| 対象 | 日本で免許を受けたすべての保険会社と保険持株会社。[[JapanFG/legal-financial-licenses/insurance-license-and-solvency]]参照 | IAIS 基準で特定される大規模な国際保険グループ（IAIG） | EU / EEA で認可されたすべての保険会社・再保険会社 | 米国所在の保険会社。生命、P&C、健康の各ラインに別々に適用 |
+| 対象 | 日本で免許を受けたすべての保険会社と保険持株会社。[[financial-licenses/insurance-license-and-solvency]]参照 | IAIS 基準で特定される大規模な国際保険グループ（IAIG） | EU / EEA で認可されたすべての保険会社・再保険会社 | 米国所在の保険会社。生命、P&C、健康の各ラインに別々に適用 |
 | 主要指標 | 経済価値ベース・ソルベンシー比率（ESR）= 適格資本 / 所要資本 | ICS 比率 = 適格資本リソース / ICS 所要資本 | ソルベンシー資本要件（SCR）カバレッジ比率 = 適格自己資本 / SCR。加えて最低資本要件（MCR） | RBC 比率 = Total Adjusted Capital / Authorized Control Level RBC。規制上のアクションレベルを伴う |
 
 ### 思想と評価
@@ -76,8 +76,8 @@ translated_at: 2026-06-02T14:01:20.897Z
 
 日本の保険市場では、これらの枠組みが具体的なエンティティ層を通じて翻訳される。
 
-- **生命保険ビッグフォー**：[[insurance/japan-life-insurance-big-four|Japan life insurance big four]]。Nippon Life、Dai-ichi Life、Meiji Yasuda、Sumitomo Life は、長期貯蓄、外貨建て年金、株式保有エクスポージャーにより、経済価値感応度が最も大きい。ESR は国内の主要指標である。特に [[JapanFG/dai-ichi-life]] では、上場株式開示があるため、ESR は配当 / 自社株買い余力とあわせて読まれる。相互会社は、株式買戻しではなく契約者還元と剰余分配を通じて ESR を翻訳する。
-- **損保ビッグスリー**：[[insurance/japan-nonlife-big-three|Japan non-life big three]]。[[JapanFG/tokio-marine|Tokio Marine]]、MS&AD、SOMPO は、nat-cat 再保険価格、海外特殊保険、株式保有圧縮プログラムを通じて ESR を翻訳する。ESR の損害保険 cat モジュールは、民間および公的カタストロフィ再保険の規制上の対応物である。
+- **生命保険ビッグフォー**：[[insurance/japan-life-insurance-big-four|Japan life insurance big four]]。Nippon Life、Dai-ichi Life、Meiji Yasuda、Sumitomo Life は、長期貯蓄、外貨建て年金、株式保有エクスポージャーにより、経済価値感応度が最も大きい。ESR は国内の主要指標である。特に [[life-insurers/dai-ichi-life]] では、上場株式開示があるため、ESR は配当 / 自社株買い余力とあわせて読まれる。相互会社は、株式買戻しではなく契約者還元と剰余分配を通じて ESR を翻訳する。
+- **損保ビッグスリー**：[[insurance/japan-nonlife-big-three|Japan non-life big three]]。[[non-life-insurers/tokio-marine|Tokio Marine]]、MS&AD、SOMPO は、nat-cat 再保険価格、海外特殊保険、株式保有圧縮プログラムを通じて ESR を翻訳する。ESR の損害保険 cat モジュールは、民間および公的カタストロフィ再保険の規制上の対応物である。
 - **IAIG ステータスのグループ**：グループ全体監督者から IAIG に指定された日本グループは、ESR に加えて並行する ICS 報告に向き合う。日本本社グループでは金融庁がグループ全体監督者となる。
 - **海外子会社**：EU 子会社（再保険ハブ、スペシャルティ・プラットフォーム等）を持つ日本グループは子会社レベルで Solvency II に向き合い、米国生命 / P&C / 健康保険子会社を持つグループは RBC に向き合う。
 
@@ -124,9 +124,9 @@ translated_at: 2026-06-02T14:01:20.897Z
 - [[insurance/japan-nonlife-big-three]]
 - [[insurance/natcat-reinsurance-japan]]
 - [[insurance/mutual-vs-stock-life-insurer]]
-- [[JapanFG/legal-financial-licenses/insurance-license-and-solvency]]
-- [[JapanFG/dai-ichi-life]]
-- [[JapanFG/tokio-marine]]
+- [[financial-licenses/insurance-license-and-solvency]]
+- [[life-insurers/dai-ichi-life]]
+- [[non-life-insurers/tokio-marine]]
 - [[INDEX|FinWiki index]]
 
 ## 出典

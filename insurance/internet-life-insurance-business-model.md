@@ -30,7 +30,7 @@ This entry sits under [[insurance/INDEX|insurance index]]. Read it against [[ins
 
 The internet life-insurance model sells life insurance through direct digital acquisition, simpler product design, online disclosure, and lower-friction application workflows. Its economic promise is lower distribution cost and better UX; its hard constraint is that life insurance still requires trust, suitability, underwriting, data security, and long-term policyholder service.
 
-The core JapanFG anchor is [[JapanFG/lifenet]]. Adjacent entities include [[JapanFG/orix-life]], [[JapanFG/sony-fg]], and traditional insurers that use online channels inside broader channel mixes.
+The core JapanFG anchor is [[life-insurers/lifenet]]. Adjacent entities include [[life-insurers/orix-life]], [[megabanks/sony-fg]], and traditional insurers that use online channels inside broader channel mixes.
 
 ## Model Components
 
@@ -44,10 +44,10 @@ The core JapanFG anchor is [[JapanFG/lifenet]]. Adjacent entities include [[Japa
 
 ## JapanFG Relevance
 
-- [[JapanFG/lifenet]] is the reference case: an online life insurer that started from direct internet sales and later added partner / embedded business.
-- [[JapanFG/orix-life]] is relevant as a life insurer with strong direct / agency product visibility.
-- [[JapanFG/sony-fg]] is a contrast case: Sony Life is planner-led, while Sony non-life / banking are much more direct and digital.
-- Traditional insurers such as [[JapanFG/dai-ichi-life]], [[JapanFG/nippon-life]], and [[JapanFG/sumitomo-life]] use digital channels, but their economic base still includes large human sales or agency networks.
+- [[life-insurers/lifenet]] is the reference case: an online life insurer that started from direct internet sales and later added partner / embedded business.
+- [[life-insurers/orix-life]] is relevant as a life insurer with strong direct / agency product visibility.
+- [[megabanks/sony-fg]] is a contrast case: Sony Life is planner-led, while Sony non-life / banking are much more direct and digital.
+- Traditional insurers such as [[life-insurers/dai-ichi-life]], [[life-insurers/nippon-life]], and [[life-insurers/sumitomo-life]] use digital channels, but their economic base still includes large human sales or agency networks.
 
 ## Economic Thesis
 
@@ -71,10 +71,10 @@ It struggles when:
 - [[insurance/INDEX|insurance INDEX]]
 - [[insurance/life-insurance-channel-mix]]
 - [[insurance/mutual-vs-stock-life-insurer]]
-- [[JapanFG/lifenet]]
-- [[JapanFG/orix-life]]
-- [[JapanFG/sony-fg]]
-- [[JapanFG/legal-financial-licenses/INDEX]]
+- [[life-insurers/lifenet]]
+- [[life-insurers/orix-life]]
+- [[megabanks/sony-fg]]
+- [[financial-licenses/INDEX]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

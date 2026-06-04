@@ -30,7 +30,7 @@ sources:
 
 Japan fair disclosure and insider-trading records connect selective disclosure, timely disclosure, unpublished material facts, issuer information management, insider trading restrictions, and exchange disclosure systems. Public routes include FSA fair-disclosure materials, Financial Instruments and Exchange Act text, JPX / TSE timely disclosure pages, and TDnet.
 
-This page belongs to [[finance/INDEX|finance domain]] and links to [[securities/INDEX|securities domain]], [[securities/tokyo-stock-exchange|Tokyo Stock Exchange]], [[JapanFG/japan-exchange-group|Japan Exchange Group]], [[finance/japan-large-shareholding-disclosure|large-shareholding disclosure]], [[finance/japan-tender-offer-process|Japan tender offer process]], [[securities/japan-ipo-listing-disclosure-route|IPO listing disclosure route]], [[securities/japan-market-infrastructure-map|Japan market infrastructure map]], and [[securities/japan-underwriting-market-structure|Japan underwriting market structure]].
+This page belongs to [[finance/INDEX|finance domain]] and links to [[securities/INDEX|securities domain]], [[securities/tokyo-stock-exchange|Tokyo Stock Exchange]], [[financial-regulators/japan-exchange-group|Japan Exchange Group]], [[finance/japan-large-shareholding-disclosure|large-shareholding disclosure]], [[finance/japan-tender-offer-process|Japan tender offer process]], [[securities/japan-ipo-listing-disclosure-route|IPO listing disclosure route]], [[securities/japan-market-infrastructure-map|Japan market infrastructure map]], and [[securities/japan-underwriting-market-structure|Japan underwriting market structure]].
 
 ## Control Map
 
@@ -95,14 +95,14 @@ The statutory publication route is tied to the FIEA / Cabinet Order publication-
 
 ## JapanFG Relevance
 
-Listed financial groups and listed fintech / securities / insurance companies use TDnet and EDINET disclosure routes. Examples include [[JapanFG/mufg]], [[JapanFG/smfg]], [[JapanFG/mizuho-fg]], [[JapanFG/nomura-hd]], [[JapanFG/daiwa-sg]], [[JapanFG/sbi-hd]], [[JapanFG/sony-fg]], and [[JapanFG/wealthnavi]].
+Listed financial groups and listed fintech / securities / insurance companies use TDnet and EDINET disclosure routes. Examples include [[megabanks/mufg]], [[megabanks/smfg]], [[megabanks/mizuho-fg]], [[securities-firms/nomura-hd]], [[securities-firms/daiwa-sg]], [[megabanks/sbi-hd]], [[megabanks/sony-fg]], and [[payment-firms/wealthnavi]].
 
 ## Related
 
 - [[finance/INDEX]]
 - [[securities/INDEX]]
 - [[securities/tokyo-stock-exchange]]
-- [[JapanFG/japan-exchange-group]]
+- [[financial-regulators/japan-exchange-group]]
 - [[finance/japan-large-shareholding-disclosure]]
 - [[finance/japan-tender-offer-process]]
 - [[securities/japan-ipo-listing-disclosure-route]]

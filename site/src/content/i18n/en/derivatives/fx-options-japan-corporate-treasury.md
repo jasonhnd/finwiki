@@ -12,7 +12,7 @@ translated_at: 2026-05-31T03:19:56.359Z
 
 ## TL;DR
 
-FX options are the non-linear, premium-priced layer of Japan corporate FX hedging. Where a forward locks the rate completely, an option offers protection against an adverse move while preserving upside, in exchange for an upfront premium (or, in zero-cost structures, embedded conditional risk). The Japan corporate menu spans vanilla calls / puts, risk-reversal structures, knock-out forwards, knock-in options, straddles, strangles, and the more contentious target redemption forward (TRF) family. Dealer franchise is dominated by the megabank corporate desks at [[JapanFG/mufg-bank|MUFG Bank]], [[JapanFG/sumitomo-mitsui-banking-corp|Sumitomo Mitsui Banking Corp]], and [[JapanFG/mizuho-bank|Mizuho Bank]], with foreign-bank presence from Citi, JPMorgan, and Nomura in the structured-product space.
+FX options are the non-linear, premium-priced layer of Japan corporate FX hedging. Where a forward locks the rate completely, an option offers protection against an adverse move while preserving upside, in exchange for an upfront premium (or, in zero-cost structures, embedded conditional risk). The Japan corporate menu spans vanilla calls / puts, risk-reversal structures, knock-out forwards, knock-in options, straddles, strangles, and the more contentious target redemption forward (TRF) family. Dealer franchise is dominated by the megabank corporate desks at [[megabanks/mufg-bank|MUFG Bank]], [[megabanks/sumitomo-mitsui-banking-corp|Sumitomo Mitsui Banking Corp]], and [[megabanks/mizuho-bank|Mizuho Bank]], with foreign-bank presence from Citi, JPMorgan, and Nomura in the structured-product space.
 
 This entry is the option-side counterpart to [[derivatives/corporate-fx-hedge-policy-japan-listed|corporate FX hedge policy at Japan listed companies]] inside the [[derivatives/INDEX|derivatives index]].
 
@@ -99,7 +99,7 @@ The [[derivatives/INDEX|derivatives index]] links to volatility-derivatives entr
 
 | Dealer category | Examples | Strength |
 |---|---|---|
-| Megabank corporate desk | [[JapanFG/mufg-bank|MUFG Bank]], [[JapanFG/sumitomo-mitsui-banking-corp|Sumitomo Mitsui Banking Corp]], [[JapanFG/mizuho-bank|Mizuho Bank]] | Dominant in vanilla forward + vanilla option flow to Japan corporates; relationship pricing. |
+| Megabank corporate desk | [[megabanks/mufg-bank|MUFG Bank]], [[megabanks/sumitomo-mitsui-banking-corp|Sumitomo Mitsui Banking Corp]], [[megabanks/mizuho-bank|Mizuho Bank]] | Dominant in vanilla forward + vanilla option flow to Japan corporates; relationship pricing. |
 | Foreign-bank dealer | Citi, JPMorgan, Deutsche Bank, Goldman Sachs | Stronger in exotic / structured products and EM-currency NDF / option flow. |
 | Japanese securities dealer | Nomura, Daiwa, SMBC Nikko | Active in corporate-bond-linked FX hedges, M&A-deal-contingent options. |
 | Trading-house in-house treasury | Major sogo shosha | Often net buyer of vanilla / collar structures; sometimes price-maker in TRF-type structures internally. |
@@ -140,7 +140,7 @@ Japan FX options for corporate treasury are separate from the retail FX margin t
 | Suitability | Bank's own KYC / risk-rating framework; FSA principles-based supervision. | Strict FSA conduct rules; segregated client funds. |
 | Disclosure | Quarterly / annual securities-report derivative-position disclosure. | Daily reporting to JFSA; turnover stats by Financial Futures Association of Japan (FFAJ). |
 
-A small-to-mid Japan corporate may technically open a retail-style FX margin account at firms like [[JapanFG/gmo-click-securities|GMO Click Securities]], [[JapanFG/sbi-fx-trade|SBI FX Trade]], or [[JapanFG/dmm-com-securities|DMM.com Securities]] (as a 法人 corporate account), but operationally larger corporates run option / forward hedging through their banking relationships rather than through retail-style brokers.
+A small-to-mid Japan corporate may technically open a retail-style FX margin account at firms like [[securities-firms/gmo-click-securities|GMO Click Securities]], [[securities-firms/sbi-fx-trade|SBI FX Trade]], or [[securities-firms/dmm-com-securities|DMM.com Securities]] (as a 法人 corporate account), but operationally larger corporates run option / forward hedging through their banking relationships rather than through retail-style brokers.
 
 ## Documentation and operational flow
 
@@ -211,9 +211,9 @@ For sophisticated corporate customers (typically "qualified institutional invest
 - [[derivatives/ois-tona-curve]]
 - [[finance/japan-corporate-fx-and-rate-hedge-policy]]
 - [[money-market/japan-money-market]]
-- [[JapanFG/mufg-bank]]
-- [[JapanFG/sumitomo-mitsui-banking-corp]]
-- [[JapanFG/mizuho-bank]]
+- [[megabanks/mufg-bank]]
+- [[megabanks/sumitomo-mitsui-banking-corp]]
+- [[megabanks/mizuho-bank]]
 
 ## Sources
 

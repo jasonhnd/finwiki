@@ -11,11 +11,11 @@ translated_at: 2026-06-02T14:01:20.913Z
 
 ## 要約
 
-日本の bancassurance（銀行窓販 / 「銀行まどはん」）は、銀行預金顧客に対して銀行チャネルで生命保険・年金保険商品を販売する仕組みであり、2007 年12月の全面解禁で最後の商品分野制限が外れた、金融庁による段階的な規制緩和によって構造的に可能になった。このチャネルは、商品メーカーである [[insurance/japan-life-insurance-big-four|life big-four]] / 専門生命保険会社と、販売窓口である [[banking/INDEX|Japanese banks]]、すなわちメガバンク（[[JapanFG/mufg-bank|MUFG]]、[[JapanFG/smbc|SMBC]]、[[JapanFG/mizuho-bank|Mizuho]]）、[[JapanFG/japan-post-bank|Japan Post Bank]]、[[banking/regional-bank-tier-structure|regional banks (chigin / dai-2 chigin)]]、[[banking/INDEX|shinkin]] / [[JapanFG/norinchukin|JA Bank]] の協同組織金融システムの間に位置する。商品経済性の中心は、一時払終身、平準払終身、外貨建一時払年金、変額年金、円建一時払年金 / 養老といった、銀行チャネルに適した少数の商品群である。チャネル経済では、初年度保険料の相当部分が保険会社から銀行への手数料として流れ、銀行チャネル商品の商品経済性における最大の単一項目は手数料シェアとなる。その分、保険会社側のスプレッド / マージンは圧縮される。メガバンクと保険会社の関係は、形式的な持合比率よりも実態として緊密である。商品供給契約、共同商品開発、銀行窓販専業子会社（[[JapanFG/dai-ichi-frontier-life|Dai-ichi Frontier Life]]、MS&AD Mitsui Sumitomo Primary Life など）が、事実上のチャネル・商品ペアを作るためである。行為規制、すなわち高齢顧客の適合性、担当者分離、顧客情報ファイアウォールを含む [[JapanFG/fsa|FSA]] の圧力販売防止ルールが、銀行チャネルの販売担当者に何ができ、何ができないかを定める構造的制約である。
+日本の bancassurance（銀行窓販 / 「銀行まどはん」）は、銀行預金顧客に対して銀行チャネルで生命保険・年金保険商品を販売する仕組みであり、2007 年12月の全面解禁で最後の商品分野制限が外れた、金融庁による段階的な規制緩和によって構造的に可能になった。このチャネルは、商品メーカーである [[insurance/japan-life-insurance-big-four|life big-four]] / 専門生命保険会社と、販売窓口である [[banking/INDEX|Japanese banks]]、すなわちメガバンク（[[megabanks/mufg-bank|MUFG]]、[[megabanks/smbc|SMBC]]、[[megabanks/mizuho-bank|Mizuho]]）、[[regional-banks/japan-post-bank|Japan Post Bank]]、[[banking/regional-bank-tier-structure|regional banks (chigin / dai-2 chigin)]]、[[banking/INDEX|shinkin]] / [[cooperative-banks/norinchukin|JA Bank]] の協同組織金融システムの間に位置する。商品経済性の中心は、一時払終身、平準払終身、外貨建一時払年金、変額年金、円建一時払年金 / 養老といった、銀行チャネルに適した少数の商品群である。チャネル経済では、初年度保険料の相当部分が保険会社から銀行への手数料として流れ、銀行チャネル商品の商品経済性における最大の単一項目は手数料シェアとなる。その分、保険会社側のスプレッド / マージンは圧縮される。メガバンクと保険会社の関係は、形式的な持合比率よりも実態として緊密である。商品供給契約、共同商品開発、銀行窓販専業子会社（[[life-insurers/dai-ichi-frontier-life|Dai-ichi Frontier Life]]、MS&AD Mitsui Sumitomo Primary Life など）が、事実上のチャネル・商品ペアを作るためである。行為規制、すなわち高齢顧客の適合性、担当者分離、顧客情報ファイアウォールを含む [[financial-regulators/fsa|FSA]] の圧力販売防止ルールが、銀行チャネルの販売担当者に何ができ、何ができないかを定める構造的制約である。
 
 ## ウィキ上の位置づけ
 
-このページは [[insurance/INDEX|insurance INDEX]] の下に位置し、[[insurance/life-insurance-channel-mix|the life insurance channel mix]]、[[insurance/insurance-agency-and-brokerage-japan|the insurance agency and brokerage Japan landscape]]、[[insurance/internet-life-insurance-business-model|the internet life insurance business model]]、[[insurance/medical-cancer-insurance-product-economics|medical / cancer insurance product economics]]（商品別に銀行窓販への適合度がどう違うかを示す）の銀行チャネル側の対になる。メーカー側は [[insurance/japan-life-insurance-big-four|the Japan life big four]] と [[insurance/japan-life-big-four-overlay-comparison-matrix|its overlay matrix]]、外資系 bancassurance 群は [[insurance/foreign-life-affiliate-japan-positioning|foreign-life-affiliate positioning]]、銀行チャネルの一時払商品の資産負債プロファイルは [[insurance/japan-life-insurance-alm-overview|the Japan life ALM overview]]、外貨建一時払商品のフローが資本へどう転換されるかは [[insurance/economic-value-based-solvency|economic-value-based solvency]] / [[insurance/esr-economic-value-solvency|ESR]] とあわせて読む。銀行側アンカーは [[JapanFG/mufg|MUFG]]、[[JapanFG/smbc|SMBC]]、[[JapanFG/mizuho-fg|Mizuho]]、[[JapanFG/japan-post-bank|Japan Post Bank]] および地銀ページである。保険会社側アンカーには [[JapanFG/dai-ichi-frontier-life|Dai-ichi Frontier Life]]、[[JapanFG/metlife-japan|MetLife Japan]]、[[JapanFG/aflac-japan|Aflac Japan]]、[[JapanFG/kampo-life|Kampo Life]] が含まれる。
+このページは [[insurance/INDEX|insurance INDEX]] の下に位置し、[[insurance/life-insurance-channel-mix|the life insurance channel mix]]、[[insurance/insurance-agency-and-brokerage-japan|the insurance agency and brokerage Japan landscape]]、[[insurance/internet-life-insurance-business-model|the internet life insurance business model]]、[[insurance/medical-cancer-insurance-product-economics|medical / cancer insurance product economics]]（商品別に銀行窓販への適合度がどう違うかを示す）の銀行チャネル側の対になる。メーカー側は [[insurance/japan-life-insurance-big-four|the Japan life big four]] と [[insurance/japan-life-big-four-overlay-comparison-matrix|its overlay matrix]]、外資系 bancassurance 群は [[insurance/foreign-life-affiliate-japan-positioning|foreign-life-affiliate positioning]]、銀行チャネルの一時払商品の資産負債プロファイルは [[insurance/japan-life-insurance-alm-overview|the Japan life ALM overview]]、外貨建一時払商品のフローが資本へどう転換されるかは [[insurance/economic-value-based-solvency|economic-value-based solvency]] / [[insurance/esr-economic-value-solvency|ESR]] とあわせて読む。銀行側アンカーは [[megabanks/mufg|MUFG]]、[[megabanks/smbc|SMBC]]、[[megabanks/mizuho-fg|Mizuho]]、[[regional-banks/japan-post-bank|Japan Post Bank]] および地銀ページである。保険会社側アンカーには [[life-insurers/dai-ichi-frontier-life|Dai-ichi Frontier Life]]、[[life-insurers/metlife-japan|MetLife Japan]]、[[life-insurers/aflac-japan|Aflac Japan]]、[[life-insurers/kampo-life|Kampo Life]] が含まれる。
 
 ## 規制緩和の沿革
 
@@ -64,14 +64,14 @@ translated_at: 2026-06-02T14:01:20.913Z
 
 メガバンク・保険会社の構図は、正式な子会社 / 合弁構造と、より緩やかな商業上の商品供給契約が混在している。
 
-- **[[JapanFG/mufg|MUFG (Mitsubishi UFJ Financial Group)]]** — [[JapanFG/dai-ichi-frontier-life|Dai-ichi Frontier Life]]、[[JapanFG/metlife-japan|MetLife Japan]]、[[JapanFG/manulife-japan|Manulife Japan]]、[[JapanFG/sumitomo-life|Sumitomo Life]] 子会社など複数の保険会社の商品を販売する。MUFG は、より広い三菱系譜の中で [[JapanFG/tokio-marine-holdings|Tokio Marine Holdings]] との歴史的な保険グループ関係を持つ。リテール銀行（[[JapanFG/mufg-bank|MUFG Bank / 三菱UFJ銀行]]）が支配的な銀行窓販カウンターである。
-- **[[JapanFG/smbc|SMBC Group]]** — [[JapanFG/dai-ichi-frontier-life|Dai-ichi Frontier Life]]、[[JapanFG/metlife-japan|MetLife Japan]]、[[JapanFG/aflac-japan|Aflac Japan]] など複数の保険会社の商品を販売する。SMBC Group は [[JapanFG/aflac-japan|Aflac Japan]] と親会社 Aflac Inc. レベルで注目すべき戦略関係（資本提携）を持ってきた。リテール銀行（[[JapanFG/smbc|Sumitomo Mitsui Banking Corporation]]）が支配的な銀行窓販カウンターである。
-- **[[JapanFG/mizuho-fg|Mizuho Financial Group]]** — [[JapanFG/dai-ichi-frontier-life|Dai-ichi Frontier Life]] など複数の保険会社の商品を販売する。Mizuho は、[[JapanFG/dai-ichi-life|Dai-ichi Life Holdings]] との長期提携を [[JapanFG/asset-management-one|Asset Management One]] 合弁および商品 / 販売協力を通じて持つ。リテール銀行（[[JapanFG/mizuho-bank|Mizuho Bank]]）が支配的な銀行窓販カウンターである。
-- **[[JapanFG/japan-post-bank|Japan Post Bank]]** — 郵便局チャネル関係を通じて [[JapanFG/kampo-life|Kampo Life]] 商品を配信し、Japan Post Co. との代理店契約を通じて郵便局窓口で他社商品も販売する。郵便局チャネルは日本最大の物理ネットワーク型 bancassurance カウンターである。
+- **[[megabanks/mufg|MUFG (Mitsubishi UFJ Financial Group)]]** — [[life-insurers/dai-ichi-frontier-life|Dai-ichi Frontier Life]]、[[life-insurers/metlife-japan|MetLife Japan]]、[[life-insurers/manulife-japan|Manulife Japan]]、[[life-insurers/sumitomo-life|Sumitomo Life]] 子会社など複数の保険会社の商品を販売する。MUFG は、より広い三菱系譜の中で [[non-life-insurers/tokio-marine-holdings|Tokio Marine Holdings]] との歴史的な保険グループ関係を持つ。リテール銀行（[[megabanks/mufg-bank|MUFG Bank / 三菱UFJ銀行]]）が支配的な銀行窓販カウンターである。
+- **[[megabanks/smbc|SMBC Group]]** — [[life-insurers/dai-ichi-frontier-life|Dai-ichi Frontier Life]]、[[life-insurers/metlife-japan|MetLife Japan]]、[[life-insurers/aflac-japan|Aflac Japan]] など複数の保険会社の商品を販売する。SMBC Group は [[life-insurers/aflac-japan|Aflac Japan]] と親会社 Aflac Inc. レベルで注目すべき戦略関係（資本提携）を持ってきた。リテール銀行（[[megabanks/smbc|Sumitomo Mitsui Banking Corporation]]）が支配的な銀行窓販カウンターである。
+- **[[megabanks/mizuho-fg|Mizuho Financial Group]]** — [[life-insurers/dai-ichi-frontier-life|Dai-ichi Frontier Life]] など複数の保険会社の商品を販売する。Mizuho は、[[life-insurers/dai-ichi-life|Dai-ichi Life Holdings]] との長期提携を [[asset-managers/asset-management-one|Asset Management One]] 合弁および商品 / 販売協力を通じて持つ。リテール銀行（[[megabanks/mizuho-bank|Mizuho Bank]]）が支配的な銀行窓販カウンターである。
+- **[[regional-banks/japan-post-bank|Japan Post Bank]]** — 郵便局チャネル関係を通じて [[life-insurers/kampo-life|Kampo Life]] 商品を配信し、Japan Post Co. との代理店契約を通じて郵便局窓口で他社商品も販売する。郵便局チャネルは日本最大の物理ネットワーク型 bancassurance カウンターである。
 - **[[banking/regional-bank-tier-structure|Regional banks (chigin / dai-2 chigin)]]** — 各地域銀行は通常、保険会社パートナーのポートフォリオから bancassurance 商品を販売する。主力商品は一時払終身と外貨建年金であり、地銀チャネル全体は主要な bancassurance 獲得面である。
-- **[[banking/INDEX|Shinkin]] / [[JapanFG/norinchukin|JA Bank (Norinchukin)]] / 労働金庫** — 協同組織または協同組織隣接の銀行が、協同組合員基盤へ bancassurance を配信する。JA Bank は協同組合圏内で JA共済 kyosai も配信する（[[insurance/ja-kyosai-zenkyoren-overview|JA Kyosai / Zenkyoren overview]] 参照）。
+- **[[banking/INDEX|Shinkin]] / [[cooperative-banks/norinchukin|JA Bank (Norinchukin)]] / 労働金庫** — 協同組織または協同組織隣接の銀行が、協同組合員基盤へ bancassurance を配信する。JA Bank は協同組合圏内で JA共済 kyosai も配信する（[[insurance/ja-kyosai-zenkyoren-overview|JA Kyosai / Zenkyoren overview]] 参照）。
 
-最も明快な分析枠組みは、メガバンク・保険会社の「提携」マトリックスを、資本主導ではなく商品配信契約主導と見ることだ。多くの銀行は複数の保険会社の商品を販売し、多くの保険会社は複数の銀行を通じて販売する。正式な合弁や戦略子会社（専業 bancassurance vehicle である [[JapanFG/dai-ichi-frontier-life|Dai-ichi Frontier Life]] が [[JapanFG/dai-ichi-life|Dai-ichi Life Holdings]] 内部にある例、MS&AD 内の Mitsui Sumitomo Primary Life、Aflac-SMBC の親会社レベル資本提携）は、契約主導構造を確認する例外である。
+最も明快な分析枠組みは、メガバンク・保険会社の「提携」マトリックスを、資本主導ではなく商品配信契約主導と見ることだ。多くの銀行は複数の保険会社の商品を販売し、多くの保険会社は複数の銀行を通じて販売する。正式な合弁や戦略子会社（専業 bancassurance vehicle である [[life-insurers/dai-ichi-frontier-life|Dai-ichi Frontier Life]] が [[life-insurers/dai-ichi-life|Dai-ichi Life Holdings]] 内部にある例、MS&AD 内の Mitsui Sumitomo Primary Life、Aflac-SMBC の親会社レベル資本提携）は、契約主導構造を確認する例外である。
 
 ## 圧力販売防止ルール
 
@@ -146,16 +146,16 @@ translated_at: 2026-06-02T14:01:20.913Z
 - [[insurance/ja-kyosai-zenkyoren-overview]]
 - [[insurance/cooperative-insurance-system-japan]]
 - [[banking/INDEX]]
-- [[JapanFG/mufg]]
-- [[JapanFG/smbc]]
-- [[JapanFG/mizuho-fg]]
-- [[JapanFG/japan-post-bank]]
-- [[JapanFG/dai-ichi-frontier-life]]
-- [[JapanFG/metlife-japan]]
-- [[JapanFG/aflac-japan]]
-- [[JapanFG/kampo-life]]
-- [[JapanFG/legal-financial-licenses/insurance-license-and-solvency]]
-- [[JapanFG/fsa]]
+- [[megabanks/mufg]]
+- [[megabanks/smbc]]
+- [[megabanks/mizuho-fg]]
+- [[regional-banks/japan-post-bank]]
+- [[life-insurers/dai-ichi-frontier-life]]
+- [[life-insurers/metlife-japan]]
+- [[life-insurers/aflac-japan]]
+- [[life-insurers/kampo-life]]
+- [[financial-licenses/insurance-license-and-solvency]]
+- [[financial-regulators/fsa]]
 - [[INDEX|FinWiki index]]
 
 ## 出典

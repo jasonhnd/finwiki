@@ -12,7 +12,7 @@ translated_at: 2026-05-31T07:28:06.126Z
 
 ## TL;DR
 
-日本的银保（銀行窓販 / *ginko-madohan*）是指通过银行渠道向存款客户销售寿险和年金产品。它是在 FSA 分阶段放松监管的背景下形成的，最终于 2007  年 12 月的全面解禁中完成制度化，最后的产品线限制也被移除。这个渠道位于 [[insurance/japan-life-insurance-big-four|life big-four]] / 专门寿险公司这一产品制造端，与 [[banking/INDEX|Japanese banks]] —— 即三大行（[[JapanFG/mufg-bank|MUFG]]、[[JapanFG/smbc|SMBC]]、[[JapanFG/mizuho-bank|Mizuho]]）、[[JapanFG/japan-post-bank|Japan Post Bank]]、[[banking/regional-bank-tier-structure|regional banks (chigin / dai-2 chigin)]]，以及 [[banking/INDEX|shinkin]] / [[JapanFG/norinchukin|JA Bank]] 合作金融体系这一分销柜台端之间。其产品经济学集中在少数几类适合银行渠道的产品：一次缴清终身寿险、平准缴费终身寿险、外币一次缴清年金、变额年金，以及日元一次缴清养老 / 年金产品。渠道经济学上，首年保费中的相当一部分会以手续费的形式从保险公司流向银行，对银行渠道产品来说，手续费通常是产品经济学中最大的单项成本，而保险公司端的利差 / 利润空间相应被压缩。大型银行与保险公司的关联程度，比正式交叉持股所显示的更紧，因为产品流转协议、联合产品开发，以及专门的银保子公司（[[JapanFG/dai-ichi-frontier-life|Dai-ichi Frontier Life]]、MS&AD Mitsui Sumitomo Primary Life 等）共同形成了事实上的渠道-产品配对。行为监管 —— 即 [[JapanFG/fsa|FSA]] 反强压销售规则，涵盖高龄客户适合性、岗位分离、客户信息防火墙 —— 则构成了银行渠道销售人员“能做什么 / 不能做什么”的结构性约束。
+日本的银保（銀行窓販 / *ginko-madohan*）是指通过银行渠道向存款客户销售寿险和年金产品。它是在 FSA 分阶段放松监管的背景下形成的，最终于 2007  年 12 月的全面解禁中完成制度化，最后的产品线限制也被移除。这个渠道位于 [[insurance/japan-life-insurance-big-four|life big-four]] / 专门寿险公司这一产品制造端，与 [[banking/INDEX|Japanese banks]] —— 即三大行（[[megabanks/mufg-bank|MUFG]]、[[megabanks/smbc|SMBC]]、[[megabanks/mizuho-bank|Mizuho]]）、[[regional-banks/japan-post-bank|Japan Post Bank]]、[[banking/regional-bank-tier-structure|regional banks (chigin / dai-2 chigin)]]，以及 [[banking/INDEX|shinkin]] / [[cooperative-banks/norinchukin|JA Bank]] 合作金融体系这一分销柜台端之间。其产品经济学集中在少数几类适合银行渠道的产品：一次缴清终身寿险、平准缴费终身寿险、外币一次缴清年金、变额年金，以及日元一次缴清养老 / 年金产品。渠道经济学上，首年保费中的相当一部分会以手续费的形式从保险公司流向银行，对银行渠道产品来说，手续费通常是产品经济学中最大的单项成本，而保险公司端的利差 / 利润空间相应被压缩。大型银行与保险公司的关联程度，比正式交叉持股所显示的更紧，因为产品流转协议、联合产品开发，以及专门的银保子公司（[[life-insurers/dai-ichi-frontier-life|Dai-ichi Frontier Life]]、MS&AD Mitsui Sumitomo Primary Life 等）共同形成了事实上的渠道-产品配对。行为监管 —— 即 [[financial-regulators/fsa|FSA]] 反强压销售规则，涵盖高龄客户适合性、岗位分离、客户信息防火墙 —— 则构成了银行渠道销售人员“能做什么 / 不能做什么”的结构性约束。
 
 ## Wiki route
 
@@ -65,14 +65,14 @@ translated_at: 2026-05-31T07:28:06.126Z
 
 大型银行与保险公司的关系，同时包含正式的子公司 / JV 结构与较松散的商业产品流转协议：
 
-- **[[JapanFG/mufg|MUFG (Mitsubishi UFJ Financial Group)]]** —— 销售来自多家保险公司的银保产品，包括 [[JapanFG/dai-ichi-frontier-life|Dai-ichi Frontier Life]]、[[JapanFG/metlife-japan|MetLife Japan]]、[[JapanFG/manulife-japan|Manulife Japan]]、[[JapanFG/sumitomo-life|Sumitomo Life]] 等。MUFG 在更广义的三菱系中还与 [[JapanFG/tokio-marine-holdings|Tokio Marine Holdings]] 保持历史性的保险集团联系。其主要银保柜台是零售银行（[[JapanFG/mufg-bank|MUFG Bank / 三菱UFJ銀行]]）。
-- **[[JapanFG/smbc|SMBC Group]]** —— 销售包括 [[JapanFG/dai-ichi-frontier-life|Dai-ichi Frontier Life]]、[[JapanFG/metlife-japan|MetLife Japan]]、[[JapanFG/aflac-japan|Aflac Japan]] 在内多家保险公司的银保产品；SMBC Group 在母公司 Aflac Inc. 层面与 [[JapanFG/aflac-japan|Aflac Japan]] 有显著战略关系。其主要银保柜台是零售银行（[[JapanFG/smbc|Sumitomo Mitsui Banking Corporation]]）。
-- **[[JapanFG/mizuho-fg|Mizuho Financial Group]]** —— 销售包括 [[JapanFG/dai-ichi-frontier-life|Dai-ichi Frontier Life]] 在内多家保险公司的银保产品；Mizuho 通过 [[JapanFG/asset-management-one|Asset Management One]] 合资企业及产品 / 分销合作，与 [[JapanFG/dai-ichi-life|Dai-ichi Life Holdings]] 保持长期联盟。其主要银保柜台是零售银行（[[JapanFG/mizuho-bank|Mizuho Bank]]）。
-- **[[JapanFG/japan-post-bank|Japan Post Bank]]** —— 通过邮政渠道关系分销 [[JapanFG/kampo-life|Kampo Life]] 产品，也通过与日本邮便的代理安排，在邮局柜台分销其他保险公司的产品。邮政渠道是日本最大的实体网络银保柜台。
+- **[[megabanks/mufg|MUFG (Mitsubishi UFJ Financial Group)]]** —— 销售来自多家保险公司的银保产品，包括 [[life-insurers/dai-ichi-frontier-life|Dai-ichi Frontier Life]]、[[life-insurers/metlife-japan|MetLife Japan]]、[[life-insurers/manulife-japan|Manulife Japan]]、[[life-insurers/sumitomo-life|Sumitomo Life]] 等。MUFG 在更广义的三菱系中还与 [[non-life-insurers/tokio-marine-holdings|Tokio Marine Holdings]] 保持历史性的保险集团联系。其主要银保柜台是零售银行（[[megabanks/mufg-bank|MUFG Bank / 三菱UFJ銀行]]）。
+- **[[megabanks/smbc|SMBC Group]]** —— 销售包括 [[life-insurers/dai-ichi-frontier-life|Dai-ichi Frontier Life]]、[[life-insurers/metlife-japan|MetLife Japan]]、[[life-insurers/aflac-japan|Aflac Japan]] 在内多家保险公司的银保产品；SMBC Group 在母公司 Aflac Inc. 层面与 [[life-insurers/aflac-japan|Aflac Japan]] 有显著战略关系。其主要银保柜台是零售银行（[[megabanks/smbc|Sumitomo Mitsui Banking Corporation]]）。
+- **[[megabanks/mizuho-fg|Mizuho Financial Group]]** —— 销售包括 [[life-insurers/dai-ichi-frontier-life|Dai-ichi Frontier Life]] 在内多家保险公司的银保产品；Mizuho 通过 [[asset-managers/asset-management-one|Asset Management One]] 合资企业及产品 / 分销合作，与 [[life-insurers/dai-ichi-life|Dai-ichi Life Holdings]] 保持长期联盟。其主要银保柜台是零售银行（[[megabanks/mizuho-bank|Mizuho Bank]]）。
+- **[[regional-banks/japan-post-bank|Japan Post Bank]]** —— 通过邮政渠道关系分销 [[life-insurers/kampo-life|Kampo Life]] 产品，也通过与日本邮便的代理安排，在邮局柜台分销其他保险公司的产品。邮政渠道是日本最大的实体网络银保柜台。
 - **[[banking/regional-bank-tier-structure|Regional banks (chigin / dai-2 chigin)]]** —— 各地方银行通常销售多家合作保险公司的产品组合；主导产品是一次缴清终身寿险和外币年金，地方银行渠道整体上是重要的银保获客面。
-- **[[banking/INDEX|Shinkin]] / [[JapanFG/norinchukin|JA Bank (Norinchukin)]] / 劳动金库** —— 合作金融或合作金融邻近银行，向其合作成员群体分销银保；JA Bank 也在合作体系内部销售 JA 共济（见 [[insurance/ja-kyosai-zenkyoren-overview|JA Kyosai / Zenkyoren overview]]）。
+- **[[banking/INDEX|Shinkin]] / [[cooperative-banks/norinchukin|JA Bank (Norinchukin)]] / 劳动金库** —— 合作金融或合作金融邻近银行，向其合作成员群体分销银保；JA Bank 也在合作体系内部销售 JA 共济（见 [[insurance/ja-kyosai-zenkyoren-overview|JA Kyosai / Zenkyoren overview]]）。
 
-最清晰的分析框架是：大型银行-保险公司的“关联矩阵”是由产品分销协议驱动，而非股权驱动。大多数银行会销售多家保险公司的产品；大多数保险公司也会通过多家银行分销。少数正式 JV 或战略性子公司（[[JapanFG/dai-ichi-frontier-life|Dai-ichi Frontier Life]] 作为 [[JapanFG/dai-ichi-life|Dai-ichi Life Holdings]] 体系内专门的银保载体；MS&AD 内的 Mitsui Sumitomo Primary Life；Aflac-SMBC 在母公司层面的资本关系）只是印证这种“协议驱动结构”的例外。
+最清晰的分析框架是：大型银行-保险公司的“关联矩阵”是由产品分销协议驱动，而非股权驱动。大多数银行会销售多家保险公司的产品；大多数保险公司也会通过多家银行分销。少数正式 JV 或战略性子公司（[[life-insurers/dai-ichi-frontier-life|Dai-ichi Frontier Life]] 作为 [[life-insurers/dai-ichi-life|Dai-ichi Life Holdings]] 体系内专门的银保载体；MS&AD 内的 Mitsui Sumitomo Primary Life；Aflac-SMBC 在母公司层面的资本关系）只是印证这种“协议驱动结构”的例外。
 
 ## Anti-pressure-sales rules
 
@@ -147,16 +147,16 @@ translated_at: 2026-05-31T07:28:06.126Z
 - [[insurance/ja-kyosai-zenkyoren-overview]]
 - [[insurance/cooperative-insurance-system-japan]]
 - [[banking/INDEX]]
-- [[JapanFG/mufg]]
-- [[JapanFG/smbc]]
-- [[JapanFG/mizuho-fg]]
-- [[JapanFG/japan-post-bank]]
-- [[JapanFG/dai-ichi-frontier-life]]
-- [[JapanFG/metlife-japan]]
-- [[JapanFG/aflac-japan]]
-- [[JapanFG/kampo-life]]
-- [[JapanFG/legal-financial-licenses/insurance-license-and-solvency]]
-- [[JapanFG/fsa]]
+- [[megabanks/mufg]]
+- [[megabanks/smbc]]
+- [[megabanks/mizuho-fg]]
+- [[regional-banks/japan-post-bank]]
+- [[life-insurers/dai-ichi-frontier-life]]
+- [[life-insurers/metlife-japan]]
+- [[life-insurers/aflac-japan]]
+- [[life-insurers/kampo-life]]
+- [[financial-licenses/insurance-license-and-solvency]]
+- [[financial-regulators/fsa]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

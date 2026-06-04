@@ -14,7 +14,7 @@ translated_at: 2026-06-01T03:31:12.225Z
 
 BNPL in Japan is best treated as a checkout-credit boundary, not as a separate magic category. A product can look like "あと払い" while its legal / operating route touches installment sales, credit purchase intermediation, merchant acquiring, consumer screening, convenience-store repayment, wallet linkage, or money lending.
 
-Use this page with [[payments/INDEX|payments domain]], [[JapanFG/bnpl-landscape|Japan BNPL landscape]], [[JapanFG/paidy|Paidy]], [[JapanFG/installment-sales-act-2020-amendment|Installment Sales Act 2020 amendment]], [[payments/japan-card-issuer-acquirer-processor-split|card issuer / acquirer / processor split]], [[payments/credit-purchase-card-operators-japan-index|credit-purchase registry]], and [[payments/cashless-jp-landscape|cashless landscape]].
+Use this page with [[payments/INDEX|payments domain]], [[payment-firms/bnpl-landscape|Japan BNPL landscape]], [[payment-firms/paidy|Paidy]], [[card-issuers/installment-sales-act-2020-amendment|Installment Sales Act 2020 amendment]], [[payments/japan-card-issuer-acquirer-processor-split|card issuer / acquirer / processor split]], [[payments/credit-purchase-card-operators-japan-index|credit-purchase registry]], and [[payments/cashless-jp-landscape|cashless landscape]].
 
 ## Boundary Map
 
@@ -32,10 +32,10 @@ Use this page with [[payments/INDEX|payments domain]], [[JapanFG/bnpl-landscape|
 
 Japan had mature installment-sales and card-installment infrastructure before the global BNPL wave. That means BNPL competes with, and sometimes looks like:
 
-- credit-card installment / revolving products from [[JapanFG/jcb|JCB]], [[JapanFG/smbc-card|SMBC Card]], [[JapanFG/rakuten-card|Rakuten Card]], and [[JapanFG/paypay-card|PayPay Card]];
-- legacy credit / shopping-credit operators such as [[JapanFG/orico|Orico]], [[JapanFG/jaccs|JACCS]], [[JapanFG/aplus|APLUS]], and [[JapanFG/credit-saison|Credit Saison]];
-- platform checkout products such as [[JapanFG/paidy|Paidy]];
-- wallet / points ecosystems around [[JapanFG/paypay|PayPay]], [[JapanFG/rakuten-fg|Rakuten FG]], and [[JapanFG/mercari-hd|Mercari HD]].
+- credit-card installment / revolving products from [[card-issuers/jcb|JCB]], [[card-issuers/smbc-card|SMBC Card]], [[card-issuers/rakuten-card|Rakuten Card]], and [[card-issuers/paypay-card|PayPay Card]];
+- legacy credit / shopping-credit operators such as [[card-issuers/orico|Orico]], [[card-issuers/jaccs|JACCS]], [[card-issuers/aplus|APLUS]], and [[card-issuers/credit-saison|Credit Saison]];
+- platform checkout products such as [[payment-firms/paidy|Paidy]];
+- wallet / points ecosystems around [[payment-firms/paypay|PayPay]], [[payment-firms/rakuten-fg|Rakuten FG]], and [[payment-firms/mercari-hd|Mercari HD]].
 
 ## Risk Questions
 
@@ -50,9 +50,9 @@ Japan had mature installment-sales and card-installment infrastructure before th
 
 ## JapanFG Relevance
 
-- [[JapanFG/paidy|Paidy]] is the anchor because PayPal acquired it as a Japan-local BNPL platform.
-- [[JapanFG/bnpl-landscape|Japan BNPL landscape]] gives the company / market view; this page gives the legal / operating boundary.
-- [[JapanFG/orico|Orico]], [[JapanFG/jaccs|JACCS]], [[JapanFG/aplus|APLUS]], [[JapanFG/toyota-finance|Toyota Finance]], and [[JapanFG/shinsei-financial|Shinsei Financial]] are incumbent credit / installment comparison anchors.
+- [[payment-firms/paidy|Paidy]] is the anchor because PayPal acquired it as a Japan-local BNPL platform.
+- [[payment-firms/bnpl-landscape|Japan BNPL landscape]] gives the company / market view; this page gives the legal / operating boundary.
+- [[card-issuers/orico|Orico]], [[card-issuers/jaccs|JACCS]], [[card-issuers/aplus|APLUS]], [[card-issuers/toyota-finance|Toyota Finance]], and [[consumer-finance/shinsei-financial|Shinsei Financial]] are incumbent credit / installment comparison anchors.
 - [[payments/japan-card-issuer-acquirer-processor-split|Card issuer / acquirer split]] is required when BNPL is offered at the same merchant checkout as cards.
 
 ## Research Checklist
@@ -66,15 +66,15 @@ Japan had mature installment-sales and card-installment infrastructure before th
 ## Related
 
 - [[payments/INDEX]]
-- [[JapanFG/bnpl-landscape]]
-- [[JapanFG/paidy]]
-- [[JapanFG/installment-sales-act-2020-amendment]]
+- [[payment-firms/bnpl-landscape]]
+- [[payment-firms/paidy]]
+- [[card-issuers/installment-sales-act-2020-amendment]]
 - [[payments/japan-card-issuer-acquirer-processor-split]]
 - [[payments/credit-purchase-card-operators-japan-index]]
 - [[payments/psp-merchant-settlement-risk]]
 - [[payments/funds-transfer-vs-prepaid-boundary]]
-- [[JapanFG/orico]]
-- [[JapanFG/jaccs]]
+- [[card-issuers/orico]]
+- [[card-issuers/jaccs]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

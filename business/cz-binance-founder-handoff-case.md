@@ -131,11 +131,11 @@ This matters for templates:
 
 Japan VASP regulation (see [[exchanges/fsa-vasp-registration-system|FSA VASP registration system]]) operates under tighter pre-licensing rules than the US framework that Binance navigated. The CZ template is less directly applicable in Japan because:
 
-- Japanese exchanges (e.g., [[JapanFG/bitflyer|bitFlyer]], [[JapanFG/gmo-coin|GMO Coin]], [[JapanFG/bittrade|BitTrade]]) operate under FSA pre-approval; equivalent enforcement actions would typically result in license revocation, not settlement
+- Japanese exchanges (e.g., [[payment-firms/bitflyer|bitFlyer]], [[payment-firms/gmo-coin|GMO Coin]], [[payment-firms/bittrade|BitTrade]]) operate under FSA pre-approval; equivalent enforcement actions would typically result in license revocation, not settlement
 - Japan AML / FATF compliance regime more proactive — pre-settlement, license is on the line
 - Corporate-governance norms in Japan less individualized than CZ-style founder dominance
 
-However, the template informs Japan-listed crypto-adjacent operators (e.g., [[JapanFG/sbi-hd|SBI HD]]'s digital-asset exposure) about what shapes of resolution may be available globally if subsidiaries are subject to US-extraterritorial enforcement.
+However, the template informs Japan-listed crypto-adjacent operators (e.g., [[megabanks/sbi-hd|SBI HD]]'s digital-asset exposure) about what shapes of resolution may be available globally if subsidiaries are subject to US-extraterritorial enforcement.
 
 ## 9. Counterpoints
 
@@ -166,8 +166,8 @@ However, the template informs Japan-listed crypto-adjacent operators (e.g., [[Ja
 - [[exchanges/INDEX|exchanges INDEX]]
 - [[exchanges/fsa-vasp-registration-system|FSA VASP registration system]]
 - [[exchanges/global-crypto-exchange-bankruptcy-comparison|global crypto exchange bankruptcy comparison]]
-- [[JapanFG/bitflyer|bitFlyer]]
-- [[JapanFG/gmo-coin|GMO Coin]]
+- [[payment-firms/bitflyer|bitFlyer]]
+- [[payment-firms/gmo-coin|GMO Coin]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

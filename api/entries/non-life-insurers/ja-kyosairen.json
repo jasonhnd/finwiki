@@ -1,0 +1,113 @@
+{
+  "schema_version": "1.0",
+  "slug": "non-life-insurers/ja-kyosairen",
+  "source_path": "non-life-insurers/ja-kyosairen.md",
+  "url": "https://finwiki.zksc.io/non-life-insurers/ja-kyosairen",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/non-life-insurers/ja-kyosairen.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/non-life-insurers/ja-kyosairen.md",
+  "domain": "non-life-insurers",
+  "title": "JA 共済連 (全国共済農業協同組合連合会 / National Mutual Insurance Federation of Agricultural Cooperatives)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "JA 共済連 (全国共済農業協同組合連合会 / National Mutual Insurance Federation of Agricultural Cooperatives)",
+    "aliases": [
+      "JA-Kyosairen",
+      "JA共済連",
+      "全共連",
+      "全国共済農業協同組合連合会",
+      "JA Kyosai",
+      "Zenkyoren",
+      "National Mutual Insurance Federation of Agricultural Cooperatives"
+    ],
+    "domain": "non-life-insurers",
+    "created": "2026-05-24",
+    "last_updated": "2026-05-24",
+    "last_tended": "2026-05-24",
+    "review_by": "2026-11-20",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "cooperative-central",
+      "ja-group",
+      "kyosai",
+      "life-insurance",
+      "non-life-insurance"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.ja-kyosai.or.jp/",
+      "https://www.ja-kyosai.or.jp/about/",
+      "https://org.ja-group.jp/factbook/",
+      "https://org.ja-group.jp/pdf/jafactbook/jafactbook_2026.pdf",
+      "https://www.ja-kyosai.or.jp/files/2024/202407-3.pdf",
+      "農業協同組合法 (昭和 22 年法律第 132 号)",
+      "https://www.kyoeikasai.co.jp/about/know/pdf/ja.pdf"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index as the JA Group cooperative-insurance federation, parallel to 農林中央金庫 (信用) / JA 全農 (経済) / JA 全中 (代表). Read with insurance domain for cooperative-vs-stock insurance form, 共栄火災海上保険 (JA 共済連が筆頭株主) for the損保補完, and JA Bank system for the JA Group system boundary.",
+  "headings": [
+    "JA 共済連 (全国共済農業協同組合連合会 / National Mutual Insurance Federation of Agricultural Cooperatives)",
+    "Wiki route",
+    "TL;DR",
+    "1. 組織構造",
+    "共済事業 vs 保険業法 (区別) ^[extracted]",
+    "JA グループ 4 大全国連の役割分担",
+    "重要年表 ^[extracted]",
+    "主力共済商品 ^[extracted]",
+    "共済 vs 保険のチャネル",
+    "損保補完の親会社機能"
+  ],
+  "body_links": {
+    "wikilinks_count": 19,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "banking/ja-bank-system-japan",
+      "cooperative-banks/ja-shinnoren",
+      "cooperative-banks/ja-zen-noh",
+      "cooperative-banks/ja-zenchu",
+      "cooperative-banks/jf-zengyoren",
+      "cooperative-banks/norinchukin",
+      "insurance/INDEX",
+      "insurance/japan-life-insurance-big-four",
+      "insurance/mutual-vs-stock-life-insurer",
+      "life-insurers/dai-ichi-life",
+      "life-insurers/meiji-yasuda",
+      "life-insurers/nippon-life",
+      "life-insurers/sumitomo-life",
+      "non-life-insurers/kyoritsu-fire-marine",
+      "non-life-insurers/msad",
+      "non-life-insurers/sompo",
+      "non-life-insurers/tokio-marine",
+      "non-life-insurers/zenrosai"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/banking/ja-bank-system-japan",
+      "https://finwiki.zksc.io/cooperative-banks/ja-shinnoren",
+      "https://finwiki.zksc.io/cooperative-banks/ja-zen-noh",
+      "https://finwiki.zksc.io/cooperative-banks/ja-zenchu",
+      "https://finwiki.zksc.io/cooperative-banks/jf-zengyoren",
+      "https://finwiki.zksc.io/cooperative-banks/norinchukin",
+      "https://finwiki.zksc.io/insurance/INDEX",
+      "https://finwiki.zksc.io/insurance/japan-life-insurance-big-four",
+      "https://finwiki.zksc.io/insurance/mutual-vs-stock-life-insurer",
+      "https://finwiki.zksc.io/life-insurers/dai-ichi-life",
+      "https://finwiki.zksc.io/life-insurers/meiji-yasuda",
+      "https://finwiki.zksc.io/life-insurers/nippon-life",
+      "https://finwiki.zksc.io/life-insurers/sumitomo-life",
+      "https://finwiki.zksc.io/non-life-insurers/kyoritsu-fire-marine",
+      "https://finwiki.zksc.io/non-life-insurers/msad",
+      "https://finwiki.zksc.io/non-life-insurers/sompo",
+      "https://finwiki.zksc.io/non-life-insurers/tokio-marine",
+      "https://finwiki.zksc.io/non-life-insurers/zenrosai"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 5658,
+    "word_like_tokens": 906,
+    "inbound_wikilinks_count": 13,
+    "last_modified": "2026-06-04"
+  }
+}

@@ -67,14 +67,14 @@
   "body_links": {
     "wikilinks_count": 19,
     "wikilinks": [
-      "JapanFG/dbj",
-      "JapanFG/jbic",
-      "JapanFG/jfc",
-      "JapanFG/shoko-chukin",
       "banking/cooperative-banking-japan",
       "banking/credit-cooperative-registry-japan",
       "banking/japan-banking-license-tier-comparison-matrix",
       "banking/shinkin-bank-registry-japan",
+      "financial-regulators/dbj",
+      "financial-regulators/jbic",
+      "financial-regulators/jfc",
+      "financial-regulators/shoko-chukin",
       "policy-finance/INDEX",
       "policy-finance/japan-credit-guarantee-system",
       "policy-finance/japan-credit-guarantee-system\\",
@@ -88,14 +88,14 @@
       "policy-finance/national-federation-credit-guarantee-corporations"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/dbj",
-      "https://finwiki.zksc.io/JapanFG/jbic",
-      "https://finwiki.zksc.io/JapanFG/jfc",
-      "https://finwiki.zksc.io/JapanFG/shoko-chukin",
       "https://finwiki.zksc.io/banking/cooperative-banking-japan",
       "https://finwiki.zksc.io/banking/credit-cooperative-registry-japan",
       "https://finwiki.zksc.io/banking/japan-banking-license-tier-comparison-matrix",
       "https://finwiki.zksc.io/banking/shinkin-bank-registry-japan",
+      "https://finwiki.zksc.io/financial-regulators/dbj",
+      "https://finwiki.zksc.io/financial-regulators/jbic",
+      "https://finwiki.zksc.io/financial-regulators/jfc",
+      "https://finwiki.zksc.io/financial-regulators/shoko-chukin",
       "https://finwiki.zksc.io/policy-finance/INDEX",
       "https://finwiki.zksc.io/policy-finance/japan-credit-guarantee-system",
       "https://finwiki.zksc.io/policy-finance/japan-credit-guarantee-system\\",
@@ -112,9 +112,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 17008,
-    "word_like_tokens": 2684,
+    "nonspace_chars": 17099,
+    "word_like_tokens": 2691,
     "inbound_wikilinks_count": 2,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-04"
   }
 }

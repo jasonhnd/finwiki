@@ -1,0 +1,90 @@
+{
+  "schema_version": "1.0",
+  "slug": "payment-firms/recruit-mufg-business",
+  "source_path": "payment-firms/recruit-mufg-business.md",
+  "url": "https://finwiki.zksc.io/payment-firms/recruit-mufg-business",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/payment-firms/recruit-mufg-business.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/payment-firms/recruit-mufg-business.md",
+  "domain": "payment-firms",
+  "title": "リクルートMUFGビジネス",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "リクルートMUFGビジネス",
+    "aliases": [
+      "Recruit MUFG Business",
+      "株式会社リクルートMUFGビジネス",
+      "RMB",
+      "COIN+",
+      "エアウォレット"
+    ],
+    "domain": "payment-firms",
+    "created": "2026-05-21",
+    "last_updated": "2026-05-21",
+    "last_tended": "2026-05-21",
+    "review_by": "2026-11-21",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "payments",
+      "wallet",
+      "funds-transfer",
+      "MUFG",
+      "Recruit"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.recruitmufgbiz.co.jp/",
+      "https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf",
+      "https://www.recruit.co.jp/newsroom/pressrelease/2024/1213_14907.html",
+      "https://www.recruit.co.jp/newsroom/pressrelease/2025/0519_15640.html"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it with MUFG for bank-group context, funds-transfer registry for the regulatory route, and Japan code-payment competitive map for wallet competition.",
+  "headings": [
+    "リクルートMUFGビジネス",
+    "Wiki route",
+    "Overview",
+    "1. 法人・ライセンス境界",
+    "2. Business Role",
+    "3. Why This Standalone Page Matters",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 11,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "megabanks/mufg",
+      "megabanks/mufg-bank",
+      "payment-firms/au-payment",
+      "payment-firms/gmo-payment-gateway",
+      "payment-firms/merpay",
+      "payment-firms/paypay",
+      "payments/funds-transfer-service-providers-japan-index",
+      "payments/funds-transfer-vs-prepaid-boundary",
+      "payments/japan-code-payment-competitive-map",
+      "payments/prepaid-payment-instrument-issuers-japan-index"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/mufg-bank",
+      "https://finwiki.zksc.io/payment-firms/au-payment",
+      "https://finwiki.zksc.io/payment-firms/gmo-payment-gateway",
+      "https://finwiki.zksc.io/payment-firms/merpay",
+      "https://finwiki.zksc.io/payment-firms/paypay",
+      "https://finwiki.zksc.io/payments/funds-transfer-service-providers-japan-index",
+      "https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary",
+      "https://finwiki.zksc.io/payments/japan-code-payment-competitive-map",
+      "https://finwiki.zksc.io/payments/prepaid-payment-instrument-issuers-japan-index"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3009,
+    "word_like_tokens": 495,
+    "inbound_wikilinks_count": 11,
+    "last_modified": "2026-06-04"
+  }
+}

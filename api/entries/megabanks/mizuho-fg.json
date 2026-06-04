@@ -1,0 +1,89 @@
+{
+  "schema_version": "1.0",
+  "slug": "megabanks/mizuho-fg",
+  "source_path": "megabanks/mizuho-fg.md",
+  "url": "https://finwiki.zksc.io/megabanks/mizuho-fg",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/megabanks/mizuho-fg.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/megabanks/mizuho-fg.md",
+  "domain": "megabanks",
+  "title": "みずほ FG (Mizuho FG)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "みずほ FG (Mizuho FG)",
+    "aliases": [
+      "Mizuho FG",
+      "Mizuho Financial Group",
+      "みずほフィナンシャルグループ",
+      "みずほ FG",
+      "MHFG"
+    ],
+    "domain": "megabanks",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
+    "review_by": "2026-11-15",
+    "confidence": "certain",
+    "tags": [
+      "JapanFG",
+      "megabank"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: みずほフィナンシャルグループ (2026-05-19 抽出)",
+      "Wikipedia: みずほ銀行 (2026-05-19 抽出)",
+      "みずほ FG 第 23 期 (2025-03 期) 有価証券報告書",
+      "みずほ FG「中期経営計画 2024-2026」(2024-05 公表)",
+      "日本経済新聞「PayPay証券を連結子会社に PayPay、出資比率75%へ」(2025-02): https://www.nikkei.com/article/DGXZQOUB102E20Q5A210C2000000/",
+      "日本経済新聞「みずほ銀行が広告ビジネス、サイバーエージェントと提携」(2024-01): https://www.nikkei.com/article/DGXZQOUB256360V20C24A1000000/",
+      "Yahoo!ニュース/ABEMA TIMES「メガバンク初 みずほ銀行が対話型AIを業務に導入」(2023): https://news.yahoo.co.jp/articles/51973b383cf6057abe0cb43e1aa87a4c64d27bd5"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 三菱 UFJ FG (MUFG) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "みずほ FG (Mizuho FG)",
+    "Wiki route",
+    "TL;DR",
+    "1. 会社概要",
+    "2025-03 期決算（連結）^[extracted]",
+    "主要株主（2025-03-31）^[extracted]",
+    "主要子会社・持分",
+    "合併経緯・前身",
+    "重要年表（抜粋）^[extracted]",
+    "2. 事業セグメント・マップ"
+  ],
+  "body_links": {
+    "wikilinks_count": 10,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "banking/INDEX",
+      "banking/mercari-bank-license-stack",
+      "banking/minna-bank-baas-model",
+      "megabanks/mufg",
+      "mufg",
+      "ndfg",
+      "paypay-fg",
+      "sbi-hd",
+      "smfg"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/banking/mercari-bank-license-stack",
+      "https://finwiki.zksc.io/banking/minna-bank-baas-model",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/ndfg",
+      "https://finwiki.zksc.io/paypay-fg",
+      "https://finwiki.zksc.io/sbi-hd",
+      "https://finwiki.zksc.io/smfg"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 7617,
+    "word_like_tokens": 1384,
+    "inbound_wikilinks_count": 103,
+    "last_modified": "2026-06-04"
+  }
+}

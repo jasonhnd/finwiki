@@ -11,7 +11,7 @@ translated_at: 2026-06-03T00:53:08.272Z
 
 ## 要約
 
-**リパッケージ債（repack）**は、[[structured-finance/spv-tk-gk-vehicle-japan-tax|SPV]]が基礎となる債務資産（債券、ローン、債券バスケット）を購入し、デリバティブの上乗せ（通貨スワップ、金利スワップ、ときにクレジットデフォルトスワップ）を組み合わせ、通貨、クーポン構造、満期、信用プロファイルの異なる新たなノートを投資家に再発行するストラクチャードクレジット商品である。日本市場には、**機関投資家向けリパック**（通常は大口で、メガバンク系証券や外資系投資銀行が日本の生命保険会社、地域銀行、[[JapanFG/japan-post-bank|JPost]]、年金基金、資産運用会社に販売し、例えば USD 社債を JPY 固定利付債に転換する）と、**個人向けリパック**（小口で、[[JapanFG/nomura-securities|Nomura]]、[[JapanFG/daiwa-securities|Daiwa]]、地域証券会社の個人向け証券ネットワークを通じて販売される。通常は FX や金利トリガーに連動する高クーポン債で、新興国ソブリン債を基礎資産に含むことが多い）がある。ディーラーフランチャイズは、**日本のメガバンク系証券子会社**（[[JapanFG/mufg-securities|MUFG MS]]、[[JapanFG/smbc-nikko|SMBC Nikko]]、[[JapanFG/mizuho-securities|Mizuho Securities]]）と、歴史的に日本でリパック事業を生み出した **外資系投資銀行**（Goldman、Morgan Stanley、J.P. Morgan、Citi、BNP Paribas など）に分かれる。
+**リパッケージ債（repack）**は、[[structured-finance/spv-tk-gk-vehicle-japan-tax|SPV]]が基礎となる債務資産（債券、ローン、債券バスケット）を購入し、デリバティブの上乗せ（通貨スワップ、金利スワップ、ときにクレジットデフォルトスワップ）を組み合わせ、通貨、クーポン構造、満期、信用プロファイルの異なる新たなノートを投資家に再発行するストラクチャードクレジット商品である。日本市場には、**機関投資家向けリパック**（通常は大口で、メガバンク系証券や外資系投資銀行が日本の生命保険会社、地域銀行、[[regional-banks/japan-post-bank|JPost]]、年金基金、資産運用会社に販売し、例えば USD 社債を JPY 固定利付債に転換する）と、**個人向けリパック**（小口で、[[securities-firms/nomura-securities|Nomura]]、[[securities-firms/daiwa-securities|Daiwa]]、地域証券会社の個人向け証券ネットワークを通じて販売される。通常は FX や金利トリガーに連動する高クーポン債で、新興国ソブリン債を基礎資産に含むことが多い）がある。ディーラーフランチャイズは、**日本のメガバンク系証券子会社**（[[securities-firms/mufg-securities|MUFG MS]]、[[securities-firms/smbc-nikko|SMBC Nikko]]、[[securities-firms/mizuho-securities|Mizuho Securities]]）と、歴史的に日本でリパック事業を生み出した **外資系投資銀行**（Goldman、Morgan Stanley、J.P. Morgan、Citi、BNP Paribas など）に分かれる。
 
 ## ウィキ上の位置づけ
 
@@ -89,13 +89,13 @@ translated_at: 2026-06-03T00:53:08.272Z
 **外資系投資銀行**（Goldman、Morgan Stanley、J.P. Morgan、Citi、BNP Paribas、Société Générale など）は、歴史的に日本におけるリパックフランチャイズの創始者であった。商品を可能にしたストラクチャリング専門性、デリバティブインフラ、クロスカレンシースワップ供給力を持ち込んだ。
 
 **日本のメガバンク系証券子会社**は、時間をかけてリパック事業を構築した。
-- [[JapanFG/mufg-securities|MUFG Morgan Stanley Securities]]（合弁）
-- [[JapanFG/smbc-nikko|SMBC Nikko Securities]]
-- [[JapanFG/mizuho-securities|Mizuho Securities]]
+- [[securities-firms/mufg-securities|MUFG Morgan Stanley Securities]]（合弁）
+- [[securities-firms/smbc-nikko|SMBC Nikko Securities]]
+- [[securities-firms/mizuho-securities|Mizuho Securities]]
 
 現在の分担はおおむね次のとおり。
 - 機関投資家向けリパック: 外資系 IB はクロスカレンシーの複雑案件で強い。日本のメガバンク証券は、より単純な機関投資家向け再組成とリレーション主導の販売で強い。
-- 個人向けリパック: 日本の証券会社（[[JapanFG/nomura-securities|Nomura]]、[[JapanFG/daiwa-securities|Daiwa]]、地域証券）が販売を主導する。
+- 個人向けリパック: 日本の証券会社（[[securities-firms/nomura-securities|Nomura]]、[[securities-firms/daiwa-securities|Daiwa]]、地域証券）が販売を主導する。
 
 ## 5. SPV / 法的構造
 
@@ -154,7 +154,7 @@ translated_at: 2026-06-03T00:53:08.272Z
 
 ## 10. 未解決の論点
 
-- [[JapanFG/boj|BOJ]]の金利正常化下での個人向けリパック市場の規模。国内利回りの上昇が高クーポン個人向け構造への需要を減らすか。
+- [[financial-regulators/boj|BOJ]]の金利正常化下での個人向けリパック市場の規模。国内利回りの上昇が高クーポン個人向け構造への需要を減らすか。
 - ESG リンク型リパック（例：グリーンボンドを基礎資産として円建てに再組成するもの）が意味あるシェアを得るか。
 - 日本のリパックにおける外資系 IB と国内メガバンク証券の市場シェア推移。
 - [[structured-finance/credit-rating-methodology-jcr-r-and-i|JCR / R&I]]とグローバル格付会社の手法差がリパック発行経済性に影響するか。
@@ -170,8 +170,8 @@ translated_at: 2026-06-03T00:53:08.272Z
 - [[derivatives/japan-cds-market-overview|Japan CDS market overview]]
 - [[finance/INDEX|finance index]]
 - [[real-estate-finance/INDEX|real-estate-finance index]]
-- [[JapanFG/mufg|MUFG]] ・ [[JapanFG/smfg|SMFG]] ・ [[JapanFG/mizuho-fg|Mizuho FG]]
-- [[JapanFG/japan-post-bank|Japan Post Bank]] ・ [[JapanFG/japan-exchange-group|JPX]]
+- [[megabanks/mufg|MUFG]] ・ [[megabanks/smfg|SMFG]] ・ [[megabanks/mizuho-fg|Mizuho FG]]
+- [[regional-banks/japan-post-bank|Japan Post Bank]] ・ [[financial-regulators/japan-exchange-group|JPX]]
 
 ## 出典
 

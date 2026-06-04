@@ -90,9 +90,9 @@ DPU yields are date-specific. The relative ordering reflects sponsor premium / d
 
 | Trustee (typical role) | J-REIT examples (where disclosed) |
 |---|---|
-| [[JapanFG/mitsubishi-ufj-trust-bank\|Mitsubishi UFJ Trust Bank]] | Multiple — appears in many J-REIT trustee disclosures |
-| [[JapanFG/sumitomo-mitsui-trust\|Sumitomo Mitsui Trust Bank (SMTB)]] | Multiple |
-| [[JapanFG/mizuho-trust-bank\|Mizuho Trust Bank]] | Multiple |
+| [[trust-banks/mitsubishi-ufj-trust-bank\|Mitsubishi UFJ Trust Bank]] | Multiple — appears in many J-REIT trustee disclosures |
+| [[trust-banks/sumitomo-mitsui-trust\|Sumitomo Mitsui Trust Bank (SMTB)]] | Multiple |
+| [[trust-banks/mizuho-trust-bank\|Mizuho Trust Bank]] | Multiple |
 
 The trustee role is a custody / asset-administration function separate from sponsor identity. The same trust bank can be trustee for many different sponsor groups. This is the same custody-operating-layer pattern covered in [[banking/trust-bank-custody-operating-comparison|trust bank custody operating comparison]].
 
@@ -133,8 +133,8 @@ When reading this matrix, the more useful axes for analysis are:
 - [[insurance/INDEX|insurance index]]
 - [[retail/aeon-group|AEON Group]]
 - [[retail/seven-and-i-hd|Seven & i HD]]
-- [[JapanFG/mitsubishi-ufj-trust-bank|Mitsubishi UFJ Trust Bank]]
-- [[JapanFG/sumitomo-mitsui-trust|SMTB]]
+- [[trust-banks/mitsubishi-ufj-trust-bank|Mitsubishi UFJ Trust Bank]]
+- [[trust-banks/sumitomo-mitsui-trust|SMTB]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

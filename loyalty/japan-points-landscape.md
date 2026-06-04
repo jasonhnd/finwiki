@@ -40,13 +40,13 @@ The key split is:
 
 | Program | Sponsor / ecosystem | Core role | Finance adjacency |
 |---|---|---|---|
-| Rakuten Point | Rakuten Group | EC + card + bank + securities + mobile flywheel | [[JapanFG/rakuten-fg|Rakuten FG]], Rakuten Card, Rakuten Bank, Rakuten Securities |
-| V Point | CCCMK / SMBC Card alliance after T Point + V Point integration | Common points + SMBC credit-card and Olive adjacency · see [[loyalty/v-point-smbc-ccc-case|V Point (SMBC × CCC) case]] for the 2024-04-22 unification detail and [[loyalty/point-liability-accounting-boundary|point liability accounting boundary]] for breakage / IFRS 15 treatment | [[JapanFG/smfg|SMFG]], SMBC Card, retail partners |
-| d Point | NTT docomo | Telco ID + d払い + d Card + planned [[JapanFG/ndfg|NDFG]] financial consolidation | NTT docomo finance, d Card, d払い, bank / securities / insurance route |
-| PayPay Point | PayPay / SoftBank / LY | Code-payment frequency and campaign economics | [[JapanFG/paypay-fg|PayPay FG]], PayPay Card, PayPay Bank, PayPay Securities |
-| WAON POINT | AEON | Mall / supermarket / AEON Card / WAON retention | [[retail/aeon-group|Aeon Group]], [[JapanFG/aeon-bank|Aeon Bank / AFS]] |
-| nanaco point | Seven & i | Convenience / supermarket / nanaco / Seven Card retention | [[retail/seven-and-i-hd|Seven & i]], [[JapanFG/seven-bank|Seven Bank]] |
-| Credit card points | JCB, SMBC, MUFG, Saison, AEON, Rakuten, PayPay Card | Issuer loyalty and interchange-defense layer | [[JapanFG/jcb|JCB]], [[JapanFG/credit-saison|Credit Saison]] |
+| Rakuten Point | Rakuten Group | EC + card + bank + securities + mobile flywheel | [[payment-firms/rakuten-fg|Rakuten FG]], Rakuten Card, Rakuten Bank, Rakuten Securities |
+| V Point | CCCMK / SMBC Card alliance after T Point + V Point integration | Common points + SMBC credit-card and Olive adjacency · see [[loyalty/v-point-smbc-ccc-case|V Point (SMBC × CCC) case]] for the 2024-04-22 unification detail and [[loyalty/point-liability-accounting-boundary|point liability accounting boundary]] for breakage / IFRS 15 treatment | [[megabanks/smfg|SMFG]], SMBC Card, retail partners |
+| d Point | NTT docomo | Telco ID + d払い + d Card + planned [[megabanks/ndfg|NDFG]] financial consolidation | NTT docomo finance, d Card, d払い, bank / securities / insurance route |
+| PayPay Point | PayPay / SoftBank / LY | Code-payment frequency and campaign economics | [[megabanks/paypay-fg|PayPay FG]], PayPay Card, PayPay Bank, PayPay Securities |
+| WAON POINT | AEON | Mall / supermarket / AEON Card / WAON retention | [[retail/aeon-group|Aeon Group]], [[card-issuers/aeon-bank|Aeon Bank / AFS]] |
+| nanaco point | Seven & i | Convenience / supermarket / nanaco / Seven Card retention | [[retail/seven-and-i-hd|Seven & i]], [[regional-banks/seven-bank|Seven Bank]] |
+| Credit card points | JCB, SMBC, MUFG, Saison, AEON, Rakuten, PayPay Card | Issuer loyalty and interchange-defense layer | [[card-issuers/jcb|JCB]], [[card-issuers/credit-saison|Credit Saison]] |
 
 ## Legal / Accounting Boundary
 
@@ -72,7 +72,7 @@ Points work because they compress four systems into one user behavior:
 
 ### Rakuten
 
-Rakuten Point is the clearest full-ecosystem loop: shopping earns points, card spend earns points, points can subsidize future shopping or mobile bills, and financial products reinforce the same account graph. This is why [[JapanFG/rakuten-fg|Rakuten FG]] should be read as a distribution system, not just a finance segment.
+Rakuten Point is the clearest full-ecosystem loop: shopping earns points, card spend earns points, points can subsidize future shopping or mobile bills, and financial products reinforce the same account graph. This is why [[payment-firms/rakuten-fg|Rakuten FG]] should be read as a distribution system, not just a finance segment.
 
 ### V Point / SMBC
 
@@ -80,7 +80,7 @@ The 2024 integration of T Point and SMBC V Point created a stronger common-point
 
 ### d Point / NDFG
 
-d Point is central to the [[JapanFG/ndfg|NDFG]] thesis because telco identity can route users into payment, card, bank, securities, insurance, and subscription bundles. The open question is whether NTT can convert points into a financial super-app without losing clarity.
+d Point is central to the [[megabanks/ndfg|NDFG]] thesis because telco identity can route users into payment, card, bank, securities, insurance, and subscription bundles. The open question is whether NTT can convert points into a financial super-app without losing clarity.
 
 ### WAON / nanaco
 
@@ -91,10 +91,10 @@ WAON and nanaco are retail-operating systems first. They bind daily grocery / co
 | JapanFG question | Point-layer answer |
 |---|---|
 | Which financial groups can lower acquisition cost? | The groups that already own a high-frequency point account. |
-| Which retail banks have a daily-use wedge? | [[JapanFG/aeon-bank|Aeon Bank]] and [[JapanFG/seven-bank|Seven Bank]] through WAON / nanaco and store traffic. |
-| Which telco finance group has the best cross-sell base? | [[JapanFG/ndfg|NDFG]] if d Point + d払い + d Card are integrated cleanly. |
-| Which PSPs benefit indirectly? | [[JapanFG/gmo-payment-gateway|GMO Payment Gateway]] and other PSPs because merchants need multi-payment acceptance and campaign routing. |
-| Which legal page should be checked? | [[JapanFG/legal-financial-licenses/INDEX|legal / financial licenses]] when a point becomes cash-like or transferable. |
+| Which retail banks have a daily-use wedge? | [[card-issuers/aeon-bank|Aeon Bank]] and [[regional-banks/seven-bank|Seven Bank]] through WAON / nanaco and store traffic. |
+| Which telco finance group has the best cross-sell base? | [[megabanks/ndfg|NDFG]] if d Point + d払い + d Card are integrated cleanly. |
+| Which PSPs benefit indirectly? | [[payment-firms/gmo-payment-gateway|GMO Payment Gateway]] and other PSPs because merchants need multi-payment acceptance and campaign routing. |
+| Which legal page should be checked? | [[financial-licenses/INDEX|legal / financial licenses]] when a point becomes cash-like or transferable. |
 
 ## Related
 
@@ -102,12 +102,12 @@ WAON and nanaco are retail-operating systems first. They bind daily grocery / co
 - [[payments/cashless-jp-landscape|Japan cashless payment landscape]]
 - [[retail/aeon-group|Aeon Group]]
 - [[retail/seven-and-i-hd|Seven & i]]
-- [[JapanFG/ndfg|NDFG]]
-- [[JapanFG/rakuten-fg|Rakuten FG]]
-- [[JapanFG/paypay-fg|PayPay FG]]
-- [[JapanFG/aeon-bank|Aeon Bank / AFS]]
-- [[JapanFG/seven-bank|Seven Bank]]
-- [[JapanFG/legal-financial-licenses/INDEX|JapanFG legal / financial licenses]]
+- [[megabanks/ndfg|NDFG]]
+- [[payment-firms/rakuten-fg|Rakuten FG]]
+- [[megabanks/paypay-fg|PayPay FG]]
+- [[card-issuers/aeon-bank|Aeon Bank / AFS]]
+- [[regional-banks/seven-bank|Seven Bank]]
+- [[financial-licenses/INDEX|JapanFG legal / financial licenses]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

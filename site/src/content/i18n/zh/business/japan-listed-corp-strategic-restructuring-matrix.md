@@ -36,7 +36,7 @@ translated_at: 2026-05-30T16:08:36.698Z
 - **Sony Group → Sony Financial Group 部分分拆(2026)**——在 2023修订制度下的国内模板**带税款递延的部分分拆**,并将 SFG 作为独立公司公开上市。参见 [[business/sony-fg-partial-spinoff-case|Sony FG partial spinoff case]]。
 - **SoftBank Group → Arm Holdings IPO(2023-09)**——在纳斯达克的跨境 IPO,母公司保留多数股权。参见 [[business/softbank-vision-fund-arm-ipo-template|SoftBank Vision Fund Arm IPO template]]。
 - **东芝 → Japan Industrial Partners(JIP)私有化(2023)**——TOB + squeeze-out + 退市;国内 PE 主导。参见 [[corporate-strategy/toshiba-tob-squeeze-out-2023-2024-case|Toshiba TOB squeeze-out 2023-2024 case]]。
-- **Rakuten Group → 移动金融重组**——内部集团重组([[banking/rakuten-bank|Rakuten Bank]] 的再 IPO 2023-04;[[JapanFG/rakuten-securities|Rakuten Securities]] 少数股 IPO 流程与逆转;跨 [[business/rakuten-group-mobile-finance-bundling-case|Rakuten Group mobile-finance]] 集群的注资交叉补贴)。
+- **Rakuten Group → 移动金融重组**——内部集团重组([[banking/rakuten-bank|Rakuten Bank]] 的再 IPO 2023-04;[[securities-firms/rakuten-securities|Rakuten Securities]] 少数股 IPO 流程与逆转;跨 [[business/rakuten-group-mobile-finance-bundling-case|Rakuten Group mobile-finance]] 集群的注资交叉补贴)。
 - **日立 → 日立 Astemo 剥离**——与本田汽车的合资;向 JIP / Bain 部分出售;最终 IPO 轨迹。
 - **夏普 ← 富士康私有化(2016)**——经由要约加第三方分配的外国战略私有化(作为载体比较的 2010年代案例引用)。
 - **奥林巴斯 → 相机业务分拆(2020-2021)**——经由会社分割(kaisha bunkatsu)将相机业务出售给 JIP;转移至 OM Digital Solutions。
@@ -206,8 +206,8 @@ translated_at: 2026-05-30T16:08:36.698Z
 - [[securities/japan-ipo-2024-2025-case-study-kioxia-tokyo-metro]]
 - [[securities/japan-ipo-listing-disclosure-route]]
 - [[banking/rakuten-bank]]
-- [[JapanFG/sony-fg]]
-- [[JapanFG/rakuten-securities]]
+- [[megabanks/sony-fg]]
+- [[securities-firms/rakuten-securities]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

@@ -13,7 +13,7 @@ translated_at: 2026-06-03T00:53:08.344Z
 
 日本の空売りは、法的な空売り規制、借株 / 証券金融の利用可能性、取引所 / 証券会社による銘柄別規制という三つの管理面で成り立つ。空売り残高、JSF 貸付残高、信用売り、証券貸借を一つの数値として扱ってはならない。
 
-このページは、[[securities/INDEX|securities domain]]、[[securities/japan-margin-trading-and-securities-finance|margin trading and securities finance]]、[[securities/japan-stock-lending-market-route|stock lending market route]]、[[JapanFG/japan-securities-finance|Japan Securities Finance]]、[[securities/japan-best-execution-sor-pts|best execution / SOR / PTS]]、[[securities/japan-pts-liquidity-data-guide|PTS liquidity data guide]]、[[securities/tokyo-stock-exchange|Tokyo Stock Exchange]] とあわせて読む。
+このページは、[[securities/INDEX|securities domain]]、[[securities/japan-margin-trading-and-securities-finance|margin trading and securities finance]]、[[securities/japan-stock-lending-market-route|stock lending market route]]、[[financial-regulators/japan-securities-finance|Japan Securities Finance]]、[[securities/japan-best-execution-sor-pts|best execution / SOR / PTS]]、[[securities/japan-pts-liquidity-data-guide|PTS liquidity data guide]]、[[securities/tokyo-stock-exchange|Tokyo Stock Exchange]] とあわせて読む。
 
 ## 管理レイヤー
 
@@ -23,7 +23,7 @@ translated_at: 2026-06-03T00:53:08.344Z
 | 価格規制 | 銘柄別条件を満たしたときに発動する空売り価格規制。 | JPX 空売り規制。 |
 | 裸売り禁止 | 保有または借入手当のない売却を制限する。 | FSA 空売り規制措置。 |
 | 空売りポジション報告 | 閾値を超える大口空売りポジションは報告 / 開示経路が必要。 | FSA 空売り規制措置と取引所開示。 |
-| 借株の利用可能性 | 借入株式は、信用 / 貸借取引、証券貸借、相対借入から来る。 | [[JapanFG/japan-securities-finance|JSF]]、証券会社、機関投資家の貸し手。 |
+| 借株の利用可能性 | 借入株式は、信用 / 貸借取引、証券貸借、相対借入から来る。 | [[financial-regulators/japan-securities-finance|JSF]]、証券会社、機関投資家の貸し手。 |
 | 銘柄別信用取引規制 | TSE / JSF は信用取引または信用取引貸付を制限できる。 | JPX 信用取引規制、JSF 通知。 |
 
 ## データマップ
@@ -43,9 +43,9 @@ translated_at: 2026-06-03T00:53:08.344Z
 
 ## JapanFG 上の重要性
 
-- [[JapanFG/japan-securities-finance|Japan Securities Finance]] は、制度信用 / 貸借取引支援の中心機関である。
-- [[JapanFG/sbi-securities|SBI Securities]]、[[JapanFG/rakuten-securities|Rakuten Securities]]、[[JapanFG/matsui-sec|Matsui Securities]]、[[JapanFG/gmo-click-securities|GMO Click Securities]]、[[JapanFG/dmm-com-securities|DMM.com Securities]] は、個人の信用取引とアクティブトレーダーのフローに重要である。
-- [[JapanFG/nomura-hd|Nomura]]、[[JapanFG/daiwa-sg|Daiwa Securities Group]]、[[JapanFG/smbc-nikko|SMBC Nikko]]、[[JapanFG/mizuho-securities|Mizuho Securities]]、[[JapanFG/mufg-mums|MUMSS]] は、機関投資家の貸株、プライムブローカレッジ隣接領域、引受 / ヘッジフローに重要である。
+- [[financial-regulators/japan-securities-finance|Japan Securities Finance]] は、制度信用 / 貸借取引支援の中心機関である。
+- [[securities-firms/sbi-securities|SBI Securities]]、[[securities-firms/rakuten-securities|Rakuten Securities]]、[[securities-firms/matsui-sec|Matsui Securities]]、[[securities-firms/gmo-click-securities|GMO Click Securities]]、[[securities-firms/dmm-com-securities|DMM.com Securities]] は、個人の信用取引とアクティブトレーダーのフローに重要である。
+- [[securities-firms/nomura-hd|Nomura]]、[[securities-firms/daiwa-sg|Daiwa Securities Group]]、[[securities-firms/smbc-nikko|SMBC Nikko]]、[[securities-firms/mizuho-securities|Mizuho Securities]]、[[securities-firms/mufg-mums|MUMSS]] は、機関投資家の貸株、プライムブローカレッジ隣接領域、引受 / ヘッジフローに重要である。
 - [[securities/japan-best-execution-sor-pts|Best execution / SOR / PTS]] は、空売り管理が市場選択と相互作用するときに重要である。
 
 ## 調査チェックリスト
@@ -61,7 +61,7 @@ translated_at: 2026-06-03T00:53:08.344Z
 - [[securities/INDEX]]
 - [[securities/japan-margin-trading-and-securities-finance]]
 - [[securities/japan-stock-lending-market-route]]
-- [[JapanFG/japan-securities-finance]]
+- [[financial-regulators/japan-securities-finance]]
 - [[securities/tokyo-stock-exchange]]
 - [[securities/japan-best-execution-sor-pts]]
 - [[securities/japan-pts-liquidity-data-guide]]

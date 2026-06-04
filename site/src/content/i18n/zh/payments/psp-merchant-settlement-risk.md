@@ -14,7 +14,7 @@ translated_at: 2026-06-01T03:31:12.226Z
 
 商户 PSP 风险是结账成功和最终资金流动之间的风险：商户入职、卡号处理、欺诈监控、退款、准备金、结算时间、退款以及平台或钱包故障。在日本，分析必须结合 METI 的卡号处理/商户签约路线、FSA 资金转移注册、预付金额规则以及支付品牌/网络合同。
 
-使用 [[payments/card-acquiring-japan-stack|Japan card acquiring stack]]、[[payments/funds-transfer-service-providers-japan-index|funds-transfer registry]] 和 [[payments/japan-code-payment-competitive-map|code-payment competitive map]] 阅读本页。当商家风险是真正的主题时，[[JapanFG/gmo-payment-gateway|GMO-PG]]、[[JapanFG/sb-payment-service|SBPS]]、[[JapanFG/dg-financial-technology|DGFT]] 和 [[JapanFG/netstars|Netstars]] 等公司页面链接到此处。
+使用 [[payments/card-acquiring-japan-stack|Japan card acquiring stack]]、[[payments/funds-transfer-service-providers-japan-index|funds-transfer registry]] 和 [[payments/japan-code-payment-competitive-map|code-payment competitive map]] 阅读本页。当商家风险是真正的主题时，[[payment-firms/gmo-payment-gateway|GMO-PG]]、[[payment-firms/sb-payment-service|SBPS]]、[[payment-firms/dg-financial-technology|DGFT]] 和 [[payment-firms/netstars|Netstars]] 等公司页面链接到此处。
 
 ## 风险堆栈
 
@@ -42,11 +42,11 @@ translated_at: 2026-06-01T03:31:12.226Z
 
 | 操作员类型 | 示例 | 主要问题 |
 |---|---|---|
-| 上市卡/PSP 基础设施 | [[JapanFG/gmo-payment-gateway|GMO-PG]] | 网关服务、商户结算、借贷或增值工具的风险有多大？ |
-| 电信/团体PSP | [[JapanFG/sb-payment-service|SBPS]] | PayPay/软银分销如何影响商户获取和风控？ |
-| 旧版/企业 PSP | [[JapanFG/dg-financial-technology|DGFT]] | 企业商户品质如何改变拒付和结算风险？ |
-| 二维码网关 | [[JapanFG/netstars|Netstars]] | 多个代码支付品牌如何在商户端协调和控制？ |
-| 钱包/资金转账运营商 | [[JapanFG/paypay|PayPay]]、[[JapanFG/merpay|Merpay]]、[[JapanFG/recruit-mufg-business|Recruit MUFG Business]] | 运营商是否承担余额/转账/支付风险，还是仅承担路由接受风险？ |
+| 上市卡/PSP 基础设施 | [[payment-firms/gmo-payment-gateway|GMO-PG]] | 网关服务、商户结算、借贷或增值工具的风险有多大？ |
+| 电信/团体PSP | [[payment-firms/sb-payment-service|SBPS]] | PayPay/软银分销如何影响商户获取和风控？ |
+| 旧版/企业 PSP | [[payment-firms/dg-financial-technology|DGFT]] | 企业商户品质如何改变拒付和结算风险？ |
+| 二维码网关 | [[payment-firms/netstars|Netstars]] | 多个代码支付品牌如何在商户端协调和控制？ |
+| 钱包/资金转账运营商 | [[payment-firms/paypay|PayPay]]、[[payment-firms/merpay|Merpay]]、[[payment-firms/recruit-mufg-business|Recruit MUFG Business]] | 运营商是否承担余额/转账/支付风险，还是仅承担路由接受风险？ |
 
 ## 实用阅读规则
 
@@ -63,8 +63,8 @@ translated_at: 2026-06-01T03:31:12.226Z
 - [[payments/funds-transfer-service-providers-japan-index]]
 - [[payments/prepaid-payment-instrument-issuers-japan-index]]
 - [[payments/japan-code-payment-competitive-map]]
-- [[JapanFG/netstars]]
-- [[JapanFG/gmo-payment-gateway]]
+- [[payment-firms/netstars]]
+- [[payment-firms/gmo-payment-gateway]]
 
 ## 来源
 

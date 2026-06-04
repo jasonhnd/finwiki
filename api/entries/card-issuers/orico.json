@@ -1,0 +1,96 @@
+{
+  "schema_version": "1.0",
+  "slug": "card-issuers/orico",
+  "source_path": "card-issuers/orico.md",
+  "url": "https://finwiki.zksc.io/card-issuers/orico",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/card-issuers/orico.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/card-issuers/orico.md",
+  "domain": "card-issuers",
+  "title": "株式会社オリエントコーポレーション (Orico)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "株式会社オリエントコーポレーション (Orico)",
+    "aliases": [
+      "Orico",
+      "オリコ",
+      "オリエントコーポレーション",
+      "Orient Corporation",
+      "Orient Corp.",
+      "株式会社オリエントコーポレーション"
+    ],
+    "domain": "card-issuers",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "credit-card",
+      "installment"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: 株式会社オリエントコーポレーション (公開情報、2026-05-19 参照)",
+      "Orico 公式コーポレートサイト 会社概要・沿革 (公開情報)",
+      "Orico IR: 株式の状況 (大株主) https://www.orico.co.jp/company/ir/stock/information/",
+      "日本経済新聞: みずほ、オリコ株の一部をアイフル親会社に売却 3社で業務提携 (2026-05-15) https://www.nikkei.com/article/DGXZQOUB150RE0V10C26A5000000/"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 株式会社ジャックス (Jaccs) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "株式会社オリエントコーポレーション (Orico)",
+    "Wiki route",
+    "TL;DR",
+    "1. 会社概要",
+    "社名・略称の由来",
+    "主要株主 (公開情報ベース) ^[extracted]",
+    "重要年表 ^[extracted]",
+    "2. 事業セグメント・マップ",
+    "コア差別化",
+    "国内競合構図"
+  ],
+  "body_links": {
+    "wikilinks_count": 14,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "aeon-bank",
+      "au-fh",
+      "banking/INDEX",
+      "card-issuers/jaccs",
+      "jaccs",
+      "jcb",
+      "mizuho-fg",
+      "mufg",
+      "ndfg",
+      "paidy",
+      "paypay-fg",
+      "rakuten-fg",
+      "smfg"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/aeon-bank",
+      "https://finwiki.zksc.io/au-fh",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/card-issuers/jaccs",
+      "https://finwiki.zksc.io/jaccs",
+      "https://finwiki.zksc.io/jcb",
+      "https://finwiki.zksc.io/mizuho-fg",
+      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/ndfg",
+      "https://finwiki.zksc.io/paidy",
+      "https://finwiki.zksc.io/paypay-fg",
+      "https://finwiki.zksc.io/rakuten-fg",
+      "https://finwiki.zksc.io/smfg"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 5658,
+    "word_like_tokens": 876,
+    "inbound_wikilinks_count": 30,
+    "last_modified": "2026-06-04"
+  }
+}

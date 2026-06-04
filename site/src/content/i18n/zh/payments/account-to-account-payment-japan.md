@@ -13,7 +13,7 @@ translated_at: 2026-06-01T03:31:12.301Z
 
 日本账户到账户支付位于传统银行转账、钱包余额、银行卡收单和码支付之间。核心控制问题是：**价值是直接从存款账户移动，还是经过资金转移 / 预付余额，或经过商户收单 / 卡网络层？**
 
-请将本页与[[payments/INDEX|支付领域]]、[[payments/funds-transfer-vs-prepaid-boundary|资金转移与预付边界]]、[[payments/funds-transfer-service-providers-japan-index|资金转移业者名录]]、[[payments/japan-code-payment-competitive-map|码支付竞争地图]]、[[banking/quick-deposit-four-methods|快速入金方法]]和[[JapanFG/legal-financial-licenses/INDEX|JapanFG 法律 / 金融牌照]]一起使用。
+请将本页与[[payments/INDEX|支付领域]]、[[payments/funds-transfer-vs-prepaid-boundary|资金转移与预付边界]]、[[payments/funds-transfer-service-providers-japan-index|资金转移业者名录]]、[[payments/japan-code-payment-competitive-map|码支付竞争地图]]、[[banking/quick-deposit-four-methods|快速入金方法]]和[[financial-licenses/INDEX|JapanFG 法律 / 金融牌照]]一起使用。
 
 ## 支付轨道地图
 
@@ -32,8 +32,8 @@ translated_at: 2026-06-01T03:31:12.301Z
 
 对 FinWiki 来说，Cotra 是连接以下主体的桥梁：
 
-- [[JapanFG/mufg-bank|MUFG Bank]]、[[JapanFG/sumitomo-mitsui-banking-corp|SMBC]]、[[JapanFG/mizuho-bank|Mizuho Bank]]、[[JapanFG/resona-bank|Resona Bank]]以及其他存款银行；
-- [[JapanFG/ssnb|SBI Sumishin Net Bank]]和[[banking/minna-bank-baas-model|Minna Bank BaaS]]等 App 银行和数字银行路径；
+- [[megabanks/mufg-bank|MUFG Bank]]、[[megabanks/sumitomo-mitsui-banking-corp|SMBC]]、[[megabanks/mizuho-bank|Mizuho Bank]]、[[megabanks/resona-bank|Resona Bank]]以及其他存款银行；
+- [[regional-banks/ssnb|SBI Sumishin Net Bank]]和[[banking/minna-bank-baas-model|Minna Bank BaaS]]等 App 银行和数字银行路径；
 - 通过[[payments/funds-transfer-service-providers-japan-index|日本资金转移业者名录]]路由的资金转移业者；
 - [[payments/japan-code-payment-competitive-map|日本码支付竞争地图]]中的面向用户的钱包和码支付路径。
 
@@ -56,14 +56,14 @@ JEPPO 将自身描述为通过账户直连支付基础设施提供 J-Debit 和 B
 | 从银行账户发起的 QR 商户支付 | 账户是直接扣款，还是先充值到钱包余额？ | Bank Pay / 账户直连路径。 |
 | 银行充值后的钱包支付 | 价值是否先存入钱包再用于商户支付？ | [[payments/funds-transfer-vs-prepaid-boundary|资金转移与预付边界]]。 |
 | 通过 PayPay / d Pay / au PAY / Rakuten Pay 的商户 QR 支付 | 这是码支付、卡收单、预付还是资金转移经济？ | [[payments/japan-code-payment-competitive-map|码支付竞争地图]]和[[payments/psp-merchant-settlement-risk|PSP 结算风险]]。 |
-| 向证券 / 加密账户快速入金 | 轨道是银行转账、账户扣款、API 指令还是支付代理路径？ | [[banking/quick-deposit-four-methods|快速入金方法]]和[[JapanFG/legal-financial-licenses/INDEX|牌照栈]]。 |
+| 向证券 / 加密账户快速入金 | 轨道是银行转账、账户扣款、API 指令还是支付代理路径？ | [[banking/quick-deposit-four-methods|快速入金方法]]和[[financial-licenses/INDEX|牌照栈]]。 |
 
 ## JapanFG 相关性
 
 - 大型银行和核心银行很重要，因为账户到账户支付最终需要存款账户连接以及银行清算 / 结算规则。
-- [[JapanFG/recruit-mufg-business|Recruit MUFG Business]]和 COIN+ 类型模型是围绕账户连接轨道建立商户和消费者支付频率的尝试。
-- [[JapanFG/paypay|PayPay]]、[[JapanFG/merpay|Merpay]]、[[JapanFG/au-payment|au PAY]]和[[JapanFG/rakuten-edy|Rakuten Edy]]仍是钱包 / 码支付锚点，但其银行链接流程不同于纯账户到账户支付。
-- [[JapanFG/sbi-shinsei-bank|SBI Shinsei Bank]]、[[JapanFG/fukuoka-fg|Fukuoka FG]]和区域银行 App 路径重要，因为 Cotra 和 Bank Pay 可把银行 App 转为日常支付界面。
+- [[payment-firms/recruit-mufg-business|Recruit MUFG Business]]和 COIN+ 类型模型是围绕账户连接轨道建立商户和消费者支付频率的尝试。
+- [[payment-firms/paypay|PayPay]]、[[payment-firms/merpay|Merpay]]、[[payment-firms/au-payment|au PAY]]和[[payment-firms/rakuten-edy|Rakuten Edy]]仍是钱包 / 码支付锚点，但其银行链接流程不同于纯账户到账户支付。
+- [[regional-banks/sbi-shinsei-bank|SBI Shinsei Bank]]、[[regional-banks/fukuoka-fg|Fukuoka FG]]和区域银行 App 路径重要，因为 Cotra 和 Bank Pay 可把银行 App 转为日常支付界面。
 
 ## 风险与注意点
 
@@ -83,7 +83,7 @@ JEPPO 将自身描述为通过账户直连支付基础设施提供 J-Debit 和 B
 3. 检查运营方：银行、资金转移服务提供方、预付发行方、PSP 或码支付平台。
 4. 对 Cotra，检查当前参与 App / 机构页面。
 5. 对 Bank Pay，检查当前参与金融机构和商户受理范围。
-6. 在作出牌照判断前，把公司页面链接回[[payments/funds-transfer-vs-prepaid-boundary|资金转移与预付边界]]和[[JapanFG/legal-financial-licenses/INDEX|法律 / 金融牌照]]。
+6. 在作出牌照判断前，把公司页面链接回[[payments/funds-transfer-vs-prepaid-boundary|资金转移与预付边界]]和[[financial-licenses/INDEX|法律 / 金融牌照]]。
 
 ## 相关
 
@@ -94,13 +94,13 @@ JEPPO 将自身描述为通过账户直连支付基础设施提供 J-Debit 和 B
 - [[payments/psp-merchant-settlement-risk]]
 - [[banking/quick-deposit-four-methods]]
 - [[banking/baas-japan-landscape]]
-- [[JapanFG/legal-financial-licenses/INDEX]]
-- [[JapanFG/recruit-mufg-business]]
-- [[JapanFG/paypay]]
-- [[JapanFG/merpay]]
-- [[JapanFG/mufg-bank]]
-- [[JapanFG/sumitomo-mitsui-banking-corp]]
-- [[JapanFG/mizuho-bank]]
+- [[financial-licenses/INDEX]]
+- [[payment-firms/recruit-mufg-business]]
+- [[payment-firms/paypay]]
+- [[payment-firms/merpay]]
+- [[megabanks/mufg-bank]]
+- [[megabanks/sumitomo-mitsui-banking-corp]]
+- [[megabanks/mizuho-bank]]
 - [[INDEX|FinWiki index]]
 
 ## 来源

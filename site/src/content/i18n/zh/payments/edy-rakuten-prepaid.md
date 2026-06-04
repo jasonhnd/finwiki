@@ -11,7 +11,7 @@ translated_at: 2026-06-01T03:31:12.259Z
 
 ## Wiki 路径
 
-此条目位于 [[payments/INDEX|payments index]] 下，作为 Rakuten Edy 预付费发行人页面，与 [[payments/prepaid-payment-instrument-issuers-japan-index|prepaid payment instrument issuers registry]] 配对进行 FSA 注册表视图，并与 [[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]] 配对进行四类方案比较。与零售锚定 ([[payments/waon-prepaid-aeon|WAON]] / [[payments/nanaco-prepaid-seven-i|nanaco]]) 和交通锚定 ([[payments/suica-prepaid-jr-east|Suica]] / [[payments/pasmo-prepaid-tokyo-metro|PASMO]]) 预付费系统相比，Edy 是**与平台无关的 FeliCa 预付费**，没有零售或铁路母锚，这是其主要结构区别。企业/集团主播为[[JapanFG/rakuten-edy|楽天Edy株式会社]]（FSA注册的第三方预付发行人，乐天集团旗下法人番号3010901038102, 注册的2016-07-21）；相关乐天支付产品包括[[JapanFG/rakuten-card|Rakuten Card]]（Edy自动充值信用卡联名产品）和楽天ペイ（扫码支付应用程序）。 FeliCa技术骨干：[[payments/japan-transit-prepaid-suica-pasmo-icoca-economics|FeliCa scheme architecture]]。
+此条目位于 [[payments/INDEX|payments index]] 下，作为 Rakuten Edy 预付费发行人页面，与 [[payments/prepaid-payment-instrument-issuers-japan-index|prepaid payment instrument issuers registry]] 配对进行 FSA 注册表视图，并与 [[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]] 配对进行四类方案比较。与零售锚定 ([[payments/waon-prepaid-aeon|WAON]] / [[payments/nanaco-prepaid-seven-i|nanaco]]) 和交通锚定 ([[payments/suica-prepaid-jr-east|Suica]] / [[payments/pasmo-prepaid-tokyo-metro|PASMO]]) 预付费系统相比，Edy 是**与平台无关的 FeliCa 预付费**，没有零售或铁路母锚，这是其主要结构区别。企业/集团主播为[[payment-firms/rakuten-edy|楽天Edy株式会社]]（FSA注册的第三方预付发行人，乐天集团旗下法人番号3010901038102, 注册的2016-07-21）；相关乐天支付产品包括[[card-issuers/rakuten-card|Rakuten Card]]（Edy自动充值信用卡联名产品）和楽天ペイ（扫码支付应用程序）。 FeliCa技术骨干：[[payments/japan-transit-prepaid-suica-pasmo-icoca-economics|FeliCa scheme architecture]]。
 
 ## 要点摘要
 
@@ -22,7 +22,7 @@ translated_at: 2026-06-01T03:31:12.259Z
 | 项目 | 内容 |
 |---|---|
 |运营公司|乐天Edy有限公司|
-| 母集团 | [[JapanFG/rakuten-card|Rakuten Card]] / 乐天集团 |
+| 母集团 | [[card-issuers/rakuten-card|Rakuten Card]] / 乐天集团 |
 | FSA 预付费注册 |第三方预付支付工具 |
 |法人号码 | 3010901038102 |
 | FSA 注册日期 | 2016-07-21|
@@ -79,7 +79,7 @@ Edy的结构地位是日本FeliCa电子货币的**先驱/遗产**：
 
 |组件|角色 |
 |---|---|
-| [[JapanFG/rakuten-card\|Rakuten Card]] |嵌入Edy IC的信用卡联名卡；从乐天卡自动充值至 Edy |
+| [[card-issuers/rakuten-card\|Rakuten Card]] |嵌入Edy IC的信用卡联名卡；从乐天卡自动充值至 Edy |
 |伊迪 | FeliCa 预付费支出铁路 |
 |乐天积分 (楽天ポイinto) |通过 Edy 消费赚取的忠诚度货币（通常以 0.5% 为基础，促销期间更高）|
 
@@ -119,8 +119,8 @@ Rakuten Edy 的战略角色：
 - [[payments/waon-nanaco-retail-prepaid-comparison]]
 - [[payments/funds-transfer-vs-prepaid-boundary]]
 - [[payments/japan-payment-scheme-economics-matrix]]
-- [[JapanFG/rakuten-edy]]
-- [[JapanFG/rakuten-card]]
+- [[payment-firms/rakuten-edy]]
+- [[card-issuers/rakuten-card]]
 - [[loyalty/japan-points-landscape]]
 - [[INDEX|FinWiki index]]
 

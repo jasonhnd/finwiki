@@ -63,7 +63,7 @@ JHF green MBS 系列已成为日本机构 ESG 固定收益授权的基准。
 
 ### Megabank green RMBS
 
-Megabank（[[JapanFG/mufg|MUFG]]、[[JapanFG/smfg|SMFG]]、[[JapanFG/mizuho-fg|Mizuho FG]]）和信托银行已经基于认证绿色住宅抵押贷款组合发行**私人 green RMBS** —— 这些 Top Runner / ZEH / energy-efficient housing loans 通过 megabank 渠道发放。结构遵循 [[structured-finance/japan-rmbs-issuance-structure|standard private RMBS]]，并增加绿色标签验证层。
+Megabank（[[megabanks/mufg|MUFG]]、[[megabanks/smfg|SMFG]]、[[megabanks/mizuho-fg|Mizuho FG]]）和信托银行已经基于认证绿色住宅抵押贷款组合发行**私人 green RMBS** —— 这些 Top Runner / ZEH / energy-efficient housing loans 通过 megabank 渠道发放。结构遵循 [[structured-finance/japan-rmbs-issuance-structure|standard private RMBS]]，并增加绿色标签验证层。
 
 ## 4. Green ABS — 可再生与 EV 充电应收款
 
@@ -138,7 +138,7 @@ CBI certification 比 ICMA Green Bond Principles alignment 更严格，常用于
 - [[structured-finance/tmk-special-purpose-company-mechanics|TMK special-purpose company mechanics]]
 - [[policy-finance/japan-housing-finance-agency|JHF]]
 - [[policy-finance/INDEX|policy-finance index]]
-- [[JapanFG/mufg|MUFG]] · [[JapanFG/smfg|SMFG]] · [[JapanFG/mizuho-fg|Mizuho FG]]
+- [[megabanks/mufg|MUFG]] · [[megabanks/smfg|SMFG]] · [[megabanks/mizuho-fg|Mizuho FG]]
 - [[INDEX|FinWiki index]]
 
 ## 来源

@@ -1,0 +1,86 @@
+{
+  "schema_version": "1.0",
+  "slug": "payment-firms/netstars",
+  "source_path": "payment-firms/netstars.md",
+  "url": "https://finwiki.zksc.io/payment-firms/netstars",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/payment-firms/netstars.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/payment-firms/netstars.md",
+  "domain": "payment-firms",
+  "title": "ネットスターズ",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "ネットスターズ",
+    "aliases": [
+      "NETSTARS",
+      "株式会社ネットスターズ",
+      "Netstars",
+      "StarPay"
+    ],
+    "domain": "payment-firms",
+    "created": "2026-05-21",
+    "last_updated": "2026-05-21",
+    "last_tended": "2026-05-21",
+    "review_by": "2026-11-21",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "PSP",
+      "QR-payment",
+      "funds-transfer",
+      "code-payment"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.netstars.co.jp/about/",
+      "https://www.netstars.co.jp/servicelist/",
+      "https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf",
+      "https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it with GMO Payment Gateway and DG Financial Technology for PSP peer context, and with funds-transfer registry for the broader regulatory boundary.",
+  "headings": [
+    "ネットスターズ",
+    "Wiki route",
+    "Overview",
+    "1. 法人・ライセンス境界",
+    "2. Business Role",
+    "3. Why This Standalone Page Matters",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 10,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "payment-firms/dg-financial-technology",
+      "payment-firms/gmo-payment-gateway",
+      "payment-firms/merpay",
+      "payment-firms/paypay",
+      "payment-firms/sb-payment-service",
+      "payments/INDEX",
+      "payments/funds-transfer-service-providers-japan-index",
+      "payments/japan-code-payment-competitive-map",
+      "payments/psp-merchant-settlement-risk"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/payment-firms/dg-financial-technology",
+      "https://finwiki.zksc.io/payment-firms/gmo-payment-gateway",
+      "https://finwiki.zksc.io/payment-firms/merpay",
+      "https://finwiki.zksc.io/payment-firms/paypay",
+      "https://finwiki.zksc.io/payment-firms/sb-payment-service",
+      "https://finwiki.zksc.io/payments/INDEX",
+      "https://finwiki.zksc.io/payments/funds-transfer-service-providers-japan-index",
+      "https://finwiki.zksc.io/payments/japan-code-payment-competitive-map",
+      "https://finwiki.zksc.io/payments/psp-merchant-settlement-risk"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3213,
+    "word_like_tokens": 505,
+    "inbound_wikilinks_count": 14,
+    "last_modified": "2026-06-04"
+  }
+}

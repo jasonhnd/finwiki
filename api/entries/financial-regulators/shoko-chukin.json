@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0",
+  "slug": "financial-regulators/shoko-chukin",
+  "source_path": "financial-regulators/shoko-chukin.md",
+  "url": "https://finwiki.zksc.io/financial-regulators/shoko-chukin",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/financial-regulators/shoko-chukin.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/financial-regulators/shoko-chukin.md",
+  "domain": "financial-regulators",
+  "title": "商工中金 (Shoko Chukin Bank)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "商工中金 (Shoko Chukin Bank)",
+    "aliases": [
+      "商工中金",
+      "Shoko Chukin",
+      "商工組合中央金庫",
+      "株式会社商工組合中央金庫",
+      "Shoko Chukin Bank",
+      "Ltd."
+    ],
+    "domain": "financial-regulators",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "smb-bank",
+      "post-policy-finance",
+      "privatized-2023"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: 株式会社商工組合中央金庫 (2026-05-19 抽出)",
+      "商工中金 公式コーポレートサイト 沿革 / 中期経営計画",
+      "金融庁 業務改善命令 (2017-05-09 / 2017-10-25) 公表資料"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 三菱 UFJ FG (MUFG) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "商工中金 (Shoko Chukin Bank)",
+    "Wiki route",
+    "TL;DR",
+    "1. 会社概要",
+    "主要株主 (民営化後)",
+    "重要年表 ^[extracted]",
+    "2. 事業セグメント・マップ",
+    "民営化後の事業モデル転換",
+    "ガバナンス改革 (2017-2018)",
+    "政府との関係"
+  ],
+  "body_links": {
+    "wikilinks_count": 8,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "banking/INDEX",
+      "financial-regulators/jfc",
+      "megabanks/mufg",
+      "mizuho-fg",
+      "mufg",
+      "ndfg",
+      "smfg"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/financial-regulators/jfc",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/mizuho-fg",
+      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/ndfg",
+      "https://finwiki.zksc.io/smfg"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3434,
+    "word_like_tokens": 508,
+    "inbound_wikilinks_count": 15,
+    "last_modified": "2026-06-04"
+  }
+}

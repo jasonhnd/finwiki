@@ -25,7 +25,7 @@ Osaka Credit Guarantee Corporation（大阪信用保証協会）は、日本の 
 | 設立 | 1937 （1953 法に基づく再編後、継続） |
 | 資金拠出パートナー | 大阪府、大阪市、業務区域内の金融機関、会員拠出 |
 | 連合会加盟 | [[policy-finance/national-federation-credit-guarantee-corporations|Japan Federation of Credit Guarantee Corporations]] の会員 |
-| 公的信用再保険 | [[JapanFG/jfc|JFC]] の信用保険業務により再保険される |
+| 公的信用再保険 | [[financial-regulators/jfc|JFC]] の信用保険業務により再保険される |
 | 境界注記 | 大阪市は統合まで独自の信用保証協会を有していた。現在の協会は府内・市内の借入人をともに対象とする。 |
 
 ## 2. 機能マップ
@@ -44,7 +44,7 @@ Osaka CGC が Tokyo CGC と異なる重要性を持つ理由は3つある。
 
 1. **製造業中小企業の集中**: 大阪、とりわけ東大阪 / 門真 / 八尾の回廊には、日本でも最も密度の高い製造業中小企業クラスターが集積している。その多くは自動車、電子機器、精密機械の大手企業に供給している。運転資金や設備融資の需要は大阪信用保証協会の保証を通じて流れる。
 2. **人口動態 / 承継圧力**: 関西の中小企業は全国平均より創業者の平均年齢が高い。事業承継関連保証（事業承継M&A、従業員買収）は、多くの他協会より保証残高に占める比重が大きい。
-3. **関西の銀行ネットワーク**: 取引相手には、りそなグループ（[[JapanFG/resona-hd|Resona HD]] の歴史的な大阪ルーツ）、[[JapanFG/smfg|SMFG / SMBC]]（大阪における住友の系譜）、[[JapanFG/mufg|MUFG]]（UFJ銀行の系譜）、関西みらい銀行などの地域銀行、大規模な信用金庫・信用組合層が含まれる。
+3. **関西の銀行ネットワーク**: 取引相手には、りそなグループ（[[megabanks/resona-hd|Resona HD]] の歴史的な大阪ルーツ）、[[megabanks/smfg|SMFG / SMBC]]（大阪における住友の系譜）、[[megabanks/mufg|MUFG]]（UFJ銀行の系譜）、関西みらい銀行などの地域銀行、大規模な信用金庫・信用組合層が含まれる。
 
 [[policy-finance/japan-policy-finance-system|Japan policy finance system]] の中で、Osaka CGC は [[policy-finance/tokyo-credit-guarantee-corp|Tokyo CGC]] と同じ制度上の役割を果たすが、産業構成と人口動態圧力のプロファイルは異なる。
 
@@ -53,7 +53,7 @@ Osaka CGC が Tokyo CGC と異なる重要性を持つ理由は3つある。
 - **大阪府庁ではない**: 協会は別個の公的法人である。政策制度は協会を通じて運営されるが、大阪府の直接の貸借対照表には含まれない。
 - **銀行ではない**: すべての信用保証協会と同様に、Osaka CGC は直接融資を行わない。
 - **関西全域ではない**: 業務区域は大阪府である。近隣府県（兵庫、京都、和歌山、奈良、滋賀）には、それぞれ連合会内の信用保証協会がある。
-- **JFCではない**: [[JapanFG/jfc|JFC]] は信用保険を通じて Osaka CGC の保証を再保険するが、借入人と直接向き合うレイヤーではない。
+- **JFCではない**: [[financial-regulators/jfc|JFC]] は信用保険を通じて Osaka CGC の保証を再保険するが、借入人と直接向き合うレイヤーではない。
 
 ## 5. Tokyo CGC との比較
 
@@ -78,10 +78,10 @@ Osaka CGC が Tokyo CGC と異なる重要性を持つ理由は3つある。
 - [[policy-finance/national-federation-credit-guarantee-corporations]]
 - [[policy-finance/japan-policy-finance-system]]
 - [[policy-finance/tokyo-credit-guarantee-corp]]
-- [[JapanFG/jfc]]
-- [[JapanFG/smfg]]
-- [[JapanFG/mufg]]
-- [[JapanFG/resona-hd]]
+- [[financial-regulators/jfc]]
+- [[megabanks/smfg]]
+- [[megabanks/mufg]]
+- [[megabanks/resona-hd]]
 - [[banking/shinkin-bank-registry-japan]]
 - [[INDEX|FinWiki index]]
 

@@ -52,40 +52,40 @@
     "wikilinks": [
       "INDEX",
       "JapanFG/INDEX",
-      "JapanFG/dai-ichi-life",
-      "JapanFG/kampo-life",
-      "JapanFG/legal-financial-licenses/INDEX",
-      "JapanFG/lifenet",
-      "JapanFG/meiji-yasuda",
-      "JapanFG/nippon-life",
-      "JapanFG/orix-life",
-      "JapanFG/sumitomo-life",
+      "financial-licenses/INDEX",
       "insurance/INDEX",
       "insurance/esr-economic-value-solvency",
-      "insurance/life-insurance-channel-mix"
+      "insurance/life-insurance-channel-mix",
+      "life-insurers/dai-ichi-life",
+      "life-insurers/kampo-life",
+      "life-insurers/lifenet",
+      "life-insurers/meiji-yasuda",
+      "life-insurers/nippon-life",
+      "life-insurers/orix-life",
+      "life-insurers/sumitomo-life"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
       "https://finwiki.zksc.io/JapanFG/INDEX",
-      "https://finwiki.zksc.io/JapanFG/dai-ichi-life",
-      "https://finwiki.zksc.io/JapanFG/kampo-life",
-      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX",
-      "https://finwiki.zksc.io/JapanFG/lifenet",
-      "https://finwiki.zksc.io/JapanFG/meiji-yasuda",
-      "https://finwiki.zksc.io/JapanFG/nippon-life",
-      "https://finwiki.zksc.io/JapanFG/orix-life",
-      "https://finwiki.zksc.io/JapanFG/sumitomo-life",
+      "https://finwiki.zksc.io/financial-licenses/INDEX",
       "https://finwiki.zksc.io/insurance/INDEX",
       "https://finwiki.zksc.io/insurance/esr-economic-value-solvency",
-      "https://finwiki.zksc.io/insurance/life-insurance-channel-mix"
+      "https://finwiki.zksc.io/insurance/life-insurance-channel-mix",
+      "https://finwiki.zksc.io/life-insurers/dai-ichi-life",
+      "https://finwiki.zksc.io/life-insurers/kampo-life",
+      "https://finwiki.zksc.io/life-insurers/lifenet",
+      "https://finwiki.zksc.io/life-insurers/meiji-yasuda",
+      "https://finwiki.zksc.io/life-insurers/nippon-life",
+      "https://finwiki.zksc.io/life-insurers/orix-life",
+      "https://finwiki.zksc.io/life-insurers/sumitomo-life"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3675,
-    "word_like_tokens": 557,
-    "inbound_wikilinks_count": 24,
-    "last_modified": "2026-05-21"
+    "nonspace_chars": 3751,
+    "word_like_tokens": 570,
+    "inbound_wikilinks_count": 25,
+    "last_modified": "2026-06-04"
   }
 }

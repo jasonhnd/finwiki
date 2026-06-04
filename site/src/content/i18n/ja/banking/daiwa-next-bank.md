@@ -12,11 +12,11 @@ translated_at: 2026-06-02T11:47:37.293Z
 
 ## ウィキ上の位置づけ
 
-本項目は [[banking/INDEX|banking index]] の下に、[[JapanFG/daiwa-next-bank|大和ネクスト銀行 entity anchor]] のエンティティ・アンカーに対応する事業プロファイルの伴侶として位置する。[[banking/japan-net-bank-competition-map|Japan net bank competition map]] のセグメントマップの中で、親会社の文脈は [[JapanFG/daiwa-sg|Daiwa Securities Group]]、統合予定の [[JapanFG/orix-bank|Orix Bank]] ページとともに、証券隣接のネット銀行のピアである [[banking/sony-bank|Sony Bank]] および証券会社系銀行のコホート [[banking/rakuten-bank|Rakuten Bank]]([[JapanFG/rakuten-securities|Rakuten Securities]] にリンク)· [[banking/au-jibun-bank|au Jibun Bank]]([[JapanFG/au-kabucom-securities|au Kabucom]] にリンク)· [[JapanFG/ssnb|SSNB]]([[JapanFG/sbi-securities|SBI Securities]] にリンク)と照らし合わせて読まれたい。証券側の比較対照については [[securities/INDEX|securities index]] を経由し、MRF(マネー・リザーブ・ファンド)と銀行のスイープ預金のメカニクスの統合については [[securities/japan-online-brokerage-competition|Japan online brokerage competition]] を経由されたい。
+本項目は [[banking/INDEX|banking index]] の下に、[[regional-banks/daiwa-next-bank|大和ネクスト銀行 entity anchor]] のエンティティ・アンカーに対応する事業プロファイルの伴侶として位置する。[[banking/japan-net-bank-competition-map|Japan net bank competition map]] のセグメントマップの中で、親会社の文脈は [[securities-firms/daiwa-sg|Daiwa Securities Group]]、統合予定の [[trust-banks/orix-bank|Orix Bank]] ページとともに、証券隣接のネット銀行のピアである [[banking/sony-bank|Sony Bank]] および証券会社系銀行のコホート [[banking/rakuten-bank|Rakuten Bank]]([[securities-firms/rakuten-securities|Rakuten Securities]] にリンク)· [[banking/au-jibun-bank|au Jibun Bank]]([[securities-firms/au-kabucom-securities|au Kabucom]] にリンク)· [[regional-banks/ssnb|SSNB]]([[securities-firms/sbi-securities|SBI Securities]] にリンク)と照らし合わせて読まれたい。証券側の比較対照については [[securities/INDEX|securities index]] を経由し、MRF(マネー・リザーブ・ファンド)と銀行のスイープ預金のメカニクスの統合については [[securities/japan-online-brokerage-competition|Japan online brokerage competition]] を経由されたい。
 
 ## 要約
 
-大和ネクスト銀行株式会社(Daiwa Next Bank, Ltd.)は、[[JapanFG/daiwa-sg|Daiwa Securities Group, Inc.]](東証プライム 8601)の完全子会社である銀行子会社である。それは大和側における **証券・銀行ハイブリッド** のアンカーであり、[[JapanFG/ssnb|SSNB]](SBI)、[[banking/au-jibun-bank|au Jibun Bank]](KDDI / 三菱UFJ)、[[banking/rakuten-bank|Rakuten Bank]](楽天証券との隣接性)のアーキテクチャ・パターンを映している。そのフランチャイズは **証券のキャッシュフローを銀行業務に統合する** ことを中心に構築されている — 大和証券口座とのスイープ預金の連携、外貨建て投信の販売を補完する多通貨預金のサポート、そして主に大和証券の口座顧客から構築された約 5.06 兆円(2026-03-31年時点で、円および外貨預金の合計、2,288 千口座にわたる 5,063.7 億円)の預金基盤である。**2026-04-27** に、大和証券グループ / 大和ネクスト銀行は [[JapanFG/orix-bank|Orix Bank]] を完全子会社とすることで合意したと発表し、グループの銀行側のバランスシート、住宅ローンの組成、信託銀行の選択肢を大幅に拡大した — これは 2011 年の設立以来、大和ネクスト銀行にとって最も重大な戦略的動きである。^[extracted]
+大和ネクスト銀行株式会社(Daiwa Next Bank, Ltd.)は、[[securities-firms/daiwa-sg|Daiwa Securities Group, Inc.]](東証プライム 8601)の完全子会社である銀行子会社である。それは大和側における **証券・銀行ハイブリッド** のアンカーであり、[[regional-banks/ssnb|SSNB]](SBI)、[[banking/au-jibun-bank|au Jibun Bank]](KDDI / 三菱UFJ)、[[banking/rakuten-bank|Rakuten Bank]](楽天証券との隣接性)のアーキテクチャ・パターンを映している。そのフランチャイズは **証券のキャッシュフローを銀行業務に統合する** ことを中心に構築されている — 大和証券口座とのスイープ預金の連携、外貨建て投信の販売を補完する多通貨預金のサポート、そして主に大和証券の口座顧客から構築された約 5.06 兆円(2026-03-31年時点で、円および外貨預金の合計、2,288 千口座にわたる 5,063.7 億円)の預金基盤である。**2026-04-27** に、大和証券グループ / 大和ネクスト銀行は [[trust-banks/orix-bank|Orix Bank]] を完全子会社とすることで合意したと発表し、グループの銀行側のバランスシート、住宅ローンの組成、信託銀行の選択肢を大幅に拡大した — これは 2011 年の設立以来、大和ネクスト銀行にとって最も重大な戦略的動きである。^[extracted]
 
 ## 1. アイデンティティとグループ内の位置
 
@@ -26,9 +26,9 @@ translated_at: 2026-06-02T11:47:37.293Z
 | 英文名 | Daiwa Next Bank, Ltd. |
 | 開業 | 2011-05 |
 | 銀行免許の区分 | 普通銀行(銀行法上の普通銀行)、FSAの「その他の銀行」に分類 |
-| 親会社 | [[JapanFG/daiwa-sg|Daiwa Securities Group, Inc. (TSE Prime 8601)]](100%) |
-| 進行中の買収 | [[JapanFG/orix-bank|Orix Bank]] — オリックス銀行を大和ネクスト銀行 / 大和証券グループの完全子会社とする合意を 2026-04-27 に発表 ^[extracted] |
-| 証券の兄弟会社 | [[JapanFG/daiwa-securities|大和証券]] — グループ内の主要な証券営業会社 |
+| 親会社 | [[securities-firms/daiwa-sg|Daiwa Securities Group, Inc. (TSE Prime 8601)]](100%) |
+| 進行中の買収 | [[trust-banks/orix-bank|Orix Bank]] — オリックス銀行を大和ネクスト銀行 / 大和証券グループの完全子会社とする合意を 2026-04-27 に発表 ^[extracted] |
+| 証券の兄弟会社 | [[securities-firms/daiwa-securities|大和証券]] — グループ内の主要な証券営業会社 |
 | 本社 | 東京 |
 | チャネル・アーキテクチャ | アプリ + ウェブ + 大和証券の店舗を介した証券店頭のクロスタッチ |
 | 主要規制当局 | 金融庁(FSA) |
@@ -37,7 +37,7 @@ translated_at: 2026-06-02T11:47:37.293Z
 
 1. **MRF(マネー・リザーブ・ファンド)←→ 銀行預金の代替。** 2000年代より前は、証券口座のキャッシュはMRFの投資信託商品に置かれていた。2000 年の改革後は、証券会社が顧客のキャッシュを関連銀行の預金へ振り向けること(スイープ)が可能になった。銀行を所有することで、以前は外部のMMF / MRFの運用者に流れていた預金スプレッドを取り込む。
 2. **証券商品とのクロスセル。** すでに投資について大和証券を信頼している顧客は、家計の預金残高を大和ブランドの銀行へ移し、統合的な資産形成のクロスセルを可能にする。
-3. **エコシステム銀行による破壊への防御。** [[banking/rakuten-bank|Rakuten Bank]]([[JapanFG/rakuten-securities|Rakuten Securities]] にリンク)および [[JapanFG/ssnb|SSNB]]([[JapanFG/sbi-securities|SBI Securities]] にリンク)が、銀行・証券の統合モデルを標準として確立した。自前の銀行がなければ、大和は顧客の証券キャッシュがそれらのエコシステムへ流出するリスクにさらされていたであろう。
+3. **エコシステム銀行による破壊への防御。** [[banking/rakuten-bank|Rakuten Bank]]([[securities-firms/rakuten-securities|Rakuten Securities]] にリンク)および [[regional-banks/ssnb|SSNB]]([[securities-firms/sbi-securities|SBI Securities]] にリンク)が、銀行・証券の統合モデルを標準として確立した。自前の銀行がなければ、大和は顧客の証券キャッシュがそれらのエコシステムへ流出するリスクにさらされていたであろう。
 
 ### グループ構造(オリックス銀行買収完了後)
 
@@ -45,9 +45,9 @@ translated_at: 2026-06-02T11:47:37.293Z
 大和証券グループ本社(東証プライム 8601)
   ├── 大和証券(証券営業会社)
   ├── 大和ネクスト銀行(本項目 — ネット銀行)
-  │     └── (予定)[[JapanFG/orix-bank|Orix Bank, Ltd.]](2026-04-27 に発表された取引のクローズをもって完全子会社) ^[extracted]
-  ├── [[JapanFG/daiwa-asset-management|Daiwa Asset Management]]
-  ├── [[JapanFG/daiwa-living-trust|Daiwa Living Trust]]
+  │     └── (予定)[[trust-banks/orix-bank|Orix Bank, Ltd.]](2026-04-27 に発表された取引のクローズをもって完全子会社) ^[extracted]
+  ├── [[asset-managers/daiwa-asset-management|Daiwa Asset Management]]
+  ├── [[trust-banks/daiwa-living-trust|Daiwa Living Trust]]
   └── その他のグループ子会社(PB、IB、ITなど)
 ```
 
@@ -90,13 +90,13 @@ translated_at: 2026-06-02T11:47:37.293Z
 
 ### 発表された内容
 
-**2026-04-27** に、大和証券グループ / 大和ネクスト銀行は [[JapanFG/orix-bank|Orix Bank, Ltd.]] を完全子会社とする合意を開示した。クロージングは規制当局の承認を条件とする。^[extracted]
+**2026-04-27** に、大和証券グループ / 大和ネクスト銀行は [[trust-banks/orix-bank|Orix Bank, Ltd.]] を完全子会社とする合意を開示した。クロージングは規制当局の承認を条件とする。^[extracted]
 
 ### この取引が重要な理由
 
 1. 大和ネクスト銀行が自前では構築していなかった **住宅ローンの組成能力を追加する**。
 2. 証券連携の預金および証券投資を超えて、不動産担保の信用へと **銀行側の資産構成を多様化する**。
-3. オリックス銀行の信託商品を通じて、[[JapanFG/daiwa-living-trust|Daiwa Living Trust]] を補完する **信託銀行の機能を提供する**。
+3. オリックス銀行の信託商品を通じて、[[trust-banks/daiwa-living-trust|Daiwa Living Trust]] を補完する **信託銀行の機能を提供する**。
 4. 連結ベースの銀行保有の **預金基盤を大幅に増加させる**。
 
 ### 統合運営に関する論点
@@ -124,9 +124,9 @@ translated_at: 2026-06-02T11:47:37.293Z
 | グループ | 銀行 | 証券 | アーキテクチャ |
 |---|---|---|---|
 | **大和証券グループ** | **大和ネクスト銀行** | 大和証券 | 証券をアンカーとする銀行;オリックス銀行の連結を通じて拡大中 |
-| 三井住友トラスト + SBI(旧 住信SBI) | [[JapanFG/ssnb|SSNB / NEOBANK]] | [[JapanFG/sbi-securities|SBI Securities]] | 純粋なオンライン + BaaSパートナーのアーキテクチャ |
-| KDDI + MUFG | [[banking/au-jibun-bank|au Jibun Bank]] | [[JapanFG/au-kabucom-securities|au Kabucom Securities]] | 通信をアンカーとするエコシステムの銀行・証券連携 |
-| 楽天 | [[banking/rakuten-bank|Rakuten Bank]] | [[JapanFG/rakuten-securities|Rakuten Securities]] | 商取引をアンカーとするエコシステムの銀行・証券連携 |
+| 三井住友トラスト + SBI(旧 住信SBI) | [[regional-banks/ssnb|SSNB / NEOBANK]] | [[securities-firms/sbi-securities|SBI Securities]] | 純粋なオンライン + BaaSパートナーのアーキテクチャ |
+| KDDI + MUFG | [[banking/au-jibun-bank|au Jibun Bank]] | [[securities-firms/au-kabucom-securities|au Kabucom Securities]] | 通信をアンカーとするエコシステムの銀行・証券連携 |
+| 楽天 | [[banking/rakuten-bank|Rakuten Bank]] | [[securities-firms/rakuten-securities|Rakuten Securities]] | 商取引をアンカーとするエコシステムの銀行・証券連携 |
 
 ### 大和ネクストが競合しない領域
 
@@ -155,15 +155,15 @@ translated_at: 2026-06-02T11:47:37.293Z
 - [[banking/rakuten-bank]] · [[banking/paypay-bank]] · [[banking/au-jibun-bank]]
 - [[banking/gmo-aozora-net-bank]]
 - [[banking/ui-bank]]
-- [[JapanFG/daiwa-next-bank]]
-- [[JapanFG/daiwa-sg]]
-- [[JapanFG/orix-bank]]
-- [[JapanFG/daiwa-asset-management]]
-- [[JapanFG/daiwa-living-trust]]
-- [[JapanFG/ssnb]]
-- [[JapanFG/sbi-securities]]
-- [[JapanFG/au-kabucom-securities]]
-- [[JapanFG/rakuten-securities]]
+- [[regional-banks/daiwa-next-bank]]
+- [[securities-firms/daiwa-sg]]
+- [[trust-banks/orix-bank]]
+- [[asset-managers/daiwa-asset-management]]
+- [[trust-banks/daiwa-living-trust]]
+- [[regional-banks/ssnb]]
+- [[securities-firms/sbi-securities]]
+- [[securities-firms/au-kabucom-securities]]
+- [[securities-firms/rakuten-securities]]
 - [[securities/INDEX]]
 - [[securities/japan-online-brokerage-competition]]
 

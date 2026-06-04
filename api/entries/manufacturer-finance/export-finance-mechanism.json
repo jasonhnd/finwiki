@@ -67,7 +67,7 @@
     "wikilinks": [
       "INDEX",
       "JapanFG/INDEX",
-      "JapanFG/jbic",
+      "financial-regulators/jbic",
       "manufacturer-finance/INDEX",
       "manufacturer-finance/hitachi-industrial-finance-platform",
       "manufacturer-finance/mitsubishi-heavy-export-finance",
@@ -81,7 +81,7 @@
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
       "https://finwiki.zksc.io/JapanFG/INDEX",
-      "https://finwiki.zksc.io/JapanFG/jbic",
+      "https://finwiki.zksc.io/financial-regulators/jbic",
       "https://finwiki.zksc.io/manufacturer-finance/INDEX",
       "https://finwiki.zksc.io/manufacturer-finance/hitachi-industrial-finance-platform",
       "https://finwiki.zksc.io/manufacturer-finance/mitsubishi-heavy-export-finance",
@@ -96,9 +96,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6132,
-    "word_like_tokens": 912,
+    "nonspace_chars": 6197,
+    "word_like_tokens": 917,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-06-03"
+    "last_modified": "2026-06-04"
   }
 }

@@ -52,30 +52,30 @@
     "wikilinks": [
       "INDEX",
       "JapanFG/INDEX",
-      "JapanFG/mizuho-fg",
-      "JapanFG/mufg",
-      "JapanFG/smfg",
-      "JapanFG/toyota-financial",
+      "leasing-firms/toyota-financial",
       "manufacturer-finance/INDEX",
-      "manufacturer-finance/seiko-epson"
+      "manufacturer-finance/seiko-epson",
+      "megabanks/mizuho-fg",
+      "megabanks/mufg",
+      "megabanks/smfg"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
       "https://finwiki.zksc.io/JapanFG/INDEX",
-      "https://finwiki.zksc.io/JapanFG/mizuho-fg",
-      "https://finwiki.zksc.io/JapanFG/mufg",
-      "https://finwiki.zksc.io/JapanFG/smfg",
-      "https://finwiki.zksc.io/JapanFG/toyota-financial",
+      "https://finwiki.zksc.io/leasing-firms/toyota-financial",
       "https://finwiki.zksc.io/manufacturer-finance/INDEX",
-      "https://finwiki.zksc.io/manufacturer-finance/seiko-epson"
+      "https://finwiki.zksc.io/manufacturer-finance/seiko-epson",
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/smfg"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2832,
-    "word_like_tokens": 434,
+    "nonspace_chars": 2874,
+    "word_like_tokens": 439,
     "inbound_wikilinks_count": 11,
-    "last_modified": "2026-06-03"
+    "last_modified": "2026-06-04"
   }
 }

@@ -1,0 +1,82 @@
+{
+  "schema_version": "1.0",
+  "slug": "trust-banks/smtb",
+  "source_path": "trust-banks/smtb.md",
+  "url": "https://finwiki.zksc.io/trust-banks/smtb",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/trust-banks/smtb.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/trust-banks/smtb.md",
+  "domain": "trust-banks",
+  "title": "三井住友信託銀行 (SMTB)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "三井住友信託銀行 (SMTB)",
+    "aliases": [
+      "SMTB",
+      "Sumitomo Mitsui Trust Bank",
+      "三井住友信託銀行",
+      "三井住友信託銀行株式会社"
+    ],
+    "domain": "trust-banks",
+    "created": "2026-05-20",
+    "last_updated": "2026-05-20",
+    "last_tended": "2026-05-20",
+    "review_by": "2026-11-20",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "bank",
+      "trust-bank",
+      "operating-company"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
+      "https://www.smtb.jp/corporate/summary/",
+      "https://www.smtb.jp/about/corporate/outline"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 三菱UFJ信託銀行 (MUTB) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "三井住友信託銀行 (SMTB)",
+    "Wiki route",
+    "TL;DR",
+    "1. 法人・ライセンス境界",
+    "2. Business role",
+    "3. Why standalone page matters",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 9,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "banking/INDEX",
+      "megabanks/smfg",
+      "securities/japan-securities-depository-center",
+      "trust-banks/custody-bank",
+      "trust-banks/master-trust-bank",
+      "trust-banks/mitsubishi-ufj-trust-bank",
+      "trust-banks/smbc-trust-bank",
+      "trust-banks/sumitomo-mitsui-trust"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/megabanks/smfg",
+      "https://finwiki.zksc.io/securities/japan-securities-depository-center",
+      "https://finwiki.zksc.io/trust-banks/custody-bank",
+      "https://finwiki.zksc.io/trust-banks/master-trust-bank",
+      "https://finwiki.zksc.io/trust-banks/mitsubishi-ufj-trust-bank",
+      "https://finwiki.zksc.io/trust-banks/smbc-trust-bank",
+      "https://finwiki.zksc.io/trust-banks/sumitomo-mitsui-trust"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 1700,
+    "word_like_tokens": 260,
+    "inbound_wikilinks_count": 18,
+    "last_modified": "2026-06-04"
+  }
+}

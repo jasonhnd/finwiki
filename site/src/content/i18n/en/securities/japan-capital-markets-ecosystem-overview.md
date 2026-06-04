@@ -37,7 +37,7 @@ The primary market is where issuers raise new capital from investors.
 
 The primary market is supported by:
 
-- **Underwriting syndicates** led by major securities firms ([[JapanFG/nomura-hd|Nomura]], [[JapanFG/daiwa-sg|Daiwa]], [[JapanFG/mufg-mums|Mitsubishi UFJ Morgan Stanley]], [[JapanFG/smbc-nikko|SMBC Nikko]], [[JapanFG/mizuho-bank|Mizuho Securities]]).
+- **Underwriting syndicates** led by major securities firms ([[securities-firms/nomura-hd|Nomura]], [[securities-firms/daiwa-sg|Daiwa]], [[securities-firms/mufg-mums|Mitsubishi UFJ Morgan Stanley]], [[securities-firms/smbc-nikko|SMBC Nikko]], [[megabanks/mizuho-bank|Mizuho Securities]]).
 - **Listing examination** by JPX-R (Japan Exchange Regulation).
 - **Disclosure** through EDINET (financial-statement disclosure) and TDnet (timely disclosure).
 - **JSDA self-regulation** for distribution conduct.
@@ -53,7 +53,7 @@ The secondary market is where investors trade existing instruments.
 | Listed derivative | [[derivatives/jgb-futures-curve|JGB futures]] / [[derivatives/nikkei-225-futures-options|Nikkei 225]] / TOPIX / TONA futures on OSE | [[derivatives/INDEX]], [[derivatives/topix-futures]] |
 | OTC equity / bond | Dealer market, JSDA quote system | [[derivatives/INDEX]], [[securities/japan-market-infrastructure-map]] |
 | OTC derivative | Bilateral OTC, clear-through at JSCC for in-scope | [[derivatives/japan-otc-derivative-market-overview]], [[derivatives/otc-clearing-jp-trade-repository]] |
-| Stock lending | OTC bilateral plus JSF | [[securities/japan-stock-lending-market-route]], [[JapanFG/japan-securities-finance]] |
+| Stock lending | OTC bilateral plus JSF | [[securities/japan-stock-lending-market-route]], [[financial-regulators/japan-securities-finance]] |
 | Margin trading | Brokerage margin + JSF loan trading | [[securities/japan-margin-trading-and-securities-finance]] |
 | JGB cash | OTC inter-dealer | [[money-market/jgb-repo-market-japan]] |
 
@@ -63,7 +63,7 @@ The secondary market is supported by:
 - **Smart order routing (SOR)** between TSE and PTS venues.
 - **Market makers and liquidity providers** ([[securities/japan-market-maker-and-liquidity-provider-landscape]]).
 - **Short-selling rules** ([[securities/japan-short-selling-and-stock-loan-controls]]).
-- **Margin / securities-finance plumbing** ([[JapanFG/japan-securities-finance]]).
+- **Margin / securities-finance plumbing** ([[financial-regulators/japan-securities-finance]]).
 
 ### 3. Clearing
 
@@ -112,9 +112,9 @@ Regulation governs market conduct, conflict resolution, and systemic-risk monito
 | Category | Examples |
 |---|---|
 | Issuers | Listed corporations (TSE Prime ~1,600, Standard ~1,500, Growth ~600), JGB issuer (MoF), J-REIT sponsors, corporate-bond issuers, ABS originators. |
-| Underwriters | [[JapanFG/nomura-hd|Nomura]], [[JapanFG/daiwa-sg|Daiwa]], [[JapanFG/mufg-mums|MUMSS]], [[JapanFG/smbc-nikko|SMBC Nikko]], [[JapanFG/mizuho-bank|Mizuho Securities]], foreign IBs. |
-| Brokerages (retail) | [[JapanFG/sbi-hd|SBI Securities]], [[JapanFG/rakuten-fg|Rakuten Securities]], [[JapanFG/monex-group|Monex]], Matsui Securities, [[JapanFG/mufg-esmart-securities|MUFG eSmart]], [[JapanFG/paypay-securities|PayPay Securities]], GMO Click, DMM. See [[securities/japan-online-brokerage-competition]]. |
-| Asset managers | [[JapanFG/asset-management-one|Asset Management One]] (Mizuho), [[JapanFG/mufg-asset-management|MUFG Asset Management]], Nomura Asset Management, Nikko Asset Management, Daiwa Asset Management. See [[securities/japan-asset-manager-landscape-matrix]]. |
+| Underwriters | [[securities-firms/nomura-hd|Nomura]], [[securities-firms/daiwa-sg|Daiwa]], [[securities-firms/mufg-mums|MUMSS]], [[securities-firms/smbc-nikko|SMBC Nikko]], [[megabanks/mizuho-bank|Mizuho Securities]], foreign IBs. |
+| Brokerages (retail) | [[megabanks/sbi-hd|SBI Securities]], [[payment-firms/rakuten-fg|Rakuten Securities]], [[securities-firms/monex-group|Monex]], Matsui Securities, [[securities-firms/mufg-esmart-securities|MUFG eSmart]], [[securities-firms/paypay-securities|PayPay Securities]], GMO Click, DMM. See [[securities/japan-online-brokerage-competition]]. |
+| Asset managers | [[asset-managers/asset-management-one|Asset Management One]] (Mizuho), [[asset-managers/mufg-asset-management|MUFG Asset Management]], Nomura Asset Management, Nikko Asset Management, Daiwa Asset Management. See [[securities/japan-asset-manager-landscape-matrix]]. |
 | Trust banks (custody) | [[banking/japan-master-trust-and-custody-bank-landscape|Master Trust Bank of Japan, Japan Trustee Services Bank, etc.]] |
 | Institutional investors | GPIF, life insurers, non-life insurers, BoJ (JGB holdings), foreign institutional accounts. |
 | Foreign brokers | JPMorgan, Goldman Sachs, Citi, Morgan Stanley, Deutsche Bank, BNP Paribas, HSBC, UBS, Barclays. |
@@ -131,7 +131,7 @@ Regulation governs market conduct, conflict resolution, and systemic-risk monito
 | Foreign JGB ownership | Foreign accounts hold a meaningful share of JGB float. |
 | EMIR equivalence | JSCC is EMIR-equivalent for EU counterparties. |
 | Title VII / CFTC equivalence | JSCC has CFTC substituted-compliance / equivalence elements for IRS clearing. |
-| ICSD linkage | Foreign banks operate as ICSDs serving cross-border settlement. See [[JapanFG/clearstream-banking-japan]]. |
+| ICSD linkage | Foreign banks operate as ICSDs serving cross-border settlement. See [[foreign-financial-institutions/clearstream-banking-japan]]. |
 | TSE-listed ETF cross-listing | Limited cross-listing; mostly mutual-recognition. |
 
 ## Public Data Sources
@@ -198,12 +198,12 @@ Regulation governs market conduct, conflict resolution, and systemic-risk monito
 - [[banking/japan-master-trust-and-custody-bank-landscape]]
 - [[banking/jasdec-settlement-operations]]
 - [[JapanFG/INDEX]]
-- [[JapanFG/japan-exchange-group]]
-- [[JapanFG/japan-securities-finance]]
-- [[JapanFG/nomura-hd]]
-- [[JapanFG/daiwa-sg]]
-- [[JapanFG/mufg-mums]]
-- [[JapanFG/smbc-nikko]]
+- [[financial-regulators/japan-exchange-group]]
+- [[financial-regulators/japan-securities-finance]]
+- [[securities-firms/nomura-hd]]
+- [[securities-firms/daiwa-sg]]
+- [[securities-firms/mufg-mums]]
+- [[securities-firms/smbc-nikko]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

@@ -48,7 +48,6 @@
     "wikilinks_count": 11,
     "wikilinks": [
       "INDEX",
-      "JapanFG/mufg",
       "fintech/INDEX",
       "fintech/institutional-stablecoin-deposit-token-thesis",
       "fintech/japan-financial-regulation",
@@ -57,11 +56,11 @@
       "fintech/jpmorgan-jpmd-coin",
       "fintech/onchain-finance-vs-crypto-bifurcation",
       "fintech/stablecoin-crossborder-b2b-growth",
+      "megabanks/mufg",
       "systems/cross-chain-five-pole-comparison-matrix"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/mufg",
       "https://finwiki.zksc.io/fintech/INDEX",
       "https://finwiki.zksc.io/fintech/institutional-stablecoin-deposit-token-thesis",
       "https://finwiki.zksc.io/fintech/japan-financial-regulation",
@@ -70,15 +69,16 @@
       "https://finwiki.zksc.io/fintech/jpmorgan-jpmd-coin",
       "https://finwiki.zksc.io/fintech/onchain-finance-vs-crypto-bifurcation",
       "https://finwiki.zksc.io/fintech/stablecoin-crossborder-b2b-growth",
+      "https://finwiki.zksc.io/megabanks/mufg",
       "https://finwiki.zksc.io/systems/cross-chain-five-pole-comparison-matrix"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2533,
+    "nonspace_chars": 2535,
     "word_like_tokens": 386,
     "inbound_wikilinks_count": 2,
-    "last_modified": "2026-05-24"
+    "last_modified": "2026-06-04"
   }
 }

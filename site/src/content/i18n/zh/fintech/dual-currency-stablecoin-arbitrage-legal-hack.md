@@ -40,7 +40,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 ## Origin & evolution
 
-2024 年之前 = 链上外汇无法实现（USDC 一家独大）。2024  [[fintech/mica-overview|MiCA]]第四章生效 + EURC 流通量上升 + 法国兴业银行/Lugh 上架 = 欧元侧多发行方结构形成。2025  [[JapanFG/jpyc|JPYC]]在日本《资金结算法》新框架下成为首个日元稳定币。2026.05 三角套利在去中心化交易所上首次实盘运行 = 法律漏洞从理论走向产品。
+2024 年之前 = 链上外汇无法实现（USDC 一家独大）。2024  [[fintech/mica-overview|MiCA]]第四章生效 + EURC 流通量上升 + 法国兴业银行/Lugh 上架 = 欧元侧多发行方结构形成。2025  [[payment-firms/jpyc|JPYC]]在日本《资金结算法》新框架下成为首个日元稳定币。2026.05 三角套利在去中心化交易所上首次实盘运行 = 法律漏洞从理论走向产品。
 
 ## Related
 <!-- wiki-links:managed -->

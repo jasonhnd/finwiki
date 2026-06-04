@@ -2,7 +2,9 @@
 
 > 数据源是 `INDEX.md` 的 Domain Map（`parseDomainMap()` 解析的官方表）。内容增删后 `INDEX.md` 的 count 需手动校准——本表随之更新。扩充优先级配合 [roadmap.md](roadmap.md) P3 与 [backlog.md](backlog.md)。
 
-## 23 领域（按 entry 数降序）
+> **v2026.06.04-4 重大变更**：`JapanFG`（约 620 entity）已**物理拆分为 17 个机构类型顶级域**（megabanks / regional-banks / cooperative-banks / trust-banks / life-insurers / non-life-insurers / securities-firms / asset-managers / payment-firms / card-issuers / leasing-firms / consumer-finance / trading-company-finance / financial-conglomerates / foreign-financial-institutions / financial-regulators / financial-licenses）。**领域数 23→40**，`JapanFG` 仅剩 umbrella INDEX。权威 40 域表见 root `INDEX.md` Domain Map；拆分依据见 [decisions.md](decisions.md) ADR-008 与 [japanfg-split-design.md](japanfg-split-design.md)。下面的 23 域表为拆分前快照（保留作历史参考，已过时）。
+
+## 23 领域（拆分前快照，已过时）
 
 > v12 并行给 10 领域加 46 entry，多数原「薄领域」已扩充，下表为 v13 后 disk 实数。
 

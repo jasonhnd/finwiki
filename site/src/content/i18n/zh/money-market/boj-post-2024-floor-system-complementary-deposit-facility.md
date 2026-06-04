@@ -98,10 +98,10 @@ translated_at: 2026-05-30T14:13:23.423Z
 
 ## JapanFG 相关性
 
-- 大型银行 [[JapanFG/mufg]], [[JapanFG/smfg]], [[JapanFG/mizuho-fg]] 拥有直接日本央行活期存款头寸,并在准备金余额上赚取下限利率。
+- 大型银行 [[megabanks/mufg]], [[megabanks/smfg]], [[megabanks/mizuho-fg]] 拥有直接日本央行活期存款头寸,并在准备金余额上赚取下限利率。
 - 信托银行和托管银行在日本央行持有结算余额,也受下限约束。
-- 证券公司 [[JapanFG/mizuho-securities]], [[JapanFG/mufg-mums]], [[JapanFG/nomura-hd]] 通过回购融资和交易商资产负债表定价与下限互动。
-- [[JapanFG/tokyo-tanshi]], [[JapanFG/central-tanshi]], [[JapanFG/ueda-yagi-tanshi]] 中介拆借和 CP 业务,定价偏离下限。
+- 证券公司 [[securities-firms/mizuho-securities]], [[securities-firms/mufg-mums]], [[securities-firms/nomura-hd]] 通过回购融资和交易商资产负债表定价与下限互动。
+- [[financial-regulators/tokyo-tanshi]], [[financial-regulators/central-tanshi]], [[financial-regulators/ueda-yagi-tanshi]] 中介拆借和 CP 业务,定价偏离下限。
 
 ## 边界情况
 
@@ -121,13 +121,13 @@ translated_at: 2026-05-30T14:13:23.423Z
 - [[money-market/japan-ncd-negotiable-cd-market]]
 - [[money-market/japan-tbill-treasury-discount-bill]]
 - [[money-market/japan-mmf-money-market-mutual-fund]]
-- [[JapanFG/boj-monetary-policy]]
-- [[JapanFG/mufg]]
-- [[JapanFG/smfg]]
-- [[JapanFG/mizuho-fg]]
-- [[JapanFG/tokyo-tanshi]]
-- [[JapanFG/central-tanshi]]
-- [[JapanFG/ueda-yagi-tanshi]]
+- [[financial-regulators/boj-monetary-policy]]
+- [[megabanks/mufg]]
+- [[megabanks/smfg]]
+- [[megabanks/mizuho-fg]]
+- [[financial-regulators/tokyo-tanshi]]
+- [[financial-regulators/central-tanshi]]
+- [[financial-regulators/ueda-yagi-tanshi]]
 - [[INDEX|FinWiki index]]
 
 ## 来源

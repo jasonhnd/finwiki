@@ -1,0 +1,80 @@
+{
+  "schema_version": "1.0",
+  "slug": "card-issuers/toyota-finance",
+  "source_path": "card-issuers/toyota-finance.md",
+  "url": "https://finwiki.zksc.io/card-issuers/toyota-finance",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/card-issuers/toyota-finance.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/card-issuers/toyota-finance.md",
+  "domain": "card-issuers",
+  "title": "トヨタファイナンス",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "トヨタファイナンス",
+    "aliases": [
+      "Toyota Finance",
+      "トヨタファイナンス株式会社",
+      "TOYOTA FINANCE CORPORATION",
+      "TS CUBIC CARD",
+      "TSキュービックカード"
+    ],
+    "domain": "card-issuers",
+    "created": "2026-05-21",
+    "last_updated": "2026-05-21",
+    "last_tended": "2026-05-21",
+    "review_by": "2026-11-21",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "auto-finance",
+      "credit-card",
+      "installment-credit",
+      "Toyota"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.toyota-finance.co.jp/company/data.html",
+      "https://www.toyota-finance.co.jp/about/glance.html",
+      "https://www.tfsc.jp/corporate/index.html"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against Toyota Financial Services for parent / operating-company separation and Japan credit purchase and card operator registry index for the installment-credit and card boundary.",
+  "headings": [
+    "トヨタファイナンス",
+    "Wiki route",
+    "Overview",
+    "1. 法人・グループ境界",
+    "2. Business Role",
+    "3. Why This Standalone Page Matters",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 7,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "card-issuers/jaccs",
+      "card-issuers/orico",
+      "leasing-firms/orix-corp",
+      "leasing-firms/toyota-financial",
+      "manufacturer-finance/toyota-motor",
+      "payments/credit-purchase-card-operators-japan-index"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/card-issuers/jaccs",
+      "https://finwiki.zksc.io/card-issuers/orico",
+      "https://finwiki.zksc.io/leasing-firms/orix-corp",
+      "https://finwiki.zksc.io/leasing-firms/toyota-financial",
+      "https://finwiki.zksc.io/manufacturer-finance/toyota-motor",
+      "https://finwiki.zksc.io/payments/credit-purchase-card-operators-japan-index"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3063,
+    "word_like_tokens": 482,
+    "inbound_wikilinks_count": 17,
+    "last_modified": "2026-06-04"
+  }
+}

@@ -15,7 +15,7 @@ translated_at: 2026-06-02T13:21:55.097Z
 
 ## 要約
 
-日本 PE は、グローバル・メガファンドの日本チーム（[[JapanFG/goldman-sachs-japan|Goldman Sachs Japan]] に隣接する KKR Japan、Bain Capital Japan、Carlyle Japan、CVC Japan、MBK Partners）と国内 GP の組み合わせで運営される。モデルは GP-LP、フィーとキャリー、複数ヴィンテージ、SPC 支配、価値創造、IPO・セカンダリー・戦略売却による出口で構成される。2020,  後は継続ファンドと GP 主導セカンダリーも出口になった。デットスタックは [[finance/japan-acquisition-finance|acquisition finance]]、上場会社非公開化は [[finance/japan-tender-offer-process|tender offer process]] を参照。
+日本 PE は、グローバル・メガファンドの日本チーム（[[securities-firms/goldman-sachs-japan|Goldman Sachs Japan]] に隣接する KKR Japan、Bain Capital Japan、Carlyle Japan、CVC Japan、MBK Partners）と国内 GP の組み合わせで運営される。モデルは GP-LP、フィーとキャリー、複数ヴィンテージ、SPC 支配、価値創造、IPO・セカンダリー・戦略売却による出口で構成される。2020,  後は継続ファンドと GP 主導セカンダリーも出口になった。デットスタックは [[finance/japan-acquisition-finance|acquisition finance]]、上場会社非公開化は [[finance/japan-tender-offer-process|tender offer process]] を参照。
 
 ## GP の概況
 
@@ -27,7 +27,7 @@ translated_at: 2026-06-02T13:21:55.097Z
 | CVC Japan | 汎アジア・ファンド | ミッドから上位ミッド |
 | MBK Partners | 北アジア重視、日本カーブアウトを含む | 大型 |
 
-グローバル・メガファンドはカーブアウト、[[finance/japan-mbo-and-squeeze-out-process|MBO]]、非公開化を主導し、アドバイザー実績は [[JapanFG/nomura-hd|Nomura]]、[[JapanFG/daiwa-sg|Daiwa]]、[[JapanFG/smbc-nikko|SMBC Nikko]]、[[JapanFG/mizuho-securities]]、[[JapanFG/morgan-stanley-japan|Morgan Stanley Japan]]、[[JapanFG/goldman-sachs-japan|Goldman Sachs Japan]] に帰属する。
+グローバル・メガファンドはカーブアウト、[[finance/japan-mbo-and-squeeze-out-process|MBO]]、非公開化を主導し、アドバイザー実績は [[securities-firms/nomura-hd|Nomura]]、[[securities-firms/daiwa-sg|Daiwa]]、[[securities-firms/smbc-nikko|SMBC Nikko]]、[[securities-firms/mizuho-securities]]、[[securities-firms/morgan-stanley-japan|Morgan Stanley Japan]]、[[securities-firms/goldman-sachs-japan|Goldman Sachs Japan]] に帰属する。
 
 | 国内 GP | 特徴 |
 |---|---|
@@ -61,13 +61,13 @@ PE ファンドは LPS、Cayman LP、Delaware LP などで組成される。SPC 
 
 価値創造は売上成長、コスト削減、運転資本、不動産活用、カーブアウト、ボルトオン M&A、ガバナンス、資本構成、ESG を組み合わせる。事業承継バイアウトでは関係継続と段階的なプロ経営化が重視される。
 
-IPO 出口は [[finance/japan-tender-offer-process|Japan tender offer process]] を通り、ブックランナーとロードショーは [[securities/japan-ipo-listing-disclosure-route|Japan IPO listing disclosure route]]、引受証券は [[securities/japan-underwriting-market-structure|underwriting market structure]]、ロックアップは通常 [[finance/japan-ib-league-table|league table]]日である。戦略的売却では 180 、[[JapanFG/mitsubishi-corp|Mitsubishi Corp]]、[[JapanFG/mitsui-co|Mitsui & Co]] などの買い手があり、セカンダリー売却、継続ファンド、GP 主導セカンダリーも使われる。日本国内セカンダリーはヴィンテージ [[JapanFG/itochu-corp|Itochu Corp]]-3 以降で成長している。
+IPO 出口は [[finance/japan-tender-offer-process|Japan tender offer process]] を通り、ブックランナーとロードショーは [[securities/japan-ipo-listing-disclosure-route|Japan IPO listing disclosure route]]、引受証券は [[securities/japan-underwriting-market-structure|underwriting market structure]]、ロックアップは通常 [[finance/japan-ib-league-table|league table]]日である。戦略的売却では 180 、[[financial-conglomerates/mitsubishi-corp|Mitsubishi Corp]]、[[financial-conglomerates/mitsui-co|Mitsui & Co]] などの買い手があり、セカンダリー売却、継続ファンド、GP 主導セカンダリーも使われる。日本国内セカンダリーはヴィンテージ [[financial-conglomerates/itochu-corp|Itochu Corp]]-3 以降で成長している。
 
 ## レンダー、規制、LP
 
-買収デットの全体像は 4 を参照。主要レンダーは [[finance/japan-acquisition-finance|Japan acquisition finance]]、[[JapanFG/mufg|MUFG]]、[[JapanFG/smfg|SMFG]]、[[JapanFG/mizuho-fg|Mizuho FG]] であり、役割は [[JapanFG/dbj|DBJ]] で確認できる。JIC 関連では [[finance/japan-ib-league-table|league tables]] が政策投資の文脈を持つ。
+買収デットの全体像は 4 を参照。主要レンダーは [[finance/japan-acquisition-finance|Japan acquisition finance]]、[[megabanks/mufg|MUFG]]、[[megabanks/smfg|SMFG]]、[[megabanks/mizuho-fg|Mizuho FG]] であり、役割は [[financial-regulators/dbj|DBJ]] で確認できる。JIC 関連では [[finance/japan-ib-league-table|league tables]] が政策投資の文脈を持つ。
 
-規制面は FIEA TOB [[JapanFG/dbj|DBJ]]、METI 指針 [[finance/japan-tender-offer-process|tender offer process]]、大量保有 [[finance/japan-activist-investor-playbook|activist playbook]]、さらに FEFTA、JFTC、JPX 規則で構成される。LP は国内機関、企業年金、アジア SWF、グローバル LP、GP コミットメントである。
+規制面は FIEA TOB [[financial-regulators/dbj|DBJ]]、METI 指針 [[finance/japan-tender-offer-process|tender offer process]]、大量保有 [[finance/japan-activist-investor-playbook|activist playbook]]、さらに FEFTA、JFTC、JPX 規則で構成される。LP は国内機関、企業年金、アジア SWF、グローバル LP、GP コミットメントである。
 
 ## 関連
 
@@ -85,19 +85,19 @@ IPO 出口は [[finance/japan-tender-offer-process|Japan tender offer process]] 
 - [[securities/japan-underwriting-market-structure]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[corporate-strategy/partial-spinoff-tax-deferral]]
-- [[JapanFG/mufg]]
-- [[JapanFG/smfg]]
-- [[JapanFG/mizuho-fg]]
-- [[JapanFG/dbj]]
-- [[JapanFG/nomura-hd]]
-- [[JapanFG/daiwa-sg]]
-- [[JapanFG/smbc-nikko]]
-- [[JapanFG/mizuho-securities]]
-- [[JapanFG/goldman-sachs-japan]]
-- [[JapanFG/morgan-stanley-japan]]
-- [[JapanFG/mitsubishi-corp]]
-- [[JapanFG/mitsui-co]]
-- [[JapanFG/itochu-corp]]
+- [[megabanks/mufg]]
+- [[megabanks/smfg]]
+- [[megabanks/mizuho-fg]]
+- [[financial-regulators/dbj]]
+- [[securities-firms/nomura-hd]]
+- [[securities-firms/daiwa-sg]]
+- [[securities-firms/smbc-nikko]]
+- [[securities-firms/mizuho-securities]]
+- [[securities-firms/goldman-sachs-japan]]
+- [[securities-firms/morgan-stanley-japan]]
+- [[financial-conglomerates/mitsubishi-corp]]
+- [[financial-conglomerates/mitsui-co]]
+- [[financial-conglomerates/itochu-corp]]
 
 ## 出典
 

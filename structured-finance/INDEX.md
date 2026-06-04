@@ -54,10 +54,10 @@ This domain routes structured-finance knowledge: how Japan's asset-backed securi
 
 | Cluster | Entity pages |
 |---|---|
-| Auto-finance originators | [[JapanFG/toyota-finance]], [[JapanFG/toyota-financial]], [[JapanFG/mitsubishi-hc-capital]] |
-| Consumer / card originators | [[JapanFG/orico]], [[JapanFG/jaccs]], [[JapanFG/aplus]], [[JapanFG/mufg-nicos]], [[JapanFG/jcb]] |
-| Trust-bank trustees | [[JapanFG/sumitomo-mitsui-trust]] |
-| Policy-finance anchor | [[JapanFG/jfc]] (no [[JapanFG/jhf]] entity page; route via [[policy-finance/japan-housing-finance-agency]]) |
+| Auto-finance originators | [[card-issuers/toyota-finance]], [[leasing-firms/toyota-financial]], [[leasing-firms/mitsubishi-hc-capital]] |
+| Consumer / card originators | [[card-issuers/orico]], [[card-issuers/jaccs]], [[card-issuers/aplus]], [[card-issuers/mufg-nicos]], [[card-issuers/jcb]] |
+| Trust-bank trustees | [[trust-banks/sumitomo-mitsui-trust]] |
+| Policy-finance anchor | [[financial-regulators/jfc]] (no [[JapanFG/jhf]] entity page; route via [[policy-finance/japan-housing-finance-agency]]) |
 
 ## Related domains
 
@@ -66,7 +66,7 @@ This domain routes structured-finance knowledge: how Japan's asset-backed securi
 - [[real-estate-finance/INDEX]] — CMBS / RMBS underlying property cash flow, J-REIT debt overlap.
 - [[finance/INDEX]] — LBO loans, acquisition finance, syndicated loans that can collateralize CLO.
 - [[money-market/INDEX]] — short-term funding cost, repo for ABS warehouses.
-- [[JapanFG/jsda]] — securitization-product disclosure infrastructure.
+- [[financial-regulators/jsda]] — securitization-product disclosure infrastructure.
 
 ## Research control
 

@@ -103,10 +103,10 @@ This page is the dedicated update lane for those deltas.
 
 ## JapanFG Relevance
 
-- Online brokers [[JapanFG/rakuten-securities]], [[JapanFG/sbi-securities]], [[JapanFG/monex-group]], [[JapanFG/mufg-esmart-securities]], [[JapanFG/paypay-securities]], [[JapanFG/gmo-click-securities]], and [[JapanFG/dmm-com-securities]] implement reform changes in account opening, reporting, and product onboarding workflows.
-- Full-service securities firms [[JapanFG/nomura-hd]], [[JapanFG/daiwa-sg]], [[JapanFG/smbc-nikko]], [[JapanFG/mizuho-securities]], and [[JapanFG/mufg-mums]] adjust wealth-management product menus.
+- Online brokers [[securities-firms/rakuten-securities]], [[securities-firms/sbi-securities]], [[securities-firms/monex-group]], [[securities-firms/mufg-esmart-securities]], [[securities-firms/paypay-securities]], [[securities-firms/gmo-click-securities]], and [[securities-firms/dmm-com-securities]] implement reform changes in account opening, reporting, and product onboarding workflows.
+- Full-service securities firms [[securities-firms/nomura-hd]], [[securities-firms/daiwa-sg]], [[securities-firms/smbc-nikko]], [[securities-firms/mizuho-securities]], and [[securities-firms/mufg-mums]] adjust wealth-management product menus.
 - Asset managers route product-eligibility updates through investment-trust prospectus revisions and JITA self-regulatory framework.
-- [[JapanFG/jsda]] publishes industry-side Q&A on operational details.
+- [[financial-regulators/jsda]] publishes industry-side Q&A on operational details.
 
 ## JapanFG Distribution Direction
 
@@ -130,17 +130,17 @@ This page is the dedicated update lane for those deltas.
 - [[securities/japan-asset-manager-landscape-matrix]]
 - [[securities/japan-underwriting-market-structure]]
 - [[money-market/japan-mmf-money-market-mutual-fund]]
-- [[JapanFG/rakuten-securities]]
-- [[JapanFG/sbi-securities]]
-- [[JapanFG/monex-group]]
-- [[JapanFG/mufg-esmart-securities]]
-- [[JapanFG/paypay-securities]]
-- [[JapanFG/nomura-hd]]
-- [[JapanFG/daiwa-sg]]
-- [[JapanFG/smbc-nikko]]
-- [[JapanFG/mizuho-securities]]
-- [[JapanFG/mufg-mums]]
-- [[JapanFG/jsda]]
+- [[securities-firms/rakuten-securities]]
+- [[securities-firms/sbi-securities]]
+- [[securities-firms/monex-group]]
+- [[securities-firms/mufg-esmart-securities]]
+- [[securities-firms/paypay-securities]]
+- [[securities-firms/nomura-hd]]
+- [[securities-firms/daiwa-sg]]
+- [[securities-firms/smbc-nikko]]
+- [[securities-firms/mizuho-securities]]
+- [[securities-firms/mufg-mums]]
+- [[financial-regulators/jsda]]
 - [[loyalty/japan-points-landscape]]
 - [[INDEX|FinWiki index]]
 

@@ -1,0 +1,81 @@
+{
+  "schema_version": "1.0",
+  "slug": "megabanks/mufg-bank",
+  "source_path": "megabanks/mufg-bank.md",
+  "url": "https://finwiki.zksc.io/megabanks/mufg-bank",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/megabanks/mufg-bank.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/megabanks/mufg-bank.md",
+  "domain": "megabanks",
+  "title": "三菱UFJ銀行 (MUFG Bank)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "三菱UFJ銀行 (MUFG Bank)",
+    "aliases": [
+      "MUFG Bank",
+      "三菱UFJ銀行",
+      "株式会社三菱UFJ銀行",
+      "BTMU",
+      "megabanks/mitsubishi-ufj-bank"
+    ],
+    "domain": "megabanks",
+    "created": "2026-05-20",
+    "last_updated": "2026-05-20",
+    "last_tended": "2026-05-20",
+    "review_by": "2026-11-20",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "bank",
+      "megabank",
+      "operating-company"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
+      "https://www.bk.mufg.jp/kigyou/profile.html",
+      "https://www.mufg.jp/profile/biz_and_network/group/index.html"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 三井住友銀行 (SMBC) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "三菱UFJ銀行 (MUFG Bank)",
+    "Wiki route",
+    "TL;DR",
+    "1. 法人・ライセンス境界",
+    "2. Business role",
+    "3. Why standalone page matters",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 8,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "banking/INDEX",
+      "banking/post-megabank-positioning",
+      "megabanks/mufg",
+      "megabanks/sumitomo-mitsui-banking-corp",
+      "securities-firms/mufg-esmart-securities",
+      "securities-firms/mufg-mums",
+      "trust-banks/mitsubishi-ufj-trust-bank"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/banking/post-megabank-positioning",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/sumitomo-mitsui-banking-corp",
+      "https://finwiki.zksc.io/securities-firms/mufg-esmart-securities",
+      "https://finwiki.zksc.io/securities-firms/mufg-mums",
+      "https://finwiki.zksc.io/trust-banks/mitsubishi-ufj-trust-bank"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 1732,
+    "word_like_tokens": 277,
+    "inbound_wikilinks_count": 62,
+    "last_modified": "2026-06-04"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "schema_version": "1.0",
+  "slug": "trust-banks/kainuma-trust-real-estate",
+  "source_path": "trust-banks/kainuma-trust-real-estate.md",
+  "url": "https://finwiki.zksc.io/trust-banks/kainuma-trust-real-estate",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/trust-banks/kainuma-trust-real-estate.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/trust-banks/kainuma-trust-real-estate.md",
+  "domain": "trust-banks",
+  "title": "Kainuma Trust Real Estate / 貝沼信託不動産",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Kainuma Trust Real Estate / 貝沼信託不動産",
+    "aliases": [
+      "貝沼信託不動産",
+      "株式会社貝沼信託不動産",
+      "Kainuma Trust Real Estate"
+    ],
+    "domain": "trust-banks",
+    "created": "2026-05-22",
+    "last_updated": "2026-05-22",
+    "last_tended": "2026-05-22",
+    "review_by": "2026-11-22",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "trust-company",
+      "real-estate",
+      "rental-housing",
+      "public-source"
+    ],
+    "status": "active",
+    "sources": [
+      "FSA trust company list: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.xlsx",
+      "Kainuma Trust Real Estate official site: https://kainuma-trust.jp/",
+      "Kainuma Construction registration release: https://www.atpress.ne.jp/news/265337"
+    ]
+  },
+  "summary": "Wiki route: JapanFG/INDEX -> trust-banks/trust-companies-japan-index -> trust-banks/kainuma-trust-real-estate",
+  "headings": [
+    "Kainuma Trust Real Estate / 貝沼信託不動産",
+    "Overview",
+    "Entity Boundary",
+    "Business Role Map",
+    "Public Context",
+    "Research Checklist",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 7,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/INDEX",
+      "trust-banks/daito-mirai-trust",
+      "trust-banks/daiwa-living-trust",
+      "trust-banks/kainuma-trust-real-estate",
+      "trust-banks/sekisui-house-trust",
+      "trust-banks/trust-companies-japan-index"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/trust-banks/daito-mirai-trust",
+      "https://finwiki.zksc.io/trust-banks/daiwa-living-trust",
+      "https://finwiki.zksc.io/trust-banks/kainuma-trust-real-estate",
+      "https://finwiki.zksc.io/trust-banks/sekisui-house-trust",
+      "https://finwiki.zksc.io/trust-banks/trust-companies-japan-index"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2276,
+    "word_like_tokens": 359,
+    "inbound_wikilinks_count": 6,
+    "last_modified": "2026-06-04"
+  }
+}

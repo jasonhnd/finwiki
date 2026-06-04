@@ -24,7 +24,7 @@ translated_at: 2026-06-02T11:47:37.279Z
 | 項目 | 値 |
 | --- | --- |
 | FSA 基準日 | 令和8年2月20日現在 |
-| 中央機関 | [[JapanFG/zenshin-kumi]] |
+| 中央機関 | [[cooperative-banks/zenshin-kumi]] |
 | ワークブック内の中央機関の行数 | 1 |
 | 認可済み信用組合 | 143 |
 | 法的 / 制度的経路 | 中小企業等協同組合法 / 協同組合による金融事業に関する法律 |
@@ -34,7 +34,7 @@ translated_at: 2026-06-02T11:47:37.279Z
 
 - 143 の独立ページを作成することなく、公的な信用組合の母集団を索引レベルで完結させる。
 - 信用組合を信用金庫、労働金庫、通常の地方銀行から区別する。
-- 個々の組合をこの索引経由でルーティングしつつ、[[JapanFG/zenshin-kumi|Zenshinkumiren]] を中央機関ページとして維持する。
+- 個々の組合をこの索引経由でルーティングしつつ、[[cooperative-banks/zenshin-kumi|Zenshinkumiren]] を中央機関ページとして維持する。
 - 法人番号と本店所在地は公的なレジストリフィールドである;代表電話番号はソースワークブックに残し、索引を一覧しやすく保つためここでは省略する。
 
 ## 3. 監督財務局別の件数
@@ -298,8 +298,8 @@ translated_at: 2026-06-02T11:47:37.279Z
 
 - [[banking/cooperative-banking-japan]]
 - [[banking/regional-bank-consolidation-pattern]]
-- [[JapanFG/zenshin-kumi|全国信用協同組合連合会]]
-- [[JapanFG/missing-financial-institutions-backlog]]
+- [[cooperative-banks/zenshin-kumi|全国信用協同組合連合会]]
+- [[financial-regulators/missing-financial-institutions-backlog]]
 - [[banking/INDEX]]
 
 ## 出典

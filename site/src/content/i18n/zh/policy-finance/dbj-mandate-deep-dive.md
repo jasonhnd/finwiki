@@ -12,10 +12,10 @@ translated_at: 2026-06-01T03:31:12.326Z
 
 ## Wiki 路径
 
-此条目位于 [[policy-finance/INDEX|policy-finance index]] 下，作为 [[JapanFG/dbj|株式会社日本政策投資銀行 (DBJ)]] 上的**操作机制深入研究**。 [[JapanFG/dbj|JapanFG/dbj]] 上的原始 DBJ 简介侧重于公司结构、历史和高级业务线图；本条目深入探讨了特定投资业务框架的**操作机制**、**风险资金/夹层融资规则**、**GX/DX投资标准**、**与私营部门的共同投资模式**、**危机应对贷款工具**以及**KPI/授权与[[JapanFG/jfc|JFC]] / [[JapanFG/jbic|JBIC]] / [[policy-finance/nexi|NEXI]]的比较**。使用 [[policy-finance/japan-policy-finance-institution-mandate-matrix|Japan policy finance institution mandate matrix]] 读取跨机构覆盖，使用 [[policy-finance/jbic-overseas-investment-underwriting-process|JBIC overseas investment underwriting process]] 读取 JBIC 操作机制并行，使用 [[policy-finance/jfc-sme-division-operating-model|JFC SME division operating model]] 读取 JFC 操作机制并行，使用 [[policy-finance/japan-policy-finance-system|Japan policy finance system]] 读取整个系统上下文。
+此条目位于 [[policy-finance/INDEX|policy-finance index]] 下，作为 [[financial-regulators/dbj|株式会社日本政策投資銀行 (DBJ)]] 上的**操作机制深入研究**。 [[financial-regulators/dbj|JapanFG/dbj]] 上的原始 DBJ 简介侧重于公司结构、历史和高级业务线图；本条目深入探讨了特定投资业务框架的**操作机制**、**风险资金/夹层融资规则**、**GX/DX投资标准**、**与私营部门的共同投资模式**、**危机应对贷款工具**以及**KPI/授权与[[financial-regulators/jfc|JFC]] / [[financial-regulators/jbic|JBIC]] / [[policy-finance/nexi|NEXI]]的比较**。使用 [[policy-finance/japan-policy-finance-institution-mandate-matrix|Japan policy finance institution mandate matrix]] 读取跨机构覆盖，使用 [[policy-finance/jbic-overseas-investment-underwriting-process|JBIC overseas investment underwriting process]] 读取 JBIC 操作机制并行，使用 [[policy-finance/jfc-sme-division-operating-model|JFC SME division operating model]] 读取 JFC 操作机制并行，使用 [[policy-finance/japan-policy-finance-system|Japan policy finance system]] 读取整个系统上下文。
 
 ## TL;DR
-DBJ 是**唯一一家在一张资产负债表中同时结合长期高级债务、日本夹层、股权和咨询**的日本政策性金融机构，遵循《株式会社政策投资银行法》（2007）中规定的**民间补完原则**（“补充私营部门”）政策授权。定义操作层是**特定投资业务（SIO）**框架——建立了2015 ，初始上限为~¥1.5tn，通过连续的法律延期，累积授权投资能力提高到~¥3tn，并明确授权以股权、优先股、次级贷款和夹层形式向**传统商业项目提供**风险资金（risukumaネー）**。银行无法定价**。 SIO 框架的运作规则是：**促进私营部门共同投资**（特定乘数目标——通常旨在达到 1x 或每公共日元投资动员的更高私人资金）和**有时限的权力**（每次延期都是一项带有日落条款的独立立法法案）。当代任务主要由四个实质性垂直领域主导： **GX（绿色转型）** — 可再生能源、氢、氨、海上风电、CCS、GX 経済移行债调整； **DX（数字化转型）** — 数据中心、半导体供应链、人工智能基础设施； **事业再生**——DIP/赞助商支持的重组、夹层；和 **危机対応业务** - 根据株式会社政策日本投资银行法 + 危机対応业务指定指定的危机应对融资。与[[JapanFG/jfc|JFC]]（中小企业/个人/农渔业政策性金融）、[[JapanFG/jbic|JBIC]]（海外投资/出口信贷/资源安全）和[[policy-finance/nexi|NEXI]]（贸易和投资保险）相比，DBJ拥有**单一最灵活的日本政策性金融资产负债表**，因为它能够在长期期限的同一项目中结合高级、夹层和股权。
+DBJ 是**唯一一家在一张资产负债表中同时结合长期高级债务、日本夹层、股权和咨询**的日本政策性金融机构，遵循《株式会社政策投资银行法》（2007）中规定的**民间补完原则**（“补充私营部门”）政策授权。定义操作层是**特定投资业务（SIO）**框架——建立了2015 ，初始上限为~¥1.5tn，通过连续的法律延期，累积授权投资能力提高到~¥3tn，并明确授权以股权、优先股、次级贷款和夹层形式向**传统商业项目提供**风险资金（risukumaネー）**。银行无法定价**。 SIO 框架的运作规则是：**促进私营部门共同投资**（特定乘数目标——通常旨在达到 1x 或每公共日元投资动员的更高私人资金）和**有时限的权力**（每次延期都是一项带有日落条款的独立立法法案）。当代任务主要由四个实质性垂直领域主导： **GX（绿色转型）** — 可再生能源、氢、氨、海上风电、CCS、GX 経済移行债调整； **DX（数字化转型）** — 数据中心、半导体供应链、人工智能基础设施； **事业再生**——DIP/赞助商支持的重组、夹层；和 **危机対応业务** - 根据株式会社政策日本投资银行法 + 危机対応业务指定指定的危机应对融资。与[[financial-regulators/jfc|JFC]]（中小企业/个人/农渔业政策性金融）、[[financial-regulators/jbic|JBIC]]（海外投资/出口信贷/资源安全）和[[policy-finance/nexi|NEXI]]（贸易和投资保险）相比，DBJ拥有**单一最灵活的日本政策性金融资产负债表**，因为它能够在长期期限的同一项目中结合高级、夹层和股权。
 
 ## 1。公司+政策性金融机构的混合结构
 
@@ -114,7 +114,7 @@ SIO 投资通常根据以下标准进行筛选：
 
 ### 3.3 私人互补原则与商业（大型银行）
 
-DBJ与[[JapanFG/mufg|MUFG]]/[[JapanFG/smfg|SMFG]]/[[JapanFG/mizuho-fg|Mizuho FG]]的关系：
+DBJ与[[megabanks/mufg|MUFG]]/[[megabanks/smfg|SMFG]]/[[megabanks/mizuho-fg|Mizuho FG]]的关系：
 
 |尺寸| DBJ |大型银行|
 |---|---|---|
@@ -181,7 +181,7 @@ GX投资SIO+普通账户的标准：
 |项目 |详情 |
 |---|---|
 |法律依据 |日本开发银行法+危机应对促进法|
-|指定金融机构 | DBJ + [[JapanFG/jfc|JFC]]（有一个时期还包括商工中金银行）|
+|指定金融机构 | DBJ + [[financial-regulators/jfc|JFC]]（有一个时期还包括商工中金银行）|
 |触发要求 |政府指定“危机事件”（大规模灾难/金融危机/流行病等）|
 |主要融资方式 |两步贷款（政府指定金融机构→民间金融机构→最终贷款人）+直接贷款|
 |抵押品/信用增级|政府损失补偿+贴息等|
@@ -259,7 +259,7 @@ DBJ 专有的 ESG 框架：
 
 ## 10. 政策金融机关 4 行 KPI / mandate 比较
 
-|尺寸| DBJ | [[JapanFG/jfc\|JFC]] | [[JapanFG/jbic\|JBIC]] | [[policy-finance/nexi\|NEXI]] |
+|尺寸| DBJ | [[financial-regulators/jfc\|JFC]] | [[financial-regulators/jbic\|JBIC]] | [[policy-finance/nexi\|NEXI]] |
 |---|---|---|---|---|
 |主要目标|大中型企业/基础设施/GX/DX |中小企业/个人/农林水产/教育|海外投资/出口/资源/经济安全|贸易和投资保险|
 |主要仪器|长期融资+夹层+股权+咨询|中小企业融资+教育贷+危机应对|境外投资贷款+出口采购+股权投资+担保|贸易保险+投资保险|
@@ -320,12 +320,12 @@ DBJ 法案的日落条款最初设想在 2008 年 股份互助化几年后完全
 - [[policy-finance/jfc-sme-division-operating-model|JFC SME division operating model]]
 - [[policy-finance/jogmec-equity-and-offtake-mechanics|JOGMEC equity and offtake mechanics]]
 - [[policy-finance/japan-project-finance-stack-diagram|Japan project finance stack diagram]]
-- [[JapanFG/dbj|DBJ (株式会社日本政策投資銀行) — institutional profile]]
-- [[JapanFG/jfc|JFC]]
-- [[JapanFG/jbic|JBIC]]
-- [[JapanFG/mufg|MUFG]]
-- [[JapanFG/smfg|SMFG]]
-- [[JapanFG/mizuho-fg|Mizuho FG]]
+- [[financial-regulators/dbj|DBJ (株式会社日本政策投資銀行) — institutional profile]]
+- [[financial-regulators/jfc|JFC]]
+- [[financial-regulators/jbic|JBIC]]
+- [[megabanks/mufg|MUFG]]
+- [[megabanks/smfg|SMFG]]
+- [[megabanks/mizuho-fg|Mizuho FG]]
 
 ## 来源
 

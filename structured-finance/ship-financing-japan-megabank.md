@@ -31,7 +31,7 @@ sources:
 
 ## TL;DR
 
-Ship financing in Japan combines several layers: (1) **megabank ship-finance desks** at [[JapanFG/mufg|MUFG]], [[JapanFG/smfg|SMBC]], and [[JapanFG/mizuho-fg|Mizuho FG]] that have historically been top-tier global ship-lenders, providing senior secured loans to global and Japanese owners; (2) **Japanese leasing companies** ([[JapanFG/mitsubishi-hc-capital|Mitsubishi HC Capital]], [[JapanFG/smfl|SMFL]], [[JapanFG/mizuho-lease|Mizuho Leasing]], [[JapanFG/tokyo-century|Tokyo Century]]) providing JOL-style ship leasing using [[structured-finance/spv-tk-gk-vehicle-japan-tax|TK / GK SPV]] structures; (3) **the Big-3 Japanese shipping companies** ([[JapanFG/nyk-line|NYK Line]], [[JapanFG/mitsui-osk-lines|MOL]], [[JapanFG/k-line|K-Line]]) as both ship-owners and offtake counterparties; and (4) historical reference to **KG (Kommanditgesellschaft) and KS (Kommanditselskab)** structures in Germany and Norway that competed with Japanese-style cross-border tax structures pre-2008. The market deleveraged substantially after the 2008 financial crisis and the 2010s shipping downturn, with European ship-banks (HSH Nordbank, Commerzbank, others) exiting Japan-share-gainer territory. Japanese megabanks emerged from the cycle as among the largest global ship-lenders. Container-shipping shareholder restructuring (NYK / MOL / K-Line merged their container arms into **Ocean Network Express (ONE)** in 2018) reshaped the offtake landscape.
+Ship financing in Japan combines several layers: (1) **megabank ship-finance desks** at [[megabanks/mufg|MUFG]], [[megabanks/smfg|SMBC]], and [[megabanks/mizuho-fg|Mizuho FG]] that have historically been top-tier global ship-lenders, providing senior secured loans to global and Japanese owners; (2) **Japanese leasing companies** ([[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]], [[leasing-firms/smfl|SMFL]], [[leasing-firms/mizuho-lease|Mizuho Leasing]], [[leasing-firms/tokyo-century|Tokyo Century]]) providing JOL-style ship leasing using [[structured-finance/spv-tk-gk-vehicle-japan-tax|TK / GK SPV]] structures; (3) **the Big-3 Japanese shipping companies** ([[JapanFG/nyk-line|NYK Line]], [[JapanFG/mitsui-osk-lines|MOL]], [[JapanFG/k-line|K-Line]]) as both ship-owners and offtake counterparties; and (4) historical reference to **KG (Kommanditgesellschaft) and KS (Kommanditselskab)** structures in Germany and Norway that competed with Japanese-style cross-border tax structures pre-2008. The market deleveraged substantially after the 2008 financial crisis and the 2010s shipping downturn, with European ship-banks (HSH Nordbank, Commerzbank, others) exiting Japan-share-gainer territory. Japanese megabanks emerged from the cycle as among the largest global ship-lenders. Container-shipping shareholder restructuring (NYK / MOL / K-Line merged their container arms into **Ocean Network Express (ONE)** in 2018) reshaped the offtake landscape.
 
 ## Wiki route
 
@@ -53,9 +53,9 @@ The megabank ship-finance desks have been top-tier global lenders for decades:
 
 | Bank | Position | Office locations |
 |---|---|---|
-| [[JapanFG/mufg|MUFG Bank]] | One of the largest global ship-lenders by loan book | Tokyo, London, Singapore, NY |
-| [[JapanFG/smfg|SMBC]] | Top-tier global ship-lender | Tokyo, London, Singapore, NY |
-| [[JapanFG/mizuho-fg|Mizuho Bank]] | Top-tier global ship-lender, somewhat smaller book than MUFG / SMBC | Tokyo, London, Singapore |
+| [[megabanks/mufg|MUFG Bank]] | One of the largest global ship-lenders by loan book | Tokyo, London, Singapore, NY |
+| [[megabanks/smfg|SMBC]] | Top-tier global ship-lender | Tokyo, London, Singapore, NY |
+| [[megabanks/mizuho-fg|Mizuho Bank]] | Top-tier global ship-lender, somewhat smaller book than MUFG / SMBC | Tokyo, London, Singapore |
 
 Their loan books are structured by:
 - **Vessel type**: tanker / bulker / container / LNG / specialty
@@ -78,10 +78,10 @@ Into this exit space, the Japanese megabanks (along with Singapore-based DBS, OC
 
 | Lessor | Ship-division emphasis |
 |---|---|
-| [[JapanFG/mitsubishi-hc-capital|Mitsubishi HC Capital]] | Major ship-leasing platform; JOL-style structures + own-balance-sheet ownership |
-| [[JapanFG/smfl|SMFL]] | Ship leasing as part of broader transportation-asset division |
-| [[JapanFG/mizuho-lease|Mizuho Leasing]] | Ship-finance JOL arranging |
-| [[JapanFG/tokyo-century|Tokyo Century]] | Selected ship-lease participations |
+| [[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]] | Major ship-leasing platform; JOL-style structures + own-balance-sheet ownership |
+| [[leasing-firms/smfl|SMFL]] | Ship leasing as part of broader transportation-asset division |
+| [[leasing-firms/mizuho-lease|Mizuho Leasing]] | Ship-finance JOL arranging |
+| [[leasing-firms/tokyo-century|Tokyo Century]] | Selected ship-lease participations |
 
 Japanese leasing-company ship deals use [[structured-finance/spv-tk-gk-vehicle-japan-tax|TK / GK SPV]] structures analogous to aircraft JOLs:
 - Japanese investors take depreciation shielding
@@ -119,7 +119,7 @@ LNG carriers are financed differently from other vessels:
 - Vessel cost is high (US$200m+ for a modern LNG carrier)
 - Charters are typically long (15–25 years) and tied to specific LNG-export-terminal contracts
 - Lenders look more like project-finance lenders than asset-finance lenders
-- Japanese involvement is significant — NYK and MOL operate large LNG fleets, [[JapanFG/jbic|JBIC]] supports specific LNG-carrier financings tied to Japanese LNG offtake, [[policy-finance/japan-project-finance-stack-diagram|policy-finance stack]] applies
+- Japanese involvement is significant — NYK and MOL operate large LNG fleets, [[financial-regulators/jbic|JBIC]] supports specific LNG-carrier financings tied to Japanese LNG offtake, [[policy-finance/japan-project-finance-stack-diagram|policy-finance stack]] applies
 
 ## 8. Tax structure for cross-border ship ownership
 
@@ -169,10 +169,10 @@ Liberian and Marshall Islands flags are common (flag-of-convenience) but the own
 
 - The pace of decarbonisation in shipping (IMO emissions rules, dual-fuel new-builds, ammonia / methanol vessels) and how Japanese ship-finance adapts
 - Whether ONE remains a stable JV or eventually consolidates further (with one of the three Japanese parents emerging as dominant)
-- Whether [[JapanFG/japan-post-bank|Japan Post Bank]] or life insurers expand into ship-finance through fund structures
+- Whether [[regional-banks/japan-post-bank|Japan Post Bank]] or life insurers expand into ship-finance through fund structures
 - The interaction between ship-finance and [[structured-finance/synthetic-securitization-japan-bank-rwa-relief|synthetic securitisation]] (RWA relief on large ship-loan books)
-- Whether JOL ship structures gain traction with corporate-investor demand for tax-shielded yield in a rising-rate environment under [[JapanFG/boj|BOJ]] normalisation
-- The role of [[JapanFG/mitsubishi-hc-capital|Mitsubishi HC Capital]] vs [[JapanFG/smfl|SMFL]] in capturing growth in the Japanese ship-leasing market
+- Whether JOL ship structures gain traction with corporate-investor demand for tax-shielded yield in a rising-rate environment under [[financial-regulators/boj|BOJ]] normalisation
+- The role of [[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]] vs [[leasing-firms/smfl|SMFL]] in capturing growth in the Japanese ship-leasing market
 
 ## Related
 
@@ -184,10 +184,10 @@ Liberian and Marshall Islands flags are common (flag-of-convenience) but the own
 - [[finance/INDEX|finance index]]
 - [[policy-finance/japan-project-finance-stack-diagram|Japan project finance stack]]
 - [[real-estate-finance/INDEX|real-estate-finance index]]
-- [[JapanFG/mufg|MUFG]] · [[JapanFG/smfg|SMFG]] · [[JapanFG/mizuho-fg|Mizuho FG]]
-- [[JapanFG/mitsubishi-hc-capital|Mitsubishi HC Capital]] · [[JapanFG/smfl|SMFL]] · [[JapanFG/mizuho-lease|Mizuho Leasing]] · [[JapanFG/tokyo-century|Tokyo Century]] · [[JapanFG/orix-corp|ORIX]]
-- [[JapanFG/mitsubishi-corp|Mitsubishi Corp]] · [[JapanFG/mitsui-co|Mitsui & Co.]] · [[JapanFG/sumitomo-corp|Sumitomo Corp]]
-- [[JapanFG/japan-exchange-group|JPX]]
+- [[megabanks/mufg|MUFG]] · [[megabanks/smfg|SMFG]] · [[megabanks/mizuho-fg|Mizuho FG]]
+- [[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]] · [[leasing-firms/smfl|SMFL]] · [[leasing-firms/mizuho-lease|Mizuho Leasing]] · [[leasing-firms/tokyo-century|Tokyo Century]] · [[leasing-firms/orix-corp|ORIX]]
+- [[financial-conglomerates/mitsubishi-corp|Mitsubishi Corp]] · [[financial-conglomerates/mitsui-co|Mitsui & Co.]] · [[financial-conglomerates/sumitomo-corp|Sumitomo Corp]]
+- [[financial-regulators/japan-exchange-group|JPX]]
 
 ## Sources
 

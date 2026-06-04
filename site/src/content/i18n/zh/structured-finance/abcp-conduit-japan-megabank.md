@@ -12,11 +12,11 @@ translated_at: 2026-06-01T04:15:40.158Z
 
 ## TL;DR
 
-ABCP 管道是表外特殊目的载体（[[structured-finance/spv-tk-gk-vehicle-japan-tax|TK / GK SPV structures]]），从企业卖方购买短期限应收款，并通过在日本证券业协会监督的国内 CP 市场发行日元商业票据为购买融资，同时由发起大型银行提供**流动性后盾**。在日本，重要的三个发起方是 [[JapanFG/mufg|MUFG]]（通过其银行部门和证券子公司）、[[JapanFG/smfg|SMFG / SMBC]] 和 [[JapanFG/mizuho-fg|Mizuho FG]]。各自运营一到两个多卖方管道项目，峰值 CP 余额从数千亿日元到超过一万亿日元不等。市场在 2008 金融危机后急剧收缩（当时全球 ABCP 市场冻结，日本管道动用流动性额度），又在 2010 Basel III 流动性框架提高发起方承诺资本成本后进一步缩小，并稳定在远小于危机前峰值的规模。当日元短端利率在交叉货币掉期基础上具有吸引力时，外国投资者是重要的 CP 买方。
+ABCP 管道是表外特殊目的载体（[[structured-finance/spv-tk-gk-vehicle-japan-tax|TK / GK SPV structures]]），从企业卖方购买短期限应收款，并通过在日本证券业协会监督的国内 CP 市场发行日元商业票据为购买融资，同时由发起大型银行提供**流动性后盾**。在日本，重要的三个发起方是 [[megabanks/mufg|MUFG]]（通过其银行部门和证券子公司）、[[megabanks/smfg|SMFG / SMBC]] 和 [[megabanks/mizuho-fg|Mizuho FG]]。各自运营一到两个多卖方管道项目，峰值 CP 余额从数千亿日元到超过一万亿日元不等。市场在 2008 金融危机后急剧收缩（当时全球 ABCP 市场冻结，日本管道动用流动性额度），又在 2010 Basel III 流动性框架提高发起方承诺资本成本后进一步缩小，并稳定在远小于危机前峰值的规模。当日元短端利率在交叉货币掉期基础上具有吸引力时，外国投资者是重要的 CP 买方。
 
 ## Wiki route
 
-本条目位于 [[structured-finance/INDEX|structured-finance index]] 之下，作为**短期限证券化管道**节点。请对照 [[structured-finance/japan-abs-market-overview|Japan ABS market overview]] 阅读期限证券化市场，对照 [[structured-finance/spv-tk-gk-vehicle-japan-tax|TK / GK SPV vehicle]] 阅读法律实体层，对照 [[structured-finance/credit-rating-methodology-jcr-r-and-i|JCR / R&I methodology]] 阅读评级机构如何处理流动性后盾。系统框架见 [[finance/INDEX|finance index]]，用于理解更广泛的短期融资背景。与银行资产负债表管理相邻：[[JapanFG/mufg|MUFG]]、[[JapanFG/smfg|SMFG]]、[[JapanFG/mizuho-fg|Mizuho FG]] 均在其 Pillar 3 披露中披露 ABCP 管道敞口。
+本条目位于 [[structured-finance/INDEX|structured-finance index]] 之下，作为**短期限证券化管道**节点。请对照 [[structured-finance/japan-abs-market-overview|Japan ABS market overview]] 阅读期限证券化市场，对照 [[structured-finance/spv-tk-gk-vehicle-japan-tax|TK / GK SPV vehicle]] 阅读法律实体层，对照 [[structured-finance/credit-rating-methodology-jcr-r-and-i|JCR / R&I methodology]] 阅读评级机构如何处理流动性后盾。系统框架见 [[finance/INDEX|finance index]]，用于理解更广泛的短期融资背景。与银行资产负债表管理相邻：[[megabanks/mufg|MUFG]]、[[megabanks/smfg|SMFG]]、[[megabanks/mizuho-fg|Mizuho FG]] 均在其 Pillar 3 披露中披露 ABCP 管道敞口。
 
 ## 1. ABCP 管道的形态
 
@@ -64,9 +64,9 @@ ABCP 管道是表外特殊目的载体（[[structured-finance/spv-tk-gk-vehicle-
 
 | 发起方 | 典型管道结构 | 余额规模 |
 |---|---|---|
-| [[JapanFG/mufg|MUFG]] | 由 [[JapanFG/mufg|MUFG Bank]] 发起的多卖方管道，通过证券子公司管理；CP 在国内发行，并且历史上通过离岸载体以美元发行 | 峰值相当于数千亿至约 1 万亿日元 |
-| [[JapanFG/smfg|SMFG / SMBC]] | 由 [[JapanFG/smfg|SMBC]] 发起的多卖方管道项目；以贸易应收款和汽车应收款为主 | 与 MUFG 规模相当 |
-| [[JapanFG/mizuho-fg|Mizuho FG]] | 由 [[JapanFG/mizuho-fg|Mizuho Bank]] 发起的多卖方管道 | 略小于 MUFG / SMBC 组合 |
+| [[megabanks/mufg|MUFG]] | 由 [[megabanks/mufg|MUFG Bank]] 发起的多卖方管道，通过证券子公司管理；CP 在国内发行，并且历史上通过离岸载体以美元发行 | 峰值相当于数千亿至约 1 万亿日元 |
+| [[megabanks/smfg|SMFG / SMBC]] | 由 [[megabanks/smfg|SMBC]] 发起的多卖方管道项目；以贸易应收款和汽车应收款为主 | 与 MUFG 规模相当 |
+| [[megabanks/mizuho-fg|Mizuho FG]] | 由 [[megabanks/mizuho-fg|Mizuho Bank]] 发起的多卖方管道 | 略小于 MUFG / SMBC 组合 |
 
 这些管道与大型银行自身的**直接企业 CP 承销**业务并存（有时也竞争）— 对于本身有资格发行 CP 的企业卖方（高投资级），以自身名义发行 CP 往往比将应收款卖给管道更便宜。
 
@@ -98,9 +98,9 @@ ABCP 管道是表外特殊目的载体（[[structured-finance/spv-tk-gk-vehicle-
 ## 5. 当前市场规模与结构
 
 收缩之后，日本 ABCP 市场明显小于 2008 前峰值，但仍然是以下资产的重要融资渠道：
-- **汽车应收款** — [[JapanFG/toyota-tsusho-corp|Toyota Tsusho]] 及其他汽车制造商的专属汽车金融公司
+- **汽车应收款** — [[financial-conglomerates/toyota-tsusho-corp|Toyota Tsusho]] 及其他汽车制造商的专属汽车金融公司
 - **贸易应收款** — 制造商和商社关联方
-- **设备租赁应收款** — [[JapanFG/mitsubishi-hc-capital|Mitsubishi HC Capital]]、[[JapanFG/smfl|SMFL]]、[[JapanFG/orix-corp|ORIX]] 等租赁子公司
+- **设备租赁应收款** — [[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]]、[[leasing-firms/smfl|SMFL]]、[[leasing-firms/orix-corp|ORIX]] 等租赁子公司
 - **消费金融应收款** — 区域消费金融公司
 
 JSDA 短期 CP 统计将 ABCP 与企业 CP 和银行 CP 合并统计，因此 ABCP 专项余额必须从发起方披露中推断。
@@ -137,10 +137,10 @@ JSDA 短期 CP 统计将 ABCP 与企业 CP 和银行 CP 合并统计，因此 AB
 
 ## 9. 未决问题
 
-- 在 [[JapanFG/boj|BOJ]] 利率正常化下，日本 ABCP 市场是否会实质性恢复，从而重新建立日元短期融资的正 carry
+- 在 [[financial-regulators/boj|BOJ]] 利率正常化下，日本 ABCP 市场是否会实质性恢复，从而重新建立日元短期融资的正 carry
 - 是否会出现 ESG-linked ABCP 或绿色 ABCP，用于具有清晰可持续属性的应收款池（可再生能源租赁应收款、EV 汽车应收款）
-- 如果 [[JapanFG/orix-corp|ORIX]] / [[JapanFG/tokyo-century|Tokyo Century]] 非大型银行管道更加活跃，其竞争地位如何
-- 随着 [[JapanFG/japan-post-bank|Japan Post Bank]] 将短期限持仓从 JGB 多元化出去，它是否会成为更大的 ABCP 买方
+- 如果 [[leasing-firms/orix-corp|ORIX]] / [[leasing-firms/tokyo-century|Tokyo Century]] 非大型银行管道更加活跃，其竞争地位如何
+- 随着 [[regional-banks/japan-post-bank|Japan Post Bank]] 将短期限持仓从 JGB 多元化出去，它是否会成为更大的 ABCP 买方
 - 影响发起方流动性便利经济性的 LCR / NSFR 规则细化路径
 
 ## Related
@@ -150,9 +150,9 @@ JSDA 短期 CP 统计将 ABCP 与企业 CP 和银行 CP 合并统计，因此 AB
 - [[structured-finance/spv-tk-gk-vehicle-japan-tax|TK / GK SPV vehicle]]
 - [[structured-finance/credit-rating-methodology-jcr-r-and-i|JCR / R&I methodology]]
 - [[finance/INDEX|finance index]]
-- [[JapanFG/mufg|MUFG]] · [[JapanFG/smfg|SMFG]] · [[JapanFG/mizuho-fg|Mizuho FG]]
-- [[JapanFG/mitsubishi-hc-capital|Mitsubishi HC Capital]] · [[JapanFG/smfl|SMFL]] · [[JapanFG/orix-corp|ORIX]] · [[JapanFG/tokyo-century|Tokyo Century]]
-- [[JapanFG/japan-exchange-group|JPX]] · [[JapanFG/japan-post-bank|Japan Post Bank]]
+- [[megabanks/mufg|MUFG]] · [[megabanks/smfg|SMFG]] · [[megabanks/mizuho-fg|Mizuho FG]]
+- [[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]] · [[leasing-firms/smfl|SMFL]] · [[leasing-firms/orix-corp|ORIX]] · [[leasing-firms/tokyo-century|Tokyo Century]]
+- [[financial-regulators/japan-exchange-group|JPX]] · [[regional-banks/japan-post-bank|Japan Post Bank]]
 
 ## Sources
 

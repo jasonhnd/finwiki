@@ -1,0 +1,110 @@
+{
+  "schema_version": "1.0",
+  "slug": "financial-conglomerates/mitsui-co",
+  "source_path": "financial-conglomerates/mitsui-co.md",
+  "url": "https://finwiki.zksc.io/financial-conglomerates/mitsui-co",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/financial-conglomerates/mitsui-co.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/financial-conglomerates/mitsui-co.md",
+  "domain": "financial-conglomerates",
+  "title": "三井物産 (Mitsui & Co., Ltd.)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "三井物産 (Mitsui & Co., Ltd.)",
+    "aliases": [
+      "Mitsui & Co.",
+      "Mitsui & Co., Ltd.",
+      "三井物産",
+      "三井物産株式会社",
+      "Mitsui Bussan",
+      "MITSUI",
+      "8031",
+      "mitsui-co",
+      "mitsui-bussan"
+    ],
+    "domain": "financial-conglomerates",
+    "created": "2026-05-24",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
+    "review_by": "2026-11-20",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "sogo-shosha",
+      "parent-company",
+      "mitsui-group",
+      "lng",
+      "iron-ore",
+      "infrastructure",
+      "mobility",
+      "healthcare",
+      "conglomerate"
+    ],
+    "status": "active",
+    "sources": [
+      "三井物産 (8031) 公式 IR — https://www.mitsui.com/jp/ja/ir/",
+      "三井物産 統合報告書 — https://www.mitsui.com/jp/ja/ir/library/integrated/",
+      "EDINET 有価証券報告書 — https://disclosure.edinet-fsa.go.jp/ (検索: 三井物産)",
+      "JPX 銘柄情報 8031 — https://www2.jpx.co.jp/"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index as a sōgō shōsha parent holding-company. Read it against 三菱商事 (純利益首位を争う最大ライバル) and 伊藤忠商事 (非資源寄り 5 大商社の対照) for peer / contrast context. For the financial-services adjacency that anchors this entry on JapanFG — see 三井物産フィナンシャルサービス (内向け CMS) and SMFL (住友三井オートサービス系の総合",
+  "headings": [
+    "三井物産 (Mitsui & Co., Ltd.)",
+    "Wiki route",
+    "1. 会社概要",
+    "主要子会社・関連会社 (JapanFG 文脈)",
+    "沿革ハイライト ^[extracted]",
+    "2. 事業セグメント・マップ",
+    "3. Financial-services adjacency",
+    "5 大商社内の identity",
+    "競合",
+    "5. 規制・政策"
+  ],
+  "body_links": {
+    "wikilinks_count": 16,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "cooperative-banks/ja-mitsui-leasing",
+      "finance/INDEX",
+      "finance/japan-listed-financial-groups-investable-universe",
+      "financial-conglomerates/itochu-corp",
+      "financial-conglomerates/marubeni-corp",
+      "financial-conglomerates/mitsubishi-corp",
+      "financial-conglomerates/sojitz-corp",
+      "financial-conglomerates/sumitomo-corp",
+      "financial-conglomerates/toyota-tsusho-corp",
+      "leasing-firms/smfl",
+      "leasing-firms/sumitomo-mitsui-auto-service",
+      "megabanks/smfg",
+      "non-life-insurers/mitsui-sumitomo-insurance",
+      "trading-company-finance/mitsui-bussan-financial-services",
+      "trust-banks/sumitomo-mitsui-trust"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/cooperative-banks/ja-mitsui-leasing",
+      "https://finwiki.zksc.io/finance/INDEX",
+      "https://finwiki.zksc.io/finance/japan-listed-financial-groups-investable-universe",
+      "https://finwiki.zksc.io/financial-conglomerates/itochu-corp",
+      "https://finwiki.zksc.io/financial-conglomerates/marubeni-corp",
+      "https://finwiki.zksc.io/financial-conglomerates/mitsubishi-corp",
+      "https://finwiki.zksc.io/financial-conglomerates/sojitz-corp",
+      "https://finwiki.zksc.io/financial-conglomerates/sumitomo-corp",
+      "https://finwiki.zksc.io/financial-conglomerates/toyota-tsusho-corp",
+      "https://finwiki.zksc.io/leasing-firms/smfl",
+      "https://finwiki.zksc.io/leasing-firms/sumitomo-mitsui-auto-service",
+      "https://finwiki.zksc.io/megabanks/smfg",
+      "https://finwiki.zksc.io/non-life-insurers/mitsui-sumitomo-insurance",
+      "https://finwiki.zksc.io/trading-company-finance/mitsui-bussan-financial-services",
+      "https://finwiki.zksc.io/trust-banks/sumitomo-mitsui-trust"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 5785,
+    "word_like_tokens": 930,
+    "inbound_wikilinks_count": 14,
+    "last_modified": "2026-06-04"
+  }
+}

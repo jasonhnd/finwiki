@@ -14,7 +14,7 @@ translated_at: 2026-05-31T03:19:56.450Z
 
 日本的地方银行数字合作不只是"一个银行 App"。它分为电子结算代理 API 合约、共享 API 平台、银行自有 App、会计/资金管理集成、BaaS 式银行合作以及账户直连结算通道。
 
-本页与 [[payments/japan-bank-api-payment-agency-route|bank API route]]、[[payments/japan-bank-api-incident-and-fraud-control|bank API incident controls]]、[[banking/baas-japan-landscape|BaaS Japan landscape]]、[[banking/regional-bank-consolidation-pattern|regional bank consolidation]]、[[payments/account-to-account-payment-japan|account-to-account payments]]、[[JapanFG/legal-financial-licenses/INDEX|legal / financial licenses]] 配合使用。
+本页与 [[payments/japan-bank-api-payment-agency-route|bank API route]]、[[payments/japan-bank-api-incident-and-fraud-control|bank API incident controls]]、[[banking/baas-japan-landscape|BaaS Japan landscape]]、[[banking/regional-bank-consolidation-pattern|regional bank consolidation]]、[[payments/account-to-account-payment-japan|account-to-account payments]]、[[financial-licenses/INDEX|legal / financial licenses]] 配合使用。
 
 ## 路线图
 
@@ -30,11 +30,11 @@ translated_at: 2026-05-31T03:19:56.450Z
 
 | 案例 | 公开相关性 |
 |---|---|
-| [[JapanFG/yokohama-bank|Yokohama Bank]] API 披露 | 公开列出电子结算代理 API 合约路线及用户补偿条款。 |
+| [[regional-banks/yokohama-bank|Yokohama Bank]] API 披露 | 公开列出电子结算代理 API 合约路线及用户补偿条款。 |
 | TSUBASA FinTech 共通平台 | 展示地方银行联盟在共享 API / 数字服务平台基础设施上的做法。 |
-| [[JapanFG/chiba-bank|Chiba Bank]] / TSUBASA 参与方 | 说明地方银行如何在保持各自独立银行实体的同时汇集技术。 |
-| [[JapanFG/fukuoka-fg|Fukuoka FG]] / iBank 式路线 | 展示超越纯账户查看 App 的地方银行集团 App / 平台战略。 |
-| [[JapanFG/freee|freee]] 与 [[JapanFG/money-forward|Money Forward]] | 地方银行 API 分析常用的会计 / PFM 集成锚点。 |
+| [[regional-banks/chiba-bank|Chiba Bank]] / TSUBASA 参与方 | 说明地方银行如何在保持各自独立银行实体的同时汇集技术。 |
+| [[regional-banks/fukuoka-fg|Fukuoka FG]] / iBank 式路线 | 展示超越纯账户查看 App 的地方银行集团 App / 平台战略。 |
+| [[payment-firms/freee|freee]] 与 [[payment-firms/money-forward|Money Forward]] | 地方银行 API 分析常用的会计 / PFM 集成锚点。 |
 
 ## 控制问题
 
@@ -49,9 +49,9 @@ translated_at: 2026-05-31T03:19:56.450Z
 
 ## JapanFG 相关性
 
-- [[JapanFG/yokohama-bank|Yokohama Bank]]、[[JapanFG/chiba-bank|Chiba Bank]]、[[JapanFG/chugoku-bank|Chugoku Bank]]、[[JapanFG/tsukuba-bank|Tsukuba Bank]] 以及与 TSUBASA 关联的地方银行是有用的 API 平台锚点。
-- [[JapanFG/fukuoka-fg|Fukuoka FG]] 与 [[banking/minna-bank-baas-model|Minna Bank BaaS model]] 展示更具平台原生特征的地方银行方向。
-- [[JapanFG/freee|freee]] 与 [[JapanFG/money-forward|Money Forward]] 在账户数据 / 会计集成为核心用例时进行交叉链接。
+- [[regional-banks/yokohama-bank|Yokohama Bank]]、[[regional-banks/chiba-bank|Chiba Bank]]、[[regional-banks/chugoku-bank|Chugoku Bank]]、[[regional-banks/tsukuba-bank|Tsukuba Bank]] 以及与 TSUBASA 关联的地方银行是有用的 API 平台锚点。
+- [[regional-banks/fukuoka-fg|Fukuoka FG]] 与 [[banking/minna-bank-baas-model|Minna Bank BaaS model]] 展示更具平台原生特征的地方银行方向。
+- [[payment-firms/freee|freee]] 与 [[payment-firms/money-forward|Money Forward]] 在账户数据 / 会计集成为核心用例时进行交叉链接。
 - [[payments/japan-bank-api-incident-and-fraud-control|Bank API incident controls]] 应在把银行 API 集成视为低风险便利功能之前使用。
 
 ## 研究清单
@@ -71,9 +71,9 @@ translated_at: 2026-05-31T03:19:56.450Z
 - [[banking/minna-bank-baas-model]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[payments/account-to-account-payment-japan]]
-- [[JapanFG/legal-financial-licenses/INDEX]]
-- [[JapanFG/yokohama-bank]]
-- [[JapanFG/chiba-bank]]
+- [[financial-licenses/INDEX]]
+- [[regional-banks/yokohama-bank]]
+- [[regional-banks/chiba-bank]]
 - [[INDEX|FinWiki index]]
 
 ## 来源

@@ -16,7 +16,7 @@ translated_at: 2026-06-02T12:19:04.220Z
 
 ## ウィキ上の位置づけ
 
-本項目は [[exchanges/INDEX|exchanges index]] 配下に位置づける。上記の各極別ファイルに対する **横串 (cross-cut)** の対応ページであり、並行する stablecoin 軸は [[fintech/global-stablecoin-regulatory-five-pole-matrix|global stablecoin regulatory five-pole matrix]]、日本側の制度・規制境界は [[JapanFG/legal-financial-licenses/INDEX|legal/financial licenses]] と併読する。
+本項目は [[exchanges/INDEX|exchanges index]] 配下に位置づける。上記の各極別ファイルに対する **横串 (cross-cut)** の対応ページであり、並行する stablecoin 軸は [[fintech/global-stablecoin-regulatory-five-pole-matrix|global stablecoin regulatory five-pole matrix]]、日本側の制度・規制境界は [[financial-licenses/INDEX|legal/financial licenses]] と併読する。
 
 ## Key facts
 
@@ -207,7 +207,7 @@ translated_at: 2026-06-02T12:19:04.220Z
 - [[exchanges/jp-vasp-cold-storage-segregation-rules]] — コールド保管詳細
 - [[exchanges/global-cex-top10-comparison]] — グローバル CEX 10 強位置付け
 - [[fintech/global-stablecoin-regulatory-five-pole-matrix]] — ステーブルコイン版 5 極マトリクス (並行作成中、両方公開後にリンク解決)
-- [[JapanFG/legal-financial-licenses/INDEX|legal/financial licenses]] — 日本側の規制境界
+- [[financial-licenses/INDEX|legal/financial licenses]] — 日本側の規制境界
 
 ## 出典
 

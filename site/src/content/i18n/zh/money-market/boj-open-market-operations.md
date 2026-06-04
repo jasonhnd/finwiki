@@ -18,7 +18,7 @@ translated_at: 2026-05-30T14:13:23.421Z
 
 公开市场操作是日本央行调控货币市场的主要实施工具。根据货币政策会议确定的政策指引,日本央行通过有抵押品的放贷、购销证券、回购式操作和其他市场操作工具来供给或吸收资金。
 
-对于 FinWiki,此页面是 [[JapanFG/boj-monetary-policy]] 和 [[money-market/japan-money-market]] 下的机制层。
+对于 FinWiki,此页面是 [[financial-regulators/boj-monetary-policy]] 和 [[money-market/japan-money-market]] 下的机制层。
 
 ## 操作类型
 
@@ -52,10 +52,10 @@ translated_at: 2026-05-30T14:13:23.421Z
 
 使用这些内部锚点:
 
-- [[JapanFG/mufg]], [[JapanFG/smfg]], [[JapanFG/mizuho-fg]]
-- [[JapanFG/mizuho-securities]], [[JapanFG/mufg-mums]]
-- [[JapanFG/tokyo-tanshi]], [[JapanFG/central-tanshi]], [[JapanFG/ueda-yagi-tanshi]]
-- [[JapanFG/local-bond-market]]
+- [[megabanks/mufg]], [[megabanks/smfg]], [[megabanks/mizuho-fg]]
+- [[securities-firms/mizuho-securities]], [[securities-firms/mufg-mums]]
+- [[financial-regulators/tokyo-tanshi]], [[financial-regulators/central-tanshi]], [[financial-regulators/ueda-yagi-tanshi]]
+- [[financial-regulators/local-bond-market]]
 
 ## 阅读检查清单
 
@@ -74,9 +74,9 @@ translated_at: 2026-05-30T14:13:23.421Z
 - [[money-market/INDEX|money-market INDEX]]
 - [[money-market/japan-money-market]]
 - [[money-market/call-market-structure]]
-- [[JapanFG/boj-monetary-policy]]
-- [[JapanFG/local-bond-market]]
-- [[JapanFG/legal-financial-licenses/INDEX]]
+- [[financial-regulators/boj-monetary-policy]]
+- [[financial-regulators/local-bond-market]]
+- [[financial-licenses/INDEX]]
 - [[INDEX|FinWiki index]]
 
 ## 来源

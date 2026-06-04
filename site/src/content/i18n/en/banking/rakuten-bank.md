@@ -22,7 +22,7 @@ Rakuten Bank is an internet bank within the Rakuten Group, with its core being t
 
 - **Banking model**: A net bank that, rather than presupposing physical branches, makes online accounts, debit, account transfers, and securities linkage its main funnels.
 - **Ecosystem hook**: Money Bridge with Rakuten Securities, the points programs of Rakuten Ichiba, and account linkage with Rakuten Pay push up deposit acquisition and daily usage.
-- **Competitive set**: [[banking/paypay-bank|PayPay Bank]], [[banking/au-jibun-bank|auじぶん銀行]], [[JapanFG/ssnb|住信 SBI ネット銀行]], [[JapanFG/gmo-aozora-net|GMO あおぞらネット銀行]].
+- **Competitive set**: [[banking/paypay-bank|PayPay Bank]], [[banking/au-jibun-bank|auじぶん銀行]], [[regional-banks/ssnb|住信 SBI ネット銀行]], [[payment-firms/gmo-aozora-net|GMO あおぞらネット銀行]].
 
 ## Strategic read
 
@@ -32,11 +32,11 @@ On the other hand, the growth of deposit balance and account count depends heavi
 
 ## Related
 
-- [[JapanFG/rakuten-fg]]
+- [[payment-firms/rakuten-fg]]
 - [[banking/paypay-bank]]
 - [[banking/au-jibun-bank]]
-- [[JapanFG/ssnb]]
-- [[JapanFG/gmo-aozora-net]]
+- [[regional-banks/ssnb]]
+- [[payment-firms/gmo-aozora-net]]
 - [[banking/minna-bank-baas-model]]
 
 ## Sources

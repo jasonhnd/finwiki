@@ -60,7 +60,7 @@ translated_at: 2026-05-31T06:16:15.667Z
 | HR / 薪资 | 子公司具备自主能力前持续处理薪资 |
 | 财务 / 现金管理 | 内部资金池拆分；子公司新银行安排 |
 | 采购 | 共享供应商合约；子公司重新谈判前的过渡性采购 |
-| 法务 / 合规 | 共享监管牌照（尤其是金融服务行业，依 [[JapanFG/legal-financial-licenses/securities-license-stack|securities-license stack]]） |
+| 法务 / 合规 | 共享监管牌照（尤其是金融服务行业，依 [[financial-licenses/securities-license-stack|securities-license stack]]） |
 | 不动产 | 共享办公室的持续使用及成本分摊 |
 
 TSA 定价通常为**成本加成 5-10%**，并设阶梯式提价以激励尽快退出。反向 TSA 则是子公司就保留义务向母公司提供服务。
@@ -113,7 +113,7 @@ TSA 定价通常为**成本加成 5-10%**，并设阶梯式提价以激励尽快
 - [[finance/japan-acquisition-finance]]
 - [[finance/japan-leveraged-buyout-economics]]
 - [[finance/multi-jurisdiction-identity-tax-leverage]]
-- [[JapanFG/legal-financial-licenses/securities-license-stack]]
+- [[financial-licenses/securities-license-stack]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

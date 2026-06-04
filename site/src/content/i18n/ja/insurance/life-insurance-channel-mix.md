@@ -17,7 +17,7 @@ translated_at: 2026-06-02T14:01:20.943Z
 
 日本の生命保険販売は単一チャネルではない。大手保険会社は専属営業職員、代理店、銀行窓販、法人・団体チャネル、インターネット直販、コールセンター、組み込み型パートナーを組み合わせている。チャネルミックスは商品採算、コンプライアンスリスク、顧客層、資本効率を左右する。
 
-このページは [[JapanFG/dai-ichi-life]]、[[JapanFG/nippon-life]]、[[JapanFG/sumitomo-life]]、[[JapanFG/lifenet]]、[[JapanFG/orix-life]]、[[JapanFG/sony-fg]] を比較するために使う。
+このページは [[life-insurers/dai-ichi-life]]、[[life-insurers/nippon-life]]、[[life-insurers/sumitomo-life]]、[[life-insurers/lifenet]]、[[life-insurers/orix-life]]、[[megabanks/sony-fg]] を比較するために使う。
 
 ## チャネルマップ
 
@@ -32,11 +32,11 @@ translated_at: 2026-06-02T14:01:20.943Z
 
 ## 会社別の読み方
 
-- [[JapanFG/nippon-life]] と [[JapanFG/sumitomo-life]]: 相互会社の系譜と大規模な対面営業インフラ。
-- [[JapanFG/dai-ichi-life]]: 国内複数チャネルと海外子会社を持つ上場持株会社モデルで、チャネル生産性は株主還元に影響する。
-- [[JapanFG/lifenet]]: オンライン直販を起点に、提携・組み込み型へ広げたケース。
-- [[JapanFG/sony-fg]]: Sony Life はライフプランナー主導で、Sony の損保・銀行商品はデジタル / 直販寄りであり、同一ブランド内の対照例になる。
-- [[JapanFG/orix-life]]: 直販・代理店チャネルでの商品視認性が高い。
+- [[life-insurers/nippon-life]] と [[life-insurers/sumitomo-life]]: 相互会社の系譜と大規模な対面営業インフラ。
+- [[life-insurers/dai-ichi-life]]: 国内複数チャネルと海外子会社を持つ上場持株会社モデルで、チャネル生産性は株主還元に影響する。
+- [[life-insurers/lifenet]]: オンライン直販を起点に、提携・組み込み型へ広げたケース。
+- [[megabanks/sony-fg]]: Sony Life はライフプランナー主導で、Sony の損保・銀行商品はデジタル / 直販寄りであり、同一ブランド内の対照例になる。
+- [[life-insurers/orix-life]]: 直販・代理店チャネルでの商品視認性が高い。
 
 ## 戦略上の意味
 
@@ -54,7 +54,7 @@ translated_at: 2026-06-02T14:01:20.943Z
 - [[insurance/internet-life-insurance-business-model]]
 - [[insurance/mutual-vs-stock-life-insurer]]
 - [[insurance/economic-value-based-solvency]]
-- [[JapanFG/legal-financial-licenses/INDEX]]
+- [[financial-licenses/INDEX]]
 - [[INDEX|FinWiki index]]
 
 ## 出典

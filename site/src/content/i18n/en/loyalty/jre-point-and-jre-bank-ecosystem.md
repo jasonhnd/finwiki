@@ -12,17 +12,17 @@ translated_at: 2026-05-30T14:48:27.667Z
 
 ## Wiki route
 
-This entry sits under [[loyalty/INDEX|loyalty index]] as the transit-anchored loyalty ecosystem deep dive for the JR-East group. Pair it with [[loyalty/japan-points-landscape|Japan points landscape]], [[loyalty/d-point-detailed-ecosystem|d Point detailed ecosystem]], [[loyalty/v-point-smbc-ccc-case|V Point case]], [[loyalty/ponta-points-deep-dive|Ponta points deep dive]], and [[JapanFG/jr-east-financial|JR-East Financial Subsidiaries]] for the entity perimeter.
+This entry sits under [[loyalty/INDEX|loyalty index]] as the transit-anchored loyalty ecosystem deep dive for the JR-East group. Pair it with [[loyalty/japan-points-landscape|Japan points landscape]], [[loyalty/d-point-detailed-ecosystem|d Point detailed ecosystem]], [[loyalty/v-point-smbc-ccc-case|V Point case]], [[loyalty/ponta-points-deep-dive|Ponta points deep dive]], and [[card-issuers/jr-east-financial|JR-East Financial Subsidiaries]] for the entity perimeter.
 
 ## TL;DR
 
-**JRE POINT** is the loyalty currency of the [[JapanFG/jr-east-financial|JR-East Financial Subsidiaries]] ecosystem, sitting at the intersection of Mobile Suica, ViewCard credit cards, and the JRE BANK brand banking account operated under [[JapanFG/rakuten-bank|Rakuten Bank]] BaaS from 2024-05. The economic logic is to convert daily rail commuting, station retail, credit-card spend, and bank-deposit balances into a single LTV ladder.
+**JRE POINT** is the loyalty currency of the [[card-issuers/jr-east-financial|JR-East Financial Subsidiaries]] ecosystem, sitting at the intersection of Mobile Suica, ViewCard credit cards, and the JRE BANK brand banking account operated under [[JapanFG/rakuten-bank|Rakuten Bank]] BaaS from 2024-05. The economic logic is to convert daily rail commuting, station retail, credit-card spend, and bank-deposit balances into a single LTV ladder.
 
 ## Ecosystem perimeter — the four anchors
 
 | Anchor | Entity | Role in JRE POINT ecosystem |
 |---|---|---|
-| **Suica (physical IC card + Mobile Suica)** | [[JapanFG/jr-east-financial|JR-East]] direct (rail business) + JR East Payment Service (acceptance / merchant) | Primary daily-transaction surface; ride-commute accrual + e-money payment accrual |
+| **Suica (physical IC card + Mobile Suica)** | [[card-issuers/jr-east-financial|JR-East]] direct (rail business) + JR East Payment Service (acceptance / merchant) | Primary daily-transaction surface; ride-commute accrual + e-money payment accrual |
 | **ViewCard (ViewCard Co., Ltd.)** | JR-East-100% subsidiary | Credit-card spend accrual; auto-charge to Suica; gold-tier service tier |
 | **JRE BANK** | JR-East brand × [[JapanFG/rakuten-bank|楽天銀行]] BaaS (opened 2024-05-09) | Bank deposit-balance accrual; long-distance ticket fare-discount benefit |
 | **JR-East station retail (Lumine, atre, ecute, NewDays)** | JR-East group banners | Scan-and-earn at retail POS; merchant-funded accrual campaigns |
@@ -60,7 +60,7 @@ The Mobile Suica x ViewCard auto-charge combination is the structural sweet spot
 | **Lumine Card** | Co-branded with Lumine station-building shopping centers; higher Lumine discount + Suica integration |
 | **JRE CARD** | JR-East-brand premium-tier card, emphasized for station retail / atre / ecute use |
 | **BicCamera Suica Card** | Co-branded with BicCamera; Suica + BicCamera points integration |
-| **JAL Card Suica** | Co-branded with [[JapanFG/jal-card|JAL Card]]; Suica + JAL Mileage Bank dual accrual |
+| **JAL Card Suica** | Co-branded with [[card-issuers/jal-card|JAL Card]]; Suica + JAL Mileage Bank dual accrual |
 | **ANA VISA Suica Card** | Co-branded with ANA; Suica + ANA Mileage Club dual accrual |
 
 The international-brand alignment is **VISA / Mastercard / JCB** (no AmEx / Diners as primary, although the JAL Card Suica route is available via JAL Card's broader brand line).
@@ -74,7 +74,7 @@ The VIEW Plus bonus tier for ViewCard provides 1.5% accrual on Mobile Suica auto
 | Item | Detail |
 |---|---|
 | Operator (license holder) | [[JapanFG/rakuten-bank|楽天銀行]] |
-| Brand owner | [[JapanFG/jr-east-financial|JR-East]] (East Japan Railway Company) |
+| Brand owner | [[card-issuers/jr-east-financial|JR-East]] (East Japan Railway Company) |
 | Opening date | **2024-05-09** |
 | Account model | Brand-bank model (similar to a co-branded credit card, but at the deposit-account level) |
 | Primary benefit | **Long-distance JR-East ticket discount** (5-50% depending on deposit balance tier and product type) |
@@ -89,7 +89,7 @@ The **economic logic** is that a customer holding ¥X in a JRE BANK deposit acco
 
 For a customer who travels long-distance on JR-East several times per year (e.g., for Tohoku Shinkansen travel from Tokyo), the ticket-discount value can be material — often more economically valuable than the standard deposit-interest income.
 
-The **BaaS architecture** is significant: JR-East does not hold a bank license itself (unlike [[JapanFG/seven-bank|Seven Bank]] or [[JapanFG/aeon-bank|Aeon Bank]] which run their own banking subsidiaries). Instead, the bank-license burden sits with 楽天銀行, and JR-East provides only the brand, customer relationship, and benefits structure. This trade-off — license-cost-avoidance vs full-control loss — is documented in [[JapanFG/jr-east-financial|JR-East Financial Subsidiaries]].
+The **BaaS architecture** is significant: JR-East does not hold a bank license itself (unlike [[regional-banks/seven-bank|Seven Bank]] or [[card-issuers/aeon-bank|Aeon Bank]] which run their own banking subsidiaries). Instead, the bank-license burden sits with 楽天銀行, and JR-East provides only the brand, customer relationship, and benefits structure. This trade-off — license-cost-avoidance vs full-control loss — is documented in [[card-issuers/jr-east-financial|JR-East Financial Subsidiaries]].
 
 ## The four-layer LTV ladder
 
@@ -133,11 +133,11 @@ The second-closest peer is private-railway transit-anchored loyalty, such as [[J
 - [[loyalty/d-point-au-kddi-docomo-telco-point-consolidation|d Point / au telco-point consolidation case]]
 - [[loyalty/sb-yahoo-paypay-points-unified-ecosystem|SB / Yahoo / PayPay unified points]]
 - [[loyalty/t-point-v-point-post-2024-merger|T Point + V Point post-2024 merger detail]]
-- [[JapanFG/jr-east-financial|JR-East Financial Subsidiaries]]
+- [[card-issuers/jr-east-financial|JR-East Financial Subsidiaries]]
 - [[JapanFG/rakuten-bank|楽天銀行 (Rakuten Bank)]]
-- [[JapanFG/seven-bank|Seven Bank]]
-- [[JapanFG/aeon-bank|Aeon Bank / AFS]]
-- [[JapanFG/jal-card|JAL Card]]
+- [[regional-banks/seven-bank|Seven Bank]]
+- [[card-issuers/aeon-bank|Aeon Bank / AFS]]
+- [[card-issuers/jal-card|JAL Card]]
 - [[payments/japan-code-payment-operator-2025-market-share-matrix|Japan code-payment operator 2025 market share matrix]]
 - [[payments/cashless-jp-landscape|Japan cashless payment landscape]]
 - [[retail/INDEX|retail index]]

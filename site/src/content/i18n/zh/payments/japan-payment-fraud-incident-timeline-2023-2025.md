@@ -12,7 +12,7 @@ translated_at: 2026-06-01T03:31:12.239Z
 
 ## Wiki route
 
-本条目位于 [[payments/INDEX|payments index]] 之下，是按时间排列的事件与执法页面；它与 [[payments/japan-card-security-authentication-controls|Japan card security and authentication controls]] 配套，用于 J-CSC 指引 6.0 / 6.1  控制框架；与 [[payments/japan-bank-api-incident-and-fraud-control|Japan bank API incident and fraud control]] 配套，用于银行轨道特定欺诈面；与 [[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]] 配套，用于四分类语境。可与 [[payments/japan-card-issuer-acquirer-processor-split|card role split]] 比较，了解各事件类别中由哪一方承担 chargeback 风险；与 [[payments/psp-merchant-settlement-risk|PSP merchant settlement risk]] 比较 PSP 入驻失败案例；与 [[payments/japan-bnpl-credit-purchase-boundary|BNPL / credit-purchase boundary]] 比较 pay-later 套现滥用。卡品牌语境见 [[JapanFG/visa-worldwide-japan|Visa Worldwide Japan]]、[[JapanFG/mastercard-japan|Mastercard Japan]]、[[JapanFG/jcb|JCB]]；主要发卡方锚点为 [[JapanFG/mufg-nicos|MUFG NICOS]]、[[JapanFG/rakuten-card|Rakuten Card]]、[[JapanFG/aeon-financial-service|AEON Financial Service]]。
+本条目位于 [[payments/INDEX|payments index]] 之下，是按时间排列的事件与执法页面；它与 [[payments/japan-card-security-authentication-controls|Japan card security and authentication controls]] 配套，用于 J-CSC 指引 6.0 / 6.1  控制框架；与 [[payments/japan-bank-api-incident-and-fraud-control|Japan bank API incident and fraud control]] 配套，用于银行轨道特定欺诈面；与 [[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]] 配套，用于四分类语境。可与 [[payments/japan-card-issuer-acquirer-processor-split|card role split]] 比较，了解各事件类别中由哪一方承担 chargeback 风险；与 [[payments/psp-merchant-settlement-risk|PSP merchant settlement risk]] 比较 PSP 入驻失败案例；与 [[payments/japan-bnpl-credit-purchase-boundary|BNPL / credit-purchase boundary]] 比较 pay-later 套现滥用。卡品牌语境见 [[payment-firms/visa-worldwide-japan|Visa Worldwide Japan]]、[[payment-firms/mastercard-japan|Mastercard Japan]]、[[card-issuers/jcb|JCB]]；主要发卡方锚点为 [[card-issuers/mufg-nicos|MUFG NICOS]]、[[card-issuers/rakuten-card|Rakuten Card]]、[[card-issuers/aeon-financial-service|AEON Financial Service]]。
 
 ## TL;DR
 
@@ -147,12 +147,12 @@ translated_at: 2026-06-01T03:31:12.239Z
 - [[payments/japan-payment-scheme-economics-matrix]]
 - [[payments/japan-code-payment-competitive-map]]
 - [[payments/cashless-jp-landscape]]
-- [[JapanFG/jcb]]
-- [[JapanFG/mufg-nicos]]
-- [[JapanFG/rakuten-card]]
-- [[JapanFG/aeon-financial-service]]
-- [[JapanFG/paypay]]
-- [[JapanFG/au-payment]]
+- [[card-issuers/jcb]]
+- [[card-issuers/mufg-nicos]]
+- [[card-issuers/rakuten-card]]
+- [[card-issuers/aeon-financial-service]]
+- [[payment-firms/paypay]]
+- [[payment-firms/au-payment]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

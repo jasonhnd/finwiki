@@ -68,14 +68,7 @@
     "wikilinks_count": 21,
     "wikilinks": [
       "INDEX",
-      "JapanFG/au-fh",
-      "JapanFG/ndfg",
-      "JapanFG/paypay",
-      "JapanFG/paypay-card",
-      "JapanFG/paypay-fg",
-      "JapanFG/paypay-securities",
-      "JapanFG/rakuten-fg",
-      "JapanFG/smfg",
+      "card-issuers/paypay-card",
       "loyalty/INDEX",
       "loyalty/d-point-au-kddi-docomo-telco-point-consolidation",
       "loyalty/d-point-detailed-ecosystem",
@@ -84,21 +77,21 @@
       "loyalty/ponta-points-deep-dive",
       "loyalty/t-point-v-point-post-2024-merger",
       "loyalty/v-point-smbc-ccc-case",
+      "megabanks/au-fh",
+      "megabanks/ndfg",
+      "megabanks/paypay-fg",
+      "megabanks/smfg",
+      "payment-firms/paypay",
+      "payment-firms/rakuten-fg",
       "payments/famipay-valucreate-strategy",
       "payments/japan-code-payment-competitive-map",
       "payments/japan-code-payment-operator-2025-market-share-matrix",
-      "retail/INDEX"
+      "retail/INDEX",
+      "securities-firms/paypay-securities"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/au-fh",
-      "https://finwiki.zksc.io/JapanFG/ndfg",
-      "https://finwiki.zksc.io/JapanFG/paypay",
-      "https://finwiki.zksc.io/JapanFG/paypay-card",
-      "https://finwiki.zksc.io/JapanFG/paypay-fg",
-      "https://finwiki.zksc.io/JapanFG/paypay-securities",
-      "https://finwiki.zksc.io/JapanFG/rakuten-fg",
-      "https://finwiki.zksc.io/JapanFG/smfg",
+      "https://finwiki.zksc.io/card-issuers/paypay-card",
       "https://finwiki.zksc.io/loyalty/INDEX",
       "https://finwiki.zksc.io/loyalty/d-point-au-kddi-docomo-telco-point-consolidation",
       "https://finwiki.zksc.io/loyalty/d-point-detailed-ecosystem",
@@ -107,18 +100,25 @@
       "https://finwiki.zksc.io/loyalty/ponta-points-deep-dive",
       "https://finwiki.zksc.io/loyalty/t-point-v-point-post-2024-merger",
       "https://finwiki.zksc.io/loyalty/v-point-smbc-ccc-case",
+      "https://finwiki.zksc.io/megabanks/au-fh",
+      "https://finwiki.zksc.io/megabanks/ndfg",
+      "https://finwiki.zksc.io/megabanks/paypay-fg",
+      "https://finwiki.zksc.io/megabanks/smfg",
+      "https://finwiki.zksc.io/payment-firms/paypay",
+      "https://finwiki.zksc.io/payment-firms/rakuten-fg",
       "https://finwiki.zksc.io/payments/famipay-valucreate-strategy",
       "https://finwiki.zksc.io/payments/japan-code-payment-competitive-map",
       "https://finwiki.zksc.io/payments/japan-code-payment-operator-2025-market-share-matrix",
-      "https://finwiki.zksc.io/retail/INDEX"
+      "https://finwiki.zksc.io/retail/INDEX",
+      "https://finwiki.zksc.io/securities-firms/paypay-securities"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 12674,
-    "word_like_tokens": 2056,
+    "nonspace_chars": 12721,
+    "word_like_tokens": 2062,
     "inbound_wikilinks_count": 12,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-04"
   }
 }

@@ -12,20 +12,20 @@ translated_at: 2026-06-01T03:31:12.294Z
 
 ## Wiki route
 
-This entry sits under [[payments/INDEX|payments index]] as the AEON-anchored prepaid issuer page that pairs with [[payments/prepaid-payment-instrument-issuers-japan-index|prepaid payment instrument issuers registry]] for the FSA registry view and with [[payments/waon-nanaco-retail-prepaid-comparison|WAON vs nanaco retail prepaid comparison]] for the head-to-head retail anchor comparison. Compare with [[payments/nanaco-prepaid-seven-i|nanaco]] (Seven & i counterpart), [[payments/japan-transit-prepaid-suica-pasmo-icoca-economics|transit-prepaid economics]] (FeliCa peer scheme), and [[payments/edy-rakuten-prepaid|Rakuten Edy]] (platform-agnostic FeliCa prepaid). Group anchors are [[retail/aeon-group|AEON Group]] and [[JapanFG/aeon-financial-service|AEON Financial Service]]; the group bank rail is [[JapanFG/aeon-bank|AEON Bank]]; loyalty integration routes to [[loyalty/japan-points-landscape|Japan points landscape]] for WAON POINT economics.
+This entry sits under [[payments/INDEX|payments index]] as the AEON-anchored prepaid issuer page that pairs with [[payments/prepaid-payment-instrument-issuers-japan-index|prepaid payment instrument issuers registry]] for the FSA registry view and with [[payments/waon-nanaco-retail-prepaid-comparison|WAON vs nanaco retail prepaid comparison]] for the head-to-head retail anchor comparison. Compare with [[payments/nanaco-prepaid-seven-i|nanaco]] (Seven & i counterpart), [[payments/japan-transit-prepaid-suica-pasmo-icoca-economics|transit-prepaid economics]] (FeliCa peer scheme), and [[payments/edy-rakuten-prepaid|Rakuten Edy]] (platform-agnostic FeliCa prepaid). Group anchors are [[retail/aeon-group|AEON Group]] and [[card-issuers/aeon-financial-service|AEON Financial Service]]; the group bank rail is [[card-issuers/aeon-bank|AEON Bank]]; loyalty integration routes to [[loyalty/japan-points-landscape|Japan points landscape]] for WAON POINT economics.
 
 ## TL;DR
 
-**WAON** (named after the AEON-mascot "ワオン") is the **largest retail-anchored prepaid e-money brand in Japan by transaction count** and one of the two principal closed-loop retail prepaid systems alongside [[payments/nanaco-prepaid-seven-i|nanaco]]. Launched 2007-04 by AEON Co Ltd, WAON is operated within the AEON Group with [[JapanFG/aeon-financial-service|AEON Financial Service]] handling settlement and the issuer obligations as third-party 前払式支払手段 (prepaid payment instrument) under the [[payments/funds-transfer-vs-prepaid-boundary|Payment Services Act prepaid framework]]. The system runs on **FeliCa** contactless IC (same technology as Suica / nanaco / Edy), supports physical card, Mobile WAON via Osaifu Keitai, Apple Pay (limited devices), and the AEON Pay smartphone app. Acceptance spans the full AEON Group retail network (AEON, MaxValu, MiniStop, AEON Cinema, Welcia, etc.) plus ~1M outside-group merchants. **WAON POINT** integration converts loyalty points 1:1 into spendable balance, and the bundled **AEON Card** issuance / [[JapanFG/aeon-bank|AEON Bank]] auto-charge linkage anchors the wallet inside the AEON financial-services ecosystem.
+**WAON** (named after the AEON-mascot "ワオン") is the **largest retail-anchored prepaid e-money brand in Japan by transaction count** and one of the two principal closed-loop retail prepaid systems alongside [[payments/nanaco-prepaid-seven-i|nanaco]]. Launched 2007-04 by AEON Co Ltd, WAON is operated within the AEON Group with [[card-issuers/aeon-financial-service|AEON Financial Service]] handling settlement and the issuer obligations as third-party 前払式支払手段 (prepaid payment instrument) under the [[payments/funds-transfer-vs-prepaid-boundary|Payment Services Act prepaid framework]]. The system runs on **FeliCa** contactless IC (same technology as Suica / nanaco / Edy), supports physical card, Mobile WAON via Osaifu Keitai, Apple Pay (limited devices), and the AEON Pay smartphone app. Acceptance spans the full AEON Group retail network (AEON, MaxValu, MiniStop, AEON Cinema, Welcia, etc.) plus ~1M outside-group merchants. **WAON POINT** integration converts loyalty points 1:1 into spendable balance, and the bundled **AEON Card** issuance / [[card-issuers/aeon-bank|AEON Bank]] auto-charge linkage anchors the wallet inside the AEON financial-services ecosystem.
 
 ## Issuer and operational structure
 
 | Dimension | Reading |
 |---|---|
 | Brand owner | AEON Co Ltd |
-| FSA prepaid issuer of record | AEON CO Ltd and [[JapanFG/aeon-financial-service\|AEON Financial Service]] subsidiaries appear in the FSA `daisan.xlsx` third-party prepaid registry |
-| Settlement / financial services | [[JapanFG/aeon-financial-service\|AEON Financial Service]] group |
-| Group bank rail | [[JapanFG/aeon-bank\|AEON Bank]] (auto-charge, ATM charge, account linkage) |
+| FSA prepaid issuer of record | AEON CO Ltd and [[card-issuers/aeon-financial-service\|AEON Financial Service]] subsidiaries appear in the FSA `daisan.xlsx` third-party prepaid registry |
+| Settlement / financial services | [[card-issuers/aeon-financial-service\|AEON Financial Service]] group |
+| Group bank rail | [[card-issuers/aeon-bank\|AEON Bank]] (auto-charge, ATM charge, account linkage) |
 | Group card rail | AEON Card (Visa / Mastercard / JCB co-brand with WAON IC embedded) |
 | Launch year | 2007-04  |
 | Technology | FeliCa contactless IC |
@@ -52,11 +52,11 @@ The acceptance network is structured in concentric circles:
 | Tier | Description | Examples |
 |---|---|---|
 | Inner — AEON Group | Group retail and entertainment anchors | AEON Mall, AEON, MaxValu, MiniStop, AEON Cinema, Welcia (drug), KASUMI, Daiei |
-| Middle — Group-aligned | Group bank / card-linked auto-charge points | [[JapanFG/aeon-bank\|AEON Bank]] ATMs, AEON Card linked partner stores |
+| Middle — Group-aligned | Group bank / card-linked auto-charge points | [[card-issuers/aeon-bank\|AEON Bank]] ATMs, AEON Card linked partner stores |
 | Outer — Cross-merchant | Non-group merchants accepting WAON tap | McDonald's (historic), Yoshinoya, drugstore chains, gas stations |
 | Mobile rail | Apple Pay / Osaifu Keitai global-merchant FeliCa terminals | Any FeliCa-accepting POS |
 
-The size of the inner-tier network (over 20,000 AEON Group stores) underwrites WAON's installed-base position even as code-payment ([[JapanFG/paypay|PayPay]], [[JapanFG/au-payment|au PAY]], Rakuten Pay, d Pay) has captured marginal new-user growth.
+The size of the inner-tier network (over 20,000 AEON Group stores) underwrites WAON's installed-base position even as code-payment ([[payment-firms/paypay|PayPay]], [[payment-firms/au-payment|au PAY]], Rakuten Pay, d Pay) has captured marginal new-user growth.
 
 ## KPI snapshot
 
@@ -77,12 +77,12 @@ Exact period-on-period growth figures live in AEON Co Ltd disclosure and AEON Fi
 WAON's strategic role inside the AEON Group is **closed-loop loyalty + retail-anchored cashless** rather than open-merchant code-payment competition. The strategic logic:
 
 1. **Group lock-in** — WAON balance is most economically used at AEON-group stores (best WAON POINT accrual rates, 5% off "Customer Appreciation Day" 20th / 30th of month discounts).
-2. **Financial-services cross-sell** — WAON usage feeds [[JapanFG/aeon-bank|AEON Bank]] account openings, [[JapanFG/aeon-financial-service|AEON Financial Service]] card issuance, AEON Insurance products.
+2. **Financial-services cross-sell** — WAON usage feeds [[card-issuers/aeon-bank|AEON Bank]] account openings, [[card-issuers/aeon-financial-service|AEON Financial Service]] card issuance, AEON Insurance products.
 3. **Brand differentiation vs nanaco** — WAON's mall / supermarket / drugstore footprint contrasts with nanaco's convenience-store-anchored scope; the head-to-head split is documented in [[payments/waon-nanaco-retail-prepaid-comparison|WAON vs nanaco comparison]].
 4. **Code-payment supplement, not substitute** — AEON Pay app provides QR-code interface for code-payment-preferring customers without abandoning the FeliCa-anchored installed base.
 5. **Mobile-rail extension** — Apple Pay enablement (2016 onward) and Mobile WAON via Osaifu Keitai retain new-device customers who might otherwise default to code-payment apps.
 
-The 2023-onward [[JapanFG/aeon-financial-service|AEON Financial Service]] consolidation of group payment / banking / card businesses repositioned WAON as the consumer-facing layer of an integrated retail-financial-services stack rather than a standalone prepaid product.
+The 2023-onward [[card-issuers/aeon-financial-service|AEON Financial Service]] consolidation of group payment / banking / card businesses repositioned WAON as the consumer-facing layer of an integrated retail-financial-services stack rather than a standalone prepaid product.
 
 ## Related
 
@@ -94,8 +94,8 @@ The 2023-onward [[JapanFG/aeon-financial-service|AEON Financial Service]] consol
 - [[payments/edy-rakuten-prepaid]]
 - [[payments/funds-transfer-vs-prepaid-boundary]]
 - [[payments/japan-payment-scheme-economics-matrix]]
-- [[JapanFG/aeon-financial-service]]
-- [[JapanFG/aeon-bank]]
+- [[card-issuers/aeon-financial-service]]
+- [[card-issuers/aeon-bank]]
 - [[retail/aeon-group]]
 - [[loyalty/japan-points-landscape]]
 - [[INDEX|FinWiki index]]

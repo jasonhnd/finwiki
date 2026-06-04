@@ -1,0 +1,75 @@
+{
+  "schema_version": "1.0",
+  "slug": "regional-banks/san-jusan-fg",
+  "source_path": "regional-banks/san-jusan-fg.md",
+  "url": "https://finwiki.zksc.io/regional-banks/san-jusan-fg",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/regional-banks/san-jusan-fg.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/regional-banks/san-jusan-fg.md",
+  "domain": "regional-banks",
+  "title": "三十三 FG (San ju San Financial Group)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "三十三 FG (San ju San Financial Group)",
+    "aliases": [
+      "三十三フィナンシャルグループ",
+      "San ju San FG",
+      "三十三 FG",
+      "San ju San Financial Group"
+    ],
+    "domain": "regional-banks",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "regional-bank"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: 三十三フィナンシャルグループ (2026-05-19 抽出)",
+      "Wikipedia: 三十三銀行 (2026-05-19 抽出)"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against ふくおか FG (FFG) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "三十三 FG (San ju San Financial Group)",
+    "Wiki route",
+    "TL;DR",
+    "1. 会社概要",
+    "主要子会社・関連会社",
+    "旧 第三銀行系",
+    "旧 三重銀行系",
+    "統合",
+    "3. 事業セグメント・マップ",
+    "地理ポジション"
+  ],
+  "body_links": {
+    "wikilinks_count": 6,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "banking/INDEX",
+      "hyakugo-bank",
+      "juroku-fg",
+      "mufg",
+      "regional-banks/fukuoka-fg"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/hyakugo-bank",
+      "https://finwiki.zksc.io/juroku-fg",
+      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/regional-banks/fukuoka-fg"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2543,
+    "word_like_tokens": 423,
+    "inbound_wikilinks_count": 0,
+    "last_modified": "2026-06-04"
+  }
+}

@@ -72,7 +72,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 
 ## 7. 战略动向
 
-- **[[JapanFG/nomura-hd|野村グループ]] digital asset 战略的核心**: 与 [[exchanges/jp-exchange-crypto-garage|Crypto Garage]]（野村 × MUFG × 思佰益 JV 系）不同，Laser Digital 是野村 HD 于 100% 直接设立・持有的全球数字资产专营子公司。作为集团整体推进面向机构的交易・AM・托管生态系统构建。
+- **[[securities-firms/nomura-hd|野村グループ]] digital asset 战略的核心**: 与 [[exchanges/jp-exchange-crypto-garage|Crypto Garage]]（野村 × MUFG × 思佰益 JV 系）不同，Laser Digital 是野村 HD 于 100% 直接设立・持有的全球数字资产专营子公司。作为集团整体推进面向机构的交易・AM・托管生态系统构建。
 - **与 [[exchanges/jp-custody-komainu|Komainu]] 的角色分工**: Komainu（2018 年设立，野村 × CoinShares × Ledger 的 JV）负责托管・基础设施。Laser Digital 负责交易・资产管理。Komainu 董事会有 Laser Digital 的 Steve Ashley・Jez Mohideen（CEO）参与，显示两公司紧密协作的体制。
 - **BDYF（natively tokenized BTC yield fund）**: 2025-2026 年的主力产品。定位为开曼籍首只原生代币化 BTC 收益基金。
 - **美国国法信托银行申请（2026-01）**: 通过向 OCC 提交 de novo 申请，为在美国开展 custody・现货交易布局。

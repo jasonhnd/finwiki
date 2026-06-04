@@ -12,7 +12,7 @@ translated_at: 2026-06-03T00:53:08.302Z
 
 ## ウィキ上の位置づけ
 
-このページは、[[securities/INDEX|securities index]] および [[securities/japan-underwriting-market-structure|Japan underwriting market structure]] のセルサイドリサーチピアとして [[securities/japan-asset-manager-landscape-matrix|Japan asset manager landscape matrix]] に属します。発行者の開示（[[securities/tokyo-stock-exchange|TSE]]のTDnet/EDINET隣接）、流通（[[securities/japan-best-execution-sor-pts|best execution / SOR / PTS]]のブローカー/オンラインブローカールート）、機関需要（[[securities/japan-asset-manager-landscape-matrix|AM landscape]]および[[securities/japan-prime-brokerage-and-institutional-financing|prime brokerage]]）の間に位置するアナリストのカバレッジ地理について説明します。 JapanFG オペレーター アンカーは、[[JapanFG/nomura-hd|Nomura HD]]、[[JapanFG/smbc-nikko|SMBC Nikko]]、[[JapanFG/daiwa-sg|Daiwa SG]]、[[JapanFG/mizuho-securities|Mizuho Securities]]、[[JapanFG/goldman-sachs-japan|Goldman Sachs Japan]]、[[JapanFG/morgan-stanley-japan|Morgan Stanley MUFG]]、[[JapanFG/jpmorgan-japan|JPMorgan Japan]]、および [[JapanFG/citigroup-japan|Citigroup Japan]] です。日本証券アナリスト協会 (SAAJ / JSAA) と共同の自主規制アンカーは [[JapanFG/jsda|JSDA]] です。
+このページは、[[securities/INDEX|securities index]] および [[securities/japan-underwriting-market-structure|Japan underwriting market structure]] のセルサイドリサーチピアとして [[securities/japan-asset-manager-landscape-matrix|Japan asset manager landscape matrix]] に属します。発行者の開示（[[securities/tokyo-stock-exchange|TSE]]のTDnet/EDINET隣接）、流通（[[securities/japan-best-execution-sor-pts|best execution / SOR / PTS]]のブローカー/オンラインブローカールート）、機関需要（[[securities/japan-asset-manager-landscape-matrix|AM landscape]]および[[securities/japan-prime-brokerage-and-institutional-financing|prime brokerage]]）の間に位置するアナリストのカバレッジ地理について説明します。 JapanFG オペレーター アンカーは、[[securities-firms/nomura-hd|Nomura HD]]、[[securities-firms/smbc-nikko|SMBC Nikko]]、[[securities-firms/daiwa-sg|Daiwa SG]]、[[securities-firms/mizuho-securities|Mizuho Securities]]、[[securities-firms/goldman-sachs-japan|Goldman Sachs Japan]]、[[securities-firms/morgan-stanley-japan|Morgan Stanley MUFG]]、[[foreign-financial-institutions/jpmorgan-japan|JPMorgan Japan]]、および [[foreign-financial-institutions/citigroup-japan|Citigroup Japan]] です。日本証券アナリスト協会 (SAAJ / JSAA) と共同の自主規制アンカーは [[financial-regulators/jsda|JSDA]] です。
 
 ## 要約
 
@@ -30,7 +30,7 @@ translated_at: 2026-06-03T00:53:08.302Z
 
 ### 野村
 
-- **事業体**: [[JapanFG/nomura-hd|Nomura Holdings]] / 野村證券株式会社;研究は、国境を越えたコンテンツについては野村證券 (NS) および野村インターナショナルの下で公開されます。
+- **事業体**: [[securities-firms/nomura-hd|Nomura Holdings]] / 野村證券株式会社;研究は、国境を越えたコンテンツについては野村證券 (NS) および野村インターナショナルの下で公開されます。
 - **アナリスト数（日本株カバレッジ）**: 国内最大級のアナリスト名簿。日本の住宅の中で最も広範な東証プライム/スタンダード/グロースの名前をカバーします。正確な従業員数は公表されていません。ファームディレクトリの現在の名前を確認してください。
 - **対象セクター**: 金融 (銀行 / 保険 / ノンバンク金融)、テクノロジー、自動車 / 工業、ヘルスケア、インターネット / メディア、不動産 / REIT、通信、消費者、エネルギー / 公益事業、中小型株を含む包括的。
 - **マクロ/戦略**: 長年確立されているマクロおよび株式戦略チーム。資産を横断したカバレッジ。
@@ -38,28 +38,28 @@ translated_at: 2026-06-03T00:53:08.302Z
 
 ### SMBC日興
 
-- **エンティティ**: [[JapanFG/smbc-nikko|SMBC Nikko Securities Inc.]] (SMFG グループ)。
+- **エンティティ**: [[securities-firms/smbc-nikko|SMBC Nikko Securities Inc.]] (SMFG グループ)。
 - **アナリスト数**: 国内トップクラス。包括的な日本株カバレッジ。意味のある戦略とマクロの出力。
 - **対象分野**: 広範囲。銀行/金融（SMFGグループとの隣接性により慎重な紛争管理が必要）、不動産/REIT、自動車、消費者に強い。
 - **特徴的な機能**: SMFG の銀行グループとの隣接性により、企業銀行業務由来のセクター インテリジェンスが提供されます。行為管理フレームワークにより、研究と銀行業務が分離されます。
 
 ### ダイワ
 
-- **主体**: [[JapanFG/daiwa-sg|Daiwa Securities Group]] / 大和証券株式会社
+- **主体**: [[securities-firms/daiwa-sg|Daiwa Securities Group]] / 大和証券株式会社
 - **アナリスト数**: 国内トップクラス。幅広い宇宙をカバーします。
 - **対象分野**: 包括的。産業/自動車、銀行、不動産における歴史的な強み。
 - **特徴**: 独立系証券グループ (銀行所有ではない) の伝統。機関投資家との長年にわたる関係。米国/ヨーロッパ/アジアへの有意義な国境を越えた流通。
 
 ### みずほ証券
 
-- **事業体**: [[JapanFG/mizuho-securities|Mizuho Securities Co., Ltd.]] (みずほFGグループ)。
+- **事業体**: [[securities-firms/mizuho-securities|Mizuho Securities Co., Ltd.]] (みずほFGグループ)。
 - **アナリスト数**: 国内トップクラス。株式と並んで強力なマクロと金利/為替戦略。
 - **対象分野**: 広範囲。金融、エネルギー/公益事業、自動車、不動産に強み。
 - **特徴**: みずほFG銀行グループとの隣接性。ストラクチャードプロダクト/クロスアセットリサーチの統合。
 
 ### MUMSS / 三菱UFJモルガン・スタンレー
 
-- **事業体**: 三菱 UFJ モルガン・スタンレー証券株式会社 (MUMSS) は、[[JapanFG/morgan-stanley-japan|Morgan Stanley]] と MUFG の合弁会社として運営される総合ホールセール/機関投資家向け証券事業です。消費者/小売ブランドはモルガン・スタンレー MUFG 証券です。
+- **事業体**: 三菱 UFJ モルガン・スタンレー証券株式会社 (MUMSS) は、[[securities-firms/morgan-stanley-japan|Morgan Stanley]] と MUFG の合弁会社として運営される総合ホールセール/機関投資家向け証券事業です。消費者/小売ブランドはモルガン・スタンレー MUFG 証券です。
 - **アナリスト数**: トップクラス。モルガン・スタンレーの世界的なアナリストの統合と国内のMUFGグループのリーチの両方から恩恵を受けることができます。
 - **対象分野**: 広範囲。モルガン・スタンレーのプラットフォームを介してグローバル/日本ビューを統合。
 - **特徴**: 国内唯一のグローバルIB JV体制を持つ5本柱住宅。モルガン・スタンレーのシームレスなグローバルコンテンツ配信と日本固有の出力を可能にします。
@@ -68,11 +68,11 @@ translated_at: 2026-06-03T00:53:08.302Z
 
 | 会社 | 現地法人 | リサーチの特徴 |
 |---|---|---|
-| ゴールドマン・サックス・ジャパン | [[JapanFG/goldman-sachs-japan|Goldman Sachs Japan Co., Ltd.]] | グローバルGSリサーチを統合。日本株式チームは日本のコンテンツをグローバル製品に貢献します。強力なマクロ/戦略分布。 |
+| ゴールドマン・サックス・ジャパン | [[securities-firms/goldman-sachs-japan|Goldman Sachs Japan Co., Ltd.]] | グローバルGSリサーチを統合。日本株式チームは日本のコンテンツをグローバル製品に貢献します。強力なマクロ/戦略分布。 |
 | モルガン・スタンレー | モルガン・スタンレー MUFG / MUMSS (上記を参照) | 日本上場活動の MUMSS として運営。グローバル MS Research がクライアントに配布されます。 |
-| JPモルガン・ジャパン | [[JapanFG/jpmorgan-japan|JPMorgan Securities Japan Co., Ltd.]] | 日本株式チームは世界的な JPM リサーチにフィードを提供します。企業アクセスおよび会議プラットフォーム。 |
+| JPモルガン・ジャパン | [[foreign-financial-institutions/jpmorgan-japan|JPMorgan Securities Japan Co., Ltd.]] | 日本株式チームは世界的な JPM リサーチにフィードを提供します。企業アクセスおよび会議プラットフォーム。 |
 | BofA証券株式会社 | BofA証券株式会社 | グローバルな BofA Research の統合。マクロ経済と戦略のコンテンツが目立つ。 |
-| シティグループ・グローバル・マーケッツ・ジャパン | [[JapanFG/citigroup-japan|Citigroup Global Markets Japan Inc.]] | グローバルシティリサーチの統合。マクロ/FX/株式戦略コンテンツ。意味のある機関顧客のフットプリント。 |
+| シティグループ・グローバル・マーケッツ・ジャパン | [[foreign-financial-institutions/citigroup-japan|Citigroup Global Markets Japan Inc.]] | グローバルシティリサーチの統合。マクロ/FX/株式戦略コンテンツ。意味のある機関顧客のフットプリント。 |
 | UBS証券ジャパン | UBS証券株式会社 | グローバルUBSリサーチ;資産運用機関の強力な分布による日本株のカバレッジ。 |
 | バークレイズジャパン | バークレイズ証券株式会社 | グローバル・バークレイズ・リサーチ;マクロ / 金利 / FX が著名。国内の 5 極会社よりも少ない日本のアナリスト数で株式カバレッジを実現しています。 |
 
@@ -171,15 +171,15 @@ translated_at: 2026-06-03T00:53:08.302Z
 - [[securities/japan-margin-trading-and-securities-finance]]
 - [[securities/tokyo-stock-exchange]]
 - [[securities/financial-instruments-business-operators-japan-index]]
-- [[JapanFG/nomura-hd]]
-- [[JapanFG/smbc-nikko]]
-- [[JapanFG/daiwa-sg]]
-- [[JapanFG/mizuho-securities]]
-- [[JapanFG/goldman-sachs-japan]]
-- [[JapanFG/morgan-stanley-japan]]
-- [[JapanFG/jpmorgan-japan]]
-- [[JapanFG/citigroup-japan]]
-- [[JapanFG/jsda]]
+- [[securities-firms/nomura-hd]]
+- [[securities-firms/smbc-nikko]]
+- [[securities-firms/daiwa-sg]]
+- [[securities-firms/mizuho-securities]]
+- [[securities-firms/goldman-sachs-japan]]
+- [[securities-firms/morgan-stanley-japan]]
+- [[foreign-financial-institutions/jpmorgan-japan]]
+- [[foreign-financial-institutions/citigroup-japan]]
+- [[financial-regulators/jsda]]
 - [[INDEX|FinWiki index]]
 
 ## 出典

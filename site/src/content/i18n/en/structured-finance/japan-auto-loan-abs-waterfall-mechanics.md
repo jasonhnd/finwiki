@@ -11,7 +11,7 @@ translated_at: 2026-06-01T04:15:40.142Z
 
 ## TL;DR
 
-Japan auto-loan ABS — the ~JPY 1.5–2 trillion annual issuance segment dominated by captive originators ([[JapanFG/toyota-finance|Toyota Finance]], [[JapanFG/toyota-financial|Toyota Financial Services]] cross-border shelf, Honda Finance, Nissan Credit) and bank-affiliated multi-brand originators ([[JapanFG/sumitomo-mitsui-auto-service|Sumitomo Mitsui Auto Service]], [[JapanFG/orico|Orient Corporation]], MUFG Capital Auto Loan ABS) — runs a two-stage **waterfall**: interest-priority on the interest collection account (servicer fee → senior interest → mezz interest → reserve → equity), then **sequential-pay principal** on the principal collection account (senior repaid first to zero, then mezz, then equity) for most domestic structures, with **pro-rata principal** appearing in selected cross-border Toyota Financial Services shelf transactions when tests are met. Credit enhancement stacks **subordination** (mezz + equity typically 6–12% for AAA senior on Toyota / Honda / Nissan deals, 8–15% for multi-brand bank-affiliated deals), **overcollateralization** (1–3% target, built from excess spread), and a **cash reserve / spread account** (0.5–1.5% of senior balance). The originator and the servicer are typically the same captive entity, with [[JapanFG/sumitomo-mitsui-trust|SMTB]] or [[JapanFG/nochu-trust-bank|Nochu Trust]] as backup servicer activated on originator default. The AAA tranche is rated by [[structured-finance/credit-rating-methodology-jcr-r-and-i|JCR and/or R&I]] on domestic deals and gains S&P / Moody's coverage on the Toyota Financial Services international shelf — see [[structured-finance/fitch-moody-sp-japan-criteria|global vs domestic agency split]].
+Japan auto-loan ABS — the ~JPY 1.5–2 trillion annual issuance segment dominated by captive originators ([[card-issuers/toyota-finance|Toyota Finance]], [[leasing-firms/toyota-financial|Toyota Financial Services]] cross-border shelf, Honda Finance, Nissan Credit) and bank-affiliated multi-brand originators ([[leasing-firms/sumitomo-mitsui-auto-service|Sumitomo Mitsui Auto Service]], [[card-issuers/orico|Orient Corporation]], MUFG Capital Auto Loan ABS) — runs a two-stage **waterfall**: interest-priority on the interest collection account (servicer fee → senior interest → mezz interest → reserve → equity), then **sequential-pay principal** on the principal collection account (senior repaid first to zero, then mezz, then equity) for most domestic structures, with **pro-rata principal** appearing in selected cross-border Toyota Financial Services shelf transactions when tests are met. Credit enhancement stacks **subordination** (mezz + equity typically 6–12% for AAA senior on Toyota / Honda / Nissan deals, 8–15% for multi-brand bank-affiliated deals), **overcollateralization** (1–3% target, built from excess spread), and a **cash reserve / spread account** (0.5–1.5% of senior balance). The originator and the servicer are typically the same captive entity, with [[trust-banks/sumitomo-mitsui-trust|SMTB]] or [[trust-banks/nochu-trust-bank|Nochu Trust]] as backup servicer activated on originator default. The AAA tranche is rated by [[structured-finance/credit-rating-methodology-jcr-r-and-i|JCR and/or R&I]] on domestic deals and gains S&P / Moody's coverage on the Toyota Financial Services international shelf — see [[structured-finance/fitch-moody-sp-japan-criteria|global vs domestic agency split]].
 
 ## Wiki route
 
@@ -21,12 +21,12 @@ This entry sits under [[structured-finance/INDEX|structured-finance index]] as t
 
 | Role | Typical entity | Function |
 |---|---|---|
-| Originator | Captive finance ([[JapanFG/toyota-finance|Toyota Finance]], Honda Finance, Nissan Credit) or multi-brand ([[JapanFG/sumitomo-mitsui-auto-service|Sumitomo Mitsui Auto Service]], [[JapanFG/orico|Orient Corp]]) | Originates the retail auto loan via dealer point-of-sale; on closing, transfers the receivable pool into the SPV |
+| Originator | Captive finance ([[card-issuers/toyota-finance|Toyota Finance]], Honda Finance, Nissan Credit) or multi-brand ([[leasing-firms/sumitomo-mitsui-auto-service|Sumitomo Mitsui Auto Service]], [[card-issuers/orico|Orient Corp]]) | Originates the retail auto loan via dealer point-of-sale; on closing, transfers the receivable pool into the SPV |
 | Servicer | **Same entity as originator** in nearly all Japan auto-loan ABS | Collects monthly payments from obligors; tracks delinquencies; manages repossession; remits collections to the SPV trust account |
-| Backup servicer | [[JapanFG/sumitomo-mitsui-trust|SMTB]], Mitsubishi UFJ Trust, or [[JapanFG/nochu-trust-bank|Nochu Trust]] | "Cold" backup — no live servicing during normal operation; takes over within 30–60 days on originator default / servicer event of default |
-| Trustee | A trust bank ([[JapanFG/sumitomo-mitsui-trust|SMTB]] / Mitsubishi UFJ Trust) | Holds the trust beneficial interest layer (when used); manages account-bank relationships; oversees waterfall enforcement |
+| Backup servicer | [[trust-banks/sumitomo-mitsui-trust|SMTB]], Mitsubishi UFJ Trust, or [[trust-banks/nochu-trust-bank|Nochu Trust]] | "Cold" backup — no live servicing during normal operation; takes over within 30–60 days on originator default / servicer event of default |
+| Trustee | A trust bank ([[trust-banks/sumitomo-mitsui-trust|SMTB]] / Mitsubishi UFJ Trust) | Holds the trust beneficial interest layer (when used); manages account-bank relationships; oversees waterfall enforcement |
 | Issuer (SPV) | GK-TK ([[structured-finance/spv-tk-gk-vehicle-japan-tax|godo kaisha + tokumei kumiai]]) typically | Issues senior, mezz, and equity classes; bankruptcy-remote from originator |
-| Investor administrator | Megabank securities arm ([[JapanFG/mufg-securities|MUFG MS]], [[JapanFG/smbc-nikko|SMBC Nikko]], [[JapanFG/mizuho-securities|Mizuho Securities]]) | Arranges and distributes the senior / mezz tranches |
+| Investor administrator | Megabank securities arm ([[securities-firms/mufg-securities|MUFG MS]], [[securities-firms/smbc-nikko|SMBC Nikko]], [[securities-firms/mizuho-securities|Mizuho Securities]]) | Arranges and distributes the senior / mezz tranches |
 
 The **originator-servicer identity** is the most important operating fact: under normal operation, the same captive finance company that wrote the loan is the entity collecting the payment, talking to the obligor about a late payment, and deciding when to repossess. This minimises operational friction (obligor experience is unchanged) but concentrates the **servicer-replacement risk** — if the originator defaults, the cold backup needs to come live in days, which is why rating agencies require a named backup servicer with documented capacity.
 
@@ -124,12 +124,12 @@ Captive originators run **shelf programs** with repeat issuance:
 
 | Originator | Shelf program | Annual issuance (approx) | Typical deal size | Tranche depth |
 |---|---|---|---|---|
-| [[JapanFG/toyota-finance|Toyota Finance]] | Toyota Finance Auto Loan Receivables Trust (TALR) | JPY 600–900 bn | JPY 100–200 bn per deal | Senior AAA + AA mezz + equity |
-| [[JapanFG/toyota-financial|Toyota Financial Services]] | Toyota Auto Loan Asia / international shelf | USD-equivalent cross-border issuance | USD 0.8–1.5 bn | A-1 / A-2 / A-3 senior money-market + senior amortising + B + C + D + equity (full US-style depth) |
+| [[card-issuers/toyota-finance|Toyota Finance]] | Toyota Finance Auto Loan Receivables Trust (TALR) | JPY 600–900 bn | JPY 100–200 bn per deal | Senior AAA + AA mezz + equity |
+| [[leasing-firms/toyota-financial|Toyota Financial Services]] | Toyota Auto Loan Asia / international shelf | USD-equivalent cross-border issuance | USD 0.8–1.5 bn | A-1 / A-2 / A-3 senior money-market + senior amortising + B + C + D + equity (full US-style depth) |
 | Honda Finance | Honda Auto Receivables shelf | JPY 200–400 bn | JPY 80–150 bn | Senior + AA mezz + equity |
 | Nissan Credit | Nissan Auto Receivables shelf | JPY 100–250 bn | JPY 60–120 bn | Senior + AA mezz + equity |
-| [[JapanFG/sumitomo-mitsui-auto-service|Sumitomo Mitsui Auto Service]] | Multi-brand auto lease ABS | JPY 100–200 bn | JPY 50–100 bn | Senior + multiple mezz + equity |
-| [[JapanFG/orico|Orient Corp]] | Auto-installment ABS | JPY 80–150 bn | JPY 40–80 bn | Senior + mezz + equity |
+| [[leasing-firms/sumitomo-mitsui-auto-service|Sumitomo Mitsui Auto Service]] | Multi-brand auto lease ABS | JPY 100–200 bn | JPY 50–100 bn | Senior + multiple mezz + equity |
+| [[card-issuers/orico|Orient Corp]] | Auto-installment ABS | JPY 80–150 bn | JPY 40–80 bn | Senior + mezz + equity |
 
 The depth of tranching reflects investor demand: Toyota Financial cross-border deals tranche to ~5 layers to match US BSL investor preferences; pure-domestic Japan deals stay at 2–3 layers because Japanese institutional buyers (lifers, regional bank ALM books) primarily want senior AAA.
 
@@ -158,7 +158,7 @@ The **split-rating outcome**: a Toyota Finance domestic deal might be JCR AAA / 
 - Whether Toyota Financial Services migrates more of its US shelf to Japan-domiciled issuance as JPY funding cost remains advantaged
 - Whether the next domestic recession (real one, not the COVID dip) tests cumulative-net-loss triggers on a meaningful number of seasoned deals
 - Whether JCR / R&I gradually adopt pro-rata-friendly criteria as the structural complexity is normalised
-- The role of [[JapanFG/sumitomo-mitsui-auto-service|Sumitomo Mitsui Auto Service]] and other multi-brand originators in expanding the addressable ABS market vs continuing to fund through bank lines
+- The role of [[leasing-firms/sumitomo-mitsui-auto-service|Sumitomo Mitsui Auto Service]] and other multi-brand originators in expanding the addressable ABS market vs continuing to fund through bank lines
 
 ## Related
 
@@ -173,10 +173,10 @@ The **split-rating outcome**: a Toyota Finance domestic deal might be JCR AAA / 
 - [[structured-finance/spv-tk-gk-vehicle-japan-tax|TK / GK / TMK SPV vehicle]]
 - [[structured-finance/japan-trust-beneficial-interest-vs-spv|trust beneficial interest vs SPV]]
 - [[structured-finance/japan-securitization-product-matrix|Japan securitization product matrix]]
-- [[JapanFG/toyota-finance|Toyota Finance]] · [[JapanFG/toyota-financial|Toyota Financial Services]]
-- [[JapanFG/sumitomo-mitsui-auto-service|Sumitomo Mitsui Auto Service]] · [[JapanFG/orico|Orient Corp]]
-- [[JapanFG/sumitomo-mitsui-trust|SMTB]] · [[JapanFG/nochu-trust-bank|Nochu Trust]]
-- [[JapanFG/mufg-securities|MUFG MS]] · [[JapanFG/smbc-nikko|SMBC Nikko]] · [[JapanFG/mizuho-securities|Mizuho Securities]]
+- [[card-issuers/toyota-finance|Toyota Finance]] · [[leasing-firms/toyota-financial|Toyota Financial Services]]
+- [[leasing-firms/sumitomo-mitsui-auto-service|Sumitomo Mitsui Auto Service]] · [[card-issuers/orico|Orient Corp]]
+- [[trust-banks/sumitomo-mitsui-trust|SMTB]] · [[trust-banks/nochu-trust-bank|Nochu Trust]]
+- [[securities-firms/mufg-securities|MUFG MS]] · [[securities-firms/smbc-nikko|SMBC Nikko]] · [[securities-firms/mizuho-securities|Mizuho Securities]]
 
 ## Sources
 

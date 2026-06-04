@@ -1,6 +1,6 @@
 # JapanFG 拆分设计 / JapanFG Split Design
 
-> 状态：**设计已批准方向，待用户审阅本文后进入实现计划**（2026-06-04）。本文是 JapanFG（≈620 entity）物理拆分为 14 个新顶级领域的权威设计，指导后续 migration 实现。配套：实现计划（writing-plans 产出）、[decisions.md](decisions.md) 拟新增 ADR-008、[roadmap.md](roadmap.md) P2。
+> 状态：**已执行（v2026.06.04-4，2026-06-04）**。本文是 JapanFG（≈620 entity）物理拆分的权威设计。实际落地为 **17 个顶级域**（设计时 14，执行中数据显示 payments-cards-leasing-finance 杂类需再分，新增 consumer-finance / trading-company-finance / financial-conglomerates）。决策与评估见 [decisions.md](decisions.md) ADR-008；发布记录 `releases/v2026.06.04-4.md`。验证：`--check --strict` EXIT=0、dead=0、drift=0、domains=40。
 
 ## 1. 背景与决定
 

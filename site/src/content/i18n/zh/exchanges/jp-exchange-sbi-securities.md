@@ -126,7 +126,7 @@ SBI证券以证券・FX・商品期货为主轴，不经办加密资产本身的
 - [[fintech/japan-stablecoin-regulatory-landscape]] — 相关 stablecoin 制度
 - [[fintech/jp-trust-type-sc-architecture]] — 相关 SC 制度
 - [[fintech/japan-bittrade-listing-process]] — 上币流程一般论
-- [[JapanFG/sbi-securities]] — JapanFG SBI 证券档案
+- [[securities-firms/sbi-securities]] — JapanFG SBI 证券档案
 - [[exchanges/btc-spot-etf-japan-impact]] — BTC spot ETF 日本 impact
 - [[exchanges/jp-vasp-derivative-license-system]] — JP VASP 衍生品牌照制度
 

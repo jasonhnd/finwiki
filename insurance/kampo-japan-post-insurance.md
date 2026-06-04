@@ -30,19 +30,19 @@ canonical_anchor: JapanFG/kampo-life
 
 ## TL;DR
 
-[[JapanFG/kampo-life|かんぽ生命保険 (Japan Post Insurance Co., Ltd.; TSE Prime 7181)]] is one of the largest life-insurance balance sheets in Japan by reserve and asset scale, originated as the postal-savings-era national insurance scheme (郵便貯金 / 簡易保険 / "Kanpo") and now a publicly listed subsidiary inside the [[JapanFG/japan-post-holdings|Japan Post Holdings (6178)]] group, which also owns Japan Post Bank (7182) and Japan Post Co. The franchise rests on three pillars that no other [[insurance/japan-life-insurance-big-four|life big-four]] insurer shares: the postal-channel distribution agreement with Japan Post Co.'s branch network, a structurally large in-force book of legacy 簡易保険 (kanpo) policies inherited from the privatization, and a long-duration yen-liability balance sheet running ALM under [[insurance/japan-life-insurance-alm-overview|the Japan life ALM]] dynamics in the low-rate / post-zero-rate era. The 2019 fraudulent-sales scandal (不適正募集問題) — improper conversion, dual-billing, and suitability failures across the postal sales force — was the defining recent governance event and reshaped distribution, supervision, and the product mix. The FSA / MIC business-improvement orders, the voluntary sales suspension, and the subsequent rebuild of sales infrastructure mean Kampo's post-2019 trajectory is structurally different from its pre-2019 trajectory even though the balance-sheet scale remains comparable to the largest private mutual life insurers.
+[[life-insurers/kampo-life|かんぽ生命保険 (Japan Post Insurance Co., Ltd.; TSE Prime 7181)]] is one of the largest life-insurance balance sheets in Japan by reserve and asset scale, originated as the postal-savings-era national insurance scheme (郵便貯金 / 簡易保険 / "Kanpo") and now a publicly listed subsidiary inside the [[megabanks/japan-post-holdings|Japan Post Holdings (6178)]] group, which also owns Japan Post Bank (7182) and Japan Post Co. The franchise rests on three pillars that no other [[insurance/japan-life-insurance-big-four|life big-four]] insurer shares: the postal-channel distribution agreement with Japan Post Co.'s branch network, a structurally large in-force book of legacy 簡易保険 (kanpo) policies inherited from the privatization, and a long-duration yen-liability balance sheet running ALM under [[insurance/japan-life-insurance-alm-overview|the Japan life ALM]] dynamics in the low-rate / post-zero-rate era. The 2019 fraudulent-sales scandal (不適正募集問題) — improper conversion, dual-billing, and suitability failures across the postal sales force — was the defining recent governance event and reshaped distribution, supervision, and the product mix. The FSA / MIC business-improvement orders, the voluntary sales suspension, and the subsequent rebuild of sales infrastructure mean Kampo's post-2019 trajectory is structurally different from its pre-2019 trajectory even though the balance-sheet scale remains comparable to the largest private mutual life insurers.
 
 ## Wiki route
 
-This page sits under [[insurance/INDEX|insurance INDEX]] and is the postal-life counterpart to [[insurance/japan-life-insurance-big-four|the Japan life big four]] and [[insurance/japan-life-big-four-overlay-comparison-matrix|its overlay comparison matrix]]. Read it together with [[insurance/japan-life-insurance-alm-overview|the Japan life ALM overview]] for the asset-liability problem, [[insurance/mutual-vs-stock-life-insurer|mutual vs stock]] for the corporate-form contrast (Kampo is listed, like Dai-ichi HD, but the parent and ultimate owner is JP Holdings, partly state-related), [[insurance/economic-value-based-solvency|economic-value-based solvency]] and [[insurance/esr-economic-value-solvency|ESR]] for the headline capital metric, [[insurance/life-insurance-channel-mix|the life insurance channel mix]] for the postal-channel placement, and [[insurance/insurance-agency-and-brokerage-japan|the agency and brokerage Japan landscape]] for the post-2019 channel rebuild. The entity anchors are [[JapanFG/kampo-life|Kampo Life / 7181]] and [[JapanFG/japan-post-holdings|Japan Post Holdings / 6178]]. For the supervisor map see [[JapanFG/fsa|the FSA]] and the Ministry of Internal Affairs and Communications (MIC / 総務省) postal-business supervision.
+This page sits under [[insurance/INDEX|insurance INDEX]] and is the postal-life counterpart to [[insurance/japan-life-insurance-big-four|the Japan life big four]] and [[insurance/japan-life-big-four-overlay-comparison-matrix|its overlay comparison matrix]]. Read it together with [[insurance/japan-life-insurance-alm-overview|the Japan life ALM overview]] for the asset-liability problem, [[insurance/mutual-vs-stock-life-insurer|mutual vs stock]] for the corporate-form contrast (Kampo is listed, like Dai-ichi HD, but the parent and ultimate owner is JP Holdings, partly state-related), [[insurance/economic-value-based-solvency|economic-value-based solvency]] and [[insurance/esr-economic-value-solvency|ESR]] for the headline capital metric, [[insurance/life-insurance-channel-mix|the life insurance channel mix]] for the postal-channel placement, and [[insurance/insurance-agency-and-brokerage-japan|the agency and brokerage Japan landscape]] for the post-2019 channel rebuild. The entity anchors are [[life-insurers/kampo-life|Kampo Life / 7181]] and [[megabanks/japan-post-holdings|Japan Post Holdings / 6178]]. For the supervisor map see [[financial-regulators/fsa|the FSA]] and the Ministry of Internal Affairs and Communications (MIC / 総務省) postal-business supervision.
 
 ## Identity and group structure
 
 Kampo Life is the formal corporate successor to the pre-privatization 簡易保険 (kanpo) business of Japan Post, established as a stock-form life insurer during the 2007 postal privatization and listed on the Tokyo Stock Exchange in 2015 alongside Japan Post Holdings and Japan Post Bank. The group hierarchy is:
 
-- **[[JapanFG/japan-post-holdings|Japan Post Holdings (6178)]]** — listed holding company; the Japanese government retains a strategic shareholding in the holdco.
-- **[[JapanFG/japan-post-bank|Japan Post Bank (7182)]]** — listed bank subsidiary.
-- **[[JapanFG/kampo-life|Kampo Life / Japan Post Insurance (7181)]]** — listed life-insurer subsidiary.
+- **[[megabanks/japan-post-holdings|Japan Post Holdings (6178)]]** — listed holding company; the Japanese government retains a strategic shareholding in the holdco.
+- **[[regional-banks/japan-post-bank|Japan Post Bank (7182)]]** — listed bank subsidiary.
+- **[[life-insurers/kampo-life|Kampo Life / Japan Post Insurance (7181)]]** — listed life-insurer subsidiary.
 - **Japan Post Co.** — unlisted postal-service operating subsidiary; runs the post-office branch network through which Kampo policies are distributed.
 
 The listing of all three operating entities is itself unusual: a holdco and two of its operating subsidiaries are all separately listed, which means Kampo carries holdco-shareholder governance from JP Holdings, public-market governance from its own listing, and group-level capital and group-business considerations from the JP Holdings level. Capital actions (including JP Holdings divestment of Kampo / Japan Post Bank shares) are an ongoing structural overhang.
@@ -60,7 +60,7 @@ The dual structure — legacy kanpo + new Kampo — is the key feature that dist
 
 ## Distribution: postal channel
 
-The defining distribution feature is the postal-channel agreement with Japan Post Co. — Kampo policies are sold through the ~20,000-branch post-office network (the largest physical retail footprint in Japan) and through directly-employed Kampo sales staff. There is no tied female sales-force comparable to [[JapanFG/nippon-life|Nippon Life]]'s Nissay Lady model; instead the post-office counter staff plus Kampo sales staff form the dominant channel.
+The defining distribution feature is the postal-channel agreement with Japan Post Co. — Kampo policies are sold through the ~20,000-branch post-office network (the largest physical retail footprint in Japan) and through directly-employed Kampo sales staff. There is no tied female sales-force comparable to [[life-insurers/nippon-life|Nippon Life]]'s Nissay Lady model; instead the post-office counter staff plus Kampo sales staff form the dominant channel.
 
 Other channels — bancassurance, independent agency, internet-direct — exist but are much smaller. The reliance on the postal channel is both the franchise's structural advantage (a customer base and physical-network reach no competitor can match) and the source of the 2019 scandal (the same network created sales-incentive pressure that drove the misconduct).
 
@@ -72,7 +72,7 @@ The 2019 不適正募集問題 / "improper-sales" scandal is the defining recent
 
 - **What happened.** Internal and external reviews surfaced widespread improper-sales practices in the postal channel: conversion misconduct (existing policies surrendered then re-issued without proper suitability assessment), dual-billing (customer paying both old and new policy premiums during transition), suitability failures (sales to elderly / vulnerable customers without adequate explanation), and incentive-driven volume push by both Kampo sales staff and post-office counter staff.
 - **Scale.** Tens of thousands of policies were identified as potentially problematic in the initial investigation; the figure expanded over subsequent reviews.
-- **Regulatory response.** The [[JapanFG/fsa|FSA]] and the MIC issued business-improvement orders to Kampo and Japan Post Co. A voluntary suspension of active sales solicitation followed, with phased resumption under upgraded controls.
+- **Regulatory response.** The [[financial-regulators/fsa|FSA]] and the MIC issued business-improvement orders to Kampo and Japan Post Co. A voluntary suspension of active sales solicitation followed, with phased resumption under upgraded controls.
 - **Internal response.** Sales-force restructuring, suitability-control rebuild, board / management changes at Kampo, JP Holdings, and Japan Post Co. Renewal of the postal-channel agency contract with strengthened conduct guardrails.
 - **Customer remediation.** A multi-year customer-contact and remediation program covering identified policies and an extended review universe.
 - **Aftermath.** The post-2020 trajectory is a slow rebuild rather than a return to pre-2019 volumes. Net new-policy issuance contracted materially in the immediate post-scandal period and the in-force book has been managed under run-off-adjacent dynamics on the legacy block.
@@ -84,7 +84,7 @@ The scandal is publicly documented through FSA / MIC orders and Kampo / JP Holdi
 The ALM problem at Kampo is conceptually the same as at the private big-four mutuals: long-duration yen liabilities, structurally low JGB yields, foreign-bond reach for yield, hedge cost on the foreign-bond book, equity-allocation reduction in line with the broader cross-shareholding wind-down. The features that distinguish Kampo are:
 
 - **Higher historical JGB share.** Kampo's legacy allocation skew is more JGB-heavy than the private big-four, reflecting its public-sector origin; diversification has progressed but the starting point was different.
-- **Smaller foreign-life affiliate footprint.** Unlike [[JapanFG/dai-ichi-life|Dai-ichi Life Holdings]] with Protective Life and TAL, Kampo does not have a comparable overseas-life acquisition portfolio. Diversification has been primarily asset-side rather than business-side.
+- **Smaller foreign-life affiliate footprint.** Unlike [[life-insurers/dai-ichi-life|Dai-ichi Life Holdings]] with Protective Life and TAL, Kampo does not have a comparable overseas-life acquisition portfolio. Diversification has been primarily asset-side rather than business-side.
 - **Capital governance under dual listing.** Kampo's capital policy (ESR target, shareholder dividend, JP Holdings parent-shareholder dynamics) is governed by both its own listed-company framework and the JP Holdings group framework.
 - **Legacy-block run-off dynamics.** The pre-privatization kanpo block runs off over time; the new-policy block has to compensate. Post-2019, new-policy issuance is materially reduced versus the pre-scandal trajectory.
 
@@ -119,7 +119,7 @@ Use this page when:
 - Analysing the postal-channel distribution model versus tied / bancassurance / agency models.
 - Tracing the structural consequences of the 2019 scandal — sales-force rebuild, suitability controls, run-off-adjacent dynamics on the new-policy book.
 - Modelling JP Holdings group capital allocation and the Kampo / Japan Post Bank divestment overhang.
-- Cross-referencing with [[JapanFG/kampo-life|the Kampo Life entity entry]] and [[JapanFG/japan-post-holdings|JP Holdings]] for share-ownership and listing detail.
+- Cross-referencing with [[life-insurers/kampo-life|the Kampo Life entity entry]] and [[megabanks/japan-post-holdings|JP Holdings]] for share-ownership and listing detail.
 
 ## Boundary cases / caveats
 
@@ -143,12 +143,12 @@ Use this page when:
 - [[insurance/bancassurance-economics-japan]]
 - [[insurance/insurance-agency-and-brokerage-japan]]
 - [[insurance/medical-cancer-insurance-product-economics]]
-- [[JapanFG/kampo-life]]
-- [[JapanFG/japan-post-holdings]]
-- [[JapanFG/japan-post-bank]]
-- [[JapanFG/nippon-post]]
-- [[JapanFG/legal-financial-licenses/insurance-license-and-solvency]]
-- [[JapanFG/fsa]]
+- [[life-insurers/kampo-life]]
+- [[megabanks/japan-post-holdings]]
+- [[regional-banks/japan-post-bank]]
+- [[megabanks/nippon-post]]
+- [[financial-licenses/insurance-license-and-solvency]]
+- [[financial-regulators/fsa]]
 - MIC (Ministry of Internal Affairs and Communications)
 - [[INDEX|FinWiki index]]
 

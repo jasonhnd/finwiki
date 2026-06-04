@@ -14,7 +14,7 @@ translated_at: 2026-06-01T03:31:12.301Z
 
 Japan account-to-account payments sit between classic bank transfer, wallet balance, card acquiring, and code payment. The important control question is: **is value moving directly from a deposit account, through a funds-transfer / prepaid balance, or through a merchant acquiring / card network layer?**
 
-Use this page with [[payments/INDEX|payments domain]], [[payments/funds-transfer-vs-prepaid-boundary|funds transfer vs prepaid boundary]], [[payments/funds-transfer-service-providers-japan-index|funds-transfer registry]], [[payments/japan-code-payment-competitive-map|code-payment competitive map]], [[banking/quick-deposit-four-methods|quick deposit methods]], and [[JapanFG/legal-financial-licenses/INDEX|JapanFG legal / financial licenses]].
+Use this page with [[payments/INDEX|payments domain]], [[payments/funds-transfer-vs-prepaid-boundary|funds transfer vs prepaid boundary]], [[payments/funds-transfer-service-providers-japan-index|funds-transfer registry]], [[payments/japan-code-payment-competitive-map|code-payment competitive map]], [[banking/quick-deposit-four-methods|quick deposit methods]], and [[financial-licenses/INDEX|JapanFG legal / financial licenses]].
 
 ## Rail Map
 
@@ -33,8 +33,8 @@ Zengin-Net's official explanation says Cotra was established after the 2020 smal
 
 For FinWiki, this makes Cotra a useful bridge between:
 
-- [[JapanFG/mufg-bank|MUFG Bank]], [[JapanFG/sumitomo-mitsui-banking-corp|SMBC]], [[JapanFG/mizuho-bank|Mizuho Bank]], [[JapanFG/resona-bank|Resona Bank]], and other deposit-taking banks;
-- app banks and digital bank routes such as [[JapanFG/ssnb|SBI Sumishin Net Bank]] and [[banking/minna-bank-baas-model|Minna Bank BaaS]];
+- [[megabanks/mufg-bank|MUFG Bank]], [[megabanks/sumitomo-mitsui-banking-corp|SMBC]], [[megabanks/mizuho-bank|Mizuho Bank]], [[megabanks/resona-bank|Resona Bank]], and other deposit-taking banks;
+- app banks and digital bank routes such as [[regional-banks/ssnb|SBI Sumishin Net Bank]] and [[banking/minna-bank-baas-model|Minna Bank BaaS]];
 - funds-transfer operators routed through [[payments/funds-transfer-service-providers-japan-index|Japan funds-transfer service providers registry]];
 - user-facing wallet and code-payment routes in [[payments/japan-code-payment-competitive-map|Japan code-payment competitive map]].
 
@@ -57,14 +57,14 @@ This matters because Bank Pay looks like a QR payment to a consumer, but the eco
 | QR merchant payment from bank account | Is the account debited directly or is wallet balance first charged? | Bank Pay / account-direct route. |
 | Wallet payment after bank charge | Is value stored in wallet before merchant payment? | [[payments/funds-transfer-vs-prepaid-boundary|funds-transfer vs prepaid boundary]]. |
 | Merchant QR payment through PayPay / d払い / au PAY / Rakuten Pay | Is this code-payment, card acquiring, prepaid, or funds-transfer economics? | [[payments/japan-code-payment-competitive-map|code-payment competitive map]] and [[payments/psp-merchant-settlement-risk|PSP settlement risk]]. |
-| Quick deposit into securities / crypto account | Is the rail bank transfer, account debit, API instruction, or payment agency route? | [[banking/quick-deposit-four-methods|quick deposit methods]] and [[JapanFG/legal-financial-licenses/INDEX|license stack]]. |
+| Quick deposit into securities / crypto account | Is the rail bank transfer, account debit, API instruction, or payment agency route? | [[banking/quick-deposit-four-methods|quick deposit methods]] and [[financial-licenses/INDEX|license stack]]. |
 
 ## JapanFG Relevance
 
 - Megabanks and core banks are central because account-to-account payments ultimately require deposit-account connectivity and bank clearing / settlement rules.
-- [[JapanFG/recruit-mufg-business|Recruit MUFG Business]] and COIN+ type models is recorded as attempts to build merchant and consumer payment frequency around account-connected rails.
-- [[JapanFG/paypay|PayPay]], [[JapanFG/merpay|Merpay]], [[JapanFG/au-payment|au PAY]], and [[JapanFG/rakuten-edy|Rakuten Edy]] remain wallet / code-payment anchors, but their bank-link flows is separate from pure account-to-account payment.
-- [[JapanFG/sbi-shinsei-bank|SBI Shinsei Bank]], [[JapanFG/fukuoka-fg|Fukuoka FG]], and regional-bank app routes matter because Cotra and Bank Pay can turn bank apps into daily payment surfaces.
+- [[payment-firms/recruit-mufg-business|Recruit MUFG Business]] and COIN+ type models is recorded as attempts to build merchant and consumer payment frequency around account-connected rails.
+- [[payment-firms/paypay|PayPay]], [[payment-firms/merpay|Merpay]], [[payment-firms/au-payment|au PAY]], and [[payment-firms/rakuten-edy|Rakuten Edy]] remain wallet / code-payment anchors, but their bank-link flows is separate from pure account-to-account payment.
+- [[regional-banks/sbi-shinsei-bank|SBI Shinsei Bank]], [[regional-banks/fukuoka-fg|Fukuoka FG]], and regional-bank app routes matter because Cotra and Bank Pay can turn bank apps into daily payment surfaces.
 
 ## Risks and Caveats
 
@@ -84,7 +84,7 @@ This matters because Bank Pay looks like a QR payment to a consumer, but the eco
 3. Check the operator: bank, funds-transfer service provider, prepaid issuer, PSP, or code-payment platform.
 4. For Cotra, check the current participating app / institution page.
 5. For Bank Pay, check current participating financial institutions and merchant acceptance.
-6. Link company pages back to [[payments/funds-transfer-vs-prepaid-boundary|funds transfer vs prepaid boundary]] and [[JapanFG/legal-financial-licenses/INDEX|legal / financial licenses]] before making license claims.
+6. Link company pages back to [[payments/funds-transfer-vs-prepaid-boundary|funds transfer vs prepaid boundary]] and [[financial-licenses/INDEX|legal / financial licenses]] before making license claims.
 
 ## Related
 
@@ -95,13 +95,13 @@ This matters because Bank Pay looks like a QR payment to a consumer, but the eco
 - [[payments/psp-merchant-settlement-risk]]
 - [[banking/quick-deposit-four-methods]]
 - [[banking/baas-japan-landscape]]
-- [[JapanFG/legal-financial-licenses/INDEX]]
-- [[JapanFG/recruit-mufg-business]]
-- [[JapanFG/paypay]]
-- [[JapanFG/merpay]]
-- [[JapanFG/mufg-bank]]
-- [[JapanFG/sumitomo-mitsui-banking-corp]]
-- [[JapanFG/mizuho-bank]]
+- [[financial-licenses/INDEX]]
+- [[payment-firms/recruit-mufg-business]]
+- [[payment-firms/paypay]]
+- [[payment-firms/merpay]]
+- [[megabanks/mufg-bank]]
+- [[megabanks/sumitomo-mitsui-banking-corp]]
+- [[megabanks/mizuho-bank]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

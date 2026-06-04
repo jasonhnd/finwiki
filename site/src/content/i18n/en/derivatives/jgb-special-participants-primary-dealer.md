@@ -164,9 +164,9 @@ The Special Participants system is critical to:
 - [[securities/japan-underwriting-market-structure]]
 - [[banking/INDEX]]
 - [[banking/japan-banking-license-tier-comparison-matrix]]
-- [[JapanFG/mufg-bank]]
-- [[JapanFG/sumitomo-mitsui-banking-corp]]
-- [[JapanFG/mizuho-bank]]
+- [[megabanks/mufg-bank]]
+- [[megabanks/sumitomo-mitsui-banking-corp]]
+- [[megabanks/mizuho-bank]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

@@ -1,0 +1,92 @@
+{
+  "schema_version": "1.0",
+  "slug": "foreign-financial-institutions/socgen-japan",
+  "source_path": "foreign-financial-institutions/socgen-japan.md",
+  "url": "https://finwiki.zksc.io/foreign-financial-institutions/socgen-japan",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/foreign-financial-institutions/socgen-japan.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/foreign-financial-institutions/socgen-japan.md",
+  "domain": "foreign-financial-institutions",
+  "title": "ソシエテ・ジェネラル日本 (Societe Generale Japan)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "ソシエテ・ジェネラル日本 (Societe Generale Japan)",
+    "aliases": [
+      "socgen-japan",
+      "Societe Generale Japan",
+      "Societe Generale, Tokyo Branch",
+      "Societe Generale Securities Japan",
+      "ソシエテ・ジェネラル銀行 東京支店",
+      "ソシエテ・ジェネラル証券"
+    ],
+    "domain": "foreign-financial-institutions",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
+    "review_by": "2026-11-16",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "foreign-bank",
+      "foreign-ib",
+      "france"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.societegenerale.asia/jp/about-asia-pacific/about-japan/",
+      "https://wholesale.banking.societegenerale.com/en/about/locations/worldwide-details/office/tokyo/",
+      "https://www.fsa.go.jp/menkyo/menkyoj/touroku.pdf",
+      "https://www.fsa.go.jp/menkyo/dairi_g.pdf"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against バンク・オブ・アメリカ日本 (Bank of America Japan) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "ソシエテ・ジェネラル日本 (Societe Generale Japan)",
+    "Wiki route",
+    "TL;DR",
+    "1. 会社概要",
+    "2. 事業セグメント・マップ",
+    "3. 戦略・競争",
+    "4. 規制・政策",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 12,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/INDEX",
+      "banking/INDEX",
+      "foreign-financial-institutions/bank-of-america-japan",
+      "foreign-financial-institutions/barclays-japan",
+      "foreign-financial-institutions/bnp-paribas-japan",
+      "foreign-financial-institutions/deutsche-japan",
+      "foreign-financial-institutions/jpmorgan-japan",
+      "foreign-financial-institutions/standard-chartered-japan",
+      "securities-firms/goldman-sachs-japan",
+      "securities-firms/morgan-stanley-japan",
+      "securities/INDEX"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/foreign-financial-institutions/bank-of-america-japan",
+      "https://finwiki.zksc.io/foreign-financial-institutions/barclays-japan",
+      "https://finwiki.zksc.io/foreign-financial-institutions/bnp-paribas-japan",
+      "https://finwiki.zksc.io/foreign-financial-institutions/deutsche-japan",
+      "https://finwiki.zksc.io/foreign-financial-institutions/jpmorgan-japan",
+      "https://finwiki.zksc.io/foreign-financial-institutions/standard-chartered-japan",
+      "https://finwiki.zksc.io/securities-firms/goldman-sachs-japan",
+      "https://finwiki.zksc.io/securities-firms/morgan-stanley-japan",
+      "https://finwiki.zksc.io/securities/INDEX"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3404,
+    "word_like_tokens": 458,
+    "inbound_wikilinks_count": 15,
+    "last_modified": "2026-06-04"
+  }
+}

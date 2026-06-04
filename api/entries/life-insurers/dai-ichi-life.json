@@ -1,0 +1,91 @@
+{
+  "schema_version": "1.0",
+  "slug": "life-insurers/dai-ichi-life",
+  "source_path": "life-insurers/dai-ichi-life.md",
+  "url": "https://finwiki.zksc.io/life-insurers/dai-ichi-life",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/life-insurers/dai-ichi-life.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/life-insurers/dai-ichi-life.md",
+  "domain": "life-insurers",
+  "title": "第一ライフグループ / 旧 第一生命 HD",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "第一ライフグループ / 旧 第一生命 HD",
+    "aliases": [
+      "Dai-ichi Life",
+      "Daiichi Life Group",
+      "Dai-ichi Life Group",
+      "株式会社第一ライフグループ",
+      "第一ライフグループ",
+      "第一生命ホールディングス",
+      "第一生命 HD",
+      "Dai-ichi Life Holdings",
+      "8750",
+      "life-insurers/dai-ichi-life-hd"
+    ],
+    "domain": "life-insurers",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "life-insurance"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: 第一生命ホールディングス (公開情報 2026-05-19 抽出)",
+      "第一生命 HD 公式 IR / 沿革ページ (公開情報)",
+      "2025年3月期 決算短信 (連結, 2025-05-15 開示)",
+      "2026年3月期 第2四半期(中間期) 決算短信 (連結, 2025-11-14 開示)",
+      "https://www.fsa.go.jp/menkyo/menkyoj/hokenmochikabu.pdf",
+      "https://www.dai-ichi-life-hd.com/newsroom/newsrelease/2025/pdf/index_036.pdf"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 日本生命保険相互会社 (Nippon Life) for peer / contrast context and insurance index for the broader system / regulatory boundary.",
+  "headings": [
+    "第一ライフグループ / 旧 第一生命 HD",
+    "Wiki route",
+    "TL;DR",
+    "1. 会社概要",
+    "主要 KPI（FY2024 = 2025-03 期 連結, 2025-05-15 開示）",
+    "主要 KPI（概要 / 業態）",
+    "主要子会社・持分",
+    "主要株主構成（公開情報ベース）",
+    "重要年表（抜粋）",
+    "2. 事業セグメント・マップ"
+  ],
+  "body_links": {
+    "wikilinks_count": 9,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "insurance/INDEX",
+      "insurance/economic-value-based-solvency",
+      "insurance/life-insurance-channel-mix",
+      "life-insurers/nippon-life",
+      "mizuho-fg",
+      "mufg",
+      "nippon-life",
+      "smfg"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/insurance/INDEX",
+      "https://finwiki.zksc.io/insurance/economic-value-based-solvency",
+      "https://finwiki.zksc.io/insurance/life-insurance-channel-mix",
+      "https://finwiki.zksc.io/life-insurers/nippon-life",
+      "https://finwiki.zksc.io/mizuho-fg",
+      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/nippon-life",
+      "https://finwiki.zksc.io/smfg"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 6142,
+    "word_like_tokens": 1159,
+    "inbound_wikilinks_count": 40,
+    "last_modified": "2026-06-04"
+  }
+}

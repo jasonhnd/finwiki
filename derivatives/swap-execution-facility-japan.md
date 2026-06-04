@@ -106,7 +106,7 @@ This is **comparable to MiFID II RFQ transparency** in the EU and the **SEF RFQ 
 | **Tradeweb (Tradeweb Japan)** | Multi-dealer RFQ platform — strong in yen IRS, OIS, JGB cash, JGB repo, and selected FX derivatives. FSA-registered ETP operator. Globally one of the largest fixed-income electronic-trading platforms; Tokyo presence is a tier-1 ETP for institutional flow. |
 | **Bloomberg (Bloomberg's electronic-trading services with Japan registration)** | Multi-dealer RFQ across rates, FX, credit, and selected equity derivatives. Bloomberg's BSEF (Bloomberg SEF) is the US-registered SEF; the Japan-facing service operates under FSA registration for the in-scope product set. |
 | **MarketAxess (selected fixed-income credit-derivatives RFQ)** | Strong in credit-product electronic execution; Japan presence focused on credit-derivatives and bond-related flow. |
-| **JPX-affiliated platforms** | JPX has electronic OTC-derivatives trading initiatives associated with [[JapanFG/japan-exchange-group|JPX group]]. Scope varies; check current product offering. |
+| **JPX-affiliated platforms** | JPX has electronic OTC-derivatives trading initiatives associated with [[financial-regulators/japan-exchange-group|JPX group]]. Scope varies; check current product offering. |
 
 ### Interdealer voice brokers
 
@@ -124,14 +124,14 @@ The Japan interdealer voice-broker market is anchored by the **TP ICAP family** 
 
 Each major dealer bank operates **single-dealer platforms** for client-facing OTC execution:
 
-- [[JapanFG/nomura-hd|Nomura]] (NomuraNow);
-- [[JapanFG/daiwa-sg|Daiwa SG]] (Daiwa Direct / institutional channels);
-- [[JapanFG/smbc-nikko|SMBC Nikko]];
-- [[JapanFG/mizuho-securities|Mizuho Securities]];
-- [[JapanFG/goldman-sachs-japan|GS Japan]] (Marquee);
-- [[JapanFG/morgan-stanley-japan|MS Japan]] (Matrix);
-- [[JapanFG/jpmorgan-japan|JPM Japan]] (MorganMarkets);
-- [[JapanFG/citigroup-japan|Citi Japan]] (Velocity).
+- [[securities-firms/nomura-hd|Nomura]] (NomuraNow);
+- [[securities-firms/daiwa-sg|Daiwa SG]] (Daiwa Direct / institutional channels);
+- [[securities-firms/smbc-nikko|SMBC Nikko]];
+- [[securities-firms/mizuho-securities|Mizuho Securities]];
+- [[securities-firms/goldman-sachs-japan|GS Japan]] (Marquee);
+- [[securities-firms/morgan-stanley-japan|MS Japan]] (Matrix);
+- [[foreign-financial-institutions/jpmorgan-japan|JPM Japan]] (MorganMarkets);
+- [[foreign-financial-institutions/citigroup-japan|Citi Japan]] (Velocity).
 
 Single-dealer platforms are not multilateral venues, so they are **not subject to ETP rules per se**, but they integrate with multi-dealer ETPs for RFQ-style execution and feed trade reporting into TRs.
 
@@ -202,18 +202,18 @@ The customer-protection layer is particularly relevant where dealer banks sell O
 - [[securities/japan-best-execution-sor-pts]]
 - [[securities/japan-prime-brokerage-and-institutional-financing-matrix]]
 - [[money-market/tanshi-company-business-model]]
-- [[JapanFG/japan-exchange-group]]
-- [[JapanFG/mufg-bank]]
-- [[JapanFG/sumitomo-mitsui-banking-corp]]
-- [[JapanFG/mizuho-bank]]
-- [[JapanFG/nomura-hd]]
-- [[JapanFG/daiwa-sg]]
-- [[JapanFG/smbc-nikko]]
-- [[JapanFG/mizuho-securities]]
-- [[JapanFG/goldman-sachs-japan]]
-- [[JapanFG/morgan-stanley-japan]]
-- [[JapanFG/jpmorgan-japan]]
-- [[JapanFG/citigroup-japan]]
+- [[financial-regulators/japan-exchange-group]]
+- [[megabanks/mufg-bank]]
+- [[megabanks/sumitomo-mitsui-banking-corp]]
+- [[megabanks/mizuho-bank]]
+- [[securities-firms/nomura-hd]]
+- [[securities-firms/daiwa-sg]]
+- [[securities-firms/smbc-nikko]]
+- [[securities-firms/mizuho-securities]]
+- [[securities-firms/goldman-sachs-japan]]
+- [[securities-firms/morgan-stanley-japan]]
+- [[foreign-financial-institutions/jpmorgan-japan]]
+- [[foreign-financial-institutions/citigroup-japan]]
 - [[banking/japan-banking-license-tier-comparison-matrix]]
 - [[finance/japan-corporate-fx-and-rate-hedge-policy]]
 - [[finance/japan-listed-financial-groups-investable-universe]]

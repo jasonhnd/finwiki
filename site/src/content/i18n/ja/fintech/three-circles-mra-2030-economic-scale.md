@@ -40,7 +40,7 @@ translated_at: 2026-06-02T14:01:20.956Z
 ```
 
 **単方向相互認証 → 双方向相互認証 → 三辺 MRA** の進化経路：
-- 2026-02 U.S.-Japan MRA 署名済み（USDC × [[JapanFG/jpyc|JPYC]] 双方向）
+- 2026-02 U.S.-Japan MRA 署名済み（USDC × [[payment-firms/jpyc|JPYC]] 双方向）
 - 2026-Q3 U.S.-EU MRA 署名予定 — 詳細は [[fintech/mica-cross-border-implications|MiCA クロスボーダー含意]] 参照
 - 2027-2028 三円 MRA 全面署名 → ライセンス保有 issuer の自動 passporting
 

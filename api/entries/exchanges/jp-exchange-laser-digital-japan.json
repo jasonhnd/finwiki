@@ -56,7 +56,6 @@
   "body_links": {
     "wikilinks_count": 10,
     "wikilinks": [
-      "JapanFG/nomura-hd",
       "exchanges/INDEX",
       "exchanges/fsa-vasp-registration-system",
       "exchanges/global-cex-prime-brokerage-layer",
@@ -65,10 +64,10 @@
       "exchanges/jvcea-type2-associate-membership-system",
       "fintech/japan-bittrade-listing-process",
       "fintech/japan-financial-regulation",
-      "fintech/japan-stablecoin-regulatory-landscape"
+      "fintech/japan-stablecoin-regulatory-landscape",
+      "securities-firms/nomura-hd"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/nomura-hd",
       "https://finwiki.zksc.io/exchanges/INDEX",
       "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
       "https://finwiki.zksc.io/exchanges/global-cex-prime-brokerage-layer",
@@ -77,7 +76,8 @@
       "https://finwiki.zksc.io/exchanges/jvcea-type2-associate-membership-system",
       "https://finwiki.zksc.io/fintech/japan-bittrade-listing-process",
       "https://finwiki.zksc.io/fintech/japan-financial-regulation",
-      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape"
+      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
+      "https://finwiki.zksc.io/securities-firms/nomura-hd"
     ],
     "external_links_count": 8,
     "external_links": [
@@ -92,9 +92,9 @@
     ]
   },
   "metrics": {
-    "nonspace_chars": 5405,
-    "word_like_tokens": 886,
+    "nonspace_chars": 5414,
+    "word_like_tokens": 887,
     "inbound_wikilinks_count": 13,
-    "last_modified": "2026-05-24"
+    "last_modified": "2026-06-04"
   }
 }

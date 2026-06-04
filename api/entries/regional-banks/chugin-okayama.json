@@ -1,0 +1,91 @@
+{
+  "schema_version": "1.0",
+  "slug": "regional-banks/chugin-okayama",
+  "source_path": "regional-banks/chugin-okayama.md",
+  "url": "https://finwiki.zksc.io/regional-banks/chugin-okayama",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/regional-banks/chugin-okayama.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/regional-banks/chugin-okayama.md",
+  "domain": "regional-banks",
+  "title": "ちゅうぎん FG / 中国銀行 historical group page",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "ちゅうぎん FG / 中国銀行 historical group page",
+    "aliases": [
+      "ちゅうぎんフィナンシャルグループ",
+      "Chugin FG",
+      "Chugin Financial Group",
+      "株式会社ちゅうぎんフィナンシャルグループ",
+      "ちゅうぎんグループ"
+    ],
+    "domain": "regional-banks",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "regional-bank"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: 中国銀行 (日本) (2026-05-19 抽出)",
+      "Wikipedia: ちゅうぎんフィナンシャルグループ (2026-05-19 抽出)",
+      "Wikipedia: TSUBASA アライアンス (2026-05-19 抽出)",
+      "ちゅうぎん FG 2025-03 期 決算短信 (2025-05-14)",
+      "ちゅうぎん FG 中期経営計画「未来共創プラン ステージ III」(2023-04〜2027-03)"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against ふくおか FG (FFG) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "ちゅうぎん FG / 中国銀行 historical group page",
+    "Wiki route",
+    "TL;DR",
+    "1. 会社概要",
+    "2025-03 期決算（連結・ちゅうぎん FG）^[extracted]",
+    "主要子会社・持分",
+    "合併歴史・前身",
+    "重要年表 ^[extracted]",
+    "2. 事業セグメント・マップ",
+    "営業エリア"
+  ],
+  "body_links": {
+    "wikilinks_count": 12,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "banking/INDEX",
+      "chugoku-bank",
+      "hirogin-hd",
+      "iyogin-hd",
+      "mizuho-fg",
+      "mufg",
+      "regional-banks/fukuoka-fg",
+      "resona-hd",
+      "san-in-godo-bank",
+      "smfg",
+      "yamaguchi-fg"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/chugoku-bank",
+      "https://finwiki.zksc.io/hirogin-hd",
+      "https://finwiki.zksc.io/iyogin-hd",
+      "https://finwiki.zksc.io/mizuho-fg",
+      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/regional-banks/fukuoka-fg",
+      "https://finwiki.zksc.io/resona-hd",
+      "https://finwiki.zksc.io/san-in-godo-bank",
+      "https://finwiki.zksc.io/smfg",
+      "https://finwiki.zksc.io/yamaguchi-fg"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 5650,
+    "word_like_tokens": 1018,
+    "inbound_wikilinks_count": 2,
+    "last_modified": "2026-06-04"
+  }
+}

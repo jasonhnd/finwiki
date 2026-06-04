@@ -30,14 +30,14 @@ Sponsor-side developer entries: [[real-estate-finance/mitsui-fudosan-financing-m
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1 | [[real-estate-finance/nippon-building-fund-j-reit-8951\|Nippon Building Fund (NBF)]] | 8951 | [[real-estate-finance/mitsui-fudosan-financing-model\|Mitsui Fudosan]] | Developer | Office (Tokyo CBD) | ~1.4 | ~0.8-0.9 | Conservative (low-40% zone) | Lower-end (premium) | Multi-tenant (low concentration) | Flat to mildly down (office cap-rate widening) | Stable to mildly up (rent revisions) |
 | 2 | [[real-estate-finance/japan-real-estate-j-reit-8952\|Japan Real Estate (JRE)]] | 8952 | [[real-estate-finance/mitsubishi-estate-financing-model\|Mitsubishi Estate]] | Developer | Office (Marunouchi / Otemachi) | ~1.2 | ~0.7-0.8 | Conservative (low-40% zone) | Lower-end (premium) | Multi-tenant; Marunouchi premier | Flat (Marunouchi resilience) | Stable |
-| 3 | [[real-estate-finance/nomura-real-estate-master-fund-nmf\|Nomura Real Estate Master Fund (NMF)]] | 3462 | Nomura Real Estate ([[JapanFG/nomura-hd\|Nomura HD]]) | Developer | Diversified (office, retail, logistics, residential) | ~1.1 | ~0.6-0.7 | Mid-40% zone | Mid | Multi-tenant diversified | Flat | Stable to mildly up |
+| 3 | [[real-estate-finance/nomura-real-estate-master-fund-nmf\|Nomura Real Estate Master Fund (NMF)]] | 3462 | Nomura Real Estate ([[securities-firms/nomura-hd\|Nomura HD]]) | Developer | Diversified (office, retail, logistics, residential) | ~1.1 | ~0.6-0.7 | Mid-40% zone | Mid | Multi-tenant diversified | Flat | Stable to mildly up |
 | 4 | [[real-estate-finance/glp-j-reit-3281\|GLP J-REIT]] | 3281 | GLP (Singapore-headquartered global logistics platform) | Foreign (logistics platform) | Logistics (modern Class A) | ~0.9 | ~0.5-0.6 | Mid-40% zone | Mid (logistics-tight) | Single-anchor / few-tenant per facility; 3PL and e-commerce | Compressed (logistics cap-rate held) | Stable to up |
 | 5 | [[real-estate-finance/nippon-prologis-reit-3283\|Nippon Prologis REIT (NPR)]] | 3283 | Prologis (US-listed global logistics REIT) | Foreign (logistics platform) | Logistics (Class A) | ~0.8 | ~0.5-0.6 | Mid-40% zone | Mid (logistics-tight) | Single-anchor / 3PL and e-commerce anchored | Compressed; very tight cap rate | Stable to up |
-| 6 | Daiwa Office Investment | 8976 | [[JapanFG/daiwa-sg\|Daiwa Securities Group]] | Trading / financial | Office (mid-size buildings in major cities) | ~0.5 | ~0.3-0.4 | Mid-40% zone | Mid | Multi-tenant mid-size buildings | Flat to mildly down (mid-size office softness) | Stable |
+| 6 | Daiwa Office Investment | 8976 | [[securities-firms/daiwa-sg\|Daiwa Securities Group]] | Trading / financial | Office (mid-size buildings in major cities) | ~0.5 | ~0.3-0.4 | Mid-40% zone | Mid | Multi-tenant mid-size buildings | Flat to mildly down (mid-size office softness) | Stable |
 | 7 | Nippon Accommodations Fund | 3226 | Mitsui Fudosan Residential | Developer (residential) | Residential (rental apartments) | ~0.5 | ~0.3-0.4 | Mid-40% zone | Mid | Granular individual-tenant; very low single-tenant concentration | Flat | Stable to up (rent revisions on lease renewal) |
 | 8 | Japan Logistics Fund | 8967 | Mitsui & Co (JLF Asset Management) | Trading / sponsor (Mitsui & Co) | Logistics | ~0.4 | ~0.3 | Mid-40% zone | Mid | Single-tenant logistics; 3PL anchor | Mildly compressed | Stable to up |
 | 9 | Sekisui House REIT | 3309 | Sekisui House | Developer (residential / commercial) | Diversified (office + residential) | ~0.5 | ~0.3 | Mid-40% zone | Mid | Multi-tenant office + granular residential | Flat | Stable |
-| 10 | [[JapanFG/orix-corp\|Orix]] JREIT | 8954 | [[JapanFG/orix-corp\|Orix]] | Financial conglomerate | Diversified (office-heavy) | ~0.7 | ~0.4-0.5 | Mid-40% zone | Mid | Multi-tenant diversified | Flat | Stable |
+| 10 | [[leasing-firms/orix-corp\|Orix]] JREIT | 8954 | [[leasing-firms/orix-corp\|Orix]] | Financial conglomerate | Diversified (office-heavy) | ~0.7 | ~0.4-0.5 | Mid-40% zone | Mid | Multi-tenant diversified | Flat | Stable |
 | 11 | Mori Hills REIT | 3234 | Mori Building | Developer (urban redevelopment) | Office / urban redevelopment (Roppongi, Toranomon, Atago) | ~0.4 | ~0.2-0.3 | Mid-40% zone | Mid | Multi-tenant; urban-redevelopment anchored | Flat (urban-redev resilience) | Stable to mildly up |
 | 12 | Mori Trust Sogo REIT (Mori Trust REIT) | 3478 | Mori Trust | Developer | Office-heavy diversified | ~0.4 | ~0.2-0.3 | Mid-40% zone | Mid | Multi-tenant; office-heavy mixed | Flat | Stable |
 | 13 | Industrial & Infrastructure Fund (IIF) | 3249 | KJR Management (post KKR acquisition of MC-UBS Realty); Mitsubishi Corp historical | Trading / financial sponsor (now PE-owned AM) | Logistics + industrial infrastructure | ~0.5 | ~0.3-0.4 | Mid-40% zone | Mid (logistics theme) | Mixed: single-tenant logistics + multi-tenant industrial infrastructure | Mildly compressed | Stable to up |
@@ -89,8 +89,8 @@ Sector exposure of the broader J-REIT universe (the ~60 listed J-REITs total) is
 | Domestic developer (AEON / AEON Mall) | AEON REIT (3292) | 1 |
 | Trading-house / financial-conglomerate (Mitsui & Co) | Japan Logistics Fund (8967) | 1 |
 | Trading-house / financial-conglomerate (Mitsubishi Corp / KKR / KJR) | IIF (3249) | 1 |
-| Financial conglomerate ([[JapanFG/orix-corp\|Orix]]) | Orix JREIT (8954) | 1 |
-| Trading / securities ([[JapanFG/daiwa-sg\|Daiwa SG]]) | Daiwa Office (8976) | 1 |
+| Financial conglomerate ([[leasing-firms/orix-corp\|Orix]]) | Orix JREIT (8954) | 1 |
+| Trading / securities ([[securities-firms/daiwa-sg\|Daiwa SG]]) | Daiwa Office (8976) | 1 |
 | Independent AM (Kenedix) | Kenedix Office (8972) | 1 |
 | Hybrid / NTT-affiliated (Premier) | Premier Investment (8956) | 1 |
 | Foreign logistics platform (GLP, Singapore) | GLP J-REIT (3281) | 1 |
@@ -139,9 +139,9 @@ Every J-REIT has a trust-bank trustee for asset administration. The trustee mark
 
 | Trustee | Approximate share of top-20 trustee role | Notes |
 |---|---|---|
-| [[JapanFG/mitsubishi-ufj-trust-bank\|Mitsubishi UFJ Trust Bank]] | Most-frequent trustee across top-20 J-REITs | Largest Japan trust bank; cross-sponsor trustee role |
-| [[JapanFG/sumitomo-mitsui-trust\|Sumitomo Mitsui Trust Bank (SMTB)]] | Second-most-frequent trustee | Major trust bank with deep real-estate-asset administration franchise |
-| [[JapanFG/mizuho-trust-bank\|Mizuho Trust Bank]] | Significant trustee role | Group-affiliated trust bank with real-estate franchise |
+| [[trust-banks/mitsubishi-ufj-trust-bank\|Mitsubishi UFJ Trust Bank]] | Most-frequent trustee across top-20 J-REITs | Largest Japan trust bank; cross-sponsor trustee role |
+| [[trust-banks/sumitomo-mitsui-trust\|Sumitomo Mitsui Trust Bank (SMTB)]] | Second-most-frequent trustee | Major trust bank with deep real-estate-asset administration franchise |
+| [[trust-banks/mizuho-trust-bank\|Mizuho Trust Bank]] | Significant trustee role | Group-affiliated trust bank with real-estate franchise |
 
 The trustee identity is independent of sponsor identity — a single trust bank can serve as trustee for J-REITs sponsored by competing developer groups. The trustee role is a fee-earning custody / asset-administration function that does not affect sponsor governance. See [[banking/trust-bank-custody-operating-comparison|trust bank custody operating comparison]] for the trustee-side framework.
 
@@ -267,11 +267,11 @@ This checklist supports reproducible J-REIT analysis from public sources only.
 - [[real-estate-finance/bank-commercial-real-estate-lending-japan|bank commercial real estate lending Japan]]
 - [[banking/INDEX|banking index]]
 - [[banking/trust-bank-custody-operating-comparison|trust bank custody operating comparison]]
-- [[JapanFG/orix-corp|Orix]]
-- [[JapanFG/daiwa-sg|Daiwa Securities Group]]
-- [[JapanFG/nomura-hd|Nomura HD]]
-- [[JapanFG/mitsubishi-ufj-trust-bank|Mitsubishi UFJ Trust Bank]]
-- [[JapanFG/sumitomo-mitsui-trust|SMTB]]
+- [[leasing-firms/orix-corp|Orix]]
+- [[securities-firms/daiwa-sg|Daiwa Securities Group]]
+- [[securities-firms/nomura-hd|Nomura HD]]
+- [[trust-banks/mitsubishi-ufj-trust-bank|Mitsubishi UFJ Trust Bank]]
+- [[trust-banks/sumitomo-mitsui-trust|SMTB]]
 - [[retail/aeon-group|AEON Group]]
 - [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]]
 - [[INDEX|FinWiki index]]

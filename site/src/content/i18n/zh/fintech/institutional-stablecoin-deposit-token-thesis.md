@@ -24,7 +24,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 | 视角 | 零售稳定币（USDC 等） | 机构稳定币（存款代币） |
 |---|---|---|
-| 发行方 | 加密企业 | 银行（[[fintech/jpmorgan-jpmd-coin|JPM]]·[[JapanFG/mufg|三菱 UFJ]]·[[JapanFG/smfg|三井住友]]等） |
+| 发行方 | 加密企业 | 银行（[[fintech/jpmorgan-jpmd-coin|JPM]]·[[megabanks/mufg|三菱 UFJ]]·[[megabanks/smfg|三井住友]]等） |
 | KYC | 无许可 | 银行账户 KYC = 机构投资者级别 |
 | 规模 | 小额 | 200-300 億円单位/笔 |
 | 结算对象 | 零售转账·加密资产交易 | 美国国债、公司债、回购市场、有价证券、外汇 |

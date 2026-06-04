@@ -87,8 +87,8 @@ translated_at: 2026-05-31T11:13:44.896Z
 | 营 | §501 上市后状态 | 评估 |
 |---|---|---|
 | **SBI Circle 控股** | 跨境合规冠军（USDC ↔ JPYC 唯一注册渠道） | ★★★★★ |
-| **[[JapanFG/jpyc|JPYC]]（冈部则隆）** | 日本零售合规编号1 位 | ★★★★ |
-| **[[JapanFG/progmat|Progmat]]（三大银行）** | 日本 B2B 大型，**无跨境合规渠道** | ★★★ |
+| **[[payment-firms/jpyc|JPYC]]（冈部则隆）** | 日本零售合规编号1 位 | ★★★★ |
+| **[[payment-firms/progmat|Progmat]]（三大银行）** | 日本 B2B 大型，**无跨境合规渠道** | ★★★ |
 | **民娜银行 / Solana** | 纯国内零售，Solana §501 路线之外 | ★★ |
 
 详细的4 派系比较[[fintech/japan-epi-four-camps-comparison|日本 SC 四陣営比較]]看。

@@ -44,7 +44,7 @@ User → launches banking app
 
 ## Applicable When
 
-- Designing differentiation for Japanese retail SC (My Number linkage, etc.; where connection with [[JapanFG/jpyc|JPYC]] is under consideration)
+- Designing differentiation for Japanese retail SC (My Number linkage, etc.; where connection with [[payment-firms/jpyc|JPYC]] is under consideration)
 - Explaining Japan's structural advantage in "USDC vs domestic SC" debates → Japan, with My Number, has the "chance" to build KYC-based SC from the outset
 - Designing a bank BaaS × wallet linkage structure, where a shared KYC layer can be built in combination with [[exchanges/jp-cex-deposit-token-stablecoin-integration|JP CEX × 預金トークン/SC 統合]]
 - Designing the KYC layer as an SC issuer

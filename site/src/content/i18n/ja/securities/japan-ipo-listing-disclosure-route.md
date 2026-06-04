@@ -13,7 +13,7 @@ translated_at: 2026-06-03T00:53:08.333Z
 
 日本の IPO 記録は、取引所の上場審査、有価証券届出書による開示、引受 / ブックビルディング、上場承認、TDnet 適時開示、EDINET 法定開示、上場後のコーポレートガバナンス記録を組み合わせたものである。このページは、発行体が TSE 上場市場へ入るための公開ルートを記録する。
 
-このページは [[securities/INDEX|securities domain]] に属し、[[finance/INDEX|finance domain]]、[[securities/tokyo-stock-exchange|Tokyo Stock Exchange]]、[[JapanFG/japan-exchange-group|Japan Exchange Group]]、[[securities/japan-underwriting-market-structure|Japan underwriting market structure]]、[[securities/japan-market-infrastructure-map|Japan market infrastructure map]]、[[JapanFG/legal-financial-licenses/securities-license-stack|Japan securities license stack]]、[[finance/japan-ib-league-table|Japan IB league table]]、[[finance/japan-fair-disclosure-and-insider-trading-controls|fair disclosure and insider trading controls]] にリンクする。
+このページは [[securities/INDEX|securities domain]] に属し、[[finance/INDEX|finance domain]]、[[securities/tokyo-stock-exchange|Tokyo Stock Exchange]]、[[financial-regulators/japan-exchange-group|Japan Exchange Group]]、[[securities/japan-underwriting-market-structure|Japan underwriting market structure]]、[[securities/japan-market-infrastructure-map|Japan market infrastructure map]]、[[financial-licenses/securities-license-stack|Japan securities license stack]]、[[finance/japan-ib-league-table|Japan IB league table]]、[[finance/japan-fair-disclosure-and-insider-trading-controls|fair disclosure and insider trading controls]] にリンクする。
 
 ## ルートマップ
 
@@ -98,19 +98,19 @@ JPX は、TDnet に掲載された開示は TDnet 開示と同時に公衆縦覧
 
 ## JapanFG リンク
 
-- 証券引受会社: [[JapanFG/nomura-hd]]、[[JapanFG/daiwa-sg]]、[[JapanFG/smbc-nikko]]、[[JapanFG/mizuho-securities]]、[[JapanFG/mufg-mums]]。
+- 証券引受会社: [[securities-firms/nomura-hd]]、[[securities-firms/daiwa-sg]]、[[securities-firms/smbc-nikko]]、[[securities-firms/mizuho-securities]]、[[securities-firms/mufg-mums]]。
 - オンライン証券の販売: [[securities/japan-online-brokerage-competition]]。
-- 取引所 / インフラ: [[JapanFG/japan-exchange-group]]、[[securities/tokyo-stock-exchange]]、[[securities/japan-securities-clearing-corp]]、[[securities/japan-securities-depository-center]]。
+- 取引所 / インフラ: [[financial-regulators/japan-exchange-group]]、[[securities/tokyo-stock-exchange]]、[[securities/japan-securities-clearing-corp]]、[[securities/japan-securities-depository-center]]。
 
 ## 関連項目
 
 - [[securities/INDEX]]
 - [[finance/INDEX]]
 - [[securities/tokyo-stock-exchange]]
-- [[JapanFG/japan-exchange-group]]
+- [[financial-regulators/japan-exchange-group]]
 - [[securities/japan-underwriting-market-structure]]
 - [[securities/japan-market-infrastructure-map]]
-- [[JapanFG/legal-financial-licenses/securities-license-stack]]
+- [[financial-licenses/securities-license-stack]]
 - [[finance/japan-ib-league-table]]
 - [[finance/japan-fair-disclosure-and-insider-trading-controls]]
 - [[finance/japan-tender-offer-process]]

@@ -59,7 +59,7 @@ Five high-leverage entries to read first:
 2. [[business/larry-fink-blackrock-digital-asset-template|Larry Fink · BlackRock digital asset template]] — the triangle of ETF + RWA tokenization + political influence used by the biggest asset manager.
 3. [[business/matt-huang-triple-role-coi-template|Matt Huang · triple-role COI template]] — the structural conflict-of-interest pattern in crypto VC that doesn't replicate in other industries.
 4. [[business/jamie-dimon-anti-crypto-pivot-case|Jamie Dimon · anti-crypto pivot case]] — the cleanest "loud opponent flips to operator" case, useful as a precedent template.
-5. [[business/christine-moy-talent-signal-jpm-apollo|Christine Moy · talent flow as industry signal]] — methodology entry: how to read individual talent moves between [[JapanFG/mufg|JPM-class institutions]] and asset managers as forward signals.
+5. [[business/christine-moy-talent-signal-jpm-apollo|Christine Moy · talent flow as industry signal]] — methodology entry: how to read individual talent moves between [[megabanks/mufg|JPM-class institutions]] and asset managers as forward signals.
 6. [[business/gmo-internet-group|GMO Internet Group]] — the only operating-company entry, illustrating an internet group that operates a Japan-licensed bank, exchange, and FX broker in one holding.
 
 ## Public people case studies

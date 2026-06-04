@@ -59,15 +59,15 @@
   "body_links": {
     "wikilinks_count": 16,
     "wikilinks": [
-      "JapanFG/boj",
-      "JapanFG/jbic",
-      "JapanFG/mizuho-fg",
-      "JapanFG/mufg",
-      "JapanFG/rcc",
-      "JapanFG/smfg",
       "derivatives/japan-cds-market-overview",
       "finance/INDEX",
       "finance/japan-leveraged-buyout-economics",
+      "financial-regulators/boj",
+      "financial-regulators/jbic",
+      "financial-regulators/rcc",
+      "megabanks/mizuho-fg",
+      "megabanks/mufg",
+      "megabanks/smfg",
       "policy-finance/INDEX",
       "policy-finance/japan-project-finance-stack-diagram",
       "real-estate-finance/INDEX",
@@ -77,15 +77,15 @@
       "structured-finance/spv-tk-gk-vehicle-japan-tax"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/boj",
-      "https://finwiki.zksc.io/JapanFG/jbic",
-      "https://finwiki.zksc.io/JapanFG/mizuho-fg",
-      "https://finwiki.zksc.io/JapanFG/mufg",
-      "https://finwiki.zksc.io/JapanFG/rcc",
-      "https://finwiki.zksc.io/JapanFG/smfg",
       "https://finwiki.zksc.io/derivatives/japan-cds-market-overview",
       "https://finwiki.zksc.io/finance/INDEX",
       "https://finwiki.zksc.io/finance/japan-leveraged-buyout-economics",
+      "https://finwiki.zksc.io/financial-regulators/boj",
+      "https://finwiki.zksc.io/financial-regulators/jbic",
+      "https://finwiki.zksc.io/financial-regulators/rcc",
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/smfg",
       "https://finwiki.zksc.io/policy-finance/INDEX",
       "https://finwiki.zksc.io/policy-finance/japan-project-finance-stack-diagram",
       "https://finwiki.zksc.io/real-estate-finance/INDEX",
@@ -98,9 +98,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 11279,
-    "word_like_tokens": 1825,
+    "nonspace_chars": 11389,
+    "word_like_tokens": 1833,
     "inbound_wikilinks_count": 2,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-06-04"
   }
 }

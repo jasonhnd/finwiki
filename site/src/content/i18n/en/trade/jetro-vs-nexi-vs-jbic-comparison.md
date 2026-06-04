@@ -78,11 +78,11 @@ Main policy types:
 | Overseas Untied Loan Insurance | Borrower default on policy-driven loans not tied to Japanese exports | Japanese banks lending into emerging markets |
 | Trade and Investment Insurance for Buyer Credit | Default by overseas buyer on bank-extended buyer credit | Banks lending to overseas buyers of Japanese goods |
 
-NEXI cooperates closely with [[JapanFG/jbic|JBIC]] — buyer credits and project-finance loans extended by JBIC frequently carry a NEXI wrap on the commercial bank tranche, which lowers funding cost and allows wider bank syndication. NEXI operates under the [[policy-finance/oecd-export-credit-arrangement|OECD Export Credit Arrangement]] consensus on premium minimums, country risk classification, and tenor / down-payment terms.
+NEXI cooperates closely with [[financial-regulators/jbic|JBIC]] — buyer credits and project-finance loans extended by JBIC frequently carry a NEXI wrap on the commercial bank tranche, which lowers funding cost and allows wider bank syndication. NEXI operates under the [[policy-finance/oecd-export-credit-arrangement|OECD Export Credit Arrangement]] consensus on premium minimums, country risk classification, and tenor / down-payment terms.
 
 ## JBIC — The Policy Bank
 
-JBIC is a wholly state-owned policy bank, supervised primarily by MOF with policy direction from METI on resource and industrial items. It is **not** part of [[JapanFG/jfc|JFC (Japan Finance Corporation)]] — JBIC was split out of JFC in 2012 and reconstituted as a standalone joint-stock special company, distinct from JFC's small-business / agriculture / micro-finance functions.
+JBIC is a wholly state-owned policy bank, supervised primarily by MOF with policy direction from METI on resource and industrial items. It is **not** part of [[financial-regulators/jfc|JFC (Japan Finance Corporation)]] — JBIC was split out of JFC in 2012 and reconstituted as a standalone joint-stock special company, distinct from JFC's small-business / agriculture / micro-finance functions.
 
 Main business lines:
 
@@ -110,7 +110,7 @@ JBIC is **not** an ODA agency. Concessional ODA loans (lower interest, longer gr
 | Crisis emerging-market lending, balance-of-payments support | JBIC + MOF facility |
 | Export-credit insurance / political-risk insurance | **NEXI** |
 | SME export advisory and matchmaking | **JETRO** |
-| SME domestic working capital, micro-finance, agricultural finance | **[[JapanFG/jfc|JFC]]** |
+| SME domestic working capital, micro-finance, agricultural finance | **[[financial-regulators/jfc|JFC]]** |
 
 The JBIC vs JICA boundary is the one most often confused outside Japan. The 2008 merger that created JFC pulled the international wing of the old JBIC into JFC, then 2012 reversed it for the international-finance arm. JICA stayed separate. This is detailed in [[policy-finance/japan-eximbank-history|Japan Eximbank history]] for the longer institutional lineage.
 
@@ -155,7 +155,7 @@ JBIC's bond-issuance presence is itself a piece of Japan's capital-markets archi
 
 The triad sits inside a broader policy-finance ecosystem:
 
-- **[[JapanFG/jfc|JFC (Japan Finance Corporation)]]** — micro-finance, SME lending, agricultural / forestry / fisheries lending, education loans. Domestic-focused. Sometimes confused with JBIC because JBIC was inside JFC between 2008-2012.
+- **[[financial-regulators/jfc|JFC (Japan Finance Corporation)]]** — micro-finance, SME lending, agricultural / forestry / fisheries lending, education loans. Domestic-focused. Sometimes confused with JBIC because JBIC was inside JFC between 2008-2012.
 - **[[policy-finance/jica|JICA (Japan International Cooperation Agency)]]** — ODA, concessional yen loans, technical cooperation, grant aid, volunteer programmes. Developing-country focused.
 - **[[policy-finance/jogmec|JOGMEC]]** — energy and metals exploration / development support; equity participation in resource projects abroad. Sectoral.
 - **DBJ (Development Bank of Japan)** — domestic project finance, M&A finance, distressed financing. Largely domestic with limited cross-border role.
@@ -171,8 +171,8 @@ For a Japanese cross-border project, the operating team typically maps the deal 
 - [[policy-finance/INDEX|policy-finance INDEX]]
 - [[policy-finance/nexi|NEXI]]
 - [[policy-finance/jica|JICA]]
-- [[JapanFG/jbic|JBIC]]
-- [[JapanFG/jfc|JFC]]
+- [[financial-regulators/jbic|JBIC]]
+- [[financial-regulators/jfc|JFC]]
 - [[policy-finance/japan-project-finance-stack-diagram|Japan project-finance stack diagram]]
 - [[policy-finance/oecd-export-credit-arrangement|OECD Export Credit Arrangement]]
 - [[policy-finance/japan-eximbank-history|Japan Eximbank history]]

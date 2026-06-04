@@ -53,10 +53,10 @@
     "wikilinks_count": 13,
     "wikilinks": [
       "INDEX",
-      "JapanFG/legal-financial-licenses/payment-license-stack",
-      "JapanFG/paypay-fg",
-      "JapanFG/rakuten-fg",
+      "financial-licenses/payment-license-stack",
       "loyalty/japan-points-landscape",
+      "megabanks/paypay-fg",
+      "payment-firms/rakuten-fg",
       "payments/cashless-jp-landscape",
       "payments/nanaco-prepaid-seven-i",
       "payments/waon-prepaid-aeon",
@@ -68,10 +68,10 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/payment-license-stack",
-      "https://finwiki.zksc.io/JapanFG/paypay-fg",
-      "https://finwiki.zksc.io/JapanFG/rakuten-fg",
+      "https://finwiki.zksc.io/financial-licenses/payment-license-stack",
       "https://finwiki.zksc.io/loyalty/japan-points-landscape",
+      "https://finwiki.zksc.io/megabanks/paypay-fg",
+      "https://finwiki.zksc.io/payment-firms/rakuten-fg",
       "https://finwiki.zksc.io/payments/cashless-jp-landscape",
       "https://finwiki.zksc.io/payments/nanaco-prepaid-seven-i",
       "https://finwiki.zksc.io/payments/waon-prepaid-aeon",
@@ -85,9 +85,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5252,
-    "word_like_tokens": 871,
+    "nonspace_chars": 5232,
+    "word_like_tokens": 868,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-06-03"
+    "last_modified": "2026-06-04"
   }
 }

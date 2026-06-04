@@ -11,7 +11,7 @@ translated_at: 2026-06-01T04:15:40.167Z
 
 ## TL;DR
 
-日本飞机租赁有两条相互交织的渠道:(1) **日本经营租赁出租人平台**（[[JapanFG/mitsubishi-hc-capital|Mitsubishi HC Capital]] 飞机部门、[[JapanFG/smfl|SMFL]] 飞机、[[JapanFG/mizuho-lease|Mizuho Leasing]]、[[JapanFG/tokyo-century|Tokyo Century]] 通过持有 ACG/Aviation Capital Group 股权），在资产负债表上持有飞机并租赁给全球航空公司；以及 (2) **Japanese Operating Lease (JOL) / JOL with Call Option (JOLCO)** 结构，日本投资者集团安排单架飞机的税务效率所有权，并通过跨境 [[structured-finance/spv-tk-gk-vehicle-japan-tax|TK / GK SPV]] 工具将飞机回租给航空公司。JOL / JOLCO 市场高度依赖涉及香港、爱尔兰（都柏林）、百慕大和开曼群岛 SPV 的跨境税务结构，优化预提税效率、残值折旧，并且（对 JOLCO 而言）为航空公司安排提前终止看涨期权。综合商社的角色涵盖股权赞助、租赁安排（尤其是 Sumitomo Corporation 和 Mitsui）以及飞机交易 — 历史上 Mitsubishi Corporation 在飞机领域的直接足迹较小，[[JapanFG/sumitomo-corp|Sumitomo Corp]] 和 [[JapanFG/mitsui-co|Mitsui]] 更为显眼。
+日本飞机租赁有两条相互交织的渠道:(1) **日本经营租赁出租人平台**（[[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]] 飞机部门、[[leasing-firms/smfl|SMFL]] 飞机、[[leasing-firms/mizuho-lease|Mizuho Leasing]]、[[leasing-firms/tokyo-century|Tokyo Century]] 通过持有 ACG/Aviation Capital Group 股权），在资产负债表上持有飞机并租赁给全球航空公司；以及 (2) **Japanese Operating Lease (JOL) / JOL with Call Option (JOLCO)** 结构，日本投资者集团安排单架飞机的税务效率所有权，并通过跨境 [[structured-finance/spv-tk-gk-vehicle-japan-tax|TK / GK SPV]] 工具将飞机回租给航空公司。JOL / JOLCO 市场高度依赖涉及香港、爱尔兰（都柏林）、百慕大和开曼群岛 SPV 的跨境税务结构，优化预提税效率、残值折旧，并且（对 JOLCO 而言）为航空公司安排提前终止看涨期权。综合商社的角色涵盖股权赞助、租赁安排（尤其是 Sumitomo Corporation 和 Mitsui）以及飞机交易 — 历史上 Mitsubishi Corporation 在飞机领域的直接足迹较小，[[financial-conglomerates/sumitomo-corp|Sumitomo Corp]] 和 [[financial-conglomerates/mitsui-co|Mitsui]] 更为显眼。
 
 ## Wiki route
 
@@ -30,14 +30,14 @@ translated_at: 2026-06-01T04:15:40.167Z
 
 | 平台 | 母公司 / 合作方 | 定位 |
 |---|---|---|
-| [[JapanFG/mitsubishi-hc-capital|Mitsubishi HC Capital]] — Jackson Square Aviation / 飞机部门 | Mitsubishi HC Capital | 按机队规模位列全球 Top-10 出租人 |
-| **SMBC Aviation Capital** | [[JapanFG/smfg|SMFG / SMBC]] + Sumitomo Corporation JV（最初由 2012 收购 RBS Aviation Capital 后成立） | 全球 Top-5 出租人 |
-| [[JapanFG/smfl|SMFL]] 飞机部门 | SMFL（[[JapanFG/smfg|SMFG]] + [[JapanFG/sumitomo-corp|Sumitomo Corp]] 的合资企业） | 飞机 + JOL 分销渠道 |
-| [[JapanFG/mizuho-lease|Mizuho Leasing]] 飞机部门 | Mizuho Leasing | 飞机 + JOL 安排人 |
-| **Aviation Capital Group (ACG)** | [[JapanFG/tokyo-century|Tokyo Century]]（主要股权） | 全球 Top-10 出租人 |
-| **Orix Aviation** | [[JapanFG/orix-corp|ORIX]] | 经营出租人 + JOL 安排人 |
+| [[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]] — Jackson Square Aviation / 飞机部门 | Mitsubishi HC Capital | 按机队规模位列全球 Top-10 出租人 |
+| **SMBC Aviation Capital** | [[megabanks/smfg|SMFG / SMBC]] + Sumitomo Corporation JV（最初由 2012 收购 RBS Aviation Capital 后成立） | 全球 Top-5 出租人 |
+| [[leasing-firms/smfl|SMFL]] 飞机部门 | SMFL（[[megabanks/smfg|SMFG]] + [[financial-conglomerates/sumitomo-corp|Sumitomo Corp]] 的合资企业） | 飞机 + JOL 分销渠道 |
+| [[leasing-firms/mizuho-lease|Mizuho Leasing]] 飞机部门 | Mizuho Leasing | 飞机 + JOL 安排人 |
+| **Aviation Capital Group (ACG)** | [[leasing-firms/tokyo-century|Tokyo Century]]（主要股权） | 全球 Top-10 出租人 |
+| **Orix Aviation** | [[leasing-firms/orix-corp|ORIX]] | 经营出租人 + JOL 安排人 |
 
-**SMBC Aviation Capital** 实体是最重要的日本相关全球飞机平台之一 — 它是总部位于都柏林、拥有全球航空客户基础的出租人，由 [[JapanFG/smfg|SMBC]] 和 [[JapanFG/sumitomo-corp|Sumitomo Corp]] 以合资结构持有。
+**SMBC Aviation Capital** 实体是最重要的日本相关全球飞机平台之一 — 它是总部位于都柏林、拥有全球航空客户基础的出租人，由 [[megabanks/smfg|SMBC]] 和 [[financial-conglomerates/sumitomo-corp|Sumitomo Corp]] 以合资结构持有。
 
 ## 3. JOL / JOLCO — 税务结构化所有权市场
 
@@ -108,12 +108,12 @@ JOL / JOLCO 市场通过跨境 SPV 高度分层:
 ## 5. 综合商社角色
 
 综合商社通过以下方式参与飞机领域:
-- **经营出租人的 JV 股权**: [[JapanFG/sumitomo-corp|Sumitomo Corp]] 参与 SMBC Aviation Capital；[[JapanFG/mitsui-co|Mitsui]] 参与过去的飞机平台（Mitsui Bussan Aerospace 等）；[[JapanFG/marubeni-corp|Marubeni]] 参与过去的飞机安排
+- **经营出租人的 JV 股权**: [[financial-conglomerates/sumitomo-corp|Sumitomo Corp]] 参与 SMBC Aviation Capital；[[financial-conglomerates/mitsui-co|Mitsui]] 参与过去的飞机平台（Mitsui Bussan Aerospace 等）；[[financial-conglomerates/marubeni-corp|Marubeni]] 参与过去的飞机安排
 - **JOL 安排**: 向日本企业投资者分销股权份额
 - **飞机交易**: 飞机、零部件、发动机的二级市场交易
 - **航空服务**: 维护、MRO 合资企业
 
-[[JapanFG/mitsubishi-corp|Mitsubishi Corporation]] 在该特定细分领域的直接飞机交易足迹，历史上小于 Sumitomo Corp 或 Mitsui。
+[[financial-conglomerates/mitsubishi-corp|Mitsubishi Corporation]] 在该特定细分领域的直接飞机交易足迹，历史上小于 Sumitomo Corp 或 Mitsui。
 
 ## 6. 飞机航空 captives
 
@@ -121,11 +121,11 @@ JOL / JOLCO 市场通过跨境 SPV 高度分层:
 
 ## 7. 大型银行角色
 
-[[JapanFG/mufg|MUFG]]、[[JapanFG/smfg|SMFG]] 和 [[JapanFG/mizuho-fg|Mizuho FG]] 扮演多种角色:
+[[megabanks/mufg|MUFG]]、[[megabanks/smfg|SMFG]] 和 [[megabanks/mizuho-fg|Mizuho FG]] 扮演多种角色:
 - 向 JOL / JOLCO SPV 提供**优先债务**（通常为飞机成本的 60–80%，8–12 年期限，与租期匹配）
 - 向航空公司和出租人在飞机制造期间提供**交付前融资（PDP）**
 - 为出租人 M&A 提供**收购融资**（例如 SMBC 收购 RBS Aviation Capital）
-- **证券承销**: 通过 [[JapanFG/mufg-securities|MUFG MS]] / [[JapanFG/smbc-nikko|SMBC Nikko]] / [[JapanFG/mizuho-securities|Mizuho Securities]] 承销租赁公司公司债发行
+- **证券承销**: 通过 [[securities-firms/mufg-securities|MUFG MS]] / [[securities-firms/smbc-nikko|SMBC Nikko]] / [[securities-firms/mizuho-securities|Mizuho Securities]] 承销租赁公司公司债发行
 
 大型银行无论按资产负债表敞口还是国际航空金融排行榜，都是飞机融资市场领导者。
 
@@ -152,9 +152,9 @@ JOL / JOLCO 市场通过跨境 SPV 高度分层:
 - COVID 后 JOL / JOLCO 新交易流恢复的速度
 - 日本税规收紧是否降低 JOLCO 对日本企业投资者的吸引力
 - SMBC Aviation Capital 未来增长轨迹以及任何进一步整合活动
-- [[JapanFG/mitsubishi-hc-capital|Mitsubishi HC Capital]] 是否进一步扩展航空领域
+- [[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]] 是否进一步扩展航空领域
 - 飞机租赁结构与可持续挂钩融资（SAF、机队更新融资）之间的互动
-- [[JapanFG/boj|BOJ]] 利率正常化下航空金融贷款的处理
+- [[financial-regulators/boj|BOJ]] 利率正常化下航空金融贷款的处理
 - 中国系飞机出租人是否继续以日本 / 西方平台为代价获得份额
 
 ## Related
@@ -167,9 +167,9 @@ JOL / JOLCO 市场通过跨境 SPV 高度分层:
 - [[finance/INDEX|finance index]]
 - [[policy-finance/japan-project-finance-stack-diagram|Japan project finance stack]]
 - [[real-estate-finance/INDEX|real-estate-finance index]]
-- [[JapanFG/mitsubishi-hc-capital|Mitsubishi HC Capital]] · [[JapanFG/smfl|SMFL]] · [[JapanFG/mizuho-lease|Mizuho Leasing]] · [[JapanFG/tokyo-century|Tokyo Century]] · [[JapanFG/orix-corp|ORIX]]
-- [[JapanFG/mitsubishi-corp|Mitsubishi Corp]] · [[JapanFG/mitsui-co|Mitsui & Co.]] · [[JapanFG/sumitomo-corp|Sumitomo Corp]]
-- [[JapanFG/mufg|MUFG]] · [[JapanFG/smfg|SMFG]] · [[JapanFG/mizuho-fg|Mizuho FG]] · [[JapanFG/japan-exchange-group|JPX]]
+- [[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]] · [[leasing-firms/smfl|SMFL]] · [[leasing-firms/mizuho-lease|Mizuho Leasing]] · [[leasing-firms/tokyo-century|Tokyo Century]] · [[leasing-firms/orix-corp|ORIX]]
+- [[financial-conglomerates/mitsubishi-corp|Mitsubishi Corp]] · [[financial-conglomerates/mitsui-co|Mitsui & Co.]] · [[financial-conglomerates/sumitomo-corp|Sumitomo Corp]]
+- [[megabanks/mufg|MUFG]] · [[megabanks/smfg|SMFG]] · [[megabanks/mizuho-fg|Mizuho FG]] · [[financial-regulators/japan-exchange-group|JPX]]
 
 ## Sources
 

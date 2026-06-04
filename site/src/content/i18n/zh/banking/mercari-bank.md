@@ -60,7 +60,7 @@ Mercari Bank 不同于 [[banking/rakuten-bank|楽天銀行]] 或 [[banking/paypa
 - [[banking/quick-deposit-four-methods]]
 - [[banking/paypay-bank]]
 - [[banking/rakuten-bank]]
-- [[JapanFG/gmo-aozora-net]]
+- [[payment-firms/gmo-aozora-net]]
 
 ## Sources
 

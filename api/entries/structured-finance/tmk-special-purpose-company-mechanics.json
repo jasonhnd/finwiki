@@ -65,10 +65,10 @@
     "wikilinks_count": 19,
     "wikilinks": [
       "INDEX",
-      "JapanFG/jcr",
       "JapanFG/moodys-japan",
-      "JapanFG/rating-and-investment",
       "JapanFG/sp-global-ratings-japan",
+      "financial-regulators/jcr",
+      "financial-regulators/rating-and-investment",
       "real-estate-finance/INDEX",
       "real-estate-finance/gk-tk-bond-real-estate-spv",
       "real-estate-finance/j-reit-market-overview",
@@ -86,10 +86,10 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/jcr",
       "https://finwiki.zksc.io/JapanFG/moodys-japan",
-      "https://finwiki.zksc.io/JapanFG/rating-and-investment",
       "https://finwiki.zksc.io/JapanFG/sp-global-ratings-japan",
+      "https://finwiki.zksc.io/financial-regulators/jcr",
+      "https://finwiki.zksc.io/financial-regulators/rating-and-investment",
       "https://finwiki.zksc.io/real-estate-finance/INDEX",
       "https://finwiki.zksc.io/real-estate-finance/gk-tk-bond-real-estate-spv",
       "https://finwiki.zksc.io/real-estate-finance/j-reit-market-overview",
@@ -109,9 +109,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 11300,
-    "word_like_tokens": 1749,
+    "nonspace_chars": 11352,
+    "word_like_tokens": 1753,
     "inbound_wikilinks_count": 3,
-    "last_modified": "2026-06-02"
+    "last_modified": "2026-06-04"
   }
 }

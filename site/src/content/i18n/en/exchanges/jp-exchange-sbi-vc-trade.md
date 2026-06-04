@@ -43,7 +43,7 @@ The company is currently the only operator in Japan that "holds 3 types of licen
 
 In the FSA's registration list of electronic payment instruments business operators, SBI VC Trade is listed as a registered operator under Director-General of the Kanto Local Finance Bureau 第00001号, with its handled electronic payment instrument given as USDC. The company is therefore not merely a crypto-asset exchange operator but also a primary route for reading Japan's electronic payment instruments / stablecoin implementation.
 
-Related stablecoin routes: [[fintech/japan-ecisb-license]], [[fintech/japan-stablecoin-regulatory-landscape]], [[fintech/stablecoin-channel-japan-sbi-jpyc-ring]], [[JapanFG/jpyc]], [[JapanFG/progmat]].
+Related stablecoin routes: [[fintech/japan-ecisb-license]], [[fintech/japan-stablecoin-regulatory-landscape]], [[fintech/stablecoin-channel-japan-sbi-jpyc-ring]], [[payment-firms/jpyc]], [[payment-firms/progmat]].
 
 ## 3. Supported currencies
 
@@ -117,12 +117,12 @@ Position: given its holding of 3 types of licenses, its takeover of DMM Bitcoin 
 - [[fintech/japan-ecisb-license]] — explanation of the electronic payment instruments business regime
 - [[fintech/japan-stablecoin-regulatory-landscape]] — related stablecoin regime
 - [[fintech/jp-trust-type-sc-architecture]] — related SC regime
-- [[JapanFG/jpyc]] — funds-transfer-operator-type JPY stablecoin issuer
-- [[JapanFG/progmat]] — trust-type stablecoin / tokenization platform company anchor
+- [[payment-firms/jpyc]] — funds-transfer-operator-type JPY stablecoin issuer
+- [[payment-firms/progmat]] — trust-type stablecoin / tokenization platform company anchor
 - [[fintech/stablecoin-channel-japan-sbi-jpyc-ring]] — SBI × JPYC stablecoin channel
 - [[exchanges/jp-exchange-binance-japan]] — peer operator overview (Binance Japan)
 - [[exchanges/jp-exchange-gmo-coin]] — peer operator overview (GMO Coin)
-- [[JapanFG/sbi-hd]] — SBI Holdings parent-company profile
+- [[megabanks/sbi-hd]] — SBI Holdings parent-company profile
 - [[exchanges/jp-cex-deposit-token-stablecoin-integration]] — JP CEX deposit token / stablecoin integration
 - [[fintech/global-stablecoin-regulatory-five-pole-matrix]] — global stablecoin regulation 5 -pole comparison
 

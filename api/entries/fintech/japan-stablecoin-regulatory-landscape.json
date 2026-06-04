@@ -49,35 +49,35 @@
     "wikilinks_count": 10,
     "wikilinks": [
       "INDEX",
-      "JapanFG/jpyc",
-      "JapanFG/progmat",
       "exchanges/jp-exchange-jpyc",
       "exchanges/jp-exchange-sbi-vc-trade",
       "fintech/ai-payment-two-tracks",
       "fintech/gold-tokenization-scheme-comparison",
       "fintech/japan-ecisb-license",
       "fintech/japan-financial-regulation",
-      "fintech/jp-stablecoin-progmat"
+      "fintech/jp-stablecoin-progmat",
+      "payment-firms/jpyc",
+      "payment-firms/progmat"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/jpyc",
-      "https://finwiki.zksc.io/JapanFG/progmat",
       "https://finwiki.zksc.io/exchanges/jp-exchange-jpyc",
       "https://finwiki.zksc.io/exchanges/jp-exchange-sbi-vc-trade",
       "https://finwiki.zksc.io/fintech/ai-payment-two-tracks",
       "https://finwiki.zksc.io/fintech/gold-tokenization-scheme-comparison",
       "https://finwiki.zksc.io/fintech/japan-ecisb-license",
       "https://finwiki.zksc.io/fintech/japan-financial-regulation",
-      "https://finwiki.zksc.io/fintech/jp-stablecoin-progmat"
+      "https://finwiki.zksc.io/fintech/jp-stablecoin-progmat",
+      "https://finwiki.zksc.io/payment-firms/jpyc",
+      "https://finwiki.zksc.io/payment-firms/progmat"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2419,
-    "word_like_tokens": 375,
+    "nonspace_chars": 2443,
+    "word_like_tokens": 379,
     "inbound_wikilinks_count": 177,
-    "last_modified": "2026-06-02"
+    "last_modified": "2026-06-04"
   }
 }

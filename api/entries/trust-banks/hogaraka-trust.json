@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "slug": "trust-banks/hogaraka-trust",
+  "source_path": "trust-banks/hogaraka-trust.md",
+  "url": "https://finwiki.zksc.io/trust-banks/hogaraka-trust",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/trust-banks/hogaraka-trust.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/trust-banks/hogaraka-trust.md",
+  "domain": "trust-banks",
+  "title": "ほがらか信託 (Hogaraka Trust)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "ほがらか信託 (Hogaraka Trust)",
+    "aliases": [
+      "Hogaraka Trust",
+      "ほがらか信託株式会社"
+    ],
+    "domain": "trust-banks",
+    "created": "2026-05-22",
+    "last_updated": "2026-05-22",
+    "last_tended": "2026-05-22",
+    "review_by": "2026-11-22",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "trust-company",
+      "Takashimaya",
+      "estate-planning",
+      "asset-succession"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.xlsx",
+      "https://www.hogaraka-trust.co.jp/",
+      "https://www.hogaraka-trust.co.jp/company/"
+    ]
+  },
+  "summary": "Hogaraka Trust is a standalone trust-company route under JapanFG and is promoted from the Japan trust companies registry index. Read it with retail, Japan trust-bank custody map, and Daiwa Living Trust.",
+  "headings": [
+    "ほがらか信託 (Hogaraka Trust)",
+    "Wiki route",
+    "Overview",
+    "Entity Boundary",
+    "Business Role Map",
+    "Public Context",
+    "Research Checklist",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 6,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/INDEX",
+      "banking/japan-trust-bank-custody-map",
+      "retail/INDEX",
+      "trust-banks/daiwa-living-trust",
+      "trust-banks/trust-companies-japan-index"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/banking/japan-trust-bank-custody-map",
+      "https://finwiki.zksc.io/retail/INDEX",
+      "https://finwiki.zksc.io/trust-banks/daiwa-living-trust",
+      "https://finwiki.zksc.io/trust-banks/trust-companies-japan-index"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2998,
+    "word_like_tokens": 472,
+    "inbound_wikilinks_count": 3,
+    "last_modified": "2026-06-04"
+  }
+}

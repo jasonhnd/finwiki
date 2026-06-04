@@ -23,7 +23,7 @@ FinWiki では、OSE は日経 225 先物 / オプション、TOPIX 先物、JGB
 
 | レイヤー | OSE の読み方 |
 |---|---|
-| 親会社 | [[JapanFG/japan-exchange-group|Japan Exchange Group]] |
+| 親会社 | [[financial-regulators/japan-exchange-group|Japan Exchange Group]] |
 | 法的形態 | Osaka Exchange, Inc. |
 | 設立 | 1949-04-01 |
 | 機能 | 金融デリバティブ取引市場の運営。 |
@@ -49,7 +49,7 @@ OSE は、JPX のデリバティブ分野での野心が集中する場所であ
 
 ## 関連項目
 
-- [[JapanFG/japan-exchange-group]]
+- [[financial-regulators/japan-exchange-group]]
 - [[securities/tokyo-stock-exchange]]
 - [[securities/tokyo-commodity-exchange]]
 - [[securities/japan-securities-clearing-corp]]

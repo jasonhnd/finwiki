@@ -28,7 +28,7 @@ sources:
 
 This domain routes insurance-specific concept pages for FinWiki: solvency / ESR, life-insurance distribution, mutual-company governance, internet life insurance, life-insurance big-four comparison, non-life big-three comparison, public-private earthquake insurance, agency / brokerage distribution, natural-catastrophe reinsurance, and direct non-life insurance.
 
-Company pages stay in [[JapanFG/INDEX|JapanFG]]. Legal / license framing stays in [[JapanFG/legal-financial-licenses/INDEX|JapanFG legal / financial licenses]]. This page is the insurance operating-model map between those layers.
+Company pages stay in [[JapanFG/INDEX|JapanFG]]. Legal / license framing stays in [[financial-licenses/INDEX|JapanFG legal / financial licenses]]. This page is the insurance operating-model map between those layers.
 
 ## Start Here
 
@@ -37,7 +37,7 @@ Company pages stay in [[JapanFG/INDEX|JapanFG]]. Legal / license framing stays i
 | System overview | [[insurance/japan-insurance-system-overview|Japan insurance system overview]] | What the full Japan insurance system looks like across life / non-life / kyosai / reinsurance / earthquake-insurance scheme. |
 | Solvency regime | [[insurance/economic-value-based-solvency|Economic value-based solvency regulation]] | How FSA's economic-value solvency framework changes insurer capital. |
 | Company capital KPI | [[insurance/esr-economic-value-solvency|ESR]] | How to read economic solvency ratios in insurer disclosures. |
-| Legal / license route | [[JapanFG/legal-financial-licenses/insurance-license-and-solvency|Insurance license and solvency route]] | Whether a page is about underwriting, holding-company control, distribution, brokerage, or insurer capital. |
+| Legal / license route | [[financial-licenses/insurance-license-and-solvency|Insurance license and solvency route]] | Whether a page is about underwriting, holding-company control, distribution, brokerage, or insurer capital. |
 | Life distribution | [[insurance/life-insurance-channel-mix|Life insurance channel mix]] | Whether a life insurer is sales-force, agency, bancassurance, online, or embedded-led. |
 | Life big four | [[insurance/japan-life-insurance-big-four|Japan life insurance big four]] | Compare Nippon Life, Dai-ichi, Meiji Yasuda, and Sumitomo Life by form, channel, overseas strategy, and solvency. |
 | Online life model | [[insurance/internet-life-insurance-business-model|Internet life insurance business model]] | Why Lifenet-style direct online life insurance is different from traditional channels. |
@@ -53,22 +53,22 @@ Company pages stay in [[JapanFG/INDEX|JapanFG]]. Legal / license framing stays i
 
 | Cluster | Entity pages |
 |---|---|
-| Big life insurers | [[JapanFG/dai-ichi-life]], [[JapanFG/nippon-life]], [[JapanFG/meiji-yasuda]], [[JapanFG/sumitomo-life]], [[JapanFG/kampo-life]] |
-| Mutual / traditional life operating companies | [[JapanFG/asahi-life]], [[JapanFG/fukoku-life]], [[JapanFG/taiju-life]] |
-| Group life operating companies | [[JapanFG/sony-life]], [[JapanFG/sbi-life]], [[JapanFG/rakuten-life]], [[JapanFG/daido-life]], [[JapanFG/taiyo-life]], [[JapanFG/dai-ichi-frontier-life]] |
-| Life subsidiaries / specialty insurers | [[JapanFG/cardif-life]], [[JapanFG/td-financial-life]], [[JapanFG/nanairo-life]], [[JapanFG/nissay-wealth-life]], [[JapanFG/hanasaku-life]], [[JapanFG/medicare-life]] |
-| FSA life-insurer exact-name completion | [[JapanFG/credit-agricole-life]], [[JapanFG/dai-ichi-life-insurance]], [[JapanFG/dai-ichi-neo-life]], [[JapanFG/fukokushinrai-life]], [[JapanFG/pgf-life]], [[JapanFG/ms-primary-life]], [[JapanFG/midori-life]], [[JapanFG/meiji-yasuda-trust-life]] |
-| Non-life group life arms | [[JapanFG/sompo-himawari-life]], [[JapanFG/tokio-marine-nichido-life]] |
-| Foreign-affiliated life operating companies | [[JapanFG/nn-life-japan]], [[JapanFG/fwd-life-japan]], [[JapanFG/cardif-life]], [[JapanFG/gibraltar-life]], [[JapanFG/zurich-life]], [[JapanFG/aflac-japan]], [[JapanFG/metlife-japan]], [[JapanFG/manulife-japan]] |
-| Online / direct / product-specialist life | [[JapanFG/lifenet]], [[JapanFG/orix-life]], [[JapanFG/metlife-japan]], [[JapanFG/manulife-japan]] |
-| Non-life majors | [[JapanFG/tokio-marine]], [[JapanFG/msad]], [[JapanFG/sompo]] |
-| Non-life major operating companies | [[JapanFG/tokio-marine-nichido-fire]], [[JapanFG/mitsui-sumitomo-insurance]], [[JapanFG/aioi-nissay-dowa-insurance]], [[JapanFG/sompo-japan-insurance]] |
-| Direct / digital non-life | [[JapanFG/sony-insurance]], [[JapanFG/sbi-insurance]], [[JapanFG/au-insurance]], [[JapanFG/tokio-marine-direct]], [[JapanFG/sompo-direct]], [[JapanFG/mitsui-direct]], [[JapanFG/rakuten-general-insurance]] |
-| Specialist / regional non-life | [[JapanFG/daido-fire-marine]], [[JapanFG/kyoritsu-fire-marine]], [[JapanFG/anicom-insurance]], [[JapanFG/dai-ichi-ipet-insurance]], [[JapanFG/pet-and-family-insurance]], [[JapanFG/yamap-naturance-insurance]], [[JapanFG/ntt-docomo-sonpo]], [[JapanFG/secom-insurance]], [[JapanFG/nisshin-fire]], [[JapanFG/meiji-yasuda-general-insurance]], [[JapanFG/sbi-insurance-group]], [[JapanFG/american-home-insurance-japan]], [[JapanFG/hs-insurance]], [[JapanFG/cardif-nonlife]], [[JapanFG/capital-insurance]], [[JapanFG/sakura-insurance]], [[JapanFG/ji-accident-fire-insurance]], [[JapanFG/zenkankyo-reiwa-insurance]], [[JapanFG/rescue-insurance]] |
-| Foreign-affiliated non-life | [[JapanFG/aig-japan]], [[JapanFG/axa-japan]], [[JapanFG/allianz-fire-marine-japan]], [[JapanFG/chubb-insurance-japan]], [[JapanFG/hyundai-marine-fire-japan]] |
-| Reinsurance / catastrophe scheme | [[JapanFG/toa-reinsurance]], [[JapanFG/japan-earthquake-reinsurance]], [[insurance/natcat-reinsurance-japan]] |
-| Platform / brand financial groups | [[JapanFG/sony-fg]], [[JapanFG/rakuten-fg]], [[JapanFG/sbi-hd]] |
-| Insurance holding companies | [[JapanFG/anicom-hd]], [[JapanFG/ntt-docomo-sompo-hd]], [[JapanFG/rakuten-insurance-hd]], [[JapanFG/dai-ichi-life]], [[JapanFG/td-hd]] |
+| Big life insurers | [[life-insurers/dai-ichi-life]], [[life-insurers/nippon-life]], [[life-insurers/meiji-yasuda]], [[life-insurers/sumitomo-life]], [[life-insurers/kampo-life]] |
+| Mutual / traditional life operating companies | [[life-insurers/asahi-life]], [[life-insurers/fukoku-life]], [[life-insurers/taiju-life]] |
+| Group life operating companies | [[life-insurers/sony-life]], [[life-insurers/sbi-life]], [[life-insurers/rakuten-life]], [[life-insurers/daido-life]], [[life-insurers/taiyo-life]], [[life-insurers/dai-ichi-frontier-life]] |
+| Life subsidiaries / specialty insurers | [[life-insurers/cardif-life]], [[life-insurers/td-financial-life]], [[life-insurers/nanairo-life]], [[life-insurers/nissay-wealth-life]], [[life-insurers/hanasaku-life]], [[life-insurers/medicare-life]] |
+| FSA life-insurer exact-name completion | [[life-insurers/credit-agricole-life]], [[life-insurers/dai-ichi-life-insurance]], [[life-insurers/dai-ichi-neo-life]], [[life-insurers/fukokushinrai-life]], [[life-insurers/pgf-life]], [[life-insurers/ms-primary-life]], [[life-insurers/midori-life]], [[life-insurers/meiji-yasuda-trust-life]] |
+| Non-life group life arms | [[life-insurers/sompo-himawari-life]], [[life-insurers/tokio-marine-nichido-life]] |
+| Foreign-affiliated life operating companies | [[life-insurers/nn-life-japan]], [[life-insurers/fwd-life-japan]], [[life-insurers/cardif-life]], [[life-insurers/gibraltar-life]], [[life-insurers/zurich-life]], [[life-insurers/aflac-japan]], [[life-insurers/metlife-japan]], [[life-insurers/manulife-japan]] |
+| Online / direct / product-specialist life | [[life-insurers/lifenet]], [[life-insurers/orix-life]], [[life-insurers/metlife-japan]], [[life-insurers/manulife-japan]] |
+| Non-life majors | [[non-life-insurers/tokio-marine]], [[non-life-insurers/msad]], [[non-life-insurers/sompo]] |
+| Non-life major operating companies | [[non-life-insurers/tokio-marine-nichido-fire]], [[non-life-insurers/mitsui-sumitomo-insurance]], [[non-life-insurers/aioi-nissay-dowa-insurance]], [[non-life-insurers/sompo-japan-insurance]] |
+| Direct / digital non-life | [[non-life-insurers/sony-insurance]], [[non-life-insurers/sbi-insurance]], [[non-life-insurers/au-insurance]], [[non-life-insurers/tokio-marine-direct]], [[non-life-insurers/sompo-direct]], [[non-life-insurers/mitsui-direct]], [[non-life-insurers/rakuten-general-insurance]] |
+| Specialist / regional non-life | [[non-life-insurers/daido-fire-marine]], [[non-life-insurers/kyoritsu-fire-marine]], [[non-life-insurers/anicom-insurance]], [[non-life-insurers/dai-ichi-ipet-insurance]], [[non-life-insurers/pet-and-family-insurance]], [[non-life-insurers/yamap-naturance-insurance]], [[non-life-insurers/ntt-docomo-sonpo]], [[non-life-insurers/secom-insurance]], [[non-life-insurers/nisshin-fire]], [[non-life-insurers/meiji-yasuda-general-insurance]], [[non-life-insurers/sbi-insurance-group]], [[non-life-insurers/american-home-insurance-japan]], [[non-life-insurers/hs-insurance]], [[non-life-insurers/cardif-nonlife]], [[non-life-insurers/capital-insurance]], [[non-life-insurers/sakura-insurance]], [[non-life-insurers/ji-accident-fire-insurance]], [[non-life-insurers/zenkankyo-reiwa-insurance]], [[non-life-insurers/rescue-insurance]] |
+| Foreign-affiliated non-life | [[non-life-insurers/aig-japan]], [[life-insurers/axa-japan]], [[non-life-insurers/allianz-fire-marine-japan]], [[non-life-insurers/chubb-insurance-japan]], [[non-life-insurers/hyundai-marine-fire-japan]] |
+| Reinsurance / catastrophe scheme | [[non-life-insurers/toa-reinsurance]], [[non-life-insurers/japan-earthquake-reinsurance]], [[insurance/natcat-reinsurance-japan]] |
+| Platform / brand financial groups | [[megabanks/sony-fg]], [[payment-firms/rakuten-fg]], [[megabanks/sbi-hd]] |
+| Insurance holding companies | [[non-life-insurers/anicom-hd]], [[non-life-insurers/ntt-docomo-sompo-hd]], [[non-life-insurers/rakuten-insurance-hd]], [[life-insurers/dai-ichi-life]], [[life-insurers/td-hd]] |
 
 ## Research Control
 
@@ -78,13 +78,13 @@ When expanding this domain:
 2. Source channel and industry-background claims from Life Insurance Association of Japan, General Insurance Association of Japan, and company disclosures.
 3. Source direct-insurer identity and name changes from company profile / history pages.
 4. Keep insurer entity pages in [[JapanFG/INDEX|JapanFG]]; do not move them into this domain.
-5. Keep law / license essays in [[JapanFG/legal-financial-licenses/INDEX|JapanFG legal / financial licenses]] when the page is primarily legal rather than operating-model analysis.
+5. Keep law / license essays in [[financial-licenses/INDEX|JapanFG legal / financial licenses]] when the page is primarily legal rather than operating-model analysis.
 
 ## Backlog
 
 | Priority | Page | Why |
 |---|---|---|
-| Done | [[JapanFG/legal-financial-licenses/insurance-license-and-solvency|Insurance license and solvency route]] | Dedicated legal page for insurance underwriting vs distribution, solvency margin, ESR, and FSA licensing. |
+| Done | [[financial-licenses/insurance-license-and-solvency|Insurance license and solvency route]] | Dedicated legal page for insurance underwriting vs distribution, solvency margin, ESR, and FSA licensing. |
 | Done | [[insurance/japan-life-insurance-big-four|Japan life insurance big four]] | Compare Nippon Life, Dai-ichi, Meiji Yasuda, and Sumitomo Life by form, channel, and solvency. |
 | Done | [[insurance/japan-nonlife-big-three|Japan non-life big three]] | Compare Tokio Marine, MS&AD, and SOMPO by overseas exposure, catastrophe risk, and governance. |
 | Done | [[insurance/earthquake-insurance-public-private-scheme|Earthquake insurance public-private scheme]] | Split public-private earthquake scheme from broader nat-cat reinsurance. |
@@ -115,7 +115,7 @@ Life insurance operating-model deepening:
 ## Related
 
 - [[JapanFG/INDEX]]
-- [[JapanFG/legal-financial-licenses/INDEX]]
+- [[financial-licenses/INDEX]]
 - [[policy-finance/INDEX]]
 - [[banking/INDEX]]
 - [[fintech/INDEX]]

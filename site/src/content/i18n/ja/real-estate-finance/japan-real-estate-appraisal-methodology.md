@@ -189,7 +189,7 @@ J-REIT フレームワークはガバナンス分離を求める。
 | 資産運用会社 | 独立した資産運用会社 (多くはスポンサー関連) |
 | 鑑定士 | 独立した不動産鑑定士 / 鑑定会社 |
 | 監査人 | 独立監査人 |
-| 信託銀行カストディアン | 信託で物件を保有。通常は [[JapanFG/mitsubishi-ufj-trust-bank|MUFG Trust]]、[[JapanFG/sumitomo-mitsui-trust|SMTB]]、または [[JapanFG/mizuho-trust-bank|Mizuho Trust]] |
+| 信託銀行カストディアン | 信託で物件を保有。通常は [[trust-banks/mitsubishi-ufj-trust-bank|MUFG Trust]]、[[trust-banks/sumitomo-mitsui-trust|SMTB]]、または [[trust-banks/mizuho-trust-bank|Mizuho Trust]] |
 
 鑑定士は資産運用会社から起用されるが、資産運用会社、スポンサー、物件の経済的本人から独立していることが求められる。鑑定士名と採用手法の開示は必須である。
 
@@ -223,9 +223,9 @@ J-REIT フレームワークはガバナンス分離を求める。
 - [[policy-finance/INDEX]]
 - [[policy-finance/japan-housing-finance-agency]]
 - [[finance/INDEX]]
-- [[JapanFG/mitsubishi-ufj-trust-bank]]
-- [[JapanFG/sumitomo-mitsui-trust]]
-- [[JapanFG/mizuho-trust-bank]]
+- [[trust-banks/mitsubishi-ufj-trust-bank]]
+- [[trust-banks/sumitomo-mitsui-trust]]
+- [[trust-banks/mizuho-trust-bank]]
 - [[JapanFG/japan-real-estate-institute]]
 
 ## 出典

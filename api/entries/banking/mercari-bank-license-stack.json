@@ -51,7 +51,6 @@
   "body_links": {
     "wikilinks_count": 11,
     "wikilinks": [
-      "JapanFG/mercari-hd",
       "banking/INDEX",
       "banking/baas-japan-landscape",
       "banking/cooperative-banking-japan",
@@ -61,10 +60,10 @@
       "banking/regional-bank-consolidation-pattern",
       "exchanges/jp-exchange-mercoin",
       "fintech/japan-financial-regulation",
+      "payment-firms/mercari-hd",
       "payments/cashless-jp-landscape"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/mercari-hd",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/baas-japan-landscape",
       "https://finwiki.zksc.io/banking/cooperative-banking-japan",
@@ -74,15 +73,16 @@
       "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
       "https://finwiki.zksc.io/exchanges/jp-exchange-mercoin",
       "https://finwiki.zksc.io/fintech/japan-financial-regulation",
+      "https://finwiki.zksc.io/payment-firms/mercari-hd",
       "https://finwiki.zksc.io/payments/cashless-jp-landscape"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2772,
-    "word_like_tokens": 366,
-    "inbound_wikilinks_count": 25,
-    "last_modified": "2026-05-24"
+    "nonspace_chars": 2778,
+    "word_like_tokens": 367,
+    "inbound_wikilinks_count": 26,
+    "last_modified": "2026-06-04"
   }
 }

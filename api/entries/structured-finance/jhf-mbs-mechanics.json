@@ -58,7 +58,7 @@
   "body_links": {
     "wikilinks_count": 11,
     "wikilinks": [
-      "JapanFG/jfc",
+      "financial-regulators/jfc",
       "policy-finance/INDEX",
       "policy-finance/japan-housing-finance-agency",
       "real-estate-finance/INDEX",
@@ -71,7 +71,7 @@
       "structured-finance/spv-tk-gk-vehicle-japan-tax"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/jfc",
+      "https://finwiki.zksc.io/financial-regulators/jfc",
       "https://finwiki.zksc.io/policy-finance/INDEX",
       "https://finwiki.zksc.io/policy-finance/japan-housing-finance-agency",
       "https://finwiki.zksc.io/real-estate-finance/INDEX",
@@ -87,9 +87,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6963,
-    "word_like_tokens": 1135,
+    "nonspace_chars": 6976,
+    "word_like_tokens": 1136,
     "inbound_wikilinks_count": 11,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-04"
   }
 }

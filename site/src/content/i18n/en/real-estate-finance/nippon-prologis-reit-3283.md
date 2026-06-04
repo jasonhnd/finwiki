@@ -31,7 +31,7 @@ This entry sits under [[real-estate-finance/INDEX|real-estate-finance index]] as
 | Listing date | February 2013 |
 | Asset focus | AAA-grade modern logistics facilities |
 | Geographic focus | Greater Tokyo, Osaka, Nagoya logistics submarkets |
-| Rating | Investment-grade by [[JapanFG/jcr|JCR]] / [[JapanFG/rating-and-investment|R&I]] |
+| Rating | Investment-grade by [[financial-regulators/jcr|JCR]] / [[financial-regulators/rating-and-investment|R&I]] |
 | Index inclusion | TSE REIT Index, TSE REIT Logistics Index, GPR / FTSE EPRA Nareit Developed Asia |
 
 ## 2. Prologis sponsor platform

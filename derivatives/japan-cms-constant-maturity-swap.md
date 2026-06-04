@@ -155,7 +155,7 @@ JPY CMS is predominantly bilateral. JSCC has not extended clearing scope to CMS 
 - [[money-market/japan-money-market]]
 - [[banking/INDEX]]
 - [[insurance/japan-life-insurance-alm-overview]]
-- [[JapanFG/mufg-bank]]
+- [[megabanks/mufg-bank]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

@@ -23,7 +23,7 @@ translated_at: 2026-06-02T13:21:55.102Z
 
 ## 構造的優位
 
-資金移動業者型は 1 回 100 万円の制約があり、信託型は B2B 大口決済（10 億円〜数百億円 1 件）が可能である。[[JapanFG/progmat|Progmat Coin]]の信託スキームでは [[JapanFG/mufg|MUFG]]、[[JapanFG/smfg|SMFG/SMBC]]、Mizuho が委託者、三菱 UFJ 信託 1 社が受託者となり、3 つの megabank 預金を共通 SC で支える。[[multi-megabank-consortium-governance|多巨行联合体治理]]が法的基盤である。
+資金移動業者型は 1 回 100 万円の制約があり、信託型は B2B 大口決済（10 億円〜数百億円 1 件）が可能である。[[payment-firms/progmat|Progmat Coin]]の信託スキームでは [[megabanks/mufg|MUFG]]、[[megabanks/smfg|SMFG/SMBC]]、Mizuho が委託者、三菱 UFJ 信託 1 社が受託者となり、3 つの megabank 預金を共通 SC で支える。[[multi-megabank-consortium-governance|多巨行联合体治理]]が法的基盤である。
 
 ## §(d) と市場分担
 

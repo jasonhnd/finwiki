@@ -51,35 +51,35 @@
     "wikilinks_count": 10,
     "wikilinks": [
       "INDEX",
-      "JapanFG/dai-ichi-life",
-      "JapanFG/legal-financial-licenses/INDEX",
-      "JapanFG/msad",
-      "JapanFG/nippon-life",
-      "JapanFG/sompo",
-      "JapanFG/tokio-marine",
+      "financial-licenses/INDEX",
       "insurance/INDEX",
       "insurance/esr-economic-value-solvency",
-      "insurance/natcat-reinsurance-japan"
+      "insurance/natcat-reinsurance-japan",
+      "life-insurers/dai-ichi-life",
+      "life-insurers/nippon-life",
+      "non-life-insurers/msad",
+      "non-life-insurers/sompo",
+      "non-life-insurers/tokio-marine"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/dai-ichi-life",
-      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX",
-      "https://finwiki.zksc.io/JapanFG/msad",
-      "https://finwiki.zksc.io/JapanFG/nippon-life",
-      "https://finwiki.zksc.io/JapanFG/sompo",
-      "https://finwiki.zksc.io/JapanFG/tokio-marine",
+      "https://finwiki.zksc.io/financial-licenses/INDEX",
       "https://finwiki.zksc.io/insurance/INDEX",
       "https://finwiki.zksc.io/insurance/esr-economic-value-solvency",
-      "https://finwiki.zksc.io/insurance/natcat-reinsurance-japan"
+      "https://finwiki.zksc.io/insurance/natcat-reinsurance-japan",
+      "https://finwiki.zksc.io/life-insurers/dai-ichi-life",
+      "https://finwiki.zksc.io/life-insurers/nippon-life",
+      "https://finwiki.zksc.io/non-life-insurers/msad",
+      "https://finwiki.zksc.io/non-life-insurers/sompo",
+      "https://finwiki.zksc.io/non-life-insurers/tokio-marine"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3576,
-    "word_like_tokens": 571,
-    "inbound_wikilinks_count": 33,
-    "last_modified": "2026-05-20"
+    "nonspace_chars": 3632,
+    "word_like_tokens": 583,
+    "inbound_wikilinks_count": 34,
+    "last_modified": "2026-06-04"
   }
 }

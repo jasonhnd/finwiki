@@ -11,7 +11,7 @@ translated_at: 2026-06-01T03:31:12.251Z
 
 ## Wiki route
 
-This entry sits under [[payments/INDEX|payments index]] as the JR East-anchored prepaid issuer page that pairs with [[payments/prepaid-payment-instrument-issuers-japan-index|prepaid payment instrument issuers registry]] for the FSA registry view and with [[payments/japan-transit-prepaid-suica-pasmo-icoca-economics|transit-prepaid e-money economics]] for the cross-issuer scheme view (10 IC mutual-use, Cyberne settlement). Compare with [[payments/pasmo-prepaid-tokyo-metro|PASMO]] (Tokyo metro / private-rail consortium counterpart), [[payments/waon-prepaid-aeon|WAON]] / [[payments/nanaco-prepaid-seven-i|nanaco]] (retail-anchored FeliCa peers), and [[payments/edy-rakuten-prepaid|Rakuten Edy]] (platform-agnostic FeliCa). Corporate / group anchor is [[JapanFG/jr-east-financial|JR East financial services / Viewカード]]; technology backbone is FeliCa via Sony / FeliCa Networks; mobile-rail extension links to [[payments/japan-card-security-authentication-controls|tokenization controls]] under Apple Pay / Osaifu Keitai.
+This entry sits under [[payments/INDEX|payments index]] as the JR East-anchored prepaid issuer page that pairs with [[payments/prepaid-payment-instrument-issuers-japan-index|prepaid payment instrument issuers registry]] for the FSA registry view and with [[payments/japan-transit-prepaid-suica-pasmo-icoca-economics|transit-prepaid e-money economics]] for the cross-issuer scheme view (10 IC mutual-use, Cyberne settlement). Compare with [[payments/pasmo-prepaid-tokyo-metro|PASMO]] (Tokyo metro / private-rail consortium counterpart), [[payments/waon-prepaid-aeon|WAON]] / [[payments/nanaco-prepaid-seven-i|nanaco]] (retail-anchored FeliCa peers), and [[payments/edy-rakuten-prepaid|Rakuten Edy]] (platform-agnostic FeliCa). Corporate / group anchor is [[card-issuers/jr-east-financial|JR East financial services / Viewカード]]; technology backbone is FeliCa via Sony / FeliCa Networks; mobile-rail extension links to [[payments/japan-card-security-authentication-controls|tokenization controls]] under Apple Pay / Osaifu Keitai.
 
 ## TL;DR
 
@@ -103,7 +103,7 @@ Suica's strategic logic at JR East:
 - [[payments/funds-transfer-vs-prepaid-boundary]]
 - [[payments/japan-payment-scheme-economics-matrix]]
 - [[payments/japan-card-security-authentication-controls]]
-- [[JapanFG/jr-east-financial]]
+- [[card-issuers/jr-east-financial]]
 - [[loyalty/japan-points-landscape]]
 - [[INDEX|FinWiki index]]
 

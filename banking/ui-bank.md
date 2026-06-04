@@ -30,11 +30,11 @@ canonical_anchor: JapanFG/ui-bank
 
 ## Wiki route
 
-This entry sits under [[banking/INDEX|banking index]] as the operating-profile companion to the entity anchor at [[JapanFG/ui-bank|UI銀行 entity anchor]]. Read it within the segment map at [[banking/japan-net-bank-competition-map|Japan net bank competition map]], next to the regional-digital-bank peers [[banking/minna-bank-baas-model|Minna Bank BaaS model]] · [[JapanFG/01-bank|01 Bank]], with the parent context at [[JapanFG/kiraboshi-fg|東京きらぼし FG]] and [[JapanFG/kiraboshi-bank|きらぼし銀行]], and against the ecosystem net-bank cohort [[banking/rakuten-bank|Rakuten Bank]] · [[banking/paypay-bank|PayPay Bank]] · [[banking/au-jibun-bank|au Jibun Bank]] · [[banking/sony-bank|Sony Bank]] for the broader smartphone-first banking distribution comparison. Pair it with [[banking/regional-bank-api-digital-partnership-route|regional bank API digital partnership route]] for the regional-group digital-strategy view.
+This entry sits under [[banking/INDEX|banking index]] as the operating-profile companion to the entity anchor at [[regional-banks/ui-bank|UI銀行 entity anchor]]. Read it within the segment map at [[banking/japan-net-bank-competition-map|Japan net bank competition map]], next to the regional-digital-bank peers [[banking/minna-bank-baas-model|Minna Bank BaaS model]] · [[regional-banks/01-bank|01 Bank]], with the parent context at [[regional-banks/kiraboshi-fg|東京きらぼし FG]] and [[regional-banks/kiraboshi-bank|きらぼし銀行]], and against the ecosystem net-bank cohort [[banking/rakuten-bank|Rakuten Bank]] · [[banking/paypay-bank|PayPay Bank]] · [[banking/au-jibun-bank|au Jibun Bank]] · [[banking/sony-bank|Sony Bank]] for the broader smartphone-first banking distribution comparison. Pair it with [[banking/regional-bank-api-digital-partnership-route|regional bank API digital partnership route]] for the regional-group digital-strategy view.
 
 ## TL;DR
 
-UI銀行 (UI Bank Co., Ltd.) is the smartphone-first digital-bank subsidiary of [[JapanFG/kiraboshi-fg|東京きらぼし FG]], opened on **2022-01-04** as the group's standalone digital bank. Its strategic logic is that the parent regional bank ([[JapanFG/kiraboshi-bank|きらぼし銀行]]) covers Tokyo-centric branch banking, while UI Bank takes the nationwide, smartphone-only customer journey that the legacy branch network cannot serve cost-effectively. UI Bank is one of three meaningful regional-group digital banks alongside [[banking/minna-bank-baas-model|Minna Bank]] ([[JapanFG/fukuoka-fg|Fukuoka FG]]) and [[JapanFG/01-bank|01 Bank]] ([[JapanFG/saitama-resona-bank|Saitama Resona]] / Resona group), each with a distinct architectural read: Minna Bank specialises in BaaS partner-channel distribution, 01 Bank focuses on Resona-group cross-sell, UI Bank emphasises smartphone-first life-partner financial UX with API connectivity. Deposit balance has grown steadily since 2022 opening but remains sub-trillion-yen (approximately ¥0.7 trillion / ¥6,952億 as of 2025-03-31), an order of magnitude smaller than ecosystem-bank peers ([[banking/rakuten-bank|Rakuten Bank]] ¥11.5tn / [[banking/paypay-bank|PayPay Bank]] ¥1.9tn / [[banking/au-jibun-bank|au Jibun]] ¥4tn+ at the same date). Tactical positioning emphasises the convergence of bank, savings, payment, and lifestyle services through a single mobile-first UX layer.
+UI銀行 (UI Bank Co., Ltd.) is the smartphone-first digital-bank subsidiary of [[regional-banks/kiraboshi-fg|東京きらぼし FG]], opened on **2022-01-04** as the group's standalone digital bank. Its strategic logic is that the parent regional bank ([[regional-banks/kiraboshi-bank|きらぼし銀行]]) covers Tokyo-centric branch banking, while UI Bank takes the nationwide, smartphone-only customer journey that the legacy branch network cannot serve cost-effectively. UI Bank is one of three meaningful regional-group digital banks alongside [[banking/minna-bank-baas-model|Minna Bank]] ([[regional-banks/fukuoka-fg|Fukuoka FG]]) and [[regional-banks/01-bank|01 Bank]] ([[megabanks/saitama-resona-bank|Saitama Resona]] / Resona group), each with a distinct architectural read: Minna Bank specialises in BaaS partner-channel distribution, 01 Bank focuses on Resona-group cross-sell, UI Bank emphasises smartphone-first life-partner financial UX with API connectivity. Deposit balance has grown steadily since 2022 opening but remains sub-trillion-yen (approximately ¥0.7 trillion / ¥6,952億 as of 2025-03-31), an order of magnitude smaller than ecosystem-bank peers ([[banking/rakuten-bank|Rakuten Bank]] ¥11.5tn / [[banking/paypay-bank|PayPay Bank]] ¥1.9tn / [[banking/au-jibun-bank|au Jibun]] ¥4tn+ at the same date). Tactical positioning emphasises the convergence of bank, savings, payment, and lifestyle services through a single mobile-first UX layer.
 
 ## 1. Identity and group position
 
@@ -44,8 +44,8 @@ UI銀行 (UI Bank Co., Ltd.) is the smartphone-first digital-bank subsidiary of 
 | English name | UI Bank Co., Ltd. |
 | Opening | 2022-01-04 |
 | Bank-license category | 普通銀行 (ordinary bank under 銀行法), classed under FSA "その他の銀行" |
-| Parent | [[JapanFG/kiraboshi-fg|東京きらぼし FG]] (100%) |
-| Sister bank | [[JapanFG/kiraboshi-bank|きらぼし銀行]] — the parent group's primary regional bank (Tokyo-centred) |
+| Parent | [[regional-banks/kiraboshi-fg|東京きらぼし FG]] (100%) |
+| Sister bank | [[regional-banks/kiraboshi-bank|きらぼし銀行]] — the parent group's primary regional bank (Tokyo-centred) |
 | HQ | Tokyo |
 | Channel architecture | Smartphone app + web; no physical branches |
 | Primary regulator | 金融庁 (FSA) |
@@ -94,9 +94,9 @@ The UX architecture explicitly bundles bank account, deposit, payment, transfer,
 
 ### Three-bank regional-digital comparison
 
-| Dimension | UI Bank (this entry) | [[banking/minna-bank-baas-model|Minna Bank]] | [[JapanFG/01-bank|01 Bank]] |
+| Dimension | UI Bank (this entry) | [[banking/minna-bank-baas-model|Minna Bank]] | [[regional-banks/01-bank|01 Bank]] |
 |---|---|---|---|
-| Parent group | [[JapanFG/kiraboshi-fg|東京きらぼし FG]] | [[JapanFG/fukuoka-fg|Fukuoka FG]] | [[JapanFG/resona-hd|Resona HD]] / [[JapanFG/saitama-resona-bank|Saitama Resona]] |
+| Parent group | [[regional-banks/kiraboshi-fg|東京きらぼし FG]] | [[regional-banks/fukuoka-fg|Fukuoka FG]] | [[megabanks/resona-hd|Resona HD]] / [[megabanks/saitama-resona-bank|Saitama Resona]] |
 | Opening | 2022-01 | 2021-05 | Later launch |
 | Channel architecture | Smartphone + web | BaaS partner journeys + direct app | Resona-group cross-sell + direct app |
 | Strategic axis | Smartphone-first life-partner banking + API | Full BaaS — partner brands own the customer journey | Group-customer digital adjunct |
@@ -137,11 +137,11 @@ UI Bank publishes selective KPI updates through きらぼし FG IR materials and
 - [[banking/japan-baas-operating-models]]
 - [[banking/sony-bank]] · [[banking/daiwa-next-bank]] · [[banking/gmo-aozora-net-bank]]
 - [[banking/rakuten-bank]] · [[banking/paypay-bank]] · [[banking/au-jibun-bank]]
-- [[JapanFG/ui-bank]]
-- [[JapanFG/kiraboshi-fg]]
-- [[JapanFG/kiraboshi-bank]]
-- [[JapanFG/01-bank]]
-- [[JapanFG/legal-financial-licenses/bank-license-and-baas-boundary]]
+- [[regional-banks/ui-bank]]
+- [[regional-banks/kiraboshi-fg]]
+- [[regional-banks/kiraboshi-bank]]
+- [[regional-banks/01-bank]]
+- [[financial-licenses/bank-license-and-baas-boundary]]
 
 ## Sources
 

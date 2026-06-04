@@ -1,0 +1,93 @@
+{
+  "schema_version": "1.0",
+  "slug": "life-insurers/nippon-life",
+  "source_path": "life-insurers/nippon-life.md",
+  "url": "https://finwiki.zksc.io/life-insurers/nippon-life",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/life-insurers/nippon-life.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/life-insurers/nippon-life.md",
+  "domain": "life-insurers",
+  "title": "日本生命保険相互会社 (Nippon Life)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "日本生命保険相互会社 (Nippon Life)",
+    "aliases": [
+      "Nippon Life",
+      "Nippon Life Insurance Company",
+      "日本生命",
+      "日生",
+      "ニッセイ",
+      "Nissay",
+      "life-insurers/nippon-life-insurance"
+    ],
+    "domain": "life-insurers",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "life-insurance",
+      "mutual-company"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: 日本生命保険 (公開情報 2026-05-19 抽出)",
+      "日本生命 2024年度（2025年3月期）決算（案）プレス 2025-05-23 https://www.nissay.co.jp/news/2025/20250523.html",
+      "日本生命 2024年度 業績の概要 (2025-05-23 発表 PDF)",
+      "日本経済新聞「日本生命、本業の利益が初の1兆円超え 運用好調で25年3月期32%増」(2025-05-22)",
+      "保険毎日新聞「日本生命グループ 24年度第2四半期決算」(2024-12-12)",
+      "投資のコンシェルジュ 生命保険 ソルベンシー・マージン比率ランキング 2025",
+      "日本経済新聞「日本生命保険、営業職員数5万人割れ」(2024-06-28)",
+      "日本生命「Vision 2030」公式説明資料"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 明治安田生命保険相互会社 for peer / contrast context and insurance index for the broader system / regulatory boundary.",
+  "headings": [
+    "日本生命保険相互会社 (Nippon Life)",
+    "Wiki route",
+    "TL;DR",
+    "1. 会社概要",
+    "形態の特徴：相互会社",
+    "主要子会社・関連",
+    "重要年表（抜粋）",
+    "2. 事業セグメント・マップ",
+    "グループ連結ベース",
+    "子会社業績ハイライト"
+  ],
+  "body_links": {
+    "wikilinks_count": 10,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "dai-ichi-life",
+      "insurance/INDEX",
+      "insurance/esr-economic-value-solvency",
+      "insurance/mutual-vs-stock-life-insurer",
+      "life-insurers/meiji-yasuda",
+      "megabanks/nippon-post",
+      "mizuho-fg",
+      "mufg",
+      "smfg"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/dai-ichi-life",
+      "https://finwiki.zksc.io/insurance/INDEX",
+      "https://finwiki.zksc.io/insurance/esr-economic-value-solvency",
+      "https://finwiki.zksc.io/insurance/mutual-vs-stock-life-insurer",
+      "https://finwiki.zksc.io/life-insurers/meiji-yasuda",
+      "https://finwiki.zksc.io/megabanks/nippon-post",
+      "https://finwiki.zksc.io/mizuho-fg",
+      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/smfg"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 6824,
+    "word_like_tokens": 1198,
+    "inbound_wikilinks_count": 31,
+    "last_modified": "2026-06-04"
+  }
+}

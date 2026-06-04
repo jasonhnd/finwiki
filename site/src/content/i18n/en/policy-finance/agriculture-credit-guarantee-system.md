@@ -12,7 +12,7 @@ translated_at: 2026-06-01T03:31:12.304Z
 
 ## Wiki route
 
-This entry sits under [[policy-finance/INDEX|policy-finance index]]. Read it against [[policy-finance/japan-credit-guarantee-system|Japan credit guarantee system]] for SME-side contrast, [[policy-finance/fisheries-credit-guarantee-system|fisheries credit guarantee system]] for the sister sector system, and [[policy-finance/japan-policy-finance-system|Japan policy finance system]] for the broader public-credit perimeter. The deposit-and-lending counterpart for farmers is [[banking/ja-bank-system-japan|JA Bank system]] and the cooperative apex is [[JapanFG/norinchukin|Norinchukin]].
+This entry sits under [[policy-finance/INDEX|policy-finance index]]. Read it against [[policy-finance/japan-credit-guarantee-system|Japan credit guarantee system]] for SME-side contrast, [[policy-finance/fisheries-credit-guarantee-system|fisheries credit guarantee system]] for the sister sector system, and [[policy-finance/japan-policy-finance-system|Japan policy finance system]] for the broader public-credit perimeter. The deposit-and-lending counterpart for farmers is [[banking/ja-bank-system-japan|JA Bank system]] and the cooperative apex is [[cooperative-banks/norinchukin|Norinchukin]].
 
 ## TL;DR
 
@@ -27,7 +27,7 @@ Japanese agricultural finance flows through the **系統金融** (cooperative sy
 | 農家 / 農業法人 | Borrower (farmer, agriculture corporation, agricultural worker, agri-business). | System route here |
 | 単位農協 (JA / 単協) | Primary cooperative; takes farmer deposits; extends agricultural and household credit. | [[banking/ja-bank-system-japan]] |
 | 信連 (JA信連 / 都道府県信用農業協同組合連合会) | Prefectural credit federation of agricultural cooperatives; intermediates JA deposits / lending. | [[banking/ja-bank-system-japan]] / prefectural-信連 layer |
-| 農林中央金庫 (Norinchukin) | National apex bank for JA / 信連 / fisheries / forestry cooperatives; manages excess cooperative deposits as a global investor. | [[JapanFG/norinchukin]] |
+| 農林中央金庫 (Norinchukin) | National apex bank for JA / 信連 / fisheries / forestry cooperatives; manages excess cooperative deposits as a global investor. | [[cooperative-banks/norinchukin]] |
 | 農業信用基金協会 | Prefectural guarantee body for agricultural loans; performs subrogation on default. | This page |
 | 独立行政法人農林漁業信用基金 (JAFFIC) | National-level credit-insurance / reinsurance body for prefectural agriculture and fisheries guarantee associations; also direct lending support. | This page |
 | MAFF (農林水産省) | Policy supervisor for cooperative system + credit guarantee insurance system. | [[policy-finance/INDEX]] |
@@ -115,7 +115,7 @@ Guarantee fee schedule is set by each prefectural 農業信用基金協会 withi
 | Borrower target | 農家 / 農業法人 / 農業関連事業者 | SME / small business (broad sectors) |
 | Local guarantor | 農業信用基金協会 (47 prefectural) | 信用保証協会 (51 prefecture / city) |
 | National federation | 全国農業信用基金協会連合会 | [[policy-finance/national-federation-credit-guarantee-corporations\|全国信用保証協会連合会 (JFG)]] |
-| National reinsurer | 農林漁業信用基金 (JAFFIC) | [[JapanFG/jfc\|JFC]] credit-insurance |
+| National reinsurer | 農林漁業信用基金 (JAFFIC) | [[financial-regulators/jfc\|JFC]] credit-insurance |
 | Supervisor | MAFF (農林水産省) | METI / SME Agency (中小企業庁) |
 | Lender partners | JA / 信連 / Norinchukin / banks / JFC ag-arm | Regional banks / shinkin / credit cooperatives / JFC |
 | Crisis-era flagship | Disaster / livestock-disease / 食料安全保障 | セーフティネット / 危機関連 (ZeroZero 2020–2022) |
@@ -129,7 +129,7 @@ The two systems are **parallel public-credit guarantee infrastructures** with di
 - **Not the SME guarantee system** — SME guarantees route to [[policy-finance/japan-credit-guarantee-system]].
 - **Not fisheries** — fisheries guarantee-insurance belongs to [[policy-finance/fisheries-credit-guarantee-system]] (sister sector under the same JAFFIC parent).
 - **Not 林業 (forestry)** — forestry credit support is also a JAFFIC business but routed separately under MAFF forestry policy.
-- **Not JFC's agriculture lending** — JFC's [[JapanFG/jfc|agriculture-forestry-fisheries arm]] lends directly to farmers; this page is about guarantee insurance for farmer borrowing, which may overlap when guaranteed loans are originated by JFC.
+- **Not JFC's agriculture lending** — JFC's [[financial-regulators/jfc|agriculture-forestry-fisheries arm]] lends directly to farmers; this page is about guarantee insurance for farmer borrowing, which may overlap when guaranteed loans are originated by JFC.
 
 ## Related
 
@@ -140,9 +140,9 @@ The two systems are **parallel public-credit guarantee infrastructures** with di
 - [[policy-finance/national-federation-credit-guarantee-corporations]]
 - [[banking/ja-bank-system-japan]]
 - [[banking/jf-marine-bank-system-japan]]
-- [[JapanFG/norinchukin]]
-- [[JapanFG/jfc]]
-- [[JapanFG/shoko-chukin]]
+- [[cooperative-banks/norinchukin]]
+- [[financial-regulators/jfc]]
+- [[financial-regulators/shoko-chukin]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

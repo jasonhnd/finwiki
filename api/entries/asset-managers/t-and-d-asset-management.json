@@ -1,0 +1,103 @@
+{
+  "schema_version": "1.0",
+  "slug": "asset-managers/t-and-d-asset-management",
+  "source_path": "asset-managers/t-and-d-asset-management.md",
+  "url": "https://finwiki.zksc.io/asset-managers/t-and-d-asset-management",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/asset-managers/t-and-d-asset-management.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/asset-managers/t-and-d-asset-management.md",
+  "domain": "asset-managers",
+  "title": "T&Dアセットマネジメント (T&D AM)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "T&Dアセットマネジメント (T&D AM)",
+    "aliases": [
+      "T&D Asset Management",
+      "T&Dアセットマネジメント",
+      "T&Dアセットマネジメント株式会社",
+      "TDAM"
+    ],
+    "domain": "asset-managers",
+    "created": "2026-05-24",
+    "last_updated": "2026-05-24",
+    "last_tended": "2026-05-24",
+    "review_by": "2026-11-20",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "asset-management",
+      "fiea-operator",
+      "td-hd",
+      "life-insurance"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx",
+      "https://www.tdasset.co.jp/company/profile/",
+      "https://www.td-holdings.co.jp/group/"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against ニッセイアセットマネジメント for peer / contrast context, securities license stack for the FIEA license boundary, and FSA 金商業者 index for the registry layer.",
+  "headings": [
+    "T&Dアセットマネジメント (T&D AM)",
+    "Wiki route",
+    "TL;DR",
+    "1. 法人・ライセンス境界",
+    "2. Business role",
+    "3. 出資・統治構造",
+    "4. Why standalone page matters",
+    "5. 競合・peer",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 18,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "asset-managers/asset-management-one",
+      "asset-managers/mufg-asset-management",
+      "asset-managers/nissay-asset-management",
+      "asset-managers/sbi-asset-management",
+      "asset-managers/smt-am",
+      "asset-managers/tokio-marine-asset-management",
+      "financial-licenses/securities-license-stack",
+      "life-insurers/daido-life",
+      "life-insurers/nippon-life",
+      "life-insurers/taiyo-life",
+      "life-insurers/td-hd",
+      "megabanks/mufg",
+      "megabanks/sbi-hd",
+      "non-life-insurers/tokio-marine",
+      "securities/financial-instruments-business-operators-japan-index",
+      "securities/nisa-2024-flow",
+      "trust-banks/sumitomo-mitsui-trust"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/asset-managers/asset-management-one",
+      "https://finwiki.zksc.io/asset-managers/mufg-asset-management",
+      "https://finwiki.zksc.io/asset-managers/nissay-asset-management",
+      "https://finwiki.zksc.io/asset-managers/sbi-asset-management",
+      "https://finwiki.zksc.io/asset-managers/smt-am",
+      "https://finwiki.zksc.io/asset-managers/tokio-marine-asset-management",
+      "https://finwiki.zksc.io/financial-licenses/securities-license-stack",
+      "https://finwiki.zksc.io/life-insurers/daido-life",
+      "https://finwiki.zksc.io/life-insurers/nippon-life",
+      "https://finwiki.zksc.io/life-insurers/taiyo-life",
+      "https://finwiki.zksc.io/life-insurers/td-hd",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/sbi-hd",
+      "https://finwiki.zksc.io/non-life-insurers/tokio-marine",
+      "https://finwiki.zksc.io/securities/financial-instruments-business-operators-japan-index",
+      "https://finwiki.zksc.io/securities/nisa-2024-flow",
+      "https://finwiki.zksc.io/trust-banks/sumitomo-mitsui-trust"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3586,
+    "word_like_tokens": 586,
+    "inbound_wikilinks_count": 4,
+    "last_modified": "2026-06-04"
+  }
+}

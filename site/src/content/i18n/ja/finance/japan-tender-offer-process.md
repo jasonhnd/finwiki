@@ -13,7 +13,7 @@ translated_at: 2026-06-02T13:21:55.045Z
 
 日本のTOB分析は、TOBトリガー、公告、公開買付届出書、対象会社意見表明、訂正、EDINET 法定提出、TDnet 適時開示、大量保有報告、決済、スクイーズアウト / 上場廃止ルートを追う開示管理ワークフローである。これは単なる取引ルールではなく、上場会社の支配権取引プロセスであるため [[finance/INDEX|finance]] に属する。
 
-このページは [[finance/cross-border-m-a-japan|cross-border M&A Japan]]、[[finance/japan-acquisition-finance|Japan acquisition finance]]、[[finance/japan-activist-investor-playbook|Japan activist investor playbook]]、[[securities/tokyo-stock-exchange|Tokyo Stock Exchange]]、[[JapanFG/legal-financial-licenses/securities-license-stack|securities license stack]]、[[securities/japan-underwriting-market-structure|underwriting market structure]]、[[JapanFG/sbi-hd|SBI HD]]、[[JapanFG/sbi-shinsei-bank|SBI Shinsei Bank]] とあわせて使う。
+このページは [[finance/cross-border-m-a-japan|cross-border M&A Japan]]、[[finance/japan-acquisition-finance|Japan acquisition finance]]、[[finance/japan-activist-investor-playbook|Japan activist investor playbook]]、[[securities/tokyo-stock-exchange|Tokyo Stock Exchange]]、[[financial-licenses/securities-license-stack|securities license stack]]、[[securities/japan-underwriting-market-structure|underwriting market structure]]、[[megabanks/sbi-hd|SBI HD]]、[[regional-banks/sbi-shinsei-bank|SBI Shinsei Bank]] とあわせて使う。
 
 ## プロセスマップ
 
@@ -56,10 +56,10 @@ translated_at: 2026-06-02T13:21:55.045Z
 
 ## JapanFG との関係
 
-- [[JapanFG/sbi-hd|SBI HD]] / [[JapanFG/sbi-shinsei-bank|SBI Shinsei Bank]] は、銀行支配と公開 TOB 分析の歴史的アンカーとして有用である。
-- [[JapanFG/sony-fg|Sony FG]]、[[JapanFG/wealthnavi|WealthNavi]]、その他の上場金融 / fintech 案件では、支配が変わるときに TOB / スクイーズアウトの読解が必要になる場合がある。
-- [[JapanFG/smbc-nikko|SMBC Nikko]]、[[JapanFG/mufg-mums|MUMSS]]、[[JapanFG/nomura-hd|Nomura]]、[[JapanFG/daiwa-sg|Daiwa Securities Group]] は、公開買付代理人、財務アドバイザー、引受会社、フェアネス助言参加者として重要である。
-- 当事者が証券会社、公開買付代理人、財務アドバイザーとして行動している場合、[[JapanFG/legal-financial-licenses/securities-license-stack|Securities license stack]] が必要である。
+- [[megabanks/sbi-hd|SBI HD]] / [[regional-banks/sbi-shinsei-bank|SBI Shinsei Bank]] は、銀行支配と公開 TOB 分析の歴史的アンカーとして有用である。
+- [[megabanks/sony-fg|Sony FG]]、[[payment-firms/wealthnavi|WealthNavi]]、その他の上場金融 / fintech 案件では、支配が変わるときに TOB / スクイーズアウトの読解が必要になる場合がある。
+- [[securities-firms/smbc-nikko|SMBC Nikko]]、[[securities-firms/mufg-mums|MUMSS]]、[[securities-firms/nomura-hd|Nomura]]、[[securities-firms/daiwa-sg|Daiwa Securities Group]] は、公開買付代理人、財務アドバイザー、引受会社、フェアネス助言参加者として重要である。
+- 当事者が証券会社、公開買付代理人、財務アドバイザーとして行動している場合、[[financial-licenses/securities-license-stack|Securities license stack]] が必要である。
 
 ## 調査チェックリスト
 
@@ -78,11 +78,11 @@ translated_at: 2026-06-02T13:21:55.045Z
 - [[finance/japan-activist-investor-playbook]]
 - [[securities/tokyo-stock-exchange]]
 - [[securities/japan-underwriting-market-structure]]
-- [[JapanFG/legal-financial-licenses/securities-license-stack]]
-- [[JapanFG/sbi-hd]]
-- [[JapanFG/sbi-shinsei-bank]]
-- [[JapanFG/nomura-hd]]
-- [[JapanFG/daiwa-sg]]
+- [[financial-licenses/securities-license-stack]]
+- [[megabanks/sbi-hd]]
+- [[regional-banks/sbi-shinsei-bank]]
+- [[securities-firms/nomura-hd]]
+- [[securities-firms/daiwa-sg]]
 - [[INDEX|FinWiki index]]
 
 ## 出典

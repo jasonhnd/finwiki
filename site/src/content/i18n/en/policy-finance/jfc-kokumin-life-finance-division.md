@@ -12,7 +12,7 @@ translated_at: 2026-06-01T03:31:12.296Z
 
 ## Wiki route
 
-This entry sits under [[policy-finance/INDEX|policy-finance index]] as the third product-bearing division inside [[JapanFG/jfc|日本政策金融公庫 (JFC)]], alongside [[policy-finance/jfc-sme-division-operating-model|JFC SME Division (中小企業事業)]] and [[policy-finance/jfc-agriculture-forestry-fisheries-division|JFC Agriculture, Forestry and Fisheries Division (農林水産事業)]]. Read it against [[policy-finance/japan-credit-guarantee-system|Japan credit guarantee system]] and [[policy-finance/national-federation-credit-guarantee-corporations|JFG]] for the parallel public-credit channel that runs through 信用金庫 / 信用組合 / 地銀, against [[banking/cooperative-banking-japan|cooperative banking Japan]] and [[banking/shinkin-bank-registry-japan|shinkin bank registry]] for the private microlender environment, against [[JapanFG/shoko-chukin|Shoko Chukin]] as the cooperative-deposit alternative for SME finance, against [[policy-finance/japan-student-services-organization|JASSO]] as the parallel student-loan agency, and within [[policy-finance/japan-policy-finance-system|Japan policy finance system]] for placement in the wider state-finance toolkit.
+This entry sits under [[policy-finance/INDEX|policy-finance index]] as the third product-bearing division inside [[financial-regulators/jfc|日本政策金融公庫 (JFC)]], alongside [[policy-finance/jfc-sme-division-operating-model|JFC SME Division (中小企業事業)]] and [[policy-finance/jfc-agriculture-forestry-fisheries-division|JFC Agriculture, Forestry and Fisheries Division (農林水産事業)]]. Read it against [[policy-finance/japan-credit-guarantee-system|Japan credit guarantee system]] and [[policy-finance/national-federation-credit-guarantee-corporations|JFG]] for the parallel public-credit channel that runs through 信用金庫 / 信用組合 / 地銀, against [[banking/cooperative-banking-japan|cooperative banking Japan]] and [[banking/shinkin-bank-registry-japan|shinkin bank registry]] for the private microlender environment, against [[financial-regulators/shoko-chukin|Shoko Chukin]] as the cooperative-deposit alternative for SME finance, against [[policy-finance/japan-student-services-organization|JASSO]] as the parallel student-loan agency, and within [[policy-finance/japan-policy-finance-system|Japan policy finance system]] for placement in the wider state-finance toolkit.
 
 ## TL;DR
 
@@ -22,7 +22,7 @@ JFC National Life Finance Division, often abbreviated as "Kokumin Seikatsu" or i
 
 | Item | Detail |
 |---|---|
-| Parent | [[JapanFG/jfc|JFC]] (Japan Finance Corporation), 100% state-owned special company |
+| Parent | [[financial-regulators/jfc|JFC]] (Japan Finance Corporation), 100% state-owned special company |
 | Predecessor institutions | Kokumin Seikatsu Kinyu Koko — itself a 1999 merger of the older Kokumin Finance Corporation (1949~) and Environmental Sanitation Finance Corporation (1967~); absorbed into JFC on 2008-10-01 four-institution merger |
 | Peer divisions inside JFC | [[policy-finance/jfc-sme-division-operating-model|中小企業事業 (SME Division)]]; [[policy-finance/jfc-agriculture-forestry-fisheries-division|農林水産事業 (Agriculture, Forestry and Fisheries Division)]]; Crisis response facilitation work (post-merger crisis-response window) |
 | Mandate scope | Individuals (educational loans); sole proprietors and micro-businesses (working capital, capex, startup); very small enterprises below the SME Division's natural ticket range |
@@ -201,10 +201,10 @@ The COVID-vintage book is the most consequential default-and-restructuring workl
 - [[policy-finance/national-federation-credit-guarantee-corporations]]
 - [[policy-finance/japan-student-services-organization]]
 - [[policy-finance/japan-eximbank-history]]
-- [[JapanFG/jfc]]
-- [[JapanFG/jbic]]
-- [[JapanFG/dbj]]
-- [[JapanFG/shoko-chukin]]
+- [[financial-regulators/jfc]]
+- [[financial-regulators/jbic]]
+- [[financial-regulators/dbj]]
+- [[financial-regulators/shoko-chukin]]
 - [[banking/cooperative-banking-japan]]
 - [[banking/shinkin-bank-registry-japan]]
 - [[banking/credit-cooperative-registry-japan]]

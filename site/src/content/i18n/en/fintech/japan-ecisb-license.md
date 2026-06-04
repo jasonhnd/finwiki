@@ -68,7 +68,7 @@ The self-custody principle (no contact with private keys, no custody of funds) i
 
 An ECISBO requires an entity holding an EPIESP or CAESP license as its "affiliated party."
 
-**Candidate: registered CEX** (a registered exchange holding a crypto asset exchange business registration qualifies as a CAESP and satisfies the affiliated-party condition) — for details on the registration system see [[exchanges/fsa-vasp-registration-system|FSA VASP 登録制度]]; for self-regulatory rules see [[exchanges/jvcea-self-regulatory-overview|JVCEA 自律規則概要]]. Comprehensive index of the Japan license system: [[JapanFG/legal-financial-licenses/INDEX|日本金融ライセンス・インデックス]].
+**Candidate: registered CEX** (a registered exchange holding a crypto asset exchange business registration qualifies as a CAESP and satisfies the affiliated-party condition) — for details on the registration system see [[exchanges/fsa-vasp-registration-system|FSA VASP 登録制度]]; for self-regulatory rules see [[exchanges/jvcea-self-regulatory-overview|JVCEA 自律規則概要]]. Comprehensive index of the Japan license system: [[financial-licenses/INDEX|日本金融ライセンス・インデックス]].
 
 ## Related
 <!-- wiki-links:managed -->

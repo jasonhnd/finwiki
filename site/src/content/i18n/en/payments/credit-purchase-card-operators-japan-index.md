@@ -38,11 +38,11 @@ Read this page with [[payments/card-acquiring-japan-stack|Japan card acquiring s
 
 | Segment | Routes | Why these are standalone |
 |---|---|---|
-| Megabank / bank-group card issuers | [[JapanFG/smbc-card]], [[JapanFG/mufg-nicos]], [[JapanFG/jcb]], [[JapanFG/mitsubishi-ufj-trust-bank]] | Issuing / acquiring, bank group strategy, card-network or trust-bank adjacency. |
-| Retail / ecosystem card issuers | [[JapanFG/rakuten-card]], [[JapanFG/paypay-card]], [[JapanFG/aeon-financial-service]], [[JapanFG/epos-card]], [[JapanFG/seven-card-service]], [[JapanFG/ucs-card]], [[JapanFG/life-card]], [[JapanFG/pocket-card]] | Consumer credit, loyalty, retail finance, and payment-data loops. |
-| Consumer finance / installment | [[JapanFG/smbc-consumer-finance]], [[JapanFG/acom]], [[JapanFG/aiful]], [[JapanFG/orico]], [[JapanFG/jaccs]], [[JapanFG/aplus]], [[JapanFG/shinsei-financial]], [[JapanFG/toyota-finance]] | Lending / guarantee / installment-credit operating companies. |
-| Merchant PSP / acquiring | [[JapanFG/gmo-payment-gateway]], [[JapanFG/gmo-epsilon]], [[JapanFG/sb-payment-service]], [[JapanFG/dg-financial-technology]], [[JapanFG/netstars]] | Merchant onboarding, gateway, card-number handling, and settlement-risk infrastructure. |
-| Wallet / embedded finance | [[JapanFG/recruit-mufg-business]], [[JapanFG/jal-payment-port]], [[JapanFG/paypay]], [[JapanFG/merpay]], [[JapanFG/au-payment]] | Wallets often combine prepaid, transfer, merchant payment, and card-linked rails. |
+| Megabank / bank-group card issuers | [[card-issuers/smbc-card]], [[card-issuers/mufg-nicos]], [[card-issuers/jcb]], [[trust-banks/mitsubishi-ufj-trust-bank]] | Issuing / acquiring, bank group strategy, card-network or trust-bank adjacency. |
+| Retail / ecosystem card issuers | [[card-issuers/rakuten-card]], [[card-issuers/paypay-card]], [[card-issuers/aeon-financial-service]], [[card-issuers/epos-card]], [[card-issuers/seven-card-service]], [[card-issuers/ucs-card]], [[card-issuers/life-card]], [[card-issuers/pocket-card]] | Consumer credit, loyalty, retail finance, and payment-data loops. |
+| Consumer finance / installment | [[consumer-finance/smbc-consumer-finance]], [[consumer-finance/acom]], [[consumer-finance/aiful]], [[card-issuers/orico]], [[card-issuers/jaccs]], [[card-issuers/aplus]], [[consumer-finance/shinsei-financial]], [[card-issuers/toyota-finance]] | Lending / guarantee / installment-credit operating companies. |
+| Merchant PSP / acquiring | [[payment-firms/gmo-payment-gateway]], [[payment-firms/gmo-epsilon]], [[payment-firms/sb-payment-service]], [[payment-firms/dg-financial-technology]], [[payment-firms/netstars]] | Merchant onboarding, gateway, card-number handling, and settlement-risk infrastructure. |
+| Wallet / embedded finance | [[payment-firms/recruit-mufg-business]], [[payment-firms/jal-payment-port]], [[payment-firms/paypay]], [[payment-firms/merpay]], [[payment-firms/au-payment]] | Wallets often combine prepaid, transfer, merchant payment, and card-linked rails. |
 
 ## Analysis Lens
 
@@ -61,8 +61,8 @@ For FinWiki, the most important use of the METI lists is not "who appears in the
 - [[payments/psp-merchant-settlement-risk]]
 - [[payments/funds-transfer-service-providers-japan-index]]
 - [[payments/prepaid-payment-instrument-issuers-japan-index]]
-- [[JapanFG/missing-financial-institutions-backlog]]
-- [[JapanFG/legal-financial-licenses/INDEX]]
+- [[financial-regulators/missing-financial-institutions-backlog]]
+- [[financial-licenses/INDEX]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

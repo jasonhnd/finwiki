@@ -13,7 +13,7 @@ translated_at: 2026-05-31T07:28:06.165Z
 
 日本的基于经济价值的偿付能力制度，是一种穿透会计资产负债表、并以更符合市场一致性的经济价值基础来评估资产、负债、资本与风险的保险资本框架。金融厅（FSA）将这一制度概括为三大支柱：偿付能力监管、保险公司风险管理，以及面向保单持有人 / 市场参与者的信息披露。
 
-在 FinWiki 中，本页是 [[JapanFG/dai-ichi-life]]、[[JapanFG/nippon-life]]、[[JapanFG/tokio-marine]]、[[JapanFG/msad]]、[[JapanFG/sompo]] 等保险公司页面的监管资本锚点。公司层面的比率解读请结合 [[insurance/esr-economic-value-solvency|ESR]]。
+在 FinWiki 中，本页是 [[life-insurers/dai-ichi-life]]、[[life-insurers/nippon-life]]、[[non-life-insurers/tokio-marine]]、[[non-life-insurers/msad]]、[[non-life-insurers/sompo]] 等保险公司页面的监管资本锚点。公司层面的比率解读请结合 [[insurance/esr-economic-value-solvency|ESR]]。
 
 ## Regime Map
 
@@ -26,10 +26,10 @@ translated_at: 2026-05-31T07:28:06.165Z
 
 ## JapanFG Relevance
 
-- [[JapanFG/dai-ichi-life|Dai-ichi Life]] 是最纯粹的股票市场案例，因为它是上市寿险控股公司；资本政策、回购、并购能力和 ESR 披露都可直接投资解读。
-- [[JapanFG/nippon-life|Nippon Life]] 是最大的相互会社案例；即便没有上市股权，经济偿付能力也会影响资本策略、保单红利能力以及海外并购空间。
-- [[JapanFG/tokio-marine|Tokio Marine]]、[[JapanFG/msad|MS&AD]]、[[JapanFG/sompo|SOMPO]] 之所以重要，是因为自然灾害风险、海外专业保险业务以及股权持有都可能显著影响资本波动。
-- [[JapanFG/legal-financial-licenses/INDEX|JapanFG legal / financial licenses]] 应将本页视为《保险业法》下的偿付能力与审慎监管路径。
+- [[life-insurers/dai-ichi-life|Dai-ichi Life]] 是最纯粹的股票市场案例，因为它是上市寿险控股公司；资本政策、回购、并购能力和 ESR 披露都可直接投资解读。
+- [[life-insurers/nippon-life|Nippon Life]] 是最大的相互会社案例；即便没有上市股权，经济偿付能力也会影响资本策略、保单红利能力以及海外并购空间。
+- [[non-life-insurers/tokio-marine|Tokio Marine]]、[[non-life-insurers/msad|MS&AD]]、[[non-life-insurers/sompo|SOMPO]] 之所以重要，是因为自然灾害风险、海外专业保险业务以及股权持有都可能显著影响资本波动。
+- [[financial-licenses/INDEX|JapanFG legal / financial licenses]] 应将本页视为《保险业法》下的偿付能力与审慎监管路径。
 
 ## Decision Use
 
@@ -49,7 +49,7 @@ translated_at: 2026-05-31T07:28:06.165Z
 - [[insurance/INDEX|insurance INDEX]]
 - [[insurance/esr-economic-value-solvency]]
 - [[insurance/natcat-reinsurance-japan]]
-- [[JapanFG/legal-financial-licenses/INDEX]]
+- [[financial-licenses/INDEX]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

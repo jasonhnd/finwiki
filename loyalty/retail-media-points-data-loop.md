@@ -27,7 +27,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[loyalty/INDEX|loyalty index]] as the **data-loop / ID-graph economics** page — the layer that explains *why* the program directory in [[loyalty/japan-points-landscape|Japan points and loyalty landscape]] exists at all once you look past the discount. It pairs with [[loyalty/point-exchange-network-risk|point exchange network risk]] (the value-transfer network) and [[loyalty/point-liability-accounting-boundary|point liability accounting boundary]] (the cost / liability network), and it leans on the retail-anchor view in [[retail/japan-retail-financial-distribution-wedge-matrix|Japan retail financial distribution wedge matrix]]. The financial-distribution endpoints of the loop are the group finance arms — [[JapanFG/rakuten-fg|Rakuten FG]], [[JapanFG/ndfg|NDFG]], [[JapanFG/paypay-fg|PayPay FG]].
+This entry sits under [[loyalty/INDEX|loyalty index]] as the **data-loop / ID-graph economics** page — the layer that explains *why* the program directory in [[loyalty/japan-points-landscape|Japan points and loyalty landscape]] exists at all once you look past the discount. It pairs with [[loyalty/point-exchange-network-risk|point exchange network risk]] (the value-transfer network) and [[loyalty/point-liability-accounting-boundary|point liability accounting boundary]] (the cost / liability network), and it leans on the retail-anchor view in [[retail/japan-retail-financial-distribution-wedge-matrix|Japan retail financial distribution wedge matrix]]. The financial-distribution endpoints of the loop are the group finance arms — [[payment-firms/rakuten-fg|Rakuten FG]], [[megabanks/ndfg|NDFG]], [[megabanks/paypay-fg|PayPay FG]].
 
 ## TL;DR
 
@@ -84,7 +84,7 @@ The point economy is really three overlaid networks; this page is the data one.
 | Cost / liability | Grants, deferred revenue, breakage, prepaid value | [[loyalty/point-liability-accounting-boundary|point liability accounting boundary]] |
 | Data / ID graph | Identity-linked behaviour, monetised as media + finance | this page |
 
-Reading any operator on only one network misleads: a "loss-making" wallet heavy on campaign grants (cost network) may be *buying the most valuable ID graph* (data network) and monetising it through finance cross-sell — the PayPay / [[JapanFG/paypay-fg|PayPay FG]] and Rakuten / [[JapanFG/rakuten-fg|Rakuten FG]] pattern.
+Reading any operator on only one network misleads: a "loss-making" wallet heavy on campaign grants (cost network) may be *buying the most valuable ID graph* (data network) and monetising it through finance cross-sell — the PayPay / [[megabanks/paypay-fg|PayPay FG]] and Rakuten / [[payment-firms/rakuten-fg|Rakuten FG]] pattern.
 
 ## The binding constraint: APPI and consent
 
@@ -99,7 +99,7 @@ So the constraint is not the liability accounting (covered elsewhere) but **data
 ## Why this matters for JapanFG / financial analysis
 
 - **Value a point operator as a media + distribution platform, not a loyalty cost.** The retail-media and finance-cross-sell streams, gated by the ID graph, are the real asset; the point liability is the acquisition cost of that asset.
-- **A bank or telco buying a common point is buying a customer-data engine and an APPI exposure** at the same time — see [[JapanFG/smfg|SMFG]] / CCCMK and [[JapanFG/ndfg|NDFG]] / dポイント. The diligence question is data-governance maturity as much as marketing reach.
+- **A bank or telco buying a common point is buying a customer-data engine and an APPI exposure** at the same time — see [[megabanks/smfg|SMFG]] / CCCMK and [[megabanks/ndfg|NDFG]] / dポイント. The diligence question is data-governance maturity as much as marketing reach.
 - **Retail anchors decide graph depth.** Daily-frequency surfaces (convenience, grocery, fuel, travel) make the richest graphs; the anchor map is in [[retail/japan-retail-financial-distribution-wedge-matrix|the retail financial-distribution wedge matrix]] and [[retail/aeon-group|Aeon Group]] / [[retail/seven-and-i-hd|Seven & i]].
 
 ## Related
@@ -117,10 +117,10 @@ So the constraint is not the liability accounting (covered elsewhere) but **data
 - [[retail/INDEX|retail INDEX]]
 - [[payments/japan-merchant-psp-competitive-scorecard|Japan merchant PSP competitive scorecard]]
 - [[payments/INDEX|payments INDEX]]
-- [[JapanFG/rakuten-fg|Rakuten FG]]
-- [[JapanFG/ndfg|NDFG]]
-- [[JapanFG/paypay-fg|PayPay FG]]
-- [[JapanFG/smfg|SMFG]]
+- [[payment-firms/rakuten-fg|Rakuten FG]]
+- [[megabanks/ndfg|NDFG]]
+- [[megabanks/paypay-fg|PayPay FG]]
+- [[megabanks/smfg|SMFG]]
 - [[fintech/INDEX|fintech INDEX]]
 - [[INDEX|FinWiki index]]
 

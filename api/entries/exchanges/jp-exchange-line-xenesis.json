@@ -53,7 +53,6 @@
   "body_links": {
     "wikilinks_count": 12,
     "wikilinks": [
-      "JapanFG/paypay-fg",
       "exchanges/INDEX",
       "exchanges/fsa-vasp-registration-system",
       "exchanges/jp-cex-nft-marketplace-integration",
@@ -64,10 +63,10 @@
       "exchanges/jp-vasp-parent-company-map",
       "fintech/japan-bittrade-listing-process",
       "fintech/japan-financial-regulation",
-      "fintech/japan-stablecoin-regulatory-landscape"
+      "fintech/japan-stablecoin-regulatory-landscape",
+      "megabanks/paypay-fg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/paypay-fg",
       "https://finwiki.zksc.io/exchanges/INDEX",
       "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
       "https://finwiki.zksc.io/exchanges/jp-cex-nft-marketplace-integration",
@@ -78,7 +77,8 @@
       "https://finwiki.zksc.io/exchanges/jp-vasp-parent-company-map",
       "https://finwiki.zksc.io/fintech/japan-bittrade-listing-process",
       "https://finwiki.zksc.io/fintech/japan-financial-regulation",
-      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape"
+      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
+      "https://finwiki.zksc.io/megabanks/paypay-fg"
     ],
     "external_links_count": 8,
     "external_links": [
@@ -93,9 +93,9 @@
     ]
   },
   "metrics": {
-    "nonspace_chars": 5045,
+    "nonspace_chars": 5047,
     "word_like_tokens": 876,
     "inbound_wikilinks_count": 9,
-    "last_modified": "2026-06-01"
+    "last_modified": "2026-06-04"
   }
 }

@@ -79,7 +79,7 @@ TMK-J-REIT の相互作用は、より広範な日本の不動産と車両のエ
 | 発行 | 特定公募債券年功序列によって歪められる |
 | 担保 | 商業用不動産を担保とする住宅ローンまたは商業用不動産の信託受益権 |
 | 資産流動化計画 | FSAに提出。資産キャッシュフローの分配メカニズムを規定する |
-| 評価 | 通常国内代理店([[JapanFG/jcr|JCR]] / [[JapanFG/rating-and-investment|R&I]])外国人投資家向け取引のグローバル代理店 ([[JapanFG/sp-global-ratings-japan|S&P]] / [[JapanFG/moodys-japan|Moody's]]) |
+| 評価 | 通常国内代理店([[financial-regulators/jcr|JCR]] / [[financial-regulators/rating-and-investment|R&I]])外国人投資家向け取引のグローバル代理店 ([[JapanFG/sp-global-ratings-japan|S&P]] / [[JapanFG/moodys-japan|Moody's]]) |
 | 投資家ベース | 生命保険会社、資産運用会社、メガバンクALMブック、海外機関投資家 |
 | サービサー・受託者 | 信託銀行または専門サービサーの役割 |
 TMK は、日本の **単一借り手上場 CMBS** の主要な構造です ([[structured-finance/japan-cmbs-issuance-structure|Japan CMBS issuance structure]] によるポスト 2008 CMBS 形式)。公債発行機能と税転嫁機能の組み合わせにより、TMK は上場トランシーバー CMBS 取引にとって自然な選択肢となります。
@@ -107,7 +107,7 @@ TMK は、日本の **単一借り手上場 CMBS** の主要な構造です ([[s
 - [[real-estate-finance/japan-cmbs-rmbs-securitization|Japan CMBS and RMBS securitization]]
 - [[real-estate-finance/gk-tk-bond-real-estate-spv|GK-TK bond real-estate SPV]]
 - [[real-estate-finance/INDEX|real-estate-finance index]]
-- [[JapanFG/jcr|JCR]]・[[JapanFG/rating-and-investment|R&I]]
+- [[financial-regulators/jcr|JCR]]・[[financial-regulators/rating-and-investment|R&I]]
 - [[INDEX|FinWiki index]]
 ## 出典
 - 資産の流動化に関する法律 (資産流動化法) — 公的な立法文書 (日本の国会)。

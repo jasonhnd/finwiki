@@ -16,9 +16,9 @@ translated_at: 2026-05-31T07:28:06.180Z
 
 | 赛道 | 当前锚点 | 需要记住的内容 |
 |---|---|---|
-| 资金转移型日元稳定币发行人 | [[JapanFG/jpyc|JPYC株式会社]] / [[exchanges/jp-exchange-jpyc|JPYC detailed page]] | JPYC 在 FSA 资金转移登记中登记为关东财务局长 第00099号。不要把它误认为传统加密交易所。 |
+| 资金转移型日元稳定币发行人 | [[payment-firms/jpyc|JPYC株式会社]] / [[exchanges/jp-exchange-jpyc|JPYC detailed page]] | JPYC 在 FSA 资金转移登记中登记为关东财务局长 第00099号。不要把它误认为传统加密交易所。 |
 | 外国稳定币分销 / EPI 服务提供商 | [[exchanges/jp-exchange-sbi-vc-trade|SBI VC Trade]] | FSA 的 EPI 服务提供商名单目前只有一家运营商：SBI VC Trade，登记为关东财务局长 第00001号，处理 USDC。 |
-| 信托型稳定币 / 代币化平台 | [[JapanFG/progmat|株式会社Progmat]] / [[fintech/jp-stablecoin-progmat|Progmat detailed page]] | Progmat 是平台提供商。发行人 / 受托人角色由受监管的信托银行和参与的金融机构承担。 |
+| 信托型稳定币 / 代币化平台 | [[payment-firms/progmat|株式会社Progmat]] / [[fintech/jp-stablecoin-progmat|Progmat detailed page]] | Progmat 是平台提供商。发行人 / 受托人角色由受监管的信托银行和参与的金融机构承担。 |
 
 ## 含义
 
@@ -35,8 +35,8 @@ translated_at: 2026-05-31T07:28:06.180Z
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
 - [[fintech/japan-ecisb-license|日本 ECISB 牌照——专为"不碰资金的交易路由中介"设计的轻量牌照]]
-- [[JapanFG/jpyc|JPYC株式会社]]
-- [[JapanFG/progmat|株式会社Progmat]]
+- [[payment-firms/jpyc|JPYC株式会社]]
+- [[payment-firms/progmat|株式会社Progmat]]
 - [[exchanges/jp-exchange-sbi-vc-trade|SBI VC Trade]]
 - [[fintech/gold-tokenization-scheme-comparison|日本におけるトークン発行スキーム比較]]
 - [[fintech/ai-payment-two-tracks|AI 产业的两条支付轨道：Stripe 模式 vs 稳定币模式]]

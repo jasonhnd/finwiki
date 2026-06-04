@@ -85,7 +85,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it against [[fintech
 
 - **暗号資産交換業者ではない**ため、JVCEA の口座数・取引高等の統計には含まれない。
 - DCJPY は日本の **「銀行発行型預金トークン」** の代表的実装例として国際的に注目される（Stablecoin Brazil Forum 登壇 2026年2月、Money 20/20 Asia 登壇 2026年4月等）。
-- **三大円 SC** の構図における位置付け：信託型 SC（[[JapanFG/progmat|Progmat Coin]] / [[JapanFG/mufg|三菱UFJ]] 等）・資金移動業者型 SC（[[JapanFG/jpyc|JPYC]]）と並び、銀行発行型（DCJPY）が日本の円建て SC エコシステムを三柱で構成（4 阵营対比は [[fintech/japan-epi-four-camps-comparison|日本 SC 四阵营对比]] 参照）。
+- **三大円 SC** の構図における位置付け：信託型 SC（[[payment-firms/progmat|Progmat Coin]] / [[megabanks/mufg|三菱UFJ]] 等）・資金移動業者型 SC（[[payment-firms/jpyc|JPYC]]）と並び、銀行発行型（DCJPY）が日本の円建て SC エコシステムを三柱で構成（4 阵营対比は [[fintech/japan-epi-four-camps-comparison|日本 SC 四阵营对比]] 参照）。
 - **B2B 商取引 DX** 領域が主戦場。個人向け retail 決済よりも、企業間決済・サプライチェーン金流・デジタル証券 DVP に特化。
 
 ## 6. 沿革・重大事件

@@ -69,7 +69,7 @@ The matrix exists so that any single short-end instrument page can be placed ins
 ## Instrument 2 — Collateralized call money (有担保コール)
 
 - **Legal form / market.** Secured interbank loan against eligible collateral (JGBs, other public-sector paper); separate market segment from uncollateralized call.
-- **Issuer type.** Same banks and financial institutions as the uncollateralized lane; cooperative-finance central institutions ([[JapanFG/norinchukin|農林中央金庫]], [[JapanFG/shinkin-central|信金中央金庫]]) also active.
+- **Issuer type.** Same banks and financial institutions as the uncollateralized lane; cooperative-finance central institutions ([[cooperative-banks/norinchukin|農林中央金庫]], [[cooperative-banks/shinkin-central|信金中央金庫]]) also active.
 - **Tenor range.** O/N dominant, with some term activity; less dense than the uncollateralized lane.
 - **Minimum lot.** ¥100 million convention with larger sizes typical.
 - **Settlement.** Same-day funds via BoJ-NET; collateral pledged through standardized custody arrangements.
@@ -88,7 +88,7 @@ The matrix exists so that any single short-end instrument page can be placed ins
 - **Settlement.** T+0 / T+1 depending on convention; JGB delivery settled through BoJ-NET JGB Services with cash settlement via BoJ-NET.
 - **Credit risk.** Low — collateralized by JGBs with daily mark-to-market and haircuts; counterparty risk on the collateralized residual.
 - **BoJ collateral eligibility.** GC-repo is not a BoJ deposit instrument, but the underlying JGB collateral is BoJ-eligible at very low haircuts.
-- **Participants.** Megabank treasuries, securities-firm financing desks, trust banks, life insurers as cash lenders, foreign banks and hedge funds as borrowers, [[JapanFG/japan-securities-finance|JSF]] and tanshi-adjacent brokers as intermediaries.
+- **Participants.** Megabank treasuries, securities-firm financing desks, trust banks, life insurers as cash lenders, foreign banks and hedge funds as borrowers, [[financial-regulators/japan-securities-finance|JSF]] and tanshi-adjacent brokers as intermediaries.
 - **Outstanding.** Largest single short-term-funding market in Japan by stock; daily turnover measured in tens of trillions of yen on a published BoJ / JSDA basis.
 - **Post-2024 floor implications.** GC repo (T/N) trades slightly below the policy-rate-balance floor when JGB collateral is in plentiful supply, slightly above when collateral is scarce. The GC repo rate is the canonical secured short-rate benchmark complement to uncollateralized call.
 
@@ -125,7 +125,7 @@ The matrix exists so that any single short-end instrument page can be placed ins
 - **Tenor range.** 1 month to 1 year typical, with concentration in 3M / 6M; some longer-dated NCDs out to several years.
 - **Minimum lot.** Wholesale ¥100 million typical issuance face; large institutional buyers take much larger tickets.
 - **Settlement.** T+1 / T+2 typical; settlement through bank-to-bank conventions, not JASDEC.
-- **Credit risk.** Issuing bank's senior unsecured credit; covered by [[JapanFG/yokin-hoken-kiko|DICJ]] only up to the standard deposit-insurance ceiling (¥10 million principal plus interest), so wholesale NCDs depend on issuer credit beyond DICJ.
+- **Credit risk.** Issuing bank's senior unsecured credit; covered by [[financial-regulators/yokin-hoken-kiko|DICJ]] only up to the standard deposit-insurance ceiling (¥10 million principal plus interest), so wholesale NCDs depend on issuer credit beyond DICJ.
 - **BoJ collateral eligibility.** Less central than CP for BoJ collateral operations; eligibility depends on issuer / form. Foreign-bank-branch NCDs treated differently from domestic-bank NCDs.
 - **Participants.** Bank treasuries (issuer side), MMFs / MRFs, corporate treasuries, foreign cash investors (issuer-aware), trust banks for collective investment schemes.
 - **Outstanding.** Tracked in BoJ short-term financial market statistics; the bank-issuance complement to corporate CP in similar tenor brackets.
@@ -153,7 +153,7 @@ The matrix exists so that any single short-end instrument page can be placed ins
 - **Settlement.** BoJ-NET current-account ledger; interest applied to balances per published BoJ MPM decision.
 - **Credit risk.** Central-bank credit (zero by construction for yen-domestic counterparties).
 - **BoJ collateral eligibility.** This is the BoJ side of the rail; no external collateral involved.
-- **Participants.** Only direct BoJ-NET counterparties: banks, trust banks, foreign-bank branches with BoJ accounts, cooperative-finance central institutions ([[JapanFG/norinchukin|農中]], [[JapanFG/shinkin-central|信金中央金庫]], 全信組連, 労金連), [[money-market/tanshi-company-business-model|tanshi companies]], and securities firms admitted as BoJ counterparties.
+- **Participants.** Only direct BoJ-NET counterparties: banks, trust banks, foreign-bank branches with BoJ accounts, cooperative-finance central institutions ([[cooperative-banks/norinchukin|農中]], [[cooperative-banks/shinkin-central|信金中央金庫]], 全信組連, 労金連), [[money-market/tanshi-company-business-model|tanshi companies]], and securities firms admitted as BoJ counterparties.
 - **Outstanding.** Outstanding current-account balances at BoJ measured in hundreds of trillions of yen post-QE legacy; the policy-rate-balance tier sets the headline short rate.
 - **Post-2024 floor implications.** This is the floor itself — every other instrument in this matrix is priced off the policy-rate-balance interest rate. Reserve abundance keeps the floor binding rather than the corridor ceiling binding.
 
@@ -202,7 +202,7 @@ The instrument matrix is a public-surface tool, not a trading guide. When readin
 
 - **Call vs repo.** Uncollateralized call and collateralized call sit in the same call-market venue, with different secured / unsecured legal forms. GC and SC repo sit in the [[money-market/jgb-repo-market-japan|JGB repo market]] under different legal-form conventions (現先 vs 現金担保付債券貸借). Conflation is a common misreading.
 - **CP vs short-term bond.** CP under the [[securities/japan-securities-depository-center|JASDEC]] short-term corporate bond book-entry system is treated as a 短期社債 — legally a bond, operationally short-term funding. Conventional corporate bonds longer than 1 year use a separate book-entry pathway.
-- **NCD vs ordinary bank deposit.** A retail bank deposit covered by [[JapanFG/yokin-hoken-kiko|DICJ]] up to ¥10 million and a wholesale NCD held above the DICJ ceiling are not the same product, even though both are bank liabilities under the Banking Act.
+- **NCD vs ordinary bank deposit.** A retail bank deposit covered by [[financial-regulators/yokin-hoken-kiko|DICJ]] up to ¥10 million and a wholesale NCD held above the DICJ ceiling are not the same product, even though both are bank liabilities under the Banking Act.
 - **TBill vs short JGB.** TBill (国庫短期証券 / TDB) is its own short-end JGB instrument distinct from coupon JGBs with short remaining maturity; the issuance and settlement conventions are TBill-specific.
 - **BoJ complementary deposit facility vs reserve requirement.** Reserve requirement (準備預金制度) is a separate framework; the complementary deposit facility is the interest-on-reserves rail. Both touch BoJ-NET balances, but they are not the same legal device.
 - **MRF vs MMF.** MRF is a brokerage-account sweep vehicle with daily redemption; MMF is a broader investment-trust money-fund category that has largely disappeared from yen markets post-2001 NAV-break and post-2016 NIRP. The two are often grouped together but differ in regulatory framing.
@@ -225,10 +225,10 @@ The instrument matrix is a public-surface tool, not a trading guide. When readin
 - [[securities/japan-securities-clearing-corp]]
 - [[banking/INDEX]]
 - [[finance/japan-corporate-treasury-and-cash-management]]
-- [[JapanFG/yokin-hoken-kiko]]
-- [[JapanFG/boj-monetary-policy]]
-- [[JapanFG/norinchukin]]
-- [[JapanFG/shinkin-central]]
+- [[financial-regulators/yokin-hoken-kiko]]
+- [[financial-regulators/boj-monetary-policy]]
+- [[cooperative-banks/norinchukin]]
+- [[cooperative-banks/shinkin-central]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

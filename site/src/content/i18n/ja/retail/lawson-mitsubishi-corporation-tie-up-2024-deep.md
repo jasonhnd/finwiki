@@ -11,7 +11,7 @@ translated_at: 2026-06-03T00:53:08.332Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[retail/INDEX|retail index]] 配下にあり、2024-02  の Lawson 非公開化に関する **戦略的再編の深掘り** である。[[retail/lawson-kddi-retail-finance|Lawson + KDDI retail finance]]（構造概要ページ）を、取引メカニクス、非公開化後の資本構成、上場 CVS 小売企業を 50/50  の通信・商社 JV に移す長期的な戦略ロジックで拡張する。非公開化しなかったアクティビスト圧力下の上場 CVS 小売企業との対比は [[retail/seven-i-holdings-finance-deep-dive|Seven & i Holdings finance deep dive]]、[[retail/familymart-itochu-financial-integration|FamilyMart + Itochu financial integration]] は商社主導 CVS 非公開化の 2020  先例、クロスケースの比較表は [[retail/japan-retail-financial-distribution-wedge-matrix|Japan retail financial-distribution wedge matrix]]、ロイヤルティ層は [[loyalty/ponta-points-deep-dive|Ponta points deep dive]]、通信会社アンカー型共通ポイントの力学は [[loyalty/d-point-au-kddi-docomo-telco-point-consolidation|d Point / au telco-point consolidation case]]、KDDI 側ロイヤルティスタックは [[loyalty/au-pay-loyalty-ecosystem-deep|au PAY loyalty ecosystem deep]]、KDDI 側金融 HC は [[JapanFG/au-fh|au Financial Holdings]]、商社側は [[JapanFG/mitsubishi-corp|Mitsubishi Corporation]]、ウォレット層の重なりは [[payments/japan-code-payment-operator-2025-market-share-matrix|Japan code-payment operator 2025 market share matrix]] と組み合わせる。
+この項目は [[retail/INDEX|retail index]] 配下にあり、2024-02  の Lawson 非公開化に関する **戦略的再編の深掘り** である。[[retail/lawson-kddi-retail-finance|Lawson + KDDI retail finance]]（構造概要ページ）を、取引メカニクス、非公開化後の資本構成、上場 CVS 小売企業を 50/50  の通信・商社 JV に移す長期的な戦略ロジックで拡張する。非公開化しなかったアクティビスト圧力下の上場 CVS 小売企業との対比は [[retail/seven-i-holdings-finance-deep-dive|Seven & i Holdings finance deep dive]]、[[retail/familymart-itochu-financial-integration|FamilyMart + Itochu financial integration]] は商社主導 CVS 非公開化の 2020  先例、クロスケースの比較表は [[retail/japan-retail-financial-distribution-wedge-matrix|Japan retail financial-distribution wedge matrix]]、ロイヤルティ層は [[loyalty/ponta-points-deep-dive|Ponta points deep dive]]、通信会社アンカー型共通ポイントの力学は [[loyalty/d-point-au-kddi-docomo-telco-point-consolidation|d Point / au telco-point consolidation case]]、KDDI 側ロイヤルティスタックは [[loyalty/au-pay-loyalty-ecosystem-deep|au PAY loyalty ecosystem deep]]、KDDI 側金融 HC は [[megabanks/au-fh|au Financial Holdings]]、商社側は [[financial-conglomerates/mitsubishi-corp|Mitsubishi Corporation]]、ウォレット層の重なりは [[payments/japan-code-payment-operator-2025-market-share-matrix|Japan code-payment operator 2025 market share matrix]] と組み合わせる。
 
 ## 要約
 
@@ -40,7 +40,7 @@ translated_at: 2026-06-03T00:53:08.332Z
 |---|---|
 | **約 14,500  の Lawson 店舗 POS** | au PAY の受入面（PayPay、d払い、楽天ペイとの比較）。[[loyalty/au-pay-loyalty-ecosystem-deep|au PAY loyalty ecosystem deep]] を参照 |
 | **日常的な CVS 来店トラフィック** | au PAY Card と au じぶん銀行の獲得に向けた高頻度の消費者接点 |
-| **Lawson での Pontaポイント付与面** | KDDI の [[JapanFG/au-fh|au Financial Holdings]] ロイヤルティ起点の金融フライホイールを強化 |
+| **Lawson での Pontaポイント付与面** | KDDI の [[megabanks/au-fh|au Financial Holdings]] ロイヤルティ起点の金融フライホイールを強化 |
 | **店頭での金融商品配布** | Loppi 端末、店内ポスター、au PAY Card / au じぶん銀行 / au Smart Pass のブランド付きカウンターカード |
 | **au 通信加入者基盤へのクロスセル** | 「Lawson + au PAY + Ponta + au Card」を使うバンドル割引キャンペーン |
 | **PayPay × FamilyMart、dポイント × McDonald's への防御的対抗** | CVS チェーンを閉じた受入ゾーンとして固定することで競争リスクを下げる |
@@ -78,7 +78,7 @@ translated_at: 2026-06-03T00:53:08.332Z
 
 ## au 通信・決済統合
 
-**au PAY**、**au PAY Card**、**au じぶん銀行**、より広い [[JapanFG/au-fh|au Financial Holdings]] スタックは、Lawson チャネルの配布を三つのレイヤーで得る。
+**au PAY**、**au PAY Card**、**au じぶん銀行**、より広い [[megabanks/au-fh|au Financial Holdings]] スタックは、Lawson チャネルの配布を三つのレイヤーで得る。
 
 | レイヤー | 2024  前 | 2024  後 |
 |---|---|---|
@@ -99,7 +99,7 @@ translated_at: 2026-06-03T00:53:08.332Z
 | 支配株主 | KDDI 50% + Mitsubishi Corp 50%（JV） | 分散した公開株主 + 創業家（約 10% の Ito 家）+ 外国人投資家 | Itochu Corporation 約 50%、共同投資家あり |
 | アンカー商社 | Mitsubishi Corp | なし（独立） | Itochu Corporation |
 | アンカー通信会社 | KDDI（au） | なし（通信アンカーなし） | 直接はなし。FamiPay → ウォレット、通信 JV なし |
-| 銀行子会社 | [[JapanFG/lawson-bank|Lawson Bank]]（小規模、ATM 中心） | [[JapanFG/seven-bank|Seven Bank]]（大型、ATM プラットフォームモデル） | 独自銀行なし。提携銀行を利用 |
+| 銀行子会社 | [[regional-banks/lawson-bank|Lawson Bank]]（小規模、ATM 中心） | [[regional-banks/seven-bank|Seven Bank]]（大型、ATM プラットフォームモデル） | 独自銀行なし。提携銀行を利用 |
 | 囲い込みクレジットカード | au PAY Card（KDDI 側、Lawson チャネルを通じて配布） | Seven Card / Seven Card Plus（Seven Card Service） | FamiPay / FamiPay バーチャルカード、FamiPay Card |
 | 囲い込みプリペイド電子マネー | 独自なし。交通系 IC + Pontaポイントを利用 | nanaco | FamiPay |
 | 囲い込み共通ポイント | Pontaポイント（Loyalty Marketing / Mitsubishi 系） | nanaco point（閉ループ） | FamiPay ボーナス + dポイント / 楽天ポイント / Tポイントを 2024  前に共同受入 |
@@ -118,13 +118,13 @@ translated_at: 2026-06-03T00:53:08.332Z
 - [[retail/familymart-itochu-financial-integration|FamilyMart + Itochu financial integration]]
 - [[retail/aeon-group|AEON Group]]
 - [[retail/japan-retail-financial-distribution-wedge-matrix|Japan retail financial-distribution wedge matrix]]
-- [[JapanFG/au-fh|au Financial Holdings]]
-- [[JapanFG/au-payment|au Payment]]
-- [[JapanFG/lawson-bank|Lawson Bank]]
-- [[JapanFG/mitsubishi-corp|Mitsubishi Corporation]]
-- [[JapanFG/mitsubishi-corp-finance|Mitsubishi Corp Finance]]
-- [[JapanFG/itochu-corp|Itochu Corporation]]
-- [[JapanFG/itochu-finance|Itochu Finance]]
+- [[megabanks/au-fh|au Financial Holdings]]
+- [[payment-firms/au-payment|au Payment]]
+- [[regional-banks/lawson-bank|Lawson Bank]]
+- [[financial-conglomerates/mitsubishi-corp|Mitsubishi Corporation]]
+- [[trading-company-finance/mitsubishi-corp-finance|Mitsubishi Corp Finance]]
+- [[financial-conglomerates/itochu-corp|Itochu Corporation]]
+- [[trading-company-finance/itochu-finance|Itochu Finance]]
 - [[loyalty/ponta-points-deep-dive|Ponta points deep dive]]
 - [[loyalty/d-point-au-kddi-docomo-telco-point-consolidation|d Point / au telco-point consolidation case]]
 - [[loyalty/d-point-detailed-ecosystem|d Point detailed ecosystem]]

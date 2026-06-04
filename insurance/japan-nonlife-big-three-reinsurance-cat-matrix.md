@@ -30,13 +30,13 @@ sources:
 
 ## TL;DR
 
-The "Japan non-life big three" — [[JapanFG/tokio-marine|Tokio Marine Holdings]], [[JapanFG/msad|MS&AD Insurance Group Holdings]], and [[JapanFG/sompo|Sompo Holdings]] — share a Japan-domiciled, multi-line P&C franchise but differ on five overlay axes that drive the analytical readings: catastrophe exposure by peril, reinsurance-program shape, overseas specialty / London market presence, equity-cross-shareholding portfolio size and wind-down pace, and capital return policy. Japan-side cat exposure splits into earthquake (large-loss tail with a public-private retrocession layer through [[JapanFG/japan-earthquake-reinsurance|Japan Earthquake Reinsurance]]), typhoon / wind (annual-frequency loss driver), flood (rising secondary peril), and snow / hail (smaller but volatile). Reinsurance programs combine domestic intra-group retrocession, proportional treaties for non-cat lines, and excess-of-loss (XL) cover for cat lines purchased in the global reinsurance market. Tokio Marine has the largest overseas earnings share among the three (including a London-market platform and US specialty footprint); MS&AD's structural feature is a dual-domestic operating-company model ([[JapanFG/mitsui-sumitomo-insurance|MSI]] plus [[JapanFG/aioi-nissay-dowa-insurance|ADI]]) with a Toyota / mobility ecosystem linkage; Sompo's distinctive features include the Sompo Japan domestic core and a remediation / governance arc that has shaped recent strategic disclosure. All three are running multi-year cross-shareholding wind-down programs that mechanically lower ESR equity-risk capital and free up capital for buybacks. Combined-ratio readings split into voluntary auto, fire, casualty, marine, and other commercial lines, with overseas combined ratios reported separately at the group level.
+The "Japan non-life big three" — [[non-life-insurers/tokio-marine|Tokio Marine Holdings]], [[non-life-insurers/msad|MS&AD Insurance Group Holdings]], and [[non-life-insurers/sompo|Sompo Holdings]] — share a Japan-domiciled, multi-line P&C franchise but differ on five overlay axes that drive the analytical readings: catastrophe exposure by peril, reinsurance-program shape, overseas specialty / London market presence, equity-cross-shareholding portfolio size and wind-down pace, and capital return policy. Japan-side cat exposure splits into earthquake (large-loss tail with a public-private retrocession layer through [[non-life-insurers/japan-earthquake-reinsurance|Japan Earthquake Reinsurance]]), typhoon / wind (annual-frequency loss driver), flood (rising secondary peril), and snow / hail (smaller but volatile). Reinsurance programs combine domestic intra-group retrocession, proportional treaties for non-cat lines, and excess-of-loss (XL) cover for cat lines purchased in the global reinsurance market. Tokio Marine has the largest overseas earnings share among the three (including a London-market platform and US specialty footprint); MS&AD's structural feature is a dual-domestic operating-company model ([[non-life-insurers/mitsui-sumitomo-insurance|MSI]] plus [[non-life-insurers/aioi-nissay-dowa-insurance|ADI]]) with a Toyota / mobility ecosystem linkage; Sompo's distinctive features include the Sompo Japan domestic core and a remediation / governance arc that has shaped recent strategic disclosure. All three are running multi-year cross-shareholding wind-down programs that mechanically lower ESR equity-risk capital and free up capital for buybacks. Combined-ratio readings split into voluntary auto, fire, casualty, marine, and other commercial lines, with overseas combined ratios reported separately at the group level.
 
 ## Wiki route
 
 This overlay sits under [[insurance/INDEX|insurance INDEX]] and is the cat / reinsurance companion to [[insurance/japan-nonlife-big-three|japan-nonlife-big-three]]. Read it together with [[insurance/global-solvency-framework-comparison-matrix|the global solvency framework comparison matrix]] for the regulatory-capital lens, [[insurance/natcat-reinsurance-japan|the nat-cat reinsurance Japan entry]] for the cat-reinsurance mechanics, [[insurance/earthquake-insurance-public-private-scheme|the earthquake insurance public-private scheme]] for the household-EQ retrocession layer, [[insurance/foreign-reinsurer-japan-landscape|the foreign-reinsurer Japan landscape]] for the global reinsurer counterparty set, [[insurance/japan-non-life-underwriting-cycle|the Japan non-life underwriting cycle]] for the rate-cycle backdrop, [[insurance/lloyds-japan-syndicate-operating-model|the Lloyd's Japan syndicate operating model]] for the alternative-syndicate route, [[insurance/marine-insurance-and-pi-cover-market|the marine / P&I cover market entry]] for the specialty-lines context, and [[insurance/captive-insurance-japan-market|the captive insurance Japan market entry]] for the corporate-self-insurance contrast.
 
-The clean entity anchors for this overlay are [[JapanFG/tokio-marine|Tokio Marine Holdings]], [[JapanFG/msad|MS&AD Insurance Group Holdings]], and [[JapanFG/sompo|Sompo Holdings]]; the operating-company anchors are [[JapanFG/tokio-marine-nichido-fire|Tokio Marine & Nichido Fire]], [[JapanFG/mitsui-sumitomo-insurance|MSI]], [[JapanFG/aioi-nissay-dowa-insurance|ADI]], and [[JapanFG/sompo-japan-insurance|Sompo Japan]]. The asset-management affiliate anchor is [[JapanFG/tokio-marine-asset-management|Tokio Marine Asset Management]]. The retrocession / reinsurance counterparty anchors are [[JapanFG/japan-earthquake-reinsurance|Japan Earthquake Reinsurance]], [[JapanFG/toa-reinsurance|Toa Reinsurance]], [[JapanFG/munich-re-japan|Munich Re Japan]], [[JapanFG/swiss-re-japan|Swiss Re Japan]], and [[JapanFG/lloyd-japan|Lloyd's Japan]].
+The clean entity anchors for this overlay are [[non-life-insurers/tokio-marine|Tokio Marine Holdings]], [[non-life-insurers/msad|MS&AD Insurance Group Holdings]], and [[non-life-insurers/sompo|Sompo Holdings]]; the operating-company anchors are [[non-life-insurers/tokio-marine-nichido-fire|Tokio Marine & Nichido Fire]], [[non-life-insurers/mitsui-sumitomo-insurance|MSI]], [[non-life-insurers/aioi-nissay-dowa-insurance|ADI]], and [[non-life-insurers/sompo-japan-insurance|Sompo Japan]]. The asset-management affiliate anchor is [[asset-managers/tokio-marine-asset-management|Tokio Marine Asset Management]]. The retrocession / reinsurance counterparty anchors are [[non-life-insurers/japan-earthquake-reinsurance|Japan Earthquake Reinsurance]], [[non-life-insurers/toa-reinsurance|Toa Reinsurance]], [[non-life-insurers/munich-re-japan|Munich Re Japan]], [[non-life-insurers/swiss-re-japan|Swiss Re Japan]], and [[non-life-insurers/lloyd-japan|Lloyd's Japan]].
 
 ## Why this matrix matters
 
@@ -50,19 +50,19 @@ The overlay matrix below records these axes as routing rather than as as-of-date
 
 ## Tokio Marine Holdings — overseas-led specialty franchise
 
-[[JapanFG/tokio-marine|Tokio Marine Holdings]] is structurally the most overseas-weighted of the big three. Its domestic non-life core is [[JapanFG/tokio-marine-nichido-fire|Tokio Marine & Nichido Fire]]. Overseas, the group operates a US specialty insurer (Philadelphia / Pure / HCC platforms), a Lloyd's syndicate / London-market presence, and Asia / EMEA platforms. The overseas earnings share is the highest in the big three, which means the group's combined ratio and ESR sensitivity have meaningful exposure to non-Japan cycles (US specialty soft markets, London casualty cycles, overseas cat events).
+[[non-life-insurers/tokio-marine|Tokio Marine Holdings]] is structurally the most overseas-weighted of the big three. Its domestic non-life core is [[non-life-insurers/tokio-marine-nichido-fire|Tokio Marine & Nichido Fire]]. Overseas, the group operates a US specialty insurer (Philadelphia / Pure / HCC platforms), a Lloyd's syndicate / London-market presence, and Asia / EMEA platforms. The overseas earnings share is the highest in the big three, which means the group's combined ratio and ESR sensitivity have meaningful exposure to non-Japan cycles (US specialty soft markets, London casualty cycles, overseas cat events).
 
-On cat, Tokio Marine's Japan-side exposure covers the standard set (earthquake, typhoon, flood, snow / hail). Domestic earthquake (commercial property and shintaku-style risk) is separate from the household earthquake insurance pool — the household scheme is run through [[JapanFG/japan-earthquake-reinsurance|Japan Earthquake Reinsurance]] and a government retrocession layer routed through [[insurance/earthquake-insurance-public-private-scheme|the earthquake insurance public-private scheme]]. Overseas cat exposure includes US hurricane (Atlantic and Gulf), US wildfire, European windstorm, and Asian typhoon.
+On cat, Tokio Marine's Japan-side exposure covers the standard set (earthquake, typhoon, flood, snow / hail). Domestic earthquake (commercial property and shintaku-style risk) is separate from the household earthquake insurance pool — the household scheme is run through [[non-life-insurers/japan-earthquake-reinsurance|Japan Earthquake Reinsurance]] and a government retrocession layer routed through [[insurance/earthquake-insurance-public-private-scheme|the earthquake insurance public-private scheme]]. Overseas cat exposure includes US hurricane (Atlantic and Gulf), US wildfire, European windstorm, and Asian typhoon.
 
-Reinsurance programs combine intra-group retrocession (US specialty platforms cede some retro back to Tokio Marine Reinsurance), proportional reinsurance for non-cat lines, and XL cover for cat lines purchased in the global market — counterparties include the major European reinsurers ([[JapanFG/munich-re-japan|Munich Re]], [[JapanFG/swiss-re-japan|Swiss Re]], Hannover Re, SCOR), Bermuda reinsurers, [[JapanFG/lloyd-japan|Lloyd's]] syndicates, and Japanese domestic reinsurance counterparties such as [[JapanFG/toa-reinsurance|Toa Reinsurance]].
+Reinsurance programs combine intra-group retrocession (US specialty platforms cede some retro back to Tokio Marine Reinsurance), proportional reinsurance for non-cat lines, and XL cover for cat lines purchased in the global market — counterparties include the major European reinsurers ([[non-life-insurers/munich-re-japan|Munich Re]], [[non-life-insurers/swiss-re-japan|Swiss Re]], Hannover Re, SCOR), Bermuda reinsurers, [[non-life-insurers/lloyd-japan|Lloyd's]] syndicates, and Japanese domestic reinsurance counterparties such as [[non-life-insurers/toa-reinsurance|Toa Reinsurance]].
 
 Capital return policy at Tokio Marine Holdings is the most active among the big three: a progressive dividend plus opportunistic buybacks calibrated against ESR. Cross-shareholding wind-down has been a multi-year program and is a source of one-off realized gains plus a structural reduction in ESR equity-risk capital.
 
 ## MS&AD Insurance Group Holdings — dual-domestic and mobility-tilted
 
-[[JapanFG/msad|MS&AD Insurance Group Holdings]] is structurally distinguished by its two-major-operating-company model: [[JapanFG/mitsui-sumitomo-insurance|Mitsui Sumitomo Insurance (MSI)]] and [[JapanFG/aioi-nissay-dowa-insurance|Aioi Nissay Dowa Insurance (ADI)]]. MSI carries the larger commercial / industrial book; ADI has a Toyota-dealer-network mobility insurance heritage and is the group's mobility / connected-car ecosystem anchor.
+[[non-life-insurers/msad|MS&AD Insurance Group Holdings]] is structurally distinguished by its two-major-operating-company model: [[non-life-insurers/mitsui-sumitomo-insurance|Mitsui Sumitomo Insurance (MSI)]] and [[non-life-insurers/aioi-nissay-dowa-insurance|Aioi Nissay Dowa Insurance (ADI)]]. MSI carries the larger commercial / industrial book; ADI has a Toyota-dealer-network mobility insurance heritage and is the group's mobility / connected-car ecosystem anchor.
 
-On cat, MS&AD's Japan-side exposure includes the same peril mix as Tokio Marine. Overseas, the group has built a Lloyd's syndicate route ([[JapanFG/lloyd-japan|Lloyd's]] structures and MS Amlin platform inherited from prior acquisitions), Asian non-life platforms, and US specialty exposure. The London-market / Lloyd's footprint is one of the structural differentiators against Sompo.
+On cat, MS&AD's Japan-side exposure includes the same peril mix as Tokio Marine. Overseas, the group has built a Lloyd's syndicate route ([[non-life-insurers/lloyd-japan|Lloyd's]] structures and MS Amlin platform inherited from prior acquisitions), Asian non-life platforms, and US specialty exposure. The London-market / Lloyd's footprint is one of the structural differentiators against Sompo.
 
 Reinsurance programs follow a similar architecture to Tokio Marine: intra-group retrocession plus proportional and XL cover purchased externally. The dual-operating-company structure means group-level reinsurance optimization sits across both MSI and ADI and is reported at the holdings level.
 
@@ -70,7 +70,7 @@ Capital return is dividend plus periodic buybacks calibrated against ESR. Cross-
 
 ## Sompo Holdings — domestic-core with overseas specialty
 
-[[JapanFG/sompo|Sompo Holdings]] operates [[JapanFG/sompo-japan-insurance|Sompo Japan Insurance]] as the domestic non-life core. The overseas portfolio combines US specialty (Endurance / Sompo International heritage), Europe, and Asia. The group has, in recent fiscal years, been managing remediation / governance disclosures arising from agency-channel and supplier-related issues; the disclosure arc has consequences for mid-term plan messaging and regulatory dialogue. See [[insurance/insurance-agency-and-brokerage-japan|the agency / brokerage Japan landscape]] for the agency-channel context.
+[[non-life-insurers/sompo|Sompo Holdings]] operates [[non-life-insurers/sompo-japan-insurance|Sompo Japan Insurance]] as the domestic non-life core. The overseas portfolio combines US specialty (Endurance / Sompo International heritage), Europe, and Asia. The group has, in recent fiscal years, been managing remediation / governance disclosures arising from agency-channel and supplier-related issues; the disclosure arc has consequences for mid-term plan messaging and regulatory dialogue. See [[insurance/insurance-agency-and-brokerage-japan|the agency / brokerage Japan landscape]] for the agency-channel context.
 
 On cat, the Japan-side peril mix is the same as the other two groups; overseas cat exposure tracks the US specialty and Europe specialty platforms. Reinsurance program architecture is similar — intra-group retrocession plus external proportional and XL cover.
 
@@ -86,7 +86,7 @@ All three groups run a common reinsurance architecture and a common cat-peril mi
 - **Snow / hail** — Smaller but volatile peril, especially for motor and agricultural lines.
 - **Overseas (US hurricane, US wildfire, European windstorm, Asian typhoon, cyber, casualty)** — Subsidiary-level cat XL plus group-level retrocession.
 
-The reinsurance counterparty set is concentrated among the major European reinsurers ([[JapanFG/munich-re-japan|Munich Re]], [[JapanFG/swiss-re-japan|Swiss Re]], Hannover Re, SCOR), Bermuda reinsurers (Renaissance Re, Everest Re, AXIS), the [[JapanFG/lloyd-japan|Lloyd's]] market, and Japanese reinsurance counterparties including [[JapanFG/toa-reinsurance|Toa Reinsurance]]. The household earthquake retrocession layer routes through [[JapanFG/japan-earthquake-reinsurance|Japan Earthquake Reinsurance]] and a government layer documented in [[insurance/earthquake-insurance-public-private-scheme|the earthquake insurance public-private scheme]] entry.
+The reinsurance counterparty set is concentrated among the major European reinsurers ([[non-life-insurers/munich-re-japan|Munich Re]], [[non-life-insurers/swiss-re-japan|Swiss Re]], Hannover Re, SCOR), Bermuda reinsurers (Renaissance Re, Everest Re, AXIS), the [[non-life-insurers/lloyd-japan|Lloyd's]] market, and Japanese reinsurance counterparties including [[non-life-insurers/toa-reinsurance|Toa Reinsurance]]. The household earthquake retrocession layer routes through [[non-life-insurers/japan-earthquake-reinsurance|Japan Earthquake Reinsurance]] and a government layer documented in [[insurance/earthquake-insurance-public-private-scheme|the earthquake insurance public-private scheme]] entry.
 
 ## Combined-ratio and ESR sensitivity decomposition
 
@@ -110,10 +110,10 @@ The matrix below lists axes that differentiate the big three. Specific numbers (
 
 | Axis | Tokio Marine Holdings | MS&AD Insurance Group Holdings | Sompo Holdings |
 |---|---|---|---|
-| Listed holding company | [[JapanFG/tokio-marine|Tokio Marine Holdings]] (TSE Prime) | [[JapanFG/msad|MS&AD Insurance Group Holdings]] (TSE Prime) | [[JapanFG/sompo|Sompo Holdings]] (TSE Prime) |
-| Domestic non-life operating company / companies | [[JapanFG/tokio-marine-nichido-fire|Tokio Marine & Nichido Fire]] | [[JapanFG/mitsui-sumitomo-insurance|MSI]] and [[JapanFG/aioi-nissay-dowa-insurance|ADI]] (dual operating-company model) | [[JapanFG/sompo-japan-insurance|Sompo Japan]] |
+| Listed holding company | [[non-life-insurers/tokio-marine|Tokio Marine Holdings]] (TSE Prime) | [[non-life-insurers/msad|MS&AD Insurance Group Holdings]] (TSE Prime) | [[non-life-insurers/sompo|Sompo Holdings]] (TSE Prime) |
+| Domestic non-life operating company / companies | [[non-life-insurers/tokio-marine-nichido-fire|Tokio Marine & Nichido Fire]] | [[non-life-insurers/mitsui-sumitomo-insurance|MSI]] and [[non-life-insurers/aioi-nissay-dowa-insurance|ADI]] (dual operating-company model) | [[non-life-insurers/sompo-japan-insurance|Sompo Japan]] |
 | Life subsidiary | Tokio Marine & Nichido Life | Mitsui Sumitomo Aioi Life | Sompo Himawari Life |
-| Asset-management affiliate | [[JapanFG/tokio-marine-asset-management|Tokio Marine Asset Management]] | Affiliated AM vehicles | Affiliated AM vehicles |
+| Asset-management affiliate | [[asset-managers/tokio-marine-asset-management|Tokio Marine Asset Management]] | Affiliated AM vehicles | Affiliated AM vehicles |
 | Distinct structural feature | Largest overseas earnings share; US specialty + London market | Dual-domestic operating companies; Toyota / mobility ecosystem; Lloyd's syndicate route | Domestic core focus with overseas specialty platforms; remediation arc |
 | IAIG status | Subject to IAIG-style group supervision routing — see [[insurance/japan-iaig-ics-mapping|Japan IAIG / ICS mapping]] | IAIG-style status depending on FSA designation | IAIG-style status depending on FSA designation |
 
@@ -122,7 +122,7 @@ The matrix below lists axes that differentiate the big three. Specific numbers (
 | Peril | Tokio Marine | MS&AD | Sompo |
 |---|---|---|---|
 | Earthquake (commercial) | Material; cat XL primary mitigant | Material; cat XL primary mitigant | Material; cat XL primary mitigant |
-| Earthquake (household) | Underwritten and ceded to [[JapanFG/japan-earthquake-reinsurance|Japan Earthquake Reinsurance]] via [[insurance/earthquake-insurance-public-private-scheme|public-private scheme]] | Same routing | Same routing |
+| Earthquake (household) | Underwritten and ceded to [[non-life-insurers/japan-earthquake-reinsurance|Japan Earthquake Reinsurance]] via [[insurance/earthquake-insurance-public-private-scheme|public-private scheme]] | Same routing | Same routing |
 | Typhoon / wind | Largest annual-frequency loss driver | Largest annual-frequency loss driver | Largest annual-frequency loss driver |
 | Flood | Rising climate-attributed frequency | Rising climate-attributed frequency | Rising climate-attributed frequency |
 | Snow / hail | Volatile for motor / agriculture lines | Volatile for motor / agriculture lines (ADI agricultural footprint) | Volatile for motor / agriculture lines |
@@ -137,7 +137,7 @@ The matrix below lists axes that differentiate the big three. Specific numbers (
 | Excess-of-loss (XL) cat cover | Primary cat protection; multi-layer program | Primary cat protection; multi-layer program | Primary cat protection; multi-layer program |
 | Retention layers | Group-level retention sized against ESR target | Group-level retention sized against ESR target | Group-level retention sized against ESR target |
 | Reinstatement provisions | Standard for cat XL | Standard for cat XL | Standard for cat XL |
-| Major reinsurer counterparties | [[JapanFG/munich-re-japan|Munich Re]], [[JapanFG/swiss-re-japan|Swiss Re]], Hannover Re, SCOR, Bermuda, [[JapanFG/lloyd-japan|Lloyd's]], [[JapanFG/toa-reinsurance|Toa Reinsurance]] | Same global counterparty set with own Lloyd's syndicate exposure | Same global counterparty set |
+| Major reinsurer counterparties | [[non-life-insurers/munich-re-japan|Munich Re]], [[non-life-insurers/swiss-re-japan|Swiss Re]], Hannover Re, SCOR, Bermuda, [[non-life-insurers/lloyd-japan|Lloyd's]], [[non-life-insurers/toa-reinsurance|Toa Reinsurance]] | Same global counterparty set with own Lloyd's syndicate exposure | Same global counterparty set |
 | Cat bonds / ILS | Used selectively | Used selectively | Used selectively |
 
 ### Overseas portfolio and specialty footprint
@@ -224,9 +224,9 @@ The matrix below lists axes that differentiate the big three. Specific numbers (
 The current big-three shape reflects two decades of consolidation:
 
 - **Original lineage.** The pre-consolidation Japan non-life industry had a much larger number of stand-alone insurers (Tokio, Nichido, Yasuda, Sumitomo, Mitsui, Taisei, Dowa, Aioi, Nippon Fire, Nissan Fire, Chiyoda, Koa, and others). The current big three are the consolidation products of merging most of these legacy carriers.
-- **Tokio Marine Holdings formation.** Tokio Marine and Nichido Fire merged to form Tokio Marine & Nichido Fire (the domestic operating core under [[JapanFG/tokio-marine|Tokio Marine Holdings]]).
-- **MS&AD formation.** Mitsui Sumitomo, Aioi, and Nissay Dowa merged operations to form the current MS&AD structure with two domestic operating companies (MSI and ADI) under [[JapanFG/msad|MS&AD Insurance Group Holdings]].
-- **Sompo formation.** Sompo Japan and Nipponkoa merged to form Sompo Japan Nipponkoa (now [[JapanFG/sompo-japan-insurance|Sompo Japan Insurance]]) under [[JapanFG/sompo|Sompo Holdings]].
+- **Tokio Marine Holdings formation.** Tokio Marine and Nichido Fire merged to form Tokio Marine & Nichido Fire (the domestic operating core under [[non-life-insurers/tokio-marine|Tokio Marine Holdings]]).
+- **MS&AD formation.** Mitsui Sumitomo, Aioi, and Nissay Dowa merged operations to form the current MS&AD structure with two domestic operating companies (MSI and ADI) under [[non-life-insurers/msad|MS&AD Insurance Group Holdings]].
+- **Sompo formation.** Sompo Japan and Nipponkoa merged to form Sompo Japan Nipponkoa (now [[non-life-insurers/sompo-japan-insurance|Sompo Japan Insurance]]) under [[non-life-insurers/sompo|Sompo Holdings]].
 - **Overseas-acquisition wave.** All three pursued overseas P&C acquisitions through the 2010s. Tokio Marine acquired Philadelphia Insurance, HCC, and Pure; MS&AD acquired MS Amlin (Lloyd's-syndicate route); Sompo acquired Endurance Specialty and rebranded as Sompo International for the overseas specialty book.
 - **2019 typhoon reset.** Typhoon Faxai and Typhoon Hagibis in 2019 generated material domestic cat losses that reset reinsurance pricing and cat-budget assumptions across the big three for subsequent fiscal years.
 - **2025 ESR rollout.** The FSA economic-value-based solvency regime was rolled out from April 2025 onward, replacing the traditional solvency margin ratio as the headline domestic regulatory capital metric. The transition reset disclosure language. See [[insurance/economic-value-based-solvency|economic-value-based solvency]] for the regime and [[insurance/esr-economic-value-solvency|ESR]] for the ratio.
@@ -267,14 +267,14 @@ Use this overlay when reading the non-life big three against each other rather t
 - **Numbers are conceptual.** This page is an overlay route. Cat budgets, ESR ratios, retention layers, combined ratios, overseas earnings shares, and equity portfolio sizes are date-specific and should be sourced from each group's current integrated / annual report and FSA materials.
 - **Reinsurance is not zero-risk.** Reinsurance recoverables shift loss risk to counterparties but introduce credit risk to those counterparties. Diversification across multiple reinsurers and use of collateralized structures matter.
 - **Cat budget is a planning assumption.** The cat budget disclosed in mid-term plans is an underwriting-year planning number, not a guarantee. Actual cat experience can exceed or undershoot the budget materially in any single year.
-- **Earthquake household scheme is separate.** The household earthquake insurance pool runs through [[JapanFG/japan-earthquake-reinsurance|Japan Earthquake Reinsurance]] and a government layer documented in [[insurance/earthquake-insurance-public-private-scheme|the earthquake insurance public-private scheme]] entry. Commercial property earthquake is a separate private layer.
+- **Earthquake household scheme is separate.** The household earthquake insurance pool runs through [[non-life-insurers/japan-earthquake-reinsurance|Japan Earthquake Reinsurance]] and a government layer documented in [[insurance/earthquake-insurance-public-private-scheme|the earthquake insurance public-private scheme]] entry. Commercial property earthquake is a separate private layer.
 - **Overseas combined ratios reflect non-Japan cycles.** US specialty soft / hard markets, London casualty cycles, and overseas cat events drive the overseas combined ratio independently of Japan-side conditions.
 - **Cross-shareholding wind-down is sequenced.** The pace at which long-tail equity holdings are reduced is constrained by counterparty / customer relationship considerations and is not purely capital-driven.
 - **Remediation arcs are public disclosure.** Governance / agency-related remediation disclosures (most notably the recent Sompo remediation arc) affect mid-term-plan messaging and regulatory dialogue. See [[insurance/insurance-agency-and-brokerage-japan|the agency / brokerage Japan landscape]] for the channel context.
 - **MS&AD dual-operating-company model.** MSI and ADI are separate licensed operating companies under the holdings. Group-level reinsurance and capital optimization span both. Comparing big-three "single operating company" combined ratios requires care.
 - **IAIG group supervision.** Group-level ICS reporting applies to designated IAIGs in parallel with domestic ESR — see [[insurance/japan-iaig-ics-mapping|Japan IAIG / ICS mapping]]. The headline domestic capital metric remains ESR.
 - **Specialty alternatives.** [[insurance/lloyds-japan-syndicate-operating-model|The Lloyd's Japan syndicate operating model]] and [[insurance/captive-insurance-japan-market|the captive insurance Japan market]] are alternative routes for specialty risk that interact with the big-three commercial book.
-- **Foreign reinsurer landscape.** [[insurance/foreign-reinsurer-japan-landscape|The foreign-reinsurer Japan landscape]] entry expands the counterparty set on the cession side, including [[JapanFG/munich-re-japan|Munich Re Japan]], [[JapanFG/swiss-re-japan|Swiss Re Japan]], and [[JapanFG/lloyd-japan|Lloyd's Japan]].
+- **Foreign reinsurer landscape.** [[insurance/foreign-reinsurer-japan-landscape|The foreign-reinsurer Japan landscape]] entry expands the counterparty set on the cession side, including [[non-life-insurers/munich-re-japan|Munich Re Japan]], [[non-life-insurers/swiss-re-japan|Swiss Re Japan]], and [[non-life-insurers/lloyd-japan|Lloyd's Japan]].
 - **Underwriting-cycle backdrop.** [[insurance/japan-non-life-underwriting-cycle|The Japan non-life underwriting cycle]] is the rate-cycle backdrop that determines commercial line pricing and combined-ratio direction independent of cat experience.
 
 ## Related
@@ -292,20 +292,20 @@ Use this overlay when reading the non-life big three against each other rather t
 - [[insurance/esr-economic-value-solvency]]
 - [[insurance/japan-iaig-ics-mapping]]
 - [[insurance/insurance-agency-and-brokerage-japan]]
-- [[JapanFG/tokio-marine]]
-- [[JapanFG/tokio-marine-nichido-fire]]
-- [[JapanFG/tokio-marine-asset-management]]
-- [[JapanFG/msad]]
-- [[JapanFG/mitsui-sumitomo-insurance]]
-- [[JapanFG/aioi-nissay-dowa-insurance]]
-- [[JapanFG/sompo]]
-- [[JapanFG/sompo-japan-insurance]]
-- [[JapanFG/japan-earthquake-reinsurance]]
-- [[JapanFG/toa-reinsurance]]
-- [[JapanFG/munich-re-japan]]
-- [[JapanFG/swiss-re-japan]]
-- [[JapanFG/lloyd-japan]]
-- [[JapanFG/legal-financial-licenses/insurance-license-and-solvency]]
+- [[non-life-insurers/tokio-marine]]
+- [[non-life-insurers/tokio-marine-nichido-fire]]
+- [[asset-managers/tokio-marine-asset-management]]
+- [[non-life-insurers/msad]]
+- [[non-life-insurers/mitsui-sumitomo-insurance]]
+- [[non-life-insurers/aioi-nissay-dowa-insurance]]
+- [[non-life-insurers/sompo]]
+- [[non-life-insurers/sompo-japan-insurance]]
+- [[non-life-insurers/japan-earthquake-reinsurance]]
+- [[non-life-insurers/toa-reinsurance]]
+- [[non-life-insurers/munich-re-japan]]
+- [[non-life-insurers/swiss-re-japan]]
+- [[non-life-insurers/lloyd-japan]]
+- [[financial-licenses/insurance-license-and-solvency]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

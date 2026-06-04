@@ -12,18 +12,18 @@ translated_at: 2026-05-30T18:52:47.775Z
 
 ## Overview
 
-日本的主信托 / 托管银行格局是一个双锚点的国内基础设施层：[[JapanFG/master-trust-bank|Master Trust Bank of Japan]] 与 [[JapanFG/custody-bank|Custody Bank of Japan]]。它们不是通常意义上的「投资者」；它们是为养老金、投资信托、保险公司、资产管理公司及机构投资者服务的资产管理银行。
+日本的主信托 / 托管银行格局是一个双锚点的国内基础设施层：[[trust-banks/master-trust-bank|Master Trust Bank of Japan]] 与 [[trust-banks/custody-bank|Custody Bank of Japan]]。它们不是通常意义上的「投资者」；它们是为养老金、投资信托、保险公司、资产管理公司及机构投资者服务的资产管理银行。
 
-请将本页与 [[banking/japan-trust-bank-custody-map|trust-bank custody map]]、[[securities/japan-stock-lending-market-route|stock lending market route]]、[[securities/japan-market-infrastructure-map|market infrastructure map]]、[[JapanFG/bny-mellon-japan|BNY Mellon Japan]] 及 [[JapanFG/state-street-japan|State Street Japan]] 配合使用。
+请将本页与 [[banking/japan-trust-bank-custody-map|trust-bank custody map]]、[[securities/japan-stock-lending-market-route|stock lending market route]]、[[securities/japan-market-infrastructure-map|market infrastructure map]]、[[foreign-financial-institutions/bny-mellon-japan|BNY Mellon Japan]] 及 [[foreign-financial-institutions/state-street-japan|State Street Japan]] 配合使用。
 
 ## Landscape Map
 
 | Institution | Shareholder / group logic | Functional reading |
 |---|---|---|
-| [[JapanFG/master-trust-bank|Master Trust Bank of Japan]] | MUFG 信托 + 主要寿险 / 合作社金融股东。 | 资产管理专业机构及主要的「信托账户」名义人名称。 |
-| [[JapanFG/custody-bank|Custody Bank of Japan]] | 三井住友信托 / 瑞穗 / 与保险公司关联的托管整合路线。 | 资产管理专业机构及主要的「信托账户」名义人名称。 |
-| [[JapanFG/bny-mellon-japan|BNY Mellon Japan]] | 全球托管 / 证券服务集团。 | 全球托管、资产服务及外国投资者桥梁。 |
-| [[JapanFG/state-street-japan|State Street Japan]] | 全球托管 / 资产服务集团。 | 全球托管及机构服务桥梁。 |
+| [[trust-banks/master-trust-bank|Master Trust Bank of Japan]] | MUFG 信托 + 主要寿险 / 合作社金融股东。 | 资产管理专业机构及主要的「信托账户」名义人名称。 |
+| [[trust-banks/custody-bank|Custody Bank of Japan]] | 三井住友信托 / 瑞穗 / 与保险公司关联的托管整合路线。 | 资产管理专业机构及主要的「信托账户」名义人名称。 |
+| [[foreign-financial-institutions/bny-mellon-japan|BNY Mellon Japan]] | 全球托管 / 证券服务集团。 | 全球托管、资产服务及外国投资者桥梁。 |
+| [[foreign-financial-institutions/state-street-japan|State Street Japan]] | 全球托管 / 资产服务集团。 | 全球托管及机构服务桥梁。 |
 | 全能型信托银行 | MUFG 信托、瑞穗信托、SMTB、SMBC 信托。 | 更广泛的信托 / 遗产 / 不动产 / 养老金 / 证券代理职能。 |
 
 ## What They Actually Do
@@ -70,10 +70,10 @@ translated_at: 2026-05-30T18:52:47.775Z
 
 - [[banking/INDEX]]
 - [[banking/japan-trust-bank-custody-map]]
-- [[JapanFG/master-trust-bank]]
-- [[JapanFG/custody-bank]]
-- [[JapanFG/bny-mellon-japan]]
-- [[JapanFG/state-street-japan]]
+- [[trust-banks/master-trust-bank]]
+- [[trust-banks/custody-bank]]
+- [[foreign-financial-institutions/bny-mellon-japan]]
+- [[foreign-financial-institutions/state-street-japan]]
 - [[securities/japan-stock-lending-market-route]]
 - [[securities/japan-short-selling-and-stock-loan-controls]]
 - [[securities/japan-market-infrastructure-map]]

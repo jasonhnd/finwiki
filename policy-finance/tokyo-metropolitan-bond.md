@@ -38,7 +38,7 @@ This page sits under [[policy-finance/INDEX|policy-finance index]] as a case stu
 | Issuance lanes | Public-offering domestic bonds, foreign-currency bonds (intermittent historical issuance), private-placement bank-underwritten bonds |
 | Supervisory route | MIC consultation (協議) for issuance approval; MoF for some classes |
 | Investor base | Banks, life insurers, regional banks, pension funds, retail (in some retail-targeted series) |
-| FinWiki related routes | [[policy-finance/local-government-bond-market]] (market-level), [[policy-finance/japan-finance-organization-municipalities|JFM]] (alternative funding channel), [[JapanFG/local-bond-market]] (entity-cluster view) |
+| FinWiki related routes | [[policy-finance/local-government-bond-market]] (market-level), [[policy-finance/japan-finance-organization-municipalities|JFM]] (alternative funding channel), [[financial-regulators/local-bond-market]] (entity-cluster view) |
 
 ## 2. Why Tokyo Metropolitan Bond is a special case
 
@@ -71,7 +71,7 @@ Within the [[policy-finance/japan-policy-finance-system|Japan policy finance sys
 - A **labelled-bond pioneer** — Tokyo Metropolitan green and sustainability bonds prepared the ground for similar issuance by other prefectures.
 - An **alternative public-credit asset** for institutional investors — Japanese banks, insurers, and pension funds can diversify away from JGBs while staying in high-grade yen public credit.
 
-It pairs naturally with the [[policy-finance/japan-project-finance-stack-diagram|project-finance stack]] for understanding how Japanese institutional investors allocate among JGBs, local bonds, [[JapanFG/jbic|JBIC]] / [[JapanFG/dbj|DBJ]]-related government-guaranteed bonds, and corporate credit. It is also adjacent to the [[money-market/INDEX|money-market]] domain where these bonds serve as collateral.
+It pairs naturally with the [[policy-finance/japan-project-finance-stack-diagram|project-finance stack]] for understanding how Japanese institutional investors allocate among JGBs, local bonds, [[financial-regulators/jbic|JBIC]] / [[financial-regulators/dbj|DBJ]]-related government-guaranteed bonds, and corporate credit. It is also adjacent to the [[money-market/INDEX|money-market]] domain where these bonds serve as collateral.
 
 ## 5. Boundary cases
 
@@ -100,10 +100,10 @@ It pairs naturally with the [[policy-finance/japan-project-finance-stack-diagram
 - [[policy-finance/japan-finance-organization-municipalities]]
 - [[policy-finance/japan-local-bond-association]]
 - [[policy-finance/japan-policy-finance-system]]
-- [[JapanFG/local-bond-market]]
-- [[JapanFG/local-govt-finance]]
-- [[JapanFG/jbic]]
-- [[JapanFG/dbj]]
+- [[financial-regulators/local-bond-market]]
+- [[financial-regulators/local-govt-finance]]
+- [[financial-regulators/jbic]]
+- [[financial-regulators/dbj]]
 - [[money-market/INDEX]]
 - [[INDEX|FinWiki index]]
 

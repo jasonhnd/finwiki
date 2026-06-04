@@ -43,7 +43,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exc
 
 在金融厅的电子结算手段等交易业者登记一览中，SBI VC交易被记载为关东财务局长 第00001号的登记业者，所经办电子结算手段为 USDC。因此该公司不仅是单纯的加密资产交易业者，在解读日本的电子结算手段 / stablecoin 实施时也是 primary route。
 
-Related stablecoin routes: [[fintech/japan-ecisb-license]], [[fintech/japan-stablecoin-regulatory-landscape]], [[fintech/stablecoin-channel-japan-sbi-jpyc-ring]], [[JapanFG/jpyc]], [[JapanFG/progmat]].
+Related stablecoin routes: [[fintech/japan-ecisb-license]], [[fintech/japan-stablecoin-regulatory-landscape]], [[fintech/stablecoin-channel-japan-sbi-jpyc-ring]], [[payment-firms/jpyc]], [[payment-firms/progmat]].
 
 ## 3. 经办币种
 
@@ -117,12 +117,12 @@ Related stablecoin routes: [[fintech/japan-ecisb-license]], [[fintech/japan-stab
 - [[fintech/japan-ecisb-license]] — 电子结算手段等交易业制度解说
 - [[fintech/japan-stablecoin-regulatory-landscape]] — 相关 stablecoin 制度
 - [[fintech/jp-trust-type-sc-architecture]] — 相关 SC 制度
-- [[JapanFG/jpyc]] — 资金移动业者型 JPY stablecoin issuer
-- [[JapanFG/progmat]] — trust-type stablecoin / tokenization platform company anchor
+- [[payment-firms/jpyc]] — 资金移动业者型 JPY stablecoin issuer
+- [[payment-firms/progmat]] — trust-type stablecoin / tokenization platform company anchor
 - [[fintech/stablecoin-channel-japan-sbi-jpyc-ring]] — SBI × JPYC 稳定币渠道
 - [[exchanges/jp-exchange-binance-japan]] — 同业他社 overview（Binance Japan）
 - [[exchanges/jp-exchange-gmo-coin]] — 同业他社 overview（GMO Coin）
-- [[JapanFG/sbi-hd]] — SBI 控股母公司简介
+- [[megabanks/sbi-hd]] — SBI 控股母公司简介
 - [[exchanges/jp-cex-deposit-token-stablecoin-integration]] — JP CEX deposit token / stablecoin integration
 - [[fintech/global-stablecoin-regulatory-five-pole-matrix]] — 全球 stablecoin 监管 5 极比较
 

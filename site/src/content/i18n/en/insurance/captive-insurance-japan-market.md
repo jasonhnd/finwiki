@@ -17,7 +17,7 @@ This page maps that Japan-specific gap, lists known and inferred Japanese-group 
 
 ## Wiki route
 
-This entry sits under [[insurance/INDEX|insurance index]]. Read it against [[insurance/japan-nonlife-big-three|Japan non-life big three]] for the commercial insurer alternative, [[insurance/foreign-reinsurer-japan-landscape|foreign reinsurer Japan landscape]] for the related risk-transfer market, [[insurance/lloyds-japan-syndicate-operating-model|Lloyd's Japan syndicate operating model]] for specialty-risk parallels, [[insurance/marine-insurance-and-pi-cover-market|marine insurance and P&I cover market]] for the shipping-captive crossover, [[insurance/global-solvency-framework-comparison-matrix|global solvency framework comparison matrix]] for the offshore regulators' parent capital regimes, [[insurance/natcat-reinsurance-japan|nat-cat reinsurance in Japan]] for how captives interact with cat cession. The license-route framing sits in [[JapanFG/legal-financial-licenses/insurance-license-and-solvency|insurance license and solvency]], and the registry pivot is [[JapanFG/nonlife-insurer-registry-japan-index|Japan non-life insurer registry index]].
+This entry sits under [[insurance/INDEX|insurance index]]. Read it against [[insurance/japan-nonlife-big-three|Japan non-life big three]] for the commercial insurer alternative, [[insurance/foreign-reinsurer-japan-landscape|foreign reinsurer Japan landscape]] for the related risk-transfer market, [[insurance/lloyds-japan-syndicate-operating-model|Lloyd's Japan syndicate operating model]] for specialty-risk parallels, [[insurance/marine-insurance-and-pi-cover-market|marine insurance and P&I cover market]] for the shipping-captive crossover, [[insurance/global-solvency-framework-comparison-matrix|global solvency framework comparison matrix]] for the offshore regulators' parent capital regimes, [[insurance/natcat-reinsurance-japan|nat-cat reinsurance in Japan]] for how captives interact with cat cession. The license-route framing sits in [[financial-licenses/insurance-license-and-solvency|insurance license and solvency]], and the registry pivot is [[non-life-insurers/nonlife-insurer-registry-japan-index|Japan non-life insurer registry index]].
 
 ## 1. What a captive is, and why corporates form one
 
@@ -82,7 +82,7 @@ Two related but distinct captive structures are sometimes confused:
 
 ## 9. Comparison: captive vs commercial insurer vs reinsurer
 
-| Dimension | Commercial insurer (e.g., [[JapanFG/tokio-marine-nichido-fire|Tokio Marine & Nichido Fire]]) | Single-parent captive (offshore) | Reinsurer (e.g., [[JapanFG/munich-re-japan|Munich Re Japan]]) |
+| Dimension | Commercial insurer (e.g., [[non-life-insurers/tokio-marine-nichido-fire|Tokio Marine & Nichido Fire]]) | Single-parent captive (offshore) | Reinsurer (e.g., [[non-life-insurers/munich-re-japan|Munich Re Japan]]) |
 |---|---|---|---|
 | Who is insured | Third-party policyholders | Parent group only | Other insurers (cedents) |
 | Risk distribution | Many unrelated insureds | One parent + affiliates | Many cedents |
@@ -104,17 +104,17 @@ Use this page when asking:
 - [[insurance/economic-value-based-solvency]]
 - [[insurance/global-solvency-framework-comparison-matrix]]
 - [[insurance/insurance-agency-and-brokerage-japan]]
-- [[JapanFG/nonlife-insurer-registry-japan-index]]
-- [[JapanFG/tokio-marine-nichido-fire]]
-- [[JapanFG/mitsui-sumitomo-insurance]]
-- [[JapanFG/aioi-nissay-dowa-insurance]]
-- [[JapanFG/sompo-japan-insurance]]
-- [[JapanFG/lloyd-japan]]
-- [[JapanFG/munich-re-japan]]
-- [[JapanFG/swiss-re-japan]]
-- [[JapanFG/hannover-re-japan]]
-- [[JapanFG/japan-pi-club]]
-- [[JapanFG/legal-financial-licenses/insurance-license-and-solvency]]
+- [[non-life-insurers/nonlife-insurer-registry-japan-index]]
+- [[non-life-insurers/tokio-marine-nichido-fire]]
+- [[non-life-insurers/mitsui-sumitomo-insurance]]
+- [[non-life-insurers/aioi-nissay-dowa-insurance]]
+- [[non-life-insurers/sompo-japan-insurance]]
+- [[non-life-insurers/lloyd-japan]]
+- [[non-life-insurers/munich-re-japan]]
+- [[non-life-insurers/swiss-re-japan]]
+- [[non-life-insurers/hannover-re-japan]]
+- [[financial-regulators/japan-pi-club]]
+- [[financial-licenses/insurance-license-and-solvency]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

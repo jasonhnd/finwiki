@@ -40,7 +40,7 @@ This entire structure is simultaneously lawful under GENIUS §501  + MiCA Title 
 
 ## Origin & evolution
 
-Before 2024 年 = on-chain FX unachievable (USDC dominant). 2024 : [[fintech/mica-overview|MiCA]] Title IV takes effect + EURC circulation rises + SocGen / Lugh listings = multi-issuer structure on the euro side takes shape. 2025 : [[JapanFG/jpyc|JPYC]] becomes the first JPY stablecoin under Japan PSA's new framework. 2026.05 : Triangle arbitrage goes live on DEX for the first time = legal hack moves from theory to product.
+Before 2024 年 = on-chain FX unachievable (USDC dominant). 2024 : [[fintech/mica-overview|MiCA]] Title IV takes effect + EURC circulation rises + SocGen / Lugh listings = multi-issuer structure on the euro side takes shape. 2025 : [[payment-firms/jpyc|JPYC]] becomes the first JPY stablecoin under Japan PSA's new framework. 2026.05 : Triangle arbitrage goes live on DEX for the first time = legal hack moves from theory to product.
 
 ## Related
 <!-- wiki-links:managed -->

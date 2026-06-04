@@ -59,9 +59,9 @@ METI 的常见问题解答强调了对 FinWiki 分析至关重要的三项运营
 
 ## JapanFG 相关性
 
-- [[JapanFG/gmo-payment-gateway|GMO Payment Gateway]]是最清晰的上市PSP/商户收单基础设施路线。
-- [[JapanFG/jcb|JCB]] 连接卡网络、发卡、收单、日本国内卡轨。
-- [[JapanFG/paypay-fg|PayPay FG]]、[[JapanFG/rakuten-fg|Rakuten FG]] 和 AEON 相关卡业务将卡收单和发卡经济作为更广泛的零售金融生态系统的一部分。
+- [[payment-firms/gmo-payment-gateway|GMO Payment Gateway]]是最清晰的上市PSP/商户收单基础设施路线。
+- [[card-issuers/jcb|JCB]] 连接卡网络、发卡、收单、日本国内卡轨。
+- [[megabanks/paypay-fg|PayPay FG]]、[[payment-firms/rakuten-fg|Rakuten FG]] 和 AEON 相关卡业务将卡收单和发卡经济作为更广泛的零售金融生态系统的一部分。
 - 当卡接受、PSP 注册、PCI DSS 或商家合同责任成为决定性问题时，[[payments/cashless-jp-landscape|Japan cashless payment landscape]] 应使用此页面。
 
 ## 相关
@@ -69,9 +69,9 @@ METI 的常见问题解答强调了对 FinWiki 分析至关重要的三项运营
 - [[payments/INDEX|payments INDEX]]
 - [[payments/cashless-jp-landscape]]
 - [[payments/funds-transfer-vs-prepaid-boundary]]
-- [[JapanFG/gmo-payment-gateway]]
-- [[JapanFG/jcb]]
-- [[JapanFG/legal-financial-licenses/INDEX]]
+- [[payment-firms/gmo-payment-gateway]]
+- [[card-issuers/jcb]]
+- [[financial-licenses/INDEX]]
 - [[INDEX|FinWiki index]]
 
 ## 来源

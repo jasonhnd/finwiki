@@ -1,0 +1,109 @@
+{
+  "schema_version": "1.0",
+  "slug": "cooperative-banks/sendai-shinkin",
+  "source_path": "cooperative-banks/sendai-shinkin.md",
+  "url": "https://finwiki.zksc.io/cooperative-banks/sendai-shinkin",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/cooperative-banks/sendai-shinkin.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/cooperative-banks/sendai-shinkin.md",
+  "domain": "cooperative-banks",
+  "title": "杜の都信用金庫 (Sendai-area / Tohoku leader shinkin)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "杜の都信用金庫 (旧 仙台信用金庫 + 杜陵信用金庫 等の系譜)",
+    "aliases": [
+      "cooperative-banks/sendai-shinkin",
+      "sendai-shinkin",
+      "Sendai Shinkin Bank",
+      "杜の都信用金庫",
+      "Morinomiyako Shinkin Bank",
+      "杜の都信金",
+      "もりしん",
+      "信金"
+    ],
+    "domain": "cooperative-banks",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "shinkin",
+      "cooperative-banking",
+      "miyagi",
+      "tohoku",
+      "operating-company"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.morisin.co.jp/",
+      "https://www.shinkin.org/",
+      "https://www.fsa.go.jp/menkyo/menkyoj/shinkin.xlsx",
+      "https://www.shinkin-central-bank.jp/"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 七十七銀行（仙台地銀メインプレイヤー）and 仙台銀行（第二地銀）for the Miyagi commercial-bank counterparts, against 札幌信用金庫 for the parallel north-Japan city-anchor shinkin, and against Japan shinkin bank registry for the broader 254-shinkin system maintained by 信金中央金庫 and repr",
+  "headings": [
+    "杜の都信用金庫 (Sendai-area / Tohoku leader shinkin)",
+    "Wiki route",
+    "TL;DR",
+    "1. License / group boundary",
+    "2. Operating model",
+    "3. 系統内位置（Systemic position）",
+    "4. Why this page matters",
+    "5. 関連 / 地域論点",
+    "東日本大震災・復興後経済との結びつき",
+    "東北地区信用金庫業界の構造"
+  ],
+  "body_links": {
+    "wikilinks_count": 18,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "banking/INDEX",
+      "banking/cooperative-banking-japan",
+      "banking/japan-cooperative-banking-unified-federation-matrix",
+      "banking/japan-disaster-finance-framework",
+      "banking/shinkin-bank-registry-japan",
+      "cooperative-banks/ja-zenchu",
+      "cooperative-banks/kitakyushu-shinkin",
+      "cooperative-banks/nagoya-shinkin",
+      "cooperative-banks/norinchukin",
+      "cooperative-banks/sapporo-shinkin",
+      "cooperative-banks/shinkin-central",
+      "cooperative-banks/shinkin-network-services",
+      "financial-regulators/yokin-hoken-kiko",
+      "financial-regulators/zenshin-kyo",
+      "regional-banks/77-bank",
+      "regional-banks/kirayaka-bank",
+      "regional-banks/sendai-bank"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/banking/cooperative-banking-japan",
+      "https://finwiki.zksc.io/banking/japan-cooperative-banking-unified-federation-matrix",
+      "https://finwiki.zksc.io/banking/japan-disaster-finance-framework",
+      "https://finwiki.zksc.io/banking/shinkin-bank-registry-japan",
+      "https://finwiki.zksc.io/cooperative-banks/ja-zenchu",
+      "https://finwiki.zksc.io/cooperative-banks/kitakyushu-shinkin",
+      "https://finwiki.zksc.io/cooperative-banks/nagoya-shinkin",
+      "https://finwiki.zksc.io/cooperative-banks/norinchukin",
+      "https://finwiki.zksc.io/cooperative-banks/sapporo-shinkin",
+      "https://finwiki.zksc.io/cooperative-banks/shinkin-central",
+      "https://finwiki.zksc.io/cooperative-banks/shinkin-network-services",
+      "https://finwiki.zksc.io/financial-regulators/yokin-hoken-kiko",
+      "https://finwiki.zksc.io/financial-regulators/zenshin-kyo",
+      "https://finwiki.zksc.io/regional-banks/77-bank",
+      "https://finwiki.zksc.io/regional-banks/kirayaka-bank",
+      "https://finwiki.zksc.io/regional-banks/sendai-bank"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 4769,
+    "word_like_tokens": 666,
+    "inbound_wikilinks_count": 5,
+    "last_modified": "2026-06-04"
+  }
+}

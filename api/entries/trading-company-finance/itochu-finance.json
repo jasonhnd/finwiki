@@ -1,0 +1,109 @@
+{
+  "schema_version": "1.0",
+  "slug": "trading-company-finance/itochu-finance",
+  "source_path": "trading-company-finance/itochu-finance.md",
+  "url": "https://finwiki.zksc.io/trading-company-finance/itochu-finance",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/trading-company-finance/itochu-finance.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/trading-company-finance/itochu-finance.md",
+  "domain": "trading-company-finance",
+  "title": "伊藤忠ファイナンス (ITOCHU Finance Corporation)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "伊藤忠ファイナンス (ITOCHU Finance Corporation)",
+    "aliases": [
+      "ITOCHU Finance",
+      "ITOCHU Finance Corporation",
+      "伊藤忠ファイナンス",
+      "伊藤忠ファイナンス株式会社",
+      "ICF",
+      "itochu-finance",
+      "itochu-finance-corp"
+    ],
+    "domain": "trading-company-finance",
+    "created": "2026-05-24",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
+    "review_by": "2026-11-20",
+    "confidence": "possible",
+    "tags": [
+      "JapanFG",
+      "finance",
+      "trading-company-finance",
+      "itochu",
+      "group-treasury",
+      "factoring",
+      "cms"
+    ],
+    "status": "active",
+    "sources": [
+      "伊藤忠商事 (8001) 有価証券報告書 (関係会社一覧)",
+      "伊藤忠商事 公式 IR / 統合報告書",
+      "公益社団法人リース事業協会 (JLA) https://www.leasing.or.jp/",
+      "EDINET 有価証券報告書検索"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 東京センチュリー (the same-parent 外向けリース・asset finance platform — 伊藤忠 + みずほ FG の 2 軸株主構造、上場 8439) and 三菱商事フィナンシャルサービス (the closest peer 商社系 group-treasury arm). For the broader peer set, see 三井物産FS, 丸紅フィナンス, 住友商事FM. See banking index for the broader regul",
+  "headings": [
+    "伊藤忠ファイナンス (ITOCHU Finance Corporation)",
+    "Wiki route",
+    "1. 会社概要",
+    "伊藤忠系金融機能の構造",
+    "2. 事業セグメント・マップ",
+    "伊藤忠商事の事業構造との関係",
+    "競合 / Peer",
+    "4. 規制・政策",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 18,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "banking/INDEX",
+      "cooperative-banks/ja-mitsui-leasing",
+      "finance/japan-acquisition-finance",
+      "financial-regulators/boj-monetary-policy",
+      "leasing-firms/mitsubishi-hc-capital",
+      "leasing-firms/mizuho-lease",
+      "leasing-firms/smfl",
+      "leasing-firms/tokyo-century",
+      "megabanks/mizuho-fg",
+      "megabanks/mufg",
+      "payment-firms/famima-digital-one",
+      "trading-company-finance/marubeni-financial-services",
+      "trading-company-finance/mitsubishi-corp-finance",
+      "trading-company-finance/mitsui-bussan-financial-services",
+      "trading-company-finance/sojitz-finance",
+      "trading-company-finance/sumitomo-corp-financial-management",
+      "trading-company-finance/toyota-tsusho-finance"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/cooperative-banks/ja-mitsui-leasing",
+      "https://finwiki.zksc.io/finance/japan-acquisition-finance",
+      "https://finwiki.zksc.io/financial-regulators/boj-monetary-policy",
+      "https://finwiki.zksc.io/leasing-firms/mitsubishi-hc-capital",
+      "https://finwiki.zksc.io/leasing-firms/mizuho-lease",
+      "https://finwiki.zksc.io/leasing-firms/smfl",
+      "https://finwiki.zksc.io/leasing-firms/tokyo-century",
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/payment-firms/famima-digital-one",
+      "https://finwiki.zksc.io/trading-company-finance/marubeni-financial-services",
+      "https://finwiki.zksc.io/trading-company-finance/mitsubishi-corp-finance",
+      "https://finwiki.zksc.io/trading-company-finance/mitsui-bussan-financial-services",
+      "https://finwiki.zksc.io/trading-company-finance/sojitz-finance",
+      "https://finwiki.zksc.io/trading-company-finance/sumitomo-corp-financial-management",
+      "https://finwiki.zksc.io/trading-company-finance/toyota-tsusho-finance"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3874,
+    "word_like_tokens": 556,
+    "inbound_wikilinks_count": 12,
+    "last_modified": "2026-06-04"
+  }
+}

@@ -12,7 +12,7 @@ translated_at: 2026-05-31T03:19:56.358Z
 
 ## Wiki route
 
-This entry sits under [[banking/INDEX|banking index]] as the operating-profile companion to the entity anchor at [[JapanFG/sony-bank|ソニー銀行 (Sony Bank) entity anchor]]. Read it inside the net-bank-segment map at [[banking/japan-net-bank-competition-map|Japan net bank competition map]], with the parent-group context at [[JapanFG/sony-fg|Sony Financial Group]], and against peers [[banking/rakuten-bank|Rakuten Bank]] · [[banking/paypay-bank|PayPay Bank]] · [[banking/au-jibun-bank|au Jibun Bank]] · [[JapanFG/ssnb|住信SBIネット銀行 / NEOBANK]] · [[banking/daiwa-next-bank|Daiwa Next Bank]] for ecosystem and securities-adjacent positioning. For license boundary, route through [[banking/japan-banking-license-tier-comparison-matrix|Japan banking license tier comparison matrix]] and [[JapanFG/legal-financial-licenses/bank-license-and-baas-boundary|bank license / BaaS boundary]].
+This entry sits under [[banking/INDEX|banking index]] as the operating-profile companion to the entity anchor at [[regional-banks/sony-bank|ソニー銀行 (Sony Bank) entity anchor]]. Read it inside the net-bank-segment map at [[banking/japan-net-bank-competition-map|Japan net bank competition map]], with the parent-group context at [[megabanks/sony-fg|Sony Financial Group]], and against peers [[banking/rakuten-bank|Rakuten Bank]] · [[banking/paypay-bank|PayPay Bank]] · [[banking/au-jibun-bank|au Jibun Bank]] · [[regional-banks/ssnb|住信SBIネット銀行 / NEOBANK]] · [[banking/daiwa-next-bank|Daiwa Next Bank]] for ecosystem and securities-adjacent positioning. For license boundary, route through [[banking/japan-banking-license-tier-comparison-matrix|Japan banking license tier comparison matrix]] and [[financial-licenses/bank-license-and-baas-boundary|bank license / BaaS boundary]].
 
 ## 1. 主体与所有权
 
@@ -22,7 +22,7 @@ This entry sits under [[banking/INDEX|banking index]] as the operating-profile c
 | 英文名称 | Sony Bank Incorporated |
 | 设立 | 2001-04 (日本首批互联网银行之一) |
 | 银行牌照类别 | 普通銀行 (銀行法下的普通银行),归入 FSA「その他の銀行」 |
-| 母公司 | [[JapanFG/sony-fg|Sony Financial Group]] (100%) |
+| 母公司 | [[megabanks/sony-fg|Sony Financial Group]] (100%) |
 | 最终母公司 | Sony Group Corporation (东证 6758) — Sony FG 经由 2020 TOB 被重新收购;Sony FG 经由日本首例部分分拆 (partial spin-off) 于 2025-09-29 在东证 Prime 重新上市 (Sony Group 保留约 20%,>80% 以实物方式分配给股东) |
 | 总部 | 东京 |
 | 面向客户的品牌 | **MoneyKit** (在线服务品牌,moneykit.net) |
@@ -35,8 +35,8 @@ This entry sits under [[banking/INDEX|banking index]] as the operating-profile c
 Sony Group Corporation (东证 6758, 最终母公司)
   └── Sony Financial Group (经由 TOB 于 2020 重新并表;经由部分分拆于 2025-09-29 在东证 Prime 重新上市,Sony Group 保留约 20%)
         ├── Sony Bank Incorporated (本页所述条目)
-        ├── [[JapanFG/sony-life|Sony Life Insurance]]
-        ├── [[JapanFG/sony-insurance|Sony Insurance (P&C)]]
+        ├── [[life-insurers/sony-life|Sony Life Insurance]]
+        ├── [[non-life-insurers/sony-insurance|Sony Insurance (P&C)]]
         └── 其他金融子公司
 ```
 
@@ -58,7 +58,7 @@ Sony FG 此前曾上市;2020 Sony Group 发起 TOB,将 Sony FG 私有化。2025-
 
 ### 投资产品分销
 
-MoneyKit 平台分销 投信 (投资信托),并支持证券账户的邻接业务。相较于 [[JapanFG/ssnb|SSNB]] 与 [[JapanFG/sbi-securities|SBI Securities]] 的深度关联,或 [[banking/au-jibun-bank|au Jibun Bank]] 与 [[JapanFG/au-kabucom-securities|au Kabucom]] 的关联,索尼银行的证券关联相对偏薄 —— 但其外汇强项与 外貨投信 分销形成互补。
+MoneyKit 平台分销 投信 (投资信托),并支持证券账户的邻接业务。相较于 [[regional-banks/ssnb|SSNB]] 与 [[securities-firms/sbi-securities|SBI Securities]] 的深度关联,或 [[banking/au-jibun-bank|au Jibun Bank]] 与 [[securities-firms/au-kabucom-securities|au Kabucom]] 的关联,索尼银行的证券关联相对偏薄 —— 但其外汇强项与 外貨投信 分销形成互补。
 
 ### 卡与支付邻接业务
 
@@ -121,12 +121,12 @@ MoneyKit 平台分销 投信 (投资信托),并支持证券账户的邻接业务
 - [[banking/rakuten-bank]] · [[banking/paypay-bank]] · [[banking/au-jibun-bank]]
 - [[banking/daiwa-next-bank]]
 - [[banking/quick-deposit-four-methods]]
-- [[JapanFG/sony-bank]]
-- [[JapanFG/sony-fg]]
-- [[JapanFG/sony-life]]
-- [[JapanFG/sony-insurance]]
-- [[JapanFG/ssnb]]
-- [[JapanFG/legal-financial-licenses/bank-license-and-baas-boundary]]
+- [[regional-banks/sony-bank]]
+- [[megabanks/sony-fg]]
+- [[life-insurers/sony-life]]
+- [[non-life-insurers/sony-insurance]]
+- [[regional-banks/ssnb]]
+- [[financial-licenses/bank-license-and-baas-boundary]]
 - [[fintech/japan-stablecoin-regulatory-landscape]]
 
 ## Sources

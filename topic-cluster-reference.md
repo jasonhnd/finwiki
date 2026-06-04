@@ -131,7 +131,7 @@ This cluster covers the entire Japan capital-markets stack:
 **Primary domain:** `JapanFG/`, secondary in `banking/`.
 
 - Branch / agency / adjacent-license registry (57 / 57 standalone routes per [[INDEX]]).
-- Foreign IB anchors: [[JapanFG/jpmorgan-japan]], `goldman-sachs-japan`, `morgan-stanley-japan`, `citigroup-japan`, `barclays-japan`, etc.
+- Foreign IB anchors: [[foreign-financial-institutions/jpmorgan-japan]], `goldman-sachs-japan`, `morgan-stanley-japan`, `citigroup-japan`, `barclays-japan`, etc.
 - System / regulatory frame: [[banking/foreign-bank-japan-retreat|foreign bank Japan retreat]] and [[banking/japan-foreign-bank-retreat-refocus-timeline-matrix|retreat / refocus timeline matrix]].
 - Comparison surface: [[banking/japan-banking-license-tier-comparison-matrix|banking license tier comparison]].
 

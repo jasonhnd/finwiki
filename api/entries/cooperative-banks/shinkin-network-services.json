@@ -1,0 +1,107 @@
+{
+  "schema_version": "1.0",
+  "slug": "cooperative-banks/shinkin-network-services",
+  "source_path": "cooperative-banks/shinkin-network-services.md",
+  "url": "https://finwiki.zksc.io/cooperative-banks/shinkin-network-services",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/cooperative-banks/shinkin-network-services.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/cooperative-banks/shinkin-network-services.md",
+  "domain": "cooperative-banks",
+  "title": "Shinkin Network Services (信金ネットワークサービス)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Shinkin Network Services (信金ネットワークサービス)",
+    "aliases": [
+      "cooperative-banks/shinkin-network-services",
+      "shinkin-network-services",
+      "信金ネットワークサービス",
+      "SNS",
+      "Shinkin Network Services Co., Ltd.",
+      "信金 ATM ネットワーク",
+      "信金共同センター",
+      "banking/atm-network-japan"
+    ],
+    "domain": "cooperative-banks",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "shinkin",
+      "cooperative-banking",
+      "infrastructure",
+      "atm",
+      "system-shared",
+      "operating-company"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.shinkin.org/",
+      "https://www.shinkin-central-bank.jp/",
+      "https://www.shinkin.co.jp/network/",
+      "https://www.fsa.go.jp/menkyo/menkyoj/shinkin.xlsx",
+      "https://www.shinkin.org/zenshinkyo/about/"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 信金中央金庫 for the operational central-bank counterpart that anchors the shinkin system, against 全国信用金庫協会 for the industry-body / policy layer, and against Japan shinkin bank registry for the full member-population route. The cooperative-system compar",
+  "headings": [
+    "Shinkin Network Services (信金ネットワークサービス)",
+    "Wiki route",
+    "TL;DR",
+    "1. Legal / group boundary",
+    "2. 業務の内容",
+    "3. 戦略的位置付け（Why this entity matters）",
+    "協同組織金融機関の規模の経済問題",
+    "メガバンク / 地銀との対比",
+    "信金中金 との分業",
+    "全信協 との分業"
+  ],
+  "body_links": {
+    "wikilinks_count": 16,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "banking/INDEX",
+      "banking/atm-network-japan",
+      "banking/cooperative-banking-japan",
+      "banking/japan-cooperative-banking-unified-federation-matrix",
+      "banking/shinkin-bank-registry-japan",
+      "banking/zengin-network",
+      "cooperative-banks/jonan-shinkin",
+      "cooperative-banks/kyoto-chuo-shinkin",
+      "cooperative-banks/osaka-shinkin",
+      "cooperative-banks/shinkin-central",
+      "cooperative-banks/yokohama-shinkin",
+      "financial-regulators/zenshin-kyo",
+      "mizuho-fg",
+      "mufg",
+      "smfg"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/banking/atm-network-japan",
+      "https://finwiki.zksc.io/banking/cooperative-banking-japan",
+      "https://finwiki.zksc.io/banking/japan-cooperative-banking-unified-federation-matrix",
+      "https://finwiki.zksc.io/banking/shinkin-bank-registry-japan",
+      "https://finwiki.zksc.io/banking/zengin-network",
+      "https://finwiki.zksc.io/cooperative-banks/jonan-shinkin",
+      "https://finwiki.zksc.io/cooperative-banks/kyoto-chuo-shinkin",
+      "https://finwiki.zksc.io/cooperative-banks/osaka-shinkin",
+      "https://finwiki.zksc.io/cooperative-banks/shinkin-central",
+      "https://finwiki.zksc.io/cooperative-banks/yokohama-shinkin",
+      "https://finwiki.zksc.io/financial-regulators/zenshin-kyo",
+      "https://finwiki.zksc.io/mizuho-fg",
+      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/smfg"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 5323,
+    "word_like_tokens": 715,
+    "inbound_wikilinks_count": 6,
+    "last_modified": "2026-06-04"
+  }
+}

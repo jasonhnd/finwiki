@@ -27,11 +27,11 @@ sources:
 
 ## TL;DR
 
-NPL (non-performing loan) securitisation in Japan was the structural mechanism that processed the massive bad-debt overhang of the post-1997 banking crisis: failing banks transferred problem loans to the **Resolution and Collection Corporation ([[JapanFG/rcc|RCC]])**, which then sold pools of loans (often via [[structured-finance/spv-tk-gk-vehicle-japan-tax|TK / GK SPV]] securitisations) to a small set of foreign distressed-debt buyers — **Cerberus, Lone Star, Goldman Sachs, Apollo**, plus several smaller specialists — that built large Japan distressed-debt franchises in the late-1990s to mid-2000s. The structure: NPL pool → SPV → senior tranche sold to leveraged investors, junior tranche / equity retained by the distressed-debt sponsor as the return engine. After 2005 the deal flow collapsed as banks finished restructuring and NPL ratios fell to ~1%. A modest new cycle emerged post-2020 from small-business COVID-related distress and from regional-bank restructuring, but the scale is a fraction of the post-1997 wave. The era left a permanent infrastructure of Japanese distressed-debt servicers and a Tokyo legal / advisor ecosystem.
+NPL (non-performing loan) securitisation in Japan was the structural mechanism that processed the massive bad-debt overhang of the post-1997 banking crisis: failing banks transferred problem loans to the **Resolution and Collection Corporation ([[financial-regulators/rcc|RCC]])**, which then sold pools of loans (often via [[structured-finance/spv-tk-gk-vehicle-japan-tax|TK / GK SPV]] securitisations) to a small set of foreign distressed-debt buyers — **Cerberus, Lone Star, Goldman Sachs, Apollo**, plus several smaller specialists — that built large Japan distressed-debt franchises in the late-1990s to mid-2000s. The structure: NPL pool → SPV → senior tranche sold to leveraged investors, junior tranche / equity retained by the distressed-debt sponsor as the return engine. After 2005 the deal flow collapsed as banks finished restructuring and NPL ratios fell to ~1%. A modest new cycle emerged post-2020 from small-business COVID-related distress and from regional-bank restructuring, but the scale is a fraction of the post-1997 wave. The era left a permanent infrastructure of Japanese distressed-debt servicers and a Tokyo legal / advisor ecosystem.
 
 ## Wiki route
 
-This entry sits under [[structured-finance/INDEX|structured-finance index]] as the **distressed-credit securitisation** node. Read against [[structured-finance/japan-abs-market-overview|Japan ABS market overview]] for the performing-loan securitisation market, [[structured-finance/spv-tk-gk-vehicle-japan-tax|TK / GK SPV vehicle]] for the legal structure used, [[structured-finance/credit-rating-methodology-jcr-r-and-i|JCR / R&I methodology]] for rating treatment, and [[real-estate-finance/INDEX|real-estate-finance index]] for the real-estate-collateral overlap. System frame: [[finance/INDEX|finance index]] for broader credit-cycle context, and [[JapanFG/rcc|RCC]] for the public-sector resolution vehicle.
+This entry sits under [[structured-finance/INDEX|structured-finance index]] as the **distressed-credit securitisation** node. Read against [[structured-finance/japan-abs-market-overview|Japan ABS market overview]] for the performing-loan securitisation market, [[structured-finance/spv-tk-gk-vehicle-japan-tax|TK / GK SPV vehicle]] for the legal structure used, [[structured-finance/credit-rating-methodology-jcr-r-and-i|JCR / R&I methodology]] for rating treatment, and [[real-estate-finance/INDEX|real-estate-finance index]] for the real-estate-collateral overlap. System frame: [[finance/INDEX|finance index]] for broader credit-cycle context, and [[financial-regulators/rcc|RCC]] for the public-sector resolution vehicle.
 
 ## 1. Post-1997 NPL crisis — the setup
 
@@ -45,7 +45,7 @@ NPL disposal at this scale required market infrastructure that did not exist in 
 
 ## 2. RCC's role
 
-[[JapanFG/rcc|RCC (Resolution and Collection Corporation)]] was established as the public asset-management company that:
+[[financial-regulators/rcc|RCC (Resolution and Collection Corporation)]] was established as the public asset-management company that:
 - Received NPLs from failed financial institutions
 - Purchased NPLs from solvent banks (especially under the 2003+ acceleration programme)
 - Disposed of the loans via auction, direct sale, or securitisation
@@ -125,7 +125,7 @@ COVID-19 disrupted small-business cash flow, particularly in:
 - Small-and-medium-enterprise (SME) services
 - Regional retail / commercial real-estate
 
-The Japanese government's policy response (including [[policy-finance/INDEX|policy-finance]] facilities from [[JapanFG/jbic|JBIC]] and the JFC, plus extended commercial-bank loan forbearance) prevented the kind of immediate NPL spike seen in some other jurisdictions. However:
+The Japanese government's policy response (including [[policy-finance/INDEX|policy-finance]] facilities from [[financial-regulators/jbic|JBIC]] and the JFC, plus extended commercial-bank loan forbearance) prevented the kind of immediate NPL spike seen in some other jurisdictions. However:
 - A residual stock of weakly-performing SME loans accumulated through 2022–2024
 - Regional banks have begun selectively disposing problem loans
 - Distressed-debt buyers (a mix of returning foreign names and Japanese specialists) have resumed selective acquisitions
@@ -159,7 +159,7 @@ NPL securitisation is structurally a **distressed-credit private fund wrapped in
 
 ## 9. Counterpoints
 
-- **"Distressed-debt buyers extracted excess value at public expense"** — The pricing of [[JapanFG/rcc|RCC]] pool sales was contested at the time; some critics argued public-sector pricing favoured the foreign buyers and that more value should have remained on Japanese books
+- **"Distressed-debt buyers extracted excess value at public expense"** — The pricing of [[financial-regulators/rcc|RCC]] pool sales was contested at the time; some critics argued public-sector pricing favoured the foreign buyers and that more value should have remained on Japanese books
 - **"NPL definition arbitrage"** — Japanese banks for years debated whether to use the strict regulatory NPL definition or a less-strict economic definition; the public stock of "NPLs" was sensitive to definitional choices
 - **"Servicer-quality determinant"** — The IRR outcomes of NPL pools varied massively based on servicer quality; many of the post-1997 cycle's best returns went to sponsors with the strongest servicer platforms (often built or acquired specifically for the strategy)
 - **"Tax-driven structuring"** — Some structures emphasised TK / GK tax efficiency over economic alignment; tax authorities later tightened rules in ways that reduced the appeal of certain SPV structures
@@ -167,8 +167,8 @@ NPL securitisation is structurally a **distressed-credit private fund wrapped in
 
 ## 10. Open questions
 
-- Whether [[JapanFG/boj|BOJ]] rate normalisation will accelerate SME loan defaults and generate a more material new NPL cycle
-- The role of [[JapanFG/rcc|RCC]] in the next cycle — whether it is reactivated as a primary disposal channel or remains in caretaker mode
+- Whether [[financial-regulators/boj|BOJ]] rate normalisation will accelerate SME loan defaults and generate a more material new NPL cycle
+- The role of [[financial-regulators/rcc|RCC]] in the next cycle — whether it is reactivated as a primary disposal channel or remains in caretaker mode
 - Whether Japanese-domestic distressed-debt funds (developing through the 2010s and 2020s) will displace foreign sponsors in the next cycle
 - The interaction between NPL securitisation and the [[real-estate-finance/INDEX|real-estate-finance]] market — regional commercial-real-estate distress could drive joint NPL / CMBS workout
 - Whether [[finance/japan-leveraged-buyout-economics|LBO]]-related credit stress generates a distinct distressed-LBO sub-market
@@ -182,7 +182,7 @@ NPL securitisation is structurally a **distressed-credit private fund wrapped in
 - [[real-estate-finance/INDEX|real-estate-finance index]]
 - [[finance/INDEX|finance index]] · [[finance/japan-leveraged-buyout-economics|Japan LBO economics]]
 - [[derivatives/japan-cds-market-overview|Japan CDS market overview]]
-- [[JapanFG/rcc|RCC]] · [[JapanFG/mufg|MUFG]] · [[JapanFG/smfg|SMFG]] · [[JapanFG/mizuho-fg|Mizuho FG]]
+- [[financial-regulators/rcc|RCC]] · [[megabanks/mufg|MUFG]] · [[megabanks/smfg|SMFG]] · [[megabanks/mizuho-fg|Mizuho FG]]
 - [[policy-finance/japan-project-finance-stack-diagram|Japan project finance stack]]
 
 ## Sources

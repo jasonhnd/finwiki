@@ -55,25 +55,25 @@
     "wikilinks_count": 10,
     "wikilinks": [
       "INDEX",
-      "JapanFG/lawson-bank",
-      "JapanFG/legal-financial-licenses/INDEX",
-      "JapanFG/paypay-fg",
-      "JapanFG/rakuten-fg",
-      "JapanFG/seven-bank",
+      "financial-licenses/INDEX",
       "loyalty/japan-points-landscape",
+      "megabanks/paypay-fg",
+      "payment-firms/rakuten-fg",
       "payments/cashless-jp-landscape",
+      "regional-banks/lawson-bank",
+      "regional-banks/seven-bank",
       "retail/INDEX",
       "retail/aeon-group"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/lawson-bank",
-      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX",
-      "https://finwiki.zksc.io/JapanFG/paypay-fg",
-      "https://finwiki.zksc.io/JapanFG/rakuten-fg",
-      "https://finwiki.zksc.io/JapanFG/seven-bank",
+      "https://finwiki.zksc.io/financial-licenses/INDEX",
       "https://finwiki.zksc.io/loyalty/japan-points-landscape",
+      "https://finwiki.zksc.io/megabanks/paypay-fg",
+      "https://finwiki.zksc.io/payment-firms/rakuten-fg",
       "https://finwiki.zksc.io/payments/cashless-jp-landscape",
+      "https://finwiki.zksc.io/regional-banks/lawson-bank",
+      "https://finwiki.zksc.io/regional-banks/seven-bank",
       "https://finwiki.zksc.io/retail/INDEX",
       "https://finwiki.zksc.io/retail/aeon-group"
     ],
@@ -81,9 +81,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4880,
-    "word_like_tokens": 770,
+    "nonspace_chars": 4902,
+    "word_like_tokens": 773,
     "inbound_wikilinks_count": 29,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-04"
   }
 }

@@ -1,0 +1,90 @@
+{
+  "schema_version": "1.0",
+  "slug": "foreign-financial-institutions/philippine-national-bank-japan",
+  "source_path": "foreign-financial-institutions/philippine-national-bank-japan.md",
+  "url": "https://finwiki.zksc.io/foreign-financial-institutions/philippine-national-bank-japan",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/foreign-financial-institutions/philippine-national-bank-japan.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/foreign-financial-institutions/philippine-national-bank-japan.md",
+  "domain": "foreign-financial-institutions",
+  "title": "フィリピン・ナショナル・バンク日本 (Philippine National Bank Japan)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "フィリピン・ナショナル・バンク日本 (Philippine National Bank Japan)",
+    "aliases": [
+      "Philippine National Bank Japan",
+      "PNB Japan",
+      "PNB Tokyo Branch",
+      "フィリピン・ナショナル・バンク"
+    ],
+    "domain": "foreign-financial-institutions",
+    "created": "2026-05-22",
+    "last_updated": "2026-05-22",
+    "last_tended": "2026-05-22",
+    "review_by": "2026-11-22",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "foreign-bank",
+      "Philippines",
+      "remittance",
+      "deposits",
+      "housing-loan"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.pdf",
+      "https://www.pnb.com.ph/japan/",
+      "https://www.pnb.com.ph/japan/images/stories/docs/japan_disclosure_en.pdf",
+      "https://www.pnb.com.ph/japan/images/stories/docs/japan_disclosure_jp.pdf"
+    ]
+  },
+  "summary": "Philippine National Bank Japan is a Philippines-Japan corridor bank page inside the foreign-bank branch registry. Read it with Metrobank Japan, funds-transfer registry, account-to-account payment, and foreign-bank branch route.",
+  "headings": [
+    "フィリピン・ナショナル・バンク日本 (Philippine National Bank Japan)",
+    "Wiki route",
+    "Overview",
+    "Entity Boundary",
+    "Business Role Map",
+    "Public Context",
+    "Research Checklist",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 11,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/INDEX",
+      "financial-licenses/foreign-bank-branch-license-route",
+      "foreign-financial-institutions/foreign-bank-branches-japan-index",
+      "foreign-financial-institutions/metrobank-japan",
+      "payment-firms/sbi-remit",
+      "payment-firms/western-union-japan",
+      "payment-firms/wise-payments-japan",
+      "payments/INDEX",
+      "payments/account-to-account-payment-japan",
+      "payments/funds-transfer-service-providers-japan-index"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/financial-licenses/foreign-bank-branch-license-route",
+      "https://finwiki.zksc.io/foreign-financial-institutions/foreign-bank-branches-japan-index",
+      "https://finwiki.zksc.io/foreign-financial-institutions/metrobank-japan",
+      "https://finwiki.zksc.io/payment-firms/sbi-remit",
+      "https://finwiki.zksc.io/payment-firms/western-union-japan",
+      "https://finwiki.zksc.io/payment-firms/wise-payments-japan",
+      "https://finwiki.zksc.io/payments/INDEX",
+      "https://finwiki.zksc.io/payments/account-to-account-payment-japan",
+      "https://finwiki.zksc.io/payments/funds-transfer-service-providers-japan-index"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 4070,
+    "word_like_tokens": 622,
+    "inbound_wikilinks_count": 5,
+    "last_modified": "2026-06-04"
+  }
+}

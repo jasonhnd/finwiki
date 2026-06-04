@@ -1,0 +1,100 @@
+{
+  "schema_version": "1.0",
+  "slug": "regional-banks/chukyo-bank",
+  "source_path": "regional-banks/chukyo-bank.md",
+  "url": "https://finwiki.zksc.io/regional-banks/chukyo-bank",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/regional-banks/chukyo-bank.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/regional-banks/chukyo-bank.md",
+  "domain": "regional-banks",
+  "title": "中京銀行 (Chukyo Bank, historical)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "中京銀行 (Chukyo Bank, historical)",
+    "aliases": [
+      "Chukyo Bank",
+      "中京銀行",
+      "株式会社中京銀行",
+      "8530"
+    ],
+    "domain": "regional-banks",
+    "created": "2026-05-24",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
+    "review_by": "2026-11-20",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "banking",
+      "second-regional-bank",
+      "chubu",
+      "aichi",
+      "historical",
+      "predecessor"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
+      "https://www.aichibank.co.jp/company/information/profile/",
+      "https://www.aichi-fg.co.jp/",
+      "https://www.dainichiginkyo.or.jp/",
+      "https://www.aichi-fg.co.jp/ir/files/pdf/202403_chukyo_s03.pdf",
+      "https://ja.wikipedia.org/wiki/中京銀行"
+    ]
+  },
+  "summary": "This entry sits under the JapanFG index as the historical predecessor anchor for current operating bank あいち銀行 under あいち FG. Read it against the 名古屋銀行 in-prefecture rival and 三十三銀行 / 十六銀行 Chubu peers, and against regional-bank consolidation pattern for the broader system / regulatory boundary.",
+  "headings": [
+    "中京銀行 (Chukyo Bank, historical)",
+    "Wiki route",
+    "TL;DR",
+    "1. License / group boundary",
+    "2. 統合・解散プロセス (持株ツリー)",
+    "戦前・戦時源流",
+    "中京銀行 設立 (1953)",
+    "普通銀行転換と上場",
+    "経営統合と消滅",
+    "4. KPI table (historical, 2024-03 期最終決算ベース)"
+  ],
+  "body_links": {
+    "wikilinks_count": 14,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "aichi-bank",
+      "aichi-fg",
+      "banking/INDEX",
+      "banking/regional-bank-consolidation-pattern",
+      "hyakugo-bank",
+      "hyakujushi-bank",
+      "juroku-bank",
+      "juroku-fg",
+      "nagoya-bank",
+      "ogaki-kyoritsu-bank",
+      "san-jusan-bank",
+      "san-jusan-fg",
+      "zenshin-kyo"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/aichi-bank",
+      "https://finwiki.zksc.io/aichi-fg",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
+      "https://finwiki.zksc.io/hyakugo-bank",
+      "https://finwiki.zksc.io/hyakujushi-bank",
+      "https://finwiki.zksc.io/juroku-bank",
+      "https://finwiki.zksc.io/juroku-fg",
+      "https://finwiki.zksc.io/nagoya-bank",
+      "https://finwiki.zksc.io/ogaki-kyoritsu-bank",
+      "https://finwiki.zksc.io/san-jusan-bank",
+      "https://finwiki.zksc.io/san-jusan-fg",
+      "https://finwiki.zksc.io/zenshin-kyo"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 4569,
+    "word_like_tokens": 796,
+    "inbound_wikilinks_count": 3,
+    "last_modified": "2026-06-04"
+  }
+}

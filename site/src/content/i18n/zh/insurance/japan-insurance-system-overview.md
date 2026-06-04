@@ -25,11 +25,11 @@ translated_at: 2026-05-31T07:28:06.166Z
 
 | Sub-segment | Examples | Anchor |
 |---|---|---|
-| 四大寿险（相互会社 / 股份制） | [[JapanFG/nippon-life|Nippon Life]]（相互会社）、[[JapanFG/dai-ichi-life|Dai-ichi Life]]（股份制）、[[JapanFG/sumitomo-life|Sumitomo Life]]（相互会社）、明治安田生命（相互会社） | [[insurance/japan-life-insurance-big-four]], [[insurance/japan-life-big-four-overlay-comparison-matrix]] |
-| 邮政体系寿险 | [[JapanFG/kampo-life|Kampo Life (Japan Post Insurance)]] | [[insurance/kampo-japan-post-insurance]] |
+| 四大寿险（相互会社 / 股份制） | [[life-insurers/nippon-life|Nippon Life]]（相互会社）、[[life-insurers/dai-ichi-life|Dai-ichi Life]]（股份制）、[[life-insurers/sumitomo-life|Sumitomo Life]]（相互会社）、明治安田生命（相互会社） | [[insurance/japan-life-insurance-big-four]], [[insurance/japan-life-big-four-overlay-comparison-matrix]] |
+| 邮政体系寿险 | [[life-insurers/kampo-life|Kampo Life (Japan Post Insurance)]] | [[insurance/kampo-japan-post-insurance]] |
 | 线上直销寿险 | Lifenet Life（Lifenet Insurance） | [[insurance/internet-life-insurance-business-model]] |
-| 集团 / 专业寿险 | [[JapanFG/sony-life|Sony Life]]、SBI Life、Rakuten Life、Daido Life、Taiyo Life、Dai-ichi Frontier | [[insurance/sony-life-group-life-operating-model]] |
-| 外资寿险 | [[JapanFG/aflac-japan|Aflac]]、[[JapanFG/aia-life-japan|AIA Japan]]、Prudential of Japan、MetLife Japan、AXA Japan、Manulife Japan | [[insurance/foreign-life-affiliate-japan-positioning]] |
+| 集团 / 专业寿险 | [[life-insurers/sony-life|Sony Life]]、SBI Life、Rakuten Life、Daido Life、Taiyo Life、Dai-ichi Frontier | [[insurance/sony-life-group-life-operating-model]] |
+| 外资寿险 | [[life-insurers/aflac-japan|Aflac]]、[[life-insurers/aia-life-japan|AIA Japan]]、Prudential of Japan、MetLife Japan、AXA Japan、Manulife Japan | [[insurance/foreign-life-affiliate-japan-positioning]] |
 | 银行系 / 子公司寿险 | Cardif Life、TD Financial Life、Credit Agricole Life | [[insurance/foreign-life-affiliate-japan-positioning]] |
 
 寿险分销结构：代理制（销售员 / 顾问）、银保（银行柜面）、线上直销、嵌入式 / 团体渠道。
@@ -38,11 +38,11 @@ translated_at: 2026-05-31T07:28:06.166Z
 
 | Sub-segment | Examples | Anchor |
 |---|---|---|
-| 三大非寿险集团 | [[JapanFG/tokio-marine|Tokio Marine HD]] / Tokio Marine & Nichido Fire、[[JapanFG/msad|MS&AD]] / Mitsui Sumitomo Insurance + Aioi Nissay Dowa、[[JapanFG/sompo|SOMPO HD]] / SOMPO Japan Insurance | [[insurance/japan-nonlife-big-three]], [[insurance/japan-nonlife-big-three-reinsurance-cat-matrix]] |
+| 三大非寿险集团 | [[non-life-insurers/tokio-marine|Tokio Marine HD]] / Tokio Marine & Nichido Fire、[[non-life-insurers/msad|MS&AD]] / Mitsui Sumitomo Insurance + Aioi Nissay Dowa、[[non-life-insurers/sompo|SOMPO HD]] / SOMPO Japan Insurance | [[insurance/japan-nonlife-big-three]], [[insurance/japan-nonlife-big-three-reinsurance-cat-matrix]] |
 | 直销非寿险 | Saison Automobile & Fire、SOMPO Direct、Sony Assurance | [[insurance/saison-automobile-fire]] |
-| 专业非寿险 | Anicom（宠物）、au Insurance、PayPay Insurance、Rakuten Non-life | [[JapanFG/anicom-insurance]], [[JapanFG/au-insurance]] |
-| 外资非寿险 | Allianz Fire and Marine、AIG Japan、AXA Japan、Chubb Japan、Zurich Japan | [[JapanFG/aig-japan]], [[JapanFG/chubb-insurance-japan]] |
-| 海运 / P&I | 服务日本航运业的海运保险与 P&I clubs | [[insurance/marine-insurance-and-pi-cover-market]], [[JapanFG/japan-pi-club]] |
+| 专业非寿险 | Anicom（宠物）、au Insurance、PayPay Insurance、Rakuten Non-life | [[non-life-insurers/anicom-insurance]], [[non-life-insurers/au-insurance]] |
+| 外资非寿险 | Allianz Fire and Marine、AIG Japan、AXA Japan、Chubb Japan、Zurich Japan | [[non-life-insurers/aig-japan]], [[non-life-insurers/chubb-insurance-japan]] |
+| 海运 / P&I | 服务日本航运业的海运保险与 P&I clubs | [[insurance/marine-insurance-and-pi-cover-market]], [[financial-regulators/japan-pi-club]] |
 
 非寿险险种包括：车险（保费最大）、火险 / 财产险、海运险、人身意外险、责任险、农林水产险，以及专业险种（宠物、户外、电信绑定、旅行、租房等）。
 
@@ -50,7 +50,7 @@ translated_at: 2026-05-31T07:28:06.166Z
 
 | Sub-segment | Examples | Anchor |
 |---|---|---|
-| JA-Kyosai（农业合作社） | Zenkyoren（全国联合会） | [[insurance/ja-kyosai-zenkyoren-overview]], [[JapanFG/ja-kyosairen]] |
+| JA-Kyosai（农业合作社） | Zenkyoren（全国联合会） | [[insurance/ja-kyosai-zenkyoren-overview]], [[non-life-insurers/ja-kyosairen]] |
 | 消费合作社共济 | Kokumin Kyosai Coop（原 zenrosai）、Coop Kyosai | [[insurance/cooperative-insurance-system-japan]] |
 | 公务员共济 | 各类国家 / 地方公务员共济组织 | [[insurance/cooperative-insurance-system-japan]] |
 | 职业共济 | 各类职业协会互助组织 | [[insurance/cooperative-insurance-system-japan]] |
@@ -80,7 +80,7 @@ translated_at: 2026-05-31T07:28:06.166Z
 | 日本地震再保险（JER） | 家庭地震险的法定垄断再保险人；承接所有原保险公司的风险。 |
 | 政府兜底 | 政府依据法律在既定损失阈值之上为 JER 提供支持。 |
 
-详见 [[insurance/earthquake-insurance-public-private-scheme]] 与 [[JapanFG/japan-earthquake-reinsurance]]。
+详见 [[insurance/earthquake-insurance-public-private-scheme]] 与 [[non-life-insurers/japan-earthquake-reinsurance]]。
 
 ## 监管框架
 
@@ -167,15 +167,15 @@ translated_at: 2026-05-31T07:28:06.166Z
 - [[insurance/japan-bancassurance-distribution-overlay-matrix]]
 - [[insurance/kampo-japan-post-insurance]]
 - [[JapanFG/INDEX]]
-- [[JapanFG/nippon-life]]
-- [[JapanFG/dai-ichi-life]]
-- [[JapanFG/sumitomo-life]]
-- [[JapanFG/kampo-life]]
-- [[JapanFG/tokio-marine]]
-- [[JapanFG/msad]]
-- [[JapanFG/sompo]]
-- [[JapanFG/ja-kyosairen]]
-- [[JapanFG/japan-earthquake-reinsurance]]
+- [[life-insurers/nippon-life]]
+- [[life-insurers/dai-ichi-life]]
+- [[life-insurers/sumitomo-life]]
+- [[life-insurers/kampo-life]]
+- [[non-life-insurers/tokio-marine]]
+- [[non-life-insurers/msad]]
+- [[non-life-insurers/sompo]]
+- [[non-life-insurers/ja-kyosairen]]
+- [[non-life-insurers/japan-earthquake-reinsurance]]
 - [[derivatives/japan-interest-rate-derivatives-overview]]
 - [[INDEX|FinWiki index]]
 

@@ -1,0 +1,98 @@
+{
+  "schema_version": "1.0",
+  "slug": "cooperative-banks/sapporo-shinkin",
+  "source_path": "cooperative-banks/sapporo-shinkin.md",
+  "url": "https://finwiki.zksc.io/cooperative-banks/sapporo-shinkin",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/cooperative-banks/sapporo-shinkin.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/cooperative-banks/sapporo-shinkin.md",
+  "domain": "cooperative-banks",
+  "title": "札幌信用金庫",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "札幌信用金庫",
+    "aliases": [
+      "cooperative-banks/sapporo-shinkin",
+      "sapporo-shinkin",
+      "Sapporo Shinkin Bank",
+      "札幌信金",
+      "さっしん",
+      "信金"
+    ],
+    "domain": "cooperative-banks",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "shinkin",
+      "cooperative-banking",
+      "hokkaido",
+      "operating-company"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.sapporoshinkin.co.jp/",
+      "https://www.shinkin.org/",
+      "https://www.fsa.go.jp/menkyo/menkyoj/shinkin.xlsx",
+      "https://www.shinkin-central-bank.jp/"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 北海道銀行 and 北洋銀行 for the prefecture-level commercial-bank counterparts, against 横浜信用金庫 for a comparable other-prefecture city-anchor shinkin, and against Japan shinkin bank registry for the broader 254-shinkin system maintained by 信金中央金庫 and represe",
+  "headings": [
+    "札幌信用金庫",
+    "Wiki route",
+    "TL;DR",
+    "1. License / group boundary",
+    "2. Operating model",
+    "3. 系統内位置（Systemic position）",
+    "4. Why this page matters",
+    "5. 関連 / 地域論点",
+    "北海道経済との結びつき",
+    "業界再編リスク"
+  ],
+  "body_links": {
+    "wikilinks_count": 14,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "banking/INDEX",
+      "banking/cooperative-banking-japan",
+      "banking/japan-cooperative-banking-unified-federation-matrix",
+      "banking/shinkin-bank-registry-japan",
+      "cooperative-banks/norinchukin",
+      "cooperative-banks/sendai-shinkin",
+      "cooperative-banks/shinkin-central",
+      "cooperative-banks/shinkin-network-services",
+      "cooperative-banks/yokohama-shinkin",
+      "financial-regulators/yokin-hoken-kiko",
+      "financial-regulators/zenshin-kyo",
+      "regional-banks/hokkaido-bank",
+      "regional-banks/hokuyo-bank"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/banking/cooperative-banking-japan",
+      "https://finwiki.zksc.io/banking/japan-cooperative-banking-unified-federation-matrix",
+      "https://finwiki.zksc.io/banking/shinkin-bank-registry-japan",
+      "https://finwiki.zksc.io/cooperative-banks/norinchukin",
+      "https://finwiki.zksc.io/cooperative-banks/sendai-shinkin",
+      "https://finwiki.zksc.io/cooperative-banks/shinkin-central",
+      "https://finwiki.zksc.io/cooperative-banks/shinkin-network-services",
+      "https://finwiki.zksc.io/cooperative-banks/yokohama-shinkin",
+      "https://finwiki.zksc.io/financial-regulators/yokin-hoken-kiko",
+      "https://finwiki.zksc.io/financial-regulators/zenshin-kyo",
+      "https://finwiki.zksc.io/regional-banks/hokkaido-bank",
+      "https://finwiki.zksc.io/regional-banks/hokuyo-bank"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 4650,
+    "word_like_tokens": 630,
+    "inbound_wikilinks_count": 6,
+    "last_modified": "2026-06-04"
+  }
+}

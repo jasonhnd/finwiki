@@ -11,11 +11,11 @@ translated_at: 2026-06-02T16:33:58.496Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[manufacturer-finance/INDEX|manufacturing index]] の配下に位置する。産業コングロマリットの金融部門ピアとして [[manufacturer-finance/hitachi-industrial-finance-platform|Hitachi 産業金融]]、[[manufacturer-finance/panasonic-captive-finance|Panasonic 顧客金融]]、[[manufacturer-finance/sony-group-finance-arm|Sony FG]]、[[manufacturer-finance/toyota-financial-services|Toyota Financial Services]] と照らして読む。政策金融側の対応関係については [[JapanFG/jbic|JBIC]]・[[policy-finance/nexi|NEXI]]、輸出支援スタック全体については [[trade/jetro-vs-nexi-vs-jbic-comparison|JETRO vs NEXI vs JBIC]]、より広い三菱系列の文脈については [[JapanFG/mitsubishi-corp-finance|三菱商事 金融機能]] / [[JapanFG/INDEX|JapanFG index]] と組み合わせる。
+この項目は [[manufacturer-finance/INDEX|manufacturing index]] の配下に位置する。産業コングロマリットの金融部門ピアとして [[manufacturer-finance/hitachi-industrial-finance-platform|Hitachi 産業金融]]、[[manufacturer-finance/panasonic-captive-finance|Panasonic 顧客金融]]、[[manufacturer-finance/sony-group-finance-arm|Sony FG]]、[[manufacturer-finance/toyota-financial-services|Toyota Financial Services]] と照らして読む。政策金融側の対応関係については [[financial-regulators/jbic|JBIC]]・[[policy-finance/nexi|NEXI]]、輸出支援スタック全体については [[trade/jetro-vs-nexi-vs-jbic-comparison|JETRO vs NEXI vs JBIC]]、より広い三菱系列の文脈については [[trading-company-finance/mitsubishi-corp-finance|三菱商事 金融機能]] / [[JapanFG/INDEX|JapanFG index]] と組み合わせる。
 
 ## 要約
 
-三菱重工業 (MHI, 7011) は、防衛・航空・エネルギー・産業機械・物流機器を抱える日本最大級の重工業メーカー。**Toyota / Sony / Hitachi と異なり、本体直系の銀行・保険・カード captive を持たない** が、**大型案件 (防衛装備、商業航空、火力・原子力タービン、船舶、化学プラント、ロケット) の輸出には常に [[JapanFG/jbic|JBIC]] 輸出金融 + [[policy-finance/nexi|NEXI]] 貿易保険 + メガバンク シンジケート + ECA が組合せ** で必要になり、それらの組成・調整を MHI コーポレート財務とプロジェクト本部が一体で担う。manufacturing 視点では「メーカーが captive を持たず、**政策金融・商業銀行・ECA を組合せた輸出金融プラットフォーム** を実質的に運用する」モデル。直近では F-X (将来戦闘機) の **GIGO/GCAP プログラム** (日英伊共同開発、旧称「X-2 心神」の延長線)、**サファイア (Sapphire) 防衛装備イニシアチブ**、AP1000 系・三菱重工 PWR 海外案件、H-IIA / H3 ロケット商業化が論点。
+三菱重工業 (MHI, 7011) は、防衛・航空・エネルギー・産業機械・物流機器を抱える日本最大級の重工業メーカー。**Toyota / Sony / Hitachi と異なり、本体直系の銀行・保険・カード captive を持たない** が、**大型案件 (防衛装備、商業航空、火力・原子力タービン、船舶、化学プラント、ロケット) の輸出には常に [[financial-regulators/jbic|JBIC]] 輸出金融 + [[policy-finance/nexi|NEXI]] 貿易保険 + メガバンク シンジケート + ECA が組合せ** で必要になり、それらの組成・調整を MHI コーポレート財務とプロジェクト本部が一体で担う。manufacturing 視点では「メーカーが captive を持たず、**政策金融・商業銀行・ECA を組合せた輸出金融プラットフォーム** を実質的に運用する」モデル。直近では F-X (将来戦闘機) の **GIGO/GCAP プログラム** (日英伊共同開発、旧称「X-2 心神」の延長線)、**サファイア (Sapphire) 防衛装備イニシアチブ**、AP1000 系・三菱重工 PWR 海外案件、H-IIA / H3 ロケット商業化が論点。
 
 ## 1. 会社構造と金融部門の位置
 
@@ -30,7 +30,7 @@ translated_at: 2026-06-02T16:33:58.496Z
 | 連結純利益 | 約 2,200 億円規模 (FY2024) |
 | 連結子会社 | 約 200 社規模 |
 | 本体直系 captive 金融 | なし (専業の銀行・保険・大型カードを持たない) |
-| 主要 finance alliance | [[JapanFG/jbic|JBIC]] / [[policy-finance/nexi|NEXI]] / [[JapanFG/mufg|MUFG]] / [[JapanFG/smfg|SMFG]] / [[JapanFG/mizuho-fg|みずほ FG]] / 欧米 ECA |
+| 主要 finance alliance | [[financial-regulators/jbic|JBIC]] / [[policy-finance/nexi|NEXI]] / [[megabanks/mufg|MUFG]] / [[megabanks/smfg|SMFG]] / [[megabanks/mizuho-fg|みずほ FG]] / 欧米 ECA |
 
 ### 金融組成の位置 (プログラム別)
 
@@ -56,13 +56,13 @@ MHI は「銀行・保険を抱える型の captive」ではなく、「**輸出
 
 | 事業ライン | 主な顧客金融組成 | 関与する金融 |
 |---|---|---|
-| 火力・原子力・タービン | EPC + プロジェクトファイナンス | [[JapanFG/jbic|JBIC]] / [[policy-finance/nexi|NEXI]] / 米 EXIM / 韓 KEXIM 等 |
+| 火力・原子力・タービン | EPC + プロジェクトファイナンス | [[financial-regulators/jbic|JBIC]] / [[policy-finance/nexi|NEXI]] / 米 EXIM / 韓 KEXIM 等 |
 | 洋上風力・水素 | グリーンファイナンス、PF | JBIC GX 枠 / 欧州系 PF 銀行 |
 | 商業航空 (旧 SpaceJet) | 航空機 ECA 金融 | JBIC + EDC + EXIM 系 |
 | 防衛装備 (国内) | 防衛省 GFE (政府支給品) + 国内予算 | 防衛省・政府保証なし |
 | 防衛装備 (輸出) | G-to-G 輸出ガイドライン下、限定的 | NEXI 政府保証付き枠 (案件次第) |
 | GCAP / GIGO (F-X) | 英 BAE Systems + 伊 Leonardo + 日 MHI の合弁 GCAP International Government Organisation | 日英伊政府協調、商業金融未関与 |
-| 物流 (フォークリフト = 三菱ロジスネクスト 7105) | vendor finance | [[JapanFG/mitsubishi-hc-capital|三菱HCキャピタル]] / 銀行系リース |
+| 物流 (フォークリフト = 三菱ロジスネクスト 7105) | vendor finance | [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]] / 銀行系リース |
 | 化学プラント | EPC + JBIC 資源金融枠 | JBIC + メガバンク + ECA |
 | ロケット (MHI Launch Services) | 商業打上契約 + ECA | 顧客衛星オペレーター + JBIC |
 
@@ -95,7 +95,7 @@ MHI は「銀行・保険を抱える型の captive」ではなく、「**輸出
 - **エネルギートランジション**: 火力・原子力ベースから水素・アンモニア・洋上風力・SAF (持続可能航空燃料) に投資領域を広げる。資本効率を維持しながらカーボンニュートラル製品で長期受注を作る。
 - **防衛事業の規模拡大**: 2022 国家安全保障戦略・防衛力整備計画 (5 年で 43 兆円規模) を背景に、防衛事業セグメントを構造的に拡大。F-X / GCAP は次世代の柱。
 - **GCAP/GIGO 国際協業**: 英 BAE Systems・伊 Leonardo との合弁を通じて、防衛装備輸出市場に参入。GCAP International Government Organisation を 3 ヵ国政府が支援する枠組みで、商業金融組成というより政府間ファイナンスがベース。
-- **JBIC / NEXI 協調**: エネルギー・インフラ輸出は [[JapanFG/jbic|JBIC]] 輸出金融 + [[policy-finance/nexi|NEXI]] 貿易保険のセットで進める。商業銀行 ([[JapanFG/mufg|MUFG]] / [[JapanFG/smfg|SMFG]] / [[JapanFG/mizuho-fg|みずほ FG]]) がシンジケート参加。
+- **JBIC / NEXI 協調**: エネルギー・インフラ輸出は [[financial-regulators/jbic|JBIC]] 輸出金融 + [[policy-finance/nexi|NEXI]] 貿易保険のセットで進める。商業銀行 ([[megabanks/mufg|MUFG]] / [[megabanks/smfg|SMFG]] / [[megabanks/mizuho-fg|みずほ FG]]) がシンジケート参加。
 - **物流・産業機器 captive 軽量化**: 三菱ロジスネクスト (フォークリフト) 等のグループ会社レベルでは vendor finance を 三菱HCキャピタル経由で組成し、本体財務の負担を軽減。
 - **キャッシュ・コンバージョン・サイクル (CCC) 改善**: 長期受注事業の特性上、運転資金が膨らみがちなため、サプライチェーンファイナンス・売掛 ABL を活用して CCC を改善。
 
@@ -109,8 +109,8 @@ MHI は「銀行・保険を抱える型の captive」ではなく、「**輸出
 
 ## 関連項目
 
-- [[JapanFG/jbic|JBIC]] · [[policy-finance/nexi|NEXI]] · [[trade/jetro-vs-nexi-vs-jbic-comparison|JETRO vs NEXI vs JBIC]]
-- [[JapanFG/mufg|MUFG]] · [[JapanFG/smfg|SMFG]] · [[JapanFG/mizuho-fg|みずほ FG]] · [[JapanFG/mitsubishi-corp-finance|三菱商事 金融機能]] · [[JapanFG/mitsubishi-hc-capital|三菱HCキャピタル]]
+- [[financial-regulators/jbic|JBIC]] · [[policy-finance/nexi|NEXI]] · [[trade/jetro-vs-nexi-vs-jbic-comparison|JETRO vs NEXI vs JBIC]]
+- [[megabanks/mufg|MUFG]] · [[megabanks/smfg|SMFG]] · [[megabanks/mizuho-fg|みずほ FG]] · [[trading-company-finance/mitsubishi-corp-finance|三菱商事 金融機能]] · [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]]
 - [[manufacturer-finance/hitachi-industrial-finance-platform|Hitachi 産業金融]] · [[manufacturer-finance/panasonic-captive-finance|Panasonic 顧客金融]] · [[manufacturer-finance/sony-group-finance-arm|Sony FG]] · [[manufacturer-finance/toyota-financial-services|Toyota Financial Services]]
 - [[manufacturer-finance/toyota-motor|Toyota Motor]] · [[manufacturer-finance/seiko-epson|Seiko Epson]]
 - [[manufacturer-finance/INDEX|manufacturing INDEX]] · [[JapanFG/INDEX|JapanFG INDEX]] · [[INDEX|FinWiki index]]

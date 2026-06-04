@@ -11,11 +11,11 @@ translated_at: 2026-05-31T07:28:06.138Z
 
 ## TL;DR
 
-[[JapanFG/ja-kyosairen|JA共済 / 全共連 (Zenkyoren — 全国共済農業協同組合連合会)]] 是日本农业协同组合（JA / 农协）体系下的联邦式合作保险承保主体，按准备金 / 资产规模计，是日本最大的非 [[JapanFG/fsa|FSA]] 监管保险实体。其经营完整的共济产品线，包括类寿险（终身、定期、养老、医疗、护理）、类财险（建筑 / 住宅、汽车、火灾 / 地震）以及年金，并通过基层农业协同组合（地方“JA”合作社）向成员和非成员使用者销售。监管由农林水产省（MAFF / 農林水産省）依据《农业协同组合法》实施，而非由金融厅依据《保险业法》监管。这意味着尽管全共联的一般账户资产达到数十万亿日元量级，可与最大的 [[JapanFG/nippon-life|Nippon Life]] 级别资产负债表并列，它仍处于正式的 [[insurance/japan-life-insurance-big-four|life big-four]] 和 [[insurance/japan-nonlife-big-three|non-life big-three]] 民营保险人范围之外。合作社税务 / 治理地位与 MAFF / FSA 双重经济价值基准并存的双层结构，使全共联的分析边界与 FSA 持牌保险公司明显不同。
+[[non-life-insurers/ja-kyosairen|JA共済 / 全共連 (Zenkyoren — 全国共済農業協同組合連合会)]] 是日本农业协同组合（JA / 农协）体系下的联邦式合作保险承保主体，按准备金 / 资产规模计，是日本最大的非 [[financial-regulators/fsa|FSA]] 监管保险实体。其经营完整的共济产品线，包括类寿险（终身、定期、养老、医疗、护理）、类财险（建筑 / 住宅、汽车、火灾 / 地震）以及年金，并通过基层农业协同组合（地方“JA”合作社）向成员和非成员使用者销售。监管由农林水产省（MAFF / 農林水産省）依据《农业协同组合法》实施，而非由金融厅依据《保险业法》监管。这意味着尽管全共联的一般账户资产达到数十万亿日元量级，可与最大的 [[life-insurers/nippon-life|Nippon Life]] 级别资产负债表并列，它仍处于正式的 [[insurance/japan-life-insurance-big-four|life big-four]] 和 [[insurance/japan-nonlife-big-three|non-life big-three]] 民营保险人范围之外。合作社税务 / 治理地位与 MAFF / FSA 双重经济价值基准并存的双层结构，使全共联的分析边界与 FSA 持牌保险公司明显不同。
 
 ## Wiki route
 
-本页位于 [[insurance/INDEX|insurance INDEX]] 下，是与 [[insurance/japan-life-insurance-big-four|the Japan life big four]] 和 [[insurance/japan-nonlife-big-three|the non-life big three]] 对应的合作保险版本。可结合 [[insurance/cooperative-insurance-system-japan|the cooperative insurance system Japan overview]] 阅读更广的共济板块，结合 [[insurance/mutual-vs-stock-life-insurer|the mutual vs stock comparison]] 阅读公司形态背景（共济在互助性轴线上比 FSA 监管的相互会社更靠前），结合 [[insurance/economic-value-based-solvency|economic-value-based solvency]] 和 [[insurance/esr-economic-value-solvency|ESR]] 阅读全共联自愿镜像的资本基准，结合 [[insurance/global-solvency-framework-comparison-matrix|the global solvency framework comparison matrix]] 阅读跨制度视角。对应的实体锚点是 [[JapanFG/ja-kyosairen|JA共済連 / Zenkyoren]]。监管者背景可参见 MAFF 枢纽以及与 [[JapanFG/fsa|FSA]] 的对照。
+本页位于 [[insurance/INDEX|insurance INDEX]] 下，是与 [[insurance/japan-life-insurance-big-four|the Japan life big four]] 和 [[insurance/japan-nonlife-big-three|the non-life big three]] 对应的合作保险版本。可结合 [[insurance/cooperative-insurance-system-japan|the cooperative insurance system Japan overview]] 阅读更广的共济板块，结合 [[insurance/mutual-vs-stock-life-insurer|the mutual vs stock comparison]] 阅读公司形态背景（共济在互助性轴线上比 FSA 监管的相互会社更靠前），结合 [[insurance/economic-value-based-solvency|economic-value-based solvency]] 和 [[insurance/esr-economic-value-solvency|ESR]] 阅读全共联自愿镜像的资本基准，结合 [[insurance/global-solvency-framework-comparison-matrix|the global solvency framework comparison matrix]] 阅读跨制度视角。对应的实体锚点是 [[non-life-insurers/ja-kyosairen|JA共済連 / Zenkyoren]]。监管者背景可参见 MAFF 枢纽以及与 [[financial-regulators/fsa|FSA]] 的对照。
 
 ## 全共联是什么，不是什么
 
@@ -56,7 +56,7 @@ MAFF 依据《农业协同组合法》监管 JA / 共济板块。历史上适用
 
 这种监管分割带来实际影响：
 
-- **牌照制度** —— 全共联不需要 FSA 保险牌照；不适用的 FSA 框架见 [[JapanFG/legal-financial-licenses/insurance-license-and-solvency|insurance license and solvency]]。
+- **牌照制度** —— 全共联不需要 FSA 保险牌照；不适用的 FSA 框架见 [[financial-licenses/insurance-license-and-solvency|insurance license and solvency]]。
 - **资本规则** —— 适用 MAFF 偿付能力规则，而非 FSA《保险业法》资本规则。
 - **税务处理** —— 共济属于合作社板块产品，适用合作社板块税务处理。
 - **销售规则** —— 共济依据合作社法通过合作社向成员与非成员使用者销售，而不是依据适用于 FSA 保险代理人和经纪人的保险招揽规则销售。
@@ -95,7 +95,7 @@ MAFF 依据《农业协同组合法》监管 JA / 共济板块。历史上适用
 - 你正在做日本全行业保险规模比较，需要把合作社板块纳入边界。
 - 你正在阅读全共联年度披露书，需要监管 / 结构背景。
 - 你正在比较 FSA 经济价值偿付能力规则与共济资本规则。
-- 你正在梳理 JA 集团的完整金融边界 —— 合作银行侧见 [[JapanFG/ja-kyosairen|JA共済連]] 及 JA Bank 相关条目。
+- 你正在梳理 JA 集团的完整金融边界 —— 合作银行侧见 [[non-life-insurers/ja-kyosairen|JA共済連]] 及 JA Bank 相关条目。
 - 你正在分析地震保险池架构，需要把共济地震保障（位于 JER 池之外）与民营保险人池分开 —— 见 [[insurance/earthquake-insurance-public-private-scheme|earthquake insurance public-private scheme]]。
 
 ## 边界情况 / 注意点
@@ -121,10 +121,10 @@ MAFF 依据《农业协同组合法》监管 JA / 共济板块。历史上适用
 - [[insurance/earthquake-insurance-public-private-scheme]]
 - [[insurance/mutual-vs-stock-life-insurer]]
 - [[insurance/insurance-agency-and-brokerage-japan]]
-- [[JapanFG/ja-kyosairen]]
-- [[JapanFG/legal-financial-licenses/insurance-license-and-solvency]]
+- [[non-life-insurers/ja-kyosairen]]
+- [[financial-licenses/insurance-license-and-solvency]]
 - MAFF（农林水产省）
-- [[JapanFG/fsa]]
+- [[financial-regulators/fsa]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

@@ -12,7 +12,7 @@ translated_at: 2026-05-31T03:19:56.376Z
 
 ## TL;DR
 
-"结构化债券"（仕組債，*shikumisai*）是日语中对内嵌衍生品收益的面向零售固定收益产品的统称——通常包括带敲入障碍的股票挂钩票据（EB，*Equity Bond*）、货币挂钩存款、以折价行权价附带看跌的反向可转换债券，以及数字 / 区间累计票据。在日本长期低收益环境中，这些产品由巨型银行关联的证券公司（[[JapanFG/smbc-nikko|SMBC Nikko]]、[[JapanFG/mizuho-bank|Mizuho]] Securities、MUFG / MUMSS）、独立零售券商（[[JapanFG/daiwa-sg|Daiwa]]、[[JapanFG/nomura-hd|Nomura]]）和地方银行大规模分销给**追逐收益的零售投资者**。**2022-2023 FSA 整顿**针对适当性和披露，对 [[JapanFG/nomura-hd|Nomura]]、[[JapanFG/smbc-nikko|SMBC Nikko]] 和 [[JapanFG/daiwa-sg|Daiwa]] 子公司发出行政命令，迫使主要分销商暂停或限制向老年 / 低知识零售客户销售结构化债券，并将**适当性与披露**提升为结构性监管优先事项。新的零售发行自 2023 起急剧收缩。
+"结构化债券"（仕組債，*shikumisai*）是日语中对内嵌衍生品收益的面向零售固定收益产品的统称——通常包括带敲入障碍的股票挂钩票据（EB，*Equity Bond*）、货币挂钩存款、以折价行权价附带看跌的反向可转换债券，以及数字 / 区间累计票据。在日本长期低收益环境中，这些产品由巨型银行关联的证券公司（[[securities-firms/smbc-nikko|SMBC Nikko]]、[[megabanks/mizuho-bank|Mizuho]] Securities、MUFG / MUMSS）、独立零售券商（[[securities-firms/daiwa-sg|Daiwa]]、[[securities-firms/nomura-hd|Nomura]]）和地方银行大规模分销给**追逐收益的零售投资者**。**2022-2023 FSA 整顿**针对适当性和披露，对 [[securities-firms/nomura-hd|Nomura]]、[[securities-firms/smbc-nikko|SMBC Nikko]] 和 [[securities-firms/daiwa-sg|Daiwa]] 子公司发出行政命令，迫使主要分销商暂停或限制向老年 / 低知识零售客户销售结构化债券，并将**适当性与披露**提升为结构性监管优先事项。新的零售发行自 2023 起急剧收缩。
 
 ## Wiki route
 
@@ -54,7 +54,7 @@ Cross-reference [[finance/INDEX|finance index]] for the broader capital-markets 
 | 发行方类型 | 角色 |
 |---|---|
 | 全球银行（特殊目的载体） | Goldman、JPMorgan、Morgan Stanley、BNP Paribas、Credit Suisse（历史上）、HSBC、Citi、Barclays 通过 SPV 计划发行 |
-| 日本注册的巨型银行计划 | [[JapanFG/mufg|MUFG]]、[[JapanFG/sumitomo-mitsui-banking-corp|SMBC]]（经 SMFG）、[[JapanFG/mizuho-bank|Mizuho]]（经 Mizuho FG）通过专门计划发行 |
+| 日本注册的巨型银行计划 | [[megabanks/mufg|MUFG]]、[[megabanks/sumitomo-mitsui-banking-corp|SMBC]]（经 SMFG）、[[megabanks/mizuho-bank|Mizuho]]（经 Mizuho FG）通过专门计划发行 |
 | 欧洲银行发行方 | Société Générale、BNP、Credit Suisse、UBS 历史上在结构化产品创设中占主导 |
 | 美国银行发行方 | Goldman、JPM、MS、Citi |
 | 东京上市的特殊目的发行载体 | 较少见；大多数结构化债券为税务 / 监管效率而离岸发行 |
@@ -63,11 +63,11 @@ Cross-reference [[finance/INDEX|finance index]] for the broader capital-markets 
 
 | 分销商 | 分销模式 |
 |---|---|
-| [[JapanFG/smbc-nikko|SMBC Nikko]] | 巨型银行系全能券商；2022 期间的关键分销商|
-| Mizuho Securities（经 [[JapanFG/mizuho-bank|Mizuho]] FG） | 巨型银行系全能券商；2022 期间的关键分销商|
-| MUFG / MUMSS（经 [[JapanFG/mufg|MUFG]]） | 巨型银行 / 全球合资券商；主要分销商 |
-| [[JapanFG/daiwa-sg|Daiwa Securities]] | 独立零售券商；历史上在结构化债券分销中非常活跃 |
-| [[JapanFG/nomura-hd|Nomura Securities]] | 最大的零售券商；重要分销商 |
+| [[securities-firms/smbc-nikko|SMBC Nikko]] | 巨型银行系全能券商；2022 期间的关键分销商|
+| Mizuho Securities（经 [[megabanks/mizuho-bank|Mizuho]] FG） | 巨型银行系全能券商；2022 期间的关键分销商|
+| MUFG / MUMSS（经 [[megabanks/mufg|MUFG]]） | 巨型银行 / 全球合资券商；主要分销商 |
+| [[securities-firms/daiwa-sg|Daiwa Securities]] | 独立零售券商；历史上在结构化债券分销中非常活跃 |
+| [[securities-firms/nomura-hd|Nomura Securities]] | 最大的零售券商；重要分销商 |
 | 地方银行（次级分销） | 次级分销来自巨型银行证券合作伙伴的结构化产品 |
 | 在线券商 | 在复杂结构化债券上较不活跃；部分普通结构化存款 |
 
@@ -140,9 +140,9 @@ FSA 公开材料（2022 年 10 月）和 JSDA 自律更新记录了：
 
 | 分销商 | 处分类别 |
 |---|---|
-| [[JapanFG/nomura-hd|Nomura Securities]] | 关于结构化债券销售流程的业务改善命令 |
-| [[JapanFG/smbc-nikko|SMBC Nikko]] | 业务改善命令；高级管理层问责 |
-| [[JapanFG/daiwa-sg|Daiwa Securities]] | 业务改善命令；适当性流程审查 |
+| [[securities-firms/nomura-hd|Nomura Securities]] | 关于结构化债券销售流程的业务改善命令 |
+| [[securities-firms/smbc-nikko|SMBC Nikko]] | 业务改善命令；高级管理层问责 |
+| [[securities-firms/daiwa-sg|Daiwa Securities]] | 业务改善命令；适当性流程审查 |
 | 多家地方银行证券部门 | 局部性行政处分 |
 
 分销商自愿暂停或大幅限制向零售销售结构化债券。数家公司完全退出零售结构化债券业务，或将其限制于合格投资者渠道。
@@ -202,14 +202,14 @@ JSDA / FSA 公开汇总数据表明，零售结构化债券销售量从 2022 到
 - [[banking/INDEX]]
 - [[insurance/japan-life-insurance-alm-overview]]
 - [[securities/japan-prime-brokerage-and-institutional-financing]]
-- [[JapanFG/mufg]]
-- [[JapanFG/sumitomo-mitsui-banking-corp]]
-- [[JapanFG/mizuho-bank]]
-- [[JapanFG/nomura-hd]]
-- [[JapanFG/smbc-nikko]]
-- [[JapanFG/daiwa-sg]]
-- [[JapanFG/goldman-sachs-japan]]
-- [[JapanFG/morgan-stanley-japan]]
+- [[megabanks/mufg]]
+- [[megabanks/sumitomo-mitsui-banking-corp]]
+- [[megabanks/mizuho-bank]]
+- [[securities-firms/nomura-hd]]
+- [[securities-firms/smbc-nikko]]
+- [[securities-firms/daiwa-sg]]
+- [[securities-firms/goldman-sachs-japan]]
+- [[securities-firms/morgan-stanley-japan]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

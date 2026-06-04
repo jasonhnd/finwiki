@@ -24,7 +24,7 @@ sources:
 
 This domain routes Japan short-term money-market knowledge: call-rate formation, BoJ open market operations, and the connection between monetary policy, banks, securities firms, and tanshi companies.
 
-Use [[JapanFG/boj-monetary-policy]] for the central-bank policy page and this domain for the market mechanics underneath it.
+Use [[financial-regulators/boj-monetary-policy]] for the central-bank policy page and this domain for the market mechanics underneath it.
 
 ## Start Here
 
@@ -70,12 +70,12 @@ For the derivative-pricing expression of the risk-free rate, cross to [[derivati
 
 | Cluster | Entity pages |
 |---|---|
-| Central bank / policy | [[JapanFG/boj-monetary-policy]] |
-| Benchmark governance | [[JapanFG/zenginkyo]] (JBATA / TIBOR), [[JapanFG/fsa]] |
-| Tanshi companies | [[JapanFG/tokyo-tanshi]], [[JapanFG/central-tanshi]], [[JapanFG/ueda-yagi-tanshi]] |
-| Megabanks | [[JapanFG/mufg]], [[JapanFG/smfg]], [[JapanFG/mizuho-fg]] |
-| Securities / JGB market | [[JapanFG/mizuho-securities]], [[JapanFG/mufg-mums]], [[JapanFG/local-bond-market]] |
-| Legal / license map | [[JapanFG/legal-financial-licenses/INDEX]] |
+| Central bank / policy | [[financial-regulators/boj-monetary-policy]] |
+| Benchmark governance | [[financial-regulators/zenginkyo]] (JBATA / TIBOR), [[financial-regulators/fsa]] |
+| Tanshi companies | [[financial-regulators/tokyo-tanshi]], [[financial-regulators/central-tanshi]], [[financial-regulators/ueda-yagi-tanshi]] |
+| Megabanks | [[megabanks/mufg]], [[megabanks/smfg]], [[megabanks/mizuho-fg]] |
+| Securities / JGB market | [[securities-firms/mizuho-securities]], [[securities-firms/mufg-mums]], [[financial-regulators/local-bond-market]] |
+| Legal / license map | [[financial-licenses/INDEX]] |
 
 ## Research Control
 

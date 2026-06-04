@@ -16,7 +16,7 @@ This page sits under [[finance/INDEX|finance domain]]. Read it with [[finance/ja
 
 ## TL;DR
 
-A Japan LBO is a sponsor-led acquisition financed with a layered debt and equity stack. The structural fields are SPC vehicle, sponsor equity, megabank LBO loan, mezzanine debt (optional), bridge facility (optional), security package, financial covenants, baskets, EBITDA add-backs, refinancing window, and dividend-recap potential. Compared to US / Europe, Japan LBO leverage levels are typically more conservative, covenant packages tighter, and dividend recaps less aggressive. Megabank lenders ([[JapanFG/mufg|MUFG]], [[JapanFG/smfg|SMFG]], [[JapanFG/mizuho-fg|Mizuho FG]]) anchor the senior debt market.
+A Japan LBO is a sponsor-led acquisition financed with a layered debt and equity stack. The structural fields are SPC vehicle, sponsor equity, megabank LBO loan, mezzanine debt (optional), bridge facility (optional), security package, financial covenants, baskets, EBITDA add-backs, refinancing window, and dividend-recap potential. Compared to US / Europe, Japan LBO leverage levels are typically more conservative, covenant packages tighter, and dividend recaps less aggressive. Megabank lenders ([[megabanks/mufg|MUFG]], [[megabanks/smfg|SMFG]], [[megabanks/mizuho-fg|Mizuho FG]]) anchor the senior debt market.
 
 ## Sources of leverage
 
@@ -25,7 +25,7 @@ A Japan LBO is a sponsor-led acquisition financed with a layered debt and equity
 | Sponsor equity | PE fund, sometimes co-invest LPs and management rollover | First-loss capital, control, governance |
 | Megabank LBO loan (senior) | MUFG Bank, SMBC, Mizuho Bank | Largest debt tranche, syndicated or clubbed |
 | Trust-bank tranche | Sumitomo Mitsui Trust Bank (SMTB), Mitsubishi UFJ Trust | Participation in senior or stretched-senior |
-| DBJ tranche | [[JapanFG/dbj|Development Bank of Japan]] | Strategic / policy-aligned senior participation |
+| DBJ tranche | [[financial-regulators/dbj|Development Bank of Japan]] | Strategic / policy-aligned senior participation |
 | Mezzanine debt | Specialty mezz funds, regional bank consortia, life insurance private-debt arms | Junior subordinated tranche, fills leverage gap |
 | Vendor financing / seller note | Seller of target | Bridges valuation gap, defers payment |
 | Bridge facility | Same megabank arrangers | Short-dated, taken out by bond, term loan, or capital injection |
@@ -186,10 +186,10 @@ Multiple [[finance/japan-mbo-and-squeeze-out-process|MBO and going-private]] pro
 
 | Bank | Typical LBO role |
 |---|---|
-| [[JapanFG/mufg|MUFG]] / MUFG Bank | Senior MLA, agent, hedge counterparty |
-| [[JapanFG/smfg|SMFG]] / SMBC | Senior MLA, agent, hedge counterparty |
-| [[JapanFG/mizuho-fg|Mizuho FG]] / Mizuho Bank | Senior MLA, agent, hedge counterparty |
-| [[JapanFG/dbj|DBJ]] | Senior or strategic participation, occasional mezz |
+| [[megabanks/mufg|MUFG]] / MUFG Bank | Senior MLA, agent, hedge counterparty |
+| [[megabanks/smfg|SMFG]] / SMBC | Senior MLA, agent, hedge counterparty |
+| [[megabanks/mizuho-fg|Mizuho FG]] / Mizuho Bank | Senior MLA, agent, hedge counterparty |
+| [[financial-regulators/dbj|DBJ]] | Senior or strategic participation, occasional mezz |
 | SMTB / Mitsubishi UFJ Trust | Trust / security-agent, senior participation |
 | Regional banks | Senior club participation in mid-market |
 | Life insurers | Private-debt mezz, occasional senior |
@@ -217,12 +217,12 @@ LBO and take-private processes increasingly attract activist scrutiny, especiall
 - [[finance/cross-border-m-a-japan]]
 - [[finance/japan-corporate-fx-and-rate-hedge-policy]]
 - [[banking/regional-bank-consolidation-pattern]]
-- [[JapanFG/mufg]]
-- [[JapanFG/smfg]]
-- [[JapanFG/mizuho-fg]]
-- [[JapanFG/dbj]]
-- [[JapanFG/nomura-hd]]
-- [[JapanFG/daiwa-sg]]
+- [[megabanks/mufg]]
+- [[megabanks/smfg]]
+- [[megabanks/mizuho-fg]]
+- [[financial-regulators/dbj]]
+- [[securities-firms/nomura-hd]]
+- [[securities-firms/daiwa-sg]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

@@ -50,5 +50,5 @@ From 2026 H2  onward, each CEX is scheduled to progressively unlock the handling
 - [[fintech/genius-act-501-denylist-mandate]]
 - [[fintech/global-stablecoin-regulatory-five-pole-matrix]] — global stablecoin regulation 5 -way comparison
 - [[fintech/japan-stablecoin-regulatory-landscape]] — Japan stablecoin regulation landscape
-- [[JapanFG/jpyc]] — JPYC operating-company anchor
-- [[JapanFG/progmat]] — Progmat operating-company anchor
+- [[payment-firms/jpyc]] — JPYC operating-company anchor
+- [[payment-firms/progmat]] — Progmat operating-company anchor

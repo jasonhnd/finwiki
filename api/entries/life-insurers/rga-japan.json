@@ -1,0 +1,97 @@
+{
+  "schema_version": "1.0",
+  "slug": "life-insurers/rga-japan",
+  "source_path": "life-insurers/rga-japan.md",
+  "url": "https://finwiki.zksc.io/life-insurers/rga-japan",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/life-insurers/rga-japan.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/life-insurers/rga-japan.md",
+  "domain": "life-insurers",
+  "title": "RGA リインシュアランス・カンパニー日本支店",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "RGA リインシュアランス・カンパニー日本支店",
+    "aliases": [
+      "RGA Japan",
+      "Reinsurance Group of America Japan",
+      "RGA リインシュアランス",
+      "アールジーエー",
+      "RGA Re Japan",
+      "RGA Japan Branch"
+    ],
+    "domain": "life-insurers",
+    "created": "2026-05-24",
+    "last_updated": "2026-05-24",
+    "last_tended": "2026-05-24",
+    "review_by": "2026-11-20",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "insurance",
+      "reinsurance",
+      "life-reinsurance",
+      "foreign-affiliated",
+      "life-insurance",
+      "operating-company"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.rgare.com/about-rga/our-company/global-operations/japan",
+      "https://www.fsa.go.jp/menkyo/hoken.pdf",
+      "https://www.fsa.go.jp/menkyo/menkyoj/seimei.pdf"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against ジェネラル再保険日本支店 as a US-headquartered reinsurer peer, and against スイス再保険日本支店 / ハノーバー再保険日本支店 for life-reinsurance competitive context. The domestic-reinsurer contrast remains トーア再保険, and broader system map is insurance index.",
+  "headings": [
+    "RGA リインシュアランス・カンパニー日本支店",
+    "Wiki route",
+    "TL;DR",
+    "1. License / group boundary",
+    "2. Business lines in Japan",
+    "4. Why this page matters",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 14,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "dai-ichi-life",
+      "gen-re-japan",
+      "hannover-re-japan",
+      "insurance/INDEX",
+      "life-insurers/aflac-japan",
+      "nippon-life",
+      "non-life-insurers/gen-re-japan",
+      "non-life-insurers/hannover-re-japan",
+      "non-life-insurers/swiss-re-japan",
+      "non-life-insurers/toa-reinsurance",
+      "scor-japan",
+      "swiss-re-japan",
+      "toa-reinsurance"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/dai-ichi-life",
+      "https://finwiki.zksc.io/gen-re-japan",
+      "https://finwiki.zksc.io/hannover-re-japan",
+      "https://finwiki.zksc.io/insurance/INDEX",
+      "https://finwiki.zksc.io/life-insurers/aflac-japan",
+      "https://finwiki.zksc.io/nippon-life",
+      "https://finwiki.zksc.io/non-life-insurers/gen-re-japan",
+      "https://finwiki.zksc.io/non-life-insurers/hannover-re-japan",
+      "https://finwiki.zksc.io/non-life-insurers/swiss-re-japan",
+      "https://finwiki.zksc.io/non-life-insurers/toa-reinsurance",
+      "https://finwiki.zksc.io/scor-japan",
+      "https://finwiki.zksc.io/swiss-re-japan",
+      "https://finwiki.zksc.io/toa-reinsurance"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2787,
+    "word_like_tokens": 403,
+    "inbound_wikilinks_count": 5,
+    "last_modified": "2026-06-04"
+  }
+}

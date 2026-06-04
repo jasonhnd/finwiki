@@ -54,7 +54,6 @@
     "wikilinks_count": 10,
     "wikilinks": [
       "INDEX",
-      "JapanFG/mufg",
       "fintech/INDEX",
       "fintech/bis-project-agora-overview",
       "fintech/institutional-stablecoin-deposit-token-thesis",
@@ -62,11 +61,11 @@
       "fintech/japan-stablecoin-regulatory-landscape",
       "fintech/jurisdiction-list-monetary-protectionism",
       "fintech/mbridge-bis-multi-cbdc-overview",
-      "fintech/three-circles-stablecoin-mra-framework"
+      "fintech/three-circles-stablecoin-mra-framework",
+      "megabanks/mufg"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/mufg",
       "https://finwiki.zksc.io/fintech/INDEX",
       "https://finwiki.zksc.io/fintech/bis-project-agora-overview",
       "https://finwiki.zksc.io/fintech/institutional-stablecoin-deposit-token-thesis",
@@ -74,15 +73,16 @@
       "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
       "https://finwiki.zksc.io/fintech/jurisdiction-list-monetary-protectionism",
       "https://finwiki.zksc.io/fintech/mbridge-bis-multi-cbdc-overview",
-      "https://finwiki.zksc.io/fintech/three-circles-stablecoin-mra-framework"
+      "https://finwiki.zksc.io/fintech/three-circles-stablecoin-mra-framework",
+      "https://finwiki.zksc.io/megabanks/mufg"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2560,
+    "nonspace_chars": 2562,
     "word_like_tokens": 440,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-04"
   }
 }

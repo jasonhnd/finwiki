@@ -31,8 +31,8 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 **Core intent of the 49% MUTB stake design**:
 
 ```
-MUTB ([[JapanFG/mufg|Mitsubishi UFJ Trust and Banking]]) 49.0%   <- largest single shareholder, but below majority control
-SMBC group ([[JapanFG/smfg|SMFG]])                       ~15%    <- important partner
+MUTB ([[megabanks/mufg|Mitsubishi UFJ Trust and Banking]]) 49.0%   <- largest single shareholder, but below majority control
+SMBC group ([[megabanks/smfg|SMFG]])                       ~15%    <- important partner
 Mizuho Trust Bank                                         ~15%    <- important partner
 NTT Data                                                  ~10%    <- technology partner
 JPX                                                       ~5%     <- exchange partner
@@ -72,7 +72,7 @@ Other shareholders                                       ~3%
 | Geographic scope | Japan-centered, with expansion under discussion | Global design, still in pilot |
 | Exit option | Shareholder stake can be sold | Sovereign commitment is difficult to unwind |
 
-**Implication**: [[fintech/bis-project-agora-overview|Agorá]] has strong public-sector commitment and regulatory integration but moves slowly. [[JapanFG/progmat|Progmat]] has greater speed and flexibility, but weaker international public-sector legitimacy than Agorá. The two may become complementary: Agorá supplies the international architecture, while Progmat supplies country-level implementation.
+**Implication**: [[fintech/bis-project-agora-overview|Agorá]] has strong public-sector commitment and regulatory integration but moves slowly. [[payment-firms/progmat|Progmat]] has greater speed and flexibility, but weaker international public-sector legitimacy than Agorá. The two may become complementary: Agorá supplies the international architecture, while Progmat supplies country-level implementation.
 
 ## Common risks
 

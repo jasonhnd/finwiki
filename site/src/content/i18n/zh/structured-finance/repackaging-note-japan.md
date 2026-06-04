@@ -11,7 +11,7 @@ translated_at: 2026-06-01T04:15:40.106Z
 
 ## TL;DR
 
-**repackaging note（リパッケージ債，“repack”）** 是一种结构化信用产品，其中 [[structured-finance/spv-tk-gk-vehicle-japan-tax|SPV]] 购买底层债务资产（债券、贷款或一篮子债券），进入衍生品叠加（货币互换、利率互换，有时包括信用违约互换），并向投资者重新发行新的 notes，使其具有不同的货币、票息结构、期限或信用组合。日本市场同时有 **institutional repacks**（通常为大额交易，由 megabank-securities arms 和外国投资银行销售给日本寿险、地方银行、[[JapanFG/japan-post-bank|JPost]]、养老金、资产管理人等，例如将 USD 公司债转换为 JPY 固定利率票据）和 **retail repacks**（面额较小，通过 [[JapanFG/nomura-securities|Nomura]]、[[JapanFG/daiwa-securities|Daiwa]]、地区证券公司的零售经纪网络分销，通常是与外汇或利率触发器挂钩的高票息 notes，经常以新兴市场主权债为底层）。Dealer franchise 分为 **日本 megabank 证券子公司**（[[JapanFG/mufg-securities|MUFG MS]]、[[JapanFG/smbc-nikko|SMBC Nikko]]、[[JapanFG/mizuho-securities|Mizuho Securities]]）和 **外国投资银行**（Goldman、Morgan Stanley、J.P. Morgan、Citi、BNP Paribas 等），后者历史上是日本 repack franchise 的发起者。
+**repackaging note（リパッケージ債，“repack”）** 是一种结构化信用产品，其中 [[structured-finance/spv-tk-gk-vehicle-japan-tax|SPV]] 购买底层债务资产（债券、贷款或一篮子债券），进入衍生品叠加（货币互换、利率互换，有时包括信用违约互换），并向投资者重新发行新的 notes，使其具有不同的货币、票息结构、期限或信用组合。日本市场同时有 **institutional repacks**（通常为大额交易，由 megabank-securities arms 和外国投资银行销售给日本寿险、地方银行、[[regional-banks/japan-post-bank|JPost]]、养老金、资产管理人等，例如将 USD 公司债转换为 JPY 固定利率票据）和 **retail repacks**（面额较小，通过 [[securities-firms/nomura-securities|Nomura]]、[[securities-firms/daiwa-securities|Daiwa]]、地区证券公司的零售经纪网络分销，通常是与外汇或利率触发器挂钩的高票息 notes，经常以新兴市场主权债为底层）。Dealer franchise 分为 **日本 megabank 证券子公司**（[[securities-firms/mufg-securities|MUFG MS]]、[[securities-firms/smbc-nikko|SMBC Nikko]]、[[securities-firms/mizuho-securities|Mizuho Securities]]）和 **外国投资银行**（Goldman、Morgan Stanley、J.P. Morgan、Citi、BNP Paribas 等），后者历史上是日本 repack franchise 的发起者。
 
 ## Wiki 路由
 
@@ -88,13 +88,13 @@ Underlying asset
 **外国投资银行**（Goldman、Morgan Stanley、J.P. Morgan、Citi、BNP Paribas、Société Générale 等）历史上是日本 repack franchise 的发起者——它们带来了使产品可行的结构化专业能力、衍生品基础设施和 cross-currency-swap 能力。
 
 **日本 megabank 证券子公司** 逐步建立了 repack 业务：
-- [[JapanFG/mufg-securities|MUFG Morgan Stanley Securities]]（合资）
-- [[JapanFG/smbc-nikko|SMBC Nikko Securities]]
-- [[JapanFG/mizuho-securities|Mizuho Securities]]
+- [[securities-firms/mufg-securities|MUFG Morgan Stanley Securities]]（合资）
+- [[securities-firms/smbc-nikko|SMBC Nikko Securities]]
+- [[securities-firms/mizuho-securities|Mizuho Securities]]
 
 如今的分工大致是：
 - Institutional repack：foreign IB 在 cross-currency 复杂交易中较强；日本 megabank securities 在较简单的机构 repackages 和关系驱动型 placement 中较强
-- Retail repack：日本证券公司（[[JapanFG/nomura-securities|Nomura]]、[[JapanFG/daiwa-securities|Daiwa]]、地区经纪商）主导分销
+- Retail repack：日本证券公司（[[securities-firms/nomura-securities|Nomura]]、[[securities-firms/daiwa-securities|Daiwa]]、地区经纪商）主导分销
 
 ## 5. SPV / 法律结构
 
@@ -153,7 +153,7 @@ Underlying asset
 
 ## 10. 未决问题
 
-- [[JapanFG/boj|BOJ]] 利率正常化下零售 repack 市场规模如何变化——较高国内收益率是否会降低对高票息零售结构的需求
+- [[financial-regulators/boj|BOJ]] 利率正常化下零售 repack 市场规模如何变化——较高国内收益率是否会降低对高票息零售结构的需求
 - ESG-linked repacks（例如将 green-bond 底层重组为日元票据）是否获得有意义份额
 - foreign-IB 在日本 repack 相对于国内 megabank securities arms 的市场份额演进速度
 - [[structured-finance/credit-rating-methodology-jcr-r-and-i|JCR / R&I]] 与全球机构方法论差异是否影响 repack 发行经济性
@@ -169,8 +169,8 @@ Underlying asset
 - [[derivatives/japan-cds-market-overview|Japan CDS market overview]]
 - [[finance/INDEX|finance index]]
 - [[real-estate-finance/INDEX|real-estate-finance index]]
-- [[JapanFG/mufg|MUFG]] · [[JapanFG/smfg|SMFG]] · [[JapanFG/mizuho-fg|Mizuho FG]]
-- [[JapanFG/japan-post-bank|Japan Post Bank]] · [[JapanFG/japan-exchange-group|JPX]]
+- [[megabanks/mufg|MUFG]] · [[megabanks/smfg|SMFG]] · [[megabanks/mizuho-fg|Mizuho FG]]
+- [[regional-banks/japan-post-bank|Japan Post Bank]] · [[financial-regulators/japan-exchange-group|JPX]]
 
 ## 来源
 

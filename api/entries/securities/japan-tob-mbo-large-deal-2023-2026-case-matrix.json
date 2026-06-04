@@ -70,12 +70,7 @@
     "wikilinks_count": 31,
     "wikilinks": [
       "INDEX",
-      "JapanFG/mizuho-bank",
-      "JapanFG/mufg",
       "JapanFG/orix",
-      "JapanFG/smbc",
-      "JapanFG/sumitomo-mitsui-trust",
-      "JapanFG/tokio-marine-nichido",
       "business/japan-listed-corp-strategic-restructuring-matrix",
       "business/softbank-vision-fund-arm-ipo-template",
       "business/sony-fg-partial-spinoff-case",
@@ -95,20 +90,20 @@
       "finance/japan-takeover-defense-poison-pill",
       "finance/japan-tender-offer-process",
       "finance/jftc-merger-control-process",
+      "megabanks/mizuho-bank",
+      "megabanks/mufg",
+      "megabanks/smbc",
+      "non-life-insurers/tokio-marine-nichido",
       "securities/INDEX",
       "securities/japan-ipo-2024-2025-case-study-kioxia-tokyo-metro",
       "securities/japan-ipo-listing-disclosure-route",
       "securities/japan-margin-trading-and-securities-finance",
-      "securities/tokyo-stock-exchange"
+      "securities/tokyo-stock-exchange",
+      "trust-banks/sumitomo-mitsui-trust"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/mizuho-bank",
-      "https://finwiki.zksc.io/JapanFG/mufg",
       "https://finwiki.zksc.io/JapanFG/orix",
-      "https://finwiki.zksc.io/JapanFG/smbc",
-      "https://finwiki.zksc.io/JapanFG/sumitomo-mitsui-trust",
-      "https://finwiki.zksc.io/JapanFG/tokio-marine-nichido",
       "https://finwiki.zksc.io/business/japan-listed-corp-strategic-restructuring-matrix",
       "https://finwiki.zksc.io/business/softbank-vision-fund-arm-ipo-template",
       "https://finwiki.zksc.io/business/sony-fg-partial-spinoff-case",
@@ -128,19 +123,24 @@
       "https://finwiki.zksc.io/finance/japan-takeover-defense-poison-pill",
       "https://finwiki.zksc.io/finance/japan-tender-offer-process",
       "https://finwiki.zksc.io/finance/jftc-merger-control-process",
+      "https://finwiki.zksc.io/megabanks/mizuho-bank",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/smbc",
+      "https://finwiki.zksc.io/non-life-insurers/tokio-marine-nichido",
       "https://finwiki.zksc.io/securities/INDEX",
       "https://finwiki.zksc.io/securities/japan-ipo-2024-2025-case-study-kioxia-tokyo-metro",
       "https://finwiki.zksc.io/securities/japan-ipo-listing-disclosure-route",
       "https://finwiki.zksc.io/securities/japan-margin-trading-and-securities-finance",
-      "https://finwiki.zksc.io/securities/tokyo-stock-exchange"
+      "https://finwiki.zksc.io/securities/tokyo-stock-exchange",
+      "https://finwiki.zksc.io/trust-banks/sumitomo-mitsui-trust"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 19834,
-    "word_like_tokens": 3037,
+    "nonspace_chars": 19858,
+    "word_like_tokens": 3040,
     "inbound_wikilinks_count": 0,
-    "last_modified": "2026-06-02"
+    "last_modified": "2026-06-04"
   }
 }

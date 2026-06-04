@@ -72,7 +72,7 @@ Underlying property cash flow
 | 夹层 | 次级社债或次级贷款 | 次于高级债，优先于 TK 权益 |
 | TK 权益 | 匿名合伙出资 | 最劣后，吸收第一损失 |
 
-机构投资者偏好社债格式的原因包括标准化债权形式、托管便利、到期日和票息清晰、可通过 [[securities/japan-securities-depository-center|JASDEC]] 账簿记载结算，并可由 [[JapanFG/jcr|JCR]]、[[JapanFG/rating-and-investment|R&I]]、[[JapanFG/sp-global-ratings-japan|S&P]] 或 [[JapanFG/moodys-japan|Moody's]] 使用结构性金融准则评级。
+机构投资者偏好社债格式的原因包括标准化债权形式、托管便利、到期日和票息清晰、可通过 [[securities/japan-securities-depository-center|JASDEC]] 账簿记载结算，并可由 [[financial-regulators/jcr|JCR]]、[[financial-regulators/rating-and-investment|R&I]]、[[JapanFG/sp-global-ratings-japan|S&P]] 或 [[JapanFG/moodys-japan|Moody's]] 使用结构性金融准则评级。
 
 ## 5. 与 CMBS 和 TMK 的比较
 
@@ -106,9 +106,9 @@ Underlying property cash flow
 - [[real-estate-finance/real-estate-bridge-fund-japan]]
 - [[real-estate-finance/japan-cmbs-rmbs-securitization]]
 - [[banking/trust-bank-custody-operating-comparison]]
-- [[JapanFG/mitsubishi-ufj-trust-bank]]
-- [[JapanFG/sumitomo-mitsui-trust]]
-- [[JapanFG/mizuho-trust-bank]]
+- [[trust-banks/mitsubishi-ufj-trust-bank]]
+- [[trust-banks/sumitomo-mitsui-trust]]
+- [[trust-banks/mizuho-trust-bank]]
 - [[securities/japan-securities-depository-center]]
 
 ## 来源

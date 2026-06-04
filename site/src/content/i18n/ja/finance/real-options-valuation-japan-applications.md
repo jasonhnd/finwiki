@@ -160,7 +160,7 @@ The [[finance/japan-corporate-fx-and-rate-hedge-policy|corporate hedge policy]] 
 |---|---|
 | fairness opinion実務 | リアルオプションは稀 in [[finance/japan-mbo-and-squeeze-out-process|MBO]] and [[finance/japan-tender-offer-process|TOB]] fairness opinionではDCF / マルチプル / NAVがなお主流 |
 | 経産省Fair M&A指針 | 複数手法による評価規律。リアルオプションは補足分析として提示可能 |
-| 政策金融機関の関与 | [[policy-finance/japan-project-finance-stack-diagram|JBIC]], [[JapanFG/dbj|DBJ]] 組込みオプショナリティを持つtransition financeおよび再エネプロジェクト投資に参加する |
+| 政策金融機関の関与 | [[policy-finance/japan-project-finance-stack-diagram|JBIC]], [[financial-regulators/dbj|DBJ]] 組込みオプショナリティを持つtransition financeおよび再エネプロジェクト投資に参加する |
 | 東証ガバナンス・コード | 資本コストに関するエンゲージメント・プログラムは明示的な資本コスト分析を促す。リアルオプションはこれを研ぎ澄ませる。 |
 | リスクフリー・アンカー | [[finance/cost-of-capital-japan-2026-reference|10Y JGB]] は標準的なリスクフリー入力である |
 | ボラティリティ入力 | セクター / 資産クラスのインプライドまたはヒストリカル・ボラティリティ。最も争われる入力であることが多い。 |

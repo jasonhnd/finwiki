@@ -59,8 +59,6 @@
     "wikilinks_count": 20,
     "wikilinks": [
       "INDEX",
-      "JapanFG/mitsubishi-ufj-trust-bank",
-      "JapanFG/sumitomo-mitsui-trust",
       "banking/INDEX",
       "banking/INDEX\\",
       "banking/trust-bank-custody-operating-comparison",
@@ -77,12 +75,12 @@
       "real-estate-finance/j-reit-vs-us-reit-governance-comparison",
       "real-estate-finance/top-10-j-reit-overview-matrix",
       "retail/aeon-group",
-      "retail/seven-and-i-hd"
+      "retail/seven-and-i-hd",
+      "trust-banks/mitsubishi-ufj-trust-bank",
+      "trust-banks/sumitomo-mitsui-trust"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/mitsubishi-ufj-trust-bank",
-      "https://finwiki.zksc.io/JapanFG/sumitomo-mitsui-trust",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/INDEX\\",
       "https://finwiki.zksc.io/banking/trust-bank-custody-operating-comparison",
@@ -99,15 +97,17 @@
       "https://finwiki.zksc.io/real-estate-finance/j-reit-vs-us-reit-governance-comparison",
       "https://finwiki.zksc.io/real-estate-finance/top-10-j-reit-overview-matrix",
       "https://finwiki.zksc.io/retail/aeon-group",
-      "https://finwiki.zksc.io/retail/seven-and-i-hd"
+      "https://finwiki.zksc.io/retail/seven-and-i-hd",
+      "https://finwiki.zksc.io/trust-banks/mitsubishi-ufj-trust-bank",
+      "https://finwiki.zksc.io/trust-banks/sumitomo-mitsui-trust"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 10444,
-    "word_like_tokens": 1703,
+    "nonspace_chars": 10452,
+    "word_like_tokens": 1705,
     "inbound_wikilinks_count": 12,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-04"
   }
 }

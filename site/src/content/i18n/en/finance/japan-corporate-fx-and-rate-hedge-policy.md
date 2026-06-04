@@ -16,7 +16,7 @@ This page sits under [[finance/INDEX|finance domain]]. Read it with [[finance/ja
 
 ## TL;DR
 
-Japan listed corporates run formal hedge policies covering FX (JPY exposure vs USD, EUR, RMB, others), interest rate (floating-rate debt and swap exposures), and commodity (energy, metals, agri) risk. Hedge ratio decisions depend on board-approved hedge policy, exposure tenor profile, hedge-accounting eligibility under IFRS 9 / JGAAP, derivative cost vs natural hedge availability, and embedded derivative considerations. Major shōsha ([[JapanFG/mitsubishi-corp|Mitsubishi Corp]], [[JapanFG/mitsui-co|Mitsui & Co]], [[JapanFG/itochu-corp|Itochu Corp]]) and large manufacturers operate sophisticated multi-currency multi-commodity hedge programmes. Megabanks ([[JapanFG/mufg|MUFG]], [[JapanFG/smfg|SMFG]], [[JapanFG/mizuho-fg|Mizuho FG]]) are dominant hedge counterparties.
+Japan listed corporates run formal hedge policies covering FX (JPY exposure vs USD, EUR, RMB, others), interest rate (floating-rate debt and swap exposures), and commodity (energy, metals, agri) risk. Hedge ratio decisions depend on board-approved hedge policy, exposure tenor profile, hedge-accounting eligibility under IFRS 9 / JGAAP, derivative cost vs natural hedge availability, and embedded derivative considerations. Major shōsha ([[financial-conglomerates/mitsubishi-corp|Mitsubishi Corp]], [[financial-conglomerates/mitsui-co|Mitsui & Co]], [[financial-conglomerates/itochu-corp|Itochu Corp]]) and large manufacturers operate sophisticated multi-currency multi-commodity hedge programmes. Megabanks ([[megabanks/mufg|MUFG]], [[megabanks/smfg|SMFG]], [[megabanks/mizuho-fg|Mizuho FG]]) are dominant hedge counterparties.
 
 ## Hedge policy framework
 
@@ -167,9 +167,9 @@ Shōsha trade physical commodities (energy, metals, grains, soft commodities) an
 
 | Group | Public disclosure source |
 |---|---|
-| [[JapanFG/mitsubishi-corp|Mitsubishi Corp]] | Annual securities report; commodity exposure and hedge ratio narrative |
-| [[JapanFG/mitsui-co|Mitsui & Co]] | Annual securities report; energy / metals exposure |
-| [[JapanFG/itochu-corp|Itochu Corp]] | Annual securities report; resource / non-resource segment exposure |
+| [[financial-conglomerates/mitsubishi-corp|Mitsubishi Corp]] | Annual securities report; commodity exposure and hedge ratio narrative |
+| [[financial-conglomerates/mitsui-co|Mitsui & Co]] | Annual securities report; energy / metals exposure |
+| [[financial-conglomerates/itochu-corp|Itochu Corp]] | Annual securities report; resource / non-resource segment exposure |
 
 Commodity hedge instruments include exchange-traded futures (CME, ICE, TOCOM, LME, SHFE), OTC swaps, options, and physical natural hedges through paired buy / sell contracts.
 
@@ -190,9 +190,9 @@ Energy procurement at large industrial consumers operates separately as a specia
 
 | Counterparty | Role |
 |---|---|
-| [[JapanFG/mufg|MUFG]] / MUFG Bank | Dominant FX / IRS counterparty for Japan corporate |
-| [[JapanFG/smfg|SMFG]] / SMBC | Dominant FX / IRS counterparty |
-| [[JapanFG/mizuho-fg|Mizuho FG]] / Mizuho Bank | Dominant FX / IRS counterparty |
+| [[megabanks/mufg|MUFG]] / MUFG Bank | Dominant FX / IRS counterparty for Japan corporate |
+| [[megabanks/smfg|SMFG]] / SMBC | Dominant FX / IRS counterparty |
+| [[megabanks/mizuho-fg|Mizuho FG]] / Mizuho Bank | Dominant FX / IRS counterparty |
 | Trust banks (SMTB, MUFJ Trust) | Specialist hedge / custody / ALM |
 | Global banks | Cross-border, exotic, large-notional hedges |
 | Exchange clearing | TOCOM, JSCC, OSE-listed derivatives |
@@ -246,13 +246,13 @@ See [[finance/japan-activist-investor-playbook|activist playbook]] and [[finance
 - [[finance/multi-jurisdiction-identity-tax-leverage]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[securities/japan-underwriting-market-structure]]
-- [[JapanFG/mufg]]
-- [[JapanFG/smfg]]
-- [[JapanFG/mizuho-fg]]
-- [[JapanFG/mitsubishi-corp]]
-- [[JapanFG/mitsui-co]]
-- [[JapanFG/itochu-corp]]
-- [[JapanFG/dbj]]
+- [[megabanks/mufg]]
+- [[megabanks/smfg]]
+- [[megabanks/mizuho-fg]]
+- [[financial-conglomerates/mitsubishi-corp]]
+- [[financial-conglomerates/mitsui-co]]
+- [[financial-conglomerates/itochu-corp]]
+- [[financial-regulators/dbj]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

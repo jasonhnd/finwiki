@@ -23,7 +23,7 @@ For FinWiki, OSE is the starting point for Nikkei 225 futures/options, TOPIX fut
 
 | Layer | OSE reading |
 |---|---|
-| Parent | [[JapanFG/japan-exchange-group|Japan Exchange Group]] |
+| Parent | [[financial-regulators/japan-exchange-group|Japan Exchange Group]] |
 | Legal form | Osaka Exchange, Inc. |
 | Founded | 1949-04-01 |
 | Function | Financial derivatives exchange market operation. |
@@ -49,7 +49,7 @@ OSE is where JPX's derivatives ambitions concentrate. It matters for:
 
 ## Related
 
-- [[JapanFG/japan-exchange-group]]
+- [[financial-regulators/japan-exchange-group]]
 - [[securities/tokyo-stock-exchange]]
 - [[securities/tokyo-commodity-exchange]]
 - [[securities/japan-securities-clearing-corp]]

@@ -1,0 +1,78 @@
+{
+  "schema_version": "1.0",
+  "slug": "foreign-financial-institutions/natixis-japan",
+  "source_path": "foreign-financial-institutions/natixis-japan.md",
+  "url": "https://finwiki.zksc.io/foreign-financial-institutions/natixis-japan",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/foreign-financial-institutions/natixis-japan.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/foreign-financial-institutions/natixis-japan.md",
+  "domain": "foreign-financial-institutions",
+  "title": "ナティクシス 東京支店",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "ナティクシス 東京支店",
+    "aliases": [
+      "Natixis Japan",
+      "Natixis Tokyo Branch",
+      "Natixis CIB Japan",
+      "ナティクシス",
+      "Natixis Corporate & Investment Banking Japan"
+    ],
+    "domain": "foreign-financial-institutions",
+    "created": "2026-05-21",
+    "last_updated": "2026-05-21",
+    "last_tended": "2026-05-21",
+    "review_by": "2026-11-21",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "banking",
+      "foreign-bank-branch",
+      "france",
+      "wholesale-banking",
+      "operating-branch"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
+      "https://apac.cib.natixis.com/site/l5uo4negaps6/api-website-feature/files/download/13335/_press_release__natixis_cib_establishes_a_banking_branch_in_japan.pdf?file_type=media_files"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against クレディ・アグリコル銀行 東京支店 for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "ナティクシス 東京支店",
+    "Wiki route",
+    "TL;DR",
+    "1. License / branch boundary",
+    "2. Operating model",
+    "3. Why this page matters",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 6,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "banking/INDEX",
+      "banking/foreign-bank-japan-retreat",
+      "foreign-financial-institutions/bnp-paribas-japan",
+      "foreign-financial-institutions/credit-agricole-bank-japan",
+      "foreign-financial-institutions/socgen-japan"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/banking/foreign-bank-japan-retreat",
+      "https://finwiki.zksc.io/foreign-financial-institutions/bnp-paribas-japan",
+      "https://finwiki.zksc.io/foreign-financial-institutions/credit-agricole-bank-japan",
+      "https://finwiki.zksc.io/foreign-financial-institutions/socgen-japan"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2751,
+    "word_like_tokens": 423,
+    "inbound_wikilinks_count": 8,
+    "last_modified": "2026-06-04"
+  }
+}

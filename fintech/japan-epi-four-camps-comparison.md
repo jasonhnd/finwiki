@@ -55,11 +55,11 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 | Progmat | B2B 大口 · クロスボーダー準拠なし | #1 | #3 ★★★ |
 | みんなの銀行 | 純国内リテール | #4 | #4 ★★ |
 
-**コアロジック**:§501(d) 入榜リスト視点下では、**クロスボーダー準拠能力 > 国内規模**。SBI Circle Holdings の USDC 独占販売は §501(d) 米ドル圏との自動接続を意味し、これは [[JapanFG/progmat|Progmat]] / [[JapanFG/jpyc|JPYC]] / みんなの銀行いずれも具備しない能力である。Project Pax の 3 大行クロスボーダー SC プロジェクトは SWIFT 互換性（技術層）のみを解決し、§501(d) コンプライアンス（法律層）は解決しない。
+**コアロジック**:§501(d) 入榜リスト視点下では、**クロスボーダー準拠能力 > 国内規模**。SBI Circle Holdings の USDC 独占販売は §501(d) 米ドル圏との自動接続を意味し、これは [[payment-firms/progmat|Progmat]] / [[payment-firms/jpyc|JPYC]] / みんなの銀行いずれも具備しない能力である。Project Pax の 3 大行クロスボーダー SC プロジェクトは SWIFT 互換性（技術層）のみを解決し、§501(d) コンプライアンス（法律層）は解決しない。
 
 ## Origin & evolution
 
-2023-06 EPI 3 型発効 → 2024 年 3 大行 Progmat XJPY + JPYC 流通量同時成長 → 2025-08 SBI Circle Holdings 50/50 合弁設立で構図変化 → 2026-Q1 JPYC 流通量 21 億円 + 6 万 holders + 3 か月で 2.6 倍成長 → 2026-05 §501(d) 視点下で SBI-Circle が #1 に上昇。2028 最終構図予測:SBI-Circle クロスボーダー + JPYC リテール + Progmat 大口 B2B + みんなの銀行 地域。日本ライセンス体系総覧は [[JapanFG/legal-financial-licenses/INDEX|日本金融ライセンス索引]] を参照。
+2023-06 EPI 3 型発効 → 2024 年 3 大行 Progmat XJPY + JPYC 流通量同時成長 → 2025-08 SBI Circle Holdings 50/50 合弁設立で構図変化 → 2026-Q1 JPYC 流通量 21 億円 + 6 万 holders + 3 か月で 2.6 倍成長 → 2026-05 §501(d) 視点下で SBI-Circle が #1 に上昇。2028 最終構図予測:SBI-Circle クロスボーダー + JPYC リテール + Progmat 大口 B2B + みんなの銀行 地域。日本ライセンス体系総覧は [[financial-licenses/INDEX|日本金融ライセンス索引]] を参照。
 
 ## Related
 <!-- wiki-links:managed -->

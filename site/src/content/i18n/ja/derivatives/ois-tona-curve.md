@@ -74,7 +74,7 @@ OIS-TONA と政策金利の誘導目標の関係は次のとおりである:
 - OIS フォワードレートは、各テナーにわたって日銀が政策金利をどこに設定するかの確率加重期待を織り込む。
 - 観測される TONA と同じ期間の含意 OIS フォワードとの差は、MPM 間の政策期待のリプライシングを明らかにする。
 
-政策実施層については [[JapanFG/boj-monetary-policy]](存在する場合)および [[money-market/boj-open-market-operations]] を参照;この項目はデリバティブによる表現を扱う。
+政策実施層については [[financial-regulators/boj-monetary-policy]](存在する場合)および [[money-market/boj-open-market-operations]] を参照;この項目はデリバティブによる表現を扱う。
 
 ## OIS カーブの構築
 
@@ -166,9 +166,9 @@ TONA 先物は流動性を増しつつあるが、依然として OTC OIS より
 - [[securities/INDEX]]
 - [[securities/japan-market-infrastructure-map]]
 - [[securities/japan-securities-clearing-corp]]
-- [[JapanFG/mufg-bank]]
-- [[JapanFG/sumitomo-mitsui-banking-corp]]
-- [[JapanFG/mizuho-bank]]
+- [[megabanks/mufg-bank]]
+- [[megabanks/sumitomo-mitsui-banking-corp]]
+- [[megabanks/mizuho-bank]]
 - [[INDEX|FinWiki index]]
 
 ## 出典

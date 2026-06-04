@@ -94,10 +94,10 @@ Read CP outstanding as a flow indicator of corporate short-term funding demand. 
 
 ## JapanFG Relevance
 
-- Megabank groups [[JapanFG/mufg]], [[JapanFG/smfg]], and [[JapanFG/mizuho-fg]] are major CP investors through their banking books and trust subsidiaries.
-- Securities firms [[JapanFG/nomura-hd]], [[JapanFG/daiwa-sg]], [[JapanFG/mizuho-securities]], [[JapanFG/mufg-mums]], and [[JapanFG/smbc-nikko]] arrange CP programs and operate primary distribution.
-- [[JapanFG/tokyo-tanshi]], [[JapanFG/central-tanshi]], and [[JapanFG/ueda-yagi-tanshi]] intermediate short-term funds and provide CP-market brokerage support adjacent to call and repo activity.
-- [[JapanFG/japan-securities-finance]] participates in collateral and short-term funding plumbing that interacts with CP.
+- Megabank groups [[megabanks/mufg]], [[megabanks/smfg]], and [[megabanks/mizuho-fg]] are major CP investors through their banking books and trust subsidiaries.
+- Securities firms [[securities-firms/nomura-hd]], [[securities-firms/daiwa-sg]], [[securities-firms/mizuho-securities]], [[securities-firms/mufg-mums]], and [[securities-firms/smbc-nikko]] arrange CP programs and operate primary distribution.
+- [[financial-regulators/tokyo-tanshi]], [[financial-regulators/central-tanshi]], and [[financial-regulators/ueda-yagi-tanshi]] intermediate short-term funds and provide CP-market brokerage support adjacent to call and repo activity.
+- [[financial-regulators/japan-securities-finance]] participates in collateral and short-term funding plumbing that interacts with CP.
 
 ## Boundary Cases
 
@@ -125,10 +125,10 @@ Read CP outstanding as a flow indicator of corporate short-term funding demand. 
 - [[money-market/japan-tbill-treasury-discount-bill]]
 - [[money-market/japan-mmf-money-market-mutual-fund]]
 - [[money-market/boj-post-2024-floor-system-complementary-deposit-facility]]
-- [[JapanFG/boj-monetary-policy]]
-- [[JapanFG/tokyo-tanshi]]
-- [[JapanFG/central-tanshi]]
-- [[JapanFG/ueda-yagi-tanshi]]
+- [[financial-regulators/boj-monetary-policy]]
+- [[financial-regulators/tokyo-tanshi]]
+- [[financial-regulators/central-tanshi]]
+- [[financial-regulators/ueda-yagi-tanshi]]
 - [[securities/japan-securities-depository-center]]
 - [[securities/japan-underwriting-market-structure]]
 - [[INDEX|FinWiki index]]

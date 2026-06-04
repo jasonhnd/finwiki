@@ -67,7 +67,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
   - **瑞士证券交易所上市 Bitcoin ETP**: 2021 年 1 月,被选定为 ETP 的 custody 负责方(已公布)
   - **UAE 政府 / VARA 管辖 case**: 2023 年,在 UAE 取得 VARA 牌照的同期被报道参与政府系案件
   - **与 OKX 的提携(Komainu Connect)**: 2023 年 6 月,公布与 OKX 的 custody 连接提携
-- **竞争比较**: 与 Anchorage Digital、[[exchanges/jp-custody-fireblocks-japan|Fireblocks]]、BitGo 等面向机构的 custody 供应商竞争(参见 [[exchanges/global-institutional-custody-five-pillars|グローバル institutional custody 5 本柱]])。该公司的差异化点在于 Jersey · UK FCA · [[exchanges/uae-vara-licensing-overview|VARA]] 的多重合规 + 与 [[JapanFG/nomura-hd|Nomura]] 集团的亲和性。
+- **竞争比较**: 与 Anchorage Digital、[[exchanges/jp-custody-fireblocks-japan|Fireblocks]]、BitGo 等面向机构的 custody 供应商竞争(参见 [[exchanges/global-institutional-custody-five-pillars|グローバル institutional custody 5 本柱]])。该公司的差异化点在于 Jersey · UK FCA · [[exchanges/uae-vara-licensing-overview|VARA]] 的多重合规 + 与 [[securities-firms/nomura-hd|Nomura]] 集团的亲和性。
 - **账户数 · 托管 AUM**: 未公布
 
 ## 6. 沿革 · 重大事件

@@ -12,11 +12,11 @@ translated_at: 2026-06-01T03:31:12.282Z
 
 ## Wiki route
 
-This entry sits under [[payments/INDEX|payments index]] as the **operator-level 2025 share matrix** that pairs with [[payments/japan-code-payment-competitive-map|Japan code-payment competitive map]] for the strategic lanes view, [[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]] for the cross-scheme economics view, [[payments/funds-transfer-service-providers-japan-index|funds transfer service providers Japan index]] for the EPI / licensing view, [[payments/prepaid-payment-instrument-issuers-japan-index|prepaid payment instrument issuers Japan index]] for the prepaid-balance view, [[payments/famipay-valucreate-strategy|FamiPay ValuCreate strategy]] for the FamiPay-specific entry, and [[payments/cashless-jp-landscape|cashless JP landscape]] for the macro context. Operator anchors are [[JapanFG/paypay|PayPay]], [[JapanFG/paypay-fg|PayPay FG]], [[JapanFG/rakuten-fg|Rakuten FG]], [[JapanFG/rakuten-edy|Rakuten Edy]], [[JapanFG/ndfg|NTT docomo FG]], [[JapanFG/au-payment|au PAY]], [[JapanFG/au-fh|au Financial Holdings]], [[JapanFG/merpay|Merpay]], [[JapanFG/mercari-hd|Mercari HD]], [[JapanFG/famima-digital-one|FamiMa Digital One]], [[JapanFG/mizuho-fg|Mizuho FG]] (J-Coin Pay), and [[JapanFG/yucho|Yucho Bank]] (Yucho Pay).
+This entry sits under [[payments/INDEX|payments index]] as the **operator-level 2025 share matrix** that pairs with [[payments/japan-code-payment-competitive-map|Japan code-payment competitive map]] for the strategic lanes view, [[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]] for the cross-scheme economics view, [[payments/funds-transfer-service-providers-japan-index|funds transfer service providers Japan index]] for the EPI / licensing view, [[payments/prepaid-payment-instrument-issuers-japan-index|prepaid payment instrument issuers Japan index]] for the prepaid-balance view, [[payments/famipay-valucreate-strategy|FamiPay ValuCreate strategy]] for the FamiPay-specific entry, and [[payments/cashless-jp-landscape|cashless JP landscape]] for the macro context. Operator anchors are [[payment-firms/paypay|PayPay]], [[megabanks/paypay-fg|PayPay FG]], [[payment-firms/rakuten-fg|Rakuten FG]], [[payment-firms/rakuten-edy|Rakuten Edy]], [[megabanks/ndfg|NTT docomo FG]], [[payment-firms/au-payment|au PAY]], [[megabanks/au-fh|au Financial Holdings]], [[payment-firms/merpay|Merpay]], [[payment-firms/mercari-hd|Mercari HD]], [[payment-firms/famima-digital-one|FamiMa Digital One]], [[megabanks/mizuho-fg|Mizuho FG]] (J-Coin Pay), and [[regional-banks/yucho|Yucho Bank]] (Yucho Pay).
 
 ## TL;DR
 
-Japan's **code-payment market in 2025** is a **clear oligopoly** with [[JapanFG/paypay|PayPay]] holding majority transaction share, [[JapanFG/rakuten-fg|Rakuten Pay]] and **d-Barai** (NTT docomo) competing for the strong second tier, and **au PAY** (KDDI), **Merpay** (Mercari), and **FamiPay** (FamiMa Digital One) holding meaningful niche-segment positions. METI's 2025 cashless data release (published 2026-03-31) puts **code-payment value at 16.6 trillion yen**, or **10.2% of cashless payment value**, in a market with **58.0% overall cashless ratio (new domestic indicator; the legacy international-comparison indicator is 46.3%)** and 162.7 trillion yen total cashless value. (Note: the earlier METI release of 2025-03-31 reported the **2024** figures: 42.8% ratio / 141.0tn yen / code 13.5tn yen / 9.6%, so the 58.0% / 16.6tn yen / 10.2% set here is specifically the 2025 data from the 2026-03-31 release, not the 2024 release.) The Cashless Promotion Council's quarterly code-payment trend survey publishes store-value / count / remittance / balance / MAU breakdowns. **PayPay** leads on every dimension (registered users, MAU, TPV, merchant acceptance), but **Rakuten Pay** has the strongest ecosystem-anchor advantage via Rakuten Card linkage and Rakuten Point integration, **d-Barai** has telecom-billing advantages from NTT docomo, **au PAY** has the bank-anchor advantage via au Jibun Bank, **Merpay** has the marketplace-anchor plus virtual-credit advantage, and **FamiPay** has the retail-anchor convenience-store advantage. **J-Coin Pay** (Mizuho) and **Yucho Pay** (Japan Post Bank) operate bank-anchored wallets at materially smaller scale. **Seven Pay** is included historically as a 2019-discontinued operator. This matrix puts all nine side-by-side along the operator dimensions that determine 2026 competitive position.
+Japan's **code-payment market in 2025** is a **clear oligopoly** with [[payment-firms/paypay|PayPay]] holding majority transaction share, [[payment-firms/rakuten-fg|Rakuten Pay]] and **d-Barai** (NTT docomo) competing for the strong second tier, and **au PAY** (KDDI), **Merpay** (Mercari), and **FamiPay** (FamiMa Digital One) holding meaningful niche-segment positions. METI's 2025 cashless data release (published 2026-03-31) puts **code-payment value at 16.6 trillion yen**, or **10.2% of cashless payment value**, in a market with **58.0% overall cashless ratio (new domestic indicator; the legacy international-comparison indicator is 46.3%)** and 162.7 trillion yen total cashless value. (Note: the earlier METI release of 2025-03-31 reported the **2024** figures: 42.8% ratio / 141.0tn yen / code 13.5tn yen / 9.6%, so the 58.0% / 16.6tn yen / 10.2% set here is specifically the 2025 data from the 2026-03-31 release, not the 2024 release.) The Cashless Promotion Council's quarterly code-payment trend survey publishes store-value / count / remittance / balance / MAU breakdowns. **PayPay** leads on every dimension (registered users, MAU, TPV, merchant acceptance), but **Rakuten Pay** has the strongest ecosystem-anchor advantage via Rakuten Card linkage and Rakuten Point integration, **d-Barai** has telecom-billing advantages from NTT docomo, **au PAY** has the bank-anchor advantage via au Jibun Bank, **Merpay** has the marketplace-anchor plus virtual-credit advantage, and **FamiPay** has the retail-anchor convenience-store advantage. **J-Coin Pay** (Mizuho) and **Yucho Pay** (Japan Post Bank) operate bank-anchored wallets at materially smaller scale. **Seven Pay** is included historically as a 2019-discontinued operator. This matrix puts all nine side-by-side along the operator dimensions that determine 2026 competitive position.
 
 ## Why this matrix matters
 
@@ -26,8 +26,8 @@ Three claims commonly muddle code-payment analysis. First, **"PayPay won"** — 
 
 | Dimension | PayPay | Rakuten Pay | d-Barai (NTT docomo) | au PAY (KDDI) | Merpay (Mercari) | FamiPay (FamiMa) | J-Coin Pay (Mizuho) | Yucho Pay (JP Bank) | Seven Pay (discontinued) |
 |---|---|---|---|---|---|---|---|---|---|
-| **Operator entity** | PayPay Corp. ([[JapanFG/paypay\|PayPay]]) | Rakuten Payment, Inc. ([[JapanFG/rakuten-fg\|Rakuten FG]]) | NTT docomo, Inc. ([[JapanFG/ndfg\|NTT docomo FG]]) | au Payment Corp. ([[JapanFG/au-payment\|au PAY]]) | Merpay, Inc. ([[JapanFG/merpay\|Merpay]]) | FamiMa Digital One Co., Ltd. ([[JapanFG/famima-digital-one\|FamiMa Digital One]]) | Mizuho Bank / J-Coin Pay operation ([[JapanFG/mizuho-fg\|Mizuho FG]]) | Japan Post Bank Co., Ltd. ([[JapanFG/yucho\|Yucho]]) | Seven Pay Co., Ltd. (dissolved 2019) |
-| **Parent group** | SoftBank Group + Z Holdings / LY Corporation; [[JapanFG/paypay-fg\|PayPay FG]] umbrella | Rakuten Group ([[JapanFG/rakuten-fg\|Rakuten FG]]) | NTT Group / NTT docomo (re-consolidated under NTT 2020) | KDDI Group ([[JapanFG/au-fh\|au Financial Holdings]]) | Mercari Inc. ([[JapanFG/mercari-hd\|Mercari HD]]) | Itochu + FamilyMart group | Mizuho Financial Group | Japan Post Group | Seven & i Holdings |
+| **Operator entity** | PayPay Corp. ([[payment-firms/paypay\|PayPay]]) | Rakuten Payment, Inc. ([[payment-firms/rakuten-fg\|Rakuten FG]]) | NTT docomo, Inc. ([[megabanks/ndfg\|NTT docomo FG]]) | au Payment Corp. ([[payment-firms/au-payment\|au PAY]]) | Merpay, Inc. ([[payment-firms/merpay\|Merpay]]) | FamiMa Digital One Co., Ltd. ([[payment-firms/famima-digital-one\|FamiMa Digital One]]) | Mizuho Bank / J-Coin Pay operation ([[megabanks/mizuho-fg\|Mizuho FG]]) | Japan Post Bank Co., Ltd. ([[regional-banks/yucho\|Yucho]]) | Seven Pay Co., Ltd. (dissolved 2019) |
+| **Parent group** | SoftBank Group + Z Holdings / LY Corporation; [[megabanks/paypay-fg\|PayPay FG]] umbrella | Rakuten Group ([[payment-firms/rakuten-fg\|Rakuten FG]]) | NTT Group / NTT docomo (re-consolidated under NTT 2020) | KDDI Group ([[megabanks/au-fh\|au Financial Holdings]]) | Mercari Inc. ([[payment-firms/mercari-hd\|Mercari HD]]) | Itochu + FamilyMart group | Mizuho Financial Group | Japan Post Group | Seven & i Holdings |
 | **Launch year** | 2018-10 | 2016-10 (Rakuten Pay) | 2018-04 | 2019-04 | 2019-02 | 2019-07 (FamiPay app) | 2019-03 | 2018-05 | 2019-07 (closed 2019-09) |
 | **License / regulatory base** | Prepaid Payment Instrument (EPI) + Funds Transfer Service for PayPay Money + acquirer | EPI + Funds Transfer (Rakuten Pay balance) + Rakuten Card acquirer | EPI + Funds Transfer (d-Barai balance) + telecom-billing | EPI + Funds Transfer (au PAY balance) + au PAY Card acquirer | EPI + Funds Transfer (Merpay) + virtual card issued via JCB | EPI (FamiPay balance) | EPI | EPI + bank-account linked | EPI (closed) |
 | **2025 registered users** | ~70 million (2025-07, PayPay) | n.d. (Rakuten Pay user count not disclosed; Rakuten ID base larger) | ~68 million d-Barai users (2025-06, NTT docomo) | ~37 million au PAY (2025-03, KDDI) | ~18.7 million Merpay (2024-12, Mercari) | ~26 million cumulative downloads (2025-06, FamilyMart) | n.d. | n.d. | n/a |
@@ -37,62 +37,62 @@ Three claims commonly muddle code-payment analysis. First, **"PayPay won"** — 
 | **Merchant fee structure** | Initially zero-fee promotion (2018-2021); per-transaction MDR 1.60% with PayPay My Store Light Plan or 1.98% standard from 2021-10 | Tiered MDR; Rakuten-ecosystem merchants get preferred terms | Tiered MDR; docomo-channel merchants get preferred terms | Tiered MDR; KDDI-channel merchants | Tiered MDR | Tiered MDR; FamiMa-internal rates differ from external | Bank-rail rates | Bank-rail rates | n/a |
 | **Merchant acceptance breadth** | Largest Japan code-payment merchant footprint (10 million+ merchant locations, 2025, PayPay) | Broad — Rakuten ecosystem + general | Broad — docomo channel + general | Mid-broad — KDDI channel + general | Mid — marketplace anchored + general via Netstars | Largest FamiMa retail anchor + external expansion | Limited | Limited | n/a |
 | **Deposit / funding source** | PayPay Money (withdrawable funds-transfer balance) + PayPay Money Lite (non-withdrawable prepaid balance) + linked credit cards + bank account | Rakuten Cash (prepaid) + Rakuten Card + bank account | d-Barai balance + telecom-billing add to monthly bill + linked credit cards / bank account | au PAY balance + bank account + au PAY Card | Merpay balance (marketplace sales proceeds) + virtual credit (Merpay Smart Pay) + bank account | FamiPay balance (prepaid) + bank account + FamiMa T-card | J-Coin Pay balance + Mizuho bank account direct | Japan Post Bank account direct | Seven Bank linkage |
-| **Bank attachment** | PayPay Bank (former JNB; majority-owned via SoftBank, mass-renamed 2021) | Rakuten Bank (Rakuten group bank) | docomo-Mizuho cooperation (no direct docomo bank) | au Jibun Bank (KDDI-MUFG JV bank, [[JapanFG/au-fh\|au FH]]) | Mercari Bank (planned; banking license ambition) | UFJ-cooperation (no FamiMa bank) | Mizuho Bank direct | Japan Post Bank direct | Seven Bank-affiliated |
+| **Bank attachment** | PayPay Bank (former JNB; majority-owned via SoftBank, mass-renamed 2021) | Rakuten Bank (Rakuten group bank) | docomo-Mizuho cooperation (no direct docomo bank) | au Jibun Bank (KDDI-MUFG JV bank, [[megabanks/au-fh\|au FH]]) | Mercari Bank (planned; banking license ambition) | UFJ-cooperation (no FamiMa bank) | Mizuho Bank direct | Japan Post Bank direct | Seven Bank-affiliated |
 | **Point integration** | PayPay Points + Yahoo! Japan Points convergence; broad earn-redeem at PayPay merchants | Rakuten Point, the best-established point program in Japan; broad earn-redeem across Rakuten ecosystem + Rakuten Pay merchants | d Point; broad earn-redeem; integration with d Card | Ponta Point via KDDI-Ponta partnership; WAON-adjacent | Mercari Points; mostly marketplace-internal | FamiPay Points; FamiMa-internal + adjacent | n/a | n/a | n/a |
-| **Credit / BNPL adjacency** | PayPay Credit / PayPay deferred payment ([[JapanFG/paypay-card\|PayPay Card]]) | [[JapanFG/rakuten-card\|Rakuten Card]] integration (deep) | d Card (docomo group) | au PAY Card | Merpay Smart Pay (virtual credit issued via JCB) | FamiMa T-card (Saison-affiliated) | n/a | n/a | n/a |
+| **Credit / BNPL adjacency** | PayPay Credit / PayPay deferred payment ([[card-issuers/paypay-card\|PayPay Card]]) | [[card-issuers/rakuten-card\|Rakuten Card]] integration (deep) | d Card (docomo group) | au PAY Card | Merpay Smart Pay (virtual credit issued via JCB) | FamiMa T-card (Saison-affiliated) | n/a | n/a | n/a |
 | **Distinctive strategic anchor** | Largest user base + SoftBank / Z Holdings ecosystem + LINE convergence | Rakuten ecosystem (EC, points, card, bank, securities) | Telecom-billing + d Point + docomo customer base | Telecom-billing + Ponta + au Jibun Bank | Marketplace-anchored proceeds + virtual credit | Convenience store retail anchor + ITOCHU group | Bank-anchored consortium product | Postal-network reach | n/a (closed) |
 
-### PayPay (PayPay 株式会社 / [[JapanFG/paypay-fg|PayPay FG]] umbrella)
+### PayPay (PayPay 株式会社 / [[megabanks/paypay-fg|PayPay FG]] umbrella)
 
-[[JapanFG/paypay|PayPay]] is the dominant Japan code-payment operator by every metric: registered users, MAU, TPV, and merchant acceptance. Launched 2018-10 by the SoftBank Group + Yahoo! Japan / Z Holdings (now LY Corporation) joint venture, with aggressive launch promotions that drove early user-and-merchant acquisition. The operator holds **EPI registration** for PayPay Money Lite (the prepaid balance, non-withdrawable to bank) and **Funds Transfer registration** for PayPay Money (the withdrawable-to-bank balance), distinguishing the two product lines by regulatory class; see [[payments/funds-transfer-vs-prepaid-boundary|funds transfer vs prepaid boundary]] for the structural distinction.
+[[payment-firms/paypay|PayPay]] is the dominant Japan code-payment operator by every metric: registered users, MAU, TPV, and merchant acceptance. Launched 2018-10 by the SoftBank Group + Yahoo! Japan / Z Holdings (now LY Corporation) joint venture, with aggressive launch promotions that drove early user-and-merchant acquisition. The operator holds **EPI registration** for PayPay Money Lite (the prepaid balance, non-withdrawable to bank) and **Funds Transfer registration** for PayPay Money (the withdrawable-to-bank balance), distinguishing the two product lines by regulatory class; see [[payments/funds-transfer-vs-prepaid-boundary|funds transfer vs prepaid boundary]] for the structural distinction.
 
-PayPay's distinctive position: **largest scale + SoftBank ecosystem + LINE convergence**. The 2023-2024 LY Corporation merger (Z Holdings + LINE) brought LINE Pay into the PayPay orbit (LINE Pay JP service migrated to PayPay during 2025), further consolidating PayPay's user-base lead. PayPay also has a banking-license adjacency via **PayPay Bank** (the rebranded Japan Net Bank, majority-owned via SoftBank Group) and credit-card adjacency via [[JapanFG/paypay-card|PayPay Card]]. The 2025 TPV is the leading share of the 16.6 trillion yen total code-payment market.
+PayPay's distinctive position: **largest scale + SoftBank ecosystem + LINE convergence**. The 2023-2024 LY Corporation merger (Z Holdings + LINE) brought LINE Pay into the PayPay orbit (LINE Pay JP service migrated to PayPay during 2025), further consolidating PayPay's user-base lead. PayPay also has a banking-license adjacency via **PayPay Bank** (the rebranded Japan Net Bank, majority-owned via SoftBank Group) and credit-card adjacency via [[card-issuers/paypay-card|PayPay Card]]. The 2025 TPV is the leading share of the 16.6 trillion yen total code-payment market.
 
-### Rakuten Pay (Rakuten Payment, Inc. / [[JapanFG/rakuten-fg|Rakuten FG]])
+### Rakuten Pay (Rakuten Payment, Inc. / [[payment-firms/rakuten-fg|Rakuten FG]])
 
-Rakuten Pay launched 2016-10 (predating PayPay by two years) and benefits from **the strongest ecosystem-anchor in Japan code-payment** via Rakuten ID, [[JapanFG/rakuten-card|Rakuten Card]], Rakuten Point, Rakuten Bank, Rakuten Securities, and the Rakuten EC marketplace. Rakuten Pay's TPV is materially smaller than PayPay's but the ecosystem-attachment economics differ: Rakuten Pay users are typically Rakuten Card holders earning Rakuten Points across multiple ecosystem touch-points, creating cross-product LTV that pure code-payment TPV does not capture.
+Rakuten Pay launched 2016-10 (predating PayPay by two years) and benefits from **the strongest ecosystem-anchor in Japan code-payment** via Rakuten ID, [[card-issuers/rakuten-card|Rakuten Card]], Rakuten Point, Rakuten Bank, Rakuten Securities, and the Rakuten EC marketplace. Rakuten Pay's TPV is materially smaller than PayPay's but the ecosystem-attachment economics differ: Rakuten Pay users are typically Rakuten Card holders earning Rakuten Points across multiple ecosystem touch-points, creating cross-product LTV that pure code-payment TPV does not capture.
 
-Rakuten Pay's distinctive position: **deep ecosystem integration + Rakuten Point economics**. The merchant-fee structure favors Rakuten-ecosystem merchants, and the credit-card linkage via Rakuten Card means Rakuten Pay transactions can also generate Rakuten Card interchange revenue that pure-prepaid PayPay transactions don't. Rakuten Edy ([[JapanFG/rakuten-edy|Rakuten Edy]]) is a separate Rakuten-group e-money product (Felica-based prepaid) that pre-dated Rakuten Pay and continues to operate as a complementary product.
+Rakuten Pay's distinctive position: **deep ecosystem integration + Rakuten Point economics**. The merchant-fee structure favors Rakuten-ecosystem merchants, and the credit-card linkage via Rakuten Card means Rakuten Pay transactions can also generate Rakuten Card interchange revenue that pure-prepaid PayPay transactions don't. Rakuten Edy ([[payment-firms/rakuten-edy|Rakuten Edy]]) is a separate Rakuten-group e-money product (Felica-based prepaid) that pre-dated Rakuten Pay and continues to operate as a complementary product.
 
 ### d-Barai (NTT docomo)
 
-d-Barai launched 2018-04 by [[JapanFG/ndfg|NTT docomo]], distinguished by **telecom-billing integration**: code-payment transactions can be added to the user's monthly mobile bill, creating an effective post-pay code-payment lane that pure-prepaid operators do not offer. The d Point program is well-established and a meaningful point-economics layer alongside d-Barai. The 2020 docomo re-consolidation under NTT and the 2026 reorganization under NTT docomo FG re-positioned d-Barai within a broader telecom-financial ecosystem.
+d-Barai launched 2018-04 by [[megabanks/ndfg|NTT docomo]], distinguished by **telecom-billing integration**: code-payment transactions can be added to the user's monthly mobile bill, creating an effective post-pay code-payment lane that pure-prepaid operators do not offer. The d Point program is well-established and a meaningful point-economics layer alongside d-Barai. The 2020 docomo re-consolidation under NTT and the 2026 reorganization under NTT docomo FG re-positioned d-Barai within a broader telecom-financial ecosystem.
 
 d-Barai's distinctive position: **telecom-billing + d Point + docomo customer base**. The structural advantage is the captive docomo customer base of tens of millions of mobile subscribers, plus the telecom-billing rail that converts code-payment into a non-card / non-bank funding source. The structural constraint is that d-Barai does not have the same level of bank-anchor or credit-card-anchor as PayPay or Rakuten Pay.
 
 ### au PAY (au Payment Corp. / KDDI)
 
-au PAY launched 2019-04 by KDDI as a code-payment product that integrates with the KDDI customer base, **au Jibun Bank** (the KDDI-MUFG JV bank), and [[JapanFG/au-fh|au Financial Holdings]]'s broader financial product stack. The Ponta point alliance (KDDI joined Ponta in 2020 as part of the Loyalty Marketing Inc. realignment) gives au PAY a point-program lane that converges with Lawson, Geo, KFC and broader Ponta merchants.
+au PAY launched 2019-04 by KDDI as a code-payment product that integrates with the KDDI customer base, **au Jibun Bank** (the KDDI-MUFG JV bank), and [[megabanks/au-fh|au Financial Holdings]]'s broader financial product stack. The Ponta point alliance (KDDI joined Ponta in 2020 as part of the Loyalty Marketing Inc. realignment) gives au PAY a point-program lane that converges with Lawson, Geo, KFC and broader Ponta merchants.
 
 au PAY's distinctive position: **telecom-billing + Ponta + au Jibun Bank**. The bank-anchor gives au PAY a deposit / withdrawal rail that pure-prepaid wallets do not have, and Ponta integration gives au PAY a point program that competes structurally with d Point and Rakuten Point. The 2025 TPV is smaller than PayPay / Rakuten / d-Barai, but the KDDI ecosystem attachment is comparable in structural shape to docomo's.
 
-### Merpay (Merpay, Inc. / [[JapanFG/mercari-hd|Mercari HD]])
+### Merpay (Merpay, Inc. / [[payment-firms/mercari-hd|Mercari HD]])
 
-Merpay launched 2019-02 by [[JapanFG/mercari-hd|Mercari]] as a code-payment product that converts **Mercari marketplace sales proceeds into a directly-spendable balance**, distinguishing it from operators where users fund the wallet from a separate income source. The Merpay balance can be spent at code-payment merchants or via Merpay virtual credit card issued through JCB. **Merpay Smart Pay** is the post-pay / BNPL product that lets users pay later for purchases, regulated as a comprehensive credit-purchase intermediary activity.
+Merpay launched 2019-02 by [[payment-firms/mercari-hd|Mercari]] as a code-payment product that converts **Mercari marketplace sales proceeds into a directly-spendable balance**, distinguishing it from operators where users fund the wallet from a separate income source. The Merpay balance can be spent at code-payment merchants or via Merpay virtual credit card issued through JCB. **Merpay Smart Pay** is the post-pay / BNPL product that lets users pay later for purchases, regulated as a comprehensive credit-purchase intermediary activity.
 
 Merpay's distinctive position: **marketplace-anchored proceeds + virtual credit + BNPL**. The structural advantage is that Mercari marketplace sellers naturally accumulate balances they can redirect to consumption rather than withdraw to bank, creating a captive funding source that operators without marketplace anchors do not have. Mercari's stated **banking license ambition** further extends the funding-source stack.
 
-### FamiPay (FamiMa Digital One Co., Ltd. / [[JapanFG/famima-digital-one|FamiMa Digital One]])
+### FamiPay (FamiMa Digital One Co., Ltd. / [[payment-firms/famima-digital-one|FamiMa Digital One]])
 
-FamiPay launched 2019-07 as part of the FamilyMart app, operated by [[JapanFG/famima-digital-one|FamiMa Digital One]] under the FamilyMart / ITOCHU group umbrella. The FamiPay balance is funded primarily through the FamilyMart retail-store channel, with deeper retail-anchored economics than PayPay / Rakuten Pay's general-merchant footprint. FamiPay also operates a tight integration with the FamiMa T-card / Saison-affiliated credit card line.
+FamiPay launched 2019-07 as part of the FamilyMart app, operated by [[payment-firms/famima-digital-one|FamiMa Digital One]] under the FamilyMart / ITOCHU group umbrella. The FamiPay balance is funded primarily through the FamilyMart retail-store channel, with deeper retail-anchored economics than PayPay / Rakuten Pay's general-merchant footprint. FamiPay also operates a tight integration with the FamiMa T-card / Saison-affiliated credit card line.
 
 FamiPay's distinctive position: **convenience store retail anchor + ITOCHU group**. Covered in depth at [[payments/famipay-valucreate-strategy|FamiPay ValuCreate strategy]]. The structural advantage is the FamilyMart retail-network captive funding-and-spending loop; the structural constraint is that FamiPay has historically been narrower in external-merchant acceptance than the major general-purpose code wallets, though external expansion has accelerated through 2024-2025.
 
 ### J-Coin Pay (Mizuho Financial Group)
 
-J-Coin Pay launched 2019-03 by [[JapanFG/mizuho-fg|Mizuho FG]] as a **bank-anchored code-payment wallet** with direct Mizuho Bank account integration. The product is structurally distinct from PayPay / Rakuten Pay in that funding flows directly from the user's Mizuho Bank account rather than through a separate prepaid-balance intermediation layer. J-Coin Pay was initially positioned as a "bank-consortium product" with potential participation from regional banks, though the consortium structure evolved through the 2020-2024 period.
+J-Coin Pay launched 2019-03 by [[megabanks/mizuho-fg|Mizuho FG]] as a **bank-anchored code-payment wallet** with direct Mizuho Bank account integration. The product is structurally distinct from PayPay / Rakuten Pay in that funding flows directly from the user's Mizuho Bank account rather than through a separate prepaid-balance intermediation layer. J-Coin Pay was initially positioned as a "bank-consortium product" with potential participation from regional banks, though the consortium structure evolved through the 2020-2024 period.
 
 J-Coin Pay's distinctive position: **bank-anchored consortium product**. The TPV and MAU are materially smaller than the leading wallets, reflecting the narrower distribution channel (Mizuho customer base + regional-bank participants) and the absence of point-program-driven user acquisition.
 
 ### Yucho Pay (Japan Post Bank)
 
-Yucho Pay launched 2018-05 by [[JapanFG/yucho|Japan Post Bank]] as a **postal-network-anchored code-payment wallet** with Japan Post Bank account integration. The product has historically targeted Japan Post Bank account holders, particularly older / non-urban / postal-banking-centric customer segments that the major urban-tech wallets reach less efficiently.
+Yucho Pay launched 2018-05 by [[regional-banks/yucho|Japan Post Bank]] as a **postal-network-anchored code-payment wallet** with Japan Post Bank account integration. The product has historically targeted Japan Post Bank account holders, particularly older / non-urban / postal-banking-centric customer segments that the major urban-tech wallets reach less efficiently.
 
 Yucho Pay's distinctive position: **postal-network reach + older customer segment**. The structural advantage is the very broad Japan Post Bank account base; the structural constraint is that this customer segment has been slower to adopt code-payment generally, limiting realized TPV.
 
 ### Seven Pay (discontinued 2019)
 
-[[JapanFG/seven-payment-service|Seven Payment Service]] / Seven & i Holdings launched Seven Pay 2019-07 as a code-payment product for the 7-Eleven retail network, but **shut the service down in 2019-09** after a security breach exposed cardholder credentials within days of launch. The Seven Pay shutdown is included in this matrix as a historically important case of code-payment operator failure. The 7-Eleven retail network later integrated PayPay / Rakuten Pay / d-Barai / au PAY / Merpay acceptance via PSP gateways rather than re-launching its own wallet.
+[[payment-firms/seven-payment-service|Seven Payment Service]] / Seven & i Holdings launched Seven Pay 2019-07 as a code-payment product for the 7-Eleven retail network, but **shut the service down in 2019-09** after a security breach exposed cardholder credentials within days of launch. The Seven Pay shutdown is included in this matrix as a historically important case of code-payment operator failure. The 7-Eleven retail network later integrated PayPay / Rakuten Pay / d-Barai / au PAY / Merpay acceptance via PSP gateways rather than re-launching its own wallet.
 
 ## Verifiable 2025 market-size data points
 
@@ -117,9 +117,9 @@ The operators in this matrix split across regulatory classes in a way that affec
 
 | Operator | EPI (prepaid payment instrument) | Funds Transfer Service | Banking license | BNPL / credit-purchase intermediation |
 |---|---|---|---|---|
-| PayPay | Yes (PayPay Money Lite) | Yes (PayPay Money) | Via PayPay Bank affiliate | Via [[JapanFG/paypay-card\|PayPay Card]] |
-| Rakuten Pay | Yes | Yes (Rakuten Pay balance) | Via Rakuten Bank affiliate | Via [[JapanFG/rakuten-card\|Rakuten Card]] |
-| d-Barai | Yes | Yes | Via docomo-Mizuho cooperation; no docomo bank | Via d Card ([[JapanFG/mufg-nicos\|MUFG NICOS]] cooperation) |
+| PayPay | Yes (PayPay Money Lite) | Yes (PayPay Money) | Via PayPay Bank affiliate | Via [[card-issuers/paypay-card\|PayPay Card]] |
+| Rakuten Pay | Yes | Yes (Rakuten Pay balance) | Via Rakuten Bank affiliate | Via [[card-issuers/rakuten-card\|Rakuten Card]] |
+| d-Barai | Yes | Yes | Via docomo-Mizuho cooperation; no docomo bank | Via d Card ([[card-issuers/mufg-nicos\|MUFG NICOS]] cooperation) |
 | au PAY | Yes | Yes | Via au Jibun Bank affiliate | Via au PAY Card |
 | Merpay | Yes | Yes | Mercari Bank in development | Merpay Smart Pay (comprehensive credit-purchase intermediation) |
 | FamiPay | Yes | Limited | None | Via FamiMa T-card (Saison affiliate) |
@@ -145,7 +145,7 @@ This regulatory-class structure is the principal determinant of whether a wallet
 
 ## Merchant-acceptance overlap and PSP routing
 
-Many merchants accept multiple code-payment wallets simultaneously via PSP / aggregator routing rather than direct contract with each wallet. The principal multi-wallet aggregator is [[JapanFG/netstars|Netstars]] (via StarPay), and the merchant-side PSPs ([[JapanFG/gmo-payment-gateway|GMO-PG]], [[JapanFG/sb-payment-service|SBPS]], [[JapanFG/dg-financial-technology|DGFT]]) typically route multi-wallet acceptance for their merchant base. Covered in [[payments/japan-merchant-psp-competitive-scorecard|Japan merchant PSP competitive scorecard]].
+Many merchants accept multiple code-payment wallets simultaneously via PSP / aggregator routing rather than direct contract with each wallet. The principal multi-wallet aggregator is [[payment-firms/netstars|Netstars]] (via StarPay), and the merchant-side PSPs ([[payment-firms/gmo-payment-gateway|GMO-PG]], [[payment-firms/sb-payment-service|SBPS]], [[payment-firms/dg-financial-technology|DGFT]]) typically route multi-wallet acceptance for their merchant base. Covered in [[payments/japan-merchant-psp-competitive-scorecard|Japan merchant PSP competitive scorecard]].
 
 | Wallet | Direct-merchant model strength | Multi-wallet aggregator dependency |
 |---|---|---|
@@ -182,22 +182,22 @@ Many merchants accept multiple code-payment wallets simultaneously via PSP / agg
 - [[payments/cashless-jp-landscape]]
 - [[payments/japan-prepaid-electronic-money-operator-matrix]]
 - [[payments/japan-interchange-and-merchant-fee-stack]]
-- [[JapanFG/paypay]]
-- [[JapanFG/paypay-fg]]
-- [[JapanFG/paypay-card]]
-- [[JapanFG/rakuten-fg]]
-- [[JapanFG/rakuten-card]]
-- [[JapanFG/rakuten-edy]]
-- [[JapanFG/ndfg]]
-- [[JapanFG/au-payment]]
-- [[JapanFG/au-fh]]
-- [[JapanFG/merpay]]
-- [[JapanFG/mercari-hd]]
-- [[JapanFG/famima-digital-one]]
-- [[JapanFG/mizuho-fg]]
-- [[JapanFG/yucho]]
-- [[JapanFG/netstars]]
-- [[JapanFG/seven-payment-service]]
+- [[payment-firms/paypay]]
+- [[megabanks/paypay-fg]]
+- [[card-issuers/paypay-card]]
+- [[payment-firms/rakuten-fg]]
+- [[card-issuers/rakuten-card]]
+- [[payment-firms/rakuten-edy]]
+- [[megabanks/ndfg]]
+- [[payment-firms/au-payment]]
+- [[megabanks/au-fh]]
+- [[payment-firms/merpay]]
+- [[payment-firms/mercari-hd]]
+- [[payment-firms/famima-digital-one]]
+- [[megabanks/mizuho-fg]]
+- [[regional-banks/yucho]]
+- [[payment-firms/netstars]]
+- [[payment-firms/seven-payment-service]]
 - [[loyalty/japan-points-landscape]]
 - [[INDEX|FinWiki index]]
 

@@ -1,0 +1,82 @@
+{
+  "schema_version": "1.0",
+  "slug": "leasing-firms/tokyo-century",
+  "source_path": "leasing-firms/tokyo-century.md",
+  "url": "https://finwiki.zksc.io/leasing-firms/tokyo-century",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/leasing-firms/tokyo-century.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/leasing-firms/tokyo-century.md",
+  "domain": "leasing-firms",
+  "title": "東京センチュリー株式会社 (Tokyo Century Corporation)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "東京センチュリー株式会社 (Tokyo Century Corporation)",
+    "aliases": [
+      "Tokyo Century",
+      "東京センチュリー",
+      "TC",
+      "8439",
+      "旧 東京リース",
+      "旧 センチュリー・リーシング・システム",
+      "旧 東京センチュリーリース"
+    ],
+    "domain": "leasing-firms",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "leasing"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: 東京センチュリー (公開情報, 2026-05-19 抽出)",
+      "東京センチュリー 公式 IR (公開情報)"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against オリックス株式会社 (ORIX Corporation) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "東京センチュリー株式会社 (Tokyo Century Corporation)",
+    "Wiki route",
+    "TL;DR",
+    "1. 会社概要",
+    "主要事業セグメント",
+    "主要 競合",
+    "2 つの前身",
+    "年表（抜粋）",
+    "コア事業",
+    "グローバル展開"
+  ],
+  "body_links": {
+    "wikilinks_count": 8,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "banking/INDEX",
+      "fuyo-lease",
+      "leasing-firms/orix-corp",
+      "mizuho-fg",
+      "mufg",
+      "orix-corp",
+      "smfg"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/fuyo-lease",
+      "https://finwiki.zksc.io/leasing-firms/orix-corp",
+      "https://finwiki.zksc.io/mizuho-fg",
+      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/orix-corp",
+      "https://finwiki.zksc.io/smfg"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3557,
+    "word_like_tokens": 595,
+    "inbound_wikilinks_count": 39,
+    "last_modified": "2026-06-04"
+  }
+}

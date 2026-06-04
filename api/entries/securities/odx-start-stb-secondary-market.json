@@ -66,12 +66,12 @@
     "wikilinks_count": 21,
     "wikilinks": [
       "INDEX",
-      "JapanFG/japan-exchange-group",
-      "JapanFG/jsda",
-      "JapanFG/nomura-hd",
-      "JapanFG/progmat",
-      "JapanFG/sbi-hd",
+      "financial-regulators/japan-exchange-group",
+      "financial-regulators/jsda",
       "fintech/jp-stablecoin-progmat",
+      "megabanks/sbi-hd",
+      "payment-firms/progmat",
+      "securities-firms/nomura-hd",
       "securities/INDEX",
       "securities/financial-instruments-business-operators-japan-index",
       "securities/japan-asset-manager-landscape-matrix",
@@ -89,12 +89,12 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/japan-exchange-group",
-      "https://finwiki.zksc.io/JapanFG/jsda",
-      "https://finwiki.zksc.io/JapanFG/nomura-hd",
-      "https://finwiki.zksc.io/JapanFG/progmat",
-      "https://finwiki.zksc.io/JapanFG/sbi-hd",
+      "https://finwiki.zksc.io/financial-regulators/japan-exchange-group",
+      "https://finwiki.zksc.io/financial-regulators/jsda",
       "https://finwiki.zksc.io/fintech/jp-stablecoin-progmat",
+      "https://finwiki.zksc.io/megabanks/sbi-hd",
+      "https://finwiki.zksc.io/payment-firms/progmat",
+      "https://finwiki.zksc.io/securities-firms/nomura-hd",
       "https://finwiki.zksc.io/securities/INDEX",
       "https://finwiki.zksc.io/securities/financial-instruments-business-operators-japan-index",
       "https://finwiki.zksc.io/securities/japan-asset-manager-landscape-matrix",
@@ -114,9 +114,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 13821,
-    "word_like_tokens": 2175,
+    "nonspace_chars": 13917,
+    "word_like_tokens": 2185,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-04"
   }
 }

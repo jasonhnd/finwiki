@@ -131,7 +131,7 @@ Since the company does not directly provide crypto-asset buying/selling or custo
 - [[exchanges/jp-exchange-bittrade]] — an example of a VASP customer
 - [[exchanges/jp-institutional-custody-three-pillars]] — the three pillars of JP institutional custody
 - [[exchanges/jp-custody-fireblocks-japan]] — Fireblocks Japan（competitor）
-- [[JapanFG/progmat]] — Progmat（collaboration partner）
+- [[payment-firms/progmat]] — Progmat（collaboration partner）
 - [[exchanges/jp-vasp-cold-storage-segregation-rules]] — JP VASP cold-storage segregated-management rules
 
 ## Sources

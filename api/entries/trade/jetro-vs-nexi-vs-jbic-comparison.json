@@ -58,8 +58,8 @@
     "wikilinks_count": 13,
     "wikilinks": [
       "INDEX",
-      "JapanFG/jbic",
-      "JapanFG/jfc",
+      "financial-regulators/jbic",
+      "financial-regulators/jfc",
       "policy-finance/INDEX",
       "policy-finance/japan-eximbank-history",
       "policy-finance/japan-project-finance-stack-diagram",
@@ -73,8 +73,8 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/jbic",
-      "https://finwiki.zksc.io/JapanFG/jfc",
+      "https://finwiki.zksc.io/financial-regulators/jbic",
+      "https://finwiki.zksc.io/financial-regulators/jfc",
       "https://finwiki.zksc.io/policy-finance/INDEX",
       "https://finwiki.zksc.io/policy-finance/japan-eximbank-history",
       "https://finwiki.zksc.io/policy-finance/japan-project-finance-stack-diagram",
@@ -90,9 +90,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 14775,
-    "word_like_tokens": 2324,
+    "nonspace_chars": 14853,
+    "word_like_tokens": 2330,
     "inbound_wikilinks_count": 10,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-04"
   }
 }

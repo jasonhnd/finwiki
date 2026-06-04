@@ -59,16 +59,14 @@
     "wikilinks_count": 21,
     "wikilinks": [
       "INDEX",
-      "JapanFG/boj-monetary-policy",
-      "JapanFG/central-tanshi",
-      "JapanFG/mizuho-fg",
-      "JapanFG/mizuho-securities",
-      "JapanFG/mufg",
-      "JapanFG/mufg-mums",
-      "JapanFG/smfg",
-      "JapanFG/tokyo-tanshi",
-      "JapanFG/ueda-yagi-tanshi",
       "derivatives/ois-tona-curve",
+      "financial-regulators/boj-monetary-policy",
+      "financial-regulators/central-tanshi",
+      "financial-regulators/tokyo-tanshi",
+      "financial-regulators/ueda-yagi-tanshi",
+      "megabanks/mizuho-fg",
+      "megabanks/mufg",
+      "megabanks/smfg",
       "money-market/INDEX",
       "money-market/boj-open-market-operations",
       "money-market/call-market-structure",
@@ -78,20 +76,20 @@
       "money-market/japan-ncd-negotiable-cd-market",
       "money-market/japan-tibor-benchmark-rate",
       "money-market/jgb-repo-market-japan",
-      "money-market/tanshi-company-business-model"
+      "money-market/tanshi-company-business-model",
+      "securities-firms/mizuho-securities",
+      "securities-firms/mufg-mums"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/boj-monetary-policy",
-      "https://finwiki.zksc.io/JapanFG/central-tanshi",
-      "https://finwiki.zksc.io/JapanFG/mizuho-fg",
-      "https://finwiki.zksc.io/JapanFG/mizuho-securities",
-      "https://finwiki.zksc.io/JapanFG/mufg",
-      "https://finwiki.zksc.io/JapanFG/mufg-mums",
-      "https://finwiki.zksc.io/JapanFG/smfg",
-      "https://finwiki.zksc.io/JapanFG/tokyo-tanshi",
-      "https://finwiki.zksc.io/JapanFG/ueda-yagi-tanshi",
       "https://finwiki.zksc.io/derivatives/ois-tona-curve",
+      "https://finwiki.zksc.io/financial-regulators/boj-monetary-policy",
+      "https://finwiki.zksc.io/financial-regulators/central-tanshi",
+      "https://finwiki.zksc.io/financial-regulators/tokyo-tanshi",
+      "https://finwiki.zksc.io/financial-regulators/ueda-yagi-tanshi",
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/smfg",
       "https://finwiki.zksc.io/money-market/INDEX",
       "https://finwiki.zksc.io/money-market/boj-open-market-operations",
       "https://finwiki.zksc.io/money-market/call-market-structure",
@@ -101,15 +99,17 @@
       "https://finwiki.zksc.io/money-market/japan-ncd-negotiable-cd-market",
       "https://finwiki.zksc.io/money-market/japan-tibor-benchmark-rate",
       "https://finwiki.zksc.io/money-market/jgb-repo-market-japan",
-      "https://finwiki.zksc.io/money-market/tanshi-company-business-model"
+      "https://finwiki.zksc.io/money-market/tanshi-company-business-model",
+      "https://finwiki.zksc.io/securities-firms/mizuho-securities",
+      "https://finwiki.zksc.io/securities-firms/mufg-mums"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 8724,
-    "word_like_tokens": 1390,
+    "nonspace_chars": 8852,
+    "word_like_tokens": 1400,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-06-03"
+    "last_modified": "2026-06-04"
   }
 }

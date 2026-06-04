@@ -24,7 +24,7 @@ This registry index captures the FSA public authorization list for Japan's credi
 | Item | Value |
 | --- | --- |
 | FSA as-of date | As of 2026-02-20 |
-| Central institution | [[JapanFG/zenshin-kumi]] |
+| Central institution | [[cooperative-banks/zenshin-kumi]] |
 | Central rows in workbook | 1 |
 | Licensed credit cooperatives | 143 |
 | Legal / institutional route | Small and Medium-Sized Enterprise Cooperatives Act / Act on Financial Businesses by Cooperatives |
@@ -34,7 +34,7 @@ This registry index captures the FSA public authorization list for Japan's credi
 
 - Closes the official credit-cooperative population at index level without creating 143 standalone pages.
 - Separates credit cooperatives from shinkin banks, rokin banks, and ordinary regional banks.
-- Keeps [[JapanFG/zenshin-kumi|Zenshinkumiren]] as the central-institution page while routing individual cooperatives through this index.
+- Keeps [[cooperative-banks/zenshin-kumi|Zenshinkumiren]] as the central-institution page while routing individual cooperatives through this index.
 - Corporate numbers and head-office addresses are public registry fields; representative phone numbers remain in the source workbook and are omitted here to keep the index scannable.
 
 ## 3. Supervisory-bureau count
@@ -298,8 +298,8 @@ This registry index captures the FSA public authorization list for Japan's credi
 
 - [[banking/cooperative-banking-japan]]
 - [[banking/regional-bank-consolidation-pattern]]
-- [[JapanFG/zenshin-kumi|National Federation of Credit Cooperatives]]
-- [[JapanFG/missing-financial-institutions-backlog]]
+- [[cooperative-banks/zenshin-kumi|National Federation of Credit Cooperatives]]
+- [[financial-regulators/missing-financial-institutions-backlog]]
 - [[banking/INDEX]]
 
 ## Sources

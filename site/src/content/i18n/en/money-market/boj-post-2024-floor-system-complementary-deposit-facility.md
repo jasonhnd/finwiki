@@ -98,10 +98,10 @@ The combination of floor (deposit facility rate) and ceiling (lending facility r
 
 ## JapanFG Relevance
 
-- Megabanks [[JapanFG/mufg]], [[JapanFG/smfg]], [[JapanFG/mizuho-fg]] have direct BoJ current-account positions and earn the floor rate on reserve balances.
+- Megabanks [[megabanks/mufg]], [[megabanks/smfg]], [[megabanks/mizuho-fg]] have direct BoJ current-account positions and earn the floor rate on reserve balances.
 - Trust banks and custody banks hold settlement balances at the BoJ, also subject to the floor.
-- Securities firms [[JapanFG/mizuho-securities]], [[JapanFG/mufg-mums]], [[JapanFG/nomura-hd]] interact with the floor through repo finance and dealer balance-sheet pricing.
-- [[JapanFG/tokyo-tanshi]], [[JapanFG/central-tanshi]], [[JapanFG/ueda-yagi-tanshi]] intermediate call and CP business that prices off the floor.
+- Securities firms [[securities-firms/mizuho-securities]], [[securities-firms/mufg-mums]], [[securities-firms/nomura-hd]] interact with the floor through repo finance and dealer balance-sheet pricing.
+- [[financial-regulators/tokyo-tanshi]], [[financial-regulators/central-tanshi]], [[financial-regulators/ueda-yagi-tanshi]] intermediate call and CP business that prices off the floor.
 
 ## Boundary Cases
 
@@ -121,13 +121,13 @@ The combination of floor (deposit facility rate) and ceiling (lending facility r
 - [[money-market/japan-ncd-negotiable-cd-market]]
 - [[money-market/japan-tbill-treasury-discount-bill]]
 - [[money-market/japan-mmf-money-market-mutual-fund]]
-- [[JapanFG/boj-monetary-policy]]
-- [[JapanFG/mufg]]
-- [[JapanFG/smfg]]
-- [[JapanFG/mizuho-fg]]
-- [[JapanFG/tokyo-tanshi]]
-- [[JapanFG/central-tanshi]]
-- [[JapanFG/ueda-yagi-tanshi]]
+- [[financial-regulators/boj-monetary-policy]]
+- [[megabanks/mufg]]
+- [[megabanks/smfg]]
+- [[megabanks/mizuho-fg]]
+- [[financial-regulators/tokyo-tanshi]]
+- [[financial-regulators/central-tanshi]]
+- [[financial-regulators/ueda-yagi-tanshi]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

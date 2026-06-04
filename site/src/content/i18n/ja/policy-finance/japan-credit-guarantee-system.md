@@ -15,7 +15,7 @@ translated_at: 2026-06-03T00:53:08.349Z
 
 ## 要約
 
-日本の信用保証制度は、日本の中小企業・小規模事業者の資金調達を支える公的信用インフラである。これは階層化された制度である。(1) 51 都道府県 / 市レベルの**信用保証協会**（Credit Guarantee Corporations、CGC）が、金融機関からの適格な中小企業借入を保証する。(2) **全国信用保証協会連合会**（JFG）が、51 の CGC を調整し、責任共有に伴う負担をプールする。(3) **信用保険**レイヤーは[[JapanFG/jfc|Japan Finance Corporation (JFC)]]が運営し、CGC 保証を再保険することで、最終的な残余損失が CGC レイヤーを崩壊させるのではなく、公的信用インフラに落ちるようにしている。これらを合わせたものが**信用補完制度**である。これは単一の貸手ではなく、公的信用アーキテクチャである。2020から2022 の ZeroZero 融資（実質無利子・無担保融資）特別プログラムはこの制度を通じて実施され、2024から2026 の代位弁済サイクルへ引き続き巻き戻されている。
+日本の信用保証制度は、日本の中小企業・小規模事業者の資金調達を支える公的信用インフラである。これは階層化された制度である。(1) 51 都道府県 / 市レベルの**信用保証協会**（Credit Guarantee Corporations、CGC）が、金融機関からの適格な中小企業借入を保証する。(2) **全国信用保証協会連合会**（JFG）が、51 の CGC を調整し、責任共有に伴う負担をプールする。(3) **信用保険**レイヤーは[[financial-regulators/jfc|Japan Finance Corporation (JFC)]]が運営し、CGC 保証を再保険することで、最終的な残余損失が CGC レイヤーを崩壊させるのではなく、公的信用インフラに落ちるようにしている。これらを合わせたものが**信用補完制度**である。これは単一の貸手ではなく、公的信用アーキテクチャである。2020から2022 の ZeroZero 融資（実質無利子・無担保融資）特別プログラムはこの制度を通じて実施され、2024から2026 の代位弁済サイクルへ引き続き巻き戻されている。
 
 ## 1. システムアーキテクチャ（信用補完制度スタック）
 
@@ -25,7 +25,7 @@ translated_at: 2026-06-03T00:53:08.349Z
 | 金融機関（貸手） | 融資を実行し、適用制度のもとで責任を共有する。 | 関連する場合は[[banking/regional-bank-consolidation-pattern]] / 信金 / 信組ページ |
 | 地方信用保証協会（51） | 適格な中小企業債務を保証し、代位弁済 / 回収を扱う。 | この制度 + 戦略的に重要な地域 CGC ページ（例: [[policy-finance/hokkaido-credit-guarantee-corp]]） |
 | 全国信用保証協会連合会（JFG） | 51 の CGC を調整し、責任共有制度の資金フローを管理する。 | [[policy-finance/national-federation-credit-guarantee-corporations]] |
-| 信用保険 — JFC | CGC 保証を再保険し、CGC 代位弁済後の残余損失を吸収する。 | [[JapanFG/jfc]] |
+| 信用保険 — JFC | CGC 保証を再保険し、CGC 代位弁済後の残余損失を吸収する。 | [[financial-regulators/jfc]] |
 | METI / 中小企業庁 | 政策監督者。制度設計、適格性、危機時の認定を設定する。 | [[policy-finance/INDEX]] |
 | 都道府県 / 市町村 | 地方政府。地域制度を共同負担し、地域緊急事象を認定し、補助金を提供する。 | 地方政府経路 |
 
@@ -106,7 +106,7 @@ ZeroZero の巻き戻しは、信用保証制度にとって**直近の決定的
 - **貸手出捐** — 提携銀行 / 信金 / 信組が地域 CGC に資本を拠出。
 - **保証料収入** — 保証元本に対する年率。通常は低い一桁%の範囲（政策プログラム補助あり）。
 - **連合会のプール資金** — JFG が管理する、制度レベルの調整を支える準備金。
-- **JFC 信用保険** — [[JapanFG/jfc|JFC 信用保険業務]]勘定を通じた代位弁済事象での再保険支払。
+- **JFC 信用保険** — [[financial-regulators/jfc|JFC 信用保険業務]]勘定を通じた代位弁済事象での再保険支払。
 
 **公的信用リスク負担のウォーターフォール**は、借手からの回収 → CGC 準備金 → JFC 再保険 → 国の財政バックストップである。
 
@@ -157,8 +157,8 @@ ZeroZero の巻き戻しは、信用保証制度にとって**直近の決定的
 - [[policy-finance/osaka-credit-guarantee-corp]]
 - [[policy-finance/aichi-credit-guarantee-corp]]
 - [[policy-finance/hyogo-credit-guarantee-corp]]
-- [[JapanFG/jfc]]
-- [[JapanFG/shoko-chukin]]
+- [[financial-regulators/jfc]]
+- [[financial-regulators/shoko-chukin]]
 - [[banking/shinkin-bank-registry-japan]]
 - [[banking/credit-cooperative-registry-japan]]
 - [[banking/regional-bank-consolidation-pattern]]

@@ -56,13 +56,11 @@
   "body_links": {
     "wikilinks_count": 17,
     "wikilinks": [
-      "JapanFG/jfc",
-      "JapanFG/jfc\\",
-      "JapanFG/okinawa-fg",
-      "JapanFG/okinawa-kaiho-bank",
-      "JapanFG/okinawa-shinko",
       "banking/INDEX",
       "banking/bank-of-okinawa",
+      "financial-regulators/jfc",
+      "financial-regulators/jfc\\",
+      "financial-regulators/okinawa-shinko",
       "policy-finance/INDEX",
       "policy-finance/japan-credit-guarantee-system",
       "policy-finance/japan-housing-finance-agency",
@@ -72,16 +70,16 @@
       "policy-finance/japan-student-services-organization",
       "policy-finance/jfc-agriculture-forestry-fisheries-division",
       "policy-finance/jfc-kokumin-life-finance-division",
-      "policy-finance/jfc-sme-division-operating-model"
+      "policy-finance/jfc-sme-division-operating-model",
+      "regional-banks/okinawa-fg",
+      "regional-banks/okinawa-kaiho-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/jfc",
-      "https://finwiki.zksc.io/JapanFG/jfc\\",
-      "https://finwiki.zksc.io/JapanFG/okinawa-fg",
-      "https://finwiki.zksc.io/JapanFG/okinawa-kaiho-bank",
-      "https://finwiki.zksc.io/JapanFG/okinawa-shinko",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/bank-of-okinawa",
+      "https://finwiki.zksc.io/financial-regulators/jfc",
+      "https://finwiki.zksc.io/financial-regulators/jfc\\",
+      "https://finwiki.zksc.io/financial-regulators/okinawa-shinko",
       "https://finwiki.zksc.io/policy-finance/INDEX",
       "https://finwiki.zksc.io/policy-finance/japan-credit-guarantee-system",
       "https://finwiki.zksc.io/policy-finance/japan-housing-finance-agency",
@@ -91,15 +89,17 @@
       "https://finwiki.zksc.io/policy-finance/japan-student-services-organization",
       "https://finwiki.zksc.io/policy-finance/jfc-agriculture-forestry-fisheries-division",
       "https://finwiki.zksc.io/policy-finance/jfc-kokumin-life-finance-division",
-      "https://finwiki.zksc.io/policy-finance/jfc-sme-division-operating-model"
+      "https://finwiki.zksc.io/policy-finance/jfc-sme-division-operating-model",
+      "https://finwiki.zksc.io/regional-banks/okinawa-fg",
+      "https://finwiki.zksc.io/regional-banks/okinawa-kaiho-bank"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 17727,
-    "word_like_tokens": 2700,
+    "nonspace_chars": 17868,
+    "word_like_tokens": 2715,
     "inbound_wikilinks_count": 7,
-    "last_modified": "2026-06-02"
+    "last_modified": "2026-06-04"
   }
 }

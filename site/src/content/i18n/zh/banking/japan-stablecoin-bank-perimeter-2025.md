@@ -12,11 +12,11 @@ translated_at: 2026-05-30T18:52:47.780Z
 
 ## Wiki route
 
-本条目归属于 [[banking/INDEX|banking index]]，作为日本稳定币 / 电子支付手段（EPI）监管架构的银行侧边界视图。请与 [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造]]（金融科技侧边界视图）、平台锚点 [[JapanFG/progmat|Progmat]] 及发行方锚点 [[JapanFG/jpyc|JPYC]] · [[exchanges/jp-exchange-sbi-vc-trade|SBI VC Trade USDC distribution]] 对照阅读，并与 [[fintech/jp-stablecoin-progmat|jp-stablecoin-progmat detailed]] · [[fintech/jp-trust-type-sc-architecture|jp trust-type SC architecture]] · [[fintech/jp-stablecoin-dcjpy|jp-stablecoin-dcjpy]] · [[fintech/japan-stablecoin-2026-event-tracker|Japan stablecoin 2026 event tracker]] · [[fintech/japan-epi-three-types-overview|Japan EPI three types overview]] · [[fintech/japan-epi-four-camps-comparison|Japan EPI four camps comparison]] · [[fintech/institutional-stablecoin-deposit-token-thesis|institutional stablecoin deposit-token thesis]] 及 [[banking/baas-japan-landscape|BaaS Japan landscape]] · [[banking/japan-baas-operating-models|Japan BaaS operating models]] 处的 BaaS 框架对照。关于牌照栈背景，请经由 [[JapanFG/legal-financial-licenses/payment-license-stack|payment license stack]] · [[JapanFG/legal-financial-licenses/bank-license-and-baas-boundary|bank license / BaaS boundary]] 路由。
+本条目归属于 [[banking/INDEX|banking index]]，作为日本稳定币 / 电子支付手段（EPI）监管架构的银行侧边界视图。请与 [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造]]（金融科技侧边界视图）、平台锚点 [[payment-firms/progmat|Progmat]] 及发行方锚点 [[payment-firms/jpyc|JPYC]] · [[exchanges/jp-exchange-sbi-vc-trade|SBI VC Trade USDC distribution]] 对照阅读，并与 [[fintech/jp-stablecoin-progmat|jp-stablecoin-progmat detailed]] · [[fintech/jp-trust-type-sc-architecture|jp trust-type SC architecture]] · [[fintech/jp-stablecoin-dcjpy|jp-stablecoin-dcjpy]] · [[fintech/japan-stablecoin-2026-event-tracker|Japan stablecoin 2026 event tracker]] · [[fintech/japan-epi-three-types-overview|Japan EPI three types overview]] · [[fintech/japan-epi-four-camps-comparison|Japan EPI four camps comparison]] · [[fintech/institutional-stablecoin-deposit-token-thesis|institutional stablecoin deposit-token thesis]] 及 [[banking/baas-japan-landscape|BaaS Japan landscape]] · [[banking/japan-baas-operating-models|Japan BaaS operating models]] 处的 BaaS 框架对照。关于牌照栈背景，请经由 [[financial-licenses/payment-license-stack|payment license stack]] · [[financial-licenses/bank-license-and-baas-boundary|bank license / BaaS boundary]] 路由。
 
 ## TL;DR
 
-到 **2025** 为止，日本对银行发行数字货币的监管边界已在改正资金决済法框架下硬化为三层架构：（1）由**银行**在标准银行法存款负债制度下发行的**存款代币（deposit token）**；（2）在新的改正资金决済法制度下发行的**稳定币 / 电子支付手段（電子決済手段）**——该制度承认三类发行方：银行（预金型 EPI）、资金移动业（资金移动型 EPI）及信托（信托型 EPI），并由独立的 **電子決済手段等取引業者**（EPI 服务提供方）牌照分销；以及（3）仅通过同一 EPI 服务提供方牌照在日本分销的**非自发行外国稳定币**（USDC 等）。银行侧边界有三项具体后果：(a) 只有银行能作为银行存款支持的代币发行预金型 EPI；(b) 只有信托银行（信託兼営銀行）能成为 [[JapanFG/progmat|Progmat]] 等平台下信托型稳定币的发行方；(c) 银行的 BaaS 合作渠道分销现在与不同牌照栈下的独立稳定币分销渠道并存。**MUFG 的 Progmat 平台**（自 2023-10 起为独立公司）为信托型 SC 提供机构级轨道；**JPYC** 运营基于资金移动业的日元 SC；**SBI VC Trade** 是唯一注册的外国 SC 分销商（USDC）。区域银行试点正在涌现，但截至 2025  过渡期在运营上仍受限：北國銀行的存款型稳定币「トチカ」（一种代币化存款）于 2024-04-01 启动，为日本首个此类产品，ゆうちょ銀行 宣布经由 DeCurret DCP 处理代币化存款，目标为 FY2026。
+到 **2025** 为止，日本对银行发行数字货币的监管边界已在改正资金决済法框架下硬化为三层架构：（1）由**银行**在标准银行法存款负债制度下发行的**存款代币（deposit token）**；（2）在新的改正资金决済法制度下发行的**稳定币 / 电子支付手段（電子決済手段）**——该制度承认三类发行方：银行（预金型 EPI）、资金移动业（资金移动型 EPI）及信托（信托型 EPI），并由独立的 **電子決済手段等取引業者**（EPI 服务提供方）牌照分销；以及（3）仅通过同一 EPI 服务提供方牌照在日本分销的**非自发行外国稳定币**（USDC 等）。银行侧边界有三项具体后果：(a) 只有银行能作为银行存款支持的代币发行预金型 EPI；(b) 只有信托银行（信託兼営銀行）能成为 [[payment-firms/progmat|Progmat]] 等平台下信托型稳定币的发行方；(c) 银行的 BaaS 合作渠道分销现在与不同牌照栈下的独立稳定币分销渠道并存。**MUFG 的 Progmat 平台**（自 2023-10 起为独立公司）为信托型 SC 提供机构级轨道；**JPYC** 运营基于资金移动业的日元 SC；**SBI VC Trade** 是唯一注册的外国 SC 分销商（USDC）。区域银行试点正在涌现，但截至 2025  过渡期在运营上仍受限：北國銀行的存款型稳定币「トチカ」（一种代币化存款）于 2024-04-01 启动，为日本首个此类产品，ゆうちょ銀行 宣布经由 DeCurret DCP 处理代币化存款，目标为 FY2026。
 
 ## 1. 三层边界
 
@@ -49,7 +49,7 @@ translated_at: 2026-05-30T18:52:47.780Z
 
 ### 信托型 EPI — 机构平台赛道
 
-**信托型 SC** 采用信托结构：信托银行（信託兼営銀行）担任发行方；支持资产（多家银行的日元存款、JGB 等）置于信托中；平台提供方安排技术轨道；机构与企业用户持有并交易代币。[[JapanFG/progmat|Progmat]] 平台是领先的例子。
+**信托型 SC** 采用信托结构：信托银行（信託兼営銀行）担任发行方；支持资产（多家银行的日元存款、JGB 等）置于信托中；平台提供方安排技术轨道；机构与企业用户持有并交易代币。[[payment-firms/progmat|Progmat]] 平台是领先的例子。
 
 | Pros for the bank | Cons for the bank |
 |---|---|
@@ -62,8 +62,8 @@ translated_at: 2026-05-30T18:52:47.780Z
 | Token | Backing form | Issuer | Platform | Distribution | Regulatory layer |
 |---|---|---|---|---|---|
 | **DCJPY**（存款代币） | 银行存款负债 | 参与银行（多银行试点） | DeCurret DCP | 有限 / 试点 | 银行法标准 |
-| **Progmat Coin（计划中的信托型 SC）** | 信托持有的日元资产 | [[JapanFG/mitsubishi-ufj-trust-bank|三菱UFJ信託銀行]] 及其他参与信托银行 | [[JapanFG/progmat|Progmat]] | 银行与非银行 EPI 分销商 | 改正资金決済法 信托型 EPI |
-| **JPYC** | 资金移动业 — 支持物按资金移动业资金管理规则持有 | [[JapanFG/jpyc|JPYC株式会社]] | 自有基础设施 | 直接 + 加密货币交易所 | 改正资金決済法 资金移动型 EPI |
+| **Progmat Coin（计划中的信托型 SC）** | 信托持有的日元资产 | [[trust-banks/mitsubishi-ufj-trust-bank|三菱UFJ信託銀行]] 及其他参与信托银行 | [[payment-firms/progmat|Progmat]] | 银行与非银行 EPI 分销商 | 改正资金決済法 信托型 EPI |
+| **JPYC** | 资金移动业 — 支持物按资金移动业资金管理规则持有 | [[payment-firms/jpyc|JPYC株式会社]] | 自有基础设施 | 直接 + 加密货币交易所 | 改正资金決済法 资金移动型 EPI |
 | **USDC（外国 SC，在日本分销）** | Circle 储备 | Circle（美国发行方） | （外国发行方基础设施） | [[exchanges/jp-exchange-sbi-vc-trade|SBI VC Trade]] — 截至 2025–2026  周期，USDC 唯一注册的 EPI 分销商 | 改正资金決済法 電子決済手段等取引業（仅分销侧） |
 
 ### 为何平台提供方 ≠ 发行方
@@ -102,8 +102,8 @@ translated_at: 2026-05-30T18:52:47.780Z
 
 | Camp | Lead operator | Legal form | Coverage |
 |---|---|---|---|
-| 信托型 / 机构 | [[JapanFG/progmat|Progmat]] 平台 + 参与信托银行 | 信托型 EPI | 机构、企业、跨银行结算 |
-| 资金移动型 / 零售日元 | [[JapanFG/jpyc|JPYC]] | 资金移动型 EPI | 零售日元 SC，经加密货币交易所分销 |
+| 信托型 / 机构 | [[payment-firms/progmat|Progmat]] 平台 + 参与信托银行 | 信托型 EPI | 机构、企业、跨银行结算 |
+| 资金移动型 / 零售日元 | [[payment-firms/jpyc|JPYC]] | 资金移动型 EPI | 零售日元 SC，经加密货币交易所分销 |
 | 外国 SC 分销 | [[exchanges/jp-exchange-sbi-vc-trade|SBI VC Trade]]（USDC 分销商） | 電子決済手段等取引業（仅分销） | 向日本用户分销 Circle 的 USDC |
 | 存款代币（银行轨道） | DCJPY（DeCurret + 参与银行） | 银行法标准存款负债 | 银行间结算、企业资金管理 |
 
@@ -121,14 +121,14 @@ translated_at: 2026-05-30T18:52:47.780Z
 - [[banking/japan-net-bank-competition-map]]
 - [[banking/post-megabank-positioning]]
 - [[JapanFG/INDEX]]
-- [[JapanFG/progmat]]
-- [[JapanFG/jpyc]]
-- [[JapanFG/mufg]]
-- [[JapanFG/mitsubishi-ufj-trust-bank]]
-- [[JapanFG/sumitomo-mitsui-trust]]
-- [[JapanFG/mizuho-trust-bank]]
-- [[JapanFG/legal-financial-licenses/payment-license-stack]]
-- [[JapanFG/legal-financial-licenses/bank-license-and-baas-boundary]]
+- [[payment-firms/progmat]]
+- [[payment-firms/jpyc]]
+- [[megabanks/mufg]]
+- [[trust-banks/mitsubishi-ufj-trust-bank]]
+- [[trust-banks/sumitomo-mitsui-trust]]
+- [[trust-banks/mizuho-trust-bank]]
+- [[financial-licenses/payment-license-stack]]
+- [[financial-licenses/bank-license-and-baas-boundary]]
 - [[fintech/japan-stablecoin-regulatory-landscape]]
 - [[fintech/jp-stablecoin-progmat]]
 - [[fintech/jp-trust-type-sc-architecture]]

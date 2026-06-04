@@ -48,7 +48,6 @@
   "body_links": {
     "wikilinks_count": 129,
     "wikilinks": [
-      "JapanFG/jpyc",
       "exchanges/jp-exchange-sbi-vc-trade",
       "fintech/2022-three-variable-cascade-thesis",
       "fintech/ai-payment-two-tracks",
@@ -127,10 +126,10 @@
       "fintech/jp-stablecoin-dcjpy",
       "fintech/jp-stablecoin-progmat",
       "fintech/jp-trust-type-sc-architecture",
-      "fintech/jpmorgan-jpmd-coin"
+      "fintech/jpmorgan-jpmd-coin",
+      "fintech/jurisdiction-list-monetary-protectionism"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/jpyc",
       "https://finwiki.zksc.io/exchanges/jp-exchange-sbi-vc-trade",
       "https://finwiki.zksc.io/fintech/2022-three-variable-cascade-thesis",
       "https://finwiki.zksc.io/fintech/ai-payment-two-tracks",
@@ -209,15 +208,16 @@
       "https://finwiki.zksc.io/fintech/jp-stablecoin-dcjpy",
       "https://finwiki.zksc.io/fintech/jp-stablecoin-progmat",
       "https://finwiki.zksc.io/fintech/jp-trust-type-sc-architecture",
-      "https://finwiki.zksc.io/fintech/jpmorgan-jpmd-coin"
+      "https://finwiki.zksc.io/fintech/jpmorgan-jpmd-coin",
+      "https://finwiki.zksc.io/fintech/jurisdiction-list-monetary-protectionism"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 13820,
-    "word_like_tokens": 1908,
-    "inbound_wikilinks_count": 215,
-    "last_modified": "2026-05-25"
+    "nonspace_chars": 13826,
+    "word_like_tokens": 1909,
+    "inbound_wikilinks_count": 217,
+    "last_modified": "2026-06-04"
   }
 }

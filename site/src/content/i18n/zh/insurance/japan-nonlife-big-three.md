@@ -11,17 +11,17 @@ translated_at: 2026-05-31T07:28:06.150Z
 
 ## Overview
 
-日本财险“big three”是针对 [[JapanFG/tokio-marine|Tokio Marine]]、[[JapanFG/msad|MS&AD]]、[[JapanFG/sompo|Sompo]] 的控股公司分组。运营公司层则包括 [[JapanFG/tokio-marine-nichido-fire|Tokio Marine & Nichido Fire]]、[[JapanFG/mitsui-sumitomo-insurance|Mitsui Sumitomo Insurance]]、[[JapanFG/aioi-nissay-dowa-insurance|Aioi Nissay Dowa Insurance]]、[[JapanFG/sompo-japan-insurance|Sompo Japan Insurance]]。
+日本财险“big three”是针对 [[non-life-insurers/tokio-marine|Tokio Marine]]、[[non-life-insurers/msad|MS&AD]]、[[non-life-insurers/sompo|Sompo]] 的控股公司分组。运营公司层则包括 [[non-life-insurers/tokio-marine-nichido-fire|Tokio Marine & Nichido Fire]]、[[non-life-insurers/mitsui-sumitomo-insurance|Mitsui Sumitomo Insurance]]、[[non-life-insurers/aioi-nissay-dowa-insurance|Aioi Nissay Dowa Insurance]]、[[non-life-insurers/sompo-japan-insurance|Sompo Japan Insurance]]。
 
-本页位于 [[insurance/INDEX|insurance domain]] 之下，并使用 [[JapanFG/INDEX|JapanFG]] 作为保险公司实体页。请与 [[insurance/natcat-reinsurance-japan|nat-cat reinsurance Japan]]、[[insurance/earthquake-insurance-public-private-scheme|earthquake insurance public-private scheme]]、[[insurance/economic-value-based-solvency|economic-value solvency]]、[[JapanFG/legal-financial-licenses/insurance-license-and-solvency|insurance license and solvency route]]、[[insurance/insurance-agency-and-brokerage-japan|insurance agency and brokerage Japan]] 一并阅读。
+本页位于 [[insurance/INDEX|insurance domain]] 之下，并使用 [[JapanFG/INDEX|JapanFG]] 作为保险公司实体页。请与 [[insurance/natcat-reinsurance-japan|nat-cat reinsurance Japan]]、[[insurance/earthquake-insurance-public-private-scheme|earthquake insurance public-private scheme]]、[[insurance/economic-value-based-solvency|economic-value solvency]]、[[financial-licenses/insurance-license-and-solvency|insurance license and solvency route]]、[[insurance/insurance-agency-and-brokerage-japan|insurance agency and brokerage Japan]] 一并阅读。
 
 ## Holding-Company Map
 
 | Group | Domestic operating-company layer | Public comparison fields |
 |---|---|---|
-| [[JapanFG/tokio-marine|Tokio Marine]] | 以 [[JapanFG/tokio-marine-nichido-fire|Tokio Marine & Nichido Fire]] 为日本国内核心 | 全球 P&C franchise、海外收益、specialty risk、自然灾害与资本管理。 |
-| [[JapanFG/msad|MS&AD]] | [[JapanFG/mitsui-sumitomo-insurance|Mitsui Sumitomo Insurance]] 加上 [[JapanFG/aioi-nissay-dowa-insurance|Aioi Nissay Dowa Insurance]] | 多品牌日本国内运营结构、Toyota / mobility 邻接、海外与再保 exposure。 |
-| [[JapanFG/sompo|Sompo]] | 以 [[JapanFG/sompo-japan-insurance|Sompo Japan Insurance]] 为日本国内核心 | 日本国内代理渠道、车险 / 火险 franchise、海外资产组合、治理与整改议题。 |
+| [[non-life-insurers/tokio-marine|Tokio Marine]] | 以 [[non-life-insurers/tokio-marine-nichido-fire|Tokio Marine & Nichido Fire]] 为日本国内核心 | 全球 P&C franchise、海外收益、specialty risk、自然灾害与资本管理。 |
+| [[non-life-insurers/msad|MS&AD]] | [[non-life-insurers/mitsui-sumitomo-insurance|Mitsui Sumitomo Insurance]] 加上 [[non-life-insurers/aioi-nissay-dowa-insurance|Aioi Nissay Dowa Insurance]] | 多品牌日本国内运营结构、Toyota / mobility 邻接、海外与再保 exposure。 |
+| [[non-life-insurers/sompo|Sompo]] | 以 [[non-life-insurers/sompo-japan-insurance|Sompo Japan Insurance]] 为日本国内核心 | 日本国内代理渠道、车险 / 火险 franchise、海外资产组合、治理与整改议题。 |
 
 控股公司层与运营公司层分别记录。Tokio Marine 具有全球分散化的 P&C 集团结构。MS&AD 在日本国内拥有两家主要财险运营公司。Sompo 的日本国内财险运营主体是 Sompo Japan Insurance。
 
@@ -41,11 +41,11 @@ translated_at: 2026-05-31T07:28:06.150Z
 
 若不结合 [[insurance/natcat-reinsurance-japan|nat-cat reinsurance]]，就无法理解日本财险集团。地震、台风、洪水与气候相关损失波动会影响承保结果、准备金充足性、再保成本与资本缓冲。
 
-家庭地震保险属于公私合作机制，而不是普通的私人风险池。该层经由 [[insurance/earthquake-insurance-public-private-scheme|earthquake insurance public-private scheme]] 与 [[JapanFG/japan-earthquake-reinsurance|Japan Earthquake Reinsurance]] 处理。商业财产巨灾风险、海外巨灾损失与再保周期定价，则属于更广义的 P&C 自然灾害 / 再保议题。
+家庭地震保险属于公私合作机制，而不是普通的私人风险池。该层经由 [[insurance/earthquake-insurance-public-private-scheme|earthquake insurance public-private scheme]] 与 [[non-life-insurers/japan-earthquake-reinsurance|Japan Earthquake Reinsurance]] 处理。商业财产巨灾风险、海外巨灾损失与再保周期定价，则属于更广义的 P&C 自然灾害 / 再保议题。
 
 ## Domestic Operating Structure
 
-[[JapanFG/tokio-marine-nichido-fire|Tokio Marine & Nichido Fire]] 是 Tokio Marine 的主要日本国内财险运营公司。[[JapanFG/mitsui-sumitomo-insurance|Mitsui Sumitomo Insurance]] 与 [[JapanFG/aioi-nissay-dowa-insurance|Aioi Nissay Dowa Insurance]] 都是 MS&AD 旗下的重要日本国内运营公司。[[JapanFG/sompo-japan-insurance|Sompo Japan Insurance]] 是 Sompo 的日本国内财险运营公司，并在公开披露时与 [[insurance/saison-automobile-fire|direct non-life]] 及 specialty-channel 路线相关联。
+[[non-life-insurers/tokio-marine-nichido-fire|Tokio Marine & Nichido Fire]] 是 Tokio Marine 的主要日本国内财险运营公司。[[non-life-insurers/mitsui-sumitomo-insurance|Mitsui Sumitomo Insurance]] 与 [[non-life-insurers/aioi-nissay-dowa-insurance|Aioi Nissay Dowa Insurance]] 都是 MS&AD 旗下的重要日本国内运营公司。[[non-life-insurers/sompo-japan-insurance|Sompo Japan Insurance]] 是 Sompo 的日本国内财险运营公司，并在公开披露时与 [[insurance/saison-automobile-fire|direct non-life]] 及 specialty-channel 路线相关联。
 
 集团综合报告通常在控股公司层面讨论资本、战略、海外资产组合与治理。运营公司页面则记录日本国内牌照、产品渠道、代理体系与历史并购谱系。
 
@@ -69,13 +69,13 @@ translated_at: 2026-05-31T07:28:06.150Z
 - [[insurance/earthquake-insurance-public-private-scheme]]
 - [[insurance/economic-value-based-solvency]]
 - [[insurance/insurance-agency-and-brokerage-japan]]
-- [[JapanFG/tokio-marine]]
-- [[JapanFG/msad]]
-- [[JapanFG/sompo]]
-- [[JapanFG/tokio-marine-nichido-fire]]
-- [[JapanFG/mitsui-sumitomo-insurance]]
-- [[JapanFG/aioi-nissay-dowa-insurance]]
-- [[JapanFG/sompo-japan-insurance]]
+- [[non-life-insurers/tokio-marine]]
+- [[non-life-insurers/msad]]
+- [[non-life-insurers/sompo]]
+- [[non-life-insurers/tokio-marine-nichido-fire]]
+- [[non-life-insurers/mitsui-sumitomo-insurance]]
+- [[non-life-insurers/aioi-nissay-dowa-insurance]]
+- [[non-life-insurers/sompo-japan-insurance]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

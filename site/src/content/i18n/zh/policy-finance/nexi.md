@@ -12,11 +12,11 @@ translated_at: 2026-06-01T03:31:12.286Z
 
 ## 维基路线
 
-该条目位于 [[policy-finance/INDEX|policy-finance index]] 下，作为日本国家金融系统的保险节点。针对 [[JapanFG/jbic|国際協力銀行 (JBIC)]] 阅读其贷款 NEXI 通常包装的直接贷款对应方； [[policy-finance/nexi-export-credit-insurance-products|NEXI export-credit insurance products]] 用于产品端操作机制深入研究（兄弟）； [[policy-finance/jbic-overseas-investment-underwriting-process|JBIC overseas-investment underwriting process]] 用于 NEXI 经常覆盖的贷方流量；上游资源权益的 [[policy-finance/jogmec|JOGMEC]] 通常先于 NEXI 承保的下游承购融资包； [[policy-finance/jica|JICA]] 表示 NEXI 不在里面的 ODA 级车道； [[policy-finance/oecd-export-credit-arrangement|OECD Export Credit Arrangement]] 用于限制 NEXI 溢价和期限的规则手册；使用 [[policy-finance/japan-policy-finance-system|Japan policy finance system]] 来获取更广泛的工具包；以 [[policy-finance/japan-policy-finance-institution-mandate-matrix|Japan policy-finance institution mandate matrix]] 为九机构比较轴； [[policy-finance/japan-eximbank-history|Japan Eximbank history]] 代表 2001  之前的机构历史，当时出口信贷保险是 METI 的直接职能； [[policy-finance/japan-project-finance-stack-diagram|Japan project finance stack diagram]] 用于分层项目融资堆栈；并与 [[trade/jetro-vs-nexi-vs-jbic-comparison|JETRO vs NEXI vs JBIC]] 进行贸易促进/保险/融资三支柱比较。
+该条目位于 [[policy-finance/INDEX|policy-finance index]] 下，作为日本国家金融系统的保险节点。针对 [[financial-regulators/jbic|国際協力銀行 (JBIC)]] 阅读其贷款 NEXI 通常包装的直接贷款对应方； [[policy-finance/nexi-export-credit-insurance-products|NEXI export-credit insurance products]] 用于产品端操作机制深入研究（兄弟）； [[policy-finance/jbic-overseas-investment-underwriting-process|JBIC overseas-investment underwriting process]] 用于 NEXI 经常覆盖的贷方流量；上游资源权益的 [[policy-finance/jogmec|JOGMEC]] 通常先于 NEXI 承保的下游承购融资包； [[policy-finance/jica|JICA]] 表示 NEXI 不在里面的 ODA 级车道； [[policy-finance/oecd-export-credit-arrangement|OECD Export Credit Arrangement]] 用于限制 NEXI 溢价和期限的规则手册；使用 [[policy-finance/japan-policy-finance-system|Japan policy finance system]] 来获取更广泛的工具包；以 [[policy-finance/japan-policy-finance-institution-mandate-matrix|Japan policy-finance institution mandate matrix]] 为九机构比较轴； [[policy-finance/japan-eximbank-history|Japan Eximbank history]] 代表 2001  之前的机构历史，当时出口信贷保险是 METI 的直接职能； [[policy-finance/japan-project-finance-stack-diagram|Japan project finance stack diagram]] 用于分层项目融资堆栈；并与 [[trade/jetro-vs-nexi-vs-jbic-comparison|JETRO vs NEXI vs JBIC]] 进行贸易促进/保险/融资三支柱比较。
 
 ## 长话短说
 
-NEXI（日本出口投资保险公司）是日本的公共贸易和投资保险机构，自 2017-04-01 公司化以来，受经济产业省监管，财务省作为唯一股东。 2017 改革在结构上意义重大：NEXI从准政府IAA形式转变为具有明确资产负债表、资本和治理结构的公司形式，同时保留METI的政策监督和政府反再保险/损失分担安排。 产品菜单围绕三个主要类别——**贸易一般保険**（一般贸易保险：买方信贷、供应商信贷、短期应收账款、综合中/长期资本货物保险）、**投资保険**（涵盖股权和股东贷款政治风险和合同受挫的海外投资保险）和**海外事业资金贷付保険**（涵盖海外贷款政治和商业违约的贷款保险——大型银行和[[JapanFG/jbic|JBIC]] 依赖于大型项目融资交易）——加上私人贸易信贷保险的再保险，以及经合组织气候变化部门谅解下的气候/GX 一致覆盖。其制度目的是吸收商业保险公司不会承保的风险（政治风险、国家风险、长期商业违约、战争/征用/转移限制），使 NEXI 成为日本出口商、大型银行跨境贷款集团和日本附属海外投资的乘数。 溢价和期限受到[[policy-finance/oecd-export-credit-arrangement|OECD Arrangement on Officially Supported Export Credits]]的限制——最低溢价利率​​下限、国家风险分类（CRC）规则、行业理解期限上限。 JBIC ↔ NEXI 的分工是结构性的：JBIC 是**直接贷款人/股权参与者**； NEXI 是**商业银行部分和股权/政治风险**的保险公司。他们并肩参与大型项目，但很少替代。
+NEXI（日本出口投资保险公司）是日本的公共贸易和投资保险机构，自 2017-04-01 公司化以来，受经济产业省监管，财务省作为唯一股东。 2017 改革在结构上意义重大：NEXI从准政府IAA形式转变为具有明确资产负债表、资本和治理结构的公司形式，同时保留METI的政策监督和政府反再保险/损失分担安排。 产品菜单围绕三个主要类别——**贸易一般保険**（一般贸易保险：买方信贷、供应商信贷、短期应收账款、综合中/长期资本货物保险）、**投资保険**（涵盖股权和股东贷款政治风险和合同受挫的海外投资保险）和**海外事业资金贷付保険**（涵盖海外贷款政治和商业违约的贷款保险——大型银行和[[financial-regulators/jbic|JBIC]] 依赖于大型项目融资交易）——加上私人贸易信贷保险的再保险，以及经合组织气候变化部门谅解下的气候/GX 一致覆盖。其制度目的是吸收商业保险公司不会承保的风险（政治风险、国家风险、长期商业违约、战争/征用/转移限制），使 NEXI 成为日本出口商、大型银行跨境贷款集团和日本附属海外投资的乘数。 溢价和期限受到[[policy-finance/oecd-export-credit-arrangement|OECD Arrangement on Officially Supported Export Credits]]的限制——最低溢价利率​​下限、国家风险分类（CRC）规则、行业理解期限上限。 JBIC ↔ NEXI 的分工是结构性的：JBIC 是**直接贷款人/股权参与者**； NEXI 是**商业银行部分和股权/政治风险**的保险公司。他们并肩参与大型项目，但很少替代。
 
 ## 1。机构架构
 
@@ -119,12 +119,12 @@ NEXI 的主要指标是由承保周期（其本身跟踪日本企业的跨境活
 - **保险≠补贴。**保险支持不是直接补贴；长期经济效益取决于保费充足性、索赔、追偿和国家风险分类的准确性。 NEXI 的结构态势是，保费经过调整以弥补 OECD MPR 下限加上营业利润率下的预期损失，但尾部风险由财政部特别账户反再保险吸收。
 - **私有化辩论。** 2017 株式会社化在原则上保留了私有化问题，但在实践中尚未解决。与 DBJ（私有化已提上议程但被推迟）不同，NEXI 的株式会社形式与持续的 100% 财政部所有权和政府反再保险共存；实际的私有化问题没有实际意义。
 - **强制蠕变批评。** 扩展到私人贸易信用保险、气候/GX 覆盖、供应链弹性保险和经济安全承保的再保险领域，使 NEXI 的产品菜单超出了传统的出口信用保险范围。批评是该机构做的事情太多了；反驳是，新产品符合新环境下的基本任务（商业市场无法定价的风险保险）。
-- **BIS 巴塞尔协议 III 互动。** 参与 NEXI 承保跨境项目融资贷款的大型银行 ([[JapanFG/mufg|MUFG]] / [[JapanFG/smfg|SMFG]] / [[JapanFG/mizuho-fg|Mizuho FG]]) 在承保部分获得巴塞尔协议 III 风险加权资产减免 — NEXI 承保风险敞口受益于无资金支持的信用保护/CRM（信用风险缓解）框架。这是大型银行对长期跨境贷款存在兴趣的结构性原因； NEXI 是 RWA 缓解对手方。巴塞尔协议 III 对 ECA 承保风险暴露处理方式的变化直接影响 NEXI 的有效需求。
+- **BIS 巴塞尔协议 III 互动。** 参与 NEXI 承保跨境项目融资贷款的大型银行 ([[megabanks/mufg|MUFG]] / [[megabanks/smfg|SMFG]] / [[megabanks/mizuho-fg|Mizuho FG]]) 在承保部分获得巴塞尔协议 III 风险加权资产减免 — NEXI 承保风险敞口受益于无资金支持的信用保护/CRM（信用风险缓解）框架。这是大型银行对长期跨境贷款存在兴趣的结构性原因； NEXI 是 RWA 缓解对手方。巴塞尔协议 III 对 ECA 承保风险暴露处理方式的变化直接影响 NEXI 的有效需求。
 - **经合组织安排与非安排国家的竞争。** NEXI 受到安排 MPR 下限和行业理解期限上限的限制；非经合组织国家保险公司（特别是中国信保）在同一纪律之外运营。这意味着：在日本出口商与中国出口商在长期项目融资方面竞争的市场中，NEXI 受条款约束，而中国信保则不受条款约束。该安排的覆盖面不对称。
 
 ## 7。开放式问题
 
-- 在当前的印度-太平洋/中东/非洲项目融资计划中，哪些 NEXI 产品与 [[JapanFG/jbic|JBIC]] 贷款最常使用。
+- 在当前的印度-太平洋/中东/非洲项目融资计划中，哪些 NEXI 产品与 [[financial-regulators/jbic|JBIC]] 贷款最常使用。
 - NEXI 的风险偏好在明确的经济安全和供应链安全政策方向（半导体/矿物/氢）下如何变化。
 - 气候和能源转型项目的损失概况是否与传统液化天然气/石油和天然气/煤炭项目的损失概况有所不同，以及随着时间的推移，这如何形成优质校准。
 - 俄罗斯风险索赔支出的累积回收率（预计多年解决周期）。
@@ -133,7 +133,7 @@ NEXI 的主要指标是由承保周期（其本身跟踪日本企业的跨境活
 
 ## 有关的
 
-- [[JapanFG/jbic]]
+- [[financial-regulators/jbic]]
 - [[policy-finance/nexi-export-credit-insurance-products]]
 - [[policy-finance/jbic-overseas-investment-underwriting-process]]
 - [[policy-finance/jogmec]]

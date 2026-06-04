@@ -113,7 +113,7 @@ Both deliver valuation crystallization but for very different parent-company pur
 
 - Will SBG progressively sell down Arm post-lockup, or hold > 80% indefinitely as "core" asset?
 - Will Arm royalty growth from AI compute justify the current quoted valuation, or will multiple compression occur?
-- How does the Arm template inform Japan-listed strategies for [[JapanFG/sbi-hd|SBI HD]], [[business/gmo-internet-group|GMO Internet Group]], or other holding-company structures with under-marked subsidiaries?
+- How does the Arm template inform Japan-listed strategies for [[megabanks/sbi-hd|SBI HD]], [[business/gmo-internet-group|GMO Internet Group]], or other holding-company structures with under-marked subsidiaries?
 - Will the success of Arm IPO unlock similar partial IPOs of other Vision Fund / SBG positions (e.g., specific AI portfolio names)?
 - What is the optimal sell-down pace to balance NAV mark vs supply-overhang impact on Arm's share price?
 

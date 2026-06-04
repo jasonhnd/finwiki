@@ -13,16 +13,16 @@ translated_at: 2026-06-01T03:31:12.249Z
 
 Japan card payments is split into at least five roles: issuer, international / domestic brand, acquirer, card-number contract / merchant-contracting operator, and processor / PSP. A single group can hold several roles, but FinWiki does not flatten them into "credit-card company."
 
-Use this page with [[payments/card-acquiring-japan-stack|Japan card acquiring stack]], [[payments/japan-card-security-authentication-controls|card security and authentication controls]], [[payments/credit-purchase-card-operators-japan-index|credit purchase and card operator registry]], [[payments/psp-merchant-settlement-risk|PSP settlement risk]], [[payments/cashless-jp-landscape|cashless landscape]], [[JapanFG/jcb|JCB]], [[JapanFG/smbc-card|SMBC Card]], and [[JapanFG/mufg-nicos|MUFG NICOS]].
+Use this page with [[payments/card-acquiring-japan-stack|Japan card acquiring stack]], [[payments/japan-card-security-authentication-controls|card security and authentication controls]], [[payments/credit-purchase-card-operators-japan-index|credit purchase and card operator registry]], [[payments/psp-merchant-settlement-risk|PSP settlement risk]], [[payments/cashless-jp-landscape|cashless landscape]], [[card-issuers/jcb|JCB]], [[card-issuers/smbc-card|SMBC Card]], and [[card-issuers/mufg-nicos|MUFG NICOS]].
 
 ## Role Map
 
 | Role | What it controls | Typical JapanFG anchors |
 |---|---|---|
-| Issuer | Cardholder screening, credit limit, billing, revolving / installment receivable, fraud monitoring. | [[JapanFG/smbc-card|SMBC Card]], [[JapanFG/rakuten-card|Rakuten Card]], [[JapanFG/paypay-card|PayPay Card]], [[JapanFG/aeon-financial-service|AEON Financial Service]] |
-| Brand / scheme | Network rules, brand acceptance, international routing, card-product rules. | [[JapanFG/jcb|JCB]], Visa / Mastercard / AMEX / Diners partners. |
-| Acquirer | Merchant underwriting, merchant contract, settlement, chargeback / dispute routing. | [[JapanFG/jcb|JCB]], [[JapanFG/mufg-nicos|MUFG NICOS]], [[JapanFG/smbc-card|SMBC Card]], [[JapanFG/gmo-payment-gateway|GMO Payment Gateway]] |
-| PSP / gateway | Technical acceptance, tokenization, payment page, fraud filters, reconciliation file. | [[JapanFG/gmo-payment-gateway|GMO Payment Gateway]], [[JapanFG/sb-payment-service|SB Payment Service]], [[JapanFG/gmo-epsilon|GMO Epsilon]], [[JapanFG/dg-financial-technology|DGFT]] |
+| Issuer | Cardholder screening, credit limit, billing, revolving / installment receivable, fraud monitoring. | [[card-issuers/smbc-card|SMBC Card]], [[card-issuers/rakuten-card|Rakuten Card]], [[card-issuers/paypay-card|PayPay Card]], [[card-issuers/aeon-financial-service|AEON Financial Service]] |
+| Brand / scheme | Network rules, brand acceptance, international routing, card-product rules. | [[card-issuers/jcb|JCB]], Visa / Mastercard / AMEX / Diners partners. |
+| Acquirer | Merchant underwriting, merchant contract, settlement, chargeback / dispute routing. | [[card-issuers/jcb|JCB]], [[card-issuers/mufg-nicos|MUFG NICOS]], [[card-issuers/smbc-card|SMBC Card]], [[payment-firms/gmo-payment-gateway|GMO Payment Gateway]] |
+| PSP / gateway | Technical acceptance, tokenization, payment page, fraud filters, reconciliation file. | [[payment-firms/gmo-payment-gateway|GMO Payment Gateway]], [[payment-firms/sb-payment-service|SB Payment Service]], [[payment-firms/gmo-epsilon|GMO Epsilon]], [[payment-firms/dg-financial-technology|DGFT]] |
 | Merchant | Accepts card payments, protects cardholder data, handles shipping / refund / dispute evidence. | Retail / EC operators under [[retail/INDEX|retail INDEX]] and platform cases such as [[business/gmo-internet-group|GMO Internet Group]]. |
 
 ## Legal / Registry Boundary
@@ -73,10 +73,10 @@ The JCB public brand-business explanation is a useful plain-language model for s
 - [[payments/psp-merchant-settlement-risk]]
 - [[payments/japan-bnpl-credit-purchase-boundary]]
 - [[payments/cashless-jp-landscape]]
-- [[JapanFG/jcb]]
-- [[JapanFG/smbc-card]]
-- [[JapanFG/mufg-nicos]]
-- [[JapanFG/gmo-payment-gateway]]
+- [[card-issuers/jcb]]
+- [[card-issuers/smbc-card]]
+- [[card-issuers/mufg-nicos]]
+- [[payment-firms/gmo-payment-gateway]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

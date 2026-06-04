@@ -25,7 +25,7 @@ translated_at: 2026-06-01T03:31:12.273Z
 | 金融机构（贷款人） | 发放贷款，并在适用制度下分担一部分信用风险。 | 相关时参照 [[banking/regional-bank-consolidation-pattern]] / 信用金库 / 信用合作社页面 |
 | 地方信用保证协会（51 家） | 保证符合条件的中小企业债务；处理代位清偿和回收。 | 本系统 + 具战略意义的地方 CGC 页面（如 [[policy-finance/hokkaido-credit-guarantee-corp]]） |
 | 全国信用保证协会联合会（JFG） | 协调 51 家 CGC；管理责任共享制度的资金流。 | [[policy-finance/national-federation-credit-guarantee-corporations]] |
-| 信用保险：JFC | 对 CGC 保证进行再保险；吸收 CGC 代位清偿后的剩余损失。 | [[JapanFG/jfc]] |
+| 信用保险：JFC | 对 CGC 保证进行再保险；吸收 CGC 代位清偿后的剩余损失。 | [[financial-regulators/jfc]] |
 | METI / SME Agency（经济产业省 / 中小企业厅） | 政策监督方；设定项目设计、适格性和危机模式授权。 | [[policy-finance/INDEX]] |
 | 都道府县 / 市町村 | 共同出资地方项目，指定地方紧急事件，提供补贴。 | 地方政府路线 |
 
@@ -106,7 +106,7 @@ Zero-Zero 消化是信用保证体系**近期定义性压力事件**，在全国
 - **贷款人出资**：合作银行 / 信用金库 / 信用合作社向其地方 CGC 出资。
 - **保证费收入**：对保证本金收取的年费率，通常处于低个位数百分比区间（政策项目有补贴）。
 - **联合会 pooled fund**：JFG 管理的储备，支持系统层面协调。
-- **JFC 信用保险**：通过 [[JapanFG/jfc|JFC 信用保险业务]] 账户在代位清偿事件上提供再保险赔付。
+- **JFC 信用保险**：通过 [[financial-regulators/jfc|JFC 信用保险业务]] 账户在代位清偿事件上提供再保险赔付。
 
 **公共信用风险承担瀑布**为：借款人回收 → CGC 储备 → JFC 再保险 → 国家财政后盾。
 
@@ -157,8 +157,8 @@ Zero-Zero 消化是信用保证体系**近期定义性压力事件**，在全国
 - [[policy-finance/osaka-credit-guarantee-corp]]
 - [[policy-finance/aichi-credit-guarantee-corp]]
 - [[policy-finance/hyogo-credit-guarantee-corp]]
-- [[JapanFG/jfc]]
-- [[JapanFG/shoko-chukin]]
+- [[financial-regulators/jfc]]
+- [[financial-regulators/shoko-chukin]]
 - [[banking/shinkin-bank-registry-japan]]
 - [[banking/credit-cooperative-registry-japan]]
 - [[banking/regional-bank-consolidation-pattern]]

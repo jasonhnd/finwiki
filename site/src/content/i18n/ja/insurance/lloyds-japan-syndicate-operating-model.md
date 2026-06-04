@@ -16,7 +16,7 @@ translated_at: 2026-06-02T14:01:20.950Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[insurance/INDEX|insurance index]] の下に置かれる。エンティティ単位のページは [[JapanFG/lloyd-japan|Lloyd's Japan]]、通常型外資再保険会社の比較は [[insurance/foreign-reinsurer-japan-landscape|foreign reinsurer Japan landscape]]、海上スペシャルティの文脈は [[insurance/marine-insurance-and-pi-cover-market|marine insurance and P&I cover market]]、Lloyd's が競合・補完する相手は [[insurance/japan-nonlife-big-three|Japan non-life big three]]、隣接する特殊リスク移転ルートは [[insurance/captive-insurance-japan-market|captive insurance Japan market]]、親レベルで Lloyd's を監督する Solvency II / PRA 枠組みは [[insurance/global-solvency-framework-comparison-matrix|global solvency framework comparison matrix]] とあわせて読む。
+この項目は [[insurance/INDEX|insurance index]] の下に置かれる。エンティティ単位のページは [[non-life-insurers/lloyd-japan|Lloyd's Japan]]、通常型外資再保険会社の比較は [[insurance/foreign-reinsurer-japan-landscape|foreign reinsurer Japan landscape]]、海上スペシャルティの文脈は [[insurance/marine-insurance-and-pi-cover-market|marine insurance and P&I cover market]]、Lloyd's が競合・補完する相手は [[insurance/japan-nonlife-big-three|Japan non-life big three]]、隣接する特殊リスク移転ルートは [[insurance/captive-insurance-japan-market|captive insurance Japan market]]、親レベルで Lloyd's を監督する Solvency II / PRA 枠組みは [[insurance/global-solvency-framework-comparison-matrix|global solvency framework comparison matrix]] とあわせて読む。
 
 ## 1. Lloyd's of London の実体
 
@@ -32,7 +32,7 @@ Lloyd's は会社ではなく、規制されたマーケットプレイスであ
 1. シンジケート・レベルの **Premiums Trust Funds** — 第 1 の支払原資。
 2. **Members' Funds at Lloyd's (FAL)** — 第 2 の支払原資。各メンバーが自らの引受シェアを支えるために差し入れる。
 
-このチェーンは、単一バランスシート型保険会社に対する構造的な代替である。このため Lloyd's Japan Inc. は、財務諸表指標で [[JapanFG/aig-japan|AIG Japan]] や [[JapanFG/chubb-insurance-japan|Chubb Insurance Japan]] と同列比較できない。バランスシートはロンドン側にある。
+このチェーンは、単一バランスシート型保険会社に対する構造的な代替である。このため Lloyd's Japan Inc. は、財務諸表指標で [[non-life-insurers/aig-japan|AIG Japan]] や [[non-life-insurers/chubb-insurance-japan|Chubb Insurance Japan]] と同列比較できない。バランスシートはロンドン側にある。
 
 ## 2. Lloyd's Japan Inc. — 何であり、何ではないか
 
@@ -87,7 +87,7 @@ Lloyd's 市場はシンジケート単位の年次キャパシティ（Stamp Cap
 
 ## 7. Lloyd's Japan と通常型外資保険会社の比較
 
-| 軸 | Lloyd's Japan ([[JapanFG/lloyd-japan]]) | 通常型外資保険会社（例: [[JapanFG/aig-japan|AIG Japan]]、[[JapanFG/chubb-insurance-japan|Chubb]]） |
+| 軸 | Lloyd's Japan ([[non-life-insurers/lloyd-japan]]) | 通常型外資保険会社（例: [[non-life-insurers/aig-japan|AIG Japan]]、[[non-life-insurers/chubb-insurance-japan|Chubb]]） |
 |---|---|---|
 | 構造 | マーケットプレイス・プラットフォーム。1 リスクに複数シンジケート | 1 つのバランスシートを持つ単一保険会社 |
 | 資本裏付け | 3 層のセキュリティ・チェーン（Premiums Trust Funds → FAL → Central Fund） | 親会社バランスシート |
@@ -111,18 +111,18 @@ Lloyd's 市場はシンジケート単位の年次キャパシティ（Stamp Cap
 - [[insurance/global-solvency-framework-comparison-matrix]]
 - [[insurance/insurance-agency-and-brokerage-japan]]
 - [[insurance/natcat-reinsurance-japan]]
-- [[JapanFG/nonlife-insurer-registry-japan-index]]
-- [[JapanFG/lloyd-japan]]
-- [[JapanFG/aig-japan]]
-- [[JapanFG/chubb-insurance-japan]]
-- [[JapanFG/allianz-fire-marine-japan]]
-- [[JapanFG/japan-pi-club]]
-- [[JapanFG/tokio-marine-nichido-fire]]
-- [[JapanFG/mitsui-sumitomo-insurance]]
-- [[JapanFG/sompo-japan-insurance]]
-- [[JapanFG/munich-re-japan]]
-- [[JapanFG/swiss-re-japan]]
-- [[JapanFG/legal-financial-licenses/insurance-license-and-solvency]]
+- [[non-life-insurers/nonlife-insurer-registry-japan-index]]
+- [[non-life-insurers/lloyd-japan]]
+- [[non-life-insurers/aig-japan]]
+- [[non-life-insurers/chubb-insurance-japan]]
+- [[non-life-insurers/allianz-fire-marine-japan]]
+- [[financial-regulators/japan-pi-club]]
+- [[non-life-insurers/tokio-marine-nichido-fire]]
+- [[non-life-insurers/mitsui-sumitomo-insurance]]
+- [[non-life-insurers/sompo-japan-insurance]]
+- [[non-life-insurers/munich-re-japan]]
+- [[non-life-insurers/swiss-re-japan]]
+- [[financial-licenses/insurance-license-and-solvency]]
 - [[INDEX|FinWiki index]]
 
 ## 出典

@@ -32,7 +32,7 @@ sources:
 
 ## TL;DR
 
-EB (*Equity Bond*) knock-in is the most-distributed structured-product format in Japan retail wealth management through 2022. Mechanically, the buyer is short a **down-and-in put option** on a single Japanese stock (or worst-of basket) in exchange for an enhanced coupon and (in autocallable variants) the chance of early redemption. The headline coupon (typically 5-15 percent annualized) attracted yield-starved retail. The **tail risk** is binary: if the worst-performing reference asset breaches the knock-in barrier (typically 50-70 percent of initial), the investor is delivered shares (or cash equivalent) at the original strike rather than receiving par. Losses of 30-70 percent of principal in single events are realized outcomes. The **2022-2023 FSA crackdown** and subsequent JSDA self-regulatory tightening targeted EB knock-in distribution as the highest-priority retail-protection issue; administrative orders against [[JapanFG/nomura-hd|Nomura]], [[JapanFG/smbc-nikko|SMBC Nikko]], and [[JapanFG/daiwa-sg|Daiwa]] subsidiaries forced major distributors to suspend or restrict EB knock-in retail sales.
+EB (*Equity Bond*) knock-in is the most-distributed structured-product format in Japan retail wealth management through 2022. Mechanically, the buyer is short a **down-and-in put option** on a single Japanese stock (or worst-of basket) in exchange for an enhanced coupon and (in autocallable variants) the chance of early redemption. The headline coupon (typically 5-15 percent annualized) attracted yield-starved retail. The **tail risk** is binary: if the worst-performing reference asset breaches the knock-in barrier (typically 50-70 percent of initial), the investor is delivered shares (or cash equivalent) at the original strike rather than receiving par. Losses of 30-70 percent of principal in single events are realized outcomes. The **2022-2023 FSA crackdown** and subsequent JSDA self-regulatory tightening targeted EB knock-in distribution as the highest-priority retail-protection issue; administrative orders against [[securities-firms/nomura-hd|Nomura]], [[securities-firms/smbc-nikko|SMBC Nikko]], and [[securities-firms/daiwa-sg|Daiwa]] subsidiaries forced major distributors to suspend or restrict EB knock-in retail sales.
 
 ## Wiki route
 
@@ -168,9 +168,9 @@ The FSA, JSDA, and SESC took coordinated enforcement actions in 2023:
 
 | Distributor | Action category |
 |---|---|
-| [[JapanFG/nomura-hd|Nomura Securities]] | Business-improvement order regarding structured-bond (including EB) sales process and suitability |
-| [[JapanFG/smbc-nikko|SMBC Nikko Securities]] | Business-improvement order; senior management accountability around suitability process |
-| [[JapanFG/daiwa-sg|Daiwa Securities]] | Business-improvement order; suitability and disclosure improvements |
+| [[securities-firms/nomura-hd|Nomura Securities]] | Business-improvement order regarding structured-bond (including EB) sales process and suitability |
+| [[securities-firms/smbc-nikko|SMBC Nikko Securities]] | Business-improvement order; senior management accountability around suitability process |
+| [[securities-firms/daiwa-sg|Daiwa Securities]] | Business-improvement order; suitability and disclosure improvements |
 | Multiple regional bank-aligned brokerages | Localized administrative actions and self-suspensions |
 
 The enforcement actions specifically called out EB knock-in distribution as the most acute suitability issue. Disclosure of fee load, scenario analysis (loss illustration), and customer-appropriateness assessment were the principal failure points.
@@ -253,14 +253,14 @@ The contrast is sharp: institutional convertibles give buyers asymmetric upside;
 - [[banking/INDEX]]
 - [[insurance/japan-life-insurance-alm-overview]]
 - [[securities/japan-prime-brokerage-and-institutional-financing]]
-- [[JapanFG/mufg]]
-- [[JapanFG/sumitomo-mitsui-banking-corp]]
-- [[JapanFG/mizuho-bank]]
-- [[JapanFG/nomura-hd]]
-- [[JapanFG/smbc-nikko]]
-- [[JapanFG/daiwa-sg]]
-- [[JapanFG/goldman-sachs-japan]]
-- [[JapanFG/morgan-stanley-japan]]
+- [[megabanks/mufg]]
+- [[megabanks/sumitomo-mitsui-banking-corp]]
+- [[megabanks/mizuho-bank]]
+- [[securities-firms/nomura-hd]]
+- [[securities-firms/smbc-nikko]]
+- [[securities-firms/daiwa-sg]]
+- [[securities-firms/goldman-sachs-japan]]
+- [[securities-firms/morgan-stanley-japan]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

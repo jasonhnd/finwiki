@@ -1,0 +1,88 @@
+{
+  "schema_version": "1.0",
+  "slug": "payment-firms/unionpay-international-japan",
+  "source_path": "payment-firms/unionpay-international-japan.md",
+  "url": "https://finwiki.zksc.io/payment-firms/unionpay-international-japan",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/payment-firms/unionpay-international-japan.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/payment-firms/unionpay-international-japan.md",
+  "domain": "payment-firms",
+  "title": "銀聯インターナショナル日本支社 (UnionPay International Japan)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "銀聯インターナショナル日本支社 (UnionPay International Japan)",
+    "aliases": [
+      "UnionPay International Japan",
+      "UPI Japan",
+      "銀聯インターナショナル",
+      "銀聯",
+      "China UnionPay Japan"
+    ],
+    "domain": "payment-firms",
+    "created": "2026-05-24",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
+    "review_by": "2026-11-20",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "card-brand",
+      "payments",
+      "unionpay",
+      "china",
+      "inbound"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.unionpayintl.com/jp/",
+      "https://www.unionpayintl.com/jp/aboutUs/companyProfile/"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against JCB for peer / contrast context (JCB と銀聯は 2006 年に相互利用提携を結んだ歴史) and Japan card issuer / acquirer / processor split for the broader system / regulatory boundary.",
+  "headings": [
+    "銀聯インターナショナル日本支社 (UnionPay International Japan)",
+    "Wiki route",
+    "TL;DR",
+    "1. License / group boundary",
+    "2. Business lines in Japan",
+    "4. Why this page matters",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 11,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "card-issuers/jcb",
+      "card-issuers/mufg-nicos",
+      "card-issuers/rakuten-card",
+      "card-issuers/smbc-card",
+      "payment-firms/american-express-international-japan",
+      "payment-firms/diners-club-japan",
+      "payment-firms/mastercard-japan",
+      "payment-firms/visa-worldwide-japan",
+      "payments/japan-card-issuer-acquirer-processor-split",
+      "payments/japan-interchange-and-merchant-fee-stack"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/card-issuers/jcb",
+      "https://finwiki.zksc.io/card-issuers/mufg-nicos",
+      "https://finwiki.zksc.io/card-issuers/rakuten-card",
+      "https://finwiki.zksc.io/card-issuers/smbc-card",
+      "https://finwiki.zksc.io/payment-firms/american-express-international-japan",
+      "https://finwiki.zksc.io/payment-firms/diners-club-japan",
+      "https://finwiki.zksc.io/payment-firms/mastercard-japan",
+      "https://finwiki.zksc.io/payment-firms/visa-worldwide-japan",
+      "https://finwiki.zksc.io/payments/japan-card-issuer-acquirer-processor-split",
+      "https://finwiki.zksc.io/payments/japan-interchange-and-merchant-fee-stack"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2966,
+    "word_like_tokens": 429,
+    "inbound_wikilinks_count": 6,
+    "last_modified": "2026-06-04"
+  }
+}

@@ -50,13 +50,13 @@
   "body_links": {
     "wikilinks_count": 13,
     "wikilinks": [
-      "JapanFG/dg-financial-technology",
-      "JapanFG/gmo-payment-gateway",
-      "JapanFG/merpay",
-      "JapanFG/netstars",
-      "JapanFG/paypay",
-      "JapanFG/recruit-mufg-business",
-      "JapanFG/sb-payment-service",
+      "payment-firms/dg-financial-technology",
+      "payment-firms/gmo-payment-gateway",
+      "payment-firms/merpay",
+      "payment-firms/netstars",
+      "payment-firms/paypay",
+      "payment-firms/recruit-mufg-business",
+      "payment-firms/sb-payment-service",
       "payments/INDEX",
       "payments/card-acquiring-japan-stack",
       "payments/credit-purchase-card-operators-japan-index",
@@ -65,13 +65,13 @@
       "payments/prepaid-payment-instrument-issuers-japan-index"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/dg-financial-technology",
-      "https://finwiki.zksc.io/JapanFG/gmo-payment-gateway",
-      "https://finwiki.zksc.io/JapanFG/merpay",
-      "https://finwiki.zksc.io/JapanFG/netstars",
-      "https://finwiki.zksc.io/JapanFG/paypay",
-      "https://finwiki.zksc.io/JapanFG/recruit-mufg-business",
-      "https://finwiki.zksc.io/JapanFG/sb-payment-service",
+      "https://finwiki.zksc.io/payment-firms/dg-financial-technology",
+      "https://finwiki.zksc.io/payment-firms/gmo-payment-gateway",
+      "https://finwiki.zksc.io/payment-firms/merpay",
+      "https://finwiki.zksc.io/payment-firms/netstars",
+      "https://finwiki.zksc.io/payment-firms/paypay",
+      "https://finwiki.zksc.io/payment-firms/recruit-mufg-business",
+      "https://finwiki.zksc.io/payment-firms/sb-payment-service",
       "https://finwiki.zksc.io/payments/INDEX",
       "https://finwiki.zksc.io/payments/card-acquiring-japan-stack",
       "https://finwiki.zksc.io/payments/credit-purchase-card-operators-japan-index",
@@ -83,9 +83,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5368,
-    "word_like_tokens": 767,
+    "nonspace_chars": 5446,
+    "word_like_tokens": 780,
     "inbound_wikilinks_count": 18,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-04"
   }
 }

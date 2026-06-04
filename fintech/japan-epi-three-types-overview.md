@@ -45,7 +45,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 | 銀行型 | 銀行 | 銀行業法 + EPI | 中(預金と連動) | 銀行 BS にリンク | みんなの銀行 SC(Solana ルート) |
 | 資金移動業者型 | 資金移動業者 | 資金決済法 | 低(小額クロスボーダー一部 ¥100 万制限) | ¥100 万 / 件(一部) | JPYC(岡部典孝) |
 
-**信託型**([[JapanFG/progmat|Progmat]] XJPY):三菱 UFJ + 三井住友 + みずほ 三大銀行 + Datachain 合弁、non-MUFG-controlled 設計(単一最大株主 49% + ガバナンス 51% の多元化)、B2B 大口資金が対象。**銀行型**(みんなの銀行):福岡 FG / みんなの銀行 + Solana ルート、銀行顧客リテール対象。**資金移動業者型**([[JapanFG/jpyc|JPYC]]):岡部典孝主導、日本唯一の資金移動業者型 SC 保有者、3 か月で 2.6 倍成長。
+**信託型**([[payment-firms/progmat|Progmat]] XJPY):三菱 UFJ + 三井住友 + みずほ 三大銀行 + Datachain 合弁、non-MUFG-controlled 設計(単一最大株主 49% + ガバナンス 51% の多元化)、B2B 大口資金が対象。**銀行型**(みんなの銀行):福岡 FG / みんなの銀行 + Solana ルート、銀行顧客リテール対象。**資金移動業者型**([[payment-firms/jpyc|JPYC]]):岡部典孝主導、日本唯一の資金移動業者型 SC 保有者、3 か月で 2.6 倍成長。
 
 ## Origin & evolution
 

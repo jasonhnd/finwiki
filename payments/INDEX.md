@@ -42,7 +42,7 @@ sources:
 
 ## Overview
 
-This domain routes Japan payment and settlement pages. The current anchor is [[payments/cashless-jp-landscape|Japan cashless payment landscape]], which connects card, code payment, account-to-account payment, prepaid electronic money, PSP, bank-linked payment, loyalty points, and stablecoin / EPI adjacency. Major operating-company pages now live mostly under [[JapanFG/INDEX|JapanFG]], while large license populations such as third-party prepaid issuers, funds-transfer operators, and credit / card merchant-contracting operators are routed through registry-control pages. Payment-license categories are summarized in [[JapanFG/legal-financial-licenses/payment-license-stack|Japan payment license stack]], card merchant-fee fields are routed through [[payments/japan-interchange-and-merchant-fee-stack|Japan interchange and merchant fee stack]], and clearing / settlement systems are routed through [[payments/japan-payment-clearing-and-settlement-infrastructure|Japan payment clearing and settlement infrastructure]].
+This domain routes Japan payment and settlement pages. The current anchor is [[payments/cashless-jp-landscape|Japan cashless payment landscape]], which connects card, code payment, account-to-account payment, prepaid electronic money, PSP, bank-linked payment, loyalty points, and stablecoin / EPI adjacency. Major operating-company pages now live mostly under [[JapanFG/INDEX|JapanFG]], while large license populations such as third-party prepaid issuers, funds-transfer operators, and credit / card merchant-contracting operators are routed through registry-control pages. Payment-license categories are summarized in [[financial-licenses/payment-license-stack|Japan payment license stack]], card merchant-fee fields are routed through [[payments/japan-interchange-and-merchant-fee-stack|Japan interchange and merchant fee stack]], and clearing / settlement systems are routed through [[payments/japan-payment-clearing-and-settlement-infrastructure|Japan payment clearing and settlement infrastructure]].
 
 Use this domain when the question is **how value moves at checkout or through a wallet**, not when the question is only "which financial group owns the product."
 
@@ -50,19 +50,19 @@ Use this domain when the question is **how value moves at checkout or through a 
 
 | Lane | Start here | Related control page |
 |---|---|---|
-| Japan cashless market | [[payments/cashless-jp-landscape|Japan cashless payment landscape]] | [[JapanFG/legal-financial-licenses/INDEX|legal / financial licenses]] |
-| Payment license stack | [[JapanFG/legal-financial-licenses/payment-license-stack|Japan payment license stack]] | [[JapanFG/legal-financial-licenses/INDEX|legal / financial licenses]] |
-| Card acquiring / merchant PSP | [[payments/card-acquiring-japan-stack|Japan card acquiring stack]] | [[JapanFG/gmo-payment-gateway|GMO Payment Gateway]] |
+| Japan cashless market | [[payments/cashless-jp-landscape|Japan cashless payment landscape]] | [[financial-licenses/INDEX|legal / financial licenses]] |
+| Payment license stack | [[financial-licenses/payment-license-stack|Japan payment license stack]] | [[financial-licenses/INDEX|legal / financial licenses]] |
+| Card acquiring / merchant PSP | [[payments/card-acquiring-japan-stack|Japan card acquiring stack]] | [[payment-firms/gmo-payment-gateway|GMO Payment Gateway]] |
 | Card role split | [[payments/japan-card-issuer-acquirer-processor-split|Japan card issuer, acquirer, and processor split]] | [[payments/credit-purchase-card-operators-japan-index|credit / card registry]] |
 | Interchange / merchant fee | [[payments/japan-interchange-and-merchant-fee-stack|Japan interchange and merchant fee stack]] | [[payments/japan-card-issuer-acquirer-processor-split|card role split]] |
 | Card security / authentication | [[payments/japan-card-security-authentication-controls|Japan card security and authentication controls]] | [[payments/japan-card-issuer-acquirer-processor-split|card role split]] |
-| Wallet legal boundary | [[payments/funds-transfer-vs-prepaid-boundary|Funds transfer vs prepaid boundary in Japan]] | [[JapanFG/legal-financial-licenses/INDEX|legal / financial licenses]] |
-| Bank API / payment agency | [[payments/japan-bank-api-payment-agency-route|Japan bank API and electronic payment agency route]] | [[JapanFG/legal-financial-licenses/INDEX|legal / financial licenses]] |
+| Wallet legal boundary | [[payments/funds-transfer-vs-prepaid-boundary|Funds transfer vs prepaid boundary in Japan]] | [[financial-licenses/INDEX|legal / financial licenses]] |
+| Bank API / payment agency | [[payments/japan-bank-api-payment-agency-route|Japan bank API and electronic payment agency route]] | [[financial-licenses/INDEX|legal / financial licenses]] |
 | Bank API incidents | [[payments/japan-bank-api-incident-and-fraud-control|Japan bank API incident and fraud-control map]] | [[payments/japan-bank-api-payment-agency-route|bank API route]] |
 | Funds-transfer registry | [[payments/funds-transfer-service-providers-japan-index|Japan funds-transfer service providers registry]] | FSA `shikin_idou.pdf` |
 | Prepaid issuer registry | [[payments/prepaid-payment-instrument-issuers-japan-index|Japan third-party prepaid issuer registry]] | FSA `daisan.xlsx` |
 | Credit / card registry | [[payments/credit-purchase-card-operators-japan-index|Japan credit purchase and card operator registry]] | METI Installment Sales Act lists |
-| BNPL / credit purchase | [[payments/japan-bnpl-credit-purchase-boundary|Japan BNPL and credit-purchase boundary]] | [[JapanFG/bnpl-landscape|BNPL landscape]] |
+| BNPL / credit purchase | [[payments/japan-bnpl-credit-purchase-boundary|Japan BNPL and credit-purchase boundary]] | [[payment-firms/bnpl-landscape|BNPL landscape]] |
 | Code-payment competition | [[payments/japan-code-payment-competitive-map|Japan code-payment competitive map]] | [[payments/cashless-jp-landscape|cashless landscape]] |
 | Account-to-account payments | [[payments/account-to-account-payment-japan|Japan account-to-account payment route]] | [[banking/quick-deposit-four-methods|quick deposit methods]] |
 | Account-direct merchant acquiring | [[payments/merchant-bank-pay-account-direct-acquiring|Merchant bank-account direct acquiring in Japan]] | [[payments/psp-merchant-settlement-risk|PSP settlement risk]] |
@@ -72,7 +72,7 @@ Use this domain when the question is **how value moves at checkout or through a 
 | PSP settlement risk | [[payments/psp-merchant-settlement-risk|PSP merchant settlement risk]] | [[payments/card-acquiring-japan-stack|card acquiring stack]] |
 | Points / campaign economics | [[loyalty/japan-points-landscape|Japan points landscape]] | [[loyalty/INDEX|loyalty INDEX]] |
 | Retail payment platforms | [[retail/aeon-group|AEON Group]], [[retail/seven-and-i-hd|Seven & i]] | [[retail/INDEX|retail INDEX]] |
-| Merchant PSP / acquiring | [[JapanFG/gmo-payment-gateway|GMO Payment Gateway]], [[business/gmo-internet-group|GMO Internet Group]] | [[JapanFG/legal-financial-licenses/INDEX|legal / financial licenses]] |
+| Merchant PSP / acquiring | [[payment-firms/gmo-payment-gateway|GMO Payment Gateway]], [[business/gmo-internet-group|GMO Internet Group]] | [[financial-licenses/INDEX|legal / financial licenses]] |
 | Embedded bank payment | [[banking/baas-japan-landscape|BaaS Japan landscape]], [[banking/mercari-bank-license-stack|Mercari Bank license stack]] | [[banking/INDEX|banking INDEX]] |
 | Stablecoin / EPI payment | [[fintech/japan-stablecoin-regulatory-landscape|Japan stablecoin regulatory landscape]], [[fintech/japan-ecisb-license|Japan ECISB license]] | [[fintech/INDEX|fintech INDEX]] |
 
@@ -80,19 +80,19 @@ Use this domain when the question is **how value moves at checkout or through a 
 
 | Lane | Operators |
 |---|---|
-| Card issuers / acquirers | [[JapanFG/smbc-card|SMBC Card]], [[JapanFG/mufg-nicos|MUFG NICOS]], [[JapanFG/rakuten-card|Rakuten Card]], [[JapanFG/paypay-card|PayPay Card]], [[JapanFG/aeon-financial-service|AEON Financial Service]], [[JapanFG/epos-card|EPOS Card]], [[JapanFG/life-card|Life Card]], [[JapanFG/pocket-card|Pocket Card]], [[JapanFG/ucs-card|UCS]], [[JapanFG/seven-card-service|Seven Card Service]] |
-| Consumer finance / installment | [[JapanFG/smbc-consumer-finance|SMBC Consumer Finance]], [[JapanFG/shinsei-financial|Shinsei Financial]], [[JapanFG/aplus|APLUS]], [[JapanFG/toyota-finance|Toyota Finance]], [[JapanFG/aiful|AIFUL]], [[JapanFG/acom|ACOM]], [[JapanFG/orico|Orico]], [[JapanFG/jaccs|JACCS]] |
-| Merchant PSP / gateway | [[JapanFG/gmo-payment-gateway|GMO Payment Gateway]], [[JapanFG/gmo-epsilon|GMO Epsilon]], [[JapanFG/sb-payment-service|SB Payment Service]], [[JapanFG/dg-financial-technology|DGFT]], [[JapanFG/netstars|Netstars]] |
-| Wallet / funds transfer | [[JapanFG/paypay|PayPay]], [[JapanFG/merpay|Merpay]], [[JapanFG/au-payment|au Payment]], [[JapanFG/rakuten-edy|Rakuten Edy]], [[JapanFG/kyash|Kyash]], [[JapanFG/smartbank|SmartBank]], [[JapanFG/pring|pring]], [[JapanFG/seven-payment-service|Seven Payment Service]], [[JapanFG/recruit-mufg-business|Recruit MUFG Business]], [[JapanFG/jal-payment-port|JAL Payment Port]] |
-| Cross-border remittance | [[JapanFG/wise-payments-japan|Wise Payments Japan]], [[JapanFG/revolut-technologies-japan|Revolut Japan]], [[JapanFG/paypal-pte-ltd-japan|PayPal]], [[JapanFG/payoneer-japan|Payoneer Japan]], [[JapanFG/western-union-japan|Western Union Japan]], [[JapanFG/sbi-remit|SBI Remit]], [[JapanFG/travelex-japan|Travelex Japan]], [[JapanFG/airwallex-japan|Airwallex Japan]] |
-| Stablecoin / EPI adjacency | [[JapanFG/jpyc|JPYC]], [[JapanFG/progmat|Progmat]], [[exchanges/jp-exchange-sbi-vc-trade|SBI VC Trade / USDC]] |
+| Card issuers / acquirers | [[card-issuers/smbc-card|SMBC Card]], [[card-issuers/mufg-nicos|MUFG NICOS]], [[card-issuers/rakuten-card|Rakuten Card]], [[card-issuers/paypay-card|PayPay Card]], [[card-issuers/aeon-financial-service|AEON Financial Service]], [[card-issuers/epos-card|EPOS Card]], [[card-issuers/life-card|Life Card]], [[card-issuers/pocket-card|Pocket Card]], [[card-issuers/ucs-card|UCS]], [[card-issuers/seven-card-service|Seven Card Service]] |
+| Consumer finance / installment | [[consumer-finance/smbc-consumer-finance|SMBC Consumer Finance]], [[consumer-finance/shinsei-financial|Shinsei Financial]], [[card-issuers/aplus|APLUS]], [[card-issuers/toyota-finance|Toyota Finance]], [[consumer-finance/aiful|AIFUL]], [[consumer-finance/acom|ACOM]], [[card-issuers/orico|Orico]], [[card-issuers/jaccs|JACCS]] |
+| Merchant PSP / gateway | [[payment-firms/gmo-payment-gateway|GMO Payment Gateway]], [[payment-firms/gmo-epsilon|GMO Epsilon]], [[payment-firms/sb-payment-service|SB Payment Service]], [[payment-firms/dg-financial-technology|DGFT]], [[payment-firms/netstars|Netstars]] |
+| Wallet / funds transfer | [[payment-firms/paypay|PayPay]], [[payment-firms/merpay|Merpay]], [[payment-firms/au-payment|au Payment]], [[payment-firms/rakuten-edy|Rakuten Edy]], [[payment-firms/kyash|Kyash]], [[payment-firms/smartbank|SmartBank]], [[payment-firms/pring|pring]], [[payment-firms/seven-payment-service|Seven Payment Service]], [[payment-firms/recruit-mufg-business|Recruit MUFG Business]], [[payment-firms/jal-payment-port|JAL Payment Port]] |
+| Cross-border remittance | [[payment-firms/wise-payments-japan|Wise Payments Japan]], [[payment-firms/revolut-technologies-japan|Revolut Japan]], [[payment-firms/paypal-pte-ltd-japan|PayPal]], [[payment-firms/payoneer-japan|Payoneer Japan]], [[payment-firms/western-union-japan|Western Union Japan]], [[payment-firms/sbi-remit|SBI Remit]], [[payment-firms/travelex-japan|Travelex Japan]], [[payment-firms/airwallex-japan|Airwallex Japan]] |
+| Stablecoin / EPI adjacency | [[payment-firms/jpyc|JPYC]], [[payment-firms/progmat|Progmat]], [[exchanges/jp-exchange-sbi-vc-trade|SBI VC Trade / USDC]] |
 
 ## Active Entries
 
 | Status | Page | Role |
 |---|---|---|
 | likely | [[payments/cashless-jp-landscape|Japan cashless payment landscape]] | Top-level Japan cashless market, legal stack, and competitive-map bridge |
-| likely | [[JapanFG/legal-financial-licenses/payment-license-stack|Japan payment license stack]] | Funds transfer, prepaid, electronic payment agency, EPI transaction, electronic payment handling, credit / card, and account-direct payment routes |
+| likely | [[financial-licenses/payment-license-stack|Japan payment license stack]] | Funds transfer, prepaid, electronic payment agency, EPI transaction, electronic payment handling, credit / card, and account-direct payment routes |
 | likely | [[payments/card-acquiring-japan-stack|Japan card acquiring stack]] | Card acquiring, PSP registration, merchant-contracting, PCI DSS, and fraud-control boundary |
 | likely | [[payments/japan-card-issuer-acquirer-processor-split|Japan card issuer, acquirer, and processor split]] | Issuer / acquirer / brand / PSP / merchant role split for card payment analysis |
 | likely | [[payments/japan-interchange-and-merchant-fee-stack|Japan interchange and merchant fee stack]] | Card merchant-fee, issuer-fee / interchange, acquirer-share, JFTC / METI / Payments Japan disclosure fields |
@@ -147,12 +147,12 @@ Brand / wallet / transit / fraud deepening:
 
 - [[INDEX|FinWiki index]]
 - [[JapanFG/INDEX|JapanFG INDEX]]
-- [[JapanFG/legal-financial-licenses/INDEX|JapanFG legal / financial licenses]]
+- [[financial-licenses/INDEX|JapanFG legal / financial licenses]]
 - [[loyalty/INDEX|loyalty INDEX]]
 - [[retail/INDEX|retail INDEX]]
 - [[fintech/INDEX|fintech INDEX]]
 - [[payments/funds-transfer-service-providers-japan-index]]
-- [[JapanFG/legal-financial-licenses/payment-license-stack]]
+- [[financial-licenses/payment-license-stack]]
 - [[payments/credit-purchase-card-operators-japan-index]]
 - [[payments/account-to-account-payment-japan]]
 - [[payments/merchant-bank-pay-account-direct-acquiring]]

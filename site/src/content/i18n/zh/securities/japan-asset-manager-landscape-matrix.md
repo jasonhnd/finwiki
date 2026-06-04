@@ -11,11 +11,11 @@ translated_at: 2026-06-01T03:31:12.300Z
 
 ## TL;DR
 
-日本资产管理（AM）行业是四条赛道的竞争：**大型银行系 AM** 以分发驱动的规模为锚；**保险系 AM** 位于保费 float 与 run-off 负债的交叉点；**独立 / 在线 AM** 受益于 NISA 与在线券商漏斗增长；**在日外资系 AM** 则以较薄的本地分发运营全球产品工厂。本页是跨这些赛道的比较矩阵路线；它不替代 [[JapanFG/nomura-asset-management|Nomura Asset Management]]、[[JapanFG/asset-management-one|Asset Management One]]、[[JapanFG/sbi-asset-management|SBI Asset Management]] 等单家公司页面。
+日本资产管理（AM）行业是四条赛道的竞争：**大型银行系 AM** 以分发驱动的规模为锚；**保险系 AM** 位于保费 float 与 run-off 负债的交叉点；**独立 / 在线 AM** 受益于 NISA 与在线券商漏斗增长；**在日外资系 AM** 则以较薄的本地分发运营全球产品工厂。本页是跨这些赛道的比较矩阵路线；它不替代 [[asset-managers/nomura-asset-management|Nomura Asset Management]]、[[asset-managers/asset-management-one|Asset Management One]]、[[asset-managers/sbi-asset-management|SBI Asset Management]] 等单家公司页面。
 
 ## Wiki 路线
 
-本页位于 [[securities/INDEX|securities index]] 之下，是 [[securities/japan-underwriting-market-structure|Japan underwriting market structure]] 的 AM 侧对应页。阅读时可结合 [[securities/financial-instruments-business-operators-japan-index|Japan financial instruments business operators registry index]] 理解登记控制面，结合 [[JapanFG/legal-financial-licenses/securities-license-stack|Japan securities license stack]] 理解 投資運用業 / 第二種金融商品取引業 牌照层，并结合 [[securities/nisa-2024-flow|NISA 2024 flow]] 理解自 2024 以来重塑产品组合的家庭分发渠道。
+本页位于 [[securities/INDEX|securities index]] 之下，是 [[securities/japan-underwriting-market-structure|Japan underwriting market structure]] 的 AM 侧对应页。阅读时可结合 [[securities/financial-instruments-business-operators-japan-index|Japan financial instruments business operators registry index]] 理解登记控制面，结合 [[financial-licenses/securities-license-stack|Japan securities license stack]] 理解 投資運用業 / 第二種金融商品取引業 牌照层，并结合 [[securities/nisa-2024-flow|NISA 2024 flow]] 理解自 2024 以来重塑产品组合的家庭分发渠道。
 
 ## 范围与边界
 
@@ -23,8 +23,8 @@ translated_at: 2026-06-01T03:31:12.300Z
 |---|---|
 | 国内 投資運用業 运营商 | FSA FIBO 登记册上的 463 investment-management operators；本页覆盖实质性支柱，而非长尾。见 [[securities/financial-instruments-business-operators-japan-index|FIEA operator registry index]]。 |
 | 公募投信 / 私募投信 / 投資一任 | 三者均计入 AUM；矩阵在产品组合重要时加以区分。 |
-| 信托银行作为 AM | 信托银行（例如 [[JapanFG/mitsubishi-ufj-trust-bank|MUTB]]）运营独立的 信託 / pension mandates，本页会引用，但不是本矩阵的主要单位。 |
-| 仅分发实体 | 大型银行、券商和在线券商分发部门（例如 [[JapanFG/sbi-securities|SBI Securities]]）作为渠道引用，而不是作为 AM。 |
+| 信托银行作为 AM | 信托银行（例如 [[trust-banks/mitsubishi-ufj-trust-bank|MUTB]]）运营独立的 信託 / pension mandates，本页会引用，但不是本矩阵的主要单位。 |
+| 仅分发实体 | 大型银行、券商和在线券商分发部门（例如 [[securities-firms/sbi-securities|SBI Securities]]）作为渠道引用，而不是作为 AM。 |
 | 保险内部资产运用 | 寿险一般账户的内部资产运用放在保险公司页面；本矩阵覆盖寿险关联的**已登记** AM 子公司。 |
 
 ## 行业规模视角
@@ -34,7 +34,7 @@ translated_at: 2026-06-01T03:31:12.300Z
 | 公募投信净资产总额 | 由 JITA（投資信託協会）按月跟踪；应使用 JITA 的 統計 页面，而不是 vendor 估算。 |
 | 私募投信净资产总额 | 小于 公募，但高度集中于 機関投資家 / pension mandates。 |
 | 投資一任 残高总额 | 由 JSDA 自律监管汇总数据报告，用于 投資顧問業協会 历史后继类别。 |
-| ETF AUM | 高度集中在 [[JapanFG/nomura-asset-management|Nomura AM]]、[[JapanFG/asset-management-one|AM-One]]、[[JapanFG/mufg-asset-management|MUFG AM]]、[[JapanFG/nikko-asset-management|Nikko AM]]、[[JapanFG/daiwa-asset-management|Daiwa AM]] —— 日本银行 ETF 持有历史使这五家成为主导 ETF 发行方。 |
+| ETF AUM | 高度集中在 [[asset-managers/nomura-asset-management|Nomura AM]]、[[asset-managers/asset-management-one|AM-One]]、[[asset-managers/mufg-asset-management|MUFG AM]]、[[asset-managers/nikko-asset-management|Nikko AM]]、[[asset-managers/daiwa-asset-management|Daiwa AM]] —— 日本银行 ETF 持有历史使这五家成为主导 ETF 发行方。 |
 | iDeCo / NISA 份额 | 后 2024 NISA 热潮把资金流推向低成本指数基金（尤其是 eMAXIS Slim / SBI V 系列 / 楽天 series）。 |
 
 注意：AUM 排名按季度漂移。应使用 JITA、FSA 以及各 AM 的 統合報告書 / 月次運用実績 获取当前数字，而不是依赖截图。
@@ -47,12 +47,12 @@ translated_at: 2026-06-01T03:31:12.300Z
 
 | AM | 母公司 | 成立 / 合并 | 注释 |
 |---|---|---|---|
-| [[JapanFG/nomura-asset-management|Nomura Asset Management]] | [[JapanFG/nomura-hd|Nomura HD]] | 1959 (野村投信)，重组 | 按 公募投信 残高计的最大独立证券系 AM；ETF 和指数基金领导者。 |
-| [[JapanFG/asset-management-one|Asset Management One]] | [[JapanFG/mizuho-fg|Mizuho FG]] 70% / [[JapanFG/dai-ichi-life|Dai-ichi Life Group]] 30%（经济权益） | 2016 (DIAM + Mizuho 系 3 社 merger) | 银行 + 寿险联合平台；按 投資一任 残高计属于最大级别。 |
-| [[JapanFG/mufg-asset-management|MUFG Asset Management]] | [[JapanFG/mufg|MUFG]] 100% | 重组 2023 (旧 三菱UFJ国際投信 + 三菱UFJ信託 運用部門) | eMAXIS / eMAXIS Slim 品牌；NISA 资金流主要受益方。 |
-| [[JapanFG/smd-am|Sumitomo Mitsui DS Asset Management]] | [[JapanFG/smfg|SMFG]] 50.1%、[[JapanFG/daiwa-sg|Daiwa SG]] 23.5%、MS&AD / Sumitomo Life / SMTB | 2019 (SMAM + 大和住銀投信投資顧問 merger) | 位于 SMFG / Daiwa / Sumitomo Life 交叉持股处的 AM。 |
-| [[JapanFG/daiwa-asset-management|Daiwa Asset Management]] | [[JapanFG/daiwa-sg|Daiwa Securities Group]] | 1959 | 独立证券系 AM 赛道，ETF 发行方。 |
-| [[JapanFG/nikko-asset-management|Nikko Asset Management]] | [[JapanFG/smfg|SMFG]] / [[JapanFG/smtb|SMTB]] adjacent（历史上与 Sumitomo 和 Sumitomo Trust 有关）；战略持股变动 | 1959 (日興投信) | 相比同业 AM，海外足迹（Singapore / NZ / Australia）更强。 |
+| [[asset-managers/nomura-asset-management|Nomura Asset Management]] | [[securities-firms/nomura-hd|Nomura HD]] | 1959 (野村投信)，重组 | 按 公募投信 残高计的最大独立证券系 AM；ETF 和指数基金领导者。 |
+| [[asset-managers/asset-management-one|Asset Management One]] | [[megabanks/mizuho-fg|Mizuho FG]] 70% / [[life-insurers/dai-ichi-life|Dai-ichi Life Group]] 30%（经济权益） | 2016 (DIAM + Mizuho 系 3 社 merger) | 银行 + 寿险联合平台；按 投資一任 残高计属于最大级别。 |
+| [[asset-managers/mufg-asset-management|MUFG Asset Management]] | [[megabanks/mufg|MUFG]] 100% | 重组 2023 (旧 三菱UFJ国際投信 + 三菱UFJ信託 運用部門) | eMAXIS / eMAXIS Slim 品牌；NISA 资金流主要受益方。 |
+| [[asset-managers/smd-am|Sumitomo Mitsui DS Asset Management]] | [[megabanks/smfg|SMFG]] 50.1%、[[securities-firms/daiwa-sg|Daiwa SG]] 23.5%、MS&AD / Sumitomo Life / SMTB | 2019 (SMAM + 大和住銀投信投資顧問 merger) | 位于 SMFG / Daiwa / Sumitomo Life 交叉持股处的 AM。 |
+| [[asset-managers/daiwa-asset-management|Daiwa Asset Management]] | [[securities-firms/daiwa-sg|Daiwa Securities Group]] | 1959 | 独立证券系 AM 赛道，ETF 发行方。 |
+| [[asset-managers/nikko-asset-management|Nikko Asset Management]] | [[megabanks/smfg|SMFG]] / [[trust-banks/smtb|SMTB]] adjacent（历史上与 Sumitomo 和 Sumitomo Trust 有关）；战略持股变动 | 1959 (日興投信) | 相比同业 AM，海外足迹（Singapore / NZ / Australia）更强。 |
 
 赛道 1 要点：规模来自母公司的分发。经济问题不是“谁是最好的选股者”，而是“谁控制家庭的主要 投信 购买渠道”，以及“谁为母公司的 DC / iDeCo / 投資一任 管线供货”。
 
@@ -60,10 +60,10 @@ translated_at: 2026-06-01T03:31:12.300Z
 
 保险关联是一个光谱，而不是二元属性。上面的 AM-One 部分由保险公司持有（Dai-ichi Life Group）。其他明确以寿险公司为锚的 AM 包括：
 
-- **[[JapanFG/nippon-life-insurance|Nippon Life]] group AMs** — Nippon Life 是 AM 生态中的关键基石，并在历史上锚定 DIAM（后并入 AM-One）；Nippon Life 关联 AM 运作与保险一般账户一致的 mandate 以及公募基金产品。
-- **[[JapanFG/dai-ichi-life|Dai-ichi Life Group]] AMs** — Dai-ichi Frontier 和更广泛的 Dai-ichi Life group 运营保险一致型投资子公司；Dai-ichi Life 是 AM-One 的少数股东。
-- **[[JapanFG/meiji-yasuda-life|Meiji Yasuda Life]] / [[JapanFG/sumitomo-life|Sumitomo Life]] / [[JapanFG/t-and-d-hd|T&D HD]] affiliates** — 各大型寿险公司运营或投资 投資顧問 / 投資運用 子公司，为保险内部 mandate 以及 pension / DC 产品供给。
-- **[[JapanFG/tokio-marine-asset-management|Tokio Marine Asset Management]] / 非寿险系 AM** — 非寿险集团也运营 AM 子公司，重点在 機関投資家 / pension mandates，而不是 NISA 驱动的零售。
+- **[[life-insurers/nippon-life-insurance|Nippon Life]] group AMs** — Nippon Life 是 AM 生态中的关键基石，并在历史上锚定 DIAM（后并入 AM-One）；Nippon Life 关联 AM 运作与保险一般账户一致的 mandate 以及公募基金产品。
+- **[[life-insurers/dai-ichi-life|Dai-ichi Life Group]] AMs** — Dai-ichi Frontier 和更广泛的 Dai-ichi Life group 运营保险一致型投资子公司；Dai-ichi Life 是 AM-One 的少数股东。
+- **[[life-insurers/meiji-yasuda-life|Meiji Yasuda Life]] / [[life-insurers/sumitomo-life|Sumitomo Life]] / [[life-insurers/t-and-d-hd|T&D HD]] affiliates** — 各大型寿险公司运营或投资 投資顧問 / 投資運用 子公司，为保险内部 mandate 以及 pension / DC 产品供给。
+- **[[asset-managers/tokio-marine-asset-management|Tokio Marine Asset Management]] / 非寿险系 AM** — 非寿险集团也运营 AM 子公司，重点在 機関投資家 / pension mandates，而不是 NISA 驱动的零售。
 
 赛道 2 要点：保险系 AM 将保费 float 纪律（长期负债、ALM 驱动 mandate）与通过银行柜台和 IFA 合作方的零售产品分发结合起来。其公募产品的 NISA / iDeCo 份额通常低于大型银行系 AM，但养老金和 投資一任 权重有意义。
 
@@ -71,10 +71,10 @@ translated_at: 2026-06-01T03:31:12.300Z
 
 | AM | 集团 | 区别性特征 |
 |---|---|---|
-| [[JapanFG/sbi-asset-management|SBI Asset Management]] | [[JapanFG/sbi-hd|SBI Group]] / SBIグローバルアセットマネジメント | 低成本指数基金（SBI V 系列），流入 [[JapanFG/sbi-securities|SBI Securities]] NISA 漏斗。 |
-| 楽天投信投資顧問（Rakuten AM equivalent） | [[JapanFG/rakuten-group|Rakuten Group]] / [[JapanFG/rakuten-securities|Rakuten Securities]] adjacency | 通过 Rakuten Securities NISA 渠道分发的 楽天 series funds；需对照 FSA 登记确认法律实体状态。 |
+| [[asset-managers/sbi-asset-management|SBI Asset Management]] | [[megabanks/sbi-hd|SBI Group]] / SBIグローバルアセットマネジメント | 低成本指数基金（SBI V 系列），流入 [[securities-firms/sbi-securities|SBI Securities]] NISA 漏斗。 |
+| 楽天投信投資顧問（Rakuten AM equivalent） | [[payment-firms/rakuten-group|Rakuten Group]] / [[securities-firms/rakuten-securities|Rakuten Securities]] adjacency | 通过 Rakuten Securities NISA 渠道分发的 楽天 series funds；需对照 FSA 登记确认法律实体状态。 |
 | スパークス・グループ（SPARX Group） | 上市独立 AM | 长期运营的日本股票主动管理人；以亚洲 / 日本为重点的机构 / private-equity AM。 |
-| [[JapanFG/monex-asset-management|Monex Asset Management]] | [[JapanFG/monex-group|Monex Group]] / [[JapanFG/monex-securities|Monex Securities]] adjacency | 在线券商锚定 AM，规模小于 SBI / Rakuten 对应方。 |
+| [[securities-firms/monex-asset-management|Monex Asset Management]] | [[securities-firms/monex-group|Monex Group]] / [[securities-firms/monex-securities|Monex Securities]] adjacency | 在线券商锚定 AM，规模小于 SBI / Rakuten 对应方。 |
 | Cohort / boutique AMs | 各类 | 精品、owner-led，通常集中于日本股票或另类策略。 |
 
 赛道 3 要点：独立 / 在线赛道由两个引擎驱动 —— （1）供给 NISA 资金流的低成本指数基金，以及（2）boutique active / alternative mandates。前者竞争 TER 和品牌；后者竞争业绩记录和 機関投資家 信任。
@@ -108,7 +108,7 @@ translated_at: 2026-06-01T03:31:12.300Z
 | 公募投信 vs 私募投信 ratio | 公募基金权重高（零售），且有实质性私募 | 私募基金权重高（养老金 / mandate） | 公募基金权重高（NISA / online） | 混合 — 公募零售和 機関投資家 mandate |
 | 定价 | Legacy active 的 TER 中高；旗舰指数产品竞争性定价 | Mandate-based fee；可见度较低 | 指数 race-to-zero，主题产品 premium | 全球主动产品 premium 定价 |
 | 监管锚 | FSA 投資運用業、JITA、JSDA | FSA 投資運用業 + 保险监管 | FSA 投資運用業 + JSDA online-broker linkage | FSA 投資運用業、外资母公司监管 |
-| 跨领域链接 | [[securities/japan-underwriting-market-structure|underwriting market]] | [[JapanFG/dai-ichi-life|life insurer pages]] | [[securities/japan-online-brokerage-competition|online brokerage competition]] | [[fintech/blackrock-buidl-tokenized-mmf-overview|tokenization context]] |
+| 跨领域链接 | [[securities/japan-underwriting-market-structure|underwriting market]] | [[life-insurers/dai-ichi-life|life insurer pages]] | [[securities/japan-online-brokerage-competition|online brokerage competition]] | [[fintech/blackrock-buidl-tokenized-mmf-overview|tokenization context]] |
 
 ## NISA 与 iDeCo 视角
 
@@ -153,9 +153,9 @@ translated_at: 2026-06-01T03:31:12.300Z
 
 | 年份 | 事件 | 结果 |
 |---|---|---|
-| 2016 | DIAM + みずほ投信投資顧問 + 新光投信 + みずほ信託 運用部門 merger | 形成 [[JapanFG/asset-management-one|Asset Management One]]，作为 Mizuho × Dai-ichi Life 联合平台。 |
-| 2019 | 三井住友アセットマネジメント（SMAM）+ 大和住銀投信投資顧問 merger | 跨 SMFG / Daiwa / Sumitomo Life / MS&AD 股东形成 [[JapanFG/smd-am|SMD AM]]。 |
-| 2023 | 三菱UFJ国際投信 + 三菱UFJ信託銀行 運用部門 reorganization | 重组为 [[JapanFG/mufg-asset-management|MUFG Asset Management]]；整合 MUFG group AM 功能。 |
+| 2016 | DIAM + みずほ投信投資顧問 + 新光投信 + みずほ信託 運用部門 merger | 形成 [[asset-managers/asset-management-one|Asset Management One]]，作为 Mizuho × Dai-ichi Life 联合平台。 |
+| 2019 | 三井住友アセットマネジメント（SMAM）+ 大和住銀投信投資顧問 merger | 跨 SMFG / Daiwa / Sumitomo Life / MS&AD 股东形成 [[asset-managers/smd-am|SMD AM]]。 |
+| 2023 | 三菱UFJ国際投信 + 三菱UFJ信託銀行 運用部門 reorganization | 重组为 [[asset-managers/mufg-asset-management|MUFG Asset Management]]；整合 MUFG group AM 功能。 |
 | Ongoing | 外资 AM rationalization（Vanguard restructuring 等） | 赛道 4 经历多轮进入 / 退出周期；本地实体登记变化快于母公司战略。 |
 
 这些合并把大型银行系 AM 数量从十多家压缩到大约五个支柱。下一轮整合（如有）更可能出现在赛道 3 boutique consolidation，而不是赛道 1 megabank mergers，因为大型银行系 AM 地图已基本稳定。
@@ -176,7 +176,7 @@ translated_at: 2026-06-01T03:31:12.300Z
 
 | 当局 | 范围 | 用例 |
 |---|---|---|
-| FSA（金融庁） | 授权 投資運用業 / 第二種金融商品取引業 / 投資助言・代理業；发布 FIBO 登记册。 | 核实法律实体状态、牌照范围和登记编号。对照 [[JapanFG/legal-financial-licenses/securities-license-stack|securities license stack]] 交叉检查。 |
+| FSA（金融庁） | 授权 投資運用業 / 第二種金融商品取引業 / 投資助言・代理業；发布 FIBO 登记册。 | 核实法律实体状态、牌照范围和登记编号。对照 [[financial-licenses/securities-license-stack|securities license stack]] 交叉检查。 |
 | JITA（投資信託協会） | 投资信托行业自律组织；发布 統計 / 月次 fund data。 | 用于行业总量 AUM、净流入、基金数量和类别拆分。 |
 | JSDA（日本証券業協会） | 证券自律组织。 | 用于分发侧规则（适合性、客户最佳利益原则、销售行为），这些规则触及券商侧 AM 产品。 |
 | MHLW（厚生労働省） | 確定拠出年金（DC / iDeCo）监管和统计。 | 用于 DC / iDeCo 汇总 AUM、计划数量和参与者统计。 |
@@ -187,7 +187,7 @@ translated_at: 2026-06-01T03:31:12.300Z
 ## 如何使用本矩阵
 
 1. 先从符合问题的**赛道**开始 — 分发、养老金、零售或全球产品。
-2. 转到单个 AM 页面（例如 [[JapanFG/nomura-asset-management|Nomura Asset Management]]、[[JapanFG/asset-management-one|Asset Management One]]、[[JapanFG/mufg-asset-management|MUFG Asset Management]]、[[JapanFG/smd-am|SMD AM]]、[[JapanFG/daiwa-asset-management|Daiwa Asset Management]]、[[JapanFG/nikko-asset-management|Nikko Asset Management]]、[[JapanFG/sbi-asset-management|SBI Asset Management]]）查看实体 / 牌照 / 股东事实。
+2. 转到单个 AM 页面（例如 [[asset-managers/nomura-asset-management|Nomura Asset Management]]、[[asset-managers/asset-management-one|Asset Management One]]、[[asset-managers/mufg-asset-management|MUFG Asset Management]]、[[asset-managers/smd-am|SMD AM]]、[[asset-managers/daiwa-asset-management|Daiwa Asset Management]]、[[asset-managers/nikko-asset-management|Nikko Asset Management]]、[[asset-managers/sbi-asset-management|SBI Asset Management]]）查看实体 / 牌照 / 股东事实。
 3. 对照 [[securities/financial-instruments-business-operators-japan-index|FIEA operator registry]] 检查 FSA 登记。
 4. 关于家庭资金流故事，通过 [[securities/nisa-2024-flow|NISA 2024 flow]] 和 [[securities/japan-online-brokerage-competition|online brokerage competition]] 路由。
 5. 关于机构 / 承销侧故事，通过 [[securities/japan-underwriting-market-structure|underwriting market structure]] 和 [[securities/japan-market-infrastructure-map|market infrastructure map]] 路由。
@@ -200,22 +200,22 @@ translated_at: 2026-06-01T03:31:12.300Z
 - [[securities/japan-market-infrastructure-map]]
 - [[securities/japan-online-brokerage-competition]]
 - [[securities/nisa-2024-flow]]
-- [[JapanFG/legal-financial-licenses/securities-license-stack]]
-- [[JapanFG/legal-financial-licenses/INDEX]]
-- [[JapanFG/nomura-asset-management]]
-- [[JapanFG/asset-management-one]]
-- [[JapanFG/mufg-asset-management]]
-- [[JapanFG/smd-am]]
-- [[JapanFG/daiwa-asset-management]]
-- [[JapanFG/nikko-asset-management]]
-- [[JapanFG/sbi-asset-management]]
-- [[JapanFG/nomura-hd]]
-- [[JapanFG/mizuho-fg]]
-- [[JapanFG/mufg]]
-- [[JapanFG/smfg]]
-- [[JapanFG/daiwa-sg]]
-- [[JapanFG/dai-ichi-life]]
-- [[JapanFG/sbi-hd]]
+- [[financial-licenses/securities-license-stack]]
+- [[financial-licenses/INDEX]]
+- [[asset-managers/nomura-asset-management]]
+- [[asset-managers/asset-management-one]]
+- [[asset-managers/mufg-asset-management]]
+- [[asset-managers/smd-am]]
+- [[asset-managers/daiwa-asset-management]]
+- [[asset-managers/nikko-asset-management]]
+- [[asset-managers/sbi-asset-management]]
+- [[securities-firms/nomura-hd]]
+- [[megabanks/mizuho-fg]]
+- [[megabanks/mufg]]
+- [[megabanks/smfg]]
+- [[securities-firms/daiwa-sg]]
+- [[life-insurers/dai-ichi-life]]
+- [[megabanks/sbi-hd]]
 - [[fintech/blackrock-buidl-tokenized-mmf-overview]]
 - [[INDEX|FinWiki index]]
 

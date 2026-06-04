@@ -16,7 +16,7 @@ The institutional crypto-asset custody market is differentiated along three axes
 
 ## Wiki route
 
-This entry sits under [[exchanges/INDEX|exchanges index]]. It is the vendor-axis counterpart, synthesizing [[exchanges/jp-institutional-custody-three-pillars|Japan domestic top three]] and [[exchanges/global-institutional-custody-five-pillars|global five pillars]]. For technology deep-dives see [[exchanges/cex-matching-engine-wallet-architecture|CEX matching engine / wallet architecture]] and [[exchanges/jp-vasp-cold-storage-segregation-rules|JP VASP cold-storage segregation]]. For the regulatory boundary see [[exchanges/jp-vasp-security-audit-certification|JP VASP security audit and certification]] / [[exchanges/global-vasp-regulatory-comparison-matrix|global VASP eight-pole comparison]]. On the big-bank side, [[JapanFG/bny-mellon-japan|BNY Mellon Japan]] and [[JapanFG/state-street-japan|State Street Japan]] are anchors.
+This entry sits under [[exchanges/INDEX|exchanges index]]. It is the vendor-axis counterpart, synthesizing [[exchanges/jp-institutional-custody-three-pillars|Japan domestic top three]] and [[exchanges/global-institutional-custody-five-pillars|global five pillars]]. For technology deep-dives see [[exchanges/cex-matching-engine-wallet-architecture|CEX matching engine / wallet architecture]] and [[exchanges/jp-vasp-cold-storage-segregation-rules|JP VASP cold-storage segregation]]. For the regulatory boundary see [[exchanges/jp-vasp-security-audit-certification|JP VASP security audit and certification]] / [[exchanges/global-vasp-regulatory-comparison-matrix|global VASP eight-pole comparison]]. On the big-bank side, [[foreign-financial-institutions/bny-mellon-japan|BNY Mellon Japan]] and [[foreign-financial-institutions/state-street-japan|State Street Japan]] are anchors.
 
 ## Why this matrix matters
 
@@ -106,7 +106,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. It is the vendor-axis
 #### C1. BNY Mellon Digital Asset Custody
 - **Parent**: The Bank of New York Mellon Corporation (NYSE: BK) = **the world's largest custody bank** (AUC/A $50T+)
 - **Digital-asset custody**: 2022-10  launched Crypto Custody Platform, for US institutions
-- **Japan base**: [[JapanFG/bny-mellon-japan|BNY Mellon Trust Bank Japan]] + The Bank of New York Mellon Tokyo Branch + BNY Mellon Asset Management Japan
+- **Japan base**: [[foreign-financial-institutions/bny-mellon-japan|BNY Mellon Trust Bank Japan]] + The Bank of New York Mellon Tokyo Branch + BNY Mellon Asset Management Japan
 - **Japan digital-asset business**: not operating domestically (US BNY Mellon's crypto custody is centered on institutional Bitcoin / Ether; direct provision to Japanese institutions is limited)
 - **Customers**: US pensions / foundations / SWFs + co-investment with Fireblocks (2021-03)
 - **Strategy**: pure wholesale foreign player + a global division of labor of overseas-asset custody for GPIF and major pensions
@@ -114,10 +114,10 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. It is the vendor-axis
 #### C2. State Street Digital Asset Custody
 - **Parent**: State Street Corporation (NYSE: STT) = **the world's 2 位 custody bank** (AUC/A ~49-53 兆 dollars)
 - **Digital-asset custody**: 2021-06  established the State Street Digital division, for institutions
-- **Japan base**: [[JapanFG/state-street-japan|State Street Japan]] = State Street Trust Bank + Tokyo Branch + SSGA (manager of SPDR ETFs) + Charles River Development
+- **Japan base**: [[foreign-financial-institutions/state-street-japan|State Street Japan]] = State Street Trust Bank + Tokyo Branch + SSGA (manager of SPDR ETFs) + Charles River Development
 - **Japan digital-asset business**: not operating domestically (US State Street's crypto custody is for institutions; direct provision to Japanese institutions is limited)
 - **Customers**: GPIF / major pensions / SPDR-family ETF custody
-- **Strategy**: pure wholesale foreign player + whereas master trust ([[JapanFG/master-trust-bank|master-trust-bank]]) specializes in domestic trusts, State Street handles overseas-asset custody for GPIF and major pensions
+- **Strategy**: pure wholesale foreign player + whereas master trust ([[trust-banks/master-trust-bank|master-trust-bank]]) specializes in domestic trusts, State Street handles overseas-asset custody for GPIF and major pensions
 
 ### D. Other Qualified Custodians + domestic special custody
 
@@ -149,7 +149,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. It is the vendor-axis
 | **SLA / uptime** | undisclosed (B2B contract-based) | 99.95%+ (disclosed for institutions) | 99.99% (global financial-institution SLA) | 99.95%+ (ETF-custody SLA) | 99.95%+ | 99.95%+ | 99.95%+ | bank SLA (24/7) | bank SLA (24/7) | 99.95%+ | bitFlyer SLA |
 | **Insurance coverage** | domestic P&C insurance + SOC 2  certification | custom program via Lloyd's of London | $30M+ (Marsh brokered) | Lloyd's of London + Aon insurance | Lloyd's of London | $1B (Aon insurance, industry-largest class) | $250M Lloyd's | BNY bank insurance scheme | State Street bank insurance scheme | Lloyd's | JVCEA self-regulation + bitFlyer insurance |
 | **Regulatory tier** | no FSA registration (B2B vendor) | Jersey JFSC + UK FCA + UAE VARA + Italy OAM | US trust (Fireblocks Trust Company 2024-) + MiCA | NY DFS Trust Charter | MA Trust + NY DFS | **OCC Federal Trust Bank** (only one in US) | SD State Trust + multi-state + HK | NY DFS Trust (BNY Mellon) | MA State Trust + NY DFS (State Street) | NY DFS Trust | FSA crypto-asset exchange business |
-| **Japan license** | (B2B not needed) | unregistered (no Japan base) | unregistered (five-person base) | crypto-asset exchange business (Coinbase Japan dormant) | no base entry | no base (API only) | indirect via Mitsui & Co. MDC | [[JapanFG/bny-mellon-japan|BNY Mellon Trust Bank Japan]] + Tokyo Branch (digital-asset business not operating domestically) | [[JapanFG/state-street-japan|State Street Trust and Banking Japan]] + Tokyo Branch (digital-asset business not operating domestically) | no base | FSA crypto-asset exchange business |
+| **Japan license** | (B2B not needed) | unregistered (no Japan base) | unregistered (five-person base) | crypto-asset exchange business (Coinbase Japan dormant) | no base entry | no base (API only) | indirect via Mitsui & Co. MDC | [[foreign-financial-institutions/bny-mellon-japan|BNY Mellon Trust Bank Japan]] + Tokyo Branch (digital-asset business not operating domestically) | [[foreign-financial-institutions/state-street-japan|State Street Trust and Banking Japan]] + Tokyo Branch (digital-asset business not operating domestically) | no base | FSA crypto-asset exchange business |
 | **Billing model** | license + per-tx | monthly fee + AUM-based | Subscription | AUM + per-tx | AUM-based | AUM + per-tx | AUM + per-tx + monthly fee | bank-custody fee schedule | bank-custody fee schedule | AUM + per-tx | bitFlyer billing |
 | **AUC/AUM (approx.)** | undisclosed | undisclosed | $10T+ cumulative trading volume (550M wallets) | $200B+ | undisclosed | undisclosed | undisclosed | (parent BK = $50T total) | (parent STT = $49-53T total) | undisclosed | within bitFlyer |
 | **Country of establishment** | Japan | Jersey (British Crown Dependency) | US (R&D Israel) | US | US | US | US | US | US | US | Japan |
@@ -285,8 +285,8 @@ Characteristics: traditional custody banks of the AUC/A $50T class × digital as
 - [[exchanges/jp-custody-fireblocks-japan|Fireblocks Japan 詳細]]
 - [[exchanges/jp-vasp-cold-storage-segregation-rules|JP VASP cold-storage segregation rules]]
 - [[exchanges/jp-vasp-security-audit-certification|JP VASP security audit and certification]]
-- [[JapanFG/state-street-japan|State Street Japan]]
-- [[JapanFG/bny-mellon-japan|BNY Mellon Japan]]
+- [[foreign-financial-institutions/state-street-japan|State Street Japan]]
+- [[foreign-financial-institutions/bny-mellon-japan|BNY Mellon Japan]]
 - [[exchanges/cex-matching-engine-wallet-architecture|CEX matching engine / wallet architecture]]
 - [[exchanges/global-vasp-regulatory-comparison-matrix|global VASP eight-pole comparison]]
 - [[exchanges/global-cex-top10-comparison|global CEX top 10]]

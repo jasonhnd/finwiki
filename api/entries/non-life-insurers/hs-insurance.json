@@ -1,0 +1,81 @@
+{
+  "schema_version": "1.0",
+  "slug": "non-life-insurers/hs-insurance",
+  "source_path": "non-life-insurers/hs-insurance.md",
+  "url": "https://finwiki.zksc.io/non-life-insurers/hs-insurance",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/non-life-insurers/hs-insurance.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/non-life-insurers/hs-insurance.md",
+  "domain": "non-life-insurers",
+  "title": "HS Insurance / エイチ・エス損害保険",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "HS Insurance / エイチ・エス損害保険",
+    "aliases": [
+      "エイチ・エス損害保険",
+      "エイチ・エス損害保険株式会社",
+      "HS Insurance",
+      "H.S. Insurance"
+    ],
+    "domain": "non-life-insurers",
+    "created": "2026-05-23",
+    "last_updated": "2026-05-23",
+    "last_tended": "2026-05-23",
+    "review_by": "2026-11-23",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "non-life-insurance",
+      "travel-insurance",
+      "pet-insurance",
+      "public-source"
+    ],
+    "status": "active",
+    "sources": [
+      "FSA non-life insurer list: https://www.fsa.go.jp/menkyo/menkyoj/songai.xlsx",
+      "HS Insurance official site: https://www.hs-sonpo.co.jp/",
+      "HS Insurance company profile: https://www.hs-sonpo.co.jp/company/profile/"
+    ]
+  },
+  "summary": "Wiki route: JapanFG/INDEX -> insurance/INDEX -> non-life-insurers/hs-insurance",
+  "headings": [
+    "HS Insurance / エイチ・エス損害保険",
+    "Overview",
+    "Entity Boundary",
+    "Business Role Map",
+    "Public Context",
+    "Research Checklist",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 8,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "financial-licenses/insurance-license-and-solvency",
+      "insurance/INDEX",
+      "non-life-insurers/anicom-insurance",
+      "non-life-insurers/hs-insurance",
+      "non-life-insurers/ji-accident-fire-insurance",
+      "non-life-insurers/pet-and-family-insurance",
+      "non-life-insurers/sony-insurance"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/financial-licenses/insurance-license-and-solvency",
+      "https://finwiki.zksc.io/insurance/INDEX",
+      "https://finwiki.zksc.io/non-life-insurers/anicom-insurance",
+      "https://finwiki.zksc.io/non-life-insurers/hs-insurance",
+      "https://finwiki.zksc.io/non-life-insurers/ji-accident-fire-insurance",
+      "https://finwiki.zksc.io/non-life-insurers/pet-and-family-insurance",
+      "https://finwiki.zksc.io/non-life-insurers/sony-insurance"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2324,
+    "word_like_tokens": 376,
+    "inbound_wikilinks_count": 4,
+    "last_modified": "2026-06-04"
+  }
+}

@@ -30,8 +30,8 @@ translated_at: 2026-06-02T13:21:55.065Z
 **MUTB 49% stake 設計の核心意図**:
 
 ```
-MUTB([[JapanFG/mufg|三菱 UFJ 信託銀行]])     49.0%   ← 単独最大株主だが過半数 NG
-SMBC グループ ([[JapanFG/smfg|SMFG]])      ~15%   ← 重要 partner
+MUTB([[megabanks/mufg|三菱 UFJ 信託銀行]])     49.0%   ← 単独最大株主だが過半数 NG
+SMBC グループ ([[megabanks/smfg|SMFG]])      ~15%   ← 重要 partner
 Mizuho 信託銀行           ~15%   ← 重要 partner
 NTT Data                  ~10%   ← 技術 partner
 JPX                       ~5%    ← 取引所 partner
@@ -71,7 +71,7 @@ Datachain                 ~3%    ← 技術 partner
 | Geographic scope | 日本国内中心 → 拡大検討中 | グローバル設計だが pilot 中 |
 | Exit option | 株主としての売却可能 | 国家 commitment 解除不可 |
 
-**含義**:[[fintech/bis-project-agora-overview|Agorá]] は **公的 commitment と規制統合が強い** が **速度が遅い**。[[JapanFG/progmat|Progmat]] は **速度と柔軟性が高い** が **国際的正統性が Agorá より弱い**。両者は補完的:Agorá が国際骨格を作り、Progmat が国別実装を担う構造が長期的に成立する可能性。
+**含義**:[[fintech/bis-project-agora-overview|Agorá]] は **公的 commitment と規制統合が強い** が **速度が遅い**。[[payment-firms/progmat|Progmat]] は **速度と柔軟性が高い** が **国際的正統性が Agorá より弱い**。両者は補完的:Agorá が国際骨格を作り、Progmat が国別実装を担う構造が長期的に成立する可能性。
 
 ## 共通リスク
 

@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "slug": "payment-firms/sbi-remit",
+  "source_path": "payment-firms/sbi-remit.md",
+  "url": "https://finwiki.zksc.io/payment-firms/sbi-remit",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/payment-firms/sbi-remit.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/payment-firms/sbi-remit.md",
+  "domain": "payment-firms",
+  "title": "SBIレミット",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "SBIレミット",
+    "aliases": [
+      "SBI Remit",
+      "SBIレミット",
+      "SBIレミット株式会社"
+    ],
+    "domain": "payment-firms",
+    "created": "2026-05-21",
+    "last_updated": "2026-05-21",
+    "last_tended": "2026-05-21",
+    "review_by": "2026-11-21",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "payments",
+      "remittance",
+      "funds-transfer",
+      "SBI"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.remit.co.jp/corporate/corporate_profile/",
+      "https://www.remit.co.jp/en/corporate/compliance/",
+      "https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against Wise Payments Japan for peer / contrast context and payments index for the broader system / regulatory boundary.",
+  "headings": [
+    "SBIレミット",
+    "Wiki route",
+    "TL;DR",
+    "1. 法人・ライセンス境界",
+    "2. Business role",
+    "3. Why this standalone page matters",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 6,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "megabanks/sbi-hd",
+      "payment-firms/wise-payments-japan",
+      "payments/INDEX",
+      "payments/funds-transfer-vs-prepaid-boundary",
+      "regional-banks/sbi-shinsei-bank"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/megabanks/sbi-hd",
+      "https://finwiki.zksc.io/payment-firms/wise-payments-japan",
+      "https://finwiki.zksc.io/payments/INDEX",
+      "https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary",
+      "https://finwiki.zksc.io/regional-banks/sbi-shinsei-bank"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 1922,
+    "word_like_tokens": 300,
+    "inbound_wikilinks_count": 10,
+    "last_modified": "2026-06-04"
+  }
+}

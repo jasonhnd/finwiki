@@ -45,27 +45,27 @@ Japan's asset-backed securities market is split into three rough layers: the ver
 | Layer | Typical issuer | Vehicle | Approx volume tilt |
 |---|---|---|---|
 | JHF MBS | [[policy-finance/japan-housing-finance-agency]] | JHF Trust | Largest yen structured layer |
-| Private RMBS | Megabanks ([[JapanFG/mufg]], [[JapanFG/smfg]], [[JapanFG/mizuho-fg]]), trust banks | Trust beneficial interest | Mid-size, occasional public deals |
+| Private RMBS | Megabanks ([[megabanks/mufg]], [[megabanks/smfg]], [[megabanks/mizuho-fg]]), trust banks | Trust beneficial interest | Mid-size, occasional public deals |
 | CMBS | Real-estate sponsors, megabanks | TMK or TK-GK | Small post-2008, growing in 2020s |
-| Auto-loan ABS | [[JapanFG/toyota-finance]], [[JapanFG/toyota-financial]], Honda Finance, Nissan Credit | TK-GK | Repeat issuers, granular pools |
-| Consumer / card ABS | [[JapanFG/orico]], [[JapanFG/jaccs]], [[JapanFG/aplus]], [[JapanFG/mufg-nicos]] | TK-GK or trust | Revolving structures common |
-| Lease ABS | [[JapanFG/mitsubishi-hc-capital]], other leasing companies | Trust | Residual-value risk in lease pools |
+| Auto-loan ABS | [[card-issuers/toyota-finance]], [[leasing-firms/toyota-financial]], Honda Finance, Nissan Credit | TK-GK | Repeat issuers, granular pools |
+| Consumer / card ABS | [[card-issuers/orico]], [[card-issuers/jaccs]], [[card-issuers/aplus]], [[card-issuers/mufg-nicos]] | TK-GK or trust | Revolving structures common |
+| Lease ABS | [[leasing-firms/mitsubishi-hc-capital]], other leasing companies | Trust | Residual-value risk in lease pools |
 | Project / infra | Sponsor SPC | TMK or TK-GK | Niche, deal-by-deal |
 
 ## 2. Originator landscape
 
-- **Banks**: the megabanks ([[JapanFG/mufg]], [[JapanFG/smfg]], [[JapanFG/mizuho-fg]]) and major trust banks originate jumbo mortgage and corporate-loan collateral. See [[banking/INDEX]] for the originator side.
+- **Banks**: the megabanks ([[megabanks/mufg]], [[megabanks/smfg]], [[megabanks/mizuho-fg]]) and major trust banks originate jumbo mortgage and corporate-loan collateral. See [[banking/INDEX]] for the originator side.
 - **Auto-finance companies**: Toyota Finance, Toyota Financial Services, Honda Finance, Nissan Credit, SMBC Auto, MUFG Capital Auto Loan issue auto-loan ABS as a balance-sheet management tool.
-- **Consumer / card issuers**: Aplus, Orico, JACCS, MUFG NICOS, [[JapanFG/jcb]], [[JapanFG/credit-saison]] use card-receivable ABS as a funding tool alongside bank-line funding.
+- **Consumer / card issuers**: Aplus, Orico, JACCS, MUFG NICOS, [[card-issuers/jcb]], [[card-issuers/credit-saison]] use card-receivable ABS as a funding tool alongside bank-line funding.
 - **Public sector**: JHF is the dominant public-credit issuer; see [[policy-finance/japan-housing-finance-agency]] and [[structured-finance/jhf-mbs-mechanics]].
-- **Trust banks as trustees**: [[JapanFG/sumitomo-mitsui-trust]] and other trust banks act as trustees for trust beneficial interest structures; the trust-bank role is structural, not originator.
+- **Trust banks as trustees**: [[trust-banks/sumitomo-mitsui-trust]] and other trust banks act as trustees for trust beneficial interest structures; the trust-bank role is structural, not originator.
 
 ## 3. Dealer / arranger landscape
 
 | Role | Typical houses |
 |---|---|
-| Lead arranger | [[JapanFG/mizuho-securities]], [[JapanFG/mufg-mums]], Nomura, Daiwa SG ([[JapanFG/daiwa-sg]]), SMBC Nikko |
-| Trustee | [[JapanFG/sumitomo-mitsui-trust]], Mitsubishi UFJ Trust, Mizuho Trust |
+| Lead arranger | [[securities-firms/mizuho-securities]], [[securities-firms/mufg-mums]], Nomura, Daiwa SG ([[securities-firms/daiwa-sg]]), SMBC Nikko |
+| Trustee | [[trust-banks/sumitomo-mitsui-trust]], Mitsubishi UFJ Trust, Mizuho Trust |
 | Rating agency | JCR, R&I (see [[structured-finance/credit-rating-methodology-jcr-r-and-i]]); S&P, Moody's, Fitch for cross-border |
 | Servicer | Originator or affiliated servicer; sometimes specialized special servicer |
 
@@ -98,7 +98,7 @@ Japan's asset-backed securities market is split into three rough layers: the ver
 - Japan's structured-finance market is bifurcated: a very large public-credit engine (JHF MBS) and a smaller, more conservative private layer.
 - The JHF MBS layer drives most of the yen structured-paper supply and pricing; private deals price relative to it.
 - The post-2008 reset left Japan with one of the most conservative structuring conventions in developed markets — see [[structured-finance/japan-cmbs-issuance-structure]] for the CMBS-specific story.
-- Investor base is dominated by life insurers ([[JapanFG/daido-life]], [[JapanFG/asahi-life]], etc.), regional banks, and asset managers seeking JGB-plus yield.
+- Investor base is dominated by life insurers ([[life-insurers/daido-life]], [[life-insurers/asahi-life]], etc.), regional banks, and asset managers seeking JGB-plus yield.
 
 ## Related
 

@@ -12,7 +12,7 @@ translated_at: 2026-06-02T11:47:37.257Z
 
 ## ウィキ上の位置づけ
 
-本エントリは [[banking/INDEX|banking index]] の配下に位置し、信託銀行のカストディ運営モデルにとって直接的に load-bearing な決済インフラの詳細解説である。市場インフラ側として [[securities/japan-securities-depository-center|JASDEC entity page]] および [[securities/japan-securities-clearing-corp|JSCC clearing corp]] と;信託銀行のルーティングとして [[banking/master-trust-bank-operating-model|Master Trust Bank operating model]]、[[banking/custody-bank-operating-model|Custody Bank operating model]]、[[banking/japan-master-trust-and-custody-bank-landscape|Japan master trust and custody bank landscape]]、[[banking/trust-bank-custody-operating-comparison|trust-bank custody operating comparison]] と;マクロの配管の視点として [[securities/japan-market-infrastructure-map|Japan market infrastructure map]] と;機関の接続点として [[JapanFG/master-trust-bank|MTBJ]] および [[JapanFG/custody-bank|CBJ]] と併せて読むこと。TSE / OSE / JSCC 統合の文脈については [[securities/tokyo-stock-exchange|Tokyo Stock Exchange]] および [[securities/osaka-exchange|Osaka Exchange]] 参照。
+本エントリは [[banking/INDEX|banking index]] の配下に位置し、信託銀行のカストディ運営モデルにとって直接的に load-bearing な決済インフラの詳細解説である。市場インフラ側として [[securities/japan-securities-depository-center|JASDEC entity page]] および [[securities/japan-securities-clearing-corp|JSCC clearing corp]] と;信託銀行のルーティングとして [[banking/master-trust-bank-operating-model|Master Trust Bank operating model]]、[[banking/custody-bank-operating-model|Custody Bank operating model]]、[[banking/japan-master-trust-and-custody-bank-landscape|Japan master trust and custody bank landscape]]、[[banking/trust-bank-custody-operating-comparison|trust-bank custody operating comparison]] と;マクロの配管の視点として [[securities/japan-market-infrastructure-map|Japan market infrastructure map]] と;機関の接続点として [[trust-banks/master-trust-bank|MTBJ]] および [[trust-banks/custody-bank|CBJ]] と併せて読むこと。TSE / OSE / JSCC 統合の文脈については [[securities/tokyo-stock-exchange|Tokyo Stock Exchange]] および [[securities/osaka-exchange|Osaka Exchange]] 参照。
 
 ## 要約
 
@@ -46,12 +46,12 @@ JASDEC(証券保管振替機構 / ほふり — Japan Securities Depository Cent
 
 | 参加者の種類 | 例 |
 |---|---|
-| 信託銀行(カストディ専業) | [[JapanFG/master-trust-bank|MTBJ]], [[JapanFG/custody-bank|CBJ]] |
-| 信託銀行(フルサービス) | [[JapanFG/mitsubishi-ufj-trust-bank|MUFG Trust]], [[JapanFG/sumitomo-mitsui-trust|SMTB]], [[JapanFG/mizuho-trust-bank|Mizuho Trust]], [[JapanFG/nochu-trust-bank|Norinchukin Trust]] |
+| 信託銀行(カストディ専業) | [[trust-banks/master-trust-bank|MTBJ]], [[trust-banks/custody-bank|CBJ]] |
+| 信託銀行(フルサービス) | [[trust-banks/mitsubishi-ufj-trust-bank|MUFG Trust]], [[trust-banks/sumitomo-mitsui-trust|SMTB]], [[trust-banks/mizuho-trust-bank|Mizuho Trust]], [[trust-banks/nochu-trust-bank|Norinchukin Trust]] |
 | 証券会社 | Nomura, Daiwa, SMBC Nikko, Mizuho Securities, 地域ブローカー |
-| グローバルカストディアン(日本ユニット) | [[JapanFG/bny-mellon-japan|BNY Mellon Japan]], [[JapanFG/state-street-japan|State Street Japan]], [[JapanFG/jpmorgan-japan|JP Morgan Japan]], [[JapanFG/citigroup-japan|Citi Japan]] |
+| グローバルカストディアン(日本ユニット) | [[foreign-financial-institutions/bny-mellon-japan|BNY Mellon Japan]], [[foreign-financial-institutions/state-street-japan|State Street Japan]], [[foreign-financial-institutions/jpmorgan-japan|JP Morgan Japan]], [[foreign-financial-institutions/citigroup-japan|Citi Japan]] |
 | 銀行(一般カストディ / 名義書換) | メガバンク、地方銀行(限定的なカストディ委託) |
-| ICSD / クロスボーダーインフラ | [[JapanFG/euroclear-bank-japan|Euroclear Japan]], [[JapanFG/clearstream-banking-japan|Clearstream Japan]] (リンク経路) |
+| ICSD / クロスボーダーインフラ | [[foreign-financial-institutions/euroclear-bank-japan|Euroclear Japan]], [[foreign-financial-institutions/clearstream-banking-japan|Clearstream Japan]] (リンク経路) |
 
 ### 振替システム
 
@@ -220,7 +220,7 @@ JP investor
 
 ### トークン化証券の未解決の問い
 
-[[JapanFG/progmat|Progmat]] および類似のプラットフォームを通じて発行されるトークン化された 信託受益権 証券は、並行的な DLT 台帳上で動く。それらと JASDEC の振替レールとの統合はなお設計中である:
+[[payment-firms/progmat|Progmat]] および類似のプラットフォームを通じて発行されるトークン化された 信託受益権 証券は、並行的な DLT 台帳上で動く。それらと JASDEC の振替レールとの統合はなお設計中である:
 
 | 設計オプション | トレードオフ |
 |---|---|
@@ -247,18 +247,18 @@ JP investor
 - [[securities/osaka-exchange]]
 - [[securities/osaka-digital-exchange]]
 - [[securities/japan-security-token-secondary-market-route]]
-- [[JapanFG/master-trust-bank]]
-- [[JapanFG/custody-bank]]
-- [[JapanFG/mitsubishi-ufj-trust-bank]]
-- [[JapanFG/sumitomo-mitsui-trust]]
-- [[JapanFG/mizuho-trust-bank]]
-- [[JapanFG/bny-mellon-japan]]
-- [[JapanFG/state-street-japan]]
-- [[JapanFG/jpmorgan-japan]]
-- [[JapanFG/citigroup-japan]]
-- [[JapanFG/euroclear-bank-japan]]
-- [[JapanFG/clearstream-banking-japan]]
-- [[JapanFG/progmat]]
+- [[trust-banks/master-trust-bank]]
+- [[trust-banks/custody-bank]]
+- [[trust-banks/mitsubishi-ufj-trust-bank]]
+- [[trust-banks/sumitomo-mitsui-trust]]
+- [[trust-banks/mizuho-trust-bank]]
+- [[foreign-financial-institutions/bny-mellon-japan]]
+- [[foreign-financial-institutions/state-street-japan]]
+- [[foreign-financial-institutions/jpmorgan-japan]]
+- [[foreign-financial-institutions/citigroup-japan]]
+- [[foreign-financial-institutions/euroclear-bank-japan]]
+- [[foreign-financial-institutions/clearstream-banking-japan]]
+- [[payment-firms/progmat]]
 - [[finance/japan-listed-financial-groups-investable-universe]]
 
 ## 出典

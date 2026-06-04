@@ -44,7 +44,7 @@ MyNa Wallet 模型的结构:
 
 ## Applicable When
 
-- 设计日本零售 SC 的差异化方案时（My Number 联动等、考虑与 [[JapanFG/jpyc|JPYC]] 对接的场景）
+- 设计日本零售 SC 的差异化方案时（My Number 联动等、考虑与 [[payment-firms/jpyc|JPYC]] 对接的场景）
 - 在“USDC vs 国产 SC”的讨论中论述日本的结构性优势时 → 拥有 My Number 的日本，从一开始就能搭建 KYC 基础 SC，是一个“机会”
 - 设计银行 BaaS × Wallet 联动结构时，可与 [[exchanges/jp-cex-deposit-token-stablecoin-integration|JP CEX × 預金トークン/SC 統合]] 组合，共享 KYC 层
 - 作为 SC 发行体设计 KYC 层时

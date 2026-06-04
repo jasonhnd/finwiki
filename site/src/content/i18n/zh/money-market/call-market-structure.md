@@ -43,10 +43,10 @@ translated_at: 2026-05-30T14:13:23.424Z
 
 ## JapanFG 相关性
 
-- [[JapanFG/tokyo-tanshi]], [[JapanFG/central-tanshi]], 和 [[JapanFG/ueda-yagi-tanshi]] 是直接的短资公司路线。
-- [[JapanFG/mufg]], [[JapanFG/smfg]], 和 [[JapanFG/mizuho-fg]] 受短期利率传导、准备金余额和批发融资的影响。
-- [[JapanFG/mizuho-securities]], [[JapanFG/mufg-mums]] 和其他证券公司受回购、JGB 抵押品和交易商资产负债表的影响。
-- [[JapanFG/boj-monetary-policy]] 设定政策框架;本页面解释市场表面。
+- [[financial-regulators/tokyo-tanshi]], [[financial-regulators/central-tanshi]], 和 [[financial-regulators/ueda-yagi-tanshi]] 是直接的短资公司路线。
+- [[megabanks/mufg]], [[megabanks/smfg]], 和 [[megabanks/mizuho-fg]] 受短期利率传导、准备金余额和批发融资的影响。
+- [[securities-firms/mizuho-securities]], [[securities-firms/mufg-mums]] 和其他证券公司受回购、JGB 抵押品和交易商资产负债表的影响。
+- [[financial-regulators/boj-monetary-policy]] 设定政策框架;本页面解释市场表面。
 
 ## 边界情况
 
@@ -59,10 +59,10 @@ translated_at: 2026-05-30T14:13:23.424Z
 - [[money-market/INDEX|money-market INDEX]]
 - [[money-market/japan-money-market]]
 - [[money-market/boj-open-market-operations]]
-- [[JapanFG/boj-monetary-policy]]
-- [[JapanFG/tokyo-tanshi]]
-- [[JapanFG/central-tanshi]]
-- [[JapanFG/ueda-yagi-tanshi]]
+- [[financial-regulators/boj-monetary-policy]]
+- [[financial-regulators/tokyo-tanshi]]
+- [[financial-regulators/central-tanshi]]
+- [[financial-regulators/ueda-yagi-tanshi]]
 - [[INDEX|FinWiki index]]
 
 ## 来源

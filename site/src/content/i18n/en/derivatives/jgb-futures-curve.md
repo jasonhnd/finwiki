@@ -161,10 +161,10 @@ For analysis, the JGB futures market's normalization is a leading indicator of b
 - [[securities/japan-securities-clearing-corp]]
 - [[banking/INDEX]]
 - [[finance/japan-corporate-fx-and-rate-hedge-policy]]
-- [[JapanFG/mufg-bank]]
-- [[JapanFG/mizuho-bank]]
-- [[JapanFG/sumitomo-mitsui-banking-corp]]
-- [[JapanFG/japan-securities-finance]]
+- [[megabanks/mufg-bank]]
+- [[megabanks/mizuho-bank]]
+- [[megabanks/sumitomo-mitsui-banking-corp]]
+- [[financial-regulators/japan-securities-finance]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

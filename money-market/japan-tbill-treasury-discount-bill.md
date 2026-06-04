@@ -109,9 +109,9 @@ After the BoJ's March 2024 regime change ending negative rates, TDB yields turne
 
 ## JapanFG Relevance
 
-- Megabanks [[JapanFG/mufg]], [[JapanFG/smfg]], [[JapanFG/mizuho-fg]] hold TDBs for HQLA, collateral, and ALM.
-- Securities firms [[JapanFG/mizuho-securities]], [[JapanFG/mufg-mums]], [[JapanFG/nomura-hd]], and [[JapanFG/daiwa-sg]] are primary dealers and run TDB market-making.
-- [[JapanFG/tokyo-tanshi]], [[JapanFG/central-tanshi]], and [[JapanFG/ueda-yagi-tanshi]] participate in adjacent short-money-market intermediation.
+- Megabanks [[megabanks/mufg]], [[megabanks/smfg]], [[megabanks/mizuho-fg]] hold TDBs for HQLA, collateral, and ALM.
+- Securities firms [[securities-firms/mizuho-securities]], [[securities-firms/mufg-mums]], [[securities-firms/nomura-hd]], and [[securities-firms/daiwa-sg]] are primary dealers and run TDB market-making.
+- [[financial-regulators/tokyo-tanshi]], [[financial-regulators/central-tanshi]], and [[financial-regulators/ueda-yagi-tanshi]] participate in adjacent short-money-market intermediation.
 
 ## Boundary Cases
 
@@ -130,11 +130,11 @@ After the BoJ's March 2024 regime change ending negative rates, TDB yields turne
 - [[money-market/japan-ncd-negotiable-cd-market]]
 - [[money-market/japan-mmf-money-market-mutual-fund]]
 - [[money-market/boj-post-2024-floor-system-complementary-deposit-facility]]
-- [[JapanFG/boj-monetary-policy]]
-- [[JapanFG/local-bond-market]]
-- [[JapanFG/tokyo-tanshi]]
-- [[JapanFG/central-tanshi]]
-- [[JapanFG/ueda-yagi-tanshi]]
+- [[financial-regulators/boj-monetary-policy]]
+- [[financial-regulators/local-bond-market]]
+- [[financial-regulators/tokyo-tanshi]]
+- [[financial-regulators/central-tanshi]]
+- [[financial-regulators/ueda-yagi-tanshi]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

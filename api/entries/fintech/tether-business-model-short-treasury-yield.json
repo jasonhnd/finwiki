@@ -46,33 +46,33 @@
     "wikilinks_count": 9,
     "wikilinks": [
       "INDEX",
-      "JapanFG/jpyc",
       "fintech/INDEX",
       "fintech/circular-reserve-asset-flywheel-overview",
       "fintech/institutional-stablecoin-deposit-token-thesis",
       "fintech/japan-financial-regulation",
       "fintech/japan-stablecoin-regulatory-landscape",
       "fintech/onchain-finance-vs-crypto-bifurcation",
-      "fintech/stablecoin-revenue-split-economics"
+      "fintech/stablecoin-revenue-split-economics",
+      "payment-firms/jpyc"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/jpyc",
       "https://finwiki.zksc.io/fintech/INDEX",
       "https://finwiki.zksc.io/fintech/circular-reserve-asset-flywheel-overview",
       "https://finwiki.zksc.io/fintech/institutional-stablecoin-deposit-token-thesis",
       "https://finwiki.zksc.io/fintech/japan-financial-regulation",
       "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
       "https://finwiki.zksc.io/fintech/onchain-finance-vs-crypto-bifurcation",
-      "https://finwiki.zksc.io/fintech/stablecoin-revenue-split-economics"
+      "https://finwiki.zksc.io/fintech/stablecoin-revenue-split-economics",
+      "https://finwiki.zksc.io/payment-firms/jpyc"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2383,
-    "word_like_tokens": 360,
+    "nonspace_chars": 2389,
+    "word_like_tokens": 361,
     "inbound_wikilinks_count": 21,
-    "last_modified": "2026-05-24"
+    "last_modified": "2026-06-04"
   }
 }

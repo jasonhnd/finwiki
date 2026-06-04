@@ -16,7 +16,7 @@ translated_at: 2026-05-31T06:16:15.745Z
 
 ## Wiki route
 
-This entry sits under [[fintech/INDEX|fintech index]]. Read it alongside [[fintech/japan-stablecoin-regulatory-landscape|Japan stablecoin regulatory landscape]] for the regulatory frame, [[fintech/japan-epi-three-types-overview|EPI three-types overview]] for taxonomy, and [[fintech/japan-epi-four-camps-comparison|EPI four-camps comparison]] for the competitive landscape. For key issuers and distributors, see [[JapanFG/jpyc|JPYC Co., Ltd.]], [[JapanFG/progmat|Progmat Inc.]], and [[exchanges/jp-exchange-sbi-vc-trade|SBI VC Trade]].
+This entry sits under [[fintech/INDEX|fintech index]]. Read it alongside [[fintech/japan-stablecoin-regulatory-landscape|Japan stablecoin regulatory landscape]] for the regulatory frame, [[fintech/japan-epi-three-types-overview|EPI three-types overview]] for taxonomy, and [[fintech/japan-epi-four-camps-comparison|EPI four-camps comparison]] for the competitive landscape. For key issuers and distributors, see [[payment-firms/jpyc|JPYC Co., Ltd.]], [[payment-firms/progmat|Progmat Inc.]], and [[exchanges/jp-exchange-sbi-vc-trade|SBI VC Trade]].
 
 ## 2026 Key event timeline
 
@@ -57,7 +57,7 @@ JPYC is a typical **funds-transfer-type EPI** under the revised Payment Services
 
 ## Progmat USD launch (trust-type USD stablecoin)
 
-**Positioning**: Progmat (see [[JapanFG/progmat|Progmat Inc.]]) is a digital-asset platform backed by megabank trust banks (MUTB 49% + SMBC 15% + Mizuho 15%) plus NTT Data and JPX. The issuer is the trust bank; Progmat is the platform provider.
+**Positioning**: Progmat (see [[payment-firms/progmat|Progmat Inc.]]) is a digital-asset platform backed by megabank trust banks (MUTB 49% + SMBC 15% + Mizuho 15%) plus NTT Data and JPX. The issuer is the trust bank; Progmat is the platform provider.
 
 **Progmat USD design concept** (based on 2026-Q1 announcements):
 
@@ -170,8 +170,8 @@ JPYC is a typical **funds-transfer-type EPI** under the revised Payment Services
 - [[fintech/jp-trust-type-sc-architecture|trust-type stablecoin architecture]]
 - [[fintech/japan-ecisb-license|Japan ECISB license]]
 - [[fintech/stablecoin-channel-japan-sbi-jpyc-ring|SBI × JPYC ring]]
-- [[JapanFG/jpyc|JPYC Co., Ltd.]]
-- [[JapanFG/progmat|Progmat Inc.]]
+- [[payment-firms/jpyc|JPYC Co., Ltd.]]
+- [[payment-firms/progmat|Progmat Inc.]]
 - [[exchanges/jp-exchange-sbi-vc-trade|SBI VC Trade]]
 - [[fintech/japan-financial-regulation|Japan financial regulation: banking, securities, payment, and licensing boundary]]
 - [[fintech/eu-mica-implementation-status-2026|EU MiCA implementation status 2026]]

@@ -64,12 +64,6 @@
     "wikilinks": [
       "INDEX",
       "JapanFG/INDEX",
-      "JapanFG/dai-ichi-life",
-      "JapanFG/mizuho-fg",
-      "JapanFG/mufg",
-      "JapanFG/nomura-hd",
-      "JapanFG/smfg",
-      "JapanFG/sompo",
       "finance/INDEX",
       "finance/japan-acquisition-finance",
       "finance/japan-activist-investor-playbook",
@@ -77,18 +71,18 @@
       "finance/japan-large-shareholding-disclosure",
       "finance/japan-shareholder-proposal-and-agm-voting-route",
       "finance/japan-tender-offer-process",
+      "life-insurers/dai-ichi-life",
+      "megabanks/mizuho-fg",
+      "megabanks/mufg",
+      "megabanks/smfg",
+      "non-life-insurers/sompo",
+      "securities-firms/nomura-hd",
       "securities/japan-market-infrastructure-map",
       "securities/tokyo-stock-exchange"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
       "https://finwiki.zksc.io/JapanFG/INDEX",
-      "https://finwiki.zksc.io/JapanFG/dai-ichi-life",
-      "https://finwiki.zksc.io/JapanFG/mizuho-fg",
-      "https://finwiki.zksc.io/JapanFG/mufg",
-      "https://finwiki.zksc.io/JapanFG/nomura-hd",
-      "https://finwiki.zksc.io/JapanFG/smfg",
-      "https://finwiki.zksc.io/JapanFG/sompo",
       "https://finwiki.zksc.io/finance/INDEX",
       "https://finwiki.zksc.io/finance/japan-acquisition-finance",
       "https://finwiki.zksc.io/finance/japan-activist-investor-playbook",
@@ -96,6 +90,12 @@
       "https://finwiki.zksc.io/finance/japan-large-shareholding-disclosure",
       "https://finwiki.zksc.io/finance/japan-shareholder-proposal-and-agm-voting-route",
       "https://finwiki.zksc.io/finance/japan-tender-offer-process",
+      "https://finwiki.zksc.io/life-insurers/dai-ichi-life",
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/smfg",
+      "https://finwiki.zksc.io/non-life-insurers/sompo",
+      "https://finwiki.zksc.io/securities-firms/nomura-hd",
       "https://finwiki.zksc.io/securities/japan-market-infrastructure-map",
       "https://finwiki.zksc.io/securities/tokyo-stock-exchange"
     ],
@@ -107,9 +107,9 @@
     ]
   },
   "metrics": {
-    "nonspace_chars": 23201,
-    "word_like_tokens": 3668,
-    "inbound_wikilinks_count": 58,
-    "last_modified": "2026-05-24"
+    "nonspace_chars": 23263,
+    "word_like_tokens": 3676,
+    "inbound_wikilinks_count": 61,
+    "last_modified": "2026-06-04"
   }
 }

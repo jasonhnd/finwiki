@@ -25,18 +25,18 @@ sources:
 
 ## Overview
 
-"Japan life insurance big four" is a market shorthand, not a formal FSA category. It usually refers to [[JapanFG/nippon-life|Nippon Life]], [[JapanFG/dai-ichi-life|Dai-ichi Life]], [[JapanFG/meiji-yasuda|Meiji Yasuda]], and [[JapanFG/sumitomo-life|Sumitomo Life]]. Public comparison fields include legal form, channel architecture, product mix, overseas expansion, capital disclosure, and policyholder / shareholder governance.
+"Japan life insurance big four" is a market shorthand, not a formal FSA category. It usually refers to [[life-insurers/nippon-life|Nippon Life]], [[life-insurers/dai-ichi-life|Dai-ichi Life]], [[life-insurers/meiji-yasuda|Meiji Yasuda]], and [[life-insurers/sumitomo-life|Sumitomo Life]]. Public comparison fields include legal form, channel architecture, product mix, overseas expansion, capital disclosure, and policyholder / shareholder governance.
 
-This page sits under [[insurance/INDEX|insurance domain]] and uses [[JapanFG/INDEX|JapanFG]] for company pages. Read it with [[insurance/life-insurance-channel-mix|life-insurance channel mix]], [[insurance/mutual-vs-stock-life-insurer|mutual vs stock life insurer]], [[insurance/esr-economic-value-solvency|ESR]], [[JapanFG/legal-financial-licenses/insurance-license-and-solvency|insurance license and solvency route]], and [[insurance/internet-life-insurance-business-model|internet life insurance business model]].
+This page sits under [[insurance/INDEX|insurance domain]] and uses [[JapanFG/INDEX|JapanFG]] for company pages. Read it with [[insurance/life-insurance-channel-mix|life-insurance channel mix]], [[insurance/mutual-vs-stock-life-insurer|mutual vs stock life insurer]], [[insurance/esr-economic-value-solvency|ESR]], [[financial-licenses/insurance-license-and-solvency|insurance license and solvency route]], and [[insurance/internet-life-insurance-business-model|internet life insurance business model]].
 
 ## Comparison Snapshot
 
 | Insurer | Form / group structure | Public comparison fields | Related contrast |
 |---|---|---|---|
-| [[JapanFG/nippon-life|Nippon Life]] | Mutual-company core with broad group businesses | Scale, agency force, corporate / group insurance, asset management, overseas expansion | Mutual-company governance |
-| [[JapanFG/dai-ichi-life|Dai-ichi Life]] | Stock-company / listed holding-company reference case | Shareholder disclosure, overseas portfolio, capital policy, digital / group strategy | Listed insurer governance |
-| [[JapanFG/meiji-yasuda|Meiji Yasuda]] | Mutual-company core | Domestic protection, agency / corporate channels, mutual governance | Mutual-company governance |
-| [[JapanFG/sumitomo-life|Sumitomo Life]] | Mutual-company core | Domestic sales-force franchise, product reform, wellness / health adjacency, overseas investment | Mutual-company governance |
+| [[life-insurers/nippon-life|Nippon Life]] | Mutual-company core with broad group businesses | Scale, agency force, corporate / group insurance, asset management, overseas expansion | Mutual-company governance |
+| [[life-insurers/dai-ichi-life|Dai-ichi Life]] | Stock-company / listed holding-company reference case | Shareholder disclosure, overseas portfolio, capital policy, digital / group strategy | Listed insurer governance |
+| [[life-insurers/meiji-yasuda|Meiji Yasuda]] | Mutual-company core | Domestic protection, agency / corporate channels, mutual governance | Mutual-company governance |
+| [[life-insurers/sumitomo-life|Sumitomo Life]] | Mutual-company core | Domestic sales-force franchise, product reform, wellness / health adjacency, overseas investment | Mutual-company governance |
 
 ## Legal Form
 
@@ -52,7 +52,7 @@ The legal-form field is recorded separately from solvency, channel, product, and
 | Corporate / group insurance | Important for workplace, group, and employee-benefit routes | Separate group-protection relationships from individual retail sales. |
 | Bancassurance / financial institutions | Important for savings, annuity, and single-premium products | Check partner banks and suitability / sales-practice controls. |
 | Agencies / independent agents | Complements tied channels and can diversify acquisition | [[insurance/insurance-agency-and-brokerage-japan|Agency and brokerage]] legal / channel category. |
-| Online / direct | Contrast route to traditional face-to-face channels | [[JapanFG/lifenet|Lifenet]] and [[insurance/internet-life-insurance-business-model|internet life model]]. |
+| Online / direct | Contrast route to traditional face-to-face channels | [[life-insurers/lifenet|Lifenet]] and [[insurance/internet-life-insurance-business-model|internet life model]]. |
 
 Products sold through sales forces, banks, online channels, and corporate routes disclose different persistency, acquisition-cost, claim, and interest-rate sensitivity profiles. Company channel disclosure can be read together with [[insurance/esr-economic-value-solvency|ESR]] and solvency disclosures.
 
@@ -73,19 +73,19 @@ Use [[insurance/economic-value-based-solvency|economic-value solvency regulation
 
 ### Nippon Life
 
-[[JapanFG/nippon-life|Nippon Life]] is a mutual-company life insurer with large-scale domestic life insurance, agency force, corporate / group insurance, asset management, overseas insurance, and adjacent financial-services disclosures.
+[[life-insurers/nippon-life|Nippon Life]] is a mutual-company life insurer with large-scale domestic life insurance, agency force, corporate / group insurance, asset management, overseas insurance, and adjacent financial-services disclosures.
 
 ### Dai-ichi Life
 
-[[JapanFG/dai-ichi-life|Dai-ichi Life]] is the listed-group reference case. Public materials include capital allocation, market valuation, overseas portfolio, shareholder communication, and policyholder-business disclosures. Name and group-structure details are date-specific.
+[[life-insurers/dai-ichi-life|Dai-ichi Life]] is the listed-group reference case. Public materials include capital allocation, market valuation, overseas portfolio, shareholder communication, and policyholder-business disclosures. Name and group-structure details are date-specific.
 
 ### Meiji Yasuda
 
-[[JapanFG/meiji-yasuda|Meiji Yasuda]] is a mutual-company life insurer with domestic relationship-based life insurance, agency and corporate channels, long-term protection, and mutual-company surplus management disclosures.
+[[life-insurers/meiji-yasuda|Meiji Yasuda]] is a mutual-company life insurer with domestic relationship-based life insurance, agency and corporate channels, long-term protection, and mutual-company surplus management disclosures.
 
 ### Sumitomo Life
 
-[[JapanFG/sumitomo-life|Sumitomo Life]] is a mutual-company life insurer with sales-force renewal, health / wellness-linked product strategies, digital support, and overseas portfolio disclosures.
+[[life-insurers/sumitomo-life|Sumitomo Life]] is a mutual-company life insurer with sales-force renewal, health / wellness-linked product strategies, digital support, and overseas portfolio disclosures.
 
 ## Public Data Fields
 
@@ -104,11 +104,11 @@ Use [[insurance/economic-value-based-solvency|economic-value solvency regulation
 - [[insurance/life-insurance-channel-mix]]
 - [[insurance/mutual-vs-stock-life-insurer]]
 - [[insurance/esr-economic-value-solvency]]
-- [[JapanFG/legal-financial-licenses/insurance-license-and-solvency]]
-- [[JapanFG/nippon-life]]
-- [[JapanFG/dai-ichi-life]]
-- [[JapanFG/meiji-yasuda]]
-- [[JapanFG/sumitomo-life]]
+- [[financial-licenses/insurance-license-and-solvency]]
+- [[life-insurers/nippon-life]]
+- [[life-insurers/dai-ichi-life]]
+- [[life-insurers/meiji-yasuda]]
+- [[life-insurers/sumitomo-life]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

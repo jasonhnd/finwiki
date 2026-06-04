@@ -13,7 +13,7 @@ translated_at: 2026-06-02T16:33:58.476Z
 
 日本の口座間決済は、古典的な銀行振込、ウォレット残高、カード加盟店契約、コード決済の間に位置する。重要な管理上の問いは、**価値が預金口座から直接移動しているのか、資金移動 / 前払残高を経由しているのか、加盟店契約 / カードネットワーク層を経由しているのか**である。
 
-このページは [[payments/INDEX|payments domain]]、[[payments/funds-transfer-vs-prepaid-boundary|funds transfer vs prepaid boundary]]、[[payments/funds-transfer-service-providers-japan-index|funds-transfer registry]]、[[payments/japan-code-payment-competitive-map|code-payment competitive map]]、[[banking/quick-deposit-four-methods|quick deposit methods]]、[[JapanFG/legal-financial-licenses/INDEX|JapanFG legal / financial licenses]] とあわせて使用する。
+このページは [[payments/INDEX|payments domain]]、[[payments/funds-transfer-vs-prepaid-boundary|funds transfer vs prepaid boundary]]、[[payments/funds-transfer-service-providers-japan-index|funds-transfer registry]]、[[payments/japan-code-payment-competitive-map|code-payment competitive map]]、[[banking/quick-deposit-four-methods|quick deposit methods]]、[[financial-licenses/INDEX|JapanFG legal / financial licenses]] とあわせて使用する。
 
 ## レールマップ
 
@@ -32,8 +32,8 @@ Zengin-Net の公式説明によれば、Cotra は 2020 少額決済インフラ
 
 FinWiki では、これにより Cotra は次の間をつなぐ有用な橋渡しになる。
 
-- [[JapanFG/mufg-bank|MUFG Bank]]、[[JapanFG/sumitomo-mitsui-banking-corp|SMBC]]、[[JapanFG/mizuho-bank|Mizuho Bank]]、[[JapanFG/resona-bank|Resona Bank]]、その他の預金取扱銀行；
-- [[JapanFG/ssnb|SBI Sumishin Net Bank]] や [[banking/minna-bank-baas-model|Minna Bank BaaS]] などのアプリ銀行・デジタル銀行ルート；
+- [[megabanks/mufg-bank|MUFG Bank]]、[[megabanks/sumitomo-mitsui-banking-corp|SMBC]]、[[megabanks/mizuho-bank|Mizuho Bank]]、[[megabanks/resona-bank|Resona Bank]]、その他の預金取扱銀行；
+- [[regional-banks/ssnb|SBI Sumishin Net Bank]] や [[banking/minna-bank-baas-model|Minna Bank BaaS]] などのアプリ銀行・デジタル銀行ルート；
 - [[payments/funds-transfer-service-providers-japan-index|Japan funds-transfer service providers registry]] を通じて接続する資金移動業者；
 - [[payments/japan-code-payment-competitive-map|Japan code-payment competitive map]] に含まれるユーザー向けウォレットおよびコード決済ルート。
 
@@ -56,14 +56,14 @@ JEPPO は、自らを口座直結決済インフラを通じて J-Debit と Bank
 | 銀行口座からの QR 加盟店決済 | 口座から直接引き落とされるのか、先にウォレット残高へチャージされるのか。 | Bank Pay / 口座直結経路。 |
 | 銀行チャージ後のウォレット決済 | 加盟店決済前に価値がウォレットに保存されるのか。 | [[payments/funds-transfer-vs-prepaid-boundary|funds-transfer vs prepaid boundary]]。 |
 | PayPay / d払い / au PAY / Rakuten Pay による加盟店 QR 決済 | これはコード決済、カード加盟店契約、前払、資金移動のどの経済性か。 | [[payments/japan-code-payment-competitive-map|code-payment competitive map]] と [[payments/psp-merchant-settlement-risk|PSP settlement risk]]。 |
-| 証券 / 暗号資産口座へのクイック入金 | レールは銀行振込、口座引落、API 指図、決済代行のどれか。 | [[banking/quick-deposit-four-methods|quick deposit methods]] と [[JapanFG/legal-financial-licenses/INDEX|license stack]]。 |
+| 証券 / 暗号資産口座へのクイック入金 | レールは銀行振込、口座引落、API 指図、決済代行のどれか。 | [[banking/quick-deposit-four-methods|quick deposit methods]] と [[financial-licenses/INDEX|license stack]]。 |
 
 ## JapanFG での関連性
 
 - メガバンクと中核銀行は中心的である。口座間決済は最終的に預金口座接続と銀行清算 / 決済ルールを必要とするため。
-- [[JapanFG/recruit-mufg-business|Recruit MUFG Business]] や COIN+ 型モデルは、口座接続レールの上で加盟店・消費者の決済頻度を作ろうとした試みとして記録する。
-- [[JapanFG/paypay|PayPay]]、[[JapanFG/merpay|Merpay]]、[[JapanFG/au-payment|au PAY]]、[[JapanFG/rakuten-edy|Rakuten Edy]] は引き続きウォレット / コード決済のアンカーだが、それらの銀行連携フローは純粋な口座間決済とは分けて扱う。
-- [[JapanFG/sbi-shinsei-bank|SBI Shinsei Bank]]、[[JapanFG/fukuoka-fg|Fukuoka FG]]、地域銀行アプリのルートは重要である。Cotra と Bank Pay は銀行アプリを日常的な決済面に変え得るため。
+- [[payment-firms/recruit-mufg-business|Recruit MUFG Business]] や COIN+ 型モデルは、口座接続レールの上で加盟店・消費者の決済頻度を作ろうとした試みとして記録する。
+- [[payment-firms/paypay|PayPay]]、[[payment-firms/merpay|Merpay]]、[[payment-firms/au-payment|au PAY]]、[[payment-firms/rakuten-edy|Rakuten Edy]] は引き続きウォレット / コード決済のアンカーだが、それらの銀行連携フローは純粋な口座間決済とは分けて扱う。
+- [[regional-banks/sbi-shinsei-bank|SBI Shinsei Bank]]、[[regional-banks/fukuoka-fg|Fukuoka FG]]、地域銀行アプリのルートは重要である。Cotra と Bank Pay は銀行アプリを日常的な決済面に変え得るため。
 
 ## リスクと注意点
 
@@ -83,7 +83,7 @@ JEPPO は、自らを口座直結決済インフラを通じて J-Debit と Bank
 3. 運営者を確認する: 銀行、資金移動サービス提供者、前払式発行者、PSP、コード決済プラットフォーム。
 4. Cotra については、現在の参加アプリ / 参加機関ページを確認する。
 5. Bank Pay については、現在の参加金融機関と加盟店受入を確認する。
-6. ライセンス主張を行う前に、会社ページを [[payments/funds-transfer-vs-prepaid-boundary|funds transfer vs prepaid boundary]] と [[JapanFG/legal-financial-licenses/INDEX|legal / financial licenses]] へ戻してリンクする。
+6. ライセンス主張を行う前に、会社ページを [[payments/funds-transfer-vs-prepaid-boundary|funds transfer vs prepaid boundary]] と [[financial-licenses/INDEX|legal / financial licenses]] へ戻してリンクする。
 
 ## 関連項目
 
@@ -94,13 +94,13 @@ JEPPO は、自らを口座直結決済インフラを通じて J-Debit と Bank
 - [[payments/psp-merchant-settlement-risk]]
 - [[banking/quick-deposit-four-methods]]
 - [[banking/baas-japan-landscape]]
-- [[JapanFG/legal-financial-licenses/INDEX]]
-- [[JapanFG/recruit-mufg-business]]
-- [[JapanFG/paypay]]
-- [[JapanFG/merpay]]
-- [[JapanFG/mufg-bank]]
-- [[JapanFG/sumitomo-mitsui-banking-corp]]
-- [[JapanFG/mizuho-bank]]
+- [[financial-licenses/INDEX]]
+- [[payment-firms/recruit-mufg-business]]
+- [[payment-firms/paypay]]
+- [[payment-firms/merpay]]
+- [[megabanks/mufg-bank]]
+- [[megabanks/sumitomo-mitsui-banking-corp]]
+- [[megabanks/mizuho-bank]]
 - [[INDEX|FinWiki index]]
 
 ## 出典

@@ -26,7 +26,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[business/INDEX|business INDEX]] as a public-company strategic case combining an unusual **business model** (an ATM-fee bank) with a **2025 deconsolidation** event. Read the business-model half against [[business/toyota-financial-services-captive-finance-case|Toyota Financial Services captive-finance case]] — both are non-deposit-led finance models, but a captive funds itself with ABS to sell cars, whereas Seven Bank earns interbank fees off a store ATM network. Read the deconsolidation half against [[business/sony-fg-partial-spinoff-case|Sony FG partial spinoff case]] for the contrasting *tax-deferred spinoff* route to separating a finance arm, and against [[business/rakuten-group-mobile-finance-bundling-case|Rakuten Group mobile-finance bundling case]] for another conglomerate part-selling finance subsidiaries under shareholder pressure. For entity / sector profiles see [[JapanFG/seven-bank|Seven Bank]], [[JapanFG/seven-card-service|Seven Card Service]], [[JapanFG/seven-payment-service|Seven Payment Service]], the parent [[retail/seven-and-i-hd|Seven & i Holdings]], and the deeper [[retail/seven-i-holdings-finance-deep-dive|Seven & i finance deep dive]]. Pair with [[payments/nanaco-prepaid-seven-i|nanaco prepaid]] and the [[retail/INDEX|retail INDEX]].
+This entry sits under [[business/INDEX|business INDEX]] as a public-company strategic case combining an unusual **business model** (an ATM-fee bank) with a **2025 deconsolidation** event. Read the business-model half against [[business/toyota-financial-services-captive-finance-case|Toyota Financial Services captive-finance case]] — both are non-deposit-led finance models, but a captive funds itself with ABS to sell cars, whereas Seven Bank earns interbank fees off a store ATM network. Read the deconsolidation half against [[business/sony-fg-partial-spinoff-case|Sony FG partial spinoff case]] for the contrasting *tax-deferred spinoff* route to separating a finance arm, and against [[business/rakuten-group-mobile-finance-bundling-case|Rakuten Group mobile-finance bundling case]] for another conglomerate part-selling finance subsidiaries under shareholder pressure. For entity / sector profiles see [[regional-banks/seven-bank|Seven Bank]], [[card-issuers/seven-card-service|Seven Card Service]], [[payment-firms/seven-payment-service|Seven Payment Service]], the parent [[retail/seven-and-i-hd|Seven & i Holdings]], and the deeper [[retail/seven-i-holdings-finance-deep-dive|Seven & i finance deep dive]]. Pair with [[payments/nanaco-prepaid-seven-i|nanaco prepaid]] and the [[retail/INDEX|retail INDEX]].
 
 ## TL;DR
 
@@ -53,7 +53,7 @@ A normal bank earns net-interest income on a loan book funded by deposits. Seven
 | Store footfall monetisation | Convert convenience-store foot traffic into a recurring fee stream from other banks' customers |
 | Cash-access utility | Give shoppers 24/7 cash access, reinforcing the store as a daily-life hub |
 | Capital-light economics | A fee-on-a-network model avoids the credit-risk balance sheet of conventional banking |
-| Ecosystem glue | Sits alongside [[payments/nanaco-prepaid-seven-i|nanaco]] prepaid, [[JapanFG/seven-card-service|Seven Card]], and [[JapanFG/seven-payment-service|Seven Payment Service]] in the group's retail-finance stack |
+| Ecosystem glue | Sits alongside [[payments/nanaco-prepaid-seven-i|nanaco]] prepaid, [[card-issuers/seven-card-service|Seven Card]], and [[payment-firms/seven-payment-service|Seven Payment Service]] in the group's retail-finance stack |
 
 The retailer's edge is **physical distribution** — real-estate inside high-traffic stores — turned into a financial-utility rail. See [[retail/store-traffic-as-financial-distribution|store traffic as financial distribution]] for the general pattern.
 
@@ -84,7 +84,7 @@ Seven & i chose deconsolidation-via-buyback for Seven Bank rather than a spinoff
 
 | Group | Finance vehicle | Core finance revenue | Pattern |
 |---|---|---|---|
-| **Seven & i** (this case) | [[JapanFG/seven-bank|Seven Bank]] + Seven Card + nanaco | **ATM interbank fees** + card + prepaid | Retailer ATM rail, then 2025 deconsolidation |
+| **Seven & i** (this case) | [[regional-banks/seven-bank|Seven Bank]] + Seven Card + nanaco | **ATM interbank fees** + card + prepaid | Retailer ATM rail, then 2025 deconsolidation |
 | Aeon | Aeon Bank + Aeon credit (Aeon Financial Service) | Card + bank spread, pan-Asia card | Retailer full FG — see [[business/aeon-financial-service-retail-bank-case|Aeon Financial Service case]] |
 | Lawson × KDDI | Lawson Bank + au finance | Bank + telco finance tie-up | Retail × telco — see [[retail/lawson-kddi-retail-finance|Lawson × KDDI retail finance]] |
 | FamilyMart × Itochu | FamiPay finance | Payments + credit | Trading-house-backed — see [[retail/familymart-itochu-financial-integration|FamilyMart × Itochu integration]] |
@@ -128,9 +128,9 @@ For **Seven Bank**:
 - [[business/sony-fg-partial-spinoff-case|Sony FG partial spinoff case]]
 - [[business/rakuten-group-mobile-finance-bundling-case|Rakuten Group mobile-finance bundling case]]
 - [[business/aeon-financial-service-retail-bank-case|Aeon Financial Service retail-bank case]]
-- [[JapanFG/seven-bank|Seven Bank]]
-- [[JapanFG/seven-card-service|Seven Card Service]]
-- [[JapanFG/seven-payment-service|Seven Payment Service]]
+- [[regional-banks/seven-bank|Seven Bank]]
+- [[card-issuers/seven-card-service|Seven Card Service]]
+- [[payment-firms/seven-payment-service|Seven Payment Service]]
 - [[retail/seven-and-i-hd|Seven & i Holdings]]
 - [[retail/seven-i-holdings-finance-deep-dive|Seven & i finance deep dive]]
 - [[retail/store-traffic-as-financial-distribution|store traffic as financial distribution]]

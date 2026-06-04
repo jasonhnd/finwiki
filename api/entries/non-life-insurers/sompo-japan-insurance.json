@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0",
+  "slug": "non-life-insurers/sompo-japan-insurance",
+  "source_path": "non-life-insurers/sompo-japan-insurance.md",
+  "url": "https://finwiki.zksc.io/non-life-insurers/sompo-japan-insurance",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/non-life-insurers/sompo-japan-insurance.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/non-life-insurers/sompo-japan-insurance.md",
+  "domain": "non-life-insurers",
+  "title": "損害保険ジャパン",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "損害保険ジャパン",
+    "aliases": [
+      "損保ジャパン",
+      "Sompo Japan",
+      "Sompo Japan Insurance",
+      "損害保険ジャパン株式会社",
+      "non-life-insurers/sompo-japan"
+    ],
+    "domain": "non-life-insurers",
+    "created": "2026-05-21",
+    "last_updated": "2026-05-21",
+    "last_tended": "2026-05-21",
+    "review_by": "2026-11-21",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "insurance",
+      "non-life-insurance",
+      "sompo",
+      "operating-company"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/menkyo/menkyoj/songai.pdf",
+      "https://www.sonpohogo.or.jp/outline/member-companies.html",
+      "https://www.sompo-japan.co.jp/"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against SOMPOダイレクト損害保険 for peer / contrast context and insurance index for the broader system / regulatory boundary.",
+  "headings": [
+    "損害保険ジャパン",
+    "Wiki route",
+    "TL;DR",
+    "1. License / group boundary",
+    "2. Operating model",
+    "3. Why this page matters",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 9,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "aioi-nissay-dowa-insurance",
+      "insurance/INDEX",
+      "insurance/natcat-reinsurance-japan",
+      "mitsui-sumitomo-insurance",
+      "non-life-insurers/sompo-direct",
+      "sompo",
+      "sompo-himawari-life",
+      "tokio-marine-nichido-fire"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/aioi-nissay-dowa-insurance",
+      "https://finwiki.zksc.io/insurance/INDEX",
+      "https://finwiki.zksc.io/insurance/natcat-reinsurance-japan",
+      "https://finwiki.zksc.io/mitsui-sumitomo-insurance",
+      "https://finwiki.zksc.io/non-life-insurers/sompo-direct",
+      "https://finwiki.zksc.io/sompo",
+      "https://finwiki.zksc.io/sompo-himawari-life",
+      "https://finwiki.zksc.io/tokio-marine-nichido-fire"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2003,
+    "word_like_tokens": 312,
+    "inbound_wikilinks_count": 18,
+    "last_modified": "2026-06-04"
+  }
+}

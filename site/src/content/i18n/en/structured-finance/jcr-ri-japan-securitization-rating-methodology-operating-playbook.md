@@ -230,7 +230,7 @@ Total timeline from mandate to rating: typically 8–14 weeks. Compares to globa
 - Whether climate-risk and demographic-decline scenarios get incorporated systematically into SDR calculation
 - Whether the FSA pressures rating agencies for tighter methodology disclosure or independent third-party review
 - Whether new asset classes(BNPL, EV-battery-related ABS, tokenized RWA) get methodology development at similar pace to traditional asset classes
-- Whether [[JapanFG/sumitomo-mitsui-trust|trust banks]] as trustees demand methodology changes(e.g., more granular surveillance frequency) as their fiduciary risk grows
+- Whether [[trust-banks/sumitomo-mitsui-trust|trust banks]] as trustees demand methodology changes(e.g., more granular surveillance frequency) as their fiduciary risk grows
 - The competitive position of JCR / R&I vs global agencies if BOJ rate normalization stresses pools and reveals modelling differences
 
 ## Related
@@ -247,8 +247,8 @@ Total timeline from mandate to rating: typically 8–14 weeks. Compares to globa
 - [[structured-finance/spv-tk-gk-vehicle-japan-tax|TK / GK / TMK SPV vehicle]]
 - [[structured-finance/japan-securitization-product-matrix|Japan securitization product matrix]]
 - [[structured-finance/japan-abs-market-overview|Japan ABS market overview]]
-- [[JapanFG/mufg|MUFG]] · [[JapanFG/smfg|SMFG]] · [[JapanFG/mizuho-fg|Mizuho FG]]
-- [[JapanFG/sumitomo-mitsui-trust|SMTB]] · [[JapanFG/nochu-trust-bank|Nochu Trust]]
+- [[megabanks/mufg|MUFG]] · [[megabanks/smfg|SMFG]] · [[megabanks/mizuho-fg|Mizuho FG]]
+- [[trust-banks/sumitomo-mitsui-trust|SMTB]] · [[trust-banks/nochu-trust-bank|Nochu Trust]]
 
 ## Sources
 

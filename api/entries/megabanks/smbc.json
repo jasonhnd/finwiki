@@ -1,0 +1,99 @@
+{
+  "schema_version": "1.0",
+  "slug": "megabanks/smbc",
+  "source_path": "megabanks/smbc.md",
+  "url": "https://finwiki.zksc.io/megabanks/smbc",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/megabanks/smbc.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/megabanks/smbc.md",
+  "domain": "megabanks",
+  "title": "株式会社三井住友銀行 (SMBC)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "株式会社三井住友銀行 (SMBC)",
+    "aliases": [
+      "SMBC",
+      "Sumitomo Mitsui Banking Corporation",
+      "三井住友銀行",
+      "株式会社三井住友銀行"
+    ],
+    "domain": "megabanks",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "banking",
+      "megabank",
+      "smfg-subsidiary"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: 三井住友銀行 (2026-05-25 抽出)",
+      "SMBC 公式サイト (https://www.smbc.co.jp/, 2026-05-25 参照)",
+      "SMFG 統合報告書 / 決算短信 (2024-25 公開分)",
+      "金融庁 銀行免許一覧 (2026-05-25 参照)"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against SMFG (親会社), MUFG 銀行, みずほ銀行 for peer / contrast (3 大メガバンク), and 金融庁 / 日本銀行 for the broader regulatory boundary.",
+  "headings": [
+    "株式会社三井住友銀行 (SMBC)",
+    "Wiki route",
+    "TL;DR",
+    "1. 法人構造",
+    "沿革・前身",
+    "重要年表",
+    "2. グループ内分業",
+    "3. 業務セグメント",
+    "主要拠点",
+    "4. 競争上の位置付け"
+  ],
+  "body_links": {
+    "wikilinks_count": 16,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "banking/INDEX",
+      "card-issuers/jcb",
+      "card-issuers/smbc-card",
+      "consumer-finance/smbc-consumer-finance",
+      "financial-regulators/boj",
+      "financial-regulators/dic",
+      "financial-regulators/fsa",
+      "megabanks/mizuho-bank",
+      "megabanks/mizuho-fg",
+      "megabanks/mufg",
+      "megabanks/mufg-bank",
+      "megabanks/smfg",
+      "regional-banks/japan-post-bank",
+      "securities-firms/smbc-nikko",
+      "trust-banks/smbc-trust-bank"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/card-issuers/jcb",
+      "https://finwiki.zksc.io/card-issuers/smbc-card",
+      "https://finwiki.zksc.io/consumer-finance/smbc-consumer-finance",
+      "https://finwiki.zksc.io/financial-regulators/boj",
+      "https://finwiki.zksc.io/financial-regulators/dic",
+      "https://finwiki.zksc.io/financial-regulators/fsa",
+      "https://finwiki.zksc.io/megabanks/mizuho-bank",
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/mufg-bank",
+      "https://finwiki.zksc.io/megabanks/smfg",
+      "https://finwiki.zksc.io/regional-banks/japan-post-bank",
+      "https://finwiki.zksc.io/securities-firms/smbc-nikko",
+      "https://finwiki.zksc.io/trust-banks/smbc-trust-bank"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 4844,
+    "word_like_tokens": 788,
+    "inbound_wikilinks_count": 7,
+    "last_modified": "2026-06-04"
+  }
+}

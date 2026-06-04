@@ -12,13 +12,13 @@ translated_at: 2026-05-30T14:13:23.432Z
 
 ## Wiki 路线
 
-此条目位于 [[money-market/INDEX|money-market index]] 下。请与 [[money-market/call-market-structure|call market structure]] 对照阅读以了解短资经纪实际发生的同类/对比表面,与 [[money-market/boj-open-market-operations|BoJ open market operations]] 对照阅读以了解短资流与中央银行政策实施互动的更广泛系统/监管边界。同类实体路线为 [[JapanFG/tokyo-tanshi]]、[[JapanFG/central-tanshi]] 和 [[JapanFG/ueda-yagi-tanshi]]。
+此条目位于 [[money-market/INDEX|money-market index]] 下。请与 [[money-market/call-market-structure|call market structure]] 对照阅读以了解短资经纪实际发生的同类/对比表面,与 [[money-market/boj-open-market-operations|BoJ open market operations]] 对照阅读以了解短资流与中央银行政策实施互动的更广泛系统/监管边界。同类实体路线为 [[financial-regulators/tokyo-tanshi]]、[[financial-regulators/central-tanshi]] 和 [[financial-regulators/ueda-yagi-tanshi]]。
 
 ## TL;DR
 
 短资(短資)公司是日本的专业货币市场经纪商。它们位于银行、证券公司、信托银行、保险公司和其他符合条件的金融机构之间,中介短期日元融资 — 主要是无抵押品拆借交易、JGB/一般抵押品回购、国库短期证券(国庫短期証券)经纪和证券融资。经过数十年的整合,三家公司仍然存在:东京短资(東京短資,Tokyo Tanshi)、Central 短资(セントラル短資,Central Tanshi)和上田八木短资(上田八木短資,Ueda Yagi Tanshi)。这三家都是基于佣金的中介 — 按设计它们不运行自营方向性头寸 — 并且这三家都在日本银行的市场操作交易对手宇宙旁边运营,这就是为什么它们反复出现在 [[money-market/japan-money-market|Japan money market]] 和 [[money-market/jgb-repo-market-japan|JGB repo market in Japan]] 等页面中。
 
-对于 FinWiki,此页面是上述 [[JapanFG/boj-monetary-policy]] 和三个同类页面之下的商业模式层。
+对于 FinWiki,此页面是上述 [[financial-regulators/boj-monetary-policy]] 和三个同类页面之下的商业模式层。
 
 ## 短资公司做什么
 
@@ -28,7 +28,7 @@ translated_at: 2026-05-30T14:13:23.432Z
 |---|---|---|
 | 拆借市场中介 | 在银行间网络中匹配隔夜和定期、无抵押品和有抵押品的拆借借出方和借入方。 | [[money-market/call-market-structure]] |
 | JGB/GC 回购中介 | 针对 JGB 抵押品经纪有抵押品短期融资;与交易商对交易商和交易商对买方流并行。 | [[money-market/jgb-repo-market-japan]] |
-| 国库短期证券经纪 | 在投资者和交易商之间中介国库短期证券(国庫短期証券)流。 | [[JapanFG/local-bond-market]] |
+| 国库短期证券经纪 | 在投资者和交易商之间中介国库短期证券(国庫短期証券)流。 | [[financial-regulators/local-bond-market]] |
 | 证券融资 | 经纪证券借贷交易,包括与回购相邻的现金抵押品 SBL。 | [[money-market/jgb-repo-market-japan]] |
 | 市场信息服务 | 向订阅者提供参考利率、每日评论和基于屏幕/聊天的价格发现。 | (特定供应商) |
 | 与日本央行操作的相邻性 | 站在日本央行操作交易对手宇宙附近,提供对拆借利率和回购状况的解读。 | [[money-market/boj-open-market-operations]] |
@@ -41,9 +41,9 @@ translated_at: 2026-05-30T14:13:23.432Z
 
 | 公司 | FinWiki 实体 | 渊源/定位 |
 |---|---|---|
-| 东京短资(東京短資,Tokyo Tanshi) | [[JapanFG/tokyo-tanshi]] | 历史悠久的东京货币市场经纪商,在历史上按拆借市场存在感是三家中最大的;服务完整的短期利率/回购/国库短期证券堆栈。 |
-| Central 短资(セントラル短資,Central Tanshi) | [[JapanFG/central-tanshi]] | 货币市场经纪商,在外汇保证金/零售流领域有一个姐妹实体(セントラル短資FX),使该集团比纯银行间短资同行有更广泛的面向公众足迹。 |
-| 上田八木短资(上田八木短資,Ueda Yagi Tanshi) | [[JapanFG/ueda-yagi-tanshi]] | 上田短资/八木短资合并的结果;更广泛的上田集团的一部分,具有进入金银/贵金属(Ueda Harlow/Ueda Bullion)和其他经纪线的企业相邻性。 |
+| 东京短资(東京短資,Tokyo Tanshi) | [[financial-regulators/tokyo-tanshi]] | 历史悠久的东京货币市场经纪商,在历史上按拆借市场存在感是三家中最大的;服务完整的短期利率/回购/国库短期证券堆栈。 |
+| Central 短资(セントラル短資,Central Tanshi) | [[financial-regulators/central-tanshi]] | 货币市场经纪商,在外汇保证金/零售流领域有一个姐妹实体(セントラル短資FX),使该集团比纯银行间短资同行有更广泛的面向公众足迹。 |
+| 上田八木短资(上田八木短資,Ueda Yagi Tanshi) | [[financial-regulators/ueda-yagi-tanshi]] | 上田短资/八木短资合并的结果;更广泛的上田集团的一部分,具有进入金银/贵金属(Ueda Harlow/Ueda Bullion)和其他经纪线的企业相邻性。 |
 
 每家公司自己的企业网站(tokyotanshi.co.jp、central-tanshi.com、ueda-net.co.jp/yagi/)是当前产品菜单和集团结构的正确起始来源。三家之间确切的排行榜排名逐年变化,不应在未检查每家公司"会社案内"/"事業案内"页面的情况下从二手来源断言。
 
@@ -53,7 +53,7 @@ translated_at: 2026-05-30T14:13:23.432Z
 
 - **经纪价格发现**:当日本央行供给或吸收资金时,产生的准备金余额和拆借利率效应通过短资屏幕发布的经纪拆借报价传播,这是更广泛市场解读操作结果的渠道之一。
 - **交易对手/信号相邻性**:短资公司在历史上作为某些日本央行供给资金和吸收资金操作的交易对手出现,并作为其周围操作基础设施中的合格参与者。当前合格交易对手名单维护在日本央行"货币市场"/市场操作页面上,应直接检查而非推断。
-- **正常化传导**:后 3 月 2024,  随着 [[JapanFG/boj-monetary-policy|BoJ monetary policy]] 框架远离负利率和 YCC,无抵押品隔夜拆借市场作为可观察的传导表面重新获得意义。短资经纪流是该表面在实践中如何被观察的一部分。
+- **正常化传导**:后 3 月 2024,  随着 [[financial-regulators/boj-monetary-policy|BoJ monetary policy]] 框架远离负利率和 YCC,无抵押品隔夜拆借市场作为可观察的传导表面重新获得意义。短资经纪流是该表面在实践中如何被观察的一部分。
 
 简而言之,短资位于政策实施一步之外:不是设定利率的机构,而是其经纪拆借成交和屏幕使利率可见的机构。
 
@@ -82,7 +82,7 @@ translated_at: 2026-05-30T14:13:23.432Z
 - 它们受 FSA 对金融工具业务的监管,以及在它们与中央银行操作或结算系统互动时受日本央行规则约束。
 - 它们不吸收零售存款,也不是《银行法》下的银行。它们不是存款保险机构。
 
-FinWiki 牌照分类的路线页面是 [[JapanFG/legal-financial-licenses/INDEX]];政策框架路线是 [[JapanFG/boj-monetary-policy]]。
+FinWiki 牌照分类的路线页面是 [[financial-licenses/INDEX]];政策框架路线是 [[financial-regulators/boj-monetary-policy]]。
 
 ## 相关条目
 
@@ -91,11 +91,11 @@ FinWiki 牌照分类的路线页面是 [[JapanFG/legal-financial-licenses/INDEX]
 - [[money-market/call-market-structure]]
 - [[money-market/jgb-repo-market-japan]]
 - [[money-market/boj-open-market-operations]]
-- [[JapanFG/tokyo-tanshi]]
-- [[JapanFG/central-tanshi]]
-- [[JapanFG/ueda-yagi-tanshi]]
-- [[JapanFG/boj-monetary-policy]]
-- [[JapanFG/legal-financial-licenses/INDEX]]
+- [[financial-regulators/tokyo-tanshi]]
+- [[financial-regulators/central-tanshi]]
+- [[financial-regulators/ueda-yagi-tanshi]]
+- [[financial-regulators/boj-monetary-policy]]
+- [[financial-licenses/INDEX]]
 - [[INDEX|FinWiki index]]
 
 ## 来源

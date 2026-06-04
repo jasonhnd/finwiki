@@ -89,7 +89,7 @@ No published records of administrative sanctions, hacks, or large-scale system f
 - **2026-04**: 15th-anniversary special page published and anniversary campaign rolled out.
 - **2026-05**: Narrowed the reference spread of a new Turkish lira / yen currency pair to 1.28 sen.
 - Since the 2020-08 launch of the crypto-asset CFD, asset expansion in the order BTC to XRP to ETH is complete, and USD-denominated assets have also been added. No new expansion announcements in the crypto-asset segment were confirmed over the most recent 12 months.
-- The SBI group's overall crypto-asset strategy is led by the group's controlling company ([[JapanFG/sbi-hd|SBI HD]]) and [[exchanges/jp-exchange-sbi-vc-trade|SBI VC Trade]], with this company positioned as complementary on the retail FX base. For the JP VASP derivatives / spot dual-business structure, see [[exchanges/jp-vasp-derivative-license-system|JP VASP derivatives license system]].
+- The SBI group's overall crypto-asset strategy is led by the group's controlling company ([[megabanks/sbi-hd|SBI HD]]) and [[exchanges/jp-exchange-sbi-vc-trade|SBI VC Trade]], with this company positioned as complementary on the retail FX base. For the JP VASP derivatives / spot dual-business structure, see [[exchanges/jp-vasp-derivative-license-system|JP VASP derivatives license system]].
 
 ## 8. Related people
 
@@ -116,7 +116,7 @@ Within the SBI group, spot trading is consolidated at SBI VC Trade, while SBI FX
 - [[exchanges/jp-exchange-sbi-vc-trade]] — SBI group's core spot-trading company (JVCEA #1011)
 - [[fintech/japan-financial-regulation]] — Japanese financial regulation overall
 - [[fintech/japan-stablecoin-regulatory-landscape]] — Related stablecoin regime
-- [[JapanFG/sbi-hd]] — SBI Holdings parent-company profile
+- [[megabanks/sbi-hd]] — SBI Holdings parent-company profile
 - [[exchanges/jp-vasp-derivative-license-system]] — JP VASP derivatives license regime
 - [[exchanges/jp-vasp-parent-company-map]] — JP VASP parent-company map
 

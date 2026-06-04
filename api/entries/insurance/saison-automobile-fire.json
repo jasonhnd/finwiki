@@ -54,32 +54,32 @@
     "wikilinks": [
       "INDEX",
       "JapanFG/INDEX",
-      "JapanFG/legal-financial-licenses/INDEX",
-      "JapanFG/saison-automobile-fire-insurance",
-      "JapanFG/sompo",
-      "JapanFG/sony-fg",
+      "financial-licenses/INDEX",
       "insurance/INDEX",
       "insurance/life-insurance-channel-mix",
-      "insurance/natcat-reinsurance-japan"
+      "insurance/natcat-reinsurance-japan",
+      "megabanks/sony-fg",
+      "non-life-insurers/saison-automobile-fire-insurance",
+      "non-life-insurers/sompo"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
       "https://finwiki.zksc.io/JapanFG/INDEX",
-      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX",
-      "https://finwiki.zksc.io/JapanFG/saison-automobile-fire-insurance",
-      "https://finwiki.zksc.io/JapanFG/sompo",
-      "https://finwiki.zksc.io/JapanFG/sony-fg",
+      "https://finwiki.zksc.io/financial-licenses/INDEX",
       "https://finwiki.zksc.io/insurance/INDEX",
       "https://finwiki.zksc.io/insurance/life-insurance-channel-mix",
-      "https://finwiki.zksc.io/insurance/natcat-reinsurance-japan"
+      "https://finwiki.zksc.io/insurance/natcat-reinsurance-japan",
+      "https://finwiki.zksc.io/megabanks/sony-fg",
+      "https://finwiki.zksc.io/non-life-insurers/saison-automobile-fire-insurance",
+      "https://finwiki.zksc.io/non-life-insurers/sompo"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3046,
-    "word_like_tokens": 486,
-    "inbound_wikilinks_count": 13,
-    "last_modified": "2026-06-03"
+    "nonspace_chars": 3090,
+    "word_like_tokens": 494,
+    "inbound_wikilinks_count": 14,
+    "last_modified": "2026-06-04"
   }
 }

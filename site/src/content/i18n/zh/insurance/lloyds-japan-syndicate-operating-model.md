@@ -15,7 +15,7 @@ translated_at: 2026-05-31T07:28:06.177Z
 
 ## Wiki route
 
-This entry sits under [[insurance/INDEX|insurance index]]. Read it against [[JapanFG/lloyd-japan|Lloyd's Japan]] for the entity-level page, [[insurance/foreign-reinsurer-japan-landscape|foreign reinsurer Japan landscape]] for the conventional foreign-reinsurer panel comparison, [[insurance/marine-insurance-and-pi-cover-market|marine insurance and P&I cover market]] for marine specialty context, [[insurance/japan-nonlife-big-three|Japan non-life big three]] for who Lloyd's competes with and complements, [[insurance/captive-insurance-japan-market|captive insurance Japan market]] for an adjacent specialty-risk-transfer route, and [[insurance/global-solvency-framework-comparison-matrix|global solvency framework comparison matrix]] for the Solvency II / PRA framework that supervises Lloyd's at parent level.
+This entry sits under [[insurance/INDEX|insurance index]]. Read it against [[non-life-insurers/lloyd-japan|Lloyd's Japan]] for the entity-level page, [[insurance/foreign-reinsurer-japan-landscape|foreign reinsurer Japan landscape]] for the conventional foreign-reinsurer panel comparison, [[insurance/marine-insurance-and-pi-cover-market|marine insurance and P&I cover market]] for marine specialty context, [[insurance/japan-nonlife-big-three|Japan non-life big three]] for who Lloyd's competes with and complements, [[insurance/captive-insurance-japan-market|captive insurance Japan market]] for an adjacent specialty-risk-transfer route, and [[insurance/global-solvency-framework-comparison-matrix|global solvency framework comparison matrix]] for the Solvency II / PRA framework that supervises Lloyd's at parent level.
 
 ## 1. Lloyd's of London 实际上是什么
 
@@ -31,7 +31,7 @@ Lloyd's 不是一家公司；它是一个受监管的市场。
 1. **Premiums Trust Funds** at the syndicate level — first call.
 2. **Members' Funds at Lloyd's (FAL)** — second call, posted by each member to support its underwriting share.
 
-这条安全链是单一资产负债表保险人的结构性替代方案。这也是为什么不能像比较 [[JapanFG/aig-japan|AIG Japan]] 或 [[JapanFG/chubb-insurance-japan|Chubb Insurance Japan]] 那样，按财务报表口径直接比较 Lloyd's Japan Inc.——真正的资产负债表在伦敦。
+这条安全链是单一资产负债表保险人的结构性替代方案。这也是为什么不能像比较 [[non-life-insurers/aig-japan|AIG Japan]] 或 [[non-life-insurers/chubb-insurance-japan|Chubb Insurance Japan]] 那样，按财务报表口径直接比较 Lloyd's Japan Inc.——真正的资产负债表在伦敦。
 
 ## 2. Lloyd's Japan Inc. —— 它是什么，以及它不是什么
 
@@ -86,7 +86,7 @@ Lloyd's 辛迪加在日本同时参与 *直接承保市场* 和 *再保险市场
 
 ## 7. 对比：Lloyd's Japan vs 传统外资保险公司
 
-| Dimension | Lloyd's Japan ([[JapanFG/lloyd-japan]]) | Conventional foreign insurer (e.g., [[JapanFG/aig-japan|AIG Japan]], [[JapanFG/chubb-insurance-japan|Chubb]]) |
+| Dimension | Lloyd's Japan ([[non-life-insurers/lloyd-japan]]) | Conventional foreign insurer (e.g., [[non-life-insurers/aig-japan|AIG Japan]], [[non-life-insurers/chubb-insurance-japan|Chubb]]) |
 |---|---|---|
 | Structure | 市场平台；每个风险可由多个辛迪加共同承保 | 单一保险人，单一资产负债表 |
 | Capital backing | 三层安全链（Premiums Trust Funds → FAL → Central Fund） | 母公司资产负债表 |
@@ -110,18 +110,18 @@ Lloyd's 辛迪加在日本同时参与 *直接承保市场* 和 *再保险市场
 - [[insurance/global-solvency-framework-comparison-matrix]]
 - [[insurance/insurance-agency-and-brokerage-japan]]
 - [[insurance/natcat-reinsurance-japan]]
-- [[JapanFG/nonlife-insurer-registry-japan-index]]
-- [[JapanFG/lloyd-japan]]
-- [[JapanFG/aig-japan]]
-- [[JapanFG/chubb-insurance-japan]]
-- [[JapanFG/allianz-fire-marine-japan]]
-- [[JapanFG/japan-pi-club]]
-- [[JapanFG/tokio-marine-nichido-fire]]
-- [[JapanFG/mitsui-sumitomo-insurance]]
-- [[JapanFG/sompo-japan-insurance]]
-- [[JapanFG/munich-re-japan]]
-- [[JapanFG/swiss-re-japan]]
-- [[JapanFG/legal-financial-licenses/insurance-license-and-solvency]]
+- [[non-life-insurers/nonlife-insurer-registry-japan-index]]
+- [[non-life-insurers/lloyd-japan]]
+- [[non-life-insurers/aig-japan]]
+- [[non-life-insurers/chubb-insurance-japan]]
+- [[non-life-insurers/allianz-fire-marine-japan]]
+- [[financial-regulators/japan-pi-club]]
+- [[non-life-insurers/tokio-marine-nichido-fire]]
+- [[non-life-insurers/mitsui-sumitomo-insurance]]
+- [[non-life-insurers/sompo-japan-insurance]]
+- [[non-life-insurers/munich-re-japan]]
+- [[non-life-insurers/swiss-re-japan]]
+- [[financial-licenses/insurance-license-and-solvency]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

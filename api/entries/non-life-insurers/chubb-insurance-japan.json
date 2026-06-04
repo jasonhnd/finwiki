@@ -1,0 +1,82 @@
+{
+  "schema_version": "1.0",
+  "slug": "non-life-insurers/chubb-insurance-japan",
+  "source_path": "non-life-insurers/chubb-insurance-japan.md",
+  "url": "https://finwiki.zksc.io/non-life-insurers/chubb-insurance-japan",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/non-life-insurers/chubb-insurance-japan.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/non-life-insurers/chubb-insurance-japan.md",
+  "domain": "non-life-insurers",
+  "title": "Chubb Insurance Japan / Chubb損害保険",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Chubb Insurance Japan / Chubb損害保険",
+    "aliases": [
+      "Chubb損害保険",
+      "チャブ保険",
+      "Chubb Insurance Japan",
+      "Chubb損害保険株式会社",
+      "ACE損害保険"
+    ],
+    "domain": "non-life-insurers",
+    "created": "2026-05-23",
+    "last_updated": "2026-05-23",
+    "last_tended": "2026-05-23",
+    "review_by": "2026-11-23",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "non-life-insurance",
+      "foreign-insurer",
+      "corporate-risk",
+      "public-source"
+    ],
+    "status": "active",
+    "sources": [
+      "FSA non-life insurer list: https://www.fsa.go.jp/menkyo/menkyoj/songai.xlsx",
+      "Chubb Japan company overview: https://www.chubb.com/jp-jp/about-us/about-us-company-overview.html",
+      "Chubb Japan corporate information: https://www.chubb.com/jp-jp/about-us.html"
+    ]
+  },
+  "summary": "Wiki route: JapanFG/INDEX -> insurance/INDEX -> non-life-insurers/chubb-insurance-japan",
+  "headings": [
+    "Chubb Insurance Japan / Chubb損害保険",
+    "Overview",
+    "Entity Boundary",
+    "Business Role Map",
+    "Public Context",
+    "Research Checklist",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 8,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "financial-licenses/insurance-license-and-solvency",
+      "insurance/INDEX",
+      "insurance/japan-nonlife-big-three",
+      "life-insurers/axa-japan",
+      "non-life-insurers/aig-japan",
+      "non-life-insurers/allianz-fire-marine-japan",
+      "non-life-insurers/chubb-insurance-japan"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/financial-licenses/insurance-license-and-solvency",
+      "https://finwiki.zksc.io/insurance/INDEX",
+      "https://finwiki.zksc.io/insurance/japan-nonlife-big-three",
+      "https://finwiki.zksc.io/life-insurers/axa-japan",
+      "https://finwiki.zksc.io/non-life-insurers/aig-japan",
+      "https://finwiki.zksc.io/non-life-insurers/allianz-fire-marine-japan",
+      "https://finwiki.zksc.io/non-life-insurers/chubb-insurance-japan"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2369,
+    "word_like_tokens": 387,
+    "inbound_wikilinks_count": 12,
+    "last_modified": "2026-06-04"
+  }
+}

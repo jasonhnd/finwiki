@@ -31,7 +31,7 @@ This entry sits under [[real-estate-finance/INDEX|real-estate-finance index]] as
 | Listing date | December 2012 |
 | Asset focus | Modern multi-tenant logistics facilities — Class-A warehouses |
 | Geographic focus | Greater Tokyo logistics submarkets (Inzai, Funabashi, Soka, Atsugi, Saitama corridor) and Greater Osaka |
-| Rating | Investment-grade by [[JapanFG/jcr|JCR]] / [[JapanFG/rating-and-investment|R&I]] |
+| Rating | Investment-grade by [[financial-regulators/jcr|JCR]] / [[financial-regulators/rating-and-investment|R&I]] |
 | Index inclusion | TSE REIT Index, TSE REIT Logistics Index, GPR / FTSE EPRA Nareit Developed Asia |
 
 ## 2. Sponsor platform — GLP

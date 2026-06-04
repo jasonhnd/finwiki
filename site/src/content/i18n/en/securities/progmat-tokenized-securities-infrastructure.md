@@ -16,14 +16,14 @@ This page sits inside [[securities/INDEX|securities index]] as the platform-side
 
 ## TL;DR
 
-Progmat is a Japanese tokenization platform operated by Progmat Inc. (株式会社Progmat), spun out of [[JapanFG/mizuho-fg|Mizuho]]-adjacent and MUFG-led trust-bank tokenization work (the core Progmat ST infrastructure originated inside [[JapanFG/mitsubishi-ufj-trust-bank|Mitsubishi UFJ Trust and Banking]] before becoming an independent company with multi-bank shareholders). It provides issuance and lifecycle infrastructure for tokenized trust-beneficial-interests (ST), tokenized deposit / stablecoin (Progmat Coin / Progmat UT), and platform infrastructure for security tokens that subsequently trade on [[securities/osaka-digital-exchange|Osaka Digital Exchange]] START secondary market. Public Progmat materials report material cumulative ST issuance balances across domestic markets, with Progmat-handled cases forming the majority share. Competing platforms include BOOSTRY (Nomura-led, also positioned to support ST issuance) and ibet for FIN (consortium platform). Together these three form the Japanese ST issuance-platform triangle that sits behind the ST issuer side of [[securities/japan-security-token-secondary-market-route|ST secondary market routes]].
+Progmat is a Japanese tokenization platform operated by Progmat Inc. (株式会社Progmat), spun out of [[megabanks/mizuho-fg|Mizuho]]-adjacent and MUFG-led trust-bank tokenization work (the core Progmat ST infrastructure originated inside [[trust-banks/mitsubishi-ufj-trust-bank|Mitsubishi UFJ Trust and Banking]] before becoming an independent company with multi-bank shareholders). It provides issuance and lifecycle infrastructure for tokenized trust-beneficial-interests (ST), tokenized deposit / stablecoin (Progmat Coin / Progmat UT), and platform infrastructure for security tokens that subsequently trade on [[securities/osaka-digital-exchange|Osaka Digital Exchange]] START secondary market. Public Progmat materials report material cumulative ST issuance balances across domestic markets, with Progmat-handled cases forming the majority share. Competing platforms include BOOSTRY (Nomura-led, also positioned to support ST issuance) and ibet for FIN (consortium platform). Together these three form the Japanese ST issuance-platform triangle that sits behind the ST issuer side of [[securities/japan-security-token-secondary-market-route|ST secondary market routes]].
 
 ## Platform identity
 
 | Field | Public reading |
 |---|---|
 | Operating entity | 株式会社Progmat (Progmat Inc.) |
-| Origin | Spun out of [[JapanFG/mitsubishi-ufj-trust-bank|Mitsubishi UFJ Trust and Banking]] tokenization work; transitioned to a standalone company with broader bank / securities-firm shareholders. |
+| Origin | Spun out of [[trust-banks/mitsubishi-ufj-trust-bank|Mitsubishi UFJ Trust and Banking]] tokenization work; transitioned to a standalone company with broader bank / securities-firm shareholders. |
 | Shareholder lineage | MUFG group entities as anchor; additional Japanese mega-bank, trust-bank, securities-firm, and IT-platform shareholders depending on the round. Verify current cap table per Progmat IR / news. |
 | Platform products | Progmat (ST — security-token issuance / lifecycle); Progmat Coin (SC — stablecoin / tokenized deposit); Progmat UT (utility token). |
 | Underlying tech | DLT-based tokenization with trust-bank custody integration; specific chain choice and version evolve. |
@@ -75,7 +75,7 @@ Japanese ST issuance platforms have settled into a three-pole architecture, each
 | Platform | Operating entity | Anchor / lineage | Orientation |
 |---|---|---|---|
 | Progmat | Progmat Inc. | MUFG group origin; multi-bank shareholders | Trust-beneficial-interest ST + Progmat Coin / SC integration; bank-led ecosystem. |
-| BOOSTRY | BOOSTRY Co., Ltd. | [[JapanFG/nomura-hd|Nomura HD]] / [[JapanFG/japan-exchange-group|JPX]] / SBI / others have publicly invested across rounds | Securities-firm-led ecosystem; corporate-bond and digital-bond focus historically; ibet network operator. |
+| BOOSTRY | BOOSTRY Co., Ltd. | [[securities-firms/nomura-hd|Nomura HD]] / [[financial-regulators/japan-exchange-group|JPX]] / SBI / others have publicly invested across rounds | Securities-firm-led ecosystem; corporate-bond and digital-bond focus historically; ibet network operator. |
 | ibet for FIN | Consortium platform, operated in coordination with BOOSTRY | Multi-firm consortium | Sector-utility framing for ST recordkeeping with broad financial-industry participation. |
 
 Concrete competitive features (subject to change):
@@ -157,11 +157,11 @@ Each ST issue has a per-issue disclosure pack covering issuer, trust bank, distr
 - [[securities/tokyo-stock-exchange]]
 - [[securities/financial-instruments-business-operators-japan-index]]
 - [[securities/japan-asset-manager-landscape-matrix]]
-- [[JapanFG/progmat]]
-- [[JapanFG/nomura-hd]]
-- [[JapanFG/sbi-hd]]
-- [[JapanFG/jsda]]
-- [[JapanFG/japan-exchange-group]]
+- [[payment-firms/progmat]]
+- [[securities-firms/nomura-hd]]
+- [[megabanks/sbi-hd]]
+- [[financial-regulators/jsda]]
+- [[financial-regulators/japan-exchange-group]]
 - [[fintech/jp-stablecoin-progmat]]
 - [[INDEX|FinWiki index]]
 

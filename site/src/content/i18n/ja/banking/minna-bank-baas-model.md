@@ -56,9 +56,9 @@ translated_at: 2026-06-02T11:47:37.295Z
 - [[banking/mercari-bank-license-stack]]
 - [[banking/baas-japan-landscape]]
 - [[banking/quick-deposit-four-methods]]
-- [[JapanFG/fukuoka-fg]]
-- [[JapanFG/ssnb]]
-- [[JapanFG/gmo-aozora-net]]
+- [[regional-banks/fukuoka-fg]]
+- [[regional-banks/ssnb]]
+- [[payment-firms/gmo-aozora-net]]
 
 ## 出典
 

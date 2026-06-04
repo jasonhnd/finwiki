@@ -50,5 +50,5 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exc
 - [[fintech/genius-act-501-denylist-mandate]]
 - [[fintech/global-stablecoin-regulatory-five-pole-matrix]] — 全球 stablecoin 监管 5 极比较
 - [[fintech/japan-stablecoin-regulatory-landscape]] — 日本 stablecoin 监管全景
-- [[JapanFG/jpyc]] — JPYC operating-company anchor
-- [[JapanFG/progmat]] — Progmat operating-company anchor
+- [[payment-firms/jpyc]] — JPYC operating-company anchor
+- [[payment-firms/progmat]] — Progmat operating-company anchor

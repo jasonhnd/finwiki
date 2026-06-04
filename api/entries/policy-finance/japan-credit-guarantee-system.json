@@ -61,11 +61,11 @@
     "wikilinks_count": 17,
     "wikilinks": [
       "INDEX",
-      "JapanFG/jfc",
-      "JapanFG/shoko-chukin",
       "banking/credit-cooperative-registry-japan",
       "banking/regional-bank-consolidation-pattern",
       "banking/shinkin-bank-registry-japan",
+      "financial-regulators/jfc",
+      "financial-regulators/shoko-chukin",
       "policy-finance/INDEX",
       "policy-finance/agriculture-credit-guarantee-system",
       "policy-finance/aichi-credit-guarantee-corp",
@@ -80,11 +80,11 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/jfc",
-      "https://finwiki.zksc.io/JapanFG/shoko-chukin",
       "https://finwiki.zksc.io/banking/credit-cooperative-registry-japan",
       "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
       "https://finwiki.zksc.io/banking/shinkin-bank-registry-japan",
+      "https://finwiki.zksc.io/financial-regulators/jfc",
+      "https://finwiki.zksc.io/financial-regulators/shoko-chukin",
       "https://finwiki.zksc.io/policy-finance/INDEX",
       "https://finwiki.zksc.io/policy-finance/agriculture-credit-guarantee-system",
       "https://finwiki.zksc.io/policy-finance/aichi-credit-guarantee-corp",
@@ -101,9 +101,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 12791,
-    "word_like_tokens": 1945,
+    "nonspace_chars": 12856,
+    "word_like_tokens": 1950,
     "inbound_wikilinks_count": 19,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-04"
   }
 }

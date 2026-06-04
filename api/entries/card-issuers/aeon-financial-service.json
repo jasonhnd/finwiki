@@ -1,0 +1,81 @@
+{
+  "schema_version": "1.0",
+  "slug": "card-issuers/aeon-financial-service",
+  "source_path": "card-issuers/aeon-financial-service.md",
+  "url": "https://finwiki.zksc.io/card-issuers/aeon-financial-service",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/card-issuers/aeon-financial-service.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/card-issuers/aeon-financial-service.md",
+  "domain": "card-issuers",
+  "title": "イオンフィナンシャルサービス (AEON Financial Service)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "イオンフィナンシャルサービス (AEON Financial Service)",
+    "aliases": [
+      "AEON Financial Service",
+      "イオンフィナンシャルサービス",
+      "イオンフィナンシャルサービス株式会社",
+      "AFS",
+      "card-issuers/aeon-card"
+    ],
+    "domain": "card-issuers",
+    "created": "2026-05-21",
+    "last_updated": "2026-05-21",
+    "last_tended": "2026-05-21",
+    "review_by": "2026-11-21",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "payments",
+      "credit-card",
+      "retail-finance",
+      "bank"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.aeonfinancial.co.jp/corp/",
+      "https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against セブン・カードサービス (Seven Card Service) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "イオンフィナンシャルサービス (AEON Financial Service)",
+    "Wiki route",
+    "TL;DR",
+    "1. 法人・ライセンス境界",
+    "2. Business role",
+    "3. Why this standalone page matters",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 8,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "banking/INDEX",
+      "card-issuers/aeon-bank",
+      "card-issuers/seven-card-service",
+      "loyalty/japan-points-landscape",
+      "payments/cashless-jp-landscape",
+      "retail/aeon-group",
+      "retail/seven-and-i-hd"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/card-issuers/aeon-bank",
+      "https://finwiki.zksc.io/card-issuers/seven-card-service",
+      "https://finwiki.zksc.io/loyalty/japan-points-landscape",
+      "https://finwiki.zksc.io/payments/cashless-jp-landscape",
+      "https://finwiki.zksc.io/retail/aeon-group",
+      "https://finwiki.zksc.io/retail/seven-and-i-hd"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 1940,
+    "word_like_tokens": 301,
+    "inbound_wikilinks_count": 28,
+    "last_modified": "2026-06-04"
+  }
+}

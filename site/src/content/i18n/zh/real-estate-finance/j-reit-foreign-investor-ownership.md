@@ -29,7 +29,7 @@ translated_at: 2026-06-01T03:31:12.307Z
 
 ### 如何观察该占比
 
-JPX 单独发布 J-REIT 交易的周度投资者类型统计。分类包括个人、投资信托、银行、寿险 / 非寿险、信托银行、自营、外国投资者等。外国投资者净买卖可按周追踪。持有占比更难实时提取，因为信托银行名义人表面（如[[banking/master-trust-bank-operating-model|MTBJ]]和[[JapanFG/custody-bank|CBJ]]）混合了国内和外国实益持有人。
+JPX 单独发布 J-REIT 交易的周度投资者类型统计。分类包括个人、投资信托、银行、寿险 / 非寿险、信托银行、自营、外国投资者等。外国投资者净买卖可按周追踪。持有占比更难实时提取，因为信托银行名义人表面（如[[banking/master-trust-bank-operating-model|MTBJ]]和[[trust-banks/custody-bank|CBJ]]）混合了国内和外国实益持有人。
 
 ### 分段 1  - 全球 REIT 专门基金
 
@@ -139,11 +139,11 @@ Foreign investor
 - [[policy-finance/INDEX]]
 - [[policy-finance/japan-housing-finance-agency]]
 - [[finance/INDEX]]
-- [[JapanFG/mitsubishi-ufj-trust-bank]]
-- [[JapanFG/sumitomo-mitsui-trust]]
-- [[JapanFG/mizuho-trust-bank]]
-- [[JapanFG/master-trust-bank]]
-- [[JapanFG/custody-bank]]
+- [[trust-banks/mitsubishi-ufj-trust-bank]]
+- [[trust-banks/sumitomo-mitsui-trust]]
+- [[trust-banks/mizuho-trust-bank]]
+- [[trust-banks/master-trust-bank]]
+- [[trust-banks/custody-bank]]
 - [[securities/japan-securities-depository-center]]
 
 ## 来源

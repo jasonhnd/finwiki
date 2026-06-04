@@ -26,7 +26,7 @@ translated_at: 2026-06-03T00:53:08.299Z
 | 設立 | 1937 (1953 法による再編以降継続) |
 | 資金提供パートナー | 東京都、都内金融機関、会員寄付金 |
 | 連盟のメンバーシップ | [[policy-finance/national-federation-credit-guarantee-corporations|Japan Federation of Credit Guarantee Corporations]]所属（51 現地軍団合計） |
-| 公的信用再保険 | [[JapanFG/jfc|JFC]]信用保険業務により再保険付 |
+| 公的信用再保険 | [[financial-regulators/jfc|JFC]]信用保険業務により再保険付 |
 
 ## 2. Function map
 
@@ -44,13 +44,13 @@ translated_at: 2026-06-03T00:53:08.299Z
 
 1. **中小企業密度**: 東京都は、製造業、サービス業、小売業、飲食業など、日本の都道府県の中で最も中小企業が集中しています。
 2. **政策プログラムの規模**: 東京都政府の緊急融資プログラム (例: 2020 ～ 2021,  のパンデミック特別保証、2022 ～ 2023 のエネルギー価格緩和) は、51  企業の中で円ベースで最大の規模です。
-3. **銀行密度**: 3 つのメガバンク グループすべて ([[JapanFG/mufg|MUFG]]、[[JapanFG/smfg|SMFG]]、[[JapanFG/mizuho-fg|Mizuho FG]]) に加え、地域金融機関、信用金庫、信用組合の金融機関が東京で営業しており、中小企業保証フローの単一取引先としては最も多忙な都市となっています。
+3. **銀行密度**: 3 つのメガバンク グループすべて ([[megabanks/mufg|MUFG]]、[[megabanks/smfg|SMFG]]、[[megabanks/mizuho-fg|Mizuho FG]]) に加え、地域金融機関、信用金庫、信用組合の金融機関が東京で営業しており、中小企業保証フローの単一取引先としては最も多忙な都市となっています。
 
-同社は構造的に借り手と[[JapanFG/jfc|JFC]]の公的信用再保険層の間に位置しているため、プログラム設計の変更は信用システムを通じて迅速に反映されます。これは [[policy-finance/osaka-credit-guarantee-corp|Osaka Credit Guarantee Corporation]] と同等の機関ですが、著しく大規模に運営されています。
+同社は構造的に借り手と[[financial-regulators/jfc|JFC]]の公的信用再保険層の間に位置しているため、プログラム設計の変更は信用システムを通じて迅速に反映されます。これは [[policy-finance/osaka-credit-guarantee-corp|Osaka Credit Guarantee Corporation]] と同等の機関ですが、著しく大規模に運営されています。
 
 ## 4. System anchoring
 
-このページは、51 地域信用保証協会を理解するための標準的な例です。地方企業が中小企業向け融資を保証し、金融機関が責任分担制度に基づいて残余リスクを分担し、[[JapanFG/jfc|JFC]]が信用保険を通じて再保険し、国家連合[[policy-finance/national-federation-credit-guarantee-corporations|JFG]]が調整するという同じ構造パターンが、すべての都道府県と主要都市に適用される。
+このページは、51 地域信用保証協会を理解するための標準的な例です。地方企業が中小企業向け融資を保証し、金融機関が責任分担制度に基づいて残余リスクを分担し、[[financial-regulators/jfc|JFC]]が信用保険を通じて再保険し、国家連合[[policy-finance/national-federation-credit-guarantee-corporations|JFG]]が調整するという同じ構造パターンが、すべての都道府県と主要都市に適用される。
 
 [[policy-finance/japan-policy-finance-system|Japan policy finance system]] マップ内では、東京 CGC は以下とは異なる **SME 信用保証レーン**を表します。
 - 農業・漁業保証（[[policy-finance/agriculture-credit-guarantee-system]]、[[policy-finance/fisheries-credit-guarantee-system]]）。
@@ -62,7 +62,7 @@ translated_at: 2026-06-03T00:53:08.299Z
 
 - **銀行ではありません**: 東京信用保証協会は中小企業に直接融資を提供しません。銀行やその他の金融機関による融資を保証します。
 - **東京都ではありません**: 東京都-東京都-政府の政策は東京 CGC を通じて行われますが、この法人は独自の貸借対照表を持つ法的に独立した公益法人です。
-- **JFC ではありません**: [[JapanFG/jfc|JFC]] は国の政策金融機関であり、信用保険と再保険層を運営しています。東京 CGC は、借り手側の地元企業層です。
+- **JFC ではありません**: [[financial-regulators/jfc|JFC]] は国の政策金融機関であり、信用保険と再保険層を運営しています。東京 CGC は、借り手側の地元企業層です。
 - **連合ではありません**: [[policy-finance/national-federation-credit-guarantee-corporations|JFG]] は 51 corporations を調整します。東京CGCはその連盟の会員の一つです。
 
 ## 6. 未解決の論点
@@ -70,7 +70,7 @@ translated_at: 2026-06-03T00:53:08.299Z
 - 東京の中小企業銀行の融資のうち、東京信用保証協会の保証による割合は平均してどのくらいですか。また、その割合は業種によってどのように異なりますか。
 - パンデミック特別保証（実質無利子・無担保プログラム）は、2022～2024における東京CGCの代位プロファイルをどのように再形成したのでしょうか？
 - 中小企業承継（事業承継）が東京 CGC の保証簿に及ぼす長期的な影響はどのようなものですか — 承継関連保証と通常の運転資金の比較。
-- 東京のサービス/小売/接客業の倒産率の傾向は、[[JapanFG/jfc|JFC]]を通じた長期再保険の価格設定にどのような影響を及ぼしますか?
+- 東京のサービス/小売/接客業の倒産率の傾向は、[[financial-regulators/jfc|JFC]]を通じた長期再保険の価格設定にどのような影響を及ぼしますか?
 
 ## 関連項目
 
@@ -79,10 +79,10 @@ translated_at: 2026-06-03T00:53:08.299Z
 - [[policy-finance/national-federation-credit-guarantee-corporations]]
 - [[policy-finance/japan-policy-finance-system]]
 - [[policy-finance/osaka-credit-guarantee-corp]]
-- [[JapanFG/jfc]]
-- [[JapanFG/mufg]]
-- [[JapanFG/smfg]]
-- [[JapanFG/mizuho-fg]]
+- [[financial-regulators/jfc]]
+- [[megabanks/mufg]]
+- [[megabanks/smfg]]
+- [[megabanks/mizuho-fg]]
 - [[banking/shinkin-bank-registry-japan]]
 - [[banking/credit-cooperative-registry-japan]]
 - [[INDEX|FinWiki index]]

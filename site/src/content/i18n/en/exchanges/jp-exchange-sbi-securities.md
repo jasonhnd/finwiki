@@ -126,7 +126,7 @@ System failures, administrative dispositions, major incidents: No significant ca
 - [[fintech/japan-stablecoin-regulatory-landscape]] — Related stablecoin regime
 - [[fintech/jp-trust-type-sc-architecture]] — Related SC regime
 - [[fintech/japan-bittrade-listing-process]] — General discussion of the listing process
-- [[JapanFG/sbi-securities]] — JapanFG SBI Securities profile
+- [[securities-firms/sbi-securities]] — JapanFG SBI Securities profile
 - [[exchanges/btc-spot-etf-japan-impact]] — BTC spot ETF Japan impact
 - [[exchanges/jp-vasp-derivative-license-system]] — JP VASP derivatives license system
 

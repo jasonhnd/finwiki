@@ -27,7 +27,7 @@ sources:
 
 ## TL;DR
 
-Japanese securitization deals can use either an SPV (TK-GK, TMK, etc.) or a trust beneficial interest (信託受益権) as the issuance vehicle. Trust beneficial interest is its own securitization vehicle, not just a wrapper: the originator transfers assets to a trust, the trust holds the assets, and trust beneficial interest is divided into tranches and sold to investors. The choice between trust and SPV depends on tax treatment, off-balance-sheet criteria, asset class fit, and the role of trust banks like [[JapanFG/sumitomo-mitsui-trust]] as trustees. Some deals use dual-listed structures combining trust + SPV. Use this page for the trust-vs-SPV choice tree; pair with [[structured-finance/spv-tk-gk-vehicle-japan-tax]] for the SPV side.
+Japanese securitization deals can use either an SPV (TK-GK, TMK, etc.) or a trust beneficial interest (信託受益権) as the issuance vehicle. Trust beneficial interest is its own securitization vehicle, not just a wrapper: the originator transfers assets to a trust, the trust holds the assets, and trust beneficial interest is divided into tranches and sold to investors. The choice between trust and SPV depends on tax treatment, off-balance-sheet criteria, asset class fit, and the role of trust banks like [[trust-banks/sumitomo-mitsui-trust]] as trustees. Some deals use dual-listed structures combining trust + SPV. Use this page for the trust-vs-SPV choice tree; pair with [[structured-finance/spv-tk-gk-vehicle-japan-tax]] for the SPV side.
 
 ## Wiki route
 
@@ -45,7 +45,7 @@ Japanese securitization deals can use either an SPV (TK-GK, TMK, etc.) or a trus
 | Element | Description |
 |---|---|
 | Trust | A formal trust under the Trust Act, with trustee, beneficiary, and trust assets |
-| Trustee | Trust bank ([[JapanFG/sumitomo-mitsui-trust]], Mitsubishi UFJ Trust, Mizuho Trust, etc.) |
+| Trustee | Trust bank ([[trust-banks/sumitomo-mitsui-trust]], Mitsubishi UFJ Trust, Mizuho Trust, etc.) |
 | Trust assets | The securitized asset pool transferred from originator |
 | Beneficiary interest | Divided into senior, mezz, subordinated tranches |
 | Beneficiary | Investor; holds trust beneficial interest as a financial product |
@@ -90,7 +90,7 @@ Multi-asset trusts are less common in Japan than single-asset; the conduit model
 
 | Reason | Detail |
 |---|---|
-| Trust bank infrastructure | [[JapanFG/sumitomo-mitsui-trust]] and other trust banks have ready-made trustee operations |
+| Trust bank infrastructure | [[trust-banks/sumitomo-mitsui-trust]] and other trust banks have ready-made trustee operations |
 | Asset transfer simplicity | Trust transfer for receivables is well-established legally |
 | Tax transparency | Trust beneficial interest is look-through for tax purposes |
 | Servicer continuity | Originator typically retains servicing, with trustee oversight |
@@ -161,7 +161,7 @@ Both vehicles can be private placements to qualified institutional investors wit
 - [[structured-finance/auto-loan-abs-japan-toyota-honda]]
 - [[structured-finance/consumer-loan-abs-japan-card-issuer]]
 - [[structured-finance/credit-rating-methodology-jcr-r-and-i]]
-- [[JapanFG/sumitomo-mitsui-trust]]
+- [[trust-banks/sumitomo-mitsui-trust]]
 - [[banking/INDEX]]
 - [[banking/master-trust-bank-operating-model]]
 

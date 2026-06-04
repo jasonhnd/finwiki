@@ -24,7 +24,7 @@ sources:
 
 ## TL;DR
 
-Seven & i is a convenience-store-centered retail platform whose finance stack is anchored by **[[JapanFG/seven-bank|Seven Bank]] ATM infrastructure**, Seven Card Service, and nanaco. In JapanFG terms, Seven & i is less a universal financial group and more a **retail infrastructure owner**: high-frequency convenience-store traffic turns ATMs, prepaid money, cards, and data into finance-adjacent assets.
+Seven & i is a convenience-store-centered retail platform whose finance stack is anchored by **[[regional-banks/seven-bank|Seven Bank]] ATM infrastructure**, Seven Card Service, and nanaco. In JapanFG terms, Seven & i is less a universal financial group and more a **retail infrastructure owner**: high-frequency convenience-store traffic turns ATMs, prepaid money, cards, and data into finance-adjacent assets.
 
 ## Structure
 
@@ -32,7 +32,7 @@ Seven & i is a convenience-store-centered retail platform whose finance stack is
 |---|---|---|
 | Seven & i Holdings | Pure holding company centered on convenience-store business | Controls the retail footprint that makes finance distribution valuable |
 | 7-Eleven Japan | Convenience-store traffic and cash-handling node | Drives ATM, payment, nanaco, and consumer campaign frequency |
-| [[JapanFG/seven-bank|Seven Bank]] | ATM platform bank | 28,000+ ATM infrastructure, bank account services, overseas cards, B2B cash services |
+| [[regional-banks/seven-bank|Seven Bank]] | ATM platform bank | 28,000+ ATM infrastructure, bank account services, overseas cards, B2B cash services |
 | Seven Card Service | Credit card / nanaco service layer | Card spend, nanaco point, retail loyalty, group payment |
 | nanaco | Prepaid electronic money and point program | Store-linked payment and loyalty rail |
 | Seven Payment Service | ATM receipt / cash collection and B2B cash-adjacent services | Converts ATM footprint into corporate and government payout infrastructure |
@@ -61,14 +61,14 @@ This differs from [[retail/aeon-group|AEON]], where the key asset is mall / supe
 | Competitor | Seven & i contrast |
 |---|---|
 | [[retail/aeon-group|AEON]] | AEON has broader financial services; Seven has stronger convenience-store and ATM intensity. |
-| [[JapanFG/lawson-bank|Lawson Bank]] | Both are convenience-store ATM banks; Seven Bank has older scale and broader platform identity. |
-| [[JapanFG/paypay-fg|PayPay FG]] | PayPay is app-first; Seven is store / ATM-first. Cooperation and competition can coexist. |
-| [[JapanFG/rakuten-fg|Rakuten FG]] | Rakuten monetizes online membership; Seven monetizes physical convenience traffic. |
+| [[regional-banks/lawson-bank|Lawson Bank]] | Both are convenience-store ATM banks; Seven Bank has older scale and broader platform identity. |
+| [[megabanks/paypay-fg|PayPay FG]] | PayPay is app-first; Seven is store / ATM-first. Cooperation and competition can coexist. |
+| [[payment-firms/rakuten-fg|Rakuten FG]] | Rakuten monetizes online membership; Seven monetizes physical convenience traffic. |
 | Megabanks | Megabanks can shrink branch / ATM footprints while relying on Seven Bank as access infrastructure. |
 
 ## Regulatory / Legal Reading
 
-- Seven Bank is a bank, so the banking layer belongs in [[JapanFG/seven-bank|Seven Bank]] and [[JapanFG/legal-financial-licenses/INDEX|legal / financial licenses]].
+- Seven Bank is a bank, so the banking layer belongs in [[regional-banks/seven-bank|Seven Bank]] and [[financial-licenses/INDEX|legal / financial licenses]].
 - nanaco is prepaid electronic money / point infrastructure, so it belongs near [[payments/cashless-jp-landscape|cashless payments]] and [[loyalty/japan-points-landscape|points landscape]].
 - Credit card and installment economics should be checked under card / installment-sales routes.
 - ATM receipt and corporate payout products need funds-transfer / agency / bank-service boundary checks depending on product structure.
@@ -82,12 +82,12 @@ The long-term issue is whether this store / ATM infrastructure becomes less valu
 ## Related
 
 - [[retail/INDEX|retail INDEX]]
-- [[JapanFG/seven-bank|Seven Bank]]
+- [[regional-banks/seven-bank|Seven Bank]]
 - [[payments/cashless-jp-landscape|Japan cashless payment landscape]]
 - [[loyalty/japan-points-landscape|Japan points landscape]]
 - [[retail/aeon-group|AEON Group]]
-- [[JapanFG/lawson-bank|Lawson Bank]]
-- [[JapanFG/legal-financial-licenses/INDEX|JapanFG legal / financial licenses]]
+- [[regional-banks/lawson-bank|Lawson Bank]]
+- [[financial-licenses/INDEX|JapanFG legal / financial licenses]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

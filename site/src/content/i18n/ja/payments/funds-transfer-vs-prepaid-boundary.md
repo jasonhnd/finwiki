@@ -57,9 +57,9 @@ FSA は、前払式支払手段を、商品券、ギフトカード、磁気 / I
 
 | 商品表面 | あり得る法的レイヤー |
 |---|---|
-| コード決済アプリ | 資金移動残高、前払残高、クレジットカード、銀行デビット、ポイント、クーポン (例: [[JapanFG/paypay|PayPay]]、[[JapanFG/kyash|Kyash]])。 |
+| コード決済アプリ | 資金移動残高、前払残高、クレジットカード、銀行デビット、ポイント、クーポン (例: [[payment-firms/paypay|PayPay]]、[[payment-firms/kyash|Kyash]])。 |
 | 小売系電子マネー | 前払式支払手段、ロイヤルティポイント、加盟店精算契約。 |
-| マーケットプレイス・ウォレット | 売上金支払い用の資金移動残高、購入用の前払クレジット、エスクロー / 精算機能 ([[JapanFG/merpay|Merpay]] と比較)。 |
+| マーケットプレイス・ウォレット | 売上金支払い用の資金移動残高、購入用の前払クレジット、エスクロー / 精算機能 ([[payment-firms/merpay|Merpay]] と比較)。 |
 | ゲーム / アプリ内クレジット | サーバー型前払式支払手段、販促ポイント、プラットフォーム手数料経済。 |
 | ステーブルコイン / EPI ブリッジ | 電子決済手段、資金移動ルート、信託ルート、暗号資産 / ECISB 境界 ([[fintech/japan-ecisb-license|Japan ECISB license]] 参照)。 |
 
@@ -79,7 +79,7 @@ FSA は、前払式支払手段を、商品券、ギフトカード、磁気 / I
 - [[loyalty/japan-points-landscape]]
 - [[fintech/japan-epi-three-types-overview]]
 - [[fintech/japan-ecisb-license]]
-- [[JapanFG/legal-financial-licenses/INDEX]]
+- [[financial-licenses/INDEX]]
 - [[INDEX|FinWiki index]]
 
 ## 出典

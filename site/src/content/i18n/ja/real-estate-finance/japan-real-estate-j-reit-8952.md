@@ -29,8 +29,8 @@ translated_at: 2026-06-03T00:53:08.352Z
 | スポンサー | [[real-estate-finance/mitsubishi-estate-financing-model|Mitsubishi Estate]]（TSE Prime 8802） |
 | 上場日 | 2001 年9月（NBF と同時に最初期上場） |
 | 資産フォーカス | オフィスビル — 丸の内を強いアンカーとする東京 CBD 中心 |
-| 資産保管受託者 | 信託銀行受託者 — 物件により[[JapanFG/mitsubishi-ufj-trust-bank|MUFG Trust]] / [[JapanFG/sumitomo-mitsui-trust|SMTB]] / [[JapanFG/mizuho-trust-bank|Mizuho Trust]]が異なる |
-| 格付 | [[JapanFG/jcr|JCR]] / [[JapanFG/rating-and-investment|R&I]]による高い投資適格。国内格付では AA ゾーンが典型 |
+| 資産保管受託者 | 信託銀行受託者 — 物件により[[trust-banks/mitsubishi-ufj-trust-bank|MUFG Trust]] / [[trust-banks/sumitomo-mitsui-trust|SMTB]] / [[trust-banks/mizuho-trust-bank|Mizuho Trust]]が異なる |
+| 格付 | [[financial-regulators/jcr|JCR]] / [[financial-regulators/rating-and-investment|R&I]]による高い投資適格。国内格付では AA ゾーンが典型 |
 | 指数組入れ | TSE REIT Index、TSE REIT Office Index、GPR / FTSE EPRA Nareit Developed Asia |
 
 ## 2. ポートフォリオ構成
@@ -51,7 +51,7 @@ translated_at: 2026-06-03T00:53:08.352Z
 | 項目 | JRE のパターン |
 |---|---|
 | LTV 方針帯 | 保守的 — 通常は低位から中位の40%台 |
-| 債務構成 | 銀行借入（メガバンク + 信託銀行シンジケート。三菱グループとの関係から[[JapanFG/mufg-bank|MUFG Bank]]が主導することが多い）と投資法人債 |
+| 債務構成 | 銀行借入（メガバンク + 信託銀行シンジケート。三菱グループとの関係から[[megabanks/mufg-bank|MUFG Bank]]が主導することが多い）と投資法人債 |
 | 債券カーブ | AA ゾーンの国内格付によるタイトなスプレッド。NBF と並ぶオフィス J-REIT セグメントのベンチマーク発行体 |
 | スポンサーサポート持分 | Mitsubishi Estate がスポンサーサポートとして投資口保有を維持（通常は一桁%） |
 | 分配方針 | 半期 DPU。J-REIT の90%パススルー |
@@ -86,7 +86,7 @@ translated_at: 2026-06-03T00:53:08.352Z
 
 丸の内は、いくつかの構造的特徴を持つ独立した東京オフィスサブマーケットである。
 
-- メガバンク本社（隣接する大手町の[[JapanFG/mufg-bank|MUFG Bank]]、[[JapanFG/mizuho-bank|Mizuho Bank]]本社）、大手生命保険会社本社、主要日本企業本社の集積。
+- メガバンク本社（隣接する大手町の[[megabanks/mufg-bank|MUFG Bank]]、[[megabanks/mizuho-bank|Mizuho Bank]]本社）、大手生命保険会社本社、主要日本企業本社の集積。
 - 丸の内アンカー地所周辺における、実質的に単一地主の所有パターン（Mitsubishi Estate が支配的）。
 - トロフィー資産としての性格から、より広い東京 CBD よりキャップレートがタイトに振る舞うことが多い。
 - 住所のプレステージと集積効果により、テナント維持率が構造的に高い。
@@ -111,7 +111,7 @@ translated_at: 2026-06-03T00:53:08.352Z
 - [[real-estate-finance/j-reit-dividend-yield-vs-jgb-spread|J-REIT dividend yield vs JGB spread]]
 - [[real-estate-finance/logistics-j-reit-vs-office-j-reit-asset-class-comparison|logistics J-REIT vs office J-REIT comparison]]
 - [[banking/trust-bank-custody-operating-comparison|trust bank custody operating comparison]]
-- [[JapanFG/mufg-bank|MUFG Bank]]
+- [[megabanks/mufg-bank|MUFG Bank]]
 - [[INDEX|FinWiki index]]
 
 ## 出典

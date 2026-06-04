@@ -52,7 +52,7 @@ JSCC operates designated clearing services for OTC derivatives in Japan. The cur
 
 The **clearing-mandate scope is FIEA-defined**: not every OTC derivative trade between every Japanese counterparty must clear. Scope is determined by:
 
-- **Counterparty category** — major dealer banks ([[JapanFG/mufg-bank|MUFG]], [[JapanFG/sumitomo-mitsui-banking-corp|SMBC]], [[JapanFG/mizuho-bank|Mizuho]], etc.), large insurance companies, large asset managers, and other systemically important entities are in scope; smaller end-users may be out of scope;
+- **Counterparty category** — major dealer banks ([[megabanks/mufg-bank|MUFG]], [[megabanks/sumitomo-mitsui-banking-corp|SMBC]], [[megabanks/mizuho-bank|Mizuho]], etc.), large insurance companies, large asset managers, and other systemically important entities are in scope; smaller end-users may be out of scope;
 - **Product standardization** — the specific contract terms (currency, floating-rate index, maturity, day count, payment frequency) must match a JSCC-clearable contract specification;
 - **Notional threshold** — counterparty-aggregate notional thresholds determine which entities are subject to mandatory clearing.
 
@@ -136,7 +136,7 @@ EMIR and Title-VII equivalence are **a non-trivial regulatory achievement** for 
 - Duplicate reporting obligations to both Japan TRs and EU / US TRs;
 - Trading-venue restrictions limiting access to Japan execution platforms.
 
-Equivalence preserves Japan's position as a **fully integrated G20 OTC derivatives jurisdiction** and is one of the structural reasons foreign dealer banks ([[JapanFG/goldman-sachs-japan|GS]], [[JapanFG/morgan-stanley-japan|MS]], [[JapanFG/jpmorgan-japan|JPM]], [[JapanFG/citigroup-japan|Citi]]) maintain full Tokyo dealer operations.
+Equivalence preserves Japan's position as a **fully integrated G20 OTC derivatives jurisdiction** and is one of the structural reasons foreign dealer banks ([[securities-firms/goldman-sachs-japan|GS]], [[securities-firms/morgan-stanley-japan|MS]], [[foreign-financial-institutions/jpmorgan-japan|JPM]], [[foreign-financial-institutions/citigroup-japan|Citi]]) maintain full Tokyo dealer operations.
 
 ## Dispute resolution
 
@@ -177,18 +177,18 @@ When citing notional vs gross market value, separate the two clearly — notiona
 - [[securities/osaka-exchange]]
 - [[securities/tokyo-stock-exchange]]
 - [[securities/japan-prime-brokerage-and-institutional-financing-matrix]]
-- [[JapanFG/japan-exchange-group]]
-- [[JapanFG/mufg-bank]]
-- [[JapanFG/sumitomo-mitsui-banking-corp]]
-- [[JapanFG/mizuho-bank]]
-- [[JapanFG/nomura-hd]]
-- [[JapanFG/daiwa-sg]]
-- [[JapanFG/smbc-nikko]]
-- [[JapanFG/mizuho-securities]]
-- [[JapanFG/goldman-sachs-japan]]
-- [[JapanFG/morgan-stanley-japan]]
-- [[JapanFG/jpmorgan-japan]]
-- [[JapanFG/citigroup-japan]]
+- [[financial-regulators/japan-exchange-group]]
+- [[megabanks/mufg-bank]]
+- [[megabanks/sumitomo-mitsui-banking-corp]]
+- [[megabanks/mizuho-bank]]
+- [[securities-firms/nomura-hd]]
+- [[securities-firms/daiwa-sg]]
+- [[securities-firms/smbc-nikko]]
+- [[securities-firms/mizuho-securities]]
+- [[securities-firms/goldman-sachs-japan]]
+- [[securities-firms/morgan-stanley-japan]]
+- [[foreign-financial-institutions/jpmorgan-japan]]
+- [[foreign-financial-institutions/citigroup-japan]]
 - [[finance/japan-listed-financial-groups-investable-universe]]
 - [[INDEX|FinWiki index]]
 

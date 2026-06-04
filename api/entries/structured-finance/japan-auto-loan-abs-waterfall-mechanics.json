@@ -64,15 +64,13 @@
   "body_links": {
     "wikilinks_count": 20,
     "wikilinks": [
-      "JapanFG/mizuho-securities",
-      "JapanFG/mufg-securities",
-      "JapanFG/nochu-trust-bank",
-      "JapanFG/orico",
-      "JapanFG/smbc-nikko",
-      "JapanFG/sumitomo-mitsui-auto-service",
-      "JapanFG/sumitomo-mitsui-trust",
-      "JapanFG/toyota-finance",
-      "JapanFG/toyota-financial",
+      "card-issuers/orico",
+      "card-issuers/toyota-finance",
+      "leasing-firms/sumitomo-mitsui-auto-service",
+      "leasing-firms/toyota-financial",
+      "securities-firms/mizuho-securities",
+      "securities-firms/mufg-securities",
+      "securities-firms/smbc-nikko",
       "structured-finance/INDEX",
       "structured-finance/auto-loan-abs-japan-toyota-honda",
       "structured-finance/credit-rating-methodology-jcr-r-and-i",
@@ -83,18 +81,18 @@
       "structured-finance/japan-securitization-product-matrix",
       "structured-finance/japan-trust-beneficial-interest-vs-spv",
       "structured-finance/jcr-ri-japan-securitization-rating-methodology-operating-playbook",
-      "structured-finance/spv-tk-gk-vehicle-japan-tax"
+      "structured-finance/spv-tk-gk-vehicle-japan-tax",
+      "trust-banks/nochu-trust-bank",
+      "trust-banks/sumitomo-mitsui-trust"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/mizuho-securities",
-      "https://finwiki.zksc.io/JapanFG/mufg-securities",
-      "https://finwiki.zksc.io/JapanFG/nochu-trust-bank",
-      "https://finwiki.zksc.io/JapanFG/orico",
-      "https://finwiki.zksc.io/JapanFG/smbc-nikko",
-      "https://finwiki.zksc.io/JapanFG/sumitomo-mitsui-auto-service",
-      "https://finwiki.zksc.io/JapanFG/sumitomo-mitsui-trust",
-      "https://finwiki.zksc.io/JapanFG/toyota-finance",
-      "https://finwiki.zksc.io/JapanFG/toyota-financial",
+      "https://finwiki.zksc.io/card-issuers/orico",
+      "https://finwiki.zksc.io/card-issuers/toyota-finance",
+      "https://finwiki.zksc.io/leasing-firms/sumitomo-mitsui-auto-service",
+      "https://finwiki.zksc.io/leasing-firms/toyota-financial",
+      "https://finwiki.zksc.io/securities-firms/mizuho-securities",
+      "https://finwiki.zksc.io/securities-firms/mufg-securities",
+      "https://finwiki.zksc.io/securities-firms/smbc-nikko",
       "https://finwiki.zksc.io/structured-finance/INDEX",
       "https://finwiki.zksc.io/structured-finance/auto-loan-abs-japan-toyota-honda",
       "https://finwiki.zksc.io/structured-finance/credit-rating-methodology-jcr-r-and-i",
@@ -105,15 +103,17 @@
       "https://finwiki.zksc.io/structured-finance/japan-securitization-product-matrix",
       "https://finwiki.zksc.io/structured-finance/japan-trust-beneficial-interest-vs-spv",
       "https://finwiki.zksc.io/structured-finance/jcr-ri-japan-securitization-rating-methodology-operating-playbook",
-      "https://finwiki.zksc.io/structured-finance/spv-tk-gk-vehicle-japan-tax"
+      "https://finwiki.zksc.io/structured-finance/spv-tk-gk-vehicle-japan-tax",
+      "https://finwiki.zksc.io/trust-banks/nochu-trust-bank",
+      "https://finwiki.zksc.io/trust-banks/sumitomo-mitsui-trust"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 17172,
-    "word_like_tokens": 2911,
+    "nonspace_chars": 17342,
+    "word_like_tokens": 2940,
     "inbound_wikilinks_count": 8,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-06-04"
   }
 }

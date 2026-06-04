@@ -21,23 +21,23 @@ au自分银行是 au 金融控股 100% 旗下的网络银行。2008-06-17 成立
 ## Structure
 
 - **Company**: au自分银行股份有限公司 / au Jibun Bank Corporation。
-- **Shareholder**: [[JapanFG/au-fh|au フィナンシャルホールディングス]] 100%。
+- **Shareholder**: [[megabanks/au-fh|au フィナンシャルホールディングス]] 100%。
 - **Regulatory identity**: 注册金融机构,关东财务局长(登金)第652号。
 - **Rating snapshot**: 截至 2026-03-05,公布的 R&I 发行体评级为 AA、JCR 发行体评级为 AA+。
 
 ## Strategic read
 
-au自分银行是「电信运营商经济圈的银行」的代表案例。其设计并非依靠银行单体的网点网络,而是与 au / KDDI 的客户基础、智能手机触点、[[JapanFG/au-fh|au FH]] 内的卡、证券、保险、支付联动,整合住房贷款、存款、支付。
+au自分银行是「电信运营商经济圈的银行」的代表案例。其设计并非依靠银行单体的网点网络,而是与 au / KDDI 的客户基础、智能手机触点、[[megabanks/au-fh|au FH]] 内的卡、证券、保险、支付联动,整合住房贷款、存款、支付。
 
 与 [[banking/rakuten-bank|楽天銀行]] 及 [[banking/paypay-bank|PayPay 銀行]] 相比,au自分银行的优势在于易于接入电信运营商既有的合约、身份核验、账单关系。另一方面,其性质不同于乐天市场或 PayPay 那样的高频 commerce / payment 触点。
 
 ## Related
 
-- [[JapanFG/au-fh]]
+- [[megabanks/au-fh]]
 - [[banking/rakuten-bank]]
 - [[banking/paypay-bank]]
-- [[JapanFG/sony-fg]]
-- [[JapanFG/ssnb]]
+- [[megabanks/sony-fg]]
+- [[regional-banks/ssnb]]
 
 ## Sources
 

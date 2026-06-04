@@ -1,0 +1,86 @@
+{
+  "schema_version": "1.0",
+  "slug": "regional-banks/mebuki-fg",
+  "source_path": "regional-banks/mebuki-fg.md",
+  "url": "https://finwiki.zksc.io/regional-banks/mebuki-fg",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/regional-banks/mebuki-fg.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/regional-banks/mebuki-fg.md",
+  "domain": "regional-banks",
+  "title": "めぶき FG (Mebuki FG)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "めぶき FG (Mebuki FG)",
+    "aliases": [
+      "Mebuki FG",
+      "Mebuki Financial Group",
+      "めぶきフィナンシャルグループ",
+      "株式会社めぶきフィナンシャルグループ"
+    ],
+    "domain": "regional-banks",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "regional-bank"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: めぶきフィナンシャルグループ (2026-05-19 抽出)",
+      "Wikipedia: 常陽銀行 (2026-05-19 抽出)",
+      "Wikipedia: 足利銀行 (2026-05-19 抽出)"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against ふくおか FG (FFG) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "めぶき FG (Mebuki FG)",
+    "Wiki route",
+    "TL;DR",
+    "1. 会社概要",
+    "主要子会社・持分",
+    "合併経緯・前身",
+    "重要年表 ^[extracted]",
+    "2. 事業セグメント・マップ",
+    "「メガリージョナルバンクグループ」志向",
+    "首都圏進出戦略"
+  ],
+  "body_links": {
+    "wikilinks_count": 11,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "banking/INDEX",
+      "concordia-fg",
+      "fukuoka-fg",
+      "mizuho-fg",
+      "mufg",
+      "regional-banks/chiba-bank",
+      "regional-banks/fukuoka-fg",
+      "resona-hd",
+      "sbi-hd",
+      "smfg"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/concordia-fg",
+      "https://finwiki.zksc.io/fukuoka-fg",
+      "https://finwiki.zksc.io/mizuho-fg",
+      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/regional-banks/chiba-bank",
+      "https://finwiki.zksc.io/regional-banks/fukuoka-fg",
+      "https://finwiki.zksc.io/resona-hd",
+      "https://finwiki.zksc.io/sbi-hd",
+      "https://finwiki.zksc.io/smfg"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3841,
+    "word_like_tokens": 631,
+    "inbound_wikilinks_count": 3,
+    "last_modified": "2026-06-04"
+  }
+}

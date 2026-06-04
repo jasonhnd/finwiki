@@ -14,7 +14,7 @@ translated_at: 2026-06-01T03:31:12.303Z
 
 This page records the public structure of Japan card merchant-fee and interchange-related disclosures. The scope is card merchant fee composition, issuer-fee / interchange disclosure, acquirer economics, and related public-policy materials. Broader merchant PSP pricing, settlement reserves, chargeback allocation, and gateway pricing are routed through [[payments/psp-merchant-settlement-risk|PSP merchant settlement risk]] and [[payments/card-acquiring-japan-stack|Japan card acquiring stack]].
 
-This page belongs to [[payments/INDEX|payments domain]] and links to [[payments/cashless-jp-landscape|Japan cashless payment landscape]], [[payments/japan-card-issuer-acquirer-processor-split|issuer / acquirer / processor split]], [[payments/japan-card-security-authentication-controls|card security and authentication controls]], [[payments/credit-purchase-card-operators-japan-index|credit / card registry]], [[payments/japan-code-payment-competitive-map|Japan code-payment competitive map]], [[payments/merchant-bank-pay-account-direct-acquiring|merchant bank-account direct acquiring]], and [[JapanFG/legal-financial-licenses/payment-license-stack|Japan payment license stack]].
+This page belongs to [[payments/INDEX|payments domain]] and links to [[payments/cashless-jp-landscape|Japan cashless payment landscape]], [[payments/japan-card-issuer-acquirer-processor-split|issuer / acquirer / processor split]], [[payments/japan-card-security-authentication-controls|card security and authentication controls]], [[payments/credit-purchase-card-operators-japan-index|credit / card registry]], [[payments/japan-code-payment-competitive-map|Japan code-payment competitive map]], [[payments/merchant-bank-pay-account-direct-acquiring|merchant bank-account direct acquiring]], and [[financial-licenses/payment-license-stack|Japan payment license stack]].
 
 ## Fee Component Map
 
@@ -72,8 +72,8 @@ The card-security route uses the Japan Consumer Credit Association guideline, PC
 
 ## JapanFG Operator Links
 
-- Major card issuers / acquirers: [[JapanFG/smbc-card]], [[JapanFG/mufg-nicos]], [[JapanFG/rakuten-card]], [[JapanFG/paypay-card]], [[JapanFG/aeon-financial-service]], [[JapanFG/jcb]].
-- Merchant PSP / gateway operators: [[JapanFG/gmo-payment-gateway]], [[JapanFG/gmo-epsilon]], [[JapanFG/sb-payment-service]], [[JapanFG/dg-financial-technology]], [[JapanFG/netstars]].
+- Major card issuers / acquirers: [[card-issuers/smbc-card]], [[card-issuers/mufg-nicos]], [[card-issuers/rakuten-card]], [[card-issuers/paypay-card]], [[card-issuers/aeon-financial-service]], [[card-issuers/jcb]].
+- Merchant PSP / gateway operators: [[payment-firms/gmo-payment-gateway]], [[payment-firms/gmo-epsilon]], [[payment-firms/sb-payment-service]], [[payment-firms/dg-financial-technology]], [[payment-firms/netstars]].
 - Credit / installment registry route: [[payments/credit-purchase-card-operators-japan-index]].
 
 ## Related
@@ -87,7 +87,7 @@ The card-security route uses the Japan Consumer Credit Association guideline, PC
 - [[payments/credit-purchase-card-operators-japan-index]]
 - [[payments/japan-code-payment-competitive-map]]
 - [[payments/merchant-bank-pay-account-direct-acquiring]]
-- [[JapanFG/legal-financial-licenses/payment-license-stack]]
+- [[financial-licenses/payment-license-stack]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

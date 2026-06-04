@@ -18,7 +18,7 @@ This page sits under [[finance/INDEX|finance domain]]. Read it with [[finance/ja
 
 This is a public-source route map for shareholder activism and engagement in Japan. It is not a stock-picking page. The useful control chain is TSE cost-of-capital pressure -> Corporate Governance Code -> Stewardship Code -> EDINET large-shareholding reports -> shareholder proposal rights -> AGM voting -> TDnet disclosure -> tender-offer rules.
 
-Use this page with [[finance/japan-tender-offer-process|Japan tender offer process]], [[finance/cross-border-m-a-japan|cross-border M&A Japan]], [[securities/tokyo-stock-exchange|Tokyo Stock Exchange]], [[JapanFG/japan-exchange-group|Japan Exchange Group]], and [[JapanFG/legal-financial-licenses/securities-license-stack|securities license stack]].
+Use this page with [[finance/japan-tender-offer-process|Japan tender offer process]], [[finance/cross-border-m-a-japan|cross-border M&A Japan]], [[securities/tokyo-stock-exchange|Tokyo Stock Exchange]], [[financial-regulators/japan-exchange-group|Japan Exchange Group]], and [[financial-licenses/securities-license-stack|securities license stack]].
 
 ## Public Playbook Stages
 
@@ -72,9 +72,9 @@ Use this page with [[finance/japan-tender-offer-process|Japan tender offer proce
 
 Japan financial-company activism often touches capital policy, listing status, bank relationships, securities adviser roles, and public-market infrastructure:
 
-- Infrastructure / regulator-adjacent anchors: [[JapanFG/japan-exchange-group|Japan Exchange Group]], [[JapanFG/jsda|JSDA]], [[securities/tokyo-stock-exchange|TSE]].
-- Advisers / brokers: [[JapanFG/nomura-hd|Nomura]], [[JapanFG/daiwa-sg|Daiwa Securities Group]], [[JapanFG/smbc-nikko|SMBC Nikko]], [[JapanFG/mizuho-securities|Mizuho Securities]], [[JapanFG/goldman-sachs-japan|Goldman Sachs Japan]], [[JapanFG/jpmorgan-japan|J.P. Morgan Japan]], [[JapanFG/morgan-stanley-japan|Morgan Stanley Japan]].
-- Finance / fintech cases that may intersect public-company control: [[JapanFG/sbi-hd|SBI HD]], [[JapanFG/sbi-shinsei-bank|SBI Shinsei Bank]], [[JapanFG/sony-fg|Sony FG]], [[JapanFG/wealthnavi|WealthNavi]].
+- Infrastructure / regulator-adjacent anchors: [[financial-regulators/japan-exchange-group|Japan Exchange Group]], [[financial-regulators/jsda|JSDA]], [[securities/tokyo-stock-exchange|TSE]].
+- Advisers / brokers: [[securities-firms/nomura-hd|Nomura]], [[securities-firms/daiwa-sg|Daiwa Securities Group]], [[securities-firms/smbc-nikko|SMBC Nikko]], [[securities-firms/mizuho-securities|Mizuho Securities]], [[securities-firms/goldman-sachs-japan|Goldman Sachs Japan]], [[foreign-financial-institutions/jpmorgan-japan|J.P. Morgan Japan]], [[securities-firms/morgan-stanley-japan|Morgan Stanley Japan]].
+- Finance / fintech cases that may intersect public-company control: [[megabanks/sbi-hd|SBI HD]], [[regional-banks/sbi-shinsei-bank|SBI Shinsei Bank]], [[megabanks/sony-fg|Sony FG]], [[payment-firms/wealthnavi|WealthNavi]].
 
 ## Red Flags / Caveats
 
@@ -103,9 +103,9 @@ Japan financial-company activism often touches capital policy, listing status, b
 - [[finance/japan-ib-league-table]]
 - [[securities/tokyo-stock-exchange]]
 - [[securities/japan-underwriting-market-structure]]
-- [[JapanFG/japan-exchange-group]]
-- [[JapanFG/legal-financial-licenses/securities-license-stack]]
-- [[JapanFG/sbi-hd]]
+- [[financial-regulators/japan-exchange-group]]
+- [[financial-licenses/securities-license-stack]]
+- [[megabanks/sbi-hd]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

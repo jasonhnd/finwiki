@@ -1,0 +1,89 @@
+{
+  "schema_version": "1.0",
+  "slug": "foreign-financial-institutions/jpmorgan-japan",
+  "source_path": "foreign-financial-institutions/jpmorgan-japan.md",
+  "url": "https://finwiki.zksc.io/foreign-financial-institutions/jpmorgan-japan",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/foreign-financial-institutions/jpmorgan-japan.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/foreign-financial-institutions/jpmorgan-japan.md",
+  "domain": "foreign-financial-institutions",
+  "title": "JP モルガン日本 (JPMorgan Japan)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "JP モルガン日本 (JPMorgan Japan)",
+    "aliases": [
+      "JPMorgan Japan",
+      "JP モルガン",
+      "JPM Japan",
+      "J.P. Morgan Japan",
+      "JP モルガン証券",
+      "J.P. Morgan Securities Japan"
+    ],
+    "domain": "foreign-financial-institutions",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "foreign-ib",
+      "banking"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: JPMorgan Chase / J.P. Morgan Securities Japan (公開情報)",
+      "JPMorgan Chase & Co. Annual Report (10-K, 2024 年度)",
+      "金融庁 登録金融機関・登録金融商品取引業者一覧"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against シティグループ・ジャパン (Citigroup Japan) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "JP モルガン日本 (JPMorgan Japan)",
+    "Wiki route",
+    "TL;DR",
+    "1. 親会社・グローバル構造",
+    "日本主要法人体制（4 軸）^[extracted]",
+    "戦前・戦後再進出",
+    "2000 年合弁構想（実現せず）",
+    "2008-2009 金融危機後の米国最大化",
+    "2014 年以降：国際 M&A アドバイザリー",
+    "2020-2024：機関投資家サービス・FX・固定収益で日本シェア拡大"
+  ],
+  "body_links": {
+    "wikilinks_count": 11,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "banking/INDEX",
+      "citigroup-japan",
+      "foreign-financial-institutions/citigroup-japan",
+      "goldman-sachs-japan",
+      "mizuho-fg",
+      "morgan-stanley-japan",
+      "mufg",
+      "ndfg",
+      "smfg",
+      "ubs-japan"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/citigroup-japan",
+      "https://finwiki.zksc.io/foreign-financial-institutions/citigroup-japan",
+      "https://finwiki.zksc.io/goldman-sachs-japan",
+      "https://finwiki.zksc.io/mizuho-fg",
+      "https://finwiki.zksc.io/morgan-stanley-japan",
+      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/ndfg",
+      "https://finwiki.zksc.io/smfg",
+      "https://finwiki.zksc.io/ubs-japan"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 4312,
+    "word_like_tokens": 736,
+    "inbound_wikilinks_count": 33,
+    "last_modified": "2026-06-04"
+  }
+}

@@ -61,13 +61,13 @@
     "wikilinks_count": 17,
     "wikilinks": [
       "INDEX",
-      "JapanFG/jbic",
-      "JapanFG/jfc",
-      "JapanFG/mizuho-fg",
-      "JapanFG/mufg",
-      "JapanFG/smfg",
       "banking/INDEX",
       "banking/regional-bank-consolidation-pattern",
+      "financial-regulators/jbic",
+      "financial-regulators/jfc",
+      "megabanks/mizuho-fg",
+      "megabanks/mufg",
+      "megabanks/smfg",
       "policy-finance/INDEX",
       "policy-finance/agriculture-credit-guarantee-system",
       "policy-finance/fisheries-credit-guarantee-system",
@@ -80,13 +80,13 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/jbic",
-      "https://finwiki.zksc.io/JapanFG/jfc",
-      "https://finwiki.zksc.io/JapanFG/mizuho-fg",
-      "https://finwiki.zksc.io/JapanFG/mufg",
-      "https://finwiki.zksc.io/JapanFG/smfg",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
+      "https://finwiki.zksc.io/financial-regulators/jbic",
+      "https://finwiki.zksc.io/financial-regulators/jfc",
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/smfg",
       "https://finwiki.zksc.io/policy-finance/INDEX",
       "https://finwiki.zksc.io/policy-finance/agriculture-credit-guarantee-system",
       "https://finwiki.zksc.io/policy-finance/fisheries-credit-guarantee-system",
@@ -101,9 +101,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 11293,
-    "word_like_tokens": 1811,
+    "nonspace_chars": 11357,
+    "word_like_tokens": 1815,
     "inbound_wikilinks_count": 28,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-04"
   }
 }

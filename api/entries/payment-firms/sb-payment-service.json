@@ -1,0 +1,83 @@
+{
+  "schema_version": "1.0",
+  "slug": "payment-firms/sb-payment-service",
+  "source_path": "payment-firms/sb-payment-service.md",
+  "url": "https://finwiki.zksc.io/payment-firms/sb-payment-service",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/payment-firms/sb-payment-service.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/payment-firms/sb-payment-service.md",
+  "domain": "payment-firms",
+  "title": "SBペイメントサービス (SB Payment Service)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "SBペイメントサービス (SB Payment Service)",
+    "aliases": [
+      "SB Payment Service",
+      "SBPS",
+      "SBペイメントサービス",
+      "SBペイメントサービス株式会社"
+    ],
+    "domain": "payment-firms",
+    "created": "2026-05-21",
+    "last_updated": "2026-05-21",
+    "last_tended": "2026-05-21",
+    "review_by": "2026-11-21",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "payments",
+      "psp",
+      "acquirer",
+      "merchant-services"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.sbpayment.co.jp/info/",
+      "https://www.sbpayment.co.jp/info/business/",
+      "https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against GMOイプシロン (GMO Epsilon) for peer / contrast context and payments index for the broader system / regulatory boundary.",
+  "headings": [
+    "SBペイメントサービス (SB Payment Service)",
+    "Wiki route",
+    "TL;DR",
+    "1. 法人・ライセンス境界",
+    "2. Business role",
+    "3. Why this standalone page matters",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 9,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "card-issuers/paypay-card",
+      "megabanks/paypay-fg",
+      "payment-firms/dg-financial-technology",
+      "payment-firms/gmo-epsilon",
+      "payment-firms/gmo-payment-gateway",
+      "payments/INDEX",
+      "payments/card-acquiring-japan-stack",
+      "payments/cashless-jp-landscape"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/card-issuers/paypay-card",
+      "https://finwiki.zksc.io/megabanks/paypay-fg",
+      "https://finwiki.zksc.io/payment-firms/dg-financial-technology",
+      "https://finwiki.zksc.io/payment-firms/gmo-epsilon",
+      "https://finwiki.zksc.io/payment-firms/gmo-payment-gateway",
+      "https://finwiki.zksc.io/payments/INDEX",
+      "https://finwiki.zksc.io/payments/card-acquiring-japan-stack",
+      "https://finwiki.zksc.io/payments/cashless-jp-landscape"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2149,
+    "word_like_tokens": 326,
+    "inbound_wikilinks_count": 21,
+    "last_modified": "2026-06-04"
+  }
+}

@@ -30,7 +30,7 @@ This entry sits under [[finance/INDEX|finance index]]. Read it against [[finance
 
 Japan investment-banking league tables are ranking tools, not ground truth. The result depends on the vendor, product category, eligible deal universe, announcement / completion date, role credit, and currency conversion. Use them to map competitive position and mandate access, but always record the source vendor and period.
 
-For FinWiki, this page is the interpretation layer for [[JapanFG/goldman-sachs-japan]], [[JapanFG/nomura-hd]], [[JapanFG/daiwa-sg]], [[JapanFG/smbc-nikko]], [[JapanFG/mizuho-securities]], and [[JapanFG/mufg-mums]].
+For FinWiki, this page is the interpretation layer for [[securities-firms/goldman-sachs-japan]], [[securities-firms/nomura-hd]], [[securities-firms/daiwa-sg]], [[securities-firms/smbc-nikko]], [[securities-firms/mizuho-securities]], and [[securities-firms/mufg-mums]].
 
 ## What Gets Ranked
 
@@ -47,13 +47,13 @@ For FinWiki, this page is the interpretation layer for [[JapanFG/goldman-sachs-j
 2. **Record the period**: fiscal year, calendar year, half year, quarter, YTD, announced, or completed.
 3. **Separate products**: M&A, ECM, DCM, and IPO underwriting reward different capabilities.
 4. **Separate adviser and bookrunner credit**: a bank may advise the board but not underwrite financing, or underwrite without advising on M&A.
-5. **Watch parent / JV attribution**: MUFG / Morgan Stanley Japan structures can split credit between [[JapanFG/mufg-mums]] and Morgan Stanley MUFG entities.
+5. **Watch parent / JV attribution**: MUFG / Morgan Stanley Japan structures can split credit between [[securities-firms/mufg-mums]] and Morgan Stanley MUFG entities.
 
 ## JapanFG Relevance
 
-- [[JapanFG/nomura-hd]] and [[JapanFG/daiwa-sg]]: independent Japanese securities groups.
-- [[JapanFG/smbc-nikko]], [[JapanFG/mizuho-securities]], [[JapanFG/mufg-mums]]: megabank-affiliated securities arms.
-- [[JapanFG/goldman-sachs-japan]], [[JapanFG/bank-of-america-japan]], and [[JapanFG/socgen-japan]]: foreign bank / foreign securities competition.
+- [[securities-firms/nomura-hd]] and [[securities-firms/daiwa-sg]]: independent Japanese securities groups.
+- [[securities-firms/smbc-nikko]], [[securities-firms/mizuho-securities]], [[securities-firms/mufg-mums]]: megabank-affiliated securities arms.
+- [[securities-firms/goldman-sachs-japan]], [[foreign-financial-institutions/bank-of-america-japan]], and [[foreign-financial-institutions/socgen-japan]]: foreign bank / foreign securities competition.
 - [[securities/INDEX|securities INDEX]] routes license / brokerage / NISA pages that explain distribution underneath capital markets.
 
 ## Decision Use
@@ -71,12 +71,12 @@ Use this page when asking:
 - [[finance/INDEX|finance INDEX]]
 - [[finance/cross-border-m-a-japan]]
 - [[securities/INDEX]]
-- [[JapanFG/goldman-sachs-japan]]
-- [[JapanFG/nomura-hd]]
-- [[JapanFG/daiwa-sg]]
-- [[JapanFG/smbc-nikko]]
-- [[JapanFG/mizuho-securities]]
-- [[JapanFG/mufg-mums]]
+- [[securities-firms/goldman-sachs-japan]]
+- [[securities-firms/nomura-hd]]
+- [[securities-firms/daiwa-sg]]
+- [[securities-firms/smbc-nikko]]
+- [[securities-firms/mizuho-securities]]
+- [[securities-firms/mufg-mums]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

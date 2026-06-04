@@ -185,7 +185,7 @@ J-REIT 框架要求治理分离：
 |资产管理人|独立资产管理公司（通常是发起人附属的）|
 |评估师|独立持牌不动产鉴定士/公司|
 |审计员|独立审计师|
-|信托银行托管人|持有信托财产 — 通常为 [[JapanFG/mitsubishi-ufj-trust-bank|MUFG Trust]]、[[JapanFG/sumitomo-mitsui-trust|SMTB]] 或 [[JapanFG/mizuho-trust-bank|Mizuho Trust]] |
+|信托银行托管人|持有信托财产 — 通常为 [[trust-banks/mitsubishi-ufj-trust-bank|MUFG Trust]]、[[trust-banks/sumitomo-mitsui-trust|SMTB]] 或 [[trust-banks/mizuho-trust-bank|Mizuho Trust]] |
 
 评估师由资产管理人聘请，但须独立于资产管理人、发起人及房产经济主体。评估师的姓名和方法的披露是强制性的。
 
@@ -219,9 +219,9 @@ J-REIT 框架要求治理分离：
 - [[policy-finance/INDEX]]
 - [[policy-finance/japan-housing-finance-agency]]
 - [[finance/INDEX]]
-- [[JapanFG/mitsubishi-ufj-trust-bank]]
-- [[JapanFG/sumitomo-mitsui-trust]]
-- [[JapanFG/mizuho-trust-bank]]
+- [[trust-banks/mitsubishi-ufj-trust-bank]]
+- [[trust-banks/sumitomo-mitsui-trust]]
+- [[trust-banks/mizuho-trust-bank]]
 - [[JapanFG/japan-real-estate-institute]]
 
 ## 来源

@@ -29,7 +29,7 @@ This entry sits under [[policy-finance/INDEX|policy-finance index]] as one of th
 
 ## TL;DR
 
-Fukuoka Credit Guarantee Corporation (福岡県信用保証協会) is the Fukuoka-prefecture member of Japan's 51-corporation local credit guarantee system. Its guarantee book is structurally important as the SME-finance anchor for Kyushu — Fukuoka prefecture concentrates Kyushu's largest population, financial-services center (Hakata / Tenjin), TSMC-anchored semiconductor cluster (Kitakyushu industrial belt + Kumamoto spillover), Hakata Port logistics, the inbound-tourism gateway to East Asia, and a major agriculture / food-processing tail. Dominant co-lending partners are [[JapanFG/fukuoka-bank|Fukuoka Bank ([[JapanFG/fukuoka-fg|Fukuoka FG]])]], [[JapanFG/nishi-nippon-city-bank|Nishi-Nippon City Bank ([[JapanFG/nishi-nippon-fhd|Nishi-Nippon FHD]])]], [[JapanFG/fukuoka-chuo-bank|Fukuoka Chuo Bank]], and a dense Kyushu shinkin / credit-cooperative network.
+Fukuoka Credit Guarantee Corporation (福岡県信用保証協会) is the Fukuoka-prefecture member of Japan's 51-corporation local credit guarantee system. Its guarantee book is structurally important as the SME-finance anchor for Kyushu — Fukuoka prefecture concentrates Kyushu's largest population, financial-services center (Hakata / Tenjin), TSMC-anchored semiconductor cluster (Kitakyushu industrial belt + Kumamoto spillover), Hakata Port logistics, the inbound-tourism gateway to East Asia, and a major agriculture / food-processing tail. Dominant co-lending partners are [[regional-banks/fukuoka-bank|Fukuoka Bank ([[regional-banks/fukuoka-fg|Fukuoka FG]])]], [[regional-banks/nishi-nippon-city-bank|Nishi-Nippon City Bank ([[regional-banks/nishi-nippon-fhd|Nishi-Nippon FHD]])]], [[regional-banks/fukuoka-chuo-bank|Fukuoka Chuo Bank]], and a dense Kyushu shinkin / credit-cooperative network.
 
 ## 1. 機関概要
 
@@ -42,7 +42,7 @@ Fukuoka Credit Guarantee Corporation (福岡県信用保証協会) is the Fukuok
 | 保証残高 | 兆円規模 — 連合会全国51協会中の上位 |
 | 加盟金融機関 | 約 30 行 (regional banks, megabank 県内 branch, shinkin, credit cooperatives) |
 | 連合会加盟 | Member of [[policy-finance/national-federation-credit-guarantee-corporations|全国信用保証協会連合会 (Japan Federation of Credit Guarantee Corporations)]] |
-| 信用保険 | Reinsured by [[JapanFG/jfc|JFC]] credit-insurance operations |
+| 信用保険 | Reinsured by [[financial-regulators/jfc|JFC]] credit-insurance operations |
 | 境界注記 | 福岡市・北九州市の政令指定都市 2 市を含む県全域を所管。但し北九州市は独自の指定都市信用保証協会は持たず、福岡県 CGC が一体管理 |
 
 ## 2. 主要保証商品
@@ -72,15 +72,15 @@ Fukuoka CGC also functionally serves as the **Kyushu-region SME-finance gravity 
 
 ## 4. Co-lending and JFC overlay
 
-Fukuoka CGC guarantees typically sit alongside loans from [[JapanFG/fukuoka-bank|Fukuoka Bank]] (the dominant regional bank, [[JapanFG/fukuoka-fg|Fukuoka FG]] holdco that also includes Kumamoto Bank, [[JapanFG/18-shinwa-bank|Eighteenth-Shinwa Bank]] of Nagasaki, and Minato Bank operations), [[JapanFG/nishi-nippon-city-bank|Nishi-Nippon City Bank]] (under [[JapanFG/nishi-nippon-fhd|Nishi-Nippon FHD]] / NNFH), and [[JapanFG/fukuoka-chuo-bank|Fukuoka Chuo Bank]] (smaller regional). The Kyushu shinkin and credit-cooperative network supplies the long SME tail. Megabank participation is material — [[JapanFG/mufg|MUFG]], [[JapanFG/smfg|SMFG]], and [[JapanFG/mizuho-fg|Mizuho]] all maintain Hakata / Tenjin branches serving mid-to-large SME and corporate clients.
+Fukuoka CGC guarantees typically sit alongside loans from [[regional-banks/fukuoka-bank|Fukuoka Bank]] (the dominant regional bank, [[regional-banks/fukuoka-fg|Fukuoka FG]] holdco that also includes Kumamoto Bank, [[regional-banks/18-shinwa-bank|Eighteenth-Shinwa Bank]] of Nagasaki, and Minato Bank operations), [[regional-banks/nishi-nippon-city-bank|Nishi-Nippon City Bank]] (under [[regional-banks/nishi-nippon-fhd|Nishi-Nippon FHD]] / NNFH), and [[regional-banks/fukuoka-chuo-bank|Fukuoka Chuo Bank]] (smaller regional). The Kyushu shinkin and credit-cooperative network supplies the long SME tail. Megabank participation is material — [[megabanks/mufg|MUFG]], [[megabanks/smfg|SMFG]], and [[megabanks/mizuho-fg|Mizuho]] all maintain Hakata / Tenjin branches serving mid-to-large SME and corporate clients.
 
 The [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]] is highly visible in Kyushu, with Fukuoka FG's multi-prefecture roll-up (Fukuoka + Kumamoto + Nagasaki) being one of the largest in-Japan regional-bank holdco constructions. Within Fukuoka prefecture itself the consolidation pressure is muted by the strong Hakata economic anchor.
 
-Public-finance co-lending routes through [[JapanFG/jfc|JFC]] (政府系金融機関) — JFC's SME and small-business arms co-lend with guarantee-backed regional-bank tranches, while JFC credit-insurance reinsures the guarantee layer. [[JapanFG/shoko-chukin|商工中金 (Shoko Chukin)]] participates in cooperative-organized SME groups, particularly around the semiconductor supplier cluster and food-export consortia.
+Public-finance co-lending routes through [[financial-regulators/jfc|JFC]] (政府系金融機関) — JFC's SME and small-business arms co-lend with guarantee-backed regional-bank tranches, while JFC credit-insurance reinsures the guarantee layer. [[financial-regulators/shoko-chukin|商工中金 (Shoko Chukin)]] participates in cooperative-organized SME groups, particularly around the semiconductor supplier cluster and food-export consortia.
 
 ## 5. 代位弁済と求償
 
-When a guaranteed Fukuoka SME defaults, Fukuoka CGC pays subrogation (代位弁済) to the lending financial institution under the guarantee contract, then pursues recovery (求償). Residual losses after recovery flow into the federation-pooled credit-insurance layer reinsured by [[JapanFG/jfc|JFC]], with [[policy-finance/national-federation-credit-guarantee-corporations|全国信用保証協会連合会]] coordinating loss-sharing across the 51 corporations.
+When a guaranteed Fukuoka SME defaults, Fukuoka CGC pays subrogation (代位弁済) to the lending financial institution under the guarantee contract, then pursues recovery (求償). Residual losses after recovery flow into the federation-pooled credit-insurance layer reinsured by [[financial-regulators/jfc|JFC]], with [[policy-finance/national-federation-credit-guarantee-corporations|全国信用保証協会連合会]] coordinating loss-sharing across the 51 corporations.
 
 Subrogation volume in Fukuoka has characteristic shock vectors: (1) inbound-tourism collapse (border closures, geopolitical tension with neighboring countries), (2) global semiconductor-cycle inversions (supplier base capex stress), (3) Kitakyushu heavy-industry demand cycles, and (4) Hakata Port traffic shocks. Recovery values in urban Fukuoka City are reasonable by Japanese regional-prefecture standards, supporting healthy 求償 recovery ratios.
 
@@ -94,7 +94,7 @@ Post-COVID normalization through 2023–2025 produced the expected wave of subro
 
 Within the [[policy-finance/japan-credit-guarantee-system|Japan credit guarantee system]] architecture, Fukuoka CGC sits in the top-five tier by guarantee balance and functions as the Kyushu-region SME-finance hub for the [[policy-finance/national-federation-credit-guarantee-corporations|全国信用保証協会連合会]] coordination layer. When the federation evaluates regional-anchor operational templates, Fukuoka CGC's multi-cluster book (semiconductor / logistics / inbound tourism / food / heavy industry) provides a useful reference for prefectures that combine industrial and tourism cyclicality with regional-hub responsibilities.
 
-The federation-pooled credit-insurance layer at [[JapanFG/jfc|JFC]] absorbs the residual loss after Fukuoka CGC's first-loss subrogation. The semiconductor-supplier capex tranche is operationally interesting because the TSMC-JASM Kumamoto investment's spillover into Fukuoka creates a guarantee segment with a different risk-cycle profile than the legacy Kitakyushu heavy-industry tail — semiconductor capex cycles can produce large swings within a single fiscal year, putting more weight on the federation reinsurance and JFC credit-insurance smoothing function. The [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]] visible in [[JapanFG/fukuoka-fg|Fukuoka FG]]'s multi-prefecture holdco shape adds a layer of complexity to clean prefectural attribution of guarantee-related risk.
+The federation-pooled credit-insurance layer at [[financial-regulators/jfc|JFC]] absorbs the residual loss after Fukuoka CGC's first-loss subrogation. The semiconductor-supplier capex tranche is operationally interesting because the TSMC-JASM Kumamoto investment's spillover into Fukuoka creates a guarantee segment with a different risk-cycle profile than the legacy Kitakyushu heavy-industry tail — semiconductor capex cycles can produce large swings within a single fiscal year, putting more weight on the federation reinsurance and JFC credit-insurance smoothing function. The [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]] visible in [[regional-banks/fukuoka-fg|Fukuoka FG]]'s multi-prefecture holdco shape adds a layer of complexity to clean prefectural attribution of guarantee-related risk.
 
 ## 8. Comparison with peer prefecture CGCs
 
@@ -104,8 +104,8 @@ The federation-pooled credit-insurance layer at [[JapanFG/jfc|JFC]] absorbs the 
 | Regional role | Kyushu SME-finance gravitational center for 7 prefectures | National hub | Northern primary-industry anchor |
 | Inbound-tourism geopolitical sensitivity | Very high (Korea / Taiwan / China gateway) | Moderate (global inbound) | Moderate (East Asia ski / nature inbound) |
 | Semiconductor exposure | New & growing (TSMC-JASM spillover) | Limited | Limited |
-| Dominant regional bank | [[JapanFG/fukuoka-bank|Fukuoka Bank]] / [[JapanFG/fukuoka-fg|Fukuoka FG]] dominant; [[JapanFG/nishi-nippon-city-bank|NNCB]] secondary | No regional bank dominance | [[JapanFG/hokkaido-bank|Hokkaido Bank]] / [[JapanFG/hokuyo-bank|Hokuyo Bank]] duopoly |
-| Multi-prefecture FG spillover | [[JapanFG/fukuoka-fg|Fukuoka FG]] holdco crosses 3 prefectures (Fukuoka + Kumamoto + Nagasaki) | n/a | [[JapanFG/hokuhoku-fg|Hokuhoku FG]] crosses Hokkaido + Hokuriku |
+| Dominant regional bank | [[regional-banks/fukuoka-bank|Fukuoka Bank]] / [[regional-banks/fukuoka-fg|Fukuoka FG]] dominant; [[regional-banks/nishi-nippon-city-bank|NNCB]] secondary | No regional bank dominance | [[regional-banks/hokkaido-bank|Hokkaido Bank]] / [[regional-banks/hokuyo-bank|Hokuyo Bank]] duopoly |
+| Multi-prefecture FG spillover | [[regional-banks/fukuoka-fg|Fukuoka FG]] holdco crosses 3 prefectures (Fukuoka + Kumamoto + Nagasaki) | n/a | [[regional-banks/hokuhoku-fg|Hokuhoku FG]] crosses Hokkaido + Hokuriku |
 
 This comparison illustrates Fukuoka CGC's distinctive position as a regional-finance hub rather than a single-prefecture book under the [[policy-finance/japan-credit-guarantee-system|Japan credit guarantee system]] framework.
 
@@ -118,14 +118,14 @@ This comparison illustrates Fukuoka CGC's distinctive position as a regional-fin
 - [[policy-finance/osaka-credit-guarantee-corp]]
 - [[policy-finance/aichi-credit-guarantee-corp]]
 - [[policy-finance/kanagawa-credit-guarantee-corp]]
-- [[JapanFG/jfc]]
-- [[JapanFG/shoko-chukin]]
-- [[JapanFG/fukuoka-bank]]
-- [[JapanFG/fukuoka-fg]]
-- [[JapanFG/nishi-nippon-city-bank]]
-- [[JapanFG/nishi-nippon-fhd]]
-- [[JapanFG/fukuoka-chuo-bank]]
-- [[JapanFG/18-shinwa-bank]]
+- [[financial-regulators/jfc]]
+- [[financial-regulators/shoko-chukin]]
+- [[regional-banks/fukuoka-bank]]
+- [[regional-banks/fukuoka-fg]]
+- [[regional-banks/nishi-nippon-city-bank]]
+- [[regional-banks/nishi-nippon-fhd]]
+- [[regional-banks/fukuoka-chuo-bank]]
+- [[regional-banks/18-shinwa-bank]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/shinkin-bank-registry-japan]]
 - [[banking/INDEX]]

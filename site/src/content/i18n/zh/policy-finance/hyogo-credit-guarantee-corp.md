@@ -15,7 +15,7 @@ translated_at: 2026-06-01T03:31:12.263Z
 
 ## 要点摘要
 
-兵库県信用保证协会是日本51法人地方信用保证体系的兵库县成员。兵库县凭借担保平衡跻身前十名联邦成员之列，因为兵库县集中了日本最多元化的重工业/机械中小企业基地——神户阪神钢铁和造船（神户制钢所、川崎重工、三菱重工神户工厂）、神户港集装箱/散货物流综合体、姬路和明石周围的精密机械和印刷机、播州纺织和皮革制品，以及田岛/淡路农村经济尾部。主要的共同贷款合作伙伴是 [[JapanFG/minato-bank|Minato Bank ([[JapanFG/smfg|SMFG]] 子公司）]]、[[JapanFG/tajima-bank|Tajima Bank]]、关西未来银行 / [[JapanFG/resona-hd|Resona Group]] 的存在，以及密集的兵库信用金 / 信用合作网络。
+兵库県信用保证协会是日本51法人地方信用保证体系的兵库县成员。兵库县凭借担保平衡跻身前十名联邦成员之列，因为兵库县集中了日本最多元化的重工业/机械中小企业基地——神户阪神钢铁和造船（神户制钢所、川崎重工、三菱重工神户工厂）、神户港集装箱/散货物流综合体、姬路和明石周围的精密机械和印刷机、播州纺织和皮革制品，以及田岛/淡路农村经济尾部。主要的共同贷款合作伙伴是 [[regional-banks/minato-bank|Minato Bank ([[megabanks/smfg|SMFG]] 子公司）]]、[[regional-banks/tajima-bank|Tajima Bank]]、关西未来银行 / [[megabanks/resona-hd|Resona Group]] 的存在，以及密集的兵库信用金 / 信用合作网络。
 
 ## 1。 机关概要
 
@@ -28,7 +28,7 @@ translated_at: 2026-06-01T03:31:12.263Z
 |保证余额|万亿日元规模——51全国协会名列前茅|
 |金融机构会员|关于30 行（地方银行、大型银行县分行、信用社、信用合作社） |
 |联合会会员| [[policy-finance/national-federation-credit-guarantee-corporations|全国信用保証協会連合会 (Japan Federation of Credit Guarantee Corporations)]] 会员 |
-|信用保险|由[[JapanFG/jfc|JFC]]信用保险业务再保险|
+|信用保险|由[[financial-regulators/jfc|JFC]]信用保险业务再保险|
 |边界注释|管辖范围包括神户市的政令市1 市在内的整个县。神户市没有自己的指定城市CGC，由兵库县CGC统一管理|
 
 ## 2。主要保修产品
@@ -56,15 +56,15 @@ translated_at: 2026-06-01T03:31:12.263Z
 
 ## 4。联合贷款和 JFC 叠加
 
-兵库 CGC 担保通常与 [[JapanFG/minato-bank|Minato Bank]]（占主导地位的地区银行，纳入关西未来金融集团框架的 [[JapanFG/smfg|SMFG]] 子公司）、[[JapanFG/tajima-bank|Tajima Bank]]（兵库北部地区银行）、关西未来银行（[[JapanFG/resona-hd|Resona HD]] 关西车辆）以及密集的兵库信用金/神户合作网络（神户合作信贷）的贷款并存。兵库信金、姬路信金等）。大型银行的存在很密集——考虑到住友关西的传统和港银行的所有权，[[JapanFG/smfg|SMFG]] 占据主导地位，而 [[JapanFG/mufg|MUFG]] 和 [[JapanFG/mizuho-fg|Mizuho]] 也经营着活跃的神户/姬路分行。
+兵库 CGC 担保通常与 [[regional-banks/minato-bank|Minato Bank]]（占主导地位的地区银行，纳入关西未来金融集团框架的 [[megabanks/smfg|SMFG]] 子公司）、[[regional-banks/tajima-bank|Tajima Bank]]（兵库北部地区银行）、关西未来银行（[[megabanks/resona-hd|Resona HD]] 关西车辆）以及密集的兵库信用金/神户合作网络（神户合作信贷）的贷款并存。兵库信金、姬路信金等）。大型银行的存在很密集——考虑到住友关西的传统和港银行的所有权，[[megabanks/smfg|SMFG]] 占据主导地位，而 [[megabanks/mufg|MUFG]] 和 [[megabanks/mizuho-fg|Mizuho]] 也经营着活跃的神户/姬路分行。
 
-[[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]] 在兵库县非常引人注目——Minato 银行并入 SMFG / Kansai Mirai 是由关西市场结构而非外围县压力推动的地区银行整合为大型银行集团的典型例子。 2018 Kansai Mirai Bank 合并（将 Kinki Osaka Bank + Kansai Urban Banking 与 Minato Bank 合并为 [[JapanFG/resona-hd|Resona]] / [[JapanFG/smfg|SMFG]] 交叉持股）重塑了兵库县中型银行担保贷款交易对手格局。
+[[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]] 在兵库县非常引人注目——Minato 银行并入 SMFG / Kansai Mirai 是由关西市场结构而非外围县压力推动的地区银行整合为大型银行集团的典型例子。 2018 Kansai Mirai Bank 合并（将 Kinki Osaka Bank + Kansai Urban Banking 与 Minato Bank 合并为 [[megabanks/resona-hd|Resona]] / [[megabanks/smfg|SMFG]] 交叉持股）重塑了兵库县中型银行担保贷款交易对手格局。
 
-通过 [[JapanFG/jfc|JFC]]（政府系金融机关）的公共财政联合贷款途径 — JFC 的中小企业和小型企业部门在神户和姬路拥有密集的贷款柜台； JFC信用保险对担保层进行再保险。 [[JapanFG/shoko-chukin|商工中金 (Shoko Chukin)]] 特别参与合作组织的重工业供应商联合体。
+通过 [[financial-regulators/jfc|JFC]]（政府系金融机关）的公共财政联合贷款途径 — JFC 的中小企业和小型企业部门在神户和姬路拥有密集的贷款柜台； JFC信用保险对担保层进行再保险。 [[financial-regulators/shoko-chukin|商工中金 (Shoko Chukin)]] 特别参与合作组织的重工业供应商联合体。
 
 ## 5。我爱你
 
-当有担保的兵库县中小企业发生违约时，兵库县CGC根据担保合同向贷款金融机构支付代位弁済，然后追偿。恢复后的剩余损失流入由[[JapanFG/jfc|JFC]]再保险的联邦汇集信用保险层，[[policy-finance/national-federation-credit-guarantee-corporations|全国信用保証協会連合会]]协调51 公司之间的损失分摊。
+当有担保的兵库县中小企业发生违约时，兵库县CGC根据担保合同向贷款金融机构支付代位弁済，然后追偿。恢复后的剩余损失流入由[[financial-regulators/jfc|JFC]]再保险的联邦汇集信用保险层，[[policy-finance/national-federation-credit-guarantee-corporations|全国信用保証協会連合会]]协调51 公司之间的损失分摊。
 
 兵库县的代位量具有特征性的冲击向量：（1）全球钢铁和造船周期倒挂（重工业供应商基地），（2）神户港交通冲击（物流中小企业），（3）播州当地工业衰退，世俗皮革和皮革（4）神户/淡路/有马/城崎集群的旅游业冲击。 1995 earthquake 恢复原则在操作上仍然具有相关性——兵库 CGC 的灾难响应协议是联邦参考模板。
 
@@ -77,7 +77,7 @@ translated_at: 2026-06-01T03:31:12.263Z
 
 在 [[policy-finance/japan-credit-guarantee-system|Japan credit guarantee system]] 架构中，兵库县 CGC 作为联邦救灾信用担保业务的参考模板，发挥着独特的理论作用。 1995 大阪神地震恢复建立了战后日本第一个大规模的县级CGC救灾保障计划，该操作模板后来被[[policy-finance/national-federation-credit-guarantee-corporations|全国信用保証協会連合会]]改编用于2011 东北地震响应、通过2010和2020的多台风和洪水事件响应以及COVID-19 特别保障计划。
 
-[[JapanFG/jfc|JFC]]的联邦联营信用保险层吸收了兵库CGC在责任共担制下首次代位损失后的剩余损失。救灾100%担保变体在标准责任分担违约之外运作，联邦再保险和JFC信用保险吸收了紧急计划中较大部分的损失。兵库CGC的重工业供应商代位权状况通过这个再保险层得到了部分平滑，因为重工业需求周期是全球性的而不是局部性的——由全球钢铁周期倒挂驱动的神户制钢所订单簿崩溃通过支持所有51 公司的[[JapanFG/jfc|JFC]]信用保险池扩散。
+[[financial-regulators/jfc|JFC]]的联邦联营信用保险层吸收了兵库CGC在责任共担制下首次代位损失后的剩余损失。救灾100%担保变体在标准责任分担违约之外运作，联邦再保险和JFC信用保险吸收了紧急计划中较大部分的损失。兵库CGC的重工业供应商代位权状况通过这个再保险层得到了部分平滑，因为重工业需求周期是全球性的而不是局部性的——由全球钢铁周期倒挂驱动的神户制钢所订单簿崩溃通过支持所有51 公司的[[financial-regulators/jfc|JFC]]信用保险池扩散。
 
 ## 8。与同级地市CGC的比较
 
@@ -87,7 +87,7 @@ translated_at: 2026-06-01T03:31:12.263Z
 |邻近地铁重叠 |毗邻大阪府——分享关西经济引力|关西经济重心 |毗邻东京——分享关东经济引力|
 |港口足迹|神户港（份额输给横滨/东京）|大阪港（相对于神户港，下降）|横滨+川崎港（增加份额）|
 |救灾原则| 1995 H阪神地震恢复可操作模板|不太突出的灾难历史|地震频发但历史灾害理论分量较低
-|占主导地位的区域银行| [[JapanFG/minato-bank|Minato Bank]]（SMFG子公司）|关西未来银行（[[JapanFG/resona-hd|Resona Group]]）； SMBC 历史 | [[JapanFG/yokohama-bank|Yokohama Bank]] (康科迪亚 FG) |
+|占主导地位的区域银行| [[regional-banks/minato-bank|Minato Bank]]（SMFG子公司）|关西未来银行（[[megabanks/resona-hd|Resona Group]]）； SMBC 历史 | [[regional-banks/yokohama-bank|Yokohama Bank]] (康科迪亚 FG) |
 |人口继承压力|高（阪神/播州创始人一代）|非常高（关西中小企业接班潮）|中等|
 
 这一比较说明了兵库 CGC 的工业带和港口概况与其较大的关西同行 [[policy-finance/osaka-credit-guarantee-corp|Osaka CGC]] 及其在关东的结构镜像 [[policy-finance/kanagawa-credit-guarantee-corp|Kanagawa CGC]] 的不同之处，尽管这三者都在相同的 [[policy-finance/japan-credit-guarantee-system|Japan credit guarantee system]] 机制下运行。
@@ -102,12 +102,12 @@ translated_at: 2026-06-01T03:31:12.263Z
 - [[policy-finance/aichi-credit-guarantee-corp]]
 - [[policy-finance/kanagawa-credit-guarantee-corp]]
 - [[policy-finance/fukuoka-credit-guarantee-corp]]
-- [[JapanFG/jfc]]
-- [[JapanFG/shoko-chukin]]
-- [[JapanFG/minato-bank]]
-- [[JapanFG/tajima-bank]]
-- [[JapanFG/smfg]]
-- [[JapanFG/resona-hd]]
+- [[financial-regulators/jfc]]
+- [[financial-regulators/shoko-chukin]]
+- [[regional-banks/minato-bank]]
+- [[regional-banks/tajima-bank]]
+- [[megabanks/smfg]]
+- [[megabanks/resona-hd]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/shinkin-bank-registry-japan]]
 - [[banking/INDEX]]

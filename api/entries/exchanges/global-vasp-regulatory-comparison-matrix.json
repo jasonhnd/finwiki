@@ -59,7 +59,6 @@
   "body_links": {
     "wikilinks_count": 20,
     "wikilinks": [
-      "JapanFG/legal-financial-licenses/INDEX",
       "exchanges/INDEX",
       "exchanges/coincheck-nem-hack-detailed-analysis",
       "exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis",
@@ -78,10 +77,10 @@
       "exchanges/uae-vara-licensing-overview",
       "exchanges/uk-fca-crypto-registration-overview",
       "exchanges/us-crypto-licensing-multi-layer-system",
+      "financial-licenses/INDEX",
       "fintech/global-stablecoin-regulatory-five-pole-matrix"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX",
       "https://finwiki.zksc.io/exchanges/INDEX",
       "https://finwiki.zksc.io/exchanges/coincheck-nem-hack-detailed-analysis",
       "https://finwiki.zksc.io/exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis",
@@ -100,15 +99,16 @@
       "https://finwiki.zksc.io/exchanges/uae-vara-licensing-overview",
       "https://finwiki.zksc.io/exchanges/uk-fca-crypto-registration-overview",
       "https://finwiki.zksc.io/exchanges/us-crypto-licensing-multi-layer-system",
+      "https://finwiki.zksc.io/financial-licenses/INDEX",
       "https://finwiki.zksc.io/fintech/global-stablecoin-regulatory-five-pole-matrix"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 11925,
-    "word_like_tokens": 2111,
+    "nonspace_chars": 11897,
+    "word_like_tokens": 2107,
     "inbound_wikilinks_count": 64,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-04"
   }
 }

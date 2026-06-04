@@ -1,0 +1,87 @@
+{
+  "schema_version": "1.0",
+  "slug": "foreign-financial-institutions/bank-of-america-japan",
+  "source_path": "foreign-financial-institutions/bank-of-america-japan.md",
+  "url": "https://finwiki.zksc.io/foreign-financial-institutions/bank-of-america-japan",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/foreign-financial-institutions/bank-of-america-japan.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/foreign-financial-institutions/bank-of-america-japan.md",
+  "domain": "foreign-financial-institutions",
+  "title": "バンク・オブ・アメリカ日本 (Bank of America Japan)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "バンク・オブ・アメリカ日本 (Bank of America Japan)",
+    "aliases": [
+      "bank-of-america-japan",
+      "Bank of America Japan",
+      "Bank of America, N.A., Tokyo Branch",
+      "BofA Securities Japan",
+      "BofA Japan",
+      "バンク・オブ・アメリカ 東京支店"
+    ],
+    "domain": "foreign-financial-institutions",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
+    "review_by": "2026-11-16",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "foreign-bank",
+      "foreign-ib",
+      "us"
+    ],
+    "status": "active",
+    "sources": [
+      "https://business.bofa.com/content/boaml/ja_jp/japan_overview.html?wcmmode=disabled",
+      "https://business.bofa.com/content/boaml/ja_jp/japan_overview/location.html",
+      "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.pdf"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against ソシエテ・ジェネラル日本 (Societe Generale Japan) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "バンク・オブ・アメリカ日本 (Bank of America Japan)",
+    "Wiki route",
+    "TL;DR",
+    "1. 会社概要",
+    "2. 事業セグメント・マップ",
+    "3. 戦略・競争",
+    "4. 規制・政策",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 10,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/INDEX",
+      "banking/INDEX",
+      "finance/INDEX",
+      "foreign-financial-institutions/citigroup-japan",
+      "foreign-financial-institutions/jpmorgan-japan",
+      "foreign-financial-institutions/socgen-japan",
+      "foreign-financial-institutions/wells-fargo-japan",
+      "securities-firms/goldman-sachs-japan",
+      "securities/INDEX"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/finance/INDEX",
+      "https://finwiki.zksc.io/foreign-financial-institutions/citigroup-japan",
+      "https://finwiki.zksc.io/foreign-financial-institutions/jpmorgan-japan",
+      "https://finwiki.zksc.io/foreign-financial-institutions/socgen-japan",
+      "https://finwiki.zksc.io/foreign-financial-institutions/wells-fargo-japan",
+      "https://finwiki.zksc.io/securities-firms/goldman-sachs-japan",
+      "https://finwiki.zksc.io/securities/INDEX"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3132,
+    "word_like_tokens": 479,
+    "inbound_wikilinks_count": 15,
+    "last_modified": "2026-06-04"
+  }
+}

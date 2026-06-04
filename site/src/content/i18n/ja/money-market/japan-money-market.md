@@ -25,10 +25,10 @@ translated_at: 2026-06-02T16:33:58.504Z
 
 | 層 | 機能 | FinWiki ルート |
 |---|---|---|
-| 政策決定 | 日銀政策委員会が金融政策決定会合で金融市場調節方針を決定する。 | [[JapanFG/boj-monetary-policy]] |
+| 政策決定 | 日銀政策委員会が金融政策決定会合で金融市場調節方針を決定する。 | [[financial-regulators/boj-monetary-policy]] |
 | 運用市場 | 短期金利形成、とくに無担保コール翌日物取引。 | [[money-market/call-market-structure]] |
 | 市場調節 | 日銀がオープンマーケット・オペレーションを通じて資金を供給または吸収する。 | [[money-market/boj-open-market-operations]] |
-| 仲介者 | 銀行、証券会社、信託銀行、短資会社が短期流動性を管理する。 | [[JapanFG/tokyo-tanshi]], [[JapanFG/central-tanshi]], [[JapanFG/ueda-yagi-tanshi]] |
+| 仲介者 | 銀行、証券会社、信託銀行、短資会社が短期流動性を管理する。 | [[financial-regulators/tokyo-tanshi]], [[financial-regulators/central-tanshi]], [[financial-regulators/ueda-yagi-tanshi]] |
 | データ層 | 日銀がコール市場データと市場調節結果を公表する。 | 日銀統計 / 市場調節関連公表 |
 
 ## 重要性
@@ -50,11 +50,11 @@ translated_at: 2026-06-02T16:33:58.504Z
 - [[money-market/INDEX|money-market INDEX]]
 - [[money-market/call-market-structure]]
 - [[money-market/boj-open-market-operations]]
-- [[JapanFG/boj-monetary-policy]]
-- [[JapanFG/tokyo-tanshi]]
-- [[JapanFG/central-tanshi]]
-- [[JapanFG/ueda-yagi-tanshi]]
-- [[JapanFG/legal-financial-licenses/INDEX]]
+- [[financial-regulators/boj-monetary-policy]]
+- [[financial-regulators/tokyo-tanshi]]
+- [[financial-regulators/central-tanshi]]
+- [[financial-regulators/ueda-yagi-tanshi]]
+- [[financial-licenses/INDEX]]
 - [[INDEX|FinWiki index]]
 
 ## 出典

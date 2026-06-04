@@ -1,0 +1,83 @@
+{
+  "schema_version": "1.0",
+  "slug": "trust-banks/capital-trust",
+  "source_path": "trust-banks/capital-trust.md",
+  "url": "https://finwiki.zksc.io/trust-banks/capital-trust",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/trust-banks/capital-trust.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/trust-banks/capital-trust.md",
+  "domain": "trust-banks",
+  "title": "Capital Trust / キャピタル信託",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Capital Trust / キャピタル信託",
+    "aliases": [
+      "キャピタル信託",
+      "キャピタル信託株式会社",
+      "Capital Trust",
+      "Apex Group Japan Trust",
+      "Sanne Group Japan Trust",
+      "ドイチェ信託"
+    ],
+    "domain": "trust-banks",
+    "created": "2026-05-22",
+    "last_updated": "2026-05-22",
+    "last_tended": "2026-05-22",
+    "review_by": "2026-11-22",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "trust-company",
+      "alternative-assets",
+      "securitization",
+      "public-source"
+    ],
+    "status": "active",
+    "sources": [
+      "FSA trust company list: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.xlsx",
+      "Capital Trust official site: https://www.captrustjp.com/",
+      "Capital Trust about page: https://www.captrustjp.com/about"
+    ]
+  },
+  "summary": "Wiki route: JapanFG/INDEX -> trust-banks/trust-companies-japan-index -> trust-banks/capital-trust",
+  "headings": [
+    "Capital Trust / キャピタル信託",
+    "Overview",
+    "Entity Boundary",
+    "Business Role Map",
+    "Public Context",
+    "Research Checklist",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 8,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/INDEX",
+      "finance/japan-acquisition-finance",
+      "securities/japan-market-infrastructure-map",
+      "trust-banks/asahi-trust",
+      "trust-banks/capital-trust",
+      "trust-banks/lombard-odier-trust",
+      "trust-banks/trust-companies-japan-index"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/finance/japan-acquisition-finance",
+      "https://finwiki.zksc.io/securities/japan-market-infrastructure-map",
+      "https://finwiki.zksc.io/trust-banks/asahi-trust",
+      "https://finwiki.zksc.io/trust-banks/capital-trust",
+      "https://finwiki.zksc.io/trust-banks/lombard-odier-trust",
+      "https://finwiki.zksc.io/trust-banks/trust-companies-japan-index"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2449,
+    "word_like_tokens": 376,
+    "inbound_wikilinks_count": 5,
+    "last_modified": "2026-06-04"
+  }
+}

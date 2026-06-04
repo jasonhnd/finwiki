@@ -21,11 +21,11 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 ## 基本模式
 
 ```
-银行（[[JapanFG/mufg|MUFG]] / [[JapanFG/smfg|SMFG/SMBC]] / 瑞穗等）
+银行（[[megabanks/mufg|MUFG]] / [[megabanks/smfg|SMFG/SMBC]] / 瑞穗等）
        ↓ SWIFT MT103 / ISO 20022 消息
 SWIFT API mock layer（Datachain）
        ↓ 解析 → 结算指令
-[[JapanFG/progmat|Progmat Coin]] 合约（信托型 SC）
+[[payment-firms/progmat|Progmat Coin]] 合约（信托型 SC）
        ↓ 链上交易
 IBC + LCP（跨链桥）
        ↓

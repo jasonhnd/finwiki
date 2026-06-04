@@ -72,7 +72,6 @@
     "wikilinks_count": 17,
     "wikilinks": [
       "INDEX",
-      "JapanFG/wealthnavi",
       "agent-economy/INDEX",
       "agent-economy/agent-actorship-debate",
       "agent-economy/agent-custody-and-authorization-framework-2026",
@@ -86,12 +85,12 @@
       "agent-economy/stripe-agent-toolkit-position",
       "fintech/INDEX",
       "fintech/aml-cft-fatf-grey-list-overview",
+      "payment-firms/wealthnavi",
       "security/fork-and-rebrand-5-layer-audit-framework",
       "security/module-path-confusion-supply-chain-attack"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/wealthnavi",
       "https://finwiki.zksc.io/agent-economy/INDEX",
       "https://finwiki.zksc.io/agent-economy/agent-actorship-debate",
       "https://finwiki.zksc.io/agent-economy/agent-custody-and-authorization-framework-2026",
@@ -105,6 +104,7 @@
       "https://finwiki.zksc.io/agent-economy/stripe-agent-toolkit-position",
       "https://finwiki.zksc.io/fintech/INDEX",
       "https://finwiki.zksc.io/fintech/aml-cft-fatf-grey-list-overview",
+      "https://finwiki.zksc.io/payment-firms/wealthnavi",
       "https://finwiki.zksc.io/security/fork-and-rebrand-5-layer-audit-framework",
       "https://finwiki.zksc.io/security/module-path-confusion-supply-chain-attack"
     ],
@@ -112,9 +112,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 19149,
-    "word_like_tokens": 3020,
+    "nonspace_chars": 19161,
+    "word_like_tokens": 3022,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-04"
   }
 }

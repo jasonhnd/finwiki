@@ -125,7 +125,7 @@ For Japan financial-institution CDS, the 2014 Definitions added a **Governmental
 | Resolution authority action | Transfer of obligations or imposition of haircut by competent authority |
 | Forced asset sale | Compelled disposal that constitutes credit-event equivalent |
 
-This is relevant for [[JapanFG/mufg|MUFG]], [[JapanFG/sumitomo-mitsui-banking-corp|SMBC]] (via SMFG), [[JapanFG/mizuho-bank|Mizuho]] (via Mizuho FG), and other Japan financial-institution CDS, where bank resolution under the Deposit Insurance Act and broader resolution framework matters for protection coverage.
+This is relevant for [[megabanks/mufg|MUFG]], [[megabanks/sumitomo-mitsui-banking-corp|SMBC]] (via SMFG), [[megabanks/mizuho-bank|Mizuho]] (via Mizuho FG), and other Japan financial-institution CDS, where bank resolution under the Deposit Insurance Act and broader resolution framework matters for protection coverage.
 
 ## ISDA Determinations Committee (DC) process
 
@@ -269,12 +269,12 @@ CLN issuance and hedging is a recurring driver of single-name CDS protection-buy
 - [[banking/INDEX]]
 - [[insurance/japan-life-insurance-alm-overview]]
 - [[securities/japan-prime-brokerage-and-institutional-financing]]
-- [[JapanFG/mufg]]
-- [[JapanFG/sumitomo-mitsui-banking-corp]]
-- [[JapanFG/mizuho-bank]]
-- [[JapanFG/nomura-hd]]
-- [[JapanFG/goldman-sachs-japan]]
-- [[JapanFG/morgan-stanley-japan]]
+- [[megabanks/mufg]]
+- [[megabanks/sumitomo-mitsui-banking-corp]]
+- [[megabanks/mizuho-bank]]
+- [[securities-firms/nomura-hd]]
+- [[securities-firms/goldman-sachs-japan]]
+- [[securities-firms/morgan-stanley-japan]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

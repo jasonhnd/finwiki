@@ -35,7 +35,7 @@ For FinWiki, AEON Mall matters as the **retail-asset-class anchor** of the [[rea
 
 ## Wiki route
 
-This entry sits under [[real-estate-finance/INDEX|real-estate-finance index]] as the **retail-asset-class developer / sponsor REIT example**. Read it against [[real-estate-finance/mitsui-fudosan-financing-model|Mitsui Fudosan]] and [[real-estate-finance/mitsubishi-estate-financing-model|Mitsubishi Estate]] for the office / mixed-use developer contrast. For the asset-class peer comparison see [[real-estate-finance/logistics-j-reit-vs-office-j-reit-asset-class-comparison|logistics vs office J-REIT comparison]]. For the parent-group consumer-finance lens see [[retail/aeon-group|AEON Group]] and [[JapanFG/aeon-financial-service|AEON Financial Service]]. System frame: [[real-estate-finance/j-reit-market-overview|J-REIT market overview]], [[real-estate-finance/j-reit-sponsor-structure-conflict|J-REIT sponsor structure and conflict]], [[real-estate-finance/top-10-j-reit-overview-matrix|top 10 J-REIT matrix]].
+This entry sits under [[real-estate-finance/INDEX|real-estate-finance index]] as the **retail-asset-class developer / sponsor REIT example**. Read it against [[real-estate-finance/mitsui-fudosan-financing-model|Mitsui Fudosan]] and [[real-estate-finance/mitsubishi-estate-financing-model|Mitsubishi Estate]] for the office / mixed-use developer contrast. For the asset-class peer comparison see [[real-estate-finance/logistics-j-reit-vs-office-j-reit-asset-class-comparison|logistics vs office J-REIT comparison]]. For the parent-group consumer-finance lens see [[retail/aeon-group|AEON Group]] and [[card-issuers/aeon-financial-service|AEON Financial Service]]. System frame: [[real-estate-finance/j-reit-market-overview|J-REIT market overview]], [[real-estate-finance/j-reit-sponsor-structure-conflict|J-REIT sponsor structure and conflict]], [[real-estate-finance/top-10-j-reit-overview-matrix|top 10 J-REIT matrix]].
 
 ## Corporate structure
 
@@ -56,7 +56,7 @@ AEON Mall (8905) is itself a **listed retail-real-estate operating company**, no
 | Funding source | Use |
 |---|---|
 | Parent / group integration | Cross-shareholding with [[retail/aeon-group|AEON Co.]] and intra-group cash management; access to group treasury and supplier credit |
-| Domestic syndicated bank loans | Long-term project finance for greenfield mall development, refinancing of existing facilities; arranged by megabank-led syndicates including [[JapanFG/sumitomo-mitsui-trust|SMTB]], MUFG Bank, SMBC, Mizuho Bank |
+| Domestic syndicated bank loans | Long-term project finance for greenfield mall development, refinancing of existing facilities; arranged by megabank-led syndicates including [[trust-banks/sumitomo-mitsui-trust|SMTB]], MUFG Bank, SMBC, Mizuho Bank |
 | Public corporate bonds (straight bonds) | Multi-year unsecured corporate bonds issued under shelf-registration; investment-grade rating supports tap pricing |
 | Asset disposals to AEON REIT (3292) | Cash inflow from recycling stabilized mall assets into the sponsor J-REIT; reinvested in new development pipeline |
 | Retained earnings / operating cash flow | Mall rental income, common-area fees, tenant percentage rent |
@@ -73,7 +73,7 @@ The **asset-recycling loop** — develop on AEON Mall balance sheet, sell to AEO
 | Asset focus | Retail real estate, primarily AEON-anchored suburban malls and shopping centers across Japan, with portion in ASEAN |
 | Sponsor | AEON Co., Ltd. (group parent), with AEON Mall as the dominant pipeline-supply entity |
 | Asset manager | AEON Reit Management Co., Ltd. (sponsor-owned) |
-| Custodian / trustee bank | Trust bank (typically [[JapanFG/mitsubishi-ufj-trust-bank|MUFJ Trust]] or [[JapanFG/sumitomo-mitsui-trust|SMTB]] for J-REIT custody mandates) |
+| Custodian / trustee bank | Trust bank (typically [[trust-banks/mitsubishi-ufj-trust-bank|MUFJ Trust]] or [[trust-banks/sumitomo-mitsui-trust|SMTB]] for J-REIT custody mandates) |
 | Distribution policy | 90%+ of taxable income (the J-REIT pass-through threshold under the Investment Trust Act); semi-annual distribution typical |
 | Leverage | LTV target band publicly disclosed in IR materials; long-term unsecured and secured borrowings + investment corporation bonds |
 | Unit-holder base | Domestic retail unit-holders, domestic institutional (life insurers, regional banks, pension funds), foreign institutional (covered by [[real-estate-finance/j-reit-foreign-investor-ownership|J-REIT foreign-investor ownership]]) |
@@ -88,7 +88,7 @@ Beyond the sponsor-J-REIT route, AEON Mall and AEON-affiliated entities also eng
 |---|---|---|
 | TMK (特定目的会社, Tokutei Mokuteki Kaisha) | Special-purpose company for single-asset securitization under the Asset Liquidation Act; can issue specified bonds and preferred equity | [[real-estate-finance/japan-cmbs-rmbs-securitization\|Japan CMBS/RMBS securitization]] |
 | GK-TK (合同会社・匿名組合) structure | Private bridge / private-fund layer for pre-REIT warehousing or off-balance-sheet structures | [[real-estate-finance/INDEX\|GK-TK in domain index]] |
-| Non-recourse real-estate loans (NRL) | Asset-secured loans extended by [[JapanFG/sumitomo-mitsui-trust\|SMTB]], [[JapanFG/mitsubishi-ufj-trust-bank\|MUFJ Trust]], and megabanks against specific mall properties | [[real-estate-finance/bank-commercial-real-estate-lending-japan\|bank CRE lending Japan]] |
+| Non-recourse real-estate loans (NRL) | Asset-secured loans extended by [[trust-banks/sumitomo-mitsui-trust\|SMTB]], [[trust-banks/mitsubishi-ufj-trust-bank\|MUFJ Trust]], and megabanks against specific mall properties | [[real-estate-finance/bank-commercial-real-estate-lending-japan\|bank CRE lending Japan]] |
 | Trustee beneficiary interest (信託受益権) | Standard wrapping format for J-REIT property holding; the J-REIT owns the trustee beneficiary interest rather than the freehold directly | [[banking/trust-bank-custody-operating-comparison\|trust bank custody operating comparison]] |
 | Investment corporation bonds (投資法人債) | Unsecured bonds issued by the J-REIT itself (3292) on top of its bank-loan stack | [[real-estate-finance/j-reit-market-overview\|J-REIT market overview]] |
 
@@ -126,8 +126,8 @@ AEON Mall is not just a property entity — it is a **physical retail-frequency 
 
 - **AEON Retail anchor store** — daily grocery / general merchandise traffic.
 - **AEON Card and WAON acceptance** — group-payment closed-loop benefits.
-- **[[JapanFG/aeon-bank|AEON Bank]] in-mall branches and ATMs** — branchless retail-bank distribution channel.
-- **[[JapanFG/aeon-financial-service|AEON Financial Service]] counters** — insurance, mortgage origination, investment-trust distribution.
+- **[[card-issuers/aeon-bank|AEON Bank]] in-mall branches and ATMs** — branchless retail-bank distribution channel.
+- **[[card-issuers/aeon-financial-service|AEON Financial Service]] counters** — insurance, mortgage origination, investment-trust distribution.
 - **Tenant pool** — third-party retailers paying base + percentage rent.
 
 The financial significance is that AEON Mall's rental income is partly **insulated from pure rental-market volatility** by intra-group traffic generation from [[retail/aeon-group|AEON Co.]]. This is structurally different from Mitsui Fudosan or Mitsubishi Estate office buildings, where the tenant base is third-party corporates exposed to office-vacancy cycles. See [[real-estate-finance/logistics-j-reit-vs-office-j-reit-asset-class-comparison|logistics vs office J-REIT comparison]] for the asset-class economics contrast.
@@ -223,10 +223,10 @@ The dual-track disclosure means that **AEON REIT investors get high-frequency pr
 - [[retail/aeon-group|AEON Group]]
 - [[retail/seven-and-i-hd|Seven & i HD]]
 - [[retail/INDEX|retail INDEX]]
-- [[JapanFG/aeon-financial-service|AEON Financial Service]]
-- [[JapanFG/aeon-bank|AEON Bank]]
-- [[JapanFG/sumitomo-mitsui-trust|SMTB]]
-- [[JapanFG/mitsubishi-ufj-trust-bank|MUFJ Trust]]
+- [[card-issuers/aeon-financial-service|AEON Financial Service]]
+- [[card-issuers/aeon-bank|AEON Bank]]
+- [[trust-banks/sumitomo-mitsui-trust|SMTB]]
+- [[trust-banks/mitsubishi-ufj-trust-bank|MUFJ Trust]]
 - [[business/INDEX|business INDEX]]
 - [[corporate-strategy/INDEX|corporate-strategy INDEX]]
 - [[INDEX|FinWiki index]]

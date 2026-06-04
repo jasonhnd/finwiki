@@ -104,8 +104,8 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 - [[fintech/japan-financial-regulation]] — 日本金融监管整体
 - [[fintech/japan-stablecoin-regulatory-landscape]] — 相关 stablecoin 制度
 - [[fintech/jp-trust-type-sc-architecture]] — 相关 SC 制度（含与 GMO Trust 的区别）
-- [[JapanFG/gmo-financial-hd]] — 母公司 GMO Financial HD
-- [[JapanFG/gmo-coin]] — JapanFG 域中的 GMO Coin 母公司概况
+- [[payment-firms/gmo-financial-hd]] — 母公司 GMO Financial HD
+- [[payment-firms/gmo-coin]] — JapanFG 域中的 GMO Coin 母公司概况
 - [[exchanges/jp-cex-staking-lending-regulation]] — JP CEX 质押・借贷监管
 - [[exchanges/jp-vasp-parent-company-map]] — JP VASP 母公司图谱
 

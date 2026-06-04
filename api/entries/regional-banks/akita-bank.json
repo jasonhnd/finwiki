@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "slug": "regional-banks/akita-bank",
+  "source_path": "regional-banks/akita-bank.md",
+  "url": "https://finwiki.zksc.io/regional-banks/akita-bank",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/regional-banks/akita-bank.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/regional-banks/akita-bank.md",
+  "domain": "regional-banks",
+  "title": "株式会社秋田銀行 (The Akita Bank)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "株式会社秋田銀行 (The Akita Bank)",
+    "aliases": [
+      "akita-bank",
+      "The Akita Bank",
+      "秋田銀行"
+    ],
+    "domain": "regional-banks",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
+    "review_by": "2026-11-16",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "regional-bank",
+      "tohoku"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.akita-bank.co.jp/aboutus/info/company/",
+      "https://www.akita-bank.co.jp/aboutus/info/kanren/"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against フィデア HD (Fidea Holdings) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "株式会社秋田銀行 (The Akita Bank)",
+    "Wiki route",
+    "TL;DR",
+    "1. 会社概要",
+    "2. 事業セグメント・マップ",
+    "3. 戦略・競争",
+    "4. 規制・政策",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 7,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/INDEX",
+      "banking/INDEX",
+      "regional-banks/fidea-hd",
+      "regional-banks/iwate-bank",
+      "regional-banks/jimoto-hd",
+      "regional-banks/proclair-hd"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/regional-banks/fidea-hd",
+      "https://finwiki.zksc.io/regional-banks/iwate-bank",
+      "https://finwiki.zksc.io/regional-banks/jimoto-hd",
+      "https://finwiki.zksc.io/regional-banks/proclair-hd"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2193,
+    "word_like_tokens": 345,
+    "inbound_wikilinks_count": 6,
+    "last_modified": "2026-06-04"
+  }
+}

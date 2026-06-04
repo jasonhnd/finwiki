@@ -64,7 +64,7 @@ At each FSA-disclosure update, append the following block:
 2. **Diff against the previous snapshot** — mechanically compare the registration-number column / trade-name column / head-office-location column
 3. **Append a snapshot delta block to this page**
 4. **Update `last_tended` for affected entity wikis**
-5. **If a newly registered firm has no wiki yet** → list it as a candidate to add under [[JapanFG/missing-financial-institutions-backlog|missing-financial-institutions-backlog]]
+5. **If a newly registered firm has no wiki yet** → list it as a candidate to add under [[financial-regulators/missing-financial-institutions-backlog|missing-financial-institutions-backlog]]
 6. **For a withdrawn firm's entity wiki** → change to `status: deprecated` and append the withdrawal date
 7. **Reflect in CHANGELOG** (record the snapshot-reflection date in the domain INDEX)
 

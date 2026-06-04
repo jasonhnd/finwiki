@@ -11,7 +11,7 @@ translated_at: 2026-06-01T04:15:40.167Z
 
 ## Wiki route
 
-This page sits inside [[securities/INDEX|securities index]] as the venue-mechanics deepening of [[securities/japannext-securities|Japannext]] and the routing-mechanics deepening of [[securities/japan-best-execution-sor-pts|Japan best execution, SOR, and PTS]]. Read it with [[securities/japan-pts-liquidity-data-guide|PTS liquidity data guide]] for the data layer, [[securities/japan-market-infrastructure-map|Japan market infrastructure map]] for where Japannext fits between TSE / OSE and JSCC / JASDEC, and [[securities/financial-instruments-business-operators-japan-index|FIEA operator registry]] for the license boundary that allows a PTS operator to exist. JapanFG operator anchors include [[JapanFG/sbi-hd|SBI HD]] (Japannext's anchor shareholder via SBI group lineage), [[JapanFG/nomura-hd|Nomura HD]] (Instinet legacy / SOR-heavy participant), [[JapanFG/sbi-securities|SBI Securities]] and [[JapanFG/jsda|JSDA]] (PTS statistics publisher).
+This page sits inside [[securities/INDEX|securities index]] as the venue-mechanics deepening of [[securities/japannext-securities|Japannext]] and the routing-mechanics deepening of [[securities/japan-best-execution-sor-pts|Japan best execution, SOR, and PTS]]. Read it with [[securities/japan-pts-liquidity-data-guide|PTS liquidity data guide]] for the data layer, [[securities/japan-market-infrastructure-map|Japan market infrastructure map]] for where Japannext fits between TSE / OSE and JSCC / JASDEC, and [[securities/financial-instruments-business-operators-japan-index|FIEA operator registry]] for the license boundary that allows a PTS operator to exist. JapanFG operator anchors include [[megabanks/sbi-hd|SBI HD]] (Japannext's anchor shareholder via SBI group lineage), [[securities-firms/nomura-hd|Nomura HD]] (Instinet legacy / SOR-heavy participant), [[securities-firms/sbi-securities|SBI Securities]] and [[financial-regulators/jsda|JSDA]] (PTS statistics publisher).
 
 ## TL;DR
 
@@ -24,7 +24,7 @@ Japannext is the oldest and largest cash-equity PTS in Japan, operated by Japann
 | Legal entity | Japannext Co., Ltd. (株式会社ジャパンネクスト証券) |
 | FIEA registration | Type I Financial Instruments Business Operator with PTS operating authorization (verify on [[securities/financial-instruments-business-operators-japan-index|FIBO registry]]). |
 | Shareholder lineage | SBI group / SBI HD-anchored historical PTS lineage; Goldman Sachs and other firms have been historical PTS shareholders or counterparties across Japan PTS history. Verify current cap-table per venue IR. |
-| Self-regulatory adjacency | [[JapanFG/jsda|JSDA]] member; PTS statistics consolidated by JSDA after the PTS Information Network ended in July 2025. |
+| Self-regulatory adjacency | [[financial-regulators/jsda|JSDA]] member; PTS statistics consolidated by JSDA after the PTS Information Network ended in July 2025. |
 | Markets operated | J-Market (daytime continuous), X-Market (night session continuous) for cash equity PTS trading. |
 | Clearing route | Cash equity PTS trades clear through [[securities/japan-securities-clearing-corp|JSCC]] under the PTS clearing arrangement; settlement via [[securities/japan-securities-depository-center|JASDEC]] book-entry. |
 
@@ -99,7 +99,7 @@ For an analyst writing about Japan "dark pools", the more accurate language is "
 
 Broker preferencing is the term for SOR designs that favour a venue in which the broker (or its parent / affiliate) has an economic interest. In Japan the surface to watch includes:
 
-- **Shareholder relationships.** Japannext's historical SBI lineage means [[JapanFG/sbi-securities|SBI Securities]] order flow has a structural reason to consider Japannext as part of its execution menu. The disclosure question is whether routing preferencing is documented in the broker's best-execution policy.
+- **Shareholder relationships.** Japannext's historical SBI lineage means [[securities-firms/sbi-securities|SBI Securities]] order flow has a structural reason to consider Japannext as part of its execution menu. The disclosure question is whether routing preferencing is documented in the broker's best-execution policy.
 - **Rebate / fee economics.** Where the venue's maker rebate exceeds the broker's customer-rebate pass-through, the broker captures the differential; this is the same conflict pattern as US Reg NMS-era debate but with smaller numeric scale.
 - **Securities lending and prime-brokerage adjacency.** Where the broker also runs [[securities/japan-prime-brokerage-and-institutional-financing|prime brokerage]] or interacts with [[securities/japan-stock-lending-market-route|stock lending]], indirect economics can complicate the apparent execution route. See [[securities/japan-margin-trading-and-securities-finance|margin trading and securities finance]] for the funding-side adjacency.
 - **Information leakage to internalizers.** Where a broker internalizes flow before posting residual to PTS, the question is whether the customer order has been adversely selected on the way through internalization.
@@ -171,11 +171,11 @@ The major structural events relevant to today's routing landscape:
 - [[securities/japan-stock-lending-market-route]]
 - [[securities/japan-margin-trading-and-securities-finance]]
 - [[securities/financial-instruments-business-operators-japan-index]]
-- [[JapanFG/sbi-hd]]
-- [[JapanFG/sbi-securities]]
-- [[JapanFG/nomura-hd]]
-- [[JapanFG/jsda]]
-- [[JapanFG/japan-exchange-group]]
+- [[megabanks/sbi-hd]]
+- [[securities-firms/sbi-securities]]
+- [[securities-firms/nomura-hd]]
+- [[financial-regulators/jsda]]
+- [[financial-regulators/japan-exchange-group]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

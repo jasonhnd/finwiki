@@ -13,7 +13,7 @@ translated_at: 2026-06-01T04:15:40.113Z
 
 Japan security-token secondary-market records connect Financial Instruments and Exchange Act registration, Type I financial instruments business, PTS / alternative trading venue functions, token platform infrastructure, securities-firm distribution, custody / recordkeeping, and issuer disclosure. This page records the market-structure route for publicly disclosed security-token secondary trading.
 
-This page belongs to [[securities/INDEX|securities domain]] and links to [[JapanFG/legal-financial-licenses/securities-license-stack|Japan securities license stack]], [[securities/japan-best-execution-sor-pts|best execution / SOR / PTS]], [[securities/japan-pts-liquidity-data-guide|PTS liquidity data guide]], [[securities/japan-market-infrastructure-map|market infrastructure map]], [[securities/osaka-digital-exchange|Osaka Digital Exchange]], [[JapanFG/progmat|Progmat]], [[JapanFG/jsda|JSDA]], [[JapanFG/japan-exchange-group|Japan Exchange Group]], and [[fintech/jp-stablecoin-progmat|Progmat stablecoin route]].
+This page belongs to [[securities/INDEX|securities domain]] and links to [[financial-licenses/securities-license-stack|Japan securities license stack]], [[securities/japan-best-execution-sor-pts|best execution / SOR / PTS]], [[securities/japan-pts-liquidity-data-guide|PTS liquidity data guide]], [[securities/japan-market-infrastructure-map|market infrastructure map]], [[securities/osaka-digital-exchange|Osaka Digital Exchange]], [[payment-firms/progmat|Progmat]], [[financial-regulators/jsda|JSDA]], [[financial-regulators/japan-exchange-group|Japan Exchange Group]], and [[fintech/jp-stablecoin-progmat|Progmat stablecoin route]].
 
 ## Route Map
 
@@ -41,7 +41,7 @@ Trading on START is routed through securities firms accepted by ODX as trading p
 
 ## Progmat Route
 
-[[JapanFG/progmat|Progmat]] is a tokenization platform route linked to security tokens, stablecoins, utility tokens, and platform infrastructure where public materials support the connection. Security-token product pages identify issuer, asset, broker, trust / custody, and transfer mechanics where disclosed.
+[[payment-firms/progmat|Progmat]] is a tokenization platform route linked to security tokens, stablecoins, utility tokens, and platform infrastructure where public materials support the connection. Security-token product pages identify issuer, asset, broker, trust / custody, and transfer mechanics where disclosed.
 
 The Progmat public concept page source pack recorded the following market-size fields:
 
@@ -88,7 +88,7 @@ Mainstream JPX cash equities provide a comparison baseline where trading venue, 
 ## Related
 
 - [[securities/INDEX]]
-- [[JapanFG/legal-financial-licenses/securities-license-stack]]
+- [[financial-licenses/securities-license-stack]]
 - [[securities/japan-best-execution-sor-pts]]
 - [[securities/japan-pts-liquidity-data-guide]]
 - [[securities/japan-market-infrastructure-map]]
@@ -96,11 +96,11 @@ Mainstream JPX cash equities provide a comparison baseline where trading venue, 
 - [[securities/japan-securities-clearing-corp]]
 - [[securities/japan-securities-depository-center]]
 - [[securities/tokyo-stock-exchange]]
-- [[JapanFG/progmat]]
-- [[JapanFG/jsda]]
-- [[JapanFG/japan-exchange-group]]
-- [[JapanFG/sbi-securities]]
-- [[JapanFG/mufg-mums]]
+- [[payment-firms/progmat]]
+- [[financial-regulators/jsda]]
+- [[financial-regulators/japan-exchange-group]]
+- [[securities-firms/sbi-securities]]
+- [[securities-firms/mufg-mums]]
 - [[fintech/jp-stablecoin-progmat]]
 - [[INDEX|FinWiki index]]
 

@@ -14,7 +14,7 @@ translated_at: 2026-06-01T03:31:12.312Z
 
 日本的银行 API 风险不仅仅是网络安全问题。它是一条横跨银行身份验证、客户同意、电子支付机构注册、API 合约、未经授权的提款响应、可疑交易监控、报销/投诉处理以及下游对账的控制链。
 
-此页面与 [[payments/japan-bank-api-payment-agency-route|Japan bank API route]]、[[payments/account-to-account-payment-japan|Japan account-to-account payment route]]、[[payments/merchant-bank-pay-account-direct-acquiring|merchant account-direct acquiring]]、[[payments/psp-merchant-settlement-risk|PSP settlement risk]]、[[banking/quick-deposit-four-methods|quick deposit methods]] 和 [[JapanFG/legal-financial-licenses/INDEX|JapanFG legal / financial licenses]] 一起使用。
+此页面与 [[payments/japan-bank-api-payment-agency-route|Japan bank API route]]、[[payments/account-to-account-payment-japan|Japan account-to-account payment route]]、[[payments/merchant-bank-pay-account-direct-acquiring|merchant account-direct acquiring]]、[[payments/psp-merchant-settlement-risk|PSP settlement risk]]、[[banking/quick-deposit-four-methods|quick deposit methods]] 和 [[financial-licenses/INDEX|JapanFG legal / financial licenses]] 一起使用。
 
 ## 事件面
 
@@ -55,10 +55,10 @@ translated_at: 2026-06-01T03:31:12.312Z
 
 ## JapanFG 相关性
 
-- [[JapanFG/mufg-bank|MUFG Bank]]、[[JapanFG/sumitomo-mitsui-banking-corp|SMBC]]、[[JapanFG/mizuho-bank|Mizuho Bank]]、[[JapanFG/resona-bank|Resona Bank]] 和大型区域银行很重要，因为它们运营 API/身份验证/投诉路径的银行账户端。
-- [[JapanFG/money-forward|Money Forward]] 和 [[JapanFG/freee|freee]] 是有用的会计/帐户聚合比较锚点。
-- [[JapanFG/merpay|Merpay]]、[[JapanFG/paypay|PayPay]]、[[JapanFG/rakuten-card|Rakuten Card]] 和 [[JapanFG/au-payment|au PAY]] 需要跨银行 API、钱包、预付费、资金转账和商家通道进行拆分分析。
-- 当 API 故障进入商家结帐、结算或对账时，[[JapanFG/sb-payment-service|SB Payment Service]]、[[JapanFG/gmo-payment-gateway|GMO Payment Gateway]] 和 [[JapanFG/netstars|Netstars]] 很重要。
+- [[megabanks/mufg-bank|MUFG Bank]]、[[megabanks/sumitomo-mitsui-banking-corp|SMBC]]、[[megabanks/mizuho-bank|Mizuho Bank]]、[[megabanks/resona-bank|Resona Bank]] 和大型区域银行很重要，因为它们运营 API/身份验证/投诉路径的银行账户端。
+- [[payment-firms/money-forward|Money Forward]] 和 [[payment-firms/freee|freee]] 是有用的会计/帐户聚合比较锚点。
+- [[payment-firms/merpay|Merpay]]、[[payment-firms/paypay|PayPay]]、[[card-issuers/rakuten-card|Rakuten Card]] 和 [[payment-firms/au-payment|au PAY]] 需要跨银行 API、钱包、预付费、资金转账和商家通道进行拆分分析。
+- 当 API 故障进入商家结帐、结算或对账时，[[payment-firms/sb-payment-service|SB Payment Service]]、[[payment-firms/gmo-payment-gateway|GMO Payment Gateway]] 和 [[payment-firms/netstars|Netstars]] 很重要。
 
 ## 调查清单
 
@@ -80,7 +80,7 @@ translated_at: 2026-06-01T03:31:12.312Z
 - [[payments/funds-transfer-vs-prepaid-boundary]]
 - [[banking/quick-deposit-four-methods]]
 - [[banking/baas-japan-landscape]]
-- [[JapanFG/legal-financial-licenses/INDEX]]
+- [[financial-licenses/INDEX]]
 - [[INDEX|FinWiki index]]
 
 ## 来源

@@ -138,7 +138,7 @@ CMS 产品的交易商损益是利率部门内更广泛的利率/结构性产品
 - [[money-market/japan-money-market]]
 - [[banking/INDEX]]
 - [[insurance/japan-life-insurance-alm-overview]]
-- [[JapanFG/mufg-bank]]
+- [[megabanks/mufg-bank]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

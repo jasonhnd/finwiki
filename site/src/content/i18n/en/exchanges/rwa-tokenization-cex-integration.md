@@ -58,6 +58,6 @@ RWA (Real World Asset) tokenization = the mechanism for issuing real-world asset
 - Ondo Finance USDY/OUSG
 - [[fintech/jp-stablecoin-progmat]]
 - [[exchanges/jp-cex-staking-lending-regulation]]
-- [[JapanFG/progmat]] — Progmat operating-company anchor
+- [[payment-firms/progmat]] — Progmat operating-company anchor
 - [[securities/japan-best-execution-sor-pts]] — Japan best execution SOR/PTS
 - [[payments/japan-payment-clearing-and-settlement-infrastructure]] — JP payment clearing & settlement infrastructure

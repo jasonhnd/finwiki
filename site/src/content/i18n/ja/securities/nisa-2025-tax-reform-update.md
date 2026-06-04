@@ -72,10 +72,10 @@ These items rarely change the headline 3.6 million / 18 million yen architecture
 4. JSDA の Q&A 資料は、主要な税源としてではなく、実務上の解釈の補足として使用してください。
 5. 2025 リフォームアイテムは、交換品としてではなく、[[securities/nisa-2024-flow|2024 launch architecture]]の上に追加されるものとして扱います。
 ## JapanFG関連項目性
-- オンライン ブローカー [[JapanFG/rakuten-securities]]、[[JapanFG/sbi-securities]]、[[JapanFG/monex-group]]、[[JapanFG/mufg-esmart-securities]]、[[JapanFG/paypay-securities]]、[[JapanFG/gmo-click-securities]]、および [[JapanFG/dmm-com-securities]] は、口座開設、レポート、商品オンボーディングのワークフローに改革変更を実装しています。
-- フルサービスの証券会社 [[JapanFG/nomura-hd]]、[[JapanFG/daiwa-sg]]、[[JapanFG/smbc-nikko]]、[[JapanFG/mizuho-securities]]、[[JapanFG/mufg-mums]] がウェルスマネジメント商品メニューを調整しています。
+- オンライン ブローカー [[securities-firms/rakuten-securities]]、[[securities-firms/sbi-securities]]、[[securities-firms/monex-group]]、[[securities-firms/mufg-esmart-securities]]、[[securities-firms/paypay-securities]]、[[securities-firms/gmo-click-securities]]、および [[securities-firms/dmm-com-securities]] は、口座開設、レポート、商品オンボーディングのワークフローに改革変更を実装しています。
+- フルサービスの証券会社 [[securities-firms/nomura-hd]]、[[securities-firms/daiwa-sg]]、[[securities-firms/smbc-nikko]]、[[securities-firms/mizuho-securities]]、[[securities-firms/mufg-mums]] がウェルスマネジメント商品メニューを調整しています。
 - 資産運用会社は、投資信託目論見書の改定と JITA 自主規制フレームワークを通じて商品適格性の更新を行います。
-- [[JapanFG/jsda]] では、運用の詳細に関する業界側の Q&A を公開しています。
+- [[financial-regulators/jsda]] では、運用の詳細に関する業界側の Q&A を公開しています。
 ## JapanFGの流通方向
 - オンラインブローカーは引き続きNISAを主な取得ツールとして使用し、[[loyalty/japan-points-landscape|point programs]]と重ねて使用します。
 - フルサービス会社は、アドバイザーがサポートするNISAと広範な資産管理商品のバンドルを重視しています。
@@ -93,17 +93,17 @@ These items rarely change the headline 3.6 million / 18 million yen architecture
 - [[securities/japan-asset-manager-landscape-matrix]]
 - [[securities/japan-underwriting-market-structure]]
 - [[money-market/japan-mmf-money-market-mutual-fund]]
-- [[JapanFG/rakuten-securities]]
-- [[JapanFG/sbi-securities]]
-- [[JapanFG/monex-group]]
-- [[JapanFG/mufg-esmart-securities]]
-- [[JapanFG/paypay-securities]]
-- [[JapanFG/nomura-hd]]
-- [[JapanFG/daiwa-sg]]
-- [[JapanFG/smbc-nikko]]
-- [[JapanFG/mizuho-securities]]
-- [[JapanFG/mufg-mums]]
-- [[JapanFG/jsda]]
+- [[securities-firms/rakuten-securities]]
+- [[securities-firms/sbi-securities]]
+- [[securities-firms/monex-group]]
+- [[securities-firms/mufg-esmart-securities]]
+- [[securities-firms/paypay-securities]]
+- [[securities-firms/nomura-hd]]
+- [[securities-firms/daiwa-sg]]
+- [[securities-firms/smbc-nikko]]
+- [[securities-firms/mizuho-securities]]
+- [[securities-firms/mufg-mums]]
+- [[financial-regulators/jsda]]
 - [[loyalty/japan-points-landscape]]
 - [[INDEX|FinWiki index]]
 ## 出典

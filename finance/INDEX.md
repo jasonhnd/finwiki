@@ -52,17 +52,17 @@ This domain keeps public finance reference pages for capital markets, M&A, acqui
 
 ## JapanFG Anchors
 
-- [[JapanFG/goldman-sachs-japan]]
-- [[JapanFG/nomura-hd]]
-- [[JapanFG/daiwa-sg]]
-- [[JapanFG/smbc-nikko]]
-- [[JapanFG/mizuho-securities]]
-- [[JapanFG/mufg-mums]]
-- [[JapanFG/mufg-bank]]
-- [[JapanFG/mizuho-bank]]
-- [[JapanFG/sumitomo-mitsui-banking-corp]]
-- [[JapanFG/bank-of-america-japan]]
-- [[JapanFG/socgen-japan]]
+- [[securities-firms/goldman-sachs-japan]]
+- [[securities-firms/nomura-hd]]
+- [[securities-firms/daiwa-sg]]
+- [[securities-firms/smbc-nikko]]
+- [[securities-firms/mizuho-securities]]
+- [[securities-firms/mufg-mums]]
+- [[megabanks/mufg-bank]]
+- [[megabanks/mizuho-bank]]
+- [[megabanks/sumitomo-mitsui-banking-corp]]
+- [[foreign-financial-institutions/bank-of-america-japan]]
+- [[foreign-financial-institutions/socgen-japan]]
 
 ## Backlog
 
@@ -94,7 +94,7 @@ PE / LBO / convertible / cross-shareholding / FX hedge deepening:
 ## Related
 
 - [[securities/INDEX]]
-- [[JapanFG/legal-financial-licenses/INDEX]]
+- [[financial-licenses/INDEX]]
 - [[finance/japan-tender-offer-process]]
 - [[finance/japan-mbo-and-squeeze-out-process]]
 - [[finance/japan-large-shareholding-disclosure]]

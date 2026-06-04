@@ -12,7 +12,7 @@ translated_at: 2026-06-01T03:31:12.333Z
 
 ## Wiki route
 
-This page belongs to [[securities/INDEX|securities index]] as the sell-side-research peer of [[securities/japan-underwriting-market-structure|Japan underwriting market structure]] and [[securities/japan-asset-manager-landscape-matrix|Japan asset manager landscape matrix]]. It explains the analyst-coverage geography that sits between issuer disclosure (TDnet / EDINET adjacency in [[securities/tokyo-stock-exchange|TSE]]), distribution (broker / online-broker route in [[securities/japan-best-execution-sor-pts|best execution / SOR / PTS]]), and institutional demand ([[securities/japan-asset-manager-landscape-matrix|AM landscape]] and [[securities/japan-prime-brokerage-and-institutional-financing|prime brokerage]]). The JapanFG operator anchors are [[JapanFG/nomura-hd|Nomura HD]], [[JapanFG/smbc-nikko|SMBC Nikko]], [[JapanFG/daiwa-sg|Daiwa SG]], [[JapanFG/mizuho-securities|Mizuho Securities]], [[JapanFG/goldman-sachs-japan|Goldman Sachs Japan]], [[JapanFG/morgan-stanley-japan|Morgan Stanley MUFG]], [[JapanFG/jpmorgan-japan|JPMorgan Japan]], and [[JapanFG/citigroup-japan|Citigroup Japan]]; the self-regulatory anchor is [[JapanFG/jsda|JSDA]] together with the Securities Analysts Association of Japan (SAAJ / JSAA).
+This page belongs to [[securities/INDEX|securities index]] as the sell-side-research peer of [[securities/japan-underwriting-market-structure|Japan underwriting market structure]] and [[securities/japan-asset-manager-landscape-matrix|Japan asset manager landscape matrix]]. It explains the analyst-coverage geography that sits between issuer disclosure (TDnet / EDINET adjacency in [[securities/tokyo-stock-exchange|TSE]]), distribution (broker / online-broker route in [[securities/japan-best-execution-sor-pts|best execution / SOR / PTS]]), and institutional demand ([[securities/japan-asset-manager-landscape-matrix|AM landscape]] and [[securities/japan-prime-brokerage-and-institutional-financing|prime brokerage]]). The JapanFG operator anchors are [[securities-firms/nomura-hd|Nomura HD]], [[securities-firms/smbc-nikko|SMBC Nikko]], [[securities-firms/daiwa-sg|Daiwa SG]], [[securities-firms/mizuho-securities|Mizuho Securities]], [[securities-firms/goldman-sachs-japan|Goldman Sachs Japan]], [[securities-firms/morgan-stanley-japan|Morgan Stanley MUFG]], [[foreign-financial-institutions/jpmorgan-japan|JPMorgan Japan]], and [[foreign-financial-institutions/citigroup-japan|Citigroup Japan]]; the self-regulatory anchor is [[financial-regulators/jsda|JSDA]] together with the Securities Analysts Association of Japan (SAAJ / JSAA).
 
 ## TL;DR
 
@@ -30,7 +30,7 @@ Sell-side equity research is the analytical layer that sits between issuer discl
 
 ### Nomura
 
-- **Entity**: [[JapanFG/nomura-hd|Nomura Holdings]] / Nomura Securities Co., Ltd.; research is published under Nomura Securities (NS) and Nomura International for cross-border content.
+- **Entity**: [[securities-firms/nomura-hd|Nomura Holdings]] / Nomura Securities Co., Ltd.; research is published under Nomura Securities (NS) and Nomura International for cross-border content.
 - **Analyst count (Japan equity coverage)**: One of the largest domestic analyst rosters; covers the broadest universe of TSE Prime / Standard / Growth names among Japanese houses. Exact headcounts are not publicly itemized; verify firm directory for current names.
 - **Sector coverage**: Comprehensive, including financials (banks / insurance / non-bank finance), technology, autos / industrials, healthcare, internet / media, real estate / REITs, telecom, consumer, energy / utilities, and small / mid cap.
 - **Macro / strategy**: Long-established macro and equity-strategy team; cross-asset coverage.
@@ -38,28 +38,28 @@ Sell-side equity research is the analytical layer that sits between issuer discl
 
 ### SMBC Nikko
 
-- **Entity**: [[JapanFG/smbc-nikko|SMBC Nikko Securities Inc.]] (SMFG group).
+- **Entity**: [[securities-firms/smbc-nikko|SMBC Nikko Securities Inc.]] (SMFG group).
 - **Analyst count**: Top-tier domestic; comprehensive Japan equity coverage; meaningful strategy and macro output.
 - **Sector coverage**: Broad; strong in banks / financials (SMFG group adjacency requires careful conflict management), real estate / REITs, autos, consumer.
 - **Distinguishing feature**: SMFG bank-group adjacency provides corporate-banking-derived sector intelligence; conduct-management framework separates research from banking activity.
 
 ### Daiwa
 
-- **Entity**: [[JapanFG/daiwa-sg|Daiwa Securities Group]] / Daiwa Securities Co. Ltd.
+- **Entity**: [[securities-firms/daiwa-sg|Daiwa Securities Group]] / Daiwa Securities Co. Ltd.
 - **Analyst count**: Top-tier domestic; broad universe coverage.
 - **Sector coverage**: Comprehensive; historical strength in industrials / autos, banks, real estate.
 - **Distinguishing feature**: Independent-securities-group (not bank-owned) heritage; long-standing institutional client relationships; meaningful cross-border distribution into US / Europe / Asia.
 
 ### Mizuho Securities
 
-- **Entity**: [[JapanFG/mizuho-securities|Mizuho Securities Co., Ltd.]] (Mizuho FG group).
+- **Entity**: [[securities-firms/mizuho-securities|Mizuho Securities Co., Ltd.]] (Mizuho FG group).
 - **Analyst count**: Top-tier domestic; strong macro and rates / FX strategy alongside equity.
 - **Sector coverage**: Broad; strength in financials, energy / utilities, autos, real estate.
 - **Distinguishing feature**: Mizuho FG bank-group adjacency; structured-product / cross-asset research integration.
 
 ### MUMSS / Mitsubishi UFJ Morgan Stanley
 
-- **Entity**: Mitsubishi UFJ Morgan Stanley Securities Co., Ltd. (MUMSS) is the integrated wholesale / institutional securities business operated as a JV between [[JapanFG/morgan-stanley-japan|Morgan Stanley]] and MUFG; the consumer / retail brand is Morgan Stanley MUFG Securities.
+- **Entity**: Mitsubishi UFJ Morgan Stanley Securities Co., Ltd. (MUMSS) is the integrated wholesale / institutional securities business operated as a JV between [[securities-firms/morgan-stanley-japan|Morgan Stanley]] and MUFG; the consumer / retail brand is Morgan Stanley MUFG Securities.
 - **Analyst count**: Top-tier; benefits from both global Morgan Stanley analyst integration and domestic MUFG group reach.
 - **Sector coverage**: Broad; integrated global / Japan view via Morgan Stanley platform.
 - **Distinguishing feature**: Only domestic five-pole house with a global IB JV structure; allows seamless Morgan Stanley global content distribution alongside Japan-specific output.
@@ -68,11 +68,11 @@ Sell-side equity research is the analytical layer that sits between issuer discl
 
 | House | Local entity | Research character |
 |---|---|---|
-| Goldman Sachs Japan | [[JapanFG/goldman-sachs-japan|Goldman Sachs Japan Co., Ltd.]] | Global GS Research integrated; Japan equity team contributes Japan content into the global product; strong macro / strategy distribution. |
+| Goldman Sachs Japan | [[securities-firms/goldman-sachs-japan|Goldman Sachs Japan Co., Ltd.]] | Global GS Research integrated; Japan equity team contributes Japan content into the global product; strong macro / strategy distribution. |
 | Morgan Stanley | Morgan Stanley MUFG / MUMSS (see above) | Operates as MUMSS for Japan-listed activity; global MS Research distributed to clients. |
-| JPMorgan Japan | [[JapanFG/jpmorgan-japan|JPMorgan Securities Japan Co., Ltd.]] | Japan equity team feeds global JPM Research; corporate-access and conference platform. |
+| JPMorgan Japan | [[foreign-financial-institutions/jpmorgan-japan|JPMorgan Securities Japan Co., Ltd.]] | Japan equity team feeds global JPM Research; corporate-access and conference platform. |
 | BofA Securities Japan | BofA Securities Japan Co., Ltd. | Global BofA Research integration; macroeconomic and strategy content prominent. |
-| Citigroup Global Markets Japan | [[JapanFG/citigroup-japan|Citigroup Global Markets Japan Inc.]] | Global Citi Research integration; macro / FX / equity strategy content; meaningful institutional client footprint. |
+| Citigroup Global Markets Japan | [[foreign-financial-institutions/citigroup-japan|Citigroup Global Markets Japan Inc.]] | Global Citi Research integration; macro / FX / equity strategy content; meaningful institutional client footprint. |
 | UBS Securities Japan | UBS Securities Japan Co., Ltd. | Global UBS Research; Japan equity coverage with strong asset-management institutional distribution. |
 | Barclays Japan | Barclays Securities Japan Limited | Global Barclays Research; macro / rates / FX prominent; equity coverage with smaller Japan analyst headcount than the five-pole domestic houses. |
 
@@ -171,15 +171,15 @@ FSA customer-best-interest principles, JSDA self-regulatory rules, and each hous
 - [[securities/japan-margin-trading-and-securities-finance]]
 - [[securities/tokyo-stock-exchange]]
 - [[securities/financial-instruments-business-operators-japan-index]]
-- [[JapanFG/nomura-hd]]
-- [[JapanFG/smbc-nikko]]
-- [[JapanFG/daiwa-sg]]
-- [[JapanFG/mizuho-securities]]
-- [[JapanFG/goldman-sachs-japan]]
-- [[JapanFG/morgan-stanley-japan]]
-- [[JapanFG/jpmorgan-japan]]
-- [[JapanFG/citigroup-japan]]
-- [[JapanFG/jsda]]
+- [[securities-firms/nomura-hd]]
+- [[securities-firms/smbc-nikko]]
+- [[securities-firms/daiwa-sg]]
+- [[securities-firms/mizuho-securities]]
+- [[securities-firms/goldman-sachs-japan]]
+- [[securities-firms/morgan-stanley-japan]]
+- [[foreign-financial-institutions/jpmorgan-japan]]
+- [[foreign-financial-institutions/citigroup-japan]]
+- [[financial-regulators/jsda]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

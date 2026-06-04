@@ -1,0 +1,90 @@
+{
+  "schema_version": "1.0",
+  "slug": "foreign-financial-institutions/commonwealth-bank-japan",
+  "source_path": "foreign-financial-institutions/commonwealth-bank-japan.md",
+  "url": "https://finwiki.zksc.io/foreign-financial-institutions/commonwealth-bank-japan",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/foreign-financial-institutions/commonwealth-bank-japan.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/foreign-financial-institutions/commonwealth-bank-japan.md",
+  "domain": "foreign-financial-institutions",
+  "title": "オーストラリア・コモンウェルス銀行日本 (Commonwealth Bank Japan)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "オーストラリア・コモンウェルス銀行日本 (Commonwealth Bank Japan)",
+    "aliases": [
+      "Commonwealth Bank Japan",
+      "Commonwealth Bank of Australia Tokyo Branch",
+      "オーストラリア・コモンウェルス銀行",
+      "CBA Tokyo Branch"
+    ],
+    "domain": "foreign-financial-institutions",
+    "created": "2026-05-22",
+    "last_updated": "2026-05-22",
+    "last_tended": "2026-05-22",
+    "review_by": "2026-11-22",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "foreign-bank",
+      "Australia",
+      "wholesale-banking",
+      "corporate-finance",
+      "derivatives"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.pdf",
+      "https://www.fsa.go.jp/menkyo/menkyoj/dairi_f.pdf",
+      "https://www.commbank.com.au/about-us/our-company/international-branches/asia.html",
+      "https://www.commbank.com.au/content/dam/commbank-assets/about-us/2026/Discl_202509%E6%9C%88%E6%9C%9F.pdf"
+    ]
+  },
+  "summary": "Commonwealth Bank Japan sits under JapanFG index and is a foreign-bank branch route inside the Japan foreign-bank branch registry. Read it with ANZ Bank Japan, National Australia Bank Japan, foreign-bank branch licensing, and cross-border finance.",
+  "headings": [
+    "オーストラリア・コモンウェルス銀行日本 (Commonwealth Bank Japan)",
+    "Wiki route",
+    "Overview",
+    "Entity / License Boundary",
+    "Business Role Map",
+    "Peer / Contrast Map",
+    "Research Checklist",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 11,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/INDEX",
+      "banking/foreign-bank-japan-retreat",
+      "finance/cross-border-m-a-japan",
+      "financial-licenses/foreign-bank-agency-business-route",
+      "financial-licenses/foreign-bank-branch-license-route",
+      "foreign-financial-institutions/foreign-bank-branches-japan-index",
+      "foreign-financial-institutions/national-australia-bank-japan",
+      "foreign-financial-institutions/rbc-japan",
+      "foreign-financial-institutions/standard-chartered-japan",
+      "securities-firms/anz-bank-japan"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/banking/foreign-bank-japan-retreat",
+      "https://finwiki.zksc.io/finance/cross-border-m-a-japan",
+      "https://finwiki.zksc.io/financial-licenses/foreign-bank-agency-business-route",
+      "https://finwiki.zksc.io/financial-licenses/foreign-bank-branch-license-route",
+      "https://finwiki.zksc.io/foreign-financial-institutions/foreign-bank-branches-japan-index",
+      "https://finwiki.zksc.io/foreign-financial-institutions/national-australia-bank-japan",
+      "https://finwiki.zksc.io/foreign-financial-institutions/rbc-japan",
+      "https://finwiki.zksc.io/foreign-financial-institutions/standard-chartered-japan",
+      "https://finwiki.zksc.io/securities-firms/anz-bank-japan"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 4590,
+    "word_like_tokens": 693,
+    "inbound_wikilinks_count": 4,
+    "last_modified": "2026-06-04"
+  }
+}

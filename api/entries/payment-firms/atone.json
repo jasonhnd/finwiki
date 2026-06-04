@@ -1,0 +1,85 @@
+{
+  "schema_version": "1.0",
+  "slug": "payment-firms/atone",
+  "source_path": "payment-firms/atone.md",
+  "url": "https://finwiki.zksc.io/payment-firms/atone",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/payment-firms/atone.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/payment-firms/atone.md",
+  "domain": "payment-firms",
+  "title": "atone (アトネ)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "atone (アトネ)",
+    "aliases": [
+      "atone",
+      "アトネ",
+      "atone 翌月払い",
+      "atone Net Protections"
+    ],
+    "domain": "payment-firms",
+    "created": "2026-05-24",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
+    "review_by": "2026-11-20",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "BNPL",
+      "atobarai",
+      "consumer-credit",
+      "wallet",
+      "net-protections"
+    ],
+    "status": "active",
+    "sources": [
+      "https://atone.be/",
+      "https://corp.netprotections.com/",
+      "https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html"
+    ]
+  },
+  "summary": "This entry sits under the JapanFG index as a consumer BNPL wallet brand. Read it together with the Japan BNPL landscape system note, the Net Protections HD corporate parent for ownership context, and the Paidy peer for direct comparator. The BNPL and credit-purchase boundary page sets the regulatory",
+  "headings": [
+    "atone (アトネ)",
+    "Wiki route",
+    "TL;DR",
+    "1. 法人・ライセンス境界",
+    "2. Business role",
+    "3. Why this standalone page matters",
+    "4. 規制・政策",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 9,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "payment-firms/bnpl-landscape",
+      "payment-firms/famima-digital-one",
+      "payment-firms/merpay",
+      "payment-firms/net-protections-hd",
+      "payment-firms/paidy",
+      "payments/credit-purchase-card-operators-japan-index",
+      "payments/japan-bnpl-credit-purchase-boundary",
+      "payments/japan-payment-scheme-economics-matrix"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/payment-firms/bnpl-landscape",
+      "https://finwiki.zksc.io/payment-firms/famima-digital-one",
+      "https://finwiki.zksc.io/payment-firms/merpay",
+      "https://finwiki.zksc.io/payment-firms/net-protections-hd",
+      "https://finwiki.zksc.io/payment-firms/paidy",
+      "https://finwiki.zksc.io/payments/credit-purchase-card-operators-japan-index",
+      "https://finwiki.zksc.io/payments/japan-bnpl-credit-purchase-boundary",
+      "https://finwiki.zksc.io/payments/japan-payment-scheme-economics-matrix"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2609,
+    "word_like_tokens": 388,
+    "inbound_wikilinks_count": 4,
+    "last_modified": "2026-06-04"
+  }
+}

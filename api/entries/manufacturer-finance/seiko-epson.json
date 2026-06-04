@@ -50,23 +50,23 @@
     "wikilinks_count": 4,
     "wikilinks": [
       "INDEX",
-      "JapanFG/hachijuni-bank",
       "manufacturer-finance/INDEX",
-      "manufacturer-finance/toyota-motor"
+      "manufacturer-finance/toyota-motor",
+      "regional-banks/hachijuni-bank"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/hachijuni-bank",
       "https://finwiki.zksc.io/manufacturer-finance/INDEX",
-      "https://finwiki.zksc.io/manufacturer-finance/toyota-motor"
+      "https://finwiki.zksc.io/manufacturer-finance/toyota-motor",
+      "https://finwiki.zksc.io/regional-banks/hachijuni-bank"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2432,
-    "word_like_tokens": 346,
+    "nonspace_chars": 2453,
+    "word_like_tokens": 349,
     "inbound_wikilinks_count": 6,
-    "last_modified": "2026-06-03"
+    "last_modified": "2026-06-04"
   }
 }

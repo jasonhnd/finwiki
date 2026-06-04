@@ -36,7 +36,7 @@ translated_at: 2026-06-03T00:53:08.290Z
 
 プライマリー市場は以下に支えられる。
 
-- **引受シンジケート**。主要証券会社（[[JapanFG/nomura-hd|Nomura]]、[[JapanFG/daiwa-sg|Daiwa]]、[[JapanFG/mufg-mums|Mitsubishi UFJ Morgan Stanley]]、[[JapanFG/smbc-nikko|SMBC Nikko]]、[[JapanFG/mizuho-bank|Mizuho Securities]]）が主導する。
+- **引受シンジケート**。主要証券会社（[[securities-firms/nomura-hd|Nomura]]、[[securities-firms/daiwa-sg|Daiwa]]、[[securities-firms/mufg-mums|Mitsubishi UFJ Morgan Stanley]]、[[securities-firms/smbc-nikko|SMBC Nikko]]、[[megabanks/mizuho-bank|Mizuho Securities]]）が主導する。
 - **上場審査**。JPX-R（日本取引所自主規制法人）が担う。
 - **開示**。EDINET（財務諸表開示）と TDnet（適時開示）を通じて行われる。
 - **JSDA自主規制**。販売行為を対象とする。
@@ -52,7 +52,7 @@ translated_at: 2026-06-03T00:53:08.290Z
 | 上場デリバティブ | [[derivatives/jgb-futures-curve|JGB futures]] / [[derivatives/nikkei-225-futures-options|Nikkei 225]] / TOPIX / OSE上のTONA先物 | [[derivatives/INDEX]], [[derivatives/topix-futures]] |
 | OTC株式 / 債券 | ディーラー市場、JSDA気配システム | [[derivatives/INDEX]], [[securities/japan-market-infrastructure-map]] |
 | OTCデリバティブ | 相対OTC、対象範囲はJSCCで清算 | [[derivatives/japan-otc-derivative-market-overview]], [[derivatives/otc-clearing-jp-trade-repository]] |
-| 株券貸借 | OTC相対 + JSF | [[securities/japan-stock-lending-market-route]], [[JapanFG/japan-securities-finance]] |
+| 株券貸借 | OTC相対 + JSF | [[securities/japan-stock-lending-market-route]], [[financial-regulators/japan-securities-finance]] |
 | 信用取引 | 証券会社信用 + JSF貸借取引 | [[securities/japan-margin-trading-and-securities-finance]] |
 | JGB現物 | OTCインターディーラー | [[money-market/jgb-repo-market-japan]] |
 
@@ -62,7 +62,7 @@ translated_at: 2026-06-03T00:53:08.290Z
 - TSE と PTS 間の**スマート・オーダー・ルーティング（SOR）**。
 - **マーケットメーカーと流動性供給者**（[[securities/japan-market-maker-and-liquidity-provider-landscape]]）。
 - **空売り規制**（[[securities/japan-short-selling-and-stock-loan-controls]]）。
-- **信用取引 / 証券金融インフラ**（[[JapanFG/japan-securities-finance]]）。
+- **信用取引 / 証券金融インフラ**（[[financial-regulators/japan-securities-finance]]）。
 
 ### 3. 清算
 
@@ -111,9 +111,9 @@ translated_at: 2026-06-03T00:53:08.290Z
 | カテゴリ | 例 |
 |---|---|
 | 発行体 | 上場会社（TSE Prime 約1,600, 、Standard 約1,500, 、Growth 約600）、JGB発行体（財務省）、J-REITスポンサー、社債発行体、ABSオリジネーター。 |
-| 引受会社 | [[JapanFG/nomura-hd|Nomura]]、[[JapanFG/daiwa-sg|Daiwa]]、[[JapanFG/mufg-mums|MUMSS]]、[[JapanFG/smbc-nikko|SMBC Nikko]]、[[JapanFG/mizuho-bank|Mizuho Securities]]、外資系IB。 |
-| 証券会社（リテール） | [[JapanFG/sbi-hd|SBI Securities]]、[[JapanFG/rakuten-fg|Rakuten Securities]]、[[JapanFG/monex-group|Monex]]、Matsui Securities、[[JapanFG/mufg-esmart-securities|MUFG eSmart]]、[[JapanFG/paypay-securities|PayPay Securities]]、GMO Click、DMM。[[securities/japan-online-brokerage-competition]] を参照。 |
-| アセットマネージャー | [[JapanFG/asset-management-one|Asset Management One]]（Mizuho）、[[JapanFG/mufg-asset-management|MUFG Asset Management]]、Nomura Asset Management、Nikko Asset Management、Daiwa Asset Management。[[securities/japan-asset-manager-landscape-matrix]] を参照。 |
+| 引受会社 | [[securities-firms/nomura-hd|Nomura]]、[[securities-firms/daiwa-sg|Daiwa]]、[[securities-firms/mufg-mums|MUMSS]]、[[securities-firms/smbc-nikko|SMBC Nikko]]、[[megabanks/mizuho-bank|Mizuho Securities]]、外資系IB。 |
+| 証券会社（リテール） | [[megabanks/sbi-hd|SBI Securities]]、[[payment-firms/rakuten-fg|Rakuten Securities]]、[[securities-firms/monex-group|Monex]]、Matsui Securities、[[securities-firms/mufg-esmart-securities|MUFG eSmart]]、[[securities-firms/paypay-securities|PayPay Securities]]、GMO Click、DMM。[[securities/japan-online-brokerage-competition]] を参照。 |
+| アセットマネージャー | [[asset-managers/asset-management-one|Asset Management One]]（Mizuho）、[[asset-managers/mufg-asset-management|MUFG Asset Management]]、Nomura Asset Management、Nikko Asset Management、Daiwa Asset Management。[[securities/japan-asset-manager-landscape-matrix]] を参照。 |
 | 信託銀行（カストディ） | [[banking/japan-master-trust-and-custody-bank-landscape|Master Trust Bank of Japan, Japan Trustee Services Bank, etc.]] |
 | 機関投資家 | GPIF、生保、損保、BoJ（JGB保有）、海外機関投資家口座。 |
 | 外国ブローカー | JPMorgan、Goldman Sachs、Citi、Morgan Stanley、Deutsche Bank、BNP Paribas、HSBC、UBS、Barclays。 |
@@ -130,7 +130,7 @@ translated_at: 2026-06-03T00:53:08.290Z
 | 海外JGB保有 | 海外口座はJGB浮動分の相応のシェアを保有する。 |
 | EMIR同等性 | JSCC はEUカウンターパーティ向けに EMIR同等性を持つ。 |
 | Title VII / CFTC同等性 | JSCC はIRS清算について CFTC代替コンプライアンス / 同等性要素を持つ。 |
-| ICSD連携 | 外国銀行はクロスボーダー決済を支えるICSDとして機能する。[[JapanFG/clearstream-banking-japan]] を参照。 |
+| ICSD連携 | 外国銀行はクロスボーダー決済を支えるICSDとして機能する。[[foreign-financial-institutions/clearstream-banking-japan]] を参照。 |
 | TSE上場ETFのクロス上場 | 限定的なクロス上場。主に相互承認。 |
 
 ## 公開データソース
@@ -197,12 +197,12 @@ translated_at: 2026-06-03T00:53:08.290Z
 - [[banking/japan-master-trust-and-custody-bank-landscape]]
 - [[banking/jasdec-settlement-operations]]
 - [[JapanFG/INDEX]]
-- [[JapanFG/japan-exchange-group]]
-- [[JapanFG/japan-securities-finance]]
-- [[JapanFG/nomura-hd]]
-- [[JapanFG/daiwa-sg]]
-- [[JapanFG/mufg-mums]]
-- [[JapanFG/smbc-nikko]]
+- [[financial-regulators/japan-exchange-group]]
+- [[financial-regulators/japan-securities-finance]]
+- [[securities-firms/nomura-hd]]
+- [[securities-firms/daiwa-sg]]
+- [[securities-firms/mufg-mums]]
+- [[securities-firms/smbc-nikko]]
 - [[INDEX|FinWiki index]]
 
 ## 出典

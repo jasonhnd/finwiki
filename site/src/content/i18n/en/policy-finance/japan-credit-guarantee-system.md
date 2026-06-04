@@ -16,7 +16,7 @@ This entry sits under [[policy-finance/INDEX|policy-finance index]] as the SME-f
 
 ## TL;DR
 
-Japan's credit guarantee system is the public-credit infrastructure that supports SME and small-business funding in Japan. It is a layered system: (1) 51 prefectural / city-level **Credit Guarantee Corporations (CGCs)** guarantee eligible SME borrowing from financial institutions; (2) the **Japan Federation of Credit Guarantee Corporations (JFG)** coordinates the 51 CGCs and pools the responsibility-sharing burdens; (3) the **credit insurance** layer is operated by [[JapanFG/jfc|Japan Finance Corporation (JFC)]], which reinsures CGC guarantees so that final residual loss falls on the public-credit infrastructure rather than collapsing the CGC layer. Together this is the credit-supplementation system. It is not a single lender; it is a public-credit architecture. The 2020-2022 ZeroZero loan special program, effectively interest-free and unsecured, ran through this system and continues to unwind into 2024-2026 in subrogation cycles.
+Japan's credit guarantee system is the public-credit infrastructure that supports SME and small-business funding in Japan. It is a layered system: (1) 51 prefectural / city-level **Credit Guarantee Corporations (CGCs)** guarantee eligible SME borrowing from financial institutions; (2) the **Japan Federation of Credit Guarantee Corporations (JFG)** coordinates the 51 CGCs and pools the responsibility-sharing burdens; (3) the **credit insurance** layer is operated by [[financial-regulators/jfc|Japan Finance Corporation (JFC)]], which reinsures CGC guarantees so that final residual loss falls on the public-credit infrastructure rather than collapsing the CGC layer. Together this is the credit-supplementation system. It is not a single lender; it is a public-credit architecture. The 2020-2022 ZeroZero loan special program, effectively interest-free and unsecured, ran through this system and continues to unwind into 2024-2026 in subrogation cycles.
 
 ## 1. System architecture: the credit-supplementation stack
 
@@ -26,7 +26,7 @@ Japan's credit guarantee system is the public-credit infrastructure that support
 | Financial institution (lender) | Extends the loan and shares responsibility under the applicable scheme. | [[banking/regional-bank-consolidation-pattern]] / shinkin / credit-cooperative pages as relevant |
 | Local credit guarantee corporation (51) | Guarantees eligible SME obligations; handles subrogation / recovery. | This system + local CGC pages where strategic (e.g., [[policy-finance/hokkaido-credit-guarantee-corp]]) |
 | Japan Federation of Credit Guarantee Corporations (JFG) | Coordinates the 51 CGCs; administers responsibility-sharing system financial flows. | [[policy-finance/national-federation-credit-guarantee-corporations]] |
-| Credit insurance, JFC | Reinsures CGC guarantees; absorbs residual loss after CGC subrogation. | [[JapanFG/jfc]] |
+| Credit insurance, JFC | Reinsures CGC guarantees; absorbs residual loss after CGC subrogation. | [[financial-regulators/jfc]] |
 | METI / SME Agency | Policy supervisor; sets program design, eligibility, and crisis-mode authorization. | [[policy-finance/INDEX]] |
 | Prefectures / municipalities | Local governments co-fund local programs, designate local-emergency events, and provide subsidies. | Local government routes |
 
@@ -107,7 +107,7 @@ Each local CGC is capitalized through a mix of:
 - **Lender contribution**: partner banks, shinkin banks, and credit cooperatives contribute capital to their local CGC.
 - **Guarantee fee income**: annual rate on guaranteed principal, typically in the low single-digit-percent range, with policy-program subsidies.
 - **Federation pooled fund** — JFG-administered reserves backing system-level coordination.
-- **JFC credit insurance**: reinsurance reimbursement on subrogation events through the [[JapanFG/jfc|JFC credit-insurance operations]] account.
+- **JFC credit insurance**: reinsurance reimbursement on subrogation events through the [[financial-regulators/jfc|JFC credit-insurance operations]] account.
 
 The **public-credit risk-bearing waterfall** is: borrower recovery → CGC reserves → JFC reinsurance → national fiscal backstop.
 
@@ -158,8 +158,8 @@ Recovery rates vary by region, sector, and collateral type — urban CGCs (Tokyo
 - [[policy-finance/osaka-credit-guarantee-corp]]
 - [[policy-finance/aichi-credit-guarantee-corp]]
 - [[policy-finance/hyogo-credit-guarantee-corp]]
-- [[JapanFG/jfc]]
-- [[JapanFG/shoko-chukin]]
+- [[financial-regulators/jfc]]
+- [[financial-regulators/shoko-chukin]]
 - [[banking/shinkin-bank-registry-japan]]
 - [[banking/credit-cooperative-registry-japan]]
 - [[banking/regional-bank-consolidation-pattern]]

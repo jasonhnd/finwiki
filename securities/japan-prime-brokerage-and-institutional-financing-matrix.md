@@ -49,7 +49,7 @@ Prime brokerage in Japan is **not a single license** — it is a wholesale-servi
 
 ## Wiki route
 
-This page sits under [[securities/INDEX|securities index]] as the provider-comparison matrix companion to [[securities/japan-prime-brokerage-and-institutional-financing|Japan prime brokerage and institutional financing]] (the conceptual / functional overview). Read it with [[securities/japan-stock-lending-market-route|Japan stock lending market route]] for the stock-borrow rail, [[securities/japan-margin-trading-and-securities-finance|Japan margin trading and securities finance]] for the retail-margin distinction, [[securities/japan-market-infrastructure-map|Japan market infrastructure map]] for the JSCC / JASDEC settlement rail, [[securities/japan-best-execution-sor-pts|Japan best execution / SOR / PTS]] for the execution-venue layer, and [[securities/japan-pts-liquidity-data-guide|Japan PTS liquidity data guide]] for PTS-side liquidity flow. The legal-stack anchor is [[JapanFG/legal-financial-licenses/securities-license-stack|securities license stack]], and segment-level classification is in [[securities/japan-fiea-operator-registry-segment-matrix|Japan FIEA operator registry segment matrix]].
+This page sits under [[securities/INDEX|securities index]] as the provider-comparison matrix companion to [[securities/japan-prime-brokerage-and-institutional-financing|Japan prime brokerage and institutional financing]] (the conceptual / functional overview). Read it with [[securities/japan-stock-lending-market-route|Japan stock lending market route]] for the stock-borrow rail, [[securities/japan-margin-trading-and-securities-finance|Japan margin trading and securities finance]] for the retail-margin distinction, [[securities/japan-market-infrastructure-map|Japan market infrastructure map]] for the JSCC / JASDEC settlement rail, [[securities/japan-best-execution-sor-pts|Japan best execution / SOR / PTS]] for the execution-venue layer, and [[securities/japan-pts-liquidity-data-guide|Japan PTS liquidity data guide]] for PTS-side liquidity flow. The legal-stack anchor is [[financial-licenses/securities-license-stack|securities license stack]], and segment-level classification is in [[securities/japan-fiea-operator-registry-segment-matrix|Japan FIEA operator registry segment matrix]].
 
 ## Why this matrix matters
 
@@ -64,11 +64,11 @@ A blanket reference to "prime broker in Tokyo" hides the structural differences 
 
 Without provider-level decomposition, a $50m macro hedge fund launching in Tokyo, a $5bn long-short equity fund, a family office, and a sovereign-wealth fund all look like "PB clients" — but their provider shortlists barely overlap.
 
-## Provider 1 — [[JapanFG/nomura-hd|Nomura]] (Prime Finance — Nomura Securities)
+## Provider 1 — [[securities-firms/nomura-hd|Nomura]] (Prime Finance — Nomura Securities)
 
 - **License footprint.** Type I 金商業者 (Nomura Securities Co., Ltd.); JSDA full member; PTS-eligible underlying broker; JIPF-covered customer-asset segregation. Bank-affiliated trust services through MUTB-equivalent custodian arrangements within Nomura group.
 - **PB client mix.** **Heaviest domestic-hedge-fund coverage of any provider** — long-only AMs, domestic / regional pension funds, long-short equity hedge funds focused on Japan, multi-strat funds with Japan sleeves, family offices, and foreign hedge-fund Tokyo branches. The "default domestic prime" for many Japanese-strategy funds.
-- **Stock loan capability.** Largest domestic stock-borrow inventory by depth (cross-shareholding-rooted relationships with [[JapanFG/japan-securities-finance|Japan Securities Finance]] and trust-bank custodians); deepest single-name borrow for [[JapanFG/japan-exchange-group|JPX]] Prime Market and Standard Market names; competitive on small-cap / Growth Market when borrow is locatable.
+- **Stock loan capability.** Largest domestic stock-borrow inventory by depth (cross-shareholding-rooted relationships with [[financial-regulators/japan-securities-finance|Japan Securities Finance]] and trust-bank custodians); deepest single-name borrow for [[financial-regulators/japan-exchange-group|JPX]] Prime Market and Standard Market names; competitive on small-cap / Growth Market when borrow is locatable.
 - **Repo capacity.** Top-tier JGB repo book through Nomura's primary-dealer status; cross-currency repo via global desks (Hong Kong / London / NY).
 - **Margin lending.** Full institutional margin (negotiable margin / 制度信用 / 一般信用 distinction in [[securities/japan-margin-trading-and-securities-finance|margin trading and securities finance]]); risk-based portfolio margin available for sophisticated clients.
 - **Derivatives.** Full TOPIX / Nikkei 225 listed futures / options coverage via JPX; OTC equity swaps, single-stock swaps, equity-linked structured products; full OTC interest-rate / FX / credit derivatives book.
@@ -78,11 +78,11 @@ Without provider-level decomposition, a $50m macro hedge fund launching in Tokyo
 - **Geographic reach.** Tokyo head office; Osaka office; integrated with Nomura International (London), Nomura Securities International (NY), Nomura Singapore, Nomura Hong Kong — 24-hour global prime finance book.
 - **Distinguishing trait.** Deepest domestic-borrow and domestic-hedge-fund coverage of any PB provider. The structural advantage is **inventory** rather than balance-sheet pricing.
 
-## Provider 2 — [[JapanFG/daiwa-sg|Daiwa Securities Group]] (Daiwa Securities)
+## Provider 2 — [[securities-firms/daiwa-sg|Daiwa Securities Group]] (Daiwa Securities)
 
 - **License footprint.** Type I 金商業者 (Daiwa Securities Co. Ltd.); JSDA full member; PTS-eligible; JIPF-covered.
 - **PB client mix.** Domestic AMs, regional pension funds, mid-size hedge funds, and the long tail of domestic institutional clients that prefer a second domestic PB to Nomura. Family-office and high-net-worth coverage via Daiwa Securities adjacent platforms.
-- **Stock loan capability.** Second-deepest domestic borrow inventory after Nomura; strong relationships with [[JapanFG/japan-securities-finance|JSF]] and trust-bank custodians; competitive on large-cap and mid-cap borrow.
+- **Stock loan capability.** Second-deepest domestic borrow inventory after Nomura; strong relationships with [[financial-regulators/japan-securities-finance|JSF]] and trust-bank custodians; competitive on large-cap and mid-cap borrow.
 - **Repo capacity.** Primary-dealer JGB repo book; cross-currency repo via global subsidiaries.
 - **Margin lending.** Full institutional margin; portfolio-margining selective.
 - **Derivatives.** Full JPX listed-derivatives coverage; OTC equity swaps and structured products; OTC interest-rate / FX / credit derivatives.
@@ -92,9 +92,9 @@ Without provider-level decomposition, a $50m macro hedge fund launching in Tokyo
 - **Geographic reach.** Tokyo / Osaka; integrated with Daiwa Capital Markets America, Daiwa Capital Markets Europe, Daiwa Capital Markets Hong Kong / Singapore.
 - **Distinguishing trait.** Default second-domestic-PB choice; structurally important for diversification away from a single Nomura concentration.
 
-## Provider 3 — [[JapanFG/smbc-nikko|SMBC Nikko Securities]]
+## Provider 3 — [[securities-firms/smbc-nikko|SMBC Nikko Securities]]
 
-- **License footprint.** Type I 金商業者 (SMBC Nikko Securities Inc.); JSDA full member; PTS-eligible; JIPF-covered. Megabank-arm structure — owned 100% by [[JapanFG/smfg|SMFG]] / Sumitomo Mitsui Banking Corporation.
+- **License footprint.** Type I 金商業者 (SMBC Nikko Securities Inc.); JSDA full member; PTS-eligible; JIPF-covered. Megabank-arm structure — owned 100% by [[megabanks/smfg|SMFG]] / Sumitomo Mitsui Banking Corporation.
 - **PB client mix.** Domestic institutional AMs, SMBC group cross-shareholding clients, megabank wholesale clients, listed-corporate-side IR / treasury counterparties, mid-size domestic hedge funds. Smaller direct foreign-hedge-fund coverage than the global IBs.
 - **Stock loan capability.** Megabank-group borrow inventory — pulls from SMBC custody book and group cross-shareholding relationships; strong on large-cap and dividend-stable names; smaller small-cap / Growth Market depth than independent IBs.
 - **Repo capacity.** JGB repo book through SMBC group; cross-currency repo via group desks.
@@ -102,25 +102,25 @@ Without provider-level decomposition, a $50m macro hedge fund launching in Tokyo
 - **Derivatives.** Full JPX listed-derivatives; OTC equity swaps; OTC interest-rate / FX through SMBC banking-book integration; structured products.
 - **FX prime.** SMBC banking-book FX integration; FX prime via SMBC global FX.
 - **Custody / settlement.** Direct JSCC / JASDEC member; in-house custody with segregation; group-trust-bank custody integration available for sophisticated clients.
-- **Capital introduction.** Targeted capintro through SMBC group network — strongest for funds seeking SMBC, [[JapanFG/sumitomo-life|Sumitomo Life]], MS&AD, [[JapanFG/smtb|SMTB]], and SMBC private-banking client capital.
+- **Capital introduction.** Targeted capintro through SMBC group network — strongest for funds seeking SMBC, [[life-insurers/sumitomo-life|Sumitomo Life]], MS&AD, [[trust-banks/smtb|SMTB]], and SMBC private-banking client capital.
 - **Geographic reach.** Tokyo head office; integrated with SMBC Capital Markets (London / NY) and SMBC Nikko Capital Markets Europe.
 - **Distinguishing trait.** Megabank-group balance-sheet integration — competitive financing pricing for clients aligned with SMBC group strategy.
 
-## Provider 4 — [[JapanFG/mizuho-securities|Mizuho Securities]]
+## Provider 4 — [[securities-firms/mizuho-securities|Mizuho Securities]]
 
-- **License footprint.** Type I 金商業者 (Mizuho Securities Co., Ltd.); JSDA full member; PTS-eligible; JIPF-covered. Megabank-arm — owned by [[JapanFG/mizuho-fg|Mizuho FG]].
-- **PB client mix.** Domestic institutional AMs, Mizuho group cross-shareholding clients, [[JapanFG/asset-management-one|AM-One]] (Mizuho × Dai-ichi Life) adjacency, megabank wholesale clients, mid-size domestic hedge funds with Mizuho group capital relationships.
+- **License footprint.** Type I 金商業者 (Mizuho Securities Co., Ltd.); JSDA full member; PTS-eligible; JIPF-covered. Megabank-arm — owned by [[megabanks/mizuho-fg|Mizuho FG]].
+- **PB client mix.** Domestic institutional AMs, Mizuho group cross-shareholding clients, [[asset-managers/asset-management-one|AM-One]] (Mizuho × Dai-ichi Life) adjacency, megabank wholesale clients, mid-size domestic hedge funds with Mizuho group capital relationships.
 - **Stock loan capability.** Megabank-group borrow inventory pulled from Mizuho custody book and group cross-shareholding; strong on large-cap; smaller small-cap depth than independent IBs.
 - **Repo capacity.** JGB repo book through Mizuho group; cross-currency repo via group banking book.
 - **Margin lending.** Full institutional margin; Mizuho banking-book integration allows competitive financing for group-strategic clients.
 - **Derivatives.** Full JPX listed-derivatives; OTC equity swaps; OTC interest-rate / FX through Mizuho banking-book integration; structured products with Mizuho Trust integration for trust-wrapped exposures.
 - **FX prime.** Mizuho banking-book FX integration; FX prime via Mizuho global FX.
-- **Custody / settlement.** Direct JSCC / JASDEC member; in-house custody with segregation; [[JapanFG/mizuho-trust-bank|Mizuho Trust & Banking]] custody integration available.
-- **Capital introduction.** Targeted capintro through Mizuho group network — strong for [[JapanFG/dai-ichi-life|Dai-ichi Life]] group, [[JapanFG/asset-management-one|AM-One]], and Mizuho private-banking client capital.
+- **Custody / settlement.** Direct JSCC / JASDEC member; in-house custody with segregation; [[trust-banks/mizuho-trust-bank|Mizuho Trust & Banking]] custody integration available.
+- **Capital introduction.** Targeted capintro through Mizuho group network — strong for [[life-insurers/dai-ichi-life|Dai-ichi Life]] group, [[asset-managers/asset-management-one|AM-One]], and Mizuho private-banking client capital.
 - **Geographic reach.** Tokyo head office; integrated with Mizuho Securities USA, Mizuho International (London), and Mizuho group Hong Kong / Singapore offices.
 - **Distinguishing trait.** Dai-ichi Life × AM-One adjacency creates a distinctive insurance-anchored capital-introduction channel.
 
-## Provider 5 — [[JapanFG/sbi-securities|SBI Securities]] (institutional financing sleeve)
+## Provider 5 — [[securities-firms/sbi-securities|SBI Securities]] (institutional financing sleeve)
 
 - **License footprint.** Type I 金商業者 (SBI Securities Co., Ltd.); JSDA full member; PTS-eligible; JIPF-covered.
 - **PB client mix.** **Atypical PB profile** — SBI's core institutional-financing book is primarily **stock-borrow / loan supply to wholesale market** rather than full prime brokerage. SBI's retail-margin franchise (see [[securities/japan-online-brokerage-competition|Japan online brokerage competition]] for the broker-side context) generates a large in-house stock-borrow inventory that flows to the wholesale stock-loan market. Institutional execution and small-mandate institutional servicing for SBI group AM affiliates.
@@ -130,11 +130,11 @@ Without provider-level decomposition, a $50m macro hedge fund launching in Tokyo
 - **Derivatives.** Listed derivatives coverage; OTC derivatives limited; FX margin and CFD (including crypto-CFD overlay).
 - **FX prime.** SBI FX Trade adjacency for FX margin; full FX prime narrower than megabank / global IB providers.
 - **Custody / settlement.** JSCC / JASDEC member through SBI Securities; in-house custody with FIEA segregation.
-- **Capital introduction.** Limited formal capintro; informal introduction via SBI group AM ([[JapanFG/sbi-asset-management|SBI AM]]) and SBI group fintech / crypto channel relationships.
+- **Capital introduction.** Limited formal capintro; informal introduction via SBI group AM ([[asset-managers/sbi-asset-management|SBI AM]]) and SBI group fintech / crypto channel relationships.
 - **Geographic reach.** Tokyo + nationwide retail footprint; smaller global cross-border integration than independent IBs and global IBs.
 - **Distinguishing trait.** **Stock-borrow supply rather than full-stack PB** — the "PB profile" is structurally different from the other nine providers because SBI's institutional-financing economics are dominated by the retail-margin-fed stock-borrow rail rather than balance-sheet financing.
 
-## Provider 6 — [[JapanFG/goldman-sachs-japan|Goldman Sachs Japan]]
+## Provider 6 — [[securities-firms/goldman-sachs-japan|Goldman Sachs Japan]]
 
 - **License footprint.** Type I 金商業者 (Goldman Sachs Japan Co., Ltd.); JSDA full member; PTS-eligible; JIPF-covered. Tokyo branch of Goldman Sachs global prime brokerage book.
 - **PB client mix.** **Heaviest global-hedge-fund Tokyo-presence coverage** — global multi-strategy funds (Citadel, Millennium, Point72, Balyasny, ExodusPoint, etc.) Japan sleeves; Asia macro hedge funds; quant hedge funds with Japan strategies; alternative-credit funds; activist / event-driven funds; long-short equity funds with global mandates. Smaller direct domestic-AM coverage than Nomura / Daiwa.
@@ -148,21 +148,21 @@ Without provider-level decomposition, a $50m macro hedge fund launching in Tokyo
 - **Geographic reach.** Tokyo head office; integrated with Goldman Sachs International (London), Goldman Sachs & Co. (NY), Goldman Sachs Asia (Hong Kong), Goldman Sachs Singapore — 24-hour global prime finance book with Tokyo as the Asia anchor.
 - **Distinguishing trait.** Global hedge-fund prime-broker depth + Asia capintro leadership; the "default global prime" for foreign hedge funds entering Japan.
 
-## Provider 7 — [[JapanFG/morgan-stanley-japan|Morgan Stanley Japan / MUMSS]]
+## Provider 7 — [[securities-firms/morgan-stanley-japan|Morgan Stanley Japan / MUMSS]]
 
-- **License footprint.** Type I 金商業者 — operated through **two distinct legal entities**: Morgan Stanley MUFG Securities Co., Ltd. ([[JapanFG/mufg-mums|MUMSS]], the joint venture with [[JapanFG/mufg|MUFG]]) for domestic-facing institutional brokerage, and Morgan Stanley Japan Holdings / Morgan Stanley Japan Securities for the Morgan Stanley wholly-owned global-facing institutional book. The MUMSS structure is unique among the global IBs in Japan — a JV that integrates Morgan Stanley investment-banking and institutional-financing capability with MUFG's domestic distribution.
+- **License footprint.** Type I 金商業者 — operated through **two distinct legal entities**: Morgan Stanley MUFG Securities Co., Ltd. ([[securities-firms/mufg-mums|MUMSS]], the joint venture with [[megabanks/mufg|MUFG]]) for domestic-facing institutional brokerage, and Morgan Stanley Japan Holdings / Morgan Stanley Japan Securities for the Morgan Stanley wholly-owned global-facing institutional book. The MUMSS structure is unique among the global IBs in Japan — a JV that integrates Morgan Stanley investment-banking and institutional-financing capability with MUFG's domestic distribution.
 - **PB client mix.** Global multi-strategy hedge funds (Japan sleeves), Asia macro funds, quant hedge funds, long-short equity hedge funds, and MUFG group cross-shareholding institutional clients. Strong **dual-channel** capability — global hedge-fund coverage via Morgan Stanley wholly-owned + domestic institutional coverage via MUMSS.
 - **Stock loan capability.** Combines Morgan Stanley global stock-loan book with MUMSS domestic borrow inventory (drawing from MUFG group custody); strong on large-cap, competitive on mid-cap; small-cap depth depends on MUFG group cross-shareholding availability.
 - **Repo capacity.** Top-tier global repo book; JGB repo via MUMSS primary-dealer status; cross-currency repo via Morgan Stanley global book.
 - **Margin lending.** Full risk-based portfolio margin from Morgan Stanley global platform; cross-margining across asset classes.
 - **Derivatives.** Full JPX listed-derivatives; deep OTC equity swaps via Morgan Stanley global book; OTC interest-rate / FX / credit derivatives; structured products.
 - **FX prime.** Morgan Stanley global FX prime brokerage; cross-currency margining.
-- **Custody / settlement.** JSCC / JASDEC member; in-house custody with FIEA segregation; integrated with MUFG group custody infrastructure ([[JapanFG/mitsubishi-ufj-trust-bank|MUTB]]) for trust-wrapped exposures.
+- **Custody / settlement.** JSCC / JASDEC member; in-house custody with FIEA segregation; integrated with MUFG group custody infrastructure ([[trust-banks/mitsubishi-ufj-trust-bank|MUTB]]) for trust-wrapped exposures.
 - **Capital introduction.** Established capintro program — Morgan Stanley Tokyo capintro is structurally important for global hedge funds; MUMSS adds MUFG group capital-introduction channels (MUFG private banking, Mitsubishi UFJ life-insurance-affiliated, and pension fund relationships).
 - **Geographic reach.** Tokyo head office; integrated with Morgan Stanley & Co. International (London), Morgan Stanley & Co. LLC (NY), Morgan Stanley Asia (Hong Kong), Morgan Stanley Asia (Singapore).
 - **Distinguishing trait.** Unique dual-entity structure (wholly-owned + MUFG JV) creates parallel global-hedge-fund and domestic-institutional capability inside one consolidated wholesale franchise.
 
-## Provider 8 — [[JapanFG/jpmorgan-japan|JPMorgan Japan]]
+## Provider 8 — [[foreign-financial-institutions/jpmorgan-japan|JPMorgan Japan]]
 
 - **License footprint.** Type I 金商業者 (JPMorgan Securities Japan Co., Ltd.); JSDA full member; PTS-eligible; JIPF-covered. Operates alongside JPMorgan Chase Bank N.A. Tokyo Branch ([[banking/foreign-bank-japan-retreat|foreign-bank branch tier]]) for banking-book FX, repo, and custody integration.
 - **PB client mix.** Global multi-strategy hedge funds (Japan sleeves), Asia macro funds, long-short equity, quant funds, and JPM-coverage institutional asset managers. Strong sovereign-wealth and central-bank custody / financing relationships across Asia. Smaller direct domestic-hedge-fund coverage than Nomura but comparable to GS Japan.
@@ -176,7 +176,7 @@ Without provider-level decomposition, a $50m macro hedge fund launching in Tokyo
 - **Geographic reach.** Tokyo head office; integrated with JPM London, JPM NY, JPM Hong Kong, JPM Singapore — full 24-hour global prime services platform.
 - **Distinguishing trait.** **Custody + banking-book + prime services integration** — JPM is among the few global IBs that can offer all three inside one Tokyo wholesale relationship, which matters disproportionately for cross-border AM mandates and sovereign-wealth clients.
 
-## Provider 9 — [[JapanFG/citigroup-japan|Citi Japan]] (Citigroup Global Markets Japan)
+## Provider 9 — [[foreign-financial-institutions/citigroup-japan|Citi Japan]] (Citigroup Global Markets Japan)
 
 - **License footprint.** Type I 金商業者 (Citigroup Global Markets Japan Inc.); JSDA full member; PTS-eligible; JIPF-covered. Operates alongside Citibank N.A. Tokyo Branch ([[banking/foreign-bank-japan-retreat|foreign-bank branch]]).
 - **PB client mix.** Global multi-strategy hedge funds (Japan sleeves), Asia macro funds, long-short equity, and Citi global-coverage institutional clients. Significant FX prime and rates-prime overlap with Citi's global FX / rates franchise.
@@ -190,7 +190,7 @@ Without provider-level decomposition, a $50m macro hedge fund launching in Tokyo
 - **Geographic reach.** Tokyo head office; integrated with Citi London, Citi NY, Citi Hong Kong, Citi Singapore.
 - **Distinguishing trait.** FX prime + rates derivatives depth — Citi is the structural choice for FX-heavy and rates-heavy strategies; equity PB is competitive but not as deep as GS / MS / JPM in Japan.
 
-## Provider 10 — [[JapanFG/bank-of-america-japan|Bank of America Japan]] (BofA Securities Japan)
+## Provider 10 — [[foreign-financial-institutions/bank-of-america-japan|Bank of America Japan]] (BofA Securities Japan)
 
 - **License footprint.** Type I 金商業者 (BofA Securities Japan Co., Ltd.); JSDA full member; PTS-eligible; JIPF-covered. Operates alongside Bank of America N.A. Tokyo Branch ([[banking/foreign-bank-japan-retreat|foreign-bank branch]]).
 - **PB client mix.** Global multi-strategy hedge funds (Japan sleeves), Asia long-short equity hedge funds, BofA global-coverage institutional clients, and Asia macro funds. Smaller dedicated PB book in Japan than GS / MS / JPM but materially present.
@@ -210,7 +210,7 @@ Without provider-level decomposition, a $50m macro hedge fund launching in Tokyo
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Provider archetype** | Independent IB (domestic) | Independent IB (domestic) | Megabank arm (SMFG) | Megabank arm (Mizuho FG) | Online-broker-rooted | Global IB | Global IB + MUFG JV | Global IB + banking | Global IB + FX/rates depth | Global IB |
 | **License** | Type I 金商業者 | Type I 金商業者 | Type I 金商業者 | Type I 金商業者 | Type I 金商業者 | Type I 金商業者 | Type I × 2 entities (MUMSS + MS Japan) | Type I 金商業者 | Type I 金商業者 | Type I 金商業者 |
-| **Parent type** | Listed independent ([[JapanFG/nomura-hd\|Nomura HD]]) | Listed independent ([[JapanFG/daiwa-sg\|Daiwa SG]]) | Megabank ([[JapanFG/smfg\|SMFG]]) | Megabank ([[JapanFG/mizuho-fg\|Mizuho FG]]) | Listed online-broker ([[JapanFG/sbi-hd\|SBI HD]]) | Foreign IB (GS group) | Foreign IB × MUFG JV | Foreign IB (JPM) | Foreign IB (Citi) | Foreign IB (BofA) |
+| **Parent type** | Listed independent ([[securities-firms/nomura-hd\|Nomura HD]]) | Listed independent ([[securities-firms/daiwa-sg\|Daiwa SG]]) | Megabank ([[megabanks/smfg\|SMFG]]) | Megabank ([[megabanks/mizuho-fg\|Mizuho FG]]) | Listed online-broker ([[megabanks/sbi-hd\|SBI HD]]) | Foreign IB (GS group) | Foreign IB × MUFG JV | Foreign IB (JPM) | Foreign IB (Citi) | Foreign IB (BofA) |
 | **PB client mix** | Domestic AMs + HFs heavy | Domestic AMs + HFs second tier | Domestic AMs + group | Domestic AMs + group + AM-One adjacency | Stock-borrow supplier; small institutional | Global HFs + Asia capintro leader | Global HFs + MUFG group | Global HFs + sovereign + AMs | Global HFs + FX-prime focused | Global HFs |
 | **Hedge-fund focus** | Domestic + foreign HFs | Domestic HFs primary | Smaller direct HF | Smaller direct HF | Indirect (borrow supplier) | **Tier-1 global HF** | Tier-1 global HF | Tier-1 global HF | Tier-1 global HF | Tier-2 global HF |
 | **Family-office coverage** | Domestic FO via Nomura PB | Domestic FO via Daiwa PB | SMBC private bank channel | Mizuho private bank channel | Limited | GS PWM adjacency | MS PWM + MUFG PB | JPM PB adjacency | Citi PB adjacency | BofA / Merrill PB |
@@ -234,7 +234,7 @@ Note on collateral haircuts: published indicative ranges (Nomura: cash 0%, JGB 2
 
 ## Stock-loan fee benchmark guide
 
-Public-source benchmarks for the SLB (securities lending and borrowing) market in Japan come from JSDA self-regulatory aggregate publications, [[JapanFG/japan-securities-finance|Japan Securities Finance]] published rate references, and JPX margin-trading statistics. **Indicative fee ranges** for institutional stock borrow in Japan (highly variable by name, concentration, recall risk, corporate-action proximity, and counterparty):
+Public-source benchmarks for the SLB (securities lending and borrowing) market in Japan come from JSDA self-regulatory aggregate publications, [[financial-regulators/japan-securities-finance|Japan Securities Finance]] published rate references, and JPX margin-trading statistics. **Indicative fee ranges** for institutional stock borrow in Japan (highly variable by name, concentration, recall risk, corporate-action proximity, and counterparty):
 
 | Borrow tier | Indicative annualized fee range | Typical names |
 |---|---|---|
@@ -268,8 +268,8 @@ For a hedge fund choosing first / second / third PB diversification, the capintr
 - **PB ≠ AM.** Prime brokerage **services** AMs and hedge funds; it does not replace 投資運用業. Most global IB PB providers also run separate 投資運用業 subsidiaries (BlackRock, JPMAM, GS AM, MS IM) — different legal entities, different licenses, different fee streams.
 - **MUMSS dual structure.** Morgan Stanley operates in Japan through both MUMSS (the MUFG JV — covers domestic-facing institutional brokerage) and Morgan Stanley Japan Securities (wholly-owned — covers global-facing institutional book). PB clients can interact with either depending on coverage; the dual structure is unique among global IBs in Japan.
 - **SBI atypical PB profile.** SBI Securities is included because its retail-margin-fed stock-borrow supply makes it a structurally important counterparty to the wholesale stock-loan market, **not** because it runs a tier-1 full-stack PB business. Excluding SBI from this matrix would understate Japan's stock-loan supply rail.
-- **BNY Mellon / State Street / custodian-only.** [[JapanFG/bny-mellon-japan|BNY Mellon Japan]], [[JapanFG/state-street-japan|State Street Japan]], and similar **custodian-first** providers offer asset-administration and securities-lending agency services but are not full-stack PB providers — they are custody and SLB infrastructure providers. Sometimes called "agency lending" rather than "prime brokerage" — covered in [[securities/japan-stock-lending-market-route|Japan stock lending market route]].
-- **UBS / Barclays / BNP / Deutsche / SocGen.** Other foreign IBs ([[JapanFG/ubs-japan|UBS Japan]], [[JapanFG/barclays-japan|Barclays Japan]], [[JapanFG/bnp-paribas-japan|BNP Paribas Japan]], [[JapanFG/deutsche-japan|Deutsche Japan]], [[JapanFG/socgen-japan|SocGen Japan]]) operate institutional-financing capability in Japan but are typically narrower in PB-product breadth than the top 5 global IBs covered; some restructured Asian / Japan equity-PB capacity post-2010. See [[banking/foreign-bank-japan-retreat|Foreign-bank Japan retreat]] for the broader retrenchment context.
+- **BNY Mellon / State Street / custodian-only.** [[foreign-financial-institutions/bny-mellon-japan|BNY Mellon Japan]], [[foreign-financial-institutions/state-street-japan|State Street Japan]], and similar **custodian-first** providers offer asset-administration and securities-lending agency services but are not full-stack PB providers — they are custody and SLB infrastructure providers. Sometimes called "agency lending" rather than "prime brokerage" — covered in [[securities/japan-stock-lending-market-route|Japan stock lending market route]].
+- **UBS / Barclays / BNP / Deutsche / SocGen.** Other foreign IBs ([[foreign-financial-institutions/ubs-japan|UBS Japan]], [[foreign-financial-institutions/barclays-japan|Barclays Japan]], [[foreign-financial-institutions/bnp-paribas-japan|BNP Paribas Japan]], [[foreign-financial-institutions/deutsche-japan|Deutsche Japan]], [[foreign-financial-institutions/socgen-japan|SocGen Japan]]) operate institutional-financing capability in Japan but are typically narrower in PB-product breadth than the top 5 global IBs covered; some restructured Asian / Japan equity-PB capacity post-2010. See [[banking/foreign-bank-japan-retreat|Foreign-bank Japan retreat]] for the broader retrenchment context.
 - **Settlement infrastructure.** All ten providers covered are direct [[securities/japan-securities-clearing-corp|JSCC]] and [[securities/japan-securities-depository-center|JASDEC]] members — that is part of what makes them tier-1 PB providers. Smaller institutional brokers may sub-clear through one of the ten.
 - **Stock-loan haircut and pricing opacity.** Published indicative rates (above) are aggregate market levels; provider-specific haircut grids and stock-loan fees are bilateral and not publicly disclosed. Use this matrix for structural comparison; never quote specific haircut numbers as provider-published facts.
 - **Cross-border tax / regulatory complexity.** Cross-border PB books (especially for foreign hedge funds with Tokyo Japan-only sleeves) require coordination of FIEA, Japanese tax (withholding on dividend, capital-gains treatment for foreign limited partners), and home-country regulation. A "Tokyo PB account" is rarely a single legal relationship.
@@ -295,29 +295,29 @@ For a hedge fund choosing first / second / third PB diversification, the capintr
 - [[securities/osaka-digital-exchange]]
 - [[securities/japan-securities-clearing-corp]]
 - [[securities/japan-securities-depository-center]]
-- [[JapanFG/legal-financial-licenses/securities-license-stack]]
-- [[JapanFG/legal-financial-licenses/INDEX]]
-- [[JapanFG/jsda]]
-- [[JapanFG/japan-exchange-group]]
-- [[JapanFG/japan-securities-finance]]
-- [[JapanFG/nomura-hd]]
-- [[JapanFG/daiwa-sg]]
-- [[JapanFG/smbc-nikko]]
-- [[JapanFG/mizuho-securities]]
-- [[JapanFG/mufg-mums]]
-- [[JapanFG/sbi-securities]]
-- [[JapanFG/goldman-sachs-japan]]
-- [[JapanFG/morgan-stanley-japan]]
-- [[JapanFG/jpmorgan-japan]]
-- [[JapanFG/citigroup-japan]]
-- [[JapanFG/bank-of-america-japan]]
-- [[JapanFG/ubs-japan]]
-- [[JapanFG/barclays-japan]]
-- [[JapanFG/bnp-paribas-japan]]
-- [[JapanFG/deutsche-japan]]
-- [[JapanFG/socgen-japan]]
-- [[JapanFG/bny-mellon-japan]]
-- [[JapanFG/state-street-japan]]
+- [[financial-licenses/securities-license-stack]]
+- [[financial-licenses/INDEX]]
+- [[financial-regulators/jsda]]
+- [[financial-regulators/japan-exchange-group]]
+- [[financial-regulators/japan-securities-finance]]
+- [[securities-firms/nomura-hd]]
+- [[securities-firms/daiwa-sg]]
+- [[securities-firms/smbc-nikko]]
+- [[securities-firms/mizuho-securities]]
+- [[securities-firms/mufg-mums]]
+- [[securities-firms/sbi-securities]]
+- [[securities-firms/goldman-sachs-japan]]
+- [[securities-firms/morgan-stanley-japan]]
+- [[foreign-financial-institutions/jpmorgan-japan]]
+- [[foreign-financial-institutions/citigroup-japan]]
+- [[foreign-financial-institutions/bank-of-america-japan]]
+- [[foreign-financial-institutions/ubs-japan]]
+- [[foreign-financial-institutions/barclays-japan]]
+- [[foreign-financial-institutions/bnp-paribas-japan]]
+- [[foreign-financial-institutions/deutsche-japan]]
+- [[foreign-financial-institutions/socgen-japan]]
+- [[foreign-financial-institutions/bny-mellon-japan]]
+- [[foreign-financial-institutions/state-street-japan]]
 - [[banking/foreign-bank-japan-retreat]]
 - [[INDEX|FinWiki index]]
 

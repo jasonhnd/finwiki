@@ -25,7 +25,7 @@ translated_at: 2026-06-02T13:21:55.062Z
 
 ## 仕組み
 
-**アービトラージ経路**:USDC (Circle USD 1:1) ↔ EURC (Circle EUR 1:1) ↔ [[JapanFG/jpyc|JPYC]] (JPYC Inc. JPY 1:1) ↔ USDC ポジション解消。
+**アービトラージ経路**:USDC (Circle USD 1:1) ↔ EURC (Circle EUR 1:1) ↔ [[payment-firms/jpyc|JPYC]] (JPYC Inc. JPY 1:1) ↔ USDC ポジション解消。
 
 | ステップ | 操作 | コスト |
 |---|---|---|

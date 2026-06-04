@@ -12,7 +12,7 @@ translated_at: 2026-06-02T11:47:37.286Z
 
 ## ウィキ上の位置づけ
 
-このエントリは [[banking/INDEX|banking index]] の下にある。エンティティアンカー [[JapanFG/custody-bank|日本カストディ銀行 (CBJ)]]、事業上のピア [[banking/master-trust-bank-operating-model|Master Trust Bank operating model]] およびエンティティ [[JapanFG/master-trust-bank|MTBJ]]、業界俯瞰の要約 [[banking/japan-master-trust-and-custody-bank-landscape|Japan master trust and custody bank landscape]]、陣営横断マトリクス [[banking/japan-trust-bank-vs-global-custodian-comparison-matrix|Japan trust bank vs global custodian comparison matrix]]、事業比較 [[banking/trust-bank-custody-operating-comparison|trust-bank custody operating comparison]] と合わせて読むこと。決済インフラ側については [[securities/japan-securities-depository-center|JASDEC]] および [[securities/japan-securities-clearing-corp|JSCC]] と、規制階層については [[banking/japan-banking-license-tier-comparison-matrix|Japan banking license tier comparison matrix]] と、株主側の信託銀行ページ [[JapanFG/sumitomo-mitsui-trust|SMTB]] および [[JapanFG/mizuho-trust-bank|Mizuho Trust]] と、機関の文脈については [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]] とペアで読むこと。
+このエントリは [[banking/INDEX|banking index]] の下にある。エンティティアンカー [[trust-banks/custody-bank|日本カストディ銀行 (CBJ)]]、事業上のピア [[banking/master-trust-bank-operating-model|Master Trust Bank operating model]] およびエンティティ [[trust-banks/master-trust-bank|MTBJ]]、業界俯瞰の要約 [[banking/japan-master-trust-and-custody-bank-landscape|Japan master trust and custody bank landscape]]、陣営横断マトリクス [[banking/japan-trust-bank-vs-global-custodian-comparison-matrix|Japan trust bank vs global custodian comparison matrix]]、事業比較 [[banking/trust-bank-custody-operating-comparison|trust-bank custody operating comparison]] と合わせて読むこと。決済インフラ側については [[securities/japan-securities-depository-center|JASDEC]] および [[securities/japan-securities-clearing-corp|JSCC]] と、規制階層については [[banking/japan-banking-license-tier-comparison-matrix|Japan banking license tier comparison matrix]] と、株主側の信託銀行ページ [[trust-banks/sumitomo-mitsui-trust|SMTB]] および [[trust-banks/mizuho-trust-bank|Mizuho Trust]] と、機関の文脈については [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]] とペアで読むこと。
 
 ## 要約
 
@@ -32,16 +32,16 @@ translated_at: 2026-06-02T11:47:37.286Z
 | 業界団体 | 信託協会（Trust Companies Association of Japan） |
 | 機能的位置づけ | 資産管理スペシャリスト（融資なし、PBなし、不動産信託なし、相続信託なし） |
 | 公表AUCアンカー | 2025-03-31 時点で総預かり資産 約¥696 兆円（受託信託財産＋常任代理契約等に基づく預り資産；うち信託財産 ¥476兆円） |
-| ピア | [[JapanFG/master-trust-bank|Master Trust Bank of Japan (MTBJ)]] |
+| ピア | [[trust-banks/master-trust-bank|Master Trust Bank of Japan (MTBJ)]] |
 
 ### 株主構成（公開開示、2020-07-27 時点）
 
 | 株主 | 出資比率 | 読み解き |
 |---|---|---|
-| [[JapanFG/sumitomo-mitsui-trust|三井住友トラストグループ (SMTH)]] | 33.3% | 筆頭信託銀行株主；SMTBの年金／投信顧客基盤からのマンデートフローを提供；JTSBの系譜 |
-| [[JapanFG/mizuho-fg|みずほフィナンシャルグループ (Mizuho FG)]] | 27.0% | 第二の信託銀行株主（みずほ信託経由）；TCSBの系譜 |
+| [[trust-banks/sumitomo-mitsui-trust|三井住友トラストグループ (SMTH)]] | 33.3% | 筆頭信託銀行株主；SMTBの年金／投信顧客基盤からのマンデートフローを提供；JTSBの系譜 |
+| [[megabanks/mizuho-fg|みずほフィナンシャルグループ (Mizuho FG)]] | 27.0% | 第二の信託銀行株主（みずほ信託経由）；TCSBの系譜 |
 | りそな銀行（Resona Bank） | 16.7% | 第三位の株主；TCSB陣営における大和／あさひ信託の系譜 |
-| [[JapanFG/dai-ichi-life|第一生命保険]] | 8.0% | 生保株主；特別勘定カストディと企業年金マンデートフローを提供 |
+| [[life-insurers/dai-ichi-life|第一生命保険]] | 8.0% | 生保株主；特別勘定カストディと企業年金マンデートフローを提供 |
 | 朝日生命保険 | 5.0% | 生保株主（TCSB系） |
 | 明治安田生命保険 | 4.5% | 生保株主 |
 | かんぽ生命保険 | 3.5% | 生保株主 |
@@ -104,7 +104,7 @@ Mizuho / Resona / 生保 lineage
 | ファンドアカウンティング／NAV計算 | 投信マンデートの日次NAV計算；投信協会基準 |
 | コーポレートアクション | 配当／利金の受領、株式分割、ライツオファリング、転換；外国資産のCAはグローバルカストディアンのサブネットワーク経由 |
 | 議決権行使業務 | 資産オーナー／運用者の指図の機械的執行；ICJ電子投票の転送 |
-| 外国資産のサブカストディ | 非日本資産について [[JapanFG/bny-mellon-japan|BNY Mellon]] ／ [[JapanFG/state-street-japan|State Street]] ／ [[JapanFG/jpmorgan-japan|JP Morgan]] ／ [[JapanFG/citigroup-japan|Citi]] 経由でのリルーティング |
+| 外国資産のサブカストディ | 非日本資産について [[foreign-financial-institutions/bny-mellon-japan|BNY Mellon]] ／ [[foreign-financial-institutions/state-street-japan|State Street]] ／ [[foreign-financial-institutions/jpmorgan-japan|JP Morgan]] ／ [[foreign-financial-institutions/citigroup-japan|Citi]] 経由でのリルーティング |
 | メンバー／参加者業務 | 年金加入者残高報告（DB／DC）、給付支払業務 |
 | 証券貸借サポート | 貸借プログラム管理（顧客が選択した場合）；担保差し入れ；リコール管理 |
 
@@ -293,16 +293,16 @@ CBJ (record-name trust-account)
 - [[banking/trust-bank-fee-structure-comparison]]
 - [[banking/pension-trust-mandate-allocation-japan]]
 - [[banking/japan-banking-license-tier-comparison-matrix]]
-- [[JapanFG/custody-bank]]
-- [[JapanFG/master-trust-bank]]
-- [[JapanFG/sumitomo-mitsui-trust]]
-- [[JapanFG/mizuho-trust-bank]]
-- [[JapanFG/mitsubishi-ufj-trust-bank]]
-- [[JapanFG/dai-ichi-life]]
-- [[JapanFG/bny-mellon-japan]]
-- [[JapanFG/state-street-japan]]
-- [[JapanFG/jpmorgan-japan]]
-- [[JapanFG/citigroup-japan]]
+- [[trust-banks/custody-bank]]
+- [[trust-banks/master-trust-bank]]
+- [[trust-banks/sumitomo-mitsui-trust]]
+- [[trust-banks/mizuho-trust-bank]]
+- [[trust-banks/mitsubishi-ufj-trust-bank]]
+- [[life-insurers/dai-ichi-life]]
+- [[foreign-financial-institutions/bny-mellon-japan]]
+- [[foreign-financial-institutions/state-street-japan]]
+- [[foreign-financial-institutions/jpmorgan-japan]]
+- [[foreign-financial-institutions/citigroup-japan]]
 - [[securities/japan-securities-depository-center]]
 - [[securities/japan-securities-clearing-corp]]
 - [[securities/japan-market-infrastructure-map]]

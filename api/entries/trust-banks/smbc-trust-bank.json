@@ -1,0 +1,81 @@
+{
+  "schema_version": "1.0",
+  "slug": "trust-banks/smbc-trust-bank",
+  "source_path": "trust-banks/smbc-trust-bank.md",
+  "url": "https://finwiki.zksc.io/trust-banks/smbc-trust-bank",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/trust-banks/smbc-trust-bank.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/trust-banks/smbc-trust-bank.md",
+  "domain": "trust-banks",
+  "title": "SMBC信託銀行 (SMBC Trust Bank)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "SMBC信託銀行 (SMBC Trust Bank)",
+    "aliases": [
+      "SMBC Trust Bank",
+      "SMBC信託銀行",
+      "株式会社SMBC信託銀行",
+      "PRESTIA"
+    ],
+    "domain": "trust-banks",
+    "created": "2026-05-20",
+    "last_updated": "2026-05-20",
+    "last_tended": "2026-05-20",
+    "review_by": "2026-11-20",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "bank",
+      "trust-bank",
+      "smfg",
+      "operating-company"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
+      "https://www.smbctb.co.jp/aboutus/information/",
+      "https://www.smbctb.co.jp/aboutus/"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 三菱UFJ信託銀行 (MUTB) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "SMBC信託銀行 (SMBC Trust Bank)",
+    "Wiki route",
+    "TL;DR",
+    "1. 法人・ライセンス境界",
+    "2. Business role",
+    "3. Why standalone page matters",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 8,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "banking/INDEX",
+      "banking/foreign-bank-japan-retreat",
+      "megabanks/smfg",
+      "megabanks/sumitomo-mitsui-banking-corp",
+      "securities-firms/smbc-nikko",
+      "trust-banks/mitsubishi-ufj-trust-bank",
+      "trust-banks/smtb"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/banking/foreign-bank-japan-retreat",
+      "https://finwiki.zksc.io/megabanks/smfg",
+      "https://finwiki.zksc.io/megabanks/sumitomo-mitsui-banking-corp",
+      "https://finwiki.zksc.io/securities-firms/smbc-nikko",
+      "https://finwiki.zksc.io/trust-banks/mitsubishi-ufj-trust-bank",
+      "https://finwiki.zksc.io/trust-banks/smtb"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 1649,
+    "word_like_tokens": 260,
+    "inbound_wikilinks_count": 15,
+    "last_modified": "2026-06-04"
+  }
+}

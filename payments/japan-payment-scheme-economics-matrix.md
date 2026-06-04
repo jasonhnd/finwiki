@@ -45,7 +45,7 @@ Japan retail payment now runs on four parallel scheme classes — **card** (Visa
 
 ## Wiki route
 
-This sits under [[payments/INDEX|payments index]] as the cross-scheme reference page. Read it alongside [[payments/cashless-jp-landscape|Japan cashless landscape]] for the market-share view, [[payments/japan-card-issuer-acquirer-processor-split|card role split]] and [[payments/japan-interchange-and-merchant-fee-stack|interchange and merchant fee stack]] for card-class detail, [[payments/japan-code-payment-competitive-map|code-payment competitive map]] for wallet-class detail, [[payments/account-to-account-payment-japan|A2A payment route]] for bank-direct detail, and [[payments/funds-transfer-vs-prepaid-boundary|funds-transfer vs prepaid boundary]] for the wallet / prepaid line. License routing for all four classes is in [[JapanFG/legal-financial-licenses/payment-license-stack|Japan payment license stack]].
+This sits under [[payments/INDEX|payments index]] as the cross-scheme reference page. Read it alongside [[payments/cashless-jp-landscape|Japan cashless landscape]] for the market-share view, [[payments/japan-card-issuer-acquirer-processor-split|card role split]] and [[payments/japan-interchange-and-merchant-fee-stack|interchange and merchant fee stack]] for card-class detail, [[payments/japan-code-payment-competitive-map|code-payment competitive map]] for wallet-class detail, [[payments/account-to-account-payment-japan|A2A payment route]] for bank-direct detail, and [[payments/funds-transfer-vs-prepaid-boundary|funds-transfer vs prepaid boundary]] for the wallet / prepaid line. License routing for all four classes is in [[financial-licenses/payment-license-stack|Japan payment license stack]].
 
 ## Four-class scheme map
 
@@ -53,10 +53,10 @@ The four classes do not differ mainly in how the consumer taps, scans, or holds 
 
 | Class | Examples | Balance layer | Primary license route |
 |---|---|---|---|
-| Card payment | Visa, Mastercard, [[JapanFG/jcb\|JCB]], Amex, Diners | Issuer credit line (post-pay) | Installment Sales Act (信販 / 包括信用購入あっせん) + brand rules |
-| Code payment | [[JapanFG/paypay\|PayPay]], d払い, [[JapanFG/au-payment\|au PAY]], 楽天ペイ, メルペイ, FamiPay | Funds-transfer balance / prepaid sub-balance / card-link / bank-debit (mixed) | Funds Transfer Service + Prepaid Payment Instrument (Payment Services Act) |
+| Card payment | Visa, Mastercard, [[card-issuers/jcb\|JCB]], Amex, Diners | Issuer credit line (post-pay) | Installment Sales Act (信販 / 包括信用購入あっせん) + brand rules |
+| Code payment | [[payment-firms/paypay\|PayPay]], d払い, [[payment-firms/au-payment\|au PAY]], 楽天ペイ, メルペイ, FamiPay | Funds-transfer balance / prepaid sub-balance / card-link / bank-debit (mixed) | Funds Transfer Service + Prepaid Payment Instrument (Payment Services Act) |
 | Account-to-account (A2A) | Bank Pay, J-Debit, Cotra-linked apps | Bank deposit account (direct debit) | Banking Act + JEPPO infrastructure + electronic payment agency (電子決済等代行業) where third-party |
-| Prepaid electronic money | Suica, PASMO, [[JapanFG/aeon-card\|WAON]], nanaco, [[JapanFG/rakuten-edy\|Edy]] | Prepaid stored value (closed-loop or quasi-open) | Prepaid Payment Instrument (Payment Services Act) |
+| Prepaid electronic money | Suica, PASMO, [[card-issuers/aeon-card\|WAON]], nanaco, [[payment-firms/rakuten-edy\|Edy]] | Prepaid stored value (closed-loop or quasi-open) | Prepaid Payment Instrument (Payment Services Act) |
 
 Each class has a **scheme operator** (the entity that owns the network rules and settlement venue) and a **license under Japan law** that determines what consumer-protection rules, fund safeguarding, and refund mechanics apply.
 
@@ -64,7 +64,7 @@ Each class has a **scheme operator** (the entity that owns the network rules and
 
 | Class | Scheme operator pattern | Where money actually settles |
 |---|---|---|
-| Card | International brand (Visa / Mastercard / Amex / Diners) or domestic brand ([[JapanFG/jcb\|JCB]]); 4-party scheme separates issuer / acquirer; 3-party scheme (Amex / Diners / some JCB cards) collapses them into one | Issuer ↔ acquirer settlement through brand-rules clearing; net positions ultimately move through the banking system (often via [[payments/japan-payment-clearing-and-settlement-infrastructure\|Zengin / BOJ-NET]] for yen legs) |
+| Card | International brand (Visa / Mastercard / Amex / Diners) or domestic brand ([[card-issuers/jcb\|JCB]]); 4-party scheme separates issuer / acquirer; 3-party scheme (Amex / Diners / some JCB cards) collapses them into one | Issuer ↔ acquirer settlement through brand-rules clearing; net positions ultimately move through the banking system (often via [[payments/japan-payment-clearing-and-settlement-infrastructure\|Zengin / BOJ-NET]] for yen legs) |
 | Code | Wallet operator (PayPay Corp, NTT docomo, KDDI, Rakuten Pay, Mercari, etc.); the wallet operator typically owns the merchant contract OR delegates aggregation to a QR-gateway PSP such as Netstars | Internal wallet ledger first; periodic net settlement to merchant bank account through Zengin transfer |
 | A2A | JEPPO for Bank Pay / J-Debit; Zengin-Net + Cotra system for instant P2P-and-merchant transfers | Direct deposit-account debit; final settlement clears twice-daily through Zengin / Cotra batch windows |
 | Prepaid e-money | Issuer (JR East for Suica, PASMO Co. for PASMO, AEON for WAON, Seven Card Service for nanaco, Rakuten Edy for Edy) | Issuer's stored-value ledger; merchant payout flows through issuer ↔ merchant contracted settlement schedule via Zengin |
@@ -254,12 +254,12 @@ This micro-merchant cost gap is also where the **JFTC merchant-fee investigation
 - [[payments/prepaid-payment-instrument-issuers-japan-index]]
 - [[payments/japan-payment-clearing-and-settlement-infrastructure]]
 - [[payments/psp-merchant-settlement-risk]]
-- [[JapanFG/legal-financial-licenses/payment-license-stack]]
+- [[financial-licenses/payment-license-stack]]
 - [[loyalty/japan-points-landscape]]
 - [[fintech/japan-epi-three-types-overview]]
-- [[JapanFG/jcb]]
-- [[JapanFG/paypay]]
-- [[JapanFG/au-payment]]
+- [[card-issuers/jcb]]
+- [[payment-firms/paypay]]
+- [[payment-firms/au-payment]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

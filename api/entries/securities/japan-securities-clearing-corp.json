@@ -48,11 +48,11 @@
   "body_links": {
     "wikilinks_count": 12,
     "wikilinks": [
-      "JapanFG/japan-exchange-group",
-      "JapanFG/japan-securities-finance",
-      "JapanFG/legal-financial-licenses/INDEX",
-      "JapanFG/progmat",
+      "financial-licenses/INDEX",
+      "financial-regulators/japan-exchange-group",
+      "financial-regulators/japan-securities-finance",
       "money-market/jgb-repo-market-japan",
+      "payment-firms/progmat",
       "securities/INDEX",
       "securities/financial-instruments-business-operators-japan-index",
       "securities/japan-securities-depository-center",
@@ -62,11 +62,11 @@
       "securities/tokyo-stock-exchange"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/japan-exchange-group",
-      "https://finwiki.zksc.io/JapanFG/japan-securities-finance",
-      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX",
-      "https://finwiki.zksc.io/JapanFG/progmat",
+      "https://finwiki.zksc.io/financial-licenses/INDEX",
+      "https://finwiki.zksc.io/financial-regulators/japan-exchange-group",
+      "https://finwiki.zksc.io/financial-regulators/japan-securities-finance",
       "https://finwiki.zksc.io/money-market/jgb-repo-market-japan",
+      "https://finwiki.zksc.io/payment-firms/progmat",
       "https://finwiki.zksc.io/securities/INDEX",
       "https://finwiki.zksc.io/securities/financial-instruments-business-operators-japan-index",
       "https://finwiki.zksc.io/securities/japan-securities-depository-center",
@@ -79,9 +79,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2694,
-    "word_like_tokens": 382,
+    "nonspace_chars": 2725,
+    "word_like_tokens": 384,
     "inbound_wikilinks_count": 64,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-04"
   }
 }

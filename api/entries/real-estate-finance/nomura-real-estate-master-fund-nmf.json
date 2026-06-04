@@ -62,10 +62,9 @@
     "wikilinks_count": 19,
     "wikilinks": [
       "INDEX",
-      "JapanFG/jcr",
-      "JapanFG/nomura-hd",
-      "JapanFG/rating-and-investment",
       "finance/japan-listed-financial-groups-investable-universe",
+      "financial-regulators/jcr",
+      "financial-regulators/rating-and-investment",
       "real-estate-finance/INDEX",
       "real-estate-finance/glp-j-reit-3281",
       "real-estate-finance/j-reit-dividend-yield-vs-jgb-spread",
@@ -79,14 +78,14 @@
       "real-estate-finance/mitsui-fudosan-financing-model",
       "real-estate-finance/nippon-building-fund-j-reit-8951",
       "real-estate-finance/nippon-prologis-reit-3283",
-      "real-estate-finance/top-10-j-reit-overview-matrix"
+      "real-estate-finance/top-10-j-reit-overview-matrix",
+      "securities-firms/nomura-hd"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/jcr",
-      "https://finwiki.zksc.io/JapanFG/nomura-hd",
-      "https://finwiki.zksc.io/JapanFG/rating-and-investment",
       "https://finwiki.zksc.io/finance/japan-listed-financial-groups-investable-universe",
+      "https://finwiki.zksc.io/financial-regulators/jcr",
+      "https://finwiki.zksc.io/financial-regulators/rating-and-investment",
       "https://finwiki.zksc.io/real-estate-finance/INDEX",
       "https://finwiki.zksc.io/real-estate-finance/glp-j-reit-3281",
       "https://finwiki.zksc.io/real-estate-finance/j-reit-dividend-yield-vs-jgb-spread",
@@ -100,15 +99,16 @@
       "https://finwiki.zksc.io/real-estate-finance/mitsui-fudosan-financing-model",
       "https://finwiki.zksc.io/real-estate-finance/nippon-building-fund-j-reit-8951",
       "https://finwiki.zksc.io/real-estate-finance/nippon-prologis-reit-3283",
-      "https://finwiki.zksc.io/real-estate-finance/top-10-j-reit-overview-matrix"
+      "https://finwiki.zksc.io/real-estate-finance/top-10-j-reit-overview-matrix",
+      "https://finwiki.zksc.io/securities-firms/nomura-hd"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 8856,
-    "word_like_tokens": 1452,
+    "nonspace_chars": 8900,
+    "word_like_tokens": 1456,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-04"
   }
 }

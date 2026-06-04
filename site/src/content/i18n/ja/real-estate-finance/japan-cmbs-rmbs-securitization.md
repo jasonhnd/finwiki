@@ -11,7 +11,7 @@ translated_at: 2026-06-03T00:53:08.331Z
 
 ## 要約
 
-日本のモーゲージ担保証券化市場は、二つの系統に明確に分かれる。RMBS（住宅ローン担保証券）は、[[policy-finance/japan-housing-finance-agency|Japan Housing Finance Agency (JHF)]] の月次 Monthly Pass-Through MBS 発行が支配的であり、民間銀行チャネルで組成された Flat 35  固定金利住宅ローンを裏付けとする。これにメガバンクや信託銀行オリジネーターによる小規模な民間 RMBS 系統が加わる。CMBS（商業用不動産ローン担保証券）は構造的に小さく、循環性が高い。2008  後の市場では単一借入人 CMBS が中心であり、コンデュイット CMBS は、日本不動産に対するノンリコース CMBS ローンで大きな評価損が発生した 2008-2010  のストレスサイクル後、実質的に休眠している。アレンジャー機能は、メガバンク系証券子会社、[[JapanFG/mitsubishi-ufj-trust-bank|MUFG Trust]]、[[JapanFG/sumitomo-mitsui-trust|SMTB]]、[[JapanFG/mizuho-trust-bank|Mizuho Trust]] の信託銀行証券化部門、そして残存する外資系ハウスに集中する。格付けカバレッジは国内機関の [[JapanFG/jcr|JCR]] と [[JapanFG/rating-and-investment|R&I]] が中心で、[[JapanFG/sp-global-ratings-japan|S&P]] と [[JapanFG/moodys-japan|Moody's]] がクロスボーダー投資家が必要とするシニアトランシェのグローバルスケール格付けを供給する。
+日本のモーゲージ担保証券化市場は、二つの系統に明確に分かれる。RMBS（住宅ローン担保証券）は、[[policy-finance/japan-housing-finance-agency|Japan Housing Finance Agency (JHF)]] の月次 Monthly Pass-Through MBS 発行が支配的であり、民間銀行チャネルで組成された Flat 35  固定金利住宅ローンを裏付けとする。これにメガバンクや信託銀行オリジネーターによる小規模な民間 RMBS 系統が加わる。CMBS（商業用不動産ローン担保証券）は構造的に小さく、循環性が高い。2008  後の市場では単一借入人 CMBS が中心であり、コンデュイット CMBS は、日本不動産に対するノンリコース CMBS ローンで大きな評価損が発生した 2008-2010  のストレスサイクル後、実質的に休眠している。アレンジャー機能は、メガバンク系証券子会社、[[trust-banks/mitsubishi-ufj-trust-bank|MUFG Trust]]、[[trust-banks/sumitomo-mitsui-trust|SMTB]]、[[trust-banks/mizuho-trust-bank|Mizuho Trust]] の信託銀行証券化部門、そして残存する外資系ハウスに集中する。格付けカバレッジは国内機関の [[financial-regulators/jcr|JCR]] と [[financial-regulators/rating-and-investment|R&I]] が中心で、[[JapanFG/sp-global-ratings-japan|S&P]] と [[JapanFG/moodys-japan|Moody's]] がクロスボーダー投資家が必要とするシニアトランシェのグローバルスケール格付けを供給する。
 
 ## ウィキ上の位置づけ
 
@@ -51,7 +51,7 @@ JHF Monthly Pass-Through MBS はアンカー商品である。公開情報上の
 
 - シニア / メザニン / 劣後トランチングを行い、オリジネーターはリスク保持目的で縦持ちまたは横持ちの持分を残すことが多い。
 - プールは通常、シーズニング済み住宅ローンの静的またはほぼ静的なポートフォリオである。
-- シニアトランシェは [[JapanFG/jcr|JCR]] と [[JapanFG/rating-and-investment|R&I]] から投資適格格付けを受け、AAA トランシェには [[JapanFG/sp-global-ratings-japan|S&P]] または [[JapanFG/moodys-japan|Moody's]] のクロスボーダー投資家向け格付けが付くことがある。
+- シニアトランシェは [[financial-regulators/jcr|JCR]] と [[financial-regulators/rating-and-investment|R&I]] から投資適格格付けを受け、AAA トランシェには [[JapanFG/sp-global-ratings-japan|S&P]] または [[JapanFG/moodys-japan|Moody's]] のクロスボーダー投資家向け格付けが付くことがある。
 - プールファクターの償却は、予定償却に小幅な繰上返済を加えたものに沿う。
 
 ### RMBS の格付け機関基準
@@ -62,7 +62,7 @@ JHF Monthly Pass-Through MBS はアンカー商品である。公開情報上の
 | 組成時 LTV | 低い LTV はエクイティバッファーを厚くし、デフォルト時損失を低くする |
 | DTI | 収入対債務。返済能力指標 |
 | 地理的集中 | 東京 / 大阪集中と地域分散の比較 |
-| オリジネーターの質 | メガバンク / [[JapanFG/japan-post-bank|Japan Post Bank]] / 地域銀行とノンバンク・オリジネーターの比較 |
+| オリジネーターの質 | メガバンク / [[regional-banks/japan-post-bank|Japan Post Bank]] / 地域銀行とノンバンク・オリジネーターの比較 |
 | ローン商品 | Flat 35 （JHF 購入）と通常の銀行住宅ローン、アパートローン（1 棟アパート）の比較 |
 | サービシング | マスターサービサー / バックアップサービサー体制 |
 | マクロ上乗せ | 失業、家計所得、住宅価格シナリオ |
@@ -80,7 +80,7 @@ JHF Monthly Pass-Through MBS はアンカー商品である。公開情報上の
 | 証券化 | ローンを発行 SPV 信託に移転し、CMBS ノートをトランシェ発行する |
 | トランシェ | シニア / メザニン / 劣後。LTV に基づく劣後厚で調整 |
 | 満期 | 通常 5-7 年で、満期時にリファイナンスリスクがある |
-| 格付け | シニアトランシェは [[JapanFG/jcr|JCR]] と [[JapanFG/rating-and-investment|R&I]] による IG。AAA トランシェはクロスボーダー投資家向けに [[JapanFG/sp-global-ratings-japan|S&P]] または [[JapanFG/moodys-japan|Moody's]] の二重格付けを持つことがある |
+| 格付け | シニアトランシェは [[financial-regulators/jcr|JCR]] と [[financial-regulators/rating-and-investment|R&I]] による IG。AAA トランシェはクロスボーダー投資家向けに [[JapanFG/sp-global-ratings-japan|S&P]] または [[JapanFG/moodys-japan|Moody's]] の二重格付けを持つことがある |
 | 物件タイプ | オフィス（東京 Grade-A）、物流、ホテル、商業施設、住宅アパートブロック。開発リスク資産はまれ |
 | 受託者 | 発行 SPV の信託銀行受託者 |
 
@@ -129,13 +129,13 @@ JHF Monthly Pass-Through MBS はアンカー商品である。公開情報上の
 
 | ディーラー | フランチャイズの読み方 |
 |---|---|
-| [[JapanFG/mufg-morgan-stanley-securities|Mitsubishi UFJ Morgan Stanley Securities]] | MUFG 側。[[JapanFG/mitsubishi-ufj-trust-bank|MUFG Trust]] を通じた深い信託銀行連携 |
-| [[JapanFG/smbc-nikko-securities|SMBC Nikko Securities]] | SMBC 側。[[JapanFG/sumitomo-mitsui-trust|SMTB]] との連携は同一グループ内ではなく、グループ横断的 |
-| [[JapanFG/mizuho-securities|Mizuho Securities]] | Mizuho 側。[[JapanFG/mizuho-trust-bank|Mizuho Trust]] を通じた深い信託銀行連携 |
+| [[securities-firms/mufg-morgan-stanley-securities|Mitsubishi UFJ Morgan Stanley Securities]] | MUFG 側。[[trust-banks/mitsubishi-ufj-trust-bank|MUFG Trust]] を通じた深い信託銀行連携 |
+| [[securities-firms/smbc-nikko-securities|SMBC Nikko Securities]] | SMBC 側。[[trust-banks/sumitomo-mitsui-trust|SMTB]] との連携は同一グループ内ではなく、グループ横断的 |
+| [[securities-firms/mizuho-securities|Mizuho Securities]] | Mizuho 側。[[trust-banks/mizuho-trust-bank|Mizuho Trust]] を通じた深い信託銀行連携 |
 
 ### 信託銀行受託の経済性
 
-信託銀行の受託レイヤーは構造的に重要である。日本の証券化 SPV は、発行 SPV への直接的なローン資産移転ではなく、通常、信託受益権を用いるためである。信託銀行は信託契約の下で原資産（ローンまたは不動産）を保有し、その受益権が移転され、トランシェ化される。これが、JP CMBS / RMBS の信託銀行フランチャイズが [[JapanFG/master-trust-bank|MTBJ]] や [[JapanFG/custody-bank|CBJ]] のようなカストディ専業型信託銀行ではなく、メガバンクグループの信託銀行に置かれる理由の一つである。証券化受託は、単なる資産管理ユーティリティ業務ではなく、手数料を生むフロント業務である。運営分担は [[banking/trust-bank-custody-operating-comparison|trust-bank custody operating comparison]] を参照。
+信託銀行の受託レイヤーは構造的に重要である。日本の証券化 SPV は、発行 SPV への直接的なローン資産移転ではなく、通常、信託受益権を用いるためである。信託銀行は信託契約の下で原資産（ローンまたは不動産）を保有し、その受益権が移転され、トランシェ化される。これが、JP CMBS / RMBS の信託銀行フランチャイズが [[trust-banks/master-trust-bank|MTBJ]] や [[trust-banks/custody-bank|CBJ]] のようなカストディ専業型信託銀行ではなく、メガバンクグループの信託銀行に置かれる理由の一つである。証券化受託は、単なる資産管理ユーティリティ業務ではなく、手数料を生むフロント業務である。運営分担は [[banking/trust-bank-custody-operating-comparison|trust-bank custody operating comparison]] を参照。
 
 ## 5. 格付け機関の地図
 
@@ -190,11 +190,11 @@ JHF Monthly Pass-Through MBS はアンカー商品である。公開情報上の
 - [[banking/INDEX]]
 - [[insurance/japan-life-insurance-alm-overview]]
 - [[insurance/INDEX]]
-- [[JapanFG/mitsubishi-ufj-trust-bank]]
-- [[JapanFG/sumitomo-mitsui-trust]]
-- [[JapanFG/mizuho-trust-bank]]
-- [[JapanFG/jcr]]
-- [[JapanFG/rating-and-investment]]
+- [[trust-banks/mitsubishi-ufj-trust-bank]]
+- [[trust-banks/sumitomo-mitsui-trust]]
+- [[trust-banks/mizuho-trust-bank]]
+- [[financial-regulators/jcr]]
+- [[financial-regulators/rating-and-investment]]
 - [[JapanFG/sp-global-ratings-japan]]
 - [[JapanFG/moodys-japan]]
 - [[securities/japan-securities-depository-center]]

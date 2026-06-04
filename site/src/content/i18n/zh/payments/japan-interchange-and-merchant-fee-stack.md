@@ -13,7 +13,7 @@ translated_at: 2026-06-01T03:31:12.302Z
 
 本页记录日本卡商户手续费和 interchange 相关披露的公开结构。范围包括卡商户手续费构成、发卡方费用 / interchange 披露、收单方经济性以及相关公共政策材料。更广泛的商户 PSP 定价、结算准备金、拒付分配和网关定价路由至[[payments/psp-merchant-settlement-risk|PSP merchant settlement risk]]和[[payments/card-acquiring-japan-stack|Japan card acquiring stack]]。
 
-本页属于[[payments/INDEX|payments domain]]，并链接到[[payments/cashless-jp-landscape|Japan cashless payment landscape]]、[[payments/japan-card-issuer-acquirer-processor-split|issuer / acquirer / processor split]]、[[payments/japan-card-security-authentication-controls|card security and authentication controls]]、[[payments/credit-purchase-card-operators-japan-index|credit / card registry]]、[[payments/japan-code-payment-competitive-map|Japan code-payment competitive map]]、[[payments/merchant-bank-pay-account-direct-acquiring|merchant bank-account direct acquiring]]和[[JapanFG/legal-financial-licenses/payment-license-stack|Japan payment license stack]]。
+本页属于[[payments/INDEX|payments domain]]，并链接到[[payments/cashless-jp-landscape|Japan cashless payment landscape]]、[[payments/japan-card-issuer-acquirer-processor-split|issuer / acquirer / processor split]]、[[payments/japan-card-security-authentication-controls|card security and authentication controls]]、[[payments/credit-purchase-card-operators-japan-index|credit / card registry]]、[[payments/japan-code-payment-competitive-map|Japan code-payment competitive map]]、[[payments/merchant-bank-pay-account-direct-acquiring|merchant bank-account direct acquiring]]和[[financial-licenses/payment-license-stack|Japan payment license stack]]。
 
 ## 费用构成地图
 
@@ -71,8 +71,8 @@ translated_at: 2026-06-01T03:31:12.302Z
 
 ## JapanFG 运营方链接
 
-- 主要发卡方 / 收单方：[[JapanFG/smbc-card]]、[[JapanFG/mufg-nicos]]、[[JapanFG/rakuten-card]]、[[JapanFG/paypay-card]]、[[JapanFG/aeon-financial-service]]、[[JapanFG/jcb]]。
-- 商户 PSP / 网关运营方：[[JapanFG/gmo-payment-gateway]]、[[JapanFG/gmo-epsilon]]、[[JapanFG/sb-payment-service]]、[[JapanFG/dg-financial-technology]]、[[JapanFG/netstars]]。
+- 主要发卡方 / 收单方：[[card-issuers/smbc-card]]、[[card-issuers/mufg-nicos]]、[[card-issuers/rakuten-card]]、[[card-issuers/paypay-card]]、[[card-issuers/aeon-financial-service]]、[[card-issuers/jcb]]。
+- 商户 PSP / 网关运营方：[[payment-firms/gmo-payment-gateway]]、[[payment-firms/gmo-epsilon]]、[[payment-firms/sb-payment-service]]、[[payment-firms/dg-financial-technology]]、[[payment-firms/netstars]]。
 - 信用 / 分期登记路径：[[payments/credit-purchase-card-operators-japan-index]]。
 
 ## 相关
@@ -86,7 +86,7 @@ translated_at: 2026-06-01T03:31:12.302Z
 - [[payments/credit-purchase-card-operators-japan-index]]
 - [[payments/japan-code-payment-competitive-map]]
 - [[payments/merchant-bank-pay-account-direct-acquiring]]
-- [[JapanFG/legal-financial-licenses/payment-license-stack]]
+- [[financial-licenses/payment-license-stack]]
 - [[INDEX|FinWiki index]]
 
 ## 来源

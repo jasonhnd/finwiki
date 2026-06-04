@@ -63,10 +63,6 @@
     "wikilinks_count": 20,
     "wikilinks": [
       "INDEX",
-      "JapanFG/japan-securities-finance",
-      "JapanFG/mizuho-bank",
-      "JapanFG/mufg-bank",
-      "JapanFG/sumitomo-mitsui-banking-corp",
       "banking/INDEX",
       "derivatives/INDEX",
       "derivatives/japan-interest-rate-derivatives-overview",
@@ -74,6 +70,10 @@
       "derivatives/ois-tona-curve",
       "derivatives/yen-basis-swap-market",
       "finance/japan-corporate-fx-and-rate-hedge-policy",
+      "financial-regulators/japan-securities-finance",
+      "megabanks/mizuho-bank",
+      "megabanks/mufg-bank",
+      "megabanks/sumitomo-mitsui-banking-corp",
       "money-market/INDEX",
       "money-market/boj-open-market-operations",
       "money-market/call-market-structure",
@@ -85,10 +85,6 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/japan-securities-finance",
-      "https://finwiki.zksc.io/JapanFG/mizuho-bank",
-      "https://finwiki.zksc.io/JapanFG/mufg-bank",
-      "https://finwiki.zksc.io/JapanFG/sumitomo-mitsui-banking-corp",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/derivatives/INDEX",
       "https://finwiki.zksc.io/derivatives/japan-interest-rate-derivatives-overview",
@@ -96,6 +92,10 @@
       "https://finwiki.zksc.io/derivatives/ois-tona-curve",
       "https://finwiki.zksc.io/derivatives/yen-basis-swap-market",
       "https://finwiki.zksc.io/finance/japan-corporate-fx-and-rate-hedge-policy",
+      "https://finwiki.zksc.io/financial-regulators/japan-securities-finance",
+      "https://finwiki.zksc.io/megabanks/mizuho-bank",
+      "https://finwiki.zksc.io/megabanks/mufg-bank",
+      "https://finwiki.zksc.io/megabanks/sumitomo-mitsui-banking-corp",
       "https://finwiki.zksc.io/money-market/INDEX",
       "https://finwiki.zksc.io/money-market/boj-open-market-operations",
       "https://finwiki.zksc.io/money-market/call-market-structure",
@@ -109,9 +109,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 11348,
-    "word_like_tokens": 2001,
+    "nonspace_chars": 11367,
+    "word_like_tokens": 2002,
     "inbound_wikilinks_count": 22,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-04"
   }
 }

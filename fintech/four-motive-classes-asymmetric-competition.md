@@ -53,7 +53,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it against [[fintech
 - a16z crypto(Arc $75M リード + 他多数の SC / チェーンプロジェクトに投資)
 - BlackRock(Arc 投資 + 8 チェーン上の [[fintech/blackrock-buidl-tokenized-mmf-overview|BUIDL]] + Tempo 投資)
 - Apollo(Arc 投資 + 6 チェーン上の [[fintech/apollo-acred-private-credit-tokenization|ACRED]])
-- SBI Holdings(Circle 投資 + [[JapanFG/jpyc|JPYC]] 保有 + SBI Circle Holdings 50% 保有 + 他多数)
+- SBI Holdings(Circle 投資 + [[payment-firms/jpyc|JPYC]] 保有 + SBI Circle Holdings 50% 保有 + 他多数)
 - Mubadala(Arc + 中東 RWA ファンド投資)
 - Visa(Arc 投資 + Tempo validator + 全 SC 受入 + 自社 SC 非発行)
 - Mastercard(Visa 同様だが時期は遅い)

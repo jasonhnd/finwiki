@@ -1,0 +1,79 @@
+{
+  "schema_version": "1.0",
+  "slug": "trust-banks/miyoshi-smile-trust",
+  "source_path": "trust-banks/miyoshi-smile-trust.md",
+  "url": "https://finwiki.zksc.io/trust-banks/miyoshi-smile-trust",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/trust-banks/miyoshi-smile-trust.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/trust-banks/miyoshi-smile-trust.md",
+  "domain": "trust-banks",
+  "title": "Miyoshi Smile Trust / 三好スマイル信託",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Miyoshi Smile Trust / 三好スマイル信託",
+    "aliases": [
+      "三好スマイル信託",
+      "三好スマイル信託株式会社",
+      "Miyoshi Smile Trust"
+    ],
+    "domain": "trust-banks",
+    "created": "2026-05-22",
+    "last_updated": "2026-05-22",
+    "last_tended": "2026-05-22",
+    "review_by": "2026-11-22",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "trust-company",
+      "real-estate",
+      "kyushu",
+      "public-source"
+    ],
+    "status": "active",
+    "sources": [
+      "FSA trust company list: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.xlsx",
+      "Miyoshi Smile Trust official site: https://smiletrust.co.jp/",
+      "Miyoshi Smile Trust company page: https://smiletrust.co.jp/company",
+      "Miyoshi Real Estate announcement: https://www.miyoshi.co.jp/info/archives/1393"
+    ]
+  },
+  "summary": "Wiki route: JapanFG/INDEX -> trust-banks/trust-companies-japan-index -> trust-banks/miyoshi-smile-trust",
+  "headings": [
+    "Miyoshi Smile Trust / 三好スマイル信託",
+    "Overview",
+    "Entity Boundary",
+    "Business Role Map",
+    "Public Context",
+    "Research Checklist",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 7,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/INDEX",
+      "policy-finance/japan-housing-finance-agency",
+      "trust-banks/kainuma-trust-real-estate",
+      "trust-banks/kiriu-real-estate-trust",
+      "trust-banks/miyoshi-smile-trust",
+      "trust-banks/trust-companies-japan-index"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/policy-finance/japan-housing-finance-agency",
+      "https://finwiki.zksc.io/trust-banks/kainuma-trust-real-estate",
+      "https://finwiki.zksc.io/trust-banks/kiriu-real-estate-trust",
+      "https://finwiki.zksc.io/trust-banks/miyoshi-smile-trust",
+      "https://finwiki.zksc.io/trust-banks/trust-companies-japan-index"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2316,
+    "word_like_tokens": 375,
+    "inbound_wikilinks_count": 4,
+    "last_modified": "2026-06-04"
+  }
+}

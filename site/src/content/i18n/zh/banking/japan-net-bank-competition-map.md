@@ -14,17 +14,17 @@ translated_at: 2026-05-30T18:52:47.776Z
 
 日本网络银行竞争包含若干公开运营模式：生态系统零售银行、全银行 BaaS / 白标银行、中小企业 / 法人 API 银行、证券 / 资产形成银行，以及区域集团数字银行。FSA 银行名单提供了法律意义上的全集。公开比较字段包括获客渠道、母公司生态、存款特许经营、放贷构成、BaaS 深度、证券 / 支付邻接性，以及主账户转化。
 
-请将本页与 [[banking/INDEX|banking index]]、[[banking/rakuten-bank|Rakuten Bank]]、[[banking/paypay-bank|PayPay Bank]]、[[banking/au-jibun-bank|au Jibun Bank]]、[[JapanFG/ssnb|SSNB]]、[[JapanFG/gmo-aozora-net|GMO Aozora Net Bank]]、[[JapanFG/sony-bank|Sony Bank]]、[[JapanFG/ui-bank|UI Bank]]、[[banking/minna-bank-baas-model|Minna Bank BaaS model]]、[[banking/japan-baas-operating-models|Japan BaaS operating models]] 及 [[banking/post-megabank-positioning|post-megabank positioning]] 配合使用。
+请将本页与 [[banking/INDEX|banking index]]、[[banking/rakuten-bank|Rakuten Bank]]、[[banking/paypay-bank|PayPay Bank]]、[[banking/au-jibun-bank|au Jibun Bank]]、[[regional-banks/ssnb|SSNB]]、[[payment-firms/gmo-aozora-net|GMO Aozora Net Bank]]、[[regional-banks/sony-bank|Sony Bank]]、[[regional-banks/ui-bank|UI Bank]]、[[banking/minna-bank-baas-model|Minna Bank BaaS model]]、[[banking/japan-baas-operating-models|Japan BaaS operating models]] 及 [[banking/post-megabank-positioning|post-megabank positioning]] 配合使用。
 
 ## Competitive Segments
 
 | Segment | Main examples | Public operating role |
 |---|---|---|
 | 生态系统零售银行 | [[banking/rakuten-bank|Rakuten Bank]]、[[banking/paypay-bank|PayPay Bank]]、[[banking/au-jibun-bank|au Jibun Bank]] | 将商务 / 电信 / 支付频次转化为银行账户、存款、卡、贷款及工资账户使用。 |
-| 全银行 BaaS / 白标 | [[JapanFG/ssnb|SSNB]] NEOBANK、[[banking/minna-bank-baas-model|Minna Bank]] 合作分行 | 让非银行品牌通过合作方 UX 分销银行账户与银行功能。 |
-| 法人 API / 中小企业银行 | [[JapanFG/gmo-aozora-net|GMO Aozora Net Bank]] | 服务初创、中小企业、SaaS、会计、支付及 API 驱动的资金管理流程。 |
-| 资产形成 / 证券邻接银行 | [[JapanFG/sony-bank|Sony Bank]]、[[JapanFG/daiwa-next-bank|Daiwa Next Bank]]、[[banking/au-jibun-bank|au Jibun Bank]] | 将存款与外汇、投资、住房贷款、证券及家庭资产构建相连。 |
-| 区域数字银行 | [[JapanFG/ui-bank|UI Bank]]、[[JapanFG/01-bank|01 Bank]] | 让区域集团在分行地域之外创建数字存款 / 账户渠道。 |
+| 全银行 BaaS / 白标 | [[regional-banks/ssnb|SSNB]] NEOBANK、[[banking/minna-bank-baas-model|Minna Bank]] 合作分行 | 让非银行品牌通过合作方 UX 分销银行账户与银行功能。 |
+| 法人 API / 中小企业银行 | [[payment-firms/gmo-aozora-net|GMO Aozora Net Bank]] | 服务初创、中小企业、SaaS、会计、支付及 API 驱动的资金管理流程。 |
+| 资产形成 / 证券邻接银行 | [[regional-banks/sony-bank|Sony Bank]]、[[regional-banks/daiwa-next-bank|Daiwa Next Bank]]、[[banking/au-jibun-bank|au Jibun Bank]] | 将存款与外汇、投资、住房贷款、证券及家庭资产构建相连。 |
+| 区域数字银行 | [[regional-banks/ui-bank|UI Bank]]、[[regional-banks/01-bank|01 Bank]] | 让区域集团在分行地域之外创建数字存款 / 账户渠道。 |
 
 ## Comparison Axes
 
@@ -46,19 +46,19 @@ translated_at: 2026-05-30T18:52:47.776Z
 
 ### BaaS / White-Label Banking
 
-[[JapanFG/ssnb|SSNB]] 运营 NEOBANK 合作方主导的 BaaS 模式。[[banking/minna-bank-baas-model|Minna Bank]] 披露合作分行与 API 提供的银行模式。这些是分销架构，其中客户旅程可能由合作方品牌掌控，而银行账户仍归属于银行。
+[[regional-banks/ssnb|SSNB]] 运营 NEOBANK 合作方主导的 BaaS 模式。[[banking/minna-bank-baas-model|Minna Bank]] 披露合作分行与 API 提供的银行模式。这些是分销架构，其中客户旅程可能由合作方品牌掌控，而银行账户仍归属于银行。
 
 ### SME / Corporate API
 
-[[JapanFG/gmo-aozora-net|GMO Aozora Net Bank]] 是法人 API / 中小企业银行的锚点。其公开产品字段包括企业开户、转账、会计、薪资、SaaS 及平台结算流程。
+[[payment-firms/gmo-aozora-net|GMO Aozora Net Bank]] 是法人 API / 中小企业银行的锚点。其公开产品字段包括企业开户、转账、会计、薪资、SaaS 及平台结算流程。
 
 ### Asset-Formation Specialists
 
-[[JapanFG/sony-bank|Sony Bank]] 与 [[banking/au-jibun-bank|au Jibun Bank]] 展示了网络银行如何通过住房贷款、外汇、证券邻接性及家庭资产构建来竞争，而非纯粹依靠支付频次。当客户旅程从存款转向投资产品时，将它们与 [[securities/japan-online-brokerage-competition|online brokerage competition]] 比较。
+[[regional-banks/sony-bank|Sony Bank]] 与 [[banking/au-jibun-bank|au Jibun Bank]] 展示了网络银行如何通过住房贷款、外汇、证券邻接性及家庭资产构建来竞争，而非纯粹依靠支付频次。当客户旅程从存款转向投资产品时，将它们与 [[securities/japan-online-brokerage-competition|online brokerage competition]] 比较。
 
 ### Regional Digital Banks
 
-[[JapanFG/ui-bank|UI Bank]] 与 [[JapanFG/01-bank|01 Bank]] 是区域集团数字银行的例子。公开比较字段包括数字存款渠道、分行布局延伸、客户分层及集团银行联动。
+[[regional-banks/ui-bank|UI Bank]] 与 [[regional-banks/01-bank|01 Bank]] 是区域集团数字银行的例子。公开比较字段包括数字存款渠道、分行布局延伸、客户分层及集团银行联动。
 
 ## Source Fields
 
@@ -75,10 +75,10 @@ translated_at: 2026-05-30T18:52:47.776Z
 - [[banking/rakuten-bank]]
 - [[banking/paypay-bank]]
 - [[banking/au-jibun-bank]]
-- [[JapanFG/ssnb]]
-- [[JapanFG/gmo-aozora-net]]
-- [[JapanFG/sony-bank]]
-- [[JapanFG/ui-bank]]
+- [[regional-banks/ssnb]]
+- [[payment-firms/gmo-aozora-net]]
+- [[regional-banks/sony-bank]]
+- [[regional-banks/ui-bank]]
 - [[banking/minna-bank-baas-model]]
 - [[banking/japan-baas-operating-models]]
 - [[banking/regional-bank-api-digital-partnership-route]]

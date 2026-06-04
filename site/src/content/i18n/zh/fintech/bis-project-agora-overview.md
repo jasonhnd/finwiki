@@ -20,7 +20,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 ## Key facts
 
 - 7  家 G10  中央银行：FRBNY / BoE / BdF / BoJ / BoK / Banxico / SNB ^[extracted]
-- 40+ 家商业银行参与方：JPM / Citi / HSBC / [[JapanFG/mufg|MUFG]] / SWIFT / Mastercard / Visa 等 ^[extracted]
+- 40+ 家商业银行参与方：JPM / Citi / HSBC / [[megabanks/mufg|MUFG]] / SWIFT / Mastercard / Visa 等 ^[extracted]
 - 2024.04  启动，2024.09  公布民营机构名单 ^[extracted]
 - 2025  第 1  阶段 = 概念验证（跨境批发结算） ^[extracted]
 - 2025-2026  第 2  阶段 = 实时原型（尚未开始运行） ^[extracted]

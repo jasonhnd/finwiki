@@ -59,11 +59,6 @@
   "body_links": {
     "wikilinks_count": 24,
     "wikilinks": [
-      "JapanFG/custody-bank",
-      "JapanFG/master-trust-bank",
-      "JapanFG/mitsubishi-ufj-trust-bank",
-      "JapanFG/mizuho-trust-bank",
-      "JapanFG/sumitomo-mitsui-trust",
       "banking/INDEX",
       "banking/custody-bank-operating-model",
       "banking/japan-master-trust-and-custody-bank-landscape",
@@ -82,14 +77,14 @@
       "real-estate-finance/private-reit-japan-vs-listed-j-reit-comparison",
       "real-estate-finance/real-estate-bridge-fund-japan",
       "real-estate-finance/top-10-j-reit-overview-matrix",
-      "securities/japan-securities-depository-center"
+      "securities/japan-securities-depository-center",
+      "trust-banks/custody-bank",
+      "trust-banks/master-trust-bank",
+      "trust-banks/mitsubishi-ufj-trust-bank",
+      "trust-banks/mizuho-trust-bank",
+      "trust-banks/sumitomo-mitsui-trust"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/custody-bank",
-      "https://finwiki.zksc.io/JapanFG/master-trust-bank",
-      "https://finwiki.zksc.io/JapanFG/mitsubishi-ufj-trust-bank",
-      "https://finwiki.zksc.io/JapanFG/mizuho-trust-bank",
-      "https://finwiki.zksc.io/JapanFG/sumitomo-mitsui-trust",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/custody-bank-operating-model",
       "https://finwiki.zksc.io/banking/japan-master-trust-and-custody-bank-landscape",
@@ -108,15 +103,20 @@
       "https://finwiki.zksc.io/real-estate-finance/private-reit-japan-vs-listed-j-reit-comparison",
       "https://finwiki.zksc.io/real-estate-finance/real-estate-bridge-fund-japan",
       "https://finwiki.zksc.io/real-estate-finance/top-10-j-reit-overview-matrix",
-      "https://finwiki.zksc.io/securities/japan-securities-depository-center"
+      "https://finwiki.zksc.io/securities/japan-securities-depository-center",
+      "https://finwiki.zksc.io/trust-banks/custody-bank",
+      "https://finwiki.zksc.io/trust-banks/master-trust-bank",
+      "https://finwiki.zksc.io/trust-banks/mitsubishi-ufj-trust-bank",
+      "https://finwiki.zksc.io/trust-banks/mizuho-trust-bank",
+      "https://finwiki.zksc.io/trust-banks/sumitomo-mitsui-trust"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 12704,
-    "word_like_tokens": 2204,
+    "nonspace_chars": 12728,
+    "word_like_tokens": 2210,
     "inbound_wikilinks_count": 22,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-04"
   }
 }

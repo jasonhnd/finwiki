@@ -14,7 +14,7 @@ translated_at: 2026-06-02T11:47:37.273Z
 
 日本の地方銀行再編は、地域の人口動態圧力、狭い純金利マージン、店舗 / システムコスト、デジタル投資ニーズ、そして縮小する地域で基本的な金融サービスを維持する必要性によって駆動される。FSA のフレーミングは、強制的な再編ではなく、顧客の課題解決、金融仲介の質、自主的な経営判断を強調する。
 
-このページは、[[JapanFG/tomony-hd]]、[[JapanFG/chiba-bank]]、[[JapanFG/fukuoka-fg]]、[[JapanFG/concordia-fg]]、[[JapanFG/18-shinwa-bank]]、[[JapanFG/akita-bank]]、[[JapanFG/iwate-bank]]、および [[JapanFG/joyo-bank]] に使用すること。
+このページは、[[regional-banks/tomony-hd]]、[[regional-banks/chiba-bank]]、[[regional-banks/fukuoka-fg]]、[[regional-banks/concordia-fg]]、[[regional-banks/18-shinwa-bank]]、[[regional-banks/akita-bank]]、[[regional-banks/iwate-bank]]、および [[regional-banks/joyo-bank]] に使用すること。
 
 ## 再編の形態
 
@@ -39,9 +39,9 @@ translated_at: 2026-06-02T11:47:37.273Z
 
 ## JapanFG との関連性
 
-- [[JapanFG/tomony-hd]] はインバウンド再編ケースのアンカーである。
-- [[JapanFG/fukuoka-fg]] と [[JapanFG/concordia-fg]] は強固な地方銀行グループの例である。
-- [[JapanFG/chiba-bank]]、[[JapanFG/akita-bank]]、[[JapanFG/iwate-bank]]、および [[JapanFG/joyo-bank]] は、メガバンクの代替ではなく、地域フランチャイズのケースとして読むべきである。
+- [[regional-banks/tomony-hd]] はインバウンド再編ケースのアンカーである。
+- [[regional-banks/fukuoka-fg]] と [[regional-banks/concordia-fg]] は強固な地方銀行グループの例である。
+- [[regional-banks/chiba-bank]]、[[regional-banks/akita-bank]]、[[regional-banks/iwate-bank]]、および [[regional-banks/joyo-bank]] は、メガバンクの代替ではなく、地域フランチャイズのケースとして読むべきである。
 - [[banking/post-megabank-positioning]] は、どの銀行が単純な地方銀行として扱うには戦略的 / 広範すぎるかを説明する。
 
 ## 意思決定での利用
@@ -59,11 +59,11 @@ translated_at: 2026-06-02T11:47:37.273Z
 - [[banking/INDEX|banking INDEX]]
 - [[banking/post-megabank-positioning]]
 - [[banking/cooperative-banking-japan]]
-- [[JapanFG/tomony-hd]]
-- [[JapanFG/chiba-bank]]
-- [[JapanFG/fukuoka-fg]]
-- [[JapanFG/concordia-fg]]
-- [[JapanFG/legal-financial-licenses/INDEX]]
+- [[regional-banks/tomony-hd]]
+- [[regional-banks/chiba-bank]]
+- [[regional-banks/fukuoka-fg]]
+- [[regional-banks/concordia-fg]]
+- [[financial-licenses/INDEX]]
 - [[INDEX|FinWiki index]]
 
 ## 出典

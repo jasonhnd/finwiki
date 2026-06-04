@@ -55,9 +55,6 @@
     "wikilinks_count": 14,
     "wikilinks": [
       "INDEX",
-      "JapanFG/mufg",
-      "JapanFG/progmat",
-      "JapanFG/smfg",
       "cross-border-sc-via-swift-api",
       "fintech/INDEX",
       "fintech/cross-border-sc-via-swift-api",
@@ -67,13 +64,13 @@
       "fintech/japan-stablecoin-regulatory-landscape",
       "fintech/multi-megabank-consortium-governance",
       "institutional-stablecoin-deposit-token-thesis",
-      "multi-megabank-consortium-governance"
+      "megabanks/mufg",
+      "megabanks/smfg",
+      "multi-megabank-consortium-governance",
+      "payment-firms/progmat"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/mufg",
-      "https://finwiki.zksc.io/JapanFG/progmat",
-      "https://finwiki.zksc.io/JapanFG/smfg",
       "https://finwiki.zksc.io/cross-border-sc-via-swift-api",
       "https://finwiki.zksc.io/fintech/INDEX",
       "https://finwiki.zksc.io/fintech/cross-border-sc-via-swift-api",
@@ -83,15 +80,18 @@
       "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
       "https://finwiki.zksc.io/fintech/multi-megabank-consortium-governance",
       "https://finwiki.zksc.io/institutional-stablecoin-deposit-token-thesis",
-      "https://finwiki.zksc.io/multi-megabank-consortium-governance"
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/smfg",
+      "https://finwiki.zksc.io/multi-megabank-consortium-governance",
+      "https://finwiki.zksc.io/payment-firms/progmat"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3177,
-    "word_like_tokens": 538,
+    "nonspace_chars": 3187,
+    "word_like_tokens": 539,
     "inbound_wikilinks_count": 44,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-06-04"
   }
 }

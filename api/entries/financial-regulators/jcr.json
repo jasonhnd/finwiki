@@ -1,0 +1,83 @@
+{
+  "schema_version": "1.0",
+  "slug": "financial-regulators/jcr",
+  "source_path": "financial-regulators/jcr.md",
+  "url": "https://finwiki.zksc.io/financial-regulators/jcr",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/financial-regulators/jcr.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/financial-regulators/jcr.md",
+  "domain": "financial-regulators",
+  "title": "日本格付研究所 (JCR)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "日本格付研究所 (JCR)",
+    "aliases": [
+      "JCR",
+      "Japan Credit Rating Agency",
+      "Ltd.",
+      "株式会社日本格付研究所",
+      "日本格付研究所"
+    ],
+    "domain": "financial-regulators",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "credit-rating-agency",
+      "NRSRO-equivalent",
+      "capital-markets"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: 日本格付研究所 (2026-05-25 抽出)",
+      "JCR 公式サイト (https://www.jcr.co.jp/, 2026-05-25 参照)",
+      "金融庁 信用格付業者一覧 (https://www.fsa.go.jp/, 2026-05-25 参照)",
+      "金融商品取引法 第 66 条の 27 以下（信用格付業者登録制度）",
+      "日本銀行ワーキングペーパー No.07-E-11 『Credit Rating Gaps in Japan: Differences between Japanese and U.S. Rating Agencies』 (2007, https://www.boj.or.jp/en/research/wps_rev/wps_2007/data/wp07e11.pdf)"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 格付投資情報センター (R&I) for peer / contrast context and 金融庁 for the broader regulatory boundary (信用格付業者登録).",
+  "headings": [
+    "日本格付研究所 (JCR)",
+    "Wiki route",
+    "TL;DR",
+    "1. 法人構造・沿革",
+    "重要年表",
+    "2. 格付業務 map",
+    "格付スケール",
+    "国内 4 大格付機関",
+    "国内 vs 国際の格付ギャップ問題",
+    "競争上の特徴"
+  ],
+  "body_links": {
+    "wikilinks_count": 7,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "financial-regulators/fsa",
+      "financial-regulators/japan-exchange-group",
+      "financial-regulators/rating-and-investment",
+      "megabanks/mizuho-fg",
+      "megabanks/mufg",
+      "megabanks/smfg"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/financial-regulators/fsa",
+      "https://finwiki.zksc.io/financial-regulators/japan-exchange-group",
+      "https://finwiki.zksc.io/financial-regulators/rating-and-investment",
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/smfg"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 4290,
+    "word_like_tokens": 693,
+    "inbound_wikilinks_count": 12,
+    "last_modified": "2026-06-04"
+  }
+}

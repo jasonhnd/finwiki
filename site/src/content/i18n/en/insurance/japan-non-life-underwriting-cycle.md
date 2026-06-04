@@ -14,13 +14,13 @@ translated_at: 2026-05-31T07:28:06.128Z
 
 This entry sits under [[insurance/INDEX|insurance index]] and is the underwriting-cycle deep dive for Japanese non-life insurers. Read it together with [[insurance/japan-nonlife-big-three|Japan non-life big three]] for entity-level routing, [[insurance/natcat-reinsurance-japan|nat-cat reinsurance Japan]] for catastrophe pricing, [[insurance/earthquake-insurance-public-private-scheme|earthquake insurance public-private scheme]] for the household-earthquake carve-out, [[insurance/economic-value-based-solvency|economic-value-based solvency]] for the regulatory frame, [[insurance/global-solvency-framework-comparison-matrix|global solvency framework matrix]] for cross-jurisdiction comparison, [[insurance/japan-iaig-ics-mapping|Japan IAIG-ICS mapping]] for the group-level supervisory layer, and [[insurance/insurance-agency-and-brokerage-japan|agency and brokerage Japan]] for the distribution layer that drives expense ratios.
 
-Operating-company routing goes through [[JapanFG/tokio-marine-nichido-fire|Tokio Marine & Nichido Fire]], [[JapanFG/mitsui-sumitomo-insurance|Mitsui Sumitomo Insurance]], [[JapanFG/aioi-nissay-dowa-insurance|Aioi Nissay Dowa Insurance]], and [[JapanFG/sompo-japan-insurance|Sompo Japan Insurance]]. Holding-company routing goes through [[JapanFG/tokio-marine|Tokio Marine]], [[JapanFG/msad|MS&AD]], and [[JapanFG/sompo|Sompo]]. License context is in [[JapanFG/legal-financial-licenses/insurance-license-and-solvency|insurance license and solvency route]].
+Operating-company routing goes through [[non-life-insurers/tokio-marine-nichido-fire|Tokio Marine & Nichido Fire]], [[non-life-insurers/mitsui-sumitomo-insurance|Mitsui Sumitomo Insurance]], [[non-life-insurers/aioi-nissay-dowa-insurance|Aioi Nissay Dowa Insurance]], and [[non-life-insurers/sompo-japan-insurance|Sompo Japan Insurance]]. Holding-company routing goes through [[non-life-insurers/tokio-marine|Tokio Marine]], [[non-life-insurers/msad|MS&AD]], and [[non-life-insurers/sompo|Sompo]]. License context is in [[financial-licenses/insurance-license-and-solvency|insurance license and solvency route]].
 
 ## TL;DR
 
 The Japanese non-life underwriting cycle is dominated by three product-line dynamics: auto rate adequacy under the tier-rating reform regime, fire / property rate adequacy under rising catastrophe loading, and specialty-line cycle dynamics (cyber, D&O, marine) imported from global market conditions. At the operating-company level, the combined ratio decomposes into loss ratio (claims paid + reserve change / earned premium) plus expense ratio (acquisition + administration / earned premium). Combined ratios below 100% indicate underwriting profit; above 100% indicate underwriting loss, which may or may not be offset by investment income.
 
-The big-three operating entities — [[JapanFG/tokio-marine-nichido-fire|Tokio Marine & Nichido Fire]], [[JapanFG/mitsui-sumitomo-insurance|Mitsui Sumitomo Insurance]] + [[JapanFG/aioi-nissay-dowa-insurance|Aioi Nissay Dowa Insurance]] under MS&AD, and [[JapanFG/sompo-japan-insurance|Sompo Japan Insurance]] — share the same domestic market structure but differ in product-line mix, channel concentration, overseas earnings offset, and reinsurance procurement strategy.
+The big-three operating entities — [[non-life-insurers/tokio-marine-nichido-fire|Tokio Marine & Nichido Fire]], [[non-life-insurers/mitsui-sumitomo-insurance|Mitsui Sumitomo Insurance]] + [[non-life-insurers/aioi-nissay-dowa-insurance|Aioi Nissay Dowa Insurance]] under MS&AD, and [[non-life-insurers/sompo-japan-insurance|Sompo Japan Insurance]] — share the same domestic market structure but differ in product-line mix, channel concentration, overseas earnings offset, and reinsurance procurement strategy.
 
 Reinsurance timing matters: the April 1  renewal is the main Japan-domestic treaty cycle, aligned with the Japan fiscal year, while mid-year and January renewals also matter. Hard and soft cycles in global reinsurance feed directly into Japanese fire / property and catastrophe pricing.
 
@@ -144,7 +144,7 @@ The non-life cat module under [[insurance/economic-value-based-solvency|economic
 | Volcanic | Where applicable, ash-fall and lahar scenarios |
 | Overseas catastrophe | Foreign-subsidiary cat exposure layered into group-level capital |
 
-Household earthquake risk is structurally outside private non-life cat-module sensitivity because it sits in [[insurance/earthquake-insurance-public-private-scheme|public-private scheme]] administered through [[JapanFG/japan-earthquake-reinsurance|Japan Earthquake Reinsurance]]. Commercial earthquake and overseas earthquake exposure are private and feed into the cat module.
+Household earthquake risk is structurally outside private non-life cat-module sensitivity because it sits in [[insurance/earthquake-insurance-public-private-scheme|public-private scheme]] administered through [[non-life-insurers/japan-earthquake-reinsurance|Japan Earthquake Reinsurance]]. Commercial earthquake and overseas earthquake exposure are private and feed into the cat module.
 
 The cat-module capital charge directly affects how much catastrophe risk each big-three group can retain on its own balance sheet versus how much must be ceded to external reinsurers. Capital efficiency therefore depends on joint reinsurance-and-ESR optimization, not on a reinsurance-only or capital-only decision.
 
@@ -154,9 +154,9 @@ A common reading mistake is to treat a holding-company integrated-report combine
 
 | Group | Operating-company combined ratios consolidated into group | Group-level adjustments |
 |---|---|---|
-| [[JapanFG/tokio-marine|Tokio Marine]] | [[JapanFG/tokio-marine-nichido-fire|TMNF]] domestic + Philadelphia + HCC + Pure + Lloyd's syndicate + others | FX translation, consolidation eliminations, group reinsurance recoveries |
-| [[JapanFG/msad|MS&AD]] | [[JapanFG/mitsui-sumitomo-insurance|MSI]] + [[JapanFG/aioi-nissay-dowa-insurance|ADI]] domestic + MS Amlin + overseas | FX translation, consolidation eliminations, intra-group reinsurance |
-| [[JapanFG/sompo|Sompo]] | [[JapanFG/sompo-japan-insurance|Sompo Japan Insurance]] domestic + Sompo International + others | FX translation, consolidation eliminations, intra-group reinsurance |
+| [[non-life-insurers/tokio-marine|Tokio Marine]] | [[non-life-insurers/tokio-marine-nichido-fire|TMNF]] domestic + Philadelphia + HCC + Pure + Lloyd's syndicate + others | FX translation, consolidation eliminations, group reinsurance recoveries |
+| [[non-life-insurers/msad|MS&AD]] | [[non-life-insurers/mitsui-sumitomo-insurance|MSI]] + [[non-life-insurers/aioi-nissay-dowa-insurance|ADI]] domestic + MS Amlin + overseas | FX translation, consolidation eliminations, intra-group reinsurance |
+| [[non-life-insurers/sompo|Sompo]] | [[non-life-insurers/sompo-japan-insurance|Sompo Japan Insurance]] domestic + Sompo International + others | FX translation, consolidation eliminations, intra-group reinsurance |
 
 Domestic Japan combined ratios and overseas combined ratios can move in opposite directions in a given year. The group result is the diversification-weighted blend, and the diversification benefit differs by year and by where catastrophe events occur.
 
@@ -164,19 +164,19 @@ Domestic Japan combined ratios and overseas combined ratios can move in opposite
 
 - largest single domestic non-life operating company by premium;
 - diversified across auto, fire, marine, and specialty lines;
-- holding-company group ([[JapanFG/tokio-marine|Tokio Marine]]) benefits from substantial overseas earnings offset through Philadelphia Consolidated, HCC, Pure Group, Lloyd's syndicate, and others;
+- holding-company group ([[non-life-insurers/tokio-marine|Tokio Marine]]) benefits from substantial overseas earnings offset through Philadelphia Consolidated, HCC, Pure Group, Lloyd's syndicate, and others;
 - reinsurance procurement is managed within a group-capital framework that benefits from overseas-subsidiary diversification.
 
 ### MS&AD operating companies — MSI and ADI
 
-- [[JapanFG/mitsui-sumitomo-insurance|Mitsui Sumitomo Insurance]] and [[JapanFG/aioi-nissay-dowa-insurance|Aioi Nissay Dowa Insurance]] are both major domestic operating companies under [[JapanFG/msad|MS&AD]];
+- [[non-life-insurers/mitsui-sumitomo-insurance|Mitsui Sumitomo Insurance]] and [[non-life-insurers/aioi-nissay-dowa-insurance|Aioi Nissay Dowa Insurance]] are both major domestic operating companies under [[non-life-insurers/msad|MS&AD]];
 - ADI's mobility / Toyota franchise creates a distinct auto-line distribution and customer base;
 - MS Amlin contributes specialty / reinsurance exposure;
 - overseas P&C operations diversify group earnings.
 
 ### Sompo Japan Insurance (under Sompo HD)
 
-- [[JapanFG/sompo-japan-insurance|Sompo Japan Insurance]] is the main domestic non-life operating company under [[JapanFG/sompo|Sompo]];
+- [[non-life-insurers/sompo-japan-insurance|Sompo Japan Insurance]] is the main domestic non-life operating company under [[non-life-insurers/sompo|Sompo]];
 - Sompo International contributes overseas specialty / reinsurance;
 - agency channel and customer-explanation conduct have been part of recent supervisory dialogue;
 - domestic auto and fire remain the core premium base.
@@ -195,14 +195,14 @@ Domestic Japan combined ratios and overseas combined ratios can move in opposite
 - [[insurance/japan-life-insurance-alm-overview]]
 - [[insurance/foreign-life-affiliate-japan-positioning]]
 - [[insurance/saison-automobile-fire]]
-- [[JapanFG/tokio-marine]]
-- [[JapanFG/msad]]
-- [[JapanFG/sompo]]
-- [[JapanFG/tokio-marine-nichido-fire]]
-- [[JapanFG/mitsui-sumitomo-insurance]]
-- [[JapanFG/aioi-nissay-dowa-insurance]]
-- [[JapanFG/sompo-japan-insurance]]
-- [[JapanFG/legal-financial-licenses/insurance-license-and-solvency]]
+- [[non-life-insurers/tokio-marine]]
+- [[non-life-insurers/msad]]
+- [[non-life-insurers/sompo]]
+- [[non-life-insurers/tokio-marine-nichido-fire]]
+- [[non-life-insurers/mitsui-sumitomo-insurance]]
+- [[non-life-insurers/aioi-nissay-dowa-insurance]]
+- [[non-life-insurers/sompo-japan-insurance]]
+- [[financial-licenses/insurance-license-and-solvency]]
 - [[finance/japan-listed-financial-groups-investable-universe]]
 - [[INDEX|FinWiki index]]
 

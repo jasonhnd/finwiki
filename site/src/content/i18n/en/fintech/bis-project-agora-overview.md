@@ -20,7 +20,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 ## Key facts
 
 - 7  G10  central banks: FRBNY / BoE / BdF / BoJ / BoK / Banxico / SNB ^[extracted]
-- 40+ commercial bank participants: JPM / Citi / HSBC / [[JapanFG/mufg|MUFG]] / SWIFT / Mastercard / Visa etc. ^[extracted]
+- 40+ commercial bank participants: JPM / Citi / HSBC / [[megabanks/mufg|MUFG]] / SWIFT / Mastercard / Visa etc. ^[extracted]
 - Launched 2024.04 , private institution list published 2024.09  ^[extracted]
 - 2025  Phase 1  = proof of concept (cross-border wholesale settlement) ^[extracted]
 - 2025–2026  Phase 2  = live prototype (not yet operational) ^[extracted]

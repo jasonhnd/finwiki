@@ -32,7 +32,7 @@ This entry sits under [[money-market/INDEX|money-market index]]. Read it against
 
 Open market operations are the Bank of Japan's main implementation tool for money-market control. Under the policy guideline decided at Monetary Policy Meetings, the BoJ supplies or absorbs funds by lending against collateral, buying or selling securities, conducting repo-style operations, and using other market-operation facilities.
 
-For FinWiki, this page is the mechanics layer under [[JapanFG/boj-monetary-policy]] and [[money-market/japan-money-market]].
+For FinWiki, this page is the mechanics layer under [[financial-regulators/boj-monetary-policy]] and [[money-market/japan-money-market]].
 
 ## Operation Types
 
@@ -66,10 +66,10 @@ Market operations translate policy into balance-sheet reality:
 
 Use these internal anchors:
 
-- [[JapanFG/mufg]], [[JapanFG/smfg]], [[JapanFG/mizuho-fg]]
-- [[JapanFG/mizuho-securities]], [[JapanFG/mufg-mums]]
-- [[JapanFG/tokyo-tanshi]], [[JapanFG/central-tanshi]], [[JapanFG/ueda-yagi-tanshi]]
-- [[JapanFG/local-bond-market]]
+- [[megabanks/mufg]], [[megabanks/smfg]], [[megabanks/mizuho-fg]]
+- [[securities-firms/mizuho-securities]], [[securities-firms/mufg-mums]]
+- [[financial-regulators/tokyo-tanshi]], [[financial-regulators/central-tanshi]], [[financial-regulators/ueda-yagi-tanshi]]
+- [[financial-regulators/local-bond-market]]
 
 ## Reading Checklist
 
@@ -88,9 +88,9 @@ When reading a BoJ operation result, capture:
 - [[money-market/INDEX|money-market INDEX]]
 - [[money-market/japan-money-market]]
 - [[money-market/call-market-structure]]
-- [[JapanFG/boj-monetary-policy]]
-- [[JapanFG/local-bond-market]]
-- [[JapanFG/legal-financial-licenses/INDEX]]
+- [[financial-regulators/boj-monetary-policy]]
+- [[financial-regulators/local-bond-market]]
+- [[financial-licenses/INDEX]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

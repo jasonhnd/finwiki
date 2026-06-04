@@ -11,7 +11,7 @@ translated_at: 2026-06-01T04:15:40.093Z
 
 ## TL;DR
 
-日本信用卡应收款 ABS——年度规模适中（约 JPY 400–700 bn），由 [[JapanFG/jcb|JCB]]、[[JapanFG/mufg-nicos|Mitsubishi UFJ Nicos]]、[[JapanFG/credit-saison|Credit Saison]]、[[JapanFG/orico|Orient Corp]]、[[JapanFG/aeon-financial-service|AEON Financial Service]] 和 [[JapanFG/jaccs|JACCS]] 发行——采用**主信托框架**，即单一信托结构以持续补充的信用卡应收款池（购物 + 循环 + 现金预借余额）为支持，随时间发行多个系列的优先债券。与独立信托不同，主信托在所有存续系列之间共享资产池动态；每个新系列都按投资金额比例获得同一循环池的受偿权。该结构为每个系列设置**预定受控摊还期**（通常 6–12 个月），但也有**期间延长（term extension）**条款，若资产池表现强劲且再投资仍然有效，发行人可推迟预定摊还开始日——这是借鉴美国式主信托（Citi、Capital One、Discover）并适配 JSDA 披露惯例的日本特色。**提前摊还触发机制**（类似消费贷款 ABS）通过在累计核销或 90+ 天逾期超过阈值、或发起人违约事件发生时立即切换为还本来保护投资者。多数国内交易由 [[structured-finance/credit-rating-methodology-jcr-r-and-i|JCR / R&I]] 评级；跨境交易（较少）选择性使用 S&P / Moody's。
+日本信用卡应收款 ABS——年度规模适中（约 JPY 400–700 bn），由 [[card-issuers/jcb|JCB]]、[[card-issuers/mufg-nicos|Mitsubishi UFJ Nicos]]、[[card-issuers/credit-saison|Credit Saison]]、[[card-issuers/orico|Orient Corp]]、[[card-issuers/aeon-financial-service|AEON Financial Service]] 和 [[card-issuers/jaccs|JACCS]] 发行——采用**主信托框架**，即单一信托结构以持续补充的信用卡应收款池（购物 + 循环 + 现金预借余额）为支持，随时间发行多个系列的优先债券。与独立信托不同，主信托在所有存续系列之间共享资产池动态；每个新系列都按投资金额比例获得同一循环池的受偿权。该结构为每个系列设置**预定受控摊还期**（通常 6–12 个月），但也有**期间延长（term extension）**条款，若资产池表现强劲且再投资仍然有效，发行人可推迟预定摊还开始日——这是借鉴美国式主信托（Citi、Capital One、Discover）并适配 JSDA 披露惯例的日本特色。**提前摊还触发机制**（类似消费贷款 ABS）通过在累计核销或 90+ 天逾期超过阈值、或发起人违约事件发生时立即切换为还本来保护投资者。多数国内交易由 [[structured-finance/credit-rating-methodology-jcr-r-and-i|JCR / R&I]] 评级；跨境交易（较少）选择性使用 S&P / Moody's。
 
 ## Wiki 路径
 
@@ -21,14 +21,14 @@ translated_at: 2026-06-01T04:15:40.093Z
 
 | 发行人 | 母公司 | 信用卡品牌组合 | 年度 ABS 发行（约） |
 |---|---|---|---|
-| [[JapanFG/jcb|JCB]] | 独立（与巨型银行交叉持股） | JCB 品牌信用卡（国内网络 + 国际） | JPY 100–200 bn |
-| [[JapanFG/mufg-nicos|Mitsubishi UFJ Nicos]] | MUFG group | MUFG Card, DC Card, NICOS, UFJ Card 品牌 | JPY 80–150 bn |
-| [[JapanFG/credit-saison|Credit Saison]] | Mizuho group affiliate / partly Seibu / partly Mizuho | SAISON Card 品牌 | JPY 100–200 bn |
-| [[JapanFG/orico|Orient Corp]] | Mizuho-Itochu group | Orico Card 品牌 | JPY 50–100 bn |
-| [[JapanFG/aeon-financial-service|AEON Financial Service]] | AEON Group | AEON Card（零售商亲和） | JPY 50–100 bn（公开 ABS 有限 — 更多依靠银行额度融资） |
-| [[JapanFG/jaccs|JACCS]] | MUFG group | JACCS Card | JPY 30–80 bn |
+| [[card-issuers/jcb|JCB]] | 独立（与巨型银行交叉持股） | JCB 品牌信用卡（国内网络 + 国际） | JPY 100–200 bn |
+| [[card-issuers/mufg-nicos|Mitsubishi UFJ Nicos]] | MUFG group | MUFG Card, DC Card, NICOS, UFJ Card 品牌 | JPY 80–150 bn |
+| [[card-issuers/credit-saison|Credit Saison]] | Mizuho group affiliate / partly Seibu / partly Mizuho | SAISON Card 品牌 | JPY 100–200 bn |
+| [[card-issuers/orico|Orient Corp]] | Mizuho-Itochu group | Orico Card 品牌 | JPY 50–100 bn |
+| [[card-issuers/aeon-financial-service|AEON Financial Service]] | AEON Group | AEON Card（零售商亲和） | JPY 50–100 bn（公开 ABS 有限 — 更多依靠银行额度融资） |
+| [[card-issuers/jaccs|JACCS]] | MUFG group | JACCS Card | JPY 30–80 bn |
 
-发卡 ABS 发行量集中在前三大。[[JapanFG/sumitomo-mitsui-card|Sumitomo Mitsui Card]]（SMFG group）历史上曾发行，但更多通过 SMFG 银行额度和母银行安排融资。银行系发卡机构（NICOS、Saison、SMBC Card）通常能获得成本更低的母银行资金，因此 ABS 只是众多工具之一，而不是主导融资渠道——不同于美国信用卡应收款 ABS，其中主信托（Citi、Capital One、Discover、JPM Chase）是核心资金管理基础设施。
+发卡 ABS 发行量集中在前三大。[[card-issuers/sumitomo-mitsui-card|Sumitomo Mitsui Card]]（SMFG group）历史上曾发行，但更多通过 SMFG 银行额度和母银行安排融资。银行系发卡机构（NICOS、Saison、SMBC Card）通常能获得成本更低的母银行资金，因此 ABS 只是众多工具之一，而不是主导融资渠道——不同于美国信用卡应收款 ABS，其中主信托（Citi、Capital One、Discover、JPM Chase）是核心资金管理基础设施。
 
 ## 2. 主信托框架 — 它是什么
 
@@ -63,7 +63,7 @@ translated_at: 2026-06-01T04:15:40.093Z
 | **循环付款** | 持卡人每月支付固定金额；余额计息滚存 | JPY 50K–500K | 中等违约（3.0–6.0% — 较高风险借款人池） |
 | **现金预借** | 在卡额度内直接提取现金 | JPY 20K–200K | 较高违约（5.0–9.0%） |
 
-资产池构成因发行人而异——[[JapanFG/jcb|JCB]] 的资产池更偏购物分期（较低违约），而 [[JapanFG/credit-saison|Credit Saison]] 和 [[JapanFG/orico|Orient Corp]] 的循环 / 现金预借占比更高（较高违约但较高收益）。
+资产池构成因发行人而异——[[card-issuers/jcb|JCB]] 的资产池更偏购物分期（较低违约），而 [[card-issuers/credit-saison|Credit Saison]] 和 [[card-issuers/orico|Orient Corp]] 的循环 / 现金预借占比更高（较高违约但较高收益）。
 
 **利息限制法**下的利率上限（按贷款规模为 15–20%）适用于循环和现金预借部分；购物分期在《分期付款销售法》下按不同方式处理。
 
@@ -109,7 +109,7 @@ translated_at: 2026-06-01T04:15:40.093Z
 | 3. 评级机构预沟通 | JCR / R&I 审查系列特定次级化、触发机制、资产池表现 |
 | 4. 设计系列分层 | Senior AAA + mezz AA/A + equity（系列特定次级化） |
 | 5. 计算分配投资金额 | 新系列按比例获得资产池回收款受偿权 |
-| 6. 通过巨型银行证券部门销售系列 | [[JapanFG/mufg-securities|MUFG MS]]、[[JapanFG/smbc-nikko|SMBC Nikko]]、[[JapanFG/mizuho-securities|Mizuho Securities]] |
+| 6. 通过巨型银行证券部门销售系列 | [[securities-firms/mufg-securities|MUFG MS]]、[[securities-firms/smbc-nikko|SMBC Nikko]]、[[securities-firms/mizuho-securities|Mizuho Securities]] |
 | 7. 系列募集完成；现金流向发起人 | 发起人收到募集资金；权益层留存 |
 | 8. 系列进入循环阶段 | 开始按比例接收资产池回收款 |
 
@@ -179,8 +179,8 @@ translated_at: 2026-06-01T04:15:40.093Z
 - 数字纯线上 / fintech 发卡机构（Kyash、Revolut Japan、Wise）是否会建立足够资产池规模来发行主信托 ABS
 - BNPL 应收款在产品成熟后是否会整合进主信托资产池
 - 无现金支付政策推动对整体信用卡应收款池增长的影响（与 QR code 夺取份额时信用卡消费下降相对）
-- [[JapanFG/aeon-financial-service|AEON Financial Service]] 是否会随着其零售商亲和型信用卡组合成熟而扩大 ABS 发行
-- [[JapanFG/jcb|JCB]] 国际扩张在推动跨境信用卡应收款发行中的角色
+- [[card-issuers/aeon-financial-service|AEON Financial Service]] 是否会随着其零售商亲和型信用卡组合成熟而扩大 ABS 发行
+- [[card-issuers/jcb|JCB]] 国际扩张在推动跨境信用卡应收款发行中的角色
 
 ## 相关
 
@@ -194,9 +194,9 @@ translated_at: 2026-06-01T04:15:40.093Z
 - [[structured-finance/fitch-moody-sp-japan-criteria|Fitch / Moody's / S&P Japan criteria]]
 - [[structured-finance/spv-tk-gk-vehicle-japan-tax|TK / GK / TMK SPV vehicle]]
 - [[structured-finance/japan-securitization-product-matrix|Japan securitization product matrix]]
-- [[JapanFG/jcb|JCB]] · [[JapanFG/mufg-nicos|MUFG Nicos]] · [[JapanFG/credit-saison|Credit Saison]]
-- [[JapanFG/orico|Orient Corp]] · [[JapanFG/aeon-financial-service|AEON Financial Service]] · [[JapanFG/jaccs|JACCS]]
-- [[JapanFG/bnpl-landscape|BNPL landscape]]
+- [[card-issuers/jcb|JCB]] · [[card-issuers/mufg-nicos|MUFG Nicos]] · [[card-issuers/credit-saison|Credit Saison]]
+- [[card-issuers/orico|Orient Corp]] · [[card-issuers/aeon-financial-service|AEON Financial Service]] · [[card-issuers/jaccs|JACCS]]
+- [[payment-firms/bnpl-landscape|BNPL landscape]]
 - [[payments/INDEX|payments domain]]
 
 ## 来源

@@ -17,7 +17,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 
 > Funds Transfer Service Provider registration, Kanto Local Finance Bureau 第00099号 · JVCEA member #1042 (Funds Transfer) · Established 2019年11月
 
-> Namespace note: JPYC is not a conventional crypto-asset exchange. This detailed page remains in `exchanges/` for legacy stablecoin-routing reasons; the operating-company anchor is [[JapanFG/jpyc]].
+> Namespace note: JPYC is not a conventional crypto-asset exchange. This detailed page remains in `exchanges/` for legacy stablecoin-routing reasons; the operating-company anchor is [[payment-firms/jpyc]].
 
 ## 1. Corporate Entity / Shareholders
 
@@ -100,7 +100,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 ## Related
 
 - [[fintech/japan-stablecoin-regulatory-landscape]] — Japan's three-tier stablecoin legal framework (positioning of JPYC, USDC, and the trust type)
-- [[JapanFG/jpyc]] — JapanFG operating-company anchor
+- [[payment-firms/jpyc]] — JapanFG operating-company anchor
 - [[fintech/jp-trust-type-sc-architecture]] — Comparison of the three SC types (trust type, bank type, funds-transfer-operator type)
 - [[fintech/japan-financial-regulation]] — Japan's financial regulation overall
 - [[exchanges/jp-exchange-sbi-vc-trade]] — SBI VC Trade (a comparison example of an exchange operator that also holds an electronic payment instrument trading license)

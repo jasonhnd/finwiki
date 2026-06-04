@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.0",
+  "slug": "financial-conglomerates/sumitomo-corp",
+  "source_path": "financial-conglomerates/sumitomo-corp.md",
+  "url": "https://finwiki.zksc.io/financial-conglomerates/sumitomo-corp",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/financial-conglomerates/sumitomo-corp.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/financial-conglomerates/sumitomo-corp.md",
+  "domain": "financial-conglomerates",
+  "title": "住友商事 (Sumitomo Corporation)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "住友商事 (Sumitomo Corporation)",
+    "aliases": [
+      "Sumitomo Corporation",
+      "住友商事",
+      "住友商事株式会社",
+      "Sumitomo Shoji",
+      "8053",
+      "sumitomo-corp",
+      "sumitomo"
+    ],
+    "domain": "financial-conglomerates",
+    "created": "2026-05-24",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
+    "review_by": "2026-11-20",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "sogo-shosha",
+      "parent-company",
+      "sumitomo-group",
+      "steel",
+      "transport",
+      "retail",
+      "infrastructure",
+      "media",
+      "conglomerate"
+    ],
+    "status": "active",
+    "sources": [
+      "住友商事 (8053) 公式 IR — https://www.sumitomocorp.com/ja/jp/ir",
+      "住友商事 統合報告書 — https://www.sumitomocorp.com/ja/jp/ir/library/integrated",
+      "EDINET 有価証券報告書 — https://disclosure.edinet-fsa.go.jp/ (検索: 住友商事)",
+      "JPX 銘柄情報 8053 — https://www2.jpx.co.jp/"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index as a sōgō shōsha parent holding-company. Read it against 三菱商事 (旧 財閥商社の両雄) and 三井物産 (財閥商社の三巨頭) for peer / contrast context. For the financial-services adjacency that gives this entry its JapanFG anchor — see 住友商事フィナンシャルマネジメント (内向け CMS) and especially SMFL (三井住友ファイナ",
+  "headings": [
+    "住友商事 (Sumitomo Corporation)",
+    "Wiki route",
+    "1. 会社概要",
+    "主要子会社・関連会社 (JapanFG 文脈)",
+    "沿革ハイライト ^[extracted]",
+    "2. 事業セグメント・マップ",
+    "3. Financial-services adjacency",
+    "5 大商社内の identity",
+    "競合",
+    "5. 規制・政策"
+  ],
+  "body_links": {
+    "wikilinks_count": 18,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "finance/INDEX",
+      "finance/japan-listed-financial-groups-investable-universe",
+      "financial-conglomerates/itochu-corp",
+      "financial-conglomerates/marubeni-corp",
+      "financial-conglomerates/mitsubishi-corp",
+      "financial-conglomerates/mitsui-co",
+      "financial-conglomerates/sojitz-corp",
+      "financial-conglomerates/toyota-tsusho-corp",
+      "leasing-firms/mitsubishi-hc-capital",
+      "leasing-firms/orix-corp",
+      "leasing-firms/smfl",
+      "leasing-firms/sumitomo-mitsui-auto-service",
+      "leasing-firms/tokyo-century",
+      "megabanks/smfg",
+      "non-life-insurers/mitsui-sumitomo-insurance",
+      "trading-company-finance/sumitomo-corp-financial-management",
+      "trust-banks/sumitomo-mitsui-trust"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/finance/INDEX",
+      "https://finwiki.zksc.io/finance/japan-listed-financial-groups-investable-universe",
+      "https://finwiki.zksc.io/financial-conglomerates/itochu-corp",
+      "https://finwiki.zksc.io/financial-conglomerates/marubeni-corp",
+      "https://finwiki.zksc.io/financial-conglomerates/mitsubishi-corp",
+      "https://finwiki.zksc.io/financial-conglomerates/mitsui-co",
+      "https://finwiki.zksc.io/financial-conglomerates/sojitz-corp",
+      "https://finwiki.zksc.io/financial-conglomerates/toyota-tsusho-corp",
+      "https://finwiki.zksc.io/leasing-firms/mitsubishi-hc-capital",
+      "https://finwiki.zksc.io/leasing-firms/orix-corp",
+      "https://finwiki.zksc.io/leasing-firms/smfl",
+      "https://finwiki.zksc.io/leasing-firms/sumitomo-mitsui-auto-service",
+      "https://finwiki.zksc.io/leasing-firms/tokyo-century",
+      "https://finwiki.zksc.io/megabanks/smfg",
+      "https://finwiki.zksc.io/non-life-insurers/mitsui-sumitomo-insurance",
+      "https://finwiki.zksc.io/trading-company-finance/sumitomo-corp-financial-management",
+      "https://finwiki.zksc.io/trust-banks/sumitomo-mitsui-trust"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 5918,
+    "word_like_tokens": 926,
+    "inbound_wikilinks_count": 11,
+    "last_modified": "2026-06-04"
+  }
+}

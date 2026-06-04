@@ -14,7 +14,7 @@ translated_at: 2026-06-01T03:31:12.313Z
 
 Bank API risk in Japan is not only a cybersecurity issue. It is a control chain across bank authentication, customer consent, electronic payment agency registration, API contracts, unauthorized withdrawal response, suspicious-transaction monitoring, reimbursement / complaint handling, and downstream reconciliation.
 
-Use this page with [[payments/japan-bank-api-payment-agency-route|Japan bank API route]], [[payments/account-to-account-payment-japan|Japan account-to-account payment route]], [[payments/merchant-bank-pay-account-direct-acquiring|merchant account-direct acquiring]], [[payments/psp-merchant-settlement-risk|PSP settlement risk]], [[banking/quick-deposit-four-methods|quick deposit methods]], and [[JapanFG/legal-financial-licenses/INDEX|JapanFG legal / financial licenses]].
+Use this page with [[payments/japan-bank-api-payment-agency-route|Japan bank API route]], [[payments/account-to-account-payment-japan|Japan account-to-account payment route]], [[payments/merchant-bank-pay-account-direct-acquiring|merchant account-direct acquiring]], [[payments/psp-merchant-settlement-risk|PSP settlement risk]], [[banking/quick-deposit-four-methods|quick deposit methods]], and [[financial-licenses/INDEX|JapanFG legal / financial licenses]].
 
 ## Incident Surface
 
@@ -55,10 +55,10 @@ Do not describe all of these as "bank API fraud." The operational evidence and l
 
 ## JapanFG Relevance
 
-- [[JapanFG/mufg-bank|MUFG Bank]], [[JapanFG/sumitomo-mitsui-banking-corp|SMBC]], [[JapanFG/mizuho-bank|Mizuho Bank]], [[JapanFG/resona-bank|Resona Bank]], and large regional banks matter because they operate the bank-account side of the API / authentication / complaint route.
-- [[JapanFG/money-forward|Money Forward]] and [[JapanFG/freee|freee]] are useful accounting / account-aggregation comparison anchors.
-- [[JapanFG/merpay|Merpay]], [[JapanFG/paypay|PayPay]], [[JapanFG/rakuten-card|Rakuten Card]], and [[JapanFG/au-payment|au PAY]] need split analysis across bank API, wallet, prepaid, funds-transfer, and merchant rails.
-- [[JapanFG/sb-payment-service|SB Payment Service]], [[JapanFG/gmo-payment-gateway|GMO Payment Gateway]], and [[JapanFG/netstars|Netstars]] matter when API failure flows into merchant checkout, settlement, or reconciliation.
+- [[megabanks/mufg-bank|MUFG Bank]], [[megabanks/sumitomo-mitsui-banking-corp|SMBC]], [[megabanks/mizuho-bank|Mizuho Bank]], [[megabanks/resona-bank|Resona Bank]], and large regional banks matter because they operate the bank-account side of the API / authentication / complaint route.
+- [[payment-firms/money-forward|Money Forward]] and [[payment-firms/freee|freee]] are useful accounting / account-aggregation comparison anchors.
+- [[payment-firms/merpay|Merpay]], [[payment-firms/paypay|PayPay]], [[card-issuers/rakuten-card|Rakuten Card]], and [[payment-firms/au-payment|au PAY]] need split analysis across bank API, wallet, prepaid, funds-transfer, and merchant rails.
+- [[payment-firms/sb-payment-service|SB Payment Service]], [[payment-firms/gmo-payment-gateway|GMO Payment Gateway]], and [[payment-firms/netstars|Netstars]] matter when API failure flows into merchant checkout, settlement, or reconciliation.
 
 ## Investigation Checklist
 
@@ -80,7 +80,7 @@ Do not describe all of these as "bank API fraud." The operational evidence and l
 - [[payments/funds-transfer-vs-prepaid-boundary]]
 - [[banking/quick-deposit-four-methods]]
 - [[banking/baas-japan-landscape]]
-- [[JapanFG/legal-financial-licenses/INDEX]]
+- [[financial-licenses/INDEX]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

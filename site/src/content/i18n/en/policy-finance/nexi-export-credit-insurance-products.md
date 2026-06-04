@@ -12,11 +12,11 @@ translated_at: 2026-06-01T03:31:12.275Z
 
 ## Wiki route
 
-This entry sits under [[policy-finance/INDEX|policy-finance index]] as the product-side deep dive on [[policy-finance/nexi|NEXI (Nippon Export and Investment Insurance)]]. Read it with [[policy-finance/japan-project-finance-stack-diagram|Japan project finance stack diagram]] for how NEXI sits alongside [[JapanFG/jbic|JBIC]] loans, [[policy-finance/jogmec|JOGMEC]] equity, and megabank commercial debt; with [[policy-finance/oecd-export-credit-arrangement|OECD Export Credit Arrangement]] for the international rulebook on minimum premia and tenor caps; with [[policy-finance/jbic-overseas-investment-underwriting-process|JBIC overseas investment loan underwriting process]] for the lender-side flow that NEXI cover frequently wraps; with [[policy-finance/japan-policy-finance-system|Japan policy finance system]] for placement in the wider state-finance toolkit; and with [[policy-finance/japan-eximbank-history|Japan Eximbank history]] for the pre-2001 institutional history when export-credit insurance was a direct METI function before NEXI's spin-out.
+This entry sits under [[policy-finance/INDEX|policy-finance index]] as the product-side deep dive on [[policy-finance/nexi|NEXI (Nippon Export and Investment Insurance)]]. Read it with [[policy-finance/japan-project-finance-stack-diagram|Japan project finance stack diagram]] for how NEXI sits alongside [[financial-regulators/jbic|JBIC]] loans, [[policy-finance/jogmec|JOGMEC]] equity, and megabank commercial debt; with [[policy-finance/oecd-export-credit-arrangement|OECD Export Credit Arrangement]] for the international rulebook on minimum premia and tenor caps; with [[policy-finance/jbic-overseas-investment-underwriting-process|JBIC overseas investment loan underwriting process]] for the lender-side flow that NEXI cover frequently wraps; with [[policy-finance/japan-policy-finance-system|Japan policy finance system]] for placement in the wider state-finance toolkit; and with [[policy-finance/japan-eximbank-history|Japan Eximbank history]] for the pre-2001 institutional history when export-credit insurance was a direct METI function before NEXI's spin-out.
 
 ## TL;DR
 
-NEXI (株式会社日本貿易保険) is Japan's export-credit and investment-insurance agency, METI-supervised, sole shareholder MoF since the 2017 株式会社化 (corporatisation). Its product menu is organised around three primary families: **貿易一般保険** (general trade insurance, the umbrella that covers buyer-credit, supplier-credit, and standalone short-term export receivables), **投資保険** (overseas investment insurance covering political-risk and contract-frustration on equity and shareholder loans), and **海外事業資金貸付保険** (loan insurance covering political and commercial default on overseas lending — including the slice that megabanks and [[JapanFG/jbic|JBIC]] depend on for large project-finance deals). Risk coverage splits into **political risk** (war, expropriation, transfer restriction, sovereign breach) and **commercial risk** (buyer default, bankruptcy, protracted default). Standard cover ratios run around 95% political / 95% (sometimes 90%) commercial on long-term flagship products; short-term receivables insurance runs to 100% in some product designs. NEXI premia and tenor are constrained by the [[policy-finance/oecd-export-credit-arrangement|OECD Arrangement on Officially Supported Export Credits]] — the same regime that disciplines JBIC and peer ECAs (US EXIM, K-EXIM, UKEF, KfW IPEX, EDC, Bpifrance, Cesce). Climate-related product evolution since 2021 — Coal Sector Understanding tightening, expanded climate-friendly tenor under the Climate Change Sector Understanding, and selective expansion into critical-minerals and supply-chain insurance — has reshaped which sector deals NEXI can underwrite at standard parameters. NEXI also operates as the public reinsurer for some private trade-credit-insurance flows in Japan.
+NEXI (株式会社日本貿易保険) is Japan's export-credit and investment-insurance agency, METI-supervised, sole shareholder MoF since the 2017 株式会社化 (corporatisation). Its product menu is organised around three primary families: **貿易一般保険** (general trade insurance, the umbrella that covers buyer-credit, supplier-credit, and standalone short-term export receivables), **投資保険** (overseas investment insurance covering political-risk and contract-frustration on equity and shareholder loans), and **海外事業資金貸付保険** (loan insurance covering political and commercial default on overseas lending — including the slice that megabanks and [[financial-regulators/jbic|JBIC]] depend on for large project-finance deals). Risk coverage splits into **political risk** (war, expropriation, transfer restriction, sovereign breach) and **commercial risk** (buyer default, bankruptcy, protracted default). Standard cover ratios run around 95% political / 95% (sometimes 90%) commercial on long-term flagship products; short-term receivables insurance runs to 100% in some product designs. NEXI premia and tenor are constrained by the [[policy-finance/oecd-export-credit-arrangement|OECD Arrangement on Officially Supported Export Credits]] — the same regime that disciplines JBIC and peer ECAs (US EXIM, K-EXIM, UKEF, KfW IPEX, EDC, Bpifrance, Cesce). Climate-related product evolution since 2021 — Coal Sector Understanding tightening, expanded climate-friendly tenor under the Climate Change Sector Understanding, and selective expansion into critical-minerals and supply-chain insurance — has reshaped which sector deals NEXI can underwrite at standard parameters. NEXI also operates as the public reinsurer for some private trade-credit-insurance flows in Japan.
 
 ## 1. 機関 / 部門位置
 
@@ -28,7 +28,7 @@ NEXI (株式会社日本貿易保険) is Japan's export-credit and investment-in
 | Predecessor | 通商産業省 輸出保険部 (METI export-insurance division) → 2001 独立行政法人化 → 2017-04 株式会社化 |
 | Mandate | Insurance of trade and overseas-investment risks not adequately covered by commercial insurance; reinsurance of certain private trade-credit insurance flows; sovereign-aligned export-credit insurance under OECD Arrangement |
 | Funding base | Premium income + government counter-reinsurance / loss-sharing arrangements; not deposit-funded |
-| Role in policy stack | The insurance layer wrapping commercial-bank loans, equity exposures, and export receivables in cross-border Japanese transactions; structural counterpart to [[JapanFG/jbic|JBIC]] direct-lending |
+| Role in policy stack | The insurance layer wrapping commercial-bank loans, equity exposures, and export receivables in cross-border Japanese transactions; structural counterpart to [[financial-regulators/jbic|JBIC]] direct-lending |
 
 NEXI's structural placement is distinct from JBIC: JBIC is the **direct lender / equity participant**; NEXI is the **insurer of the commercial-bank tranche and of equity / political risk**. The two institutions sit side-by-side on large projects but rarely substitute for one another. See [[policy-finance/nexi|NEXI overview]] for institutional history and [[policy-finance/japan-project-finance-stack-diagram|Japan project finance stack diagram]] for how the two layers fit together.
 
@@ -86,7 +86,7 @@ OII is the layer that allows Japanese trading houses, utilities, and industrial 
 
 - **Project-finance loan insurance.** Wraps a defined portion (typically the political-risk slice, sometimes also commercial slice) of a project-finance commercial-bank tranche. Without NEXI cover, large megabank tranches on frontier-country LNG and mining deals would not clear country-limit and risk-weighted-asset hurdles.
 - **Untied / sovereign-lending loan insurance.** Wraps commercial-bank loans to sovereign or sovereign-adjacent borrowers in middle-income jurisdictions.
-- **Coordination with JBIC OIL.** On many deals NEXI loan insurance wraps the commercial tranche while [[JapanFG/jbic|JBIC]] takes a parallel direct-loan slice. The two state institutions structure together rather than as alternatives.
+- **Coordination with JBIC OIL.** On many deals NEXI loan insurance wraps the commercial tranche while [[financial-regulators/jbic|JBIC]] takes a parallel direct-loan slice. The two state institutions structure together rather than as alternatives.
 
 ### 2.5 Reinsurance role
 
@@ -142,8 +142,8 @@ The underwriting cycle for a large OII or project-finance loan insurance can run
 
 NEXI is structurally an insurer, not a lender, but its product is consequential to almost all large cross-border Japanese transactions:
 
-- **Megabank commercial tranches.** [[JapanFG/mufg|MUFG]], [[JapanFG/smfg|SMFG]], and [[JapanFG/mizuho-fg|Mizuho FG]] underwrite long-tenor cross-border loans only with NEXI cover on the political-risk slice (and frequently part of the commercial slice). Without NEXI cover, country-limit and risk-weighted-asset constraints would force shorter tenor and smaller tickets.
-- **Coordination with [[JapanFG/jbic|JBIC]].** On large project finance, NEXI insures the commercial tranche while JBIC takes a parallel direct-loan slice. The two institutions structure together; see [[policy-finance/japan-project-finance-stack-diagram|Japan project finance stack diagram]] for the layered geometry.
+- **Megabank commercial tranches.** [[megabanks/mufg|MUFG]], [[megabanks/smfg|SMFG]], and [[megabanks/mizuho-fg|Mizuho FG]] underwrite long-tenor cross-border loans only with NEXI cover on the political-risk slice (and frequently part of the commercial slice). Without NEXI cover, country-limit and risk-weighted-asset constraints would force shorter tenor and smaller tickets.
+- **Coordination with [[financial-regulators/jbic|JBIC]].** On large project finance, NEXI insures the commercial tranche while JBIC takes a parallel direct-loan slice. The two institutions structure together; see [[policy-finance/japan-project-finance-stack-diagram|Japan project finance stack diagram]] for the layered geometry.
 - **Coordination with [[policy-finance/jogmec|JOGMEC]].** Where JOGMEC takes an equity stake in a critical-minerals or upstream-energy project, NEXI may overlay OII cover on co-investing Japanese trading-house / utility equity.
 - **Foreign-bank co-financing.** NEXI cover may apply to foreign-bank tranches where the underlying contract is for Japanese exports / services, allowing French, Singaporean, Australian, and US banks to participate in syndicates anchored by Japanese exporters.
 - **Peer ECA reinsurance and co-insurance.** NEXI structures reinsurance / co-insurance with peer ECAs (US EXIM, K-EXIM, UKEF, KfW IPEX, Bpifrance, EDC, Cesce, SACE, Atradius DSB) on multi-ECA deals.
@@ -170,7 +170,7 @@ History of structural reform:
 
 ## 6. 経済安全保障 / 最近の方針シフト
 
-Since approximately 2022 NEXI's product posture has shifted in parallel with [[JapanFG/jbic|JBIC]] toward 経済安全保障 (economic security) framing:
+Since approximately 2022 NEXI's product posture has shifted in parallel with [[financial-regulators/jbic|JBIC]] toward 経済安全保障 (economic security) framing:
 
 - **Critical-minerals insurance.** OII and loan insurance overlays on copper, nickel, lithium, cobalt, rare-earth, and battery supply-chain projects in friendly jurisdictions.
 - **Semiconductor and high-tech supply-chain insurance.** Loan insurance on financing for Japanese-affiliated semiconductor materials / equipment capacity expansion in friend-shoring jurisdictions.
@@ -220,10 +220,10 @@ Claim performance through 2022–2024 was shaped substantially by the Ukraine wa
 - [[policy-finance/jbic-overseas-investment-underwriting-process]]
 - [[policy-finance/jogmec]]
 - [[policy-finance/jica]]
-- [[JapanFG/jbic]]
-- [[JapanFG/mufg]]
-- [[JapanFG/smfg]]
-- [[JapanFG/mizuho-fg]]
+- [[financial-regulators/jbic]]
+- [[megabanks/mufg]]
+- [[megabanks/smfg]]
+- [[megabanks/mizuho-fg]]
 - [[finance/japan-acquisition-finance]]
 
 ## Sources

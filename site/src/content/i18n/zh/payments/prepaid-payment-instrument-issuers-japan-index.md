@@ -56,19 +56,19 @@ FSA 的第三方预付支付工具发行人列表包含自 2026-04-30 起的 **8
 
 | FSA 名单中的正式名称 |报名日期 |法人号码 |Wiki 路径|边界注释 |
 |---|---|---:|---|---|
-|三菱UFJ Nicos株式会社| 1991-11-22 | 8010001000016  | [[JapanFG/mufg-nicos]] |卡/预付/结算集团运营商|
-|七卡服务有限公司| 2007-02-22 | 4010001088278  | [[JapanFG/seven-card-service]] |七&i卡/预付费邻接|
-| au支付有限公司| 2010-09-30 | 5010401069983  | [[JapanFG/au-payment]] | au PAY预付/资金转账边界|
-| SB支付服务有限公司| 2010-12-10 | 4010401058731  | [[JapanFG/sb-payment-service]] |商户 PSP / 预付费邻接 |
-|生命卡有限公司| 2011-04-01 | 3020001086810  | [[JapanFG/life-card]] |卡和预付/担保邻接|
-|易POS卡有限公司| 2015-01-08 | 6011201010186  | [[JapanFG/epos-card]] |丸井集团卡/预付费邻接|
-|乐天 Edy 公司 | 2016-07-21 | 3010901038102  | [[JapanFG/rakuten-edy]] |预付费电子货币运营商|
-|凯亚士有限公司| 2017-01-16 | 9011001103831  | [[JapanFG/kyash]] |钱包/预付卡/资金转账金融科技|
-| PayPay公司| 2018-10-05 | 5010001192707 | [[JapanFG/paypay]] |代码支付钱包；预付/资金转账/需要积分分解|
-|默佩有限公司| 2019-01-24 | 1010401135178  | [[JapanFG/merpay]] |市场钱包/代码支付运营商|
-|永旺金融服务有限公司| 2023-04-24 | 2010001010887  | [[JapanFG/aeon-financial-service]] |零售金融集团/预付费邻接|
-|智慧银行股份有限公司| 2024-03-26 | 8011001127534  | [[JapanFG/smartbank]] |家庭钱包/预付卡邻接|
-|三井住友卡株式会社| 1990-12-03 | 3120001082353  | [[JapanFG/smbc-card]] |发卡机构/预付费邻接|
+|三菱UFJ Nicos株式会社| 1991-11-22 | 8010001000016  | [[card-issuers/mufg-nicos]] |卡/预付/结算集团运营商|
+|七卡服务有限公司| 2007-02-22 | 4010001088278  | [[card-issuers/seven-card-service]] |七&i卡/预付费邻接|
+| au支付有限公司| 2010-09-30 | 5010401069983  | [[payment-firms/au-payment]] | au PAY预付/资金转账边界|
+| SB支付服务有限公司| 2010-12-10 | 4010401058731  | [[payment-firms/sb-payment-service]] |商户 PSP / 预付费邻接 |
+|生命卡有限公司| 2011-04-01 | 3020001086810  | [[card-issuers/life-card]] |卡和预付/担保邻接|
+|易POS卡有限公司| 2015-01-08 | 6011201010186  | [[card-issuers/epos-card]] |丸井集团卡/预付费邻接|
+|乐天 Edy 公司 | 2016-07-21 | 3010901038102  | [[payment-firms/rakuten-edy]] |预付费电子货币运营商|
+|凯亚士有限公司| 2017-01-16 | 9011001103831  | [[payment-firms/kyash]] |钱包/预付卡/资金转账金融科技|
+| PayPay公司| 2018-10-05 | 5010001192707 | [[payment-firms/paypay]] |代码支付钱包；预付/资金转账/需要积分分解|
+|默佩有限公司| 2019-01-24 | 1010401135178  | [[payment-firms/merpay]] |市场钱包/代码支付运营商|
+|永旺金融服务有限公司| 2023-04-24 | 2010001010887  | [[card-issuers/aeon-financial-service]] |零售金融集团/预付费邻接|
+|智慧银行股份有限公司| 2024-03-26 | 8011001127534  | [[payment-firms/smartbank]] |家庭钱包/预付卡邻接|
+|三井住友卡株式会社| 1990-12-03 | 3120001082353  | [[card-issuers/smbc-card]] |发卡机构/预付费邻接|
 
 ## 促销规则
 
@@ -85,8 +85,8 @@ FSA 的第三方预付支付工具发行人列表包含自 2026-04-30 起的 **8
 -[[payments/funds-transfer-vs-prepaid-boundary]]
 -[[payments/cashless-jp-landscape]]
 -[[payments/card-acquiring-japan-stack]]
--[[JapanFG/legal-financial-licenses/INDEX]]
--[[JapanFG/missing-financial-institutions-backlog]]
+-[[financial-licenses/INDEX]]
+-[[financial-regulators/missing-financial-institutions-backlog]]
 -[[JapanFG/INDEX]]
 -[[INDEX|FinWiki index]]
 

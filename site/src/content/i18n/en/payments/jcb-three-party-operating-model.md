@@ -12,7 +12,7 @@ translated_at: 2026-06-01T03:31:12.283Z
 
 ## Wiki route
 
-This entry sits under [[payments/INDEX|payments index]] as the JCB-specific operating-model page that pairs with [[payments/japan-card-issuer-acquirer-processor-split|Japan card issuer / acquirer / processor split]] for the cross-brand role map and with [[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]] for the four-class comparison view. JCB is the only domestic brand that consistently combines brand-network, principal acquirer, and issuer-licensing functions in one corporate group, which is why the role split is materially different from Visa / Mastercard 4-party scheme behavior — read alongside [[payments/japan-interchange-and-merchant-fee-stack|interchange and merchant fee stack]] for the fee-flow consequences and [[payments/japan-card-security-authentication-controls|card security and authentication controls]] for the J-CSC / EMV 3-DS layer. Corporate anchors are [[JapanFG/jcb|JCB Co Ltd]] and [[JapanFG/jcb-international|JCB International]]; key partner issuers include [[JapanFG/mufg-nicos|MUFG NICOS]], [[JapanFG/aeon-financial-service|AEON Financial Service]], and [[JapanFG/rakuten-card|Rakuten Card]]; brand peers are [[JapanFG/visa-worldwide-japan|Visa Worldwide Japan]], [[JapanFG/mastercard-japan|Mastercard Japan]], and [[JapanFG/american-express-international-japan|American Express International Japan]].
+This entry sits under [[payments/INDEX|payments index]] as the JCB-specific operating-model page that pairs with [[payments/japan-card-issuer-acquirer-processor-split|Japan card issuer / acquirer / processor split]] for the cross-brand role map and with [[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]] for the four-class comparison view. JCB is the only domestic brand that consistently combines brand-network, principal acquirer, and issuer-licensing functions in one corporate group, which is why the role split is materially different from Visa / Mastercard 4-party scheme behavior — read alongside [[payments/japan-interchange-and-merchant-fee-stack|interchange and merchant fee stack]] for the fee-flow consequences and [[payments/japan-card-security-authentication-controls|card security and authentication controls]] for the J-CSC / EMV 3-DS layer. Corporate anchors are [[card-issuers/jcb|JCB Co Ltd]] and [[payment-firms/jcb-international|JCB International]]; key partner issuers include [[card-issuers/mufg-nicos|MUFG NICOS]], [[card-issuers/aeon-financial-service|AEON Financial Service]], and [[card-issuers/rakuten-card|Rakuten Card]]; brand peers are [[payment-firms/visa-worldwide-japan|Visa Worldwide Japan]], [[payment-firms/mastercard-japan|Mastercard Japan]], and [[payment-firms/american-express-international-japan|American Express International Japan]].
 
 ## TL;DR
 
@@ -38,7 +38,7 @@ JCB Co Ltd and JCB International are not interchangeable corporate identities �
 | JCB Co Ltd (株式会社ジェーシービー) | Japan-domestic | Brand operator + principal Japan acquirer + Japan-side issuer + issuer-licensing administration for partner companies |
 | JCB International Co Ltd (株式会社ジェーシービー・インターナショナル) | International (outside Japan) | International acquirer / merchant network + international issuer-licensing + cross-border settlement |
 
-A merchant in Japan that "accepts JCB" contracts with JCB Co Ltd (or one of its acquirer-partner companies); a merchant in Singapore or Korea that "accepts JCB" contracts with JCB International (or its international acquirer-partners). A cardholder who carries a JCB card issued by [[JapanFG/mufg-nicos|MUFG NICOS]] in Japan and uses it overseas is touching JCB Co Ltd as issuer and JCB International as the international acquiring-network counterparty. This split matters for merchant-fee economics because the international acquirer-side cost structure differs from the Japan-domestic one, and for chargeback / dispute routing because cross-border disputes flow through JCB International's rules.
+A merchant in Japan that "accepts JCB" contracts with JCB Co Ltd (or one of its acquirer-partner companies); a merchant in Singapore or Korea that "accepts JCB" contracts with JCB International (or its international acquirer-partners). A cardholder who carries a JCB card issued by [[card-issuers/mufg-nicos|MUFG NICOS]] in Japan and uses it overseas is touching JCB Co Ltd as issuer and JCB International as the international acquiring-network counterparty. This split matters for merchant-fee economics because the international acquirer-side cost structure differs from the Japan-domestic one, and for chargeback / dispute routing because cross-border disputes flow through JCB International's rules.
 
 ## Issuer ecosystem under JCB licensing
 
@@ -48,9 +48,9 @@ Major JCB-brand partner issuers include:
 
 | Partner issuer | Group anchor | Product profile |
 |---|---|---|
-| [[JapanFG/mufg-nicos\|MUFG NICOS]] | MUFG | Co-branded MUFG / NICOS / DC JCB cards; also major acquirer |
-| [[JapanFG/aeon-financial-service\|AEON Financial Service]] | AEON | AEON JCB / AEON CARD Select JCB |
-| [[JapanFG/rakuten-card\|Rakuten Card]] | Rakuten | Rakuten Card (JCB option) |
+| [[card-issuers/mufg-nicos\|MUFG NICOS]] | MUFG | Co-branded MUFG / NICOS / DC JCB cards; also major acquirer |
+| [[card-issuers/aeon-financial-service\|AEON Financial Service]] | AEON | AEON JCB / AEON CARD Select JCB |
+| [[card-issuers/rakuten-card\|Rakuten Card]] | Rakuten | Rakuten Card (JCB option) |
 | JR-related issuers | JR East, JR West, etc. | VIEW JCB, J-WEST JCB |
 | Credit Saison | Saison HD | SAISON JCB cards |
 | Orient Corporation (Orico) | Orico | Orico JCB cards |
@@ -138,7 +138,7 @@ The simpler path is a structural advantage in resolution speed for on-us cases, 
 
 When analyzing a Japan card transaction or merchant relationship that involves JCB acceptance, the role-combination requires distinguishing several layers before drawing conclusions about fee economics, dispute liability, or competitive positioning:
 
-1. Is the issuer JCB Co Ltd direct, or a partner issuer ([[JapanFG/mufg-nicos|MUFG NICOS]], [[JapanFG/aeon-financial-service|AEON Financial Service]], [[JapanFG/rakuten-card|Rakuten Card]], etc.)?
+1. Is the issuer JCB Co Ltd direct, or a partner issuer ([[card-issuers/mufg-nicos|MUFG NICOS]], [[card-issuers/aeon-financial-service|AEON Financial Service]], [[card-issuers/rakuten-card|Rakuten Card]], etc.)?
 2. Is the acquirer JCB Co Ltd direct, or a partner-acquirer cooperating with JCB?
 3. Is the transaction on-us (same issuer / acquirer / brand) or off-us (different issuer and acquirer)?
 4. Is the merchant relationship under JCB Co Ltd contract or under a partner-acquirer contract?
@@ -156,14 +156,14 @@ The answers determine fee economics, chargeback flow, regulatory disclosure, and
 - [[payments/japan-card-security-authentication-controls]]
 - [[payments/japan-consumer-credit-operator-comparison-matrix]]
 - [[payments/credit-purchase-card-operators-japan-index]]
-- [[JapanFG/jcb]]
-- [[JapanFG/jcb-international]]
-- [[JapanFG/mufg-nicos]]
-- [[JapanFG/aeon-financial-service]]
-- [[JapanFG/rakuten-card]]
-- [[JapanFG/visa-worldwide-japan]]
-- [[JapanFG/mastercard-japan]]
-- [[JapanFG/american-express-international-japan]]
+- [[card-issuers/jcb]]
+- [[payment-firms/jcb-international]]
+- [[card-issuers/mufg-nicos]]
+- [[card-issuers/aeon-financial-service]]
+- [[card-issuers/rakuten-card]]
+- [[payment-firms/visa-worldwide-japan]]
+- [[payment-firms/mastercard-japan]]
+- [[payment-firms/american-express-international-japan]]
 - [[loyalty/japan-points-landscape]]
 - [[INDEX|FinWiki index]]
 

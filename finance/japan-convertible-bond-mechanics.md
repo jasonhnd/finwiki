@@ -175,13 +175,13 @@ EDINET filings are statutory and authoritative; TDnet filings provide timely mar
 
 | Bank | Role in Japan CB |
 |---|---|
-| [[JapanFG/nomura-hd|Nomura]] | Frequent lead bookrunner, structuring agent |
-| [[JapanFG/daiwa-sg|Daiwa]] | Frequent lead bookrunner |
-| [[JapanFG/smbc-nikko|SMBC Nikko]] | Megabank-aligned lead and co-manager |
-| [[JapanFG/mizuho-securities|Mizuho Securities]] | Megabank-aligned lead and co-manager |
+| [[securities-firms/nomura-hd|Nomura]] | Frequent lead bookrunner, structuring agent |
+| [[securities-firms/daiwa-sg|Daiwa]] | Frequent lead bookrunner |
+| [[securities-firms/smbc-nikko|SMBC Nikko]] | Megabank-aligned lead and co-manager |
+| [[securities-firms/mizuho-securities|Mizuho Securities]] | Megabank-aligned lead and co-manager |
 | Mitsubishi UFJ Morgan Stanley (MUMSS) | Megabank / global JV lead |
-| [[JapanFG/goldman-sachs-japan|Goldman Sachs Japan]] | Cross-border / structured CB lead |
-| [[JapanFG/morgan-stanley-japan|Morgan Stanley Japan]] | Cross-border / structured CB lead |
+| [[securities-firms/goldman-sachs-japan|Goldman Sachs Japan]] | Cross-border / structured CB lead |
+| [[securities-firms/morgan-stanley-japan|Morgan Stanley Japan]] | Cross-border / structured CB lead |
 | Other foreign banks | Cross-border lead-managers for global tranche |
 
 League-table credit is allocated via [[finance/japan-ib-league-table|league table]] sources, separating ECM / equity-linked categories. Bookbuilding for vanilla zero-coupon CB is typically anchored by one or two leads.
@@ -227,12 +227,12 @@ Issuer disclosure is required for use-of-proceeds in EDINET registration stateme
 - [[finance/japan-listed-financial-groups-investable-universe]]
 - [[securities/japan-ipo-listing-disclosure-route]]
 - [[securities/japan-underwriting-market-structure]]
-- [[JapanFG/nomura-hd]]
-- [[JapanFG/daiwa-sg]]
-- [[JapanFG/smbc-nikko]]
-- [[JapanFG/mizuho-securities]]
-- [[JapanFG/goldman-sachs-japan]]
-- [[JapanFG/morgan-stanley-japan]]
+- [[securities-firms/nomura-hd]]
+- [[securities-firms/daiwa-sg]]
+- [[securities-firms/smbc-nikko]]
+- [[securities-firms/mizuho-securities]]
+- [[securities-firms/goldman-sachs-japan]]
+- [[securities-firms/morgan-stanley-japan]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

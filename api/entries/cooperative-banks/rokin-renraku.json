@@ -1,0 +1,82 @@
+{
+  "schema_version": "1.0",
+  "slug": "cooperative-banks/rokin-renraku",
+  "source_path": "cooperative-banks/rokin-renraku.md",
+  "url": "https://finwiki.zksc.io/cooperative-banks/rokin-renraku",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/cooperative-banks/rokin-renraku.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/cooperative-banks/rokin-renraku.md",
+  "domain": "cooperative-banks",
+  "title": "労働金庫連合会 (The Rokinren Bank)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "労働金庫連合会 (The Rokinren Bank)",
+    "aliases": [
+      "rokin-renraku",
+      "rokinren",
+      "Rokinren Bank",
+      "労金連",
+      "労働金庫連合会"
+    ],
+    "domain": "cooperative-banks",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
+    "review_by": "2026-11-16",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "cooperative-banking",
+      "central-institution"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.rokinren.com/about/profile.html",
+      "https://www.rokinren.com/about/our-roles.html",
+      "https://www.rokinren.com/about/works.html",
+      "https://www.fsa.go.jp/menkyo/menkyoj/rokin.xlsx"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 三菱 UFJ FG (MUFG) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "労働金庫連合会 (The Rokinren Bank)",
+    "Wiki route",
+    "TL;DR",
+    "1. 会社概要",
+    "2. 事業セグメント・マップ",
+    "3. 戦略・競争",
+    "4. 規制・政策",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 8,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/INDEX",
+      "banking/INDEX",
+      "banking/rokin-bank-registry-japan",
+      "cooperative-banks/norinchukin",
+      "cooperative-banks/shinkin-central",
+      "cooperative-banks/zenshin-kumi",
+      "megabanks/mufg"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/banking/rokin-bank-registry-japan",
+      "https://finwiki.zksc.io/cooperative-banks/norinchukin",
+      "https://finwiki.zksc.io/cooperative-banks/shinkin-central",
+      "https://finwiki.zksc.io/cooperative-banks/zenshin-kumi",
+      "https://finwiki.zksc.io/megabanks/mufg"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2504,
+    "word_like_tokens": 367,
+    "inbound_wikilinks_count": 13,
+    "last_modified": "2026-06-04"
+  }
+}

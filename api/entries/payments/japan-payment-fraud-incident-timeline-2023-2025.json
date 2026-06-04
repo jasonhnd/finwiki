@@ -64,14 +64,14 @@
     "wikilinks_count": 18,
     "wikilinks": [
       "INDEX",
-      "JapanFG/aeon-financial-service",
-      "JapanFG/au-payment",
-      "JapanFG/jcb",
-      "JapanFG/mastercard-japan",
-      "JapanFG/mufg-nicos",
-      "JapanFG/paypay",
-      "JapanFG/rakuten-card",
-      "JapanFG/visa-worldwide-japan",
+      "card-issuers/aeon-financial-service",
+      "card-issuers/jcb",
+      "card-issuers/mufg-nicos",
+      "card-issuers/rakuten-card",
+      "payment-firms/au-payment",
+      "payment-firms/mastercard-japan",
+      "payment-firms/paypay",
+      "payment-firms/visa-worldwide-japan",
       "payments/INDEX",
       "payments/cashless-jp-landscape",
       "payments/japan-bank-api-incident-and-fraud-control",
@@ -84,14 +84,14 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/aeon-financial-service",
-      "https://finwiki.zksc.io/JapanFG/au-payment",
-      "https://finwiki.zksc.io/JapanFG/jcb",
-      "https://finwiki.zksc.io/JapanFG/mastercard-japan",
-      "https://finwiki.zksc.io/JapanFG/mufg-nicos",
-      "https://finwiki.zksc.io/JapanFG/paypay",
-      "https://finwiki.zksc.io/JapanFG/rakuten-card",
-      "https://finwiki.zksc.io/JapanFG/visa-worldwide-japan",
+      "https://finwiki.zksc.io/card-issuers/aeon-financial-service",
+      "https://finwiki.zksc.io/card-issuers/jcb",
+      "https://finwiki.zksc.io/card-issuers/mufg-nicos",
+      "https://finwiki.zksc.io/card-issuers/rakuten-card",
+      "https://finwiki.zksc.io/payment-firms/au-payment",
+      "https://finwiki.zksc.io/payment-firms/mastercard-japan",
+      "https://finwiki.zksc.io/payment-firms/paypay",
+      "https://finwiki.zksc.io/payment-firms/visa-worldwide-japan",
       "https://finwiki.zksc.io/payments/INDEX",
       "https://finwiki.zksc.io/payments/cashless-jp-landscape",
       "https://finwiki.zksc.io/payments/japan-bank-api-incident-and-fraud-control",
@@ -106,9 +106,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 15112,
-    "word_like_tokens": 2357,
+    "nonspace_chars": 15176,
+    "word_like_tokens": 2369,
     "inbound_wikilinks_count": 2,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-04"
   }
 }

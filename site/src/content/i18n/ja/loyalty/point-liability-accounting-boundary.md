@@ -22,7 +22,7 @@ translated_at: 2026-06-02T16:33:58.525Z
 | マーケティング販促費 | 過去の販売に紐づく将来償還義務なしに、事業者がボーナスポイントを付与する | 付与時に費用処理 (販促 / 広告費) | 一般に資金決済法の外側 |
 | ロイヤルティ負債 (契約負債) | 顧客購入によってポイントが発生し、事業者が後日それを履行しなければならない | IFRS 15  の重要な権利として繰延収益、または JGAAP の下で未払負債 (ASBJ Statement No.29  の枠組み) | JGAAP / IFRS の開示。コード決済で使われる場合は Payments Japan の開示規範が適用される |
 | 失効見込み | 予想未使用残高 | 予想償還期間にわたりパターンに基づき収益認識 | 単独の登録制度はないが、見積りは監査可能でなければならない |
-| 購入 / チャージ済み価値 | 顧客が保管残高に現金を支払う | プリペイド負債。規制対象の前払式支払手段になり得る | [[JapanFG/legal-financial-licenses/payment-license-stack|FSA prepaid issuer registry]] / 資金決済法 |
+| 購入 / チャージ済み価値 | 顧客が保管残高に現金を支払う | プリペイド負債。規制対象の前払式支払手段になり得る | [[financial-licenses/payment-license-stack|FSA prepaid issuer registry]] / 資金決済法 |
 | プログラム横断交換 | ある事業者のポイントが別の事業者のポイントへ変換される | 事業者間の精算脚 + 負債移転 | 二者間契約。場合により精算銀行が関与 |
 
 ## 1. マーケティング販促費 (契約負債なし)
@@ -61,7 +61,7 @@ Payments Japan のコード決済開示期待 (コード決済発行体向けの
 顧客が現金を支払って残高をチャージする場合、nanaco、WAON、Suica、ギフトカード / プリペイドカードのように、事業者は資金決済法上の**前払式支払手段**レイヤーに入る。
 
 - 受け取った資金はプリペイド負債であり、ロイヤルティ負債ではない。
-- 事業者は前払式支払手段発行者として FSA に登録しなければならない。登録境界については [[JapanFG/legal-financial-licenses/payment-license-stack|payment-license stack]] を参照。
+- 事業者は前払式支払手段発行者として FSA に登録しなければならない。登録境界については [[financial-licenses/payment-license-stack|payment-license stack]] を参照。
 - 未使用残高が 10 百万円を超える場合、資金決済法上の半期ごとの**保全 (資産保全)** 義務が適用される。
 - プリペイド価値が現金で払い戻し可能になったり、無関係の利用者間で自由に移転可能になったりすると、事業者はさらに**資金移動業**ライセンスに入る可能性がある。この段階については [[payments/funds-transfer-vs-prepaid-boundary|funds-transfer vs prepaid boundary]] を参照。
 
@@ -99,14 +99,14 @@ Rakuten Point ↔ ANA マイル、dポイント ↔ JAL マイル、V Point ↔ 
 - [[loyalty/japan-points-landscape]]
 - [[loyalty/v-point-smbc-ccc-case]]
 - [[payments/funds-transfer-vs-prepaid-boundary]]
-- [[JapanFG/legal-financial-licenses/payment-license-stack|payment-license stack]]
-- [[JapanFG/legal-financial-licenses/INDEX|JapanFG legal / financial licenses]]
+- [[financial-licenses/payment-license-stack|payment-license stack]]
+- [[financial-licenses/INDEX|JapanFG legal / financial licenses]]
 - [[fintech/INDEX|fintech]]
 - [[payments/INDEX|payments]]
-- [[JapanFG/rakuten-fg|Rakuten FG]]
-- [[JapanFG/aeon-bank|Aeon Bank / AFS]]
-- [[JapanFG/paypay-fg|PayPay FG]]
-- [[JapanFG/ndfg|NDFG]]
+- [[payment-firms/rakuten-fg|Rakuten FG]]
+- [[card-issuers/aeon-bank|Aeon Bank / AFS]]
+- [[megabanks/paypay-fg|PayPay FG]]
+- [[megabanks/ndfg|NDFG]]
 - [[INDEX|FinWiki index]]
 
 ## 出典

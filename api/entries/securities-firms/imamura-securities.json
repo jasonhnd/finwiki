@@ -1,0 +1,105 @@
+{
+  "schema_version": "1.0",
+  "slug": "securities-firms/imamura-securities",
+  "source_path": "securities-firms/imamura-securities.md",
+  "url": "https://finwiki.zksc.io/securities-firms/imamura-securities",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/securities-firms/imamura-securities.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/securities-firms/imamura-securities.md",
+  "domain": "securities-firms",
+  "title": "今村証券 (Imamura Securities)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "今村証券 (Imamura Securities)",
+    "aliases": [
+      "Imamura Securities",
+      "Imamura Securities Co.",
+      "Ltd.",
+      "今村証券",
+      "今村証券株式会社",
+      "7175"
+    ],
+    "domain": "securities-firms",
+    "created": "2026-05-24",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
+    "review_by": "2026-11-20",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "securities",
+      "independent",
+      "mid-tier",
+      "regional"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx",
+      "https://www.jsda.or.jp/kyoukaiin/kyoukaiin/meibo/index.html",
+      "https://www.imamura-sec.co.jp/company/profile.html"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 丸三証券 for peer / contrast context, FSA 金融商品取引業者 index for the regulatory-license layer, and securities license stack for FIEA license boundary.",
+  "headings": [
+    "今村証券 (Imamura Securities)",
+    "Wiki route",
+    "TL;DR",
+    "1. 法人・ライセンス境界",
+    "2. 会社概要",
+    "業態の特徴",
+    "重要年表 (公開情報ベース)",
+    "3. 事業セグメント・マップ",
+    "地域密着型独立証券としてのポジション",
+    "競合関係"
+  ],
+  "body_links": {
+    "wikilinks_count": 18,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "financial-licenses/securities-license-stack",
+      "financial-regulators/jsda",
+      "regional-banks/hokkoku-fhd",
+      "regional-banks/hokuriku-bank",
+      "securities-firms/aizawa-sg",
+      "securities-firms/daiwa-sg",
+      "securities-firms/iwai-cosmo-hd",
+      "securities-firms/kyokuto-securities",
+      "securities-firms/marusan-securities",
+      "securities-firms/matsui-sec",
+      "securities-firms/nomura-hd",
+      "securities-firms/okasan-sg",
+      "securities-firms/rakuten-securities",
+      "securities-firms/sbi-securities",
+      "securities-firms/smbc-nikko",
+      "securities-firms/tokai-tokyo-fh",
+      "securities/financial-instruments-business-operators-japan-index"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/financial-licenses/securities-license-stack",
+      "https://finwiki.zksc.io/financial-regulators/jsda",
+      "https://finwiki.zksc.io/regional-banks/hokkoku-fhd",
+      "https://finwiki.zksc.io/regional-banks/hokuriku-bank",
+      "https://finwiki.zksc.io/securities-firms/aizawa-sg",
+      "https://finwiki.zksc.io/securities-firms/daiwa-sg",
+      "https://finwiki.zksc.io/securities-firms/iwai-cosmo-hd",
+      "https://finwiki.zksc.io/securities-firms/kyokuto-securities",
+      "https://finwiki.zksc.io/securities-firms/marusan-securities",
+      "https://finwiki.zksc.io/securities-firms/matsui-sec",
+      "https://finwiki.zksc.io/securities-firms/nomura-hd",
+      "https://finwiki.zksc.io/securities-firms/okasan-sg",
+      "https://finwiki.zksc.io/securities-firms/rakuten-securities",
+      "https://finwiki.zksc.io/securities-firms/sbi-securities",
+      "https://finwiki.zksc.io/securities-firms/smbc-nikko",
+      "https://finwiki.zksc.io/securities-firms/tokai-tokyo-fh",
+      "https://finwiki.zksc.io/securities/financial-instruments-business-operators-japan-index"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3411,
+    "word_like_tokens": 480,
+    "inbound_wikilinks_count": 1,
+    "last_modified": "2026-06-04"
+  }
+}

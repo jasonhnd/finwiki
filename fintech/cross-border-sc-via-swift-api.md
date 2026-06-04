@@ -34,11 +34,11 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 ## 基本パターン
 
 ```
-銀行([[JapanFG/mufg|MUFG]] / [[JapanFG/smfg|SMFG/SMBC]] / Mizuho 等)
+銀行([[megabanks/mufg|MUFG]] / [[megabanks/smfg|SMFG/SMBC]] / Mizuho 等)
        ↓ SWIFT MT103 / ISO 20022 メッセージ
 SWIFT API mock layer(Datachain)
        ↓ 解析 → settlement instruction
-[[JapanFG/progmat|Progmat Coin]] contract(信託型 SC)
+[[payment-firms/progmat|Progmat Coin]] contract(信託型 SC)
        ↓ on-chain transaction
 IBC + LCP(cross-chain bridge)
        ↓
