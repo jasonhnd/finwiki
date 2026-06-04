@@ -1,9 +1,9 @@
 # FinWiki Full LLM Manifest
 
-Generated: 2026-06-05T00:21:55+09:00
+Generated: 2026-06-05T08:11:09+09:00
 Site: https://finwiki.zksc.io
-Markdown files: 1560
-Public pages listed: 1559
+Markdown files: 1561
+Public pages listed: 1560
 
 ## Reading Rules
 
@@ -28,7 +28,7 @@ Public pages listed: 1559
 - Domain: root
 - Type: control_doc
 - Summary: 1. matt-huang-triple-role-coi-template — Stripe 取締役就任「2024」→ 2021-11(Stripe newsroom: 2021年11月5日)。 2. christine-moy-talent-signal-jpm-apollo — Apollo 移籍「2024」→ 2022-04(CoinDesk 2022-04-28 / Apollo 公式)。併せて整合しない「回収サイクル 6-18ヶ月」を「数年規模」へ修正。 3. jamie-dimon-anti-crypto-pivot-case — 「2022 ペットロック」を分離・修正:2022
-- Headings: CHANGELOG, 運用原則 / Maintenance Principles / 维护原则, 日本語, English, 中文, 2026-06-05, P3 内容拡充 — 最薄の non-profit / trade を各 +6（+12 entry）/ P3 content expansion (non-profit / trade +6 each) / P3 内容扩充（non-profit / trade 各 +6）, 2026-06-04
+- Headings: CHANGELOG, 運用原則 / Maintenance Principles / 维护原则, 日本語, English, 中文, 2026-06-05, P4 i18n — 55 entry に ja/zh/en mirror 165 file（鍵不要・subagent 直接翻訳）/ P4 i18n: 165 ja/zh/en mirrors, no API key / P4 i18n：55 entry × 3 语 = 165 镜像（无需密钥）, P3 内容拡充 — 最薄の non-profit / trade を各 +6（+12 entry）/ P3 content expansion (non-profit / trade +6 each) / P3 内容扩充（non-profit / trade 各 +6）
 - First resolved wikilinks: https://finwiki.zksc.io/..., https://finwiki.zksc.io/JapanFG, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/…, https://finwiki.zksc.io/asset-managers/mitsubishi-corp-asset-management, https://finwiki.zksc.io/asset-managers/nissay-asset-management, https://finwiki.zksc.io/asset-managers/principal-japan, https://finwiki.zksc.io/asset-managers/smt-am, https://finwiki.zksc.io/asset-managers/t-and-d-asset-management, https://finwiki.zksc.io/asset-managers/tokio-marine-asset-management, https://finwiki.zksc.io/banking/japan-banking-license-tier-comparison-matrix, https://finwiki.zksc.io/banking/japan-trust-bank-vs-global-custodian-comparison-matrix
 
 ### How to navigate FinWiki — reader profile guide
@@ -79,7 +79,7 @@ Public pages listed: 1559
 - Type: control_doc
 - Summary: FinWiki は、金融、決済、ステーブルコイン、暗号資産、資本市場、日本の金融機関、政策金融、公開企業・公開人物の戦略ケースを扱う Markdown ナレッジベースです。主なリンク形式は Obsidian の wikilink で、全体入口は INDEX.md です。
 - Headings: FinWiki 📚💴🧭, 日本語 🇯🇵, 📊 数字で見る FinWiki, 🚪 まず見る場所, 🗺️ コンテンツマップ, 🔐 公開面ルール, 🔍 使い方, 🛠️ 運用ルール
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/…, https://finwiki.zksc.io/wikilink
+- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/…, https://finwiki.zksc.io/link, https://finwiki.zksc.io/wikilink
 
 ### Wiki Frontmatter Schema
 - URL: https://finwiki.zksc.io/SCHEMA
@@ -13000,6 +13000,15 @@ Public pages listed: 1559
 - Domain: releases
 - Type: release_note
 - Headings: P3 内容扩充 — 最薄の non-profit / trade を各 +6 entry（12 entry 追加）, 日本語, 公開範囲, 主要変更, 検証結果, 既知の注意点 / 次の作業, English, Release Scope
+
+### P4 i18n — v12 + P3 の 55 entry に ja/zh/en mirror を生成（165 file、鍵不要）
+- URL: https://finwiki.zksc.io/releases/v2026.06.05-2
+- Source path: releases/v2026.06.05-2.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.06.05-2.md
+- Domain: releases
+- Type: release_note
+- Headings: P4 i18n — v12 + P3 の 55 entry に ja/zh/en mirror を生成（165 file、鍵不要）, 日本語, 公開範囲, 主要変更, 検証結果, 既知の注意点 / 次の作業, English, Release Scope
+- First resolved wikilinks: https://finwiki.zksc.io/link, https://finwiki.zksc.io/…
 
 ### retail domain
 - URL: https://finwiki.zksc.io/retail/INDEX
