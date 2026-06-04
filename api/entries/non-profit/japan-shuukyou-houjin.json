@@ -1,0 +1,87 @@
+{
+  "schema_version": "1.0",
+  "slug": "non-profit/japan-shuukyou-houjin",
+  "source_path": "non-profit/japan-shuukyou-houjin.md",
+  "url": "https://finwiki.zksc.io/non-profit/japan-shuukyou-houjin",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/non-profit/japan-shuukyou-houjin.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/non-profit/japan-shuukyou-houjin.md",
+  "domain": "non-profit",
+  "title": "日本 宗教法人 — religious corporation status, supervision, and tax treatment",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "日本 宗教法人 — religious corporation status, supervision, and tax treatment",
+    "aliases": [
+      "non-profit/japan-shuukyou-houjin",
+      "japan-shuukyou-houjin",
+      "宗教法人",
+      "しゅうきょうほうじん",
+      "shuukyou houjin",
+      "japan religious corporation",
+      "宗教法人法 religious corporations act"
+    ],
+    "domain": "non-profit",
+    "created": "2026-06-05",
+    "last_updated": "2026-06-05",
+    "last_tended": "2026-06-05",
+    "review_by": "2027-06-05",
+    "confidence": "likely",
+    "tags": [
+      "non-profit",
+      "japan",
+      "religious-corporation",
+      "shuukyou-houjin",
+      "tax"
+    ],
+    "status": "active",
+    "sources": [
+      "https://laws.e-gov.go.jp/law/326AC0000000126",
+      "https://www.bunka.go.jp/seisaku/shukyohojin/",
+      "https://www.nta.go.jp/taxes/shiraberu/taxanswer/hojin/5275.htm",
+      "https://www.nta.go.jp/publication/pamph/hojin/shukyo/00.htm"
+    ]
+  },
+  "summary": "This entry sits under non-profit INDEX as the religion-specific legal person under the 宗教法人法 (Religious Corporations Act) — a public-interest-type non-profit that, like the 公益法人 in 公益財団 vs 一般財団 vs 一般社団 vs NPO法人 comparison, is corporation-tax-favoured on its core (religious) activity but taxed on enu",
+  "headings": [
+    "日本 宗教法人 — religious corporation status, supervision, and tax treatment",
+    "Wiki route",
+    "TL;DR",
+    "Establishment — 認証, not licence",
+    "The 1995 reform — disclosure and oversight after Aum",
+    "Tax treatment — the religious-vs-収益事業 boundary",
+    "Donor side",
+    "How it differs from the other non-profit forms",
+    "Strategic reading",
+    "Related"
+  ],
+  "body_links": {
+    "wikilinks_count": 8,
+    "wikilinks": [
+      "INDEX",
+      "financial-regulators/INDEX",
+      "financial-regulators/fsa",
+      "non-profit/INDEX",
+      "non-profit/japan-koeki-vs-general-zaidan-comparison",
+      "non-profit/japan-nintei-npo-houjin-tax-benefits",
+      "non-profit/japan-npo-houjin-overview",
+      "non-profit/japan-shakai-fukushi-houjin"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/financial-regulators/INDEX",
+      "https://finwiki.zksc.io/financial-regulators/fsa",
+      "https://finwiki.zksc.io/non-profit/INDEX",
+      "https://finwiki.zksc.io/non-profit/japan-koeki-vs-general-zaidan-comparison",
+      "https://finwiki.zksc.io/non-profit/japan-nintei-npo-houjin-tax-benefits",
+      "https://finwiki.zksc.io/non-profit/japan-npo-houjin-overview",
+      "https://finwiki.zksc.io/non-profit/japan-shakai-fukushi-houjin"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 6584,
+    "word_like_tokens": 1127,
+    "inbound_wikilinks_count": 1,
+    "last_modified": "2026-06-05"
+  }
+}

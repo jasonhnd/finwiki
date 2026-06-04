@@ -49,7 +49,7 @@
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 17,
+    "wikilinks_count": 29,
     "wikilinks": [
       "INDEX",
       "JapanFG/INDEX",
@@ -58,8 +58,16 @@
       "policy-finance/INDEX",
       "trade/documentary-collection-vs-letter-of-credit",
       "trade/documentary-collection-vs-letter-of-credit\\",
+      "trade/electronic-bill-of-lading-mletr",
+      "trade/electronic-bill-of-lading-mletr\\",
+      "trade/forfaiting-international-factoring",
+      "trade/forfaiting-international-factoring\\",
       "trade/incoterms-2020-trade-terms-framework",
       "trade/incoterms-2020-trade-terms-framework\\",
+      "trade/japan-customs-tariff-origin-clearance",
+      "trade/japan-customs-tariff-origin-clearance\\",
+      "trade/japan-fta-epa-rcep-utilization",
+      "trade/japan-fta-epa-rcep-utilization\\",
       "trade/jetro-members-gateway-model",
       "trade/jetro-members-gateway-model\\",
       "trade/jetro-organization-structure",
@@ -67,7 +75,11 @@
       "trade/jetro-vs-nexi-vs-jbic-comparison",
       "trade/jetro-vs-nexi-vs-jbic-comparison\\",
       "trade/letter-of-credit-documentary-mechanism",
-      "trade/letter-of-credit-documentary-mechanism\\"
+      "trade/letter-of-credit-documentary-mechanism\\",
+      "trade/nexi-trade-insurance-mechanism",
+      "trade/nexi-trade-insurance-mechanism\\",
+      "trade/supply-chain-finance-reverse-factoring",
+      "trade/supply-chain-finance-reverse-factoring\\"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
@@ -77,8 +89,16 @@
       "https://finwiki.zksc.io/policy-finance/INDEX",
       "https://finwiki.zksc.io/trade/documentary-collection-vs-letter-of-credit",
       "https://finwiki.zksc.io/trade/documentary-collection-vs-letter-of-credit\\",
+      "https://finwiki.zksc.io/trade/electronic-bill-of-lading-mletr",
+      "https://finwiki.zksc.io/trade/electronic-bill-of-lading-mletr\\",
+      "https://finwiki.zksc.io/trade/forfaiting-international-factoring",
+      "https://finwiki.zksc.io/trade/forfaiting-international-factoring\\",
       "https://finwiki.zksc.io/trade/incoterms-2020-trade-terms-framework",
       "https://finwiki.zksc.io/trade/incoterms-2020-trade-terms-framework\\",
+      "https://finwiki.zksc.io/trade/japan-customs-tariff-origin-clearance",
+      "https://finwiki.zksc.io/trade/japan-customs-tariff-origin-clearance\\",
+      "https://finwiki.zksc.io/trade/japan-fta-epa-rcep-utilization",
+      "https://finwiki.zksc.io/trade/japan-fta-epa-rcep-utilization\\",
       "https://finwiki.zksc.io/trade/jetro-members-gateway-model",
       "https://finwiki.zksc.io/trade/jetro-members-gateway-model\\",
       "https://finwiki.zksc.io/trade/jetro-organization-structure",
@@ -86,15 +106,19 @@
       "https://finwiki.zksc.io/trade/jetro-vs-nexi-vs-jbic-comparison",
       "https://finwiki.zksc.io/trade/jetro-vs-nexi-vs-jbic-comparison\\",
       "https://finwiki.zksc.io/trade/letter-of-credit-documentary-mechanism",
-      "https://finwiki.zksc.io/trade/letter-of-credit-documentary-mechanism\\"
+      "https://finwiki.zksc.io/trade/letter-of-credit-documentary-mechanism\\",
+      "https://finwiki.zksc.io/trade/nexi-trade-insurance-mechanism",
+      "https://finwiki.zksc.io/trade/nexi-trade-insurance-mechanism\\",
+      "https://finwiki.zksc.io/trade/supply-chain-finance-reverse-factoring",
+      "https://finwiki.zksc.io/trade/supply-chain-finance-reverse-factoring\\"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 7257,
-    "word_like_tokens": 1207,
-    "inbound_wikilinks_count": 5,
-    "last_modified": "2026-06-03"
+    "nonspace_chars": 9736,
+    "word_like_tokens": 1555,
+    "inbound_wikilinks_count": 11,
+    "last_modified": "2026-06-05"
   }
 }

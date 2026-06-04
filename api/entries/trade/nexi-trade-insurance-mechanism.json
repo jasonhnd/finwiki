@@ -1,0 +1,91 @@
+{
+  "schema_version": "1.0",
+  "slug": "trade/nexi-trade-insurance-mechanism",
+  "source_path": "trade/nexi-trade-insurance-mechanism.md",
+  "url": "https://finwiki.zksc.io/trade/nexi-trade-insurance-mechanism",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/trade/nexi-trade-insurance-mechanism.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/trade/nexi-trade-insurance-mechanism.md",
+  "domain": "trade",
+  "title": "貿易保険 (export-credit insurance) — the NEXI trade-insurance mechanism that backstops cross-border non-payment",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "貿易保険 (export-credit insurance) — the NEXI trade-insurance mechanism that backstops cross-border non-payment",
+    "aliases": [
+      "trade/nexi-trade-insurance-mechanism",
+      "nexi-trade-insurance-mechanism",
+      "貿易保険",
+      "ぼうえきほけん",
+      "export credit insurance Japan",
+      "trade insurance mechanism",
+      "NEXI 普通貿易保険",
+      "export-credit agency cover"
+    ],
+    "domain": "trade",
+    "created": "2026-06-05",
+    "last_updated": "2026-06-05",
+    "last_tended": "2026-06-05",
+    "review_by": "2027-06-05",
+    "confidence": "likely",
+    "tags": [
+      "trade",
+      "trade-finance",
+      "export-credit",
+      "insurance",
+      "nexi",
+      "eca"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.nexi.go.jp/en/",
+      "https://www.nexi.go.jp/en/product/",
+      "https://www.meti.go.jp/english/policy/external_economy/trade_control/index.html",
+      "https://www.oecd.org/trade/topics/export-credits/"
+    ]
+  },
+  "summary": "This entry sits under trade INDEX and explains the insurance layer that sits beside trade settlement. Read it against its same-domain peer documentary collection vs letter of credit — where collections leave the exporter holding buyer-default risk, 貿易保険 (trade insurance) is how that residual risk ge",
+  "headings": [
+    "貿易保険 (export-credit insurance) — the NEXI trade-insurance mechanism that backstops cross-border non-payment",
+    "Wiki route",
+    "TL;DR",
+    "Why trade insurance exists: the two risk buckets",
+    "How the mechanism works",
+    "Trade insurance vs the letter of credit",
+    "The OECD discipline — why ECAs do not undercut each other",
+    "Where it plugs into the Japanese export stack",
+    "Boundary cases",
+    "Related"
+  ],
+  "body_links": {
+    "wikilinks_count": 9,
+    "wikilinks": [
+      "INDEX",
+      "financial-regulators/jbic",
+      "insurance/marine-insurance-and-pi-cover-market",
+      "policy-finance/INDEX",
+      "policy-finance/nexi-export-credit-insurance-products",
+      "policy-finance/oecd-export-credit-arrangement",
+      "trade/INDEX",
+      "trade/documentary-collection-vs-letter-of-credit",
+      "trade/jetro-vs-nexi-vs-jbic-comparison"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/financial-regulators/jbic",
+      "https://finwiki.zksc.io/insurance/marine-insurance-and-pi-cover-market",
+      "https://finwiki.zksc.io/policy-finance/INDEX",
+      "https://finwiki.zksc.io/policy-finance/nexi-export-credit-insurance-products",
+      "https://finwiki.zksc.io/policy-finance/oecd-export-credit-arrangement",
+      "https://finwiki.zksc.io/trade/INDEX",
+      "https://finwiki.zksc.io/trade/documentary-collection-vs-letter-of-credit",
+      "https://finwiki.zksc.io/trade/jetro-vs-nexi-vs-jbic-comparison"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 8210,
+    "word_like_tokens": 1388,
+    "inbound_wikilinks_count": 3,
+    "last_modified": "2026-06-05"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "schema_version": "1.0",
+  "slug": "trade/forfaiting-international-factoring",
+  "source_path": "trade/forfaiting-international-factoring.md",
+  "url": "https://finwiki.zksc.io/trade/forfaiting-international-factoring",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/trade/forfaiting-international-factoring.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/trade/forfaiting-international-factoring.md",
+  "domain": "trade",
+  "title": "フォーフェイティング・国際ファクタリング (forfaiting and international factoring) — selling trade receivables for cash",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "フォーフェイティング・国際ファクタリング (forfaiting and international factoring) — selling trade receivables for cash",
+    "aliases": [
+      "trade/forfaiting-international-factoring",
+      "forfaiting-international-factoring",
+      "フォーフェイティング",
+      "国際ファクタリング",
+      "こくさいファクタリング",
+      "forfaiting",
+      "international factoring",
+      "export receivables finance",
+      "without recourse receivables purchase"
+    ],
+    "domain": "trade",
+    "created": "2026-06-05",
+    "last_updated": "2026-06-05",
+    "last_tended": "2026-06-05",
+    "review_by": "2027-06-05",
+    "confidence": "likely",
+    "tags": [
+      "trade",
+      "trade-finance",
+      "forfaiting",
+      "factoring",
+      "receivables",
+      "export-finance"
+    ],
+    "status": "active",
+    "sources": [
+      "https://iccwbo.org/business-solutions/trade-finance/",
+      "https://fci.nl/en/about-factoring",
+      "https://www.jetro.go.jp/en/",
+      "https://www.nexi.go.jp/en/"
+    ]
+  },
+  "summary": "This entry sits under trade INDEX and covers the receivables-finance instruments an exporter uses to get paid now on a later-dated sale. Its same-domain peer is documentary collection vs letter of credit — those are settlement methods (how the buyer pays); forfaiting and factoring are financing meth",
+  "headings": [
+    "フォーフェイティング・国際ファクタリング (forfaiting and international factoring) — selling trade receivables for cash",
+    "Wiki route",
+    "TL;DR",
+    "The core idea: a true sale of the receivable",
+    "Factoring vs forfaiting",
+    "How international (two-factor) factoring works",
+    "How forfaiting works",
+    "Where these sit relative to insurance and settlement",
+    "The Japanese trading-house angle",
+    "Boundary cases"
+  ],
+  "body_links": {
+    "wikilinks_count": 9,
+    "wikilinks": [
+      "INDEX",
+      "trade/INDEX",
+      "trade/documentary-collection-vs-letter-of-credit",
+      "trade/japan-customs-tariff-origin-clearance",
+      "trade/letter-of-credit-documentary-mechanism",
+      "trade/nexi-trade-insurance-mechanism",
+      "trading-company-finance/INDEX",
+      "trading-company-finance/itochu-finance",
+      "trading-company-finance/mitsubishi-corp-finance"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/trade/INDEX",
+      "https://finwiki.zksc.io/trade/documentary-collection-vs-letter-of-credit",
+      "https://finwiki.zksc.io/trade/japan-customs-tariff-origin-clearance",
+      "https://finwiki.zksc.io/trade/letter-of-credit-documentary-mechanism",
+      "https://finwiki.zksc.io/trade/nexi-trade-insurance-mechanism",
+      "https://finwiki.zksc.io/trading-company-finance/INDEX",
+      "https://finwiki.zksc.io/trading-company-finance/itochu-finance",
+      "https://finwiki.zksc.io/trading-company-finance/mitsubishi-corp-finance"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 8249,
+    "word_like_tokens": 1344,
+    "inbound_wikilinks_count": 2,
+    "last_modified": "2026-06-05"
+  }
+}

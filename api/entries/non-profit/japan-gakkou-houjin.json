@@ -1,0 +1,93 @@
+{
+  "schema_version": "1.0",
+  "slug": "non-profit/japan-gakkou-houjin",
+  "source_path": "non-profit/japan-gakkou-houjin.md",
+  "url": "https://finwiki.zksc.io/non-profit/japan-gakkou-houjin",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/non-profit/japan-gakkou-houjin.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/non-profit/japan-gakkou-houjin.md",
+  "domain": "non-profit",
+  "title": "日本 学校法人 — educational corporation governance and tax treatment under the 私立学校法",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "日本 学校法人 — educational corporation governance and tax treatment under the 私立学校法",
+    "aliases": [
+      "non-profit/japan-gakkou-houjin",
+      "japan-gakkou-houjin",
+      "学校法人",
+      "がっこうほうじん",
+      "gakkou houjin",
+      "japan educational corporation",
+      "japan school corporation",
+      "私立学校法 private schools act"
+    ],
+    "domain": "non-profit",
+    "created": "2026-06-05",
+    "last_updated": "2026-06-05",
+    "last_tended": "2026-06-05",
+    "review_by": "2027-06-05",
+    "confidence": "likely",
+    "tags": [
+      "non-profit",
+      "japan",
+      "education",
+      "gakkou-houjin",
+      "governance",
+      "tax-deductible"
+    ],
+    "status": "active",
+    "sources": [
+      "https://laws.e-gov.go.jp/law/324AC0000000270",
+      "https://www.mext.go.jp/a_menu/koutou/shinkou/07021403/002.htm",
+      "https://www.nta.go.jp/taxes/shiraberu/taxanswer/hojin/5275.htm",
+      "https://www.shigaku.go.jp/"
+    ]
+  },
+  "summary": "This entry sits under non-profit INDEX as the education-specific non-profit legal person, created under its own statute (私立学校法) rather than the 一般法人法 family compared in 公益財団 vs 一般財団 vs 一般社団 vs NPO法人 comparison. Like the foundation forms it is endowment/asset-governed rather than membership-governed,",
+  "headings": [
+    "日本 学校法人 — educational corporation governance and tax treatment under the 私立学校法",
+    "Wiki route",
+    "TL;DR",
+    "Who authorises, and the 所轄庁 split",
+    "Governing organs and the 2023 governance reform",
+    "私学助成 — public subsidy as a defining feature",
+    "Tax treatment",
+    "How it differs from the other non-profit forms",
+    "Strategic reading",
+    "Related"
+  ],
+  "body_links": {
+    "wikilinks_count": 10,
+    "wikilinks": [
+      "INDEX",
+      "financial-regulators/INDEX",
+      "financial-regulators/fsa",
+      "non-profit/INDEX",
+      "non-profit/japan-general-foundation-establishment-requirements",
+      "non-profit/japan-ippan-vs-koeki-shadan-houjin",
+      "non-profit/japan-koeki-vs-general-zaidan-comparison",
+      "non-profit/japan-nintei-npo-houjin-tax-benefits",
+      "non-profit/japan-npo-houjin-overview",
+      "policy-finance/INDEX"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/financial-regulators/INDEX",
+      "https://finwiki.zksc.io/financial-regulators/fsa",
+      "https://finwiki.zksc.io/non-profit/INDEX",
+      "https://finwiki.zksc.io/non-profit/japan-general-foundation-establishment-requirements",
+      "https://finwiki.zksc.io/non-profit/japan-ippan-vs-koeki-shadan-houjin",
+      "https://finwiki.zksc.io/non-profit/japan-koeki-vs-general-zaidan-comparison",
+      "https://finwiki.zksc.io/non-profit/japan-nintei-npo-houjin-tax-benefits",
+      "https://finwiki.zksc.io/non-profit/japan-npo-houjin-overview",
+      "https://finwiki.zksc.io/policy-finance/INDEX"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 6240,
+    "word_like_tokens": 1043,
+    "inbound_wikilinks_count": 1,
+    "last_modified": "2026-06-05"
+  }
+}

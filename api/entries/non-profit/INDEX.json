@@ -51,16 +51,24 @@
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 18,
+    "wikilinks_count": 30,
     "wikilinks": [
       "INDEX",
       "JapanFG/INDEX",
       "exchanges/INDEX",
       "finance/INDEX",
+      "non-profit/japan-gakkou-houjin",
+      "non-profit/japan-gakkou-houjin\\",
       "non-profit/japan-general-foundation-establishment-requirements",
       "non-profit/japan-general-foundation-establishment-requirements\\",
       "non-profit/japan-ippan-vs-koeki-shadan-houjin",
       "non-profit/japan-ippan-vs-koeki-shadan-houjin\\",
+      "non-profit/japan-iryou-houjin",
+      "non-profit/japan-iryou-houjin\\",
+      "non-profit/japan-josei-zaidan-grant-making",
+      "non-profit/japan-josei-zaidan-grant-making\\",
+      "non-profit/japan-koeki-houjin-accounting-standard",
+      "non-profit/japan-koeki-houjin-accounting-standard\\",
       "non-profit/japan-koeki-vs-general-zaidan-comparison",
       "non-profit/japan-koeki-vs-general-zaidan-comparison\\",
       "non-profit/japan-nintei-npo-houjin-tax-benefits",
@@ -69,6 +77,10 @@
       "non-profit/japan-npo-houjin-overview\\",
       "non-profit/japan-research-grant-map-2026",
       "non-profit/japan-research-grant-map-2026\\",
+      "non-profit/japan-shakai-fukushi-houjin",
+      "non-profit/japan-shakai-fukushi-houjin\\",
+      "non-profit/japan-shuukyou-houjin",
+      "non-profit/japan-shuukyou-houjin\\",
       "policy-finance/INDEX",
       "securities/INDEX"
     ],
@@ -77,10 +89,18 @@
       "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/exchanges/INDEX",
       "https://finwiki.zksc.io/finance/INDEX",
+      "https://finwiki.zksc.io/non-profit/japan-gakkou-houjin",
+      "https://finwiki.zksc.io/non-profit/japan-gakkou-houjin\\",
       "https://finwiki.zksc.io/non-profit/japan-general-foundation-establishment-requirements",
       "https://finwiki.zksc.io/non-profit/japan-general-foundation-establishment-requirements\\",
       "https://finwiki.zksc.io/non-profit/japan-ippan-vs-koeki-shadan-houjin",
       "https://finwiki.zksc.io/non-profit/japan-ippan-vs-koeki-shadan-houjin\\",
+      "https://finwiki.zksc.io/non-profit/japan-iryou-houjin",
+      "https://finwiki.zksc.io/non-profit/japan-iryou-houjin\\",
+      "https://finwiki.zksc.io/non-profit/japan-josei-zaidan-grant-making",
+      "https://finwiki.zksc.io/non-profit/japan-josei-zaidan-grant-making\\",
+      "https://finwiki.zksc.io/non-profit/japan-koeki-houjin-accounting-standard",
+      "https://finwiki.zksc.io/non-profit/japan-koeki-houjin-accounting-standard\\",
       "https://finwiki.zksc.io/non-profit/japan-koeki-vs-general-zaidan-comparison",
       "https://finwiki.zksc.io/non-profit/japan-koeki-vs-general-zaidan-comparison\\",
       "https://finwiki.zksc.io/non-profit/japan-nintei-npo-houjin-tax-benefits",
@@ -89,6 +109,10 @@
       "https://finwiki.zksc.io/non-profit/japan-npo-houjin-overview\\",
       "https://finwiki.zksc.io/non-profit/japan-research-grant-map-2026",
       "https://finwiki.zksc.io/non-profit/japan-research-grant-map-2026\\",
+      "https://finwiki.zksc.io/non-profit/japan-shakai-fukushi-houjin",
+      "https://finwiki.zksc.io/non-profit/japan-shakai-fukushi-houjin\\",
+      "https://finwiki.zksc.io/non-profit/japan-shuukyou-houjin",
+      "https://finwiki.zksc.io/non-profit/japan-shuukyou-houjin\\",
       "https://finwiki.zksc.io/policy-finance/INDEX",
       "https://finwiki.zksc.io/securities/INDEX"
     ],
@@ -96,9 +120,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 7179,
-    "word_like_tokens": 1214,
-    "inbound_wikilinks_count": 8,
-    "last_modified": "2026-06-03"
+    "nonspace_chars": 10197,
+    "word_like_tokens": 1709,
+    "inbound_wikilinks_count": 14,
+    "last_modified": "2026-06-05"
   }
 }

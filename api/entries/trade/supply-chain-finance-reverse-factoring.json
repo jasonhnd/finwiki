@@ -1,0 +1,88 @@
+{
+  "schema_version": "1.0",
+  "slug": "trade/supply-chain-finance-reverse-factoring",
+  "source_path": "trade/supply-chain-finance-reverse-factoring.md",
+  "url": "https://finwiki.zksc.io/trade/supply-chain-finance-reverse-factoring",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/trade/supply-chain-finance-reverse-factoring.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/trade/supply-chain-finance-reverse-factoring.md",
+  "domain": "trade",
+  "title": "サプライチェーンファイナンス (supply-chain finance) — buyer-led reverse factoring and the payables-side liquidity layer",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "サプライチェーンファイナンス (supply-chain finance) — buyer-led reverse factoring and the payables-side liquidity layer",
+    "aliases": [
+      "trade/supply-chain-finance-reverse-factoring",
+      "supply-chain-finance-reverse-factoring",
+      "サプライチェーンファイナンス",
+      "サプライチェーン金融",
+      "reverse factoring",
+      "リバースファクタリング",
+      "approved payables finance",
+      "supplier finance program",
+      "SCF"
+    ],
+    "domain": "trade",
+    "created": "2026-06-05",
+    "last_updated": "2026-06-05",
+    "last_tended": "2026-06-05",
+    "review_by": "2027-06-05",
+    "confidence": "likely",
+    "tags": [
+      "trade",
+      "trade-finance",
+      "supply-chain-finance",
+      "reverse-factoring",
+      "working-capital",
+      "payables"
+    ],
+    "status": "active",
+    "sources": [
+      "https://iccwbo.org/business-solutions/trade-finance/",
+      "https://www.gscfi.org/",
+      "https://www.jetro.go.jp/en/",
+      "https://www.bis.org/"
+    ]
+  },
+  "summary": "This entry sits under trade INDEX and covers the buyer-led, payables-side financing programme that complements seller-led receivables finance. Its same-domain peer is forfaiting and international factoring — that entry is seller-initiated (a supplier sells its own receivable); supply-chain finance (",
+  "headings": [
+    "サプライチェーンファイナンス (supply-chain finance) — buyer-led reverse factoring and the payables-side liquidity layer",
+    "Wiki route",
+    "TL;DR",
+    "Reverse factoring — how it works",
+    "Reverse factoring vs factoring — who initiates",
+    "Why buyers run SCF programmes",
+    "The accounting / disclosure controversy",
+    "Where SCF sits in the trade-finance picture",
+    "Boundary cases",
+    "Related"
+  ],
+  "body_links": {
+    "wikilinks_count": 7,
+    "wikilinks": [
+      "INDEX",
+      "payments/INDEX",
+      "trade/INDEX",
+      "trade/documentary-collection-vs-letter-of-credit",
+      "trade/forfaiting-international-factoring",
+      "trade/nexi-trade-insurance-mechanism",
+      "trading-company-finance/INDEX"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/payments/INDEX",
+      "https://finwiki.zksc.io/trade/INDEX",
+      "https://finwiki.zksc.io/trade/documentary-collection-vs-letter-of-credit",
+      "https://finwiki.zksc.io/trade/forfaiting-international-factoring",
+      "https://finwiki.zksc.io/trade/nexi-trade-insurance-mechanism",
+      "https://finwiki.zksc.io/trading-company-finance/INDEX"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 7918,
+    "word_like_tokens": 1320,
+    "inbound_wikilinks_count": 1,
+    "last_modified": "2026-06-05"
+  }
+}

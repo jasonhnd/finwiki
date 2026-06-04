@@ -1,0 +1,90 @@
+{
+  "schema_version": "1.0",
+  "slug": "trade/electronic-bill-of-lading-mletr",
+  "source_path": "trade/electronic-bill-of-lading-mletr.md",
+  "url": "https://finwiki.zksc.io/trade/electronic-bill-of-lading-mletr",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/trade/electronic-bill-of-lading-mletr.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/trade/electronic-bill-of-lading-mletr.md",
+  "domain": "trade",
+  "title": "電子提単 (electronic bill of lading) and trade digitalization — the MLETR shift from paper to data",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "電子提単 (electronic bill of lading) and trade digitalization — the MLETR shift from paper to data",
+    "aliases": [
+      "trade/electronic-bill-of-lading-mletr",
+      "electronic-bill-of-lading-mletr",
+      "電子提単",
+      "でんしふなにしょうけん",
+      "electronic bill of lading",
+      "eBL",
+      "MLETR",
+      "electronic transferable records",
+      "trade digitalization"
+    ],
+    "domain": "trade",
+    "created": "2026-06-05",
+    "last_updated": "2026-06-05",
+    "last_tended": "2026-06-05",
+    "review_by": "2027-06-05",
+    "confidence": "likely",
+    "tags": [
+      "trade",
+      "trade-finance",
+      "digitalization",
+      "ebl",
+      "mletr",
+      "bill-of-lading"
+    ],
+    "status": "active",
+    "sources": [
+      "https://uncitral.un.org/en/texts/ecommerce/modellaw/electronic_transferable_records",
+      "https://iccwbo.org/business-solutions/trade-finance/",
+      "https://www.meti.go.jp/english/",
+      "https://www.dcsa.org/"
+    ]
+  },
+  "summary": "This entry sits under trade INDEX and documents the digitalization of the documents that the rest of the domain assumes are paper. Its closest same-domain peer is documentary collection vs letter of credit — both settlement methods route a paper bill of lading, and the electronic bill of lading (eBL",
+  "headings": [
+    "電子提単 (electronic bill of lading) and trade digitalization — the MLETR shift from paper to data",
+    "Wiki route",
+    "TL;DR",
+    "Why the bill of lading resisted digitization",
+    "MLETR — the legal keystone",
+    "What changes when the B/L goes electronic",
+    "The wider trade-digitalization programme",
+    "Why adoption is gradual",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 8,
+    "wikilinks": [
+      "INDEX",
+      "payments/INDEX",
+      "payments/account-to-account-payment-japan",
+      "trade/INDEX",
+      "trade/documentary-collection-vs-letter-of-credit",
+      "trade/incoterms-2020-trade-terms-framework",
+      "trade/japan-customs-tariff-origin-clearance",
+      "trade/letter-of-credit-documentary-mechanism"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/payments/INDEX",
+      "https://finwiki.zksc.io/payments/account-to-account-payment-japan",
+      "https://finwiki.zksc.io/trade/INDEX",
+      "https://finwiki.zksc.io/trade/documentary-collection-vs-letter-of-credit",
+      "https://finwiki.zksc.io/trade/incoterms-2020-trade-terms-framework",
+      "https://finwiki.zksc.io/trade/japan-customs-tariff-origin-clearance",
+      "https://finwiki.zksc.io/trade/letter-of-credit-documentary-mechanism"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 7473,
+    "word_like_tokens": 1246,
+    "inbound_wikilinks_count": 1,
+    "last_modified": "2026-06-05"
+  }
+}

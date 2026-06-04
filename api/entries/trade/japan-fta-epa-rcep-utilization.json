@@ -1,0 +1,86 @@
+{
+  "schema_version": "1.0",
+  "slug": "trade/japan-fta-epa-rcep-utilization",
+  "source_path": "trade/japan-fta-epa-rcep-utilization.md",
+  "url": "https://finwiki.zksc.io/trade/japan-fta-epa-rcep-utilization",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/trade/japan-fta-epa-rcep-utilization.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/trade/japan-fta-epa-rcep-utilization.md",
+  "domain": "trade",
+  "title": "FTA / EPA / RCEP utilization — preferential trade agreements and how Japanese firms actually claim them",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "FTA / EPA / RCEP utilization — preferential trade agreements and how Japanese firms actually claim them",
+    "aliases": [
+      "trade/japan-fta-epa-rcep-utilization",
+      "japan-fta-epa-rcep-utilization",
+      "FTA EPA RCEP",
+      "経済連携協定",
+      "けいざいれんけいきょうてい",
+      "preferential trade agreement utilization",
+      "EPA utilization rate",
+      "RCEP rules of origin",
+      "CPTPP Japan EPA"
+    ],
+    "domain": "trade",
+    "created": "2026-06-05",
+    "last_updated": "2026-06-05",
+    "last_tended": "2026-06-05",
+    "review_by": "2027-06-05",
+    "confidence": "likely",
+    "tags": [
+      "trade",
+      "fta",
+      "epa",
+      "rcep",
+      "rules-of-origin",
+      "preferential-tariff"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.mofa.go.jp/policy/economy/fta/",
+      "https://www.jetro.go.jp/en/",
+      "https://www.customs.go.jp/english/",
+      "https://rcepsec.org/"
+    ]
+  },
+  "summary": "This entry sits under trade INDEX and explains the preferential-tariff regime that determines whether a trader pays the MFN duty or a lower (often zero) rate. Its direct same-domain peer is customs, tariff and certificate of origin — that entry covers the general tariff machinery; this one covers th",
+  "headings": [
+    "FTA / EPA / RCEP utilization — preferential trade agreements and how Japanese firms actually claim them",
+    "Wiki route",
+    "TL;DR",
+    "FTA vs EPA vs the multilateral baseline",
+    "Rules of origin — the gate to the preference",
+    "Claiming the preference — certification models",
+    "The utilization gap — why available ≠ used",
+    "Japan's agreement landscape (shape, not exhaustive)",
+    "Boundary cases",
+    "Related"
+  ],
+  "body_links": {
+    "wikilinks_count": 6,
+    "wikilinks": [
+      "INDEX",
+      "policy-finance/INDEX",
+      "trade/INDEX",
+      "trade/incoterms-2020-trade-terms-framework",
+      "trade/japan-customs-tariff-origin-clearance",
+      "trade/jetro-vs-nexi-vs-jbic-comparison"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/policy-finance/INDEX",
+      "https://finwiki.zksc.io/trade/INDEX",
+      "https://finwiki.zksc.io/trade/incoterms-2020-trade-terms-framework",
+      "https://finwiki.zksc.io/trade/japan-customs-tariff-origin-clearance",
+      "https://finwiki.zksc.io/trade/jetro-vs-nexi-vs-jbic-comparison"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 7530,
+    "word_like_tokens": 1273,
+    "inbound_wikilinks_count": 2,
+    "last_modified": "2026-06-05"
+  }
+}
