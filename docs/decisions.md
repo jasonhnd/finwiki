@@ -37,3 +37,11 @@
 - **决定**：维护显式领域 allowlist（`content.config.ts` / `siteIndex.mjs` / `groups.ts`），而非自动扫描所有目录。
 - **理由**：allowlist 让新增非内容目录（如 `docs/`）自动被站点忽略，无需额外配置；但代价是**新增/改名领域必须手动更新这三处**。
 - **影响**：改领域名的「同步 4 处」里有 3 处来自这个决定；好处是 `docs/` 等内部目录零配置即排除。
+
+## ADR-006：内容批量开发用直接 Agent 并行 + 文件域隔离
+
+- **背景**：大批量内容扩充（v12 的 10 领域 46 entry、v13 的 canonical_anchor 盘点）单线程太慢，需要并行。
+- **选项**：Workflow（schema / StructuredOutput 编排）vs 直接 `Agent` 工具（一个 message 多 tool call 并行）。
+- **决定**：用**直接 Agent**，每个 agent 严格限定一个领域目录（文件域隔离），主会话在 Phase 2 统一同步 root INDEX + 发布。Workflow schema 模式实测**全失败**（v12，10 个 agent 0 token / 没调 StructuredOutput）。
+- **理由**：文件域隔离让 N 个 agent 并行写主仓不同文件零冲突；直接 Agent 返回文本可靠、可重试（绕过 rate-limit / 故障）；并发 ≤5-6 避免 API rate-limit。
+- **影响**：确立并行开发标准流程（见 [parallel-development.md](parallel-development.md)）。内容由 agent 生成 → 结构 / 链接可 audit，但**事实精度需人工抽查**。rate-limit + 重试可能产生双批 entry（v12 的 5 领域各得 6 个互补 entry），Phase 2 收尾必须按 **disk 实数**对账 root INDEX。

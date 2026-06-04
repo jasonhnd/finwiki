@@ -15,7 +15,7 @@
 | Missing route link | 0 |
 | Missing peer link | 0 |
 | Missing system / regulatory link | 0 |
-| Changed or new entries in current worktree | 4 |
+| Changed or new entries in current worktree | 0 |
 | canonical_anchor declarations checked (informational) | 12 |
 | canonical_anchor drift (informational, non-gating) | 0 |
 
@@ -41,10 +41,6 @@
 
 | Path | State | Body | Issues |
 |---|---:|---:|---|
-| `banking/au-jibun-bank.md` | `M` | 8 | ok |
-| `insurance/ja-kyosai-zenkyoren-overview.md` | `M` | 29 | ok |
-| `insurance/kampo-japan-post-insurance.md` | `M` | 31 | ok |
-| `insurance/sony-life-group-life-operating-model.md` | `M` | 48 | ok |
 
 ## Domain Snapshot
 

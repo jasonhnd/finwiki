@@ -1,16 +1,16 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-06-03T23:42:03+09:00",
+  "generated_at": "2026-06-04T09:26:34+09:00",
   "counts": {
-    "markdown_files": 1535,
-    "public_markdown_pages": 1534,
-    "site_urls_in_sitemap": 1535,
+    "markdown_files": 1536,
+    "public_markdown_pages": 1535,
+    "site_urls_in_sitemap": 1536,
     "topical_domains": 23,
     "link_audited_entries": 1466,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 10544066,
-    "word_like_tokens": 1706293
+    "nonspace_utf8_chars": 10552884,
+    "word_like_tokens": 1707907
   },
   "navigation": {
     "human_homepage": "https://finwiki.zksc.io/",
@@ -229,11 +229,11 @@
         "日本語",
         "English",
         "中文",
+        "2026-06-04",
+        "開発文書の専門化整理（docs 11 文書・3 分類）/ Developer-docs professionalization (11 docs, 3 tiers) / 开发文档专业化整理（11 文档、3 分类）",
         "2026-06-03",
         "canonicalanchor Phase 2 back-fill（mirror 4 件）/ canonicalanchor Phase 2 back-fill (4 mirrors) / canonical_anchor Phase 2 back-fill（4 个 mirror）",
-        "並列 10 領域開発（46 entry 追加）/ Parallel 10-domain development (46 entries) / 并行 10 领域开发（新增 46 entry）",
-        "開発進度ドキュメント拡充と canonicalanchor Phase 2 起動 / Dev-progress docs + canonicalanchor Phase 2 kickoff / 开发进度文档扩充与 canonical_anchor Phase 2 起步",
-        "開発文書システム docs/ の新設 / Internal developer-docs system under docs/ / 新建内部开发文档系统 docs/"
+        "並列 10 領域開発（46 entry 追加）/ Parallel 10-domain development (46 entries) / 并行 10 领域开发（新增 46 entry）"
       ],
       "wikilinks": [
         "...",
@@ -469,9 +469,9 @@
         "governance/...",
         "origin repository"
       ],
-      "nonspace_chars": 511252,
-      "word_like_tokens": 90870,
-      "last_modified": "2026-06-03"
+      "nonspace_chars": 514833,
+      "word_like_tokens": 91535,
+      "last_modified": "2026-06-04"
     },
     {
       "source_path": "HOW-TO-NAVIGATE.md",
@@ -35843,9 +35843,9 @@
         "vercel.json",
         "wiki-link-improvement-plan.md"
       ],
-      "nonspace_chars": 51486,
-      "word_like_tokens": 8837,
-      "last_modified": "2026-06-03"
+      "nonspace_chars": 52868,
+      "word_like_tokens": 9100,
+      "last_modified": "2026-06-04"
     },
     {
       "source_path": "SCHEMA.md",
@@ -79343,6 +79343,33 @@
       "last_modified": "2026-06-03"
     },
     {
+      "source_path": "releases/v2026.06.04-1.md",
+      "url": "https://finwiki.zksc.io/releases/v2026.06.04-1",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.06.04-1.md",
+      "title": "開発文書の専門化整理（docs 11 文書・3 分類）",
+      "domain": "releases",
+      "entry_type": "release_note",
+      "summary": "",
+      "headings": [
+        "開発文書の専門化整理（docs 11 文書・3 分類）",
+        "日本語",
+        "公開範囲",
+        "主要変更",
+        "検証結果",
+        "既知の注意点",
+        "次の作業",
+        "English",
+        "Release Scope",
+        "Major Changes"
+      ],
+      "wikilinks": [],
+      "resolved_wikilinks": [],
+      "markdown_links": [],
+      "nonspace_chars": 4063,
+      "word_like_tokens": 723,
+      "last_modified": "2026-06-04"
+    },
+    {
       "source_path": "retail/INDEX.md",
       "url": "https://finwiki.zksc.io/retail/INDEX",
       "github_url": "https://github.com/jasonhnd/finwiki/blob/main/retail/INDEX.md",
@@ -88869,9 +88896,9 @@
         "https://finwiki.zksc.io/wikilink"
       ],
       "markdown_links": [],
-      "nonspace_chars": 2978,
-      "word_like_tokens": 536,
-      "last_modified": "2026-06-03"
+      "nonspace_chars": 2770,
+      "word_like_tokens": 499,
+      "last_modified": "2026-06-04"
     }
   ]
 }
