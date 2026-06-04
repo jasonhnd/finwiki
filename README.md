@@ -14,11 +14,11 @@ Homepage は人間が入口を理解するために整えていますが、wiki 
 
 | 指標 | 現在値 | 集計口径 |
 | --- | ---: | --- |
-| Markdown files | 1546 | `.git` を除外し、release notes / control docs / templates を含む repository-wide `.md` files |
+| Markdown files | 1547 | `.git` を除外し、release notes / control docs / templates を含む repository-wide `.md` files |
 | Topical domains | 40 | `INDEX.md` domain map の主要テーマ領域 |
 | Link-audited entries | 1473 | `tools/wiki_link_audit.ts` が確認する public wiki entries |
 | Unresolved link issues | 0 | body route / peer / system link audit と dead wikilink target audit の未解決 issue |
-| Text volume | 約1069万字 | Markdown 全体の空白除外 UTF-8 文字数（約 10,686,101） |
+| Text volume | 約1069万字 | Markdown 全体の空白除外 UTF-8 文字数（約 10,692,120） |
 | Word-like tokens | 約173万 | English / CJK mixed corpus の近似 token count |
 
 > 集計基準: 2026-06-04 JST 時点の current repository snapshot。公開サイトへの反映は `origin/main` push と現行本番配信後に確認します。Vercel への DNS cutover は shadow deployment 検証後に別途行います。
@@ -34,6 +34,8 @@ Homepage は人間が入口を理解するために整えていますが、wiki 
 > 内容整理: v2026.06.03-6 では並列 subagent で全領域を棚卸しし、内容品質を保ったまま整理しました。2026-05-25 の拡充以降 stale だった 8 領域 INDEX（corporate-strategy / loyalty / money-market / manufacturing / retail / governance / trade / security）を実際の entry へ同期（漏れていた entry の追加、`single entry` 等の古い記述修正、stale backlog 整理）。Bun 移行後に残っていた `tools/*.py` 参照を `SCHEMA.md` / `INDEX.md` / convention / proposal で `.ts` へ修正、`HOW-TO-NAVIGATE.md` の count drift（1465+/24+ → 1,400+/23）を是正、孤立していた 5 件の convention/proposal 文書を `INDEX.md` Control Documents に収録、security INDEX の Status 列ラベルを confidence へ修正しました。Lawson TOB 価格は公開開示に基づき ¥4,952 → ¥10,360 へ統一しました（web 照合）。link audit は entries=1411 / issues=0 で PASS、wiki 本文の死リンクは 0 のままです。
 
 > 構造整理: v2026.06.03-7 では並列 subagent で構造系の整理 B/C/D を落地しました。(B) mislabel だった governance（実体は非営利・公益法人）と manufacturing（実体は manufacturer-finance）の INDEX に scope/disambiguation を追加（corporate governance は finance/securities/exchanges、entity ページは JapanFG、ABS は structured-finance へ案内）。(C) 631 件が flat だった JapanFG に frontmatter tags 駆動で 9 件の機構類型別 sub-INDEX（megabanks-and-fg / regional-banks / cooperative-finance / trust / insurance / securities-and-asset-management / payments-cards-leasing-finance / foreign-institutions / regulators-sro-policy、計 609 entry）を新設し、`JapanFG/INDEX` に類型別導航ブロックを追加。file は一切移動せず（Option A）既存リンク・URL を保全。(D) canonical_anchor proposal の Phase 0 を落地: `canonical_anchor` を SCHEMA の optional field と canonical key order に追加、Saison / Toyota Financial Services の 2 mirror pair に pilot 設定、proposal を status: active へ更新（Phase 1 の audit tooling は後続）。link audit は entries=1420 / issues=0 で PASS（新 sub-INDEX の wikilink 全 resolve、死リンク 0）。
+
+> JapanFG 分割 後始末: v2026.06.04-5 では v04-4 の「次の作業」2 件を消化しました。`site/src/lib/siteIndex.mjs` の `DOMAIN_TITLES` に 17 ドメインの ja/zh/en 表示名を追加（site が slug 表示から正式名へ）、`tools/wiki_link_audit.ts` の domain route map に 17 ドメインを追加（JapanFG の旧 `legal-financial-licenses/INDEX` 参照も `financial-licenses/INDEX` へ修正）。corpus / entity 構造は不変。検証: `--check --strict` EXIT=0、entries=1473 / issues=0 / dead=0 / canonical_drift=0、domains=40、`siteIndex.mjs` import OK。
 
 > JapanFG 分割（23→40 領域）: v2026.06.04-4 では巨大で平坦だった `JapanFG/`（約 620 entity）を **17 個の機関類型別トップレベルドメインへ物理分割**しました（megabanks / regional-banks / cooperative-banks / trust-banks / life-insurers / non-life-insurers / securities-firms / asset-managers / payment-firms / card-issuers / leasing-firms / consumer-finance / trading-company-finance / financial-conglomerates / foreign-financial-institutions / financial-regulators / financial-licenses）。628 entity/license を移動、約 53,600 件の `[[JapanFG/…]]` wikilink を新ドメインへ書換、i18n ミラー 1,887（ja/zh/en）も同期。9 sub-INDEX membership + frontmatter tag で 617 を自動マップ、11 を手動裁定（評価は ADR-008、`docs/japanfg-split-design.md`）。これは ADR-004 の知情推翻（移動コスト承知）。**公開 URL が約 620 ページ分変わる**（旧 JapanFG/ URL は 404、`JapanFG/INDEX` のみ umbrella hub として存続）。並列 10 agent が 17 ドメイン INDEX を執筆 + 35 件 missing_peer_link を修復。検証: `--check --strict` EXIT=0、entries=1473 / issues=0 / dead=0 / canonical_drift=0、md=1545 / domains=40 / counts in sync。
 
@@ -177,11 +179,11 @@ The current production site is served by GitHub Pages, and Vercel shadow-deploym
 
 | Metric | Current Value | Counting Basis |
 | --- | ---: | --- |
-| Markdown files | 1546 | Repository-wide `.md` files excluding `.git`, including release notes, control documents, and templates |
+| Markdown files | 1547 | Repository-wide `.md` files excluding `.git`, including release notes, control documents, and templates |
 | Topical domains | 40 | Major topic areas in the `INDEX.md` domain map |
 | Link-audited entries | 1473 | Public wiki entries checked by `tools/wiki_link_audit.ts` |
 | Unresolved link issues | 0 | Open body route / peer / system-link and dead wikilink-target audit issues |
-| Text volume | ~10.69M chars | ~10,686,101 non-space UTF-8 characters across Markdown |
+| Text volume | ~10.69M chars | ~10,692,120 non-space UTF-8 characters across Markdown |
 | Word-like tokens | ~1.73M | Approximate English / CJK mixed-corpus token count |
 
 > Counting basis: current repository snapshot as of 2026-06-04 JST. Public-site reflection is verified after push to `origin/main` and the current production deployment. Vercel DNS cutover is handled separately after shadow-deployment validation.
@@ -197,6 +199,8 @@ The current production site is served by GitHub Pages, and Vercel shadow-deploym
 > Content cleanup: v2026.06.03-6 audited every domain with parallel subagents and tidied the corpus without changing content quality. The 8 domain INDEXes that had gone stale since the 2026-05-25 expansion (corporate-strategy / loyalty / money-market / manufacturing / retail / governance / trade / security) were synced to their real entries (adding omitted entries, fixing stale "single entry" wording, cleaning stale backlogs). Lingering post-Bun-migration `tools/*.py` references in `SCHEMA.md` / `INDEX.md` / convention / proposal were corrected to `.ts`; the `HOW-TO-NAVIGATE.md` count drift (1465+/24+ → 1,400+/23) was fixed; the 5 orphaned convention/proposal docs were added to the `INDEX.md` Control Documents; and the security INDEX "Status" column was relabeled to confidence. The Lawson TOB price was unified to ¥10,360 (from an erroneous ¥4,952) per public disclosure (web-verified). Link audit passes at entries=1411 / issues=0 with zero dead links in the wiki body.
 
 > Structural cleanup: v2026.06.03-7 landed the structural tasks B/C/D with parallel subagents. (B) Added scope/disambiguation to the mislabeled governance (actually non-profit / public-interest) and manufacturing (actually manufacturer-finance) INDEXes, routing corporate governance to finance/securities/exchanges, entity pages to JapanFG, and ABS to structured-finance. (C) Gave the flat 631-entry JapanFG domain 9 institution-type sub-indexes driven by frontmatter tags (megabanks-and-fg / regional-banks / cooperative-finance / trust / insurance / securities-and-asset-management / payments-cards-leasing-finance / foreign-institutions / regulators-sro-policy; 609 entries grouped) plus a navigation block in `JapanFG/INDEX` — with zero file moves (Option A), preserving every existing link and URL. (D) Landed Phase 0 of the canonical_anchor proposal: added `canonical_anchor` as an optional SCHEMA field and to the canonical key order, set it as a pilot on the Saison and Toyota Financial Services mirror pairs, and marked the proposal status: active (Phase 1 audit tooling is future work). Link audit passes at entries=1420 / issues=0 (every new sub-index wikilink resolves; zero dead links).
+
+> JapanFG split follow-up: v2026.06.04-5 cleared the two v04-4 follow-ups — added ja/zh/en `DOMAIN_TITLES` for the 17 domains (site shows proper names instead of slugs) in `site/src/lib/siteIndex.mjs`, and added the 17 domains to the `tools/wiki_link_audit.ts` domain route map (also fixed the JapanFG stale `legal-financial-licenses/INDEX` → `financial-licenses/INDEX`). Corpus / entity structure unchanged. Verification: `--check --strict` EXIT=0, entries=1473 / issues=0 / dead=0 / canonical_drift=0, domains=40, `siteIndex.mjs` imports OK.
 
 > JapanFG split (23→40 domains): v2026.06.04-4 physically split the formerly flat `JapanFG/` domain (~620 entities) into **17 institution-type top-level domains** (megabanks / regional-banks / cooperative-banks / trust-banks / life-insurers / non-life-insurers / securities-firms / asset-managers / payment-firms / card-issuers / leasing-firms / consumer-finance / trading-company-finance / financial-conglomerates / foreign-financial-institutions / financial-regulators / financial-licenses). Moved 628 entity/license files, rewrote ~53,600 `[[JapanFG/…]]` wikilinks to their new domains, and synced 1,887 i18n mirrors (ja/zh/en). 617 entities auto-mapped by the 9 sub-INDEX memberships + frontmatter tags; 11 resolved by hand (evaluation in ADR-008 / `docs/japanfg-split-design.md`). This is an informed override of ADR-004 (move cost accepted). **~620 public URLs change** (old `JapanFG/` URLs 404; only `JapanFG/INDEX` survives as an umbrella hub). 10 parallel agents authored the 17 domain INDEX pages and fixed 35 missing_peer_link entries. Verification: `--check --strict` EXIT=0, entries=1473 / issues=0 / dead=0 / canonical_drift=0, md=1545 / domains=40 / counts in sync.
 
@@ -334,11 +338,11 @@ FinWiki 是一个覆盖金融、支付、稳定币、加密资产、资本市场
 
 | 指标 | 当前值 | 统计口径 |
 | --- | ---: | --- |
-| Markdown files | 1546 | 排除 `.git`，包含 release notes、控制文档、模板在内的全仓库 `.md` 文件 |
+| Markdown files | 1547 | 排除 `.git`，包含 release notes、控制文档、模板在内的全仓库 `.md` 文件 |
 | Topical domains | 40 | `INDEX.md` domain map 中的主要主题领域 |
 | Link-audited entries | 1473 | `tools/wiki_link_audit.ts` 覆盖的 public wiki entries |
 | Unresolved link issues | 0 | body route / peer / system link audit 与 dead wikilink target audit 的未解决 issue |
-| Text volume | 约1069万字 | 全库 Markdown 空白除外 UTF-8 字符数（约 10,686,101） |
+| Text volume | 约1069万字 | 全库 Markdown 空白除外 UTF-8 字符数（约 10,692,120） |
 | Word-like tokens | 约173万 | English / CJK mixed corpus 的近似 token count |
 
 > 统计口径：2026-06-03 JST 当前 repository snapshot。公开站点反映会在 push 到 `origin/main` 并完成当前生产部署后确认。Vercel DNS cutover 会在 shadow deployment 验证后单独执行。
@@ -354,6 +358,8 @@ FinWiki 是一个覆盖金融、支付、稳定币、加密资产、资本市场
 > 内容整理：v2026.06.03-6 用并行 subagent 盘点了全部领域，在不改变内容质量的前提下做了整理。把 2026-05-25 扩充后 stale 的 8 个领域 INDEX（corporate-strategy / loyalty / money-market / manufacturing / retail / governance / trade / security）同步到实际 entry（补全漏列 entry、修正 `single entry` 等过时表述、清理 stale backlog）。修正了 Bun 迁移后遗留在 `SCHEMA.md` / `INDEX.md` / convention / proposal 中的 `tools/*.py` 引用为 `.ts`；纠正 `HOW-TO-NAVIGATE.md` 的 count drift（1465+/24+ → 1,400+/23）；把 5 个孤立的 convention/proposal 文档收录进 `INDEX.md` 的 Control Documents；并把 security INDEX 的 Status 列改标为 confidence。依据公开披露（已 web 核实）把 Lawson TOB 价格从错误的 ¥4,952 统一为 ¥10,360。link audit 通过 entries=1411 / issues=0，wiki 正文死链保持 0。
 
 > 结构整理：v2026.06.03-7 用并行 subagent 落地了结构类任务 B/C/D。(B) 给 mislabel 的 governance（实为非营利 / 公益法人）和 manufacturing（实为厂商金融）INDEX 加 scope/disambiguation，把 corporate governance 路由到 finance/securities/exchanges、entity 页到 JapanFG、ABS 到 structured-finance。(C) 给 631 个 entry 扁平的 JapanFG 用 frontmatter tags 驱动新建 9 个机构类型 sub-index（megabanks-and-fg / regional-banks / cooperative-finance / trust / insurance / securities-and-asset-management / payments-cards-leasing-finance / foreign-institutions / regulators-sro-policy，分组 609 个 entry），并在 `JapanFG/INDEX` 加类型导航块 —— 零文件移动（Option A），保全所有既有链接与 URL。(D) 落地 canonical_anchor proposal 的 Phase 0：把 `canonical_anchor` 加为 SCHEMA optional 字段和 canonical key order，在 Saison / Toyota Financial Services 两个 mirror pair 设 pilot，并把 proposal 标为 status: active（Phase 1 的 audit tooling 留作后续）。link audit 通过 entries=1420 / issues=0（新 sub-index 的 wikilink 全部 resolve、零死链）。
+
+> JapanFG 拆分收尾: v2026.06.04-5 消化 v04-4 的两项「下一步」——在 `site/src/lib/siteIndex.mjs` 的 `DOMAIN_TITLES` 给 17 个域补 ja/zh/en 显示名（站点从 slug 显示改为正式名），并把 17 个域加入 `tools/wiki_link_audit.ts` 的 domain route map（顺带把 JapanFG 过时的 `legal-financial-licenses/INDEX` 改为 `financial-licenses/INDEX`）。corpus / entity 结构不变。验证：`--check --strict` EXIT=0、entries=1473 / issues=0 / dead=0 / canonical_drift=0、domains=40、`siteIndex.mjs` import OK。
 
 > JapanFG 拆分（23→40 领域）: v2026.06.04-4 把原本平坦的巨大 `JapanFG/` 域（约 620 entity）**物理拆分为 17 个机构类型顶级域**（megabanks / regional-banks / cooperative-banks / trust-banks / life-insurers / non-life-insurers / securities-firms / asset-managers / payment-firms / card-issuers / leasing-firms / consumer-finance / trading-company-finance / financial-conglomerates / foreign-financial-institutions / financial-regulators / financial-licenses）。移动 628 个 entity/license 文件，把约 53,600 条 `[[JapanFG/…]]` wikilink 改到新域，并同步 1,887 个 i18n 镜像（ja/zh/en）。用 9 个 sub-INDEX 成员 + frontmatter tag 自动映射 617 个，11 个人工裁定（评估见 ADR-008、`docs/japanfg-split-design.md`）。这是对 ADR-004 的知情推翻（承知移动成本）。**约 620 个公开 URL 改变**（旧 JapanFG/ URL 404；仅 `JapanFG/INDEX` 作为 umbrella hub 保留）。10 个并行 agent 撰写 17 个域 INDEX + 修复 35 个 missing_peer_link。验证：`--check --strict` EXIT=0、entries=1473 / issues=0 / dead=0 / canonical_drift=0、md=1545 / domains=40 / counts in sync。
 

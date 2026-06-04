@@ -1,16 +1,16 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-06-04T16:57:00+09:00",
+  "generated_at": "2026-06-04T21:15:02+09:00",
   "counts": {
-    "markdown_files": 1546,
-    "public_markdown_pages": 1545,
-    "site_urls_in_sitemap": 1546,
+    "markdown_files": 1547,
+    "public_markdown_pages": 1546,
+    "site_urls_in_sitemap": 1547,
     "topical_domains": 40,
     "link_audited_entries": 1473,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 10686101,
-    "word_like_tokens": 1725730,
+    "nonspace_utf8_chars": 10692120,
+    "word_like_tokens": 1726891,
     "entity_anchors": 12,
     "entity_mirror_pages": 12
   },
@@ -541,10 +541,10 @@
         "English",
         "中文",
         "2026-06-04",
+        "JapanFG 分割 後始末 — 17 ドメインの localized 名 + audit route map / JapanFG split follow-up (titles + route map) / JapanFG 拆分收尾（标题 + route map）",
         "JapanFG 分割 — 巨大ドメインを 17 機関類型別ドメインへ物理分割（23→40 領域）/ JapanFG split into 17 institution-type domains (23→40) / JapanFG 拆分为 17 个机构类型域（23→40）",
         "canonicalanchor Phase 2 hard requirement — drift gate（--fail-on-canonical-drift）+ mirror 必填規範（P1 完了）/ canonicalanchor Phase 2 hard requirement (drift gate, P1 done) / canonical_anchor Phase 2 hard requirement（drift gate，P1 完成）",
-        "canonicalanchor Phase 2 — discovery entity edge（ai-index.json entities[] / llms-full.txt）/ canonicalanchor Phase 2 — discovery entity edges / canonical_anchor Phase 2 — discovery 实体边",
-        "開発文書の専門化整理（docs 11 文書・3 分類）/ Developer-docs professionalization (11 docs, 3 tiers) / 开发文档专业化整理（11 文档、3 分类）"
+        "canonicalanchor Phase 2 — discovery entity edge（ai-index.json entities[] / llms-full.txt）/ canonicalanchor Phase 2 — discovery entity edges / canonical_anchor Phase 2 — discovery 实体边"
       ],
       "wikilinks": [
         "...",
@@ -782,8 +782,8 @@
         "japanfg-split-design 参照",
         "origin repository"
       ],
-      "nonspace_chars": 530043,
-      "word_like_tokens": 94313,
+      "nonspace_chars": 532140,
+      "word_like_tokens": 94720,
       "last_modified": "2026-06-04"
     },
     {
@@ -1349,8 +1349,8 @@
         "vercel.json",
         "wiki-link-improvement-plan.md"
       ],
-      "nonspace_chars": 60086,
-      "word_like_tokens": 10466,
+      "nonspace_chars": 61330,
+      "word_like_tokens": 10710,
       "last_modified": "2026-06-04"
     },
     {
@@ -75845,6 +75845,34 @@
       "markdown_links": [],
       "nonspace_chars": 7147,
       "word_like_tokens": 1304,
+      "last_modified": "2026-06-04"
+    },
+    {
+      "source_path": "releases/v2026.06.04-5.md",
+      "url": "https://finwiki.zksc.io/releases/v2026.06.04-5",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.06.04-5.md",
+      "title": "JapanFG 分割 後始末 — 17 ドメインの localized 名 + audit route map",
+      "domain": "releases",
+      "entry_type": "release_note",
+      "canonical_anchor": "",
+      "summary": "",
+      "headings": [
+        "JapanFG 分割 後始末 — 17 ドメインの localized 名 + audit route map",
+        "日本語",
+        "公開範囲",
+        "主要変更",
+        "検証結果",
+        "既知の注意点 / 次の作業",
+        "English",
+        "Release Scope",
+        "Major Changes",
+        "Validation Results"
+      ],
+      "wikilinks": [],
+      "resolved_wikilinks": [],
+      "markdown_links": [],
+      "nonspace_chars": 2678,
+      "word_like_tokens": 510,
       "last_modified": "2026-06-04"
     },
     {

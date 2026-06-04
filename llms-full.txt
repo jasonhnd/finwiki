@@ -1,9 +1,9 @@
 # FinWiki Full LLM Manifest
 
-Generated: 2026-06-04T16:57:00+09:00
+Generated: 2026-06-04T21:15:02+09:00
 Site: https://finwiki.zksc.io
-Markdown files: 1546
-Public pages listed: 1545
+Markdown files: 1547
+Public pages listed: 1546
 
 ## Reading Rules
 
@@ -28,7 +28,7 @@ Public pages listed: 1545
 - Domain: root
 - Type: control_doc
 - Summary: 1. matt-huang-triple-role-coi-template — Stripe 取締役就任「2024」→ 2021-11(Stripe newsroom: 2021年11月5日)。 2. christine-moy-talent-signal-jpm-apollo — Apollo 移籍「2024」→ 2022-04(CoinDesk 2022-04-28 / Apollo 公式)。併せて整合しない「回収サイクル 6-18ヶ月」を「数年規模」へ修正。 3. jamie-dimon-anti-crypto-pivot-case — 「2022 ペットロック」を分離・修正:2022
-- Headings: CHANGELOG, 運用原則 / Maintenance Principles / 维护原则, 日本語, English, 中文, 2026-06-04, JapanFG 分割 — 巨大ドメインを 17 機関類型別ドメインへ物理分割（23→40 領域）/ JapanFG split into 17 institution-type domains (23→40) / JapanFG 拆分为 17 个机构类型域（23→40）, canonicalanchor Phase 2 hard requirement — drift gate（--fail-on-canonical-drift）+ mirror 必填規範（P1 完了）/ canonicalanchor Phase 2 hard requirement (drift gate, P1 done) / canonical_anchor Phase 2 hard requirement（drift gate，P1 完成）
+- Headings: CHANGELOG, 運用原則 / Maintenance Principles / 维护原则, 日本語, English, 中文, 2026-06-04, JapanFG 分割 後始末 — 17 ドメインの localized 名 + audit route map / JapanFG split follow-up (titles + route map) / JapanFG 拆分收尾（标题 + route map）, JapanFG 分割 — 巨大ドメインを 17 機関類型別ドメインへ物理分割（23→40 領域）/ JapanFG split into 17 institution-type domains (23→40) / JapanFG 拆分为 17 个机构类型域（23→40）
 - First resolved wikilinks: https://finwiki.zksc.io/..., https://finwiki.zksc.io/JapanFG, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/…, https://finwiki.zksc.io/asset-managers/mitsubishi-corp-asset-management, https://finwiki.zksc.io/asset-managers/nissay-asset-management, https://finwiki.zksc.io/asset-managers/principal-japan, https://finwiki.zksc.io/asset-managers/smt-am, https://finwiki.zksc.io/asset-managers/t-and-d-asset-management, https://finwiki.zksc.io/asset-managers/tokio-marine-asset-management, https://finwiki.zksc.io/banking/japan-banking-license-tier-comparison-matrix, https://finwiki.zksc.io/banking/japan-trust-bank-vs-global-custodian-comparison-matrix
 
 ### How to navigate FinWiki — reader profile guide
@@ -12924,6 +12924,14 @@ Public pages listed: 1545
 - First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/` references left in the corpus are the umbrella-INDEX link and pre-existing cross-refs that resolve by alias to other domains (dead=0 guarantees they resolve).
 - 10 parallel agents authored each domain's INDEX under file-scope isolation and fixed 35 `missing_peer_link` entries., https://finwiki.zksc.io/JapanFG/` で残るのは umbrella INDEX 参照と、別ドメインへ alias で解決する既存 cross-ref のみ（dead=0 が保証）。
 - 並列 10 agent は各ドメインに file-scope 隔離で INDEX 執筆 + 35 件の missing_peer_link 修復。, https://finwiki.zksc.io/JapanFG/…
+
+### JapanFG 分割 後始末 — 17 ドメインの localized 名 + audit route map
+- URL: https://finwiki.zksc.io/releases/v2026.06.04-5
+- Source path: releases/v2026.06.04-5.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.06.04-5.md
+- Domain: releases
+- Type: release_note
+- Headings: JapanFG 分割 後始末 — 17 ドメインの localized 名 + audit route map, 日本語, 公開範囲, 主要変更, 検証結果, 既知の注意点 / 次の作業, English, Release Scope
 
 ### retail domain
 - URL: https://finwiki.zksc.io/retail/INDEX
