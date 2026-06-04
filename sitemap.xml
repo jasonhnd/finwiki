@@ -6740,7 +6740,7 @@
   </url>
   <url>
     <loc>https://finwiki.zksc.io/frontmatter-canonical-anchor-field-proposal</loc>
-    <lastmod>2026-06-03</lastmod>
+    <lastmod>2026-06-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -8282,6 +8282,12 @@
   </url>
   <url>
     <loc>https://finwiki.zksc.io/releases/v2026.06.04-1</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://finwiki.zksc.io/releases/v2026.06.04-2</loc>
     <lastmod>2026-06-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>

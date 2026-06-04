@@ -8,8 +8,9 @@
 |---|---|---|
 | 🟢 | Saison drift 修复 | **v12 完成**。`insurance/saison-automobile-fire` core body 已引用 anchor，`canonical_anchor_drift=0`。 |
 | 🟢 | 剩余 mirror pair 全量 back-fill | **v13 完成**。补 4 个 mirror anchor（au-jibun-bank / kampo-life / sony-life / ja-kyosairen），现共 12 个，`canonical_anchor_checked=8→12`、drift=0。 |
-| 🔴 | discovery 输出 entity edge | `ai-index.json` / `llms-full.txt` 暴露 mirror→anchor 关系。back-fill 已 done（v13），但 discovery 输出仍未含机器可读 entity edge —— 这是 P1 唯一剩余主体工作。 |
-| 🔴 | 评估 hard requirement | 把 `canonical_anchor` 从 optional 变 mirror page 必填 + audit 升为 gate。back-fill done 后可重估覆盖率。 |
+| 🟢 | discovery 输出 entity edge | **v2026.06.04-2 完成**。`ai-index.json` 新增 `entities[]`（12 edge: anchor/anchor_url/anchor_resolves/member_count/mirror_count/members[relation]）+ 每个 entry 的 `canonical_anchor` + counts `entity_anchors`/`entity_mirror_pages`；`llms-full.txt` 每页 anchor 行；`llms.txt` snapshot + AI 规则。全 anchor_resolves=true、drift=0。 |
+| 🔴 | 评估 hard requirement | 把 `canonical_anchor` 从 optional 变 mirror page 必填 + audit 升为 gate。back-fill + discovery edge 都 done 后可重估覆盖率 —— **P1 唯一剩余工作**。 |
+| 🔵 | （可选）per-entry API 加 canonical_anchor | v04-2 刻意未给 `api/entries/*.json` frontmatter block 加 `canonical_anchor`（已是 curated subset，不含 related/note/type；edge 已在 ai-index.json + llms-full.txt 完整暴露；避免 1459 file 机械 diff）。若未来 per-entry consumer 需就地拿到 anchor，可加一行 `canonical_anchor: fm.canonical_anchor ?? null`。 |
 
 ## 内容扩充（P3）
 

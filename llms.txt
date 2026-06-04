@@ -17,13 +17,14 @@
 
 ## Current Snapshot
 
-- Markdown files: 1536
-- Public Markdown pages in machine manifest: 1535
+- Markdown files: 1537
+- Public Markdown pages in machine manifest: 1536
 - Topical domains: 23
+- Canonical entity anchors: 12 (linking 12 mirror pages to their source-of-truth entry)
 - Link-audited entries: 1466
 - Unresolved link issues: 0
-- Non-space UTF-8 characters across Markdown: 10,552,884
-- Word-like tokens: 1,707,907
+- Non-space UTF-8 characters across Markdown: 10,568,114
+- Word-like tokens: 1,710,709
 
 ## URL Rules for AI Readers
 
@@ -33,6 +34,7 @@
 - For a single entry's metadata in one request (frontmatter / summary / headings / wikilinks / inbound count), fetch `https://finwiki.zksc.io/api/entries/<domain>/<slug>.json`.
 - If you already have the rendered HTML in context, frontmatter is also embedded in the page `<head>` as: (a) schema.org Article JSON-LD with `keywords` / `alternateName` / `citation` / `additionalProperty`, (b) `<meta name="finwiki:*">` tags (`domain`, `tags`, `aliases`, `sources`, `confidence`, `status`, `last_updated`, `review_by`), (c) `<link rel="alternate" type="application/json">` to the per-entry API and `<link rel="alternate" type="text/markdown">` to the raw source.
 - For programmatic traversal of every entry, prefer `ai-index.json`. For a compact text scan of every entry's title + summary + headings + wikilinks, prefer `llms-full.txt`.
+- For entity-level identity (which pages describe the same real-world entity from different angles), read the `entities[]` array in `ai-index.json`: each edge groups a canonical anchor (`domain/slug`) with the mirror pages that declare `canonical_anchor:` pointing at it. `llms-full.txt` also notes the canonical anchor inline on each mirror page.
 - For research tasks ('how do I find entries about X?'), start at `llms-tasks.txt` - 16 common tasks each with a start file + bedrock follow-ups + matrix anchor.
 
 ## Domains

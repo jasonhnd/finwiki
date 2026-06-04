@@ -7,8 +7,8 @@ aliases:
   - schema-extension-canonical-anchor
 domain: control-proposal
 created: 2026-05-25
-last_updated: 2026-06-03
-last_tended: 2026-06-03
+last_updated: 2026-06-04
+last_tended: 2026-06-04
 review_by: 2027-05-25
 confidence: likely
 tags: [meta, proposal, schema-extension, frontmatter, canonical-anchor, navigation]
@@ -30,7 +30,7 @@ This proposal sits at FinWiki root next to [[SCHEMA|SCHEMA]] and [[INDEX|INDEX]]
 > [!info] TL;DR
 > Proposal: add an optional (not required) frontmatter field `canonical_anchor:` that points cross-domain pages (mirrors, sibling sub-product pages, public-figure pages, macro-tracker pages) at the single source-of-truth anchor for the underlying entity. The field makes machine-readable what is currently a prose convention, would enable an audit-tool extension that flags drift, and would improve `tools/generate_ai_discovery.ts` output by exposing entity-level graph edges to AI / crawler consumers.
 >
-> **Status (2026-06-03): Phase 0 adopted.** `canonical_anchor:` is now documented in [[SCHEMA]] as an optional field (added to the "Optional / Legacy Fields" table and to the "Canonical Key Order" block, right after `related`). It has been set as a manual pilot on the Saison and Toyota Financial Services mirror pairs (see §4). Phases 1-4 (audit tooling, discovery-output edges, full back-fill, hard requirement) remain future work.
+> **Status (2026-06-04): Phases 0-3 landed; Phase 2 discovery edges live.** `canonical_anchor:` is documented in [[SCHEMA]] as an optional field. Phase 1 (report-only audit) landed in v2026.06.03-8, and Phase 3 (back-fill) in v2026.06.03-8 / v2026.06.03-13 (12 mirror declarations now carry the field, `canonical_anchor_drift=0`). **Phase 2 (discovery-output entity edges) landed in v2026.06.04-2**: `tools/generate_ai_discovery.ts` now emits an `entities[]` array (12 edges) plus a per-entry `canonical_anchor` in `ai-index.json`, and `llms-full.txt` notes the canonical anchor on each mirror page (see §4). Only Phase 4 (hard requirement on new mirror pages) remains future work.
 
 ## 1. Motivation
 
@@ -131,7 +131,7 @@ If adopted, migration would be **incremental and opt-in**:
    - Resolve `canonical_anchor:` values to existing pages (flag broken anchors).
    - Verify reciprocal body links between mirror siblings (both pages must cross-link to each other if they declare the same canonical anchor).
    - Emit a new section in [[wiki-link-improvement-plan]] listing entity clusters and any orphan mirrors.
-3. **Phase 2 (discovery output).** Extend `tools/generate_ai_discovery.ts` to emit an `entities[]` section in `ai-index.json` that groups pages by canonical anchor. Update `llms-full.txt` to surface the canonical anchor for each page (one extra line per page).
+3. **Phase 2 (discovery output). — LANDED v2026.06.04-2.** `tools/generate_ai_discovery.ts` now emits an `entities[]` array in `ai-index.json` grouping pages by canonical anchor (each edge carries `anchor` / `anchor_url` / `anchor_resolves` / `member_count` / `mirror_count` / `members[]` with `relation: canonical | mirror`); it also adds a `canonical_anchor` field to every entry in `entries[]` and `entity_anchors` / `entity_mirror_pages` counts. `llms-full.txt` surfaces a `Canonical anchor: <anchor> -> <url>` line on each mirror page, and `llms.txt` gains a snapshot line plus an AI reader rule. `lib/markdown_helpers.ts` (`Entry` + `buildEntry`) was extended to extract the field. The per-entry API (`api/entries/*.json`) was intentionally left unchanged (already a curated subset; the edges are fully exposed via `ai-index.json` + `llms-full.txt`).
 4. **Phase 3 (back-fill).** Back-fill `canonical_anchor:` on all known mirror pairs (current count is small — the Saison Automobile & Fire pair plus a handful of others; specifics to be enumerated during phase 1 audit). Do not back-fill cross-references except where the page explicitly cites a single canonical entity.
 5. **Phase 4 (steady state).** Make `canonical_anchor:` a hard requirement on new mirror pages going forward. Keep it optional on cross-reference-heavy pages.
 
@@ -146,9 +146,9 @@ Each phase can ship independently. Phases 0-2 are zero-risk additions. Phase 3 i
 
 ## 6. Decision recommendation
 
-**Phase 0 adopted (2026-06-03).** [[SCHEMA]] now documents the optional field, and the field is set on the Saison and Toyota Financial Services mirror pairs as a manual pilot. Remaining Phase 0 prose touch-ups ([[entity-mirror-page-policy]] §7 and [[cross-domain-anchor-convention]] §6) are outstanding.
+**Phases 0-3 landed; Phase 2 discovery edges live (2026-06-04).** [[SCHEMA]] documents the optional field; Phase 1 (report-only audit) shipped in v2026.06.03-8; Phase 3 (back-fill) reached 12 mirror declarations at `drift=0` (v2026.06.03-8 / v2026.06.03-13); and Phase 2 (discovery-output entity edges) shipped in v2026.06.04-2. The pilot proved out — the field now carries machine-readable entity identity into `ai-index.json` / `llms-full.txt`. Remaining Phase 0 prose touch-ups ([[entity-mirror-page-policy]] §7 and [[cross-domain-anchor-convention]] §6) are still outstanding.
 
-Phases 1-4 stay deferred until the pilot reveals whether the field carries enough signal to justify tooling investment. If after six months the field has been useful in audits and reviews, proceed to phase 1.
+Only Phase 4 (make `canonical_anchor:` a hard requirement on new mirror pages and gate the audit) stays deferred, pending a coverage review now that back-fill and discovery edges are both done.
 
 ## 7. Risks of not adopting
 
