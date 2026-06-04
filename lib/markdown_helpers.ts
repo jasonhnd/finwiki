@@ -37,6 +37,7 @@ export interface Entry {
   title: string;
   domain: string;
   entry_type: string;
+  canonical_anchor: string;
   summary: string;
   headings: string[];
   wikilinks: string[];
@@ -304,6 +305,9 @@ export function formatLocalDate(date: Date): string {
 export async function buildEntry(rootDir: string, relPath: string, text: string): Promise<Entry> {
   const filePath = pathPosix.join(rootDir, relPath);
   const wikilinks = extractWikilinks(text);
+  const frontmatter = extractFrontmatter(text);
+  const canonicalAnchor =
+    typeof frontmatter.canonical_anchor === "string" ? frontmatter.canonical_anchor.trim() : "";
   return {
     source_path: relPath,
     url: publicUrlFor(relPath),
@@ -311,6 +315,7 @@ export async function buildEntry(rootDir: string, relPath: string, text: string)
     title: extractTitle(relPath, text),
     domain: domainFor(relPath),
     entry_type: entryTypeFor(relPath),
+    canonical_anchor: canonicalAnchor,
     summary: extractSummary(text),
     headings: extractHeadings(text),
     wikilinks,

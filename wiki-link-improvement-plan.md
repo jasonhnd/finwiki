@@ -15,7 +15,7 @@
 | Missing route link | 0 |
 | Missing peer link | 0 |
 | Missing system / regulatory link | 0 |
-| Changed or new entries in current worktree | 0 |
+| Changed or new entries in current worktree | 1 |
 | canonical_anchor declarations checked (informational) | 12 |
 | canonical_anchor drift (informational, non-gating) | 0 |
 
@@ -41,6 +41,7 @@
 
 | Path | State | Body | Issues |
 |---|---:|---:|---|
+| `frontmatter-canonical-anchor-field-proposal.md` | `M` | 28 | ok |
 
 ## Domain Snapshot
 

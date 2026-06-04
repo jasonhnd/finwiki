@@ -15,6 +15,8 @@
 | v2026.06.03-11 | docs 进度/规划文档 + canonical_anchor Phase 2 起步 | docs 升为开发支柱（roadmap/backlog/domains 等）+ 修 Saison drift（第一手）|
 | v2026.06.03-12 | **并行 10 领域开发（+46 entry）** | 并行 subagent 给 10 领域加 46 个公开信息 entry，entries 1420→1466；root INDEX 10 行 count 同步 disk |
 | v2026.06.03-13 | canonical_anchor Phase 2 back-fill | 4 个 mirror anchor 补齐（au-jibun-bank / kampo-life / sony-life / ja-kyosairen），canonical_anchor_checked 8→12、drift=0 |
+| v2026.06.04-1 | 开发文档专业化整理 | docs/ 11 文档·3 分类（参考型/规范方法型/进度规划型）+ 新增 entry-authoring / parallel-development |
+| v2026.06.04-2 | **canonical_anchor Phase 2 entity edge** | discovery 输出落地机器可读 entity edge：ai-index.json `entities[]`（12 edge）+ entries[].canonical_anchor + llms-full.txt 每页 anchor 行 + llms.txt snapshot/规则；entity_anchors=12 / drift=0 |
 
 ## 近期重点（P1 → P3，三方向并行推进）
 
@@ -23,8 +25,8 @@
 把 entity 单一真相 anchor 从「report-only 元数据」升级为「贯穿 discovery 的图边」。
 - ✅ 修复 Saison drift（`insurance/saison-automobile-fire` 只在 Related footer 引用 anchor）—— **v12 已完成**。
 - ✅ 剩余 mirror pair 全量 back-fill —— **v13 已完成**（补 4 个 mirror anchor，现共 12 个，drift=0）。
-- 🔴 discovery 输出（`ai-index.json` / `llms-full.txt`）加 entity edge（mirror → anchor 的机器可读关系）—— **唯一剩余的 P1 主体工作**。
-- 🔴 评估把 `canonical_anchor` 从 optional 变 hard requirement（mirror page 必填）。
+- ✅ discovery 输出加 entity edge —— **v2026.06.04-2 已完成**。`ai-index.json` 新增 `entities[]`（12 条 edge：anchor / anchor_url / anchor_resolves / member_count / mirror_count / members[relation]）+ 每个 entry 的 `canonical_anchor` + counts `entity_anchors`=12 / `entity_mirror_pages`=12；`llms-full.txt` 每个 mirror page 加 `Canonical anchor: X -> URL` 行；`llms.txt` snapshot + AI 读解规则。全 `anchor_resolves=true`、drift=0。per-entry API（`api/entries/*.json`）是 curated subset 故刻意未含（见 backlog 未来选项）。
+- 🔴 评估把 `canonical_anchor` 从 optional 变 hard requirement（mirror page 必填）+ audit 升为 gate —— **现在是 P1 唯一剩余工作**。back-fill done + discovery edge done 后可重估覆盖率。
 - 依据见 [decisions.md](decisions.md) ADR-002。
 
 ### P2. JapanFG 深化（634 entity）

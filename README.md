@@ -14,11 +14,11 @@ Homepage は人間が入口を理解するために整えていますが、wiki 
 
 | 指標 | 現在値 | 集計口径 |
 | --- | ---: | --- |
-| Markdown files | 1536 | `.git` を除外し、release notes / control docs / templates を含む repository-wide `.md` files |
+| Markdown files | 1537 | `.git` を除外し、release notes / control docs / templates を含む repository-wide `.md` files |
 | Topical domains | 23 | `INDEX.md` domain map の主要テーマ領域 |
 | Link-audited entries | 1466 | `tools/wiki_link_audit.ts` が確認する public wiki entries |
 | Unresolved link issues | 0 | body route / peer / system link audit と dead wikilink target audit の未解決 issue |
-| Text volume | 約1055万字 | Markdown 全体の空白除外 UTF-8 文字数（約 10,552,884） |
+| Text volume | 約1057万字 | Markdown 全体の空白除外 UTF-8 文字数（約 10,568,114） |
 | Word-like tokens | 約171万 | English / CJK mixed corpus の近似 token count |
 
 > 集計基準: 2026-06-04 JST 時点の current repository snapshot。公開サイトへの反映は `origin/main` push と現行本番配信後に確認します。Vercel への DNS cutover は shadow deployment 検証後に別途行います。
@@ -34,6 +34,8 @@ Homepage は人間が入口を理解するために整えていますが、wiki 
 > 内容整理: v2026.06.03-6 では並列 subagent で全領域を棚卸しし、内容品質を保ったまま整理しました。2026-05-25 の拡充以降 stale だった 8 領域 INDEX（corporate-strategy / loyalty / money-market / manufacturing / retail / governance / trade / security）を実際の entry へ同期（漏れていた entry の追加、`single entry` 等の古い記述修正、stale backlog 整理）。Bun 移行後に残っていた `tools/*.py` 参照を `SCHEMA.md` / `INDEX.md` / convention / proposal で `.ts` へ修正、`HOW-TO-NAVIGATE.md` の count drift（1465+/24+ → 1,400+/23）を是正、孤立していた 5 件の convention/proposal 文書を `INDEX.md` Control Documents に収録、security INDEX の Status 列ラベルを confidence へ修正しました。Lawson TOB 価格は公開開示に基づき ¥4,952 → ¥10,360 へ統一しました（web 照合）。link audit は entries=1411 / issues=0 で PASS、wiki 本文の死リンクは 0 のままです。
 
 > 構造整理: v2026.06.03-7 では並列 subagent で構造系の整理 B/C/D を落地しました。(B) mislabel だった governance（実体は非営利・公益法人）と manufacturing（実体は manufacturer-finance）の INDEX に scope/disambiguation を追加（corporate governance は finance/securities/exchanges、entity ページは JapanFG、ABS は structured-finance へ案内）。(C) 631 件が flat だった JapanFG に frontmatter tags 駆動で 9 件の機構類型別 sub-INDEX（megabanks-and-fg / regional-banks / cooperative-finance / trust / insurance / securities-and-asset-management / payments-cards-leasing-finance / foreign-institutions / regulators-sro-policy、計 609 entry）を新設し、`JapanFG/INDEX` に類型別導航ブロックを追加。file は一切移動せず（Option A）既存リンク・URL を保全。(D) canonical_anchor proposal の Phase 0 を落地: `canonical_anchor` を SCHEMA の optional field と canonical key order に追加、Saison / Toyota Financial Services の 2 mirror pair に pilot 設定、proposal を status: active へ更新（Phase 1 の audit tooling は後続）。link audit は entries=1420 / issues=0 で PASS（新 sub-INDEX の wikilink 全 resolve、死リンク 0）。
+
+> canonical_anchor Phase 2（discovery entity edge）: v2026.06.04-2 では canonical_anchor を report-only audit（Phase 1）から discovery 出力の機械可読 entity edge（Phase 2）へ昇格しました。`ai-index.json` に `entities[]`（同一実体を指す page を束ねる 12 件の edge: `anchor` / `anchor_url` / `anchor_resolves` / `members[relation: canonical | mirror]`）を新設し、各 entry に `canonical_anchor` 字段を付与、`llms-full.txt` の各 mirror page に `Canonical anchor: … -> URL` 行（12 行）、`llms.txt` snapshot に entity anchor 数行 + AI 読解規則を追加。per-entry API は curated subset のため意図的に未変更（entity edge は ai-index.json / llms-full.txt で完全露出）。wiki 本文 `.md` は不変（entries=1466 据え置き、md は本 release notes で +1）。検証: `bun tools/release.ts --check --strict` EXIT=0、entries=1466 / issues=0、entity_anchors=12 / drift=0、counts in sync、lastmod 汚染 0。
 
 > 開発文書の専門化整理: v2026.06.04-1 では docs/ を 11 文書・3 分類（参考型 / 規範・方法型 / 進度・規劃型）へ専門化整理しました。新規 entry-authoring.md（entry 執筆規範）と parallel-development.md（並列 subagent 開発手册）を追加、roadmap / backlog / domains を v13 の最新状態へ更新、decisions に ADR-006（並列 Agent 開発）、gotchas に block-no-verify 誤判・rate-limit/双批 の 2 項を追記、README 索引を 3 分類へ再編。docs/ は corpus 排除済みで公開計数・発見面に不影響。あわせて discovery surface を 2026-06-04 現在へ再同期。検証: `--check --strict` EXIT=0、entries=1466 / issues=0、counts in sync。
 
@@ -171,11 +173,11 @@ The current production site is served by GitHub Pages, and Vercel shadow-deploym
 
 | Metric | Current Value | Counting Basis |
 | --- | ---: | --- |
-| Markdown files | 1536 | Repository-wide `.md` files excluding `.git`, including release notes, control documents, and templates |
+| Markdown files | 1537 | Repository-wide `.md` files excluding `.git`, including release notes, control documents, and templates |
 | Topical domains | 23 | Major topic areas in the `INDEX.md` domain map |
 | Link-audited entries | 1466 | Public wiki entries checked by `tools/wiki_link_audit.ts` |
 | Unresolved link issues | 0 | Open body route / peer / system-link and dead wikilink-target audit issues |
-| Text volume | ~10.55M chars | ~10,552,884 non-space UTF-8 characters across Markdown |
+| Text volume | ~10.57M chars | ~10,568,114 non-space UTF-8 characters across Markdown |
 | Word-like tokens | ~1.71M | Approximate English / CJK mixed-corpus token count |
 
 > Counting basis: current repository snapshot as of 2026-06-04 JST. Public-site reflection is verified after push to `origin/main` and the current production deployment. Vercel DNS cutover is handled separately after shadow-deployment validation.
@@ -191,6 +193,8 @@ The current production site is served by GitHub Pages, and Vercel shadow-deploym
 > Content cleanup: v2026.06.03-6 audited every domain with parallel subagents and tidied the corpus without changing content quality. The 8 domain INDEXes that had gone stale since the 2026-05-25 expansion (corporate-strategy / loyalty / money-market / manufacturing / retail / governance / trade / security) were synced to their real entries (adding omitted entries, fixing stale "single entry" wording, cleaning stale backlogs). Lingering post-Bun-migration `tools/*.py` references in `SCHEMA.md` / `INDEX.md` / convention / proposal were corrected to `.ts`; the `HOW-TO-NAVIGATE.md` count drift (1465+/24+ → 1,400+/23) was fixed; the 5 orphaned convention/proposal docs were added to the `INDEX.md` Control Documents; and the security INDEX "Status" column was relabeled to confidence. The Lawson TOB price was unified to ¥10,360 (from an erroneous ¥4,952) per public disclosure (web-verified). Link audit passes at entries=1411 / issues=0 with zero dead links in the wiki body.
 
 > Structural cleanup: v2026.06.03-7 landed the structural tasks B/C/D with parallel subagents. (B) Added scope/disambiguation to the mislabeled governance (actually non-profit / public-interest) and manufacturing (actually manufacturer-finance) INDEXes, routing corporate governance to finance/securities/exchanges, entity pages to JapanFG, and ABS to structured-finance. (C) Gave the flat 631-entry JapanFG domain 9 institution-type sub-indexes driven by frontmatter tags (megabanks-and-fg / regional-banks / cooperative-finance / trust / insurance / securities-and-asset-management / payments-cards-leasing-finance / foreign-institutions / regulators-sro-policy; 609 entries grouped) plus a navigation block in `JapanFG/INDEX` — with zero file moves (Option A), preserving every existing link and URL. (D) Landed Phase 0 of the canonical_anchor proposal: added `canonical_anchor` as an optional SCHEMA field and to the canonical key order, set it as a pilot on the Saison and Toyota Financial Services mirror pairs, and marked the proposal status: active (Phase 1 audit tooling is future work). Link audit passes at entries=1420 / issues=0 (every new sub-index wikilink resolves; zero dead links).
+
+> canonical_anchor Phase 2 (discovery entity edges): v2026.06.04-2 promoted canonical_anchor from report-only audit (Phase 1) to machine-readable entity edges in the discovery output (Phase 2). Added an `entities[]` array to `ai-index.json` (12 edges grouping pages that point at the same entity: `anchor` / `anchor_url` / `anchor_resolves` / `members[relation: canonical | mirror]`), a `canonical_anchor` field on every entry, a `Canonical anchor: … -> URL` line on each mirror page in `llms-full.txt` (12 lines), and an entity-anchor snapshot line + AI reader rule in `llms.txt`. The per-entry API is intentionally unchanged (curated subset; the edges are fully exposed via ai-index.json / llms-full.txt). No wiki `.md` content changed (entries=1466 held; md +1 from this release note). Verification: `bun tools/release.ts --check --strict` EXIT=0, entries=1466 / issues=0, entity_anchors=12 / drift=0, counts in sync, 0 lastmod pollution.
 
 > Developer-docs professionalization: v2026.06.04-1 reorganized docs/ into 11 docs across 3 tiers (reference / standards-method / progress-planning). Added entry-authoring.md (entry authoring standard) and parallel-development.md (parallel-subagent playbook); updated roadmap/backlog/domains to the v13 state; added decisions ADR-006 (parallel Agent development) and two gotchas (block-no-verify misfire, rate-limit/double-batch); restructured the README index into 3 tiers. docs/ is corpus-excluded so public counts/discovery are unaffected. Also re-synced discovery surfaces to 2026-06-04. Verification: `--check --strict` EXIT=0, entries=1466 / issues=0, counts in sync.
 
@@ -322,11 +326,11 @@ FinWiki 是一个覆盖金融、支付、稳定币、加密资产、资本市场
 
 | 指标 | 当前值 | 统计口径 |
 | --- | ---: | --- |
-| Markdown files | 1536 | 排除 `.git`，包含 release notes、控制文档、模板在内的全仓库 `.md` 文件 |
+| Markdown files | 1537 | 排除 `.git`，包含 release notes、控制文档、模板在内的全仓库 `.md` 文件 |
 | Topical domains | 23 | `INDEX.md` domain map 中的主要主题领域 |
 | Link-audited entries | 1466 | `tools/wiki_link_audit.ts` 覆盖的 public wiki entries |
 | Unresolved link issues | 0 | body route / peer / system link audit 与 dead wikilink target audit 的未解决 issue |
-| Text volume | 约1055万字 | 全库 Markdown 空白除外 UTF-8 字符数（约 10,552,884） |
+| Text volume | 约1057万字 | 全库 Markdown 空白除外 UTF-8 字符数（约 10,568,114） |
 | Word-like tokens | 约171万 | English / CJK mixed corpus 的近似 token count |
 
 > 统计口径：2026-06-03 JST 当前 repository snapshot。公开站点反映会在 push 到 `origin/main` 并完成当前生产部署后确认。Vercel DNS cutover 会在 shadow deployment 验证后单独执行。
@@ -342,6 +346,8 @@ FinWiki 是一个覆盖金融、支付、稳定币、加密资产、资本市场
 > 内容整理：v2026.06.03-6 用并行 subagent 盘点了全部领域，在不改变内容质量的前提下做了整理。把 2026-05-25 扩充后 stale 的 8 个领域 INDEX（corporate-strategy / loyalty / money-market / manufacturing / retail / governance / trade / security）同步到实际 entry（补全漏列 entry、修正 `single entry` 等过时表述、清理 stale backlog）。修正了 Bun 迁移后遗留在 `SCHEMA.md` / `INDEX.md` / convention / proposal 中的 `tools/*.py` 引用为 `.ts`；纠正 `HOW-TO-NAVIGATE.md` 的 count drift（1465+/24+ → 1,400+/23）；把 5 个孤立的 convention/proposal 文档收录进 `INDEX.md` 的 Control Documents；并把 security INDEX 的 Status 列改标为 confidence。依据公开披露（已 web 核实）把 Lawson TOB 价格从错误的 ¥4,952 统一为 ¥10,360。link audit 通过 entries=1411 / issues=0，wiki 正文死链保持 0。
 
 > 结构整理：v2026.06.03-7 用并行 subagent 落地了结构类任务 B/C/D。(B) 给 mislabel 的 governance（实为非营利 / 公益法人）和 manufacturing（实为厂商金融）INDEX 加 scope/disambiguation，把 corporate governance 路由到 finance/securities/exchanges、entity 页到 JapanFG、ABS 到 structured-finance。(C) 给 631 个 entry 扁平的 JapanFG 用 frontmatter tags 驱动新建 9 个机构类型 sub-index（megabanks-and-fg / regional-banks / cooperative-finance / trust / insurance / securities-and-asset-management / payments-cards-leasing-finance / foreign-institutions / regulators-sro-policy，分组 609 个 entry），并在 `JapanFG/INDEX` 加类型导航块 —— 零文件移动（Option A），保全所有既有链接与 URL。(D) 落地 canonical_anchor proposal 的 Phase 0：把 `canonical_anchor` 加为 SCHEMA optional 字段和 canonical key order，在 Saison / Toyota Financial Services 两个 mirror pair 设 pilot，并把 proposal 标为 status: active（Phase 1 的 audit tooling 留作后续）。link audit 通过 entries=1420 / issues=0（新 sub-index 的 wikilink 全部 resolve、零死链）。
+
+> canonical_anchor Phase 2（discovery 实体边）: v2026.06.04-2 把 canonical_anchor 从 report-only audit（Phase 1）升级为 discovery 输出里的机器可读 entity edge（Phase 2）。在 `ai-index.json` 新增 `entities[]`（把指向同一实体的页面聚成 12 条 edge：`anchor` / `anchor_url` / `anchor_resolves` / `members[relation: canonical | mirror]`），给每个 entry 加 `canonical_anchor` 字段，在 `llms-full.txt` 每个 mirror page 加 `Canonical anchor: … -> URL` 行（12 行），`llms.txt` snapshot 加 entity anchor 数行 + 面向 AI 的阅读规则。per-entry API 因是 curated subset 刻意不动（entity edge 已在 ai-index.json / llms-full.txt 完整暴露）。wiki 正文 `.md` 不变（entries=1466 保持，md 因本 release notes +1）。验证：`bun tools/release.ts --check --strict` EXIT=0、entries=1466 / issues=0、entity_anchors=12 / drift=0、counts in sync、0 lastmod 污染。
 
 > 开发文档专业化整理: v2026.06.04-1 把 docs/ 整理为 11 文档、3 分类（参考型 / 规范·方法型 / 进度·规划型）。新增 entry-authoring.md（entry 写作规范）和 parallel-development.md（并行 subagent 开发手册）；把 roadmap/backlog/domains 更新到 v13 最新状态；decisions 加 ADR-006（并行 Agent 开发），gotchas 加 block-no-verify 误判、rate-limit/双批 两项；README 索引重组为 3 分类。docs/ 已排除出 corpus，公开计数/发现面不受影响。同时把 discovery surface 重新同步到 2026-06-04。验证：`--check --strict` EXIT=0、entries=1466 / issues=0、counts in sync。
 

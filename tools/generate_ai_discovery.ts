@@ -5,6 +5,7 @@ import { posix as pathPosix } from "node:path";
 import { escape } from "node:querystring";
 import {
   buildEntry,
+  type Entry,
   countWordLikeTokens,
   domainFor,
   extractFrontmatter,
@@ -28,6 +29,25 @@ interface CliOptions {
   apiIndexGeneratedAt?: string;
 }
 
+interface EntityMember {
+  source_path: string;
+  url: string;
+  domain: string;
+  relation: "canonical" | "mirror";
+}
+
+// One entity edge groups a canonical-anchor entry with every mirror page that
+// declares `canonical_anchor:` pointing at it (proposal Phase 2 — exposes the
+// machine-readable entity graph that frontmatter only encoded page-locally).
+interface EntityEdge {
+  anchor: string;
+  anchor_url: string;
+  anchor_resolves: boolean;
+  member_count: number;
+  mirror_count: number;
+  members: EntityMember[];
+}
+
 interface Model {
   site: string;
   generated_at: string;
@@ -35,6 +55,7 @@ interface Model {
   navigation: Record<string, string>;
   url_rules: Record<string, string>;
   domains: Array<Record<string, unknown>>;
+  entities: EntityEdge[];
   entries: Array<Record<string, unknown>>;
 }
 
@@ -92,6 +113,70 @@ function xmlEscape(value: string): string {
     .replaceAll("'", "&apos;");
 }
 
+function normalizeAnchor(value: string): string {
+  return value.replace(/\.md$/, "").trim();
+}
+
+// Group entries into entity edges keyed by their declared `canonical_anchor`.
+// Each edge lists the canonical anchor page (if it exists in the public corpus)
+// plus every mirror page that points at it. Only multi-page entities (>=1
+// mirror) are emitted — a lone self-pointing page is not an edge.
+function buildEntityEdges(entries: Entry[]): EntityEdge[] {
+  const bySlug = new Map<string, Entry>();
+  for (const entry of entries) {
+    bySlug.set(normalizeAnchor(entry.source_path), entry);
+  }
+
+  const declarersByAnchor = new Map<string, Entry[]>();
+  for (const entry of entries) {
+    const anchor = normalizeAnchor(entry.canonical_anchor);
+    if (!anchor) continue;
+    const list = declarersByAnchor.get(anchor) ?? [];
+    list.push(entry);
+    declarersByAnchor.set(anchor, list);
+  }
+
+  const edges: EntityEdge[] = [];
+  for (const anchor of [...declarersByAnchor.keys()].sort()) {
+    const declarers = declarersByAnchor.get(anchor) ?? [];
+    const canonicalEntry = bySlug.get(anchor) ?? null;
+    const members = new Map<string, EntityMember>();
+    if (canonicalEntry) {
+      members.set(canonicalEntry.source_path, {
+        source_path: canonicalEntry.source_path,
+        url: canonicalEntry.url,
+        domain: canonicalEntry.domain,
+        relation: "canonical",
+      });
+    }
+    let mirrorCount = 0;
+    for (const declarer of declarers) {
+      const selfPointing = normalizeAnchor(declarer.source_path) === anchor;
+      if (!selfPointing) mirrorCount += 1;
+      members.set(declarer.source_path, {
+        source_path: declarer.source_path,
+        url: declarer.url,
+        domain: declarer.domain,
+        relation: selfPointing ? "canonical" : "mirror",
+      });
+    }
+    if (mirrorCount === 0) continue;
+    const memberList = [...members.values()].sort((left, right) => {
+      if (left.relation !== right.relation) return left.relation === "canonical" ? -1 : 1;
+      return left.source_path.localeCompare(right.source_path);
+    });
+    edges.push({
+      anchor,
+      anchor_url: wikilinkToUrl(anchor),
+      anchor_resolves: canonicalEntry !== null,
+      member_count: memberList.length,
+      mirror_count: mirrorCount,
+      members: memberList,
+    });
+  }
+  return edges;
+}
+
 async function buildModel(options: CliOptions): Promise<Model> {
   const absoluteMarkdownFiles = await iterMarkdownFiles(options.rootDir);
   const relPaths = absoluteMarkdownFiles.map((filePath) => pathPosix.relative(options.rootDir, filePath));
@@ -102,7 +187,7 @@ async function buildModel(options: CliOptions): Promise<Model> {
     textByRelPath.set(relPath, await readTextUtf8(pathPosix.join(options.rootDir, relPath)));
   }
 
-  const entries = [];
+  const entries: Entry[] = [];
   for (const relPath of publicRelPaths) {
     entries.push(await buildEntry(options.rootDir, relPath, textByRelPath.get(relPath) ?? ""));
   }
@@ -110,6 +195,7 @@ async function buildModel(options: CliOptions): Promise<Model> {
   const allText = relPaths.map((relPath) => textByRelPath.get(relPath) ?? "").join("\n");
   const audit = await parseAuditSummary(options.rootDir);
   const domains = await parseDomainMap(options.rootDir);
+  const entities = buildEntityEdges(entries);
   const generatedAt = options.generatedAt ?? formatJstIsoSeconds();
 
   return {
@@ -125,6 +211,8 @@ async function buildModel(options: CliOptions): Promise<Model> {
       unresolved_link_issues: audit.entries_with_any_issue ?? null,
       nonspace_utf8_chars: allText.replace(/\s+/g, "").length,
       word_like_tokens: countWordLikeTokens(allText),
+      entity_anchors: entities.length,
+      entity_mirror_pages: entities.reduce((sum, edge) => sum + edge.mirror_count, 0),
     },
     navigation: {
       human_homepage: siteUrl(),
@@ -144,6 +232,7 @@ async function buildModel(options: CliOptions): Promise<Model> {
       source_fallback: "Every entry also has a GitHub blob URL in ai-index.json.",
     },
     domains,
+    entities,
     entries: entries.map((entry) => ({ ...entry })),
   };
 }
@@ -237,6 +326,7 @@ async function writeLlms(model: Model, outDir: string): Promise<void> {
     `- Markdown files: ${String(counts.markdown_files)}`,
     `- Public Markdown pages in machine manifest: ${String(counts.public_markdown_pages)}`,
     `- Topical domains: ${String(counts.topical_domains)}`,
+    `- Canonical entity anchors: ${String(counts.entity_anchors)} (linking ${String(counts.entity_mirror_pages)} mirror pages to their source-of-truth entry)`,
     `- Link-audited entries: ${String(counts.link_audited_entries)}`,
     `- Unresolved link issues: ${String(counts.unresolved_link_issues)}`,
     `- Non-space UTF-8 characters across Markdown: ${Number(counts.nonspace_utf8_chars).toLocaleString("en-US")}`,
@@ -250,6 +340,7 @@ async function writeLlms(model: Model, outDir: string): Promise<void> {
     "- For a single entry's metadata in one request (frontmatter / summary / headings / wikilinks / inbound count), fetch `https://finwiki.zksc.io/api/entries/<domain>/<slug>.json`.",
     "- If you already have the rendered HTML in context, frontmatter is also embedded in the page `<head>` as: (a) schema.org Article JSON-LD with `keywords` / `alternateName` / `citation` / `additionalProperty`, (b) `<meta name=\"finwiki:*\">` tags (`domain`, `tags`, `aliases`, `sources`, `confidence`, `status`, `last_updated`, `review_by`), (c) `<link rel=\"alternate\" type=\"application/json\">` to the per-entry API and `<link rel=\"alternate\" type=\"text/markdown\">` to the raw source.",
     "- For programmatic traversal of every entry, prefer `ai-index.json`. For a compact text scan of every entry's title + summary + headings + wikilinks, prefer `llms-full.txt`.",
+    "- For entity-level identity (which pages describe the same real-world entity from different angles), read the `entities[]` array in `ai-index.json`: each edge groups a canonical anchor (`domain/slug`) with the mirror pages that declare `canonical_anchor:` pointing at it. `llms-full.txt` also notes the canonical anchor inline on each mirror page.",
     "- For research tasks ('how do I find entries about X?'), start at `llms-tasks.txt` - 16 common tasks each with a start file + bedrock follow-ups + matrix anchor.",
     "",
     "## Domains",
@@ -293,6 +384,9 @@ async function writeLlmsFull(model: Model, outDir: string): Promise<void> {
     lines.push(`- GitHub source: ${String(entry.github_url)}`);
     lines.push(`- Domain: ${String(entry.domain)}`);
     lines.push(`- Type: ${String(entry.entry_type)}`);
+    if (entry.canonical_anchor) {
+      lines.push(`- Canonical anchor: ${String(entry.canonical_anchor)} -> ${wikilinkToUrl(String(entry.canonical_anchor))}`);
+    }
     if (entry.summary) lines.push(`- Summary: ${String(entry.summary)}`);
     if (Array.isArray(entry.headings) && entry.headings.length > 0) {
       lines.push(`- Headings: ${entry.headings.slice(0, 8).join(", ")}`);
