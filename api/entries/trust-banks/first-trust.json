@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "slug": "trust-banks/first-trust",
+  "source_path": "trust-banks/first-trust.md",
+  "url": "https://finwiki.zksc.io/trust-banks/first-trust",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/trust-banks/first-trust.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/trust-banks/first-trust.md",
+  "domain": "trust-banks",
+  "title": "First Trust Japan / ファースト信託",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "First Trust Japan / ファースト信託",
+    "aliases": [
+      "ファースト信託",
+      "ファースト信託株式会社",
+      "First Trust"
+    ],
+    "domain": "trust-banks",
+    "created": "2026-05-22",
+    "last_updated": "2026-05-22",
+    "last_tended": "2026-05-22",
+    "review_by": "2026-11-22",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "trust-company",
+      "real-estate",
+      "public-source"
+    ],
+    "status": "active",
+    "sources": [
+      "FSA trust company list: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.xlsx",
+      "First Trust official site: https://www.firstshintaku.co.jp/"
+    ]
+  },
+  "summary": "Wiki route: JapanFG/INDEX -> trust-banks/trust-companies-japan-index -> trust-banks/first-trust",
+  "headings": [
+    "First Trust Japan / ファースト信託",
+    "Overview",
+    "Entity Boundary",
+    "Business Role Map",
+    "Public Context",
+    "Research Checklist",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 7,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/INDEX",
+      "banking/japan-trust-bank-custody-map",
+      "trust-banks/first-trust",
+      "trust-banks/jvalue-trust",
+      "trust-banks/kyodo-trust",
+      "trust-banks/trust-companies-japan-index"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/banking/japan-trust-bank-custody-map",
+      "https://finwiki.zksc.io/trust-banks/first-trust",
+      "https://finwiki.zksc.io/trust-banks/jvalue-trust",
+      "https://finwiki.zksc.io/trust-banks/kyodo-trust",
+      "https://finwiki.zksc.io/trust-banks/trust-companies-japan-index"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2007,
+    "word_like_tokens": 331,
+    "inbound_wikilinks_count": 4,
+    "last_modified": "2026-06-04"
+  }
+}

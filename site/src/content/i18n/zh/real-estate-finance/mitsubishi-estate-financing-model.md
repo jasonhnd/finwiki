@@ -27,7 +27,7 @@ translated_at: 2026-06-01T03:31:12.319Z
 |股票代码 | TSE Prime **8802** |
 |域名 |写字楼租赁（丸之内集群）、住宅、零售、物流、酒店、海外、资产管理|
 |总部|东京都千代田区丸之内 |
-|团体协会|三菱集团 - 通过交叉持股与[[JapanFG/mitsubishi-corp|Mitsubishi Corporation]]和更广泛的三菱经连有历史联系，尽管三菱地所是一个单独上市且独立的实体。 |
+|团体协会|三菱集团 - 通过交叉持股与[[financial-conglomerates/mitsubishi-corp|Mitsubishi Corporation]]和更广泛的三菱经连有历史联系，尽管三菱地所是一个单独上市且独立的实体。 |
 |报告标准| JGAAP（IR 材料中的 IFRS 等效披露）|
 |信用评级| R&I 和 JCR 评为国内顶级投资级（高 A 级）；投资级国际（标准普尔/穆迪）|
 |关键环节|写字楼租赁（以丸之内为中心）、商业地产开发、住宅（ParkAxis / The Parkhouse）、海外（美国、英国、亚洲）、酒店（Royal Park）、资产管理 |
@@ -64,7 +64,7 @@ Megabank银团牵头三菱地所为重大再开发项目进行大规模建设融
 
 - **MUFG 银行** — 通过三菱集团建立的历史主要银行关系。
 - **SMBC** 和 **瑞穗银行** — 银团贷款的联合安排人。
-- **[[JapanFG/mitsubishi-ufj-trust-bank|MUFJ Trust]]** 和 **[[JapanFG/sumitomo-mitsui-trust|SMTB]]** — 信托银行贷款机构和项目融资安排机构。
+- **[[trust-banks/mitsubishi-ufj-trust-bank|MUFJ Trust]]** 和 **[[trust-banks/sumitomo-mitsui-trust|SMTB]]** — 信托银行贷款机构和项目融资安排机构。
 - **人寿保险公司** — 在某些设施中进行大额私募/直接贷款。
 
 请参阅[[real-estate-finance/bank-commercial-real-estate-lending-japan|bank CRE lending Japan]]了解更广泛的贷方架构。
@@ -219,9 +219,9 @@ JRE 的 AM 授权在三菱地所合并损益表上产生经常性费用收入线
 - [[real-estate-finance/bank-commercial-real-estate-lending-japan|bank CRE lending Japan]]
 - [[real-estate-finance/real-estate-cap-rate-compression-2026|cap-rate compression 2026]]
 - [[derivatives/yen-basis-swap-market|JPY-USD basis swap]]
-- [[JapanFG/mitsubishi-corp|Mitsubishi Corporation]]
-- [[JapanFG/mitsubishi-ufj-trust-bank|MUFJ Trust]]
-- [[JapanFG/sumitomo-mitsui-trust|SMTB]]
+- [[financial-conglomerates/mitsubishi-corp|Mitsubishi Corporation]]
+- [[trust-banks/mitsubishi-ufj-trust-bank|MUFJ Trust]]
+- [[trust-banks/sumitomo-mitsui-trust|SMTB]]
 - [[business/INDEX|business INDEX]]
 - [[corporate-strategy/INDEX|corporate-strategy INDEX]]
 - [[INDEX|FinWiki index]]

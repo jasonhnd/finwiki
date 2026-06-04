@@ -27,10 +27,10 @@ translated_at: 2026-06-01T04:15:40.125Z
 
 | 发起机构 | 典型产品 |
 |---|---|
-| [[JapanFG/mufg]] / Mitsubishi UFJ Bank | 浮动利率住房贷款、大型资产池 |
-| [[JapanFG/smfg]] / Sumitomo Mitsui Banking Corporation | 浮动利率住房贷款 |
-| [[JapanFG/mizuho-fg]] / Mizuho Bank | 混合利率住房贷款 |
-| 信托银行（Mitsubishi UFJ Trust、[[JapanFG/sumitomo-mitsui-trust]]、Mizuho Trust） | 长期限固定利率住房贷款 |
+| [[megabanks/mufg]] / Mitsubishi UFJ Bank | 浮动利率住房贷款、大型资产池 |
+| [[megabanks/smfg]] / Sumitomo Mitsui Banking Corporation | 浮动利率住房贷款 |
+| [[megabanks/mizuho-fg]] / Mizuho Bank | 混合利率住房贷款 |
+| 信托银行（Mitsubishi UFJ Trust、[[trust-banks/sumitomo-mitsui-trust]]、Mizuho Trust） | 长期限固定利率住房贷款 |
 | 地方银行（偶发） | 规模较小的区域资产池交易 |
 
 兆型银行主导私募 RMBS 发行，因为它们持有足够大的住房贷款组合，使大型证券化具有经济性。
@@ -84,7 +84,7 @@ translated_at: 2026-06-01T04:15:40.125Z
 
 ## 6. 工具选择
 
-日本私募 RMBS 最常使用信托受益权结构：发起机构将住房贷款资产池转让给信托（[[JapanFG/sumitomo-mitsui-trust]] 或其他信托银行作为受托人），信托向投资者发行分层信托受益权。信托 vs SPV 权衡见 [[structured-finance/japan-trust-beneficial-interest-vs-spv]]。
+日本私募 RMBS 最常使用信托受益权结构：发起机构将住房贷款资产池转让给信托（[[trust-banks/sumitomo-mitsui-trust]] 或其他信托银行作为受托人），信托向投资者发行分层信托受益权。信托 vs SPV 权衡见 [[structured-finance/japan-trust-beneficial-interest-vs-spv]]。
 
 部分交易改用资产证券化法下的 TMK（特定目的会社）。TMK 路径允许正式上市债券发行；信托受益权路径通常是私募。见 [[structured-finance/spv-tk-gk-vehicle-japan-tax]]。
 

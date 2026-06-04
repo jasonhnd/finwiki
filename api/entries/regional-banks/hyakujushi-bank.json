@@ -1,0 +1,94 @@
+{
+  "schema_version": "1.0",
+  "slug": "regional-banks/hyakujushi-bank",
+  "source_path": "regional-banks/hyakujushi-bank.md",
+  "url": "https://finwiki.zksc.io/regional-banks/hyakujushi-bank",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/regional-banks/hyakujushi-bank.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/regional-banks/hyakujushi-bank.md",
+  "domain": "regional-banks",
+  "title": "百十四銀行 (Hyakujushi Bank)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "百十四銀行 (Hyakujushi Bank)",
+    "aliases": [
+      "百十四",
+      "ひゃくじゅうし",
+      "The Hyakujushi Bank",
+      "株式会社百十四銀行",
+      "114 Bank"
+    ],
+    "domain": "regional-banks",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "regional-bank",
+      "shikoku"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: 株式会社百十四銀行 (2026-05-19 抽出)",
+      "百十四銀行 公式コーポレートサイト 沿革・会社概要",
+      "TSUBASA アライアンス 加盟行公開情報 (2026-05-19 抽出)"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 伊予銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "百十四銀行 (Hyakujushi Bank)",
+    "Wiki route",
+    "TL;DR",
+    "1. 会社概要",
+    "主要子会社・関連会社",
+    "沿革（抜粋）^[extracted]",
+    "2. 事業セグメント・マップ",
+    "地盤・競争構造",
+    "産業特性",
+    "TSUBASA アライアンス参加"
+  ],
+  "body_links": {
+    "wikilinks_count": 14,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "awa-bank",
+      "banking/INDEX",
+      "chiba-bank",
+      "iyo-bank",
+      "iyogin-hd",
+      "kagawa-bank",
+      "mizuho-fg",
+      "mufg",
+      "regional-banks/iyo-bank",
+      "shikoku-bank",
+      "smfg",
+      "tokushima-taisho-bank",
+      "tomony-hd"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/awa-bank",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/chiba-bank",
+      "https://finwiki.zksc.io/iyo-bank",
+      "https://finwiki.zksc.io/iyogin-hd",
+      "https://finwiki.zksc.io/kagawa-bank",
+      "https://finwiki.zksc.io/mizuho-fg",
+      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/regional-banks/iyo-bank",
+      "https://finwiki.zksc.io/shikoku-bank",
+      "https://finwiki.zksc.io/smfg",
+      "https://finwiki.zksc.io/tokushima-taisho-bank",
+      "https://finwiki.zksc.io/tomony-hd"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2951,
+    "word_like_tokens": 433,
+    "inbound_wikilinks_count": 2,
+    "last_modified": "2026-06-04"
+  }
+}

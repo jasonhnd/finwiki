@@ -12,7 +12,7 @@ translated_at: 2026-05-30T14:48:27.664Z
 
 ## Wiki route
 
-This entry sits under [[loyalty/INDEX|loyalty index]] as the **frequent-flyer-program comparison page** for the two anchor Japanese airline loyalty programs. Pair it with [[loyalty/japan-points-landscape|Japan points landscape]] for cross-loyalty-ecosystem context, [[loyalty/point-liability-accounting-boundary|point liability accounting boundary]] for IFRS 15 contract-liability treatment, [[loyalty/ponta-points-deep-dive|Ponta points deep dive]] for the JAL Mileage Bank to Ponta Points bilateral-exchange relationship, [[loyalty/d-point-detailed-ecosystem|d Point detailed ecosystem]] and [[loyalty/v-point-smbc-ccc-case|V Point case]] for common-point peers that interconvert with airline miles, [[JapanFG/jal-card|JAL Card]] and [[JapanFG/jal-payment-port|JAL Payment Port]] for the JAL-side card-issuance and payment-infrastructure stack, and [[payments/japan-code-payment-operator-2025-market-share-matrix|Japan code-payment operator 2025 market share matrix]] for wallet-adjacent context.
+This entry sits under [[loyalty/INDEX|loyalty index]] as the **frequent-flyer-program comparison page** for the two anchor Japanese airline loyalty programs. Pair it with [[loyalty/japan-points-landscape|Japan points landscape]] for cross-loyalty-ecosystem context, [[loyalty/point-liability-accounting-boundary|point liability accounting boundary]] for IFRS 15 contract-liability treatment, [[loyalty/ponta-points-deep-dive|Ponta points deep dive]] for the JAL Mileage Bank to Ponta Points bilateral-exchange relationship, [[loyalty/d-point-detailed-ecosystem|d Point detailed ecosystem]] and [[loyalty/v-point-smbc-ccc-case|V Point case]] for common-point peers that interconvert with airline miles, [[card-issuers/jal-card|JAL Card]] and [[payment-firms/jal-payment-port|JAL Payment Port]] for the JAL-side card-issuance and payment-infrastructure stack, and [[payments/japan-code-payment-operator-2025-market-share-matrix|Japan code-payment operator 2025 market share matrix]] for wallet-adjacent context.
 
 ## TL;DR
 
@@ -22,14 +22,14 @@ This entry sits under [[loyalty/INDEX|loyalty index]] as the **frequent-flyer-pr
 
 | Item | JAL Mileage Bank (JMB) | ANA Mileage Club (AMC) |
 |---|---|---|
-| Operator | [[JapanFG/jal-card|Japan Airlines (JAL)]] | ANA Holdings / All Nippon Airways (ANA) |
+| Operator | [[card-issuers/jal-card|Japan Airlines (JAL)]] | ANA Holdings / All Nippon Airways (ANA) |
 | Alliance | **oneworld** (founding member) | **Star Alliance** (founding member) |
 | Mileage validity | 36 months from accrual month (legacy default) | 36 months from accrual month |
 | Status-tier metric | **FLY ON POINT (FOP)** based on flown revenue miles | **PREMIUM POINT (PP)** based on flown revenue miles |
 | Member base (Japan + global) | Tens of millions of accounts (combined JMB + JGC) | Tens of millions of accounts (combined AMC + SFC) |
 | Lifetime-status equivalent | **JAL Global Club (JGC)** — perpetual recognition tier obtained by meeting FOP threshold once and holding a JGC-eligible JAL Card | **Super Flyers Club (SFC)** — same model, perpetual recognition by meeting PP threshold once and holding an SFC-eligible ANA Card |
 | Premium status tier | **JMB Diamond** (top-tier annual qualifier; FOP threshold) | **AMC Diamond** (top-tier annual qualifier; PP threshold) |
-| Anchor co-branded card issuer | [[JapanFG/jal-card|JAL Card]], a wholly owned JAL subsidiary | ANA Card series, issued by partner card companies under JCB, Visa, Mastercard, Amex, and Diners co-brand arrangements |
+| Anchor co-branded card issuer | [[card-issuers/jal-card|JAL Card]], a wholly owned JAL subsidiary | ANA Card series, issued by partner card companies under JCB, Visa, Mastercard, Amex, and Diners co-brand arrangements |
 | Mileage program operator | JAL internal (no separate operating company) | ANA internal (no separate operating company) |
 
 The **JGC / SFC perpetual-status mechanism** is a Japanese FFP-specific feature: once a member meets the FOP / PP threshold in a single calendar year, they can apply for a JAL Global Club or Super Flyers Club credit card (the "lifetime ticket" pattern), and as long as they continue to hold that card and pay the annual fee, they retain a service tier (Sapphire / Gold equivalent) regardless of subsequent-year flight activity. This creates a structurally large "former-flyer" status-holder base that does not exist in the same scale at non-Japanese FFPs.
@@ -52,7 +52,7 @@ The materially larger volume of mile-issuance now comes from non-flight sources,
 
 | Non-flight source | JMB | AMC |
 |---|---|---|
-| **Co-branded card** | [[JapanFG/jal-card|JAL Card]] (JCB / VISA / Master / AmEx / Diners, all 5 international brands) | ANA Card series (JCB / VISA / Master / AmEx / Diners, partner-issued) |
+| **Co-branded card** | [[card-issuers/jal-card|JAL Card]] (JCB / VISA / Master / AmEx / Diners, all 5 international brands) | ANA Card series (JCB / VISA / Master / AmEx / Diners, partner-issued) |
 | **Card spend accrual** | Standard 0.5-1.0 miles per JPY 100 depending on card tier; the Shopping Mile Premium add-on doubles accrual to 1.0 mile per JPY 100 | Standard 0.5-1.0 miles per JPY 100; the optional 10-mile course doubles accrual |
 | **Premium card tier** | JAL Card CLUB-A Gold, JAL Card Platinum, JAL American Express Card CLUB-A Gold | ANA Wide Gold Card, ANA Card Premium, ANA American Express Premium Card |
 | **Common-point bilateral exchange** | **Ponta Points to JMB**, including 2 Ponta Points to 1 mile for the Ponta-to-mile direction; **d Point to JMB** and other historical partners | **Rakuten Points to AMC**, legacy **T-Point to AMC**, no standard direct Ponta-to-AMC route, and various partner-point conversions |
@@ -119,7 +119,7 @@ The **oneworld vs Star Alliance** allocation determines the cross-airline accrua
 | **Hotel** | JAL hotel chains + partner chains (Hilton, IHG, Marriott via mile conversion) | InterContinental Hotels Group, Hilton, Marriott |
 | **Car rental** | Hertz, Avis, etc. | Hertz, Avis, etc. |
 | **Common-point bilateral exchange** | **Ponta Points** as anchor, d Point, others | **Rakuten Points** as anchor, T-Point legacy, others |
-| **Co-branded card** | [[JapanFG/jal-card|JAL Card]] (5 international brands) | ANA Card series (5 international brands via partner issuers) |
+| **Co-branded card** | [[card-issuers/jal-card|JAL Card]] (5 international brands) | ANA Card series (5 international brands via partner issuers) |
 | **Department store / e-money** | JR-East ViewCard (limited), various retail | au PAY (limited), various retail |
 | **Charity donation** | JMB charity programs | AMC charity programs |
 
@@ -127,7 +127,7 @@ The **oneworld vs Star Alliance** allocation determines the cross-airline accrua
 
 | FFP | Anchor airline | Alliance | Member scale | Anchor common-point partner | Co-branded card |
 |---|---|---|---|---|---|
-| **JMB** | JAL | oneworld | Tens of millions | Ponta Points | [[JapanFG/jal-card|JAL Card]] |
+| **JMB** | JAL | oneworld | Tens of millions | Ponta Points | [[card-issuers/jal-card|JAL Card]] |
 | **AMC** | ANA | Star Alliance | Tens of millions | Rakuten Points as anchor, historic T-Point | ANA Card |
 | Skywards (Emirates) | Emirates | None (independent) | Global | None Japan | EK Emirates |
 | MileagePlus (UA) | United | Star Alliance | Global | None Japan | UA partner cards |
@@ -149,10 +149,10 @@ The structural strength of JMB and AMC relative to non-Japanese FFPs is the **Ja
 - [[loyalty/jre-point-and-jre-bank-ecosystem|JRE Point + JRE Bank ecosystem]]
 - [[loyalty/au-pay-loyalty-ecosystem-deep|au PAY loyalty ecosystem deep]]
 - [[loyalty/sb-yahoo-paypay-points-unified-ecosystem|SB / Yahoo / PayPay unified points]]
-- [[JapanFG/jal-card|JAL Card]]
-- [[JapanFG/jal-payment-port|JAL Payment Port]]
-- [[JapanFG/jr-east-financial|JR-East Financial Subsidiaries]]
-- [[JapanFG/au-fh|au Financial Holdings]]
+- [[card-issuers/jal-card|JAL Card]]
+- [[payment-firms/jal-payment-port|JAL Payment Port]]
+- [[card-issuers/jr-east-financial|JR-East Financial Subsidiaries]]
+- [[megabanks/au-fh|au Financial Holdings]]
 - [[retail/lawson-mitsubishi-corporation-tie-up-2024-deep|Lawson + Mitsubishi 2024 deep tie-up]]
 - [[payments/japan-code-payment-operator-2025-market-share-matrix|Japan code-payment operator 2025 market share matrix]]
 - [[INDEX|FinWiki index]]

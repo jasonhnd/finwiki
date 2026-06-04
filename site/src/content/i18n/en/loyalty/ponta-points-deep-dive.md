@@ -12,7 +12,7 @@ translated_at: 2026-05-30T14:48:27.669Z
 
 ## Wiki route
 
-This entry sits under [[loyalty/INDEX|loyalty index]] as the **deep operator page** for Ponta Points, pairing with [[loyalty/d-point-au-kddi-docomo-telco-point-consolidation|d Point / au (KDDI) telco-point consolidation case]] for the strategic framing of au PAY Points (the unified brand that absorbed Ponta on the wallet side in 2024-12), [[loyalty/v-point-smbc-ccc-case|V Point (SMBC x CCC) case]] for the bank-anchored contrast, [[loyalty/d-point-detailed-ecosystem|d Point detailed ecosystem]] for the telco-anchored peer, [[loyalty/japan-points-landscape|Japan points and loyalty landscape]] for the ecosystem map, [[loyalty/point-liability-accounting-boundary|point liability accounting boundary]] for the IFRS 15 treatment, [[payments/japan-code-payment-operator-2025-market-share-matrix|Japan code-payment operator 2025 market share matrix]] for the wallet-layer overlay, [[JapanFG/au-fh|au Financial Holdings]] for the parent financial-holding structure, and [[retail/lawson-mitsubishi-corporation-tie-up-2024-deep|Lawson + Mitsubishi 2024 deep tie-up]] for the most contested retail-anchor surface.
+This entry sits under [[loyalty/INDEX|loyalty index]] as the **deep operator page** for Ponta Points, pairing with [[loyalty/d-point-au-kddi-docomo-telco-point-consolidation|d Point / au (KDDI) telco-point consolidation case]] for the strategic framing of au PAY Points (the unified brand that absorbed Ponta on the wallet side in 2024-12), [[loyalty/v-point-smbc-ccc-case|V Point (SMBC x CCC) case]] for the bank-anchored contrast, [[loyalty/d-point-detailed-ecosystem|d Point detailed ecosystem]] for the telco-anchored peer, [[loyalty/japan-points-landscape|Japan points and loyalty landscape]] for the ecosystem map, [[loyalty/point-liability-accounting-boundary|point liability accounting boundary]] for the IFRS 15 treatment, [[payments/japan-code-payment-operator-2025-market-share-matrix|Japan code-payment operator 2025 market share matrix]] for the wallet-layer overlay, [[megabanks/au-fh|au Financial Holdings]] for the parent financial-holding structure, and [[retail/lawson-mitsubishi-corporation-tie-up-2024-deep|Lawson + Mitsubishi 2024 deep tie-up]] for the most contested retail-anchor surface.
 
 ## TL;DR
 
@@ -120,14 +120,14 @@ This exchange relationship is one of the most mature in Japan, predating the com
 - [[loyalty/sb-yahoo-paypay-points-unified-ecosystem|SB/Yahoo/PayPay unified points]]
 - [[loyalty/japan-points-landscape|Japan points and loyalty landscape]]
 - [[loyalty/point-liability-accounting-boundary|point liability accounting boundary]]
-- [[JapanFG/au-fh|au Financial Holdings]]
-- [[JapanFG/au-payment|au Payment]]
-- [[JapanFG/au-insurance|au Insurance]]
-- [[JapanFG/ndfg|NDFG]]
-- [[JapanFG/paypay|PayPay]]
-- [[JapanFG/paypay-fg|PayPay FG]]
-- [[JapanFG/smfg|SMFG]]
-- [[JapanFG/rakuten-fg|Rakuten FG]]
+- [[megabanks/au-fh|au Financial Holdings]]
+- [[payment-firms/au-payment|au Payment]]
+- [[non-life-insurers/au-insurance|au Insurance]]
+- [[megabanks/ndfg|NDFG]]
+- [[payment-firms/paypay|PayPay]]
+- [[megabanks/paypay-fg|PayPay FG]]
+- [[megabanks/smfg|SMFG]]
+- [[payment-firms/rakuten-fg|Rakuten FG]]
 - [[payments/japan-code-payment-operator-2025-market-share-matrix|Japan code-payment operator 2025 market share matrix]]
 - [[payments/japan-code-payment-competitive-map|Japan code-payment competitive map]]
 - [[retail/lawson-mitsubishi-corporation-tie-up-2024-deep|Lawson + Mitsubishi 2024 deep tie-up]]

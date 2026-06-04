@@ -42,7 +42,7 @@ translated_at: 2026-06-01T03:31:12.316Z
 
 协会出版的材料是主要的公开来源：
 
-- **本地债券市场结构**如[[policy-finance/local-government-bond-market|local government bond market]]和[[JapanFG/local-bond-market|JapanFG local-bond market]]所述。
+- **本地债券市场结构**如[[policy-finance/local-government-bond-market|local government bond market]]和[[financial-regulators/local-bond-market|JapanFG local-bond market]]所述。
 - **联合地方政府债券机制**，包括连带责任结构和定价。
 - **发行人类型细分**（都道府县/指定城市/普通城市/镇/村）。
 - **统计汇总**与 [[policy-finance/japan-finance-organization-municipalities|JFM]] 贷款数据和 MoF FILP 统计数据配对。
@@ -53,7 +53,7 @@ translated_at: 2026-06-01T03:31:12.316Z
 
 |层|角色 | FinWiki 路线 |
 |---|---|---|
-|发行人 |都道府县、指定市、直辖市 | [[JapanFG/local-govt-finance]] |
+|发行人 |都道府县、指定市、直辖市 | [[financial-regulators/local-govt-finance]] |
 |发行安排人/承销商|大型银行、区域银行、证券公司 |银行/证券公司页面|
 |公共信贷机构| [[policy-finance/japan-finance-organization-municipalities|JFM]]，FILP |公共信用机构页面 |
 |行业协会/文档|日本地方政府债券协会|本页|
@@ -78,9 +78,9 @@ translated_at: 2026-06-01T03:31:12.316Z
 - [[policy-finance/japan-policy-finance-system]]
 - [[policy-finance/local-government-bond-market]]
 - [[policy-finance/japan-finance-organization-municipalities]]
-- [[JapanFG/local-bond-market]]
-- [[JapanFG/local-govt-finance]]
-- [[JapanFG/jfc]]
+- [[financial-regulators/local-bond-market]]
+- [[financial-regulators/local-govt-finance]]
+- [[financial-regulators/jfc]]
 - [[money-market/INDEX]]
 - [[INDEX|FinWiki index]]
 

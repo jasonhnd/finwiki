@@ -1,0 +1,97 @@
+{
+  "schema_version": "1.0",
+  "slug": "regional-banks/concordia-fg",
+  "source_path": "regional-banks/concordia-fg.md",
+  "url": "https://finwiki.zksc.io/regional-banks/concordia-fg",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/regional-banks/concordia-fg.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/regional-banks/concordia-fg.md",
+  "domain": "regional-banks",
+  "title": "横浜フィナンシャルグループ（旧 コンコルディア・フィナンシャルグループ）",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "横浜フィナンシャルグループ（旧 コンコルディア・フィナンシャルグループ）",
+    "aliases": [
+      "横浜フィナンシャルグループ",
+      "横浜 FG",
+      "Yokohama Financial Group",
+      "YFG",
+      "Concordia FG",
+      "Concordia Financial Group",
+      "コンコルディア FG",
+      "コンコルディア・フィナンシャルグループ",
+      "CFG"
+    ],
+    "domain": "regional-banks",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
+    "review_by": "2026-11-15",
+    "confidence": "certain",
+    "tags": [
+      "JapanFG",
+      "regional-bank"
+    ],
+    "status": "active",
+    "sources": [
+      "横浜 FG 公式 IR (yokohamafg.co.jp, 旧 concordia-fg.jp は 301 リダイレクト)",
+      "コンコルディア FG 2025-03 期 決算短信 (2025-05-12)",
+      "横浜 FG 2026-03 期 Q2 中間決算短信 (2025-11-13)",
+      "日本経済新聞・ニッキン ONLINE・カナロコ（2025-01〜2025-10 商号変更報道）",
+      "TSUBASA アライアンス公式 (tsubasa-al.co.jp, 2025-03 末 10 行体制確認)",
+      "Wikipedia: 横浜フィナンシャルグループ / 横浜銀行 / 東日本銀行 (2026-05-19 抽出)",
+      "横浜 FG 公式 IR「株式の状況」大株主 (2026-03-31 基準): https://www.yokohamafg.co.jp/shareholder/stock/fact/index.html"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against ふくおか FG (FFG) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "横浜フィナンシャルグループ（旧 コンコルディア・フィナンシャルグループ）",
+    "Wiki route",
+    "TL;DR",
+    "1. 会社概要",
+    "2025-03 期決算（FY2024 通期 連結実績）^[extracted]",
+    "2026-03 期見通し（FY2025 通期 連結予想 / 2025-11-13 開示）^[extracted]",
+    "主要株主（大株主 上位 10、2026-03-31 基準）^[extracted]",
+    "主要子会社・組織",
+    "合併歴史・前身",
+    "重要年表（抜粋）^[extracted]"
+  ],
+  "body_links": {
+    "wikilinks_count": 12,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "banking/INDEX",
+      "fukuoka-fg",
+      "mizuho-fg",
+      "mufg",
+      "paypay-fg",
+      "rakuten-fg",
+      "regional-banks/fukuoka-fg",
+      "resona-hd",
+      "sbi-hd",
+      "smfg",
+      "sumitomo-mitsui-trust"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/fukuoka-fg",
+      "https://finwiki.zksc.io/mizuho-fg",
+      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/paypay-fg",
+      "https://finwiki.zksc.io/rakuten-fg",
+      "https://finwiki.zksc.io/regional-banks/fukuoka-fg",
+      "https://finwiki.zksc.io/resona-hd",
+      "https://finwiki.zksc.io/sbi-hd",
+      "https://finwiki.zksc.io/smfg",
+      "https://finwiki.zksc.io/sumitomo-mitsui-trust"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 7611,
+    "word_like_tokens": 1352,
+    "inbound_wikilinks_count": 7,
+    "last_modified": "2026-06-04"
+  }
+}

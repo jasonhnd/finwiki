@@ -1,0 +1,92 @@
+{
+  "schema_version": "1.0",
+  "slug": "consumer-finance/acom",
+  "source_path": "consumer-finance/acom.md",
+  "url": "https://finwiki.zksc.io/consumer-finance/acom",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/consumer-finance/acom.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/consumer-finance/acom.md",
+  "domain": "consumer-finance",
+  "title": "アコム株式会社 (Acom)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "アコム株式会社 (Acom)",
+    "aliases": [
+      "Acom",
+      "アコム",
+      "ACOM",
+      "アコム株式会社",
+      "Acom Co.",
+      "Ltd.",
+      "丸糸呉服店"
+    ],
+    "domain": "consumer-finance",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "consumer-finance"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: アコム株式会社 (公開情報, 2026-05-19 参照)",
+      "Acom 公式 IR 開示資料 (公開分・東証 STD 8572)",
+      "MUFG 第 20 期 (2025-03 期) 有価証券報告書 (公開分)",
+      "Wikipedia: グレーゾーン金利 / 改正貸金業法 (公開情報)"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 株式会社ジャックス (Jaccs) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "アコム株式会社 (Acom)",
+    "Wiki route",
+    "TL;DR",
+    "1. 会社概要",
+    "業態カテゴリ・3 大消費者金融",
+    "主要グループ会社",
+    "MUFG との資本関係",
+    "2. 事業セグメント・マップ",
+    "自動契約機「むじんくん」",
+    "Easy Buy PCL（タイ Easy Buy）★"
+  ],
+  "body_links": {
+    "wikilinks_count": 12,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "aiful",
+      "banking/INDEX",
+      "card-issuers/jaccs",
+      "credit-saison",
+      "jaccs",
+      "mufg",
+      "orico",
+      "paypay-fg",
+      "rakuten-fg",
+      "sbi-shinsei-bank",
+      "smfg"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/aiful",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/card-issuers/jaccs",
+      "https://finwiki.zksc.io/credit-saison",
+      "https://finwiki.zksc.io/jaccs",
+      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/orico",
+      "https://finwiki.zksc.io/paypay-fg",
+      "https://finwiki.zksc.io/rakuten-fg",
+      "https://finwiki.zksc.io/sbi-shinsei-bank",
+      "https://finwiki.zksc.io/smfg"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 5887,
+    "word_like_tokens": 1024,
+    "inbound_wikilinks_count": 13,
+    "last_modified": "2026-06-04"
+  }
+}

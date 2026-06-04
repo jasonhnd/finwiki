@@ -12,7 +12,7 @@ translated_at: 2026-06-01T04:15:40.158Z
 
 ## Wiki route
 
-本条目位于 [[securities/INDEX|securities index]] 之下。请结合 [[securities/financial-instruments-business-operators-japan-index|financial instruments business operators japan index]] 阅读相邻背景，并结合 [[JapanFG/legal-financial-licenses/INDEX|JapanFG index]] 理解更广泛的系统边界。
+本条目位于 [[securities/INDEX|securities index]] 之下。请结合 [[securities/financial-instruments-business-operators-japan-index|financial instruments business operators japan index]] 阅读相邻背景，并结合 [[financial-licenses/INDEX|JapanFG index]] 理解更广泛的系统边界。
 
 ## TL;DR
 
@@ -43,19 +43,19 @@ Japannext Securities 运营 Japannext PTS，这是面向日本股票的专有交
 
 Japannext 重要，是因为它检验日本股票执行究竟是单一交易所世界，还是路由化市场。关注：
 
-- 零售券商 SOR 采用情况（例如路由至 [[JapanFG/rakuten-securities|Rakuten Securities]] / [[JapanFG/sbi-securities|SBI 証券]]）；
+- 零售券商 SOR 采用情况（例如路由至 [[securities-firms/rakuten-securities|Rakuten Securities]] / [[securities-firms/sbi-securities|SBI 証券]]）；
 - 最佳执行政策修订（[[securities/financial-instruments-business-operators-japan-index|FIBO index]] 跟踪注册运营商）；
 - 价差 / tick size 差异；
 - 夜间流动性；
-- 与 [[JapanFG/sbi-hd|SBI HD]] / Cboe 相关市场结构的所有权和战略一致性（同业交易场所为 [[securities/osaka-digital-exchange|ODX]]，母公司为 [[securities/tokyo-stock-exchange|TSE]]）。
+- 与 [[megabanks/sbi-hd|SBI HD]] / Cboe 相关市场结构的所有权和战略一致性（同业交易场所为 [[securities/osaka-digital-exchange|ODX]]，母公司为 [[securities/tokyo-stock-exchange|TSE]]）。
 
 ## Related
 
 - [[securities/tokyo-stock-exchange]]
 - [[securities/osaka-digital-exchange]]
-- [[JapanFG/sbi-hd]]
-- [[JapanFG/rakuten-securities]]
-- [[JapanFG/japan-securities-finance]]
+- [[megabanks/sbi-hd]]
+- [[securities-firms/rakuten-securities]]
+- [[financial-regulators/japan-securities-finance]]
 - [[securities/nisa-2024-flow]]
 
 ## Sources

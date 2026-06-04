@@ -24,7 +24,7 @@ This registry index captures the FSA public license list for Japan's shinkin-ban
 | Item | Value |
 | --- | --- |
 | FSA as-of date | 2025-11-06 (Reiwa 7-11-06) |
-| Central institution | [[JapanFG/shinkin-central]] |
+| Central institution | [[cooperative-banks/shinkin-central]] |
 | Central rows in workbook | 1 |
 | Licensed shinkin banks | 254 |
 | Legal / institutional route | Shinkin Bank Act |
@@ -34,7 +34,7 @@ This registry index captures the FSA public license list for Japan's shinkin-ban
 
 - Closes the official shinkin-bank population at index level without creating 254 low-signal standalone pages.
 - Provides a complete name-level route for cooperative regional finance, local SME lending, and central-institution analysis.
-- Keeps [[JapanFG/shinkin-central|Shinkin Central Bank]] as the systemically material entity page while routing long-tail institutions through this index.
+- Keeps [[cooperative-banks/shinkin-central|Shinkin Central Bank]] as the systemically material entity page while routing long-tail institutions through this index.
 - Corporate numbers and head-office addresses are public registry fields; representative phone numbers remain in the source workbook and are omitted here to keep the index scannable.
 
 ## 3. Supervisory-bureau count
@@ -420,8 +420,8 @@ This registry index captures the FSA public license list for Japan's shinkin-ban
 
 - [[banking/cooperative-banking-japan]]
 - [[banking/regional-bank-consolidation-pattern]]
-- [[JapanFG/shinkin-central|信金中央金庫]]
-- [[JapanFG/missing-financial-institutions-backlog]]
+- [[cooperative-banks/shinkin-central|信金中央金庫]]
+- [[financial-regulators/missing-financial-institutions-backlog]]
 - [[banking/INDEX]]
 
 ## Sources

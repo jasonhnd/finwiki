@@ -12,11 +12,11 @@ translated_at: 2026-06-01T03:31:12.317Z
 
 ## Wiki route
 
-This entry sits under [[policy-finance/INDEX|policy-finance index]] as the ODA-implementation node of the Japanese state-finance system. Read it against [[JapanFG/jbic|国際協力銀行 (JBIC)]] for the export-credit / overseas-investment counterpart on the same overseas perimeter; with [[policy-finance/jbic-overseas-investment-underwriting-process|JBIC overseas-investment underwriting process]] for the lender-side flow on the commercial-grade lane that JICA's ODA loan operations sit beside; with [[policy-finance/nexi|NEXI]] for political-risk insurance on the commercial slice; with [[policy-finance/jogmec|JOGMEC]] for resource-security upstream equity that ODA-grade development projects sometimes precede; with [[policy-finance/japan-policy-finance-system|Japan policy finance system]] for the wider toolkit; with [[policy-finance/japan-policy-finance-institution-mandate-matrix|Japan policy-finance institution mandate matrix]] for the nine-institution comparison axis; with [[policy-finance/japan-eximbank-history|Japan Eximbank history]] for the 2008 reorganization where旧 JBIC's ODA wing migrated into JICA; with [[policy-finance/oecd-export-credit-arrangement|OECD Export Credit Arrangement]] for the boundary line on the commercial side that JICA explicitly does not sit inside; and with [[trade/jetro-vs-nexi-vs-jbic-comparison|JETRO vs NEXI vs JBIC]] for the trade-promotion / insurance / financing three-pillar comparison that ODA finance sits outside of.
+This entry sits under [[policy-finance/INDEX|policy-finance index]] as the ODA-implementation node of the Japanese state-finance system. Read it against [[financial-regulators/jbic|国際協力銀行 (JBIC)]] for the export-credit / overseas-investment counterpart on the same overseas perimeter; with [[policy-finance/jbic-overseas-investment-underwriting-process|JBIC overseas-investment underwriting process]] for the lender-side flow on the commercial-grade lane that JICA's ODA loan operations sit beside; with [[policy-finance/nexi|NEXI]] for political-risk insurance on the commercial slice; with [[policy-finance/jogmec|JOGMEC]] for resource-security upstream equity that ODA-grade development projects sometimes precede; with [[policy-finance/japan-policy-finance-system|Japan policy finance system]] for the wider toolkit; with [[policy-finance/japan-policy-finance-institution-mandate-matrix|Japan policy-finance institution mandate matrix]] for the nine-institution comparison axis; with [[policy-finance/japan-eximbank-history|Japan Eximbank history]] for the 2008 reorganization where旧 JBIC's ODA wing migrated into JICA; with [[policy-finance/oecd-export-credit-arrangement|OECD Export Credit Arrangement]] for the boundary line on the commercial side that JICA explicitly does not sit inside; and with [[trade/jetro-vs-nexi-vs-jbic-comparison|JETRO vs NEXI vs JBIC]] for the trade-promotion / insurance / financing three-pillar comparison that ODA finance sits outside of.
 
 ## TL;DR
 
-JICA (独立行政法人国際協力機構) is Japan's primary ODA implementation agency, MOFA-supervised (外務大臣 主管 + 財務省 / METI / MOFA coordination on loan terms), formed in its current shape in 2008-10 when the旧 JBIC ODA wing (OECF-lineage 円借款) was merged into the prior JICA (the technical-cooperation / grant-aid agency). The institution now runs three statutory product lanes — **ODA loans (有償資金協力 / 円借款)**, **technical cooperation (技術協力)**, and **grant aid (無償資金協力)** — plus a smaller fourth lane, **Private Sector Investment Finance (PSIF / 海外投融資)**, that competes with [[JapanFG/jbic|JBIC]] in a narrow segment of ODA-eligible private-sector projects. The capital structure is government-funded: an Incorporated Administrative Agency (独立行政法人) with capital injections from the General Account and FILP (財政投融資) funding for the loan portfolio. Loan terms are concessional by construction — long tenor (typically 30 years or longer), grace periods, low coupons (sub-1% in many cases), denominated in JPY or USD — distinguishing them sharply from JBIC's market-rate or OECD-Arrangement-MPR commercial-grade overseas lending. The DAC reporting boundary is the key analytic discriminator: JICA's loans count as ODA under OECD-DAC criteria; JBIC's loans generally do not. Recent (2022-2025) policy direction has rotated toward **economic-security framing** — friend-shoring infrastructure in ASEAN / Indo-Pacific, supply-chain-resilience grants, hydrogen / decarbonization technical cooperation, and selective expansion of PSIF as the bridge between ODA and Japanese-corporate overseas investment — alongside the 2023 ODA Charter revision that codifies "Offer-type ODA" (proactive Japan-led project formation).
+JICA (独立行政法人国際協力機構) is Japan's primary ODA implementation agency, MOFA-supervised (外務大臣 主管 + 財務省 / METI / MOFA coordination on loan terms), formed in its current shape in 2008-10 when the旧 JBIC ODA wing (OECF-lineage 円借款) was merged into the prior JICA (the technical-cooperation / grant-aid agency). The institution now runs three statutory product lanes — **ODA loans (有償資金協力 / 円借款)**, **technical cooperation (技術協力)**, and **grant aid (無償資金協力)** — plus a smaller fourth lane, **Private Sector Investment Finance (PSIF / 海外投融資)**, that competes with [[financial-regulators/jbic|JBIC]] in a narrow segment of ODA-eligible private-sector projects. The capital structure is government-funded: an Incorporated Administrative Agency (独立行政法人) with capital injections from the General Account and FILP (財政投融資) funding for the loan portfolio. Loan terms are concessional by construction — long tenor (typically 30 years or longer), grace periods, low coupons (sub-1% in many cases), denominated in JPY or USD — distinguishing them sharply from JBIC's market-rate or OECD-Arrangement-MPR commercial-grade overseas lending. The DAC reporting boundary is the key analytic discriminator: JICA's loans count as ODA under OECD-DAC criteria; JBIC's loans generally do not. Recent (2022-2025) policy direction has rotated toward **economic-security framing** — friend-shoring infrastructure in ASEAN / Indo-Pacific, supply-chain-resilience grants, hydrogen / decarbonization technical cooperation, and selective expansion of PSIF as the bridge between ODA and Japanese-corporate overseas investment — alongside the 2023 ODA Charter revision that codifies "Offer-type ODA" (proactive Japan-led project formation).
 
 ## 1. Institutional structure
 
@@ -40,7 +40,7 @@ The legal form (独立行政法人) is structurally important. JICA is **not** a
 ### 1.1 What JICA does — and what it does not
 
 - **Does**: implement Japan's ODA across loans, grants, technical cooperation, and PSIF; dispatch experts and JOCV volunteers; conduct country-program planning with MOFA; coordinate with multilaterals (World Bank, ADB, IDB, AfDB) on co-financing; run domestic training programs that bring foreign trainees to Japan.
-- **Does not**: write commercial-grade overseas project finance (that is [[JapanFG/jbic|JBIC]] territory); insure political risk (that is [[policy-finance/nexi|NEXI]]); take resource-upstream equity (that is [[policy-finance/jogmec|JOGMEC]]); set Japan's ODA policy or country allocation (that is MOFA / Cabinet); manage the Diplomatic Bluebook or sanctions list (MOFA).
+- **Does not**: write commercial-grade overseas project finance (that is [[financial-regulators/jbic|JBIC]] territory); insure political risk (that is [[policy-finance/nexi|NEXI]]); take resource-upstream equity (that is [[policy-finance/jogmec|JOGMEC]]); set Japan's ODA policy or country allocation (that is MOFA / Cabinet); manage the Diplomatic Bluebook or sanctions list (MOFA).
 
 The JICA / JBIC boundary is the most-asked institutional question on the Japanese overseas-finance stack. The short answer: **JICA = ODA = concessional, MOFA-policy-led, DAC-reportable. JBIC = commercial-grade, MoF-policy-led, OECD-Arrangement-following, not DAC-reportable.** A single overseas infrastructure project may have a JICA-financed ODA loan component (public infrastructure, capacity building) alongside a JBIC OIL component (Japanese-affiliated SPV equity-injection finance) and a NEXI cover layer (political-risk insurance on the megabank tranche). The two finance lanes have different documentation, governance, and fiscal posture; JICA's project decisions treat the commercial JBIC tranche as exogenous and vice versa.
 
@@ -74,7 +74,7 @@ Project grants and program grants delivered through MOFA-led country allocation 
 
 ### 2.5 Private Sector Investment Finance (PSIF / 海外投融資)
 
-PSIF is the narrow JICA lane that overlaps with [[JapanFG/jbic|JBIC]]'s territory: concessional or near-market finance to Japanese-affiliated overseas private-sector projects in DAC-list countries where commercial finance gaps exist. The product menu includes:
+PSIF is the narrow JICA lane that overlaps with [[financial-regulators/jbic|JBIC]]'s territory: concessional or near-market finance to Japanese-affiliated overseas private-sector projects in DAC-list countries where commercial finance gaps exist. The product menu includes:
 
 - **Equity participation** in overseas SPVs with Japanese-corporate sponsors and development-impact framing.
 - **Loans** at concessional or near-market terms to overseas SPVs / Japanese-sponsored private-sector projects.
@@ -122,7 +122,7 @@ JICA does not have a single dedicated operating-mechanics sibling page in FinWik
 
 ### Comparison axes vs JBIC (the closest peer)
 
-| Axis | JICA | [[JapanFG/jbic\|JBIC]] |
+| Axis | JICA | [[financial-regulators/jbic\|JBIC]] |
 |---|---|---|
 | Supervising minister | MOFA (外務大臣) | MoF (財務大臣) |
 | Legal form | 独立行政法人 | 特殊会社 (株式会社) |
@@ -132,7 +132,7 @@ JICA does not have a single dedicated operating-mechanics sibling page in FinWik
 | DAC ODA reporting | Yes (counts as ODA) | No (commercial-grade) |
 | OECD Arrangement applicability | Outside (ODA is excluded) | Yes (Arrangement-compliant) |
 | Primary counterparty | Sovereign / sovereign-adjacent | Japanese-affiliated SPV / foreign buyer / foreign sovereign for untied loans |
-| Co-financing partners | World Bank / ADB / IDB / AfDB / bilateral DFIs | Megabanks ([[JapanFG/mufg\|MUFG]] / [[JapanFG/smfg\|SMFG]] / [[JapanFG/mizuho-fg\|Mizuho FG]]) + peer ECAs |
+| Co-financing partners | World Bank / ADB / IDB / AfDB / bilateral DFIs | Megabanks ([[megabanks/mufg\|MUFG]] / [[megabanks/smfg\|SMFG]] / [[megabanks/mizuho-fg\|Mizuho FG]]) + peer ECAs |
 | Geographic perimeter | ~150 DAC-list countries | Cross-border, including HIC for OIL / equity |
 | Typical sector | Public infrastructure, health, education, water, agriculture | Energy, resources, plants, transport, semiconductors, M&A finance |
 
@@ -157,7 +157,7 @@ The two institutions are designed to be non-substitutes. A project that fits one
 
 ## Related
 
-- [[JapanFG/jbic]]
+- [[financial-regulators/jbic]]
 - [[policy-finance/jbic-overseas-investment-underwriting-process]]
 - [[policy-finance/nexi]]
 - [[policy-finance/nexi-export-credit-insurance-products]]

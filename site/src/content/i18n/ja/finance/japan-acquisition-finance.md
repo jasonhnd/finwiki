@@ -54,7 +54,7 @@ translated_at: 2026-06-02T13:21:55.074Z
 | 担保エージェント | レンダーのために誰が担保を保有するか。 |
 | ヘッジ提供者 | 誰が金利 / 為替ヘッジを提供するか。 |
 
-日本のアンカーには、[[JapanFG/mufg-bank|MUFG Bank]]、[[JapanFG/mizuho-bank|Mizuho Bank]]、[[JapanFG/sumitomo-mitsui-banking-corp|SMBC]]、[[JapanFG/smtb|SMTB]]、[[JapanFG/dbj|DBJ]]、[[JapanFG/nomura-hd|Nomura]]、[[JapanFG/daiwa-sg|Daiwa Securities Group]]、[[JapanFG/jpmorgan-japan|J.P. Morgan Japan]]、[[JapanFG/goldman-sachs-japan|Goldman Sachs Japan]]、[[JapanFG/morgan-stanley-japan|Morgan Stanley Japan]] が含まれる。
+日本のアンカーには、[[megabanks/mufg-bank|MUFG Bank]]、[[megabanks/mizuho-bank|Mizuho Bank]]、[[megabanks/sumitomo-mitsui-banking-corp|SMBC]]、[[trust-banks/smtb|SMTB]]、[[financial-regulators/dbj|DBJ]]、[[securities-firms/nomura-hd|Nomura]]、[[securities-firms/daiwa-sg|Daiwa Securities Group]]、[[foreign-financial-institutions/jpmorgan-japan|J.P. Morgan Japan]]、[[securities-firms/goldman-sachs-japan|Goldman Sachs Japan]]、[[securities-firms/morgan-stanley-japan|Morgan Stanley Japan]] が含まれる。
 
 ## TOB / 公開開示インターフェース
 
@@ -103,9 +103,9 @@ translated_at: 2026-06-02T13:21:55.074Z
 - [[finance/japan-ib-league-table]]
 - [[banking/post-megabank-positioning]]
 - [[securities/japan-underwriting-market-structure]]
-- [[JapanFG/mufg-bank]]
-- [[JapanFG/mizuho-bank]]
-- [[JapanFG/sumitomo-mitsui-banking-corp]]
+- [[megabanks/mufg-bank]]
+- [[megabanks/mizuho-bank]]
+- [[megabanks/sumitomo-mitsui-banking-corp]]
 - [[INDEX|FinWiki index]]
 
 ## 出典

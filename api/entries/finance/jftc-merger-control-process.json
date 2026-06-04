@@ -59,7 +59,6 @@
     "wikilinks_count": 12,
     "wikilinks": [
       "INDEX",
-      "JapanFG/legal-financial-licenses/securities-license-stack",
       "finance/INDEX",
       "finance/cross-border-m-a-japan",
       "finance/japan-acquisition-finance",
@@ -69,11 +68,11 @@
       "finance/japan-leveraged-buyout-economics",
       "finance/japan-mbo-and-squeeze-out-process",
       "finance/japan-takeover-defense-poison-pill",
-      "finance/japan-tender-offer-process"
+      "finance/japan-tender-offer-process",
+      "financial-licenses/securities-license-stack"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/securities-license-stack",
       "https://finwiki.zksc.io/finance/INDEX",
       "https://finwiki.zksc.io/finance/cross-border-m-a-japan",
       "https://finwiki.zksc.io/finance/japan-acquisition-finance",
@@ -83,15 +82,16 @@
       "https://finwiki.zksc.io/finance/japan-leveraged-buyout-economics",
       "https://finwiki.zksc.io/finance/japan-mbo-and-squeeze-out-process",
       "https://finwiki.zksc.io/finance/japan-takeover-defense-poison-pill",
-      "https://finwiki.zksc.io/finance/japan-tender-offer-process"
+      "https://finwiki.zksc.io/finance/japan-tender-offer-process",
+      "https://finwiki.zksc.io/financial-licenses/securities-license-stack"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5918,
-    "word_like_tokens": 924,
+    "nonspace_chars": 5876,
+    "word_like_tokens": 918,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-06-04"
   }
 }

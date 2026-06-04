@@ -30,7 +30,7 @@ This entry sits under [[insurance/INDEX|insurance index]]. Read it against [[ins
 
 ## TL;DR
 
-Japan's non-life insurers operate in one of the world's major natural-catastrophe markets: earthquake, typhoon, flood, storm surge, and volcanic risk all matter. Natural-catastrophe reinsurance is therefore not a back-office technicality; it is a core balance-sheet and pricing mechanism for [[JapanFG/tokio-marine]], [[JapanFG/msad]], [[JapanFG/sompo]], and specialist or regional non-life insurers.
+Japan's non-life insurers operate in one of the world's major natural-catastrophe markets: earthquake, typhoon, flood, storm surge, and volcanic risk all matter. Natural-catastrophe reinsurance is therefore not a back-office technicality; it is a core balance-sheet and pricing mechanism for [[non-life-insurers/tokio-marine]], [[non-life-insurers/msad]], [[non-life-insurers/sompo]], and specialist or regional non-life insurers.
 
 Household earthquake insurance has a public-private structure: private non-life insurers and the government share risk through the earthquake reinsurance system, with Japanese Earthquake Reinsurance as the specialist reinsurance institution.
 
@@ -56,8 +56,8 @@ For analysis, separate:
 
 ## JapanFG Relevance
 
-- [[JapanFG/tokio-marine]], [[JapanFG/msad]], and [[JapanFG/sompo]] are the listed large non-life groups where catastrophe losses, reinsurance renewals, and rate revisions affect earnings.
-- [[JapanFG/daido-fire-marine]] and [[JapanFG/kyoritsu-fire-marine]] matter as non-life insurers with more specific regional / sector positioning.
+- [[non-life-insurers/tokio-marine]], [[non-life-insurers/msad]], and [[non-life-insurers/sompo]] are the listed large non-life groups where catastrophe losses, reinsurance renewals, and rate revisions affect earnings.
+- [[non-life-insurers/daido-fire-marine]] and [[non-life-insurers/kyoritsu-fire-marine]] matter as non-life insurers with more specific regional / sector positioning.
 - [[insurance/saison-automobile-fire|SOMPO Direct / former Saison Automobile & Fire]] is a direct non-life distribution case; its risk is still under non-life insurance and reinsurance logic even when sales are digital.
 - [[insurance/economic-value-based-solvency]] and [[insurance/esr-economic-value-solvency|ESR]] should be used when translating catastrophe risk into capital adequacy.
 
@@ -75,10 +75,10 @@ Use this page when asking:
 - [[insurance/INDEX|insurance INDEX]]
 - [[insurance/saison-automobile-fire]]
 - [[insurance/economic-value-based-solvency]]
-- [[JapanFG/tokio-marine]]
-- [[JapanFG/msad]]
-- [[JapanFG/sompo]]
-- [[JapanFG/legal-financial-licenses/INDEX]]
+- [[non-life-insurers/tokio-marine]]
+- [[non-life-insurers/msad]]
+- [[non-life-insurers/sompo]]
+- [[financial-licenses/INDEX]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

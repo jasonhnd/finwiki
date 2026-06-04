@@ -14,7 +14,7 @@ translated_at: 2026-06-01T04:15:40.130Z
 
 日本的股票借贷是一条市场基础设施路径，连接托管人、机构投资者、经纪商、证券金融公司、保证金交易、卖空、抵押品、清算、结算和公司行动。在将其分析为看跌信号之前，应先将其作为基础管道来分析。
 
-请将本页与 [[securities/INDEX|securities domain]]、[[securities/japan-short-selling-and-stock-loan-controls|short-selling and stock-loan controls]]、[[securities/japan-margin-trading-and-securities-finance|margin trading and securities finance]]、[[securities/japan-prime-brokerage-and-institutional-financing|prime brokerage and institutional financing]]、[[JapanFG/japan-securities-finance|Japan Securities Finance]]、[[banking/japan-trust-bank-custody-map|trust-bank custody map]]、[[securities/japan-market-infrastructure-map|market infrastructure map]] 和 [[money-market/jgb-repo-market-japan|JGB repo market]] 一起使用。
+请将本页与 [[securities/INDEX|securities domain]]、[[securities/japan-short-selling-and-stock-loan-controls|short-selling and stock-loan controls]]、[[securities/japan-margin-trading-and-securities-finance|margin trading and securities finance]]、[[securities/japan-prime-brokerage-and-institutional-financing|prime brokerage and institutional financing]]、[[financial-regulators/japan-securities-finance|Japan Securities Finance]]、[[banking/japan-trust-bank-custody-map|trust-bank custody map]]、[[securities/japan-market-infrastructure-map|market infrastructure map]] 和 [[money-market/jgb-repo-market-japan|JGB repo market]] 一起使用。
 
 ## Route Map
 
@@ -23,7 +23,7 @@ translated_at: 2026-06-01T04:15:40.130Z
 | 资产所有人 | 在经济上拥有证券，通常通过养老金、投资信托、保险公司或机构账户持有。 |
 | 托管人 / 信托银行 | 持有证券、处理公司行动，并可按指令支持证券借贷计划。 |
 | 经纪商 / 证券公司 | 为客户保证金、做市、对冲、结算补仓或类似 prime-brokerage 的需求借入证券。 |
-| [[JapanFG/japan-securities-finance|Japan Securities Finance]] | 向证券公司提供资金和证券，用于标准化保证金交易及更广泛的证券金融活动。 |
+| [[financial-regulators/japan-securities-finance|Japan Securities Finance]] | 向证券公司提供资金和证券，用于标准化保证金交易及更广泛的证券金融活动。 |
 | 清算 / 存管 | [[securities/japan-securities-clearing-corp|JSCC]] 和 [[securities/japan-securities-depository-center|JASDEC]] 支持交易后结算管道。 |
 | 抵押品提供方 | 根据借贷协议和市场惯例提供现金或证券抵押品。 |
 
@@ -54,10 +54,10 @@ translated_at: 2026-06-01T04:15:40.130Z
 
 ## JapanFG Relevance
 
-- [[JapanFG/custody-bank|Custody Bank of Japan]] 和 [[JapanFG/master-trust-bank|Master Trust Bank of Japan]] 作为国内资产管理和 nominee-name 基础设施很重要。
-- [[JapanFG/bny-mellon-japan|BNY Mellon Japan]] 和 [[JapanFG/state-street-japan|State Street Japan]] 对全球托管和外国投资者路径很重要。
-- [[JapanFG/japan-securities-finance|Japan Securities Finance]] 是专门的证券金融节点。
-- [[JapanFG/nomura-hd|Nomura]]、[[JapanFG/daiwa-sg|Daiwa Securities Group]]、[[JapanFG/smbc-nikko|SMBC Nikko]]、[[JapanFG/mizuho-securities|Mizuho Securities]] 和 [[JapanFG/mufg-mums|MUMSS]] 是经纪商 / 交易商侧锚点。
+- [[trust-banks/custody-bank|Custody Bank of Japan]] 和 [[trust-banks/master-trust-bank|Master Trust Bank of Japan]] 作为国内资产管理和 nominee-name 基础设施很重要。
+- [[foreign-financial-institutions/bny-mellon-japan|BNY Mellon Japan]] 和 [[foreign-financial-institutions/state-street-japan|State Street Japan]] 对全球托管和外国投资者路径很重要。
+- [[financial-regulators/japan-securities-finance|Japan Securities Finance]] 是专门的证券金融节点。
+- [[securities-firms/nomura-hd|Nomura]]、[[securities-firms/daiwa-sg|Daiwa Securities Group]]、[[securities-firms/smbc-nikko|SMBC Nikko]]、[[securities-firms/mizuho-securities|Mizuho Securities]] 和 [[securities-firms/mufg-mums|MUMSS]] 是经纪商 / 交易商侧锚点。
 
 ## Research Checklist
 
@@ -74,7 +74,7 @@ translated_at: 2026-06-01T04:15:40.130Z
 - [[securities/japan-margin-trading-and-securities-finance]]
 - [[securities/japan-prime-brokerage-and-institutional-financing]]
 - [[securities/japan-market-infrastructure-map]]
-- [[JapanFG/japan-securities-finance]]
+- [[financial-regulators/japan-securities-finance]]
 - [[banking/japan-trust-bank-custody-map]]
 - [[banking/japan-master-trust-and-custody-bank-landscape]]
 - [[securities/japan-securities-clearing-corp]]

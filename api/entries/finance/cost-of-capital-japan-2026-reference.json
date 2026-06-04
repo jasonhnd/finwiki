@@ -63,9 +63,6 @@
     "wikilinks_count": 22,
     "wikilinks": [
       "INDEX",
-      "JapanFG/mizuho-fg",
-      "JapanFG/mufg",
-      "JapanFG/smfg",
       "derivatives/japan-irs-market",
       "derivatives/ois-tona-curve",
       "finance/INDEX",
@@ -79,6 +76,9 @@
       "finance/real-options-valuation-japan-applications",
       "insurance/economic-value-based-solvency",
       "insurance/japan-life-insurance-alm-overview",
+      "megabanks/mizuho-fg",
+      "megabanks/mufg",
+      "megabanks/smfg",
       "money-market/boj-post-2024-floor-system-complementary-deposit-facility",
       "money-market/japan-money-market",
       "real-estate-finance/cap-rate-noi-irr-real-estate-valuation-framework",
@@ -87,9 +87,6 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/mizuho-fg",
-      "https://finwiki.zksc.io/JapanFG/mufg",
-      "https://finwiki.zksc.io/JapanFG/smfg",
       "https://finwiki.zksc.io/derivatives/japan-irs-market",
       "https://finwiki.zksc.io/derivatives/ois-tona-curve",
       "https://finwiki.zksc.io/finance/INDEX",
@@ -103,6 +100,9 @@
       "https://finwiki.zksc.io/finance/real-options-valuation-japan-applications",
       "https://finwiki.zksc.io/insurance/economic-value-based-solvency",
       "https://finwiki.zksc.io/insurance/japan-life-insurance-alm-overview",
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/smfg",
       "https://finwiki.zksc.io/money-market/boj-post-2024-floor-system-complementary-deposit-facility",
       "https://finwiki.zksc.io/money-market/japan-money-market",
       "https://finwiki.zksc.io/real-estate-finance/cap-rate-noi-irr-real-estate-valuation-framework",
@@ -113,9 +113,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 11163,
+    "nonspace_chars": 11169,
     "word_like_tokens": 1874,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-04"
   }
 }

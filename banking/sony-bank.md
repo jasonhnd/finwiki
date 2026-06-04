@@ -31,7 +31,7 @@ canonical_anchor: JapanFG/sony-bank
 
 ## Wiki route
 
-This entry sits under [[banking/INDEX|banking index]] as the operating-profile companion to the entity anchor at [[JapanFG/sony-bank|ソニー銀行 (Sony Bank) entity anchor]]. Read it inside the net-bank-segment map at [[banking/japan-net-bank-competition-map|Japan net bank competition map]], with the parent-group context at [[JapanFG/sony-fg|Sony Financial Group]], and against peers [[banking/rakuten-bank|Rakuten Bank]] · [[banking/paypay-bank|PayPay Bank]] · [[banking/au-jibun-bank|au Jibun Bank]] · [[JapanFG/ssnb|住信SBIネット銀行 / NEOBANK]] · [[banking/daiwa-next-bank|Daiwa Next Bank]] for ecosystem and securities-adjacent positioning. For license boundary, route through [[banking/japan-banking-license-tier-comparison-matrix|Japan banking license tier comparison matrix]] and [[JapanFG/legal-financial-licenses/bank-license-and-baas-boundary|bank license / BaaS boundary]].
+This entry sits under [[banking/INDEX|banking index]] as the operating-profile companion to the entity anchor at [[regional-banks/sony-bank|ソニー銀行 (Sony Bank) entity anchor]]. Read it inside the net-bank-segment map at [[banking/japan-net-bank-competition-map|Japan net bank competition map]], with the parent-group context at [[megabanks/sony-fg|Sony Financial Group]], and against peers [[banking/rakuten-bank|Rakuten Bank]] · [[banking/paypay-bank|PayPay Bank]] · [[banking/au-jibun-bank|au Jibun Bank]] · [[regional-banks/ssnb|住信SBIネット銀行 / NEOBANK]] · [[banking/daiwa-next-bank|Daiwa Next Bank]] for ecosystem and securities-adjacent positioning. For license boundary, route through [[banking/japan-banking-license-tier-comparison-matrix|Japan banking license tier comparison matrix]] and [[financial-licenses/bank-license-and-baas-boundary|bank license / BaaS boundary]].
 
 ## 1. Identity and ownership
 
@@ -41,7 +41,7 @@ This entry sits under [[banking/INDEX|banking index]] as the operating-profile c
 | English name | Sony Bank Incorporated |
 | Established | 2001-04 (one of the first wave of Japanese internet banks) |
 | Bank-license category | 普通銀行 (ordinary bank under 銀行法), classed under FSA "その他の銀行" |
-| Parent | [[JapanFG/sony-fg|Sony Financial Group]] (100%) |
+| Parent | [[megabanks/sony-fg|Sony Financial Group]] (100%) |
 | Ultimate parent | Sony Group Corporation (TSE 6758) — Sony FG was re-acquired in 2020 TOB; Sony FG re-listed on TSE Prime on 2025-09-29 via Japan's first partial spin-off (Sony Group retains ~20%, >80% distributed in-kind to shareholders) |
 | HQ | Tokyo |
 | Customer-facing brand | **MoneyKit** (online service brand, moneykit.net) |
@@ -54,8 +54,8 @@ This entry sits under [[banking/INDEX|banking index]] as the operating-profile c
 Sony Group Corporation (TSE 6758, ultimate parent)
   └── Sony Financial Group (re-consolidated 2020 via TOB; re-listed on TSE Prime 2025-09-29 via partial spin-off, Sony Group retains ~20%)
         ├── Sony Bank Incorporated (the entry on this page)
-        ├── [[JapanFG/sony-life|Sony Life Insurance]]
-        ├── [[JapanFG/sony-insurance|Sony Insurance (P&C)]]
+        ├── [[life-insurers/sony-life|Sony Life Insurance]]
+        ├── [[non-life-insurers/sony-insurance|Sony Insurance (P&C)]]
         └── Other financial subsidiaries
 ```
 
@@ -77,7 +77,7 @@ The FX-debit feature is the customer-acquisition lever for travel-frequent and e
 
 ### Investment-product distribution
 
-The MoneyKit platform distributes 投信 (investment trusts) and supports securities-account adjacencies. Compared with [[JapanFG/ssnb|SSNB]]'s deep linkage to [[JapanFG/sbi-securities|SBI Securities]], or [[banking/au-jibun-bank|au Jibun Bank]]'s linkage to [[JapanFG/au-kabucom-securities|au Kabucom]], Sony Bank's securities linkage is comparatively thinner — but the FX strength complements 外貨投信 distribution.
+The MoneyKit platform distributes 投信 (investment trusts) and supports securities-account adjacencies. Compared with [[regional-banks/ssnb|SSNB]]'s deep linkage to [[securities-firms/sbi-securities|SBI Securities]], or [[banking/au-jibun-bank|au Jibun Bank]]'s linkage to [[securities-firms/au-kabucom-securities|au Kabucom]], Sony Bank's securities linkage is comparatively thinner — but the FX strength complements 外貨投信 distribution.
 
 ### Card and payment adjacencies
 
@@ -140,12 +140,12 @@ Public Sony Bank disclosure (the 「ディスクロージャー誌」 series and
 - [[banking/rakuten-bank]] · [[banking/paypay-bank]] · [[banking/au-jibun-bank]]
 - [[banking/daiwa-next-bank]]
 - [[banking/quick-deposit-four-methods]]
-- [[JapanFG/sony-bank]]
-- [[JapanFG/sony-fg]]
-- [[JapanFG/sony-life]]
-- [[JapanFG/sony-insurance]]
-- [[JapanFG/ssnb]]
-- [[JapanFG/legal-financial-licenses/bank-license-and-baas-boundary]]
+- [[regional-banks/sony-bank]]
+- [[megabanks/sony-fg]]
+- [[life-insurers/sony-life]]
+- [[non-life-insurers/sony-insurance]]
+- [[regional-banks/ssnb]]
+- [[financial-licenses/bank-license-and-baas-boundary]]
 - [[fintech/japan-stablecoin-regulatory-landscape]]
 
 ## Sources

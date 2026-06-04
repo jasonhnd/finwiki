@@ -1,0 +1,97 @@
+{
+  "schema_version": "1.0",
+  "slug": "financial-regulators/dic",
+  "source_path": "financial-regulators/dic.md",
+  "url": "https://finwiki.zksc.io/financial-regulators/dic",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/financial-regulators/dic.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/financial-regulators/dic.md",
+  "domain": "financial-regulators",
+  "title": "預金保険機構 (DIC)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "預金保険機構 (DIC)",
+    "aliases": [
+      "DIC",
+      "Deposit Insurance Corporation of Japan",
+      "預金保険機構",
+      "預保機構",
+      "financial-regulators/japan-shinko-bank"
+    ],
+    "domain": "financial-regulators",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "deposit-insurance",
+      "financial-safety-net",
+      "resolution",
+      "government"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: 預金保険機構 (2026-05-25 抽出)",
+      "預金保険機構 公式サイト (https://www.dic.go.jp/, 2026-05-25 参照)",
+      "預金保険法 (昭和 46 年法律第 34 号)",
+      "金融庁 預金保険制度関連ページ (https://www.fsa.go.jp/, 2026-05-25 参照)"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 損害保険契約者保護機構 and 生命保険契約者保護機構 for parallel safety-net peers, and against 金融庁 / 日本銀行 for the broader system / regulatory boundary.",
+  "headings": [
+    "預金保険機構 (DIC)",
+    "Wiki route",
+    "TL;DR",
+    "1. 法的根拠・設立",
+    "出資構造",
+    "重要年表",
+    "2. 業務領域",
+    "主要機関エコシステム",
+    "2003 りそな救済（最大級の公的資金注入）",
+    "2003 足利銀行 一時国有化"
+  ],
+  "body_links": {
+    "wikilinks_count": 14,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "banking/INDEX",
+      "financial-regulators/boj",
+      "financial-regulators/fsa",
+      "financial-regulators/japan-shinko-bank",
+      "financial-regulators/rcc",
+      "financial-regulators/seimei-hokensha-hogo-kiko",
+      "financial-regulators/sonpo-hosho-kiko",
+      "megabanks/mizuho-bank",
+      "megabanks/mufg-bank",
+      "megabanks/resona-hd",
+      "megabanks/smbc",
+      "regional-banks/ashikaga-hd",
+      "regional-banks/japan-post-bank"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/financial-regulators/boj",
+      "https://finwiki.zksc.io/financial-regulators/fsa",
+      "https://finwiki.zksc.io/financial-regulators/japan-shinko-bank",
+      "https://finwiki.zksc.io/financial-regulators/rcc",
+      "https://finwiki.zksc.io/financial-regulators/seimei-hokensha-hogo-kiko",
+      "https://finwiki.zksc.io/financial-regulators/sonpo-hosho-kiko",
+      "https://finwiki.zksc.io/megabanks/mizuho-bank",
+      "https://finwiki.zksc.io/megabanks/mufg-bank",
+      "https://finwiki.zksc.io/megabanks/resona-hd",
+      "https://finwiki.zksc.io/megabanks/smbc",
+      "https://finwiki.zksc.io/regional-banks/ashikaga-hd",
+      "https://finwiki.zksc.io/regional-banks/japan-post-bank"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 4095,
+    "word_like_tokens": 598,
+    "inbound_wikilinks_count": 18,
+    "last_modified": "2026-06-04"
+  }
+}

@@ -174,10 +174,10 @@ See [[securities/japan-securities-clearing-corp]] for clearing-corporation infra
 - [[securities/INDEX]]
 - [[securities/japan-market-infrastructure-map]]
 - [[securities/japan-securities-clearing-corp]]
-- [[JapanFG/mufg-bank]]
-- [[JapanFG/sumitomo-mitsui-banking-corp]]
-- [[JapanFG/mizuho-bank]]
-- [[JapanFG/japan-securities-finance]]
+- [[megabanks/mufg-bank]]
+- [[megabanks/sumitomo-mitsui-banking-corp]]
+- [[megabanks/mizuho-bank]]
+- [[financial-regulators/japan-securities-finance]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

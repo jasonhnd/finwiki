@@ -27,7 +27,7 @@ sources:
 
 ## TL;DR
 
-Consumer-loan and card-receivable ABS in Japan are issued by major consumer-finance and card-issuing companies — [[JapanFG/aplus]], [[JapanFG/orico]], [[JapanFG/jaccs]], [[JapanFG/mufg-nicos]], and others — and use revolving-pool structures with early-amortization triggers. The asset class is structurally distinct from auto-loan ABS because card receivables are short-tenor, revolving, and tied to economic-cycle-sensitive consumer credit demand. Default rates are more cyclical than auto-loan ABS, but the revolving structure with hard triggers protects senior bondholders. Use this page for consumer / card ABS structure mechanics in [[structured-finance/INDEX]] and to connect to consumer-finance company pages in [[JapanFG/INDEX]].
+Consumer-loan and card-receivable ABS in Japan are issued by major consumer-finance and card-issuing companies — [[card-issuers/aplus]], [[card-issuers/orico]], [[card-issuers/jaccs]], [[card-issuers/mufg-nicos]], and others — and use revolving-pool structures with early-amortization triggers. The asset class is structurally distinct from auto-loan ABS because card receivables are short-tenor, revolving, and tied to economic-cycle-sensitive consumer credit demand. Default rates are more cyclical than auto-loan ABS, but the revolving structure with hard triggers protects senior bondholders. Use this page for consumer / card ABS structure mechanics in [[structured-finance/INDEX]] and to connect to consumer-finance company pages in [[JapanFG/INDEX]].
 
 ## Wiki route
 
@@ -37,19 +37,19 @@ Consumer-loan and card-receivable ABS in Japan are issued by major consumer-fina
 | Auto-loan ABS comparison | [[structured-finance/auto-loan-abs-japan-toyota-honda]] |
 | SPV vehicle | [[structured-finance/spv-tk-gk-vehicle-japan-tax]] |
 | Rating methodology | [[structured-finance/credit-rating-methodology-jcr-r-and-i]] |
-| Card-issuer company page | [[JapanFG/jcb]] |
+| Card-issuer company page | [[card-issuers/jcb]] |
 
 ## 1. Repeat issuers
 
 | Issuer | Brand / business | Typical asset securitized |
 |---|---|---|
-| [[JapanFG/aplus]] | Aplus Financial (SBI / others-affiliated) | Consumer loans, installment receivables |
-| [[JapanFG/orico]] | Orient Corporation | Card receivables, auto-installment, consumer loans |
-| [[JapanFG/jaccs]] | JACCS Co., Ltd. | Installment receivables, card receivables, consumer loans |
-| [[JapanFG/mufg-nicos]] | Mitsubishi UFJ NICOS | Card receivables |
-| [[JapanFG/jcb]] | JCB | Card receivables (JCB-branded) |
-| [[JapanFG/credit-saison]] | Credit Saison | Card receivables, installment receivables |
-| [[JapanFG/aeon-financial-service]] | Aeon Financial Service (Aeon Card etc.) | Card receivables, installment receivables |
+| [[card-issuers/aplus]] | Aplus Financial (SBI / others-affiliated) | Consumer loans, installment receivables |
+| [[card-issuers/orico]] | Orient Corporation | Card receivables, auto-installment, consumer loans |
+| [[card-issuers/jaccs]] | JACCS Co., Ltd. | Installment receivables, card receivables, consumer loans |
+| [[card-issuers/mufg-nicos]] | Mitsubishi UFJ NICOS | Card receivables |
+| [[card-issuers/jcb]] | JCB | Card receivables (JCB-branded) |
+| [[card-issuers/credit-saison]] | Credit Saison | Card receivables, installment receivables |
+| [[card-issuers/aeon-financial-service]] | Aeon Financial Service (Aeon Card etc.) | Card receivables, installment receivables |
 
 These are the main repeat issuers; some deals use bank-affiliated trustee structures and others use TK-GK SPVs.
 
@@ -112,7 +112,7 @@ Excess-spread trapping is particularly important for revolving structures becaus
 
 ## 7. Vehicle choice
 
-Most Japan consumer / card-receivable ABS use TK-GK SPV ([[structured-finance/spv-tk-gk-vehicle-japan-tax]]) or trust-beneficial-interest structures ([[structured-finance/japan-trust-beneficial-interest-vs-spv]]). Trust structures are common when the trustee is a major trust bank like [[JapanFG/sumitomo-mitsui-trust]] or Mitsubishi UFJ Trust.
+Most Japan consumer / card-receivable ABS use TK-GK SPV ([[structured-finance/spv-tk-gk-vehicle-japan-tax]]) or trust-beneficial-interest structures ([[structured-finance/japan-trust-beneficial-interest-vs-spv]]). Trust structures are common when the trustee is a major trust bank like [[trust-banks/sumitomo-mitsui-trust]] or Mitsubishi UFJ Trust.
 
 ## 8. Funding-mix role for issuers
 
@@ -136,11 +136,11 @@ ABS provides:
 - [[structured-finance/spv-tk-gk-vehicle-japan-tax]]
 - [[structured-finance/japan-trust-beneficial-interest-vs-spv]]
 - [[structured-finance/credit-rating-methodology-jcr-r-and-i]]
-- [[JapanFG/orico]]
-- [[JapanFG/jaccs]]
-- [[JapanFG/aplus]]
-- [[JapanFG/mufg-nicos]]
-- [[JapanFG/jcb]]
+- [[card-issuers/orico]]
+- [[card-issuers/jaccs]]
+- [[card-issuers/aplus]]
+- [[card-issuers/mufg-nicos]]
+- [[card-issuers/jcb]]
 
 ## Sources
 

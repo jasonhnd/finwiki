@@ -77,11 +77,11 @@ NEXI は日本の輸出信用機関である。融資は行わない。定義さ
 | 海外アンタイドローン保険 | 日本からの輸出に紐づかない政策目的融資の借り手不履行 | 新興市場に融資する日本の銀行 |
 | バイヤーズクレジット向け貿易・投資保険 | 銀行が供与したバイヤーズクレジットにおける海外買い手の不履行 | 日本製品の海外買い手に融資する銀行 |
 
-NEXI は [[JapanFG/jbic|JBIC]] と密接に協力する。JBIC が供与するバイヤーズクレジットやプロジェクトファイナンス融資では、商業銀行トランシェに NEXI カバーが付くことが多く、これにより資金調達コストが下がり、より広い銀行シンジケーションが可能になる。NEXI は、最低保険料、国リスク分類、期間・頭金条件に関する [[policy-finance/oecd-export-credit-arrangement|OECD Export Credit Arrangement]] コンセンサスの下で運用される。
+NEXI は [[financial-regulators/jbic|JBIC]] と密接に協力する。JBIC が供与するバイヤーズクレジットやプロジェクトファイナンス融資では、商業銀行トランシェに NEXI カバーが付くことが多く、これにより資金調達コストが下がり、より広い銀行シンジケーションが可能になる。NEXI は、最低保険料、国リスク分類、期間・頭金条件に関する [[policy-finance/oecd-export-credit-arrangement|OECD Export Credit Arrangement]] コンセンサスの下で運用される。
 
 ## JBIC — 政策金融機関
 
-JBIC は政府全額出資の政策金融機関であり、主に財務省の監督を受け、資源・産業政策事項については経済産業省の政策方向も受ける。[[JapanFG/jfc|JFC (Japan Finance Corporation)]] の一部ではない。JBIC は 2012 に JFC から分離され、JFC の中小企業・農業・マイクロファイナンス機能とは別の単独の株式会社形態の特殊会社として再構成された。
+JBIC は政府全額出資の政策金融機関であり、主に財務省の監督を受け、資源・産業政策事項については経済産業省の政策方向も受ける。[[financial-regulators/jfc|JFC (Japan Finance Corporation)]] の一部ではない。JBIC は 2012 に JFC から分離され、JFC の中小企業・農業・マイクロファイナンス機能とは別の単独の株式会社形態の特殊会社として再構成された。
 
 主な業務ラインは次のとおり。
 
@@ -109,7 +109,7 @@ JBIC は **ODA 機関ではない**。低利・長期据置の円借款 ODA は 
 | 新興市場危機時融資、国際収支支援 | JBIC + MOF facility |
 | 輸出信用保険 / 政治リスク保険 | **NEXI** |
 | 中小企業の輸出助言とマッチング | **JETRO** |
-| 中小企業の国内運転資金、マイクロファイナンス、農業金融 | **[[JapanFG/jfc|JFC]]** |
+| 中小企業の国内運転資金、マイクロファイナンス、農業金融 | **[[financial-regulators/jfc|JFC]]** |
 
 日本国外で最も混同されやすいのは JBIC と JICA の境界である。JFC を作った 2008 の統合では旧 JBIC の国際部門が JFC に取り込まれ、その後 2012 に国際金融部門について分離が戻された。JICA は別組織のまま残った。より長い制度系譜は [[policy-finance/japan-eximbank-history|Japan Eximbank history]] に詳しい。
 
@@ -154,7 +154,7 @@ JBIC の債券発行は、それ自体が日本の資本市場アーキテクチ
 
 この三本柱は、より広い政策金融エコシステムの中に位置する。
 
-- **[[JapanFG/jfc|JFC (Japan Finance Corporation)]]** — マイクロファイナンス、中小企業融資、農林水産業向け融資、教育ローン。国内中心。2008-2012の間に JBIC が JFC 内にあったため、JBIC と混同されることがある。
+- **[[financial-regulators/jfc|JFC (Japan Finance Corporation)]]** — マイクロファイナンス、中小企業融資、農林水産業向け融資、教育ローン。国内中心。2008-2012の間に JBIC が JFC 内にあったため、JBIC と混同されることがある。
 - **[[policy-finance/jica|JICA (Japan International Cooperation Agency)]]** — ODA、譲許的円借款、技術協力、無償資金協力、ボランティア事業。途上国中心。
 - **[[policy-finance/jogmec|JOGMEC]]** — エネルギー・金属の探鉱 / 開発支援、海外資源案件への出資。セクター別機関。
 - **DBJ（日本政策投資銀行）** — 国内プロジェクトファイナンス、M&A ファイナンス、事業再生金融。主に国内で、クロスボーダーの役割は限定的。
@@ -170,8 +170,8 @@ JBIC の債券発行は、それ自体が日本の資本市場アーキテクチ
 - [[policy-finance/INDEX|policy-finance INDEX]]
 - [[policy-finance/nexi|NEXI]]
 - [[policy-finance/jica|JICA]]
-- [[JapanFG/jbic|JBIC]]
-- [[JapanFG/jfc|JFC]]
+- [[financial-regulators/jbic|JBIC]]
+- [[financial-regulators/jfc|JFC]]
 - [[policy-finance/japan-project-finance-stack-diagram|Japan project-finance stack diagram]]
 - [[policy-finance/oecd-export-credit-arrangement|OECD Export Credit Arrangement]]
 - [[policy-finance/japan-eximbank-history|Japan Eximbank history]]

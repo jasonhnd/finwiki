@@ -20,7 +20,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 ## Key facts
 
 - **2025-08**: SBI Holdings + Circle Internet Financial established **SBI Circle Holdings** as a 50/50 JV (50/50  JV)
-- **Circular shareholding**: Circle owns roughly 3.51% of [[JapanFG/jpyc|JPYC]]; JPYC belongs to Circle Partner SC; SBI is indirectly related to JPYC through SBI Circle Holdings
+- **Circular shareholding**: Circle owns roughly 3.51% of [[payment-firms/jpyc|JPYC]]; JPYC belongs to Circle Partner SC; SBI is indirectly related to JPYC through SBI Circle Holdings
 - **Domestic channel**: [[exchanges/jp-exchange-sbi-vc-trade|SBI VC Trade]] = Japan's first registered EPI operator (licensed on 2025-03-04) · began domestic handling of USDC (2025-03-26)
 - **Capital investment**: SBI HD + SBI Shinsei invested a combined $50M in Circle's IPO (NYSE listing at 2025-06-05)
 - **Non-participation in Progmat**: Yoshitaka Kitao's 2026-02  X post called it "uniform, competition-restricting, convoy-style" and made clear SBI would not join the Progmat trust-type consortium
@@ -65,7 +65,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 2026-02     Yoshitaka Kitao on X: "Refuse to join Progmat"
 ```
 
-**Evaluation jump from v1 to v2**: before promulgation of §501(d), the SBI camp was seen as an "independent line / #3". After promulgation, the value of the USDC ↔ JPY cross-border compliance channel surged, and SBI Circle Holdings was upgraded to **#1 ★★★★★**. By contrast, [[JapanFG/progmat|Progmat]] (the three-megabank trust-type line) was downgraded to #3 because it has "no cross-border compliance channel"; see [[fintech/multi-megabank-consortium-governance|multi-megabank federated governance]] for details.
+**Evaluation jump from v1 to v2**: before promulgation of §501(d), the SBI camp was seen as an "independent line / #3". After promulgation, the value of the USDC ↔ JPY cross-border compliance channel surged, and SBI Circle Holdings was upgraded to **#1 ★★★★★**. By contrast, [[payment-firms/progmat|Progmat]] (the three-megabank trust-type line) was downgraded to #3 because it has "no cross-border compliance channel"; see [[fintech/multi-megabank-consortium-governance|multi-megabank federated governance]] for details.
 
 ## Related
 <!-- wiki-links:managed -->

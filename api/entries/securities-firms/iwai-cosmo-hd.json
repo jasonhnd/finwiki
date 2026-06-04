@@ -1,0 +1,86 @@
+{
+  "schema_version": "1.0",
+  "slug": "securities-firms/iwai-cosmo-hd",
+  "source_path": "securities-firms/iwai-cosmo-hd.md",
+  "url": "https://finwiki.zksc.io/securities-firms/iwai-cosmo-hd",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/securities-firms/iwai-cosmo-hd.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/securities-firms/iwai-cosmo-hd.md",
+  "domain": "securities-firms",
+  "title": "岩井コスモホールディングス",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "岩井コスモホールディングス",
+    "aliases": [
+      "Iwai Cosmo HD",
+      "岩井コスモ HD",
+      "Iwai Cosmo Holdings",
+      "8707"
+    ],
+    "domain": "securities-firms",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "securities",
+      "independent"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: 岩井コスモホールディングス / 岩井コスモ証券 (2026-05-19 抽出)",
+      "岩井コスモ HD 公式コーポレートサイト・沿革"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 岡三証券グループ (Okasan Securities Group) for peer / contrast context and securities index for the broader system / regulatory boundary.",
+  "headings": [
+    "岩井コスモホールディングス",
+    "Wiki route",
+    "TL;DR",
+    "1. 会社概要",
+    "主要子会社",
+    "重要年表（抜粋）^[extracted]",
+    "2. 事業セグメント・マップ",
+    "基本戦略",
+    "競合ポジション",
+    "中計（2024）"
+  ],
+  "body_links": {
+    "wikilinks_count": 11,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "aizawa-sg",
+      "matsui-sec",
+      "mizuho-fg",
+      "mufg",
+      "okasan-sg",
+      "sbi-hd",
+      "securities-firms/okasan-sg",
+      "securities/INDEX",
+      "smfg",
+      "tokai-tokyo-fh"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/aizawa-sg",
+      "https://finwiki.zksc.io/matsui-sec",
+      "https://finwiki.zksc.io/mizuho-fg",
+      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/okasan-sg",
+      "https://finwiki.zksc.io/sbi-hd",
+      "https://finwiki.zksc.io/securities-firms/okasan-sg",
+      "https://finwiki.zksc.io/securities/INDEX",
+      "https://finwiki.zksc.io/smfg",
+      "https://finwiki.zksc.io/tokai-tokyo-fh"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3452,
+    "word_like_tokens": 516,
+    "inbound_wikilinks_count": 8,
+    "last_modified": "2026-06-04"
+  }
+}

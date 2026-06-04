@@ -42,7 +42,7 @@ J-REIT is not an operating company. The investment corporation owns the assets t
 |---|---|
 | Issuer entity | Investment corporation that issues investment units (投資口) |
 | Operator | Asset-management company (typically sponsor-affiliated) |
-| Trustee | Trust bank that holds title to underlying assets (often [[JapanFG/mitsubishi-ufj-trust-bank\|Mitsubishi UFJ Trust Bank]], [[JapanFG/sumitomo-mitsui-trust\|SMTB]] or [[JapanFG/mizuho-trust-bank\|Mizuho Trust]]) — see [[banking/trust-bank-custody-operating-comparison\|trust bank custody operating comparison]] |
+| Trustee | Trust bank that holds title to underlying assets (often [[trust-banks/mitsubishi-ufj-trust-bank\|Mitsubishi UFJ Trust Bank]], [[trust-banks/sumitomo-mitsui-trust\|SMTB]] or [[trust-banks/mizuho-trust-bank\|Mizuho Trust]]) — see [[banking/trust-bank-custody-operating-comparison\|trust bank custody operating comparison]] |
 | Auditor | Listed-company auditor |
 | Custodian / administrator | Trust bank acting as asset-custody trustee |
 | Tax treatment | Tax-transparent if distribution-payout ratio test (~90%) and other conditions are met |
@@ -119,8 +119,8 @@ The sponsor type determines pipeline visibility, asset-acquisition pace, and the
 - [[insurance/INDEX|insurance index]]
 - [[retail/aeon-group|AEON Group]]
 - [[retail/seven-and-i-hd|Seven & i HD]]
-- [[JapanFG/mitsubishi-ufj-trust-bank|Mitsubishi UFJ Trust Bank]]
-- [[JapanFG/sumitomo-mitsui-trust|SMTB]]
+- [[trust-banks/mitsubishi-ufj-trust-bank|Mitsubishi UFJ Trust Bank]]
+- [[trust-banks/sumitomo-mitsui-trust|SMTB]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

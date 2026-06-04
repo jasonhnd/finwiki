@@ -1,0 +1,82 @@
+{
+  "schema_version": "1.0",
+  "slug": "non-life-insurers/tokio-marine",
+  "source_path": "non-life-insurers/tokio-marine.md",
+  "url": "https://finwiki.zksc.io/non-life-insurers/tokio-marine",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/non-life-insurers/tokio-marine.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/non-life-insurers/tokio-marine.md",
+  "domain": "non-life-insurers",
+  "title": "東京海上ホールディングス (Tokio Marine Holdings)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "東京海上ホールディングス (Tokio Marine Holdings)",
+    "aliases": [
+      "Tokio Marine HD",
+      "東京海上 HD",
+      "東京海上ホールディングス",
+      "Tokio Marine Holdings",
+      "Inc.",
+      "8766",
+      "non-life-insurers/tokio-marine-hd",
+      "non-life-insurers/tokio-marine-holdings"
+    ],
+    "domain": "non-life-insurers",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "non-life-insurance"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: 東京海上ホールディングス (2026-05-19 抽出)",
+      "Wikipedia: 東京海上日動火災保険",
+      "Tokio Marine Holdings 公式 IR(沿革・組織図)"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against SOMPO ホールディングス (Sompo Holdings) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "東京海上ホールディングス (Tokio Marine Holdings)",
+    "Wiki route",
+    "TL;DR",
+    "1. 会社概要",
+    "主要子会社・グループ会社",
+    "合併歴史・前身",
+    "重要年表(抜粋)",
+    "連結業績(FY2024 = 2025-03 期、確認済)",
+    "2. 事業セグメント・マップ",
+    "海外 M&A 主導の成長戦略"
+  ],
+  "body_links": {
+    "wikilinks_count": 7,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "banking/INDEX",
+      "mizuho-fg",
+      "mufg",
+      "non-life-insurers/msad",
+      "non-life-insurers/sompo",
+      "smfg"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/mizuho-fg",
+      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/non-life-insurers/msad",
+      "https://finwiki.zksc.io/non-life-insurers/sompo",
+      "https://finwiki.zksc.io/smfg"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 5172,
+    "word_like_tokens": 910,
+    "inbound_wikilinks_count": 29,
+    "last_modified": "2026-06-04"
+  }
+}

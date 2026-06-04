@@ -12,7 +12,7 @@ translated_at: 2026-05-31T03:19:56.386Z
 
 ## Wiki route
 
-本条目归于 [[banking/INDEX|banking index]] 之下，连接养老金端的需求与信托银行端的供给。请与机构锚点 [[JapanFG/master-trust-bank|MTBJ]] 和 [[JapanFG/custody-bank|CBJ]]、运营模式 [[banking/master-trust-bank-operating-model|Master Trust Bank operating model]] 和 [[banking/custody-bank-operating-model|Custody Bank operating model]]、全景视图 [[banking/japan-master-trust-and-custody-bank-landscape|Japan master trust and custody bank landscape]]、跨阵营矩阵 [[banking/japan-trust-bank-vs-global-custodian-comparison-matrix|Japan trust bank vs global custodian comparison matrix]]、运营比较 [[banking/trust-bank-custody-operating-comparison|trust-bank custody operating comparison]] 以及费用研究 [[banking/trust-bank-fee-structure-comparison|trust bank fee structure comparison]] 一并阅读。配合 [[banking/jasdec-settlement-operations|JASDEC settlement operations]] 了解结算轨道；配合 [[banking/japan-banking-license-tier-comparison-matrix|Japan banking license tier comparison matrix]] 了解监管层级；配合 [[JapanFG/mitsubishi-ufj-trust-bank|MUFG Trust]]、[[JapanFG/sumitomo-mitsui-trust|SMTB]] 和 [[JapanFG/mizuho-trust-bank|Mizuho Trust]] 了解前台信托银行侧；配合 [[JapanFG/bny-mellon-japan|BNY Mellon Japan]] / [[JapanFG/state-street-japan|State Street Japan]] / [[JapanFG/jpmorgan-japan|JP Morgan Japan]] 了解外币资产环节的次级托管。机构背景见 [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]]。
+本条目归于 [[banking/INDEX|banking index]] 之下，连接养老金端的需求与信托银行端的供给。请与机构锚点 [[trust-banks/master-trust-bank|MTBJ]] 和 [[trust-banks/custody-bank|CBJ]]、运营模式 [[banking/master-trust-bank-operating-model|Master Trust Bank operating model]] 和 [[banking/custody-bank-operating-model|Custody Bank operating model]]、全景视图 [[banking/japan-master-trust-and-custody-bank-landscape|Japan master trust and custody bank landscape]]、跨阵营矩阵 [[banking/japan-trust-bank-vs-global-custodian-comparison-matrix|Japan trust bank vs global custodian comparison matrix]]、运营比较 [[banking/trust-bank-custody-operating-comparison|trust-bank custody operating comparison]] 以及费用研究 [[banking/trust-bank-fee-structure-comparison|trust bank fee structure comparison]] 一并阅读。配合 [[banking/jasdec-settlement-operations|JASDEC settlement operations]] 了解结算轨道；配合 [[banking/japan-banking-license-tier-comparison-matrix|Japan banking license tier comparison matrix]] 了解监管层级；配合 [[trust-banks/mitsubishi-ufj-trust-bank|MUFG Trust]]、[[trust-banks/sumitomo-mitsui-trust|SMTB]] 和 [[trust-banks/mizuho-trust-bank|Mizuho Trust]] 了解前台信托银行侧；配合 [[foreign-financial-institutions/bny-mellon-japan|BNY Mellon Japan]] / [[foreign-financial-institutions/state-street-japan|State Street Japan]] / [[foreign-financial-institutions/jpmorgan-japan|JP Morgan Japan]] 了解外币资产环节的次级托管。机构背景见 [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]]。
 
 ## TL;DR
 
@@ -217,20 +217,20 @@ Pension plan
 - [[banking/trust-bank-fee-structure-comparison]]
 - [[banking/jasdec-settlement-operations]]
 - [[banking/japan-banking-license-tier-comparison-matrix]]
-- [[JapanFG/master-trust-bank]]
-- [[JapanFG/custody-bank]]
-- [[JapanFG/mitsubishi-ufj-trust-bank]]
-- [[JapanFG/sumitomo-mitsui-trust]]
-- [[JapanFG/mizuho-trust-bank]]
-- [[JapanFG/smbc-trust-bank]]
-- [[JapanFG/nochu-trust-bank]]
-- [[JapanFG/nippon-life]]
-- [[JapanFG/dai-ichi-life]]
-- [[JapanFG/meiji-yasuda]]
-- [[JapanFG/bny-mellon-japan]]
-- [[JapanFG/state-street-japan]]
-- [[JapanFG/jpmorgan-japan]]
-- [[JapanFG/citigroup-japan]]
+- [[trust-banks/master-trust-bank]]
+- [[trust-banks/custody-bank]]
+- [[trust-banks/mitsubishi-ufj-trust-bank]]
+- [[trust-banks/sumitomo-mitsui-trust]]
+- [[trust-banks/mizuho-trust-bank]]
+- [[trust-banks/smbc-trust-bank]]
+- [[trust-banks/nochu-trust-bank]]
+- [[life-insurers/nippon-life]]
+- [[life-insurers/dai-ichi-life]]
+- [[life-insurers/meiji-yasuda]]
+- [[foreign-financial-institutions/bny-mellon-japan]]
+- [[foreign-financial-institutions/state-street-japan]]
+- [[foreign-financial-institutions/jpmorgan-japan]]
+- [[foreign-financial-institutions/citigroup-japan]]
 - [[securities/japan-securities-depository-center]]
 - [[securities/japan-securities-clearing-corp]]
 - [[securities/japan-asset-manager-landscape-matrix]]

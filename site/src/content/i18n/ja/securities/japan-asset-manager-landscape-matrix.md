@@ -11,11 +11,11 @@ translated_at: 2026-06-03T00:53:08.269Z
 
 ## 要約
 
-日本の資産運用（AM）業界は、四つのレーンで競争している。**メガバンク系 AM** は販売主導の規模を支え、**保険系 AM** は保険料フロートとランオフ負債の交点に位置し、**独立系 / オンライン系 AM** は NISA とオンラインブローカーのファネル成長に乗り、**日本の外資系 AM** は薄い国内販売網を持ちながらグローバル商品工場を運営する。このページは、それらのレーンを横断する比較マトリクス経路であり、[[JapanFG/nomura-asset-management|Nomura Asset Management]]、[[JapanFG/asset-management-one|Asset Management One]]、[[JapanFG/sbi-asset-management|SBI Asset Management]]のような会社別ページを置き換えるものではない。
+日本の資産運用（AM）業界は、四つのレーンで競争している。**メガバンク系 AM** は販売主導の規模を支え、**保険系 AM** は保険料フロートとランオフ負債の交点に位置し、**独立系 / オンライン系 AM** は NISA とオンラインブローカーのファネル成長に乗り、**日本の外資系 AM** は薄い国内販売網を持ちながらグローバル商品工場を運営する。このページは、それらのレーンを横断する比較マトリクス経路であり、[[asset-managers/nomura-asset-management|Nomura Asset Management]]、[[asset-managers/asset-management-one|Asset Management One]]、[[asset-managers/sbi-asset-management|SBI Asset Management]]のような会社別ページを置き換えるものではない。
 
 ## ウィキ上の位置づけ
 
-このページは[[securities/INDEX|securities index]]の配下に置かれ、AM 側における[[securities/japan-underwriting-market-structure|Japan underwriting market structure]]相当のページである。登録管理面は[[securities/financial-instruments-business-operators-japan-index|Japan financial instruments business operators registry index]]、投資運用業 / 第二種金融商品取引業の免許レイヤーは[[JapanFG/legal-financial-licenses/securities-license-stack|Japan securities license stack]]、家計向け販売チャネルは[[securities/nisa-2024-flow|NISA 2024 flow]]と併せて読む。このチャネルは2024以降、商品構成を変えてきた。
+このページは[[securities/INDEX|securities index]]の配下に置かれ、AM 側における[[securities/japan-underwriting-market-structure|Japan underwriting market structure]]相当のページである。登録管理面は[[securities/financial-instruments-business-operators-japan-index|Japan financial instruments business operators registry index]]、投資運用業 / 第二種金融商品取引業の免許レイヤーは[[financial-licenses/securities-license-stack|Japan securities license stack]]、家計向け販売チャネルは[[securities/nisa-2024-flow|NISA 2024 flow]]と併せて読む。このチャネルは2024以降、商品構成を変えてきた。
 
 ## 範囲と境界
 
@@ -23,8 +23,8 @@ translated_at: 2026-06-03T00:53:08.269Z
 |---|---|
 | 国内の投資運用業者 | FSA の FIBO 登録簿上の463 投資運用業者。このページは長い裾野ではなく、重要な極を扱う。[[securities/financial-instruments-business-operators-japan-index|FIEA operator registry index]]を参照。 |
 | 公募投信 / 私募投信 / 投資一任 | 三つすべてを AUM に含める。商品構成が重要な場合、マトリクスでは区別する。 |
-| AM としての信託銀行 | 信託銀行（例：[[JapanFG/mitsubishi-ufj-trust-bank|MUTB]]）は別個の信託 / 年金マンデートを運用する。参照はするが、このマトリクスの主単位ではない。 |
-| 販売専業エンティティ | メガバンク、証券会社、オンラインブローカーの販売部門（例：[[JapanFG/sbi-securities|SBI Securities]]）はチャネルとして参照し、AM として扱わない。 |
+| AM としての信託銀行 | 信託銀行（例：[[trust-banks/mitsubishi-ufj-trust-bank|MUTB]]）は別個の信託 / 年金マンデートを運用する。参照はするが、このマトリクスの主単位ではない。 |
+| 販売専業エンティティ | メガバンク、証券会社、オンラインブローカーの販売部門（例：[[securities-firms/sbi-securities|SBI Securities]]）はチャネルとして参照し、AM として扱わない。 |
 | 保険会社内部の資産運用 | 生命保険会社の一般勘定内運用は保険会社ページに置く。このマトリクスは、生命保険会社系の**登録済み** AM 子会社を扱う。 |
 
 ## 業界規模の見方
@@ -34,7 +34,7 @@ translated_at: 2026-06-03T00:53:08.269Z
 | 公募投信純資産総額 | JITA（投資信託協会）が毎月追跡する。ベンダー推計ではなく JITA の統計ページを使う。 |
 | 私募投信純資産総額 | 公募より小さいが、機関投資家 / 年金マンデートに大きく集中する。 |
 | 投資一任残高 | 投資顧問業協会の歴史的後継カテゴリについて、JSDA の自主規制集計で報告される。 |
-| ETF AUM | [[JapanFG/nomura-asset-management|Nomura AM]]、[[JapanFG/asset-management-one|AM-One]]、[[JapanFG/mufg-asset-management|MUFG AM]]、[[JapanFG/nikko-asset-management|Nikko AM]]、[[JapanFG/daiwa-asset-management|Daiwa AM]]に大きく集中する。BOJ の ETF 保有の歴史により、この五社が主要 ETF 発行体として残った。 |
+| ETF AUM | [[asset-managers/nomura-asset-management|Nomura AM]]、[[asset-managers/asset-management-one|AM-One]]、[[asset-managers/mufg-asset-management|MUFG AM]]、[[asset-managers/nikko-asset-management|Nikko AM]]、[[asset-managers/daiwa-asset-management|Daiwa AM]]に大きく集中する。BOJ の ETF 保有の歴史により、この五社が主要 ETF 発行体として残った。 |
 | iDeCo / NISA シェア | 2024 以降の NISA ブームは、低コストインデックスファンド（特に eMAXIS Slim / SBI Vシリーズ / 楽天シリーズ）へ資金フローを移した。 |
 
 注意点: AUM ランキングは四半期ごとに変動する。スクリーンショットに依存せず、現在の数値は JITA、FSA、各 AM の統合報告書 / 月次運用実績を使う。
@@ -47,12 +47,12 @@ translated_at: 2026-06-03T00:53:08.269Z
 
 | AM | 親会社 | 設立 / 統合 | 注記 |
 |---|---|---|---|
-| [[JapanFG/nomura-asset-management|Nomura Asset Management]] | [[JapanFG/nomura-hd|Nomura HD]] | 1959 （野村投信）、再編 | 公募投信残高で最大級の独立系証券 AM。ETF とインデックスのリーダー。 |
-| [[JapanFG/asset-management-one|Asset Management One]] | [[JapanFG/mizuho-fg|Mizuho FG]] 70% / [[JapanFG/dai-ichi-life|Dai-ichi Life Group]] 30%（経済的） | 2016 （DIAM + Mizuho 系3 社統合） | 銀行 + 生命保険の共同プラットフォーム。投資一任残高でも最大級。 |
-| [[JapanFG/mufg-asset-management|MUFG Asset Management]] | [[JapanFG/mufg|MUFG]] 100% | 2023 に再編（旧 三菱UFJ国際投信 + 三菱UFJ信託運用部門） | eMAXIS / eMAXIS Slim ブランド。NISA 資金流入の主要受益者。 |
-| [[JapanFG/smd-am|Sumitomo Mitsui DS Asset Management]] | [[JapanFG/smfg|SMFG]] 50.1%、[[JapanFG/daiwa-sg|Daiwa SG]] 23.5%、MS&AD / Sumitomo Life / SMTB | 2019 （SMAM + 大和住銀投信投資顧問の統合） | SMFG / Daiwa / Sumitomo Life の交点にある相互出資 AM。 |
-| [[JapanFG/daiwa-asset-management|Daiwa Asset Management]] | [[JapanFG/daiwa-sg|Daiwa Securities Group]] | 1959 | 独立系証券 AM レーン。ETF 発行体。 |
-| [[JapanFG/nikko-asset-management|Nikko Asset Management]] | [[JapanFG/smfg|SMFG]] / [[JapanFG/smtb|SMTB]]隣接（Sumitomo と Sumitomo Trust の歴史、戦略的所有の変化） | 1959 （日興投信） | ピア AM より海外フットプリント（Singapore / NZ / Australia）が強い。 |
+| [[asset-managers/nomura-asset-management|Nomura Asset Management]] | [[securities-firms/nomura-hd|Nomura HD]] | 1959 （野村投信）、再編 | 公募投信残高で最大級の独立系証券 AM。ETF とインデックスのリーダー。 |
+| [[asset-managers/asset-management-one|Asset Management One]] | [[megabanks/mizuho-fg|Mizuho FG]] 70% / [[life-insurers/dai-ichi-life|Dai-ichi Life Group]] 30%（経済的） | 2016 （DIAM + Mizuho 系3 社統合） | 銀行 + 生命保険の共同プラットフォーム。投資一任残高でも最大級。 |
+| [[asset-managers/mufg-asset-management|MUFG Asset Management]] | [[megabanks/mufg|MUFG]] 100% | 2023 に再編（旧 三菱UFJ国際投信 + 三菱UFJ信託運用部門） | eMAXIS / eMAXIS Slim ブランド。NISA 資金流入の主要受益者。 |
+| [[asset-managers/smd-am|Sumitomo Mitsui DS Asset Management]] | [[megabanks/smfg|SMFG]] 50.1%、[[securities-firms/daiwa-sg|Daiwa SG]] 23.5%、MS&AD / Sumitomo Life / SMTB | 2019 （SMAM + 大和住銀投信投資顧問の統合） | SMFG / Daiwa / Sumitomo Life の交点にある相互出資 AM。 |
+| [[asset-managers/daiwa-asset-management|Daiwa Asset Management]] | [[securities-firms/daiwa-sg|Daiwa Securities Group]] | 1959 | 独立系証券 AM レーン。ETF 発行体。 |
+| [[asset-managers/nikko-asset-management|Nikko Asset Management]] | [[megabanks/smfg|SMFG]] / [[trust-banks/smtb|SMTB]]隣接（Sumitomo と Sumitomo Trust の歴史、戦略的所有の変化） | 1959 （日興投信） | ピア AM より海外フットプリント（Singapore / NZ / Australia）が強い。 |
 
 レーン1 の要点: 規模は親会社の販売網から来る。経済的な問いは「誰が最高の銘柄選択者か」ではなく、「誰が家計の主要な投信購入チャネルを支配しているか」と「誰が親会社の DC / iDeCo / 投資一任の配管を供給しているか」である。
 
@@ -60,10 +60,10 @@ translated_at: 2026-06-03T00:53:08.269Z
 
 保険会社との関係は二分法ではなくスペクトラムである。上記の AM-One は一部保険会社所有（Dai-ichi Life Group）である。その他、明確に生命保険会社を軸にする AM には次がある。
 
-- **[[JapanFG/nippon-life-insurance|Nippon Life]] group AMs** — Nippon Life は AM エコシステムの重要な基礎投資家であり、歴史的に DIAM（AM-One に統合）を支えた。Nippon Life 系 AM は、保険一般勘定に沿ったマンデートと公募ファンド商品を運用する。
-- **[[JapanFG/dai-ichi-life|Dai-ichi Life Group]] AMs** — Dai-ichi Frontier とより広い Dai-ichi Life group は、保険連動型投資子会社を運営する。Dai-ichi Life は AM-One の少数株主である。
-- **[[JapanFG/meiji-yasuda-life|Meiji Yasuda Life]] / [[JapanFG/sumitomo-life|Sumitomo Life]] / [[JapanFG/t-and-d-hd|T&D HD]] affiliates** — 各主要生命保険会社は、保険内部マンデートと年金 / DC 商品の両方を供給する投資顧問 / 投資運用子会社を運営または投資している。
-- **[[JapanFG/tokio-marine-asset-management|Tokio Marine Asset Management]] / 損保系 AM** — 損保グループも、NISA 主導の個人向けよりも機関投資家 / 年金マンデートに焦点を置く AM 子会社を運営する。
+- **[[life-insurers/nippon-life-insurance|Nippon Life]] group AMs** — Nippon Life は AM エコシステムの重要な基礎投資家であり、歴史的に DIAM（AM-One に統合）を支えた。Nippon Life 系 AM は、保険一般勘定に沿ったマンデートと公募ファンド商品を運用する。
+- **[[life-insurers/dai-ichi-life|Dai-ichi Life Group]] AMs** — Dai-ichi Frontier とより広い Dai-ichi Life group は、保険連動型投資子会社を運営する。Dai-ichi Life は AM-One の少数株主である。
+- **[[life-insurers/meiji-yasuda-life|Meiji Yasuda Life]] / [[life-insurers/sumitomo-life|Sumitomo Life]] / [[life-insurers/t-and-d-hd|T&D HD]] affiliates** — 各主要生命保険会社は、保険内部マンデートと年金 / DC 商品の両方を供給する投資顧問 / 投資運用子会社を運営または投資している。
+- **[[asset-managers/tokio-marine-asset-management|Tokio Marine Asset Management]] / 損保系 AM** — 損保グループも、NISA 主導の個人向けよりも機関投資家 / 年金マンデートに焦点を置く AM 子会社を運営する。
 
 レーン2 の要点: 保険系 AM は、長期負債と ALM 主導マンデートに基づく保険料フロート規律を、銀行窓販や IFA パートナーを通じた個人向け商品販売と組み合わせる。公募商品の NISA / iDeCo シェアは一般にメガバンク系 AM より低いが、年金と投資一任の比重は大きい。
 
@@ -71,10 +71,10 @@ translated_at: 2026-06-03T00:53:08.269Z
 
 | AM | グループ | 差別化要素 |
 |---|---|---|
-| [[JapanFG/sbi-asset-management|SBI Asset Management]] | [[JapanFG/sbi-hd|SBI Group]] / SBIグローバルアセットマネジメント | [[JapanFG/sbi-securities|SBI Securities]]の NISA ファネルへ供給される低コストインデックスファンド（SBI Vシリーズ）。 |
-| 楽天投信投資顧問（Rakuten AM 相当） | [[JapanFG/rakuten-group|Rakuten Group]] / [[JapanFG/rakuten-securities|Rakuten Securities]]隣接 | Rakuten Securities の NISA チャネルで販売される楽天シリーズファンド。法的エンティティの状態は FSA 登録簿で確認する。 |
+| [[asset-managers/sbi-asset-management|SBI Asset Management]] | [[megabanks/sbi-hd|SBI Group]] / SBIグローバルアセットマネジメント | [[securities-firms/sbi-securities|SBI Securities]]の NISA ファネルへ供給される低コストインデックスファンド（SBI Vシリーズ）。 |
+| 楽天投信投資顧問（Rakuten AM 相当） | [[payment-firms/rakuten-group|Rakuten Group]] / [[securities-firms/rakuten-securities|Rakuten Securities]]隣接 | Rakuten Securities の NISA チャネルで販売される楽天シリーズファンド。法的エンティティの状態は FSA 登録簿で確認する。 |
 | SPARX Group | 上場独立系 AM | 長い実績を持つ日本株アクティブ運用会社。Asia / Japan に焦点を置く機関投資家向け / プライベートエクイティ AM。 |
-| [[JapanFG/monex-asset-management|Monex Asset Management]] | [[JapanFG/monex-group|Monex Group]] / [[JapanFG/monex-securities|Monex Securities]]隣接 | SBI / Rakuten より規模は小さいオンラインブローカー連動 AM。 |
+| [[securities-firms/monex-asset-management|Monex Asset Management]] | [[securities-firms/monex-group|Monex Group]] / [[securities-firms/monex-securities|Monex Securities]]隣接 | SBI / Rakuten より規模は小さいオンラインブローカー連動 AM。 |
 | コホート / ブティック AM | 各種 | ブティック型、オーナー主導型が多く、日本株またはオルタナティブ戦略に集中することが多い。 |
 
 レーン3 の要点: 独立系 / オンライン系レーンは二つのエンジンで動く。1 NISA フローを取り込む低コストインデックスファンドと、2ブティック型アクティブ / オルタナティブマンデートである。前者は TER とブランドで競争し、後者は実績と機関投資家の信頼で競争する。
@@ -108,7 +108,7 @@ translated_at: 2026-06-03T00:53:08.269Z
 | 公募投信 vs 私募投信比率 | 個人向けで公募比重が高いが私募も重要 | 私募比重が高い（年金 / マンデート） | 公募比重が高い（NISA / オンライン） | 混合。公募リテールと機関投資家マンデート |
 | 価格設定 | レガシーアクティブは中から高 TER。旗艦インデックスは競争的 | マンデートベースのフィー。可視性は低い | インデックスはゼロ近辺競争、テーマはプレミアム | グローバルアクティブでプレミアム価格 |
 | 規制アンカー | FSA 投資運用業、JITA、JSDA | FSA 投資運用業 + 保険規制 | FSA 投資運用業 + JSDA オンラインブローカー連携 | FSA 投資運用業、外国親会社規制 |
-| クロスドメインリンク | [[securities/japan-underwriting-market-structure|underwriting market]] | [[JapanFG/dai-ichi-life|life insurer pages]] | [[securities/japan-online-brokerage-competition|online brokerage competition]] | [[fintech/blackrock-buidl-tokenized-mmf-overview|tokenization context]] |
+| クロスドメインリンク | [[securities/japan-underwriting-market-structure|underwriting market]] | [[life-insurers/dai-ichi-life|life insurer pages]] | [[securities/japan-online-brokerage-competition|online brokerage competition]] | [[fintech/blackrock-buidl-tokenized-mmf-overview|tokenization context]] |
 
 ## NISA と iDeCo のレンズ
 
@@ -153,9 +153,9 @@ translated_at: 2026-06-03T00:53:08.269Z
 
 | 年 | 出来事 | 結果 |
 |---|---|---|
-| 2016 | DIAM + みずほ投信投資顧問 + 新光投信 + みずほ信託運用部門の統合 | Mizuho × Dai-ichi Life の共同プラットフォームとして[[JapanFG/asset-management-one|Asset Management One]]を形成。 |
-| 2019 | 三井住友アセットマネジメント（SMAM） + 大和住銀投信投資顧問の統合 | SMFG / Daiwa / Sumitomo Life / MS&AD 株主を横断する[[JapanFG/smd-am|SMD AM]]を形成。 |
-| 2023 | 三菱UFJ国際投信 + 三菱UFJ信託銀行運用部門の再編 | [[JapanFG/mufg-asset-management|MUFG Asset Management]]へ再編。MUFG グループの AM 機能を統合。 |
+| 2016 | DIAM + みずほ投信投資顧問 + 新光投信 + みずほ信託運用部門の統合 | Mizuho × Dai-ichi Life の共同プラットフォームとして[[asset-managers/asset-management-one|Asset Management One]]を形成。 |
+| 2019 | 三井住友アセットマネジメント（SMAM） + 大和住銀投信投資顧問の統合 | SMFG / Daiwa / Sumitomo Life / MS&AD 株主を横断する[[asset-managers/smd-am|SMD AM]]を形成。 |
+| 2023 | 三菱UFJ国際投信 + 三菱UFJ信託銀行運用部門の再編 | [[asset-managers/mufg-asset-management|MUFG Asset Management]]へ再編。MUFG グループの AM 機能を統合。 |
 | 継続中 | 外資系 AM の合理化（Vanguard 再編など） | レーン4 では複数の参入 / 撤退サイクルがあった。現地エンティティ登録は親会社戦略より速く変わる。 |
 
 これらの統合により、メガバンク系 AM の数は十数社超から、おおむね五つの極へ減った。次の統合波があるとすれば、レーン3 のブティック統合である可能性が、レーン1 のメガバンク合併より高い。メガバンク AM マップは概ね安定したためである。
@@ -176,7 +176,7 @@ translated_at: 2026-06-03T00:53:08.269Z
 
 | 当局 | 範囲 | 用途 |
 |---|---|---|
-| FSA（金融庁） | 投資運用業 / 第二種金融商品取引業 / 投資助言・代理業を認可し、FIBO 登録簿を公表する。 | 法的エンティティ状態、免許範囲、登録番号を確認する。[[JapanFG/legal-financial-licenses/securities-license-stack|securities license stack]]と照合する。 |
+| FSA（金融庁） | 投資運用業 / 第二種金融商品取引業 / 投資助言・代理業を認可し、FIBO 登録簿を公表する。 | 法的エンティティ状態、免許範囲、登録番号を確認する。[[financial-licenses/securities-license-stack|securities license stack]]と照合する。 |
 | JITA（投資信託協会） | 投資信託業界の自主規制団体。統計 / 月次ファンドデータを公表する。 | 業界集計 AUM、純流入、ファンド数、カテゴリ内訳に使う。 |
 | JSDA（日本証券業協会） | 証券自主規制団体。 | ブローカー側で AM 商品に関わる販売側ルール（適合性、顧客本位原則、販売行為）に使う。 |
 | MHLW（厚生労働省） | 確定拠出年金（DC / iDeCo）の規制と統計。 | DC / iDeCo の集計 AUM、制度数、加入者統計に使う。 |
@@ -187,7 +187,7 @@ translated_at: 2026-06-03T00:53:08.269Z
 ## このマトリクスの使い方
 
 1. まず、問いに合う**レーン**から始める。販売、年金、個人向け、グローバル商品のどれかである。
-2. エンティティ / 免許 / 株主事実を見るため、会社別ページ（例：[[JapanFG/nomura-asset-management|Nomura Asset Management]]、[[JapanFG/asset-management-one|Asset Management One]]、[[JapanFG/mufg-asset-management|MUFG Asset Management]]、[[JapanFG/smd-am|SMD AM]]、[[JapanFG/daiwa-asset-management|Daiwa Asset Management]]、[[JapanFG/nikko-asset-management|Nikko Asset Management]]、[[JapanFG/sbi-asset-management|SBI Asset Management]]）へ移動する。
+2. エンティティ / 免許 / 株主事実を見るため、会社別ページ（例：[[asset-managers/nomura-asset-management|Nomura Asset Management]]、[[asset-managers/asset-management-one|Asset Management One]]、[[asset-managers/mufg-asset-management|MUFG Asset Management]]、[[asset-managers/smd-am|SMD AM]]、[[asset-managers/daiwa-asset-management|Daiwa Asset Management]]、[[asset-managers/nikko-asset-management|Nikko Asset Management]]、[[asset-managers/sbi-asset-management|SBI Asset Management]]）へ移動する。
 3. FSA 登録は[[securities/financial-instruments-business-operators-japan-index|FIEA operator registry]]と照合する。
 4. 家計フローの話は[[securities/nisa-2024-flow|NISA 2024 flow]]と[[securities/japan-online-brokerage-competition|online brokerage competition]]を経由する。
 5. 機関投資家 / 引受側の話は[[securities/japan-underwriting-market-structure|underwriting market structure]]と[[securities/japan-market-infrastructure-map|market infrastructure map]]を経由する。
@@ -200,22 +200,22 @@ translated_at: 2026-06-03T00:53:08.269Z
 - [[securities/japan-market-infrastructure-map]]
 - [[securities/japan-online-brokerage-competition]]
 - [[securities/nisa-2024-flow]]
-- [[JapanFG/legal-financial-licenses/securities-license-stack]]
-- [[JapanFG/legal-financial-licenses/INDEX]]
-- [[JapanFG/nomura-asset-management]]
-- [[JapanFG/asset-management-one]]
-- [[JapanFG/mufg-asset-management]]
-- [[JapanFG/smd-am]]
-- [[JapanFG/daiwa-asset-management]]
-- [[JapanFG/nikko-asset-management]]
-- [[JapanFG/sbi-asset-management]]
-- [[JapanFG/nomura-hd]]
-- [[JapanFG/mizuho-fg]]
-- [[JapanFG/mufg]]
-- [[JapanFG/smfg]]
-- [[JapanFG/daiwa-sg]]
-- [[JapanFG/dai-ichi-life]]
-- [[JapanFG/sbi-hd]]
+- [[financial-licenses/securities-license-stack]]
+- [[financial-licenses/INDEX]]
+- [[asset-managers/nomura-asset-management]]
+- [[asset-managers/asset-management-one]]
+- [[asset-managers/mufg-asset-management]]
+- [[asset-managers/smd-am]]
+- [[asset-managers/daiwa-asset-management]]
+- [[asset-managers/nikko-asset-management]]
+- [[asset-managers/sbi-asset-management]]
+- [[securities-firms/nomura-hd]]
+- [[megabanks/mizuho-fg]]
+- [[megabanks/mufg]]
+- [[megabanks/smfg]]
+- [[securities-firms/daiwa-sg]]
+- [[life-insurers/dai-ichi-life]]
+- [[megabanks/sbi-hd]]
 - [[fintech/blackrock-buidl-tokenized-mmf-overview]]
 - [[INDEX|FinWiki index]]
 

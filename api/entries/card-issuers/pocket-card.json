@@ -1,0 +1,79 @@
+{
+  "schema_version": "1.0",
+  "slug": "card-issuers/pocket-card",
+  "source_path": "card-issuers/pocket-card.md",
+  "url": "https://finwiki.zksc.io/card-issuers/pocket-card",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/card-issuers/pocket-card.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/card-issuers/pocket-card.md",
+  "domain": "card-issuers",
+  "title": "ポケットカード (Pocket Card)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "ポケットカード (Pocket Card)",
+    "aliases": [
+      "Pocket Card",
+      "ポケットカード",
+      "ポケットカード株式会社"
+    ],
+    "domain": "card-issuers",
+    "created": "2026-05-21",
+    "last_updated": "2026-05-21",
+    "last_tended": "2026-05-21",
+    "review_by": "2026-11-21",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "payments",
+      "credit-card",
+      "retail-finance",
+      "consumer-credit"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.pocketcard.co.jp/ir/profile/profile_031.html",
+      "https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against エポスカード (EPOS Card) for peer / contrast context and payments index for the broader system / regulatory boundary.",
+  "headings": [
+    "ポケットカード (Pocket Card)",
+    "Wiki route",
+    "TL;DR",
+    "1. 法人・ライセンス境界",
+    "2. Business role",
+    "3. Why this standalone page matters",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 8,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "card-issuers/credit-saison",
+      "card-issuers/epos-card",
+      "card-issuers/jcb",
+      "loyalty/japan-points-landscape",
+      "payment-firms/famima-digital-one",
+      "payments/INDEX",
+      "payments/cashless-jp-landscape"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/card-issuers/credit-saison",
+      "https://finwiki.zksc.io/card-issuers/epos-card",
+      "https://finwiki.zksc.io/card-issuers/jcb",
+      "https://finwiki.zksc.io/loyalty/japan-points-landscape",
+      "https://finwiki.zksc.io/payment-firms/famima-digital-one",
+      "https://finwiki.zksc.io/payments/INDEX",
+      "https://finwiki.zksc.io/payments/cashless-jp-landscape"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 1874,
+    "word_like_tokens": 306,
+    "inbound_wikilinks_count": 5,
+    "last_modified": "2026-06-04"
+  }
+}

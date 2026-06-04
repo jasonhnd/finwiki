@@ -35,7 +35,7 @@ sources:
 
 ## TL;DR
 
-Japan consumer-loan ABS — issued in modest annual volumes (~JPY 300–600 bn) by the surviving consumer-finance and shopping-credit originators ([[JapanFG/acom|Acom]] under MUFG, [[JapanFG/aiful|Aiful]], [[JapanFG/smbc-consumer-finance|SMBC Consumer Finance]], [[JapanFG/aplus|Aplus]] under SBI / others, [[JapanFG/orico|Orient Corp]] under Mizuho-Itochu, [[JapanFG/jaccs|JACCS]]) — uses **dynamic-pool revolving structures with hard early-amortization triggers** because pool receivables are short-tenor (1–4 years) and continuously replenished. The asset class lives under the **interest-rate ceiling regime of 利息制限法 (Interest Rate Restriction Act)** capping APRs at 15–20% by loan size, with **the Moneylending Business Act (貸金業法) 2006 revision** having permanently restructured the industry — every surviving issuer rebuilt its underwriting and pool composition after the post-2006 overpayment-refund (過払い金) wave. Senior tranches are typically AAA with subordination of 15–25% (much deeper than auto-loan ABS at 6–12%, reflecting unsecured-pool default volatility). The **early-amortization trigger** is the bondholder's main protection: when cumulative net charge-off or 90+ day delinquency exceeds a threshold, the deal flips from revolving to amortising mode and senior bondholders get all incoming cash. Rated primarily by [[structured-finance/credit-rating-methodology-jcr-r-and-i|JCR and R&I]]; rarely co-rated by global agencies because foreign demand for unsecured-Japanese-consumer-credit ABS is thin.
+Japan consumer-loan ABS — issued in modest annual volumes (~JPY 300–600 bn) by the surviving consumer-finance and shopping-credit originators ([[consumer-finance/acom|Acom]] under MUFG, [[consumer-finance/aiful|Aiful]], [[consumer-finance/smbc-consumer-finance|SMBC Consumer Finance]], [[card-issuers/aplus|Aplus]] under SBI / others, [[card-issuers/orico|Orient Corp]] under Mizuho-Itochu, [[card-issuers/jaccs|JACCS]]) — uses **dynamic-pool revolving structures with hard early-amortization triggers** because pool receivables are short-tenor (1–4 years) and continuously replenished. The asset class lives under the **interest-rate ceiling regime of 利息制限法 (Interest Rate Restriction Act)** capping APRs at 15–20% by loan size, with **the Moneylending Business Act (貸金業法) 2006 revision** having permanently restructured the industry — every surviving issuer rebuilt its underwriting and pool composition after the post-2006 overpayment-refund (過払い金) wave. Senior tranches are typically AAA with subordination of 15–25% (much deeper than auto-loan ABS at 6–12%, reflecting unsecured-pool default volatility). The **early-amortization trigger** is the bondholder's main protection: when cumulative net charge-off or 90+ day delinquency exceeds a threshold, the deal flips from revolving to amortising mode and senior bondholders get all incoming cash. Rated primarily by [[structured-finance/credit-rating-methodology-jcr-r-and-i|JCR and R&I]]; rarely co-rated by global agencies because foreign demand for unsecured-Japanese-consumer-credit ABS is thin.
 
 ## Wiki route
 
@@ -47,12 +47,12 @@ The Japanese consumer-finance industry was massively consolidated by the 2006 Mo
 
 | Issuer | Affiliation | Pool focus | Notes |
 |---|---|---|---|
-| [[JapanFG/acom|Acom]] | MUFG group (consolidated subsidiary post-2008) | Unsecured consumer loans (mukotei, ~JPY 0.5–3M typical balance) | Largest standalone unsecured consumer-finance ABS issuer |
-| [[JapanFG/aiful|Aiful]] | Independent (avoided megabank acquisition) | Unsecured consumer loans + small-business loans | Survived 2009–2010 near-bankruptcy / ADR restructuring; issues ABS as a key funding tool |
-| [[JapanFG/smbc-consumer-finance|SMBC Consumer Finance]] | SMFG group (formerly Promise) | Unsecured consumer loans | Re-branded from Promise post-acquisition; tight underwriting |
-| [[JapanFG/aplus|Aplus]] | SBI Group affiliate | Shopping credit (installment) + small consumer loans | Mixed pool — installment / shopping credit dominates |
-| [[JapanFG/orico|Orient Corp]] | Mizuho-Itochu group | Shopping credit + auto-installment + consumer loans | Diversified; consumer-loan share is smaller than shopping credit |
-| [[JapanFG/jaccs|JACCS]] | MUFG group | Shopping credit + auto-installment + card | Smaller in pure consumer-loan ABS; bigger in installment / card |
+| [[consumer-finance/acom|Acom]] | MUFG group (consolidated subsidiary post-2008) | Unsecured consumer loans (mukotei, ~JPY 0.5–3M typical balance) | Largest standalone unsecured consumer-finance ABS issuer |
+| [[consumer-finance/aiful|Aiful]] | Independent (avoided megabank acquisition) | Unsecured consumer loans + small-business loans | Survived 2009–2010 near-bankruptcy / ADR restructuring; issues ABS as a key funding tool |
+| [[consumer-finance/smbc-consumer-finance|SMBC Consumer Finance]] | SMFG group (formerly Promise) | Unsecured consumer loans | Re-branded from Promise post-acquisition; tight underwriting |
+| [[card-issuers/aplus|Aplus]] | SBI Group affiliate | Shopping credit (installment) + small consumer loans | Mixed pool — installment / shopping credit dominates |
+| [[card-issuers/orico|Orient Corp]] | Mizuho-Itochu group | Shopping credit + auto-installment + consumer loans | Diversified; consumer-loan share is smaller than shopping credit |
+| [[card-issuers/jaccs|JACCS]] | MUFG group | Shopping credit + auto-installment + card | Smaller in pure consumer-loan ABS; bigger in installment / card |
 
 The pre-2006 universe (Takefuji, Lake, Sanyo Shinpan, etc.) is gone — bankrupted, acquired, or restructured into the survivors above. Industry consolidation is one of the structural facts that shapes today's ABS pool composition: surviving issuers underwrite tighter, repay-rate-track better, and have rebuilt rating-agency relationships.
 
@@ -164,15 +164,15 @@ Foreign investor participation is minimal in pure consumer-loan ABS — unlike a
 - **"The 過払い金 wave is ancient history"** — Refund claims technically continue (statute of limitations issues still produce occasional claims), and any new regulatory tightening could trigger a similar disruption; rating agencies still model this tail
 - **"Senior tranches survived 2008–2010 fine, so they're safe"** — They did, but the mechanism that saved them was rapid early-amortization activation; investors got money back early at par, but the **negative duration shock** is real — investors expecting WAL of 3 years got money back in 6 months
 - **"15–25% subordination is excessive"** — Critics note the subordination buffer has rarely been used in post-2010 deals (defaults trending down), suggesting structures could be more efficient; rating agencies counter that the tail risk justifies the buffer regardless of realised performance
-- **"BNPL is eating this market"** — BNPL ([[JapanFG/bnpl-landscape|BNPL landscape]]) competes for small-balance consumer-credit demand; whether BNPL receivables eventually appear in ABS pools is open
+- **"BNPL is eating this market"** — BNPL ([[payment-firms/bnpl-landscape|BNPL landscape]]) competes for small-balance consumer-credit demand; whether BNPL receivables eventually appear in ABS pools is open
 
 ## 10. Open questions
 
 - Whether BNPL-style receivables eventually get securitised at scale, and how rating agencies treat short-tenor (3-6 month) BNPL pools
-- Whether [[JapanFG/sbi-shinsei|Shinsei]]-affiliated [[JapanFG/aplus|Aplus]] and [[JapanFG/orico|Orient Corp]] consolidate consumer-finance ABS programs under new ownership structures
+- Whether [[regional-banks/sbi-shinsei|Shinsei]]-affiliated [[card-issuers/aplus|Aplus]] and [[card-issuers/orico|Orient Corp]] consolidate consumer-finance ABS programs under new ownership structures
 - Whether BOJ rate normalization stresses consumer borrower payment capacity meaningfully (current household leverage is low, so the channel is weak)
 - Whether digital-only / fintech consumer lenders ([[JapanFG/lendable|Lendable]], [[JapanFG/funds|Funds]], etc.) ever build pool scale sufficient to issue ABS
-- The role of [[JapanFG/jaccs|JACCS]] consolidating shopping-credit ABS as installment-sales receivables grow with e-commerce
+- The role of [[card-issuers/jaccs|JACCS]] consolidating shopping-credit ABS as installment-sales receivables grow with e-commerce
 
 ## Related
 
@@ -186,9 +186,9 @@ Foreign investor participation is minimal in pure consumer-loan ABS — unlike a
 - [[structured-finance/fitch-moody-sp-japan-criteria|Fitch / Moody's / S&P Japan criteria]]
 - [[structured-finance/spv-tk-gk-vehicle-japan-tax|TK / GK / TMK SPV vehicle]]
 - [[structured-finance/japan-securitization-product-matrix|Japan securitization product matrix]]
-- [[JapanFG/acom|Acom]] · [[JapanFG/aiful|Aiful]] · [[JapanFG/smbc-consumer-finance|SMBC Consumer Finance]]
-- [[JapanFG/aplus|Aplus]] · [[JapanFG/orico|Orient Corp]] · [[JapanFG/jaccs|JACCS]]
-- [[JapanFG/bnpl-landscape|BNPL landscape]]
+- [[consumer-finance/acom|Acom]] · [[consumer-finance/aiful|Aiful]] · [[consumer-finance/smbc-consumer-finance|SMBC Consumer Finance]]
+- [[card-issuers/aplus|Aplus]] · [[card-issuers/orico|Orient Corp]] · [[card-issuers/jaccs|JACCS]]
+- [[payment-firms/bnpl-landscape|BNPL landscape]]
 - [[banking/INDEX|banking index]] · [[finance/INDEX|finance index]]
 
 ## Sources

@@ -12,7 +12,7 @@ translated_at: 2026-05-31T03:19:56.391Z
 
 ## TL;DR
 
-EB（*Equity Bond*，他社株転換可能债）敲入是日本零售财富管理中分销最广的结构性产品形式，至 2022。从机制上看，买方做空一只日本股票（或最差表现一篮子）上的**向下敲入看跌期权**，以换取增强票息以及（在自动赎回变体中）提前赎回的机会。头条票息（通常年化 5-15 %）吸引了渴求收益的零售投资者。**尾部风险**是二元的：若表现最差的参考资产突破敲入障碍（通常为初始价的 50-70 %），投资者将按原始执行价被交割股票（或现金等价物）而非收到面值。单一事件中本金 30-70 % 的亏损是已实现的结果。**2022-2023  FSA 整顿**及随后的 JSDA 自律收紧将 EB 敲入分销作为最高优先级的零售保护问题；针对 [[JapanFG/nomura-hd|Nomura]]、[[JapanFG/smbc-nikko|SMBC Nikko]] 和 [[JapanFG/daiwa-sg|Daiwa]] 子公司的行政命令迫使主要分销商暂停或限制 EB 敲入零售销售。
+EB（*Equity Bond*，他社株転換可能债）敲入是日本零售财富管理中分销最广的结构性产品形式，至 2022。从机制上看，买方做空一只日本股票（或最差表现一篮子）上的**向下敲入看跌期权**，以换取增强票息以及（在自动赎回变体中）提前赎回的机会。头条票息（通常年化 5-15 %）吸引了渴求收益的零售投资者。**尾部风险**是二元的：若表现最差的参考资产突破敲入障碍（通常为初始价的 50-70 %），投资者将按原始执行价被交割股票（或现金等价物）而非收到面值。单一事件中本金 30-70 % 的亏损是已实现的结果。**2022-2023  FSA 整顿**及随后的 JSDA 自律收紧将 EB 敲入分销作为最高优先级的零售保护问题；针对 [[securities-firms/nomura-hd|Nomura]]、[[securities-firms/smbc-nikko|SMBC Nikko]] 和 [[securities-firms/daiwa-sg|Daiwa]] 子公司的行政命令迫使主要分销商暂停或限制 EB 敲入零售销售。
 
 ## Wiki route
 
@@ -148,9 +148,9 @@ FSA 在 **"客户至上"**（顧客本位の業務運営）框架下，自 2021 
 
 | 分销商 | 行动类别 |
 |---|---|
-| [[JapanFG/nomura-hd|Nomura Securities]] | 关于结构性债券（含 EB）销售流程与适当性的业务改善命令 |
-| [[JapanFG/smbc-nikko|SMBC Nikko Securities]] | 业务改善命令；围绕适当性流程的高级管理层问责 |
-| [[JapanFG/daiwa-sg|Daiwa Securities]] | 业务改善命令；适当性与披露改进 |
+| [[securities-firms/nomura-hd|Nomura Securities]] | 关于结构性债券（含 EB）销售流程与适当性的业务改善命令 |
+| [[securities-firms/smbc-nikko|SMBC Nikko Securities]] | 业务改善命令；围绕适当性流程的高级管理层问责 |
+| [[securities-firms/daiwa-sg|Daiwa Securities]] | 业务改善命令；适当性与披露改进 |
 | 多家地区银行关联券商 | 局部行政行动与自我暂停 |
 
 执法行动特别将 EB 敲入分销点名为最尖锐的适当性问题。费用负担披露、情景分析（亏损示例）以及客户适当性评估是主要的失败环节。
@@ -233,14 +233,14 @@ JSDA / FSA 汇总的行业统计显示，零售 EB 敲入销售从 2022  到 202
 - [[banking/INDEX]]
 - [[insurance/japan-life-insurance-alm-overview]]
 - [[securities/japan-prime-brokerage-and-institutional-financing]]
-- [[JapanFG/mufg]]
-- [[JapanFG/sumitomo-mitsui-banking-corp]]
-- [[JapanFG/mizuho-bank]]
-- [[JapanFG/nomura-hd]]
-- [[JapanFG/smbc-nikko]]
-- [[JapanFG/daiwa-sg]]
-- [[JapanFG/goldman-sachs-japan]]
-- [[JapanFG/morgan-stanley-japan]]
+- [[megabanks/mufg]]
+- [[megabanks/sumitomo-mitsui-banking-corp]]
+- [[megabanks/mizuho-bank]]
+- [[securities-firms/nomura-hd]]
+- [[securities-firms/smbc-nikko]]
+- [[securities-firms/daiwa-sg]]
+- [[securities-firms/goldman-sachs-japan]]
+- [[securities-firms/morgan-stanley-japan]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

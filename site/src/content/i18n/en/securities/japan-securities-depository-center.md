@@ -11,7 +11,7 @@ translated_at: 2026-06-01T04:15:40.103Z
 
 ## Wiki route
 
-This entry sits under [[securities/INDEX|securities index]]. Read it with [[securities/financial-instruments-business-operators-japan-index|financial instruments business operators japan index]] for adjacent context and [[JapanFG/legal-financial-licenses/INDEX|JapanFG index]] for the broader system boundary.
+This entry sits under [[securities/INDEX|securities index]]. Read it with [[securities/financial-instruments-business-operators-japan-index|financial instruments business operators japan index]] for adjacent context and [[financial-licenses/INDEX|JapanFG index]] for the broader system boundary.
 
 ## TL;DR
 
@@ -49,7 +49,7 @@ JASDEC is easy to miss because it is not consumer-facing. It becomes central whe
 - where broker-held shares are recorded;
 - how settlement risk is reduced via [[securities/japan-securities-clearing-corp|JSCC]] central counterparty layering;
 - how corporate actions flow through the system into venues such as [[securities/tokyo-stock-exchange|TSE]] and [[securities/osaka-digital-exchange|ODX]];
-- why digital securities and security-token markets need clear links to existing CSD infrastructure or a parallel settlement model (compare with the [[JapanFG/progmat|Progmat]] tokenization platform on the [[JapanFG/INDEX|JapanFG]] side).
+- why digital securities and security-token markets need clear links to existing CSD infrastructure or a parallel settlement model (compare with the [[payment-firms/progmat|Progmat]] tokenization platform on the [[JapanFG/INDEX|JapanFG]] side).
 
 ## Related
 

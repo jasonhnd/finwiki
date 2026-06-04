@@ -58,11 +58,11 @@ The decision flow:
 |---|---|---|---|
 | [[fintech/circle-usdc-stablecoin\|Circle USDC]] | `fintech/` | Stablecoin issuer + macro fintech case dominates the narrative | Referenced from `payments/` (settlement rail) and `JapanFG/` (Japan stablecoin-bank-perimeter context) |
 | [[fintech/stripe-usdb-bridge-stablecoin\|Stripe USDB / Bridge]] | `fintech/` | Stablecoin issuance is the lead story; the broader Stripe strategy lives under `business/` and `payments/` | Referenced from [[business/founder-pivot-outcome-template-matrix\|founder pivot template]] and embedded-wallet fintech-disintermediation entries |
-| [[JapanFG/jpmorgan-japan\|JPMorgan Japan]] | `JapanFG/` | Primary classification is "foreign bank with Japan branch / securities / trust subsidiaries" | Referenced from [[fintech/jpmorgan-jpmd-coin\|JPMD coin]] and [[fintech/jpm-onyx-wholesale-network\|JPM Onyx wholesale network]] for tokenized-deposit context |
-| [[fintech/jpmorgan-jpmd-coin\|JPM JPMD coin]] | `fintech/` | This is a stablecoin / tokenized-deposit product, not a bank entity | Referenced from [[JapanFG/jpmorgan-japan\|JPMorgan Japan]] |
+| [[foreign-financial-institutions/jpmorgan-japan\|JPMorgan Japan]] | `JapanFG/` | Primary classification is "foreign bank with Japan branch / securities / trust subsidiaries" | Referenced from [[fintech/jpmorgan-jpmd-coin\|JPMD coin]] and [[fintech/jpm-onyx-wholesale-network\|JPM Onyx wholesale network]] for tokenized-deposit context |
+| [[fintech/jpmorgan-jpmd-coin\|JPM JPMD coin]] | `fintech/` | This is a stablecoin / tokenized-deposit product, not a bank entity | Referenced from [[foreign-financial-institutions/jpmorgan-japan\|JPMorgan Japan]] |
 | [[fintech/jpm-onyx-wholesale-network\|JPM Onyx wholesale network]] | `fintech/` | This is a tokenized-money network, not a bank entity | Referenced from JapanFG JPMorgan page and from `systems/` cross-chain entries |
 | [[business/jamie-dimon-anti-crypto-pivot-case\|Jamie Dimon anti-crypto pivot]] | `business/` | This is a public-figure strategic-narrative entry | Referenced from JPMorgan-related fintech entries |
-| [[insurance/saison-automobile-fire\|Saison Automobile & Fire (insurance)]] + [[JapanFG/saison-automobile-fire-insurance\|same (JapanFG)]] | mirrored | Insurance perimeter and JapanFG operating-company perimeter both apply | See [[entity-mirror-page-policy]] |
+| [[insurance/saison-automobile-fire\|Saison Automobile & Fire (insurance)]] + [[non-life-insurers/saison-automobile-fire-insurance\|same (JapanFG)]] | mirrored | Insurance perimeter and JapanFG operating-company perimeter both apply | See [[entity-mirror-page-policy]] |
 
 ## 4. When the canonical anchor sits in fintech but the entity is also a Japan-regulated operator
 
@@ -70,7 +70,7 @@ Stablecoin issuers, tokenized-money products, and global macro policy lines almo
 
 The Japan-side operator, when one exists, gets a separate, shorter `JapanFG/` page that focuses on the **Japan license**, **Japan capital**, and **Japan counterparty perimeter**, and that links back to the fintech anchor for the global product / reserve / treasury context.
 
-Example: [[JapanFG/jpmorgan-japan|JPMorgan Japan]] focuses on the **Japan four-entity structure** (banking branch + securities + asset management + trust bank). The global JPM crypto / tokenized-deposit story sits in [[fintech/jpmorgan-jpmd-coin|JPMD coin]] and [[fintech/jpm-onyx-wholesale-network|JPM Onyx wholesale network]]. The [[business/jamie-dimon-anti-crypto-pivot-case|Jamie Dimon pivot case]] sits separately under `business/`.
+Example: [[foreign-financial-institutions/jpmorgan-japan|JPMorgan Japan]] focuses on the **Japan four-entity structure** (banking branch + securities + asset management + trust bank). The global JPM crypto / tokenized-deposit story sits in [[fintech/jpmorgan-jpmd-coin|JPMD coin]] and [[fintech/jpm-onyx-wholesale-network|JPM Onyx wholesale network]]. The [[business/jamie-dimon-anti-crypto-pivot-case|Jamie Dimon pivot case]] sits separately under `business/`.
 
 ## 5. When to create a mirror page instead of a cross-link
 
@@ -78,7 +78,7 @@ See [[entity-mirror-page-policy]] for the full rule. The short version:
 
 - Default: **one canonical anchor + cross-links from other domains**.
 - Mirror page is justified when the same operating entity has **distinct regulator-facing perimeters** (e.g. insurance license vs. JapanFG operating-company catalog), or when each domain's index would lose navigational completeness without a local stub.
-- Example of justified mirror: [[insurance/saison-automobile-fire]] + [[JapanFG/saison-automobile-fire-insurance]]. The insurance domain anchor focuses on **product economics and channel mix**; the JapanFG anchor focuses on **the Credit Saison brand stack + SOMPO subsidiary structure**.
+- Example of justified mirror: [[insurance/saison-automobile-fire]] + [[non-life-insurers/saison-automobile-fire-insurance]]. The insurance domain anchor focuses on **product economics and channel mix**; the JapanFG anchor focuses on **the Credit Saison brand stack + SOMPO subsidiary structure**.
 
 ## 6. Frontmatter alignment for cross-domain entities
 
@@ -122,4 +122,4 @@ Mechanically:
 - [[SCHEMA]] — frontmatter spec, body-link rule.
 - [[AGENTS]] — public-surface rule, trilingual maintenance protocol.
 - [[INDEX]] — domain map, 23 domains, current entry counts.
-- Example entries: [[fintech/circle-usdc-stablecoin]], [[fintech/stripe-usdb-bridge-stablecoin]], [[JapanFG/jpmorgan-japan]], [[fintech/jpmorgan-jpmd-coin]], [[fintech/jpm-onyx-wholesale-network]], [[insurance/saison-automobile-fire]], [[JapanFG/saison-automobile-fire-insurance]], [[business/jamie-dimon-anti-crypto-pivot-case]].
+- Example entries: [[fintech/circle-usdc-stablecoin]], [[fintech/stripe-usdb-bridge-stablecoin]], [[foreign-financial-institutions/jpmorgan-japan]], [[fintech/jpmorgan-jpmd-coin]], [[fintech/jpm-onyx-wholesale-network]], [[insurance/saison-automobile-fire]], [[non-life-insurers/saison-automobile-fire-insurance]], [[business/jamie-dimon-anti-crypto-pivot-case]].

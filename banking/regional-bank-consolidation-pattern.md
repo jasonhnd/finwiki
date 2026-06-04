@@ -26,7 +26,7 @@ sources:
 
 Regional bank consolidation in Japan is driven by local demographic pressure, narrow net interest margins, branch / system cost, digital investment needs, and the need to maintain basic financial services in shrinking regions. FSA's framing emphasizes customer-problem solving, financial-intermediation quality, and voluntary management decisions rather than forced consolidation.
 
-Use this page for [[JapanFG/tomony-hd]], [[JapanFG/chiba-bank]], [[JapanFG/fukuoka-fg]], [[JapanFG/concordia-fg]], [[JapanFG/18-shinwa-bank]], [[JapanFG/akita-bank]], [[JapanFG/iwate-bank]], and [[JapanFG/joyo-bank]].
+Use this page for [[regional-banks/tomony-hd]], [[regional-banks/chiba-bank]], [[regional-banks/fukuoka-fg]], [[regional-banks/concordia-fg]], [[regional-banks/18-shinwa-bank]], [[regional-banks/akita-bank]], [[regional-banks/iwate-bank]], and [[regional-banks/joyo-bank]].
 
 ## Consolidation Forms
 
@@ -51,9 +51,9 @@ The structural pressure is not one variable:
 
 ## JapanFG Relevance
 
-- [[JapanFG/tomony-hd]] is the inbound consolidation-case anchor.
-- [[JapanFG/fukuoka-fg]] and [[JapanFG/concordia-fg]] are strong regional-bank-group examples.
-- [[JapanFG/chiba-bank]], [[JapanFG/akita-bank]], [[JapanFG/iwate-bank]], and [[JapanFG/joyo-bank]] should be read as local-franchise cases, not megabank substitutes.
+- [[regional-banks/tomony-hd]] is the inbound consolidation-case anchor.
+- [[regional-banks/fukuoka-fg]] and [[regional-banks/concordia-fg]] are strong regional-bank-group examples.
+- [[regional-banks/chiba-bank]], [[regional-banks/akita-bank]], [[regional-banks/iwate-bank]], and [[regional-banks/joyo-bank]] should be read as local-franchise cases, not megabank substitutes.
 - [[banking/post-megabank-positioning]] explains which banks are too strategic / broad to treat as simple regional banks.
 
 ## Decision Use
@@ -71,11 +71,11 @@ Use this page when asking whether a regional bank is:
 - [[banking/INDEX|banking INDEX]]
 - [[banking/post-megabank-positioning]]
 - [[banking/cooperative-banking-japan]]
-- [[JapanFG/tomony-hd]]
-- [[JapanFG/chiba-bank]]
-- [[JapanFG/fukuoka-fg]]
-- [[JapanFG/concordia-fg]]
-- [[JapanFG/legal-financial-licenses/INDEX]]
+- [[regional-banks/tomony-hd]]
+- [[regional-banks/chiba-bank]]
+- [[regional-banks/fukuoka-fg]]
+- [[regional-banks/concordia-fg]]
+- [[financial-licenses/INDEX]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

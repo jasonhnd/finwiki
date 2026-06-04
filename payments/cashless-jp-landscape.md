@@ -44,11 +44,11 @@ The useful FinWiki lens is not "cashless vs cash." It is **which legal balance l
 
 | Layer | What it does | Main examples | FinWiki route |
 |---|---|---|---|
-| Credit card | Largest cashless value pool; issuer/acquirer economics; revolving and installment adjacency | [[JapanFG/jcb|JCB]], SMBC Card, MUFG NICOS, Rakuten Card, PayPay Card, AEON Card | [[JapanFG/legal-financial-licenses/INDEX|legal / financial licenses]] |
-| Code payment | Smartphone QR/barcode payment, campaign subsidies, app traffic, P2P transfer adjacency | PayPay, Rakuten Pay, d払い, au PAY, Merpay | [[JapanFG/paypay-fg|PayPay FG]], [[JapanFG/rakuten-fg|Rakuten FG]], [[JapanFG/mercari-hd|Mercari HD]] |
+| Credit card | Largest cashless value pool; issuer/acquirer economics; revolving and installment adjacency | [[card-issuers/jcb|JCB]], SMBC Card, MUFG NICOS, Rakuten Card, PayPay Card, AEON Card | [[financial-licenses/INDEX|legal / financial licenses]] |
+| Code payment | Smartphone QR/barcode payment, campaign subsidies, app traffic, P2P transfer adjacency | PayPay, Rakuten Pay, d払い, au PAY, Merpay | [[megabanks/paypay-fg|PayPay FG]], [[payment-firms/rakuten-fg|Rakuten FG]], [[payment-firms/mercari-hd|Mercari HD]] |
 | Electronic money / prepaid | Stored-value payment before or at purchase; transit / retail / mall use cases | WAON, nanaco, Suica/PASMO, Rakuten Edy | [[retail/aeon-group|Aeon Group]], [[retail/seven-and-i-hd|Seven & i]] |
 | Bank-linked payment | Debit, bank transfer, account-to-account, BaaS, embedded account opening | GMO Aozora, Minna Bank, J-Coin, Bank Pay, app-bank integrations | [[banking/baas-japan-landscape|BaaS Japan landscape]] |
-| PSP / acquiring | Merchant acceptance, settlement, fraud controls, PCI DSS, multi-method checkout | [[JapanFG/gmo-payment-gateway|GMO Payment Gateway]], SB Payment Service, DGFT, Stripe, Adyen | [[business/gmo-internet-group|GMO Internet Group]] |
+| PSP / acquiring | Merchant acceptance, settlement, fraud controls, PCI DSS, multi-method checkout | [[payment-firms/gmo-payment-gateway|GMO Payment Gateway]], SB Payment Service, DGFT, Stripe, Adyen | [[business/gmo-internet-group|GMO Internet Group]] |
 | Loyalty layer | Points issuance, redemption, campaign economics, ID graph and merchant CRM | Rakuten Point, V Point, d Point, PayPay Point, WAON POINT, nanaco point | [[loyalty/japan-points-landscape|Japan points landscape]] |
 | Tokenized money | Stablecoin / electronic payment instruments / crypto-asset settlement boundary | JPYC, USDC via EPI route, Progmat, DCJPY | [[fintech/japan-stablecoin-regulatory-landscape|Japan stablecoin regulatory landscape]] |
 
@@ -69,10 +69,10 @@ METI's 2025 calculation changed the discussion because Japan moved from "catch-u
 |---|---|---|
 | PayPay / SoftBank / LY | Largest code-payment mindshare, high app frequency, card / bank / securities adjacency | Promotion costs, monetization pressure, bank / securities integration complexity |
 | Rakuten | Integrated EC, card, bank, securities, mobile, Rakuten Point flywheel | Mobile profitability and ecosystem fatigue can weaken the flywheel |
-| NTT docomo / d | Telco ID, d Point, d払い, planned [[JapanFG/ndfg|NDFG]] financial-group consolidation | Needs tighter bank / securities / insurance product integration |
+| NTT docomo / d | Telco ID, d Point, d払い, planned [[megabanks/ndfg|NDFG]] financial-group consolidation | Needs tighter bank / securities / insurance product integration |
 | au / KDDI | au PAY, au Jibun Bank, insurance / securities, Lawson adjacency | Retail footprint and payment mindshare trail PayPay / Rakuten in many contexts |
-| AEON | Mall and supermarket traffic, AEON Card, WAON, [[JapanFG/aeon-bank|Aeon Bank]] | Strong in AEON daily-life zones but less universal outside the group |
-| Seven & i | Convenience-store traffic, nanaco, [[JapanFG/seven-bank|Seven Bank]] ATM platform | nanaco is powerful in group context but code-payment share is not the main national battleground |
+| AEON | Mall and supermarket traffic, AEON Card, WAON, [[card-issuers/aeon-bank|Aeon Bank]] | Strong in AEON daily-life zones but less universal outside the group |
+| Seven & i | Convenience-store traffic, nanaco, [[regional-banks/seven-bank|Seven Bank]] ATM platform | nanaco is powerful in group context but code-payment share is not the main national battleground |
 | GMO / PSP layer | Merchant acceptance, EC checkout, multi-payment orchestration, B2B payment data | Mostly merchant-side infrastructure, less consumer-brand control |
 
 ## Legal Stack
@@ -93,22 +93,22 @@ Cashless products should be decomposed by legal function, not by app brand:
 
 Retail finance in Japan is converging around **payment frequency as the distribution wedge**:
 
-- [[JapanFG/paypay-fg|PayPay FG]] can route daily payment users into card, bank, securities, and insurance.
-- [[JapanFG/rakuten-fg|Rakuten FG]] converts shopping and card rewards into bank / securities / mobile retention.
-- [[JapanFG/aeon-bank|Aeon Bank]] uses retail stores, WAON, and AEON Card to make banking part of shopping flow.
-- [[JapanFG/seven-bank|Seven Bank]] is redefining ATMs from cash machines into broader authentication / settlement infrastructure.
-- [[JapanFG/gmo-payment-gateway|GMO Payment Gateway]] is a merchant-side tollgate: less consumer visible, but deeply embedded in EC settlement.
+- [[megabanks/paypay-fg|PayPay FG]] can route daily payment users into card, bank, securities, and insurance.
+- [[payment-firms/rakuten-fg|Rakuten FG]] converts shopping and card rewards into bank / securities / mobile retention.
+- [[card-issuers/aeon-bank|Aeon Bank]] uses retail stores, WAON, and AEON Card to make banking part of shopping flow.
+- [[regional-banks/seven-bank|Seven Bank]] is redefining ATMs from cash machines into broader authentication / settlement infrastructure.
+- [[payment-firms/gmo-payment-gateway|GMO Payment Gateway]] is a merchant-side tollgate: less consumer visible, but deeply embedded in EC settlement.
 
 ## Related
 
 - [[payments/INDEX|payments INDEX]]
-- [[JapanFG/legal-financial-licenses/INDEX|JapanFG legal / financial licenses]]
+- [[financial-licenses/INDEX|JapanFG legal / financial licenses]]
 - [[loyalty/japan-points-landscape|Japan points landscape]]
 - [[retail/aeon-group|Aeon Group]]
 - [[retail/seven-and-i-hd|Seven & i]]
-- [[JapanFG/aeon-bank|Aeon Bank / AFS]]
-- [[JapanFG/seven-bank|Seven Bank]]
-- [[JapanFG/gmo-payment-gateway|GMO Payment Gateway]]
+- [[card-issuers/aeon-bank|Aeon Bank / AFS]]
+- [[regional-banks/seven-bank|Seven Bank]]
+- [[payment-firms/gmo-payment-gateway|GMO Payment Gateway]]
 - [[fintech/japan-financial-regulation|Japan financial regulation]]
 - [[fintech/japan-stablecoin-regulatory-landscape|Japan stablecoin regulatory landscape]]
 - [[INDEX|FinWiki index]]

@@ -54,8 +54,6 @@
   "body_links": {
     "wikilinks_count": 11,
     "wikilinks": [
-      "JapanFG/jpyc",
-      "JapanFG/progmat",
       "central-banking-function-unbundling",
       "fintech/INDEX",
       "fintech/fatf-travel-rule-cross-border-stack",
@@ -64,11 +62,11 @@
       "fintech/three-circles-stablecoin-mra-framework",
       "genius-act-501-denylist-mandate",
       "occ-trust-bank-charter-federal-stablecoin-arbitrage",
+      "payment-firms/jpyc",
+      "payment-firms/progmat",
       "three-circles-stablecoin-mra-framework"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/jpyc",
-      "https://finwiki.zksc.io/JapanFG/progmat",
       "https://finwiki.zksc.io/central-banking-function-unbundling",
       "https://finwiki.zksc.io/fintech/INDEX",
       "https://finwiki.zksc.io/fintech/fatf-travel-rule-cross-border-stack",
@@ -77,15 +75,17 @@
       "https://finwiki.zksc.io/fintech/three-circles-stablecoin-mra-framework",
       "https://finwiki.zksc.io/genius-act-501-denylist-mandate",
       "https://finwiki.zksc.io/occ-trust-bank-charter-federal-stablecoin-arbitrage",
+      "https://finwiki.zksc.io/payment-firms/jpyc",
+      "https://finwiki.zksc.io/payment-firms/progmat",
       "https://finwiki.zksc.io/three-circles-stablecoin-mra-framework"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3195,
-    "word_like_tokens": 553,
-    "inbound_wikilinks_count": 22,
-    "last_modified": "2026-05-26"
+    "nonspace_chars": 3207,
+    "word_like_tokens": 555,
+    "inbound_wikilinks_count": 23,
+    "last_modified": "2026-06-04"
   }
 }

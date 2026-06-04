@@ -73,7 +73,7 @@ Excluded: opaque proprietary products, non-public bilateral term sheets, unverif
 | OTC derivatives | IRS, OIS, basis swap, CDS, FX option | This domain |
 | Listed derivatives | JGB futures, TONA futures, Nikkei 225 futures and options | [[securities/INDEX]], [[exchanges/INDEX]] if present |
 | CCP / clearing | JSCC clears yen IRS, listed futures, JGB OTC clearing where applicable | [[securities/japan-securities-clearing-corp]] |
-| Dealer franchise | Megabank treasury / markets and securities-firm sales-and-trading desks | [[banking/INDEX]], [[JapanFG/mufg-bank]], [[JapanFG/sumitomo-mitsui-banking-corp]], [[JapanFG/mizuho-bank]] |
+| Dealer franchise | Megabank treasury / markets and securities-firm sales-and-trading desks | [[banking/INDEX]], [[megabanks/mufg-bank]], [[megabanks/sumitomo-mitsui-banking-corp]], [[megabanks/mizuho-bank]] |
 | Regulation | FIEA, BoJ surveillance, FSA supervision, ISDA documentation, CCP clearing mandate | [[banking/japan-banking-license-tier-comparison-matrix]], [[finance/INDEX]] |
 
 ## Related domains
@@ -94,11 +94,11 @@ Excluded: opaque proprietary products, non-public bilateral term sheets, unverif
 
 | Cluster | Entities |
 |---|---|
-| Megabank dealer franchise | [[JapanFG/mufg-bank]], [[JapanFG/sumitomo-mitsui-banking-corp]], [[JapanFG/mizuho-bank]] |
+| Megabank dealer franchise | [[megabanks/mufg-bank]], [[megabanks/sumitomo-mitsui-banking-corp]], [[megabanks/mizuho-bank]] |
 | Securities-firm rates / credit dealing | (where pages exist) Nomura, Daiwa, Mitsubishi UFJ Morgan Stanley, Mizuho Securities, SMBC Nikko |
-| Securities financing | [[JapanFG/japan-securities-finance]] |
+| Securities financing | [[financial-regulators/japan-securities-finance]] |
 | Tanshi / repo-adjacent | [[money-market/tanshi-company-business-model]], [[money-market/call-market-structure]] |
-| Central bank | [[JapanFG/boj-monetary-policy]] (where present) |
+| Central bank | [[financial-regulators/boj-monetary-policy]] (where present) |
 
 ## Research Control
 

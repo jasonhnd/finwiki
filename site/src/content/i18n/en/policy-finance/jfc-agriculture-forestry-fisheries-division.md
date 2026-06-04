@@ -11,7 +11,7 @@ translated_at: 2026-06-01T03:31:12.285Z
 
 ## Wiki Route
 
-This entry sits under [[policy-finance/INDEX|policy-finance index]]. Read it with [[JapanFG/jfc|JFC]], [[JapanFG/norinchukin|Norinchukin]], and [[policy-finance/agriculture-credit-guarantee-system|Japan agriculture credit-guarantee system]] for the cooperative-finance perimeter.
+This entry sits under [[policy-finance/INDEX|policy-finance index]]. Read it with [[financial-regulators/jfc|JFC]], [[cooperative-banks/norinchukin|Norinchukin]], and [[policy-finance/agriculture-credit-guarantee-system|Japan agriculture credit-guarantee system]] for the cooperative-finance perimeter.
 
 ## TL;DR
 
@@ -19,7 +19,7 @@ JFC's Agriculture, Forestry and Fisheries Division is the policy-finance lane fo
 
 ## 1. Mandate And Counterpart System
 
-The division is unusual because its private-sector counterpart is not fragmented commercial banking but a cooperative pyramid: JA Bank, fisheries cooperative finance, forestry cooperatives, prefectural cooperative federations, and [[JapanFG/norinchukin|Norinchukin]]. MAFF policy plans and subsidy programs shape the product menu and underwriting overlay.
+The division is unusual because its private-sector counterpart is not fragmented commercial banking but a cooperative pyramid: JA Bank, fisheries cooperative finance, forestry cooperatives, prefectural cooperative federations, and [[cooperative-banks/norinchukin|Norinchukin]]. MAFF policy plans and subsidy programs shape the product menu and underwriting overlay.
 
 | Lane | Main product family | Typical use | Counterpart channel |
 |---|---|---|---|
@@ -60,8 +60,8 @@ Recent emphasis has moved toward food security, climate and disaster resilience,
 ## Related
 
 - [[policy-finance/INDEX]]
-- [[JapanFG/jfc]]
-- [[JapanFG/norinchukin]]
+- [[financial-regulators/jfc]]
+- [[cooperative-banks/norinchukin]]
 - [[policy-finance/agriculture-credit-guarantee-system]]
 - [[policy-finance/japan-credit-guarantee-system]]
 - [[policy-finance/jbic-overseas-investment-underwriting-process]]

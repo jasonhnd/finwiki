@@ -1,0 +1,108 @@
+{
+  "schema_version": "1.0",
+  "slug": "financial-regulators/zenshin-kyo",
+  "source_path": "financial-regulators/zenshin-kyo.md",
+  "url": "https://finwiki.zksc.io/financial-regulators/zenshin-kyo",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/financial-regulators/zenshin-kyo.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/financial-regulators/zenshin-kyo.md",
+  "domain": "financial-regulators",
+  "title": "National Association of Shinkin Banks (Zenshin-kyō / 全国信用金庫協会)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "National Association of Shinkin Banks (Zenshin-kyō / 全国信用金庫協会)",
+    "aliases": [
+      "financial-regulators/zenshin-kyo",
+      "zenshin-kyo",
+      "Zenshin-kyō",
+      "Zenshinkyo",
+      "National Association of Shinkin Banks",
+      "全国信用金庫協会",
+      "全信協",
+      "Shinkin Central Association"
+    ],
+    "domain": "financial-regulators",
+    "created": "2026-05-24",
+    "last_updated": "2026-05-24",
+    "last_tended": "2026-05-24",
+    "review_by": "2026-11-20",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "industry-body",
+      "banking",
+      "shinkin",
+      "co-operative",
+      "FSA",
+      "public-source"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.shinkin.org/",
+      "https://www.shinkin.org/zenshinkyo/about/",
+      "https://www.shinkin.org/zenshinkyo/about/member/",
+      "https://www.fsa.go.jp/menkyo/menkyo.html",
+      "https://www.fsa.go.jp/common/law/guide/coop/",
+      "https://laws.e-gov.go.jp/law/326AC0000000238"
+    ]
+  },
+  "summary": "Zenshin-kyō (全信協) is the national industry body for Japan's shinkin banks (信用金庫) — member-owned co-operative financial institutions chartered under the Shinkin Bank Act, distinct from commercial banks under the Banking Act. It sits at the policy / coordination layer of the shinkin system, working al",
+  "headings": [
+    "National Association of Shinkin Banks (Zenshin-kyō / 全国信用金庫協会)",
+    "TL;DR",
+    "Wiki route",
+    "Legal route / statutory position (法令の根拠)",
+    "Function / scope",
+    "Membership / governance",
+    "Related industry adjacency",
+    "Why this page matters",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 16,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "banking/INDEX",
+      "cooperative-banks/shinkin-central",
+      "cooperative-banks/yokohama-shinkin",
+      "cooperative-banks/zenshin-kumi",
+      "financial-licenses/INDEX",
+      "financial-licenses/bank-license-and-baas-boundary",
+      "financial-regulators/dai2-chigin-kyo",
+      "financial-regulators/fsa",
+      "financial-regulators/jsda",
+      "financial-regulators/seiho-kyokai",
+      "financial-regulators/shintaku-kyokai",
+      "financial-regulators/sonpo-kyokai",
+      "financial-regulators/yokin-hoken-kiko",
+      "financial-regulators/zenchugin-kyo",
+      "financial-regulators/zenginkyo"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/cooperative-banks/shinkin-central",
+      "https://finwiki.zksc.io/cooperative-banks/yokohama-shinkin",
+      "https://finwiki.zksc.io/cooperative-banks/zenshin-kumi",
+      "https://finwiki.zksc.io/financial-licenses/INDEX",
+      "https://finwiki.zksc.io/financial-licenses/bank-license-and-baas-boundary",
+      "https://finwiki.zksc.io/financial-regulators/dai2-chigin-kyo",
+      "https://finwiki.zksc.io/financial-regulators/fsa",
+      "https://finwiki.zksc.io/financial-regulators/jsda",
+      "https://finwiki.zksc.io/financial-regulators/seiho-kyokai",
+      "https://finwiki.zksc.io/financial-regulators/shintaku-kyokai",
+      "https://finwiki.zksc.io/financial-regulators/sonpo-kyokai",
+      "https://finwiki.zksc.io/financial-regulators/yokin-hoken-kiko",
+      "https://finwiki.zksc.io/financial-regulators/zenchugin-kyo",
+      "https://finwiki.zksc.io/financial-regulators/zenginkyo"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 8108,
+    "word_like_tokens": 1226,
+    "inbound_wikilinks_count": 17,
+    "last_modified": "2026-06-04"
+  }
+}

@@ -48,32 +48,32 @@
   "body_links": {
     "wikilinks_count": 8,
     "wikilinks": [
-      "JapanFG/au-fh",
-      "JapanFG/au-jibun-bank",
-      "JapanFG/sony-fg",
-      "JapanFG/ssnb",
       "banking/INDEX",
       "banking/cooperative-banking-japan",
       "banking/paypay-bank",
-      "banking/rakuten-bank"
+      "banking/rakuten-bank",
+      "megabanks/au-fh",
+      "megabanks/sony-fg",
+      "regional-banks/au-jibun-bank",
+      "regional-banks/ssnb"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/au-fh",
-      "https://finwiki.zksc.io/JapanFG/au-jibun-bank",
-      "https://finwiki.zksc.io/JapanFG/sony-fg",
-      "https://finwiki.zksc.io/JapanFG/ssnb",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/cooperative-banking-japan",
       "https://finwiki.zksc.io/banking/paypay-bank",
-      "https://finwiki.zksc.io/banking/rakuten-bank"
+      "https://finwiki.zksc.io/banking/rakuten-bank",
+      "https://finwiki.zksc.io/megabanks/au-fh",
+      "https://finwiki.zksc.io/megabanks/sony-fg",
+      "https://finwiki.zksc.io/regional-banks/au-jibun-bank",
+      "https://finwiki.zksc.io/regional-banks/ssnb"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1667,
-    "word_like_tokens": 282,
-    "inbound_wikilinks_count": 15,
-    "last_modified": "2026-06-03"
+    "nonspace_chars": 1689,
+    "word_like_tokens": 284,
+    "inbound_wikilinks_count": 16,
+    "last_modified": "2026-06-04"
   }
 }

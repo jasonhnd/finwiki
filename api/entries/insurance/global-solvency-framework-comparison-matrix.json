@@ -42,7 +42,7 @@
       "https://www.oecd.org/finance/insurance/"
     ]
   },
-  "summary": "This entry sits under insurance index and is the cross-jurisdiction comparison page for insurer capital frameworks. Read it against insurance/economic-value-based-solvency and insurance/esr-economic-value-solvency for the Japan-specific economic-value detail, against JapanFG/legal-financial-licenses",
+  "summary": "This entry sits under insurance index and is the cross-jurisdiction comparison page for insurer capital frameworks. Read it against insurance/economic-value-based-solvency and insurance/esr-economic-value-solvency for the Japan-specific economic-value detail, against financial-licenses/insurance-lic",
   "headings": [
     "Global solvency framework comparison matrix",
     "Wiki route",
@@ -59,37 +59,37 @@
     "wikilinks_count": 11,
     "wikilinks": [
       "INDEX",
-      "JapanFG/dai-ichi-life",
-      "JapanFG/legal-financial-licenses/insurance-license-and-solvency",
-      "JapanFG/tokio-marine",
+      "financial-licenses/insurance-license-and-solvency",
       "insurance/INDEX",
       "insurance/economic-value-based-solvency",
       "insurance/esr-economic-value-solvency",
       "insurance/japan-life-insurance-big-four",
       "insurance/japan-nonlife-big-three",
       "insurance/mutual-vs-stock-life-insurer",
-      "insurance/natcat-reinsurance-japan"
+      "insurance/natcat-reinsurance-japan",
+      "life-insurers/dai-ichi-life",
+      "non-life-insurers/tokio-marine"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/dai-ichi-life",
-      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/insurance-license-and-solvency",
-      "https://finwiki.zksc.io/JapanFG/tokio-marine",
+      "https://finwiki.zksc.io/financial-licenses/insurance-license-and-solvency",
       "https://finwiki.zksc.io/insurance/INDEX",
       "https://finwiki.zksc.io/insurance/economic-value-based-solvency",
       "https://finwiki.zksc.io/insurance/esr-economic-value-solvency",
       "https://finwiki.zksc.io/insurance/japan-life-insurance-big-four",
       "https://finwiki.zksc.io/insurance/japan-nonlife-big-three",
       "https://finwiki.zksc.io/insurance/mutual-vs-stock-life-insurer",
-      "https://finwiki.zksc.io/insurance/natcat-reinsurance-japan"
+      "https://finwiki.zksc.io/insurance/natcat-reinsurance-japan",
+      "https://finwiki.zksc.io/life-insurers/dai-ichi-life",
+      "https://finwiki.zksc.io/non-life-insurers/tokio-marine"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 14252,
-    "word_like_tokens": 2302,
-    "inbound_wikilinks_count": 31,
-    "last_modified": "2026-05-24"
+    "nonspace_chars": 14258,
+    "word_like_tokens": 2305,
+    "inbound_wikilinks_count": 33,
+    "last_modified": "2026-06-04"
   }
 }

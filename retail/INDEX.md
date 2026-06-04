@@ -64,7 +64,7 @@ The domain now tracks four retail-finance groups — [[retail/aeon-group|AEON Gr
 | Pattern | AEON | Seven & i | Lawson | FamilyMart |
 |---|---|---|---|---|
 | Main physical wedge | Supermarket / mall / shopping-center visits | Convenience-store density | Convenience-store density | Convenience-store density |
-| Bank layer | [[JapanFG/aeon-bank|Aeon Bank / AFS]] | [[JapanFG/seven-bank|Seven Bank]] | Lawson Bank | No own bank; Itochu / partner financial distribution |
+| Bank layer | [[card-issuers/aeon-bank|Aeon Bank / AFS]] | [[regional-banks/seven-bank|Seven Bank]] | Lawson Bank | No own bank; Itochu / partner financial distribution |
 | Payment / stored value | WAON, AEON Pay, AEON Card | nanaco, Seven Card, ATM services | au PAY, Lawson Bank services | FamiPay, FamiPay Card |
 | Point / loyalty | WAON POINT | nanaco point | Pontaポイント | Itochu / partner point distribution |
 | Strategic strength | Broad daily-life retail + finance cross-sell | ATM / cash-access platform + convenience frequency | KDDI telco-anchored payment + Ponta scale | Itochu trading-house distribution + FamiPay |
@@ -75,7 +75,7 @@ The domain now tracks four retail-finance groups — [[retail/aeon-group|AEON Gr
 - [[payments/INDEX|payments INDEX]] for cashless and settlement layers.
 - [[loyalty/INDEX|loyalty INDEX]] for points and data loops.
 - [[JapanFG/INDEX|JapanFG INDEX]] for the regulated financial entities.
-- [[JapanFG/legal-financial-licenses/INDEX|legal / financial licenses]] for bank, prepaid, card, and funds-transfer boundaries.
+- [[financial-licenses/INDEX|legal / financial licenses]] for bank, prepaid, card, and funds-transfer boundaries.
 
 ## Expansion Backlog
 
@@ -92,5 +92,5 @@ The domain now tracks four retail-finance groups — [[retail/aeon-group|AEON Gr
 - [[INDEX|FinWiki index]]
 - [[payments/cashless-jp-landscape|Japan cashless payment landscape]]
 - [[loyalty/japan-points-landscape|Japan points landscape]]
-- [[JapanFG/aeon-bank|Aeon Bank / AFS]]
-- [[JapanFG/seven-bank|Seven Bank]]
+- [[card-issuers/aeon-bank|Aeon Bank / AFS]]
+- [[regional-banks/seven-bank|Seven Bank]]

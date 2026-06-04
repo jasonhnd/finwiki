@@ -1,0 +1,104 @@
+{
+  "schema_version": "1.0",
+  "slug": "asset-managers/saison-asset-management",
+  "source_path": "asset-managers/saison-asset-management.md",
+  "url": "https://finwiki.zksc.io/asset-managers/saison-asset-management",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/asset-managers/saison-asset-management.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/asset-managers/saison-asset-management.md",
+  "domain": "asset-managers",
+  "title": "セゾン投信 (Saison Asset Management)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "セゾン投信 (Saison Asset Management)",
+    "aliases": [
+      "Saison Asset Management",
+      "セゾン投信",
+      "セゾン投信株式会社",
+      "セゾン・グローバルバランスファンド",
+      "セゾン資産形成の達人ファンド",
+      "Saison AM"
+    ],
+    "domain": "asset-managers",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "asset-management",
+      "investment-trust",
+      "mutual-fund",
+      "saison",
+      "NISA",
+      "iDeCo",
+      "direct-sales"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.saison-am.co.jp/company/profile/",
+      "https://www.saison-am.co.jp/company/history/",
+      "https://corporate.saisoncard.co.jp/",
+      "https://www.fsa.go.jp/menkyo/menkyoj/investment_mgmt.xlsx",
+      "Wikipedia: セゾン投信 (公開情報, 2026-05-25 抽出)",
+      "セゾン投信 ニュースリリース: 運用資産総額1兆円到達 (2025-10-06) https://www.saison-am.co.jp/news/2025/release/20251006173450.html",
+      "日本経済新聞: セゾン投信、中野晴啓会長が退任へ 直販モデルに転機 (2023-06) https://www.nikkei.com/article/DGXZQOUB017CW0R00C23A6000000/"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index as the operating-company anchor for Credit Saison グループの投資信託子会社. Read it against クレディセゾン（親会社）, peer 長期分散投資のレオス・キャピタルワークス（ひふみ投信）・さわかみ投信・コモンズ投信、distribution channel JapanFG/INDEX の直販投信群、broader context asset management index for the regulatory boundary.",
+  "headings": [
+    "セゾン投信 (Saison Asset Management)",
+    "Wiki route",
+    "TL;DR",
+    "1. 法人概要",
+    "2.1 主力ファンド 2 本柱",
+    "2.2 投資哲学",
+    "2.3 NISA / iDeCo 対応",
+    "3. 親会社関係（Credit Saison 連結内）",
+    "子会社化の経緯（2017）",
+    "4. KPI（公式公開情報ベース）"
+  ],
+  "body_links": {
+    "wikilinks_count": 14,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/commons-am",
+      "JapanFG/hifumi",
+      "JapanFG/sawakami-am",
+      "asset-management/INDEX",
+      "asset-managers/daiwa-am",
+      "asset-managers/mitsubishi-ufj-am",
+      "asset-managers/nomura-am",
+      "card-issuers/credit-saison",
+      "card-issuers/jaccs",
+      "card-issuers/jcb",
+      "card-issuers/orico",
+      "megabanks/mizuho-fg",
+      "trust-banks/master-trust-bank"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/commons-am",
+      "https://finwiki.zksc.io/JapanFG/hifumi",
+      "https://finwiki.zksc.io/JapanFG/sawakami-am",
+      "https://finwiki.zksc.io/asset-management/INDEX",
+      "https://finwiki.zksc.io/asset-managers/daiwa-am",
+      "https://finwiki.zksc.io/asset-managers/mitsubishi-ufj-am",
+      "https://finwiki.zksc.io/asset-managers/nomura-am",
+      "https://finwiki.zksc.io/card-issuers/credit-saison",
+      "https://finwiki.zksc.io/card-issuers/jaccs",
+      "https://finwiki.zksc.io/card-issuers/jcb",
+      "https://finwiki.zksc.io/card-issuers/orico",
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/trust-banks/master-trust-bank"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 6224,
+    "word_like_tokens": 961,
+    "inbound_wikilinks_count": 1,
+    "last_modified": "2026-06-04"
+  }
+}

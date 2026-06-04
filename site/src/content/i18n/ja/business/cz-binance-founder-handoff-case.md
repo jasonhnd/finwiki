@@ -117,11 +117,11 @@ CZ テンプレートの際立った価値:**深刻な DOJ の解決を通じて
 
 日本の VASP 規制([[exchanges/fsa-vasp-registration-system|FSA VASP registration system]] 参照)は、Binance がくぐり抜けた米国の枠組みよりも厳格な事前ライセンスのルールのもとで運営される。CZ テンプレートが日本で直接的に当てはまりにくいのは以下の理由による:
 
-- 日本の取引所(例:[[JapanFG/bitflyer|bitFlyer]]、[[JapanFG/gmo-coin|GMO Coin]]、[[JapanFG/bittrade|BitTrade]])は金融庁の事前承認のもとで運営される;同等のエンフォースメント措置は通常、和解ではなくライセンス取消につながる
+- 日本の取引所(例:[[payment-firms/bitflyer|bitFlyer]]、[[payment-firms/gmo-coin|GMO Coin]]、[[payment-firms/bittrade|BitTrade]])は金融庁の事前承認のもとで運営される;同等のエンフォースメント措置は通常、和解ではなくライセンス取消につながる
 - 日本の AML / FATF コンプライアンス制度はより予防的 — 和解前の段階でライセンスが危機に瀕する
 - 日本の企業ガバナンス規範は、CZ 型の創業者支配ほど個人に集中していない
 
-ただし、本テンプレートは、子会社が米国の域外エンフォースメントの対象となった場合に世界的にどのような解決の形が利用可能でありうるかについて、日本上場の暗号資産隣接の運営者(例:[[JapanFG/sbi-hd|SBI HD]] のデジタル資産エクスポージャー)に示唆を与える。
+ただし、本テンプレートは、子会社が米国の域外エンフォースメントの対象となった場合に世界的にどのような解決の形が利用可能でありうるかについて、日本上場の暗号資産隣接の運営者(例:[[megabanks/sbi-hd|SBI HD]] のデジタル資産エクスポージャー)に示唆を与える。
 
 ## 9. 反論
 
@@ -152,8 +152,8 @@ CZ テンプレートの際立った価値:**深刻な DOJ の解決を通じて
 - [[exchanges/INDEX|exchanges INDEX]]
 - [[exchanges/fsa-vasp-registration-system|FSA VASP registration system]]
 - [[exchanges/global-crypto-exchange-bankruptcy-comparison|global crypto exchange bankruptcy comparison]]
-- [[JapanFG/bitflyer|bitFlyer]]
-- [[JapanFG/gmo-coin|GMO Coin]]
+- [[payment-firms/bitflyer|bitFlyer]]
+- [[payment-firms/gmo-coin|GMO Coin]]
 - [[INDEX|FinWiki index]]
 
 ## 出典

@@ -88,7 +88,7 @@ JPX 发布 30天的标题 JPX-VI,但标的 [[derivatives/INDEX|Nikkei 225 option
 
 对于想要更大日本波动率敞口的机构客户,实用路径是:
 
-1. 与交易商银行([[JapanFG/nomura-hd|Nomura]]、[[JapanFG/goldman-sachs-japan|GS Japan]]、[[JapanFG/morgan-stanley-japan|MS Japan]]、[[JapanFG/jpmorgan-japan|JPM Japan]]、[[JapanFG/citigroup-japan|Citi Japan]]、[[JapanFG/mizuho-securities|Mizuho Securities]]、[[JapanFG/smbc-nikko|SMBC Nikko]])的 **OTC 方差/波动率互换**;
+1. 与交易商银行([[securities-firms/nomura-hd|Nomura]]、[[securities-firms/goldman-sachs-japan|GS Japan]]、[[securities-firms/morgan-stanley-japan|MS Japan]]、[[foreign-financial-institutions/jpmorgan-japan|JPM Japan]]、[[foreign-financial-institutions/citigroup-japan|Citi Japan]]、[[securities-firms/mizuho-securities|Mizuho Securities]]、[[securities-firms/smbc-nikko|SMBC Nikko]])的 **OTC 方差/波动率互换**;
 2. OSE 上的 **直接日经 225 期权序列**,跨行权价复制波动率敞口;
 3. 带 JPX-VI 对 VIX 相关性基差风险对冲的 **CBOE VIX 代理**。
 
@@ -174,15 +174,15 @@ JPX-VI ETP 集在 AUM 上实质 **小于** 美国 VIX ETP 综合体。因此,零
 - [[securities/japan-market-infrastructure-map]]
 - [[securities/japan-best-execution-sor-pts]]
 - [[securities/japan-prime-brokerage-and-institutional-financing-matrix]]
-- [[JapanFG/japan-exchange-group]]
-- [[JapanFG/nomura-hd]]
-- [[JapanFG/daiwa-sg]]
-- [[JapanFG/smbc-nikko]]
-- [[JapanFG/mizuho-securities]]
-- [[JapanFG/goldman-sachs-japan]]
-- [[JapanFG/morgan-stanley-japan]]
-- [[JapanFG/jpmorgan-japan]]
-- [[JapanFG/citigroup-japan]]
+- [[financial-regulators/japan-exchange-group]]
+- [[securities-firms/nomura-hd]]
+- [[securities-firms/daiwa-sg]]
+- [[securities-firms/smbc-nikko]]
+- [[securities-firms/mizuho-securities]]
+- [[securities-firms/goldman-sachs-japan]]
+- [[securities-firms/morgan-stanley-japan]]
+- [[foreign-financial-institutions/jpmorgan-japan]]
+- [[foreign-financial-institutions/citigroup-japan]]
 - [[finance/japan-listed-financial-groups-investable-universe]]
 - [[finance/japan-cross-shareholding-unwinding-economics]]
 - [[INDEX|FinWiki index]]

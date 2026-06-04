@@ -13,7 +13,7 @@ translated_at: 2026-06-01T03:31:12.253Z
 
 日本地方政府债券市场是都道府县和市政府财政的资本市场界面。它在结构上与日本国债不同：发行量较小，信贷分析纳入了地方分配税财政均衡层，并且很大一部分债务是通过银行私募、[[policy-finance/japan-finance-organization-municipalities|Japan Finance Organization for Municipalities (JFM)]]和财政贷款基金（财政投融资/FILP）在公开发行市场之外融资的。
 
-本页面位于 [[policy-finance/INDEX|policy-finance index]] 下，通过公共信贷/政策金融视角来看待市场。 JapanFG 域实体市场视图为 [[JapanFG/local-bond-market]]；本页重点关注政策金融通道，并对[[policy-finance/japan-policy-finance-system|Japan policy finance system]]进行补充。
+本页面位于 [[policy-finance/INDEX|policy-finance index]] 下，通过公共信贷/政策金融视角来看待市场。 JapanFG 域实体市场视图为 [[financial-regulators/local-bond-market]]；本页重点关注政策金融通道，并对[[policy-finance/japan-policy-finance-system|Japan policy finance system]]进行补充。
 
 ## 1。发行渠道
 
@@ -42,7 +42,7 @@ translated_at: 2026-06-01T03:31:12.253Z
 - **法定协商制度**要求地方政府就债券发行事宜与国家监管机构进行协商，这是一种公共财政控制而非市场机制。
 - **联合发行制度**是根据国家政策设计而存在的，旨在支持较小发行人的准入。
 
-它毗邻 [[policy-finance/japan-policy-finance-system|Japan policy finance system]]，但是地方公共财政的**面向市场的层**，其中 [[policy-finance/japan-finance-organization-municipalities|JFM]] 和 [[JapanFG/jfc|JFC]] / [[JapanFG/jbic|JBIC]] / [[JapanFG/dbj|DBJ]] 是更广泛的公共信贷堆栈的**面向机构的层**。
+它毗邻 [[policy-finance/japan-policy-finance-system|Japan policy finance system]]，但是地方公共财政的**面向市场的层**，其中 [[policy-finance/japan-finance-organization-municipalities|JFM]] 和 [[financial-regulators/jfc|JFC]] / [[financial-regulators/jbic|JBIC]] / [[financial-regulators/dbj|DBJ]] 是更广泛的公共信贷堆栈的**面向机构的层**。
 
 ## 4。连接其他市场
 
@@ -50,8 +50,8 @@ translated_at: 2026-06-01T03:31:12.253Z
 |---|---|
 | [[money-market/INDEX]] |地方政府现金管理、回购抵押品和短期借款与日本央行公开市场操作和tanshi公司流动相互作用。 |
 | [[money-market/jgb-repo-market-japan]] |地方债券和 JFM 债券在回购和证券借贷交易中用作抵押品。 |
-| [[JapanFG/local-bond-market]] |从实体/行业集群的角度来看同一市场上的 JapanFG 域名页面。 |
-| [[JapanFG/local-govt-finance]] | JFM 及其前身公営企业金融公库的企业历史风格条目。 |
+| [[financial-regulators/local-bond-market]] |从实体/行业集群的角度来看同一市场上的 JapanFG 域名页面。 |
+| [[financial-regulators/local-govt-finance]] | JFM 及其前身公営企业金融公库的企业历史风格条目。 |
 |区域银行|持有地方政府债券并发行银行承销的地方债券；联合发行债券的主要持有人。 |
 |人寿保险公司|长期公开发行地方债券和 JFM 债券的大型机构持有者。 |
 
@@ -78,10 +78,10 @@ translated_at: 2026-06-01T03:31:12.253Z
 - [[policy-finance/INDEX]]
 - [[policy-finance/japan-policy-finance-system]]
 - [[policy-finance/japan-finance-organization-municipalities]]
-- [[JapanFG/local-bond-market]]
-- [[JapanFG/local-govt-finance]]
-- [[JapanFG/jfc]]
-- [[JapanFG/dbj]]
+- [[financial-regulators/local-bond-market]]
+- [[financial-regulators/local-govt-finance]]
+- [[financial-regulators/jfc]]
+- [[financial-regulators/dbj]]
 - [[money-market/INDEX]]
 - [[money-market/jgb-repo-market-japan]]
 - [[INDEX|FinWiki index]]

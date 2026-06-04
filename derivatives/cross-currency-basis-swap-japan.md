@@ -110,7 +110,7 @@ CCBS basis routinely widens at quarter-ends, especially year-end, because dealer
 | First week of new quarter | Snap-back toward structural level. |
 | Year-end (December) | Largest widening of the calendar year. |
 
-This pattern is well-documented in BIS Quarterly Review research and is reflected in spot vs forward-implied basis curves. Japanese banks (notably [[JapanFG/mufg-bank|MUFG Bank]], [[JapanFG/sumitomo-mitsui-banking-corp|Sumitomo Mitsui Banking Corp]], and [[JapanFG/mizuho-bank|Mizuho Bank]]) are dominant counterparties on the JPY-USD basis market and feel both sides of these dynamics.
+This pattern is well-documented in BIS Quarterly Review research and is reflected in spot vs forward-implied basis curves. Japanese banks (notably [[megabanks/mufg-bank|MUFG Bank]], [[megabanks/sumitomo-mitsui-banking-corp|Sumitomo Mitsui Banking Corp]], and [[megabanks/mizuho-bank|Mizuho Bank]]) are dominant counterparties on the JPY-USD basis market and feel both sides of these dynamics.
 
 ## Central bank swap lines
 
@@ -190,9 +190,9 @@ The structural imbalance — much more Japan-domiciled USD-asset-hedging demand 
 
 Dealer participation is concentrated:
 
-- [[JapanFG/mufg-bank|MUFG Bank]]: significant balance-sheet and Japan-corporate franchise; long-standing PB / dealer in JPY-USD basis market.
-- [[JapanFG/sumitomo-mitsui-banking-corp|Sumitomo Mitsui Banking Corp]]: similar profile; SMFG group-wide cross-business synergy.
-- [[JapanFG/mizuho-bank|Mizuho Bank]]: strong corporate / financial-institution dealing franchise; deep JGB collateral integration.
+- [[megabanks/mufg-bank|MUFG Bank]]: significant balance-sheet and Japan-corporate franchise; long-standing PB / dealer in JPY-USD basis market.
+- [[megabanks/sumitomo-mitsui-banking-corp|Sumitomo Mitsui Banking Corp]]: similar profile; SMFG group-wide cross-business synergy.
+- [[megabanks/mizuho-bank|Mizuho Bank]]: strong corporate / financial-institution dealing franchise; deep JGB collateral integration.
 - Citi, JPMorgan, Goldman Sachs, Morgan Stanley: dominant foreign dealers; especially active during stress periods when megabank balance sheet is constrained.
 - Nomura, Daiwa: also participate, especially in life-insurer-related flow and longer-tenor structures.
 
@@ -225,9 +225,9 @@ The economic effect is that bilateral non-cleared CCBS pricing carries an embedd
 - [[money-market/japan-money-market]]
 - [[money-market/boj-open-market-operations]]
 - [[money-market/INDEX]]
-- [[JapanFG/mufg-bank]]
-- [[JapanFG/sumitomo-mitsui-banking-corp]]
-- [[JapanFG/mizuho-bank]]
+- [[megabanks/mufg-bank]]
+- [[megabanks/sumitomo-mitsui-banking-corp]]
+- [[megabanks/mizuho-bank]]
 
 ## Sources
 

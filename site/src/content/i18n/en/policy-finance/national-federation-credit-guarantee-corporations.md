@@ -15,7 +15,7 @@ This entry sits under [[policy-finance/INDEX|policy-finance index]] as the **fed
 
 ## TL;DR
 
-The Japan Federation of Credit Guarantee Corporations (一般社団法人全国信用保証協会連合会, **JFG** / **全信保連**) is the national federation for Japan's 51 local credit guarantee corporations (47 prefectural + 4 city CGCs — Yokohama / Kawasaki / Nagoya / Gifu). It is **not itself the guarantee system** — it is the coordinating, research, training, system-administration, and financial-support body sitting above the 51 local CGCs and interfacing with [[JapanFG/jfc|JFC]] credit insurance and METI / SME Agency policy. Its most operationally significant function is administering the **責任共有制度** (responsibility-sharing system) financial flows nationwide. During the 2020–2022 ZeroZero loan rollout, JFG was the federation-level coordinator setting unified operational standards across the 51 CGCs and is now coordinating the post-COVID exit framework as the subrogation wave runs through 2023–2026.
+The Japan Federation of Credit Guarantee Corporations (一般社団法人全国信用保証協会連合会, **JFG** / **全信保連**) is the national federation for Japan's 51 local credit guarantee corporations (47 prefectural + 4 city CGCs — Yokohama / Kawasaki / Nagoya / Gifu). It is **not itself the guarantee system** — it is the coordinating, research, training, system-administration, and financial-support body sitting above the 51 local CGCs and interfacing with [[financial-regulators/jfc|JFC]] credit insurance and METI / SME Agency policy. Its most operationally significant function is administering the **責任共有制度** (responsibility-sharing system) financial flows nationwide. During the 2020–2022 ZeroZero loan rollout, JFG was the federation-level coordinator setting unified operational standards across the 51 CGCs and is now coordinating the post-COVID exit framework as the subrogation wave runs through 2023–2026.
 
 ## 1. 機関概要
 
@@ -29,7 +29,7 @@ The Japan Federation of Credit Guarantee Corporations (一般社団法人全国�
 | Location | Nihonbashi, Chuo-ku, Tokyo |
 | Establishment | 1951  (Continued from the predecessor organization) — Several reorganizations of the federation |
 | Supervisory Agency | Ministry of Economy, Trade and Industry (METI) / Small and Medium Enterprise Agency (SME Agency) |
-| Related organizations | [[JapanFG/jfc\|JFC]] (credit insurance), METI / SME Agency, prefecture/city |
+| Related organizations | [[financial-regulators/jfc\|JFC]] (credit insurance), METI / SME Agency, prefecture/city |
 | FinWiki lane | [[policy-finance/INDEX\|policy-finance]] — federation / coordinating-body page |
 
 ## 2. 51  member CGC list
@@ -50,7 +50,7 @@ The 4 city CGCs exist because at the historical foundation of the system, the fo
 | Research / publications / statistics | Aggregated CGC statistics (guarantee outstanding, 代位弁済, 求償, 求償権回収率, sectoral breakdown); industry research; SME-finance publications. |
 | Federation pooled funds | Manages federation-level pooled financial resources backing the system (capital injections, emergency support, loss-pooling). |
 | Lender coordination | Coordinates with the All Japan Federation of Banks, Shinkin Central Bank, NCB (信組), and other lender bodies on system-wide product / process changes. |
-| JFC interface | Primary federation-level interface with [[JapanFG/jfc\|JFC]] for credit insurance contract administration and operational coordination. |
+| JFC interface | Primary federation-level interface with [[financial-regulators/jfc\|JFC]] for credit insurance contract administration and operational coordination. |
 | METI / SME Agency interface | Policy implementation interface; central voice of the 51 CGCs in national SME-finance policy. |
 | Crisis-mode coordination | Federation-level coordinator for crisis-era programs (1998 安定化特別保証, 2008 緊急保証, 2011 災害関係, 2020 ZeroZero). |
 | Standardized product design | Designs common-template programs (creation, business succession, ABL, etc.) for nationwide deployment. |
@@ -94,7 +94,7 @@ The **JFC 信用保険業務** (credit insurance business) is the reinsurance la
 - Coordination on crisis-mode product design where the credit-insurance economics need federation-level alignment (e.g., crisis-related guarantee 危機関連保証 100% guarantee design with paired credit-insurance terms).
 - Joint policy interface with METI on combined CGC + JFC system economics.
 
-JFC inherited the credit-insurance business from the predecessor 中小企業信用保険公庫 (1958), which was integrated into JFC in 2008 as part of the policy-finance reorganization. The credit-insurance business is now operated within JFC alongside JFC's direct SME / small-business / agriculture-forestry-fisheries / international lending — see [[JapanFG/jfc]].
+JFC inherited the credit-insurance business from the predecessor 中小企業信用保険公庫 (1958), which was integrated into JFC in 2008 as part of the policy-finance reorganization. The credit-insurance business is now operated within JFC alongside JFC's direct SME / small-business / agriculture-forestry-fisheries / international lending — see [[financial-regulators/jfc]].
 
 ## 7. Year evolution
 
@@ -136,8 +136,8 @@ JFC inherited the credit-insurance business from the predecessor 中小企業信
 -[[policy-finance/osaka-credit-guarantee-corp]]
 -[[policy-finance/aichi-credit-guarantee-corp]]
 -[[policy-finance/hyogo-credit-guarantee-corp]]
--[[JapanFG/jfc]]
--[[JapanFG/shoko-chukin]]
+-[[financial-regulators/jfc]]
+-[[financial-regulators/shoko-chukin]]
 -[[banking/regional-bank-consolidation-pattern]]
 -[[banking/shinkin-bank-registry-japan]]
 -[[banking/credit-cooperative-registry-japan]]

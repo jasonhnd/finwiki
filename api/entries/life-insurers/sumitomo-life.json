@@ -1,0 +1,78 @@
+{
+  "schema_version": "1.0",
+  "slug": "life-insurers/sumitomo-life",
+  "source_path": "life-insurers/sumitomo-life.md",
+  "url": "https://finwiki.zksc.io/life-insurers/sumitomo-life",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/life-insurers/sumitomo-life.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/life-insurers/sumitomo-life.md",
+  "domain": "life-insurers",
+  "title": "住友生命保険相互会社 (Sumitomo Life)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "住友生命保険相互会社 (Sumitomo Life)",
+    "aliases": [
+      "住友生命",
+      "Sumitomo Life",
+      "Sumitomo Life Insurance Company",
+      "スミセイ"
+    ],
+    "domain": "life-insurers",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "life-insurance",
+      "mutual-company"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: 住友生命保険 (2026-05-19 抽出)",
+      "住友生命 公式サイト 会社情報 / 沿革 (2026-05-19 アクセス)"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 日本生命保険相互会社 (Nippon Life) for peer / contrast context and insurance index for the broader system / regulatory boundary.",
+  "headings": [
+    "住友生命保険相互会社 (Sumitomo Life)",
+    "Wiki route",
+    "TL;DR",
+    "1. 会社概要",
+    "業界位置",
+    "主要子会社・関連 ^[extracted]",
+    "沿革 ^[extracted]",
+    "2. 事業セグメント・マップ",
+    "「Vitality」健康増進型保険でリーディング差別化",
+    "海外 2 軸プラットフォーム"
+  ],
+  "body_links": {
+    "wikilinks_count": 7,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "insurance/INDEX",
+      "life-insurers/nippon-life",
+      "meiji-yasuda",
+      "mizuho-fg",
+      "mufg",
+      "smfg"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/insurance/INDEX",
+      "https://finwiki.zksc.io/life-insurers/nippon-life",
+      "https://finwiki.zksc.io/meiji-yasuda",
+      "https://finwiki.zksc.io/mizuho-fg",
+      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/smfg"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3592,
+    "word_like_tokens": 554,
+    "inbound_wikilinks_count": 23,
+    "last_modified": "2026-06-04"
+  }
+}

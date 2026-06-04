@@ -12,7 +12,7 @@ translated_at: 2026-06-01T03:31:12.227Z
 
 ## 维基路线
 
-该条目位于 [[policy-finance/INDEX|policy-finance index]] 下。 Read it against [[policy-finance/japan-credit-guarantee-system|Japan credit guarantee system]] for SME-side contrast, [[policy-finance/agriculture-credit-guarantee-system|agriculture credit guarantee system]] for the sister sector (same JAFFIC parent), and [[policy-finance/japan-policy-finance-system|Japan policy finance system]] for the broader public-credit boundary.渔业存贷款对应机构为[[banking/jf-marine-bank-system-japan|JF Marine Bank system]]，合作社顶端为[[JapanFG/norinchukin|Norinchukin]]（共同服务于农林渔业合作社）。
+该条目位于 [[policy-finance/INDEX|policy-finance index]] 下。 Read it against [[policy-finance/japan-credit-guarantee-system|Japan credit guarantee system]] for SME-side contrast, [[policy-finance/agriculture-credit-guarantee-system|agriculture credit guarantee system]] for the sister sector (same JAFFIC parent), and [[policy-finance/japan-policy-finance-system|Japan policy finance system]] for the broader public-credit boundary.渔业存贷款对应机构为[[banking/jf-marine-bank-system-japan|JF Marine Bank system]]，合作社顶端为[[cooperative-banks/norinchukin|Norinchukin]]（共同服务于农林渔业合作社）。
 
 ## 长话短说
 
@@ -27,7 +27,7 @@ translated_at: 2026-06-01T03:31:12.227Z
 | 漁業者 / 漁業法人 / 加工業者 | 借款人（渔民、渔业公司、水产养殖经营者、海鲜加工商、合格合作社）。 | 系统路线在这里 |
 | 単位漁協 (JF/単漁協) | 初级渔业合作社；吸收会员存款；扩大与渔业相关的信贷；经营登陆港物流和鱼市功能。 | [[banking/jf-marine-bank-system-japan]] |
 | 信漁連 (都道府県信用漁業協同組合連合会) | 县渔业合作社信用联合会。 | [[banking/jf-marine-bank-system-japan]] |
-| 農林中央金庫 (农林中金) | JA / 信連 / JF / 信漁連 / 森連 合作社国家顶级银行；共同服务农渔业、林业合作社。 | [[JapanFG/norinchukin]] |
+| 農林中央金庫 (农林中金) | JA / 信連 / JF / 信漁連 / 森連 合作社国家顶级银行；共同服务农渔业、林业合作社。 | [[cooperative-banks/norinchukin]] |
 | 漁業信用基金協会 | 县/地区渔业贷款担保机构；违约时执行代位求偿权。 | 本页 |
 | 全国漁業信用基金協会連合会 | 全国渔业信贷基金协会联合会。 | 本页 |
 | 独立行政法人農林漁業信用基金 (JAFIC) | 国家级信用保险/再保险机构；与农业系统相同的 JAFFIC 母体。 | 本页 |
@@ -124,7 +124,7 @@ translated_at: 2026-06-01T03:31:12.227Z
 - **不是农业** — 农业保证保险属于 [[policy-finance/agriculture-credit-guarantee-system]]（姐妹部门，同一 JAFIC 母公司）。
 - **非普通中小企业担保** — 普通中小企业担保属于[[policy-finance/japan-credit-guarantee-system]]。
 - **不是 森林（林业）** — 林业信贷支持也在 JAFIC 下，但是一个单独的账户。
-- **不是JFC渔业贷款** — JFC的[[JapanFG/jfc|agriculture-forestry-fisheries arm]]直接贷款；本页介绍的是渔业借款的保证保险。
+- **不是JFC渔业贷款** — JFC的[[financial-regulators/jfc|agriculture-forestry-fisheries arm]]直接贷款；本页介绍的是渔业借款的保证保险。
 
 ## 相关
 
@@ -135,8 +135,8 @@ translated_at: 2026-06-01T03:31:12.227Z
 - [[policy-finance/national-federation-credit-guarantee-corporations]]
 - [[banking/jf-marine-bank-system-japan]]
 - [[banking/ja-bank-system-japan]]
-- [[JapanFG/norinchukin]]
-- [[JapanFG/jfc]]
+- [[cooperative-banks/norinchukin]]
+- [[financial-regulators/jfc]]
 - [[policy-finance/hokkaido-credit-guarantee-corp]]
 - [[INDEX|FinWiki index]]
 

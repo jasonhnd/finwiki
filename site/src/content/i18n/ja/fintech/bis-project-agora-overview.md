@@ -20,7 +20,7 @@ translated_at: 2026-06-02T13:21:55.076Z
 ## 主要事実
 
 - 7 G10 中央銀行: FRBNY / BoE / BdF / BoJ / BoK / Banxico / SNB ^[extracted]
-- 40+ の商業銀行参加者: JPM / Citi / HSBC / [[JapanFG/mufg|MUFG]] / SWIFT / Mastercard / Visa など ^[extracted]
+- 40+ の商業銀行参加者: JPM / Citi / HSBC / [[megabanks/mufg|MUFG]] / SWIFT / Mastercard / Visa など ^[extracted]
 - 2024.04 立ち上げ、2024.09 に民間機関リストを公表 ^[extracted]
 - 2025 Phase 1 = 概念実証（クロスボーダー wholesale 決済） ^[extracted]
 - 2025-2026 Phase 2 = ライブ・プロトタイプ（まだ稼働開始していない） ^[extracted]

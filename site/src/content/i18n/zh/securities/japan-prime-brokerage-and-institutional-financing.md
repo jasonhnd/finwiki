@@ -12,13 +12,13 @@ translated_at: 2026-06-01T03:31:12.321Z
 
 ## Wiki 路径
 
-此页面位于 [[securities/INDEX|securities domain]] 下。当大宗经纪业务成为许可证、托管、抵押品或融资问题时，请与[[JapanFG/legal-financial-licenses/INDEX|JapanFG legal / financial licenses]]、[[securities/financial-instruments-business-operators-japan-index|FIEA operator registry]]、[[banking/INDEX|banking domain]]和[[money-market/INDEX|money-market domain]]一起阅读。
+此页面位于 [[securities/INDEX|securities domain]] 下。当大宗经纪业务成为许可证、托管、抵押品或融资问题时，请与[[financial-licenses/INDEX|JapanFG legal / financial licenses]]、[[securities/financial-instruments-business-operators-japan-index|FIEA operator registry]]、[[banking/INDEX|banking domain]]和[[money-market/INDEX|money-market domain]]一起阅读。
 
 ## 概述
 
 日本的大宗经纪业务并不是单一的牌照。它是一个由第一类金融工具业务、经纪自营商执行、保证金融资、证券借贷、股票借贷、衍生品、回购/抵押品操作、托管、清算和结算构建的批发服务堆栈。
 
-此页面与 [[securities/japan-margin-trading-and-securities-finance|margin trading and securities finance]]、[[securities/japan-stock-lending-market-route|stock lending market route]]、[[securities/japan-short-selling-and-stock-loan-controls|short-selling and stock-loan controls]]、[[securities/japan-market-infrastructure-map|market infrastructure map]] 和 [[JapanFG/legal-financial-licenses/securities-license-stack|securities license stack]] 一起使用。
+此页面与 [[securities/japan-margin-trading-and-securities-finance|margin trading and securities finance]]、[[securities/japan-stock-lending-market-route|stock lending market route]]、[[securities/japan-short-selling-and-stock-loan-controls|short-selling and stock-loan controls]]、[[securities/japan-market-infrastructure-map|market infrastructure map]] 和 [[financial-licenses/securities-license-stack|securities license stack]] 一起使用。
 
 ## 功能栈
 
@@ -38,7 +38,7 @@ translated_at: 2026-06-01T03:31:12.321Z
 |主经纪商|为机构客户提供融资、股票借贷、执行访问、报告和抵押品操作。 |
 |执行经纪人|路由和执行订单；可能是也可能不是融资经纪人。 |
 |托管人 |持有资产、处理公司行为并支持资产隔离/贷款计划。 |
-|证券金融公司| [[JapanFG/japan-securities-finance|Japan Securities Finance]] 支持标准化保证金和证券融资路线。 |
+|证券金融公司| [[financial-regulators/japan-securities-finance|Japan Securities Finance]] 支持标准化保证金和证券融资路线。 |
 |中共/惩教署 | [[securities/japan-securities-clearing-corp|JSCC]] 清除； [[securities/japan-securities-depository-center|JASDEC]] 支持存管/结算途径。 |
 |客户|对冲基金、资产管理人、自营账户、做市商或其他机构投资者。 |
 
@@ -60,10 +60,10 @@ translated_at: 2026-06-01T03:31:12.321Z
 
 |公司页面 |可能的维基角色 |
 |---|---|
-| [[JapanFG/nomura-hd|Nomura]]、[[JapanFG/daiwa-sg|Daiwa Securities Group]] |国内批发证券/优质金融/机构券商主播。 |
-| [[JapanFG/smbc-nikko|SMBC Nikko]]、[[JapanFG/mizuho-securities|Mizuho Securities]]、[[JapanFG/mufg-mums|MUMSS]] |大型银行证券拥有机构融资/经纪背景。 |
-| [[JapanFG/goldman-sachs-japan|Goldman Sachs Japan]]、[[JapanFG/jpmorgan-japan|J.P. Morgan Japan]]、[[JapanFG/morgan-stanley-japan|Morgan Stanley Japan]]、[[JapanFG/ubs-japan|UBS Japan]] |全球大宗经纪/市场/机构融资比较器。 |
-| [[JapanFG/bny-mellon-japan|BNY Mellon Japan]]、[[JapanFG/state-street-japan|State Street Japan]]、[[JapanFG/euroclear-bank-japan|Euroclear Bank Japan]]、[[JapanFG/clearstream-banking-japan|Clearstream Banking Japan]] |托管、结算和全球抵押品背景。 |
+| [[securities-firms/nomura-hd|Nomura]]、[[securities-firms/daiwa-sg|Daiwa Securities Group]] |国内批发证券/优质金融/机构券商主播。 |
+| [[securities-firms/smbc-nikko|SMBC Nikko]]、[[securities-firms/mizuho-securities|Mizuho Securities]]、[[securities-firms/mufg-mums|MUMSS]] |大型银行证券拥有机构融资/经纪背景。 |
+| [[securities-firms/goldman-sachs-japan|Goldman Sachs Japan]]、[[foreign-financial-institutions/jpmorgan-japan|J.P. Morgan Japan]]、[[securities-firms/morgan-stanley-japan|Morgan Stanley Japan]]、[[foreign-financial-institutions/ubs-japan|UBS Japan]] |全球大宗经纪/市场/机构融资比较器。 |
+| [[foreign-financial-institutions/bny-mellon-japan|BNY Mellon Japan]]、[[foreign-financial-institutions/state-street-japan|State Street Japan]]、[[foreign-financial-institutions/euroclear-bank-japan|Euroclear Bank Japan]]、[[foreign-financial-institutions/clearstream-banking-japan|Clearstream Banking Japan]] |托管、结算和全球抵押品背景。 |
 
 ## 控制问题
 
@@ -82,7 +82,7 @@ translated_at: 2026-06-01T03:31:12.321Z
 2。根据 FSA FIBO 列表和 JSDA 会员资格（如果适用）验证法律状态。
 3。将面向客户的产品页面与实际的日本法人实体/注册分开。
 4。在将借入解释为可用之前，请检查卖空、股票借贷和发行级别限制页面。
-5。对于全球银行，请通过 [[JapanFG/legal-financial-licenses/foreign-financial-group-adjacent-licenses|foreign financial group adjacent licenses]] 传送实体问题。
+5。对于全球银行，请通过 [[financial-licenses/foreign-financial-group-adjacent-licenses|foreign financial group adjacent licenses]] 传送实体问题。
 
 ## 注意事项
 
@@ -99,8 +99,8 @@ translated_at: 2026-06-01T03:31:12.321Z
 - [[securities/japan-market-infrastructure-map]]
 - [[securities/japan-securities-clearing-corp]]
 - [[securities/japan-securities-depository-center]]
-- [[JapanFG/legal-financial-licenses/securities-license-stack]]
-- [[JapanFG/japan-securities-finance]]
+- [[financial-licenses/securities-license-stack]]
+- [[financial-regulators/japan-securities-finance]]
 - [[INDEX|FinWiki index]]
 
 ## 来源

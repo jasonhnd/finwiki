@@ -62,7 +62,7 @@
     "wikilinks_count": 13,
     "wikilinks": [
       "INDEX",
-      "JapanFG/jr-east-financial",
+      "card-issuers/jr-east-financial",
       "loyalty/japan-points-landscape",
       "payments/INDEX",
       "payments/edy-rakuten-prepaid",
@@ -77,7 +77,7 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/jr-east-financial",
+      "https://finwiki.zksc.io/card-issuers/jr-east-financial",
       "https://finwiki.zksc.io/loyalty/japan-points-landscape",
       "https://finwiki.zksc.io/payments/INDEX",
       "https://finwiki.zksc.io/payments/edy-rakuten-prepaid",
@@ -94,9 +94,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 8456,
-    "word_like_tokens": 1383,
+    "nonspace_chars": 8466,
+    "word_like_tokens": 1385,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-04"
   }
 }

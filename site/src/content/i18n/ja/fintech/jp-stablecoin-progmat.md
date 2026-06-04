@@ -43,7 +43,7 @@ translated_at: 2026-06-02T13:21:55.095Z
 - CFO & CRO × 1名
 - CTO × 1名
 
-> 個人名は公開情報に基づくため変動の可能性あり。プロフィール詳細は [[JapanFG/progmat|JapanFG / progmat company anchor]] と公式 IR で都度確認。
+> 個人名は公開情報に基づくため変動の可能性あり。プロフィール詳細は [[payment-firms/progmat|JapanFG / progmat company anchor]] と公式 IR で都度確認。
 
 ---
 
@@ -178,14 +178,14 @@ Progmatはトークン発行者ではなく、以下3種のトークン発行を
 | CTO | — | |
 | VP, 日本事業開発 | — | |
 
-> 個人名はCEO以外は変動の可能性が高いため役職のみで要約。詳細は [[JapanFG/progmat|JapanFG / progmat]] と公式IRで確認。
+> 個人名はCEO以外は変動の可能性が高いため役職のみで要約。詳細は [[payment-firms/progmat|JapanFG / progmat]] と公式IRで確認。
 
 ---
 
 ## 関連項目
 
-- [[JapanFG/progmat|株式会社Progmat]] — JapanFG 企業アンカー
-- [[JapanFG/mitsubishi-ufj-trust-bank|三菱UFJ信託銀行]] — 規制信託銀行の境界
+- [[payment-firms/progmat|株式会社Progmat]] — JapanFG 企業アンカー
+- [[trust-banks/mitsubishi-ufj-trust-bank|三菱UFJ信託銀行]] — 規制信託銀行の境界
 - [[fintech/jp-trust-type-sc-architecture|日本信託型 SC 架構]] — Progmat Coinの法的根拠（第3号EPI・特定信託受益権）の詳細解説
 - [[fintech/multi-megabank-consortium-governance|多巨行联合体治理]] — MUTB 49% 設計の意図と三大行ガバナンス構造
 - [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度三層構造]] — JPYC・DCJPY・Progmat Coinの制度的位置付け比較

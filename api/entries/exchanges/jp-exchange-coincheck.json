@@ -52,7 +52,6 @@
   "body_links": {
     "wikilinks_count": 11,
     "wikilinks": [
-      "JapanFG/monex-group",
       "exchanges/INDEX",
       "exchanges/coincheck-nem-hack-detailed-analysis",
       "exchanges/fsa-vasp-registration-system",
@@ -62,10 +61,10 @@
       "exchanges/jp-ieo-system-and-cases",
       "fintech/japan-financial-regulation",
       "fintech/japan-stablecoin-regulatory-landscape",
+      "securities-firms/monex-group",
       "security/forensic-identity-anchor-chain"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/monex-group",
       "https://finwiki.zksc.io/exchanges/INDEX",
       "https://finwiki.zksc.io/exchanges/coincheck-nem-hack-detailed-analysis",
       "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
@@ -75,6 +74,7 @@
       "https://finwiki.zksc.io/exchanges/jp-ieo-system-and-cases",
       "https://finwiki.zksc.io/fintech/japan-financial-regulation",
       "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
+      "https://finwiki.zksc.io/securities-firms/monex-group",
       "https://finwiki.zksc.io/security/forensic-identity-anchor-chain"
     ],
     "external_links_count": 6,
@@ -88,9 +88,9 @@
     ]
   },
   "metrics": {
-    "nonspace_chars": 5412,
-    "word_like_tokens": 941,
+    "nonspace_chars": 5421,
+    "word_like_tokens": 942,
     "inbound_wikilinks_count": 43,
-    "last_modified": "2026-05-24"
+    "last_modified": "2026-06-04"
   }
 }

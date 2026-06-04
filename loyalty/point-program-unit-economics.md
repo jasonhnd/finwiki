@@ -27,7 +27,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[loyalty/INDEX|loyalty index]] as the **unit-economics / funding-mechanics** page. It is the economic complement to [[loyalty/point-liability-accounting-boundary|point liability accounting boundary]]: that page asks *how a point is classified*, this page asks *whether the program makes money and who pays*. It reads alongside the program map in [[loyalty/japan-points-landscape|Japan points and loyalty landscape]], the data-monetisation flywheel in [[loyalty/retail-media-points-data-loop|retail-media points data loop]], and the inter-operator transfer mechanics in [[loyalty/point-exchange-network-risk|point exchange network risk]]. The downstream beneficiary of favourable point economics is group finance: [[JapanFG/rakuten-fg|Rakuten FG]], [[JapanFG/ndfg|NDFG]], [[JapanFG/paypay-fg|PayPay FG]].
+This entry sits under [[loyalty/INDEX|loyalty index]] as the **unit-economics / funding-mechanics** page. It is the economic complement to [[loyalty/point-liability-accounting-boundary|point liability accounting boundary]]: that page asks *how a point is classified*, this page asks *whether the program makes money and who pays*. It reads alongside the program map in [[loyalty/japan-points-landscape|Japan points and loyalty landscape]], the data-monetisation flywheel in [[loyalty/retail-media-points-data-loop|retail-media points data loop]], and the inter-operator transfer mechanics in [[loyalty/point-exchange-network-risk|point exchange network risk]]. The downstream beneficiary of favourable point economics is group finance: [[payment-firms/rakuten-fg|Rakuten FG]], [[megabanks/ndfg|NDFG]], [[megabanks/paypay-fg|PayPay FG]].
 
 ## TL;DR
 
@@ -79,7 +79,7 @@ Between granting a point and paying for its redemption, the operator holds an **
 - For a large common point or wallet, the outstanding point liability is a standing balance funded entirely by customers at zero interest.
 - Float is *separate* from breakage: breakage is points that never come back (a margin gain); float is the carry on points that will eventually come back (a funding benefit while held).
 
-The float reading is what makes point liabilities interesting to a financial group: a point operator inside a bank / telco group ([[JapanFG/rakuten-fg|Rakuten FG]], [[JapanFG/ndfg|NDFG]], [[JapanFG/paypay-fg|PayPay FG]]) contributes a customer-funded balance and a daily-frequency touchpoint at once.
+The float reading is what makes point liabilities interesting to a financial group: a point operator inside a bank / telco group ([[payment-firms/rakuten-fg|Rakuten FG]], [[megabanks/ndfg|NDFG]], [[megabanks/paypay-fg|PayPay FG]]) contributes a customer-funded balance and a daily-frequency touchpoint at once.
 
 ## Monetisation: where thin programs turn profitable
 
@@ -95,7 +95,7 @@ So the profitability question is never "what is the reward rate"; it is "merchan
 
 - **Reward rate is the wrong headline.** Two "1% back" programs differ entirely on funding source, breakage, float, and monetisation. Compare those, not the percentage.
 - **Breakage is the quality-of-earnings flag.** A program leaning on optimistic breakage to show margin is pulling revenue forward; check whether "ポイント引当金" has migrated to "契約負債" and how redemption assumptions are disclosed (per [[loyalty/point-liability-accounting-boundary|accounting boundary]]).
-- **Float + ID graph are why financial groups want point operators.** A point inside a group supplies an interest-free customer-funded balance *and* a cross-sell funnel — the economics that make [[JapanFG/smfg|SMFG]] / V-Point, [[JapanFG/ndfg|NDFG]] / dポイント, and [[JapanFG/rakuten-fg|Rakuten FG]] internal integration rational beyond marketing.
+- **Float + ID graph are why financial groups want point operators.** A point inside a group supplies an interest-free customer-funded balance *and* a cross-sell funnel — the economics that make [[megabanks/smfg|SMFG]] / V-Point, [[megabanks/ndfg|NDFG]] / dポイント, and [[payment-firms/rakuten-fg|Rakuten FG]] internal integration rational beyond marketing.
 
 ## Related
 
@@ -109,10 +109,10 @@ So the profitability question is never "what is the reward rate"; it is "merchan
 - [[loyalty/sb-yahoo-paypay-points-unified-ecosystem|SoftBank / Yahoo / PayPay unified points]]
 - [[payments/japan-prepaid-electronic-money-operator-matrix|Japan prepaid electronic-money operator matrix]]
 - [[payments/INDEX|payments INDEX]]
-- [[JapanFG/rakuten-fg|Rakuten FG]]
-- [[JapanFG/ndfg|NDFG]]
-- [[JapanFG/paypay-fg|PayPay FG]]
-- [[JapanFG/smfg|SMFG]]
+- [[payment-firms/rakuten-fg|Rakuten FG]]
+- [[megabanks/ndfg|NDFG]]
+- [[megabanks/paypay-fg|PayPay FG]]
+- [[megabanks/smfg|SMFG]]
 - [[fintech/INDEX|fintech INDEX]]
 - [[INDEX|FinWiki index]]
 

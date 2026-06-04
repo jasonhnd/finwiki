@@ -54,7 +54,7 @@ This page sits under [[finance/INDEX|finance domain]]. Read it with [[finance/ja
 | 担保代理行 | 谁代表贷款方持有抵押品？ |
 | 对冲提供方 | 谁提供利率/外汇对冲？ |
 
-日本主要参与方包括 [[JapanFG/mufg-bank|MUFG Bank]]、[[JapanFG/mizuho-bank|Mizuho Bank]]、[[JapanFG/sumitomo-mitsui-banking-corp|SMBC]]、[[JapanFG/smtb|SMTB]]、[[JapanFG/dbj|DBJ]]、[[JapanFG/nomura-hd|Nomura]]、[[JapanFG/daiwa-sg|Daiwa Securities Group]]、[[JapanFG/jpmorgan-japan|J.P. Morgan Japan]]、[[JapanFG/goldman-sachs-japan|Goldman Sachs Japan]] 及 [[JapanFG/morgan-stanley-japan|Morgan Stanley Japan]]。
+日本主要参与方包括 [[megabanks/mufg-bank|MUFG Bank]]、[[megabanks/mizuho-bank|Mizuho Bank]]、[[megabanks/sumitomo-mitsui-banking-corp|SMBC]]、[[trust-banks/smtb|SMTB]]、[[financial-regulators/dbj|DBJ]]、[[securities-firms/nomura-hd|Nomura]]、[[securities-firms/daiwa-sg|Daiwa Securities Group]]、[[foreign-financial-institutions/jpmorgan-japan|J.P. Morgan Japan]]、[[securities-firms/goldman-sachs-japan|Goldman Sachs Japan]] 及 [[securities-firms/morgan-stanley-japan|Morgan Stanley Japan]]。
 
 ## 要约收购/公开披露接口
 
@@ -103,9 +103,9 @@ This page sits under [[finance/INDEX|finance domain]]. Read it with [[finance/ja
 - [[finance/japan-ib-league-table]]
 - [[banking/post-megabank-positioning]]
 - [[securities/japan-underwriting-market-structure]]
-- [[JapanFG/mufg-bank]]
-- [[JapanFG/mizuho-bank]]
-- [[JapanFG/sumitomo-mitsui-banking-corp]]
+- [[megabanks/mufg-bank]]
+- [[megabanks/mizuho-bank]]
+- [[megabanks/sumitomo-mitsui-banking-corp]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

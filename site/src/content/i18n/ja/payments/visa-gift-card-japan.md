@@ -12,18 +12,18 @@ translated_at: 2026-06-02T16:33:58.521Z
 
 ## ウィキ上の位置づけ
 
-このエントリは以下にあります[[payments/INDEX|payments index]]とペアになるVisaブランドのプリペイド発行会社ページとして[[payments/prepaid-payment-instrument-issuers-japan-index|prepaid payment instrument issuers registry]]FSA レジストリ ビューの場合、[[payments/japan-card-issuer-acquirer-processor-split|Japan card issuer / acquirer / processor split]]ブランドネットワークの役割コンテキストと[[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]]4 クラス スキーム ビューの場合。と比較してください[[payments/amazon-gift-card-japan|Amazon Gift Card]], [[payments/apple-gift-card-japan|Apple Gift Card]], [[payments/google-play-gift-card-japan|Google Play Gift Card]](クローズドループプラットフォームギフト)、[[payments/quo-card-prepaid|QUO Card]](オープンループのマルチマーチャントペーパー/デジタルギフト)、および[[JapanFG/kyash|Kyash]](Visa ブランドのウォレットとカードのハイブリッド)。 Visa ギフト カードは **ブランド ネットワーク プリペイド** カテゴリに分類され、世界中で Visa が受け入れられる場所であればどこでも使用できます。これは、コンビニエンス ストアや小売店のみでのクローズド ループ ギフト カードの受け入れとは構造的に異なります。日本の発行者は通常、[[JapanFG/life-card|Life Card]]under the **Vプリカ** product brand.
+このエントリは以下にあります[[payments/INDEX|payments index]]とペアになるVisaブランドのプリペイド発行会社ページとして[[payments/prepaid-payment-instrument-issuers-japan-index|prepaid payment instrument issuers registry]]FSA レジストリ ビューの場合、[[payments/japan-card-issuer-acquirer-processor-split|Japan card issuer / acquirer / processor split]]ブランドネットワークの役割コンテキストと[[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]]4 クラス スキーム ビューの場合。と比較してください[[payments/amazon-gift-card-japan|Amazon Gift Card]], [[payments/apple-gift-card-japan|Apple Gift Card]], [[payments/google-play-gift-card-japan|Google Play Gift Card]](クローズドループプラットフォームギフト)、[[payments/quo-card-prepaid|QUO Card]](オープンループのマルチマーチャントペーパー/デジタルギフト)、および[[payment-firms/kyash|Kyash]](Visa ブランドのウォレットとカードのハイブリッド)。 Visa ギフト カードは **ブランド ネットワーク プリペイド** カテゴリに分類され、世界中で Visa が受け入れられる場所であればどこでも使用できます。これは、コンビニエンス ストアや小売店のみでのクローズド ループ ギフト カードの受け入れとは構造的に異なります。日本の発行者は通常、[[card-issuers/life-card|Life Card]]under the **Vプリカ** product brand.
 
 ## 要約
 
-**Visa ギフト カード ジャパン** とは、日本で発行された **Visa ブランドのプリペイド カード** のファミリーを指します。最も有名なのは、** が発行した **V プリカ (V プリカ)** 製品です。[[JapanFG/life-card|Life Card Co Ltd]]** ビザスキームライセンスに基づいて。 Vプリカは、**日本が発行する主要なVisaブランドのプリペイドカード**であり、世界中のVisaを受け入れる加盟店でご利用いただけます（オンラインおよび店頭で物理的なカードのオプションあり）。と区別する[[payments/amazon-gift-card-japan|Amazon Gift Card]] / [[payments/apple-gift-card-japan|Apple Gift Card]] / [[payments/google-play-gift-card-japan|Google Play Gift Card]](すべてクローズドループ/プラットフォーム制限あり)、Visa ギフトカードは **オープンループ/ブランドネットワークプリペイド**であり、Visa のグローバル加盟店ネットワーク全体で使用できます。この製品は、**クレジット カードの契約なしでのオンライン購入**、**受取人がどこで使うかを選択する必要があるギフト配布**、および従来のクレジット カード履歴のないユーザー向けの **カードレス キャッシュレス オンランプ**向けに位置付けられています。 Vプリカは、ライフカード独自のサービスではなく、第三者のVisa加盟店で受け付けられるため、金融庁のもとに第三者型の前払式支払い手段として登録されています。
+**Visa ギフト カード ジャパン** とは、日本で発行された **Visa ブランドのプリペイド カード** のファミリーを指します。最も有名なのは、** が発行した **V プリカ (V プリカ)** 製品です。[[card-issuers/life-card|Life Card Co Ltd]]** ビザスキームライセンスに基づいて。 Vプリカは、**日本が発行する主要なVisaブランドのプリペイドカード**であり、世界中のVisaを受け入れる加盟店でご利用いただけます（オンラインおよび店頭で物理的なカードのオプションあり）。と区別する[[payments/amazon-gift-card-japan|Amazon Gift Card]] / [[payments/apple-gift-card-japan|Apple Gift Card]] / [[payments/google-play-gift-card-japan|Google Play Gift Card]](すべてクローズドループ/プラットフォーム制限あり)、Visa ギフトカードは **オープンループ/ブランドネットワークプリペイド**であり、Visa のグローバル加盟店ネットワーク全体で使用できます。この製品は、**クレジット カードの契約なしでのオンライン購入**、**受取人がどこで使うかを選択する必要があるギフト配布**、および従来のクレジット カード履歴のないユーザー向けの **カードレス キャッシュレス オンランプ**向けに位置付けられています。 Vプリカは、ライフカード独自のサービスではなく、第三者のVisa加盟店で受け付けられるため、金融庁のもとに第三者型の前払式支払い手段として登録されています。
 
 ## 発行者と運用構造
 
 | 寸法 | 読む |
 |---|---|
-| 主な日本発行Visaギフトカード | **Vプリカ (V Preca)** by[[JapanFG/life-card\|Life Card Co Ltd]] |
-| ブランドネットワーク | 見る（経由）[[JapanFG/visa-worldwide-japan\|Visa Worldwide Japan]]ライセンス） |
+| 主な日本発行Visaギフトカード | **Vプリカ (V Preca)** by[[card-issuers/life-card\|Life Card Co Ltd]] |
+| ブランドネットワーク | 見る（経由）[[payment-firms/visa-worldwide-japan\|Visa Worldwide Japan]]ライセンス） |
 | FSAプリペイド登録 | Life Card Co Ltd は `daisan.xlsx` に第三者型前払式支払手段発行者として掲載されている（法人番号3020001086810, 、2011-04-01登録。発行者はカード / プリペイド / 保証隣接領域を含む）。 |
 | Launch year (Vプリカ) | 2010 (Vプリカ initial launch under Life Card) |
 | カードフォーマット | オンライン/バーチャルカード付き16-桁番号、CVV、有効期限 — 特定の製品バリエーションの物理カード オプションも |
@@ -36,7 +36,7 @@ translated_at: 2026-06-02T16:33:58.521Z
 
 Vプリカ is registered as **第三者型前払式支払手段** under[[payments/funds-transfer-vs-prepaid-boundary|Payment Services Act (資金決済法)]]章3 なぜなら、支出面は発行会​​社独自のサービスではなく、Visa ネットワーク内の **サードパーティ販売者**だからです。主な規制上の影響:
 
-- [[JapanFG/life-card|Life Card]]発行者としては[[payments/prepaid-payment-instrument-issuers-japan-index|FSA `daisan.xlsx`]].
+- [[card-issuers/life-card|Life Card]]発行者としては[[payments/prepaid-payment-instrument-issuers-japan-index|FSA `daisan.xlsx`]].
 - 半年ごとに法務局に**未使用残金**を供託。
 - **発行中止時を除き、元の支払者への返金はありません** — Vプリカ残高はデフォルトで現金に返金できません。
 - 取得者側の加盟店の受け入れ、交換フロー、チャージバック/紛争処理については **ビザ制度ルール** に基づいて運営されます — を参照してください。[[payments/japan-interchange-and-merchant-fee-stack|Japan interchange and merchant fee stack]]ブランドネットワークの経済的背景について。
@@ -85,9 +85,9 @@ Vプリカ is registered as **第三者型前払式支払手段** under[[payment
 
 Vプリカは主要なものですが、日本で唯一のVisaブランドのプリペイドではありません。その他の Visa ブランドのプリペイド カードには次のものがあります。
 
-- **[[JapanFG/kyash|Kyash]]Visa カード** — Kyash Inc. が発行する、ウォレットとプリペイドの Visa カードのハイブリッド。 Vプリカ（シングルロードギフト/カードレス購入）とは異なるユースケース（リアルタイムウォレット+Visaプリペイド発行）を提供します。
-- **さまざまなウォレット発行の Visa ブランドプリペイド** - 複数のフィンテック ウォレットが、ウォレットのサービスの一部として Visa プリペイドを発行しています (例:[[JapanFG/paypay|PayPay]]カード、さまざまな小型ウォレット Visa カード）。
-- **[[JapanFG/au-payment|au PAY]]プリペイド カード** — au PAY ウォレットに関連して発行された Visa または Mastercard プリペイド カード。
+- **[[payment-firms/kyash|Kyash]]Visa カード** — Kyash Inc. が発行する、ウォレットとプリペイドの Visa カードのハイブリッド。 Vプリカ（シングルロードギフト/カードレス購入）とは異なるユースケース（リアルタイムウォレット+Visaプリペイド発行）を提供します。
+- **さまざまなウォレット発行の Visa ブランドプリペイド** - 複数のフィンテック ウォレットが、ウォレットのサービスの一部として Visa プリペイドを発行しています (例:[[payment-firms/paypay|PayPay]]カード、さまざまな小型ウォレット Visa カード）。
+- **[[payment-firms/au-payment|au PAY]]プリペイド カード** — au PAY ウォレットに関連して発行された Visa または Mastercard プリペイド カード。
 - **銀行発行のプリペイド** — 一部の銀行発行の Visa プリペイド製品。
 
 **Visa ギフト カード** (シングル ロード ギフト志向) と **Visa ブランド ウォレット プリペイド** (チャージして使うウォレット) の境界はやや曖昧です。どちらも Visa スキームの受け入れを使用していますが、製品の位置付けと顧客の使用例は異なります。
@@ -125,9 +125,9 @@ Visa Gift Card Japan (principally Vプリカ) strategic role:
 - [[payments/japan-interchange-and-merchant-fee-stack]]
 - [[payments/funds-transfer-vs-prepaid-boundary]]
 - [[payments/japan-payment-scheme-economics-matrix]]
-- [[JapanFG/life-card]]
-- [[JapanFG/visa-worldwide-japan]]
-- [[JapanFG/kyash]]
+- [[card-issuers/life-card]]
+- [[payment-firms/visa-worldwide-japan]]
+- [[payment-firms/kyash]]
 - [[INDEX|FinWiki index]]
 
 ## 出典

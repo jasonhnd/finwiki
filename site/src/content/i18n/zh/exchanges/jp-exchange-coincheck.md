@@ -102,7 +102,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 - [[exchanges/jp-exchange-gmo-coin]] — GMO Coin
 - [[fintech/japan-stablecoin-regulatory-landscape]] — 相关 stablecoin 制度
 - [[exchanges/coincheck-nem-hack-detailed-analysis]] — Coincheck NEM 流出事件详细分析
-- [[JapanFG/monex-group]] — 母公司 Monex Group
+- [[securities-firms/monex-group]] — 母公司 Monex Group
 - [[exchanges/jp-ieo-system-and-cases]] — IEO 制度 · 案例
 
 ## Sources

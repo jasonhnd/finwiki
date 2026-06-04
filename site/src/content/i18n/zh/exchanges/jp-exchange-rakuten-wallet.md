@@ -63,7 +63,7 @@ translated_at: 2026-05-31T05:31:05.772Z
 
 - 账户数・月度交易额未公布（截至 2026-05-18）。
 - 以乐天集团（会员超1億人）的生态系统为基础的客户群是差异化要素。通过与乐天积分・乐天Cash的联动，致力于将无加密资产经验的乐天用户引导上线。
-- 同业中的定位: 中坚（mid tier）。在 [[exchanges/jp-exchange-bitflyer|bitFlyer]]・[[exchanges/jp-exchange-coincheck|Coincheck]]・[[exchanges/jp-exchange-gmo-coin|GMOコイン]] 占据上位的格局中，在 [[JapanFG/rakuten-fg|楽天経済圏]] 确立独特定位（[[exchanges/jp-cex-points-economy-integration|JP CEX ポイント経済統合]] 模式）。相较面向机构投资者的服务，更偏向零售特化的色彩。
+- 同业中的定位: 中坚（mid tier）。在 [[exchanges/jp-exchange-bitflyer|bitFlyer]]・[[exchanges/jp-exchange-coincheck|Coincheck]]・[[exchanges/jp-exchange-gmo-coin|GMOコイン]] 占据上位的格局中，在 [[payment-firms/rakuten-fg|楽天経済圏]] 确立独特定位（[[exchanges/jp-cex-points-economy-integration|JP CEX ポイント経済統合]] 模式）。相较面向机构投资者的服务，更偏向零售特化的色彩。
 
 ## 6. 沿革・重大事件
 
@@ -110,7 +110,7 @@ translated_at: 2026-05-31T05:31:05.772Z
 - [[exchanges/jp-exchange-gmo-coin]] — 同业 GMO Coin overview
 - [[exchanges/jp-exchange-mercoin]] — 同业 Mercoin overview
 - [[exchanges/jp-exchange-binance-japan]] — 同业 Binance Japan overview
-- [[JapanFG/rakuten-fg]] — 乐天集团母公司画像
+- [[payment-firms/rakuten-fg]] — 乐天集团母公司画像
 - [[exchanges/jp-cex-points-economy-integration]] — JP CEX 积分经济整合
 - [[exchanges/jp-vasp-parent-company-map]] — JP VASP 母公司图谱
 

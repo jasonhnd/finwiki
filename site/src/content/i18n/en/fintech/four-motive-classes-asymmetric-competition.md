@@ -42,7 +42,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it against [[fintech
 - a16z crypto (Arc $75M lead + investments in numerous other stablecoin / chain projects)
 - BlackRock (Arc investment + [[fintech/blackrock-buidl-tokenized-mmf-overview|BUIDL]] on 8  chain + Tempo investment)
 - Apollo (Arc investment + [[fintech/apollo-acred-private-credit-tokenization|ACRED]] on 6  chain)
-- SBI Holdings (Circle investment + [[JapanFG/jpyc|JPYC]] stake + SBI Circle Holdings 50% stake + many others)
+- SBI Holdings (Circle investment + [[payment-firms/jpyc|JPYC]] stake + SBI Circle Holdings 50% stake + many others)
 - Mubadala (Arc + Middle East RWA fund investments)
 - Visa (Arc investment + Tempo validator + accepts all stablecoins + does not issue its own stablecoin)
 - Mastercard (similar to Visa but later timing)

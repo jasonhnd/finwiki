@@ -63,13 +63,6 @@
     "wikilinks_count": 24,
     "wikilinks": [
       "INDEX",
-      "JapanFG/dbj",
-      "JapanFG/itochu-corp",
-      "JapanFG/mitsubishi-corp",
-      "JapanFG/mitsui-co",
-      "JapanFG/mizuho-fg",
-      "JapanFG/mufg",
-      "JapanFG/smfg",
       "banking/regional-bank-consolidation-pattern",
       "corporate-strategy/partial-spinoff-tax-deferral",
       "finance/INDEX",
@@ -85,17 +78,17 @@
       "finance/japan-shareholder-proposal-and-agm-voting-route",
       "finance/japan-tender-offer-process",
       "finance/multi-jurisdiction-identity-tax-leverage",
+      "financial-conglomerates/itochu-corp",
+      "financial-conglomerates/mitsubishi-corp",
+      "financial-conglomerates/mitsui-co",
+      "financial-regulators/dbj",
+      "megabanks/mizuho-fg",
+      "megabanks/mufg",
+      "megabanks/smfg",
       "securities/japan-underwriting-market-structure"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/dbj",
-      "https://finwiki.zksc.io/JapanFG/itochu-corp",
-      "https://finwiki.zksc.io/JapanFG/mitsubishi-corp",
-      "https://finwiki.zksc.io/JapanFG/mitsui-co",
-      "https://finwiki.zksc.io/JapanFG/mizuho-fg",
-      "https://finwiki.zksc.io/JapanFG/mufg",
-      "https://finwiki.zksc.io/JapanFG/smfg",
       "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
       "https://finwiki.zksc.io/corporate-strategy/partial-spinoff-tax-deferral",
       "https://finwiki.zksc.io/finance/INDEX",
@@ -111,15 +104,22 @@
       "https://finwiki.zksc.io/finance/japan-shareholder-proposal-and-agm-voting-route",
       "https://finwiki.zksc.io/finance/japan-tender-offer-process",
       "https://finwiki.zksc.io/finance/multi-jurisdiction-identity-tax-leverage",
+      "https://finwiki.zksc.io/financial-conglomerates/itochu-corp",
+      "https://finwiki.zksc.io/financial-conglomerates/mitsubishi-corp",
+      "https://finwiki.zksc.io/financial-conglomerates/mitsui-co",
+      "https://finwiki.zksc.io/financial-regulators/dbj",
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/smfg",
       "https://finwiki.zksc.io/securities/japan-underwriting-market-structure"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 12640,
-    "word_like_tokens": 1900,
+    "nonspace_chars": 12815,
+    "word_like_tokens": 1910,
     "inbound_wikilinks_count": 19,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-04"
   }
 }

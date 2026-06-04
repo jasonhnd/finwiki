@@ -30,11 +30,11 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[money-market/INDEX|money-market index]]. Read it against [[money-market/japan-money-market-benchmark-reform-tona|Japan money-market benchmark reform]] for peer / contrast context with the TONA risk-free rate, [[money-market/call-market-structure|Call market structure]] for the actual transacted overnight market, and [[JapanFG/zenginkyo|the Japanese Bankers Association]] for the administering institution.
+This entry sits under [[money-market/INDEX|money-market index]]. Read it against [[money-market/japan-money-market-benchmark-reform-tona|Japan money-market benchmark reform]] for peer / contrast context with the TONA risk-free rate, [[money-market/call-market-structure|Call market structure]] for the actual transacted overnight market, and [[financial-regulators/zenginkyo|the Japanese Bankers Association]] for the administering institution.
 
 ## TL;DR
 
-TIBOR (Tokyo Interbank Offered Rate) is a Japanese term interbank reference rate published each business day by **JBA TIBOR Administration (JBATA)**, a body affiliated with [[JapanFG/zenginkyo|the Japanese Bankers Association (Zenginkyō)]]. It is a **quote-based** benchmark: a panel of reference banks submit the rates at which they judge prime banks could obtain unsecured term funds, and JBATA computes the published rate from those submissions.
+TIBOR (Tokyo Interbank Offered Rate) is a Japanese term interbank reference rate published each business day by **JBA TIBOR Administration (JBATA)**, a body affiliated with [[financial-regulators/zenginkyo|the Japanese Bankers Association (Zenginkyō)]]. It is a **quote-based** benchmark: a panel of reference banks submit the rates at which they judge prime banks could obtain unsecured term funds, and JBATA computes the published rate from those submissions.
 
 Two TIBOR families have existed:
 
@@ -64,7 +64,7 @@ Because TIBOR is built from reference-bank judgement rather than from a pool of 
 | Japanese Yen TIBOR (D-TIBOR) | Domestic Japanese unsecured call-market funding environment. | Continuing publication. |
 | Euroyen TIBOR (Z-TIBOR) | Offshore Japan Offshore Market (euroyen) funding environment. | Permanently ceased; final publication 30 December 2024. |
 
-The Euroyen TIBOR cessation followed a multi-year reform path. JBATA published an approach for integrating Japanese Yen TIBOR and Euroyen TIBOR in 2018 in light of the prolonged downsizing of the Japan Offshore Market, ran public consultations on fallbacks and on permanent cessation, and confirmed the end of Euroyen TIBOR via a 2024 statement coordinated with the [[JapanFG/fsa|FSA]]. Market users of Euroyen TIBOR were directed to fallback arrangements (alternative rates plus spread adjustment).
+The Euroyen TIBOR cessation followed a multi-year reform path. JBATA published an approach for integrating Japanese Yen TIBOR and Euroyen TIBOR in 2018 in light of the prolonged downsizing of the Japan Offshore Market, ran public consultations on fallbacks and on permanent cessation, and confirmed the end of Euroyen TIBOR via a 2024 statement coordinated with the [[financial-regulators/fsa|FSA]]. Market users of Euroyen TIBOR were directed to fallback arrangements (alternative rates plus spread adjustment).
 
 ## TIBOR vs TONA
 
@@ -95,7 +95,7 @@ TIBOR reform aligned the benchmark with IOSCO Principles for Financial Benchmark
 - A clear administrator (JBATA) with a defined calculation and oversight framework.
 - A specified reference-bank panel and submission methodology with a fallback / contingency framework when submissions are insufficient.
 - Public consultation processes for major changes (fallbacks, integration, Euroyen cessation).
-- Coordination with the [[JapanFG/fsa|FSA]] and with the broader [[money-market/japan-money-market-benchmark-reform-tona|JPY benchmark-reform effort]] run through the BoJ-convened Cross-Industry Committee.
+- Coordination with the [[financial-regulators/fsa|FSA]] and with the broader [[money-market/japan-money-market-benchmark-reform-tona|JPY benchmark-reform effort]] run through the BoJ-convened Cross-Industry Committee.
 
 This governance is what allowed TIBOR to survive the global IBOR transition that ended LIBOR, rather than being discontinued.
 
@@ -109,10 +109,10 @@ This governance is what allowed TIBOR to survive the global IBOR transition that
 
 ## JapanFG Relevance
 
-- [[JapanFG/zenginkyo|Japanese Bankers Association (Zenginkyō)]] is the institutional home of JBA TIBOR Administration.
-- [[JapanFG/fsa|FSA]] is the supervisory authority coordinating benchmark reform.
-- [[JapanFG/mufg]], [[JapanFG/smfg]], and [[JapanFG/mizuho-fg]] participate as major lenders whose loan books reference TIBOR and (historically) as reference-panel-type institutions in the interbank market.
-- [[JapanFG/boj-monetary-policy]] sets the policy framework that drives the underlying short-rate environment TIBOR reflects.
+- [[financial-regulators/zenginkyo|Japanese Bankers Association (Zenginkyō)]] is the institutional home of JBA TIBOR Administration.
+- [[financial-regulators/fsa|FSA]] is the supervisory authority coordinating benchmark reform.
+- [[megabanks/mufg]], [[megabanks/smfg]], and [[megabanks/mizuho-fg]] participate as major lenders whose loan books reference TIBOR and (historically) as reference-panel-type institutions in the interbank market.
+- [[financial-regulators/boj-monetary-policy]] sets the policy framework that drives the underlying short-rate environment TIBOR reflects.
 
 ## Boundary Cases
 
@@ -133,12 +133,12 @@ This governance is what allowed TIBOR to survive the global IBOR transition that
 - [[derivatives/ois-tona-curve]]
 - [[derivatives/japan-irs-market]]
 - [[derivatives/japan-interest-rate-derivatives-overview]]
-- [[JapanFG/zenginkyo]]
-- [[JapanFG/fsa]]
-- [[JapanFG/boj-monetary-policy]]
-- [[JapanFG/mufg]]
-- [[JapanFG/smfg]]
-- [[JapanFG/mizuho-fg]]
+- [[financial-regulators/zenginkyo]]
+- [[financial-regulators/fsa]]
+- [[financial-regulators/boj-monetary-policy]]
+- [[megabanks/mufg]]
+- [[megabanks/smfg]]
+- [[megabanks/mizuho-fg]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

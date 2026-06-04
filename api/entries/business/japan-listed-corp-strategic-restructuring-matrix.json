@@ -68,8 +68,6 @@
     "wikilinks_count": 25,
     "wikilinks": [
       "INDEX",
-      "JapanFG/rakuten-securities",
-      "JapanFG/sony-fg",
       "banking/rakuten-bank",
       "business/INDEX",
       "business/rakuten-group-mobile-finance-bundling-case",
@@ -90,13 +88,13 @@
       "finance/japan-private-equity-operating-model",
       "finance/japan-takeover-defense-poison-pill",
       "finance/japan-tender-offer-process",
+      "megabanks/sony-fg",
+      "securities-firms/rakuten-securities",
       "securities/japan-ipo-2024-2025-case-study-kioxia-tokyo-metro",
       "securities/japan-ipo-listing-disclosure-route"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/rakuten-securities",
-      "https://finwiki.zksc.io/JapanFG/sony-fg",
       "https://finwiki.zksc.io/banking/rakuten-bank",
       "https://finwiki.zksc.io/business/INDEX",
       "https://finwiki.zksc.io/business/rakuten-group-mobile-finance-bundling-case",
@@ -117,6 +115,8 @@
       "https://finwiki.zksc.io/finance/japan-private-equity-operating-model",
       "https://finwiki.zksc.io/finance/japan-takeover-defense-poison-pill",
       "https://finwiki.zksc.io/finance/japan-tender-offer-process",
+      "https://finwiki.zksc.io/megabanks/sony-fg",
+      "https://finwiki.zksc.io/securities-firms/rakuten-securities",
       "https://finwiki.zksc.io/securities/japan-ipo-2024-2025-case-study-kioxia-tokyo-metro",
       "https://finwiki.zksc.io/securities/japan-ipo-listing-disclosure-route"
     ],
@@ -124,9 +124,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 21154,
-    "word_like_tokens": 3403,
+    "nonspace_chars": 21174,
+    "word_like_tokens": 3405,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-06-04"
   }
 }

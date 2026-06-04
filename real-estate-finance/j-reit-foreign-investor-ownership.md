@@ -47,7 +47,7 @@ The 25-35% range is large relative to most listed-market segments in Japan. Fore
 
 ### How the share is observed
 
-JPX publishes weekly investor-type statistics for J-REIT trading separately from the equity-market statistics. The investor categories include 個人 (individuals), 投信 (investment trusts), 銀行 (banks), 生損保 (life and non-life insurers), 信託銀行 (trust banks — which often serve as nominee for foreign and domestic mandates), 自己 (proprietary), 外国人 (foreign), and others. Foreign-investor net buy / sell can be tracked on a weekly basis. Holdings-share readings are harder to extract on a real-time basis because trust-bank nominee positions (the 「信託口」 surface, e.g. [[banking/master-trust-bank-operating-model|MTBJ]] and [[JapanFG/custody-bank|CBJ]]) commingle domestic and foreign beneficial ownership.
+JPX publishes weekly investor-type statistics for J-REIT trading separately from the equity-market statistics. The investor categories include 個人 (individuals), 投信 (investment trusts), 銀行 (banks), 生損保 (life and non-life insurers), 信託銀行 (trust banks — which often serve as nominee for foreign and domestic mandates), 自己 (proprietary), 外国人 (foreign), and others. Foreign-investor net buy / sell can be tracked on a weekly basis. Holdings-share readings are harder to extract on a real-time basis because trust-bank nominee positions (the 「信託口」 surface, e.g. [[banking/master-trust-bank-operating-model|MTBJ]] and [[trust-banks/custody-bank|CBJ]]) commingle domestic and foreign beneficial ownership.
 
 ### Segment 1 — Global REIT specialist funds
 
@@ -191,11 +191,11 @@ See [[banking/master-trust-bank-operating-model|Master Trust Bank of Japan opera
 - [[policy-finance/INDEX]]
 - [[policy-finance/japan-housing-finance-agency]]
 - [[finance/INDEX]]
-- [[JapanFG/mitsubishi-ufj-trust-bank]]
-- [[JapanFG/sumitomo-mitsui-trust]]
-- [[JapanFG/mizuho-trust-bank]]
-- [[JapanFG/master-trust-bank]]
-- [[JapanFG/custody-bank]]
+- [[trust-banks/mitsubishi-ufj-trust-bank]]
+- [[trust-banks/sumitomo-mitsui-trust]]
+- [[trust-banks/mizuho-trust-bank]]
+- [[trust-banks/master-trust-bank]]
+- [[trust-banks/custody-bank]]
 - [[securities/japan-securities-depository-center]]
 
 ## Sources

@@ -91,9 +91,9 @@ MRF 和短期日元基金投资组合持有标准的短期日元资产堆栈:
 
 ## JapanFG 相关性
 
-- 在线经纪商 [[JapanFG/rakuten-securities]], [[JapanFG/sbi-securities]], [[JapanFG/monex-group]] 和其他人作为账户入职的一部分运营 MRF 扫账账户。
-- 全方位证券公司 [[JapanFG/nomura-hd]], [[JapanFG/daiwa-sg]], [[JapanFG/mizuho-securities]], [[JapanFG/mufg-mums]] 和 [[JapanFG/smbc-nikko]] 运营 MRF 和短期日元基金。
-- 包括 [[JapanFG/nomura-asset-management]], [[JapanFG/asset-management-one]], [[JapanFG/nikko-asset-management]], [[JapanFG/daiwa-asset-management]] 和 [[JapanFG/mufg-asset-management]] 在内的资产管理公司运营基础短期日元基金工具。
+- 在线经纪商 [[securities-firms/rakuten-securities]], [[securities-firms/sbi-securities]], [[securities-firms/monex-group]] 和其他人作为账户入职的一部分运营 MRF 扫账账户。
+- 全方位证券公司 [[securities-firms/nomura-hd]], [[securities-firms/daiwa-sg]], [[securities-firms/mizuho-securities]], [[securities-firms/mufg-mums]] 和 [[securities-firms/smbc-nikko]] 运营 MRF 和短期日元基金。
+- 包括 [[asset-managers/nomura-asset-management]], [[asset-managers/asset-management-one]], [[asset-managers/nikko-asset-management]], [[asset-managers/daiwa-asset-management]] 和 [[asset-managers/mufg-asset-management]] 在内的资产管理公司运营基础短期日元基金工具。
 
 ## 边界情况
 
@@ -125,8 +125,8 @@ MRF 和短期日元基金投资组合持有标准的短期日元资产堆栈:
 - [[securities/nisa-2025-tax-reform-update]]
 - [[securities/japan-online-brokerage-competition]]
 - [[securities/japan-asset-manager-landscape-matrix]]
-- [[JapanFG/nomura-asset-management]]
-- [[JapanFG/asset-management-one]]
+- [[asset-managers/nomura-asset-management]]
+- [[asset-managers/asset-management-one]]
 - [[INDEX|FinWiki index]]
 
 ## 来源

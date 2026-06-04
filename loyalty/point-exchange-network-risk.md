@@ -27,7 +27,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[loyalty/INDEX|loyalty index]] as the **cross-program exchange** page — the mechanism layer beneath the program directory in [[loyalty/japan-points-landscape|Japan points and loyalty landscape]]. It pairs with [[loyalty/point-liability-accounting-boundary|point liability accounting boundary]] (which defines how a conversion splits into a liability-transfer event plus a settlement leg) and with [[loyalty/jal-mileage-bank-vs-ana-mileage-club-comparison|JMB vs AMC]] (because airline mileage is the highest-value sink most exchange paths flow toward). For the regulatory edge — where a freely transferable, cash-like point stops being loyalty marketing and becomes a payments topic — route to [[payments/funds-transfer-vs-prepaid-boundary|funds-transfer vs prepaid boundary]] and [[JapanFG/legal-financial-licenses/payment-license-stack|payment-license stack]].
+This entry sits under [[loyalty/INDEX|loyalty index]] as the **cross-program exchange** page — the mechanism layer beneath the program directory in [[loyalty/japan-points-landscape|Japan points and loyalty landscape]]. It pairs with [[loyalty/point-liability-accounting-boundary|point liability accounting boundary]] (which defines how a conversion splits into a liability-transfer event plus a settlement leg) and with [[loyalty/jal-mileage-bank-vs-ana-mileage-club-comparison|JMB vs AMC]] (because airline mileage is the highest-value sink most exchange paths flow toward). For the regulatory edge — where a freely transferable, cash-like point stops being loyalty marketing and becomes a payments topic — route to [[payments/funds-transfer-vs-prepaid-boundary|funds-transfer vs prepaid boundary]] and [[financial-licenses/payment-license-stack|payment-license stack]].
 
 ## TL;DR
 
@@ -71,7 +71,7 @@ Rate gaps plus weak identity binding are an arbitrage invitation: cycle value ac
 
 ### Cash-equivalence drift
 
-A point that is freely transferable, broadly redeemable, and effectively refundable starts to behave like money. At that point the loyalty framing fails and the **Payment Services Act** analysis takes over — prepaid-instrument or even funds-transfer territory. The boundary is set out in [[payments/funds-transfer-vs-prepaid-boundary|funds-transfer vs prepaid boundary]] and [[JapanFG/legal-financial-licenses/payment-license-stack|the payment-license stack]]. Exchange design is, in part, deliberately kept *limited* (limited-use points, caps, one-way valves) to stay on the loyalty side of that line. The clearest illustration is that **limited-use dポイント (期間・用途限定) cannot be converted to JAL miles at all** — the restriction is what keeps the promotional grant from becoming cash-like.
+A point that is freely transferable, broadly redeemable, and effectively refundable starts to behave like money. At that point the loyalty framing fails and the **Payment Services Act** analysis takes over — prepaid-instrument or even funds-transfer territory. The boundary is set out in [[payments/funds-transfer-vs-prepaid-boundary|funds-transfer vs prepaid boundary]] and [[financial-licenses/payment-license-stack|the payment-license stack]]. Exchange design is, in part, deliberately kept *limited* (limited-use points, caps, one-way valves) to stay on the loyalty side of that line. The clearest illustration is that **limited-use dポイント (期間・用途限定) cannot be converted to JAL miles at all** — the restriction is what keeps the promotional grant from becoming cash-like.
 
 ## Topology of the JP exchange network
 
@@ -89,8 +89,8 @@ The structural reading: **common points (Rakuten, d, Ponta) are the broad on-ram
 ## Why this matters for JapanFG / financial analysis
 
 - **Liability is non-additive.** A high point balance on one operator's IR slide is not a system-wide total, and part of it may be in transit to another balance sheet. Aggregate "Japan point economy" figures (the ~2.8 trillion yen Yano Research market sizing is a *market* figure, not a summed liability) should never be read as a sum of operator liabilities.
-- **Acquiring a point operator imports its edges.** A bank or telco buying into a common point ([[JapanFG/smfg|SMFG]] via V-Point / CCCMK, [[JapanFG/ndfg|NDFG]] via dポイント, [[JapanFG/rakuten-fg|Rakuten FG]] internally) inherits the settlement relationships, the breakage-estimation problem, and the cash-equivalence boundary — not just a marketing asset.
-- **Exchange is the cash-like pressure valve.** The richer the exchange network, the closer the most-liquid points sit to the [[payments/funds-transfer-vs-prepaid-boundary|funds-transfer / prepaid boundary]]. Operators that have layered card, bank, and securities products on top of a point ([[JapanFG/paypay-fg|PayPay FG]], [[JapanFG/rakuten-fg|Rakuten FG]]) have the most to lose if a regulator reclassifies a flagship point as cash-equivalent.
+- **Acquiring a point operator imports its edges.** A bank or telco buying into a common point ([[megabanks/smfg|SMFG]] via V-Point / CCCMK, [[megabanks/ndfg|NDFG]] via dポイント, [[payment-firms/rakuten-fg|Rakuten FG]] internally) inherits the settlement relationships, the breakage-estimation problem, and the cash-equivalence boundary — not just a marketing asset.
+- **Exchange is the cash-like pressure valve.** The richer the exchange network, the closer the most-liquid points sit to the [[payments/funds-transfer-vs-prepaid-boundary|funds-transfer / prepaid boundary]]. Operators that have layered card, bank, and securities products on top of a point ([[megabanks/paypay-fg|PayPay FG]], [[payment-firms/rakuten-fg|Rakuten FG]]) have the most to lose if a regulator reclassifies a flagship point as cash-equivalent.
 
 ## Related
 
@@ -102,12 +102,12 @@ The structural reading: **common points (Rakuten, d, Ponta) are the broad on-ram
 - [[loyalty/d-point-detailed-ecosystem|d Point detailed ecosystem]]
 - [[payments/funds-transfer-vs-prepaid-boundary|funds-transfer vs prepaid boundary]]
 - [[payments/INDEX|payments INDEX]]
-- [[JapanFG/legal-financial-licenses/payment-license-stack|payment-license stack]]
-- [[JapanFG/legal-financial-licenses/INDEX|JapanFG legal / financial licenses]]
-- [[JapanFG/rakuten-fg|Rakuten FG]]
-- [[JapanFG/ndfg|NDFG]]
-- [[JapanFG/smfg|SMFG]]
-- [[JapanFG/paypay-fg|PayPay FG]]
+- [[financial-licenses/payment-license-stack|payment-license stack]]
+- [[financial-licenses/INDEX|JapanFG legal / financial licenses]]
+- [[payment-firms/rakuten-fg|Rakuten FG]]
+- [[megabanks/ndfg|NDFG]]
+- [[megabanks/smfg|SMFG]]
+- [[megabanks/paypay-fg|PayPay FG]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

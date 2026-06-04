@@ -14,16 +14,16 @@ translated_at: 2026-05-31T03:19:56.372Z
 
 Japan custody analysis uses institution types as a primary field. Full-service trust banks, asset-administration specialists, global custodians / ICSD branches, and settlement infrastructures perform different jobs. A "trust account" or custodian name in a shareholder table is usually a nominee / administration surface, not proof that the trust bank is the economic investor.
 
-This page sits under [[banking/INDEX|banking domain]] and compares the operating layer behind trust-bank custody. Use it with [[banking/japan-trust-bank-custody-map|Japan trust bank and custody map]], [[banking/japan-master-trust-and-custody-bank-landscape|Japan master trust and custody bank landscape]], [[JapanFG/master-trust-bank|Master Trust Bank of Japan]], [[JapanFG/custody-bank|Custody Bank of Japan]], [[JapanFG/mitsubishi-ufj-trust-bank|Mitsubishi UFJ Trust Bank]], [[JapanFG/smtb|SMTB]], [[JapanFG/mizuho-trust-bank|Mizuho Trust]], [[JapanFG/bny-mellon-japan|BNY Mellon Japan]], [[JapanFG/state-street-japan|State Street Japan]], [[JapanFG/euroclear-bank-japan|Euroclear Bank Japan]], [[JapanFG/clearstream-banking-japan|Clearstream Banking Japan]], [[securities/japan-market-infrastructure-map|securities market infrastructure]], and [[securities/japan-stock-lending-market-route|stock lending market route]].
+This page sits under [[banking/INDEX|banking domain]] and compares the operating layer behind trust-bank custody. Use it with [[banking/japan-trust-bank-custody-map|Japan trust bank and custody map]], [[banking/japan-master-trust-and-custody-bank-landscape|Japan master trust and custody bank landscape]], [[trust-banks/master-trust-bank|Master Trust Bank of Japan]], [[trust-banks/custody-bank|Custody Bank of Japan]], [[trust-banks/mitsubishi-ufj-trust-bank|Mitsubishi UFJ Trust Bank]], [[trust-banks/smtb|SMTB]], [[trust-banks/mizuho-trust-bank|Mizuho Trust]], [[foreign-financial-institutions/bny-mellon-japan|BNY Mellon Japan]], [[foreign-financial-institutions/state-street-japan|State Street Japan]], [[foreign-financial-institutions/euroclear-bank-japan|Euroclear Bank Japan]], [[foreign-financial-institutions/clearstream-banking-japan|Clearstream Banking Japan]], [[securities/japan-market-infrastructure-map|securities market infrastructure]], and [[securities/japan-stock-lending-market-route|stock lending market route]].
 
 ## Institution-Type Comparison
 
 | Type | Examples | Core function | What not to infer |
 |---|---|---|---|
-| Full-service trust bank | [[JapanFG/mitsubishi-ufj-trust-bank|Mitsubishi UFJ Trust]], [[JapanFG/smtb|SMTB]], [[JapanFG/mizuho-trust-bank|Mizuho Trust]] | Trust, pensions, real estate, securities agency, asset administration, custody as one business line | Do not assume custody is the whole business. |
-| Asset-administration specialist | [[JapanFG/master-trust-bank|Master Trust Bank of Japan]], [[JapanFG/custody-bank|Custody Bank of Japan]] | Institutional custody, pension / investment-trust administration, fund accounting, corporate actions | Do not treat nominee holdings as proprietary investment. |
-| Global custodian / sub-custodian | [[JapanFG/bny-mellon-japan|BNY Mellon Japan]], [[JapanFG/state-street-japan|State Street Japan]] | Cross-border asset servicing, institutional custody, fund services, securities services | Do not infer local bank balance-sheet exposure from custody role alone. |
-| ICSD / collateral infrastructure | [[JapanFG/euroclear-bank-japan|Euroclear Bank Japan]], [[JapanFG/clearstream-banking-japan|Clearstream Banking Japan]] | International settlement, collateral, cross-border custody | Do not treat ICSD branch presence as a domestic retail bank route. |
+| Full-service trust bank | [[trust-banks/mitsubishi-ufj-trust-bank|Mitsubishi UFJ Trust]], [[trust-banks/smtb|SMTB]], [[trust-banks/mizuho-trust-bank|Mizuho Trust]] | Trust, pensions, real estate, securities agency, asset administration, custody as one business line | Do not assume custody is the whole business. |
+| Asset-administration specialist | [[trust-banks/master-trust-bank|Master Trust Bank of Japan]], [[trust-banks/custody-bank|Custody Bank of Japan]] | Institutional custody, pension / investment-trust administration, fund accounting, corporate actions | Do not treat nominee holdings as proprietary investment. |
+| Global custodian / sub-custodian | [[foreign-financial-institutions/bny-mellon-japan|BNY Mellon Japan]], [[foreign-financial-institutions/state-street-japan|State Street Japan]] | Cross-border asset servicing, institutional custody, fund services, securities services | Do not infer local bank balance-sheet exposure from custody role alone. |
+| ICSD / collateral infrastructure | [[foreign-financial-institutions/euroclear-bank-japan|Euroclear Bank Japan]], [[foreign-financial-institutions/clearstream-banking-japan|Clearstream Banking Japan]] | International settlement, collateral, cross-border custody | Do not treat ICSD branch presence as a domestic retail bank route. |
 | Market infrastructure | [[securities/japan-securities-depository-center|JASDEC]], [[securities/japan-securities-clearing-corp|JSCC]], BoJ JGB book-entry | Book-entry transfer, clearing, DVP, JGB settlement | Infrastructure is not an investment manager. |
 
 ## Operating Functions
@@ -40,13 +40,13 @@ This page sits under [[banking/INDEX|banking domain]] and compares the operating
 
 ## Master Trust Versus Custody Bank
 
-[[JapanFG/master-trust-bank|Master Trust Bank of Japan]] and [[JapanFG/custody-bank|Custody Bank of Japan]] are domestic asset-administration specialists. Both are institution-facing entities with investment-trust, pension, and institutional asset-administration roles. Their appearance in shareholder lists is recorded as trust / nominee / administration structure unless proprietary ownership is separately disclosed.
+[[trust-banks/master-trust-bank|Master Trust Bank of Japan]] and [[trust-banks/custody-bank|Custody Bank of Japan]] are domestic asset-administration specialists. Both are institution-facing entities with investment-trust, pension, and institutional asset-administration roles. Their appearance in shareholder lists is recorded as trust / nominee / administration structure unless proprietary ownership is separately disclosed.
 
 Public comparison fields include ownership, client base, assets under custody / administration, fund-accounting role, pension / investment-trust coverage, corporate-action operations, securities-lending support, and connections to JASDEC / JSCC / BoJ. Numeric AUC / AuA claims are source-date specific.
 
 ## Full-Service Trust Banks
 
-[[JapanFG/mitsubishi-ufj-trust-bank|Mitsubishi UFJ Trust Bank]], [[JapanFG/smtb|SMTB]], and [[JapanFG/mizuho-trust-bank|Mizuho Trust]] are broader trust-bank operators. They can combine custody / administration with real estate, pensions, securities agency, asset management, inheritance / wealth, and banking group services.
+[[trust-banks/mitsubishi-ufj-trust-bank|Mitsubishi UFJ Trust Bank]], [[trust-banks/smtb|SMTB]], and [[trust-banks/mizuho-trust-bank|Mizuho Trust]] are broader trust-bank operators. They can combine custody / administration with real estate, pensions, securities agency, asset management, inheritance / wealth, and banking group services.
 
 ## Public-Filing Interpretation
 
@@ -72,15 +72,15 @@ Public comparison fields include ownership, client base, assets under custody / 
 - [[banking/INDEX]]
 - [[banking/japan-trust-bank-custody-map]]
 - [[banking/japan-master-trust-and-custody-bank-landscape]]
-- [[JapanFG/master-trust-bank]]
-- [[JapanFG/custody-bank]]
-- [[JapanFG/mitsubishi-ufj-trust-bank]]
-- [[JapanFG/smtb]]
-- [[JapanFG/mizuho-trust-bank]]
-- [[JapanFG/bny-mellon-japan]]
-- [[JapanFG/state-street-japan]]
-- [[JapanFG/euroclear-bank-japan]]
-- [[JapanFG/clearstream-banking-japan]]
+- [[trust-banks/master-trust-bank]]
+- [[trust-banks/custody-bank]]
+- [[trust-banks/mitsubishi-ufj-trust-bank]]
+- [[trust-banks/smtb]]
+- [[trust-banks/mizuho-trust-bank]]
+- [[foreign-financial-institutions/bny-mellon-japan]]
+- [[foreign-financial-institutions/state-street-japan]]
+- [[foreign-financial-institutions/euroclear-bank-japan]]
+- [[foreign-financial-institutions/clearstream-banking-japan]]
 - [[securities/japan-market-infrastructure-map]]
 - [[securities/japan-stock-lending-market-route]]
 - [[INDEX|FinWiki index]]

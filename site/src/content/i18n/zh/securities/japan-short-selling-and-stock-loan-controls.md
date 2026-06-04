@@ -13,7 +13,7 @@ translated_at: 2026-06-01T04:15:40.123Z
 
 日本卖空位于三个相互连接的控制层面上：法律上的卖空规则、借券 / 证券金融可得性，以及交易所 / 经纪商的个股层面限制。不要把卖空余额、JSF 融券余额、信用卖出和证券借贷视为同一个数字。
 
-请将本页与 [[securities/INDEX|securities domain]]、[[securities/japan-margin-trading-and-securities-finance|margin trading and securities finance]]、[[securities/japan-stock-lending-market-route|stock lending market route]]、[[JapanFG/japan-securities-finance|Japan Securities Finance]]、[[securities/japan-best-execution-sor-pts|best execution / SOR / PTS]]、[[securities/japan-pts-liquidity-data-guide|PTS liquidity data guide]] 和 [[securities/tokyo-stock-exchange|Tokyo Stock Exchange]] 一起使用。
+请将本页与 [[securities/INDEX|securities domain]]、[[securities/japan-margin-trading-and-securities-finance|margin trading and securities finance]]、[[securities/japan-stock-lending-market-route|stock lending market route]]、[[financial-regulators/japan-securities-finance|Japan Securities Finance]]、[[securities/japan-best-execution-sor-pts|best execution / SOR / PTS]]、[[securities/japan-pts-liquidity-data-guide|PTS liquidity data guide]] 和 [[securities/tokyo-stock-exchange|Tokyo Stock Exchange]] 一起使用。
 
 ## 控制层
 
@@ -23,7 +23,7 @@ translated_at: 2026-06-01T04:15:40.123Z
 | 价格限制 | 当满足个股层面条件时触发卖空价格限制。 | JPX 卖空限制。 |
 | 裸卖空禁止 | 未持有或未安排借入的卖出受到限制。 | FSA 卖空措施。 |
 | 空头头寸报告 | 超过阈值的大额空头头寸需要通过报告 / 披露路径处理。 | FSA 卖空措施和交易所披露。 |
-| 借券可得性 | 借入股票来自信用 / 贷借交易、证券借贷或协商借入。 | [[JapanFG/japan-securities-finance|JSF]]、经纪商、机构出借方。 |
+| 借券可得性 | 借入股票来自信用 / 贷借交易、证券借贷或协商借入。 | [[financial-regulators/japan-securities-finance|JSF]]、经纪商、机构出借方。 |
 | 个股层面信用交易限制 | TSE / JSF 可以限制信用交易或信用交易用贷款。 | JPX 信用交易限制、JSF 通知。 |
 
 ## 数据地图
@@ -43,9 +43,9 @@ translated_at: 2026-06-01T04:15:40.123Z
 
 ## JapanFG 相关性
 
-- [[JapanFG/japan-securities-finance|Japan Securities Finance]] 是支持制度信用 / 贷借交易的核心机构。
-- [[JapanFG/sbi-securities|SBI Securities]]、[[JapanFG/rakuten-securities|Rakuten Securities]]、[[JapanFG/matsui-sec|Matsui Securities]]、[[JapanFG/gmo-click-securities|GMO Click Securities]] 和 [[JapanFG/dmm-com-securities|DMM.com Securities]] 对散户信用交易和活跃交易者资金流很重要。
-- [[JapanFG/nomura-hd|Nomura]]、[[JapanFG/daiwa-sg|Daiwa Securities Group]]、[[JapanFG/smbc-nikko|SMBC Nikko]]、[[JapanFG/mizuho-securities|Mizuho Securities]] 和 [[JapanFG/mufg-mums|MUMSS]] 对机构股票借贷、主经纪业务邻近领域以及承销 / 对冲资金流很重要。
+- [[financial-regulators/japan-securities-finance|Japan Securities Finance]] 是支持制度信用 / 贷借交易的核心机构。
+- [[securities-firms/sbi-securities|SBI Securities]]、[[securities-firms/rakuten-securities|Rakuten Securities]]、[[securities-firms/matsui-sec|Matsui Securities]]、[[securities-firms/gmo-click-securities|GMO Click Securities]] 和 [[securities-firms/dmm-com-securities|DMM.com Securities]] 对散户信用交易和活跃交易者资金流很重要。
+- [[securities-firms/nomura-hd|Nomura]]、[[securities-firms/daiwa-sg|Daiwa Securities Group]]、[[securities-firms/smbc-nikko|SMBC Nikko]]、[[securities-firms/mizuho-securities|Mizuho Securities]] 和 [[securities-firms/mufg-mums|MUMSS]] 对机构股票借贷、主经纪业务邻近领域以及承销 / 对冲资金流很重要。
 - 当卖空控制与交易场所选择发生交互时，[[securities/japan-best-execution-sor-pts|Best execution / SOR / PTS]] 很重要。
 
 ## 研究清单
@@ -61,7 +61,7 @@ translated_at: 2026-06-01T04:15:40.123Z
 - [[securities/INDEX]]
 - [[securities/japan-margin-trading-and-securities-finance]]
 - [[securities/japan-stock-lending-market-route]]
-- [[JapanFG/japan-securities-finance]]
+- [[financial-regulators/japan-securities-finance]]
 - [[securities/tokyo-stock-exchange]]
 - [[securities/japan-best-execution-sor-pts]]
 - [[securities/japan-pts-liquidity-data-guide]]

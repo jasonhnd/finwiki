@@ -95,7 +95,7 @@ Practical crowd-out controls include limiting DBJ's share in a transaction, pric
 
 ## 4. Relationship with megabanks
 
-DBJ and the megabanks, including [[JapanFG/mufg|MUFG]], [[JapanFG/smfg|SMFG]], and [[JapanFG/mizuho-fg|Mizuho FG]], are structurally complementary. DBJ typically supplies anchor, mezzanine, or long-tenor finance, while megabanks provide shorter- and medium-tenor senior loans, syndication capacity, and client distribution.
+DBJ and the megabanks, including [[megabanks/mufg|MUFG]], [[megabanks/smfg|SMFG]], and [[megabanks/mizuho-fg|Mizuho FG]], are structurally complementary. DBJ typically supplies anchor, mezzanine, or long-tenor finance, while megabanks provide shorter- and medium-tenor senior loans, syndication capacity, and client distribution.
 
 | Dimension | DBJ | Megabanks |
 |---|---|---|
@@ -125,7 +125,7 @@ DBJ's DX investment priorities include data centers, domestic and allied-country
 
 ## 7. Crisis-response operations
 
-DBJ is a designated financial institution for government-specified crisis-response operations, together with entities such as [[JapanFG/jfc|JFC]] in relevant periods.
+DBJ is a designated financial institution for government-specified crisis-response operations, together with entities such as [[financial-regulators/jfc|JFC]] in relevant periods.
 
 | Item | Reading |
 |---|---|
@@ -203,13 +203,13 @@ DBJ's statutory privatization path has repeatedly stalled. The original post-200
 
 ## Related
 
-- [[JapanFG/dbj]]
-- [[JapanFG/jfc]]
-- [[JapanFG/jbic]]
+- [[financial-regulators/dbj]]
+- [[financial-regulators/jfc]]
+- [[financial-regulators/jbic]]
 - [[JapanFG/nexi]]
-- [[JapanFG/mufg]]
-- [[JapanFG/smfg]]
-- [[JapanFG/mizuho-fg]]
+- [[megabanks/mufg]]
+- [[megabanks/smfg]]
+- [[megabanks/mizuho-fg]]
 - [[finance/INDEX]]
 - [[policy-finance/INDEX]]
 

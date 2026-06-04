@@ -57,7 +57,6 @@
   "body_links": {
     "wikilinks_count": 12,
     "wikilinks": [
-      "JapanFG/sumitomo-mitsui-trust",
       "banking/INDEX",
       "banking/master-trust-bank-operating-model",
       "structured-finance/INDEX",
@@ -68,10 +67,10 @@
       "structured-finance/japan-cmbs-issuance-structure",
       "structured-finance/japan-rmbs-issuance-structure",
       "structured-finance/jhf-mbs-mechanics",
-      "structured-finance/spv-tk-gk-vehicle-japan-tax"
+      "structured-finance/spv-tk-gk-vehicle-japan-tax",
+      "trust-banks/sumitomo-mitsui-trust"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/sumitomo-mitsui-trust",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/master-trust-bank-operating-model",
       "https://finwiki.zksc.io/structured-finance/INDEX",
@@ -82,15 +81,16 @@
       "https://finwiki.zksc.io/structured-finance/japan-cmbs-issuance-structure",
       "https://finwiki.zksc.io/structured-finance/japan-rmbs-issuance-structure",
       "https://finwiki.zksc.io/structured-finance/jhf-mbs-mechanics",
-      "https://finwiki.zksc.io/structured-finance/spv-tk-gk-vehicle-japan-tax"
+      "https://finwiki.zksc.io/structured-finance/spv-tk-gk-vehicle-japan-tax",
+      "https://finwiki.zksc.io/trust-banks/sumitomo-mitsui-trust"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 7704,
-    "word_like_tokens": 1213,
+    "nonspace_chars": 7720,
+    "word_like_tokens": 1217,
     "inbound_wikilinks_count": 11,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-04"
   }
 }

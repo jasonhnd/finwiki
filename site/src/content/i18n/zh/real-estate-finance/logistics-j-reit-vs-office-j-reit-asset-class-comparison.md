@@ -139,7 +139,7 @@ translated_at: 2026-06-01T03:31:12.308Z
 
 | 贷款维度 | 物流 | 办公 |
 |---|---|---|
-| 贷款人类型 |  megabank、信托银行（[[JapanFG/sumitomo-mitsui-trust\|SMTB]]、[[JapanFG/mitsubishi-ufj-trust-bank\|MUFJ Trust]]）、作为直接贷款人的寿险公司、参与银团的地方银行 | 以 megabank 和信托银行为主；寿险公司直接贷款；地方银行参与银团 |
+| 贷款人类型 |  megabank、信托银行（[[trust-banks/sumitomo-mitsui-trust\|SMTB]]、[[trust-banks/mitsubishi-ufj-trust-bank\|MUFJ Trust]]）、作为直接贷款人的寿险公司、参与银团的地方银行 | 以 megabank 和信托银行为主；寿险公司直接贷款；地方银行参与银团 |
 | 贷款结构 | 由特定设施现金流支持的 non-recourse loan；LTV 通常保守 | non-recourse loan 与开发商资产负债表支持的 corporate loan 混合 |
 | 期限 | 与租约期限匹配的长期贷款，5-15 年以上 | 建设贷款 3-5 年与永久融资 5-10 年混合 |
 | Covenants | DSCR / LTV / 基于 cap rate 的约束 | 类似；办公可能有更多基于空置率的 covenant |
@@ -199,8 +199,8 @@ translated_at: 2026-06-01T03:31:12.308Z
 - [[retail/aeon-group|AEON 集团]]
 - [[retail/seven-and-i-hd|Seven & i HD]]
 - [[retail/INDEX|零售索引]]
-- [[JapanFG/sumitomo-mitsui-trust|SMTB]]
-- [[JapanFG/mitsubishi-ufj-trust-bank|MUFJ Trust]]
+- [[trust-banks/sumitomo-mitsui-trust|SMTB]]
+- [[trust-banks/mitsubishi-ufj-trust-bank|MUFJ Trust]]
 - [[business/INDEX|商业索引]]
 - [[corporate-strategy/INDEX|企业战略索引]]
 - [[INDEX|FinWiki 索引]]

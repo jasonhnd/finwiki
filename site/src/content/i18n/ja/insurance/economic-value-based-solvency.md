@@ -13,7 +13,7 @@ translated_at: 2026-06-02T14:01:20.943Z
 
 日本の経済価値ベースのソルベンシー規制は、会計上の貸借対照表だけでなく、資産、負債、資本、リスクをより市場整合的な経済価値で評価する保険資本の枠組みである。金融庁はこの制度を、ソルベンシー規制、保険会社のリスク管理、契約者・市場参加者への開示という三本柱で整理している。
 
-FinWiki では、このページを [[JapanFG/dai-ichi-life]]、[[JapanFG/nippon-life]]、[[JapanFG/tokio-marine]]、[[JapanFG/msad]]、[[JapanFG/sompo]] などの保険会社ページに対する規制資本のアンカーとして使う。会社別の比率解釈には [[insurance/esr-economic-value-solvency|ESR]] を使う。
+FinWiki では、このページを [[life-insurers/dai-ichi-life]]、[[life-insurers/nippon-life]]、[[non-life-insurers/tokio-marine]]、[[non-life-insurers/msad]]、[[non-life-insurers/sompo]] などの保険会社ページに対する規制資本のアンカーとして使う。会社別の比率解釈には [[insurance/esr-economic-value-solvency|ESR]] を使う。
 
 ## 制度マップ
 
@@ -26,10 +26,10 @@ FinWiki では、このページを [[JapanFG/dai-ichi-life]]、[[JapanFG/nippon
 
 ## JapanFG での関連性
 
-- [[JapanFG/dai-ichi-life|Dai-ichi Life]] は上場生命保険持株会社であり、資本政策、自社株買い、M&A 余力、ESR 開示が投資対象として直接読めるため、株式市場上の最も明確なケースである。
-- [[JapanFG/nippon-life|Nippon Life]] は最大級の相互会社ケースであり、上場株式がなくても、経済価値ソルベンシーは資本戦略、契約者配当余力、海外 M&A の余地に影響する。
-- [[JapanFG/tokio-marine|Tokio Marine]]、[[JapanFG/msad|MS&AD]]、[[JapanFG/sompo|SOMPO]] は、自然災害リスク、海外スペシャルティ保険、政策株式などが資本変動性に大きく効くため重要である。
-- [[JapanFG/legal-financial-licenses/INDEX|JapanFG legal / financial licenses]] では、この論点を保険業法下のソルベンシーおよび健全性監督の領域として扱う。
+- [[life-insurers/dai-ichi-life|Dai-ichi Life]] は上場生命保険持株会社であり、資本政策、自社株買い、M&A 余力、ESR 開示が投資対象として直接読めるため、株式市場上の最も明確なケースである。
+- [[life-insurers/nippon-life|Nippon Life]] は最大級の相互会社ケースであり、上場株式がなくても、経済価値ソルベンシーは資本戦略、契約者配当余力、海外 M&A の余地に影響する。
+- [[non-life-insurers/tokio-marine|Tokio Marine]]、[[non-life-insurers/msad|MS&AD]]、[[non-life-insurers/sompo|SOMPO]] は、自然災害リスク、海外スペシャルティ保険、政策株式などが資本変動性に大きく効くため重要である。
+- [[financial-licenses/INDEX|JapanFG legal / financial licenses]] では、この論点を保険業法下のソルベンシーおよび健全性監督の領域として扱う。
 
 ## 判断での使い方
 
@@ -49,7 +49,7 @@ FinWiki では、このページを [[JapanFG/dai-ichi-life]]、[[JapanFG/nippon
 - [[insurance/INDEX|insurance INDEX]]
 - [[insurance/esr-economic-value-solvency]]
 - [[insurance/natcat-reinsurance-japan]]
-- [[JapanFG/legal-financial-licenses/INDEX]]
+- [[financial-licenses/INDEX]]
 - [[INDEX|FinWiki index]]
 
 ## 出典

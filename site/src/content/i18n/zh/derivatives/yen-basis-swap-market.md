@@ -68,7 +68,7 @@ synthetic USD cost ≈ JPY funding rate − basis (in bp, applied to JPY leg)
 
 当基差为 −60 bp 时，日元融资的合成美元比可比的原生美元借款贵 60 bp——这意味着，如果发行人拥有美元债特许经营（franchise），更便宜的路径是直接发行美元。反之，想要日元融资的美元持有者，因将美元借入互换而获得 60 bp 的额外收益（pickup）；这就是当基差走阔时套利资本所追逐的「日元 pickup 交易」。
 
-对于日本巨型银行的资金部（treasury），基差直接为日元计价存款（便宜、充裕）与美元资产（昂贵、稀缺）之间的融资缺口定价，这就是为什么巨型银行的批发融资策略对基差变动敏感。特许经营层面见 [[banking/INDEX]] 和 [[JapanFG/mufg-bank]]、[[JapanFG/sumitomo-mitsui-banking-corp]]、[[JapanFG/mizuho-bank]]。
+对于日本巨型银行的资金部（treasury），基差直接为日元计价存款（便宜、充裕）与美元资产（昂贵、稀缺）之间的融资缺口定价，这就是为什么巨型银行的批发融资策略对基差变动敏感。特许经营层面见 [[banking/INDEX]] 和 [[megabanks/mufg-bank]]、[[megabanks/sumitomo-mitsui-banking-corp]]、[[megabanks/mizuho-bank]]。
 
 ## Megabank Dealer Franchise
 
@@ -136,9 +136,9 @@ synthetic USD cost ≈ JPY funding rate − basis (in bp, applied to JPY leg)
 - [[finance/japan-corporate-fx-and-rate-hedge-policy]]
 - [[finance/japan-listed-financial-groups-investable-universe]]
 - [[securities/japan-market-infrastructure-map]]
-- [[JapanFG/mufg-bank]]
-- [[JapanFG/sumitomo-mitsui-banking-corp]]
-- [[JapanFG/mizuho-bank]]
+- [[megabanks/mufg-bank]]
+- [[megabanks/sumitomo-mitsui-banking-corp]]
+- [[megabanks/mizuho-bank]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

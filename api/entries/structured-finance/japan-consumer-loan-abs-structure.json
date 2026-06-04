@@ -69,18 +69,18 @@
   "body_links": {
     "wikilinks_count": 22,
     "wikilinks": [
-      "JapanFG/acom",
-      "JapanFG/aiful",
-      "JapanFG/aplus",
-      "JapanFG/bnpl-landscape",
       "JapanFG/funds",
-      "JapanFG/jaccs",
       "JapanFG/lendable",
-      "JapanFG/orico",
-      "JapanFG/sbi-shinsei",
-      "JapanFG/smbc-consumer-finance",
       "banking/INDEX",
+      "card-issuers/aplus",
+      "card-issuers/jaccs",
+      "card-issuers/orico",
+      "consumer-finance/acom",
+      "consumer-finance/aiful",
+      "consumer-finance/smbc-consumer-finance",
       "finance/INDEX",
+      "payment-firms/bnpl-landscape",
+      "regional-banks/sbi-shinsei",
       "structured-finance/INDEX",
       "structured-finance/consumer-loan-abs-japan-card-issuer",
       "structured-finance/credit-rating-methodology-jcr-r-and-i",
@@ -93,18 +93,18 @@
       "structured-finance/spv-tk-gk-vehicle-japan-tax"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/acom",
-      "https://finwiki.zksc.io/JapanFG/aiful",
-      "https://finwiki.zksc.io/JapanFG/aplus",
-      "https://finwiki.zksc.io/JapanFG/bnpl-landscape",
       "https://finwiki.zksc.io/JapanFG/funds",
-      "https://finwiki.zksc.io/JapanFG/jaccs",
       "https://finwiki.zksc.io/JapanFG/lendable",
-      "https://finwiki.zksc.io/JapanFG/orico",
-      "https://finwiki.zksc.io/JapanFG/sbi-shinsei",
-      "https://finwiki.zksc.io/JapanFG/smbc-consumer-finance",
       "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/card-issuers/aplus",
+      "https://finwiki.zksc.io/card-issuers/jaccs",
+      "https://finwiki.zksc.io/card-issuers/orico",
+      "https://finwiki.zksc.io/consumer-finance/acom",
+      "https://finwiki.zksc.io/consumer-finance/aiful",
+      "https://finwiki.zksc.io/consumer-finance/smbc-consumer-finance",
       "https://finwiki.zksc.io/finance/INDEX",
+      "https://finwiki.zksc.io/payment-firms/bnpl-landscape",
+      "https://finwiki.zksc.io/regional-banks/sbi-shinsei",
       "https://finwiki.zksc.io/structured-finance/INDEX",
       "https://finwiki.zksc.io/structured-finance/consumer-loan-abs-japan-card-issuer",
       "https://finwiki.zksc.io/structured-finance/credit-rating-methodology-jcr-r-and-i",
@@ -120,9 +120,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 14913,
-    "word_like_tokens": 2391,
+    "nonspace_chars": 15073,
+    "word_like_tokens": 2415,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-06-02"
+    "last_modified": "2026-06-04"
   }
 }

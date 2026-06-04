@@ -109,7 +109,7 @@ Monex 股份有限公司并非加密资产交换业者（spot 交易），而是
 - [[fintech/japan-financial-regulation]] — 日本金融监管整体
 - [[fintech/japan-stablecoin-regulatory-landscape]] — 相关 stablecoin 制度
 - [[fintech/jp-trust-type-sc-architecture]] — 相关 SC 制度
-- [[JapanFG/monex-group]] — Monex 集团母公司概况
+- [[securities-firms/monex-group]] — Monex 集团母公司概况
 - [[exchanges/jp-vasp-derivative-license-system]] — JP VASP 衍生品牌照制度
 - [[exchanges/jp-vasp-parent-company-map]] — JP VASP 母公司图谱
 

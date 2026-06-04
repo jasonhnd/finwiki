@@ -1,0 +1,93 @@
+{
+  "schema_version": "1.0",
+  "slug": "cooperative-banks/tokyo-shobo-shinkumi",
+  "source_path": "cooperative-banks/tokyo-shobo-shinkumi.md",
+  "url": "https://finwiki.zksc.io/cooperative-banks/tokyo-shobo-shinkumi",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/cooperative-banks/tokyo-shobo-shinkumi.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/cooperative-banks/tokyo-shobo-shinkumi.md",
+  "domain": "cooperative-banks",
+  "title": "東京消防信用組合 (Tokyo Fire Department Credit Cooperative)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "東京消防信用組合 (Tokyo Fire Department Credit Cooperative)",
+    "aliases": [
+      "Tokyo-Shobo-Shinkumi",
+      "東京消防信組",
+      "TFD Credit Cooperative",
+      "Tokyo Fire Department Employees Credit Co-operative"
+    ],
+    "domain": "cooperative-banks",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "shinkumi",
+      "credit-cooperative",
+      "cooperative-banking",
+      "kanto",
+      "tokyo",
+      "occupation-based-shinkumi",
+      "fire-dept-shinkumi",
+      "operating-company"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/menkyo/menkyoj/shinkumi.xlsx",
+      "https://www.shinyokumiai.or.jp/",
+      "https://www.zenshinkumiren.jp/",
+      "https://www.dic.go.jp/",
+      "https://www.shoubou.co.jp/profile/report.html",
+      "https://ja.wikipedia.org/wiki/東京消防信用組合",
+      "中小企業等協同組合法"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index as the 東京消防庁職員 occupation-based shinkumi anchor, completing the Tokyo emergency/civil-service shinkumi trio with 警視庁職員信用組合 (police) and 東京都職員信用組合 (metropolitan civil servant) within the 143-cooperative population catalogued in Japan credit cooperative registry.",
+  "headings": [
+    "東京消防信用組合 (Tokyo Fire Department Credit Cooperative)",
+    "Wiki route",
+    "TL;DR",
+    "1. 法人概要",
+    "組合員資格 ^[extracted]",
+    "東京都内 emergency/civil-servant 職域信組三巨頭 (registry比較)",
+    "全信組連内の位置付け",
+    "主要業務 ^[extracted]",
+    "5. KPI (確定値)",
+    "6. 監督・規制"
+  ],
+  "body_links": {
+    "wikilinks_count": 8,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "banking/cooperative-banking-japan",
+      "banking/credit-cooperative-registry-japan",
+      "cooperative-banks/iwaki-shinkumi",
+      "cooperative-banks/keishicho-shinkumi",
+      "cooperative-banks/tokyo-to-shokuin-shinkumi",
+      "cooperative-banks/zenshin-kumi",
+      "financial-regulators/dic"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/banking/cooperative-banking-japan",
+      "https://finwiki.zksc.io/banking/credit-cooperative-registry-japan",
+      "https://finwiki.zksc.io/cooperative-banks/iwaki-shinkumi",
+      "https://finwiki.zksc.io/cooperative-banks/keishicho-shinkumi",
+      "https://finwiki.zksc.io/cooperative-banks/tokyo-to-shokuin-shinkumi",
+      "https://finwiki.zksc.io/cooperative-banks/zenshin-kumi",
+      "https://finwiki.zksc.io/financial-regulators/dic"
+    ],
+    "external_links_count": 1,
+    "external_links": [
+      "https://www.shoubou.co.jp/profile/report.html"
+    ]
+  },
+  "metrics": {
+    "nonspace_chars": 4854,
+    "word_like_tokens": 729,
+    "inbound_wikilinks_count": 3,
+    "last_modified": "2026-06-04"
+  }
+}

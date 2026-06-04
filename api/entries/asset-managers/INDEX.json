@@ -1,0 +1,102 @@
+{
+  "schema_version": "1.0",
+  "slug": "asset-managers/INDEX",
+  "source_path": "asset-managers/INDEX.md",
+  "url": "https://finwiki.zksc.io/asset-managers/INDEX",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/asset-managers/INDEX.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/asset-managers/INDEX.md",
+  "domain": "asset-managers",
+  "title": "asset-managers — Japanese investment managers / 投資運用業 index",
+  "entry_type": "domain_index",
+  "frontmatter": {
+    "title": "asset-managers — Japanese investment managers / 投資運用業 index",
+    "aliases": [
+      "asset managers index",
+      "投資運用業 index",
+      "Japanese investment managers index",
+      "運用会社 index"
+    ],
+    "domain": "asset-managers",
+    "created": "2026-06-04",
+    "last_updated": "2026-06-04",
+    "last_tended": "2026-06-04",
+    "review_by": "2027-06-04",
+    "confidence": "likely",
+    "tags": [
+      "asset-managers",
+      "JapanFG"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx",
+      "https://www.toushin.or.jp/",
+      "https://www.jiaa.or.jp/"
+    ]
+  },
+  "summary": "asset-managers/ is the top-level domain for Japanese investment-management operating companies — the entity layer of the FIEA 投資運用業 (Investment Management Business) world: the manufacturers of public investment trusts (公募投信), ETFs, and discretionary / institutional mandates. It covers the megabank-",
+  "headings": [
+    "asset-managers — Japanese investment managers / 投資運用業 index",
+    "Scope",
+    "Disambiguation",
+    "Members",
+    "Megabank- / securities-affiliated managers (大手・系列系)",
+    "Trust-bank-affiliated managers",
+    "Insurer-affiliated managers",
+    "Online / low-cost / independent houses",
+    "Trading-house-linked managers",
+    "Foreign-affiliated managers"
+  ],
+  "body_links": {
+    "wikilinks_count": 19,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/INDEX",
+      "asset-managers/asset-management-one",
+      "asset-managers/daiwa-asset-management",
+      "asset-managers/mitsubishi-corp-asset-management",
+      "asset-managers/mufg-asset-management",
+      "asset-managers/nikko-asset-management",
+      "asset-managers/nissay-asset-management",
+      "asset-managers/nomura-asset-management",
+      "asset-managers/principal-japan",
+      "asset-managers/saison-asset-management",
+      "asset-managers/sbi-asset-management",
+      "asset-managers/smd-am",
+      "asset-managers/smt-am",
+      "asset-managers/t-and-d-asset-management",
+      "asset-managers/tokio-marine-asset-management",
+      "financial-regulators/INDEX",
+      "securities-firms/INDEX",
+      "securities/INDEX"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/asset-managers/asset-management-one",
+      "https://finwiki.zksc.io/asset-managers/daiwa-asset-management",
+      "https://finwiki.zksc.io/asset-managers/mitsubishi-corp-asset-management",
+      "https://finwiki.zksc.io/asset-managers/mufg-asset-management",
+      "https://finwiki.zksc.io/asset-managers/nikko-asset-management",
+      "https://finwiki.zksc.io/asset-managers/nissay-asset-management",
+      "https://finwiki.zksc.io/asset-managers/nomura-asset-management",
+      "https://finwiki.zksc.io/asset-managers/principal-japan",
+      "https://finwiki.zksc.io/asset-managers/saison-asset-management",
+      "https://finwiki.zksc.io/asset-managers/sbi-asset-management",
+      "https://finwiki.zksc.io/asset-managers/smd-am",
+      "https://finwiki.zksc.io/asset-managers/smt-am",
+      "https://finwiki.zksc.io/asset-managers/t-and-d-asset-management",
+      "https://finwiki.zksc.io/asset-managers/tokio-marine-asset-management",
+      "https://finwiki.zksc.io/financial-regulators/INDEX",
+      "https://finwiki.zksc.io/securities-firms/INDEX",
+      "https://finwiki.zksc.io/securities/INDEX"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3490,
+    "word_like_tokens": 485,
+    "inbound_wikilinks_count": 3,
+    "last_modified": "2026-06-04"
+  }
+}

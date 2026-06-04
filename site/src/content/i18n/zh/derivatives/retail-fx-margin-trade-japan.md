@@ -12,7 +12,7 @@ translated_at: 2026-05-31T03:19:56.362Z
 
 ## TL;DR
 
-日本的零售外汇保证金交易市场 (FX 証拠金取引) 以成交量计位居世界前列。它的结构形式是一种受监管的零售经纪产品,由依 FIEA 取得牌照的第 1 种金融商品交易业经营者提供,受金融厅 (JFSA) 的严格行为规则约束,并由日本金融期货交易业协会 (FFAJ) 进行自律监督。个人账户的杠杆上限约为 25 倍;法人 (法人) 账户在不同限额下可更高。头部经纪商包括 [[JapanFG/gmo-click-securities|GMO Click Securities]]、[[JapanFG/sbi-fx-trade|SBI FX Trade]]、[[JapanFG/dmm-com-securities|DMM.com Securities]]、[[JapanFG/matsui-sec|Matsui Securities (Matsui FX)]]、OANDA Japan 与 [[JapanFG/saxo-bank-securities|Saxo Bank Securities]]。客户资金须与经纪商账户分别管理 (信託保全)。
+日本的零售外汇保证金交易市场 (FX 証拠金取引) 以成交量计位居世界前列。它的结构形式是一种受监管的零售经纪产品,由依 FIEA 取得牌照的第 1 种金融商品交易业经营者提供,受金融厅 (JFSA) 的严格行为规则约束,并由日本金融期货交易业协会 (FFAJ) 进行自律监督。个人账户的杠杆上限约为 25 倍;法人 (法人) 账户在不同限额下可更高。头部经纪商包括 [[securities-firms/gmo-click-securities|GMO Click Securities]]、[[securities-firms/sbi-fx-trade|SBI FX Trade]]、[[securities-firms/dmm-com-securities|DMM.com Securities]]、[[securities-firms/matsui-sec|Matsui Securities (Matsui FX)]]、OANDA Japan 与 [[securities-firms/saxo-bank-securities|Saxo Bank Securities]]。客户资金须与经纪商账户分别管理 (信託保全)。
 
 本条目位于 [[derivatives/INDEX|derivatives index]],作为零售外汇层面,与 [[derivatives/corporate-fx-hedge-policy-japan-listed|corporate FX hedge policy at Japan listed companies]] 和 [[derivatives/fx-options-japan-corporate-treasury|FX options for Japan corporate treasury]] 所涵盖的批发企业外汇相区别。
 
@@ -78,12 +78,12 @@ This page is the retail-FX brokerage entry in the [[derivatives/INDEX|derivative
 
 | Broker | Parent | Notable |
 |---|---|---|
-| [[JapanFG/gmo-click-securities|GMO Click Securities]] | GMO Internet Group | 交易量市场份额的长期领跑者;自研交易平台。 |
-| [[JapanFG/sbi-fx-trade|SBI FX Trade]] | SBI Holdings | 激进的点差定价;完整的 SBI 集团交叉销售。 |
-| [[JapanFG/dmm-com-securities|DMM.com Securities (DMM FX)]] | DMM.com Group | 大力度的零售营销;庞大的账户基础。 |
-| [[JapanFG/matsui-sec|Matsui Securities (Matsui FX)]] | Matsui Securities | 在线证券先驱;外汇是其多条产品线之一。 |
+| [[securities-firms/gmo-click-securities|GMO Click Securities]] | GMO Internet Group | 交易量市场份额的长期领跑者;自研交易平台。 |
+| [[securities-firms/sbi-fx-trade|SBI FX Trade]] | SBI Holdings | 激进的点差定价;完整的 SBI 集团交叉销售。 |
+| [[securities-firms/dmm-com-securities|DMM.com Securities (DMM FX)]] | DMM.com Group | 大力度的零售营销;庞大的账户基础。 |
+| [[securities-firms/matsui-sec|Matsui Securities (Matsui FX)]] | Matsui Securities | 在线证券先驱;外汇是其多条产品线之一。 |
 | OANDA Japan | OANDA Corp (外资关联) | 全球品牌;点差窄;强调 STP 路由。 |
-| [[JapanFG/saxo-bank-securities|Saxo Bank Securities]] | Saxo Bank (外资关联) | 多资产平台;面向零售的机构级工具。 |
+| [[securities-firms/saxo-bank-securities|Saxo Bank Securities]] | Saxo Bank (外资关联) | 多资产平台;面向零售的机构级工具。 |
 
 其他重要参与者包括 Hirose-tusyo (LION FX)、Gaitame.com、Money Partners、External Securities、Rakuten Securities 与 Monex。市场在顶部趋于集中,但中型经纪商的长尾仍然可观。
 
@@ -208,11 +208,11 @@ This page is the retail-FX brokerage entry in the [[derivatives/INDEX|derivative
 - [[derivatives/japan-interest-rate-derivatives-overview]]
 - [[money-market/japan-money-market]]
 - [[money-market/INDEX]]
-- [[JapanFG/gmo-click-securities]]
-- [[JapanFG/sbi-fx-trade]]
-- [[JapanFG/dmm-com-securities]]
-- [[JapanFG/matsui-sec]]
-- [[JapanFG/saxo-bank-securities]]
+- [[securities-firms/gmo-click-securities]]
+- [[securities-firms/sbi-fx-trade]]
+- [[securities-firms/dmm-com-securities]]
+- [[securities-firms/matsui-sec]]
+- [[securities-firms/saxo-bank-securities]]
 
 ## Sources
 

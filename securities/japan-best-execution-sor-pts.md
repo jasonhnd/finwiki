@@ -30,16 +30,16 @@ sources:
 
 Best execution in Japan is the control layer behind retail stock-fee competition. A broker's "zero commission" message does not by itself explain whether a customer order is routed to Tokyo Stock Exchange, a proprietary trading system (PTS), or another execution path, nor whether price, cost, speed, likelihood of execution, settlement certainty, and customer instructions are being balanced well.
 
-Use this page with [[securities/japan-online-brokerage-competition|Japan online brokerage competition]], [[securities/japan-market-infrastructure-map|Japan market infrastructure map]], [[JapanFG/legal-financial-licenses/securities-license-stack|Japan securities license stack]], [[securities/japannext-securities|Japannext]], [[securities/osaka-digital-exchange|ODX]], and broker pages such as [[JapanFG/sbi-securities|SBI Securities]] and [[JapanFG/rakuten-securities|Rakuten Securities]].
+Use this page with [[securities/japan-online-brokerage-competition|Japan online brokerage competition]], [[securities/japan-market-infrastructure-map|Japan market infrastructure map]], [[financial-licenses/securities-license-stack|Japan securities license stack]], [[securities/japannext-securities|Japannext]], [[securities/osaka-digital-exchange|ODX]], and broker pages such as [[securities-firms/sbi-securities|SBI Securities]] and [[securities-firms/rakuten-securities|Rakuten Securities]].
 
-This is the execution-quality route inside [[securities/INDEX|securities domain]]. For firm registration and category checks, start from [[securities/financial-instruments-business-operators-japan-index|FIEA operator registry index]] and [[JapanFG/legal-financial-licenses/INDEX|JapanFG legal / financial licenses]] before reading broker policy pages.
+This is the execution-quality route inside [[securities/INDEX|securities domain]]. For firm registration and category checks, start from [[securities/financial-instruments-business-operators-japan-index|FIEA operator registry index]] and [[financial-licenses/INDEX|JapanFG legal / financial licenses]] before reading broker policy pages.
 
 ## Source Stack
 
 | Layer | Source route | What it explains |
 |---|---|---|
 | Regulation / supervision | FSA financial instruments business operator supervisory guideline and customer-oriented business-conduct page | Market-intermediary functions, customer best interest, system risk, order handling, and conduct supervision. |
-| Self-regulation / statistics | [[JapanFG/jsda|JSDA]] rules and PTS trading statistics | Dealer self-regulatory route and public PTS trading information. |
+| Self-regulation / statistics | [[financial-regulators/jsda|JSDA]] rules and PTS trading statistics | Dealer self-regulatory route and public PTS trading information. |
 | Venue / execution | [[securities/tokyo-stock-exchange|TSE]], [[securities/japannext-securities|Japannext]], [[securities/osaka-digital-exchange|ODX]] | Where orders can be executed. |
 | Clearing / settlement | [[securities/japan-securities-clearing-corp|JSCC]], [[securities/japan-securities-depository-center|JASDEC]] | Why execution is not complete until post-trade risk and settlement are controlled. |
 | Broker disclosure | Broker best-execution policy and execution policy pages | How a specific broker routes customer orders and what factors it says it considers. |
@@ -89,10 +89,10 @@ JSDA publishes information on trading of listed securities on PTS venues and not
 
 ## JapanFG Relevance
 
-- [[JapanFG/sbi-securities|SBI Securities]] and [[JapanFG/rakuten-securities|Rakuten Securities]] are the first broker pages to read because domestic-stock fee changes and SOR / PTS routing affect the customer value proposition.
-- [[JapanFG/mufg-esmart-securities|MUFG eSmart Securities]] and other bank / telecom linked brokers be read against group distribution economics, not only trading cost.
-- [[JapanFG/paypay-securities|PayPay Securities]] is app-embedded, so execution disclosure must be read with UX simplicity and investor-protection controls.
-- [[JapanFG/gmo-click-securities|GMO Click Securities]], [[JapanFG/dmm-com-securities|DMM.com Securities]], and FX / CFD brokers need separate product-route checks because best execution for listed cash equities is not the same as derivatives execution.
+- [[securities-firms/sbi-securities|SBI Securities]] and [[securities-firms/rakuten-securities|Rakuten Securities]] are the first broker pages to read because domestic-stock fee changes and SOR / PTS routing affect the customer value proposition.
+- [[securities-firms/mufg-esmart-securities|MUFG eSmart Securities]] and other bank / telecom linked brokers be read against group distribution economics, not only trading cost.
+- [[securities-firms/paypay-securities|PayPay Securities]] is app-embedded, so execution disclosure must be read with UX simplicity and investor-protection controls.
+- [[securities-firms/gmo-click-securities|GMO Click Securities]], [[securities-firms/dmm-com-securities|DMM.com Securities]], and FX / CFD brokers need separate product-route checks because best execution for listed cash equities is not the same as derivatives execution.
 
 ## Risks and Caveats
 
@@ -112,22 +112,22 @@ JSDA publishes information on trading of listed securities on PTS venues and not
 3. Check JSDA PTS statistics for the relevant period if volume matters.
 4. Check whether customer instructions or product category change the routing.
 5. Separate explicit fee, implicit spread, price improvement, points, and group economics.
-6. Link execution-route conclusions back to [[securities/japan-market-infrastructure-map|market infrastructure]] and [[JapanFG/legal-financial-licenses/securities-license-stack|license stack]].
+6. Link execution-route conclusions back to [[securities/japan-market-infrastructure-map|market infrastructure]] and [[financial-licenses/securities-license-stack|license stack]].
 
 ## Related
 
 - [[securities/INDEX]]
 - [[securities/japan-online-brokerage-competition]]
 - [[securities/japan-market-infrastructure-map]]
-- [[JapanFG/legal-financial-licenses/securities-license-stack]]
+- [[financial-licenses/securities-license-stack]]
 - [[securities/japannext-securities]]
 - [[securities/osaka-digital-exchange]]
 - [[securities/tokyo-stock-exchange]]
 - [[securities/japan-securities-clearing-corp]]
 - [[securities/japan-securities-depository-center]]
-- [[JapanFG/sbi-securities]]
-- [[JapanFG/rakuten-securities]]
-- [[JapanFG/jsda]]
+- [[securities-firms/sbi-securities]]
+- [[securities-firms/rakuten-securities]]
+- [[financial-regulators/jsda]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

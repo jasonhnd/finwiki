@@ -37,10 +37,10 @@ Japan's "big five" common points — **V Point, Rakuten Point, d Point, PayPay P
 
 | System | Anchor asset | Primary sponsor / operator | Finance destination | Comparison page |
 |---|---|---|---|---|
-| **V Point** | Bank + credit card | SMBC / CCCMK (SMFG-CCC JV) | [[JapanFG/smfg|SMFG]] / Olive | [[loyalty/v-point-smbc-ccc-case|V Point case]] |
-| **Rakuten Point** | EC habit (楽天市場) | Rakuten Group | [[JapanFG/rakuten-fg|Rakuten FG]] | [[loyalty/rakuten-point-ecosystem-deep|Rakuten Point deep]] |
-| **d Point** | Mobile line (docomo) | NTT docomo | [[JapanFG/ndfg|NDFG]] | [[loyalty/d-point-detailed-ecosystem|d Point ecosystem]] |
-| **PayPay Point** | Code-payment wallet | PayPay / SoftBank / LY | [[JapanFG/paypay-fg|PayPay FG]] | [[loyalty/sb-yahoo-paypay-points-unified-ecosystem|PayPay unified points]] |
+| **V Point** | Bank + credit card | SMBC / CCCMK (SMFG-CCC JV) | [[megabanks/smfg|SMFG]] / Olive | [[loyalty/v-point-smbc-ccc-case|V Point case]] |
+| **Rakuten Point** | EC habit (楽天市場) | Rakuten Group | [[payment-firms/rakuten-fg|Rakuten FG]] | [[loyalty/rakuten-point-ecosystem-deep|Rakuten Point deep]] |
+| **d Point** | Mobile line (docomo) | NTT docomo | [[megabanks/ndfg|NDFG]] | [[loyalty/d-point-detailed-ecosystem|d Point ecosystem]] |
+| **PayPay Point** | Code-payment wallet | PayPay / SoftBank / LY | [[megabanks/paypay-fg|PayPay FG]] | [[loyalty/sb-yahoo-paypay-points-unified-ecosystem|PayPay unified points]] |
 | **Ponta** | Coalition (Lawson / KDDI / Recruit) | Loyalty Marketing Inc. | au PAY / KDDI route | [[loyalty/ponta-points-deep-dive|Ponta deep dive]] |
 
 The bank-led vs telco-led contrast (V Point vs d-point/au) is developed further in [[loyalty/d-point-au-kddi-docomo-telco-point-consolidation|the telco-point consolidation case]].
@@ -64,7 +64,7 @@ Two patterns stand out. **Wallet-anchored** systems (PayPay, and Rakuten's SPU l
 The anchor is not branding — it sets three things at once:
 
 1. **Funding leverage.** A bank/card anchor (V Point) can fund rewards out of interchange and lending margin; a wallet anchor (PayPay) must spend marketing budget up front and recover later. Same headline rate, opposite cash-flow shape.
-2. **Cross-sell gradient.** The point is a funnel into whatever the anchor sells next: V Point → deposits / Olive; Rakuten → securities / bank / mobile; d-point → docomo finance / [[JapanFG/ndfg|NDFG]]; PayPay → [[JapanFG/paypay-fg|PayPay FG]]; Ponta → au PAY. The steeper that gradient, the more an "unprofitable" point makes sense.
+2. **Cross-sell gradient.** The point is a funnel into whatever the anchor sells next: V Point → deposits / Olive; Rakuten → securities / bank / mobile; d-point → docomo finance / [[megabanks/ndfg|NDFG]]; PayPay → [[megabanks/paypay-fg|PayPay FG]]; Ponta → au PAY. The steeper that gradient, the more an "unprofitable" point makes sense.
 3. **Data shape.** A mobile-line anchor sees identity + location + billing; an EC anchor sees SKU-level basket; a wallet anchor sees payment frequency; a coalition sees breadth but shares it. This is the ID-graph dimension in [[loyalty/retail-media-points-data-loop|the data-loop page]].
 
 So the same 1% reward is, across these five, a bank cross-sell tool, an EC retention engine, a telco bundle lever, a payment-frequency subsidy, and a coalition acceptance scheme — with five different balance-sheet and data footprints.
@@ -82,7 +82,7 @@ The disclosure norms that keep breakage honest across all of them come from the 
 ## Why this matters for JapanFG / financial analysis
 
 - **Compare anchors, not reward rates.** A like-for-like "1% back" comparison is noise; the real differences are funding leverage, cross-sell gradient, and data shape — all set by the anchor.
-- **The anchor names the financial group that benefits.** V Point → [[JapanFG/smfg|SMFG]]; Rakuten → [[JapanFG/rakuten-fg|Rakuten FG]]; d-point → [[JapanFG/ndfg|NDFG]]; PayPay → [[JapanFG/paypay-fg|PayPay FG]]. Reading a point program tells you which group is lowering its customer-acquisition cost.
+- **The anchor names the financial group that benefits.** V Point → [[megabanks/smfg|SMFG]]; Rakuten → [[payment-firms/rakuten-fg|Rakuten FG]]; d-point → [[megabanks/ndfg|NDFG]]; PayPay → [[megabanks/paypay-fg|PayPay FG]]. Reading a point program tells you which group is lowering its customer-acquisition cost.
 - **"Loss-making" is anchor-dependent.** Wallet- and EC-anchored campaigns look worst on P&L but may be buying the best graph and the steepest finance funnel; coalition points look cheaper per sponsor but disperse the asset.
 
 ## Related
@@ -101,10 +101,10 @@ The disclosure norms that keep breakage honest across all of them come from the 
 - [[loyalty/d-point-au-kddi-docomo-telco-point-consolidation|d Point / au (KDDI) / docomo telco-point consolidation case]]
 - [[payments/cashless-jp-landscape|Japan cashless payment landscape]]
 - [[payments/INDEX|payments INDEX]]
-- [[JapanFG/rakuten-fg|Rakuten FG]]
-- [[JapanFG/smfg|SMFG]]
-- [[JapanFG/ndfg|NDFG]]
-- [[JapanFG/paypay-fg|PayPay FG]]
+- [[payment-firms/rakuten-fg|Rakuten FG]]
+- [[megabanks/smfg|SMFG]]
+- [[megabanks/ndfg|NDFG]]
+- [[megabanks/paypay-fg|PayPay FG]]
 - [[JapanFG/INDEX|JapanFG INDEX]]
 - [[INDEX|FinWiki index]]
 

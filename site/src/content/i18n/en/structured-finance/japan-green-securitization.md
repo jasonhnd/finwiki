@@ -63,7 +63,7 @@ The JHF green MBS series has become a benchmark for Japanese institutional ESG f
 
 ### Megabank green RMBS
 
-Megabanks ([[JapanFG/mufg|MUFG]], [[JapanFG/smfg|SMFG]], [[JapanFG/mizuho-fg|Mizuho FG]]) and trust banks have issued **private green RMBS** on portfolios of certified-green residential mortgages — Top Runner / ZEH / energy-efficient housing loans originated through the megabank channel. Structure follows [[structured-finance/japan-rmbs-issuance-structure|standard private RMBS]] with the additional green-label verification layer.
+Megabanks ([[megabanks/mufg|MUFG]], [[megabanks/smfg|SMFG]], [[megabanks/mizuho-fg|Mizuho FG]]) and trust banks have issued **private green RMBS** on portfolios of certified-green residential mortgages — Top Runner / ZEH / energy-efficient housing loans originated through the megabank channel. Structure follows [[structured-finance/japan-rmbs-issuance-structure|standard private RMBS]] with the additional green-label verification layer.
 
 ## 4. Green ABS — renewable and EV-charging receivables
 
@@ -138,7 +138,7 @@ CBI certification is more stringent than ICMA Green Bond Principles alignment an
 - [[structured-finance/tmk-special-purpose-company-mechanics|TMK special-purpose company mechanics]]
 - [[policy-finance/japan-housing-finance-agency|JHF]]
 - [[policy-finance/INDEX|policy-finance index]]
-- [[JapanFG/mufg|MUFG]] · [[JapanFG/smfg|SMFG]] · [[JapanFG/mizuho-fg|Mizuho FG]]
+- [[megabanks/mufg|MUFG]] · [[megabanks/smfg|SMFG]] · [[megabanks/mizuho-fg|Mizuho FG]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

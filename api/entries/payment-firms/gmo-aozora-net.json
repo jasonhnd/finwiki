@@ -1,0 +1,90 @@
+{
+  "schema_version": "1.0",
+  "slug": "payment-firms/gmo-aozora-net",
+  "source_path": "payment-firms/gmo-aozora-net.md",
+  "url": "https://finwiki.zksc.io/payment-firms/gmo-aozora-net",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/payment-firms/gmo-aozora-net.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/payment-firms/gmo-aozora-net.md",
+  "domain": "payment-firms",
+  "title": "GMO あおぞらネット銀行",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "GMO あおぞらネット銀行",
+    "aliases": [
+      "GMO Aozora Net Bank",
+      "GMO あおぞらネット銀行",
+      "GMO Aozora",
+      "あおぞら信託銀行（旧称）"
+    ],
+    "domain": "payment-firms",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "net-bank",
+      "baas",
+      "fintech"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: GMOあおぞらネット銀行 (2026-05-19 抽出)",
+      "GMO あおぞらネット銀行 公式サイト (2026-05-19 参照)",
+      "GMO インターネットグループ IR (2026-05-19 参照)",
+      "GMO あおぞらネット銀行 会社概要 (https://gmo-aozora.com/company/outline.html)",
+      "GMO インターネットグループ: GMOあおぞらネット銀行 種類株式取得に関するお知らせ 2023-06-19 (https://group.gmo/news/article/8450/)"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 住信 SBI ネット銀行 (SBI Sumishin Net Bank) → ドコモ SMTB ネット銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "GMO あおぞらネット銀行",
+    "Wiki route",
+    "TL;DR",
+    "1. 会社概要",
+    "主要株主（2026-02-20 時点・公式会社概要）",
+    "グループ内ポジション",
+    "沿革 ^[extracted]",
+    "2. 事業セグメント・マップ",
+    "法人 BaaS 軸の差別化",
+    "親 GMO とのシナジー"
+  ],
+  "body_links": {
+    "wikilinks_count": 11,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "aozora-bank",
+      "banking/INDEX",
+      "banking/au-jibun-bank",
+      "banking/baas-japan-landscape",
+      "banking/mercari-bank",
+      "banking/minna-bank-baas-model",
+      "banking/paypay-bank",
+      "banking/rakuten-bank",
+      "gmo-coin",
+      "regional-banks/ssnb"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/aozora-bank",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/banking/au-jibun-bank",
+      "https://finwiki.zksc.io/banking/baas-japan-landscape",
+      "https://finwiki.zksc.io/banking/mercari-bank",
+      "https://finwiki.zksc.io/banking/minna-bank-baas-model",
+      "https://finwiki.zksc.io/banking/paypay-bank",
+      "https://finwiki.zksc.io/banking/rakuten-bank",
+      "https://finwiki.zksc.io/gmo-coin",
+      "https://finwiki.zksc.io/regional-banks/ssnb"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 5240,
+    "word_like_tokens": 923,
+    "inbound_wikilinks_count": 15,
+    "last_modified": "2026-06-04"
+  }
+}

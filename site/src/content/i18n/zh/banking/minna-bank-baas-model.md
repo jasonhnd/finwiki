@@ -56,9 +56,9 @@ This entry sits under [[banking/INDEX|banking index]]. Read it against [[banking
 - [[banking/mercari-bank-license-stack]]
 - [[banking/baas-japan-landscape]]
 - [[banking/quick-deposit-four-methods]]
-- [[JapanFG/fukuoka-fg]]
-- [[JapanFG/ssnb]]
-- [[JapanFG/gmo-aozora-net]]
+- [[regional-banks/fukuoka-fg]]
+- [[regional-banks/ssnb]]
+- [[payment-firms/gmo-aozora-net]]
 
 ## Sources
 

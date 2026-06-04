@@ -1,0 +1,82 @@
+{
+  "schema_version": "1.0",
+  "slug": "non-life-insurers/rakuten-general-insurance",
+  "source_path": "non-life-insurers/rakuten-general-insurance.md",
+  "url": "https://finwiki.zksc.io/non-life-insurers/rakuten-general-insurance",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/non-life-insurers/rakuten-general-insurance.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/non-life-insurers/rakuten-general-insurance.md",
+  "domain": "non-life-insurers",
+  "title": "楽天損害保険",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "楽天損害保険",
+    "aliases": [
+      "楽天損保",
+      "Rakuten General Insurance",
+      "Rakuten Insurance non-life",
+      "楽天損害保険株式会社"
+    ],
+    "domain": "non-life-insurers",
+    "created": "2026-05-21",
+    "last_updated": "2026-05-21",
+    "last_tended": "2026-05-21",
+    "review_by": "2026-11-21",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "insurance",
+      "non-life-insurance",
+      "rakuten",
+      "ecosystem-finance",
+      "operating-company"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/menkyo/menkyoj/songai.pdf",
+      "https://www.sonpohogo.or.jp/outline/member-companies.html",
+      "https://www.rakuten-sonpo.co.jp/Default.aspx?TabId=404"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 楽天生命保険 for peer / contrast context and insurance index for the broader system / regulatory boundary.",
+  "headings": [
+    "楽天損害保険",
+    "Wiki route",
+    "TL;DR",
+    "1. License / group boundary",
+    "2. Operating model",
+    "3. Why this page matters",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 8,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "insurance/INDEX",
+      "life-insurers/rakuten-life",
+      "rakuten-card",
+      "rakuten-edy",
+      "rakuten-fg",
+      "rakuten-insurance-hd",
+      "rakuten-life"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/insurance/INDEX",
+      "https://finwiki.zksc.io/life-insurers/rakuten-life",
+      "https://finwiki.zksc.io/rakuten-card",
+      "https://finwiki.zksc.io/rakuten-edy",
+      "https://finwiki.zksc.io/rakuten-fg",
+      "https://finwiki.zksc.io/rakuten-insurance-hd",
+      "https://finwiki.zksc.io/rakuten-life"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2047,
+    "word_like_tokens": 314,
+    "inbound_wikilinks_count": 5,
+    "last_modified": "2026-06-04"
+  }
+}

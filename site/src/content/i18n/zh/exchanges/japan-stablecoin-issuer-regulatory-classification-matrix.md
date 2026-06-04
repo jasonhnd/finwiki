@@ -16,7 +16,7 @@ translated_at: 2026-05-31T03:19:56.381Z
 
 ## Wiki route
 
-This entry sits under [[exchanges/INDEX|exchanges index]]. It is the **发行体轴 (issuer-axis)** counterpart to [[fintech/INDEX|fintech index]] policy entries [[fintech/japan-epi-three-types-overview|日本 EPI 三型架构概览]] / [[fintech/japan-epi-four-camps-comparison|日本 SC 四阵营对比]] / [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造]] / [[fintech/jp-trust-type-sc-architecture|日本信託型 SC 架构]] / [[fintech/stablecoin-channel-japan-sbi-jpyc-ring|SBI × JPYC × Circle 環形持株]]. Read alongside [[fintech/japan-ecisb-license|日本 ECISB 牌照]] for the 仲介业者 boundary and [[payments/funds-transfer-vs-prepaid-boundary|funds-transfer vs prepaid boundary]] for the legacy 预付式支付手段 边界. Operator anchors live in [[JapanFG/jpyc|JapanFG jpyc]] / [[JapanFG/progmat|JapanFG progmat]] and [[JapanFG/legal-financial-licenses/payment-license-stack|payment license stack]].
+This entry sits under [[exchanges/INDEX|exchanges index]]. It is the **发行体轴 (issuer-axis)** counterpart to [[fintech/INDEX|fintech index]] policy entries [[fintech/japan-epi-three-types-overview|日本 EPI 三型架构概览]] / [[fintech/japan-epi-four-camps-comparison|日本 SC 四阵营对比]] / [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造]] / [[fintech/jp-trust-type-sc-architecture|日本信託型 SC 架构]] / [[fintech/stablecoin-channel-japan-sbi-jpyc-ring|SBI × JPYC × Circle 環形持株]]. Read alongside [[fintech/japan-ecisb-license|日本 ECISB 牌照]] for the 仲介业者 boundary and [[payments/funds-transfer-vs-prepaid-boundary|funds-transfer vs prepaid boundary]] for the legacy 预付式支付手段 边界. Operator anchors live in [[payment-firms/jpyc|JapanFG jpyc]] / [[payment-firms/progmat|JapanFG progmat]] and [[financial-licenses/payment-license-stack|payment license stack]].
 
 ## Why this matrix matters
 
@@ -268,12 +268,12 @@ Suica / nanaco / WAON / PASMO 等预付式支付手段，以 **transferability �
 - [[fintech/jp-trust-type-sc-architecture|日本信託型 SC 架構]]
 - [[fintech/stablecoin-channel-japan-sbi-jpyc-ring|SBI × JPYC × Circle 環形持株]]
 - [[exchanges/jp-cex-deposit-token-stablecoin-integration|JP CEX deposit token / stablecoin 統合]]
-- [[JapanFG/jpyc|JapanFG jpyc]]
-- [[JapanFG/progmat|JapanFG progmat]]
+- [[payment-firms/jpyc|JapanFG jpyc]]
+- [[payment-firms/progmat|JapanFG progmat]]
 - [[exchanges/jp-exchange-jpyc|JPYC 株式会社]]
 - [[exchanges/jp-exchange-sbi-vc-trade|SBI VC Trade]]
 - [[payments/funds-transfer-vs-prepaid-boundary|funds-transfer vs prepaid boundary]]
-- [[JapanFG/legal-financial-licenses/payment-license-stack|payment license stack]]
+- [[financial-licenses/payment-license-stack|payment license stack]]
 - [[fintech/global-stablecoin-regulatory-five-pole-matrix|グローバル stablecoin 5 極比較]]
 - [[exchanges/global-vasp-regulatory-comparison-matrix|グローバル VASP 規制 8 極比較]]
 - [[exchanges/japan-vasp-business-model-competitive-matrix|日本 VASP ビジネスモデル比較マトリクス]]

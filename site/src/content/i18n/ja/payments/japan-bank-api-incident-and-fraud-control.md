@@ -13,7 +13,7 @@ translated_at: 2026-06-02T16:33:58.483Z
 
 日本における銀行 API リスクは、サイバーセキュリティだけの問題ではありません。銀行認証、顧客同意、電子決済等代行業登録、API 契約、不正引出し対応、不審取引モニタリング、補償 / 苦情処理、下流の照合にまたがる管理チェーンです。
 
-このページは [[payments/japan-bank-api-payment-agency-route|Japan bank API route]]、[[payments/account-to-account-payment-japan|Japan account-to-account payment route]]、[[payments/merchant-bank-pay-account-direct-acquiring|merchant account-direct acquiring]]、[[payments/psp-merchant-settlement-risk|PSP settlement risk]]、[[banking/quick-deposit-four-methods|quick deposit methods]]、[[JapanFG/legal-financial-licenses/INDEX|JapanFG legal / financial licenses]] とあわせて使います。
+このページは [[payments/japan-bank-api-payment-agency-route|Japan bank API route]]、[[payments/account-to-account-payment-japan|Japan account-to-account payment route]]、[[payments/merchant-bank-pay-account-direct-acquiring|merchant account-direct acquiring]]、[[payments/psp-merchant-settlement-risk|PSP settlement risk]]、[[banking/quick-deposit-four-methods|quick deposit methods]]、[[financial-licenses/INDEX|JapanFG legal / financial licenses]] とあわせて使います。
 
 ## インシデント面
 
@@ -54,10 +54,10 @@ translated_at: 2026-06-02T16:33:58.483Z
 
 ## JapanFG での関連性
 
-- [[JapanFG/mufg-bank|MUFG Bank]]、[[JapanFG/sumitomo-mitsui-banking-corp|SMBC]]、[[JapanFG/mizuho-bank|Mizuho Bank]]、[[JapanFG/resona-bank|Resona Bank]]、大手地方銀行は、API / 認証 / 苦情処理ルートの銀行口座側を運営するため重要です。
-- [[JapanFG/money-forward|Money Forward]]、[[JapanFG/freee|freee]] は会計 / 口座集約の比較アンカーとして有用です。
-- [[JapanFG/merpay|Merpay]]、[[JapanFG/paypay|PayPay]]、[[JapanFG/rakuten-card|Rakuten Card]]、[[JapanFG/au-payment|au PAY]] は、銀行 API、ウォレット、前払、資金移動、加盟店レールに分けて分析する必要があります。
-- [[JapanFG/sb-payment-service|SB Payment Service]]、[[JapanFG/gmo-payment-gateway|GMO Payment Gateway]]、[[JapanFG/netstars|Netstars]] は、API 障害が加盟店チェックアウト、精算、照合へ流れ込む場合に重要です。
+- [[megabanks/mufg-bank|MUFG Bank]]、[[megabanks/sumitomo-mitsui-banking-corp|SMBC]]、[[megabanks/mizuho-bank|Mizuho Bank]]、[[megabanks/resona-bank|Resona Bank]]、大手地方銀行は、API / 認証 / 苦情処理ルートの銀行口座側を運営するため重要です。
+- [[payment-firms/money-forward|Money Forward]]、[[payment-firms/freee|freee]] は会計 / 口座集約の比較アンカーとして有用です。
+- [[payment-firms/merpay|Merpay]]、[[payment-firms/paypay|PayPay]]、[[card-issuers/rakuten-card|Rakuten Card]]、[[payment-firms/au-payment|au PAY]] は、銀行 API、ウォレット、前払、資金移動、加盟店レールに分けて分析する必要があります。
+- [[payment-firms/sb-payment-service|SB Payment Service]]、[[payment-firms/gmo-payment-gateway|GMO Payment Gateway]]、[[payment-firms/netstars|Netstars]] は、API 障害が加盟店チェックアウト、精算、照合へ流れ込む場合に重要です。
 
 ## 調査チェックリスト
 
@@ -79,7 +79,7 @@ translated_at: 2026-06-02T16:33:58.483Z
 - [[payments/funds-transfer-vs-prepaid-boundary]]
 - [[banking/quick-deposit-four-methods]]
 - [[banking/baas-japan-landscape]]
-- [[JapanFG/legal-financial-licenses/INDEX]]
+- [[financial-licenses/INDEX]]
 - [[INDEX|FinWiki index]]
 
 ## 出典

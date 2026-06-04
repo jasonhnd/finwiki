@@ -1,0 +1,88 @@
+{
+  "schema_version": "1.0",
+  "slug": "consumer-finance/aiful",
+  "source_path": "consumer-finance/aiful.md",
+  "url": "https://finwiki.zksc.io/consumer-finance/aiful",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/consumer-finance/aiful.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/consumer-finance/aiful.md",
+  "domain": "consumer-finance",
+  "title": "アイフル株式会社 (Aiful)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "アイフル株式会社 (Aiful)",
+    "aliases": [
+      "Aiful",
+      "アイフル",
+      "AIFUL",
+      "アイフル株式会社",
+      "Aiful Corporation"
+    ],
+    "domain": "consumer-finance",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "consumer-finance",
+      "independent"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: アイフル株式会社 (公開情報, 2026-05-19 参照)",
+      "Aiful 公式 IR 開示資料 (公開分・東証 PRIME 8515)",
+      "金融庁 業務改善命令公表資料 (2008-04, 公開分)"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 株式会社ジャックス (Jaccs) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "アイフル株式会社 (Aiful)",
+    "Wiki route",
+    "TL;DR",
+    "1. 会社概要",
+    "業態カテゴリ",
+    "主要グループ会社",
+    "創業家・独立性",
+    "2. 事業セグメント・マップ",
+    "与信・テクノロジー",
+    "ライフカード（2017 完全子会社化）"
+  ],
+  "body_links": {
+    "wikilinks_count": 11,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "banking/INDEX",
+      "card-issuers/jaccs",
+      "consumer-finance/smbc-consumer-finance",
+      "credit-saison",
+      "jaccs",
+      "mufg",
+      "orico",
+      "paypay-fg",
+      "rakuten-fg",
+      "smfg"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/card-issuers/jaccs",
+      "https://finwiki.zksc.io/consumer-finance/smbc-consumer-finance",
+      "https://finwiki.zksc.io/credit-saison",
+      "https://finwiki.zksc.io/jaccs",
+      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/orico",
+      "https://finwiki.zksc.io/paypay-fg",
+      "https://finwiki.zksc.io/rakuten-fg",
+      "https://finwiki.zksc.io/smfg"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 4898,
+    "word_like_tokens": 733,
+    "inbound_wikilinks_count": 12,
+    "last_modified": "2026-06-04"
+  }
+}

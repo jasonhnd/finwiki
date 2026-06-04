@@ -51,34 +51,34 @@
   "body_links": {
     "wikilinks_count": 9,
     "wikilinks": [
-      "JapanFG/fukuoka-fg",
-      "JapanFG/gmo-aozora-net",
-      "JapanFG/ssnb",
       "banking/INDEX",
       "banking/baas-japan-landscape",
       "banking/cooperative-banking-japan",
       "banking/mercari-bank",
       "banking/mercari-bank-license-stack",
-      "banking/quick-deposit-four-methods"
+      "banking/quick-deposit-four-methods",
+      "payment-firms/gmo-aozora-net",
+      "regional-banks/fukuoka-fg",
+      "regional-banks/ssnb"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/fukuoka-fg",
-      "https://finwiki.zksc.io/JapanFG/gmo-aozora-net",
-      "https://finwiki.zksc.io/JapanFG/ssnb",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/baas-japan-landscape",
       "https://finwiki.zksc.io/banking/cooperative-banking-japan",
       "https://finwiki.zksc.io/banking/mercari-bank",
       "https://finwiki.zksc.io/banking/mercari-bank-license-stack",
-      "https://finwiki.zksc.io/banking/quick-deposit-four-methods"
+      "https://finwiki.zksc.io/banking/quick-deposit-four-methods",
+      "https://finwiki.zksc.io/payment-firms/gmo-aozora-net",
+      "https://finwiki.zksc.io/regional-banks/fukuoka-fg",
+      "https://finwiki.zksc.io/regional-banks/ssnb"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2918,
-    "word_like_tokens": 438,
-    "inbound_wikilinks_count": 45,
-    "last_modified": "2026-05-29"
+    "nonspace_chars": 2938,
+    "word_like_tokens": 441,
+    "inbound_wikilinks_count": 46,
+    "last_modified": "2026-06-04"
   }
 }

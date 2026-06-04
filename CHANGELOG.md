@@ -31,6 +31,19 @@
 
 ## 2026-06-04
 
+### JapanFG 分割 — 巨大ドメインを 17 機関類型別ドメインへ物理分割（23→40 領域）/ JapanFG split into 17 institution-type domains (23→40) / JapanFG 拆分为 17 个机构类型域（23→40）
+#### 日本語記録 / English / 中文
+- **JST 時刻**: 2026-06-04 16:54 JST。
+- **背景**: ユーザー判断で、平坦で「太笼统」な `JapanFG/`（約 620 entity）を機関類型別に物理分割。[ADR-004](japanfg-split-design 参照) の「移動コスト極大ゆえ sub-INDEX で代用」方針の知情推翻。事前に `docs/japanfg-split-design.md`（設計）で方式・分類・機制を確定（物理分割 / 角色復数名 / 17 ドメイン / 単一原子 migration）。
+- **範囲**: 628 entity/license ファイル移動（root）+ 1,887 i18n ミラー（ja/zh/en）+ 6 sub-INDEX→ドメイン INDEX + 4 registry。約 53,600 件の `[[JapanFG/…]]` wikilink 書換（root + i18n）。site 設定 3（`content.config.ts` / `siteIndex.mjs` の `ENTRY_DOMAIN_DIRS` + `i18n/groups.ts`）、root `INDEX.md` ドメイン表、`JapanFG/INDEX` umbrella 化、discovery 全再生成、三語 README/CHANGELOG/`releases/v2026.06.04-4.md`、docs（ADR-008・domains・design 状態）。
+- **主要変更**: 17 新ドメイン（megabanks / regional-banks / cooperative-banks / trust-banks / life-insurers / non-life-insurers / securities-firms / asset-managers / payment-firms / card-issuers / leasing-firms / consumer-finance / trading-company-finance / financial-conglomerates / foreign-financial-institutions / financial-regulators / financial-licenses）。**領域数 23→40**。映射は 9 sub-INDEX membership + frontmatter tag（617 自動 / 11 手動裁定）。データが示した未収まり群のため consumer-finance / trading-company-finance / financial-conglomerates を追加（ADR-008）。
+- **実行手順**: 設計文書 → branch `japanfg-split` → mapping 生成（`/tmp/jfg_map.ts`、617 自動 + 11 裁定）→ 単一原子 migration（`/tmp/jfg_migrate.ts`：移動 + 53.6k 書換 + frontmatter）→ audit oracle で dead=0 確認 → 並列 10 agent で 17 INDEX 執筆 + 35 missing_peer_link 修復 → site 設定 + root INDEX + umbrella → `release.ts --write` → `--check --strict`。
+- **検証結果**: `release.ts --check --strict` **EXIT=0**、entries=1473 / issues=0 / **dead_wikilink=0** / **canonical_anchor_drift=0** → PASS、**md=1545 / domains=40**、counts in sync、JSON/LF/dup-id OK。
+- **既知の注意点**: **約 620 公開 URL が変わる**（旧 JapanFG/ は 404、非 301）。DOMAIN_TITLES に 17 ドメインの localized 名は未追加（slug 暫定、build graceful）。`aeon-financial-service-detail` 等の命名は将来 re-slug 候補。
+- **次の作業**: push 後 GitHub Actions build 緑確認（site/ 変更）。DOMAIN_TITLES 補完、wiki_link_audit route map 拡充（非 gating）。
+- **EN**: Physically split the flat ~620-entity `JapanFG/` domain into 17 institution-type top-level domains (domain count 23→40), per the owner's decision — an informed override of ADR-004 (which had used sub-INDEX navigation to avoid this move cost). A design doc (`docs/japanfg-split-design.md`) fixed the approach first (physical split / role-plural names / 17 domains / single atomic migration). Moved 628 entity/license files + 1,887 i18n mirrors (ja/zh/en) + 6 sub-INDEX→domain INDEX + 4 registries; rewrote ~53,600 `[[JapanFG/…]]` wikilinks (root + i18n) + frontmatter domain/aliases. Mapping used the 9 sub-INDEX memberships + frontmatter tags (617 auto, 11 by hand); the data forced 3 extra domains (consumer-finance / trading-company-finance / financial-conglomerates — ADR-008). 10 parallel agents authored the 17 domain INDEX pages and fixed 35 missing_peer_link entries. Updated site config (ENTRY_DOMAIN_DIRS ×2 + groups.ts), root INDEX domain map, the `JapanFG/INDEX` umbrella, regenerated discovery, and trilingual README/CHANGELOG/`releases/v2026.06.04-4.md` + docs. Verification: `release.ts --check --strict` EXIT=0, entries=1473 / issues=0 / dead=0 / canonical_drift=0, md=1545 / domains=40, counts in sync. Note: ~620 public URLs change (old `JapanFG/` 404, not 301); DOMAIN_TITLES localized names for the 17 are a fast follow-up (slug fallback, build degrades gracefully).
+- **中文**: 按 owner 决定，把平坦的约 620-entity `JapanFG/` 域物理拆分为 17 个机构类型顶级域（域数 23→40）——这是对 ADR-004（曾用 sub-INDEX 导航以避免此移动成本）的知情推翻。先用设计文档（`docs/japanfg-split-design.md`）定方式（物理拆分 / 角色复数名 / 17 域 / 单一原子 migration）。移动 628 个 entity/license 文件 + 1,887 个 i18n 镜像（ja/zh/en）+ 6 个 sub-INDEX→域 INDEX + 4 个 registry；重写约 53,600 条 `[[JapanFG/…]]` wikilink（root + i18n）+ frontmatter domain/alias。映射用 9 个 sub-INDEX 成员 + frontmatter tag（617 自动、11 人工）；数据显示有不入三大类的 entity，故加 3 个域（consumer-finance / trading-company-finance / financial-conglomerates——ADR-008）。10 个并行 agent 撰写 17 个域 INDEX + 修复 35 个 missing_peer_link。更新 site 配置（ENTRY_DOMAIN_DIRS ×2 + groups.ts）、root INDEX 域表、`JapanFG/INDEX` umbrella、重生成 discovery、三语 README/CHANGELOG/`releases/v2026.06.04-4.md` + docs。验证：`release.ts --check --strict` EXIT=0、entries=1473 / issues=0 / dead=0 / canonical_drift=0、md=1545 / domains=40、counts in sync。注意：约 620 个公开 URL 改变（旧 `JapanFG/` 404、非 301）；DOMAIN_TITLES 的 17 域本地化名为快速跟进（slug 兜底，build 优雅降级）。
+
 ### canonical_anchor Phase 2 hard requirement — drift gate（--fail-on-canonical-drift）+ mirror 必填規範（P1 完了）/ canonical_anchor Phase 2 hard requirement (drift gate, P1 done) / canonical_anchor Phase 2 hard requirement（drift gate，P1 完成）
 #### 日本語記録 / English / 中文
 - **JST 時刻**: 2026-06-04 13:36 JST。
@@ -915,7 +928,7 @@
 - **背景**: Wave 5-9 直後の corpus 全体品質審査要求に対し、10 並列 agent で 23 領域 1241 ファイルを cold-read で全件 audit。
 - **発見した重大問題**:
   1. **公開面違反 (HIGH)**: 13 個の `exchanges/` ファイルが `来源: projects/cgv/jp-crypto-exchange-research/` という内部ステージング・ディレクトリ参照を含んでいた。
-  2. **断リンク (HIGH)**: `[[JapanFG/cpaaob]]` が `fsa-supervision-bureau` / `fsa-inspection-bureau` / `fsa-strategy-bureau` / `fsa-planning-coordination-bureau` の 4 ファイルで 7 回参照されているが、`JapanFG/cpaaob.md` は存在せず、ai-index.json には既に dead URL が公表されていた。
+  2. **断リンク (HIGH)**: `[[financial-regulators/cpaaob]]` が `fsa-supervision-bureau` / `fsa-inspection-bureau` / `fsa-strategy-bureau` / `fsa-planning-coordination-bureau` の 4 ファイルで 7 回参照されているが、`JapanFG/cpaaob.md` は存在せず、ai-index.json には既に dead URL が公表されていた。
   3. **AGENTS.md 自身が三言語規則違反 (HIGH)**: 順序が「中文 → 日本語」で English ブロック完全欠落 — 自分のルールに反する。
   4. **数字漂移 (MEDIUM)**: README が 1235 files / 約 620 万字 / 約 97 万 tokens を主張するも、実測は 1242 / 約 796 万字 / 約 127 万 tokens。
 - **修復**:
@@ -932,7 +945,7 @@
 - **Context**: Following the Wave 5-9 mega-expansion, dispatched 10 parallel cold-read audit agents across all 23 domains / 1241 files.
 - **Critical findings**:
   1. **Public-surface violation (HIGH)**: 13 `exchanges/` files contained `来源: projects/cgv/jp-crypto-exchange-research/` — an internal staging-directory reference.
-  2. **Broken cross-reference (HIGH)**: `[[JapanFG/cpaaob]]` referenced 7 times across 4 files but `JapanFG/cpaaob.md` did not exist; the dead URL had already been published to `ai-index.json`.
+  2. **Broken cross-reference (HIGH)**: `[[financial-regulators/cpaaob]]` referenced 7 times across 4 files but `JapanFG/cpaaob.md` did not exist; the dead URL had already been published to `ai-index.json`.
   3. **AGENTS.md self-violation (HIGH)**: Ordered "中文 → 日本語" with English block missing entirely — violating its own trilingual rule.
   4. **Count drift (MEDIUM)**: README claimed 1235 files / ~6.2M chars / ~970K tokens; actual was 1242 / ~7.96M / ~1.27M.
 - **Fixes**: Replaced 13 internal-path references with public-source descriptions (FSA, IR, Chainalysis, etc.); created `JapanFG/cpaaob.md` (170 lines: legal status, functions, JICPA role split, governance position, counterpoints, open questions); reordered `AGENTS.md` to ja → en → zh with added English block; synced README (3 places) + INDEX numerical snapshot to 2026-05-25 JST actuals.
@@ -945,7 +958,7 @@
 - **背景**: Wave 5-9 后启动全 corpus 质量审计，10 个并行 agent 冷读 23 个领域共 1241 文件。
 - **关键发现**:
   1. **公开面违规 (HIGH)**: 13 个 `exchanges/` 文件包含 `来源: projects/cgv/jp-crypto-exchange-research/` 内部 staging 目录引用。
-  2. **断链 (HIGH)**: `[[JapanFG/cpaaob]]` 在 4 个文件中被引用 7 次，但 `JapanFG/cpaaob.md` 不存在，且 dead URL 已发布到 ai-index.json。
+  2. **断链 (HIGH)**: `[[financial-regulators/cpaaob]]` 在 4 个文件中被引用 7 次，但 `JapanFG/cpaaob.md` 不存在，且 dead URL 已发布到 ai-index.json。
   3. **AGENTS.md 自身违规 (HIGH)**: 排序为「中文 → 日本語」，完全缺失 English 段 — 违反自身规则。
   4. **数字漂移 (MEDIUM)**: README 声称 1235 文件 / 约 620 万字 / 约 97 万 tokens；实测 1242 / 约 796 万字 / 约 127 万 tokens。
 - **修复**: 13 个 exchanges 文件的内部路径引用替换为公开来源描述；新建 `JapanFG/cpaaob.md` (170 行)；`AGENTS.md` 重排为日→英→中并补全 English 段；README 三处和 INDEX 数字同步到 2026-05-25 JST 实测值。
@@ -1039,11 +1052,11 @@ On 2026-05-25 JST, after the wave 4 (v2026.05.24-3) ship, FinWiki ran a 5-wave p
 - 背景: Wave 3 (v2026.05.24-2) 公開後、user 指示 `继续` で wave 4 を開始。10 並列 agent で残存 institutional gap (商社 parent / JA 系統中央会 / 海外保険残量 / BNPL pure-play / 監査法人 FS practice / policy-finance 残量) + 3 新 comparison matrix (banking license tier / consumer credit operator / trust bank vs global custodian) + C density round 2 retry をカバー。
 - 影響範囲: 44 件新規 .md (JapanFG 34 + banking 2 + payments 1 + policy-finance 7) + 56 件既存 entry に inline body wikilink 追加 (W4-5 density pass) + JapanFG/INDEX に P55~P59 batch sections + Phase 82~86 rollout 履歴 + 統計 + 4 件 domain INDEX (banking, payments, policy-finance + JapanFG) に matrix / entry route 行追加 + root `INDEX.md` 数値同期 + `README.md` + `index.html` 三語 numeric snapshot 同期 + AI discovery 5 ファイル + `wiki-link-improvement-plan.md`。
 - 主要新規ファイル (44 件):
-  - **P55 商社 parent (7)**: [[JapanFG/mitsubishi-corp]], [[JapanFG/mitsui-co]], [[JapanFG/itochu-corp]], [[JapanFG/marubeni-corp]], [[JapanFG/sumitomo-corp]], [[JapanFG/toyota-tsusho-corp]], [[JapanFG/sojitz-corp]]
-  - **P56 JA / JF / 全労済 cooperative federation (7)**: [[JapanFG/ja-zenchu]], [[JapanFG/ja-zen-noh]], [[JapanFG/ja-kyosairen]], [[JapanFG/jf-zengyoren]], [[JapanFG/zenrosai]], [[JapanFG/ja-shinnoren]], [[JapanFG/jf-shingyoren]]
-  - **P57 海外保険 + 残量 foreign insurer (7)**: [[JapanFG/lloyd-japan]], [[JapanFG/fm-global-japan]], [[JapanFG/qbe-japan]], [[JapanFG/aia-life-japan]], [[JapanFG/principal-japan]], [[JapanFG/starr-insurance-japan]], [[JapanFG/pacific-life-re-japan]]
-  - **P58 BNPL + fintech 残量 (7)**: [[JapanFG/net-protections-hd]], [[JapanFG/atone]], [[JapanFG/kuroneko-atobarai]], [[JapanFG/gmo-postpay]], [[JapanFG/infcurion]], [[JapanFG/olta]], [[JapanFG/zaim]]
-  - **P59 大手 audit firm (6)**: [[JapanFG/ey-shinnihon]], [[JapanFG/deloitte-touche-tohmatsu]], [[JapanFG/pwc-aarata]], [[JapanFG/kpmg-azsa]], [[JapanFG/taiyo-grant-thornton]], [[JapanFG/bdo-sanyu]]
+  - **P55 商社 parent (7)**: [[financial-conglomerates/mitsubishi-corp]], [[financial-conglomerates/mitsui-co]], [[financial-conglomerates/itochu-corp]], [[financial-conglomerates/marubeni-corp]], [[financial-conglomerates/sumitomo-corp]], [[financial-conglomerates/toyota-tsusho-corp]], [[financial-conglomerates/sojitz-corp]]
+  - **P56 JA / JF / 全労済 cooperative federation (7)**: [[cooperative-banks/ja-zenchu]], [[cooperative-banks/ja-zen-noh]], [[non-life-insurers/ja-kyosairen]], [[cooperative-banks/jf-zengyoren]], [[non-life-insurers/zenrosai]], [[cooperative-banks/ja-shinnoren]], [[cooperative-banks/jf-shingyoren]]
+  - **P57 海外保険 + 残量 foreign insurer (7)**: [[non-life-insurers/lloyd-japan]], [[non-life-insurers/fm-global-japan]], [[non-life-insurers/qbe-japan]], [[life-insurers/aia-life-japan]], [[asset-managers/principal-japan]], [[non-life-insurers/starr-insurance-japan]], [[life-insurers/pacific-life-re-japan]]
+  - **P58 BNPL + fintech 残量 (7)**: [[payment-firms/net-protections-hd]], [[payment-firms/atone]], [[payment-firms/kuroneko-atobarai]], [[payment-firms/gmo-postpay]], [[payment-firms/infcurion]], [[payment-firms/olta]], [[payment-firms/zaim]]
+  - **P59 大手 audit firm (6)**: [[financial-regulators/ey-shinnihon]], [[financial-regulators/deloitte-touche-tohmatsu]], [[financial-regulators/pwc-aarata]], [[financial-regulators/kpmg-azsa]], [[financial-regulators/taiyo-grant-thornton]], [[financial-regulators/bdo-sanyu]]
   - **3 新 comparison matrix**: [[banking/japan-banking-license-tier-comparison-matrix]] (10 license tier), [[payments/japan-consumer-credit-operator-comparison-matrix]] (9 operator category), [[banking/japan-trust-bank-vs-global-custodian-comparison-matrix]] (10 JP trust banks vs 4 global custodians)
   - **policy-finance 残量 (7)**: [[policy-finance/japan-finance-organization-municipalities]] (JFM), [[policy-finance/tokyo-credit-guarantee-corp]], [[policy-finance/osaka-credit-guarantee-corp]], [[policy-finance/local-government-bond-market]], [[policy-finance/japan-eximbank-history]], [[policy-finance/japan-local-bond-association]], [[policy-finance/tokyo-metropolitan-bond]]
 - C density pass: W4-5 が 56 件 JapanFG entry の prose に 2 件平均 cross-domain wikilink を追加 (regional bank → banking/regional-bank-consolidation-pattern、insurer → insurance/global-solvency-framework-comparison-matrix、card / wallet operator → payments/japan-payment-scheme-economics-matrix、AM / 証券 → securities/japan-asset-manager-landscape-matrix 等)。Body link 5 未満の薄い entry を全数 >=5 まで持ち上げ。
@@ -1116,11 +1129,11 @@ On 2026-05-25 JST, after the wave 4 (v2026.05.24-3) ship, FinWiki ran a 5-wave p
 - 背景: Wave 1 + Wave 2 完了 + GitHub Release v2026.05.24 公開後、user 指示 `继续` で wave 3 を開始。残りの institutional / market-structure gap を埋める方向で 10 並列 agent を起動 (うち W3-10 density round 2 は user により途中で cancel; 残 9 agent 完走)。
 - 影響範囲: 46 件新規 .md (JapanFG 42 + insurance 1 + securities 1 + payments 1 + finance 1) + JapanFG/INDEX に P50~P54 batch sections と Phase 77~81 rollout 履歴 + 統計 + 4 件 domain INDEX (insurance, securities, payments, finance) に新規 matrix entry 行追加 + root `INDEX.md` 数値同期 + `README.md` + `index.html` 三語 numeric snapshot 同期 + AI discovery 5 ファイル + `wiki-link-improvement-plan.md`。
 - 主要新規ファイル (46 件):
-  - **P50 海外 reinsurer + P&I (8)**: [[JapanFG/munich-re-japan]], [[JapanFG/swiss-re-japan]], [[JapanFG/hannover-re-japan]], [[JapanFG/scor-japan]], [[JapanFG/rga-japan]], [[JapanFG/gen-re-japan]], [[JapanFG/japan-pi-club]], [[JapanFG/nippon-kaiji-kyokai]]
-  - **P51 商社系 finance arms (9)**: [[JapanFG/mitsubishi-corp-finance]], [[JapanFG/mitsubishi-corp-asset-management]], [[JapanFG/mitsui-bussan-financial-services]], [[JapanFG/itochu-finance]], [[JapanFG/marubeni-financial-services]], [[JapanFG/sumitomo-corp-financial-management]], [[JapanFG/toyota-tsusho-finance]], [[JapanFG/sojitz-finance]], [[JapanFG/sumitomo-mitsui-auto-service]]
-  - **P52 業界団体 / SRO (9)**: [[JapanFG/zenginkyo]], [[JapanFG/zenchugin-kyo]], [[JapanFG/dai2-chigin-kyo]], [[JapanFG/zenshin-kyo]], [[JapanFG/shintaku-kyokai]], [[JapanFG/seiho-kyokai]], [[JapanFG/sonpo-kyokai]], [[JapanFG/yokin-hoken-kiko]], [[JapanFG/hokenryo-sanshutsu-kiko]]
-  - **P53 中堅証券 + AM 残存 (8)**: [[JapanFG/marusan-securities]], [[JapanFG/tachibana-securities]], [[JapanFG/kyokuto-securities]], [[JapanFG/imamura-securities]], [[JapanFG/smt-am]], [[JapanFG/tokio-marine-asset-management]], [[JapanFG/nissay-asset-management]], [[JapanFG/t-and-d-asset-management]]
-  - **P54 Regional FG subsidiary + 旧称 (8)**: [[JapanFG/san-jusan-bank]], [[JapanFG/chukyo-bank]] (historical), [[JapanFG/mebuki-securities]], [[JapanFG/mebuki-lease]], [[JapanFG/ffg-securities]], [[JapanFG/ibank-marketing]], [[JapanFG/yokohama-bank-leasing]], [[JapanFG/hamagin-research]]
+  - **P50 海外 reinsurer + P&I (8)**: [[non-life-insurers/munich-re-japan]], [[non-life-insurers/swiss-re-japan]], [[non-life-insurers/hannover-re-japan]], [[non-life-insurers/scor-japan]], [[life-insurers/rga-japan]], [[non-life-insurers/gen-re-japan]], [[financial-regulators/japan-pi-club]], [[financial-regulators/nippon-kaiji-kyokai]]
+  - **P51 商社系 finance arms (9)**: [[trading-company-finance/mitsubishi-corp-finance]], [[asset-managers/mitsubishi-corp-asset-management]], [[trading-company-finance/mitsui-bussan-financial-services]], [[trading-company-finance/itochu-finance]], [[trading-company-finance/marubeni-financial-services]], [[trading-company-finance/sumitomo-corp-financial-management]], [[trading-company-finance/toyota-tsusho-finance]], [[trading-company-finance/sojitz-finance]], [[leasing-firms/sumitomo-mitsui-auto-service]]
+  - **P52 業界団体 / SRO (9)**: [[financial-regulators/zenginkyo]], [[financial-regulators/zenchugin-kyo]], [[financial-regulators/dai2-chigin-kyo]], [[financial-regulators/zenshin-kyo]], [[financial-regulators/shintaku-kyokai]], [[financial-regulators/seiho-kyokai]], [[financial-regulators/sonpo-kyokai]], [[financial-regulators/yokin-hoken-kiko]], [[financial-regulators/hokenryo-sanshutsu-kiko]]
+  - **P53 中堅証券 + AM 残存 (8)**: [[securities-firms/marusan-securities]], [[securities-firms/tachibana-securities]], [[securities-firms/kyokuto-securities]], [[securities-firms/imamura-securities]], [[asset-managers/smt-am]], [[asset-managers/tokio-marine-asset-management]], [[asset-managers/nissay-asset-management]], [[asset-managers/t-and-d-asset-management]]
+  - **P54 Regional FG subsidiary + 旧称 (8)**: [[regional-banks/san-jusan-bank]], [[regional-banks/chukyo-bank]] (historical), [[securities-firms/mebuki-securities]], [[leasing-firms/mebuki-lease]], [[securities-firms/ffg-securities]], [[payment-firms/ibank-marketing]], [[leasing-firms/yokohama-bank-leasing]], [[regional-banks/hamagin-research]]
   - **4 新 comparison matrix**: [[insurance/global-solvency-framework-comparison-matrix]] (FSA ESR / IAIS ICS / EU Solvency II / US RBC), [[securities/japan-asset-manager-landscape-matrix]] (megabank / insurance / independent / foreign 4 lane), [[payments/japan-payment-scheme-economics-matrix]] (card / code / A2A / prepaid 4 scheme), [[finance/japan-listed-financial-groups-investable-universe]] (上場 JP financial groups reference universe)
 - 実施内容:
   - 10 並列 `general-purpose` agent を spawn (W3-1 〜 W3-10)。W3-10 (C density round 2) は user により途中で cancel; 残 9 agent 完走。各 agent に self-contained prompt + 担当 directory 制約 + 既存 entry 風格 reference + 公開 source URL を渡し、CHANGELOG / INDEX / README / index.html / AI discovery files への書き込み禁止。
@@ -1184,8 +1197,8 @@ On 2026-05-25 JST, after the wave 4 (v2026.05.24-3) ship, FinWiki ran a 5-wave p
 - 背景: Wave 1 完了直後、引き続き user 指示 `ABCDE 都要做。長期任務、並列 10 agent` の C (thin-link 領域 density) + D3 (BoJ/FSA 内部局) + D4 (crypto-adjacent services) + D5 (JCB card-scheme 周辺) を wave 2 として 10 並列 agent で実行。
 - 影響範囲: 22 件新規 .md (JapanFG 14 + exchanges 8) + 約 200 件既存 entry に inline body wikilink 追加 (link-density pass) + JapanFG/INDEX + exchanges/INDEX + root `INDEX.md` + `README.md` + `index.html` + AI discovery 5 ファイル + `wiki-link-improvement-plan.md`。
 - 主要新規ファイル (22 件):
-  - JapanFG BoJ + FSA 内部局 Batch R1 (8): [[JapanFG/boj-financial-markets-dept]], [[JapanFG/boj-financial-system-dept]], [[JapanFG/boj-payment-settlement-dept]], [[JapanFG/boj-international-dept]], [[JapanFG/fsa-supervision-bureau]], [[JapanFG/fsa-inspection-bureau]] (historical), [[JapanFG/fsa-strategy-bureau]], [[JapanFG/fsa-planning-coordination-bureau]]
-  - JapanFG JCB / 国際カードブランド Batch CB1 (6): [[JapanFG/jcb-international]], [[JapanFG/mastercard-japan]], [[JapanFG/visa-worldwide-japan]], [[JapanFG/american-express-international-japan]], [[JapanFG/diners-club-japan]], [[JapanFG/unionpay-international-japan]]
+  - JapanFG BoJ + FSA 内部局 Batch R1 (8): [[financial-regulators/boj-financial-markets-dept]], [[financial-regulators/boj-financial-system-dept]], [[financial-regulators/boj-payment-settlement-dept]], [[financial-regulators/boj-international-dept]], [[financial-regulators/fsa-supervision-bureau]], [[financial-regulators/fsa-inspection-bureau]] (historical), [[financial-regulators/fsa-strategy-bureau]], [[financial-regulators/fsa-planning-coordination-bureau]]
+  - JapanFG JCB / 国際カードブランド Batch CB1 (6): [[payment-firms/jcb-international]], [[payment-firms/mastercard-japan]], [[payment-firms/visa-worldwide-japan]], [[payment-firms/american-express-international-japan]], [[payment-firms/diners-club-japan]], [[payment-firms/unionpay-international-japan]]
   - exchanges crypto-adjacent service layer (8): [[exchanges/jcba-japan-crypto-business-association]], [[exchanges/japan-blockchain-association-jba]], [[exchanges/japan-crypto-audit-firm-landscape]], [[exchanges/japan-crypto-law-firm-landscape]], [[exchanges/jp-crypto-staking-as-a-service-operators]], [[exchanges/jp-crypto-on-off-ramp-bridge-layer]], [[exchanges/jp-crypto-tax-software-vendor-layer]], [[exchanges/jp-web3-policy-public-body-layer]]
 - C link-density pass (約 200 件既存 entry に inline wikilink 追加):
   - agent-economy (20 entries, ~66 links added), security (5 entries, ~15 links), trade + governance + corporate-strategy (5 entries), systems (35 entries, ~101 links), fintech 前半 issuer/embedded-wallet/strategy (46 entries, ~130 links), fintech 後半 regulatory/CBDC (58 entries, ~150 links), exchanges (~88 entries, ~200 links)
@@ -1251,8 +1264,8 @@ On 2026-05-25 JST, after the wave 4 (v2026.05.24-3) ship, FinWiki ran a 5-wave p
 - 主要新規ファイル (32 件):
   - Single new entries (8): `money-market/tanshi-company-business-model.md`, `loyalty/point-liability-accounting-boundary.md`, `loyalty/v-point-smbc-ccc-case.md`, `retail/lawson-kddi-retail-finance.md`, `systems/cross-chain-five-pole-comparison-matrix.md`, `fintech/global-stablecoin-regulatory-five-pole-matrix.md`, `exchanges/global-vasp-regulatory-comparison-matrix.md`, `policy-finance/japan-project-finance-stack-diagram.md`
   - Domain INDEX 新規 6 件: `agent-economy/INDEX.md`, `business/INDEX.md`, `security/INDEX.md`, `governance/INDEX.md`, `trade/INDEX.md`, `corporate-strategy/INDEX.md` (以前は entry はあったが domain INDEX が存在せず routing が root INDEX 直接だった)
-  - JapanFG 信用金庫 Batch S1 (10): [[JapanFG/kyoto-chuo-shinkin]], [[JapanFG/osaka-shinkin]], [[JapanFG/jonan-shinkin]], [[JapanFG/asahi-shinkin]], [[JapanFG/johoku-shinkin]], [[JapanFG/tama-shinkin]], [[JapanFG/kawasaki-shinkin]], [[JapanFG/yokohama-shinkin]], [[JapanFG/okazaki-shinkin]], [[JapanFG/hamamatsu-iwata-shinkin]] — 初の per-shinkin operating-company anchors (信金中央金庫 以外)
-  - JapanFG 大手 leasing Batch L1 (8): [[JapanFG/ricoh-leasing]], [[JapanFG/ja-mitsui-leasing]], [[JapanFG/showa-leasing]], [[JapanFG/nec-leasing]], [[JapanFG/kanematsu-leasing]], [[JapanFG/hokkaido-lease]], [[JapanFG/ibj-leasing]] (historical disambiguation), [[JapanFG/hitachi-capital]] (historical disambiguation)
+  - JapanFG 信用金庫 Batch S1 (10): [[cooperative-banks/kyoto-chuo-shinkin]], [[cooperative-banks/osaka-shinkin]], [[cooperative-banks/jonan-shinkin]], [[cooperative-banks/asahi-shinkin]], [[cooperative-banks/johoku-shinkin]], [[cooperative-banks/tama-shinkin]], [[cooperative-banks/kawasaki-shinkin]], [[cooperative-banks/yokohama-shinkin]], [[cooperative-banks/okazaki-shinkin]], [[cooperative-banks/hamamatsu-iwata-shinkin]] — 初の per-shinkin operating-company anchors (信金中央金庫 以外)
+  - JapanFG 大手 leasing Batch L1 (8): [[leasing-firms/ricoh-leasing]], [[cooperative-banks/ja-mitsui-leasing]], [[leasing-firms/showa-leasing]], [[leasing-firms/nec-leasing]], [[leasing-firms/kanematsu-leasing]], [[leasing-firms/hokkaido-lease]], [[leasing-firms/ibj-leasing]] (historical disambiguation), [[leasing-firms/hitachi-capital]] (historical disambiguation)
 - 実施内容:
   - 10 並列 `general-purpose` agent を Agent ツールで spawn。各 agent に self-contained prompt (hard rules + style reference 既存 entry path + sources + 出力 JSON format) を渡し、assigned ディレクトリ外への書き込み (CHANGELOG / INDEX / README / index.html / AI discovery files) を全面禁止。
   - Empty placeholder ディレクトリ 6 件 (`frontend`, `lifestyle`, `m-and-a`, `methodology`, `strategy`, `writing`) を `rmdir` で削除 (全て tracked file 0)。
@@ -2172,8 +2185,8 @@ On 2026-05-25 JST, after the wave 4 (v2026.05.24-3) ship, FinWiki ran a 5-wave p
 - 既存ファイル更新: `JapanFG/bny-mellon-japan.md`, `JapanFG/hokkoku-fhd.md`, `JapanFG/foreign-bank-branches-japan-index.md`, `JapanFG/missing-financial-institutions-backlog.md`, `JapanFG/INDEX.md`, `insurance/INDEX.md`, root `INDEX.md`, `README.md`, `releases/v2026.05.21.md`, `wiki-link-improvement-plan.md`, and this `CHANGELOG.md`。
 - 文字量: 新規 15 pages の正味本文は 1,321 lines / 8,388 whitespace words / 70,937 Unicode chars（frontmatter と Markdown 記法を含む）。
 - タイムライン:
-  - 13:40: trust / bank-holding / insurance / foreign-bank candidate を agent findings と公開 source で整理し、BNY Mellon Trust は独立ページ化せず [[JapanFG/bny-mellon-japan]] umbrella に吸収する方針を決定。
-  - 14:05: [[JapanFG/sbi-shinsei-trust-bank]], [[JapanFG/jsf-trust-bank]], and [[JapanFG/cci-group]] を作成し、[[JapanFG/hokkoku-fhd]] を current-name [[JapanFG/cci-group]] への historical bridge として補正。
+  - 13:40: trust / bank-holding / insurance / foreign-bank candidate を agent findings と公開 source で整理し、BNY Mellon Trust は独立ページ化せず [[foreign-financial-institutions/bny-mellon-japan]] umbrella に吸収する方針を決定。
+  - 14:05: [[trust-banks/sbi-shinsei-trust-bank]], [[trust-banks/jsf-trust-bank]], and [[financial-regulators/cci-group]] を作成し、[[regional-banks/hokkoku-fhd]] を current-name [[financial-regulators/cci-group]] への historical bridge として補正。
   - 14:18: Commonwealth Bank, NAB, BNI, PNB, Metrobank, Banco do Brasil, First Commercial Bank, and Taipei Fubon の foreign-bank P3 corridor pages を作成し、foreign-bank registry coverage を 43 standalone / 14 registry-only から 51 standalone / 6 registry-only に更新。
   - 14:30: Daiichi ipet, Pet & Family, YAMAP Naturance, and NTT Docomo General Insurance の specialty insurer pages を作成し、[[insurance/INDEX]] と backlog の D8 / non-life lower-bound coverage を同期。
   - 14:37: root index, JapanFG index, foreign-bank registry, insurance index, backlog, README, release notes, and changelog を同期。Root public surface は 783 から 798、JapanFG は 395 から 410、JapanFG entity count は 387 から 402 に更新。
@@ -2194,7 +2207,7 @@ On 2026-05-25 JST, after the wave 4 (v2026.05.24-3) ship, FinWiki ran a 5-wave p
 - Existing files updated: `JapanFG/bny-mellon-japan.md`, `JapanFG/hokkoku-fhd.md`, `JapanFG/foreign-bank-branches-japan-index.md`, `JapanFG/missing-financial-institutions-backlog.md`, `JapanFG/INDEX.md`, `insurance/INDEX.md`, root `INDEX.md`, `README.md`, `releases/v2026.05.21.md`, `wiki-link-improvement-plan.md`, and this changelog.
 - Text volume: the new 15 pages contain 1,321 lines / 8,388 whitespace words / 70,937 Unicode characters, including frontmatter and Markdown syntax.
 - Timeline:
-  - 13:40: Reconciled trust / bank-holding / insurance / foreign-bank candidates from agent findings and public sources; decided not to create a duplicate BNY Mellon Trust page and instead strengthened the [[JapanFG/bny-mellon-japan]] umbrella route.
+  - 13:40: Reconciled trust / bank-holding / insurance / foreign-bank candidates from agent findings and public sources; decided not to create a duplicate BNY Mellon Trust page and instead strengthened the [[foreign-financial-institutions/bny-mellon-japan]] umbrella route.
   - 14:05: Created SBI Shinsei Trust Bank, JSF Trust Bank, and CCI Group pages, then updated Hokkoku FHD as the historical bridge to current-name CCI Group.
   - 14:18: Created Commonwealth Bank, NAB, BNI, PNB, Metrobank, Banco do Brasil, First Commercial Bank, and Taipei Fubon pages; moved foreign-bank branch coverage from 43 standalone / 14 registry-only to 51 standalone / 6 registry-only.
   - 14:30: Created Daiichi ipet, Pet & Family, YAMAP Naturance, and NTT Docomo General Insurance pages; synced the insurance index and D8 backlog coverage.
@@ -2216,7 +2229,7 @@ On 2026-05-25 JST, after the wave 4 (v2026.05.24-3) ship, FinWiki ran a 5-wave p
 - 更新既有文件：`JapanFG/bny-mellon-japan.md`、`JapanFG/hokkoku-fhd.md`、`JapanFG/foreign-bank-branches-japan-index.md`、`JapanFG/missing-financial-institutions-backlog.md`、`JapanFG/INDEX.md`、`insurance/INDEX.md`、根 `INDEX.md`、`README.md`、`releases/v2026.05.21.md`、`wiki-link-improvement-plan.md` 与本 changelog。
 - 字数统计：新增 15 页合计 1,321 行 / 8,388 个 whitespace words / 70,937 个 Unicode 字符（含 frontmatter 与 Markdown 语法）。
 - 时间线：
-  - 13:40: 根据并行 agent findings 与公开来源整理 trust / bank-holding / insurance / foreign-bank 候选；决定不为 BNY Mellon Trust 单独造重复页面，而是增强 [[JapanFG/bny-mellon-japan]] umbrella route。
+  - 13:40: 根据并行 agent findings 与公开来源整理 trust / bank-holding / insurance / foreign-bank 候选；决定不为 BNY Mellon Trust 单独造重复页面，而是增强 [[foreign-financial-institutions/bny-mellon-japan]] umbrella route。
   - 14:05: 创建 SBI Shinsei Trust Bank、JSF Trust Bank、CCI Group 页面，并把 Hokkoku FHD 修正为指向当前名称 CCI Group 的历史桥接页。
   - 14:18: 创建 Commonwealth Bank、NAB、BNI、PNB、Metrobank、Banco do Brasil、First Commercial Bank、Taipei Fubon 页面；foreign-bank branch 覆盖从 43 standalone / 14 registry-only 更新为 51 standalone / 6 registry-only。
   - 14:30: 创建 Daiichi ipet、Pet & Family、YAMAP Naturance、NTT Docomo General Insurance 页面，并同步 insurance index 与 backlog D8 / non-life coverage。
@@ -2251,7 +2264,7 @@ On 2026-05-25 JST, after the wave 4 (v2026.05.24-3) ship, FinWiki ran a 5-wave p
 - 文字量: 新規 11 pages の正味本文は 1,251 lines / 9,045 whitespace words / 77,053 Unicode chars（frontmatter と Markdown 記法を含む）。
 - タイムライン:
   - 11:25: foreign-bank / FMI agent, securities / finance agent, payments card-security agent の結果を統合し、FSA, Euroclear, Clearstream, IBA Japan, Bangkok Bank, State Bank of India, Bank of India, ANZ, METI, JCA, PCI SSC, EMVCo, JPX, JSDA, JASDEC, JSCC, METI takeover guideline, FSA FIEA FAQ, and TSE governance sources を確認。
-  - 11:42: Euroclear, Clearstream, Bank of Communications, Bangkok Bank, State Bank of India, Bank of India, and ANZ の 7 entity pages を作成し、[[JapanFG/foreign-bank-branches-japan-index]] coverage を 36 standalone / 21 registry-only から 43 standalone / 14 registry-only に更新。
+  - 11:42: Euroclear, Clearstream, Bank of Communications, Bangkok Bank, State Bank of India, Bank of India, and ANZ の 7 entity pages を作成し、[[foreign-financial-institutions/foreign-bank-branches-japan-index]] coverage を 36 standalone / 21 registry-only から 43 standalone / 14 registry-only に更新。
   - 11:52: card security / authentication controls, prime brokerage / institutional financing, acquisition finance, and activist investor playbook を作成し、payments / securities / finance の backlog を Done に更新。
   - 12:03: root index, domain indexes, foreign-bank registry, legal-license routes, banking foreign-bank-retreat page, trust-bank custody map, securities market-infrastructure map, README, release notes, and backlog を同期。
 - 検証結果:
@@ -3227,7 +3240,7 @@ On 2026-05-25 JST, after the wave 4 (v2026.05.24-3) ship, FinWiki ran a 5-wave p
   - 新規 13 件: `JapanFG/woori-bank-japan.md`, `JapanFG/hana-bank-japan.md`, `JapanFG/korea-development-bank-japan.md`, `JapanFG/industrial-bank-of-korea-japan.md`, `JapanFG/kb-kookmin-bank-japan.md`, `JapanFG/bank-of-taiwan-japan.md`, `JapanFG/mega-icbc-japan.md`, `JapanFG/ctbc-bank-japan.md`, `JapanFG/esun-bank-japan.md`, `JapanFG/bank-of-china-japan.md`, `JapanFG/icbc-japan.md`, `JapanFG/china-construction-bank-japan.md`, `JapanFG/agricultural-bank-of-china-japan.md`
   - 更新: `banking/foreign-bank-japan-retreat.md`, `INDEX.md`, `JapanFG/INDEX.md`, `JapanFG/missing-financial-institutions-backlog.md`
 - タイムライン:
-  - 15:05: FSA foreign-bank branch sheet で韓国 5 行、Taiwan / China P1 8 行を再確認し、`中國銀行` は日本の [[JapanFG/chugoku-bank|中国銀行 / Chugoku Bank]] と別 boundary として扱った。
+  - 15:05: FSA foreign-bank branch sheet で韓国 5 行、Taiwan / China P1 8 行を再確認し、`中國銀行` は日本の [[regional-banks/chugoku-bank|中国銀行 / Chugoku Bank]] と別 boundary として扱った。
   - 15:20: Woori, Hana, KDB, IBK, KB Kookmin, Bank of Taiwan, Mega ICBC, CTBC, E.SUN, BOC, ICBC, CCB, ABC の公式 page / association page を照合。
   - 15:45: 13 branch pages と foreign-bank pattern page, backlog, root INDEX, JapanFG INDEX を同期した。
 - 検証結果:
@@ -3245,7 +3258,7 @@ On 2026-05-25 JST, after the wave 4 (v2026.05.24-3) ship, FinWiki ran a 5-wave p
   - 13 new files: `JapanFG/woori-bank-japan.md`, `JapanFG/hana-bank-japan.md`, `JapanFG/korea-development-bank-japan.md`, `JapanFG/industrial-bank-of-korea-japan.md`, `JapanFG/kb-kookmin-bank-japan.md`, `JapanFG/bank-of-taiwan-japan.md`, `JapanFG/mega-icbc-japan.md`, `JapanFG/ctbc-bank-japan.md`, `JapanFG/esun-bank-japan.md`, `JapanFG/bank-of-china-japan.md`, `JapanFG/icbc-japan.md`, `JapanFG/china-construction-bank-japan.md`, and `JapanFG/agricultural-bank-of-china-japan.md`
   - Updated the foreign-bank pattern page, root index, JapanFG index, and backlog
 - Timeline:
-  - 15:05: Rechecked the FSA sheet for 5 Korean rows and 8 Taiwan / mainland China P1 rows; `中國銀行` is handled as Bank of China, separate from Japanese [[JapanFG/chugoku-bank|Chugoku Bank]].
+  - 15:05: Rechecked the FSA sheet for 5 Korean rows and 8 Taiwan / mainland China P1 rows; `中國銀行` is handled as Bank of China, separate from Japanese [[regional-banks/chugoku-bank|Chugoku Bank]].
   - 15:20: Checked official or association pages for Woori, Hana, KDB, IBK, KB Kookmin, Bank of Taiwan, Mega ICBC, CTBC, E.SUN, BOC, ICBC, CCB, and ABC.
   - 15:45: Synced the 13 branch pages with the foreign-bank pattern page, backlog, root index, and JapanFG index.
 - Verification:
@@ -3263,7 +3276,7 @@ On 2026-05-25 JST, after the wave 4 (v2026.05.24-3) ship, FinWiki ran a 5-wave p
   - 新增 13 篇：`JapanFG/woori-bank-japan.md`、`JapanFG/hana-bank-japan.md`、`JapanFG/korea-development-bank-japan.md`、`JapanFG/industrial-bank-of-korea-japan.md`、`JapanFG/kb-kookmin-bank-japan.md`、`JapanFG/bank-of-taiwan-japan.md`、`JapanFG/mega-icbc-japan.md`、`JapanFG/ctbc-bank-japan.md`、`JapanFG/esun-bank-japan.md`、`JapanFG/bank-of-china-japan.md`、`JapanFG/icbc-japan.md`、`JapanFG/china-construction-bank-japan.md`、`JapanFG/agricultural-bank-of-china-japan.md`
   - 更新外资银行模式页、根 INDEX、JapanFG INDEX 与 backlog
 - 时间线：
-  - 15:05：重新核对 FSA sheet 中韩国 5 行、台湾/中国大陆 P1 8 行；`中國銀行` 作为 Bank of China 处理，并与日本 [[JapanFG/chugoku-bank|中国銀行 / Chugoku Bank]] 分开。
+  - 15:05：重新核对 FSA sheet 中韩国 5 行、台湾/中国大陆 P1 8 行；`中國銀行` 作为 Bank of China 处理，并与日本 [[regional-banks/chugoku-bank|中国銀行 / Chugoku Bank]] 分开。
   - 15:20：核验 Woori、Hana、KDB、IBK、KB Kookmin、Bank of Taiwan、Mega ICBC、CTBC、E.SUN、BOC、ICBC、CCB、ABC 的官方或协会页面。
   - 15:45：同步 13 个支店页、foreign-bank pattern page、backlog、根 INDEX、JapanFG INDEX。
 - 验证结果：
@@ -3700,7 +3713,7 @@ On 2026-05-25 JST, after the wave 4 (v2026.05.24-3) ship, FinWiki ran a 5-wave p
   - 更新: `JapanFG/kiraboshi-fg.md`, `banking/INDEX.md`, `JapanFG/missing-financial-institutions-backlog.md`, `JapanFG/INDEX.md`, `INDEX.md`
 - タイムライン:
   - 09:08: 金融庁 `ginkou.xlsx` で筑波銀行、足利銀行、きらぼし銀行、横浜銀行、東日本銀行、東京スター銀行、神奈川銀行、栃木銀行、大光銀行の license-list presence を確認。
-  - 09:10: 各行公式会社概要を確認し、[[JapanFG/mebuki-fg]] / [[JapanFG/kiraboshi-fg]] / [[JapanFG/concordia-fg]] との operating-company boundary を整理。
+  - 09:10: 各行公式会社概要を確認し、[[regional-banks/mebuki-fg]] / [[regional-banks/kiraboshi-fg]] / [[regional-banks/concordia-fg]] との operating-company boundary を整理。
   - 09:13: 9 行の operating-company pages を作成し、`kiraboshi-fg.md` から「きらぼし銀行」alias を外して operating-company page に所有させた。
 - 検証結果:
   - ルート INDEX の公開面件数を 649 から 658 に更新した。`JapanFG` は 299 から 308、JapanFG entity count は 297 から 306 に更新した。
@@ -3717,7 +3730,7 @@ On 2026-05-25 JST, after the wave 4 (v2026.05.24-3) ship, FinWiki ran a 5-wave p
   - Updated `JapanFG/kiraboshi-fg.md`, `banking/INDEX.md`, `JapanFG/missing-financial-institutions-backlog.md`, `JapanFG/INDEX.md`, and root `INDEX.md`
 - Timeline:
   - 09:08: Confirmed the nine banks in FSA `ginkou.xlsx`.
-  - 09:10: Checked official company-profile pages and mapped operating-company boundaries against [[JapanFG/mebuki-fg]], [[JapanFG/kiraboshi-fg]], and [[JapanFG/concordia-fg]].
+  - 09:10: Checked official company-profile pages and mapped operating-company boundaries against [[regional-banks/mebuki-fg]], [[regional-banks/kiraboshi-fg]], and [[regional-banks/concordia-fg]].
   - 09:13: Added 9 operating-company pages and removed the `きらぼし銀行` alias from `kiraboshi-fg.md` so the new operating-company page owns that legal-name boundary.
 - Verification:
   - Root INDEX public-surface count was updated from 649 to 658. `JapanFG` moved from 299 to 308, and JapanFG entity count moved from 297 to 306.
@@ -3734,7 +3747,7 @@ On 2026-05-25 JST, after the wave 4 (v2026.05.24-3) ship, FinWiki ran a 5-wave p
   - 更新 `JapanFG/kiraboshi-fg.md`、`banking/INDEX.md`、`JapanFG/missing-financial-institutions-backlog.md`、`JapanFG/INDEX.md` 与根目录 `INDEX.md`
 - 时间线：
   - 09:08：用金融厅 `ginkou.xlsx` 确认 9 家银行均在 license list 中。
-  - 09:10：核对各银行官方会社概要，并整理它们与 [[JapanFG/mebuki-fg]]、[[JapanFG/kiraboshi-fg]]、[[JapanFG/concordia-fg]] 的 operating-company 边界。
+  - 09:10：核对各银行官方会社概要，并整理它们与 [[regional-banks/mebuki-fg]]、[[regional-banks/kiraboshi-fg]]、[[regional-banks/concordia-fg]] 的 operating-company 边界。
   - 09:13：新增 9 个 operating-company pages，并从 `kiraboshi-fg.md` 移除「きらぼし銀行」alias，让新建 operating-company page 持有这个法律名称边界。
 - 验证结果：
   - 根目录 INDEX 的公开面条目数从 649 更新为 658；`JapanFG` 从 299 更新为 308；JapanFG entity count 从 297 更新为 306。

@@ -61,11 +61,6 @@
     "wikilinks_count": 35,
     "wikilinks": [
       "JapanFG/INDEX",
-      "JapanFG/boj-monetary-policy",
-      "JapanFG/japan-securities-finance",
-      "JapanFG/mizuho-bank",
-      "JapanFG/mufg-bank",
-      "JapanFG/sumitomo-mitsui-banking-corp",
       "banking/INDEX",
       "banking/japan-banking-license-tier-comparison-matrix",
       "derivatives/bond-cds-basis-trade",
@@ -86,6 +81,11 @@
       "exchanges/INDEX",
       "finance/INDEX",
       "finance/japan-corporate-fx-and-rate-hedge-policy",
+      "financial-regulators/boj-monetary-policy",
+      "financial-regulators/japan-securities-finance",
+      "megabanks/mizuho-bank",
+      "megabanks/mufg-bank",
+      "megabanks/sumitomo-mitsui-banking-corp",
       "money-market/INDEX",
       "money-market/boj-open-market-operations",
       "money-market/call-market-structure",
@@ -98,11 +98,6 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/JapanFG/INDEX",
-      "https://finwiki.zksc.io/JapanFG/boj-monetary-policy",
-      "https://finwiki.zksc.io/JapanFG/japan-securities-finance",
-      "https://finwiki.zksc.io/JapanFG/mizuho-bank",
-      "https://finwiki.zksc.io/JapanFG/mufg-bank",
-      "https://finwiki.zksc.io/JapanFG/sumitomo-mitsui-banking-corp",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/japan-banking-license-tier-comparison-matrix",
       "https://finwiki.zksc.io/derivatives/bond-cds-basis-trade",
@@ -123,6 +118,11 @@
       "https://finwiki.zksc.io/exchanges/INDEX",
       "https://finwiki.zksc.io/finance/INDEX",
       "https://finwiki.zksc.io/finance/japan-corporate-fx-and-rate-hedge-policy",
+      "https://finwiki.zksc.io/financial-regulators/boj-monetary-policy",
+      "https://finwiki.zksc.io/financial-regulators/japan-securities-finance",
+      "https://finwiki.zksc.io/megabanks/mizuho-bank",
+      "https://finwiki.zksc.io/megabanks/mufg-bank",
+      "https://finwiki.zksc.io/megabanks/sumitomo-mitsui-banking-corp",
       "https://finwiki.zksc.io/money-market/INDEX",
       "https://finwiki.zksc.io/money-market/boj-open-market-operations",
       "https://finwiki.zksc.io/money-market/call-market-structure",
@@ -137,9 +137,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 7905,
-    "word_like_tokens": 1187,
+    "nonspace_chars": 7943,
+    "word_like_tokens": 1189,
     "inbound_wikilinks_count": 41,
-    "last_modified": "2026-06-02"
+    "last_modified": "2026-06-04"
   }
 }

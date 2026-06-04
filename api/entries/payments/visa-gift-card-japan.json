@@ -61,13 +61,13 @@
     "wikilinks_count": 19,
     "wikilinks": [
       "INDEX",
-      "JapanFG/au-payment",
-      "JapanFG/kyash",
-      "JapanFG/life-card",
-      "JapanFG/life-card\\",
-      "JapanFG/paypay",
-      "JapanFG/visa-worldwide-japan",
-      "JapanFG/visa-worldwide-japan\\",
+      "card-issuers/life-card",
+      "card-issuers/life-card\\",
+      "payment-firms/au-payment",
+      "payment-firms/kyash",
+      "payment-firms/paypay",
+      "payment-firms/visa-worldwide-japan",
+      "payment-firms/visa-worldwide-japan\\",
       "payments/INDEX",
       "payments/amazon-gift-card-japan",
       "payments/apple-gift-card-japan",
@@ -82,13 +82,13 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/au-payment",
-      "https://finwiki.zksc.io/JapanFG/kyash",
-      "https://finwiki.zksc.io/JapanFG/life-card",
-      "https://finwiki.zksc.io/JapanFG/life-card\\",
-      "https://finwiki.zksc.io/JapanFG/paypay",
-      "https://finwiki.zksc.io/JapanFG/visa-worldwide-japan",
-      "https://finwiki.zksc.io/JapanFG/visa-worldwide-japan\\",
+      "https://finwiki.zksc.io/card-issuers/life-card",
+      "https://finwiki.zksc.io/card-issuers/life-card\\",
+      "https://finwiki.zksc.io/payment-firms/au-payment",
+      "https://finwiki.zksc.io/payment-firms/kyash",
+      "https://finwiki.zksc.io/payment-firms/paypay",
+      "https://finwiki.zksc.io/payment-firms/visa-worldwide-japan",
+      "https://finwiki.zksc.io/payment-firms/visa-worldwide-japan\\",
       "https://finwiki.zksc.io/payments/INDEX",
       "https://finwiki.zksc.io/payments/amazon-gift-card-japan",
       "https://finwiki.zksc.io/payments/apple-gift-card-japan",
@@ -105,9 +105,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 10013,
-    "word_like_tokens": 1631,
+    "nonspace_chars": 10080,
+    "word_like_tokens": 1643,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-04"
   }
 }

@@ -1,0 +1,78 @@
+{
+  "schema_version": "1.0",
+  "slug": "trust-banks/pasona-ip-trust",
+  "source_path": "trust-banks/pasona-ip-trust.md",
+  "url": "https://finwiki.zksc.io/trust-banks/pasona-ip-trust",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/trust-banks/pasona-ip-trust.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/trust-banks/pasona-ip-trust.md",
+  "domain": "trust-banks",
+  "title": "パソナ知財信託 (Pasona IP Trust)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "パソナ知財信託 (Pasona IP Trust)",
+    "aliases": [
+      "Pasona IP Trust",
+      "株式会社パソナ知財信託",
+      "Pasona Intellectual Property Trust"
+    ],
+    "domain": "trust-banks",
+    "created": "2026-05-22",
+    "last_updated": "2026-05-22",
+    "last_tended": "2026-05-22",
+    "review_by": "2026-11-22",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "trust-company",
+      "intellectual-property",
+      "IP-finance",
+      "Pasona"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.xlsx",
+      "https://pasona-ipt.co.jp/",
+      "https://pasona-ipt.co.jp/company/",
+      "https://pasona-ipt.co.jp/strengths/"
+    ]
+  },
+  "summary": "Pasona IP Trust is a standalone trust-company route under JapanFG and is promoted from the Japan trust companies registry index. Read it with Japan acquisition finance, business cases, and Japan trust-bank custody map.",
+  "headings": [
+    "パソナ知財信託 (Pasona IP Trust)",
+    "Wiki route",
+    "Overview",
+    "Entity Boundary",
+    "Business Role Map",
+    "Public Context",
+    "Research Checklist",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 6,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/INDEX",
+      "banking/japan-trust-bank-custody-map",
+      "business/INDEX",
+      "finance/japan-acquisition-finance",
+      "trust-banks/trust-companies-japan-index"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/banking/japan-trust-bank-custody-map",
+      "https://finwiki.zksc.io/business/INDEX",
+      "https://finwiki.zksc.io/finance/japan-acquisition-finance",
+      "https://finwiki.zksc.io/trust-banks/trust-companies-japan-index"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3255,
+    "word_like_tokens": 510,
+    "inbound_wikilinks_count": 2,
+    "last_modified": "2026-06-04"
+  }
+}

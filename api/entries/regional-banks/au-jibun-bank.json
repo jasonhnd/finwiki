@@ -1,0 +1,90 @@
+{
+  "schema_version": "1.0",
+  "slug": "regional-banks/au-jibun-bank",
+  "source_path": "regional-banks/au-jibun-bank.md",
+  "url": "https://finwiki.zksc.io/regional-banks/au-jibun-bank",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/regional-banks/au-jibun-bank.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/regional-banks/au-jibun-bank.md",
+  "domain": "regional-banks",
+  "title": "au じぶん銀行 (au Jibun Bank)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "au じぶん銀行 (au Jibun Bank)",
+    "aliases": [
+      "au Jibun Bank",
+      "auじぶん銀行",
+      "au じぶん銀行",
+      "auじぶん銀行株式会社",
+      "じぶん銀行",
+      "Jibun Bank",
+      "au Jibun Bank Corporation"
+    ],
+    "domain": "regional-banks",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "banking",
+      "internet-bank",
+      "KDDI",
+      "MUFG",
+      "mobile-finance"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.jibunbank.co.jp/company/profile/",
+      "https://www.jibunbank.co.jp/company/history/",
+      "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
+      "https://www.mufg.jp/profile/group/index.html"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against ソニー銀行 / オリックス銀行 / 楽天銀行 for peer internet bank context, 三菱UFJ銀行 as parent group co-investor, and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "au じぶん銀行 (au Jibun Bank)",
+    "Wiki route",
+    "TL;DR",
+    "1. 法人・株主",
+    "2. ライセンス・規制境界",
+    "3. 業務セグメント",
+    "4. 親会社・グループ関係",
+    "5. 競合・業界ポジション",
+    "6. 戦略・最近の動向",
+    "7. 主要 KPI（概観）"
+  ],
+  "body_links": {
+    "wikilinks_count": 9,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/paypay-bank",
+      "JapanFG/rakuten-bank",
+      "banking/INDEX",
+      "megabanks/mufg",
+      "megabanks/mufg-bank",
+      "regional-banks/sbi-sumishin-net-bank",
+      "regional-banks/sony-bank",
+      "trust-banks/orix-bank"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/paypay-bank",
+      "https://finwiki.zksc.io/JapanFG/rakuten-bank",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/mufg-bank",
+      "https://finwiki.zksc.io/regional-banks/sbi-sumishin-net-bank",
+      "https://finwiki.zksc.io/regional-banks/sony-bank",
+      "https://finwiki.zksc.io/trust-banks/orix-bank"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 4181,
+    "word_like_tokens": 739,
+    "inbound_wikilinks_count": 4,
+    "last_modified": "2026-06-04"
+  }
+}

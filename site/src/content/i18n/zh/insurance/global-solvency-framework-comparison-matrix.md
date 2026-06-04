@@ -12,7 +12,7 @@ translated_at: 2026-05-31T11:13:44.835Z
 
 ## 维基路线
 
-此条目位于 [[insurance/INDEX|insurance index]] 下，是保险公司资本框架的跨司法管辖区比较页面。对照 [[insurance/economic-value-based-solvency]] 和 [[insurance/esr-economic-value-solvency]] 了解日本特定的经济价值详细信息，对照 [[JapanFG/legal-financial-licenses/insurance-license-and-solvency]] 了解日本许可/监管边界，对照 [[insurance/japan-life-insurance-big-four]] 和 [[insurance/japan-nonlife-big-three]] 了解公司层面的日本影响。灾难风险模块反馈至 [[insurance/natcat-reinsurance-japan]]。日方翻译最干净的上市股票实体锚点是 [[JapanFG/dai-ichi-life]] 和 [[JapanFG/tokio-marine]]。
+此条目位于 [[insurance/INDEX|insurance index]] 下，是保险公司资本框架的跨司法管辖区比较页面。对照 [[insurance/economic-value-based-solvency]] 和 [[insurance/esr-economic-value-solvency]] 了解日本特定的经济价值详细信息，对照 [[financial-licenses/insurance-license-and-solvency]] 了解日本许可/监管边界，对照 [[insurance/japan-life-insurance-big-four]] 和 [[insurance/japan-nonlife-big-three]] 了解公司层面的日本影响。灾难风险模块反馈至 [[insurance/natcat-reinsurance-japan]]。日方翻译最干净的上市股票实体锚点是 [[life-insurers/dai-ichi-life]] 和 [[non-life-insurers/tokio-marine]]。
 
 ##TL;博士
 
@@ -28,7 +28,7 @@ translated_at: 2026-05-31T11:13:44.835Z
 |---|---|---|---|---|
 |调节器|金融服务局 (FSA)|国际保险监管人协会 (IAIS)|欧洲保险和职业养老金管理局 (EIOPA) 和国家监管机构|全国保险专员协会 (NAIC) 和州监管机构|
 |生效日期|经过多年现场测试，从 2025-04 onward 推出|版本 2.0  十二月最终确定 2024；五年监控期后，2025  对 IAIG 强制执行|可从 2016-01 运行； 2025  采用 Solvency II 2.0 review 软件包|自 1990s 起生效，按线路演变（life-RBC、P&C-RBC、health-RBC）|
-|范围|所有日本持牌保险公司和保险控股公司；参见 [[JapanFG/legal-financial-licenses/insurance-license-and-solvency]]|国际活跃保险集团 (IAIG) — 根据 IAIS 标准确定的大型跨境集团|欧盟/欧洲经济区授权的所有保险公司和再保险公司|美国注册的保险公司；人寿险、财产险险和健康险分别适用|
+|范围|所有日本持牌保险公司和保险控股公司；参见 [[financial-licenses/insurance-license-and-solvency]]|国际活跃保险集团 (IAIG) — 根据 IAIS 标准确定的大型跨境集团|欧盟/欧洲经济区授权的所有保险公司和再保险公司|美国注册的保险公司；人寿险、财产险险和健康险分别适用|
 |标题指标|经济偿付能力比率（ESR）=合格资本/所需资本|ICS 比率 = 合格资本资源 / ICS 所需资本|偿付能力资本要求（SCR）覆盖率=合格自有资金/SCR；加上最低资本要求 (MCR)|RBC 比率 = 调整资本总额 / 授权控制水平 RBC，以及监管行动水平|
 
 ### 理念和估值
@@ -77,8 +77,8 @@ translated_at: 2026-05-31T11:13:44.835Z
 
 日本保险市场通过特定的实体层转化这些框架：
 
-- **四大寿险公司**：[[insurance/japan-life-insurance-big-four|Japan life insurance big four]]——日本人寿、第一人寿、明治安田、住友人寿——由于长期储蓄、外币年金和股权风险敞口，面临着最大的经济价值敏感性。ESR 是国内主要指标；特别是对于 [[JapanFG/dai-ichi-life]]，上市股权披露意味着 ESR 与股息/回购能力一起阅读。互助保险公司通过投保人回报和盈余分配而非股票回购来转化 ESR。
-- **非寿险三巨头**：[[insurance/japan-nonlife-big-three|Japan non-life big three]] — [[JapanFG/tokio-marine|Tokio Marine]]、MS&AD 和 SOMPO — 通过 nat-cat 再保险定价、海外专业保险和股权清算计划转化 ESR。 ESR 下的非寿险巨灾模块是私人和公共巨灾再保险的监管对应部分。
+- **四大寿险公司**：[[insurance/japan-life-insurance-big-four|Japan life insurance big four]]——日本人寿、第一人寿、明治安田、住友人寿——由于长期储蓄、外币年金和股权风险敞口，面临着最大的经济价值敏感性。ESR 是国内主要指标；特别是对于 [[life-insurers/dai-ichi-life]]，上市股权披露意味着 ESR 与股息/回购能力一起阅读。互助保险公司通过投保人回报和盈余分配而非股票回购来转化 ESR。
+- **非寿险三巨头**：[[insurance/japan-nonlife-big-three|Japan non-life big three]] — [[non-life-insurers/tokio-marine|Tokio Marine]]、MS&AD 和 SOMPO — 通过 nat-cat 再保险定价、海外专业保险和股权清算计划转化 ESR。 ESR 下的非寿险巨灾模块是私人和公共巨灾再保险的监管对应部分。
 - **IAIG 地位团体**：由其集团范围内的监管机构指定为 IAIG 的日本集团除了 ESR 之外还要面临并行的 ICS 报告，而 FSA 则充当相关日本总部集团的集团范围内的监管机构。
 - **外国子公司**：拥有欧盟子公司（例如再保险中心、专业平台）的日本集团在子公司层面面临偿付能力II；拥有美国人寿/财产险/健康子公司的集团面临加拿大皇家银行。
 
@@ -125,9 +125,9 @@ translated_at: 2026-05-31T11:13:44.835Z
 - [[insurance/japan-nonlife-big-three]]
 - [[insurance/natcat-reinsurance-japan]]
 - [[insurance/mutual-vs-stock-life-insurer]]
-- [[JapanFG/legal-financial-licenses/insurance-license-and-solvency]]
-- [[JapanFG/dai-ichi-life]]
-- [[JapanFG/tokio-marine]]
+- [[financial-licenses/insurance-license-and-solvency]]
+- [[life-insurers/dai-ichi-life]]
+- [[non-life-insurers/tokio-marine]]
 - [[INDEX|FinWiki index]]
 
 ## 来源

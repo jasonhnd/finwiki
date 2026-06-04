@@ -51,7 +51,6 @@
   "body_links": {
     "wikilinks_count": 14,
     "wikilinks": [
-      "JapanFG/monex-group",
       "exchanges/INDEX",
       "exchanges/fsa-vasp-registration-system",
       "exchanges/jp-exchange-bitflyer",
@@ -64,10 +63,10 @@
       "exchanges/jp-vasp-parent-company-map",
       "fintech/japan-financial-regulation",
       "fintech/japan-stablecoin-regulatory-landscape",
-      "fintech/jp-trust-type-sc-architecture"
+      "fintech/jp-trust-type-sc-architecture",
+      "securities-firms/monex-group"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/monex-group",
       "https://finwiki.zksc.io/exchanges/INDEX",
       "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
       "https://finwiki.zksc.io/exchanges/jp-exchange-bitflyer",
@@ -80,7 +79,8 @@
       "https://finwiki.zksc.io/exchanges/jp-vasp-parent-company-map",
       "https://finwiki.zksc.io/fintech/japan-financial-regulation",
       "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
-      "https://finwiki.zksc.io/fintech/jp-trust-type-sc-architecture"
+      "https://finwiki.zksc.io/fintech/jp-trust-type-sc-architecture",
+      "https://finwiki.zksc.io/securities-firms/monex-group"
     ],
     "external_links_count": 4,
     "external_links": [
@@ -91,9 +91,9 @@
     ]
   },
   "metrics": {
-    "nonspace_chars": 4026,
-    "word_like_tokens": 612,
+    "nonspace_chars": 4035,
+    "word_like_tokens": 613,
     "inbound_wikilinks_count": 8,
-    "last_modified": "2026-05-24"
+    "last_modified": "2026-06-04"
   }
 }

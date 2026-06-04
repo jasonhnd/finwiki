@@ -19,7 +19,7 @@ This entry sits under [[insurance/INDEX|insurance index]]. Read it against [[ins
 
 互联网寿险模式通过直接数字获客、更简单的产品设计、在线披露以及更低摩擦的投保流程来销售寿险。它的经济承诺是更低的分销成本和更好的 UX；其硬约束在于，寿险仍然需要信任、适合性、核保、数据安全以及长期保单服务。
 
-JapanFG 体系中的核心锚点是 [[JapanFG/lifenet]]。相邻实体包括 [[JapanFG/orix-life]]、[[JapanFG/sony-fg]]，以及在更广泛渠道组合中使用线上渠道的传统保险公司。
+JapanFG 体系中的核心锚点是 [[life-insurers/lifenet]]。相邻实体包括 [[life-insurers/orix-life]]、[[megabanks/sony-fg]]，以及在更广泛渠道组合中使用线上渠道的传统保险公司。
 
 ## Model Components
 
@@ -33,10 +33,10 @@ JapanFG 体系中的核心锚点是 [[JapanFG/lifenet]]。相邻实体包括 [[J
 
 ## JapanFG Relevance
 
-- [[JapanFG/lifenet]] 是参考案例：一家从互联网直销起步、后来加入合作方 / 嵌入式业务的在线寿险公司。
-- [[JapanFG/orix-life]] 之所以相关，是因为它作为寿险公司，在直营 / 代理产品可见度方面很强。
-- [[JapanFG/sony-fg]] 是对照案例：Sony Life 以理财规划师驱动，而 Sony 的非寿险 / 银行业务则更直接、更数字化。
-- [[JapanFG/dai-ichi-life]]、[[JapanFG/nippon-life]]、[[JapanFG/sumitomo-life]] 等传统保险公司也使用数字渠道，但其经济基础仍包含大量人工销售或代理网络。
+- [[life-insurers/lifenet]] 是参考案例：一家从互联网直销起步、后来加入合作方 / 嵌入式业务的在线寿险公司。
+- [[life-insurers/orix-life]] 之所以相关，是因为它作为寿险公司，在直营 / 代理产品可见度方面很强。
+- [[megabanks/sony-fg]] 是对照案例：Sony Life 以理财规划师驱动，而 Sony 的非寿险 / 银行业务则更直接、更数字化。
+- [[life-insurers/dai-ichi-life]]、[[life-insurers/nippon-life]]、[[life-insurers/sumitomo-life]] 等传统保险公司也使用数字渠道，但其经济基础仍包含大量人工销售或代理网络。
 
 ## Economic Thesis
 
@@ -60,10 +60,10 @@ JapanFG 体系中的核心锚点是 [[JapanFG/lifenet]]。相邻实体包括 [[J
 - [[insurance/INDEX|insurance INDEX]]
 - [[insurance/life-insurance-channel-mix]]
 - [[insurance/mutual-vs-stock-life-insurer]]
-- [[JapanFG/lifenet]]
-- [[JapanFG/orix-life]]
-- [[JapanFG/sony-fg]]
-- [[JapanFG/legal-financial-licenses/INDEX]]
+- [[life-insurers/lifenet]]
+- [[life-insurers/orix-life]]
+- [[megabanks/sony-fg]]
+- [[financial-licenses/INDEX]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

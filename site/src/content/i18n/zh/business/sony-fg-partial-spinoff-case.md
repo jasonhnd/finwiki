@@ -12,7 +12,7 @@ translated_at: 2026-05-30T16:08:36.706Z
 
 ## Wiki route
 
-本条目归于 [[business/INDEX|business INDEX]] 之下,作为上市公司战略案例。请将其与 [[business/softbank-vision-fund-arm-ipo-template|SoftBank/Arm IPO template]] 及 [[business/jpx-public-company-as-market-infrastructure|JPX listed exchange case]] 作为同业日本大盘股上市公司重组、与 [[corporate-strategy/partial-spinoff-tax-deferral|partial spinoff tax deferral]] 作为税制机制、与 [[JapanFG/sony-fg|Sony FG]] 作为实体概况,以及 [[corporate-strategy/japan-kaisha-bunkatsu-tax-regime|会社分割 tax regime]] 作为更广泛的企业分割法律管道一并阅读。同时配合 [[corporate-strategy/INDEX|corporate-strategy INDEX]] 与 [[finance/INDEX|finance INDEX]] 以了解资本市场背景。
+本条目归于 [[business/INDEX|business INDEX]] 之下,作为上市公司战略案例。请将其与 [[business/softbank-vision-fund-arm-ipo-template|SoftBank/Arm IPO template]] 及 [[business/jpx-public-company-as-market-infrastructure|JPX listed exchange case]] 作为同业日本大盘股上市公司重组、与 [[corporate-strategy/partial-spinoff-tax-deferral|partial spinoff tax deferral]] 作为税制机制、与 [[megabanks/sony-fg|Sony FG]] 作为实体概况,以及 [[corporate-strategy/japan-kaisha-bunkatsu-tax-regime|会社分割 tax regime]] 作为更广泛的企业分割法律管道一并阅读。同时配合 [[corporate-strategy/INDEX|corporate-strategy INDEX]] 与 [[finance/INDEX|finance INDEX]] 以了解资本市场背景。
 
 ## TL;DR
 
@@ -65,7 +65,7 @@ Sony Group 有三条现实的分离路径:
 
 对 **Sony Group**:剥离后成为纯业务娱乐 / 半导体 / 影像集团;降低与媒体科技倍数不同的金融服务估值倍数所致的 [[finance/japan-listed-financial-groups-investable-universe|conglomerate-discount drag]];资本配置解放至游戏 / 音乐 / 图像传感器优先事项。
 
-对 **Sony Financial Group**:独立管理自主权、自己的并购货币(自己的股票)、招聘灵活性,以及在个人金融市场更直接地与 [[JapanFG/mufg|MUFG]] / [[JapanFG/smfg|SMFG]] / [[JapanFG/sbi-hd|SBI HD]] / [[JapanFG/paypay-fg|PayPay FG]] 竞争的能力。
+对 **Sony Financial Group**:独立管理自主权、自己的并购货币(自己的股票)、招聘灵活性,以及在个人金融市场更直接地与 [[megabanks/mufg|MUFG]] / [[megabanks/smfg|SMFG]] / [[megabanks/sbi-hd|SBI HD]] / [[megabanks/paypay-fg|PayPay FG]] 竞争的能力。
 
 对 **股东**:无即时税务确认(制度合格递延);一变两获得两个上市证券;可选择持有或再平衡。
 
@@ -107,7 +107,7 @@ Sony 案例为以下开启了策略:
 
 - Sony Group 低于 20% 的保留股权会随时间进一步稀释,最终降至零吗?
 - SFG 会使用新可用的自股作为货币来整合其他区域 / 利基日本金融参与者吗?
-- [[JapanFG/sony-bank|Sony Bank]] / [[JapanFG/sony-life|Sony Life]] / [[JapanFG/sony-insurance|Sony Insurance]] 交叉销售经济将如何随母公司分离而改变?
+- [[regional-banks/sony-bank|Sony Bank]] / [[life-insurers/sony-life|Sony Life]] / [[non-life-insurers/sony-insurance|Sony Insurance]] 交叉销售经济将如何随母公司分离而改变?
 - Sony 先例会解锁 Toyota Financial Services、Nissan / Renault 金融部门或 Mitsubishi Group 金融部门的类似交易吗?
 - FSA 将如何处理独立 Sony FG 的分拆后资本充足监督?
 
@@ -117,10 +117,10 @@ Sony 案例为以下开启了策略:
 - [[corporate-strategy/japan-kaisha-bunkatsu-tax-regime|会社分割 tax regime]]
 - [[corporate-strategy/spinoff-decision-tree-japan|spinoff decision tree Japan]]
 - [[corporate-strategy/kabushiki-koufu-stock-distribution-regime|株式交付 stock-distribution regime]]
-- [[JapanFG/sony-fg|Sony Financial Group entity]]
-- [[JapanFG/sony-bank|Sony Bank]]
-- [[JapanFG/sony-life|Sony Life]]
-- [[JapanFG/sony-insurance|Sony Insurance]]
+- [[megabanks/sony-fg|Sony Financial Group entity]]
+- [[regional-banks/sony-bank|Sony Bank]]
+- [[life-insurers/sony-life|Sony Life]]
+- [[non-life-insurers/sony-insurance|Sony Insurance]]
 - [[finance/japan-mbo-and-squeeze-out-process|Japan MBO / squeeze-out process]]
 - [[finance/japan-tender-offer-process|Japan tender offer process]]
 - [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]]

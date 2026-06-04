@@ -68,9 +68,7 @@
     "wikilinks": [
       "INDEX",
       "JapanFG/INDEX",
-      "JapanFG/aeon-bank",
-      "JapanFG/lawson-bank",
-      "JapanFG/seven-bank",
+      "card-issuers/aeon-bank",
       "loyalty/d-point-detailed-ecosystem",
       "loyalty/japan-points-landscape",
       "loyalty/point-liability-accounting-boundary",
@@ -79,6 +77,8 @@
       "payments/cashless-jp-landscape",
       "payments/funds-transfer-vs-prepaid-boundary",
       "payments/japan-code-payment-operator-2025-market-share-matrix",
+      "regional-banks/lawson-bank",
+      "regional-banks/seven-bank",
       "retail/INDEX",
       "retail/aeon-group",
       "retail/japan-retail-financial-distribution-wedge-matrix",
@@ -89,9 +89,7 @@
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
       "https://finwiki.zksc.io/JapanFG/INDEX",
-      "https://finwiki.zksc.io/JapanFG/aeon-bank",
-      "https://finwiki.zksc.io/JapanFG/lawson-bank",
-      "https://finwiki.zksc.io/JapanFG/seven-bank",
+      "https://finwiki.zksc.io/card-issuers/aeon-bank",
       "https://finwiki.zksc.io/loyalty/d-point-detailed-ecosystem",
       "https://finwiki.zksc.io/loyalty/japan-points-landscape",
       "https://finwiki.zksc.io/loyalty/point-liability-accounting-boundary",
@@ -100,6 +98,8 @@
       "https://finwiki.zksc.io/payments/cashless-jp-landscape",
       "https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary",
       "https://finwiki.zksc.io/payments/japan-code-payment-operator-2025-market-share-matrix",
+      "https://finwiki.zksc.io/regional-banks/lawson-bank",
+      "https://finwiki.zksc.io/regional-banks/seven-bank",
       "https://finwiki.zksc.io/retail/INDEX",
       "https://finwiki.zksc.io/retail/aeon-group",
       "https://finwiki.zksc.io/retail/japan-retail-financial-distribution-wedge-matrix",
@@ -111,9 +111,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 13951,
-    "word_like_tokens": 2285,
+    "nonspace_chars": 14041,
+    "word_like_tokens": 2299,
     "inbound_wikilinks_count": 6,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-04"
   }
 }

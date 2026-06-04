@@ -12,7 +12,7 @@ translated_at: 2026-06-01T03:31:12.228Z
 
 ## Wiki route
 
-This entry sits under [[policy-finance/INDEX|policy-finance index]]. Read it against [[policy-finance/japan-credit-guarantee-system|Japan credit guarantee system]] for SME-side contrast, [[policy-finance/agriculture-credit-guarantee-system|agriculture credit guarantee system]] for the sister sector (same JAFFIC parent), and [[policy-finance/japan-policy-finance-system|Japan policy finance system]] for the broader public-credit boundary. The fisheries deposit-and-lending counterpart is [[banking/jf-marine-bank-system-japan|JF Marine Bank system]] and the cooperative apex is [[JapanFG/norinchukin|Norinchukin]] (which serves agriculture, forestry, and fisheries cooperatives jointly).
+This entry sits under [[policy-finance/INDEX|policy-finance index]]. Read it against [[policy-finance/japan-credit-guarantee-system|Japan credit guarantee system]] for SME-side contrast, [[policy-finance/agriculture-credit-guarantee-system|agriculture credit guarantee system]] for the sister sector (same JAFFIC parent), and [[policy-finance/japan-policy-finance-system|Japan policy finance system]] for the broader public-credit boundary. The fisheries deposit-and-lending counterpart is [[banking/jf-marine-bank-system-japan|JF Marine Bank system]] and the cooperative apex is [[cooperative-banks/norinchukin|Norinchukin]] (which serves agriculture, forestry, and fisheries cooperatives jointly).
 
 ## TL;DR
 
@@ -27,7 +27,7 @@ Japanese fisheries finance flows through a **fisheries 系統金融** stack that
 | 漁業者 / 漁業法人 / 加工業者 | Borrower (fisher, fisheries corporation, aquaculture operator, seafood processor, eligible cooperative). | System route here |
 | 単位漁協 (JF / 単漁協) | Primary fisheries cooperative; takes member deposits; extends fisheries-related credit; operates landing-port logistics and fish-market functions. | [[banking/jf-marine-bank-system-japan]] |
 | 信漁連 (都道府県信用漁業協同組合連合会) | Prefectural credit federation of fisheries cooperatives. | [[banking/jf-marine-bank-system-japan]] |
-| 農林中央金庫 (Norinchukin) | National apex bank for JA / 信連 / JF / 信漁連 / 森連 cooperatives; jointly serves agriculture, fisheries, and forestry cooperatives. | [[JapanFG/norinchukin]] |
+| 農林中央金庫 (Norinchukin) | National apex bank for JA / 信連 / JF / 信漁連 / 森連 cooperatives; jointly serves agriculture, fisheries, and forestry cooperatives. | [[cooperative-banks/norinchukin]] |
 | 漁業信用基金協会 | Prefectural / area guarantee body for fisheries loans; performs subrogation on default. | This page |
 | 全国漁業信用基金協会連合会 | National federation of fisheries credit fund associations. | This page |
 | 独立行政法人農林漁業信用基金 (JAFFIC) | National-level credit-insurance / reinsurance body; same JAFFIC parent as agriculture system. | This page |
@@ -124,7 +124,7 @@ Both systems share the same JAFFIC reinsurance parent but operate **separate ins
 - **Not agriculture** — agriculture guarantee-insurance belongs to [[policy-finance/agriculture-credit-guarantee-system]] (sister sector, same JAFFIC parent).
 - **Not ordinary SME guarantees** — ordinary SME guarantees belong to [[policy-finance/japan-credit-guarantee-system]].
 - **Not 森林 (forestry)** — forestry credit support is also under JAFFIC but a separate account.
-- **Not JFC fisheries lending** — JFC's [[JapanFG/jfc|agriculture-forestry-fisheries arm]] lends directly; this page is about guarantee insurance for fisheries borrowing.
+- **Not JFC fisheries lending** — JFC's [[financial-regulators/jfc|agriculture-forestry-fisheries arm]] lends directly; this page is about guarantee insurance for fisheries borrowing.
 
 ## Related
 
@@ -135,8 +135,8 @@ Both systems share the same JAFFIC reinsurance parent but operate **separate ins
 - [[policy-finance/national-federation-credit-guarantee-corporations]]
 - [[banking/jf-marine-bank-system-japan]]
 - [[banking/ja-bank-system-japan]]
-- [[JapanFG/norinchukin]]
-- [[JapanFG/jfc]]
+- [[cooperative-banks/norinchukin]]
+- [[financial-regulators/jfc]]
 - [[policy-finance/hokkaido-credit-guarantee-corp]]
 - [[INDEX|FinWiki index]]
 

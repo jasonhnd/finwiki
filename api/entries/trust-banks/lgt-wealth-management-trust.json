@@ -1,0 +1,80 @@
+{
+  "schema_version": "1.0",
+  "slug": "trust-banks/lgt-wealth-management-trust",
+  "source_path": "trust-banks/lgt-wealth-management-trust.md",
+  "url": "https://finwiki.zksc.io/trust-banks/lgt-wealth-management-trust",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/trust-banks/lgt-wealth-management-trust.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/trust-banks/lgt-wealth-management-trust.md",
+  "domain": "trust-banks",
+  "title": "LGTウェルスマネジメント信託 (LGT Wealth Management Trust)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "LGTウェルスマネジメント信託 (LGT Wealth Management Trust)",
+    "aliases": [
+      "LGT Wealth Management Trust",
+      "LGTウェルスマネジメント信託株式会社",
+      "LGT Japan"
+    ],
+    "domain": "trust-banks",
+    "created": "2026-05-22",
+    "last_updated": "2026-05-22",
+    "last_tended": "2026-05-22",
+    "review_by": "2026-11-22",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "trust-company",
+      "wealth-management",
+      "private-bank",
+      "asset-management"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.xlsx",
+      "https://www.lgt.com/jp-jp/company-information",
+      "https://www.lgt.com/jp-jp/about-us/lgt-in-japan",
+      "https://www.lgt.com/jp-en/company-information"
+    ]
+  },
+  "summary": "LGT Wealth Management Trust is a standalone trust-company route under JapanFG and is promoted from the Japan trust companies registry index. Read it with UBS Japan, SMBC Trust Bank, Mitsubishi UFJ Trust Bank, and Japan trust-bank custody map.",
+  "headings": [
+    "LGTウェルスマネジメント信託 (LGT Wealth Management Trust)",
+    "Wiki route",
+    "Overview",
+    "Entity Boundary",
+    "Business Role Map",
+    "Public Context",
+    "Research Checklist",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 7,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/INDEX",
+      "banking/japan-trust-bank-custody-map",
+      "foreign-financial-institutions/ubs-japan",
+      "trust-banks/mitsubishi-ufj-trust-bank",
+      "trust-banks/smbc-trust-bank",
+      "trust-banks/trust-companies-japan-index"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/banking/japan-trust-bank-custody-map",
+      "https://finwiki.zksc.io/foreign-financial-institutions/ubs-japan",
+      "https://finwiki.zksc.io/trust-banks/mitsubishi-ufj-trust-bank",
+      "https://finwiki.zksc.io/trust-banks/smbc-trust-bank",
+      "https://finwiki.zksc.io/trust-banks/trust-companies-japan-index"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3520,
+    "word_like_tokens": 561,
+    "inbound_wikilinks_count": 4,
+    "last_modified": "2026-06-04"
+  }
+}

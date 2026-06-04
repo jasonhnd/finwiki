@@ -32,7 +32,7 @@ sources:
 
 ## TL;DR
 
-Japan credit-card receivable ABS — issued in modest annual volumes (~JPY 400–700 bn) by [[JapanFG/jcb|JCB]], [[JapanFG/mufg-nicos|Mitsubishi UFJ Nicos]], [[JapanFG/credit-saison|Credit Saison]], [[JapanFG/orico|Orient Corp]], [[JapanFG/aeon-financial-service|AEON Financial Service]], and [[JapanFG/jaccs|JACCS]] — uses a **master-trust framework** in which a single trust structure issues multiple series of senior bonds over time backed by a continuously-replenished pool of card receivables (shopping + revolving + cash-advance balances). Unlike a stand-alone trust, the master trust shares pool dynamics across all outstanding series; each new series gets allocated invested-amount-pro-rata claims on the same revolving pool. The structure features **scheduled controlled-amortization periods** for each series (typically 6–12 months) but with **期間延長 (term extension)** provisions allowing the issuer to push out the scheduled-amortization-start date if pool performance is strong and reinvestment continues to be efficient — a unique Japan-feature borrowed from US-style master trusts (Citi, Capital One, Discover) and adapted to JSDA disclosure conventions. **Early-amortization triggers** (similar to consumer-loan ABS) protect investors by flipping immediate paydown if cumulative charge-off or 90+ day delinquency exceeds thresholds, or if originator events of default occur. Rated by [[structured-finance/credit-rating-methodology-jcr-r-and-i|JCR / R&I]] on most domestic deals; selective S&P / Moody's for cross-border deals (rare).
+Japan credit-card receivable ABS — issued in modest annual volumes (~JPY 400–700 bn) by [[card-issuers/jcb|JCB]], [[card-issuers/mufg-nicos|Mitsubishi UFJ Nicos]], [[card-issuers/credit-saison|Credit Saison]], [[card-issuers/orico|Orient Corp]], [[card-issuers/aeon-financial-service|AEON Financial Service]], and [[card-issuers/jaccs|JACCS]] — uses a **master-trust framework** in which a single trust structure issues multiple series of senior bonds over time backed by a continuously-replenished pool of card receivables (shopping + revolving + cash-advance balances). Unlike a stand-alone trust, the master trust shares pool dynamics across all outstanding series; each new series gets allocated invested-amount-pro-rata claims on the same revolving pool. The structure features **scheduled controlled-amortization periods** for each series (typically 6–12 months) but with **期間延長 (term extension)** provisions allowing the issuer to push out the scheduled-amortization-start date if pool performance is strong and reinvestment continues to be efficient — a unique Japan-feature borrowed from US-style master trusts (Citi, Capital One, Discover) and adapted to JSDA disclosure conventions. **Early-amortization triggers** (similar to consumer-loan ABS) protect investors by flipping immediate paydown if cumulative charge-off or 90+ day delinquency exceeds thresholds, or if originator events of default occur. Rated by [[structured-finance/credit-rating-methodology-jcr-r-and-i|JCR / R&I]] on most domestic deals; selective S&P / Moody's for cross-border deals (rare).
 
 ## Wiki route
 
@@ -42,14 +42,14 @@ This entry sits under [[structured-finance/INDEX|structured-finance index]] as t
 
 | Issuer | Parent | Card brand portfolio | Annual ABS issuance (approx) |
 |---|---|---|---|
-| [[JapanFG/jcb|JCB]] | Independent (cross-shareholding with megabanks) | JCB-branded credit cards (domestic network + international) | JPY 100–200 bn |
-| [[JapanFG/mufg-nicos|Mitsubishi UFJ Nicos]] | MUFG group | MUFG Card, DC Card, NICOS, UFJ Card brands | JPY 80–150 bn |
-| [[JapanFG/credit-saison|Credit Saison]] | Mizuho group affiliate / partly Seibu / partly Mizuho | SAISON Card brands | JPY 100–200 bn |
-| [[JapanFG/orico|Orient Corp]] | Mizuho-Itochu group | Orico Card brands | JPY 50–100 bn |
-| [[JapanFG/aeon-financial-service|AEON Financial Service]] | AEON Group | AEON Card (retailer-affinity) | JPY 50–100 bn (limited public ABS — more bank-line funded) |
-| [[JapanFG/jaccs|JACCS]] | MUFG group | JACCS Card | JPY 30–80 bn |
+| [[card-issuers/jcb|JCB]] | Independent (cross-shareholding with megabanks) | JCB-branded credit cards (domestic network + international) | JPY 100–200 bn |
+| [[card-issuers/mufg-nicos|Mitsubishi UFJ Nicos]] | MUFG group | MUFG Card, DC Card, NICOS, UFJ Card brands | JPY 80–150 bn |
+| [[card-issuers/credit-saison|Credit Saison]] | Mizuho group affiliate / partly Seibu / partly Mizuho | SAISON Card brands | JPY 100–200 bn |
+| [[card-issuers/orico|Orient Corp]] | Mizuho-Itochu group | Orico Card brands | JPY 50–100 bn |
+| [[card-issuers/aeon-financial-service|AEON Financial Service]] | AEON Group | AEON Card (retailer-affinity) | JPY 50–100 bn (limited public ABS — more bank-line funded) |
+| [[card-issuers/jaccs|JACCS]] | MUFG group | JACCS Card | JPY 30–80 bn |
 
-Card-issuer ABS issuance is concentrated in the top three by volume. [[JapanFG/sumitomo-mitsui-card|Sumitomo Mitsui Card]] (SMFG group) historically issued but funds more through SMFG bank lines and parent-bank arrangements. The bank-affiliated card issuers (NICOS, Saison, SMBC Card) generally have access to cheaper parent-bank funding, so ABS is one tool among many rather than the dominant funding channel — unlike US card-receivable ABS where master trusts (Citi, Capital One, Discover, JPM Chase) are core treasury infrastructure.
+Card-issuer ABS issuance is concentrated in the top three by volume. [[card-issuers/sumitomo-mitsui-card|Sumitomo Mitsui Card]] (SMFG group) historically issued but funds more through SMFG bank lines and parent-bank arrangements. The bank-affiliated card issuers (NICOS, Saison, SMBC Card) generally have access to cheaper parent-bank funding, so ABS is one tool among many rather than the dominant funding channel — unlike US card-receivable ABS where master trusts (Citi, Capital One, Discover, JPM Chase) are core treasury infrastructure.
 
 ## 2. The master-trust framework — what it is
 
@@ -84,7 +84,7 @@ Operational risks:
 | **Revolving (リボ払い)** | Cardholder pays fixed monthly amount; balance carries interest | JPY 50K–500K | Moderate default (3.0–6.0% — higher-risk borrower pool) |
 | **Cash advance (キャッシング)** | Direct cash withdrawal up to card limit | JPY 20K–200K | Higher default (5.0–9.0%) |
 
-Pool composition varies by issuer — [[JapanFG/jcb|JCB]]'s pool skews more shopping-installment (lower-default), while [[JapanFG/credit-saison|Credit Saison]] and [[JapanFG/orico|Orient Corp]] have higher revolving / cash-advance shares (higher-default but higher-yield).
+Pool composition varies by issuer — [[card-issuers/jcb|JCB]]'s pool skews more shopping-installment (lower-default), while [[card-issuers/credit-saison|Credit Saison]] and [[card-issuers/orico|Orient Corp]] have higher revolving / cash-advance shares (higher-default but higher-yield).
 
 The **interest-rate ceiling under 利息制限法** (15–20% by loan size) applies to revolving and cash-advance components; shopping installment is treated differently under the Installment Sales Act (割賦販売法).
 
@@ -130,7 +130,7 @@ When a new series is issued from an existing master trust:
 | 3. Rating agencies pre-engagement | JCR / R&I reviews series-specific subordination, triggers, pool performance |
 | 4. Series tranches structured | Senior AAA + mezz AA/A + equity (series-specific subordination) |
 | 5. Allocated invested amount calculated | New series gets pro-rata claim on pool collections |
-| 6. Series sold via megabank securities arms | [[JapanFG/mufg-securities|MUFG MS]], [[JapanFG/smbc-nikko|SMBC Nikko]], [[JapanFG/mizuho-securities|Mizuho Securities]] |
+| 6. Series sold via megabank securities arms | [[securities-firms/mufg-securities|MUFG MS]], [[securities-firms/smbc-nikko|SMBC Nikko]], [[securities-firms/mizuho-securities|Mizuho Securities]] |
 | 7. Series funded; cash to originator | Originator receives proceeds; equity tranche retained |
 | 8. Series enters revolving phase | Begins receiving pro-rata pool collections |
 
@@ -200,8 +200,8 @@ The methodology details are publicly documented in JCR / R&I criteria papers —
 - Whether digital-only / fintech card issuers (Kyash, Revolut Japan, Wise) ever build pool scale to issue master-trust ABS
 - Whether BNPL receivables get integrated into master-trust pools as the product matures
 - The impact of cashless-payments-policy push on overall card-receivable pool growth (vs decline of card spend if QR-codes take share)
-- Whether [[JapanFG/aeon-financial-service|AEON Financial Service]] expands ABS issuance as its retailer-affinity card portfolio matures
-- The role of [[JapanFG/jcb|JCB]] international expansion in driving cross-border card-receivable issuance
+- Whether [[card-issuers/aeon-financial-service|AEON Financial Service]] expands ABS issuance as its retailer-affinity card portfolio matures
+- The role of [[card-issuers/jcb|JCB]] international expansion in driving cross-border card-receivable issuance
 
 ## Related
 
@@ -215,9 +215,9 @@ The methodology details are publicly documented in JCR / R&I criteria papers —
 - [[structured-finance/fitch-moody-sp-japan-criteria|Fitch / Moody's / S&P Japan criteria]]
 - [[structured-finance/spv-tk-gk-vehicle-japan-tax|TK / GK / TMK SPV vehicle]]
 - [[structured-finance/japan-securitization-product-matrix|Japan securitization product matrix]]
-- [[JapanFG/jcb|JCB]] · [[JapanFG/mufg-nicos|MUFG Nicos]] · [[JapanFG/credit-saison|Credit Saison]]
-- [[JapanFG/orico|Orient Corp]] · [[JapanFG/aeon-financial-service|AEON Financial Service]] · [[JapanFG/jaccs|JACCS]]
-- [[JapanFG/bnpl-landscape|BNPL landscape]]
+- [[card-issuers/jcb|JCB]] · [[card-issuers/mufg-nicos|MUFG Nicos]] · [[card-issuers/credit-saison|Credit Saison]]
+- [[card-issuers/orico|Orient Corp]] · [[card-issuers/aeon-financial-service|AEON Financial Service]] · [[card-issuers/jaccs|JACCS]]
+- [[payment-firms/bnpl-landscape|BNPL landscape]]
 - [[payments/INDEX|payments domain]]
 
 ## Sources

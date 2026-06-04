@@ -57,14 +57,8 @@
     "wikilinks_count": 20,
     "wikilinks": [
       "INDEX",
-      "JapanFG/dai-ichi-life",
-      "JapanFG/legal-financial-licenses/insurance-license-and-solvency",
-      "JapanFG/meiji-yasuda",
-      "JapanFG/nippon-life",
-      "JapanFG/sony-fg",
-      "JapanFG/sony-life",
-      "JapanFG/sumitomo-life",
       "finance/japan-listed-financial-groups-investable-universe",
+      "financial-licenses/insurance-license-and-solvency",
       "insurance/INDEX",
       "insurance/economic-value-based-solvency",
       "insurance/esr-economic-value-solvency",
@@ -75,18 +69,18 @@
       "insurance/japan-life-insurance-big-four",
       "insurance/japan-nonlife-big-three",
       "insurance/mutual-vs-stock-life-insurer",
-      "insurance/sony-life-group-life-operating-model"
+      "insurance/sony-life-group-life-operating-model",
+      "life-insurers/dai-ichi-life",
+      "life-insurers/meiji-yasuda",
+      "life-insurers/nippon-life",
+      "life-insurers/sony-life",
+      "life-insurers/sumitomo-life",
+      "megabanks/sony-fg"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/dai-ichi-life",
-      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/insurance-license-and-solvency",
-      "https://finwiki.zksc.io/JapanFG/meiji-yasuda",
-      "https://finwiki.zksc.io/JapanFG/nippon-life",
-      "https://finwiki.zksc.io/JapanFG/sony-fg",
-      "https://finwiki.zksc.io/JapanFG/sony-life",
-      "https://finwiki.zksc.io/JapanFG/sumitomo-life",
       "https://finwiki.zksc.io/finance/japan-listed-financial-groups-investable-universe",
+      "https://finwiki.zksc.io/financial-licenses/insurance-license-and-solvency",
       "https://finwiki.zksc.io/insurance/INDEX",
       "https://finwiki.zksc.io/insurance/economic-value-based-solvency",
       "https://finwiki.zksc.io/insurance/esr-economic-value-solvency",
@@ -97,15 +91,21 @@
       "https://finwiki.zksc.io/insurance/japan-life-insurance-big-four",
       "https://finwiki.zksc.io/insurance/japan-nonlife-big-three",
       "https://finwiki.zksc.io/insurance/mutual-vs-stock-life-insurer",
-      "https://finwiki.zksc.io/insurance/sony-life-group-life-operating-model"
+      "https://finwiki.zksc.io/insurance/sony-life-group-life-operating-model",
+      "https://finwiki.zksc.io/life-insurers/dai-ichi-life",
+      "https://finwiki.zksc.io/life-insurers/meiji-yasuda",
+      "https://finwiki.zksc.io/life-insurers/nippon-life",
+      "https://finwiki.zksc.io/life-insurers/sony-life",
+      "https://finwiki.zksc.io/life-insurers/sumitomo-life",
+      "https://finwiki.zksc.io/megabanks/sony-fg"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 15636,
-    "word_like_tokens": 2482,
-    "inbound_wikilinks_count": 35,
-    "last_modified": "2026-05-29"
+    "nonspace_chars": 15740,
+    "word_like_tokens": 2499,
+    "inbound_wikilinks_count": 36,
+    "last_modified": "2026-06-04"
   }
 }

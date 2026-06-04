@@ -24,7 +24,7 @@ For FinWiki, TSE is the route for listing, public-company disclosure, market seg
 
 | Layer | TSE reading |
 |---|---|
-| Parent | [[JapanFG/japan-exchange-group|Japan Exchange Group]] |
+| Parent | [[financial-regulators/japan-exchange-group|Japan Exchange Group]] |
 | Legal form | Tokyo Stock Exchange, Inc. |
 | Founded | 1949-04-01 |
 | Function | Securities exchange market operation. |
@@ -51,7 +51,7 @@ Use this page when asking:
 
 ## Related
 
-- [[JapanFG/japan-exchange-group]]
+- [[financial-regulators/japan-exchange-group]]
 - [[securities/osaka-exchange]]
 - [[securities/japan-securities-clearing-corp]]
 - [[securities/japan-securities-depository-center]]

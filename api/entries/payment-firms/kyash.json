@@ -1,0 +1,83 @@
+{
+  "schema_version": "1.0",
+  "slug": "payment-firms/kyash",
+  "source_path": "payment-firms/kyash.md",
+  "url": "https://finwiki.zksc.io/payment-firms/kyash",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/payment-firms/kyash.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/payment-firms/kyash.md",
+  "domain": "payment-firms",
+  "title": "Kyash",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Kyash",
+    "aliases": [
+      "Kyash",
+      "株式会社Kyash",
+      "Kyash Money"
+    ],
+    "domain": "payment-firms",
+    "created": "2026-05-21",
+    "last_updated": "2026-05-21",
+    "last_tended": "2026-05-21",
+    "review_by": "2026-11-21",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "payments",
+      "wallet",
+      "prepaid-card",
+      "funds-transfer",
+      "fintech"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.kyash.co/company",
+      "https://www.kyash.co/legal/description-subject-to-psa/psa-transfer",
+      "https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against pring for peer / contrast context and payments index for the broader system / regulatory boundary.",
+  "headings": [
+    "Kyash",
+    "Wiki route",
+    "TL;DR",
+    "1. 法人・ライセンス境界",
+    "2. Business role",
+    "3. Why this standalone page matters",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 9,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "card-issuers/mufg-nicos",
+      "card-issuers/smbc-card",
+      "payment-firms/paypay",
+      "payment-firms/pring",
+      "payment-firms/smartbank",
+      "payments/INDEX",
+      "payments/cashless-jp-landscape",
+      "payments/funds-transfer-vs-prepaid-boundary"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/card-issuers/mufg-nicos",
+      "https://finwiki.zksc.io/card-issuers/smbc-card",
+      "https://finwiki.zksc.io/payment-firms/paypay",
+      "https://finwiki.zksc.io/payment-firms/pring",
+      "https://finwiki.zksc.io/payment-firms/smartbank",
+      "https://finwiki.zksc.io/payments/INDEX",
+      "https://finwiki.zksc.io/payments/cashless-jp-landscape",
+      "https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2041,
+    "word_like_tokens": 329,
+    "inbound_wikilinks_count": 9,
+    "last_modified": "2026-06-04"
+  }
+}

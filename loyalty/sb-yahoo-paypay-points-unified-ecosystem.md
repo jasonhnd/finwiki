@@ -32,7 +32,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[loyalty/INDEX|loyalty index]] as the **wallet-anchored common-point deep page**, complementing the bank-anchored [[loyalty/v-point-smbc-ccc-case|V Point case]], the telco-anchored [[loyalty/d-point-detailed-ecosystem|d Point detailed ecosystem]] and [[loyalty/d-point-au-kddi-docomo-telco-point-consolidation|d Point / au telco-point consolidation case]], the coalition-anchored [[loyalty/ponta-points-deep-dive|Ponta points deep dive]], and the post-merger detail in [[loyalty/t-point-v-point-post-2024-merger|T-Point + V-Point post-2024 merger detail]]. Read with [[loyalty/japan-points-landscape|Japan points and loyalty landscape]] for the ecosystem map, [[loyalty/point-liability-accounting-boundary|point liability accounting boundary]] for the IFRS / J-GAAP treatment, [[payments/japan-code-payment-operator-2025-market-share-matrix|Japan code-payment operator 2025 market share matrix]] for the wallet-layer market position, [[JapanFG/paypay|PayPay]] for the operator entity, [[JapanFG/paypay-fg|PayPay FG]] for the financial-group context, and [[JapanFG/paypay-card|PayPay Card]] for the card-side.
+This entry sits under [[loyalty/INDEX|loyalty index]] as the **wallet-anchored common-point deep page**, complementing the bank-anchored [[loyalty/v-point-smbc-ccc-case|V Point case]], the telco-anchored [[loyalty/d-point-detailed-ecosystem|d Point detailed ecosystem]] and [[loyalty/d-point-au-kddi-docomo-telco-point-consolidation|d Point / au telco-point consolidation case]], the coalition-anchored [[loyalty/ponta-points-deep-dive|Ponta points deep dive]], and the post-merger detail in [[loyalty/t-point-v-point-post-2024-merger|T-Point + V-Point post-2024 merger detail]]. Read with [[loyalty/japan-points-landscape|Japan points and loyalty landscape]] for the ecosystem map, [[loyalty/point-liability-accounting-boundary|point liability accounting boundary]] for the IFRS / J-GAAP treatment, [[payments/japan-code-payment-operator-2025-market-share-matrix|Japan code-payment operator 2025 market share matrix]] for the wallet-layer market position, [[payment-firms/paypay|PayPay]] for the operator entity, [[megabanks/paypay-fg|PayPay FG]] for the financial-group context, and [[card-issuers/paypay-card|PayPay Card]] for the card-side.
 
 ## TL;DR
 
@@ -159,14 +159,14 @@ The strategic intent is to **convert high-frequency PayPay wallet users into hig
 - [[loyalty/ponta-points-deep-dive|Ponta points deep dive]]
 - [[loyalty/japan-points-landscape|Japan points and loyalty landscape]]
 - [[loyalty/point-liability-accounting-boundary|point liability accounting boundary]]
-- [[JapanFG/paypay|PayPay]]
-- [[JapanFG/paypay-fg|PayPay FG]]
-- [[JapanFG/paypay-card|PayPay Card]]
-- [[JapanFG/paypay-securities|PayPay 証券]]
-- [[JapanFG/rakuten-fg|Rakuten FG]]
-- [[JapanFG/ndfg|NDFG]]
-- [[JapanFG/au-fh|au Financial Holdings]]
-- [[JapanFG/smfg|SMFG]]
+- [[payment-firms/paypay|PayPay]]
+- [[megabanks/paypay-fg|PayPay FG]]
+- [[card-issuers/paypay-card|PayPay Card]]
+- [[securities-firms/paypay-securities|PayPay 証券]]
+- [[payment-firms/rakuten-fg|Rakuten FG]]
+- [[megabanks/ndfg|NDFG]]
+- [[megabanks/au-fh|au Financial Holdings]]
+- [[megabanks/smfg|SMFG]]
 - [[payments/japan-code-payment-operator-2025-market-share-matrix|Japan code-payment operator 2025 market share matrix]]
 - [[payments/japan-code-payment-competitive-map|Japan code-payment competitive map]]
 - [[payments/famipay-valucreate-strategy|FamiPay valucreate strategy]]

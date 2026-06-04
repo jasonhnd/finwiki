@@ -13,7 +13,7 @@ translated_at: 2026-06-01T03:31:12.260Z
 
 Japan EC card security is not only "3-D Secure." The useful control stack is: card-data protection -> merchant vulnerability control -> EMV 3-D Secure authentication -> fraud monitoring -> acquirer / PSP / merchant information sharing -> chargeback and remediation.
 
-Use this page with [[payments/japan-card-issuer-acquirer-processor-split|card issuer / acquirer / processor split]], [[payments/card-acquiring-japan-stack|card acquiring stack]], [[payments/psp-merchant-settlement-risk|PSP settlement risk]], [[payments/credit-purchase-card-operators-japan-index|credit / card operator registry]], and [[JapanFG/installment-sales-act-2020-amendment|Installment Sales Act 2020 amendment]].
+Use this page with [[payments/japan-card-issuer-acquirer-processor-split|card issuer / acquirer / processor split]], [[payments/card-acquiring-japan-stack|card acquiring stack]], [[payments/psp-merchant-settlement-risk|PSP settlement risk]], [[payments/credit-purchase-card-operators-japan-index|credit / card operator registry]], and [[card-issuers/installment-sales-act-2020-amendment|Installment Sales Act 2020 amendment]].
 
 ## Guideline Snapshot
 
@@ -83,9 +83,9 @@ Use this page with [[payments/japan-card-issuer-acquirer-processor-split|card is
 
 Card-security analysis is routed through issuer / acquirer / PSP roles rather than through a single "credit card company" label:
 
-- Issuers / acquirers: [[JapanFG/jcb|JCB]], [[JapanFG/smbc-card|SMBC Card]], [[JapanFG/mufg-nicos|MUFG NICOS]], [[JapanFG/rakuten-card|Rakuten Card]], [[JapanFG/paypay-card|PayPay Card]], [[JapanFG/aeon-financial-service|AEON Financial Service]], [[JapanFG/orico|Orico]], [[JapanFG/jaccs|JACCS]], [[JapanFG/credit-saison|Credit Saison]].
-- PSP / gateway: [[JapanFG/gmo-payment-gateway|GMO Payment Gateway]], [[JapanFG/gmo-epsilon|GMO Epsilon]], [[JapanFG/sb-payment-service|SB Payment Service]], [[JapanFG/dg-financial-technology|DGFT]], [[JapanFG/netstars|Netstars]].
-- Legal / registry layer: [[payments/credit-purchase-card-operators-japan-index|credit / card operator registry]] and [[JapanFG/legal-financial-licenses/INDEX|JapanFG legal / financial licenses]].
+- Issuers / acquirers: [[card-issuers/jcb|JCB]], [[card-issuers/smbc-card|SMBC Card]], [[card-issuers/mufg-nicos|MUFG NICOS]], [[card-issuers/rakuten-card|Rakuten Card]], [[card-issuers/paypay-card|PayPay Card]], [[card-issuers/aeon-financial-service|AEON Financial Service]], [[card-issuers/orico|Orico]], [[card-issuers/jaccs|JACCS]], [[card-issuers/credit-saison|Credit Saison]].
+- PSP / gateway: [[payment-firms/gmo-payment-gateway|GMO Payment Gateway]], [[payment-firms/gmo-epsilon|GMO Epsilon]], [[payment-firms/sb-payment-service|SB Payment Service]], [[payment-firms/dg-financial-technology|DGFT]], [[payment-firms/netstars|Netstars]].
+- Legal / registry layer: [[payments/credit-purchase-card-operators-japan-index|credit / card operator registry]] and [[financial-licenses/INDEX|JapanFG legal / financial licenses]].
 
 ## Red Flags For Wiki Research
 
@@ -104,8 +104,8 @@ Card-security analysis is routed through issuer / acquirer / PSP roles rather th
 - [[payments/credit-purchase-card-operators-japan-index]]
 - [[payments/japan-bnpl-credit-purchase-boundary]]
 - [[payments/japan-bank-api-incident-and-fraud-control]]
-- [[JapanFG/installment-sales-act-2020-amendment]]
-- [[JapanFG/jcb]]
+- [[card-issuers/installment-sales-act-2020-amendment]]
+- [[card-issuers/jcb]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

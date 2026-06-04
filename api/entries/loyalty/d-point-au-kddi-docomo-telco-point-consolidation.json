@@ -60,34 +60,34 @@
     "wikilinks_count": 15,
     "wikilinks": [
       "INDEX",
-      "JapanFG/au-fh",
-      "JapanFG/au-insurance",
-      "JapanFG/au-payment",
-      "JapanFG/ndfg",
-      "JapanFG/paypay-fg",
-      "JapanFG/rakuten-fg",
-      "JapanFG/smfg",
       "loyalty/INDEX",
       "loyalty/japan-points-landscape",
       "loyalty/point-liability-accounting-boundary",
       "loyalty/v-point-smbc-ccc-case",
+      "megabanks/au-fh",
+      "megabanks/ndfg",
+      "megabanks/paypay-fg",
+      "megabanks/smfg",
+      "non-life-insurers/au-insurance",
+      "payment-firms/au-payment",
+      "payment-firms/rakuten-fg",
       "payments/japan-code-payment-competitive-map",
       "retail/INDEX",
       "retail/lawson-kddi-retail-finance"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/au-fh",
-      "https://finwiki.zksc.io/JapanFG/au-insurance",
-      "https://finwiki.zksc.io/JapanFG/au-payment",
-      "https://finwiki.zksc.io/JapanFG/ndfg",
-      "https://finwiki.zksc.io/JapanFG/paypay-fg",
-      "https://finwiki.zksc.io/JapanFG/rakuten-fg",
-      "https://finwiki.zksc.io/JapanFG/smfg",
       "https://finwiki.zksc.io/loyalty/INDEX",
       "https://finwiki.zksc.io/loyalty/japan-points-landscape",
       "https://finwiki.zksc.io/loyalty/point-liability-accounting-boundary",
       "https://finwiki.zksc.io/loyalty/v-point-smbc-ccc-case",
+      "https://finwiki.zksc.io/megabanks/au-fh",
+      "https://finwiki.zksc.io/megabanks/ndfg",
+      "https://finwiki.zksc.io/megabanks/paypay-fg",
+      "https://finwiki.zksc.io/megabanks/smfg",
+      "https://finwiki.zksc.io/non-life-insurers/au-insurance",
+      "https://finwiki.zksc.io/payment-firms/au-payment",
+      "https://finwiki.zksc.io/payment-firms/rakuten-fg",
       "https://finwiki.zksc.io/payments/japan-code-payment-competitive-map",
       "https://finwiki.zksc.io/retail/INDEX",
       "https://finwiki.zksc.io/retail/lawson-kddi-retail-finance"
@@ -96,9 +96,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 13481,
-    "word_like_tokens": 2338,
+    "nonspace_chars": 13569,
+    "word_like_tokens": 2349,
     "inbound_wikilinks_count": 12,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-04"
   }
 }

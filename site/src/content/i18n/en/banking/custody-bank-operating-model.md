@@ -12,7 +12,7 @@ translated_at: 2026-05-30T18:10:53.984Z
 
 ## Wiki route
 
-This entry sits under [[banking/INDEX|banking index]]. Read it with the entity anchor [[JapanFG/custody-bank|Custody Bank of Japan (CBJ)]], the operating peer [[banking/master-trust-bank-operating-model|Master Trust Bank operating model]] and entity [[JapanFG/master-trust-bank|MTBJ]], the landscape summary [[banking/japan-master-trust-and-custody-bank-landscape|Japan master trust and custody bank landscape]], and the operating comparison [[banking/trust-bank-custody-operating-comparison|trust-bank custody operating comparison]].
+This entry sits under [[banking/INDEX|banking index]]. Read it with the entity anchor [[trust-banks/custody-bank|Custody Bank of Japan (CBJ)]], the operating peer [[banking/master-trust-bank-operating-model|Master Trust Bank operating model]] and entity [[trust-banks/master-trust-bank|MTBJ]], the landscape summary [[banking/japan-master-trust-and-custody-bank-landscape|Japan master trust and custody bank landscape]], and the operating comparison [[banking/trust-bank-custody-operating-comparison|trust-bank custody operating comparison]].
 
 ## TL;DR
 
@@ -32,16 +32,16 @@ The Custody Bank of Japan (CBJ) is the other half of Japan's two-strong asset-ad
 | Industry body | 信託協会 (Trust Companies Association of Japan) |
 | Functional position | Asset-administration specialist (no loans, no PB, no real-estate trust, no inheritance trust) |
 | Public AUC anchor | Approximately JPY 696tn total assets under custody, including entrusted trust assets and assets held under standing-proxy contracts; trust assets were approximately JPY 476tn as of 2025-03-31 |
-| Peer | [[JapanFG/master-trust-bank|Master Trust Bank of Japan (MTBJ)]] |
+| Peer | [[trust-banks/master-trust-bank|Master Trust Bank of Japan (MTBJ)]] |
 
 ### Shareholder structure (public disclosure, as of 2020-07-27)
 
 | Shareholder | Stake | Reading |
 |---|---|---|
-| [[JapanFG/sumitomo-mitsui-trust|Sumitomo Mitsui Trust Group (SMTH)]] | 33.3% | Lead trust-bank shareholder; provides mandate flow from the SMTB pension / investment-trust client base; legacy JTSB lineage |
-| [[JapanFG/mizuho-fg|Mizuho Financial Group (Mizuho FG)]] | 27.0% | Second trust-bank shareholder via Mizuho Trust; legacy TCSB lineage |
+| [[trust-banks/sumitomo-mitsui-trust|Sumitomo Mitsui Trust Group (SMTH)]] | 33.3% | Lead trust-bank shareholder; provides mandate flow from the SMTB pension / investment-trust client base; legacy JTSB lineage |
+| [[megabanks/mizuho-fg|Mizuho Financial Group (Mizuho FG)]] | 27.0% | Second trust-bank shareholder via Mizuho Trust; legacy TCSB lineage |
 | Resona Bank | 16.7% | Third-largest shareholder; legacy Daiwa / Asahi Trust lineage in the TCSB camp |
-| [[JapanFG/dai-ichi-life|第一生命保険]] | 8.0% | Life-insurer shareholder; provides separate-account custody and corporate-pension mandate flow |
+| [[life-insurers/dai-ichi-life|第一生命保険]] | 8.0% | Life-insurer shareholder; provides separate-account custody and corporate-pension mandate flow |
 | 朝日生命保険 | 5.0% | Life-insurer shareholder (legacy TCSB) |
 | 明治安田生命保険 | 4.5% | Life-insurer shareholder |
 | Japan Post Insurance | 3.5% | Life-insurer shareholder |
@@ -104,7 +104,7 @@ Mizuho / Resona / 生保 lineage
 | Fund accounting / NAV calculation | Daily NAV calculation for 投信 mandates; 投信協会 standards |
 | Corporate actions | Dividend / interest receipt, splits, rights offerings, conversions; foreign-asset CA via global custodian sub-network |
 | Voting operations | Mechanical execution of asset-owner / manager instructions; ICJ electronic-voting forwarding |
-| Sub-custody for foreign assets | Re-routing via [[JapanFG/bny-mellon-japan|BNY Mellon]] / [[JapanFG/state-street-japan|State Street]] / [[JapanFG/jpmorgan-japan|JP Morgan]] / [[JapanFG/citigroup-japan|Citi]] for non-JP assets |
+| Sub-custody for foreign assets | Re-routing via [[foreign-financial-institutions/bny-mellon-japan|BNY Mellon]] / [[foreign-financial-institutions/state-street-japan|State Street]] / [[foreign-financial-institutions/jpmorgan-japan|JP Morgan]] / [[foreign-financial-institutions/citigroup-japan|Citi]] for non-JP assets |
 | Member / participant ops | Pension member balance reporting (DB / DC), benefit-payment ops |
 | Securities-lending support | Lending program admin (when client opts in); collateral posting; recall management |
 
@@ -293,16 +293,16 @@ CBJ (record-name trust-account)
 - [[banking/trust-bank-fee-structure-comparison]]
 - [[banking/pension-trust-mandate-allocation-japan]]
 - [[banking/japan-banking-license-tier-comparison-matrix]]
-- [[JapanFG/custody-bank]]
-- [[JapanFG/master-trust-bank]]
-- [[JapanFG/sumitomo-mitsui-trust]]
-- [[JapanFG/mizuho-trust-bank]]
-- [[JapanFG/mitsubishi-ufj-trust-bank]]
-- [[JapanFG/dai-ichi-life]]
-- [[JapanFG/bny-mellon-japan]]
-- [[JapanFG/state-street-japan]]
-- [[JapanFG/jpmorgan-japan]]
-- [[JapanFG/citigroup-japan]]
+- [[trust-banks/custody-bank]]
+- [[trust-banks/master-trust-bank]]
+- [[trust-banks/sumitomo-mitsui-trust]]
+- [[trust-banks/mizuho-trust-bank]]
+- [[trust-banks/mitsubishi-ufj-trust-bank]]
+- [[life-insurers/dai-ichi-life]]
+- [[foreign-financial-institutions/bny-mellon-japan]]
+- [[foreign-financial-institutions/state-street-japan]]
+- [[foreign-financial-institutions/jpmorgan-japan]]
+- [[foreign-financial-institutions/citigroup-japan]]
 - [[securities/japan-securities-depository-center]]
 - [[securities/japan-securities-clearing-corp]]
 - [[securities/japan-market-infrastructure-map]]

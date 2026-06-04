@@ -62,14 +62,11 @@
     "wikilinks_count": 23,
     "wikilinks": [
       "INDEX",
-      "JapanFG/jcr",
-      "JapanFG/mitsubishi-ufj-trust-bank",
-      "JapanFG/mizuho-bank",
-      "JapanFG/mizuho-trust-bank",
-      "JapanFG/mufg-bank",
-      "JapanFG/rating-and-investment",
-      "JapanFG/sumitomo-mitsui-trust",
       "banking/trust-bank-custody-operating-comparison",
+      "financial-regulators/jcr",
+      "financial-regulators/rating-and-investment",
+      "megabanks/mizuho-bank",
+      "megabanks/mufg-bank",
       "real-estate-finance/INDEX",
       "real-estate-finance/glp-j-reit-3281",
       "real-estate-finance/j-reit-dividend-yield-vs-jgb-spread",
@@ -83,18 +80,18 @@
       "real-estate-finance/nippon-building-fund-j-reit-8951",
       "real-estate-finance/nippon-prologis-reit-3283",
       "real-estate-finance/nomura-real-estate-master-fund-nmf",
-      "real-estate-finance/top-10-j-reit-overview-matrix"
+      "real-estate-finance/top-10-j-reit-overview-matrix",
+      "trust-banks/mitsubishi-ufj-trust-bank",
+      "trust-banks/mizuho-trust-bank",
+      "trust-banks/sumitomo-mitsui-trust"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/jcr",
-      "https://finwiki.zksc.io/JapanFG/mitsubishi-ufj-trust-bank",
-      "https://finwiki.zksc.io/JapanFG/mizuho-bank",
-      "https://finwiki.zksc.io/JapanFG/mizuho-trust-bank",
-      "https://finwiki.zksc.io/JapanFG/mufg-bank",
-      "https://finwiki.zksc.io/JapanFG/rating-and-investment",
-      "https://finwiki.zksc.io/JapanFG/sumitomo-mitsui-trust",
       "https://finwiki.zksc.io/banking/trust-bank-custody-operating-comparison",
+      "https://finwiki.zksc.io/financial-regulators/jcr",
+      "https://finwiki.zksc.io/financial-regulators/rating-and-investment",
+      "https://finwiki.zksc.io/megabanks/mizuho-bank",
+      "https://finwiki.zksc.io/megabanks/mufg-bank",
       "https://finwiki.zksc.io/real-estate-finance/INDEX",
       "https://finwiki.zksc.io/real-estate-finance/glp-j-reit-3281",
       "https://finwiki.zksc.io/real-estate-finance/j-reit-dividend-yield-vs-jgb-spread",
@@ -108,15 +105,18 @@
       "https://finwiki.zksc.io/real-estate-finance/nippon-building-fund-j-reit-8951",
       "https://finwiki.zksc.io/real-estate-finance/nippon-prologis-reit-3283",
       "https://finwiki.zksc.io/real-estate-finance/nomura-real-estate-master-fund-nmf",
-      "https://finwiki.zksc.io/real-estate-finance/top-10-j-reit-overview-matrix"
+      "https://finwiki.zksc.io/real-estate-finance/top-10-j-reit-overview-matrix",
+      "https://finwiki.zksc.io/trust-banks/mitsubishi-ufj-trust-bank",
+      "https://finwiki.zksc.io/trust-banks/mizuho-trust-bank",
+      "https://finwiki.zksc.io/trust-banks/sumitomo-mitsui-trust"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 9059,
-    "word_like_tokens": 1449,
+    "nonspace_chars": 9105,
+    "word_like_tokens": 1454,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-04"
   }
 }

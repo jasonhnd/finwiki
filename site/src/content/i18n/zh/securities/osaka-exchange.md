@@ -23,7 +23,7 @@ Osaka Exchange 是 JPX 的上市衍生品交易所。JPX 官方简介将 OSE 定
 
 | 层级 | OSE 解读 |
 |---|---|
-| 母公司 | [[JapanFG/japan-exchange-group|Japan Exchange Group]] |
+| 母公司 | [[financial-regulators/japan-exchange-group|Japan Exchange Group]] |
 | 法律形式 | Osaka Exchange, Inc. |
 | 成立 | 1949-04-01 |
 | 功能 | 金融衍生品交易所市场运营。 |
@@ -49,7 +49,7 @@ OSE 是 JPX 衍生品雄心集中的地方。其重要性体现在：
 
 ## 相关
 
-- [[JapanFG/japan-exchange-group]]
+- [[financial-regulators/japan-exchange-group]]
 - [[securities/tokyo-stock-exchange]]
 - [[securities/tokyo-commodity-exchange]]
 - [[securities/japan-securities-clearing-corp]]

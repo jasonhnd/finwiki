@@ -60,20 +60,15 @@
   "body_links": {
     "wikilinks_count": 27,
     "wikilinks": [
-      "JapanFG/custody-bank",
-      "JapanFG/jcr",
-      "JapanFG/master-trust-bank",
-      "JapanFG/mitsubishi-ufj-trust-bank",
-      "JapanFG/mizuho-trust-bank",
       "JapanFG/moodys-japan",
-      "JapanFG/rating-and-investment",
       "JapanFG/sp-global-ratings-japan",
-      "JapanFG/sumitomo-mitsui-trust",
       "banking/INDEX",
       "banking/japan-master-trust-and-custody-bank-landscape",
       "banking/master-trust-bank-operating-model",
       "banking/trust-bank-custody-operating-comparison",
       "finance/INDEX",
+      "financial-regulators/jcr",
+      "financial-regulators/rating-and-investment",
       "insurance/INDEX",
       "insurance/japan-life-insurance-alm-overview",
       "policy-finance/INDEX",
@@ -86,23 +81,23 @@
       "real-estate-finance/private-reit-japan-vs-listed-j-reit-comparison",
       "real-estate-finance/real-estate-bridge-fund-japan",
       "real-estate-finance/top-10-j-reit-overview-matrix",
-      "securities/japan-securities-depository-center"
+      "securities/japan-securities-depository-center",
+      "trust-banks/custody-bank",
+      "trust-banks/master-trust-bank",
+      "trust-banks/mitsubishi-ufj-trust-bank",
+      "trust-banks/mizuho-trust-bank",
+      "trust-banks/sumitomo-mitsui-trust"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/custody-bank",
-      "https://finwiki.zksc.io/JapanFG/jcr",
-      "https://finwiki.zksc.io/JapanFG/master-trust-bank",
-      "https://finwiki.zksc.io/JapanFG/mitsubishi-ufj-trust-bank",
-      "https://finwiki.zksc.io/JapanFG/mizuho-trust-bank",
       "https://finwiki.zksc.io/JapanFG/moodys-japan",
-      "https://finwiki.zksc.io/JapanFG/rating-and-investment",
       "https://finwiki.zksc.io/JapanFG/sp-global-ratings-japan",
-      "https://finwiki.zksc.io/JapanFG/sumitomo-mitsui-trust",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/japan-master-trust-and-custody-bank-landscape",
       "https://finwiki.zksc.io/banking/master-trust-bank-operating-model",
       "https://finwiki.zksc.io/banking/trust-bank-custody-operating-comparison",
       "https://finwiki.zksc.io/finance/INDEX",
+      "https://finwiki.zksc.io/financial-regulators/jcr",
+      "https://finwiki.zksc.io/financial-regulators/rating-and-investment",
       "https://finwiki.zksc.io/insurance/INDEX",
       "https://finwiki.zksc.io/insurance/japan-life-insurance-alm-overview",
       "https://finwiki.zksc.io/policy-finance/INDEX",
@@ -115,15 +110,20 @@
       "https://finwiki.zksc.io/real-estate-finance/private-reit-japan-vs-listed-j-reit-comparison",
       "https://finwiki.zksc.io/real-estate-finance/real-estate-bridge-fund-japan",
       "https://finwiki.zksc.io/real-estate-finance/top-10-j-reit-overview-matrix",
-      "https://finwiki.zksc.io/securities/japan-securities-depository-center"
+      "https://finwiki.zksc.io/securities/japan-securities-depository-center",
+      "https://finwiki.zksc.io/trust-banks/custody-bank",
+      "https://finwiki.zksc.io/trust-banks/master-trust-bank",
+      "https://finwiki.zksc.io/trust-banks/mitsubishi-ufj-trust-bank",
+      "https://finwiki.zksc.io/trust-banks/mizuho-trust-bank",
+      "https://finwiki.zksc.io/trust-banks/sumitomo-mitsui-trust"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 14051,
-    "word_like_tokens": 2360,
+    "nonspace_chars": 14139,
+    "word_like_tokens": 2373,
     "inbound_wikilinks_count": 6,
-    "last_modified": "2026-06-02"
+    "last_modified": "2026-06-04"
   }
 }

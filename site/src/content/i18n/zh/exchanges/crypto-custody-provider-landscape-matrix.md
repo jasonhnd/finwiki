@@ -16,7 +16,7 @@ translated_at: 2026-05-31T03:19:56.426Z
 
 ## Wiki route
 
-This entry sits under [[exchanges/INDEX|exchanges index]]. It is the **提供商轴 (vendor-axis)** counterpart to [[exchanges/jp-institutional-custody-three-pillars|JP 国内 3 強]] 与 [[exchanges/global-institutional-custody-five-pillars|グローバル 5 本柱]] 的合成。技术深入参见 [[exchanges/cex-matching-engine-wallet-architecture|CEX matching engine / wallet architecture]] 与 [[exchanges/jp-vasp-cold-storage-segregation-rules|JP VASP cold storage 分別管理]]。监管边界参见 [[exchanges/jp-vasp-security-audit-certification|JP VASP セキュリティ監査・認証]] / [[exchanges/global-vasp-regulatory-comparison-matrix|グローバル VASP 8 極比較]]。Big Bank 侧以 [[JapanFG/bny-mellon-japan|BNY メロン日本]] / [[JapanFG/state-street-japan|State Street Japan]] 为 anchor。
+This entry sits under [[exchanges/INDEX|exchanges index]]. It is the **提供商轴 (vendor-axis)** counterpart to [[exchanges/jp-institutional-custody-three-pillars|JP 国内 3 強]] 与 [[exchanges/global-institutional-custody-five-pillars|グローバル 5 本柱]] 的合成。技术深入参见 [[exchanges/cex-matching-engine-wallet-architecture|CEX matching engine / wallet architecture]] 与 [[exchanges/jp-vasp-cold-storage-segregation-rules|JP VASP cold storage 分別管理]]。监管边界参见 [[exchanges/jp-vasp-security-audit-certification|JP VASP セキュリティ監査・認証]] / [[exchanges/global-vasp-regulatory-comparison-matrix|グローバル VASP 8 極比較]]。Big Bank 侧以 [[foreign-financial-institutions/bny-mellon-japan|BNY メロン日本]] / [[foreign-financial-institutions/state-street-japan|State Street Japan]] 为 anchor。
 
 ## Why this matrix matters
 
@@ -106,7 +106,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. It is the **提供商
 #### C1. BNY Mellon Digital Asset Custody
 - **母公司**: The Bank of New York Mellon Corporation (NYSE: BK) = **全球最大的托管银行** (AUC/A $50T+)
 - **数字资产 custody**: 2022-10 启动 Crypto Custody Platform、面向美国机构
-- **日本据点**: [[JapanFG/bny-mellon-japan|BNY メロン信託銀行]] + 纽约梅隆银行东京分行 + BNY 梅隆资产管理日本
+- **日本据点**: [[foreign-financial-institutions/bny-mellon-japan|BNY メロン信託銀行]] + 纽约梅隆银行东京分行 + BNY 梅隆资产管理日本
 - **日本数字资产事业**: 国内未运营 (美国 BNY Mellon 的 crypto custody 以面向机构的 Bitcoin / Ether 为中心，对日本机构的直接提供有限)
 - **客户**: 美国养老金・财团・SWF + Fireblocks 共同出资 (2021-03)
 - **战略**: 纯批发外资 + GPIF・大型养老金的海外资产托管这一全球分工
@@ -114,10 +114,10 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. It is the **提供商
 #### C2. State Street Digital Asset Custody
 - **母公司**: State Street Corporation (NYSE: STT) = **全球第 2 位 托管银行** (AUC/A 约 49-53 兆 美元)
 - **数字资产 custody**: 2021-06 设立 State Street Digital 部门、面向机构
-- **日本据点**: [[JapanFG/state-street-japan|State Street Japan]] = 道富信托银行 + 东京分行 + SSGA (SPDR ETF 运营方) + Charles River Development
+- **日本据点**: [[foreign-financial-institutions/state-street-japan|State Street Japan]] = 道富信托银行 + 东京分行 + SSGA (SPDR ETF 运营方) + Charles River Development
 - **日本数字资产事业**: 国内未运营 (美国 State Street 的 crypto custody 面向机构，对日本机构的直接提供有限)
 - **客户**: GPIF・大型养老金・SPDR 系 ETF 受托
-- **战略**: 纯批发外资 + 相对于 master trust ([[JapanFG/master-trust-bank|master-trust-bank]]) 专注国内信托，State Street 则承担 GPIF・大型养老金的海外资产托管
+- **战略**: 纯批发外资 + 相对于 master trust ([[trust-banks/master-trust-bank|master-trust-bank]]) 专注国内信托，State Street 则承担 GPIF・大型养老金的海外资产托管
 
 ### D. 其他 Qualified Custodian + 国内特殊托管
 
@@ -149,7 +149,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. It is the **提供商
 | **SLA / uptime** | 未公开 (B2B 合约基准) | 99.95%+ (面向机构公开) | 99.99% (全球金融机构 SLA) | 99.95%+ (ETF 托管 SLA) | 99.95%+ | 99.95%+ | 99.95%+ | 银行 SLA (24/7) | 银行 SLA (24/7) | 99.95%+ | bitFlyer SLA |
 | **保险覆盖** | 国内损害保险 + SOC 2 认证 | 经由 Lloyd's of London 的定制方案 | $30M+ (Marsh 中介) | Lloyd's of London + Aon insurance | Lloyd's of London | $1B (Aon insurance, 业界最大级) | $250M Lloyd's | BNY 银行保险方案 | State Street 银行保险方案 | Lloyd's | JVCEA 自律监管 + bitFlyer 保险 |
 | **监管层级** | 无 FSA 登记 (B2B vendor) | Jersey JFSC + UK FCA + UAE VARA + Italy OAM | 美国信托 (Fireblocks Trust Company 2024-) + MiCA | NY DFS Trust Charter | MA Trust + NY DFS | **OCC Federal Trust Bank** (美国唯一) | SD State Trust + multi-state + HK | NY DFS Trust (BNY Mellon) | MA State Trust + NY DFS (State Street) | NY DFS Trust | FSA 加密资产交换业 |
-| **日本牌照** | (B2B 不需要) | 未登记 (无日本据点) | 未登记 (有据点 5 名) | 加密资产交换业 (Coinbase Japan dormant) | 未进入据点 | 无据点 (仅 API) | 经由三井物产 MDC 间接 | [[JapanFG/bny-mellon-japan|BNY メロン信託銀行]] + 东京分行 (数字资产事业国内未运营) | [[JapanFG/state-street-japan|ステート・ストリート信託銀行]] + 东京分行 (数字资产事业国内未运营) | 无据点 | FSA 加密资产交换业 |
+| **日本牌照** | (B2B 不需要) | 未登记 (无日本据点) | 未登记 (有据点 5 名) | 加密资产交换业 (Coinbase Japan dormant) | 未进入据点 | 无据点 (仅 API) | 经由三井物产 MDC 间接 | [[foreign-financial-institutions/bny-mellon-japan|BNY メロン信託銀行]] + 东京分行 (数字资产事业国内未运营) | [[foreign-financial-institutions/state-street-japan|ステート・ストリート信託銀行]] + 东京分行 (数字资产事业国内未运营) | 无据点 | FSA 加密资产交换业 |
 | **计费模型** | 许可 + per-tx | 月费 + AUM 基准 | Subscription | AUM + per-tx | AUM 基准 | AUM + per-tx | AUM + per-tx + 月费 | 银行托管收费体系 | 银行托管收费体系 | AUM + per-tx | bitFlyer 计费 |
 | **AUC/AUM (概算)** | 未公开 | 未公开 | $10T+ 累计交易量 (550M 钱包) | $200B+ | 未公开 | 未公开 | 未公开 | (parent BK = $50T total) | (parent STT = $49-53T total) | 未公开 | bitFlyer 内 |
 | **设立国** | 日本 | Jersey (英属领) | 美国 (R&D 以色列) | 美国 | 美国 | 美国 | 美国 | 美国 | 美国 | 美国 | 日本 |
@@ -285,8 +285,8 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. It is the **提供商
 - [[exchanges/jp-custody-fireblocks-japan|Fireblocks Japan 詳細]]
 - [[exchanges/jp-vasp-cold-storage-segregation-rules|JP VASP cold storage 分別管理ルール]]
 - [[exchanges/jp-vasp-security-audit-certification|JP VASP セキュリティ監査・認証]]
-- [[JapanFG/state-street-japan|State Street Japan]]
-- [[JapanFG/bny-mellon-japan|BNY メロン日本]]
+- [[foreign-financial-institutions/state-street-japan|State Street Japan]]
+- [[foreign-financial-institutions/bny-mellon-japan|BNY メロン日本]]
 - [[exchanges/cex-matching-engine-wallet-architecture|CEX matching engine / wallet architecture]]
 - [[exchanges/global-vasp-regulatory-comparison-matrix|グローバル VASP 規制 8 極比較]]
 - [[exchanges/global-cex-top10-comparison|グローバル CEX top 10]]

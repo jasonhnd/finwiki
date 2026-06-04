@@ -1,0 +1,96 @@
+{
+  "schema_version": "1.0",
+  "slug": "financial-regulators/boj",
+  "source_path": "financial-regulators/boj.md",
+  "url": "https://finwiki.zksc.io/financial-regulators/boj",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/financial-regulators/boj.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/financial-regulators/boj.md",
+  "domain": "financial-regulators",
+  "title": "日本銀行 (BoJ)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "日本銀行 (BoJ)",
+    "aliases": [
+      "BoJ",
+      "Bank of Japan",
+      "日銀",
+      "日本銀行",
+      "8301"
+    ],
+    "domain": "financial-regulators",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "central-bank",
+      "monetary-policy",
+      "banker-of-banks",
+      "government-banker"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: 日本銀行 (2026-05-25 抽出)",
+      "日本銀行 公式サイト (https://www.boj.or.jp/, 2026-05-25 参照)",
+      "日本銀行法 (平成 9 年法律第 89 号)"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 金融庁 for the regulatory counterpart, 預金保険機構 for the safety-net peer, and BoJ 金融政策 / BoJ 金融市場局 for internal organs.",
+  "headings": [
+    "日本銀行 (BoJ)",
+    "Wiki route",
+    "TL;DR",
+    "1. 法的根拠・設立",
+    "出資構造",
+    "重要年表",
+    "1) 通貨発行",
+    "2) 金融政策（→ 詳細）",
+    "3) 銀行の銀行（→ 金融機構局）",
+    "4) 政府の銀行"
+  ],
+  "body_links": {
+    "wikilinks_count": 14,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "financial-regulators/boj-financial-markets-dept",
+      "financial-regulators/boj-financial-system-dept",
+      "financial-regulators/boj-international-dept",
+      "financial-regulators/boj-monetary-policy",
+      "financial-regulators/boj-payment-settlement-dept",
+      "financial-regulators/dic",
+      "financial-regulators/fsa",
+      "megabanks/mizuho-bank",
+      "megabanks/mufg-bank",
+      "megabanks/smbc",
+      "regional-banks/japan-post-bank",
+      "systems/bojnet",
+      "systems/zengin"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/financial-regulators/boj-financial-markets-dept",
+      "https://finwiki.zksc.io/financial-regulators/boj-financial-system-dept",
+      "https://finwiki.zksc.io/financial-regulators/boj-international-dept",
+      "https://finwiki.zksc.io/financial-regulators/boj-monetary-policy",
+      "https://finwiki.zksc.io/financial-regulators/boj-payment-settlement-dept",
+      "https://finwiki.zksc.io/financial-regulators/dic",
+      "https://finwiki.zksc.io/financial-regulators/fsa",
+      "https://finwiki.zksc.io/megabanks/mizuho-bank",
+      "https://finwiki.zksc.io/megabanks/mufg-bank",
+      "https://finwiki.zksc.io/megabanks/smbc",
+      "https://finwiki.zksc.io/regional-banks/japan-post-bank",
+      "https://finwiki.zksc.io/systems/bojnet",
+      "https://finwiki.zksc.io/systems/zengin"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 4490,
+    "word_like_tokens": 758,
+    "inbound_wikilinks_count": 13,
+    "last_modified": "2026-06-04"
+  }
+}

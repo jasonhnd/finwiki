@@ -12,11 +12,11 @@ translated_at: 2026-06-02T11:47:37.309Z
 
 ## ウィキ上の位置づけ
 
-このエントリは [[banking/INDEX|banking index]] の下に位置し、日本のステーブルコイン／電子決済手段(EPI)規制アーキテクチャの銀行側ペリメータ視点である。フィンテック側のペリメータ視点については [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造]] と、プラットフォームアンカー [[JapanFG/progmat|Progmat]] および発行体アンカー [[JapanFG/jpyc|JPYC]] · [[exchanges/jp-exchange-sbi-vc-trade|SBI VC Trade USDC distribution]] と、[[fintech/jp-stablecoin-progmat|jp-stablecoin-progmat detailed]] · [[fintech/jp-trust-type-sc-architecture|jp trust-type SC architecture]] · [[fintech/jp-stablecoin-dcjpy|jp-stablecoin-dcjpy]] · [[fintech/japan-stablecoin-2026-event-tracker|Japan stablecoin 2026 event tracker]] · [[fintech/japan-epi-three-types-overview|Japan EPI three types overview]] · [[fintech/japan-epi-four-camps-comparison|Japan EPI four camps comparison]] · [[fintech/institutional-stablecoin-deposit-token-thesis|institutional stablecoin deposit-token thesis]] と、BaaS フレームワーク [[banking/baas-japan-landscape|BaaS Japan landscape]] · [[banking/japan-baas-operating-models|Japan BaaS operating models]] とともに読むこと。ライセンススタックのコンテキストについては [[JapanFG/legal-financial-licenses/payment-license-stack|payment license stack]] · [[JapanFG/legal-financial-licenses/bank-license-and-baas-boundary|bank license / BaaS boundary]] を経由する。
+このエントリは [[banking/INDEX|banking index]] の下に位置し、日本のステーブルコイン／電子決済手段(EPI)規制アーキテクチャの銀行側ペリメータ視点である。フィンテック側のペリメータ視点については [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造]] と、プラットフォームアンカー [[payment-firms/progmat|Progmat]] および発行体アンカー [[payment-firms/jpyc|JPYC]] · [[exchanges/jp-exchange-sbi-vc-trade|SBI VC Trade USDC distribution]] と、[[fintech/jp-stablecoin-progmat|jp-stablecoin-progmat detailed]] · [[fintech/jp-trust-type-sc-architecture|jp trust-type SC architecture]] · [[fintech/jp-stablecoin-dcjpy|jp-stablecoin-dcjpy]] · [[fintech/japan-stablecoin-2026-event-tracker|Japan stablecoin 2026 event tracker]] · [[fintech/japan-epi-three-types-overview|Japan EPI three types overview]] · [[fintech/japan-epi-four-camps-comparison|Japan EPI four camps comparison]] · [[fintech/institutional-stablecoin-deposit-token-thesis|institutional stablecoin deposit-token thesis]] と、BaaS フレームワーク [[banking/baas-japan-landscape|BaaS Japan landscape]] · [[banking/japan-baas-operating-models|Japan BaaS operating models]] とともに読むこと。ライセンススタックのコンテキストについては [[financial-licenses/payment-license-stack|payment license stack]] · [[financial-licenses/bank-license-and-baas-boundary|bank license / BaaS boundary]] を経由する。
 
 ## 要約
 
-**2025年**までに、銀行発行のデジタルマネーに対する日本の規制ペリメータは、改正資金決済法フレームワークのもとで3層アーキテクチャに固まった:(1)標準的な銀行法の預金負債レジームのもとで**銀行**が発行する**預金トークン**、(2)3つの発行体タイプ — 銀行(預金型 EPI)、資金移動業(資金移動型 EPI)、信託(信託型 EPI)— を認める新しい改正資金決済法レジームのもとで発行され、別個の**電子決済手段等取引業者**(EPI サービスプロバイダー)ライセンスによって流通される**ステーブルコイン／電子決済手段(電子決済手段)**、そして(3)同じ EPI サービスプロバイダーライセンスを通じてのみ日本で流通される**非発行の外国ステーブルコイン**(USDC など)。銀行側ペリメータには3つの具体的な帰結がある:(a)銀行のみが預金型 EPI を銀行預金担保のトークンとして発行できる;(b)信託銀行(信託兼営銀行)のみが [[JapanFG/progmat|Progmat]] のようなプラットフォーム下で信託型ステーブルコインの発行体になれる;(c)銀行による BaaS パートナーチャネル流通は、現在、異なるライセンススタック下の別個のステーブルコイン流通チャネルと共存する。**MUFG の Progmat プラットフォーム**(2023-10年以降の独立会社)は信託型 SC のための機関投資家向けレールを提供する;**JPYC** は資金移動業ベースの JPY SC を運営する;**SBI VC Trade** は唯一の登録外国 SC 流通業者(USDC)である。地方銀行のパイロットは出現しつつあるが、2025 の移行時点では運用上限定的である:北國銀行の預金型ステーブルコイン「トチカ」(トークン化された預金)が日本初のそうした商品として2024-04-01にローンチし、ゆうちょ銀行は DeCurret DCP を介したトークン化預金の取り扱いを FY2026を目標として発表した。
+**2025年**までに、銀行発行のデジタルマネーに対する日本の規制ペリメータは、改正資金決済法フレームワークのもとで3層アーキテクチャに固まった:(1)標準的な銀行法の預金負債レジームのもとで**銀行**が発行する**預金トークン**、(2)3つの発行体タイプ — 銀行(預金型 EPI)、資金移動業(資金移動型 EPI)、信託(信託型 EPI)— を認める新しい改正資金決済法レジームのもとで発行され、別個の**電子決済手段等取引業者**(EPI サービスプロバイダー)ライセンスによって流通される**ステーブルコイン／電子決済手段(電子決済手段)**、そして(3)同じ EPI サービスプロバイダーライセンスを通じてのみ日本で流通される**非発行の外国ステーブルコイン**(USDC など)。銀行側ペリメータには3つの具体的な帰結がある:(a)銀行のみが預金型 EPI を銀行預金担保のトークンとして発行できる;(b)信託銀行(信託兼営銀行)のみが [[payment-firms/progmat|Progmat]] のようなプラットフォーム下で信託型ステーブルコインの発行体になれる;(c)銀行による BaaS パートナーチャネル流通は、現在、異なるライセンススタック下の別個のステーブルコイン流通チャネルと共存する。**MUFG の Progmat プラットフォーム**(2023-10年以降の独立会社)は信託型 SC のための機関投資家向けレールを提供する;**JPYC** は資金移動業ベースの JPY SC を運営する;**SBI VC Trade** は唯一の登録外国 SC 流通業者(USDC)である。地方銀行のパイロットは出現しつつあるが、2025 の移行時点では運用上限定的である:北國銀行の預金型ステーブルコイン「トチカ」(トークン化された預金)が日本初のそうした商品として2024-04-01にローンチし、ゆうちょ銀行は DeCurret DCP を介したトークン化預金の取り扱いを FY2026を目標として発表した。
 
 ## 1. 3層ペリメータ
 
@@ -49,7 +49,7 @@ translated_at: 2026-06-02T11:47:37.309Z
 
 ### 信託型 EPI(信託型) — 機関投資家プラットフォームのレーン
 
-**信託型 SC** は信託構造を使用する:信託銀行(信託兼営銀行)が発行体として機能する;裏付け資産(複数の銀行の JPY 預金、JGB など)は信託にある;プラットフォームプロバイダーが技術レールを手配する;機関投資家および法人ユーザーがトークンを保有し取引する。[[JapanFG/progmat|Progmat]] プラットフォームが主要な例である。
+**信託型 SC** は信託構造を使用する:信託銀行(信託兼営銀行)が発行体として機能する;裏付け資産(複数の銀行の JPY 預金、JGB など)は信託にある;プラットフォームプロバイダーが技術レールを手配する;機関投資家および法人ユーザーがトークンを保有し取引する。[[payment-firms/progmat|Progmat]] プラットフォームが主要な例である。
 
 | 銀行にとっての利点 | 銀行にとっての欠点 |
 |---|---|
@@ -62,8 +62,8 @@ translated_at: 2026-06-02T11:47:37.309Z
 | トークン | 裏付け形式 | 発行体 | プラットフォーム | 流通 | 規制レイヤー |
 |---|---|---|---|---|---|
 | **DCJPY**(預金トークン) | 銀行預金負債 | 参加銀行(マルチバンクパイロット) | DeCurret DCP | 限定的／パイロット | 銀行法 標準 |
-| **Progmat Coin(計画中の信託型 SC)** | 信託保有の JPY 資産 | [[JapanFG/mitsubishi-ufj-trust-bank|三菱UFJ信託銀行]] およびその他の参加信託銀行 | [[JapanFG/progmat|Progmat]] | 銀行および非銀行の EPI 流通業者 | 改正資金決済法 信託型 EPI |
-| **JPYC** | 資金移動業 — 資金移動業の資金管理ルール下で保持される裏付け | [[JapanFG/jpyc|JPYC株式会社]] | 自社インフラ | 直接 + 暗号資産取引所 | 改正資金決済法 資金移動型 EPI |
+| **Progmat Coin(計画中の信託型 SC)** | 信託保有の JPY 資産 | [[trust-banks/mitsubishi-ufj-trust-bank|三菱UFJ信託銀行]] およびその他の参加信託銀行 | [[payment-firms/progmat|Progmat]] | 銀行および非銀行の EPI 流通業者 | 改正資金決済法 信託型 EPI |
+| **JPYC** | 資金移動業 — 資金移動業の資金管理ルール下で保持される裏付け | [[payment-firms/jpyc|JPYC株式会社]] | 自社インフラ | 直接 + 暗号資産取引所 | 改正資金決済法 資金移動型 EPI |
 | **USDC(外国 SC、日本で流通)** | Circle 準備 | Circle(米国発行体) | (外国発行体インフラ) | [[exchanges/jp-exchange-sbi-vc-trade|SBI VC Trade]] — 2025–2026 サイクル時点で USDC の唯一の登録 EPI 流通業者 | 改正資金決済法 電子決済手段等取引業(流通側のみ) |
 
 ### なぜプラットフォームプロバイダー ≠ 発行体なのか
@@ -102,8 +102,8 @@ translated_at: 2026-06-02T11:47:37.309Z
 
 | 陣営 | 主要運営者 | 法形式 | カバレッジ |
 |---|---|---|---|
-| 信託型／機関投資家 | [[JapanFG/progmat|Progmat]] プラットフォーム + 参加信託銀行 | 信託型 EPI | 機関投資家、法人、銀行間決済 |
-| 資金移動型／リテール JPY | [[JapanFG/jpyc|JPYC]] | 資金移動型 EPI | リテール JPY SC、暗号資産取引所流通 |
+| 信託型／機関投資家 | [[payment-firms/progmat|Progmat]] プラットフォーム + 参加信託銀行 | 信託型 EPI | 機関投資家、法人、銀行間決済 |
+| 資金移動型／リテール JPY | [[payment-firms/jpyc|JPYC]] | 資金移動型 EPI | リテール JPY SC、暗号資産取引所流通 |
 | 外国 SC 流通 | [[exchanges/jp-exchange-sbi-vc-trade|SBI VC Trade]](USDC 流通業者) | 電子決済手段等取引業(流通のみ) | Circle の USDC の日本ユーザーへの流通 |
 | 預金トークン(銀行レール) | DCJPY(DeCurret + 参加銀行) | 銀行法 標準預金負債 | 銀行間決済、法人トレジャリー |
 
@@ -121,14 +121,14 @@ translated_at: 2026-06-02T11:47:37.309Z
 - [[banking/japan-net-bank-competition-map]]
 - [[banking/post-megabank-positioning]]
 - [[JapanFG/INDEX]]
-- [[JapanFG/progmat]]
-- [[JapanFG/jpyc]]
-- [[JapanFG/mufg]]
-- [[JapanFG/mitsubishi-ufj-trust-bank]]
-- [[JapanFG/sumitomo-mitsui-trust]]
-- [[JapanFG/mizuho-trust-bank]]
-- [[JapanFG/legal-financial-licenses/payment-license-stack]]
-- [[JapanFG/legal-financial-licenses/bank-license-and-baas-boundary]]
+- [[payment-firms/progmat]]
+- [[payment-firms/jpyc]]
+- [[megabanks/mufg]]
+- [[trust-banks/mitsubishi-ufj-trust-bank]]
+- [[trust-banks/sumitomo-mitsui-trust]]
+- [[trust-banks/mizuho-trust-bank]]
+- [[financial-licenses/payment-license-stack]]
+- [[financial-licenses/bank-license-and-baas-boundary]]
 - [[fintech/japan-stablecoin-regulatory-landscape]]
 - [[fintech/jp-stablecoin-progmat]]
 - [[fintech/jp-trust-type-sc-architecture]]

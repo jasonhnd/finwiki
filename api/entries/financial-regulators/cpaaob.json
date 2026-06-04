@@ -1,0 +1,99 @@
+{
+  "schema_version": "1.0",
+  "slug": "financial-regulators/cpaaob",
+  "source_path": "financial-regulators/cpaaob.md",
+  "url": "https://finwiki.zksc.io/financial-regulators/cpaaob",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/financial-regulators/cpaaob.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/financial-regulators/cpaaob.md",
+  "domain": "financial-regulators",
+  "title": "公認会計士・監査審査会 (CPAAOB)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "公認会計士・監査審査会 (CPAAOB)",
+    "aliases": [
+      "financial-regulators/cpaaob",
+      "cpaaob",
+      "CPAAOB",
+      "公認会計士・監査審査会",
+      "Certified Public Accountants and Auditing Oversight Board",
+      "監査審査会"
+    ],
+    "domain": "financial-regulators",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "regulator",
+      "FSA",
+      "affiliated-body",
+      "audit",
+      "accounting",
+      "oversight"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/cpaaob/",
+      "https://www.fsa.go.jp/cpaaob/english/index.html",
+      "https://www.fsa.go.jp/cpaaob/kikaku/index.html",
+      "https://www.fsa.go.jp/cpaaob/kensa/index.html",
+      "金融庁 新日本有限責任監査法人 行政処分 (2015-12-22) — https://www.fsa.go.jp/news/27/sonota/20151222-4.html",
+      "金融庁 新日本有限責任監査法人 課徴金納付命令 (約21億円) — https://www.fsa.go.jp/news/27/syouken/20160122-4.html",
+      "中央青山監査法人 / みすず監査法人 (カネボウ事件・2006業務停止・解散) — https://ja.wikipedia.org/wiki/みすず監査法人"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it alongside FSA 監督局 and FSA 検査局 (historical) for the supervisory boundary, and against FSA 総合政策局 / FSA 企画市場局 for the rule-making and policy interfaces. For the audit-firm side, anchor through EY 新日本 · トーマツ · KPMG あずさ · PwC あらた (Big 4) and 太陽グラントソントン · BDO 三",
+  "headings": [
+    "公認会計士・監査審査会 (CPAAOB)",
+    "Wiki route",
+    "1. 法的位置づけ",
+    "2.1 公認会計士試験 (CPA Examination)",
+    "2.2 監査法人・公認会計士検査 (Audit Firm Inspection)",
+    "2.3 監査品質管理レビュー (Quality Control Review)",
+    "2.4 国際連携",
+    "3. 検査結果の処分との連動",
+    "4. JICPA との役割分担",
+    "5. ガバナンス上の位置"
+  ],
+  "body_links": {
+    "wikilinks_count": 12,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "financial-licenses/INDEX",
+      "financial-regulators/bdo-sanyu",
+      "financial-regulators/deloitte-touche-tohmatsu",
+      "financial-regulators/ey-shinnihon",
+      "financial-regulators/fsa-inspection-bureau",
+      "financial-regulators/fsa-planning-coordination-bureau",
+      "financial-regulators/fsa-strategy-bureau",
+      "financial-regulators/fsa-supervision-bureau",
+      "financial-regulators/kpmg-azsa",
+      "financial-regulators/pwc-aarata",
+      "financial-regulators/taiyo-grant-thornton"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/financial-licenses/INDEX",
+      "https://finwiki.zksc.io/financial-regulators/bdo-sanyu",
+      "https://finwiki.zksc.io/financial-regulators/deloitte-touche-tohmatsu",
+      "https://finwiki.zksc.io/financial-regulators/ey-shinnihon",
+      "https://finwiki.zksc.io/financial-regulators/fsa-inspection-bureau",
+      "https://finwiki.zksc.io/financial-regulators/fsa-planning-coordination-bureau",
+      "https://finwiki.zksc.io/financial-regulators/fsa-strategy-bureau",
+      "https://finwiki.zksc.io/financial-regulators/fsa-supervision-bureau",
+      "https://finwiki.zksc.io/financial-regulators/kpmg-azsa",
+      "https://finwiki.zksc.io/financial-regulators/pwc-aarata",
+      "https://finwiki.zksc.io/financial-regulators/taiyo-grant-thornton"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 4733,
+    "word_like_tokens": 698,
+    "inbound_wikilinks_count": 6,
+    "last_modified": "2026-06-04"
+  }
+}

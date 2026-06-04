@@ -12,7 +12,7 @@ translated_at: 2026-06-02T11:47:37.326Z
 
 ## 要約
 
-「仕組債」(*shikumisai*) は、デリバティブのペイオフを内包するリテール向け債券商品の総称となる日本語であり — 典型的にはノックインバリアを持つ株価連動ノート (EB、*Equity Bond*)、通貨連動預金、ディスカウントでのプットストライクを伴うリバースコンバーチブル債、デジタル / レンジアクルアルノートである。これらの商品は、日本の長引く低利回り環境において、メガバンク系証券会社 ([[JapanFG/smbc-nikko|SMBC Nikko]]、[[JapanFG/mizuho-bank|Mizuho]] 証券、MUFG / MUMSS)、独立系リテール証券 ([[JapanFG/daiwa-sg|Daiwa]]、[[JapanFG/nomura-hd|Nomura]])、地方銀行により、**利回りを追うリテール投資家**へ大規模に配信された。適合性と開示に対する **2022-2023 の FSA 取締り**は、[[JapanFG/nomura-hd|Nomura]]、[[JapanFG/smbc-nikko|SMBC Nikko]]、[[JapanFG/daiwa-sg|Daiwa]] の子会社に対する行政命令につながり、主要な販売会社に対し高齢者 / 知識の乏しいリテールへの仕組債販売の停止または制限を強い、**適合性と開示**を構造的な規制上の優先事項へと引き上げた。新規のリテール発行は 2023 以降、急激に縮小した。
+「仕組債」(*shikumisai*) は、デリバティブのペイオフを内包するリテール向け債券商品の総称となる日本語であり — 典型的にはノックインバリアを持つ株価連動ノート (EB、*Equity Bond*)、通貨連動預金、ディスカウントでのプットストライクを伴うリバースコンバーチブル債、デジタル / レンジアクルアルノートである。これらの商品は、日本の長引く低利回り環境において、メガバンク系証券会社 ([[securities-firms/smbc-nikko|SMBC Nikko]]、[[megabanks/mizuho-bank|Mizuho]] 証券、MUFG / MUMSS)、独立系リテール証券 ([[securities-firms/daiwa-sg|Daiwa]]、[[securities-firms/nomura-hd|Nomura]])、地方銀行により、**利回りを追うリテール投資家**へ大規模に配信された。適合性と開示に対する **2022-2023 の FSA 取締り**は、[[securities-firms/nomura-hd|Nomura]]、[[securities-firms/smbc-nikko|SMBC Nikko]]、[[securities-firms/daiwa-sg|Daiwa]] の子会社に対する行政命令につながり、主要な販売会社に対し高齢者 / 知識の乏しいリテールへの仕組債販売の停止または制限を強い、**適合性と開示**を構造的な規制上の優先事項へと引き上げた。新規のリテール発行は 2023 以降、急激に縮小した。
 
 ## ウィキ上の位置づけ
 
@@ -54,7 +54,7 @@ EB ノックイン (特に単一の日本株またはワースト・オブ・バ
 | 発行体タイプ | 役割 |
 |---|---|
 | グローバル銀行 (特別目的事業体) | Goldman、JPMorgan、Morgan Stanley、BNP Paribas、Credit Suisse (歴史的に)、HSBC、Citi、Barclays が SPV プログラム経由で発行 |
-| 日本拠点のメガバンクプログラム | [[JapanFG/mufg|MUFG]]、[[JapanFG/sumitomo-mitsui-banking-corp|SMBC]] (SMFG 経由)、[[JapanFG/mizuho-bank|Mizuho]] (Mizuho FG 経由) が専用プログラムを通じて発行 |
+| 日本拠点のメガバンクプログラム | [[megabanks/mufg|MUFG]]、[[megabanks/sumitomo-mitsui-banking-corp|SMBC]] (SMFG 経由)、[[megabanks/mizuho-bank|Mizuho]] (Mizuho FG 経由) が専用プログラムを通じて発行 |
 | 欧州銀行の発行体 | Société Générale、BNP、Credit Suisse、UBS が歴史的に仕組商品の組成で支配的 |
 | 米国銀行の発行体 | Goldman、JPM、MS、Citi |
 | 東京上場の特別目的発行体 | あまり一般的でない; 大半の仕組債は税務 / 規制効率のためオフショアで発行 |
@@ -63,11 +63,11 @@ EB ノックイン (特に単一の日本株またはワースト・オブ・バ
 
 | 販売会社 | 配信モデル |
 |---|---|
-| [[JapanFG/smbc-nikko|SMBC Nikko]] | メガバンク系のフルサービス証券; 2022 を通じた主要な販売会社 |
-| みずほ証券 ([[JapanFG/mizuho-bank|Mizuho]] FG 経由) | メガバンク系のフルサービス証券; 2022 を通じた主要な販売会社 |
-| MUFG / MUMSS ([[JapanFG/mufg|MUFG]] 経由) | メガバンク / グローバル JV 証券; 主要な販売会社 |
-| [[JapanFG/daiwa-sg|Daiwa Securities]] | 独立系リテール証券; 歴史的に仕組債の配信で非常に活発 |
-| [[JapanFG/nomura-hd|Nomura Securities]] | 最大手のリテール証券; 相当な販売会社 |
+| [[securities-firms/smbc-nikko|SMBC Nikko]] | メガバンク系のフルサービス証券; 2022 を通じた主要な販売会社 |
+| みずほ証券 ([[megabanks/mizuho-bank|Mizuho]] FG 経由) | メガバンク系のフルサービス証券; 2022 を通じた主要な販売会社 |
+| MUFG / MUMSS ([[megabanks/mufg|MUFG]] 経由) | メガバンク / グローバル JV 証券; 主要な販売会社 |
+| [[securities-firms/daiwa-sg|Daiwa Securities]] | 独立系リテール証券; 歴史的に仕組債の配信で非常に活発 |
+| [[securities-firms/nomura-hd|Nomura Securities]] | 最大手のリテール証券; 相当な販売会社 |
 | 地方銀行 (サブ配信) | メガバンクの証券パートナーからの仕組商品をサブ配信 |
 | オンライン証券 | 複雑な仕組債にはあまり活発でない; 一部のプレーンバニラ仕組預金 |
 
@@ -140,9 +140,9 @@ FSA は、2017, 以降の **「顧客本位」** (顧客本位の業務運営、
 
 | 販売会社 | 措置のカテゴリ |
 |---|---|
-| [[JapanFG/nomura-hd|Nomura Securities]] | 仕組債の販売プロセスに関する業務改善命令 |
-| [[JapanFG/smbc-nikko|SMBC Nikko]] | 業務改善命令; 上級経営陣の責任 |
-| [[JapanFG/daiwa-sg|Daiwa Securities]] | 業務改善命令; 適合性プロセスのレビュー |
+| [[securities-firms/nomura-hd|Nomura Securities]] | 仕組債の販売プロセスに関する業務改善命令 |
+| [[securities-firms/smbc-nikko|SMBC Nikko]] | 業務改善命令; 上級経営陣の責任 |
+| [[securities-firms/daiwa-sg|Daiwa Securities]] | 業務改善命令; 適合性プロセスのレビュー |
 | 複数の地方銀行の証券部門 | 局所的な行政措置 |
 
 販売会社は自主的に仕組債のリテール販売を停止または大幅に制限した。複数の会社がリテール仕組債事業から完全に撤退するか、適格投資家チャネルに制限した。
@@ -202,14 +202,14 @@ FSA は、2017, 以降の **「顧客本位」** (顧客本位の業務運営、
 - [[banking/INDEX]]
 - [[insurance/japan-life-insurance-alm-overview]]
 - [[securities/japan-prime-brokerage-and-institutional-financing]]
-- [[JapanFG/mufg]]
-- [[JapanFG/sumitomo-mitsui-banking-corp]]
-- [[JapanFG/mizuho-bank]]
-- [[JapanFG/nomura-hd]]
-- [[JapanFG/smbc-nikko]]
-- [[JapanFG/daiwa-sg]]
-- [[JapanFG/goldman-sachs-japan]]
-- [[JapanFG/morgan-stanley-japan]]
+- [[megabanks/mufg]]
+- [[megabanks/sumitomo-mitsui-banking-corp]]
+- [[megabanks/mizuho-bank]]
+- [[securities-firms/nomura-hd]]
+- [[securities-firms/smbc-nikko]]
+- [[securities-firms/daiwa-sg]]
+- [[securities-firms/goldman-sachs-japan]]
+- [[securities-firms/morgan-stanley-japan]]
 - [[INDEX|FinWiki index]]
 
 ## 出典

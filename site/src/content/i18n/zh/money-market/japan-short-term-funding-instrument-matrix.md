@@ -45,7 +45,7 @@ translated_at: 2026-05-30T14:13:23.429Z
 ## 工具 2  — 有抵押品拆借(有担保コール)
 
 - **法律形式/市场。** 针对符合条件抵押品(JGB、其他公共部门票据)的有抵押品银行间贷款;与无抵押品拆借不同的市场细分。
-- **发行人类型。** 与无抵押品通道相同的银行和金融机构;合作融资中央机构([[JapanFG/norinchukin|農林中央金庫]], [[JapanFG/shinkin-central|信金中央金庫]])也很活跃。
+- **发行人类型。** 与无抵押品通道相同的银行和金融机构;合作融资中央机构([[cooperative-banks/norinchukin|農林中央金庫]], [[cooperative-banks/shinkin-central|信金中央金庫]])也很活跃。
 - **期限范围。** O/N 占主导地位,有一些期限活动;比无抵押品通道密度低。
 - **最小手数。** 100 百万日元惯例,规模更大为常见。
 - **结算。** 通过日本央行 NET 当日资金;抵押品通过标准化托管安排承诺。
@@ -64,7 +64,7 @@ translated_at: 2026-05-30T14:13:23.429Z
 - **结算。** T+0 /T+1  取决于惯例;JGB 交付通过日本央行 JGB 服务结算,现金结算通过日本央行 NET。
 - **信用风险。** 低 — 由 JGB 担保,每日按市价计值和发型;对于有抵押品剩余部分的交易对手风险。
 - **日本央行抵押品资格。** GC 回购不是日本央行存款工具,但基础 JGB 抵押品以非常低的发型符合日本央行资格。
-- **参与者。** 大型银行财务、证券公司融资部、信托银行、人寿保险公司作为现金贷款人、外资银行和对冲基金作为借款人、[[JapanFG/japan-securities-finance|JSF]] 和短资相邻经纪人作为中介。
+- **参与者。** 大型银行财务、证券公司融资部、信托银行、人寿保险公司作为现金贷款人、外资银行和对冲基金作为借款人、[[financial-regulators/japan-securities-finance|JSF]] 和短资相邻经纪人作为中介。
 - **未清偿。** 日本最大的单一短期融资市场,按发布的日本央行/JSDA 基础每日成交量以数十万亿日元衡量。
 - **后 2024  下限影响。** 当 JGB 抵押品供应充足时,GC 回购(T/N)交易略低于政策利率余额下限,当抵押品稀缺时略高。GC 回购利率是对无抵押品拆借的规范有抵押品短期利率基准补充。
 
@@ -101,7 +101,7 @@ translated_at: 2026-05-30T14:13:23.429Z
 - **期限范围。** 典型的 1  月至 1  年,集中在 3M/6M;一些更长期 NCD 至几年。
 - **最小手数。** 典型发行面值为批发 100  百万日元;大型机构买家交易远大得多。
 - **结算。** T+1 /T+2  典型;通过银行对银行惯例结算,不通过 JASDEC。
-- **信用风险。** 发行银行的优先无抵押品信用;仅在标准存款保险上限(10  百万日元本金加利息)下由 [[JapanFG/yokin-hoken-kiko|DICJ]] 覆盖,因此批发 NCD 依赖于超越 DICJ 的发行人信用。
+- **信用风险。** 发行银行的优先无抵押品信用;仅在标准存款保险上限(10  百万日元本金加利息)下由 [[financial-regulators/yokin-hoken-kiko|DICJ]] 覆盖,因此批发 NCD 依赖于超越 DICJ 的发行人信用。
 - **日本央行抵押品资格。** 对日本央行抵押品操作的重要性不如 CP;资格取决于发行人/形式。外资银行分行 NCD 与国内银行 NCD 处理不同。
 - **参与者。** 银行财务(发行人方)、MMF/MRF、公司财务、外国现金投资者(发行人感知)、信托银行用于集合投资计划。
 - **未清偿。** 在日本央行短期金融市场统计中追踪;与类似期限公司 CP 的银行发行补充。
@@ -129,7 +129,7 @@ translated_at: 2026-05-30T14:13:23.429Z
 - **结算。** 日本央行 NET 活期账簿;根据发布的日本央行 MPM 决议对余额应用的利息。
 - **信用风险。** 中央银行信用(对日元国内交易对手按结构零)。
 - **日本央行抵押品资格。** 这是日本央行的一方;无外部抵押品参与。
-- **参与者。** 仅直接日本央行 NET 交易对手:银行、信托银行、具有日本央行账户的外资银行分行、合作融资中央机构([[JapanFG/norinchukin|農中]], [[JapanFG/shinkin-central|信金中央金庫]], 全信組連, 労金連)、[[money-market/tanshi-company-business-model|tanshi companies]]和被允许作为日本央行交易对手的证券公司。
+- **参与者。** 仅直接日本央行 NET 交易对手:银行、信托银行、具有日本央行账户的外资银行分行、合作融资中央机构([[cooperative-banks/norinchukin|農中]], [[cooperative-banks/shinkin-central|信金中央金庫]], 全信組連, 労金連)、[[money-market/tanshi-company-business-model|tanshi companies]]和被允许作为日本央行交易对手的证券公司。
 - **未清偿。** 后 QE 遗留中在日本央行持有的未清偿活期余额数百万亿日元;政策利率余额层设定标题短期利率。
 - **后 2024  下限影响。** 这是下限本身 — 此矩阵中的每个其他工具都以政策利率余额利息定价。准备金充足保持下限有约束力而非走廊上限有约束力。
 
@@ -178,7 +178,7 @@ translated_at: 2026-05-30T14:13:23.429Z
 
 - **拆借与回购。** 无抵押品拆借和有抵押品拆借在同一拆借市场场所坐,具有不同的有抵押品/无抵押品法律形式。GC 和 SC 回购在 [[money-market/jgb-repo-market-japan|JGB repo market]] 下坐,具有不同的法律形式惯例(現先 vs 現金担保付債券貸借)。混淆是常见的误读。
 - **CP 与短期债。** [[securities/japan-securities-depository-center|JASDEC]] 短期公司债账簿转账系统下的 CP 被视为短期社債— 在法律上是债券,运营上是短期融资。期限长于 1  年的规范公司债使用单独的账簿转账途径。
-- **NCD 与普通银行存款。** 在 [[JapanFG/yokin-hoken-kiko|DICJ]] 下至 10  百万日元覆盖的零售银行存款和高于 DICJ 上限的批发 NCD 不是相同产品,即使两者都是《银行法》下的银行负债。
+- **NCD 与普通银行存款。** 在 [[financial-regulators/yokin-hoken-kiko|DICJ]] 下至 10  百万日元覆盖的零售银行存款和高于 DICJ 上限的批发 NCD 不是相同产品,即使两者都是《银行法》下的银行负债。
 - **TBill 与短期 JGB。** TBill(國庫短期證券/TDB)是其自身的短端 JGB 工具,与具有短剩余期限的息票 JGB 不同;发行和结算惯例是 TBill 特定的。
 - **日本央行补完当座预金制度与准备金要求。** 准备金要求(準備預金制度)是单独的框架;补完当座预金制度是准备金利息通道。两者都涉及日本央行 NET 余额,但它们不是相同的法律工具。
 - **MRF 与 MMF。** MRF 是经纪账户扫账工具,日赎回;MMF 是更宽的投资信托货币基金类别,已基本从日元市场后 2001  NAV 突破和后 2016  NIRP 消失。两者通常组合在一起但在监管框架中不同。
@@ -201,10 +201,10 @@ translated_at: 2026-05-30T14:13:23.429Z
 - [[securities/japan-securities-clearing-corp]]
 - [[banking/INDEX]]
 - [[finance/japan-corporate-treasury-and-cash-management]]
-- [[JapanFG/yokin-hoken-kiko]]
-- [[JapanFG/boj-monetary-policy]]
-- [[JapanFG/norinchukin]]
-- [[JapanFG/shinkin-central]]
+- [[financial-regulators/yokin-hoken-kiko]]
+- [[financial-regulators/boj-monetary-policy]]
+- [[cooperative-banks/norinchukin]]
+- [[cooperative-banks/shinkin-central]]
 - [[INDEX|FinWiki index]]
 
 ## 来源

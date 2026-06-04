@@ -60,47 +60,47 @@
     "wikilinks_count": 16,
     "wikilinks": [
       "INDEX",
-      "JapanFG/au-jibun-bank",
-      "JapanFG/payments-cards-leasing-finance-index",
-      "JapanFG/paypay-card",
-      "JapanFG/paypay-fg",
-      "JapanFG/paypay-securities",
-      "JapanFG/rakuten-fg",
-      "JapanFG/smfg",
+      "JapanFG/INDEX",
       "business/INDEX",
       "business/gmo-internet-group",
       "business/kddi-au-financial-bundling-case",
       "business/ntt-docomo-d-point-telco-finance-case",
       "business/rakuten-group-mobile-finance-bundling-case",
+      "card-issuers/paypay-card",
       "fintech/ai-payment-two-tracks",
       "loyalty/sb-yahoo-paypay-points-unified-ecosystem",
-      "payments/cashless-jp-landscape"
+      "megabanks/paypay-fg",
+      "megabanks/smfg",
+      "payment-firms/rakuten-fg",
+      "payments/cashless-jp-landscape",
+      "regional-banks/au-jibun-bank",
+      "securities-firms/paypay-securities"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/au-jibun-bank",
-      "https://finwiki.zksc.io/JapanFG/payments-cards-leasing-finance-index",
-      "https://finwiki.zksc.io/JapanFG/paypay-card",
-      "https://finwiki.zksc.io/JapanFG/paypay-fg",
-      "https://finwiki.zksc.io/JapanFG/paypay-securities",
-      "https://finwiki.zksc.io/JapanFG/rakuten-fg",
-      "https://finwiki.zksc.io/JapanFG/smfg",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/business/INDEX",
       "https://finwiki.zksc.io/business/gmo-internet-group",
       "https://finwiki.zksc.io/business/kddi-au-financial-bundling-case",
       "https://finwiki.zksc.io/business/ntt-docomo-d-point-telco-finance-case",
       "https://finwiki.zksc.io/business/rakuten-group-mobile-finance-bundling-case",
+      "https://finwiki.zksc.io/card-issuers/paypay-card",
       "https://finwiki.zksc.io/fintech/ai-payment-two-tracks",
       "https://finwiki.zksc.io/loyalty/sb-yahoo-paypay-points-unified-ecosystem",
-      "https://finwiki.zksc.io/payments/cashless-jp-landscape"
+      "https://finwiki.zksc.io/megabanks/paypay-fg",
+      "https://finwiki.zksc.io/megabanks/smfg",
+      "https://finwiki.zksc.io/payment-firms/rakuten-fg",
+      "https://finwiki.zksc.io/payments/cashless-jp-landscape",
+      "https://finwiki.zksc.io/regional-banks/au-jibun-bank",
+      "https://finwiki.zksc.io/securities-firms/paypay-securities"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 11046,
-    "word_like_tokens": 1792,
+    "nonspace_chars": 11107,
+    "word_like_tokens": 1800,
     "inbound_wikilinks_count": 2,
-    "last_modified": "2026-06-03"
+    "last_modified": "2026-06-04"
   }
 }

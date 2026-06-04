@@ -60,7 +60,7 @@ Its comparison axes are therefore not "all-round strength as a bank" but the fol
 - [[banking/quick-deposit-four-methods]]
 - [[banking/paypay-bank]]
 - [[banking/rakuten-bank]]
-- [[JapanFG/gmo-aozora-net]]
+- [[payment-firms/gmo-aozora-net]]
 
 ## Sources
 

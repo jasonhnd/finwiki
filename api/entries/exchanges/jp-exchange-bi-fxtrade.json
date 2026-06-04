@@ -54,24 +54,24 @@
   "body_links": {
     "wikilinks_count": 8,
     "wikilinks": [
-      "JapanFG/sbi-hd",
       "exchanges/INDEX",
       "exchanges/fsa-vasp-registration-system",
       "exchanges/jp-exchange-sbi-vc-trade",
       "exchanges/jp-vasp-derivative-license-system",
       "exchanges/jp-vasp-parent-company-map",
       "fintech/japan-financial-regulation",
-      "fintech/japan-stablecoin-regulatory-landscape"
+      "fintech/japan-stablecoin-regulatory-landscape",
+      "megabanks/sbi-hd"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/sbi-hd",
       "https://finwiki.zksc.io/exchanges/INDEX",
       "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
       "https://finwiki.zksc.io/exchanges/jp-exchange-sbi-vc-trade",
       "https://finwiki.zksc.io/exchanges/jp-vasp-derivative-license-system",
       "https://finwiki.zksc.io/exchanges/jp-vasp-parent-company-map",
       "https://finwiki.zksc.io/fintech/japan-financial-regulation",
-      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape"
+      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
+      "https://finwiki.zksc.io/megabanks/sbi-hd"
     ],
     "external_links_count": 6,
     "external_links": [
@@ -84,9 +84,9 @@
     ]
   },
   "metrics": {
-    "nonspace_chars": 4446,
+    "nonspace_chars": 4450,
     "word_like_tokens": 817,
     "inbound_wikilinks_count": 7,
-    "last_modified": "2026-05-24"
+    "last_modified": "2026-06-04"
   }
 }

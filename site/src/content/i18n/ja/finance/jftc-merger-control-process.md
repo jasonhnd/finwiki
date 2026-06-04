@@ -13,7 +13,7 @@ translated_at: 2026-06-02T13:21:55.052Z
 
 JFTC（公正取引委員会）の企業結合審査は、[[finance/japan-tender-offer-process|FIEA tender offer route]] と並行して機能する独占禁止法上のゲートである。国内売上高の閾値を超える支配権取引は、独占禁止法（AMA）に基づき JFTC へ**事前届出**を行い、完了前にクリアランスを得る必要がある。これは [[finance/INDEX|finance]] に属する。[[finance/cross-border-m-a-japan|cross-border M&A in Japan]] および [[finance/japan-acquisition-finance|acquisition-financed]] 案件における主要な規制上の拒否権だからである。
 
-本ページは [[finance/japan-mbo-and-squeeze-out-process|MBO and squeeze-out process]]、[[finance/japan-activist-investor-playbook|activist playbook]]、[[finance/japan-leveraged-buyout-economics|Japan LBO economics]]、[[JapanFG/legal-financial-licenses/securities-license-stack|securities license stack]]、およびルーティング用のより広い [[INDEX|FinWiki index]] と併せて読む。
+本ページは [[finance/japan-mbo-and-squeeze-out-process|MBO and squeeze-out process]]、[[finance/japan-activist-investor-playbook|activist playbook]]、[[finance/japan-leveraged-buyout-economics|Japan LBO economics]]、[[financial-licenses/securities-license-stack|securities license stack]]、およびルーティング用のより広い [[INDEX|FinWiki index]] と併せて読む。
 
 ## 届出閾値（2010 改正後）
 
@@ -73,7 +73,7 @@ JFTC（公正取引委員会）の企業結合審査は、[[finance/japan-tender
 2. 公表されている場合は、事前相談の概要を取得する。
 3. 届出日を [[finance/japan-tender-offer-process|TOB timeline]] と照合する。JFTC クリアランスは TOB の前提条件となることが多い。
 4. 当該年の執行優先事項と Phase II 移行率を確認するため、JFTC 年次報告書を読む。
-5. 銀行、通信、エネルギーなどで [[JapanFG/legal-financial-licenses/securities-license-stack|sector-license]] の承認も必要かを確認する。
+5. 銀行、通信、エネルギーなどで [[financial-licenses/securities-license-stack|sector-license]] の承認も必要かを確認する。
 
 ## 関連項目
 
@@ -85,7 +85,7 @@ JFTC（公正取引委員会）の企業結合審査は、[[finance/japan-tender
 - [[finance/japan-leveraged-buyout-economics]]
 - [[finance/japan-activist-investor-playbook]]
 - [[finance/japan-fair-disclosure-and-insider-trading-controls]]
-- [[JapanFG/legal-financial-licenses/securities-license-stack]]
+- [[financial-licenses/securities-license-stack]]
 - [[INDEX|FinWiki index]]
 
 ## 出典

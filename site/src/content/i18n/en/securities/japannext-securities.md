@@ -12,7 +12,7 @@ translated_at: 2026-06-01T04:15:40.158Z
 
 ## Wiki route
 
-This entry sits under [[securities/INDEX|securities index]]. Read it with [[securities/financial-instruments-business-operators-japan-index|financial instruments business operators japan index]] for adjacent context and [[JapanFG/legal-financial-licenses/INDEX|JapanFG index]] for the broader system boundary.
+This entry sits under [[securities/INDEX|securities index]]. Read it with [[securities/financial-instruments-business-operators-japan-index|financial instruments business operators japan index]] for adjacent context and [[financial-licenses/INDEX|JapanFG index]] for the broader system boundary.
 
 ## TL;DR
 
@@ -43,19 +43,19 @@ For FinWiki, Japannext is the main private-venue counterpoint to [[securities/to
 
 Japannext matters because it tests whether Japanese equity execution is a single-exchange world or a routed market. Watch:
 
-- retail broker SOR adoption (e.g. routing into [[JapanFG/rakuten-securities|Rakuten Securities]] / [[JapanFG/sbi-securities|SBI 証券]]);
+- retail broker SOR adoption (e.g. routing into [[securities-firms/rakuten-securities|Rakuten Securities]] / [[securities-firms/sbi-securities|SBI 証券]]);
 - best-execution policy revisions ([[securities/financial-instruments-business-operators-japan-index|FIBO index]] tracks the registered operators);
 - spread / tick-size differences;
 - nighttime liquidity;
-- ownership and strategic alignment with [[JapanFG/sbi-hd|SBI HD]] / Cboe-related market structure (peer venues are [[securities/osaka-digital-exchange|ODX]] and the parent [[securities/tokyo-stock-exchange|TSE]]).
+- ownership and strategic alignment with [[megabanks/sbi-hd|SBI HD]] / Cboe-related market structure (peer venues are [[securities/osaka-digital-exchange|ODX]] and the parent [[securities/tokyo-stock-exchange|TSE]]).
 
 ## Related
 
 - [[securities/tokyo-stock-exchange]]
 - [[securities/osaka-digital-exchange]]
-- [[JapanFG/sbi-hd]]
-- [[JapanFG/rakuten-securities]]
-- [[JapanFG/japan-securities-finance]]
+- [[megabanks/sbi-hd]]
+- [[securities-firms/rakuten-securities]]
+- [[financial-regulators/japan-securities-finance]]
 - [[securities/nisa-2024-flow]]
 
 ## Sources

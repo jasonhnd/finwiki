@@ -64,12 +64,6 @@
     "wikilinks_count": 20,
     "wikilinks": [
       "INDEX",
-      "JapanFG/daiwa-sg",
-      "JapanFG/dbj",
-      "JapanFG/mizuho-fg",
-      "JapanFG/mufg",
-      "JapanFG/nomura-hd",
-      "JapanFG/smfg",
       "banking/regional-bank-consolidation-pattern",
       "finance/INDEX",
       "finance/cross-border-m-a-japan",
@@ -82,16 +76,16 @@
       "finance/japan-mbo-and-squeeze-out-process",
       "finance/japan-private-equity-operating-model",
       "finance/japan-shareholder-proposal-and-agm-voting-route",
-      "finance/japan-tender-offer-process"
+      "finance/japan-tender-offer-process",
+      "financial-regulators/dbj",
+      "megabanks/mizuho-fg",
+      "megabanks/mufg",
+      "megabanks/smfg",
+      "securities-firms/daiwa-sg",
+      "securities-firms/nomura-hd"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/daiwa-sg",
-      "https://finwiki.zksc.io/JapanFG/dbj",
-      "https://finwiki.zksc.io/JapanFG/mizuho-fg",
-      "https://finwiki.zksc.io/JapanFG/mufg",
-      "https://finwiki.zksc.io/JapanFG/nomura-hd",
-      "https://finwiki.zksc.io/JapanFG/smfg",
       "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
       "https://finwiki.zksc.io/finance/INDEX",
       "https://finwiki.zksc.io/finance/cross-border-m-a-japan",
@@ -104,15 +98,21 @@
       "https://finwiki.zksc.io/finance/japan-mbo-and-squeeze-out-process",
       "https://finwiki.zksc.io/finance/japan-private-equity-operating-model",
       "https://finwiki.zksc.io/finance/japan-shareholder-proposal-and-agm-voting-route",
-      "https://finwiki.zksc.io/finance/japan-tender-offer-process"
+      "https://finwiki.zksc.io/finance/japan-tender-offer-process",
+      "https://finwiki.zksc.io/financial-regulators/dbj",
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/smfg",
+      "https://finwiki.zksc.io/securities-firms/daiwa-sg",
+      "https://finwiki.zksc.io/securities-firms/nomura-hd"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 12175,
-    "word_like_tokens": 1864,
+    "nonspace_chars": 12250,
+    "word_like_tokens": 1869,
     "inbound_wikilinks_count": 18,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-04"
   }
 }

@@ -57,9 +57,6 @@
     "wikilinks_count": 13,
     "wikilinks": [
       "INDEX",
-      "JapanFG/mufg",
-      "JapanFG/progmat",
-      "JapanFG/smfg",
       "cosmos-ibc-for-financial-institutions",
       "fintech/INDEX",
       "fintech/central-banking-function-unbundling",
@@ -68,13 +65,13 @@
       "fintech/japan-financial-regulation",
       "fintech/japan-stablecoin-regulatory-landscape",
       "fintech/jp-trust-type-sc-architecture",
-      "fintech/stablecoin-crossborder-b2b-growth"
+      "fintech/stablecoin-crossborder-b2b-growth",
+      "megabanks/mufg",
+      "megabanks/smfg",
+      "payment-firms/progmat"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/mufg",
-      "https://finwiki.zksc.io/JapanFG/progmat",
-      "https://finwiki.zksc.io/JapanFG/smfg",
       "https://finwiki.zksc.io/cosmos-ibc-for-financial-institutions",
       "https://finwiki.zksc.io/fintech/INDEX",
       "https://finwiki.zksc.io/fintech/central-banking-function-unbundling",
@@ -83,15 +80,18 @@
       "https://finwiki.zksc.io/fintech/japan-financial-regulation",
       "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
       "https://finwiki.zksc.io/fintech/jp-trust-type-sc-architecture",
-      "https://finwiki.zksc.io/fintech/stablecoin-crossborder-b2b-growth"
+      "https://finwiki.zksc.io/fintech/stablecoin-crossborder-b2b-growth",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/smfg",
+      "https://finwiki.zksc.io/payment-firms/progmat"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3793,
-    "word_like_tokens": 670,
+    "nonspace_chars": 3803,
+    "word_like_tokens": 671,
     "inbound_wikilinks_count": 17,
-    "last_modified": "2026-06-02"
+    "last_modified": "2026-06-04"
   }
 }

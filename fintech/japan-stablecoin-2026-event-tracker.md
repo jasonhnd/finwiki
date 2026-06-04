@@ -39,7 +39,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[fintech/INDEX|fintech index]]. Read it alongside [[fintech/japan-stablecoin-regulatory-landscape|日本 SC 法制度の三層構造]] for the regulatory frame, [[fintech/japan-epi-three-types-overview|EPI 三類型概要]] for taxonomy, and [[fintech/japan-epi-four-camps-comparison|EPI 四陣営比較]] for competitive landscape. 主要発行体・流通体は [[JapanFG/jpyc|JPYC株式会社]]、[[JapanFG/progmat|株式会社Progmat]]、[[exchanges/jp-exchange-sbi-vc-trade|SBI VC Trade]] を参照。
+This entry sits under [[fintech/INDEX|fintech index]]. Read it alongside [[fintech/japan-stablecoin-regulatory-landscape|日本 SC 法制度の三層構造]] for the regulatory frame, [[fintech/japan-epi-three-types-overview|EPI 三類型概要]] for taxonomy, and [[fintech/japan-epi-four-camps-comparison|EPI 四陣営比較]] for competitive landscape. 主要発行体・流通体は [[payment-firms/jpyc|JPYC株式会社]]、[[payment-firms/progmat|株式会社Progmat]]、[[exchanges/jp-exchange-sbi-vc-trade|SBI VC Trade]] を参照。
 
 ## 2026 主要事件タイムライン
 
@@ -80,7 +80,7 @@ JPYC は典型的な **funds-transfer-type EPI** (改正資金決済法第二種
 
 ## Progmat USD ローンチ (信託型 USD SC)
 
-**位置づけ**: Progmat (→ [[JapanFG/progmat|株式会社Progmat]]) はメガバンク信託銀行 (MUTB 49% + SMBC 15% + Mizuho 15%) + NTT Data + JPX 出資のデジタルアセットプラットフォーム。発行体は信託銀行、Progmat はプラットフォーム提供者。
+**位置づけ**: Progmat (→ [[payment-firms/progmat|株式会社Progmat]]) はメガバンク信託銀行 (MUTB 49% + SMBC 15% + Mizuho 15%) + NTT Data + JPX 出資のデジタルアセットプラットフォーム。発行体は信託銀行、Progmat はプラットフォーム提供者。
 
 **Progmat USD の設計コンセプト** (2026-Q1 公表ベース):
 
@@ -193,8 +193,8 @@ JPYC は典型的な **funds-transfer-type EPI** (改正資金決済法第二種
 - [[fintech/jp-trust-type-sc-architecture|信託型 SC 架構]]
 - [[fintech/japan-ecisb-license|日本 ECISB 牌照]]
 - [[fintech/stablecoin-channel-japan-sbi-jpyc-ring|SBI × JPYC リング]]
-- [[JapanFG/jpyc|JPYC株式会社]]
-- [[JapanFG/progmat|株式会社Progmat]]
+- [[payment-firms/jpyc|JPYC株式会社]]
+- [[payment-firms/progmat|株式会社Progmat]]
 - [[exchanges/jp-exchange-sbi-vc-trade|SBI VC Trade]]
 - [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済の法体系]]
 - [[fintech/eu-mica-implementation-status-2026|EU MiCA 実施状況 2026]]

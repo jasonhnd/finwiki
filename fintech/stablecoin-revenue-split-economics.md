@@ -42,7 +42,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 - [[fintech/paypal-pyusd-stablecoin|PYUSD（PayPal）]] と Paxos 間の分配アレンジメント
 - [[fintech/world-liberty-usd1-political-stablecoin|USD1（World Liberty Financial）]] と Bridge 間の分配アレンジメント
-- [[JapanFG/jpyc|JPYC]]（[[fintech/stablecoin-channel-japan-sbi-jpyc-ring|SBI × JPYC × Circle 環状持株]]）の潜在的配信分配構造
+- [[payment-firms/jpyc|JPYC]]（[[fintech/stablecoin-channel-japan-sbi-jpyc-ring|SBI × JPYC × Circle 環状持株]]）の潜在的配信分配構造
 - USDT（Tether）と Bitfinex の歴史的関係（条件非公開）
 
 **典型的トリガータイミング**：配信協定は通常 3-5 年間 + 自動更新条項で締結される。USDC 事例では 2026-08 の協定更新が Circle と Coinbase 間のキーゲームポイントである。

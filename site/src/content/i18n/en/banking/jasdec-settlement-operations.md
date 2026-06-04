@@ -12,7 +12,7 @@ translated_at: 2026-05-30T18:52:47.783Z
 
 ## Wiki route
 
-This entry sits under [[banking/INDEX|banking index]] as a settlement-infrastructure deep dive that is directly load-bearing for the trust-bank custody operating models. Read it alongside [[securities/japan-securities-depository-center|JASDEC entity page]] and [[securities/japan-securities-clearing-corp|JSCC clearing corp]] for the market-infrastructure side; with [[banking/master-trust-bank-operating-model|Master Trust Bank operating model]], [[banking/custody-bank-operating-model|Custody Bank operating model]], [[banking/japan-master-trust-and-custody-bank-landscape|Japan master trust and custody bank landscape]], and [[banking/trust-bank-custody-operating-comparison|trust-bank custody operating comparison]] for the trust-bank routing; with [[securities/japan-market-infrastructure-map|Japan market infrastructure map]] for the macro plumbing view; and with [[JapanFG/master-trust-bank|MTBJ]] and [[JapanFG/custody-bank|CBJ]] for the institutional connection points. For TSE / OSE / JSCC integration context see [[securities/tokyo-stock-exchange|Tokyo Stock Exchange]] and [[securities/osaka-exchange|Osaka Exchange]].
+This entry sits under [[banking/INDEX|banking index]] as a settlement-infrastructure deep dive that is directly load-bearing for the trust-bank custody operating models. Read it alongside [[securities/japan-securities-depository-center|JASDEC entity page]] and [[securities/japan-securities-clearing-corp|JSCC clearing corp]] for the market-infrastructure side; with [[banking/master-trust-bank-operating-model|Master Trust Bank operating model]], [[banking/custody-bank-operating-model|Custody Bank operating model]], [[banking/japan-master-trust-and-custody-bank-landscape|Japan master trust and custody bank landscape]], and [[banking/trust-bank-custody-operating-comparison|trust-bank custody operating comparison]] for the trust-bank routing; with [[securities/japan-market-infrastructure-map|Japan market infrastructure map]] for the macro plumbing view; and with [[trust-banks/master-trust-bank|MTBJ]] and [[trust-banks/custody-bank|CBJ]] for the institutional connection points. For TSE / OSE / JSCC integration context see [[securities/tokyo-stock-exchange|Tokyo Stock Exchange]] and [[securities/osaka-exchange|Osaka Exchange]].
 
 ## TL;DR
 
@@ -46,12 +46,12 @@ JASDEC (証券保管振替機構 / ほふり — Japan Securities Depository Cen
 
 | Participant type | Examples |
 |---|---|
-| 信託銀行 (custody-only) | [[JapanFG/master-trust-bank|MTBJ]], [[JapanFG/custody-bank|CBJ]] |
-| 信託銀行 (full-service) | [[JapanFG/mitsubishi-ufj-trust-bank|MUFG Trust]], [[JapanFG/sumitomo-mitsui-trust|SMTB]], [[JapanFG/mizuho-trust-bank|Mizuho Trust]], [[JapanFG/nochu-trust-bank|Norinchukin Trust]] |
+| 信託銀行 (custody-only) | [[trust-banks/master-trust-bank|MTBJ]], [[trust-banks/custody-bank|CBJ]] |
+| 信託銀行 (full-service) | [[trust-banks/mitsubishi-ufj-trust-bank|MUFG Trust]], [[trust-banks/sumitomo-mitsui-trust|SMTB]], [[trust-banks/mizuho-trust-bank|Mizuho Trust]], [[trust-banks/nochu-trust-bank|Norinchukin Trust]] |
 | Securities firms | Nomura, Daiwa, SMBC Nikko, Mizuho Securities, regional brokers |
-| Global custodians (Japan unit) | [[JapanFG/bny-mellon-japan|BNY Mellon Japan]], [[JapanFG/state-street-japan|State Street Japan]], [[JapanFG/jpmorgan-japan|JP Morgan Japan]], [[JapanFG/citigroup-japan|Citi Japan]] |
+| Global custodians (Japan unit) | [[foreign-financial-institutions/bny-mellon-japan|BNY Mellon Japan]], [[foreign-financial-institutions/state-street-japan|State Street Japan]], [[foreign-financial-institutions/jpmorgan-japan|JP Morgan Japan]], [[foreign-financial-institutions/citigroup-japan|Citi Japan]] |
 | Banks (general custody / 名義書換) | Megabanks, regional banks (limited custody mandate) |
-| ICSD / cross-border infrastructure | [[JapanFG/euroclear-bank-japan|Euroclear Japan]], [[JapanFG/clearstream-banking-japan|Clearstream Japan]] (link routes) |
+| ICSD / cross-border infrastructure | [[foreign-financial-institutions/euroclear-bank-japan|Euroclear Japan]], [[foreign-financial-institutions/clearstream-banking-japan|Clearstream Japan]] (link routes) |
 
 ### Book-entry systems
 
@@ -220,7 +220,7 @@ JP investor
 
 ### Tokenized securities open question
 
-Tokenized 信託受益権 securities issued via [[JapanFG/progmat|Progmat]] and similar platforms run on parallel DLT ledgers. Their integration with the JASDEC book-entry rail is still being designed:
+Tokenized 信託受益権 securities issued via [[payment-firms/progmat|Progmat]] and similar platforms run on parallel DLT ledgers. Their integration with the JASDEC book-entry rail is still being designed:
 
 | Design option | Trade-off |
 |---|---|
@@ -247,18 +247,18 @@ JASDEC's evolution on this front will materially shape whether trust banks can o
 - [[securities/osaka-exchange]]
 - [[securities/osaka-digital-exchange]]
 - [[securities/japan-security-token-secondary-market-route]]
-- [[JapanFG/master-trust-bank]]
-- [[JapanFG/custody-bank]]
-- [[JapanFG/mitsubishi-ufj-trust-bank]]
-- [[JapanFG/sumitomo-mitsui-trust]]
-- [[JapanFG/mizuho-trust-bank]]
-- [[JapanFG/bny-mellon-japan]]
-- [[JapanFG/state-street-japan]]
-- [[JapanFG/jpmorgan-japan]]
-- [[JapanFG/citigroup-japan]]
-- [[JapanFG/euroclear-bank-japan]]
-- [[JapanFG/clearstream-banking-japan]]
-- [[JapanFG/progmat]]
+- [[trust-banks/master-trust-bank]]
+- [[trust-banks/custody-bank]]
+- [[trust-banks/mitsubishi-ufj-trust-bank]]
+- [[trust-banks/sumitomo-mitsui-trust]]
+- [[trust-banks/mizuho-trust-bank]]
+- [[foreign-financial-institutions/bny-mellon-japan]]
+- [[foreign-financial-institutions/state-street-japan]]
+- [[foreign-financial-institutions/jpmorgan-japan]]
+- [[foreign-financial-institutions/citigroup-japan]]
+- [[foreign-financial-institutions/euroclear-bank-japan]]
+- [[foreign-financial-institutions/clearstream-banking-japan]]
+- [[payment-firms/progmat]]
 - [[finance/japan-listed-financial-groups-investable-universe]]
 
 ## Sources

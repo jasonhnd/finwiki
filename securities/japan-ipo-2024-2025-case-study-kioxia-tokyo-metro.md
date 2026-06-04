@@ -132,7 +132,7 @@ JPX, JSDA, and FSA materials provide source figures. Vendor IPO calendar databas
 
 Large IPOs like Tokyo Metro use a multi-firm syndicate with one or more global coordinators and a broader joint-lead-manager list. The 2024-2025 syndicate composition reading typically includes:
 
-- Japanese full-service securities firms ([[JapanFG/nomura-hd]], [[JapanFG/daiwa-sg]], [[JapanFG/smbc-nikko]], [[JapanFG/mizuho-securities]], [[JapanFG/mufg-mums]]) as domestic distribution backbone;
+- Japanese full-service securities firms ([[securities-firms/nomura-hd]], [[securities-firms/daiwa-sg]], [[securities-firms/smbc-nikko]], [[securities-firms/mizuho-securities]], [[securities-firms/mufg-mums]]) as domestic distribution backbone;
 - bulge-bracket foreign banks for international tranche allocation;
 - regional firms and online brokers for retail allocation.
 
@@ -151,10 +151,10 @@ For any FinWiki IPO case study:
 
 ## JapanFG Relevance
 
-- Lead underwriters: [[JapanFG/nomura-hd]], [[JapanFG/daiwa-sg]], [[JapanFG/smbc-nikko]], [[JapanFG/mizuho-securities]], [[JapanFG/mufg-mums]].
-- Retail distribution: [[JapanFG/rakuten-securities]], [[JapanFG/sbi-securities]], [[JapanFG/monex-group]], [[JapanFG/mufg-esmart-securities]], [[JapanFG/paypay-securities]], [[JapanFG/gmo-click-securities]].
-- Listing infrastructure: [[JapanFG/japan-exchange-group]], [[securities/tokyo-stock-exchange]], [[securities/japan-securities-clearing-corp]], [[securities/japan-securities-depository-center]].
-- Self-regulation: [[JapanFG/jsda]].
+- Lead underwriters: [[securities-firms/nomura-hd]], [[securities-firms/daiwa-sg]], [[securities-firms/smbc-nikko]], [[securities-firms/mizuho-securities]], [[securities-firms/mufg-mums]].
+- Retail distribution: [[securities-firms/rakuten-securities]], [[securities-firms/sbi-securities]], [[securities-firms/monex-group]], [[securities-firms/mufg-esmart-securities]], [[securities-firms/paypay-securities]], [[securities-firms/gmo-click-securities]].
+- Listing infrastructure: [[financial-regulators/japan-exchange-group]], [[securities/tokyo-stock-exchange]], [[securities/japan-securities-clearing-corp]], [[securities/japan-securities-depository-center]].
+- Self-regulation: [[financial-regulators/jsda]].
 
 ## Boundary Cases
 
@@ -183,13 +183,13 @@ For any FinWiki IPO case study:
 - [[securities/nisa-2024-flow]]
 - [[securities/nisa-2025-tax-reform-update]]
 - [[finance/japan-ib-league-table]]
-- [[JapanFG/nomura-hd]]
-- [[JapanFG/daiwa-sg]]
-- [[JapanFG/smbc-nikko]]
-- [[JapanFG/mizuho-securities]]
-- [[JapanFG/mufg-mums]]
-- [[JapanFG/japan-exchange-group]]
-- [[JapanFG/jsda]]
+- [[securities-firms/nomura-hd]]
+- [[securities-firms/daiwa-sg]]
+- [[securities-firms/smbc-nikko]]
+- [[securities-firms/mizuho-securities]]
+- [[securities-firms/mufg-mums]]
+- [[financial-regulators/japan-exchange-group]]
+- [[financial-regulators/jsda]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

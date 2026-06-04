@@ -14,7 +14,7 @@ translated_at: 2026-05-31T03:19:56.464Z
 
 日本地方银行的整合由地方人口压力、狭窄的净息差、分行/系统成本、数字化投资需求,以及在萎缩地区维持基础金融服务的需要所驱动。FSA(金融厅)的框架强调解决客户问题、金融中介质量,以及自愿的经营决策,而非强制整合。
 
-本页用于 [[JapanFG/tomony-hd]]、[[JapanFG/chiba-bank]]、[[JapanFG/fukuoka-fg]]、[[JapanFG/concordia-fg]]、[[JapanFG/18-shinwa-bank]]、[[JapanFG/akita-bank]]、[[JapanFG/iwate-bank]] 和 [[JapanFG/joyo-bank]]。
+本页用于 [[regional-banks/tomony-hd]]、[[regional-banks/chiba-bank]]、[[regional-banks/fukuoka-fg]]、[[regional-banks/concordia-fg]]、[[regional-banks/18-shinwa-bank]]、[[regional-banks/akita-bank]]、[[regional-banks/iwate-bank]] 和 [[regional-banks/joyo-bank]]。
 
 ## 整合形式
 
@@ -39,9 +39,9 @@ translated_at: 2026-05-31T03:19:56.464Z
 
 ## JapanFG 相关性
 
-- [[JapanFG/tomony-hd]] 是入境整合案例的锚点。
-- [[JapanFG/fukuoka-fg]] 和 [[JapanFG/concordia-fg]] 是强有力的地方银行集团范例。
-- [[JapanFG/chiba-bank]]、[[JapanFG/akita-bank]]、[[JapanFG/iwate-bank]] 和 [[JapanFG/joyo-bank]] 应作为地方特许经营案例阅读,而非巨型银行的替代品。
+- [[regional-banks/tomony-hd]] 是入境整合案例的锚点。
+- [[regional-banks/fukuoka-fg]] 和 [[regional-banks/concordia-fg]] 是强有力的地方银行集团范例。
+- [[regional-banks/chiba-bank]]、[[regional-banks/akita-bank]]、[[regional-banks/iwate-bank]] 和 [[regional-banks/joyo-bank]] 应作为地方特许经营案例阅读,而非巨型银行的替代品。
 - [[banking/post-megabank-positioning]] 解释了哪些银行过于具有战略性/广泛,不能作为简单的地方银行对待。
 
 ## 决策用途
@@ -59,11 +59,11 @@ translated_at: 2026-05-31T03:19:56.464Z
 - [[banking/INDEX|banking INDEX]]
 - [[banking/post-megabank-positioning]]
 - [[banking/cooperative-banking-japan]]
-- [[JapanFG/tomony-hd]]
-- [[JapanFG/chiba-bank]]
-- [[JapanFG/fukuoka-fg]]
-- [[JapanFG/concordia-fg]]
-- [[JapanFG/legal-financial-licenses/INDEX]]
+- [[regional-banks/tomony-hd]]
+- [[regional-banks/chiba-bank]]
+- [[regional-banks/fukuoka-fg]]
+- [[regional-banks/concordia-fg]]
+- [[financial-licenses/INDEX]]
 - [[INDEX|FinWiki index]]
 
 ## 来源

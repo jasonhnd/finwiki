@@ -13,7 +13,7 @@ translated_at: 2026-05-31T07:28:06.165Z
 
 Japan's economic value-based solvency regime is the insurance-capital framework that looks through the accounting balance sheet and evaluates assets, liabilities, capital, and risk on a more market-consistent economic basis. FSA frames the regime around three pillars: solvency regulation, insurer risk management, and disclosure to policyholders / market participants.
 
-For FinWiki, this page is the regulatory-capital anchor for insurer pages such as [[JapanFG/dai-ichi-life]], [[JapanFG/nippon-life]], [[JapanFG/tokio-marine]], [[JapanFG/msad]], and [[JapanFG/sompo]]. Use [[insurance/esr-economic-value-solvency|ESR]] for company-level ratio interpretation.
+For FinWiki, this page is the regulatory-capital anchor for insurer pages such as [[life-insurers/dai-ichi-life]], [[life-insurers/nippon-life]], [[non-life-insurers/tokio-marine]], [[non-life-insurers/msad]], and [[non-life-insurers/sompo]]. Use [[insurance/esr-economic-value-solvency|ESR]] for company-level ratio interpretation.
 
 ## Regime Map
 
@@ -26,10 +26,10 @@ For FinWiki, this page is the regulatory-capital anchor for insurer pages such a
 
 ## JapanFG Relevance
 
-- [[JapanFG/dai-ichi-life|Dai-ichi Life]] is the cleanest equity-market case because it is a listed life-insurance holding company; capital policy, buybacks, M&A capacity, and ESR disclosure are directly investable.
-- [[JapanFG/nippon-life|Nippon Life]] is the largest mutual-company case; economic solvency affects capital strategy, policyholder dividend capacity, and overseas M&A room even without listed equity.
-- [[JapanFG/tokio-marine|Tokio Marine]], [[JapanFG/msad|MS&AD]], and [[JapanFG/sompo|SOMPO]] matter because natural-catastrophe risk, overseas specialty insurance, and equity holdings can materially affect capital volatility.
-- [[JapanFG/legal-financial-licenses/INDEX|JapanFG legal / financial licenses]] should treat this as the solvency and prudential-supervision lane under the Insurance Business Act.
+- [[life-insurers/dai-ichi-life|Dai-ichi Life]] is the cleanest equity-market case because it is a listed life-insurance holding company; capital policy, buybacks, M&A capacity, and ESR disclosure are directly investable.
+- [[life-insurers/nippon-life|Nippon Life]] is the largest mutual-company case; economic solvency affects capital strategy, policyholder dividend capacity, and overseas M&A room even without listed equity.
+- [[non-life-insurers/tokio-marine|Tokio Marine]], [[non-life-insurers/msad|MS&AD]], and [[non-life-insurers/sompo|SOMPO]] matter because natural-catastrophe risk, overseas specialty insurance, and equity holdings can materially affect capital volatility.
+- [[financial-licenses/INDEX|JapanFG legal / financial licenses]] should treat this as the solvency and prudential-supervision lane under the Insurance Business Act.
 
 ## Decision Use
 
@@ -49,7 +49,7 @@ This page is not a legal opinion and does not itself prove a company is well cap
 - [[insurance/INDEX|insurance INDEX]]
 - [[insurance/esr-economic-value-solvency]]
 - [[insurance/natcat-reinsurance-japan]]
-- [[JapanFG/legal-financial-licenses/INDEX]]
+- [[financial-licenses/INDEX]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

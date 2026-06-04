@@ -29,7 +29,7 @@ This entry sits under [[policy-finance/INDEX|policy-finance index]] as one of th
 
 ## TL;DR
 
-Aichi Credit Guarantee Corporation (愛知県信用保証協会) is the Aichi-prefecture member of Japan's 51-corporation local credit guarantee system. Its guarantee balance is typically among the top five in the federation because Aichi hosts the densest automotive supply-chain SME cluster in Japan — Toyota Motor primes plus several thousand Tier-2 / Tier-3 / Tier-4 parts, mold, machining, casting, and surface-treatment suppliers concentrated in the Mikawa and Owari belts. Many of these SMEs rely on guarantee-backed working-capital and equipment loans from regional banks ([[JapanFG/aichi-bank|Aichi Bank]], [[JapanFG/aichi-fg|Aichi FG]] / Bank of Nagoya, [[JapanFG/chukyo-bank|Chukyo Bank]], [[JapanFG/nagoya-bank|Nagoya Bank]]) and the local shinkin tail.
+Aichi Credit Guarantee Corporation (愛知県信用保証協会) is the Aichi-prefecture member of Japan's 51-corporation local credit guarantee system. Its guarantee balance is typically among the top five in the federation because Aichi hosts the densest automotive supply-chain SME cluster in Japan — Toyota Motor primes plus several thousand Tier-2 / Tier-3 / Tier-4 parts, mold, machining, casting, and surface-treatment suppliers concentrated in the Mikawa and Owari belts. Many of these SMEs rely on guarantee-backed working-capital and equipment loans from regional banks ([[regional-banks/aichi-bank|Aichi Bank]], [[regional-banks/aichi-fg|Aichi FG]] / Bank of Nagoya, [[regional-banks/chukyo-bank|Chukyo Bank]], [[regional-banks/nagoya-bank|Nagoya Bank]]) and the local shinkin tail.
 
 ## 1. 機関概要
 
@@ -42,7 +42,7 @@ Aichi Credit Guarantee Corporation (愛知県信用保証協会) is the Aichi-pr
 | 保証残高 | 兆円規模 — 連合会全国51協会中の上位 |
 | 加盟金融機関 | 約 30 行 (regional banks, megabank 県内 branch, shinkin, credit cooperatives) |
 | 連合会加盟 | Member of [[policy-finance/national-federation-credit-guarantee-corporations|全国信用保証協会連合会 (Japan Federation of Credit Guarantee Corporations)]] |
-| 信用保険 | Reinsured by [[JapanFG/jfc|JFC]] credit-insurance operations |
+| 信用保険 | Reinsured by [[financial-regulators/jfc|JFC]] credit-insurance operations |
 
 ## 2. 主要保証商品
 
@@ -57,7 +57,7 @@ Aichi Credit Guarantee Corporation (愛知県信用保証協会) is the Aichi-pr
 
 ## 3. 県内産業構造との関係
 
-Aichi Prefecture is structurally dominated by the automotive supply chain anchored on Toyota Motor (Toyota City), Aisin, Denso, Toyota Industries, and Toyota Boshoku, plus the Tier-1 supplier cluster of [[JapanFG/toyota-tsusho-corp|Toyota Tsusho]] trading flows. Around these primes sit several thousand Tier-2/3/4 SMEs producing precision-machined parts, stamping, casting, forging, plastic injection, surface treatment, electrical harnesses, and tooling. This SME population is precisely the universe Aichi CGC serves through guarantee-backed working-capital and capex lending.
+Aichi Prefecture is structurally dominated by the automotive supply chain anchored on Toyota Motor (Toyota City), Aisin, Denso, Toyota Industries, and Toyota Boshoku, plus the Tier-1 supplier cluster of [[financial-conglomerates/toyota-tsusho-corp|Toyota Tsusho]] trading flows. Around these primes sit several thousand Tier-2/3/4 SMEs producing precision-machined parts, stamping, casting, forging, plastic injection, surface treatment, electrical harnesses, and tooling. This SME population is precisely the universe Aichi CGC serves through guarantee-backed working-capital and capex lending.
 
 Two structural pressures shape the current guarantee book:
 
@@ -68,13 +68,13 @@ Beyond automotive, Aichi CGC also covers Nagoya's services / retail / logistics 
 
 ## 4. Co-lending and JFC overlay
 
-Aichi CGC guarantees normally sit alongside loans from [[JapanFG/aichi-bank|Aichi Bank]], [[JapanFG/aichi-fg|Aichi FG (Bank of Nagoya holdco)]], [[JapanFG/chukyo-bank|Chukyo Bank]], [[JapanFG/nagoya-bank|Nagoya Bank]], plus megabank in-prefecture branches ([[JapanFG/mufg|MUFG]] has heavy Aichi presence through legacy Tokai Bank roots; [[JapanFG/smfg|SMFG]] and [[JapanFG/mizuho-fg|Mizuho]] also material), and the dense local shinkin / credit-cooperative network. The [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]] is muted in Aichi compared to peripheral prefectures because the Toyota-anchored economy keeps multiple regional banks profitable enough to remain independent.
+Aichi CGC guarantees normally sit alongside loans from [[regional-banks/aichi-bank|Aichi Bank]], [[regional-banks/aichi-fg|Aichi FG (Bank of Nagoya holdco)]], [[regional-banks/chukyo-bank|Chukyo Bank]], [[regional-banks/nagoya-bank|Nagoya Bank]], plus megabank in-prefecture branches ([[megabanks/mufg|MUFG]] has heavy Aichi presence through legacy Tokai Bank roots; [[megabanks/smfg|SMFG]] and [[megabanks/mizuho-fg|Mizuho]] also material), and the dense local shinkin / credit-cooperative network. The [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]] is muted in Aichi compared to peripheral prefectures because the Toyota-anchored economy keeps multiple regional banks profitable enough to remain independent.
 
-Public-finance co-lending typically routes through [[JapanFG/jfc|JFC]] (政府系金融機関) — JFC's SME lending arm directly co-lends with the guarantee-backed regional-bank tranche, while JFC's credit-insurance arm reinsures the guarantee itself. [[JapanFG/shoko-chukin|商工中金 (Shoko Chukin)]] also participates as a complementary mid-tier policy lender, particularly for cooperative-organized supplier groups in the automotive belt.
+Public-finance co-lending typically routes through [[financial-regulators/jfc|JFC]] (政府系金融機関) — JFC's SME lending arm directly co-lends with the guarantee-backed regional-bank tranche, while JFC's credit-insurance arm reinsures the guarantee itself. [[financial-regulators/shoko-chukin|商工中金 (Shoko Chukin)]] also participates as a complementary mid-tier policy lender, particularly for cooperative-organized supplier groups in the automotive belt.
 
 ## 5. 代位弁済と求償
 
-When a guaranteed SME borrower defaults, Aichi CGC pays subrogation (代位弁済) to the lending financial institution under the guarantee contract terms, then takes over the recovery (求償) claim against the borrower. Recovery proceeds — through asset liquidation, installment repayment plans, or M&A succession transfers — flow back to the corporation. Residual losses after recovery are absorbed against the reinsurance layer: [[JapanFG/jfc|JFC]] credit insurance covers the federation-pooled portion, and the [[policy-finance/national-federation-credit-guarantee-corporations|全国信用保証協会連合会]] coordinates loss-sharing and operational standards across the 51 members. In automotive supplier insolvency cascades — when a Tier-1 cuts orders and Tier-2/3 working capital tightens — subrogation volume in Aichi can spike sharply over a single fiscal quarter.
+When a guaranteed SME borrower defaults, Aichi CGC pays subrogation (代位弁済) to the lending financial institution under the guarantee contract terms, then takes over the recovery (求償) claim against the borrower. Recovery proceeds — through asset liquidation, installment repayment plans, or M&A succession transfers — flow back to the corporation. Residual losses after recovery are absorbed against the reinsurance layer: [[financial-regulators/jfc|JFC]] credit insurance covers the federation-pooled portion, and the [[policy-finance/national-federation-credit-guarantee-corporations|全国信用保証協会連合会]] coordinates loss-sharing and operational standards across the 51 members. In automotive supplier insolvency cascades — when a Tier-1 cuts orders and Tier-2/3 working capital tightens — subrogation volume in Aichi can spike sharply over a single fiscal quarter.
 
 ## 6. Crisis-era response
 
@@ -86,7 +86,7 @@ Post-COVID normalization through 2023–2025 produced the expected wave of subro
 
 Within the [[policy-finance/japan-credit-guarantee-system|Japan credit guarantee system]] architecture, Aichi CGC functions as one of the top-tier guarantee-balance corporations whose operational design choices flow upward into federation-wide product templates. When Aichi CGC develops a specialized 経営革新保証 product variant for EV-transition supplier pivots, that operational template is observable to the [[policy-finance/national-federation-credit-guarantee-corporations|全国信用保証協会連合会]] coordination layer and informs analogous products elsewhere (e.g., [[policy-finance/kanagawa-credit-guarantee-corp|Kanagawa CGC]] adapting similar products for the Nissan-anchored supplier base).
 
-The federation-pooled credit-insurance layer at [[JapanFG/jfc|JFC]] absorbs the residual loss after Aichi CGC's first-loss subrogation under the responsibility-sharing system. This means that Aichi CGC's automotive-supplier guarantee book is partially de-correlated from the prefecture's banking sector via reinsurance — a Toyota-production-cut subrogation shock does not stay localized within Aichi banks but instead diffuses through the JFC credit-insurance pool that backstops all 51 corporations.
+The federation-pooled credit-insurance layer at [[financial-regulators/jfc|JFC]] absorbs the residual loss after Aichi CGC's first-loss subrogation under the responsibility-sharing system. This means that Aichi CGC's automotive-supplier guarantee book is partially de-correlated from the prefecture's banking sector via reinsurance — a Toyota-production-cut subrogation shock does not stay localized within Aichi banks but instead diffuses through the JFC credit-insurance pool that backstops all 51 corporations.
 
 ## 8. Comparison with peer prefecture CGCs
 
@@ -107,13 +107,13 @@ This comparison clarifies how prefecture-CGC books differ in shape even though t
 - [[policy-finance/national-federation-credit-guarantee-corporations]]
 - [[policy-finance/tokyo-credit-guarantee-corp]]
 - [[policy-finance/osaka-credit-guarantee-corp]]
-- [[JapanFG/jfc]]
-- [[JapanFG/shoko-chukin]]
-- [[JapanFG/aichi-bank]]
-- [[JapanFG/aichi-fg]]
-- [[JapanFG/chukyo-bank]]
-- [[JapanFG/nagoya-bank]]
-- [[JapanFG/toyota-tsusho-corp]]
+- [[financial-regulators/jfc]]
+- [[financial-regulators/shoko-chukin]]
+- [[regional-banks/aichi-bank]]
+- [[regional-banks/aichi-fg]]
+- [[regional-banks/chukyo-bank]]
+- [[regional-banks/nagoya-bank]]
+- [[financial-conglomerates/toyota-tsusho-corp]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/shinkin-bank-registry-japan]]
 - [[banking/INDEX]]

@@ -31,7 +31,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 ## Reasoning
 
 - Industry description of its origin includes lines like "it made money because it worked out" and "it started like a scam-like business"
-- The stablecoin-market structure of turning short-term rates directly into profit also exists for regulated stablecoins (USDC, [[JapanFG/jpyc|JPYC]], bank-issued deposit tokens), but Tether maximizes margins through scale × minimized KYC cost
+- The stablecoin-market structure of turning short-term rates directly into profit also exists for regulated stablecoins (USDC, [[payment-firms/jpyc|JPYC]], bank-issued deposit tokens), but Tether maximizes margins through scale × minimized KYC cost
 - Profit surged during the U.S. short-rate upcycle (2023-2025); while yen rates remain slow to rise, Japanese SC issuers cannot build the same profit structure (the same "who gets the interest?" issue is organized in [[fintech/stablecoin-revenue-split-economics|稳定币利息分润経済学]])
 - Structurally barred from the institutional-investor market by [[fintech/institutional-stablecoin-deposit-token-thesis|預金トークン論]], leaving retail / exchange-internal / cross-border remittance as the main use cases
 

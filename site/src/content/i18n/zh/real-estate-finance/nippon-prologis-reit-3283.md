@@ -31,7 +31,7 @@ NPR 的组合集中于 **AAA 级现代物流设施**，即 Prologis Japan 在 sp
 | 上市日期 | 2013  年2月 |
 | 资产重点 | AAA 级现代物流设施 |
 | 地理重点 | 大东京、大阪、名古屋物流子市场 |
-| 评级 | [[JapanFG/jcr|JCR]] / [[JapanFG/rating-and-investment|R&I]] 的投资级 |
+| 评级 | [[financial-regulators/jcr|JCR]] / [[financial-regulators/rating-and-investment|R&I]] 的投资级 |
 | 指数纳入 | TSE REIT Index, TSE REIT Logistics Index, GPR / FTSE EPRA Nareit Developed Asia |
 
 ## 2. Prologis sponsor 平台

@@ -72,20 +72,19 @@
     "wikilinks_count": 24,
     "wikilinks": [
       "INDEX",
-      "JapanFG/aeon-bank",
       "JapanFG/jr-central",
       "JapanFG/jr-central\\",
-      "JapanFG/jr-east",
-      "JapanFG/jr-east\\",
       "JapanFG/jr-hokkaido",
       "JapanFG/jr-hokkaido\\",
       "JapanFG/jr-kyushu",
       "JapanFG/jr-kyushu\\",
       "JapanFG/jr-west",
       "JapanFG/jr-west\\",
-      "JapanFG/rakuten-edy",
-      "JapanFG/seven-bank",
+      "card-issuers/aeon-bank",
+      "card-issuers/jr-east",
+      "card-issuers/jr-east\\",
       "loyalty/japan-points-landscape",
+      "payment-firms/rakuten-edy",
       "payments/INDEX",
       "payments/cashless-jp-landscape",
       "payments/funds-transfer-vs-prepaid-boundary",
@@ -94,24 +93,24 @@
       "payments/japan-code-payment-competitive-map",
       "payments/japan-payment-clearing-and-settlement-infrastructure",
       "payments/japan-payment-scheme-economics-matrix",
-      "payments/prepaid-payment-instrument-issuers-japan-index"
+      "payments/prepaid-payment-instrument-issuers-japan-index",
+      "regional-banks/seven-bank"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/aeon-bank",
       "https://finwiki.zksc.io/JapanFG/jr-central",
       "https://finwiki.zksc.io/JapanFG/jr-central\\",
-      "https://finwiki.zksc.io/JapanFG/jr-east",
-      "https://finwiki.zksc.io/JapanFG/jr-east\\",
       "https://finwiki.zksc.io/JapanFG/jr-hokkaido",
       "https://finwiki.zksc.io/JapanFG/jr-hokkaido\\",
       "https://finwiki.zksc.io/JapanFG/jr-kyushu",
       "https://finwiki.zksc.io/JapanFG/jr-kyushu\\",
       "https://finwiki.zksc.io/JapanFG/jr-west",
       "https://finwiki.zksc.io/JapanFG/jr-west\\",
-      "https://finwiki.zksc.io/JapanFG/rakuten-edy",
-      "https://finwiki.zksc.io/JapanFG/seven-bank",
+      "https://finwiki.zksc.io/card-issuers/aeon-bank",
+      "https://finwiki.zksc.io/card-issuers/jr-east",
+      "https://finwiki.zksc.io/card-issuers/jr-east\\",
       "https://finwiki.zksc.io/loyalty/japan-points-landscape",
+      "https://finwiki.zksc.io/payment-firms/rakuten-edy",
       "https://finwiki.zksc.io/payments/INDEX",
       "https://finwiki.zksc.io/payments/cashless-jp-landscape",
       "https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary",
@@ -120,15 +119,16 @@
       "https://finwiki.zksc.io/payments/japan-code-payment-competitive-map",
       "https://finwiki.zksc.io/payments/japan-payment-clearing-and-settlement-infrastructure",
       "https://finwiki.zksc.io/payments/japan-payment-scheme-economics-matrix",
-      "https://finwiki.zksc.io/payments/prepaid-payment-instrument-issuers-japan-index"
+      "https://finwiki.zksc.io/payments/prepaid-payment-instrument-issuers-japan-index",
+      "https://finwiki.zksc.io/regional-banks/seven-bank"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 15063,
-    "word_like_tokens": 2456,
+    "nonspace_chars": 15102,
+    "word_like_tokens": 2463,
     "inbound_wikilinks_count": 9,
-    "last_modified": "2026-06-02"
+    "last_modified": "2026-06-04"
   }
 }

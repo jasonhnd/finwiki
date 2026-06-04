@@ -60,18 +60,18 @@
     "wikilinks_count": 19,
     "wikilinks": [
       "INDEX",
-      "JapanFG/seven-bank",
-      "JapanFG/seven-card-service",
-      "JapanFG/seven-payment-service",
       "banking/rakuten-bank",
       "business/INDEX",
       "business/aeon-financial-service-retail-bank-case",
       "business/rakuten-group-mobile-finance-bundling-case",
       "business/sony-fg-partial-spinoff-case",
       "business/toyota-financial-services-captive-finance-case",
+      "card-issuers/seven-card-service",
       "corporate-strategy/partial-spinoff-tax-deferral",
+      "payment-firms/seven-payment-service",
       "payments/cashless-jp-landscape",
       "payments/nanaco-prepaid-seven-i",
+      "regional-banks/seven-bank",
       "retail/INDEX",
       "retail/familymart-itochu-financial-integration",
       "retail/lawson-kddi-retail-finance",
@@ -81,18 +81,18 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/seven-bank",
-      "https://finwiki.zksc.io/JapanFG/seven-card-service",
-      "https://finwiki.zksc.io/JapanFG/seven-payment-service",
       "https://finwiki.zksc.io/banking/rakuten-bank",
       "https://finwiki.zksc.io/business/INDEX",
       "https://finwiki.zksc.io/business/aeon-financial-service-retail-bank-case",
       "https://finwiki.zksc.io/business/rakuten-group-mobile-finance-bundling-case",
       "https://finwiki.zksc.io/business/sony-fg-partial-spinoff-case",
       "https://finwiki.zksc.io/business/toyota-financial-services-captive-finance-case",
+      "https://finwiki.zksc.io/card-issuers/seven-card-service",
       "https://finwiki.zksc.io/corporate-strategy/partial-spinoff-tax-deferral",
+      "https://finwiki.zksc.io/payment-firms/seven-payment-service",
       "https://finwiki.zksc.io/payments/cashless-jp-landscape",
       "https://finwiki.zksc.io/payments/nanaco-prepaid-seven-i",
+      "https://finwiki.zksc.io/regional-banks/seven-bank",
       "https://finwiki.zksc.io/retail/INDEX",
       "https://finwiki.zksc.io/retail/familymart-itochu-financial-integration",
       "https://finwiki.zksc.io/retail/lawson-kddi-retail-finance",
@@ -104,9 +104,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 12665,
-    "word_like_tokens": 2122,
+    "nonspace_chars": 12719,
+    "word_like_tokens": 2131,
     "inbound_wikilinks_count": 2,
-    "last_modified": "2026-06-03"
+    "last_modified": "2026-06-04"
   }
 }

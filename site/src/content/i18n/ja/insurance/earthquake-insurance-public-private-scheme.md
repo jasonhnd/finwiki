@@ -11,9 +11,9 @@ translated_at: 2026-06-02T14:01:20.936Z
 
 ## 概要
 
-日本の家計向け地震保険は、通常の民間損害保険商品ではない。民間損害保険会社、[[JapanFG/japan-earthquake-reinsurance|Japan Earthquake Reinsurance]]、日本政府が関与する官民共同スキームである。通常は家計向け火災保険に付帯され、住宅建物と家財を対象に、法定の商品制約、支払区分、政府が支える再保険構造を備える。
+日本の家計向け地震保険は、通常の民間損害保険商品ではない。民間損害保険会社、[[non-life-insurers/japan-earthquake-reinsurance|Japan Earthquake Reinsurance]]、日本政府が関与する官民共同スキームである。通常は家計向け火災保険に付帯され、住宅建物と家財を対象に、法定の商品制約、支払区分、政府が支える再保険構造を備える。
 
-このページは [[insurance/natcat-reinsurance-japan|nat-cat reinsurance Japan]]、[[insurance/japan-nonlife-big-three|Japan non-life big three]]、[[JapanFG/japan-earthquake-reinsurance|Japan Earthquake Reinsurance]]、[[JapanFG/toa-reinsurance|Toa Reinsurance]]、[[JapanFG/tokio-marine|Tokio Marine]]、[[JapanFG/msad|MS&AD]]、[[JapanFG/sompo|Sompo]] と併読する。
+このページは [[insurance/natcat-reinsurance-japan|nat-cat reinsurance Japan]]、[[insurance/japan-nonlife-big-three|Japan non-life big three]]、[[non-life-insurers/japan-earthquake-reinsurance|Japan Earthquake Reinsurance]]、[[non-life-insurers/toa-reinsurance|Toa Reinsurance]]、[[non-life-insurers/tokio-marine|Tokio Marine]]、[[non-life-insurers/msad|MS&AD]]、[[non-life-insurers/sompo|Sompo]] と併読する。
 
 ## スキームマップ
 
@@ -53,7 +53,7 @@ translated_at: 2026-06-02T14:01:20.936Z
 | 公的役割 | 政府の直接的な再保険参加 | 通常は間接的。ただし公的災害財政や政策措置を除く。 |
 | FinWiki上の経路 | このページ | [[insurance/natcat-reinsurance-japan]] |
 
-家計向け地震保険スキームから、[[JapanFG/tokio-marine|Tokio Marine]]、[[JapanFG/msad|MS&AD]]、[[JapanFG/sompo|Sompo]] の災害エクスポージャー全体を推定してはいけない。大手損保グループは、この官民共同の家計向けスキームの外側で、商業、海外、地震以外の災害リスクも引き受けている。
+家計向け地震保険スキームから、[[non-life-insurers/tokio-marine|Tokio Marine]]、[[non-life-insurers/msad|MS&AD]]、[[non-life-insurers/sompo|Sompo]] の災害エクスポージャー全体を推定してはいけない。大手損保グループは、この官民共同の家計向けスキームの外側で、商業、海外、地震以外の災害リスクも引き受けている。
 
 ## スキームの効果
 
@@ -70,7 +70,7 @@ translated_at: 2026-06-02T14:01:20.936Z
 1. 家計向け地震保険、またはより広い災害再保険カテゴリ。
 2. 日本地震再保険 / 財務省の出典日付付きの数値限度額またはレイヤー。
 3. 会社レベルの損害保険エクスポージャーを [[insurance/japan-nonlife-big-three|non-life big three]] と [[insurance/natcat-reinsurance-japan|nat-cat reinsurance Japan]] に接続する。
-4. 公的スキームの仕組みを [[JapanFG/japan-earthquake-reinsurance|Japan Earthquake Reinsurance]] に接続する。
+4. 公的スキームの仕組みを [[non-life-insurers/japan-earthquake-reinsurance|Japan Earthquake Reinsurance]] に接続する。
 5. 家計向け地震保険スキームと商業災害損失の境界。
 
 ## 関連項目
@@ -78,11 +78,11 @@ translated_at: 2026-06-02T14:01:20.936Z
 - [[insurance/INDEX]]
 - [[insurance/natcat-reinsurance-japan]]
 - [[insurance/japan-nonlife-big-three]]
-- [[JapanFG/japan-earthquake-reinsurance]]
-- [[JapanFG/toa-reinsurance]]
-- [[JapanFG/tokio-marine]]
-- [[JapanFG/msad]]
-- [[JapanFG/sompo]]
+- [[non-life-insurers/japan-earthquake-reinsurance]]
+- [[non-life-insurers/toa-reinsurance]]
+- [[non-life-insurers/tokio-marine]]
+- [[non-life-insurers/msad]]
+- [[non-life-insurers/sompo]]
 - [[policy-finance/INDEX]]
 - [[INDEX|FinWiki index]]
 

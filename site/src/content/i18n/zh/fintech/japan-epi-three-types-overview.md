@@ -36,7 +36,7 @@ translated_at: 2026-05-31T07:28:06.159Z
 | 银行型 | 银行 | 银行业法 + EPI | 中（与存款联动） | 与银行资产负债表挂钩 | Minna no Ginko SC（Solana 路线） |
 | 资金移转业者型 | 资金移转业者 | 资金结算法 | 低（部分小额跨境场景受 ¥100 万 限制） | 每笔 ¥100 万（部分场景） | JPYC（冈部典孝） |
 
-**信托型**（[[JapanFG/progmat|Progmat]] XJPY）：由三菱 UFJ、三井住友、瑞穗三大银行与 Datachain 合资，采用 non-MUFG-controlled 设计（单一最大股东 49% + 通过 51% 实现治理多元化），面向大额 B2B 资金。**银行型**（Minna no Ginko）：福冈 FG / Minna no Ginko + Solana 路线，面向银行零售客户。**资金移转业者型**（[[JapanFG/jpyc|JPYC]]）：由冈部典孝主导，是日本唯一的资金移转业者型 SC 持有者，在 3  个月内增长 2.6  倍。
+**信托型**（[[payment-firms/progmat|Progmat]] XJPY）：由三菱 UFJ、三井住友、瑞穗三大银行与 Datachain 合资，采用 non-MUFG-controlled 设计（单一最大股东 49% + 通过 51% 实现治理多元化），面向大额 B2B 资金。**银行型**（Minna no Ginko）：福冈 FG / Minna no Ginko + Solana 路线，面向银行零售客户。**资金移转业者型**（[[payment-firms/jpyc|JPYC]]）：由冈部典孝主导，是日本唯一的资金移转业者型 SC 持有者，在 3  个月内增长 2.6  倍。
 
 ## Origin & evolution
 

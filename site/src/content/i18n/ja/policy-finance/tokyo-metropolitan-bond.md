@@ -21,7 +21,7 @@ translated_at: 2026-06-03T00:53:08.310Z
 | 発行レーン | 公募国内債券、外貨建債券（過去に断続的に発行）、銀行引受私募債 |
 | 監視ルート | 発行承認のための総務省協議（協議）。一部のクラスの財務省 |
 | 投資家ベース | 銀行、生命保険会社、地方銀行、年金基金、小売業（一部の個人向けシリーズ） |
-| FinWiki 関連項目ルート | [[policy-finance/local-government-bond-market]] (市場レベル)、[[policy-finance/japan-finance-organization-municipalities|JFM]] (代替資金調達チャネル)、[[JapanFG/local-bond-market]] (エンティティクラスタービュー) |
+| FinWiki 関連項目ルート | [[policy-finance/local-government-bond-market]] (市場レベル)、[[policy-finance/japan-finance-organization-municipalities|JFM]] (代替資金調達チャネル)、[[financial-regulators/local-bond-market]] (エンティティクラスタービュー) |
 ## 2。なぜ東京都債が特殊なのか
 東京都は単なる大きな県ではありません。これは他の地方自治体債とは構造的に異なります。
 1. **課税標準規模**: 地方税 (法人住民税、固定資産税、都市計画税) だけでも、多くの主権国家よりも大きな歳入基盤を生み出します。東京都は、歴史的に地方交付税の財政平衡化移譲（不渡団体としての地位）を**受けていない**数少ない日本の地方自治体の1つであり、ほとんどの発行体とは異なる信用分析カテゴリーに分類されています。
@@ -44,7 +44,7 @@ translated_at: 2026-06-03T00:53:08.310Z
 - [[policy-finance/japan-finance-organization-municipalities|JFM]] 資金提供との対照 - 東京都は市場アクセスがオープンであり、JFM の利用割合は小規模自治体に比べてはるかに低いです。
 - **ラベル付き債券のパイオニア** — 東京都グリーン・サステナビリティ・ボンドは、他県による同様の発行の下地を整えました。
 - 機関投資家向けの **代替公的信用資産** — 日本の銀行、保険会社、年金基金は、高格付けの円公的信用を維持しながら、国債から分散投資することができます。
-日本の機関投資家が国債、地方債、[[JapanFG/jbic|JBIC]] / [[JapanFG/dbj|DBJ]] 関連項目の政府保証債、企業信用をどのように配分しているかを理解するために、[[policy-finance/japan-project-finance-stack-diagram|project-finance stack]] と自然に組み合わされます。これは、これらの結合が担保として機能する [[money-market/INDEX|money-market]] ドメインにも隣接しています。
+日本の機関投資家が国債、地方債、[[financial-regulators/jbic|JBIC]] / [[financial-regulators/dbj|DBJ]] 関連項目の政府保証債、企業信用をどのように配分しているかを理解するために、[[policy-finance/japan-project-finance-stack-diagram|project-finance stack]] と自然に組み合わされます。これは、これらの結合が担保として機能する [[money-market/INDEX|money-market]] ドメインにも隣接しています。
 ## 5。境界事例
 - **国債ではありません**: 返済は国の貸借対照表ではなく、東京都の税収と法定の枠組みに依存します。
 - **共同地方債ではありません**: 東京都が独自に発行します。これは、小規模な発行者をサポートする共同発行プールの一部ではありません。
@@ -65,10 +65,10 @@ translated_at: 2026-06-03T00:53:08.310Z
 - [[policy-finance/japan-finance-organization-municipalities]]
 - [[policy-finance/japan-local-bond-association]]
 - [[policy-finance/japan-policy-finance-system]]
-- [[JapanFG/local-bond-market]]
-- [[JapanFG/local-govt-finance]]
-- [[JapanFG/jbic]]
-- [[JapanFG/dbj]]
+- [[financial-regulators/local-bond-market]]
+- [[financial-regulators/local-govt-finance]]
+- [[financial-regulators/jbic]]
+- [[financial-regulators/dbj]]
 - [[money-market/INDEX]]
 - [[INDEX|FinWiki index]]
 ## 出典

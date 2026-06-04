@@ -1,0 +1,93 @@
+{
+  "schema_version": "1.0",
+  "slug": "regional-banks/dai-shi-hokuetsu-fg",
+  "source_path": "regional-banks/dai-shi-hokuetsu-fg.md",
+  "url": "https://finwiki.zksc.io/regional-banks/dai-shi-hokuetsu-fg",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/regional-banks/dai-shi-hokuetsu-fg.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/regional-banks/dai-shi-hokuetsu-fg.md",
+  "domain": "regional-banks",
+  "title": "第四北越 FG",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "第四北越 FG",
+    "aliases": [
+      "Dai-shi Hokuetsu FG",
+      "Daishi Hokuetsu Financial Group",
+      "第四北越フィナンシャルグループ",
+      "株式会社第四北越フィナンシャルグループ",
+      "第四北越 FG",
+      "DHFG"
+    ],
+    "domain": "regional-banks",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "regional-bank"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: 第四北越フィナンシャルグループ (2026-05-19 抽出)",
+      "Wikipedia: 第四北越銀行 (2026-05-19 抽出)",
+      "Wikipedia: 第四銀行 (2026-05-19 抽出)",
+      "Wikipedia: 北越銀行 (2026-05-19 抽出)"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against ふくおか FG (FFG) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "第四北越 FG",
+    "Wiki route",
+    "TL;DR",
+    "1. 会社概要",
+    "主要子会社・持分",
+    "合併歴史・前身",
+    "重要年表",
+    "2. 事業セグメント・マップ",
+    "地盤統合戦略（県内一行型）",
+    "県外進出戦略"
+  ],
+  "body_links": {
+    "wikilinks_count": 13,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "banking/INDEX",
+      "concordia-fg",
+      "fukuoka-fg",
+      "mebuki-fg",
+      "mizuho-fg",
+      "mufg",
+      "ndfg",
+      "regional-banks/chiba-bank",
+      "regional-banks/fukuoka-fg",
+      "sbi-hd",
+      "smfg",
+      "yucho"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/concordia-fg",
+      "https://finwiki.zksc.io/fukuoka-fg",
+      "https://finwiki.zksc.io/mebuki-fg",
+      "https://finwiki.zksc.io/mizuho-fg",
+      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/ndfg",
+      "https://finwiki.zksc.io/regional-banks/chiba-bank",
+      "https://finwiki.zksc.io/regional-banks/fukuoka-fg",
+      "https://finwiki.zksc.io/sbi-hd",
+      "https://finwiki.zksc.io/smfg",
+      "https://finwiki.zksc.io/yucho"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3582,
+    "word_like_tokens": 577,
+    "inbound_wikilinks_count": 3,
+    "last_modified": "2026-06-04"
+  }
+}

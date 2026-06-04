@@ -1,0 +1,104 @@
+{
+  "schema_version": "1.0",
+  "slug": "financial-conglomerates/itochu-corp",
+  "source_path": "financial-conglomerates/itochu-corp.md",
+  "url": "https://finwiki.zksc.io/financial-conglomerates/itochu-corp",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/financial-conglomerates/itochu-corp.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/financial-conglomerates/itochu-corp.md",
+  "domain": "financial-conglomerates",
+  "title": "伊藤忠商事 (ITOCHU Corporation)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "伊藤忠商事 (ITOCHU Corporation)",
+    "aliases": [
+      "ITOCHU Corporation",
+      "ITOCHU",
+      "伊藤忠商事",
+      "伊藤忠商事株式会社",
+      "伊藤忠",
+      "Itochu",
+      "8001",
+      "itochu-corp",
+      "itochu"
+    ],
+    "domain": "financial-conglomerates",
+    "created": "2026-05-24",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
+    "review_by": "2026-11-20",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "sogo-shosha",
+      "parent-company",
+      "textile",
+      "food",
+      "retail",
+      "familymart",
+      "ict",
+      "non-resource",
+      "conglomerate"
+    ],
+    "status": "active",
+    "sources": [
+      "伊藤忠商事 (8001) 公式 IR — https://www.itochu.co.jp/ja/ir/",
+      "伊藤忠商事 統合報告書 — https://www.itochu.co.jp/ja/ir/library/annual_report/",
+      "EDINET 有価証券報告書 — https://disclosure.edinet-fsa.go.jp/ (検索: 伊藤忠商事)",
+      "JPX 銘柄情報 8001 — https://www2.jpx.co.jp/"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index as a sōgō shōsha parent holding-company (non-financial-services 商社 parent, but JapanFG-relevant via its financial-services 子会社 and strategic shareholdings). Read it against 三菱商事 (5 大首位 / 資源寄り対照) and 丸紅 (繊維・穀物商社としての対照) for peer / contrast context. For the financial",
+  "headings": [
+    "伊藤忠商事 (ITOCHU Corporation)",
+    "Wiki route",
+    "1. 会社概要",
+    "主要子会社・関連会社 (JapanFG 文脈)",
+    "沿革ハイライト ^[extracted]",
+    "2. 事業セグメント・マップ",
+    "3. Financial-services adjacency",
+    "5 大商社内の identity",
+    "競合",
+    "5. 規制・政策"
+  ],
+  "body_links": {
+    "wikilinks_count": 13,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "finance/INDEX",
+      "finance/japan-listed-financial-groups-investable-universe",
+      "financial-conglomerates/marubeni-corp",
+      "financial-conglomerates/mitsubishi-corp",
+      "financial-conglomerates/mitsui-co",
+      "financial-conglomerates/sojitz-corp",
+      "financial-conglomerates/sumitomo-corp",
+      "financial-conglomerates/toyota-tsusho-corp",
+      "leasing-firms/tokyo-century",
+      "megabanks/mizuho-fg",
+      "payment-firms/famima-digital-one",
+      "trading-company-finance/itochu-finance"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/finance/INDEX",
+      "https://finwiki.zksc.io/finance/japan-listed-financial-groups-investable-universe",
+      "https://finwiki.zksc.io/financial-conglomerates/marubeni-corp",
+      "https://finwiki.zksc.io/financial-conglomerates/mitsubishi-corp",
+      "https://finwiki.zksc.io/financial-conglomerates/mitsui-co",
+      "https://finwiki.zksc.io/financial-conglomerates/sojitz-corp",
+      "https://finwiki.zksc.io/financial-conglomerates/sumitomo-corp",
+      "https://finwiki.zksc.io/financial-conglomerates/toyota-tsusho-corp",
+      "https://finwiki.zksc.io/leasing-firms/tokyo-century",
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/payment-firms/famima-digital-one",
+      "https://finwiki.zksc.io/trading-company-finance/itochu-finance"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 5488,
+    "word_like_tokens": 856,
+    "inbound_wikilinks_count": 13,
+    "last_modified": "2026-06-04"
+  }
+}

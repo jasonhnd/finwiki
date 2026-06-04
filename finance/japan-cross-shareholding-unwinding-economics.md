@@ -34,7 +34,7 @@ This page sits under [[finance/INDEX|finance domain]]. Read it with [[finance/ja
 
 ## TL;DR
 
-Japan cross-shareholding (政策保有株, *seisaku hoyū kabushiki*, or "policy holding stock") is the legacy practice of listed corporates holding shares in business partners, customers, suppliers, banks, and group companies for relationship rather than investment-return reasons. Post-2015 CG code revisions, with reinforcement in 2018 / 2021 / 2024, and FSA / METI scrutiny have driven a sustained unwinding programme. Accounting treatment shifted from cost / available-for-sale to fair-value-through-OCI under IFRS 9 (with no recycling to P&L on disposal) and similar FV-OCI mechanics under revised JGAAP. Tax-efficient disposal routes include market sales, ToSTNeT block trades, share buyback by the issuer, and exchangeable-bond monetisation. Megabanks ([[JapanFG/mufg|MUFG]], [[JapanFG/smfg|SMFG]], [[JapanFG/mizuho-fg|Mizuho FG]]), insurers, and shōsha ([[JapanFG/mitsubishi-corp|Mitsubishi Corp]], [[JapanFG/mitsui-co|Mitsui & Co]], [[JapanFG/itochu-corp|Itochu Corp]]) are leading the unwinding programme.
+Japan cross-shareholding (政策保有株, *seisaku hoyū kabushiki*, or "policy holding stock") is the legacy practice of listed corporates holding shares in business partners, customers, suppliers, banks, and group companies for relationship rather than investment-return reasons. Post-2015 CG code revisions, with reinforcement in 2018 / 2021 / 2024, and FSA / METI scrutiny have driven a sustained unwinding programme. Accounting treatment shifted from cost / available-for-sale to fair-value-through-OCI under IFRS 9 (with no recycling to P&L on disposal) and similar FV-OCI mechanics under revised JGAAP. Tax-efficient disposal routes include market sales, ToSTNeT block trades, share buyback by the issuer, and exchangeable-bond monetisation. Megabanks ([[megabanks/mufg|MUFG]], [[megabanks/smfg|SMFG]], [[megabanks/mizuho-fg|Mizuho FG]]), insurers, and shōsha ([[financial-conglomerates/mitsubishi-corp|Mitsubishi Corp]], [[financial-conglomerates/mitsui-co|Mitsui & Co]], [[financial-conglomerates/itochu-corp|Itochu Corp]]) are leading the unwinding programme.
 
 ## What counts as policy-holding stock
 
@@ -124,9 +124,9 @@ The right comparison uses publicly disclosed Securities Report holdings and CG-r
 
 | Group | Public disclosure source |
 |---|---|
-| [[JapanFG/mufg|MUFG]] | MUFG annual securities report and integrated report; CG report on TSE |
-| [[JapanFG/smfg|SMFG]] | SMFG annual securities report and integrated report; CG report on TSE |
-| [[JapanFG/mizuho-fg|Mizuho FG]] | Mizuho FG annual securities report and integrated report; CG report on TSE |
+| [[megabanks/mufg|MUFG]] | MUFG annual securities report and integrated report; CG report on TSE |
+| [[megabanks/smfg|SMFG]] | SMFG annual securities report and integrated report; CG report on TSE |
+| [[megabanks/mizuho-fg|Mizuho FG]] | Mizuho FG annual securities report and integrated report; CG report on TSE |
 
 Megabanks have publicly committed to multi-year reduction targets in policy-holdings (typically expressed as percentage of CET1 capital or as absolute book / fair-value balance). Disclosure cycles align with annual financial reporting.
 
@@ -134,9 +134,9 @@ Megabanks have publicly committed to multi-year reduction targets in policy-hold
 
 | Group | Holding profile |
 |---|---|
-| [[JapanFG/mitsubishi-corp|Mitsubishi Corp]] | Cross-holdings include group / partner equity, with public disclosure of major positions |
-| [[JapanFG/mitsui-co|Mitsui & Co]] | Public disclosure of policy-holdings and rationale |
-| [[JapanFG/itochu-corp|Itochu Corp]] | Public disclosure of policy-holdings and rationale; Itochu has been relatively forward-leaning on disposals |
+| [[financial-conglomerates/mitsubishi-corp|Mitsubishi Corp]] | Cross-holdings include group / partner equity, with public disclosure of major positions |
+| [[financial-conglomerates/mitsui-co|Mitsui & Co]] | Public disclosure of policy-holdings and rationale |
+| [[financial-conglomerates/itochu-corp|Itochu Corp]] | Public disclosure of policy-holdings and rationale; Itochu has been relatively forward-leaning on disposals |
 
 Shōsha policy-holdings often include strategic stakes in upstream / midstream / downstream value chain. Disposal pace varies by counterparty strategic importance.
 
@@ -216,13 +216,13 @@ TSE Prime market introduced explicit pressure on listed companies with persisten
 - [[banking/regional-bank-consolidation-pattern]]
 - [[corporate-strategy/partial-spinoff-tax-deferral]]
 - [[securities/japan-underwriting-market-structure]]
-- [[JapanFG/mufg]]
-- [[JapanFG/smfg]]
-- [[JapanFG/mizuho-fg]]
-- [[JapanFG/mitsubishi-corp]]
-- [[JapanFG/mitsui-co]]
-- [[JapanFG/itochu-corp]]
-- [[JapanFG/dbj]]
+- [[megabanks/mufg]]
+- [[megabanks/smfg]]
+- [[megabanks/mizuho-fg]]
+- [[financial-conglomerates/mitsubishi-corp]]
+- [[financial-conglomerates/mitsui-co]]
+- [[financial-conglomerates/itochu-corp]]
+- [[financial-regulators/dbj]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

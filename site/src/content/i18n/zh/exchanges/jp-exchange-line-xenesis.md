@@ -71,7 +71,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 
 - 月度交易额・账户数均未公布
 - 鉴于以 LINE App 的月活跃用户（日本国内 9,500万人以上 / 参 LINE 雅虎 IR）为获客基础的结构，账户数应有相应规模，但具体数字的披露未获确认
-- 从币种数・功能的有限性来看，业界内的定位为面向零售・初学者的利基玩家。与 [[exchanges/jp-exchange-bitflyer|bitFlyer]]・[[exchanges/jp-exchange-coincheck|Coincheck]]・[[exchanges/jp-exchange-gmo-coin|GMOコイン]] 等大手的差异化轴为「LINE 生态系内的便捷性」（与 [[JapanFG/paypay-fg|PayPay 経済圏]] 的乐天・LINE 整合系列的动向一体）
+- 从币种数・功能的有限性来看，业界内的定位为面向零售・初学者的利基玩家。与 [[exchanges/jp-exchange-bitflyer|bitFlyer]]・[[exchanges/jp-exchange-coincheck|Coincheck]]・[[exchanges/jp-exchange-gmo-coin|GMOコイン]] 等大手的差异化轴为「LINE 生态系内的便捷性」（与 [[megabanks/paypay-fg|PayPay 経済圏]] 的乐天・LINE 整合系列的动向一体）
 - 服务终止发表后，竞争对手（[[exchanges/jp-exchange-coincheck|Coincheck]] 等）展开了以吸纳用户为目的的迁移活动
 
 ## 6. 沿革・重大事件

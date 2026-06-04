@@ -1,0 +1,97 @@
+{
+  "schema_version": "1.0",
+  "slug": "financial-regulators/cci-group",
+  "source_path": "financial-regulators/cci-group.md",
+  "url": "https://finwiki.zksc.io/financial-regulators/cci-group",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/financial-regulators/cci-group.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/financial-regulators/cci-group.md",
+  "domain": "financial-regulators",
+  "title": "CCIグループ (CCI Group)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "CCIグループ (CCI Group)",
+    "aliases": [
+      "CCI Group",
+      "株式会社CCIグループ",
+      "CCIグループ",
+      "北國フィナンシャルホールディングス",
+      "Hokkoku Financial Holdings",
+      "北國 FHD"
+    ],
+    "domain": "financial-regulators",
+    "created": "2026-05-22",
+    "last_updated": "2026-05-22",
+    "last_tended": "2026-05-22",
+    "review_by": "2026-11-22",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "regional-bank",
+      "bank-holding-company",
+      "hokkoku",
+      "digital-bank",
+      "stablecoin"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.ccig.co.jp/company/about/",
+      "https://www.ccig.co.jp/company/",
+      "https://www.fsa.go.jp/menkyo/menkyoj/ginkoumochikabu.pdf",
+      "https://www.ccig.co.jp/ir/index.html"
+    ]
+  },
+  "summary": "CCI Group is the current-name bank-holding-company page for the former Hokkoku Financial Holdings route. Read it with Hokkoku Bank, regional bank API / digital partnership, deposit-token / digital-money routes, and banking domain.",
+  "headings": [
+    "CCIグループ (CCI Group)",
+    "Wiki route",
+    "Overview",
+    "Entity Boundary",
+    "Group Structure Map",
+    "Public Context",
+    "Regulatory / Research Notes",
+    "Caveats",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 13,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/INDEX",
+      "asset-managers/nomura-asset-management",
+      "banking/INDEX",
+      "banking/regional-bank-api-digital-partnership-route",
+      "finance/cross-border-m-a-japan",
+      "financial-regulators/zenginkyo",
+      "fintech/jp-stablecoin-dcjpy",
+      "regional-banks/fukuoka-fg",
+      "regional-banks/hokkoku-bank",
+      "regional-banks/hokkoku-fhd",
+      "regional-banks/kyushu-fg",
+      "regional-banks/shizuoka-fg"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/asset-managers/nomura-asset-management",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/banking/regional-bank-api-digital-partnership-route",
+      "https://finwiki.zksc.io/finance/cross-border-m-a-japan",
+      "https://finwiki.zksc.io/financial-regulators/zenginkyo",
+      "https://finwiki.zksc.io/fintech/jp-stablecoin-dcjpy",
+      "https://finwiki.zksc.io/regional-banks/fukuoka-fg",
+      "https://finwiki.zksc.io/regional-banks/hokkoku-bank",
+      "https://finwiki.zksc.io/regional-banks/hokkoku-fhd",
+      "https://finwiki.zksc.io/regional-banks/kyushu-fg",
+      "https://finwiki.zksc.io/regional-banks/shizuoka-fg"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 4951,
+    "word_like_tokens": 787,
+    "inbound_wikilinks_count": 6,
+    "last_modified": "2026-06-04"
+  }
+}

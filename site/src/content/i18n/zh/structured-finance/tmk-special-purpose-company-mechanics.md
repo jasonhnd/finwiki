@@ -103,7 +103,7 @@ TMK-J-REIT 的互动对于理解更广泛的日本房地产载体生态很重要
 | 发行 | Specified bonds 公开发行；按优先级分层 |
 | 抵押品 | 商业房地产支持的抵押贷款，或商业房地产信托受益权 |
 | 资产流动化计划 | 向 FSA 提交；规定资产现金流分配机制 |
-| 评级 | 通常为国内机构（[[JapanFG/jcr|JCR]] / [[JapanFG/rating-and-investment|R&I]]）；面向外国投资者的交易使用全球机构（[[JapanFG/sp-global-ratings-japan|S&P]] / [[JapanFG/moodys-japan|Moody's]]） |
+| 评级 | 通常为国内机构（[[financial-regulators/jcr|JCR]] / [[financial-regulators/rating-and-investment|R&I]]）；面向外国投资者的交易使用全球机构（[[JapanFG/sp-global-ratings-japan|S&P]] / [[JapanFG/moodys-japan|Moody's]]） |
 | 投资者基础 | 寿险公司、资产管理人、megabank ALM 账簿、外国机构投资者 |
 | Servicer / trustee | 信托银行或专业 servicer 角色 |
 
@@ -136,7 +136,7 @@ TMK 是日本**单一借款人上市 CMBS** 的主导结构（后 2008  CMBS 形
 - [[real-estate-finance/japan-cmbs-rmbs-securitization|Japan CMBS and RMBS securitization]]
 - [[real-estate-finance/gk-tk-bond-real-estate-spv|GK-TK bond real-estate SPV]]
 - [[real-estate-finance/INDEX|real-estate-finance index]]
-- [[JapanFG/jcr|JCR]] · [[JapanFG/rating-and-investment|R&I]]
+- [[financial-regulators/jcr|JCR]] · [[financial-regulators/rating-and-investment|R&I]]
 - [[INDEX|FinWiki index]]
 
 ## 来源

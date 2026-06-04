@@ -1,0 +1,78 @@
+{
+  "schema_version": "1.0",
+  "slug": "foreign-financial-institutions/dbs-bank-japan",
+  "source_path": "foreign-financial-institutions/dbs-bank-japan.md",
+  "url": "https://finwiki.zksc.io/foreign-financial-institutions/dbs-bank-japan",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/foreign-financial-institutions/dbs-bank-japan.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/foreign-financial-institutions/dbs-bank-japan.md",
+  "domain": "foreign-financial-institutions",
+  "title": "DBS銀行 東京支店",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "DBS銀行 東京支店",
+    "aliases": [
+      "DBS Bank Japan",
+      "DBS Bank Tokyo Branch",
+      "DBS Bank Limited Tokyo Branch",
+      "ＤＢＳ銀行",
+      "ＤＢＳ銀行東京支店"
+    ],
+    "domain": "foreign-financial-institutions",
+    "created": "2026-05-21",
+    "last_updated": "2026-05-21",
+    "last_tended": "2026-05-21",
+    "review_by": "2026-11-21",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "banking",
+      "foreign-bank-branch",
+      "singapore",
+      "wholesale-banking",
+      "operating-branch"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
+      "https://www.dbs.com/jp/tokyo-branch.page"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it with banking index for adjacent context and JapanFG index for the broader system boundary.",
+  "headings": [
+    "DBS銀行 東京支店",
+    "Wiki route",
+    "TL;DR",
+    "1. License / branch boundary",
+    "2. Operating model",
+    "3. Why this page matters",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 6,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "banking/INDEX",
+      "banking/foreign-bank-japan-retreat",
+      "financial-licenses/INDEX",
+      "foreign-financial-institutions/ocbc-bank-japan",
+      "foreign-financial-institutions/uob-bank-japan"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/banking/foreign-bank-japan-retreat",
+      "https://finwiki.zksc.io/financial-licenses/INDEX",
+      "https://finwiki.zksc.io/foreign-financial-institutions/ocbc-bank-japan",
+      "https://finwiki.zksc.io/foreign-financial-institutions/uob-bank-japan"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2190,
+    "word_like_tokens": 359,
+    "inbound_wikilinks_count": 11,
+    "last_modified": "2026-06-04"
+  }
+}

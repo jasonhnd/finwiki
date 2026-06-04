@@ -1,0 +1,92 @@
+{
+  "schema_version": "1.0",
+  "slug": "life-insurers/prudential-japan",
+  "source_path": "life-insurers/prudential-japan.md",
+  "url": "https://finwiki.zksc.io/life-insurers/prudential-japan",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/life-insurers/prudential-japan.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/life-insurers/prudential-japan.md",
+  "domain": "life-insurers",
+  "title": "プルデンシャル・ジブラルタ・ファイナンシャル (Prudential Japan)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "プルデンシャル・ジブラルタ・ファイナンシャル (Prudential Japan)",
+    "aliases": [
+      "Prudential Japan",
+      "プルデンシャル生命",
+      "プルデンシャル・ホールディング・オブ・ジャパン",
+      "ジブラルタ生命",
+      "Gibraltar Life",
+      "PGF生命",
+      "プルデンシャル ジブラルタ ファイナンシャル生命",
+      "Prudential of Japan",
+      "life-insurers/kyoei-life",
+      "life-insurers/prudential-life-japan"
+    ],
+    "domain": "life-insurers",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "life-insurance",
+      "foreign-japan-subsidiary"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: プルデンシャル生命保険 (2026-05-19 抽出)",
+      "Wikipedia: ジブラルタ生命保険 (2026-05-19 抽出)",
+      "Wikipedia: プルデンシャル ジブラルタ ファイナンシャル生命保険 (2026-05-19 抽出)",
+      "Prudential Financial, Inc. Form 10-K (公開情報)"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against アクサ・ジャパン (AXA Japan) for peer / contrast context and insurance index for the broader system / regulatory boundary.",
+  "headings": [
+    "プルデンシャル・ジブラルタ・ファイナンシャル (Prudential Japan)",
+    "Wiki route",
+    "TL;DR",
+    "1. 会社概要",
+    "3 生保の連結ポジション ^[extracted]",
+    "主要構造図",
+    "合併歴史・買収譜系",
+    "重要年表（抜粋）^[extracted]",
+    "2. 事業セグメント・マップ",
+    "ライフプランナー（LP）モデル"
+  ],
+  "body_links": {
+    "wikilinks_count": 10,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "dai-ichi-life",
+      "insurance/INDEX",
+      "life-insurers/axa-japan",
+      "meiji-yasuda",
+      "mizuho-fg",
+      "mufg",
+      "ndfg",
+      "smfg",
+      "sony-fg"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/dai-ichi-life",
+      "https://finwiki.zksc.io/insurance/INDEX",
+      "https://finwiki.zksc.io/life-insurers/axa-japan",
+      "https://finwiki.zksc.io/meiji-yasuda",
+      "https://finwiki.zksc.io/mizuho-fg",
+      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/ndfg",
+      "https://finwiki.zksc.io/smfg",
+      "https://finwiki.zksc.io/sony-fg"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 5262,
+    "word_like_tokens": 771,
+    "inbound_wikilinks_count": 15,
+    "last_modified": "2026-06-04"
+  }
+}

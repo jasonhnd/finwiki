@@ -14,7 +14,7 @@ translated_at: 2026-05-31T03:19:56.450Z
 
 Regional-bank digital partnership in Japan is not just "a bank app." It is split into electronic payment agency API contracts, shared API platforms, bank-owned apps, accounting / treasury integrations, BaaS-style bank partnerships, and account-direct payment rails.
 
-Use this page with [[payments/japan-bank-api-payment-agency-route|bank API route]], [[payments/japan-bank-api-incident-and-fraud-control|bank API incident controls]], [[banking/baas-japan-landscape|BaaS Japan landscape]], [[banking/regional-bank-consolidation-pattern|regional bank consolidation]], [[payments/account-to-account-payment-japan|account-to-account payments]], and [[JapanFG/legal-financial-licenses/INDEX|legal / financial licenses]].
+Use this page with [[payments/japan-bank-api-payment-agency-route|bank API route]], [[payments/japan-bank-api-incident-and-fraud-control|bank API incident controls]], [[banking/baas-japan-landscape|BaaS Japan landscape]], [[banking/regional-bank-consolidation-pattern|regional bank consolidation]], [[payments/account-to-account-payment-japan|account-to-account payments]], and [[financial-licenses/INDEX|legal / financial licenses]].
 
 ## Route Map
 
@@ -30,11 +30,11 @@ Use this page with [[payments/japan-bank-api-payment-agency-route|bank API route
 
 | Example | Public relevance |
 |---|---|
-| [[JapanFG/yokohama-bank|Yokohama Bank]] API disclosure | Publicly lists electronic payment agency API contract route and user-compensation language. |
+| [[regional-banks/yokohama-bank|Yokohama Bank]] API disclosure | Publicly lists electronic payment agency API contract route and user-compensation language. |
 | TSUBASA FinTech common platform | Shows regional-bank alliance approach to shared API / digital-service platform infrastructure. |
-| [[JapanFG/chiba-bank|Chiba Bank]] / TSUBASA participants | Illustrates how regional banks can pool technology while remaining separate banking entities. |
-| [[JapanFG/fukuoka-fg|Fukuoka FG]] / iBank style route | Shows regional bank group app / platform strategy beyond a plain account-view app. |
-| [[JapanFG/freee|freee]] and [[JapanFG/money-forward|Money Forward]] | Common accounting / PFM integration anchors for regional bank API analysis. |
+| [[regional-banks/chiba-bank|Chiba Bank]] / TSUBASA participants | Illustrates how regional banks can pool technology while remaining separate banking entities. |
+| [[regional-banks/fukuoka-fg|Fukuoka FG]] / iBank style route | Shows regional bank group app / platform strategy beyond a plain account-view app. |
+| [[payment-firms/freee|freee]] and [[payment-firms/money-forward|Money Forward]] | Common accounting / PFM integration anchors for regional bank API analysis. |
 
 ## Control Questions
 
@@ -49,9 +49,9 @@ Use this page with [[payments/japan-bank-api-payment-agency-route|bank API route
 
 ## JapanFG Relevance
 
-- [[JapanFG/yokohama-bank|Yokohama Bank]], [[JapanFG/chiba-bank|Chiba Bank]], [[JapanFG/chugoku-bank|Chugoku Bank]], [[JapanFG/tsukuba-bank|Tsukuba Bank]], and TSUBASA-linked regional banks are useful API-platform anchors.
-- [[JapanFG/fukuoka-fg|Fukuoka FG]] and [[banking/minna-bank-baas-model|Minna Bank BaaS model]] show a more platform-native regional-bank direction.
-- [[JapanFG/freee|freee]] and [[JapanFG/money-forward|Money Forward]] is cross-linked when account data / accounting integration is the core use case.
+- [[regional-banks/yokohama-bank|Yokohama Bank]], [[regional-banks/chiba-bank|Chiba Bank]], [[regional-banks/chugoku-bank|Chugoku Bank]], [[regional-banks/tsukuba-bank|Tsukuba Bank]], and TSUBASA-linked regional banks are useful API-platform anchors.
+- [[regional-banks/fukuoka-fg|Fukuoka FG]] and [[banking/minna-bank-baas-model|Minna Bank BaaS model]] show a more platform-native regional-bank direction.
+- [[payment-firms/freee|freee]] and [[payment-firms/money-forward|Money Forward]] is cross-linked when account data / accounting integration is the core use case.
 - [[payments/japan-bank-api-incident-and-fraud-control|Bank API incident controls]] be used before treating bank API integration as a low-risk convenience feature.
 
 ## Research Checklist
@@ -71,9 +71,9 @@ Use this page with [[payments/japan-bank-api-payment-agency-route|bank API route
 - [[banking/minna-bank-baas-model]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[payments/account-to-account-payment-japan]]
-- [[JapanFG/legal-financial-licenses/INDEX]]
-- [[JapanFG/yokohama-bank]]
-- [[JapanFG/chiba-bank]]
+- [[financial-licenses/INDEX]]
+- [[regional-banks/yokohama-bank]]
+- [[regional-banks/chiba-bank]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

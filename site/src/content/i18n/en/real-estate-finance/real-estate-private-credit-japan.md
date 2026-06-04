@@ -12,11 +12,11 @@ translated_at: 2026-06-01T03:31:12.299Z
 
 ## TL;DR
 
-Japan real-estate private credit is a layered non-bank financing market sitting alongside [[real-estate-finance/bank-commercial-real-estate-lending-japan|bank CRE lending]]. The market has two distinct deployment routes: foreign general-partner (GP) entrants (Blackstone, KKR, Apollo, Brookfield, and others) running cross-border real-estate-debt strategies into Japan, and Japan-incorporated private-credit anchors ([[JapanFG/dbj]], [[JapanFG/mitsubishi-ufj-trust-bank]], [[JapanFG/sumitomo-mitsui-trust]], plus megabank-affiliated finance arms) running domestic balance-sheet-style private credit. Product types are bridge, mezzanine, and preferred-equity, with target returns scaling from senior-stretch (low-to-mid single-digit) to deep preferred equity (mid-to-high teens). This is route-and-link only; not investment advice.
+Japan real-estate private credit is a layered non-bank financing market sitting alongside [[real-estate-finance/bank-commercial-real-estate-lending-japan|bank CRE lending]]. The market has two distinct deployment routes: foreign general-partner (GP) entrants (Blackstone, KKR, Apollo, Brookfield, and others) running cross-border real-estate-debt strategies into Japan, and Japan-incorporated private-credit anchors ([[financial-regulators/dbj]], [[trust-banks/mitsubishi-ufj-trust-bank]], [[trust-banks/sumitomo-mitsui-trust]], plus megabank-affiliated finance arms) running domestic balance-sheet-style private credit. Product types are bridge, mezzanine, and preferred-equity, with target returns scaling from senior-stretch (low-to-mid single-digit) to deep preferred equity (mid-to-high teens). This is route-and-link only; not investment advice.
 
 ## Wiki route
 
-This entry sits under [[real-estate-finance/INDEX]] and is the non-bank counterpart to [[real-estate-finance/bank-commercial-real-estate-lending-japan|bank CRE lending]]. Read with [[real-estate-finance/real-estate-cap-rate-compression-2026|cap-rate compression]] for the asset-side return-floor backdrop that frames private-credit pricing, [[real-estate-finance/j-reit-market-overview|J-REIT market overview]] for the J-REIT sponsor-warehouse use case, [[real-estate-finance/jrei-foreign-investment-tax-treatment|foreign-investment tax treatment]] for the TK / GK-TK / TMK structuring detail, [[real-estate-finance/japan-real-estate-appraisal-methodology|appraisal methodology]] for the LTV / DSCR underwriting frame, and [[real-estate-finance/j-reit-foreign-investor-ownership]] for the foreign-GP equity counterpart. Domestic-finance anchors are [[JapanFG/dbj]], [[JapanFG/mitsubishi-ufj-trust-bank]], and [[JapanFG/sumitomo-mitsui-trust]]. Megabank-side reference is [[JapanFG/mufg-bank]], [[JapanFG/sumitomo-mitsui-banking-corp]], [[JapanFG/mizuho-bank]]. Cross-link to [[finance/japan-private-equity-operating-model]] and [[finance/japan-private-equity-fund-structure-matrix]] for the PE / private-finance discipline and [[finance/INDEX|finance index]] for broader private-capital routing. Insurer demand for private-credit return premia routes through [[insurance/japan-life-insurance-alm-overview]] and [[money-market/japan-money-market]] for the rate-environment backdrop. Banking-system framing sits at [[banking/INDEX]] and regional-bank-consolidation context at [[banking/regional-bank-consolidation-pattern]].
+This entry sits under [[real-estate-finance/INDEX]] and is the non-bank counterpart to [[real-estate-finance/bank-commercial-real-estate-lending-japan|bank CRE lending]]. Read with [[real-estate-finance/real-estate-cap-rate-compression-2026|cap-rate compression]] for the asset-side return-floor backdrop that frames private-credit pricing, [[real-estate-finance/j-reit-market-overview|J-REIT market overview]] for the J-REIT sponsor-warehouse use case, [[real-estate-finance/jrei-foreign-investment-tax-treatment|foreign-investment tax treatment]] for the TK / GK-TK / TMK structuring detail, [[real-estate-finance/japan-real-estate-appraisal-methodology|appraisal methodology]] for the LTV / DSCR underwriting frame, and [[real-estate-finance/j-reit-foreign-investor-ownership]] for the foreign-GP equity counterpart. Domestic-finance anchors are [[financial-regulators/dbj]], [[trust-banks/mitsubishi-ufj-trust-bank]], and [[trust-banks/sumitomo-mitsui-trust]]. Megabank-side reference is [[megabanks/mufg-bank]], [[megabanks/sumitomo-mitsui-banking-corp]], [[megabanks/mizuho-bank]]. Cross-link to [[finance/japan-private-equity-operating-model]] and [[finance/japan-private-equity-fund-structure-matrix]] for the PE / private-finance discipline and [[finance/INDEX|finance index]] for broader private-capital routing. Insurer demand for private-credit return premia routes through [[insurance/japan-life-insurance-alm-overview]] and [[money-market/japan-money-market]] for the rate-environment backdrop. Banking-system framing sits at [[banking/INDEX]] and regional-bank-consolidation context at [[banking/regional-bank-consolidation-pattern]].
 
 ## Product Stack
 
@@ -75,9 +75,9 @@ Domestic anchors run a different version of the same business:
 
 | Anchor | Role |
 |---|---|
-| [[JapanFG/dbj]] | Policy-aligned project finance, urban-redevelopment financing, infrastructure-finance leadership, selective mezz / preferred-equity in policy-priority sectors. |
-| [[JapanFG/mitsubishi-ufj-trust-bank]] | Trust-bank real-estate-trust schemes plus subordinated balance-sheet lending and asset-administration linkage. |
-| [[JapanFG/sumitomo-mitsui-trust]] | Trust-bank real-estate-trust schemes plus subordinated lending; large real-estate-finance franchise. |
+| [[financial-regulators/dbj]] | Policy-aligned project finance, urban-redevelopment financing, infrastructure-finance leadership, selective mezz / preferred-equity in policy-priority sectors. |
+| [[trust-banks/mitsubishi-ufj-trust-bank]] | Trust-bank real-estate-trust schemes plus subordinated balance-sheet lending and asset-administration linkage. |
+| [[trust-banks/sumitomo-mitsui-trust]] | Trust-bank real-estate-trust schemes plus subordinated lending; large real-estate-finance franchise. |
 | Megabank-affiliated finance arms | Specialty finance subsidiaries of MUFG, SMFG, Mizuho deploying capital outside the bank's senior-lending box. |
 | Lease companies (ORIX, Mitsubishi HC Capital, Tokyo Century) | Real-estate-credit and equity-co-investment programmes alongside core leasing. |
 | Insurance-affiliated asset managers | Life-insurer-sponsored real-estate-credit programmes for parent-balance-sheet allocation. |
@@ -198,12 +198,12 @@ Post-NIRP normalisation has tilted toward higher private-credit demand because b
 - [[finance/INDEX]]
 - [[finance/japan-private-equity-fund-structure-matrix]]
 - [[finance/japan-private-equity-operating-model]]
-- [[JapanFG/mufg-bank]]
-- [[JapanFG/sumitomo-mitsui-banking-corp]]
-- [[JapanFG/mizuho-bank]]
-- [[JapanFG/sumitomo-mitsui-trust]]
-- [[JapanFG/mitsubishi-ufj-trust-bank]]
-- [[JapanFG/dbj]]
+- [[megabanks/mufg-bank]]
+- [[megabanks/sumitomo-mitsui-banking-corp]]
+- [[megabanks/mizuho-bank]]
+- [[trust-banks/sumitomo-mitsui-trust]]
+- [[trust-banks/mitsubishi-ufj-trust-bank]]
+- [[financial-regulators/dbj]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

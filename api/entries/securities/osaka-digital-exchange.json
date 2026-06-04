@@ -51,14 +51,14 @@
   "body_links": {
     "wikilinks_count": 14,
     "wikilinks": [
-      "JapanFG/daiwa-sg",
-      "JapanFG/legal-financial-licenses/INDEX",
-      "JapanFG/nomura-hd",
-      "JapanFG/progmat",
-      "JapanFG/sbi-hd",
-      "JapanFG/smfg",
+      "financial-licenses/INDEX",
       "fintech/jp-stablecoin-progmat",
       "fintech/jp-trust-type-sc-architecture",
+      "megabanks/sbi-hd",
+      "megabanks/smfg",
+      "payment-firms/progmat",
+      "securities-firms/daiwa-sg",
+      "securities-firms/nomura-hd",
       "securities/INDEX",
       "securities/financial-instruments-business-operators-japan-index",
       "securities/japan-securities-clearing-corp",
@@ -67,14 +67,14 @@
       "securities/tokyo-stock-exchange"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/daiwa-sg",
-      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX",
-      "https://finwiki.zksc.io/JapanFG/nomura-hd",
-      "https://finwiki.zksc.io/JapanFG/progmat",
-      "https://finwiki.zksc.io/JapanFG/sbi-hd",
-      "https://finwiki.zksc.io/JapanFG/smfg",
+      "https://finwiki.zksc.io/financial-licenses/INDEX",
       "https://finwiki.zksc.io/fintech/jp-stablecoin-progmat",
       "https://finwiki.zksc.io/fintech/jp-trust-type-sc-architecture",
+      "https://finwiki.zksc.io/megabanks/sbi-hd",
+      "https://finwiki.zksc.io/megabanks/smfg",
+      "https://finwiki.zksc.io/payment-firms/progmat",
+      "https://finwiki.zksc.io/securities-firms/daiwa-sg",
+      "https://finwiki.zksc.io/securities-firms/nomura-hd",
       "https://finwiki.zksc.io/securities/INDEX",
       "https://finwiki.zksc.io/securities/financial-instruments-business-operators-japan-index",
       "https://finwiki.zksc.io/securities/japan-securities-clearing-corp",
@@ -86,9 +86,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2999,
-    "word_like_tokens": 436,
+    "nonspace_chars": 3026,
+    "word_like_tokens": 438,
     "inbound_wikilinks_count": 25,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-04"
   }
 }

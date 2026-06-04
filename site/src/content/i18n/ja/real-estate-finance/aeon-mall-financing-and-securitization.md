@@ -17,7 +17,7 @@ FinWikiにおいてAEON Mallは、[[real-estate-finance/INDEX|real-estate-financ
 
 ## ウィキ上の位置づけ
 
-この項目は、**リテール資産クラスのデベロッパー / スポンサーREIT事例**として[[real-estate-finance/INDEX|real-estate-finance index]]の下に位置づけられる。オフィス / 複合用途デベロッパーとの対比には[[real-estate-finance/mitsui-fudosan-financing-model|Mitsui Fudosan]]と[[real-estate-finance/mitsubishi-estate-financing-model|Mitsubishi Estate]]を参照する。資産クラス比較は[[real-estate-finance/logistics-j-reit-vs-office-j-reit-asset-class-comparison|logistics vs office J-REIT comparison]]、親会社グループの消費者金融レンズは[[retail/aeon-group|AEON Group]]と[[JapanFG/aeon-financial-service|AEON Financial Service]]を参照する。制度枠は[[real-estate-finance/j-reit-market-overview|J-REIT market overview]]、[[real-estate-finance/j-reit-sponsor-structure-conflict|J-REIT sponsor structure and conflict]]、[[real-estate-finance/top-10-j-reit-overview-matrix|top 10 J-REIT matrix]]である。
+この項目は、**リテール資産クラスのデベロッパー / スポンサーREIT事例**として[[real-estate-finance/INDEX|real-estate-finance index]]の下に位置づけられる。オフィス / 複合用途デベロッパーとの対比には[[real-estate-finance/mitsui-fudosan-financing-model|Mitsui Fudosan]]と[[real-estate-finance/mitsubishi-estate-financing-model|Mitsubishi Estate]]を参照する。資産クラス比較は[[real-estate-finance/logistics-j-reit-vs-office-j-reit-asset-class-comparison|logistics vs office J-REIT comparison]]、親会社グループの消費者金融レンズは[[retail/aeon-group|AEON Group]]と[[card-issuers/aeon-financial-service|AEON Financial Service]]を参照する。制度枠は[[real-estate-finance/j-reit-market-overview|J-REIT market overview]]、[[real-estate-finance/j-reit-sponsor-structure-conflict|J-REIT sponsor structure and conflict]]、[[real-estate-finance/top-10-j-reit-overview-matrix|top 10 J-REIT matrix]]である。
 
 ## 企業構造
 
@@ -38,7 +38,7 @@ AEON Mall（8905）は、単なるパイプライン用シェルではなく、*
 | 資金源 | 用途 |
 |---|---|
 | 親会社 / グループ統合 | [[retail/aeon-group|AEON Co.]]との持合い、グループ内資金管理、グループ財務と仕入信用へのアクセス |
-| 国内シンジケート銀行借入 | 新規モール開発の長期プロジェクトファイナンス、既存設備の借換。[[JapanFG/sumitomo-mitsui-trust|SMTB]]、MUFG Bank、SMBC、Mizuho Bankを含むメガバンク主導シンジケートが手配 |
+| 国内シンジケート銀行借入 | 新規モール開発の長期プロジェクトファイナンス、既存設備の借換。[[trust-banks/sumitomo-mitsui-trust|SMTB]]、MUFG Bank、SMBC、Mizuho Bankを含むメガバンク主導シンジケートが手配 |
 | 公募社債（普通社債） | 発行登録に基づく複数年の無担保社債。投資適格格付がタップ発行の価格形成を支える |
 | AEON REIT（3292）への資産売却 | 安定稼働モール資産をスポンサーJ-REITへリサイクルすることによる現金流入。新規開発パイプラインへ再投資 |
 | 利益剰余金 / 営業キャッシュフロー | モール賃料、共益費、テナント歩合賃料 |
@@ -55,7 +55,7 @@ AEON Mall（8905）は、単なるパイプライン用シェルではなく、*
 | Asset focus | リテール不動産。主に日本各地のAEONを核とする郊外モールとショッピングセンター。一部ASEANあり |
 | Sponsor | AEON Co., Ltd.（グループ親会社）。AEON Mallが支配的なパイプライン供給主体 |
 | Asset manager | AEON Reit Management Co., Ltd.（スポンサー所有） |
-| Custodian / trustee bank | 信託銀行（J-REIT保管受託では通常[[JapanFG/mitsubishi-ufj-trust-bank|MUFJ Trust]]または[[JapanFG/sumitomo-mitsui-trust|SMTB]]） |
+| Custodian / trustee bank | 信託銀行（J-REIT保管受託では通常[[trust-banks/mitsubishi-ufj-trust-bank|MUFJ Trust]]または[[trust-banks/sumitomo-mitsui-trust|SMTB]]） |
 | Distribution policy | 課税所得の90%+（投資信託法上のJ-REITパススルー閾値）。半期分配が典型 |
 | Leverage | IR資料で公表されるLTV目標帯。長期無担保・有担保借入 + 投資法人債 |
 | Unit-holder base | 国内個人投資主、国内機関投資家（生保、地域銀行、年金基金）、外国機関投資家（[[real-estate-finance/j-reit-foreign-investor-ownership|J-REIT foreign-investor ownership]]の対象） |
@@ -70,7 +70,7 @@ AEON REITのポートフォリオ構成は**核テナント付き郊外モール
 |---|---|---|
 | TMK（特定目的会社, Tokutei Mokuteki Kaisha） | 資産流動化法に基づく単一資産証券化のSPC。特定社債と優先出資を発行できる | [[real-estate-finance/japan-cmbs-rmbs-securitization\|Japan CMBS/RMBS securitization]] |
 | GK-TK（合同会社・匿名組合）構造 | REIT取得前のウェアハウジング、またはオフバランス構造のための私募ブリッジ / 私募ファンド層 | [[real-estate-finance/INDEX\|GK-TK in domain index]] |
-| ノンリコース不動産ローン（NRL） | [[JapanFG/sumitomo-mitsui-trust\|SMTB]]、[[JapanFG/mitsubishi-ufj-trust-bank\|MUFJ Trust]]、メガバンクが個別モール物件を担保に供与する資産担保ローン | [[real-estate-finance/bank-commercial-real-estate-lending-japan\|bank CRE lending Japan]] |
+| ノンリコース不動産ローン（NRL） | [[trust-banks/sumitomo-mitsui-trust\|SMTB]]、[[trust-banks/mitsubishi-ufj-trust-bank\|MUFJ Trust]]、メガバンクが個別モール物件を担保に供与する資産担保ローン | [[real-estate-finance/bank-commercial-real-estate-lending-japan\|bank CRE lending Japan]] |
 | 信託受益権 | J-REIT物件保有の標準的なラッピング形式。J-REITは自由保有権を直接持つのではなく信託受益権を保有 | [[banking/trust-bank-custody-operating-comparison\|trust bank custody operating comparison]] |
 | 投資法人債 | J-REIT自身（3292）が銀行借入スタックの上に発行する無担保債 | [[real-estate-finance/j-reit-market-overview\|J-REIT market overview]] |
 
@@ -108,8 +108,8 @@ AEON Mallは単なる物件会社ではなく、より広い[[retail/aeon-group|
 
 - **AEON Retail核店舗** — 日々の食品 / GMS来店。
 - **AEON CardとWAON受入** — グループ決済の閉じたループの便益。
-- **[[JapanFG/aeon-bank|AEON Bank]]店内支店とATM** — 無店舗型リテール銀行の配布チャネル。
-- **[[JapanFG/aeon-financial-service|AEON Financial Service]]カウンター** — 保険、住宅ローン組成、投資信託販売。
+- **[[card-issuers/aeon-bank|AEON Bank]]店内支店とATM** — 無店舗型リテール銀行の配布チャネル。
+- **[[card-issuers/aeon-financial-service|AEON Financial Service]]カウンター** — 保険、住宅ローン組成、投資信託販売。
 - **テナントプール** — 基本賃料 + 歩合賃料を支払う第三者小売業者。
 
 金融上の意味は、AEON Mallの賃料収入が[[retail/aeon-group|AEON Co.]]からのグループ内来店創出によって、**純粋な賃貸市場変動から一部遮断**される点である。これは、テナント基盤がオフィス空室サイクルにさらされる第三者企業である三井不動産や三菱地所のオフィスビルとは構造的に異なる。資産クラスの経済性対比は[[real-estate-finance/logistics-j-reit-vs-office-j-reit-asset-class-comparison|logistics vs office J-REIT comparison]]を参照。
@@ -205,10 +205,10 @@ AEON Mall + AEON REITの開示面は次で構成される。
 - [[retail/aeon-group|AEON Group]]
 - [[retail/seven-and-i-hd|Seven & i HD]]
 - [[retail/INDEX|retail INDEX]]
-- [[JapanFG/aeon-financial-service|AEON Financial Service]]
-- [[JapanFG/aeon-bank|AEON Bank]]
-- [[JapanFG/sumitomo-mitsui-trust|SMTB]]
-- [[JapanFG/mitsubishi-ufj-trust-bank|MUFJ Trust]]
+- [[card-issuers/aeon-financial-service|AEON Financial Service]]
+- [[card-issuers/aeon-bank|AEON Bank]]
+- [[trust-banks/sumitomo-mitsui-trust|SMTB]]
+- [[trust-banks/mitsubishi-ufj-trust-bank|MUFJ Trust]]
 - [[business/INDEX|business INDEX]]
 - [[corporate-strategy/INDEX|corporate-strategy INDEX]]
 - [[INDEX|FinWiki index]]

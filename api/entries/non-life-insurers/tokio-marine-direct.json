@@ -1,0 +1,81 @@
+{
+  "schema_version": "1.0",
+  "slug": "non-life-insurers/tokio-marine-direct",
+  "source_path": "non-life-insurers/tokio-marine-direct.md",
+  "url": "https://finwiki.zksc.io/non-life-insurers/tokio-marine-direct",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/non-life-insurers/tokio-marine-direct.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/non-life-insurers/tokio-marine-direct.md",
+  "domain": "non-life-insurers",
+  "title": "東京海上ダイレクト損害保険",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "東京海上ダイレクト損害保険",
+    "aliases": [
+      "東京海上ダイレクト",
+      "旧イーデザイン損保",
+      "Tokio Marine Direct",
+      "Tokio Marine Direct Insurance",
+      "東京海上ダイレクト損害保険株式会社"
+    ],
+    "domain": "non-life-insurers",
+    "created": "2026-05-21",
+    "last_updated": "2026-05-21",
+    "last_tended": "2026-05-21",
+    "review_by": "2026-11-21",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "insurance",
+      "non-life-insurance",
+      "direct-insurance",
+      "tokio-marine",
+      "operating-company"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/menkyo/menkyoj/songai.pdf",
+      "https://www.sonpohogo.or.jp/outline/member-companies.html",
+      "https://www.e-design.net/company/about/"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 東京海上日動火災保険 for peer / contrast context and insurance index for the broader system / regulatory boundary.",
+  "headings": [
+    "東京海上ダイレクト損害保険",
+    "Wiki route",
+    "TL;DR",
+    "1. License / group boundary",
+    "2. Operating model",
+    "3. Why this page matters",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 7,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "insurance/INDEX",
+      "non-life-insurers/tokio-marine-nichido-fire",
+      "sompo-direct",
+      "sony-insurance",
+      "tokio-marine",
+      "tokio-marine-nichido-fire"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/insurance/INDEX",
+      "https://finwiki.zksc.io/non-life-insurers/tokio-marine-nichido-fire",
+      "https://finwiki.zksc.io/sompo-direct",
+      "https://finwiki.zksc.io/sony-insurance",
+      "https://finwiki.zksc.io/tokio-marine",
+      "https://finwiki.zksc.io/tokio-marine-nichido-fire"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2018,
+    "word_like_tokens": 314,
+    "inbound_wikilinks_count": 6,
+    "last_modified": "2026-06-04"
+  }
+}

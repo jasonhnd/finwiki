@@ -1,0 +1,86 @@
+{
+  "schema_version": "1.0",
+  "slug": "foreign-financial-institutions/first-commercial-bank-japan",
+  "source_path": "foreign-financial-institutions/first-commercial-bank-japan.md",
+  "url": "https://finwiki.zksc.io/foreign-financial-institutions/first-commercial-bank-japan",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/foreign-financial-institutions/first-commercial-bank-japan.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/foreign-financial-institutions/first-commercial-bank-japan.md",
+  "domain": "foreign-financial-institutions",
+  "title": "第一商業銀行日本 (First Commercial Bank Japan)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "第一商業銀行日本 (First Commercial Bank Japan)",
+    "aliases": [
+      "First Commercial Bank Japan",
+      "First Commercial Bank Tokyo Branch",
+      "第一商業銀行",
+      "第一銀行東京支店"
+    ],
+    "domain": "foreign-financial-institutions",
+    "created": "2026-05-22",
+    "last_updated": "2026-05-22",
+    "last_tended": "2026-05-22",
+    "review_by": "2026-11-22",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "foreign-bank",
+      "Taiwan",
+      "corporate-banking",
+      "trade-finance",
+      "remittance"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.pdf",
+      "https://www.firstbank.com.tw/sites/fcb/zh_TW/1565683458722"
+    ]
+  },
+  "summary": "First Commercial Bank Japan sits under JapanFG index and is a Taiwan-Japan foreign-bank branch route in the foreign-bank branch registry. Read it with Bank of Taiwan Japan, Mega ICBC Japan, CTBC Bank Japan, E.SUN Bank Japan, and Taipei Fubon Bank Japan.",
+  "headings": [
+    "第一商業銀行日本 (First Commercial Bank Japan)",
+    "Wiki route",
+    "Overview",
+    "Entity Boundary",
+    "Business Role Map",
+    "Public Context",
+    "Research Checklist",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 10,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/INDEX",
+      "finance/cross-border-m-a-japan",
+      "financial-licenses/foreign-bank-branch-license-route",
+      "foreign-financial-institutions/bank-of-taiwan-japan",
+      "foreign-financial-institutions/ctbc-bank-japan",
+      "foreign-financial-institutions/esun-bank-japan",
+      "foreign-financial-institutions/foreign-bank-branches-japan-index",
+      "foreign-financial-institutions/mega-icbc-japan",
+      "foreign-financial-institutions/taipei-fubon-bank-japan"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/finance/cross-border-m-a-japan",
+      "https://finwiki.zksc.io/financial-licenses/foreign-bank-branch-license-route",
+      "https://finwiki.zksc.io/foreign-financial-institutions/bank-of-taiwan-japan",
+      "https://finwiki.zksc.io/foreign-financial-institutions/ctbc-bank-japan",
+      "https://finwiki.zksc.io/foreign-financial-institutions/esun-bank-japan",
+      "https://finwiki.zksc.io/foreign-financial-institutions/foreign-bank-branches-japan-index",
+      "https://finwiki.zksc.io/foreign-financial-institutions/mega-icbc-japan",
+      "https://finwiki.zksc.io/foreign-financial-institutions/taipei-fubon-bank-japan"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 4083,
+    "word_like_tokens": 616,
+    "inbound_wikilinks_count": 6,
+    "last_modified": "2026-06-04"
+  }
+}

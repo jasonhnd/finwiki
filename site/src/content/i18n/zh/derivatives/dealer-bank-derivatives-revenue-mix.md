@@ -14,11 +14,11 @@ translated_at: 2026-05-31T03:19:56.477Z
 
 日本的交易商银行衍生品业务被划分为**三个结构层级**,每一层在利率、外汇、股票和信用衍生品之间都有独特的收入构成:
 
-1. **超大型银行综合银行业务 — [[JapanFG/mufg-bank|MUFG]] / [[JapanFG/sumitomo-mitsui-banking-corp|SMBC]] / [[JapanFG/mizuho-bank|Mizuho]]** — 银行与证券合并的实体,运营着面向日本交易商对企业、交易商对机构流量的最大规模日元 IRS、OIS、基差互换及外汇衍生品账簿。利率和外汇在超大型银行的衍生品收入构成中占主导;股票衍生品规模较小,集中在证券子公司;信用衍生品集中在银行账簿对冲及有限的交易商 CDS 活动;
+1. **超大型银行综合银行业务 — [[megabanks/mufg-bank|MUFG]] / [[megabanks/sumitomo-mitsui-banking-corp|SMBC]] / [[megabanks/mizuho-bank|Mizuho]]** — 银行与证券合并的实体,运营着面向日本交易商对企业、交易商对机构流量的最大规模日元 IRS、OIS、基差互换及外汇衍生品账簿。利率和外汇在超大型银行的衍生品收入构成中占主导;股票衍生品规模较小,集中在证券子公司;信用衍生品集中在银行账簿对冲及有限的交易商 CDS 活动;
 
-2. **独立的日本投行业务 — [[JapanFG/nomura-hd|Nomura]] / [[JapanFG/daiwa-sg|Daiwa SG]]** 加上超大型银行证券臂([[JapanFG/smbc-nikko|SMBC Nikko]] / [[JapanFG/mizuho-securities|Mizuho Securities]]) — 以证券公司为根基的交易商业务,相比纯银行实体拥有**更广的股票衍生品能力**,以及围绕一级交易商 JGB 活动构建的强大利率/信用衍生品账簿;
+2. **独立的日本投行业务 — [[securities-firms/nomura-hd|Nomura]] / [[securities-firms/daiwa-sg|Daiwa SG]]** 加上超大型银行证券臂([[securities-firms/smbc-nikko|SMBC Nikko]] / [[securities-firms/mizuho-securities|Mizuho Securities]]) — 以证券公司为根基的交易商业务,相比纯银行实体拥有**更广的股票衍生品能力**,以及围绕一级交易商 JGB 活动构建的强大利率/信用衍生品账簿;
 
-3. **外资投行业务 — [[JapanFG/goldman-sachs-japan|Goldman Sachs Japan]]、[[JapanFG/morgan-stanley-japan|Morgan Stanley Japan / MUMSS]]、[[JapanFG/jpmorgan-japan|JPMorgan Japan]]、[[JapanFG/citigroup-japan|Citi Japan]]** — 拥有完整日本交易商实体的全球性投行,具备独特的**全球交叉保证金与跨境衍生品账簿整合**、深厚的股票场外(OTC)与结构化产品能力,并将全球外汇主经纪/利率主经纪业务叠加于其日本账簿之上。
+3. **外资投行业务 — [[securities-firms/goldman-sachs-japan|Goldman Sachs Japan]]、[[securities-firms/morgan-stanley-japan|Morgan Stanley Japan / MUMSS]]、[[foreign-financial-institutions/jpmorgan-japan|JPMorgan Japan]]、[[foreign-financial-institutions/citigroup-japan|Citi Japan]]** — 拥有完整日本交易商实体的全球性投行,具备独特的**全球交叉保证金与跨境衍生品账簿整合**、深厚的股票场外(OTC)与结构化产品能力,并将全球外汇主经纪/利率主经纪业务叠加于其日本账簿之上。
 
 **不存在与美国 Volcker 规则同等明确形式的日本专属 Volcker 式禁令**,但日本的监管框架通过不同机制达到了类似结果:**依据 FIEA/银行法,通过子公司化实现银行与证券业务分离**、**对银行实体自营交易冒险行为的严格监督**、**巴塞尔框架的资本与杠杆限制**,以及 **FSA 对做市与自营交易的行为监督**。其结构性效果是,日本的"交易商业务"是真正的做市和面向客户的业务,自营交易式的投机性账簿对银行实体受到实质性约束(对证券公司实体的约束较小,后者有自己的资本与行为规则)。
 
@@ -45,9 +45,9 @@ translated_at: 2026-05-31T03:19:56.477Z
 
 | 超大型银行 | 银行实体 | 证券臂 | 合资伙伴 |
 |---|---|---|---|
-| **[[JapanFG/mufg-bank|MUFG Bank]]** | MUFG Bank, Ltd. | [[JapanFG/morgan-stanley-japan|MUMSS]](Morgan Stanley MUFG Securities,即该合资公司);此外还有 Mitsubishi UFJ Securities Holdings 的非合资业务 | Morgan Stanley(在 MUMSS 架构中) |
-| **[[JapanFG/sumitomo-mitsui-banking-corp|SMBC]]** | Sumitomo Mitsui Banking Corp | [[JapanFG/smbc-nikko|SMBC Nikko Securities]] | Jefferies(联盟)、Moelis(顾问联盟)等 |
-| **[[JapanFG/mizuho-bank|Mizuho Bank]]** | Mizuho Bank, Ltd. | [[JapanFG/mizuho-securities|Mizuho Securities]];Mizuho 集团还包括 Mizuho Trust & Banking | Greenhill(顾问收购历史) |
+| **[[megabanks/mufg-bank|MUFG Bank]]** | MUFG Bank, Ltd. | [[securities-firms/morgan-stanley-japan|MUMSS]](Morgan Stanley MUFG Securities,即该合资公司);此外还有 Mitsubishi UFJ Securities Holdings 的非合资业务 | Morgan Stanley(在 MUMSS 架构中) |
+| **[[megabanks/sumitomo-mitsui-banking-corp|SMBC]]** | Sumitomo Mitsui Banking Corp | [[securities-firms/smbc-nikko|SMBC Nikko Securities]] | Jefferies(联盟)、Moelis(顾问联盟)等 |
+| **[[megabanks/mizuho-bank|Mizuho Bank]]** | Mizuho Bank, Ltd. | [[securities-firms/mizuho-securities|Mizuho Securities]];Mizuho 集团还包括 Mizuho Trust & Banking | Greenhill(顾问收购历史) |
 
 ### 超大型银行的大致收入构成(基于公开来源推断)
 
@@ -65,13 +65,13 @@ translated_at: 2026-05-31T03:19:56.477Z
 超大型银行衍生品收入集中于利率和外汇,反映了:
 
 - **银行实体客户构成** — 企业财资部的外汇对冲(进出口资金驱动)、贷款组合的利率对冲,以及面向企业交易对手的结构化利率方案;
-- **银行牌照约束** — 与零售或企业终端用户的股票衍生品中介业务集中于 [[JapanFG/japan-exchange-group|FIEA-licensed]] 证券子公司,而非银行实体;
+- **银行牌照约束** — 与零售或企业终端用户的股票衍生品中介业务集中于 [[financial-regulators/japan-exchange-group|FIEA-licensed]] 证券子公司,而非银行实体;
 - **信托银行关联能力** — 对于需要信托包装敞口的产品(员工信托股份、结构化投资者载体),由信托银行子公司处理法律包装,而银行/证券实体提供衍生品;
-- **JGB 一级交易商地位** — 超大型银行关联的证券臂([[JapanFG/smbc-nikko|SMBC Nikko]]、[[JapanFG/mizuho-securities|Mizuho Securities]]、[[JapanFG/morgan-stanley-japan|MUMSS]])是 JGB 一级交易商,构成结构性的利率衍生品锚点。
+- **JGB 一级交易商地位** — 超大型银行关联的证券臂([[securities-firms/smbc-nikko|SMBC Nikko]]、[[securities-firms/mizuho-securities|Mizuho Securities]]、[[securities-firms/morgan-stanley-japan|MUMSS]])是 JGB 一级交易商,构成结构性的利率衍生品锚点。
 
 ### Nomura HD、Daiwa SG
 
-[[JapanFG/nomura-hd|Nomura]] 和 [[JapanFG/daiwa-sg|Daiwa Securities Group]] 是**两家大型、独立、总部位于日本的投资银行** — 以证券公司为根基的业务,在没有超大型银行母公司的情况下运营着完整的交易商银行衍生品能力。
+[[securities-firms/nomura-hd|Nomura]] 和 [[securities-firms/daiwa-sg|Daiwa Securities Group]] 是**两家大型、独立、总部位于日本的投资银行** — 以证券公司为根基的业务,在没有超大型银行母公司的情况下运营着完整的交易商银行衍生品能力。
 
 ### Nomura/Daiwa 的大致收入构成(基于公开来源推断)
 
@@ -91,7 +91,7 @@ translated_at: 2026-05-31T03:19:56.477Z
 - 国内保险公司由 ALM 驱动的结构化股票敞口;
 - 通过券商子公司渠道分销的零售结构化产品。
 
-超大型银行关联的证券臂([[JapanFG/smbc-nikko|SMBC Nikko]]、[[JapanFG/mizuho-securities|Mizuho Securities]])已建立起可比但略窄的股票衍生品能力 — 在经济上受超大型银行集团资本配置框架的约束。
+超大型银行关联的证券臂([[securities-firms/smbc-nikko|SMBC Nikko]]、[[securities-firms/mizuho-securities|Mizuho Securities]])已建立起可比但略窄的股票衍生品能力 — 在经济上受超大型银行集团资本配置框架的约束。
 
 ### Goldman Sachs Japan、Morgan Stanley Japan / MUMSS、JPMorgan Japan、Citi Japan、BofA Japan
 
@@ -101,11 +101,11 @@ translated_at: 2026-05-31T03:19:56.477Z
 
 | 外资投行 | 在日本的衍生品收入特色倾斜 |
 |---|---|
-| **[[JapanFG/goldman-sachs-japan|GS Japan]]** | 外资投行中最深厚的股票 OTC 与结构化产品业务;强大的利率和外汇;跨境全球资本市场整合。股票波动率和 OTC 股票互换是其特色业务。 |
-| **[[JapanFG/morgan-stanley-japan|MS Japan / MUMSS]]** | 双渠道结构(全资 MS Japan + 与 MUFG 合资的 MUMSS) — 将全球投行能力与 MUFG 集团资产负债表结合用于利率/外汇;MS Japan 拥有深厚的股票 OTC;在全部四个资产类别均具竞争力。 |
-| **[[JapanFG/jpmorgan-japan|JPM Japan]]** | 格外强大的外汇主经纪和利率衍生品业务(映射 JPM 在外汇和利率上的全球市场份额领先地位);强大的托管与银行整合;股票 OTC 具竞争力。 |
-| **[[JapanFG/citigroup-japan|Citi Japan]]** | 格外强大的外汇主经纪和利率业务(Citi 全球市场份额领先);经由 Citibank 东京分行的银行账簿外汇整合;股票 OTC 具竞争力。 |
-| **[[JapanFG/jpmorgan-japan|BofA Japan]](BofA Securities Japan)** | 各资产类别均具竞争力;亚洲业务小于 GS/MS/JPM/Citi;具备 FICC 和股票 OTC 能力。 |
+| **[[securities-firms/goldman-sachs-japan|GS Japan]]** | 外资投行中最深厚的股票 OTC 与结构化产品业务;强大的利率和外汇;跨境全球资本市场整合。股票波动率和 OTC 股票互换是其特色业务。 |
+| **[[securities-firms/morgan-stanley-japan|MS Japan / MUMSS]]** | 双渠道结构(全资 MS Japan + 与 MUFG 合资的 MUMSS) — 将全球投行能力与 MUFG 集团资产负债表结合用于利率/外汇;MS Japan 拥有深厚的股票 OTC;在全部四个资产类别均具竞争力。 |
+| **[[foreign-financial-institutions/jpmorgan-japan|JPM Japan]]** | 格外强大的外汇主经纪和利率衍生品业务(映射 JPM 在外汇和利率上的全球市场份额领先地位);强大的托管与银行整合;股票 OTC 具竞争力。 |
+| **[[foreign-financial-institutions/citigroup-japan|Citi Japan]]** | 格外强大的外汇主经纪和利率业务(Citi 全球市场份额领先);经由 Citibank 东京分行的银行账簿外汇整合;股票 OTC 具竞争力。 |
+| **[[foreign-financial-institutions/jpmorgan-japan|BofA Japan]](BofA Securities Japan)** | 各资产类别均具竞争力;亚洲业务小于 GS/MS/JPM/Citi;具备 FICC 和股票 OTC 能力。 |
 
 ### 为何外资投行维持日本交易商实体
 
@@ -121,9 +121,9 @@ translated_at: 2026-05-31T03:19:56.477Z
 外资投行合计在日本交易商衍生品市场中的占比,在许多产品上**重要但次于**超大型银行 + 独立投行层级:
 
 - **日元 IRS/OIS** — 超大型银行 + Nomura/Daiwa 主导名义存量;外资投行竞争但排名靠后;
-- **日元-美元交叉货币基差互换** — 外资投行(尤其是 [[JapanFG/jpmorgan-japan|JPM]] 和 [[JapanFG/citigroup-japan|Citi]])因其美元融资侧业务而具结构重要性;
-- **日本单一名称的 OTC 股票衍生品** — [[JapanFG/goldman-sachs-japan|GS]] 和 [[JapanFG/morgan-stanley-japan|MS]] 拥有格外深厚的业务,与 Nomura 竞争;
-- **日元外汇期权** — 全球投行(尤其是 [[JapanFG/jpmorgan-japan|JPM]]、[[JapanFG/citigroup-japan|Citi]])在全球处于第 1 档,在东京具竞争力;
+- **日元-美元交叉货币基差互换** — 外资投行(尤其是 [[foreign-financial-institutions/jpmorgan-japan|JPM]] 和 [[foreign-financial-institutions/citigroup-japan|Citi]])因其美元融资侧业务而具结构重要性;
+- **日本单一名称的 OTC 股票衍生品** — [[securities-firms/goldman-sachs-japan|GS]] 和 [[securities-firms/morgan-stanley-japan|MS]] 拥有格外深厚的业务,与 Nomura 竞争;
+- **日元外汇期权** — 全球投行(尤其是 [[foreign-financial-institutions/jpmorgan-japan|JPM]]、[[foreign-financial-institutions/citigroup-japan|Citi]])在全球处于第 1 档,在东京具竞争力;
 - **日本参考实体的 CDS 与 iTraxx Japan** — 鉴于国内 CDS 业务较小,外资投行历来是重要交易对手。
 
 精确的市场份额数字需要交易商层面的披露,而这在日本板块层面并不总是可得;因此逐家公司的规模测算必然只是指示性的,基于全球排行榜数据、BIS 日本交易对手统计及 JSCC 清算汇总数据。
@@ -150,7 +150,7 @@ translated_at: 2026-05-31T03:19:56.477Z
 
 某些衍生品产品类别驱动**跨产品业务整合**:
 
-- **交叉货币基差互换(日元-美元)** — 位于利率与外汇的交汇处;驱动企业外汇对冲与 JGB 日元利率对冲的联合覆盖;在 [[JapanFG/mufg-bank|MUFG]]、[[JapanFG/sumitomo-mitsui-banking-corp|SMBC]]、[[JapanFG/mizuho-bank|Mizuho]]、[[JapanFG/nomura-hd|Nomura]] 及全球外汇外资投行处为主要业务;
+- **交叉货币基差互换(日元-美元)** — 位于利率与外汇的交汇处;驱动企业外汇对冲与 JGB 日元利率对冲的联合覆盖;在 [[megabanks/mufg-bank|MUFG]]、[[megabanks/sumitomo-mitsui-banking-corp|SMBC]]、[[megabanks/mizuho-bank|Mizuho]]、[[securities-firms/nomura-hd|Nomura]] 及全球外汇外资投行处为主要业务;
 - **JGB 现券、JGB 期货、JGB 回购、JGB-OIS 对冲综合体** — 驱动以一级交易商 JGB 活动为锚的整合利率衍生品覆盖;
 - **股票衍生品 + 交叉持股解除** — 驱动证券公司层级对企业财资 + 资本市场 + 结构化产品活动的整合覆盖;
 - **信用 CDS + 债券现券 + 结构化信用** — 驱动交易商银行信用交易台的整合信用产品覆盖。
@@ -174,18 +174,18 @@ translated_at: 2026-05-31T03:19:56.477Z
 - [[securities/japan-best-execution-sor-pts]]
 - [[banking/japan-banking-license-tier-comparison-matrix]]
 - [[banking/foreign-bank-japan-retreat]]
-- [[JapanFG/japan-exchange-group]]
-- [[JapanFG/mufg-bank]]
-- [[JapanFG/sumitomo-mitsui-banking-corp]]
-- [[JapanFG/mizuho-bank]]
-- [[JapanFG/nomura-hd]]
-- [[JapanFG/daiwa-sg]]
-- [[JapanFG/smbc-nikko]]
-- [[JapanFG/mizuho-securities]]
-- [[JapanFG/goldman-sachs-japan]]
-- [[JapanFG/morgan-stanley-japan]]
-- [[JapanFG/jpmorgan-japan]]
-- [[JapanFG/citigroup-japan]]
+- [[financial-regulators/japan-exchange-group]]
+- [[megabanks/mufg-bank]]
+- [[megabanks/sumitomo-mitsui-banking-corp]]
+- [[megabanks/mizuho-bank]]
+- [[securities-firms/nomura-hd]]
+- [[securities-firms/daiwa-sg]]
+- [[securities-firms/smbc-nikko]]
+- [[securities-firms/mizuho-securities]]
+- [[securities-firms/goldman-sachs-japan]]
+- [[securities-firms/morgan-stanley-japan]]
+- [[foreign-financial-institutions/jpmorgan-japan]]
+- [[foreign-financial-institutions/citigroup-japan]]
 - [[finance/japan-listed-financial-groups-investable-universe]]
 - [[finance/japan-corporate-fx-and-rate-hedge-policy]]
 - [[finance/japan-cross-shareholding-unwinding-economics]]

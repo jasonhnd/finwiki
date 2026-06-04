@@ -12,17 +12,17 @@ translated_at: 2026-06-03T00:53:08.301Z
 
 ## ウィキ上の位置づけ
 
-このエントリは、**3 番目の主要な CVS 金融再編の詳細**として [[retail/INDEX|retail index]] の下に位置し、[[retail/seven-i-holdings-finance-deep-dive|Seven & i Holdings finance deep dive]] および [[retail/lawson-mitsubishi-corporation-tie-up-2024-deep|Lawson + Mitsubishi 2024 deep tie-up]] の三分法を完了します。ファミリーマートの事件は、ローソンが 2020  で踏襲した商社主導の非公開化パターンの **2024  前例**です。ファミリーマートは、KDDI と三菱商事がローソンに対して同じことを行う 4 年前の [[JapanFG/itochu-corp|Itochu Corporation]] 年 11 月に **2020, ** によって非公開化されました。これをクロスケースウェッジビューの [[retail/japan-retail-financial-distribution-wedge-matrix|Japan retail financial-distribution wedge matrix]]、ロイヤルティレイヤーの [[loyalty/japan-points-landscape|Japan points landscape]]、クロスロイヤルティコンテキストの [[loyalty/d-point-detailed-ecosystem|d Point detailed ecosystem]] / [[loyalty/v-point-smbc-ccc-case|V Point case]] / [[loyalty/ponta-points-deep-dive|Ponta points deep dive]]、親およびファイナンスアームアンカーの [[JapanFG/itochu-corp|Itochu Corporation]] および [[JapanFG/itochu-finance|Itochu Finance]]、ウォレットレイヤーのオーバーレイの [[payments/japan-code-payment-operator-2025-market-share-matrix|Japan code-payment operator 2025 market share matrix]] と組み合わせます。規制対象エンティティの境界用の [[JapanFG/INDEX|JapanFG index]]。
+このエントリは、**3 番目の主要な CVS 金融再編の詳細**として [[retail/INDEX|retail index]] の下に位置し、[[retail/seven-i-holdings-finance-deep-dive|Seven & i Holdings finance deep dive]] および [[retail/lawson-mitsubishi-corporation-tie-up-2024-deep|Lawson + Mitsubishi 2024 deep tie-up]] の三分法を完了します。ファミリーマートの事件は、ローソンが 2020  で踏襲した商社主導の非公開化パターンの **2024  前例**です。ファミリーマートは、KDDI と三菱商事がローソンに対して同じことを行う 4 年前の [[financial-conglomerates/itochu-corp|Itochu Corporation]] 年 11 月に **2020, ** によって非公開化されました。これをクロスケースウェッジビューの [[retail/japan-retail-financial-distribution-wedge-matrix|Japan retail financial-distribution wedge matrix]]、ロイヤルティレイヤーの [[loyalty/japan-points-landscape|Japan points landscape]]、クロスロイヤルティコンテキストの [[loyalty/d-point-detailed-ecosystem|d Point detailed ecosystem]] / [[loyalty/v-point-smbc-ccc-case|V Point case]] / [[loyalty/ponta-points-deep-dive|Ponta points deep dive]]、親およびファイナンスアームアンカーの [[financial-conglomerates/itochu-corp|Itochu Corporation]] および [[trading-company-finance/itochu-finance|Itochu Finance]]、ウォレットレイヤーのオーバーレイの [[payments/japan-code-payment-operator-2025-market-share-matrix|Japan code-payment operator 2025 market share matrix]] と組み合わせます。規制対象エンティティの境界用の [[JapanFG/INDEX|JapanFG index]]。
 
 ## 要約
 
-**ファミリーマート**は、**11月[[JapanFG/itochu-corp|Itochu Corporation]]**に完了した共同TOBで**2020**により非公開化され、伊藤忠商事がおよそ50%を直接買収し（＋共同投資家機構）、ファミリーマートを東京証券取引所から上場廃止した。金融サービス部門は、**FamiPay** モバイル ウォレット (資金決済法に基づく第三者型前払式支払手段プリペイド電子マネー) と **FamiPay カード** クレジット カードの共同ブランド ラインを中心に再編されました。消費者金融と少額ローンの統合を含む、伊藤忠グループの広範な **Itochu Money** 消費者金融イニシアチブと、**ヤマダ サイクル** 家計金融クロスセル (伊藤忠のヤマダ ホールディングス投資関係による) が、ファミリーマートを中心としたグループ間の消費者金融境界線を形成しています。 **2024 ローソン + KDDI + 三菱商事 50/50 JV** との構造的な対照は、ファミリーマートには**通信会社のアンカーが存在しない**ということです。伊藤忠商事は通信会社の共同支配株主なしでファミリーマートを所有しています。これは、**FamiPay が au PAY との提携ではなく独自のウォレットであることを意味します**、ロイヤルティ層は **複数受け入れパターン** (dポイント、楽天ポイント、従来は Tポイント / V ポイント、現在は 2024  合併後の V ポイント）、Ponta のような単一の提携パートナーではありません。 **[[retail/seven-i-holdings-finance-deep-dive|Seven & i Holdings]]** との対照は、ファミリーマートにはセブン銀行に相当する ATM 銀行子会社がなく、その金融部門が ATM 主導ではなく **ウォレットとカード主導**であることです。 **[[retail/aeon-group|AEON Group]]** との対照は、ファミリーマートにはアジアにキャプティブ銀行や大規模な消費者金融子会社がなく、全体的に金融のフットプリントがはるかに狭いことです。
+**ファミリーマート**は、**11月[[financial-conglomerates/itochu-corp|Itochu Corporation]]**に完了した共同TOBで**2020**により非公開化され、伊藤忠商事がおよそ50%を直接買収し（＋共同投資家機構）、ファミリーマートを東京証券取引所から上場廃止した。金融サービス部門は、**FamiPay** モバイル ウォレット (資金決済法に基づく第三者型前払式支払手段プリペイド電子マネー) と **FamiPay カード** クレジット カードの共同ブランド ラインを中心に再編されました。消費者金融と少額ローンの統合を含む、伊藤忠グループの広範な **Itochu Money** 消費者金融イニシアチブと、**ヤマダ サイクル** 家計金融クロスセル (伊藤忠のヤマダ ホールディングス投資関係による) が、ファミリーマートを中心としたグループ間の消費者金融境界線を形成しています。 **2024 ローソン + KDDI + 三菱商事 50/50 JV** との構造的な対照は、ファミリーマートには**通信会社のアンカーが存在しない**ということです。伊藤忠商事は通信会社の共同支配株主なしでファミリーマートを所有しています。これは、**FamiPay が au PAY との提携ではなく独自のウォレットであることを意味します**、ロイヤルティ層は **複数受け入れパターン** (dポイント、楽天ポイント、従来は Tポイント / V ポイント、現在は 2024  合併後の V ポイント）、Ponta のような単一の提携パートナーではありません。 **[[retail/seven-i-holdings-finance-deep-dive|Seven & i Holdings]]** との対照は、ファミリーマートにはセブン銀行に相当する ATM 銀行子会社がなく、その金融部門が ATM 主導ではなく **ウォレットとカード主導**であることです。 **[[retail/aeon-group|AEON Group]]** との対照は、ファミリーマートにはアジアにキャプティブ銀行や大規模な消費者金融子会社がなく、全体的に金融のフットプリントがはるかに狭いことです。
 
 ## テイクプライベートメカニック（11月2020）
 
 | 項目 | 詳細 |
 |---|---|
-| 取得者 | **[[JapanFG/itochu-corp|伊藤忠商事株式会社 (Itochu Corporation)]]** — すでに長年にわたる大株主の事前取引 |
+| 取得者 | **[[financial-conglomerates/itochu-corp|伊藤忠商事株式会社 (Itochu Corporation)]]** — すでに長年にわたる大株主の事前取引 |
 | ビークル | 伊藤忠商事主導、共同出資者構成（伊藤忠主導のSPV＋グループ系共同投資家）による共同公開買い付け（公開買付け/TOB） |
 | 取引前の伊藤忠株 | ~50% (2018 ファミリーマートとユニーの合併およびその後の組織再編の発表以来、伊藤忠商事が支配株主であった) |
 | TOB完了日 | **11月 2020** |
@@ -69,13 +69,13 @@ FamiPay カードは、**WAON ↔ イオンカード** オートチャージ ル
 
 | 伊藤忠側消費者金融資産 | 役割 |
 |---|---|
-| **[[JapanFG/itochu-finance|Itochu Finance (伊藤忠ファイナンス)]]** | 消費者向け製品を提供する伊藤忠商事のキャプティブ・ファイナンス・アンド・リース子会社 |
+| **[[trading-company-finance/itochu-finance|Itochu Finance (伊藤忠ファイナンス)]]** | 消費者向け製品を提供する伊藤忠商事のキャプティブ・ファイナンス・アンド・リース子会社 |
 | **OG Capital / さまざまな消費者金融への投資** | 伊藤忠の消費者金融関連事業のポートフォリオ |
 | **ヤマダホールディングスへの出資** | 伊藤忠商事のヤマダホールディングス（[[JapanFG/yamada-financial-services|Yamada Financial Services]]の親会社／家電を中心とした小売金融グループ「ヤマダサイクル」）への戦略的株式により、クロスチャネルの家電金融流通を提供 |
 | **ドン・キホーテとPPIHの関係** | 過去のユニー譲渡関係;グループ間の消費者データへの影響 |
 | **ファミリーグループEC** | FamiPayを補完するファミリーマートグループのEC・オンラインピックアップ |
 
-**Itochu Money のポジショニング** は、[[retail/aeon-group|AEON Financial Service]] の構造化された消費者金融アプローチに比べて大幅に定義されていません。伊藤忠商事は消費者金融資産をイオンフィナンシャルサービス（PRIME 8570）や[[JapanFG/seven-bank|Seven Bank]]（PRIME 8410）のような単一の上場金融サービスホールドコに統合していない。代わりに、消費者金融のフットプリントは**複数の子会社と戦略的投資に分散**されており、ファミリーマートが毎日頻繁に消費者に対応する主要なチャネルとなっています。
+**Itochu Money のポジショニング** は、[[retail/aeon-group|AEON Financial Service]] の構造化された消費者金融アプローチに比べて大幅に定義されていません。伊藤忠商事は消費者金融資産をイオンフィナンシャルサービス（PRIME 8570）や[[regional-banks/seven-bank|Seven Bank]]（PRIME 8410）のような単一の上場金融サービスホールドコに統合していない。代わりに、消費者金融のフットプリントは**複数の子会社と戦略的投資に分散**されており、ファミリーマートが毎日頻繁に消費者に対応する主要なチャネルとなっています。
 
 ## 家電量販店と金融のクロスレバレッジ「ヤマダサイクル」
 
@@ -97,13 +97,13 @@ FamiPay カードは、**WAON ↔ イオンカード** オートチャージ ル
 | アンカー株主 | 伊藤忠商事株式会社 (~50%) + 共同投資家 | KDDI 50% + 三菱商事 50% (JV) | 多様なパブリック + 創業者ファミリー |
 | 商社側 | 伊藤忠商事 | 三菱商事株式会社 | なし（独立） |
 | 通信アンカー | **なし** | KDDI（au） | なし |
-| キャプティブ ATM 銀行 | なし | [[JapanFG/lawson-bank|Lawson Bank]](小) | [[JapanFG/seven-bank|Seven Bank]] (プライム 8410, large) |
+| キャプティブ ATM 銀行 | なし | [[regional-banks/lawson-bank|Lawson Bank]](小) | [[regional-banks/seven-bank|Seven Bank]] (プライム 8410, large) |
 | キャプティブ クレジット カード | FamiPayカード（提携ブランド） | au PAY カード（KDDI側配布） | セブンカード・セブンカード・プラス |
 | キャプティブプリペイド電子マネー | **FamiPay** (独自) | 独自のものはありません。交通IC＋Pontaポイントに依存 | nanaco (クローズドループ) |
 | キャプティブ QR 決済ウォレット | **FamiPay アプリ** (独自、外部拡張) | 独自のものはありません。 au PAYをローソンで配布 | 独自のものはありません。 POSでのマルチウォレットの受け入れ |
 | アンカー共通点 | マルチ受付（dポイント、楽天ポイント、Vポイントなど） | **Pontaポイント** (アンカー、単一アライアンス) | nanacoポイント（クローズドループ） |
 | ロイヤルティモデル | マルチ受付＋独自FamiPayボーナス | 単一提携Ponta + KDDI au PAY ポイント | クローズドループnanacoポイント |
-| 消費者金融のクロスレバレッジ | 伊藤忠グループ（ヤマダ、伊藤忠ファイナンス等） | KDDI auスタック([[JapanFG/au-fh|au Financial Holdings]]) + 三菱商事食品・サプライチェーン | 内部 (7&iHD) + ヨーク ホールディングス ポスト 2024  カーブアウト |
+| 消費者金融のクロスレバレッジ | 伊藤忠グループ（ヤマダ、伊藤忠ファイナンス等） | KDDI auスタック([[megabanks/au-fh|au Financial Holdings]]) + 三菱商事食品・サプライチェーン | 内部 (7&iHD) + ヨーク ホールディングス ポスト 2024  カーブアウト |
 | 戦略フレーム | 「CVS×商社×FamiPayウォレット」 | 「CVS×通信社×商社」 | 「CVS×銀行ATM×グローバルCVS」 |
 
 **3 者間比較により、日本の CVS 金融堀の原因に関する異なる戦略的理論**が明らかになりました。
@@ -121,12 +121,12 @@ FamiPay カードは、**WAON ↔ イオンカード** オートチャージ ル
 - [[retail/lawson-mitsubishi-corporation-tie-up-2024-deep|Lawson + Mitsubishi 2024 deep tie-up]]
 - [[retail/aeon-group|AEON Group]]
 - [[retail/japan-retail-financial-distribution-wedge-matrix|Japan retail financial-distribution wedge matrix]]
-- [[JapanFG/itochu-corp|Itochu Corporation]]
-- [[JapanFG/itochu-finance|Itochu Finance]]
-- [[JapanFG/mitsubishi-corp|Mitsubishi Corporation]]
-- [[JapanFG/seven-bank|Seven Bank]]
-- [[JapanFG/lawson-bank|Lawson Bank]]
-- [[JapanFG/aeon-bank|Aeon Bank / AFS]]
+- [[financial-conglomerates/itochu-corp|Itochu Corporation]]
+- [[trading-company-finance/itochu-finance|Itochu Finance]]
+- [[financial-conglomerates/mitsubishi-corp|Mitsubishi Corporation]]
+- [[regional-banks/seven-bank|Seven Bank]]
+- [[regional-banks/lawson-bank|Lawson Bank]]
+- [[card-issuers/aeon-bank|Aeon Bank / AFS]]
 - [[loyalty/japan-points-landscape|Japan points landscape]]
 - [[loyalty/point-liability-accounting-boundary|point liability accounting boundary]]
 - [[loyalty/d-point-detailed-ecosystem|d Point detailed ecosystem]]

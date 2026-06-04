@@ -1,0 +1,96 @@
+{
+  "schema_version": "1.0",
+  "slug": "financial-regulators/boj-financial-system-dept",
+  "source_path": "financial-regulators/boj-financial-system-dept.md",
+  "url": "https://finwiki.zksc.io/financial-regulators/boj-financial-system-dept",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/financial-regulators/boj-financial-system-dept.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/financial-regulators/boj-financial-system-dept.md",
+  "domain": "financial-regulators",
+  "title": "金融機構局 (BoJ Financial System and Bank Examination Department)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "金融機構局 (BoJ Financial System and Bank Examination Department)",
+    "aliases": [
+      "financial-regulators/boj-financial-system-dept",
+      "boj-financial-system-dept",
+      "BoJ Financial System and Bank Examination Department",
+      "Financial System and Bank Examination Department",
+      "金融機構局",
+      "BoJ FSBED"
+    ],
+    "domain": "financial-regulators",
+    "created": "2026-05-24",
+    "last_updated": "2026-05-24",
+    "last_tended": "2026-05-24",
+    "review_by": "2026-11-20",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "central-bank",
+      "internal-bureau",
+      "BoJ",
+      "prudential",
+      "macroprudential",
+      "bank-examination"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.boj.or.jp/en/about/organization/index.htm",
+      "https://www.boj.or.jp/en/finsys/exam_monit/index.htm",
+      "https://www.boj.or.jp/en/finsys/fsr/index.htm",
+      "https://www.boj.or.jp/en/about/publication/"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 金融市場局 for the BoJ market-operations counterpart and FSA 監督局 for the regulatory-perimeter contrast. For the broader prudential system, anchor through BoJ monetary policy and banking landscape.",
+  "headings": [
+    "金融機構局 (BoJ Financial System and Bank Examination Department)",
+    "Wiki route",
+    "TL;DR",
+    "1. Function / scope",
+    "2. Counterparty / interaction",
+    "3. Why this page matters",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 13,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "banking/INDEX",
+      "banking/shinkin-bank-registry-japan",
+      "financial-licenses/INDEX",
+      "financial-regulators/boj-financial-markets-dept",
+      "financial-regulators/boj-international-dept",
+      "financial-regulators/boj-monetary-policy",
+      "financial-regulators/boj-payment-settlement-dept",
+      "financial-regulators/fsa-supervision-bureau",
+      "megabanks/smfg",
+      "regional-banks/77-bank",
+      "regional-banks/chiba-bank",
+      "securities-firms/mufg-mums"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/banking/shinkin-bank-registry-japan",
+      "https://finwiki.zksc.io/financial-licenses/INDEX",
+      "https://finwiki.zksc.io/financial-regulators/boj-financial-markets-dept",
+      "https://finwiki.zksc.io/financial-regulators/boj-international-dept",
+      "https://finwiki.zksc.io/financial-regulators/boj-monetary-policy",
+      "https://finwiki.zksc.io/financial-regulators/boj-payment-settlement-dept",
+      "https://finwiki.zksc.io/financial-regulators/fsa-supervision-bureau",
+      "https://finwiki.zksc.io/megabanks/smfg",
+      "https://finwiki.zksc.io/regional-banks/77-bank",
+      "https://finwiki.zksc.io/regional-banks/chiba-bank",
+      "https://finwiki.zksc.io/securities-firms/mufg-mums"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 5695,
+    "word_like_tokens": 890,
+    "inbound_wikilinks_count": 9,
+    "last_modified": "2026-06-04"
+  }
+}

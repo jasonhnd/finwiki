@@ -15,16 +15,16 @@ translated_at: 2026-06-01T03:31:12.253Z
 
 ## 维基路线
 
-该条目位于 [[real-estate-finance/INDEX]] 下，并路由至 [[banking/INDEX]] 上的银行方交易对手。对照[[real-estate-finance/j-reit-market-overview]]了解上市J-REIT领域的保荐方银行贷款，[[real-estate-finance/real-estate-private-credit-japan]]了解非银行私人信贷替代方案，[[real-estate-finance/real-estate-cap-rate-compression-2026]]了解推动LTV/DSCR比率的估值背景，[[real-estate-finance/japan-real-estate-appraisal-methodology]]了解CRE承销中使用的评估底线。 Megabank侧锚定为[[JapanFG/mufg-bank]]、[[JapanFG/sumitomo-mitsui-banking-corp]]和[[JapanFG/mizuho-bank]]；信任方锚定为[[JapanFG/sumitomo-mitsui-trust]]和[[JapanFG/mitsubishi-ufj-trust-bank]]；政策金融锚定为[[JapanFG/dbj]]。区域银行集中度驱动因素路线为 [[banking/regional-bank-consolidation-pattern]]。保险公司竞争对手/共同贷款人地图位于 [[insurance/japan-life-insurance-alm-overview]]。融资成本背景为 [[money-market/japan-money-market]]。
+该条目位于 [[real-estate-finance/INDEX]] 下，并路由至 [[banking/INDEX]] 上的银行方交易对手。对照[[real-estate-finance/j-reit-market-overview]]了解上市J-REIT领域的保荐方银行贷款，[[real-estate-finance/real-estate-private-credit-japan]]了解非银行私人信贷替代方案，[[real-estate-finance/real-estate-cap-rate-compression-2026]]了解推动LTV/DSCR比率的估值背景，[[real-estate-finance/japan-real-estate-appraisal-methodology]]了解CRE承销中使用的评估底线。 Megabank侧锚定为[[megabanks/mufg-bank]]、[[megabanks/sumitomo-mitsui-banking-corp]]和[[megabanks/mizuho-bank]]；信任方锚定为[[trust-banks/sumitomo-mitsui-trust]]和[[trust-banks/mitsubishi-ufj-trust-bank]]；政策金融锚定为[[financial-regulators/dbj]]。区域银行集中度驱动因素路线为 [[banking/regional-bank-consolidation-pattern]]。保险公司竞争对手/共同贷款人地图位于 [[insurance/japan-life-insurance-alm-overview]]。融资成本背景为 [[money-market/japan-money-market]]。
 
 ## 银行侧结构图
 
 |贷款人类别 |功能角色|华创定位 |
 |---|---|---|
-|大型银行（[[JapanFG/mufg-bank]]、[[JapanFG/sumitomo-mitsui-banking-corp]]、[[JapanFG/mizuho-bank]]）|庞大的资产负债表、银团项目融资、J-REIT 发起人贷款、海外 CRE 分支机构。 |东京/大阪优质写字楼、物流、酒店、大型综合体的主承销商。 |
-|信托银行（[[JapanFG/sumitomo-mitsui-trust]]、[[JapanFG/mitsubishi-ufj-trust-bank]]）|信托账户贷款加上房地产经纪、评估和资产管理。 |资产负债表贷款、房地产信托计划（TMK / GK-TK）和养老金/机构客户分配之间的桥梁。 |
+|大型银行（[[megabanks/mufg-bank]]、[[megabanks/sumitomo-mitsui-banking-corp]]、[[megabanks/mizuho-bank]]）|庞大的资产负债表、银团项目融资、J-REIT 发起人贷款、海外 CRE 分支机构。 |东京/大阪优质写字楼、物流、酒店、大型综合体的主承销商。 |
+|信托银行（[[trust-banks/sumitomo-mitsui-trust]]、[[trust-banks/mitsubishi-ufj-trust-bank]]）|信托账户贷款加上房地产经纪、评估和资产管理。 |资产负债表贷款、房地产信托计划（TMK / GK-TK）和养老金/机构客户分配之间的桥梁。 |
 |区域银行|当地中小企业信贷、房地产担保定期贷款，以及不断增长的公寓贷款和东京商业地产参与。 | CRE 在贷款账簿中所占份额上升以抵消国内净息差压缩的集中风险。 |
-|政策/开发银行([[JapanFG/dbj]]) |政策性项目融资、基础设施、城市更新联合贷款。 |具有政策一致性的大型城市重建和物流项目的联合贷款人/牵头安排人。 |
+|政策/开发银行([[financial-regulators/dbj]]) |政策性项目融资、基础设施、城市更新联合贷款。 |具有政策一致性的大型城市重建和物流项目的联合贷款人/牵头安排人。 |
 |外资银行|跨境 CRE 融资、J-REIT 高级部分、夹层和仓库设施。 |利基市场，通常与 [[real-estate-finance/real-estate-private-credit-japan]] 中涵盖的外国私人信贷 GP 配对。 |
 
 ## 项目融资与公司融资
@@ -82,7 +82,7 @@ DSCR 地板压力测试率标准化。 NIRP 后的放松已将参考利率从负
 |项目融资契约|更严格的 LTV / DSCR 触发器和现金陷阱机制。 |
 |夹层/优先股披露|更好地了解包括非银行部分在内的总杠杆率。 |
 
-这些是本周期的基准预期，在 [[JapanFG/mufg-bank]]、[[JapanFG/sumitomo-mitsui-banking-corp]] 和 [[JapanFG/mizuho-bank]] 的大型银行 IR 风险披露中可见。
+这些是本周期的基准预期，在 [[megabanks/mufg-bank]]、[[megabanks/sumitomo-mitsui-banking-corp]] 和 [[megabanks/mizuho-bank]] 的大型银行 IR 风险披露中可见。
 
 ## 大流行后 CRE 集中度
 
@@ -115,11 +115,11 @@ DSCR 地板压力测试率标准化。 NIRP 后的放松已将参考利率从负
 
 三大银行的组合截然不同：
 
-- [[JapanFG/mufg-bank]] 通过美国/欧盟分支机构网络以及大量国内房地产赞助商承载大量海外 CRE。
-- [[JapanFG/sumitomo-mitsui-banking-corp]] 经营一本专注于国内的商业地产书籍以及选择性的海外项目融资。
-- [[JapanFG/mizuho-bank]] 拥有国内外混合背景，在 J-REIT 和上市开发商关系方面拥有悠久的历史。
+- [[megabanks/mufg-bank]] 通过美国/欧盟分支机构网络以及大量国内房地产赞助商承载大量海外 CRE。
+- [[megabanks/sumitomo-mitsui-banking-corp]] 经营一本专注于国内的商业地产书籍以及选择性的海外项目融资。
+- [[megabanks/mizuho-bank]] 拥有国内外混合背景，在 J-REIT 和上市开发商关系方面拥有悠久的历史。
 
-信托银行锚定 [[JapanFG/sumitomo-mitsui-trust]] 和 [[JapanFG/mitsubishi-ufj-trust-bank]] 增加了房地产信托维度，信托银行持有受益人利益结构，并在贷款的同时提供资产管理。
+信托银行锚定 [[trust-banks/sumitomo-mitsui-trust]] 和 [[trust-banks/mitsubishi-ufj-trust-bank]] 增加了房地产信托维度，信托银行持有受益人利益结构，并在贷款的同时提供资产管理。
 
 确切的商业地产风险敞口数据和集中度在每个季度披露时轮换；使用前请在相关大型银行 IR 页面上进行验证。
 
@@ -162,12 +162,12 @@ DSCR 地板压力测试率标准化。 NIRP 后的放松已将参考利率从负
 - [[money-market/japan-money-market]]
 - [[finance/japan-private-equity-fund-structure-matrix]]
 - [[finance/japan-private-equity-operating-model]]
-- [[JapanFG/mufg-bank]]
-- [[JapanFG/sumitomo-mitsui-banking-corp]]
-- [[JapanFG/mizuho-bank]]
-- [[JapanFG/sumitomo-mitsui-trust]]
-- [[JapanFG/mitsubishi-ufj-trust-bank]]
-- [[JapanFG/dbj]]
+- [[megabanks/mufg-bank]]
+- [[megabanks/sumitomo-mitsui-banking-corp]]
+- [[megabanks/mizuho-bank]]
+- [[trust-banks/sumitomo-mitsui-trust]]
+- [[trust-banks/mitsubishi-ufj-trust-bank]]
+- [[financial-regulators/dbj]]
 - [[INDEX|FinWiki index]]
 
 ## 来源

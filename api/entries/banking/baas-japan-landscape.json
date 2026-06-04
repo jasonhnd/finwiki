@@ -51,34 +51,34 @@
   "body_links": {
     "wikilinks_count": 9,
     "wikilinks": [
-      "JapanFG/gmo-aozora-net",
-      "JapanFG/ssnb",
       "banking/INDEX",
       "banking/cooperative-banking-japan",
       "banking/mercari-bank",
       "banking/mercari-bank-license-stack",
       "banking/minna-bank-baas-model",
       "banking/quick-deposit-four-methods",
-      "fintech/japan-financial-regulation"
+      "fintech/japan-financial-regulation",
+      "payment-firms/gmo-aozora-net",
+      "regional-banks/ssnb"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/gmo-aozora-net",
-      "https://finwiki.zksc.io/JapanFG/ssnb",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/cooperative-banking-japan",
       "https://finwiki.zksc.io/banking/mercari-bank",
       "https://finwiki.zksc.io/banking/mercari-bank-license-stack",
       "https://finwiki.zksc.io/banking/minna-bank-baas-model",
       "https://finwiki.zksc.io/banking/quick-deposit-four-methods",
-      "https://finwiki.zksc.io/fintech/japan-financial-regulation"
+      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
+      "https://finwiki.zksc.io/payment-firms/gmo-aozora-net",
+      "https://finwiki.zksc.io/regional-banks/ssnb"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3476,
-    "word_like_tokens": 563,
-    "inbound_wikilinks_count": 27,
-    "last_modified": "2026-05-29"
+    "nonspace_chars": 3515,
+    "word_like_tokens": 569,
+    "inbound_wikilinks_count": 28,
+    "last_modified": "2026-06-04"
   }
 }

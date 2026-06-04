@@ -28,7 +28,7 @@ sources:
 
 Japan's bank API / electronic payment agency route is the legal and operating bridge between banks and fintech apps that obtain account information, initiate account-linked instructions, or connect customer-facing services to deposit-account rails. It is not the same as being a bank, funds-transfer service provider, prepaid issuer, card acquirer, or wallet operator.
 
-Use this page with [[payments/INDEX|payments domain]], [[JapanFG/legal-financial-licenses/INDEX|JapanFG legal / financial licenses]], [[payments/account-to-account-payment-japan|Japan account-to-account payment route]], [[payments/funds-transfer-vs-prepaid-boundary|funds transfer vs prepaid boundary]], [[banking/baas-japan-landscape|BaaS Japan landscape]], and [[banking/mercari-bank-license-stack|Mercari Bank license stack]].
+Use this page with [[payments/INDEX|payments domain]], [[financial-licenses/INDEX|JapanFG legal / financial licenses]], [[payments/account-to-account-payment-japan|Japan account-to-account payment route]], [[payments/funds-transfer-vs-prepaid-boundary|funds transfer vs prepaid boundary]], [[banking/baas-japan-landscape|BaaS Japan landscape]], and [[banking/mercari-bank-license-stack|Mercari Bank license stack]].
 
 ## Route Map
 
@@ -66,9 +66,9 @@ For a live company conclusion, check the exact legal name, registration number, 
 
 ## JapanFG Relevance
 
-- [[JapanFG/mufg-bank|MUFG Bank]], [[JapanFG/sumitomo-mitsui-banking-corp|SMBC]], [[JapanFG/mizuho-bank|Mizuho Bank]], and [[JapanFG/resona-bank|Resona Bank]] matter because fintech account-linking depends on bank API / contract acceptance.
-- [[JapanFG/sb-payment-service|SB Payment Service]], [[JapanFG/money-forward|Money Forward]], and [[JapanFG/freee|freee]] are examples of entities where account information, accounting, payment, and API routes can become strategically important.
-- [[JapanFG/merpay|Merpay]], [[JapanFG/paypay|PayPay]], and [[JapanFG/au-payment|au PAY]] be separated into wallet / funds-transfer / prepaid / account-direct / bank API layers rather than treated as one "payment app" category.
+- [[megabanks/mufg-bank|MUFG Bank]], [[megabanks/sumitomo-mitsui-banking-corp|SMBC]], [[megabanks/mizuho-bank|Mizuho Bank]], and [[megabanks/resona-bank|Resona Bank]] matter because fintech account-linking depends on bank API / contract acceptance.
+- [[payment-firms/sb-payment-service|SB Payment Service]], [[payment-firms/money-forward|Money Forward]], and [[payment-firms/freee|freee]] are examples of entities where account information, accounting, payment, and API routes can become strategically important.
+- [[payment-firms/merpay|Merpay]], [[payment-firms/paypay|PayPay]], and [[payment-firms/au-payment|au PAY]] be separated into wallet / funds-transfer / prepaid / account-direct / bank API layers rather than treated as one "payment app" category.
 - [[banking/mercari-bank-license-stack|Mercari Bank license stack]] is the clearest internal route for showing how a bank partner, app UX, and payment account can be split.
 
 ## Control Questions
@@ -99,7 +99,7 @@ For a live company conclusion, check the exact legal name, registration number, 
 3. Check whether the service is information-only, instruction-capable, or both.
 4. Check whether value is stored, remitted, prepaid, or only instructed.
 5. Check public API / bank partner disclosures and any user protection notices.
-6. Link the company page to [[JapanFG/legal-financial-licenses/INDEX|legal / financial licenses]] and to the relevant payment or banking route.
+6. Link the company page to [[financial-licenses/INDEX|legal / financial licenses]] and to the relevant payment or banking route.
 
 ## Related
 
@@ -110,12 +110,12 @@ For a live company conclusion, check the exact legal name, registration number, 
 - [[payments/funds-transfer-service-providers-japan-index]]
 - [[banking/baas-japan-landscape]]
 - [[banking/mercari-bank-license-stack]]
-- [[JapanFG/legal-financial-licenses/INDEX]]
-- [[JapanFG/mufg-bank]]
-- [[JapanFG/sumitomo-mitsui-banking-corp]]
-- [[JapanFG/mizuho-bank]]
-- [[JapanFG/money-forward]]
-- [[JapanFG/freee]]
+- [[financial-licenses/INDEX]]
+- [[megabanks/mufg-bank]]
+- [[megabanks/sumitomo-mitsui-banking-corp]]
+- [[megabanks/mizuho-bank]]
+- [[payment-firms/money-forward]]
+- [[payment-firms/freee]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

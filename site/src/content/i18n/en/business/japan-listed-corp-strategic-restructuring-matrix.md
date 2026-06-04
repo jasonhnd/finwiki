@@ -36,7 +36,7 @@ Eight headline cases anchor the comparison:
 - **Sony Group → Sony Financial Group partial spinoff (2026)** — domestic-template **partial-spinoff with tax deferral** under the 2023-amended regime, with public listing of SFG as a separate company. See [[business/sony-fg-partial-spinoff-case|Sony FG partial spinoff case]].
 - **SoftBank Group → Arm Holdings IPO (2023-09)** — cross-border IPO on Nasdaq, parent-retained majority stake. See [[business/softbank-vision-fund-arm-ipo-template|SoftBank Vision Fund Arm IPO template]].
 - **Toshiba → Japan Industrial Partners (JIP) going-private (2023)** — TOB + squeeze-out + delisting; domestic-PE-led. See [[corporate-strategy/toshiba-tob-squeeze-out-2023-2024-case|Toshiba TOB squeeze-out 2023-2024 case]].
-- **Rakuten Group → mobile-finance reorganisation** — internal group restructuring (re-IPO of [[banking/rakuten-bank|Rakuten Bank]] 2023-04; [[JapanFG/rakuten-securities|Rakuten Securities]] minority IPO process and reversal; capital-injection cross-subsidy across [[business/rakuten-group-mobile-finance-bundling-case|Rakuten Group mobile-finance]] cluster).
+- **Rakuten Group → mobile-finance reorganisation** — internal group restructuring (re-IPO of [[banking/rakuten-bank|Rakuten Bank]] 2023-04; [[securities-firms/rakuten-securities|Rakuten Securities]] minority IPO process and reversal; capital-injection cross-subsidy across [[business/rakuten-group-mobile-finance-bundling-case|Rakuten Group mobile-finance]] cluster).
 - **Hitachi → Hitachi Astemo carve-out** — JV with Honda Motor; partial sale to JIP / Bain; eventual IPO trajectory.
 - **Sharp ← Foxconn take-private (2016)** — foreign-strategic take-private via tender plus third-party allotment (referenced as 2010s case for vehicle comparison).
 - **Olympus → camera business spin-off (2020-2021)** — sale of camera business to JIP via 会社分割 (kaisha bunkatsu); transferred to OM Digital Solutions.
@@ -206,8 +206,8 @@ The **partial-spinoff vehicle is the modern frontier** for domestic restructurin
 - [[securities/japan-ipo-2024-2025-case-study-kioxia-tokyo-metro]]
 - [[securities/japan-ipo-listing-disclosure-route]]
 - [[banking/rakuten-bank]]
-- [[JapanFG/sony-fg]]
-- [[JapanFG/rakuten-securities]]
+- [[megabanks/sony-fg]]
+- [[securities-firms/rakuten-securities]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

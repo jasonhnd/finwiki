@@ -19,7 +19,7 @@ Japan corporates use equity-volatility hedging in **four structurally distinct c
 3. **M&A pre-announcement protection** — acquirers and target boards sometimes structure pre-bid call options, collar arrangements, or block-trade hedges with dealer banks around contemplated transactions, subject to insider-trading constraints under FIEA;
 4. **Treasury-share repurchase program hedging** — corporates executing large share-buyback programs use accelerated-share-repurchase (ASR) variants, variance-swap overlays, and option-collar structures with dealer-bank counterparties.
 
-The **dealer franchise on the other side** of this equity-corporate-hedge flow is concentrated at the megabank securities arms ([[JapanFG/nomura-hd|Nomura]], [[JapanFG/daiwa-sg|Daiwa]], [[JapanFG/smbc-nikko|SMBC Nikko]], [[JapanFG/mizuho-securities|Mizuho Securities]]) for domestic-corporate coverage, and at the global IBs ([[JapanFG/goldman-sachs-japan|GS Japan]], [[JapanFG/morgan-stanley-japan|MS Japan]], [[JapanFG/jpmorgan-japan|JPM Japan]], [[JapanFG/citigroup-japan|Citi Japan]]) for cross-border and structured-product capacity. This is the equity-derivatives end-user pillar of the Japan [[derivatives/dealer-bank-derivatives-revenue-mix|dealer-bank derivatives revenue mix]].
+The **dealer franchise on the other side** of this equity-corporate-hedge flow is concentrated at the megabank securities arms ([[securities-firms/nomura-hd|Nomura]], [[securities-firms/daiwa-sg|Daiwa]], [[securities-firms/smbc-nikko|SMBC Nikko]], [[securities-firms/mizuho-securities|Mizuho Securities]]) for domestic-corporate coverage, and at the global IBs ([[securities-firms/goldman-sachs-japan|GS Japan]], [[securities-firms/morgan-stanley-japan|MS Japan]], [[foreign-financial-institutions/jpmorgan-japan|JPM Japan]], [[foreign-financial-institutions/citigroup-japan|Citi Japan]]) for cross-border and structured-product capacity. This is the equity-derivatives end-user pillar of the Japan [[derivatives/dealer-bank-derivatives-revenue-mix|dealer-bank derivatives revenue mix]].
 
 This entry covers the four corporate use cases, the OTC instrument set used in each, the dealer-franchise economics, the regulatory boundary (insider trading, large-shareholding disclosure, treasury-share rules), and the structural reason this segment remains **smaller and more dealer-intermediated** than US corporate equity-derivatives hedging.
 
@@ -31,7 +31,7 @@ This entry sits under [[derivatives/INDEX|derivatives index]] in the equity-vola
 
 Japan corporates carry **structurally distinctive** equity-vol exposures that US or European peers do not carry to the same degree:
 
-- **Cross-shareholdings** — listed Japanese non-financial corporates collectively hold large balance-sheet equity positions in business partners (suppliers, customers, banking-relationship counterparties). These positions are mark-to-market through OCI under accounting rules, with capital and earnings implications. The current decade-long [[finance/japan-cross-shareholding-unwinding-economics|cross-shareholding unwinding]] cycle — driven by [[JapanFG/japan-exchange-group|JPX]] corporate-governance code revisions and FSA disclosure pressure — creates a continuous structural flow of equity sales that corporates often want to hedge against intra-period volatility;
+- **Cross-shareholdings** — listed Japanese non-financial corporates collectively hold large balance-sheet equity positions in business partners (suppliers, customers, banking-relationship counterparties). These positions are mark-to-market through OCI under accounting rules, with capital and earnings implications. The current decade-long [[finance/japan-cross-shareholding-unwinding-economics|cross-shareholding unwinding]] cycle — driven by [[financial-regulators/japan-exchange-group|JPX]] corporate-governance code revisions and FSA disclosure pressure — creates a continuous structural flow of equity sales that corporates often want to hedge against intra-period volatility;
 - **ESO accounting** — many listed Japanese corporates have material ESO and equity-linked retention programs; the option-fair-value at grant under accounting rules is **volatility-input-sensitive**, and some treasurers hedge bilaterally;
 - **Buyback programs at scale** — Japan corporate balance sheets carry historically high cash positions; corporate-governance pressure has driven a buyback-program acceleration, with several megacaps announcing multi-trillion-yen multi-year repurchase plans; executing these at scale without market impact and price slippage is a structural derivatives use case;
 - **M&A activity at TSE-prime scale** — large Japanese corporates engaged in [[finance/cross-border-m-a-japan|cross-border M&A]] and domestic [[finance/japan-tender-offer-process|tender offer]] / [[finance/japan-mbo-and-squeeze-out-process|MBO]] transactions sometimes use pre-announcement equity-derivatives positions, subject to strict insider-trading and large-shareholding-disclosure constraints.
@@ -44,7 +44,7 @@ A listed Japan corporate — for example, a [[finance/japan-listed-financial-gro
 
 - The portfolio is **marked to market through OCI** (other comprehensive income), with movements flowing through equity but generally not P&L;
 - For banks and insurers, mark-to-market movements affect **regulatory capital** (CET1 for banks under Basel; risk-equity for insurers under ICS / J-SAM);
-- Under [[JapanFG/japan-exchange-group|TSE corporate governance code]] revisions, listed corporates must explain the rationale for each cross-shareholding above threshold and demonstrate progress toward reduction;
+- Under [[financial-regulators/japan-exchange-group|TSE corporate governance code]] revisions, listed corporates must explain the rationale for each cross-shareholding above threshold and demonstrate progress toward reduction;
 - The TSE-Prime "PBR > 1" pressure and the broader corporate-governance reform wave have created a **continuous structural sell flow** of cross-shareholdings.
 
 ### The hedging problem
@@ -107,7 +107,7 @@ Public-source rationale for ESO hedging:
 
 ### Regulatory boundary
 
-ESO hedging programs interact with **treasury-share rules under the [[finance/japan-listed-financial-groups-investable-universe|Companies Act]]** (上限 / 自己株式取得規制), the FSA disclosure regime, and the [[JapanFG/japan-exchange-group|JPX]] corporate-governance code. Most corporates execute ESO-related hedges via formal board-approved repurchase programs rather than ad-hoc derivative trades.
+ESO hedging programs interact with **treasury-share rules under the [[finance/japan-listed-financial-groups-investable-universe|Companies Act]]** (上限 / 自己株式取得規制), the FSA disclosure regime, and the [[financial-regulators/japan-exchange-group|JPX]] corporate-governance code. Most corporates execute ESO-related hedges via formal board-approved repurchase programs rather than ad-hoc derivative trades.
 
 ### The exposure
 
@@ -170,14 +170,14 @@ Public-source observation on the corporate-side dealer franchise:
 
 | Dealer | Strength on corporate equity OTC options |
 |---|---|
-| **[[JapanFG/nomura-hd|Nomura]]** | Largest domestic corporate-coverage franchise; deepest single-name option book; cross-shareholding-unwinding flow dominance. |
-| **[[JapanFG/daiwa-sg|Daiwa SG]]** | Second-tier domestic corporate coverage; competitive structured-product franchise. |
-| **[[JapanFG/smbc-nikko|SMBC Nikko]]** | Megabank-affiliated; corporate-coverage strength via SMBC banking relationships; group-cross-shareholding flow channel. |
-| **[[JapanFG/mizuho-securities|Mizuho Securities]]** | Megabank-affiliated; corporate-coverage via Mizuho banking and trust integration; Dai-ichi Life adjacency. |
-| **[[JapanFG/goldman-sachs-japan|GS Japan]]** | Tier-1 global IB; deepest cross-border M&A and structured equity capability. |
-| **[[JapanFG/morgan-stanley-japan|MS Japan / MUMSS]]** | Tier-1 global IB + MUFG JV; dual-channel corporate coverage. |
-| **[[JapanFG/jpmorgan-japan|JPM Japan]]** | Tier-1 global IB; banking-book + securities capability. |
-| **[[JapanFG/citigroup-japan|Citi Japan]]** | Tier-1 global IB; FX-prime adjacency particularly valuable for cross-border M&A. |
+| **[[securities-firms/nomura-hd|Nomura]]** | Largest domestic corporate-coverage franchise; deepest single-name option book; cross-shareholding-unwinding flow dominance. |
+| **[[securities-firms/daiwa-sg|Daiwa SG]]** | Second-tier domestic corporate coverage; competitive structured-product franchise. |
+| **[[securities-firms/smbc-nikko|SMBC Nikko]]** | Megabank-affiliated; corporate-coverage strength via SMBC banking relationships; group-cross-shareholding flow channel. |
+| **[[securities-firms/mizuho-securities|Mizuho Securities]]** | Megabank-affiliated; corporate-coverage via Mizuho banking and trust integration; Dai-ichi Life adjacency. |
+| **[[securities-firms/goldman-sachs-japan|GS Japan]]** | Tier-1 global IB; deepest cross-border M&A and structured equity capability. |
+| **[[securities-firms/morgan-stanley-japan|MS Japan / MUMSS]]** | Tier-1 global IB + MUFG JV; dual-channel corporate coverage. |
+| **[[foreign-financial-institutions/jpmorgan-japan|JPM Japan]]** | Tier-1 global IB; banking-book + securities capability. |
+| **[[foreign-financial-institutions/citigroup-japan|Citi Japan]]** | Tier-1 global IB; FX-prime adjacency particularly valuable for cross-border M&A. |
 
 The structural pattern: **domestic-corporate cross-shareholding and buyback flow** concentrates at the megabank securities arms; **cross-border M&A and complex structured equity** concentrates at the global IBs; the OTC equity-option book on the dealer side is hedged primarily via the listed [[securities/osaka-exchange|OSE]] Nikkei 225 options, single-name listed options, the underlying [[securities/tokyo-stock-exchange|TSE]] cash market, and the [[securities/japan-stock-lending-market-route|stock-loan market]] for delta hedging.
 
@@ -203,15 +203,15 @@ The structural pattern: **domestic-corporate cross-shareholding and buyback flow
 - [[finance/japan-mbo-and-squeeze-out-process]]
 - [[finance/cross-border-m-a-japan]]
 - [[finance/japan-listed-financial-groups-investable-universe]]
-- [[JapanFG/japan-exchange-group]]
-- [[JapanFG/nomura-hd]]
-- [[JapanFG/daiwa-sg]]
-- [[JapanFG/smbc-nikko]]
-- [[JapanFG/mizuho-securities]]
-- [[JapanFG/goldman-sachs-japan]]
-- [[JapanFG/morgan-stanley-japan]]
-- [[JapanFG/jpmorgan-japan]]
-- [[JapanFG/citigroup-japan]]
+- [[financial-regulators/japan-exchange-group]]
+- [[securities-firms/nomura-hd]]
+- [[securities-firms/daiwa-sg]]
+- [[securities-firms/smbc-nikko]]
+- [[securities-firms/mizuho-securities]]
+- [[securities-firms/goldman-sachs-japan]]
+- [[securities-firms/morgan-stanley-japan]]
+- [[foreign-financial-institutions/jpmorgan-japan]]
+- [[foreign-financial-institutions/citigroup-japan]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

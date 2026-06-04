@@ -26,11 +26,11 @@ translated_at: 2026-06-01T03:31:12.255Z
 |股票代码 |东证 J-REIT **3462** |
 |投资公司|野村不动产Master Fund Inc. (野村不动产マスターfuァンド投资法人) | Nomura Real Estate Master Fund Inc.
 |资产管理公司|野村不动产资产管理有限公司（发起人：野村不动产控股） |
-|赞助商 |野村房地产控股公司（TSE Prime 3231）；最终父级：[[JapanFG/nomura-hd|Nomura Holdings]] |
+|赞助商 |野村房地产控股公司（TSE Prime 3231）；最终父级：[[securities-firms/nomura-hd|Nomura Holdings]] |
 |上市日期 | 10 月上市 2015  作为合并后的继承者（旧 NMF 较早上市；合并合并了三个野村 J-REIT）|
 |资产聚焦 |多元化——办公、住宅、零售、物流 |
 |资产管理受托人|信托银行受托人 — 因财产而异 |
-|评级 | [[JapanFG/jcr|JCR]] / [[JapanFG/rating-and-investment|R&I]] 高投资级；考虑到多元化和规模，跻身评级较高的日本房地产投资信托基金之列
+|评级 | [[financial-regulators/jcr|JCR]] / [[financial-regulators/rating-and-investment|R&I]] 高投资级；考虑到多元化和规模，跻身评级较高的日本房地产投资信托基金之列
 |指数纳入| TSE REIT 指数、GPR / FTSE EPRA Nareit 亚洲发达国家 |
 
 ## 2。 2015 三向合并
@@ -112,7 +112,7 @@ translated_at: 2026-06-01T03:31:12.255Z
 - [[real-estate-finance/logistics-j-reit-vs-office-j-reit-asset-class-comparison|logistics J-REIT vs office J-REIT comparison]]
 - [[real-estate-finance/mitsui-fudosan-financing-model|Mitsui Fudosan financing model]]
 - [[real-estate-finance/mitsubishi-estate-financing-model|Mitsubishi Estate financing model]]
-- [[JapanFG/nomura-hd|Nomura Holdings]]
+- [[securities-firms/nomura-hd|Nomura Holdings]]
 - [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]]
 - [[INDEX|FinWiki index]]
 

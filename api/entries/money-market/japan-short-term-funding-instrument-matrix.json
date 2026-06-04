@@ -73,13 +73,13 @@
     "wikilinks_count": 21,
     "wikilinks": [
       "INDEX",
-      "JapanFG/boj-monetary-policy",
-      "JapanFG/japan-securities-finance",
-      "JapanFG/norinchukin",
-      "JapanFG/shinkin-central",
-      "JapanFG/yokin-hoken-kiko",
       "banking/INDEX",
+      "cooperative-banks/norinchukin",
+      "cooperative-banks/shinkin-central",
       "finance/japan-corporate-treasury-and-cash-management",
+      "financial-regulators/boj-monetary-policy",
+      "financial-regulators/japan-securities-finance",
+      "financial-regulators/yokin-hoken-kiko",
       "money-market/INDEX",
       "money-market/boj-open-market-operations",
       "money-market/boj-post-2024-floor-system-complementary-deposit-facility",
@@ -96,13 +96,13 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/boj-monetary-policy",
-      "https://finwiki.zksc.io/JapanFG/japan-securities-finance",
-      "https://finwiki.zksc.io/JapanFG/norinchukin",
-      "https://finwiki.zksc.io/JapanFG/shinkin-central",
-      "https://finwiki.zksc.io/JapanFG/yokin-hoken-kiko",
       "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/cooperative-banks/norinchukin",
+      "https://finwiki.zksc.io/cooperative-banks/shinkin-central",
       "https://finwiki.zksc.io/finance/japan-corporate-treasury-and-cash-management",
+      "https://finwiki.zksc.io/financial-regulators/boj-monetary-policy",
+      "https://finwiki.zksc.io/financial-regulators/japan-securities-finance",
+      "https://finwiki.zksc.io/financial-regulators/yokin-hoken-kiko",
       "https://finwiki.zksc.io/money-market/INDEX",
       "https://finwiki.zksc.io/money-market/boj-open-market-operations",
       "https://finwiki.zksc.io/money-market/boj-post-2024-floor-system-complementary-deposit-facility",
@@ -121,9 +121,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 25355,
-    "word_like_tokens": 4206,
+    "nonspace_chars": 25480,
+    "word_like_tokens": 4217,
     "inbound_wikilinks_count": 1,
-    "last_modified": "2026-06-02"
+    "last_modified": "2026-06-04"
   }
 }

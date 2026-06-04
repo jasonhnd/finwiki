@@ -37,9 +37,9 @@ Japan's three largest "common point" programmes split along the **anchor-busines
 
 | Programme | Anchor | Coalition partner(s) | Payment integration | Financial-group integration |
 |---|---|---|---|---|
-| **d Point** | NTT docomo telco subscribers | Lawson, McDonald's, Matsumoto Kiyoshi, ENEOS, etc. | d払い (d-barai QR), d Card credit, d Card Prepaid | NTT Docomo finance arm → [[JapanFG/ndfg|NDFG]] (planned consolidation including SMBC trust route) |
-| **au PAY ポイント (旧 Ponta)** | KDDI / au telco subscribers + Recruit Holdings co-anchored coalition | Lawson, GEO, Shell SS (出光昭和シェル), Recruit Group services (じゃらん, Hot Pepper, etc.) | au PAY (QR), au PAY カード, au PAY プリペイドカード | [[JapanFG/au-fh|au FH (KDDI 金融持株)]] + [[JapanFG/au-payment|au Payment]] |
-| **V Point** | SMBC Group financial subscribers + CCC database | T-Card legacy network (CCC), SMBC card cardholders, Olive accounts | Olive一体型, SMBC card, V NEAR PAY | [[JapanFG/smfg|SMFG]] / SMBC card |
+| **d Point** | NTT docomo telco subscribers | Lawson, McDonald's, Matsumoto Kiyoshi, ENEOS, etc. | d払い (d-barai QR), d Card credit, d Card Prepaid | NTT Docomo finance arm → [[megabanks/ndfg|NDFG]] (planned consolidation including SMBC trust route) |
+| **au PAY ポイント (旧 Ponta)** | KDDI / au telco subscribers + Recruit Holdings co-anchored coalition | Lawson, GEO, Shell SS (出光昭和シェル), Recruit Group services (じゃらん, Hot Pepper, etc.) | au PAY (QR), au PAY カード, au PAY プリペイドカード | [[megabanks/au-fh|au FH (KDDI 金融持株)]] + [[payment-firms/au-payment|au Payment]] |
+| **V Point** | SMBC Group financial subscribers + CCC database | T-Card legacy network (CCC), SMBC card cardholders, Olive accounts | Olive一体型, SMBC card, V NEAR PAY | [[megabanks/smfg|SMFG]] / SMBC card |
 
 The strategic difference between the two telco-anchored programmes and the bank-anchored V Point is **identity origin**:
 
@@ -70,9 +70,9 @@ The **au-side counterpart** is structurally similar — au's coalition with Recr
 | Approx. member ID base | 100M+ d-account IDs (NTT docomo public disclosure) | 100M+ Ponta IDs / au IDs combined (KDDI / Recruit public materials) | 130M+ unified (CCC + SMBC public materials at integration) |
 | Wallet integration | d払い (QR) | au PAY (QR) | V NEAR PAY (NFC) + Olive一体型 |
 | Card | d Card / d Card GOLD (issued by NTT docomo) | au PAY カード (issued by au Financial Service) | SMBC card / Olive一体型 (SMBC) |
-| Bank | (planned NDFG consolidation; partner banks today) | au じぶん銀行 (subsidiary of [[JapanFG/au-fh|au FH]]) | SMBC + Olive |
+| Bank | (planned NDFG consolidation; partner banks today) | au じぶん銀行 (subsidiary of [[megabanks/au-fh|au FH]]) | SMBC + Olive |
 | Securities | (planned route via SMBC alliance to NTT route) | au カブコム証券 (subsidiary of au FH) | SMBC日興証券 |
-| Insurance | (NTT docomo insurance distribution + planned NDFG roll-up) | [[JapanFG/au-insurance|au 損害保険]] + au アセットマネジメント | partner insurance route |
+| Insurance | (NTT docomo insurance distribution + planned NDFG roll-up) | [[non-life-insurers/au-insurance|au 損害保険]] + au アセットマネジメント | partner insurance route |
 | Retail flagship | Lawson, McDonald's, Matsumoto Kiyoshi, ENEOS | Lawson, GEO, 出光, Recruit ecosystem | T-card legacy network (Tsutaya, スーパー, etc.) |
 | Mobile carrier | NTT docomo (mobile, ahamo, irumo) | au, UQ mobile, povo | (none) |
 
@@ -88,24 +88,24 @@ The same retail surface paying out into two competing point programmes is unusua
 
 ## NTT docomo — d Point as the front-end of NDFG
 
-The d Point programme is the consumer-facing layer of NTT docomo's broader push toward a **financial holding group** structure — see [[JapanFG/ndfg|NDFG (NTT docomo financial group)]] for the consolidation structure being assembled. The strategic arc:
+The d Point programme is the consumer-facing layer of NTT docomo's broader push toward a **financial holding group** structure — see [[megabanks/ndfg|NDFG (NTT docomo financial group)]] for the consolidation structure being assembled. The strategic arc:
 
 1. **d-account** as a single customer ID across docomo, d払い, d Card, d-account banking partners, d-account NISA partners
 2. **d Point** as the loyalty currency that ties the experience together
 3. **NDFG holding company** as the regulatory wrapper that consolidates banking, securities, insurance, and trust subsidiaries under one financial-group umbrella
 4. **SMBC Trust route** as one specific consolidation lever publicly disclosed in NTT / SMBC announcements
 
-The end-state implied by NTT's public materials is a **telco-anchored financial super-group** that rivals [[JapanFG/rakuten-fg|Rakuten FG]] and [[JapanFG/paypay-fg|PayPay FG]] on integrated point-payment-financial-services bundling, with the **telco subscription cash-flow as the underlying anchor**.
+The end-state implied by NTT's public materials is a **telco-anchored financial super-group** that rivals [[payment-firms/rakuten-fg|Rakuten FG]] and [[megabanks/paypay-fg|PayPay FG]] on integrated point-payment-financial-services bundling, with the **telco subscription cash-flow as the underlying anchor**.
 
 ## KDDI — au Point inside au FH
 
-KDDI's parallel structure is more **already-consolidated** on the financial side than NTT's. [[JapanFG/au-fh|au FH (au Financial Holdings)]] already owns:
+KDDI's parallel structure is more **already-consolidated** on the financial side than NTT's. [[megabanks/au-fh|au FH (au Financial Holdings)]] already owns:
 
 - au じぶん銀行 (au Jibun Bank — internet bank, MUFG legacy alliance)
 - au カブコム証券 (au Kabu.com Securities)
-- au 損害保険 / [[JapanFG/au-insurance|au 損害保険]]
+- au 損害保険 / [[non-life-insurers/au-insurance|au 損害保険]]
 - au アセットマネジメント
-- [[JapanFG/au-payment|au Payment]] (operator of au PAY)
+- [[payment-firms/au-payment|au Payment]] (operator of au PAY)
 - au Pay Card
 
 The au PAY ポイント programme sits as the **loyalty currency** that ties all these subsidiaries into one customer-funnel narrative. Recruit's coalition partnership through Ponta adds non-telco surfaces (travel, dining, services) on top.
@@ -123,7 +123,7 @@ The structural comparison to V Point (see [[loyalty/v-point-smbc-ccc-case|V Poin
 | What's the data graph? | Location + app + telco usage | Spend + account flow + CCC retail database |
 | What's the competitive moat? | Stickiness of mobile-line switching | Stickiness of bank-account switching |
 | What's the regulatory anchor? | 電気通信事業法 + 資金決済法 (for payments) | 銀行法 + 割賦販売法 + 資金決済法 |
-| What's the financial-group end-state? | Telco-anchored financial holding ([[JapanFG/ndfg|NDFG]], [[JapanFG/au-fh|au FH]]) | Bank-led group ([[JapanFG/smfg|SMFG]] / Olive) |
+| What's the financial-group end-state? | Telco-anchored financial holding ([[megabanks/ndfg|NDFG]], [[megabanks/au-fh|au FH]]) | Bank-led group ([[megabanks/smfg|SMFG]] / Olive) |
 
 The two anchor types converge on the same downstream products (card, bank, securities, insurance, payments, retail media), but they reach them through different acquisition funnels and have different defensive economics. Telco anchors enjoy lower churn on the underlying subscription; finance anchors enjoy higher revenue per active relationship.
 
@@ -161,7 +161,7 @@ The economic incentive for a partner to join a coalition is **incremental traffi
 ## Strategic reading
 
 - **Telco-anchored point programmes are the most cost-efficient cross-sell platform in Japan** because the mobile contract pays for KYC, customer acquisition, and the recurring billing rail; the loyalty layer monetises an already-paid-for relationship.
-- **The d Point / au PAY ポイント rivalry is a multi-decade contest** because both anchors have national footprint, both have integrated financial holdings, and neither has a structural cost disadvantage. PayPay's ecosystem ([[JapanFG/paypay-fg|PayPay FG]]) operates from a different starting point (LY / SoftBank / Yahoo data assets, not mobile-line anchor) and competes on a third axis.
+- **The d Point / au PAY ポイント rivalry is a multi-decade contest** because both anchors have national footprint, both have integrated financial holdings, and neither has a structural cost disadvantage. PayPay's ecosystem ([[megabanks/paypay-fg|PayPay FG]]) operates from a different starting point (LY / SoftBank / Yahoo data assets, not mobile-line anchor) and competes on a third axis.
 - **Code-payment penetration is the visible layer of a deeper financial-group competition** — see [[payments/japan-code-payment-competitive-map|Japan code-payment competitive map]] for the wallet-side view; both d払い and au PAY exist primarily to capture transaction-level data and to widen the cross-sell base into card / bank / insurance / securities.
 - **The point-liability accounting question matters more at telco scale** — both d Point and au PAY ポイント carry tens of billions of yen in accrued loyalty liability with material breakage assumptions. The IFRS-15 / J-GAAP treatment is documented in [[loyalty/point-liability-accounting-boundary|point liability accounting boundary]].
 - **Retail acquisition (Lawson, ENEOS, Matsumoto Kiyoshi) is no longer commodity** — KDDI's [[retail/lawson-kddi-retail-finance|Lawson]] move changes the cost basis of multi-point partnerships. Watch for similar equity moves by NTT docomo on retail anchors.
@@ -172,12 +172,12 @@ The economic incentive for a partner to join a coalition is **incremental traffi
 - [[loyalty/japan-points-landscape|Japan points and loyalty landscape]]
 - [[loyalty/v-point-smbc-ccc-case|V Point (SMBC × CCC) case]]
 - [[loyalty/point-liability-accounting-boundary|point liability accounting boundary]]
-- [[JapanFG/ndfg|NDFG (NTT docomo financial group)]]
-- [[JapanFG/au-fh|au FH (au Financial Holdings)]]
-- [[JapanFG/au-payment|au Payment]]
-- [[JapanFG/au-insurance|au 損害保険]]
-- [[JapanFG/rakuten-fg|Rakuten FG]]
-- [[JapanFG/paypay-fg|PayPay FG]]
+- [[megabanks/ndfg|NDFG (NTT docomo financial group)]]
+- [[megabanks/au-fh|au FH (au Financial Holdings)]]
+- [[payment-firms/au-payment|au Payment]]
+- [[non-life-insurers/au-insurance|au 損害保険]]
+- [[payment-firms/rakuten-fg|Rakuten FG]]
+- [[megabanks/paypay-fg|PayPay FG]]
 - [[retail/lawson-kddi-retail-finance|Lawson × KDDI retail finance]]
 - [[retail/INDEX|retail INDEX]]
 - [[payments/japan-code-payment-competitive-map|Japan code-payment competitive map]]

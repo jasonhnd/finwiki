@@ -28,7 +28,7 @@ sources:
 
 ## TL;DR
 
-Japanese aircraft leasing has two intertwined channels: (1) **Japanese operating-lessor platforms** ([[JapanFG/mitsubishi-hc-capital|Mitsubishi HC Capital]] aircraft division, [[JapanFG/smfl|SMFL]] aircraft, [[JapanFG/mizuho-lease|Mizuho Leasing]], [[JapanFG/tokyo-century|Tokyo Century]] via stake in ACG/Aviation Capital Group) holding aircraft on balance sheet and leasing to global airlines, and (2) **Japanese Operating Lease (JOL) / JOL with Call Option (JOLCO)** structures where Japanese investor groups arrange tax-efficient ownership of single aircraft, leasing them back to airlines through cross-border [[structured-finance/spv-tk-gk-vehicle-japan-tax|TK / GK SPV]] vehicles. The JOL / JOLCO market is heavily anchored in cross-border tax structures involving SPVs in Hong Kong, Ireland (Dublin), Bermuda, and the Cayman Islands, optimising for withholding-tax efficiency, residual-value depreciation, and (for JOLCO) early termination call options for the airline. The sōgō shōsha role spans equity sponsorship, lease arranging (especially Sumitomo Corporation and Mitsui), and aircraft trading — historically Mitsubishi Corporation has had a smaller direct aircraft footprint, with [[JapanFG/sumitomo-corp|Sumitomo Corp]] and [[JapanFG/mitsui-co|Mitsui]] more visible.
+Japanese aircraft leasing has two intertwined channels: (1) **Japanese operating-lessor platforms** ([[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]] aircraft division, [[leasing-firms/smfl|SMFL]] aircraft, [[leasing-firms/mizuho-lease|Mizuho Leasing]], [[leasing-firms/tokyo-century|Tokyo Century]] via stake in ACG/Aviation Capital Group) holding aircraft on balance sheet and leasing to global airlines, and (2) **Japanese Operating Lease (JOL) / JOL with Call Option (JOLCO)** structures where Japanese investor groups arrange tax-efficient ownership of single aircraft, leasing them back to airlines through cross-border [[structured-finance/spv-tk-gk-vehicle-japan-tax|TK / GK SPV]] vehicles. The JOL / JOLCO market is heavily anchored in cross-border tax structures involving SPVs in Hong Kong, Ireland (Dublin), Bermuda, and the Cayman Islands, optimising for withholding-tax efficiency, residual-value depreciation, and (for JOLCO) early termination call options for the airline. The sōgō shōsha role spans equity sponsorship, lease arranging (especially Sumitomo Corporation and Mitsui), and aircraft trading — historically Mitsubishi Corporation has had a smaller direct aircraft footprint, with [[financial-conglomerates/sumitomo-corp|Sumitomo Corp]] and [[financial-conglomerates/mitsui-co|Mitsui]] more visible.
 
 ## Wiki route
 
@@ -47,14 +47,14 @@ Japan is structurally important in three ways: as a **lessor jurisdiction** (ope
 
 | Platform | Parent / partner | Position |
 |---|---|---|
-| [[JapanFG/mitsubishi-hc-capital|Mitsubishi HC Capital]] — Jackson Square Aviation / aircraft division | Mitsubishi HC Capital | Top-10 global lessor by fleet |
-| **SMBC Aviation Capital** | [[JapanFG/smfg|SMFG / SMBC]] + Sumitomo Corporation JV (originally founded 2012 from RBS Aviation Capital acquisition) | Top-5 global lessor |
-| [[JapanFG/smfl|SMFL]] aircraft division | SMFL (joint venture of [[JapanFG/smfg|SMFG]] + [[JapanFG/sumitomo-corp|Sumitomo Corp]]) | Aircraft + JOL distribution channel |
-| [[JapanFG/mizuho-lease|Mizuho Leasing]] aircraft division | Mizuho Leasing | Aircraft + JOL arranger |
-| **Aviation Capital Group (ACG)** | [[JapanFG/tokyo-century|Tokyo Century]] (major stake) | Top-10 global lessor |
-| **Orix Aviation** | [[JapanFG/orix-corp|ORIX]] | Operating lessor + JOL arranger |
+| [[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]] — Jackson Square Aviation / aircraft division | Mitsubishi HC Capital | Top-10 global lessor by fleet |
+| **SMBC Aviation Capital** | [[megabanks/smfg|SMFG / SMBC]] + Sumitomo Corporation JV (originally founded 2012 from RBS Aviation Capital acquisition) | Top-5 global lessor |
+| [[leasing-firms/smfl|SMFL]] aircraft division | SMFL (joint venture of [[megabanks/smfg|SMFG]] + [[financial-conglomerates/sumitomo-corp|Sumitomo Corp]]) | Aircraft + JOL distribution channel |
+| [[leasing-firms/mizuho-lease|Mizuho Leasing]] aircraft division | Mizuho Leasing | Aircraft + JOL arranger |
+| **Aviation Capital Group (ACG)** | [[leasing-firms/tokyo-century|Tokyo Century]] (major stake) | Top-10 global lessor |
+| **Orix Aviation** | [[leasing-firms/orix-corp|ORIX]] | Operating lessor + JOL arranger |
 
-The **SMBC Aviation Capital** entity is one of the most globally important Japan-linked aircraft platforms — it operates as a Dublin-headquartered lessor with a global airline customer base, owned by [[JapanFG/smfg|SMBC]] and [[JapanFG/sumitomo-corp|Sumitomo Corp]] in a joint structure.
+The **SMBC Aviation Capital** entity is one of the most globally important Japan-linked aircraft platforms — it operates as a Dublin-headquartered lessor with a global airline customer base, owned by [[megabanks/smfg|SMBC]] and [[financial-conglomerates/sumitomo-corp|Sumitomo Corp]] in a joint structure.
 
 ## 3. JOL / JOLCO — the tax-structured ownership market
 
@@ -128,12 +128,12 @@ For **withholding-tax efficiency**, the SPV must be in a jurisdiction with a fav
 ## 5. Sōgō shōsha role
 
 The sōgō shōsha are involved in aircraft via:
-- **JV equity in operating lessors**: [[JapanFG/sumitomo-corp|Sumitomo Corp]] in SMBC Aviation Capital; [[JapanFG/mitsui-co|Mitsui]] in past aircraft platforms (Mitsui Bussan Aerospace, etc.); [[JapanFG/marubeni-corp|Marubeni]] in past aircraft arrangements
+- **JV equity in operating lessors**: [[financial-conglomerates/sumitomo-corp|Sumitomo Corp]] in SMBC Aviation Capital; [[financial-conglomerates/mitsui-co|Mitsui]] in past aircraft platforms (Mitsui Bussan Aerospace, etc.); [[financial-conglomerates/marubeni-corp|Marubeni]] in past aircraft arrangements
 - **JOL arranging**: distributing equity tickets to Japanese corporate investors
 - **Aircraft trading**: secondary-market trading of aircraft, parts, engines
 - **Aviation services**: maintenance, MRO joint ventures
 
-[[JapanFG/mitsubishi-corp|Mitsubishi Corporation]] has historically had a smaller direct aircraft-trading footprint than Sumitomo Corp or Mitsui in this specific segment.
+[[financial-conglomerates/mitsubishi-corp|Mitsubishi Corporation]] has historically had a smaller direct aircraft-trading footprint than Sumitomo Corp or Mitsui in this specific segment.
 
 ## 6. Aircraft aviation captives
 
@@ -141,11 +141,11 @@ Some Japanese corporates and conglomerates have established **aviation captive i
 
 ## 7. Megabank role
 
-[[JapanFG/mufg|MUFG]], [[JapanFG/smfg|SMFG]], and [[JapanFG/mizuho-fg|Mizuho FG]] play several roles:
+[[megabanks/mufg|MUFG]], [[megabanks/smfg|SMFG]], and [[megabanks/mizuho-fg|Mizuho FG]] play several roles:
 - **Senior debt** to JOL / JOLCO SPVs (often 60–80% of aircraft cost, 8–12 year tenor matching lease)
 - **Pre-delivery financing (PDP)** to airlines and lessors during aircraft-manufacture period
 - **Acquisition financing** for lessor M&A (e.g., SMBC's RBS Aviation Capital acquisition)
-- **Securities underwriting**: leasing-company corporate-bond issuance via [[JapanFG/mufg-securities|MUFG MS]] / [[JapanFG/smbc-nikko|SMBC Nikko]] / [[JapanFG/mizuho-securities|Mizuho Securities]]
+- **Securities underwriting**: leasing-company corporate-bond issuance via [[securities-firms/mufg-securities|MUFG MS]] / [[securities-firms/smbc-nikko|SMBC Nikko]] / [[securities-firms/mizuho-securities|Mizuho Securities]]
 
 The megabanks are aircraft-financing market leaders by both balance-sheet exposure and league-table rankings in international aviation finance.
 
@@ -172,9 +172,9 @@ Japanese-linked aircraft lessors and JOL / JOLCO equity investors faced losses, 
 - The pace of recovery in JOL / JOLCO new-deal flow post-COVID
 - Whether Japanese tax-rule tightening reduces JOLCO attractiveness for Japanese corporate investors
 - The future of SMBC Aviation Capital's growth trajectory and any further consolidation activity
-- Whether [[JapanFG/mitsubishi-hc-capital|Mitsubishi HC Capital]] expands further in aviation
+- Whether [[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]] expands further in aviation
 - The interaction between aircraft-leasing structures and sustainability-linked finance (SAF, fleet renewal financing)
-- The treatment of aviation-finance loans under [[JapanFG/boj|BOJ]] rate normalisation
+- The treatment of aviation-finance loans under [[financial-regulators/boj|BOJ]] rate normalisation
 - Whether China-based aircraft lessors continue gaining share at expense of Japanese / Western platforms
 
 ## Related
@@ -187,9 +187,9 @@ Japanese-linked aircraft lessors and JOL / JOLCO equity investors faced losses, 
 - [[finance/INDEX|finance index]]
 - [[policy-finance/japan-project-finance-stack-diagram|Japan project finance stack]]
 - [[real-estate-finance/INDEX|real-estate-finance index]]
-- [[JapanFG/mitsubishi-hc-capital|Mitsubishi HC Capital]] · [[JapanFG/smfl|SMFL]] · [[JapanFG/mizuho-lease|Mizuho Leasing]] · [[JapanFG/tokyo-century|Tokyo Century]] · [[JapanFG/orix-corp|ORIX]]
-- [[JapanFG/mitsubishi-corp|Mitsubishi Corp]] · [[JapanFG/mitsui-co|Mitsui & Co.]] · [[JapanFG/sumitomo-corp|Sumitomo Corp]]
-- [[JapanFG/mufg|MUFG]] · [[JapanFG/smfg|SMFG]] · [[JapanFG/mizuho-fg|Mizuho FG]] · [[JapanFG/japan-exchange-group|JPX]]
+- [[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]] · [[leasing-firms/smfl|SMFL]] · [[leasing-firms/mizuho-lease|Mizuho Leasing]] · [[leasing-firms/tokyo-century|Tokyo Century]] · [[leasing-firms/orix-corp|ORIX]]
+- [[financial-conglomerates/mitsubishi-corp|Mitsubishi Corp]] · [[financial-conglomerates/mitsui-co|Mitsui & Co.]] · [[financial-conglomerates/sumitomo-corp|Sumitomo Corp]]
+- [[megabanks/mufg|MUFG]] · [[megabanks/smfg|SMFG]] · [[megabanks/mizuho-fg|Mizuho FG]] · [[financial-regulators/japan-exchange-group|JPX]]
 
 ## Sources
 

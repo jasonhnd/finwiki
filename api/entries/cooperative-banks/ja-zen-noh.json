@@ -1,0 +1,94 @@
+{
+  "schema_version": "1.0",
+  "slug": "cooperative-banks/ja-zen-noh",
+  "source_path": "cooperative-banks/ja-zen-noh.md",
+  "url": "https://finwiki.zksc.io/cooperative-banks/ja-zen-noh",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/cooperative-banks/ja-zen-noh.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/cooperative-banks/ja-zen-noh.md",
+  "domain": "cooperative-banks",
+  "title": "JA 全農 (全国農業協同組合連合会 / National Federation of Agricultural Cooperative Associations)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "JA 全農 (全国農業協同組合連合会 / National Federation of Agricultural Cooperative Associations)",
+    "aliases": [
+      "JA-Zen-Noh",
+      "JA全農",
+      "全農",
+      "全国農業協同組合連合会",
+      "Zen-Noh",
+      "Zennoh",
+      "JA Zen-Noh",
+      "National Federation of Agricultural Cooperative Associations"
+    ],
+    "domain": "cooperative-banks",
+    "created": "2026-05-24",
+    "last_updated": "2026-05-24",
+    "last_tended": "2026-05-24",
+    "review_by": "2026-11-20",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "cooperative-central",
+      "ja-group",
+      "economic-business",
+      "agricultural-finance"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.zennoh.or.jp/",
+      "https://www.zennoh.or.jp/about/",
+      "https://www.zennoh.or.jp/about/financial/",
+      "https://www.zennoh.or.jp/about/financial/statement/r6-7.html",
+      "https://www.jacom.or.jp/noukyo/news/2025/07/250722-83404.php",
+      "https://org.ja-group.jp/factbook/",
+      "https://org.ja-group.jp/pdf/jafactbook/jafactbook_2026.pdf",
+      "農業協同組合法 (昭和 22 年法律第 132 号)"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index as the JA Group economic-business federation, parallel to 農林中央金庫 (信用) / JA 共済連 (共済) / JA 全中 (代表). Read with JA Bank system for the credit-side adjacency and cooperative banking domain for the system boundary.",
+  "headings": [
+    "JA 全農 (全国農業協同組合連合会 / National Federation of Agricultural Cooperative Associations)",
+    "Wiki route",
+    "TL;DR",
+    "1. 組織構造",
+    "統合史 ^[extracted]",
+    "金融補完関係",
+    "自己改革と外圧",
+    "海外展開",
+    "競合構造",
+    "4. 監督・規制"
+  ],
+  "body_links": {
+    "wikilinks_count": 9,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "banking/cooperative-banking-japan",
+      "banking/ja-bank-system-japan",
+      "cooperative-banks/ja-mitsui-leasing",
+      "cooperative-banks/ja-shinnoren",
+      "cooperative-banks/ja-zenchu",
+      "cooperative-banks/jf-zengyoren",
+      "cooperative-banks/norinchukin",
+      "non-life-insurers/ja-kyosairen"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/banking/cooperative-banking-japan",
+      "https://finwiki.zksc.io/banking/ja-bank-system-japan",
+      "https://finwiki.zksc.io/cooperative-banks/ja-mitsui-leasing",
+      "https://finwiki.zksc.io/cooperative-banks/ja-shinnoren",
+      "https://finwiki.zksc.io/cooperative-banks/ja-zenchu",
+      "https://finwiki.zksc.io/cooperative-banks/jf-zengyoren",
+      "https://finwiki.zksc.io/cooperative-banks/norinchukin",
+      "https://finwiki.zksc.io/non-life-insurers/ja-kyosairen"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 4553,
+    "word_like_tokens": 731,
+    "inbound_wikilinks_count": 10,
+    "last_modified": "2026-06-04"
+  }
+}

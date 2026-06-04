@@ -67,12 +67,6 @@
     "wikilinks_count": 20,
     "wikilinks": [
       "INDEX",
-      "JapanFG/au-fh",
-      "JapanFG/au-payment",
-      "JapanFG/ndfg",
-      "JapanFG/paypay",
-      "JapanFG/paypay-fg",
-      "JapanFG/rakuten-fg",
       "loyalty/INDEX",
       "loyalty/d-point-au-kddi-docomo-telco-point-consolidation",
       "loyalty/japan-points-landscape",
@@ -81,6 +75,12 @@
       "loyalty/sb-yahoo-paypay-points-unified-ecosystem",
       "loyalty/t-point-v-point-post-2024-merger",
       "loyalty/v-point-smbc-ccc-case",
+      "megabanks/au-fh",
+      "megabanks/ndfg",
+      "megabanks/paypay-fg",
+      "payment-firms/au-payment",
+      "payment-firms/paypay",
+      "payment-firms/rakuten-fg",
       "payments/funds-transfer-vs-prepaid-boundary",
       "payments/japan-code-payment-competitive-map",
       "payments/japan-code-payment-operator-2025-market-share-matrix",
@@ -89,12 +89,6 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/au-fh",
-      "https://finwiki.zksc.io/JapanFG/au-payment",
-      "https://finwiki.zksc.io/JapanFG/ndfg",
-      "https://finwiki.zksc.io/JapanFG/paypay",
-      "https://finwiki.zksc.io/JapanFG/paypay-fg",
-      "https://finwiki.zksc.io/JapanFG/rakuten-fg",
       "https://finwiki.zksc.io/loyalty/INDEX",
       "https://finwiki.zksc.io/loyalty/d-point-au-kddi-docomo-telco-point-consolidation",
       "https://finwiki.zksc.io/loyalty/japan-points-landscape",
@@ -103,6 +97,12 @@
       "https://finwiki.zksc.io/loyalty/sb-yahoo-paypay-points-unified-ecosystem",
       "https://finwiki.zksc.io/loyalty/t-point-v-point-post-2024-merger",
       "https://finwiki.zksc.io/loyalty/v-point-smbc-ccc-case",
+      "https://finwiki.zksc.io/megabanks/au-fh",
+      "https://finwiki.zksc.io/megabanks/ndfg",
+      "https://finwiki.zksc.io/megabanks/paypay-fg",
+      "https://finwiki.zksc.io/payment-firms/au-payment",
+      "https://finwiki.zksc.io/payment-firms/paypay",
+      "https://finwiki.zksc.io/payment-firms/rakuten-fg",
       "https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary",
       "https://finwiki.zksc.io/payments/japan-code-payment-competitive-map",
       "https://finwiki.zksc.io/payments/japan-code-payment-operator-2025-market-share-matrix",
@@ -113,9 +113,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 13479,
-    "word_like_tokens": 2314,
+    "nonspace_chars": 13513,
+    "word_like_tokens": 2318,
     "inbound_wikilinks_count": 17,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-04"
   }
 }

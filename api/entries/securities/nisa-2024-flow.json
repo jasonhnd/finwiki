@@ -53,30 +53,30 @@
     "wikilinks_count": 13,
     "wikilinks": [
       "INDEX",
-      "JapanFG/daiwa-sg",
-      "JapanFG/jsda",
-      "JapanFG/legal-financial-licenses/INDEX",
-      "JapanFG/mizuho-securities",
-      "JapanFG/mufg-mums",
-      "JapanFG/nomura-hd",
-      "JapanFG/rakuten-securities",
-      "JapanFG/smbc-nikko",
+      "financial-licenses/INDEX",
+      "financial-regulators/jsda",
       "loyalty/japan-points-landscape",
+      "securities-firms/daiwa-sg",
+      "securities-firms/mizuho-securities",
+      "securities-firms/mufg-mums",
+      "securities-firms/nomura-hd",
+      "securities-firms/rakuten-securities",
+      "securities-firms/smbc-nikko",
       "securities/INDEX",
       "securities/financial-instruments-business-operators-japan-index",
       "securities/japan-securities-clearing-corp"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/daiwa-sg",
-      "https://finwiki.zksc.io/JapanFG/jsda",
-      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX",
-      "https://finwiki.zksc.io/JapanFG/mizuho-securities",
-      "https://finwiki.zksc.io/JapanFG/mufg-mums",
-      "https://finwiki.zksc.io/JapanFG/nomura-hd",
-      "https://finwiki.zksc.io/JapanFG/rakuten-securities",
-      "https://finwiki.zksc.io/JapanFG/smbc-nikko",
+      "https://finwiki.zksc.io/financial-licenses/INDEX",
+      "https://finwiki.zksc.io/financial-regulators/jsda",
       "https://finwiki.zksc.io/loyalty/japan-points-landscape",
+      "https://finwiki.zksc.io/securities-firms/daiwa-sg",
+      "https://finwiki.zksc.io/securities-firms/mizuho-securities",
+      "https://finwiki.zksc.io/securities-firms/mufg-mums",
+      "https://finwiki.zksc.io/securities-firms/nomura-hd",
+      "https://finwiki.zksc.io/securities-firms/rakuten-securities",
+      "https://finwiki.zksc.io/securities-firms/smbc-nikko",
       "https://finwiki.zksc.io/securities/INDEX",
       "https://finwiki.zksc.io/securities/financial-instruments-business-operators-japan-index",
       "https://finwiki.zksc.io/securities/japan-securities-clearing-corp"
@@ -85,9 +85,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3638,
-    "word_like_tokens": 568,
+    "nonspace_chars": 3794,
+    "word_like_tokens": 584,
     "inbound_wikilinks_count": 29,
-    "last_modified": "2026-05-21"
+    "last_modified": "2026-06-04"
   }
 }

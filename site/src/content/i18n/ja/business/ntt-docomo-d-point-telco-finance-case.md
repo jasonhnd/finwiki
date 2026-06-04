@@ -12,13 +12,13 @@ translated_at: 2026-06-02T11:47:37.266Z
 
 ## ウィキ上の位置づけ
 
-本項目は [[business/INDEX|business INDEX]] の下に、公開企業の戦略的事例として位置づけられる。逆方向のクロスサブシディのパターン(金融がモバイルを補助 vs 通信会社が金融を補助)については [[business/rakuten-group-mobile-finance-bundling-case|Rakuten Group mobile-finance bundling case]]、インターネットから金融へのコングロマリットの対比については [[business/gmo-internet-group|GMO Internet Group]]、ソフトバンク側の並行事例については [[JapanFG/paypay-fg|PayPay FG]] と対照して読むこと。[[JapanFG/INDEX|JapanFG INDEX]] および [[payments/cashless-jp-landscape|payments INDEX]] と併せること。
+本項目は [[business/INDEX|business INDEX]] の下に、公開企業の戦略的事例として位置づけられる。逆方向のクロスサブシディのパターン(金融がモバイルを補助 vs 通信会社が金融を補助)については [[business/rakuten-group-mobile-finance-bundling-case|Rakuten Group mobile-finance bundling case]]、インターネットから金融へのコングロマリットの対比については [[business/gmo-internet-group|GMO Internet Group]]、ソフトバンク側の並行事例については [[megabanks/paypay-fg|PayPay FG]] と対照して読むこと。[[JapanFG/INDEX|JapanFG INDEX]] および [[payments/cashless-jp-landscape|payments INDEX]] と併せること。
 
 ## 要約
 
 NTT ドコモ(2020  の TOB 後に完全に NTT 株式会社の 9432,  完全子会社)は、**d ポイント / d カード / d 払い**の金融サービススタックを、**そのモバイル加入者基盤(全国で ~85百万 d ポイント会員)に金融商品を届ける販売チャネル**として運営している。2024  の SMBC 戦略提携 — これにより SMBC がドコモの金融子会社の持分に数十億規模で出資する — は、逆・楽天パターンを公式化した:通信会社が販売 + 加入者データを提供し、メガバンクがバランスシート + 商品の専門知識 + 規制のノウハウを提供する。
 
-アーキテクチャ上のインサイト:通信会社の内部に完全な FG を構築する(楽天の経路)のではなく、ドコモはモバイル契約を顧客獲得層と位置づけ、規制対象のバランスシート層については [[JapanFG/smfg|SMFG]] / SMBC と提携する。これは**通信会社をチャネルとし、銀行をバランスシートとする**分業であって、垂直統合ではない。
+アーキテクチャ上のインサイト:通信会社の内部に完全な FG を構築する(楽天の経路)のではなく、ドコモはモバイル契約を顧客獲得層と位置づけ、規制対象のバランスシート層については [[megabanks/smfg|SMFG]] / SMBC と提携する。これは**通信会社をチャネルとし、銀行をバランスシートとする**分業であって、垂直統合ではない。
 
 ## 1. 提携前のドコモ金融スタック
 
@@ -34,7 +34,7 @@ NTT ドコモ(2020  の TOB 後に完全に NTT 株式会社の 9432,  完全子
 
 ## 2. 2024  の SMBC 戦略提携
 
-2024,  に、ドコモと [[JapanFG/smfg|SMFG]](SMBC 経由)は戦略的アライアンスを発表し、これにより SMBC がドコモの金融子会社 / 商品ラインに経済的利益を取得した。これには d カード関連主体への計画的投資および統合された販売契約が含まれる。
+2024,  に、ドコモと [[megabanks/smfg|SMFG]](SMBC 経由)は戦略的アライアンスを発表し、これにより SMBC がドコモの金融子会社 / 商品ラインに経済的利益を取得した。これには d カード関連主体への計画的投資および統合された販売契約が含まれる。
 
 主な特徴:
 
@@ -67,8 +67,8 @@ NTT ドコモ(2020  の TOB 後に完全に NTT 株式会社の 9432,  完全子
 |---|---|---|---|---|
 | **NTT ドコモ** | ドコモ(NTT 9432) | d ポイント / d 払い / d カード | 通信 → 金融 | SMBC(2024  提携) |
 | **KDDI / au** | au(KDDI 9433) | au PAY / au じぶん銀行 / au 保険 | 通信 → 金融 | MUFG(au じぶん銀行 JV) |
-| **ソフトバンク** | ソフトバンク(9434) | [[JapanFG/paypay-fg|PayPay FG]]、PayPay 銀行、PayPay カード | 通信 → 金融 | (内部 PayPay FG) |
-| **楽天** | [[JapanFG/rakuten-fg|Rakuten Mobile]] | カード / 銀行 / 証券 / 保険 | 金融 → 通信(逆方向) — [[business/rakuten-group-mobile-finance-bundling-case|Rakuten case]] 参照 | みずほ(証券の一部売却 2023) |
+| **ソフトバンク** | ソフトバンク(9434) | [[megabanks/paypay-fg|PayPay FG]]、PayPay 銀行、PayPay カード | 通信 → 金融 | (内部 PayPay FG) |
+| **楽天** | [[payment-firms/rakuten-fg|Rakuten Mobile]] | カード / 銀行 / 証券 / 保険 | 金融 → 通信(逆方向) — [[business/rakuten-group-mobile-finance-bundling-case|Rakuten case]] 参照 | みずほ(証券の一部売却 2023) |
 | **GMO インターネット** | (モバイルなし) | [[business/gmo-internet-group|GMO Internet Group]] 決済 / 銀行 / FX / 暗号資産 | インターネットインフラ → 金融 | あおぞら(ネット銀行 JV) |
 
 ドコモの特徴:最大の通信加入者基盤、銀行提携を完全に公式化したのが最も遅い、そして銀行層について明示的に**構築主導ではなくパートナー主導**で進む唯一の例である。
@@ -86,7 +86,7 @@ NTT ドコモ(2020  の TOB 後に完全に NTT 株式会社の 9432,  完全子
 
 - 80百万人超のドコモ加入者の販売へのアクセス
 - ますますキャッシュレス化する経済におけるクレジットカード取引量の成長
-- 楽天カード / [[JapanFG/paypay-card|PayPay Card]] / au PAY に対する防御的なポジショニング
+- 楽天カード / [[card-issuers/paypay-card|PayPay Card]] / au PAY に対する防御的なポジショニング
 - デジタルチャネルが優勢になる中での、メガバンク直接販売の減退に対するヘッジ
 
 **NTT 株式会社(親会社)**にとって:
@@ -102,7 +102,7 @@ NTT ドコモ(2020  の TOB 後に完全に NTT 株式会社の 9432,  完全子
 | 営業利益の源泉 | 通信加入者基盤 | カード / 銀行 / 証券 |
 | 補助 / 設備投資の向け先 | 金融商品の販売 | モバイルネットワークの構築 |
 | 銀行バランスシート | パートナー(SMBC) | 自社所有([[JapanFG/rakuten-bank|Rakuten Bank]]) |
-| 証券 | パートナー(限定的な構築) | 自社所有([[JapanFG/rakuten-securities|Rakuten Securities]]、一部をみずほに売却) |
+| 証券 | パートナー(限定的な構築) | 自社所有([[securities-firms/rakuten-securities|Rakuten Securities]]、一部をみずほに売却) |
 | 設備投資プロファイル | 軽い(金融のためのネットワーク構築なし) | 重い(モバイルネットワーク) |
 | コングロマリットディスカウントのリスク | 低 | 高 |
 | クロスサブシディ破綻のリスク | なし(赤字子会社なし) | 高(モバイルの損失が継続) |
@@ -132,10 +132,10 @@ NTT ドコモ(2020  の TOB 後に完全に NTT 株式会社の 9432,  完全子
 - [[business/gmo-internet-group|GMO Internet Group]]
 - [[business/sony-fg-partial-spinoff-case|Sony FG partial spinoff case]]
 - [[business/kitao-yoshitaka-sbi-independent-strategy-case|Kitao Yoshitaka SBI independent strategy]]
-- [[JapanFG/smfg|SMFG]]
-- [[JapanFG/paypay-fg|PayPay FG]]
-- [[JapanFG/mufg|MUFG]]
-- [[JapanFG/rakuten-fg|Rakuten FG]]
+- [[megabanks/smfg|SMFG]]
+- [[megabanks/paypay-fg|PayPay FG]]
+- [[megabanks/mufg|MUFG]]
+- [[payment-firms/rakuten-fg|Rakuten FG]]
 - [[payments/cashless-jp-landscape|Japan cashless payment landscape]]
 - [[fintech/ai-payment-two-tracks|AI payment two tracks]]
 - [[corporate-strategy/partial-spinoff-tax-deferral|partial spinoff tax deferral]]

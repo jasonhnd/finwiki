@@ -12,11 +12,11 @@ translated_at: 2026-05-30T15:31:43.922Z
 
 ## Wiki route
 
-This entry sits under [[corporate-strategy/INDEX|corporate-strategy index]] and [[INDEX|FinWiki index]]. Read it with [[corporate-strategy/japan-kaisha-bunkatsu-tax-regime|会社分割 tax regime]] for the legal-plumbing peer, [[JapanFG/sony-fg|Sony FG]] as the main public transaction example, and [[finance/INDEX|finance index]] for adjacent capital-markets context.
+This entry sits under [[corporate-strategy/INDEX|corporate-strategy index]] and [[INDEX|FinWiki index]]. Read it with [[corporate-strategy/japan-kaisha-bunkatsu-tax-regime|会社分割 tax regime]] for the legal-plumbing peer, [[megabanks/sony-fg|Sony FG]] as the main public transaction example, and [[finance/INDEX|finance index]] for adjacent capital-markets context.
 
 ## TL;DR
 
-The partial spin-off tax regime (パーシャルスピンオフ税制) is a system under which, even in a spin-off where the parent distributes subsidiary shares in kind to shareholders while retaining a portion of the subsidiary's shares, the transfer gains/losses tax at reorganization and the deemed-dividend tax for shareholders are deferred or excluded if certain requirements are met. In Japan it was created in the 2023年 fiscal-year tax reform, and the 2024年 fiscal-year tax reform revised the requirements and extended the application deadline. The re-listing / separation of [[JapanFG/sony-fg|sony-fg]] is the leading domestic example.
+The partial spin-off tax regime (パーシャルスピンオフ税制) is a system under which, even in a spin-off where the parent distributes subsidiary shares in kind to shareholders while retaining a portion of the subsidiary's shares, the transfer gains/losses tax at reorganization and the deemed-dividend tax for shareholders are deferred or excluded if certain requirements are met. In Japan it was created in the 2023年 fiscal-year tax reform, and the 2024年 fiscal-year tax reform revised the requirements and extended the application deadline. The re-listing / separation of [[megabanks/sony-fg|sony-fg]] is the leading domestic example.
 
 ## 1. Regime Structure
 
@@ -62,7 +62,7 @@ METI announced on 2024-02-14 that it had certified Sony Group's business-reorgan
 
 ## Related
 
-- [[JapanFG/sony-fg|sony-fg]]
+- [[megabanks/sony-fg|sony-fg]]
 - [[finance/cross-border-m-a-japan|cross-border M&A Japan]]
 - [[JapanFG/INDEX|JapanFG INDEX]]
 - [[INDEX|FinWiki index]]

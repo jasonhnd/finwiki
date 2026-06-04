@@ -31,9 +31,9 @@ Use [[insurance/economic-value-based-solvency|economic value-based solvency regu
 
 ## JapanFG Relevance
 
-- [[JapanFG/dai-ichi-life]]: disclosed capital adequacy and governance changes around group regulatory ESR are directly relevant to listed equity valuation.
-- [[JapanFG/nippon-life]]: Nissay uses economic-value solvency / ESR in performance materials; because it is a mutual insurer, the investor question is capital allocation and policyholder return rather than share buyback alone.
-- [[JapanFG/tokio-marine]], [[JapanFG/msad]], [[JapanFG/sompo]]: non-life ESR should be read together with catastrophe risk, reinsurance pricing, overseas specialty exposure, and policyholder protection.
+- [[life-insurers/dai-ichi-life]]: disclosed capital adequacy and governance changes around group regulatory ESR are directly relevant to listed equity valuation.
+- [[life-insurers/nippon-life]]: Nissay uses economic-value solvency / ESR in performance materials; because it is a mutual insurer, the investor question is capital allocation and policyholder return rather than share buyback alone.
+- [[non-life-insurers/tokio-marine]], [[non-life-insurers/msad]], [[non-life-insurers/sompo]]: non-life ESR should be read together with catastrophe risk, reinsurance pricing, overseas specialty exposure, and policyholder protection.
 
 ## Analytical Uses
 
@@ -53,9 +53,9 @@ Use [[insurance/economic-value-based-solvency|economic value-based solvency regu
 - [[insurance/INDEX|insurance INDEX]]
 - [[insurance/economic-value-based-solvency]]
 - [[insurance/natcat-reinsurance-japan]]
-- [[JapanFG/dai-ichi-life]]
-- [[JapanFG/nippon-life]]
-- [[JapanFG/legal-financial-licenses/INDEX]]
+- [[life-insurers/dai-ichi-life]]
+- [[life-insurers/nippon-life]]
+- [[financial-licenses/INDEX]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

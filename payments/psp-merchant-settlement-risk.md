@@ -25,7 +25,7 @@ sources:
 
 Merchant PSP risk is the risk that sits between checkout success and final money movement: merchant onboarding, card-number handling, fraud monitoring, chargebacks, reserves, settlement timing, refunds, and platform or wallet failures. In Japan, the analysis must combine METI's card-number handling / merchant-contracting route, FSA funds-transfer registration, prepaid value rules, and payment-brand / network contracts.
 
-Read this page with [[payments/card-acquiring-japan-stack|Japan card acquiring stack]], [[payments/funds-transfer-service-providers-japan-index|funds-transfer registry]], and [[payments/japan-code-payment-competitive-map|code-payment competitive map]]. Company pages such as [[JapanFG/gmo-payment-gateway|GMO-PG]], [[JapanFG/sb-payment-service|SBPS]], [[JapanFG/dg-financial-technology|DGFT]], and [[JapanFG/netstars|Netstars]] links here when merchant risk is the real topic.
+Read this page with [[payments/card-acquiring-japan-stack|Japan card acquiring stack]], [[payments/funds-transfer-service-providers-japan-index|funds-transfer registry]], and [[payments/japan-code-payment-competitive-map|code-payment competitive map]]. Company pages such as [[payment-firms/gmo-payment-gateway|GMO-PG]], [[payment-firms/sb-payment-service|SBPS]], [[payment-firms/dg-financial-technology|DGFT]], and [[payment-firms/netstars|Netstars]] links here when merchant risk is the real topic.
 
 ## Risk Stack
 
@@ -53,11 +53,11 @@ Read this page with [[payments/card-acquiring-japan-stack|Japan card acquiring s
 
 | Operator type | Examples | Main question |
 |---|---|---|
-| Listed card / PSP infrastructure | [[JapanFG/gmo-payment-gateway|GMO-PG]] | How much risk sits on gateway services, merchant settlement, lending, or value-added tools? |
-| Telecom / group PSP | [[JapanFG/sb-payment-service|SBPS]] | How does PayPay / SoftBank distribution affect merchant acquisition and risk controls? |
-| Legacy / enterprise PSP | [[JapanFG/dg-financial-technology|DGFT]] | How does enterprise merchant quality change chargeback and settlement exposure? |
-| QR gateway | [[JapanFG/netstars|Netstars]] | How are multiple code-payment brands reconciled and controlled at the merchant edge? |
-| Wallet / funds-transfer operator | [[JapanFG/paypay|PayPay]], [[JapanFG/merpay|Merpay]], [[JapanFG/recruit-mufg-business|Recruit MUFG Business]] | Does the operator hold balance / transfer / payment risk, or only route acceptance? |
+| Listed card / PSP infrastructure | [[payment-firms/gmo-payment-gateway|GMO-PG]] | How much risk sits on gateway services, merchant settlement, lending, or value-added tools? |
+| Telecom / group PSP | [[payment-firms/sb-payment-service|SBPS]] | How does PayPay / SoftBank distribution affect merchant acquisition and risk controls? |
+| Legacy / enterprise PSP | [[payment-firms/dg-financial-technology|DGFT]] | How does enterprise merchant quality change chargeback and settlement exposure? |
+| QR gateway | [[payment-firms/netstars|Netstars]] | How are multiple code-payment brands reconciled and controlled at the merchant edge? |
+| Wallet / funds-transfer operator | [[payment-firms/paypay|PayPay]], [[payment-firms/merpay|Merpay]], [[payment-firms/recruit-mufg-business|Recruit MUFG Business]] | Does the operator hold balance / transfer / payment risk, or only route acceptance? |
 
 ## Practical Reading Rules
 
@@ -74,8 +74,8 @@ Read this page with [[payments/card-acquiring-japan-stack|Japan card acquiring s
 - [[payments/funds-transfer-service-providers-japan-index]]
 - [[payments/prepaid-payment-instrument-issuers-japan-index]]
 - [[payments/japan-code-payment-competitive-map]]
-- [[JapanFG/netstars]]
-- [[JapanFG/gmo-payment-gateway]]
+- [[payment-firms/netstars]]
+- [[payment-firms/gmo-payment-gateway]]
 
 ## Sources
 

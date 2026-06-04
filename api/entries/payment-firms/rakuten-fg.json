@@ -1,0 +1,91 @@
+{
+  "schema_version": "1.0",
+  "slug": "payment-firms/rakuten-fg",
+  "source_path": "payment-firms/rakuten-fg.md",
+  "url": "https://finwiki.zksc.io/payment-firms/rakuten-fg",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/payment-firms/rakuten-fg.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/payment-firms/rakuten-fg.md",
+  "domain": "payment-firms",
+  "title": "楽天グループ金融事業 (Rakuten FG)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "楽天グループ金融事業 (Rakuten FG)",
+    "aliases": [
+      "Rakuten FG",
+      "楽天 FinTech",
+      "Rakuten FinTech",
+      "楽天金融",
+      "Rakuten Group Financial",
+      "payment-firms/rakuten-group",
+      "payments/rakuten-pay"
+    ],
+    "domain": "payment-firms",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "ec-fg",
+      "fintech"
+    ],
+    "status": "active",
+    "sources": [
+      "楽天グループ 2024年12月期 通期決算ハイライト (2025-02-14 公表)",
+      "楽天銀行 5838 2025年3月期 決算短信 (2025-05-12)",
+      "楽天銀行 預金 12 兆円突破プレスリリース (2025-01-07)",
+      "Wikipedia: 楽天グループ / 楽天銀行 / 楽天証券 / 楽天カード (2026-05-19 抽出)"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against GMO ペイメントゲートウェイ for peer / contrast context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system / regulatory boundary.",
+  "headings": [
+    "楽天グループ金融事業 (Rakuten FG)",
+    "Wiki route",
+    "TL;DR",
+    "1. 会社概要",
+    "グループ規模（直近公開ベース・連結）",
+    "主要子会社・関連（金融セグメント中心）",
+    "重要年表（金融セグメント中心・公開情報ベース）",
+    "2. 事業セグメント・マップ",
+    "「楽天経済圏」モデル",
+    "EC 軸の独自性（vs 通信系 / メガバンク系）"
+  ],
+  "body_links": {
+    "wikilinks_count": 11,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "banking/mercari-bank-license-stack",
+      "banking/minna-bank-baas-model",
+      "fintech/japan-stablecoin-regulatory-landscape",
+      "mizuho-fg",
+      "mufg",
+      "ndfg",
+      "payment-firms/gmo-payment-gateway",
+      "paypay-fg",
+      "sbi-hd",
+      "smfg"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/banking/mercari-bank-license-stack",
+      "https://finwiki.zksc.io/banking/minna-bank-baas-model",
+      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
+      "https://finwiki.zksc.io/mizuho-fg",
+      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/ndfg",
+      "https://finwiki.zksc.io/payment-firms/gmo-payment-gateway",
+      "https://finwiki.zksc.io/paypay-fg",
+      "https://finwiki.zksc.io/sbi-hd",
+      "https://finwiki.zksc.io/smfg"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 6178,
+    "word_like_tokens": 1214,
+    "inbound_wikilinks_count": 52,
+    "last_modified": "2026-06-04"
+  }
+}

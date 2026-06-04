@@ -6,7 +6,7 @@
 
 | Metric | Count |
 |---|---:|
-| Entries checked | 1466 |
+| Entries checked | 1473 |
 | Entries with any issue | 0 |
 | Dead wikilink references | 0 |
 | Unique dead wikilink targets | 0 |
@@ -46,37 +46,54 @@
 
 | Domain | Entries | Failing | Avg body links |
 |---|---:|---:|---:|
-| `JapanFG` | 643 | 0 | 16.6 |
+| `JapanFG` | 1 | 0 | 17.0 |
 | `agent-economy` | 41 | 0 | 13.5 |
+| `asset-managers` | 15 | 0 | 15.9 |
 | `banking` | 40 | 0 | 42.9 |
 | `business` | 25 | 0 | 20.0 |
+| `card-issuers` | 24 | 0 | 15.1 |
+| `consumer-finance` | 6 | 0 | 14.8 |
 | `control` | 1 | 0 | 207.0 |
 | `control-anchor` | 1 | 0 | 30.0 |
 | `control-bridge` | 1 | 0 | 116.0 |
 | `control-cluster` | 1 | 0 | 146.0 |
 | `control-mirror` | 1 | 0 | 25.0 |
 | `control-proposal` | 1 | 0 | 28.0 |
+| `cooperative-banks` | 46 | 0 | 13.2 |
 | `corporate-strategy` | 12 | 0 | 18.7 |
 | `derivatives` | 33 | 0 | 20.8 |
 | `exchanges` | 147 | 0 | 12.9 |
 | `finance` | 27 | 0 | 23.0 |
+| `financial-conglomerates` | 8 | 0 | 25.6 |
+| `financial-licenses` | 8 | 0 | 47.3 |
+| `financial-regulators` | 53 | 0 | 21.8 |
 | `fintech` | 144 | 0 | 10.9 |
-| `finwiki` | 1 | 0 | 29.0 |
+| `finwiki` | 1 | 0 | 46.0 |
+| `foreign-financial-institutions` | 58 | 0 | 12.2 |
 | `governance` | 1 | 0 | 19.0 |
 | `insurance` | 33 | 0 | 42.7 |
+| `leasing-firms` | 24 | 0 | 22.3 |
+| `life-insurers` | 47 | 0 | 10.0 |
 | `loyalty` | 18 | 0 | 22.6 |
 | `manufacturer-finance` | 14 | 0 | 17.4 |
+| `megabanks` | 20 | 0 | 15.3 |
 | `money-market` | 18 | 0 | 23.0 |
+| `non-life-insurers` | 57 | 0 | 12.4 |
 | `non-profit` | 6 | 0 | 8.5 |
+| `payment-firms` | 54 | 0 | 11.6 |
 | `payments` | 41 | 0 | 34.9 |
 | `policy-finance` | 35 | 0 | 27.1 |
 | `real-estate-finance` | 28 | 0 | 24.6 |
+| `regional-banks` | 136 | 0 | 12.3 |
 | `retail` | 11 | 0 | 23.1 |
 | `securities` | 33 | 0 | 32.1 |
+| `securities-firms` | 37 | 0 | 17.9 |
 | `security` | 10 | 0 | 9.9 |
 | `structured-finance` | 30 | 0 | 23.4 |
 | `systems` | 62 | 0 | 9.7 |
 | `trade` | 7 | 0 | 12.6 |
+| `trading-company-finance` | 8 | 0 | 28.3 |
+| `trust-banks` | 48 | 0 | 11.6 |
 
 ## canonical_anchor Integrity (drift-gated)
 

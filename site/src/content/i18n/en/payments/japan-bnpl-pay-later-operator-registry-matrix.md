@@ -21,23 +21,23 @@ The Consumer Affairs Agency also maintains warnings on pay-later cash-conversion
 
 ### Net Protections HD and NP Postpay
 
-[[JapanFG/net-protections-hd|Net Protections HD]] operates NP Postpay, one of Japan's earliest invoice-based BtoC BNPL products. The product lets EC merchants offer payment after delivery by convenience-store, bank-transfer, or similar invoice routes. The defining feature is a guarantee-model structure: Net Protections absorbs unrecovered-payment risk in exchange for the merchant fee. The group also runs atone, NP business invoicing, and AFTEE.
+[[payment-firms/net-protections-hd|Net Protections HD]] operates NP Postpay, one of Japan's earliest invoice-based BtoC BNPL products. The product lets EC merchants offer payment after delivery by convenience-store, bank-transfer, or similar invoice routes. The defining feature is a guarantee-model structure: Net Protections absorbs unrecovered-payment risk in exchange for the merchant fee. The group also runs atone, NP business invoicing, and AFTEE.
 
 ### atone
 
-[[JapanFG/atone|atone]] is the consumer-side monthly-cycle BNPL wallet of the Net Protections group. It aggregates purchases across merchants into a single monthly payment, giving Net Protections a wallet-style consumer surface while preserving the corporate license stack used for NP Postpay.
+[[payment-firms/atone|atone]] is the consumer-side monthly-cycle BNPL wallet of the Net Protections group. It aggregates purchases across merchants into a single monthly payment, giving Net Protections a wallet-style consumer surface while preserving the corporate license stack used for NP Postpay.
 
 ### Kuroneko Atobarai
 
-[[JapanFG/kuroneko-atobarai|Kuroneko Atobarai]] is the Yamato-group BNPL product. Its distinctive advantage is operational adjacency to Yamato Transport: delivery confirmation, invoice dispatch, and collection can be bundled for EC merchants that already rely on Yamato logistics.
+[[payment-firms/kuroneko-atobarai|Kuroneko Atobarai]] is the Yamato-group BNPL product. Its distinctive advantage is operational adjacency to Yamato Transport: delivery confirmation, invoice dispatch, and collection can be bundled for EC merchants that already rely on Yamato logistics.
 
 ### GMO Postpay
 
-[[JapanFG/gmo-postpay|GMO Postpay]] is integrated with [[JapanFG/gmo-payment-gateway|GMO Payment Gateway]] and the broader GMO merchant-acquiring surface. The strategic value is distribution: a merchant already using GMO-PG can add post-payment as another method without building a separate gateway relationship.
+[[payment-firms/gmo-postpay|GMO Postpay]] is integrated with [[payment-firms/gmo-payment-gateway|GMO Payment Gateway]] and the broader GMO merchant-acquiring surface. The strategic value is distribution: a merchant already using GMO-PG can add post-payment as another method without building a separate gateway relationship.
 
 ### Paidy
 
-[[JapanFG/paidy|Paidy]], owned by PayPal, is a monthly-cycle consumer BNPL operator with standard monthly settlement, three-installment products, and longer installment variants. Its advantages are large EC integrations, the PayPal ownership base, and receivables-funding scale.
+[[payment-firms/paidy|Paidy]], owned by PayPal, is a monthly-cycle consumer BNPL operator with standard monthly settlement, three-installment products, and longer installment variants. Its advantages are large EC integrations, the PayPal ownership base, and receivables-funding scale.
 
 ### Komoju Atobarai
 
@@ -49,7 +49,7 @@ Smarpay and Lattepay represent the smaller independent BNPL cohort launched duri
 
 ### Merpay and Mercari Smart Money
 
-[[JapanFG/mercari-hd|Mercari HD]] operates [[JapanFG/merpay|Merpay]], extending into pay-later and lending through the Mercari ecosystem. The structural distinction is vertical integration: funding source, customer identity, marketplace behavior, and collection channel all sit inside the Mercari platform. The license stack combines funds transfer, credit-purchase intermediation, and money-lending elements depending on feature.
+[[payment-firms/mercari-hd|Mercari HD]] operates [[payment-firms/merpay|Merpay]], extending into pay-later and lending through the Mercari ecosystem. The structural distinction is vertical integration: funding source, customer identity, marketplace behavior, and collection channel all sit inside the Mercari platform. The license stack combines funds transfer, credit-purchase intermediation, and money-lending elements depending on feature.
 
 ### b/43
 
@@ -63,17 +63,17 @@ SMBC Card, MUFG NICOS, Rakuten Card, PayPay Card, and other card issuers can cre
 
 | Operator / brand | Ownership | Primary legal route | Model | Main strength | Regulatory reading |
 |---|---|---|---|---|---|
-| [[JapanFG/net-protections-hd|Net Protections HD]] / NP Postpay | Listed independent group | Individual credit-purchase intermediation | Per-transaction invoice BNPL | Merchant-side guarantee model | Pure-play BNPL benchmark |
-| [[JapanFG/atone|atone]] | Net Protections group | Same group license stack | Monthly-cycle consumer wallet | Multi-merchant consumer account | Wallet extension of NP economics |
-| [[JapanFG/kuroneko-atobarai|Kuroneko Atobarai]] | Yamato group | Individual credit-purchase intermediation | Invoice BNPL tied to delivery | Logistics and collection integration | Shipping-bundled BNPL |
-| [[JapanFG/gmo-postpay|GMO Postpay]] | GMO Internet / GMO-PG | Individual credit-purchase intermediation | PSP-integrated deferred payment | Existing GMO-PG merchant base | Gateway-distributed BNPL |
-| [[JapanFG/paidy|Paidy]] | PayPal | Individual credit-purchase intermediation plus installment variants | Monthly-cycle BNPL | Large EC integrations and PayPal scale | Consumer-wallet BNPL |
+| [[payment-firms/net-protections-hd|Net Protections HD]] / NP Postpay | Listed independent group | Individual credit-purchase intermediation | Per-transaction invoice BNPL | Merchant-side guarantee model | Pure-play BNPL benchmark |
+| [[payment-firms/atone|atone]] | Net Protections group | Same group license stack | Monthly-cycle consumer wallet | Multi-merchant consumer account | Wallet extension of NP economics |
+| [[payment-firms/kuroneko-atobarai|Kuroneko Atobarai]] | Yamato group | Individual credit-purchase intermediation | Invoice BNPL tied to delivery | Logistics and collection integration | Shipping-bundled BNPL |
+| [[payment-firms/gmo-postpay|GMO Postpay]] | GMO Internet / GMO-PG | Individual credit-purchase intermediation | PSP-integrated deferred payment | Existing GMO-PG merchant base | Gateway-distributed BNPL |
+| [[payment-firms/paidy|Paidy]] | PayPal | Individual credit-purchase intermediation plus installment variants | Monthly-cycle BNPL | Large EC integrations and PayPal scale | Consumer-wallet BNPL |
 | Komoju Atobarai | Degica / Komoju | Individual credit-purchase intermediation | PSP-integrated post-payment | Gaming and cross-border EC merchant base | Vertical PSP BNPL |
 | Smarpay | Independent | Individual credit-purchase intermediation | Installment-oriented BNPL | Newer independent brand | Smaller-scale cycle-sensitive operator |
 | Lattepay | Independent | Individual credit-purchase intermediation | Deferred payment | Newer independent brand | Smaller-scale cycle-sensitive operator |
-| [[JapanFG/merpay|Merpay]] | [[JapanFG/mercari-hd|Mercari HD]] | Multi-license wallet, credit, and lending stack | Marketplace-linked pay-later and lending | Mercari identity and transaction data | Platform-integrated boundary case |
+| [[payment-firms/merpay|Merpay]] | [[payment-firms/mercari-hd|Mercari HD]] | Multi-license wallet, credit, and lending stack | Marketplace-linked pay-later and lending | Mercari identity and transaction data | Platform-integrated boundary case |
 | b/43 | Smartbank | Prepaid plus credit extension routes | Family finance with pay-later features | Household budgeting surface | Mixed prepaid / credit boundary case |
-| PayPay deferred payment | PayPay wallet with [[JapanFG/paypay-card|PayPay Card]] backend | Card-issuer credit line | BNPL-like wallet UX | PayPay merchant ecosystem | Card-issuer route, not pure BNPL |
+| PayPay deferred payment | PayPay wallet with [[card-issuers/paypay-card|PayPay Card]] backend | Card-issuer credit line | BNPL-like wallet UX | PayPay merchant ecosystem | Card-issuer route, not pure BNPL |
 | APLUS / JACCS / Orico / Credit Saison | Traditional shinpan and card groups | Individual plus comprehensive credit-purchase intermediation | Shopping-credit and installment finance | Multi-product credit economics | Registry peers to BNPL pure-plays |
 
 ## Registry Workflow

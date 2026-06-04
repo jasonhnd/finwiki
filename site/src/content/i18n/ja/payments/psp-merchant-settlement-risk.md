@@ -13,7 +13,7 @@ translated_at: 2026-06-02T16:33:58.499Z
 
 加盟店 PSP リスクとは、チェックアウト成功と最終的な資金移動の間にあるリスクである。加盟店オンボーディング、カード番号取扱い、不正監視、チャージバック、リザーブ、精算タイミング、返金、プラットフォームまたはウォレット障害が含まれる。日本では、分析に METI のカード番号取扱 / 加盟店契約ルート、FSA 資金移動業登録、前払式支払手段ルール、決済ブランド / ネットワーク契約を組み合わせる必要がある。
 
-このページは [[payments/card-acquiring-japan-stack|Japan card acquiring stack]]、[[payments/funds-transfer-service-providers-japan-index|funds-transfer registry]]、[[payments/japan-code-payment-competitive-map|code-payment competitive map]] と併せて読む。[[JapanFG/gmo-payment-gateway|GMO-PG]]、[[JapanFG/sb-payment-service|SBPS]]、[[JapanFG/dg-financial-technology|DGFT]]、[[JapanFG/netstars|Netstars]] などの会社ページは、加盟店リスクが真の論点である場合にここへリンクする。
+このページは [[payments/card-acquiring-japan-stack|Japan card acquiring stack]]、[[payments/funds-transfer-service-providers-japan-index|funds-transfer registry]]、[[payments/japan-code-payment-competitive-map|code-payment competitive map]] と併せて読む。[[payment-firms/gmo-payment-gateway|GMO-PG]]、[[payment-firms/sb-payment-service|SBPS]]、[[payment-firms/dg-financial-technology|DGFT]]、[[payment-firms/netstars|Netstars]] などの会社ページは、加盟店リスクが真の論点である場合にここへリンクする。
 
 ## リスクスタック
 
@@ -41,11 +41,11 @@ translated_at: 2026-06-02T16:33:58.499Z
 
 | 事業者タイプ | 例 | 主な問い |
 |---|---|---|
-| 上場カード / PSP インフラ | [[JapanFG/gmo-payment-gateway|GMO-PG]] | ゲートウェイサービス、加盟店精算、貸付、付加価値ツールにどれだけリスクがあるか。 |
-| 通信 / グループ PSP | [[JapanFG/sb-payment-service|SBPS]] | PayPay / SoftBank の流通力が加盟店獲得とリスク管理にどう影響するか。 |
-| レガシー / エンタープライズ PSP | [[JapanFG/dg-financial-technology|DGFT]] | エンタープライズ加盟店の品質がチャージバックと精算エクスポージャーをどう変えるか。 |
-| QR ゲートウェイ | [[JapanFG/netstars|Netstars]] | 複数のコード決済ブランドは加盟店端でどのように照合・管理されるか。 |
-| ウォレット / 資金移動事業者 | [[JapanFG/paypay|PayPay]]、[[JapanFG/merpay|Merpay]]、[[JapanFG/recruit-mufg-business|Recruit MUFG Business]] | 事業者は残高 / 移転 / 決済リスクを持つのか、それとも受入をルートするだけか。 |
+| 上場カード / PSP インフラ | [[payment-firms/gmo-payment-gateway|GMO-PG]] | ゲートウェイサービス、加盟店精算、貸付、付加価値ツールにどれだけリスクがあるか。 |
+| 通信 / グループ PSP | [[payment-firms/sb-payment-service|SBPS]] | PayPay / SoftBank の流通力が加盟店獲得とリスク管理にどう影響するか。 |
+| レガシー / エンタープライズ PSP | [[payment-firms/dg-financial-technology|DGFT]] | エンタープライズ加盟店の品質がチャージバックと精算エクスポージャーをどう変えるか。 |
+| QR ゲートウェイ | [[payment-firms/netstars|Netstars]] | 複数のコード決済ブランドは加盟店端でどのように照合・管理されるか。 |
+| ウォレット / 資金移動事業者 | [[payment-firms/paypay|PayPay]]、[[payment-firms/merpay|Merpay]]、[[payment-firms/recruit-mufg-business|Recruit MUFG Business]] | 事業者は残高 / 移転 / 決済リスクを持つのか、それとも受入をルートするだけか。 |
 
 ## 実務上の読み方
 
@@ -62,8 +62,8 @@ translated_at: 2026-06-02T16:33:58.499Z
 - [[payments/funds-transfer-service-providers-japan-index]]
 - [[payments/prepaid-payment-instrument-issuers-japan-index]]
 - [[payments/japan-code-payment-competitive-map]]
-- [[JapanFG/netstars]]
-- [[JapanFG/gmo-payment-gateway]]
+- [[payment-firms/netstars]]
+- [[payment-firms/gmo-payment-gateway]]
 
 ## 出典
 

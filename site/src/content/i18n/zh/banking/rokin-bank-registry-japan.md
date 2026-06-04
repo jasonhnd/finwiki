@@ -23,7 +23,7 @@ translated_at: 2026-05-31T03:19:56.476Z
 | 项目 | 值 |
 | --- | --- |
 | FSA 截至日期 | 令和5年8月14日現在 |
-| 中央机构 | [[JapanFG/rokin-renraku]] |
+| 中央机构 | [[cooperative-banks/rokin-renraku]] |
 | 工作簿中的中央机构行数 | 1 |
 | 持牌劳动金库 | 13 |
 | 法律/制度依据 | 労働金庫法 |
@@ -33,7 +33,7 @@ translated_at: 2026-05-31T03:19:56.476Z
 
 - 在索引层面闭合官方劳动金库总体。
 - 将工会/劳工关联金融与信用金库(shinkin)、信用合作社及普通地方银行区分开来。
-- 保留 [[JapanFG/rokin-renraku|Rokinren]] 作为中央机构页面,同时将 13 家成员劳动金库经由本索引归集。
+- 保留 [[cooperative-banks/rokin-renraku|Rokinren]] 作为中央机构页面,同时将 13 家成员劳动金库经由本索引归集。
 - 法人编号与总部地址属于公开登记字段;代表电话号码仍保留在源工作簿中,此处略去以保持索引便于浏览。
 
 ## 3. 各监管财务局数量
@@ -109,8 +109,8 @@ translated_at: 2026-05-31T03:19:56.476Z
 
 - [[banking/cooperative-banking-japan]]
 - [[banking/regional-bank-consolidation-pattern]]
-- [[JapanFG/rokin-renraku|労働金庫連合会]]
-- [[JapanFG/missing-financial-institutions-backlog]]
+- [[cooperative-banks/rokin-renraku|労働金庫連合会]]
+- [[financial-regulators/missing-financial-institutions-backlog]]
 - [[banking/INDEX]]
 
 ## 来源

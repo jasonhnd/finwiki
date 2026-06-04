@@ -56,9 +56,9 @@ The key point here is that Merpay did not become a bank. As an electronic-paymen
 - [[banking/mercari-bank-license-stack]]
 - [[banking/baas-japan-landscape]]
 - [[banking/quick-deposit-four-methods]]
-- [[JapanFG/fukuoka-fg]]
-- [[JapanFG/ssnb]]
-- [[JapanFG/gmo-aozora-net]]
+- [[regional-banks/fukuoka-fg]]
+- [[regional-banks/ssnb]]
+- [[payment-firms/gmo-aozora-net]]
 
 ## Sources
 

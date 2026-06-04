@@ -66,16 +66,16 @@
   "body_links": {
     "wikilinks_count": 21,
     "wikilinks": [
-      "JapanFG/chibagin-leasing",
-      "JapanFG/fuyo-lease",
-      "JapanFG/ibj-leasing",
-      "JapanFG/iyogin-leasing",
-      "JapanFG/mitsubishi-hc-capital",
-      "JapanFG/orix-corp",
-      "JapanFG/ricoh-leasing",
-      "JapanFG/tokyo-century",
-      "JapanFG/yokohama-bank-leasing",
       "finance/INDEX",
+      "leasing-firms/chibagin-leasing",
+      "leasing-firms/fuyo-lease",
+      "leasing-firms/ibj-leasing",
+      "leasing-firms/iyogin-leasing",
+      "leasing-firms/mitsubishi-hc-capital",
+      "leasing-firms/orix-corp",
+      "leasing-firms/ricoh-leasing",
+      "leasing-firms/tokyo-century",
+      "leasing-firms/yokohama-bank-leasing",
       "real-estate-finance/INDEX",
       "structured-finance/INDEX",
       "structured-finance/aircraft-leasing-financing-japan-shosha",
@@ -89,16 +89,16 @@
       "structured-finance/spv-tk-gk-vehicle-japan-tax"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/chibagin-leasing",
-      "https://finwiki.zksc.io/JapanFG/fuyo-lease",
-      "https://finwiki.zksc.io/JapanFG/ibj-leasing",
-      "https://finwiki.zksc.io/JapanFG/iyogin-leasing",
-      "https://finwiki.zksc.io/JapanFG/mitsubishi-hc-capital",
-      "https://finwiki.zksc.io/JapanFG/orix-corp",
-      "https://finwiki.zksc.io/JapanFG/ricoh-leasing",
-      "https://finwiki.zksc.io/JapanFG/tokyo-century",
-      "https://finwiki.zksc.io/JapanFG/yokohama-bank-leasing",
       "https://finwiki.zksc.io/finance/INDEX",
+      "https://finwiki.zksc.io/leasing-firms/chibagin-leasing",
+      "https://finwiki.zksc.io/leasing-firms/fuyo-lease",
+      "https://finwiki.zksc.io/leasing-firms/ibj-leasing",
+      "https://finwiki.zksc.io/leasing-firms/iyogin-leasing",
+      "https://finwiki.zksc.io/leasing-firms/mitsubishi-hc-capital",
+      "https://finwiki.zksc.io/leasing-firms/orix-corp",
+      "https://finwiki.zksc.io/leasing-firms/ricoh-leasing",
+      "https://finwiki.zksc.io/leasing-firms/tokyo-century",
+      "https://finwiki.zksc.io/leasing-firms/yokohama-bank-leasing",
       "https://finwiki.zksc.io/real-estate-finance/INDEX",
       "https://finwiki.zksc.io/structured-finance/INDEX",
       "https://finwiki.zksc.io/structured-finance/aircraft-leasing-financing-japan-shosha",
@@ -115,9 +115,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 16562,
-    "word_like_tokens": 2639,
+    "nonspace_chars": 16724,
+    "word_like_tokens": 2666,
     "inbound_wikilinks_count": 6,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-06-04"
   }
 }

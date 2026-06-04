@@ -14,7 +14,7 @@ translated_at: 2026-06-02T14:01:20.957Z
 
 日本の外資系生命保険会社の位置づけ、販売チャネル、資本、監督、比較軸を説明する。 [[insurance/INDEX|insurance index]] [[insurance/japan-life-insurance-big-four|Japan life big four]] [[insurance/sony-life-group-life-operating-model|Sony Life Lifeplanner / group-life operating model]] [[insurance/life-insurance-channel-mix|life insurance channel mix]] [[insurance/japan-life-insurance-alm-overview|Japan life ALM overview]] [[insurance/economic-value-based-solvency|economic-value solvency]] [[insurance/global-solvency-framework-comparison-matrix|global solvency framework matrix]] [[insurance/mutual-vs-stock-life-insurer|mutual vs stock]] [[insurance/japan-iaig-ics-mapping|Japan IAIG-ICS mapping]]
 
-日本の外資系生命保険会社の位置づけ、販売チャネル、資本、監督、比較軸を説明する。 [[JapanFG/aflac-japan|AFLAC Japan]] [[JapanFG/metlife-japan|MetLife Japan]] [[JapanFG/manulife-japan|Manulife Japan]] [[JapanFG/prudential-japan|Prudential Japan]] [[JapanFG/gibraltar-life|Gibraltar Life]] [[JapanFG/axa-japan|AXA Japan]] [[JapanFG/zurich-japan|Zurich Japan]] [[JapanFG/legal-financial-licenses/insurance-license-and-solvency|insurance license and solvency route]]
+日本の外資系生命保険会社の位置づけ、販売チャネル、資本、監督、比較軸を説明する。 [[life-insurers/aflac-japan|AFLAC Japan]] [[life-insurers/metlife-japan|MetLife Japan]] [[life-insurers/manulife-japan|Manulife Japan]] [[life-insurers/prudential-japan|Prudential Japan]] [[life-insurers/gibraltar-life|Gibraltar Life]] [[life-insurers/axa-japan|AXA Japan]] [[non-life-insurers/zurich-japan|Zurich Japan]] [[financial-licenses/insurance-license-and-solvency|insurance license and solvency route]]
 
 ## 要約
 
@@ -24,7 +24,7 @@ translated_at: 2026-06-02T14:01:20.957Z
 
 ### 日本語化済み見出し— 日本語化済み見出し
 
-日本の外資系生命保険会社の位置づけ、販売チャネル、資本、監督、比較軸を説明する。 [[JapanFG/aflac-japan|AFLAC Japan]]
+日本の外資系生命保険会社の位置づけ、販売チャネル、資本、監督、比較軸を説明する。 [[life-insurers/aflac-japan|AFLAC Japan]]
 
 - 日本の外資系生命保険会社の位置づけ、販売チャネル、資本、監督、比較軸を説明する。
 - 日本の外資系生命保険会社の位置づけ、販売チャネル、資本、監督、比較軸を説明する。 [[insurance/insurance-agency-and-brokerage-japan|independent agencies / hoken-shop]]
@@ -35,7 +35,7 @@ translated_at: 2026-06-02T14:01:20.957Z
 
 ### 日本語化済みサブセクション— 日本語化済みサブセクション
 
-日本の外資系生命保険会社の位置づけ、販売チャネル、資本、監督、比較軸を説明する。 [[JapanFG/metlife-japan|MetLife Japan]]
+日本の外資系生命保険会社の位置づけ、販売チャネル、資本、監督、比較軸を説明する。 [[life-insurers/metlife-japan|MetLife Japan]]
 
 - 日本の外資系生命保険会社の位置づけ、販売チャネル、資本、監督、比較軸を説明する。
 - 日本の外資系生命保険会社の位置づけ、販売チャネル、資本、監督、比較軸を説明する。
@@ -46,7 +46,7 @@ translated_at: 2026-06-02T14:01:20.957Z
 
 ### 日本語化済みサブセクション— 日本語化済みサブセクション
 
-日本の外資系生命保険会社の位置づけ、販売チャネル、資本、監督、比較軸を説明する。 [[JapanFG/manulife-japan|Manulife Japan]]
+日本の外資系生命保険会社の位置づけ、販売チャネル、資本、監督、比較軸を説明する。 [[life-insurers/manulife-japan|Manulife Japan]]
 
 - 日本の外資系生命保険会社の販売・資本・監督上の位置づけを説明する。
 - 銀行窓販パートナーシップ；
@@ -56,7 +56,7 @@ translated_at: 2026-06-02T14:01:20.957Z
 
 ### 日本語化済みサブセクション— 日本語化済みサブセクション
 
-日本の外資系生命保険会社の位置づけ、販売チャネル、資本、監督、比較軸を説明する。 [[JapanFG/prudential-japan|Prudential Japan]] [[JapanFG/gibraltar-life|Gibraltar Life]] [[JapanFG/sony-life|Sony Life]] [[insurance/sony-life-group-life-operating-model|Lifeplanner-only model]]
+日本の外資系生命保険会社の位置づけ、販売チャネル、資本、監督、比較軸を説明する。 [[life-insurers/prudential-japan|Prudential Japan]] [[life-insurers/gibraltar-life|Gibraltar Life]] [[life-insurers/sony-life|Sony Life]] [[insurance/sony-life-group-life-operating-model|Lifeplanner-only model]]
 
 - 日本の外資系生命保険会社の位置づけ、販売チャネル、資本、監督、比較軸を説明する。
 - 日本の外資系生命保険会社の位置づけ、販売チャネル、資本、監督、比較軸を説明する。
@@ -66,7 +66,7 @@ translated_at: 2026-06-02T14:01:20.957Z
 
 ### 日本語化済みサブセクション— 日本語化済みサブセクション
 
-日本の外資系生命保険会社の位置づけ、販売チャネル、資本、監督、比較軸を説明する。 [[JapanFG/axa-japan|AXA Japan]] [[JapanFG/zurich-japan|Zurich Japan]]
+日本の外資系生命保険会社の位置づけ、販売チャネル、資本、監督、比較軸を説明する。 [[life-insurers/axa-japan|AXA Japan]] [[non-life-insurers/zurich-japan|Zurich Japan]]
 
 日本の外資系生命保険会社の位置づけ、販売チャネル、資本、監督、比較軸を説明する。
 
@@ -175,7 +175,7 @@ translated_at: 2026-06-02T14:01:20.957Z
 |日本語化済みの公開情報セル|日本語化済みの公開情報セル|日本語化済みの公開情報セル|
 |日本語化済みの公開情報セル|日本語化済みの公開情報セル|日本語化済みの公開情報セル|
 
-日本の外資系生命保険会社の位置づけ、販売チャネル、資本、監督、比較軸を説明する。 [[JapanFG/dai-ichi-life|Dai-ichi Life]] [[insurance/japan-life-insurance-big-four|big-four mutuals]] 10 [[insurance/japan-iaig-ics-mapping|group-wide IAIS assessment]]
+日本の外資系生命保険会社の位置づけ、販売チャネル、資本、監督、比較軸を説明する。 [[life-insurers/dai-ichi-life|Dai-ichi Life]] [[insurance/japan-life-insurance-big-four|big-four mutuals]] 10 [[insurance/japan-iaig-ics-mapping|group-wide IAIS assessment]]
 
 ## 日本語化済み見出し
 
@@ -184,7 +184,7 @@ translated_at: 2026-06-02T14:01:20.957Z
 | Channel | Competitive set |
 |---|---|
 |日本語化済みの公開情報セル|[[insurance/internet-life-insurance-business-model|internet life medical-only products]] 日本語化済みの公開情報セル|
-|日本語化済みの公開情報セル|[[JapanFG/sony-life|Sony Life]] [[JapanFG/dai-ichi-life|Dai-ichi Life]] 日本語化済みの公開情報セル|
+|日本語化済みの公開情報セル|[[life-insurers/sony-life|Sony Life]] [[life-insurers/dai-ichi-life|Dai-ichi Life]] 日本語化済みの公開情報セル|
 |日本語化済みの公開情報セル|日本語化済みの公開情報セル|
 |日本語化済みの公開情報セル|チャネル|
 
@@ -204,16 +204,16 @@ translated_at: 2026-06-02T14:01:20.957Z
 - [[insurance/mutual-vs-stock-life-insurer]]
 - [[insurance/insurance-agency-and-brokerage-japan]]
 - [[insurance/internet-life-insurance-business-model]]
-- [[JapanFG/aflac-japan]]
-- [[JapanFG/metlife-japan]]
-- [[JapanFG/manulife-japan]]
-- [[JapanFG/prudential-japan]]
-- [[JapanFG/gibraltar-life]]
-- [[JapanFG/axa-japan]]
-- [[JapanFG/zurich-japan]]
-- [[JapanFG/sony-life]]
-- [[JapanFG/sony-fg]]
-- [[JapanFG/legal-financial-licenses/insurance-license-and-solvency]]
+- [[life-insurers/aflac-japan]]
+- [[life-insurers/metlife-japan]]
+- [[life-insurers/manulife-japan]]
+- [[life-insurers/prudential-japan]]
+- [[life-insurers/gibraltar-life]]
+- [[life-insurers/axa-japan]]
+- [[non-life-insurers/zurich-japan]]
+- [[life-insurers/sony-life]]
+- [[megabanks/sony-fg]]
+- [[financial-licenses/insurance-license-and-solvency]]
 - [[finance/japan-listed-financial-groups-investable-universe]]
 - [[INDEX|FinWiki index]]
 

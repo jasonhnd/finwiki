@@ -59,9 +59,6 @@
   "body_links": {
     "wikilinks_count": 15,
     "wikilinks": [
-      "JapanFG/mizuho-bank",
-      "JapanFG/mufg-bank",
-      "JapanFG/sumitomo-mitsui-banking-corp",
       "derivatives/INDEX",
       "derivatives/cross-currency-basis-swap-japan",
       "derivatives/fx-options-japan-corporate-treasury",
@@ -72,13 +69,13 @@
       "derivatives/yen-basis-swap-market",
       "finance/japan-corporate-fx-and-rate-hedge-policy",
       "insurance/japan-life-insurance-alm-overview",
+      "megabanks/mizuho-bank",
+      "megabanks/mufg-bank",
+      "megabanks/sumitomo-mitsui-banking-corp",
       "money-market/boj-open-market-operations",
       "money-market/japan-money-market"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/mizuho-bank",
-      "https://finwiki.zksc.io/JapanFG/mufg-bank",
-      "https://finwiki.zksc.io/JapanFG/sumitomo-mitsui-banking-corp",
       "https://finwiki.zksc.io/derivatives/INDEX",
       "https://finwiki.zksc.io/derivatives/cross-currency-basis-swap-japan",
       "https://finwiki.zksc.io/derivatives/fx-options-japan-corporate-treasury",
@@ -89,6 +86,9 @@
       "https://finwiki.zksc.io/derivatives/yen-basis-swap-market",
       "https://finwiki.zksc.io/finance/japan-corporate-fx-and-rate-hedge-policy",
       "https://finwiki.zksc.io/insurance/japan-life-insurance-alm-overview",
+      "https://finwiki.zksc.io/megabanks/mizuho-bank",
+      "https://finwiki.zksc.io/megabanks/mufg-bank",
+      "https://finwiki.zksc.io/megabanks/sumitomo-mitsui-banking-corp",
       "https://finwiki.zksc.io/money-market/boj-open-market-operations",
       "https://finwiki.zksc.io/money-market/japan-money-market"
     ],
@@ -96,9 +96,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 16897,
+    "nonspace_chars": 16915,
     "word_like_tokens": 2795,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-04"
   }
 }

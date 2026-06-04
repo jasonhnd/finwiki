@@ -131,7 +131,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 - [[exchanges/jp-exchange-bittrade]] —— VASP 客户的一例
 - [[exchanges/jp-institutional-custody-three-pillars]] —— JP institutional custody 三大支柱
 - [[exchanges/jp-custody-fireblocks-japan]] —— Fireblocks Japan（竞争对手）
-- [[JapanFG/progmat]] —— Progmat（协作方）
+- [[payment-firms/progmat]] —— Progmat（协作方）
 - [[exchanges/jp-vasp-cold-storage-segregation-rules]] —— JP VASP cold storage 分别管理规则
 
 ## Sources

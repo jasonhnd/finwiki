@@ -1,0 +1,86 @@
+{
+  "schema_version": "1.0",
+  "slug": "life-insurers/td-hd",
+  "source_path": "life-insurers/td-hd.md",
+  "url": "https://finwiki.zksc.io/life-insurers/td-hd",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/life-insurers/td-hd.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/life-insurers/td-hd.md",
+  "domain": "life-insurers",
+  "title": "T&D ホールディングス (T&D Holdings)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "T&D ホールディングス (T&D Holdings)",
+    "aliases": [
+      "T&D HD",
+      "T&D Holdings",
+      "T&D ホールディングス",
+      "T&D フィナンシャル ホールディングス",
+      "8795",
+      "life-insurers/t-and-d-hd",
+      "life-insurers/toho-life"
+    ],
+    "domain": "life-insurers",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "life-insurance"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: T&Dホールディングス (公開情報 2026-05-19 抽出)",
+      "T&D HD 公式 IR / 沿革ページ (公開情報)"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 第一ライフグループ / 旧 第一生命 HD for peer / contrast context and insurance index for the broader system / regulatory boundary.",
+  "headings": [
+    "T&D ホールディングス (T&D Holdings)",
+    "Wiki route",
+    "TL;DR",
+    "1. 会社概要",
+    "主要 KPI（直近公開ベース）^[extracted]",
+    "主要子会社・持分",
+    "主要株主構成（公開情報ベース）",
+    "重要年表（抜粋）^[extracted]",
+    "2. 事業セグメント・マップ",
+    "3 セグメント差別化戦略（最大特徴）"
+  ],
+  "body_links": {
+    "wikilinks_count": 10,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "dai-ichi-life",
+      "insurance/INDEX",
+      "kampo-life",
+      "life-insurers/dai-ichi-life",
+      "mizuho-fg",
+      "mufg",
+      "nippon-life",
+      "smfg",
+      "sony-fg"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/dai-ichi-life",
+      "https://finwiki.zksc.io/insurance/INDEX",
+      "https://finwiki.zksc.io/kampo-life",
+      "https://finwiki.zksc.io/life-insurers/dai-ichi-life",
+      "https://finwiki.zksc.io/mizuho-fg",
+      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/nippon-life",
+      "https://finwiki.zksc.io/smfg",
+      "https://finwiki.zksc.io/sony-fg"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3518,
+    "word_like_tokens": 621,
+    "inbound_wikilinks_count": 9,
+    "last_modified": "2026-06-04"
+  }
+}

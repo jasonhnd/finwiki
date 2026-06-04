@@ -60,15 +60,15 @@
     "wikilinks_count": 15,
     "wikilinks": [
       "INDEX",
-      "JapanFG/aeon-bank",
-      "JapanFG/aeon-financial-service",
-      "JapanFG/credit-saison",
-      "JapanFG/jaccs",
-      "JapanFG/payments-cards-leasing-finance-index",
+      "JapanFG/INDEX",
       "business/INDEX",
       "business/rakuten-group-mobile-finance-bundling-case",
       "business/seven-bank-atm-platform-deconsolidation-case",
       "business/toyota-financial-services-captive-finance-case",
+      "card-issuers/aeon-bank",
+      "card-issuers/aeon-financial-service",
+      "card-issuers/credit-saison",
+      "card-issuers/jaccs",
       "finance/cross-border-m-a-japan",
       "payments/japan-consumer-credit-operator-comparison-matrix",
       "payments/waon-prepaid-aeon",
@@ -77,15 +77,15 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/aeon-bank",
-      "https://finwiki.zksc.io/JapanFG/aeon-financial-service",
-      "https://finwiki.zksc.io/JapanFG/credit-saison",
-      "https://finwiki.zksc.io/JapanFG/jaccs",
-      "https://finwiki.zksc.io/JapanFG/payments-cards-leasing-finance-index",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/business/INDEX",
       "https://finwiki.zksc.io/business/rakuten-group-mobile-finance-bundling-case",
       "https://finwiki.zksc.io/business/seven-bank-atm-platform-deconsolidation-case",
       "https://finwiki.zksc.io/business/toyota-financial-services-captive-finance-case",
+      "https://finwiki.zksc.io/card-issuers/aeon-bank",
+      "https://finwiki.zksc.io/card-issuers/aeon-financial-service",
+      "https://finwiki.zksc.io/card-issuers/credit-saison",
+      "https://finwiki.zksc.io/card-issuers/jaccs",
       "https://finwiki.zksc.io/finance/cross-border-m-a-japan",
       "https://finwiki.zksc.io/payments/japan-consumer-credit-operator-comparison-matrix",
       "https://finwiki.zksc.io/payments/waon-prepaid-aeon",
@@ -96,9 +96,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 10900,
-    "word_like_tokens": 1786,
+    "nonspace_chars": 10898,
+    "word_like_tokens": 1790,
     "inbound_wikilinks_count": 2,
-    "last_modified": "2026-06-03"
+    "last_modified": "2026-06-04"
   }
 }

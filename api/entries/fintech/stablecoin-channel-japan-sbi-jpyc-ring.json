@@ -54,8 +54,6 @@
     "wikilinks_count": 11,
     "wikilinks": [
       "INDEX",
-      "JapanFG/jpyc",
-      "JapanFG/progmat",
       "exchanges/jp-exchange-sbi-vc-trade",
       "fintech/INDEX",
       "fintech/japan-financial-regulation",
@@ -63,12 +61,12 @@
       "fintech/multi-megabank-consortium-governance",
       "fintech/stablecoin-chain-sovereign-currency-divide",
       "fintech/stablecoin-revenue-split-economics",
-      "fintech/three-circles-stablecoin-mra-framework"
+      "fintech/three-circles-stablecoin-mra-framework",
+      "payment-firms/jpyc",
+      "payment-firms/progmat"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/jpyc",
-      "https://finwiki.zksc.io/JapanFG/progmat",
       "https://finwiki.zksc.io/exchanges/jp-exchange-sbi-vc-trade",
       "https://finwiki.zksc.io/fintech/INDEX",
       "https://finwiki.zksc.io/fintech/japan-financial-regulation",
@@ -76,15 +74,17 @@
       "https://finwiki.zksc.io/fintech/multi-megabank-consortium-governance",
       "https://finwiki.zksc.io/fintech/stablecoin-chain-sovereign-currency-divide",
       "https://finwiki.zksc.io/fintech/stablecoin-revenue-split-economics",
-      "https://finwiki.zksc.io/fintech/three-circles-stablecoin-mra-framework"
+      "https://finwiki.zksc.io/fintech/three-circles-stablecoin-mra-framework",
+      "https://finwiki.zksc.io/payment-firms/jpyc",
+      "https://finwiki.zksc.io/payment-firms/progmat"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3034,
-    "word_like_tokens": 550,
+    "nonspace_chars": 3046,
+    "word_like_tokens": 552,
     "inbound_wikilinks_count": 8,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-04"
   }
 }

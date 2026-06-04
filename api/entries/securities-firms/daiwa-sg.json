@@ -1,0 +1,95 @@
+{
+  "schema_version": "1.0",
+  "slug": "securities-firms/daiwa-sg",
+  "source_path": "securities-firms/daiwa-sg.md",
+  "url": "https://finwiki.zksc.io/securities-firms/daiwa-sg",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/securities-firms/daiwa-sg.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/securities-firms/daiwa-sg.md",
+  "domain": "securities-firms",
+  "title": "大和証券グループ本社 (Daiwa Securities Group)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "大和証券グループ本社 (Daiwa Securities Group)",
+    "aliases": [
+      "Daiwa Securities Group",
+      "大和証券グループ本社",
+      "Daiwa SG",
+      "8601",
+      "大和証券",
+      "Daiwa Securities",
+      "securities-firms/daiwa-securities",
+      "securities-firms/daiwa-securities-group"
+    ],
+    "domain": "securities-firms",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "securities"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: 大和証券グループ本社 (公開情報、2026-05-19 抽出)",
+      "大和証券グループ本社 公式 IR (https://www.daiwa-grp.jp/ir/) — 2025-03 期決算短信",
+      "大和証券グループ 中期経営計画 (公開発表分)",
+      "大和ネクスト銀行 ディスクロージャー (https://www.bank-daiwa.co.jp/about/disclosure/transition/) — 2026-03 末"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 野村ホールディングス (Nomura HD) for peer / contrast context and securities index for the broader system / regulatory boundary.",
+  "headings": [
+    "大和証券グループ本社 (Daiwa Securities Group)",
+    "Wiki route",
+    "TL;DR",
+    "0. 最新業績 (FY2024 = 2025-03 期、連結)",
+    "大和ネクスト銀行 (子会社、2026-03 末時点)",
+    "1. 会社概要",
+    "業態の特徴",
+    "主要子会社・持分",
+    "重要年表（公開情報ベース）",
+    "2. 事業セグメント・マップ"
+  ],
+  "body_links": {
+    "wikilinks_count": 13,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "au-fh",
+      "fukuoka-fg",
+      "mizuho-fg",
+      "monex-group",
+      "mufg",
+      "ndfg",
+      "paypay-fg",
+      "rakuten-fg",
+      "sbi-hd",
+      "securities-firms/nomura-hd",
+      "securities/INDEX",
+      "smfg"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/au-fh",
+      "https://finwiki.zksc.io/fukuoka-fg",
+      "https://finwiki.zksc.io/mizuho-fg",
+      "https://finwiki.zksc.io/monex-group",
+      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/ndfg",
+      "https://finwiki.zksc.io/paypay-fg",
+      "https://finwiki.zksc.io/rakuten-fg",
+      "https://finwiki.zksc.io/sbi-hd",
+      "https://finwiki.zksc.io/securities-firms/nomura-hd",
+      "https://finwiki.zksc.io/securities/INDEX",
+      "https://finwiki.zksc.io/smfg"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 5211,
+    "word_like_tokens": 876,
+    "inbound_wikilinks_count": 68,
+    "last_modified": "2026-06-04"
+  }
+}

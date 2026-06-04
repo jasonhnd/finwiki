@@ -1,0 +1,77 @@
+{
+  "schema_version": "1.0",
+  "slug": "non-life-insurers/msad",
+  "source_path": "non-life-insurers/msad.md",
+  "url": "https://finwiki.zksc.io/non-life-insurers/msad",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/non-life-insurers/msad.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/non-life-insurers/msad.md",
+  "domain": "non-life-insurers",
+  "title": "MS&AD インシュアランス グループ ホールディングス",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "MS&AD インシュアランス グループ ホールディングス",
+    "aliases": [
+      "MS&AD",
+      "MS&AD Insurance Group Holdings",
+      "MS&AD HD",
+      "エムエスアンドエーディー",
+      "8725",
+      "non-life-insurers/ms-ad"
+    ],
+    "domain": "non-life-insurers",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "non-life-insurance"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: MS&ADインシュアランス グループ ホールディングス (公開情報ベース)",
+      "MS&AD HD 公式コーポレートサイト (公開情報ベース)"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against SOMPO ホールディングス (Sompo Holdings) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "MS&AD インシュアランス グループ ホールディングス",
+    "Wiki route",
+    "TL;DR",
+    "1. 会社概要",
+    "主要子会社・持分",
+    "合併経緯・前身",
+    "重要年表",
+    "1.5 財務 KPI（FY2024 = 2025-03 期）",
+    "2. 事業セグメント・マップ",
+    "国内 3 ブランド戦略の特異性 → 2027 終焉"
+  ],
+  "body_links": {
+    "wikilinks_count": 6,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "banking/INDEX",
+      "megabanks/mufg",
+      "non-life-insurers/mitsui-sumitomo-insurance",
+      "non-life-insurers/sompo",
+      "non-life-insurers/tokio-marine"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/non-life-insurers/mitsui-sumitomo-insurance",
+      "https://finwiki.zksc.io/non-life-insurers/sompo",
+      "https://finwiki.zksc.io/non-life-insurers/tokio-marine"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 5542,
+    "word_like_tokens": 938,
+    "inbound_wikilinks_count": 26,
+    "last_modified": "2026-06-04"
+  }
+}

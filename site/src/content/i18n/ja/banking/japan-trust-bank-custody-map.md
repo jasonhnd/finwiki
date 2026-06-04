@@ -14,7 +14,7 @@ translated_at: 2026-06-02T11:47:37.315Z
 
 日本の信託銀行 / カストディ層は、法的名義、受益者、資産管理、運用指図、コーポレートアクション、議決権行使、貸株、ファンド会計を分離している。よくある誤りは、開示書類に現れる「信託口」の名義名を、信託銀行そのものが経済的な投資家であるかのように読み取ることである。
 
-このページは [[banking/INDEX|banking domain]]、[[banking/japan-master-trust-and-custody-bank-landscape|master trust / custody bank landscape]]、[[JapanFG/master-trust-bank|Master Trust Bank of Japan]]、[[JapanFG/custody-bank|Custody Bank of Japan]]、[[JapanFG/sumitomo-mitsui-trust|Sumitomo Mitsui Trust]]、[[JapanFG/mitsubishi-ufj-trust-bank|Mitsubishi UFJ Trust Bank]]、[[securities/japan-stock-lending-market-route|stock lending route]]、[[securities/japan-market-infrastructure-map|securities market infrastructure]] と併せて用いる。
+このページは [[banking/INDEX|banking domain]]、[[banking/japan-master-trust-and-custody-bank-landscape|master trust / custody bank landscape]]、[[trust-banks/master-trust-bank|Master Trust Bank of Japan]]、[[trust-banks/custody-bank|Custody Bank of Japan]]、[[trust-banks/sumitomo-mitsui-trust|Sumitomo Mitsui Trust]]、[[trust-banks/mitsubishi-ufj-trust-bank|Mitsubishi UFJ Trust Bank]]、[[securities/japan-stock-lending-market-route|stock lending route]]、[[securities/japan-market-infrastructure-map|securities market infrastructure]] と併せて用いる。
 
 ## 機能マップ
 
@@ -31,9 +31,9 @@ translated_at: 2026-06-02T11:47:37.315Z
 
 | 類型 | 例 | 典型的な役割 |
 |---|---|---|
-| フルサービス信託銀行 | [[JapanFG/mitsubishi-ufj-trust-bank|Mitsubishi UFJ Trust Bank]]、[[JapanFG/mizuho-trust-bank|Mizuho Trust]]、[[JapanFG/smtb|SMTB]] | 信託、不動産、年金、証券代行、資産運用 / 管理。 |
-| 資産管理専門 | [[JapanFG/master-trust-bank|Master Trust Bank of Japan]]、[[JapanFG/custody-bank|Custody Bank of Japan]] | 大規模な機関カストディおよびファンド / 年金の資産管理。 |
-| 日本におけるグローバルカストディアン / ICSD | [[JapanFG/bny-mellon-japan|BNY Mellon Japan]]、[[JapanFG/state-street-japan|State Street Japan]]、[[JapanFG/euroclear-bank-japan|Euroclear Bank Japan]]、[[JapanFG/clearstream-banking-japan|Clearstream Banking Japan]] | 外国投資家 / グローバルな資産サービシング、決済、開示、担保のブリッジ。 |
+| フルサービス信託銀行 | [[trust-banks/mitsubishi-ufj-trust-bank|Mitsubishi UFJ Trust Bank]]、[[trust-banks/mizuho-trust-bank|Mizuho Trust]]、[[trust-banks/smtb|SMTB]] | 信託、不動産、年金、証券代行、資産運用 / 管理。 |
+| 資産管理専門 | [[trust-banks/master-trust-bank|Master Trust Bank of Japan]]、[[trust-banks/custody-bank|Custody Bank of Japan]] | 大規模な機関カストディおよびファンド / 年金の資産管理。 |
+| 日本におけるグローバルカストディアン / ICSD | [[foreign-financial-institutions/bny-mellon-japan|BNY Mellon Japan]]、[[foreign-financial-institutions/state-street-japan|State Street Japan]]、[[foreign-financial-institutions/euroclear-bank-japan|Euroclear Bank Japan]]、[[foreign-financial-institutions/clearstream-banking-japan|Clearstream Banking Japan]] | 外国投資家 / グローバルな資産サービシング、決済、開示、担保のブリッジ。 |
 | 証券保管振替 / 決済インフラ | [[securities/japan-securities-depository-center|JASDEC]]、[[securities/japan-securities-clearing-corp|JSCC]] | 振替、DVP、清算・決済の基盤。 |
 
 ## 解釈ルール
@@ -51,8 +51,8 @@ translated_at: 2026-06-02T11:47:37.315Z
 信託銀行のカストディは、銀行業を証券市場インフラに結びつける:
 
 - [[securities/japan-securities-depository-center|JASDEC]] および市場インフラを通じた決済とコーポレートアクション;
-- [[JapanFG/euroclear-bank-japan|Euroclear Bank Japan]] および [[JapanFG/clearstream-banking-japan|Clearstream Banking Japan]] を通じた ICSD / クロスボーダーカストディ;
-- [[securities/japan-stock-lending-market-route|stock lending route]] および [[JapanFG/japan-securities-finance|JSF]] を通じた証拠金 / 貸株;
+- [[foreign-financial-institutions/euroclear-bank-japan|Euroclear Bank Japan]] および [[foreign-financial-institutions/clearstream-banking-japan|Clearstream Banking Japan]] を通じた ICSD / クロスボーダーカストディ;
+- [[securities/japan-stock-lending-market-route|stock lending route]] および [[financial-regulators/japan-securities-finance|JSF]] を通じた証拠金 / 貸株;
 - [[securities/nisa-2024-flow|NISA / household asset-building]] および資産運用ページを通じた投資信託・年金フロー;
 - [[securities/tokyo-stock-exchange|TSE]] の開示書類および大株主表を通じた発行体の株主分析。
 
@@ -68,13 +68,13 @@ translated_at: 2026-06-02T11:47:37.315Z
 
 - [[banking/INDEX]]
 - [[banking/japan-master-trust-and-custody-bank-landscape]]
-- [[JapanFG/master-trust-bank]]
-- [[JapanFG/custody-bank]]
-- [[JapanFG/sumitomo-mitsui-trust]]
-- [[JapanFG/mitsubishi-ufj-trust-bank]]
-- [[JapanFG/mizuho-trust-bank]]
-- [[JapanFG/euroclear-bank-japan]]
-- [[JapanFG/clearstream-banking-japan]]
+- [[trust-banks/master-trust-bank]]
+- [[trust-banks/custody-bank]]
+- [[trust-banks/sumitomo-mitsui-trust]]
+- [[trust-banks/mitsubishi-ufj-trust-bank]]
+- [[trust-banks/mizuho-trust-bank]]
+- [[foreign-financial-institutions/euroclear-bank-japan]]
+- [[foreign-financial-institutions/clearstream-banking-japan]]
 - [[securities/japan-stock-lending-market-route]]
 - [[securities/japan-market-infrastructure-map]]
 - [[INDEX|FinWiki index]]

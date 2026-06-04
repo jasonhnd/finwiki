@@ -14,16 +14,16 @@ translated_at: 2026-05-31T03:19:56.372Z
 
 日本托管分析以机构类型作为首要字段。全能型信托银行、资产管理专业机构、全球托管行 / ICSD 分支以及结算基础设施承担着不同的职能。股东名册中的"信托账户"或托管行名称通常是名义持有 / 行政管理的表层，并不能证明该信托银行就是经济上的投资者。
 
-本页位于 [[banking/INDEX|banking domain]] 之下，比较信托银行托管背后的运营层。请结合 [[banking/japan-trust-bank-custody-map|Japan trust bank and custody map]]、[[banking/japan-master-trust-and-custody-bank-landscape|Japan master trust and custody bank landscape]]、[[JapanFG/master-trust-bank|Master Trust Bank of Japan]]、[[JapanFG/custody-bank|Custody Bank of Japan]]、[[JapanFG/mitsubishi-ufj-trust-bank|Mitsubishi UFJ Trust Bank]]、[[JapanFG/smtb|SMTB]]、[[JapanFG/mizuho-trust-bank|Mizuho Trust]]、[[JapanFG/bny-mellon-japan|BNY Mellon Japan]]、[[JapanFG/state-street-japan|State Street Japan]]、[[JapanFG/euroclear-bank-japan|Euroclear Bank Japan]]、[[JapanFG/clearstream-banking-japan|Clearstream Banking Japan]]、[[securities/japan-market-infrastructure-map|securities market infrastructure]]、[[securities/japan-stock-lending-market-route|stock lending market route]] 一并使用。
+本页位于 [[banking/INDEX|banking domain]] 之下，比较信托银行托管背后的运营层。请结合 [[banking/japan-trust-bank-custody-map|Japan trust bank and custody map]]、[[banking/japan-master-trust-and-custody-bank-landscape|Japan master trust and custody bank landscape]]、[[trust-banks/master-trust-bank|Master Trust Bank of Japan]]、[[trust-banks/custody-bank|Custody Bank of Japan]]、[[trust-banks/mitsubishi-ufj-trust-bank|Mitsubishi UFJ Trust Bank]]、[[trust-banks/smtb|SMTB]]、[[trust-banks/mizuho-trust-bank|Mizuho Trust]]、[[foreign-financial-institutions/bny-mellon-japan|BNY Mellon Japan]]、[[foreign-financial-institutions/state-street-japan|State Street Japan]]、[[foreign-financial-institutions/euroclear-bank-japan|Euroclear Bank Japan]]、[[foreign-financial-institutions/clearstream-banking-japan|Clearstream Banking Japan]]、[[securities/japan-market-infrastructure-map|securities market infrastructure]]、[[securities/japan-stock-lending-market-route|stock lending market route]] 一并使用。
 
 ## Institution-Type Comparison
 
 | 类型 | 示例 | 核心职能 | 不应推断 |
 |---|---|---|---|
-| 全能型信托银行 | [[JapanFG/mitsubishi-ufj-trust-bank|Mitsubishi UFJ Trust]]、[[JapanFG/smtb|SMTB]]、[[JapanFG/mizuho-trust-bank|Mizuho Trust]] | 信托、养老金、不动产、证券代理、资产管理、托管作为一条业务线 | 不要假设托管就是其全部业务。 |
-| 资产管理专业机构 | [[JapanFG/master-trust-bank|Master Trust Bank of Japan]]、[[JapanFG/custody-bank|Custody Bank of Japan]] | 机构托管、养老金 / 投资信托行政管理、基金会计、公司行动 | 不要将名义持有视为自营投资。 |
-| 全球托管行 / 次级托管行 | [[JapanFG/bny-mellon-japan|BNY Mellon Japan]]、[[JapanFG/state-street-japan|State Street Japan]] | 跨境资产服务、机构托管、基金服务、证券服务 | 不要仅凭托管角色推断本地银行的资产负债表敞口。 |
-| ICSD / 担保基础设施 | [[JapanFG/euroclear-bank-japan|Euroclear Bank Japan]]、[[JapanFG/clearstream-banking-japan|Clearstream Banking Japan]] | 国际结算、担保、跨境托管 | 不要将 ICSD 分支机构的存在视为本土零售银行路径。 |
+| 全能型信托银行 | [[trust-banks/mitsubishi-ufj-trust-bank|Mitsubishi UFJ Trust]]、[[trust-banks/smtb|SMTB]]、[[trust-banks/mizuho-trust-bank|Mizuho Trust]] | 信托、养老金、不动产、证券代理、资产管理、托管作为一条业务线 | 不要假设托管就是其全部业务。 |
+| 资产管理专业机构 | [[trust-banks/master-trust-bank|Master Trust Bank of Japan]]、[[trust-banks/custody-bank|Custody Bank of Japan]] | 机构托管、养老金 / 投资信托行政管理、基金会计、公司行动 | 不要将名义持有视为自营投资。 |
+| 全球托管行 / 次级托管行 | [[foreign-financial-institutions/bny-mellon-japan|BNY Mellon Japan]]、[[foreign-financial-institutions/state-street-japan|State Street Japan]] | 跨境资产服务、机构托管、基金服务、证券服务 | 不要仅凭托管角色推断本地银行的资产负债表敞口。 |
+| ICSD / 担保基础设施 | [[foreign-financial-institutions/euroclear-bank-japan|Euroclear Bank Japan]]、[[foreign-financial-institutions/clearstream-banking-japan|Clearstream Banking Japan]] | 国际结算、担保、跨境托管 | 不要将 ICSD 分支机构的存在视为本土零售银行路径。 |
 | 市场基础设施 | [[securities/japan-securities-depository-center|JASDEC]]、[[securities/japan-securities-clearing-corp|JSCC]]、BoJ JGB book-entry | 簿记转账、清算、DVP、JGB 结算 | 基础设施不是投资管理者。 |
 
 ## Operating Functions
@@ -40,13 +40,13 @@ translated_at: 2026-05-31T03:19:56.372Z
 
 ## Master Trust Versus Custody Bank
 
-[[JapanFG/master-trust-bank|Master Trust Bank of Japan]] 和 [[JapanFG/custody-bank|Custody Bank of Japan]] 是国内的资产管理专业机构。两者都是面向机构的实体，承担投资信托、养老金以及机构资产管理职能。除非另行披露自营所有权，否则它们在股东名册中的出现都被记录为信托 / 名义持有 / 行政管理结构。
+[[trust-banks/master-trust-bank|Master Trust Bank of Japan]] 和 [[trust-banks/custody-bank|Custody Bank of Japan]] 是国内的资产管理专业机构。两者都是面向机构的实体，承担投资信托、养老金以及机构资产管理职能。除非另行披露自营所有权，否则它们在股东名册中的出现都被记录为信托 / 名义持有 / 行政管理结构。
 
 公开比较字段包括所有权、客户群、托管 / 管理资产规模、基金会计职能、养老金 / 投资信托覆盖范围、公司行动操作、证券借贷支持，以及与 JASDEC / JSCC / BoJ 的连接。AUC / AuA 的数值声明具有特定来源日期。
 
 ## Full-Service Trust Banks
 
-[[JapanFG/mitsubishi-ufj-trust-bank|Mitsubishi UFJ Trust Bank]]、[[JapanFG/smtb|SMTB]] 和 [[JapanFG/mizuho-trust-bank|Mizuho Trust]] 是更广义的信托银行运营商。它们可以将托管 / 行政管理与不动产、养老金、证券代理、资产管理、继承 / 财富以及银行集团服务相结合。
+[[trust-banks/mitsubishi-ufj-trust-bank|Mitsubishi UFJ Trust Bank]]、[[trust-banks/smtb|SMTB]] 和 [[trust-banks/mizuho-trust-bank|Mizuho Trust]] 是更广义的信托银行运营商。它们可以将托管 / 行政管理与不动产、养老金、证券代理、资产管理、继承 / 财富以及银行集团服务相结合。
 
 ## Public-Filing Interpretation
 
@@ -72,15 +72,15 @@ translated_at: 2026-05-31T03:19:56.372Z
 - [[banking/INDEX]]
 - [[banking/japan-trust-bank-custody-map]]
 - [[banking/japan-master-trust-and-custody-bank-landscape]]
-- [[JapanFG/master-trust-bank]]
-- [[JapanFG/custody-bank]]
-- [[JapanFG/mitsubishi-ufj-trust-bank]]
-- [[JapanFG/smtb]]
-- [[JapanFG/mizuho-trust-bank]]
-- [[JapanFG/bny-mellon-japan]]
-- [[JapanFG/state-street-japan]]
-- [[JapanFG/euroclear-bank-japan]]
-- [[JapanFG/clearstream-banking-japan]]
+- [[trust-banks/master-trust-bank]]
+- [[trust-banks/custody-bank]]
+- [[trust-banks/mitsubishi-ufj-trust-bank]]
+- [[trust-banks/smtb]]
+- [[trust-banks/mizuho-trust-bank]]
+- [[foreign-financial-institutions/bny-mellon-japan]]
+- [[foreign-financial-institutions/state-street-japan]]
+- [[foreign-financial-institutions/euroclear-bank-japan]]
+- [[foreign-financial-institutions/clearstream-banking-japan]]
 - [[securities/japan-market-infrastructure-map]]
 - [[securities/japan-stock-lending-market-route]]
 - [[INDEX|FinWiki index]]

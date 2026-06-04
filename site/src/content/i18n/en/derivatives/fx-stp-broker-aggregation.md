@@ -61,7 +61,7 @@ A broker running an A-book / STP architecture typically connects to multiple liq
 | Single-bank platforms | Citi Velocity, JPM eFX, Deutsche Bank Autobahn, Barclays BARX, UBS Neo, Goldman Sachs Marquee FX | Bank-internal liquidity; broker connects via FIX API or bespoke gateway. |
 | Aggregator / technology vendor | oneZero, PrimeXM, Smartrader, Gold-i, FXone | Provide pre-built aggregation, smart-order-routing, risk management. |
 
-A Japan retail broker typically subscribes to several of these and routes orders via a combination of internal SOR logic and aggregator middleware. Foreign-affiliated brokers like OANDA Japan and [[JapanFG/saxo-bank-securities|Saxo Bank Securities]] inherit their parent companies' global connectivity stacks; domestic-only brokers like [[JapanFG/gmo-click-securities|GMO Click Securities]] and [[JapanFG/sbi-fx-trade|SBI FX Trade]] have built proprietary aggregation infrastructure.
+A Japan retail broker typically subscribes to several of these and routes orders via a combination of internal SOR logic and aggregator middleware. Foreign-affiliated brokers like OANDA Japan and [[securities-firms/saxo-bank-securities|Saxo Bank Securities]] inherit their parent companies' global connectivity stacks; domestic-only brokers like [[securities-firms/gmo-click-securities|GMO Click Securities]] and [[securities-firms/sbi-fx-trade|SBI FX Trade]] have built proprietary aggregation infrastructure.
 
 ### Smart-order-router mechanics
 
@@ -91,7 +91,7 @@ Post-2015 (the SNB-floor-removal episode forced major write-downs across PBs), t
 1. Upgrade their balance sheet and risk-controls to retain PB access; or
 2. Move to a prime-of-prime (PoP) arrangement where a mid-tier broker acts as PB intermediary for smaller venues.
 
-Japanese megabanks (notably [[JapanFG/mufg-bank|MUFG Bank]], [[JapanFG/sumitomo-mitsui-banking-corp|Sumitomo Mitsui Banking Corp]], and [[JapanFG/mizuho-bank|Mizuho Bank]]) operate FX PB services primarily for institutional and corporate clients rather than for retail FX brokers; retail broker PB sourcing is usually international.
+Japanese megabanks (notably [[megabanks/mufg-bank|MUFG Bank]], [[megabanks/sumitomo-mitsui-banking-corp|Sumitomo Mitsui Banking Corp]], and [[megabanks/mizuho-bank|Mizuho Bank]]) operate FX PB services primarily for institutional and corporate clients rather than for retail FX brokers; retail broker PB sourcing is usually international.
 
 ### Prime-of-prime model
 
@@ -105,12 +105,12 @@ The specific connectivity stack of a Japanese retail FX broker is partially publ
 
 | Broker | Likely architecture |
 |---|---|
-| [[JapanFG/gmo-click-securities|GMO Click Securities]] | Proprietary platform; substantial internal liquidity from internalization; selective STP for institutional / high-volume clients. |
-| [[JapanFG/sbi-fx-trade|SBI FX Trade]] | Aggregated multi-bank liquidity; tight-spread positioning. |
-| [[JapanFG/dmm-com-securities|DMM.com Securities (DMM FX)]] | Hybrid model; significant internalization of retail flow. |
+| [[securities-firms/gmo-click-securities|GMO Click Securities]] | Proprietary platform; substantial internal liquidity from internalization; selective STP for institutional / high-volume clients. |
+| [[securities-firms/sbi-fx-trade|SBI FX Trade]] | Aggregated multi-bank liquidity; tight-spread positioning. |
+| [[securities-firms/dmm-com-securities|DMM.com Securities (DMM FX)]] | Hybrid model; significant internalization of retail flow. |
 | OANDA Japan | Inherits OANDA's global STP-heavy architecture; fxTrade platform. |
-| [[JapanFG/saxo-bank-securities|Saxo Bank Securities]] | Saxo's global multi-venue aggregation; institutional-grade tools. |
-| [[JapanFG/matsui-sec|Matsui FX]] | Standard retail platform; outsourced infrastructure for FX. |
+| [[securities-firms/saxo-bank-securities|Saxo Bank Securities]] | Saxo's global multi-venue aggregation; institutional-grade tools. |
+| [[securities-firms/matsui-sec|Matsui FX]] | Standard retail platform; outsourced infrastructure for FX. |
 
 The exact A-book / B-book mix at each broker is rarely disclosed. FFAJ self-regulatory rules require certain conflict-of-interest disclosures but stop short of mandating full A-book / B-book reporting.
 
@@ -211,14 +211,14 @@ The risk-management function at a Japan retail FX broker is materially more soph
 - [[derivatives/jgb-futures-curve]]
 - [[money-market/japan-money-market]]
 - [[money-market/INDEX]]
-- [[JapanFG/gmo-click-securities]]
-- [[JapanFG/sbi-fx-trade]]
-- [[JapanFG/dmm-com-securities]]
-- [[JapanFG/matsui-sec]]
-- [[JapanFG/saxo-bank-securities]]
-- [[JapanFG/mufg-bank]]
-- [[JapanFG/sumitomo-mitsui-banking-corp]]
-- [[JapanFG/mizuho-bank]]
+- [[securities-firms/gmo-click-securities]]
+- [[securities-firms/sbi-fx-trade]]
+- [[securities-firms/dmm-com-securities]]
+- [[securities-firms/matsui-sec]]
+- [[securities-firms/saxo-bank-securities]]
+- [[megabanks/mufg-bank]]
+- [[megabanks/sumitomo-mitsui-banking-corp]]
+- [[megabanks/mizuho-bank]]
 
 ## Sources
 

@@ -1,0 +1,87 @@
+{
+  "schema_version": "1.0",
+  "slug": "non-life-insurers/ntt-docomo-sonpo",
+  "source_path": "non-life-insurers/ntt-docomo-sonpo.md",
+  "url": "https://finwiki.zksc.io/non-life-insurers/ntt-docomo-sonpo",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/non-life-insurers/ntt-docomo-sonpo.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/non-life-insurers/ntt-docomo-sonpo.md",
+  "domain": "non-life-insurers",
+  "title": "NTTドコモ損害保険",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "NTTドコモ損害保険",
+    "aliases": [
+      "NTT Docomo General Insurance",
+      "NTTドコモ損保",
+      "ドコモ損害保険",
+      "株式会社NTTドコモ損害保険"
+    ],
+    "domain": "non-life-insurers",
+    "created": "2026-05-22",
+    "last_updated": "2026-05-22",
+    "last_tended": "2026-05-22",
+    "review_by": "2026-11-22",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "insurance",
+      "non-life-insurance",
+      "ntt-docomo",
+      "reinsurance",
+      "operating-company"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/menkyo/menkyoj/songai.pdf",
+      "https://www.docomo-sompo.com/company/profile/",
+      "https://www.docomo.ne.jp/info/news_release/2023/10/06_00.html"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it with NTTドコモ損害保険ホールディングス, SOMPO, 損害保険ジャパン, ヤマップネイチャランス損害保険, and insurance index.",
+  "headings": [
+    "NTTドコモ損害保険",
+    "Wiki route",
+    "Overview",
+    "1. License / group boundary",
+    "2. Operating model",
+    "3. Strategic reading",
+    "4. Boundary notes",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 10,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "insurance/INDEX",
+      "megabanks/ndfg",
+      "non-life-insurers/au-insurance",
+      "non-life-insurers/ntt-docomo-sompo-hd",
+      "non-life-insurers/sompo",
+      "non-life-insurers/sompo-direct",
+      "non-life-insurers/sompo-japan-insurance",
+      "non-life-insurers/sony-insurance",
+      "non-life-insurers/yamap-naturance-insurance"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/insurance/INDEX",
+      "https://finwiki.zksc.io/megabanks/ndfg",
+      "https://finwiki.zksc.io/non-life-insurers/au-insurance",
+      "https://finwiki.zksc.io/non-life-insurers/ntt-docomo-sompo-hd",
+      "https://finwiki.zksc.io/non-life-insurers/sompo",
+      "https://finwiki.zksc.io/non-life-insurers/sompo-direct",
+      "https://finwiki.zksc.io/non-life-insurers/sompo-japan-insurance",
+      "https://finwiki.zksc.io/non-life-insurers/sony-insurance",
+      "https://finwiki.zksc.io/non-life-insurers/yamap-naturance-insurance"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3721,
+    "word_like_tokens": 611,
+    "inbound_wikilinks_count": 4,
+    "last_modified": "2026-06-04"
+  }
+}

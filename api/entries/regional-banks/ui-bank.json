@@ -1,0 +1,79 @@
+{
+  "schema_version": "1.0",
+  "slug": "regional-banks/ui-bank",
+  "source_path": "regional-banks/ui-bank.md",
+  "url": "https://finwiki.zksc.io/regional-banks/ui-bank",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/regional-banks/ui-bank.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/regional-banks/ui-bank.md",
+  "domain": "regional-banks",
+  "title": "UI銀行 (UI Bank)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "UI銀行 (UI Bank)",
+    "aliases": [
+      "UI Bank",
+      "UI銀行",
+      "株式会社UI銀行",
+      "株式会社ＵＩ銀行"
+    ],
+    "domain": "regional-banks",
+    "created": "2026-05-20",
+    "last_updated": "2026-05-20",
+    "last_tended": "2026-05-20",
+    "review_by": "2026-11-20",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "bank",
+      "digital-bank",
+      "regional-bank",
+      "operating-company"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
+      "https://www.uibank.co.jp/info/",
+      "https://www.tokyo-kiraboshifg.co.jp/"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 埼玉りそな銀行 (Saitama Resona Bank) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "UI銀行 (UI Bank)",
+    "Wiki route",
+    "TL;DR",
+    "1. 法人・ライセンス境界",
+    "2. Business role",
+    "3. Why standalone page matters",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 7,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "banking/INDEX",
+      "banking/baas-japan-landscape",
+      "banking/minna-bank-baas-model",
+      "megabanks/saitama-resona-bank",
+      "regional-banks/01-bank",
+      "regional-banks/kiraboshi-fg"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/banking/baas-japan-landscape",
+      "https://finwiki.zksc.io/banking/minna-bank-baas-model",
+      "https://finwiki.zksc.io/megabanks/saitama-resona-bank",
+      "https://finwiki.zksc.io/regional-banks/01-bank",
+      "https://finwiki.zksc.io/regional-banks/kiraboshi-fg"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 1554,
+    "word_like_tokens": 251,
+    "inbound_wikilinks_count": 5,
+    "last_modified": "2026-06-04"
+  }
+}

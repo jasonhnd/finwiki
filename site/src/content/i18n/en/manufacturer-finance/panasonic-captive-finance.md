@@ -12,7 +12,7 @@ translated_at: 2026-05-30T15:31:43.928Z
 
 ## Wiki route
 
-This entry sits under [[manufacturer-finance/INDEX|manufacturing index]]. Read it against [[manufacturer-finance/hitachi-industrial-finance-platform|Hitachi Industrial Finance]], [[manufacturer-finance/sony-group-finance-arm|Sony FG]], [[manufacturer-finance/mitsubishi-heavy-export-finance|MHI Export Finance]], and [[manufacturer-finance/toyota-financial-services|Toyota Financial Services]] for peer industrial-conglomerate finance arms. Pair with [[JapanFG/smfl|SMFL (Sumitomo Mitsui Finance and Leasing)]] and [[JapanFG/mufg|MUFG]] for the bank-side counterpart of Panasonic's B2B vendor-finance flows, [[JapanFG/INDEX|JapanFG index]] for the broader regulatory boundary.
+This entry sits under [[manufacturer-finance/INDEX|manufacturing index]]. Read it against [[manufacturer-finance/hitachi-industrial-finance-platform|Hitachi Industrial Finance]], [[manufacturer-finance/sony-group-finance-arm|Sony FG]], [[manufacturer-finance/mitsubishi-heavy-export-finance|MHI Export Finance]], and [[manufacturer-finance/toyota-financial-services|Toyota Financial Services]] for peer industrial-conglomerate finance arms. Pair with [[leasing-firms/smfl|SMFL (Sumitomo Mitsui Finance and Leasing)]] and [[megabanks/mufg|MUFG]] for the bank-side counterpart of Panasonic's B2B vendor-finance flows, [[JapanFG/INDEX|JapanFG index]] for the broader regulatory boundary.
 
 ## TL;DR
 
@@ -30,7 +30,7 @@ Panasonic Holdings (6752) is a diversified electrical / battery maker holding ho
 | Consolidated operating profit | approx. ¥380bn scale (FY2024) |
 | Shift to holding-company structure | 2022-04-01 (reorganizing the entire Panasonic Group into an 8  operating-company structure) |
 | Main captive finance | **parent-level direct holdings are limited** (the former Panasonic Finance has been downsized) |
-| Main finance alliance | [[JapanFG/smfl|SMFL]] / [[JapanFG/mitsubishi-hc-capital|Mitsubishi HC Capital]] / [[JapanFG/mufg|MUFG]] / [[JapanFG/smfg|SMFG]] |
+| Main finance alliance | [[leasing-firms/smfl|SMFL]] / [[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]] / [[megabanks/mufg|MUFG]] / [[megabanks/smfg|SMFG]] |
 
 ### Position of the finance function (after the 2022  shift to a holding-company structure)
 
@@ -57,14 +57,14 @@ The former "Panasonic Finance Co., Ltd." transferred some corporate-card functio
 | Business line | Main customer-finance structuring | Partner finance |
 |---|---|---|
 | Lifestyle Appliances (white goods) | credit via mass retailers (Orico, Jaccs, etc.) | mass-retailer collaboration; parent involvement limited |
-| Air Quality & Air-Conditioning (HVAC B2B) | leasing, subscription | [[JapanFG/smfl|SMFL]] / [[JapanFG/mitsubishi-hc-capital|Mitsubishi HC Capital]] |
+| Air Quality & Air-Conditioning (HVAC B2B) | leasing, subscription | [[leasing-firms/smfl|SMFL]] / [[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]] |
 | Automotive Systems | components for automotive OEMs (vendor financing) | connection to OEM-affiliated captives (Toyota Industries, etc.) |
 | Panasonic Energy (automotive batteries) | EV-battery JVs (Tesla, Mazda, Subaru) | per-JV capex finance, bank syndicate + JBIC |
 | Panasonic Connect (Blue Yonder, industrial) | SaaS subscription, IT-equipment leasing | bank-affiliated leasing + SaaS billing |
 | Housing Solutions | mortgage brokerage, renovation loans | bank / credit-company partnership |
 | Industry (6786) | B2B component vendor financing | separately listed, independent IR |
 
-For EV batteries, it has continued supplying 1810 / 21700  cells to the **Tesla Gigafactory 1  (Nevada)** since 2014 , and is advancing capacity-expansion investment for Tesla 4680  cells, including in the US (Kansas plant). Joint-venture-level finance is structured with a combination of a bank syndicate + [[JapanFG/jbic|JBIC]] (overseas capex) + US IRA subsidies (Section 45X manufacturing tax credit).
+For EV batteries, it has continued supplying 1810 / 21700  cells to the **Tesla Gigafactory 1  (Nevada)** since 2014 , and is advancing capacity-expansion investment for Tesla 4680  cells, including in the US (Kansas plant). Joint-venture-level finance is structured with a combination of a bank syndicate + [[financial-regulators/jbic|JBIC]] (overseas capex) + US IRA subsidies (Section 45X manufacturing tax credit).
 
 ## 3. KPI (FY2024  consolidated)
 
@@ -94,14 +94,14 @@ For EV batteries, it has continued supplying 1810 / 21700  cells to the **Tesla 
 
 - As a listed company, subject to disclosure under the TSE, FIEA, Companies Act, and IFRS.
 - Automotive batteries are strongly affected by the US IRA (Inflation Reduction Act) Section 45X manufacturing tax credit, the European Battery Regulation, and Japan's GX (decarbonization) investment-promotion measures.
-- In large overseas capex, there are deals using [[JapanFG/jbic|JBIC]] co-financing and [[policy-finance/nexi|NEXI]] coverage.
+- In large overseas capex, there are deals using [[financial-regulators/jbic|JBIC]] co-financing and [[policy-finance/nexi|NEXI]] coverage.
 - The housing business had an integration with Toyota Housing (Prime Life Technologies), but subsequent structural changes have continued.
 - The downsizing of the former Panasonic Finance is an example of a "choice not to insist on direct finance" weighed against the compliance costs of the Money Lending Business Act and the Installment Sales Act.
 
 ## Related
 
-- [[JapanFG/smfl|SMFL]] · [[JapanFG/mitsubishi-hc-capital|Mitsubishi HC Capital]] · [[JapanFG/orix-corp|ORIX]] · [[JapanFG/mufg|MUFG]] · [[JapanFG/smfg|SMFG]]
-- [[JapanFG/jbic|JBIC]] · [[policy-finance/nexi|NEXI]]
+- [[leasing-firms/smfl|SMFL]] · [[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]] · [[leasing-firms/orix-corp|ORIX]] · [[megabanks/mufg|MUFG]] · [[megabanks/smfg|SMFG]]
+- [[financial-regulators/jbic|JBIC]] · [[policy-finance/nexi|NEXI]]
 - [[manufacturer-finance/hitachi-industrial-finance-platform|Hitachi Industrial Finance]] · [[manufacturer-finance/sony-group-finance-arm|Sony FG]] · [[manufacturer-finance/toyota-financial-services|Toyota Financial Services]] · [[manufacturer-finance/mitsubishi-heavy-export-finance|MHI Export Finance]]
 - [[manufacturer-finance/toyota-motor|Toyota Motor]] · [[manufacturer-finance/seiko-epson|Seiko Epson]]
 - [[manufacturer-finance/INDEX|manufacturing INDEX]] · [[JapanFG/INDEX|JapanFG INDEX]] · [[INDEX|FinWiki index]]

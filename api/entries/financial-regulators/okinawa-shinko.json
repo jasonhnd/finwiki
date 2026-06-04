@@ -1,0 +1,85 @@
+{
+  "schema_version": "1.0",
+  "slug": "financial-regulators/okinawa-shinko",
+  "source_path": "financial-regulators/okinawa-shinko.md",
+  "url": "https://finwiki.zksc.io/financial-regulators/okinawa-shinko",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/financial-regulators/okinawa-shinko.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/financial-regulators/okinawa-shinko.md",
+  "domain": "financial-regulators",
+  "title": "沖縄振興開発金融公庫 (ODFC)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "沖縄振興開発金融公庫 (ODFC)",
+    "aliases": [
+      "ODFC",
+      "Okinawa Development Finance Corporation",
+      "沖縄振興開発金融公庫",
+      "沖縄公庫",
+      "沖縄振開金"
+    ],
+    "domain": "financial-regulators",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "policy-finance",
+      "okinawa"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: 沖縄振興開発金融公庫 (2026-05-19 抽出)",
+      "沖縄振興開発金融公庫法 (昭和 47 年法律第 31 号)",
+      "沖縄振興特別措置法 (平成 14 年法律第 14 号)",
+      "ODFC 公式サイト (https://www.okinawakouko.go.jp/)"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 日本政策金融公庫 (JFC) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "沖縄振興開発金融公庫 (ODFC)",
+    "Wiki route",
+    "TL;DR",
+    "1. 会社概要",
+    "設立背景 ^[extracted]",
+    "ガバナンス・機関設計",
+    "事業部門（県内完結型・一機関統合）",
+    "重要年表 ^[extracted]",
+    "2. 事業セグメント・マップ",
+    "県内完結型の特殊性"
+  ],
+  "body_links": {
+    "wikilinks_count": 9,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "banking/INDEX",
+      "dbj",
+      "financial-regulators/jfc",
+      "jbic",
+      "jfc",
+      "okinawa-fg",
+      "ryukyu-bank",
+      "shoko-chukin"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/dbj",
+      "https://finwiki.zksc.io/financial-regulators/jfc",
+      "https://finwiki.zksc.io/jbic",
+      "https://finwiki.zksc.io/jfc",
+      "https://finwiki.zksc.io/okinawa-fg",
+      "https://finwiki.zksc.io/ryukyu-bank",
+      "https://finwiki.zksc.io/shoko-chukin"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 5668,
+    "word_like_tokens": 759,
+    "inbound_wikilinks_count": 5,
+    "last_modified": "2026-06-04"
+  }
+}

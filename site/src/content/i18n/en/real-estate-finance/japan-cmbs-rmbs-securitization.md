@@ -11,7 +11,7 @@ translated_at: 2026-06-01T03:31:12.255Z
 
 ## TL;DR
 
-Japan's mortgage-backed securitization market splits cleanly into two strands. RMBS (residential mortgage-backed securities) is dominated by [[policy-finance/japan-housing-finance-agency|Japan Housing Finance Agency (JHF)]] monthly Monthly Pass-Through MBS issuance backed by Flat 35 fixed-rate housing loans originated through private bank channels, plus a smaller private RMBS strand from megabank and trust-bank originators. CMBS (commercial mortgage-backed securities) is structurally smaller and more cyclical — single-borrower CMBS dominates the post-2008 market, with conduit CMBS effectively dormant after the 2008-2010 distress cycle in which non-recourse CMBS loans on Japanese real estate suffered material writedowns. The arranger franchise is concentrated among megabank securities subsidiaries, the trust-bank securitization arms of [[JapanFG/mitsubishi-ufj-trust-bank|MUFG Trust]], [[JapanFG/sumitomo-mitsui-trust|SMTB]], and [[JapanFG/mizuho-trust-bank|Mizuho Trust]], plus foreign-house residual presence. Rating coverage is dominated by domestic agencies [[JapanFG/jcr|JCR]] and [[JapanFG/rating-and-investment|R&I]], with [[JapanFG/sp-global-ratings-japan|S&P]] and [[JapanFG/moodys-japan|Moody's]] supplying the cross-border-investor-required global-scale ratings on the senior tranches.
+Japan's mortgage-backed securitization market splits cleanly into two strands. RMBS (residential mortgage-backed securities) is dominated by [[policy-finance/japan-housing-finance-agency|Japan Housing Finance Agency (JHF)]] monthly Monthly Pass-Through MBS issuance backed by Flat 35 fixed-rate housing loans originated through private bank channels, plus a smaller private RMBS strand from megabank and trust-bank originators. CMBS (commercial mortgage-backed securities) is structurally smaller and more cyclical — single-borrower CMBS dominates the post-2008 market, with conduit CMBS effectively dormant after the 2008-2010 distress cycle in which non-recourse CMBS loans on Japanese real estate suffered material writedowns. The arranger franchise is concentrated among megabank securities subsidiaries, the trust-bank securitization arms of [[trust-banks/mitsubishi-ufj-trust-bank|MUFG Trust]], [[trust-banks/sumitomo-mitsui-trust|SMTB]], and [[trust-banks/mizuho-trust-bank|Mizuho Trust]], plus foreign-house residual presence. Rating coverage is dominated by domestic agencies [[financial-regulators/jcr|JCR]] and [[financial-regulators/rating-and-investment|R&I]], with [[JapanFG/sp-global-ratings-japan|S&P]] and [[JapanFG/moodys-japan|Moody's]] supplying the cross-border-investor-required global-scale ratings on the senior tranches.
 
 ## Wiki route
 
@@ -49,7 +49,7 @@ Private RMBS issuance comes from megabank and trust-bank originators securitizin
 
 - Senior / mezzanine / subordinated tranching with originator typically retaining a vertical or horizontal slice for risk-retention purposes.
 - Pool typically a static or near-static portfolio of seasoned housing loans.
-- Senior tranche rated investment-grade by [[JapanFG/jcr|JCR]] and [[JapanFG/rating-and-investment|R&I]] with [[JapanFG/sp-global-ratings-japan|S&P]] or [[JapanFG/moodys-japan|Moody's]] cross-border-investor ratings on the AAA tranche.
+- Senior tranche rated investment-grade by [[financial-regulators/jcr|JCR]] and [[financial-regulators/rating-and-investment|R&I]] with [[JapanFG/sp-global-ratings-japan|S&P]] or [[JapanFG/moodys-japan|Moody's]] cross-border-investor ratings on the AAA tranche.
 - Pool factor amortization tracks scheduled amortization plus modest prepayment.
 
 ### Rating-agency criteria for RMBS
@@ -60,7 +60,7 @@ Private RMBS issuance comes from megabank and trust-bank originators securitizin
 | LTV at origination | Lower LTV → more equity buffer → lower expected loss given default |
 | DTI | Income-to-debt → ability-to-pay metric |
 | Geographic concentration | Tokyo / Osaka concentration vs regional dispersion |
-| Originator quality | Megabank / [[JapanFG/japan-post-bank|Japan Post Bank]] / regional bank vs non-bank originator |
+| Originator quality | Megabank / [[regional-banks/japan-post-bank|Japan Post Bank]] / regional bank vs non-bank originator |
 | Loan product | Flat 35 (JHF-purchased) vs ordinary bank housing loan vs Apartment-Loan (1棟アパート) |
 | Servicing | Master-servicer / back-up-servicer setup |
 | Macro overlay | Unemployment, household-income, housing-price scenarios |
@@ -76,7 +76,7 @@ Post-2008, the conduit-CMBS model effectively withdrew from Japan and was replac
 | Securitization | Loan transferred to issuing SPV trust; CMBS notes issued in tranches |
 | Tranches | Senior / mezzanine / subordinated, with LTV-based subordination calibration |
 | Maturity | Typically 5-7Y with refinancing risk at maturity |
-| Rating | Senior tranche IG by [[JapanFG/jcr|JCR]] and [[JapanFG/rating-and-investment|R&I]]; AAA tranche may carry [[JapanFG/sp-global-ratings-japan|S&P]] or [[JapanFG/moodys-japan|Moody's]] dual rating for cross-border investors |
+| Rating | Senior tranche IG by [[financial-regulators/jcr|JCR]] and [[financial-regulators/rating-and-investment|R&I]]; AAA tranche may carry [[JapanFG/sp-global-ratings-japan|S&P]] or [[JapanFG/moodys-japan|Moody's]] dual rating for cross-border investors |
 | Property types | Office (Tokyo grade-A), logistics, hotel, retail, residential apartment-block; rarely development-risk assets |
 | Trustee | Trust-bank trustee for the issuing SPV |
 
@@ -125,13 +125,13 @@ The arranger / dealer franchise in JP CMBS / private RMBS is concentrated:
 
 | Dealer | Franchise reading |
 |---|---|
-| [[JapanFG/mufg-morgan-stanley-securities|Mitsubishi UFJ Morgan Stanley Securities]] | MUFG-side; deep trust-bank linkage via [[JapanFG/mitsubishi-ufj-trust-bank|MUFG Trust]] |
-| [[JapanFG/smbc-nikko-securities|SMBC Nikko Securities]] | SMBC-side; linkage with [[JapanFG/sumitomo-mitsui-trust|SMTB]] is across-group rather than within-group |
-| [[JapanFG/mizuho-securities|Mizuho Securities]] | Mizuho-side; deep trust-bank linkage via [[JapanFG/mizuho-trust-bank|Mizuho Trust]] |
+| [[securities-firms/mufg-morgan-stanley-securities|Mitsubishi UFJ Morgan Stanley Securities]] | MUFG-side; deep trust-bank linkage via [[trust-banks/mitsubishi-ufj-trust-bank|MUFG Trust]] |
+| [[securities-firms/smbc-nikko-securities|SMBC Nikko Securities]] | SMBC-side; linkage with [[trust-banks/sumitomo-mitsui-trust|SMTB]] is across-group rather than within-group |
+| [[securities-firms/mizuho-securities|Mizuho Securities]] | Mizuho-side; deep trust-bank linkage via [[trust-banks/mizuho-trust-bank|Mizuho Trust]] |
 
 ### Trust-bank trusteeship economics
 
-The trust-bank trusteeship layer is structurally important because Japanese securitization SPVs typically use 信託受益権 (beneficial-trust-interest) rather than direct loan-asset transfer to the issuing SPV. The trust-bank holds the underlying asset (the loan or the property) under a 信託契約, and the beneficial interest is what gets transferred and tranched. This is one of the reasons the trust-bank franchise in JP CMBS / RMBS sits with the megabank-group trust banks rather than with custody-only trust banks like [[JapanFG/master-trust-bank|MTBJ]] or [[JapanFG/custody-bank|CBJ]] — securitization trusteeship is fee-bearing front-office work, not asset-administration utility work. See [[banking/trust-bank-custody-operating-comparison|trust-bank custody operating comparison]] for the operating split.
+The trust-bank trusteeship layer is structurally important because Japanese securitization SPVs typically use 信託受益権 (beneficial-trust-interest) rather than direct loan-asset transfer to the issuing SPV. The trust-bank holds the underlying asset (the loan or the property) under a 信託契約, and the beneficial interest is what gets transferred and tranched. This is one of the reasons the trust-bank franchise in JP CMBS / RMBS sits with the megabank-group trust banks rather than with custody-only trust banks like [[trust-banks/master-trust-bank|MTBJ]] or [[trust-banks/custody-bank|CBJ]] — securitization trusteeship is fee-bearing front-office work, not asset-administration utility work. See [[banking/trust-bank-custody-operating-comparison|trust-bank custody operating comparison]] for the operating split.
 
 ## 5. Rating-agency landscape
 
@@ -186,11 +186,11 @@ The trust-bank trusteeship layer is structurally important because Japanese secu
 - [[banking/INDEX]]
 - [[insurance/japan-life-insurance-alm-overview]]
 - [[insurance/INDEX]]
-- [[JapanFG/mitsubishi-ufj-trust-bank]]
-- [[JapanFG/sumitomo-mitsui-trust]]
-- [[JapanFG/mizuho-trust-bank]]
-- [[JapanFG/jcr]]
-- [[JapanFG/rating-and-investment]]
+- [[trust-banks/mitsubishi-ufj-trust-bank]]
+- [[trust-banks/sumitomo-mitsui-trust]]
+- [[trust-banks/mizuho-trust-bank]]
+- [[financial-regulators/jcr]]
+- [[financial-regulators/rating-and-investment]]
 - [[JapanFG/sp-global-ratings-japan]]
 - [[JapanFG/moodys-japan]]
 - [[securities/japan-securities-depository-center]]

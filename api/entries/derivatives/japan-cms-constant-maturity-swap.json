@@ -62,7 +62,6 @@
     "wikilinks_count": 18,
     "wikilinks": [
       "INDEX",
-      "JapanFG/mufg-bank",
       "banking/INDEX",
       "derivatives/INDEX",
       "derivatives/dealer-bank-derivatives-revenue-mix",
@@ -74,6 +73,7 @@
       "derivatives/structured-bond-japan-retail-issuance",
       "derivatives/structured-product-eb-knockin-japan-retail",
       "insurance/japan-life-insurance-alm-overview",
+      "megabanks/mufg-bank",
       "money-market/INDEX",
       "money-market/japan-money-market",
       "securities/INDEX",
@@ -82,7 +82,6 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/mufg-bank",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/derivatives/INDEX",
       "https://finwiki.zksc.io/derivatives/dealer-bank-derivatives-revenue-mix",
@@ -94,6 +93,7 @@
       "https://finwiki.zksc.io/derivatives/structured-bond-japan-retail-issuance",
       "https://finwiki.zksc.io/derivatives/structured-product-eb-knockin-japan-retail",
       "https://finwiki.zksc.io/insurance/japan-life-insurance-alm-overview",
+      "https://finwiki.zksc.io/megabanks/mufg-bank",
       "https://finwiki.zksc.io/money-market/INDEX",
       "https://finwiki.zksc.io/money-market/japan-money-market",
       "https://finwiki.zksc.io/securities/INDEX",
@@ -104,9 +104,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 9266,
+    "nonspace_chars": 9268,
     "word_like_tokens": 1616,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-04"
   }
 }

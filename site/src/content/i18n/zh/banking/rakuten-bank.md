@@ -22,7 +22,7 @@ This entry sits under [[banking/INDEX|banking index]]. Read it against [[banking
 
 - **Banking model**：不以门店为前提，而是以在线账户、借记卡、账户划扣、证券联动为主导流的网络银行。
 - **Ecosystem hook**：与乐天证券的 Money Bridge、乐天市场的积分举措、与乐天 Pay 的账户联动，推升了存款获取和日常使用。
-- **Competitive set**：[[banking/paypay-bank|PayPay Bank]]、[[banking/au-jibun-bank|auじぶん銀行]]、[[JapanFG/ssnb|住信 SBI ネット銀行]]、[[JapanFG/gmo-aozora-net|GMO あおぞらネット銀行]]。
+- **Competitive set**：[[banking/paypay-bank|PayPay Bank]]、[[banking/au-jibun-bank|auじぶん銀行]]、[[regional-banks/ssnb|住信 SBI ネット銀行]]、[[payment-firms/gmo-aozora-net|GMO あおぞらネット銀行]]。
 
 ## Strategic read
 
@@ -32,11 +32,11 @@ This entry sits under [[banking/INDEX|banking index]]. Read it against [[banking
 
 ## Related
 
-- [[JapanFG/rakuten-fg]]
+- [[payment-firms/rakuten-fg]]
 - [[banking/paypay-bank]]
 - [[banking/au-jibun-bank]]
-- [[JapanFG/ssnb]]
-- [[JapanFG/gmo-aozora-net]]
+- [[regional-banks/ssnb]]
+- [[payment-firms/gmo-aozora-net]]
 - [[banking/minna-bank-baas-model]]
 
 ## Sources

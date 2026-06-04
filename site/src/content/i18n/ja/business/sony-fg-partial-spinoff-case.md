@@ -12,7 +12,7 @@ translated_at: 2026-06-02T11:47:37.304Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[business/INDEX|business INDEX]] の下に上場企業の戦略的事例として位置する。同種の日本大型上場企業の再編としての [[business/softbank-vision-fund-arm-ipo-template|SoftBank/Arm IPO template]] および [[business/jpx-public-company-as-market-infrastructure|JPX listed exchange case]] と、税制の仕組みについての [[corporate-strategy/partial-spinoff-tax-deferral|partial spinoff tax deferral]] と、事業体プロフィールについての [[JapanFG/sony-fg|Sony FG]] と、より広範な会社分割の法的なプランビングについての [[corporate-strategy/japan-kaisha-bunkatsu-tax-regime|会社分割 tax regime]] と対照して参照のこと。また、資本市場の文脈については [[corporate-strategy/INDEX|corporate-strategy INDEX]] および [[finance/INDEX|finance INDEX]] とあわせて参照のこと。
+この項目は [[business/INDEX|business INDEX]] の下に上場企業の戦略的事例として位置する。同種の日本大型上場企業の再編としての [[business/softbank-vision-fund-arm-ipo-template|SoftBank/Arm IPO template]] および [[business/jpx-public-company-as-market-infrastructure|JPX listed exchange case]] と、税制の仕組みについての [[corporate-strategy/partial-spinoff-tax-deferral|partial spinoff tax deferral]] と、事業体プロフィールについての [[megabanks/sony-fg|Sony FG]] と、より広範な会社分割の法的なプランビングについての [[corporate-strategy/japan-kaisha-bunkatsu-tax-regime|会社分割 tax regime]] と対照して参照のこと。また、資本市場の文脈については [[corporate-strategy/INDEX|corporate-strategy INDEX]] および [[finance/INDEX|finance INDEX]] とあわせて参照のこと。
 
 ## 要約
 
@@ -65,7 +65,7 @@ translated_at: 2026-06-02T11:47:37.304Z
 
 **ソニーグループ** にとって:売却後はピュアプレイのエンターテインメント / 半導体 / イメージングのコングロマリットとなる;メディアテックの倍率とは異なる金融サービスの評価倍率に起因する [[finance/japan-listed-financial-groups-investable-universe|conglomerate-discount drag]] を低減する;資本配分がゲーム / 音楽 / イメージセンサーの優先事項に向けて解放される。
 
-**ソニーフィナンシャルグループ** にとって:独立した経営の自律性、独自の M&A 通貨(自社株)、採用の柔軟性、パーソナルファイナンス市場で [[JapanFG/mufg|MUFG]] / [[JapanFG/smfg|SMFG]] / [[JapanFG/sbi-hd|SBI HD]] / [[JapanFG/paypay-fg|PayPay FG]] とより直接的に競争する能力。
+**ソニーフィナンシャルグループ** にとって:独立した経営の自律性、独自の M&A 通貨(自社株)、採用の柔軟性、パーソナルファイナンス市場で [[megabanks/mufg|MUFG]] / [[megabanks/smfg|SMFG]] / [[megabanks/sbi-hd|SBI HD]] / [[megabanks/paypay-fg|PayPay FG]] とより直接的に競争する能力。
 
 **株主** にとって:即時の課税認識がない(制度適格の繰延);一つに対して二つの上場証券を受け取る;保有またはリバランスを選択できる。
 
@@ -107,7 +107,7 @@ translated_at: 2026-06-02T11:47:37.304Z
 
 - ソニーグループの 20% 未満の残存持分は時とともにさらに希薄化し、最終的にゼロに達するのか?
 - SFG は新たに利用可能になった通貨としての自社株を用いて、他の地域的 / ニッチな日本の金融プレイヤーを統合するのか?
-- [[JapanFG/sony-bank|Sony Bank]] / [[JapanFG/sony-life|Sony Life]] / [[JapanFG/sony-insurance|Sony Insurance]] のクロスセルの経済性は親会社の分離によってどう変わるのか?
+- [[regional-banks/sony-bank|Sony Bank]] / [[life-insurers/sony-life|Sony Life]] / [[non-life-insurers/sony-insurance|Sony Insurance]] のクロスセルの経済性は親会社の分離によってどう変わるのか?
 - ソニーの先例はトヨタファイナンシャルサービス、日産 / ルノーの金融部門、あるいは三菱グループの金融から同様のディールを解き放つのか?
 - FSA は独立したソニー FG に対するスピンオフ後の資本充実度の監督をどう扱うのか?
 
@@ -117,10 +117,10 @@ translated_at: 2026-06-02T11:47:37.304Z
 - [[corporate-strategy/japan-kaisha-bunkatsu-tax-regime|会社分割 tax regime]]
 - [[corporate-strategy/spinoff-decision-tree-japan|spinoff decision tree Japan]]
 - [[corporate-strategy/kabushiki-koufu-stock-distribution-regime|株式交付 stock-distribution regime]]
-- [[JapanFG/sony-fg|Sony Financial Group entity]]
-- [[JapanFG/sony-bank|Sony Bank]]
-- [[JapanFG/sony-life|Sony Life]]
-- [[JapanFG/sony-insurance|Sony Insurance]]
+- [[megabanks/sony-fg|Sony Financial Group entity]]
+- [[regional-banks/sony-bank|Sony Bank]]
+- [[life-insurers/sony-life|Sony Life]]
+- [[non-life-insurers/sony-insurance|Sony Insurance]]
 - [[finance/japan-mbo-and-squeeze-out-process|Japan MBO / squeeze-out process]]
 - [[finance/japan-tender-offer-process|Japan tender offer process]]
 - [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]]

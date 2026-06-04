@@ -25,11 +25,11 @@ This entry sits under [[insurance/INDEX|insurance index]] as the system overview
 
 | Sub-segment | Examples | Anchor |
 |---|---|---|
-| Big-four life (mutual / stock) | [[JapanFG/nippon-life|Nippon Life]] (mutual), [[JapanFG/dai-ichi-life|Dai-ichi Life]] (stock), [[JapanFG/sumitomo-life|Sumitomo Life]] (mutual), Meiji Yasuda Life (mutual) | [[insurance/japan-life-insurance-big-four]], [[insurance/japan-life-big-four-overlay-comparison-matrix]] |
-| Postal-system life | [[JapanFG/kampo-life|Kampo Life (Japan Post Insurance)]] | [[insurance/kampo-japan-post-insurance]] |
+| Big-four life (mutual / stock) | [[life-insurers/nippon-life|Nippon Life]] (mutual), [[life-insurers/dai-ichi-life|Dai-ichi Life]] (stock), [[life-insurers/sumitomo-life|Sumitomo Life]] (mutual), Meiji Yasuda Life (mutual) | [[insurance/japan-life-insurance-big-four]], [[insurance/japan-life-big-four-overlay-comparison-matrix]] |
+| Postal-system life | [[life-insurers/kampo-life|Kampo Life (Japan Post Insurance)]] | [[insurance/kampo-japan-post-insurance]] |
 | Online direct life | Lifenet Life (Lifenet Insurance) | [[insurance/internet-life-insurance-business-model]] |
-| Group / specialty life | [[JapanFG/sony-life|Sony Life]], SBI Life, Rakuten Life, Daido Life, Taiyo Life, Dai-ichi Frontier | [[insurance/sony-life-group-life-operating-model]] |
-| Foreign-affiliated life | [[JapanFG/aflac-japan|Aflac]], [[JapanFG/aia-life-japan|AIA Japan]], Prudential of Japan, MetLife Japan, AXA Japan, Manulife Japan | [[insurance/foreign-life-affiliate-japan-positioning]] |
+| Group / specialty life | [[life-insurers/sony-life|Sony Life]], SBI Life, Rakuten Life, Daido Life, Taiyo Life, Dai-ichi Frontier | [[insurance/sony-life-group-life-operating-model]] |
+| Foreign-affiliated life | [[life-insurers/aflac-japan|Aflac]], [[life-insurers/aia-life-japan|AIA Japan]], Prudential of Japan, MetLife Japan, AXA Japan, Manulife Japan | [[insurance/foreign-life-affiliate-japan-positioning]] |
 | Banking-affiliated / subsidiary life | Cardif Life, TD Financial Life, Credit Agricole Life | [[insurance/foreign-life-affiliate-japan-positioning]] |
 
 Life-insurance distribution mix: agency-based (sales force / consultant), bancassurance (bank counter), online direct, embedded / group channel.
@@ -38,11 +38,11 @@ Life-insurance distribution mix: agency-based (sales force / consultant), bancas
 
 | Sub-segment | Examples | Anchor |
 |---|---|---|
-| Big-three non-life groups | [[JapanFG/tokio-marine|Tokio Marine HD]] / Tokio Marine & Nichido Fire, [[JapanFG/msad|MS&AD]] / Mitsui Sumitomo Insurance + Aioi Nissay Dowa, [[JapanFG/sompo|SOMPO HD]] / SOMPO Japan Insurance | [[insurance/japan-nonlife-big-three]], [[insurance/japan-nonlife-big-three-reinsurance-cat-matrix]] |
+| Big-three non-life groups | [[non-life-insurers/tokio-marine|Tokio Marine HD]] / Tokio Marine & Nichido Fire, [[non-life-insurers/msad|MS&AD]] / Mitsui Sumitomo Insurance + Aioi Nissay Dowa, [[non-life-insurers/sompo|SOMPO HD]] / SOMPO Japan Insurance | [[insurance/japan-nonlife-big-three]], [[insurance/japan-nonlife-big-three-reinsurance-cat-matrix]] |
 | Direct non-life | Saison Automobile & Fire, SOMPO Direct, Sony Assurance | [[insurance/saison-automobile-fire]] |
-| Specialty non-life | Anicom (pet), au Insurance, PayPay Insurance, Rakuten Non-life | [[JapanFG/anicom-insurance]], [[JapanFG/au-insurance]] |
-| Foreign-affiliated non-life | Allianz Fire and Marine, AIG Japan, AXA Japan, Chubb Japan, Zurich Japan | [[JapanFG/aig-japan]], [[JapanFG/chubb-insurance-japan]] |
-| Marine / P&I | Marine insurance and P&I clubs serving Japanese shipping | [[insurance/marine-insurance-and-pi-cover-market]], [[JapanFG/japan-pi-club]] |
+| Specialty non-life | Anicom (pet), au Insurance, PayPay Insurance, Rakuten Non-life | [[non-life-insurers/anicom-insurance]], [[non-life-insurers/au-insurance]] |
+| Foreign-affiliated non-life | Allianz Fire and Marine, AIG Japan, AXA Japan, Chubb Japan, Zurich Japan | [[non-life-insurers/aig-japan]], [[non-life-insurers/chubb-insurance-japan]] |
+| Marine / P&I | Marine insurance and P&I clubs serving Japanese shipping | [[insurance/marine-insurance-and-pi-cover-market]], [[financial-regulators/japan-pi-club]] |
 
 Non-life lines: auto (largest by premium), fire / property, marine, personal accident, casualty, agricultural / fisheries, and specialty (pet, outdoor, telco-linked, travel, rental housing).
 
@@ -50,7 +50,7 @@ Non-life lines: auto (largest by premium), fire / property, marine, personal acc
 
 | Sub-segment | Examples | Anchor |
 |---|---|---|
-| JA-Kyosai (agricultural cooperative) | Zenkyoren (national federation) | [[insurance/ja-kyosai-zenkyoren-overview]], [[JapanFG/ja-kyosairen]] |
+| JA-Kyosai (agricultural cooperative) | Zenkyoren (national federation) | [[insurance/ja-kyosai-zenkyoren-overview]], [[non-life-insurers/ja-kyosairen]] |
 | Co-op kyosai (consumer cooperative) | Kokumin Kyosai Coop (former Zenrosai), Coop Kyosai | [[insurance/cooperative-insurance-system-japan]] |
 | Public servant kyosai | Various national / local government servant mutuals | [[insurance/cooperative-insurance-system-japan]] |
 | Professional kyosai | Various professional-association mutuals (for example teachers and medical professionals) | [[insurance/cooperative-insurance-system-japan]] |
@@ -80,7 +80,7 @@ The earthquake-insurance public-private scheme is a unique structural feature:
 | Japan Earthquake Reinsurance (JER) | Statutory monopoly reinsurer for household earthquake; reinsures all primary-insurer exposures. |
 | Government backstop | The government backs JER beyond a defined loss threshold under statute. |
 
-See [[insurance/earthquake-insurance-public-private-scheme]] and [[JapanFG/japan-earthquake-reinsurance]] for detail.
+See [[insurance/earthquake-insurance-public-private-scheme]] and [[non-life-insurers/japan-earthquake-reinsurance]] for detail.
 
 ## Regulatory Framework
 
@@ -167,15 +167,15 @@ See [[insurance/earthquake-insurance-public-private-scheme]] and [[JapanFG/japan
 - [[insurance/japan-bancassurance-distribution-overlay-matrix]]
 - [[insurance/kampo-japan-post-insurance]]
 - [[JapanFG/INDEX]]
-- [[JapanFG/nippon-life]]
-- [[JapanFG/dai-ichi-life]]
-- [[JapanFG/sumitomo-life]]
-- [[JapanFG/kampo-life]]
-- [[JapanFG/tokio-marine]]
-- [[JapanFG/msad]]
-- [[JapanFG/sompo]]
-- [[JapanFG/ja-kyosairen]]
-- [[JapanFG/japan-earthquake-reinsurance]]
+- [[life-insurers/nippon-life]]
+- [[life-insurers/dai-ichi-life]]
+- [[life-insurers/sumitomo-life]]
+- [[life-insurers/kampo-life]]
+- [[non-life-insurers/tokio-marine]]
+- [[non-life-insurers/msad]]
+- [[non-life-insurers/sompo]]
+- [[non-life-insurers/ja-kyosairen]]
+- [[non-life-insurers/japan-earthquake-reinsurance]]
 - [[derivatives/japan-interest-rate-derivatives-overview]]
 - [[INDEX|FinWiki index]]
 

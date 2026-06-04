@@ -1,0 +1,89 @@
+{
+  "schema_version": "1.0",
+  "slug": "trust-banks/master-trust-bank",
+  "source_path": "trust-banks/master-trust-bank.md",
+  "url": "https://finwiki.zksc.io/trust-banks/master-trust-bank",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/trust-banks/master-trust-bank.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/trust-banks/master-trust-bank.md",
+  "domain": "trust-banks",
+  "title": "日本マスタートラスト信託銀行",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "日本マスタートラスト信託銀行",
+    "aliases": [
+      "Master Trust Bank",
+      "MTBJ",
+      "The Master Trust Bank of Japan",
+      "日本マスタートラスト信託銀行",
+      "マスタートラスト",
+      "Master Trust",
+      "trust-banks/master-trust-bank-of-japan"
+    ],
+    "domain": "trust-banks",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "trust-banking",
+      "custody"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: 日本マスタートラスト信託銀行 (2026-05-19 抽出)",
+      "三菱 UFJ 信託銀行 開示資料 (2025)",
+      "https://www.mastertrust.co.jp/assets/pdf/financial/zm20250521.pdf",
+      "https://www.mastertrust.co.jp/company/information.html"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 日本カストディ銀行 (CBJ) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "日本マスタートラスト信託銀行",
+    "Wiki route",
+    "TL;DR",
+    "1. 会社概要",
+    "主要株主（公開資料）^[extracted]",
+    "機能ポジション",
+    "重要年表 ^[extracted]",
+    "2. 事業セグメント・マップ",
+    "業界構造 — カストディ 2 強体制",
+    "「信託口」名義の意味"
+  ],
+  "body_links": {
+    "wikilinks_count": 10,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "banking/INDEX",
+      "custody-bank",
+      "meiji-yasuda",
+      "mizuho-fg",
+      "mufg",
+      "nippon-life",
+      "norinchukin",
+      "sumitomo-mitsui-trust",
+      "trust-banks/custody-bank"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/custody-bank",
+      "https://finwiki.zksc.io/meiji-yasuda",
+      "https://finwiki.zksc.io/mizuho-fg",
+      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/nippon-life",
+      "https://finwiki.zksc.io/norinchukin",
+      "https://finwiki.zksc.io/sumitomo-mitsui-trust",
+      "https://finwiki.zksc.io/trust-banks/custody-bank"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 4539,
+    "word_like_tokens": 692,
+    "inbound_wikilinks_count": 24,
+    "last_modified": "2026-06-04"
+  }
+}

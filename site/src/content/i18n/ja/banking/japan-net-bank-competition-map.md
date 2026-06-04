@@ -14,17 +14,17 @@ translated_at: 2026-06-02T11:47:37.287Z
 
 日本のネット銀行の競争には、いくつかの公的な事業モデルが含まれる。エコシステム型リテール銀行、フルバンキングのBaaS／ホワイトラベル銀行、中小企業／法人API銀行、証券／資産形成銀行、地域グループのデジタル銀行である。FSAの銀行一覧は法的なユニバースを提供する。公開比較項目には、顧客獲得チャネル、親エコシステム、預金フランチャイズ、貸出構成、BaaSの深度、証券／決済の隣接性、メインアカウント転換が含まれる。
 
-このページは [[banking/INDEX|banking index]]、[[banking/rakuten-bank|Rakuten Bank]]、[[banking/paypay-bank|PayPay Bank]]、[[banking/au-jibun-bank|au Jibun Bank]]、[[JapanFG/ssnb|SSNB]]、[[JapanFG/gmo-aozora-net|GMO Aozora Net Bank]]、[[JapanFG/sony-bank|Sony Bank]]、[[JapanFG/ui-bank|UI Bank]]、[[banking/minna-bank-baas-model|Minna Bank BaaS model]]、[[banking/japan-baas-operating-models|Japan BaaS operating models]]、[[banking/post-megabank-positioning|post-megabank positioning]] と合わせて使うこと。
+このページは [[banking/INDEX|banking index]]、[[banking/rakuten-bank|Rakuten Bank]]、[[banking/paypay-bank|PayPay Bank]]、[[banking/au-jibun-bank|au Jibun Bank]]、[[regional-banks/ssnb|SSNB]]、[[payment-firms/gmo-aozora-net|GMO Aozora Net Bank]]、[[regional-banks/sony-bank|Sony Bank]]、[[regional-banks/ui-bank|UI Bank]]、[[banking/minna-bank-baas-model|Minna Bank BaaS model]]、[[banking/japan-baas-operating-models|Japan BaaS operating models]]、[[banking/post-megabank-positioning|post-megabank positioning]] と合わせて使うこと。
 
 ## 競争セグメント
 
 | セグメント | 主な例 | 公的な事業上の役割 |
 |---|---|---|
 | エコシステム型リテール銀行 | [[banking/rakuten-bank|Rakuten Bank]]、[[banking/paypay-bank|PayPay Bank]]、[[banking/au-jibun-bank|au Jibun Bank]] | コマース／通信／決済の頻度を、銀行口座、預金、カード、ローン、給与口座利用へと転換する。 |
-| フルバンキングBaaS／ホワイトラベル | [[JapanFG/ssnb|SSNB]] NEOBANK、[[banking/minna-bank-baas-model|Minna Bank]] パートナー支店 | 非銀行ブランドが、パートナーのUXを通じて銀行口座と銀行機能を提供できるようにする。 |
-| 法人API／中小企業銀行 | [[JapanFG/gmo-aozora-net|GMO Aozora Net Bank]] | スタートアップ、中小企業、SaaS、会計、決済、API駆動のトレジャリーワークフローに対応する。 |
-| 資産形成／証券隣接銀行 | [[JapanFG/sony-bank|Sony Bank]]、[[JapanFG/daiwa-next-bank|Daiwa Next Bank]]、[[banking/au-jibun-bank|au Jibun Bank]] | 預金をFX、投資、住宅ローン、証券、家計の資産形成と結びつける。 |
-| 地域デジタル銀行 | [[JapanFG/ui-bank|UI Bank]]、[[JapanFG/01-bank|01 Bank]] | 地域グループが、店舗の地理を超えてデジタル預金／口座チャネルを構築できるようにする。 |
+| フルバンキングBaaS／ホワイトラベル | [[regional-banks/ssnb|SSNB]] NEOBANK、[[banking/minna-bank-baas-model|Minna Bank]] パートナー支店 | 非銀行ブランドが、パートナーのUXを通じて銀行口座と銀行機能を提供できるようにする。 |
+| 法人API／中小企業銀行 | [[payment-firms/gmo-aozora-net|GMO Aozora Net Bank]] | スタートアップ、中小企業、SaaS、会計、決済、API駆動のトレジャリーワークフローに対応する。 |
+| 資産形成／証券隣接銀行 | [[regional-banks/sony-bank|Sony Bank]]、[[regional-banks/daiwa-next-bank|Daiwa Next Bank]]、[[banking/au-jibun-bank|au Jibun Bank]] | 預金をFX、投資、住宅ローン、証券、家計の資産形成と結びつける。 |
+| 地域デジタル銀行 | [[regional-banks/ui-bank|UI Bank]]、[[regional-banks/01-bank|01 Bank]] | 地域グループが、店舗の地理を超えてデジタル預金／口座チャネルを構築できるようにする。 |
 
 ## 比較軸
 
@@ -46,19 +46,19 @@ translated_at: 2026-06-02T11:47:37.287Z
 
 ### BaaS／ホワイトラベルバンキング
 
-[[JapanFG/ssnb|SSNB]] はNEOBANKのパートナー主導型BaaSモデルを運営する。[[banking/minna-bank-baas-model|Minna Bank]] はパートナー支店およびAPI提供型のバンキングモデルを開示している。これらは、顧客のジャーニーがパートナーブランドによって制御されうる一方で、銀行口座は銀行に残る、という流通アーキテクチャである。
+[[regional-banks/ssnb|SSNB]] はNEOBANKのパートナー主導型BaaSモデルを運営する。[[banking/minna-bank-baas-model|Minna Bank]] はパートナー支店およびAPI提供型のバンキングモデルを開示している。これらは、顧客のジャーニーがパートナーブランドによって制御されうる一方で、銀行口座は銀行に残る、という流通アーキテクチャである。
 
 ### 中小企業／法人API
 
-[[JapanFG/gmo-aozora-net|GMO Aozora Net Bank]] は法人API／中小企業バンキングのアンカーである。その公的な商品項目には、法人口座開設、振込、会計、給与計算、SaaS、プラットフォーム決済フローが含まれる。
+[[payment-firms/gmo-aozora-net|GMO Aozora Net Bank]] は法人API／中小企業バンキングのアンカーである。その公的な商品項目には、法人口座開設、振込、会計、給与計算、SaaS、プラットフォーム決済フローが含まれる。
 
 ### 資産形成のスペシャリスト
 
-[[JapanFG/sony-bank|Sony Bank]] と [[banking/au-jibun-bank|au Jibun Bank]] は、ネット銀行が純粋な決済頻度ではなく、住宅ローン、FX、証券隣接性、家計の資産形成を通じてどのように競争できるかを示している。顧客のジャーニーが預金から投資商品へと移行する場合は、[[securities/japan-online-brokerage-competition|online brokerage competition]] と比較すること。
+[[regional-banks/sony-bank|Sony Bank]] と [[banking/au-jibun-bank|au Jibun Bank]] は、ネット銀行が純粋な決済頻度ではなく、住宅ローン、FX、証券隣接性、家計の資産形成を通じてどのように競争できるかを示している。顧客のジャーニーが預金から投資商品へと移行する場合は、[[securities/japan-online-brokerage-competition|online brokerage competition]] と比較すること。
 
 ### 地域デジタル銀行
 
-[[JapanFG/ui-bank|UI Bank]] と [[JapanFG/01-bank|01 Bank]] は地域グループのデジタル銀行の例である。公開比較項目には、デジタル預金チャネル、店舗フットプリントの拡張、顧客セグメント、グループ銀行との連携が含まれる。
+[[regional-banks/ui-bank|UI Bank]] と [[regional-banks/01-bank|01 Bank]] は地域グループのデジタル銀行の例である。公開比較項目には、デジタル預金チャネル、店舗フットプリントの拡張、顧客セグメント、グループ銀行との連携が含まれる。
 
 ## 出典項目
 
@@ -75,10 +75,10 @@ translated_at: 2026-06-02T11:47:37.287Z
 - [[banking/rakuten-bank]]
 - [[banking/paypay-bank]]
 - [[banking/au-jibun-bank]]
-- [[JapanFG/ssnb]]
-- [[JapanFG/gmo-aozora-net]]
-- [[JapanFG/sony-bank]]
-- [[JapanFG/ui-bank]]
+- [[regional-banks/ssnb]]
+- [[payment-firms/gmo-aozora-net]]
+- [[regional-banks/sony-bank]]
+- [[regional-banks/ui-bank]]
 - [[banking/minna-bank-baas-model]]
 - [[banking/japan-baas-operating-models]]
 - [[banking/regional-bank-api-digital-partnership-route]]

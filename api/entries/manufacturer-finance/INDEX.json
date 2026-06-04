@@ -46,10 +46,9 @@
     "wikilinks": [
       "INDEX",
       "JapanFG/INDEX",
-      "JapanFG/hachijuni-bank",
-      "JapanFG/toyota-financial",
       "banking/INDEX",
       "finance/INDEX",
+      "leasing-firms/toyota-financial",
       "manufacturer-finance/export-finance-mechanism",
       "manufacturer-finance/floorplan-finance-mechanism",
       "manufacturer-finance/hitachi-industrial-finance-platform",
@@ -63,15 +62,15 @@
       "manufacturer-finance/toyota-financial-services",
       "manufacturer-finance/toyota-motor",
       "manufacturer-finance/vendor-finance-mechanism",
+      "regional-banks/hachijuni-bank",
       "structured-finance/INDEX"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
       "https://finwiki.zksc.io/JapanFG/INDEX",
-      "https://finwiki.zksc.io/JapanFG/hachijuni-bank",
-      "https://finwiki.zksc.io/JapanFG/toyota-financial",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/finance/INDEX",
+      "https://finwiki.zksc.io/leasing-firms/toyota-financial",
       "https://finwiki.zksc.io/manufacturer-finance/export-finance-mechanism",
       "https://finwiki.zksc.io/manufacturer-finance/floorplan-finance-mechanism",
       "https://finwiki.zksc.io/manufacturer-finance/hitachi-industrial-finance-platform",
@@ -85,15 +84,16 @@
       "https://finwiki.zksc.io/manufacturer-finance/toyota-financial-services",
       "https://finwiki.zksc.io/manufacturer-finance/toyota-motor",
       "https://finwiki.zksc.io/manufacturer-finance/vendor-finance-mechanism",
+      "https://finwiki.zksc.io/regional-banks/hachijuni-bank",
       "https://finwiki.zksc.io/structured-finance/INDEX"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5410,
-    "word_like_tokens": 761,
-    "inbound_wikilinks_count": 17,
-    "last_modified": "2026-06-03"
+    "nonspace_chars": 5429,
+    "word_like_tokens": 764,
+    "inbound_wikilinks_count": 19,
+    "last_modified": "2026-06-04"
   }
 }

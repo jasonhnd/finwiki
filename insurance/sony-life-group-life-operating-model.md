@@ -26,9 +26,9 @@ canonical_anchor: JapanFG/sony-life
 
 ## Wiki route
 
-This entry sits under [[insurance/INDEX|insurance index]] and is the channel / operating-model deep dive for [[JapanFG/sony-life|Sony Life]]. Read it together with [[insurance/life-insurance-channel-mix|life insurance channel mix]] for the macro framing of agent vs bancassurance vs direct, with [[insurance/japan-life-insurance-big-four|Japan life big four]] for the traditional sales-agency contrast, with [[insurance/internet-life-insurance-business-model|internet life business model]] for the digital-direct contrast, with [[insurance/mutual-vs-stock-life-insurer|mutual vs stock]] for the legal-form lens (Sony Life is a stock company under [[JapanFG/sony-fg|Sony Financial Group]]), and with [[insurance/economic-value-based-solvency|economic-value solvency]] for the regulatory-capital frame applied to a Lifeplanner-only channel.
+This entry sits under [[insurance/INDEX|insurance index]] and is the channel / operating-model deep dive for [[life-insurers/sony-life|Sony Life]]. Read it together with [[insurance/life-insurance-channel-mix|life insurance channel mix]] for the macro framing of agent vs bancassurance vs direct, with [[insurance/japan-life-insurance-big-four|Japan life big four]] for the traditional sales-agency contrast, with [[insurance/internet-life-insurance-business-model|internet life business model]] for the digital-direct contrast, with [[insurance/mutual-vs-stock-life-insurer|mutual vs stock]] for the legal-form lens (Sony Life is a stock company under [[megabanks/sony-fg|Sony Financial Group]]), and with [[insurance/economic-value-based-solvency|economic-value solvency]] for the regulatory-capital frame applied to a Lifeplanner-only channel.
 
-The Sony FG re-buyout context is captured in [[JapanFG/sony-fg|Sony FG]] and [[JapanFG/legal-financial-licenses/insurance-license-and-solvency|insurance license and solvency route]]. The investable-universe context is in [[finance/japan-listed-financial-groups-investable-universe]].
+The Sony FG re-buyout context is captured in [[megabanks/sony-fg|Sony FG]] and [[financial-licenses/insurance-license-and-solvency|insurance license and solvency route]]. The investable-universe context is in [[finance/japan-listed-financial-groups-investable-universe]].
 
 ## TL;DR
 
@@ -36,7 +36,7 @@ Sony Life operates a stock-company life insurer whose distribution is built almo
 
 The Lifeplanner channel is positioned as a high-productivity, consultative, fully-tied salesforce: smaller in headcount than a big-four sales-rep network, but typically higher in average new-business APE per advisor and higher in 13-month / 25-month persistency. The group-life channel adds a low-acquisition-cost, employer-paid base of in-force premium that smooths channel volatility.
 
-Governance sits under [[JapanFG/sony-fg|Sony Financial Group]], itself a wholly-owned subsidiary of [[JapanFG/sony-fg|Sony Group Corporation]] after the 2020-2021 take-private and subsequent reorganization. That means Sony Life answers to a non-financial tech-conglomerate parent rather than to a listed insurance holding company or to a mutual-style policyholder base, which is structurally unusual for a Japan-licensed life insurer of its scale.
+Governance sits under [[megabanks/sony-fg|Sony Financial Group]], itself a wholly-owned subsidiary of [[megabanks/sony-fg|Sony Group Corporation]] after the 2020-2021 take-private and subsequent reorganization. That means Sony Life answers to a non-financial tech-conglomerate parent rather than to a listed insurance holding company or to a mutual-style policyholder base, which is structurally unusual for a Japan-licensed life insurer of its scale.
 
 ### Lifeplanner channel (tied, consultative, individual life)
 
@@ -73,15 +73,15 @@ The trade-off is that group-life margins per policy are thinner than individual 
 
 - No large-scale [[insurance/insurance-agency-and-brokerage-japan|independent-agency or hoken-shop]] reliance for individual life — Sony Life's brand positioning is the tied Lifeplanner consultation, not a "we are sold across many agencies" message;
 - No major bancassurance push relative to the big-four — Sony Life can use partner-bank distribution selectively, but it is not the channel identity;
-- No internet-direct retail brand at the Sony Life entity level — the parent group's digital-direct life subsidiaries are separate vehicles, with their own licensing under [[JapanFG/legal-financial-licenses/insurance-license-and-solvency|insurance license and solvency route]].
+- No internet-direct retail brand at the Sony Life entity level — the parent group's digital-direct life subsidiaries are separate vehicles, with their own licensing under [[financial-licenses/insurance-license-and-solvency|insurance license and solvency route]].
 
 ## Foreign-tech parent governance
 
-[[JapanFG/sony-fg|Sony Financial Group]] sits between Sony Life (and Sony Assurance, Sony Bank) and [[JapanFG/sony-fg|Sony Group Corporation]] — a globally listed consumer-electronics, semiconductor, and entertainment group. Three governance implications follow:
+[[megabanks/sony-fg|Sony Financial Group]] sits between Sony Life (and Sony Assurance, Sony Bank) and [[megabanks/sony-fg|Sony Group Corporation]] — a globally listed consumer-electronics, semiconductor, and entertainment group. Three governance implications follow:
 
-1. **Non-financial conglomerate ownership**. Unlike [[JapanFG/nippon-life|Nippon Life]], [[JapanFG/meiji-yasuda|Meiji Yasuda]], or [[JapanFG/sumitomo-life|Sumitomo Life]] (mutual companies governed by policyholder representatives) and unlike [[JapanFG/dai-ichi-life|Dai-ichi Life]] (listed insurance holding), Sony Life's ultimate owner is a technology / entertainment group. Capital allocation, dividend up-streaming, IT investment, and brand strategy are negotiated against parent group priorities.
-2. **Limited public-equity discipline at the insurance-subsidiary level**. After the 2020-2021 take-private by Sony Group Corporation, Sony Financial Holdings ceased to be a separately listed equity. Public-equity discipline (sell-side analyst coverage of insurance economics, dividend signalling, ratings agency dialogue) now applies at the parent Sony Group level, not directly to Sony Life or Sony FG. This is a material difference from [[JapanFG/dai-ichi-life|Dai-ichi Life]]'s listed insurer model.
-3. **Regulatory perimeter unchanged**. The FSA continues to license and supervise Sony Life under the Insurance Business Act, the [[insurance/economic-value-based-solvency|economic-value solvency]] regime applies, ICS reporting applies to the relevant designated insurance group, and [[JapanFG/legal-financial-licenses/insurance-license-and-solvency|insurance license and solvency obligations]] are unchanged by the parent re-buyout.
+1. **Non-financial conglomerate ownership**. Unlike [[life-insurers/nippon-life|Nippon Life]], [[life-insurers/meiji-yasuda|Meiji Yasuda]], or [[life-insurers/sumitomo-life|Sumitomo Life]] (mutual companies governed by policyholder representatives) and unlike [[life-insurers/dai-ichi-life|Dai-ichi Life]] (listed insurance holding), Sony Life's ultimate owner is a technology / entertainment group. Capital allocation, dividend up-streaming, IT investment, and brand strategy are negotiated against parent group priorities.
+2. **Limited public-equity discipline at the insurance-subsidiary level**. After the 2020-2021 take-private by Sony Group Corporation, Sony Financial Holdings ceased to be a separately listed equity. Public-equity discipline (sell-side analyst coverage of insurance economics, dividend signalling, ratings agency dialogue) now applies at the parent Sony Group level, not directly to Sony Life or Sony FG. This is a material difference from [[life-insurers/dai-ichi-life|Dai-ichi Life]]'s listed insurer model.
+3. **Regulatory perimeter unchanged**. The FSA continues to license and supervise Sony Life under the Insurance Business Act, the [[insurance/economic-value-based-solvency|economic-value solvency]] regime applies, ICS reporting applies to the relevant designated insurance group, and [[financial-licenses/insurance-license-and-solvency|insurance license and solvency obligations]] are unchanged by the parent re-buyout.
 
 Foreign-tech parent governance gives Sony Life a capital-allocation conversation that mutual peers cannot have (no policyholder-representative committee), and a market-discipline conversation that listed peers cannot have (no standalone insurance-stock price signal). Both are read together with [[insurance/global-solvency-framework-comparison-matrix|global solvency framework comparison matrix]] when assessing ESR sensitivity and dividend-upstream capacity.
 
@@ -94,7 +94,7 @@ Sony Financial Holdings was listed as a separate entity until Sony Group Corpora
 - intra-group capital reinforcement (from parent to insurance subsidiary) is structurally simpler than for a listed insurance peer whose minority shareholders must be considered;
 - regulatory perimeter at the FSA level is unchanged — Sony Life remains a Japan-licensed insurer under the Insurance Business Act, ESR applies, and ORSA-style risk-and-solvency self-assessment continues.
 
-The capital-architecture difference versus listed peer [[JapanFG/dai-ichi-life|Dai-ichi Life]] is that Dai-ichi Life faces direct equity-market discipline on its insurance economics, while Sony Life faces indirect discipline mediated through the broader Sony Group Corporation. The capital-architecture difference versus mutual peers ([[JapanFG/nippon-life|Nippon Life]], [[JapanFG/meiji-yasuda|Meiji Yasuda]], [[JapanFG/sumitomo-life|Sumitomo Life]]) is that mutuals translate ALM into policyholder dividends governed by mutual procedures, while Sony Life translates ALM into intra-group capital flows governed by Sony Group commercial considerations.
+The capital-architecture difference versus listed peer [[life-insurers/dai-ichi-life|Dai-ichi Life]] is that Dai-ichi Life faces direct equity-market discipline on its insurance economics, while Sony Life faces indirect discipline mediated through the broader Sony Group Corporation. The capital-architecture difference versus mutual peers ([[life-insurers/nippon-life|Nippon Life]], [[life-insurers/meiji-yasuda|Meiji Yasuda]], [[life-insurers/sumitomo-life|Sumitomo Life]]) is that mutuals translate ALM into policyholder dividends governed by mutual procedures, while Sony Life translates ALM into intra-group capital flows governed by Sony Group commercial considerations.
 
 ## Persistency and FA productivity
 
@@ -170,7 +170,7 @@ Sony Financial Group is not a single-business insurer. Its perimeter includes:
 | Sony Bank | Internet bank; deposit, mortgage, and brokerage cross-sell |
 | Sony Life Insurance (Philippines), Sony Life Singapore | Selected overseas insurance presences depending on disclosure date |
 
-The combined Sony FG perimeter delivers cross-sell potential — life Lifeplanner clients can become bank or assurance clients; bank customers can be life prospects. The cross-sell logic is operationally constrained by separate licensing (life insurance vs non-life insurance vs banking) and by FSA conduct rules on cross-selling. Group-level capital is governed under [[JapanFG/legal-financial-licenses/insurance-license-and-solvency|insurance license and solvency route]] and integrated within Sony FG's holding-company capital framework.
+The combined Sony FG perimeter delivers cross-sell potential — life Lifeplanner clients can become bank or assurance clients; bank customers can be life prospects. The cross-sell logic is operationally constrained by separate licensing (life insurance vs non-life insurance vs banking) and by FSA conduct rules on cross-selling. Group-level capital is governed under [[financial-licenses/insurance-license-and-solvency|insurance license and solvency route]] and integrated within Sony FG's holding-company capital framework.
 
 ## Lifeplanner-channel international comparators
 
@@ -178,9 +178,9 @@ The Lifeplanner / financial-advisor model is a global insurance architecture, no
 
 | Comparator | Channel parallel |
 |---|---|
-| [[JapanFG/prudential-japan|Prudential Japan]] Lifeplanner | The original Lifeplanner channel template imported to Japan by Prudential of America |
-| [[JapanFG/metlife-japan|MetLife Japan]] personal financial advisors | Smaller-scale tied advisor force alongside bancassurance |
-| [[JapanFG/manulife-japan|Manulife Japan]] agent / agency channel | Multi-channel including agent and bancassurance |
+| [[life-insurers/prudential-japan|Prudential Japan]] Lifeplanner | The original Lifeplanner channel template imported to Japan by Prudential of America |
+| [[life-insurers/metlife-japan|MetLife Japan]] personal financial advisors | Smaller-scale tied advisor force alongside bancassurance |
+| [[life-insurers/manulife-japan|Manulife Japan]] agent / agency channel | Multi-channel including agent and bancassurance |
 | AXA tied agents globally | European tied-agent model translated across markets |
 | US career-agent life insurers (e.g., Northwestern Mutual, MassMutual, New York Life) | Career-agent franchise with multi-decade producer tenure |
 
@@ -188,7 +188,7 @@ The economic logic across all of these is the same: small high-productivity forc
 
 ## Operational reading guide for the Sony Life disclosure book
 
-When reading [[JapanFG/sony-life|Sony Life]]'s ディスクロージャー誌 (disclosure book) and Sony FG financial reports, focus disclosure sections in this order:
+When reading [[life-insurers/sony-life|Sony Life]]'s ディスクロージャー誌 (disclosure book) and Sony FG financial reports, focus disclosure sections in this order:
 
 | Section | What to extract |
 |---|---|
@@ -217,11 +217,11 @@ Each section is read against [[insurance/japan-life-insurance-alm-overview|Japan
 - [[insurance/japan-iaig-ics-mapping]]
 - [[insurance/global-solvency-framework-comparison-matrix]]
 - [[insurance/insurance-agency-and-brokerage-japan]]
-- [[JapanFG/sony-life]]
-- [[JapanFG/sony-fg]]
-- [[JapanFG/dai-ichi-life]]
-- [[JapanFG/nippon-life]]
-- [[JapanFG/legal-financial-licenses/insurance-license-and-solvency]]
+- [[life-insurers/sony-life]]
+- [[megabanks/sony-fg]]
+- [[life-insurers/dai-ichi-life]]
+- [[life-insurers/nippon-life]]
+- [[financial-licenses/insurance-license-and-solvency]]
 - [[finance/japan-listed-financial-groups-investable-universe]]
 - [[INDEX|FinWiki index]]
 

@@ -50,15 +50,6 @@
     "wikilinks_count": 18,
     "wikilinks": [
       "INDEX",
-      "JapanFG/chiba-bank",
-      "JapanFG/concordia-fg",
-      "JapanFG/fukuoka-fg",
-      "JapanFG/legal-financial-licenses/INDEX",
-      "JapanFG/mizuho-fg",
-      "JapanFG/mufg",
-      "JapanFG/resona-hd",
-      "JapanFG/sbi-shinsei-bank",
-      "JapanFG/smfg",
       "banking/INDEX",
       "banking/au-jibun-bank",
       "banking/baas-japan-landscape",
@@ -66,19 +57,19 @@
       "banking/foreign-bank-japan-retreat",
       "banking/paypay-bank",
       "banking/rakuten-bank",
-      "banking/regional-bank-consolidation-pattern"
+      "banking/regional-bank-consolidation-pattern",
+      "financial-licenses/INDEX",
+      "megabanks/mizuho-fg",
+      "megabanks/mufg",
+      "megabanks/resona-hd",
+      "megabanks/smfg",
+      "regional-banks/chiba-bank",
+      "regional-banks/concordia-fg",
+      "regional-banks/fukuoka-fg",
+      "regional-banks/sbi-shinsei-bank"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/chiba-bank",
-      "https://finwiki.zksc.io/JapanFG/concordia-fg",
-      "https://finwiki.zksc.io/JapanFG/fukuoka-fg",
-      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX",
-      "https://finwiki.zksc.io/JapanFG/mizuho-fg",
-      "https://finwiki.zksc.io/JapanFG/mufg",
-      "https://finwiki.zksc.io/JapanFG/resona-hd",
-      "https://finwiki.zksc.io/JapanFG/sbi-shinsei-bank",
-      "https://finwiki.zksc.io/JapanFG/smfg",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/au-jibun-bank",
       "https://finwiki.zksc.io/banking/baas-japan-landscape",
@@ -86,15 +77,24 @@
       "https://finwiki.zksc.io/banking/foreign-bank-japan-retreat",
       "https://finwiki.zksc.io/banking/paypay-bank",
       "https://finwiki.zksc.io/banking/rakuten-bank",
-      "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern"
+      "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
+      "https://finwiki.zksc.io/financial-licenses/INDEX",
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/resona-hd",
+      "https://finwiki.zksc.io/megabanks/smfg",
+      "https://finwiki.zksc.io/regional-banks/chiba-bank",
+      "https://finwiki.zksc.io/regional-banks/concordia-fg",
+      "https://finwiki.zksc.io/regional-banks/fukuoka-fg",
+      "https://finwiki.zksc.io/regional-banks/sbi-shinsei-bank"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3166,
-    "word_like_tokens": 477,
-    "inbound_wikilinks_count": 20,
-    "last_modified": "2026-05-20"
+    "nonspace_chars": 3205,
+    "word_like_tokens": 480,
+    "inbound_wikilinks_count": 22,
+    "last_modified": "2026-06-04"
   }
 }

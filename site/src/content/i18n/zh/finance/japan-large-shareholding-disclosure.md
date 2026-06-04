@@ -16,7 +16,7 @@ translated_at: 2026-05-31T06:16:15.700Z
 
 本页面基于 1-2026  年 5 月修订后的制度。FSA 的申报页面于 2026-05-01 更新，并注明修订后的大额持股制度于当日生效，内容涉及持股比例计算方式、共同持股人范围及申报表格的变更。使用资料时请注意信息来源日期。
 
-请结合 [[finance/japan-tender-offer-process|Japan tender offer process]]、[[finance/japan-activist-investor-playbook|Japan activist investor playbook]]、[[finance/cross-border-m-a-japan|cross-border M&A Japan]]、[[securities/tokyo-stock-exchange|Tokyo Stock Exchange]]、[[JapanFG/japan-exchange-group|Japan Exchange Group]]、[[JapanFG/sbi-hd|SBI HD]]、[[JapanFG/sbi-shinsei-bank|SBI Shinsei Bank]] 和 [[JapanFG/wealthnavi|WealthNavi]] 阅读本页面。
+请结合 [[finance/japan-tender-offer-process|Japan tender offer process]]、[[finance/japan-activist-investor-playbook|Japan activist investor playbook]]、[[finance/cross-border-m-a-japan|cross-border M&A Japan]]、[[securities/tokyo-stock-exchange|Tokyo Stock Exchange]]、[[financial-regulators/japan-exchange-group|Japan Exchange Group]]、[[megabanks/sbi-hd|SBI HD]]、[[regional-banks/sbi-shinsei-bank|SBI Shinsei Bank]] 和 [[payment-firms/wealthnavi|WealthNavi]] 阅读本页面。
 
 ## 制度概览
 
@@ -103,10 +103,10 @@ translated_at: 2026-05-31T06:16:15.700Z
 - [[finance/japan-mbo-and-squeeze-out-process]]
 - [[finance/cross-border-m-a-japan]]
 - [[securities/tokyo-stock-exchange]]
-- [[JapanFG/japan-exchange-group]]
-- [[JapanFG/sbi-hd]]
-- [[JapanFG/sbi-shinsei-bank]]
-- [[JapanFG/wealthnavi]]
+- [[financial-regulators/japan-exchange-group]]
+- [[megabanks/sbi-hd]]
+- [[regional-banks/sbi-shinsei-bank]]
+- [[payment-firms/wealthnavi]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

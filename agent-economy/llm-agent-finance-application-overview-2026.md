@@ -102,7 +102,7 @@ The 2026-05 maturity map across seven categories. **PROD** = at least one G-SIB 
 
 **Why PILOT not PROD**: suitability and fiduciary. SEC Reg BI requires broker-dealers to act in the customer's best interest with a written rationale; Japan FIEA Article 38-2 + 40 requires Type-1 financial-instruments business operators to assess customer attributes before recommending products; EU MIFID-II Article 25 requires suitability assessment with documentation. An LLM that says "you should rebalance into emerging-market bonds" without documented suitability evaluation creates regulator risk. The 2026 compromise: LLM produces commentary marked "for information only, not advice"; the actual rebalancing recommendation comes from the existing rule-based engine with full suitability documentation.
 
-See [[JapanFG/wealthnavi|WealthNavi]] for the canonical Japan robo-advisor footprint.
+See [[payment-firms/wealthnavi|WealthNavi]] for the canonical Japan robo-advisor footprint.
 
 ### (g) Developer tooling
 
@@ -185,7 +185,7 @@ The cross-jurisdictional convergence: **no jurisdiction is granting AI agent per
 - [[agent-economy/claude-code-extension-architecture|Claude Code extension architecture]]
 - [[agent-economy/stripe-agent-toolkit-position|Stripe agent toolkit position]]
 - [[fintech/INDEX|fintech index]]
-- [[JapanFG/wealthnavi|WealthNavi]]
+- [[payment-firms/wealthnavi|WealthNavi]]
 - [[security/module-path-confusion-supply-chain-attack|module path confusion supply chain attack]]
 - [[security/fork-and-rebrand-5-layer-audit-framework|fork and rebrand 5-layer audit framework]]
 <!-- /wiki-links:managed -->

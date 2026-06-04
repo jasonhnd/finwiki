@@ -18,7 +18,7 @@ This page sits under [[finance/INDEX|finance domain]]. Read it with [[finance/ja
 
 本页为日本股东维权行动及股东参与的公开信息路线图，并非选股页面。有效的控制链条为：东京证券交易所资本成本压力 → 公司治理守则 → 尽职管理守则 → EDINET 大额持股报告 → 股东提案权 → 股东大会表决 → TDnet 披露 → 要约收购规则。
 
-请将本页与 [[finance/japan-tender-offer-process|Japan tender offer process]]、[[finance/cross-border-m-a-japan|cross-border M&A Japan]]、[[securities/tokyo-stock-exchange|Tokyo Stock Exchange]]、[[JapanFG/japan-exchange-group|Japan Exchange Group]]、[[JapanFG/legal-financial-licenses/securities-license-stack|securities license stack]] 配合使用。
+请将本页与 [[finance/japan-tender-offer-process|Japan tender offer process]]、[[finance/cross-border-m-a-japan|cross-border M&A Japan]]、[[securities/tokyo-stock-exchange|Tokyo Stock Exchange]]、[[financial-regulators/japan-exchange-group|Japan Exchange Group]]、[[financial-licenses/securities-license-stack|securities license stack]] 配合使用。
 
 ## 公开行动各阶段
 
@@ -72,9 +72,9 @@ This page sits under [[finance/INDEX|finance domain]]. Read it with [[finance/ja
 
 日本金融公司的维权行动通常涉及资本政策、上市状态、银行关系、证券顾问角色及公开市场基础设施：
 
-- 基础设施 / 监管相关锚点：[[JapanFG/japan-exchange-group|Japan Exchange Group]]、[[JapanFG/jsda|JSDA]]、[[securities/tokyo-stock-exchange|TSE]]
-- 顾问 / 经纪商：[[JapanFG/nomura-hd|Nomura]]、[[JapanFG/daiwa-sg|Daiwa Securities Group]]、[[JapanFG/smbc-nikko|SMBC Nikko]]、[[JapanFG/mizuho-securities|Mizuho Securities]]、[[JapanFG/goldman-sachs-japan|Goldman Sachs Japan]]、[[JapanFG/jpmorgan-japan|J.P. Morgan Japan]]、[[JapanFG/morgan-stanley-japan|Morgan Stanley Japan]]
-- 可能涉及上市公司控制权的金融 / 金融科技案例：[[JapanFG/sbi-hd|SBI HD]]、[[JapanFG/sbi-shinsei-bank|SBI Shinsei Bank]]、[[JapanFG/sony-fg|Sony FG]]、[[JapanFG/wealthnavi|WealthNavi]]
+- 基础设施 / 监管相关锚点：[[financial-regulators/japan-exchange-group|Japan Exchange Group]]、[[financial-regulators/jsda|JSDA]]、[[securities/tokyo-stock-exchange|TSE]]
+- 顾问 / 经纪商：[[securities-firms/nomura-hd|Nomura]]、[[securities-firms/daiwa-sg|Daiwa Securities Group]]、[[securities-firms/smbc-nikko|SMBC Nikko]]、[[securities-firms/mizuho-securities|Mizuho Securities]]、[[securities-firms/goldman-sachs-japan|Goldman Sachs Japan]]、[[foreign-financial-institutions/jpmorgan-japan|J.P. Morgan Japan]]、[[securities-firms/morgan-stanley-japan|Morgan Stanley Japan]]
+- 可能涉及上市公司控制权的金融 / 金融科技案例：[[megabanks/sbi-hd|SBI HD]]、[[regional-banks/sbi-shinsei-bank|SBI Shinsei Bank]]、[[megabanks/sony-fg|Sony FG]]、[[payment-firms/wealthnavi|WealthNavi]]
 
 ## 风险提示
 
@@ -103,9 +103,9 @@ This page sits under [[finance/INDEX|finance domain]]. Read it with [[finance/ja
 - [[finance/japan-ib-league-table]]
 - [[securities/tokyo-stock-exchange]]
 - [[securities/japan-underwriting-market-structure]]
-- [[JapanFG/japan-exchange-group]]
-- [[JapanFG/legal-financial-licenses/securities-license-stack]]
-- [[JapanFG/sbi-hd]]
+- [[financial-regulators/japan-exchange-group]]
+- [[financial-licenses/securities-license-stack]]
+- [[megabanks/sbi-hd]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

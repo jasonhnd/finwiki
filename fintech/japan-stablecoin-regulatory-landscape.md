@@ -33,9 +33,9 @@ sources:
 
 | Lane | Current anchor | What to remember |
 |---|---|---|
-| Funds-transfer-type JPY stablecoin issuer | [[JapanFG/jpyc|JPYC株式会社]] / [[exchanges/jp-exchange-jpyc|JPYC detailed page]] | JPYC is in the FSA funds-transfer registry as 関東財務局長 第00099号. It should not be mistaken for a conventional crypto exchange. |
+| Funds-transfer-type JPY stablecoin issuer | [[payment-firms/jpyc|JPYC株式会社]] / [[exchanges/jp-exchange-jpyc|JPYC detailed page]] | JPYC is in the FSA funds-transfer registry as 関東財務局長 第00099号. It should not be mistaken for a conventional crypto exchange. |
 | Foreign stablecoin distribution / EPI service provider | [[exchanges/jp-exchange-sbi-vc-trade|SBI VC Trade]] | FSA's EPI service-provider list contains one operator: SBI VC Trade, registration 関東財務局長 第00001号, handling USDC. |
-| Trust-type stablecoin / tokenization platform | [[JapanFG/progmat|株式会社Progmat]] / [[fintech/jp-stablecoin-progmat|Progmat detailed page]] | Progmat is a platform provider. Issuer / trustee roles sit with regulated trust banks and participating financial institutions. |
+| Trust-type stablecoin / tokenization platform | [[payment-firms/progmat|株式会社Progmat]] / [[fintech/jp-stablecoin-progmat|Progmat detailed page]] | Progmat is a platform provider. Issuer / trustee roles sit with regulated trust banks and participating financial institutions. |
 
 ## Implication
 
@@ -52,8 +52,8 @@ This avoids the common error of treating a stablecoin issuer, an EPI service pro
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
 - [[fintech/japan-ecisb-license|日本 ECISB 牌照——专为"不碰资金的交易路由中介"设计的轻量牌照]]
-- [[JapanFG/jpyc|JPYC株式会社]]
-- [[JapanFG/progmat|株式会社Progmat]]
+- [[payment-firms/jpyc|JPYC株式会社]]
+- [[payment-firms/progmat|株式会社Progmat]]
 - [[exchanges/jp-exchange-sbi-vc-trade|SBI VC Trade]]
 - [[fintech/gold-tokenization-scheme-comparison|日本におけるトークン発行スキーム比較]]
 - [[fintech/ai-payment-two-tracks|AI 产业的两条支付轨道：Stripe 模式 vs 稳定币模式]]

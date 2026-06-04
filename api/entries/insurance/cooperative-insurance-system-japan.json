@@ -68,12 +68,10 @@
     "wikilinks": [
       "INDEX",
       "JapanFG/coop-kyosai",
-      "JapanFG/fsa",
-      "JapanFG/ja-kyosairen",
       "JapanFG/japan-coop",
       "JapanFG/kenmin-kyosai",
-      "JapanFG/legal-financial-licenses/insurance-license-and-solvency",
-      "JapanFG/zenrosai",
+      "financial-licenses/insurance-license-and-solvency",
+      "financial-regulators/fsa",
       "insurance/INDEX",
       "insurance/earthquake-insurance-public-private-scheme",
       "insurance/economic-value-based-solvency",
@@ -84,17 +82,17 @@
       "insurance/ja-kyosai-zenkyoren-overview",
       "insurance/japan-life-insurance-big-four",
       "insurance/japan-nonlife-big-three",
-      "insurance/mutual-vs-stock-life-insurer"
+      "insurance/mutual-vs-stock-life-insurer",
+      "non-life-insurers/ja-kyosairen",
+      "non-life-insurers/zenrosai"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
       "https://finwiki.zksc.io/JapanFG/coop-kyosai",
-      "https://finwiki.zksc.io/JapanFG/fsa",
-      "https://finwiki.zksc.io/JapanFG/ja-kyosairen",
       "https://finwiki.zksc.io/JapanFG/japan-coop",
       "https://finwiki.zksc.io/JapanFG/kenmin-kyosai",
-      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/insurance-license-and-solvency",
-      "https://finwiki.zksc.io/JapanFG/zenrosai",
+      "https://finwiki.zksc.io/financial-licenses/insurance-license-and-solvency",
+      "https://finwiki.zksc.io/financial-regulators/fsa",
       "https://finwiki.zksc.io/insurance/INDEX",
       "https://finwiki.zksc.io/insurance/earthquake-insurance-public-private-scheme",
       "https://finwiki.zksc.io/insurance/economic-value-based-solvency",
@@ -105,15 +103,17 @@
       "https://finwiki.zksc.io/insurance/ja-kyosai-zenkyoren-overview",
       "https://finwiki.zksc.io/insurance/japan-life-insurance-big-four",
       "https://finwiki.zksc.io/insurance/japan-nonlife-big-three",
-      "https://finwiki.zksc.io/insurance/mutual-vs-stock-life-insurer"
+      "https://finwiki.zksc.io/insurance/mutual-vs-stock-life-insurer",
+      "https://finwiki.zksc.io/non-life-insurers/ja-kyosairen",
+      "https://finwiki.zksc.io/non-life-insurers/zenrosai"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 14540,
-    "word_like_tokens": 2232,
+    "nonspace_chars": 14582,
+    "word_like_tokens": 2238,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-06-02"
+    "last_modified": "2026-06-04"
   }
 }

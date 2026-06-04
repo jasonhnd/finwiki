@@ -88,9 +88,9 @@ That makes the JSDA page the right starting point for **market-share / liquidity
 
 ## JapanFG Relevance
 
-- [[JapanFG/sbi-securities|SBI Securities]] and [[JapanFG/rakuten-securities|Rakuten Securities]] are the core online brokers to read when asking whether SOR and PTS access is part of the retail value proposition.
-- [[JapanFG/mufg-esmart-securities|MUFG eSmart Securities]] and [[JapanFG/paypay-securities|PayPay Securities]] matter because app / ecosystem brokerage can simplify UX while hiding route complexity.
-- [[JapanFG/nomura-hd|Nomura]], [[JapanFG/daiwa-sg|Daiwa Securities Group]], [[JapanFG/smbc-nikko|SMBC Nikko]], [[JapanFG/mizuho-securities|Mizuho Securities]], and [[JapanFG/mufg-mums|MUMSS]] matter for institutional and full-service execution, but broker-policy evidence must still be checked by entity.
+- [[securities-firms/sbi-securities|SBI Securities]] and [[securities-firms/rakuten-securities|Rakuten Securities]] are the core online brokers to read when asking whether SOR and PTS access is part of the retail value proposition.
+- [[securities-firms/mufg-esmart-securities|MUFG eSmart Securities]] and [[securities-firms/paypay-securities|PayPay Securities]] matter because app / ecosystem brokerage can simplify UX while hiding route complexity.
+- [[securities-firms/nomura-hd|Nomura]], [[securities-firms/daiwa-sg|Daiwa Securities Group]], [[securities-firms/smbc-nikko|SMBC Nikko]], [[securities-firms/mizuho-securities|Mizuho Securities]], and [[securities-firms/mufg-mums|MUMSS]] matter for institutional and full-service execution, but broker-policy evidence must still be checked by entity.
 
 ## Caveats
 
@@ -110,9 +110,9 @@ That makes the JSDA page the right starting point for **market-share / liquidity
 - [[securities/tokyo-stock-exchange]]
 - [[securities/japan-securities-clearing-corp]]
 - [[securities/japan-securities-depository-center]]
-- [[JapanFG/sbi-securities]]
-- [[JapanFG/rakuten-securities]]
-- [[JapanFG/jsda]]
+- [[securities-firms/sbi-securities]]
+- [[securities-firms/rakuten-securities]]
+- [[financial-regulators/jsda]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

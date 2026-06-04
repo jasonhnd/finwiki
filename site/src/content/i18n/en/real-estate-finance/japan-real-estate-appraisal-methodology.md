@@ -185,7 +185,7 @@ The J-REIT framework requires governance separation:
 | Asset manager | Independent asset-management firm (often sponsor-affiliated) |
 | Appraiser | Independent licensed 不動産鑑定士 / firm |
 | Auditor | Independent auditor |
-| Trust-bank custodian | Holds property in 信託 — [[JapanFG/mitsubishi-ufj-trust-bank|MUFG Trust]], [[JapanFG/sumitomo-mitsui-trust|SMTB]], or [[JapanFG/mizuho-trust-bank|Mizuho Trust]] typically |
+| Trust-bank custodian | Holds property in 信託 — [[trust-banks/mitsubishi-ufj-trust-bank|MUFG Trust]], [[trust-banks/sumitomo-mitsui-trust|SMTB]], or [[trust-banks/mizuho-trust-bank|Mizuho Trust]] typically |
 
 The appraiser is engaged by the asset manager but is required to be independent of the asset manager, the sponsor, and the property's economic principal. Disclosure of the appraiser's name and approach is mandatory.
 
@@ -219,9 +219,9 @@ The appraiser is engaged by the asset manager but is required to be independent 
 - [[policy-finance/INDEX]]
 - [[policy-finance/japan-housing-finance-agency]]
 - [[finance/INDEX]]
-- [[JapanFG/mitsubishi-ufj-trust-bank]]
-- [[JapanFG/sumitomo-mitsui-trust]]
-- [[JapanFG/mizuho-trust-bank]]
+- [[trust-banks/mitsubishi-ufj-trust-bank]]
+- [[trust-banks/sumitomo-mitsui-trust]]
+- [[trust-banks/mizuho-trust-bank]]
 - [[JapanFG/japan-real-estate-institute]]
 
 ## Sources

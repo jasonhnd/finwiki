@@ -12,7 +12,7 @@ translated_at: 2026-06-01T03:31:12.275Z
 
 ## Wiki 路线
 
-本条目位于 [[policy-finance/INDEX|政策金融索引]]，说明 [[policy-finance/nexi|NEXI（日本贸易保险）]] 的主要保险产品。可与 [[JapanFG/jbic|JBIC]]、[[policy-finance/oecd-export-credit-arrangement|OECD 官方出口信用安排]] 和 [[policy-finance/japan-project-finance-stack-diagram|日本项目融资栈图]] 配套阅读。
+本条目位于 [[policy-finance/INDEX|政策金融索引]]，说明 [[policy-finance/nexi|NEXI（日本贸易保险）]] 的主要保险产品。可与 [[financial-regulators/jbic|JBIC]]、[[policy-finance/oecd-export-credit-arrangement|OECD 官方出口信用安排]] 和 [[policy-finance/japan-project-finance-stack-diagram|日本项目融资栈图]] 配套阅读。
 
 ## 概要
 

@@ -18,7 +18,7 @@ This entry sits under [[securities/INDEX|securities index]]. Read it against [[s
 
 The 2024  NISA reform turned Japan's household tax-free investment account into a permanent asset-building regime. FSA's NISA site says the new system started in January 2024 and became permanent. The official guidebook frames two usable buckets: a tsumitate investment quota and a growth investment quota, with combined annual investment capacity of 3.6 million yen and lifetime tax-free holding capacity of 18 million yen.
 
-For FinWiki, NISA is a securities-distribution and household-asset-flow page. It connects retail brokers such as [[JapanFG/rakuten-securities]], comprehensive securities firms such as [[JapanFG/nomura-hd]], and bank-affiliated securities arms such as [[JapanFG/mizuho-securities]] and [[JapanFG/mufg-mums]].
+For FinWiki, NISA is a securities-distribution and household-asset-flow page. It connects retail brokers such as [[securities-firms/rakuten-securities]], comprehensive securities firms such as [[securities-firms/nomura-hd]], and bank-affiliated securities arms such as [[securities-firms/mizuho-securities]] and [[securities-firms/mufg-mums]].
 
 ## System Map
 
@@ -44,10 +44,10 @@ For FinWiki, NISA is a securities-distribution and household-asset-flow page. It
 
 ## JapanFG Relevance
 
-- [[JapanFG/rakuten-securities]]: online brokerage / ecosystem acquisition case.
-- [[JapanFG/nomura-hd]] and [[JapanFG/daiwa-sg]]: full-service securities and wealth-management response.
-- [[JapanFG/mizuho-securities]], [[JapanFG/mufg-mums]], and [[JapanFG/smbc-nikko]]: bank-affiliated securities distribution and group wealth strategy.
-- [[JapanFG/jsda]]: self-regulatory / industry Q&A route.
+- [[securities-firms/rakuten-securities]]: online brokerage / ecosystem acquisition case.
+- [[securities-firms/nomura-hd]] and [[securities-firms/daiwa-sg]]: full-service securities and wealth-management response.
+- [[securities-firms/mizuho-securities]], [[securities-firms/mufg-mums]], and [[securities-firms/smbc-nikko]]: bank-affiliated securities distribution and group wealth strategy.
+- [[financial-regulators/jsda]]: self-regulatory / industry Q&A route.
 - [[loyalty/japan-points-landscape]]: point programs can function as household-investment acquisition rails.
 
 ## Decision Use
@@ -62,15 +62,15 @@ Use this page when asking:
 ## Related
 
 - [[securities/INDEX|securities INDEX]]
-- [[JapanFG/rakuten-securities]]
-- [[JapanFG/nomura-hd]]
-- [[JapanFG/daiwa-sg]]
-- [[JapanFG/mizuho-securities]]
-- [[JapanFG/mufg-mums]]
-- [[JapanFG/smbc-nikko]]
-- [[JapanFG/jsda]]
+- [[securities-firms/rakuten-securities]]
+- [[securities-firms/nomura-hd]]
+- [[securities-firms/daiwa-sg]]
+- [[securities-firms/mizuho-securities]]
+- [[securities-firms/mufg-mums]]
+- [[securities-firms/smbc-nikko]]
+- [[financial-regulators/jsda]]
 - [[loyalty/japan-points-landscape]]
-- [[JapanFG/legal-financial-licenses/INDEX]]
+- [[financial-licenses/INDEX]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

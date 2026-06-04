@@ -10,18 +10,18 @@ translated_at: 2026-06-03T00:53:08.316Z
 
 # 日本の自動車ローン ABS のウォーターフォールの仕組み — オリジネーターとサービサーの分割、サブクラスの経済学
 ## 要約
-日本の自動車ローン ABS — キャプティブ オリジネーター ([[JapanFG/toyota-finance|Toyota Finance]]、[[JapanFG/toyota-financial|Toyota Financial Services]] クロスボーダー シェルフ、ホンダ ファイナンス、日産 クレジット) と銀行関連項目のマルチブランド オリジネーター ([[JapanFG/sumitomo-mitsui-auto-service|Sumitomo Mitsui Auto Service]]、[[JapanFG/orico|Orient Corporation]]、MUFG キャピタル オート ローン ABS) が大半を占める年間発行額約 1.5 ～ 2  兆円のセグメント — は 2 段階の **ウォーターフォール** を実行します: 利息回収口座の金利優先 (サービサー手数料 →シニア金利→メザ金利→準備金→株式）、その後、ほとんどの国内構造について元本回収口座の**逐次支払い元本**（シニアが最初にゼロに返済し、次にメザ、次に株式）。テストが満たされた場合、選択された国境を越えたトヨタ・ファイナンシャル・サービスの棚取引では**比例配分された元本**が表示されます。信用補完スタック**劣後** (通常、トヨタ/ホンダ/日産取引のAAAシニアの場合はメザ+株式が6～12%、複数ブランドの銀行関連項目取引の場合は8～15%)、**超過担保**(目標は1～3%、超過スプレッドから構築)、**現金準備金/スプレッド口座**(シニア残高の0.5～1.5%)。通常、オリジネーターとサービサーは同じキャプティブ エンティティであり、オリジネーターのデフォルトでバックアップ サービサーとして [[JapanFG/sumitomo-mitsui-trust|SMTB]] または [[JapanFG/nochu-trust-bank|Nochu Trust]] がアクティブになります。 AAA トランシェは、国内取引に関して [[structured-finance/credit-rating-methodology-jcr-r-and-i|JCR and/or R&I]] によって格付けされ、トヨタ ファイナンシャル サービスの国際棚で S&P / ムーディーズの適用範囲を獲得します ([[structured-finance/fitch-moody-sp-japan-criteria|global vs domestic agency split]] を参照)。
+日本の自動車ローン ABS — キャプティブ オリジネーター ([[card-issuers/toyota-finance|Toyota Finance]]、[[leasing-firms/toyota-financial|Toyota Financial Services]] クロスボーダー シェルフ、ホンダ ファイナンス、日産 クレジット) と銀行関連項目のマルチブランド オリジネーター ([[leasing-firms/sumitomo-mitsui-auto-service|Sumitomo Mitsui Auto Service]]、[[card-issuers/orico|Orient Corporation]]、MUFG キャピタル オート ローン ABS) が大半を占める年間発行額約 1.5 ～ 2  兆円のセグメント — は 2 段階の **ウォーターフォール** を実行します: 利息回収口座の金利優先 (サービサー手数料 →シニア金利→メザ金利→準備金→株式）、その後、ほとんどの国内構造について元本回収口座の**逐次支払い元本**（シニアが最初にゼロに返済し、次にメザ、次に株式）。テストが満たされた場合、選択された国境を越えたトヨタ・ファイナンシャル・サービスの棚取引では**比例配分された元本**が表示されます。信用補完スタック**劣後** (通常、トヨタ/ホンダ/日産取引のAAAシニアの場合はメザ+株式が6～12%、複数ブランドの銀行関連項目取引の場合は8～15%)、**超過担保**(目標は1～3%、超過スプレッドから構築)、**現金準備金/スプレッド口座**(シニア残高の0.5～1.5%)。通常、オリジネーターとサービサーは同じキャプティブ エンティティであり、オリジネーターのデフォルトでバックアップ サービサーとして [[trust-banks/sumitomo-mitsui-trust|SMTB]] または [[trust-banks/nochu-trust-bank|Nochu Trust]] がアクティブになります。 AAA トランシェは、国内取引に関して [[structured-finance/credit-rating-methodology-jcr-r-and-i|JCR and/or R&I]] によって格付けされ、トヨタ ファイナンシャル サービスの国際棚で S&P / ムーディーズの適用範囲を獲得します ([[structured-finance/fitch-moody-sp-japan-criteria|global vs domestic agency split]] を参照)。
 ## ウィキ上の位置づけ
 この項目は、自動ローン ABS サブクラスの **waterfall-operating-mechanics** ノードとして [[structured-finance/INDEX|structured-finance index]] の下にあります。発行者のランドスケープについては [[structured-finance/auto-loan-abs-japan-toyota-honda|auto-loan ABS Japan (Toyota Finance, Honda Finance, Nissan Credit)]]、無担保プールのコントラストについては [[structured-finance/japan-consumer-loan-abs-structure|Japan consumer-loan ABS structure]]、リースと ABS のコントラストについては [[structured-finance/japan-equipment-lease-abs|Japan equipment lease ABS]]、劣後サイジングを推進する SDR (ストレスト デフォルト レート) の計算については [[structured-finance/jcr-ri-japan-securitization-rating-methodology-operating-playbook|JCR / R&I securitization rating methodology operating playbook]] に対して読み取ります。システム アンカー: 合法車両レイヤーの [[structured-finance/spv-tk-gk-vehicle-japan-tax|TK / GK / TMK SPV vehicle]] および [[structured-finance/japan-trust-beneficial-interest-vs-spv|trust beneficial interest vs SPV]]。
 ## 1。オリジネーターとサービサーの分割 - 誰が何をするのか
 | 役割 | 代表的なエンティティ | 関数 |
 |---|---|---|
-| 発信者 | キャプティブ ファイナンス ([[JapanFG/toyota-finance|Toyota Finance]]、ホンダ ファイナンス、日産 クレジット) またはマルチブランド ([[JapanFG/sumitomo-mitsui-auto-service|Sumitomo Mitsui Auto Service]]、[[JapanFG/orico|Orient Corp]]) | ディーラーの店頭販売を通じて小売自動車ローンを開始します。クロージング時に、売掛金プールをSPVに転送します。 |
+| 発信者 | キャプティブ ファイナンス ([[card-issuers/toyota-finance|Toyota Finance]]、ホンダ ファイナンス、日産 クレジット) またはマルチブランド ([[leasing-firms/sumitomo-mitsui-auto-service|Sumitomo Mitsui Auto Service]]、[[card-issuers/orico|Orient Corp]]) | ディーラーの店頭販売を通じて小売自動車ローンを開始します。クロージング時に、売掛金プールをSPVに転送します。 |
 | サービサー | **日本のほぼすべてのオートローン ABS のオリジネーターと同じ事業体** | 債務者から毎月の支払いを徴収します。滞納を追跡します。差し押さえを管理します。回収金をSPV信託口座に送金します |
-| バックアップサービサー | [[JapanFG/sumitomo-mitsui-trust|SMTB]]、三菱UFJ信託、または[[JapanFG/nochu-trust-bank|Nochu Trust]] | 「コールド」バックアップ — 通常の運用中はライブ サービスは行われません。オリジネーターのデフォルト / サービサーのデフォルトイベントで 30 ～ 60  日以内に引き継ぎます |
-| 管財人 | 信託銀行（[[JapanFG/sumitomo-mitsui-trust|SMTB]] / 三菱UFJ信託） | 信託受益権層を保有（使用時）。口座と銀行の関係を管理します。ウォーターフォールの施行を監督する |
+| バックアップサービサー | [[trust-banks/sumitomo-mitsui-trust|SMTB]]、三菱UFJ信託、または[[trust-banks/nochu-trust-bank|Nochu Trust]] | 「コールド」バックアップ — 通常の運用中はライブ サービスは行われません。オリジネーターのデフォルト / サービサーのデフォルトイベントで 30 ～ 60  日以内に引き継ぎます |
+| 管財人 | 信託銀行（[[trust-banks/sumitomo-mitsui-trust|SMTB]] / 三菱UFJ信託） | 信託受益権層を保有（使用時）。口座と銀行の関係を管理します。ウォーターフォールの施行を監督する |
 | 発行者 (SPV) | GK-TK ([[structured-finance/spv-tk-gk-vehicle-japan-tax|godo kaisha + tokumei kumiai]]) 通常 | シニア、メザ、エクイティクラスを発行します。破産 - オリジネーターからのリモート |
-| 投資家管理者 | メガバンク証券部門（[[JapanFG/mufg-securities|MUFG MS]]、[[JapanFG/smbc-nikko|SMBC Nikko]]、[[JapanFG/mizuho-securities|Mizuho Securities]]） | シニア/メゾトランシェの手配と配布 |
+| 投資家管理者 | メガバンク証券部門（[[securities-firms/mufg-securities|MUFG MS]]、[[securities-firms/smbc-nikko|SMBC Nikko]]、[[securities-firms/mizuho-securities|Mizuho Securities]]） | シニア/メゾトランシェの手配と配布 |
 **オリジネーターとサービサーのアイデンティティ**は最も重要な運用上の事実です。通常の運用では、ローンを作成したのと同じキャプティブ ファイナンス会社が支払いを回収し、支払い遅延について債務者と話し合い、いつ差し押さえるかを決定する主体となります。これにより、運用上の摩擦は最小限に抑えられますが（債務者のエ​​クスペリエンスは変わりません）、**サービサーの交代リスク**が集中します。オリジネーターがデフォルトした場合、コールド・バックアップは数日で稼働する必要があります。そのため、格付け会社は、文書化された能力を持つ指定されたバックアップ・サービサーを必要とします。
 ## 2。プール構成 — 新車と中古車の分割
 自動ローン ABS プールの構成はオリジネーターによって異なります。
@@ -90,12 +90,12 @@ translated_at: 2026-06-03T00:53:08.316Z
 キャプティブ オリジネーターは、繰り返し発行する **シェルフ プログラム**を実行します。
 | 発信者 | 棚プログラム | 年間発行枚数（目安） | 一般的な取引規模 | トランシェの深さ |
 |---|---|---|---|---|
-| [[JapanFG/toyota-finance|Toyota Finance]] | トヨタファイナンス自動車ローン債権信託（TALR） | 600～900 00億円 | 取引あたり 100 ～ 200 00 億円 | シニア AAA + AA メズ + エクイティ |
-| [[JapanFG/toyota-financial|Toyota Financial Services]] | トヨタオートローンアジア/国際棚 | 米ドル相当のクロスボーダー発行 | USD 0.8–1.5 bn | A-1 / A-2 / A-3 シニアマネーマーケット + シニア償却 + B + C + D + 株式 (完全な米国スタイルの深さ) |
+| [[card-issuers/toyota-finance|Toyota Finance]] | トヨタファイナンス自動車ローン債権信託（TALR） | 600～900 00億円 | 取引あたり 100 ～ 200 00 億円 | シニア AAA + AA メズ + エクイティ |
+| [[leasing-firms/toyota-financial|Toyota Financial Services]] | トヨタオートローンアジア/国際棚 | 米ドル相当のクロスボーダー発行 | USD 0.8–1.5 bn | A-1 / A-2 / A-3 シニアマネーマーケット + シニア償却 + B + C + D + 株式 (完全な米国スタイルの深さ) |
 | ホンダファイナンス | ホンダ自動車債権棚 | 200～400 00億円 | 80～150 00億円 | シニア + AA メゾ + エクイティ |
 | 日産クレジット | 日産自動車債権棚 | 100～250 00億円 | 60～120 00億円 | シニア + AA メゾ + エクイティ |
-| [[JapanFG/sumitomo-mitsui-auto-service|Sumitomo Mitsui Auto Service]] | マルチブランドオートリースABS | 100～200 00億円 | 50～100 00億円 | シニア + マルチメズ + エクイティ |
-| [[JapanFG/orico|Orient Corp]] | 自動装着ABS | 80～150 00億円 | 40～80 00億円 | シニア+メザ+エクイティ |
+| [[leasing-firms/sumitomo-mitsui-auto-service|Sumitomo Mitsui Auto Service]] | マルチブランドオートリースABS | 100～200 00億円 | 50～100 00億円 | シニア + マルチメズ + エクイティ |
+| [[card-issuers/orico|Orient Corp]] | 自動装着ABS | 80～150 00億円 | 40～80 00億円 | シニア+メザ+エクイティ |
 トランチングの深さは投資家の需要を反映しています。トヨタ・フィナンシャルの国境を越えた取引は、米国BSL投資家の好みに合わせて~5 レイヤーにトランシェします。日本の機関投資家（ライフサー、地方銀行のALMブック）が主にシニアAAAを望んでいることから、純国産日本の取引は2～3 レイヤーに留まる。
 ## 8。格付け会社の分割 ― オートローン ABS における JCR 対 R&I
 | 代理店 | カバレッジパターン | 注目すべきアプローチ |
@@ -116,7 +116,7 @@ translated_at: 2026-06-03T00:53:08.316Z
 - トヨタファイナンシャルサービスは、日本国内の調達コストが引き続き有利なため、米国の棚のより多くを日本国内の発行に移行するかどうか
 - 次の国内不況（新型コロナウイルスの落ち込みではなく本物の景気後退）が、相当数の季節取引における累積純損失のトリガーを試すかどうか
 - JCR / R&I は、構造の複雑さが正常化するにつれて、段階的に比例配分に優しい基準を採用するかどうか
-- 対象となる ABS 市場の拡大における [[JapanFG/sumitomo-mitsui-auto-service|Sumitomo Mitsui Auto Service]] およびその他のマルチブランドのオリジネーターの役割と銀行口座を通じた資金提供の継続
+- 対象となる ABS 市場の拡大における [[leasing-firms/sumitomo-mitsui-auto-service|Sumitomo Mitsui Auto Service]] およびその他のマルチブランドのオリジネーターの役割と銀行口座を通じた資金提供の継続
 ## 関連項目項目
 - [[structured-finance/INDEX|structured-finance index]]
 - [[structured-finance/auto-loan-abs-japan-toyota-honda|auto-loan ABS Japan (Toyota Finance, Honda Finance, Nissan Credit)]]
@@ -129,10 +129,10 @@ translated_at: 2026-06-03T00:53:08.316Z
 - [[structured-finance/spv-tk-gk-vehicle-japan-tax|TK / GK / TMK SPV vehicle]]
 - [[structured-finance/japan-trust-beneficial-interest-vs-spv|trust beneficial interest vs SPV]]
 - [[structured-finance/japan-securitization-product-matrix|Japan securitization product matrix]]
-- [[JapanFG/toyota-finance|Toyota Finance]]・[[JapanFG/toyota-financial|Toyota Financial Services]]
-- [[JapanFG/sumitomo-mitsui-auto-service|Sumitomo Mitsui Auto Service]]・[[JapanFG/orico|Orient Corp]]
-- [[JapanFG/sumitomo-mitsui-trust|SMTB]]・[[JapanFG/nochu-trust-bank|Nochu Trust]]
-- [[JapanFG/mufg-securities|MUFG MS]]・[[JapanFG/smbc-nikko|SMBC Nikko]]・[[JapanFG/mizuho-securities|Mizuho Securities]]
+- [[card-issuers/toyota-finance|Toyota Finance]]・[[leasing-firms/toyota-financial|Toyota Financial Services]]
+- [[leasing-firms/sumitomo-mitsui-auto-service|Sumitomo Mitsui Auto Service]]・[[card-issuers/orico|Orient Corp]]
+- [[trust-banks/sumitomo-mitsui-trust|SMTB]]・[[trust-banks/nochu-trust-bank|Nochu Trust]]
+- [[securities-firms/mufg-securities|MUFG MS]]・[[securities-firms/smbc-nikko|SMBC Nikko]]・[[securities-firms/mizuho-securities|Mizuho Securities]]
 ## 出典
 - JCRオートローンABS基準 — https://www.jcr.co.jp/
 - R&IオートローンABS手法 — https://www.r-i.co.jp/

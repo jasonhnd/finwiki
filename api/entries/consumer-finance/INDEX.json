@@ -1,0 +1,89 @@
+{
+  "schema_version": "1.0",
+  "slug": "consumer-finance/INDEX",
+  "source_path": "consumer-finance/INDEX.md",
+  "url": "https://finwiki.zksc.io/consumer-finance/INDEX",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/consumer-finance/INDEX.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/consumer-finance/INDEX.md",
+  "domain": "consumer-finance",
+  "title": "consumer-finance — Japanese consumer lender (貸金業) index",
+  "entry_type": "domain_index",
+  "frontmatter": {
+    "title": "consumer-finance — Japanese consumer lender (貸金業) index",
+    "aliases": [
+      "consumer-finance index",
+      "消費者金融 index",
+      "Japan consumer lender index",
+      "貸金業 index"
+    ],
+    "domain": "consumer-finance",
+    "created": "2026-06-04",
+    "last_updated": "2026-06-04",
+    "last_tended": "2026-06-04",
+    "review_by": "2027-06-04",
+    "confidence": "likely",
+    "tags": [
+      "consumer-finance",
+      "JapanFG",
+      "index"
+    ],
+    "status": "active",
+    "sources": [
+      "Domain index maintained from public FinWiki entries and source-backed entry frontmatter.",
+      "https://www.fsa.go.jp/menkyo/menkyoj/kashikin.html",
+      "https://www.j-fsa.or.jp/"
+    ]
+  },
+  "summary": "consumer-finance/ contains 4 active entries (excluding INDEX, 5 total) covering Japanese consumer lenders registered under the Money Lending Business Act (貸金業法) — the unsecured personal-loan (カードローン) operators, their credit-guarantee businesses, and the bank- or group-backed consumer-finance subsidi",
+  "headings": [
+    "consumer-finance — Japanese consumer lender (貸金業) index",
+    "TL;DR",
+    "Entries",
+    "How the domain reads",
+    "Expansion rules",
+    "Related"
+  ],
+  "body_links": {
+    "wikilinks_count": 14,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/INDEX",
+      "card-issuers/jaccs",
+      "consumer-finance/acom",
+      "consumer-finance/acom-co-detail",
+      "consumer-finance/aiful",
+      "consumer-finance/shinsei-financial",
+      "consumer-finance/smbc-consumer-finance",
+      "leasing-firms/INDEX",
+      "manufacturer-finance/INDEX",
+      "megabanks/mufg",
+      "megabanks/sbi-hd",
+      "megabanks/smfg",
+      "regional-banks/sbi-shinsei-bank"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/card-issuers/jaccs",
+      "https://finwiki.zksc.io/consumer-finance/acom",
+      "https://finwiki.zksc.io/consumer-finance/acom-co-detail",
+      "https://finwiki.zksc.io/consumer-finance/aiful",
+      "https://finwiki.zksc.io/consumer-finance/shinsei-financial",
+      "https://finwiki.zksc.io/consumer-finance/smbc-consumer-finance",
+      "https://finwiki.zksc.io/leasing-firms/INDEX",
+      "https://finwiki.zksc.io/manufacturer-finance/INDEX",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/sbi-hd",
+      "https://finwiki.zksc.io/megabanks/smfg",
+      "https://finwiki.zksc.io/regional-banks/sbi-shinsei-bank"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 4274,
+    "word_like_tokens": 681,
+    "inbound_wikilinks_count": 3,
+    "last_modified": "2026-06-04"
+  }
+}

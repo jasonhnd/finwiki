@@ -145,7 +145,7 @@ Unlike standard JPY IRS, which is largely cleared at [[securities/japan-securiti
 - [[securities/japan-securities-clearing-corp]]
 - [[money-market/INDEX]]
 - [[money-market/boj-open-market-operations]]
-- [[JapanFG/mufg-bank]]
+- [[megabanks/mufg-bank]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

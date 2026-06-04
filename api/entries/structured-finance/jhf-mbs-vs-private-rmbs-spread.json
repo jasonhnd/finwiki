@@ -57,11 +57,11 @@
   "body_links": {
     "wikilinks_count": 13,
     "wikilinks": [
-      "JapanFG/boj-monetary-policy",
-      "JapanFG/mizuho-fg",
-      "JapanFG/mufg",
-      "JapanFG/smfg",
       "banking/INDEX",
+      "financial-regulators/boj-monetary-policy",
+      "megabanks/mizuho-fg",
+      "megabanks/mufg",
+      "megabanks/smfg",
       "money-market/INDEX",
       "policy-finance/INDEX",
       "policy-finance/japan-housing-finance-agency",
@@ -72,11 +72,11 @@
       "structured-finance/jhf-mbs-mechanics"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/boj-monetary-policy",
-      "https://finwiki.zksc.io/JapanFG/mizuho-fg",
-      "https://finwiki.zksc.io/JapanFG/mufg",
-      "https://finwiki.zksc.io/JapanFG/smfg",
       "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/financial-regulators/boj-monetary-policy",
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/smfg",
       "https://finwiki.zksc.io/money-market/INDEX",
       "https://finwiki.zksc.io/policy-finance/INDEX",
       "https://finwiki.zksc.io/policy-finance/japan-housing-finance-agency",
@@ -90,9 +90,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6642,
-    "word_like_tokens": 1006,
+    "nonspace_chars": 6661,
+    "word_like_tokens": 1007,
     "inbound_wikilinks_count": 7,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-04"
   }
 }

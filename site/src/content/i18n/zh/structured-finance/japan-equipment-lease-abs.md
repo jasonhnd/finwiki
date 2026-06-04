@@ -11,7 +11,7 @@ translated_at: 2026-06-01T04:15:40.105Z
 
 ## TL;DR
 
-日本设备租赁 ABS 年度发行量适中（约 JPY 200–400 bn），由三大独立租赁公司（[[JapanFG/mitsubishi-hc-capital|Mitsubishi HC Capital]]、[[JapanFG/tokyo-century|Tokyo Century]]、[[JapanFG/orix-corp|ORIX]]）和银行系租赁机构（Mizuho-Marubeni 旗下的 [[JapanFG/fuyo-lease|Fuyo Lease]]、SMFG 旗下的 Sumitomo Mitsui Finance & Leasing、Mizuho 旗下的 [[JapanFG/ibj-leasing|IBJ Leasing]]）发行，将**机械、运输设备、IT / 办公设备、医疗设备和可再生能源基础设施的租赁应收款**打包进 ABS 池。该资产类别在结构上不同于贷款 ABS，原因有两个特征：（1）日本 GAAP（J-GAAP）和 IFRS 16  下的 **true-lease vs finance-lease 分类**——finance-leases 将几乎所有风险 / 回报转移给承租人，在经济上类似贷款；true-leases（会计分类中的经营租赁）由出租人保留残值风险，要求出租人预测并回收租赁期末的设备价值；（2）**残值风险**位于承租人信用风险之上——即使承租人零违约，如果设备租赁期末实现价值低于账面残值，出租人（及 ABS）也会亏损。评级机构适用**更高次级化（AAA senior 为 10–15%）vs auto-loan ABS（6–12%）**以吸收残值扣减；true-lease 占比较高的资产池需要更深的增信。与 auto-lease ABS 相比，设备租赁池的设备类型更异质（混合快速折旧的 IT / 办公设备和保值更久的机械），集中度风险更高（企业承租人 vs 颗粒化消费者）。由 [[structured-finance/credit-rating-methodology-jcr-r-and-i|JCR / R&I]] 评级。
+日本设备租赁 ABS 年度发行量适中（约 JPY 200–400 bn），由三大独立租赁公司（[[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]]、[[leasing-firms/tokyo-century|Tokyo Century]]、[[leasing-firms/orix-corp|ORIX]]）和银行系租赁机构（Mizuho-Marubeni 旗下的 [[leasing-firms/fuyo-lease|Fuyo Lease]]、SMFG 旗下的 Sumitomo Mitsui Finance & Leasing、Mizuho 旗下的 [[leasing-firms/ibj-leasing|IBJ Leasing]]）发行，将**机械、运输设备、IT / 办公设备、医疗设备和可再生能源基础设施的租赁应收款**打包进 ABS 池。该资产类别在结构上不同于贷款 ABS，原因有两个特征：（1）日本 GAAP（J-GAAP）和 IFRS 16  下的 **true-lease vs finance-lease 分类**——finance-leases 将几乎所有风险 / 回报转移给承租人，在经济上类似贷款；true-leases（会计分类中的经营租赁）由出租人保留残值风险，要求出租人预测并回收租赁期末的设备价值；（2）**残值风险**位于承租人信用风险之上——即使承租人零违约，如果设备租赁期末实现价值低于账面残值，出租人（及 ABS）也会亏损。评级机构适用**更高次级化（AAA senior 为 10–15%）vs auto-loan ABS（6–12%）**以吸收残值扣减；true-lease 占比较高的资产池需要更深的增信。与 auto-lease ABS 相比，设备租赁池的设备类型更异质（混合快速折旧的 IT / 办公设备和保值更久的机械），集中度风险更高（企业承租人 vs 颗粒化消费者）。由 [[structured-finance/credit-rating-methodology-jcr-r-and-i|JCR / R&I]] 评级。
 
 ## Wiki 路由
 
@@ -21,14 +21,14 @@ translated_at: 2026-06-01T04:15:40.105Z
 
 | 发行人 | 母公司 / 关联 | 资产重点 | 年度 ABS 发行（约） |
 |---|---|---|---|
-| [[JapanFG/mitsubishi-hc-capital|Mitsubishi HC Capital]] | Mitsubishi（由 Mitsubishi UFJ Lease 和 Hitachi Capital 在 2021  合并形成） | 机械、IT / 办公、运输、房地产租赁、可再生能源 | JPY 80–150 bn |
-| [[JapanFG/tokyo-century|Tokyo Century]] | 独立（Itochu / Tokyo MUFG 相关股东） | 航空器、船舶、IT / 办公、运输、可再生能源、环境 | JPY 60–120 bn |
-| [[JapanFG/orix-corp|ORIX]] | 独立多元化金融集团 | 设备租赁（机械、车辆、IT）及更广泛金融业务 | JPY 50–100 bn |
-| [[JapanFG/fuyo-lease|Fuyo Lease]] | Mizuho / Marubeni 关联 | 一般设备 + 汽车车队租赁 | JPY 30–60 bn |
+| [[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]] | Mitsubishi（由 Mitsubishi UFJ Lease 和 Hitachi Capital 在 2021  合并形成） | 机械、IT / 办公、运输、房地产租赁、可再生能源 | JPY 80–150 bn |
+| [[leasing-firms/tokyo-century|Tokyo Century]] | 独立（Itochu / Tokyo MUFG 相关股东） | 航空器、船舶、IT / 办公、运输、可再生能源、环境 | JPY 60–120 bn |
+| [[leasing-firms/orix-corp|ORIX]] | 独立多元化金融集团 | 设备租赁（机械、车辆、IT）及更广泛金融业务 | JPY 50–100 bn |
+| [[leasing-firms/fuyo-lease|Fuyo Lease]] | Mizuho / Marubeni 关联 | 一般设备 + 汽车车队租赁 | JPY 30–60 bn |
 | Sumitomo Mitsui Finance & Leasing | SMFG / Sumitomo Corp 关联 | 设备 + vendor finance | JPY 40–80 bn |
-| [[JapanFG/ibj-leasing|IBJ Leasing]] | Mizuho group | 设备 + 结构化租赁 | JPY 20–50 bn |
-| [[JapanFG/ricoh-leasing|Ricoh Leasing]] | Ricoh group 关联 | 办公设备为主 | JPY 15–40 bn |
-| 地方银行系租赁机构（[[JapanFG/chibagin-leasing|Chibagin Leasing]]、[[JapanFG/iyogin-leasing|Iyogin Leasing]]、[[JapanFG/yokohama-bank-leasing|Yokohama Bank Leasing]] 等） | 各类地方银行 | 地方 SME 设备租赁 | 单独发行量较小；部分为 pooled deals |
+| [[leasing-firms/ibj-leasing|IBJ Leasing]] | Mizuho group | 设备 + 结构化租赁 | JPY 20–50 bn |
+| [[leasing-firms/ricoh-leasing|Ricoh Leasing]] | Ricoh group 关联 | 办公设备为主 | JPY 15–40 bn |
+| 地方银行系租赁机构（[[leasing-firms/chibagin-leasing|Chibagin Leasing]]、[[leasing-firms/iyogin-leasing|Iyogin Leasing]]、[[leasing-firms/yokohama-bank-leasing|Yokohama Bank Leasing]] 等） | 各类地方银行 | 地方 SME 设备租赁 | 单独发行量较小；部分为 pooled deals |
 
 前三大独立机构占公开租赁 ABS 发行的大部分。银行系租赁公司可使用母行融资额度，对 ABS 的依赖较低；其发行 ABS 通常是为了资本释放或融资多元化，而非核心 treasury。
 
@@ -148,7 +148,7 @@ translated_at: 2026-06-01T04:15:40.105Z
 
 ## 9. 对租赁公司的融资组合作用
 
-对 [[JapanFG/mitsubishi-hc-capital|Mitsubishi HC Capital]] / [[JapanFG/tokyo-century|Tokyo Century]] / [[JapanFG/orix-corp|ORIX]] 而言，lease ABS 与以下融资并列：
+对 [[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]] / [[leasing-firms/tokyo-century|Tokyo Century]] / [[leasing-firms/orix-corp|ORIX]] 而言，lease ABS 与以下融资并列：
 
 - **银行额度融资**（来自 megabanks 的 committed credit facilities）
 - **公司债发行**（这些发行人具备 IG 评级）
@@ -161,7 +161,7 @@ ABS 提供：
 - **期限匹配**（对应租赁应收款期限）
 - **评级套利**（尽管发行人为 IG，senior 可达 AAA）
 
-银行系租赁机构（[[JapanFG/fuyo-lease|Fuyo Lease]]、SMFL、[[JapanFG/ibj-leasing|IBJ Leasing]]）可获得更便宜的母行融资，因此 ABS 发行是机会型的——相较独立机构，对其 treasury 的核心程度较低。
+银行系租赁机构（[[leasing-firms/fuyo-lease|Fuyo Lease]]、SMFL、[[leasing-firms/ibj-leasing|IBJ Leasing]]）可获得更便宜的母行融资，因此 ABS 发行是机会型的——相较独立机构，对其 treasury 的核心程度较低。
 
 ## 10. 反方观点
 
@@ -176,8 +176,8 @@ ABS 提供：
 
 - ESG-linked lease ABS（可再生能源 / 电池 / EV 充电基础设施池）是否成为独立子板块
 - IFRS 16  采用（全球范围内将多数经营租赁移至承租人资产负债表）是否在日本显著重塑 true-lease / finance-lease 经济含义
-- [[JapanFG/mitsubishi-hc-capital|Mitsubishi HC Capital]] 的收购扩张是否继续为 ABS 增加多样化设备类型池
-- [[JapanFG/tokyo-century|Tokyo Century]] 航空 / 船舶融资资产在 lease-ABS 结构中的角色（或通过独立航空器 / 船舶 ABS）
+- [[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]] 的收购扩张是否继续为 ABS 增加多样化设备类型池
+- [[leasing-firms/tokyo-century|Tokyo Century]] 航空 / 船舶融资资产在 lease-ABS 结构中的角色（或通过独立航空器 / 船舶 ABS）
 - digital-equipment-as-a-service（服务器 / 网络 as-a-service）租赁池是否可证券化
 
 ## 相关
@@ -192,8 +192,8 @@ ABS 提供：
 - [[structured-finance/aircraft-leasing-financing-japan-shosha|aircraft leasing financing Japan shosha]]
 - [[structured-finance/spv-tk-gk-vehicle-japan-tax|TK / GK / TMK SPV vehicle]]
 - [[structured-finance/japan-securitization-product-matrix|Japan securitization product matrix]]
-- [[JapanFG/mitsubishi-hc-capital|Mitsubishi HC Capital]] · [[JapanFG/tokyo-century|Tokyo Century]] · [[JapanFG/orix-corp|ORIX]]
-- [[JapanFG/fuyo-lease|Fuyo Lease]] · [[JapanFG/ibj-leasing|IBJ Leasing]] · [[JapanFG/ricoh-leasing|Ricoh Leasing]]
+- [[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]] · [[leasing-firms/tokyo-century|Tokyo Century]] · [[leasing-firms/orix-corp|ORIX]]
+- [[leasing-firms/fuyo-lease|Fuyo Lease]] · [[leasing-firms/ibj-leasing|IBJ Leasing]] · [[leasing-firms/ricoh-leasing|Ricoh Leasing]]
 - [[finance/INDEX|finance index]] · [[real-estate-finance/INDEX|real-estate-finance index]]
 
 ## 来源

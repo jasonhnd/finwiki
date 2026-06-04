@@ -1,0 +1,98 @@
+{
+  "schema_version": "1.0",
+  "slug": "cooperative-banks/fukuoka-ken-shinkumi",
+  "source_path": "cooperative-banks/fukuoka-ken-shinkumi.md",
+  "url": "https://finwiki.zksc.io/cooperative-banks/fukuoka-ken-shinkumi",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/cooperative-banks/fukuoka-ken-shinkumi.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/cooperative-banks/fukuoka-ken-shinkumi.md",
+  "domain": "cooperative-banks",
+  "title": "福岡県信用組合 (Fukuoka Prefecture Credit Cooperative)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "福岡県信用組合 (Fukuoka Prefecture Credit Cooperative)",
+    "aliases": [
+      "Fukuoka-Ken-Shinkumi",
+      "福岡県信組",
+      "Fukuoka Prefecture Credit Co-operative"
+    ],
+    "domain": "cooperative-banks",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "shinkumi",
+      "credit-cooperative",
+      "cooperative-banking",
+      "kyushu",
+      "fukuoka",
+      "regional-shinkumi",
+      "prefecture-wide-shinkumi",
+      "operating-company"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/menkyo/menkyoj/shinkumi.xlsx",
+      "https://www.shinyokumiai.or.jp/",
+      "https://www.zenshinkumiren.jp/",
+      "https://www.dic.go.jp/",
+      "https://kenshin-f.jp/disclosure/",
+      "https://ja.wikipedia.org/wiki/福岡県信用組合",
+      "中小企業等協同組合法"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index as the Kyushu 県域型 (prefecture-wide) shinkumi anchor, complementing いわき信用組合 (Tohoku city-level) and 札幌中央信用組合 (Hokkaido city-level) for regional shinkumi coverage within the 143-cooperative population catalogued in Japan credit cooperative registry.",
+  "headings": [
+    "福岡県信用組合 (Fukuoka Prefecture Credit Cooperative)",
+    "Wiki route",
+    "TL;DR",
+    "1. 法人概要",
+    "組合員資格 ^[extracted]",
+    "福岡県信組ブロック (registry比較)",
+    "九州・福岡財務支局信組ブロック ^[extracted FSA registry]",
+    "全信組連内の位置付け",
+    "主要業務 ^[extracted]",
+    "5. KPI"
+  ],
+  "body_links": {
+    "wikilinks_count": 11,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "JapanFG/fukuoka-shinkin",
+      "banking/cooperative-banking-japan",
+      "banking/credit-cooperative-registry-japan",
+      "cooperative-banks/iwaki-shinkumi",
+      "cooperative-banks/sapporo-chuo-shinkumi",
+      "cooperative-banks/zenshin-kumi",
+      "financial-regulators/dic",
+      "regional-banks/fukuoka-fg",
+      "regional-banks/nishi-nippon-fhd",
+      "regional-banks/nnfh"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/JapanFG/fukuoka-shinkin",
+      "https://finwiki.zksc.io/banking/cooperative-banking-japan",
+      "https://finwiki.zksc.io/banking/credit-cooperative-registry-japan",
+      "https://finwiki.zksc.io/cooperative-banks/iwaki-shinkumi",
+      "https://finwiki.zksc.io/cooperative-banks/sapporo-chuo-shinkumi",
+      "https://finwiki.zksc.io/cooperative-banks/zenshin-kumi",
+      "https://finwiki.zksc.io/financial-regulators/dic",
+      "https://finwiki.zksc.io/regional-banks/fukuoka-fg",
+      "https://finwiki.zksc.io/regional-banks/nishi-nippon-fhd",
+      "https://finwiki.zksc.io/regional-banks/nnfh"
+    ],
+    "external_links_count": 1,
+    "external_links": [
+      "https://kenshin-f.jp/disclosure/"
+    ]
+  },
+  "metrics": {
+    "nonspace_chars": 4663,
+    "word_like_tokens": 682,
+    "inbound_wikilinks_count": 1,
+    "last_modified": "2026-06-04"
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "schema_version": "1.0",
+  "slug": "cooperative-banks/iwaki-shinkumi",
+  "source_path": "cooperative-banks/iwaki-shinkumi.md",
+  "url": "https://finwiki.zksc.io/cooperative-banks/iwaki-shinkumi",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/cooperative-banks/iwaki-shinkumi.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/cooperative-banks/iwaki-shinkumi.md",
+  "domain": "cooperative-banks",
+  "title": "いわき信用組合 (Iwaki Credit Cooperative)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "いわき信用組合 (Iwaki Credit Cooperative)",
+    "aliases": [
+      "Iwaki-Shinkumi",
+      "いわき信組",
+      "Iwaki Credit Co-operative"
+    ],
+    "domain": "cooperative-banks",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "shinkumi",
+      "credit-cooperative",
+      "cooperative-banking",
+      "tohoku",
+      "fukushima",
+      "regional-shinkumi",
+      "operating-company"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/menkyo/menkyoj/shinkumi.xlsx",
+      "https://www.shinyokumiai.or.jp/",
+      "https://www.zenshinkumiren.jp/",
+      "https://www.dic.go.jp/",
+      "https://www.iwaki-shinkumi.shinkumi.net/about-profile.html",
+      "https://www.iwaki-shinkumi.com/about-disk.html",
+      "中小企業等協同組合法"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index as a Tohoku regional shinkumi (地域信組) anchor within the 143-cooperative population catalogued in Japan credit cooperative registry. Read it against 大阪商銀信用組合 for the ethnic-business shinkumi contrast and 全信組連 / Zenshinkumiren for the cooperative-system parent.",
+  "headings": [
+    "いわき信用組合 (Iwaki Credit Cooperative)",
+    "Wiki route",
+    "TL;DR",
+    "1. 法人概要",
+    "組合員資格 ^[extracted]",
+    "福島県内信組ブロック (registry比較)",
+    "全信組連内の位置付け",
+    "地域型信組の事業特性",
+    "4. KPI (確定値)",
+    "5. 監督・規制"
+  ],
+  "body_links": {
+    "wikilinks_count": 10,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "banking/cooperative-banking-japan",
+      "banking/credit-cooperative-registry-japan",
+      "cooperative-banks/osaka-shogin-shinkumi",
+      "cooperative-banks/sapporo-chuo-shinkumi",
+      "cooperative-banks/zenshin-kumi",
+      "financial-regulators/dic",
+      "financial-regulators/shoko-chukin",
+      "regional-banks/toho-bank",
+      "regulators-japan/financial-laws-stack"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/banking/cooperative-banking-japan",
+      "https://finwiki.zksc.io/banking/credit-cooperative-registry-japan",
+      "https://finwiki.zksc.io/cooperative-banks/osaka-shogin-shinkumi",
+      "https://finwiki.zksc.io/cooperative-banks/sapporo-chuo-shinkumi",
+      "https://finwiki.zksc.io/cooperative-banks/zenshin-kumi",
+      "https://finwiki.zksc.io/financial-regulators/dic",
+      "https://finwiki.zksc.io/financial-regulators/shoko-chukin",
+      "https://finwiki.zksc.io/regional-banks/toho-bank",
+      "https://finwiki.zksc.io/regulators-japan/financial-laws-stack"
+    ],
+    "external_links_count": 1,
+    "external_links": [
+      "https://www.iwaki-shinkumi.com/about-disk.html"
+    ]
+  },
+  "metrics": {
+    "nonspace_chars": 4542,
+    "word_like_tokens": 682,
+    "inbound_wikilinks_count": 8,
+    "last_modified": "2026-06-04"
+  }
+}

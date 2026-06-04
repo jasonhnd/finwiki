@@ -12,18 +12,18 @@ translated_at: 2026-06-02T11:47:37.280Z
 
 ## 概観
 
-日本のマスタートラスト / カストディ銀行の状況は、二つのアンカーを持つ国内インフラ層である:[[JapanFG/master-trust-bank|Master Trust Bank of Japan]] と [[JapanFG/custody-bank|Custody Bank of Japan]]。これらは通常の意味での「投資家」ではなく、年金、投資信託、保険会社、資産運用会社、機関投資家のための資産管理銀行である。
+日本のマスタートラスト / カストディ銀行の状況は、二つのアンカーを持つ国内インフラ層である:[[trust-banks/master-trust-bank|Master Trust Bank of Japan]] と [[trust-banks/custody-bank|Custody Bank of Japan]]。これらは通常の意味での「投資家」ではなく、年金、投資信託、保険会社、資産運用会社、機関投資家のための資産管理銀行である。
 
-このページは [[banking/japan-trust-bank-custody-map|trust-bank custody map]]、[[securities/japan-stock-lending-market-route|stock lending market route]]、[[securities/japan-market-infrastructure-map|market infrastructure map]]、[[JapanFG/bny-mellon-japan|BNY Mellon Japan]]、[[JapanFG/state-street-japan|State Street Japan]] と併せて使うこと。
+このページは [[banking/japan-trust-bank-custody-map|trust-bank custody map]]、[[securities/japan-stock-lending-market-route|stock lending market route]]、[[securities/japan-market-infrastructure-map|market infrastructure map]]、[[foreign-financial-institutions/bny-mellon-japan|BNY Mellon Japan]]、[[foreign-financial-institutions/state-street-japan|State Street Japan]] と併せて使うこと。
 
 ## 状況マップ
 
 | 機関 | 株主 / グループの論理 | 機能的な読み解き |
 |---|---|---|
-| [[JapanFG/master-trust-bank|Master Trust Bank of Japan]] | MUFG 信託 + 主要生保 / 協同組織金融の株主。 | 資産管理の専門家であり、主要な「信託口」名義人。 |
-| [[JapanFG/custody-bank|Custody Bank of Japan]] | 三井住友トラスト / みずほ / 保険会社系のカストディ統合経路。 | 資産管理の専門家であり、主要な「信託口」名義人。 |
-| [[JapanFG/bny-mellon-japan|BNY Mellon Japan]] | グローバルカストディ / 証券サービスグループ。 | グローバルカストディ、資産サービシング、外国人投資家のブリッジ。 |
-| [[JapanFG/state-street-japan|State Street Japan]] | グローバルカストディ / 資産サービシンググループ。 | グローバルカストディと機関投資家サービスのブリッジ。 |
+| [[trust-banks/master-trust-bank|Master Trust Bank of Japan]] | MUFG 信託 + 主要生保 / 協同組織金融の株主。 | 資産管理の専門家であり、主要な「信託口」名義人。 |
+| [[trust-banks/custody-bank|Custody Bank of Japan]] | 三井住友トラスト / みずほ / 保険会社系のカストディ統合経路。 | 資産管理の専門家であり、主要な「信託口」名義人。 |
+| [[foreign-financial-institutions/bny-mellon-japan|BNY Mellon Japan]] | グローバルカストディ / 証券サービスグループ。 | グローバルカストディ、資産サービシング、外国人投資家のブリッジ。 |
+| [[foreign-financial-institutions/state-street-japan|State Street Japan]] | グローバルカストディ / 資産サービシンググループ。 | グローバルカストディと機関投資家サービスのブリッジ。 |
 | フルサービス信託銀行 | MUFG 信託、みずほ信託、SMTB、SMBC 信託。 | より広範な信託 / 相続 / 不動産 / 年金 / 証券代行機能。 |
 
 ## 実際に何をするのか
@@ -70,10 +70,10 @@ translated_at: 2026-06-02T11:47:37.280Z
 
 - [[banking/INDEX]]
 - [[banking/japan-trust-bank-custody-map]]
-- [[JapanFG/master-trust-bank]]
-- [[JapanFG/custody-bank]]
-- [[JapanFG/bny-mellon-japan]]
-- [[JapanFG/state-street-japan]]
+- [[trust-banks/master-trust-bank]]
+- [[trust-banks/custody-bank]]
+- [[foreign-financial-institutions/bny-mellon-japan]]
+- [[foreign-financial-institutions/state-street-japan]]
 - [[securities/japan-stock-lending-market-route]]
 - [[securities/japan-short-selling-and-stock-loan-controls]]
 - [[securities/japan-market-infrastructure-map]]

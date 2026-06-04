@@ -14,7 +14,7 @@ translated_at: 2026-05-30T18:10:53.989Z
 
 Japan BaaS can be described by customer ownership, deposit-contract holder, UI controller, API provider, KYC / AML / fraud-monitoring responsibility, and license stack. A partner-branded app can present a banking UX while the bank account legally remains with a licensed bank.
 
-This page sits under [[banking/INDEX|banking domain]] as the operating-model companion to [[banking/baas-japan-landscape|Japan BaaS landscape]]. It links to [[banking/minna-bank-baas-model|Minna Bank BaaS model]], [[banking/mercari-bank|Mercari Bank]], [[banking/mercari-bank-license-stack|Mercari Bank license stack]], [[banking/quick-deposit-four-methods|quick deposit four methods]], [[JapanFG/ssnb|SSNB]], [[JapanFG/gmo-aozora-net|GMO Aozora Net Bank]], [[JapanFG/ui-bank|UI Bank]], [[banking/japan-net-bank-competition-map|Japan net bank competition map]], and [[banking/regional-bank-api-digital-partnership-route|regional bank API route]].
+This page sits under [[banking/INDEX|banking domain]] as the operating-model companion to [[banking/baas-japan-landscape|Japan BaaS landscape]]. It links to [[banking/minna-bank-baas-model|Minna Bank BaaS model]], [[banking/mercari-bank|Mercari Bank]], [[banking/mercari-bank-license-stack|Mercari Bank license stack]], [[banking/quick-deposit-four-methods|quick deposit four methods]], [[regional-banks/ssnb|SSNB]], [[payment-firms/gmo-aozora-net|GMO Aozora Net Bank]], [[regional-banks/ui-bank|UI Bank]], [[banking/japan-net-bank-competition-map|Japan net bank competition map]], and [[banking/regional-bank-api-digital-partnership-route|regional bank API route]].
 
 ## Operating-Model Matrix
 
@@ -22,9 +22,9 @@ This page sits under [[banking/INDEX|banking domain]] as the operating-model com
 |---|---|---|---|---|
 | API-provided banking | Partner app embeds transfers, balance, payment, or account-linking | Licensed bank | [[banking/minna-bank-baas-model|Minna Bank API]], quick-deposit routes | API consent, electronic payment agency, AML / fraud split. |
 | Partner branch | Bank app or bank account experience carries partner brand / branch | Licensed bank | Minna Bank partner branches | Partner marketing versus bank legal responsibility. |
-| Full-banking white-label / NEOBANK | Partner brand distributes a fuller bank-account proposition | Licensed bank | [[JapanFG/ssnb|SSNB]] NEOBANK | Who owns customer relationship, account economics, and support. |
-| Corporate API bank | Business account and payment workflows are embedded into SaaS / accounting / platform ops | Licensed bank | [[JapanFG/gmo-aozora-net|GMO Aozora Net Bank]] | API reliability, treasury operations, SME KYC, webhook / integration risk. |
-| Bank-agent route | Non-bank or adjacent bank partner introduces / handles banking service under bank-agent structure | Licensed bank | [[JapanFG/ui-bank|UI Bank]] / CQ BANK-style route | Agency authority and customer explanation boundary. |
+| Full-banking white-label / NEOBANK | Partner brand distributes a fuller bank-account proposition | Licensed bank | [[regional-banks/ssnb|SSNB]] NEOBANK | Who owns customer relationship, account economics, and support. |
+| Corporate API bank | Business account and payment workflows are embedded into SaaS / accounting / platform ops | Licensed bank | [[payment-firms/gmo-aozora-net|GMO Aozora Net Bank]] | API reliability, treasury operations, SME KYC, webhook / integration risk. |
+| Bank-agent route | Non-bank or adjacent bank partner introduces / handles banking service under bank-agent structure | Licensed bank | [[regional-banks/ui-bank|UI Bank]] / CQ BANK-style route | Agency authority and customer explanation boundary. |
 | Narrow BaaS | One banking function, such as quick deposit or direct account charge | Licensed bank plus payment / API layer | [[banking/quick-deposit-four-methods|quick deposit]] | Narrow utility can be valuable without full bank relationship. |
 
 ## Legal Stack Versus UX Stack
@@ -47,15 +47,15 @@ Related legal and payment routes include [[payments/japan-bank-api-payment-agenc
 
 ### SSNB NEOBANK
 
-[[JapanFG/ssnb|SSNB]] NEOBANK is a full-banking BaaS model. It provides partner-branded bank account experiences and can connect deposits, transfers, lending, cards, and securities-adjacent functions.
+[[regional-banks/ssnb|SSNB]] NEOBANK is a full-banking BaaS model. It provides partner-branded bank account experiences and can connect deposits, transfers, lending, cards, and securities-adjacent functions.
 
 ### GMO Aozora
 
-[[JapanFG/gmo-aozora-net|GMO Aozora Net Bank]] is the corporate API / SME operating model. Its BaaS value sits in account opening, transfers, payment operations, accounting integration, API / webhook workflows, and startup / platform treasury.
+[[payment-firms/gmo-aozora-net|GMO Aozora Net Bank]] is the corporate API / SME operating model. Its BaaS value sits in account opening, transfers, payment operations, accounting integration, API / webhook workflows, and startup / platform treasury.
 
 ### UI Bank / CQ BANK
 
-[[JapanFG/ui-bank|UI Bank]] is a bank-agent / regional-group digital-bank example. It uses an app and partner channel to create a digital account surface while deposit-taking remains a bank function.
+[[regional-banks/ui-bank|UI Bank]] is a bank-agent / regional-group digital-bank example. It uses an app and partner channel to create a digital account surface while deposit-taking remains a bank function.
 
 ## Responsibility Boundary
 
@@ -86,9 +86,9 @@ Related legal and payment routes include [[payments/japan-bank-api-payment-agenc
 - [[banking/mercari-bank-license-stack]]
 - [[banking/quick-deposit-four-methods]]
 - [[banking/japan-net-bank-competition-map]]
-- [[JapanFG/ssnb]]
-- [[JapanFG/gmo-aozora-net]]
-- [[JapanFG/ui-bank]]
+- [[regional-banks/ssnb]]
+- [[payment-firms/gmo-aozora-net]]
+- [[regional-banks/ui-bank]]
 - [[payments/japan-bank-api-payment-agency-route]]
 - [[INDEX|FinWiki index]]
 

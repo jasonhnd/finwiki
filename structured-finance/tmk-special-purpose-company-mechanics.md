@@ -123,7 +123,7 @@ The TMK-J-REIT interaction is important for understanding the broader Japanese r
 | Issuance | Specified bonds publicly placed; tranched by seniority |
 | Collateral | Commercial real-estate-backed mortgage loan(s) or trust beneficial interests in commercial real estate |
 | Asset liquidation plan | Filed with FSA; sets out asset-cash-flow distribution mechanics |
-| Rating | Domestic agency ([[JapanFG/jcr|JCR]] / [[JapanFG/rating-and-investment|R&I]]) typically; global agency ([[JapanFG/sp-global-ratings-japan|S&P]] / [[JapanFG/moodys-japan|Moody's]]) for foreign-investor-targeted deals |
+| Rating | Domestic agency ([[financial-regulators/jcr|JCR]] / [[financial-regulators/rating-and-investment|R&I]]) typically; global agency ([[JapanFG/sp-global-ratings-japan|S&P]] / [[JapanFG/moodys-japan|Moody's]]) for foreign-investor-targeted deals |
 | Investor base | Life insurers, asset managers, megabank ALM books, foreign institutional investors |
 | Servicer / trustee | Trust bank or specialty servicer roles |
 
@@ -156,7 +156,7 @@ TMK is the dominant structure for **single-borrower listed CMBS** in Japan (the 
 - [[real-estate-finance/japan-cmbs-rmbs-securitization|Japan CMBS and RMBS securitization]]
 - [[real-estate-finance/gk-tk-bond-real-estate-spv|GK-TK bond real-estate SPV]]
 - [[real-estate-finance/INDEX|real-estate-finance index]]
-- [[JapanFG/jcr|JCR]] · [[JapanFG/rating-and-investment|R&I]]
+- [[financial-regulators/jcr|JCR]] · [[financial-regulators/rating-and-investment|R&I]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

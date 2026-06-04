@@ -26,11 +26,11 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[business/INDEX|business INDEX]] as a public-company strategic case. Read it against [[business/ntt-docomo-d-point-telco-finance-case|NTT Docomo d-Point telco-finance case]] for the contrasting partner-led model (Docomo leases SMBC's balance sheet rather than owning the bank) and [[business/rakuten-group-mobile-finance-bundling-case|Rakuten Group mobile-finance bundling case]] for the build-everything-and-cross-subsidise direction. For the regulated-entity profiles see [[JapanFG/au-fh|au Financial Holdings]], [[JapanFG/au-jibun-bank|au Jibun Bank]], and [[JapanFG/au-payment|au PAY (au Payment)]]; for the megabank counterparty see [[JapanFG/mufg|MUFG]]. Pair with [[JapanFG/payments-cards-leasing-finance-index|JapanFG payments / cards / leasing index]] and [[payments/cashless-jp-landscape|Japan cashless payment landscape]].
+This entry sits under [[business/INDEX|business INDEX]] as a public-company strategic case. Read it against [[business/ntt-docomo-d-point-telco-finance-case|NTT Docomo d-Point telco-finance case]] for the contrasting partner-led model (Docomo leases SMBC's balance sheet rather than owning the bank) and [[business/rakuten-group-mobile-finance-bundling-case|Rakuten Group mobile-finance bundling case]] for the build-everything-and-cross-subsidise direction. For the regulated-entity profiles see [[megabanks/au-fh|au Financial Holdings]], [[regional-banks/au-jibun-bank|au Jibun Bank]], and [[payment-firms/au-payment|au PAY (au Payment)]]; for the megabank counterparty see [[megabanks/mufg|MUFG]]. Pair with [[JapanFG/INDEX|JapanFG payments / cards / leasing index]] and [[payments/cashless-jp-landscape|Japan cashless payment landscape]].
 
 ## TL;DR
 
-KDDI (TSE 9433) runs its financial-services stack through **au Financial Holdings (au-FH)**, a wholly-owned KDDI subsidiary that bundles [[JapanFG/au-payment|au PAY]] (QR payment + prepaid), [[JapanFG/au-jibun-bank|au Jibun Bank]] (internet bank), au PAY Card, and au Insurance under one holding tied to the au mobile subscriber base. The defining 2024 strategic move was a **reciprocal swap with [[JapanFG/mufg|MUFG]]**: au-FH agreed to acquire MUFG Bank's remaining ~22% of au Jibun Bank (bringing the bank fully inside KDDI), while transferring au Kabucom Securities to the MUFG side (MUFG Securities Holdings moving toward 100%). The transactions were announced in late 2024 and targeted for completion around early 2025.
+KDDI (TSE 9433) runs its financial-services stack through **au Financial Holdings (au-FH)**, a wholly-owned KDDI subsidiary that bundles [[payment-firms/au-payment|au PAY]] (QR payment + prepaid), [[regional-banks/au-jibun-bank|au Jibun Bank]] (internet bank), au PAY Card, and au Insurance under one holding tied to the au mobile subscriber base. The defining 2024 strategic move was a **reciprocal swap with [[megabanks/mufg|MUFG]]**: au-FH agreed to acquire MUFG Bank's remaining ~22% of au Jibun Bank (bringing the bank fully inside KDDI), while transferring au Kabucom Securities to the MUFG side (MUFG Securities Holdings moving toward 100%). The transactions were announced in late 2024 and targeted for completion around early 2025.
 
 The architectural insight: KDDI chose to **own the bank and payments layer outright** while **handing the securities/brokerage layer to the megabank that had the better distribution and execution platform**. This is a cleaner "telco keeps deposit + payments, partner takes brokerage" division of labour than either Docomo (which leases the whole bank layer from SMBC) or Rakuten (which builds and owns the entire FG and cross-subsidises a loss-making mobile unit).
 
@@ -39,10 +39,10 @@ The architectural insight: KDDI chose to **own the bank and payments layer outri
 | Layer | Representative entity | Role |
 |---|---|---|
 | Holding | au Financial Holdings (au-FH) | 100% KDDI-owned financial holding company; bundles the finance subsidiaries |
-| Payments | [[JapanFG/au-payment|au PAY]] | QR-code payment + prepaid e-money tied to au ID and Ponta points |
-| Bank | [[JapanFG/au-jibun-bank|au Jibun Bank]] | Internet bank; deposit-taking, lending, mobile-first banking |
+| Payments | [[payment-firms/au-payment|au PAY]] | QR-code payment + prepaid e-money tied to au ID and Ponta points |
+| Bank | [[regional-banks/au-jibun-bank|au Jibun Bank]] | Internet bank; deposit-taking, lending, mobile-first banking |
 | Card | au PAY Card | Credit card issuance bundled into the au ecosystem |
-| Insurance | [[JapanFG/au-insurance|au Insurance]] | Mobile-tied life / non-life distribution |
+| Insurance | [[non-life-insurers/au-insurance|au Insurance]] | Mobile-tied life / non-life distribution |
 | Loyalty | Ponta points (via KDDI / Mitsubishi Corp / Lawson alignment) | Cross-segment currency; see [[loyalty/d-point-au-kddi-docomo-telco-point-consolidation|telco point consolidation]] |
 
 The pattern: a single mobile-account identity (au ID) routes the subscriber into payments, banking, card, and insurance products, with Ponta loyalty as the connective currency across KDDI, Mitsubishi Corp, and Lawson.
@@ -53,7 +53,7 @@ au Jibun Bank was founded as a **joint venture between KDDI and MUFG Bank** and 
 
 | Direction | Asset | Effect |
 |---|---|---|
-| au-FH acquires | MUFG Bank's ~22% of [[JapanFG/au-jibun-bank|au Jibun Bank]] | au Jibun Bank moves to full KDDI ownership inside au-FH |
+| au-FH acquires | MUFG Bank's ~22% of [[regional-banks/au-jibun-bank|au Jibun Bank]] | au Jibun Bank moves to full KDDI ownership inside au-FH |
 | au-FH transfers | au Kabucom Securities | MUFG Securities Holdings moves toward 100% of the brokerage |
 
 Announced in late 2024 and targeted for early-2025 completion, the swap let each side concentrate on its comparative advantage: KDDI took full control of the **deposit + payments** rail tied to its subscribers, while MUFG took full control of the **brokerage** business it could plug into its securities and execution platform (au Kabucom adopted Morgan Stanley MUFG Securities' Japanese-equity execution platform).
@@ -76,10 +76,10 @@ au keeps the always-on payment + deposit layer; MUFG takes the brokerage where m
 
 | Group | Telco entity | Bank layer | Securities layer | Pattern |
 |---|---|---|---|---|
-| **KDDI / au** (this case) | au (KDDI 9433) | [[JapanFG/au-jibun-bank|au Jibun Bank]] — **owned** (bought out MUFG 2024) | au Kabucom — **handed to MUFG** 2024 | Own bank + payments, partner out securities |
-| **NTT Docomo** | Docomo (NTT 9432) | Partner ([[JapanFG/smfg|SMBC]] tie-up 2024) | Limited build | Partner-led for the whole bank layer — see [[business/ntt-docomo-d-point-telco-finance-case|Docomo case]] |
-| **SoftBank** | SoftBank (9434) | [[JapanFG/paypay-fg|PayPay]] Bank — owned under PayPay | PayPay Securities — owned | Super-app owns all verticals — see [[business/softbank-paypay-financial-integration-case|SoftBank / PayPay case]] |
-| **Rakuten** | [[JapanFG/rakuten-fg|Rakuten Mobile]] | [[JapanFG/rakuten-fg|Rakuten Bank]] — owned (IPO'd 2023) | Rakuten Securities — owned (partial sale to Mizuho) | Finance subsidises loss-making mobile — see [[business/rakuten-group-mobile-finance-bundling-case|Rakuten case]] |
+| **KDDI / au** (this case) | au (KDDI 9433) | [[regional-banks/au-jibun-bank|au Jibun Bank]] — **owned** (bought out MUFG 2024) | au Kabucom — **handed to MUFG** 2024 | Own bank + payments, partner out securities |
+| **NTT Docomo** | Docomo (NTT 9432) | Partner ([[megabanks/smfg|SMBC]] tie-up 2024) | Limited build | Partner-led for the whole bank layer — see [[business/ntt-docomo-d-point-telco-finance-case|Docomo case]] |
+| **SoftBank** | SoftBank (9434) | [[megabanks/paypay-fg|PayPay]] Bank — owned under PayPay | PayPay Securities — owned | Super-app owns all verticals — see [[business/softbank-paypay-financial-integration-case|SoftBank / PayPay case]] |
+| **Rakuten** | [[payment-firms/rakuten-fg|Rakuten Mobile]] | [[payment-firms/rakuten-fg|Rakuten Bank]] — owned (IPO'd 2023) | Rakuten Securities — owned (partial sale to Mizuho) | Finance subsidises loss-making mobile — see [[business/rakuten-group-mobile-finance-bundling-case|Rakuten case]] |
 
 KDDI's distinction: the only one to run an explicit **reciprocal swap** with its megabank JV partner — buying full control of the bank while exiting securities — rather than either leasing the whole layer (Docomo) or owning everything (Rakuten / SoftBank).
 
@@ -87,7 +87,7 @@ KDDI's distinction: the only one to run an explicit **reciprocal swap** with its
 
 For **KDDI**:
 
-- Full ownership of [[JapanFG/au-jibun-bank|au Jibun Bank]] removes JV-partner friction and lets KDDI integrate banking tightly with au ID and au PAY
+- Full ownership of [[regional-banks/au-jibun-bank|au Jibun Bank]] removes JV-partner friction and lets KDDI integrate banking tightly with au ID and au PAY
 - Exiting au Kabucom Securities frees capital and management attention from a sub-scale brokerage where MUFG has structural advantage
 - Concentrates the finance strategy on the high-frequency payment + deposit relationship that compounds with the mobile base and Ponta loyalty
 
@@ -118,15 +118,15 @@ The pattern most likely to replicate: a telco that owns the deposit + payments r
 ## 7. Counterpoints
 
 - Exact post-swap ownership percentages and completion dates are subject to regulatory approval and the parties' final closing terms; treat early-2025 completion as the announced target rather than a settled historical fact
-- Owning [[JapanFG/au-jibun-bank|au Jibun Bank]] outright means KDDI now bears full balance-sheet and capital-adequacy responsibility under FSA supervision rather than sharing it with MUFG
+- Owning [[regional-banks/au-jibun-bank|au Jibun Bank]] outright means KDDI now bears full balance-sheet and capital-adequacy responsibility under FSA supervision rather than sharing it with MUFG
 - Exiting au Kabucom Securities cedes the brokerage / NISA-channel economics to MUFG at a time when retail equity investment is growing in Japan
 - au PAY and the Ponta engine compete head-on with PayPay's larger user base; bank + payments ownership does not by itself guarantee payment-app leadership
 - The "telco keeps bank, partner takes securities" division assumes the MUFG relationship stays cooperative; substitution cost on the brokerage hand-off is effectively irreversible
 
 ## 8. Open Questions
 
-- Will KDDI use full ownership of [[JapanFG/au-jibun-bank|au Jibun Bank]] to push deeper into lending and embedded finance for au subscribers?
-- Does au PAY have a path to close the user-base gap with [[JapanFG/paypay-fg|PayPay]] now that SoftBank is consolidating and listing PayPay?
+- Will KDDI use full ownership of [[regional-banks/au-jibun-bank|au Jibun Bank]] to push deeper into lending and embedded finance for au subscribers?
+- Does au PAY have a path to close the user-base gap with [[megabanks/paypay-fg|PayPay]] now that SoftBank is consolidating and listing PayPay?
 - Will the Ponta loyalty alignment (KDDI / Mitsubishi Corp / Lawson) deepen into a finance-distribution moat, paralleling Docomo's d-Point engine?
 - Could KDDI ever pursue a [[corporate-strategy/partial-spinoff-tax-deferral|partial-spinoff]] or separate listing of au-FH the way SoftBank is doing with PayPay?
 - How does the au × MUFG division of labour interact with Docomo × SMBC and Rakuten × Mizuho as the three megabanks each anchor a different telco's finance stack?
@@ -138,12 +138,12 @@ The pattern most likely to replicate: a telco that owns the deposit + payments r
 - [[business/softbank-paypay-financial-integration-case|SoftBank / PayPay financial integration case]]
 - [[business/rakuten-group-mobile-finance-bundling-case|Rakuten Group mobile-finance bundling case]]
 - [[business/gmo-internet-group|GMO Internet Group]]
-- [[JapanFG/au-fh|au Financial Holdings]]
-- [[JapanFG/au-jibun-bank|au Jibun Bank]]
-- [[JapanFG/au-payment|au PAY]]
-- [[JapanFG/au-insurance|au Insurance]]
-- [[JapanFG/mufg|MUFG]]
-- [[JapanFG/payments-cards-leasing-finance-index|JapanFG payments / cards / leasing index]]
+- [[megabanks/au-fh|au Financial Holdings]]
+- [[regional-banks/au-jibun-bank|au Jibun Bank]]
+- [[payment-firms/au-payment|au PAY]]
+- [[non-life-insurers/au-insurance|au Insurance]]
+- [[megabanks/mufg|MUFG]]
+- [[JapanFG/INDEX|JapanFG payments / cards / leasing index]]
 - [[payments/cashless-jp-landscape|Japan cashless payment landscape]]
 - [[loyalty/d-point-au-kddi-docomo-telco-point-consolidation|telco point consolidation]]
 - [[INDEX|FinWiki index]]

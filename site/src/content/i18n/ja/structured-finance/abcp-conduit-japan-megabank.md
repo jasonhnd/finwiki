@@ -11,11 +11,11 @@ translated_at: 2026-06-03T00:53:08.335Z
 
 ## 要約
 
-ABCP コンデュイットは、企業売り手から短期債権を買い取り、その購入資金を JSDA が監督する国内 CP 市場で円建てコマーシャルペーパーを発行して調達するオフバランスの特別目的ビークル（[[structured-finance/spv-tk-gk-vehicle-japan-tax|TK / GK SPV structures]]）であり、スポンサーであるメガバンクから **流動性バックストップ** を受ける。日本で重要なスポンサーは、[[JapanFG/mufg|MUFG]]（銀行部門および証券子会社を通じる）、[[JapanFG/smfg|SMFG / SMBC]]、[[JapanFG/mizuho-fg|Mizuho FG]] の三つである。各行は一つまたは二つのマルチセラー・コンデュイットプログラムを運営し、ピーク時の CP 残高は数千億円から 1 兆円超に及んだ。市場は 2008  金融危機後に急縮小した。グローバル ABCP 市場が凍結し、日本のコンデュイットも流動性ラインを引き出したためである。その後、2010  の Basel III 流動性枠組みがスポンサーコミットメントに高い資本コストを課したことでさらに縮小し、危機前ピークよりはるかに小さい規模で安定している。円短期金利がクロスカレンシースワップ・ベーシス上魅力的な場合、外国人投資家は重要な CP 買い手となる。
+ABCP コンデュイットは、企業売り手から短期債権を買い取り、その購入資金を JSDA が監督する国内 CP 市場で円建てコマーシャルペーパーを発行して調達するオフバランスの特別目的ビークル（[[structured-finance/spv-tk-gk-vehicle-japan-tax|TK / GK SPV structures]]）であり、スポンサーであるメガバンクから **流動性バックストップ** を受ける。日本で重要なスポンサーは、[[megabanks/mufg|MUFG]]（銀行部門および証券子会社を通じる）、[[megabanks/smfg|SMFG / SMBC]]、[[megabanks/mizuho-fg|Mizuho FG]] の三つである。各行は一つまたは二つのマルチセラー・コンデュイットプログラムを運営し、ピーク時の CP 残高は数千億円から 1 兆円超に及んだ。市場は 2008  金融危機後に急縮小した。グローバル ABCP 市場が凍結し、日本のコンデュイットも流動性ラインを引き出したためである。その後、2010  の Basel III 流動性枠組みがスポンサーコミットメントに高い資本コストを課したことでさらに縮小し、危機前ピークよりはるかに小さい規模で安定している。円短期金利がクロスカレンシースワップ・ベーシス上魅力的な場合、外国人投資家は重要な CP 買い手となる。
 
 ## ウィキ上の位置づけ
 
-この項目は **短期証券化コンデュイット** ノードとして [[structured-finance/INDEX|structured-finance index]] 配下に置かれる。ターム証券化市場は [[structured-finance/japan-abs-market-overview|Japan ABS market overview]]、法的エンティティ層は [[structured-finance/spv-tk-gk-vehicle-japan-tax|TK / GK SPV vehicle]]、格付け機関が流動性バックストップをどう扱うかは [[structured-finance/credit-rating-methodology-jcr-r-and-i|JCR / R&I methodology]] と照合する。制度上の枠組みは、より広い短期資金調達文脈を扱う [[finance/INDEX|finance index]] である。銀行バランスシート管理との隣接関係として、[[JapanFG/mufg|MUFG]]、[[JapanFG/smfg|SMFG]]、[[JapanFG/mizuho-fg|Mizuho FG]] はそれぞれ Pillar 3  開示で ABCP コンデュイット・エクスポージャーを開示している。
+この項目は **短期証券化コンデュイット** ノードとして [[structured-finance/INDEX|structured-finance index]] 配下に置かれる。ターム証券化市場は [[structured-finance/japan-abs-market-overview|Japan ABS market overview]]、法的エンティティ層は [[structured-finance/spv-tk-gk-vehicle-japan-tax|TK / GK SPV vehicle]]、格付け機関が流動性バックストップをどう扱うかは [[structured-finance/credit-rating-methodology-jcr-r-and-i|JCR / R&I methodology]] と照合する。制度上の枠組みは、より広い短期資金調達文脈を扱う [[finance/INDEX|finance index]] である。銀行バランスシート管理との隣接関係として、[[megabanks/mufg|MUFG]]、[[megabanks/smfg|SMFG]]、[[megabanks/mizuho-fg|Mizuho FG]] はそれぞれ Pillar 3  開示で ABCP コンデュイット・エクスポージャーを開示している。
 
 ## 1. ABCP コンデュイットの姿
 
@@ -63,9 +63,9 @@ ABCP コンデュイットは、企業売り手から短期債権を買い取り
 
 | スポンサー | 典型的なコンデュイット構造 | 残高規模 |
 |---|---|---|
-| [[JapanFG/mufg|MUFG]] | [[JapanFG/mufg|MUFG Bank]] がスポンサーとなり、証券子会社を通じて管理されるマルチセラー・コンデュイット。CP は国内で発行され、歴史的にはオフショアビークルを通じて USD でも発行 | ピーク時に数千億円から約 1  兆円相当 |
-| [[JapanFG/smfg|SMFG / SMBC]] | [[JapanFG/smfg|SMBC]] がスポンサーとなるマルチセラー・コンデュイットプログラム。売掛債権と自動車債権の比重が高い | MUFG と同程度の規模 |
-| [[JapanFG/mizuho-fg|Mizuho FG]] | [[JapanFG/mizuho-fg|Mizuho Bank]] がスポンサーとなるマルチセラー・コンデュイット | MUFG / SMBC の組よりやや小さい |
+| [[megabanks/mufg|MUFG]] | [[megabanks/mufg|MUFG Bank]] がスポンサーとなり、証券子会社を通じて管理されるマルチセラー・コンデュイット。CP は国内で発行され、歴史的にはオフショアビークルを通じて USD でも発行 | ピーク時に数千億円から約 1  兆円相当 |
+| [[megabanks/smfg|SMFG / SMBC]] | [[megabanks/smfg|SMBC]] がスポンサーとなるマルチセラー・コンデュイットプログラム。売掛債権と自動車債権の比重が高い | MUFG と同程度の規模 |
+| [[megabanks/mizuho-fg|Mizuho FG]] | [[megabanks/mizuho-fg|Mizuho Bank]] がスポンサーとなるマルチセラー・コンデュイット | MUFG / SMBC の組よりやや小さい |
 
 これらのコンデュイットは、メガバンク自身の **直接の企業 CP 引受** 事業と並存し、時には競合する。企業売り手自身が CP 適格（高い投資適格）である場合、債権をコンデュイットに売るより、自社名義で CP を発行する方が安いことが多い。
 
@@ -97,9 +97,9 @@ ABCP コンデュイットは、企業売り手から短期債権を買い取り
 ## 5. 現在の市場規模と構造
 
 縮小後の日本の ABCP 市場は、2008  前のピークより実質的に小さいが、次の資金調達チャネルとしてなお意味を持つ。
-- **自動車債権** — [[JapanFG/toyota-tsusho-corp|Toyota Tsusho]] およびその他自動車メーカーのキャプティブ自動車金融会社
+- **自動車債権** — [[financial-conglomerates/toyota-tsusho-corp|Toyota Tsusho]] およびその他自動車メーカーのキャプティブ自動車金融会社
 - **売掛債権** — 製造業者および商社系関連会社
-- **設備リース債権** — [[JapanFG/mitsubishi-hc-capital|Mitsubishi HC Capital]]、[[JapanFG/smfl|SMFL]]、[[JapanFG/orix-corp|ORIX]] などのリース子会社
+- **設備リース債権** — [[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]]、[[leasing-firms/smfl|SMFL]]、[[leasing-firms/orix-corp|ORIX]] などのリース子会社
 - **消費者金融債権** — 地域消費者金融会社
 
 JSDA の短期 CP 統計は ABCP を企業 CP や銀行 CP と合算しているため、ABCP 固有の残高はスポンサー開示から推定する必要がある。
@@ -136,10 +136,10 @@ JSDA の短期 CP 統計は ABCP を企業 CP や銀行 CP と合算している
 
 ## 9. 未解決の論点
 
-- [[JapanFG/boj|BOJ]] の金利正常化の下で、日本の ABCP 市場が実質的に回復するかどうか。円短期資金調達にポジティブキャリーが再構築される可能性がある。
+- [[financial-regulators/boj|BOJ]] の金利正常化の下で、日本の ABCP 市場が実質的に回復するかどうか。円短期資金調達にポジティブキャリーが再構築される可能性がある。
 - 再生可能エネルギー・リース債権や EV 自動車債権など、明確なサステナビリティ特性を持つ債権プールで、ESG リンク ABCP またはグリーン ABCP が出現するかどうか。
-- [[JapanFG/orix-corp|ORIX]] / [[JapanFG/tokyo-century|Tokyo Century]] の非メガバンク・コンデュイットがより活発化した場合の競争上の位置づけ。
-- [[JapanFG/japan-post-bank|Japan Post Bank]] が短期保有を JGB から分散する中で、より大きな ABCP 買い手になるかどうか。
+- [[leasing-firms/orix-corp|ORIX]] / [[leasing-firms/tokyo-century|Tokyo Century]] の非メガバンク・コンデュイットがより活発化した場合の競争上の位置づけ。
+- [[regional-banks/japan-post-bank|Japan Post Bank]] が短期保有を JGB から分散する中で、より大きな ABCP 買い手になるかどうか。
 - スポンサー流動性ファシリティの経済性に影響する LCR / NSFR ルール改定の経路。
 
 ## 関連項目
@@ -149,9 +149,9 @@ JSDA の短期 CP 統計は ABCP を企業 CP や銀行 CP と合算している
 - [[structured-finance/spv-tk-gk-vehicle-japan-tax|TK / GK SPV vehicle]]
 - [[structured-finance/credit-rating-methodology-jcr-r-and-i|JCR / R&I methodology]]
 - [[finance/INDEX|finance index]]
-- [[JapanFG/mufg|MUFG]] · [[JapanFG/smfg|SMFG]] · [[JapanFG/mizuho-fg|Mizuho FG]]
-- [[JapanFG/mitsubishi-hc-capital|Mitsubishi HC Capital]] · [[JapanFG/smfl|SMFL]] · [[JapanFG/orix-corp|ORIX]] · [[JapanFG/tokyo-century|Tokyo Century]]
-- [[JapanFG/japan-exchange-group|JPX]] · [[JapanFG/japan-post-bank|Japan Post Bank]]
+- [[megabanks/mufg|MUFG]] · [[megabanks/smfg|SMFG]] · [[megabanks/mizuho-fg|Mizuho FG]]
+- [[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]] · [[leasing-firms/smfl|SMFL]] · [[leasing-firms/orix-corp|ORIX]] · [[leasing-firms/tokyo-century|Tokyo Century]]
+- [[financial-regulators/japan-exchange-group|JPX]] · [[regional-banks/japan-post-bank|Japan Post Bank]]
 
 ## 出典
 

@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0",
+  "slug": "card-issuers/installment-sales-act-2020-amendment",
+  "source_path": "card-issuers/installment-sales-act-2020-amendment.md",
+  "url": "https://finwiki.zksc.io/card-issuers/installment-sales-act-2020-amendment",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/card-issuers/installment-sales-act-2020-amendment.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/card-issuers/installment-sales-act-2020-amendment.md",
+  "domain": "card-issuers",
+  "title": "割賦販売法 2020 改正",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "割賦販売法 2020 改正",
+    "aliases": [
+      "JapanFG/割賦販売法-2020-改正",
+      "installment-sales-act-2020-amendment"
+    ],
+    "domain": "card-issuers",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "legal",
+      "license",
+      "installment",
+      "credit",
+      "BNPL",
+      "acquiring",
+      "credit-card"
+    ],
+    "status": "active",
+    "sources": [
+      "METI: 割賦販売法 令和2年度改正割賦販売法の関係法令・規定等",
+      "METI: 割賦販売法（後払分野）の概要・FAQ",
+      "METI: 割賦販売法の一部を改正する法律について（令和2年法律第64号）",
+      "METI: 登録事業者一覧",
+      "METI/Kanto METI: 株式会社Paidyに対する行政処分 2024-10-03"
+    ]
+  },
+  "summary": "2020年改正割賦販売法（令和2年法律第64号）は、クレジットカード / 後払い / BNPL のデジタル化に合わせて、(1) 認定包括信用購入あっせん業者、(2) 登録少額包括信用購入あっせん業者、(3) 決済代行・アクワイアリング側のカード番号管理、(4) 書面交付の電子化、(5) 業務停止命令を整備した改正。",
+  "headings": [
+    "割賦販売法 2020 改正",
+    "TL;DR",
+    "Regime Map",
+    "2020 Amendment",
+    "1. 認定包括信用購入あっせん業者",
+    "2. 登録少額包括信用購入あっせん業者",
+    "3. カード番号等の管理主体拡大",
+    "4. 電子化",
+    "5. 行政処分",
+    "JapanFG Relevance"
+  ],
+  "body_links": {
+    "wikilinks_count": 7,
+    "wikilinks": [
+      "card-issuers/credit-saison",
+      "card-issuers/jaccs",
+      "card-issuers/jcb",
+      "card-issuers/orico",
+      "financial-licenses/INDEX",
+      "payment-firms/bnpl-landscape",
+      "payment-firms/paidy"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/card-issuers/credit-saison",
+      "https://finwiki.zksc.io/card-issuers/jaccs",
+      "https://finwiki.zksc.io/card-issuers/jcb",
+      "https://finwiki.zksc.io/card-issuers/orico",
+      "https://finwiki.zksc.io/financial-licenses/INDEX",
+      "https://finwiki.zksc.io/payment-firms/bnpl-landscape",
+      "https://finwiki.zksc.io/payment-firms/paidy"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 4858,
+    "word_like_tokens": 658,
+    "inbound_wikilinks_count": 8,
+    "last_modified": "2026-06-04"
+  }
+}

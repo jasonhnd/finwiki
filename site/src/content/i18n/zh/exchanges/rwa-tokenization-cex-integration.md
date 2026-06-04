@@ -58,6 +58,6 @@ RWA（Real World Asset）代币化 = 将实物资产（美国国债 / 房地产 
 - Ondo Finance USDY/OUSG
 - [[fintech/jp-stablecoin-progmat]]
 - [[exchanges/jp-cex-staking-lending-regulation]]
-- [[JapanFG/progmat]] — Progmat 运营公司锚点
+- [[payment-firms/progmat]] — Progmat 运营公司锚点
 - [[securities/japan-best-execution-sor-pts]] — 日本最优执行 SOR/PTS
 - [[payments/japan-payment-clearing-and-settlement-infrastructure]] — 日本支付清算与结算基础设施

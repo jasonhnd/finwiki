@@ -59,40 +59,40 @@
     "wikilinks": [
       "INDEX",
       "JapanFG/INDEX",
-      "JapanFG/sony-bank",
-      "JapanFG/sony-fg",
-      "JapanFG/sony-insurance",
-      "JapanFG/sony-life",
       "business/sony-fg-partial-spinoff-case",
       "corporate-strategy/partial-spinoff-tax-deferral",
+      "life-insurers/sony-life",
       "manufacturer-finance/INDEX",
       "manufacturer-finance/hitachi-industrial-finance-platform",
       "manufacturer-finance/mitsubishi-heavy-export-finance",
       "manufacturer-finance/panasonic-captive-finance",
-      "manufacturer-finance/toyota-financial-services"
+      "manufacturer-finance/toyota-financial-services",
+      "megabanks/sony-fg",
+      "non-life-insurers/sony-insurance",
+      "regional-banks/sony-bank"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
       "https://finwiki.zksc.io/JapanFG/INDEX",
-      "https://finwiki.zksc.io/JapanFG/sony-bank",
-      "https://finwiki.zksc.io/JapanFG/sony-fg",
-      "https://finwiki.zksc.io/JapanFG/sony-insurance",
-      "https://finwiki.zksc.io/JapanFG/sony-life",
       "https://finwiki.zksc.io/business/sony-fg-partial-spinoff-case",
       "https://finwiki.zksc.io/corporate-strategy/partial-spinoff-tax-deferral",
+      "https://finwiki.zksc.io/life-insurers/sony-life",
       "https://finwiki.zksc.io/manufacturer-finance/INDEX",
       "https://finwiki.zksc.io/manufacturer-finance/hitachi-industrial-finance-platform",
       "https://finwiki.zksc.io/manufacturer-finance/mitsubishi-heavy-export-finance",
       "https://finwiki.zksc.io/manufacturer-finance/panasonic-captive-finance",
-      "https://finwiki.zksc.io/manufacturer-finance/toyota-financial-services"
+      "https://finwiki.zksc.io/manufacturer-finance/toyota-financial-services",
+      "https://finwiki.zksc.io/megabanks/sony-fg",
+      "https://finwiki.zksc.io/non-life-insurers/sony-insurance",
+      "https://finwiki.zksc.io/regional-banks/sony-bank"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5403,
-    "word_like_tokens": 888,
+    "nonspace_chars": 5445,
+    "word_like_tokens": 894,
     "inbound_wikilinks_count": 8,
-    "last_modified": "2026-06-03"
+    "last_modified": "2026-06-04"
   }
 }

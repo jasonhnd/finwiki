@@ -106,7 +106,7 @@ Because the handled-asset list page on the official corporate site could not be 
 - [[fintech/japan-financial-regulation]] — Japanese financial regulation as a whole
 - [[exchanges/jp-exchange-binance-japan]] — peer-company overview
 - [[exchanges/jp-exchange-gmo-coin]] — peer-company overview
-- [[JapanFG/bitflyer]] — bitFlyer Holdings parent-company profile
+- [[payment-firms/bitflyer]] — bitFlyer Holdings parent-company profile
 - [[exchanges/jp-vasp-parent-company-map]] — JP VASP parent-company map
 - [[exchanges/jvcea-self-regulatory-overview]] — JVCEA self-regulation framework
 

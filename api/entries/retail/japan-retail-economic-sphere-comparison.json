@@ -56,17 +56,16 @@
     "wikilinks_count": 20,
     "wikilinks": [
       "INDEX",
-      "JapanFG/au-fh",
-      "JapanFG/legal-financial-licenses/INDEX",
-      "JapanFG/ntt-docomo-sonpo",
-      "JapanFG/paypay-card",
-      "JapanFG/paypay-fg",
-      "JapanFG/rakuten-card",
-      "JapanFG/rakuten-fg",
-      "JapanFG/rakuten-securities",
+      "card-issuers/paypay-card",
+      "card-issuers/rakuten-card",
+      "financial-licenses/INDEX",
       "loyalty/d-point-detailed-ecosystem",
       "loyalty/japan-points-landscape",
       "loyalty/ponta-points-deep-dive",
+      "megabanks/au-fh",
+      "megabanks/paypay-fg",
+      "non-life-insurers/ntt-docomo-sonpo",
+      "payment-firms/rakuten-fg",
       "payments/cashless-jp-landscape",
       "retail/INDEX",
       "retail/aeon-group",
@@ -74,21 +73,21 @@
       "retail/japan-retail-media-finance-loop",
       "retail/lawson-kddi-retail-finance",
       "retail/seven-and-i-hd",
-      "retail/store-traffic-as-financial-distribution"
+      "retail/store-traffic-as-financial-distribution",
+      "securities-firms/rakuten-securities"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/au-fh",
-      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX",
-      "https://finwiki.zksc.io/JapanFG/ntt-docomo-sonpo",
-      "https://finwiki.zksc.io/JapanFG/paypay-card",
-      "https://finwiki.zksc.io/JapanFG/paypay-fg",
-      "https://finwiki.zksc.io/JapanFG/rakuten-card",
-      "https://finwiki.zksc.io/JapanFG/rakuten-fg",
-      "https://finwiki.zksc.io/JapanFG/rakuten-securities",
+      "https://finwiki.zksc.io/card-issuers/paypay-card",
+      "https://finwiki.zksc.io/card-issuers/rakuten-card",
+      "https://finwiki.zksc.io/financial-licenses/INDEX",
       "https://finwiki.zksc.io/loyalty/d-point-detailed-ecosystem",
       "https://finwiki.zksc.io/loyalty/japan-points-landscape",
       "https://finwiki.zksc.io/loyalty/ponta-points-deep-dive",
+      "https://finwiki.zksc.io/megabanks/au-fh",
+      "https://finwiki.zksc.io/megabanks/paypay-fg",
+      "https://finwiki.zksc.io/non-life-insurers/ntt-docomo-sonpo",
+      "https://finwiki.zksc.io/payment-firms/rakuten-fg",
       "https://finwiki.zksc.io/payments/cashless-jp-landscape",
       "https://finwiki.zksc.io/retail/INDEX",
       "https://finwiki.zksc.io/retail/aeon-group",
@@ -96,15 +95,16 @@
       "https://finwiki.zksc.io/retail/japan-retail-media-finance-loop",
       "https://finwiki.zksc.io/retail/lawson-kddi-retail-finance",
       "https://finwiki.zksc.io/retail/seven-and-i-hd",
-      "https://finwiki.zksc.io/retail/store-traffic-as-financial-distribution"
+      "https://finwiki.zksc.io/retail/store-traffic-as-financial-distribution",
+      "https://finwiki.zksc.io/securities-firms/rakuten-securities"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6229,
-    "word_like_tokens": 999,
+    "nonspace_chars": 6248,
+    "word_like_tokens": 1002,
     "inbound_wikilinks_count": 2,
-    "last_modified": "2026-06-03"
+    "last_modified": "2026-06-04"
   }
 }

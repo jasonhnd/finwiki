@@ -1,0 +1,78 @@
+{
+  "schema_version": "1.0",
+  "slug": "trust-banks/midori-trust",
+  "source_path": "trust-banks/midori-trust.md",
+  "url": "https://finwiki.zksc.io/trust-banks/midori-trust",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/trust-banks/midori-trust.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/trust-banks/midori-trust.md",
+  "domain": "trust-banks",
+  "title": "Midori Trust / みどり信託",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Midori Trust / みどり信託",
+    "aliases": [
+      "みどり信託",
+      "みどり信託株式会社",
+      "Midori Trust"
+    ],
+    "domain": "trust-banks",
+    "created": "2026-05-22",
+    "last_updated": "2026-05-22",
+    "last_tended": "2026-05-22",
+    "review_by": "2026-11-22",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "trust-company",
+      "funeral-trust",
+      "inheritance",
+      "public-source"
+    ],
+    "status": "active",
+    "sources": [
+      "FSA trust company list: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.xlsx",
+      "Midori Trust official site: https://www.midoritrust.co.jp/",
+      "Midori Life / Midori Trust partnership release: https://midori-life.com/images/topics/720/3.%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9.pdf"
+    ]
+  },
+  "summary": "Wiki route: JapanFG/INDEX -> trust-banks/trust-companies-japan-index -> trust-banks/midori-trust",
+  "headings": [
+    "Midori Trust / みどり信託",
+    "Overview",
+    "Entity Boundary",
+    "Business Role Map",
+    "Public Context",
+    "Research Checklist",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 7,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/INDEX",
+      "insurance/japan-life-insurance-big-four",
+      "life-insurers/midori-life",
+      "trust-banks/asahi-trust",
+      "trust-banks/midori-trust",
+      "trust-banks/trust-companies-japan-index"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/insurance/japan-life-insurance-big-four",
+      "https://finwiki.zksc.io/life-insurers/midori-life",
+      "https://finwiki.zksc.io/trust-banks/asahi-trust",
+      "https://finwiki.zksc.io/trust-banks/midori-trust",
+      "https://finwiki.zksc.io/trust-banks/trust-companies-japan-index"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2361,
+    "word_like_tokens": 400,
+    "inbound_wikilinks_count": 4,
+    "last_modified": "2026-06-04"
+  }
+}

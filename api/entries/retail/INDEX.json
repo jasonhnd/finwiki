@@ -54,13 +54,13 @@
     "wikilinks": [
       "INDEX",
       "JapanFG/INDEX",
-      "JapanFG/aeon-bank",
-      "JapanFG/legal-financial-licenses/INDEX",
-      "JapanFG/seven-bank",
+      "card-issuers/aeon-bank",
+      "financial-licenses/INDEX",
       "loyalty/INDEX",
       "loyalty/japan-points-landscape",
       "payments/INDEX",
       "payments/cashless-jp-landscape",
+      "regional-banks/seven-bank",
       "retail/aeon-group",
       "retail/familymart-itochu-financial-integration",
       "retail/japan-retail-economic-sphere-comparison",
@@ -76,13 +76,13 @@
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
       "https://finwiki.zksc.io/JapanFG/INDEX",
-      "https://finwiki.zksc.io/JapanFG/aeon-bank",
-      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX",
-      "https://finwiki.zksc.io/JapanFG/seven-bank",
+      "https://finwiki.zksc.io/card-issuers/aeon-bank",
+      "https://finwiki.zksc.io/financial-licenses/INDEX",
       "https://finwiki.zksc.io/loyalty/INDEX",
       "https://finwiki.zksc.io/loyalty/japan-points-landscape",
       "https://finwiki.zksc.io/payments/INDEX",
       "https://finwiki.zksc.io/payments/cashless-jp-landscape",
+      "https://finwiki.zksc.io/regional-banks/seven-bank",
       "https://finwiki.zksc.io/retail/aeon-group",
       "https://finwiki.zksc.io/retail/familymart-itochu-financial-integration",
       "https://finwiki.zksc.io/retail/japan-retail-economic-sphere-comparison",
@@ -99,9 +99,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5851,
-    "word_like_tokens": 898,
+    "nonspace_chars": 5861,
+    "word_like_tokens": 900,
     "inbound_wikilinks_count": 29,
-    "last_modified": "2026-06-03"
+    "last_modified": "2026-06-04"
   }
 }

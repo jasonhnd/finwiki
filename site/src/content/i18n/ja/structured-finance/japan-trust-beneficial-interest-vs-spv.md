@@ -10,7 +10,7 @@ translated_at: 2026-06-03T00:53:08.316Z
 
 # 信託受益権 vs SPV（日本の証券化ビークル）
 ## 要約
-日本の証券化取引では、SPV (TK-GK、TMK など) または信託受益権 (信託受益権) を発行手段として使用できます。信託受益権は単なるラッパーではなく、独自の証券化手段です。オリジネーターは資産を信託に譲渡し、信託は資産を保持し、信託受益権はトランシェに分割されて投資家に販売されます。信託と SPV のどちらを選択するかは、税務処理、オフバランスシートの基準、資産クラスの適合性、および受託者としての [[JapanFG/sumitomo-mitsui-trust]] のような信託銀行の役割によって異なります。一部の取引では、トラストと SPV を組み合わせた二重上場構造が使用されます。このページは、信頼対 SPV の選択ツリーに使用します。 SPV側は[[structured-finance/spv-tk-gk-vehicle-japan-tax]]とペアになります。
+日本の証券化取引では、SPV (TK-GK、TMK など) または信託受益権 (信託受益権) を発行手段として使用できます。信託受益権は単なるラッパーではなく、独自の証券化手段です。オリジネーターは資産を信託に譲渡し、信託は資産を保持し、信託受益権はトランシェに分割されて投資家に販売されます。信託と SPV のどちらを選択するかは、税務処理、オフバランスシートの基準、資産クラスの適合性、および受託者としての [[trust-banks/sumitomo-mitsui-trust]] のような信託銀行の役割によって異なります。一部の取引では、トラストと SPV を組み合わせた二重上場構造が使用されます。このページは、信頼対 SPV の選択ツリーに使用します。 SPV側は[[structured-finance/spv-tk-gk-vehicle-japan-tax]]とペアになります。
 ## ウィキ上の位置づけ
 | あなたが欲しいのは | に行く |
 |---|---|
@@ -24,7 +24,7 @@ translated_at: 2026-06-03T00:53:08.316Z
 | 要素 | 説明 |
 |---|---|
 | 信頼 | 信託法に基づく、受託者、受益者、信託財産による正式な信託 |
-| 管財人 | 信託銀行（[[JapanFG/sumitomo-mitsui-trust]]、三菱UFJ信託、みずほ信託など） |
+| 管財人 | 信託銀行（[[trust-banks/sumitomo-mitsui-trust]]、三菱UFJ信託、みずほ信託など） |
 | 信託財産 | オリジネーターから譲渡された証券化資産プール |
 | 受益権 | 上級トランシェ、中級トランシェ、従属トランシェに分割 |
 | 受益者 | 投資家;金融商品として信託受益権を保有 |
@@ -58,7 +58,7 @@ translated_at: 2026-06-03T00:53:08.316Z
 ## 5。 RMBS に信頼が使用される理由
 | 理由 | 詳細 |
 |---|---|
-| 信託銀行のインフラ | [[JapanFG/sumitomo-mitsui-trust]] およびその他の信託銀行は、既製の受託者業務を備えています |
+| 信託銀行のインフラ | [[trust-banks/sumitomo-mitsui-trust]] およびその他の信託銀行は、既製の受託者業務を備えています |
 | 資産移管の簡素化 | 債権の信託譲渡は法的に確立されている |
 | 税の透明性 | 信託受益権は税務上ルックスルーされます |
 | サービサーの継続性 | 通常、オリジネーターは受託者の監視のもとでサービスを継続します。 |
@@ -111,7 +111,7 @@ translated_at: 2026-06-03T00:53:08.316Z
 - [[structured-finance/auto-loan-abs-japan-toyota-honda]]
 - [[structured-finance/consumer-loan-abs-japan-card-issuer]]
 - [[structured-finance/credit-rating-methodology-jcr-r-and-i]]
-- [[JapanFG/sumitomo-mitsui-trust]]
+- [[trust-banks/sumitomo-mitsui-trust]]
 - [[banking/INDEX]]
 - [[banking/master-trust-bank-operating-model]]
 ## 出典

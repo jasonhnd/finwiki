@@ -64,7 +64,7 @@ FSA「加密资产交换业者登录一览」(`kasoutuka.xlsx`) 与 JVCEA 会员
 2. **与前次 snapshot 的 diff** — 机械性比较登录号码列 / 商号列 / 总店所在地列
 3. **在本页追记 snapshot delta 区块**
 4. **更新受影响 entity wiki 的 `last_tended`**
-5. **新规登录社的 wiki 未整备** → 在 [[JapanFG/missing-financial-institutions-backlog|missing-financial-institutions-backlog]] 记载为追加候选
+5. **新规登录社的 wiki 未整备** → 在 [[financial-regulators/missing-financial-institutions-backlog|missing-financial-institutions-backlog]] 记载为追加候选
 6. **停业社的 entity wiki** → 变更为 `status: deprecated`，追记停业日
 7. **反映 CHANGELOG**（在 domain INDEX 记录 snapshot 反映日）
 

@@ -60,9 +60,9 @@ All values below are categorical descriptors derived from public-surface IR / di
 
 | Entity | Ticker | Market-cap class | Major shareholder shape | ROE class | Yield class | Buyback policy presence | Index inclusion | Foreign-ownership class | Key risks |
 |---|---|---|---|---|---|---|---|---|---|
-| [[JapanFG/mufg]] | 8306 | 大型 | Public-float-heavy with trust / insurer cross-holdings | Mid single-digit to high single-digit historical range | Mid yield class | Buyback programme historically disclosed | Nikkei 225, TOPIX Core 30, FTSE Russell Japan | High foreign ownership | NIM compression, JGB rate path, US / overseas credit cost, FX translation. |
-| [[JapanFG/smfg]] | 8316 | 大型 | Public-float-heavy with strategic cross-holdings | Mid single-digit to high single-digit historical range | Mid yield class | Buyback programme historically disclosed | Nikkei 225, TOPIX Core 30, FTSE Russell Japan | High foreign ownership | NIM compression, overseas credit, equity holdings unwind pace, capital-policy execution. |
-| [[JapanFG/mizuho-fg]] | 8411 | 大型 | Public-float-heavy with strategic cross-holdings | Low single-digit to mid single-digit historical range | Mid yield class | Buyback policy presence varies by period | Nikkei 225, TOPIX Core 30, FTSE Russell Japan | High foreign ownership | NIM compression, system / operational risk legacy, overseas credit, capital-policy execution. |
+| [[megabanks/mufg]] | 8306 | 大型 | Public-float-heavy with trust / insurer cross-holdings | Mid single-digit to high single-digit historical range | Mid yield class | Buyback programme historically disclosed | Nikkei 225, TOPIX Core 30, FTSE Russell Japan | High foreign ownership | NIM compression, JGB rate path, US / overseas credit cost, FX translation. |
+| [[megabanks/smfg]] | 8316 | 大型 | Public-float-heavy with strategic cross-holdings | Mid single-digit to high single-digit historical range | Mid yield class | Buyback programme historically disclosed | Nikkei 225, TOPIX Core 30, FTSE Russell Japan | High foreign ownership | NIM compression, overseas credit, equity holdings unwind pace, capital-policy execution. |
+| [[megabanks/mizuho-fg]] | 8411 | 大型 | Public-float-heavy with strategic cross-holdings | Low single-digit to mid single-digit historical range | Mid yield class | Buyback policy presence varies by period | Nikkei 225, TOPIX Core 30, FTSE Russell Japan | High foreign ownership | NIM compression, system / operational risk legacy, overseas credit, capital-policy execution. |
 | Resona HD | 8308 | 中型 to 大型 | Public-float-heavy regional / SME-bank franchise | Mid single-digit historical range | Mid yield class | Progressive dividend stance historically disclosed | TOPIX, FTSE Russell Japan | Mid foreign ownership | Domestic-focused NIM, SME credit cycle, regional rate sensitivity, branch-network cost. |
 
 Read these against [[finance/japan-ib-league-table]] for adviser-side franchise depth and [[JapanFG/INDEX|JapanFG]] for entity-level pages.
@@ -107,8 +107,8 @@ Note: many digital-bank brands in Japan (e.g. SBI Sumishin Net Bank, au Jibun Ba
 
 | Entity | Ticker | Market-cap class | Sub-sector | Major shareholder shape | Yield class | Buyback policy presence | Index inclusion | Foreign-ownership class | Key risks |
 |---|---|---|---|---|---|---|---|---|---|
-| [[JapanFG/dai-ichi-life]] HD | 8750 | 大型 | Life insurance | Public-float-heavy with strategic cross-holdings | Mid yield class | Buyback programme historically disclosed | Nikkei 225, TOPIX Core 30 / Large 70, FTSE Russell Japan | High foreign ownership | NIRP legacy / rate sensitivity, equity-market sensitivity, FX, overseas life-insurance underwriting. |
-| [[JapanFG/sompo]] HD | 8630 | 大型 | Non-life insurance + nursing / overseas | Public-float-heavy with strategic cross-holdings | Mid yield class | Buyback / cross-holding unwind policy historically disclosed | Nikkei 225, TOPIX, FTSE Russell Japan | Mid to high foreign ownership | NatCat cycle, overseas underwriting, governance / agency-channel event risk, cross-holding unwind pace. |
+| [[life-insurers/dai-ichi-life]] HD | 8750 | 大型 | Life insurance | Public-float-heavy with strategic cross-holdings | Mid yield class | Buyback programme historically disclosed | Nikkei 225, TOPIX Core 30 / Large 70, FTSE Russell Japan | High foreign ownership | NIRP legacy / rate sensitivity, equity-market sensitivity, FX, overseas life-insurance underwriting. |
+| [[non-life-insurers/sompo]] HD | 8630 | 大型 | Non-life insurance + nursing / overseas | Public-float-heavy with strategic cross-holdings | Mid yield class | Buyback / cross-holding unwind policy historically disclosed | Nikkei 225, TOPIX, FTSE Russell Japan | Mid to high foreign ownership | NatCat cycle, overseas underwriting, governance / agency-channel event risk, cross-holding unwind pace. |
 | Tokio Marine HD | 8766 | 大型 | Non-life insurance + overseas | Public-float-heavy with strategic cross-holdings | Mid yield class | Buyback programme historically disclosed | Nikkei 225, TOPIX Core 30, FTSE Russell Japan | High foreign ownership | NatCat cycle, overseas P&C underwriting, FX, capital-policy execution. |
 | MS&AD Insurance Group HD | 8725 | 大型 | Non-life insurance + life + overseas | Public-float-heavy with strategic cross-holdings | Mid yield class | Buyback programme historically disclosed | Nikkei 225, TOPIX, FTSE Russell Japan | Mid to high foreign ownership | NatCat cycle, overseas underwriting, cross-holding unwind pace, governance event risk. |
 
@@ -118,7 +118,7 @@ Life insurers are read with [[finance/japan-large-shareholding-disclosure]] when
 
 | Entity | Ticker | Market-cap class | Sub-sector | Major shareholder shape | Yield class | Index inclusion | Key risks |
 |---|---|---|---|---|---|---|---|
-| [[JapanFG/nomura-hd]] | 8604 | 大型 | Independent securities / wholesale + retail + AM | Public-float-heavy | Mid yield class | Nikkei 225, TOPIX, FTSE Russell Japan | Wholesale earnings volatility, US / overseas litigation, retail-flow cycle, capital-and-cost discipline. |
+| [[securities-firms/nomura-hd]] | 8604 | 大型 | Independent securities / wholesale + retail + AM | Public-float-heavy | Mid yield class | Nikkei 225, TOPIX, FTSE Russell Japan | Wholesale earnings volatility, US / overseas litigation, retail-flow cycle, capital-and-cost discipline. |
 | Daiwa Securities Group | 8601 | 大型 | Independent securities / wholesale + retail + AM | Public-float-heavy | Mid yield class | Nikkei 225, TOPIX, FTSE Russell Japan | Trading earnings volatility, retail-flow cycle, wholesale capacity vs cost. |
 | Monex Group | 8698 | 小型 to 中型 | Online broker + crypto (Coincheck) + US (TradeStation legacy / disposed) | Public-float with founder / strategic stake | Low to mid yield class | TOPIX | Crypto-cycle dependency, retail-trading cycle, regulatory perimeter. |
 | Matsui Securities | 8628 | 中型 | Online broker, retail-flow concentrated | Founder-family / strategic stake significant | Mid to high yield class | TOPIX | Retail-trading cycle, fee compression, demographic skew. |
@@ -257,12 +257,12 @@ Before using any line in this page in any real-world decision, the reader should
 - [[finance/japan-acquisition-finance]]
 - [[finance/japan-tender-offer-process]]
 - [[JapanFG/INDEX|JapanFG]]
-- [[JapanFG/mufg]]
-- [[JapanFG/smfg]]
-- [[JapanFG/mizuho-fg]]
-- [[JapanFG/dai-ichi-life]]
-- [[JapanFG/sompo]]
-- [[JapanFG/nomura-hd]]
+- [[megabanks/mufg]]
+- [[megabanks/smfg]]
+- [[megabanks/mizuho-fg]]
+- [[life-insurers/dai-ichi-life]]
+- [[non-life-insurers/sompo]]
+- [[securities-firms/nomura-hd]]
 - [[securities/tokyo-stock-exchange]]
 - [[securities/japan-market-infrastructure-map]]
 - [[INDEX|FinWiki index]]

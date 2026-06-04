@@ -27,9 +27,9 @@ translated_at: 2026-06-02T14:01:20.929Z
 
 以下の参照キーは原文の占位符を出現順のまま保持したものである。翻訳時に削除、改変、統合、並べ替えを行わない。
 
-- [[JapanFG/fsa|FSA]]
+- [[financial-regulators/fsa|FSA]]
 - [[insurance/ja-kyosai-zenkyoren-overview|JA共済 (Zenkyoren)]]
-- [[JapanFG/zenrosai|全労済 (Zenrosai / こくみん共済 coop)]]
+- [[non-life-insurers/zenrosai|全労済 (Zenrosai / こくみん共済 coop)]]
 - [[JapanFG/kenmin-kyosai|県民共済 (Kenmin Kyosai)]]
 - [[JapanFG/coop-kyosai|COOP共済 (CO・OP共済)]]
 - [[insurance/japan-life-insurance-big-four|life big-four]]
@@ -42,7 +42,7 @@ translated_at: 2026-06-02T14:01:20.929Z
 - [[insurance/earthquake-insurance-public-private-scheme|the earthquake insurance public-private scheme]]
 - [[insurance/economic-value-based-solvency|economic-value-based solvency]]
 - [[insurance/global-solvency-framework-comparison-matrix|the global solvency framework comparison matrix]]
-- [[JapanFG/ja-kyosairen|JA共済連 / Zenkyoren]]
+- [[non-life-insurers/ja-kyosairen|JA共済連 / Zenkyoren]]
 - [[insurance/japan-life-insurance-big-four|life big-four]]
 - [[insurance/ja-kyosai-zenkyoren-overview|the dedicated overview page]]
 - [[JapanFG/japan-coop|Japanese Consumers' Co-operative Union (JCCU / 日本生活協同組合連合会)]]
@@ -63,9 +63,9 @@ translated_at: 2026-06-02T14:01:20.929Z
 - [[insurance/global-solvency-framework-comparison-matrix]]
 - [[insurance/insurance-agency-and-brokerage-japan]]
 - [[insurance/foreign-life-affiliate-japan-positioning]]
-- [[JapanFG/ja-kyosairen]]
-- [[JapanFG/legal-financial-licenses/insurance-license-and-solvency]]
-- [[JapanFG/fsa]]
+- [[non-life-insurers/ja-kyosairen]]
+- [[financial-licenses/insurance-license-and-solvency]]
+- [[financial-regulators/fsa]]
 - [[INDEX|FinWiki index]]
 
 ## 関連

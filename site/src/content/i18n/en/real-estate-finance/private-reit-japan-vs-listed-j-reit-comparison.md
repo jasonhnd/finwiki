@@ -141,8 +141,8 @@ Both forms coexist in the Japan real-estate securitization industry. ARES covers
 - [[policy-finance/japan-housing-finance-agency|JHF]]
 - [[retail/aeon-group|AEON Group]]
 - [[retail/seven-and-i-hd|Seven & i HD]]
-- [[JapanFG/mitsubishi-ufj-trust-bank|Mitsubishi UFJ Trust Bank]]
-- [[JapanFG/sumitomo-mitsui-trust|SMTB]]
+- [[trust-banks/mitsubishi-ufj-trust-bank|Mitsubishi UFJ Trust Bank]]
+- [[trust-banks/sumitomo-mitsui-trust|SMTB]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

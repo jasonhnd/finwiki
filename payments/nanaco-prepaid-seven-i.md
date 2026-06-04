@@ -29,22 +29,22 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[payments/INDEX|payments index]] as the Seven & i-anchored prepaid issuer page that pairs with [[payments/prepaid-payment-instrument-issuers-japan-index|prepaid payment instrument issuers registry]] for the FSA registry view and with [[payments/waon-nanaco-retail-prepaid-comparison|WAON vs nanaco retail prepaid comparison]] for the head-to-head retail anchor comparison. Compare with [[payments/waon-prepaid-aeon|WAON]] (AEON counterpart), [[payments/japan-transit-prepaid-suica-pasmo-icoca-economics|transit-prepaid economics]] (FeliCa peer scheme), and [[payments/famipay-valucreate-strategy|FamiPay]] (convenience-store code-payment counterpart). Issuer / group anchors are [[JapanFG/seven-card-service|Seven Card Service]] (FSA-registered prepaid issuer), [[JapanFG/seven-payment-service|Seven Payment Service]] (settlement services), [[JapanFG/seven-bank|Seven Bank]] (group bank rail), and [[retail/seven-and-i-hd|Seven & i Holdings]]; loyalty integration routes to [[loyalty/japan-points-landscape|Japan points landscape]] for nanaco-point economics.
+This entry sits under [[payments/INDEX|payments index]] as the Seven & i-anchored prepaid issuer page that pairs with [[payments/prepaid-payment-instrument-issuers-japan-index|prepaid payment instrument issuers registry]] for the FSA registry view and with [[payments/waon-nanaco-retail-prepaid-comparison|WAON vs nanaco retail prepaid comparison]] for the head-to-head retail anchor comparison. Compare with [[payments/waon-prepaid-aeon|WAON]] (AEON counterpart), [[payments/japan-transit-prepaid-suica-pasmo-icoca-economics|transit-prepaid economics]] (FeliCa peer scheme), and [[payments/famipay-valucreate-strategy|FamiPay]] (convenience-store code-payment counterpart). Issuer / group anchors are [[card-issuers/seven-card-service|Seven Card Service]] (FSA-registered prepaid issuer), [[payment-firms/seven-payment-service|Seven Payment Service]] (settlement services), [[regional-banks/seven-bank|Seven Bank]] (group bank rail), and [[retail/seven-and-i-hd|Seven & i Holdings]]; loyalty integration routes to [[loyalty/japan-points-landscape|Japan points landscape]] for nanaco-point economics.
 
 ## TL;DR
 
-**nanaco** is the **convenience-store-anchored prepaid e-money** of the Seven & i Holdings group, launched 2007-04 to parallel the simultaneous WAON launch. Issued by [[JapanFG/seven-card-service|株式会社セブン・カードサービス]] (FSA-registered third-party 前払式支払手段 issuer, 法人番号 4010001088278, registered 2007-02-22), nanaco runs on **FeliCa** contactless IC and is the dominant prepaid e-money at the **20,000+ 7-Eleven Japan store network** plus Ito-Yokado supermarkets, Sogo & Seibu department stores, Akachan Honpo, Denny's Japan, and a wide outside-group merchant footprint. Settlement runs through [[JapanFG/seven-payment-service|Seven Payment Service]] under the [[banking/INDEX|Seven & i financial-services platform]] alongside [[JapanFG/seven-bank|Seven Bank]] (group bank rail, ATM charge) and the セブンカード・プラス credit-card co-brand for auto-charge. nanacoポイント loyalty currency converts 1:1 into spendable balance, paralleling the WAON POINT model.
+**nanaco** is the **convenience-store-anchored prepaid e-money** of the Seven & i Holdings group, launched 2007-04 to parallel the simultaneous WAON launch. Issued by [[card-issuers/seven-card-service|株式会社セブン・カードサービス]] (FSA-registered third-party 前払式支払手段 issuer, 法人番号 4010001088278, registered 2007-02-22), nanaco runs on **FeliCa** contactless IC and is the dominant prepaid e-money at the **20,000+ 7-Eleven Japan store network** plus Ito-Yokado supermarkets, Sogo & Seibu department stores, Akachan Honpo, Denny's Japan, and a wide outside-group merchant footprint. Settlement runs through [[payment-firms/seven-payment-service|Seven Payment Service]] under the [[banking/INDEX|Seven & i financial-services platform]] alongside [[regional-banks/seven-bank|Seven Bank]] (group bank rail, ATM charge) and the セブンカード・プラス credit-card co-brand for auto-charge. nanacoポイント loyalty currency converts 1:1 into spendable balance, paralleling the WAON POINT model.
 
 ## Issuer and operational structure
 
 | Dimension | Reading |
 |---|---|
 | Brand owner | Seven & i Holdings |
-| FSA prepaid issuer of record | [[JapanFG/seven-card-service\|株式会社セブン・カードサービス]] |
+| FSA prepaid issuer of record | [[card-issuers/seven-card-service\|株式会社セブン・カードサービス]] |
 | Corporate number | 4010001088278 |
 | FSA registration date | 2007-02-22 |
-| Settlement / payment services | [[JapanFG/seven-payment-service\|株式会社セブン・ペイメントサービス]] |
-| Group bank rail | [[JapanFG/seven-bank\|株式会社セブン銀行]] (ATM charge, auto-charge) |
+| Settlement / payment services | [[payment-firms/seven-payment-service\|株式会社セブン・ペイメントサービス]] |
+| Group bank rail | [[regional-banks/seven-bank\|株式会社セブン銀行]] (ATM charge, auto-charge) |
 | Group card rail | セブンカード・プラス (Visa / JCB co-brand with nanaco IC embedded) |
 | Launch year | 2007-04 |
 | Technology | FeliCa contactless IC |
@@ -56,7 +56,7 @@ This entry sits under [[payments/INDEX|payments index]] as the Seven & i-anchore
 
 Like [[payments/waon-prepaid-aeon|WAON]], nanaco is registered as **第三者型前払式支払手段** under [[payments/funds-transfer-vs-prepaid-boundary|Payment Services Act (資金決済法)]] Chapter 3 prepaid framework. Key regulatory consequences:
 
-- [[JapanFG/seven-card-service|Seven Card Service]] is registered with FSA (関東財務局) and appears in [[payments/prepaid-payment-instrument-issuers-japan-index|`daisan.xlsx`]].
+- [[card-issuers/seven-card-service|Seven Card Service]] is registered with FSA (関東財務局) and appears in [[payments/prepaid-payment-instrument-issuers-japan-index|`daisan.xlsx`]].
 - Half-yearly **unused-balance deposit** obligation: half of outstanding unused balance with Legal Affairs Bureau (供託) as user-fund protection when threshold (¥10M) exceeded.
 - **No refunding to original payer** except at issuance discontinuation.
 - **Breakage** contributes to issuer P&L on dormant / lost cards; Seven & i discloses balance figures in group IR.
@@ -71,7 +71,7 @@ The acceptance network is structured by Seven & i Group retail anchor first, the
 | Tier | Description | Examples |
 |---|---|---|
 | Inner — Seven & i Group | Group convenience-store and retail anchors | 7-Eleven Japan (~21,000 stores), Ito-Yokado, Sogo & Seibu, Akachan Honpo, Denny's Japan, York Mart, York Benimaru |
-| Middle — Group bank rail | ATM charge, auto-charge via Seven Bank and Seven Card | [[JapanFG/seven-bank\|Seven Bank]] ATMs (countrywide, including non-Seven locations), Seven Bank account auto-charge |
+| Middle — Group bank rail | ATM charge, auto-charge via Seven Bank and Seven Card | [[regional-banks/seven-bank\|Seven Bank]] ATMs (countrywide, including non-Seven locations), Seven Bank account auto-charge |
 | Outer — Cross-merchant | Non-group merchants accepting nanaco tap | Tower Records (formerly), gas stations, drugstores, fast food, Pia ticket counters |
 | Mobile rail | Apple Pay / Osaifu Keitai global FeliCa terminals | Any FeliCa-accepting POS |
 | Tax / utility payment | nanaco-specific receipt payment use case | Income tax / property tax payment via 7-Eleven レジ (using nanaco to pay 払込票) — a distinctive nanaco-only flow |
@@ -88,7 +88,7 @@ The **tax / utility receipt payment** use case is a structurally important nanac
 | Group acceptance points | Substantial — Seven & i full retail footprint |
 | nanacoポイント issuance | ¥200 = 1 point at 7-Eleven typical base rate |
 
-Exact period-on-period transaction value / count is disclosed in [[retail/seven-and-i-hd|Seven & i HD]] segment IR and [[JapanFG/seven-card-service|Seven Card Service]] reporting — FinWiki cites the IR documents rather than reproducing quarterly figures.
+Exact period-on-period transaction value / count is disclosed in [[retail/seven-and-i-hd|Seven & i HD]] segment IR and [[card-issuers/seven-card-service|Seven Card Service]] reporting — FinWiki cites the IR documents rather than reproducing quarterly figures.
 
 ## Strategy: convenience-store cashless anchor
 
@@ -96,7 +96,7 @@ nanaco's strategic role inside Seven & i:
 
 1. **Convenience-store register velocity** — FeliCa tap is faster than code-payment QR scan at peak-throughput 7-Eleven registers; nanaco retains a structural speed advantage that is hard for code-payment to dislodge.
 2. **Tax / utility 払込票 cashless conversion** — uniquely positioned to convert tax / utility cash payments into cashless via 7-Eleven register acceptance.
-3. **Group financial-services cross-sell** — nanaco usage feeds [[JapanFG/seven-bank|Seven Bank]] account openings and Seven Card credit-card issuance.
+3. **Group financial-services cross-sell** — nanaco usage feeds [[regional-banks/seven-bank|Seven Bank]] account openings and Seven Card credit-card issuance.
 4. **Inbound tourist acceptance** — Mobile nanaco / Apple Pay reach overseas iPhone users in Japan; combined with Seven & i's high-density urban store network this is a meaningful tourist-cashless lane.
 5. **Code-payment co-existence** — Seven & i Group also operates PayPay acceptance, 楽天ペイ, d払い, au PAY at 7-Eleven registers; nanaco is the **group-loyalty-anchored** rail among the multi-rail acceptance, not a code-payment competitor.
 
@@ -112,9 +112,9 @@ The 2019 7pay incident (the short-lived 7pay code-payment product that was withd
 - [[payments/famipay-valucreate-strategy]]
 - [[payments/funds-transfer-vs-prepaid-boundary]]
 - [[payments/japan-payment-scheme-economics-matrix]]
-- [[JapanFG/seven-card-service]]
-- [[JapanFG/seven-payment-service]]
-- [[JapanFG/seven-bank]]
+- [[card-issuers/seven-card-service]]
+- [[payment-firms/seven-payment-service]]
+- [[regional-banks/seven-bank]]
 - [[retail/seven-and-i-hd]]
 - [[loyalty/japan-points-landscape]]
 - [[INDEX|FinWiki index]]

@@ -12,11 +12,11 @@ translated_at: 2026-05-30T18:10:53.985Z
 
 ## Wiki route
 
-This entry sits under [[banking/INDEX|banking index]] as the operating-profile companion to the entity anchor at [[JapanFG/daiwa-next-bank|大和ネクスト銀行 entity anchor]]. Read it within the segment map at [[banking/japan-net-bank-competition-map|Japan net bank competition map]], with parent context at [[JapanFG/daiwa-sg|Daiwa Securities Group]] and the to-be-consolidated [[JapanFG/orix-bank|Orix Bank]] page, against the securities-adjacent net-bank peer [[banking/sony-bank|Sony Bank]] and the broker-bank cohort [[banking/rakuten-bank|Rakuten Bank]] (linked to [[JapanFG/rakuten-securities|Rakuten Securities]]) · [[banking/au-jibun-bank|au Jibun Bank]] (linked to [[JapanFG/au-kabucom-securities|au Kabucom]]) · [[JapanFG/ssnb|SSNB]] (linked to [[JapanFG/sbi-securities|SBI Securities]]). For the broker-side comparator route through [[securities/INDEX|securities index]] and the integration of MRF (money reserve fund) and bank sweep-deposit mechanics through [[securities/japan-online-brokerage-competition|Japan online brokerage competition]].
+This entry sits under [[banking/INDEX|banking index]] as the operating-profile companion to the entity anchor at [[regional-banks/daiwa-next-bank|大和ネクスト銀行 entity anchor]]. Read it within the segment map at [[banking/japan-net-bank-competition-map|Japan net bank competition map]], with parent context at [[securities-firms/daiwa-sg|Daiwa Securities Group]] and the to-be-consolidated [[trust-banks/orix-bank|Orix Bank]] page, against the securities-adjacent net-bank peer [[banking/sony-bank|Sony Bank]] and the broker-bank cohort [[banking/rakuten-bank|Rakuten Bank]] (linked to [[securities-firms/rakuten-securities|Rakuten Securities]]) · [[banking/au-jibun-bank|au Jibun Bank]] (linked to [[securities-firms/au-kabucom-securities|au Kabucom]]) · [[regional-banks/ssnb|SSNB]] (linked to [[securities-firms/sbi-securities|SBI Securities]]). For the broker-side comparator route through [[securities/INDEX|securities index]] and the integration of MRF (money reserve fund) and bank sweep-deposit mechanics through [[securities/japan-online-brokerage-competition|Japan online brokerage competition]].
 
 ## TL;DR
 
-大和ネクスト銀行 (Daiwa Next Bank, Ltd.) 是 [[JapanFG/daiwa-sg|Daiwa Securities Group, Inc.]](东证 Prime 8601)的全资银行子公司。它是大和一方的**证券银行混合体**支柱,与 [[JapanFG/ssnb|SSNB]](SBI)、[[banking/au-jibun-bank|au Jibun Bank]](KDDI / 三菱 UFJ)及 [[banking/rakuten-bank|Rakuten Bank]](乐天证券毗邻)的架构模式相对应。其业务围绕**将券商现金流整合进银行业务**而构建 —— 与大和证券账户的扫款存款(sweep-deposit)联动、补充外币计价投信(外貨建て投信)销售的多币种存款支持,以及主要由大和证券账户客户构成、约 5.06 万亿日元(截至 2026-03-31,横跨 2,288 千个账户的 5,063.7 亿日元,日元与外币存款合计)的存款基础。在 **2026-04-27**,大和证券集团 / 大和Next银行宣布达成协议,将 [[JapanFG/orix-bank|Orix Bank]] 收为全资子公司,显著扩张集团的银行侧资产负债表、住房贷款发放及信托银行选项 —— 这是大和Next银行自 2011 成立以来最具决定意义的战略举措。^[extracted]
+大和ネクスト銀行 (Daiwa Next Bank, Ltd.) 是 [[securities-firms/daiwa-sg|Daiwa Securities Group, Inc.]](东证 Prime 8601)的全资银行子公司。它是大和一方的**证券银行混合体**支柱,与 [[regional-banks/ssnb|SSNB]](SBI)、[[banking/au-jibun-bank|au Jibun Bank]](KDDI / 三菱 UFJ)及 [[banking/rakuten-bank|Rakuten Bank]](乐天证券毗邻)的架构模式相对应。其业务围绕**将券商现金流整合进银行业务**而构建 —— 与大和证券账户的扫款存款(sweep-deposit)联动、补充外币计价投信(外貨建て投信)销售的多币种存款支持,以及主要由大和证券账户客户构成、约 5.06 万亿日元(截至 2026-03-31,横跨 2,288 千个账户的 5,063.7 亿日元,日元与外币存款合计)的存款基础。在 **2026-04-27**,大和证券集团 / 大和Next银行宣布达成协议,将 [[trust-banks/orix-bank|Orix Bank]] 收为全资子公司,显著扩张集团的银行侧资产负债表、住房贷款发放及信托银行选项 —— 这是大和Next银行自 2011 成立以来最具决定意义的战略举措。^[extracted]
 
 ## 1. 身份与集团定位
 
@@ -26,9 +26,9 @@ This entry sits under [[banking/INDEX|banking index]] as the operating-profile c
 | English name | Daiwa Next Bank, Ltd. |
 | Opening | 2011-05 |
 | Bank-license category | 普通銀行 (ordinary bank under 銀行法), classed under FSA "その他の銀行" |
-| Parent | [[JapanFG/daiwa-sg|Daiwa Securities Group, Inc. (TSE Prime 8601)]] (100%) |
-| Pending acquisition | [[JapanFG/orix-bank|Orix Bank]] — agreement announced 2026-04-27 to make Orix Bank a wholly-owned subsidiary of Daiwa Next Bank / Daiwa Securities Group ^[extracted] |
-| Brokerage sibling | [[JapanFG/daiwa-securities|大和証券]] — primary brokerage operating company in the group |
+| Parent | [[securities-firms/daiwa-sg|Daiwa Securities Group, Inc. (TSE Prime 8601)]] (100%) |
+| Pending acquisition | [[trust-banks/orix-bank|Orix Bank]] — agreement announced 2026-04-27 to make Orix Bank a wholly-owned subsidiary of Daiwa Next Bank / Daiwa Securities Group ^[extracted] |
+| Brokerage sibling | [[securities-firms/daiwa-securities|大和証券]] — primary brokerage operating company in the group |
 | HQ | Tokyo |
 | Channel architecture | App + web + brokerage-counter cross-touch via Daiwa Securities branches |
 | Primary regulator | 金融庁 (FSA) |
@@ -37,7 +37,7 @@ This entry sits under [[banking/INDEX|banking index]] as the operating-profile c
 
 1. **MRF(money reserve fund)←→ 银行存款替代。** 在 2000年代之前,券商账户现金存放于 MRF 投资信托产品中。2000 之后的改革允许券商将客户现金引导至关联银行存款(扫款 sweep)。拥有银行便可获取此前流向外部 MMF / MRF 管理人的存款利差。
 2. **与券商产品交叉销售。** 已经信任大和证券进行投资的客户,会把家庭存款余额转入大和品牌的银行,从而实现一体化的资产形成交叉销售。
-3. **抵御生态圈银行的冲击。** [[banking/rakuten-bank|Rakuten Bank]] 与 [[JapanFG/rakuten-securities|Rakuten Securities]] 联动、[[JapanFG/ssnb|SSNB]] 与 [[JapanFG/sbi-securities|SBI Securities]] 联动,确立了银行—券商一体化模式为标准。若没有自有银行,大和将面临其客户的券商现金流向那些生态圈的风险。
+3. **抵御生态圈银行的冲击。** [[banking/rakuten-bank|Rakuten Bank]] 与 [[securities-firms/rakuten-securities|Rakuten Securities]] 联动、[[regional-banks/ssnb|SSNB]] 与 [[securities-firms/sbi-securities|SBI Securities]] 联动,确立了银行—券商一体化模式为标准。若没有自有银行,大和将面临其客户的券商现金流向那些生态圈的风险。
 
 ### 集团结构(欧力士银行收购完成后)
 
@@ -45,9 +45,9 @@ This entry sits under [[banking/INDEX|banking index]] as the operating-profile c
 Daiwa Securities Group, Inc. (TSE Prime 8601)
   ├── 大和証券 (Daiwa Securities, brokerage operating company)
   ├── 大和ネクスト銀行 (this entry — net bank)
-  │     └── (planned) [[JapanFG/orix-bank|Orix Bank, Ltd.]] (wholly-owned subsidiary upon close of 2026-04-27 announced transaction) ^[extracted]
-  ├── [[JapanFG/daiwa-asset-management|Daiwa Asset Management]]
-  ├── [[JapanFG/daiwa-living-trust|Daiwa Living Trust]]
+  │     └── (planned) [[trust-banks/orix-bank|Orix Bank, Ltd.]] (wholly-owned subsidiary upon close of 2026-04-27 announced transaction) ^[extracted]
+  ├── [[asset-managers/daiwa-asset-management|Daiwa Asset Management]]
+  ├── [[trust-banks/daiwa-living-trust|Daiwa Living Trust]]
   └── Other group subsidiaries (PB, IB, IT, etc.)
 ```
 
@@ -90,13 +90,13 @@ Daiwa Securities Group, Inc. (TSE Prime 8601)
 
 ### 公告内容
 
-在 **2026-04-27**,大和证券集团 / 大和Next银行披露了将 [[JapanFG/orix-bank|Orix Bank, Ltd.]] 收为全资子公司的协议,交割尚待监管批准。^[extracted]
+在 **2026-04-27**,大和证券集团 / 大和Next银行披露了将 [[trust-banks/orix-bank|Orix Bank, Ltd.]] 收为全资子公司的协议,交割尚待监管批准。^[extracted]
 
 ### 该交易的意义
 
 1. **增加住房贷款发放能力**,这是大和Next银行此前未能自建的。
 2. **使银行侧资产组合多元化**,超越券商联动存款与证券投资,进入房地产抵押信贷。
-3. **提供信托银行功能**,通过欧力士银行的信托产品补充 [[JapanFG/daiwa-living-trust|Daiwa Living Trust]]。
+3. **提供信托银行功能**,通过欧力士银行的信托产品补充 [[trust-banks/daiwa-living-trust|Daiwa Living Trust]]。
 4. **显著扩大**合并后银行控股的存款基础。
 
 ### 运营整合问题
@@ -124,9 +124,9 @@ Daiwa Securities Group, Inc. (TSE Prime 8601)
 | Group | Bank | Brokerage | Architecture |
 |---|---|---|---|
 | **Daiwa Securities Group** | **Daiwa Next Bank** | Daiwa Securities | Brokerage-anchored bank; expanding via Orix Bank consolidation |
-| Sumitomo Mitsui Trust + SBI (former 住信SBI) | [[JapanFG/ssnb|SSNB / NEOBANK]] | [[JapanFG/sbi-securities|SBI Securities]] | Pure online + BaaS partner architecture |
-| KDDI + MUFG | [[banking/au-jibun-bank|au Jibun Bank]] | [[JapanFG/au-kabucom-securities|au Kabucom Securities]] | Telecom-anchored ecosystem bank-broker linkage |
-| Rakuten | [[banking/rakuten-bank|Rakuten Bank]] | [[JapanFG/rakuten-securities|Rakuten Securities]] | Commerce-anchored ecosystem bank-broker linkage |
+| Sumitomo Mitsui Trust + SBI (former 住信SBI) | [[regional-banks/ssnb|SSNB / NEOBANK]] | [[securities-firms/sbi-securities|SBI Securities]] | Pure online + BaaS partner architecture |
+| KDDI + MUFG | [[banking/au-jibun-bank|au Jibun Bank]] | [[securities-firms/au-kabucom-securities|au Kabucom Securities]] | Telecom-anchored ecosystem bank-broker linkage |
+| Rakuten | [[banking/rakuten-bank|Rakuten Bank]] | [[securities-firms/rakuten-securities|Rakuten Securities]] | Commerce-anchored ecosystem bank-broker linkage |
 
 ### 大和Next不参与竞争的领域
 
@@ -155,15 +155,15 @@ Daiwa Securities Group, Inc. (TSE Prime 8601)
 - [[banking/rakuten-bank]] · [[banking/paypay-bank]] · [[banking/au-jibun-bank]]
 - [[banking/gmo-aozora-net-bank]]
 - [[banking/ui-bank]]
-- [[JapanFG/daiwa-next-bank]]
-- [[JapanFG/daiwa-sg]]
-- [[JapanFG/orix-bank]]
-- [[JapanFG/daiwa-asset-management]]
-- [[JapanFG/daiwa-living-trust]]
-- [[JapanFG/ssnb]]
-- [[JapanFG/sbi-securities]]
-- [[JapanFG/au-kabucom-securities]]
-- [[JapanFG/rakuten-securities]]
+- [[regional-banks/daiwa-next-bank]]
+- [[securities-firms/daiwa-sg]]
+- [[trust-banks/orix-bank]]
+- [[asset-managers/daiwa-asset-management]]
+- [[trust-banks/daiwa-living-trust]]
+- [[regional-banks/ssnb]]
+- [[securities-firms/sbi-securities]]
+- [[securities-firms/au-kabucom-securities]]
+- [[securities-firms/rakuten-securities]]
 - [[securities/INDEX]]
 - [[securities/japan-online-brokerage-competition]]
 

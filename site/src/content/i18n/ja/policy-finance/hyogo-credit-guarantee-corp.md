@@ -15,7 +15,7 @@ translated_at: 2026-06-03T00:53:08.338Z
 
 ## 要約
 
-Hyogo Credit Guarantee Corporation (兵庫県信用保証協会) は、日本の 51協会から成る地方信用保証制度における兵庫県の会員である。兵庫県には、日本でも最も多様な重工業 / 機械系 SME 基盤が集中しているため、同協会は保証残高で連合会会員の上位十協会に入る。神戸・阪神の鉄鋼と造船 (Kobe Steel, Kawasaki Heavy Industries, Mitsubishi Heavy Industries Kobe works)、神戸港のコンテナ / バルク物流複合体、姫路・明石周辺の精密機械と印刷機械、播州の繊維・皮革製品、さらに但馬 / 淡路の農村経済の裾野が含まれる。主要な協調融資先は、[[JapanFG/minato-bank|Minato Bank ([[JapanFG/smfg|SMFG]] 子会社)]]、[[JapanFG/tajima-bank|Tajima Bank]]、Kansai Mirai Bank / [[JapanFG/resona-hd|Resona Group]] のプレゼンス、そして密な兵庫県内の信用金庫 / 信用組合ネットワークである。
+Hyogo Credit Guarantee Corporation (兵庫県信用保証協会) は、日本の 51協会から成る地方信用保証制度における兵庫県の会員である。兵庫県には、日本でも最も多様な重工業 / 機械系 SME 基盤が集中しているため、同協会は保証残高で連合会会員の上位十協会に入る。神戸・阪神の鉄鋼と造船 (Kobe Steel, Kawasaki Heavy Industries, Mitsubishi Heavy Industries Kobe works)、神戸港のコンテナ / バルク物流複合体、姫路・明石周辺の精密機械と印刷機械、播州の繊維・皮革製品、さらに但馬 / 淡路の農村経済の裾野が含まれる。主要な協調融資先は、[[regional-banks/minato-bank|Minato Bank ([[megabanks/smfg|SMFG]] 子会社)]]、[[regional-banks/tajima-bank|Tajima Bank]]、Kansai Mirai Bank / [[megabanks/resona-hd|Resona Group]] のプレゼンス、そして密な兵庫県内の信用金庫 / 信用組合ネットワークである。
 
 ## 1. 機関概要
 
@@ -28,7 +28,7 @@ Hyogo Credit Guarantee Corporation (兵庫県信用保証協会) は、日本の
 | 保証残高 | 兆円規模 — 連合会全国51協会中の上位 |
 | 加盟金融機関 | 約 30 行 (地域銀行、メガバンク県内支店、信用金庫、信用組合) |
 | 連合会加盟 | [[policy-finance/national-federation-credit-guarantee-corporations|全国信用保証協会連合会 (Japan Federation of Credit Guarantee Corporations)]] の会員 |
-| 信用保険 | [[JapanFG/jfc|JFC]] の信用保険業務により再保険される |
+| 信用保険 | [[financial-regulators/jfc|JFC]] の信用保険業務により再保険される |
 | 境界注記 | 神戸市の政令指定都市 1 市を含む県全域を所管。神戸市は独自の指定都市 CGC は持たず、兵庫県 CGC が一体管理 |
 
 ## 2. 主要保証商品
@@ -57,15 +57,15 @@ Hyogo Credit Guarantee Corporation (兵庫県信用保証協会) は、日本の
 
 ## 4. 協調融資と JFC との重なり
 
-兵庫県 CGC の保証は通常、[[JapanFG/minato-bank|Minato Bank]] (支配的な地域銀行で、Kansai Mirai Financial Group の枠組みに統合された [[JapanFG/smfg|SMFG]] 子会社)、[[JapanFG/tajima-bank|Tajima Bank]] (兵庫県北部の地域銀行)、Kansai Mirai Bank ([[JapanFG/resona-hd|Resona HD]] の関西ビークル)、および密な兵庫県内信用金庫 / 信用組合ネットワーク (Kobe Shinkin, Hyogo Shinkin, Himeji Shinkin など) の融資と並ぶ。メガバンクの存在も厚い。住友の関西ヘリテージと Minato Bank 所有を背景に [[JapanFG/smfg|SMFG]] が優勢であり、[[JapanFG/mufg|MUFG]] と [[JapanFG/mizuho-fg|Mizuho]] も神戸 / 姫路で活発な支店を運営する。
+兵庫県 CGC の保証は通常、[[regional-banks/minato-bank|Minato Bank]] (支配的な地域銀行で、Kansai Mirai Financial Group の枠組みに統合された [[megabanks/smfg|SMFG]] 子会社)、[[regional-banks/tajima-bank|Tajima Bank]] (兵庫県北部の地域銀行)、Kansai Mirai Bank ([[megabanks/resona-hd|Resona HD]] の関西ビークル)、および密な兵庫県内信用金庫 / 信用組合ネットワーク (Kobe Shinkin, Hyogo Shinkin, Himeji Shinkin など) の融資と並ぶ。メガバンクの存在も厚い。住友の関西ヘリテージと Minato Bank 所有を背景に [[megabanks/smfg|SMFG]] が優勢であり、[[megabanks/mufg|MUFG]] と [[megabanks/mizuho-fg|Mizuho]] も神戸 / 姫路で活発な支店を運営する。
 
-[[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]] は兵庫で非常に目立つ。Minato Bank の SMFG / Kansai Mirai への吸収は、周辺県ストレスではなく関西市場構造により進んだ、地域銀行からメガバンクグループへの統合の明瞭な例である。2018 Kansai Mirai Bank の合併 (Kinki Osaka Bank + Kansai Urban Banking を、[[JapanFG/resona-hd|Resona]] / [[JapanFG/smfg|SMFG]] の相互持株の下で Minato Bank と組み合わせたもの) は、保証付き融資における兵庫の中堅銀行カウンターパーティ構図を作り替えた。
+[[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]] は兵庫で非常に目立つ。Minato Bank の SMFG / Kansai Mirai への吸収は、周辺県ストレスではなく関西市場構造により進んだ、地域銀行からメガバンクグループへの統合の明瞭な例である。2018 Kansai Mirai Bank の合併 (Kinki Osaka Bank + Kansai Urban Banking を、[[megabanks/resona-hd|Resona]] / [[megabanks/smfg|SMFG]] の相互持株の下で Minato Bank と組み合わせたもの) は、保証付き融資における兵庫の中堅銀行カウンターパーティ構図を作り替えた。
 
-公的金融の協調融資は [[JapanFG/jfc|JFC]] (政府系金融機関) を通る。JFC の中小企業・小規模事業部門は神戸と姫路に厚い融資デスクを維持し、JFC 信用保険は保証レイヤーを再保険する。[[JapanFG/shoko-chukin|商工中金 (Shoko Chukin)]] は、とくに協同組織型の重工業サプライヤー・コンソーシアムに参加する。
+公的金融の協調融資は [[financial-regulators/jfc|JFC]] (政府系金融機関) を通る。JFC の中小企業・小規模事業部門は神戸と姫路に厚い融資デスクを維持し、JFC 信用保険は保証レイヤーを再保険する。[[financial-regulators/shoko-chukin|商工中金 (Shoko Chukin)]] は、とくに協同組織型の重工業サプライヤー・コンソーシアムに参加する。
 
 ## 5. 代位弁済と求償
 
-保証付きの兵庫 SME がデフォルトすると、兵庫県 CGC は保証契約に基づき融資金融機関へ代位弁済を行い、その後に求償を進める。回収後の残存損失は、[[JapanFG/jfc|JFC]] によって再保険される連合会プール型の信用保険レイヤーへ流れ、[[policy-finance/national-federation-credit-guarantee-corporations|全国信用保証協会連合会]] が 51 協会全体の損失分担を調整する。
+保証付きの兵庫 SME がデフォルトすると、兵庫県 CGC は保証契約に基づき融資金融機関へ代位弁済を行い、その後に求償を進める。回収後の残存損失は、[[financial-regulators/jfc|JFC]] によって再保険される連合会プール型の信用保険レイヤーへ流れ、[[policy-finance/national-federation-credit-guarantee-corporations|全国信用保証協会連合会]] が 51 協会全体の損失分担を調整する。
 
 兵庫の代位弁済量には特徴的なショック経路がある。(1) 世界的な鉄鋼・造船サイクル反転 (重工業サプライヤー基盤)、(2) 神戸港の取扱量ショック (物流 SME)、(3) 播州地場産業の長期衰退 (繊維、皮革)、(4) 神戸 / 淡路 / 有馬 / 城崎クラスターへの観光ショックである。1995 震災復興ドクトリンは今も運用上重要であり、兵庫県 CGC の災害対応プロトコルは連合会の参照テンプレートである。
 
@@ -79,7 +79,7 @@ COVID-19 緊急期 (2020–2021) に、兵庫県 CGC は全国の実質無利子
 
 [[policy-finance/japan-credit-guarantee-system|Japan credit guarantee system]] アーキテクチャ内で、兵庫県 CGC は連合会における災害対応信用保証業務の参照テンプレートとして、特徴的なドクトリン上の役割を果たす。1995 阪神・淡路大震災からの復興は、戦後日本初の大規模な都道府県 CGC 災害対応保証プログラムを確立し、その運用テンプレートは後に [[policy-finance/national-federation-credit-guarantee-corporations|全国信用保証協会連合会]] によって 2011 東北地震対応、2010年代と 2020年代を通じた複数の台風・水害対応、COVID-19 特別保証プログラムへ応用された。
 
-[[JapanFG/jfc|JFC]] の連合会プール型信用保険レイヤーは、責任共有制度の下で兵庫県 CGC が一次損失として代位弁済した後の残存損失を吸収する。災害対応の 100% 保証類型は標準的な責任共有デフォルトの外で運用され、緊急プログラムでは連合会再保険と JFC 信用保険がより大きな損失割合を吸収する。兵庫県 CGC の重工業サプライヤー代位弁済プロファイルは、この再保険レイヤーによって部分的に平準化される。重工業需要サイクルは地域的ではなくグローバルだからである。世界的な鉄鋼サイクル反転による Kobe Steel の受注簿崩壊は、[[JapanFG/jfc|JFC]] 信用保険プールへ拡散し、このプールが 51 協会すべてを支える。
+[[financial-regulators/jfc|JFC]] の連合会プール型信用保険レイヤーは、責任共有制度の下で兵庫県 CGC が一次損失として代位弁済した後の残存損失を吸収する。災害対応の 100% 保証類型は標準的な責任共有デフォルトの外で運用され、緊急プログラムでは連合会再保険と JFC 信用保険がより大きな損失割合を吸収する。兵庫県 CGC の重工業サプライヤー代位弁済プロファイルは、この再保険レイヤーによって部分的に平準化される。重工業需要サイクルは地域的ではなくグローバルだからである。世界的な鉄鋼サイクル反転による Kobe Steel の受注簿崩壊は、[[financial-regulators/jfc|JFC]] 信用保険プールへ拡散し、このプールが 51 協会すべてを支える。
 
 ## 8. 同業都道府県 CGC との比較
 
@@ -89,7 +89,7 @@ COVID-19 緊急期 (2020–2021) に、兵庫県 CGC は全国の実質無利子
 | 近接大都市圏との重なり | 大阪府に隣接。関西の経済重力を共有 | 関西経済重力の中心 | 東京に隣接。関東の経済重力を共有 |
 | 港湾フットプリント | 神戸港 (横浜 / 東京にシェアを失いつつある) | 大阪港 (神戸対比で低下) | 横浜 + 川崎港 (シェア拡大) |
 | 災害対応ドクトリン | 1995 阪神・淡路大震災復興が運用テンプレート | 災害史は比較的目立たない | 地震リスクは高いが、歴史的な災害ドクトリンの重みは低い |
-| 支配的な地域銀行 | [[JapanFG/minato-bank|Minato Bank]] (SMFG 子会社) | Kansai Mirai Bank ([[JapanFG/resona-hd|Resona Group]]); SMBC historical | [[JapanFG/yokohama-bank|Yokohama Bank]] (Concordia FG) |
+| 支配的な地域銀行 | [[regional-banks/minato-bank|Minato Bank]] (SMFG 子会社) | Kansai Mirai Bank ([[megabanks/resona-hd|Resona Group]]); SMBC historical | [[regional-banks/yokohama-bank|Yokohama Bank]] (Concordia FG) |
 | 人口動態・承継圧力 | 高い (阪神 / 播州の創業者世代) | 非常に高い (関西 SME 承継波) | 中程度 |
 
 この比較は、兵庫県 CGC の工業地帯・港湾型プロファイルが、より大きな関西の同業 [[policy-finance/osaka-credit-guarantee-corp|Osaka CGC]] や関東で構造的な鏡像となる [[policy-finance/kanagawa-credit-guarantee-corp|Kanagawa CGC]] とどう異なるかを示す。三者はいずれも同じ [[policy-finance/japan-credit-guarantee-system|Japan credit guarantee system]] メカニズムの下で運営されている。
@@ -104,12 +104,12 @@ COVID-19 緊急期 (2020–2021) に、兵庫県 CGC は全国の実質無利子
 - [[policy-finance/aichi-credit-guarantee-corp]]
 - [[policy-finance/kanagawa-credit-guarantee-corp]]
 - [[policy-finance/fukuoka-credit-guarantee-corp]]
-- [[JapanFG/jfc]]
-- [[JapanFG/shoko-chukin]]
-- [[JapanFG/minato-bank]]
-- [[JapanFG/tajima-bank]]
-- [[JapanFG/smfg]]
-- [[JapanFG/resona-hd]]
+- [[financial-regulators/jfc]]
+- [[financial-regulators/shoko-chukin]]
+- [[regional-banks/minato-bank]]
+- [[regional-banks/tajima-bank]]
+- [[megabanks/smfg]]
+- [[megabanks/resona-hd]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/shinkin-bank-registry-japan]]
 - [[banking/INDEX]]

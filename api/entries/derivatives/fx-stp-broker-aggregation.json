@@ -59,14 +59,6 @@
   "body_links": {
     "wikilinks_count": 20,
     "wikilinks": [
-      "JapanFG/dmm-com-securities",
-      "JapanFG/gmo-click-securities",
-      "JapanFG/matsui-sec",
-      "JapanFG/mizuho-bank",
-      "JapanFG/mufg-bank",
-      "JapanFG/saxo-bank-securities",
-      "JapanFG/sbi-fx-trade",
-      "JapanFG/sumitomo-mitsui-banking-corp",
       "derivatives/INDEX",
       "derivatives/corporate-fx-hedge-policy-japan-listed",
       "derivatives/cross-currency-basis-swap-japan",
@@ -77,18 +69,18 @@
       "derivatives/ois-tona-curve",
       "derivatives/retail-fx-margin-trade-japan",
       "derivatives/yen-basis-swap-market",
+      "megabanks/mizuho-bank",
+      "megabanks/mufg-bank",
+      "megabanks/sumitomo-mitsui-banking-corp",
       "money-market/INDEX",
-      "money-market/japan-money-market"
+      "money-market/japan-money-market",
+      "securities-firms/dmm-com-securities",
+      "securities-firms/gmo-click-securities",
+      "securities-firms/matsui-sec",
+      "securities-firms/saxo-bank-securities",
+      "securities-firms/sbi-fx-trade"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/dmm-com-securities",
-      "https://finwiki.zksc.io/JapanFG/gmo-click-securities",
-      "https://finwiki.zksc.io/JapanFG/matsui-sec",
-      "https://finwiki.zksc.io/JapanFG/mizuho-bank",
-      "https://finwiki.zksc.io/JapanFG/mufg-bank",
-      "https://finwiki.zksc.io/JapanFG/saxo-bank-securities",
-      "https://finwiki.zksc.io/JapanFG/sbi-fx-trade",
-      "https://finwiki.zksc.io/JapanFG/sumitomo-mitsui-banking-corp",
       "https://finwiki.zksc.io/derivatives/INDEX",
       "https://finwiki.zksc.io/derivatives/corporate-fx-hedge-policy-japan-listed",
       "https://finwiki.zksc.io/derivatives/cross-currency-basis-swap-japan",
@@ -99,16 +91,24 @@
       "https://finwiki.zksc.io/derivatives/ois-tona-curve",
       "https://finwiki.zksc.io/derivatives/retail-fx-margin-trade-japan",
       "https://finwiki.zksc.io/derivatives/yen-basis-swap-market",
+      "https://finwiki.zksc.io/megabanks/mizuho-bank",
+      "https://finwiki.zksc.io/megabanks/mufg-bank",
+      "https://finwiki.zksc.io/megabanks/sumitomo-mitsui-banking-corp",
       "https://finwiki.zksc.io/money-market/INDEX",
-      "https://finwiki.zksc.io/money-market/japan-money-market"
+      "https://finwiki.zksc.io/money-market/japan-money-market",
+      "https://finwiki.zksc.io/securities-firms/dmm-com-securities",
+      "https://finwiki.zksc.io/securities-firms/gmo-click-securities",
+      "https://finwiki.zksc.io/securities-firms/matsui-sec",
+      "https://finwiki.zksc.io/securities-firms/saxo-bank-securities",
+      "https://finwiki.zksc.io/securities-firms/sbi-fx-trade"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 14706,
-    "word_like_tokens": 2436,
+    "nonspace_chars": 14835,
+    "word_like_tokens": 2449,
     "inbound_wikilinks_count": 3,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-04"
   }
 }

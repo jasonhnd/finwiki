@@ -12,7 +12,7 @@ translated_at: 2026-06-03T00:53:08.282Z
 
 ## ウィキ上の位置づけ
 
-このエントリは [[securities/INDEX|securities index]] の下にあります。 隣接するコンテキストについては [[securities/financial-instruments-business-operators-japan-index|financial instruments business operators japan index]] を使用し、より広いシステム境界については [[JapanFG/legal-financial-licenses/INDEX|JapanFG index]] を使用して読み取ります。
+このエントリは [[securities/INDEX|securities index]] の下にあります。 隣接するコンテキストについては [[securities/financial-instruments-business-operators-japan-index|financial instruments business operators japan index]] を使用し、より広いシステム境界については [[financial-licenses/INDEX|JapanFG index]] を使用して読み取ります。
 
 ## 要約
 
@@ -43,19 +43,19 @@ FinWiki にとって、ジャパンネクストは、[[securities/tokyo-stock-ex
 
 ジャパンネクストが重要なのは、日本の株式執行が単一取引所の世界なのか、それともルート化された市場なのかをテストするからだ。 時計：
 
-- 小売ブローカーの SOR 採用 (例: [[JapanFG/rakuten-securities|Rakuten Securities]] / [[JapanFG/sbi-securities|SBI 証券]] へのルーティング)。
+- 小売ブローカーの SOR 採用 (例: [[securities-firms/rakuten-securities|Rakuten Securities]] / [[securities-firms/sbi-securities|SBI 証券]] へのルーティング)。
 - 最良実行ポリシーのリビジョン ([[securities/financial-instruments-business-operators-japan-index|FIBO index]] は登録された運営者を追跡します)。
 - スプレッド/ティックサイズの違い;
 - 夜間の流動性。
-- [[JapanFG/sbi-hd|SBI HD]] / Cboe 関連の市場構造との所有権および戦略的連携 (ピア会場は [[securities/osaka-digital-exchange|ODX]] および親会社 [[securities/tokyo-stock-exchange|TSE]])。
+- [[megabanks/sbi-hd|SBI HD]] / Cboe 関連の市場構造との所有権および戦略的連携 (ピア会場は [[securities/osaka-digital-exchange|ODX]] および親会社 [[securities/tokyo-stock-exchange|TSE]])。
 
 ## 関連項目
 
 - [[securities/tokyo-stock-exchange]]
 - [[securities/osaka-digital-exchange]]
-- [[JapanFG/sbi-hd]]
-- [[JapanFG/rakuten-securities]]
-- [[JapanFG/japan-securities-finance]]
+- [[megabanks/sbi-hd]]
+- [[securities-firms/rakuten-securities]]
+- [[financial-regulators/japan-securities-finance]]
 - [[securities/nisa-2024-flow]]
 
 ## 出典

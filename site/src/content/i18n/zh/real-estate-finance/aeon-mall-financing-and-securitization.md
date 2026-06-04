@@ -18,7 +18,7 @@ translated_at: 2026-06-01T03:31:12.244Z
 
 ## Wiki route
 
-本条目位于 [[real-estate-finance/INDEX|real-estate-finance index]] 之下，是**零售资产类别开发商 / sponsor REIT 示例**。可与 [[real-estate-finance/mitsui-fudosan-financing-model|Mitsui Fudosan]] 和 [[real-estate-finance/mitsubishi-estate-financing-model|Mitsubishi Estate]] 对读，以获得办公室 / 综合用途开发商对比。资产类别同业比较见 [[real-estate-finance/logistics-j-reit-vs-office-j-reit-asset-class-comparison|logistics vs office J-REIT comparison]]。母集团消费金融视角见 [[retail/aeon-group|AEON Group]] 和 [[JapanFG/aeon-financial-service|AEON Financial Service]]。系统框架：[[real-estate-finance/j-reit-market-overview|J-REIT market overview]]、[[real-estate-finance/j-reit-sponsor-structure-conflict|J-REIT sponsor structure and conflict]]、[[real-estate-finance/top-10-j-reit-overview-matrix|top 10 J-REIT matrix]]。
+本条目位于 [[real-estate-finance/INDEX|real-estate-finance index]] 之下，是**零售资产类别开发商 / sponsor REIT 示例**。可与 [[real-estate-finance/mitsui-fudosan-financing-model|Mitsui Fudosan]] 和 [[real-estate-finance/mitsubishi-estate-financing-model|Mitsubishi Estate]] 对读，以获得办公室 / 综合用途开发商对比。资产类别同业比较见 [[real-estate-finance/logistics-j-reit-vs-office-j-reit-asset-class-comparison|logistics vs office J-REIT comparison]]。母集团消费金融视角见 [[retail/aeon-group|AEON Group]] 和 [[card-issuers/aeon-financial-service|AEON Financial Service]]。系统框架：[[real-estate-finance/j-reit-market-overview|J-REIT market overview]]、[[real-estate-finance/j-reit-sponsor-structure-conflict|J-REIT sponsor structure and conflict]]、[[real-estate-finance/top-10-j-reit-overview-matrix|top 10 J-REIT matrix]]。
 
 ## 公司结构
 
@@ -39,7 +39,7 @@ AEON Mall（8905）本身是一家**上市零售不动产运营公司**，不是
 | 资金来源 | 用途 |
 |---|---|
 | 母公司 / 集团整合 | 与 [[retail/aeon-group|AEON Co.]] 的交叉持股和集团内部现金管理；获得集团 treasury 和供应商信用 |
-| 国内银团银行贷款 | 绿地购物中心开发的长期项目金融、现有设施再融资；由大型银行牵头的银团安排，包括 [[JapanFG/sumitomo-mitsui-trust|SMTB]]、MUFG Bank、SMBC、Mizuho Bank |
+| 国内银团银行贷款 | 绿地购物中心开发的长期项目金融、现有设施再融资；由大型银行牵头的银团安排，包括 [[trust-banks/sumitomo-mitsui-trust|SMTB]]、MUFG Bank、SMBC、Mizuho Bank |
 | 公开公司债（straight bonds） | 在 shelf-registration 下发行多年期无担保公司债；投资级评级支持 tap 定价 |
 | 向 AEON REIT（3292）处置资产 | 将已稳定购物中心资产回收到 sponsor J-REIT 所获得的现金流入；再投资于新开发管线 |
 | 留存收益 / 经营现金流 | 购物中心租金收入、公共区域费用、租户销售比例租金 |
@@ -56,7 +56,7 @@ AEON Mall（8905）本身是一家**上市零售不动产运营公司**，不是
 | 资产重点 | 零售不动产，主要为日本全国由 AEON 锚定的郊区购物中心和商场，并有一部分在 ASEAN |
 | Sponsor | AEON Co., Ltd.（集团母公司），AEON Mall 是主导管线供应实体 |
 | 资产管理人 | AEON Reit Management Co., Ltd.（sponsor 持有） |
-| 托管 / 受托银行 | 信托银行（J-REIT custody mandate 通常由 [[JapanFG/mitsubishi-ufj-trust-bank|MUFJ Trust]] 或 [[JapanFG/sumitomo-mitsui-trust|SMTB]] 等承接） |
+| 托管 / 受托银行 | 信托银行（J-REIT custody mandate 通常由 [[trust-banks/mitsubishi-ufj-trust-bank|MUFJ Trust]] 或 [[trust-banks/sumitomo-mitsui-trust|SMTB]] 等承接） |
 | 分配政策 | 应税收入的 90%+（Investment Trust Act 下 J-REIT 穿透阈值）；通常半年分配 |
 | 杠杆 | IR 材料公开披露 LTV 目标区间；长期无担保和有担保借款 + 投资法人债 |
 | 份额持有人基础 | 国内零售份额持有人、国内机构（寿险、区域银行、养老金）、海外机构（由 [[real-estate-finance/j-reit-foreign-investor-ownership|J-REIT foreign-investor ownership]] 覆盖） |
@@ -71,7 +71,7 @@ AEON REIT 的组合集中于**锚定租户郊区购物中心**，因此相对于
 |---|---|---|
 | TMK（特定目的会社, Tokutei Mokuteki Kaisha） | Asset Liquidation Act 下单一资产证券化的特殊目的公司；可发行特定债券和优先权益 | [[real-estate-finance/japan-cmbs-rmbs-securitization\|Japan CMBS/RMBS securitization]] |
 | GK-TK（合同会社・匿名組合）结构 | REIT 前 warehousing 或表外结构的私人 bridge / 私募基金层 | [[real-estate-finance/INDEX\|GK-TK in domain index]] |
-| Non-recourse real-estate loans (NRL) | [[JapanFG/sumitomo-mitsui-trust\|SMTB]]、[[JapanFG/mitsubishi-ufj-trust-bank\|MUFJ Trust]] 和大型银行针对特定购物中心物业发放的资产抵押贷款 | [[real-estate-finance/bank-commercial-real-estate-lending-japan\|bank CRE lending Japan]] |
+| Non-recourse real-estate loans (NRL) | [[trust-banks/sumitomo-mitsui-trust\|SMTB]]、[[trust-banks/mitsubishi-ufj-trust-bank\|MUFJ Trust]] 和大型银行针对特定购物中心物业发放的资产抵押贷款 | [[real-estate-finance/bank-commercial-real-estate-lending-japan\|bank CRE lending Japan]] |
 | Trustee beneficiary interest（信託受益権） | J-REIT 持有物业的标准包装格式；J-REIT 持有受托人受益权，而不是直接持有 freehold | [[banking/trust-bank-custody-operating-comparison\|trust bank custody operating comparison]] |
 | Investment corporation bonds（投資法人債） | J-REIT 自身在其银行贷款栈之上发行的无担保债券（3292） | [[real-estate-finance/j-reit-market-overview\|J-REIT market overview]] |
 
@@ -109,8 +109,8 @@ AEON Mall 不只是物业实体 — 它是更广泛 [[retail/aeon-group|AEON Gro
 
 - **AEON Retail 锚定店** — 日常食品 / 综合商品客流。
 - **AEON Card 和 WAON 受理** — 集团支付闭环收益。
-- **[[JapanFG/aeon-bank|AEON Bank]] 店内分行和 ATM** — 无分行零售银行分销渠道。
-- **[[JapanFG/aeon-financial-service|AEON Financial Service]] counters** — 保险、按揭发起、投资信托分销。
+- **[[card-issuers/aeon-bank|AEON Bank]] 店内分行和 ATM** — 无分行零售银行分销渠道。
+- **[[card-issuers/aeon-financial-service|AEON Financial Service]] counters** — 保险、按揭发起、投资信托分销。
 - **租户池** — 支付基础租金 + 销售比例租金的第三方零售商。
 
 金融意义在于，AEON Mall 的租金收入部分受到 [[retail/aeon-group|AEON Co.]] 带来的集团内客流生成保护，**隔离于纯租赁市场波动**。这与 Mitsui Fudosan 或 Mitsubishi Estate 的办公室不同，后者租户基础是暴露于办公室空置周期的第三方企业。资产类别经济性对比见 [[real-estate-finance/logistics-j-reit-vs-office-j-reit-asset-class-comparison|logistics vs office J-REIT comparison]]。
@@ -206,10 +206,10 @@ AEON Mall + AEON REIT 组合的披露界面包括：
 - [[retail/aeon-group|AEON Group]]
 - [[retail/seven-and-i-hd|Seven & i HD]]
 - [[retail/INDEX|retail INDEX]]
-- [[JapanFG/aeon-financial-service|AEON Financial Service]]
-- [[JapanFG/aeon-bank|AEON Bank]]
-- [[JapanFG/sumitomo-mitsui-trust|SMTB]]
-- [[JapanFG/mitsubishi-ufj-trust-bank|MUFJ Trust]]
+- [[card-issuers/aeon-financial-service|AEON Financial Service]]
+- [[card-issuers/aeon-bank|AEON Bank]]
+- [[trust-banks/sumitomo-mitsui-trust|SMTB]]
+- [[trust-banks/mitsubishi-ufj-trust-bank|MUFJ Trust]]
 - [[business/INDEX|business INDEX]]
 - [[corporate-strategy/INDEX|corporate-strategy INDEX]]
 - [[INDEX|FinWiki index]]

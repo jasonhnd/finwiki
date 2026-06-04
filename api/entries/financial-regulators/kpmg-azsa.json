@@ -1,0 +1,95 @@
+{
+  "schema_version": "1.0",
+  "slug": "financial-regulators/kpmg-azsa",
+  "source_path": "financial-regulators/kpmg-azsa.md",
+  "url": "https://finwiki.zksc.io/financial-regulators/kpmg-azsa",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/financial-regulators/kpmg-azsa.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/financial-regulators/kpmg-azsa.md",
+  "domain": "financial-regulators",
+  "title": "有限責任 あずさ監査法人 (KPMG AZSA)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "有限責任 あずさ監査法人 (KPMG AZSA)",
+    "aliases": [
+      "KPMG AZSA",
+      "あずさ監査法人",
+      "有限責任あずさ監査法人",
+      "AZSA LLC",
+      "KPMG Japan audit"
+    ],
+    "domain": "financial-regulators",
+    "created": "2026-05-24",
+    "last_updated": "2026-05-24",
+    "last_tended": "2026-05-24",
+    "review_by": "2026-11-20",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "audit",
+      "big4",
+      "assurance",
+      "accounting",
+      "kpmg"
+    ],
+    "status": "active",
+    "sources": [
+      "https://kpmg.com/jp/ja/home.html",
+      "https://kpmg.com/jp/ja/home/about/azsa.html",
+      "https://kpmg.com/jp/ja/home/services/audit/financial-services/crypto-assets-blockchain.html",
+      "https://jicpa.or.jp/",
+      "https://www.fsa.go.jp/cpaaob/",
+      "https://disclosure2.edinet-fsa.go.jp/",
+      "https://ja.wikipedia.org/wiki/オリンパス事件"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it alongside EY 新日本 and トーマツ for peer Big 4 audit context, and 金融ライセンス INDEX for 公認会計士法 / 監査品質管理の規制境界。CPAAOB 監督文脈は 金融庁 監督局 と 金融庁 総合政策局 の所管。",
+  "headings": [
+    "有限責任 あずさ監査法人 (KPMG AZSA)",
+    "Wiki route",
+    "1. 法人概要",
+    "2. 沿革",
+    "金融機関監査（最大強み）^[extracted]",
+    "暗号資産・デジタルアセット ^[extracted]",
+    "地方銀行 / 地方公共団体",
+    "サステナビリティ保証",
+    "4. 主要 listed FG クライアント関係（公開ベース）",
+    "5. 規制・監督"
+  ],
+  "body_links": {
+    "wikilinks_count": 11,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "exchanges/japan-crypto-audit-firm-landscape",
+      "exchanges/jp-crypto-bank-credit-facilities",
+      "financial-licenses/INDEX",
+      "financial-regulators/deloitte-touche-tohmatsu",
+      "financial-regulators/ey-shinnihon",
+      "financial-regulators/fsa-strategy-bureau",
+      "financial-regulators/fsa-supervision-bureau",
+      "financial-regulators/pwc-aarata",
+      "financial-regulators/taiyo-grant-thornton",
+      "megabanks/smfg"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/exchanges/japan-crypto-audit-firm-landscape",
+      "https://finwiki.zksc.io/exchanges/jp-crypto-bank-credit-facilities",
+      "https://finwiki.zksc.io/financial-licenses/INDEX",
+      "https://finwiki.zksc.io/financial-regulators/deloitte-touche-tohmatsu",
+      "https://finwiki.zksc.io/financial-regulators/ey-shinnihon",
+      "https://finwiki.zksc.io/financial-regulators/fsa-strategy-bureau",
+      "https://finwiki.zksc.io/financial-regulators/fsa-supervision-bureau",
+      "https://finwiki.zksc.io/financial-regulators/pwc-aarata",
+      "https://finwiki.zksc.io/financial-regulators/taiyo-grant-thornton",
+      "https://finwiki.zksc.io/megabanks/smfg"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3775,
+    "word_like_tokens": 549,
+    "inbound_wikilinks_count": 8,
+    "last_modified": "2026-06-04"
+  }
+}

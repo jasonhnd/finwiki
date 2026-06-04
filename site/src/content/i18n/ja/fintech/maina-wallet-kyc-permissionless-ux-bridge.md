@@ -45,7 +45,7 @@ translated_at: 2026-06-02T13:21:55.080Z
 
 ## 適用場面
 
-- 日本リテール SC の差別化設計（マイナ連携 等、[[JapanFG/jpyc|JPYC]] と接続を検討する場面）
+- 日本リテール SC の差別化設計（マイナ連携 等、[[payment-firms/jpyc|JPYC]] と接続を検討する場面）
 - 「USDC vs 国産 SC」議論で日本の構造的優位を語るとき → マイナがある日本は KYC ベース SC を最初から組める「チャンス」
 - 銀行 BaaS × ウォレット連携の構造を設計するとき、[[exchanges/jp-cex-deposit-token-stablecoin-integration|JP CEX × 預金トークン/SC 統合]] と組み合わせて KYC レイヤーを共有する設計が成り立つ
 - SC 発行体として KYC レイヤーを設計するとき

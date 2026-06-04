@@ -11,7 +11,7 @@ translated_at: 2026-06-01T04:15:40.092Z
 
 ## TL;DR
 
-日本的消费贷款和信用卡应收款 ABS 由主要消费金融和发卡公司发行，包括 [[JapanFG/aplus]]、[[JapanFG/orico]]、[[JapanFG/jaccs]]、[[JapanFG/mufg-nicos]] 等，并采用带有提前摊还触发机制的循环池结构。该资产类别在结构上不同于汽车贷款 ABS，因为信用卡应收款期限短、循环性强，并与对经济周期敏感的消费信贷需求相关。违约率比汽车贷款 ABS 更具周期性，但带有硬触发机制的循环结构保护优先级债券持有人。使用本页理解 [[structured-finance/INDEX]] 中的消费 / 信用卡 ABS 结构机制，并连接到 [[JapanFG/INDEX]] 中的消费金融公司页面。
+日本的消费贷款和信用卡应收款 ABS 由主要消费金融和发卡公司发行，包括 [[card-issuers/aplus]]、[[card-issuers/orico]]、[[card-issuers/jaccs]]、[[card-issuers/mufg-nicos]] 等，并采用带有提前摊还触发机制的循环池结构。该资产类别在结构上不同于汽车贷款 ABS，因为信用卡应收款期限短、循环性强，并与对经济周期敏感的消费信贷需求相关。违约率比汽车贷款 ABS 更具周期性，但带有硬触发机制的循环结构保护优先级债券持有人。使用本页理解 [[structured-finance/INDEX]] 中的消费 / 信用卡 ABS 结构机制，并连接到 [[JapanFG/INDEX]] 中的消费金融公司页面。
 
 ## Wiki 路径
 
@@ -21,19 +21,19 @@ translated_at: 2026-06-01T04:15:40.092Z
 | 汽车贷款 ABS 对比 | [[structured-finance/auto-loan-abs-japan-toyota-honda]] |
 | SPV 工具 | [[structured-finance/spv-tk-gk-vehicle-japan-tax]] |
 | 评级方法 | [[structured-finance/credit-rating-methodology-jcr-r-and-i]] |
-| 发卡公司页面 | [[JapanFG/jcb]] |
+| 发卡公司页面 | [[card-issuers/jcb]] |
 
 ## 1. 重复发行人
 
 | 发行人 | 品牌 / 业务 | 典型证券化资产 |
 |---|---|---|
-| [[JapanFG/aplus]] | Aplus Financial（SBI / 其他关联方） | 消费贷款、分期应收款 |
-| [[JapanFG/orico]] | Orient Corporation | 信用卡应收款、汽车分期、消费贷款 |
-| [[JapanFG/jaccs]] | JACCS Co., Ltd. | 分期应收款、信用卡应收款、消费贷款 |
-| [[JapanFG/mufg-nicos]] | Mitsubishi UFJ NICOS | 信用卡应收款 |
-| [[JapanFG/jcb]] | JCB | 信用卡应收款（JCB 品牌） |
-| [[JapanFG/credit-saison]] | Credit Saison | 信用卡应收款、分期应收款 |
-| [[JapanFG/aeon-financial-service]] | Aeon Financial Service（Aeon Card 等） | 信用卡应收款、分期应收款 |
+| [[card-issuers/aplus]] | Aplus Financial（SBI / 其他关联方） | 消费贷款、分期应收款 |
+| [[card-issuers/orico]] | Orient Corporation | 信用卡应收款、汽车分期、消费贷款 |
+| [[card-issuers/jaccs]] | JACCS Co., Ltd. | 分期应收款、信用卡应收款、消费贷款 |
+| [[card-issuers/mufg-nicos]] | Mitsubishi UFJ NICOS | 信用卡应收款 |
+| [[card-issuers/jcb]] | JCB | 信用卡应收款（JCB 品牌） |
+| [[card-issuers/credit-saison]] | Credit Saison | 信用卡应收款、分期应收款 |
+| [[card-issuers/aeon-financial-service]] | Aeon Financial Service（Aeon Card 等） | 信用卡应收款、分期应收款 |
 
 这些是主要的重复发行人；部分交易采用银行关联的受托人结构，其他交易采用 TK-GK SPV。
 
@@ -96,7 +96,7 @@ translated_at: 2026-06-01T04:15:40.092Z
 
 ## 7. 工具选择
 
-大多数日本消费 / 信用卡应收款 ABS 使用 TK-GK SPV（[[structured-finance/spv-tk-gk-vehicle-japan-tax]]）或信托受益权结构（[[structured-finance/japan-trust-beneficial-interest-vs-spv]]）。当受托人为 [[JapanFG/sumitomo-mitsui-trust]] 或 Mitsubishi UFJ Trust 等主要信托银行时，信托结构较为常见。
+大多数日本消费 / 信用卡应收款 ABS 使用 TK-GK SPV（[[structured-finance/spv-tk-gk-vehicle-japan-tax]]）或信托受益权结构（[[structured-finance/japan-trust-beneficial-interest-vs-spv]]）。当受托人为 [[trust-banks/sumitomo-mitsui-trust]] 或 Mitsubishi UFJ Trust 等主要信托银行时，信托结构较为常见。
 
 ## 8. 发行人的融资组合角色
 
@@ -120,11 +120,11 @@ ABS 提供：
 - [[structured-finance/spv-tk-gk-vehicle-japan-tax]]
 - [[structured-finance/japan-trust-beneficial-interest-vs-spv]]
 - [[structured-finance/credit-rating-methodology-jcr-r-and-i]]
-- [[JapanFG/orico]]
-- [[JapanFG/jaccs]]
-- [[JapanFG/aplus]]
-- [[JapanFG/mufg-nicos]]
-- [[JapanFG/jcb]]
+- [[card-issuers/orico]]
+- [[card-issuers/jaccs]]
+- [[card-issuers/aplus]]
+- [[card-issuers/mufg-nicos]]
+- [[card-issuers/jcb]]
 
 ## 来源
 

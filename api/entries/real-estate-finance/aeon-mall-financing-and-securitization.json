@@ -62,15 +62,11 @@
     "wikilinks_count": 33,
     "wikilinks": [
       "INDEX",
-      "JapanFG/aeon-bank",
-      "JapanFG/aeon-financial-service",
-      "JapanFG/mitsubishi-ufj-trust-bank",
-      "JapanFG/mitsubishi-ufj-trust-bank\\",
-      "JapanFG/sumitomo-mitsui-trust",
-      "JapanFG/sumitomo-mitsui-trust\\",
       "banking/trust-bank-custody-operating-comparison",
       "banking/trust-bank-custody-operating-comparison\\",
       "business/INDEX",
+      "card-issuers/aeon-bank",
+      "card-issuers/aeon-financial-service",
       "corporate-strategy/INDEX",
       "real-estate-finance/INDEX",
       "real-estate-finance/INDEX\\",
@@ -93,19 +89,19 @@
       "retail/INDEX",
       "retail/aeon-group",
       "retail/seven-and-i-hd",
-      "retail/seven-and-i-hd\\"
+      "retail/seven-and-i-hd\\",
+      "trust-banks/mitsubishi-ufj-trust-bank",
+      "trust-banks/mitsubishi-ufj-trust-bank\\",
+      "trust-banks/sumitomo-mitsui-trust",
+      "trust-banks/sumitomo-mitsui-trust\\"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/aeon-bank",
-      "https://finwiki.zksc.io/JapanFG/aeon-financial-service",
-      "https://finwiki.zksc.io/JapanFG/mitsubishi-ufj-trust-bank",
-      "https://finwiki.zksc.io/JapanFG/mitsubishi-ufj-trust-bank\\",
-      "https://finwiki.zksc.io/JapanFG/sumitomo-mitsui-trust",
-      "https://finwiki.zksc.io/JapanFG/sumitomo-mitsui-trust\\",
       "https://finwiki.zksc.io/banking/trust-bank-custody-operating-comparison",
       "https://finwiki.zksc.io/banking/trust-bank-custody-operating-comparison\\",
       "https://finwiki.zksc.io/business/INDEX",
+      "https://finwiki.zksc.io/card-issuers/aeon-bank",
+      "https://finwiki.zksc.io/card-issuers/aeon-financial-service",
       "https://finwiki.zksc.io/corporate-strategy/INDEX",
       "https://finwiki.zksc.io/real-estate-finance/INDEX",
       "https://finwiki.zksc.io/real-estate-finance/INDEX\\",
@@ -128,15 +124,19 @@
       "https://finwiki.zksc.io/retail/INDEX",
       "https://finwiki.zksc.io/retail/aeon-group",
       "https://finwiki.zksc.io/retail/seven-and-i-hd",
-      "https://finwiki.zksc.io/retail/seven-and-i-hd\\"
+      "https://finwiki.zksc.io/retail/seven-and-i-hd\\",
+      "https://finwiki.zksc.io/trust-banks/mitsubishi-ufj-trust-bank",
+      "https://finwiki.zksc.io/trust-banks/mitsubishi-ufj-trust-bank\\",
+      "https://finwiki.zksc.io/trust-banks/sumitomo-mitsui-trust",
+      "https://finwiki.zksc.io/trust-banks/sumitomo-mitsui-trust\\"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 21319,
-    "word_like_tokens": 3462,
+    "nonspace_chars": 21372,
+    "word_like_tokens": 3474,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-04"
   }
 }

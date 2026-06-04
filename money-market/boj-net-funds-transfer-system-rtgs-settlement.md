@@ -31,7 +31,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[money-market/INDEX|money-market index]]. Read it against [[money-market/call-market-structure|Call market structure]] and [[money-market/japan-repo-transaction-structures-gensaki-cash-collateralized-securities-lending|repo transaction structures]] for the markets whose cash legs settle across this rail, and [[money-market/boj-open-market-operations|BoJ open market operations]] for how the central bank supplies and absorbs the reserves that flow through it. The institutional owner is [[JapanFG/boj-payment-settlement-dept|the BoJ Payment and Settlement Systems Department]].
+This entry sits under [[money-market/INDEX|money-market index]]. Read it against [[money-market/call-market-structure|Call market structure]] and [[money-market/japan-repo-transaction-structures-gensaki-cash-collateralized-securities-lending|repo transaction structures]] for the markets whose cash legs settle across this rail, and [[money-market/boj-open-market-operations|BoJ open market operations]] for how the central bank supplies and absorbs the reserves that flow through it. The institutional owner is [[financial-regulators/boj-payment-settlement-dept|the BoJ Payment and Settlement Systems Department]].
 
 ## TL;DR
 
@@ -97,11 +97,11 @@ So the *settlement system* (BOJ-NET) and the *rate floor* (interest on reserves)
 
 ## JapanFG Relevance
 
-- [[JapanFG/boj-payment-settlement-dept|BoJ Payment and Settlement Systems Department]] operates and oversees BOJ-NET.
-- [[JapanFG/boj-monetary-policy|BoJ monetary policy]] supplies and absorbs the reserves that move across the rail and sets the reserve-rate floor.
-- [[JapanFG/boj-financial-markets-dept|BoJ Financial Markets Department]] conducts the market operations whose cash settles here.
-- Megabanks [[JapanFG/mufg]], [[JapanFG/smfg]], and [[JapanFG/mizuho-fg]] are direct current-account holders settling their own and clients' large-value yen flows.
-- [[JapanFG/tokyo-tanshi]], [[JapanFG/central-tanshi]], and [[JapanFG/ueda-yagi-tanshi]] intermediate the call and repo trades whose cash legs settle across BOJ-NET.
+- [[financial-regulators/boj-payment-settlement-dept|BoJ Payment and Settlement Systems Department]] operates and oversees BOJ-NET.
+- [[financial-regulators/boj-monetary-policy|BoJ monetary policy]] supplies and absorbs the reserves that move across the rail and sets the reserve-rate floor.
+- [[financial-regulators/boj-financial-markets-dept|BoJ Financial Markets Department]] conducts the market operations whose cash settles here.
+- Megabanks [[megabanks/mufg]], [[megabanks/smfg]], and [[megabanks/mizuho-fg]] are direct current-account holders settling their own and clients' large-value yen flows.
+- [[financial-regulators/tokyo-tanshi]], [[financial-regulators/central-tanshi]], and [[financial-regulators/ueda-yagi-tanshi]] intermediate the call and repo trades whose cash legs settle across BOJ-NET.
 
 ## Boundary Cases
 
@@ -122,12 +122,12 @@ So the *settlement system* (BOJ-NET) and the *rate floor* (interest on reserves)
 - [[money-market/tanshi-company-business-model]]
 - [[securities/japan-market-infrastructure-map]]
 - [[securities/japan-securities-clearing-corp]]
-- [[JapanFG/boj-payment-settlement-dept]]
-- [[JapanFG/boj-monetary-policy]]
-- [[JapanFG/boj-financial-markets-dept]]
-- [[JapanFG/mufg]]
-- [[JapanFG/smfg]]
-- [[JapanFG/mizuho-fg]]
+- [[financial-regulators/boj-payment-settlement-dept]]
+- [[financial-regulators/boj-monetary-policy]]
+- [[financial-regulators/boj-financial-markets-dept]]
+- [[megabanks/mufg]]
+- [[megabanks/smfg]]
+- [[megabanks/mizuho-fg]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

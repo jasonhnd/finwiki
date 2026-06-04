@@ -51,8 +51,8 @@ sources:
 
 ## Institution lanes
 
-- [[JapanFG/jfc|JFC]] — domestic policy-based finance, SME/startup/business succession, education-loan adjacency
-- [[JapanFG/jbic|JBIC]] — overseas investment / export finance, infrastructure, resources, strategic overseas finance
+- [[financial-regulators/jfc|JFC]] — domestic policy-based finance, SME/startup/business succession, education-loan adjacency
+- [[financial-regulators/jbic|JBIC]] — overseas investment / export finance, infrastructure, resources, strategic overseas finance
 - [[policy-finance/jica|JICA]] — ODA implementation and development cooperation
 - [[policy-finance/nexi|NEXI]] — trade and investment insurance
 - [[policy-finance/jogmec|JOGMEC]] — energy and mineral resource security
@@ -63,7 +63,7 @@ sources:
 
 ## Public-credit / guarantee systems
 
-- [[policy-finance/japan-credit-guarantee-system|Japan credit guarantee system]] — SME / small-business credit guarantee architecture linking local credit guarantee corporations, financial institutions, and [[JapanFG/jfc|JFC]] credit insurance
+- [[policy-finance/japan-credit-guarantee-system|Japan credit guarantee system]] — SME / small-business credit guarantee architecture linking local credit guarantee corporations, financial institutions, and [[financial-regulators/jfc|JFC]] credit insurance
 - [[policy-finance/agriculture-credit-guarantee-system|Agriculture credit guarantee system]] — agriculture credit fund associations + Agriculture, Forestry and Fisheries Credit Foundations insurance route
 - [[policy-finance/fisheries-credit-guarantee-system|Fisheries credit guarantee system]] — fishery credit fund associations + Agriculture, Forestry and Fisheries Credit Foundations insurance route
 

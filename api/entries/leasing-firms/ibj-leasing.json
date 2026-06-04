@@ -1,0 +1,88 @@
+{
+  "schema_version": "1.0",
+  "slug": "leasing-firms/ibj-leasing",
+  "source_path": "leasing-firms/ibj-leasing.md",
+  "url": "https://finwiki.zksc.io/leasing-firms/ibj-leasing",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/leasing-firms/ibj-leasing.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/leasing-firms/ibj-leasing.md",
+  "domain": "leasing-firms",
+  "title": "興銀リース (旧称・現みずほリース統合)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "興銀リース (旧称・現みずほリース統合)",
+    "aliases": [
+      "IBJ Leasing",
+      "IBJ Leasing Co., Ltd.",
+      "興銀リース株式会社",
+      "ibj-leasing",
+      "Industrial Bank of Japan Leasing"
+    ],
+    "domain": "leasing-firms",
+    "created": "2026-05-24",
+    "last_updated": "2026-05-24",
+    "last_tended": "2026-05-24",
+    "review_by": "2026-11-20",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "leasing",
+      "finance",
+      "mizuho",
+      "historical-entity",
+      "merger-history",
+      "ibj-legacy"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.mizuho-ls.co.jp/",
+      "https://www.mizuho-fg.co.jp/",
+      "https://www.leasing.or.jp/"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against Mizuho Leasing / みずほリース (the surviving successor entity post-2019 merger) and banking index for the broader system / regulatory boundary. As a Mizuho-side historical entity, read it together with Mizuho FG for parent-group context.",
+  "headings": [
+    "興銀リース (旧称・現みずほリース統合)",
+    "Wiki route",
+    "TL;DR",
+    "1. Historical entity / merger status",
+    "2. Merger history & business lines (旧)",
+    "2019-04 みずほリース統合の背景",
+    "3. Strategic significance of this transition",
+    "4. Why this page matters",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 9,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "banking/INDEX",
+      "finance/japan-acquisition-finance",
+      "leasing-firms/fuyo-lease",
+      "leasing-firms/mitsubishi-hc-capital",
+      "leasing-firms/mizuho-lease",
+      "leasing-firms/orix-corp",
+      "leasing-firms/tokyo-century",
+      "megabanks/mizuho-fg"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/finance/japan-acquisition-finance",
+      "https://finwiki.zksc.io/leasing-firms/fuyo-lease",
+      "https://finwiki.zksc.io/leasing-firms/mitsubishi-hc-capital",
+      "https://finwiki.zksc.io/leasing-firms/mizuho-lease",
+      "https://finwiki.zksc.io/leasing-firms/orix-corp",
+      "https://finwiki.zksc.io/leasing-firms/tokyo-century",
+      "https://finwiki.zksc.io/megabanks/mizuho-fg"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3423,
+    "word_like_tokens": 595,
+    "inbound_wikilinks_count": 4,
+    "last_modified": "2026-06-04"
+  }
+}

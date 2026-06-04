@@ -1,0 +1,93 @@
+{
+  "schema_version": "1.0",
+  "slug": "foreign-financial-institutions/bangkok-bank-japan",
+  "source_path": "foreign-financial-institutions/bangkok-bank-japan.md",
+  "url": "https://finwiki.zksc.io/foreign-financial-institutions/bangkok-bank-japan",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/foreign-financial-institutions/bangkok-bank-japan.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/foreign-financial-institutions/bangkok-bank-japan.md",
+  "domain": "foreign-financial-institutions",
+  "title": "バンコック銀行日本 (Bangkok Bank Japan)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "バンコック銀行日本 (Bangkok Bank Japan)",
+    "aliases": [
+      "Bangkok Bank Japan",
+      "Bangkok Bank Japan Branches",
+      "バンコック銀行",
+      "Bangkok Bank Public Company Limited Japan Branches"
+    ],
+    "domain": "foreign-financial-institutions",
+    "created": "2026-05-22",
+    "last_updated": "2026-05-22",
+    "last_tended": "2026-05-22",
+    "review_by": "2026-11-22",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "foreign-bank",
+      "Thailand",
+      "ASEAN",
+      "trade-finance"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/en/regulated/licensed/index.html",
+      "https://www.fsa.go.jp/en/regulated/licensed/city.pdf",
+      "https://www.fsa.go.jp/en/regulated/licensed/foreign.pdf",
+      "https://www.bangkokbank.com/en/International-Banking/East-Asia/Japan-Business-Banking",
+      "https://www.bangkokbank.com/en/Japanese-Section/Branches-in-Japan",
+      "https://www.ibajapan.org/who-we-are/our-members/commercial-bank/bangkok-bank-public-company-limited-japan-branches"
+    ]
+  },
+  "summary": "Bangkok Bank Japan is the Thailand corridor page inside the foreign-bank branch registry. Read it with DBS Japan, OCBC Japan, UOB Japan, and foreign-bank branch license route.",
+  "headings": [
+    "バンコック銀行日本 (Bangkok Bank Japan)",
+    "Wiki route",
+    "Overview",
+    "Japan-Thailand Corridor Map",
+    "ASEAN Peer Context",
+    "What To Extract In Research",
+    "Caveats",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 12,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/INDEX",
+      "banking/INDEX",
+      "banking/foreign-bank-japan-retreat",
+      "finance/cross-border-m-a-japan",
+      "financial-licenses/foreign-bank-branch-license-route",
+      "foreign-financial-institutions/bangkok-bank-japan",
+      "foreign-financial-institutions/dbs-bank-japan",
+      "foreign-financial-institutions/foreign-bank-branches-japan-index",
+      "foreign-financial-institutions/ocbc-bank-japan",
+      "foreign-financial-institutions/standard-chartered-japan",
+      "foreign-financial-institutions/uob-bank-japan"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/banking/foreign-bank-japan-retreat",
+      "https://finwiki.zksc.io/finance/cross-border-m-a-japan",
+      "https://finwiki.zksc.io/financial-licenses/foreign-bank-branch-license-route",
+      "https://finwiki.zksc.io/foreign-financial-institutions/bangkok-bank-japan",
+      "https://finwiki.zksc.io/foreign-financial-institutions/dbs-bank-japan",
+      "https://finwiki.zksc.io/foreign-financial-institutions/foreign-bank-branches-japan-index",
+      "https://finwiki.zksc.io/foreign-financial-institutions/ocbc-bank-japan",
+      "https://finwiki.zksc.io/foreign-financial-institutions/standard-chartered-japan",
+      "https://finwiki.zksc.io/foreign-financial-institutions/uob-bank-japan"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 4581,
+    "word_like_tokens": 695,
+    "inbound_wikilinks_count": 7,
+    "last_modified": "2026-06-04"
+  }
+}

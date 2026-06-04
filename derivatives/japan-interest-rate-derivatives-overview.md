@@ -85,7 +85,7 @@ The participant set spans dealers, end-users, and infrastructure:
 | Regulator | Financial Services Agency (FSA) under FIEA. |
 | Central bank | Bank of Japan — macro driver of curve via policy and JGB-purchase program. |
 
-The dealer franchise is the structural backbone. Public franchise commentary appears in [[JapanFG/mufg-bank]], [[JapanFG/sumitomo-mitsui-banking-corp]], [[JapanFG/mizuho-bank]] parent-group IR materials.
+The dealer franchise is the structural backbone. Public franchise commentary appears in [[megabanks/mufg-bank]], [[megabanks/sumitomo-mitsui-banking-corp]], [[megabanks/mizuho-bank]] parent-group IR materials.
 
 ## Daily Turnover
 
@@ -176,10 +176,10 @@ Public data is rich enough to characterize aggregate market size, dealer concent
 - [[securities/INDEX]]
 - [[securities/japan-market-infrastructure-map]]
 - [[securities/japan-securities-clearing-corp]]
-- [[JapanFG/mufg-bank]]
-- [[JapanFG/sumitomo-mitsui-banking-corp]]
-- [[JapanFG/mizuho-bank]]
-- [[JapanFG/japan-securities-finance]]
+- [[megabanks/mufg-bank]]
+- [[megabanks/sumitomo-mitsui-banking-corp]]
+- [[megabanks/mizuho-bank]]
+- [[financial-regulators/japan-securities-finance]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

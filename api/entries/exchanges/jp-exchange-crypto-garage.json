@@ -53,7 +53,6 @@
   "body_links": {
     "wikilinks_count": 12,
     "wikilinks": [
-      "JapanFG/nomura-hd",
       "exchanges/INDEX",
       "exchanges/fsa-vasp-registration-system",
       "exchanges/jp-crypto-market-maker-otc-layer",
@@ -64,10 +63,10 @@
       "fintech/japan-bittrade-listing-process",
       "fintech/japan-financial-regulation",
       "fintech/japan-stablecoin-regulatory-landscape",
-      "fintech/jp-trust-type-sc-architecture"
+      "fintech/jp-trust-type-sc-architecture",
+      "securities-firms/nomura-hd"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/nomura-hd",
       "https://finwiki.zksc.io/exchanges/INDEX",
       "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
       "https://finwiki.zksc.io/exchanges/jp-crypto-market-maker-otc-layer",
@@ -78,7 +77,8 @@
       "https://finwiki.zksc.io/fintech/japan-bittrade-listing-process",
       "https://finwiki.zksc.io/fintech/japan-financial-regulation",
       "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
-      "https://finwiki.zksc.io/fintech/jp-trust-type-sc-architecture"
+      "https://finwiki.zksc.io/fintech/jp-trust-type-sc-architecture",
+      "https://finwiki.zksc.io/securities-firms/nomura-hd"
     ],
     "external_links_count": 10,
     "external_links": [
@@ -95,9 +95,9 @@
     ]
   },
   "metrics": {
-    "nonspace_chars": 6138,
-    "word_like_tokens": 963,
+    "nonspace_chars": 6147,
+    "word_like_tokens": 964,
     "inbound_wikilinks_count": 13,
-    "last_modified": "2026-05-24"
+    "last_modified": "2026-06-04"
   }
 }

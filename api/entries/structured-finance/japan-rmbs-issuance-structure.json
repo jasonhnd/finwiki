@@ -55,11 +55,10 @@
   "body_links": {
     "wikilinks_count": 14,
     "wikilinks": [
-      "JapanFG/mizuho-fg",
-      "JapanFG/mufg",
-      "JapanFG/smfg",
-      "JapanFG/sumitomo-mitsui-trust",
       "banking/INDEX",
+      "megabanks/mizuho-fg",
+      "megabanks/mufg",
+      "megabanks/smfg",
       "policy-finance/japan-housing-finance-agency",
       "real-estate-finance/INDEX",
       "structured-finance/INDEX",
@@ -68,14 +67,14 @@
       "structured-finance/japan-trust-beneficial-interest-vs-spv",
       "structured-finance/jhf-mbs-mechanics",
       "structured-finance/jhf-mbs-vs-private-rmbs-spread",
-      "structured-finance/spv-tk-gk-vehicle-japan-tax"
+      "structured-finance/spv-tk-gk-vehicle-japan-tax",
+      "trust-banks/sumitomo-mitsui-trust"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/mizuho-fg",
-      "https://finwiki.zksc.io/JapanFG/mufg",
-      "https://finwiki.zksc.io/JapanFG/smfg",
-      "https://finwiki.zksc.io/JapanFG/sumitomo-mitsui-trust",
       "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/smfg",
       "https://finwiki.zksc.io/policy-finance/japan-housing-finance-agency",
       "https://finwiki.zksc.io/real-estate-finance/INDEX",
       "https://finwiki.zksc.io/structured-finance/INDEX",
@@ -84,15 +83,16 @@
       "https://finwiki.zksc.io/structured-finance/japan-trust-beneficial-interest-vs-spv",
       "https://finwiki.zksc.io/structured-finance/jhf-mbs-mechanics",
       "https://finwiki.zksc.io/structured-finance/jhf-mbs-vs-private-rmbs-spread",
-      "https://finwiki.zksc.io/structured-finance/spv-tk-gk-vehicle-japan-tax"
+      "https://finwiki.zksc.io/structured-finance/spv-tk-gk-vehicle-japan-tax",
+      "https://finwiki.zksc.io/trust-banks/sumitomo-mitsui-trust"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6086,
-    "word_like_tokens": 929,
+    "nonspace_chars": 6100,
+    "word_like_tokens": 931,
     "inbound_wikilinks_count": 12,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-04"
   }
 }

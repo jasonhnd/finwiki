@@ -74,7 +74,7 @@ Use this page with [[finance/japan-tender-offer-process|Japan tender offer proce
 | Security agent | Who holds collateral for lenders? |
 | Hedge provider | Who provides interest-rate / FX hedges? |
 
-Japan anchors include [[JapanFG/mufg-bank|MUFG Bank]], [[JapanFG/mizuho-bank|Mizuho Bank]], [[JapanFG/sumitomo-mitsui-banking-corp|SMBC]], [[JapanFG/smtb|SMTB]], [[JapanFG/dbj|DBJ]], [[JapanFG/nomura-hd|Nomura]], [[JapanFG/daiwa-sg|Daiwa Securities Group]], [[JapanFG/jpmorgan-japan|J.P. Morgan Japan]], [[JapanFG/goldman-sachs-japan|Goldman Sachs Japan]], and [[JapanFG/morgan-stanley-japan|Morgan Stanley Japan]].
+Japan anchors include [[megabanks/mufg-bank|MUFG Bank]], [[megabanks/mizuho-bank|Mizuho Bank]], [[megabanks/sumitomo-mitsui-banking-corp|SMBC]], [[trust-banks/smtb|SMTB]], [[financial-regulators/dbj|DBJ]], [[securities-firms/nomura-hd|Nomura]], [[securities-firms/daiwa-sg|Daiwa Securities Group]], [[foreign-financial-institutions/jpmorgan-japan|J.P. Morgan Japan]], [[securities-firms/goldman-sachs-japan|Goldman Sachs Japan]], and [[securities-firms/morgan-stanley-japan|Morgan Stanley Japan]].
 
 ## TOB / Public Disclosure Interface
 
@@ -123,9 +123,9 @@ For public-company acquisitions, open [[finance/japan-tender-offer-process|Japan
 - [[finance/japan-ib-league-table]]
 - [[banking/post-megabank-positioning]]
 - [[securities/japan-underwriting-market-structure]]
-- [[JapanFG/mufg-bank]]
-- [[JapanFG/mizuho-bank]]
-- [[JapanFG/sumitomo-mitsui-banking-corp]]
+- [[megabanks/mufg-bank]]
+- [[megabanks/mizuho-bank]]
+- [[megabanks/sumitomo-mitsui-banking-corp]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

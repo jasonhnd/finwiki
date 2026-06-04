@@ -15,7 +15,7 @@ The key point: Lloyd's capacity in Japan is supplied by London-based syndicates 
 
 ## Wiki route
 
-This entry sits under [[insurance/INDEX|insurance index]]. Read it against [[JapanFG/lloyd-japan|Lloyd's Japan]] for the entity-level page, [[insurance/foreign-reinsurer-japan-landscape|foreign reinsurer Japan landscape]] for the conventional foreign-reinsurer panel comparison, [[insurance/marine-insurance-and-pi-cover-market|marine insurance and P&I cover market]] for marine specialty context, [[insurance/japan-nonlife-big-three|Japan non-life big three]] for who Lloyd's competes with and complements, [[insurance/captive-insurance-japan-market|captive insurance Japan market]] for an adjacent specialty-risk-transfer route, and [[insurance/global-solvency-framework-comparison-matrix|global solvency framework comparison matrix]] for the Solvency II / PRA framework that supervises Lloyd's at parent level.
+This entry sits under [[insurance/INDEX|insurance index]]. Read it against [[non-life-insurers/lloyd-japan|Lloyd's Japan]] for the entity-level page, [[insurance/foreign-reinsurer-japan-landscape|foreign reinsurer Japan landscape]] for the conventional foreign-reinsurer panel comparison, [[insurance/marine-insurance-and-pi-cover-market|marine insurance and P&I cover market]] for marine specialty context, [[insurance/japan-nonlife-big-three|Japan non-life big three]] for who Lloyd's competes with and complements, [[insurance/captive-insurance-japan-market|captive insurance Japan market]] for an adjacent specialty-risk-transfer route, and [[insurance/global-solvency-framework-comparison-matrix|global solvency framework comparison matrix]] for the Solvency II / PRA framework that supervises Lloyd's at parent level.
 
 ## 1. What Lloyd's of London actually is
 
@@ -31,7 +31,7 @@ Lloyd's is not a company; it is a regulated marketplace.
 1. **Premiums Trust Funds** at the syndicate level — first call.
 2. **Members' Funds at Lloyd's (FAL)** — second call, posted by each member to support its underwriting share.
 
-This chain is the structural alternative to a single-balance-sheet insurer. It is also why Lloyd's Japan Inc. cannot be compared like-for-like with [[JapanFG/aig-japan|AIG Japan]] or [[JapanFG/chubb-insurance-japan|Chubb Insurance Japan]] on financial-statement metrics: the balance sheet sits in London.
+This chain is the structural alternative to a single-balance-sheet insurer. It is also why Lloyd's Japan Inc. cannot be compared like-for-like with [[non-life-insurers/aig-japan|AIG Japan]] or [[non-life-insurers/chubb-insurance-japan|Chubb Insurance Japan]] on financial-statement metrics: the balance sheet sits in London.
 
 ## 2. Lloyd's Japan Inc. — what it is and what it isn't
 
@@ -86,7 +86,7 @@ This is why Lloyd's appears in both [[insurance/foreign-reinsurer-japan-landscap
 
 ## 7. Comparison: Lloyd's Japan vs conventional foreign insurer
 
-| Dimension | Lloyd's Japan ([[JapanFG/lloyd-japan]]) | Conventional foreign insurer (e.g., [[JapanFG/aig-japan|AIG Japan]], [[JapanFG/chubb-insurance-japan|Chubb]]) |
+| Dimension | Lloyd's Japan ([[non-life-insurers/lloyd-japan]]) | Conventional foreign insurer (e.g., [[non-life-insurers/aig-japan|AIG Japan]], [[non-life-insurers/chubb-insurance-japan|Chubb]]) |
 |---|---|---|
 | Structure | Marketplace platform; multiple syndicates per risk | Single insurer with one balance sheet |
 | Capital backing | Three-link chain of security (Premiums Trust Funds → FAL → Central Fund) | Parent company balance sheet |
@@ -110,18 +110,18 @@ This is why Lloyd's appears in both [[insurance/foreign-reinsurer-japan-landscap
 - [[insurance/global-solvency-framework-comparison-matrix]]
 - [[insurance/insurance-agency-and-brokerage-japan]]
 - [[insurance/natcat-reinsurance-japan]]
-- [[JapanFG/nonlife-insurer-registry-japan-index]]
-- [[JapanFG/lloyd-japan]]
-- [[JapanFG/aig-japan]]
-- [[JapanFG/chubb-insurance-japan]]
-- [[JapanFG/allianz-fire-marine-japan]]
-- [[JapanFG/japan-pi-club]]
-- [[JapanFG/tokio-marine-nichido-fire]]
-- [[JapanFG/mitsui-sumitomo-insurance]]
-- [[JapanFG/sompo-japan-insurance]]
-- [[JapanFG/munich-re-japan]]
-- [[JapanFG/swiss-re-japan]]
-- [[JapanFG/legal-financial-licenses/insurance-license-and-solvency]]
+- [[non-life-insurers/nonlife-insurer-registry-japan-index]]
+- [[non-life-insurers/lloyd-japan]]
+- [[non-life-insurers/aig-japan]]
+- [[non-life-insurers/chubb-insurance-japan]]
+- [[non-life-insurers/allianz-fire-marine-japan]]
+- [[financial-regulators/japan-pi-club]]
+- [[non-life-insurers/tokio-marine-nichido-fire]]
+- [[non-life-insurers/mitsui-sumitomo-insurance]]
+- [[non-life-insurers/sompo-japan-insurance]]
+- [[non-life-insurers/munich-re-japan]]
+- [[non-life-insurers/swiss-re-japan]]
+- [[financial-licenses/insurance-license-and-solvency]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

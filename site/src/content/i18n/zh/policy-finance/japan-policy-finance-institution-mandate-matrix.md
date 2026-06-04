@@ -12,11 +12,11 @@ translated_at: 2026-06-01T03:31:12.229Z
 
 ## 长话短说
 
-日本的政策金融工具箱是**九个机构**，而不是一个。每个都有独特的法规、所有权形式、监管部长、产品范围、地理范围和交易对手堆栈。单一海外液化天然气、采矿、半导体或关键矿产交易可以涉及资源股权[[policy-finance/jogmec|JOGMEC]]、买方信贷[[JapanFG/jbic|JBIC]]、政治风险保险[[policy-finance/nexi|NEXI]]、仅通过中小企业供应商融资的[[JapanFG/jfc|JFC]]，并且切勿触及[[policy-finance/jica|JICA]]（ODA）或[[policy-finance/japan-housing-finance-agency|JHF]]（外壳）根本没有。该矩阵收集了可公开验证的轴—授权范围、法规、所有权、监管部门、贷款/担保/保险能力、地域重点、部门重点、联合融资合作伙伴以及2022 授权转移后方向—整个[[JapanFG/jfc|JFC]]（国民生活・中小・農林）， [[JapanFG/dbj|DBJ]]、[[JapanFG/jbic|JBIC]]、[[policy-finance/jica|JICA]]、[[policy-finance/nexi|NEXI]]、[[policy-finance/jogmec|JOGMEC]]、[[policy-finance/japan-housing-finance-agency|JHF]]、[[policy-finance/okinawa-development-finance-corp|ODFC]] 和 [[policy-finance/japan-student-services-organization|JASSO]] 因此可以在交易问题之前回答机构问题。
+日本的政策金融工具箱是**九个机构**，而不是一个。每个都有独特的法规、所有权形式、监管部长、产品范围、地理范围和交易对手堆栈。单一海外液化天然气、采矿、半导体或关键矿产交易可以涉及资源股权[[policy-finance/jogmec|JOGMEC]]、买方信贷[[financial-regulators/jbic|JBIC]]、政治风险保险[[policy-finance/nexi|NEXI]]、仅通过中小企业供应商融资的[[financial-regulators/jfc|JFC]]，并且切勿触及[[policy-finance/jica|JICA]]（ODA）或[[policy-finance/japan-housing-finance-agency|JHF]]（外壳）根本没有。该矩阵收集了可公开验证的轴—授权范围、法规、所有权、监管部门、贷款/担保/保险能力、地域重点、部门重点、联合融资合作伙伴以及2022 授权转移后方向—整个[[financial-regulators/jfc|JFC]]（国民生活・中小・農林）， [[financial-regulators/dbj|DBJ]]、[[financial-regulators/jbic|JBIC]]、[[policy-finance/jica|JICA]]、[[policy-finance/nexi|NEXI]]、[[policy-finance/jogmec|JOGMEC]]、[[policy-finance/japan-housing-finance-agency|JHF]]、[[policy-finance/okinawa-development-finance-corp|ODFC]] 和 [[policy-finance/japan-student-services-organization|JASSO]] 因此可以在交易问题之前回答机构问题。
 
 ## 维基路线
 
-该条目位于 [[policy-finance/INDEX|policy-finance index]] 下，作为规范的跨机构授权矩阵，与 [[policy-finance/japan-policy-finance-system|Japan policy finance system]]（系统映射）和 [[policy-finance/japan-project-finance-stack-diagram|Japan project finance stack diagram]]（交易级别分层）配对。它补充了 [[policy-finance/japan-eximbank-history|Japan Eximbank history]] 的历史锚点以及 [[policy-finance/jfc-sme-division-operating-model|JFC SME Division operating model]]、[[policy-finance/jfc-agriculture-forestry-fisheries-division|JFC AFF Division]]、[[policy-finance/jbic-overseas-investment-underwriting-process|JBIC overseas-investment underwriting]]、[[policy-finance/nexi-export-credit-insurance-products|NEXI export-credit insurance products]] 和 [[policy-finance/jogmec-equity-and-offtake-mechanics|JOGMEC equity and offtake mechanics]] 的每个机构运营模型。经合组织安排的官方出口信贷上限为 [[policy-finance/oecd-export-credit-arrangement|OECD Arrangement]]。公司历史风格的页面位于 JapanFG：[[JapanFG/jfc|JFC]]、[[JapanFG/jbic|JBIC]]、[[JapanFG/dbj|DBJ]] 以及后政策金融私有化同行 [[JapanFG/shoko-chukin|Shoko Chukin]]。贸易促进/保险/融资三大支柱比较位于[[trade/jetro-vs-nexi-vs-jbic-comparison|JETRO vs NEXI vs JBIC]]。
+该条目位于 [[policy-finance/INDEX|policy-finance index]] 下，作为规范的跨机构授权矩阵，与 [[policy-finance/japan-policy-finance-system|Japan policy finance system]]（系统映射）和 [[policy-finance/japan-project-finance-stack-diagram|Japan project finance stack diagram]]（交易级别分层）配对。它补充了 [[policy-finance/japan-eximbank-history|Japan Eximbank history]] 的历史锚点以及 [[policy-finance/jfc-sme-division-operating-model|JFC SME Division operating model]]、[[policy-finance/jfc-agriculture-forestry-fisheries-division|JFC AFF Division]]、[[policy-finance/jbic-overseas-investment-underwriting-process|JBIC overseas-investment underwriting]]、[[policy-finance/nexi-export-credit-insurance-products|NEXI export-credit insurance products]] 和 [[policy-finance/jogmec-equity-and-offtake-mechanics|JOGMEC equity and offtake mechanics]] 的每个机构运营模型。经合组织安排的官方出口信贷上限为 [[policy-finance/oecd-export-credit-arrangement|OECD Arrangement]]。公司历史风格的页面位于 JapanFG：[[financial-regulators/jfc|JFC]]、[[financial-regulators/jbic|JBIC]]、[[financial-regulators/dbj|DBJ]] 以及后政策金融私有化同行 [[financial-regulators/shoko-chukin|Shoko Chukin]]。贸易促进/保险/融资三大支柱比较位于[[trade/jetro-vs-nexi-vs-jbic-comparison|JETRO vs NEXI vs JBIC]]。
 
 ## 为什么这个矩阵很重要
 
@@ -27,7 +27,7 @@ translated_at: 2026-06-01T03:31:12.229Z
 - **监管部门** — MoF 监管 JBIC 和 DBJ； MoF + MAFF + MHLW + METI 联合监管 JFC（四部 共管 结构）； METI 监管 NEXI 和 JOGMEC；外交部对日本国际协力机构进行监督；国土交通省监管JHF；内阁府监督ODFC；文部科学省 (MEXT) 负责监管 JASSO。主管控制策略通道。
 - **容量封套** — 贷款账簿、担保账簿、保险账簿、权益账簿有数量级差异； JFC 和 JBIC 的运营规模为 ¥10–20 trillion，JHF 通过 Flat 35, JICA 的 ODA 贷款组合支持类似规模的证券化账簿。 ¥10 万亿范围，NEXI的未偿保险承诺达到¥10 万亿+，JOGMEC的股权和担保账簿以日元计算要小得多，但在战略上至关重要，JASSO拥有数万亿日元的学生贷款ODFC 发行了一本价值数万亿日元的图书，其范围仅限于冲绳。
 - **地理重点** — JFC 为国内； JBIC在海外； JICA在海外； NEXI 为海外交易提供保险； JOGMEC是海外上游，国内库存； JHF为国内； ODFC 仅限冲绳； JASSO是国内的。
-- **联合融资合作伙伴** — JBIC 和 NEXI 与大型银行银团和同行 ECA 并列； JOGMEC 位于贸易公司旁边（[[JapanFG/mufg|MUFG]] / [[JapanFG/smfg|SMFG]] / [[JapanFG/mizuho-fg|Mizuho FG]] 经常为最终交易提供资金）； JFC 位于 [[policy-finance/japan-credit-guarantee-system|credit-guarantee corporations]]、[[banking/cooperative-banking-japan|cooperative-banking]] 贷方和 JA / JF 旁边； DBJ 在危机融资方面与大型银行并肩，在 GX 联合投资方面与 [[finance/INDEX|private-equity]] 并列； JHF位于普通零售银行旁边，始发Flat 35； ODFC 位于 [[JapanFG/okinawa-fg|Okinawa FG]] / [[JapanFG/okinawa-kaiho-bank|Okinawa Kaiho Bank]] 旁边； JASSO 毗邻文部科学省和大学。
+- **联合融资合作伙伴** — JBIC 和 NEXI 与大型银行银团和同行 ECA 并列； JOGMEC 位于贸易公司旁边（[[megabanks/mufg|MUFG]] / [[megabanks/smfg|SMFG]] / [[megabanks/mizuho-fg|Mizuho FG]] 经常为最终交易提供资金）； JFC 位于 [[policy-finance/japan-credit-guarantee-system|credit-guarantee corporations]]、[[banking/cooperative-banking-japan|cooperative-banking]] 贷方和 JA / JF 旁边； DBJ 在危机融资方面与大型银行并肩，在 GX 联合投资方面与 [[finance/INDEX|private-equity]] 并列； JHF位于普通零售银行旁边，始发Flat 35； ODFC 位于 [[regional-banks/okinawa-fg|Okinawa FG]] / [[regional-banks/okinawa-kaiho-bank|Okinawa Kaiho Bank]] 旁边； JASSO 毗邻文部科学省和大学。
 - **最近的任务转变** — 经济安全、GX（绿色转型）、关键矿产供应链、半导体在岸/朋友外包、反通货紧缩、区域振兴和后疫情正常化都重写了这些机构不同子集的后 2022  任务，但并非所有机构都统一。
 
 如果没有制度轴，在一个资产负债表指标上比较两项交易或两项政策选择就会产生误导。
@@ -42,9 +42,9 @@ translated_at: 2026-06-01T03:31:12.229Z
 - **员工人数** 全国分支机构网络约 7000 名员工，包括 ~150  站点 (国民生活事業)、~50  站点 (中小企業事業) 和 ~30  站点 (農林水産事業)。
 - **贷款能力范围。** 三个部门加上危机应对账户的贷款组合余额为 ¥10–20  万亿范围；在2008–2010 （后雷曼）、2011 （东北）期间，危机响应通道大幅飙升， 2020–2022 (Covid)，以及周边地区自然灾害。
 - **担保/保险能力。** 运营[[policy-finance/japan-credit-guarantee-system|Japan credit guarantee system]]和[[policy-finance/national-federation-credit-guarantee-corporations|JFG]] —公共信用保险池背后的信用保险反担保支线，支持51 地级/都市信用担保公司。
-- **地理重点。**仅限日本国内。无海外分支机构网络；海外页面明确超出授权范围（海外对应页面为[[JapanFG/jbic|JBIC]]）。
+- **地理重点。**仅限日本国内。无海外分支机构网络；海外页面明确超出授权范围（海外对应页面为[[financial-regulators/jbic|JBIC]]）。
 - **行业重点** 中小企业、微型企业、农林渔业、食品工业、企业传承、创业金融、区域振兴。明确**民間補完原則**（私营部门补充原则）— JFC 向大型银行/地区银行/信用社/信用合作社提供信贷，不会按要求的期限/定价提供信贷。
-- **联合融资合作伙伴。** 大型银行、地区银行、信用社、信用合作社、[[policy-finance/japan-credit-guarantee-system|credit-guarantee corporations]]、商工会議所 / 商工会（适用于 マル経融資）、[[banking/INDEX|JA Bank / JF Marine Bank]] / 信農連 / 信漁連 / [[JapanFG/norinchukin|農林中央金庫]]（适用于AFF部门协同路由）、SMRJ（适用于小規模企業共済 / 経営セーフティ共済）。
+- **联合融资合作伙伴。** 大型银行、地区银行、信用社、信用合作社、[[policy-finance/japan-credit-guarantee-system|credit-guarantee corporations]]、商工会議所 / 商工会（适用于 マル経融資）、[[banking/INDEX|JA Bank / JF Marine Bank]] / 信農連 / 信漁連 / [[cooperative-banks/norinchukin|農林中央金庫]]（适用于AFF部门协同路由）、SMRJ（适用于小規模企業共済 / 経営セーフティ共済）。
 - **最近的任务转变。** 2022 之后强调业务继承（事業承継 / 事業再生）、创业支持（政策金融による創業支援）、GX相关中小企业资本支出、DX相关中小企业资本支出，以及通过特別貸付菜单提供、由经济产业省 / 补充预算叠加利子補給预算的反通货紧缩 / 区域振兴计划；能登地震 (2024-01) 后也启动了区域危机应对。
 
 ## 机构 2 — DBJ (日本政策投資銀行) — 中型至大型结构性保单贷款机构 / GX 投资者
@@ -58,7 +58,7 @@ translated_at: 2026-06-01T03:31:12.229Z
 - **保证/保险能力。** 不是保险公司；不是担保人。 DBJ 是直接贷款人/股权投资者。
 - **地理重点。** 主要是日本国内；纽约、伦敦和新加坡设有海外代表处，负责跨境交易采购，但资产负债表风险主要由国内交易对手主导。
 - **行业聚焦** 基础设施、能源、GX（绿色转型）、DX、房地产、交通运输、并购/企业传承、事業再生/企业重组、区域振兴、产业政策跟投专项投资。
-- **联合融资合作伙伴。** 大型银行 ([[JapanFG/mufg|MUFG]] / [[JapanFG/smfg|SMFG]] / [[JapanFG/mizuho-fg|Mizuho FG]]) 进行银团贷款； [[finance/INDEX|domestic and foreign private-equity / infrastructure-fund managers]]为基金跟投；房地产/基础设施基金工具信托银行； [[JapanFG/jbic|JBIC]] 选择性地进行出境交易。
+- **联合融资合作伙伴。** 大型银行 ([[megabanks/mufg|MUFG]] / [[megabanks/smfg|SMFG]] / [[megabanks/mizuho-fg|Mizuho FG]]) 进行银团贷款； [[finance/INDEX|domestic and foreign private-equity / infrastructure-fund managers]]为基金跟投；房地产/基础设施基金工具信托银行； [[financial-regulators/jbic|JBIC]] 选择性地进行出境交易。
 - **最近的任务转变。** 自 2022 GX 联盟/GX 推广法背景以来，GX 转型金融已成为主导的机构叙述；半导体在岸联合投资（与经济产业省一起）、关键矿产精炼/加工融资、后Covid事業再生供应以及继续推迟全面私有化是当前的方向。
 
 ## 机构 3 — JBIC (国際協力銀行) — 海外买家信贷/海外投资/非挂钩贷款/股权政策性银行
@@ -72,12 +72,12 @@ translated_at: 2026-06-01T03:31:12.229Z
 - **担保/保险能力。** 提供担保；不办理出口信用保险（该车道属于[[policy-finance/nexi|NEXI]]）。
 - **地理重点。**仅限海外（机构的全部重点）。在主要金融中心和资源/项目发起地区（北京、上海、河内、曼谷、雅加达、新加坡、悉尼、莫斯科、利雅得、开罗、利马、墨西哥城、华盛顿特区、纽约、伦敦、巴黎、法兰克福、迪拜）设有代表处。前身机构沿袭为 [[policy-finance/japan-eximbank-history|Japan Eximbank history]]。
 - **行业焦点。** 资源（石油、天然气、液化天然气、采矿、关键矿产）、基础设施（电力、运输、水、电信）、造船、工厂出口、半导体、GX（可再生能源、氢、氨、CCS）、经济安全（友岸）、日本赞助商的并购融资。
-- **联合融资合作伙伴。** Megabank银团（[[JapanFG/mufg|MUFG]] / [[JapanFG/smfg|SMFG]] / [[JapanFG/mizuho-fg|Mizuho FG]]作为主要代理银行）； [[policy-finance/nexi|NEXI]] 商业部分保险包裹；同行 ECA（美国 EXIM、K-EXIM、UKEF、KfW IPEX、Bpifrance、EDC、EFA、SACE、ASHRA、CESCE）；多边开发银行（亚洲开发银行、世界银行、亚投行、国际金融公司、非洲开发银行、美洲开发银行）； [[policy-finance/jogmec|JOGMEC]]上游资源项目；贸易公司（三菱、三井、伊藤忠、住友、丸红、丰田通商、双日）作为赞助商/承购商。
+- **联合融资合作伙伴。** Megabank银团（[[megabanks/mufg|MUFG]] / [[megabanks/smfg|SMFG]] / [[megabanks/mizuho-fg|Mizuho FG]]作为主要代理银行）； [[policy-finance/nexi|NEXI]] 商业部分保险包裹；同行 ECA（美国 EXIM、K-EXIM、UKEF、KfW IPEX、Bpifrance、EDC、EFA、SACE、ASHRA、CESCE）；多边开发银行（亚洲开发银行、世界银行、亚投行、国际金融公司、非洲开发银行、美洲开发银行）； [[policy-finance/jogmec|JOGMEC]]上游资源项目；贸易公司（三菱、三井、伊藤忠、住友、丸红、丰田通商、双日）作为赞助商/承购商。
 - **最近的任务转变。** 2022 — 后明确转向 GX（脱碳金融、氢、氨、可再生能源、CCS）、关键矿产友好支持（澳大利亚/加拿大/智利/印度尼西亚/非洲镍铜锂钴）、半导体供应链支持（以及 METI 共同投资）、日本境外并购融资发起人，并明确退出新的燃煤火电融资。特别行动账户是高风险战略行动的主要工具。请参阅 [[policy-finance/oecd-export-credit-arrangement|OECD Arrangement]]，了解其中大部分操作的每笔交易期限上限。
 
 ## 机构 4 — JICA (国際協力機構) — ODA 实施机构
 
-- **授权范围。** 日本主要ODA实施渠道：**ODA贷款（有償資金協力 / 円借款）**、**赠款援助（無償資金協力）**、**技术合作（技術協力）**、**JICA志愿者计划**、**紧急救灾**、**奖学金/培训计划**。 JICA 不是企业贷款人；借款人/交易对手通常是外国主权或主权相邻机构，项目框架是发展合作，而不是商业出口信贷。与[[JapanFG/jbic|JBIC]]的边界：JBIC=海外商业/战略金融； JICA = ODA/发展合作。
+- **授权范围。** 日本主要ODA实施渠道：**ODA贷款（有償資金協力 / 円借款）**、**赠款援助（無償資金協力）**、**技术合作（技術協力）**、**JICA志愿者计划**、**紧急救灾**、**奖学金/培训计划**。 JICA 不是企业贷款人；借款人/交易对手通常是外国主权或主权相邻机构，项目框架是发展合作，而不是商业出口信贷。与[[financial-regulators/jbic|JBIC]]的边界：JBIC=海外商业/战略金融； JICA = ODA/发展合作。
 - **法规。** 独立行政法人国際協力機構法（2002  的第 136  号法案已修订；当前 JICA 在合并吸收 OECF 的 ODA 贷款组合后生效为 2008-10-01）。
 - **法律形式。** 独立行政法人（行政法人团体）。
 - **所有权。** 国有独资独立行政机构。
@@ -86,7 +86,7 @@ translated_at: 2026-06-01T03:31:12.229Z
 - **赠款/技术合作能力。** 赠款援助年度承诺〜¥150–250 十亿；技术合作年度预算~¥150 十亿（粗略的数量级）。
 - **地域重点。**海外—主要是东南亚、南亚、撒哈拉以南非洲、拉丁美洲、中东/北非和太平洋岛屿的发展中国家。办公网络~95 海外国家办事处。
 - **行业重点。** 基础设施（交通、能源、水）、人类发展（健康、教育）、农业/农村发展、建设和平、治理、减少灾害风险、官方发展援助框架下的气候融资。
-- **共同融资合作伙伴。** 多边开发银行（世界银行、亚洲开发银行、亚投行、国际金融公司、非洲开发银行、美洲开发银行）、对等双边捐助者（美国国际开发署、德国复兴信贷银行、AFD、FCDO、KOICA）、[[JapanFG/jbic|JBIC]] 当官方发展援助项目过渡到商业后续项目时，[[policy-finance/jica|JICA]] 在适用的情况下在附带援助部分使用日本承包商/顾问。
+- **共同融资合作伙伴。** 多边开发银行（世界银行、亚洲开发银行、亚投行、国际金融公司、非洲开发银行、美洲开发银行）、对等双边捐助者（美国国际开发署、德国复兴信贷银行、AFD、FCDO、KOICA）、[[financial-regulators/jbic|JBIC]] 当官方发展援助项目过渡到商业后续项目时，[[policy-finance/jica|JICA]] 在适用的情况下在附带援助部分使用日本承包商/顾问。
 - **最近的任务转变。** 质量基础设施框架（与 G7 PGII / 重建更美好世界的叙述一起）、印太地区官方发展援助的经济安全框架、气候融资规模（与缔约方大会承诺保持一致）、乌克兰和平与稳定官方发展援助、扩大数字发展合作。
 
 ## 机构 5 — NEXI (日本貿易保険) — 出口信贷/海外投资保险公司
@@ -99,7 +99,7 @@ translated_at: 2026-06-01T03:31:12.229Z
 - **保险承诺信封。** 所有产品的未偿保险承诺金额为 ¥10 trillion+；年度承销承诺在数万亿日元范围内，根据资源/基础设施交易渠道，每年存在重大差异。
 - **地域重点。** 海外 — 涵盖日本企业在全球的跨境交易。国家风险分类遵循经合组织国家风险类别。
 - **行业重点。** 资源（液化天然气、石油、采矿）、基础设施（电力、运输、电信）、制造业出口、飞机、船舶、工厂出口、半导体。对于关键矿产供应链和友好支持交易越来越重要。
-- **联合融资合作伙伴。** Megabank 银团作为买方信贷/贷款保险产品的受保贷方； [[JapanFG/jbic|JBIC]] 用于在同一交易中叠加直接贷款+保险；用于再保险/共同保险的同行 ECA。
+- **联合融资合作伙伴。** Megabank 银团作为买方信贷/贷款保险产品的受保贷方； [[financial-regulators/jbic|JBIC]] 用于在同一交易中叠加直接贷款+保险；用于再保险/共同保险的同行 ECA。
 - **最近的任务转变。** 2022 — 后明确强调**经济安全保险产品**、关键矿产供应链保险、半导体设备出口、友邦保险支持、气候相关贸易保险以及收紧煤炭相关保险。三柱分体参见 [[trade/jetro-vs-nexi-vs-jbic-comparison|JETRO vs NEXI vs JBIC]]。
 
 ## 机构 6 — JOGMEC (エネルギー・金属鉱物資源機構) — 资源安全股权/担保/储备机构
@@ -113,7 +113,7 @@ translated_at: 2026-06-01T03:31:12.229Z
 - **股权/担保范围。** 股权投资组合规模达数千亿日元，在 2022  授权扩张后不断增长；根据资源项目的情况，提供数千亿日元的担保承诺。
 - **地域重点**资源项目海外上游地区（中东、澳大利亚、东南亚、撒哈拉以南非洲、拉丁美洲、北美）；国内用于储存和 CCS/氢/海上风调查。
 - **行业焦点。** 石油、天然气、液化天然气、煤炭（传统）、金属（铜、镍、钴、锂、稀土）、铀、氢、氨、CCS、地热、海上风地质调查。
-- **联合融资合作伙伴。** 贸易公司（三井、三菱、伊藤忠、丸红、住友、双日、丰田通商）；资源专业（Inpex、JOGMEC-Inpex JV 结构、Idemitsu、Eneos、JX Nippon Mining、Sumitomo Metal Mining、JFE、新日铁）；一旦勘探风险得到解决，[[JapanFG/jbic|JBIC]]将成为下游的高级债务提供者；大型银行银团参与由此产生的项目融资； [[policy-finance/nexi|NEXI]] 为最终项目提供政治风险保障。
+- **联合融资合作伙伴。** 贸易公司（三井、三菱、伊藤忠、丸红、住友、双日、丰田通商）；资源专业（Inpex、JOGMEC-Inpex JV 结构、Idemitsu、Eneos、JX Nippon Mining、Sumitomo Metal Mining、JFE、新日铁）；一旦勘探风险得到解决，[[financial-regulators/jbic|JBIC]]将成为下游的高级债务提供者；大型银行银团参与由此产生的项目融资； [[policy-finance/nexi|NEXI]] 为最终项目提供政治风险保障。
 - **最近的任务转变。** 2022  机构重命名后 — 的核心战略重点是 **关键矿产供应安全 **、**经济安全框架**（与 経済安全保障推進法 保持一致）、**GX 过渡资源**（氢、氨、CCS）以及作为过渡期的持续（但收紧）液化天然气/石油安全框架必要性。
 
 ## 机构 7 — JHF (住宅金融支援機構) — 住房金融证券化支持机构
@@ -140,7 +140,7 @@ translated_at: 2026-06-01T03:31:12.229Z
 - **贷款能力范围。** ¥1.5–2 万亿范围内的贷款组合（远小于大陆 JFC / DBJ / JBIC，因为冲绳是一个县）。
 - **地理重点。** 仅限冲绳县。
 - **行业重点。** 冲绳中小企业、旅游业（考虑到冲绳的酒店经济，冲绳特有的份额很大）、农业/渔业、住房、医疗/福利设施、基础设施、区域振兴。冲绳特色项目包括基础经济转型支持、糖和菠萝初级部门融资以及旅游业弹性融资。
-- **联合融资伙伴。** [[JapanFG/okinawa-fg|Okinawa FG]] / [[JapanFG/okinawa-kaiho-bank|Okinawa Kaiho Bank]] / 琉球银行和冲绳县金融机构；冲绳县及冲绳市政府；中央政府冲绳-振興 框架计划。
+- **联合融资伙伴。** [[regional-banks/okinawa-fg|Okinawa FG]] / [[regional-banks/okinawa-kaiho-bank|Okinawa Kaiho Bank]] / 琉球银行和冲绳县金融机构；冲绳县及冲绳市政府；中央政府冲绳-振興 框架计划。
 - **最近的任务转变。** 新冠疫情后的旅游业弹性融资（冲绳对旅游业的依赖加剧了新冠疫情的冲击）；创业促进融资（冲绳创业区框架）；为有限的冲绳产业政策通道提供半导体/能源资本支出融资；继续依赖 沖縄振興 框架定期更新。
 
 ## 机构 9 — JASSO (日本学生支援機構) — 学生服务机构/家庭部门学生贷款提供商
@@ -153,7 +153,7 @@ translated_at: 2026-06-01T03:31:12.229Z
 - **贷款能力范围。** ¥9–10 万亿范围内的优秀学生贷款组合（最大的家庭部门公共信用账本之一）；年度奖学金贷款发放流量在 ¥1  万亿范围内。
 - **地理重点。** 日本国内学生人数（包括入境国际学生项目）。
 - **行业重点** 高等教育学生—大学（国立 / 公立 / 私立）、研究生院、专科学校、职业学校，高専。
-- **共同融资合作伙伴。**文部科学省（政策和预算）、大学和其他教育机构（验证/支付）、私营商业银行（与 JASSO — 商业学生贷款产品分开，与 JASSO 奖贷产品并行存在），[[JapanFG/jfc|JFC]] 国民生活事業 的 教育一般貸付 是并行的面向家长（非学生）的家庭教育贷款产品，其资格与 JASSO 不同。
+- **共同融资合作伙伴。**文部科学省（政策和预算）、大学和其他教育机构（验证/支付）、私营商业银行（与 JASSO — 商业学生贷款产品分开，与 JASSO 奖贷产品并行存在），[[financial-regulators/jfc|JFC]] 国民生活事業 的 教育一般貸付 是并行的面向家长（非学生）的家庭教育贷款产品，其资格与 JASSO 不同。
 - **最近的任务转变。**扩大经经济状况调查的助学金奖学金（2020 高等教育の修学支援新制度的启动和随后的扩大）、根据收入确定的还款计划的推出、针对困难情况的还款减免的扩大、在日本“300,000 国际学生”政策框架下更加重视国际学生入境支持。
 
 ## 大比较矩阵表
@@ -171,7 +171,7 @@ translated_at: 2026-06-01T03:31:12.229Z
 | **保证/保险** | 信用保証協会背后的信保反担保 | 不是担保人 | 提供担保 | 不是担保人（补助金是非信用的） | 核心业务是保险 | 勘探责任担保 | 住房贷款保险 | 冲绳限定 | 不是担保人（贷款是直接的） |
 | **地理重点** | 日本国内 | 主要是国内+3 海外办事处 | 海外独家 | 海外（发展中国家） | 海外（日本跨境） | 海外上游+国内囤货 | 日本国内 | 仅限冲绳县 | 日本国内 |
 | **行业焦点** | 中小企业/农业/林业/渔业/食品/企业继承 | 基础设施/能源/GX/DX/房地产/并购 | 资源/基础设施/造船/工厂/GX/半成品 | 基础设施/人类发展/农业/气候/治理 | 资源/基础设施/工厂/飞机/船舶/半成品 | 石油/天然气/液化天然气/金属/关键矿物/H2 / CCS | 住宅/灾后恢复用房 | 冲绳中小企业/旅游/农业/住房/基础设施 | 高等教育学生 |
-| **共同融资伙伴** | 大型银行 / 地区银行 / 信用金 / 信組 / 信用保証協会 / JA / JF / [[JapanFG/norinchukin\|農中]] | 大型银行 / PE / 基础设施基金 / JBIC | 大型银行 / [[policy-finance/nexi\|NEXI]] / 同行 ECA / MDB / [[policy-finance/jogmec\|JOGMEC]] / 交易公司 | 多边开发银行/同行双边捐助者/日本国际协力银行 | 大型银行 / [[JapanFG/jbic\|JBIC]] / 同行 ECA（再保险） | 贸易公司 / 资源专业 / [[JapanFG/jbic\|JBIC]] / [[policy-finance/nexi\|NEXI]] / 大型银行 | 大型银行/地区性/信用金/信組/抵押贷款银行/地方政府 | [[JapanFG/okinawa-fg\|Okinawa FG]] / [[JapanFG/okinawa-kaiho-bank\|Okinawa Kaiho Bank]] / 琉球银行 / 冲绳政府 | 文部科学省/大学/并行JFC 教育一般貸付 |
+| **共同融资伙伴** | 大型银行 / 地区银行 / 信用金 / 信組 / 信用保証協会 / JA / JF / [[cooperative-banks/norinchukin\|農中]] | 大型银行 / PE / 基础设施基金 / JBIC | 大型银行 / [[policy-finance/nexi\|NEXI]] / 同行 ECA / MDB / [[policy-finance/jogmec\|JOGMEC]] / 交易公司 | 多边开发银行/同行双边捐助者/日本国际协力银行 | 大型银行 / [[financial-regulators/jbic\|JBIC]] / 同行 ECA（再保险） | 贸易公司 / 资源专业 / [[financial-regulators/jbic\|JBIC]] / [[policy-finance/nexi\|NEXI]] / 大型银行 | 大型银行/地区性/信用金/信組/抵押贷款银行/地方政府 | [[regional-banks/okinawa-fg\|Okinawa FG]] / [[regional-banks/okinawa-kaiho-bank\|Okinawa Kaiho Bank]] / 琉球银行 / 冲绳政府 | 文部科学省/大学/并行JFC 教育一般貸付 |
 | **适用经合组织安排吗？** | 没有（国内） | 选择性出站 | 是（广泛） | 官方发展援助贷款根据经合组织官方发展援助规则单独处理 | 是的 | 间接（与 JBIC / NEXI 叠加时） | 没有（国内） | 没有（国内） | 没有（国内） |
 | **最近的任务转变** | 事业继承/创业/GX-SME/DX-SME/利子補給车道/能登危机 | GX-transition / 半成品在岸 / 特定投資 / 事業再生 | GX / 关键矿物 / 半成品 / 友邦支持 / 海外并购 / 煤炭退出 | 质量基础设施/经济安全框架/乌克兰/气候/数字开发 | 经济安全/关键矿产/半成品/煤炭紧缩 | 关键矿物 / 経済安保 / H2 / CCS / 2022 重命名 | 灾后恢复住房/ZEH 推广 | 旅游弹性/启动/半限制/沖縄振興更新 | 经过经济情况调查的补助金扩大/按收入情况还款/国际学生 |
 
@@ -181,15 +181,15 @@ translated_at: 2026-06-01T03:31:12.229Z
 
 ### 模式A — 海外液化天然气/采矿/关键矿产项目融资
 
-赞助商 SPV（贸易公司 + 公用事业 + 外国合作伙伴）位于融资堆栈的后面。 [[policy-finance/jogmec|JOGMEC]]为勘探风险承担上游资源股权/责任担保。一旦储量得到证实且项目可融资，[[JapanFG/jbic|JBIC]] 安排出口买方信贷+海外投资贷款部分，[[policy-finance/nexi|NEXI]] 为商业银行部分提供政治风险/商业风险保险，大型银行银团（[[JapanFG/mufg|MUFG]] / [[JapanFG/smfg|SMFG]] / [[JapanFG/mizuho-fg|Mizuho FG]]）延长高级贷款作为代理银行的商业债务。经合组织安排的上限为 [[policy-finance/oecd-export-credit-arrangement|OECD Arrangement]]，对官方信贷条款进行了限制。 JFC / DBJ / JHF / ODFC / JASSO / JICA 从未在此堆栈中出现 — 每个错误的任务。
+赞助商 SPV（贸易公司 + 公用事业 + 外国合作伙伴）位于融资堆栈的后面。 [[policy-finance/jogmec|JOGMEC]]为勘探风险承担上游资源股权/责任担保。一旦储量得到证实且项目可融资，[[financial-regulators/jbic|JBIC]] 安排出口买方信贷+海外投资贷款部分，[[policy-finance/nexi|NEXI]] 为商业银行部分提供政治风险/商业风险保险，大型银行银团（[[megabanks/mufg|MUFG]] / [[megabanks/smfg|SMFG]] / [[megabanks/mizuho-fg|Mizuho FG]]）延长高级贷款作为代理银行的商业债务。经合组织安排的上限为 [[policy-finance/oecd-export-credit-arrangement|OECD Arrangement]]，对官方信贷条款进行了限制。 JFC / DBJ / JHF / ODFC / JASSO / JICA 从未在此堆栈中出现 — 每个错误的任务。
 
 ### B型 — 国内中小企业融资与危机应对
 
-国内中小企业借款人通过其银行（[[banking/regional-bank-consolidation-pattern|regional bank]]/shinkin/信用合作社）申请担保贷款。银行发放贷款，县级信用担保公司对[[policy-finance/japan-credit-guarantee-system|Japan credit guarantee system]]（以[[policy-finance/tokyo-credit-guarantee-corp|Tokyo CGC]]为最大的51集团系统）项下的债务提供担保，[[JapanFG/jfc|JFC]]的信保支行为担保公司提供反担保。另外，[[JapanFG/jfc|JFC]] 中小企業事業 可以向信用担保+银行渠道无法按规定期限/定价提供服务的中型中小企业提供直接政策性金融贷款。在危机（雷曼、东北、新冠、能登、能源冲击）下，JFC 的 危機対応円滑化業務 通道激活，METI/补充预算 利子補給 分层在顶部。 JBIC / NEXI / JOGMEC / JICA / JHF / ODFC / JASSO在此堆栈中从未出现—错误的授权。
+国内中小企业借款人通过其银行（[[banking/regional-bank-consolidation-pattern|regional bank]]/shinkin/信用合作社）申请担保贷款。银行发放贷款，县级信用担保公司对[[policy-finance/japan-credit-guarantee-system|Japan credit guarantee system]]（以[[policy-finance/tokyo-credit-guarantee-corp|Tokyo CGC]]为最大的51集团系统）项下的债务提供担保，[[financial-regulators/jfc|JFC]]的信保支行为担保公司提供反担保。另外，[[financial-regulators/jfc|JFC]] 中小企業事業 可以向信用担保+银行渠道无法按规定期限/定价提供服务的中型中小企业提供直接政策性金融贷款。在危机（雷曼、东北、新冠、能登、能源冲击）下，JFC 的 危機対応円滑化業務 通道激活，METI/补充预算 利子補給 分层在顶部。 JBIC / NEXI / JOGMEC / JICA / JHF / ODFC / JASSO在此堆栈中从未出现—错误的授权。
 
 ### C型 — 国内GX/大盘产业重组
 
-一家国内大中型工业发起人实施了 GX 转型资本支出计划（可再生能源扩建、氢气卸载、氨混烧、CCS 中心、工厂脱碳）。 [[JapanFG/dbj|DBJ]] 通过其 特定投資業務 特别投资账户提供优先债务、夹层或股权。 Megabank 银团 ([[JapanFG/mufg|MUFG]] / [[JapanFG/smfg|SMFG]] / [[JapanFG/mizuho-fg|Mizuho FG]]) 共同借贷商业债务。如果资本支出有海外延伸（例如美国工厂、澳大利亚氢能项目），[[JapanFG/jbic|JBIC]] 会增加境外部分，[[policy-finance/nexi|NEXI]] 会确保海外股权的政治风险。日本经济产业省提供产业政策支持（补贴/补充预算）。 JFC 通过模式 B 坐在供应链中小型企业对手方旁边。JICA / JHF / ODFC / JASSO 从未在此堆栈中出现 — 错误授权。
+一家国内大中型工业发起人实施了 GX 转型资本支出计划（可再生能源扩建、氢气卸载、氨混烧、CCS 中心、工厂脱碳）。 [[financial-regulators/dbj|DBJ]] 通过其 特定投資業務 特别投资账户提供优先债务、夹层或股权。 Megabank 银团 ([[megabanks/mufg|MUFG]] / [[megabanks/smfg|SMFG]] / [[megabanks/mizuho-fg|Mizuho FG]]) 共同借贷商业债务。如果资本支出有海外延伸（例如美国工厂、澳大利亚氢能项目），[[financial-regulators/jbic|JBIC]] 会增加境外部分，[[policy-finance/nexi|NEXI]] 会确保海外股权的政治风险。日本经济产业省提供产业政策支持（补贴/补充预算）。 JFC 通过模式 B 坐在供应链中小型企业对手方旁边。JICA / JHF / ODFC / JASSO 从未在此堆栈中出现 — 错误授权。
 
 ### D型 — 国内住宅住房金融
 
@@ -203,7 +203,7 @@ translated_at: 2026-06-01T03:31:12.229Z
 - **JBIC 海外投资贷款与 JICA ODA 贷款。** 两者都在海外放贷，但 JBIC 的借款人是日本附属 SPV/企业发起人（商业/战略融资），而 JICA 的借款人通常是外国主权或主权相邻实体（发展合作框架）。给定国家/部门的管道可能在开发方面有 — JICA，在商业后续方面有 JBIC。
 - **NEXI 出口信用保险与 JBIC 担保。** 两者都降低了海外交易的风险，但 NEXI 的产品是保险（基于保费、风险定价、索赔和追偿），而 JBIC 的产品是担保（国家担保形式，由贷款对手方构建）。两者经常在同一笔交易上叠加。
 - **JOGMEC 股权/担保与 JBIC 主权无条件贷款。** 两者都可以确保长期日本资源进口，但 JOGMEC 在上游股权/勘探风险关口运营，而 JBIC 的无条件贷款为主权/主权相邻借款人提供优先债务期限。
-- **JFC 中小企业部与 [[JapanFG/shoko-chukin|Shoko Chukin]]。** 两者都向中小企业提供贷款，但 JFC 是 民間補完 原则下的国有政策性金融机构，而 [[JapanFG/shoko-chukin|Shoko Chukin]] 是一家私有化的合作社制商业银行（2023-10  私有化后）。比较这两种私有化后的情况需要将 Shoko Chukin 视为一家私人银行。
+- **JFC 中小企业部与 [[financial-regulators/shoko-chukin|Shoko Chukin]]。** 两者都向中小企业提供贷款，但 JFC 是 民間補完 原则下的国有政策性金融机构，而 [[financial-regulators/shoko-chukin|Shoko Chukin]] 是一家私有化的合作社制商业银行（2023-10  私有化后）。比较这两种私有化后的情况需要将 Shoko Chukin 视为一家私人银行。
 - **DBJ 与大型银行的企业融资部门。** DBJ 的结构性融资产品菜单与大型银行的企业融资有实质性重叠，但 DBJ 的期限更长、流动性更强，并且可以操作大型银行无法操作的危机响应窗口。私有化推迟模式反映了这一差距。
 
 ## 如何读取这个矩阵
@@ -220,7 +220,7 @@ translated_at: 2026-06-01T03:31:12.229Z
 
 ## 边界案例 / 政策金融 改革背景
 
-- **JFC 与 Shoko Chukin。** 两者都是 2008  之前的政策金融机构的后代，但 [[JapanFG/shoko-chukin|Shoko Chukin]] 被私有化（政府保有株式売却 完成了 2023-10），而 JFC 仍然是 100% 政府持有。比较 2020 中期的两条中小企业金融通道，需要将商工中金视为一家以合作社成员为导向的私营商业银行，而不是同行的政策性金融机构。
+- **JFC 与 Shoko Chukin。** 两者都是 2008  之前的政策金融机构的后代，但 [[financial-regulators/shoko-chukin|Shoko Chukin]] 被私有化（政府保有株式売却 完成了 2023-10），而 JFC 仍然是 100% 政府持有。比较 2020 中期的两条中小企业金融通道，需要将商工中金视为一家以合作社成员为导向的私营商业银行，而不是同行的政策性金融机构。
 - **JBIC 与 1999  重组后的 JICA —。** 日本輸出入銀行 + OECF 的 1999  合并创建了原始的 JBIC； 2008 重组将OECF的ODA贷款组合转移到JICA，并将旧JBIC的国际金融部门吸收到JFC； 2012  分拆将 JBIC 重新创建为一家独立的特殊持股公司。有关完整轨迹，请参见 [[policy-finance/japan-eximbank-history|Japan Eximbank history]]。
 - ** JOGMEC 前/后 2022  重命名。** 2022-11-01 机构从 石油天然ガス・金属鉱物資源機構 更名为 エネルギー・金属鉱物資源機構 标志着任务的明确扩展，除了传统的石油/天然气/金属任务外，还涵盖 GX 转型资源（氢、氨、CCS）和关键矿产供应链。
 - **DBJ 永久推迟的私有化。** DBJ 自 2008 株式会社化 以来一直走在私有化轨道上，并连续延迟（Lehman 2009, Tohoku 2012, Covid 2020, GX 2022+）。危机应对窗口期是私有化未能推进的结构性原因。
@@ -248,10 +248,10 @@ translated_at: 2026-06-01T03:31:12.229Z
 - [[policy-finance/jbic-overseas-investment-underwriting-process|JBIC overseas-investment underwriting]]
 - [[policy-finance/nexi-export-credit-insurance-products|NEXI export-credit insurance products]]
 - [[policy-finance/jogmec-equity-and-offtake-mechanics|JOGMEC equity and offtake mechanics]]
-- [[JapanFG/jbic|JBIC corporate page]]
-- [[JapanFG/jfc|JFC corporate page]]
-- [[JapanFG/dbj|DBJ corporate page]]
-- [[JapanFG/shoko-chukin|Shoko Chukin]]
+- [[financial-regulators/jbic|JBIC corporate page]]
+- [[financial-regulators/jfc|JFC corporate page]]
+- [[financial-regulators/dbj|DBJ corporate page]]
+- [[financial-regulators/shoko-chukin|Shoko Chukin]]
 - [[trade/jetro-vs-nexi-vs-jbic-comparison|JETRO vs NEXI vs JBIC]]
 
 ## 来源

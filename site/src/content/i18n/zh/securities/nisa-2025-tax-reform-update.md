@@ -103,10 +103,10 @@ NISA 改革讨论中反复出现的实务操作项目包括：
 
 ## JapanFG 相关性
 
-- 在线券商 [[JapanFG/rakuten-securities]]、[[JapanFG/sbi-securities]]、[[JapanFG/monex-group]]、[[JapanFG/mufg-esmart-securities]]、[[JapanFG/paypay-securities]]、[[JapanFG/gmo-click-securities]] 和 [[JapanFG/dmm-com-securities]] 在开户、报告和产品上线工作流中实施改革变化。
-- 全服务证券公司 [[JapanFG/nomura-hd]]、[[JapanFG/daiwa-sg]]、[[JapanFG/smbc-nikko]]、[[JapanFG/mizuho-securities]] 和 [[JapanFG/mufg-mums]] 调整财富管理产品菜单。
+- 在线券商 [[securities-firms/rakuten-securities]]、[[securities-firms/sbi-securities]]、[[securities-firms/monex-group]]、[[securities-firms/mufg-esmart-securities]]、[[securities-firms/paypay-securities]]、[[securities-firms/gmo-click-securities]] 和 [[securities-firms/dmm-com-securities]] 在开户、报告和产品上线工作流中实施改革变化。
+- 全服务证券公司 [[securities-firms/nomura-hd]]、[[securities-firms/daiwa-sg]]、[[securities-firms/smbc-nikko]]、[[securities-firms/mizuho-securities]] 和 [[securities-firms/mufg-mums]] 调整财富管理产品菜单。
 - 资产管理公司通过投资信托招募说明书修订和 JITA 自律框架推进产品资格更新。
-- [[JapanFG/jsda]] 发布有关操作细节的行业侧 Q&A。
+- [[financial-regulators/jsda]] 发布有关操作细节的行业侧 Q&A。
 
 ## JapanFG 分销方向
 
@@ -130,17 +130,17 @@ NISA 改革讨论中反复出现的实务操作项目包括：
 - [[securities/japan-asset-manager-landscape-matrix]]
 - [[securities/japan-underwriting-market-structure]]
 - [[money-market/japan-mmf-money-market-mutual-fund]]
-- [[JapanFG/rakuten-securities]]
-- [[JapanFG/sbi-securities]]
-- [[JapanFG/monex-group]]
-- [[JapanFG/mufg-esmart-securities]]
-- [[JapanFG/paypay-securities]]
-- [[JapanFG/nomura-hd]]
-- [[JapanFG/daiwa-sg]]
-- [[JapanFG/smbc-nikko]]
-- [[JapanFG/mizuho-securities]]
-- [[JapanFG/mufg-mums]]
-- [[JapanFG/jsda]]
+- [[securities-firms/rakuten-securities]]
+- [[securities-firms/sbi-securities]]
+- [[securities-firms/monex-group]]
+- [[securities-firms/mufg-esmart-securities]]
+- [[securities-firms/paypay-securities]]
+- [[securities-firms/nomura-hd]]
+- [[securities-firms/daiwa-sg]]
+- [[securities-firms/smbc-nikko]]
+- [[securities-firms/mizuho-securities]]
+- [[securities-firms/mufg-mums]]
+- [[financial-regulators/jsda]]
 - [[loyalty/japan-points-landscape]]
 - [[INDEX|FinWiki index]]
 

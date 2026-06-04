@@ -1,0 +1,90 @@
+{
+  "schema_version": "1.0",
+  "slug": "regional-banks/iyogin-hd",
+  "source_path": "regional-banks/iyogin-hd.md",
+  "url": "https://finwiki.zksc.io/regional-banks/iyogin-hd",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/regional-banks/iyogin-hd.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/regional-banks/iyogin-hd.md",
+  "domain": "regional-banks",
+  "title": "いよぎん HD (Iyogin Holdings)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "いよぎん HD (Iyogin Holdings)",
+    "aliases": [
+      "いよぎんホールディングス",
+      "Iyogin HD",
+      "Iyogin Holdings",
+      "伊予銀行 HD",
+      "5830"
+    ],
+    "domain": "regional-banks",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "regional-bank",
+      "shikoku"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: 株式会社いよぎんホールディングス (公開情報)",
+      "Wikipedia: 株式会社伊予銀行 (公開情報)",
+      "いよぎん HD コーポレートサイト (公開 IR)"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 伊予銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "いよぎん HD (Iyogin Holdings)",
+    "Wiki route",
+    "TL;DR",
+    "1. 会社概要",
+    "主要子会社 (公開情報)",
+    "2. 沿革",
+    "3. 事業セグメント・マップ",
+    "地域基盤",
+    "デジタル戦略",
+    "競争マップ (四国 4 県)"
+  ],
+  "body_links": {
+    "wikilinks_count": 12,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "awa-bank",
+      "banking/INDEX",
+      "ehime-bank",
+      "hyakujushi-bank",
+      "iyo-bank",
+      "kagawa-bank",
+      "kochi-bank",
+      "regional-banks/iyo-bank",
+      "shikoku-bank",
+      "tokushima-taisho-bank",
+      "tomony-hd"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/awa-bank",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/ehime-bank",
+      "https://finwiki.zksc.io/hyakujushi-bank",
+      "https://finwiki.zksc.io/iyo-bank",
+      "https://finwiki.zksc.io/kagawa-bank",
+      "https://finwiki.zksc.io/kochi-bank",
+      "https://finwiki.zksc.io/regional-banks/iyo-bank",
+      "https://finwiki.zksc.io/shikoku-bank",
+      "https://finwiki.zksc.io/tokushima-taisho-bank",
+      "https://finwiki.zksc.io/tomony-hd"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2920,
+    "word_like_tokens": 452,
+    "inbound_wikilinks_count": 2,
+    "last_modified": "2026-06-04"
+  }
+}

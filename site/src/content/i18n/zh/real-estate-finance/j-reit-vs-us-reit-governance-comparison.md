@@ -110,8 +110,8 @@ US REIT 股东直接处于公司 / 信托治理链条中。他们选举董事会
 - [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]]
 - [[policy-finance/INDEX|policy-finance index]]
 - [[insurance/INDEX|insurance index]]
-- [[JapanFG/mitsubishi-ufj-trust-bank|Mitsubishi UFJ Trust Bank]]
-- [[JapanFG/sumitomo-mitsui-trust|SMTB]]
+- [[trust-banks/mitsubishi-ufj-trust-bank|Mitsubishi UFJ Trust Bank]]
+- [[trust-banks/sumitomo-mitsui-trust|SMTB]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

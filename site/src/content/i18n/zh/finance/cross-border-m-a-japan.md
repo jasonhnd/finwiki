@@ -14,7 +14,7 @@ translated_at: 2026-05-31T06:16:15.689Z
 
 日本跨境并购有三种不同的交易方向：外国对日本企业的入境收购/投资、日本企业的出境海外收购，以及合资/战略联盟。不可将三者混为一谈。各方向在董事会决策、融资、监管、外汇、反垄断、劳工及整合等方面均面临不同问题。
 
-对于FinWiki而言，本页是[[JapanFG/goldman-sachs-japan]]、日本大型银行系证券公司及[[finance/japan-ib-league-table]]背后的交易背景层。
+对于FinWiki而言，本页是[[securities-firms/goldman-sachs-japan]]、日本大型银行系证券公司及[[finance/japan-ib-league-table]]背后的交易背景层。
 
 ## 方向图
 
@@ -44,9 +44,9 @@ translated_at: 2026-05-31T06:16:15.689Z
 
 ## JapanFG相关性
 
-- [[JapanFG/goldman-sachs-japan]]及其他外资投行常在跨境顾问业务中强力竞争。
-- [[JapanFG/nomura-hd]]、[[JapanFG/daiwa-sg]]、[[JapanFG/smbc-nikko]]、[[JapanFG/mizuho-securities]]及[[JapanFG/mufg-mums]]通过国内发行人资源、融资关系及执行支持参与竞争。
-- 当收购涉及资源安全、基础设施或国家产业政策时，[[JapanFG/jbic]]、[[policy-finance/INDEX|policy-finance INDEX]]及出口信贷/政策性金融相关页面变得重要。
+- [[securities-firms/goldman-sachs-japan]]及其他外资投行常在跨境顾问业务中强力竞争。
+- [[securities-firms/nomura-hd]]、[[securities-firms/daiwa-sg]]、[[securities-firms/smbc-nikko]]、[[securities-firms/mizuho-securities]]及[[securities-firms/mufg-mums]]通过国内发行人资源、融资关系及执行支持参与竞争。
+- 当收购涉及资源安全、基础设施或国家产业政策时，[[financial-regulators/jbic]]、[[policy-finance/INDEX|policy-finance INDEX]]及出口信贷/政策性金融相关页面变得重要。
 
 ## 尽职调查清单
 
@@ -63,10 +63,10 @@ translated_at: 2026-05-31T06:16:15.689Z
 - [[finance/INDEX|finance INDEX]]
 - [[finance/japan-ib-league-table]]
 - [[securities/INDEX]]
-- [[JapanFG/goldman-sachs-japan]]
-- [[JapanFG/nomura-hd]]
-- [[JapanFG/mizuho-securities]]
-- [[JapanFG/mufg-mums]]
+- [[securities-firms/goldman-sachs-japan]]
+- [[securities-firms/nomura-hd]]
+- [[securities-firms/mizuho-securities]]
+- [[securities-firms/mufg-mums]]
 - [[policy-finance/INDEX]]
 - [[INDEX|FinWiki index]]
 

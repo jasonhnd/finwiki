@@ -11,7 +11,7 @@ translated_at: 2026-06-01T03:31:12.251Z
 
 ## 维基路线
 
-此条目位于 [[payments/INDEX|payments index]] 下，作为 JR 东锚定的预付费发行人页面，与 FSA 注册表视图的 [[payments/prepaid-payment-instrument-issuers-japan-index|prepaid payment instrument issuers registry]] 以及跨发行人方案视图的 [[payments/japan-transit-prepaid-suica-pasmo-icoca-economics|transit-prepaid e-money economics]] 配对（10 IC 互用、Cyberne 结算）。与 [[payments/pasmo-prepaid-tokyo-metro|PASMO]]（东京地铁/私铁联盟对应）、[[payments/waon-prepaid-aeon|WAON]] / [[payments/nanaco-prepaid-seven-i|nanaco]]（零售锚定 FeliCa 同行）和 [[payments/edy-rakuten-prepaid|Rakuten Edy]]（与平台无关的 FeliCa）进行比较。企业/团体主播为[[JapanFG/jr-east-financial|JR East financial services / Viewカード]]；技术骨干是通过 Sony / FeliCa Networks 的 FeliCa； mobile-rail扩展链接到Apple Pay / Osaifu Keitai下的[[payments/japan-card-security-authentication-controls|tokenization controls]]。
+此条目位于 [[payments/INDEX|payments index]] 下，作为 JR 东锚定的预付费发行人页面，与 FSA 注册表视图的 [[payments/prepaid-payment-instrument-issuers-japan-index|prepaid payment instrument issuers registry]] 以及跨发行人方案视图的 [[payments/japan-transit-prepaid-suica-pasmo-icoca-economics|transit-prepaid e-money economics]] 配对（10 IC 互用、Cyberne 结算）。与 [[payments/pasmo-prepaid-tokyo-metro|PASMO]]（东京地铁/私铁联盟对应）、[[payments/waon-prepaid-aeon|WAON]] / [[payments/nanaco-prepaid-seven-i|nanaco]]（零售锚定 FeliCa 同行）和 [[payments/edy-rakuten-prepaid|Rakuten Edy]]（与平台无关的 FeliCa）进行比较。企业/团体主播为[[card-issuers/jr-east-financial|JR East financial services / Viewカード]]；技术骨干是通过 Sony / FeliCa Networks 的 FeliCa； mobile-rail扩展链接到Apple Pay / Osaifu Keitai下的[[payments/japan-card-security-authentication-controls|tokenization controls]]。
 
 ## 长篇大论；博士
 
@@ -103,7 +103,7 @@ Suica 在 JR 东日本的战略逻辑：
 - [[payments/funds-transfer-vs-prepaid-boundary]]
 - [[payments/japan-payment-scheme-economics-matrix]]
 - [[payments/japan-card-security-authentication-controls]]
-- [[JapanFG/jr-east-financial]]
+- [[card-issuers/jr-east-financial]]
 - [[loyalty/japan-points-landscape]]
 - [[INDEX|FinWiki index]]
 

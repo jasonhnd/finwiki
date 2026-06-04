@@ -16,7 +16,7 @@ translated_at: 2026-06-01T03:31:12.315Z
 
 ## TL;DR
 
-爱知县信用保证协会（爱知県信用保证协会）是日本51法人地方信用保证体系的爱知县成员。爱知县的保证余额通常位居联盟前五名，因为爱知县拥有日本最密集的汽车供应链中小企业集群——丰田汽车的主要供应商以及数千家 2 /3 /4  级零部件、模具、机械加工、铸造和表面处理供应商，这些供应商集中在三河和尾张带。其中许多中小企业依赖地区银行（[[JapanFG/aichi-bank|Aichi Bank]]、[[JapanFG/aichi-fg|Aichi FG]]/名古屋银行、[[JapanFG/chukyo-bank|Chukyo Bank]]、[[JapanFG/nagoya-bank|Nagoya Bank]]）和当地信用金尾部提供的有担保的营运资金和设备贷款。
+爱知县信用保证协会（爱知県信用保证协会）是日本51法人地方信用保证体系的爱知县成员。爱知县的保证余额通常位居联盟前五名，因为爱知县拥有日本最密集的汽车供应链中小企业集群——丰田汽车的主要供应商以及数千家 2 /3 /4  级零部件、模具、机械加工、铸造和表面处理供应商，这些供应商集中在三河和尾张带。其中许多中小企业依赖地区银行（[[regional-banks/aichi-bank|Aichi Bank]]、[[regional-banks/aichi-fg|Aichi FG]]/名古屋银行、[[regional-banks/chukyo-bank|Chukyo Bank]]、[[regional-banks/nagoya-bank|Nagoya Bank]]）和当地信用金尾部提供的有担保的营运资金和设备贷款。
 
 ## 1。 机关概要
 
@@ -29,7 +29,7 @@ translated_at: 2026-06-01T03:31:12.315Z
 | 保证高残| 兆円规模 — 连合会全国51协会中の上位 |
 | 加盟金融机构| 约30 行（地区银行、大型银行県内支行、信用社、信用合作社）|
 | 连合会加盟 | [[policy-finance/national-federation-credit-guarantee-corporations|全国信用保証協会連合会 (Japan Federation of Credit Guarantee Corporations)]] 的成员 |
-| 信用保険 |由 [[JapanFG/jfc|JFC]] 信用保险业务再保险 |
+| 信用保険 |由 [[financial-regulators/jfc|JFC]] 信用保险业务再保险 |
 
 ## 2。 主要保证商品
 
@@ -44,7 +44,7 @@ translated_at: 2026-06-01T03:31:12.315Z
 
 ## 3。 県内产业构造との关系
 
-爱知县在结构上以丰田汽车（丰田市）、爱信、电装、丰田工业和丰田纺织为基础的汽车供应链以及[[JapanFG/toyota-tsusho-corp|Toyota Tsusho]]贸易流的一级1 供应商集群为主导。在这些主要企业周围，有数千家 2/3/4  级中小企业​​，生产精密加工零件、冲压、铸造、锻造、注塑、表面处理、电气线束和模具。这些中小企业群体正是爱知 CGC 通过担保支持的营运资金和资本支出贷款所服务的群体。
+爱知县在结构上以丰田汽车（丰田市）、爱信、电装、丰田工业和丰田纺织为基础的汽车供应链以及[[financial-conglomerates/toyota-tsusho-corp|Toyota Tsusho]]贸易流的一级1 供应商集群为主导。在这些主要企业周围，有数千家 2/3/4  级中小企业​​，生产精密加工零件、冲压、铸造、锻造、注塑、表面处理、电气线束和模具。这些中小企业群体正是爱知 CGC 通过担保支持的营运资金和资本支出贷款所服务的群体。
 
 目前的担保书有两个结构性压力：
 
@@ -55,13 +55,13 @@ translated_at: 2026-06-01T03:31:12.315Z
 
 ## 4。联合贷款和 JFC 叠加
 
-爱知县 CGC 担保通常与来自[[JapanFG/aichi-bank|Aichi Bank]]、[[JapanFG/aichi-fg|Aichi FG (Bank of Nagoya holdco)]]、[[JapanFG/chukyo-bank|Chukyo Bank]]、[[JapanFG/nagoya-bank|Nagoya Bank]]以及大型银行县内分行（[[JapanFG/mufg|MUFG]]通过传统东海银行根基在爱知县占有重要地位；[[JapanFG/smfg|SMFG]]和[[JapanFG/mizuho-fg|Mizuho]]也很重要）以及密集的当地信用金/信用合作网络提供的贷款并存。与周边县相比，[[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]] 爱知县的情况比较平静，因为以丰田为支柱的经济使多家地区银行能够保持足够的盈利以保持独立。
+爱知县 CGC 担保通常与来自[[regional-banks/aichi-bank|Aichi Bank]]、[[regional-banks/aichi-fg|Aichi FG (Bank of Nagoya holdco)]]、[[regional-banks/chukyo-bank|Chukyo Bank]]、[[regional-banks/nagoya-bank|Nagoya Bank]]以及大型银行县内分行（[[megabanks/mufg|MUFG]]通过传统东海银行根基在爱知县占有重要地位；[[megabanks/smfg|SMFG]]和[[megabanks/mizuho-fg|Mizuho]]也很重要）以及密集的当地信用金/信用合作网络提供的贷款并存。与周边县相比，[[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]] 爱知县的情况比较平静，因为以丰田为支柱的经济使多家地区银行能够保持足够的盈利以保持独立。
 
-公共金融共同贷款通常通过[[JapanFG/jfc|JFC]]（政府系金融机构）进行——JFC 的中小企业贷款部门直接与担保支持的区域银行部分共同贷款，而 JFC 的信用保险部门则对担保本身进行再保险。 [[JapanFG/shoko-chukin|商工中金 (Shoko Chukin)]] 还作为补充性中间层政策贷款人参与其中，特别是针对汽车带中合作组织的供应商团体。
+公共金融共同贷款通常通过[[financial-regulators/jfc|JFC]]（政府系金融机构）进行——JFC 的中小企业贷款部门直接与担保支持的区域银行部分共同贷款，而 JFC 的信用保险部门则对担保本身进行再保险。 [[financial-regulators/shoko-chukin|商工中金 (Shoko Chukin)]] 还作为补充性中间层政策贷款人参与其中，特别是针对汽车带中合作组织的供应商团体。
 
 ## 5。 代位弁済と求偿
 
-当有担保的中小企业借款人违约时，爱知CGC根据担保合同条款向贷款金融机构支付代位弁済，然后接管对借款人的求偿债权。回收收益——通过资产清算、分期还款计划或并购继承转让——流回公司。恢复后的剩余损失由再保险层吸收：[[JapanFG/jfc|JFC]]信用保险涵盖联邦汇集部分，[[policy-finance/national-federation-credit-guarantee-corporations|全国信用保証協会連合会]]协调51 成员之间的损失分摊和运营标准。在汽车供应商破产连锁反应中，当1 层级削减订单且2/3 层级营运资金紧缩时，爱知县的代位求偿量可能会在一个财政季度内急剧上升。
+当有担保的中小企业借款人违约时，爱知CGC根据担保合同条款向贷款金融机构支付代位弁済，然后接管对借款人的求偿债权。回收收益——通过资产清算、分期还款计划或并购继承转让——流回公司。恢复后的剩余损失由再保险层吸收：[[financial-regulators/jfc|JFC]]信用保险涵盖联邦汇集部分，[[policy-finance/national-federation-credit-guarantee-corporations|全国信用保証協会連合会]]协调51 成员之间的损失分摊和运营标准。在汽车供应商破产连锁反应中，当1 层级削减订单且2/3 层级营运资金紧缩时，爱知县的代位求偿量可能会在一个财政季度内急剧上升。
 
 ## 6。危机时代的应对
 
@@ -73,7 +73,7 @@ translated_at: 2026-06-01T03:31:12.315Z
 
 在 [[policy-finance/japan-credit-guarantee-system|Japan credit guarantee system]] 架构中，爱知 CGC 是顶级担保平衡公司之一，其运营设计选择向上流入联邦范围内的产品模板。当爱知 CGC 为电动汽车转型供应商枢纽开发专门的“绝对保证”产品变体时，[[policy-finance/national-federation-credit-guarantee-corporations|全国信用保証協会連合会]] 协调层可以观察到该操作模板，并通知其他地方的类似产品（例如，[[policy-finance/kanagawa-credit-guarantee-corp|Kanagawa CGC]] 为日产锚定的供应商基础调整类似产品）。
 
-[[JapanFG/jfc|JFC]] 的联邦联合信用保险层吸收爱知 CGC 在责任分担制度下首次代位损失后的剩余损失。这意味着爱知县 CGC 的汽车供应商担保账簿通过再保险与该县的银行业部分脱钩 - 丰田减产代位权冲击不会局限于爱知县银行内部，而是通过支持所有51 公司的 JFC 信用保险池进行扩散。
+[[financial-regulators/jfc|JFC]] 的联邦联合信用保险层吸收爱知 CGC 在责任分担制度下首次代位损失后的剩余损失。这意味着爱知县 CGC 的汽车供应商担保账簿通过再保险与该县的银行业部分脱钩 - 丰田减产代位权冲击不会局限于爱知县银行内部，而是通过支持所有51 公司的 JFC 信用保险池进行扩散。
 
 ## 8。与同级地市CGC的比较
 
@@ -94,13 +94,13 @@ translated_at: 2026-06-01T03:31:12.315Z
 - [[policy-finance/national-federation-credit-guarantee-corporations]]
 - [[policy-finance/tokyo-credit-guarantee-corp]]
 - [[policy-finance/osaka-credit-guarantee-corp]]
-- [[JapanFG/jfc]]
-- [[JapanFG/shoko-chukin]]
-- [[JapanFG/aichi-bank]]
-- [[JapanFG/aichi-fg]]
-- [[JapanFG/chukyo-bank]]
-- [[JapanFG/nagoya-bank]]
-- [[JapanFG/toyota-tsusho-corp]]
+- [[financial-regulators/jfc]]
+- [[financial-regulators/shoko-chukin]]
+- [[regional-banks/aichi-bank]]
+- [[regional-banks/aichi-fg]]
+- [[regional-banks/chukyo-bank]]
+- [[regional-banks/nagoya-bank]]
+- [[financial-conglomerates/toyota-tsusho-corp]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/shinkin-bank-registry-japan]]
 - [[banking/INDEX]]

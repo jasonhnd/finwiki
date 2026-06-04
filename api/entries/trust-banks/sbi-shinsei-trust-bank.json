@@ -1,0 +1,99 @@
+{
+  "schema_version": "1.0",
+  "slug": "trust-banks/sbi-shinsei-trust-bank",
+  "source_path": "trust-banks/sbi-shinsei-trust-bank.md",
+  "url": "https://finwiki.zksc.io/trust-banks/sbi-shinsei-trust-bank",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/trust-banks/sbi-shinsei-trust-bank.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/trust-banks/sbi-shinsei-trust-bank.md",
+  "domain": "trust-banks",
+  "title": "SBI新生信託銀行 (SBI Shinsei Trust Bank)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "SBI新生信託銀行 (SBI Shinsei Trust Bank)",
+    "aliases": [
+      "SBI Shinsei Trust Bank",
+      "SBI新生信託銀行",
+      "新生信託銀行",
+      "Shinsei Trust & Banking"
+    ],
+    "domain": "trust-banks",
+    "created": "2026-05-22",
+    "last_updated": "2026-05-22",
+    "last_tended": "2026-05-22",
+    "review_by": "2026-11-22",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "trust-bank",
+      "SBI",
+      "security-token",
+      "stablecoin",
+      "securitization"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.shinseitrust.com/corporate/about.html",
+      "https://www.shinseitrust.com/business/digital.html",
+      "https://www.shinseitrust.com/business/real_estate.html",
+      "https://www.shinseitrust.com/business/securitized_receivables.html",
+      "https://www.sbigroup.co.jp/news/pdf/2026/0325_d.pdf",
+      "https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf"
+    ]
+  },
+  "summary": "SBI Shinsei Trust Bank is a licensed trust-bank operating-company page under JapanFG. Read it with SBI Shinsei Bank, SBI Holdings, Mitsubishi UFJ Trust Bank, Progmat, Japan stablecoin regulation, and Japan trust-bank custody map.",
+  "headings": [
+    "SBI新生信託銀行 (SBI Shinsei Trust Bank)",
+    "Wiki route",
+    "Overview",
+    "Entity Boundary",
+    "Business Line Map",
+    "Public Context",
+    "Regulatory / Research Notes",
+    "Caveats",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 14,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/INDEX",
+      "banking/japan-trust-bank-custody-map",
+      "exchanges/jp-exchange-sbi-vc-trade",
+      "finance/japan-acquisition-finance",
+      "fintech/japan-stablecoin-regulatory-landscape",
+      "fintech/jp-stablecoin-progmat",
+      "megabanks/sbi-hd",
+      "payment-firms/progmat",
+      "regional-banks/sbi-shinsei-bank",
+      "securities-firms/sbi-securities",
+      "securities/osaka-digital-exchange",
+      "trust-banks/jsf-trust-bank",
+      "trust-banks/mitsubishi-ufj-trust-bank"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/banking/japan-trust-bank-custody-map",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-sbi-vc-trade",
+      "https://finwiki.zksc.io/finance/japan-acquisition-finance",
+      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
+      "https://finwiki.zksc.io/fintech/jp-stablecoin-progmat",
+      "https://finwiki.zksc.io/megabanks/sbi-hd",
+      "https://finwiki.zksc.io/payment-firms/progmat",
+      "https://finwiki.zksc.io/regional-banks/sbi-shinsei-bank",
+      "https://finwiki.zksc.io/securities-firms/sbi-securities",
+      "https://finwiki.zksc.io/securities/osaka-digital-exchange",
+      "https://finwiki.zksc.io/trust-banks/jsf-trust-bank",
+      "https://finwiki.zksc.io/trust-banks/mitsubishi-ufj-trust-bank"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 5948,
+    "word_like_tokens": 933,
+    "inbound_wikilinks_count": 6,
+    "last_modified": "2026-06-04"
+  }
+}

@@ -11,11 +11,11 @@ translated_at: 2026-06-03T00:53:08.325Z
 
 ## 要約
 
-日本の銀行は、[[JapanFG/norinchukin|Norinchukin]]を筆頭に、[[JapanFG/japan-post-bank|Japan Post Bank]]と地域銀行層がそれに続く形で、2010年代を通じて米国 broadly-syndicated-loan (BSL) CLOの世界最大の単一保有者群になった。背景には、円建てJGBに対する利回り上乗せと、シニアトランシェのAAA / AAとしての安全性への認識があった。このエクスポージャーは3つの規制上の変曲点を通過した。すなわち、**Dodd-Frank Section 941 のリスク保持ルール**（2018 年の裁判所判断後、オープンマーケットCLOマネージャーを実質的に保持義務から除外し、市場供給を解放した）、方法論とFSA監督の不確実性をめぐりNorinchukinとJPostが購入を一時停止した**2018 年のリスク保持危機**、そして外債・CLOポートフォリオの時価損失を受け、外国クレジット・リスク資産保有の削減を表明した**2024 年Norinchukin損失開示**である。地域銀行も同じ時期により小規模ながら無視できないCLOポートフォリオを構築した。FSA開示とBOJ Financial System Reportは、現在、地域銀行のCLOエクスポージャーを監視対象として扱っている。
+日本の銀行は、[[cooperative-banks/norinchukin|Norinchukin]]を筆頭に、[[regional-banks/japan-post-bank|Japan Post Bank]]と地域銀行層がそれに続く形で、2010年代を通じて米国 broadly-syndicated-loan (BSL) CLOの世界最大の単一保有者群になった。背景には、円建てJGBに対する利回り上乗せと、シニアトランシェのAAA / AAとしての安全性への認識があった。このエクスポージャーは3つの規制上の変曲点を通過した。すなわち、**Dodd-Frank Section 941 のリスク保持ルール**（2018 年の裁判所判断後、オープンマーケットCLOマネージャーを実質的に保持義務から除外し、市場供給を解放した）、方法論とFSA監督の不確実性をめぐりNorinchukinとJPostが購入を一時停止した**2018 年のリスク保持危機**、そして外債・CLOポートフォリオの時価損失を受け、外国クレジット・リスク資産保有の削減を表明した**2024 年Norinchukin損失開示**である。地域銀行も同じ時期により小規模ながら無視できないCLOポートフォリオを構築した。FSA開示とBOJ Financial System Reportは、現在、地域銀行のCLOエクスポージャーを監視対象として扱っている。
 
 ## ウィキ上の位置づけ
 
-この項目は、**CLO投資家としての日本**を扱うノード、すなわち買い手側から見たストラクチャードファイナンスの視点として[[structured-finance/INDEX|structured-finance index]]の下に位置づけられる。国内発行側は[[structured-finance/japan-abs-market-overview|Japan ABS market overview]]、国内格付とグローバル機関基準の比較は[[structured-finance/credit-rating-methodology-jcr-r-and-i|JCR / R&I methodology]]、ヘッジ文脈は[[derivatives/japan-cds-market-overview|Japan CDS market]]と照らして読む。制度枠は上流のローン組成側として[[finance/INDEX|finance index]]と[[finance/japan-leveraged-buyout-economics|Japan LBO economics]]である。機関アンカーは[[JapanFG/norinchukin|Norinchukin]]、[[JapanFG/japan-post-bank|Japan Post Bank]]、[[JapanFG/mufg|MUFG]] / [[JapanFG/smfg|SMFG]] / [[JapanFG/mizuho-fg|Mizuho FG]]であり、メガバンクもCLO保有者だが相対規模は小さい。
+この項目は、**CLO投資家としての日本**を扱うノード、すなわち買い手側から見たストラクチャードファイナンスの視点として[[structured-finance/INDEX|structured-finance index]]の下に位置づけられる。国内発行側は[[structured-finance/japan-abs-market-overview|Japan ABS market overview]]、国内格付とグローバル機関基準の比較は[[structured-finance/credit-rating-methodology-jcr-r-and-i|JCR / R&I methodology]]、ヘッジ文脈は[[derivatives/japan-cds-market-overview|Japan CDS market]]と照らして読む。制度枠は上流のローン組成側として[[finance/INDEX|finance index]]と[[finance/japan-leveraged-buyout-economics|Japan LBO economics]]である。機関アンカーは[[cooperative-banks/norinchukin|Norinchukin]]、[[regional-banks/japan-post-bank|Japan Post Bank]]、[[megabanks/mufg|MUFG]] / [[megabanks/smfg|SMFG]] / [[megabanks/mizuho-fg|Mizuho FG]]であり、メガバンクもCLO保有者だが相対規模は小さい。
 
 ## 1. CLOとは何か — 短い復習
 
@@ -29,12 +29,12 @@ translated_at: 2026-06-03T00:53:08.325Z
 ## 2. 日本の買い手基盤 — 三つの同心円
 
 ### Tier 1: Norinchukin
-- [[JapanFG/norinchukin|Norinchukin]] — 農業協同組合の中央銀行 — は2010年代後半までに米国BSL CLOの世界最大の単一保有者になった。
+- [[cooperative-banks/norinchukin|Norinchukin]] — 農業協同組合の中央銀行 — は2010年代後半までに米国BSL CLOの世界最大の単一保有者になった。
 - ピーク時には、CLO、agency MBS、国債、社債を含む外債保有が連結ベースで数十兆円に達した。
 - 戦略の背景には、円建てJGB利回りが構造的に低いことと、農協会員基盤へ還元する収益を生み出すという機関の任務があった。
 
 ### Tier 2: Japan Post Bank
-- [[JapanFG/japan-post-bank|Japan Post Bank]] — Japan Post Holdingsの預金受入部門 — も民営化後に相当な外債・ストラクチャードクレジットポートフォリオを構築した。
+- [[regional-banks/japan-post-bank|Japan Post Bank]] — Japan Post Holdingsの預金受入部門 — も民営化後に相当な外債・ストラクチャードクレジットポートフォリオを構築した。
 - CLOエクスポージャーは、外国クレジット配分全体の中で意味のある、ただしより小さい割合を占める。
 - JPostのJGB偏重配分からの多様化任務が積み上げを促した。
 
@@ -75,7 +75,7 @@ translated_at: 2026-06-03T00:53:08.325Z
 
 ## 5. 2024 年Norinchukin外債損失開示
 
-2024, 年半ば、[[JapanFG/norinchukin|Norinchukin]]は外債・CLOポートフォリオの時価損失を公表した。要因は次のとおりである。
+2024, 年半ば、[[cooperative-banks/norinchukin|Norinchukin]]は外債・CLOポートフォリオの時価損失を公表した。要因は次のとおりである。
 - 米国金利上昇（2022–2023）により固定利付外債の市場価値が下落した。
 - 2H2023  / 2024 のクレジットスプレッド拡大がCLO時価に影響した。
 - 円安により、非ヘッジベースで外貨建て損失の円換算額が増えた。
@@ -119,8 +119,8 @@ translated_at: 2026-06-03T00:53:08.325Z
 - FSAが地域銀行に明示的なCLO集中上限を課すかどうか。
 - 日本の投資家需要がBSL CLOからmiddle-marketまたはdirect-lending-fund構造へ回転するかどうか。
 - 日本の買い手が持続的に後退した場合の米国CLO新規発行供給への影響。
-- [[JapanFG/japan-post-bank|Japan Post Bank]]がNorinchukinの軌道に追随するか、分岐するか。
-- [[JapanFG/mufg|MUFG]] / [[JapanFG/smfg|SMFG]] / [[JapanFG/mizuho-fg|Mizuho FG]]証券子会社が、CLO引受業者として、また直接CLO購入の競合として果たす役割。
+- [[regional-banks/japan-post-bank|Japan Post Bank]]がNorinchukinの軌道に追随するか、分岐するか。
+- [[megabanks/mufg|MUFG]] / [[megabanks/smfg|SMFG]] / [[megabanks/mizuho-fg|Mizuho FG]]証券子会社が、CLO引受業者として、また直接CLO購入の競合として果たす役割。
 
 ## 関連項目
 
@@ -130,9 +130,9 @@ translated_at: 2026-06-03T00:53:08.325Z
 - [[structured-finance/spv-tk-gk-vehicle-japan-tax|TK / GK SPV vehicle]]
 - [[derivatives/japan-cds-market-overview|Japan CDS market overview]]
 - [[finance/INDEX|finance index]] · [[finance/japan-leveraged-buyout-economics|Japan LBO economics]]
-- [[JapanFG/norinchukin|Norinchukin]] · [[JapanFG/japan-post-bank|Japan Post Bank]]
-- [[JapanFG/mufg|MUFG]] · [[JapanFG/smfg|SMFG]] · [[JapanFG/mizuho-fg|Mizuho FG]]
-- [[JapanFG/japan-exchange-group|JPX]]
+- [[cooperative-banks/norinchukin|Norinchukin]] · [[regional-banks/japan-post-bank|Japan Post Bank]]
+- [[megabanks/mufg|MUFG]] · [[megabanks/smfg|SMFG]] · [[megabanks/mizuho-fg|Mizuho FG]]
+- [[financial-regulators/japan-exchange-group|JPX]]
 
 ## 出典
 

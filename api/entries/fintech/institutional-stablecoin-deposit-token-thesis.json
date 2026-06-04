@@ -46,8 +46,6 @@
     "wikilinks_count": 13,
     "wikilinks": [
       "INDEX",
-      "JapanFG/mufg",
-      "JapanFG/smfg",
       "banking/minna-bank-baas-model",
       "fintech/INDEX",
       "fintech/japan-financial-regulation",
@@ -57,12 +55,12 @@
       "fintech/onchain-finance-vs-crypto-bifurcation",
       "fintech/retail-stablecoin-dual-bind",
       "fintech/tokenized-deposit-cumulative-volume-scale",
+      "megabanks/mufg",
+      "megabanks/smfg",
       "systems/canton-overview"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/mufg",
-      "https://finwiki.zksc.io/JapanFG/smfg",
       "https://finwiki.zksc.io/banking/minna-bank-baas-model",
       "https://finwiki.zksc.io/fintech/INDEX",
       "https://finwiki.zksc.io/fintech/japan-financial-regulation",
@@ -72,15 +70,17 @@
       "https://finwiki.zksc.io/fintech/onchain-finance-vs-crypto-bifurcation",
       "https://finwiki.zksc.io/fintech/retail-stablecoin-dual-bind",
       "https://finwiki.zksc.io/fintech/tokenized-deposit-cumulative-volume-scale",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/smfg",
       "https://finwiki.zksc.io/systems/canton-overview"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2549,
+    "nonspace_chars": 2553,
     "word_like_tokens": 392,
     "inbound_wikilinks_count": 27,
-    "last_modified": "2026-05-24"
+    "last_modified": "2026-06-04"
   }
 }

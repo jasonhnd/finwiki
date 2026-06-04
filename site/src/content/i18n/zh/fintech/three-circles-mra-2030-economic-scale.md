@@ -41,7 +41,7 @@ translated_at: 2026-05-31T11:13:44.948Z
 
 **单向认证 -> 双向认证 -> 三边 MRA** 的演进路径：
 
-- 2026-02：美国 - 日本 MRA 已签署，覆盖 USDC x [[JapanFG/jpyc|JPYC]] 双向认证。
+- 2026-02：美国 - 日本 MRA 已签署，覆盖 USDC x [[payment-firms/jpyc|JPYC]] 双向认证。
 - 2026-Q3：美国 - 欧盟 MRA 预期签署，详见 [[fintech/mica-cross-border-implications|MiCA 跨境含义]]。
 - 2027-2028：三币种 MRA 全面签署，持牌发行方自动 passporting。
 

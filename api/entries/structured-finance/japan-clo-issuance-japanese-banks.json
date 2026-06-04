@@ -61,30 +61,30 @@
   "body_links": {
     "wikilinks_count": 13,
     "wikilinks": [
-      "JapanFG/japan-exchange-group",
-      "JapanFG/japan-post-bank",
-      "JapanFG/mizuho-fg",
-      "JapanFG/mufg",
-      "JapanFG/norinchukin",
-      "JapanFG/smfg",
+      "cooperative-banks/norinchukin",
       "derivatives/japan-cds-market-overview",
       "finance/INDEX",
       "finance/japan-leveraged-buyout-economics",
+      "financial-regulators/japan-exchange-group",
+      "megabanks/mizuho-fg",
+      "megabanks/mufg",
+      "megabanks/smfg",
+      "regional-banks/japan-post-bank",
       "structured-finance/INDEX",
       "structured-finance/credit-rating-methodology-jcr-r-and-i",
       "structured-finance/japan-abs-market-overview",
       "structured-finance/spv-tk-gk-vehicle-japan-tax"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/japan-exchange-group",
-      "https://finwiki.zksc.io/JapanFG/japan-post-bank",
-      "https://finwiki.zksc.io/JapanFG/mizuho-fg",
-      "https://finwiki.zksc.io/JapanFG/mufg",
-      "https://finwiki.zksc.io/JapanFG/norinchukin",
-      "https://finwiki.zksc.io/JapanFG/smfg",
+      "https://finwiki.zksc.io/cooperative-banks/norinchukin",
       "https://finwiki.zksc.io/derivatives/japan-cds-market-overview",
       "https://finwiki.zksc.io/finance/INDEX",
       "https://finwiki.zksc.io/finance/japan-leveraged-buyout-economics",
+      "https://finwiki.zksc.io/financial-regulators/japan-exchange-group",
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/smfg",
+      "https://finwiki.zksc.io/regional-banks/japan-post-bank",
       "https://finwiki.zksc.io/structured-finance/INDEX",
       "https://finwiki.zksc.io/structured-finance/credit-rating-methodology-jcr-r-and-i",
       "https://finwiki.zksc.io/structured-finance/japan-abs-market-overview",
@@ -94,9 +94,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 11060,
-    "word_like_tokens": 1881,
+    "nonspace_chars": 11176,
+    "word_like_tokens": 1892,
     "inbound_wikilinks_count": 3,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-06-04"
   }
 }

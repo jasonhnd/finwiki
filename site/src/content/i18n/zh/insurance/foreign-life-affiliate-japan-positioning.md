@@ -14,7 +14,7 @@ translated_at: 2026-05-31T11:13:44.937Z
 
 此条目位于 [[insurance/INDEX|insurance index]] 下，是在日本运营的外国母公司人寿保险公司的路由页面。与 [[insurance/japan-life-insurance-big-four|Japan life big four]] 一起阅读，了解国内互助/上市股票对比，与 [[insurance/sony-life-group-life-operating-model|Sony Life Lifeplanner / group-life operating model]] 进行日本总部的 Lifeplanner 式对比，与 [[insurance/life-insurance-channel-mix|life insurance channel mix]] 进行宏观分配镜头，与 [[insurance/japan-life-insurance-alm-overview|Japan life ALM overview]] 进行资产负债表结构，与 [[insurance/economic-value-based-solvency|economic-value solvency]] 进行监管框架，与 [[insurance/global-solvency-framework-comparison-matrix|global solvency framework matrix]] 进行跨管辖区阅读，与 [[insurance/mutual-vs-stock-life-insurer|mutual vs stock]] 进行法律形式解释，与 [[insurance/japan-iaig-ics-mapping|Japan IAIG-ICS mapping]] 进行外国-IAIG 阅读集团范围内的监督角度。
 
-实体路由经过 [[JapanFG/aflac-japan|AFLAC Japan]]、[[JapanFG/metlife-japan|MetLife Japan]]、[[JapanFG/manulife-japan|Manulife Japan]]、[[JapanFG/prudential-japan|Prudential Japan]]、[[JapanFG/gibraltar-life|Gibraltar Life]]、[[JapanFG/axa-japan|AXA Japan]] 和 [[JapanFG/zurich-japan|Zurich Japan]]。保险执照上下文位于[[JapanFG/legal-financial-licenses/insurance-license-and-solvency|insurance license and solvency route]]。
+实体路由经过 [[life-insurers/aflac-japan|AFLAC Japan]]、[[life-insurers/metlife-japan|MetLife Japan]]、[[life-insurers/manulife-japan|Manulife Japan]]、[[life-insurers/prudential-japan|Prudential Japan]]、[[life-insurers/gibraltar-life|Gibraltar Life]]、[[life-insurers/axa-japan|AXA Japan]] 和 [[non-life-insurers/zurich-japan|Zurich Japan]]。保险执照上下文位于[[financial-licenses/insurance-license-and-solvency|insurance license and solvency route]]。
 
 ## 长篇大论；博士
 
@@ -24,7 +24,7 @@ translated_at: 2026-05-31T11:13:44.937Z
 
 ### AFLAC 日本 — 癌症保险占据主导地位
 
-[[JapanFG/aflac-japan|AFLAC Japan]] 是外国人寿在单一产品线中占据主导地位的结构性参考案例：癌症保险和更广泛的补充药物。公共框架字段：
+[[life-insurers/aflac-japan|AFLAC Japan]] 是外国人寿在单一产品线中占据主导地位的结构性参考案例：癌症保险和更广泛的补充药物。公共框架字段：
 
 - 几十年来，AFLAC 在日本现行癌症政策中占据了主导市场份额，早于大多数随后的外国附属机构进入；
 - 分销组合包括企业销售代理（通常在工作场所）、[[insurance/insurance-agency-and-brokerage-japan|independent agencies / hoken-shop]]，以及与日本主要机构的联盟分销协议；
@@ -35,7 +35,7 @@ translated_at: 2026-05-31T11:13:44.937Z
 
 ### 日本大都会人寿 — 多渠道大众富裕和外币
 
-[[JapanFG/metlife-japan|MetLife Japan]]（美国上市公司大都会人寿的日本授权子公司）运营多渠道模式：
+[[life-insurers/metlife-japan|MetLife Japan]]（美国上市公司大都会人寿的日本授权子公司）运营多渠道模式：
 
 - 储蓄、外币年金和日元计价趸缴保费产品的银行保险；
 - 用于保护和咨询销售的个人财务顾问渠道；
@@ -46,7 +46,7 @@ translated_at: 2026-05-31T11:13:44.937Z
 
 ### Manulife Japan — 具有亚洲母公司战略背景的多渠道
 
-[[JapanFG/manulife-japan|Manulife Japan]]（加拿大宏利金融公司在日本授权的子公司）通过以下方式运营：
+[[life-insurers/manulife-japan|Manulife Japan]]（加拿大宏利金融公司在日本授权的子公司）通过以下方式运营：
 
 - 寿险和储蓄的代理/代理渠道；
 - 银行保险合作伙伴关系；
@@ -56,7 +56,7 @@ translated_at: 2026-05-31T11:13:44.937Z
 
 ### Prudential Japan / Gibraltar Life — Lifeplanner 渠道基准
 
-[[JapanFG/prudential-japan|Prudential Japan]] 和 [[JapanFG/gibraltar-life|Gibraltar Life]] 是美国上市的保德信金融集团旗下在日本授权的子公司。它们的通道定位是 [[JapanFG/sony-life|Sony Life]] [[insurance/sony-life-group-life-operating-model|Lifeplanner-only model]] 的直接比较器：
+[[life-insurers/prudential-japan|Prudential Japan]] 和 [[life-insurers/gibraltar-life|Gibraltar Life]] 是美国上市的保德信金融集团旗下在日本授权的子公司。它们的通道定位是 [[life-insurers/sony-life|Sony Life]] [[insurance/sony-life-group-life-operating-model|Lifeplanner-only model]] 的直接比较器：
 
 - Prudential 的 Lifeplanner 频道是日本历史上 Lifeplanner 风格的参考之一；
 - Gibraltar Life源自AOZORA / Kyoei Life血统，被保诚集团收购，增加了独立的日本国内渠道和客户群；
@@ -66,7 +66,7 @@ translated_at: 2026-05-31T11:13:44.937Z
 
 ### AXA、苏黎世、安联、友邦保险 — 欧洲和泛亚洲挑战者地位
 
-[[JapanFG/axa-japan|AXA Japan]]（法国 AXA 的子公司）和 [[JapanFG/zurich-japan|Zurich Japan]]（瑞士苏黎世的子公司）相对于国内四大保险公司而言，经营规模适中，但提供专业化的产品线。 AXA 的日本历史包括通过经纪和数字渠道分发的个人生活和事故热线；苏黎世在日本的业务历来强调直接汽车财产保险和专业生活相关线路。公共框架应依赖于每个实体当前范围的年度披露手册。
+[[life-insurers/axa-japan|AXA Japan]]（法国 AXA 的子公司）和 [[non-life-insurers/zurich-japan|Zurich Japan]]（瑞士苏黎世的子公司）相对于国内四大保险公司而言，经营规模适中，但提供专业化的产品线。 AXA 的日本历史包括通过经纪和数字渠道分发的个人生活和事故热线；苏黎世在日本的业务历来强调直接汽车财产保险和专业生活相关线路。公共框架应依赖于每个实体当前范围的年度披露手册。
 
 友邦保险（在香港上市的友邦保险集团的子公司）和安联保险（德国安联保险集团）在日本设有不同的分支机构，其规模小于上述主要外国子公司。母公司均在全球范围内占有较大份额，但尚未在日本占据主导地位。
 
@@ -136,7 +136,7 @@ FSA 担任总部位于日本的保险集团（见 [[insurance/japan-iaig-ics-map
 |日本的品牌年龄|AFLAC、MetLife、Prudential 的数十年；后来为 AXA、苏黎世、AIA|四大互惠基金几代人/一个多世纪|
 |渠道主导地位|通常专门化：癌症/医疗 (AFLAC)、Lifeplanner (Prudential)、银行保险 (MetLife)|全国捆绑销售代表+银行保险+企业+代理机构|
 |产品专业化|通常有明确的产品锚点（癌症、外币年金、Lifeplanner 咨询）|涵盖保障、储蓄、年金的广泛产品菜单|
-|资本周期|资本流向母公司；子公司保留增长 + ESR|保留用于保单持有人股息（互助）或股东股息（[[JapanFG/dai-ichi-life|Dai-ichi Life]] 列出）的资本|
+|资本周期|资本流向母公司；子公司保留增长 + ESR|保留用于保单持有人股息（互助）或股东股息（[[life-insurers/dai-ichi-life|Dai-ichi Life]] 列出）的资本|
 |监管框架|FSA + 外国集团范围内的监管者|FSA 独立（对于总部位于日本的 IAIG，FSA 也是集团范围内的监管机构）|
 |品牌推广|通常是母公司全球品牌（AFLAC duck、MetLife）与日本的改编|国内日本品牌标识|
 
@@ -184,7 +184,7 @@ FSA 担任总部位于日本的保险集团（见 [[insurance/japan-iaig-ics-map
 |渠道|竞技套装|
 |---|---|
 |癌症/补充医学 (AFLAC)|四大医疗附加险、[[insurance/internet-life-insurance-business-model|internet life medical-only products]]、合作保险公司 (kyosai) 癌症计划|
-|人生规划师咨询（保诚集团、索尼）|[[JapanFG/sony-life|Sony Life]] Lifeplanner、[[JapanFG/dai-ichi-life|Dai-ichi Life]] 咨询销售、hoken-shop IFA 平台|
+|人生规划师咨询（保诚集团、索尼）|[[life-insurers/sony-life|Sony Life]] Lifeplanner、[[life-insurers/dai-ichi-life|Dai-ichi Life]] 咨询销售、hoken-shop IFA 平台|
 |银行保险外币年金（MetLife）|四大银行保险、宏利保险、友邦保险及部分欧洲银行保险产品|
 |工地自愿福利（多项）|四大企业渠道、团体生活计划、员工福利顾问|
 
@@ -204,16 +204,16 @@ FSA 担任总部位于日本的保险集团（见 [[insurance/japan-iaig-ics-map
 - [[insurance/mutual-vs-stock-life-insurer]]
 - [[insurance/insurance-agency-and-brokerage-japan]]
 - [[insurance/internet-life-insurance-business-model]]
-- [[JapanFG/aflac-japan]]
-- [[JapanFG/metlife-japan]]
-- [[JapanFG/manulife-japan]]
-- [[JapanFG/prudential-japan]]
-- [[JapanFG/gibraltar-life]]
-- [[JapanFG/axa-japan]]
-- [[JapanFG/zurich-japan]]
-- [[JapanFG/sony-life]]
-- [[JapanFG/sony-fg]]
-- [[JapanFG/legal-financial-licenses/insurance-license-and-solvency]]
+- [[life-insurers/aflac-japan]]
+- [[life-insurers/metlife-japan]]
+- [[life-insurers/manulife-japan]]
+- [[life-insurers/prudential-japan]]
+- [[life-insurers/gibraltar-life]]
+- [[life-insurers/axa-japan]]
+- [[non-life-insurers/zurich-japan]]
+- [[life-insurers/sony-life]]
+- [[megabanks/sony-fg]]
+- [[financial-licenses/insurance-license-and-solvency]]
 - [[finance/japan-listed-financial-groups-investable-universe]]
 - [[INDEX|FinWiki index]]
 

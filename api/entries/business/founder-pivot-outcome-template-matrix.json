@@ -73,7 +73,6 @@
     "wikilinks_count": 17,
     "wikilinks": [
       "INDEX",
-      "JapanFG/progmat",
       "business/INDEX",
       "business/brian-armstrong-coinbase-public-company-template",
       "business/christine-moy-talent-signal-jpm-apollo",
@@ -88,11 +87,11 @@
       "exchanges/us-crypto-licensing-multi-layer-system",
       "fintech/INDEX",
       "fintech/blackrock-buidl-tokenized-mmf-overview",
-      "fintech/cftc-sec-crypto-jurisdiction"
+      "fintech/cftc-sec-crypto-jurisdiction",
+      "payment-firms/progmat"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/progmat",
       "https://finwiki.zksc.io/business/INDEX",
       "https://finwiki.zksc.io/business/brian-armstrong-coinbase-public-company-template",
       "https://finwiki.zksc.io/business/christine-moy-talent-signal-jpm-apollo",
@@ -107,15 +106,16 @@
       "https://finwiki.zksc.io/exchanges/us-crypto-licensing-multi-layer-system",
       "https://finwiki.zksc.io/fintech/INDEX",
       "https://finwiki.zksc.io/fintech/blackrock-buidl-tokenized-mmf-overview",
-      "https://finwiki.zksc.io/fintech/cftc-sec-crypto-jurisdiction"
+      "https://finwiki.zksc.io/fintech/cftc-sec-crypto-jurisdiction",
+      "https://finwiki.zksc.io/payment-firms/progmat"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 36923,
-    "word_like_tokens": 5643,
+    "nonspace_chars": 36929,
+    "word_like_tokens": 5644,
     "inbound_wikilinks_count": 2,
-    "last_modified": "2026-06-01"
+    "last_modified": "2026-06-04"
   }
 }

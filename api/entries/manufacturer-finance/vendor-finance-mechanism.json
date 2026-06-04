@@ -64,9 +64,9 @@
     "wikilinks": [
       "INDEX",
       "JapanFG/INDEX",
-      "JapanFG/mitsubishi-hc-capital",
-      "JapanFG/orix-corp",
-      "JapanFG/tokyo-century",
+      "leasing-firms/mitsubishi-hc-capital",
+      "leasing-firms/orix-corp",
+      "leasing-firms/tokyo-century",
       "manufacturer-finance/INDEX",
       "manufacturer-finance/export-finance-mechanism",
       "manufacturer-finance/hitachi-industrial-finance-platform",
@@ -83,9 +83,9 @@
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
       "https://finwiki.zksc.io/JapanFG/INDEX",
-      "https://finwiki.zksc.io/JapanFG/mitsubishi-hc-capital",
-      "https://finwiki.zksc.io/JapanFG/orix-corp",
-      "https://finwiki.zksc.io/JapanFG/tokyo-century",
+      "https://finwiki.zksc.io/leasing-firms/mitsubishi-hc-capital",
+      "https://finwiki.zksc.io/leasing-firms/orix-corp",
+      "https://finwiki.zksc.io/leasing-firms/tokyo-century",
       "https://finwiki.zksc.io/manufacturer-finance/INDEX",
       "https://finwiki.zksc.io/manufacturer-finance/export-finance-mechanism",
       "https://finwiki.zksc.io/manufacturer-finance/hitachi-industrial-finance-platform",
@@ -103,9 +103,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6971,
-    "word_like_tokens": 1012,
+    "nonspace_chars": 7019,
+    "word_like_tokens": 1020,
     "inbound_wikilinks_count": 7,
-    "last_modified": "2026-06-03"
+    "last_modified": "2026-06-04"
   }
 }

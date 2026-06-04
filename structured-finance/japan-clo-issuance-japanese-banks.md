@@ -28,11 +28,11 @@ sources:
 
 ## TL;DR
 
-Japanese banks — led by [[JapanFG/norinchukin|Norinchukin]], with [[JapanFG/japan-post-bank|Japan Post Bank]] and a tier of regional banks behind it — became the world's single largest holder of US broadly-syndicated-loan (BSL) CLOs over the 2010s, drawn by the rate pickup over yen JGBs and the perceived AAA / AA security of the senior tranches. The exposure passed through three regulatory inflection points: the **Dodd-Frank Section 941 risk-retention rule** (which after a 2018 court decision effectively exempted open-market CLO managers from retention requirements, freeing up the market), the **2018 risk-retention crisis** during which Norinchukin and JPost paused purchases over methodology and FSA-supervision uncertainty, and the **2024 Norinchukin loss disclosure** where mark-to-market losses on the foreign-bond and CLO portfolio prompted a stated reduction of foreign-credit risk-asset holdings. Regional banks built smaller but non-trivial CLO portfolios over the same period; FSA disclosures and BOJ Financial System Reports now treat regional-bank CLO exposure as a watched-list item.
+Japanese banks — led by [[cooperative-banks/norinchukin|Norinchukin]], with [[regional-banks/japan-post-bank|Japan Post Bank]] and a tier of regional banks behind it — became the world's single largest holder of US broadly-syndicated-loan (BSL) CLOs over the 2010s, drawn by the rate pickup over yen JGBs and the perceived AAA / AA security of the senior tranches. The exposure passed through three regulatory inflection points: the **Dodd-Frank Section 941 risk-retention rule** (which after a 2018 court decision effectively exempted open-market CLO managers from retention requirements, freeing up the market), the **2018 risk-retention crisis** during which Norinchukin and JPost paused purchases over methodology and FSA-supervision uncertainty, and the **2024 Norinchukin loss disclosure** where mark-to-market losses on the foreign-bond and CLO portfolio prompted a stated reduction of foreign-credit risk-asset holdings. Regional banks built smaller but non-trivial CLO portfolios over the same period; FSA disclosures and BOJ Financial System Reports now treat regional-bank CLO exposure as a watched-list item.
 
 ## Wiki route
 
-This entry sits under [[structured-finance/INDEX|structured-finance index]] as the **Japan-as-CLO-investor** node — the structured-finance angle viewed from the buy-side. Read against [[structured-finance/japan-abs-market-overview|Japan ABS market overview]] for the domestic-issuance side, [[structured-finance/credit-rating-methodology-jcr-r-and-i|JCR / R&I methodology]] vs global-agency criteria, and [[derivatives/japan-cds-market-overview|Japan CDS market]] for hedging context. System frame: [[finance/INDEX|finance index]] and [[finance/japan-leveraged-buyout-economics|Japan LBO economics]] for the upstream loan-origination side. Institution anchors: [[JapanFG/norinchukin|Norinchukin]], [[JapanFG/japan-post-bank|Japan Post Bank]], and [[JapanFG/mufg|MUFG]] / [[JapanFG/smfg|SMFG]] / [[JapanFG/mizuho-fg|Mizuho FG]] (the megabanks are also CLO holders but at smaller relative scale).
+This entry sits under [[structured-finance/INDEX|structured-finance index]] as the **Japan-as-CLO-investor** node — the structured-finance angle viewed from the buy-side. Read against [[structured-finance/japan-abs-market-overview|Japan ABS market overview]] for the domestic-issuance side, [[structured-finance/credit-rating-methodology-jcr-r-and-i|JCR / R&I methodology]] vs global-agency criteria, and [[derivatives/japan-cds-market-overview|Japan CDS market]] for hedging context. System frame: [[finance/INDEX|finance index]] and [[finance/japan-leveraged-buyout-economics|Japan LBO economics]] for the upstream loan-origination side. Institution anchors: [[cooperative-banks/norinchukin|Norinchukin]], [[regional-banks/japan-post-bank|Japan Post Bank]], and [[megabanks/mufg|MUFG]] / [[megabanks/smfg|SMFG]] / [[megabanks/mizuho-fg|Mizuho FG]] (the megabanks are also CLO holders but at smaller relative scale).
 
 ## 1. What CLOs are — short refresher
 
@@ -46,12 +46,12 @@ Senior AAA CLO yields offer **a pickup over comparable corporate AAA / AA bonds*
 ## 2. The Japanese buyer base — three concentric tiers
 
 ### Tier 1: Norinchukin
-- [[JapanFG/norinchukin|Norinchukin]] — agricultural-cooperative central bank — became the world's largest single holder of US BSL CLOs by the late 2010s
+- [[cooperative-banks/norinchukin|Norinchukin]] — agricultural-cooperative central bank — became the world's largest single holder of US BSL CLOs by the late 2010s
 - At peak, foreign-bond holdings (including CLOs, agency MBS, sovereign bonds, corporate bonds) reached tens of trillions of yen on a consolidated basis
 - The strategy was driven by the structurally low yield on yen JGBs and the institution's mandate to generate returns to distribute back to the agricultural-cooperative member base
 
 ### Tier 2: Japan Post Bank
-- [[JapanFG/japan-post-bank|Japan Post Bank]] — the deposit-taking arm of Japan Post Holdings — also built a substantial foreign-bond and structured-credit portfolio post-privatisation
+- [[regional-banks/japan-post-bank|Japan Post Bank]] — the deposit-taking arm of Japan Post Holdings — also built a substantial foreign-bond and structured-credit portfolio post-privatisation
 - CLO exposure is a meaningful but smaller share of total foreign-credit allocation
 - JPost diversification mandate (away from JGB-dominated allocation) drove the build-up
 
@@ -89,7 +89,7 @@ The pause was modest and Norinchukin returned to the market in 2019, but it fore
 
 ## 5. The 2024 Norinchukin foreign-bond loss disclosure
 
-In mid-2024, [[JapanFG/norinchukin|Norinchukin]] publicly disclosed mark-to-market losses on its foreign-bond and CLO portfolio, driven by:
+In mid-2024, [[cooperative-banks/norinchukin|Norinchukin]] publicly disclosed mark-to-market losses on its foreign-bond and CLO portfolio, driven by:
 - US rate increases (2022–2023) reducing the market value of fixed-rate foreign bonds
 - Widening credit spreads in 2H2023 / 2024 affecting CLO mark-to-market
 - Yen depreciation increasing the yen-converted size of foreign-currency losses on an unhedged basis
@@ -132,8 +132,8 @@ The overseas allocation drove the yield-pickup strategy but exposed the holders 
 - Whether the FSA will impose explicit CLO concentration limits on regional banks
 - Whether Japanese investor demand will rotate from BSL CLOs to middle-market or direct-lending-fund structures
 - The implications for US CLO new-issue supply if Japanese buyers durably step back
-- Whether [[JapanFG/japan-post-bank|Japan Post Bank]] follows or diverges from Norinchukin's trajectory
-- The role of [[JapanFG/mufg|MUFG]] / [[JapanFG/smfg|SMFG]] / [[JapanFG/mizuho-fg|Mizuho FG]] securities subsidiaries as CLO underwriters and as competitors to direct CLO purchase
+- Whether [[regional-banks/japan-post-bank|Japan Post Bank]] follows or diverges from Norinchukin's trajectory
+- The role of [[megabanks/mufg|MUFG]] / [[megabanks/smfg|SMFG]] / [[megabanks/mizuho-fg|Mizuho FG]] securities subsidiaries as CLO underwriters and as competitors to direct CLO purchase
 
 ## Related
 
@@ -143,9 +143,9 @@ The overseas allocation drove the yield-pickup strategy but exposed the holders 
 - [[structured-finance/spv-tk-gk-vehicle-japan-tax|TK / GK SPV vehicle]]
 - [[derivatives/japan-cds-market-overview|Japan CDS market overview]]
 - [[finance/INDEX|finance index]] · [[finance/japan-leveraged-buyout-economics|Japan LBO economics]]
-- [[JapanFG/norinchukin|Norinchukin]] · [[JapanFG/japan-post-bank|Japan Post Bank]]
-- [[JapanFG/mufg|MUFG]] · [[JapanFG/smfg|SMFG]] · [[JapanFG/mizuho-fg|Mizuho FG]]
-- [[JapanFG/japan-exchange-group|JPX]]
+- [[cooperative-banks/norinchukin|Norinchukin]] · [[regional-banks/japan-post-bank|Japan Post Bank]]
+- [[megabanks/mufg|MUFG]] · [[megabanks/smfg|SMFG]] · [[megabanks/mizuho-fg|Mizuho FG]]
+- [[financial-regulators/japan-exchange-group|JPX]]
 
 ## Sources
 

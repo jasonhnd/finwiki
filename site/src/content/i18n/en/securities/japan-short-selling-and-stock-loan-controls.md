@@ -13,7 +13,7 @@ translated_at: 2026-06-01T04:15:40.123Z
 
 Japan short selling sits on three connected control surfaces: legal short-selling rules, stock-borrow / securities-finance availability, and exchange / broker issue-level restrictions. Do not treat short interest, JSF loan balance, margin selling, and securities lending as one number.
 
-Use this page with [[securities/INDEX|securities domain]], [[securities/japan-margin-trading-and-securities-finance|margin trading and securities finance]], [[securities/japan-stock-lending-market-route|stock lending market route]], [[JapanFG/japan-securities-finance|Japan Securities Finance]], [[securities/japan-best-execution-sor-pts|best execution / SOR / PTS]], [[securities/japan-pts-liquidity-data-guide|PTS liquidity data guide]], and [[securities/tokyo-stock-exchange|Tokyo Stock Exchange]].
+Use this page with [[securities/INDEX|securities domain]], [[securities/japan-margin-trading-and-securities-finance|margin trading and securities finance]], [[securities/japan-stock-lending-market-route|stock lending market route]], [[financial-regulators/japan-securities-finance|Japan Securities Finance]], [[securities/japan-best-execution-sor-pts|best execution / SOR / PTS]], [[securities/japan-pts-liquidity-data-guide|PTS liquidity data guide]], and [[securities/tokyo-stock-exchange|Tokyo Stock Exchange]].
 
 ## Control Layers
 
@@ -23,7 +23,7 @@ Use this page with [[securities/INDEX|securities domain]], [[securities/japan-ma
 | Price restriction | Triggered short-selling price restriction when issue-level conditions are met. | JPX short-selling restrictions. |
 | Naked short-selling prohibition | Sale without ownership or arrangement to borrow is restricted. | FSA short-selling measures. |
 | Short-position reporting | Large short positions above threshold require reporting / disclosure route. | FSA short-selling measures and exchange disclosure. |
-| Stock-borrow availability | Borrowed shares come from margin / loan trading, securities lending, or negotiated borrow. | [[JapanFG/japan-securities-finance|JSF]], brokers, institutional lenders. |
+| Stock-borrow availability | Borrowed shares come from margin / loan trading, securities lending, or negotiated borrow. | [[financial-regulators/japan-securities-finance|JSF]], brokers, institutional lenders. |
 | Issue-level margin restrictions | TSE / JSF can restrict margin trading or loans for margin trading. | JPX margin-trading restrictions, JSF notices. |
 
 ## Data Map
@@ -43,9 +43,9 @@ Stock lending is a funding and settlement mechanism. Short selling is a trading 
 
 ## JapanFG Relevance
 
-- [[JapanFG/japan-securities-finance|Japan Securities Finance]] is the central institution for standardized margin / loan trading support.
-- [[JapanFG/sbi-securities|SBI Securities]], [[JapanFG/rakuten-securities|Rakuten Securities]], [[JapanFG/matsui-sec|Matsui Securities]], [[JapanFG/gmo-click-securities|GMO Click Securities]], and [[JapanFG/dmm-com-securities|DMM.com Securities]] matter for retail margin and active-trader flows.
-- [[JapanFG/nomura-hd|Nomura]], [[JapanFG/daiwa-sg|Daiwa Securities Group]], [[JapanFG/smbc-nikko|SMBC Nikko]], [[JapanFG/mizuho-securities|Mizuho Securities]], and [[JapanFG/mufg-mums|MUMSS]] matter for institutional stock lending, prime brokerage adjacency, and underwriting / hedge flows.
+- [[financial-regulators/japan-securities-finance|Japan Securities Finance]] is the central institution for standardized margin / loan trading support.
+- [[securities-firms/sbi-securities|SBI Securities]], [[securities-firms/rakuten-securities|Rakuten Securities]], [[securities-firms/matsui-sec|Matsui Securities]], [[securities-firms/gmo-click-securities|GMO Click Securities]], and [[securities-firms/dmm-com-securities|DMM.com Securities]] matter for retail margin and active-trader flows.
+- [[securities-firms/nomura-hd|Nomura]], [[securities-firms/daiwa-sg|Daiwa Securities Group]], [[securities-firms/smbc-nikko|SMBC Nikko]], [[securities-firms/mizuho-securities|Mizuho Securities]], and [[securities-firms/mufg-mums|MUMSS]] matter for institutional stock lending, prime brokerage adjacency, and underwriting / hedge flows.
 - [[securities/japan-best-execution-sor-pts|Best execution / SOR / PTS]] matters when short-selling controls interact with venue selection.
 
 ## Research Checklist
@@ -61,7 +61,7 @@ Stock lending is a funding and settlement mechanism. Short selling is a trading 
 - [[securities/INDEX]]
 - [[securities/japan-margin-trading-and-securities-finance]]
 - [[securities/japan-stock-lending-market-route]]
-- [[JapanFG/japan-securities-finance]]
+- [[financial-regulators/japan-securities-finance]]
 - [[securities/tokyo-stock-exchange]]
 - [[securities/japan-best-execution-sor-pts]]
 - [[securities/japan-pts-liquidity-data-guide]]

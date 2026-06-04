@@ -1,0 +1,96 @@
+{
+  "schema_version": "1.0",
+  "slug": "financial-licenses/foreign-bank-agency-business-route",
+  "source_path": "financial-licenses/foreign-bank-agency-business-route.md",
+  "url": "https://finwiki.zksc.io/financial-licenses/foreign-bank-agency-business-route",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/financial-licenses/foreign-bank-agency-business-route.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/financial-licenses/foreign-bank-agency-business-route.md",
+  "domain": "financial-licenses",
+  "title": "Japan foreign bank agency business route",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Japan foreign bank agency business route",
+    "aliases": [
+      "foreign-bank-agency-business-route",
+      "Japan foreign bank agency route",
+      "外国銀行代理業務 route"
+    ],
+    "domain": "financial-licenses",
+    "created": "2026-05-22",
+    "last_updated": "2026-05-22",
+    "last_tended": "2026-05-22",
+    "review_by": "2026-11-22",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "legal",
+      "banking",
+      "foreign-bank",
+      "agency-business",
+      "cross-border"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/menkyo/menkyo.html",
+      "https://www.fsa.go.jp/en/regulated/licensed/foreign.pdf",
+      "https://www.fsa.go.jp/news/25/ginkou/20140626-5.html",
+      "https://www.fsa.go.jp/menkyo/menkyoj/dairi_f.pdf",
+      "https://www.fsa.go.jp/common/law/guide/city/06.html"
+    ]
+  },
+  "summary": "Foreign bank agency business is different from a foreign bank branch license. It is the route where a bank or Japan branch acts as agent or intermediary for a principal foreign bank. This matters for cross-border corporate banking, global cash management, offshore branch service, and foreign group c",
+  "headings": [
+    "Japan foreign bank agency business route",
+    "Overview",
+    "Route Comparison",
+    "Use Cases",
+    "Control Questions",
+    "JapanFG Relevance",
+    "Research Checklist",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 14,
+    "wikilinks": [
+      "INDEX",
+      "banking/foreign-bank-japan-retreat",
+      "financial-licenses/INDEX",
+      "financial-licenses/foreign-bank-branch-license-route",
+      "financial-licenses/foreign-financial-group-adjacent-licenses",
+      "foreign-financial-institutions/deutsche-japan",
+      "foreign-financial-institutions/foreign-bank-branches-japan-index",
+      "foreign-financial-institutions/hsbc-japan",
+      "foreign-financial-institutions/ing-bank-japan",
+      "foreign-financial-institutions/standard-chartered-japan",
+      "megabanks/mizuho-bank",
+      "megabanks/mufg-bank",
+      "megabanks/sumitomo-mitsui-banking-corp",
+      "payments/japan-bank-api-payment-agency-route"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/banking/foreign-bank-japan-retreat",
+      "https://finwiki.zksc.io/financial-licenses/INDEX",
+      "https://finwiki.zksc.io/financial-licenses/foreign-bank-branch-license-route",
+      "https://finwiki.zksc.io/financial-licenses/foreign-financial-group-adjacent-licenses",
+      "https://finwiki.zksc.io/foreign-financial-institutions/deutsche-japan",
+      "https://finwiki.zksc.io/foreign-financial-institutions/foreign-bank-branches-japan-index",
+      "https://finwiki.zksc.io/foreign-financial-institutions/hsbc-japan",
+      "https://finwiki.zksc.io/foreign-financial-institutions/ing-bank-japan",
+      "https://finwiki.zksc.io/foreign-financial-institutions/standard-chartered-japan",
+      "https://finwiki.zksc.io/megabanks/mizuho-bank",
+      "https://finwiki.zksc.io/megabanks/mufg-bank",
+      "https://finwiki.zksc.io/megabanks/sumitomo-mitsui-banking-corp",
+      "https://finwiki.zksc.io/payments/japan-bank-api-payment-agency-route"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 4923,
+    "word_like_tokens": 760,
+    "inbound_wikilinks_count": 8,
+    "last_modified": "2026-06-04"
+  }
+}

@@ -16,7 +16,7 @@ translated_at: 2026-06-02T11:47:37.263Z
 
 ## 要約
 
-日本の BaaS は、単一の「銀行 API 商品」ではない。少なくとも 4 類型に分かれる: API 提供、パートナー支店、銀行代理 / white-label 的な口座獲得、そして決済・口座振替・即時入金に特化した narrow BaaS。[[banking/minna-bank-baas-model|みんなの銀行]] は B2C アプリへの埋め込み型 BaaS、[[JapanFG/gmo-aozora-net|GMO あおぞらネット銀行]] は法人 / API / 組込金融寄り、[[JapanFG/ssnb|住信SBIネット銀行]] は NEOBANK 型で比較される。
+日本の BaaS は、単一の「銀行 API 商品」ではない。少なくとも 4 類型に分かれる: API 提供、パートナー支店、銀行代理 / white-label 的な口座獲得、そして決済・口座振替・即時入金に特化した narrow BaaS。[[banking/minna-bank-baas-model|みんなの銀行]] は B2C アプリへの埋め込み型 BaaS、[[payment-firms/gmo-aozora-net|GMO あおぞらネット銀行]] は法人 / API / 組込金融寄り、[[regional-banks/ssnb|住信SBIネット銀行]] は NEOBANK 型で比較される。
 
 ## 全体像のマップ
 
@@ -24,8 +24,8 @@ translated_at: 2026-06-02T11:47:37.263Z
 |---|---|---|---|
 | API 提供型バンキング | 口座情報、口座振替、決済指図 | 外部アプリの UX 改善 | みんなの銀行 API提供モデル, [[banking/quick-deposit-four-methods|OAuth quick deposit]] |
 | パートナー支店 | ブランド付き支店 / 口座体験 | パートナーブランド + 銀行リレーション | [[banking/mercari-bank|Mercari Bank]], pixiv 支店, DMM 支店 |
-| NEOBANK / white-label 銀行 | パートナーの訴求のもとで開設される銀行口座 | より完全な組込バンキング | [[JapanFG/ssnb|SSNB]] / NEOBANK 型モデル |
-| 法人 API 銀行 | 法人口座、決済、振替、会計連携 | 中小企業 / SaaS / プラットフォーム運営 | [[JapanFG/gmo-aozora-net|GMO Aozora Net Bank]] 隣接領域 |
+| NEOBANK / white-label 銀行 | パートナーの訴求のもとで開設される銀行口座 | より完全な組込バンキング | [[regional-banks/ssnb|SSNB]] / NEOBANK 型モデル |
+| 法人 API 銀行 | 法人口座、決済、振替、会計連携 | 中小企業 / SaaS / プラットフォーム運営 | [[payment-firms/gmo-aozora-net|GMO Aozora Net Bank]] 隣接領域 |
 
 ## 戦略的な読み解き
 
@@ -55,8 +55,8 @@ BaaS は銀行にとっては顧客獲得戦略であり、プラットフォー
 - [[banking/mercari-bank]]
 - [[banking/mercari-bank-license-stack]]
 - [[banking/quick-deposit-four-methods]]
-- [[JapanFG/gmo-aozora-net]]
-- [[JapanFG/ssnb]]
+- [[payment-firms/gmo-aozora-net]]
+- [[regional-banks/ssnb]]
 - [[fintech/japan-financial-regulation]]
 
 ## 出典

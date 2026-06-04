@@ -72,7 +72,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 
 ## 7. Strategic developments
 
-- **Core of the [[JapanFG/nomura-hd|野村グループ]] digital asset strategy**: Unlike [[exchanges/jp-exchange-crypto-garage|Crypto Garage]] (Nomura × MUFG × SBI JV line), Laser Digital is a global digital-asset specialist subsidiary directly established and held by Nomura HD in 100%. As a whole group, it promotes the construction of an institutional ecosystem for trading, AM, and custody.
+- **Core of the [[securities-firms/nomura-hd|野村グループ]] digital asset strategy**: Unlike [[exchanges/jp-exchange-crypto-garage|Crypto Garage]] (Nomura × MUFG × SBI JV line), Laser Digital is a global digital-asset specialist subsidiary directly established and held by Nomura HD in 100%. As a whole group, it promotes the construction of an institutional ecosystem for trading, AM, and custody.
 - **Division of roles with [[exchanges/jp-custody-komainu|Komainu]]**: Komainu (established 2018 年, a JV of Nomura × CoinShares × Ledger) handles custody and infrastructure. Laser Digital handles trading and asset management. Laser Digital's Steve Ashley and Jez Mohideen (CEO) sit on the Komainu Board, indicating a close cooperative structure between the two companies.
 - **BDYF (natively tokenized BTC yield fund)**: The flagship product of 2025-2026 年. Positioned as the first natively tokenized BTC yield fund domiciled in Cayman.
 - **US national trust bank application (2026-01)**: Through the de novo application to the OCC, lays the groundwork for custody and spot trading in the US.

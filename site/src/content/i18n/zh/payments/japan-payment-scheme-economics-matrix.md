@@ -15,7 +15,7 @@ translated_at: 2026-06-01T03:31:12.250Z
 
 ## 维基路线
 
-它位于 [[payments/INDEX|payments index]] 下作为跨方案参考页面。请与 [[payments/cashless-jp-landscape|Japan cashless landscape]] 一起阅读，了解市场份额视图，[[payments/japan-card-issuer-acquirer-processor-split|card role split]] 和 [[payments/japan-interchange-and-merchant-fee-stack|interchange and merchant fee stack]] 了解卡类详细信息，[[payments/japan-code-payment-competitive-map|code-payment competitive map]] 了解钱包类详细信息，[[payments/account-to-account-payment-japan|A2A payment route]] 了解银行直接详细信息，以及 [[payments/funds-transfer-vs-prepaid-boundary|funds-transfer vs prepaid boundary]] 了解钱包/预付线路。所有四个类别的许可证路由位于 [[JapanFG/legal-financial-licenses/payment-license-stack|Japan payment license stack]] 中。
+它位于 [[payments/INDEX|payments index]] 下作为跨方案参考页面。请与 [[payments/cashless-jp-landscape|Japan cashless landscape]] 一起阅读，了解市场份额视图，[[payments/japan-card-issuer-acquirer-processor-split|card role split]] 和 [[payments/japan-interchange-and-merchant-fee-stack|interchange and merchant fee stack]] 了解卡类详细信息，[[payments/japan-code-payment-competitive-map|code-payment competitive map]] 了解钱包类详细信息，[[payments/account-to-account-payment-japan|A2A payment route]] 了解银行直接详细信息，以及 [[payments/funds-transfer-vs-prepaid-boundary|funds-transfer vs prepaid boundary]] 了解钱包/预付线路。所有四个类别的许可证路由位于 [[financial-licenses/payment-license-stack|Japan payment license stack]] 中。
 
 ## 四类方案图
 
@@ -23,10 +23,10 @@ translated_at: 2026-06-01T03:31:12.250Z
 
 |班级 |示例 |平衡层|主要许可途径 |
 |---|---|---|---|
-|卡支付 |维萨卡、万事达卡、[[JapanFG/jcb\|JCB]]、美国运通卡、大来卡 |发行人信用额度（后付款）|分期付款销售法（信贩/包括信用购入あっせん）+品牌规则|
-|扫码支付 | [[JapanFG/paypay\|PayPay]]、d払い、[[JapanFG/au-payment\|au PAY]]、楽天ペイ、メルペイ、FamiPay |资金转账余额/预付子余额/卡链接/银行借记卡（混合）|资金转账服务+预付支付工具（支付服务法）|
+|卡支付 |维萨卡、万事达卡、[[card-issuers/jcb\|JCB]]、美国运通卡、大来卡 |发行人信用额度（后付款）|分期付款销售法（信贩/包括信用购入あっせん）+品牌规则|
+|扫码支付 | [[payment-firms/paypay\|PayPay]]、d払い、[[payment-firms/au-payment\|au PAY]]、楽天ペイ、メルペイ、FamiPay |资金转账余额/预付子余额/卡链接/银行借记卡（混合）|资金转账服务+预付支付工具（支付服务法）|
 |账户到账户 (A2A) | Bank Pay、J-Debit、Cotra 关联应用程序 |银行存款账户（直接借记）|银行法+JEPPO基础设施+电子支付代理（电子决済等代行业）在哪里第三方|
-|预付电子货币|西瓜卡、PASMO、[[JapanFG/aeon-card\|WAON]]、nanaco、[[JapanFG/rakuten-edy\|Edy]] |预付费储值（闭环或准开放）|预付支付工具（支付服务法）|
+|预付电子货币|西瓜卡、PASMO、[[card-issuers/aeon-card\|WAON]]、nanaco、[[payment-firms/rakuten-edy\|Edy]] |预付费储值（闭环或准开放）|预付支付工具（支付服务法）|
 
 每个类别都有一个**计划运营商**（拥有网络规则和结算场所的实体）和**日本法律下的许可证**，该许可证决定适用哪些消费者保护规则、资金保障和退款机制。
 
@@ -34,7 +34,7 @@ translated_at: 2026-06-01T03:31:12.250Z
 
 |班级 |方案运算符模式|金钱实际结算的地方 |
 |---|---|---|
-|卡|国际品牌（Visa / Mastercard / Amex / Diners）或国内品牌（[[JapanFG/jcb\|JCB]]）； 4方方案将发行方/收单方分开； 3 方计划（Amex / Diners / 一些 JCB 卡）将它们合二为一|发行方↔收单方通过品牌规则清算进行结算；净头寸最终通过银行系统转移（通常通过 [[payments/japan-payment-clearing-and-settlement-infrastructure\|Zengin / BOJ-NET]] 进行日元交易） |
+|卡|国际品牌（Visa / Mastercard / Amex / Diners）或国内品牌（[[card-issuers/jcb\|JCB]]）； 4方方案将发行方/收单方分开； 3 方计划（Amex / Diners / 一些 JCB 卡）将它们合二为一|发行方↔收单方通过品牌规则清算进行结算；净头寸最终通过银行系统转移（通常通过 [[payments/japan-payment-clearing-and-settlement-infrastructure\|Zengin / BOJ-NET]] 进行日元交易） |
 |代码|钱包运营商（PayPay Corp、NTT docomo、KDDI、Rakuten Pay、Mercari 等）；钱包运营商通常拥有商家合约或将聚合委托给 QR 网关 PSP，例如 Netstars |首先是内部钱包账本；通过 Zengin 转账定期净额结算至商家银行账户 |
 | A2A | JEPPO 用于银行支付/J-Debit； Zengin-Net + Cotra 系统用于即时 P2P 和商户转账 |直接存款账户借记；最终结算每天两次通过 Zengin / Cotra 批处理窗口进行清算 |
 |预付电子货币 |发卡机构（Suica 为 JR East、PASMO 为 PASMO Co.、WAON 为 AEON、nanaco 为七卡服务、Edy 为乐天 Edy）|发行人的储值分类账；商户支付流经发行人 ↔ 商户通过 Zengin 签订合同结算时间表 |
@@ -218,12 +218,12 @@ Suica / PASMO 10 IC 互用方案是预付费类别中互操作性最强的方案
 - [[payments/prepaid-payment-instrument-issuers-japan-index]]
 - [[payments/japan-payment-clearing-and-settlement-infrastructure]]
 - [[payments/psp-merchant-settlement-risk]]
-- [[JapanFG/legal-financial-licenses/payment-license-stack]]
+- [[financial-licenses/payment-license-stack]]
 - [[loyalty/japan-points-landscape]]
 - [[fintech/japan-epi-three-types-overview]]
-- [[JapanFG/jcb]]
-- [[JapanFG/paypay]]
-- [[JapanFG/au-payment]]
+- [[card-issuers/jcb]]
+- [[payment-firms/paypay]]
+- [[payment-firms/au-payment]]
 - [[INDEX|FinWiki index]]
 
 ## 来源

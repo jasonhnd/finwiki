@@ -14,7 +14,7 @@ translated_at: 2026-06-01T03:31:12.226Z
 
 Japan payment infrastructure includes central-bank settlement assets, BOJ-NET, interbank transfer clearing, small-value transfer infrastructure, account-direct payment, debit payment, card settlement, wallet settlement, and private-sector clearing arrangements. This page separates customer-facing payment products from the systems and rules used for clearing and settlement.
 
-This page belongs to [[payments/INDEX|payments domain]] and links to [[payments/account-to-account-payment-japan|account-to-account payment route]], [[payments/merchant-bank-pay-account-direct-acquiring|merchant bank-account direct acquiring]], [[payments/funds-transfer-vs-prepaid-boundary|funds transfer vs prepaid boundary]], [[payments/japan-bank-api-payment-agency-route|bank API route]], [[payments/japan-bank-api-incident-and-fraud-control|bank API incident and fraud-control map]], [[payments/japan-code-payment-competitive-map|Japan code-payment competitive map]], [[payments/card-acquiring-japan-stack|Japan card acquiring stack]], [[banking/quick-deposit-four-methods|quick deposit four methods]], and [[JapanFG/legal-financial-licenses/INDEX|JapanFG legal / financial licenses]].
+This page belongs to [[payments/INDEX|payments domain]] and links to [[payments/account-to-account-payment-japan|account-to-account payment route]], [[payments/merchant-bank-pay-account-direct-acquiring|merchant bank-account direct acquiring]], [[payments/funds-transfer-vs-prepaid-boundary|funds transfer vs prepaid boundary]], [[payments/japan-bank-api-payment-agency-route|bank API route]], [[payments/japan-bank-api-incident-and-fraud-control|bank API incident and fraud-control map]], [[payments/japan-code-payment-competitive-map|Japan code-payment competitive map]], [[payments/card-acquiring-japan-stack|Japan card acquiring stack]], [[banking/quick-deposit-four-methods|quick deposit four methods]], and [[financial-licenses/INDEX|JapanFG legal / financial licenses]].
 
 ## Infrastructure Map
 
@@ -91,9 +91,9 @@ JEPPO promotes account-linked payment infrastructure. Its public service pages i
 
 ## JapanFG Operator Links
 
-- Bank network context: [[JapanFG/mufg-bank]], [[JapanFG/sumitomo-mitsui-banking-corp]], [[JapanFG/mizuho-bank]], [[JapanFG/resona-bank]], and regional-bank pages.
-- Wallet / funds transfer: [[JapanFG/paypay]], [[JapanFG/merpay]], [[JapanFG/au-payment]], [[JapanFG/rakuten-edy]].
-- Merchant PSP / acquiring: [[JapanFG/gmo-payment-gateway]], [[JapanFG/sb-payment-service]], [[JapanFG/netstars]].
+- Bank network context: [[megabanks/mufg-bank]], [[megabanks/sumitomo-mitsui-banking-corp]], [[megabanks/mizuho-bank]], [[megabanks/resona-bank]], and regional-bank pages.
+- Wallet / funds transfer: [[payment-firms/paypay]], [[payment-firms/merpay]], [[payment-firms/au-payment]], [[payment-firms/rakuten-edy]].
+- Merchant PSP / acquiring: [[payment-firms/gmo-payment-gateway]], [[payment-firms/sb-payment-service]], [[payment-firms/netstars]].
 
 ## Related
 
@@ -106,7 +106,7 @@ JEPPO promotes account-linked payment infrastructure. Its public service pages i
 - [[payments/japan-code-payment-competitive-map]]
 - [[payments/card-acquiring-japan-stack]]
 - [[banking/quick-deposit-four-methods]]
-- [[JapanFG/legal-financial-licenses/payment-license-stack]]
+- [[financial-licenses/payment-license-stack]]
 - [[money-market/INDEX]]
 - [[INDEX|FinWiki index]]
 

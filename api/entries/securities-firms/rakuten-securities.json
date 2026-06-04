@@ -1,0 +1,85 @@
+{
+  "schema_version": "1.0",
+  "slug": "securities-firms/rakuten-securities",
+  "source_path": "securities-firms/rakuten-securities.md",
+  "url": "https://finwiki.zksc.io/securities-firms/rakuten-securities",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/securities-firms/rakuten-securities.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/securities-firms/rakuten-securities.md",
+  "domain": "securities-firms",
+  "title": "Rakuten Securities",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Rakuten Securities",
+    "aliases": [
+      "rakuten-securities",
+      "Rakuten Securities",
+      "楽天証券"
+    ],
+    "domain": "securities-firms",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-20",
+    "last_tended": "2026-05-20",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "securities",
+      "online-brokerage",
+      "NISA",
+      "Rakuten"
+    ],
+    "status": "active",
+    "sources": [
+      "https://global.rakuten.com/corp/news/press/2024/0416_01.html",
+      "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.pdf",
+      "https://www.fsa.go.jp/policy/nisa2/about/nisa2024/"
+    ]
+  },
+  "summary": "Rakuten Securities is the online brokerage arm associated with Rakuten's financial ecosystem. FSA's financial instruments business operator list identifies 楽天証券株式会社 as Kanto Local Finance Bureau (FIBO) No. 195. Rakuten's own April 2024 release said Rakuten Securities surpassed 11 million general sec",
+  "headings": [
+    "Rakuten Securities",
+    "TL;DR",
+    "Positioning",
+    "Strategic Meaning",
+    "JapanFG Relevance",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 11,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/INDEX",
+      "financial-licenses/INDEX",
+      "financial-regulators/jsda",
+      "loyalty/japan-points-landscape",
+      "payment-firms/rakuten-fg",
+      "securities-firms/daiwa-sg",
+      "securities-firms/monex-group",
+      "securities-firms/nomura-hd",
+      "securities/INDEX",
+      "securities/nisa-2024-flow"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/financial-licenses/INDEX",
+      "https://finwiki.zksc.io/financial-regulators/jsda",
+      "https://finwiki.zksc.io/loyalty/japan-points-landscape",
+      "https://finwiki.zksc.io/payment-firms/rakuten-fg",
+      "https://finwiki.zksc.io/securities-firms/daiwa-sg",
+      "https://finwiki.zksc.io/securities-firms/monex-group",
+      "https://finwiki.zksc.io/securities-firms/nomura-hd",
+      "https://finwiki.zksc.io/securities/INDEX",
+      "https://finwiki.zksc.io/securities/nisa-2024-flow"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2672,
+    "word_like_tokens": 390,
+    "inbound_wikilinks_count": 33,
+    "last_modified": "2026-06-04"
+  }
+}

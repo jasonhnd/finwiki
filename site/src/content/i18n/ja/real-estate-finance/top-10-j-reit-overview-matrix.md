@@ -90,9 +90,9 @@ DPU 利回りは日付によって異なります。 相対的な順序は、正
 
 | 管財人（代表的な役割） | J-REIT の例 (開示されている場合) |
 |---|---|
-| [[JapanFG/mitsubishi-ufj-trust-bank\|Mitsubishi UFJ Trust Bank]] | 複数 — 多くの J-REIT 受託者の開示に登場 |
-| [[JapanFG/sumitomo-mitsui-trust\|Sumitomo Mitsui Trust Bank (SMTB)]] | 複数 |
-| [[JapanFG/mizuho-trust-bank\|Mizuho Trust Bank]] | 複数 |
+| [[trust-banks/mitsubishi-ufj-trust-bank\|Mitsubishi UFJ Trust Bank]] | 複数 — 多くの J-REIT 受託者の開示に登場 |
+| [[trust-banks/sumitomo-mitsui-trust\|Sumitomo Mitsui Trust Bank (SMTB)]] | 複数 |
+| [[trust-banks/mizuho-trust-bank\|Mizuho Trust Bank]] | 複数 |
 
 受託者の役割は、スポンサーのアイデンティティとは別の保管/資産管理機能です。 同じ信託銀行が、さまざまなスポンサー グループの受託者になることができます。 これは、[[banking/trust-bank-custody-operating-comparison|trust bank custody operating comparison]] で説明されているのと同じカストディ オペレーティング レイヤ パターンです。
 
@@ -133,8 +133,8 @@ DPU 利回りは日付によって異なります。 相対的な順序は、正
 - [[insurance/INDEX|insurance index]]
 - [[retail/aeon-group|AEON Group]]
 - [[retail/seven-and-i-hd|Seven & i HD]]
-- [[JapanFG/mitsubishi-ufj-trust-bank|Mitsubishi UFJ Trust Bank]]
-- [[JapanFG/sumitomo-mitsui-trust|SMTB]]
+- [[trust-banks/mitsubishi-ufj-trust-bank|Mitsubishi UFJ Trust Bank]]
+- [[trust-banks/sumitomo-mitsui-trust|SMTB]]
 - [[INDEX|FinWiki index]]
 
 ## 出典

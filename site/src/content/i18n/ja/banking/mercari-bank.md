@@ -60,7 +60,7 @@ translated_at: 2026-06-02T11:47:37.287Z
 - [[banking/quick-deposit-four-methods]]
 - [[banking/paypay-bank]]
 - [[banking/rakuten-bank]]
-- [[JapanFG/gmo-aozora-net]]
+- [[payment-firms/gmo-aozora-net]]
 
 ## 出典
 

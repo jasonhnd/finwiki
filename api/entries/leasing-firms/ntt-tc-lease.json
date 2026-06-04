@@ -1,0 +1,88 @@
+{
+  "schema_version": "1.0",
+  "slug": "leasing-firms/ntt-tc-lease",
+  "source_path": "leasing-firms/ntt-tc-lease.md",
+  "url": "https://finwiki.zksc.io/leasing-firms/ntt-tc-lease",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/leasing-firms/ntt-tc-lease.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/leasing-firms/ntt-tc-lease.md",
+  "domain": "leasing-firms",
+  "title": "NTT TC Leasing",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "NTT TC Leasing",
+    "aliases": [
+      "NTT・TC リース",
+      "ntt-tc-lease",
+      "NTT TC Leasing",
+      "NTT・TCリース株式会社"
+    ],
+    "domain": "leasing-firms",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-20",
+    "last_tended": "2026-05-20",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "leasing",
+      "ntt",
+      "tokyo-century",
+      "non-bank-finance",
+      "telecom-assets"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.ntt-tc-lease.com/eng/company/outline/",
+      "https://group.ntt/en/newsrelease/2020/02/06/200206a.html",
+      "https://www.tokyocentury.co.jp/en/company/info/domestic/"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against SMFL / Sumitomo Mitsui Finance and Leasing for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "NTT TC Leasing",
+    "Wiki route",
+    "TL;DR",
+    "Structure",
+    "Strategic Reading",
+    "Business Map",
+    "Competitive Context",
+    "Regulatory / Risk Notes",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 10,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/INDEX",
+      "banking/INDEX",
+      "financial-licenses/INDEX",
+      "leasing-firms/mitsubishi-hc-capital",
+      "leasing-firms/mizuho-lease",
+      "leasing-firms/orix-corp",
+      "leasing-firms/smfl",
+      "leasing-firms/tokyo-century",
+      "megabanks/ndfg"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/financial-licenses/INDEX",
+      "https://finwiki.zksc.io/leasing-firms/mitsubishi-hc-capital",
+      "https://finwiki.zksc.io/leasing-firms/mizuho-lease",
+      "https://finwiki.zksc.io/leasing-firms/orix-corp",
+      "https://finwiki.zksc.io/leasing-firms/smfl",
+      "https://finwiki.zksc.io/leasing-firms/tokyo-century",
+      "https://finwiki.zksc.io/megabanks/ndfg"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3843,
+    "word_like_tokens": 601,
+    "inbound_wikilinks_count": 6,
+    "last_modified": "2026-06-04"
+  }
+}

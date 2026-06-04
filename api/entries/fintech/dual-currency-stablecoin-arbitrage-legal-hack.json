@@ -53,7 +53,6 @@
     "wikilinks_count": 10,
     "wikilinks": [
       "INDEX",
-      "JapanFG/jpyc",
       "fintech/INDEX",
       "fintech/dual-currency-stablecoin-arbitrage-overview",
       "fintech/genius-act-501-denylist-mandate",
@@ -61,11 +60,11 @@
       "fintech/japan-stablecoin-regulatory-landscape",
       "fintech/mica-overview",
       "fintech/three-circles-stablecoin-mra-framework",
-      "fintech/usd-stablecoin-interchange"
+      "fintech/usd-stablecoin-interchange",
+      "payment-firms/jpyc"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/jpyc",
       "https://finwiki.zksc.io/fintech/INDEX",
       "https://finwiki.zksc.io/fintech/dual-currency-stablecoin-arbitrage-overview",
       "https://finwiki.zksc.io/fintech/genius-act-501-denylist-mandate",
@@ -73,15 +72,16 @@
       "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
       "https://finwiki.zksc.io/fintech/mica-overview",
       "https://finwiki.zksc.io/fintech/three-circles-stablecoin-mra-framework",
-      "https://finwiki.zksc.io/fintech/usd-stablecoin-interchange"
+      "https://finwiki.zksc.io/fintech/usd-stablecoin-interchange",
+      "https://finwiki.zksc.io/payment-firms/jpyc"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2662,
-    "word_like_tokens": 465,
+    "nonspace_chars": 2668,
+    "word_like_tokens": 466,
     "inbound_wikilinks_count": 3,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-04"
   }
 }

@@ -16,7 +16,7 @@ translated_at: 2026-06-02T12:19:04.209Z
 
 > 資金移動業者登録 関東財務局 第00099号 · JVCEA 会員 #1042（資金移動業）· 設立 2019年11月
 
-> Namespace note: JPYC は通常の暗号資産交換業者ではない。この詳細ページは、従来のステーブルコイン routing 上の理由により `exchanges/` に残されている。運営会社のアンカーは [[JapanFG/jpyc]]。
+> Namespace note: JPYC は通常の暗号資産交換業者ではない。この詳細ページは、従来のステーブルコイン routing 上の理由により `exchanges/` に残されている。運営会社のアンカーは [[payment-firms/jpyc]]。
 
 ## 1. 法人・株主
 
@@ -99,7 +99,7 @@ translated_at: 2026-06-02T12:19:04.209Z
 ## 関連項目
 
 - [[fintech/japan-stablecoin-regulatory-landscape]] — 日本 stablecoin 三層法制度（JPYC・USDC・信託型の位置付け）
-- [[JapanFG/jpyc]] — JapanFG operating-company anchor
+- [[payment-firms/jpyc]] — JapanFG operating-company anchor
 - [[fintech/jp-trust-type-sc-architecture]] — 三型 SC 比較（信託型・銀行型・資金移動業者型）
 - [[fintech/japan-financial-regulation]] — 日本金融規制全体
 - [[exchanges/jp-exchange-sbi-vc-trade]] — SBI VC Trade（電子決済手段等取引業も保有する交換業者の比較例）

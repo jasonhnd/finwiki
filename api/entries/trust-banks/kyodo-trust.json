@@ -1,0 +1,78 @@
+{
+  "schema_version": "1.0",
+  "slug": "trust-banks/kyodo-trust",
+  "source_path": "trust-banks/kyodo-trust.md",
+  "url": "https://finwiki.zksc.io/trust-banks/kyodo-trust",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/trust-banks/kyodo-trust.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/trust-banks/kyodo-trust.md",
+  "domain": "trust-banks",
+  "title": "Kyodo Trust / 共同信託",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Kyodo Trust / 共同信託",
+    "aliases": [
+      "共同信託",
+      "共同信託株式会社",
+      "Kyodo Trust"
+    ],
+    "domain": "trust-banks",
+    "created": "2026-05-22",
+    "last_updated": "2026-05-22",
+    "last_tended": "2026-05-22",
+    "review_by": "2026-11-22",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "trust-company",
+      "real-estate",
+      "escrow",
+      "public-source"
+    ],
+    "status": "active",
+    "sources": [
+      "FSA trust company list: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.xlsx",
+      "Ooguchi / Kyodo Trust trust page: https://www.ookuchi-step21.jp/trust/",
+      "Kyodo Trust company profile PDF: https://www.ookuchi-step21.jp/images/library/pamphlet02.pdf"
+    ]
+  },
+  "summary": "Wiki route: JapanFG/INDEX -> trust-banks/trust-companies-japan-index -> trust-banks/kyodo-trust",
+  "headings": [
+    "Kyodo Trust / 共同信託",
+    "Overview",
+    "Entity Boundary",
+    "Business Role Map",
+    "Public Context",
+    "Research Checklist",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 7,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/INDEX",
+      "payments/account-to-account-payment-japan",
+      "trust-banks/castglobal-trust",
+      "trust-banks/kiriu-real-estate-trust",
+      "trust-banks/kyodo-trust",
+      "trust-banks/trust-companies-japan-index"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/payments/account-to-account-payment-japan",
+      "https://finwiki.zksc.io/trust-banks/castglobal-trust",
+      "https://finwiki.zksc.io/trust-banks/kiriu-real-estate-trust",
+      "https://finwiki.zksc.io/trust-banks/kyodo-trust",
+      "https://finwiki.zksc.io/trust-banks/trust-companies-japan-index"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2201,
+    "word_like_tokens": 356,
+    "inbound_wikilinks_count": 5,
+    "last_modified": "2026-06-04"
+  }
+}

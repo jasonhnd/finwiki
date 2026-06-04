@@ -12,9 +12,9 @@ translated_at: 2026-05-31T11:13:44.924Z
 
 ＃＃ 概述
 
-日本家庭地震保险不是普通的私人非寿险产品。这是一项公私合作计划，涉及私人非寿险公司[[JapanFG/japan-earthquake-reinsurance|Japan Earthquake Reinsurance]]和日本政府。它通常附属于家庭火灾保险，专为住宅建筑和家庭用品而设计，具有法定的产品限制、赔付分类和政府支持的再保险结构。
+日本家庭地震保险不是普通的私人非寿险产品。这是一项公私合作计划，涉及私人非寿险公司[[non-life-insurers/japan-earthquake-reinsurance|Japan Earthquake Reinsurance]]和日本政府。它通常附属于家庭火灾保险，专为住宅建筑和家庭用品而设计，具有法定的产品限制、赔付分类和政府支持的再保险结构。
 
-将此页面与[[insurance/natcat-reinsurance-japan|nat-cat reinsurance Japan]]、[[insurance/japan-nonlife-big-three|Japan non-life big three]]、[[JapanFG/japan-earthquake-reinsurance|Japan Earthquake Reinsurance]]、[[JapanFG/toa-reinsurance|Toa Reinsurance]]、[[JapanFG/tokio-marine|Tokio Marine]]、[[JapanFG/msad|MS&AD]] 和 [[JapanFG/sompo|Sompo]] 一起使用。
+将此页面与[[insurance/natcat-reinsurance-japan|nat-cat reinsurance Japan]]、[[insurance/japan-nonlife-big-three|Japan non-life big three]]、[[non-life-insurers/japan-earthquake-reinsurance|Japan Earthquake Reinsurance]]、[[non-life-insurers/toa-reinsurance|Toa Reinsurance]]、[[non-life-insurers/tokio-marine|Tokio Marine]]、[[non-life-insurers/msad|MS&AD]] 和 [[non-life-insurers/sompo|Sompo]] 一起使用。
 
 ## 方案图
 
@@ -54,7 +54,7 @@ translated_at: 2026-05-31T11:13:44.924Z
 |公共角色|政府直接参与再保险|通常是间接的，公共灾难融资和政策措施除外 |
 | FinWiki 路线 |本页| [[insurance/natcat-reinsurance-japan]] |
 
-不要使用家庭地震方案来推断[[JapanFG/tokio-marine|Tokio Marine]]、[[JapanFG/msad|MS&AD]]或[[JapanFG/sompo|Sompo]]的整个灾难暴露。大型非生命团体还撰写不属于此公私家庭计划的商业、海外和非地震灾难风险。
+不要使用家庭地震方案来推断[[non-life-insurers/tokio-marine|Tokio Marine]]、[[non-life-insurers/msad|MS&AD]]或[[non-life-insurers/sompo|Sompo]]的整个灾难暴露。大型非生命团体还撰写不属于此公私家庭计划的商业、海外和非地震灾难风险。
 
 ## 方案效果
 
@@ -71,7 +71,7 @@ translated_at: 2026-05-31T11:13:44.924Z
 1。家庭地震保险或更广泛的巨灾再保险类别。
 2。日本地震再保险/MOF 来源日期的数字限制或层数。
 3。将公司层面的非寿险风险敞口与[[insurance/japan-nonlife-big-three|non-life big three]]和[[insurance/natcat-reinsurance-japan|nat-cat reinsurance Japan]]联系起来。
-4。将公共计划机制链接到[[JapanFG/japan-earthquake-reinsurance|Japan Earthquake Reinsurance]]。
+4。将公共计划机制链接到[[non-life-insurers/japan-earthquake-reinsurance|Japan Earthquake Reinsurance]]。
 5。家庭地震计划和商业巨灾损失之间的界限。
 
 ＃＃ 有关的
@@ -79,11 +79,11 @@ translated_at: 2026-05-31T11:13:44.924Z
 - [[insurance/INDEX]]
 - [[insurance/natcat-reinsurance-japan]]
 - [[insurance/japan-nonlife-big-three]]
-- [[JapanFG/japan-earthquake-reinsurance]]
-- [[JapanFG/toa-reinsurance]]
-- [[JapanFG/tokio-marine]]
-- [[JapanFG/msad]]
-- [[JapanFG/sompo]]
+- [[non-life-insurers/japan-earthquake-reinsurance]]
+- [[non-life-insurers/toa-reinsurance]]
+- [[non-life-insurers/tokio-marine]]
+- [[non-life-insurers/msad]]
+- [[non-life-insurers/sompo]]
 - [[policy-finance/INDEX]]
 - [[INDEX|FinWiki index]]
 

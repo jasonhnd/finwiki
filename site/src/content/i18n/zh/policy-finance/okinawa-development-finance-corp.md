@@ -11,11 +11,11 @@ translated_at: 2026-06-01T03:31:12.306Z
 
 ## Wiki 路径
 
-本条目位于[[policy-finance/INDEX|policy-finance index]]之下，作为日本国家金融体系中冲绳专属的综合政策金融机构。阅读时可对照[[JapanFG/jfc|日本政策金融公庫 (JFC)]]，其在日本本土的三个功能部门（国民生活 / 中小企业 / 农林水产）由 ODFC 合并到单一地区机构内；对照[[policy-finance/jfc-sme-division-operating-model|JFC SME Division operating model]]理解中坚政策金融通道的运营机制；对照[[policy-finance/jfc-agriculture-forestry-fisheries-division|JFC AFF Division]]理解农林渔业通道；对照[[policy-finance/jfc-kokumin-life-finance-division|JFC 国民生活事業]]理解微型企业 / 家庭通道；对照[[policy-finance/japan-housing-finance-agency|JHF]]理解 ODFC 内部处理而非经由 JHF 的住房金融通道；对照[[policy-finance/japan-credit-guarantee-system|Japan credit guarantee system]]理解信用保证边界；对照[[policy-finance/japan-policy-finance-system|Japan policy finance system]]理解更广义的工具箱；对照[[policy-finance/japan-policy-finance-institution-mandate-matrix|Japan policy-finance institution mandate matrix]]理解九机构比较轴；对照[[JapanFG/okinawa-fg|Okinawa FG]]和[[JapanFG/okinawa-kaiho-bank|Okinawa Kaiho Bank]]理解地区民间银行对手方；并与[[JapanFG/okinawa-shinko|Okinawa Shinko]] / [[banking/INDEX|Okinawa shinkin / credit cooperatives]]作为合作金融同行比较。
+本条目位于[[policy-finance/INDEX|policy-finance index]]之下，作为日本国家金融体系中冲绳专属的综合政策金融机构。阅读时可对照[[financial-regulators/jfc|日本政策金融公庫 (JFC)]]，其在日本本土的三个功能部门（国民生活 / 中小企业 / 农林水产）由 ODFC 合并到单一地区机构内；对照[[policy-finance/jfc-sme-division-operating-model|JFC SME Division operating model]]理解中坚政策金融通道的运营机制；对照[[policy-finance/jfc-agriculture-forestry-fisheries-division|JFC AFF Division]]理解农林渔业通道；对照[[policy-finance/jfc-kokumin-life-finance-division|JFC 国民生活事業]]理解微型企业 / 家庭通道；对照[[policy-finance/japan-housing-finance-agency|JHF]]理解 ODFC 内部处理而非经由 JHF 的住房金融通道；对照[[policy-finance/japan-credit-guarantee-system|Japan credit guarantee system]]理解信用保证边界；对照[[policy-finance/japan-policy-finance-system|Japan policy finance system]]理解更广义的工具箱；对照[[policy-finance/japan-policy-finance-institution-mandate-matrix|Japan policy-finance institution mandate matrix]]理解九机构比较轴；对照[[regional-banks/okinawa-fg|Okinawa FG]]和[[regional-banks/okinawa-kaiho-bank|Okinawa Kaiho Bank]]理解地区民间银行对手方；并与[[financial-regulators/okinawa-shinko|Okinawa Shinko]] / [[banking/INDEX|Okinawa shinkin / credit cooperatives]]作为合作金融同行比较。
 
 ## TL;DR
 
-冲绳振兴开发金融公库（Okinawa Development Finance Corporation - ODFC）是日本独特的综合型地区政策金融机构。它于1972-05-15设立 - 与冲绳回归日本同一时期 - 法律基础为冲绳振兴开发金融公库法（1972, 年法律第31 号的现行修订法前身）。机构目的，是为冲绳集中提供政策金融，覆盖日本本土分散在不同全国性政策金融机构中的**全部**功能通道。具体而言，ODFC 在单一实体内处理本土日本由[[JapanFG/jfc|JFC]]（国民生活 / 中小企业 / 农林水产）、[[policy-finance/japan-housing-finance-agency|JHF]]（住房金融）和 Welfare and Medical Service Agency（WAM，福利 / 医疗设施金融）分别承担的功能，并叠加冲绳特定地区产业（旅游融资、特色作物、农渔协同金融、地区语境下的事业承继 / 创业金融）。这种综合形式的法律和政策基础是冲绳振兴特别措施法（当前为第五个十年周期2022-2032），该法为冲绳的地区开发和金融提供特殊待遇制度。ODFC 由内阁府（冲绳担当部局）监管，而不是由单一部委监管 - 这种独特监管结构反映了冲绳专属的跨部委政策框架。该机构补充而非竞争于[[JapanFG/okinawa-fg|Okinawa FG]]（[[banking/bank-of-okinawa|Bank of Okinawa]]的母体）和[[JapanFG/okinawa-kaiho-bank|Okinawa Kaiho Bank]]，填补民间银行体系无法按冲绳特定产业结构所需期限 / 价格提供信用的缺口（高度依赖旅游、小岛地理、低于本土平均的人均收入、邻近美军基地经济）。
+冲绳振兴开发金融公库（Okinawa Development Finance Corporation - ODFC）是日本独特的综合型地区政策金融机构。它于1972-05-15设立 - 与冲绳回归日本同一时期 - 法律基础为冲绳振兴开发金融公库法（1972, 年法律第31 号的现行修订法前身）。机构目的，是为冲绳集中提供政策金融，覆盖日本本土分散在不同全国性政策金融机构中的**全部**功能通道。具体而言，ODFC 在单一实体内处理本土日本由[[financial-regulators/jfc|JFC]]（国民生活 / 中小企业 / 农林水产）、[[policy-finance/japan-housing-finance-agency|JHF]]（住房金融）和 Welfare and Medical Service Agency（WAM，福利 / 医疗设施金融）分别承担的功能，并叠加冲绳特定地区产业（旅游融资、特色作物、农渔协同金融、地区语境下的事业承继 / 创业金融）。这种综合形式的法律和政策基础是冲绳振兴特别措施法（当前为第五个十年周期2022-2032），该法为冲绳的地区开发和金融提供特殊待遇制度。ODFC 由内阁府（冲绳担当部局）监管，而不是由单一部委监管 - 这种独特监管结构反映了冲绳专属的跨部委政策框架。该机构补充而非竞争于[[regional-banks/okinawa-fg|Okinawa FG]]（[[banking/bank-of-okinawa|Bank of Okinawa]]的母体）和[[regional-banks/okinawa-kaiho-bank|Okinawa Kaiho Bank]]，填补民间银行体系无法按冲绳特定产业结构所需期限 / 价格提供信用的缺口（高度依赖旅游、小岛地理、低于本土平均的人均收入、邻近美军基地经济）。
 
 ## 1. 机构结构
 
@@ -123,7 +123,7 @@ ODFC 目前在 FinWiki 中没有专门的运营机制姐妹页面（不同于 JF
 
 ### 与 JFC 的比较轴（最接近同行）
 
-| Axis | ODFC | [[JapanFG/jfc\|JFC]] |
+| Axis | ODFC | [[financial-regulators/jfc\|JFC]] |
 |---|---|---|
 | 地理边界 | 仅冲绳 | 日本本土 + 某些功能上的冲绳等价 |
 | 法律形态 | 公库 | 特殊公司（株式会社） |
@@ -141,13 +141,13 @@ ODFC 目前在 FinWiki 中没有专门的运营机制姐妹页面（不同于 JF
 - **产业政策 / 信用支持界线模糊。** 地区政策金融可能模糊信用支持与产业政策 - 冲绳振兴特别措施法框架明确引导 ODFC 面向冲绳特定产业（旅游、甘蔗、自由贸易区、OIST 相邻），这是在信用决策上叠加产业政策方向。民间补完原则仍适用，但政策叠加厚于本土 JFC 的全国产品菜单。
 - **本土等价问题。** 2008 政策金融改革明确将 ODFC 与 JFC 分离保留；反复出现的政策问题是这种分离是否应持续，或 ODFC 是否最终应被吸收入 JFC 冲绳分支结构。政治答案（在冲绳振兴特别措施法框架下）是，只要冲绳特定政策待遇存在，ODFC 就保持独立。
 - **民营化争论。** 与 DBJ（民营化议程反复延期）或 NEXI（已株式会社化）不同，ODFC 的公库形态在结构上不属于民营化议程 - 该机构是冲绳振兴特别措施法框架下的政策金融，转为商业形态将与政策目的不一致。
-- **BIS Basel III 互动。** ODFC 本身不受 BIS 监管（它是公共法人，不是吸收存款银行），但与 ODFC 支持项目共同融资的民间银行（[[banking/bank-of-okinawa|Bank of Okinawa]]、[[JapanFG/okinawa-kaiho-bank|Okinawa Kaiho Bank]]、[[banking/INDEX|Okinawa shinkin / cooperatives]]）**受** Basel 监管。ODFC 的政策贷款行为通过共同融资结构与民间银行资产负债表互动。
+- **BIS Basel III 互动。** ODFC 本身不受 BIS 监管（它是公共法人，不是吸收存款银行），但与 ODFC 支持项目共同融资的民间银行（[[banking/bank-of-okinawa|Bank of Okinawa]]、[[regional-banks/okinawa-kaiho-bank|Okinawa Kaiho Bank]]、[[banking/INDEX|Okinawa shinkin / cooperatives]]）**受** Basel 监管。ODFC 的政策贷款行为通过共同融资结构与民间银行资产负债表互动。
 - **邻近美军基地经济。** 冲绳产业结构受美军基地及相关地主租金收入流塑造。ODFC 产品菜单不直接服务基地经济，但通过家庭 / 土地相关金融间接识别它。这是冲绳独有且政治敏感的结构特征。
 
 ## 7. 开放问题
 
-- 相对于[[banking/bank-of-okinawa|Bank of Okinawa]]和[[JapanFG/okinawa-kaiho-bank|Okinawa Kaiho Bank]]，哪些冲绳行业在边际信用上最依赖 ODFC。
-- ODFC 如何在运营上与[[JapanFG/okinawa-fg|Okinawa FG]]、Okinawa Kaiho Bank 以及全国性政策金融机构协调（当总部在本土的 JFC 产品不适用但存在全国政策框架时）。
+- 相对于[[banking/bank-of-okinawa|Bank of Okinawa]]和[[regional-banks/okinawa-kaiho-bank|Okinawa Kaiho Bank]]，哪些冲绳行业在边际信用上最依赖 ODFC。
+- ODFC 如何在运营上与[[regional-banks/okinawa-fg|Okinawa FG]]、Okinawa Kaiho Bank 以及全国性政策金融机构协调（当总部在本土的 JFC 产品不适用但存在全国政策框架时）。
 - 旅游、OIST 相邻创业金融、半导体回流（Rapidus / TSMC 相邻供应链在九州引发了冲绳平行讨论）、以及美军基地经济相关议题是否改变 ODFC 的风险组合。
 - 近期冲击（Covid 旅游崩塌、台风损害、2024 后重建需求）下贷款损失准备轨迹。
 - 第五轮冲绳振兴特别措施法周期（2022-2032）是否会对 ODFC 职责或机构形态产生结构性变化。
@@ -155,7 +155,7 @@ ODFC 目前在 FinWiki 中没有专门的运营机制姐妹页面（不同于 JF
 
 ## Related
 
-- [[JapanFG/jfc]]
+- [[financial-regulators/jfc]]
 - [[policy-finance/jfc-sme-division-operating-model]]
 - [[policy-finance/jfc-agriculture-forestry-fisheries-division]]
 - [[policy-finance/jfc-kokumin-life-finance-division]]
@@ -164,9 +164,9 @@ ODFC 目前在 FinWiki 中没有专门的运营机制姐妹页面（不同于 JF
 - [[policy-finance/japan-credit-guarantee-system]]
 - [[policy-finance/japan-policy-finance-system]]
 - [[policy-finance/japan-policy-finance-institution-mandate-matrix]]
-- [[JapanFG/okinawa-shinko]]
-- [[JapanFG/okinawa-fg]]
-- [[JapanFG/okinawa-kaiho-bank]]
+- [[financial-regulators/okinawa-shinko]]
+- [[regional-banks/okinawa-fg]]
+- [[regional-banks/okinawa-kaiho-bank]]
 
 ## Sources
 

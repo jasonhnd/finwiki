@@ -66,14 +66,13 @@
     "wikilinks_count": 23,
     "wikilinks": [
       "INDEX",
-      "JapanFG/japan-exchange-group",
-      "JapanFG/jsda",
-      "JapanFG/mitsubishi-ufj-trust-bank",
-      "JapanFG/mizuho-fg",
-      "JapanFG/nomura-hd",
-      "JapanFG/progmat",
-      "JapanFG/sbi-hd",
+      "financial-regulators/japan-exchange-group",
+      "financial-regulators/jsda",
       "fintech/jp-stablecoin-progmat",
+      "megabanks/mizuho-fg",
+      "megabanks/sbi-hd",
+      "payment-firms/progmat",
+      "securities-firms/nomura-hd",
       "securities/INDEX",
       "securities/financial-instruments-business-operators-japan-index",
       "securities/japan-asset-manager-landscape-matrix",
@@ -87,18 +86,18 @@
       "securities/japannext-sor-routing-deep-dive",
       "securities/odx-start-stb-secondary-market",
       "securities/osaka-digital-exchange",
-      "securities/tokyo-stock-exchange"
+      "securities/tokyo-stock-exchange",
+      "trust-banks/mitsubishi-ufj-trust-bank"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/japan-exchange-group",
-      "https://finwiki.zksc.io/JapanFG/jsda",
-      "https://finwiki.zksc.io/JapanFG/mitsubishi-ufj-trust-bank",
-      "https://finwiki.zksc.io/JapanFG/mizuho-fg",
-      "https://finwiki.zksc.io/JapanFG/nomura-hd",
-      "https://finwiki.zksc.io/JapanFG/progmat",
-      "https://finwiki.zksc.io/JapanFG/sbi-hd",
+      "https://finwiki.zksc.io/financial-regulators/japan-exchange-group",
+      "https://finwiki.zksc.io/financial-regulators/jsda",
       "https://finwiki.zksc.io/fintech/jp-stablecoin-progmat",
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/sbi-hd",
+      "https://finwiki.zksc.io/payment-firms/progmat",
+      "https://finwiki.zksc.io/securities-firms/nomura-hd",
       "https://finwiki.zksc.io/securities/INDEX",
       "https://finwiki.zksc.io/securities/financial-instruments-business-operators-japan-index",
       "https://finwiki.zksc.io/securities/japan-asset-manager-landscape-matrix",
@@ -112,15 +111,16 @@
       "https://finwiki.zksc.io/securities/japannext-sor-routing-deep-dive",
       "https://finwiki.zksc.io/securities/odx-start-stb-secondary-market",
       "https://finwiki.zksc.io/securities/osaka-digital-exchange",
-      "https://finwiki.zksc.io/securities/tokyo-stock-exchange"
+      "https://finwiki.zksc.io/securities/tokyo-stock-exchange",
+      "https://finwiki.zksc.io/trust-banks/mitsubishi-ufj-trust-bank"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 14069,
-    "word_like_tokens": 2173,
+    "nonspace_chars": 14144,
+    "word_like_tokens": 2181,
     "inbound_wikilinks_count": 2,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-04"
   }
 }

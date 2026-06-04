@@ -32,7 +32,7 @@ sources:
 
 ## TL;DR
 
-The Japan credit default swap (CDS) market is a small but structurally important corner of the global credit derivatives universe. The dominant index reference is **iTraxx Japan**, the IHS Markit / S&P Global benchmark covering 50 investment-grade Japanese corporate names rolled every six months. Single-name CDS activity concentrates on Japan blue-chip credits with offshore-investor or hedge-fund interest — megabanks, large insurers, trading houses, autos, electronics, and telecoms. The dealer set is dominated by [[JapanFG/goldman-sachs-japan|Goldman Sachs Japan]], JPMorgan Tokyo, [[JapanFG/morgan-stanley-japan|Morgan Stanley Japan]], [[JapanFG/nomura-hd|Nomura]], BNP Paribas, and a small group of European and US dealers. Clearing splits between **JSCC** for yen-denominated index CDS and **ICE Clear Credit** (and historically LCH) for offshore-cleared exposure. The CDS-JGB / CDS-corporate-bond basis is structurally narrow but episodically volatile around BOJ policy moves, dealer balance-sheet contraction, and global credit stress.
+The Japan credit default swap (CDS) market is a small but structurally important corner of the global credit derivatives universe. The dominant index reference is **iTraxx Japan**, the IHS Markit / S&P Global benchmark covering 50 investment-grade Japanese corporate names rolled every six months. Single-name CDS activity concentrates on Japan blue-chip credits with offshore-investor or hedge-fund interest — megabanks, large insurers, trading houses, autos, electronics, and telecoms. The dealer set is dominated by [[securities-firms/goldman-sachs-japan|Goldman Sachs Japan]], JPMorgan Tokyo, [[securities-firms/morgan-stanley-japan|Morgan Stanley Japan]], [[securities-firms/nomura-hd|Nomura]], BNP Paribas, and a small group of European and US dealers. Clearing splits between **JSCC** for yen-denominated index CDS and **ICE Clear Credit** (and historically LCH) for offshore-cleared exposure. The CDS-JGB / CDS-corporate-bond basis is structurally narrow but episodically volatile around BOJ policy moves, dealer balance-sheet contraction, and global credit stress.
 
 ## Wiki route
 
@@ -59,12 +59,12 @@ iTraxx Japan is constructed by IHS Markit / S&P Global from the most liquid 50 J
 
 | Sector cluster | Representative names |
 |---|---|
-| Megabanks / financial groups | [[JapanFG/mufg|MUFG]], [[JapanFG/sumitomo-mitsui-banking-corp|SMBC]] (via SMFG), [[JapanFG/mizuho-bank|Mizuho]] (via Mizuho FG) |
+| Megabanks / financial groups | [[megabanks/mufg|MUFG]], [[megabanks/sumitomo-mitsui-banking-corp|SMBC]] (via SMFG), [[megabanks/mizuho-bank|Mizuho]] (via Mizuho FG) |
 | Insurance | Tokio Marine, Sompo, MS&AD |
 | Trading houses (sogo shosha) | Mitsubishi Corp, Mitsui & Co, Itochu, Sumitomo Corp, Marubeni |
 | Auto | Toyota, Honda, Nissan |
 | Electronics / industrial | Sony, Panasonic, Hitachi, Mitsubishi Electric |
-| Telecoms / utilities | NTT, KDDI, [[JapanFG/mufg|SoftBank Group]] (when included), TEPCO, Tokyo Gas |
+| Telecoms / utilities | NTT, KDDI, [[megabanks/mufg|SoftBank Group]] (when included), TEPCO, Tokyo Gas |
 | Real estate | Mitsubishi Estate, Mitsui Fudosan, Sumitomo Realty |
 | Consumer / retail | Seven & I, Aeon (when included), Fast Retailing |
 
@@ -80,22 +80,22 @@ Single-name CDS liquidity in Japan concentrates on a handful of internationally 
 | Tier 2 (moderate) | Sony, Hitachi, Mitsubishi Corp, Mitsui & Co, Itochu, NTT, KDDI | Quoted by 3-5 dealers, episodic flow |
 | Tier 3 (thin) | Mid-cap industrials, second-tier financials, utilities | Quoted on request, wide bid-ask, dealer balance-sheet driven |
 
-[[JapanFG/mufg|MUFG]], [[JapanFG/sumitomo-mitsui-banking-corp|SMBC]] (via SMFG), and [[JapanFG/mizuho-bank|Mizuho]] (via Mizuho FG) are the most globally traded Japan financial CDS. [[JapanFG/nomura-hd|Nomura]] is the most actively traded Japan broker-dealer CDS. **SoftBank Group** is consistently the most actively traded Japan non-financial CDS owing to its leverage profile, M&A volatility, and Vision Fund mark-to-market sensitivity.
+[[megabanks/mufg|MUFG]], [[megabanks/sumitomo-mitsui-banking-corp|SMBC]] (via SMFG), and [[megabanks/mizuho-bank|Mizuho]] (via Mizuho FG) are the most globally traded Japan financial CDS. [[securities-firms/nomura-hd|Nomura]] is the most actively traded Japan broker-dealer CDS. **SoftBank Group** is consistently the most actively traded Japan non-financial CDS owing to its leverage profile, M&A volatility, and Vision Fund mark-to-market sensitivity.
 
 ### Dealer set
 
 | Dealer | Role |
 |---|---|
-| [[JapanFG/goldman-sachs-japan|Goldman Sachs Japan]] | Top-tier market maker on index and Tier-1 single names |
+| [[securities-firms/goldman-sachs-japan|Goldman Sachs Japan]] | Top-tier market maker on index and Tier-1 single names |
 | JPMorgan Tokyo | Top-tier market maker, especially on insurance and financial credits |
-| [[JapanFG/morgan-stanley-japan|Morgan Stanley Japan]] | Top-tier market maker, especially on technology and consumer credits |
-| [[JapanFG/nomura-hd|Nomura]] | Leading domestic dealer, large index book, single-name presence |
+| [[securities-firms/morgan-stanley-japan|Morgan Stanley Japan]] | Top-tier market maker, especially on technology and consumer credits |
+| [[securities-firms/nomura-hd|Nomura]] | Leading domestic dealer, large index book, single-name presence |
 | BNP Paribas Tokyo | Major European market maker on Japan credit |
 | Citi Japan | Major US market maker, especially on financials |
 | Barclays / Deutsche Bank Tokyo | Mid-tier presence, varies by sector |
 | MUFG / MUMSS, SMBC Nikko, Mizuho Securities | Domestic banks active as price-takers / portfolio hedgers rather than top-tier market makers |
 
-[[JapanFG/smbc-nikko|SMBC Nikko]], [[JapanFG/daiwa-sg|Daiwa]], and Mizuho Securities historically participated in single-name CDS but pulled back from active dealer-market-making roles after post-2008 regulatory and capital changes. Domestic megabank groups remain large counterparties for portfolio-hedging purposes (own-credit hedges, sovereign basis hedges) rather than dealer market makers.
+[[securities-firms/smbc-nikko|SMBC Nikko]], [[securities-firms/daiwa-sg|Daiwa]], and Mizuho Securities historically participated in single-name CDS but pulled back from active dealer-market-making roles after post-2008 regulatory and capital changes. Domestic megabank groups remain large counterparties for portfolio-hedging purposes (own-credit hedges, sovereign basis hedges) rather than dealer market makers.
 
 ### Notional outstanding
 
@@ -200,12 +200,12 @@ The 2014 ISDA Credit Derivatives Definitions replaced the 2003 Definitions and s
 - [[banking/INDEX]]
 - [[insurance/japan-life-insurance-alm-overview]]
 - [[securities/japan-prime-brokerage-and-institutional-financing]]
-- [[JapanFG/mufg]]
-- [[JapanFG/sumitomo-mitsui-banking-corp]]
-- [[JapanFG/mizuho-bank]]
-- [[JapanFG/nomura-hd]]
-- [[JapanFG/goldman-sachs-japan]]
-- [[JapanFG/morgan-stanley-japan]]
+- [[megabanks/mufg]]
+- [[megabanks/sumitomo-mitsui-banking-corp]]
+- [[megabanks/mizuho-bank]]
+- [[securities-firms/nomura-hd]]
+- [[securities-firms/goldman-sachs-japan]]
+- [[securities-firms/morgan-stanley-japan]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

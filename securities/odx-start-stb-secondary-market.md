@@ -38,7 +38,7 @@ This page belongs in [[securities/INDEX|securities index]] as the venue-mechanic
 
 ## TL;DR
 
-ODX (大阪デジタルエクスチェンジ, Osaka Digital Exchange) is a Japanese FIEA-registered PTS operator founded as a joint venture led by SBI HD, Sumitomo Mitsui Trust Holdings (SuMi TRUST / Sumishin), and Nomura HD, with additional securities-industry participation. Its START market, launched on 2023-12-25, is publicly described as Japan's first secondary trading PTS for security tokens (ST / セキュリティトークン), covering tokenized equity, tokenized bonds, and tokenized real-estate beneficial interests issued under the FIEA electronically recorded transferable rights framework. Trading on START is intermediated exclusively through accepted securities-firm trading participants; ODX itself does not face retail investors directly. Settlement integrates with [[securities/japan-securities-clearing-corp|JSCC]] and [[securities/japan-securities-depository-center|JASDEC]] for the listed-securities adjacency and with token-platform infrastructure (e.g. [[JapanFG/progmat|Progmat]], BOOSTRY / ibet) for the on-token transfer leg. New issue listings on START go through an Approval to Register (ATR) gating process operated by ODX before secondary trading is enabled.
+ODX (大阪デジタルエクスチェンジ, Osaka Digital Exchange) is a Japanese FIEA-registered PTS operator founded as a joint venture led by SBI HD, Sumitomo Mitsui Trust Holdings (SuMi TRUST / Sumishin), and Nomura HD, with additional securities-industry participation. Its START market, launched on 2023-12-25, is publicly described as Japan's first secondary trading PTS for security tokens (ST / セキュリティトークン), covering tokenized equity, tokenized bonds, and tokenized real-estate beneficial interests issued under the FIEA electronically recorded transferable rights framework. Trading on START is intermediated exclusively through accepted securities-firm trading participants; ODX itself does not face retail investors directly. Settlement integrates with [[securities/japan-securities-clearing-corp|JSCC]] and [[securities/japan-securities-depository-center|JASDEC]] for the listed-securities adjacency and with token-platform infrastructure (e.g. [[payment-firms/progmat|Progmat]], BOOSTRY / ibet) for the on-token transfer leg. New issue listings on START go through an Approval to Register (ATR) gating process operated by ODX before secondary trading is enabled.
 
 ## Venue identity
 
@@ -46,8 +46,8 @@ ODX (大阪デジタルエクスチェンジ, Osaka Digital Exchange) is a Japan
 |---|---|
 | Legal entity | 株式会社大阪デジタルエクスチェンジ (Osaka Digital Exchange Co., Ltd.) |
 | FIEA registration | Type I Financial Instruments Business Operator with PTS operating authorization; verify via [[securities/financial-instruments-business-operators-japan-index|FIBO registry]]. |
-| Ownership lineage | Founded with [[JapanFG/sbi-hd|SBI HD]] as lead anchor, [[JapanFG/nomura-hd|Nomura HD]], Sumitomo Mitsui Trust Holdings / SBI Sumishin partnership lineage. Verify current cap table via ODX corporate page. |
-| Self-regulatory | [[JapanFG/jsda|JSDA]] member; unlisted-PTS rules created post-FSA 2022 Market System Working Group output cover the security-token segment. |
+| Ownership lineage | Founded with [[megabanks/sbi-hd|SBI HD]] as lead anchor, [[securities-firms/nomura-hd|Nomura HD]], Sumitomo Mitsui Trust Holdings / SBI Sumishin partnership lineage. Verify current cap table via ODX corporate page. |
+| Self-regulatory | [[financial-regulators/jsda|JSDA]] member; unlisted-PTS rules created post-FSA 2022 Market System Working Group output cover the security-token segment. |
 | Markets operated | Equity PTS (general cash equity scope, narrower than Japannext); START security-token PTS (launched 2023-12-25). |
 | Investor access | Through accepted securities-firm trading participants; ODX does not serve non-professional investors directly. |
 | Clearing / settlement | Cash-equity PTS trades clear through [[securities/japan-securities-clearing-corp|JSCC]] and settle via [[securities/japan-securities-depository-center|JASDEC]]; ST transfers route through the token platform's transfer mechanics with custody recordkeeping handled by the trust or platform party. |
@@ -60,8 +60,8 @@ ODX's founding capital structure is a deliberate cross-sector coalition rather t
 
 | Anchor | Strategic interest |
 |---|---|
-| [[JapanFG/sbi-hd|SBI HD]] (and SBI group entities) | PTS / digital-asset / online-broker franchise extension; SBI Securities retail distribution; Progmat / digital-asset platform thesis. |
-| [[JapanFG/nomura-hd|Nomura HD]] | Securities-industry leadership stake; BOOSTRY (Nomura-led ST issuance platform) issuer-side alignment; institutional STO distribution. |
+| [[megabanks/sbi-hd|SBI HD]] (and SBI group entities) | PTS / digital-asset / online-broker franchise extension; SBI Securities retail distribution; Progmat / digital-asset platform thesis. |
+| [[securities-firms/nomura-hd|Nomura HD]] | Securities-industry leadership stake; BOOSTRY (Nomura-led ST issuance platform) issuer-side alignment; institutional STO distribution. |
 | Sumitomo Mitsui Trust Group / SBI Sumishin Net Bank lineage | Trust-bank custody / recordkeeping role for tokenized trust-beneficial-interest products; cash-leg infrastructure. |
 | Other securities firms (joining as participants and / or shareholders over time) | Distribution breadth for ST issuer market; participation in the only Japanese ST secondary venue. |
 
@@ -78,8 +78,8 @@ In practice, the ST issues that reach START's secondary market include:
 
 | Asset type | Example structure | Issuance platform |
 |---|---|---|
-| Tokenized real-estate beneficial interests | Trust-beneficial-interest in real-estate-holding trust, tokenized for DLT recordkeeping | [[JapanFG/progmat|Progmat]], BOOSTRY, ibet for FIN |
-| Tokenized bonds | Digital bond issued as electronically recorded right | BOOSTRY (Nomura group), [[JapanFG/progmat|Progmat]] |
+| Tokenized real-estate beneficial interests | Trust-beneficial-interest in real-estate-holding trust, tokenized for DLT recordkeeping | [[payment-firms/progmat|Progmat]], BOOSTRY, ibet for FIN |
+| Tokenized bonds | Digital bond issued as electronically recorded right | BOOSTRY (Nomura group), [[payment-firms/progmat|Progmat]] |
 | Tokenized equity / private-equity beneficial interests | Tokenized fund / SPC equity interests where allowed by FIEA scope | Platform varies |
 
 The token platform handles issuance, transfer, and recordkeeping; ODX provides the secondary-market venue function; the securities firm is the customer-facing intermediary; the trust bank or custodian holds the underlying asset rights. This is a five-party architecture rather than the three-party (issuer / exchange / broker) cash equity architecture.
@@ -186,11 +186,11 @@ For SOR context on Japannext specifically, see [[securities/japannext-sor-routin
 - [[securities/osaka-exchange]]
 - [[securities/financial-instruments-business-operators-japan-index]]
 - [[securities/japan-asset-manager-landscape-matrix]]
-- [[JapanFG/sbi-hd]]
-- [[JapanFG/nomura-hd]]
-- [[JapanFG/progmat]]
-- [[JapanFG/jsda]]
-- [[JapanFG/japan-exchange-group]]
+- [[megabanks/sbi-hd]]
+- [[securities-firms/nomura-hd]]
+- [[payment-firms/progmat]]
+- [[financial-regulators/jsda]]
+- [[financial-regulators/japan-exchange-group]]
 - [[fintech/jp-stablecoin-progmat]]
 - [[INDEX|FinWiki index]]
 

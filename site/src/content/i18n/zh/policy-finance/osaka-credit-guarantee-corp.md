@@ -26,7 +26,7 @@ translated_at: 2026-06-01T03:31:12.317Z
 |成立 | 1937 （自根据1953 法案重组以来一直持续）|
 |资助伙伴|大阪府、大阪市、服务区域内的金融机构以及会员捐款|
 |联合会会员 | [[policy-finance/national-federation-credit-guarantee-corporations|Japan Federation of Credit Guarantee Corporations]] 的成员 |
-|公共信用再保险|由 [[JapanFG/jfc|JFC]] 信用保险业务再保险 |
+|公共信用再保险|由 [[financial-regulators/jfc|JFC]] 信用保险业务再保险 |
 |边界注释 |大阪市在合并之前拥有自己独立的信用担保公司；目前的公司现在覆盖了县和市的借款人。 |
 
 ## 2。功能图
@@ -45,7 +45,7 @@ translated_at: 2026-06-01T03:31:12.317Z
 
 1。 **制造业中小企业集中**：大阪，特别是东大阪/门真/八尾走廊，集中了日本最密集的制造业中小企业集群，其中许多供应汽车、电子和精密机械原材料。他们的营运资金和设备贷款需求通过大阪 CGC 担保。
 2。 **人口/继任压力**：关西中小企业的创始人平均年龄高于全国平均水平。与许多其他公司相比，与继承相关的担保（企业继承并购、员工买断）在本书中所占的比例更为突出。
-3。 **关西银行网络**：交易对手包括 Resona 集团（[[JapanFG/resona-hd|Resona HD]] 历史悠久的大阪根源）、[[JapanFG/smfg|SMFG / SMBC]]（大阪住友血统）、[[JapanFG/mufg|MUFG]]（UFJ 银行遗产）、关西未来银行等区域银行以及大型信用银行和信用合作社尾部。
+3。 **关西银行网络**：交易对手包括 Resona 集团（[[megabanks/resona-hd|Resona HD]] 历史悠久的大阪根源）、[[megabanks/smfg|SMFG / SMBC]]（大阪住友血统）、[[megabanks/mufg|MUFG]]（UFJ 银行遗产）、关西未来银行等区域银行以及大型信用银行和信用合作社尾部。
 
 在[[policy-finance/japan-policy-finance-system|Japan policy finance system]]内，大阪 CGC 扮演与[[policy-finance/tokyo-credit-guarantee-corp|Tokyo CGC]]相同的系统角色，但具有不同的行业组合和不同的人口压力状况。
 
@@ -54,7 +54,7 @@ translated_at: 2026-06-01T03:31:12.317Z
 - **不是大阪府政府**：该公司是一家独立的公共公司；政策计划通过公司进行管理，但不属于县政府直接资产负债表的一部分。
 - **不是银行**：与所有信用担保公司一样，Osaka CGC 不直接发放贷款。
 - **非关西范围**：服务区域为大阪府；邻近的县（兵库县、京都县、和歌山县、奈良县、滋贺县）在联邦内各有自己的信用担保公司。
-- **不是 JFC**：[[JapanFG/jfc|JFC]] 通过信用保险对 Osaka CGC 担保进行再保险，但不是面向借款人的层。
+- **不是 JFC**：[[financial-regulators/jfc|JFC]] 通过信用保险对 Osaka CGC 担保进行再保险，但不是面向借款人的层。
 
 ## 5。与东京CGC的比较
 
@@ -79,10 +79,10 @@ translated_at: 2026-06-01T03:31:12.317Z
 - [[policy-finance/national-federation-credit-guarantee-corporations]]
 - [[policy-finance/japan-policy-finance-system]]
 - [[policy-finance/tokyo-credit-guarantee-corp]]
-- [[JapanFG/jfc]]
-- [[JapanFG/smfg]]
-- [[JapanFG/mufg]]
-- [[JapanFG/resona-hd]]
+- [[financial-regulators/jfc]]
+- [[megabanks/smfg]]
+- [[megabanks/mufg]]
+- [[megabanks/resona-hd]]
 - [[banking/shinkin-bank-registry-japan]]
 - [[INDEX|FinWiki index]]
 

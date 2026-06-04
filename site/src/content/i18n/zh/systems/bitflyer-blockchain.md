@@ -15,7 +15,7 @@ translated_at: 2026-06-01T04:15:40.095Z
 
 ## TL;DR
 
-bitFlyer Blockchain 是围绕 bitFlyer 专有私有链技术 Miyabi 的企业区块链部门。在 FinWiki 中，它应被视为一个 **systems / enterprise DLT** 节点，而不是 CEX 实体。该页面从 [[JapanFG/bitflyer|bitFlyer]] 连接而来，因为 Miyabi 是集团 B2B 区块链叙事的一部分。
+bitFlyer Blockchain 是围绕 bitFlyer 专有私有链技术 Miyabi 的企业区块链部门。在 FinWiki 中，它应被视为一个 **systems / enterprise DLT** 节点，而不是 CEX 实体。该页面从 [[payment-firms/bitflyer|bitFlyer]] 连接而来，因为 Miyabi 是集团 B2B 区块链叙事的一部分。
 
 ## 系统画像
 
@@ -28,11 +28,11 @@ bitFlyer Blockchain 是围绕 bitFlyer 专有私有链技术 Miyabi 的企业区
 
 Miyabi 位于与公共无许可链相反的设计光谱一端。它优化的是最终性、可控性和企业集成，而不是开放验证者经济。这使它更接近 [[systems/canton-overview|Canton]]、[[systems/hyperledger-besu-overview|Besu]] 和机构型 DLT，而不是 CEX 市场结构。
 
-对于 [[JapanFG/bitflyer|bitFlyer]]，战略价值在于可选性：一侧是交易所业务，另一侧是企业链 / 咨询基础设施。开放问题是 Miyabi 是否拥有足够活跃的采用度，使其成为持久产品线，而不仅是技术展示。
+对于 [[payment-firms/bitflyer|bitFlyer]]，战略价值在于可选性：一侧是交易所业务，另一侧是企业链 / 咨询基础设施。开放问题是 Miyabi 是否拥有足够活跃的采用度，使其成为持久产品线，而不仅是技术展示。
 
 ## 相关
 
-- [[JapanFG/bitflyer]]
+- [[payment-firms/bitflyer]]
 - [[exchanges/jp-exchange-bitflyer]]
 - [[systems/canton-overview]]
 - [[systems/hyperledger-besu-overview]]

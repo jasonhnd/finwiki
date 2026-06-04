@@ -16,7 +16,7 @@ translated_at: 2026-05-31T03:19:56.444Z
 
 ## Wiki route
 
-This entry sits under [[exchanges/INDEX|exchanges index]]. It is the **横串 (cross-cut)** counterpart to the per-pole files above and reads against [[fintech/global-stablecoin-regulatory-five-pole-matrix|global stablecoin regulatory five-pole matrix]] for the parallel stablecoin axis, and [[JapanFG/legal-financial-licenses/INDEX|legal/financial licenses]] for the system / regulatory boundary on the Japan side.
+This entry sits under [[exchanges/INDEX|exchanges index]]. It is the **横串 (cross-cut)** counterpart to the per-pole files above and reads against [[fintech/global-stablecoin-regulatory-five-pole-matrix|global stablecoin regulatory five-pole matrix]] for the parallel stablecoin axis, and [[financial-licenses/INDEX|legal/financial licenses]] for the system / regulatory boundary on the Japan side.
 
 ## Key facts
 
@@ -207,7 +207,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. It is the **横串 (c
 - [[exchanges/jp-vasp-cold-storage-segregation-rules]] — 冷保管详细
 - [[exchanges/global-cex-top10-comparison]] — 全球 CEX 10 强定位
 - [[fintech/global-stablecoin-regulatory-five-pole-matrix]] — 稳定币版 5 极矩阵（并行制作中，两者公开后解决链接）
-- [[JapanFG/legal-financial-licenses/INDEX|legal/financial licenses]] — 日本侧的监管边界
+- [[financial-licenses/INDEX|legal/financial licenses]] — 日本侧的监管边界
 
 ## Sources
 

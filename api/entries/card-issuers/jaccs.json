@@ -1,0 +1,82 @@
+{
+  "schema_version": "1.0",
+  "slug": "card-issuers/jaccs",
+  "source_path": "card-issuers/jaccs.md",
+  "url": "https://finwiki.zksc.io/card-issuers/jaccs",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/card-issuers/jaccs.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/card-issuers/jaccs.md",
+  "domain": "card-issuers",
+  "title": "株式会社ジャックス (Jaccs)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "株式会社ジャックス (Jaccs)",
+    "aliases": [
+      "Jaccs",
+      "ジャックス",
+      "JACCS",
+      "株式会社ジャックス",
+      "Jaccs Co.",
+      "Ltd."
+    ],
+    "domain": "card-issuers",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "credit-card",
+      "installment",
+      "consumer-finance"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: 株式会社ジャックス (公開情報, 2026-05-19 参照)",
+      "Jaccs 公式 IR 開示資料 (公開分)",
+      "MUFG 第 20 期 (2025-03 期) 有価証券報告書 (持分法適用関連)"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 株式会社オリエントコーポレーション (Orico) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "株式会社ジャックス (Jaccs)",
+    "Wiki route",
+    "TL;DR",
+    "1. 会社概要",
+    "業態カテゴリ",
+    "資本系列の歴史",
+    "2. 事業セグメント・マップ",
+    "自動車ローン軸の強み",
+    "海外戦略（ASEAN）",
+    "3. 沿革"
+  ],
+  "body_links": {
+    "wikilinks_count": 7,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "banking/INDEX",
+      "card-issuers/orico",
+      "credit-saison",
+      "mufg",
+      "orico",
+      "smfg"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/card-issuers/orico",
+      "https://finwiki.zksc.io/credit-saison",
+      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/orico",
+      "https://finwiki.zksc.io/smfg"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3831,
+    "word_like_tokens": 593,
+    "inbound_wikilinks_count": 34,
+    "last_modified": "2026-06-04"
+  }
+}

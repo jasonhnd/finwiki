@@ -17,7 +17,7 @@ translated_at: 2026-06-02T14:01:20.908Z
 
 ## 要約
 
-日本の損害保険会社は、世界有数の自然災害市場のひとつで事業を行っている。地震、台風、洪水、高潮、火山リスクはいずれも重要である。したがって自然災害再保険はバックオフィスの技術論ではなく、[[JapanFG/tokio-marine]]、[[JapanFG/msad]]、[[JapanFG/sompo]]、専門損保または地域損保にとって、中核的なバランスシート管理・価格設定メカニズムである。
+日本の損害保険会社は、世界有数の自然災害市場のひとつで事業を行っている。地震、台風、洪水、高潮、火山リスクはいずれも重要である。したがって自然災害再保険はバックオフィスの技術論ではなく、[[non-life-insurers/tokio-marine]]、[[non-life-insurers/msad]]、[[non-life-insurers/sompo]]、専門損保または地域損保にとって、中核的なバランスシート管理・価格設定メカニズムである。
 
 家計向け地震保険には官民共同の構造がある。民間損害保険会社と政府が地震再保険制度を通じてリスクを分担し、日本地震再保険が専門再保険機関として位置づけられる。
 
@@ -43,8 +43,8 @@ translated_at: 2026-06-02T14:01:20.908Z
 
 ## JapanFG での関連性
 
-- [[JapanFG/tokio-marine]]、[[JapanFG/msad]]、[[JapanFG/sompo]] は上場大手損保グループであり、巨大災害損失、再保険更改、料率改定が収益に影響する。
-- [[JapanFG/daido-fire-marine]] と [[JapanFG/kyoritsu-fire-marine]] は、より特定の地域 / セクターの位置づけを持つ損害保険会社として重要である。
+- [[non-life-insurers/tokio-marine]]、[[non-life-insurers/msad]]、[[non-life-insurers/sompo]] は上場大手損保グループであり、巨大災害損失、再保険更改、料率改定が収益に影響する。
+- [[non-life-insurers/daido-fire-marine]] と [[non-life-insurers/kyoritsu-fire-marine]] は、より特定の地域 / セクターの位置づけを持つ損害保険会社として重要である。
 - [[insurance/saison-automobile-fire|SOMPO Direct / former Saison Automobile & Fire]] は直接損保販売のケースである。販売がデジタルであっても、そのリスクは損害保険と再保険の論理の下にある。
 - [[insurance/economic-value-based-solvency]] と [[insurance/esr-economic-value-solvency|ESR]] は、自然災害リスクを自己資本充実度へ翻訳する際に使うべきである。
 
@@ -62,10 +62,10 @@ translated_at: 2026-06-02T14:01:20.908Z
 - [[insurance/INDEX|insurance INDEX]]
 - [[insurance/saison-automobile-fire]]
 - [[insurance/economic-value-based-solvency]]
-- [[JapanFG/tokio-marine]]
-- [[JapanFG/msad]]
-- [[JapanFG/sompo]]
-- [[JapanFG/legal-financial-licenses/INDEX]]
+- [[non-life-insurers/tokio-marine]]
+- [[non-life-insurers/msad]]
+- [[non-life-insurers/sompo]]
+- [[financial-licenses/INDEX]]
 - [[INDEX|FinWiki index]]
 
 ## 出典

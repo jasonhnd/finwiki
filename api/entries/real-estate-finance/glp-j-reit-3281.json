@@ -62,9 +62,9 @@
     "wikilinks_count": 17,
     "wikilinks": [
       "INDEX",
-      "JapanFG/jcr",
-      "JapanFG/rating-and-investment",
       "banking/trust-bank-custody-operating-comparison",
+      "financial-regulators/jcr",
+      "financial-regulators/rating-and-investment",
       "real-estate-finance/INDEX",
       "real-estate-finance/j-reit-dividend-yield-vs-jgb-spread",
       "real-estate-finance/j-reit-foreign-investor-ownership",
@@ -81,9 +81,9 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/jcr",
-      "https://finwiki.zksc.io/JapanFG/rating-and-investment",
       "https://finwiki.zksc.io/banking/trust-bank-custody-operating-comparison",
+      "https://finwiki.zksc.io/financial-regulators/jcr",
+      "https://finwiki.zksc.io/financial-regulators/rating-and-investment",
       "https://finwiki.zksc.io/real-estate-finance/INDEX",
       "https://finwiki.zksc.io/real-estate-finance/j-reit-dividend-yield-vs-jgb-spread",
       "https://finwiki.zksc.io/real-estate-finance/j-reit-foreign-investor-ownership",
@@ -102,9 +102,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 9105,
-    "word_like_tokens": 1505,
+    "nonspace_chars": 9131,
+    "word_like_tokens": 1507,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-04"
   }
 }

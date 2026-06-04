@@ -18,7 +18,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[securities/INDEX|securities index]]. Read it with [[securities/financial-instruments-business-operators-japan-index|financial instruments business operators japan index]] for adjacent context and [[JapanFG/legal-financial-licenses/INDEX|JapanFG index]] for the broader system boundary.
+This entry sits under [[securities/INDEX|securities index]]. Read it with [[securities/financial-instruments-business-operators-japan-index|financial instruments business operators japan index]] for adjacent context and [[financial-licenses/INDEX|JapanFG index]] for the broader system boundary.
 
 ## TL;DR
 
@@ -30,7 +30,7 @@ For FinWiki, JSCC is the risk-mutualization and collateral node connecting excha
 
 | Layer | JSCC reading |
 |---|---|
-| Parent / main shareholder | [[JapanFG/japan-exchange-group|Japan Exchange Group]] |
+| Parent / main shareholder | [[financial-regulators/japan-exchange-group|Japan Exchange Group]] |
 | Legal form | Japan Securities Clearing Corporation |
 | Incorporated | 2002-07-01 |
 | Operations started | 2003-01-14 |
@@ -51,15 +51,15 @@ For FinWiki, JSCC is the risk-mutualization and collateral node connecting excha
 
 JSCC is where market volume becomes counterparty risk. It matters most during:
 
-- margin stress (with [[JapanFG/japan-securities-finance|JSF]] providing the standardized financing layer);
+- margin stress (with [[financial-regulators/japan-securities-finance|JSF]] providing the standardized financing layer);
 - volatility spikes on [[securities/tokyo-stock-exchange|TSE]] or [[securities/osaka-exchange|OSE]];
 - JGB collateral pressure (linked to [[money-market/jgb-repo-market-japan|JGB repo market]]);
 - clearing participant defaults;
-- product migration between exchange, PTS, OTC, and tokenized markets ([[securities/osaka-digital-exchange|ODX]] / [[JapanFG/progmat|Progmat]] context).
+- product migration between exchange, PTS, OTC, and tokenized markets ([[securities/osaka-digital-exchange|ODX]] / [[payment-firms/progmat|Progmat]] context).
 
 ## Related
 
-- [[JapanFG/japan-exchange-group]]
+- [[financial-regulators/japan-exchange-group]]
 - [[securities/tokyo-stock-exchange]]
 - [[securities/osaka-exchange]]
 - [[securities/tokyo-commodity-exchange]]

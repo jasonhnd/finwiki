@@ -158,13 +158,13 @@ EDINET 文件具有法定效力；TDnet 文件提供及时市场传播。当 CB 
 
 | 银行 | 在日本 CB 中的角色 |
 |---|---|
-| [[JapanFG/nomura-hd|Nomura]] | 常任主簿记行、结构设计顾问 |
-| [[JapanFG/daiwa-sg|Daiwa]] | 常任主簿记行 |
-| [[JapanFG/smbc-nikko|SMBC Nikko]] | 与大型银行集团挂钩的主承销和联席经理 |
-| [[JapanFG/mizuho-securities|Mizuho Securities]] | 与大型银行集团挂钩的主承销和联席经理 |
+| [[securities-firms/nomura-hd|Nomura]] | 常任主簿记行、结构设计顾问 |
+| [[securities-firms/daiwa-sg|Daiwa]] | 常任主簿记行 |
+| [[securities-firms/smbc-nikko|SMBC Nikko]] | 与大型银行集团挂钩的主承销和联席经理 |
+| [[securities-firms/mizuho-securities|Mizuho Securities]] | 与大型银行集团挂钩的主承销和联席经理 |
 | 三菱 UFJ 摩根士丹利（MUMSS） | 大型银行集团/全球合资主承销 |
-| [[JapanFG/goldman-sachs-japan|Goldman Sachs Japan]] | 跨境/结构化 CB 主承销 |
-| [[JapanFG/morgan-stanley-japan|Morgan Stanley Japan]] | 跨境/结构化 CB 主承销 |
+| [[securities-firms/goldman-sachs-japan|Goldman Sachs Japan]] | 跨境/结构化 CB 主承销 |
+| [[securities-firms/morgan-stanley-japan|Morgan Stanley Japan]] | 跨境/结构化 CB 主承销 |
 | 其他外资银行 | 全球部分的跨境主承销行 |
 
 联赛排名资信通过 [[finance/japan-ib-league-table|league table]] 来源分配，区分股权资本市场/股权挂钩类别。零息普通 CB 的簿记建档通常由一两家主承销行主导。
@@ -210,12 +210,12 @@ EDINET 文件具有法定效力；TDnet 文件提供及时市场传播。当 CB 
 - [[finance/japan-listed-financial-groups-investable-universe]]
 - [[securities/japan-ipo-listing-disclosure-route]]
 - [[securities/japan-underwriting-market-structure]]
-- [[JapanFG/nomura-hd]]
-- [[JapanFG/daiwa-sg]]
-- [[JapanFG/smbc-nikko]]
-- [[JapanFG/mizuho-securities]]
-- [[JapanFG/goldman-sachs-japan]]
-- [[JapanFG/morgan-stanley-japan]]
+- [[securities-firms/nomura-hd]]
+- [[securities-firms/daiwa-sg]]
+- [[securities-firms/smbc-nikko]]
+- [[securities-firms/mizuho-securities]]
+- [[securities-firms/goldman-sachs-japan]]
+- [[securities-firms/morgan-stanley-japan]]
 - [[INDEX|FinWiki index]]
 
 ## 来源

@@ -1,0 +1,109 @@
+{
+  "schema_version": "1.0",
+  "slug": "trust-banks/nomura-trust-bank",
+  "source_path": "trust-banks/nomura-trust-bank.md",
+  "url": "https://finwiki.zksc.io/trust-banks/nomura-trust-bank",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/trust-banks/nomura-trust-bank.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/trust-banks/nomura-trust-bank.md",
+  "domain": "trust-banks",
+  "title": "野村信託銀行 (Nomura Trust Bank)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "野村信託銀行 (Nomura Trust Bank)",
+    "aliases": [
+      "Nomura Trust Bank",
+      "野村信託銀行",
+      "野村信託銀行株式会社",
+      "The Nomura Trust and Banking"
+    ],
+    "domain": "trust-banks",
+    "created": "2026-05-20",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-20",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "bank",
+      "trust-bank",
+      "securities-group",
+      "operating-company",
+      "nomura-group"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
+      "https://www.nomura-trust.co.jp/company/corp.html",
+      "https://www.nomura-trust.co.jp/company/business.html",
+      "https://www.nomura-trust.co.jp/ir/pdf/2503.pdf",
+      "Nomura Holdings 有価証券報告書 / Form 20-F",
+      "Wikipedia: 野村信託銀行 (公開情報)"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it with banking index for adjacent context, 野村 HD for parent group context, SMTB / MUTB for peer trust-bank comparison, and 金融ライセンス INDEX for the broader regulatory boundary.",
+  "headings": [
+    "野村信託銀行 (Nomura Trust Bank)",
+    "Wiki route",
+    "1. 法人・ライセンス境界",
+    "2. 親会社 野村 HD 構造",
+    "4. 主要業務 — 証券グループ付随の信託機能",
+    "5. 重要年表",
+    "6. ピア比較 — 信託銀行マーケット",
+    "7. 監督・規制",
+    "8. Counterpoints",
+    "9. Open questions"
+  ],
+  "body_links": {
+    "wikilinks_count": 19,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "asset-managers/nomura-asset-management",
+      "banking/INDEX",
+      "banking/post-megabank-positioning",
+      "financial-licenses/INDEX",
+      "megabanks/mizuho-fg",
+      "megabanks/mufg",
+      "regional-banks/daiwa-next-bank",
+      "regional-banks/sbi-shinsei-bank",
+      "securities-firms/daiwa-securities-group",
+      "securities-firms/nomura-hd",
+      "securities-firms/nomura-securities",
+      "securities/INDEX",
+      "trust-banks/japan-trustee-services-bank",
+      "trust-banks/master-trust-bank-of-japan",
+      "trust-banks/mitsubishi-ufj-trust-bank",
+      "trust-banks/mizuho-trust-banking",
+      "trust-banks/sbi-shinsei-trust-bank",
+      "trust-banks/sumitomo-mitsui-trust"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/asset-managers/nomura-asset-management",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/banking/post-megabank-positioning",
+      "https://finwiki.zksc.io/financial-licenses/INDEX",
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/regional-banks/daiwa-next-bank",
+      "https://finwiki.zksc.io/regional-banks/sbi-shinsei-bank",
+      "https://finwiki.zksc.io/securities-firms/daiwa-securities-group",
+      "https://finwiki.zksc.io/securities-firms/nomura-hd",
+      "https://finwiki.zksc.io/securities-firms/nomura-securities",
+      "https://finwiki.zksc.io/securities/INDEX",
+      "https://finwiki.zksc.io/trust-banks/japan-trustee-services-bank",
+      "https://finwiki.zksc.io/trust-banks/master-trust-bank-of-japan",
+      "https://finwiki.zksc.io/trust-banks/mitsubishi-ufj-trust-bank",
+      "https://finwiki.zksc.io/trust-banks/mizuho-trust-banking",
+      "https://finwiki.zksc.io/trust-banks/sbi-shinsei-trust-bank",
+      "https://finwiki.zksc.io/trust-banks/sumitomo-mitsui-trust"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 4717,
+    "word_like_tokens": 761,
+    "inbound_wikilinks_count": 5,
+    "last_modified": "2026-06-04"
+  }
+}

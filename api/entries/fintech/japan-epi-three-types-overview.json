@@ -54,35 +54,35 @@
     "wikilinks_count": 10,
     "wikilinks": [
       "INDEX",
-      "JapanFG/jpyc",
-      "JapanFG/progmat",
       "exchanges/jp-vasp-regulatory-timeline",
       "fintech/INDEX",
       "fintech/genius-act-501-denylist-mandate",
       "fintech/japan-epi-four-camps-comparison",
       "fintech/japan-financial-regulation",
       "fintech/japan-stablecoin-regulatory-landscape",
-      "fintech/jp-trust-type-sc-architecture"
+      "fintech/jp-trust-type-sc-architecture",
+      "payment-firms/jpyc",
+      "payment-firms/progmat"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/jpyc",
-      "https://finwiki.zksc.io/JapanFG/progmat",
       "https://finwiki.zksc.io/exchanges/jp-vasp-regulatory-timeline",
       "https://finwiki.zksc.io/fintech/INDEX",
       "https://finwiki.zksc.io/fintech/genius-act-501-denylist-mandate",
       "https://finwiki.zksc.io/fintech/japan-epi-four-camps-comparison",
       "https://finwiki.zksc.io/fintech/japan-financial-regulation",
       "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
-      "https://finwiki.zksc.io/fintech/jp-trust-type-sc-architecture"
+      "https://finwiki.zksc.io/fintech/jp-trust-type-sc-architecture",
+      "https://finwiki.zksc.io/payment-firms/jpyc",
+      "https://finwiki.zksc.io/payment-firms/progmat"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2657,
-    "word_like_tokens": 468,
+    "nonspace_chars": 2669,
+    "word_like_tokens": 470,
     "inbound_wikilinks_count": 23,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-04"
   }
 }

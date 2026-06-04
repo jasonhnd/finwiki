@@ -52,7 +52,6 @@
   "body_links": {
     "wikilinks_count": 13,
     "wikilinks": [
-      "JapanFG/sbi-securities",
       "exchanges/INDEX",
       "exchanges/btc-spot-etf-japan-impact",
       "exchanges/fsa-vasp-registration-system",
@@ -64,10 +63,10 @@
       "fintech/japan-bittrade-listing-process",
       "fintech/japan-financial-regulation",
       "fintech/japan-stablecoin-regulatory-landscape",
-      "fintech/jp-trust-type-sc-architecture"
+      "fintech/jp-trust-type-sc-architecture",
+      "securities-firms/sbi-securities"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/sbi-securities",
       "https://finwiki.zksc.io/exchanges/INDEX",
       "https://finwiki.zksc.io/exchanges/btc-spot-etf-japan-impact",
       "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
@@ -79,7 +78,8 @@
       "https://finwiki.zksc.io/fintech/japan-bittrade-listing-process",
       "https://finwiki.zksc.io/fintech/japan-financial-regulation",
       "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
-      "https://finwiki.zksc.io/fintech/jp-trust-type-sc-architecture"
+      "https://finwiki.zksc.io/fintech/jp-trust-type-sc-architecture",
+      "https://finwiki.zksc.io/securities-firms/sbi-securities"
     ],
     "external_links_count": 7,
     "external_links": [
@@ -93,9 +93,9 @@
     ]
   },
   "metrics": {
-    "nonspace_chars": 5620,
-    "word_like_tokens": 1040,
+    "nonspace_chars": 5629,
+    "word_like_tokens": 1041,
     "inbound_wikilinks_count": 6,
-    "last_modified": "2026-05-24"
+    "last_modified": "2026-06-04"
   }
 }

@@ -38,7 +38,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it against [[fintech
 
 **(b) 无转账上限的破坏力**：像 JPYC 这样的资金移动业者型，因 1  次 / 100 万円 的限制，实际上被**限定在零售场景**。信托型则可以支持 **B2B 大额结算（每 1  笔可达 10 億円 到数百亿日元）**。这正是 Progmat 选择信托型的根本原因。
 
-**(c) 多银行共同委托的意义**：在 [[JapanFG/progmat|Progmat Coin]] 的信托方案中，**多家银行（[[JapanFG/mufg|MUFG]]、[[JapanFG/smfg|SMFG/SMBC]]、Mizuho）**作为共同委托人，**三菱 UFJ 信托 1 社 作为受托人**。由此在法律上可以实现：**把 3  家巨型银行的客户存款统一支持为一种共同稳定币**，这就是 [[multi-megabank-consortium-governance|多巨行联合体治理]] 的法律基础。
+**(c) 多银行共同委托的意义**：在 [[payment-firms/progmat|Progmat Coin]] 的信托方案中，**多家银行（[[megabanks/mufg|MUFG]]、[[megabanks/smfg|SMFG/SMBC]]、Mizuho）**作为共同委托人，**三菱 UFJ 信托 1 社 作为受托人**。由此在法律上可以实现：**把 3  家巨型银行的客户存款统一支持为一种共同稳定币**，这就是 [[multi-megabank-consortium-governance|多巨行联合体治理]] 的法律基础。
 
 ## 与 §501(d) 的关系
 

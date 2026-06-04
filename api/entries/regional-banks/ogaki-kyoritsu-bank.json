@@ -1,0 +1,82 @@
+{
+  "schema_version": "1.0",
+  "slug": "regional-banks/ogaki-kyoritsu-bank",
+  "source_path": "regional-banks/ogaki-kyoritsu-bank.md",
+  "url": "https://finwiki.zksc.io/regional-banks/ogaki-kyoritsu-bank",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/regional-banks/ogaki-kyoritsu-bank.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/regional-banks/ogaki-kyoritsu-bank.md",
+  "domain": "regional-banks",
+  "title": "大垣共立銀行 (OKB)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "大垣共立銀行 (OKB)",
+    "aliases": [
+      "OKB",
+      "Ogaki Kyoritsu Bank",
+      "大垣共立銀行",
+      "株式会社大垣共立銀行",
+      "The Ogaki Kyoritsu Bank"
+    ],
+    "domain": "regional-banks",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "regional-bank"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: 株式会社大垣共立銀行 (2026-05-19 抽出)",
+      "大垣共立銀行 公式コーポレートサイト (沿革・経営理念ページ)",
+      "https://www.okb.co.jp/assets/pdf/investor/tanshin/2024/2025-0501.pdf",
+      "https://www.okb.co.jp/assets/pdf/investor/tanshin/2024/2025-0502.pdf"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against ふくおか FG (FFG) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "大垣共立銀行 (OKB)",
+    "Wiki route",
+    "TL;DR",
+    "1. 会社概要",
+    "主要数値 (2025年3月末・連結)",
+    "グループ構造",
+    "重要年表 (抜粋) ^[extracted]",
+    "2. 事業セグメント・マップ",
+    "「楽しい銀行」ブランディング",
+    "「日本一の女性活躍銀行」"
+  ],
+  "body_links": {
+    "wikilinks_count": 8,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "banking/INDEX",
+      "juroku-fg",
+      "mizuho-fg",
+      "mufg",
+      "regional-banks/fukuoka-fg",
+      "san-jusan-fg",
+      "smfg"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/juroku-fg",
+      "https://finwiki.zksc.io/mizuho-fg",
+      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/regional-banks/fukuoka-fg",
+      "https://finwiki.zksc.io/san-jusan-fg",
+      "https://finwiki.zksc.io/smfg"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 4026,
+    "word_like_tokens": 644,
+    "inbound_wikilinks_count": 1,
+    "last_modified": "2026-06-04"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "schema_version": "1.0",
+  "slug": "payment-firms/diners-club-japan",
+  "source_path": "payment-firms/diners-club-japan.md",
+  "url": "https://finwiki.zksc.io/payment-firms/diners-club-japan",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/payment-firms/diners-club-japan.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/payment-firms/diners-club-japan.md",
+  "domain": "payment-firms",
+  "title": "ダイナースクラブ ジャパン (Diners Club Japan)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "ダイナースクラブ ジャパン (Diners Club Japan)",
+    "aliases": [
+      "Diners Club Japan",
+      "Diners Club International Japan",
+      "ダイナースクラブ",
+      "三井住友トラストクラブ",
+      "Sumitomo Mitsui Trust Club"
+    ],
+    "domain": "payment-firms",
+    "created": "2026-05-24",
+    "last_updated": "2026-05-24",
+    "last_tended": "2026-05-24",
+    "review_by": "2026-11-20",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "card-brand",
+      "payments",
+      "diners",
+      "3-party-scheme",
+      "premium"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.diners.co.jp/",
+      "https://www.diners.co.jp/ja/about/company.html",
+      "https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html",
+      "https://www.global.jcb/ja/press/2006/2006020810001_merchants.html",
+      "https://www.jcb.co.jp/promotion/b2b/index.html"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against JCB for peer / contrast context (両者とも 3-party 系・プレミアム志向) and Japan card issuer / acquirer / processor split for the broader system / regulatory boundary.",
+  "headings": [
+    "ダイナースクラブ ジャパン (Diners Club Japan)",
+    "Wiki route",
+    "1. License / group boundary",
+    "2. Business lines in Japan",
+    "3. Strategy & competitive position vs JCB / domestic schemes",
+    "4. Why this page matters",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 10,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "card-issuers/jcb",
+      "card-issuers/smbc-card",
+      "payment-firms/american-express-international-japan",
+      "payment-firms/mastercard-japan",
+      "payment-firms/unionpay-international-japan",
+      "payment-firms/visa-worldwide-japan",
+      "payments/japan-card-issuer-acquirer-processor-split",
+      "payments/japan-interchange-and-merchant-fee-stack",
+      "trust-banks/sumitomo-mitsui-trust"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/card-issuers/jcb",
+      "https://finwiki.zksc.io/card-issuers/smbc-card",
+      "https://finwiki.zksc.io/payment-firms/american-express-international-japan",
+      "https://finwiki.zksc.io/payment-firms/mastercard-japan",
+      "https://finwiki.zksc.io/payment-firms/unionpay-international-japan",
+      "https://finwiki.zksc.io/payment-firms/visa-worldwide-japan",
+      "https://finwiki.zksc.io/payments/japan-card-issuer-acquirer-processor-split",
+      "https://finwiki.zksc.io/payments/japan-interchange-and-merchant-fee-stack",
+      "https://finwiki.zksc.io/trust-banks/sumitomo-mitsui-trust"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3843,
+    "word_like_tokens": 580,
+    "inbound_wikilinks_count": 4,
+    "last_modified": "2026-06-04"
+  }
+}

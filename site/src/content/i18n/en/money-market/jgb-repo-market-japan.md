@@ -60,10 +60,10 @@ For analysis, SLF usage should be read as a market-functioning signal, not as a 
 
 ## JapanFG Relevance
 
-- [[JapanFG/boj-monetary-policy|BoJ monetary policy]] affects repo through market operations, JGB holdings, and short-rate expectations.
-- [[JapanFG/tokyo-tanshi]], [[JapanFG/central-tanshi]], and [[JapanFG/ueda-yagi-tanshi]] connect the repo layer to the broader short-term money-market infrastructure.
-- Megabanks such as [[JapanFG/mufg]], [[JapanFG/smfg]], and [[JapanFG/mizuho-fg]] are exposed through JGB holdings, collateral management, reserve balances, and wholesale funding.
-- Securities firms such as [[JapanFG/mizuho-securities]], [[JapanFG/mufg-mums]], and [[JapanFG/nomura-hd]] are exposed through dealer inventory, market-making, and collateral finance.
+- [[financial-regulators/boj-monetary-policy|BoJ monetary policy]] affects repo through market operations, JGB holdings, and short-rate expectations.
+- [[financial-regulators/tokyo-tanshi]], [[financial-regulators/central-tanshi]], and [[financial-regulators/ueda-yagi-tanshi]] connect the repo layer to the broader short-term money-market infrastructure.
+- Megabanks such as [[megabanks/mufg]], [[megabanks/smfg]], and [[megabanks/mizuho-fg]] are exposed through JGB holdings, collateral management, reserve balances, and wholesale funding.
+- Securities firms such as [[securities-firms/mizuho-securities]], [[securities-firms/mufg-mums]], and [[securities-firms/nomura-hd]] are exposed through dealer inventory, market-making, and collateral finance.
 
 ## Reading Rules
 
@@ -78,11 +78,11 @@ For analysis, SLF usage should be read as a market-functioning signal, not as a 
 - [[money-market/japan-money-market]]
 - [[money-market/call-market-structure]]
 - [[money-market/boj-open-market-operations]]
-- [[JapanFG/boj-monetary-policy]]
-- [[JapanFG/local-bond-market]]
-- [[JapanFG/tokyo-tanshi]]
-- [[JapanFG/central-tanshi]]
-- [[JapanFG/ueda-yagi-tanshi]]
+- [[financial-regulators/boj-monetary-policy]]
+- [[financial-regulators/local-bond-market]]
+- [[financial-regulators/tokyo-tanshi]]
+- [[financial-regulators/central-tanshi]]
+- [[financial-regulators/ueda-yagi-tanshi]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

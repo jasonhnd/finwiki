@@ -67,12 +67,11 @@
     "wikilinks_count": 22,
     "wikilinks": [
       "INDEX",
-      "JapanFG/aeon-bank",
-      "JapanFG/jal-card",
-      "JapanFG/jr-east-financial",
       "JapanFG/rakuten-bank",
-      "JapanFG/seven-bank",
       "JapanFG/tokyu-card",
+      "card-issuers/aeon-bank",
+      "card-issuers/jal-card",
+      "card-issuers/jr-east-financial",
       "loyalty/INDEX",
       "loyalty/au-pay-loyalty-ecosystem-deep",
       "loyalty/d-point-au-kddi-docomo-telco-point-consolidation",
@@ -86,17 +85,17 @@
       "loyalty/v-point-smbc-ccc-case",
       "payments/cashless-jp-landscape",
       "payments/japan-code-payment-operator-2025-market-share-matrix",
+      "regional-banks/seven-bank",
       "retail/INDEX",
       "retail/seven-i-holdings-finance-deep-dive"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/aeon-bank",
-      "https://finwiki.zksc.io/JapanFG/jal-card",
-      "https://finwiki.zksc.io/JapanFG/jr-east-financial",
       "https://finwiki.zksc.io/JapanFG/rakuten-bank",
-      "https://finwiki.zksc.io/JapanFG/seven-bank",
       "https://finwiki.zksc.io/JapanFG/tokyu-card",
+      "https://finwiki.zksc.io/card-issuers/aeon-bank",
+      "https://finwiki.zksc.io/card-issuers/jal-card",
+      "https://finwiki.zksc.io/card-issuers/jr-east-financial",
       "https://finwiki.zksc.io/loyalty/INDEX",
       "https://finwiki.zksc.io/loyalty/au-pay-loyalty-ecosystem-deep",
       "https://finwiki.zksc.io/loyalty/d-point-au-kddi-docomo-telco-point-consolidation",
@@ -110,6 +109,7 @@
       "https://finwiki.zksc.io/loyalty/v-point-smbc-ccc-case",
       "https://finwiki.zksc.io/payments/cashless-jp-landscape",
       "https://finwiki.zksc.io/payments/japan-code-payment-operator-2025-market-share-matrix",
+      "https://finwiki.zksc.io/regional-banks/seven-bank",
       "https://finwiki.zksc.io/retail/INDEX",
       "https://finwiki.zksc.io/retail/seven-i-holdings-finance-deep-dive"
     ],
@@ -117,9 +117,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 12982,
-    "word_like_tokens": 2253,
+    "nonspace_chars": 13051,
+    "word_like_tokens": 2266,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-06-02"
+    "last_modified": "2026-06-04"
   }
 }

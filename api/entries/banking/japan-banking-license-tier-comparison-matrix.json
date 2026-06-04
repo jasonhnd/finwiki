@@ -76,14 +76,6 @@
     "wikilinks": [
       "INDEX",
       "JapanFG/INDEX",
-      "JapanFG/legal-financial-licenses/INDEX",
-      "JapanFG/legal-financial-licenses/bank-license-and-baas-boundary",
-      "JapanFG/norinchukin",
-      "JapanFG/norinchukin\\",
-      "JapanFG/shinkin-central",
-      "JapanFG/shinkin-central\\",
-      "JapanFG/yokin-hoken-kiko",
-      "JapanFG/yokin-hoken-kiko\\",
       "banking/INDEX",
       "banking/cooperative-banking-japan",
       "banking/credit-cooperative-registry-japan",
@@ -95,19 +87,19 @@
       "banking/regional-bank-consolidation-pattern",
       "banking/rokin-bank-registry-japan",
       "banking/shinkin-bank-registry-japan",
-      "banking/trust-bank-custody-operating-comparison"
+      "banking/trust-bank-custody-operating-comparison",
+      "cooperative-banks/norinchukin",
+      "cooperative-banks/norinchukin\\",
+      "cooperative-banks/shinkin-central",
+      "cooperative-banks/shinkin-central\\",
+      "financial-licenses/INDEX",
+      "financial-licenses/bank-license-and-baas-boundary",
+      "financial-regulators/yokin-hoken-kiko",
+      "financial-regulators/yokin-hoken-kiko\\"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
       "https://finwiki.zksc.io/JapanFG/INDEX",
-      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX",
-      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/bank-license-and-baas-boundary",
-      "https://finwiki.zksc.io/JapanFG/norinchukin",
-      "https://finwiki.zksc.io/JapanFG/norinchukin\\",
-      "https://finwiki.zksc.io/JapanFG/shinkin-central",
-      "https://finwiki.zksc.io/JapanFG/shinkin-central\\",
-      "https://finwiki.zksc.io/JapanFG/yokin-hoken-kiko",
-      "https://finwiki.zksc.io/JapanFG/yokin-hoken-kiko\\",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/cooperative-banking-japan",
       "https://finwiki.zksc.io/banking/credit-cooperative-registry-japan",
@@ -119,15 +111,23 @@
       "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
       "https://finwiki.zksc.io/banking/rokin-bank-registry-japan",
       "https://finwiki.zksc.io/banking/shinkin-bank-registry-japan",
-      "https://finwiki.zksc.io/banking/trust-bank-custody-operating-comparison"
+      "https://finwiki.zksc.io/banking/trust-bank-custody-operating-comparison",
+      "https://finwiki.zksc.io/cooperative-banks/norinchukin",
+      "https://finwiki.zksc.io/cooperative-banks/norinchukin\\",
+      "https://finwiki.zksc.io/cooperative-banks/shinkin-central",
+      "https://finwiki.zksc.io/cooperative-banks/shinkin-central\\",
+      "https://finwiki.zksc.io/financial-licenses/INDEX",
+      "https://finwiki.zksc.io/financial-licenses/bank-license-and-baas-boundary",
+      "https://finwiki.zksc.io/financial-regulators/yokin-hoken-kiko",
+      "https://finwiki.zksc.io/financial-regulators/yokin-hoken-kiko\\"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 29703,
-    "word_like_tokens": 4583,
-    "inbound_wikilinks_count": 29,
-    "last_modified": "2026-05-24"
+    "nonspace_chars": 30100,
+    "word_like_tokens": 4611,
+    "inbound_wikilinks_count": 32,
+    "last_modified": "2026-06-04"
   }
 }

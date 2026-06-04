@@ -1,0 +1,77 @@
+{
+  "schema_version": "1.0",
+  "slug": "trust-banks/starts-trust",
+  "source_path": "trust-banks/starts-trust.md",
+  "url": "https://finwiki.zksc.io/trust-banks/starts-trust",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/trust-banks/starts-trust.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/trust-banks/starts-trust.md",
+  "domain": "trust-banks",
+  "title": "スターツ信託 (Starts Trust)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "スターツ信託 (Starts Trust)",
+    "aliases": [
+      "Starts Trust",
+      "スターツ信託株式会社",
+      "Starts Trust Co., Ltd."
+    ],
+    "domain": "trust-banks",
+    "created": "2026-05-22",
+    "last_updated": "2026-05-22",
+    "last_tended": "2026-05-22",
+    "review_by": "2026-11-22",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "trust-company",
+      "real-estate-finance",
+      "Starts",
+      "asset-succession"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.xlsx",
+      "https://www.starts.co.jp/news/press/2015/1142/",
+      "https://www.starts.co.jp/news/press/2024/6317/"
+    ]
+  },
+  "summary": "Starts Trust is a standalone trust-company route under JapanFG and is promoted from the Japan trust companies registry index. Read it with Japan trust-bank custody map, Japan acquisition finance, and Escrow Agent Japan Trust.",
+  "headings": [
+    "スターツ信託 (Starts Trust)",
+    "Wiki route",
+    "Overview",
+    "Entity Boundary",
+    "Business Role Map",
+    "Public Context",
+    "Research Checklist",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 6,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/INDEX",
+      "banking/japan-trust-bank-custody-map",
+      "finance/japan-acquisition-finance",
+      "trust-banks/escrow-agent-japan-trust",
+      "trust-banks/trust-companies-japan-index"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/banking/japan-trust-bank-custody-map",
+      "https://finwiki.zksc.io/finance/japan-acquisition-finance",
+      "https://finwiki.zksc.io/trust-banks/escrow-agent-japan-trust",
+      "https://finwiki.zksc.io/trust-banks/trust-companies-japan-index"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3196,
+    "word_like_tokens": 526,
+    "inbound_wikilinks_count": 5,
+    "last_modified": "2026-06-04"
+  }
+}

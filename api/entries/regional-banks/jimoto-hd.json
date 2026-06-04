@@ -1,0 +1,90 @@
+{
+  "schema_version": "1.0",
+  "slug": "regional-banks/jimoto-hd",
+  "source_path": "regional-banks/jimoto-hd.md",
+  "url": "https://finwiki.zksc.io/regional-banks/jimoto-hd",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/regional-banks/jimoto-hd.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/regional-banks/jimoto-hd.md",
+  "domain": "regional-banks",
+  "title": "じもとホールディングス (JIMOTO HD)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "じもとホールディングス (JIMOTO HD)",
+    "aliases": [
+      "じもと HD",
+      "JIMOTO Holdings",
+      "じもとホールディングス",
+      "Jimoto Holdings",
+      "Inc.",
+      "7161"
+    ],
+    "domain": "regional-banks",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "regional-bank",
+      "tohoku",
+      "second-tier",
+      "public-funds"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: じもとホールディングス (2026-05-19 抽出)",
+      "Wikipedia: きらやか銀行 (2026-05-19 抽出)",
+      "Wikipedia: 仙台銀行 (2026-05-19 抽出)",
+      "金融庁 経営強化計画の履行状況報告書 2024-12 / 2025-06",
+      "日本経済新聞・時事通信 公開報道 (2024-04〜2024-09)",
+      "RIETI 独立行政法人経済産業研究所『金融機能強化法の震災特例を振り返る』 https://www.rieti.go.jp/jp/columns/a01_0635.html",
+      "SBI ホールディングス ニュースリリース『株式会社じもとホールディングス傘下の銀行2行に対する銀行主要株主認可取得に関するお知らせ』(2021-03-18) https://www.sbigroup.co.jp/news/2021/0318_12370.html",
+      "Wikipedia: 殖産銀行 / 仙台銀行 (2026-05-29 再検証)"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it with banking index for adjacent context and JapanFG index for the broader system boundary.",
+  "headings": [
+    "じもとホールディングス (JIMOTO HD)",
+    "Wiki route",
+    "TL;DR",
+    "1. 会社概要",
+    "グループ構造",
+    "連結決算（公開ベース）^[extracted]",
+    "主要株主（2024-06-20 以降）^[extracted]",
+    "沿革年表 ^[extracted]",
+    "前身銀行詳細",
+    "経営戦略"
+  ],
+  "body_links": {
+    "wikilinks_count": 8,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "banking/INDEX",
+      "fidea-hd",
+      "financial-licenses/INDEX",
+      "mizuho-fg",
+      "mufg",
+      "sbi-hd",
+      "smfg"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/fidea-hd",
+      "https://finwiki.zksc.io/financial-licenses/INDEX",
+      "https://finwiki.zksc.io/mizuho-fg",
+      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/sbi-hd",
+      "https://finwiki.zksc.io/smfg"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 5461,
+    "word_like_tokens": 1002,
+    "inbound_wikilinks_count": 11,
+    "last_modified": "2026-06-04"
+  }
+}

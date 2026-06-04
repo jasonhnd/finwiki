@@ -1,0 +1,88 @@
+{
+  "schema_version": "1.0",
+  "slug": "regional-banks/gunma-bank",
+  "source_path": "regional-banks/gunma-bank.md",
+  "url": "https://finwiki.zksc.io/regional-banks/gunma-bank",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/regional-banks/gunma-bank.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/regional-banks/gunma-bank.md",
+  "domain": "regional-banks",
+  "title": "群馬銀行 (The Gunma Bank, Ltd.)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "群馬銀行 (The Gunma Bank)",
+    "aliases": [
+      "群馬銀行",
+      "Gunma Bank",
+      "The Gunma Bank",
+      "Ltd.",
+      "ぐんぎん",
+      "群銀"
+    ],
+    "domain": "regional-banks",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "regional-bank",
+      "no-holding"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: 株式会社群馬銀行 (2026-05-19 抽出)",
+      "群馬銀行 公式 IR / 中期経営計画 (公開資料)",
+      "TSUBASA アライアンス 公式 (公開資料)",
+      "Wikipedia: ぐんまみらい信用組合 (https://ja.wikipedia.org/wiki/ぐんまみらい信用組合, 2026-05-30 確認)"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 千葉銀行 (Chiba Bank) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "群馬銀行 (The Gunma Bank, Ltd.)",
+    "Wiki route",
+    "TL;DR",
+    "1. 会社概要",
+    "持株会社化していない論点",
+    "主要子会社・関連事業 ^[likely]",
+    "重要年表（抜粋）^[extracted]",
+    "2. 事業セグメント・マップ",
+    "営業エリア地理",
+    "産業基盤特性"
+  ],
+  "body_links": {
+    "wikilinks_count": 10,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "banking/INDEX",
+      "concordia-fg",
+      "fukuoka-fg",
+      "mebuki-fg",
+      "mizuho-fg",
+      "mufg",
+      "regional-banks/chiba-bank",
+      "smfg",
+      "towa-bank"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/concordia-fg",
+      "https://finwiki.zksc.io/fukuoka-fg",
+      "https://finwiki.zksc.io/mebuki-fg",
+      "https://finwiki.zksc.io/mizuho-fg",
+      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/regional-banks/chiba-bank",
+      "https://finwiki.zksc.io/smfg",
+      "https://finwiki.zksc.io/towa-bank"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3828,
+    "word_like_tokens": 576,
+    "inbound_wikilinks_count": 2,
+    "last_modified": "2026-06-04"
+  }
+}

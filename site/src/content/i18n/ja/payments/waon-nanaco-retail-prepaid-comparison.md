@@ -11,20 +11,20 @@ translated_at: 2026-06-03T00:53:08.253Z
 
 ## ウィキ上の位置づけ
 
-この項目は、[[payments/INDEX|payments index]]配下のAEON対Seven & iの小売系プリペイド比較ページである。FSA登録の第三者型前払式支払手段の視点では[[payments/prepaid-payment-instrument-issuers-japan-index|prepaid payment instrument issuers registry]]、4類型スキーム比較では[[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]]と組み合わせる。鉄道を軸にしたピアは[[payments/japan-transit-prepaid-suica-pasmo-icoca-economics|transit-prepaid scheme economics]]、プラットフォーム非依存のFeliCaプリペイド代替は[[JapanFG/rakuten-edy|Rakuten Edy]]、コンビニ系コード決済の対応物は[[payments/famipay-valucreate-strategy|FamiPay]]と比較する。グループ軸の企業文脈は[[retail/aeon-group|AEON Group]]と[[retail/seven-and-i-hd|Seven & i HD]]、決済運営者のアンカーは[[JapanFG/aeon-financial-service|AEON Financial Service]]、[[JapanFG/aeon-bank|AEON Bank]]、[[JapanFG/seven-card-service|Seven Card Service]]、[[JapanFG/seven-payment-service|Seven Payment Service]]、[[JapanFG/seven-bank|Seven Bank]]である。
+この項目は、[[payments/INDEX|payments index]]配下のAEON対Seven & iの小売系プリペイド比較ページである。FSA登録の第三者型前払式支払手段の視点では[[payments/prepaid-payment-instrument-issuers-japan-index|prepaid payment instrument issuers registry]]、4類型スキーム比較では[[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]]と組み合わせる。鉄道を軸にしたピアは[[payments/japan-transit-prepaid-suica-pasmo-icoca-economics|transit-prepaid scheme economics]]、プラットフォーム非依存のFeliCaプリペイド代替は[[payment-firms/rakuten-edy|Rakuten Edy]]、コンビニ系コード決済の対応物は[[payments/famipay-valucreate-strategy|FamiPay]]と比較する。グループ軸の企業文脈は[[retail/aeon-group|AEON Group]]と[[retail/seven-and-i-hd|Seven & i HD]]、決済運営者のアンカーは[[card-issuers/aeon-financial-service|AEON Financial Service]]、[[card-issuers/aeon-bank|AEON Bank]]、[[card-issuers/seven-card-service|Seven Card Service]]、[[payment-firms/seven-payment-service|Seven Payment Service]]、[[regional-banks/seven-bank|Seven Bank]]である。
 
 ## 要約
 
-**WAON**（AEONが運営し、AEONモール／スーパー／コンビニ網を軸にする）と**nanaco**（Seven Card Serviceが運営し、Seven & i GroupのコンビニとIto-Yokadoスーパーを軸にする）は、日本の主要な**小売系プリペイド電子マネー・ブランド**である。どちらもFeliCa（[[payments/japan-transit-prepaid-suica-pasmo-icoca-economics|Suica / PASMO / ICOCA]]と同じ技術スタック）で稼働し、どちらもFSAの下で第三者型前払式支払手段として登録され、どちらも親会社の小売グループのロイヤルティプログラム（WAON POINTとnanacoポイント）に深く統合されている。また、どちらもチャージ／ATM利便性のためにグループ銀行（AEON Bank、Seven Bank）と組み合わされている。競争の力学は、オープン加盟店型のコード決済競争ではなく、**グループ小売内のクローズドループ**である。FamiPayに近いが、QRコードではなくFeliCaプリペイドで実行されている。導入済み基盤の粘着性は高いが、コード決済（[[JapanFG/paypay|PayPay]]、[[JapanFG/au-payment|au PAY]]、楽天ペイ、d払い）が限界的な新規ユーザー層を獲得したため、成長は鈍化している。
+**WAON**（AEONが運営し、AEONモール／スーパー／コンビニ網を軸にする）と**nanaco**（Seven Card Serviceが運営し、Seven & i GroupのコンビニとIto-Yokadoスーパーを軸にする）は、日本の主要な**小売系プリペイド電子マネー・ブランド**である。どちらもFeliCa（[[payments/japan-transit-prepaid-suica-pasmo-icoca-economics|Suica / PASMO / ICOCA]]と同じ技術スタック）で稼働し、どちらもFSAの下で第三者型前払式支払手段として登録され、どちらも親会社の小売グループのロイヤルティプログラム（WAON POINTとnanacoポイント）に深く統合されている。また、どちらもチャージ／ATM利便性のためにグループ銀行（AEON Bank、Seven Bank）と組み合わされている。競争の力学は、オープン加盟店型のコード決済競争ではなく、**グループ小売内のクローズドループ**である。FamiPayに近いが、QRコードではなくFeliCaプリペイドで実行されている。導入済み基盤の粘着性は高いが、コード決済（[[payment-firms/paypay|PayPay]]、[[payment-firms/au-payment|au PAY]]、楽天ペイ、d払い）が限界的な新規ユーザー層を獲得したため、成長は鈍化している。
 
 ## 発行体の横並び概観
 
 | 次元 | WAON | nanaco |
 |---|---|---|
 | ブランド所有者 | AEON Co Ltd | Seven & i Holdings |
-| 発行体（FSA登録の第三者型前払式支払手段） | [[JapanFG/aeon-financial-service\|AEON Financial Service]] / WAON運営 | [[JapanFG/seven-card-service\|Seven Card Service]] |
-| グループ銀行 | [[JapanFG/aeon-bank\|AEON Bank]] | [[JapanFG/seven-bank\|Seven Bank]] |
-| 決済／支払サービス | AEON Financial Service group | [[JapanFG/seven-payment-service\|Seven Payment Service]] |
+| 発行体（FSA登録の第三者型前払式支払手段） | [[card-issuers/aeon-financial-service\|AEON Financial Service]] / WAON運営 | [[card-issuers/seven-card-service\|Seven Card Service]] |
+| グループ銀行 | [[card-issuers/aeon-bank\|AEON Bank]] | [[regional-banks/seven-bank\|Seven Bank]] |
+| 決済／支払サービス | AEON Financial Service group | [[payment-firms/seven-payment-service\|Seven Payment Service]] |
 | 開始年 | 2007 | 2007 |
 | 技術 | FeliCa | FeliCa |
 | 主な受入アンカー | AEONモール、MaxValu、AEONスーパー、ministopコンビニ | 7-Eleven、Ito-Yokado、Sogo & Seibu、Akachan Honpo、Denny's Japan |
@@ -90,7 +90,7 @@ translated_at: 2026-06-03T00:53:08.253Z
 
 ## Rakuten Edyとの比較
 
-Edy（[[JapanFG/rakuten-edy|Rakuten Edy]]が運営）は、特定小売グループの自社店舗網に**依存しない**最も近いピアである。Edyは2001 に開始され（WAONとnanacoの双方に先行）、プラットフォーム型の加盟店受入戦略を追求した。FeliCaプリペイド受入を希望する加盟店は、Edyリーダーを設置し、Rakuten Edyと契約できる。このため、WAONやnanacoより広い加盟店横断の受入を実現したが、同じグループ小売の経済的アンカーは持たなかった。
+Edy（[[payment-firms/rakuten-edy|Rakuten Edy]]が運営）は、特定小売グループの自社店舗網に**依存しない**最も近いピアである。Edyは2001 に開始され（WAONとnanacoの双方に先行）、プラットフォーム型の加盟店受入戦略を追求した。FeliCaプリペイド受入を希望する加盟店は、Edyリーダーを設置し、Rakuten Edyと契約できる。このため、WAONやnanacoより広い加盟店横断の受入を実現したが、同じグループ小売の経済的アンカーは持たなかった。
 
 | 次元 | WAON | nanaco | Edy |
 |---|---|---|---|
@@ -146,13 +146,13 @@ WAONとnanacoにとって、**グループ銀行との結びつき**の経済的
 - [[payments/funds-transfer-vs-prepaid-boundary]]
 - [[payments/famipay-valucreate-strategy]]
 - [[payments/japan-code-payment-competitive-map]]
-- [[JapanFG/rakuten-edy]]
-- [[JapanFG/aeon-financial-service]]
-- [[JapanFG/aeon-bank]]
-- [[JapanFG/seven-card-service]]
-- [[JapanFG/seven-payment-service]]
-- [[JapanFG/seven-bank]]
-- [[JapanFG/paypay]]
+- [[payment-firms/rakuten-edy]]
+- [[card-issuers/aeon-financial-service]]
+- [[card-issuers/aeon-bank]]
+- [[card-issuers/seven-card-service]]
+- [[payment-firms/seven-payment-service]]
+- [[regional-banks/seven-bank]]
+- [[payment-firms/paypay]]
 - [[retail/aeon-group]]
 - [[retail/seven-and-i-hd]]
 - [[loyalty/japan-points-landscape]]

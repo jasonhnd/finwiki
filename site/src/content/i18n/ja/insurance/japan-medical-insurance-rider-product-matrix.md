@@ -12,13 +12,13 @@ translated_at: 2026-06-02T14:01:20.907Z
 
 ## 要約
 
-日本の医療保険は、より広い生命保険業界の中にある専門フランチャイズである。外資系 1 社（[[JapanFG/aflac-japan|Aflac Japan]]）が歴史的に新規がん保険市場のおよそ 70% を保有し、他の外資系（[[JapanFG/aia-life-japan|AIA Japan]]、[[JapanFG/manulife-japan|Manulife Japan]]、[[JapanFG/prudential-japan|Prudential Japan]]）も大きな医療 / 保障契約簿を運営している。損保大手 3 グループの生保子会社プラットフォーム（[[JapanFG/tokio-marine-nichido-life|Tokio Marine & Nichido Life]] / Anshin Seimei 系列、[[JapanFG/sompo-himawari-life|Sompo Himawari Life]]、[[JapanFG/mitsui-sumitomo-aioi-life|Mitsui Sumitomo Aioi Life]]）は医療 / 特約シェアを競い、生保大手 4 相互会社（[[JapanFG/nippon-life|Nippon Life]]、[[JapanFG/dai-ichi-life|Dai-ichi Life]]、[[JapanFG/sumitomo-life|Sumitomo Life]]、[[JapanFG/meiji-yasuda|Meiji Yasuda]]）は医療特約を終身・定期フランチャイズに組み込む。商品提供は、競争ポジションを決める少数の軸へ整理できる。(1) 主要ライン：がん特化（Aflac 優位）、医療（入院日額 + 手術一時金）、または特約（終身 / 定期の主契約に付帯）。(2) 保険料払込構造：終身払、定期払、短期払設計。(3) 給付タイプ：一時金、入院日額、実損填補、またはその組み合わせ。(4) 先進医療特約：ほぼ普遍的だが保障上限が異なる。(5) チャネル構成：専属販売部隊、代理店、銀行窓販、オンラインダイレクト。(6) 解約返戻金設計：貯蓄型（キャッシュバリューあり）と純保障型（解約返戻金なし）。競争の焦点は、がん（Aflac vs Sompo Himawari vs AIA vs MS Aioi）、純医療（Aflac vs Sompo Himawari vs Tokio Marine Anshin vs Orix / マトリックス外の Medicare 型プレイヤー）、医療特約付帯型（生保大手 4  vs 外資系）にある。
+日本の医療保険は、より広い生命保険業界の中にある専門フランチャイズである。外資系 1 社（[[life-insurers/aflac-japan|Aflac Japan]]）が歴史的に新規がん保険市場のおよそ 70% を保有し、他の外資系（[[life-insurers/aia-life-japan|AIA Japan]]、[[life-insurers/manulife-japan|Manulife Japan]]、[[life-insurers/prudential-japan|Prudential Japan]]）も大きな医療 / 保障契約簿を運営している。損保大手 3 グループの生保子会社プラットフォーム（[[life-insurers/tokio-marine-nichido-life|Tokio Marine & Nichido Life]] / Anshin Seimei 系列、[[life-insurers/sompo-himawari-life|Sompo Himawari Life]]、[[life-insurers/mitsui-sumitomo-aioi-life|Mitsui Sumitomo Aioi Life]]）は医療 / 特約シェアを競い、生保大手 4 相互会社（[[life-insurers/nippon-life|Nippon Life]]、[[life-insurers/dai-ichi-life|Dai-ichi Life]]、[[life-insurers/sumitomo-life|Sumitomo Life]]、[[life-insurers/meiji-yasuda|Meiji Yasuda]]）は医療特約を終身・定期フランチャイズに組み込む。商品提供は、競争ポジションを決める少数の軸へ整理できる。(1) 主要ライン：がん特化（Aflac 優位）、医療（入院日額 + 手術一時金）、または特約（終身 / 定期の主契約に付帯）。(2) 保険料払込構造：終身払、定期払、短期払設計。(3) 給付タイプ：一時金、入院日額、実損填補、またはその組み合わせ。(4) 先進医療特約：ほぼ普遍的だが保障上限が異なる。(5) チャネル構成：専属販売部隊、代理店、銀行窓販、オンラインダイレクト。(6) 解約返戻金設計：貯蓄型（キャッシュバリューあり）と純保障型（解約返戻金なし）。競争の焦点は、がん（Aflac vs Sompo Himawari vs AIA vs MS Aioi）、純医療（Aflac vs Sompo Himawari vs Tokio Marine Anshin vs Orix / マトリックス外の Medicare 型プレイヤー）、医療特約付帯型（生保大手 4  vs 外資系）にある。
 
 ## ウィキ上の位置づけ
 
 このマトリックスは [[insurance/INDEX|insurance INDEX]] の配下にあり、[[insurance/medical-cancer-insurance-product-economics|the medical / cancer insurance product economics entry]] の商品面の補完ページである。[[insurance/japan-life-insurance-big-four|the Japan life insurance big four entry]]、[[insurance/japan-life-big-four-overlay-comparison-matrix|the life big-four overlay matrix]]、[[insurance/foreign-life-affiliate-japan-positioning|foreign-life-affiliate positioning]]、[[insurance/internet-life-insurance-business-model|the internet life insurance business model]]、[[insurance/life-insurance-channel-mix|the life insurance channel mix]]、[[insurance/insurance-agency-and-brokerage-japan|the agency / brokerage Japan landscape]]、[[insurance/bancassurance-economics-japan|bancassurance economics Japan]]、[[insurance/japan-bancassurance-distribution-overlay-matrix|the bancassurance distribution overlay matrix]] とあわせて読む。協同組織圏の代替文脈は [[insurance/japan-kyosai-vs-fsa-insurance-perimeter-matrix|the kyosai vs FSA perimeter matrix]]、ライフプランナーチャネルの文脈は [[insurance/sony-life-group-life-operating-model|the Sony Life group life operating model]] を参照する。
 
-このマトリックスで基準となる保険会社アンカーは、[[JapanFG/aflac-japan|Aflac Japan]]、[[JapanFG/aia-life-japan|AIA Japan]]、[[JapanFG/manulife-japan|Manulife Japan]]、[[JapanFG/prudential-japan|Prudential Japan]]、[[JapanFG/axa-japan|AXA Japan]]、[[JapanFG/tokio-marine-nichido-life|Tokio Marine & Nichido Life]]（Anshin Seimei のフランチャイズ史を含む）、[[JapanFG/sompo-himawari-life|Sompo Himawari Life]]、[[JapanFG/mitsui-sumitomo-aioi-life|Mitsui Sumitomo Aioi Life]]、[[JapanFG/nippon-life|Nippon Life]]、[[JapanFG/dai-ichi-life|Dai-ichi Life]]、[[JapanFG/sumitomo-life|Sumitomo Life]]、[[JapanFG/meiji-yasuda|Meiji Yasuda]]、[[JapanFG/sony-life|Sony Life]]、[[JapanFG/lifenet|Lifenet]]、[[JapanFG/sbi-life|SBI Life]]、[[JapanFG/kampo-life|Kampo Life]] である。
+このマトリックスで基準となる保険会社アンカーは、[[life-insurers/aflac-japan|Aflac Japan]]、[[life-insurers/aia-life-japan|AIA Japan]]、[[life-insurers/manulife-japan|Manulife Japan]]、[[life-insurers/prudential-japan|Prudential Japan]]、[[life-insurers/axa-japan|AXA Japan]]、[[life-insurers/tokio-marine-nichido-life|Tokio Marine & Nichido Life]]（Anshin Seimei のフランチャイズ史を含む）、[[life-insurers/sompo-himawari-life|Sompo Himawari Life]]、[[life-insurers/mitsui-sumitomo-aioi-life|Mitsui Sumitomo Aioi Life]]、[[life-insurers/nippon-life|Nippon Life]]、[[life-insurers/dai-ichi-life|Dai-ichi Life]]、[[life-insurers/sumitomo-life|Sumitomo Life]]、[[life-insurers/meiji-yasuda|Meiji Yasuda]]、[[life-insurers/sony-life|Sony Life]]、[[life-insurers/lifenet|Lifenet]]、[[life-insurers/sbi-life|SBI Life]]、[[life-insurers/kampo-life|Kampo Life]] である。
 
 ## このマトリックスが重要な理由
 
@@ -32,31 +32,31 @@ translated_at: 2026-06-02T14:01:20.907Z
 
 ## Aflac Japan — がん特化の優位性と現代的な医療メニュー
 
-[[JapanFG/aflac-japan|Aflac Japan]]（Aflac Life Insurance Japan / アフラック生命保険）は、日本のがん保険における歴史的かつ現在のリーダーである。構造的特徴は、がん（がん保険）に特化した商品ライン、長期のゆうちょ銀行提携を含む広い代理店・銀行窓販網、がん給付を組み込むまたは単独で成立する補完的な医療（医療保険）商品、専属販売部隊 / 代理店のハイブリッド流通である。Aflac は 1974 に日本の原型的ながん保険商品を構築し、現代的メニューでは特約（がん治療一時金、がん治療中の入院日額給付、先進医療、通院がん治療給付）による差別化が最も大きい。保険料払込構造は通常、終身払または短期払であり、その選択が平準保険料カーブに影響する。
+[[life-insurers/aflac-japan|Aflac Japan]]（Aflac Life Insurance Japan / アフラック生命保険）は、日本のがん保険における歴史的かつ現在のリーダーである。構造的特徴は、がん（がん保険）に特化した商品ライン、長期のゆうちょ銀行提携を含む広い代理店・銀行窓販網、がん給付を組み込むまたは単独で成立する補完的な医療（医療保険）商品、専属販売部隊 / 代理店のハイブリッド流通である。Aflac は 1974 に日本の原型的ながん保険商品を構築し、現代的メニューでは特約（がん治療一時金、がん治療中の入院日額給付、先進医療、通院がん治療給付）による差別化が最も大きい。保険料払込構造は通常、終身払または短期払であり、その選択が平準保険料カーブに影響する。
 
 ## AIA Japan — 複数ラインの保障フランチャイズ
 
-[[JapanFG/aia-life-japan|AIA Japan]]（AIA グループの日本子会社、旧 AIG Star Life 系譜）は、がん、医療、定期、終身、特約メニューを備えた総合保障フランチャイズを運営する。日本における AIA の競争ポジションは、代理店流通、提携銀行の銀行窓販、金融アドバイザー / ライフプランナー隣接の販売部隊を組み合わせる点にある。医療 / がん契約簿は新契約価値の主要な貢献要素である。
+[[life-insurers/aia-life-japan|AIA Japan]]（AIA グループの日本子会社、旧 AIG Star Life 系譜）は、がん、医療、定期、終身、特約メニューを備えた総合保障フランチャイズを運営する。日本における AIA の競争ポジションは、代理店流通、提携銀行の銀行窓販、金融アドバイザー / ライフプランナー隣接の販売部隊を組み合わせる点にある。医療 / がん契約簿は新契約価値の主要な貢献要素である。
 
 ## Tokio Marine Anshin 系列 — 損保大手 3  の生保関連会社
 
-[[JapanFG/tokio-marine-nichido-life|Tokio Marine & Nichido Life]]（Anshin Seimei レガシー）は、[[JapanFG/tokio-marine|Tokio Marine Holdings]] 損保グループの生保関連会社である。医療 / がんフランチャイズは歴史的に「メディカル Kit R」シリーズと後継商品群を軸とし、医療では Aflac と、クロスライン流通では Sompo Himawari と直接競合してきた。損保親会社の全国代理店ネットワークが構造的な流通上の優位である。
+[[life-insurers/tokio-marine-nichido-life|Tokio Marine & Nichido Life]]（Anshin Seimei レガシー）は、[[non-life-insurers/tokio-marine|Tokio Marine Holdings]] 損保グループの生保関連会社である。医療 / がんフランチャイズは歴史的に「メディカル Kit R」シリーズと後継商品群を軸とし、医療では Aflac と、クロスライン流通では Sompo Himawari と直接競合してきた。損保親会社の全国代理店ネットワークが構造的な流通上の優位である。
 
 ## Sompo Himawari Life — non-life big-3 life affiliate
 
-[[JapanFG/sompo-himawari-life|Sompo Himawari Life]]（損保ジャパン日本興亜ひまわり生命 / 現 Sompo Himawari Life）は [[JapanFG/sompo|Sompo Holdings]] の生保子会社である。医療分野の構造的特徴は、がん、三大疾病保障、女性疾病医療、先進医療特約を含む強い特約商品フランチャイズである。流通は専属販売部隊、代理店、提携銀行チャネルを組み合わせる。
+[[life-insurers/sompo-himawari-life|Sompo Himawari Life]]（損保ジャパン日本興亜ひまわり生命 / 現 Sompo Himawari Life）は [[non-life-insurers/sompo|Sompo Holdings]] の生保子会社である。医療分野の構造的特徴は、がん、三大疾病保障、女性疾病医療、先進医療特約を含む強い特約商品フランチャイズである。流通は専属販売部隊、代理店、提携銀行チャネルを組み合わせる。
 
 ## Mitsui Sumitomo Aioi Life — MS&AD 生保関連会社
 
-[[JapanFG/mitsui-sumitomo-aioi-life|Mitsui Sumitomo Aioi Life]] は [[JapanFG/msad|MS&AD]] グループの生保子会社である。医療 / 特約フランチャイズは MS&AD の流通エコシステム内にあり、[[JapanFG/mitsui-sumitomo-insurance|MSI]] と [[JapanFG/aioi-nissay-dowa-insurance|ADI]] の両方の代理店ネットワークにアクセスできる。商品メニューは医療、がん特約、定期、終身、個人年金を含む。
+[[life-insurers/mitsui-sumitomo-aioi-life|Mitsui Sumitomo Aioi Life]] は [[non-life-insurers/msad|MS&AD]] グループの生保子会社である。医療 / 特約フランチャイズは MS&AD の流通エコシステム内にあり、[[non-life-insurers/mitsui-sumitomo-insurance|MSI]] と [[non-life-insurers/aioi-nissay-dowa-insurance|ADI]] の両方の代理店ネットワークにアクセスできる。商品メニューは医療、がん特約、定期、終身、個人年金を含む。
 
 ## Aflac と AIA 以外の外資系 — Manulife, Prudential, MetLife, AXA
 
-[[JapanFG/manulife-japan|Manulife Japan]] と [[JapanFG/prudential-japan|Prudential Japan]] は、ライフプランナー / FA 型販売部隊を持つ保障主導フランチャイズを運営する。医療 / 特約商品メニューは、単体医療またはがん商品ではなく、医療特約付きの終身・定期保障を軸とする。[[JapanFG/axa-japan|AXA Japan]]（旧アクサ生命）はマルチチャネルの医療 / 保障フランチャイズを運営する。MetLife Japan、AIG Life Japan、小規模な外資系関連会社が競争集合を補完する。
+[[life-insurers/manulife-japan|Manulife Japan]] と [[life-insurers/prudential-japan|Prudential Japan]] は、ライフプランナー / FA 型販売部隊を持つ保障主導フランチャイズを運営する。医療 / 特約商品メニューは、単体医療またはがん商品ではなく、医療特約付きの終身・定期保障を軸とする。[[life-insurers/axa-japan|AXA Japan]]（旧アクサ生命）はマルチチャネルの医療 / 保障フランチャイズを運営する。MetLife Japan、AIG Life Japan、小規模な外資系関連会社が競争集合を補完する。
 
 ## 生保大手 4  相互会社 — 終身保険内の医療特約バンドル
 
-大手 4 相互会社 — [[JapanFG/nippon-life|Nippon Life]]、[[JapanFG/dai-ichi-life|Dai-ichi Life]]、[[JapanFG/sumitomo-life|Sumitomo Life]]、[[JapanFG/meiji-yasuda|Meiji Yasuda]] — は、主に専属販売部隊を通じて、終身または定期の主契約に付帯する特約として医療保障を販売する。Sumitomo Life の Vitality ブランドのウェルネス連動商品は 4 社の中で最も差別化された構造的特徴であり、他社は特約メニューの広さ、販売部隊への信頼、法人グループへのクロスセルで競う。各社は、専門保障を好むセグメント向けに、代理店・銀行窓販ルートで単体医療 / がん商品も運営する。
+大手 4 相互会社 — [[life-insurers/nippon-life|Nippon Life]]、[[life-insurers/dai-ichi-life|Dai-ichi Life]]、[[life-insurers/sumitomo-life|Sumitomo Life]]、[[life-insurers/meiji-yasuda|Meiji Yasuda]] — は、主に専属販売部隊を通じて、終身または定期の主契約に付帯する特約として医療保障を販売する。Sumitomo Life の Vitality ブランドのウェルネス連動商品は 4 社の中で最も差別化された構造的特徴であり、他社は特約メニューの広さ、販売部隊への信頼、法人グループへのクロスセルで競う。各社は、専門保障を好むセグメント向けに、代理店・銀行窓販ルートで単体医療 / がん商品も運営する。
 
 ## 大型比較マトリックス表
 
@@ -66,19 +66,19 @@ translated_at: 2026-06-02T14:01:20.907Z
 
 | 保険会社 | グループ親会社 | 主要な医療 / がんフランチャイズの傾き | 独自の構造的特徴 |
 |---|---|---|---|
-| [[JapanFG/aflac-japan|Aflac Japan]] | Aflac Inc.（米国親会社） | がん特化で支配的；医療特化 | 新規がん市場シェア ~70%；ゆうちょ銀行提携；長い代理店 / 法人歴 |
-| [[JapanFG/aia-life-japan|AIA Japan]] | AIA グループ (HK) | がん / 医療を含む複数ライン保障 | 代理店 + 銀行窓販 + FA のハイブリッド流通 |
-| [[JapanFG/tokio-marine-nichido-life|Tokio Marine & Nichido Life]] (Anshin lineage) | [[JapanFG/tokio-marine|Tokio Marine HD]] | 医療特化 + 保障バンドル | 損保大手 3  の代理店ネットワーク活用 |
-| [[JapanFG/sompo-himawari-life|Sompo Himawari Life]] | [[JapanFG/sompo|Sompo HD]] | 医療 / がん特約の強み | 損保大手 3  のクロスチャネル到達力 |
-| [[JapanFG/mitsui-sumitomo-aioi-life|Mitsui Sumitomo Aioi Life]] | [[JapanFG/msad|MS&AD]] | 複数ラインの医療 / 年金 / 定期 | 国内二重代理店ネットワーク（MSI + ADI） |
-| [[JapanFG/manulife-japan|Manulife Japan]] | Manulife (Canada) | 保障主導 + 医療特約 | ライフプランナー / FA 販売部隊 |
-| [[JapanFG/prudential-japan|Prudential Japan]] | Prudential Financial (US) | 保障主導 + 医療特約 | ライフプランナー / Gibraltar 系譜 |
-| [[JapanFG/axa-japan|AXA Japan]] | AXA グループ (FR) | マルチチャネル保障 / 医療 | マルチチャネル流通 |
-| [[JapanFG/nippon-life|Nippon Life]] | 相互会社 | 終身 / 定期を中核とする医療特約 | 日本最大級の専属販売部隊 |
-| [[JapanFG/dai-ichi-life|Dai-ichi Life]] | 上場 HD | 終身 / 定期 + Frontier / Neo First 商品メニューへの医療特約 | マルチプラットフォーム・チャネル構造 |
-| [[JapanFG/sumitomo-life|Sumitomo Life]] | 相互会社 | 医療特約 + Vitality ウェルネス連動商品 | ウェルネス連動による構造的差別化 |
-| [[JapanFG/meiji-yasuda|Meiji Yasuda]] | 相互会社 | 関係性ベースの保障への医療特約 | 長期関係 / 法人グループ重視 |
-| [[JapanFG/kampo-life|Kampo Life]] | Japan Post group | 既存生保契約簿への医療特約 | ゆうちょ銀行流通制約 |
+| [[life-insurers/aflac-japan|Aflac Japan]] | Aflac Inc.（米国親会社） | がん特化で支配的；医療特化 | 新規がん市場シェア ~70%；ゆうちょ銀行提携；長い代理店 / 法人歴 |
+| [[life-insurers/aia-life-japan|AIA Japan]] | AIA グループ (HK) | がん / 医療を含む複数ライン保障 | 代理店 + 銀行窓販 + FA のハイブリッド流通 |
+| [[life-insurers/tokio-marine-nichido-life|Tokio Marine & Nichido Life]] (Anshin lineage) | [[non-life-insurers/tokio-marine|Tokio Marine HD]] | 医療特化 + 保障バンドル | 損保大手 3  の代理店ネットワーク活用 |
+| [[life-insurers/sompo-himawari-life|Sompo Himawari Life]] | [[non-life-insurers/sompo|Sompo HD]] | 医療 / がん特約の強み | 損保大手 3  のクロスチャネル到達力 |
+| [[life-insurers/mitsui-sumitomo-aioi-life|Mitsui Sumitomo Aioi Life]] | [[non-life-insurers/msad|MS&AD]] | 複数ラインの医療 / 年金 / 定期 | 国内二重代理店ネットワーク（MSI + ADI） |
+| [[life-insurers/manulife-japan|Manulife Japan]] | Manulife (Canada) | 保障主導 + 医療特約 | ライフプランナー / FA 販売部隊 |
+| [[life-insurers/prudential-japan|Prudential Japan]] | Prudential Financial (US) | 保障主導 + 医療特約 | ライフプランナー / Gibraltar 系譜 |
+| [[life-insurers/axa-japan|AXA Japan]] | AXA グループ (FR) | マルチチャネル保障 / 医療 | マルチチャネル流通 |
+| [[life-insurers/nippon-life|Nippon Life]] | 相互会社 | 終身 / 定期を中核とする医療特約 | 日本最大級の専属販売部隊 |
+| [[life-insurers/dai-ichi-life|Dai-ichi Life]] | 上場 HD | 終身 / 定期 + Frontier / Neo First 商品メニューへの医療特約 | マルチプラットフォーム・チャネル構造 |
+| [[life-insurers/sumitomo-life|Sumitomo Life]] | 相互会社 | 医療特約 + Vitality ウェルネス連動商品 | ウェルネス連動による構造的差別化 |
+| [[life-insurers/meiji-yasuda|Meiji Yasuda]] | 相互会社 | 関係性ベースの保障への医療特約 | 長期関係 / 法人グループ重視 |
+| [[life-insurers/kampo-life|Kampo Life]] | Japan Post group | 既存生保契約簿への医療特約 | ゆうちょ銀行流通制約 |
 
 ### 主要商品ライン — がん / 医療 / 特約の分担
 
@@ -131,7 +131,7 @@ translated_at: 2026-06-02T14:01:20.907Z
 | 銀行窓販（メガバンク / 地銀 / 日本郵政） | 重要；ゆうちょ銀行提携 | 重要 | 重要 | 重要 | 重要 | 選択的 | 重要（Frontier 等の類似生保関連会社経由） | 該当なし |
 | 来店型保険ショップ | 重要 | 重要 | 重要 | 重要 | 重要 | 選択的 | 選択的 | 該当なし |
 | 法人 / 勤務先団体 | 提供あり | 提供あり | 提供あり | 提供あり | 提供あり | 選択的 | 重要 | 該当なし |
-| オンラインダイレクト（web） | 限定的 | 選択的 | 選択的 | 選択的 | 選択的 | 限定的 | 選択的 | [[JapanFG/lifenet|Lifenet]]、[[JapanFG/sbi-life|SBI Life]] がこのレーンで支配的 |
+| オンラインダイレクト（web） | 限定的 | 選択的 | 選択的 | 選択的 | 選択的 | 限定的 | 選択的 | [[life-insurers/lifenet|Lifenet]]、[[life-insurers/sbi-life|SBI Life]] がこのレーンで支配的 |
 
 ### 引受・価格設定構造
 
@@ -183,7 +183,7 @@ translated_at: 2026-06-02T14:01:20.907Z
 | Sompo Himawari | 選択的 | 特約付き外貨建て終身保険あり |
 | MS Aioi | 選択的 | 特約付き外貨建て終身保険あり |
 | Manulife / Prudential | 重要 | 医療特約付き USD 建て終身保険、銀行窓販ルート |
-| 生保大手 4  相互会社 | 選択的 | 中核相互会社本体よりも銀行窓販関連会社（[[JapanFG/dai-ichi-frontier-life|Dai-ichi Frontier Life]]、[[JapanFG/ms-primary-life|MS Primary Life]]）経由で販売 |
+| 生保大手 4  相互会社 | 選択的 | 中核相互会社本体よりも銀行窓販関連会社（[[life-insurers/dai-ichi-frontier-life|Dai-ichi Frontier Life]]、[[life-insurers/ms-primary-life|MS Primary Life]]）経由で販売 |
 | Kampo Life | 限定的 | 商品認可上の制約 |
 
 ### 概念的な市場シェアシグナル
@@ -194,7 +194,7 @@ translated_at: 2026-06-02T14:01:20.907Z
 | 新規医療保険市場 | Aflac / Sompo Himawari / Orix（このマトリックス外）が競合 | Tokio Marine Anshin lineage, MS Aioi, AIA, 生保大手 4  |
 | 医療特約付き終身保険 | 生保大手 4  相互会社が責任準備金で支配的 | 外資系は新契約に強い |
 | 定期 + 医療特約 | 生保大手 4  + 外資系に分散 | ライフプランナー / FA チャネルが強い |
-| インターネットダイレクト医療 / がん | [[JapanFG/lifenet|Lifenet]]、[[JapanFG/sbi-life|SBI Life]] がシェア拡大 | 既存大手からの選択的提供 |
+| インターネットダイレクト医療 / がん | [[life-insurers/lifenet|Lifenet]]、[[life-insurers/sbi-life|SBI Life]] がシェア拡大 | 既存大手からの選択的提供 |
 | 銀行窓販医療 / がん | Aflac（ゆうちょ銀行）、外貨建て年金キャリア | 外貨建て医療バンドルの主要チャネル |
 
 ## 歴史的・構造的文脈
@@ -207,9 +207,9 @@ translated_at: 2026-06-02T14:01:20.907Z
 - **2001 以降のゆうちょ銀行流通提携** は、ゆうちょ銀行の窓口ネットワークを通じて Aflac のがん保険到達範囲を拡大した。
 - **2000年代後半以降の先進医療特約の標準化** は、高い実費上限を持つ先進医療特約を業界標準の追加特約にした。
 - **2010年代の短期払商品波** は、退職前に保険料払込を終え、終身保障は継続する 60払込 / 65払込の平準保険料構造を提供した。
-- **2010年代の外貨建てバンドル拡大** は、[[JapanFG/dai-ichi-frontier-life|Dai-ichi Frontier Life]]、[[JapanFG/ms-primary-life|MS Primary Life]]、Manulife などによる銀行窓販を通じて、外貨建て終身保険と医療特約を組み合わせた。
+- **2010年代の外貨建てバンドル拡大** は、[[life-insurers/dai-ichi-frontier-life|Dai-ichi Frontier Life]]、[[life-insurers/ms-primary-life|MS Primary Life]]、Manulife などによる銀行窓販を通じて、外貨建て終身保険と医療特約を組み合わせた。
 - **2015 以降の引受基準緩和拡大** は、標準引受では謝絶されていた高齢者 / 軽度の健康上の問題がある申込者にも医療 / がん保障を開いた。
-- **2020年代のウェルネス連動商品**（[[JapanFG/sumitomo-life|Sumitomo Life]] Vitality など）は、健康行動と生体データを保険料割引に結びつける。
+- **2020年代のウェルネス連動商品**（[[life-insurers/sumitomo-life|Sumitomo Life]] Vitality など）は、健康行動と生体データを保険料割引に結びつける。
 - **2025  ESR 導入** は、FSA の経済価値ベースのソルベンシー制度の下で、すべての FSA 圏内保険会社における医療 / がん責任キャッシュフローの資本処理に影響する。[[insurance/economic-value-based-solvency|economic-value-based solvency]] と [[insurance/esr-economic-value-solvency|ESR]] を参照。
 
 ## 判断での使い方
@@ -220,7 +220,7 @@ translated_at: 2026-06-02T14:01:20.907Z
 - **解約返戻金設計。** 現代的な医療 / がん商品は、大きな解約返戻金を持たない純保障として設計される。古い契約には解約返戻金が組み込まれている場合がある。この選択は保険料カーブと税務処理に影響する。
 - **終身 vs 短期払。** 短期払商品は、初期年の保険料が高くなる代わりに退職前に保険料払込を終える。解約返戻金の推移と保障コストの経済性は異なる。
 - **外貨建て医療バンドル。** 医療特約付き USD 建て終身保険は、為替リスクを契約者へ移転する一方、より高いキャッシュバリュー予測を提示する。銀行窓販ルートが主要チャネルである。
-- **チャネル適合性。** 生保大手 4  の医療特約では専属販売部隊が支配的チャネルであり、外資系の単体医療 / がんでは代理店 / ショップが支配的である。外貨建てバンドルは銀行窓販が支配し、オンラインダイレクトは [[JapanFG/lifenet|Lifenet]] / [[JapanFG/sbi-life|SBI Life]] のレーンである。
+- **チャネル適合性。** 生保大手 4  の医療特約では専属販売部隊が支配的チャネルであり、外資系の単体医療 / がんでは代理店 / ショップが支配的である。外貨建てバンドルは銀行窓販が支配し、オンラインダイレクトは [[life-insurers/lifenet|Lifenet]] / [[life-insurers/sbi-life|SBI Life]] のレーンである。
 - **共済圏の代替。** 多くの家計は、FSA 圏内の医療 / がん保障と共済医療特約（JA共済 / Zenrosai / Kenmin-kyosai / COOP共済）の両方を保有する。協同組織圏の上乗せについては [[insurance/japan-kyosai-vs-fsa-insurance-perimeter-matrix|the kyosai vs FSA perimeter matrix]] を参照。
 - **MHLW 公的医療保険との相互作用。** 日本の医療保険商品は、MHLW が高額療養費制度を通じて自己負担を抑える [[insurance/medical-cancer-insurance-product-economics|public health insurance system]]（公的医療保険）の上に乗る。補完保障商品の設計は、この基盤層を前提とする。
 
@@ -231,7 +231,7 @@ translated_at: 2026-06-02T14:01:20.907Z
 - **保険会社名の変遷。** 複数の保険会社は改称または合併している（Anshin Seimei → Tokio Marine & Nichido Life 系譜；Sompo Japan Nipponkoa Himawari Life → Sompo Himawari Life；AIG Star Life → AIA Japan 系譜；Sumitomo Life Vitality はウェルネス連動商品ラインであり、別保険会社ではない）。このマトリックスは現在の法人名を使う。
 - **第三分野。** 医療、がん、介護商品は、規制上、生命保険（第一分野）と損害保険（第二分野）の間にある第三分野に位置する。FSA 圏内のすべての生命保険会社（および生保子会社を通じた損保会社）が参加する。
 - **外貨建て商品。** 医療特約付き外貨建て終身保険は、為替リスクを契約者へ移転する。コンダクトルールは、特に高齢顧客に対して、これらの商品に専用の適合性確認と説明を求める。[[insurance/bancassurance-economics-japan|bancassurance economics Japan]] を参照。
-- **オンラインダイレクトとの対照。** [[JapanFG/lifenet|Lifenet]] と [[JapanFG/sbi-life|SBI Life]] は上のがん特化マトリックスでは主要競合として現れないが、より低い保険料水準の純医療 / がん特化では成長中のプレイヤーである。[[insurance/internet-life-insurance-business-model|the internet life model]] を参照。
+- **オンラインダイレクトとの対照。** [[life-insurers/lifenet|Lifenet]] と [[life-insurers/sbi-life|SBI Life]] は上のがん特化マトリックスでは主要競合として現れないが、より低い保険料水準の純医療 / がん特化では成長中のプレイヤーである。[[insurance/internet-life-insurance-business-model|the internet life model]] を参照。
 - **ウェルネス連動商品。** Vitality などのウェルネス連動商品メニューは、行動に保険料割引で報いる。この構造的特徴は長期の価格設定と継続率に影響するが、商品ライン分類は変えない。
 - **解約返戻金と税務。** 医療 / がん商品の解約返戻金は一般に設計上抑制される。終身保険ベースのキャッシュバリュー税務処理は標準的な所得税コードに従う。
 - **公的医療保険の基盤。** 日本の補完的医療商品は、公的医療保険の基盤を前提とする。高額療養費の上限ルール変更は、補完商品の経済性に影響しうる。
@@ -254,22 +254,22 @@ translated_at: 2026-06-02T14:01:20.907Z
 - [[insurance/economic-value-based-solvency]]
 - [[insurance/esr-economic-value-solvency]]
 - [[insurance/kampo-japan-post-insurance]]
-- [[JapanFG/aflac-japan]]
-- [[JapanFG/aia-life-japan]]
-- [[JapanFG/manulife-japan]]
-- [[JapanFG/prudential-japan]]
-- [[JapanFG/axa-japan]]
-- [[JapanFG/tokio-marine-nichido-life]]
-- [[JapanFG/sompo-himawari-life]]
-- [[JapanFG/mitsui-sumitomo-aioi-life]]
-- [[JapanFG/nippon-life]]
-- [[JapanFG/dai-ichi-life]]
-- [[JapanFG/sumitomo-life]]
-- [[JapanFG/meiji-yasuda]]
-- [[JapanFG/sony-life]]
-- [[JapanFG/lifenet]]
-- [[JapanFG/sbi-life]]
-- [[JapanFG/kampo-life]]
+- [[life-insurers/aflac-japan]]
+- [[life-insurers/aia-life-japan]]
+- [[life-insurers/manulife-japan]]
+- [[life-insurers/prudential-japan]]
+- [[life-insurers/axa-japan]]
+- [[life-insurers/tokio-marine-nichido-life]]
+- [[life-insurers/sompo-himawari-life]]
+- [[life-insurers/mitsui-sumitomo-aioi-life]]
+- [[life-insurers/nippon-life]]
+- [[life-insurers/dai-ichi-life]]
+- [[life-insurers/sumitomo-life]]
+- [[life-insurers/meiji-yasuda]]
+- [[life-insurers/sony-life]]
+- [[life-insurers/lifenet]]
+- [[life-insurers/sbi-life]]
+- [[life-insurers/kampo-life]]
 - [[INDEX|FinWiki index]]
 
 ## 出典

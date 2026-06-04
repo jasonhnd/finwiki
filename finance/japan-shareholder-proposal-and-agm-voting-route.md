@@ -27,7 +27,7 @@ sources:
 
 Japan shareholder proposal and AGM voting records connect Companies Act shareholder rights, convocation notice, reference documents, written voting, electronic voting, corporate-governance disclosure, proxy voting, stewardship disclosure, and post-meeting voting results. This page records public record fields for listed-company governance events.
 
-This page belongs to [[finance/INDEX|finance domain]] and links to [[finance/japan-activist-investor-playbook|Japan activist investor playbook]], [[finance/japan-large-shareholding-disclosure|large-shareholding disclosure]], [[finance/japan-fair-disclosure-and-insider-trading-controls|fair disclosure and insider trading controls]], [[finance/japan-mbo-and-squeeze-out-process|Japan MBO and squeeze-out process]], [[finance/japan-tender-offer-process|Japan tender offer process]], [[securities/tokyo-stock-exchange|Tokyo Stock Exchange]], and [[JapanFG/japan-exchange-group|Japan Exchange Group]].
+This page belongs to [[finance/INDEX|finance domain]] and links to [[finance/japan-activist-investor-playbook|Japan activist investor playbook]], [[finance/japan-large-shareholding-disclosure|large-shareholding disclosure]], [[finance/japan-fair-disclosure-and-insider-trading-controls|fair disclosure and insider trading controls]], [[finance/japan-mbo-and-squeeze-out-process|Japan MBO and squeeze-out process]], [[finance/japan-tender-offer-process|Japan tender offer process]], [[securities/tokyo-stock-exchange|Tokyo Stock Exchange]], and [[financial-regulators/japan-exchange-group|Japan Exchange Group]].
 
 ## Route Map
 
@@ -105,7 +105,7 @@ JPX timely disclosure guidebook materials identify listed-company AGM / voting f
 
 ## JapanFG Relevance
 
-Listed JapanFG pages can link AGM / shareholder-proposal records when public filings or issuer materials support the connection. Relevant listed groups include [[JapanFG/mufg]], [[JapanFG/smfg]], [[JapanFG/mizuho-fg]], [[JapanFG/nomura-hd]], [[JapanFG/daiwa-sg]], [[JapanFG/sbi-hd]], [[JapanFG/monex-group]], [[JapanFG/wealthnavi]], and listed regional-bank holding companies.
+Listed JapanFG pages can link AGM / shareholder-proposal records when public filings or issuer materials support the connection. Relevant listed groups include [[megabanks/mufg]], [[megabanks/smfg]], [[megabanks/mizuho-fg]], [[securities-firms/nomura-hd]], [[securities-firms/daiwa-sg]], [[megabanks/sbi-hd]], [[securities-firms/monex-group]], [[payment-firms/wealthnavi]], and listed regional-bank holding companies.
 
 ## Related
 
@@ -116,7 +116,7 @@ Listed JapanFG pages can link AGM / shareholder-proposal records when public fil
 - [[finance/japan-mbo-and-squeeze-out-process]]
 - [[finance/japan-tender-offer-process]]
 - [[securities/tokyo-stock-exchange]]
-- [[JapanFG/japan-exchange-group]]
+- [[financial-regulators/japan-exchange-group]]
 - [[securities/japan-ipo-listing-disclosure-route]]
 - [[securities/japan-underwriting-market-structure]]
 - [[INDEX|FinWiki index]]

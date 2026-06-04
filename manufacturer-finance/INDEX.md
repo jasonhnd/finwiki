@@ -41,7 +41,7 @@ The three major Japanese auto captives (manufacturer-perspective view, complemen
 
 | Status | Slug | Company | Why it exists in FinWiki |
 |---|---|---|---|
-| ✅ likely | [[manufacturer-finance/toyota-financial-services|toyota-financial-services]] | Toyota Financial Services | Captive auto-finance arm (residual-value, ABS, mobility) as seen from the manufacturer; complements [[JapanFG/toyota-financial|Toyota Financial Services]] |
+| ✅ likely | [[manufacturer-finance/toyota-financial-services|toyota-financial-services]] | Toyota Financial Services | Captive auto-finance arm (residual-value, ABS, mobility) as seen from the manufacturer; complements [[leasing-firms/toyota-financial|Toyota Financial Services]] |
 | ✅ likely | [[manufacturer-finance/honda-finance|honda-finance]] | Honda Finance (AHFC) | Honda-side auto captive (AHFC, Keepwell Agreement, HFS/AFS brand-split, Honda Auto Receivables ABS) |
 | ✅ likely | [[manufacturer-finance/nissan-financial-services|nissan-financial-services]] | Nissan Financial Services (NMAC) | Nissan-side auto captive (NMAC LLC, Infiniti Financial Services, NARC/NARF securitization, floorplan) |
 
@@ -63,8 +63,8 @@ Underlying industrial borrowers and parent companies that finance pages point ba
 
 | Status | Slug | Company | Why it exists in FinWiki |
 |---|---|---|---|
-| ✅ likely | [[manufacturer-finance/toyota-motor|toyota-motor]] | Toyota Motor Corporation | Parent company and strategic context for [[JapanFG/toyota-financial|Toyota Financial Services]] |
-| ✅ likely | [[manufacturer-finance/seiko-epson|seiko-epson]] | Seiko Epson Corporation | Nagano precision/electronics anchor referenced from [[JapanFG/hachijuni-bank|Hachijuni Bank]] |
+| ✅ likely | [[manufacturer-finance/toyota-motor|toyota-motor]] | Toyota Motor Corporation | Parent company and strategic context for [[leasing-firms/toyota-financial|Toyota Financial Services]] |
+| ✅ likely | [[manufacturer-finance/seiko-epson|seiko-epson]] | Seiko Epson Corporation | Nagano precision/electronics anchor referenced from [[regional-banks/hachijuni-bank|Hachijuni Bank]] |
 
 ## Expansion rules
 

@@ -1,0 +1,99 @@
+{
+  "schema_version": "1.0",
+  "slug": "foreign-financial-institutions/euroclear-bank-japan",
+  "source_path": "foreign-financial-institutions/euroclear-bank-japan.md",
+  "url": "https://finwiki.zksc.io/foreign-financial-institutions/euroclear-bank-japan",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/foreign-financial-institutions/euroclear-bank-japan.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/foreign-financial-institutions/euroclear-bank-japan.md",
+  "domain": "foreign-financial-institutions",
+  "title": "ユーロクリア・バンク日本 (Euroclear Bank Japan)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "ユーロクリア・バンク日本 (Euroclear Bank Japan)",
+    "aliases": [
+      "Euroclear Bank Japan",
+      "Euroclear Bank SA/NV Japan Branch",
+      "ユーロクリア・バンク・エスアー・エヌヴェー",
+      "ユーロクリア日本支店"
+    ],
+    "domain": "foreign-financial-institutions",
+    "created": "2026-05-22",
+    "last_updated": "2026-05-22",
+    "last_tended": "2026-05-22",
+    "review_by": "2026-11-22",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "foreign-bank",
+      "ICSD",
+      "custody",
+      "collateral",
+      "settlement"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/en/regulated/licensed/index.html",
+      "https://www.fsa.go.jp/en/regulated/licensed/city.pdf",
+      "https://www.fsa.go.jp/en/regulated/licensed/foreign.pdf",
+      "https://www.euroclear.com/newsandinsights/en/press/2017/2017_mr-14-JapanBranch.html",
+      "https://www.euroclear.com/about/en/business/Disclosuresandquestionnaires.html",
+      "https://www.euroclear.com/newsandinsights/en/Format/CaseStudies/JapaneseGovernmentBonds.html"
+    ]
+  },
+  "summary": "This entry sits under JapanFG and upgrades the Euroclear row in foreign-bank branch registry from registry-only to a standalone ICSD / collateral route. Read it with Clearstream Banking Japan, Japan market infrastructure map, and JGB repo market.",
+  "headings": [
+    "ユーロクリア・バンク日本 (Euroclear Bank Japan)",
+    "Wiki route",
+    "Overview",
+    "Why It Is Not Registry-only",
+    "Function Stack",
+    "Japan Asset Route",
+    "Peer / Contrast Map",
+    "Research Checklist",
+    "Caveats",
+    "Related"
+  ],
+  "body_links": {
+    "wikilinks_count": 14,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/INDEX",
+      "banking/japan-trust-bank-custody-map",
+      "financial-regulators/japan-securities-finance",
+      "foreign-financial-institutions/bny-mellon-japan",
+      "foreign-financial-institutions/clearstream-banking-japan",
+      "foreign-financial-institutions/deutsche-japan",
+      "foreign-financial-institutions/foreign-bank-branches-japan-index",
+      "foreign-financial-institutions/state-street-japan",
+      "money-market/jgb-repo-market-japan",
+      "securities/japan-market-infrastructure-map",
+      "securities/japan-securities-clearing-corp",
+      "securities/japan-securities-depository-center",
+      "securities/japan-stock-lending-market-route"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/banking/japan-trust-bank-custody-map",
+      "https://finwiki.zksc.io/financial-regulators/japan-securities-finance",
+      "https://finwiki.zksc.io/foreign-financial-institutions/bny-mellon-japan",
+      "https://finwiki.zksc.io/foreign-financial-institutions/clearstream-banking-japan",
+      "https://finwiki.zksc.io/foreign-financial-institutions/deutsche-japan",
+      "https://finwiki.zksc.io/foreign-financial-institutions/foreign-bank-branches-japan-index",
+      "https://finwiki.zksc.io/foreign-financial-institutions/state-street-japan",
+      "https://finwiki.zksc.io/money-market/jgb-repo-market-japan",
+      "https://finwiki.zksc.io/securities/japan-market-infrastructure-map",
+      "https://finwiki.zksc.io/securities/japan-securities-clearing-corp",
+      "https://finwiki.zksc.io/securities/japan-securities-depository-center",
+      "https://finwiki.zksc.io/securities/japan-stock-lending-market-route"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 6834,
+    "word_like_tokens": 1035,
+    "inbound_wikilinks_count": 13,
+    "last_modified": "2026-06-04"
+  }
+}

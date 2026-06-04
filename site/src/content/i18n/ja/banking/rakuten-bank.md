@@ -22,7 +22,7 @@ translated_at: 2026-06-02T11:47:37.258Z
 
 - **銀行モデル**: 店舗前提ではなく、オンライン口座・デビット・口座振替・証券連携を主導線にするネット銀行。
 - **エコシステムフック**: 楽天証券との Money Bridge、楽天市場のポイント施策、楽天 Pay との口座連携が、預金獲得と日常利用を押し上げる。
-- **競合群**: [[banking/paypay-bank|PayPay Bank]]、[[banking/au-jibun-bank|auじぶん銀行]]、[[JapanFG/ssnb|住信 SBI ネット銀行]]、[[JapanFG/gmo-aozora-net|GMO あおぞらネット銀行]]。
+- **競合群**: [[banking/paypay-bank|PayPay Bank]]、[[banking/au-jibun-bank|auじぶん銀行]]、[[regional-banks/ssnb|住信 SBI ネット銀行]]、[[payment-firms/gmo-aozora-net|GMO あおぞらネット銀行]]。
 
 ## 戦略的読み解き
 
@@ -32,11 +32,11 @@ translated_at: 2026-06-02T11:47:37.258Z
 
 ## 関連項目
 
-- [[JapanFG/rakuten-fg]]
+- [[payment-firms/rakuten-fg]]
 - [[banking/paypay-bank]]
 - [[banking/au-jibun-bank]]
-- [[JapanFG/ssnb]]
-- [[JapanFG/gmo-aozora-net]]
+- [[regional-banks/ssnb]]
+- [[payment-firms/gmo-aozora-net]]
 - [[banking/minna-bank-baas-model]]
 
 ## 出典

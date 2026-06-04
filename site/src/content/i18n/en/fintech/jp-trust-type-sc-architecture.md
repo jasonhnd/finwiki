@@ -38,7 +38,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it against [[fintech
 
 **(b) The disruptive force of having no transfer cap**: Funds-transfer-operator models such as JPYC are constrained by 1  transfers / 100 万円, which effectively limits them to **retail use**. The trust type can support **B2B large-value settlement (10 億円 to hundreds of billions of yen per 1  transfer)**. This is the core reason Progmat chose the trust-type route.
 
-**(c) Meaning of multi-bank joint entrustment**: In the trust scheme of [[JapanFG/progmat|Progmat Coin]], **multiple banks ([[JapanFG/mufg|MUFG]], [[JapanFG/smfg|SMFG/SMBC]], Mizuho)** act as joint settlors, and **Mitsubishi UFJ Trust 1 社 acts as trustee**. This makes it legally possible to **support customer deposits from 3  megabanks with one unified common stablecoin**, which is the legal foundation of [[multi-megabank-consortium-governance|多巨行联合体治理]].
+**(c) Meaning of multi-bank joint entrustment**: In the trust scheme of [[payment-firms/progmat|Progmat Coin]], **multiple banks ([[megabanks/mufg|MUFG]], [[megabanks/smfg|SMFG/SMBC]], Mizuho)** act as joint settlors, and **Mitsubishi UFJ Trust 1 社 acts as trustee**. This makes it legally possible to **support customer deposits from 3  megabanks with one unified common stablecoin**, which is the legal foundation of [[multi-megabank-consortium-governance|多巨行联合体治理]].
 
 ## Relationship with §501(d)
 

@@ -1,0 +1,101 @@
+{
+  "schema_version": "1.0",
+  "slug": "cooperative-banks/yokohama-kogin-shinkumi",
+  "source_path": "cooperative-banks/yokohama-kogin-shinkumi.md",
+  "url": "https://finwiki.zksc.io/cooperative-banks/yokohama-kogin-shinkumi",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/cooperative-banks/yokohama-kogin-shinkumi.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/cooperative-banks/yokohama-kogin-shinkumi.md",
+  "domain": "cooperative-banks",
+  "title": "横浜幸銀信用組合 (Yokohama Kogin Credit Cooperative)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "横浜幸銀信用組合 (Yokohama Kogin Credit Cooperative)",
+    "aliases": [
+      "Yokohama-Kogin-Shinkumi",
+      "横浜幸銀信組",
+      "横浜幸銀",
+      "Yokohama Kogin Credit Co-operative",
+      "요코하마행은신용조합"
+    ],
+    "domain": "cooperative-banks",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "shinkumi",
+      "credit-cooperative",
+      "cooperative-banking",
+      "kanto",
+      "kanagawa",
+      "yokohama",
+      "ethnic-business-finance",
+      "korean-shinkumi",
+      "operating-company"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/menkyo/menkyoj/shinkumi.xlsx",
+      "https://www.shinyokumiai.or.jp/",
+      "https://www.zenshinkumiren.jp/",
+      "https://www.dic.go.jp/",
+      "https://www.yokohamakougin.co.jp/about/overview.html",
+      "https://www.yokohamakougin.co.jp/disclosure/index.html",
+      "https://ja.wikipedia.org/wiki/横浜幸銀信用組合",
+      "https://ja.wikipedia.org/wiki/商銀信用組合",
+      "中小企業等協同組合法"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index as a 首都圏 (Kanagawa) ethnic-business shinkumi anchor within the 143-cooperative population catalogued in Japan credit cooperative registry. Read it against 大阪商銀信用組合 for the Kansai counterpart in the Korean-business shinkumi network and 全信組連 for the cooperative-syst",
+  "headings": [
+    "横浜幸銀信用組合 (Yokohama Kogin Credit Cooperative)",
+    "Wiki route",
+    "TL;DR",
+    "1. 法人概要",
+    "組合員資格 ^[extracted]",
+    "関東神奈川信組ブロック (registry比較)",
+    "全信組連内の位置付け",
+    "主要業務 ^[extracted]",
+    "5. KPI (公式組合概要)",
+    "6. 監督・規制"
+  ],
+  "body_links": {
+    "wikilinks_count": 10,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "banking/cooperative-banking-japan",
+      "banking/credit-cooperative-registry-japan",
+      "cooperative-banks/hana-shinkumi",
+      "cooperative-banks/osaka-shogin-shinkumi",
+      "cooperative-banks/yokohama-shinkin",
+      "cooperative-banks/zenshin-kumi",
+      "financial-regulators/dic",
+      "regional-banks/concordia-fg",
+      "regional-banks/yokohama-bank"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/banking/cooperative-banking-japan",
+      "https://finwiki.zksc.io/banking/credit-cooperative-registry-japan",
+      "https://finwiki.zksc.io/cooperative-banks/hana-shinkumi",
+      "https://finwiki.zksc.io/cooperative-banks/osaka-shogin-shinkumi",
+      "https://finwiki.zksc.io/cooperative-banks/yokohama-shinkin",
+      "https://finwiki.zksc.io/cooperative-banks/zenshin-kumi",
+      "https://finwiki.zksc.io/financial-regulators/dic",
+      "https://finwiki.zksc.io/regional-banks/concordia-fg",
+      "https://finwiki.zksc.io/regional-banks/yokohama-bank"
+    ],
+    "external_links_count": 1,
+    "external_links": [
+      "https://www.yokohamakougin.co.jp/disclosure/index.html"
+    ]
+  },
+  "metrics": {
+    "nonspace_chars": 5038,
+    "word_like_tokens": 742,
+    "inbound_wikilinks_count": 4,
+    "last_modified": "2026-06-04"
+  }
+}

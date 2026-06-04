@@ -31,7 +31,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[policy-finance/INDEX|policy-finance index]] as the resource-security node of the Japanese state-finance system. Read it against [[JapanFG/jbic|JBIC]] for the lender-side overseas-investment counterpart on the same upstream-resource project axis; with [[policy-finance/nexi|NEXI]] for the political-risk insurance overlay that frequently sits beside JOGMEC equity on resource project finance packages; with [[policy-finance/jogmec-equity-and-offtake-mechanics|JOGMEC equity and offtake mechanics]] for the operating-mechanics deep dive (sibling); with [[policy-finance/jbic-overseas-investment-underwriting-process|JBIC overseas-investment underwriting process]] for the lender-side flow that frequently follows a JOGMEC equity position upstream; with [[policy-finance/jica|JICA]] for the ODA-grade lane that JOGMEC does not sit inside; with [[policy-finance/oecd-export-credit-arrangement|OECD Export Credit Arrangement]] for the boundary on the commercial side of project-finance packages; with [[policy-finance/japan-policy-finance-system|Japan policy finance system]] for the wider toolkit; with [[policy-finance/japan-policy-finance-institution-mandate-matrix|Japan policy-finance institution mandate matrix]] for the nine-institution comparison; with [[policy-finance/japan-project-finance-stack-diagram|Japan project finance stack diagram]] for layered project-finance stack visualization; and with [[policy-finance/japan-eximbank-history|Japan Eximbank history]] for parallel institutional reorganization context.
+This entry sits under [[policy-finance/INDEX|policy-finance index]] as the resource-security node of the Japanese state-finance system. Read it against [[financial-regulators/jbic|JBIC]] for the lender-side overseas-investment counterpart on the same upstream-resource project axis; with [[policy-finance/nexi|NEXI]] for the political-risk insurance overlay that frequently sits beside JOGMEC equity on resource project finance packages; with [[policy-finance/jogmec-equity-and-offtake-mechanics|JOGMEC equity and offtake mechanics]] for the operating-mechanics deep dive (sibling); with [[policy-finance/jbic-overseas-investment-underwriting-process|JBIC overseas-investment underwriting process]] for the lender-side flow that frequently follows a JOGMEC equity position upstream; with [[policy-finance/jica|JICA]] for the ODA-grade lane that JOGMEC does not sit inside; with [[policy-finance/oecd-export-credit-arrangement|OECD Export Credit Arrangement]] for the boundary on the commercial side of project-finance packages; with [[policy-finance/japan-policy-finance-system|Japan policy finance system]] for the wider toolkit; with [[policy-finance/japan-policy-finance-institution-mandate-matrix|Japan policy-finance institution mandate matrix]] for the nine-institution comparison; with [[policy-finance/japan-project-finance-stack-diagram|Japan project finance stack diagram]] for layered project-finance stack visualization; and with [[policy-finance/japan-eximbank-history|Japan Eximbank history]] for parallel institutional reorganization context.
 
 ## TL;DR
 
@@ -60,7 +60,7 @@ JOGMEC (独立行政法人 エネルギー・金属鉱物資源機構 — former
 ### 1.1 What JOGMEC does — and what it does not
 
 - **Does**: take equity in upstream resource projects (exploration + development), share exploration risk via direct equity + liability guarantees, run state stockpiles (oil + rare metals), provide liability guarantees on exploration borrowings, run geological / R&D activities, conduct domestic geothermal exploration support, run methane-hydrate R&D, and (post-2023) coordinate CCS / hydrogen / ammonia supply-chain support.
-- **Does not**: lend operating loans (that is [[JapanFG/jbic|JBIC]] or megabank territory); insure political risk on equity (that is [[policy-finance/nexi|NEXI]]); trade physical commodities or operate downstream refineries / smelters on its own balance sheet (those sit with sponsors and downstream entities); set Japan's energy strategy (METI / 資源エネルギー庁 / Cabinet do that).
+- **Does not**: lend operating loans (that is [[financial-regulators/jbic|JBIC]] or megabank territory); insure political risk on equity (that is [[policy-finance/nexi|NEXI]]); trade physical commodities or operate downstream refineries / smelters on its own balance sheet (those sit with sponsors and downstream entities); set Japan's energy strategy (METI / 資源エネルギー庁 / Cabinet do that).
 
 The boundary with JBIC and NEXI is structural and rarely contested: JOGMEC absorbs upstream risk that lenders and insurers will not price; JBIC and NEXI sit downstream once the project is sufficiently de-risked to be bankable.
 
@@ -169,7 +169,7 @@ The sibling [[policy-finance/jogmec-equity-and-offtake-mechanics|JOGMEC equity a
 
 ## Related
 
-- [[JapanFG/jbic]]
+- [[financial-regulators/jbic]]
 - [[policy-finance/nexi]]
 - [[policy-finance/nexi-export-credit-insurance-products]]
 - [[policy-finance/jogmec-equity-and-offtake-mechanics]]

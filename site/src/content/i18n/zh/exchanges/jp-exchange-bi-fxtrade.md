@@ -89,7 +89,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 - **2026年4月**：设立15周年特设页面公开，开展周年活动
 - **2026年5月**：新货币对（土耳其里拉/日元）的基准价差缩小（1.28钱）
 - 加密资产 CFD 自 2020年8月开始以来，币种扩充（BTC→XRP→ETH 的顺序）已完成，对美元币种也已追加。最近12个月内未确认加密资产部门的新扩张发布。
-- SBI 集团整体的加密资产战略由集团统括公司（[[JapanFG/sbi-hd|SBI HD]]）及 [[exchanges/jp-exchange-sbi-vc-trade|SBI VCトレード]] 主导，该公司定位为零售 FX 基础上的补充。JP VASP 的衍生品・现物兼营结构参见 [[exchanges/jp-vasp-derivative-license-system|JP VASP デリバティブライセンス制度]]。
+- SBI 集团整体的加密资产战略由集团统括公司（[[megabanks/sbi-hd|SBI HD]]）及 [[exchanges/jp-exchange-sbi-vc-trade|SBI VCトレード]] 主导，该公司定位为零售 FX 基础上的补充。JP VASP 的衍生品・现物兼营结构参见 [[exchanges/jp-vasp-derivative-license-system|JP VASP デリバティブライセンス制度]]。
 
 ## 8. 关联人物
 
@@ -116,7 +116,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 - [[exchanges/jp-exchange-sbi-vc-trade]] — SBI 集团的现物交易核心公司（JVCEA #1011）
 - [[fintech/japan-financial-regulation]] — 日本金融监管整体
 - [[fintech/japan-stablecoin-regulatory-landscape]] — 相关 stablecoin 制度
-- [[JapanFG/sbi-hd]] — SBI 控股母公司概况
+- [[megabanks/sbi-hd]] — SBI 控股母公司概况
 - [[exchanges/jp-vasp-derivative-license-system]] — JP VASP 衍生品牌照制度
 - [[exchanges/jp-vasp-parent-company-map]] — JP VASP 母公司图谱
 

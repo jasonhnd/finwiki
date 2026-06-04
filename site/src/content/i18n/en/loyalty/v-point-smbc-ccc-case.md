@@ -12,7 +12,7 @@ translated_at: 2026-05-30T14:48:27.672Z
 
 ## TL;DR
 
-V Point in its current form (2024-04-22 onward) is the **bank-led common-point case** of Japan: SMBC's existing V Point and CCCMK Holdings' T Point unified into a single point under the V Point brand, with [[JapanFG/smfg|SMFG]]'s [[JapanFG/smbc-card|SMBC Card]] (SMCC) as the issuing financial backbone and the [[payments/INDEX|payments]] / [[retail/INDEX|retail]] partner network inherited from T Point. It is the most credible counterweight to telco-led d Point, e-commerce-led Rakuten Points, and payment-app-led PayPay Points.
+V Point in its current form (2024-04-22 onward) is the **bank-led common-point case** of Japan: SMBC's existing V Point and CCCMK Holdings' T Point unified into a single point under the V Point brand, with [[megabanks/smfg|SMFG]]'s [[card-issuers/smbc-card|SMBC Card]] (SMCC) as the issuing financial backbone and the [[payments/INDEX|payments]] / [[retail/INDEX|retail]] partner network inherited from T Point. It is the most credible counterweight to telco-led d Point, e-commerce-led Rakuten Points, and payment-app-led PayPay Points.
 
 For accounting framing on what "point liability" actually means inside this kind of unification, see [[loyalty/point-liability-accounting-boundary]]. For the broader competitive map, see [[loyalty/japan-points-landscape]] and [[loyalty/INDEX|loyalty index]].
 
@@ -31,7 +31,7 @@ For accounting framing on what "point liability" actually means inside this kind
 
 ## Players
 
-- **[[JapanFG/smfg|SMFG]] / [[JapanFG/smbc-card|SMBC Card]] (Sumitomo Mitsui Card Company, SMCC)** — bank-side anchor. Issues V Point as the rewards layer of SMBC's credit cards and the Olive Account. Provides the credit and payment rails.
+- **[[megabanks/smfg|SMFG]] / [[card-issuers/smbc-card|SMBC Card]] (Sumitomo Mitsui Card Company, SMCC)** — bank-side anchor. Issues V Point as the rewards layer of SMBC's credit cards and the Olive Account. Provides the credit and payment rails.
 - **CCC / CCCMK Holdings** — historical common-point operator; brings the T Point partner-merchant network (FamilyMart, ENEOS, Tsutaya, drug stores, restaurants, hotels), the user base of around 70 million T-Card holders, and the data-marketing operation.
 - **T Card to V Card migration** -- legacy T Cards continue to earn V Point at participating merchants during a defined migration window; new issuance is V Card branded.
 - **Olive Account** — SMBC's "all-in-one" retail product (debit + credit + payment + investment) that uses V Point as its loyalty layer. Launched in 2023, expanded through 2024-2025.
@@ -60,12 +60,12 @@ The clean version of the network rollover is that any T-Point-accepting merchant
 
 | Common-point system | Anchor type | Strongest channel | V Point's relative position |
 |---|---|---|---|
-| Rakuten Points ([[JapanFG/rakuten-fg|Rakuten FG]]) | E-commerce-led | Online shopping + Rakuten Card + Rakuten Pay + Rakuten Mobile | V Point weaker online, stronger at physical anchor merchants |
-| d Point ([[JapanFG/ndfg|NDFG]] / NTT docomo) | Telco-led | Mobile-line ID, d Payment, d Card | V Point not telco-bound; advantage with non-docomo users |
-| PayPay Points ([[JapanFG/paypay-fg|PayPay FG]]) | Payment-app-led | Code payment frequency + campaigns | V Point less campaign-driven; more durable per-yen economics |
-| Ponta ([[JapanFG/au-fh|au FH]] / Loyalty Marketing) | Telco + retail coalition | Lawson, KDDI / au PAY, Hot Pepper | V Point overlaps in convenience-store earn but with bank-side anchor |
-| WAON POINT ([[retail/aeon-group|Aeon Group]] / [[JapanFG/aeon-bank|AEON Bank / AFS]]) | Retail-group-led | AEON malls / supermarkets | Different positioning — store-frequency loyalty vs cross-merchant common point |
-| nanaco point ([[retail/seven-and-i-hd|Seven & i]] / [[JapanFG/seven-bank|Seven Bank]]) | Convenience-led | Seven-Eleven / Ito-Yokado | Different positioning — convenience-store loyalty vs cross-merchant common point |
+| Rakuten Points ([[payment-firms/rakuten-fg|Rakuten FG]]) | E-commerce-led | Online shopping + Rakuten Card + Rakuten Pay + Rakuten Mobile | V Point weaker online, stronger at physical anchor merchants |
+| d Point ([[megabanks/ndfg|NDFG]] / NTT docomo) | Telco-led | Mobile-line ID, d Payment, d Card | V Point not telco-bound; advantage with non-docomo users |
+| PayPay Points ([[megabanks/paypay-fg|PayPay FG]]) | Payment-app-led | Code payment frequency + campaigns | V Point less campaign-driven; more durable per-yen economics |
+| Ponta ([[megabanks/au-fh|au FH]] / Loyalty Marketing) | Telco + retail coalition | Lawson, KDDI / au PAY, Hot Pepper | V Point overlaps in convenience-store earn but with bank-side anchor |
+| WAON POINT ([[retail/aeon-group|Aeon Group]] / [[card-issuers/aeon-bank|AEON Bank / AFS]]) | Retail-group-led | AEON malls / supermarkets | Different positioning — store-frequency loyalty vs cross-merchant common point |
+| nanaco point ([[retail/seven-and-i-hd|Seven & i]] / [[regional-banks/seven-bank|Seven Bank]]) | Convenience-led | Seven-Eleven / Ito-Yokado | Different positioning — convenience-store loyalty vs cross-merchant common point |
 
 The strategic novelty of V Point is the bank-led shape:
 
@@ -79,24 +79,24 @@ The bank-led shape gives V Point the most natural route into investment and savi
 
 ## Why this matters for JapanFG analysis
 
-- V Point is the cleanest live case of a **megabank-led common-point distribution layer** in Japan. Reading [[JapanFG/smfg|SMFG]] without it understates SMBC's retail strategy.
+- V Point is the cleanest live case of a **megabank-led common-point distribution layer** in Japan. Reading [[megabanks/smfg|SMFG]] without it understates SMBC's retail strategy.
 - It is the natural cross-sell rail for SBI証券-side investment products under the SMBC × SBI alliance — relevant to securities-distribution analysis.
 - For any merchant-acquiring / PSP analysis, the V Point partner-merchant network is now a third significant common-point footprint alongside Rakuten and d Point.
-- For consumer-bank competitive analysis, the Olive Account + V Point bundle is the most visible "main-bank-as-fintech-app" attempt by a Japanese megabank, contrasting with [[JapanFG/mufg|MUFG]] and [[JapanFG/mizuho-fg|Mizuho FG]] approaches.
+- For consumer-bank competitive analysis, the Olive Account + V Point bundle is the most visible "main-bank-as-fintech-app" attempt by a Japanese megabank, contrasting with [[megabanks/mufg|MUFG]] and [[megabanks/mizuho-fg|Mizuho FG]] approaches.
 
 ## Related
 
 - [[loyalty/INDEX|loyalty index]]
 - [[loyalty/japan-points-landscape]]
 - [[loyalty/point-liability-accounting-boundary]]
-- [[JapanFG/smfg|SMFG]]
-- [[JapanFG/smbc-card|SMBC Card / SMCC]]
-- [[JapanFG/rakuten-fg|Rakuten FG]]
-- [[JapanFG/ndfg|NDFG]]
-- [[JapanFG/paypay-fg|PayPay FG]]
-- [[JapanFG/au-fh|au FH]]
-- [[JapanFG/aeon-bank|AEON Bank / AFS]]
-- [[JapanFG/seven-bank|Seven Bank]]
+- [[megabanks/smfg|SMFG]]
+- [[card-issuers/smbc-card|SMBC Card / SMCC]]
+- [[payment-firms/rakuten-fg|Rakuten FG]]
+- [[megabanks/ndfg|NDFG]]
+- [[megabanks/paypay-fg|PayPay FG]]
+- [[megabanks/au-fh|au FH]]
+- [[card-issuers/aeon-bank|AEON Bank / AFS]]
+- [[regional-banks/seven-bank|Seven Bank]]
 - [[retail/INDEX|retail]]
 - [[payments/INDEX|payments]]
 - [[INDEX|FinWiki index]]

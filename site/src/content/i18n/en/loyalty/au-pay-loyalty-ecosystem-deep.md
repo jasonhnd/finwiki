@@ -12,11 +12,11 @@ translated_at: 2026-05-30T14:48:27.661Z
 
 ## Wiki route
 
-This entry sits under [[loyalty/INDEX|loyalty index]] as the **operator-deep page for the KDDI au-economic-zone loyalty stack**, complementing [[loyalty/d-point-au-kddi-docomo-telco-point-consolidation|d Point / au / docomo telco-point consolidation case]] (the cross-telco comparison view) and [[loyalty/d-point-detailed-ecosystem|d Point detailed ecosystem]] (the docomo-side deep dive). Pair it with [[loyalty/ponta-points-deep-dive|Ponta points deep dive]] for the loyalty-currency-layer detail, [[loyalty/sb-yahoo-paypay-points-unified-ecosystem|SB / Yahoo / PayPay unified points]] for the SoftBank ecosystem counterpoint, [[loyalty/v-point-smbc-ccc-case|V Point (SMBC × CCC) case]] for the bank-anchored peer, [[loyalty/japan-points-landscape|Japan points landscape]] for the ecosystem map, [[loyalty/point-liability-accounting-boundary|point liability accounting boundary]] for the IFRS / J-GAAP treatment, [[JapanFG/au-fh|au Financial Holdings]] for the parent finance-holding structure, [[retail/lawson-mitsubishi-corporation-tie-up-2024-deep|Lawson + Mitsubishi 2024 deep tie-up]] for the retail-channel anchor, and [[payments/japan-code-payment-operator-2025-market-share-matrix|Japan code-payment operator 2025 market share matrix]] for the wallet-share overlay.
+This entry sits under [[loyalty/INDEX|loyalty index]] as the **operator-deep page for the KDDI au-economic-zone loyalty stack**, complementing [[loyalty/d-point-au-kddi-docomo-telco-point-consolidation|d Point / au / docomo telco-point consolidation case]] (the cross-telco comparison view) and [[loyalty/d-point-detailed-ecosystem|d Point detailed ecosystem]] (the docomo-side deep dive). Pair it with [[loyalty/ponta-points-deep-dive|Ponta points deep dive]] for the loyalty-currency-layer detail, [[loyalty/sb-yahoo-paypay-points-unified-ecosystem|SB / Yahoo / PayPay unified points]] for the SoftBank ecosystem counterpoint, [[loyalty/v-point-smbc-ccc-case|V Point (SMBC × CCC) case]] for the bank-anchored peer, [[loyalty/japan-points-landscape|Japan points landscape]] for the ecosystem map, [[loyalty/point-liability-accounting-boundary|point liability accounting boundary]] for the IFRS / J-GAAP treatment, [[megabanks/au-fh|au Financial Holdings]] for the parent finance-holding structure, [[retail/lawson-mitsubishi-corporation-tie-up-2024-deep|Lawson + Mitsubishi 2024 deep tie-up]] for the retail-channel anchor, and [[payments/japan-code-payment-operator-2025-market-share-matrix|Japan code-payment operator 2025 market share matrix]] for the wallet-share overlay.
 
 ## TL;DR
 
-The **au PAY ecosystem** is KDDI's integrated loyalty-and-finance stack, structured around **six anchored layers**: ① **au mobile + UQ Mobile + povo** telco-line subscription (the daily-frequency identity anchor); ② **Ponta points** as the common-point currency (post-2020 KDDI ↔ Loyalty Marketing alliance / "au Ponta" rebrand); ③ **au PAY** QR / barcode wallet; ④ **au PAY Card** (KDDI-side credit card, succeeded the old "au WALLET creditCard" line); ⑤ **au Smart Pass / au Smart Pass Premium** (KDDI's bundled-service subscription with monthly fee and integrated benefits); and ⑥ **[[JapanFG/au-fh|au Financial Holdings]] subsidiaries** including **au Jibun Bank** (deposit-account anchor), **au Kabucom Securities / 三菱UFJ e-Smart Securities succession** (securities), **au PAY Insurance** (P&C insurance), **au Asset Management** (asset management). The **2020 KDDI + Loyalty Marketing Ponta points alliance** ("au Ponta") merged the legacy au WALLET  points into Ponta points, giving KDDI a multi-brand common point with strong cross-merchant footprint (JAL, Lawson, gas stations, Recruit family). The **2024 Lawson + KDDI + Mitsubishi 50/50 take-private** added a national CVS retail channel to the ecosystem. The **2026-05 KDDI announcement of au Financial Holdings' Tokyo Stock Exchange listing preparation** is the first IPO candidate from a Japanese telco financial-holding company. Compared with the [[loyalty/d-point-detailed-ecosystem|d Points ecosystem]], au PAY's distinguishing features are (a) the **multi-brand Ponta alliance** vs d Points's primarily-NTT-docomo-issued nature; (b) the **two-mobile-line strategy (au + UQ Mobile + povo)** vs docomo's flatter mobile-line stack; (c) the **Lawson 50/50 channel anchor** post-2024.
+The **au PAY ecosystem** is KDDI's integrated loyalty-and-finance stack, structured around **six anchored layers**: ① **au mobile + UQ Mobile + povo** telco-line subscription (the daily-frequency identity anchor); ② **Ponta points** as the common-point currency (post-2020 KDDI ↔ Loyalty Marketing alliance / "au Ponta" rebrand); ③ **au PAY** QR / barcode wallet; ④ **au PAY Card** (KDDI-side credit card, succeeded the old "au WALLET creditCard" line); ⑤ **au Smart Pass / au Smart Pass Premium** (KDDI's bundled-service subscription with monthly fee and integrated benefits); and ⑥ **[[megabanks/au-fh|au Financial Holdings]] subsidiaries** including **au Jibun Bank** (deposit-account anchor), **au Kabucom Securities / 三菱UFJ e-Smart Securities succession** (securities), **au PAY Insurance** (P&C insurance), **au Asset Management** (asset management). The **2020 KDDI + Loyalty Marketing Ponta points alliance** ("au Ponta") merged the legacy au WALLET  points into Ponta points, giving KDDI a multi-brand common point with strong cross-merchant footprint (JAL, Lawson, gas stations, Recruit family). The **2024 Lawson + KDDI + Mitsubishi 50/50 take-private** added a national CVS retail channel to the ecosystem. The **2026-05 KDDI announcement of au Financial Holdings' Tokyo Stock Exchange listing preparation** is the first IPO candidate from a Japanese telco financial-holding company. Compared with the [[loyalty/d-point-detailed-ecosystem|d Points ecosystem]], au PAY's distinguishing features are (a) the **multi-brand Ponta alliance** vs d Points's primarily-NTT-docomo-issued nature; (b) the **two-mobile-line strategy (au + UQ Mobile + povo)** vs docomo's flatter mobile-line stack; (c) the **Lawson 50/50 channel anchor** post-2024.
 
 ## The six-layer integrated stack
 
@@ -24,10 +24,10 @@ The **au PAY ecosystem** is KDDI's integrated loyalty-and-finance stack, structu
 |---|---|---|---|
 | **1. Telco identity** | au mobile, UQ Mobile, povo (KDDI subsidiary lines) | Daily-frequency subscriber identity; basis for all account-linking | KDDI Corporation |
 | **2. Common point** | Ponta points (post-2020 "au Ponta") | Loyalty currency, multi-brand alliance currency | Loyalty Marketing, Inc. (Mitsubishi Corp-affiliated) |
-| **3. QR / barcode wallet** | au PAY | Cashless wallet, low-ticket high-frequency payment surface | [[JapanFG/au-payment|au Payment]] (KDDI subsidiary) |
+| **3. QR / barcode wallet** | au PAY | Cashless wallet, low-ticket high-frequency payment surface | [[payment-firms/au-payment|au Payment]] (KDDI subsidiary) |
 | **4. Credit card** | au PAY Card | Credit-card spend with auto-charge to au PAY, accrual to Ponta points | au PAY Card Co., Ltd. |
 | **5. Subscription bundle** | au Smart Pass / au Smart Pass Premium | Bundled-service subscription with monthly fee; insurance bundles, content discounts, Lawson coupons | KDDI Corporation |
-| **6. Financial subsidiaries** | au Jibun Bank + au PAY Insurance + au Asset Management + (successor to au Kabucom Securities) | Banking, insurance, asset-management product distribution | [[JapanFG/au-fh|au Financial Holdings]] |
+| **6. Financial subsidiaries** | au Jibun Bank + au PAY Insurance + au Asset Management + (successor to au Kabucom Securities) | Banking, insurance, asset-management product distribution | [[megabanks/au-fh|au Financial Holdings]] |
 
 The **identity layer is the au-ID** (KDDI's universal customer ID), which links across all six layers. A customer can be:
 - a UQ Mobile MVNO-style user without an au PAY Card or au Jibun Bank (entry-level);
@@ -55,7 +55,7 @@ The 2024 [[retail/lawson-mitsubishi-corporation-tie-up-2024-deep|Lawson + Mitsub
 
 | Item | au PAY |
 |---|---|
-| Operator | [[JapanFG/au-payment|au Payment]] (KDDI subsidiary, [[JapanFG/au-fh|au FH]]-perimeter) |
+| Operator | [[payment-firms/au-payment|au Payment]] (KDDI subsidiary, [[megabanks/au-fh|au FH]]-perimeter) |
 | Registration | 第三者型前払式支払手段 + 資金移動業 dual registration (refer [[payments/funds-transfer-vs-prepaid-boundary|funds-transfer vs prepaid boundary]]) |
 | Funding | au PAY Card auto-charge, au Jibun Bank direct, bank-account charge, convenience-store charge, Ponta points direct usage |
 | Acceptance | National QR / barcode acceptance; JPQR compatible; major retail chain coverage including Lawson (anchor channel post-2024), McDonald's, Matsumoto Kiyoshi, ENEOS, Yamada Denki, etc. |
@@ -123,7 +123,7 @@ The economic implication for the loyalty ecosystem is that **UQ Mobile + povo su
 
 au Jibun Bank ranks among Japan's largest digital banks by deposit balance and account count alongside **[[JapanFG/rakuten-bank|Rakuten Bank]]**, **PayPay Bank**, **SBI Sumishin Net Bank**, and **Sony Bank** — the "internet bank" peer set. The integration with au PAY, au PAY Card, and Ponta points accrual makes it a structural component of the loyalty ecosystem rather than a standalone digital-bank product.
 
-The 2026-05-12 KDDI announcement of **au Financial Holdings' Tokyo Stock Exchange listing preparation** brings au Jibun Bank (within the au FH consolidation) into the IPO perimeter — the first such IPO candidate among Japanese telco-anchored financial-holding companies. See [[JapanFG/au-fh|au Financial Holdings]] for the structural detail.
+The 2026-05-12 KDDI announcement of **au Financial Holdings' Tokyo Stock Exchange listing preparation** brings au Jibun Bank (within the au FH consolidation) into the IPO perimeter — the first such IPO candidate among Japanese telco-anchored financial-holding companies. See [[megabanks/au-fh|au Financial Holdings]] for the structural detail.
 
 ## Comparison vs PayPay (SoftBank) and d Points (NTT docomo) ecosystems
 
@@ -139,13 +139,13 @@ The 2026-05-12 KDDI announcement of **au Financial Holdings' Tokyo Stock Exchang
 | Asset management | au Asset Management | LY-affiliated AM | NTT docomo asset-management subsidiary |
 | Subscription bundle | au Smart Pass / au Smart Pass Premium | Yahoo! Premium / PayPay coupons | dMarket content / dCardGOLD benefits |
 | Major CVS channel anchor | **Lawson** (post-2024 50/50 take-private) | None equivalent at controlling-stake level | None equivalent at controlling-stake level |
-| Holding-company listing | **2026-05-12: KDDI 適時開示 [[JapanFG/au-fh|au FH]] IPO 準備開始** | LY (former Z HD) listed; PayPay Bank listed (4689) | Forthcoming NDFG (~2026-07 announced consolidation); listing strategy not yet publicly specified |
+| Holding-company listing | **2026-05-12: KDDI 適時開示 [[megabanks/au-fh|au FH]] IPO 準備開始** | LY (former Z HD) listed; PayPay Bank listed (4689) | Forthcoming NDFG (~2026-07 announced consolidation); listing strategy not yet publicly specified |
 
 The **deepest competitive differences**:
 
 1. **Multi-brand vs single-brand loyalty**: au PAY's Ponta points is a multi-brand alliance currency with cross-merchant scale (JAL, Lawson, gas stations, Recruit). PayPay Points is closed-loop, d Points is NTT-docomo-issued but with growing partner-merchant acceptance.
 2. **CVS channel anchor**: only au PAY has a controlling-stake CVS channel anchor (Lawson, 50/50 with Mitsubishi Corp). PayPay and d Points rely on contractual partnerships without equity control.
-3. **Holding-company listing timing**: KDDI's 2026-05-12 [[JapanFG/au-fh|au FH]] IPO announcement is the first telco-FG IPO candidate. PayPay's ecosystem is partially listed via LY / PayPay Bank already. NTT docomo's [[JapanFG/ndfg|NDFG]] consolidation is forthcoming (~2026-07) but has not announced IPO.
+3. **Holding-company listing timing**: KDDI's 2026-05-12 [[megabanks/au-fh|au FH]] IPO announcement is the first telco-FG IPO candidate. PayPay's ecosystem is partially listed via LY / PayPay Bank already. NTT docomo's [[megabanks/ndfg|NDFG]] consolidation is forthcoming (~2026-07) but has not announced IPO.
 
 ## Related
 
@@ -160,16 +160,16 @@ The **deepest competitive differences**:
 - [[loyalty/t-point-v-point-post-2024-merger|T Point + V Point post-2024 merger detail]]
 - [[loyalty/jal-mileage-bank-vs-ana-mileage-club-comparison|JAL Mileage Bank vs ANA Mileage Club]]
 - [[loyalty/jre-point-and-jre-bank-ecosystem|JRE Point + JRE Bank ecosystem]]
-- [[JapanFG/au-fh|au Financial Holdings]]
-- [[JapanFG/au-payment|au Payment]]
-- [[JapanFG/au-insurance|au Insurance]]
-- [[JapanFG/paypay|PayPay]]
-- [[JapanFG/paypay-fg|PayPay FG]]
-- [[JapanFG/paypay-card|PayPay Card]]
-- [[JapanFG/paypay-securities|PayPay Securities]]
-- [[JapanFG/ndfg|NDFG (NTT docomo Financial Group)]]
-- [[JapanFG/rakuten-fg|Rakuten FG]]
-- [[JapanFG/mitsubishi-corp|Mitsubishi Corporation]]
+- [[megabanks/au-fh|au Financial Holdings]]
+- [[payment-firms/au-payment|au Payment]]
+- [[non-life-insurers/au-insurance|au Insurance]]
+- [[payment-firms/paypay|PayPay]]
+- [[megabanks/paypay-fg|PayPay FG]]
+- [[card-issuers/paypay-card|PayPay Card]]
+- [[securities-firms/paypay-securities|PayPay Securities]]
+- [[megabanks/ndfg|NDFG (NTT docomo Financial Group)]]
+- [[payment-firms/rakuten-fg|Rakuten FG]]
+- [[financial-conglomerates/mitsubishi-corp|Mitsubishi Corporation]]
 - [[retail/lawson-mitsubishi-corporation-tie-up-2024-deep|Lawson + Mitsubishi 2024 deep tie-up]]
 - [[retail/lawson-kddi-retail-finance|Lawson + KDDI retail finance]]
 - [[retail/familymart-itochu-financial-integration|FamilyMart + Itochu financial integration]]

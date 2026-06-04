@@ -35,7 +35,7 @@ sources:
 
 ## TL;DR
 
-"Structured bond" (仕組債, *shikumisai*) is the umbrella Japanese term for retail-facing fixed-income products that embed derivative payoffs — typically equity-linked notes (EB, *Equity Bond*) with knock-in barriers, currency-linked deposits, reverse-convertible bonds with put-strike-at-discount, and digital / range-accrual notes. These products were distributed at scale by megabank-affiliated securities firms ([[JapanFG/smbc-nikko|SMBC Nikko]], [[JapanFG/mizuho-bank|Mizuho]] Securities, MUFG / MUMSS), independent retail brokerages ([[JapanFG/daiwa-sg|Daiwa]], [[JapanFG/nomura-hd|Nomura]]), and regional banks to **chasing-yield retail investors** during Japan's prolonged low-yield environment. The **2022-2023 FSA crackdown** on suitability and disclosure resulted in administrative orders against [[JapanFG/nomura-hd|Nomura]], [[JapanFG/smbc-nikko|SMBC Nikko]], and [[JapanFG/daiwa-sg|Daiwa]] subsidiaries, forced major distributors to suspend or restrict structured-bond sales to elderly / low-knowledge retail, and elevated **suitability and disclosure** as a structural regulatory priority. New retail issuance contracted sharply from 2023 onward.
+"Structured bond" (仕組債, *shikumisai*) is the umbrella Japanese term for retail-facing fixed-income products that embed derivative payoffs — typically equity-linked notes (EB, *Equity Bond*) with knock-in barriers, currency-linked deposits, reverse-convertible bonds with put-strike-at-discount, and digital / range-accrual notes. These products were distributed at scale by megabank-affiliated securities firms ([[securities-firms/smbc-nikko|SMBC Nikko]], [[megabanks/mizuho-bank|Mizuho]] Securities, MUFG / MUMSS), independent retail brokerages ([[securities-firms/daiwa-sg|Daiwa]], [[securities-firms/nomura-hd|Nomura]]), and regional banks to **chasing-yield retail investors** during Japan's prolonged low-yield environment. The **2022-2023 FSA crackdown** on suitability and disclosure resulted in administrative orders against [[securities-firms/nomura-hd|Nomura]], [[securities-firms/smbc-nikko|SMBC Nikko]], and [[securities-firms/daiwa-sg|Daiwa]] subsidiaries, forced major distributors to suspend or restrict structured-bond sales to elderly / low-knowledge retail, and elevated **suitability and disclosure** as a structural regulatory priority. New retail issuance contracted sharply from 2023 onward.
 
 ## Wiki route
 
@@ -77,7 +77,7 @@ EB knock-in (especially autocallable on single Japanese stock or worst-of basket
 | Issuer type | Role |
 |---|---|
 | Global banks (special-purpose vehicles) | Goldman, JPMorgan, Morgan Stanley, BNP Paribas, Credit Suisse (historically), HSBC, Citi, Barclays issued via SPV programs |
-| Japan-domiciled megabank programs | [[JapanFG/mufg|MUFG]], [[JapanFG/sumitomo-mitsui-banking-corp|SMBC]] (via SMFG), [[JapanFG/mizuho-bank|Mizuho]] (via Mizuho FG) issued through dedicated programs |
+| Japan-domiciled megabank programs | [[megabanks/mufg|MUFG]], [[megabanks/sumitomo-mitsui-banking-corp|SMBC]] (via SMFG), [[megabanks/mizuho-bank|Mizuho]] (via Mizuho FG) issued through dedicated programs |
 | European bank issuers | Société Générale, BNP, Credit Suisse, UBS historically dominant in structured-product origination |
 | US bank issuers | Goldman, JPM, MS, Citi |
 | Tokyo-listed special-purpose issuance vehicles | Less common; most structured bonds issued offshore for tax / regulatory efficiency |
@@ -86,11 +86,11 @@ EB knock-in (especially autocallable on single Japanese stock or worst-of basket
 
 | Distributor | Distribution model |
 |---|---|
-| [[JapanFG/smbc-nikko|SMBC Nikko]] | Megabank-aligned full-service brokerage; key distributor through 2022 |
-| Mizuho Securities (via [[JapanFG/mizuho-bank|Mizuho]] FG) | Megabank-aligned full-service brokerage; key distributor through 2022 |
-| MUFG / MUMSS (via [[JapanFG/mufg|MUFG]]) | Megabank / global JV brokerage; major distributor |
-| [[JapanFG/daiwa-sg|Daiwa Securities]] | Independent retail brokerage; historically very active in structured-bond distribution |
-| [[JapanFG/nomura-hd|Nomura Securities]] | Largest retail brokerage; significant distributor |
+| [[securities-firms/smbc-nikko|SMBC Nikko]] | Megabank-aligned full-service brokerage; key distributor through 2022 |
+| Mizuho Securities (via [[megabanks/mizuho-bank|Mizuho]] FG) | Megabank-aligned full-service brokerage; key distributor through 2022 |
+| MUFG / MUMSS (via [[megabanks/mufg|MUFG]]) | Megabank / global JV brokerage; major distributor |
+| [[securities-firms/daiwa-sg|Daiwa Securities]] | Independent retail brokerage; historically very active in structured-bond distribution |
+| [[securities-firms/nomura-hd|Nomura Securities]] | Largest retail brokerage; significant distributor |
 | Regional banks (sub-distribution) | Sub-distribute structured products from megabank securities partners |
 | Online brokerages | Less active in complex structured bonds; some plain-vanilla structured deposits |
 
@@ -163,9 +163,9 @@ Between late 2022 and 2023, the FSA issued business-improvement orders and admin
 
 | Distributor | Action category |
 |---|---|
-| [[JapanFG/nomura-hd|Nomura Securities]] | Business-improvement order regarding structured-bond sales process |
-| [[JapanFG/smbc-nikko|SMBC Nikko]] | Business-improvement order; senior management accountability |
-| [[JapanFG/daiwa-sg|Daiwa Securities]] | Business-improvement order; suitability process review |
+| [[securities-firms/nomura-hd|Nomura Securities]] | Business-improvement order regarding structured-bond sales process |
+| [[securities-firms/smbc-nikko|SMBC Nikko]] | Business-improvement order; senior management accountability |
+| [[securities-firms/daiwa-sg|Daiwa Securities]] | Business-improvement order; suitability process review |
 | Multiple regional bank securities arms | Localized administrative actions |
 
 Distributors voluntarily suspended or significantly restricted structured-bond sales to retail. Several firms exited the retail structured-bond business entirely or restricted it to qualified-investor channels.
@@ -225,14 +225,14 @@ Institutional structured bonds are subject to different suitability standards (q
 - [[banking/INDEX]]
 - [[insurance/japan-life-insurance-alm-overview]]
 - [[securities/japan-prime-brokerage-and-institutional-financing]]
-- [[JapanFG/mufg]]
-- [[JapanFG/sumitomo-mitsui-banking-corp]]
-- [[JapanFG/mizuho-bank]]
-- [[JapanFG/nomura-hd]]
-- [[JapanFG/smbc-nikko]]
-- [[JapanFG/daiwa-sg]]
-- [[JapanFG/goldman-sachs-japan]]
-- [[JapanFG/morgan-stanley-japan]]
+- [[megabanks/mufg]]
+- [[megabanks/sumitomo-mitsui-banking-corp]]
+- [[megabanks/mizuho-bank]]
+- [[securities-firms/nomura-hd]]
+- [[securities-firms/smbc-nikko]]
+- [[securities-firms/daiwa-sg]]
+- [[securities-firms/goldman-sachs-japan]]
+- [[securities-firms/morgan-stanley-japan]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

@@ -11,7 +11,7 @@ translated_at: 2026-06-01T04:15:40.095Z
 
 ## TL;DR
 
-Japanese renewable-energy projects — solar (utility-scale PV), onshore and offshore wind, geothermal, and biomass — are typically financed through limited-recourse [[structured-finance/spv-tk-gk-vehicle-japan-tax|TK / GK SPV]] structures with equity from sogo shosha consortia, debt from a megabank-led syndicate often joined by regional banks, and revenue under long-tenor PPA or FIT/FIP contracts. The 2012 Feed-in Tariff (FIT) scheme created a decade of high-IRR utility-scale solar deals that anchored the renewable-SPV market; the 2022 transition to the Feed-in Premium (FIP) market-price-plus-premium scheme reduced the headline IRR but kept the structure intact. Offshore-wind round-1 awards (2021) and round-2 awards have shifted the centre of gravity to large-scale offshore-wind SPVs with [[JapanFG/mitsubishi-corp|Mitsubishi Corporation]], [[JapanFG/mitsui-co|Mitsui & Co.]], [[JapanFG/sumitomo-corp|Sumitomo Corporation]], and consortium partners as equity sponsors. Refinancing of FIT-era solar deals into operational-phase bonds or new SPV debt is now a meaningful market segment.
+Japanese renewable-energy projects — solar (utility-scale PV), onshore and offshore wind, geothermal, and biomass — are typically financed through limited-recourse [[structured-finance/spv-tk-gk-vehicle-japan-tax|TK / GK SPV]] structures with equity from sogo shosha consortia, debt from a megabank-led syndicate often joined by regional banks, and revenue under long-tenor PPA or FIT/FIP contracts. The 2012 Feed-in Tariff (FIT) scheme created a decade of high-IRR utility-scale solar deals that anchored the renewable-SPV market; the 2022 transition to the Feed-in Premium (FIP) market-price-plus-premium scheme reduced the headline IRR but kept the structure intact. Offshore-wind round-1 awards (2021) and round-2 awards have shifted the centre of gravity to large-scale offshore-wind SPVs with [[financial-conglomerates/mitsubishi-corp|Mitsubishi Corporation]], [[financial-conglomerates/mitsui-co|Mitsui & Co.]], [[financial-conglomerates/sumitomo-corp|Sumitomo Corporation]], and consortium partners as equity sponsors. Refinancing of FIT-era solar deals into operational-phase bonds or new SPV debt is now a meaningful market segment.
 
 ## Wiki route
 
@@ -61,9 +61,9 @@ Typical terms (FIT-era, utility-scale, 10–50MW):
 - **Senior LTV**: 65–80% of project cost
 - **DSCR target**: 1.20x–1.40x base case, 1.10x downside
 - **Sponsor equity IRR**: 8–15% (highest vintages reached the upper end)
-- **Lead arranger**: typically [[JapanFG/mufg|MUFG]], [[JapanFG/smfg|SMBC]], [[JapanFG/mizuho-fg|Mizuho]], or [[JapanFG/dbj|Development Bank of Japan]]
+- **Lead arranger**: typically [[megabanks/mufg|MUFG]], [[megabanks/smfg|SMBC]], [[megabanks/mizuho-fg|Mizuho]], or [[financial-regulators/dbj|Development Bank of Japan]]
 - **Participants**: regional banks (especially in the prefecture where the plant is located)
-- **Equity sponsors**: a mix of sogo shosha ([[JapanFG/mitsubishi-corp|Mitsubishi Corp]], [[JapanFG/mitsui-co|Mitsui]], [[JapanFG/sumitomo-corp|Sumitomo Corp]]), IPP specialists, infrastructure funds, and (occasionally) institutional investors as LPs in fund-of-SPV structures
+- **Equity sponsors**: a mix of sogo shosha ([[financial-conglomerates/mitsubishi-corp|Mitsubishi Corp]], [[financial-conglomerates/mitsui-co|Mitsui]], [[financial-conglomerates/sumitomo-corp|Sumitomo Corp]]), IPP specialists, infrastructure funds, and (occasionally) institutional investors as LPs in fund-of-SPV structures
 
 ## 3. Wind onshore — structure
 
@@ -89,7 +89,7 @@ Round-2 and subsequent rounds have expanded the pipeline. Key features for offsh
 - **Tenor**: 20–25 years
 - **PPA / FIP** structure (post-FIT)
 - **Sponsor consortium** typically including a sogo shosha, a Japanese utility, and a global offshore-wind developer (Orsted-style international partner)
-- **Lead lenders** include [[JapanFG/mufg|MUFG]], [[JapanFG/smfg|SMBC]], [[JapanFG/mizuho-fg|Mizuho]], [[JapanFG/dbj|DBJ]], and (for export-credit-supported turbine procurement) [[JapanFG/jbic|JBIC]] / [[policy-finance/nexi|NEXI]]
+- **Lead lenders** include [[megabanks/mufg|MUFG]], [[megabanks/smfg|SMBC]], [[megabanks/mizuho-fg|Mizuho]], [[financial-regulators/dbj|DBJ]], and (for export-credit-supported turbine procurement) [[financial-regulators/jbic|JBIC]] / [[policy-finance/nexi|NEXI]]
 - **Insurance**: marine construction risk, weather risk, supply-chain risk
 
 Offshore-wind SPV is materially more complex than utility-scale solar SPV — higher capex, longer construction, more counterparties, more weather risk.
@@ -152,10 +152,10 @@ The "IRR compression" curve is one reason the FIT-era was such a concentrated ca
 
 - The next vintage of offshore-wind awards and whether sponsor concentration changes
 - Whether Japanese banks reduce renewable-project-finance lending appetite under capital pressure from other portfolios
-- The role of [[JapanFG/japan-post-bank|Japan Post Bank]] and life insurers as project-bond buyers in the refinancing cycle
+- The role of [[regional-banks/japan-post-bank|Japan Post Bank]] and life insurers as project-bond buyers in the refinancing cycle
 - How the [[policy-finance/japan-project-finance-stack-diagram|policy-finance stack]] adapts as METI / GX policy emphasises grid-scale battery storage and hydrogen
 - Whether infrastructure J-REITs or YieldCos provide a public-market exit for operating renewable SPVs
-- The treatment of project-finance loans under [[JapanFG/boj|BOJ]] rate normalisation — refinancing cost dynamics
+- The treatment of project-finance loans under [[financial-regulators/boj|BOJ]] rate normalisation — refinancing cost dynamics
 
 ## Related
 
@@ -167,9 +167,9 @@ The "IRR compression" curve is one reason the FIT-era was such a concentrated ca
 - [[policy-finance/japan-project-finance-stack-diagram|Japan project finance stack]]
 - [[policy-finance/jbic-overseas-investment-underwriting-process|JBIC overseas-investment underwriting]]
 - [[finance/INDEX|finance index]]
-- [[JapanFG/mitsubishi-corp|Mitsubishi Corp]] · [[JapanFG/mitsui-co|Mitsui & Co.]] · [[JapanFG/sumitomo-corp|Sumitomo Corp]]
-- [[JapanFG/mufg|MUFG]] · [[JapanFG/smfg|SMFG]] · [[JapanFG/mizuho-fg|Mizuho FG]]
-- [[JapanFG/dbj|DBJ]] · [[JapanFG/jbic|JBIC]] · [[JapanFG/japan-exchange-group|JPX]]
+- [[financial-conglomerates/mitsubishi-corp|Mitsubishi Corp]] · [[financial-conglomerates/mitsui-co|Mitsui & Co.]] · [[financial-conglomerates/sumitomo-corp|Sumitomo Corp]]
+- [[megabanks/mufg|MUFG]] · [[megabanks/smfg|SMFG]] · [[megabanks/mizuho-fg|Mizuho FG]]
+- [[financial-regulators/dbj|DBJ]] · [[financial-regulators/jbic|JBIC]] · [[financial-regulators/japan-exchange-group|JPX]]
 
 ## Sources
 

@@ -108,9 +108,9 @@ After the March 2024 regime change ending NIRP and the [[money-market/boj-post-2
 
 ## JapanFG Relevance
 
-- Online brokers [[JapanFG/rakuten-securities]], [[JapanFG/sbi-securities]], [[JapanFG/monex-group]], and others operate MRF sweep accounts as part of account on-boarding.
-- Full-service securities firms [[JapanFG/nomura-hd]], [[JapanFG/daiwa-sg]], [[JapanFG/mizuho-securities]], [[JapanFG/mufg-mums]], and [[JapanFG/smbc-nikko]] operate MRF and short-yen funds.
-- Asset managers including [[JapanFG/nomura-asset-management]], [[JapanFG/asset-management-one]], [[JapanFG/nikko-asset-management]], [[JapanFG/daiwa-asset-management]], and [[JapanFG/mufg-asset-management]] operate the underlying short-yen fund vehicles.
+- Online brokers [[securities-firms/rakuten-securities]], [[securities-firms/sbi-securities]], [[securities-firms/monex-group]], and others operate MRF sweep accounts as part of account on-boarding.
+- Full-service securities firms [[securities-firms/nomura-hd]], [[securities-firms/daiwa-sg]], [[securities-firms/mizuho-securities]], [[securities-firms/mufg-mums]], and [[securities-firms/smbc-nikko]] operate MRF and short-yen funds.
+- Asset managers including [[asset-managers/nomura-asset-management]], [[asset-managers/asset-management-one]], [[asset-managers/nikko-asset-management]], [[asset-managers/daiwa-asset-management]], and [[asset-managers/mufg-asset-management]] operate the underlying short-yen fund vehicles.
 
 ## Boundary Cases
 
@@ -142,8 +142,8 @@ After the March 2024 regime change ending NIRP and the [[money-market/boj-post-2
 - [[securities/nisa-2025-tax-reform-update]]
 - [[securities/japan-online-brokerage-competition]]
 - [[securities/japan-asset-manager-landscape-matrix]]
-- [[JapanFG/nomura-asset-management]]
-- [[JapanFG/asset-management-one]]
+- [[asset-managers/nomura-asset-management]]
+- [[asset-managers/asset-management-one]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

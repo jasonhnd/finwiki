@@ -16,7 +16,7 @@ This entry sits under [[insurance/INDEX|insurance index]]. Read it against [[ins
 
 ## TL;DR
 
-日本的非寿险公司处在全球主要自然灾害市场之一：地震、台风、洪水、风暴潮和火山风险都很重要。因此，自然灾害再保险不是后台技术事项；它是 [[JapanFG/tokio-marine]]、[[JapanFG/msad]]、[[JapanFG/sompo]] 以及专业或区域非寿险公司的核心资产负债表和定价机制。
+日本的非寿险公司处在全球主要自然灾害市场之一：地震、台风、洪水、风暴潮和火山风险都很重要。因此，自然灾害再保险不是后台技术事项；它是 [[non-life-insurers/tokio-marine]]、[[non-life-insurers/msad]]、[[non-life-insurers/sompo]] 以及专业或区域非寿险公司的核心资产负债表和定价机制。
 
 家庭地震保险具有公私合营结构：民营非寿险公司和政府通过地震再保险制度分担风险，日本地震再保险株式会社是专业再保险机构。
 
@@ -42,8 +42,8 @@ This entry sits under [[insurance/INDEX|insurance index]]. Read it against [[ins
 
 ## JapanFG Relevance
 
-- [[JapanFG/tokio-marine]]、[[JapanFG/msad]] 和 [[JapanFG/sompo]] 是上市大型非寿险集团，巨灾损失、再保险续约和费率修订会影响收益。
-- [[JapanFG/daido-fire-marine]] 和 [[JapanFG/kyoritsu-fire-marine]] 是更具特定区域 / 行业定位的非寿险公司。
+- [[non-life-insurers/tokio-marine]]、[[non-life-insurers/msad]] 和 [[non-life-insurers/sompo]] 是上市大型非寿险集团，巨灾损失、再保险续约和费率修订会影响收益。
+- [[non-life-insurers/daido-fire-marine]] 和 [[non-life-insurers/kyoritsu-fire-marine]] 是更具特定区域 / 行业定位的非寿险公司。
 - [[insurance/saison-automobile-fire|SOMPO Direct / former Saison Automobile & Fire]] 是直接非寿险销售案例；即使销售数字化，其风险仍服从非寿险和再保险逻辑。
 - [[insurance/economic-value-based-solvency]] 和 [[insurance/esr-economic-value-solvency|ESR]] 应用于将巨灾风险转换为资本充足率分析。
 
@@ -61,10 +61,10 @@ Use this page when asking:
 - [[insurance/INDEX|insurance INDEX]]
 - [[insurance/saison-automobile-fire]]
 - [[insurance/economic-value-based-solvency]]
-- [[JapanFG/tokio-marine]]
-- [[JapanFG/msad]]
-- [[JapanFG/sompo]]
-- [[JapanFG/legal-financial-licenses/INDEX]]
+- [[non-life-insurers/tokio-marine]]
+- [[non-life-insurers/msad]]
+- [[non-life-insurers/sompo]]
+- [[financial-licenses/INDEX]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

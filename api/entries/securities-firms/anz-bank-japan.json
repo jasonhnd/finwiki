@@ -1,0 +1,105 @@
+{
+  "schema_version": "1.0",
+  "slug": "securities-firms/anz-bank-japan",
+  "source_path": "securities-firms/anz-bank-japan.md",
+  "url": "https://finwiki.zksc.io/securities-firms/anz-bank-japan",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/securities-firms/anz-bank-japan.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/securities-firms/anz-bank-japan.md",
+  "domain": "securities-firms",
+  "title": "ANZ銀行日本 (ANZ Bank Japan)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "ANZ銀行日本 (ANZ Bank Japan)",
+    "aliases": [
+      "ANZ Bank Japan",
+      "Australia and New Zealand Banking Group Japan",
+      "オーストラリア・ニュージーランド銀行",
+      "ANZ Securities Japan",
+      "ANZ Japan"
+    ],
+    "domain": "securities-firms",
+    "created": "2026-05-22",
+    "last_updated": "2026-05-22",
+    "last_tended": "2026-05-22",
+    "review_by": "2026-11-22",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "foreign-bank",
+      "Australia",
+      "securities",
+      "FIBO",
+      "corporate-banking"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/en/regulated/licensed/index.html",
+      "https://www.fsa.go.jp/en/regulated/licensed/city.pdf",
+      "https://www.fsa.go.jp/en/regulated/licensed/foreign.pdf",
+      "https://www.fsa.go.jp/en/regulated/licensed/fibo.pdf",
+      "https://www.anz.com/institutional/global/japan/en/",
+      "https://www.anz.com/institutional/global/japan/en/contact-us/",
+      "https://www.ibajapan.org/who-we-are/our-members/financial-group/australia-and-new-zealand-banking-group-limited"
+    ]
+  },
+  "summary": "ANZ Japan sits between foreign-bank branch registry, FIEA operator registry, and foreign financial group adjacent-license route. It is linked with Standard Chartered Japan, DBS Japan, UOB Japan, and securities license stack.",
+  "headings": [
+    "ANZ銀行日本 (ANZ Bank Japan)",
+    "Wiki route",
+    "Overview",
+    "Entity / License Stack",
+    "Business Role Map",
+    "Peer / Contrast Map",
+    "Research Checklist",
+    "Caveats",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 16,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/INDEX",
+      "banking/INDEX",
+      "finance/cross-border-m-a-japan",
+      "financial-licenses/foreign-bank-agency-business-route",
+      "financial-licenses/foreign-bank-branch-license-route",
+      "financial-licenses/foreign-financial-group-adjacent-licenses",
+      "financial-licenses/securities-license-stack",
+      "foreign-financial-institutions/bnp-paribas-japan",
+      "foreign-financial-institutions/dbs-bank-japan",
+      "foreign-financial-institutions/foreign-bank-branches-japan-index",
+      "foreign-financial-institutions/standard-chartered-japan",
+      "foreign-financial-institutions/uob-bank-japan",
+      "securities-firms/goldman-sachs-japan",
+      "securities/INDEX",
+      "securities/financial-instruments-business-operators-japan-index"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/finance/cross-border-m-a-japan",
+      "https://finwiki.zksc.io/financial-licenses/foreign-bank-agency-business-route",
+      "https://finwiki.zksc.io/financial-licenses/foreign-bank-branch-license-route",
+      "https://finwiki.zksc.io/financial-licenses/foreign-financial-group-adjacent-licenses",
+      "https://finwiki.zksc.io/financial-licenses/securities-license-stack",
+      "https://finwiki.zksc.io/foreign-financial-institutions/bnp-paribas-japan",
+      "https://finwiki.zksc.io/foreign-financial-institutions/dbs-bank-japan",
+      "https://finwiki.zksc.io/foreign-financial-institutions/foreign-bank-branches-japan-index",
+      "https://finwiki.zksc.io/foreign-financial-institutions/standard-chartered-japan",
+      "https://finwiki.zksc.io/foreign-financial-institutions/uob-bank-japan",
+      "https://finwiki.zksc.io/securities-firms/goldman-sachs-japan",
+      "https://finwiki.zksc.io/securities/INDEX",
+      "https://finwiki.zksc.io/securities/financial-instruments-business-operators-japan-index"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 5480,
+    "word_like_tokens": 805,
+    "inbound_wikilinks_count": 7,
+    "last_modified": "2026-06-04"
+  }
+}

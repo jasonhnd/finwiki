@@ -19,7 +19,7 @@ translated_at: 2026-05-31T11:13:44.836Z
 
 日本的人寿保险公司可以采用共同公司或股份公司的结构。相互寿险公司以保单持有人成员和长期盈余分配为导向；股票寿险公司拥有股东、上市或非上市股权治理，并且更容易获得股票市场资本。法律形式决定了治理、并购能力、披露激励以及投保人回报与股东回报之间的紧张关系。
 
-JapanFG 的关键示例：[[JapanFG/nippon-life]]、[[JapanFG/meiji-yasuda]] 和 [[JapanFG/sumitomo-life]] 是相互公司参考案例； [[JapanFG/dai-ichi-life]]、[[JapanFG/kampo-life]]、[[JapanFG/lifenet]] 和 [[JapanFG/orix-life]] 是股份公司参考案例。
+JapanFG 的关键示例：[[life-insurers/nippon-life]]、[[life-insurers/meiji-yasuda]] 和 [[life-insurers/sumitomo-life]] 是相互公司参考案例； [[life-insurers/dai-ichi-life]]、[[life-insurers/kampo-life]]、[[life-insurers/lifenet]] 和 [[life-insurers/orix-life]] 是股份公司参考案例。
 
 ＃＃ 比较
 
@@ -34,11 +34,11 @@ JapanFG 的关键示例：[[JapanFG/nippon-life]]、[[JapanFG/meiji-yasuda]] 和
 
 ## JapanFG 相关性
 
-- [[JapanFG/nippon-life]]：最大的互助公司基准；资本配置是通过投保人回报、集团扩张和偿付能力来解读的。
-- [[JapanFG/meiji-yasuda]] 和 [[JapanFG/sumitomo-life]]：传统互助公司同行。
-- [[JapanFG/dai-ichi-life]]：历史上很重要，因为它股份制化并上市，使其成为干净的上市人寿保险公司的比较案例。
-- [[JapanFG/kampo-life]]：股份公司保险公司，具有邮政来源分销和上市市场治理。
-- [[JapanFG/lifenet]]：源自互联网的上市/股份公司模型，可用于比较增长市场预期与人寿保险资本需求。
+- [[life-insurers/nippon-life]]：最大的互助公司基准；资本配置是通过投保人回报、集团扩张和偿付能力来解读的。
+- [[life-insurers/meiji-yasuda]] 和 [[life-insurers/sumitomo-life]]：传统互助公司同行。
+- [[life-insurers/dai-ichi-life]]：历史上很重要，因为它股份制化并上市，使其成为干净的上市人寿保险公司的比较案例。
+- [[life-insurers/kampo-life]]：股份公司保险公司，具有邮政来源分销和上市市场治理。
+- [[life-insurers/lifenet]]：源自互联网的上市/股份公司模型，可用于比较增长市场预期与人寿保险资本需求。
 
 ## 分析用途
 
@@ -54,9 +54,9 @@ JapanFG 的关键示例：[[JapanFG/nippon-life]]、[[JapanFG/meiji-yasuda]] 和
 - [[insurance/INDEX|insurance INDEX]]
 - [[insurance/esr-economic-value-solvency]]
 - [[insurance/life-insurance-channel-mix]]
-- [[JapanFG/nippon-life]]
-- [[JapanFG/dai-ichi-life]]
-- [[JapanFG/legal-financial-licenses/INDEX]]
+- [[life-insurers/nippon-life]]
+- [[life-insurers/dai-ichi-life]]
+- [[financial-licenses/INDEX]]
 - [[INDEX|FinWiki index]]
 
 ## 来源

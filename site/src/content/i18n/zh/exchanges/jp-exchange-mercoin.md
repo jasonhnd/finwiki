@@ -107,7 +107,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 - [[fintech/japan-stablecoin-regulatory-landscape]] — 相关 stablecoin 制度
 - [[fintech/jp-trust-type-sc-architecture]] — 相关 SC 制度
 - [[exchanges/jp-cex-points-economy-integration]] — JP CEX 积分经济整合（メルカリ积分联动）
-- [[JapanFG/progmat]] — Progmat stablecoin 平台
+- [[payment-firms/progmat]] — Progmat stablecoin 平台
 - [[exchanges/jp-vasp-parent-company-map]] — JP VASP 母公司地图
 
 ## Sources

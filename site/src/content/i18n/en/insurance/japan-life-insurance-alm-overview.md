@@ -14,7 +14,7 @@ translated_at: 2026-05-31T11:13:44.900Z
 
 This entry sits under[[insurance/INDEX|insurance index]]and is the asset-liability management routing page for Japanese life insurers. Read it together with[[insurance/japan-life-insurance-big-four|Japan life big four]]for the entities, with[[insurance/sony-life-group-life-operating-model|Sony Life Lifeplanner / group-life operating model]]for the stock-company variant, with[[insurance/economic-value-based-solvency|economic-value-based solvency]]for the regulatory framing, with[[insurance/esr-economic-value-solvency|ESR]]for the company-ratio interpretation, with[[insurance/global-solvency-framework-comparison-matrix|global solvency framework matrix]]for cross-jurisdiction comparability, and with[[insurance/mutual-vs-stock-life-insurer|mutual vs stock life insurer]]for the policyholder-dividend versus shareholder-dividend trade-off that ALM ultimately serves.
 
-ESR sensitivity drivers feed back into[[JapanFG/nippon-life|Nippon Life]],[[JapanFG/dai-ichi-life|Dai-ichi Life]],[[JapanFG/sumitomo-life|Sumitomo Life]],[[JapanFG/meiji-yasuda|Meiji Yasuda]], and[[JapanFG/sony-life|Sony Life]]balance-sheet analysis. Foreign-affiliate ALM nuances are captured in[[insurance/foreign-life-affiliate-japan-positioning|foreign-life affiliates positioning]].
+ESR sensitivity drivers feed back into[[life-insurers/nippon-life|Nippon Life]],[[life-insurers/dai-ichi-life|Dai-ichi Life]],[[life-insurers/sumitomo-life|Sumitomo Life]],[[life-insurers/meiji-yasuda|Meiji Yasuda]], and[[life-insurers/sony-life|Sony Life]]balance-sheet analysis. Foreign-affiliate ALM nuances are captured in[[insurance/foreign-life-affiliate-japan-positioning|foreign-life affiliates positioning]].
 
 ## TL;DR
 
@@ -22,7 +22,7 @@ Japanese life insurers run one of the most duration-mismatched balance sheets in
 
 Three ALM responses dominate: (1) extend yen-asset duration with super-long JGBs (20Y,30Y,40Y) accepting low absolute yield; (2) take foreign-bond exposure (mainly USD investment-grade credit and sovereigns) on either hedged or unhedged basis, accepting cross-currency basis cost on the hedged sleeve and FX volatility on the unhedged sleeve; (3) substitute credit assets (foreign IG credit, private debt, infrastructure debt) for sovereign yield under[[insurance/economic-value-based-solvency|economic-value]]capital constraints.
 
-ESR sensitivity is dominated by the residual duration mismatch (interest-rate risk), the unhedged FX position (currency risk), the equity-holdings book (equity risk), and the credit-spread exposure on the foreign credit sleeve. ALM committees at the big-four mutual insurers and at[[JapanFG/sony-life|Sony Life]]are positioned to balance these drivers against policyholder-dividend or shareholder-return constraints.
+ESR sensitivity is dominated by the residual duration mismatch (interest-rate risk), the unhedged FX position (currency risk), the equity-holdings book (equity risk), and the credit-spread exposure on the foreign credit sleeve. ALM committees at the big-four mutual insurers and at[[life-insurers/sony-life|Sony Life]]are positioned to balance these drivers against policyholder-dividend or shareholder-return constraints.
 
 ### Duration
 
@@ -101,7 +101,7 @@ This credit-substitution shift increases[[insurance/economic-value-based-solvenc
 
 ### Domestic equities
 
-Japanese life insurers historically held substantial cross-shareholdings with banking and industrial counterparties. Wind-down of cross-shareholdings is a multi-year program, but the residual equity book remains a meaningful ESR equity-risk exposure. Listed-insurer peers (notably[[JapanFG/dai-ichi-life|Dai-ichi Life]]at the holding level and the non-life[[insurance/japan-nonlife-big-three|big-three]]) disclose explicit wind-down schedules.
+Japanese life insurers historically held substantial cross-shareholdings with banking and industrial counterparties. Wind-down of cross-shareholdings is a multi-year program, but the residual equity book remains a meaningful ESR equity-risk exposure. Listed-insurer peers (notably[[life-insurers/dai-ichi-life|Dai-ichi Life]]at the holding level and the non-life[[insurance/japan-nonlife-big-three|big-three]]) disclose explicit wind-down schedules.
 
 ## ALM committee structure
 
@@ -163,8 +163,8 @@ How ALM results are translated for stakeholders differs sharply by legal form:
 | Form | ALM disclosure flow |
 |---|---|
 | Mutual insurer (Nippon, Meiji Yasuda, Sumitomo) | ALM results feed into policyholder dividend capacity; surplus distribution is governed by mutual policyholder-representative procedures |
-| Listed stock insurer ([[JapanFG/dai-ichi-life|Dai-ichi Life Holdings]]) | ALM results feed into shareholder dividend / buyback capacity, ROE / cost-of-capital framing, and equity-market valuation |
-| Stock subsidiary of non-financial parent ([[JapanFG/sony-life|Sony Life]]under[[JapanFG/sony-fg|Sony FG]]) | ALM results feed into intra-group dividend up-streaming to parent and indirect equity-market discipline at the ultimate parent level |
+| Listed stock insurer ([[life-insurers/dai-ichi-life|Dai-ichi Life Holdings]]) | ALM results feed into shareholder dividend / buyback capacity, ROE / cost-of-capital framing, and equity-market valuation |
+| Stock subsidiary of non-financial parent ([[life-insurers/sony-life|Sony Life]]under[[megabanks/sony-fg|Sony FG]]) | ALM results feed into intra-group dividend up-streaming to parent and indirect equity-market discipline at the ultimate parent level |
 
 The[[insurance/mutual-vs-stock-life-insurer|mutual vs stock comparison]]is essential context: identical ALM positioning can produce structurally different stakeholder outcomes depending on legal form.
 
@@ -172,12 +172,12 @@ The[[insurance/mutual-vs-stock-life-insurer|mutual vs stock comparison]]is essen
 
 | Insurer | ALM character |
 |---|---|
-| [[JapanFG/nippon-life|Nippon Life]] | Largest balance sheet; broad ALM committee; broad foreign-asset diversification; substantial domestic equity holdings under wind-down disclosure |
-| [[JapanFG/dai-ichi-life|Dai-ichi Life]] | Listed-holding capital discipline; explicit ESR target range; overseas insurance and asset-management adjuncts; clear sensitivity disclosure |
-| [[JapanFG/meiji-yasuda|Meiji Yasuda]] | Mutual governance; long-duration domestic protection book; relationship-based corporate channel implications for liability profile |
-| [[JapanFG/sumitomo-life|Sumitomo Life]] | Mutual governance; product reform and wellness-linked sales feed into newer liability cohorts; overseas asset investment portfolio |
+| [[life-insurers/nippon-life|Nippon Life]] | Largest balance sheet; broad ALM committee; broad foreign-asset diversification; substantial domestic equity holdings under wind-down disclosure |
+| [[life-insurers/dai-ichi-life|Dai-ichi Life]] | Listed-holding capital discipline; explicit ESR target range; overseas insurance and asset-management adjuncts; clear sensitivity disclosure |
+| [[life-insurers/meiji-yasuda|Meiji Yasuda]] | Mutual governance; long-duration domestic protection book; relationship-based corporate channel implications for liability profile |
+| [[life-insurers/sumitomo-life|Sumitomo Life]] | Mutual governance; product reform and wellness-linked sales feed into newer liability cohorts; overseas asset investment portfolio |
 
-[[JapanFG/sony-life|Sony Life]]'s ALM (see[[insurance/sony-life-group-life-operating-model|Lifeplanner / group-life operating model]]) sits adjacent to the big four with a stock-company foreign-tech-parent overlay and a meaningful foreign-currency product mix sold through the Lifeplanner channel.
+[[life-insurers/sony-life|Sony Life]]'s ALM (see[[insurance/sony-life-group-life-operating-model|Lifeplanner / group-life operating model]]) sits adjacent to the big four with a stock-company foreign-tech-parent overlay and a meaningful foreign-currency product mix sold through the Lifeplanner channel.
 
 ## Practical reading order for insurer disclosure
 
@@ -208,13 +208,13 @@ Cross-referencing these sections produces a fuller picture than reading any sing
 - [[insurance/internet-life-insurance-business-model]]
 - [[insurance/foreign-life-affiliate-japan-positioning]]
 - [[insurance/japan-iaig-ics-mapping]]
-- [[JapanFG/nippon-life]]
-- [[JapanFG/dai-ichi-life]]
-- [[JapanFG/sumitomo-life]]
-- [[JapanFG/meiji-yasuda]]
-- [[JapanFG/sony-life]]
-- [[JapanFG/sony-fg]]
-- [[JapanFG/legal-financial-licenses/insurance-license-and-solvency]]
+- [[life-insurers/nippon-life]]
+- [[life-insurers/dai-ichi-life]]
+- [[life-insurers/sumitomo-life]]
+- [[life-insurers/meiji-yasuda]]
+- [[life-insurers/sony-life]]
+- [[megabanks/sony-fg]]
+- [[financial-licenses/insurance-license-and-solvency]]
 - [[finance/japan-listed-financial-groups-investable-universe]]
 - [[INDEX|FinWiki index]]
 

@@ -25,7 +25,7 @@ sources:
 
 ## TL;DR
 
-The Japan Export-Import Bank (日本輸出入銀行 / JEXIM) was Japan's principal state export-credit and overseas-investment lending institution from 1950 to 1999. In 1999 it merged with the Overseas Economic Cooperation Fund (海外経済協力基金 / OECF) to form the original Japan Bank for International Cooperation (JBIC). Understanding JEXIM matters for any historical analysis of Japan's postwar export-led industrialization, ODA architecture, and the modern split between [[JapanFG/jbic|JBIC]] and [[policy-finance/jica|JICA]].
+The Japan Export-Import Bank (日本輸出入銀行 / JEXIM) was Japan's principal state export-credit and overseas-investment lending institution from 1950 to 1999. In 1999 it merged with the Overseas Economic Cooperation Fund (海外経済協力基金 / OECF) to form the original Japan Bank for International Cooperation (JBIC). Understanding JEXIM matters for any historical analysis of Japan's postwar export-led industrialization, ODA architecture, and the modern split between [[financial-regulators/jbic|JBIC]] and [[policy-finance/jica|JICA]].
 
 This page sits under [[policy-finance/INDEX|policy-finance index]] as the historical anchor for the contemporary JBIC / JICA / NEXI / DBJ public-finance map.
 
@@ -40,15 +40,15 @@ This page sits under [[policy-finance/INDEX|policy-finance index]] as the histor
 | Dissolved | 1999-10-01 — merged with OECF to form the original JBIC |
 | Legal form | Special government corporation, 100% government-funded |
 | Supervisory route | Ministry of Finance |
-| Succession lane | [[JapanFG/jbic|JBIC]] inherits export and overseas-investment lending; OECF's ODA loans were later transferred to [[policy-finance/jica|JICA]] in 2008 |
+| Succession lane | [[financial-regulators/jbic|JBIC]] inherits export and overseas-investment lending; OECF's ODA loans were later transferred to [[policy-finance/jica|JICA]] in 2008 |
 
 ## 2. Why this page exists separately
 
-The 1999 merger and the 2008 reorganization left the contemporary Japanese policy-finance map with a clean institutional split — [[JapanFG/jbic|JBIC]] for overseas-business finance, [[policy-finance/jica|JICA]] for ODA — but the legacy of JEXIM remains important for:
+The 1999 merger and the 2008 reorganization left the contemporary Japanese policy-finance map with a clean institutional split — [[financial-regulators/jbic|JBIC]] for overseas-business finance, [[policy-finance/jica|JICA]] for ODA — but the legacy of JEXIM remains important for:
 
 - Reading older project-finance documentation that uses "Eximbank Japan" or "JEXIM" terminology.
 - Understanding why Japan's contemporary export-credit architecture is structurally different from US EXIM, Korea EXIM, China EXIM, or KfW IPEX — the 1999 merger consolidated functions that other countries left in separate institutions.
-- Tracing the genealogy of contemporary [[JapanFG/jbic|JBIC]] business lines and the [[policy-finance/japan-project-finance-stack-diagram|Japanese project-finance stack]].
+- Tracing the genealogy of contemporary [[financial-regulators/jbic|JBIC]] business lines and the [[policy-finance/japan-project-finance-stack-diagram|Japanese project-finance stack]].
 - Distinguishing OECD-Arrangement-eligible export credit (JBIC heir) from ODA concessional lending (JICA heir).
 
 ## 3. Function map (historical)
@@ -61,7 +61,7 @@ The 1999 merger and the 2008 reorganization left the contemporary Japanese polic
 | Untied loan (アンタイドローン) | Long-term lending to foreign sovereigns and entities not tied to specific Japanese exports, often supporting resource imports. |
 | Import financing | Long-term lending to Japanese importers, particularly for energy and raw materials. |
 
-These functions all continue under [[JapanFG/jbic|JBIC]] today, framed within the contemporary [[policy-finance/oecd-export-credit-arrangement|OECD Arrangement]] discipline.
+These functions all continue under [[financial-regulators/jbic|JBIC]] today, framed within the contemporary [[policy-finance/oecd-export-credit-arrangement|OECD Arrangement]] discipline.
 
 ## 4. Historical trajectory
 
@@ -74,23 +74,23 @@ These functions all continue under [[JapanFG/jbic|JBIC]] today, framed within th
 | 1990s | Post-bubble era; resource-security and emerging-market exposure expanded. |
 | 1999-10-01 | Merged with OECF to form original Japan Bank for International Cooperation (旧 JBIC). |
 | 2003-10 | OECF's ODA-loan portfolio transferred to [[policy-finance/jica|JICA]] under reform. |
-| 2008-10-01 | Original JBIC absorbed into [[JapanFG/jfc|JFC]] as its international-finance division. |
-| 2012-04-01 | International-finance division spun back out as the current [[JapanFG/jbic|JBIC]] (special-shareholding company). |
+| 2008-10-01 | Original JBIC absorbed into [[financial-regulators/jfc|JFC]] as its international-finance division. |
+| 2012-04-01 | International-finance division spun back out as the current [[financial-regulators/jbic|JBIC]] (special-shareholding company). |
 
 ## 5. Institutional significance
 
 JEXIM's existence and its 1999 merger explain three persistent features of contemporary Japanese policy finance, all visible in [[policy-finance/japan-policy-finance-system|Japan policy finance system]]:
 
-1. **Consolidated overseas-finance vehicle**: Unlike the US separation between EXIM Bank and OPIC / DFC, Japan consolidated export credit and overseas-investment finance into a single institution, simplifying co-finance with megabanks ([[JapanFG/mufg|MUFG]], [[JapanFG/smfg|SMFG]], [[JapanFG/mizuho-fg|Mizuho FG]]) on the [[policy-finance/japan-project-finance-stack-diagram|project-finance stack]].
+1. **Consolidated overseas-finance vehicle**: Unlike the US separation between EXIM Bank and OPIC / DFC, Japan consolidated export credit and overseas-investment finance into a single institution, simplifying co-finance with megabanks ([[megabanks/mufg|MUFG]], [[megabanks/smfg|SMFG]], [[megabanks/mizuho-fg|Mizuho FG]]) on the [[policy-finance/japan-project-finance-stack-diagram|project-finance stack]].
 2. **Late ODA separation**: ODA loan administration moved fully to [[policy-finance/jica|JICA]] only in 2008, decades after the institutional history started. This is why older textbooks describe JEXIM as ODA-adjacent even though contemporary JBIC is not.
 3. **Pre-WTO export-credit norms**: JEXIM operated before the modern [[policy-finance/oecd-export-credit-arrangement|OECD Arrangement]] sector understandings tightened ECA discipline; legacy book inherited by JBIC includes deals struck under softer rules.
 
 ## 6. Boundary cases
 
-- **Not the contemporary JBIC**: This page is historical. Current overseas policy finance routes to [[JapanFG/jbic|JBIC]].
+- **Not the contemporary JBIC**: This page is historical. Current overseas policy finance routes to [[financial-regulators/jbic|JBIC]].
 - **Not JICA**: ODA / development-cooperation history belongs primarily to OECF and from 2008 to [[policy-finance/jica|JICA]], not to JEXIM directly.
 - **Not US EXIM**: The institution shares an English-language "Eximbank" label with US EXIM but had broader functions including overseas-investment lending and untied loans.
-- **Not [[JapanFG/dbj|DBJ]]**: DBJ's predecessor (Japan Development Bank / 日本開発銀行) was the **domestic** development-bank counterpart; JEXIM was its **overseas** counterpart. They were peer special-purpose state banks.
+- **Not [[financial-regulators/dbj|DBJ]]**: DBJ's predecessor (Japan Development Bank / 日本開発銀行) was the **domestic** development-bank counterpart; JEXIM was its **overseas** counterpart. They were peer special-purpose state banks.
 
 ## 7. Open questions
 
@@ -104,10 +104,10 @@ JEXIM's existence and its 1999 merger explain three persistent features of conte
 - [[policy-finance/japan-policy-finance-system]]
 - [[policy-finance/japan-project-finance-stack-diagram]]
 - [[policy-finance/oecd-export-credit-arrangement]]
-- [[JapanFG/jbic]]
+- [[financial-regulators/jbic]]
 - [[policy-finance/jica]]
-- [[JapanFG/jfc]]
-- [[JapanFG/dbj]]
+- [[financial-regulators/jfc]]
+- [[financial-regulators/dbj]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

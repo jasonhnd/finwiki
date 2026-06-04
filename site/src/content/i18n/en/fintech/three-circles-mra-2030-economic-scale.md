@@ -40,7 +40,7 @@ The three-currency expansion does not consume the gray circle; it creates two ma
 ```
 
 **One-way recognition -> bilateral recognition -> triangular MRA**:
-- 2026-02 U.S.-Japan MRA signed, covering USDC x [[JapanFG/jpyc|JPYC]] bilaterally.
+- 2026-02 U.S.-Japan MRA signed, covering USDC x [[payment-firms/jpyc|JPYC]] bilaterally.
 - 2026-Q3 U.S.-EU MRA expected; see [[fintech/mica-cross-border-implications|MiCA cross-border implications]].
 - 2027-2028 full three-currency MRA signing, enabling automatic passporting for licensed issuers.
 

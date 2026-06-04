@@ -1,0 +1,79 @@
+{
+  "schema_version": "1.0",
+  "slug": "non-life-insurers/daido-fire-marine",
+  "source_path": "non-life-insurers/daido-fire-marine.md",
+  "url": "https://finwiki.zksc.io/non-life-insurers/daido-fire-marine",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/non-life-insurers/daido-fire-marine.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/non-life-insurers/daido-fire-marine.md",
+  "domain": "non-life-insurers",
+  "title": "大同火災海上保険",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "大同火災海上保険",
+    "aliases": [
+      "大同火災",
+      "Daido Fire and Marine",
+      "Daido Fire",
+      "DFM",
+      "沖縄海上火災保険"
+    ],
+    "domain": "non-life-insurers",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "non-life-insurance",
+      "okinawa"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: 大同火災海上保険 (2026-05-19 抽出)",
+      "大同火災海上保険 公式 HP (会社案内、2025 年度版)"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against SOMPO ホールディングス (Sompo Holdings) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "大同火災海上保険",
+    "Wiki route",
+    "TL;DR",
+    "1. 会社概要",
+    "主要業務・支店網",
+    "重要年表 ^[extracted]",
+    "2. 事業セグメント・マップ",
+    "地場優位の源泉",
+    "大手 3 損保との競合",
+    "災害リスク管理"
+  ],
+  "body_links": {
+    "wikilinks_count": 7,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "banking/INDEX",
+      "insurance/natcat-reinsurance-japan",
+      "msad",
+      "non-life-insurers/sompo",
+      "sompo",
+      "tokio-marine"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/insurance/natcat-reinsurance-japan",
+      "https://finwiki.zksc.io/msad",
+      "https://finwiki.zksc.io/non-life-insurers/sompo",
+      "https://finwiki.zksc.io/sompo",
+      "https://finwiki.zksc.io/tokio-marine"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3083,
+    "word_like_tokens": 404,
+    "inbound_wikilinks_count": 5,
+    "last_modified": "2026-06-04"
+  }
+}

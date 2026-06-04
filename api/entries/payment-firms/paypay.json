@@ -1,0 +1,80 @@
+{
+  "schema_version": "1.0",
+  "slug": "payment-firms/paypay",
+  "source_path": "payment-firms/paypay.md",
+  "url": "https://finwiki.zksc.io/payment-firms/paypay",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/payment-firms/paypay.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/payment-firms/paypay.md",
+  "domain": "payment-firms",
+  "title": "PayPay株式会社",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "PayPay株式会社",
+    "aliases": [
+      "PayPay",
+      "PayPay Corporation",
+      "PayPay株式会社",
+      "ペイペイ"
+    ],
+    "domain": "payment-firms",
+    "created": "2026-05-21",
+    "last_updated": "2026-05-21",
+    "last_tended": "2026-05-21",
+    "review_by": "2026-11-21",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "payments",
+      "wallet",
+      "funds-transfer",
+      "code-payment"
+    ],
+    "status": "active",
+    "sources": [
+      "https://about.paypay.ne.jp/about/",
+      "https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against PayPal Pte. Ltd. Japan service boundary for peer / contrast context and payments index for the broader system / regulatory boundary.",
+  "headings": [
+    "PayPay株式会社",
+    "Wiki route",
+    "TL;DR",
+    "1. 法人・ライセンス境界",
+    "2. Business role",
+    "3. Why this standalone page matters",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 8,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "card-issuers/paypay-card",
+      "megabanks/paypay-fg",
+      "payment-firms/paypal-pte-ltd-japan",
+      "payments/INDEX",
+      "payments/cashless-jp-landscape",
+      "payments/funds-transfer-vs-prepaid-boundary",
+      "securities-firms/paypay-securities"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/card-issuers/paypay-card",
+      "https://finwiki.zksc.io/megabanks/paypay-fg",
+      "https://finwiki.zksc.io/payment-firms/paypal-pte-ltd-japan",
+      "https://finwiki.zksc.io/payments/INDEX",
+      "https://finwiki.zksc.io/payments/cashless-jp-landscape",
+      "https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary",
+      "https://finwiki.zksc.io/securities-firms/paypay-securities"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 1941,
+    "word_like_tokens": 308,
+    "inbound_wikilinks_count": 42,
+    "last_modified": "2026-06-04"
+  }
+}

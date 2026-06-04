@@ -1,0 +1,101 @@
+{
+  "schema_version": "1.0",
+  "slug": "regional-banks/ikeda-senshu-hd",
+  "source_path": "regional-banks/ikeda-senshu-hd.md",
+  "url": "https://finwiki.zksc.io/regional-banks/ikeda-senshu-hd",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/regional-banks/ikeda-senshu-hd.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/regional-banks/ikeda-senshu-hd.md",
+  "domain": "regional-banks",
+  "title": "池田泉州ホールディングス",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "池田泉州ホールディングス",
+    "aliases": [
+      "Ikeda Senshu HD",
+      "Ikeda Senshu Holdings",
+      "池田泉州 HD",
+      "池田泉州フィナンシャルホールディングス",
+      "池田泉州銀行 HD"
+    ],
+    "domain": "regional-banks",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "regional-bank",
+      "kansai"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: 池田泉州ホールディングス (2026-05-19 抽出)",
+      "Wikipedia: 池田泉州銀行 (2026-05-19 抽出)",
+      "Wikipedia: 池田銀行 (2026-05-19 抽出)",
+      "Wikipedia: 泉州銀行 (2026-05-19 抽出)",
+      "池田泉州 HD 公式 IR・有価証券報告書（2025-03 期）",
+      "https://edinetdb.jp/company/E23250 (2025-03 期 連結計数, 2026-05-29 確認)",
+      "https://www.sihd-bk.jp/aboutus/outline/ (池田泉州銀行 会社概要: 預金・店舗・従業員)",
+      "https://www.senshuikeda-hd.co.jp/ir/e-koukoku/management_plan/index.html (第 5 次中期経営計画 Plus)"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 京都フィナンシャルグループ for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "池田泉州ホールディングス",
+    "Wiki route",
+    "TL;DR",
+    "1. 会社概要",
+    "2025-03 期決算（連結ベース）",
+    "主要子会社・組織",
+    "合併経緯・前身",
+    "重要年表（抜粋）^[extracted]",
+    "2. 事業セグメント・マップ",
+    "戦略軸"
+  ],
+  "body_links": {
+    "wikilinks_count": 15,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "banking/INDEX",
+      "concordia-fg",
+      "fukuoka-fg",
+      "hirogin-hd",
+      "mizuho-fg",
+      "mufg",
+      "paypay-fg",
+      "rakuten-fg",
+      "regional-banks/kyoto-fg",
+      "resona-hd",
+      "sbi-hd",
+      "shizuoka-fg",
+      "smfg",
+      "sumitomo-mitsui-trust"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/concordia-fg",
+      "https://finwiki.zksc.io/fukuoka-fg",
+      "https://finwiki.zksc.io/hirogin-hd",
+      "https://finwiki.zksc.io/mizuho-fg",
+      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/paypay-fg",
+      "https://finwiki.zksc.io/rakuten-fg",
+      "https://finwiki.zksc.io/regional-banks/kyoto-fg",
+      "https://finwiki.zksc.io/resona-hd",
+      "https://finwiki.zksc.io/sbi-hd",
+      "https://finwiki.zksc.io/shizuoka-fg",
+      "https://finwiki.zksc.io/smfg",
+      "https://finwiki.zksc.io/sumitomo-mitsui-trust"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 5576,
+    "word_like_tokens": 977,
+    "inbound_wikilinks_count": 6,
+    "last_modified": "2026-06-04"
+  }
+}

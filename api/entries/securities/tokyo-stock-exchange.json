@@ -50,8 +50,8 @@
   "body_links": {
     "wikilinks_count": 10,
     "wikilinks": [
-      "JapanFG/japan-exchange-group",
       "finance/japan-ib-league-table",
+      "financial-regulators/japan-exchange-group",
       "fintech/japan-listed-company-disclosure-monitoring",
       "securities/INDEX",
       "securities/financial-instruments-business-operators-japan-index",
@@ -62,8 +62,8 @@
       "securities/osaka-exchange"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/japan-exchange-group",
       "https://finwiki.zksc.io/finance/japan-ib-league-table",
+      "https://finwiki.zksc.io/financial-regulators/japan-exchange-group",
       "https://finwiki.zksc.io/fintech/japan-listed-company-disclosure-monitoring",
       "https://finwiki.zksc.io/securities/INDEX",
       "https://finwiki.zksc.io/securities/financial-instruments-business-operators-japan-index",
@@ -77,9 +77,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2672,
-    "word_like_tokens": 393,
+    "nonspace_chars": 2698,
+    "word_like_tokens": 395,
     "inbound_wikilinks_count": 48,
-    "last_modified": "2026-05-21"
+    "last_modified": "2026-06-04"
   }
 }

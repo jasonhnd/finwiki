@@ -226,12 +226,12 @@ If holding to bond maturity is not feasible, CDS protection must be rolled (5Y C
 - [[insurance/japan-life-insurance-alm-overview]]
 - [[securities/japan-prime-brokerage-and-institutional-financing]]
 - [[money-market/INDEX]]
-- [[JapanFG/mufg]]
-- [[JapanFG/sumitomo-mitsui-banking-corp]]
-- [[JapanFG/mizuho-bank]]
-- [[JapanFG/nomura-hd]]
-- [[JapanFG/goldman-sachs-japan]]
-- [[JapanFG/morgan-stanley-japan]]
+- [[megabanks/mufg]]
+- [[megabanks/sumitomo-mitsui-banking-corp]]
+- [[megabanks/mizuho-bank]]
+- [[securities-firms/nomura-hd]]
+- [[securities-firms/goldman-sachs-japan]]
+- [[securities-firms/morgan-stanley-japan]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

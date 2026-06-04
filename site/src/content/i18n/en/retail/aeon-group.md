@@ -12,7 +12,7 @@ translated_at: 2026-06-01T03:31:12.320Z
 
 ## TL;DR
 
-AEON is a retail group whose financial-services value comes from **daily-life distribution**: supermarkets, malls, credit cards, WAON electronic money, AEON Pay, insurance counters, and [[JapanFG/aeon-bank|Aeon Bank / AEON Financial Service]]. For FinWiki, AEON is the strongest example of a Japanese **retail-to-finance operating system**.
+AEON is a retail group whose financial-services value comes from **daily-life distribution**: supermarkets, malls, credit cards, WAON electronic money, AEON Pay, insurance counters, and [[card-issuers/aeon-bank|Aeon Bank / AEON Financial Service]]. For FinWiki, AEON is the strongest example of a Japanese **retail-to-finance operating system**.
 
 The financial question is not "does AEON own a bank?" It is **how retail frequency creates financial distribution and credit data**.
 
@@ -39,10 +39,10 @@ AEON's finance model has three advantages:
 
 | Product / activity | Likely legal / operational layer | Related page |
 |---|---|---|
-| Bank account / deposit / mortgage | Bank license through AEON Bank | [[JapanFG/aeon-bank|Aeon Bank / AFS]] |
+| Bank account / deposit / mortgage | Bank license through AEON Bank | [[card-issuers/aeon-bank|Aeon Bank / AFS]] |
 | Credit card | Credit-card issuing / acquiring, installment-sales and card-number handling rules | [[payments/cashless-jp-landscape|cashless JP landscape]] |
 | WAON electronic money | Prepaid electronic money / stored-value operation | [[loyalty/japan-points-landscape|points landscape]] |
-| WAON POINT | Loyalty liability and marketing layer; legal analysis depends on purchase / transfer / redemption design | [[JapanFG/legal-financial-licenses/INDEX|legal / financial licenses]] |
+| WAON POINT | Loyalty liability and marketing layer; legal analysis depends on purchase / transfer / redemption design | [[financial-licenses/INDEX|legal / financial licenses]] |
 | Insurance counter / agency | Insurance solicitation / agency route | [[insurance/INDEX|insurance INDEX]] |
 | Asian consumer finance | Local credit / consumer-finance regulation in each country | [[finance/INDEX|finance INDEX]] |
 
@@ -51,9 +51,9 @@ AEON's finance model has three advantages:
 | Competitor | AEON contrast |
 |---|---|
 | [[retail/seven-and-i-hd|Seven & i]] | Seven has stronger convenience-store / ATM platform; AEON has broader mall + supermarket + bank + card integration. |
-| [[JapanFG/paypay-fg|PayPay FG]] | PayPay wins app and code-payment mindshare; AEON wins in owned retail physical touchpoints. |
-| [[JapanFG/rakuten-fg|Rakuten FG]] | Rakuten has a stronger online ecosystem; AEON has a stronger physical retail catchment area. |
-| [[JapanFG/jcb|JCB]] / card issuers | AEON Card is merchant-linked and group-benefit driven rather than purely card-network driven. |
+| [[megabanks/paypay-fg|PayPay FG]] | PayPay wins app and code-payment mindshare; AEON wins in owned retail physical touchpoints. |
+| [[payment-firms/rakuten-fg|Rakuten FG]] | Rakuten has a stronger online ecosystem; AEON has a stronger physical retail catchment area. |
+| [[card-issuers/jcb|JCB]] / card issuers | AEON Card is merchant-linked and group-benefit driven rather than purely card-network driven. |
 | Internet banks | AEON Bank has physical distribution but may trail in app-native UX and pure rate competition. |
 
 ## Strategic Reading
@@ -69,11 +69,11 @@ This is structurally different from megabank finance, which starts from the bala
 ## Related
 
 - [[retail/INDEX|retail INDEX]]
-- [[JapanFG/aeon-bank|Aeon Bank / AFS]]
+- [[card-issuers/aeon-bank|Aeon Bank / AFS]]
 - [[payments/cashless-jp-landscape|Japan cashless payment landscape]]
 - [[loyalty/japan-points-landscape|Japan points landscape]]
 - [[retail/seven-and-i-hd|Seven & i]]
-- [[JapanFG/jcb|JCB]]
+- [[card-issuers/jcb|JCB]]
 - [[insurance/INDEX|insurance INDEX]]
 - [[INDEX|FinWiki index]]
 

@@ -181,7 +181,7 @@ The same underlying borrower-finance need flows through five structurally distin
 
 ### Channel 1 — Direct public-offering (市場公募地方債)
 
-Direct primary issuance to broad investor markets. Available structurally to Tokyo Metropolis, major prefectures, and the largest designated cities. Underwriters are securities firms (Nomura, Daiwa, SMBC Nikko, Mizuho Securities, Mitsubishi UFJ Morgan Stanley) operating in a syndicate. Investors are domestic banks, life insurers, pension funds, regional banks, [[JapanFG/norinchukin|農林中央金庫]] / [[JapanFG/shinkin-central|信金中金]] system, foreign institutional holders (limited to benchmark issuers). Spread to JGB is the headline pricing reference; coupons set against the 10y JGB benchmark.
+Direct primary issuance to broad investor markets. Available structurally to Tokyo Metropolis, major prefectures, and the largest designated cities. Underwriters are securities firms (Nomura, Daiwa, SMBC Nikko, Mizuho Securities, Mitsubishi UFJ Morgan Stanley) operating in a syndicate. Investors are domestic banks, life insurers, pension funds, regional banks, [[cooperative-banks/norinchukin|農林中央金庫]] / [[cooperative-banks/shinkin-central|信金中金]] system, foreign institutional holders (limited to benchmark issuers). Spread to JGB is the headline pricing reference; coupons set against the 10y JGB benchmark.
 
 ### Channel 2 — Joint local-government bond (共同発行市場公募地方債)
 
@@ -216,7 +216,7 @@ Local-government bond demand is concentrated in domestic institutional investors
 - **Domestic banks ([[banking/INDEX|banking sector]]).** Megabanks, [[banking/regional-bank-consolidation-pattern|regional banks]], second-regional banks, shinkin, credit cooperatives. Regional banks hold material local-bond exposure as part of their portfolio diversification away from JGBs. The [[banking/INDEX|banking-domain]] holder base is the largest single investor cohort.
 - **Life insurance and pension funds.** Long-tenor demand for high-grade yen-denominated public credit; large institutional holders of long-tenor public-offering local bonds and [[policy-finance/japan-finance-organization-municipalities|JFM]] bonds.
 - **Public pension and GPIF / public funds.** Hold large allocations to JGBs and selectively to JFM bonds and benchmark local bonds.
-- **Cooperative-banking apex institutions.** [[JapanFG/norinchukin|農林中央金庫]], [[JapanFG/shinkin-central|信金中金]], 労金連, 全信組連 hold material public-credit yen exposure including local bonds and JFM bonds.
+- **Cooperative-banking apex institutions.** [[cooperative-banks/norinchukin|農林中央金庫]], [[cooperative-banks/shinkin-central|信金中金]], 労金連, 全信組連 hold material public-credit yen exposure including local bonds and JFM bonds.
 - **Foreign institutional holders.** Concentrated on Tokyo Metropolitan Bond, JFM bonds (including foreign-currency-denominated issuance), and selectively on the largest named-prefecture and designated-city issuers (Osaka, Aichi, Kanagawa, Yokohama, Nagoya). Small-issuer bonds and the bulk of joint-issuance bonds are essentially domestically-held.
 - **Retail investors.** Tokyo Metropolitan Government and selected other issuers run retail-targeted bond series targeted at residents. The retail share of total local-bond issuance is modest but structurally meaningful for issuer-name recognition.
 
@@ -264,8 +264,8 @@ When reading any single local-government bond reference:
 - [[money-market/japan-money-market|Japan money market]]
 - [[finance/INDEX|finance index]]
 - [[finance/japan-listed-financial-groups-investable-universe|Japanese listed financial groups]]
-- [[JapanFG/local-bond-market|JapanFG local-bond market]]
-- [[JapanFG/local-govt-finance|JapanFG local-government finance corporate-history]]
+- [[financial-regulators/local-bond-market|JapanFG local-bond market]]
+- [[financial-regulators/local-govt-finance|JapanFG local-government finance corporate-history]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

@@ -32,7 +32,7 @@ sources:
 
 ## TL;DR
 
-The **ISDA 2020 IBOR Fallback Protocol** (formally "ISDA 2020 IBOR Fallbacks Protocol," published October 2020, effective from 25 January 2021) is the multilateral contractual mechanism through which **legacy IBOR-referencing derivatives — including JPY LIBOR — were automatically amended to incorporate risk-free-rate (RFR) fallback language** without bilateral negotiation. For Japan, the protocol's central impact was the **JPY LIBOR cessation on 31 December 2021** (with synthetic JPY LIBOR phase-out completed by end-2023) — adhering parties' bilateral JPY LIBOR derivatives automatically converted to **TONA-compounded-in-arrears plus a fixed credit-adjustment spread (CAS)** at the cessation date. Japanese market adherence was high — the megabanks ([[JapanFG/mufg|MUFG]], [[JapanFG/smfg|SMFG]], [[JapanFG/mizuho-fg|Mizuho FG]]), [[JapanFG/nomura-hd|Nomura]], life insurers, and major buy-side institutions all adhered, totalling >500 adhering parties from Japan alone. The protocol does **not** automatically convert TIBOR (which continued to be administered by [[JapanFG/jsda|JSDA]]-affiliated JBATA after the Euroyen TIBOR / Z-TIBOR discontinuation in December 2024) — TIBOR contracts that need fallback to TONA require separate amendment. The **JSDA-led 2024 documentation update** modernised standard Japan-market derivative documentation templates to reflect post-LIBOR conventions, TONA-RFR clauses, and the residual TIBOR fallback architecture. For FinWiki, this entry covers protocol mechanics, JPY-specific fallback rates (CAS, observation shift), Japanese market adherence patterns, the post-LIBOR JPY discontinuation timeline, and the JSDA 2024 documentation update.
+The **ISDA 2020 IBOR Fallback Protocol** (formally "ISDA 2020 IBOR Fallbacks Protocol," published October 2020, effective from 25 January 2021) is the multilateral contractual mechanism through which **legacy IBOR-referencing derivatives — including JPY LIBOR — were automatically amended to incorporate risk-free-rate (RFR) fallback language** without bilateral negotiation. For Japan, the protocol's central impact was the **JPY LIBOR cessation on 31 December 2021** (with synthetic JPY LIBOR phase-out completed by end-2023) — adhering parties' bilateral JPY LIBOR derivatives automatically converted to **TONA-compounded-in-arrears plus a fixed credit-adjustment spread (CAS)** at the cessation date. Japanese market adherence was high — the megabanks ([[megabanks/mufg|MUFG]], [[megabanks/smfg|SMFG]], [[megabanks/mizuho-fg|Mizuho FG]]), [[securities-firms/nomura-hd|Nomura]], life insurers, and major buy-side institutions all adhered, totalling >500 adhering parties from Japan alone. The protocol does **not** automatically convert TIBOR (which continued to be administered by [[financial-regulators/jsda|JSDA]]-affiliated JBATA after the Euroyen TIBOR / Z-TIBOR discontinuation in December 2024) — TIBOR contracts that need fallback to TONA require separate amendment. The **JSDA-led 2024 documentation update** modernised standard Japan-market derivative documentation templates to reflect post-LIBOR conventions, TONA-RFR clauses, and the residual TIBOR fallback architecture. For FinWiki, this entry covers protocol mechanics, JPY-specific fallback rates (CAS, observation shift), Japanese market adherence patterns, the post-LIBOR JPY discontinuation timeline, and the JSDA 2024 documentation update.
 
 ## Wiki route
 
@@ -120,8 +120,8 @@ Adherence to the ISDA 2020 Protocol was **very high** in Japan, reflecting the o
 
 | Adhering category | Adherence pattern |
 |---|---|
-| Megabanks ([[JapanFG/mufg|MUFG]], [[JapanFG/smfg|SMFG]], [[JapanFG/mizuho-fg|Mizuho FG]]) | All adhered before cessation |
-| Securities firms ([[JapanFG/nomura-hd|Nomura]], Daiwa, [[JapanFG/mufg-securities|MUFG MS]], [[JapanFG/smbc-nikko|SMBC Nikko]], [[JapanFG/mizuho-securities|Mizuho Securities]]) | All adhered |
+| Megabanks ([[megabanks/mufg|MUFG]], [[megabanks/smfg|SMFG]], [[megabanks/mizuho-fg|Mizuho FG]]) | All adhered before cessation |
+| Securities firms ([[securities-firms/nomura-hd|Nomura]], Daiwa, [[securities-firms/mufg-securities|MUFG MS]], [[securities-firms/smbc-nikko|SMBC Nikko]], [[securities-firms/mizuho-securities|Mizuho Securities]]) | All adhered |
 | Life insurers (Nippon Life, Dai-ichi Life, Sumitomo Life, etc.) | Substantially all adhered |
 | Regional banks | Major regional banks adhered; some smaller regional banks took longer |
 | Buy-side institutions | Pension funds, asset managers — broadly adhered |
@@ -134,7 +134,7 @@ For non-adhering counterparties, **bilateral amendments** were required. The vas
 
 ## 7. The JSDA 2024 documentation update
 
-In 2024, [[JapanFG/jsda|JSDA]] (Japan Securities Dealers Association) led a comprehensive update of standard Japan-market derivative documentation templates:
+In 2024, [[financial-regulators/jsda|JSDA]] (Japan Securities Dealers Association) led a comprehensive update of standard Japan-market derivative documentation templates:
 
 | Element | Pre-2024 | Post-2024 update |
 |---|---|---|
@@ -161,7 +161,7 @@ See [[derivatives/cross-currency-basis-swap-japan|cross-currency basis swap Japa
 
 ## 9. Cleared derivative side — JSCC and CCP implementation
 
-Japanese clearing houses ([[JapanFG/jsda|JSCC]] = Japan Securities Clearing Corporation; and globally LCH SwapClear, CME) implemented the fallback architecture on cleared JPY LIBOR derivatives:
+Japanese clearing houses ([[financial-regulators/jsda|JSCC]] = Japan Securities Clearing Corporation; and globally LCH SwapClear, CME) implemented the fallback architecture on cleared JPY LIBOR derivatives:
 
 | Step | Description |
 |---|---|
@@ -183,7 +183,7 @@ JSCC's cleared-derivative book was relatively small for JPY LIBOR (JPY LIBOR der
 
 ## 11. Open questions
 
-- Whether [[JapanFG/jbatibor|JBATA D-TIBOR]] survives long-term given the global trend toward RFR adoption (current FSA stance: D-TIBOR continues if usage is sustained)
+- Whether [[financial-regulators/jbatibor|JBATA D-TIBOR]] survives long-term given the global trend toward RFR adoption (current FSA stance: D-TIBOR continues if usage is sustained)
 - Whether term-RFR for JPY (e.g., forward-looking TONA term rates published by a designated administrator) gets developed and accepted for term-fix applications
 - Whether the next major fallback event (e.g., a CCP rulebook change or a regulatory rate retirement) gets handled via similar multilateral mechanism
 - The role of cross-border consistency — if JSDA / FSA push for stronger JPY documentation standardisation, how does it interact with ISDA global templates
@@ -204,10 +204,10 @@ JSCC's cleared-derivative book was relatively small for JPY LIBOR (JPY LIBOR der
 - [[derivatives/swap-execution-facility-japan|swap execution facility Japan]]
 - [[money-market/INDEX|money-market index]]
 - [[banking/INDEX|banking index]]
-- [[JapanFG/mufg|MUFG]] · [[JapanFG/smfg|SMFG]] · [[JapanFG/mizuho-fg|Mizuho FG]]
-- [[JapanFG/nomura-hd|Nomura]] · [[JapanFG/jsda|JSDA]]
-- [[JapanFG/mufg-securities|MUFG MS]] · [[JapanFG/smbc-nikko|SMBC Nikko]] · [[JapanFG/mizuho-securities|Mizuho Securities]]
-- [[JapanFG/boj-financial-markets-dept|BoJ Financial Markets Dept]]
+- [[megabanks/mufg|MUFG]] · [[megabanks/smfg|SMFG]] · [[megabanks/mizuho-fg|Mizuho FG]]
+- [[securities-firms/nomura-hd|Nomura]] · [[financial-regulators/jsda|JSDA]]
+- [[securities-firms/mufg-securities|MUFG MS]] · [[securities-firms/smbc-nikko|SMBC Nikko]] · [[securities-firms/mizuho-securities|Mizuho Securities]]
+- [[financial-regulators/boj-financial-markets-dept|BoJ Financial Markets Dept]]
 
 ## Sources
 

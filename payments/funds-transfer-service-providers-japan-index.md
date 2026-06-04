@@ -63,31 +63,31 @@ These routes are material operators already covered or newly promoted in FinWiki
 
 | Segment | Official / product route | Wiki route | Boundary note |
 |---|---|---|---|
-| Large code-payment wallet | PayPay株式会社 | [[JapanFG/paypay]] | Wallet, code payment, prepaid, funds transfer, wage digital payment adjacency |
-| Marketplace wallet | 株式会社メルペイ | [[JapanFG/merpay]] | Marketplace payment and wallet route |
-| Telecom wallet | auペイメント株式会社 | [[JapanFG/au-payment]] | au PAY funds-transfer / prepaid boundary |
-| Prepaid electronic money | 楽天Edy株式会社 | [[JapanFG/rakuten-edy]] | Stored value plus funds-transfer registry route |
-| Consumer wallet / prepaid card | 株式会社Kyash | [[JapanFG/kyash]] | Wallet, prepaid card, funds transfer |
-| Household wallet | 株式会社スマートバンク | [[JapanFG/smartbank]] | Consumer wallet and card-linked savings UX |
-| Retail / ATM settlement | 株式会社セブン・ペイメントサービス | [[JapanFG/seven-payment-service]] | Seven & i settlement infrastructure |
-| PSP / gateway | GMOペイメントゲートウェイ株式会社 | [[JapanFG/gmo-payment-gateway]] | Listed PSP with funds-transfer registration |
-| PSP / gateway | GMOイプシロン株式会社 | [[JapanFG/gmo-epsilon]] | SME merchant PSP / transfer route |
-| PSP / gateway | SBペイメントサービス株式会社 | [[JapanFG/sb-payment-service]] | SoftBank / PayPay group merchant PSP |
-| PSP / gateway | 株式会社DGフィナンシャルテクノロジー | [[JapanFG/dg-financial-technology]] | Digital Garage PSP / merchant settlement route |
-| QR gateway | 株式会社ネットスターズ | [[JapanFG/netstars]] | StarPay QR / multi-cashless gateway and funds-transfer registration |
-| COIN+ / Air Wallet | 株式会社リクルートMUFGビジネス | [[JapanFG/recruit-mufg-business]] | Recruit + MUFG wallet / transfer operator |
-| Travel wallet | JALペイメント・ポート株式会社 | [[JapanFG/jal-payment-port]] | JAL Pay, prepaid, bank agency, transfer route |
-| Cross-border remittance | ワイズ・ペイメンツ・ジャパン株式会社 | [[JapanFG/wise-payments-japan]] | Cross-border remittance / multi-currency transfer |
-| Cross-border remittance | REVOLUT TECHNOLOGIES JAPAN株式会社 | [[JapanFG/revolut-technologies-japan]] | App-based international transfer / wallet route |
-| Cross-border remittance | PayPal Pte. Ltd. | [[JapanFG/paypal-pte-ltd-japan]] | Cross-border payment / wallet boundary |
-| Cross-border remittance | ペイオニア・ジャパン株式会社 | [[JapanFG/payoneer-japan]] | Marketplace payout and cross-border remittance |
-| Cross-border remittance | ウエスタンユニオンジャパン株式会社 | [[JapanFG/western-union-japan]] | Remittance network |
-| Cross-border remittance | SBIレミット株式会社 | [[JapanFG/sbi-remit]] | SBI group remittance operator |
-| FX / travel money | トラベレックスジャパン株式会社 | [[JapanFG/travelex-japan]] | Retail FX / remittance adjacency |
-| Cross-border business payments | Airwallex Japan株式会社 | [[JapanFG/airwallex-japan]] | Cross-border B2B payment infrastructure |
-| Stablecoin-adjacent funds transfer | JPYC株式会社 | [[JapanFG/jpyc]] | Funds transfer + stablecoin / EPI adjacency |
-| Bank-group consumer finance | 株式会社アプラス | [[JapanFG/aplus]] | Installment / card / funds-transfer adjacency |
-| Telecom FG watchlist | 株式会社NTTドコモ・フィナンシャルグループ | [[JapanFG/ndfg]] | New registry row; watch operating-company routing as group structure matures |
+| Large code-payment wallet | PayPay株式会社 | [[payment-firms/paypay]] | Wallet, code payment, prepaid, funds transfer, wage digital payment adjacency |
+| Marketplace wallet | 株式会社メルペイ | [[payment-firms/merpay]] | Marketplace payment and wallet route |
+| Telecom wallet | auペイメント株式会社 | [[payment-firms/au-payment]] | au PAY funds-transfer / prepaid boundary |
+| Prepaid electronic money | 楽天Edy株式会社 | [[payment-firms/rakuten-edy]] | Stored value plus funds-transfer registry route |
+| Consumer wallet / prepaid card | 株式会社Kyash | [[payment-firms/kyash]] | Wallet, prepaid card, funds transfer |
+| Household wallet | 株式会社スマートバンク | [[payment-firms/smartbank]] | Consumer wallet and card-linked savings UX |
+| Retail / ATM settlement | 株式会社セブン・ペイメントサービス | [[payment-firms/seven-payment-service]] | Seven & i settlement infrastructure |
+| PSP / gateway | GMOペイメントゲートウェイ株式会社 | [[payment-firms/gmo-payment-gateway]] | Listed PSP with funds-transfer registration |
+| PSP / gateway | GMOイプシロン株式会社 | [[payment-firms/gmo-epsilon]] | SME merchant PSP / transfer route |
+| PSP / gateway | SBペイメントサービス株式会社 | [[payment-firms/sb-payment-service]] | SoftBank / PayPay group merchant PSP |
+| PSP / gateway | 株式会社DGフィナンシャルテクノロジー | [[payment-firms/dg-financial-technology]] | Digital Garage PSP / merchant settlement route |
+| QR gateway | 株式会社ネットスターズ | [[payment-firms/netstars]] | StarPay QR / multi-cashless gateway and funds-transfer registration |
+| COIN+ / Air Wallet | 株式会社リクルートMUFGビジネス | [[payment-firms/recruit-mufg-business]] | Recruit + MUFG wallet / transfer operator |
+| Travel wallet | JALペイメント・ポート株式会社 | [[payment-firms/jal-payment-port]] | JAL Pay, prepaid, bank agency, transfer route |
+| Cross-border remittance | ワイズ・ペイメンツ・ジャパン株式会社 | [[payment-firms/wise-payments-japan]] | Cross-border remittance / multi-currency transfer |
+| Cross-border remittance | REVOLUT TECHNOLOGIES JAPAN株式会社 | [[payment-firms/revolut-technologies-japan]] | App-based international transfer / wallet route |
+| Cross-border remittance | PayPal Pte. Ltd. | [[payment-firms/paypal-pte-ltd-japan]] | Cross-border payment / wallet boundary |
+| Cross-border remittance | ペイオニア・ジャパン株式会社 | [[payment-firms/payoneer-japan]] | Marketplace payout and cross-border remittance |
+| Cross-border remittance | ウエスタンユニオンジャパン株式会社 | [[payment-firms/western-union-japan]] | Remittance network |
+| Cross-border remittance | SBIレミット株式会社 | [[payment-firms/sbi-remit]] | SBI group remittance operator |
+| FX / travel money | トラベレックスジャパン株式会社 | [[payment-firms/travelex-japan]] | Retail FX / remittance adjacency |
+| Cross-border business payments | Airwallex Japan株式会社 | [[payment-firms/airwallex-japan]] | Cross-border B2B payment infrastructure |
+| Stablecoin-adjacent funds transfer | JPYC株式会社 | [[payment-firms/jpyc]] | Funds transfer + stablecoin / EPI adjacency |
+| Bank-group consumer finance | 株式会社アプラス | [[card-issuers/aplus]] | Installment / card / funds-transfer adjacency |
+| Telecom FG watchlist | 株式会社NTTドコモ・フィナンシャルグループ | [[megabanks/ndfg]] | New registry row; watch operating-company routing as group structure matures |
 
 ## Promotion Rules
 
@@ -96,7 +96,7 @@ Promote a registry row into a standalone wiki page only when the operator is:
 - a major consumer wallet, remittance network, merchant PSP, code-payment gateway, listed group, or stablecoin-adjacent operator;
 - already important for a [[payments/cashless-jp-landscape|Japan cashless payment]] analysis thread;
 - public-source rich enough to support strategy, license-boundary, and risk analysis; or
-- needed to resolve a parent / operating-company distinction in [[JapanFG/missing-financial-institutions-backlog|the JapanFG expansion backlog]].
+- needed to resolve a parent / operating-company distinction in [[financial-regulators/missing-financial-institutions-backlog|the JapanFG expansion backlog]].
 
 ## Related
 
@@ -104,8 +104,8 @@ Promote a registry row into a standalone wiki page only when the operator is:
 - [[payments/funds-transfer-vs-prepaid-boundary]]
 - [[payments/prepaid-payment-instrument-issuers-japan-index]]
 - [[payments/card-acquiring-japan-stack]]
-- [[JapanFG/legal-financial-licenses/INDEX]]
-- [[JapanFG/missing-financial-institutions-backlog]]
+- [[financial-licenses/INDEX]]
+- [[financial-regulators/missing-financial-institutions-backlog]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

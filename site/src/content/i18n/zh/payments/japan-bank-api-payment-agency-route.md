@@ -13,7 +13,7 @@ translated_at: 2026-06-01T03:31:12.323Z
 
 日本的银行API/电子支付代理路线是银行和金融科技应用程序之间的合法和运营桥梁，这些应用程序获取账户信息、启动账户关联指令或将面向客户的服务连接到存款账户轨道。它与银行、资金转账服务提供商、预付费发卡机构、卡收单机构或钱包运营商不同。
 
-将此页面与 [[payments/INDEX|payments domain]]、[[JapanFG/legal-financial-licenses/INDEX|JapanFG legal / financial licenses]]、[[payments/account-to-account-payment-japan|Japan account-to-account payment route]]、[[payments/funds-transfer-vs-prepaid-boundary|funds transfer vs prepaid boundary]]、[[banking/baas-japan-landscape|BaaS Japan landscape]] 和 [[banking/mercari-bank-license-stack|Mercari Bank license stack]] 一起使用。
+将此页面与 [[payments/INDEX|payments domain]]、[[financial-licenses/INDEX|JapanFG legal / financial licenses]]、[[payments/account-to-account-payment-japan|Japan account-to-account payment route]]、[[payments/funds-transfer-vs-prepaid-boundary|funds transfer vs prepaid boundary]]、[[banking/baas-japan-landscape|BaaS Japan landscape]] 和 [[banking/mercari-bank-license-stack|Mercari Bank license stack]] 一起使用。
 
 ## 路线图
 
@@ -51,9 +51,9 @@ translated_at: 2026-06-01T03:31:12.323Z
 
 ## JapanFG 相关性
 
-- [[JapanFG/mufg-bank|MUFG Bank]]、[[JapanFG/sumitomo-mitsui-banking-corp|SMBC]]、[[JapanFG/mizuho-bank|Mizuho Bank]] 和 [[JapanFG/resona-bank|Resona Bank]] 很重要，因为金融科技账户链接取决于银行 API/合同接受。
-- [[JapanFG/sb-payment-service|SB Payment Service]]、[[JapanFG/money-forward|Money Forward]] 和 [[JapanFG/freee|freee]] 是账户信息、会计​​、支付和 API 路由可能变得具有战略重要性的实体示例。
-- [[JapanFG/merpay|Merpay]]、[[JapanFG/paypay|PayPay]] 和 [[JapanFG/au-payment|au PAY]] 分为钱包/资金转账/预付费/帐户直接/银行 API 层，而不是视为一个“支付应用程序”类别。
+- [[megabanks/mufg-bank|MUFG Bank]]、[[megabanks/sumitomo-mitsui-banking-corp|SMBC]]、[[megabanks/mizuho-bank|Mizuho Bank]] 和 [[megabanks/resona-bank|Resona Bank]] 很重要，因为金融科技账户链接取决于银行 API/合同接受。
+- [[payment-firms/sb-payment-service|SB Payment Service]]、[[payment-firms/money-forward|Money Forward]] 和 [[payment-firms/freee|freee]] 是账户信息、会计​​、支付和 API 路由可能变得具有战略重要性的实体示例。
+- [[payment-firms/merpay|Merpay]]、[[payment-firms/paypay|PayPay]] 和 [[payment-firms/au-payment|au PAY]] 分为钱包/资金转账/预付费/帐户直接/银行 API 层，而不是视为一个“支付应用程序”类别。
 - [[banking/mercari-bank-license-stack|Mercari Bank license stack]] 是最清晰的内部路线，用于展示如何拆分银行合作伙伴、应用程序用户体验和支付帐户。
 
 ## 控制问题
@@ -84,7 +84,7 @@ translated_at: 2026-06-01T03:31:12.323Z
 3。检查该服务是否仅提供信息、具有指令功能或两者兼而有之。
 4。检查价值是否被存储、汇出、预付或仅指示。
 5。检查公共 API/银行合作伙伴披露信息以及任何用户保护通知。
-6。将公司页面链接到 [[JapanFG/legal-financial-licenses/INDEX|legal / financial licenses]] 以及相关的付款或银行路线。
+6。将公司页面链接到 [[financial-licenses/INDEX|legal / financial licenses]] 以及相关的付款或银行路线。
 
 ## 相关
 
@@ -95,12 +95,12 @@ translated_at: 2026-06-01T03:31:12.323Z
 - [[payments/funds-transfer-service-providers-japan-index]]
 - [[banking/baas-japan-landscape]]
 - [[banking/mercari-bank-license-stack]]
-- [[JapanFG/legal-financial-licenses/INDEX]]
-- [[JapanFG/mufg-bank]]
-- [[JapanFG/sumitomo-mitsui-banking-corp]]
-- [[JapanFG/mizuho-bank]]
-- [[JapanFG/money-forward]]
-- [[JapanFG/freee]]
+- [[financial-licenses/INDEX]]
+- [[megabanks/mufg-bank]]
+- [[megabanks/sumitomo-mitsui-banking-corp]]
+- [[megabanks/mizuho-bank]]
+- [[payment-firms/money-forward]]
+- [[payment-firms/freee]]
 - [[INDEX|FinWiki index]]
 
 ## 来源

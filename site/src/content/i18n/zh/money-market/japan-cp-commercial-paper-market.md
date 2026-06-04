@@ -77,10 +77,10 @@ CP 购买工具在历史上一直是重要的危机应对表面(2008-2009 GFC、
 
 ## JapanFG 相关性
 
-- 大型银行集团 [[JapanFG/mufg]], [[JapanFG/smfg]] 和 [[JapanFG/mizuho-fg]] 是通过他们的银行账簿和信托子公司的主要 CP 投资者。
-- 证券公司 [[JapanFG/nomura-hd]], [[JapanFG/daiwa-sg]], [[JapanFG/mizuho-securities]], [[JapanFG/mufg-mums]] 和 [[JapanFG/smbc-nikko]] 安排 CP 项目并运营主要分销。
-- [[JapanFG/tokyo-tanshi]], [[JapanFG/central-tanshi]] 和 [[JapanFG/ueda-yagi-tanshi]] 中介短期资金,并提供与拆借和回购活动相邻的 CP 市场经纪支持。
-- [[JapanFG/japan-securities-finance]] 参与与 CP 互动的抵押品和短期融资管道。
+- 大型银行集团 [[megabanks/mufg]], [[megabanks/smfg]] 和 [[megabanks/mizuho-fg]] 是通过他们的银行账簿和信托子公司的主要 CP 投资者。
+- 证券公司 [[securities-firms/nomura-hd]], [[securities-firms/daiwa-sg]], [[securities-firms/mizuho-securities]], [[securities-firms/mufg-mums]] 和 [[securities-firms/smbc-nikko]] 安排 CP 项目并运营主要分销。
+- [[financial-regulators/tokyo-tanshi]], [[financial-regulators/central-tanshi]] 和 [[financial-regulators/ueda-yagi-tanshi]] 中介短期资金,并提供与拆借和回购活动相邻的 CP 市场经纪支持。
+- [[financial-regulators/japan-securities-finance]] 参与与 CP 互动的抵押品和短期融资管道。
 
 ## 边界情况
 
@@ -108,10 +108,10 @@ CP 购买工具在历史上一直是重要的危机应对表面(2008-2009 GFC、
 - [[money-market/japan-tbill-treasury-discount-bill]]
 - [[money-market/japan-mmf-money-market-mutual-fund]]
 - [[money-market/boj-post-2024-floor-system-complementary-deposit-facility]]
-- [[JapanFG/boj-monetary-policy]]
-- [[JapanFG/tokyo-tanshi]]
-- [[JapanFG/central-tanshi]]
-- [[JapanFG/ueda-yagi-tanshi]]
+- [[financial-regulators/boj-monetary-policy]]
+- [[financial-regulators/tokyo-tanshi]]
+- [[financial-regulators/central-tanshi]]
+- [[financial-regulators/ueda-yagi-tanshi]]
 - [[securities/japan-securities-depository-center]]
 - [[securities/japan-underwriting-market-structure]]
 - [[INDEX|FinWiki index]]

@@ -67,14 +67,6 @@
     "wikilinks_count": 29,
     "wikilinks": [
       "JapanFG/INDEX",
-      "JapanFG/jpyc",
-      "JapanFG/legal-financial-licenses/bank-license-and-baas-boundary",
-      "JapanFG/legal-financial-licenses/payment-license-stack",
-      "JapanFG/mitsubishi-ufj-trust-bank",
-      "JapanFG/mizuho-trust-bank",
-      "JapanFG/mufg",
-      "JapanFG/progmat",
-      "JapanFG/sumitomo-mitsui-trust",
       "banking/INDEX",
       "banking/baas-japan-landscape",
       "banking/gmo-aozora-net-bank",
@@ -86,6 +78,8 @@
       "banking/post-megabank-positioning",
       "exchanges/jp-exchange-jpyc",
       "exchanges/jp-exchange-sbi-vc-trade",
+      "financial-licenses/bank-license-and-baas-boundary",
+      "financial-licenses/payment-license-stack",
       "fintech/institutional-stablecoin-deposit-token-thesis",
       "fintech/japan-epi-four-camps-comparison",
       "fintech/japan-epi-three-types-overview",
@@ -94,18 +88,16 @@
       "fintech/jp-stablecoin-dcjpy",
       "fintech/jp-stablecoin-progmat",
       "fintech/jp-trust-type-sc-architecture",
-      "fintech/stablecoin-channel-japan-sbi-jpyc-ring"
+      "fintech/stablecoin-channel-japan-sbi-jpyc-ring",
+      "megabanks/mufg",
+      "payment-firms/jpyc",
+      "payment-firms/progmat",
+      "trust-banks/mitsubishi-ufj-trust-bank",
+      "trust-banks/mizuho-trust-bank",
+      "trust-banks/sumitomo-mitsui-trust"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/JapanFG/INDEX",
-      "https://finwiki.zksc.io/JapanFG/jpyc",
-      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/bank-license-and-baas-boundary",
-      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/payment-license-stack",
-      "https://finwiki.zksc.io/JapanFG/mitsubishi-ufj-trust-bank",
-      "https://finwiki.zksc.io/JapanFG/mizuho-trust-bank",
-      "https://finwiki.zksc.io/JapanFG/mufg",
-      "https://finwiki.zksc.io/JapanFG/progmat",
-      "https://finwiki.zksc.io/JapanFG/sumitomo-mitsui-trust",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/baas-japan-landscape",
       "https://finwiki.zksc.io/banking/gmo-aozora-net-bank",
@@ -117,6 +109,8 @@
       "https://finwiki.zksc.io/banking/post-megabank-positioning",
       "https://finwiki.zksc.io/exchanges/jp-exchange-jpyc",
       "https://finwiki.zksc.io/exchanges/jp-exchange-sbi-vc-trade",
+      "https://finwiki.zksc.io/financial-licenses/bank-license-and-baas-boundary",
+      "https://finwiki.zksc.io/financial-licenses/payment-license-stack",
       "https://finwiki.zksc.io/fintech/institutional-stablecoin-deposit-token-thesis",
       "https://finwiki.zksc.io/fintech/japan-epi-four-camps-comparison",
       "https://finwiki.zksc.io/fintech/japan-epi-three-types-overview",
@@ -125,15 +119,21 @@
       "https://finwiki.zksc.io/fintech/jp-stablecoin-dcjpy",
       "https://finwiki.zksc.io/fintech/jp-stablecoin-progmat",
       "https://finwiki.zksc.io/fintech/jp-trust-type-sc-architecture",
-      "https://finwiki.zksc.io/fintech/stablecoin-channel-japan-sbi-jpyc-ring"
+      "https://finwiki.zksc.io/fintech/stablecoin-channel-japan-sbi-jpyc-ring",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/payment-firms/jpyc",
+      "https://finwiki.zksc.io/payment-firms/progmat",
+      "https://finwiki.zksc.io/trust-banks/mitsubishi-ufj-trust-bank",
+      "https://finwiki.zksc.io/trust-banks/mizuho-trust-bank",
+      "https://finwiki.zksc.io/trust-banks/sumitomo-mitsui-trust"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 13485,
-    "word_like_tokens": 2159,
+    "nonspace_chars": 13507,
+    "word_like_tokens": 2165,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-04"
   }
 }

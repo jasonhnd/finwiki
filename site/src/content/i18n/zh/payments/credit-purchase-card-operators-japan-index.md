@@ -38,11 +38,11 @@ METI 的《分期付款销售法》公开清单是日本信用卡发行、购物
 
 |细分 |路线 |为什么这些是独立的 |
 |---|---|---|
-| Megabank / 银行集团发卡机构 | [[JapanFG/smbc-card]]、[[JapanFG/mufg-nicos]]、[[JapanFG/jcb]]、[[JapanFG/mitsubishi-ufj-trust-bank]] |发卡/收单、银行集团策略、卡网络或信托银行邻接。 |
-|零售/生态系统发卡机构| [[JapanFG/rakuten-card]]、[[JapanFG/paypay-card]]、[[JapanFG/aeon-financial-service]]、[[JapanFG/epos-card]]、[[JapanFG/seven-card-service]]、[[JapanFG/ucs-card]]、[[JapanFG/life-card]]、[[JapanFG/pocket-card]] |消费者信贷、忠诚度、零售金融和支付数据循环。 |
-|消费金融/分期 | [[JapanFG/smbc-consumer-finance]]、[[JapanFG/acom]]、[[JapanFG/aiful]]、[[JapanFG/orico]]、[[JapanFG/jaccs]]、[[JapanFG/aplus]]、[[JapanFG/shinsei-financial]]、[[JapanFG/toyota-finance]] |借贷/担保/分期等信用经营公司。 |
-|商家 PSP / 收单 | [[JapanFG/gmo-payment-gateway]]、[[JapanFG/gmo-epsilon]]、[[JapanFG/sb-payment-service]]、[[JapanFG/dg-financial-technology]]、[[JapanFG/netstars]] |商户入职、网关、卡号处理和结算风险基础设施。 |
-|钱包/嵌入式金融| [[JapanFG/recruit-mufg-business]]、[[JapanFG/jal-payment-port]]、[[JapanFG/paypay]]、[[JapanFG/merpay]]、[[JapanFG/au-payment]] |钱包通常结合了预付费、转账、商家支付和卡联轨道。 |
+| Megabank / 银行集团发卡机构 | [[card-issuers/smbc-card]]、[[card-issuers/mufg-nicos]]、[[card-issuers/jcb]]、[[trust-banks/mitsubishi-ufj-trust-bank]] |发卡/收单、银行集团策略、卡网络或信托银行邻接。 |
+|零售/生态系统发卡机构| [[card-issuers/rakuten-card]]、[[card-issuers/paypay-card]]、[[card-issuers/aeon-financial-service]]、[[card-issuers/epos-card]]、[[card-issuers/seven-card-service]]、[[card-issuers/ucs-card]]、[[card-issuers/life-card]]、[[card-issuers/pocket-card]] |消费者信贷、忠诚度、零售金融和支付数据循环。 |
+|消费金融/分期 | [[consumer-finance/smbc-consumer-finance]]、[[consumer-finance/acom]]、[[consumer-finance/aiful]]、[[card-issuers/orico]]、[[card-issuers/jaccs]]、[[card-issuers/aplus]]、[[consumer-finance/shinsei-financial]]、[[card-issuers/toyota-finance]] |借贷/担保/分期等信用经营公司。 |
+|商家 PSP / 收单 | [[payment-firms/gmo-payment-gateway]]、[[payment-firms/gmo-epsilon]]、[[payment-firms/sb-payment-service]]、[[payment-firms/dg-financial-technology]]、[[payment-firms/netstars]] |商户入职、网关、卡号处理和结算风险基础设施。 |
+|钱包/嵌入式金融| [[payment-firms/recruit-mufg-business]]、[[payment-firms/jal-payment-port]]、[[payment-firms/paypay]]、[[payment-firms/merpay]]、[[payment-firms/au-payment]] |钱包通常结合了预付费、转账、商家支付和卡联轨道。 |
 
 ## 分析镜头
 
@@ -61,8 +61,8 @@ METI 的《分期付款销售法》公开清单是日本信用卡发行、购物
 - [[payments/psp-merchant-settlement-risk]]
 - [[payments/funds-transfer-service-providers-japan-index]]
 - [[payments/prepaid-payment-instrument-issuers-japan-index]]
-- [[JapanFG/missing-financial-institutions-backlog]]
-- [[JapanFG/legal-financial-licenses/INDEX]]
+- [[financial-regulators/missing-financial-institutions-backlog]]
+- [[financial-licenses/INDEX]]
 - [[INDEX|FinWiki index]]
 
 ## 来源

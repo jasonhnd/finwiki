@@ -1,0 +1,81 @@
+{
+  "schema_version": "1.0",
+  "slug": "payment-firms/wise-payments-japan",
+  "source_path": "payment-firms/wise-payments-japan.md",
+  "url": "https://finwiki.zksc.io/payment-firms/wise-payments-japan",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/payment-firms/wise-payments-japan.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/payment-firms/wise-payments-japan.md",
+  "domain": "payment-firms",
+  "title": "Wise Payments Japan",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Wise Payments Japan",
+    "aliases": [
+      "Wise Japan",
+      "Wise Payments Japan",
+      "ワイズ・ペイメンツ・ジャパン",
+      "ワイズ・ペイメンツ・ジャパン株式会社"
+    ],
+    "domain": "payment-firms",
+    "created": "2026-05-21",
+    "last_updated": "2026-05-21",
+    "last_tended": "2026-05-21",
+    "review_by": "2026-11-21",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "payments",
+      "remittance",
+      "cross-border",
+      "funds-transfer"
+    ],
+    "status": "active",
+    "sources": [
+      "https://wise.com/jp/about/corporate",
+      "https://newsroom.wise.com/en-CAS/235712-wise-granted-type-1-funds-transfer-service-provider-licence-in-japan-readies-for-next-phase-of-growth/",
+      "https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against ウエスタンユニオンジャパン (Western Union Japan) for peer / contrast context and payments index for the broader system / regulatory boundary.",
+  "headings": [
+    "Wise Payments Japan",
+    "Wiki route",
+    "TL;DR",
+    "1. 法人・ライセンス境界",
+    "2. Business role",
+    "3. Why this standalone page matters",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 8,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "payment-firms/payoneer-japan",
+      "payment-firms/paypal-pte-ltd-japan",
+      "payment-firms/revolut-technologies-japan",
+      "payment-firms/sbi-remit",
+      "payment-firms/western-union-japan",
+      "payments/INDEX",
+      "payments/funds-transfer-vs-prepaid-boundary"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/payment-firms/payoneer-japan",
+      "https://finwiki.zksc.io/payment-firms/paypal-pte-ltd-japan",
+      "https://finwiki.zksc.io/payment-firms/revolut-technologies-japan",
+      "https://finwiki.zksc.io/payment-firms/sbi-remit",
+      "https://finwiki.zksc.io/payment-firms/western-union-japan",
+      "https://finwiki.zksc.io/payments/INDEX",
+      "https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2354,
+    "word_like_tokens": 363,
+    "inbound_wikilinks_count": 13,
+    "last_modified": "2026-06-04"
+  }
+}

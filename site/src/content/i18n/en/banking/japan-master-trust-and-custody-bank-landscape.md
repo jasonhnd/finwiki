@@ -12,18 +12,18 @@ translated_at: 2026-05-30T18:52:47.776Z
 
 ## Overview
 
-Japan's master-trust / custody-bank landscape is a two-anchor domestic infrastructure layer: [[JapanFG/master-trust-bank|Master Trust Bank of Japan]] and [[JapanFG/custody-bank|Custody Bank of Japan]]. They are not "investors" in the ordinary sense; they are asset-administration banks for pensions, investment trusts, insurers, asset managers, and institutional investors.
+Japan's master-trust / custody-bank landscape is a two-anchor domestic infrastructure layer: [[trust-banks/master-trust-bank|Master Trust Bank of Japan]] and [[trust-banks/custody-bank|Custody Bank of Japan]]. They are not "investors" in the ordinary sense; they are asset-administration banks for pensions, investment trusts, insurers, asset managers, and institutional investors.
 
-Use this page with [[banking/japan-trust-bank-custody-map|trust-bank custody map]], [[securities/japan-stock-lending-market-route|stock lending market route]], [[securities/japan-market-infrastructure-map|market infrastructure map]], [[JapanFG/bny-mellon-japan|BNY Mellon Japan]], and [[JapanFG/state-street-japan|State Street Japan]].
+Use this page with [[banking/japan-trust-bank-custody-map|trust-bank custody map]], [[securities/japan-stock-lending-market-route|stock lending market route]], [[securities/japan-market-infrastructure-map|market infrastructure map]], [[foreign-financial-institutions/bny-mellon-japan|BNY Mellon Japan]], and [[foreign-financial-institutions/state-street-japan|State Street Japan]].
 
 ## Landscape Map
 
 | Institution | Shareholder / group logic | Functional reading |
 |---|---|---|
-| [[JapanFG/master-trust-bank|Master Trust Bank of Japan]] | MUFG trust + major life / cooperative finance shareholders. | Asset-administration specialist and major "trust account" nominee name. |
-| [[JapanFG/custody-bank|Custody Bank of Japan]] | Sumitomo Mitsui Trust / Mizuho / insurer-linked custody consolidation route. | Asset-administration specialist and major "trust account" nominee name. |
-| [[JapanFG/bny-mellon-japan|BNY Mellon Japan]] | Global custody / securities services group. | Global-custody, asset-servicing, and foreign-investor bridge. |
-| [[JapanFG/state-street-japan|State Street Japan]] | Global custody / asset-servicing group. | Global-custody and institutional services bridge. |
+| [[trust-banks/master-trust-bank|Master Trust Bank of Japan]] | MUFG trust + major life / cooperative finance shareholders. | Asset-administration specialist and major "trust account" nominee name. |
+| [[trust-banks/custody-bank|Custody Bank of Japan]] | Sumitomo Mitsui Trust / Mizuho / insurer-linked custody consolidation route. | Asset-administration specialist and major "trust account" nominee name. |
+| [[foreign-financial-institutions/bny-mellon-japan|BNY Mellon Japan]] | Global custody / securities services group. | Global-custody, asset-servicing, and foreign-investor bridge. |
+| [[foreign-financial-institutions/state-street-japan|State Street Japan]] | Global custody / asset-servicing group. | Global-custody and institutional services bridge. |
 | Full-service trust banks | MUFG Trust, Mizuho Trust, SMTB, SMBC Trust. | Wider trust / estate / real estate / pension / securities-agency functions. |
 
 ## What They Actually Do
@@ -70,10 +70,10 @@ This rule is critical when reading [[JapanFG/INDEX|JapanFG entity pages]], issue
 
 - [[banking/INDEX]]
 - [[banking/japan-trust-bank-custody-map]]
-- [[JapanFG/master-trust-bank]]
-- [[JapanFG/custody-bank]]
-- [[JapanFG/bny-mellon-japan]]
-- [[JapanFG/state-street-japan]]
+- [[trust-banks/master-trust-bank]]
+- [[trust-banks/custody-bank]]
+- [[foreign-financial-institutions/bny-mellon-japan]]
+- [[foreign-financial-institutions/state-street-japan]]
 - [[securities/japan-stock-lending-market-route]]
 - [[securities/japan-short-selling-and-stock-loan-controls]]
 - [[securities/japan-market-infrastructure-map]]

@@ -14,18 +14,18 @@ translated_at: 2026-05-30T18:10:53.980Z
 
 日本的合作银行层主要由信用金库、信用合作社、劳动金库、JA 银行农业合作金融体系、JF Marine Bank 渔业合作金融体系,以及相关的中央机构构成。金融厅的监督指针将合作金融机构视为承担区域金融职能、并具备中央机构支持功能的会员制 / 互助型机构。长尾机构名单现已通过注册表索引或体系页面进行路由,而非独立页面。
 
-本页面用于 [[JapanFG/zenshin-kumi]]、[[JapanFG/rokin-renraku]] 及地方银行比较背后的合作金融层。
+本页面用于 [[cooperative-banks/zenshin-kumi]]、[[cooperative-banks/rokin-renraku]] 及地方银行比较背后的合作金融层。
 
 ## ???
 
 | Layer | Role | FinWiki route |
 |---|---|---|
-| 信用金库 | 服务会员和本地中小企业的协同组织区域金融机构。 | [[banking/shinkin-bank-registry-japan]] + [[JapanFG/shinkin-central]] |
-| ???? | ???????????????????????????????????? | [[banking/credit-cooperative-registry-japan]] + [[JapanFG/zenshin-kumi]] |
-| ???? | ??????????????????? | [[banking/rokin-bank-registry-japan]] + [[JapanFG/rokin-renraku]] |
-| JA Bank / ?????? | ?? JA ???????????????????????????????? | [[banking/ja-bank-system-japan]] + [[JapanFG/norinchukin]] |
-| JF Marine Bank / ?????? | ??????? JF?JF ??????????????????????? | [[banking/jf-marine-bank-system-japan]] + [[JapanFG/norinchukin]] |
-| ???? | ?????????????????????? | [[JapanFG/shinkin-central]], [[JapanFG/zenshin-kumi]], [[JapanFG/rokin-renraku]], [[JapanFG/norinchukin]] |
+| 信用金库 | 服务会员和本地中小企业的协同组织区域金融机构。 | [[banking/shinkin-bank-registry-japan]] + [[cooperative-banks/shinkin-central]] |
+| ???? | ???????????????????????????????????? | [[banking/credit-cooperative-registry-japan]] + [[cooperative-banks/zenshin-kumi]] |
+| ???? | ??????????????????? | [[banking/rokin-bank-registry-japan]] + [[cooperative-banks/rokin-renraku]] |
+| JA Bank / ?????? | ?? JA ???????????????????????????????? | [[banking/ja-bank-system-japan]] + [[cooperative-banks/norinchukin]] |
+| JF Marine Bank / ?????? | ??????? JF?JF ??????????????????????? | [[banking/jf-marine-bank-system-japan]] + [[cooperative-banks/norinchukin]] |
+| ???? | ?????????????????????? | [[cooperative-banks/shinkin-central]], [[cooperative-banks/zenshin-kumi]], [[cooperative-banks/rokin-renraku]], [[cooperative-banks/norinchukin]] |
 | ???? | ??????????????????????????? | [[banking/regional-bank-consolidation-pattern]] |
 
 ## ?????
@@ -40,13 +40,13 @@ translated_at: 2026-05-30T18:10:53.980Z
 
 ## JapanFG ??
 
-- [[JapanFG/zenshin-kumi]] 是信用合作社的中央机构路由。
-- [[JapanFG/rokin-renraku]] 是劳动金库路由。
-- [[banking/ja-bank-system-japan]] 是 [[JapanFG/norinchukin]] 背后的 JA 银行 / 农业合作金融体系路由。
-- [[banking/jf-marine-bank-system-japan]] 是 [[JapanFG/norinchukin]] 背后的 JF Marine Bank / 渔业合作金融体系路由。
+- [[cooperative-banks/zenshin-kumi]] 是信用合作社的中央机构路由。
+- [[cooperative-banks/rokin-renraku]] 是劳动金库路由。
+- [[banking/ja-bank-system-japan]] 是 [[cooperative-banks/norinchukin]] 背后的 JA 银行 / 农业合作金融体系路由。
+- [[banking/jf-marine-bank-system-japan]] 是 [[cooperative-banks/norinchukin]] 背后的 JF Marine Bank / 渔业合作金融体系路由。
 - [[banking/shinkin-bank-registry-japan]]、[[banking/credit-cooperative-registry-japan]] 及 [[banking/rokin-bank-registry-japan]] 是三类合作银行群体的完整正式名称注册表路由。
-- [[JapanFG/akita-bank]]、[[JapanFG/iwate-bank]]、[[JapanFG/joyo-bank]] 及其他地方银行应谨慎比较:它们是本地金融同业,但不是合作金融机构。
-- [[JapanFG/legal-financial-licenses/INDEX]] 应将其视为独立的银行 / 合作金融通道,而非金融科技牌照的捷径。
+- [[regional-banks/akita-bank]]、[[regional-banks/iwate-bank]]、[[regional-banks/joyo-bank]] 及其他地方银行应谨慎比较:它们是本地金融同业,但不是合作金融机构。
+- [[financial-licenses/INDEX]] 应将其视为独立的银行 / 合作金融通道,而非金融科技牌照的捷径。
 
 ## ????
 
@@ -64,10 +64,10 @@ translated_at: 2026-05-30T18:10:53.980Z
 - [[banking/rokin-bank-registry-japan]]
 - [[banking/ja-bank-system-japan]]
 - [[banking/jf-marine-bank-system-japan]]
-- [[JapanFG/zenshin-kumi]]
-- [[JapanFG/rokin-renraku]]
-- [[JapanFG/norinchukin]]
-- [[JapanFG/legal-financial-licenses/INDEX]]
+- [[cooperative-banks/zenshin-kumi]]
+- [[cooperative-banks/rokin-renraku]]
+- [[cooperative-banks/norinchukin]]
+- [[financial-licenses/INDEX]]
 - [[INDEX|FinWiki index]]
 
 ## ??

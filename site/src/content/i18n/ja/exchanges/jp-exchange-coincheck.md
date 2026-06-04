@@ -102,7 +102,7 @@ translated_at: 2026-06-02T12:19:04.255Z
 - [[exchanges/jp-exchange-gmo-coin]] — GMOコイン
 - [[fintech/japan-stablecoin-regulatory-landscape]] — 関連 ステーブルコイン 制度
 - [[exchanges/coincheck-nem-hack-detailed-analysis]] — Coincheck NEM 流出事件詳細分析
-- [[JapanFG/monex-group]] — 親会社 Monex Group
+- [[securities-firms/monex-group]] — 親会社 Monex Group
 - [[exchanges/jp-ieo-system-and-cases]] — IEO 制度・事例
 
 ## 出典

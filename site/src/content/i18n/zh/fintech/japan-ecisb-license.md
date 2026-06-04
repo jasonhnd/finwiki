@@ -68,7 +68,7 @@ ECISBO在《犯罪收益转移防止法》（APTCP）下不负担直接的KYC/AM
 
 ECISBO须以持有EPIESP或CAESP牌照的主体作为"所属方"。
 
-**候选方：注册CEX**（持有加密资产交换业注册的注册交易所具备CAESP资格，满足所属方条件）— 注册制度详情参见[[exchanges/fsa-vasp-registration-system|FSA VASP 登録制度]]，自律规则参见[[exchanges/jvcea-self-regulatory-overview|JVCEA 自律規則概要]]。日本牌照体系综合索引[[JapanFG/legal-financial-licenses/INDEX|日本金融ライセンス・インデックス]]。
+**候选方：注册CEX**（持有加密资产交换业注册的注册交易所具备CAESP资格，满足所属方条件）— 注册制度详情参见[[exchanges/fsa-vasp-registration-system|FSA VASP 登録制度]]，自律规则参见[[exchanges/jvcea-self-regulatory-overview|JVCEA 自律規則概要]]。日本牌照体系综合索引[[financial-licenses/INDEX|日本金融ライセンス・インデックス]]。
 
 ## Related
 <!-- wiki-links:managed -->

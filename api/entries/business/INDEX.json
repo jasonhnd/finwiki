@@ -60,7 +60,6 @@
     "wikilinks": [
       "INDEX",
       "JapanFG/INDEX",
-      "JapanFG/mufg",
       "agent-economy/INDEX",
       "business/aeon-financial-service-retail-bank-case",
       "business/aeon-financial-service-retail-bank-case\\",
@@ -85,12 +84,12 @@
       "business/sandeep-nailwal-polygon-india-dpi-pattern\\",
       "business/seven-bank-atm-platform-deconsolidation-case",
       "business/seven-bank-atm-platform-deconsolidation-case\\",
-      "fintech/INDEX"
+      "fintech/INDEX",
+      "megabanks/mufg"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
       "https://finwiki.zksc.io/JapanFG/INDEX",
-      "https://finwiki.zksc.io/JapanFG/mufg",
       "https://finwiki.zksc.io/agent-economy/INDEX",
       "https://finwiki.zksc.io/business/aeon-financial-service-retail-bank-case",
       "https://finwiki.zksc.io/business/aeon-financial-service-retail-bank-case\\",
@@ -115,15 +114,16 @@
       "https://finwiki.zksc.io/business/sandeep-nailwal-polygon-india-dpi-pattern\\",
       "https://finwiki.zksc.io/business/seven-bank-atm-platform-deconsolidation-case",
       "https://finwiki.zksc.io/business/seven-bank-atm-platform-deconsolidation-case\\",
-      "https://finwiki.zksc.io/fintech/INDEX"
+      "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/megabanks/mufg"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 10940,
+    "nonspace_chars": 10942,
     "word_like_tokens": 1658,
     "inbound_wikilinks_count": 39,
-    "last_modified": "2026-06-03"
+    "last_modified": "2026-06-04"
   }
 }

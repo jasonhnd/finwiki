@@ -31,7 +31,7 @@ Japan's large-shareholding disclosure regime is the FIEA "5% rule" for revealing
 
 This page is written for the post-May-1-2026 amended regime. The FSA's submission page was updated on 2026-05-01 and states that the amended large-shareholding regime took effect that day, changing holding-ratio calculation, joint-holder scope, and forms. Use source dates carefully.
 
-Read this page with [[finance/japan-tender-offer-process|Japan tender offer process]], [[finance/japan-activist-investor-playbook|Japan activist investor playbook]], [[finance/cross-border-m-a-japan|cross-border M&A Japan]], [[securities/tokyo-stock-exchange|Tokyo Stock Exchange]], [[JapanFG/japan-exchange-group|Japan Exchange Group]], [[JapanFG/sbi-hd|SBI HD]], [[JapanFG/sbi-shinsei-bank|SBI Shinsei Bank]], and [[JapanFG/wealthnavi|WealthNavi]].
+Read this page with [[finance/japan-tender-offer-process|Japan tender offer process]], [[finance/japan-activist-investor-playbook|Japan activist investor playbook]], [[finance/cross-border-m-a-japan|cross-border M&A Japan]], [[securities/tokyo-stock-exchange|Tokyo Stock Exchange]], [[financial-regulators/japan-exchange-group|Japan Exchange Group]], [[megabanks/sbi-hd|SBI HD]], [[regional-banks/sbi-shinsei-bank|SBI Shinsei Bank]], and [[payment-firms/wealthnavi|WealthNavi]].
 
 ## Regime Snapshot
 
@@ -118,10 +118,10 @@ For bank, brokerage, insurance, and fintech entities, link relevant control case
 - [[finance/japan-mbo-and-squeeze-out-process]]
 - [[finance/cross-border-m-a-japan]]
 - [[securities/tokyo-stock-exchange]]
-- [[JapanFG/japan-exchange-group]]
-- [[JapanFG/sbi-hd]]
-- [[JapanFG/sbi-shinsei-bank]]
-- [[JapanFG/wealthnavi]]
+- [[financial-regulators/japan-exchange-group]]
+- [[megabanks/sbi-hd]]
+- [[regional-banks/sbi-shinsei-bank]]
+- [[payment-firms/wealthnavi]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

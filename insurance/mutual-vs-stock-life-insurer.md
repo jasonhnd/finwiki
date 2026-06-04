@@ -30,7 +30,7 @@ This entry sits under [[insurance/INDEX|insurance index]]. Read it against [[ins
 
 Japan's life insurers can be structured as mutual companies or stock companies. A mutual life insurer is oriented around policyholder-members and long-term surplus distribution; a stock life insurer has shareholders, listed or unlisted equity governance, and easier access to equity-market capital. The legal form shapes governance, M&A capacity, disclosure incentives, and the tension between policyholder return and shareholder return.
 
-Key JapanFG examples: [[JapanFG/nippon-life]], [[JapanFG/meiji-yasuda]], and [[JapanFG/sumitomo-life]] are mutual-company reference cases; [[JapanFG/dai-ichi-life]], [[JapanFG/kampo-life]], [[JapanFG/lifenet]], and [[JapanFG/orix-life]] are stock-company reference cases.
+Key JapanFG examples: [[life-insurers/nippon-life]], [[life-insurers/meiji-yasuda]], and [[life-insurers/sumitomo-life]] are mutual-company reference cases; [[life-insurers/dai-ichi-life]], [[life-insurers/kampo-life]], [[life-insurers/lifenet]], and [[life-insurers/orix-life]] are stock-company reference cases.
 
 ## Comparison
 
@@ -45,11 +45,11 @@ Key JapanFG examples: [[JapanFG/nippon-life]], [[JapanFG/meiji-yasuda]], and [[J
 
 ## JapanFG Relevance
 
-- [[JapanFG/nippon-life]]: largest mutual-company benchmark; capital allocation is read through policyholder return, group expansion, and solvency.
-- [[JapanFG/meiji-yasuda]] and [[JapanFG/sumitomo-life]]: traditional mutual-company peers.
-- [[JapanFG/dai-ichi-life]]: historically important because it demutualized and listed, making it the clean listed-life-insurer comparison case.
-- [[JapanFG/kampo-life]]: stock-company insurer with postal-origin distribution and listed-market governance.
-- [[JapanFG/lifenet]]: internet-origin listed / stock-company model, useful for comparing growth-market expectations with life-insurance capital needs.
+- [[life-insurers/nippon-life]]: largest mutual-company benchmark; capital allocation is read through policyholder return, group expansion, and solvency.
+- [[life-insurers/meiji-yasuda]] and [[life-insurers/sumitomo-life]]: traditional mutual-company peers.
+- [[life-insurers/dai-ichi-life]]: historically important because it demutualized and listed, making it the clean listed-life-insurer comparison case.
+- [[life-insurers/kampo-life]]: stock-company insurer with postal-origin distribution and listed-market governance.
+- [[life-insurers/lifenet]]: internet-origin listed / stock-company model, useful for comparing growth-market expectations with life-insurance capital needs.
 
 ## Analytical Use
 
@@ -65,9 +65,9 @@ Use this page when interpreting:
 - [[insurance/INDEX|insurance INDEX]]
 - [[insurance/esr-economic-value-solvency]]
 - [[insurance/life-insurance-channel-mix]]
-- [[JapanFG/nippon-life]]
-- [[JapanFG/dai-ichi-life]]
-- [[JapanFG/legal-financial-licenses/INDEX]]
+- [[life-insurers/nippon-life]]
+- [[life-insurers/dai-ichi-life]]
+- [[financial-licenses/INDEX]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

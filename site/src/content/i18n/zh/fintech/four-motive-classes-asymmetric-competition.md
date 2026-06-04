@@ -42,7 +42,7 @@ translated_at: 2026-05-31T06:16:15.685Z
 - a16z crypto（Arc $75M 领投 + 其他众多稳定币/链项目投资）
 - BlackRock（Arc 投资 + 8  链上的 [[fintech/blackrock-buidl-tokenized-mmf-overview|BUIDL]] + Tempo 投资）
 - Apollo（Arc 投资 + 6  链上的 [[fintech/apollo-acred-private-credit-tokenization|ACRED]]）
-- SBI Holdings（Circle 投资 + [[JapanFG/jpyc|JPYC]] 持股 + SBI Circle Holdings 50% 持股 + 其他多项）
+- SBI Holdings（Circle 投资 + [[payment-firms/jpyc|JPYC]] 持股 + SBI Circle Holdings 50% 持股 + 其他多项）
 - Mubadala（Arc + 中东 RWA 基金投资）
 - Visa（Arc 投资 + Tempo 验证者 + 接受所有稳定币 + 自身不发行稳定币）
 - Mastercard（与 Visa 相似但时间稍晚）

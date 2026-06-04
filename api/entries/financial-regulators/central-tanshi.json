@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0",
+  "slug": "financial-regulators/central-tanshi",
+  "source_path": "financial-regulators/central-tanshi.md",
+  "url": "https://finwiki.zksc.io/financial-regulators/central-tanshi",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/financial-regulators/central-tanshi.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/financial-regulators/central-tanshi.md",
+  "domain": "financial-regulators",
+  "title": "セントラル短資株式会社 (Central Tanshi)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "セントラル短資株式会社 (Central Tanshi)",
+    "aliases": [
+      "Central Tanshi",
+      "セントラル短資",
+      "中央短資",
+      "Central Tanshi Co.",
+      "Ltd."
+    ],
+    "domain": "financial-regulators",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "money-market",
+      "tanshi"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: セントラル短資株式会社 (2026-05-19 抽出)",
+      "セントラル短資 公式サイト 沿革・会社概要 (2026-05-19 抽出)",
+      "セントラル短資 FX 公式サイト (2026-05-19 抽出)"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 上田八木短資株式会社 (Ueda Yagi Tanshi) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "セントラル短資株式会社 (Central Tanshi)",
+    "Wiki route",
+    "TL;DR",
+    "1. 会社概要",
+    "前身 3 社",
+    "主要子会社",
+    "2. 事業セグメント・マップ",
+    "短資会社の役割",
+    "業界構造（3 大短資 oligopoly）",
+    "マイナス金利時代の苦境"
+  ],
+  "body_links": {
+    "wikilinks_count": 9,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "banking/INDEX",
+      "financial-regulators/ueda-yagi-tanshi",
+      "mizuho-fg",
+      "mufg",
+      "norinchukin",
+      "shinkin-central",
+      "smfg",
+      "ueda-yagi-tanshi"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/financial-regulators/ueda-yagi-tanshi",
+      "https://finwiki.zksc.io/mizuho-fg",
+      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/norinchukin",
+      "https://finwiki.zksc.io/shinkin-central",
+      "https://finwiki.zksc.io/smfg",
+      "https://finwiki.zksc.io/ueda-yagi-tanshi"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3427,
+    "word_like_tokens": 506,
+    "inbound_wikilinks_count": 22,
+    "last_modified": "2026-06-04"
+  }
+}

@@ -23,7 +23,7 @@ This entry sits under [[banking/INDEX|banking index]]. Read it with [[banking/co
 | Item | Value |
 | --- | --- |
 | FSA as-of date | 令和8年2月20日現在 |
-| Central institution | [[JapanFG/zenshin-kumi]] |
+| Central institution | [[cooperative-banks/zenshin-kumi]] |
 | Central rows in workbook | 1 |
 | Licensed credit cooperatives | 143 |
 | Legal / institutional route | 中小企業等協同組合法 / 協同組合による金融事業に関する法律 |
@@ -33,7 +33,7 @@ This entry sits under [[banking/INDEX|banking index]]. Read it with [[banking/co
 
 - 在索引层面封闭官方信用合作社群体,而不创建 143 个独立页面。
 - 将信用合作社与信用金库、劳动金库及普通地方银行区分开来。
-- 保留 [[JapanFG/zenshin-kumi|Zenshinkumiren]] 作为中央机构页面,同时将各个合作社通过本索引进行路由。
+- 保留 [[cooperative-banks/zenshin-kumi|Zenshinkumiren]] 作为中央机构页面,同时将各个合作社通过本索引进行路由。
 - 法人编号与总部地址是公开注册表字段;代表电话号码保留在源工作簿中,在此省略以保持索引的可浏览性。
 
 ## 3. 监管局计数
@@ -297,8 +297,8 @@ This entry sits under [[banking/INDEX|banking index]]. Read it with [[banking/co
 
 - [[banking/cooperative-banking-japan]]
 - [[banking/regional-bank-consolidation-pattern]]
-- [[JapanFG/zenshin-kumi|全国信用協同組合連合会]]
-- [[JapanFG/missing-financial-institutions-backlog]]
+- [[cooperative-banks/zenshin-kumi|全国信用協同組合連合会]]
+- [[financial-regulators/missing-financial-institutions-backlog]]
 - [[banking/INDEX]]
 
 ## Sources

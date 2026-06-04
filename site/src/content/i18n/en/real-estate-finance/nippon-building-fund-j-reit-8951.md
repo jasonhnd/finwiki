@@ -30,8 +30,8 @@ This entry sits under [[real-estate-finance/INDEX|real-estate-finance index]] as
 | Sponsor | [[real-estate-finance/mitsui-fudosan-financing-model|Mitsui Fudosan]] (TSE Prime 8801) |
 | Listing date | September 2001 (first-listed J-REIT alongside [[real-estate-finance/japan-real-estate-j-reit-8952|JRE]]) |
 | Asset focus | Office buildings — Tokyo CBD core |
-| Asset administration trustee | Trust-bank trustee — [[JapanFG/mitsubishi-ufj-trust-bank|MUFG Trust]] / [[JapanFG/sumitomo-mitsui-trust|SMTB]] / [[JapanFG/mizuho-trust-bank|Mizuho Trust]] depending on individual property trust beneficial interests |
-| Rating | High investment-grade by [[JapanFG/jcr|JCR]] / [[JapanFG/rating-and-investment|R&I]]; AA-zone domestic rating typical for the flagship office J-REIT |
+| Asset administration trustee | Trust-bank trustee — [[trust-banks/mitsubishi-ufj-trust-bank|MUFG Trust]] / [[trust-banks/sumitomo-mitsui-trust|SMTB]] / [[trust-banks/mizuho-trust-bank|Mizuho Trust]] depending on individual property trust beneficial interests |
+| Rating | High investment-grade by [[financial-regulators/jcr|JCR]] / [[financial-regulators/rating-and-investment|R&I]]; AA-zone domestic rating typical for the flagship office J-REIT |
 | Index inclusion | TSE REIT Index, TSE REIT Office Index, GPR / FTSE EPRA Nareit Developed Asia, GPR 250 Japan |
 
 ## 2. Portfolio composition
@@ -109,7 +109,7 @@ The NBF-JRE pairing is the **listed proxy** for the broader Mitsui Fudosan vs Mi
 - [[real-estate-finance/j-reit-dividend-yield-vs-jgb-spread|J-REIT dividend yield vs JGB spread]]
 - [[real-estate-finance/logistics-j-reit-vs-office-j-reit-asset-class-comparison|logistics J-REIT vs office J-REIT comparison]]
 - [[banking/trust-bank-custody-operating-comparison|trust bank custody operating comparison]]
-- [[JapanFG/mitsubishi-ufj-trust-bank|MUFG Trust]] · [[JapanFG/sumitomo-mitsui-trust|SMTB]] · [[JapanFG/mizuho-trust-bank|Mizuho Trust]]
+- [[trust-banks/mitsubishi-ufj-trust-bank|MUFG Trust]] · [[trust-banks/sumitomo-mitsui-trust|SMTB]] · [[trust-banks/mizuho-trust-bank|Mizuho Trust]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

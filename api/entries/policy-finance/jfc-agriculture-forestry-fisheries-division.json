@@ -61,15 +61,15 @@
   "body_links": {
     "wikilinks_count": 15,
     "wikilinks": [
-      "JapanFG/dbj",
-      "JapanFG/jbic",
-      "JapanFG/jfc",
-      "JapanFG/mizuho-fg",
-      "JapanFG/mufg",
-      "JapanFG/norinchukin",
-      "JapanFG/norinchukin\\",
-      "JapanFG/smfg",
       "banking/cooperative-banking-japan",
+      "cooperative-banks/norinchukin",
+      "cooperative-banks/norinchukin\\",
+      "financial-regulators/dbj",
+      "financial-regulators/jbic",
+      "financial-regulators/jfc",
+      "megabanks/mizuho-fg",
+      "megabanks/mufg",
+      "megabanks/smfg",
       "policy-finance/INDEX",
       "policy-finance/agriculture-credit-guarantee-system",
       "policy-finance/fisheries-credit-guarantee-system",
@@ -78,15 +78,15 @@
       "policy-finance/jfc-sme-division-operating-model"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/dbj",
-      "https://finwiki.zksc.io/JapanFG/jbic",
-      "https://finwiki.zksc.io/JapanFG/jfc",
-      "https://finwiki.zksc.io/JapanFG/mizuho-fg",
-      "https://finwiki.zksc.io/JapanFG/mufg",
-      "https://finwiki.zksc.io/JapanFG/norinchukin",
-      "https://finwiki.zksc.io/JapanFG/norinchukin\\",
-      "https://finwiki.zksc.io/JapanFG/smfg",
       "https://finwiki.zksc.io/banking/cooperative-banking-japan",
+      "https://finwiki.zksc.io/cooperative-banks/norinchukin",
+      "https://finwiki.zksc.io/cooperative-banks/norinchukin\\",
+      "https://finwiki.zksc.io/financial-regulators/dbj",
+      "https://finwiki.zksc.io/financial-regulators/jbic",
+      "https://finwiki.zksc.io/financial-regulators/jfc",
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/smfg",
       "https://finwiki.zksc.io/policy-finance/INDEX",
       "https://finwiki.zksc.io/policy-finance/agriculture-credit-guarantee-system",
       "https://finwiki.zksc.io/policy-finance/fisheries-credit-guarantee-system",
@@ -98,9 +98,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 21046,
-    "word_like_tokens": 3305,
+    "nonspace_chars": 21252,
+    "word_like_tokens": 3322,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-04"
   }
 }

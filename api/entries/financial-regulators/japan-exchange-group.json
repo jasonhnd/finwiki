@@ -1,0 +1,88 @@
+{
+  "schema_version": "1.0",
+  "slug": "financial-regulators/japan-exchange-group",
+  "source_path": "financial-regulators/japan-exchange-group.md",
+  "url": "https://finwiki.zksc.io/financial-regulators/japan-exchange-group",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/financial-regulators/japan-exchange-group.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/financial-regulators/japan-exchange-group.md",
+  "domain": "financial-regulators",
+  "title": "日本取引所グループ (JPX)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "日本取引所グループ (JPX)",
+    "aliases": [
+      "JPX",
+      "Japan Exchange Group",
+      "日本取引所グループ",
+      "8697"
+    ],
+    "domain": "financial-regulators",
+    "created": "2026-05-20",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
+    "review_by": "2026-11-20",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "securities",
+      "exchange",
+      "market-infrastructure",
+      "listed-company"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.jpx.co.jp/english/corporate/about-jpx/profile/",
+      "https://www.jpx.co.jp/english/corporate/about-jpx/business/index.html",
+      "https://www.jpx.co.jp/english/corporate/investor-relations/ir-library/integrated-report/"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 日本証券金融 (JSF) for peer / contrast context and securities index for the broader system / regulatory boundary.",
+  "headings": [
+    "日本取引所グループ (JPX)",
+    "Wiki route",
+    "TL;DR",
+    "1. 会社概要",
+    "2. 事業セグメント・マップ",
+    "3. 戦略・競争",
+    "4. 規制・政策",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 11,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "finance/japan-ib-league-table",
+      "financial-regulators/japan-securities-finance",
+      "fintech/japan-listed-company-disclosure-monitoring",
+      "securities/INDEX",
+      "securities/japan-securities-clearing-corp",
+      "securities/japan-securities-depository-center",
+      "securities/osaka-digital-exchange",
+      "securities/osaka-exchange",
+      "securities/tokyo-commodity-exchange",
+      "securities/tokyo-stock-exchange"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/finance/japan-ib-league-table",
+      "https://finwiki.zksc.io/financial-regulators/japan-securities-finance",
+      "https://finwiki.zksc.io/fintech/japan-listed-company-disclosure-monitoring",
+      "https://finwiki.zksc.io/securities/INDEX",
+      "https://finwiki.zksc.io/securities/japan-securities-clearing-corp",
+      "https://finwiki.zksc.io/securities/japan-securities-depository-center",
+      "https://finwiki.zksc.io/securities/osaka-digital-exchange",
+      "https://finwiki.zksc.io/securities/osaka-exchange",
+      "https://finwiki.zksc.io/securities/tokyo-commodity-exchange",
+      "https://finwiki.zksc.io/securities/tokyo-stock-exchange"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 4201,
+    "word_like_tokens": 604,
+    "inbound_wikilinks_count": 45,
+    "last_modified": "2026-06-04"
+  }
+}

@@ -43,7 +43,7 @@ translated_at: 2026-06-02T12:19:04.229Z
 
 金融庁の電子決済手段等取引業者登録一覧では、SBI VCトレードが関東財務局長 第00001号の登録業者として記載され、取扱電子決済手段は USDC とされている。したがって同社は単なる暗号資産交換業者ではなく、日本の電子決済手段 / stablecoin 実装を読む際の primary route でもある。
 
-関連するステーブルコイン経路: [[fintech/japan-ecisb-license]], [[fintech/japan-stablecoin-regulatory-landscape]], [[fintech/stablecoin-channel-japan-sbi-jpyc-ring]], [[JapanFG/jpyc]], [[JapanFG/progmat]].
+関連するステーブルコイン経路: [[fintech/japan-ecisb-license]], [[fintech/japan-stablecoin-regulatory-landscape]], [[fintech/stablecoin-channel-japan-sbi-jpyc-ring]], [[payment-firms/jpyc]], [[payment-firms/progmat]].
 
 ## 3. 取扱通貨
 
@@ -117,12 +117,12 @@ translated_at: 2026-06-02T12:19:04.229Z
 - [[fintech/japan-ecisb-license]] — 電子決済手段等取引業制度解説
 - [[fintech/japan-stablecoin-regulatory-landscape]] — 関連 stablecoin 制度
 - [[fintech/jp-trust-type-sc-architecture]] — 関連 SC 制度
-- [[JapanFG/jpyc]] — 資金移動業者型 JPY stablecoin issuer
-- [[JapanFG/progmat]] — trust-type stablecoin / tokenization platform company anchor
+- [[payment-firms/jpyc]] — 資金移動業者型 JPY stablecoin issuer
+- [[payment-firms/progmat]] — trust-type stablecoin / tokenization platform company anchor
 - [[fintech/stablecoin-channel-japan-sbi-jpyc-ring]] — SBI × JPYC スタブコインチャネル
 - [[exchanges/jp-exchange-binance-japan]] — 同業他社 概要（Binance Japan）
 - [[exchanges/jp-exchange-gmo-coin]] — 同業他社 概要（GMO コイン）
-- [[JapanFG/sbi-hd]] — SBI ホールディングス親会社プロファイル
+- [[megabanks/sbi-hd]] — SBI ホールディングス親会社プロファイル
 - [[exchanges/jp-cex-deposit-token-stablecoin-integration]] — JP CEX deposit トークン / stablecoin integration
 - [[fintech/global-stablecoin-regulatory-five-pole-matrix]] — グローバル stablecoin 規制 5 極比較
 

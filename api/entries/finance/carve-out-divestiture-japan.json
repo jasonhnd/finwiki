@@ -60,7 +60,6 @@
     "wikilinks_count": 12,
     "wikilinks": [
       "INDEX",
-      "JapanFG/legal-financial-licenses/securities-license-stack",
       "finance/INDEX",
       "finance/cross-border-m-a-japan",
       "finance/japan-acquisition-finance",
@@ -70,11 +69,11 @@
       "finance/japan-takeover-defense-poison-pill",
       "finance/japan-tender-offer-process",
       "finance/jftc-merger-control-process",
-      "finance/multi-jurisdiction-identity-tax-leverage"
+      "finance/multi-jurisdiction-identity-tax-leverage",
+      "financial-licenses/securities-license-stack"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/securities-license-stack",
       "https://finwiki.zksc.io/finance/INDEX",
       "https://finwiki.zksc.io/finance/cross-border-m-a-japan",
       "https://finwiki.zksc.io/finance/japan-acquisition-finance",
@@ -84,15 +83,16 @@
       "https://finwiki.zksc.io/finance/japan-takeover-defense-poison-pill",
       "https://finwiki.zksc.io/finance/japan-tender-offer-process",
       "https://finwiki.zksc.io/finance/jftc-merger-control-process",
-      "https://finwiki.zksc.io/finance/multi-jurisdiction-identity-tax-leverage"
+      "https://finwiki.zksc.io/finance/multi-jurisdiction-identity-tax-leverage",
+      "https://finwiki.zksc.io/financial-licenses/securities-license-stack"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 7985,
-    "word_like_tokens": 1230,
+    "nonspace_chars": 7957,
+    "word_like_tokens": 1226,
     "inbound_wikilinks_count": 2,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-06-04"
   }
 }

@@ -62,13 +62,13 @@
     "wikilinks_count": 16,
     "wikilinks": [
       "INDEX",
-      "JapanFG/japan-exchange-group",
-      "JapanFG/jsda",
-      "JapanFG/legal-financial-licenses/securities-license-stack",
-      "JapanFG/mufg-mums",
-      "JapanFG/progmat",
-      "JapanFG/sbi-securities",
+      "financial-licenses/securities-license-stack",
+      "financial-regulators/japan-exchange-group",
+      "financial-regulators/jsda",
       "fintech/jp-stablecoin-progmat",
+      "payment-firms/progmat",
+      "securities-firms/mufg-mums",
+      "securities-firms/sbi-securities",
       "securities/INDEX",
       "securities/japan-best-execution-sor-pts",
       "securities/japan-market-infrastructure-map",
@@ -80,13 +80,13 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/japan-exchange-group",
-      "https://finwiki.zksc.io/JapanFG/jsda",
-      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/securities-license-stack",
-      "https://finwiki.zksc.io/JapanFG/mufg-mums",
-      "https://finwiki.zksc.io/JapanFG/progmat",
-      "https://finwiki.zksc.io/JapanFG/sbi-securities",
+      "https://finwiki.zksc.io/financial-licenses/securities-license-stack",
+      "https://finwiki.zksc.io/financial-regulators/japan-exchange-group",
+      "https://finwiki.zksc.io/financial-regulators/jsda",
       "https://finwiki.zksc.io/fintech/jp-stablecoin-progmat",
+      "https://finwiki.zksc.io/payment-firms/progmat",
+      "https://finwiki.zksc.io/securities-firms/mufg-mums",
+      "https://finwiki.zksc.io/securities-firms/sbi-securities",
       "https://finwiki.zksc.io/securities/INDEX",
       "https://finwiki.zksc.io/securities/japan-best-execution-sor-pts",
       "https://finwiki.zksc.io/securities/japan-market-infrastructure-map",
@@ -100,9 +100,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 7348,
-    "word_like_tokens": 1089,
+    "nonspace_chars": 7408,
+    "word_like_tokens": 1094,
     "inbound_wikilinks_count": 7,
-    "last_modified": "2026-05-22"
+    "last_modified": "2026-06-04"
   }
 }

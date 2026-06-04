@@ -55,38 +55,38 @@
     "wikilinks": [
       "INDEX",
       "JapanFG/INDEX",
-      "JapanFG/daido-fire-marine",
-      "JapanFG/kyoritsu-fire-marine",
-      "JapanFG/legal-financial-licenses/INDEX",
-      "JapanFG/msad",
-      "JapanFG/sompo",
-      "JapanFG/tokio-marine",
+      "financial-licenses/INDEX",
       "insurance/INDEX",
       "insurance/economic-value-based-solvency",
       "insurance/esr-economic-value-solvency",
-      "insurance/saison-automobile-fire"
+      "insurance/saison-automobile-fire",
+      "non-life-insurers/daido-fire-marine",
+      "non-life-insurers/kyoritsu-fire-marine",
+      "non-life-insurers/msad",
+      "non-life-insurers/sompo",
+      "non-life-insurers/tokio-marine"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
       "https://finwiki.zksc.io/JapanFG/INDEX",
-      "https://finwiki.zksc.io/JapanFG/daido-fire-marine",
-      "https://finwiki.zksc.io/JapanFG/kyoritsu-fire-marine",
-      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX",
-      "https://finwiki.zksc.io/JapanFG/msad",
-      "https://finwiki.zksc.io/JapanFG/sompo",
-      "https://finwiki.zksc.io/JapanFG/tokio-marine",
+      "https://finwiki.zksc.io/financial-licenses/INDEX",
       "https://finwiki.zksc.io/insurance/INDEX",
       "https://finwiki.zksc.io/insurance/economic-value-based-solvency",
       "https://finwiki.zksc.io/insurance/esr-economic-value-solvency",
-      "https://finwiki.zksc.io/insurance/saison-automobile-fire"
+      "https://finwiki.zksc.io/insurance/saison-automobile-fire",
+      "https://finwiki.zksc.io/non-life-insurers/daido-fire-marine",
+      "https://finwiki.zksc.io/non-life-insurers/kyoritsu-fire-marine",
+      "https://finwiki.zksc.io/non-life-insurers/msad",
+      "https://finwiki.zksc.io/non-life-insurers/sompo",
+      "https://finwiki.zksc.io/non-life-insurers/tokio-marine"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4122,
-    "word_like_tokens": 605,
-    "inbound_wikilinks_count": 31,
-    "last_modified": "2026-05-21"
+    "nonspace_chars": 4218,
+    "word_like_tokens": 625,
+    "inbound_wikilinks_count": 32,
+    "last_modified": "2026-06-04"
   }
 }

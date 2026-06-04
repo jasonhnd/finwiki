@@ -66,16 +66,6 @@
   "body_links": {
     "wikilinks_count": 23,
     "wikilinks": [
-      "JapanFG/boj-financial-markets-dept",
-      "JapanFG/jbatibor",
-      "JapanFG/jsda",
-      "JapanFG/mizuho-fg",
-      "JapanFG/mizuho-securities",
-      "JapanFG/mufg",
-      "JapanFG/mufg-securities",
-      "JapanFG/nomura-hd",
-      "JapanFG/smbc-nikko",
-      "JapanFG/smfg",
       "banking/INDEX",
       "derivatives/INDEX",
       "derivatives/cross-currency-basis-swap-japan",
@@ -88,19 +78,19 @@
       "derivatives/otc-clearing-jp-trade-repository",
       "derivatives/swap-execution-facility-japan",
       "derivatives/yen-basis-swap-market",
-      "money-market/INDEX"
+      "financial-regulators/boj-financial-markets-dept",
+      "financial-regulators/jbatibor",
+      "financial-regulators/jsda",
+      "megabanks/mizuho-fg",
+      "megabanks/mufg",
+      "megabanks/smfg",
+      "money-market/INDEX",
+      "securities-firms/mizuho-securities",
+      "securities-firms/mufg-securities",
+      "securities-firms/nomura-hd",
+      "securities-firms/smbc-nikko"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/boj-financial-markets-dept",
-      "https://finwiki.zksc.io/JapanFG/jbatibor",
-      "https://finwiki.zksc.io/JapanFG/jsda",
-      "https://finwiki.zksc.io/JapanFG/mizuho-fg",
-      "https://finwiki.zksc.io/JapanFG/mizuho-securities",
-      "https://finwiki.zksc.io/JapanFG/mufg",
-      "https://finwiki.zksc.io/JapanFG/mufg-securities",
-      "https://finwiki.zksc.io/JapanFG/nomura-hd",
-      "https://finwiki.zksc.io/JapanFG/smbc-nikko",
-      "https://finwiki.zksc.io/JapanFG/smfg",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/derivatives/INDEX",
       "https://finwiki.zksc.io/derivatives/cross-currency-basis-swap-japan",
@@ -113,15 +103,25 @@
       "https://finwiki.zksc.io/derivatives/otc-clearing-jp-trade-repository",
       "https://finwiki.zksc.io/derivatives/swap-execution-facility-japan",
       "https://finwiki.zksc.io/derivatives/yen-basis-swap-market",
-      "https://finwiki.zksc.io/money-market/INDEX"
+      "https://finwiki.zksc.io/financial-regulators/boj-financial-markets-dept",
+      "https://finwiki.zksc.io/financial-regulators/jbatibor",
+      "https://finwiki.zksc.io/financial-regulators/jsda",
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/smfg",
+      "https://finwiki.zksc.io/money-market/INDEX",
+      "https://finwiki.zksc.io/securities-firms/mizuho-securities",
+      "https://finwiki.zksc.io/securities-firms/mufg-securities",
+      "https://finwiki.zksc.io/securities-firms/nomura-hd",
+      "https://finwiki.zksc.io/securities-firms/smbc-nikko"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 15516,
-    "word_like_tokens": 2507,
+    "nonspace_chars": 15693,
+    "word_like_tokens": 2522,
     "inbound_wikilinks_count": 2,
-    "last_modified": "2026-06-02"
+    "last_modified": "2026-06-04"
   }
 }

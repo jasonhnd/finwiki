@@ -12,7 +12,7 @@ translated_at: 2026-06-02T11:47:37.273Z
 
 ## ウィキ上の位置づけ
 
-このエントリは [[banking/INDEX|banking index]] の配下にある。エンティティアンカー [[JapanFG/master-trust-bank|日本マスタートラスト信託銀行 (MTBJ)]]、オペレーティングピア [[JapanFG/custody-bank|日本カストディ銀行 (CBJ)]]、ランドスケープサマリー [[banking/japan-master-trust-and-custody-bank-landscape|Japan master trust and custody bank landscape]]、オペレーティング比較 [[banking/trust-bank-custody-operating-comparison|trust-bank custody operating comparison]]、クロスキャンプマトリクス [[banking/japan-trust-bank-vs-global-custodian-comparison-matrix|Japan trust bank vs global custodian comparison matrix]] と併せて読むこと。インフラ側については決済レールのエントリ [[securities/japan-securities-depository-center|JASDEC]] と [[securities/japan-securities-clearing-corp|JSCC]]、規制境界については [[banking/japan-banking-license-tier-comparison-matrix|Japan banking license tier comparison matrix]]、株主側の信託銀行ページ [[JapanFG/mitsubishi-ufj-trust-bank|三菱UFJ信託銀行]] と [[JapanFG/nochu-trust-bank|農中信託銀行]]、機関的文脈については [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]] と対にすること。
+このエントリは [[banking/INDEX|banking index]] の配下にある。エンティティアンカー [[trust-banks/master-trust-bank|日本マスタートラスト信託銀行 (MTBJ)]]、オペレーティングピア [[trust-banks/custody-bank|日本カストディ銀行 (CBJ)]]、ランドスケープサマリー [[banking/japan-master-trust-and-custody-bank-landscape|Japan master trust and custody bank landscape]]、オペレーティング比較 [[banking/trust-bank-custody-operating-comparison|trust-bank custody operating comparison]]、クロスキャンプマトリクス [[banking/japan-trust-bank-vs-global-custodian-comparison-matrix|Japan trust bank vs global custodian comparison matrix]] と併せて読むこと。インフラ側については決済レールのエントリ [[securities/japan-securities-depository-center|JASDEC]] と [[securities/japan-securities-clearing-corp|JSCC]]、規制境界については [[banking/japan-banking-license-tier-comparison-matrix|Japan banking license tier comparison matrix]]、株主側の信託銀行ページ [[trust-banks/mitsubishi-ufj-trust-bank|三菱UFJ信託銀行]] と [[trust-banks/nochu-trust-bank|農中信託銀行]]、機関的文脈については [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]] と対にすること。
 
 ## 要約
 
@@ -32,16 +32,16 @@ translated_at: 2026-06-02T11:47:37.273Z
 | 業界団体 | 信託協会（Trust Companies Association of Japan） |
 | 機能上の位置 | 資産管理専業（貸出なし、預金なし、PB なし、不動産信託なし） |
 | 公開 AUC アンカー | カストディ下の信託資産 ¥823 兆円（MTBJ 公式「私たちの仕事」ページのサマリー、日本の金融資産 ¥2,351 兆円のうち） |
-| ピア | [[JapanFG/custody-bank|Custody Bank of Japan (CBJ)]] |
+| ピア | [[trust-banks/custody-bank|Custody Bank of Japan (CBJ)]] |
 
 ### 株主構成（公開開示）
 
 | 株主 | 持分 | 読み方 |
 |---|---|---|
-| [[JapanFG/mitsubishi-ufj-trust-bank|三菱UFJ信託銀行]]（MUFG グループ） | 46.5% | 筆頭の事業会社株主。三菱側のマンデートフローと信託銀行のオペレーティングノウハウを提供 |
-| [[JapanFG/nippon-life|日本生命]] | 33.5% | 最大の生命保険会社株主。生命保険の特別勘定カストディと企業年金マンデートフローを提供 |
-| [[JapanFG/meiji-yasuda|明治安田生命]] | 10.0% | 第二の生命保険会社株主。生命保険会社側のマンデート基盤を補完 |
-| [[JapanFG/nochu-trust-bank|農中信託銀行]]（農林中金グループ） | 10.0% | 協同組織金融の株主。JA バンク / 農林系のマンデートフローを提供 |
+| [[trust-banks/mitsubishi-ufj-trust-bank|三菱UFJ信託銀行]]（MUFG グループ） | 46.5% | 筆頭の事業会社株主。三菱側のマンデートフローと信託銀行のオペレーティングノウハウを提供 |
+| [[life-insurers/nippon-life|日本生命]] | 33.5% | 最大の生命保険会社株主。生命保険の特別勘定カストディと企業年金マンデートフローを提供 |
+| [[life-insurers/meiji-yasuda|明治安田生命]] | 10.0% | 第二の生命保険会社株主。生命保険会社側のマンデート基盤を補完 |
+| [[trust-banks/nochu-trust-bank|農中信託銀行]]（農林中金グループ） | 10.0% | 協同組織金融の株主。JA バンク / 農林系のマンデートフローを提供 |
 
 ### なぜカストディ専業の信託銀行が存在するのか
 
@@ -55,8 +55,8 @@ translated_at: 2026-06-02T11:47:37.273Z
 
 | セグメント | コア機能 | 典型的な顧客基盤 | それでないもの |
 |---|---|---|---|
-| **年金信託（年金信託管理）** | 厚生年金基金、確定給付企業年金（DB）、確定拠出年金（DC）の信託契約 — 記録管理、資産保有者報告、給付支払オペレーション、加入者残高 | GPIF、大手企業 DB プラン、DC プラン（多くは DC スポンサー側の管理者経由）、厚生年金基金 | 運用者ではない — 運用裁量は [[JapanFG/mitsubishi-ufj-asset-management|asset managers]] と資産保有者の受託者にある |
-| **投資信託受託（証券投資信託管理）** | 公募投信と私募投信の信託契約 — ファンド会計、NAV 計算、保有銘柄登録、分配処理、監査支援 | [[JapanFG/mitsubishi-ufj-asset-management|MUFG asset management arm]]、[[JapanFG/nomura-asset-management|Nomura AM]]、[[JapanFG/sbi-asset-management|SBI AM]]、MTBJ を受託銀行として用いるその他のアセットマネージャー | ファンドスポンサーや販売会社ではない。ファンドマネージャーではない |
+| **年金信託（年金信託管理）** | 厚生年金基金、確定給付企業年金（DB）、確定拠出年金（DC）の信託契約 — 記録管理、資産保有者報告、給付支払オペレーション、加入者残高 | GPIF、大手企業 DB プラン、DC プラン（多くは DC スポンサー側の管理者経由）、厚生年金基金 | 運用者ではない — 運用裁量は [[asset-managers/mitsubishi-ufj-asset-management|asset managers]] と資産保有者の受託者にある |
+| **投資信託受託（証券投資信託管理）** | 公募投信と私募投信の信託契約 — ファンド会計、NAV 計算、保有銘柄登録、分配処理、監査支援 | [[asset-managers/mitsubishi-ufj-asset-management|MUFG asset management arm]]、[[asset-managers/nomura-asset-management|Nomura AM]]、[[asset-managers/sbi-asset-management|SBI AM]]、MTBJ を受託銀行として用いるその他のアセットマネージャー | ファンドスポンサーや販売会社ではない。ファンドマネージャーではない |
 | **有価証券カストディ（証券カストディ）** | 株式、JGB、社債、外国証券の保管。振替登録。コーポレートアクション処理。配当 / 利息受領。税還付オペレーション | 年金プラン、アセットマネージャー、生命保険会社、日本のサブカストディアンを必要とする外国のグローバルカストディアン | 自己勘定投資家ではない。「信託口」名義ラベルは記録管理上の構造物である |
 | **議決権行使指図（議決権行使管理）** | 資産保有者 / 運用者の指図に従った機械的な議決権行使執行。ICJ 電子投票プラットフォーム接続。議決権行使助言会社（ISS / Glass Lewis）資料の取り扱い | MTBJ をサブカストディアンとして用いるアセットマネージャー、年金プラン、外国投資家 | 裁量的な投票者ではない — MTBJ は独自の投票意見を形成しない |
 | **特定金外信託（特定金外信託オペレーション）** | 企業財務および金融機関資産のための特別目的投資信託構造（特金） | 特金を投資ビークルとして用いる企業、地方銀行、保険会社 | 裁量的なアセットマネージャーではない |
@@ -72,7 +72,7 @@ translated_at: 2026-06-02T11:47:37.273Z
 | ファンド会計 / NAV 計算 | 投信マンデートの日次 NAV 計算。投信協会のガイダンスに従った評価ルール。監査支援ワークペーパー |
 | コーポレートアクション | 配当 / 利息受領、分割、ライツオファリング、転換、強制 / 任意イベント、源泉徴収税処理。グローバルカストディアンのサブネットワーク経由の外国資産 CA |
 | 議決権行使オペレーション | 議案資料の受領、ICJ 電子投票への転送、資産保有者 / 運用者の指図の機械的執行 |
-| 外国資産のサブカストディ | マンデートポートフォリオ内の非日本資産について、グローバルカストディアン（[[JapanFG/bny-mellon-japan|BNY Mellon]] / [[JapanFG/state-street-japan|State Street]] / [[JapanFG/jpmorgan-japan|JP Morgan]]）経由の再ルーティング |
+| 外国資産のサブカストディ | マンデートポートフォリオ内の非日本資産について、グローバルカストディアン（[[foreign-financial-institutions/bny-mellon-japan|BNY Mellon]] / [[foreign-financial-institutions/state-street-japan|State Street]] / [[foreign-financial-institutions/jpmorgan-japan|JP Morgan]]）経由の再ルーティング |
 | 証券貸借支援 | 顧客がオプトインした場合の貸借プログラム管理。担保差し入れ。リコール管理 |
 | 加入者 / 参加者オペレーション | 年金加入者残高報告（DB / DC）、給付支払オペレーション、ファンドオブファンズのルックスルー |
 
@@ -90,9 +90,9 @@ translated_at: 2026-06-02T11:47:37.273Z
 
 | 層 | 競合 | MTBJ との重複 | 差別化 |
 |---|---|---|---|
-| 国内カストディ専業 | [[JapanFG/custody-bank|Custody Bank of Japan (CBJ)]] | ほぼ同一の製品セット — 年金信託、投信受託、証券カストディ | 異なる株主キャンプ（SMTB + みずほ + 第一生命）と異なるマンデート基盤。両者が二強の国内インフラをアンカーする |
-| メガバンクのフルサービス信託銀行部門 | [[JapanFG/mitsubishi-ufj-trust-bank|MUFG Trust]]、[[JapanFG/sumitomo-mitsui-trust|SMTB]]、[[JapanFG/mizuho-trust-bank|Mizuho Trust]] | フルサービス信託銀行も内部でカストディと年金信託を運営する — しかし通常、資産管理のレッグについてはバックオフィス処理を MTBJ / CBJ にオフロードする | フルサービス信託銀行は不動産信託、相続、PB、証券代行、議決権電子化サービスを追加する。それらは *フロントオフィス* のマンデートを勝ち取り、MTBJ / CBJ が *処理* を運営する |
-| グローバルカストディアン（外国サブカストディチェーン） | [[JapanFG/bny-mellon-japan|BNY Mellon Japan]]、[[JapanFG/state-street-japan|State Street Japan]]、[[JapanFG/jpmorgan-japan|JP Morgan Japan]] | クロスボーダーカストディ、外国投資家の日本サブカストディ、日本マンデートの外国資産処理 | グローバル勢はクロスボーダーを支配し、MTBJ は国内日本資産を支配する。チェーンは GPIF と投信の海外資産で相互接続する |
+| 国内カストディ専業 | [[trust-banks/custody-bank|Custody Bank of Japan (CBJ)]] | ほぼ同一の製品セット — 年金信託、投信受託、証券カストディ | 異なる株主キャンプ（SMTB + みずほ + 第一生命）と異なるマンデート基盤。両者が二強の国内インフラをアンカーする |
+| メガバンクのフルサービス信託銀行部門 | [[trust-banks/mitsubishi-ufj-trust-bank|MUFG Trust]]、[[trust-banks/sumitomo-mitsui-trust|SMTB]]、[[trust-banks/mizuho-trust-bank|Mizuho Trust]] | フルサービス信託銀行も内部でカストディと年金信託を運営する — しかし通常、資産管理のレッグについてはバックオフィス処理を MTBJ / CBJ にオフロードする | フルサービス信託銀行は不動産信託、相続、PB、証券代行、議決権電子化サービスを追加する。それらは *フロントオフィス* のマンデートを勝ち取り、MTBJ / CBJ が *処理* を運営する |
+| グローバルカストディアン（外国サブカストディチェーン） | [[foreign-financial-institutions/bny-mellon-japan|BNY Mellon Japan]]、[[foreign-financial-institutions/state-street-japan|State Street Japan]]、[[foreign-financial-institutions/jpmorgan-japan|JP Morgan Japan]] | クロスボーダーカストディ、外国投資家の日本サブカストディ、日本マンデートの外国資産処理 | グローバル勢はクロスボーダーを支配し、MTBJ は国内日本資産を支配する。チェーンは GPIF と投信の海外資産で相互接続する |
 
 ### クロスキャンプ比較表
 
@@ -221,17 +221,17 @@ MTBJ (record-name trust-account) → global custodian (BNY / State Street / JPM 
 - [[banking/trust-bank-fee-structure-comparison]]
 - [[banking/pension-trust-mandate-allocation-japan]]
 - [[banking/japan-banking-license-tier-comparison-matrix]]
-- [[JapanFG/master-trust-bank]]
-- [[JapanFG/custody-bank]]
-- [[JapanFG/mitsubishi-ufj-trust-bank]]
-- [[JapanFG/sumitomo-mitsui-trust]]
-- [[JapanFG/mizuho-trust-bank]]
-- [[JapanFG/nochu-trust-bank]]
-- [[JapanFG/nippon-life]]
-- [[JapanFG/meiji-yasuda]]
-- [[JapanFG/bny-mellon-japan]]
-- [[JapanFG/state-street-japan]]
-- [[JapanFG/jpmorgan-japan]]
+- [[trust-banks/master-trust-bank]]
+- [[trust-banks/custody-bank]]
+- [[trust-banks/mitsubishi-ufj-trust-bank]]
+- [[trust-banks/sumitomo-mitsui-trust]]
+- [[trust-banks/mizuho-trust-bank]]
+- [[trust-banks/nochu-trust-bank]]
+- [[life-insurers/nippon-life]]
+- [[life-insurers/meiji-yasuda]]
+- [[foreign-financial-institutions/bny-mellon-japan]]
+- [[foreign-financial-institutions/state-street-japan]]
+- [[foreign-financial-institutions/jpmorgan-japan]]
 - [[securities/japan-securities-depository-center]]
 - [[securities/japan-securities-clearing-corp]]
 - [[securities/japan-market-infrastructure-map]]

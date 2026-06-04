@@ -48,7 +48,7 @@
   "body_links": {
     "wikilinks_count": 7,
     "wikilinks": [
-      "JapanFG/japan-exchange-group",
+      "financial-regulators/japan-exchange-group",
       "securities/INDEX",
       "securities/financial-instruments-business-operators-japan-index",
       "securities/japan-securities-clearing-corp",
@@ -57,7 +57,7 @@
       "trade/jetro-organization-structure"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/japan-exchange-group",
+      "https://finwiki.zksc.io/financial-regulators/japan-exchange-group",
       "https://finwiki.zksc.io/securities/INDEX",
       "https://finwiki.zksc.io/securities/financial-instruments-business-operators-japan-index",
       "https://finwiki.zksc.io/securities/japan-securities-clearing-corp",
@@ -69,9 +69,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2135,
-    "word_like_tokens": 314,
+    "nonspace_chars": 2161,
+    "word_like_tokens": 316,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-04"
   }
 }

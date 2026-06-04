@@ -92,7 +92,7 @@ End buyer (J-REIT / private REIT / pension / SWF)
 | テイクアウト経路の提供者 | テイクアウト時に J-REIT エクイティ調達を引き受ける（ディーラーが J-REIT の常設シンジケートに入っている場合） |
 | 手数料収益 | デットのオリジネーション手数料、信託手数料、アドバイザリー手数料、さらにテイクアウト時のエクイティ引受手数料 |
 
-この多役割フランチャイズは、メガバンクグループの信託銀行（[[JapanFG/mitsubishi-ufj-trust-bank|MUFG Trust]]、[[JapanFG/sumitomo-mitsui-trust|SMTB]]、[[JapanFG/mizuho-trust-bank|Mizuho Trust]]）がブリッジファンド・フランチャイズを支配する理由の一つである。グループ内の銀行 + 信託 + 証券子会社スタックにより、単一のメガバンクが一取引から複数の収益ラインを取り込める。運用分担は[[banking/trust-bank-custody-operating-comparison|trust-bank custody operating comparison]]参照。
+この多役割フランチャイズは、メガバンクグループの信託銀行（[[trust-banks/mitsubishi-ufj-trust-bank|MUFG Trust]]、[[trust-banks/sumitomo-mitsui-trust|SMTB]]、[[trust-banks/mizuho-trust-bank|Mizuho Trust]]）がブリッジファンド・フランチャイズを支配する理由の一つである。グループ内の銀行 + 信託 + 証券子会社スタックにより、単一のメガバンクが一取引から複数の収益ラインを取り込める。運用分担は[[banking/trust-bank-custody-operating-comparison|trust-bank custody operating comparison]]参照。
 
 ### 上場 J-REIT へのテイクアウト
 
@@ -187,9 +187,9 @@ End buyer (J-REIT / private REIT / pension / SWF)
 - [[insurance/INDEX]]
 - [[policy-finance/INDEX]]
 - [[policy-finance/japan-housing-finance-agency]]
-- [[JapanFG/mitsubishi-ufj-trust-bank]]
-- [[JapanFG/sumitomo-mitsui-trust]]
-- [[JapanFG/mizuho-trust-bank]]
+- [[trust-banks/mitsubishi-ufj-trust-bank]]
+- [[trust-banks/sumitomo-mitsui-trust]]
+- [[trust-banks/mizuho-trust-bank]]
 - [[finance/INDEX]]
 
 ## 出典

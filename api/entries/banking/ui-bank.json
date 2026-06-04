@@ -59,14 +59,6 @@
   "body_links": {
     "wikilinks_count": 22,
     "wikilinks": [
-      "JapanFG/01-bank",
-      "JapanFG/fukuoka-fg",
-      "JapanFG/kiraboshi-bank",
-      "JapanFG/kiraboshi-fg",
-      "JapanFG/legal-financial-licenses/bank-license-and-baas-boundary",
-      "JapanFG/resona-hd",
-      "JapanFG/saitama-resona-bank",
-      "JapanFG/ui-bank",
       "banking/INDEX",
       "banking/au-jibun-bank",
       "banking/baas-japan-landscape",
@@ -80,17 +72,17 @@
       "banking/rakuten-bank",
       "banking/regional-bank-api-digital-partnership-route",
       "banking/regional-bank-consolidation-pattern",
-      "banking/sony-bank"
+      "banking/sony-bank",
+      "financial-licenses/bank-license-and-baas-boundary",
+      "megabanks/resona-hd",
+      "megabanks/saitama-resona-bank",
+      "regional-banks/01-bank",
+      "regional-banks/fukuoka-fg",
+      "regional-banks/kiraboshi-bank",
+      "regional-banks/kiraboshi-fg",
+      "regional-banks/ui-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/01-bank",
-      "https://finwiki.zksc.io/JapanFG/fukuoka-fg",
-      "https://finwiki.zksc.io/JapanFG/kiraboshi-bank",
-      "https://finwiki.zksc.io/JapanFG/kiraboshi-fg",
-      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/bank-license-and-baas-boundary",
-      "https://finwiki.zksc.io/JapanFG/resona-hd",
-      "https://finwiki.zksc.io/JapanFG/saitama-resona-bank",
-      "https://finwiki.zksc.io/JapanFG/ui-bank",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/au-jibun-bank",
       "https://finwiki.zksc.io/banking/baas-japan-landscape",
@@ -104,15 +96,23 @@
       "https://finwiki.zksc.io/banking/rakuten-bank",
       "https://finwiki.zksc.io/banking/regional-bank-api-digital-partnership-route",
       "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
-      "https://finwiki.zksc.io/banking/sony-bank"
+      "https://finwiki.zksc.io/banking/sony-bank",
+      "https://finwiki.zksc.io/financial-licenses/bank-license-and-baas-boundary",
+      "https://finwiki.zksc.io/megabanks/resona-hd",
+      "https://finwiki.zksc.io/megabanks/saitama-resona-bank",
+      "https://finwiki.zksc.io/regional-banks/01-bank",
+      "https://finwiki.zksc.io/regional-banks/fukuoka-fg",
+      "https://finwiki.zksc.io/regional-banks/kiraboshi-bank",
+      "https://finwiki.zksc.io/regional-banks/kiraboshi-fg",
+      "https://finwiki.zksc.io/regional-banks/ui-bank"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 8958,
-    "word_like_tokens": 1517,
+    "nonspace_chars": 9069,
+    "word_like_tokens": 1532,
     "inbound_wikilinks_count": 3,
-    "last_modified": "2026-06-03"
+    "last_modified": "2026-06-04"
   }
 }

@@ -22,7 +22,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 The benefits of FX on-chain settlement in institutional markets are threefold:
 
-1. **Elimination of the prime-broker layer** — Today, institutional investors settling FX with multiple banks such as [[fintech/jpmorgan-jpmd-coin|JPM]] / Goldman / Morgan Stanley / [[JapanFG/mufg|三菱]] must engage a prime broker to bundle transactions and pay corresponding fees. Direct SC settlement makes this intermediary layer unnecessary
+1. **Elimination of the prime-broker layer** — Today, institutional investors settling FX with multiple banks such as [[fintech/jpmorgan-jpmd-coin|JPM]] / Goldman / Morgan Stanley / [[megabanks/mufg|三菱]] must engage a prime broker to bundle transactions and pay corresponding fees. Direct SC settlement makes this intermediary layer unnecessary
 2. **Herstatt Risk eliminated** — Yen settles at the Bank of Japan and dollars at the Fed separately, creating a 12–14 -hour gap due to the time difference. If a settlement counterparty goes bankrupt during this window, the party that has already paid incurs a one-sided loss (the 1974  Continental Illinois Bank failure is the historical case). 24/365  simultaneous settlement reduces this time gap to zero (see [[systems/cross-chain-five-pole-comparison-matrix|跨链五極対比マトリクス]] for cross-chain PvP design)
 3. **Capital efficiency improvement** — Banks are required to hold capital against settlement risk; when settlement risk disappears, capital can be freed for other uses — directly improving operational efficiency
 

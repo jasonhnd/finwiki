@@ -12,7 +12,7 @@ translated_at: 2026-06-01T03:31:12.284Z
 
 ## Wiki route
 
-This entry sits under [[payments/INDEX|payments index]] as the AEON vs Seven & i retail-prepaid comparison page that pairs with [[payments/prepaid-payment-instrument-issuers-japan-index|prepaid payment instrument issuers registry]] for the FSA-registered third-party prepaid view and with [[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]] for the four-class scheme comparison. Compare with [[payments/japan-transit-prepaid-suica-pasmo-icoca-economics|transit-prepaid scheme economics]] for the rail-anchored peer, with [[JapanFG/rakuten-edy|Rakuten Edy]] for the platform-agnostic FeliCa-prepaid alternative, and with [[payments/famipay-valucreate-strategy|FamiPay]] for the convenience-store code-payment counterpart. Group-anchor corporate context is [[retail/aeon-group|AEON Group]] and [[retail/seven-and-i-hd|Seven & i HD]]; payment-operator anchors are [[JapanFG/aeon-financial-service|AEON Financial Service]], [[JapanFG/aeon-bank|AEON Bank]], [[JapanFG/seven-card-service|Seven Card Service]], [[JapanFG/seven-payment-service|Seven Payment Service]], and [[JapanFG/seven-bank|Seven Bank]].
+This entry sits under [[payments/INDEX|payments index]] as the AEON vs Seven & i retail-prepaid comparison page that pairs with [[payments/prepaid-payment-instrument-issuers-japan-index|prepaid payment instrument issuers registry]] for the FSA-registered third-party prepaid view and with [[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]] for the four-class scheme comparison. Compare with [[payments/japan-transit-prepaid-suica-pasmo-icoca-economics|transit-prepaid scheme economics]] for the rail-anchored peer, with [[payment-firms/rakuten-edy|Rakuten Edy]] for the platform-agnostic FeliCa-prepaid alternative, and with [[payments/famipay-valucreate-strategy|FamiPay]] for the convenience-store code-payment counterpart. Group-anchor corporate context is [[retail/aeon-group|AEON Group]] and [[retail/seven-and-i-hd|Seven & i HD]]; payment-operator anchors are [[card-issuers/aeon-financial-service|AEON Financial Service]], [[card-issuers/aeon-bank|AEON Bank]], [[card-issuers/seven-card-service|Seven Card Service]], [[payment-firms/seven-payment-service|Seven Payment Service]], and [[regional-banks/seven-bank|Seven Bank]].
 
 ## TL;DR
 
@@ -23,9 +23,9 @@ This entry sits under [[payments/INDEX|payments index]] as the AEON vs Seven & i
 | Dimension | WAON | nanaco |
 |---|---|---|
 | Brand owner | AEON Co Ltd | Seven & i Holdings |
-| Issuer (FSA-registered third-party prepaid) | [[JapanFG/aeon-financial-service\|AEON Financial Service]] / WAON operations | [[JapanFG/seven-card-service\|Seven Card Service]] |
-| Group bank | [[JapanFG/aeon-bank\|AEON Bank]] | [[JapanFG/seven-bank\|Seven Bank]] |
-| Settlement / payment services | AEON Financial Service group | [[JapanFG/seven-payment-service\|Seven Payment Service]] |
+| Issuer (FSA-registered third-party prepaid) | [[card-issuers/aeon-financial-service\|AEON Financial Service]] / WAON operations | [[card-issuers/seven-card-service\|Seven Card Service]] |
+| Group bank | [[card-issuers/aeon-bank\|AEON Bank]] | [[regional-banks/seven-bank\|Seven Bank]] |
+| Settlement / payment services | AEON Financial Service group | [[payment-firms/seven-payment-service\|Seven Payment Service]] |
 | Launch year | 2007 | 2007 |
 | Technology | FeliCa | FeliCa |
 | Primary acceptance anchor | AEON malls, MaxValu, AEON supermarkets, ministop convenience stores | 7-Eleven, Ito-Yokado, Sogo & Seibu, Akachan Honpo, Denny's Japan |
@@ -91,7 +91,7 @@ The ** via nanaco** feature was historically a notable cross-product use case wh
 
 ## Comparison with Rakuten Edy
 
-Edy (operated by [[JapanFG/rakuten-edy|Rakuten Edy]]) is the closest peer that is **not** anchored on a specific retail group's owned store network. Edy launched 2001 (predating both WAON and nanaco) and pursued a platform-style merchant acceptance strategy: any merchant that wants FeliCa prepaid acceptance can install an Edy reader and contract with Rakuten Edy. This created broader cross-merchant acceptance than WAON or nanaco achieved, but without the same group-retail economic anchor.
+Edy (operated by [[payment-firms/rakuten-edy|Rakuten Edy]]) is the closest peer that is **not** anchored on a specific retail group's owned store network. Edy launched 2001 (predating both WAON and nanaco) and pursued a platform-style merchant acceptance strategy: any merchant that wants FeliCa prepaid acceptance can install an Edy reader and contract with Rakuten Edy. This created broader cross-merchant acceptance than WAON or nanaco achieved, but without the same group-retail economic anchor.
 
 | Dimension | WAON | nanaco | Edy |
 |---|---|---|---|
@@ -147,13 +147,13 @@ The same logic applies for nanaco / Seven Bank / Seven Card Plus. The group-bank
 - [[payments/funds-transfer-vs-prepaid-boundary]]
 - [[payments/famipay-valucreate-strategy]]
 - [[payments/japan-code-payment-competitive-map]]
-- [[JapanFG/rakuten-edy]]
-- [[JapanFG/aeon-financial-service]]
-- [[JapanFG/aeon-bank]]
-- [[JapanFG/seven-card-service]]
-- [[JapanFG/seven-payment-service]]
-- [[JapanFG/seven-bank]]
-- [[JapanFG/paypay]]
+- [[payment-firms/rakuten-edy]]
+- [[card-issuers/aeon-financial-service]]
+- [[card-issuers/aeon-bank]]
+- [[card-issuers/seven-card-service]]
+- [[payment-firms/seven-payment-service]]
+- [[regional-banks/seven-bank]]
+- [[payment-firms/paypay]]
 - [[retail/aeon-group]]
 - [[retail/seven-and-i-hd]]
 - [[loyalty/japan-points-landscape]]

@@ -62,9 +62,6 @@
   "body_links": {
     "wikilinks_count": 25,
     "wikilinks": [
-      "JapanFG/jpyc",
-      "JapanFG/legal-financial-licenses/payment-license-stack",
-      "JapanFG/progmat",
       "exchanges/INDEX",
       "exchanges/crypto-custody-provider-landscape-matrix",
       "exchanges/global-vasp-regulatory-comparison-matrix",
@@ -74,6 +71,7 @@
       "exchanges/jp-exchange-line-xenesis",
       "exchanges/jp-exchange-mercoin",
       "exchanges/jp-exchange-sbi-vc-trade",
+      "financial-licenses/payment-license-stack",
       "fintech/INDEX",
       "fintech/cross-border-sc-via-swift-api",
       "fintech/global-stablecoin-regulatory-five-pole-matrix",
@@ -85,13 +83,12 @@
       "fintech/jp-stablecoin-progmat",
       "fintech/jp-trust-type-sc-architecture",
       "fintech/stablecoin-channel-japan-sbi-jpyc-ring",
+      "payment-firms/jpyc",
+      "payment-firms/progmat",
       "payments/funds-transfer-vs-prepaid-boundary",
       "payments/japan-bnpl-credit-purchase-boundary"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/jpyc",
-      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/payment-license-stack",
-      "https://finwiki.zksc.io/JapanFG/progmat",
       "https://finwiki.zksc.io/exchanges/INDEX",
       "https://finwiki.zksc.io/exchanges/crypto-custody-provider-landscape-matrix",
       "https://finwiki.zksc.io/exchanges/global-vasp-regulatory-comparison-matrix",
@@ -101,6 +98,7 @@
       "https://finwiki.zksc.io/exchanges/jp-exchange-line-xenesis",
       "https://finwiki.zksc.io/exchanges/jp-exchange-mercoin",
       "https://finwiki.zksc.io/exchanges/jp-exchange-sbi-vc-trade",
+      "https://finwiki.zksc.io/financial-licenses/payment-license-stack",
       "https://finwiki.zksc.io/fintech/INDEX",
       "https://finwiki.zksc.io/fintech/cross-border-sc-via-swift-api",
       "https://finwiki.zksc.io/fintech/global-stablecoin-regulatory-five-pole-matrix",
@@ -112,6 +110,8 @@
       "https://finwiki.zksc.io/fintech/jp-stablecoin-progmat",
       "https://finwiki.zksc.io/fintech/jp-trust-type-sc-architecture",
       "https://finwiki.zksc.io/fintech/stablecoin-channel-japan-sbi-jpyc-ring",
+      "https://finwiki.zksc.io/payment-firms/jpyc",
+      "https://finwiki.zksc.io/payment-firms/progmat",
       "https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary",
       "https://finwiki.zksc.io/payments/japan-bnpl-credit-purchase-boundary"
     ],
@@ -119,9 +119,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 15697,
+    "nonspace_chars": 15693,
     "word_like_tokens": 2788,
     "inbound_wikilinks_count": 3,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-06-04"
   }
 }

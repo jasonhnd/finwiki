@@ -74,14 +74,14 @@
     "wikilinks_count": 21,
     "wikilinks": [
       "INDEX",
-      "JapanFG/local-bond-market",
-      "JapanFG/local-govt-finance",
-      "JapanFG/norinchukin",
-      "JapanFG/shinkin-central",
       "banking/INDEX",
       "banking/regional-bank-consolidation-pattern",
+      "cooperative-banks/norinchukin",
+      "cooperative-banks/shinkin-central",
       "finance/INDEX",
       "finance/japan-listed-financial-groups-investable-universe",
+      "financial-regulators/local-bond-market",
+      "financial-regulators/local-govt-finance",
       "money-market/INDEX",
       "money-market/japan-money-market",
       "money-market/jgb-repo-market-japan",
@@ -97,14 +97,14 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/local-bond-market",
-      "https://finwiki.zksc.io/JapanFG/local-govt-finance",
-      "https://finwiki.zksc.io/JapanFG/norinchukin",
-      "https://finwiki.zksc.io/JapanFG/shinkin-central",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
+      "https://finwiki.zksc.io/cooperative-banks/norinchukin",
+      "https://finwiki.zksc.io/cooperative-banks/shinkin-central",
       "https://finwiki.zksc.io/finance/INDEX",
       "https://finwiki.zksc.io/finance/japan-listed-financial-groups-investable-universe",
+      "https://finwiki.zksc.io/financial-regulators/local-bond-market",
+      "https://finwiki.zksc.io/financial-regulators/local-govt-finance",
       "https://finwiki.zksc.io/money-market/INDEX",
       "https://finwiki.zksc.io/money-market/japan-money-market",
       "https://finwiki.zksc.io/money-market/jgb-repo-market-japan",
@@ -122,9 +122,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 33570,
-    "word_like_tokens": 5135,
+    "nonspace_chars": 33636,
+    "word_like_tokens": 5141,
     "inbound_wikilinks_count": 1,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-04"
   }
 }

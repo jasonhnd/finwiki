@@ -1,0 +1,93 @@
+{
+  "schema_version": "1.0",
+  "slug": "securities-firms/goldman-sachs-japan",
+  "source_path": "securities-firms/goldman-sachs-japan.md",
+  "url": "https://finwiki.zksc.io/securities-firms/goldman-sachs-japan",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/securities-firms/goldman-sachs-japan.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/securities-firms/goldman-sachs-japan.md",
+  "domain": "securities-firms",
+  "title": "ゴールドマン・サックス・ジャパン (Goldman Sachs Japan)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "ゴールドマン・サックス・ジャパン (Goldman Sachs Japan)",
+    "aliases": [
+      "Goldman Sachs Japan",
+      "GS Japan",
+      "ゴールドマン・サックス",
+      "ゴールドマン・サックス証券",
+      "Goldman Sachs Japan Co.",
+      "Ltd.",
+      "GSJCL"
+    ],
+    "domain": "securities-firms",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "foreign-ib",
+      "securities"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: ゴールドマン・サックス / Goldman Sachs (公開情報)",
+      "Goldman Sachs Group 2024 Annual Report / Form 10-K (NYSE: GS)",
+      "金融庁 金融商品取引業者登録一覧 (公開情報)",
+      "https://www.nikkei.com/article/DGXZQOUB2553W0V20C24A4000000/",
+      "https://ja.wikipedia.org/wiki/持田昌典",
+      "https://www.goldmansachs.com/japan/our-firm/about-us/"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against モルガン・スタンレー・ジャパン (Morgan Stanley Japan) for peer / contrast context and securities index for the broader system / regulatory boundary.",
+  "headings": [
+    "ゴールドマン・サックス・ジャパン (Goldman Sachs Japan)",
+    "Wiki route",
+    "TL;DR",
+    "1. 会社概要",
+    "主要日本法人グループ ^[extracted]",
+    "親会社 Goldman Sachs Group 概要（参考、NYSE: GS） ^[extracted]",
+    "重要年表 ^[extracted]",
+    "本社・主要拠点",
+    "2. 事業セグメント・マップ",
+    "顧客セグメント"
+  ],
+  "body_links": {
+    "wikilinks_count": 11,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "finance/cross-border-m-a-japan",
+      "finance/japan-ib-league-table",
+      "mizuho-fg",
+      "morgan-stanley-japan",
+      "mufg",
+      "ndfg",
+      "nomura-hd",
+      "securities-firms/morgan-stanley-japan",
+      "securities/INDEX",
+      "smfg"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/finance/cross-border-m-a-japan",
+      "https://finwiki.zksc.io/finance/japan-ib-league-table",
+      "https://finwiki.zksc.io/mizuho-fg",
+      "https://finwiki.zksc.io/morgan-stanley-japan",
+      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/ndfg",
+      "https://finwiki.zksc.io/nomura-hd",
+      "https://finwiki.zksc.io/securities-firms/morgan-stanley-japan",
+      "https://finwiki.zksc.io/securities/INDEX",
+      "https://finwiki.zksc.io/smfg"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 5454,
+    "word_like_tokens": 870,
+    "inbound_wikilinks_count": 34,
+    "last_modified": "2026-06-04"
+  }
+}

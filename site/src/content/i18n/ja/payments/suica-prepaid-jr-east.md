@@ -11,7 +11,7 @@ translated_at: 2026-06-02T16:33:58.514Z
 
 ## ウィキ上の位置づけ
 
-このエントリは、JR East をアンカーとする前払式支払手段発行者ページとして [[payments/INDEX|payments index]] の配下に位置する。FSA 登録面については [[payments/prepaid-payment-instrument-issuers-japan-index|prepaid payment instrument issuers registry]] と、発行者横断のスキーム面については [[payments/japan-transit-prepaid-suica-pasmo-icoca-economics|transit-prepaid e-money economics]]（10 IC 相互利用、Cyberne 精算）と組み合わせる。[[payments/pasmo-prepaid-tokyo-metro|PASMO]]（東京メトロ / 私鉄コンソーシアム側の対応物）、[[payments/waon-prepaid-aeon|WAON]] / [[payments/nanaco-prepaid-seven-i|nanaco]]（小売アンカーの FeliCa ピア）、[[payments/edy-rakuten-prepaid|Rakuten Edy]]（プラットフォーム非依存 FeliCa）と比較する。企業 / グループのアンカーは [[JapanFG/jr-east-financial|JR East financial services / Viewカード]]、技術基盤は Sony / FeliCa Networks 経由の FeliCa、モバイル鉄道拡張は Apple Pay / おサイフケータイ配下の [[payments/japan-card-security-authentication-controls|tokenization controls]] にリンクする。
+このエントリは、JR East をアンカーとする前払式支払手段発行者ページとして [[payments/INDEX|payments index]] の配下に位置する。FSA 登録面については [[payments/prepaid-payment-instrument-issuers-japan-index|prepaid payment instrument issuers registry]] と、発行者横断のスキーム面については [[payments/japan-transit-prepaid-suica-pasmo-icoca-economics|transit-prepaid e-money economics]]（10 IC 相互利用、Cyberne 精算）と組み合わせる。[[payments/pasmo-prepaid-tokyo-metro|PASMO]]（東京メトロ / 私鉄コンソーシアム側の対応物）、[[payments/waon-prepaid-aeon|WAON]] / [[payments/nanaco-prepaid-seven-i|nanaco]]（小売アンカーの FeliCa ピア）、[[payments/edy-rakuten-prepaid|Rakuten Edy]]（プラットフォーム非依存 FeliCa）と比較する。企業 / グループのアンカーは [[card-issuers/jr-east-financial|JR East financial services / Viewカード]]、技術基盤は Sony / FeliCa Networks 経由の FeliCa、モバイル鉄道拡張は Apple Pay / おサイフケータイ配下の [[payments/japan-card-security-authentication-controls|tokenization controls]] にリンクする。
 
 ## 要約
 
@@ -105,7 +105,7 @@ JR East における Suica の戦略ロジックは次のとおり。
 - [[payments/funds-transfer-vs-prepaid-boundary]]
 - [[payments/japan-payment-scheme-economics-matrix]]
 - [[payments/japan-card-security-authentication-controls]]
-- [[JapanFG/jr-east-financial]]
+- [[card-issuers/jr-east-financial]]
 - [[loyalty/japan-points-landscape]]
 - [[INDEX|FinWiki index]]
 

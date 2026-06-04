@@ -16,7 +16,7 @@ translated_at: 2026-05-30T15:31:43.929Z
 
 ## TL;DR
 
-精工爱普生是总部位于长野县诹访市的精密 / 电子设备厂商。由 [[JapanFG/hachijuni-bank|八十二銀行]] 的长野县制造业 main bank 语境参照。它拥有打印、投影仪、机器人、精密设备，是观察长野县电子产业集聚与区域金融接点的 manufacturing anchor。
+精工爱普生是总部位于长野县诹访市的精密 / 电子设备厂商。由 [[regional-banks/hachijuni-bank|八十二銀行]] 的长野县制造业 main bank 语境参照。它拥有打印、投影仪、机器人、精密设备，是观察长野县电子产业集聚与区域金融接点的 manufacturing anchor。
 
 ## 1. 公司结构
 
@@ -45,7 +45,7 @@ translated_at: 2026-05-30T15:31:43.929Z
 
 ## 3. 战略与竞争
 
-- **长野县电子产业 anchor**：作为代表诹访 / 松本周边精密机械 / 电子零部件集聚的企业，与 [[JapanFG/hachijuni-bank|hachijuni-bank]] 的本地制造业金融语境相连。
+- **长野县电子产业 anchor**：作为代表诹访 / 松本周边精密机械 / 电子零部件集聚的企业，与 [[regional-banks/hachijuni-bank|hachijuni-bank]] 的本地制造业金融语境相连。
 - **打印依赖的转型**：Office / Home Printing 是重要的收益来源，但面临无纸化、耗材模式变化。
 - **机器人 / 产业机器**：以人手不足、工厂自动化为背景，产业机器人与精密设备具增长余地。
 - **环境战略**：节能、资源循环、脱碳不仅关乎企业价值，也成为设备更新与区域金融的融资主题。
@@ -58,7 +58,7 @@ translated_at: 2026-05-30T15:31:43.929Z
 
 ## 相关
 
-- [[JapanFG/hachijuni-bank|hachijuni-bank]]
+- [[regional-banks/hachijuni-bank|hachijuni-bank]]
 - [[manufacturer-finance/toyota-motor|toyota-motor]]
 - [[manufacturer-finance/INDEX|manufacturing INDEX]] · [[INDEX|FinWiki index]]
 

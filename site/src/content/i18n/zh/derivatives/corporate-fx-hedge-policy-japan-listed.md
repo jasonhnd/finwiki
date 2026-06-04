@@ -41,7 +41,7 @@ This entry sits inside the [[derivatives/INDEX|derivatives index]] as the corpor
 | 1-3Y | 0-30%，常与资本投资挂钩 | 战略性；通常与长期资本支出 / 债务现金流挂钩。 |
 | 3Y+ | 外汇罕见；仅用于项目 / 债务 | 交叉货币掉期领域，见 [[derivatives/cross-currency-basis-swap-japan|cross-currency basis swap]]。 |
 
-具体划分由资金部门在董事会 / 审计委员会监督下设定。[[JapanFG/mufg-bank|MUFG Bank]]、[[JapanFG/sumitomo-mitsui-banking-corp|Sumitomo Mitsui Banking Corp]] 和 [[JapanFG/mizuho-bank|Mizuho Bank]] 的大型银行企业交易台是该期限层级中的主导交易对手。
+具体划分由资金部门在董事会 / 审计委员会监督下设定。[[megabanks/mufg-bank|MUFG Bank]]、[[megabanks/sumitomo-mitsui-banking-corp|Sumitomo Mitsui Banking Corp]] 和 [[megabanks/mizuho-bank|Mizuho Bank]] 的大型银行企业交易台是该期限层级中的主导交易对手。
 
 ## 套保工具组合
 
@@ -148,7 +148,7 @@ This entry sits inside the [[derivatives/INDEX|derivatives index]] as the corpor
 | 担保条款 | 双向变动保证金，优先日元现金担保，每日盯市。 |
 | 集中度测试 | 与任何单一交易对手的名义金额不超过总额的 X%。 |
 
-日本大型银行（[[JapanFG/mufg-bank|MUFG Bank]]、[[JapanFG/sumitomo-mitsui-banking-corp|Sumitomo Mitsui Banking Corp]]、[[JapanFG/mizuho-bank|Mizuho Bank]]）往往占主导，因为关系型银行业务及日元担保的便利性。交易商名单中的外资银行可使定价多元化，并为非日元货币对交易提供深度。
+日本大型银行（[[megabanks/mufg-bank|MUFG Bank]]、[[megabanks/sumitomo-mitsui-banking-corp|Sumitomo Mitsui Banking Corp]]、[[megabanks/mizuho-bank|Mizuho Bank]]）往往占主导，因为关系型银行业务及日元担保的便利性。交易商名单中的外资银行可使定价多元化，并为非日元货币对交易提供深度。
 
 ## CSA 担保机制
 
@@ -217,9 +217,9 @@ This entry sits inside the [[derivatives/INDEX|derivatives index]] as the corpor
 - [[insurance/japan-life-insurance-alm-overview]]
 - [[money-market/japan-money-market]]
 - [[money-market/boj-open-market-operations]]
-- [[JapanFG/mufg-bank]]
-- [[JapanFG/sumitomo-mitsui-banking-corp]]
-- [[JapanFG/mizuho-bank]]
+- [[megabanks/mufg-bank]]
+- [[megabanks/sumitomo-mitsui-banking-corp]]
+- [[megabanks/mizuho-bank]]
 
 ## 来源
 

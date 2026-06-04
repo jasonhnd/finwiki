@@ -52,7 +52,6 @@
   "body_links": {
     "wikilinks_count": 10,
     "wikilinks": [
-      "JapanFG/jpyc",
       "exchanges/INDEX",
       "exchanges/fsa-vasp-registration-system",
       "exchanges/jp-cex-deposit-token-stablecoin-integration",
@@ -61,10 +60,10 @@
       "fintech/japan-financial-regulation",
       "fintech/japan-stablecoin-regulatory-landscape",
       "fintech/jp-trust-type-sc-architecture",
-      "fintech/stablecoin-channel-japan-sbi-jpyc-ring"
+      "fintech/stablecoin-channel-japan-sbi-jpyc-ring",
+      "payment-firms/jpyc"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/jpyc",
       "https://finwiki.zksc.io/exchanges/INDEX",
       "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
       "https://finwiki.zksc.io/exchanges/jp-cex-deposit-token-stablecoin-integration",
@@ -73,7 +72,8 @@
       "https://finwiki.zksc.io/fintech/japan-financial-regulation",
       "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
       "https://finwiki.zksc.io/fintech/jp-trust-type-sc-architecture",
-      "https://finwiki.zksc.io/fintech/stablecoin-channel-japan-sbi-jpyc-ring"
+      "https://finwiki.zksc.io/fintech/stablecoin-channel-japan-sbi-jpyc-ring",
+      "https://finwiki.zksc.io/payment-firms/jpyc"
     ],
     "external_links_count": 4,
     "external_links": [
@@ -84,9 +84,9 @@
     ]
   },
   "metrics": {
-    "nonspace_chars": 4396,
-    "word_like_tokens": 767,
-    "inbound_wikilinks_count": 15,
-    "last_modified": "2026-05-24"
+    "nonspace_chars": 4408,
+    "word_like_tokens": 769,
+    "inbound_wikilinks_count": 14,
+    "last_modified": "2026-06-04"
   }
 }

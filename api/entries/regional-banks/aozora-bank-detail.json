@@ -1,0 +1,86 @@
+{
+  "schema_version": "1.0",
+  "slug": "regional-banks/aozora-bank-detail",
+  "source_path": "regional-banks/aozora-bank-detail.md",
+  "url": "https://finwiki.zksc.io/regional-banks/aozora-bank-detail",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/regional-banks/aozora-bank-detail.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/regional-banks/aozora-bank-detail.md",
+  "domain": "regional-banks",
+  "title": "あおぞら銀行 事業詳細 (Aozora Bank Operating Profile)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "あおぞら銀行 事業詳細 (Aozora Bank Operating Profile)",
+    "aliases": [
+      "Aozora Bank Operating Profile",
+      "あおぞら銀行事業詳細",
+      "あおぞら operating",
+      "Aozora Bank Detail"
+    ],
+    "domain": "regional-banks",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "banking",
+      "post-rehab",
+      "mid-cap",
+      "CRE",
+      "operating-profile",
+      "edinet"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.aozorabank.co.jp/about/",
+      "https://www.aozorabank.co.jp/ir/",
+      "https://disclosure2.edinet-fsa.go.jp/",
+      "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index and complements the company-level summary at あおぞら銀行. Read it against SBI 新生銀行 for post-rehabilitation peer context, 三菱UFJ銀行 / SMBC / みずほ銀行 for mega-bank contrast, and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "あおぞら銀行 事業詳細 (Aozora Bank Operating Profile)",
+    "Wiki route",
+    "TL;DR",
+    "1. 法人沿革・所有構造の現状",
+    "2. ライセンス・規制境界",
+    "3. 事業セグメント詳細",
+    "3.1 ホールセール法人銀行",
+    "3.2 不動産ファイナンス",
+    "3.3 投資銀行・市場性業務",
+    "3.4 国際金融"
+  ],
+  "body_links": {
+    "wikilinks_count": 8,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "banking/INDEX",
+      "megabanks/mizuho-bank",
+      "megabanks/mufg-bank",
+      "megabanks/smbc",
+      "regional-banks/aozora-bank",
+      "regional-banks/sbi-shinsei-bank",
+      "regional-banks/tokyo-star-bank"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/megabanks/mizuho-bank",
+      "https://finwiki.zksc.io/megabanks/mufg-bank",
+      "https://finwiki.zksc.io/megabanks/smbc",
+      "https://finwiki.zksc.io/regional-banks/aozora-bank",
+      "https://finwiki.zksc.io/regional-banks/sbi-shinsei-bank",
+      "https://finwiki.zksc.io/regional-banks/tokyo-star-bank"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 4582,
+    "word_like_tokens": 733,
+    "inbound_wikilinks_count": 1,
+    "last_modified": "2026-06-04"
+  }
+}

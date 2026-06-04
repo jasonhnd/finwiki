@@ -76,10 +76,10 @@ CP 残高は、企業の短期資金需要のフロー指標として読む。CP
 
 ## JapanFG での関連性
 
-- メガバンクグループ [[JapanFG/mufg]]、[[JapanFG/smfg]]、[[JapanFG/mizuho-fg]] は、銀行勘定や信託子会社を通じて主要な CP 投資家である。
-- 証券会社 [[JapanFG/nomura-hd]]、[[JapanFG/daiwa-sg]]、[[JapanFG/mizuho-securities]]、[[JapanFG/mufg-mums]]、[[JapanFG/smbc-nikko]] は CP プログラムを組成し、プライマリー販売を担う。
-- [[JapanFG/tokyo-tanshi]]、[[JapanFG/central-tanshi]]、[[JapanFG/ueda-yagi-tanshi]] は短期資金を仲介し、コール・レポ市場に隣接して CP 市場の仲介支援を提供する。
-- [[JapanFG/japan-securities-finance]] は、CP と相互作用する担保・短期資金調達の配管に参加する。
+- メガバンクグループ [[megabanks/mufg]]、[[megabanks/smfg]]、[[megabanks/mizuho-fg]] は、銀行勘定や信託子会社を通じて主要な CP 投資家である。
+- 証券会社 [[securities-firms/nomura-hd]]、[[securities-firms/daiwa-sg]]、[[securities-firms/mizuho-securities]]、[[securities-firms/mufg-mums]]、[[securities-firms/smbc-nikko]] は CP プログラムを組成し、プライマリー販売を担う。
+- [[financial-regulators/tokyo-tanshi]]、[[financial-regulators/central-tanshi]]、[[financial-regulators/ueda-yagi-tanshi]] は短期資金を仲介し、コール・レポ市場に隣接して CP 市場の仲介支援を提供する。
+- [[financial-regulators/japan-securities-finance]] は、CP と相互作用する担保・短期資金調達の配管に参加する。
 
 ## 境界事例
 
@@ -107,10 +107,10 @@ CP 残高は、企業の短期資金需要のフロー指標として読む。CP
 - [[money-market/japan-tbill-treasury-discount-bill]]
 - [[money-market/japan-mmf-money-market-mutual-fund]]
 - [[money-market/boj-post-2024-floor-system-complementary-deposit-facility]]
-- [[JapanFG/boj-monetary-policy]]
-- [[JapanFG/tokyo-tanshi]]
-- [[JapanFG/central-tanshi]]
-- [[JapanFG/ueda-yagi-tanshi]]
+- [[financial-regulators/boj-monetary-policy]]
+- [[financial-regulators/tokyo-tanshi]]
+- [[financial-regulators/central-tanshi]]
+- [[financial-regulators/ueda-yagi-tanshi]]
 - [[securities/japan-securities-depository-center]]
 - [[securities/japan-underwriting-market-structure]]
 - [[INDEX|FinWiki index]]

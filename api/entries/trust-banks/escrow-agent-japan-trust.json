@@ -1,0 +1,78 @@
+{
+  "schema_version": "1.0",
+  "slug": "trust-banks/escrow-agent-japan-trust",
+  "source_path": "trust-banks/escrow-agent-japan-trust.md",
+  "url": "https://finwiki.zksc.io/trust-banks/escrow-agent-japan-trust",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/trust-banks/escrow-agent-japan-trust.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/trust-banks/escrow-agent-japan-trust.md",
+  "domain": "trust-banks",
+  "title": "エスクロー・エージェント・ジャパン信託 (Escrow Agent Japan Trust)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "エスクロー・エージェント・ジャパン信託 (Escrow Agent Japan Trust)",
+    "aliases": [
+      "Escrow Agent Japan Trust",
+      "株式会社エスクロー・エージェント・ジャパン信託",
+      "EAJ Trust"
+    ],
+    "domain": "trust-banks",
+    "created": "2026-05-22",
+    "last_updated": "2026-05-22",
+    "last_tended": "2026-05-22",
+    "review_by": "2026-11-22",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "trust-company",
+      "escrow",
+      "real-estate-finance",
+      "inheritance"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.xlsx",
+      "https://eajt.co.jp/information/",
+      "https://www.ea-j.jp/company/overview.html",
+      "https://auction.eajt.co.jp/"
+    ]
+  },
+  "summary": "Escrow Agent Japan Trust is a standalone trust-company route under JapanFG and is promoted from the Japan trust companies registry index. Read it with Japan MBO / squeeze-out process, Japan acquisition finance, and Japan trust-bank custody map.",
+  "headings": [
+    "エスクロー・エージェント・ジャパン信託 (Escrow Agent Japan Trust)",
+    "Wiki route",
+    "Overview",
+    "Entity Boundary",
+    "Business Role Map",
+    "Public Context",
+    "Research Checklist",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 6,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/INDEX",
+      "banking/japan-trust-bank-custody-map",
+      "finance/japan-acquisition-finance",
+      "finance/japan-mbo-and-squeeze-out-process",
+      "trust-banks/trust-companies-japan-index"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/banking/japan-trust-bank-custody-map",
+      "https://finwiki.zksc.io/finance/japan-acquisition-finance",
+      "https://finwiki.zksc.io/finance/japan-mbo-and-squeeze-out-process",
+      "https://finwiki.zksc.io/trust-banks/trust-companies-japan-index"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3257,
+    "word_like_tokens": 515,
+    "inbound_wikilinks_count": 6,
+    "last_modified": "2026-06-04"
+  }
+}

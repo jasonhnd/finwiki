@@ -63,7 +63,7 @@ FSA「暗号資産交換業者登録一覧」(`kasoutuka.xlsx`) と JVCEA 会員
 2. **前回 snapshot との diff** — 登録番号列 / 商号列 / 本店所在地列を機械的に比較
 3. **本ページに snapshot delta ブロック追記**
 4. **影響を受ける entity wiki の `last_tended` を更新**
-5. **新規登録社が wiki 未整備** → [[JapanFG/missing-financial-institutions-backlog|missing-financial-institutions-backlog]] に追加候補として記載
+5. **新規登録社が wiki 未整備** → [[financial-regulators/missing-financial-institutions-backlog|missing-financial-institutions-backlog]] に追加候補として記載
 6. **廃業社の entity wiki** → `status: deprecated` に変更、廃業日を追記
 7. **CHANGELOG 反映**（domain INDEX に snapshot 反映日を記録）
 

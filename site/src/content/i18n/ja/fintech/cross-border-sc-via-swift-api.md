@@ -20,11 +20,11 @@ translated_at: 2026-06-02T13:21:55.031Z
 ## 基本パターン
 
 ```
-銀行([[JapanFG/mufg|MUFG]] / [[JapanFG/smfg|SMFG/SMBC]] / Mizuho 等)
+銀行([[megabanks/mufg|MUFG]] / [[megabanks/smfg|SMFG/SMBC]] / Mizuho 等)
        ↓ SWIFT MT103 / ISO 20022 メッセージ
 SWIFT API 模擬レイヤー(Datachain)
        ↓ 解析 → 決済指図
-[[JapanFG/progmat|Progmat Coin]] contract(信託型 SC)
+[[payment-firms/progmat|Progmat Coin]] contract(信託型 SC)
        ↓ オンチェーン取引
 IBC + LCP(クロスチェーン・ブリッジ)
        ↓

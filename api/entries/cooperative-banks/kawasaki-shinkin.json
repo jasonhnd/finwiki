@@ -1,0 +1,79 @@
+{
+  "schema_version": "1.0",
+  "slug": "cooperative-banks/kawasaki-shinkin",
+  "source_path": "cooperative-banks/kawasaki-shinkin.md",
+  "url": "https://finwiki.zksc.io/cooperative-banks/kawasaki-shinkin",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/cooperative-banks/kawasaki-shinkin.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/cooperative-banks/kawasaki-shinkin.md",
+  "domain": "cooperative-banks",
+  "title": "川崎信用金庫",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "川崎信用金庫",
+    "aliases": [
+      "Kawasaki Shinkin Bank",
+      "川崎信金",
+      "信金"
+    ],
+    "domain": "cooperative-banks",
+    "created": "2026-05-24",
+    "last_updated": "2026-05-24",
+    "last_tended": "2026-05-24",
+    "review_by": "2026-11-20",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "shinkin",
+      "cooperative-banking",
+      "kanagawa",
+      "kanto",
+      "operating-company"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.shinkin.co.jp/kawashin/profile/",
+      "https://www.fsa.go.jp/menkyo/menkyoj/shinkin.xlsx",
+      "https://www.shinkin-central-bank.jp/"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 横浜信用金庫 for peer / contrast context inside the Kanagawa shinkin block and Japan shinkin bank registry for the broader system / regulatory boundary maintained by 信金中央金庫.",
+  "headings": [
+    "川崎信用金庫",
+    "Wiki route",
+    "TL;DR",
+    "1. License / group boundary",
+    "2. Operating model",
+    "3. Why this page matters",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 7,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "banking/INDEX",
+      "banking/cooperative-banking-japan",
+      "banking/shinkin-bank-registry-japan",
+      "cooperative-banks/jonan-shinkin",
+      "cooperative-banks/shinkin-central",
+      "cooperative-banks/yokohama-shinkin"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/banking/cooperative-banking-japan",
+      "https://finwiki.zksc.io/banking/shinkin-bank-registry-japan",
+      "https://finwiki.zksc.io/cooperative-banks/jonan-shinkin",
+      "https://finwiki.zksc.io/cooperative-banks/shinkin-central",
+      "https://finwiki.zksc.io/cooperative-banks/yokohama-shinkin"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 1900,
+    "word_like_tokens": 263,
+    "inbound_wikilinks_count": 6,
+    "last_modified": "2026-06-04"
+  }
+}

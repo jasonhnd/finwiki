@@ -34,7 +34,7 @@ translated_at: 2026-06-03T00:53:08.260Z
 - **Sapporo Holdings — 3D Investment Partnersアクティビズム（進行中）**。Yebisu Beer Garden不動産カーブアウトと価値改革を求めるアクティビスト圧力。アクティビスト主導再編の参照案件。
 - **Itochu / Descenteフォローオンラウンド（2024）**。2019 のItochuによるDescente TOBは基礎的案件であり、2024 フォローオンラウンドでItochu持分がさらに増加。
 - **Asahi Intec ←（特殊状況TOBシナリオ）**。医療機器業界の支配権取引分析の参照として含める。
-- **Tokio Marine HD子会社対応**。公開買付メカニクスが適用された[[JapanFG/tokio-marine-nichido|TMNF]]内部子会社再配置を含む。
+- **Tokio Marine HD子会社対応**。公開買付メカニクスが適用された[[non-life-insurers/tokio-marine-nichido|TMNF]]内部子会社再配置を含む。
 - **Yodogawa Steel — 支配権取引参照**。鉄鋼業界の支配権取引事例として参照。
 - **Daiichi Sankyo Espha関連再編**。少数株主スクイーズアウトのために公開買付メカニクスが適用された医薬品子会社再編事例。
 
@@ -152,7 +152,7 @@ translated_at: 2026-06-03T00:53:08.260Z
 
 ### PEファイナンスの厚み
 
-このコホートは、日本の[[finance/japan-acquisition-finance|acquisition finance]]市場、すなわち[[JapanFG/mufg|MUFG]]、[[JapanFG/smbc|SMBC]]、[[JapanFG/mizuho-bank|Mizuho]]信託銀行プール、[[JapanFG/sumitomo-mitsui-trust|Sumitomo Mitsui Trust]]を中心とする市場が、外部シンジケーションに無理をせず、数兆円LBO（Toshiba）と数千億円LBO（Outsourcing）を資金調達できる能力を持つことを確認している。[[finance/japan-leveraged-buyout-economics|Japan LBO economics]]はEBITDA倍率とレバレッジ倍率の規範を文書化している。
+このコホートは、日本の[[finance/japan-acquisition-finance|acquisition finance]]市場、すなわち[[megabanks/mufg|MUFG]]、[[megabanks/smbc|SMBC]]、[[megabanks/mizuho-bank|Mizuho]]信託銀行プール、[[trust-banks/sumitomo-mitsui-trust|Sumitomo Mitsui Trust]]を中心とする市場が、外部シンジケーションに無理をせず、数兆円LBO（Toshiba）と数千億円LBO（Outsourcing）を資金調達できる能力を持つことを確認している。[[finance/japan-leveraged-buyout-economics|Japan LBO economics]]はEBITDA倍率とレバレッジ倍率の規範を文書化している。
 
 ### 特別委員会品質のばらつき
 
@@ -211,8 +211,8 @@ translated_at: 2026-06-03T00:53:08.260Z
 - [[business/japan-listed-corp-strategic-restructuring-matrix]]
 - [[business/sony-fg-partial-spinoff-case]]
 - [[business/softbank-vision-fund-arm-ipo-template]]
-- [[JapanFG/mufg]]
-- [[JapanFG/mizuho-bank]]
+- [[megabanks/mufg]]
+- [[megabanks/mizuho-bank]]
 - [[JapanFG/orix]]
 - [[INDEX|FinWiki index]]
 

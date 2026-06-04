@@ -27,7 +27,7 @@ This entry sits under [[real-estate-finance/INDEX|real-estate-finance index]] as
 | Ticker | TSE Prime **8801** |
 | Domain | Real-estate development, leasing, asset management, brokerage, urban regeneration |
 | Headquarters | Tokyo, Chuo-ku (Nihonbashi area) |
-| Group origin | Historically tied to the broader Mitsui group (cross-shareholding with [[JapanFG/mitsubishi-corp|sōgō shōsha]]-adjacent entities, megabank syndicate ties — though Mitsui Fudosan is corporately distinct from Mitsui & Co.) |
+| Group origin | Historically tied to the broader Mitsui group (cross-shareholding with [[financial-conglomerates/mitsubishi-corp|sōgō shōsha]]-adjacent entities, megabank syndicate ties — though Mitsui Fudosan is corporately distinct from Mitsui & Co.) |
 | Reporting standard | JGAAP (with IFRS-comparable disclosure in IR materials) |
 | Credit rating | High investment-grade (A range) by domestic agencies (R&I, JCR) and international (S&P / Moody's) |
 | Key segments | Office leasing, retail facilities, residential (Park Mansion / Park Court / Park Home), logistics, hotel, overseas (US, UK, Asia), brokerage / property-services |
@@ -47,7 +47,7 @@ The investment-grade rating makes Mitsui Fudosan a benchmark issuer; its yield c
 For greenfield and large-scale development capex (mixed-use districts, urban regeneration projects), Mitsui Fudosan arranges **syndicated term loans** led by megabank franchises:
 
 - **MUFG Bank**, **Sumitomo Mitsui Banking Corporation**, and **Mizuho Bank** as primary arrangers.
-- **[[JapanFG/sumitomo-mitsui-trust|SMTB]]** and **[[JapanFG/mitsubishi-ufj-trust-bank|MUFJ Trust]]** as trust-bank lenders and project-finance arrangers.
+- **[[trust-banks/sumitomo-mitsui-trust|SMTB]]** and **[[trust-banks/mitsubishi-ufj-trust-bank|MUFJ Trust]]** as trust-bank lenders and project-finance arrangers.
 - Regional banks and life-insurance lenders as syndicate participants.
 
 See [[real-estate-finance/bank-commercial-real-estate-lending-japan|bank CRE lending Japan]] for the broader lender-side architecture.
@@ -208,9 +208,9 @@ Residential supports Mitsui Fudosan's revenue mix and cash-flow profile alongsid
 - [[real-estate-finance/bank-commercial-real-estate-lending-japan|bank CRE lending Japan]]
 - [[real-estate-finance/real-estate-cap-rate-compression-2026|cap-rate compression 2026]]
 - [[derivatives/yen-basis-swap-market|JPY-USD basis swap]]
-- [[JapanFG/mitsubishi-corp|Mitsubishi Corporation]]
-- [[JapanFG/sumitomo-mitsui-trust|SMTB]]
-- [[JapanFG/mitsubishi-ufj-trust-bank|MUFJ Trust]]
+- [[financial-conglomerates/mitsubishi-corp|Mitsubishi Corporation]]
+- [[trust-banks/sumitomo-mitsui-trust|SMTB]]
+- [[trust-banks/mitsubishi-ufj-trust-bank|MUFJ Trust]]
 - [[business/INDEX|business INDEX]]
 - [[corporate-strategy/INDEX|corporate-strategy INDEX]]
 - [[INDEX|FinWiki index]]

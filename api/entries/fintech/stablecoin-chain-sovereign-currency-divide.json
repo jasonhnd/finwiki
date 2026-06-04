@@ -47,8 +47,6 @@
     "wikilinks_count": 16,
     "wikilinks": [
       "INDEX",
-      "JapanFG/jpyc",
-      "JapanFG/mufg",
       "fintech/INDEX",
       "fintech/genius-act-501-denylist-mandate",
       "fintech/hkma-stablecoin-licensing-overview",
@@ -59,14 +57,14 @@
       "fintech/tether-business-model-short-treasury-yield",
       "fintech/three-circles-stablecoin-mra-framework",
       "fintech/wall-street-crypto-network-neutrality",
+      "megabanks/mufg",
+      "payment-firms/jpyc",
       "protocol-hedge-strategy-stripe-pattern",
       "stablecoin-channel-japan-sbi-jpyc-ring",
       "wall-street-crypto-network-neutrality"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/jpyc",
-      "https://finwiki.zksc.io/JapanFG/mufg",
       "https://finwiki.zksc.io/fintech/INDEX",
       "https://finwiki.zksc.io/fintech/genius-act-501-denylist-mandate",
       "https://finwiki.zksc.io/fintech/hkma-stablecoin-licensing-overview",
@@ -77,6 +75,8 @@
       "https://finwiki.zksc.io/fintech/tether-business-model-short-treasury-yield",
       "https://finwiki.zksc.io/fintech/three-circles-stablecoin-mra-framework",
       "https://finwiki.zksc.io/fintech/wall-street-crypto-network-neutrality",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/payment-firms/jpyc",
       "https://finwiki.zksc.io/protocol-hedge-strategy-stripe-pattern",
       "https://finwiki.zksc.io/stablecoin-channel-japan-sbi-jpyc-ring",
       "https://finwiki.zksc.io/wall-street-crypto-network-neutrality"
@@ -85,9 +85,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3272,
-    "word_like_tokens": 500,
+    "nonspace_chars": 3280,
+    "word_like_tokens": 501,
     "inbound_wikilinks_count": 7,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-06-04"
   }
 }

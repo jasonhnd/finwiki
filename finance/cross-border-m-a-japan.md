@@ -26,7 +26,7 @@ sources:
 
 Japan cross-border M&A has three different deal directions: inbound foreign acquisition / investment into Japanese companies, outbound Japanese acquisition overseas, and joint ventures / strategic alliances. Do not collapse them into one market. Each has different board, financing, regulatory, foreign-exchange, antitrust, labor, and integration issues.
 
-For FinWiki, this page is the transaction-context layer behind [[JapanFG/goldman-sachs-japan]], Japanese megabank securities arms, and [[finance/japan-ib-league-table]].
+For FinWiki, this page is the transaction-context layer behind [[securities-firms/goldman-sachs-japan]], Japanese megabank securities arms, and [[finance/japan-ib-league-table]].
 
 ## Direction Map
 
@@ -56,9 +56,9 @@ METI's 2023 inbound M&A case-study project frames foreign capital as one possibl
 
 ## JapanFG Relevance
 
-- [[JapanFG/goldman-sachs-japan]] and other foreign IBs often compete strongly in cross-border advisory.
-- [[JapanFG/nomura-hd]], [[JapanFG/daiwa-sg]], [[JapanFG/smbc-nikko]], [[JapanFG/mizuho-securities]], and [[JapanFG/mufg-mums]] compete through domestic issuer access, financing relationships, and execution support.
-- [[JapanFG/jbic]], [[policy-finance/INDEX|policy-finance INDEX]], and export-credit / policy-finance pages become relevant when the acquisition supports resource security, infrastructure, or national industrial policy.
+- [[securities-firms/goldman-sachs-japan]] and other foreign IBs often compete strongly in cross-border advisory.
+- [[securities-firms/nomura-hd]], [[securities-firms/daiwa-sg]], [[securities-firms/smbc-nikko]], [[securities-firms/mizuho-securities]], and [[securities-firms/mufg-mums]] compete through domestic issuer access, financing relationships, and execution support.
+- [[financial-regulators/jbic]], [[policy-finance/INDEX|policy-finance INDEX]], and export-credit / policy-finance pages become relevant when the acquisition supports resource security, infrastructure, or national industrial policy.
 
 ## Due-Diligence Checklist
 
@@ -75,10 +75,10 @@ METI's 2023 inbound M&A case-study project frames foreign capital as one possibl
 - [[finance/INDEX|finance INDEX]]
 - [[finance/japan-ib-league-table]]
 - [[securities/INDEX]]
-- [[JapanFG/goldman-sachs-japan]]
-- [[JapanFG/nomura-hd]]
-- [[JapanFG/mizuho-securities]]
-- [[JapanFG/mufg-mums]]
+- [[securities-firms/goldman-sachs-japan]]
+- [[securities-firms/nomura-hd]]
+- [[securities-firms/mizuho-securities]]
+- [[securities-firms/mufg-mums]]
 - [[policy-finance/INDEX]]
 - [[INDEX|FinWiki index]]
 

@@ -12,27 +12,27 @@ translated_at: 2026-06-01T03:31:12.279Z
 
 ## Wiki route
 
-This entry sits under [[retail/INDEX|retail index]] as the **finance-stack deep dive** for [[retail/seven-and-i-hd|Seven & i Holdings]], extending the parent retail-group page with the full subsidiary map (7-Bank holdco perimeter, Seven Card Service, Seven CS Card Service, Seven Payment Service, nanaco). Pair it with [[retail/aeon-group|AEON Group]] and the comparable [[retail/lawson-mitsubishi-corporation-tie-up-2024-deep|Lawson + Mitsubishi 2024 tie-up]] for the CVS / GMS finance trichotomy, [[retail/japan-retail-financial-distribution-wedge-matrix|Japan retail financial-distribution wedge matrix]] for the cross-case wedge layout, [[JapanFG/seven-bank|Seven Bank]] for the bank-license layer, [[loyalty/japan-points-landscape|Japan points landscape]] for nanaco point's position, [[payments/japan-code-payment-operator-2025-market-share-matrix|Japan code-payment operator 2025 market share matrix]] for the wallet-acceptance side, and [[JapanFG/INDEX|JapanFG index]] for the regulated-entity context.
+This entry sits under [[retail/INDEX|retail index]] as the **finance-stack deep dive** for [[retail/seven-and-i-hd|Seven & i Holdings]], extending the parent retail-group page with the full subsidiary map (7-Bank holdco perimeter, Seven Card Service, Seven CS Card Service, Seven Payment Service, nanaco). Pair it with [[retail/aeon-group|AEON Group]] and the comparable [[retail/lawson-mitsubishi-corporation-tie-up-2024-deep|Lawson + Mitsubishi 2024 tie-up]] for the CVS / GMS finance trichotomy, [[retail/japan-retail-financial-distribution-wedge-matrix|Japan retail financial-distribution wedge matrix]] for the cross-case wedge layout, [[regional-banks/seven-bank|Seven Bank]] for the bank-license layer, [[loyalty/japan-points-landscape|Japan points landscape]] for nanaco point's position, [[payments/japan-code-payment-operator-2025-market-share-matrix|Japan code-payment operator 2025 market share matrix]] for the wallet-acceptance side, and [[JapanFG/INDEX|JapanFG index]] for the regulated-entity context.
 
 ## TL;DR
 
-Seven & i Holdings' finance arm is materially larger and broader than the "captive credit card + group e-money" template applied to most Japanese GMS / CVS groups. The arm consists of four major subsidiaries: ① **[[JapanFG/seven-bank|Seven Bank, Ltd.]]** (東証 PRIME 8410, ~46% held), an ATM-platform bank with ~27,000 domestic ATMs and ~600 partner financial institutions whose **B2B2C ATM-utilization-fee** model drives the bulk of group financial profit; ② **Seven Card Service** (credit-card issuance + nanaco point program administration); ③ **Seven CS Card Service** (legacy Sogo & Seibu / Ito-Yokado-linked house card business, restructured around the 2024 York reorganization); and ④ **Seven Payment Service** (ATM-receipt B2B payouts, corporate cash collection, gift-card services, EC merchant acquiring through the group). The 2024 announcement of the **York Holdings restructuring** — separating non-CVS businesses (supermarkets, specialty retail) into a "York" intermediate holdco — materially changed which retail flows feed the captive finance stack, and the simultaneous activist pressure (Couche-Tard takeover approach, MBO attempt by founder family) has put the entire group structure into a 2024-2026 transformation period. Compared with [[retail/aeon-group|AEON Financial Service]]'s broad consumer-finance-and-bank approach, Seven & i's finance arm is **ATM-infrastructure-first**, with credit card and nanaco as adjacencies rather than the profit core.
+Seven & i Holdings' finance arm is materially larger and broader than the "captive credit card + group e-money" template applied to most Japanese GMS / CVS groups. The arm consists of four major subsidiaries: ① **[[regional-banks/seven-bank|Seven Bank, Ltd.]]** (東証 PRIME 8410, ~46% held), an ATM-platform bank with ~27,000 domestic ATMs and ~600 partner financial institutions whose **B2B2C ATM-utilization-fee** model drives the bulk of group financial profit; ② **Seven Card Service** (credit-card issuance + nanaco point program administration); ③ **Seven CS Card Service** (legacy Sogo & Seibu / Ito-Yokado-linked house card business, restructured around the 2024 York reorganization); and ④ **Seven Payment Service** (ATM-receipt B2B payouts, corporate cash collection, gift-card services, EC merchant acquiring through the group). The 2024 announcement of the **York Holdings restructuring** — separating non-CVS businesses (supermarkets, specialty retail) into a "York" intermediate holdco — materially changed which retail flows feed the captive finance stack, and the simultaneous activist pressure (Couche-Tard takeover approach, MBO attempt by founder family) has put the entire group structure into a 2024-2026 transformation period. Compared with [[retail/aeon-group|AEON Financial Service]]'s broad consumer-finance-and-bank approach, Seven & i's finance arm is **ATM-infrastructure-first**, with credit card and nanaco as adjacencies rather than the profit core.
 
 ## Subsidiary perimeter — the four financial arms
 
 | Subsidiary | Listing | Role | Group ownership |
 |---|---|---|---|
-| **[[JapanFG/seven-bank|Seven Bank, Ltd.]]** | 東証 PRIME 8410 (listed 2008-02) | ATM-platform bank, partner-bank fee, overseas remittance (Western Union tie-up), ASEAN ATM expansion (Philippines, Indonesia) | ~46% (consolidated subsidiary) |
+| **[[regional-banks/seven-bank|Seven Bank, Ltd.]]** | 東証 PRIME 8410 (listed 2008-02) | ATM-platform bank, partner-bank fee, overseas remittance (Western Union tie-up), ASEAN ATM expansion (Philippines, Indonesia) | ~46% (consolidated subsidiary) |
 | **Seven Card Service** | Unlisted | Credit-card issuance (Seven Card / Seven Card Plus), nanaco point administration | 100% subsidiary |
 | **Seven CS Card Service** | Unlisted | Legacy non-CVS card business (Sogo & Seibu house card, Ito-Yokado-linked card) | 100% subsidiary, perimeter reshuffled by 2024 York carve-out |
 | **Seven Payment Service** | Unlisted | ATM receipt service (B2B2C payouts), corporate cash collection, gift cards, EC acquiring adjacencies | 100% subsidiary |
 | **nanaco (program operator)** | Operated by Seven Card Service | Prepaid e-money + point program; merchant-side issuer is Seven Card Service under prepaid registry | Group-internal |
 
-The deepest contrast with [[retail/aeon-group|AEON Group]] is that **Seven & i does not consolidate a separate listed financial-services holdco** equivalent to AEON Financial Service (東証 PRIME 8570). Instead, [[JapanFG/seven-bank|Seven Bank]] is the listed financial-services entity, and the credit-card / nanaco / payment-service businesses sit as direct holding-company subsidiaries inside the 7&iHD consolidation perimeter.
+The deepest contrast with [[retail/aeon-group|AEON Group]] is that **Seven & i does not consolidate a separate listed financial-services holdco** equivalent to AEON Financial Service (東証 PRIME 8570). Instead, [[regional-banks/seven-bank|Seven Bank]] is the listed financial-services entity, and the credit-card / nanaco / payment-service businesses sit as direct holding-company subsidiaries inside the 7&iHD consolidation perimeter.
 
 ## Seven Bank as the financial-profit anchor
 
-[[JapanFG/seven-bank|Seven Bank]] is structurally unusual for a Japanese bank: its deposit-and-lending franchise is small (it is not a meaningful retail-deposit competitor to megabanks or [[JapanFG/aeon-bank|Aeon Bank]]), and its profit driver is the **per-transaction utilization fee paid by ~600 partner financial institutions** when their cardholders use a Seven Bank ATM. Key operating metrics from public disclosures:
+[[regional-banks/seven-bank|Seven Bank]] is structurally unusual for a Japanese bank: its deposit-and-lending franchise is small (it is not a meaningful retail-deposit competitor to megabanks or [[card-issuers/aeon-bank|Aeon Bank]]), and its profit driver is the **per-transaction utilization fee paid by ~600 partner financial institutions** when their cardholders use a Seven Bank ATM. Key operating metrics from public disclosures:
 
 | Metric | Approximate value | Source / notes |
 |---|---|---|
@@ -42,7 +42,7 @@ The deepest contrast with [[retail/aeon-group|AEON Group]] is that **Seven & i d
 | Overseas ATMs (Philippines, Indonesia) | Multi-thousand-unit deployment | Pilot-stage in 2017–, scaled through 2020s |
 | Western Union remittance corridor | National Japan coverage | Inbound foreign-worker remittance via Seven Bank ATMs |
 
-The **economic implication**: the 7-Eleven store-density advantage is monetized at the bank level as **cost-per-installation amortized across high-frequency partner-bank cardholder traffic**, which is exactly the [[retail/seven-and-i-hd|Seven & i Holdings]] retail-infrastructure-as-finance moat. The contrast vs [[JapanFG/lawson-bank|Lawson Bank]] (smaller ATM footprint, materially fewer partner contracts) and vs [[JapanFG/aeon-bank|Aeon Bank]] (deposit-and-mortgage-led model with mall-anchored ATM placement) is structural.
+The **economic implication**: the 7-Eleven store-density advantage is monetized at the bank level as **cost-per-installation amortized across high-frequency partner-bank cardholder traffic**, which is exactly the [[retail/seven-and-i-hd|Seven & i Holdings]] retail-infrastructure-as-finance moat. The contrast vs [[regional-banks/lawson-bank|Lawson Bank]] (smaller ATM footprint, materially fewer partner contracts) and vs [[card-issuers/aeon-bank|Aeon Bank]] (deposit-and-mortgage-led model with mall-anchored ATM placement) is structural.
 
 ## nanaco — group-internal prepaid + point program
 
@@ -81,7 +81,7 @@ The 割賦販売法 包括信用購入あっせん business registration and ind
 | **ギフトカード / 法人プリペイド** | B2B prepaid card issuance, corporate gift cards, employee benefit cards |
 | **EC merchant acquiring adjacencies** | Acceptance of e-money / code-payment at 7-Eleven POS for inbound EC pickup, code-payment integration |
 
-The **ATM-receipt model** is strategically important because it converts the Seven Bank ATM footprint into a **payout rail for the unbanked or temporarily-unbanked**, which has a structural advantage over digital-only payout (gig workers without bank accounts, foreign workers awaiting account opening, disaster-relief disbursements). The cross-link to [[JapanFG/seven-bank|Seven Bank]] is direct — the ATMs are the same physical assets, and Seven Payment Service is the commercial wrapper for non-banking-license-required services.
+The **ATM-receipt model** is strategically important because it converts the Seven Bank ATM footprint into a **payout rail for the unbanked or temporarily-unbanked**, which has a structural advantage over digital-only payout (gig workers without bank accounts, foreign workers awaiting account opening, disaster-relief disbursements). The cross-link to [[regional-banks/seven-bank|Seven Bank]] is direct — the ATMs are the same physical assets, and Seven Payment Service is the commercial wrapper for non-banking-license-required services.
 
 ## 2024 York Holdings reorganization — impact on financial flows
 
@@ -101,13 +101,13 @@ The economic implication for the finance arm:
 - **Seven Bank's ATM footprint is unchanged** because ATMs are placed primarily at 7-Eleven and at partner sites, not at Ito-Yokado supermarket aisles;
 - **Seven Card Service's nanaco-point liability is unchanged** because the program operator is the financial subsidiary, not the retail banners.
 
-This is a structurally different reorganization-impact pattern than what would happen at [[retail/aeon-group|AEON Group]] if AEON divested mall operations — where [[JapanFG/aeon-bank|Aeon Bank]] and AEON Financial Service economics depend more heavily on mall-anchored deposit / mortgage distribution.
+This is a structurally different reorganization-impact pattern than what would happen at [[retail/aeon-group|AEON Group]] if AEON divested mall operations — where [[card-issuers/aeon-bank|Aeon Bank]] and AEON Financial Service economics depend more heavily on mall-anchored deposit / mortgage distribution.
 
 ## Comparison vs AEON Financial Service
 
 | Dimension | Seven & i finance arm | AEON Financial Service (8570) |
 |---|---|---|
-| Listed flagship | [[JapanFG/seven-bank|Seven Bank]] (PRIME 8410, ATM-platform bank) | AEON Financial Service (PRIME 8570, consumer-finance + Asia consumer-finance) |
+| Listed flagship | [[regional-banks/seven-bank|Seven Bank]] (PRIME 8410, ATM-platform bank) | AEON Financial Service (PRIME 8570, consumer-finance + Asia consumer-finance) |
 | Bank entity role | ATM-fee-driven B2B2C model | Deposit-and-lending plus housing-loan model |
 | Captive credit card | Seven Card Service (Seven Card / Seven Card Plus) | AEON Card (AEON Credit Service line) |
 | Stored-value e-money | nanaco (closed loop) | WAON (closed loop, larger merchant network) |
@@ -127,9 +127,9 @@ The structural takeaway: **Seven & i's finance arm is an "ATM infrastructure as 
 - [[retail/lawson-mitsubishi-corporation-tie-up-2024-deep|Lawson + Mitsubishi 2024 deep tie-up]]
 - [[retail/lawson-kddi-retail-finance|Lawson + KDDI retail finance]]
 - [[retail/japan-retail-financial-distribution-wedge-matrix|Japan retail financial-distribution wedge matrix]]
-- [[JapanFG/seven-bank|Seven Bank]]
-- [[JapanFG/lawson-bank|Lawson Bank]]
-- [[JapanFG/aeon-bank|Aeon Bank / AFS]]
+- [[regional-banks/seven-bank|Seven Bank]]
+- [[regional-banks/lawson-bank|Lawson Bank]]
+- [[card-issuers/aeon-bank|Aeon Bank / AFS]]
 - [[loyalty/japan-points-landscape|Japan points landscape]]
 - [[loyalty/point-liability-accounting-boundary|point liability accounting boundary]]
 - [[loyalty/d-point-detailed-ecosystem|d Point detailed ecosystem]]

@@ -154,7 +154,7 @@ translated_at: 2026-06-03T00:53:08.298Z
 
 ### チャネル 1 — 直接公募 (市場公募地方債)
 
-広範な投資家市場に直接プライマリー発行を行います。構造的には、東京都、主要な都道府県、最大政令指定都市が利用可能です。引受会社は、シンジケート組織を運営する証券会社（野村証券、大和証券、SMBC日興証券、みずほ証券、三菱UFJモルガン・スタンレー）です。投資家は国内銀行、生命保険会社、年金基金、地方銀行、[[JapanFG/norinchukin|農林中央金庫]] / [[JapanFG/shinkin-central|信金中金]]系、外国機関投資家（ベンチマーク発行体に限る）。 JGB へのスプレッドが価格設定の主要な参考値です。 10y JGBベンチマークに対して設定されたクーポン。
+広範な投資家市場に直接プライマリー発行を行います。構造的には、東京都、主要な都道府県、最大政令指定都市が利用可能です。引受会社は、シンジケート組織を運営する証券会社（野村証券、大和証券、SMBC日興証券、みずほ証券、三菱UFJモルガン・スタンレー）です。投資家は国内銀行、生命保険会社、年金基金、地方銀行、[[cooperative-banks/norinchukin|農林中央金庫]] / [[cooperative-banks/shinkin-central|信金中金]]系、外国機関投資家（ベンチマーク発行体に限る）。 JGB へのスプレッドが価格設定の主要な参考値です。 10y JGBベンチマークに対して設定されたクーポン。
 
 ### チャネル 2 — 地方自治体共同債 (共同発行市場公募地方債)
 
@@ -189,7 +189,7 @@ translated_at: 2026-06-03T00:53:08.298Z
 - **国内銀行（[[banking/INDEX|banking sector]]）** メガバンク、[[banking/regional-bank-consolidation-pattern|regional banks]]、第二地方銀行、信用金庫、信用組合。地方銀行は、国債からのポートフォリオ多様化の一環として、多額の地方債エクスポージャーを保有している。 [[banking/INDEX|banking-domain]] 保有者ベースは、単一投資家集団としては最大です。
 - **生命保険および年金基金。** 長期にわたる高格付けの円建て公的信用への需要。長期の公募地方債や[[policy-finance/japan-finance-organization-municipalities|JFM]]債を保有する大規模な機関投資家。
 - **公的年金と GPIF / 公的資金。** 国債に大規模な配分を行い、JFM 債とベンチマーク地方債に選択的に配分します。
-- **協同組合銀行の頂点機関** [[JapanFG/norinchukin|農林中央金庫]]、[[JapanFG/shinkin-central|信金中金]]、労働金連、全信組連は、地方債やJFM債を含む多額の公的信用円エクスポージャーを保有している。
+- **協同組合銀行の頂点機関** [[cooperative-banks/norinchukin|農林中央金庫]]、[[cooperative-banks/shinkin-central|信金中金]]、労働金連、全信組連は、地方債やJFM債を含む多額の公的信用円エクスポージャーを保有している。
 - **外国機関投資家** 東京都債、JFM債（外貨建て発行を含む）に集中し、最大の都道府県および政令指定都市の発行体（大阪、愛知、神奈川、横浜、名古屋）を厳選。小規模発行社債と共同発行社債の大部分は基本的に国内で保有されている。
 - **個人投資家** 東京都および一部のその他の発行体は、住民を対象とした個人向け債券シリーズを発行しています。地方債発行総額に占める個人の割合はそれほど高くありませんが、発行体の名前を認識する上で構造的に意味があります。
 
@@ -237,8 +237,8 @@ translated_at: 2026-06-03T00:53:08.298Z
 - [[money-market/japan-money-market|Japan money market]]
 - [[finance/INDEX|finance index]]
 - [[finance/japan-listed-financial-groups-investable-universe|Japanese listed financial groups]]
-- [[JapanFG/local-bond-market|JapanFG local-bond market]]
-- [[JapanFG/local-govt-finance|JapanFG local-government finance corporate-history]]
+- [[financial-regulators/local-bond-market|JapanFG local-bond market]]
+- [[financial-regulators/local-govt-finance|JapanFG local-government finance corporate-history]]
 - [[INDEX|FinWiki index]]
 
 ## 出典

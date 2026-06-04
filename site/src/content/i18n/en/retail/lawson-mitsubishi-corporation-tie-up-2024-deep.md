@@ -11,7 +11,7 @@ translated_at: 2026-06-01T03:31:12.256Z
 
 ## Wiki route
 
-This entry sits under [[retail/INDEX|retail index]] as the **strategic-restructuring deep dive** for the 2024-02 Lawson take-private. It extends [[retail/lawson-kddi-retail-finance|Lawson + KDDI retail finance]] (the structural overview page) with the deal mechanics, the post-private capital structure, and the longer-arc strategic logic of moving a listed CVS retailer into a 50/50 telco-trading-house JV. Pair it with [[retail/seven-i-holdings-finance-deep-dive|Seven & i Holdings finance deep dive]] for the contrast against an activist-pressured listed CVS retailer that did NOT take private, [[retail/familymart-itochu-financial-integration|FamilyMart + Itochu financial integration]] for the 2020 precedent of trading-house-led CVS take-private, [[retail/japan-retail-financial-distribution-wedge-matrix|Japan retail financial-distribution wedge matrix]] for the cross-case wedge layout, [[loyalty/ponta-points-deep-dive|Ponta points deep dive]] for the loyalty layer, [[loyalty/d-point-au-kddi-docomo-telco-point-consolidation|d Point / au telco-point consolidation case]] for the telco-anchored common-point dynamics, [[loyalty/au-pay-loyalty-ecosystem-deep|au PAY loyalty ecosystem deep]] for the KDDI-side loyalty stack, [[JapanFG/au-fh|au Financial Holdings]] as the KDDI-side finance HC, [[JapanFG/mitsubishi-corp|Mitsubishi Corporation]] as the trading-house side, and [[payments/japan-code-payment-operator-2025-market-share-matrix|Japan code-payment operator 2025 market share matrix]] for the wallet-layer overlay.
+This entry sits under [[retail/INDEX|retail index]] as the **strategic-restructuring deep dive** for the 2024-02 Lawson take-private. It extends [[retail/lawson-kddi-retail-finance|Lawson + KDDI retail finance]] (the structural overview page) with the deal mechanics, the post-private capital structure, and the longer-arc strategic logic of moving a listed CVS retailer into a 50/50 telco-trading-house JV. Pair it with [[retail/seven-i-holdings-finance-deep-dive|Seven & i Holdings finance deep dive]] for the contrast against an activist-pressured listed CVS retailer that did NOT take private, [[retail/familymart-itochu-financial-integration|FamilyMart + Itochu financial integration]] for the 2020 precedent of trading-house-led CVS take-private, [[retail/japan-retail-financial-distribution-wedge-matrix|Japan retail financial-distribution wedge matrix]] for the cross-case wedge layout, [[loyalty/ponta-points-deep-dive|Ponta points deep dive]] for the loyalty layer, [[loyalty/d-point-au-kddi-docomo-telco-point-consolidation|d Point / au telco-point consolidation case]] for the telco-anchored common-point dynamics, [[loyalty/au-pay-loyalty-ecosystem-deep|au PAY loyalty ecosystem deep]] for the KDDI-side loyalty stack, [[megabanks/au-fh|au Financial Holdings]] as the KDDI-side finance HC, [[financial-conglomerates/mitsubishi-corp|Mitsubishi Corporation]] as the trading-house side, and [[payments/japan-code-payment-operator-2025-market-share-matrix|Japan code-payment operator 2025 market share matrix]] for the wallet-layer overlay.
 
 ## TL;DR
 
@@ -40,7 +40,7 @@ The structural decision to use a **50/50 JV** rather than a controlling-acquirer
 |---|---|
 | **~14,500 Lawson Store POS** | Acceptance surface for au PAY (vs PayPay, d Barai, Rakuten Pay); see [[loyalty/au-pay-loyalty-ecosystem-deep|au PAY loyalty ecosystem deep]] |
 | **Daily CVS Visitor Traffic** | High-frequency consumer touchpoint for au PAY Card and au Jibun Bank acquisition |
-| **Ponta points accrual surface at Lawson** | Reinforces KDDI's [[JapanFG/au-fh|au Financial Holdings]] loyalty-anchored finance flywheel |
+| **Ponta points accrual surface at Lawson** | Reinforces KDDI's [[megabanks/au-fh|au Financial Holdings]] loyalty-anchored finance flywheel |
 | **In-store financial-product distribution** | Loppi Terminal, Store Posters, Branded Plastic Counter Cards for Au PAY Card / au Jibun Bank / Au Smart Pass |
 | **Cross-sell into your telco subscriber base** | "Use Lawson + PAY + Ponta + Card" bundled-discount campaigns |
 | **Defensive Offset vs PayPay × FamilyMart, Dr. × McDonald's** | Locking in CVS chain as a closed acceptance zone reduces competitive risk |
@@ -76,7 +76,7 @@ The 2024 Lawson take-private deepens Ponta in three concrete ways:
 
 ## au telco-payment integration
 
-**au PAY**, **au PAY Card**, **au Jibun Bank**, and the broader [[JapanFG/au-fh|au Financial Holdings]] stack gain Lawson-channel distribution at three layers:
+**au PAY**, **au PAY Card**, **au Jibun Bank**, and the broader [[megabanks/au-fh|au Financial Holdings]] stack gain Lawson-channel distribution at three layers:
 
 | Layer | Pre-2024 | Post-2024 |
 |---|---|---|
@@ -95,7 +95,7 @@ The competitive overlap with **[[loyalty/d-point-au-kddi-docomo-telco-point-cons
 | Controlling shareholder | KDDI 50% + Mitsubishi Corp 50% (JV) | Diverse public + founder family (~10% Ito family) + foreign investors | Itochu Corporation ~50%, with co-investors |
 | Anchor trading house | Mitsubishi Corp | None (independent) | Itochu Corporation |
 | Anchor telco | KDDI (au) | None (no telco anchor) | None directly; FamiPay → wallet, no telco JV |
-| Bank subsidiary | [[JapanFG/lawson-bank|Lawson Bank]] (small, ATM-focused) | [[JapanFG/seven-bank|Seven Bank]] (large, ATM-platform model) | None proprietary; uses partner banks |
+| Bank subsidiary | [[regional-banks/lawson-bank|Lawson Bank]] (small, ATM-focused) | [[regional-banks/seven-bank|Seven Bank]] (large, ATM-platform model) | None proprietary; uses partner banks |
 | Captive credit card | au PAY Card (KDDI-side, distributed through Lawson channel) | Seven Card / Seven Card Plus (Seven Card Service) | FamiPay / FamiPay virtualCard, FamiPay Card |
 | Captive prepaid e-money | None proprietary; uses transit IC + Ponta points | nanaco | FamiPay |
 | Captive common point | Ponta points (Loyalty Marketing / Mitsubishi-affiliated) | nanaco point (closed loop) | FamiPay Bonus + d Points / Rakuten points / T Points co-acceptance pre-2024 |
@@ -114,13 +114,13 @@ The three CVS chains have **converged on trading-house-anchored or trading-house
 - [[retail/familymart-itochu-financial-integration|FamilyMart + Itochu financial integration]]
 - [[retail/aeon-group|AEON Group]]
 - [[retail/japan-retail-financial-distribution-wedge-matrix|Japan retail financial-distribution wedge matrix]]
-- [[JapanFG/au-fh|au Financial Holdings]]
-- [[JapanFG/au-payment|au Payment]]
-- [[JapanFG/lawson-bank|Lawson Bank]]
-- [[JapanFG/mitsubishi-corp|Mitsubishi Corporation]]
-- [[JapanFG/mitsubishi-corp-finance|Mitsubishi Corp Finance]]
-- [[JapanFG/itochu-corp|Itochu Corporation]]
-- [[JapanFG/itochu-finance|Itochu Finance]]
+- [[megabanks/au-fh|au Financial Holdings]]
+- [[payment-firms/au-payment|au Payment]]
+- [[regional-banks/lawson-bank|Lawson Bank]]
+- [[financial-conglomerates/mitsubishi-corp|Mitsubishi Corporation]]
+- [[trading-company-finance/mitsubishi-corp-finance|Mitsubishi Corp Finance]]
+- [[financial-conglomerates/itochu-corp|Itochu Corporation]]
+- [[trading-company-finance/itochu-finance|Itochu Finance]]
 - [[loyalty/ponta-points-deep-dive|Ponta points deep dive]]
 - [[loyalty/d-point-au-kddi-docomo-telco-point-consolidation|d Point / au telco-point consolidation case]]
 - [[loyalty/d-point-detailed-ecosystem|d Point detailed ecosystem]]

@@ -104,7 +104,7 @@ The TFS model is the reference template for **manufacturer-owned point-of-sale f
 | [[manufacturer-finance/honda-finance|Honda Finance]] | Honda Motor | Direct auto-captive peer; co-anchors [[structured-finance/auto-loan-abs-japan-toyota-honda|Toyota / Honda auto-loan ABS]] |
 | [[manufacturer-finance/panasonic-captive-finance|Panasonic captive finance]] | Panasonic | Equipment / vendor finance rather than auto retail |
 | [[manufacturer-finance/sony-group-finance-arm|Sony group finance arm]] | Sony | Contrast: Sony's finance arm became a separate listed FG — see [[business/sony-fg-partial-spinoff-case|Sony case]] |
-| Toyota Finance (Japan domestic card) | Toyota | [[JapanFG/toyota-finance|Toyota Finance]] runs the Japan card / TS CUBIC business alongside TFS's global auto finance |
+| Toyota Finance (Japan domestic card) | Toyota | [[card-issuers/toyota-finance|Toyota Finance]] runs the Japan card / TS CUBIC business alongside TFS's global auto finance |
 
 The pattern that defines a captive: a manufacturer-owned lender whose loan book exists to move the parent's product and which funds itself in capital markets rather than via deposits.
 
@@ -121,7 +121,7 @@ The pattern that defines a captive: a manufacturer-owned lender whose loan book 
 - How will the shift to EVs and subscription / mobility-as-a-service models change the captive-finance objective function (financing a sale vs financing usage)?
 - Will rising rates and ABS-market conditions compress the captive's funding advantage versus third-party auto lenders?
 - Could Toyota ever restructure or partially separate parts of its finance operations the way [[business/sony-fg-partial-spinoff-case|Sony separated its FG]], or is captive integration too strategically central?
-- How do domestic Japan card / payment operations under [[JapanFG/toyota-finance|Toyota Finance]] interact with the global TFS auto-finance balance sheet?
+- How do domestic Japan card / payment operations under [[card-issuers/toyota-finance|Toyota Finance]] interact with the global TFS auto-finance balance sheet?
 - How does captive-finance demand-enablement compare, as a strategy, with telco/super-app finance bundling for compounding a consumer relationship?
 
 ## Related
@@ -137,7 +137,7 @@ The pattern that defines a captive: a manufacturer-owned lender whose loan book 
 - [[business/sony-fg-partial-spinoff-case|Sony FG partial spinoff case]]
 - [[business/kddi-au-financial-bundling-case|KDDI au financial bundling case]]
 - [[business/softbank-paypay-financial-integration-case|SoftBank / PayPay financial integration case]]
-- [[JapanFG/toyota-finance|Toyota Finance (Japan card / TS CUBIC)]]
+- [[card-issuers/toyota-finance|Toyota Finance (Japan card / TS CUBIC)]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

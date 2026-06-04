@@ -48,7 +48,6 @@
     "wikilinks_count": 13,
     "wikilinks": [
       "INDEX",
-      "JapanFG/jpyc",
       "fintech/INDEX",
       "fintech/issuer-distributor-incentive-realignment-arc-strategy",
       "fintech/japan-financial-regulation",
@@ -59,11 +58,11 @@
       "fintech/stablecoin-crossborder-b2b-growth",
       "fintech/tether-business-model-short-treasury-yield",
       "fintech/usd-stablecoin-interchange",
-      "fintech/world-liberty-usd1-political-stablecoin"
+      "fintech/world-liberty-usd1-political-stablecoin",
+      "payment-firms/jpyc"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/jpyc",
       "https://finwiki.zksc.io/fintech/INDEX",
       "https://finwiki.zksc.io/fintech/issuer-distributor-incentive-realignment-arc-strategy",
       "https://finwiki.zksc.io/fintech/japan-financial-regulation",
@@ -74,15 +73,16 @@
       "https://finwiki.zksc.io/fintech/stablecoin-crossborder-b2b-growth",
       "https://finwiki.zksc.io/fintech/tether-business-model-short-treasury-yield",
       "https://finwiki.zksc.io/fintech/usd-stablecoin-interchange",
-      "https://finwiki.zksc.io/fintech/world-liberty-usd1-political-stablecoin"
+      "https://finwiki.zksc.io/fintech/world-liberty-usd1-political-stablecoin",
+      "https://finwiki.zksc.io/payment-firms/jpyc"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2375,
-    "word_like_tokens": 361,
+    "nonspace_chars": 2381,
+    "word_like_tokens": 362,
     "inbound_wikilinks_count": 19,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-06-04"
   }
 }

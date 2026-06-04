@@ -123,8 +123,8 @@ translated_at: 2026-06-03T00:53:08.300Z
 - [[insurance/INDEX|insurance index]]
 - [[retail/aeon-group|AEON Group]]
 - [[retail/seven-and-i-hd|Seven & i HD]]
-- [[JapanFG/mitsubishi-ufj-trust-bank|Mitsubishi UFJ Trust Bank]]
-- [[JapanFG/sumitomo-mitsui-trust|SMTB]]
+- [[trust-banks/mitsubishi-ufj-trust-bank|Mitsubishi UFJ Trust Bank]]
+- [[trust-banks/sumitomo-mitsui-trust|SMTB]]
 - [[INDEX|FinWiki index]]
 
 ## 出典

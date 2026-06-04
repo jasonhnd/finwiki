@@ -1,0 +1,88 @@
+{
+  "schema_version": "1.0",
+  "slug": "leasing-firms/showa-leasing",
+  "source_path": "leasing-firms/showa-leasing.md",
+  "url": "https://finwiki.zksc.io/leasing-firms/showa-leasing",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/leasing-firms/showa-leasing.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/leasing-firms/showa-leasing.md",
+  "domain": "leasing-firms",
+  "title": "昭和リース",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "昭和リース",
+    "aliases": [
+      "Showa Leasing",
+      "Showa Leasing Co., Ltd.",
+      "昭和リース株式会社",
+      "showa-leasing"
+    ],
+    "domain": "leasing-firms",
+    "created": "2026-05-24",
+    "last_updated": "2026-05-24",
+    "last_tended": "2026-05-24",
+    "review_by": "2026-11-20",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "leasing",
+      "finance",
+      "sbi-shinsei-group",
+      "captive-lease",
+      "non-bank-finance"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.showa-leasing.co.jp/",
+      "https://www.showa-leasing.co.jp/company/",
+      "https://www.sbishinseibank.co.jp/",
+      "https://www.leasing.or.jp/"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 芙蓉総合リース for peer / contrast context and banking index for the broader system / regulatory boundary. As an SBI新生銀行 グループ傘下の captive leasing entity, it should be read alongside 新生フィナンシャル for the broader Shinsei non-bank finance footprint.",
+  "headings": [
+    "昭和リース",
+    "Wiki route",
+    "TL;DR",
+    "1. License / group boundary",
+    "2. Business lines",
+    "3. Strategy & competitive position",
+    "4. Why this page matters",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 10,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "banking/INDEX",
+      "consumer-finance/shinsei-financial",
+      "finance/japan-acquisition-finance",
+      "leasing-firms/fuyo-lease",
+      "leasing-firms/mitsubishi-hc-capital",
+      "leasing-firms/mizuho-lease",
+      "leasing-firms/tokyo-century",
+      "regional-banks/sbi-shinsei-bank",
+      "trust-banks/sbi-shinsei-trust-bank"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/consumer-finance/shinsei-financial",
+      "https://finwiki.zksc.io/finance/japan-acquisition-finance",
+      "https://finwiki.zksc.io/leasing-firms/fuyo-lease",
+      "https://finwiki.zksc.io/leasing-firms/mitsubishi-hc-capital",
+      "https://finwiki.zksc.io/leasing-firms/mizuho-lease",
+      "https://finwiki.zksc.io/leasing-firms/tokyo-century",
+      "https://finwiki.zksc.io/regional-banks/sbi-shinsei-bank",
+      "https://finwiki.zksc.io/trust-banks/sbi-shinsei-trust-bank"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3242,
+    "word_like_tokens": 509,
+    "inbound_wikilinks_count": 1,
+    "last_modified": "2026-06-04"
+  }
+}

@@ -13,7 +13,7 @@ translated_at: 2026-06-01T03:31:12.257Z
 
 日本IPO记录结合了交易所上市审查、证券登记披露、承销/簿记、上市审批、TDnet及时披露、EDINET法定披露以及上市后公司治理记录。此页面记录发行人进入东京证券交易所上市市场的公共途径。
 
-此页面属于 [[securities/INDEX|securities domain]]，并链接到 [[finance/INDEX|finance domain]]、[[securities/tokyo-stock-exchange|Tokyo Stock Exchange]]、[[JapanFG/japan-exchange-group|Japan Exchange Group]]、[[securities/japan-underwriting-market-structure|Japan underwriting market structure]]、[[securities/japan-market-infrastructure-map|Japan market infrastructure map]]、[[JapanFG/legal-financial-licenses/securities-license-stack|Japan securities license stack]]、[[finance/japan-ib-league-table|Japan IB league table]] 和[[finance/japan-fair-disclosure-and-insider-trading-controls|fair disclosure and insider trading controls]]。
+此页面属于 [[securities/INDEX|securities domain]]，并链接到 [[finance/INDEX|finance domain]]、[[securities/tokyo-stock-exchange|Tokyo Stock Exchange]]、[[financial-regulators/japan-exchange-group|Japan Exchange Group]]、[[securities/japan-underwriting-market-structure|Japan underwriting market structure]]、[[securities/japan-market-infrastructure-map|Japan market infrastructure map]]、[[financial-licenses/securities-license-stack|Japan securities license stack]]、[[finance/japan-ib-league-table|Japan IB league table]] 和[[finance/japan-fair-disclosure-and-insider-trading-controls|fair disclosure and insider trading controls]]。
 
 ## 路线图
 
@@ -94,19 +94,19 @@ JPX 表示，TDnet 发布的披露与 TDnet 披露的同时可供公众检查，
 
 [[securities/japan-underwriting-market-structure|Japan underwriting market structure]] 记录 IPO/PO/债券承销职能、牵头经办人角色、簿记建档、JSDA 规则、EDINET 和排名表解释。 [[finance/japan-ib-league-table|Japan IB league table]] 记录供应商特定的排名字段和日期范围。
 
-## JapanFG 链接- 证券承销商：[[JapanFG/nomura-hd]]、[[JapanFG/daiwa-sg]]、[[JapanFG/smbc-nikko]]、[[JapanFG/mizuho-securities]]、[[JapanFG/mufg-mums]]。
+## JapanFG 链接- 证券承销商：[[securities-firms/nomura-hd]]、[[securities-firms/daiwa-sg]]、[[securities-firms/smbc-nikko]]、[[securities-firms/mizuho-securities]]、[[securities-firms/mufg-mums]]。
 - Online brokerage distribution: [[securities/japan-online-brokerage-competition]].
-- 交易所/基础设施：[[JapanFG/japan-exchange-group]]、[[securities/tokyo-stock-exchange]]、[[securities/japan-securities-clearing-corp]]、[[securities/japan-securities-depository-center]]。
+- 交易所/基础设施：[[financial-regulators/japan-exchange-group]]、[[securities/tokyo-stock-exchange]]、[[securities/japan-securities-clearing-corp]]、[[securities/japan-securities-depository-center]]。
 
 ## 相关
 
 - [[securities/INDEX]]
 - [[finance/INDEX]]
 - [[securities/tokyo-stock-exchange]]
-- [[JapanFG/japan-exchange-group]]
+- [[financial-regulators/japan-exchange-group]]
 - [[securities/japan-underwriting-market-structure]]
 - [[securities/japan-market-infrastructure-map]]
-- [[JapanFG/legal-financial-licenses/securities-license-stack]]
+- [[financial-licenses/securities-license-stack]]
 - [[finance/japan-ib-league-table]]
 - [[finance/japan-fair-disclosure-and-insider-trading-controls]]
 - [[finance/japan-tender-offer-process]]

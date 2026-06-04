@@ -50,7 +50,6 @@
   "body_links": {
     "wikilinks_count": 129,
     "wikilinks": [
-      "JapanFG/jpyc",
       "exchanges/amm-design-evolution",
       "exchanges/btc-spot-etf-japan-impact",
       "exchanges/bybit-lazarus-hack-detailed-analysis",
@@ -129,10 +128,10 @@
       "exchanges/jp-exchange-monex",
       "exchanges/jp-exchange-money-partners",
       "exchanges/jp-exchange-okcoin-japan",
-      "exchanges/jp-exchange-osl-japan"
+      "exchanges/jp-exchange-osl-japan",
+      "exchanges/jp-exchange-rakuten-wallet"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/jpyc",
       "https://finwiki.zksc.io/exchanges/amm-design-evolution",
       "https://finwiki.zksc.io/exchanges/btc-spot-etf-japan-impact",
       "https://finwiki.zksc.io/exchanges/bybit-lazarus-hack-detailed-analysis",
@@ -211,15 +210,16 @@
       "https://finwiki.zksc.io/exchanges/jp-exchange-monex",
       "https://finwiki.zksc.io/exchanges/jp-exchange-money-partners",
       "https://finwiki.zksc.io/exchanges/jp-exchange-okcoin-japan",
-      "https://finwiki.zksc.io/exchanges/jp-exchange-osl-japan"
+      "https://finwiki.zksc.io/exchanges/jp-exchange-osl-japan",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-rakuten-wallet"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 14101,
-    "word_like_tokens": 1974,
+    "nonspace_chars": 14107,
+    "word_like_tokens": 1975,
     "inbound_wikilinks_count": 157,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-06-04"
   }
 }

@@ -230,7 +230,7 @@ Downgrades 并非自动发生——评级机构 analysts 在 surveillance review
 - 气候风险和人口下降情景是否会被系统性纳入 SDR calculation
 - FSA 是否会推动评级机构加强方法论披露或引入独立第三方 review
 - 新资产类别(BNPL、EV-battery-related ABS、tokenized RWA)的方法论开发是否能跟上传统资产类别的节奏
-- [[JapanFG/sumitomo-mitsui-trust|trust banks]] 作为 trustees 是否会随着其 fiduciary risk 增长而要求方法论变化(例如更细颗粒度的 surveillance frequency)
+- [[trust-banks/sumitomo-mitsui-trust|trust banks]] 作为 trustees 是否会随着其 fiduciary risk 增长而要求方法论变化(例如更细颗粒度的 surveillance frequency)
 - 若 BOJ 利率正常化压测资产池并揭示 modelling differences，JCR / R&I 相对全球评级机构的竞争地位如何
 
 ## Related
@@ -247,8 +247,8 @@ Downgrades 并非自动发生——评级机构 analysts 在 surveillance review
 - [[structured-finance/spv-tk-gk-vehicle-japan-tax|TK / GK / TMK SPV vehicle]]
 - [[structured-finance/japan-securitization-product-matrix|Japan securitization product matrix]]
 - [[structured-finance/japan-abs-market-overview|Japan ABS market overview]]
-- [[JapanFG/mufg|MUFG]] · [[JapanFG/smfg|SMFG]] · [[JapanFG/mizuho-fg|Mizuho FG]]
-- [[JapanFG/sumitomo-mitsui-trust|SMTB]] · [[JapanFG/nochu-trust-bank|Nochu Trust]]
+- [[megabanks/mufg|MUFG]] · [[megabanks/smfg|SMFG]] · [[megabanks/mizuho-fg|Mizuho FG]]
+- [[trust-banks/sumitomo-mitsui-trust|SMTB]] · [[trust-banks/nochu-trust-bank|Nochu Trust]]
 
 ## Sources
 

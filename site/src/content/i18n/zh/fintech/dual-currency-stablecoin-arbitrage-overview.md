@@ -26,7 +26,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 ## Mechanism / How it works
 
-**套利路径**：USDC（Circle USD 1:1）↔ EURC（Circle EUR 1:1）↔ [[JapanFG/jpyc|JPYC]]（JPYC Inc. JPY 1:1）↔ USDC 平仓。
+**套利路径**：USDC（Circle USD 1:1）↔ EURC（Circle EUR 1:1）↔ [[payment-firms/jpyc|JPYC]]（JPYC Inc. JPY 1:1）↔ USDC 平仓。
 
 | 步骤 | 操作 | 成本 |
 |---|---|---|

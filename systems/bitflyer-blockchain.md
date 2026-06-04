@@ -27,7 +27,7 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 
 ## TL;DR
 
-bitFlyer Blockchain is the enterprise blockchain arm around bitFlyer's proprietary private-chain technology, Miyabi. In FinWiki it should be treated as a **systems / enterprise DLT** node, not as a CEX entity. The page is connected from [[JapanFG/bitflyer|bitFlyer]] because Miyabi is part of the group's B2B blockchain story.
+bitFlyer Blockchain is the enterprise blockchain arm around bitFlyer's proprietary private-chain technology, Miyabi. In FinWiki it should be treated as a **systems / enterprise DLT** node, not as a CEX entity. The page is connected from [[payment-firms/bitflyer|bitFlyer]] because Miyabi is part of the group's B2B blockchain story.
 
 ## System profile
 
@@ -40,11 +40,11 @@ bitFlyer Blockchain is the enterprise blockchain arm around bitFlyer's proprieta
 
 Miyabi sits on the opposite side of the design spectrum from public permissionless chains. It optimizes for finality, controllability, and enterprise integration rather than open validator economics. This makes it closer to [[systems/canton-overview|Canton]], [[systems/hyperledger-besu-overview|Besu]], and institutional DLT than to CEX market structure.
 
-For [[JapanFG/bitflyer|bitFlyer]], the strategic value is optionality: exchange business on one side, and enterprise chain / consulting infrastructure on the other. The open question is whether Miyabi has enough active adoption to be a durable product line rather than a technical showcase.
+For [[payment-firms/bitflyer|bitFlyer]], the strategic value is optionality: exchange business on one side, and enterprise chain / consulting infrastructure on the other. The open question is whether Miyabi has enough active adoption to be a durable product line rather than a technical showcase.
 
 ## Related
 
-- [[JapanFG/bitflyer]]
+- [[payment-firms/bitflyer]]
 - [[exchanges/jp-exchange-bitflyer]]
 - [[systems/canton-overview]]
 - [[systems/hyperledger-besu-overview]]

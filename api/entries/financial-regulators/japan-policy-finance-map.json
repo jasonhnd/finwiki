@@ -1,0 +1,111 @@
+{
+  "schema_version": "1.0",
+  "slug": "financial-regulators/japan-policy-finance-map",
+  "source_path": "financial-regulators/japan-policy-finance-map.md",
+  "url": "https://finwiki.zksc.io/financial-regulators/japan-policy-finance-map",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/financial-regulators/japan-policy-finance-map.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/financial-regulators/japan-policy-finance-map.md",
+  "domain": "financial-regulators",
+  "title": "Japan policy-finance map",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Japan policy-finance map",
+    "aliases": [
+      "financial-regulators/japan-policy-finance-map",
+      "japan-policy-finance-map",
+      "日本政策金融 map"
+    ],
+    "domain": "financial-regulators",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-19",
+    "last_tended": "2026-05-19",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "policy-finance",
+      "legal",
+      "special-corporation",
+      "public-finance",
+      "export-credit",
+      "development-finance"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.jfc.go.jp/n/english/about/profile.html",
+      "https://www.jbic.go.jp/en/about/organization.html",
+      "https://www.dbj.jp/en/co/info/law.html",
+      "https://www.jica.go.jp/english/about/basic/oda/index.html",
+      "https://www.nexi.go.jp/en/corporate/profile.html",
+      "https://www.jogmec.go.jp/english/about/overview.html",
+      "https://www.okinawakouko.go.jp/english/1678100259/",
+      "https://www8.cao.go.jp/okinawa/3/36.html",
+      "policy-finance/INDEX.md"
+    ]
+  },
+  "summary": "Japan's policy-finance system is a stack of special-purpose public finance institutions, not one government bank. For JapanFG analysis, the useful routing is:",
+  "headings": [
+    "Japan policy-finance map",
+    "TL;DR",
+    "Institution Map",
+    "Legal / Mandate Layer",
+    "Use-Case Routing",
+    "JapanFG Relevance",
+    "Boundary Cases",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 19,
+    "wikilinks": [
+      "financial-licenses/INDEX",
+      "financial-regulators/dbj",
+      "financial-regulators/jbic",
+      "financial-regulators/jfc",
+      "financial-regulators/local-bond-market",
+      "financial-regulators/local-govt-finance",
+      "financial-regulators/okinawa-shinko",
+      "megabanks/mizuho-fg",
+      "megabanks/mufg",
+      "megabanks/smfg",
+      "policy-finance/INDEX",
+      "policy-finance/japan-policy-finance-system",
+      "policy-finance/jica",
+      "policy-finance/jogmec",
+      "policy-finance/nexi",
+      "policy-finance/okinawa-development-finance-corp",
+      "regional-banks/okinawa-fg",
+      "regional-banks/okinawa-kaiho-bank",
+      "regional-banks/ryukyu-bank"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/financial-licenses/INDEX",
+      "https://finwiki.zksc.io/financial-regulators/dbj",
+      "https://finwiki.zksc.io/financial-regulators/jbic",
+      "https://finwiki.zksc.io/financial-regulators/jfc",
+      "https://finwiki.zksc.io/financial-regulators/local-bond-market",
+      "https://finwiki.zksc.io/financial-regulators/local-govt-finance",
+      "https://finwiki.zksc.io/financial-regulators/okinawa-shinko",
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/smfg",
+      "https://finwiki.zksc.io/policy-finance/INDEX",
+      "https://finwiki.zksc.io/policy-finance/japan-policy-finance-system",
+      "https://finwiki.zksc.io/policy-finance/jica",
+      "https://finwiki.zksc.io/policy-finance/jogmec",
+      "https://finwiki.zksc.io/policy-finance/nexi",
+      "https://finwiki.zksc.io/policy-finance/okinawa-development-finance-corp",
+      "https://finwiki.zksc.io/regional-banks/okinawa-fg",
+      "https://finwiki.zksc.io/regional-banks/okinawa-kaiho-bank",
+      "https://finwiki.zksc.io/regional-banks/ryukyu-bank"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 10032,
+    "word_like_tokens": 1486,
+    "inbound_wikilinks_count": 5,
+    "last_modified": "2026-06-04"
+  }
+}

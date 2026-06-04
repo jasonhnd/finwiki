@@ -54,7 +54,7 @@ Between granting a point and paying for its redemption, the operator carries the
 - For a large wallet or common point, the standing balance is a customer-funded, zero-interest pool — comparable to insurance float or prepaid-stored-value float, but arising from loyalty rather than premiums or top-ups.
 - Float is **distinct from breakage**: float is the carry on points that *will* come back; breakage is points that *never* come back. A program can have large float and low breakage, or vice versa, and the two are read separately.
 
-The float framing is exactly why a point operator is attractive *inside* a financial group: it contributes a customer-funded balance and a high-frequency touchpoint simultaneously. The same logic drives the integration thesis in [[loyalty/rakuten-point-ecosystem-deep|Rakuten Point]] / [[JapanFG/rakuten-fg|Rakuten FG]], [[loyalty/d-point-detailed-ecosystem|d Point]] / [[JapanFG/ndfg|NDFG]], and [[loyalty/sb-yahoo-paypay-points-unified-ecosystem|PayPay]] / [[JapanFG/paypay-fg|PayPay FG]].
+The float framing is exactly why a point operator is attractive *inside* a financial group: it contributes a customer-funded balance and a high-frequency touchpoint simultaneously. The same logic drives the integration thesis in [[loyalty/rakuten-point-ecosystem-deep|Rakuten Point]] / [[payment-firms/rakuten-fg|Rakuten FG]], [[loyalty/d-point-detailed-ecosystem|d Point]] / [[megabanks/ndfg|NDFG]], and [[loyalty/sb-yahoo-paypay-points-unified-ecosystem|PayPay]] / [[megabanks/paypay-fg|PayPay FG]].
 
 ## Breakage: the margin release on the same balance
 
@@ -77,7 +77,7 @@ A loyalty point balance and a **prepaid stored-value balance** (electronic money
 | Cash-equivalence | Usually limited-use, lower cash-likeness | Closer to cash; redeemability / transferability matter |
 | Breakage logic | Expiry-driven, estimate-heavy | Constrained by prepaid rules / unused-balance treatment |
 
-The line between them is precisely the [[payments/funds-transfer-vs-prepaid-boundary|funds-transfer vs prepaid boundary]] — and a point that becomes cash-charged or freely transferable can **cross** into the prepaid regime, changing both its regulation and its float treatment. The operator matrix is in [[payments/japan-prepaid-electronic-money-operator-matrix|Japan prepaid electronic-money operator matrix]]; the licence catalogue is [[JapanFG/legal-financial-licenses/INDEX|JapanFG legal / financial licenses]].
+The line between them is precisely the [[payments/funds-transfer-vs-prepaid-boundary|funds-transfer vs prepaid boundary]] — and a point that becomes cash-charged or freely transferable can **cross** into the prepaid regime, changing both its regulation and its float treatment. The operator matrix is in [[payments/japan-prepaid-electronic-money-operator-matrix|Japan prepaid electronic-money operator matrix]]; the licence catalogue is [[financial-licenses/INDEX|JapanFG legal / financial licenses]].
 
 ## The risk side of the float
 
@@ -94,7 +94,7 @@ The disclosure norms that constrain the most abusable of these (breakage as a re
 
 ## Why this matters for JapanFG / financial analysis
 
-- **Read the point balance as customer-funded float, not just a cost accrual.** A large, slow-moving, interest-free point liability is a financing benefit — part of why owning a major point is rational for [[JapanFG/rakuten-fg|Rakuten FG]], [[JapanFG/ndfg|NDFG]], and [[JapanFG/paypay-fg|PayPay FG]] beyond marketing.
+- **Read the point balance as customer-funded float, not just a cost accrual.** A large, slow-moving, interest-free point liability is a financing benefit — part of why owning a major point is rational for [[payment-firms/rakuten-fg|Rakuten FG]], [[megabanks/ndfg|NDFG]], and [[megabanks/paypay-fg|PayPay FG]] beyond marketing.
 - **Breakage is the quality-of-earnings signal on that balance.** Check whether revenue leans on optimistic breakage, whether "ポイント引当金" has migrated to "契約負債," and how redemption assumptions are disclosed — per [[loyalty/point-liability-accounting-boundary|accounting boundary]].
 - **Watch for the prepaid crossover.** A point that turns cash-like leaves the loyalty float regime for the Payment Services Act prepaid regime, changing both regulation and the financing read — the boundary in [[payments/funds-transfer-vs-prepaid-boundary|funds-transfer vs prepaid boundary]].
 
@@ -112,10 +112,10 @@ The disclosure norms that constrain the most abusable of these (breakage as a re
 - [[payments/funds-transfer-vs-prepaid-boundary|funds-transfer vs prepaid boundary]]
 - [[payments/japan-prepaid-electronic-money-operator-matrix|Japan prepaid electronic-money operator matrix]]
 - [[payments/INDEX|payments INDEX]]
-- [[JapanFG/rakuten-fg|Rakuten FG]]
-- [[JapanFG/ndfg|NDFG]]
-- [[JapanFG/paypay-fg|PayPay FG]]
-- [[JapanFG/legal-financial-licenses/INDEX|JapanFG legal / financial licenses]]
+- [[payment-firms/rakuten-fg|Rakuten FG]]
+- [[megabanks/ndfg|NDFG]]
+- [[megabanks/paypay-fg|PayPay FG]]
+- [[financial-licenses/INDEX|JapanFG legal / financial licenses]]
 - [[fintech/INDEX|fintech INDEX]]
 - [[INDEX|FinWiki index]]
 

@@ -113,7 +113,7 @@ SBG-Arm 模板在关键方面不同于 [[business/sony-fg-partial-spinoff-case|S
 
 - SBG 会在锁定后逐步减持 Arm,还是无限期持有 > 80% 作为「核心」资产?
 - Arm 来自 AI 计算的版税增长会证明当前报价估值合理,还是会发生倍数压缩?
-- Arm 模板如何告知 [[JapanFG/sbi-hd|SBI HD]]、[[business/gmo-internet-group|GMO Internet Group]] 或其他带未充分标记子公司的控股公司结构的日本上市战略?
+- Arm 模板如何告知 [[megabanks/sbi-hd|SBI HD]]、[[business/gmo-internet-group|GMO Internet Group]] 或其他带未充分标记子公司的控股公司结构的日本上市战略?
 - Arm IPO 的成功会解锁其他 Vision Fund / SBG 仓位(如特定 AI 投资组合名称)的类似部分 IPO 吗?
 - 平衡 NAV 标记 vs 供给悬顶对 Arm 股价影响的最优减持节奏是什么?
 

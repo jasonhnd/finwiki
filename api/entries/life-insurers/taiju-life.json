@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0",
+  "slug": "life-insurers/taiju-life",
+  "source_path": "life-insurers/taiju-life.md",
+  "url": "https://finwiki.zksc.io/life-insurers/taiju-life",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/life-insurers/taiju-life.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/life-insurers/taiju-life.md",
+  "domain": "life-insurers",
+  "title": "大樹生命保険",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "大樹生命保険",
+    "aliases": [
+      "大樹生命",
+      "Taiju Life",
+      "Taiju Life Insurance",
+      "大樹生命保険株式会社",
+      "三井生命"
+    ],
+    "domain": "life-insurers",
+    "created": "2026-05-21",
+    "last_updated": "2026-05-21",
+    "last_tended": "2026-05-21",
+    "review_by": "2026-11-21",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "insurance",
+      "life-insurance",
+      "nippon-life",
+      "operating-company"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/menkyo/hoken.pdf",
+      "https://www.seiho.or.jp/member/list/",
+      "https://www.taiju-life.co.jp/"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against はなさく生命保険 for peer / contrast context and insurance index for the broader system / regulatory boundary.",
+  "headings": [
+    "大樹生命保険",
+    "Wiki route",
+    "TL;DR",
+    "1. License / group boundary",
+    "2. Operating model",
+    "3. Why this page matters",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 9,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "asahi-life",
+      "fukoku-life",
+      "insurance/INDEX",
+      "insurance/mutual-vs-stock-life-insurer",
+      "life-insurers/hanasaku-life",
+      "meiji-yasuda",
+      "nippon-life",
+      "sumitomo-life"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/asahi-life",
+      "https://finwiki.zksc.io/fukoku-life",
+      "https://finwiki.zksc.io/insurance/INDEX",
+      "https://finwiki.zksc.io/insurance/mutual-vs-stock-life-insurer",
+      "https://finwiki.zksc.io/life-insurers/hanasaku-life",
+      "https://finwiki.zksc.io/meiji-yasuda",
+      "https://finwiki.zksc.io/nippon-life",
+      "https://finwiki.zksc.io/sumitomo-life"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 1958,
+    "word_like_tokens": 300,
+    "inbound_wikilinks_count": 2,
+    "last_modified": "2026-06-04"
+  }
+}

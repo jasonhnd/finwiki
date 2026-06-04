@@ -13,33 +13,33 @@ translated_at: 2026-06-03T00:53:08.269Z
 
 日本のオンライン証券競争は、もはや単純な「手数料の安さ」競争ではなく、獲得ファネルの競争になっている。NISA 口座、ポイントプログラム、銀行連携、クレジットカード積立、アプリ配布、SOR / PTS 執行、商品幅、資産維持の導線が競争軸である。
 
-このページは、[[securities/nisa-2024-flow|NISA 2024 flow]]、[[JapanFG/legal-financial-licenses/securities-license-stack|Japan securities license stack]]、[[securities/financial-instruments-business-operators-japan-index|FIEA operator registry index]]、[[loyalty/japan-points-landscape|Japan points landscape]]と併せて読む。会社別の結論は、引き続き該当する[[JapanFG/INDEX|JapanFG]]ページに置く。
+このページは、[[securities/nisa-2024-flow|NISA 2024 flow]]、[[financial-licenses/securities-license-stack|Japan securities license stack]]、[[securities/financial-instruments-business-operators-japan-index|FIEA operator registry index]]、[[loyalty/japan-points-landscape|Japan points landscape]]と併せて読む。会社別の結論は、引き続き該当する[[JapanFG/INDEX|JapanFG]]ページに置く。
 
 ## 競争軸
 
 | 軸 | 公開情報上の重要性 | リンク先ページ |
 |---|---|---|
-| NISA 獲得 | 新 NISA は、最初の証券口座を長期の家計資産フロー関係に変える。 | [[securities/nisa-2024-flow]], [[JapanFG/sbi-securities]], [[JapanFG/rakuten-securities]] |
-| 国内株式の手数料モデル | 日本株取引の無料化・低料率化は、収益構成を信用取引、FX、投信、ラップ、データ、貸株、エコシステム収益へ移す。 | [[JapanFG/sbi-securities]], [[JapanFG/rakuten-securities]], [[JapanFG/matsui-sec]] |
-| エコシステムポイント | ポイントは獲得費用を補助し、投資を時々の取引ではなく日常利用の循環にできる。 | [[loyalty/japan-points-landscape]], [[JapanFG/rakuten-securities]], [[JapanFG/paypay-securities]] |
-| 銀行・カード連携 | 給与、預金、クレジットカード、銀行振込のレールは、定期投資の摩擦を下げる。 | [[JapanFG/sbi-hd]], [[JapanFG/rakuten-fg]], [[JapanFG/mufg-esmart-securities]], [[payments/japan-code-payment-competitive-map]] |
-| 商品幅 | 株式、投資信託、米国株、債券、FX、CFD、デリバティブ、ロボ、年金商品がウォレットシェアを動かす。 | [[JapanFG/monex-group]], [[JapanFG/gmo-click-securities]], [[JapanFG/dmm-com-securities]] |
-| アプリネイティブな少額開始 UX | 端株・少額投資は、証券を決済アプリやウォレットに近い行動へ寄せる。 | [[JapanFG/paypay-securities]], [[payments/psp-merchant-settlement-risk]] |
+| NISA 獲得 | 新 NISA は、最初の証券口座を長期の家計資産フロー関係に変える。 | [[securities/nisa-2024-flow]], [[securities-firms/sbi-securities]], [[securities-firms/rakuten-securities]] |
+| 国内株式の手数料モデル | 日本株取引の無料化・低料率化は、収益構成を信用取引、FX、投信、ラップ、データ、貸株、エコシステム収益へ移す。 | [[securities-firms/sbi-securities]], [[securities-firms/rakuten-securities]], [[securities-firms/matsui-sec]] |
+| エコシステムポイント | ポイントは獲得費用を補助し、投資を時々の取引ではなく日常利用の循環にできる。 | [[loyalty/japan-points-landscape]], [[securities-firms/rakuten-securities]], [[securities-firms/paypay-securities]] |
+| 銀行・カード連携 | 給与、預金、クレジットカード、銀行振込のレールは、定期投資の摩擦を下げる。 | [[megabanks/sbi-hd]], [[payment-firms/rakuten-fg]], [[securities-firms/mufg-esmart-securities]], [[payments/japan-code-payment-competitive-map]] |
+| 商品幅 | 株式、投資信託、米国株、債券、FX、CFD、デリバティブ、ロボ、年金商品がウォレットシェアを動かす。 | [[securities-firms/monex-group]], [[securities-firms/gmo-click-securities]], [[securities-firms/dmm-com-securities]] |
+| アプリネイティブな少額開始 UX | 端株・少額投資は、証券を決済アプリやウォレットに近い行動へ寄せる。 | [[securities-firms/paypay-securities]], [[payments/psp-merchant-settlement-risk]] |
 | 執行経路 | SOR / PTS / 取引所ルーティングにより、最良執行と手数料訴求は見かけの手数料より複雑になる。 | [[securities/japan-market-infrastructure-map]], [[securities/japannext-securities]], [[securities/osaka-digital-exchange]] |
-| 信頼とコンプライアンス | 証券が従来型ではない投資家層に広がるほど、広告、適合性、顧客資産分別、自主規制が重要になる。 | [[JapanFG/jsda]], [[JapanFG/legal-financial-licenses/securities-license-stack]] |
+| 信頼とコンプライアンス | 証券が従来型ではない投資家層に広がるほど、広告、適合性、顧客資産分別、自主規制が重要になる。 | [[financial-regulators/jsda]], [[financial-licenses/securities-license-stack]] |
 
 ## ブローカーマップ
 
 | ブローカー / グループ | 中核的な読み方 | 競争上の角度 |
 |---|---|---|
-| [[JapanFG/sbi-securities|SBI Securities]] | [[JapanFG/sbi-hd|SBI HD]]のオンライン証券部門。 | 無料化の推進、NISA 規模、銀行 / グループ連携、幅広い商品群。 |
-| [[JapanFG/rakuten-securities|Rakuten Securities]] | Rakuten の金融・ポイントエコシステム内の証券会社。 | 楽天ポイント、カード / 銀行連携、NISA 獲得、SOR 関連の手数料モデル。 |
-| [[JapanFG/monex-group|Monex Group]] | 上場オンライン証券で、暗号資産隣接の金融グループ。 | 米国株、暗号資産との隣接性、ウェルス / グローバル商品の導線。 |
-| [[JapanFG/matsui-sec|Matsui Securities]] | 長年の個人向け証券アイデンティティを持つ独立系オンラインブローカー。 | コスト感応度の高い国内株顧客とサービス差別化。 |
-| [[JapanFG/mufg-esmart-securities|MUFG eSmart Securities]] | MUFG / KDDI 連携のオンラインブローカー。旧 au カブコム。 | 銀行 / 通信 / ポイント連携と、メガバンクグループの個人向け防衛。 |
-| [[JapanFG/paypay-securities|PayPay Securities]] | PayPay / SoftBank エコシステムと結びつくアプリ組込み型証券。 | 少額開始投資、決済アプリ配布、PayPay 残高 / 銀行リンク UX。 |
-| [[JapanFG/gmo-click-securities|GMO Click Securities]] | GMO Financial Holdings の証券 / FX / CFD 事業者。 | 純粋な NISA 獲得より、デリバティブと高頻度取引の収益化。 |
-| [[JapanFG/dmm-com-securities|DMM.com Securities]] | DMM ブランドの証券 / FX 事業者。 | FX / CFD とアプリ型取引面。商品カテゴリは免許・開示で確認する。 |
+| [[securities-firms/sbi-securities|SBI Securities]] | [[megabanks/sbi-hd|SBI HD]]のオンライン証券部門。 | 無料化の推進、NISA 規模、銀行 / グループ連携、幅広い商品群。 |
+| [[securities-firms/rakuten-securities|Rakuten Securities]] | Rakuten の金融・ポイントエコシステム内の証券会社。 | 楽天ポイント、カード / 銀行連携、NISA 獲得、SOR 関連の手数料モデル。 |
+| [[securities-firms/monex-group|Monex Group]] | 上場オンライン証券で、暗号資産隣接の金融グループ。 | 米国株、暗号資産との隣接性、ウェルス / グローバル商品の導線。 |
+| [[securities-firms/matsui-sec|Matsui Securities]] | 長年の個人向け証券アイデンティティを持つ独立系オンラインブローカー。 | コスト感応度の高い国内株顧客とサービス差別化。 |
+| [[securities-firms/mufg-esmart-securities|MUFG eSmart Securities]] | MUFG / KDDI 連携のオンラインブローカー。旧 au カブコム。 | 銀行 / 通信 / ポイント連携と、メガバンクグループの個人向け防衛。 |
+| [[securities-firms/paypay-securities|PayPay Securities]] | PayPay / SoftBank エコシステムと結びつくアプリ組込み型証券。 | 少額開始投資、決済アプリ配布、PayPay 残高 / 銀行リンク UX。 |
+| [[securities-firms/gmo-click-securities|GMO Click Securities]] | GMO Financial Holdings の証券 / FX / CFD 事業者。 | 純粋な NISA 獲得より、デリバティブと高頻度取引の収益化。 |
+| [[securities-firms/dmm-com-securities|DMM.com Securities]] | DMM ブランドの証券 / FX 事業者。 | FX / CFD とアプリ型取引面。商品カテゴリは免許・開示で確認する。 |
 
 ## 市場構造の読み方
 
@@ -49,7 +49,7 @@ translated_at: 2026-06-03T00:53:08.269Z
 2. **活動競争**: アクティブトレーダーを信用取引、FX、CFD、オプション、データ、貸株、執行サービスで収益化する。
 3. **エコシステム競争**: 銀行、カード、ポイント、ウォレット、EC、通信の利用頻度を投資資産へ転換する。
 
-最も重要な分析上の誤りは、すべてのオンライン証券を同じ事業として扱うことである。[[JapanFG/sbi-securities|SBI Securities]]と[[JapanFG/rakuten-securities|Rakuten Securities]]は家計資産フローのプラットフォームであり、[[JapanFG/gmo-click-securities|GMO Click Securities]]と[[JapanFG/dmm-com-securities|DMM.com Securities]]はアクティブ取引 / FX 隣接性が強く、[[JapanFG/paypay-securities|PayPay Securities]]はアプリ組込み型の投資販売に近い。
+最も重要な分析上の誤りは、すべてのオンライン証券を同じ事業として扱うことである。[[securities-firms/sbi-securities|SBI Securities]]と[[securities-firms/rakuten-securities|Rakuten Securities]]は家計資産フローのプラットフォームであり、[[securities-firms/gmo-click-securities|GMO Click Securities]]と[[securities-firms/dmm-com-securities|DMM.com Securities]]はアクティブ取引 / FX 隣接性が強く、[[securities-firms/paypay-securities|PayPay Securities]]はアプリ組込み型の投資販売に近い。
 
 ## NISA とポイント循環
 
@@ -87,17 +87,17 @@ translated_at: 2026-06-03T00:53:08.269Z
 
 - [[securities/INDEX]]
 - [[securities/nisa-2024-flow]]
-- [[JapanFG/legal-financial-licenses/securities-license-stack]]
+- [[financial-licenses/securities-license-stack]]
 - [[securities/financial-instruments-business-operators-japan-index]]
 - [[securities/japan-market-infrastructure-map]]
-- [[JapanFG/sbi-securities]]
-- [[JapanFG/rakuten-securities]]
-- [[JapanFG/monex-group]]
-- [[JapanFG/mufg-esmart-securities]]
-- [[JapanFG/paypay-securities]]
-- [[JapanFG/matsui-sec]]
-- [[JapanFG/gmo-click-securities]]
-- [[JapanFG/dmm-com-securities]]
+- [[securities-firms/sbi-securities]]
+- [[securities-firms/rakuten-securities]]
+- [[securities-firms/monex-group]]
+- [[securities-firms/mufg-esmart-securities]]
+- [[securities-firms/paypay-securities]]
+- [[securities-firms/matsui-sec]]
+- [[securities-firms/gmo-click-securities]]
+- [[securities-firms/dmm-com-securities]]
 - [[loyalty/japan-points-landscape]]
 - [[INDEX|FinWiki index]]
 

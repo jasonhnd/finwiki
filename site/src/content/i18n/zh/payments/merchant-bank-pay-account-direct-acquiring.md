@@ -14,7 +14,7 @@ translated_at: 2026-06-01T03:31:12.293Z
 
 商户银行账户直收是商户端读取[[payments/account-to-account-payment-japan|Japan account-to-account payment route]]。 Bank Pay和J-Debit在结账时看起来与普通的二维码/借记卡受理类似，但控制界面与卡收单、预付钱包和资金转账钱包不同：支付从银行账户开始，商户入驻涉及Bank Pay / J-Debit参与者规则，操作风险集中在账户认证、退款处理、注册筛选、系统连接和结算等方面。
 
-将此页面与 [[payments/INDEX|payments domain]]、[[payments/card-acquiring-japan-stack|Japan card acquiring stack]]、[[payments/psp-merchant-settlement-risk|PSP merchant settlement risk]]、[[payments/funds-transfer-vs-prepaid-boundary|funds transfer vs prepaid boundary]] 和 [[JapanFG/legal-financial-licenses/INDEX|JapanFG legal / financial licenses]] 一起使用。
+将此页面与 [[payments/INDEX|payments domain]]、[[payments/card-acquiring-japan-stack|Japan card acquiring stack]]、[[payments/psp-merchant-settlement-risk|PSP merchant settlement risk]]、[[payments/funds-transfer-vs-prepaid-boundary|funds transfer vs prepaid boundary]] 和 [[financial-licenses/INDEX|JapanFG legal / financial licenses]] 一起使用。
 
 ## 商户路线图
 
@@ -62,10 +62,10 @@ JEPPO 的 Bank Pay 商户注册规则定义了 Bank Pay 商户注册，并区分
 
 ## JapanFG 相关性
 
-- [[JapanFG/mufg-bank|MUFG Bank]]、[[JapanFG/sumitomo-mitsui-banking-corp|SMBC]]、[[JapanFG/mizuho-bank|Mizuho Bank]] 和 [[JapanFG/resona-bank|Resona Bank]] 很重要，因为账户直接支付取决于银行参与和清算/结算连接。
-- [[JapanFG/recruit-mufg-business|Recruit MUFG Business]] / COIN+通过商家网络和账户直接获取镜头进行路由，而不仅仅是作为另一个QR钱包。
-- [[JapanFG/gmo-payment-gateway|GMO Payment Gateway]]、[[JapanFG/gmo-epsilon|GMO Epsilon]]、[[JapanFG/sb-payment-service|SB Payment Service]]、[[JapanFG/dg-financial-technology|DGFT]] 和 [[JapanFG/netstars|Netstars]] 是账户直接受理与卡、钱包或代码支付受理捆绑时进行比较的 PSP/网关页面。
-- [[JapanFG/paypay|PayPay]]、[[JapanFG/merpay|Merpay]]、[[JapanFG/au-payment|au PAY]] 和 [[payments/japan-code-payment-competitive-map|code-payment competition]] 保持独立，因为钱包经济学和帐户直接经济学在 QR 形式中看起来相似，但在法律和操作上有所不同。
+- [[megabanks/mufg-bank|MUFG Bank]]、[[megabanks/sumitomo-mitsui-banking-corp|SMBC]]、[[megabanks/mizuho-bank|Mizuho Bank]] 和 [[megabanks/resona-bank|Resona Bank]] 很重要，因为账户直接支付取决于银行参与和清算/结算连接。
+- [[payment-firms/recruit-mufg-business|Recruit MUFG Business]] / COIN+通过商家网络和账户直接获取镜头进行路由，而不仅仅是作为另一个QR钱包。
+- [[payment-firms/gmo-payment-gateway|GMO Payment Gateway]]、[[payment-firms/gmo-epsilon|GMO Epsilon]]、[[payment-firms/sb-payment-service|SB Payment Service]]、[[payment-firms/dg-financial-technology|DGFT]] 和 [[payment-firms/netstars|Netstars]] 是账户直接受理与卡、钱包或代码支付受理捆绑时进行比较的 PSP/网关页面。
+- [[payment-firms/paypay|PayPay]]、[[payment-firms/merpay|Merpay]]、[[payment-firms/au-payment|au PAY]] 和 [[payments/japan-code-payment-competitive-map|code-payment competition]] 保持独立，因为钱包经济学和帐户直接经济学在 QR 形式中看起来相似，但在法律和操作上有所不同。
 
 ## 研究清单
 
@@ -84,12 +84,12 @@ JEPPO 的 Bank Pay 商户注册规则定义了 Bank Pay 商户注册，并区分
 - [[payments/psp-merchant-settlement-risk]]
 - [[payments/funds-transfer-vs-prepaid-boundary]]
 - [[payments/japan-code-payment-competitive-map]]
-- [[JapanFG/recruit-mufg-business]]
-- [[JapanFG/gmo-payment-gateway]]
-- [[JapanFG/netstars]]
-- [[JapanFG/mufg-bank]]
-- [[JapanFG/sumitomo-mitsui-banking-corp]]
-- [[JapanFG/legal-financial-licenses/INDEX]]
+- [[payment-firms/recruit-mufg-business]]
+- [[payment-firms/gmo-payment-gateway]]
+- [[payment-firms/netstars]]
+- [[megabanks/mufg-bank]]
+- [[megabanks/sumitomo-mitsui-banking-corp]]
+- [[financial-licenses/INDEX]]
 - [[INDEX|FinWiki index]]
 
 ## 来源

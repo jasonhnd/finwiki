@@ -13,7 +13,7 @@ translated_at: 2026-06-03T00:53:08.354Z
 
 日本の貸株は、カストディアン、機関投資家、証券会社、証券金融会社、信用取引、空売り、担保、清算、決済、コーポレートアクションをつなぐ市場インフラ上の経路である。弱気シグナルとして分析する前に、まず配管として分析する。
 
-このページは[[securities/INDEX|securities domain]]、[[securities/japan-short-selling-and-stock-loan-controls|short-selling and stock-loan controls]]、[[securities/japan-margin-trading-and-securities-finance|margin trading and securities finance]]、[[securities/japan-prime-brokerage-and-institutional-financing|prime brokerage and institutional financing]]、[[JapanFG/japan-securities-finance|Japan Securities Finance]]、[[banking/japan-trust-bank-custody-map|trust-bank custody map]]、[[securities/japan-market-infrastructure-map|market infrastructure map]]、[[money-market/jgb-repo-market-japan|JGB repo market]]と合わせて使う。
+このページは[[securities/INDEX|securities domain]]、[[securities/japan-short-selling-and-stock-loan-controls|short-selling and stock-loan controls]]、[[securities/japan-margin-trading-and-securities-finance|margin trading and securities finance]]、[[securities/japan-prime-brokerage-and-institutional-financing|prime brokerage and institutional financing]]、[[financial-regulators/japan-securities-finance|Japan Securities Finance]]、[[banking/japan-trust-bank-custody-map|trust-bank custody map]]、[[securities/japan-market-infrastructure-map|market infrastructure map]]、[[money-market/jgb-repo-market-japan|JGB repo market]]と合わせて使う。
 
 ## 経路地図
 
@@ -22,7 +22,7 @@ translated_at: 2026-06-03T00:53:08.354Z
 | 資産保有者 | 経済的に証券を保有する主体。年金、投資信託、保険会社、機関投資家口座を通じることが多い。 |
 | カストディアン / 信託銀行 | 証券を保管し、コーポレートアクションを処理し、指図に基づいて貸株プログラムを支援することがある。 |
 | 証券会社 | 顧客の信用取引、マーケットメイク、ヘッジ、決済手当、プライムブローカレッジ類似の需要のために証券を借りる。 |
-| [[JapanFG/japan-securities-finance|Japan Securities Finance]] | 制度信用取引およびより広い証券金融活動のため、証券会社に資金と証券を供給する。 |
+| [[financial-regulators/japan-securities-finance|Japan Securities Finance]] | 制度信用取引およびより広い証券金融活動のため、証券会社に資金と証券を供給する。 |
 | 清算 / 振替機関 | [[securities/japan-securities-clearing-corp|JSCC]]および[[securities/japan-securities-depository-center|JASDEC]]が約定後決済の配管を支える。 |
 | 担保提供者 | 貸借契約と市場慣行に応じて、現金または証券担保を提供する。 |
 
@@ -53,10 +53,10 @@ translated_at: 2026-06-03T00:53:08.354Z
 
 ## JapanFG での関連性
 
-- [[JapanFG/custody-bank|Custody Bank of Japan]]および[[JapanFG/master-trust-bank|Master Trust Bank of Japan]]は国内の資産管理と名義人インフラとして重要である。
-- [[JapanFG/bny-mellon-japan|BNY Mellon Japan]]および[[JapanFG/state-street-japan|State Street Japan]]はグローバルカストディと海外投資家経路に重要である。
-- [[JapanFG/japan-securities-finance|Japan Securities Finance]]は専用の証券金融ノードである。
-- [[JapanFG/nomura-hd|Nomura]]、[[JapanFG/daiwa-sg|Daiwa Securities Group]]、[[JapanFG/smbc-nikko|SMBC Nikko]]、[[JapanFG/mizuho-securities|Mizuho Securities]]、[[JapanFG/mufg-mums|MUMSS]]は証券会社 / ディーラー側のアンカーである。
+- [[trust-banks/custody-bank|Custody Bank of Japan]]および[[trust-banks/master-trust-bank|Master Trust Bank of Japan]]は国内の資産管理と名義人インフラとして重要である。
+- [[foreign-financial-institutions/bny-mellon-japan|BNY Mellon Japan]]および[[foreign-financial-institutions/state-street-japan|State Street Japan]]はグローバルカストディと海外投資家経路に重要である。
+- [[financial-regulators/japan-securities-finance|Japan Securities Finance]]は専用の証券金融ノードである。
+- [[securities-firms/nomura-hd|Nomura]]、[[securities-firms/daiwa-sg|Daiwa Securities Group]]、[[securities-firms/smbc-nikko|SMBC Nikko]]、[[securities-firms/mizuho-securities|Mizuho Securities]]、[[securities-firms/mufg-mums|MUMSS]]は証券会社 / ディーラー側のアンカーである。
 
 ## リサーチチェックリスト
 
@@ -73,7 +73,7 @@ translated_at: 2026-06-03T00:53:08.354Z
 - [[securities/japan-margin-trading-and-securities-finance]]
 - [[securities/japan-prime-brokerage-and-institutional-financing]]
 - [[securities/japan-market-infrastructure-map]]
-- [[JapanFG/japan-securities-finance]]
+- [[financial-regulators/japan-securities-finance]]
 - [[banking/japan-trust-bank-custody-map]]
 - [[banking/japan-master-trust-and-custody-bank-landscape]]
 - [[securities/japan-securities-clearing-corp]]

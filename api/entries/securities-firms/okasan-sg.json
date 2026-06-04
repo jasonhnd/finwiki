@@ -1,0 +1,82 @@
+{
+  "schema_version": "1.0",
+  "slug": "securities-firms/okasan-sg",
+  "source_path": "securities-firms/okasan-sg.md",
+  "url": "https://finwiki.zksc.io/securities-firms/okasan-sg",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/securities-firms/okasan-sg.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/securities-firms/okasan-sg.md",
+  "domain": "securities-firms",
+  "title": "岡三証券グループ (Okasan Securities Group)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "岡三証券グループ (Okasan Securities Group)",
+    "aliases": [
+      "Okasan Securities Group",
+      "Okasan SG",
+      "岡三証券グループ",
+      "岡三 SG",
+      "8609"
+    ],
+    "domain": "securities-firms",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "securities",
+      "independent"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: 岡三証券グループ (2026-05-19 抽出)",
+      "Wikipedia: 岡三証券 (2026-05-19 抽出)",
+      "岡三証券グループ 公式 IR (2025-06 公表 有価証券報告書ベース)"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 東海東京フィナンシャル・ホールディングス (Tokai Tokyo FH) for peer / contrast context and securities index for the broader system / regulatory boundary.",
+  "headings": [
+    "岡三証券グループ (Okasan Securities Group)",
+    "Wiki route",
+    "TL;DR",
+    "1. 会社概要",
+    "主要子会社（公開情報ベース）",
+    "合併歴史・前身",
+    "重要年表（抜粋）^[extracted]",
+    "2. 事業セグメント・マップ",
+    "中堅独立ポジショニング",
+    "対面 × ネット ハイブリッド戦略"
+  ],
+  "body_links": {
+    "wikilinks_count": 8,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "mizuho-fg",
+      "monex-group",
+      "mufg",
+      "ndfg",
+      "securities-firms/tokai-tokyo-fh",
+      "securities/INDEX",
+      "smfg"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/mizuho-fg",
+      "https://finwiki.zksc.io/monex-group",
+      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/ndfg",
+      "https://finwiki.zksc.io/securities-firms/tokai-tokyo-fh",
+      "https://finwiki.zksc.io/securities/INDEX",
+      "https://finwiki.zksc.io/smfg"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2960,
+    "word_like_tokens": 473,
+    "inbound_wikilinks_count": 13,
+    "last_modified": "2026-06-04"
+  }
+}

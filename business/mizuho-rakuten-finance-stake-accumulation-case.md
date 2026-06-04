@@ -26,17 +26,17 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[business/INDEX|business INDEX]] as a public-company strategic case, read from the **megabank side** of the Rakuten story. The companion entry [[business/rakuten-group-mobile-finance-bundling-case|Rakuten Group mobile-finance bundling case]] covers the same transactions from Rakuten's recapitalization angle; read both together. Contrast with [[business/kitao-yoshitaka-sbi-independent-strategy-case|Kitao Yoshitaka / SBI independent strategy case]] for the rival online-broker group that explicitly refuses megabank capital, and with [[business/sony-fg-partial-spinoff-case|Sony FG partial spinoff case]] for an industrial parent that *separates* rather than *part-sells* its finance arm. For entity profiles see [[JapanFG/mizuho-fg|Mizuho Financial Group]], [[JapanFG/mizuho-securities|Mizuho Securities]], [[JapanFG/rakuten-securities|Rakuten Securities]], [[JapanFG/rakuten-card|Rakuten Card]], and [[banking/rakuten-bank|Rakuten Bank]]. Pair with [[securities/japan-online-brokerage-competition|Japan online brokerage competition]] for the market structure, [[finance/japan-cross-shareholding-unwinding-economics|Japan cross-shareholding unwinding economics]] for the strategic-stake mechanics, and the [[JapanFG/megabanks-and-fg-index|JapanFG megabanks index]].
+This entry sits under [[business/INDEX|business INDEX]] as a public-company strategic case, read from the **megabank side** of the Rakuten story. The companion entry [[business/rakuten-group-mobile-finance-bundling-case|Rakuten Group mobile-finance bundling case]] covers the same transactions from Rakuten's recapitalization angle; read both together. Contrast with [[business/kitao-yoshitaka-sbi-independent-strategy-case|Kitao Yoshitaka / SBI independent strategy case]] for the rival online-broker group that explicitly refuses megabank capital, and with [[business/sony-fg-partial-spinoff-case|Sony FG partial spinoff case]] for an industrial parent that *separates* rather than *part-sells* its finance arm. For entity profiles see [[megabanks/mizuho-fg|Mizuho Financial Group]], [[securities-firms/mizuho-securities|Mizuho Securities]], [[securities-firms/rakuten-securities|Rakuten Securities]], [[card-issuers/rakuten-card|Rakuten Card]], and [[banking/rakuten-bank|Rakuten Bank]]. Pair with [[securities/japan-online-brokerage-competition|Japan online brokerage competition]] for the market structure, [[finance/japan-cross-shareholding-unwinding-economics|Japan cross-shareholding unwinding economics]] for the strategic-stake mechanics, and the [[megabanks/INDEX|JapanFG megabanks index]].
 
 ## TL;DR
 
-Between 2022 and 2024, **Mizuho Financial Group (TSE 8411)** built a serial set of strategic stakes across [[JapanFG/rakuten-fg|Rakuten Group]]'s most profitable financial subsidiaries, taking advantage of the parent's need to raise cash against [[business/rakuten-group-mobile-finance-bundling-case|mobile-network losses]]. The publicly announced sequence:
+Between 2022 and 2024, **Mizuho Financial Group (TSE 8411)** built a serial set of strategic stakes across [[payment-firms/rakuten-fg|Rakuten Group]]'s most profitable financial subsidiaries, taking advantage of the parent's need to raise cash against [[business/rakuten-group-mobile-finance-bundling-case|mobile-network losses]]. The publicly announced sequence:
 
 | Date | Target | Mizuho stake | Note |
 |---|---|---|---|
-| Oct 2022 | [[JapanFG/rakuten-securities|Rakuten Securities]] | ~20% | Initial capital + business alliance with Mizuho Securities |
-| Nov 2023 | [[JapanFG/rakuten-securities|Rakuten Securities]] | raised to 49% | Deepened alliance; Rakuten retains majority |
-| Nov 2024 (transfer 2024-12-01) | [[JapanFG/rakuten-card|Rakuten Card]] | 14.99% | ¥164,997m; Rakuten Card stays a Rakuten consolidated subsidiary |
+| Oct 2022 | [[securities-firms/rakuten-securities|Rakuten Securities]] | ~20% | Initial capital + business alliance with Mizuho Securities |
+| Nov 2023 | [[securities-firms/rakuten-securities|Rakuten Securities]] | raised to 49% | Deepened alliance; Rakuten retains majority |
+| Nov 2024 (transfer 2024-12-01) | [[card-issuers/rakuten-card|Rakuten Card]] | 14.99% | ¥164,997m; Rakuten Card stays a Rakuten consolidated subsidiary |
 | Subsequent restructuring | [[banking/rakuten-bank|Rakuten Bank]] | ~10.5% voting (reported) | Via share-swap structure |
 
 The architectural insight: this is a **megabank distribution-and-optionality play executed through minority strategic stakes**, not an outright acquisition. Mizuho gains exposure to Japan's leading retail online-finance funnel — a top-3 online broker, a #1-by-volume card issuer, and a leading internet bank — without consolidating their balance sheets or taking control. Rakuten gets cash plus a megabank partner; Mizuho gets a foot inside a retail franchise it could never have built organically at that scale. The 14.99% on Rakuten Card is deliberately just under the 15% threshold often used as a strategic-investment marker, and the 49% on Rakuten Securities is the classic "as-large-as-possible without consolidation/control" stake.
@@ -57,11 +57,11 @@ A full acquisition of Rakuten Securities or Rakuten Card would force consolidati
 
 ### Rakuten Securities (to 49%)
 
-Rakuten Securities is a top-tier Japanese online broker competing head-on with [[JapanFG/sbi-securities|SBI Securities]] (see [[securities/japan-online-brokerage-competition|online brokerage competition]]). Mizuho's October 2022 ~20% stake plus business alliance, raised to **49% in November 2023**, is the deepest of the three relationships. At 49%, Mizuho is as close to a controlling stake as it can get while leaving Rakuten the majority and avoiding full consolidation — a textbook "maximum strategic stake short of control."
+Rakuten Securities is a top-tier Japanese online broker competing head-on with [[securities-firms/sbi-securities|SBI Securities]] (see [[securities/japan-online-brokerage-competition|online brokerage competition]]). Mizuho's October 2022 ~20% stake plus business alliance, raised to **49% in November 2023**, is the deepest of the three relationships. At 49%, Mizuho is as close to a controlling stake as it can get while leaving Rakuten the majority and avoiding full consolidation — a textbook "maximum strategic stake short of control."
 
 ### Rakuten Card (14.99%)
 
-In its 2024-11-13 release, Rakuten Group announced the **transfer of 14.99% of Rakuten Card common stock to Mizuho FG for an expected ¥164,997 million**, with a scheduled execution date of **2024-12-01**. Rakuten Group explicitly stated [[JapanFG/rakuten-card|Rakuten Card]] **remains a consolidated subsidiary** of Rakuten after the transfer, and that it expected to record a special profit of ~¥159,353 million. Rakuten Card is Japan's largest credit-card issuer by transaction volume, so a sub-15% slice gives Mizuho economic exposure to that interchange + revolving engine without control.
+In its 2024-11-13 release, Rakuten Group announced the **transfer of 14.99% of Rakuten Card common stock to Mizuho FG for an expected ¥164,997 million**, with a scheduled execution date of **2024-12-01**. Rakuten Group explicitly stated [[card-issuers/rakuten-card|Rakuten Card]] **remains a consolidated subsidiary** of Rakuten after the transfer, and that it expected to record a special profit of ~¥159,353 million. Rakuten Card is Japan's largest credit-card issuer by transaction volume, so a sub-15% slice gives Mizuho economic exposure to that interchange + revolving engine without control.
 
 ### Rakuten Bank (~10% voting, reported)
 
@@ -87,7 +87,7 @@ Mizuho is distinctive in **layering several minority stakes inside one conglomer
 For **Mizuho**:
 
 - Buys distribution into Japan's largest retail online-finance funnel without organic build-out
-- 49% in [[JapanFG/rakuten-securities|Rakuten Securities]] positions it in the NISA-era retail-investing boom alongside [[JapanFG/mizuho-securities|Mizuho Securities]]
+- 49% in [[securities-firms/rakuten-securities|Rakuten Securities]] positions it in the NISA-era retail-investing boom alongside [[securities-firms/mizuho-securities|Mizuho Securities]]
 - Minority structure keeps risk-weighted assets and integration burden off Mizuho's balance sheet
 - Embeds optionality to deepen any of the three relationships later
 
@@ -120,7 +120,7 @@ The pattern that defines this case: a megabank taking **layered sub-control stak
 ## 8. Open Questions
 
 - Will Mizuho move to increase any of these stakes toward control if Rakuten's cash pressure persists?
-- How does Mizuho's 49% in [[JapanFG/rakuten-securities|Rakuten Securities]] reshape the online-broker duopoly with [[JapanFG/sbi-securities|SBI Securities]]?
+- How does Mizuho's 49% in [[securities-firms/rakuten-securities|Rakuten Securities]] reshape the online-broker duopoly with [[securities-firms/sbi-securities|SBI Securities]]?
 - Does the layered-minority structure deliver real product synergy, or mainly financial exposure?
 - How does the FSA view a megabank holding simultaneous large minority stakes across a single conglomerate's broker, card, and bank?
 - Could this template repeat with other cash-constrained Japanese digital-finance groups?
@@ -133,17 +133,17 @@ The pattern that defines this case: a megabank taking **layered sub-control stak
 - [[business/kddi-au-financial-bundling-case|KDDI au financial bundling case]]
 - [[business/ntt-docomo-d-point-telco-finance-case|NTT Docomo d-Point telco-finance case]]
 - [[business/sony-fg-partial-spinoff-case|Sony FG partial spinoff case]]
-- [[JapanFG/mizuho-fg|Mizuho Financial Group]]
-- [[JapanFG/mizuho-securities|Mizuho Securities]]
-- [[JapanFG/rakuten-fg|Rakuten FG]]
-- [[JapanFG/rakuten-securities|Rakuten Securities]]
-- [[JapanFG/rakuten-card|Rakuten Card]]
+- [[megabanks/mizuho-fg|Mizuho Financial Group]]
+- [[securities-firms/mizuho-securities|Mizuho Securities]]
+- [[payment-firms/rakuten-fg|Rakuten FG]]
+- [[securities-firms/rakuten-securities|Rakuten Securities]]
+- [[card-issuers/rakuten-card|Rakuten Card]]
 - [[banking/rakuten-bank|Rakuten Bank]]
-- [[JapanFG/sbi-securities|SBI Securities]]
+- [[securities-firms/sbi-securities|SBI Securities]]
 - [[securities/japan-online-brokerage-competition|Japan online brokerage competition]]
 - [[finance/japan-cross-shareholding-unwinding-economics|Japan cross-shareholding unwinding economics]]
 - [[loyalty/v-point-smbc-ccc-case|V-point SMBC × CCC case]]
-- [[JapanFG/megabanks-and-fg-index|JapanFG megabanks index]]
+- [[megabanks/INDEX|JapanFG megabanks index]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

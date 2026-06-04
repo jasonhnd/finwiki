@@ -11,13 +11,13 @@ translated_at: 2026-06-03T00:53:08.291Z
 
 ## ウィキ上の位置づけ
 
-このページは [[securities/INDEX|securities domain]] 配下にある。プライムブローカレッジが免許、カストディ、担保、資金調達の問題になる場合は、[[JapanFG/legal-financial-licenses/INDEX|JapanFG legal / financial licenses]]、[[securities/financial-instruments-business-operators-japan-index|FIEA operator registry]]、[[banking/INDEX|banking domain]]、[[money-market/INDEX|money-market domain]] とあわせて読む。
+このページは [[securities/INDEX|securities domain]] 配下にある。プライムブローカレッジが免許、カストディ、担保、資金調達の問題になる場合は、[[financial-licenses/INDEX|JapanFG legal / financial licenses]]、[[securities/financial-instruments-business-operators-japan-index|FIEA operator registry]]、[[banking/INDEX|banking domain]]、[[money-market/INDEX|money-market domain]] とあわせて読む。
 
 ## 概観
 
 日本のプライムブローカレッジは、単一の免許ラベルではない。第一種金融商品取引業、ブローカーディーラー執行、信用取引金融、証券貸借、株券借入、デリバティブ、レポ / 担保業務、カストディ、清算、決済から構成されるホールセール向けサービススタックである。
 
-このページは [[securities/japan-margin-trading-and-securities-finance|margin trading and securities finance]]、[[securities/japan-stock-lending-market-route|stock lending market route]]、[[securities/japan-short-selling-and-stock-loan-controls|short-selling and stock-loan controls]]、[[securities/japan-market-infrastructure-map|market infrastructure map]]、[[JapanFG/legal-financial-licenses/securities-license-stack|securities license stack]] とともに使う。
+このページは [[securities/japan-margin-trading-and-securities-finance|margin trading and securities finance]]、[[securities/japan-stock-lending-market-route|stock lending market route]]、[[securities/japan-short-selling-and-stock-loan-controls|short-selling and stock-loan controls]]、[[securities/japan-market-infrastructure-map|market infrastructure map]]、[[financial-licenses/securities-license-stack|securities license stack]] とともに使う。
 
 ## 機能スタック
 
@@ -37,7 +37,7 @@ translated_at: 2026-06-03T00:53:08.291Z
 | プライムブローカー | 機関投資家顧客に対して、資金調達、株券借入、執行アクセス、レポーティング、担保業務を提供する。 |
 | 執行ブローカー | 注文をルーティングし執行する。資金提供ブローカーと同一の場合も別の場合もある。 |
 | カストディアン | 資産を保管し、コーポレートアクションを処理し、資産分別 / 貸株プログラムを支援する。 |
-| 証券金融会社 | [[JapanFG/japan-securities-finance|Japan Securities Finance]] が標準化された信用取引および証券金融経路を支える。 |
+| 証券金融会社 | [[financial-regulators/japan-securities-finance|Japan Securities Finance]] が標準化された信用取引および証券金融経路を支える。 |
 | CCP / CSD | [[securities/japan-securities-clearing-corp|JSCC]] が清算し、[[securities/japan-securities-depository-center|JASDEC]] が振替 / 決済経路を支える。 |
 | 顧客 | ヘッジファンド、アセットマネージャー、自己勘定、マーケットメーカー、その他の機関投資家。 |
 
@@ -59,10 +59,10 @@ translated_at: 2026-06-03T00:53:08.291Z
 
 | 企業ページ | 想定されるウィキ上の役割 |
 |---|---|
-| [[JapanFG/nomura-hd|Nomura]], [[JapanFG/daiwa-sg|Daiwa Securities Group]] | 国内ホールセール証券 / プライムファイナンス / 機関投資家向けブローカレッジのアンカー。 |
-| [[JapanFG/smbc-nikko|SMBC Nikko]], [[JapanFG/mizuho-securities|Mizuho Securities]], [[JapanFG/mufg-mums|MUMSS]] | 機関投資家向けファイナンス / ブローカレッジ文脈を持つメガバンク系証券会社。 |
-| [[JapanFG/goldman-sachs-japan|Goldman Sachs Japan]], [[JapanFG/jpmorgan-japan|J.P. Morgan Japan]], [[JapanFG/morgan-stanley-japan|Morgan Stanley Japan]], [[JapanFG/ubs-japan|UBS Japan]] | グローバルなプライムブローカレッジ / 市場部門 / 機関投資家向けファイナンスの比較対象。 |
-| [[JapanFG/bny-mellon-japan|BNY Mellon Japan]], [[JapanFG/state-street-japan|State Street Japan]], [[JapanFG/euroclear-bank-japan|Euroclear Bank Japan]], [[JapanFG/clearstream-banking-japan|Clearstream Banking Japan]] | カストディ、決済、グローバル担保の文脈。 |
+| [[securities-firms/nomura-hd|Nomura]], [[securities-firms/daiwa-sg|Daiwa Securities Group]] | 国内ホールセール証券 / プライムファイナンス / 機関投資家向けブローカレッジのアンカー。 |
+| [[securities-firms/smbc-nikko|SMBC Nikko]], [[securities-firms/mizuho-securities|Mizuho Securities]], [[securities-firms/mufg-mums|MUMSS]] | 機関投資家向けファイナンス / ブローカレッジ文脈を持つメガバンク系証券会社。 |
+| [[securities-firms/goldman-sachs-japan|Goldman Sachs Japan]], [[foreign-financial-institutions/jpmorgan-japan|J.P. Morgan Japan]], [[securities-firms/morgan-stanley-japan|Morgan Stanley Japan]], [[foreign-financial-institutions/ubs-japan|UBS Japan]] | グローバルなプライムブローカレッジ / 市場部門 / 機関投資家向けファイナンスの比較対象。 |
+| [[foreign-financial-institutions/bny-mellon-japan|BNY Mellon Japan]], [[foreign-financial-institutions/state-street-japan|State Street Japan]], [[foreign-financial-institutions/euroclear-bank-japan|Euroclear Bank Japan]], [[foreign-financial-institutions/clearstream-banking-japan|Clearstream Banking Japan]] | カストディ、決済、グローバル担保の文脈。 |
 
 ## 管理上の問い
 
@@ -81,7 +81,7 @@ translated_at: 2026-06-03T00:53:08.291Z
 2. 該当する場合、FSA の金融商品取引業者リストと JSDA 会員資格で法的地位を確認する。
 3. 顧客向け商品ページと、実際の日本法人 / 登録を分ける。
 4. 借入可能性を解釈する前に、空売り、貸株、銘柄別制限ページを確認する。
-5. グローバル銀行については、法人に関する問いを [[JapanFG/legal-financial-licenses/foreign-financial-group-adjacent-licenses|foreign financial group adjacent licenses]] 経由で整理する。
+5. グローバル銀行については、法人に関する問いを [[financial-licenses/foreign-financial-group-adjacent-licenses|foreign financial group adjacent licenses]] 経由で整理する。
 
 ## 注意点
 
@@ -98,8 +98,8 @@ translated_at: 2026-06-03T00:53:08.291Z
 - [[securities/japan-market-infrastructure-map]]
 - [[securities/japan-securities-clearing-corp]]
 - [[securities/japan-securities-depository-center]]
-- [[JapanFG/legal-financial-licenses/securities-license-stack]]
-- [[JapanFG/japan-securities-finance]]
+- [[financial-licenses/securities-license-stack]]
+- [[financial-regulators/japan-securities-finance]]
 - [[INDEX|FinWiki index]]
 
 ## 出典

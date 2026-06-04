@@ -52,26 +52,26 @@
   "body_links": {
     "wikilinks_count": 5,
     "wikilinks": [
-      "JapanFG/missing-financial-institutions-backlog",
-      "JapanFG/zenshin-kumi",
       "banking/INDEX",
       "banking/cooperative-banking-japan",
-      "banking/regional-bank-consolidation-pattern"
+      "banking/regional-bank-consolidation-pattern",
+      "cooperative-banks/zenshin-kumi",
+      "financial-regulators/missing-financial-institutions-backlog"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/missing-financial-institutions-backlog",
-      "https://finwiki.zksc.io/JapanFG/zenshin-kumi",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/cooperative-banking-japan",
-      "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern"
+      "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
+      "https://finwiki.zksc.io/cooperative-banks/zenshin-kumi",
+      "https://finwiki.zksc.io/financial-regulators/missing-financial-institutions-backlog"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 13455,
-    "word_like_tokens": 1860,
-    "inbound_wikilinks_count": 20,
-    "last_modified": "2026-05-21"
+    "nonspace_chars": 13498,
+    "word_like_tokens": 1864,
+    "inbound_wikilinks_count": 22,
+    "last_modified": "2026-06-04"
   }
 }

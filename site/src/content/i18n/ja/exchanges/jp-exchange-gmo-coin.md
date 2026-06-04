@@ -103,8 +103,8 @@ translated_at: 2026-06-02T12:19:04.263Z
 - [[fintech/japan-financial-regulation]] — 日本金融規制全体
 - [[fintech/japan-stablecoin-regulatory-landscape]] — 関連 ステーブルコイン 制度
 - [[fintech/jp-trust-type-sc-architecture]] — 関連 SC 制度（GMO Trust との区別含む）
-- [[JapanFG/gmo-financial-hd]] — 親会社 GMO フィナンシャル HD
-- [[JapanFG/gmo-coin]] — JapanFG ドメインでの GMO コイン親会社プロファイル
+- [[payment-firms/gmo-financial-hd]] — 親会社 GMO フィナンシャル HD
+- [[payment-firms/gmo-coin]] — JapanFG ドメインでの GMO コイン親会社プロファイル
 - [[exchanges/jp-cex-staking-lending-regulation]] — JP CEX ステーキング・レンディング規制
 - [[exchanges/jp-vasp-parent-company-map]] — JP VASP 親会社マップ
 

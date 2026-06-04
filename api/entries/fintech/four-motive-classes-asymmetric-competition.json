@@ -54,7 +54,6 @@
   "body_links": {
     "wikilinks_count": 12,
     "wikilinks": [
-      "JapanFG/jpyc",
       "central-banking-function-unbundling",
       "fintech/INDEX",
       "fintech/apollo-acred-private-credit-tokenization",
@@ -64,11 +63,11 @@
       "fintech/japan-stablecoin-regulatory-landscape",
       "fintech/paypal-pyusd-stablecoin",
       "fintech/tether-business-model-short-treasury-yield",
+      "payment-firms/jpyc",
       "portfolio-winner-structure-arm-analog",
       "wall-street-crypto-network-neutrality"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/jpyc",
       "https://finwiki.zksc.io/central-banking-function-unbundling",
       "https://finwiki.zksc.io/fintech/INDEX",
       "https://finwiki.zksc.io/fintech/apollo-acred-private-credit-tokenization",
@@ -78,6 +77,7 @@
       "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
       "https://finwiki.zksc.io/fintech/paypal-pyusd-stablecoin",
       "https://finwiki.zksc.io/fintech/tether-business-model-short-treasury-yield",
+      "https://finwiki.zksc.io/payment-firms/jpyc",
       "https://finwiki.zksc.io/portfolio-winner-structure-arm-analog",
       "https://finwiki.zksc.io/wall-street-crypto-network-neutrality"
     ],
@@ -85,9 +85,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3851,
-    "word_like_tokens": 647,
+    "nonspace_chars": 3857,
+    "word_like_tokens": 648,
     "inbound_wikilinks_count": 2,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-06-04"
   }
 }

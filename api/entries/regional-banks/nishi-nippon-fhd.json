@@ -1,0 +1,103 @@
+{
+  "schema_version": "1.0",
+  "slug": "regional-banks/nishi-nippon-fhd",
+  "source_path": "regional-banks/nishi-nippon-fhd.md",
+  "url": "https://finwiki.zksc.io/regional-banks/nishi-nippon-fhd",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/regional-banks/nishi-nippon-fhd.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/regional-banks/nishi-nippon-fhd.md",
+  "domain": "regional-banks",
+  "title": "西日本 FHD (Nishi-Nippon FHD)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "西日本 FHD (Nishi-Nippon FHD)",
+    "aliases": [
+      "NNFHD",
+      "Nishi-Nippon Financial Holdings",
+      "西日本フィナンシャルホールディングス",
+      "西日本 FHD",
+      "西日本シティ銀行 持株会社",
+      "regional-banks/nishi-nippon-fh",
+      "regional-banks/nnfh"
+    ],
+    "domain": "regional-banks",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "regional-bank"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: 西日本フィナンシャルホールディングス (2026-05-19 抽出)",
+      "Wikipedia: 西日本シティ銀行 (2026-05-19 抽出)",
+      "西日本 FHD 公式 IR (2025-03 期決算公表分)"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against ふくおか FG (FFG) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "西日本 FHD (Nishi-Nippon FHD)",
+    "Wiki route",
+    "TL;DR",
+    "1. 会社概要",
+    "主要子会社・持分 ^[extracted]",
+    "合併経緯・前身 ^[extracted]",
+    "重要年表（抜粋）^[extracted]",
+    "2. 事業セグメント・マップ",
+    "福岡 2 大地銀構造",
+    "法人融資強化"
+  ],
+  "body_links": {
+    "wikilinks_count": 18,
+    "wikilinks": [
+      "18-shinwa-bank",
+      "JapanFG/INDEX",
+      "banking/INDEX",
+      "fukuoka-bank",
+      "fukuoka-chuo-bank",
+      "fukuoka-fg",
+      "higo-bank",
+      "kumamoto-bank",
+      "mizuho-fg",
+      "mufg",
+      "nagasaki-bank",
+      "nishi-nippon-city-bank",
+      "oita-bank",
+      "paypay-fg",
+      "regional-banks/fukuoka-fg",
+      "saga-bank",
+      "sbi-hd",
+      "smfg"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/18-shinwa-bank",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/fukuoka-bank",
+      "https://finwiki.zksc.io/fukuoka-chuo-bank",
+      "https://finwiki.zksc.io/fukuoka-fg",
+      "https://finwiki.zksc.io/higo-bank",
+      "https://finwiki.zksc.io/kumamoto-bank",
+      "https://finwiki.zksc.io/mizuho-fg",
+      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/nagasaki-bank",
+      "https://finwiki.zksc.io/nishi-nippon-city-bank",
+      "https://finwiki.zksc.io/oita-bank",
+      "https://finwiki.zksc.io/paypay-fg",
+      "https://finwiki.zksc.io/regional-banks/fukuoka-fg",
+      "https://finwiki.zksc.io/saga-bank",
+      "https://finwiki.zksc.io/sbi-hd",
+      "https://finwiki.zksc.io/smfg"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3962,
+    "word_like_tokens": 614,
+    "inbound_wikilinks_count": 3,
+    "last_modified": "2026-06-04"
+  }
+}

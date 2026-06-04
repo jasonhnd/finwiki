@@ -26,11 +26,11 @@ FinWiki にとって、NMF は **総合型 J-REIT のテンプレート** であ
 | ティッカー | TSE J-REIT **3462** |
 | 投資法人 | Nomura Real Estate Master Fund Inc.（野村不動産マスターファンド投資法人） |
 | 資産運用会社 | Nomura Real Estate Asset Management Co., Ltd.（スポンサー: Nomura Real Estate Holdings） |
-| スポンサー | Nomura Real Estate Holdings（TSE Prime 3231）。最終親会社: [[JapanFG/nomura-hd|Nomura Holdings]] |
+| スポンサー | Nomura Real Estate Holdings（TSE Prime 3231）。最終親会社: [[securities-firms/nomura-hd|Nomura Holdings]] |
 | 上場日 | 合併後の承継体として October 2015  に上場（旧 NMF はそれ以前に上場。合併により三つの野村系 J-REIT を統合） |
 | 資産フォーカス | 総合型 — オフィス、住宅、商業施設、物流 |
 | 資産管理受託者 | 信託銀行受託者 — 物件により異なる |
-| 格付け | [[JapanFG/jcr|JCR]] / [[JapanFG/rating-and-investment|R&I]] による高い投資適格格付け。分散と規模により、J-REIT の中でも相対的に高格付け |
+| 格付け | [[financial-regulators/jcr|JCR]] / [[financial-regulators/rating-and-investment|R&I]] による高い投資適格格付け。分散と規模により、J-REIT の中でも相対的に高格付け |
 | 指数採用 | TSE REIT Index、GPR / FTSE EPRA Nareit Developed Asia |
 
 ## 2. 2015  の三者合併
@@ -114,7 +114,7 @@ FinWiki にとって、NMF は **総合型 J-REIT のテンプレート** であ
 - [[real-estate-finance/logistics-j-reit-vs-office-j-reit-asset-class-comparison|logistics J-REIT vs office J-REIT comparison]]
 - [[real-estate-finance/mitsui-fudosan-financing-model|Mitsui Fudosan financing model]]
 - [[real-estate-finance/mitsubishi-estate-financing-model|Mitsubishi Estate financing model]]
-- [[JapanFG/nomura-hd|Nomura Holdings]]
+- [[securities-firms/nomura-hd|Nomura Holdings]]
 - [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]]
 - [[INDEX|FinWiki index]]
 

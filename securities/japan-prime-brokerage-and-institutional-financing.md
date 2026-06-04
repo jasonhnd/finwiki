@@ -31,13 +31,13 @@ sources:
 
 ## Wiki route
 
-This page sits under [[securities/INDEX|securities domain]]. Read it with [[JapanFG/legal-financial-licenses/INDEX|JapanFG legal / financial licenses]], [[securities/financial-instruments-business-operators-japan-index|FIEA operator registry]], [[banking/INDEX|banking domain]], and [[money-market/INDEX|money-market domain]] when prime brokerage becomes a license, custody, collateral, or funding question.
+This page sits under [[securities/INDEX|securities domain]]. Read it with [[financial-licenses/INDEX|JapanFG legal / financial licenses]], [[securities/financial-instruments-business-operators-japan-index|FIEA operator registry]], [[banking/INDEX|banking domain]], and [[money-market/INDEX|money-market domain]] when prime brokerage becomes a license, custody, collateral, or funding question.
 
 ## Overview
 
 Prime brokerage in Japan is not a single license label. It is a wholesale service stack built from Type I financial instruments business, broker-dealer execution, margin finance, securities lending, stock-borrow, derivatives, repo / collateral operations, custody, clearing, and settlement.
 
-Use this page with [[securities/japan-margin-trading-and-securities-finance|margin trading and securities finance]], [[securities/japan-stock-lending-market-route|stock lending market route]], [[securities/japan-short-selling-and-stock-loan-controls|short-selling and stock-loan controls]], [[securities/japan-market-infrastructure-map|market infrastructure map]], and [[JapanFG/legal-financial-licenses/securities-license-stack|securities license stack]].
+Use this page with [[securities/japan-margin-trading-and-securities-finance|margin trading and securities finance]], [[securities/japan-stock-lending-market-route|stock lending market route]], [[securities/japan-short-selling-and-stock-loan-controls|short-selling and stock-loan controls]], [[securities/japan-market-infrastructure-map|market infrastructure map]], and [[financial-licenses/securities-license-stack|securities license stack]].
 
 ## Function Stack
 
@@ -57,7 +57,7 @@ Use this page with [[securities/japan-margin-trading-and-securities-finance|marg
 | Prime broker | Provides financing, stock borrow, execution access, reporting, and collateral operations to institutional clients. |
 | Executing broker | Routes and executes orders; may or may not be the financing broker. |
 | Custodian | Holds assets, handles corporate actions, and supports asset segregation / lending programs. |
-| Securities finance company | [[JapanFG/japan-securities-finance|Japan Securities Finance]] supports standardized margin and securities-finance routes. |
+| Securities finance company | [[financial-regulators/japan-securities-finance|Japan Securities Finance]] supports standardized margin and securities-finance routes. |
 | CCP / CSD | [[securities/japan-securities-clearing-corp|JSCC]] clears; [[securities/japan-securities-depository-center|JASDEC]] supports depository / settlement routes. |
 | Client | Hedge fund, asset manager, proprietary account, market maker, or other institutional investor. |
 
@@ -79,10 +79,10 @@ Use this page with [[securities/japan-margin-trading-and-securities-finance|marg
 
 | Company page | Likely wiki role |
 |---|---|
-| [[JapanFG/nomura-hd|Nomura]], [[JapanFG/daiwa-sg|Daiwa Securities Group]] | Domestic wholesale securities / prime finance / institutional brokerage anchors. |
-| [[JapanFG/smbc-nikko|SMBC Nikko]], [[JapanFG/mizuho-securities|Mizuho Securities]], [[JapanFG/mufg-mums|MUMSS]] | Megabank securities arms with institutional financing / brokerage context. |
-| [[JapanFG/goldman-sachs-japan|Goldman Sachs Japan]], [[JapanFG/jpmorgan-japan|J.P. Morgan Japan]], [[JapanFG/morgan-stanley-japan|Morgan Stanley Japan]], [[JapanFG/ubs-japan|UBS Japan]] | Global prime brokerage / markets / institutional financing comparators. |
-| [[JapanFG/bny-mellon-japan|BNY Mellon Japan]], [[JapanFG/state-street-japan|State Street Japan]], [[JapanFG/euroclear-bank-japan|Euroclear Bank Japan]], [[JapanFG/clearstream-banking-japan|Clearstream Banking Japan]] | Custody, settlement, and global collateral context. |
+| [[securities-firms/nomura-hd|Nomura]], [[securities-firms/daiwa-sg|Daiwa Securities Group]] | Domestic wholesale securities / prime finance / institutional brokerage anchors. |
+| [[securities-firms/smbc-nikko|SMBC Nikko]], [[securities-firms/mizuho-securities|Mizuho Securities]], [[securities-firms/mufg-mums|MUMSS]] | Megabank securities arms with institutional financing / brokerage context. |
+| [[securities-firms/goldman-sachs-japan|Goldman Sachs Japan]], [[foreign-financial-institutions/jpmorgan-japan|J.P. Morgan Japan]], [[securities-firms/morgan-stanley-japan|Morgan Stanley Japan]], [[foreign-financial-institutions/ubs-japan|UBS Japan]] | Global prime brokerage / markets / institutional financing comparators. |
+| [[foreign-financial-institutions/bny-mellon-japan|BNY Mellon Japan]], [[foreign-financial-institutions/state-street-japan|State Street Japan]], [[foreign-financial-institutions/euroclear-bank-japan|Euroclear Bank Japan]], [[foreign-financial-institutions/clearstream-banking-japan|Clearstream Banking Japan]] | Custody, settlement, and global collateral context. |
 
 ## Control Questions
 
@@ -101,7 +101,7 @@ Use this page with [[securities/japan-margin-trading-and-securities-finance|marg
 2. Verify legal status against FSA FIBO list and JSDA membership where applicable.
 3. Separate client-facing product pages from actual Japan legal entity / registration.
 4. Check short-selling, stock-loan, and issue-level restriction pages before interpreting a borrow as available.
-5. For global banks, route entity questions through [[JapanFG/legal-financial-licenses/foreign-financial-group-adjacent-licenses|foreign financial group adjacent licenses]].
+5. For global banks, route entity questions through [[financial-licenses/foreign-financial-group-adjacent-licenses|foreign financial group adjacent licenses]].
 
 ## Caveats
 
@@ -118,8 +118,8 @@ Use this page with [[securities/japan-margin-trading-and-securities-finance|marg
 - [[securities/japan-market-infrastructure-map]]
 - [[securities/japan-securities-clearing-corp]]
 - [[securities/japan-securities-depository-center]]
-- [[JapanFG/legal-financial-licenses/securities-license-stack]]
-- [[JapanFG/japan-securities-finance]]
+- [[financial-licenses/securities-license-stack]]
+- [[financial-regulators/japan-securities-finance]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

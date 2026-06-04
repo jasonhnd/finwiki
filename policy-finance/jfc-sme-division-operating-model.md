@@ -29,17 +29,17 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[policy-finance/INDEX|policy-finance index]] as one of the three product-bearing divisions inside [[JapanFG/jfc|日本政策金融公庫 (JFC)]]. Read it alongside [[policy-finance/jfc-agriculture-forestry-fisheries-division|JFC Agriculture, Forestry and Fisheries Division]] as a peer JFC division, against [[policy-finance/japan-credit-guarantee-system|Japan credit guarantee system]] and [[policy-finance/national-federation-credit-guarantee-corporations|JFG]] for the parallel public-credit channel that operates through commercial banks, against [[JapanFG/shoko-chukin|Shoko Chukin]] as a peer policy-finance lender for SMEs, and against [[policy-finance/japan-policy-finance-system|Japan policy finance system]] for placement in the wider state-finance toolkit. For history of how the prior 中小企業金融公庫 was rolled into JFC, see [[policy-finance/japan-eximbank-history|Japan Eximbank history]] for the parallel pre-2008 reorganization context.
+This entry sits under [[policy-finance/INDEX|policy-finance index]] as one of the three product-bearing divisions inside [[financial-regulators/jfc|日本政策金融公庫 (JFC)]]. Read it alongside [[policy-finance/jfc-agriculture-forestry-fisheries-division|JFC Agriculture, Forestry and Fisheries Division]] as a peer JFC division, against [[policy-finance/japan-credit-guarantee-system|Japan credit guarantee system]] and [[policy-finance/national-federation-credit-guarantee-corporations|JFG]] for the parallel public-credit channel that operates through commercial banks, against [[financial-regulators/shoko-chukin|Shoko Chukin]] as a peer policy-finance lender for SMEs, and against [[policy-finance/japan-policy-finance-system|Japan policy finance system]] for placement in the wider state-finance toolkit. For history of how the prior 中小企業金融公庫 was rolled into JFC, see [[policy-finance/japan-eximbank-history|Japan Eximbank history]] for the parallel pre-2008 reorganization context.
 
 ## TL;DR
 
-JFC 中小企業事業 (SME Division) is one of the three product-bearing divisions of [[JapanFG/jfc|JFC]], formed when the former 中小企業金融公庫 (Chusho Kigyo Kinyu Koko, "中小公庫") was rolled into JFC at the 2008-10 four-institution merger. It sits between the smaller 国民生活事業 (sole proprietors, micro businesses; typical ticket millions to low tens of millions of yen) and the [[JapanFG/jbic|JBIC]] perimeter (overseas / large project finance). Target borrowers are mid-cap SMEs whose capital, headcount, or sector profile puts them above the 国民生活 ceiling but below mainstream megabank corporate lending economics. Core product menu is **普通貸付** (general loans) plus a wide menu of **特別貸付** (special-purpose loans, currently dozens of subprograms keyed to policy themes: startup, business succession, GX, DX, overseas expansion, anti-deflation, regional revitalisation, BCP), the **セーフティネット貸付** crisis lane that flexes in disasters and downturns, and the **マル経融資** small-business loan delivered through 商工会議所 / 商工会 recommendations on the 国民生活 side. The division also runs **共済関連** programs (小規模企業共済 / 経営セーフティ共済) operationally entrusted to SMRJ but financially intertwined with JFC SME lending. The lever that makes this division politically powerful is **利子補給** (interest-rate subsidy) layered on top of base loan rates by METI / supplementary budgets, which lets METI run targeted SME credit campaigns (post-Lehman, Tohoku, Covid, energy / FX shock, Noto earthquake) without changing JFC's underlying lending economics.
+JFC 中小企業事業 (SME Division) is one of the three product-bearing divisions of [[financial-regulators/jfc|JFC]], formed when the former 中小企業金融公庫 (Chusho Kigyo Kinyu Koko, "中小公庫") was rolled into JFC at the 2008-10 four-institution merger. It sits between the smaller 国民生活事業 (sole proprietors, micro businesses; typical ticket millions to low tens of millions of yen) and the [[financial-regulators/jbic|JBIC]] perimeter (overseas / large project finance). Target borrowers are mid-cap SMEs whose capital, headcount, or sector profile puts them above the 国民生活 ceiling but below mainstream megabank corporate lending economics. Core product menu is **普通貸付** (general loans) plus a wide menu of **特別貸付** (special-purpose loans, currently dozens of subprograms keyed to policy themes: startup, business succession, GX, DX, overseas expansion, anti-deflation, regional revitalisation, BCP), the **セーフティネット貸付** crisis lane that flexes in disasters and downturns, and the **マル経融資** small-business loan delivered through 商工会議所 / 商工会 recommendations on the 国民生活 side. The division also runs **共済関連** programs (小規模企業共済 / 経営セーフティ共済) operationally entrusted to SMRJ but financially intertwined with JFC SME lending. The lever that makes this division politically powerful is **利子補給** (interest-rate subsidy) layered on top of base loan rates by METI / supplementary budgets, which lets METI run targeted SME credit campaigns (post-Lehman, Tohoku, Covid, energy / FX shock, Noto earthquake) without changing JFC's underlying lending economics.
 
 ## 1. 部門位置 within JFC
 
 | Item | Detail |
 |---|---|
-| Parent | [[JapanFG/jfc|JFC]] (株式会社日本政策金融公庫), 100% state-owned special company |
+| Parent | [[financial-regulators/jfc|JFC]] (株式会社日本政策金融公庫), 100% state-owned special company |
 | Predecessor | 中小企業金融公庫 (Chusho Kigyo Kinyu Koko, "中小公庫"), established 1953; absorbed into JFC on 2008-10-01 four-institution merger |
 | Sister divisions | 国民生活事業 (former 国民生活金融公庫); 農林水産事業 (former 農林漁業金融公庫); 危機対応円滑化業務 (post-merger crisis-response window) |
 | Mandate scope | Mid-sized SMEs (above 国民生活事業 ceiling, below megabank-natural corporate scale) — manufacturing, wholesale, construction, services, IT |
@@ -56,8 +56,8 @@ The division explicitly is **not** the largest by branch count or borrower count
 | **普通貸付** | General loan | Working capital, capex, refinancing — no specific policy theme | Up to ~7.2 億円, up to ~20 yrs capex / ~8 yrs working capital | 地銀 / 信金 プロパー |
 | **特別貸付** | 新事業育成資金 | Early-stage growth, new business lines, startup expansion | Up to ~6 億円, long tenor with deferment | VC, 創業期 banking |
 | **特別貸付** | 新企業育成貸付 (incl. 女性・若者・シニア起業家支援資金) | Targeted startup demographics | Sub-program ceilings, interest-rate subsidy possible | Megabank startup desks |
-| **特別貸付** | 海外展開・事業再編資金 | Overseas subsidiary capital, M&A, restructuring | Up to ~14.4 億円 in stacked structures | [[JapanFG/jbic|JBIC]] for larger overseas tickets, megabank cross-border |
-| **特別貸付** | 事業承継・集約・活性化支援資金 | Owner succession, M&A succession, post-succession capex | Up to ~7.2 億円 + extended deferment | [[JapanFG/dbj|DBJ]] mid-cap fund; private succession funds |
+| **特別貸付** | 海外展開・事業再編資金 | Overseas subsidiary capital, M&A, restructuring | Up to ~14.4 億円 in stacked structures | [[financial-regulators/jbic|JBIC]] for larger overseas tickets, megabank cross-border |
+| **特別貸付** | 事業承継・集約・活性化支援資金 | Owner succession, M&A succession, post-succession capex | Up to ~7.2 億円 + extended deferment | [[financial-regulators/dbj|DBJ]] mid-cap fund; private succession funds |
 | **特別貸付** | 企業活力強化資金 | Productivity capex, IT, equipment modernisation | Standard 特別貸付 caps | 信金 / 地銀 設備資金 |
 | **特別貸付** | GX (グリーン)・DX 投融資 | Decarbonisation capex, digital transformation | Sub-program ceilings, often with subsidy overlay | METI GX 経済移行債 corridor |
 | **特別貸付** | 取引企業倒産対応資金 | Cash-flow loss from a counterparty bankruptcy | Working-capital tenor | 経営セーフティ共済 payouts |
@@ -86,7 +86,7 @@ Business succession became a JFC strategic axis from the mid-2010s as the demogr
 
 - **事業承継・集約・活性化支援資金** — purchase of shares from outgoing owners, M&A succession, post-succession capex.
 - **資本性ローン** for management-buyout / employee-buyout structures.
-- Coordination with [[JapanFG/dbj|DBJ]] mid-cap succession fund for larger deals and with prefectural 事業承継・引継ぎ支援センター for matching.
+- Coordination with [[financial-regulators/dbj|DBJ]] mid-cap succession fund for larger deals and with prefectural 事業承継・引継ぎ支援センター for matching.
 - Application of the **経営者保証ガイドライン** (cabinet-endorsed no-personal-guarantee framework) — JFC SME Division was an early adopter of guarantor-free or "double-guarantor" elimination practice.
 
 ### 2.4 共済関連 sub-products
@@ -130,9 +130,9 @@ JFC SME's operating philosophy is **民間補完** ("complementing private finan
 
 - **協調融資 (co-financing) with 地銀 / 信金 / 信組.** The most common structure: JFC SME takes a portion of the senior loan (often the longer-tenor or policy-aligned slice), and the borrower's main 取引銀行 takes the rest. Both lenders share due diligence and monitoring. The arrangement is often informal — no intercreditor agreement of the project-finance kind — but practically embedded in the relationship.
 - **Tie-in with [[policy-finance/japan-credit-guarantee-system|信用保証協会]] channel.** A borrower may carry both a JFC direct loan and a 信用保証協会-guaranteed bank loan. The two systems are administratively separate (different statutes, different ministries) but commercially complementary. JFC sits on direct-lending risk; the guarantee system sits on counter-guarantee risk under [[policy-finance/national-federation-credit-guarantee-corporations|JFG]] insurance.
-- **Sector partnership with [[JapanFG/shoko-chukin|Shoko Chukin]].** Both lend to similar SMEs but Shoko Chukin is owned by SME cooperatives plus government and has a deposit franchise; JFC SME is a pure direct-lending policy bank funded mostly through FILP. They are peer institutions rather than competitors on most deals; for large mid-cap deals they sometimes co-lend.
-- **Routing into [[JapanFG/dbj|DBJ]] for larger M&A.** When a succession or M&A ticket grows beyond the SME ceiling, the deal is naturally rerouted to DBJ's mid-cap funds and senior loan products.
-- **Routing into [[JapanFG/jbic|JBIC]] for large overseas tickets.** The SME Division supports overseas-expansion working capital and equity into foreign subsidiaries within its ceilings; cross-border tickets in the hundreds of millions or billions of yen are passed up to JBIC.
+- **Sector partnership with [[financial-regulators/shoko-chukin|Shoko Chukin]].** Both lend to similar SMEs but Shoko Chukin is owned by SME cooperatives plus government and has a deposit franchise; JFC SME is a pure direct-lending policy bank funded mostly through FILP. They are peer institutions rather than competitors on most deals; for large mid-cap deals they sometimes co-lend.
+- **Routing into [[financial-regulators/dbj|DBJ]] for larger M&A.** When a succession or M&A ticket grows beyond the SME ceiling, the deal is naturally rerouted to DBJ's mid-cap funds and senior loan products.
+- **Routing into [[financial-regulators/jbic|JBIC]] for large overseas tickets.** The SME Division supports overseas-expansion working capital and equity into foreign subsidiaries within its ceilings; cross-border tickets in the hundreds of millions or billions of yen are passed up to JBIC.
 
 The boundary is loose and pragmatic; many borrowers carry parallel facilities across two or three of these institutions.
 
@@ -154,7 +154,7 @@ History of structural reform that bears on the division:
 
 ## 6. 経済安全保障 / 最近の方針シフト
 
-Although [[JapanFG/jbic|JBIC]], [[policy-finance/nexi|NEXI]], and [[policy-finance/jogmec|JOGMEC]] sit closer to the explicit 経済安全保障 frame because their mandates touch supply chains, resources, and overseas industrial capacity, the SME Division has absorbed a sector-domestic version of the same shift since approximately 2023:
+Although [[financial-regulators/jbic|JBIC]], [[policy-finance/nexi|NEXI]], and [[policy-finance/jogmec|JOGMEC]] sit closer to the explicit 経済安全保障 frame because their mandates touch supply chains, resources, and overseas industrial capacity, the SME Division has absorbed a sector-domestic version of the same shift since approximately 2023:
 
 - **Critical-supply-chain SMEs.** Subsidies and special-loan products targeted at SMEs in semiconductor materials, equipment, and EV supply chains where supply-chain resilience is a stated policy goal. JFC SME loans complement METI sectoral grant programs.
 - **Friend-shoring of SME overseas operations.** 特別貸付 menus for overseas-subsidiary capital have been re-shaped to favour relocation away from concentrated single-country dependence (in practice, away from sole reliance on China-based supply chains).
@@ -166,7 +166,7 @@ These shifts have not changed the division's fundamental operating model — dir
 
 ## 7. Comparative position — JFC SME vs adjacent lanes
 
-| Dimension | JFC SME Division | JFC 国民生活事業 | [[JapanFG/shoko-chukin\|Shoko Chukin]] | [[policy-finance/japan-credit-guarantee-system\|信用保証協会]] system | Megabank SME lending |
+| Dimension | JFC SME Division | JFC 国民生活事業 | [[financial-regulators/shoko-chukin\|Shoko Chukin]] | [[policy-finance/japan-credit-guarantee-system\|信用保証協会]] system | Megabank SME lending |
 |---|---|---|---|---|---|
 | Lender type | Direct policy lender | Direct policy lender (smaller tickets) | Cooperative-owned policy lender with deposits | Guarantor (not lender) | Commercial deposit-funded lender |
 | Typical ticket | Tens of millions to several hundred million yen | Millions to tens of millions of yen | Tens of millions to several hundred million yen | Guarantee on bank-originated loans up to scheme-specific ceiling | Wide |
@@ -198,10 +198,10 @@ For Covid-era vintage loans, the workflow has been operationally intensive since
 - [[policy-finance/japan-credit-guarantee-system]]
 - [[policy-finance/national-federation-credit-guarantee-corporations]]
 - [[policy-finance/japan-eximbank-history]]
-- [[JapanFG/jfc]]
-- [[JapanFG/jbic]]
-- [[JapanFG/dbj]]
-- [[JapanFG/shoko-chukin]]
+- [[financial-regulators/jfc]]
+- [[financial-regulators/jbic]]
+- [[financial-regulators/dbj]]
+- [[financial-regulators/shoko-chukin]]
 
 ## Sources
 

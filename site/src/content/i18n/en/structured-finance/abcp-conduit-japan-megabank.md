@@ -12,11 +12,11 @@ translated_at: 2026-06-01T04:15:40.159Z
 
 ## TL;DR
 
-ABCP conduits are off-balance-sheet special-purpose vehicles ([[structured-finance/spv-tk-gk-vehicle-japan-tax|TK / GK SPV structures]]) that buy short-tenor receivables from corporate sellers and fund the purchases by issuing yen-denominated commercial paper into the JSDA-overseen domestic CP market, with a **liquidity backstop** from the sponsor megabank. In Japan, the three sponsors that matter are [[JapanFG/mufg|MUFG]] (via its banking arm and securities subsidiary), [[JapanFG/smfg|SMFG / SMBC]], and [[JapanFG/mizuho-fg|Mizuho FG]]. Each runs one or two multi-seller conduit programs ranging from hundreds of billions to over a trillion yen in outstanding CP at peak. The market contracted sharply after the 2008 financial crisis (when global ABCP markets froze and Japanese conduits drew on liquidity lines), reduced again after the 2010 Basel III liquidity framework imposed higher capital cost on sponsor commitments, and has stabilised at a much smaller size than the pre-crisis peak. Foreign investors are a meaningful CP buyer when the yen short-rate is attractive on cross-currency-swap basis.
+ABCP conduits are off-balance-sheet special-purpose vehicles ([[structured-finance/spv-tk-gk-vehicle-japan-tax|TK / GK SPV structures]]) that buy short-tenor receivables from corporate sellers and fund the purchases by issuing yen-denominated commercial paper into the JSDA-overseen domestic CP market, with a **liquidity backstop** from the sponsor megabank. In Japan, the three sponsors that matter are [[megabanks/mufg|MUFG]] (via its banking arm and securities subsidiary), [[megabanks/smfg|SMFG / SMBC]], and [[megabanks/mizuho-fg|Mizuho FG]]. Each runs one or two multi-seller conduit programs ranging from hundreds of billions to over a trillion yen in outstanding CP at peak. The market contracted sharply after the 2008 financial crisis (when global ABCP markets froze and Japanese conduits drew on liquidity lines), reduced again after the 2010 Basel III liquidity framework imposed higher capital cost on sponsor commitments, and has stabilised at a much smaller size than the pre-crisis peak. Foreign investors are a meaningful CP buyer when the yen short-rate is attractive on cross-currency-swap basis.
 
 ## Wiki route
 
-This entry sits under [[structured-finance/INDEX|structured-finance index]] as the **short-tenor securitisation conduit** node. Read against [[structured-finance/japan-abs-market-overview|Japan ABS market overview]] for the term-securitisation market, [[structured-finance/spv-tk-gk-vehicle-japan-tax|TK / GK SPV vehicle]] for the legal-entity layer, and [[structured-finance/credit-rating-methodology-jcr-r-and-i|JCR / R&I methodology]] for how rating agencies treat the liquidity backstop. System frame: [[finance/INDEX|finance index]] for the broader short-term funding context. Adjacency to bank balance-sheet management: [[JapanFG/mufg|MUFG]], [[JapanFG/smfg|SMFG]], [[JapanFG/mizuho-fg|Mizuho FG]] each disclose ABCP conduit exposures in their Pillar 3 disclosures.
+This entry sits under [[structured-finance/INDEX|structured-finance index]] as the **short-tenor securitisation conduit** node. Read against [[structured-finance/japan-abs-market-overview|Japan ABS market overview]] for the term-securitisation market, [[structured-finance/spv-tk-gk-vehicle-japan-tax|TK / GK SPV vehicle]] for the legal-entity layer, and [[structured-finance/credit-rating-methodology-jcr-r-and-i|JCR / R&I methodology]] for how rating agencies treat the liquidity backstop. System frame: [[finance/INDEX|finance index]] for the broader short-term funding context. Adjacency to bank balance-sheet management: [[megabanks/mufg|MUFG]], [[megabanks/smfg|SMFG]], [[megabanks/mizuho-fg|Mizuho FG]] each disclose ABCP conduit exposures in their Pillar 3 disclosures.
 
 ## 1. What an ABCP conduit looks like
 
@@ -64,9 +64,9 @@ Each megabank operates one or more multi-seller conduit programs. Names and deta
 
 | Sponsor | Typical conduit structure | Outstanding scale |
 |---|---|---|
-| [[JapanFG/mufg|MUFG]] | Multi-seller conduit sponsored by [[JapanFG/mufg|MUFG Bank]], administered through securities subsidiary; CP issued domestically and (historically) in USD via offshore vehicles | Several hundred billion to ~1 trillion yen equivalent at peak |
-| [[JapanFG/smfg|SMFG / SMBC]] | Multi-seller conduit programs sponsored by [[JapanFG/smfg|SMBC]]; trade-receivable and auto-receivable heavy | Comparable scale to MUFG |
-| [[JapanFG/mizuho-fg|Mizuho FG]] | Multi-seller conduit sponsored by [[JapanFG/mizuho-fg|Mizuho Bank]] | Somewhat smaller than MUFG / SMBC pair |
+| [[megabanks/mufg|MUFG]] | Multi-seller conduit sponsored by [[megabanks/mufg|MUFG Bank]], administered through securities subsidiary; CP issued domestically and (historically) in USD via offshore vehicles | Several hundred billion to ~1 trillion yen equivalent at peak |
+| [[megabanks/smfg|SMFG / SMBC]] | Multi-seller conduit programs sponsored by [[megabanks/smfg|SMBC]]; trade-receivable and auto-receivable heavy | Comparable scale to MUFG |
+| [[megabanks/mizuho-fg|Mizuho FG]] | Multi-seller conduit sponsored by [[megabanks/mizuho-fg|Mizuho Bank]] | Somewhat smaller than MUFG / SMBC pair |
 
 These conduits sit alongside (and sometimes compete with) the megabanks' own **direct corporate CP underwriting** business — for a corporate seller that is itself CP-eligible (high IG), it is often cheaper to issue CP on its own name than to sell receivables to the conduit.
 
@@ -98,9 +98,9 @@ The combined effect contracted the market significantly relative to pre-2008 pea
 ## 5. Current market size and structure
 
 Post-contraction, the Japanese ABCP market is materially smaller than pre-2008 peak but remains a meaningful financing channel for:
-- **Auto receivables** — captive auto-finance companies of [[JapanFG/toyota-tsusho-corp|Toyota Tsusho]] and other automakers
+- **Auto receivables** — captive auto-finance companies of [[financial-conglomerates/toyota-tsusho-corp|Toyota Tsusho]] and other automakers
 - **Trade receivables** — manufacturers and trading-house affiliates
-- **Equipment lease receivables** — leasing subsidiaries like [[JapanFG/mitsubishi-hc-capital|Mitsubishi HC Capital]], [[JapanFG/smfl|SMFL]], [[JapanFG/orix-corp|ORIX]]
+- **Equipment lease receivables** — leasing subsidiaries like [[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]], [[leasing-firms/smfl|SMFL]], [[leasing-firms/orix-corp|ORIX]]
 - **Consumer-finance receivables** — regional consumer-finance companies
 
 JSDA short-term CP statistics aggregate ABCP with corporate CP and bank CP, so ABCP-specific outstanding has to be inferred from sponsor disclosures.
@@ -137,10 +137,10 @@ For most sellers, the choice between conduit funding and term ABS depends on rec
 
 ## 9. Open questions
 
-- Whether the Japanese ABCP market will recover materially under [[JapanFG/boj|BOJ]] rate normalisation, which could re-establish a positive carry for yen ST funding
+- Whether the Japanese ABCP market will recover materially under [[financial-regulators/boj|BOJ]] rate normalisation, which could re-establish a positive carry for yen ST funding
 - Whether ESG-linked ABCP or green ABCP will emerge for receivable pools with clear sustainability profile (renewable-energy lease receivables, EV auto receivables)
-- The competitive position of [[JapanFG/orix-corp|ORIX]] / [[JapanFG/tokyo-century|Tokyo Century]] non-megabank conduits if they become more active
-- Whether [[JapanFG/japan-post-bank|Japan Post Bank]] will become a larger ABCP buyer as it diversifies short-tenor holdings away from JGBs
+- The competitive position of [[leasing-firms/orix-corp|ORIX]] / [[leasing-firms/tokyo-century|Tokyo Century]] non-megabank conduits if they become more active
+- Whether [[regional-banks/japan-post-bank|Japan Post Bank]] will become a larger ABCP buyer as it diversifies short-tenor holdings away from JGBs
 - The path of LCR / NSFR rule refinements that affect sponsor liquidity-facility economics
 
 ## Related
@@ -150,9 +150,9 @@ For most sellers, the choice between conduit funding and term ABS depends on rec
 - [[structured-finance/spv-tk-gk-vehicle-japan-tax|TK / GK SPV vehicle]]
 - [[structured-finance/credit-rating-methodology-jcr-r-and-i|JCR / R&I methodology]]
 - [[finance/INDEX|finance index]]
-- [[JapanFG/mufg|MUFG]] · [[JapanFG/smfg|SMFG]] · [[JapanFG/mizuho-fg|Mizuho FG]]
-- [[JapanFG/mitsubishi-hc-capital|Mitsubishi HC Capital]] · [[JapanFG/smfl|SMFL]] · [[JapanFG/orix-corp|ORIX]] · [[JapanFG/tokyo-century|Tokyo Century]]
-- [[JapanFG/japan-exchange-group|JPX]] · [[JapanFG/japan-post-bank|Japan Post Bank]]
+- [[megabanks/mufg|MUFG]] · [[megabanks/smfg|SMFG]] · [[megabanks/mizuho-fg|Mizuho FG]]
+- [[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]] · [[leasing-firms/smfl|SMFL]] · [[leasing-firms/orix-corp|ORIX]] · [[leasing-firms/tokyo-century|Tokyo Century]]
+- [[financial-regulators/japan-exchange-group|JPX]] · [[regional-banks/japan-post-bank|Japan Post Bank]]
 
 ## Sources
 

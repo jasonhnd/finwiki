@@ -61,14 +61,6 @@
   "body_links": {
     "wikilinks_count": 18,
     "wikilinks": [
-      "JapanFG/au-kabucom-securities",
-      "JapanFG/legal-financial-licenses/bank-license-and-baas-boundary",
-      "JapanFG/sbi-securities",
-      "JapanFG/sony-bank",
-      "JapanFG/sony-fg",
-      "JapanFG/sony-insurance",
-      "JapanFG/sony-life",
-      "JapanFG/ssnb",
       "banking/INDEX",
       "banking/au-jibun-bank",
       "banking/daiwa-next-bank",
@@ -78,17 +70,17 @@
       "banking/post-megabank-positioning",
       "banking/quick-deposit-four-methods",
       "banking/rakuten-bank",
-      "fintech/japan-stablecoin-regulatory-landscape"
+      "financial-licenses/bank-license-and-baas-boundary",
+      "fintech/japan-stablecoin-regulatory-landscape",
+      "life-insurers/sony-life",
+      "megabanks/sony-fg",
+      "non-life-insurers/sony-insurance",
+      "regional-banks/sony-bank",
+      "regional-banks/ssnb",
+      "securities-firms/au-kabucom-securities",
+      "securities-firms/sbi-securities"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/au-kabucom-securities",
-      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/bank-license-and-baas-boundary",
-      "https://finwiki.zksc.io/JapanFG/sbi-securities",
-      "https://finwiki.zksc.io/JapanFG/sony-bank",
-      "https://finwiki.zksc.io/JapanFG/sony-fg",
-      "https://finwiki.zksc.io/JapanFG/sony-insurance",
-      "https://finwiki.zksc.io/JapanFG/sony-life",
-      "https://finwiki.zksc.io/JapanFG/ssnb",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/au-jibun-bank",
       "https://finwiki.zksc.io/banking/daiwa-next-bank",
@@ -98,15 +90,23 @@
       "https://finwiki.zksc.io/banking/post-megabank-positioning",
       "https://finwiki.zksc.io/banking/quick-deposit-four-methods",
       "https://finwiki.zksc.io/banking/rakuten-bank",
-      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape"
+      "https://finwiki.zksc.io/financial-licenses/bank-license-and-baas-boundary",
+      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
+      "https://finwiki.zksc.io/life-insurers/sony-life",
+      "https://finwiki.zksc.io/megabanks/sony-fg",
+      "https://finwiki.zksc.io/non-life-insurers/sony-insurance",
+      "https://finwiki.zksc.io/regional-banks/sony-bank",
+      "https://finwiki.zksc.io/regional-banks/ssnb",
+      "https://finwiki.zksc.io/securities-firms/au-kabucom-securities",
+      "https://finwiki.zksc.io/securities-firms/sbi-securities"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 8248,
-    "word_like_tokens": 1359,
+    "nonspace_chars": 8311,
+    "word_like_tokens": 1368,
     "inbound_wikilinks_count": 6,
-    "last_modified": "2026-06-03"
+    "last_modified": "2026-06-04"
   }
 }

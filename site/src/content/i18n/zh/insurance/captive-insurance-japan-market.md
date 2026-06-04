@@ -17,7 +17,7 @@ translated_at: 2026-05-31T07:28:06.137Z
 
 ## Wiki route
 
-本条目位于 [[insurance/INDEX|insurance index]] 下。可结合 [[insurance/japan-nonlife-big-three|Japan non-life big three]] 阅读商业保险公司的替代方案，结合 [[insurance/foreign-reinsurer-japan-landscape|foreign reinsurer Japan landscape]] 阅读相关风险转移市场，结合 [[insurance/lloyds-japan-syndicate-operating-model|Lloyd's Japan syndicate operating model]] 阅读特殊风险的平行案例，结合 [[insurance/marine-insurance-and-pi-cover-market|marine insurance and P&I cover market]] 阅读航运专属保险交叉，结合 [[insurance/global-solvency-framework-comparison-matrix|global solvency framework comparison matrix]] 阅读离岸监管者的母公司资本制度，结合 [[insurance/natcat-reinsurance-japan|nat-cat reinsurance in Japan]] 阅读专属保险如何与巨灾分出互动。牌照路径框架见 [[JapanFG/legal-financial-licenses/insurance-license-and-solvency|insurance license and solvency]]，登记册切入点见 [[JapanFG/nonlife-insurer-registry-japan-index|Japan non-life insurer registry index]]。
+本条目位于 [[insurance/INDEX|insurance index]] 下。可结合 [[insurance/japan-nonlife-big-three|Japan non-life big three]] 阅读商业保险公司的替代方案，结合 [[insurance/foreign-reinsurer-japan-landscape|foreign reinsurer Japan landscape]] 阅读相关风险转移市场，结合 [[insurance/lloyds-japan-syndicate-operating-model|Lloyd's Japan syndicate operating model]] 阅读特殊风险的平行案例，结合 [[insurance/marine-insurance-and-pi-cover-market|marine insurance and P&I cover market]] 阅读航运专属保险交叉，结合 [[insurance/global-solvency-framework-comparison-matrix|global solvency framework comparison matrix]] 阅读离岸监管者的母公司资本制度，结合 [[insurance/natcat-reinsurance-japan|nat-cat reinsurance in Japan]] 阅读专属保险如何与巨灾分出互动。牌照路径框架见 [[financial-licenses/insurance-license-and-solvency|insurance license and solvency]]，登记册切入点见 [[non-life-insurers/nonlife-insurer-registry-japan-index|Japan non-life insurer registry index]]。
 
 ## 1. 什么是专属保险，以及企业为何设立它
 
@@ -82,7 +82,7 @@ translated_at: 2026-05-31T07:28:06.137Z
 
 ## 9. 比较：专属保险 vs 商业保险公司 vs 再保险人
 
-| 维度 | 商业保险公司（如 [[JapanFG/tokio-marine-nichido-fire|Tokio Marine & Nichido Fire]]） | 单一母公司专属保险（离岸） | 再保险人（如 [[JapanFG/munich-re-japan|Munich Re Japan]]） |
+| 维度 | 商业保险公司（如 [[non-life-insurers/tokio-marine-nichido-fire|Tokio Marine & Nichido Fire]]） | 单一母公司专属保险（离岸） | 再保险人（如 [[non-life-insurers/munich-re-japan|Munich Re Japan]]） |
 |---|---|---|---|
 | 被保险对象 | 第三方保单持有人 | 仅母集团 | 其他保险公司（分出人） |
 | 风险分散 | 多个彼此无关的被保险人 | 一个母公司及其关联方 | 多个分出人 |
@@ -104,17 +104,17 @@ translated_at: 2026-05-31T07:28:06.137Z
 - [[insurance/economic-value-based-solvency]]
 - [[insurance/global-solvency-framework-comparison-matrix]]
 - [[insurance/insurance-agency-and-brokerage-japan]]
-- [[JapanFG/nonlife-insurer-registry-japan-index]]
-- [[JapanFG/tokio-marine-nichido-fire]]
-- [[JapanFG/mitsui-sumitomo-insurance]]
-- [[JapanFG/aioi-nissay-dowa-insurance]]
-- [[JapanFG/sompo-japan-insurance]]
-- [[JapanFG/lloyd-japan]]
-- [[JapanFG/munich-re-japan]]
-- [[JapanFG/swiss-re-japan]]
-- [[JapanFG/hannover-re-japan]]
-- [[JapanFG/japan-pi-club]]
-- [[JapanFG/legal-financial-licenses/insurance-license-and-solvency]]
+- [[non-life-insurers/nonlife-insurer-registry-japan-index]]
+- [[non-life-insurers/tokio-marine-nichido-fire]]
+- [[non-life-insurers/mitsui-sumitomo-insurance]]
+- [[non-life-insurers/aioi-nissay-dowa-insurance]]
+- [[non-life-insurers/sompo-japan-insurance]]
+- [[non-life-insurers/lloyd-japan]]
+- [[non-life-insurers/munich-re-japan]]
+- [[non-life-insurers/swiss-re-japan]]
+- [[non-life-insurers/hannover-re-japan]]
+- [[financial-regulators/japan-pi-club]]
+- [[financial-licenses/insurance-license-and-solvency]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

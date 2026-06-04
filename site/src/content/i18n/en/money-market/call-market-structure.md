@@ -44,10 +44,10 @@ Do not read the call rate as a simple deposit rate. It is a wholesale money-mark
 
 ## JapanFG Relevance
 
-- [[JapanFG/tokyo-tanshi]], [[JapanFG/central-tanshi]], and [[JapanFG/ueda-yagi-tanshi]] are the direct tanshi-company route.
-- [[JapanFG/mufg]], [[JapanFG/smfg]], and [[JapanFG/mizuho-fg]] are affected through short-rate transmission, reserve balances, and wholesale funding.
-- [[JapanFG/mizuho-securities]], [[JapanFG/mufg-mums]], and other securities firms are affected through repo, JGB collateral, and dealer balance sheets.
-- [[JapanFG/boj-monetary-policy]] sets the policy framework; this page explains the market surface.
+- [[financial-regulators/tokyo-tanshi]], [[financial-regulators/central-tanshi]], and [[financial-regulators/ueda-yagi-tanshi]] are the direct tanshi-company route.
+- [[megabanks/mufg]], [[megabanks/smfg]], and [[megabanks/mizuho-fg]] are affected through short-rate transmission, reserve balances, and wholesale funding.
+- [[securities-firms/mizuho-securities]], [[securities-firms/mufg-mums]], and other securities firms are affected through repo, JGB collateral, and dealer balance sheets.
+- [[financial-regulators/boj-monetary-policy]] sets the policy framework; this page explains the market surface.
 
 ## Boundary Cases
 
@@ -60,10 +60,10 @@ Do not read the call rate as a simple deposit rate. It is a wholesale money-mark
 - [[money-market/INDEX|money-market INDEX]]
 - [[money-market/japan-money-market]]
 - [[money-market/boj-open-market-operations]]
-- [[JapanFG/boj-monetary-policy]]
-- [[JapanFG/tokyo-tanshi]]
-- [[JapanFG/central-tanshi]]
-- [[JapanFG/ueda-yagi-tanshi]]
+- [[financial-regulators/boj-monetary-policy]]
+- [[financial-regulators/tokyo-tanshi]]
+- [[financial-regulators/central-tanshi]]
+- [[financial-regulators/ueda-yagi-tanshi]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

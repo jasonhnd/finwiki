@@ -33,7 +33,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[banking/INDEX|banking index]] and connects the pension-side demand to the trust-bank supply. Read it with the institutional anchors [[JapanFG/master-trust-bank|MTBJ]] and [[JapanFG/custody-bank|CBJ]], the operating models [[banking/master-trust-bank-operating-model|Master Trust Bank operating model]] and [[banking/custody-bank-operating-model|Custody Bank operating model]], the landscape view [[banking/japan-master-trust-and-custody-bank-landscape|Japan master trust and custody bank landscape]], the cross-camp matrix [[banking/japan-trust-bank-vs-global-custodian-comparison-matrix|Japan trust bank vs global custodian comparison matrix]], the operating comparison [[banking/trust-bank-custody-operating-comparison|trust-bank custody operating comparison]], and the fee study [[banking/trust-bank-fee-structure-comparison|trust bank fee structure comparison]]. Pair with [[banking/jasdec-settlement-operations|JASDEC settlement operations]] for the rail; with [[banking/japan-banking-license-tier-comparison-matrix|Japan banking license tier comparison matrix]] for regulatory tier; with [[JapanFG/mitsubishi-ufj-trust-bank|MUFG Trust]], [[JapanFG/sumitomo-mitsui-trust|SMTB]], and [[JapanFG/mizuho-trust-bank|Mizuho Trust]] for the front-office trust-bank side; and with [[JapanFG/bny-mellon-japan|BNY Mellon Japan]] / [[JapanFG/state-street-japan|State Street Japan]] / [[JapanFG/jpmorgan-japan|JP Morgan Japan]] for the foreign-asset-leg sub-custody. For institutional context see [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]].
+This entry sits under [[banking/INDEX|banking index]] and connects the pension-side demand to the trust-bank supply. Read it with the institutional anchors [[trust-banks/master-trust-bank|MTBJ]] and [[trust-banks/custody-bank|CBJ]], the operating models [[banking/master-trust-bank-operating-model|Master Trust Bank operating model]] and [[banking/custody-bank-operating-model|Custody Bank operating model]], the landscape view [[banking/japan-master-trust-and-custody-bank-landscape|Japan master trust and custody bank landscape]], the cross-camp matrix [[banking/japan-trust-bank-vs-global-custodian-comparison-matrix|Japan trust bank vs global custodian comparison matrix]], the operating comparison [[banking/trust-bank-custody-operating-comparison|trust-bank custody operating comparison]], and the fee study [[banking/trust-bank-fee-structure-comparison|trust bank fee structure comparison]]. Pair with [[banking/jasdec-settlement-operations|JASDEC settlement operations]] for the rail; with [[banking/japan-banking-license-tier-comparison-matrix|Japan banking license tier comparison matrix]] for regulatory tier; with [[trust-banks/mitsubishi-ufj-trust-bank|MUFG Trust]], [[trust-banks/sumitomo-mitsui-trust|SMTB]], and [[trust-banks/mizuho-trust-bank|Mizuho Trust]] for the front-office trust-bank side; and with [[foreign-financial-institutions/bny-mellon-japan|BNY Mellon Japan]] / [[foreign-financial-institutions/state-street-japan|State Street Japan]] / [[foreign-financial-institutions/jpmorgan-japan|JP Morgan Japan]] for the foreign-asset-leg sub-custody. For institutional context see [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]].
 
 ## TL;DR
 
@@ -238,20 +238,20 @@ Pension plan
 - [[banking/trust-bank-fee-structure-comparison]]
 - [[banking/jasdec-settlement-operations]]
 - [[banking/japan-banking-license-tier-comparison-matrix]]
-- [[JapanFG/master-trust-bank]]
-- [[JapanFG/custody-bank]]
-- [[JapanFG/mitsubishi-ufj-trust-bank]]
-- [[JapanFG/sumitomo-mitsui-trust]]
-- [[JapanFG/mizuho-trust-bank]]
-- [[JapanFG/smbc-trust-bank]]
-- [[JapanFG/nochu-trust-bank]]
-- [[JapanFG/nippon-life]]
-- [[JapanFG/dai-ichi-life]]
-- [[JapanFG/meiji-yasuda]]
-- [[JapanFG/bny-mellon-japan]]
-- [[JapanFG/state-street-japan]]
-- [[JapanFG/jpmorgan-japan]]
-- [[JapanFG/citigroup-japan]]
+- [[trust-banks/master-trust-bank]]
+- [[trust-banks/custody-bank]]
+- [[trust-banks/mitsubishi-ufj-trust-bank]]
+- [[trust-banks/sumitomo-mitsui-trust]]
+- [[trust-banks/mizuho-trust-bank]]
+- [[trust-banks/smbc-trust-bank]]
+- [[trust-banks/nochu-trust-bank]]
+- [[life-insurers/nippon-life]]
+- [[life-insurers/dai-ichi-life]]
+- [[life-insurers/meiji-yasuda]]
+- [[foreign-financial-institutions/bny-mellon-japan]]
+- [[foreign-financial-institutions/state-street-japan]]
+- [[foreign-financial-institutions/jpmorgan-japan]]
+- [[foreign-financial-institutions/citigroup-japan]]
 - [[securities/japan-securities-depository-center]]
 - [[securities/japan-securities-clearing-corp]]
 - [[securities/japan-asset-manager-landscape-matrix]]

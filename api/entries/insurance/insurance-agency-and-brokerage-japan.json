@@ -55,13 +55,8 @@
     "wikilinks": [
       "INDEX",
       "JapanFG/INDEX",
-      "JapanFG/legal-financial-licenses/insurance-license-and-solvency",
-      "JapanFG/lifenet",
-      "JapanFG/mitsui-sumitomo-insurance",
-      "JapanFG/sompo-japan-insurance",
-      "JapanFG/sony-insurance",
-      "JapanFG/tokio-marine-nichido-fire",
       "banking/INDEX",
+      "financial-licenses/insurance-license-and-solvency",
       "fintech/INDEX",
       "insurance/INDEX",
       "insurance/internet-life-insurance-business-model",
@@ -69,19 +64,19 @@
       "insurance/japan-nonlife-big-three",
       "insurance/life-insurance-channel-mix",
       "insurance/saison-automobile-fire",
+      "life-insurers/lifenet",
+      "non-life-insurers/mitsui-sumitomo-insurance",
+      "non-life-insurers/sompo-japan-insurance",
+      "non-life-insurers/sony-insurance",
+      "non-life-insurers/tokio-marine-nichido-fire",
       "payments/INDEX",
       "retail/INDEX"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
       "https://finwiki.zksc.io/JapanFG/INDEX",
-      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/insurance-license-and-solvency",
-      "https://finwiki.zksc.io/JapanFG/lifenet",
-      "https://finwiki.zksc.io/JapanFG/mitsui-sumitomo-insurance",
-      "https://finwiki.zksc.io/JapanFG/sompo-japan-insurance",
-      "https://finwiki.zksc.io/JapanFG/sony-insurance",
-      "https://finwiki.zksc.io/JapanFG/tokio-marine-nichido-fire",
       "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/financial-licenses/insurance-license-and-solvency",
       "https://finwiki.zksc.io/fintech/INDEX",
       "https://finwiki.zksc.io/insurance/INDEX",
       "https://finwiki.zksc.io/insurance/internet-life-insurance-business-model",
@@ -89,6 +84,11 @@
       "https://finwiki.zksc.io/insurance/japan-nonlife-big-three",
       "https://finwiki.zksc.io/insurance/life-insurance-channel-mix",
       "https://finwiki.zksc.io/insurance/saison-automobile-fire",
+      "https://finwiki.zksc.io/life-insurers/lifenet",
+      "https://finwiki.zksc.io/non-life-insurers/mitsui-sumitomo-insurance",
+      "https://finwiki.zksc.io/non-life-insurers/sompo-japan-insurance",
+      "https://finwiki.zksc.io/non-life-insurers/sony-insurance",
+      "https://finwiki.zksc.io/non-life-insurers/tokio-marine-nichido-fire",
       "https://finwiki.zksc.io/payments/INDEX",
       "https://finwiki.zksc.io/retail/INDEX"
     ],
@@ -96,9 +96,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6084,
-    "word_like_tokens": 891,
-    "inbound_wikilinks_count": 22,
-    "last_modified": "2026-05-22"
+    "nonspace_chars": 6138,
+    "word_like_tokens": 903,
+    "inbound_wikilinks_count": 23,
+    "last_modified": "2026-06-04"
   }
 }

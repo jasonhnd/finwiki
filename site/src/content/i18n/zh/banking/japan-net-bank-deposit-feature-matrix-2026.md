@@ -31,30 +31,30 @@ Three structural shifts make a deposit-and-feature comparison especially useful 
 十一家银行锚定本比较：
 
 - **生态系统锚定型零售** — [[banking/rakuten-bank|Rakuten Bank]]、[[banking/paypay-bank|PayPay Bank]]、[[banking/au-jibun-bank|au Jibun Bank]]。
-- **证券邻接 / 资产形成** — [[banking/sony-bank|Sony Bank]]、[[banking/daiwa-next-bank|Daiwa Next Bank]]、[[JapanFG/sbi-shinsei-bank|SBI Shinsei]] 背景条目经由 [[banking/sumishin-sbi-net-bank|Sumishin SBI Net Bank]]（NEOBANK / 住房贷款锚点网络银行）。
+- **证券邻接 / 资产形成** — [[banking/sony-bank|Sony Bank]]、[[banking/daiwa-next-bank|Daiwa Next Bank]]、[[regional-banks/sbi-shinsei-bank|SBI Shinsei]] 背景条目经由 [[banking/sumishin-sbi-net-bank|Sumishin SBI Net Bank]]（NEOBANK / 住房贷款锚点网络银行）。
 - **法人 API / 中小企业** — [[banking/gmo-aozora-net-bank|GMO Aozora Net Bank]]。
 - **BaaS / 合作方主导** — [[banking/minna-bank-baas-model|Minna Bank]]（Fukuoka FG 数字银行品牌）、[[banking/sumishin-sbi-net-bank|Sumishin SBI Net Bank]] NEOBANK 合作方栈。
 - **区域数字** — [[banking/ui-bank|UI Bank]]（Tokyo Kiraboshi FG）。
 - **金融科技发行** — [[banking/mercari-bank|Mercari Bank]]（2025-2026  启动）。
-- **邮政 / 政府锚定** — [[JapanFG/japan-post-bank|Japan Post Bank]] 数字渠道（Yucho Direct + Yucho Pay）虽非纯网络银行，仍作为数字渠道比较纳入。
+- **邮政 / 政府锚定** — [[regional-banks/japan-post-bank|Japan Post Bank]] 数字渠道（Yucho Direct + Yucho Pay）虽非纯网络银行，仍作为数字渠道比较纳入。
 
-该群剔除仅法人的数字放贷机构（如 Funds）、仅钱包的运营方（无银行实体的 [[JapanFG/paypay-card|PayPay Card]]），以及启动前项目。
+该群剔除仅法人的数字放贷机构（如 Funds）、仅钱包的运营方（无银行实体的 [[card-issuers/paypay-card|PayPay Card]]），以及启动前项目。
 
 ## Core matrix — deposit base and parent ecosystem
 
 | Bank | Parent group | Deposit base (¥tn, ~2026) | Account base (m) | Primary deposit driver |
 |---|---|---|---|---|
 | [[banking/rakuten-bank|Rakuten Bank]] | Rakuten Group ([[business/rakuten-group-mobile-finance-bundling-case|mobile-finance bundling]]) | ~10-12 | ~16-17 | Rakuten Pay sweep、工资结算、Rakuten Card 自动扣款 |
-| [[banking/sumishin-sbi-net-bank|Sumishin SBI Net Bank]] | Sumitomo Mitsui Trust × [[JapanFG/sbi-hd|SBI HD]] | ~10-11 | ~7-8 | 住房贷款发放 + JAL / SBI / Yamada / T-NEOBANK 合作方账户 |
+| [[banking/sumishin-sbi-net-bank|Sumishin SBI Net Bank]] | Sumitomo Mitsui Trust × [[megabanks/sbi-hd|SBI HD]] | ~10-11 | ~7-8 | 住房贷款发放 + JAL / SBI / Yamada / T-NEOBANK 合作方账户 |
 | [[banking/paypay-bank|PayPay Bank]] | SoftBank / PayPay / Yahoo Japan 栈 | ~2-3 | ~7-8 | PayPay 钱包充值、工资账户、ATM-light 渠道 |
-| [[banking/au-jibun-bank|au Jibun Bank]] | KDDI × MUFG ([[JapanFG/au-fh|au FH]] × [[JapanFG/mufg|MUFG]]) | ~5-6 | ~6-7 | au PAY 联动、住房贷款账簿、工资账户、外汇零售 |
+| [[banking/au-jibun-bank|au Jibun Bank]] | KDDI × MUFG ([[megabanks/au-fh|au FH]] × [[megabanks/mufg|MUFG]]) | ~5-6 | ~6-7 | au PAY 联动、住房贷款账簿、工资账户、外汇零售 |
 | [[banking/sony-bank|Sony Bank]] | Sony Financial Group ([[business/sony-fg-partial-spinoff-case|SFG spinoff]]) | ~3-4 | ~1.7-2.0 | 住房贷款账簿 + 多币种外汇存款 + 资产形成账户 |
-| [[banking/daiwa-next-bank|Daiwa Next Bank]] | [[JapanFG/daiwa-sg|Daiwa Securities Group]] | ~5-6 | ~1.5-1.7 | 证券扫存存款、结构性存款、资产形成客户基础 |
-| [[banking/gmo-aozora-net-bank|GMO Aozora Net Bank]] | [[JapanFG/aozora-bank|Aozora Bank]] × [[business/gmo-internet-group|GMO Internet Group]] | ~1.5-2 | ~0.7-0.9 | 中小企业 / 初创企业账户、基于 API 的法人资金管理 |
+| [[banking/daiwa-next-bank|Daiwa Next Bank]] | [[securities-firms/daiwa-sg|Daiwa Securities Group]] | ~5-6 | ~1.5-1.7 | 证券扫存存款、结构性存款、资产形成客户基础 |
+| [[banking/gmo-aozora-net-bank|GMO Aozora Net Bank]] | [[regional-banks/aozora-bank|Aozora Bank]] × [[business/gmo-internet-group|GMO Internet Group]] | ~1.5-2 | ~0.7-0.9 | 中小企业 / 初创企业账户、基于 API 的法人资金管理 |
 | [[banking/ui-bank|UI Bank]] | Tokyo Kiraboshi FG | ~0.3-0.5 | ~0.3-0.4 | 面向区域集团的仅 app 数字存款渠道 |
 | [[banking/minna-bank-baas-model|Minna Bank]] | Fukuoka FG | ~0.2-0.4 | ~0.9-1.1 | 移动原生账户 + BaaS 合作方品牌 |
 | [[banking/mercari-bank|Mercari Bank]] | Mercari Group | <0.2 （早期） | early-stage | Mercari Marketplace 卖家现金流 + Mercari 积分桥接 |
-| [[JapanFG/japan-post-bank|Japan Post Bank]]（数字渠道） | Japan Post Holdings | ~190 （整家银行） | ~120 （整家银行） | 分行 + ATM 基础；Yucho Direct 数字渠道为叠加层 |
+| [[regional-banks/japan-post-bank|Japan Post Bank]]（数字渠道） | Japan Post Holdings | ~190 （整家银行） | ~120 （整家银行） | 分行 + ATM 基础；Yucho Direct 数字渠道为叠加层 |
 
 存款基础数值为来自各银行 IR 页面、集团年报及 FSA 汇总的公开来源近似值。请使用各银行 IR 页面获取精确的资产负债表数据。
 
@@ -63,16 +63,16 @@ Three structural shifts make a deposit-and-feature comparison especially useful 
 | Bank | FX product depth | Mortgage origination | Debit / credit overlay | Bank API publishing |
 |---|---|---|---|---|
 | [[banking/rakuten-bank|Rakuten Bank]] | 日元 + 美元 + 欧元零售外汇、外汇借记卡 | 经由集团发放的浮动利率住房贷款 | Rakuten Card 联动（无自有卡品牌） | 面向 [[banking/japan-baas-operating-models|BaaS]] 合作方的标准 FA API |
-| [[banking/sumishin-sbi-net-bank|Sumishin SBI Net Bank]] | 有限的零售外汇；外汇经由 [[JapanFG/sbi-fx-trade|SBI FX Trade]] | 主要的浮动利率住房贷款锚点 | Mister Debit（Visa 借记） | 广泛——面向 JAL、T-NEOBANK、Yamada、SBI 等的 NEOBANK API |
+| [[banking/sumishin-sbi-net-bank|Sumishin SBI Net Bank]] | 有限的零售外汇；外汇经由 [[securities-firms/sbi-fx-trade|SBI FX Trade]] | 主要的浮动利率住房贷款锚点 | Mister Debit（Visa 借记） | 广泛——面向 JAL、T-NEOBANK、Yamada、SBI 等的 NEOBANK API |
 | [[banking/paypay-bank|PayPay Bank]] | 日元 + 美元零售外汇、外汇存款 | 有限——合作方转介 | PayPay 借记（J-Debit + Visa 借记）、PayPay Card 联动 | 面向 PayPay 钱包扫存的标准银行 API |
 | [[banking/au-jibun-bank|au Jibun Bank]] | 多币种外汇存款、外汇保证金、外汇借记 | 住房贷款账簿增长中 | au PAY 卡 / au PAY 借记联动 | 标准银行 API + au PAY 联动 |
 | [[banking/sony-bank|Sony Bank]] | **最强零售外汇**——11+ 币种、MoneyKit 外汇存款、外汇借记 | 自启动以来的住房贷款核心产品 | Sony Bank WALLET（Visa 借记） | 标准银行 API |
-| [[banking/daiwa-next-bank|Daiwa Next Bank]] | 有限的零售外汇 | 无 | 无（仅存款） | 与 [[JapanFG/daiwa-sg|Daiwa]] 的证券扫存联动 |
-| [[banking/gmo-aozora-net-bank|GMO Aozora Net Bank]] | 经由母公司 [[JapanFG/aozora-bank|Aozora]] 的法人外汇 | 有限的零售住房贷款 | Visa Debit | **广泛的法人 API**——嵌入式支付、SaaS 连接器 |
+| [[banking/daiwa-next-bank|Daiwa Next Bank]] | 有限的零售外汇 | 无 | 无（仅存款） | 与 [[securities-firms/daiwa-sg|Daiwa]] 的证券扫存联动 |
+| [[banking/gmo-aozora-net-bank|GMO Aozora Net Bank]] | 经由母公司 [[regional-banks/aozora-bank|Aozora]] 的法人外汇 | 有限的零售住房贷款 | Visa Debit | **广泛的法人 API**——嵌入式支付、SaaS 连接器 |
 | [[banking/ui-bank|UI Bank]] | 有限 | 有限 | Visa 借记 | 标准银行 API |
 | [[banking/minna-bank-baas-model|Minna Bank]] | 无 / 有限 | 无 | Visa 借记 | 带合作方品牌 API 的**原生 BaaS 架构** |
 | [[banking/mercari-bank|Mercari Bank]] | 初期无 | 无 | 桥接至 Mercari Card | Mercari Marketplace 整合 |
-| [[JapanFG/japan-post-bank|Japan Post Bank]] | 经由 Yucho 的有限零售外汇 | 无 | JP Bank Visa 借记、JP Bank Card | 有限的公开 API |
+| [[regional-banks/japan-post-bank|Japan Post Bank]] | 经由 Yucho 的有限零售外汇 | 无 | JP Bank Visa 借记、JP Bank Card | 有限的公开 API |
 
 [[banking/sony-bank|Sony Bank]] 历史上将其差异化锚定于**多币种零售外汇**，且 2026  仍显示其为网络银行中最广的币种菜单。[[banking/gmo-aozora-net-bank|GMO Aozora Net Bank]] 明确锚定**法人 API**赛道。[[banking/sumishin-sbi-net-bank|Sumishin SBI Net Bank]] 同时锚定**住房贷款发放**与 **NEOBANK BaaS**。
 
@@ -81,16 +81,16 @@ Three structural shifts make a deposit-and-feature comparison especially useful 
 | Bank | 2025-2026 deposit growth trajectory | ATM fee structure | Domestic transfer fee | FX spread tier | Interest-rate tier (2026) | Embedded-finance partner ecosystem |
 |---|---|---|---|---|---|---|
 | [[banking/rakuten-bank|Rakuten Bank]] | 高个位数同比；工资账户驱动 | 按 Happy Program 分层每月免费 1-7 次 | 按分层 ¥52-145  | 中（如 25  钱美元） | 分层（0.02-0.10% 基线；促销更高） | Rakuten Card、Rakuten Pay、Rakuten Securities、NTT Docomo（Rakuten Mobile 合作轮次后的交叉折扣） |
-| [[banking/sumishin-sbi-net-bank|Sumishin SBI Net Bank]] | 高——住房贷款账簿 + NEOBANK 账户 | 按 Smart Program 等级每月免费 2-15 次 | 按等级每月免费 1-20 次 | 中偏紧 | 分层，对高等级有存款利率加成 | JAL NEOBANK、T-NEOBANK、SBI Securities、Yamada NEOBANK、[[JapanFG/sbi-hd|SBI HD]] 交叉栈 |
+| [[banking/sumishin-sbi-net-bank|Sumishin SBI Net Bank]] | 高——住房贷款账簿 + NEOBANK 账户 | 按 Smart Program 等级每月免费 2-15 次 | 按等级每月免费 1-20 次 | 中偏紧 | 分层，对高等级有存款利率加成 | JAL NEOBANK、T-NEOBANK、SBI Securities、Yamada NEOBANK、[[megabanks/sbi-hd|SBI HD]] 交叉栈 |
 | [[banking/paypay-bank|PayPay Bank]] | 强——PayPay 钱包充值 | 在 7-Eleven ATM 免费（有限），其他收费 | 满足条件免费 | 较宽 | 促销利率优惠；基线 0.02% | PayPay 钱包、PayPay Card、Yahoo / LINE Yahoo ID 联动 |
-| [[banking/au-jibun-bank|au Jibun Bank]] | 稳健；KDDI 生态系统 | 分层免费 | 满足条件免费 | 中 | 分层，对 au PAY 卡联动有加成 | au PAY 生态系统、KDDI MNO、[[JapanFG/mufg|MUFG]] |
+| [[banking/au-jibun-bank|au Jibun Bank]] | 稳健；KDDI 生态系统 | 分层免费 | 满足条件免费 | 中 | 分层，对 au PAY 卡联动有加成 | au PAY 生态系统、KDDI MNO、[[megabanks/mufg|MUFG]] |
 | [[banking/sony-bank|Sony Bank]] | 稳健；外汇 + 住房贷款 | 每月免费 4 次 + 超出收费 | 按渠道 ¥110-330  | 紧（外汇锚点定位） | 分层，含外汇存款 | Sony Group 实体、住房贷款发放合作方 |
-| [[banking/daiwa-next-bank|Daiwa Next Bank]] | 证券扫存驱动 | 有限（仅存款模式） | 有限（经由 Daiwa 转账） | n/a | 结构性存款促销分层 | [[JapanFG/daiwa-sg|Daiwa Securities]] |
+| [[banking/daiwa-next-bank|Daiwa Next Bank]] | 证券扫存驱动 | 有限（仅存款模式） | 有限（经由 Daiwa 转账） | n/a | 结构性存款促销分层 | [[securities-firms/daiwa-sg|Daiwa Securities]] |
 | [[banking/gmo-aozora-net-bank|GMO Aozora Net Bank]] | 稳健的中小企业 / 法人 | 法人导向的费用表 | 对法人极具竞争力 | 对法人外汇紧 | 法人存款利率分层 | freee、MoneyForward、会计 SaaS、薪资、支付平台 |
 | [[banking/ui-bank|UI Bank]] | 缓慢增长——利基 | 有限（仅 app） | 标准分层 | n/a | 促销高收益存款上线 | Tokyo Kiraboshi FG 区域合作方 |
 | [[banking/minna-bank-baas-model|Minna Bank]] | 移动 / BaaS 增长 | 仅 app——无自有 ATM | app 锚定 | n/a | 标准 | Recruit、Trust Bank GW、合作方品牌 BaaS |
 | [[banking/mercari-bank|Mercari Bank]] | 经 Mercari 用户基础早期爬坡 | 待定 | 待定 | n/a | 待定 | Mercari Marketplace、Mercari Card 联动 |
-| [[JapanFG/japan-post-bank|Japan Post Bank]] | 随客户多元化略有流出 | 在全国 Japan Post ATM 免费 | ¥146-330 | 有限的零售外汇 | 标准低 | Yucho Pay（自有钱包）、与区域银行连接 |
+| [[regional-banks/japan-post-bank|Japan Post Bank]] | 随客户多元化略有流出 | 在全国 Japan Post ATM 免费 | ¥146-330 | 有限的零售外汇 | 标准低 | Yucho Pay（自有钱包）、与区域银行连接 |
 
 增长轨迹行是定性的，因为存款增长高度季节性且促销驱动。请使用各银行的 IR 网站获取存款余额的季度披露。
 
@@ -103,7 +103,7 @@ Three structural shifts make a deposit-and-feature comparison especially useful 
 - **万亿日元层（¥5tn+）** — [[banking/rakuten-bank|Rakuten Bank]]、[[banking/sumishin-sbi-net-bank|Sumishin SBI Net Bank]]、[[banking/au-jibun-bank|au Jibun Bank]]、[[banking/daiwa-next-bank|Daiwa Next Bank]]。它们在原始存款特许经营上与区域银行竞争。
 - **中层（¥1-5tn）** — [[banking/sony-bank|Sony Bank]]、[[banking/paypay-bank|PayPay Bank]]、[[banking/gmo-aozora-net-bank|GMO Aozora Net Bank]]。分别按产品（外汇、钱包、法人 API）专业化。
 - **次万亿层（<¥1tn）** — [[banking/ui-bank|UI Bank]]、[[banking/minna-bank-baas-model|Minna Bank]]、[[banking/mercari-bank|Mercari Bank]]。早期阶段或利基。
-- **邮政锚点（¥190tn）** — [[JapanFG/japan-post-bank|Japan Post Bank]] 自成一类。Yucho Direct 作为数字渠道在功能上可比，但该行的存款基础来自分行与 ATM 特许经营。
+- **邮政锚点（¥190tn）** — [[regional-banks/japan-post-bank|Japan Post Bank]] 自成一类。Yucho Direct 作为数字渠道在功能上可比，但该行的存款基础来自分行与 ATM 特许经营。
 
 ### FX-product depth as differentiation
 
@@ -134,9 +134,9 @@ Three structural shifts make a deposit-and-feature comparison especially useful 
 - **生态系统钱包群** — [[banking/rakuten-bank|Rakuten Bank]]、[[banking/paypay-bank|PayPay Bank]]、[[banking/au-jibun-bank|au Jibun Bank]]。
 - **BaaS / 合作方群** — [[banking/sumishin-sbi-net-bank|Sumishin SBI Net Bank]] NEOBANK、[[banking/minna-bank-baas-model|Minna Bank]]。
 - **法人 / 中小企业 API 群** — [[banking/gmo-aozora-net-bank|GMO Aozora Net Bank]]。
-- **区域数字群** — [[banking/ui-bank|UI Bank]]、[[JapanFG/01-bank|01 Bank]]（同侪参照）。
+- **区域数字群** — [[banking/ui-bank|UI Bank]]、[[regional-banks/01-bank|01 Bank]]（同侪参照）。
 - **金融科技发行群** — [[banking/mercari-bank|Mercari Bank]]。
-- **邮政锚点** — [[JapanFG/japan-post-bank|Japan Post Bank]]。
+- **邮政锚点** — [[regional-banks/japan-post-bank|Japan Post Bank]]。
 
 ## Source caveats
 
@@ -181,11 +181,11 @@ Three structural shifts make a deposit-and-feature comparison especially useful 
 - [[business/rakuten-group-mobile-finance-bundling-case]]
 - [[business/sony-fg-partial-spinoff-case]]
 - [[business/gmo-internet-group]]
-- [[JapanFG/japan-post-bank]]
-- [[JapanFG/sbi-hd]]
-- [[JapanFG/mufg]]
-- [[JapanFG/daiwa-sg]]
-- [[JapanFG/01-bank]]
+- [[regional-banks/japan-post-bank]]
+- [[megabanks/sbi-hd]]
+- [[megabanks/mufg]]
+- [[securities-firms/daiwa-sg]]
+- [[regional-banks/01-bank]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

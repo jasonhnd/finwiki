@@ -1,0 +1,85 @@
+{
+  "schema_version": "1.0",
+  "slug": "trust-banks/sumitomo-mitsui-trust",
+  "source_path": "trust-banks/sumitomo-mitsui-trust.md",
+  "url": "https://finwiki.zksc.io/trust-banks/sumitomo-mitsui-trust",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/trust-banks/sumitomo-mitsui-trust.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/trust-banks/sumitomo-mitsui-trust.md",
+  "domain": "trust-banks",
+  "title": "三井住友トラストグループ (SuMi TRUST)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "三井住友トラストグループ (SuMi TRUST)",
+    "aliases": [
+      "SuMi TRUST",
+      "三井住友トラストグループ",
+      "三井住友トラスト・ホールディングス",
+      "Sumitomo Mitsui Trust Group",
+      "Sumitomo Mitsui Trust Holdings",
+      "三井住友信託 HD",
+      "8309"
+    ],
+    "domain": "trust-banks",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
+    "review_by": "2026-11-15",
+    "confidence": "certain",
+    "tags": [
+      "JapanFG",
+      "trust-banking"
+    ],
+    "status": "active",
+    "sources": [
+      "SuMi TRUST 公式 IR https://www.smtg.jp/ (2026-05-19 参照)",
+      "Wikipedia: 三井住友トラストグループ (公開情報、2026-05-19 参照)",
+      "Wikipedia: 三井住友信託銀行 (公開情報、2026-05-19 参照)"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 日本マスタートラスト信託銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "三井住友トラストグループ (SuMi TRUST)",
+    "Wiki route",
+    "TL;DR",
+    "1. 会社概要",
+    "最新財務サマリ（FY2024 / 2025-03 期、連結）",
+    "主要子会社・関連会社",
+    "合併歴史・前身",
+    "重要年表（抜粋）",
+    "2. 事業セグメント・マップ",
+    "信託専業独立路線"
+  ],
+  "body_links": {
+    "wikilinks_count": 9,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "banking/INDEX",
+      "mizuho-fg",
+      "mufg",
+      "ndfg",
+      "sbi-hd",
+      "smfg",
+      "ssnb",
+      "trust-banks/master-trust-bank"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/mizuho-fg",
+      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/ndfg",
+      "https://finwiki.zksc.io/sbi-hd",
+      "https://finwiki.zksc.io/smfg",
+      "https://finwiki.zksc.io/ssnb",
+      "https://finwiki.zksc.io/trust-banks/master-trust-bank"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 4503,
+    "word_like_tokens": 741,
+    "inbound_wikilinks_count": 56,
+    "last_modified": "2026-06-04"
+  }
+}

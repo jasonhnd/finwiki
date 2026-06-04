@@ -13,7 +13,7 @@ translated_at: 2026-05-31T11:13:44.852Z
 
 日本的保险销售按权限和责任划分。保险公司、保险代理人 / 招揽人、保险经纪人、银行柜台、零售商、平台应用和比较网站都可能接触客户旅程，但它们承担的法律角色并不相同。
 
-Use this page with [[JapanFG/legal-financial-licenses/insurance-license-and-solvency|insurance license and solvency route]], [[insurance/life-insurance-channel-mix|life-insurance channel mix]], [[insurance/japan-life-insurance-big-four|Japan life insurance big four]], [[insurance/japan-nonlife-big-three|Japan non-life big three]], [[JapanFG/tokio-marine-nichido-fire|Tokio Marine & Nichido Fire]], [[JapanFG/mitsui-sumitomo-insurance|Mitsui Sumitomo Insurance]], [[JapanFG/sompo-japan-insurance|Sompo Japan Insurance]], [[JapanFG/lifenet|Lifenet]], and [[JapanFG/sony-insurance|Sony Insurance]].
+Use this page with [[financial-licenses/insurance-license-and-solvency|insurance license and solvency route]], [[insurance/life-insurance-channel-mix|life-insurance channel mix]], [[insurance/japan-life-insurance-big-four|Japan life insurance big four]], [[insurance/japan-nonlife-big-three|Japan non-life big three]], [[non-life-insurers/tokio-marine-nichido-fire|Tokio Marine & Nichido Fire]], [[non-life-insurers/mitsui-sumitomo-insurance|Mitsui Sumitomo Insurance]], [[non-life-insurers/sompo-japan-insurance|Sompo Japan Insurance]], [[life-insurers/lifenet|Lifenet]], and [[non-life-insurers/sony-insurance|Sony Insurance]].
 
 ## Distribution Role Map
 
@@ -74,15 +74,15 @@ Wiki 条目在公开信息允许时记录法律栈边界。银行或应用页面
 ## Related
 
 - [[insurance/INDEX]]
-- [[JapanFG/legal-financial-licenses/insurance-license-and-solvency]]
+- [[financial-licenses/insurance-license-and-solvency]]
 - [[insurance/life-insurance-channel-mix]]
 - [[insurance/internet-life-insurance-business-model]]
 - [[insurance/japan-life-insurance-big-four]]
 - [[insurance/japan-nonlife-big-three]]
-- [[JapanFG/lifenet]]
-- [[JapanFG/sony-insurance]]
-- [[JapanFG/tokio-marine-nichido-fire]]
-- [[JapanFG/sompo-japan-insurance]]
+- [[life-insurers/lifenet]]
+- [[non-life-insurers/sony-insurance]]
+- [[non-life-insurers/tokio-marine-nichido-fire]]
+- [[non-life-insurers/sompo-japan-insurance]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

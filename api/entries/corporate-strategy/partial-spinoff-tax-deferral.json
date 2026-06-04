@@ -54,7 +54,6 @@
     "wikilinks": [
       "INDEX",
       "JapanFG/INDEX",
-      "JapanFG/sony-fg",
       "corporate-strategy/INDEX",
       "corporate-strategy/japan-kaisha-bunkatsu-tax-regime",
       "finance/INDEX",
@@ -62,12 +61,12 @@
       "finance/japan-acquisition-finance",
       "finance/japan-mbo-and-squeeze-out-process",
       "finance/japan-tender-offer-process",
+      "megabanks/sony-fg",
       "securities/japan-ipo-listing-disclosure-route"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
       "https://finwiki.zksc.io/JapanFG/INDEX",
-      "https://finwiki.zksc.io/JapanFG/sony-fg",
       "https://finwiki.zksc.io/corporate-strategy/INDEX",
       "https://finwiki.zksc.io/corporate-strategy/japan-kaisha-bunkatsu-tax-regime",
       "https://finwiki.zksc.io/finance/INDEX",
@@ -75,15 +74,16 @@
       "https://finwiki.zksc.io/finance/japan-acquisition-finance",
       "https://finwiki.zksc.io/finance/japan-mbo-and-squeeze-out-process",
       "https://finwiki.zksc.io/finance/japan-tender-offer-process",
+      "https://finwiki.zksc.io/megabanks/sony-fg",
       "https://finwiki.zksc.io/securities/japan-ipo-listing-disclosure-route"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3664,
+    "nonspace_chars": 3670,
     "word_like_tokens": 532,
     "inbound_wikilinks_count": 17,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-04"
   }
 }

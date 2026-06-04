@@ -24,7 +24,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 |---|---|---|---|
 | 🇺🇸 美国 | [[fintech/genius-act-501-denylist-mandate|GENIUS Act]]（2025  通过） | USDC / PYUSD / USD1  / RLUSD | Circle / Paxos / WLF / Ripple |
 | 🇪🇺 欧盟 | [[fintech/mica-overview|MiCA]]（2024-12-30 全面施行） | EURC / EUR-stable | Circle Ireland / Société Générale Forge |
-| 🇯🇵 日本 | [[fintech/japan-epi-three-types-overview|改正資金決済法]]（2023-06  → EPI 三型） | JPYC / USDC（SBI Circle）/ XJPY / DCJPY | [[JapanFG/jpyc|JPYC]] / SBI Circle Holdings / [[JapanFG/mufg|三菱 UFJ 信託]] / [[JapanFG/progmat|Progmat]] |
+| 🇯🇵 日本 | [[fintech/japan-epi-three-types-overview|改正資金決済法]]（2023-06  → EPI 三型） | JPYC / USDC（SBI Circle）/ XJPY / DCJPY | [[payment-firms/jpyc|JPYC]] / SBI Circle Holdings / [[megabanks/mufg|三菱 UFJ 信託]] / [[payment-firms/progmat|Progmat]] |
 
 **MRA 相互认证机制**：
 

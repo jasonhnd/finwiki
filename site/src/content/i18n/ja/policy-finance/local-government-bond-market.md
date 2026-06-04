@@ -13,7 +13,7 @@ translated_at: 2026-06-03T00:53:08.329Z
 
 日本の地方債市場は、都道府県・市町村財政と資本市場をつなぐ接点である。JGB とは構造的に異なり、発行額はより小さく、信用分析には地方交付税による財政調整層が組み込まれ、債務の相当部分は公募市場の外で銀行等引受債、[[policy-finance/japan-finance-organization-municipalities|Japan Finance Organization for Municipalities (JFM)]]、財政投融資（FILP）を通じて調達される。
 
-このページは [[policy-finance/INDEX|policy-finance index]] 配下にあり、市場を公的信用・政策金融の観点から扱う。JapanFG ドメインのエンティティ・市場視点は [[JapanFG/local-bond-market]] にあり、このページは政策金融の経路に焦点を当て、[[policy-finance/japan-policy-finance-system|Japan policy finance system]] を補完する。
+このページは [[policy-finance/INDEX|policy-finance index]] 配下にあり、市場を公的信用・政策金融の観点から扱う。JapanFG ドメインのエンティティ・市場視点は [[financial-regulators/local-bond-market]] にあり、このページは政策金融の経路に焦点を当て、[[policy-finance/japan-policy-finance-system|Japan policy finance system]] を補完する。
 
 ## 1. 発行チャネル
 
@@ -44,7 +44,7 @@ translated_at: 2026-06-03T00:53:08.329Z
 - **法定の協議制度** は、地方公共団体が起債にあたり国の監督当局と協議することを求めるもので、市場メカニズムではなく公的財政管理である。
 - **共同発行制度** は、小規模発行体の市場アクセスを支えるため、国の政策設計により存在する。
 
-この市場は [[policy-finance/japan-policy-finance-system|Japan policy finance system]] に隣接するが、地方公的金融の **市場向けレイヤー** であり、[[policy-finance/japan-finance-organization-municipalities|JFM]] および [[JapanFG/jfc|JFC]] / [[JapanFG/jbic|JBIC]] / [[JapanFG/dbj|DBJ]] は、より広い公的信用スタックにおける **機関向けレイヤー** である。
+この市場は [[policy-finance/japan-policy-finance-system|Japan policy finance system]] に隣接するが、地方公的金融の **市場向けレイヤー** であり、[[policy-finance/japan-finance-organization-municipalities|JFM]] および [[financial-regulators/jfc|JFC]] / [[financial-regulators/jbic|JBIC]] / [[financial-regulators/dbj|DBJ]] は、より広い公的信用スタックにおける **機関向けレイヤー** である。
 
 ## 4. 他市場との接続
 
@@ -52,8 +52,8 @@ translated_at: 2026-06-03T00:53:08.329Z
 |---|---|
 | [[money-market/INDEX]] | 地方公共団体の資金管理、レポ担保、短期借入は、BoJ の公開市場操作や短資会社のフローと相互作用する。 |
 | [[money-market/jgb-repo-market-japan]] | 地方債と JFM 債は、レポ取引や証券貸借取引の担保として使われる。 |
-| [[JapanFG/local-bond-market]] | 同じ市場をエンティティ / 業界クラスターの観点から扱う JapanFG ドメインのページ。 |
-| [[JapanFG/local-govt-finance]] | JFM とその前身である公営企業金融公庫を扱う企業史型の項目。 |
+| [[financial-regulators/local-bond-market]] | 同じ市場をエンティティ / 業界クラスターの観点から扱う JapanFG ドメインのページ。 |
+| [[financial-regulators/local-govt-finance]] | JFM とその前身である公営企業金融公庫を扱う企業史型の項目。 |
 | 地域銀行 | 地方債を保有し、銀行引受地方債を引き受ける。共同発行債の主要保有者でもある。 |
 | 生命保険会社 | 長期の公募地方債や JFM 債を保有する大口機関投資家。 |
 
@@ -82,10 +82,10 @@ translated_at: 2026-06-03T00:53:08.329Z
 - [[policy-finance/INDEX]]
 - [[policy-finance/japan-policy-finance-system]]
 - [[policy-finance/japan-finance-organization-municipalities]]
-- [[JapanFG/local-bond-market]]
-- [[JapanFG/local-govt-finance]]
-- [[JapanFG/jfc]]
-- [[JapanFG/dbj]]
+- [[financial-regulators/local-bond-market]]
+- [[financial-regulators/local-govt-finance]]
+- [[financial-regulators/jfc]]
+- [[financial-regulators/dbj]]
 - [[money-market/INDEX]]
 - [[money-market/jgb-repo-market-japan]]
 - [[INDEX|FinWiki index]]

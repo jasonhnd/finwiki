@@ -12,21 +12,21 @@ translated_at: 2026-06-01T03:31:12.242Z
 
 ## TL;DR
 
-日本的政策金融体系不是一家单一银行，而是一套分层的国家金融工具箱：[[JapanFG/jfc|JFC]] 面向国内中小企业 / 农业 / 教育相邻信贷，[[JapanFG/jbic|JBIC]] 面向海外投资和出口金融，[[policy-finance/jica|JICA]] 面向 ODA 执行，[[policy-finance/nexi|NEXI]] 面向贸易与投资保险，[[policy-finance/jogmec|JOGMEC]] 面向资源安全，[[policy-finance/japan-housing-finance-agency|JHF]] 面向住房金融支持，另有面向中小企业 / 农业 / 渔业信贷的公共信用保证体系，以及 [[policy-finance/okinawa-development-finance-corp|ODFC]] 面向冲绳特定区域金融。
+日本的政策金融体系不是一家单一银行，而是一套分层的国家金融工具箱：[[financial-regulators/jfc|JFC]] 面向国内中小企业 / 农业 / 教育相邻信贷，[[financial-regulators/jbic|JBIC]] 面向海外投资和出口金融，[[policy-finance/jica|JICA]] 面向 ODA 执行，[[policy-finance/nexi|NEXI]] 面向贸易与投资保险，[[policy-finance/jogmec|JOGMEC]] 面向资源安全，[[policy-finance/japan-housing-finance-agency|JHF]] 面向住房金融支持，另有面向中小企业 / 农业 / 渔业信贷的公共信用保证体系，以及 [[policy-finance/okinawa-development-finance-corp|ODFC]] 面向冲绳特定区域金融。
 
 ## 体系图
 
 | 通道 | 核心机构 | 功能 |
 |---|---|---|
-| 国内中小企业 / 初创 / 传承金融 | [[JapanFG/jfc|JFC]] | 在单靠民间金融难以支持较高风险国家政策领域时提供政策性贷款 |
-| 海外企业 / 项目金融 | [[JapanFG/jbic|JBIC]] | 出口、海外投资、资源 / 基础设施以及战略性海外金融 |
+| 国内中小企业 / 初创 / 传承金融 | [[financial-regulators/jfc|JFC]] | 在单靠民间金融难以支持较高风险国家政策领域时提供政策性贷款 |
+| 海外企业 / 项目金融 | [[financial-regulators/jbic|JBIC]] | 出口、海外投资、资源 / 基础设施以及战略性海外金融 |
 | ODA / 发展合作 | [[policy-finance/jica|JICA]] | 发展援助、技术合作、ODA 执行 |
 | 贸易与投资保险 | [[policy-finance/nexi|NEXI]] | 为商业保险难以覆盖的海外交易风险提供保险 |
 | 资源安全 | [[policy-finance/jogmec|JOGMEC]] | 石油、天然气、金属、储备、勘探和能源安全支持 |
 | 冲绳区域政策金融 | [[policy-finance/okinawa-development-finance-corp|ODFC]] | 整合式冲绳特定政策金融 |
 | 教育 / 奖学金金融 | [[policy-finance/japan-student-services-organization|JASSO]] | 奖学金补助、贷款和学生服务 |
 | 住房金融 | [[policy-finance/japan-housing-finance-agency|JHF]] | 住房金融证券化支持、住房贷款保险和灾后恢复住房贷款 |
-| 中小企业信用保证 | [[policy-finance/japan-credit-guarantee-system|Japan credit guarantee system]] / [[policy-finance/national-federation-credit-guarantee-corporations|JFG]] | 信用保证协会、联合会支持，以及与 [[JapanFG/jfc|JFC]] 信用保险的衔接 |
+| 中小企业信用保证 | [[policy-finance/japan-credit-guarantee-system|Japan credit guarantee system]] / [[policy-finance/national-federation-credit-guarantee-corporations|JFG]] | 信用保证协会、联合会支持，以及与 [[financial-regulators/jfc|JFC]] 信用保险的衔接 |
 | 农业信用保证 | [[policy-finance/agriculture-credit-guarantee-system|Agriculture credit guarantee system]] | 农业信用基金协会，以及农林渔业信用基金保险路径 |
 | 渔业信用保证 | [[policy-finance/fisheries-credit-guarantee-system|Fisheries credit guarantee system]] | 渔业信用基金协会，以及农林渔业信用基金保险路径 |
 
@@ -38,8 +38,8 @@ translated_at: 2026-06-01T03:31:12.242Z
 
 ## Related
 
-- [[JapanFG/jfc]]
-- [[JapanFG/jbic]]
+- [[financial-regulators/jfc]]
+- [[financial-regulators/jbic]]
 - [[policy-finance/jica]]
 - [[policy-finance/nexi]]
 - [[policy-finance/jogmec]]

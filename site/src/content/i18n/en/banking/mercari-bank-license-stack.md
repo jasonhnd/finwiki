@@ -54,7 +54,7 @@ Therefore, this page treats it as follows.
 
 ## BaaS design lesson
 
-Mercari Bank is a case that shows the essence of [[banking/baas-japan-landscape|BaaS 日本ランドスケープ]] is not "acquiring a license wholesale" but "where to connect existing licenses and the bank API." When same-group entities such as [[exchanges/jp-exchange-mercoin|メルコイン]] — the group's crypto-asset exchange operator, securities app, or EC app — aim for the same UX, the first 4  points to separate are as follows (for the latest picture of the parent company, see [[JapanFG/mercari-hd|メルカリ HD]]).
+Mercari Bank is a case that shows the essence of [[banking/baas-japan-landscape|BaaS 日本ランドスケープ]] is not "acquiring a license wholesale" but "where to connect existing licenses and the bank API." When same-group entities such as [[exchanges/jp-exchange-mercoin|メルコイン]] — the group's crypto-asset exchange operator, securities app, or EC app — aim for the same UX, the first 4  points to separate are as follows (for the latest picture of the parent company, see [[payment-firms/mercari-hd|メルカリ HD]]).
 
 1. Who provides the deposit account.
 2. Who handles account-information display and funds-transfer instruction.

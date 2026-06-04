@@ -24,10 +24,10 @@ translated_at: 2026-05-30T14:13:23.428Z
 
 | 层级 | 功能 | FinWiki 路线 |
 |---|---|---|
-| 政策决议 | 日本央行政策委员会在 MPM 设定货币市场操作指引。 | [[JapanFG/boj-monetary-policy]] |
+| 政策决议 | 日本央行政策委员会在 MPM 设定货币市场操作指引。 | [[financial-regulators/boj-monetary-policy]] |
 | 运营市场 | 短期利率形成,特别是无抵押品隔夜拆借交易。 | [[money-market/call-market-structure]] |
 | 市场操作 | 日本央行通过开放市场操作供给或吸收资金。 | [[money-market/boj-open-market-operations]] |
-| 中介机构 | 银行、证券公司、信托银行和短资公司管理短期流动性。 | [[JapanFG/tokyo-tanshi]], [[JapanFG/central-tanshi]], [[JapanFG/ueda-yagi-tanshi]] |
+| 中介机构 | 银行、证券公司、信托银行和短资公司管理短期流动性。 | [[financial-regulators/tokyo-tanshi]], [[financial-regulators/central-tanshi]], [[financial-regulators/ueda-yagi-tanshi]] |
 | 数据层 | 日本央行发布拆借市场数据和市场操作结果。 | 日本央行统计/市场操作发布 |
 
 ## 为什么这很重要
@@ -49,11 +49,11 @@ translated_at: 2026-05-30T14:13:23.428Z
 - [[money-market/INDEX|money-market INDEX]]
 - [[money-market/call-market-structure]]
 - [[money-market/boj-open-market-operations]]
-- [[JapanFG/boj-monetary-policy]]
-- [[JapanFG/tokyo-tanshi]]
-- [[JapanFG/central-tanshi]]
-- [[JapanFG/ueda-yagi-tanshi]]
-- [[JapanFG/legal-financial-licenses/INDEX]]
+- [[financial-regulators/boj-monetary-policy]]
+- [[financial-regulators/tokyo-tanshi]]
+- [[financial-regulators/central-tanshi]]
+- [[financial-regulators/ueda-yagi-tanshi]]
+- [[financial-licenses/INDEX]]
 - [[INDEX|FinWiki index]]
 
 ## 来源

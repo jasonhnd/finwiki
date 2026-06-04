@@ -30,7 +30,7 @@ GLP J-REITの構造的なアイデンティティは、3つの柱に支えられ
 | 上場日 | 2012 年12月 |
 | 資産フォーカス | 近代的マルチテナント型物流施設、クラスA倉庫 |
 | 地理的フォーカス | 首都圏の物流サブマーケット（印西、船橋、草加、厚木、埼玉回廊）および関西圏 |
-| 格付 | [[JapanFG/jcr|JCR]] / [[JapanFG/rating-and-investment|R&I]]による投資適格 |
+| 格付 | [[financial-regulators/jcr|JCR]] / [[financial-regulators/rating-and-investment|R&I]]による投資適格 |
 | 指数採用 | TSE REIT Index、TSE REIT Logistics Index、GPR / FTSE EPRA Nareit Developed Asia |
 
 ## 2. スポンサー・プラットフォーム: GLP

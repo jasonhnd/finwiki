@@ -50,7 +50,7 @@ The OTC market is structurally separate from the exchange-traded derivative mark
 | Regulator | FSA under FIEA. |
 | Central bank | BoJ — macro driver and surveillance role. |
 
-The dealer franchise is the structural backbone. See [[JapanFG/mufg-bank]], [[JapanFG/sumitomo-mitsui-banking-corp]], [[JapanFG/mizuho-bank]] for parent-FG context.
+The dealer franchise is the structural backbone. See [[megabanks/mufg-bank]], [[megabanks/sumitomo-mitsui-banking-corp]], [[megabanks/mizuho-bank]] for parent-FG context.
 
 ## Regulatory Framework
 
@@ -106,9 +106,9 @@ For specific figures, cite the exact source release and survey vintage because n
 - [[banking/INDEX]]
 - [[banking/japan-banking-license-tier-comparison-matrix]]
 - [[finance/japan-corporate-fx-and-rate-hedge-policy]]
-- [[JapanFG/mufg-bank]]
-- [[JapanFG/sumitomo-mitsui-banking-corp]]
-- [[JapanFG/mizuho-bank]]
+- [[megabanks/mufg-bank]]
+- [[megabanks/sumitomo-mitsui-banking-corp]]
+- [[megabanks/mizuho-bank]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

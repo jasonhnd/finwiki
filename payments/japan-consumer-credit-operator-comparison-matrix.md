@@ -44,7 +44,7 @@ sources:
 
 ## Wiki route
 
-This sits under [[payments/INDEX|payments index]] as the cross-category consumer-credit reference. Read it with [[payments/japan-bnpl-credit-purchase-boundary|Japan BNPL and credit-purchase boundary]] for the BNPL / 信販 line, [[payments/japan-card-issuer-acquirer-processor-split|card issuer / acquirer / processor split]] for the card-side role separation, [[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]] for the cross-scheme comparison this entry deliberately complements, [[payments/credit-purchase-card-operators-japan-index|credit-purchase / card operator registry]] for the METI registry row-level source, [[JapanFG/legal-financial-licenses/payment-license-stack|Japan payment license stack]] for the regulatory category mapping, and [[policy-finance/japan-housing-finance-agency|Japan Housing Finance Agency]] for the policy-finance side of housing-loan adjacency. Entity anchors for examples are [[JapanFG/acom|ACOM]], [[JapanFG/aiful|AIFUL]], [[JapanFG/smbc-consumer-finance|SMBC Consumer Finance]], [[JapanFG/aplus|APLUS]], [[JapanFG/jaccs|JACCS]], and [[JapanFG/orico|Orico]].
+This sits under [[payments/INDEX|payments index]] as the cross-category consumer-credit reference. Read it with [[payments/japan-bnpl-credit-purchase-boundary|Japan BNPL and credit-purchase boundary]] for the BNPL / 信販 line, [[payments/japan-card-issuer-acquirer-processor-split|card issuer / acquirer / processor split]] for the card-side role separation, [[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]] for the cross-scheme comparison this entry deliberately complements, [[payments/credit-purchase-card-operators-japan-index|credit-purchase / card operator registry]] for the METI registry row-level source, [[financial-licenses/payment-license-stack|Japan payment license stack]] for the regulatory category mapping, and [[policy-finance/japan-housing-finance-agency|Japan Housing Finance Agency]] for the policy-finance side of housing-loan adjacency. Entity anchors for examples are [[consumer-finance/acom|ACOM]], [[consumer-finance/aiful|AIFUL]], [[consumer-finance/smbc-consumer-finance|SMBC Consumer Finance]], [[card-issuers/aplus|APLUS]], [[card-issuers/jaccs|JACCS]], and [[card-issuers/orico|Orico]].
 
 ## Nine operator categories
 
@@ -62,7 +62,7 @@ The reason FinWiki keeps nine categories (rather than the conventional three of 
 | 8 | Microcredit | マイクロクレジット | Money-Lending Act (often) or social-finance route | FSA where 貸金業; MHLW for some social-credit channels |
 | 9 | PSP-adjacent credit (embedded EC credit) | PSP 内蔵後払い / EC 埋込型クレジット | Installment Sales Act + Funds-Transfer/Prepaid where wallet-linked | METI + FSA (boundary case) |
 
-Each row is an independent license stack. An operator that holds more than one is **not** automatically a holding company — it is more often a multi-licensed sales-finance / consumer-credit operator (e.g., [[JapanFG/orico|Orico]] holds 包括信用購入あっせん, 個別信用購入あっせん, and 貸金業 simultaneously; [[JapanFG/aiful|AIFUL]] holds 貸金業 + 包括信用購入あっせん through Life Card; [[JapanFG/jaccs|JACCS]] holds all three plus 包括信用購入あっせん + 個別信用購入あっせん).
+Each row is an independent license stack. An operator that holds more than one is **not** automatically a holding company — it is more often a multi-licensed sales-finance / consumer-credit operator (e.g., [[card-issuers/orico|Orico]] holds 包括信用購入あっせん, 個別信用購入あっせん, and 貸金業 simultaneously; [[consumer-finance/aiful|AIFUL]] holds 貸金業 + 包括信用購入あっせん through Life Card; [[card-issuers/jaccs|JACCS]] holds all three plus 包括信用購入あっせん + 個別信用購入あっせん).
 
 ## Comparison matrix — full
 
@@ -80,26 +80,26 @@ Each row is an independent license stack. An operator that holds more than one i
 | **Reporting registry route** | METI 登録包括信用購入あっせん業者 PDF list | FSA 貸金業者登録 list (中央 + 都道府県) | METI 登録個別信用購入あっせん業者 PDF list | METI 登録 (where applicable) + 後払い行政処分状況 page | METI 個別/包括 lists | JHF 取扱金融機関一覧 + JHF 直接 | Bank loan products in 全銀協 disclosure; JFC product page | FSA 貸金業者登録 list | METI + FSA cross-registry |
 | **Recent regulatory pressure** | 改正割賦販売法 (2018, 2020, 2024 BNPL clarification); J-CSC guideline 6.0/6.1 (EMV 3-DS mandatory 2025-03 for EC) | 改正貸金業法 (2010-06 full enforcement: 20% cap + 1/3 总量規制); 過払金 wind-down | 改正割賦販売法 (2018 加盟店調査強化); 2020 amendment for 認定包括/少額包括 | 2024 BNPL clarification under Installment Sales Act amendment; CAA / 消費者庁 warnings on cash-conversion abuse | EV / KINTO subscription transition pressure; OEM captive consolidation discussion | フラット 35 不正利用問題 (2019-) + JHF investor base shift | None major; education-loan demand pressure as tuition rises | Limited national framework; 社会的金融 discussions ongoing | METI + FSA boundary clarification on embedded checkout credit |
 | **Securitization / ABS pipeline** | Heavy — credit-card receivables ABS (V-RACE, S-RACE, Rakuten Card ABS routine issuance) | Heavy — consumer-loan ABS routine for ACOM / SMBCCF / AIFUL | Heavy — auto-loan ABS (オート / shopping-credit ABS routine) | Emerging — Paidy receivables securitization route under PayPal | Heavy — Toyota Finance / Honda Finance / Nissan Financial auto ABS routine | Heavy — フラット 35 MBS routine issuance by JHF (機構 MBS, Japan's largest MBS issuer) | Limited — bank-loan portfolio rarely securitized for education-only pool | Minimal | Minimal |
-| **Bank-adjacency** | Megabank-FG aligned: [[JapanFG/smbc-card\|SMBC Card]] (SMFG), [[JapanFG/mufg-nicos\|MUFG NICOS]] (MUFG), [[JapanFG/jcb\|JCB]] (multi-bank), [[JapanFG/rakuten-card\|Rakuten Card]] (Rakuten FG), [[JapanFG/paypay-card\|PayPay Card]] (PayPay FG) | Mixed: [[JapanFG/smbc-consumer-finance\|SMBC Consumer Finance / Promise]] (SMFG 100%), [[JapanFG/acom\|ACOM]] (MUFG 39.6% equity-method), [[JapanFG/aiful\|AIFUL]] (independent) | Bank-FG aligned: [[JapanFG/jaccs\|JACCS]] (MUFG equity-method), [[JapanFG/orico\|Orico]] (Mizuho + Itochu), [[JapanFG/aplus\|APLUS]] (SBI Shinsei), Credit Saison (independent / Mizuho-adjacent) | Mostly non-bank: Paidy (PayPal), Atone (Net Protections), NP後払い (Net Protections) — but bank-FG card issuers also extend BNPL-like products | OEM-captive: Toyota Finance (Toyota), Honda Finance, Nissan Financial Services — non-bank captive, sometimes bank-partnered | Bank-fronted (民間): all megabanks + 地銀; JHF is policy-finance non-bank | Bank-fronted (民間 education loan); JFC is policy-finance non-bank | Often non-bank social-finance + 貸金業 small ops | Bank-FG aligned if parent PSP is bank-adjacent |
+| **Bank-adjacency** | Megabank-FG aligned: [[card-issuers/smbc-card\|SMBC Card]] (SMFG), [[card-issuers/mufg-nicos\|MUFG NICOS]] (MUFG), [[card-issuers/jcb\|JCB]] (multi-bank), [[card-issuers/rakuten-card\|Rakuten Card]] (Rakuten FG), [[card-issuers/paypay-card\|PayPay Card]] (PayPay FG) | Mixed: [[consumer-finance/smbc-consumer-finance\|SMBC Consumer Finance / Promise]] (SMFG 100%), [[consumer-finance/acom\|ACOM]] (MUFG 39.6% equity-method), [[consumer-finance/aiful\|AIFUL]] (independent) | Bank-FG aligned: [[card-issuers/jaccs\|JACCS]] (MUFG equity-method), [[card-issuers/orico\|Orico]] (Mizuho + Itochu), [[card-issuers/aplus\|APLUS]] (SBI Shinsei), Credit Saison (independent / Mizuho-adjacent) | Mostly non-bank: Paidy (PayPal), Atone (Net Protections), NP後払い (Net Protections) — but bank-FG card issuers also extend BNPL-like products | OEM-captive: Toyota Finance (Toyota), Honda Finance, Nissan Financial Services — non-bank captive, sometimes bank-partnered | Bank-fronted (民間): all megabanks + 地銀; JHF is policy-finance non-bank | Bank-fronted (民間 education loan); JFC is policy-finance non-bank | Often non-bank social-finance + 貸金業 small ops | Bank-FG aligned if parent PSP is bank-adjacent |
 | **Card brand acceptance dependency** | Direct — issuer carries Visa / Mastercard / JCB / Amex / Diners brand | None (cash loan, not card-brand-routed) | Mixed — many shinpan also issue branded cards (Orico Card, JACCS Card) | Generally none at point-of-checkout (operator-direct), though some BNPL extends a virtual brand-card | None at the loan-product level | None at the loan-product level | None | None | Depends — some PSP credit routes through brand card backend |
 
 ### 1. Card issuer (クレジットカード会社 / 包括信用購入あっせん業者)
 
-Card issuers are **包括信用購入あっせん業者** under the Installment Sales Act, registered with METI (241 registrations as of 2026-04 month-end per the METI 登録包括信用購入あっせん業者 list). The card issuer is the entity that screens cardholders, sets credit limits, books the receivable, and runs fraud monitoring. Bank-FG anchors: [[JapanFG/smbc-card|SMBC Card]] (SMFG), [[JapanFG/mufg-nicos|MUFG NICOS]] (MUFG), [[JapanFG/jcb|JCB]] (multi-bank consortium). Non-bank-FG anchors: [[JapanFG/rakuten-card|Rakuten Card]] (Rakuten FG), [[JapanFG/paypay-card|PayPay Card]] (PayPay FG), [[JapanFG/aeon-financial-service|AEON Financial Service]] (AEON retail-FG).
+Card issuers are **包括信用購入あっせん業者** under the Installment Sales Act, registered with METI (241 registrations as of 2026-04 month-end per the METI 登録包括信用購入あっせん業者 list). The card issuer is the entity that screens cardholders, sets credit limits, books the receivable, and runs fraud monitoring. Bank-FG anchors: [[card-issuers/smbc-card|SMBC Card]] (SMFG), [[card-issuers/mufg-nicos|MUFG NICOS]] (MUFG), [[card-issuers/jcb|JCB]] (multi-bank consortium). Non-bank-FG anchors: [[card-issuers/rakuten-card|Rakuten Card]] (Rakuten FG), [[card-issuers/paypay-card|PayPay Card]] (PayPay FG), [[card-issuers/aeon-financial-service|AEON Financial Service]] (AEON retail-FG).
 
 Cash-advance (キャッシング) inside a card product crosses into the 貸金業 regime — that portion is subject to 総量規制 (1/3 of income cap) and the 利息制限法 20% interest cap, while the **shopping** portion is governed by the Installment Sales Act 支払可能見込額調査 rather than 総量規制. This dual-regime structure is unique to card issuers.
 
 ### 2. Consumer finance / shoko-loan (消費者金融 / 貸金業者)
 
-Consumer finance operators are 貸金業者 under the Money-Lending Business Act (貸金業法), registered with FSA via 中央 (財務局) or 都道府県 routes. The current "3 大消費者金融" are [[JapanFG/acom|ACOM]] (MUFG equity-method 39.6%), [[JapanFG/smbc-consumer-finance|SMBC Consumer Finance / Promise]] (SMFG 100% subsidiary), and [[JapanFG/aiful|AIFUL]] (independent, founder-family controlled). After 武富士 collapsed via 会社更生 in 2010, the segment consolidated around these three.
+Consumer finance operators are 貸金業者 under the Money-Lending Business Act (貸金業法), registered with FSA via 中央 (財務局) or 都道府県 routes. The current "3 大消費者金融" are [[consumer-finance/acom|ACOM]] (MUFG equity-method 39.6%), [[consumer-finance/smbc-consumer-finance|SMBC Consumer Finance / Promise]] (SMFG 100% subsidiary), and [[consumer-finance/aiful|AIFUL]] (independent, founder-family controlled). After 武富士 collapsed via 会社更生 in 2010, the segment consolidated around these three.
 
-The defining regulatory event is the **改正貸金業法** that fully enforced in 2010-06: 利息制限法 cap of 20% (15% / 18% / 20% tiered by principal size) replaced the old 出資法 29.2% gray-zone, and 総量規制 (1/3 of annual income hard cap) became binding. The 過払金 (overcharged-interest refund) wave that followed is responsible for the [[JapanFG/aiful|AIFUL]] 事業再生 ADR (2009-09), the MUFG TOB of [[JapanFG/acom|ACOM]] (2008-10), and the SMFG full-subsidiary-isation of Promise.
+The defining regulatory event is the **改正貸金業法** that fully enforced in 2010-06: 利息制限法 cap of 20% (15% / 18% / 20% tiered by principal size) replaced the old 出資法 29.2% gray-zone, and 総量規制 (1/3 of annual income hard cap) became binding. The 過払金 (overcharged-interest refund) wave that followed is responsible for the [[consumer-finance/aiful|AIFUL]] 事業再生 ADR (2009-09), the MUFG TOB of [[consumer-finance/acom|ACOM]] (2008-10), and the SMFG full-subsidiary-isation of Promise.
 
 The bank-side workaround is **銀行カードローン** — bank-issued products are governed by the Banking Act and historically did not face 総量規制, which triggered an industry self-regulation discussion around "実質総量規制超過" lending. ACOM、Promise、AIFUL all run a 銀行保証 sideline that books revenue from guaranteeing bank-cardloan exposure.
 
 ### 3. Installment credit / shinpan (信販会社 / 個別信用購入あっせん業者)
 
-Shinpan operators are **個別信用購入あっせん業者** under the Installment Sales Act (138 registrations as of 2026-04 month-end per METI 登録個別信用購入あっせん業者 list). The distinguishing feature is that the loan is tied to a specific purchase (個品割賦), often via a merchant agreement (加盟店) — auto-dealership ローン, リフォームローン, 教育ローン (private side), 楽器 / 家電 / 医療 / 住宅設備. Anchors: [[JapanFG/orico|Orico]] (Mizuho + Itochu, auto-loan #1), [[JapanFG/jaccs|JACCS]] (MUFG equity-method, auto/education/reform 3 lanes), [[JapanFG/aplus|APLUS]] (SBI Shinsei), Credit Saison (independent / Mizuho-adjacent, card-heavy).
+Shinpan operators are **個別信用購入あっせん業者** under the Installment Sales Act (138 registrations as of 2026-04 month-end per METI 登録個別信用購入あっせん業者 list). The distinguishing feature is that the loan is tied to a specific purchase (個品割賦), often via a merchant agreement (加盟店) — auto-dealership ローン, リフォームローン, 教育ローン (private side), 楽器 / 家電 / 医療 / 住宅設備. Anchors: [[card-issuers/orico|Orico]] (Mizuho + Itochu, auto-loan #1), [[card-issuers/jaccs|JACCS]] (MUFG equity-method, auto/education/reform 3 lanes), [[card-issuers/aplus|APLUS]] (SBI Shinsei), Credit Saison (independent / Mizuho-adjacent, card-heavy).
 
 Shinpan operators typically hold **multiple licenses** — they almost always combine 個別信用購入あっせん with 包括信用購入あっせん (for their issued cards), 貸金業 (for カードローン), 銀行保証 (for bank-cardloan guarantee), and often 集金代行 (for B2B 公共料金 / 継続課金 collection). The 2018 改正割賦販売法 strengthened 加盟店調査 obligation, which raised onboarding cost for marginal merchant relationships.
 
@@ -107,11 +107,11 @@ Shinpan operators typically hold **multiple licenses** — they almost always co
 
 BNPL is the **most regulatory-ambiguous** category. Under the Installment Sales Act, deferred-payment of **≤ 2 months and single-payment** is generally not 包括信用購入あっせん, and individual deferred-payment under certain merchant-fronted models can avoid 個別信用購入あっせん registration via 加盟店表示 routes. The 2020 改正割賦販売法 (effective 2021-04) added an 認定包括信用購入あっせん業者 / 少額包括信用購入あっせん業者 framework explicitly to bring some BNPL operators under a lighter version of the 包括 regime; the 2024 BNPL clarification round continued tightening.
 
-Anchor: [[JapanFG/paidy|Paidy]] (acquired by PayPal 2021-09 for ~ USD 2.7 bn), Atone / NP後払い (Net Protections). The [[payments/japan-bnpl-credit-purchase-boundary|BNPL boundary]] page walks through the per-product classification test. The Consumer Affairs Agency (消費者庁 / CAA) maintains an active warning channel on **cash-conversion abuse** of BNPL (現金化目的後払い) and on UX patterns that make deferred-payment feel cash-like — see CAA's payment-trouble caution page.
+Anchor: [[payment-firms/paidy|Paidy]] (acquired by PayPal 2021-09 for ~ USD 2.7 bn), Atone / NP後払い (Net Protections). The [[payments/japan-bnpl-credit-purchase-boundary|BNPL boundary]] page walks through the per-product classification test. The Consumer Affairs Agency (消費者庁 / CAA) maintains an active warning channel on **cash-conversion abuse** of BNPL (現金化目的後払い) and on UX patterns that make deferred-payment feel cash-like — see CAA's payment-trouble caution page.
 
 ### 5. Auto finance / auto-captive (自動車ローン / オートクレジット)
 
-Auto-finance has two structural shapes: (a) shinpan-fronted auto-loan (e.g., [[JapanFG/orico|Orico]] is the domestic #1 in auto-loan, [[JapanFG/jaccs|JACCS]] is #2-3) booked through dealership 加盟店 networks under the Installment Sales Act, and (b) **OEM auto-captive** — Toyota Finance (Toyota), Honda Finance, Nissan Financial Services, Mitsubishi UFJ Lease & Finance (now Mitsubishi HC Capital), etc. — that exists primarily to underwrite the parent OEM's vehicle sales.
+Auto-finance has two structural shapes: (a) shinpan-fronted auto-loan (e.g., [[card-issuers/orico|Orico]] is the domestic #1 in auto-loan, [[card-issuers/jaccs|JACCS]] is #2-3) booked through dealership 加盟店 networks under the Installment Sales Act, and (b) **OEM auto-captive** — Toyota Finance (Toyota), Honda Finance, Nissan Financial Services, Mitsubishi UFJ Lease & Finance (now Mitsubishi HC Capital), etc. — that exists primarily to underwrite the parent OEM's vehicle sales.
 
 OEM-captive booking is typically Installment Sales Act 個別 + 包括 (for the OEM-branded card if any) + 貸金業 in some cases. The OEM provides explicit or implicit credit support (residual-value guarantee for KINTO-style subscription), which reduces the captive's bad-debt provisioning need relative to a standalone shinpan auto-loan book. The auto-ABS market is the largest non-MBS Japanese consumer-loan ABS segment — Toyota Finance is the routine benchmark issuer. EV / KINTO subscription / car-sharing trends are the structural pressure on the dealership-credit channel that both shinpan-fronted and captive-fronted auto-loan share.
 
@@ -125,7 +125,7 @@ Regulator: MLIT (国交省) is the primary supervisor for JHF (housing-policy si
 
 Education loan splits along the **public / private** line. The private side is offered by banks under the Banking Act (no Installment Sales Act registration, since it is a 民間ローン), often packaged as an unsecured 教育目的ローン product. The public side is operated by **国民金融公庫 / Japan Finance Corporation (JFC / 日本政策金融公庫)** under the JFC Act — JFC's 教育一般貸付 is the primary 公的 education loan, at fixed low rates relative to 民間 bank products. JFC is supervised by MOF (財務省).
 
-Education-loan books are not routinely securitized as standalone education-loan ABS — bank-side exposure sits inside the broader unsecured-consumer-loan book. Shinpan operators (e.g., [[JapanFG/jaccs|JACCS]]) also offer 教育ローン through educational-institution 加盟店 channels under the Installment Sales Act 個別 route, which is the third routing path for education credit alongside bank-民間 and JFC-公的.
+Education-loan books are not routinely securitized as standalone education-loan ABS — bank-side exposure sits inside the broader unsecured-consumer-loan book. Shinpan operators (e.g., [[card-issuers/jaccs|JACCS]]) also offer 教育ローン through educational-institution 加盟店 channels under the Installment Sales Act 個別 route, which is the third routing path for education credit alongside bank-民間 and JFC-公的.
 
 ### 8. Microcredit (マイクロクレジット)
 
@@ -137,7 +137,7 @@ Social-finance and NPO-routed small-ticket lending channels exist (e.g., 生活�
 
 PSP-adjacent credit is the **boundary case** for the comparison matrix. When a PSP (payment service provider) or wallet operator extends a checkout-time credit product, the receivable can be booked under (a) Installment Sales Act if the operator holds 個別 / 包括 信用購入あっせん registration, (b) Payment Services Act 資金移動業 if structured as a wallet-balance advance, (c) Payment Services Act 第三者型前払 if structured as prepaid stored-value extended, or (d) Money-Lending Act in rare structured cases. The same checkout UX can therefore translate to different licenses depending on which legal entity actually books the receivable.
 
-This category exists because of operators like Mercari/Merpay (where the 後払い feature crosses funds-transfer + 後払い lines), PayPay (where あと払い uses [[JapanFG/paypay-card|PayPay Card]] as the credit booking entity), and platform-side credit extensions from EC marketplaces. The [[payments/japan-bnpl-credit-purchase-boundary|BNPL boundary]] page and the [[JapanFG/legal-financial-licenses/payment-license-stack|payment license stack]] page give the per-product classification test.
+This category exists because of operators like Mercari/Merpay (where the 後払い feature crosses funds-transfer + 後払い lines), PayPay (where あと払い uses [[card-issuers/paypay-card|PayPay Card]] as the credit booking entity), and platform-side credit extensions from EC marketplaces. The [[payments/japan-bnpl-credit-purchase-boundary|BNPL boundary]] page and the [[financial-licenses/payment-license-stack|payment license stack]] page give the per-product classification test.
 
 ## Credit-information bureau footprint
 
@@ -157,11 +157,11 @@ Reading category 1, 2, 3, 4, 5, 6, 7 together, the bank-FG adjacency picture for
 
 | FG | Card issuer | Consumer finance | Shinpan | Notes |
 |---|---|---|---|---|
-| [[JapanFG/mufg|MUFG]] | [[JapanFG/mufg-nicos|MUFG NICOS]] (100%) | [[JapanFG/acom|ACOM]] (39.6% equity-method) | [[JapanFG/jaccs|JACCS]] (equity-method) | 3-line consumer credit footprint inside one FG |
-| [[JapanFG/smfg|SMFG]] | [[JapanFG/smbc-card|SMBC Card]] (100%) | [[JapanFG/smbc-consumer-finance|SMBC Consumer Finance / Promise]] (100%) | (no major shinpan in-house; partners with Credit Saison and others) | 2-line, with shinpan as partnership rather than ownership |
-| [[JapanFG/mizuho-fg|Mizuho FG]] | (UC Card legacy; partnership) | (no major standalone) | [[JapanFG/orico|Orico]] (equity-method + Itochu) | Shinpan-heavy, card-light |
-| [[JapanFG/sbi-shinsei-bank|SBI Shinsei]] | (Shinsei Financial card products) | Shinsei Financial / レイクALSA (旧 GE 系) | [[JapanFG/aplus|APLUS]] (group company) | Heavy consumer-credit FG via legacy GE / Lake / APLUS book |
-| Independent / non-bank-FG | [[JapanFG/rakuten-card|Rakuten Card]], [[JapanFG/paypay-card|PayPay Card]], [[JapanFG/aeon-financial-service|AEON Financial Service]] | [[JapanFG/aiful|AIFUL]] (founder-family) | Credit Saison (independent), [[JapanFG/aplus|APLUS]] (SBI-side) | Where bank-FG ownership is absent or partial |
+| [[megabanks/mufg|MUFG]] | [[card-issuers/mufg-nicos|MUFG NICOS]] (100%) | [[consumer-finance/acom|ACOM]] (39.6% equity-method) | [[card-issuers/jaccs|JACCS]] (equity-method) | 3-line consumer credit footprint inside one FG |
+| [[megabanks/smfg|SMFG]] | [[card-issuers/smbc-card|SMBC Card]] (100%) | [[consumer-finance/smbc-consumer-finance|SMBC Consumer Finance / Promise]] (100%) | (no major shinpan in-house; partners with Credit Saison and others) | 2-line, with shinpan as partnership rather than ownership |
+| [[megabanks/mizuho-fg|Mizuho FG]] | (UC Card legacy; partnership) | (no major standalone) | [[card-issuers/orico|Orico]] (equity-method + Itochu) | Shinpan-heavy, card-light |
+| [[regional-banks/sbi-shinsei-bank|SBI Shinsei]] | (Shinsei Financial card products) | Shinsei Financial / レイクALSA (旧 GE 系) | [[card-issuers/aplus|APLUS]] (group company) | Heavy consumer-credit FG via legacy GE / Lake / APLUS book |
+| Independent / non-bank-FG | [[card-issuers/rakuten-card|Rakuten Card]], [[card-issuers/paypay-card|PayPay Card]], [[card-issuers/aeon-financial-service|AEON Financial Service]] | [[consumer-finance/aiful|AIFUL]] (founder-family) | Credit Saison (independent), [[card-issuers/aplus|APLUS]] (SBI-side) | Where bank-FG ownership is absent or partial |
 
 The MUFG 3-line footprint (NICOS card + ACOM consumer finance + JACCS shinpan) is the single most concentrated bank-FG position in Japanese consumer credit. Whether MUFG eventually consolidates that into a unified consumer-credit subsidiary, or keeps them as separate listed/equity-method entities, is a long-running structural question.
 
@@ -171,8 +171,8 @@ The MUFG 3-line footprint (NICOS card + ACOM consumer finance + JACCS shinpan) i
 |---|---|---|
 | 2006-01-13 | Supreme Court | グレーゾーン金利 ruling effectively voided the 貸金業法 みなし弁済 provision, triggering 過払金 refund wave |
 | 2006-12 | National Diet | 改正貸金業法 passed (20% interest cap + 1/3 total-volume cap) |
-| 2008-04 | FSA | Business improvement order against [[JapanFG/aiful|AIFUL]] (collection-practice issue), entire-business suspension order |
-| 2008-10-22 | MUFG TOB | MUFG acquired ~ 40% of [[JapanFG/acom|ACOM]], equity-method consolidation |
+| 2008-04 | FSA | Business improvement order against [[consumer-finance/aiful|AIFUL]] (collection-practice issue), entire-business suspension order |
+| 2008-10-22 | MUFG TOB | MUFG acquired ~ 40% of [[consumer-finance/acom|ACOM]], equity-method consolidation |
 | 2010-06 | FSA | 改正貸金業法 fully enforced (20% cap + 1/3 total-volume cap, 完全施行) |
 | 2010-09 | 武富士 | Takefuji filed 会社更生 (corporate reorganization), industry consolidates to 3 大消費者金融 |
 | 2018 | METI | 改正割賦販売法 — strengthened 加盟店調査 obligation, card-data security stack |
@@ -210,22 +210,22 @@ The ABS dimension matters for understanding **how each operator funds itself** �
 - [[payments/japan-interchange-and-merchant-fee-stack]]
 - [[payments/japan-card-security-authentication-controls]]
 - [[payments/cashless-jp-landscape]]
-- [[JapanFG/legal-financial-licenses/payment-license-stack]]
-- [[JapanFG/legal-financial-licenses/INDEX]]
-- [[JapanFG/acom]]
-- [[JapanFG/aiful]]
-- [[JapanFG/smbc-consumer-finance]]
-- [[JapanFG/aplus]]
-- [[JapanFG/jaccs]]
-- [[JapanFG/orico]]
-- [[JapanFG/smbc-card]]
-- [[JapanFG/mufg-nicos]]
-- [[JapanFG/jcb]]
-- [[JapanFG/rakuten-card]]
-- [[JapanFG/paypay-card]]
-- [[JapanFG/aeon-financial-service]]
-- [[JapanFG/paidy]]
-- [[JapanFG/bnpl-landscape]]
+- [[financial-licenses/payment-license-stack]]
+- [[financial-licenses/INDEX]]
+- [[consumer-finance/acom]]
+- [[consumer-finance/aiful]]
+- [[consumer-finance/smbc-consumer-finance]]
+- [[card-issuers/aplus]]
+- [[card-issuers/jaccs]]
+- [[card-issuers/orico]]
+- [[card-issuers/smbc-card]]
+- [[card-issuers/mufg-nicos]]
+- [[card-issuers/jcb]]
+- [[card-issuers/rakuten-card]]
+- [[card-issuers/paypay-card]]
+- [[card-issuers/aeon-financial-service]]
+- [[payment-firms/paidy]]
+- [[payment-firms/bnpl-landscape]]
 - [[policy-finance/japan-housing-finance-agency]]
 - [[INDEX|FinWiki index]]
 
@@ -248,4 +248,4 @@ The ABS dimension matters for understanding **how each operator funds itself** �
 - JHF (住宅金融支援機構): https://www.jhf.go.jp/
 - JFC (日本政策金融公庫): https://www.jfc.go.jp/
 - CAA (消費者庁) payment-trouble caution: https://www.caa.go.jp/policies/policy/consumer_policy/caution/internet/trouble/payment.html
-- Each operator's IR / corporate disclosure (公開分): [[JapanFG/acom|ACOM]] (TSE STD 8572), [[JapanFG/aiful|AIFUL]] (TSE PRIME 8515), [[JapanFG/jaccs|JACCS]] (TSE PRIME 8584), [[JapanFG/orico|Orico]] (TSE PRIME 8585), [[JapanFG/aplus|APLUS]] (SBI Group corporate site), [[JapanFG/smbc-consumer-finance|SMBC Consumer Finance / Promise]] (SMFG consolidated)
+- Each operator's IR / corporate disclosure (公開分): [[consumer-finance/acom|ACOM]] (TSE STD 8572), [[consumer-finance/aiful|AIFUL]] (TSE PRIME 8515), [[card-issuers/jaccs|JACCS]] (TSE PRIME 8584), [[card-issuers/orico|Orico]] (TSE PRIME 8585), [[card-issuers/aplus|APLUS]] (SBI Group corporate site), [[consumer-finance/smbc-consumer-finance|SMBC Consumer Finance / Promise]] (SMFG consolidated)

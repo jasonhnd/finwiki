@@ -1,0 +1,93 @@
+{
+  "schema_version": "1.0",
+  "slug": "foreign-financial-institutions/banco-do-brasil-japan",
+  "source_path": "foreign-financial-institutions/banco-do-brasil-japan.md",
+  "url": "https://finwiki.zksc.io/foreign-financial-institutions/banco-do-brasil-japan",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/foreign-financial-institutions/banco-do-brasil-japan.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/foreign-financial-institutions/banco-do-brasil-japan.md",
+  "domain": "foreign-financial-institutions",
+  "title": "ブラジル銀行日本 (Banco do Brasil Japan)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "ブラジル銀行日本 (Banco do Brasil Japan)",
+    "aliases": [
+      "Banco do Brasil Japan",
+      "Banco do Brasil Tokyo Branch",
+      "Banco do Brasil S.A. Tokyo Branch",
+      "ブラジル銀行",
+      "BB Japão"
+    ],
+    "domain": "foreign-financial-institutions",
+    "created": "2026-05-22",
+    "last_updated": "2026-05-22",
+    "last_tended": "2026-05-22",
+    "review_by": "2026-11-22",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "foreign-bank",
+      "Brazil",
+      "remittance",
+      "trade-finance",
+      "diaspora-banking"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.pdf",
+      "https://www.fsa.go.jp/menkyo/dairi_g.pdf",
+      "https://www.bb.com.br/site/japao/",
+      "https://www.bb.com.br/site/japao/transferencia-bancaria/",
+      "https://www.bb.com.br/site/japao/pessoa-juridica/operacoes-internacionais/",
+      "https://www.fsa.go.jp/news/newse/e20041216-1.html"
+    ]
+  },
+  "summary": "Banco do Brasil Japan sits under JapanFG index and is the Brazil-Japan foreign-bank branch route in the foreign-bank branch registry. Read it with funds-transfer registry, foreign-bank branch route, foreign-bank agency route, and cross-border finance.",
+  "headings": [
+    "ブラジル銀行日本 (Banco do Brasil Japan)",
+    "Wiki route",
+    "Overview",
+    "Entity Boundary",
+    "Business Role Map",
+    "Public Context",
+    "Research Checklist",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 11,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/INDEX",
+      "finance/cross-border-m-a-japan",
+      "financial-licenses/foreign-bank-agency-business-route",
+      "financial-licenses/foreign-bank-branch-license-route",
+      "foreign-financial-institutions/foreign-bank-branches-japan-index",
+      "foreign-financial-institutions/metrobank-japan",
+      "foreign-financial-institutions/philippine-national-bank-japan",
+      "megabanks/mufg-bank",
+      "megabanks/sumitomo-mitsui-banking-corp",
+      "payments/funds-transfer-service-providers-japan-index"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/finance/cross-border-m-a-japan",
+      "https://finwiki.zksc.io/financial-licenses/foreign-bank-agency-business-route",
+      "https://finwiki.zksc.io/financial-licenses/foreign-bank-branch-license-route",
+      "https://finwiki.zksc.io/foreign-financial-institutions/foreign-bank-branches-japan-index",
+      "https://finwiki.zksc.io/foreign-financial-institutions/metrobank-japan",
+      "https://finwiki.zksc.io/foreign-financial-institutions/philippine-national-bank-japan",
+      "https://finwiki.zksc.io/megabanks/mufg-bank",
+      "https://finwiki.zksc.io/megabanks/sumitomo-mitsui-banking-corp",
+      "https://finwiki.zksc.io/payments/funds-transfer-service-providers-japan-index"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 4531,
+    "word_like_tokens": 715,
+    "inbound_wikilinks_count": 3,
+    "last_modified": "2026-06-04"
+  }
+}

@@ -12,7 +12,7 @@ translated_at: 2026-06-01T03:31:12.240Z
 
 ## Wiki route
 
-This entry sits under [[payments/INDEX|payments index]] as the chronological incident-and-enforcement page that pairs with [[payments/japan-card-security-authentication-controls|Japan card security and authentication controls]] for the J-CSC guideline 6.0 / 6.1 control framework, with [[payments/japan-bank-api-incident-and-fraud-control|Japan bank API incident and fraud control]] for the bank-rail specific fraud surface, and with [[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]] for the four-class context. Compare with [[payments/japan-card-issuer-acquirer-processor-split|card role split]] for which party bears chargeback risk on each incident class, with [[payments/psp-merchant-settlement-risk|PSP merchant settlement risk]] for PSP-onboarding failure cases, and with [[payments/japan-bnpl-credit-purchase-boundary|BNPL / credit-purchase boundary]] for cash-out-via-pay-later abuse. Card-brand context is [[JapanFG/visa-worldwide-japan|Visa Worldwide Japan]], [[JapanFG/mastercard-japan|Mastercard Japan]], [[JapanFG/jcb|JCB]]; major card-issuer anchors are [[JapanFG/mufg-nicos|MUFG NICOS]], [[JapanFG/rakuten-card|Rakuten Card]], [[JapanFG/aeon-financial-service|AEON Financial Service]].
+This entry sits under [[payments/INDEX|payments index]] as the chronological incident-and-enforcement page that pairs with [[payments/japan-card-security-authentication-controls|Japan card security and authentication controls]] for the J-CSC guideline 6.0 / 6.1 control framework, with [[payments/japan-bank-api-incident-and-fraud-control|Japan bank API incident and fraud control]] for the bank-rail specific fraud surface, and with [[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]] for the four-class context. Compare with [[payments/japan-card-issuer-acquirer-processor-split|card role split]] for which party bears chargeback risk on each incident class, with [[payments/psp-merchant-settlement-risk|PSP merchant settlement risk]] for PSP-onboarding failure cases, and with [[payments/japan-bnpl-credit-purchase-boundary|BNPL / credit-purchase boundary]] for cash-out-via-pay-later abuse. Card-brand context is [[payment-firms/visa-worldwide-japan|Visa Worldwide Japan]], [[payment-firms/mastercard-japan|Mastercard Japan]], [[card-issuers/jcb|JCB]]; major card-issuer anchors are [[card-issuers/mufg-nicos|MUFG NICOS]], [[card-issuers/rakuten-card|Rakuten Card]], [[card-issuers/aeon-financial-service|AEON Financial Service]].
 
 ## TL;DR
 
@@ -147,12 +147,12 @@ The principal operator-side leverage points are steps 5-7. The 2024-2025 enhance
 - [[payments/japan-payment-scheme-economics-matrix]]
 - [[payments/japan-code-payment-competitive-map]]
 - [[payments/cashless-jp-landscape]]
-- [[JapanFG/jcb]]
-- [[JapanFG/mufg-nicos]]
-- [[JapanFG/rakuten-card]]
-- [[JapanFG/aeon-financial-service]]
-- [[JapanFG/paypay]]
-- [[JapanFG/au-payment]]
+- [[card-issuers/jcb]]
+- [[card-issuers/mufg-nicos]]
+- [[card-issuers/rakuten-card]]
+- [[card-issuers/aeon-financial-service]]
+- [[payment-firms/paypay]]
+- [[payment-firms/au-payment]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

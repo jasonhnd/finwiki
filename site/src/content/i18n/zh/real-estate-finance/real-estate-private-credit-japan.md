@@ -11,11 +11,11 @@ translated_at: 2026-06-01T03:31:12.299Z
 
 ## TL;DR
 
-日本房地产私人信贷是与 [[real-estate-finance/bank-commercial-real-estate-lending-japan|bank CRE lending]] 并行存在的分层非银行融资市场。这个市场有两条截然不同的部署路线：一是外资普通合伙人（GP）进入者（Blackstone、KKR、Apollo、Brookfield 等）将跨境房地产债务策略投向日本；二是在日本设立的私人信贷锚点（[[JapanFG/dbj]]、[[JapanFG/mitsubishi-ufj-trust-bank]]、[[JapanFG/sumitomo-mitsui-trust]]，以及大型银行关联金融子公司）运作国内资产负债表式私人信贷。产品类型包括桥接贷款、夹层融资和优先股权，目标回报从 senior-stretch（低到中个位数）到深度优先股权（中到高十位数）递增。本页仅用于路线和链接说明，不构成投资建议。
+日本房地产私人信贷是与 [[real-estate-finance/bank-commercial-real-estate-lending-japan|bank CRE lending]] 并行存在的分层非银行融资市场。这个市场有两条截然不同的部署路线：一是外资普通合伙人（GP）进入者（Blackstone、KKR、Apollo、Brookfield 等）将跨境房地产债务策略投向日本；二是在日本设立的私人信贷锚点（[[financial-regulators/dbj]]、[[trust-banks/mitsubishi-ufj-trust-bank]]、[[trust-banks/sumitomo-mitsui-trust]]，以及大型银行关联金融子公司）运作国内资产负债表式私人信贷。产品类型包括桥接贷款、夹层融资和优先股权，目标回报从 senior-stretch（低到中个位数）到深度优先股权（中到高十位数）递增。本页仅用于路线和链接说明，不构成投资建议。
 
 ## Wiki 路线
 
-本条目位于 [[real-estate-finance/INDEX]] 之下，是 [[real-estate-finance/bank-commercial-real-estate-lending-japan|bank CRE lending]] 的非银行侧对应项。阅读时可结合 [[real-estate-finance/real-estate-cap-rate-compression-2026|cap-rate compression]] 理解为私人信贷定价设定框架的资产侧收益底线背景，结合 [[real-estate-finance/j-reit-market-overview|J-REIT market overview]] 理解 J-REIT sponsor warehouse 用例，结合 [[real-estate-finance/jrei-foreign-investment-tax-treatment|foreign-investment tax treatment]] 理解 TK / GK-TK / TMK 结构细节，结合 [[real-estate-finance/japan-real-estate-appraisal-methodology|appraisal methodology]] 理解 LTV / DSCR 承销框架，并结合 [[real-estate-finance/j-reit-foreign-investor-ownership]] 理解外资 GP 的股权侧对应项。国内金融锚点为 [[JapanFG/dbj]]、[[JapanFG/mitsubishi-ufj-trust-bank]]、[[JapanFG/sumitomo-mitsui-trust]]。大型银行侧参考为 [[JapanFG/mufg-bank]]、[[JapanFG/sumitomo-mitsui-banking-corp]]、[[JapanFG/mizuho-bank]]。关于 PE / 私人金融纪律及更广泛的 private capital 路由，可交叉链接到 [[finance/japan-private-equity-operating-model]]、[[finance/japan-private-equity-fund-structure-matrix]] 和 [[finance/INDEX|finance index]]。保险公司对私人信贷回报溢价的需求通过 [[insurance/japan-life-insurance-alm-overview]] 和 [[money-market/japan-money-market]] 连接到利率环境背景。银行体系框架位于 [[banking/INDEX]]，区域银行整合背景位于 [[banking/regional-bank-consolidation-pattern]]。
+本条目位于 [[real-estate-finance/INDEX]] 之下，是 [[real-estate-finance/bank-commercial-real-estate-lending-japan|bank CRE lending]] 的非银行侧对应项。阅读时可结合 [[real-estate-finance/real-estate-cap-rate-compression-2026|cap-rate compression]] 理解为私人信贷定价设定框架的资产侧收益底线背景，结合 [[real-estate-finance/j-reit-market-overview|J-REIT market overview]] 理解 J-REIT sponsor warehouse 用例，结合 [[real-estate-finance/jrei-foreign-investment-tax-treatment|foreign-investment tax treatment]] 理解 TK / GK-TK / TMK 结构细节，结合 [[real-estate-finance/japan-real-estate-appraisal-methodology|appraisal methodology]] 理解 LTV / DSCR 承销框架，并结合 [[real-estate-finance/j-reit-foreign-investor-ownership]] 理解外资 GP 的股权侧对应项。国内金融锚点为 [[financial-regulators/dbj]]、[[trust-banks/mitsubishi-ufj-trust-bank]]、[[trust-banks/sumitomo-mitsui-trust]]。大型银行侧参考为 [[megabanks/mufg-bank]]、[[megabanks/sumitomo-mitsui-banking-corp]]、[[megabanks/mizuho-bank]]。关于 PE / 私人金融纪律及更广泛的 private capital 路由，可交叉链接到 [[finance/japan-private-equity-operating-model]]、[[finance/japan-private-equity-fund-structure-matrix]] 和 [[finance/INDEX|finance index]]。保险公司对私人信贷回报溢价的需求通过 [[insurance/japan-life-insurance-alm-overview]] 和 [[money-market/japan-money-market]] 连接到利率环境背景。银行体系框架位于 [[banking/INDEX]]，区域银行整合背景位于 [[banking/regional-bank-consolidation-pattern]]。
 
 ## 产品栈
 
@@ -74,9 +74,9 @@ translated_at: 2026-06-01T03:31:12.299Z
 
 | 锚点 | 角色 |
 |---|---|
-| [[JapanFG/dbj]] | 政策协调型项目融资、城市再开发融资、基础设施融资领导者，以及政策优先领域中的选择性 mezz / 优先股权。 |
-| [[JapanFG/mitsubishi-ufj-trust-bank]] | 信托银行房地产信托方案，加上次级资产负债表放款与资产管理联动。 |
-| [[JapanFG/sumitomo-mitsui-trust]] | 信托银行房地产信托方案加次级放款；大型房地产金融 franchise。 |
+| [[financial-regulators/dbj]] | 政策协调型项目融资、城市再开发融资、基础设施融资领导者，以及政策优先领域中的选择性 mezz / 优先股权。 |
+| [[trust-banks/mitsubishi-ufj-trust-bank]] | 信托银行房地产信托方案，加上次级资产负债表放款与资产管理联动。 |
+| [[trust-banks/sumitomo-mitsui-trust]] | 信托银行房地产信托方案加次级放款；大型房地产金融 franchise。 |
 | 大型银行关联金融子公司 | MUFG、SMFG、Mizuho 的专业金融子公司，在银行 senior lending 框架之外部署资本。 |
 | 租赁公司（ORIX、Mitsubishi HC Capital、Tokyo Century） | 围绕核心租赁开展房地产信贷和股权共同投资项目。 |
 | 保险关联资产管理人 | 由寿险公司赞助的房地产信贷项目，用于母公司资产负债表配置。 |
@@ -197,12 +197,12 @@ translated_at: 2026-06-01T03:31:12.299Z
 - [[finance/INDEX]]
 - [[finance/japan-private-equity-fund-structure-matrix]]
 - [[finance/japan-private-equity-operating-model]]
-- [[JapanFG/mufg-bank]]
-- [[JapanFG/sumitomo-mitsui-banking-corp]]
-- [[JapanFG/mizuho-bank]]
-- [[JapanFG/sumitomo-mitsui-trust]]
-- [[JapanFG/mitsubishi-ufj-trust-bank]]
-- [[JapanFG/dbj]]
+- [[megabanks/mufg-bank]]
+- [[megabanks/sumitomo-mitsui-banking-corp]]
+- [[megabanks/mizuho-bank]]
+- [[trust-banks/sumitomo-mitsui-trust]]
+- [[trust-banks/mitsubishi-ufj-trust-bank]]
+- [[financial-regulators/dbj]]
 - [[INDEX|FinWiki index]]
 
 ## 来源

@@ -84,12 +84,12 @@ The screen stack is order-sensitive. FEFTA prior-notification must be cleared **
 | Buyer type | Foreign corporate strategic, foreign PE sponsor (e.g. Bain, KKR, CVC, Carlyle), or foreign SWF / pension. |
 | Control mechanism | Cash TOB for listed targets; share / asset purchase for private; rarely triangular merger because of cash-preference. |
 | Regulatory screens | TOB regulation + FEFTA prior-notification (often the binding gate) + JFTC + sector approvals + foreign-side approvals. |
-| Financing structure | Cash bid typical; debt at SPC / newco; leverage often clubbed across [[JapanFG/mufg-bank]], [[JapanFG/mizuho-bank]], [[JapanFG/sumitomo-mitsui-banking-corp|SMBC]], plus foreign banks. |
+| Financing structure | Cash bid typical; debt at SPC / newco; leverage often clubbed across [[megabanks/mufg-bank]], [[megabanks/mizuho-bank]], [[megabanks/sumitomo-mitsui-banking-corp|SMBC]], plus foreign banks. |
 | Typical timeline | 4-9 months from announcement to settlement when FEFTA / antitrust are clean; longer with sector approval. |
 | Fairness opinion | Market-practice required for listed-target board; often dual-FO if conflicted committee. |
 | Minority appraisal rights | Available under Companies Act for objecting shareholders if combined with subsequent share consolidation / cash squeeze-out. |
 | Statutory thresholds | 5% LSR notice; 1/3 mandatory TOB; 2/3 supermajority for charter amendments / squeeze-out; 90% for special-controlling-shareholder cash-out. |
-| Adviser map | Foreign IB often runs sell-side / buy-side advice in parallel with Japan-house ([[JapanFG/nomura-hd|Nomura]], [[JapanFG/daiwa-sg|Daiwa]], [[JapanFG/smbc-nikko|SMBC Nikko]], [[JapanFG/mizuho-securities|Mizuho Securities]]); see [[finance/japan-ib-league-table]]. |
+| Adviser map | Foreign IB often runs sell-side / buy-side advice in parallel with Japan-house ([[securities-firms/nomura-hd|Nomura]], [[securities-firms/daiwa-sg|Daiwa]], [[securities-firms/smbc-nikko|SMBC Nikko]], [[securities-firms/mizuho-securities|Mizuho Securities]]); see [[finance/japan-ib-league-table]]. |
 
 Read this section against [[finance/cross-border-m-a-japan]] for the cross-border legal stack and [[finance/japan-activist-investor-playbook]] for the engagement angle when the inbound is a hostile or unsolicited foreign sponsor.
 
@@ -105,7 +105,7 @@ Read this section against [[finance/cross-border-m-a-japan]] for the cross-borde
 | Fairness opinion | Buyer-side FO common at Japanese acquirer for board / governance defense. |
 | Minority appraisal rights | Foreign-law concept (e.g. Delaware appraisal, UK scheme dissent) replaces Companies Act mechanics. |
 | Statutory thresholds | Foreign-law thresholds apply for target-side; Japan disclosure perimeter only triggers under [[finance/japan-large-shareholding-disclosure]] if acquirer issues new equity to fund. |
-| Adviser map | Foreign IB usually leads target-side process; Japan-house pairs as buyer-side adviser; see [[finance/japan-ib-league-table]] and [[JapanFG/goldman-sachs-japan]], [[JapanFG/morgan-stanley-japan]]. |
+| Adviser map | Foreign IB usually leads target-side process; Japan-house pairs as buyer-side adviser; see [[finance/japan-ib-league-table]] and [[securities-firms/goldman-sachs-japan]], [[securities-firms/morgan-stanley-japan]]. |
 
 Outbound deals are governed by the **target jurisdiction**, NOT Japanese statutory M&A; the matrix below shows only the Japan-perimeter touchpoints.
 
@@ -121,7 +121,7 @@ Outbound deals are governed by the **target jurisdiction**, NOT Japanese statuto
 | Fairness opinion | Practice-standard for listed-target board, especially when special committee is constituted. |
 | Minority appraisal rights | Companies Act §§785, 797, 806 grant dissenting shareholders right to demand fair-price purchase. |
 | Statutory thresholds | 2/3 supermajority for share exchange / merger; 1/3 mandatory TOB; 90% for squeeze-out. |
-| Adviser map | Megabank-affiliated securities arms dominate ([[JapanFG/smbc-nikko]], [[JapanFG/mizuho-securities]], [[JapanFG/mufg-mums|MUFG / MUMS]]); see [[finance/japan-ib-league-table]]. |
+| Adviser map | Megabank-affiliated securities arms dominate ([[securities-firms/smbc-nikko]], [[securities-firms/mizuho-securities]], [[securities-firms/mufg-mums|MUFG / MUMS]]); see [[finance/japan-ib-league-table]]. |
 
 ### Domestic PE LBO
 
@@ -130,7 +130,7 @@ Outbound deals are governed by the **target jurisdiction**, NOT Japanese statuto
 | Buyer type | Japan-incorporated PE sponsor (e.g. Advantage, J-STAR, JIC Capital, Polaris) or Japan-team of global sponsor (KKR Japan, Bain Japan, Carlyle Japan). |
 | Control mechanism | SPC / newco TOB for listed targets; private SPA for non-listed; sometimes share exchange between sponsor SPC and target HoldCo. |
 | Regulatory screens | TOB regulation if listed + JFTC + sector approvals; FEFTA NOT triggered if sponsor is Japan-incorporated GP managing offshore LP fund (interpretation-dependent). |
-| Financing structure | Senior LBO loan (often clubbed with [[JapanFG/mufg-bank]], [[JapanFG/mizuho-bank]], [[JapanFG/sumitomo-mitsui-banking-corp|SMBC]], [[JapanFG/smtb|SMTB]]); mezzanine / sub-debt occasional; bridge takeout via bond infrequent in Japan vs US. |
+| Financing structure | Senior LBO loan (often clubbed with [[megabanks/mufg-bank]], [[megabanks/mizuho-bank]], [[megabanks/sumitomo-mitsui-banking-corp|SMBC]], [[trust-banks/smtb|SMTB]]); mezzanine / sub-debt occasional; bridge takeout via bond infrequent in Japan vs US. |
 | Typical timeline | 4-8 months from sponsor commitment to closing; staple financing common in auction. |
 | Fairness opinion | Required-by-practice for listed-target board; FO from independent IB often dual-track. |
 | Minority appraisal rights | Companies Act §172 fair-price determination available post-squeeze-out. |
@@ -270,13 +270,13 @@ See [[finance/japan-acquisition-finance]] for the debt-stack detail, [[finance/j
 
 | Deal type | Likely lead adviser archetypes |
 |---|---|
-| Inbound | Foreign IB lead + Japan-house pair: [[JapanFG/goldman-sachs-japan]] / [[JapanFG/morgan-stanley-japan]] + [[JapanFG/nomura-hd]] / [[JapanFG/daiwa-sg]] |
-| Outbound | Foreign IB target-side + Japan-house buyer-side: [[JapanFG/nomura-hd]] / [[JapanFG/daiwa-sg]] + foreign IB |
-| Domestic strategic | Megabank-affiliated securities: [[JapanFG/smbc-nikko]] / [[JapanFG/mizuho-securities]] / [[JapanFG/mufg-mums|MUFG / MUMS]] |
+| Inbound | Foreign IB lead + Japan-house pair: [[securities-firms/goldman-sachs-japan]] / [[securities-firms/morgan-stanley-japan]] + [[securities-firms/nomura-hd]] / [[securities-firms/daiwa-sg]] |
+| Outbound | Foreign IB target-side + Japan-house buyer-side: [[securities-firms/nomura-hd]] / [[securities-firms/daiwa-sg]] + foreign IB |
+| Domestic strategic | Megabank-affiliated securities: [[securities-firms/smbc-nikko]] / [[securities-firms/mizuho-securities]] / [[securities-firms/mufg-mums|MUFG / MUMS]] |
 | Domestic PE LBO | Megabank + sponsor in-house adviser |
 | MBO / squeeze-out | Megabank + independent IB + boutique FO provider |
 | JV formation | Both parents' principal IBs |
-| TOB-mandated | Both sides; agent broker [[JapanFG/nomura-hd|Nomura]] / [[JapanFG/daiwa-sg|Daiwa]] common |
+| TOB-mandated | Both sides; agent broker [[securities-firms/nomura-hd|Nomura]] / [[securities-firms/daiwa-sg|Daiwa]] common |
 
 Read this with [[finance/japan-ib-league-table]] for adviser-side franchise depth.
 
@@ -359,18 +359,18 @@ Before relying on any cell above in a real-world process:
 - [[corporate-strategy/INDEX|corporate-strategy INDEX]]
 - [[corporate-strategy/partial-spinoff-tax-deferral]]
 - [[corporate-strategy/japan-kaisha-bunkatsu-tax-regime]]
-- [[JapanFG/nomura-hd]]
-- [[JapanFG/daiwa-sg]]
-- [[JapanFG/smbc-nikko]]
-- [[JapanFG/mizuho-securities]]
-- [[JapanFG/goldman-sachs-japan]]
-- [[JapanFG/morgan-stanley-japan]]
-- [[JapanFG/mufg-mums]]
-- [[JapanFG/mufg-bank]]
-- [[JapanFG/mizuho-bank]]
-- [[JapanFG/sumitomo-mitsui-banking-corp]]
-- [[JapanFG/smtb]]
-- [[JapanFG/dbj]]
+- [[securities-firms/nomura-hd]]
+- [[securities-firms/daiwa-sg]]
+- [[securities-firms/smbc-nikko]]
+- [[securities-firms/mizuho-securities]]
+- [[securities-firms/goldman-sachs-japan]]
+- [[securities-firms/morgan-stanley-japan]]
+- [[securities-firms/mufg-mums]]
+- [[megabanks/mufg-bank]]
+- [[megabanks/mizuho-bank]]
+- [[megabanks/sumitomo-mitsui-banking-corp]]
+- [[trust-banks/smtb]]
+- [[financial-regulators/dbj]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

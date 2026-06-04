@@ -12,7 +12,7 @@ translated_at: 2026-05-30T14:48:27.672Z
 
 ## TL;DR
 
-现行形态的 V Point（2024-04-22 起）是日本的**银行主导通用积分案例**：SMBC 既有的 V Point 与 CCCMK Holdings 的 T Point 统一为 V Point 品牌下的单一积分，以 [[JapanFG/smfg|SMFG]] 的 [[JapanFG/smbc-card|SMBC Card]]（SMCC）作为发行金融骨干，并继承自 T Point 的 [[payments/INDEX|payments]] / [[retail/INDEX|retail]] 合作网络。它是对抗电信主导（dポイント）、电商主导（Rakuten Points）与支付 app 主导（PayPay points）通用积分系统最可信的制衡力量。
+现行形态的 V Point（2024-04-22 起）是日本的**银行主导通用积分案例**：SMBC 既有的 V Point 与 CCCMK Holdings 的 T Point 统一为 V Point 品牌下的单一积分，以 [[megabanks/smfg|SMFG]] 的 [[card-issuers/smbc-card|SMBC Card]]（SMCC）作为发行金融骨干，并继承自 T Point 的 [[payments/INDEX|payments]] / [[retail/INDEX|retail]] 合作网络。它是对抗电信主导（dポイント）、电商主导（Rakuten Points）与支付 app 主导（PayPay points）通用积分系统最可信的制衡力量。
 
 关于此类统一内部「积分负债」实际含义的会计框架，见 [[loyalty/point-liability-accounting-boundary]]。更广的竞争地图见 [[loyalty/japan-points-landscape]] 与 [[loyalty/INDEX|loyalty index]]。
 
@@ -31,7 +31,7 @@ translated_at: 2026-05-30T14:48:27.672Z
 
 ## 参与方
 
-- **[[JapanFG/smfg|SMFG]] / [[JapanFG/smbc-card|SMBC Card]]（Sumitomo Mitsui Card Company, SMCC）** —— 银行侧锚点。作为 SMBC 信用卡与 Olive Account 的奖励层发行 V Point。提供信用与支付轨道。
+- **[[megabanks/smfg|SMFG]] / [[card-issuers/smbc-card|SMBC Card]]（Sumitomo Mitsui Card Company, SMCC）** —— 银行侧锚点。作为 SMBC 信用卡与 Olive Account 的奖励层发行 V Point。提供信用与支付轨道。
 - **CCC / CCCMK Holdings** —— 历史通用积分运营方；带来 T Point 合作商户网络（FamilyMart、ENEOS、Tsutaya、药妆店、餐厅、酒店）、约 70 百万 T-Card 持有者的用户基础，以及数据营销运营。
 - **Tカード → Vカード 迁移** —— 遗留 T-card 在既定迁移窗口期内继续在参与商户赚取 V Point；新发行为 V-card 品牌。
 - **Olive Account** —— SMBC 的「一站式」零售产品（借记 + 信用 + 支付 + 投资），以 V Point 为其忠诚度层。于 2023, 推出，贯穿 2024-2025拓展。
@@ -60,12 +60,12 @@ translated_at: 2026-05-30T14:48:27.672Z
 
 | 通用积分系统 | 锚点类型 | 最强渠道 | V Point 的相对位置 |
 |---|---|---|---|
-| Rakuten Points（[[JapanFG/rakuten-fg|Rakuten FG]]） | 电商主导 | 在线购物 + Rakuten Card + 楽天ペイ + Rakuten Mobile | V Point 在线较弱，在实体锚点商户较强 |
-| dポイント（[[JapanFG/ndfg|NDFG]] / NTT docomo） | 电信主导 | 移动线路 ID、d払い、dカード | V Point 不绑定电信；在非 docomo 用户上有优势 |
-| PayPay Points（[[JapanFG/paypay-fg|PayPay FG]]） | 支付 app 主导 | 码支付频率 + 活动 | V Point 活动驱动较少；每日元经济学更持久 |
-| Ponta（[[JapanFG/au-fh|au FH]] / Loyalty Marketing） | 电信 + 零售联盟 | Lawson、KDDI / au PAY、Hot Pepper | V Point 在便利店赚取上重叠，但带银行侧锚点 |
-| WAON POINT（[[retail/aeon-group|Aeon Group]] / [[JapanFG/aeon-bank|AEON Bank / AFS]]） | 零售集团主导 | AEON 商城 / 超市 | 不同定位 —— 门店频率忠诚度 vs 跨商户通用积分 |
-| nanaco point（[[retail/seven-and-i-hd|Seven & i]] / [[JapanFG/seven-bank|Seven Bank]]） | 便利店主导 | Seven-Eleven / Ito-Yokado | 不同定位 —— 便利店忠诚度 vs 跨商户通用积分 |
+| Rakuten Points（[[payment-firms/rakuten-fg|Rakuten FG]]） | 电商主导 | 在线购物 + Rakuten Card + 楽天ペイ + Rakuten Mobile | V Point 在线较弱，在实体锚点商户较强 |
+| dポイント（[[megabanks/ndfg|NDFG]] / NTT docomo） | 电信主导 | 移动线路 ID、d払い、dカード | V Point 不绑定电信；在非 docomo 用户上有优势 |
+| PayPay Points（[[megabanks/paypay-fg|PayPay FG]]） | 支付 app 主导 | 码支付频率 + 活动 | V Point 活动驱动较少；每日元经济学更持久 |
+| Ponta（[[megabanks/au-fh|au FH]] / Loyalty Marketing） | 电信 + 零售联盟 | Lawson、KDDI / au PAY、Hot Pepper | V Point 在便利店赚取上重叠，但带银行侧锚点 |
+| WAON POINT（[[retail/aeon-group|Aeon Group]] / [[card-issuers/aeon-bank|AEON Bank / AFS]]） | 零售集团主导 | AEON 商城 / 超市 | 不同定位 —— 门店频率忠诚度 vs 跨商户通用积分 |
+| nanaco point（[[retail/seven-and-i-hd|Seven & i]] / [[regional-banks/seven-bank|Seven Bank]]） | 便利店主导 | Seven-Eleven / Ito-Yokado | 不同定位 —— 便利店忠诚度 vs 跨商户通用积分 |
 
 V Point 的战略新颖性在于银行主导形态：
 
@@ -79,24 +79,24 @@ V Point 的战略新颖性在于银行主导形态：
 
 ## 这为何对 JapanFG 分析重要
 
-- V Point 是日本**大型银行主导通用积分分发层**最清晰的现行案例。阅读 [[JapanFG/smfg|SMFG]] 时不纳入它会低估 SMBC 的零售战略。
+- V Point 是日本**大型银行主导通用积分分发层**最清晰的现行案例。阅读 [[megabanks/smfg|SMFG]] 时不纳入它会低估 SMBC 的零售战略。
 - 它是 SMBC × SBI 联盟下 SBI証券 一侧投资产品的自然交叉销售轨道 —— 与证券分销分析相关。
 - 对任何商户收单 / PSP 分析而言，V Point 合作商户网络如今是与 Rakuten 及 dポイント 并列的第三个重要通用积分足迹。
-- 对消费者银行竞争分析而言，Olive Account + V Point 捆绑是日本大型银行最显眼的「主银行即金融科技 app」尝试，与 [[JapanFG/mufg|MUFG]] 及 [[JapanFG/mizuho-fg|Mizuho FG]] 的做法形成对照。
+- 对消费者银行竞争分析而言，Olive Account + V Point 捆绑是日本大型银行最显眼的「主银行即金融科技 app」尝试，与 [[megabanks/mufg|MUFG]] 及 [[megabanks/mizuho-fg|Mizuho FG]] 的做法形成对照。
 
 ## 相关
 
 - [[loyalty/INDEX|loyalty index]]
 - [[loyalty/japan-points-landscape]]
 - [[loyalty/point-liability-accounting-boundary]]
-- [[JapanFG/smfg|SMFG]]
-- [[JapanFG/smbc-card|SMBC Card / SMCC]]
-- [[JapanFG/rakuten-fg|Rakuten FG]]
-- [[JapanFG/ndfg|NDFG]]
-- [[JapanFG/paypay-fg|PayPay FG]]
-- [[JapanFG/au-fh|au FH]]
-- [[JapanFG/aeon-bank|AEON Bank / AFS]]
-- [[JapanFG/seven-bank|Seven Bank]]
+- [[megabanks/smfg|SMFG]]
+- [[card-issuers/smbc-card|SMBC Card / SMCC]]
+- [[payment-firms/rakuten-fg|Rakuten FG]]
+- [[megabanks/ndfg|NDFG]]
+- [[megabanks/paypay-fg|PayPay FG]]
+- [[megabanks/au-fh|au FH]]
+- [[card-issuers/aeon-bank|AEON Bank / AFS]]
+- [[regional-banks/seven-bank|Seven Bank]]
 - [[retail/INDEX|retail]]
 - [[payments/INDEX|payments]]
 - [[INDEX|FinWiki index]]

@@ -60,13 +60,6 @@
     "wikilinks_count": 19,
     "wikilinks": [
       "INDEX",
-      "JapanFG/megabanks-and-fg-index",
-      "JapanFG/mizuho-fg",
-      "JapanFG/mizuho-securities",
-      "JapanFG/rakuten-card",
-      "JapanFG/rakuten-fg",
-      "JapanFG/rakuten-securities",
-      "JapanFG/sbi-securities",
       "banking/rakuten-bank",
       "business/INDEX",
       "business/kddi-au-financial-bundling-case",
@@ -74,20 +67,20 @@
       "business/ntt-docomo-d-point-telco-finance-case",
       "business/rakuten-group-mobile-finance-bundling-case",
       "business/sony-fg-partial-spinoff-case",
+      "card-issuers/rakuten-card",
       "finance/japan-cross-shareholding-unwinding-economics",
       "loyalty/v-point-smbc-ccc-case",
+      "megabanks/INDEX",
+      "megabanks/mizuho-fg",
+      "payment-firms/rakuten-fg",
+      "securities-firms/mizuho-securities",
+      "securities-firms/rakuten-securities",
+      "securities-firms/sbi-securities",
       "securities/japan-online-brokerage-competition",
       "securities/nisa-2024-flow"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/megabanks-and-fg-index",
-      "https://finwiki.zksc.io/JapanFG/mizuho-fg",
-      "https://finwiki.zksc.io/JapanFG/mizuho-securities",
-      "https://finwiki.zksc.io/JapanFG/rakuten-card",
-      "https://finwiki.zksc.io/JapanFG/rakuten-fg",
-      "https://finwiki.zksc.io/JapanFG/rakuten-securities",
-      "https://finwiki.zksc.io/JapanFG/sbi-securities",
       "https://finwiki.zksc.io/banking/rakuten-bank",
       "https://finwiki.zksc.io/business/INDEX",
       "https://finwiki.zksc.io/business/kddi-au-financial-bundling-case",
@@ -95,8 +88,15 @@
       "https://finwiki.zksc.io/business/ntt-docomo-d-point-telco-finance-case",
       "https://finwiki.zksc.io/business/rakuten-group-mobile-finance-bundling-case",
       "https://finwiki.zksc.io/business/sony-fg-partial-spinoff-case",
+      "https://finwiki.zksc.io/card-issuers/rakuten-card",
       "https://finwiki.zksc.io/finance/japan-cross-shareholding-unwinding-economics",
       "https://finwiki.zksc.io/loyalty/v-point-smbc-ccc-case",
+      "https://finwiki.zksc.io/megabanks/INDEX",
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/payment-firms/rakuten-fg",
+      "https://finwiki.zksc.io/securities-firms/mizuho-securities",
+      "https://finwiki.zksc.io/securities-firms/rakuten-securities",
+      "https://finwiki.zksc.io/securities-firms/sbi-securities",
       "https://finwiki.zksc.io/securities/japan-online-brokerage-competition",
       "https://finwiki.zksc.io/securities/nisa-2024-flow"
     ],
@@ -104,9 +104,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 12407,
-    "word_like_tokens": 2015,
+    "nonspace_chars": 12521,
+    "word_like_tokens": 2027,
     "inbound_wikilinks_count": 1,
-    "last_modified": "2026-06-03"
+    "last_modified": "2026-06-04"
   }
 }

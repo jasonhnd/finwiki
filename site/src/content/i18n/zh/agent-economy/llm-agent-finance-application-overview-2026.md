@@ -80,7 +80,7 @@ translated_at: 2026-05-30T17:31:02.639Z
 
 **为何 PILOT 而非 PROD**：适当性与信义义务。SEC Reg BI 要求经纪商以客户最佳利益行事并附书面理由；日本 FIEA 第 38-2 条 + 40 要求第 1 类金融商品业者在推荐产品前评估客户属性；EU MIFID-II 第 25 条要求附文档的适当性评估。一个在无文档化适当性评估的情况下说"你应当再平衡到新兴市场债券"的 LLM 会制造监管风险。2026 折衷：LLM 产出标注为"仅供参考，非建议"的评述；实际的再平衡建议来自配有完整适当性文档的现有规则化引擎。
 
-日本 robo-advisor 的标准足迹见 [[JapanFG/wealthnavi|WealthNavi]]。
+日本 robo-advisor 的标准足迹见 [[payment-firms/wealthnavi|WealthNavi]]。
 
 ### (g) 开发者工具
 
@@ -163,7 +163,7 @@ translated_at: 2026-05-30T17:31:02.639Z
 - [[agent-economy/claude-code-extension-architecture|Claude Code extension architecture]]
 - [[agent-economy/stripe-agent-toolkit-position|Stripe agent toolkit position]]
 - [[fintech/INDEX|fintech index]]
-- [[JapanFG/wealthnavi|WealthNavi]]
+- [[payment-firms/wealthnavi|WealthNavi]]
 - [[security/module-path-confusion-supply-chain-attack|module path confusion supply chain attack]]
 - [[security/fork-and-rebrand-5-layer-audit-framework|fork and rebrand 5-layer audit framework]]
 <!-- /wiki-links:managed -->

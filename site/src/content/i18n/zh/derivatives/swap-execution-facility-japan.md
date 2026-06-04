@@ -82,7 +82,7 @@ ETP 通常发布：
 | **Tradeweb（Tradeweb Japan）** | 多交易商 RFQ 平台——在日元 IRS、OIS、JGB 现货、JGB 回购及部分外汇衍生品上实力强劲。FSA 注册的 ETP 运营商。全球最大固定收益电子交易平台之一；东京业务是机构流量的一线 1 ETP。 |
 | **Bloomberg（具备日本注册的 Bloomberg 电子交易服务）** | 跨利率、外汇、信用及部分股票衍生品的多交易商 RFQ。Bloomberg 的 BSEF（Bloomberg SEF）是美国注册的 SEF；面向日本的服务针对范围内产品集合在 FSA 注册下运营。 |
 | **MarketAxess（部分固定收益信用衍生品 RFQ）** | 在信用产品电子执行上实力强劲；日本业务聚焦于信用衍生品和债券相关流量。 |
-| **JPX 关联平台** | JPX 拥有与 [[JapanFG/japan-exchange-group|JPX group]] 相关的电子场外衍生品交易举措。范围各异；请查看当前产品供应。 |
+| **JPX 关联平台** | JPX 拥有与 [[financial-regulators/japan-exchange-group|JPX group]] 相关的电子场外衍生品交易举措。范围各异；请查看当前产品供应。 |
 
 ### 交易商间语音经纪
 
@@ -100,14 +100,14 @@ ETP 通常发布：
 
 每家主要交易商银行都运营**单一交易商平台**用于面向客户的场外执行：
 
-- [[JapanFG/nomura-hd|Nomura]]（NomuraNow）；
-- [[JapanFG/daiwa-sg|Daiwa SG]]（Daiwa Direct / 机构渠道）；
-- [[JapanFG/smbc-nikko|SMBC Nikko]]；
-- [[JapanFG/mizuho-securities|Mizuho Securities]]；
-- [[JapanFG/goldman-sachs-japan|GS Japan]]（Marquee）；
-- [[JapanFG/morgan-stanley-japan|MS Japan]]（Matrix）；
-- [[JapanFG/jpmorgan-japan|JPM Japan]]（MorganMarkets）；
-- [[JapanFG/citigroup-japan|Citi Japan]]（Velocity）。
+- [[securities-firms/nomura-hd|Nomura]]（NomuraNow）；
+- [[securities-firms/daiwa-sg|Daiwa SG]]（Daiwa Direct / 机构渠道）；
+- [[securities-firms/smbc-nikko|SMBC Nikko]]；
+- [[securities-firms/mizuho-securities|Mizuho Securities]]；
+- [[securities-firms/goldman-sachs-japan|GS Japan]]（Marquee）；
+- [[securities-firms/morgan-stanley-japan|MS Japan]]（Matrix）；
+- [[foreign-financial-institutions/jpmorgan-japan|JPM Japan]]（MorganMarkets）；
+- [[foreign-financial-institutions/citigroup-japan|Citi Japan]]（Velocity）。
 
 单一交易商平台不是多边场所，因此**本身不受 ETP 规则约束**，但它们与多交易商 ETP 整合以进行 RFQ 式执行，并将交易报告馈入 TR。
 
@@ -178,18 +178,18 @@ FSA 交易商监管涵盖：
 - [[securities/japan-best-execution-sor-pts]]
 - [[securities/japan-prime-brokerage-and-institutional-financing-matrix]]
 - [[money-market/tanshi-company-business-model]]
-- [[JapanFG/japan-exchange-group]]
-- [[JapanFG/mufg-bank]]
-- [[JapanFG/sumitomo-mitsui-banking-corp]]
-- [[JapanFG/mizuho-bank]]
-- [[JapanFG/nomura-hd]]
-- [[JapanFG/daiwa-sg]]
-- [[JapanFG/smbc-nikko]]
-- [[JapanFG/mizuho-securities]]
-- [[JapanFG/goldman-sachs-japan]]
-- [[JapanFG/morgan-stanley-japan]]
-- [[JapanFG/jpmorgan-japan]]
-- [[JapanFG/citigroup-japan]]
+- [[financial-regulators/japan-exchange-group]]
+- [[megabanks/mufg-bank]]
+- [[megabanks/sumitomo-mitsui-banking-corp]]
+- [[megabanks/mizuho-bank]]
+- [[securities-firms/nomura-hd]]
+- [[securities-firms/daiwa-sg]]
+- [[securities-firms/smbc-nikko]]
+- [[securities-firms/mizuho-securities]]
+- [[securities-firms/goldman-sachs-japan]]
+- [[securities-firms/morgan-stanley-japan]]
+- [[foreign-financial-institutions/jpmorgan-japan]]
+- [[foreign-financial-institutions/citigroup-japan]]
 - [[banking/japan-banking-license-tier-comparison-matrix]]
 - [[finance/japan-corporate-fx-and-rate-hedge-policy]]
 - [[finance/japan-listed-financial-groups-investable-universe]]

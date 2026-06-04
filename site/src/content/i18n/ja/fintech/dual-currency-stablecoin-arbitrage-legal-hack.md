@@ -40,7 +40,7 @@ translated_at: 2026-06-02T13:21:55.054Z
 
 ## 起源と発展
 
-2024 年以前 = オンチェーン FX 実現不可(USDC 一強)。2024 [[fintech/mica-overview|MiCA]] Title IV 施行 + EURC 流通量上昇 + SocGen / Lugh の上場 = ユーロ側の複数発行体構造が形成。2025 [[JapanFG/jpyc|JPYC]] が日本資金決済法の新フレーム下で初の円 stablecoin に。2026.05 三角アービトラージが DEX 上で初めて実稼働 = リーガル hack が理論からプロダクトへ。
+2024 年以前 = オンチェーン FX 実現不可(USDC 一強)。2024 [[fintech/mica-overview|MiCA]] Title IV 施行 + EURC 流通量上昇 + SocGen / Lugh の上場 = ユーロ側の複数発行体構造が形成。2025 [[payment-firms/jpyc|JPYC]] が日本資金決済法の新フレーム下で初の円 stablecoin に。2026.05 三角アービトラージが DEX 上で初めて実稼働 = リーガル hack が理論からプロダクトへ。
 
 ## 関連項目
 <!-- wiki-links:managed -->

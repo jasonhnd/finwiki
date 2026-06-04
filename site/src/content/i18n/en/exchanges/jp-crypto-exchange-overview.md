@@ -60,7 +60,7 @@ The JVCEA member page allows confirmation of the number of Type I members and bu
 - [[exchanges/jvcea-self-regulatory-overview|JVCEA overview]]
 - [[exchanges/jp-vasp-parent-company-map|parent company map]]
 - [[exchanges/fsa-foreign-exchange-warning-system|FSA warning system]]
-- [[JapanFG/ssnb|ssnb]] · [[exchanges/INDEX|exchanges INDEX]] · [[INDEX|FinWiki index]]
+- [[regional-banks/ssnb|ssnb]] · [[exchanges/INDEX|exchanges INDEX]] · [[INDEX|FinWiki index]]
 
 ## Sources
 

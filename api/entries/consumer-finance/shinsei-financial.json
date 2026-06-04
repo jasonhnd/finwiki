@@ -1,0 +1,79 @@
+{
+  "schema_version": "1.0",
+  "slug": "consumer-finance/shinsei-financial",
+  "source_path": "consumer-finance/shinsei-financial.md",
+  "url": "https://finwiki.zksc.io/consumer-finance/shinsei-financial",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/consumer-finance/shinsei-financial.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/consumer-finance/shinsei-financial.md",
+  "domain": "consumer-finance",
+  "title": "新生フィナンシャル",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "新生フィナンシャル",
+    "aliases": [
+      "Shinsei Financial",
+      "新生フィナンシャル株式会社",
+      "レイク"
+    ],
+    "domain": "consumer-finance",
+    "created": "2026-05-21",
+    "last_updated": "2026-05-21",
+    "last_tended": "2026-05-21",
+    "review_by": "2026-11-21",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "consumer-finance",
+      "lending",
+      "guarantee",
+      "SBI-Shinsei"
+    ],
+    "status": "active",
+    "sources": [
+      "https://shinseifinancial.co.jp/company/corporate.html",
+      "https://www.sbigroup.co.jp/company/group/shinseifinancial.php"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it with APLUS for the adjacent SBI Shinsei consumer-credit lane and Japan credit purchase and card operator registry index for the broader credit / installment boundary.",
+  "headings": [
+    "新生フィナンシャル",
+    "Wiki route",
+    "Overview",
+    "1. 法人・ライセンス境界",
+    "2. Business Role",
+    "3. Why This Standalone Page Matters",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 8,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "card-issuers/aplus",
+      "consumer-finance/acom",
+      "consumer-finance/shinsei-financial",
+      "consumer-finance/smbc-consumer-finance",
+      "megabanks/sbi-hd",
+      "payments/credit-purchase-card-operators-japan-index",
+      "regional-banks/sbi-shinsei-bank"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/card-issuers/aplus",
+      "https://finwiki.zksc.io/consumer-finance/acom",
+      "https://finwiki.zksc.io/consumer-finance/shinsei-financial",
+      "https://finwiki.zksc.io/consumer-finance/smbc-consumer-finance",
+      "https://finwiki.zksc.io/megabanks/sbi-hd",
+      "https://finwiki.zksc.io/payments/credit-purchase-card-operators-japan-index",
+      "https://finwiki.zksc.io/regional-banks/sbi-shinsei-bank"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2982,
+    "word_like_tokens": 457,
+    "inbound_wikilinks_count": 7,
+    "last_modified": "2026-06-04"
+  }
+}

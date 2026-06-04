@@ -31,27 +31,27 @@ translated_at: 2026-06-03T00:53:08.305Z
 | レイヤー |代表的な発行者 | ビークル |おおよそのボリュームチルト |
 |---|---|---|---|
 | JHF MBS | [[policy-finance/japan-housing-finance-agency]] | JHFトラスト |最大の円構造層 |
-|プライベートRMBS |メガバンク（[[JapanFG/mufg]]、[[JapanFG/smfg]]、[[JapanFG/mizuho-fg]]）、信託銀行 |信託受益権 |中規模、不定期の公共セール |
+|プライベートRMBS |メガバンク（[[megabanks/mufg]]、[[megabanks/smfg]]、[[megabanks/mizuho-fg]]）、信託銀行 |信託受益権 |中規模、不定期の公共セール |
 | CMBS | Real-estate sponsors, megabanks | TMK or TK-GK | 2008,  で成長する小さなポスト 2020 |
-| Auto-loan ABS | [[JapanFG/toyota-finance]]、[[JapanFG/toyota-financial]]、ホンダファイナンス、日産クレジット | TK-GK | リピート発行者、詳細なプール |
-| Consumer / card ABS | [[JapanFG/orico]]、[[JapanFG/jaccs]]、[[JapanFG/aplus]]、[[JapanFG/mufg-nicos]] | TK-GKまたはトラスト | 回転構造物が一般的 |
-| リースABS | [[JapanFG/mitsubishi-hc-capital]]、その他リース会社 | 信頼 | リースプールの残存価値リスク |
+| Auto-loan ABS | [[card-issuers/toyota-finance]]、[[leasing-firms/toyota-financial]]、ホンダファイナンス、日産クレジット | TK-GK | リピート発行者、詳細なプール |
+| Consumer / card ABS | [[card-issuers/orico]]、[[card-issuers/jaccs]]、[[card-issuers/aplus]]、[[card-issuers/mufg-nicos]] | TK-GKまたはトラスト | 回転構造物が一般的 |
+| リースABS | [[leasing-firms/mitsubishi-hc-capital]]、その他リース会社 | 信頼 | リースプールの残存価値リスク |
 | プロジェクト/インフラ | スポンサーSPC | TMK or TK-GK | ニッチ、ディールバイディール |
 
 ## 2. Originator landscape
 
-- **銀行**: メガバンク ([[JapanFG/mufg]]、[[JapanFG/smfg]]、[[JapanFG/mizuho-fg]]) および大手信託銀行は、ジャンボ住宅ローンおよび企業ローン担保を提供しています。発信側については[[banking/INDEX]]を参照してください。
+- **銀行**: メガバンク ([[megabanks/mufg]]、[[megabanks/smfg]]、[[megabanks/mizuho-fg]]) および大手信託銀行は、ジャンボ住宅ローンおよび企業ローン担保を提供しています。発信側については[[banking/INDEX]]を参照してください。
 - **自動車金融会社**: トヨタファイナンス、トヨタファイナンシャルサービス、ホンダファイナンス、日産クレジット、SMBCオート、MUFGキャピタルオートローンは、バランスシート管理ツールとしてオートローンABSを発行しています。
-- **消費者/カード発行会社**: Aplus、Orico、JACCS、MUFG NICOS、[[JapanFG/jcb]]、[[JapanFG/credit-saison]] は、銀行ラインの資金調達と並行して、カード受取可能な ABS を資金調達ツールとして使用しています。
+- **消費者/カード発行会社**: Aplus、Orico、JACCS、MUFG NICOS、[[card-issuers/jcb]]、[[card-issuers/credit-saison]] は、銀行ラインの資金調達と並行して、カード受取可能な ABS を資金調達ツールとして使用しています。
 - **公共部門**: JHF は主要な公的信用発行体です。 [[policy-finance/japan-housing-finance-agency]] および [[structured-finance/jhf-mbs-mechanics]] を参照してください。
-- **受託者としての信託銀行**: [[JapanFG/sumitomo-mitsui-trust]] およびその他の信託銀行は信託受益権構造の受託者として機能します。信託銀行の役割は構造的なものであり、オリジネーターではありません。
+- **受託者としての信託銀行**: [[trust-banks/sumitomo-mitsui-trust]] およびその他の信託銀行は信託受益権構造の受託者として機能します。信託銀行の役割は構造的なものであり、オリジネーターではありません。
 
 ## 3. Dealer / arranger landscape
 
 | 役割 | 典型的な住宅 |
 |---|---|
-| リードアレンジャー | [[JapanFG/mizuho-securities]]、[[JapanFG/mufg-mums]]、野村、ダイワSG（[[JapanFG/daiwa-sg]]）、SMBC日興 |
-| 管財人 | [[JapanFG/sumitomo-mitsui-trust]]、三菱UFJ信託、みずほ信託 |
+| リードアレンジャー | [[securities-firms/mizuho-securities]]、[[securities-firms/mufg-mums]]、野村、ダイワSG（[[securities-firms/daiwa-sg]]）、SMBC日興 |
+| 管財人 | [[trust-banks/sumitomo-mitsui-trust]]、三菱UFJ信託、みずほ信託 |
 | 格付け会社 | JCR、R&I ([[structured-finance/credit-rating-methodology-jcr-r-and-i]] を参照); S&P、ムーディーズ、フィッチ、クロスボーダー |
 | サービサー | オリジネーターまたは関連サービサー。時には専門のスペシャルサービサー |
 
@@ -84,7 +84,7 @@ translated_at: 2026-06-03T00:53:08.305Z
 - 日本のストラクチャード・ファイナンス市場は、非常に大規模な公的信用機関 (JHF MBS) と、小規模で保守的な民間層の 2 つに分かれています。
 - JHF MBS レイヤーは、円の構造化紙の供給と価格設定のほとんどを推進しています。それに対するプライベート取引の価格。
 - 2008  リセット後の日本には、先進国市場で最も保守的な構造規則の 1 つが残されました。CMBS 固有の話については、[[structured-finance/japan-cmbs-issuance-structure]] を参照してください。
-- 投資家ベースは、国債を上回る利回りを求める生命保険会社（[[JapanFG/daido-life]]、[[JapanFG/asahi-life]]など）、地方銀行、資産運用会社が大半を占めています。
+- 投資家ベースは、国債を上回る利回りを求める生命保険会社（[[life-insurers/daido-life]]、[[life-insurers/asahi-life]]など）、地方銀行、資産運用会社が大半を占めています。
 
 ## 関連項目
 

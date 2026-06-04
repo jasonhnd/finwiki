@@ -63,7 +63,7 @@ Margin trading (crypto-asset derivatives) supports the 9 assets BTC, ETH, BCH, L
 
 - Account count and monthly trading volume are not disclosed (as of 2026-05-18).
 - A customer base leveraging the ecosystem of the Rakuten Group (over 100 million members) is a differentiating factor. Through integration with Rakuten Points and Rakuten Cash, it seeks to onboard Rakuten users with no crypto-asset experience.
-- Position among competitors: Mid tier. While [[exchanges/jp-exchange-bitflyer|bitFlyer]], [[exchanges/jp-exchange-coincheck|Coincheck]], and [[exchanges/jp-exchange-gmo-coin|GMO Coin]] form the upper ranks, it has established a distinctive position in [[JapanFG/rakuten-fg|Rakuten economic sphere]] (the [[exchanges/jp-cex-points-economy-integration|JP CEX point-economy integration]] pattern). It leans more toward a retail-specialized character than institutional-investor services.
+- Position among competitors: Mid tier. While [[exchanges/jp-exchange-bitflyer|bitFlyer]], [[exchanges/jp-exchange-coincheck|Coincheck]], and [[exchanges/jp-exchange-gmo-coin|GMO Coin]] form the upper ranks, it has established a distinctive position in [[payment-firms/rakuten-fg|Rakuten economic sphere]] (the [[exchanges/jp-cex-points-economy-integration|JP CEX point-economy integration]] pattern). It leans more toward a retail-specialized character than institutional-investor services.
 
 ## 6. History / Major Events
 
@@ -110,7 +110,7 @@ Principal administrative disposition: the business improvement order of 2018-04 
 - [[exchanges/jp-exchange-gmo-coin]] — Peer GMO Coin overview
 - [[exchanges/jp-exchange-mercoin]] — Peer Mercoin overview
 - [[exchanges/jp-exchange-binance-japan]] — Peer Binance Japan overview
-- [[JapanFG/rakuten-fg]] — Rakuten Group parent-company profile
+- [[payment-firms/rakuten-fg]] — Rakuten Group parent-company profile
 - [[exchanges/jp-cex-points-economy-integration]] — JP CEX point-economy integration
 - [[exchanges/jp-vasp-parent-company-map]] — JP VASP parent-company map
 

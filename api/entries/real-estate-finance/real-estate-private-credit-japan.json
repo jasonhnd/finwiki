@@ -63,18 +63,16 @@
     "wikilinks_count": 22,
     "wikilinks": [
       "INDEX",
-      "JapanFG/dbj",
-      "JapanFG/mitsubishi-ufj-trust-bank",
-      "JapanFG/mizuho-bank",
-      "JapanFG/mufg-bank",
-      "JapanFG/sumitomo-mitsui-banking-corp",
-      "JapanFG/sumitomo-mitsui-trust",
       "banking/INDEX",
       "banking/regional-bank-consolidation-pattern",
       "finance/INDEX",
       "finance/japan-private-equity-fund-structure-matrix",
       "finance/japan-private-equity-operating-model",
+      "financial-regulators/dbj",
       "insurance/japan-life-insurance-alm-overview",
+      "megabanks/mizuho-bank",
+      "megabanks/mufg-bank",
+      "megabanks/sumitomo-mitsui-banking-corp",
       "money-market/japan-money-market",
       "real-estate-finance/INDEX",
       "real-estate-finance/bank-commercial-real-estate-lending-japan",
@@ -83,22 +81,22 @@
       "real-estate-finance/j-reit-market-overview",
       "real-estate-finance/japan-real-estate-appraisal-methodology",
       "real-estate-finance/jrei-foreign-investment-tax-treatment",
-      "real-estate-finance/real-estate-cap-rate-compression-2026"
+      "real-estate-finance/real-estate-cap-rate-compression-2026",
+      "trust-banks/mitsubishi-ufj-trust-bank",
+      "trust-banks/sumitomo-mitsui-trust"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/dbj",
-      "https://finwiki.zksc.io/JapanFG/mitsubishi-ufj-trust-bank",
-      "https://finwiki.zksc.io/JapanFG/mizuho-bank",
-      "https://finwiki.zksc.io/JapanFG/mufg-bank",
-      "https://finwiki.zksc.io/JapanFG/sumitomo-mitsui-banking-corp",
-      "https://finwiki.zksc.io/JapanFG/sumitomo-mitsui-trust",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
       "https://finwiki.zksc.io/finance/INDEX",
       "https://finwiki.zksc.io/finance/japan-private-equity-fund-structure-matrix",
       "https://finwiki.zksc.io/finance/japan-private-equity-operating-model",
+      "https://finwiki.zksc.io/financial-regulators/dbj",
       "https://finwiki.zksc.io/insurance/japan-life-insurance-alm-overview",
+      "https://finwiki.zksc.io/megabanks/mizuho-bank",
+      "https://finwiki.zksc.io/megabanks/mufg-bank",
+      "https://finwiki.zksc.io/megabanks/sumitomo-mitsui-banking-corp",
       "https://finwiki.zksc.io/money-market/japan-money-market",
       "https://finwiki.zksc.io/real-estate-finance/INDEX",
       "https://finwiki.zksc.io/real-estate-finance/bank-commercial-real-estate-lending-japan",
@@ -107,15 +105,17 @@
       "https://finwiki.zksc.io/real-estate-finance/j-reit-market-overview",
       "https://finwiki.zksc.io/real-estate-finance/japan-real-estate-appraisal-methodology",
       "https://finwiki.zksc.io/real-estate-finance/jrei-foreign-investment-tax-treatment",
-      "https://finwiki.zksc.io/real-estate-finance/real-estate-cap-rate-compression-2026"
+      "https://finwiki.zksc.io/real-estate-finance/real-estate-cap-rate-compression-2026",
+      "https://finwiki.zksc.io/trust-banks/mitsubishi-ufj-trust-bank",
+      "https://finwiki.zksc.io/trust-banks/sumitomo-mitsui-trust"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 13430,
-    "word_like_tokens": 2061,
+    "nonspace_chars": 13526,
+    "word_like_tokens": 2073,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-04"
   }
 }

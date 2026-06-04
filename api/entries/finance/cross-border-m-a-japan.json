@@ -54,39 +54,39 @@
     "wikilinks_count": 12,
     "wikilinks": [
       "INDEX",
-      "JapanFG/daiwa-sg",
-      "JapanFG/goldman-sachs-japan",
-      "JapanFG/jbic",
-      "JapanFG/mizuho-securities",
-      "JapanFG/mufg-mums",
-      "JapanFG/nomura-hd",
-      "JapanFG/smbc-nikko",
       "finance/INDEX",
       "finance/japan-ib-league-table",
+      "financial-regulators/jbic",
       "policy-finance/INDEX",
+      "securities-firms/daiwa-sg",
+      "securities-firms/goldman-sachs-japan",
+      "securities-firms/mizuho-securities",
+      "securities-firms/mufg-mums",
+      "securities-firms/nomura-hd",
+      "securities-firms/smbc-nikko",
       "securities/INDEX"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/daiwa-sg",
-      "https://finwiki.zksc.io/JapanFG/goldman-sachs-japan",
-      "https://finwiki.zksc.io/JapanFG/jbic",
-      "https://finwiki.zksc.io/JapanFG/mizuho-securities",
-      "https://finwiki.zksc.io/JapanFG/mufg-mums",
-      "https://finwiki.zksc.io/JapanFG/nomura-hd",
-      "https://finwiki.zksc.io/JapanFG/smbc-nikko",
       "https://finwiki.zksc.io/finance/INDEX",
       "https://finwiki.zksc.io/finance/japan-ib-league-table",
+      "https://finwiki.zksc.io/financial-regulators/jbic",
       "https://finwiki.zksc.io/policy-finance/INDEX",
+      "https://finwiki.zksc.io/securities-firms/daiwa-sg",
+      "https://finwiki.zksc.io/securities-firms/goldman-sachs-japan",
+      "https://finwiki.zksc.io/securities-firms/mizuho-securities",
+      "https://finwiki.zksc.io/securities-firms/mufg-mums",
+      "https://finwiki.zksc.io/securities-firms/nomura-hd",
+      "https://finwiki.zksc.io/securities-firms/smbc-nikko",
       "https://finwiki.zksc.io/securities/INDEX"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4361,
-    "word_like_tokens": 654,
+    "nonspace_chars": 4473,
+    "word_like_tokens": 666,
     "inbound_wikilinks_count": 46,
-    "last_modified": "2026-05-20"
+    "last_modified": "2026-06-04"
   }
 }

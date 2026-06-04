@@ -1,0 +1,99 @@
+{
+  "schema_version": "1.0",
+  "slug": "payment-firms/bnpl-landscape",
+  "source_path": "payment-firms/bnpl-landscape.md",
+  "url": "https://finwiki.zksc.io/payment-firms/bnpl-landscape",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/payment-firms/bnpl-landscape.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/payment-firms/bnpl-landscape.md",
+  "domain": "payment-firms",
+  "title": "Japan BNPL landscape",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Japan BNPL landscape",
+    "aliases": [
+      "payment-firms/bnpl-landscape",
+      "bnpl-landscape",
+      "Japan BNPL",
+      "日本BNPL",
+      "あと払い landscape"
+    ],
+    "domain": "payment-firms",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-20",
+    "last_tended": "2026-05-20",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "BNPL",
+      "installment-sales",
+      "payments",
+      "consumer-credit",
+      "fintech"
+    ],
+    "status": "active",
+    "sources": [
+      "https://paidy.com/company/",
+      "https://investor.pypl.com/news-and-events/news-details/2021/PayPal-to-Acquire-Paidy/default.aspx",
+      "https://newsroom.jp.paypal-corp.com/2021-09-07-PayPal-to-Acquire-Paidy"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 楽天カード (Rakuten Card) for peer / contrast context and payments index for the broader system / regulatory boundary.",
+  "headings": [
+    "Japan BNPL landscape",
+    "Wiki route",
+    "TL;DR",
+    "Market Map",
+    "Legal / Product Boundary",
+    "Paidy Anchor",
+    "Why BNPL Is Different In Japan",
+    "JapanFG Relevance",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 15,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/INDEX",
+      "card-issuers/credit-saison",
+      "card-issuers/installment-sales-act-2020-amendment",
+      "card-issuers/jaccs",
+      "card-issuers/jcb",
+      "card-issuers/orico",
+      "card-issuers/rakuten-card",
+      "financial-licenses/INDEX",
+      "megabanks/paypay-fg",
+      "payment-firms/gmo-payment-gateway",
+      "payment-firms/paidy",
+      "payment-firms/rakuten-fg",
+      "payments/INDEX",
+      "payments/cashless-jp-landscape"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/card-issuers/credit-saison",
+      "https://finwiki.zksc.io/card-issuers/installment-sales-act-2020-amendment",
+      "https://finwiki.zksc.io/card-issuers/jaccs",
+      "https://finwiki.zksc.io/card-issuers/jcb",
+      "https://finwiki.zksc.io/card-issuers/orico",
+      "https://finwiki.zksc.io/card-issuers/rakuten-card",
+      "https://finwiki.zksc.io/financial-licenses/INDEX",
+      "https://finwiki.zksc.io/megabanks/paypay-fg",
+      "https://finwiki.zksc.io/payment-firms/gmo-payment-gateway",
+      "https://finwiki.zksc.io/payment-firms/paidy",
+      "https://finwiki.zksc.io/payment-firms/rakuten-fg",
+      "https://finwiki.zksc.io/payments/INDEX",
+      "https://finwiki.zksc.io/payments/cashless-jp-landscape"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 4674,
+    "word_like_tokens": 718,
+    "inbound_wikilinks_count": 17,
+    "last_modified": "2026-06-04"
+  }
+}

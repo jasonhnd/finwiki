@@ -1,0 +1,107 @@
+{
+  "schema_version": "1.0",
+  "slug": "foreign-financial-institutions/state-bank-of-india-japan",
+  "source_path": "foreign-financial-institutions/state-bank-of-india-japan.md",
+  "url": "https://finwiki.zksc.io/foreign-financial-institutions/state-bank-of-india-japan",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/foreign-financial-institutions/state-bank-of-india-japan.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/foreign-financial-institutions/state-bank-of-india-japan.md",
+  "domain": "foreign-financial-institutions",
+  "title": "インドステイト銀行日本 (State Bank of India Japan)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "インドステイト銀行日本 (State Bank of India Japan)",
+    "aliases": [
+      "State Bank of India Japan",
+      "SBI Japan",
+      "インドステイト銀行",
+      "State Bank of India Tokyo Branch",
+      "State Bank of India Osaka Branch"
+    ],
+    "domain": "foreign-financial-institutions",
+    "created": "2026-05-22",
+    "last_updated": "2026-05-22",
+    "last_tended": "2026-05-22",
+    "review_by": "2026-11-22",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "foreign-bank",
+      "India",
+      "corporate-banking",
+      "trade-finance"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/en/regulated/licensed/index.html",
+      "https://www.fsa.go.jp/en/regulated/licensed/city.pdf",
+      "https://www.fsa.go.jp/en/regulated/licensed/foreign.pdf",
+      "https://jp.statebank/about-sbi-japan",
+      "https://jp.statebank/contact-us",
+      "https://www.ibajapan.org/who-we-are/our-members/commercial-bank/state-bank-india"
+    ]
+  },
+  "summary": "State Bank of India Japan is the main India-Japan banking-corridor page in the foreign-bank branch registry. Read it with Bank of India Japan, JBIC, cross-border M&A Japan, and foreign-bank agency route.",
+  "headings": [
+    "インドステイト銀行日本 (State Bank of India Japan)",
+    "Wiki route",
+    "Overview",
+    "Disambiguation",
+    "India-Japan Corridor Role",
+    "Peer Map",
+    "Research Checklist",
+    "Caveats",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 18,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/INDEX",
+      "banking/INDEX",
+      "banking/foreign-bank-japan-retreat",
+      "finance/INDEX",
+      "finance/cross-border-m-a-japan",
+      "financial-licenses/foreign-bank-agency-business-route",
+      "financial-licenses/foreign-bank-branch-license-route",
+      "financial-regulators/jbic",
+      "foreign-financial-institutions/bank-of-india-japan",
+      "foreign-financial-institutions/foreign-bank-branches-japan-index",
+      "foreign-financial-institutions/state-bank-of-india-japan",
+      "megabanks/mizuho-bank",
+      "megabanks/mufg-bank",
+      "megabanks/sbi-hd",
+      "megabanks/sumitomo-mitsui-banking-corp",
+      "regional-banks/sbi-shinsei-bank",
+      "securities-firms/sbi-securities"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/banking/foreign-bank-japan-retreat",
+      "https://finwiki.zksc.io/finance/INDEX",
+      "https://finwiki.zksc.io/finance/cross-border-m-a-japan",
+      "https://finwiki.zksc.io/financial-licenses/foreign-bank-agency-business-route",
+      "https://finwiki.zksc.io/financial-licenses/foreign-bank-branch-license-route",
+      "https://finwiki.zksc.io/financial-regulators/jbic",
+      "https://finwiki.zksc.io/foreign-financial-institutions/bank-of-india-japan",
+      "https://finwiki.zksc.io/foreign-financial-institutions/foreign-bank-branches-japan-index",
+      "https://finwiki.zksc.io/foreign-financial-institutions/state-bank-of-india-japan",
+      "https://finwiki.zksc.io/megabanks/mizuho-bank",
+      "https://finwiki.zksc.io/megabanks/mufg-bank",
+      "https://finwiki.zksc.io/megabanks/sbi-hd",
+      "https://finwiki.zksc.io/megabanks/sumitomo-mitsui-banking-corp",
+      "https://finwiki.zksc.io/regional-banks/sbi-shinsei-bank",
+      "https://finwiki.zksc.io/securities-firms/sbi-securities"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 4792,
+    "word_like_tokens": 764,
+    "inbound_wikilinks_count": 9,
+    "last_modified": "2026-06-04"
+  }
+}

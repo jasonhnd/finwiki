@@ -59,37 +59,37 @@
     "wikilinks_count": 11,
     "wikilinks": [
       "INDEX",
-      "JapanFG/japan-exchange-group",
-      "JapanFG/sbi-shinsei-bank",
-      "JapanFG/sony-fg",
-      "JapanFG/wealthnavi",
       "finance/INDEX",
       "finance/cross-border-m-a-japan",
       "finance/japan-acquisition-finance",
       "finance/japan-activist-investor-playbook",
       "finance/japan-tender-offer-process",
+      "financial-regulators/japan-exchange-group",
+      "megabanks/sony-fg",
+      "payment-firms/wealthnavi",
+      "regional-banks/sbi-shinsei-bank",
       "securities/tokyo-stock-exchange"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/japan-exchange-group",
-      "https://finwiki.zksc.io/JapanFG/sbi-shinsei-bank",
-      "https://finwiki.zksc.io/JapanFG/sony-fg",
-      "https://finwiki.zksc.io/JapanFG/wealthnavi",
       "https://finwiki.zksc.io/finance/INDEX",
       "https://finwiki.zksc.io/finance/cross-border-m-a-japan",
       "https://finwiki.zksc.io/finance/japan-acquisition-finance",
       "https://finwiki.zksc.io/finance/japan-activist-investor-playbook",
       "https://finwiki.zksc.io/finance/japan-tender-offer-process",
+      "https://finwiki.zksc.io/financial-regulators/japan-exchange-group",
+      "https://finwiki.zksc.io/megabanks/sony-fg",
+      "https://finwiki.zksc.io/payment-firms/wealthnavi",
+      "https://finwiki.zksc.io/regional-banks/sbi-shinsei-bank",
       "https://finwiki.zksc.io/securities/tokyo-stock-exchange"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6656,
-    "word_like_tokens": 1012,
+    "nonspace_chars": 6712,
+    "word_like_tokens": 1018,
     "inbound_wikilinks_count": 31,
-    "last_modified": "2026-05-22"
+    "last_modified": "2026-06-04"
   }
 }

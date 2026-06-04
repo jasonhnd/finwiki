@@ -60,9 +60,6 @@
     "wikilinks_count": 15,
     "wikilinks": [
       "INDEX",
-      "JapanFG/gmo-aozora-net",
-      "JapanFG/ssnb",
-      "JapanFG/ui-bank",
       "banking/INDEX",
       "banking/baas-japan-landscape",
       "banking/japan-net-bank-competition-map",
@@ -72,14 +69,14 @@
       "banking/quick-deposit-four-methods",
       "banking/regional-bank-api-digital-partnership-route",
       "fintech/japan-financial-regulation",
+      "payment-firms/gmo-aozora-net",
       "payments/account-to-account-payment-japan",
-      "payments/japan-bank-api-payment-agency-route"
+      "payments/japan-bank-api-payment-agency-route",
+      "regional-banks/ssnb",
+      "regional-banks/ui-bank"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/gmo-aozora-net",
-      "https://finwiki.zksc.io/JapanFG/ssnb",
-      "https://finwiki.zksc.io/JapanFG/ui-bank",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/baas-japan-landscape",
       "https://finwiki.zksc.io/banking/japan-net-bank-competition-map",
@@ -89,16 +86,19 @@
       "https://finwiki.zksc.io/banking/quick-deposit-four-methods",
       "https://finwiki.zksc.io/banking/regional-bank-api-digital-partnership-route",
       "https://finwiki.zksc.io/fintech/japan-financial-regulation",
+      "https://finwiki.zksc.io/payment-firms/gmo-aozora-net",
       "https://finwiki.zksc.io/payments/account-to-account-payment-japan",
-      "https://finwiki.zksc.io/payments/japan-bank-api-payment-agency-route"
+      "https://finwiki.zksc.io/payments/japan-bank-api-payment-agency-route",
+      "https://finwiki.zksc.io/regional-banks/ssnb",
+      "https://finwiki.zksc.io/regional-banks/ui-bank"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6240,
-    "word_like_tokens": 988,
-    "inbound_wikilinks_count": 11,
-    "last_modified": "2026-06-02"
+    "nonspace_chars": 6320,
+    "word_like_tokens": 1000,
+    "inbound_wikilinks_count": 12,
+    "last_modified": "2026-06-04"
   }
 }

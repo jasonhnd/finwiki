@@ -32,7 +32,7 @@ sources:
 
 Japan IPO records combine exchange listing review, securities registration disclosure, underwriting / bookbuilding, listing approval, TDnet timely disclosure, EDINET statutory disclosure, and post-listing corporate-governance records. This page records the public route for issuer entry onto TSE-listed markets.
 
-This page belongs to [[securities/INDEX|securities domain]] and links to [[finance/INDEX|finance domain]], [[securities/tokyo-stock-exchange|Tokyo Stock Exchange]], [[JapanFG/japan-exchange-group|Japan Exchange Group]], [[securities/japan-underwriting-market-structure|Japan underwriting market structure]], [[securities/japan-market-infrastructure-map|Japan market infrastructure map]], [[JapanFG/legal-financial-licenses/securities-license-stack|Japan securities license stack]], [[finance/japan-ib-league-table|Japan IB league table]], and [[finance/japan-fair-disclosure-and-insider-trading-controls|fair disclosure and insider trading controls]].
+This page belongs to [[securities/INDEX|securities domain]] and links to [[finance/INDEX|finance domain]], [[securities/tokyo-stock-exchange|Tokyo Stock Exchange]], [[financial-regulators/japan-exchange-group|Japan Exchange Group]], [[securities/japan-underwriting-market-structure|Japan underwriting market structure]], [[securities/japan-market-infrastructure-map|Japan market infrastructure map]], [[financial-licenses/securities-license-stack|Japan securities license stack]], [[finance/japan-ib-league-table|Japan IB league table]], and [[finance/japan-fair-disclosure-and-insider-trading-controls|fair disclosure and insider trading controls]].
 
 ## Route Map
 
@@ -117,19 +117,19 @@ The JPX listing schedule page viewed in the source pack showed an update date of
 
 ## JapanFG Links
 
-- Securities underwriters: [[JapanFG/nomura-hd]], [[JapanFG/daiwa-sg]], [[JapanFG/smbc-nikko]], [[JapanFG/mizuho-securities]], [[JapanFG/mufg-mums]].
+- Securities underwriters: [[securities-firms/nomura-hd]], [[securities-firms/daiwa-sg]], [[securities-firms/smbc-nikko]], [[securities-firms/mizuho-securities]], [[securities-firms/mufg-mums]].
 - Online brokerage distribution: [[securities/japan-online-brokerage-competition]].
-- Exchange / infrastructure: [[JapanFG/japan-exchange-group]], [[securities/tokyo-stock-exchange]], [[securities/japan-securities-clearing-corp]], [[securities/japan-securities-depository-center]].
+- Exchange / infrastructure: [[financial-regulators/japan-exchange-group]], [[securities/tokyo-stock-exchange]], [[securities/japan-securities-clearing-corp]], [[securities/japan-securities-depository-center]].
 
 ## Related
 
 - [[securities/INDEX]]
 - [[finance/INDEX]]
 - [[securities/tokyo-stock-exchange]]
-- [[JapanFG/japan-exchange-group]]
+- [[financial-regulators/japan-exchange-group]]
 - [[securities/japan-underwriting-market-structure]]
 - [[securities/japan-market-infrastructure-map]]
-- [[JapanFG/legal-financial-licenses/securities-license-stack]]
+- [[financial-licenses/securities-license-stack]]
 - [[finance/japan-ib-league-table]]
 - [[finance/japan-fair-disclosure-and-insider-trading-controls]]
 - [[finance/japan-tender-offer-process]]

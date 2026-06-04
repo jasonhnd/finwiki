@@ -1,0 +1,88 @@
+{
+  "schema_version": "1.0",
+  "slug": "non-life-insurers/ntt-docomo-sompo-hd",
+  "source_path": "non-life-insurers/ntt-docomo-sompo-hd.md",
+  "url": "https://finwiki.zksc.io/non-life-insurers/ntt-docomo-sompo-hd",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/non-life-insurers/ntt-docomo-sompo-hd.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/non-life-insurers/ntt-docomo-sompo-hd.md",
+  "domain": "non-life-insurers",
+  "title": "NTTドコモ損害保険ホールディングス",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "NTTドコモ損害保険ホールディングス",
+    "aliases": [
+      "NTTドコモ損保HD",
+      "NTT Docomo Sompo HD",
+      "NTT Docomo Non-life Insurance Holdings",
+      "株式会社NTTドコモ損害保険ホールディングス"
+    ],
+    "domain": "non-life-insurers",
+    "created": "2026-05-21",
+    "last_updated": "2026-05-21",
+    "last_tended": "2026-05-21",
+    "review_by": "2026-11-21",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "insurance",
+      "insurance-holding-company",
+      "ntt-docomo",
+      "reinsurance",
+      "holding-company"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/menkyo/menkyoj/hokenmochikabu.pdf",
+      "https://www.fsa.go.jp/news/r5/hoken/20240404-2/20240404.html",
+      "https://www.docomo-sompo-hd.com/company/"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it with insurance index for adjacent context and JapanFG index for the broader system boundary.",
+  "headings": [
+    "NTTドコモ損害保険ホールディングス",
+    "Wiki route",
+    "TL;DR",
+    "1. License / group boundary",
+    "2. Operating model",
+    "3. Why this page matters",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 11,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "au-fh",
+      "financial-licenses/INDEX",
+      "financial-regulators/missing-financial-institutions-backlog",
+      "insurance/INDEX",
+      "megabanks/au-fh",
+      "megabanks/ndfg",
+      "ndfg",
+      "non-life-insurers/au-insurance",
+      "non-life-insurers/sompo",
+      "paypay-fg"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/au-fh",
+      "https://finwiki.zksc.io/financial-licenses/INDEX",
+      "https://finwiki.zksc.io/financial-regulators/missing-financial-institutions-backlog",
+      "https://finwiki.zksc.io/insurance/INDEX",
+      "https://finwiki.zksc.io/megabanks/au-fh",
+      "https://finwiki.zksc.io/megabanks/ndfg",
+      "https://finwiki.zksc.io/ndfg",
+      "https://finwiki.zksc.io/non-life-insurers/au-insurance",
+      "https://finwiki.zksc.io/non-life-insurers/sompo",
+      "https://finwiki.zksc.io/paypay-fg"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2351,
+    "word_like_tokens": 374,
+    "inbound_wikilinks_count": 3,
+    "last_modified": "2026-06-04"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "schema_version": "1.0",
+  "slug": "payment-firms/revolut-technologies-japan",
+  "source_path": "payment-firms/revolut-technologies-japan.md",
+  "url": "https://finwiki.zksc.io/payment-firms/revolut-technologies-japan",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/payment-firms/revolut-technologies-japan.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/payment-firms/revolut-technologies-japan.md",
+  "domain": "payment-firms",
+  "title": "REVOLUT TECHNOLOGIES JAPAN",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "REVOLUT TECHNOLOGIES JAPAN",
+    "aliases": [
+      "Revolut Japan",
+      "REVOLUT TECHNOLOGIES JAPAN株式会社",
+      "レボリュート",
+      "Revolut Technologies Japan"
+    ],
+    "domain": "payment-firms",
+    "created": "2026-05-21",
+    "last_updated": "2026-05-21",
+    "last_tended": "2026-05-21",
+    "review_by": "2026-11-21",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "payments",
+      "remittance",
+      "wallet",
+      "funds-transfer",
+      "neobank"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.revolut.com/ja-JP",
+      "https://www.revolut.com/ja-JP/legal/website-terms-and-conditions/",
+      "https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against PayPal Pte. Ltd. Japan service boundary for peer / contrast context and payments index for the broader system / regulatory boundary.",
+  "headings": [
+    "REVOLUT TECHNOLOGIES JAPAN",
+    "Wiki route",
+    "TL;DR",
+    "1. 法人・ライセンス境界",
+    "2. Business role",
+    "3. Why this standalone page matters",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 8,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "payment-firms/airwallex-japan",
+      "payment-firms/paypal-pte-ltd-japan",
+      "payment-firms/paypay",
+      "payment-firms/wise-payments-japan",
+      "payments/INDEX",
+      "payments/cashless-jp-landscape",
+      "payments/funds-transfer-vs-prepaid-boundary"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/payment-firms/airwallex-japan",
+      "https://finwiki.zksc.io/payment-firms/paypal-pte-ltd-japan",
+      "https://finwiki.zksc.io/payment-firms/paypay",
+      "https://finwiki.zksc.io/payment-firms/wise-payments-japan",
+      "https://finwiki.zksc.io/payments/INDEX",
+      "https://finwiki.zksc.io/payments/cashless-jp-landscape",
+      "https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2109,
+    "word_like_tokens": 330,
+    "inbound_wikilinks_count": 5,
+    "last_modified": "2026-06-04"
+  }
+}

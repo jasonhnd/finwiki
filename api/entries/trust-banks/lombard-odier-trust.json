@@ -1,0 +1,78 @@
+{
+  "schema_version": "1.0",
+  "slug": "trust-banks/lombard-odier-trust",
+  "source_path": "trust-banks/lombard-odier-trust.md",
+  "url": "https://finwiki.zksc.io/trust-banks/lombard-odier-trust",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/trust-banks/lombard-odier-trust.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/trust-banks/lombard-odier-trust.md",
+  "domain": "trust-banks",
+  "title": "Lombard Odier Trust Japan / ロンバー・オディエ信託",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Lombard Odier Trust Japan / ロンバー・オディエ信託",
+    "aliases": [
+      "ロンバー・オディエ信託",
+      "ロンバー・オディエ信託株式会社",
+      "Lombard Odier Trust Japan"
+    ],
+    "domain": "trust-banks",
+    "created": "2026-05-22",
+    "last_updated": "2026-05-22",
+    "last_tended": "2026-05-22",
+    "review_by": "2026-11-22",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "trust-company",
+      "private-banking",
+      "wealth-management",
+      "public-source"
+    ],
+    "status": "active",
+    "sources": [
+      "FSA trust company list: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.xlsx",
+      "Lombard Odier Tokyo office: https://asia.lombardodier.com/ja/home/offices/tokyo.html",
+      "Lombard Odier group profile: https://www.lombardodier.com/ja/home/about-us/la-maison.html"
+    ]
+  },
+  "summary": "Wiki route: JapanFG/INDEX -> trust-banks/trust-companies-japan-index -> trust-banks/lombard-odier-trust",
+  "headings": [
+    "Lombard Odier Trust Japan / ロンバー・オディエ信託",
+    "Overview",
+    "Entity Boundary",
+    "Business Role Map",
+    "Public Context",
+    "Research Checklist",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 7,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/INDEX",
+      "financial-licenses/foreign-financial-group-adjacent-licenses",
+      "financial-licenses/securities-license-stack",
+      "trust-banks/lgt-wealth-management-trust",
+      "trust-banks/lombard-odier-trust",
+      "trust-banks/trust-companies-japan-index"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/financial-licenses/foreign-financial-group-adjacent-licenses",
+      "https://finwiki.zksc.io/financial-licenses/securities-license-stack",
+      "https://finwiki.zksc.io/trust-banks/lgt-wealth-management-trust",
+      "https://finwiki.zksc.io/trust-banks/lombard-odier-trust",
+      "https://finwiki.zksc.io/trust-banks/trust-companies-japan-index"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 2545,
+    "word_like_tokens": 404,
+    "inbound_wikilinks_count": 4,
+    "last_modified": "2026-06-04"
+  }
+}

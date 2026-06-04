@@ -1,0 +1,94 @@
+{
+  "schema_version": "1.0",
+  "slug": "life-insurers/aia-life-japan",
+  "source_path": "life-insurers/aia-life-japan.md",
+  "url": "https://finwiki.zksc.io/life-insurers/aia-life-japan",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/life-insurers/aia-life-japan.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/life-insurers/aia-life-japan.md",
+  "domain": "life-insurers",
+  "title": "AIA Life Japan / AIA生命保険",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "AIA Life Japan / AIA生命保険",
+    "aliases": [
+      "AIA Life Japan",
+      "AIA Group Japan",
+      "AIA International",
+      "AIA生命",
+      "AIA Japan branch",
+      "life-insurers/aia"
+    ],
+    "domain": "life-insurers",
+    "created": "2026-05-24",
+    "last_updated": "2026-05-24",
+    "last_tended": "2026-05-24",
+    "review_by": "2026-11-20",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "insurance",
+      "life-insurance",
+      "foreign-insurer",
+      "asia-pacific-insurer",
+      "public-source"
+    ],
+    "status": "active",
+    "sources": [
+      "FSA life insurer list: https://www.fsa.go.jp/menkyo/hoken.pdf",
+      "AIA Group official: https://www.aia.com",
+      "AIA Group Annual Report (公開版・HKEX 1299)"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against MetLife Japan and Manulife Life Insurance Japan for foreign-life-insurer peer context, and insurance index for the broader Japan life insurance market system / regulatory boundary.",
+  "headings": [
+    "AIA Life Japan / AIA生命保険",
+    "Wiki route",
+    "TL;DR",
+    "1. License / group boundary",
+    "2. Operating model",
+    "3. Why this page matters",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 13,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "asset-managers/principal-japan",
+      "financial-licenses/insurance-license-and-solvency",
+      "insurance/INDEX",
+      "insurance/global-solvency-framework-comparison-matrix",
+      "insurance/japan-life-insurance-big-four",
+      "insurance/life-insurance-channel-mix",
+      "life-insurers/aflac-japan",
+      "life-insurers/axa-japan",
+      "life-insurers/manulife-japan",
+      "life-insurers/metlife-japan",
+      "life-insurers/nn-life-japan",
+      "life-insurers/prudential-japan"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/asset-managers/principal-japan",
+      "https://finwiki.zksc.io/financial-licenses/insurance-license-and-solvency",
+      "https://finwiki.zksc.io/insurance/INDEX",
+      "https://finwiki.zksc.io/insurance/global-solvency-framework-comparison-matrix",
+      "https://finwiki.zksc.io/insurance/japan-life-insurance-big-four",
+      "https://finwiki.zksc.io/insurance/life-insurance-channel-mix",
+      "https://finwiki.zksc.io/life-insurers/aflac-japan",
+      "https://finwiki.zksc.io/life-insurers/axa-japan",
+      "https://finwiki.zksc.io/life-insurers/manulife-japan",
+      "https://finwiki.zksc.io/life-insurers/metlife-japan",
+      "https://finwiki.zksc.io/life-insurers/nn-life-japan",
+      "https://finwiki.zksc.io/life-insurers/prudential-japan"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 4481,
+    "word_like_tokens": 740,
+    "inbound_wikilinks_count": 5,
+    "last_modified": "2026-06-04"
+  }
+}

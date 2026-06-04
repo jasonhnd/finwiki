@@ -28,7 +28,7 @@ sources:
 
 JFTC (Japan Fair Trade Commission) merger control is the antitrust gate that sits in parallel with the [[finance/japan-tender-offer-process|FIEA tender offer route]]: any control transaction that crosses domestic-turnover thresholds must be **pre-notified** to JFTC under the Antimonopoly Act (AMA) and cleared before completion. It belongs in [[finance/INDEX|finance]] because it is the primary regulatory veto for [[finance/cross-border-m-a-japan|cross-border M&A in Japan]] and for [[finance/japan-acquisition-finance|acquisition-financed]] deals.
 
-Read this page with [[finance/japan-mbo-and-squeeze-out-process|MBO and squeeze-out process]], [[finance/japan-activist-investor-playbook|activist playbook]], [[finance/japan-leveraged-buyout-economics|Japan LBO economics]], [[JapanFG/legal-financial-licenses/securities-license-stack|securities license stack]], and the wider [[INDEX|FinWiki index]] for routing.
+Read this page with [[finance/japan-mbo-and-squeeze-out-process|MBO and squeeze-out process]], [[finance/japan-activist-investor-playbook|activist playbook]], [[finance/japan-leveraged-buyout-economics|Japan LBO economics]], [[financial-licenses/securities-license-stack|securities license stack]], and the wider [[INDEX|FinWiki index]] for routing.
 
 ## Notification thresholds (post-2010 amendment)
 
@@ -87,7 +87,7 @@ Remedy: clean-team / outside-counsel review filters, hold-separate covenants, an
 2. Pull the pre-notification consultation summary if published.
 3. Map notification dates against [[finance/japan-tender-offer-process|TOB timeline]] — JFTC clearance is often a TOB condition precedent.
 4. Read JFTC annual report for the year's enforcement priorities and Phase II-rate.
-5. Check whether the deal also requires [[JapanFG/legal-financial-licenses/securities-license-stack|sector-license]] approval (banking, telecom, energy).
+5. Check whether the deal also requires [[financial-licenses/securities-license-stack|sector-license]] approval (banking, telecom, energy).
 
 ## Related
 
@@ -99,7 +99,7 @@ Remedy: clean-team / outside-counsel review filters, hold-separate covenants, an
 - [[finance/japan-leveraged-buyout-economics]]
 - [[finance/japan-activist-investor-playbook]]
 - [[finance/japan-fair-disclosure-and-insider-trading-controls]]
-- [[JapanFG/legal-financial-licenses/securities-license-stack]]
+- [[financial-licenses/securities-license-stack]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

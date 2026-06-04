@@ -28,7 +28,7 @@ sources:
 
 Japan underwriting is the capital-raising bridge between issuers, securities firms, investors, exchanges, disclosure systems, and settlement infrastructure. The lead underwriter / lead manager role is not just sales distribution; it also anchors due diligence, listing preparation, pricing, bookbuilding, syndicate coordination, and investor-protection controls.
 
-Use this page with [[finance/japan-ib-league-table|Japan IB league table]], [[JapanFG/legal-financial-licenses/securities-license-stack|Japan securities license stack]], [[securities/japan-market-infrastructure-map|Japan market infrastructure map]], and issuer / broker pages such as [[JapanFG/nomura-hd|Nomura]], [[JapanFG/daiwa-sg|Daiwa Securities Group]], [[JapanFG/smbc-nikko|SMBC Nikko]], [[JapanFG/mizuho-securities|Mizuho Securities]], and [[JapanFG/mufg-mums|MUMSS]].
+Use this page with [[finance/japan-ib-league-table|Japan IB league table]], [[financial-licenses/securities-license-stack|Japan securities license stack]], [[securities/japan-market-infrastructure-map|Japan market infrastructure map]], and issuer / broker pages such as [[securities-firms/nomura-hd|Nomura]], [[securities-firms/daiwa-sg|Daiwa Securities Group]], [[securities-firms/smbc-nikko|SMBC Nikko]], [[securities-firms/mizuho-securities|Mizuho Securities]], and [[securities-firms/mufg-mums|MUMSS]].
 
 ## Functional Chain
 
@@ -45,11 +45,11 @@ Use this page with [[finance/japan-ib-league-table|Japan IB league table]], [[Ja
 
 | Type | Typical role | FinWiki pages |
 |---|---|---|
-| Independent full-service securities group | Large IPO / PO / bond underwriting, research, distribution, trading, wealth channels. | [[JapanFG/nomura-hd]], [[JapanFG/daiwa-sg]] |
-| Megabank-affiliated securities firm | Corporate banking relationship plus securities underwriting / distribution. | [[JapanFG/smbc-nikko]], [[JapanFG/mizuho-securities]], [[JapanFG/mufg-mums]] |
-| Foreign investment bank / broker | Cross-border equity, debt, M&A, institutional distribution, global sector coverage. | [[JapanFG/goldman-sachs-japan]], [[JapanFG/jpmorgan-japan]], [[JapanFG/morgan-stanley-japan]], [[JapanFG/bnp-paribas-japan]], [[JapanFG/ubs-japan]] |
-| Mid-tier / regional securities firm | Regional issuer access, retail distribution, secondary roles, local wealth channels. | [[JapanFG/okasan-sg]], [[JapanFG/tokai-tokyo-fh]], [[JapanFG/aizawa-sg]], [[JapanFG/iwai-cosmo-hd]] |
-| Online broker distribution participant | Retail distribution and post-listing trading access; less often the full lead underwriting core. | [[JapanFG/sbi-securities]], [[JapanFG/rakuten-securities]], [[securities/japan-online-brokerage-competition]] |
+| Independent full-service securities group | Large IPO / PO / bond underwriting, research, distribution, trading, wealth channels. | [[securities-firms/nomura-hd]], [[securities-firms/daiwa-sg]] |
+| Megabank-affiliated securities firm | Corporate banking relationship plus securities underwriting / distribution. | [[securities-firms/smbc-nikko]], [[securities-firms/mizuho-securities]], [[securities-firms/mufg-mums]] |
+| Foreign investment bank / broker | Cross-border equity, debt, M&A, institutional distribution, global sector coverage. | [[securities-firms/goldman-sachs-japan]], [[foreign-financial-institutions/jpmorgan-japan]], [[securities-firms/morgan-stanley-japan]], [[foreign-financial-institutions/bnp-paribas-japan]], [[foreign-financial-institutions/ubs-japan]] |
+| Mid-tier / regional securities firm | Regional issuer access, retail distribution, secondary roles, local wealth channels. | [[securities-firms/okasan-sg]], [[securities-firms/tokai-tokyo-fh]], [[securities-firms/aizawa-sg]], [[securities-firms/iwai-cosmo-hd]] |
+| Online broker distribution participant | Retail distribution and post-listing trading access; less often the full lead underwriting core. | [[securities-firms/sbi-securities]], [[securities-firms/rakuten-securities]], [[securities/japan-online-brokerage-competition]] |
 
 ## IPO / PO Reading
 
@@ -102,17 +102,17 @@ Use the league table to ask "who is active in this slice," then use this page to
 
 - [[securities/INDEX]]
 - [[finance/japan-ib-league-table]]
-- [[JapanFG/legal-financial-licenses/securities-license-stack]]
+- [[financial-licenses/securities-license-stack]]
 - [[securities/japan-market-infrastructure-map]]
 - [[securities/tokyo-stock-exchange]]
 - [[securities/japan-securities-clearing-corp]]
 - [[securities/japan-securities-depository-center]]
-- [[JapanFG/jsda]]
-- [[JapanFG/nomura-hd]]
-- [[JapanFG/daiwa-sg]]
-- [[JapanFG/smbc-nikko]]
-- [[JapanFG/mizuho-securities]]
-- [[JapanFG/mufg-mums]]
+- [[financial-regulators/jsda]]
+- [[securities-firms/nomura-hd]]
+- [[securities-firms/daiwa-sg]]
+- [[securities-firms/smbc-nikko]]
+- [[securities-firms/mizuho-securities]]
+- [[securities-firms/mufg-mums]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

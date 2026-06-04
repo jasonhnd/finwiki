@@ -47,7 +47,7 @@ Japan's private capital universe is NOT one asset class; it is at least six dist
 
 ## Wiki route
 
-This entry sits under [[finance/INDEX|finance index]]. Read it against [[finance/japan-private-equity-operating-model]] for sponsor / portco operating playbook, [[finance/japan-leveraged-buyout-economics]] for LBO IRR math, [[finance/japan-acquisition-finance]] for the debt-stack interface, [[finance/japan-mbo-and-squeeze-out-process]] for take-private mechanics, [[finance/japan-ib-league-table]] for adviser-side franchise, and [[finance/japan-listed-financial-groups-investable-universe]] for the listed-company universe sponsors source deals from. Public-credit and bank-finance contexts route to [[banking/regional-bank-consolidation-pattern]] and [[JapanFG/dbj]]; institutional-financing surface routes to [[securities/japan-prime-brokerage-and-institutional-financing]] and [[securities/japan-asset-manager-landscape-matrix]].
+This entry sits under [[finance/INDEX|finance index]]. Read it against [[finance/japan-private-equity-operating-model]] for sponsor / portco operating playbook, [[finance/japan-leveraged-buyout-economics]] for LBO IRR math, [[finance/japan-acquisition-finance]] for the debt-stack interface, [[finance/japan-mbo-and-squeeze-out-process]] for take-private mechanics, [[finance/japan-ib-league-table]] for adviser-side franchise, and [[finance/japan-listed-financial-groups-investable-universe]] for the listed-company universe sponsors source deals from. Public-credit and bank-finance contexts route to [[banking/regional-bank-consolidation-pattern]] and [[financial-regulators/dbj]]; institutional-financing surface routes to [[securities/japan-prime-brokerage-and-institutional-financing]] and [[securities/japan-asset-manager-landscape-matrix]].
 
 ## Why this matrix matters
 
@@ -85,7 +85,7 @@ Read this with [[finance/japan-leveraged-buyout-economics]] for the buyout IRR w
 | **Global mega-PE Japan team** | KKR Japan, Bain Capital Japan, Carlyle Japan, EQT Japan, CVC Japan |
 | **Domestic independent buyout** | Advantage Partners, J-STAR, Unison Capital |
 | **Domestic independent growth** | Polaris Capital Group, Integral Corporation, NSSK |
-| **Sovereign / policy-aligned** | JIC Capital (under Japan Investment Corporation), DBJ Capital ([[JapanFG/dbj|DBJ]]-affiliated) |
+| **Sovereign / policy-aligned** | JIC Capital (under Japan Investment Corporation), DBJ Capital ([[financial-regulators/dbj|DBJ]]-affiliated) |
 | **Foreign secondaries / continuation** | Coller Capital, Ardian, Strategic Partners (BX), Lexington Partners (Franklin), HarbourVest |
 | **Foreign / global infrastructure** | Macquarie Asset Management, Global Infrastructure Partners (BlackRock), KKR Infrastructure, Brookfield Infrastructure |
 | **Foreign / global private credit** | Apollo, Blackstone Credit (BXCI), Ares Japan, Oaktree, Sixth Street, Bain Capital Credit |
@@ -100,7 +100,7 @@ This is a public-website-only enumeration; it is NOT a recommendation, ranking, 
 |---|---|
 | Target company profile | Established, EBITDA ¥1-50bn typical band; EV ¥10-500bn typical; sector-agnostic with healthcare, industrials, software, consumer concentrations. |
 | Sector | Industrials, healthcare, software / IT services, consumer, financial services. |
-| Leverage assumption | 5-7x EBITDA typical; sometimes higher for stable cash-flow businesses; LBO loan clubbed across [[JapanFG/mufg-bank]], [[JapanFG/mizuho-bank]], [[JapanFG/sumitomo-mitsui-banking-corp|SMBC]], [[JapanFG/smtb|SMTB]]. |
+| Leverage assumption | 5-7x EBITDA typical; sometimes higher for stable cash-flow businesses; LBO loan clubbed across [[megabanks/mufg-bank]], [[megabanks/mizuho-bank]], [[megabanks/sumitomo-mitsui-banking-corp|SMBC]], [[trust-banks/smtb|SMTB]]. |
 | Hold period | 4-7 years typical (some 3-5 yr for global mega-PE Japan teams; some 5-8 yr for domestic independents). |
 | Fee / carry | 2% / 20% (standard for global mega-PE Japan team); 1.5% / 20% (some newer / domestic); above 8% hurdle / preferred return; European-style waterfall common in domestic, deal-by-deal in global. |
 | LP mix | Global pensions (CalPERS, CPP, OTPP, GPIF (limited)), sovereign wealth (ADIA, GIC, KIA), Japanese megabank treasury, Japanese life insurers, foundations, family offices, fund-of-funds. |
@@ -169,7 +169,7 @@ Continuation funds are a relatively newer structure in Japan; conflict-managemen
 | Vehicle jurisdiction | Cayman ELP for global; Luxembourg SCSp for EU LP base; Japan-specific structures for domestic infra TK-GK. |
 | Income profile | Yield-oriented: 4-8% cash yield + capital appreciation. |
 
-Global infra GPs active in Japan / APAC infrastructure include Macquarie Asset Management, Global Infrastructure Partners (BlackRock), KKR Infrastructure, Brookfield Infrastructure, I Squared Capital, Stonepeak. Japan-domestic infra includes [[JapanFG/dbj|DBJ]]-affiliated DBJ Capital, JOIN (Japan Overseas Infrastructure Investment Corporation), and several Japan-listed renewable / infra funds.
+Global infra GPs active in Japan / APAC infrastructure include Macquarie Asset Management, Global Infrastructure Partners (BlackRock), KKR Infrastructure, Brookfield Infrastructure, I Squared Capital, Stonepeak. Japan-domestic infra includes [[financial-regulators/dbj|DBJ]]-affiliated DBJ Capital, JOIN (Japan Overseas Infrastructure Investment Corporation), and several Japan-listed renewable / infra funds.
 
 ### Private credit
 
@@ -261,7 +261,7 @@ Fee / carry varies by GP, fund vintage, LP relationship (anchor LPs negotiate br
 | Endowments / foundations | 10-25% | Limited Japan PE presence; mostly global foundations |
 | Family offices | Variable | Growing Japan LP segment; some single-family offices active in PE / VC |
 | Fund-of-funds | All | HarbourVest, Pantheon, Mercer, etc.; multiple Japan-focused FOF programs |
-| Banks (treasury / proprietary) | Small allocation | Japanese megabank treasury, regional banks, [[JapanFG/dbj|DBJ]] |
+| Banks (treasury / proprietary) | Small allocation | Japanese megabank treasury, regional banks, [[financial-regulators/dbj|DBJ]] |
 | Government-aligned | Variable | JIC (Japan Investment Corporation), DBJ, JBIC, JOIN |
 
 Read this with [[securities/japan-asset-manager-landscape-matrix]] for the asset-manager landscape, [[finance/japan-listed-financial-groups-investable-universe]] for the Japan listed-FG LP perimeter, and [[securities/japan-prime-brokerage-and-institutional-financing]] for the institutional-financing surface.
@@ -276,9 +276,9 @@ Read this with [[securities/japan-asset-manager-landscape-matrix]] for the asset
 | Sponsor-to-sponsor secondary | Buyout | Common in mid-market |
 | Founder / management connections | Growth | Standard |
 | VC graduation | Growth | TSE Growth / Prime IPO alternative |
-| Bank / lender connections | Buyout, credit | Megabank ([[JapanFG/mufg-bank]], [[JapanFG/mizuho-bank]], [[JapanFG/sumitomo-mitsui-banking-corp|SMBC]]) cross-referral |
+| Bank / lender connections | Buyout, credit | Megabank ([[megabanks/mufg-bank]], [[megabanks/mizuho-bank]], [[megabanks/sumitomo-mitsui-banking-corp|SMBC]]) cross-referral |
 | Distressed sale / restructuring | Buyout, credit | Growing post-COVID, post-rate-rise |
-| Auction process | All | Megabank-affiliated securities ([[JapanFG/smbc-nikko]], [[JapanFG/mizuho-securities]]) often runs sell-side |
+| Auction process | All | Megabank-affiliated securities ([[securities-firms/smbc-nikko]], [[securities-firms/mizuho-securities]]) often runs sell-side |
 
 Read this with [[finance/japan-acquisition-finance]] for deal-funding mechanics and [[finance/japan-mbo-and-squeeze-out-process]] for take-private process.
 
@@ -359,13 +359,13 @@ Before relying on any cell above:
 - [[finance/japan-tender-offer-process]]
 - [[finance/japan-activist-investor-playbook]]
 - [[finance/japan-cross-shareholding-unwinding-economics]]
-- [[JapanFG/dbj]]
-- [[JapanFG/mufg-bank]]
-- [[JapanFG/mizuho-bank]]
-- [[JapanFG/sumitomo-mitsui-banking-corp]]
-- [[JapanFG/smtb]]
-- [[JapanFG/smbc-nikko]]
-- [[JapanFG/mizuho-securities]]
+- [[financial-regulators/dbj]]
+- [[megabanks/mufg-bank]]
+- [[megabanks/mizuho-bank]]
+- [[megabanks/sumitomo-mitsui-banking-corp]]
+- [[trust-banks/smtb]]
+- [[securities-firms/smbc-nikko]]
+- [[securities-firms/mizuho-securities]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[securities/japan-prime-brokerage-and-institutional-financing]]
 - [[securities/japan-asset-manager-landscape-matrix]]

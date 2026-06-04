@@ -43,7 +43,7 @@
       "https://www.meti.go.jp/english/policy/trade_and_invest/export_invest.html"
     ]
   },
-  "summary": "This entry sits under policy-finance index as the cross-institution map of how Japan finances overseas resource and infrastructure projects. Read it with JapanFG/jbic, policy-finance/nexi, and policy-finance/jogmec for each institution in isolation, with policy-finance/oecd-export-credit-arrangement",
+  "summary": "This entry sits under policy-finance index as the cross-institution map of how Japan finances overseas resource and infrastructure projects. Read it with financial-regulators/jbic, policy-finance/nexi, and policy-finance/jogmec for each institution in isolation, with policy-finance/oecd-export-credi",
   "headings": [
     "Japan project finance stack diagram (JOGMEC / JBIC / NEXI / megabank / SPV)",
     "Wiki route",
@@ -59,11 +59,11 @@
   "body_links": {
     "wikilinks_count": 10,
     "wikilinks": [
-      "JapanFG/jbic",
-      "JapanFG/mizuho-fg",
-      "JapanFG/mufg",
-      "JapanFG/smfg",
       "finance/japan-acquisition-finance",
+      "financial-regulators/jbic",
+      "megabanks/mizuho-fg",
+      "megabanks/mufg",
+      "megabanks/smfg",
       "policy-finance/INDEX",
       "policy-finance/japan-policy-finance-system",
       "policy-finance/jogmec",
@@ -71,11 +71,11 @@
       "policy-finance/oecd-export-credit-arrangement"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/jbic",
-      "https://finwiki.zksc.io/JapanFG/mizuho-fg",
-      "https://finwiki.zksc.io/JapanFG/mufg",
-      "https://finwiki.zksc.io/JapanFG/smfg",
       "https://finwiki.zksc.io/finance/japan-acquisition-finance",
+      "https://finwiki.zksc.io/financial-regulators/jbic",
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/smfg",
       "https://finwiki.zksc.io/policy-finance/INDEX",
       "https://finwiki.zksc.io/policy-finance/japan-policy-finance-system",
       "https://finwiki.zksc.io/policy-finance/jogmec",
@@ -86,9 +86,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 13490,
-    "word_like_tokens": 2128,
+    "nonspace_chars": 13585,
+    "word_like_tokens": 2133,
     "inbound_wikilinks_count": 24,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-04"
   }
 }

@@ -11,11 +11,11 @@ translated_at: 2026-06-02T16:33:58.527Z
 
 ## ウィキ上の位置づけ
 
-このエントリは、交通系プリペイドスキームの参照ページとして [[payments/INDEX|payments index]] 配下に位置する。FSA 登録済み前払式支払手段発行者の視点では [[payments/prepaid-payment-instrument-issuers-japan-index|prepaid payment instrument issuers registry]]、四分類スキーム比較では [[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]]、Mobile Suica の払戻 / 移転可能性の問いでは [[payments/funds-transfer-vs-prepaid-boundary|funds-transfer vs prepaid boundary]]、Cyberne 経由の発行体間精算視点では [[payments/japan-payment-clearing-and-settlement-infrastructure|Japan payment clearing and settlement infrastructure]] と組み合わせる。非交通系 FeliCa プリペイドの [[JapanFG/rakuten-edy|Rakuten Edy]]、交通系プリペイドの小売タッチ決済量の一部を侵食してきた代替スキームの [[payments/japan-code-payment-competitive-map|code-payment competitive map]] と比較する。モバイル鉄道の Apple Pay / おサイフケータイのルーティングは、トークン化の扱いで [[payments/japan-card-security-authentication-controls|card security and authentication controls]] と交差する。
+このエントリは、交通系プリペイドスキームの参照ページとして [[payments/INDEX|payments index]] 配下に位置する。FSA 登録済み前払式支払手段発行者の視点では [[payments/prepaid-payment-instrument-issuers-japan-index|prepaid payment instrument issuers registry]]、四分類スキーム比較では [[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]]、Mobile Suica の払戻 / 移転可能性の問いでは [[payments/funds-transfer-vs-prepaid-boundary|funds-transfer vs prepaid boundary]]、Cyberne 経由の発行体間精算視点では [[payments/japan-payment-clearing-and-settlement-infrastructure|Japan payment clearing and settlement infrastructure]] と組み合わせる。非交通系 FeliCa プリペイドの [[payment-firms/rakuten-edy|Rakuten Edy]]、交通系プリペイドの小売タッチ決済量の一部を侵食してきた代替スキームの [[payments/japan-code-payment-competitive-map|code-payment competitive map]] と比較する。モバイル鉄道の Apple Pay / おサイフケータイのルーティングは、トークン化の扱いで [[payments/japan-card-security-authentication-controls|card security and authentication controls]] と交差する。
 
 ## 要約
 
-日本の交通系プリペイド電子マネーは、FeliCa (Sony の非接触 IC 技術)、**10 IC カード相互利用協定** (2013 から)、発行体間精算システム **Cyberne** を軸とする**単一の相互利用スキーム**で動いている。10カードのうち9つは鉄道事業者発行である。**Suica** ([[JapanFG/jr-east|JR East]])、**PASMO** (PASMO Co — 東京の私鉄 / バス連合)、**ICOCA** ([[JapanFG/jr-west|JR West]])、**Kitaca** ([[JapanFG/jr-hokkaido|JR Hokkaido]])、**TOICA** ([[JapanFG/jr-central|JR Central]])、**manaca** (名古屋 — Meitetsu + 名古屋市交通局)、**nimoca** (Nishitetsu, 福岡)、**SUGOCA** ([[JapanFG/jr-kyushu|JR Kyushu]])、**HAYAKAKEN** (福岡市交通局) である。PiTaPa (Surutto KANSAI) は10番目であり、プリペイドではなく後払いとして運用される。9つのプリペイドカードはすべて、各発行体の前払式支払手段登録の下で、鉄道間タッチ受入と広範な小売加盟店受入を共有する。Apple Pay / おサイフケータイ経由の Mobile Suica は、2016  (Apple Pay 開始) 前後にスキームをカード専用からスマートフォンネイティブへ転換した。Mobile PASMO は 2020 に続いた。全体のスキームは資金決済法の前払式支払手段フレームワークで規律され、発行終了時のみ払戻可能である。特に観光客が購入し返却しないカードについて、**失効益の経済性** (未使用残高が時間とともに発行体に帰属すること) が発行体 P&L に寄与する。
+日本の交通系プリペイド電子マネーは、FeliCa (Sony の非接触 IC 技術)、**10 IC カード相互利用協定** (2013 から)、発行体間精算システム **Cyberne** を軸とする**単一の相互利用スキーム**で動いている。10カードのうち9つは鉄道事業者発行である。**Suica** ([[card-issuers/jr-east|JR East]])、**PASMO** (PASMO Co — 東京の私鉄 / バス連合)、**ICOCA** ([[JapanFG/jr-west|JR West]])、**Kitaca** ([[JapanFG/jr-hokkaido|JR Hokkaido]])、**TOICA** ([[JapanFG/jr-central|JR Central]])、**manaca** (名古屋 — Meitetsu + 名古屋市交通局)、**nimoca** (Nishitetsu, 福岡)、**SUGOCA** ([[JapanFG/jr-kyushu|JR Kyushu]])、**HAYAKAKEN** (福岡市交通局) である。PiTaPa (Surutto KANSAI) は10番目であり、プリペイドではなく後払いとして運用される。9つのプリペイドカードはすべて、各発行体の前払式支払手段登録の下で、鉄道間タッチ受入と広範な小売加盟店受入を共有する。Apple Pay / おサイフケータイ経由の Mobile Suica は、2016  (Apple Pay 開始) 前後にスキームをカード専用からスマートフォンネイティブへ転換した。Mobile PASMO は 2020 に続いた。全体のスキームは資金決済法の前払式支払手段フレームワークで規律され、発行終了時のみ払戻可能である。特に観光客が購入し返却しないカードについて、**失効益の経済性** (未使用残高が時間とともに発行体に帰属すること) が発行体 P&L に寄与する。
 
 ## 10 IC 相互利用スキーム
 
@@ -23,7 +23,7 @@ translated_at: 2026-06-02T16:33:58.527Z
 
 | カード | 発行体 | 地域 | 事業者タイプ | プリペイド / 後払い |
 |---|---|---|---|---|
-| Suica | [[JapanFG/jr-east\|JR East]] | 首都圏 / 北日本 | JR グループ | プリペイド |
+| Suica | [[card-issuers/jr-east\|JR East]] | 首都圏 / 北日本 | JR グループ | プリペイド |
 | PASMO | PASMO Co Ltd | 首都圏 | 私鉄 + バス連合 | プリペイド |
 | ICOCA | [[JapanFG/jr-west\|JR West]] | 関西 / 西日本 | JR グループ | プリペイド |
 | Kitaca | [[JapanFG/jr-hokkaido\|JR Hokkaido]] | 北海道 | JR グループ | プリペイド |
@@ -122,7 +122,7 @@ JR East は、Apple Pay 経由で発行される Mobile Suica について、早
 
 ## JR East の Suica における企業上の持分
 
-[[JapanFG/jr-east|JR East]] の Suica フランチャイズは、Suica を決済手段であると同時に顧客データ基盤として使う、多セグメントの小売 / 駅 / 交通サービス事業の中に位置する。モバイル版への転換分を含め約 100 百万枚の Suica 基盤は、JR East に日本最大級の囲い込みプリペイド人口と、それに対応する交通、駅ナカ小売、都市部コンビニ・スーパーの一部にまたがるデータシグナルを与える。企業戦略上、Suica は単体の決済サービス P&L ではなく**戦略的プラットフォーム資産**として扱われる。これが、JR East が Mobile Suica プラットフォーム開発、訪日観光客向け Suica Welcome、JRE POINT 統合に投資してきた理由の一つである。
+[[card-issuers/jr-east|JR East]] の Suica フランチャイズは、Suica を決済手段であると同時に顧客データ基盤として使う、多セグメントの小売 / 駅 / 交通サービス事業の中に位置する。モバイル版への転換分を含め約 100 百万枚の Suica 基盤は、JR East に日本最大級の囲い込みプリペイド人口と、それに対応する交通、駅ナカ小売、都市部コンビニ・スーパーの一部にまたがるデータシグナルを与える。企業戦略上、Suica は単体の決済サービス P&L ではなく**戦略的プラットフォーム資産**として扱われる。これが、JR East が Mobile Suica プラットフォーム開発、訪日観光客向け Suica Welcome、JRE POINT 統合に投資してきた理由の一つである。
 
 ## Suica 次世代プラットフォームの方向性
 
@@ -152,9 +152,9 @@ JR East は、Suica のより長期的なプラットフォーム方向性を示
 - [[payments/japan-card-security-authentication-controls]]
 - [[payments/japan-code-payment-competitive-map]]
 - [[payments/cashless-jp-landscape]]
-- [[JapanFG/rakuten-edy]]
-- [[JapanFG/aeon-bank]]
-- [[JapanFG/seven-bank]]
+- [[payment-firms/rakuten-edy]]
+- [[card-issuers/aeon-bank]]
+- [[regional-banks/seven-bank]]
 - [[loyalty/japan-points-landscape]]
 - [[INDEX|FinWiki index]]
 

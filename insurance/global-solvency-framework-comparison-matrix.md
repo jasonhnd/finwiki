@@ -25,7 +25,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[insurance/INDEX|insurance index]] and is the cross-jurisdiction comparison page for insurer capital frameworks. Read it against [[insurance/economic-value-based-solvency]] and [[insurance/esr-economic-value-solvency]] for the Japan-specific economic-value detail, against [[JapanFG/legal-financial-licenses/insurance-license-and-solvency]] for the Japan license / regulatory boundary, and against [[insurance/japan-life-insurance-big-four]] and [[insurance/japan-nonlife-big-three]] for company-level Japanese impact. Catastrophe-risk modules feed back into [[insurance/natcat-reinsurance-japan]]. The cleanest listed-equity entity anchor for Japan-side translation is [[JapanFG/dai-ichi-life]] and [[JapanFG/tokio-marine]].
+This entry sits under [[insurance/INDEX|insurance index]] and is the cross-jurisdiction comparison page for insurer capital frameworks. Read it against [[insurance/economic-value-based-solvency]] and [[insurance/esr-economic-value-solvency]] for the Japan-specific economic-value detail, against [[financial-licenses/insurance-license-and-solvency]] for the Japan license / regulatory boundary, and against [[insurance/japan-life-insurance-big-four]] and [[insurance/japan-nonlife-big-three]] for company-level Japanese impact. Catastrophe-risk modules feed back into [[insurance/natcat-reinsurance-japan]]. The cleanest listed-equity entity anchor for Japan-side translation is [[life-insurers/dai-ichi-life]] and [[non-life-insurers/tokio-marine]].
 
 ## TL;DR
 
@@ -41,7 +41,7 @@ For Japanese insurer analysis, the practical reading rule is: ESR drives domesti
 |---|---|---|---|---|
 | Regulator | Financial Services Agency (FSA) | International Association of Insurance Supervisors (IAIS) | European Insurance and Occupational Pensions Authority (EIOPA) and national supervisors | National Association of Insurance Commissioners (NAIC) and state regulators |
 | Effective date | Rolled out from 2025-04 onward, after multi-year field tests | Version 2.0 finalized December 2024; mandatory for IAIGs from 2025 after a five-year monitoring period | Operational from 2016-01; Solvency II 2.0 review package adopted in 2025 | In force since the 1990s, evolving by line (life-RBC, P&C-RBC, health-RBC) |
-| Scope | All Japan-licensed insurers and insurance holding companies; see [[JapanFG/legal-financial-licenses/insurance-license-and-solvency]] | Internationally Active Insurance Groups (IAIGs) — large cross-border groups identified by the IAIS criteria | All insurers and reinsurers authorized in the EU / EEA | US-domiciled insurers; applied separately for life, P&C, and health lines |
+| Scope | All Japan-licensed insurers and insurance holding companies; see [[financial-licenses/insurance-license-and-solvency]] | Internationally Active Insurance Groups (IAIGs) — large cross-border groups identified by the IAIS criteria | All insurers and reinsurers authorized in the EU / EEA | US-domiciled insurers; applied separately for life, P&C, and health lines |
 | Headline metric | Economic Solvency Ratio (ESR) = qualifying capital / required capital | ICS ratio = qualifying capital resources / ICS required capital | Solvency Capital Requirement (SCR) coverage ratio = eligible own funds / SCR; plus Minimum Capital Requirement (MCR) | RBC ratio = Total Adjusted Capital / Authorized Control Level RBC, with regulatory action levels |
 
 ### Philosophy and valuation
@@ -90,8 +90,8 @@ For Japanese insurer analysis, the practical reading rule is: ESR drives domesti
 
 The Japanese insurance market translates these frameworks through specific entity layers:
 
-- **Life big four**: [[insurance/japan-life-insurance-big-four|Japan life insurance big four]] — Nippon Life, Dai-ichi Life, Meiji Yasuda, Sumitomo Life — face the biggest economic-value sensitivity because of long-duration savings, foreign-currency annuity, and equity-holding exposures. ESR is the primary domestic metric; for [[JapanFG/dai-ichi-life]] specifically, listed-equity disclosure means ESR is read alongside dividend / buyback capacity. Mutual insurers translate ESR through policyholder return and surplus distribution rather than share repurchase.
-- **Non-life big three**: [[insurance/japan-nonlife-big-three|Japan non-life big three]] — [[JapanFG/tokio-marine|Tokio Marine]], MS&AD, and SOMPO — translate ESR through nat-cat reinsurance pricing, overseas specialty insurance, and equity-holding wind-down programs. The non-life cat module under ESR is the regulatory counterpart to private and public catastrophe reinsurance.
+- **Life big four**: [[insurance/japan-life-insurance-big-four|Japan life insurance big four]] — Nippon Life, Dai-ichi Life, Meiji Yasuda, Sumitomo Life — face the biggest economic-value sensitivity because of long-duration savings, foreign-currency annuity, and equity-holding exposures. ESR is the primary domestic metric; for [[life-insurers/dai-ichi-life]] specifically, listed-equity disclosure means ESR is read alongside dividend / buyback capacity. Mutual insurers translate ESR through policyholder return and surplus distribution rather than share repurchase.
+- **Non-life big three**: [[insurance/japan-nonlife-big-three|Japan non-life big three]] — [[non-life-insurers/tokio-marine|Tokio Marine]], MS&AD, and SOMPO — translate ESR through nat-cat reinsurance pricing, overseas specialty insurance, and equity-holding wind-down programs. The non-life cat module under ESR is the regulatory counterpart to private and public catastrophe reinsurance.
 - **IAIG-status groups**: Japanese groups designated as IAIGs by their group-wide supervisor face parallel ICS reporting on top of ESR, with the FSA acting as group-wide supervisor for relevant Japanese-headquartered groups.
 - **Foreign subsidiaries**: Japanese groups with EU subsidiaries (e.g., reinsurance hubs, specialty platforms) face Solvency II at the subsidiary level; groups with US life / P&C / health subsidiaries face RBC.
 
@@ -138,9 +138,9 @@ This page is not legal or regulatory advice and is not a substitute for reading 
 - [[insurance/japan-nonlife-big-three]]
 - [[insurance/natcat-reinsurance-japan]]
 - [[insurance/mutual-vs-stock-life-insurer]]
-- [[JapanFG/legal-financial-licenses/insurance-license-and-solvency]]
-- [[JapanFG/dai-ichi-life]]
-- [[JapanFG/tokio-marine]]
+- [[financial-licenses/insurance-license-and-solvency]]
+- [[life-insurers/dai-ichi-life]]
+- [[non-life-insurers/tokio-marine]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

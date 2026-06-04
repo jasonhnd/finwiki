@@ -112,7 +112,7 @@ Under Monex Bitcoin (crypto-asset CFD), the following yen pairs are publicly lis
 - [[fintech/japan-financial-regulation|Japan financial regulation]]
 - [[fintech/japan-stablecoin-regulatory-landscape|Japan stablecoin regulatory landscape]]
 - [[fintech/jp-trust-type-sc-architecture|Japan trust-type stablecoin architecture]]
-- [[JapanFG/monex-group|Monex Group]]
+- [[securities-firms/monex-group|Monex Group]]
 - [[exchanges/jp-vasp-derivative-license-system|JP VASP derivatives licence system]]
 - [[exchanges/jp-vasp-parent-company-map|JP VASP parent-company map]]
 

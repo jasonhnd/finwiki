@@ -14,7 +14,7 @@ translated_at: 2026-05-30T18:52:47.781Z
 
 日本的信托银行 / 托管层将法律所有权、受益所有者、资产管理、投资指图、公司行为、投票、证券借贷及基金会计区分开来。最常见的错误，是把申报中的「信托账户」名义人名称读成仿佛信托银行本身就是经济上的投资者。
 
-请将本页与 [[banking/INDEX|banking domain]]、[[banking/japan-master-trust-and-custody-bank-landscape|master trust / custody bank landscape]]、[[JapanFG/master-trust-bank|Master Trust Bank of Japan]]、[[JapanFG/custody-bank|Custody Bank of Japan]]、[[JapanFG/sumitomo-mitsui-trust|Sumitomo Mitsui Trust]]、[[JapanFG/mitsubishi-ufj-trust-bank|Mitsubishi UFJ Trust Bank]]、[[securities/japan-stock-lending-market-route|stock lending route]] 及 [[securities/japan-market-infrastructure-map|securities market infrastructure]] 配合使用。
+请将本页与 [[banking/INDEX|banking domain]]、[[banking/japan-master-trust-and-custody-bank-landscape|master trust / custody bank landscape]]、[[trust-banks/master-trust-bank|Master Trust Bank of Japan]]、[[trust-banks/custody-bank|Custody Bank of Japan]]、[[trust-banks/sumitomo-mitsui-trust|Sumitomo Mitsui Trust]]、[[trust-banks/mitsubishi-ufj-trust-bank|Mitsubishi UFJ Trust Bank]]、[[securities/japan-stock-lending-market-route|stock lending route]] 及 [[securities/japan-market-infrastructure-map|securities market infrastructure]] 配合使用。
 
 ## Function Map
 
@@ -31,9 +31,9 @@ translated_at: 2026-05-30T18:52:47.781Z
 
 | Type | Examples | Typical role |
 |---|---|---|
-| 全能型信托银行 | [[JapanFG/mitsubishi-ufj-trust-bank|Mitsubishi UFJ Trust Bank]]、[[JapanFG/mizuho-trust-bank|Mizuho Trust]]、[[JapanFG/smtb|SMTB]] | 信托、不动产、养老金、证券代理、资产管理 / 管理。 |
-| 资产管理专业机构 | [[JapanFG/master-trust-bank|Master Trust Bank of Japan]]、[[JapanFG/custody-bank|Custody Bank of Japan]] | 大规模机构托管及基金 / 养老金资产管理。 |
-| 在日全球托管机构 / ICSD | [[JapanFG/bny-mellon-japan|BNY Mellon Japan]]、[[JapanFG/state-street-japan|State Street Japan]]、[[JapanFG/euroclear-bank-japan|Euroclear Bank Japan]]、[[JapanFG/clearstream-banking-japan|Clearstream Banking Japan]] | 外国投资者 / 全球资产服务、结算、信息披露及抵押品桥梁。 |
+| 全能型信托银行 | [[trust-banks/mitsubishi-ufj-trust-bank|Mitsubishi UFJ Trust Bank]]、[[trust-banks/mizuho-trust-bank|Mizuho Trust]]、[[trust-banks/smtb|SMTB]] | 信托、不动产、养老金、证券代理、资产管理 / 管理。 |
+| 资产管理专业机构 | [[trust-banks/master-trust-bank|Master Trust Bank of Japan]]、[[trust-banks/custody-bank|Custody Bank of Japan]] | 大规模机构托管及基金 / 养老金资产管理。 |
+| 在日全球托管机构 / ICSD | [[foreign-financial-institutions/bny-mellon-japan|BNY Mellon Japan]]、[[foreign-financial-institutions/state-street-japan|State Street Japan]]、[[foreign-financial-institutions/euroclear-bank-japan|Euroclear Bank Japan]]、[[foreign-financial-institutions/clearstream-banking-japan|Clearstream Banking Japan]] | 外国投资者 / 全球资产服务、结算、信息披露及抵押品桥梁。 |
 | 证券存管 / 结算基础设施 | [[securities/japan-securities-depository-center|JASDEC]]、[[securities/japan-securities-clearing-corp|JSCC]] | 簿记过户、DVP、清算与结算管道。 |
 
 ## Interpretation Rules
@@ -51,8 +51,8 @@ translated_at: 2026-05-30T18:52:47.781Z
 信托银行托管将银行业与证券市场基础设施相连：
 
 - 通过 [[securities/japan-securities-depository-center|JASDEC]] 及市场基础设施进行结算与公司行为；
-- 通过 [[JapanFG/euroclear-bank-japan|Euroclear Bank Japan]] 及 [[JapanFG/clearstream-banking-japan|Clearstream Banking Japan]] 进行 ICSD / 跨境托管；
-- 通过 [[securities/japan-stock-lending-market-route|stock lending route]] 及 [[JapanFG/japan-securities-finance|JSF]] 进行保证金 / 证券借贷；
+- 通过 [[foreign-financial-institutions/euroclear-bank-japan|Euroclear Bank Japan]] 及 [[foreign-financial-institutions/clearstream-banking-japan|Clearstream Banking Japan]] 进行 ICSD / 跨境托管；
+- 通过 [[securities/japan-stock-lending-market-route|stock lending route]] 及 [[financial-regulators/japan-securities-finance|JSF]] 进行保证金 / 证券借贷；
 - 通过 [[securities/nisa-2024-flow|NISA / household asset-building]] 及资产管理页面进行投资信托与养老金流动；
 - 通过 [[securities/tokyo-stock-exchange|TSE]] 申报与主要股东表进行发行人股东分析。
 
@@ -68,13 +68,13 @@ translated_at: 2026-05-30T18:52:47.781Z
 
 - [[banking/INDEX]]
 - [[banking/japan-master-trust-and-custody-bank-landscape]]
-- [[JapanFG/master-trust-bank]]
-- [[JapanFG/custody-bank]]
-- [[JapanFG/sumitomo-mitsui-trust]]
-- [[JapanFG/mitsubishi-ufj-trust-bank]]
-- [[JapanFG/mizuho-trust-bank]]
-- [[JapanFG/euroclear-bank-japan]]
-- [[JapanFG/clearstream-banking-japan]]
+- [[trust-banks/master-trust-bank]]
+- [[trust-banks/custody-bank]]
+- [[trust-banks/sumitomo-mitsui-trust]]
+- [[trust-banks/mitsubishi-ufj-trust-bank]]
+- [[trust-banks/mizuho-trust-bank]]
+- [[foreign-financial-institutions/euroclear-bank-japan]]
+- [[foreign-financial-institutions/clearstream-banking-japan]]
 - [[securities/japan-stock-lending-market-route]]
 - [[securities/japan-market-infrastructure-map]]
 - [[INDEX|FinWiki index]]

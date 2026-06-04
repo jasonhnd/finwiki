@@ -1,0 +1,81 @@
+{
+  "schema_version": "1.0",
+  "slug": "regional-banks/kagoshima-bank",
+  "source_path": "regional-banks/kagoshima-bank.md",
+  "url": "https://finwiki.zksc.io/regional-banks/kagoshima-bank",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/regional-banks/kagoshima-bank.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/regional-banks/kagoshima-bank.md",
+  "domain": "regional-banks",
+  "title": "鹿児島銀行",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "鹿児島銀行",
+    "aliases": [
+      "Kagoshima Bank",
+      "The Kagoshima Bank",
+      "株式会社鹿児島銀行",
+      "かぎん"
+    ],
+    "domain": "regional-banks",
+    "created": "2026-05-21",
+    "last_updated": "2026-05-21",
+    "last_tended": "2026-05-21",
+    "review_by": "2026-11-21",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "banking",
+      "regional-bank",
+      "kyushu",
+      "kagoshima",
+      "operating-company"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
+      "https://www.kagin.co.jp/investor/profile/company.html"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 福岡銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "鹿児島銀行",
+    "Wiki route",
+    "TL;DR",
+    "1. License / group boundary",
+    "2. Operating model",
+    "3. Why this page matters",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 8,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "banking/INDEX",
+      "banking/regional-bank-consolidation-pattern",
+      "higo-bank",
+      "kyushu-fg",
+      "miyazaki-bank",
+      "oita-bank",
+      "regional-banks/fukuoka-bank"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
+      "https://finwiki.zksc.io/higo-bank",
+      "https://finwiki.zksc.io/kyushu-fg",
+      "https://finwiki.zksc.io/miyazaki-bank",
+      "https://finwiki.zksc.io/oita-bank",
+      "https://finwiki.zksc.io/regional-banks/fukuoka-bank"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 1788,
+    "word_like_tokens": 279,
+    "inbound_wikilinks_count": 2,
+    "last_modified": "2026-06-04"
+  }
+}

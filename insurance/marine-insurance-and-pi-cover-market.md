@@ -30,19 +30,19 @@ sources:
 
 ## TL;DR
 
-Japan's marine insurance market splits cleanly into three regulatory and structural pieces. (1) **Hull and machinery** plus **cargo / transit** are written by the 大手3社 non-life insurers — [[JapanFG/tokio-marine-nichido-fire|Tokio Marine & Nichido Fire]] (historically Japan's largest marine carrier and the firm whose name still begins with 東京海上 / "Tokyo Marine"), [[JapanFG/mitsui-sumitomo-insurance|Mitsui Sumitomo Insurance]], and [[JapanFG/sompo-japan-insurance|Sompo Japan Insurance]] — under FSA non-life licensing, with Lloyd's syndicates and the foreign reinsurer panel providing capacity. (2) **Shipowner liability (P&I)** is mutualised in [[JapanFG/japan-pi-club|Japan P&I Club / 日本船主責任相互保険組合]], the sole Japanese P&I club and a member of the **International Group of P&I Clubs (IG)**, which provides cross-club pooling and a shared retrocession program. (3) The **classification society** layer that underpins underwriting — [[JapanFG/nippon-kaiji-kyokai|Nippon Kaiji Kyokai (ClassNK)]] — is technical infrastructure, not insurance, but it sets the survey / rule basis the insurance market relies on.
+Japan's marine insurance market splits cleanly into three regulatory and structural pieces. (1) **Hull and machinery** plus **cargo / transit** are written by the 大手3社 non-life insurers — [[non-life-insurers/tokio-marine-nichido-fire|Tokio Marine & Nichido Fire]] (historically Japan's largest marine carrier and the firm whose name still begins with 東京海上 / "Tokyo Marine"), [[non-life-insurers/mitsui-sumitomo-insurance|Mitsui Sumitomo Insurance]], and [[non-life-insurers/sompo-japan-insurance|Sompo Japan Insurance]] — under FSA non-life licensing, with Lloyd's syndicates and the foreign reinsurer panel providing capacity. (2) **Shipowner liability (P&I)** is mutualised in [[financial-regulators/japan-pi-club|Japan P&I Club / 日本船主責任相互保険組合]], the sole Japanese P&I club and a member of the **International Group of P&I Clubs (IG)**, which provides cross-club pooling and a shared retrocession program. (3) The **classification society** layer that underpins underwriting — [[financial-regulators/nippon-kaiji-kyokai|Nippon Kaiji Kyokai (ClassNK)]] — is technical infrastructure, not insurance, but it sets the survey / rule basis the insurance market relies on.
 
 This page maps how those three pieces fit together, with line-by-line splits inside the 大手3社 marine divisions and a structural read on IG cover layers.
 
 ## Wiki route
 
-This entry sits under [[insurance/INDEX|insurance index]]. Read it against [[insurance/japan-nonlife-big-three|Japan non-life big three]] for the big-three operating-company layer, [[insurance/foreign-reinsurer-japan-landscape|foreign reinsurer Japan landscape]] for the global retro panel, [[insurance/lloyds-japan-syndicate-operating-model|Lloyd's Japan syndicate operating model]] for the Lloyd's specialty channel, and [[insurance/natcat-reinsurance-japan|nat-cat reinsurance in Japan]] for the typhoon / EQ / flood exposure that affects marine accumulation. The two anchor entity pages are [[JapanFG/japan-pi-club|Japan P&I Club]] and [[JapanFG/nippon-kaiji-kyokai|ClassNK]]. Cross-domain anchors: [[insurance/global-solvency-framework-comparison-matrix|global solvency framework comparison matrix]] for the parent-regulator angle on IG retro and Lloyd's syndicates.
+This entry sits under [[insurance/INDEX|insurance index]]. Read it against [[insurance/japan-nonlife-big-three|Japan non-life big three]] for the big-three operating-company layer, [[insurance/foreign-reinsurer-japan-landscape|foreign reinsurer Japan landscape]] for the global retro panel, [[insurance/lloyds-japan-syndicate-operating-model|Lloyd's Japan syndicate operating model]] for the Lloyd's specialty channel, and [[insurance/natcat-reinsurance-japan|nat-cat reinsurance in Japan]] for the typhoon / EQ / flood exposure that affects marine accumulation. The two anchor entity pages are [[financial-regulators/japan-pi-club|Japan P&I Club]] and [[financial-regulators/nippon-kaiji-kyokai|ClassNK]]. Cross-domain anchors: [[insurance/global-solvency-framework-comparison-matrix|global solvency framework comparison matrix]] for the parent-regulator angle on IG retro and Lloyd's syndicates.
 
 ## 1. Market structure
 
 | Layer | Product | Provider type | Japanese-market lead |
 |---|---|---|---|
-| Marine liability (P&I) | Shipowner liability to crew, passengers, third parties, pollution, wreck removal, cargo claims | Mutual P&I club | [[JapanFG/japan-pi-club|Japan P&I Club]] for Japanese flag / Japanese-managed fleet ^[extracted] |
+| Marine liability (P&I) | Shipowner liability to crew, passengers, third parties, pollution, wreck removal, cargo claims | Mutual P&I club | [[financial-regulators/japan-pi-club|Japan P&I Club]] for Japanese flag / Japanese-managed fleet ^[extracted] |
 
 The H&M and cargo markets are concentrated in the 大手3社; the P&I market is single-anchored on the Japan P&I Club for Japanese-flagged tonnage; the specialty / energy / war / offshore market routes more through Lloyd's. This is the standard structural shape of Japan marine insurance.
 
@@ -72,7 +72,7 @@ P&I (Protection & Indemnity) covers the *liability* side of shipowning, distinct
 
 ### Why P&I is mutual
 
-P&I evolved in 19th-century UK as shipowners pooled liability risk among themselves, because commercial insurers would not write open-ended pollution, crew injury, and wreck-removal liability. The mutual form persists worldwide. In Japan, the equivalent is the [[JapanFG/japan-pi-club|Japan P&I Club / 日本船主責任相互保険組合]], licensed under the 船主相互保険組合法 (1950) — a *separate* statute from the Insurance Business Act that governs the 大手3社 ^[extracted]. Japan P&I Club is Japan's sole P&I mutual ^[extracted].
+P&I evolved in 19th-century UK as shipowners pooled liability risk among themselves, because commercial insurers would not write open-ended pollution, crew injury, and wreck-removal liability. The mutual form persists worldwide. In Japan, the equivalent is the [[financial-regulators/japan-pi-club|Japan P&I Club / 日本船主責任相互保険組合]], licensed under the 船主相互保険組合法 (1950) — a *separate* statute from the Insurance Business Act that governs the 大手3社 ^[extracted]. Japan P&I Club is Japan's sole P&I mutual ^[extracted].
 
 ### What P&I covers
 
@@ -99,19 +99,19 @@ Each of the three big non-life groups operates a marine business line inside its
 
 | Item | Notes |
 |---|---|
-| Operating entity | [[JapanFG/tokio-marine-nichido-fire|Tokio Marine & Nichido Fire]] ^[extracted] |
+| Operating entity | [[non-life-insurers/tokio-marine-nichido-fire|Tokio Marine & Nichido Fire]] ^[extracted] |
 
 ### MS&AD (大手2)
 
 | Item | Notes |
 |---|---|
-| Operating entities | [[JapanFG/mitsui-sumitomo-insurance|Mitsui Sumitomo Insurance]] + [[JapanFG/aioi-nissay-dowa-insurance|Aioi Nissay Dowa Insurance]] ^[extracted] |
+| Operating entities | [[non-life-insurers/mitsui-sumitomo-insurance|Mitsui Sumitomo Insurance]] + [[non-life-insurers/aioi-nissay-dowa-insurance|Aioi Nissay Dowa Insurance]] ^[extracted] |
 
 ### Sompo (大手3)
 
 | Item | Notes |
 |---|---|
-| Operating entity | [[JapanFG/sompo-japan-insurance|Sompo Japan Insurance]] ^[extracted] |
+| Operating entity | [[non-life-insurers/sompo-japan-insurance|Sompo Japan Insurance]] ^[extracted] |
 
 ### Aggregate read
 
@@ -120,7 +120,7 @@ Each of the three big non-life groups operates a marine business line inside its
 
 ## 6. Lloyd's role in Japan marine
 
-Lloyd's of London is historically the global anchor of marine, hull, cargo, war, and offshore-energy underwriting. In Japan it operates via [[JapanFG/lloyd-japan|Lloyd's Japan Inc.]] (licensed 2000) ^[extracted], providing market access for the Lloyd's syndicates to write Japanese-located marine specialty risks. See [[insurance/lloyds-japan-syndicate-operating-model]] for the syndicate-capacity model.
+Lloyd's of London is historically the global anchor of marine, hull, cargo, war, and offshore-energy underwriting. In Japan it operates via [[non-life-insurers/lloyd-japan|Lloyd's Japan Inc.]] (licensed 2000) ^[extracted], providing market access for the Lloyd's syndicates to write Japanese-located marine specialty risks. See [[insurance/lloyds-japan-syndicate-operating-model]] for the syndicate-capacity model.
 
 Lloyd's typical roles in the Japan marine market:
 
@@ -136,10 +136,10 @@ ClassNK and Japan P&I Club / 大手3社 together form the *Japanese* maritime ri
 
 | Provider type | Hull | Cargo | P&I | Specialty / war / energy | Reinsurance |
 |---|---|---|---|---|---|
-| Japan P&I Club ([[JapanFG/japan-pi-club]]) | no | no | yes (mutual) | no | cedent into IG pool + IG retro |
-| Lloyd's Japan ([[JapanFG/lloyd-japan]]) | yes (syndicate participation) | yes (syndicate participation) | rarely | yes (lead role) | mixed |
+| Japan P&I Club ([[financial-regulators/japan-pi-club]]) | no | no | yes (mutual) | no | cedent into IG pool + IG retro |
+| Lloyd's Japan ([[non-life-insurers/lloyd-japan]]) | yes (syndicate participation) | yes (syndicate participation) | rarely | yes (lead role) | mixed |
 | Foreign reinsurer panel ([[insurance/foreign-reinsurer-japan-landscape]]) | no (reinsurer only) | no (reinsurer only) | no (reinsurer only, but key in IG retro) | no | reinsurer |
-| Foreign direct carriers ([[JapanFG/aig-japan]], [[JapanFG/chubb-insurance-japan]], etc.) | rarely | sometimes | no | sometimes | mixed |
+| Foreign direct carriers ([[non-life-insurers/aig-japan]], [[non-life-insurers/chubb-insurance-japan]], etc.) | rarely | sometimes | no | sometimes | mixed |
 
 ## 9. Decision use
 
@@ -154,17 +154,17 @@ Use this page when asking:
 - [[insurance/natcat-reinsurance-japan]]
 - [[insurance/captive-insurance-japan-market]]
 - [[insurance/global-solvency-framework-comparison-matrix]]
-- [[JapanFG/nonlife-insurer-registry-japan-index]]
-- [[JapanFG/japan-pi-club]]
-- [[JapanFG/nippon-kaiji-kyokai]]
-- [[JapanFG/tokio-marine-nichido-fire]]
-- [[JapanFG/mitsui-sumitomo-insurance]]
-- [[JapanFG/aioi-nissay-dowa-insurance]]
-- [[JapanFG/sompo-japan-insurance]]
-- [[JapanFG/lloyd-japan]]
-- [[JapanFG/munich-re-japan]]
-- [[JapanFG/swiss-re-japan]]
-- [[JapanFG/toa-reinsurance]]
+- [[non-life-insurers/nonlife-insurer-registry-japan-index]]
+- [[financial-regulators/japan-pi-club]]
+- [[financial-regulators/nippon-kaiji-kyokai]]
+- [[non-life-insurers/tokio-marine-nichido-fire]]
+- [[non-life-insurers/mitsui-sumitomo-insurance]]
+- [[non-life-insurers/aioi-nissay-dowa-insurance]]
+- [[non-life-insurers/sompo-japan-insurance]]
+- [[non-life-insurers/lloyd-japan]]
+- [[non-life-insurers/munich-re-japan]]
+- [[non-life-insurers/swiss-re-japan]]
+- [[non-life-insurers/toa-reinsurance]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

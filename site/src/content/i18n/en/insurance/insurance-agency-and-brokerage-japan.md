@@ -14,7 +14,7 @@ translated_at: 2026-05-31T11:13:44.852Z
 
 Insurance distribution in Japan is mapped by authority and responsibility. An insurer, an insurance agent / solicitor, an insurance broker, a bank counter, a retailer, a platform app, and a comparison site can all touch the customer journey, but they do not carry the same legal role.
 
-Use this page with [[JapanFG/legal-financial-licenses/insurance-license-and-solvency|insurance license and solvency route]], [[insurance/life-insurance-channel-mix|life-insurance channel mix]], [[insurance/japan-life-insurance-big-four|Japan life insurance big four]], [[insurance/japan-nonlife-big-three|Japan non-life big three]], [[JapanFG/tokio-marine-nichido-fire|Tokio Marine & Nichido Fire]], [[JapanFG/mitsui-sumitomo-insurance|Mitsui Sumitomo Insurance]], [[JapanFG/sompo-japan-insurance|Sompo Japan Insurance]], [[JapanFG/lifenet|Lifenet]], and [[JapanFG/sony-insurance|Sony Insurance]].
+Use this page with [[financial-licenses/insurance-license-and-solvency|insurance license and solvency route]], [[insurance/life-insurance-channel-mix|life-insurance channel mix]], [[insurance/japan-life-insurance-big-four|Japan life insurance big four]], [[insurance/japan-nonlife-big-three|Japan non-life big three]], [[non-life-insurers/tokio-marine-nichido-fire|Tokio Marine & Nichido Fire]], [[non-life-insurers/mitsui-sumitomo-insurance|Mitsui Sumitomo Insurance]], [[non-life-insurers/sompo-japan-insurance|Sompo Japan Insurance]], [[life-insurers/lifenet|Lifenet]], and [[non-life-insurers/sony-insurance|Sony Insurance]].
 
 ## Distribution Role Map
 
@@ -75,15 +75,15 @@ Wiki entries record the legal-stack boundary where public. A product card on a b
 ## Related
 
 - [[insurance/INDEX]]
-- [[JapanFG/legal-financial-licenses/insurance-license-and-solvency]]
+- [[financial-licenses/insurance-license-and-solvency]]
 - [[insurance/life-insurance-channel-mix]]
 - [[insurance/internet-life-insurance-business-model]]
 - [[insurance/japan-life-insurance-big-four]]
 - [[insurance/japan-nonlife-big-three]]
-- [[JapanFG/lifenet]]
-- [[JapanFG/sony-insurance]]
-- [[JapanFG/tokio-marine-nichido-fire]]
-- [[JapanFG/sompo-japan-insurance]]
+- [[life-insurers/lifenet]]
+- [[non-life-insurers/sony-insurance]]
+- [[non-life-insurers/tokio-marine-nichido-fire]]
+- [[non-life-insurers/sompo-japan-insurance]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

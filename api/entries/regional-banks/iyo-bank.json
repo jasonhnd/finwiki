@@ -1,0 +1,82 @@
+{
+  "schema_version": "1.0",
+  "slug": "regional-banks/iyo-bank",
+  "source_path": "regional-banks/iyo-bank.md",
+  "url": "https://finwiki.zksc.io/regional-banks/iyo-bank",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/regional-banks/iyo-bank.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/regional-banks/iyo-bank.md",
+  "domain": "regional-banks",
+  "title": "伊予銀行",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "伊予銀行",
+    "aliases": [
+      "Iyo Bank",
+      "The Iyo Bank",
+      "株式会社伊予銀行"
+    ],
+    "domain": "regional-banks",
+    "created": "2026-05-21",
+    "last_updated": "2026-05-21",
+    "last_tended": "2026-05-21",
+    "review_by": "2026-11-21",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "banking",
+      "regional-bank",
+      "shikoku",
+      "ehime",
+      "operating-company"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
+      "https://www.iyobank.co.jp/about/company/overview/index.html"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 阿波銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "伊予銀行",
+    "Wiki route",
+    "TL;DR",
+    "1. License / group boundary",
+    "2. Operating model",
+    "3. Why this page matters",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 9,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "awa-bank",
+      "banking/INDEX",
+      "banking/regional-bank-consolidation-pattern",
+      "ehime-bank",
+      "hyakujushi-bank",
+      "iyogin-hd",
+      "regional-banks/awa-bank",
+      "shikoku-bank"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/awa-bank",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
+      "https://finwiki.zksc.io/ehime-bank",
+      "https://finwiki.zksc.io/hyakujushi-bank",
+      "https://finwiki.zksc.io/iyogin-hd",
+      "https://finwiki.zksc.io/regional-banks/awa-bank",
+      "https://finwiki.zksc.io/shikoku-bank"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 1764,
+    "word_like_tokens": 281,
+    "inbound_wikilinks_count": 8,
+    "last_modified": "2026-06-04"
+  }
+}

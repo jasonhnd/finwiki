@@ -24,7 +24,7 @@ sources:
 This entry sits under [[trade/jetro-organization-structure|JETRO は会員組織ではなく経産省傘下の独立行政法人]] and should be read with [[INDEX|FinWiki index]].
 
 > [!info] TL;DR
-> JETRO が「会員組織ではない」は法的に正しいが、実務上はジェトロ・メンバーズ（有料）入会が B2B 提案チャネルへの入口条件。輸出ファイナンスや海外プロジェクト融資が絡む場合は、JETRO 経由の販路支援に加えて [[JapanFG/jbic|JBIC]]・[[policy-finance/nexi|NEXI]]・[[policy-finance/japan-project-finance-stack-diagram|プロジェクトファイナンスのスタック]]を当初から組み込むのが定石。
+> JETRO が「会員組織ではない」は法的に正しいが、実務上はジェトロ・メンバーズ（有料）入会が B2B 提案チャネルへの入口条件。輸出ファイナンスや海外プロジェクト融資が絡む場合は、JETRO 経由の販路支援に加えて [[financial-regulators/jbic|JBIC]]・[[policy-finance/nexi|NEXI]]・[[policy-finance/japan-project-finance-stack-diagram|プロジェクトファイナンスのスタック]]を当初から組み込むのが定石。
 
 ## 入会後の利用範囲
 

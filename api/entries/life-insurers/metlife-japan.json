@@ -1,0 +1,97 @@
+{
+  "schema_version": "1.0",
+  "slug": "life-insurers/metlife-japan",
+  "source_path": "life-insurers/metlife-japan.md",
+  "url": "https://finwiki.zksc.io/life-insurers/metlife-japan",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/life-insurers/metlife-japan.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/life-insurers/metlife-japan.md",
+  "domain": "life-insurers",
+  "title": "メットライフ生命保険 (MetLife Japan)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "メットライフ生命保険 (MetLife Japan)",
+    "aliases": [
+      "メットライフ生命",
+      "MetLife Japan",
+      "MetLife Insurance K.K.",
+      "メットライフ生命保険株式会社",
+      "旧 アリコジャパン",
+      "旧 メットライフアリコ"
+    ],
+    "domain": "life-insurers",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "life-insurance",
+      "foreign-japan-subsidiary"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: メットライフ生命保険 (2026-05-19 抽出)",
+      "Wikipedia: MetLife (2026-05-19 抽出)",
+      "MetLife, Inc. Form 10-K (2024 FY, SEC EDGAR)"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against プルデンシャル・ジブラルタ・ファイナンシャル (Prudential Japan) for peer / contrast context and insurance index for the broader system / regulatory boundary.",
+  "headings": [
+    "メットライフ生命保険 (MetLife Japan)",
+    "Wiki route",
+    "TL;DR",
+    "1. 会社概要",
+    "親会社 MetLife, Inc.（米）参考スペック ^[extracted]",
+    "2. 重要歴史（年表）",
+    "商品戦略",
+    "チャネル戦略（3 チャネル並走モデル）",
+    "主要競合",
+    "4. 規制・政策"
+  ],
+  "body_links": {
+    "wikilinks_count": 15,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "aflac-japan",
+      "axa-japan",
+      "dai-ichi-life",
+      "insurance/INDEX",
+      "life-insurers/meiji-yasuda",
+      "life-insurers/prudential-japan",
+      "manulife-japan",
+      "mizuho-fg",
+      "mufg",
+      "nippon-life",
+      "prudential-japan",
+      "smfg",
+      "sony-fg",
+      "sumitomo-life"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/aflac-japan",
+      "https://finwiki.zksc.io/axa-japan",
+      "https://finwiki.zksc.io/dai-ichi-life",
+      "https://finwiki.zksc.io/insurance/INDEX",
+      "https://finwiki.zksc.io/life-insurers/meiji-yasuda",
+      "https://finwiki.zksc.io/life-insurers/prudential-japan",
+      "https://finwiki.zksc.io/manulife-japan",
+      "https://finwiki.zksc.io/mizuho-fg",
+      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/nippon-life",
+      "https://finwiki.zksc.io/prudential-japan",
+      "https://finwiki.zksc.io/smfg",
+      "https://finwiki.zksc.io/sony-fg",
+      "https://finwiki.zksc.io/sumitomo-life"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3763,
+    "word_like_tokens": 577,
+    "inbound_wikilinks_count": 11,
+    "last_modified": "2026-06-04"
+  }
+}

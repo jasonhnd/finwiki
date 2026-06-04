@@ -34,7 +34,7 @@ This matrix includes large-deal (>¥100bn deal value) public TOB / MBO transacti
 - **Sapporo Holdings — 3D Investment Partners activism (ongoing)** — activist pressure for Yebisu Beer Garden real-estate carve-out and value reform; reference case for activist-driven restructuring.
 - **Itochu / Descente follow-on rounds (2024)** — the 2019 Descente TOB by Itochu is a foundational case; 2024 follow-on rounds further increased Itochu's stake.
 - **Asahi Intec ← (special-situation TOB scenario)** — included as reference for medical-device industry control transaction analysis.
-- **Tokio Marine HD subsidiary actions** — including [[JapanFG/tokio-marine-nichido|TMNF]] internal subsidiary repositioning where tender mechanics applied.
+- **Tokio Marine HD subsidiary actions** — including [[non-life-insurers/tokio-marine-nichido|TMNF]] internal subsidiary repositioning where tender mechanics applied.
 - **Yodogawa Steel — control transaction reference** — referenced as steel-industry control transaction case.
 - **Daiichi Sankyo Espha-related restructuring** — pharma subsidiary restructuring case reference where tender mechanics applied for minority squeeze-out.
 
@@ -152,7 +152,7 @@ By 2026 the METI Fair Guideline has effectively become the **procedural floor** 
 
 ### PE financing depth
 
-The cohort confirms that Japan's [[finance/japan-acquisition-finance|acquisition finance]] market — led by [[JapanFG/mufg|MUFG]], [[JapanFG/smbc|SMBC]], [[JapanFG/mizuho-bank|Mizuho]] trust-bank pools, [[JapanFG/sumitomo-mitsui-trust|Sumitomo Mitsui Trust]] — has the capacity to finance multi-trillion-yen LBOs (Toshiba) and multi-hundred-billion-yen LBOs (Outsourcing) without external syndication stretch. [[finance/japan-leveraged-buyout-economics|Japan LBO economics]] documents the EBITDA-multiple and leverage-multiple norms.
+The cohort confirms that Japan's [[finance/japan-acquisition-finance|acquisition finance]] market — led by [[megabanks/mufg|MUFG]], [[megabanks/smbc|SMBC]], [[megabanks/mizuho-bank|Mizuho]] trust-bank pools, [[trust-banks/sumitomo-mitsui-trust|Sumitomo Mitsui Trust]] — has the capacity to finance multi-trillion-yen LBOs (Toshiba) and multi-hundred-billion-yen LBOs (Outsourcing) without external syndication stretch. [[finance/japan-leveraged-buyout-economics|Japan LBO economics]] documents the EBITDA-multiple and leverage-multiple norms.
 
 ### Special-committee quality variance
 
@@ -211,8 +211,8 @@ When using this matrix to analyse a new case:
 - [[business/japan-listed-corp-strategic-restructuring-matrix]]
 - [[business/sony-fg-partial-spinoff-case]]
 - [[business/softbank-vision-fund-arm-ipo-template]]
-- [[JapanFG/mufg]]
-- [[JapanFG/mizuho-bank]]
+- [[megabanks/mufg]]
+- [[megabanks/mizuho-bank]]
 - [[JapanFG/orix]]
 - [[INDEX|FinWiki index]]
 

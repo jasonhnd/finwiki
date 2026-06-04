@@ -11,7 +11,7 @@ translated_at: 2026-06-01T04:15:40.168Z
 
 ## TL;DR
 
-日本消费贷款 ABS — 年度发行规模温和（约 JPY 300–600 bn），发行人是存续的消费金融和购物信贷发起人（MUFG 旗下 [[JapanFG/acom|Acom]]、[[JapanFG/aiful|Aiful]]、[[JapanFG/smbc-consumer-finance|SMBC Consumer Finance]]、SBI / 其他旗下 [[JapanFG/aplus|Aplus]]、Mizuho-Itochu 旗下 [[JapanFG/orico|Orient Corp]]、[[JapanFG/jaccs|JACCS]]）— 使用**带有硬性提前摊还触发器的动态资产池循环结构**，因为资产池应收款期限较短（1–4 年）且持续补充。该资产类别处于**利息制限法 (Interest Rate Restriction Act) 的利率上限制度**之下，按贷款规模将 APR 限制在 15–20%，并且 **Moneylending Business Act (貸金業法) 2006 修订**已永久重塑行业 — 所有存续发行人在 2006 后过付金返还浪潮后重建了授信和资产池构成。Senior 分层通常为 AAA，次级支持为 15–25%（远深于汽车贷款 ABS 的 6–12%，反映无担保资产池违约波动）。**提前摊还触发器**是债券持有人的主要保护:当累计净核销或 90+ 天逾期超过阈值时，交易从循环模式切换为摊还模式，senior 债券持有人获得所有流入现金。主要由 [[structured-finance/credit-rating-methodology-jcr-r-and-i|JCR and R&I]] 评级；很少由全球评级机构共同评级，因为外国投资者对日本无担保消费信贷 ABS 的需求较薄。
+日本消费贷款 ABS — 年度发行规模温和（约 JPY 300–600 bn），发行人是存续的消费金融和购物信贷发起人（MUFG 旗下 [[consumer-finance/acom|Acom]]、[[consumer-finance/aiful|Aiful]]、[[consumer-finance/smbc-consumer-finance|SMBC Consumer Finance]]、SBI / 其他旗下 [[card-issuers/aplus|Aplus]]、Mizuho-Itochu 旗下 [[card-issuers/orico|Orient Corp]]、[[card-issuers/jaccs|JACCS]]）— 使用**带有硬性提前摊还触发器的动态资产池循环结构**，因为资产池应收款期限较短（1–4 年）且持续补充。该资产类别处于**利息制限法 (Interest Rate Restriction Act) 的利率上限制度**之下，按贷款规模将 APR 限制在 15–20%，并且 **Moneylending Business Act (貸金業法) 2006 修订**已永久重塑行业 — 所有存续发行人在 2006 后过付金返还浪潮后重建了授信和资产池构成。Senior 分层通常为 AAA，次级支持为 15–25%（远深于汽车贷款 ABS 的 6–12%，反映无担保资产池违约波动）。**提前摊还触发器**是债券持有人的主要保护:当累计净核销或 90+ 天逾期超过阈值时，交易从循环模式切换为摊还模式，senior 债券持有人获得所有流入现金。主要由 [[structured-finance/credit-rating-methodology-jcr-r-and-i|JCR and R&I]] 评级；很少由全球评级机构共同评级，因为外国投资者对日本无担保消费信贷 ABS 的需求较薄。
 
 ## Wiki route
 
@@ -23,12 +23,12 @@ translated_at: 2026-06-01T04:15:40.168Z
 
 | 发行人 | 所属关系 | 资产池重点 | 注释 |
 |---|---|---|---|
-| [[JapanFG/acom|Acom]] | MUFG 集团（2008后成为合并子公司） | 无担保消费贷款（mukotei，典型余额约 JPY 0.5–3M） | 最大的独立无担保消费金融 ABS 发行人 |
-| [[JapanFG/aiful|Aiful]] | 独立（避免被大型银行收购） | 无担保消费贷款 + 小企业贷款 | 熬过 2009–2010 接近破产 / ADR 重组；将 ABS 作为关键融资工具 |
-| [[JapanFG/smbc-consumer-finance|SMBC Consumer Finance]] | SMFG 集团（原 Promise） | 无担保消费贷款 | 收购后由 Promise 更名；授信严格 |
-| [[JapanFG/aplus|Aplus]] | SBI Group 关联公司 | 购物信贷（分期）+ 小额消费贷款 | 混合资产池 — 分期 / 购物信贷占主导 |
-| [[JapanFG/orico|Orient Corp]] | Mizuho-Itochu 集团 | 购物信贷 + 汽车分期 + 消费贷款 | 多元化；消费贷款占比小于购物信贷 |
-| [[JapanFG/jaccs|JACCS]] | MUFG 集团 | 购物信贷 + 汽车分期 + 卡 | 纯消费贷款 ABS 较小；在分期 / 卡方面更大 |
+| [[consumer-finance/acom|Acom]] | MUFG 集团（2008后成为合并子公司） | 无担保消费贷款（mukotei，典型余额约 JPY 0.5–3M） | 最大的独立无担保消费金融 ABS 发行人 |
+| [[consumer-finance/aiful|Aiful]] | 独立（避免被大型银行收购） | 无担保消费贷款 + 小企业贷款 | 熬过 2009–2010 接近破产 / ADR 重组；将 ABS 作为关键融资工具 |
+| [[consumer-finance/smbc-consumer-finance|SMBC Consumer Finance]] | SMFG 集团（原 Promise） | 无担保消费贷款 | 收购后由 Promise 更名；授信严格 |
+| [[card-issuers/aplus|Aplus]] | SBI Group 关联公司 | 购物信贷（分期）+ 小额消费贷款 | 混合资产池 — 分期 / 购物信贷占主导 |
+| [[card-issuers/orico|Orient Corp]] | Mizuho-Itochu 集团 | 购物信贷 + 汽车分期 + 消费贷款 | 多元化；消费贷款占比小于购物信贷 |
+| [[card-issuers/jaccs|JACCS]] | MUFG 集团 | 购物信贷 + 汽车分期 + 卡 | 纯消费贷款 ABS 较小；在分期 / 卡方面更大 |
 
 2006 前的发行人群体（Takefuji、Lake、Sanyo Shinpan 等）已经消失 — 破产、被收购或重组进上述幸存者。行业整合是塑造今日 ABS 资产池构成的结构性事实之一:幸存发行人授信更严格、更好跟踪偿还率，并重建了评级机构关系。
 
@@ -140,15 +140,15 @@ JCR / R&I 的消费贷款 ABS 违约建模使用 **vintage 曲线**:
 - **“过付金浪潮已是古老历史”** — 返还请求在技术上仍在持续（诉讼时效问题仍偶尔产生请求），任何新的监管收紧都可能触发类似扰动；评级机构仍对此尾部建模
 - **“Senior 分层在 2008–2010 安然度过，所以安全”** — 它们确实安然度过，但拯救它们的机制是快速启动提前摊还；投资者提前按面值收回资金，但**负久期冲击**真实存在 — 预期 WAL 为 3 年的投资者在 6 个月内收回资金
 - **“15–25% 次级支持过度”** — 批评者指出，在 2010 后交易中次级缓冲很少被使用（违约趋势下行），说明结构可以更高效；评级机构回应称，无论实际表现如何，尾部风险都证明该缓冲合理
-- **“BNPL 正在吞噬这个市场”** — BNPL（[[JapanFG/bnpl-landscape|BNPL landscape]]）竞争小额消费信贷需求；BNPL 应收款最终是否进入 ABS 资产池仍未确定
+- **“BNPL 正在吞噬这个市场”** — BNPL（[[payment-firms/bnpl-landscape|BNPL landscape]]）竞争小额消费信贷需求；BNPL 应收款最终是否进入 ABS 资产池仍未确定
 
 ## 10. Open questions
 
 - BNPL 式应收款最终是否大规模证券化，以及评级机构如何处理短期限（3-6 个月）BNPL 资产池
-- [[JapanFG/sbi-shinsei|Shinsei]]关联的 [[JapanFG/aplus|Aplus]] 和 [[JapanFG/orico|Orient Corp]] 是否在新所有权结构下整合消费金融 ABS 项目
+- [[regional-banks/sbi-shinsei|Shinsei]]关联的 [[card-issuers/aplus|Aplus]] 和 [[card-issuers/orico|Orient Corp]] 是否在新所有权结构下整合消费金融 ABS 项目
 - BOJ 利率正常化是否有意义地压迫消费者借款人支付能力（当前家庭杠杆较低，因此渠道较弱）
 - Digital-only / fintech 消费贷款人（[[JapanFG/lendable|Lendable]]、[[JapanFG/funds|Funds]] 等）是否能建立足以发行 ABS 的资产池规模
-- 随着分期销售应收款伴随电商增长，[[JapanFG/jaccs|JACCS]] 在整合购物信贷 ABS 中的角色
+- 随着分期销售应收款伴随电商增长，[[card-issuers/jaccs|JACCS]] 在整合购物信贷 ABS 中的角色
 
 ## Related
 
@@ -162,9 +162,9 @@ JCR / R&I 的消费贷款 ABS 违约建模使用 **vintage 曲线**:
 - [[structured-finance/fitch-moody-sp-japan-criteria|Fitch / Moody's / S&P Japan criteria]]
 - [[structured-finance/spv-tk-gk-vehicle-japan-tax|TK / GK / TMK SPV vehicle]]
 - [[structured-finance/japan-securitization-product-matrix|Japan securitization product matrix]]
-- [[JapanFG/acom|Acom]] · [[JapanFG/aiful|Aiful]] · [[JapanFG/smbc-consumer-finance|SMBC Consumer Finance]]
-- [[JapanFG/aplus|Aplus]] · [[JapanFG/orico|Orient Corp]] · [[JapanFG/jaccs|JACCS]]
-- [[JapanFG/bnpl-landscape|BNPL landscape]]
+- [[consumer-finance/acom|Acom]] · [[consumer-finance/aiful|Aiful]] · [[consumer-finance/smbc-consumer-finance|SMBC Consumer Finance]]
+- [[card-issuers/aplus|Aplus]] · [[card-issuers/orico|Orient Corp]] · [[card-issuers/jaccs|JACCS]]
+- [[payment-firms/bnpl-landscape|BNPL landscape]]
 - [[banking/INDEX|banking index]] · [[finance/INDEX|finance index]]
 
 ## Sources

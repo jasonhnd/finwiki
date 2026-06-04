@@ -43,10 +43,10 @@ translated_at: 2026-06-02T16:33:58.482Z
 
 ## JapanFG での関連性
 
-- [[JapanFG/tokyo-tanshi]]、[[JapanFG/central-tanshi]]、[[JapanFG/ueda-yagi-tanshi]] は短資会社への直接ルートです。
-- [[JapanFG/mufg]]、[[JapanFG/smfg]]、[[JapanFG/mizuho-fg]] は短期金利の波及、準備預金、ホールセール調達を通じて影響を受けます。
-- [[JapanFG/mizuho-securities]]、[[JapanFG/mufg-mums]]、その他の証券会社は、レポ、JGB 担保、ディーラーのバランスシートを通じて影響を受けます。
-- [[JapanFG/boj-monetary-policy]] が政策枠組みを定め、このページは市場表面を説明します。
+- [[financial-regulators/tokyo-tanshi]]、[[financial-regulators/central-tanshi]]、[[financial-regulators/ueda-yagi-tanshi]] は短資会社への直接ルートです。
+- [[megabanks/mufg]]、[[megabanks/smfg]]、[[megabanks/mizuho-fg]] は短期金利の波及、準備預金、ホールセール調達を通じて影響を受けます。
+- [[securities-firms/mizuho-securities]]、[[securities-firms/mufg-mums]]、その他の証券会社は、レポ、JGB 担保、ディーラーのバランスシートを通じて影響を受けます。
+- [[financial-regulators/boj-monetary-policy]] が政策枠組みを定め、このページは市場表面を説明します。
 
 ## 境界事例
 
@@ -59,10 +59,10 @@ translated_at: 2026-06-02T16:33:58.482Z
 - [[money-market/INDEX|money-market INDEX]]
 - [[money-market/japan-money-market]]
 - [[money-market/boj-open-market-operations]]
-- [[JapanFG/boj-monetary-policy]]
-- [[JapanFG/tokyo-tanshi]]
-- [[JapanFG/central-tanshi]]
-- [[JapanFG/ueda-yagi-tanshi]]
+- [[financial-regulators/boj-monetary-policy]]
+- [[financial-regulators/tokyo-tanshi]]
+- [[financial-regulators/central-tanshi]]
+- [[financial-regulators/ueda-yagi-tanshi]]
 - [[INDEX|FinWiki index]]
 
 ## 出典

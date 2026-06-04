@@ -60,12 +60,10 @@
     "wikilinks": [
       "INDEX",
       "JapanFG/INDEX",
-      "JapanFG/jbic",
-      "JapanFG/mitsubishi-hc-capital",
-      "JapanFG/mufg",
-      "JapanFG/orix-corp",
-      "JapanFG/smfg",
-      "JapanFG/smfl",
+      "financial-regulators/jbic",
+      "leasing-firms/mitsubishi-hc-capital",
+      "leasing-firms/orix-corp",
+      "leasing-firms/smfl",
       "manufacturer-finance/INDEX",
       "manufacturer-finance/hitachi-industrial-finance-platform",
       "manufacturer-finance/mitsubishi-heavy-export-finance",
@@ -73,17 +71,17 @@
       "manufacturer-finance/sony-group-finance-arm",
       "manufacturer-finance/toyota-financial-services",
       "manufacturer-finance/toyota-motor",
+      "megabanks/mufg",
+      "megabanks/smfg",
       "policy-finance/nexi"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
       "https://finwiki.zksc.io/JapanFG/INDEX",
-      "https://finwiki.zksc.io/JapanFG/jbic",
-      "https://finwiki.zksc.io/JapanFG/mitsubishi-hc-capital",
-      "https://finwiki.zksc.io/JapanFG/mufg",
-      "https://finwiki.zksc.io/JapanFG/orix-corp",
-      "https://finwiki.zksc.io/JapanFG/smfg",
-      "https://finwiki.zksc.io/JapanFG/smfl",
+      "https://finwiki.zksc.io/financial-regulators/jbic",
+      "https://finwiki.zksc.io/leasing-firms/mitsubishi-hc-capital",
+      "https://finwiki.zksc.io/leasing-firms/orix-corp",
+      "https://finwiki.zksc.io/leasing-firms/smfl",
       "https://finwiki.zksc.io/manufacturer-finance/INDEX",
       "https://finwiki.zksc.io/manufacturer-finance/hitachi-industrial-finance-platform",
       "https://finwiki.zksc.io/manufacturer-finance/mitsubishi-heavy-export-finance",
@@ -91,15 +89,17 @@
       "https://finwiki.zksc.io/manufacturer-finance/sony-group-finance-arm",
       "https://finwiki.zksc.io/manufacturer-finance/toyota-financial-services",
       "https://finwiki.zksc.io/manufacturer-finance/toyota-motor",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/smfg",
       "https://finwiki.zksc.io/policy-finance/nexi"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5781,
-    "word_like_tokens": 906,
+    "nonspace_chars": 5878,
+    "word_like_tokens": 917,
     "inbound_wikilinks_count": 11,
-    "last_modified": "2026-06-03"
+    "last_modified": "2026-06-04"
   }
 }

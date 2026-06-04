@@ -71,7 +71,7 @@ Its principal feature was a UI directly accessible from the wallet tab of the LI
 
 - Neither monthly trading volume nor account count disclosed
 - Given a structure that uses LINE app's monthly active users (over 95 million in Japan / see LINE Yahoo IR) as its customer-acquisition base, the account count is presumed to have been of a corresponding scale, but disclosure of specific figures has not been confirmed
-- Given the limited number of listings and features, its industry position is that of a niche player oriented toward retail and entry-level investors. The differentiation axis from majors such as [[exchanges/jp-exchange-bitflyer|bitFlyer]], [[exchanges/jp-exchange-coincheck|Coincheck]], and [[exchanges/jp-exchange-gmo-coin|GMO Coin]] was "ease of use within the LINE ecosystem" (integral to the Rakuten / LINE consolidation lineage of [[JapanFG/paypay-fg|PayPay economic ecosystem]])
+- Given the limited number of listings and features, its industry position is that of a niche player oriented toward retail and entry-level investors. The differentiation axis from majors such as [[exchanges/jp-exchange-bitflyer|bitFlyer]], [[exchanges/jp-exchange-coincheck|Coincheck]], and [[exchanges/jp-exchange-gmo-coin|GMO Coin]] was "ease of use within the LINE ecosystem" (integral to the Rakuten / LINE consolidation lineage of [[megabanks/paypay-fg|PayPay economic ecosystem]])
 - After the service-termination announcement, competitors (such as [[exchanges/jp-exchange-coincheck|Coincheck]]) ran migration campaigns aimed at acquiring users
 
 ## 6. History / major incidents

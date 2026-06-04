@@ -59,9 +59,6 @@
   "body_links": {
     "wikilinks_count": 16,
     "wikilinks": [
-      "JapanFG/mizuho-bank",
-      "JapanFG/mufg-bank",
-      "JapanFG/sumitomo-mitsui-banking-corp",
       "derivatives/INDEX",
       "derivatives/corporate-fx-hedge-policy-japan-listed",
       "derivatives/fx-options-japan-corporate-treasury",
@@ -72,14 +69,14 @@
       "derivatives/yen-basis-swap-market",
       "finance/japan-corporate-fx-and-rate-hedge-policy",
       "insurance/japan-life-insurance-alm-overview",
+      "megabanks/mizuho-bank",
+      "megabanks/mufg-bank",
+      "megabanks/sumitomo-mitsui-banking-corp",
       "money-market/INDEX",
       "money-market/boj-open-market-operations",
       "money-market/japan-money-market"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/mizuho-bank",
-      "https://finwiki.zksc.io/JapanFG/mufg-bank",
-      "https://finwiki.zksc.io/JapanFG/sumitomo-mitsui-banking-corp",
       "https://finwiki.zksc.io/derivatives/INDEX",
       "https://finwiki.zksc.io/derivatives/corporate-fx-hedge-policy-japan-listed",
       "https://finwiki.zksc.io/derivatives/fx-options-japan-corporate-treasury",
@@ -90,6 +87,9 @@
       "https://finwiki.zksc.io/derivatives/yen-basis-swap-market",
       "https://finwiki.zksc.io/finance/japan-corporate-fx-and-rate-hedge-policy",
       "https://finwiki.zksc.io/insurance/japan-life-insurance-alm-overview",
+      "https://finwiki.zksc.io/megabanks/mizuho-bank",
+      "https://finwiki.zksc.io/megabanks/mufg-bank",
+      "https://finwiki.zksc.io/megabanks/sumitomo-mitsui-banking-corp",
       "https://finwiki.zksc.io/money-market/INDEX",
       "https://finwiki.zksc.io/money-market/boj-open-market-operations",
       "https://finwiki.zksc.io/money-market/japan-money-market"
@@ -98,9 +98,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 13718,
+    "nonspace_chars": 13736,
     "word_like_tokens": 2419,
     "inbound_wikilinks_count": 12,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-04"
   }
 }

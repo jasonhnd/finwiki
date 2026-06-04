@@ -78,13 +78,6 @@
     "wikilinks_count": 22,
     "wikilinks": [
       "INDEX",
-      "JapanFG/dbj",
-      "JapanFG/mizuho-bank",
-      "JapanFG/mizuho-securities",
-      "JapanFG/mufg-bank",
-      "JapanFG/smbc-nikko",
-      "JapanFG/smtb",
-      "JapanFG/sumitomo-mitsui-banking-corp",
       "banking/regional-bank-consolidation-pattern",
       "finance/INDEX",
       "finance/japan-acquisition-finance",
@@ -97,18 +90,18 @@
       "finance/japan-private-equity-operating-model",
       "finance/japan-tender-offer-process",
       "finance/multi-jurisdiction-identity-tax-leverage",
+      "financial-regulators/dbj",
+      "megabanks/mizuho-bank",
+      "megabanks/mufg-bank",
+      "megabanks/sumitomo-mitsui-banking-corp",
+      "securities-firms/mizuho-securities",
+      "securities-firms/smbc-nikko",
       "securities/japan-asset-manager-landscape-matrix",
-      "securities/japan-prime-brokerage-and-institutional-financing"
+      "securities/japan-prime-brokerage-and-institutional-financing",
+      "trust-banks/smtb"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/dbj",
-      "https://finwiki.zksc.io/JapanFG/mizuho-bank",
-      "https://finwiki.zksc.io/JapanFG/mizuho-securities",
-      "https://finwiki.zksc.io/JapanFG/mufg-bank",
-      "https://finwiki.zksc.io/JapanFG/smbc-nikko",
-      "https://finwiki.zksc.io/JapanFG/smtb",
-      "https://finwiki.zksc.io/JapanFG/sumitomo-mitsui-banking-corp",
       "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
       "https://finwiki.zksc.io/finance/INDEX",
       "https://finwiki.zksc.io/finance/japan-acquisition-finance",
@@ -121,16 +114,23 @@
       "https://finwiki.zksc.io/finance/japan-private-equity-operating-model",
       "https://finwiki.zksc.io/finance/japan-tender-offer-process",
       "https://finwiki.zksc.io/finance/multi-jurisdiction-identity-tax-leverage",
+      "https://finwiki.zksc.io/financial-regulators/dbj",
+      "https://finwiki.zksc.io/megabanks/mizuho-bank",
+      "https://finwiki.zksc.io/megabanks/mufg-bank",
+      "https://finwiki.zksc.io/megabanks/sumitomo-mitsui-banking-corp",
+      "https://finwiki.zksc.io/securities-firms/mizuho-securities",
+      "https://finwiki.zksc.io/securities-firms/smbc-nikko",
       "https://finwiki.zksc.io/securities/japan-asset-manager-landscape-matrix",
-      "https://finwiki.zksc.io/securities/japan-prime-brokerage-and-institutional-financing"
+      "https://finwiki.zksc.io/securities/japan-prime-brokerage-and-institutional-financing",
+      "https://finwiki.zksc.io/trust-banks/smtb"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 27767,
-    "word_like_tokens": 4401,
+    "nonspace_chars": 27894,
+    "word_like_tokens": 4412,
     "inbound_wikilinks_count": 8,
-    "last_modified": "2026-06-02"
+    "last_modified": "2026-06-04"
   }
 }

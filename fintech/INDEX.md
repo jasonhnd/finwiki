@@ -27,7 +27,7 @@ sources:
 | Strategy theses and market structure | 18 | [[fintech/2022-three-variable-cascade-thesis|2022 cascade]], [[fintech/four-motive-classes-asymmetric-competition|4 motive classes]], [[fintech/portfolio-winner-structure-arm-analog|portfolio winner]] |
 | Issuers / products / reserve assets | 17 | [[fintech/paypal-pyusd-stablecoin|PYUSD]], [[fintech/ripple-rlusd-stablecoin|RLUSD]], [[fintech/blackrock-buidl-tokenized-mmf-overview|BUIDL]] |
 | CBDC / wholesale settlement | 13 | [[fintech/mbridge-bis-multi-cbdc-overview|mBridge]], [[fintech/bis-project-agora-overview|Agorá]], [[fintech/cbdc-multi-tier-architecture-overview|CBDC architecture]] |
-| Japan-specific stablecoin / EPI | 10 | [[fintech/japan-stablecoin-regulatory-landscape|Japan SC landscape]], [[fintech/jp-stablecoin-progmat|Progmat]], [[JapanFG/jpyc|JPYC]], [[exchanges/jp-exchange-sbi-vc-trade|SBI VC Trade / USDC]] |
+| Japan-specific stablecoin / EPI | 10 | [[fintech/japan-stablecoin-regulatory-landscape|Japan SC landscape]], [[fintech/jp-stablecoin-progmat|Progmat]], [[payment-firms/jpyc|JPYC]], [[exchanges/jp-exchange-sbi-vc-trade|SBI VC Trade / USDC]] |
 | Embedded wallet / interchange / payment rail | 9 | [[fintech/embedded-wallet-fintech-disintermediation-overview|embedded wallets]], [[fintech/usd-stablecoin-interchange|USD SC interchange]], [[fintech/ai-payment-two-tracks|AI payment two tracks]] |
 
 ## Start here

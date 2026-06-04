@@ -46,11 +46,11 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 | Progmat | B2B large-account · no cross-border compliance | #1  | #3  ★★★ |
 | Minna no Bank | Purely domestic retail | #4  | #4  ★★ |
 
-**Core logic**: Under the §501(d) jurisdiction list perspective, **cross-border compliance capability > domestic scale**. SBI Circle Holdings' exclusive USDC distribution means automatic connectivity with the §501(d) USD circle, a capability that [[JapanFG/progmat|Progmat]] / [[JapanFG/jpyc|JPYC]] / Minna no Bank do not possess. The 3 -major-bank cross-border SC project Project Pax solves only SWIFT compatibility (technical layer), not §501(d) compliance (legal layer).
+**Core logic**: Under the §501(d) jurisdiction list perspective, **cross-border compliance capability > domestic scale**. SBI Circle Holdings' exclusive USDC distribution means automatic connectivity with the §501(d) USD circle, a capability that [[payment-firms/progmat|Progmat]] / [[payment-firms/jpyc|JPYC]] / Minna no Bank do not possess. The 3 -major-bank cross-border SC project Project Pax solves only SWIFT compatibility (technical layer), not §501(d) compliance (legal layer).
 
 ## Origin & evolution
 
-2023-06  EPI 3 -type effective → 2024 年 3  major banks Progmat XJPY + JPYC circulating supply simultaneous growth → 2025-08  SBI Circle Holdings 50/50  JV established, landscape shifted → 2026-Q1  JPYC circulating supply 21 億円 + 6 万 holders + 2.6 x growth in 3  months → 2026-05  SBI-Circle rose to #1  under §501(d) perspective. 2028  final landscape forecast: SBI-Circle cross-border + JPYC retail + Progmat large B2B accounts + Minna no Bank regional. For Japan licensing framework overview, see [[JapanFG/legal-financial-licenses/INDEX|日本金融ライセンス索引]].
+2023-06  EPI 3 -type effective → 2024 年 3  major banks Progmat XJPY + JPYC circulating supply simultaneous growth → 2025-08  SBI Circle Holdings 50/50  JV established, landscape shifted → 2026-Q1  JPYC circulating supply 21 億円 + 6 万 holders + 2.6 x growth in 3  months → 2026-05  SBI-Circle rose to #1  under §501(d) perspective. 2028  final landscape forecast: SBI-Circle cross-border + JPYC retail + Progmat large B2B accounts + Minna no Bank regional. For Japan licensing framework overview, see [[financial-licenses/INDEX|日本金融ライセンス索引]].
 
 ## Related
 <!-- wiki-links:managed -->

@@ -52,8 +52,8 @@
   "body_links": {
     "wikilinks_count": 34,
     "wikilinks": [
-      "JapanFG/jbic",
-      "JapanFG/jfc",
+      "financial-regulators/jbic",
+      "financial-regulators/jfc",
       "policy-finance/agriculture-credit-guarantee-system",
       "policy-finance/aichi-credit-guarantee-corp",
       "policy-finance/fisheries-credit-guarantee-system",
@@ -88,8 +88,8 @@
       "policy-finance/tokyo-metropolitan-bond"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/jbic",
-      "https://finwiki.zksc.io/JapanFG/jfc",
+      "https://finwiki.zksc.io/financial-regulators/jbic",
+      "https://finwiki.zksc.io/financial-regulators/jfc",
       "https://finwiki.zksc.io/policy-finance/agriculture-credit-guarantee-system",
       "https://finwiki.zksc.io/policy-finance/aichi-credit-guarantee-corp",
       "https://finwiki.zksc.io/policy-finance/fisheries-credit-guarantee-system",
@@ -127,9 +127,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 7111,
-    "word_like_tokens": 971,
-    "inbound_wikilinks_count": 75,
-    "last_modified": "2026-05-25"
+    "nonspace_chars": 7150,
+    "word_like_tokens": 974,
+    "inbound_wikilinks_count": 77,
+    "last_modified": "2026-06-04"
   }
 }

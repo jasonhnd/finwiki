@@ -1,0 +1,92 @@
+{
+  "schema_version": "1.0",
+  "slug": "securities-firms/mufg-mums",
+  "source_path": "securities-firms/mufg-mums.md",
+  "url": "https://finwiki.zksc.io/securities-firms/mufg-mums",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/securities-firms/mufg-mums.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/securities-firms/mufg-mums.md",
+  "domain": "securities-firms",
+  "title": "Mitsubishi UFJ Morgan Stanley Securities",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Mitsubishi UFJ Morgan Stanley Securities",
+    "aliases": [
+      "mufg-mums",
+      "MUMSS",
+      "Mitsubishi UFJ Morgan Stanley Securities",
+      "三菱UFJモルガン・スタンレー証券",
+      "securities-firms/mufg-morgan-stanley-securities",
+      "securities-firms/mufg-msms"
+    ],
+    "domain": "securities-firms",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-20",
+    "last_tended": "2026-05-20",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "securities",
+      "investment-banking",
+      "FIEA",
+      "MUFG",
+      "Morgan-Stanley"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.sc.mufg.jp/company/profile/outline.html",
+      "https://www.hd.sc.mufg.jp/english/company/group_mumss.html",
+      "https://www.morganstanley.com/about-us/global-offices/japan/en/corporate-structure",
+      "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.pdf"
+    ]
+  },
+  "summary": "Mitsubishi UFJ Morgan Stanley Securities is the core MUFG securities company created around the MUFG / Morgan Stanley strategic alliance. Its role is different from a pure online brokerage: it is a bank-affiliated comprehensive securities firm covering wealth management, investment banking, sales an",
+  "headings": [
+    "Mitsubishi UFJ Morgan Stanley Securities",
+    "TL;DR",
+    "Positioning",
+    "JV Boundary",
+    "JapanFG Relevance",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 12,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/INDEX",
+      "finance/japan-ib-league-table",
+      "financial-licenses/INDEX",
+      "financial-regulators/jsda",
+      "megabanks/mufg",
+      "securities-firms/daiwa-sg",
+      "securities-firms/mizuho-securities",
+      "securities-firms/nomura-hd",
+      "securities-firms/smbc-nikko",
+      "securities/INDEX",
+      "securities/nisa-2024-flow"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/finance/japan-ib-league-table",
+      "https://finwiki.zksc.io/financial-licenses/INDEX",
+      "https://finwiki.zksc.io/financial-regulators/jsda",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/securities-firms/daiwa-sg",
+      "https://finwiki.zksc.io/securities-firms/mizuho-securities",
+      "https://finwiki.zksc.io/securities-firms/nomura-hd",
+      "https://finwiki.zksc.io/securities-firms/smbc-nikko",
+      "https://finwiki.zksc.io/securities/INDEX",
+      "https://finwiki.zksc.io/securities/nisa-2024-flow"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3070,
+    "word_like_tokens": 449,
+    "inbound_wikilinks_count": 45,
+    "last_modified": "2026-06-04"
+  }
+}

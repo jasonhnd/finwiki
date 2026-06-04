@@ -147,7 +147,7 @@ Compare with [[structured-finance/japan-rmbs-issuance-structure]] and [[structur
 - [[structured-finance/credit-rating-methodology-jcr-r-and-i]]
 - [[policy-finance/japan-housing-finance-agency]]
 - [[policy-finance/INDEX]]
-- [[JapanFG/jfc]]
+- [[financial-regulators/jfc]]
 - [[real-estate-finance/INDEX]]
 
 ## Sources

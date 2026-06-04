@@ -41,7 +41,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 - CFO & CRO × 1名
 - CTO × 1名
 
-> Individual names are based on public information and may change. For detailed profiles, confirm against [[JapanFG/progmat|JapanFG / progmat company anchor]] and official IR materials.
+> Individual names are based on public information and may change. For detailed profiles, confirm against [[payment-firms/progmat|JapanFG / progmat company anchor]] and official IR materials.
 
 ---
 
@@ -176,14 +176,14 @@ Progmat is not a token issuer. It provides a platform supporting issuance across
 | CTO | — | |
 | VP, Japan Business Development | — | |
 
-> Except for the CEO, personal names have a high probability of changing, so this section summarizes by role only. For details, confirm against [[JapanFG/progmat|JapanFG / progmat]] and official IR materials.
+> Except for the CEO, personal names have a high probability of changing, so this section summarizes by role only. For details, confirm against [[payment-firms/progmat|JapanFG / progmat]] and official IR materials.
 
 ---
 
 ## Related
 
-- [[JapanFG/progmat|株式会社Progmat]] — JapanFG company anchor
-- [[JapanFG/mitsubishi-ufj-trust-bank|三菱UFJ信託銀行]] — regulated trust-bank boundary
+- [[payment-firms/progmat|株式会社Progmat]] — JapanFG company anchor
+- [[trust-banks/mitsubishi-ufj-trust-bank|三菱UFJ信託銀行]] — regulated trust-bank boundary
 - [[fintech/jp-trust-type-sc-architecture|日本信託型 SC 架構]] — detailed explanation of the legal basis of Progmat Coin (第3号EPI / specified trust beneficiary rights)
 - [[fintech/multi-megabank-consortium-governance|多巨行联合体治理]] — intent of the MUTB 49% design and the governance structure among the three mega-banks
 - [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度三層構造]] — institutional positioning comparison of JPYC, DCJPY, and Progmat Coin

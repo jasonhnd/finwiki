@@ -26,11 +26,11 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[business/INDEX|business INDEX]] as a public-company strategic case: a **retail (supermarket) conglomerate that built a full financial holding** rather than a single utility rail. Read it against [[business/seven-bank-atm-platform-deconsolidation-case|Seven Bank ATM-platform + deconsolidation case]] — the cleanest contrast, since Seven & i monetised store traffic through a narrow ATM-fee bank and then *deconsolidated* it, whereas Aeon built and *keeps* a broad card-plus-bank-plus-Asia franchise. Read it also against [[business/toyota-financial-services-captive-finance-case|Toyota Financial Services captive-finance case]] for the manufacturer-captive contrast and [[business/rakuten-group-mobile-finance-bundling-case|Rakuten Group mobile-finance bundling case]] for the internet-conglomerate version of retail-embedded finance. For entity / sector profiles see [[JapanFG/aeon-financial-service|Aeon Financial Service]], [[JapanFG/aeon-bank|Aeon Bank]], the parent retail group [[retail/aeon-group|Aeon Group]], and peer issuers [[JapanFG/credit-saison|Credit Saison]] and [[JapanFG/jaccs|Jaccs]]. Pair with [[payments/waon-prepaid-aeon|WAON prepaid]], the [[payments/japan-consumer-credit-operator-comparison-matrix|Japan consumer-credit operator comparison matrix]], and the [[JapanFG/payments-cards-leasing-finance-index|JapanFG payments / cards / leasing index]].
+This entry sits under [[business/INDEX|business INDEX]] as a public-company strategic case: a **retail (supermarket) conglomerate that built a full financial holding** rather than a single utility rail. Read it against [[business/seven-bank-atm-platform-deconsolidation-case|Seven Bank ATM-platform + deconsolidation case]] — the cleanest contrast, since Seven & i monetised store traffic through a narrow ATM-fee bank and then *deconsolidated* it, whereas Aeon built and *keeps* a broad card-plus-bank-plus-Asia franchise. Read it also against [[business/toyota-financial-services-captive-finance-case|Toyota Financial Services captive-finance case]] for the manufacturer-captive contrast and [[business/rakuten-group-mobile-finance-bundling-case|Rakuten Group mobile-finance bundling case]] for the internet-conglomerate version of retail-embedded finance. For entity / sector profiles see [[card-issuers/aeon-financial-service|Aeon Financial Service]], [[card-issuers/aeon-bank|Aeon Bank]], the parent retail group [[retail/aeon-group|Aeon Group]], and peer issuers [[card-issuers/credit-saison|Credit Saison]] and [[card-issuers/jaccs|Jaccs]]. Pair with [[payments/waon-prepaid-aeon|WAON prepaid]], the [[payments/japan-consumer-credit-operator-comparison-matrix|Japan consumer-credit operator comparison matrix]], and the [[JapanFG/INDEX|JapanFG payments / cards / leasing index]].
 
 ## TL;DR
 
-**Aeon Financial Service (AFS, TSE Prime 8570)** is the financial holding company of the **Aeon Group**, Japan's largest retail (supermarket / mall) group. Unlike a narrow retailer-finance vehicle, AFS runs a **full stack**: [[JapanFG/aeon-bank|Aeon Bank]] (a licensed retail bank), the Aeon-branded credit-card business (one of Japan's larger card franchises by cardholder count), installment / consumer-credit, insurance distribution, and — distinctively — a **broad pan-Asia consumer-finance footprint** across markets such as Hong Kong (the separately listed Aeon Credit Service (Asia)), Malaysia, Thailand, Indonesia, Vietnam, and others. The connective tissue is the Aeon retail ecosystem and the **WAON** prepaid / points engine that ties cardholders to Aeon malls and supermarkets.
+**Aeon Financial Service (AFS, TSE Prime 8570)** is the financial holding company of the **Aeon Group**, Japan's largest retail (supermarket / mall) group. Unlike a narrow retailer-finance vehicle, AFS runs a **full stack**: [[card-issuers/aeon-bank|Aeon Bank]] (a licensed retail bank), the Aeon-branded credit-card business (one of Japan's larger card franchises by cardholder count), installment / consumer-credit, insurance distribution, and — distinctively — a **broad pan-Asia consumer-finance footprint** across markets such as Hong Kong (the separately listed Aeon Credit Service (Asia)), Malaysia, Thailand, Indonesia, Vietnam, and others. The connective tissue is the Aeon retail ecosystem and the **WAON** prepaid / points engine that ties cardholders to Aeon malls and supermarkets.
 
 The architectural insight: Aeon turned **mall and supermarket footfall into a full financial group** — issuing cards to shoppers, taking deposits through Aeon Bank, and exporting the card / installment model across emerging Asia where Aeon already operates retail. A 2024 marker of the Asia strategy is **Aeon Bank (M) Berhad in Malaysia, launched 26 May 2024 as that country's first digital Islamic bank**. This is the opposite portfolio choice from [[business/seven-bank-atm-platform-deconsolidation-case|Seven & i's 2025 deconsolidation]] of Seven Bank: where one retailer narrowed and offloaded its bank, the other kept building a diversified, cross-border financial holding.
 
@@ -39,7 +39,7 @@ The architectural insight: Aeon turned **mall and supermarket footfall into a fu
 | Layer | Representative business | Role |
 |---|---|---|
 | Holding | Aeon Financial Service (8570) | Listed FG that bundles the group's finance businesses |
-| Bank | [[JapanFG/aeon-bank|Aeon Bank]] | Licensed retail bank; deposits, mortgages, in-mall branches and ATMs |
+| Bank | [[card-issuers/aeon-bank|Aeon Bank]] | Licensed retail bank; deposits, mortgages, in-mall branches and ATMs |
 | Card | Aeon-branded credit cards | Large cardholder base tied to Aeon malls / supermarkets |
 | Consumer credit | Installment, loans, BNPL-style products | Point-of-sale and revolving credit |
 | Insurance | Insurance distribution | Cross-sell to the retail customer base |
@@ -87,8 +87,8 @@ The two largest Japanese retail groups made **opposite** strategic choices about
 | Issuer | Anchor | Distinction |
 |---|---|---|
 | **Aeon Financial Service** (this case) | Aeon retail malls / supermarkets | Retail-anchored **full FG** with broad Asia footprint |
-| [[JapanFG/credit-saison|Credit Saison]] | Saison / retail + finance | Card + finance, diversification into global investment / lending |
-| [[JapanFG/jaccs|Jaccs]] | Installment / auto credit | Installment-credit specialist |
+| [[card-issuers/credit-saison|Credit Saison]] | Saison / retail + finance | Card + finance, diversification into global investment / lending |
+| [[card-issuers/jaccs|Jaccs]] | Installment / auto credit | Installment-credit specialist |
 | Bank-owned card arms | Megabank parent | Card as a bank cross-sell channel |
 
 See the [[payments/japan-consumer-credit-operator-comparison-matrix|consumer-credit operator comparison matrix]] for the full field. Aeon's distinction is the combination of a **retail anchor**, a **licensed bank**, and a **cross-border consumer-finance** business under one listed holding.
@@ -129,16 +129,16 @@ For **AFS as a listed FG (8570)**:
 - [[business/seven-bank-atm-platform-deconsolidation-case|Seven Bank ATM-platform + deconsolidation case]]
 - [[business/toyota-financial-services-captive-finance-case|Toyota Financial Services captive-finance case]]
 - [[business/rakuten-group-mobile-finance-bundling-case|Rakuten Group mobile-finance bundling case]]
-- [[JapanFG/aeon-financial-service|Aeon Financial Service]]
-- [[JapanFG/aeon-bank|Aeon Bank]]
+- [[card-issuers/aeon-financial-service|Aeon Financial Service]]
+- [[card-issuers/aeon-bank|Aeon Bank]]
 - [[retail/aeon-group|Aeon Group]]
-- [[JapanFG/credit-saison|Credit Saison]]
-- [[JapanFG/jaccs|Jaccs]]
+- [[card-issuers/credit-saison|Credit Saison]]
+- [[card-issuers/jaccs|Jaccs]]
 - [[payments/waon-prepaid-aeon|WAON prepaid]]
 - [[payments/japan-consumer-credit-operator-comparison-matrix|Japan consumer-credit operator comparison matrix]]
 - [[retail/store-traffic-as-financial-distribution|store traffic as financial distribution]]
 - [[finance/cross-border-m-a-japan|cross-border M&A Japan]]
-- [[JapanFG/payments-cards-leasing-finance-index|JapanFG payments / cards / leasing index]]
+- [[JapanFG/INDEX|JapanFG payments / cards / leasing index]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

@@ -12,13 +12,13 @@ translated_at: 2026-05-30T16:08:36.702Z
 
 ## Wiki route
 
-本条目归于 [[business/INDEX|business INDEX]] 之下,作为上市公司战略案例。请将其与 [[business/rakuten-group-mobile-finance-bundling-case|Rakuten Group mobile-finance bundling case]] 作为反向交叉补贴模式(金融补贴移动 vs 电信补贴金融)、与 [[business/gmo-internet-group|GMO Internet Group]] 作为互联网到金融集团对照,以及 [[JapanFG/paypay-fg|PayPay FG]] 作为 SoftBank 侧平行案例一并阅读。配合 [[JapanFG/INDEX|JapanFG INDEX]] 与 [[payments/cashless-jp-landscape|payments INDEX]]。
+本条目归于 [[business/INDEX|business INDEX]] 之下,作为上市公司战略案例。请将其与 [[business/rakuten-group-mobile-finance-bundling-case|Rakuten Group mobile-finance bundling case]] 作为反向交叉补贴模式(金融补贴移动 vs 电信补贴金融)、与 [[business/gmo-internet-group|GMO Internet Group]] 作为互联网到金融集团对照,以及 [[megabanks/paypay-fg|PayPay FG]] 作为 SoftBank 侧平行案例一并阅读。配合 [[JapanFG/INDEX|JapanFG INDEX]] 与 [[payments/cashless-jp-landscape|payments INDEX]]。
 
 ## TL;DR
 
 NTT Docomo(NTT Corp 的子公司 9432, ,后 2020 TOB 全资拥有)将 **d-Point / d-Card / d-Barai** 金融服务堆栈作为**向其移动用户基础分发金融产品的渠道**运营(全国约 85百万 d-Point 会员)。2024 SMBC 战略合作——SMBC 据此认购数十亿 Docomo 金融子公司股权——正式确立了逆 Rakuten 模式:电信提供分发 + 用户数据,巨型银行提供资产负债表 + 产品专长 + 监管知识。
 
-架构洞见:Docomo 不在电信内部构建完整 FG(Rakuten 的路径),而是将移动订阅定位为客户获取层,并与 [[JapanFG/smfg|SMFG]] / SMBC 合作提供受监管资产负债表层。这是一种**电信即渠道 + 银行即资产负债表**的分工,而非垂直整合。
+架构洞见:Docomo 不在电信内部构建完整 FG(Rakuten 的路径),而是将移动订阅定位为客户获取层,并与 [[megabanks/smfg|SMFG]] / SMBC 合作提供受监管资产负债表层。这是一种**电信即渠道 + 银行即资产负债表**的分工,而非垂直整合。
 
 ## 1. 合作前 Docomo 金融堆栈
 
@@ -34,7 +34,7 @@ NTT Docomo(NTT Corp 的子公司 9432, ,后 2020 TOB 全资拥有)将 **d-Point 
 
 ## 2. 2024 SMBC 战略合作
 
-于 2024, Docomo 与 [[JapanFG/smfg|SMFG]](经由 SMBC)宣布战略联盟,据此 SMBC 取得 Docomo 金融子公司 / 产品线的经济权益,包括对 d-Card 相关实体的计划投资及联合分发协议。
+于 2024, Docomo 与 [[megabanks/smfg|SMFG]](经由 SMBC)宣布战略联盟,据此 SMBC 取得 Docomo 金融子公司 / 产品线的经济权益,包括对 d-Card 相关实体的计划投资及联合分发协议。
 
 关键特征:
 
@@ -67,8 +67,8 @@ Docomo 模型是**电信即渠道**经济的清晰例证:
 |---|---|---|---|---|
 | **NTT Docomo** | Docomo(NTT 9432) | d-Point / d-Barai / d-Card | 电信 → 金融 | SMBC(2024 合作) |
 | **KDDI / au** | au(KDDI 9433) | au PAY / au Jibun Bank / au Insurance | 电信 → 金融 | MUFG(au Jibun Bank 合资) |
-| **SoftBank** | SoftBank(9434) | [[JapanFG/paypay-fg|PayPay FG]]、PayPay Bank、PayPay Card | 电信 → 金融 | (内部 PayPay FG) |
-| **Rakuten** | [[JapanFG/rakuten-fg|Rakuten Mobile]] | Card / Bank / Securities / Insurance | 金融 → 电信(逆向)—— 参见 [[business/rakuten-group-mobile-finance-bundling-case|Rakuten case]] | Mizuho(Securities 部分出售 2023) |
+| **SoftBank** | SoftBank(9434) | [[megabanks/paypay-fg|PayPay FG]]、PayPay Bank、PayPay Card | 电信 → 金融 | (内部 PayPay FG) |
+| **Rakuten** | [[payment-firms/rakuten-fg|Rakuten Mobile]] | Card / Bank / Securities / Insurance | 金融 → 电信(逆向)—— 参见 [[business/rakuten-group-mobile-finance-bundling-case|Rakuten case]] | Mizuho(Securities 部分出售 2023) |
 | **GMO Internet** | (无移动) | [[business/gmo-internet-group|GMO Internet Group]] 支付 / 银行 / 外汇 / 加密 | 互联网基础设施 → 金融 | Aozora(Net Bank 合资) |
 
 Docomo 的区别:最大的电信用户基础、最晚完全正式确立银行合作,以及唯一在银行层明确走**伙伴主导而非自建主导**的。
@@ -86,7 +86,7 @@ Docomo 的区别:最大的电信用户基础、最晚完全正式确立银行合
 
 - 接入 80百万+ Docomo 用户分发
 - 在日益无现金的经济中信用卡交易量增长
-- 相对 Rakuten Card / [[JapanFG/paypay-card|PayPay Card]] / au PAY 的防御性定位
+- 相对 Rakuten Card / [[card-issuers/paypay-card|PayPay Card]] / au PAY 的防御性定位
 - 对冲数字渠道主导下巨型银行直接分发的下滑
 
 对 **NTT Corp 母公司**:
@@ -102,7 +102,7 @@ Docomo 的区别:最大的电信用户基础、最晚完全正式确立银行合
 | 经营利润来源 | 电信用户基础 | Card / Bank / Securities |
 | 补贴 / 资本支出去向 | 金融产品分发 | 移动网络建设 |
 | 银行资产负债表 | 伙伴(SMBC) | 自有([[JapanFG/rakuten-bank|Rakuten Bank]]) |
-| 证券 | 伙伴(有限自建) | 自有([[JapanFG/rakuten-securities|Rakuten Securities]],部分出售给 Mizuho) |
+| 证券 | 伙伴(有限自建) | 自有([[securities-firms/rakuten-securities|Rakuten Securities]],部分出售给 Mizuho) |
 | 资本支出概况 | 轻(无为金融的网络建设) | 重(移动网络) |
 | 集团折价风险 | 低 | 高 |
 | 交叉补贴断裂风险 | 无(无亏损子公司) | 高(移动亏损持续) |
@@ -132,10 +132,10 @@ Docomo 模型在结构上更可防御,因为无子公司亏损——整个堆栈
 - [[business/gmo-internet-group|GMO Internet Group]]
 - [[business/sony-fg-partial-spinoff-case|Sony FG partial spinoff case]]
 - [[business/kitao-yoshitaka-sbi-independent-strategy-case|Kitao Yoshitaka SBI independent strategy]]
-- [[JapanFG/smfg|SMFG]]
-- [[JapanFG/paypay-fg|PayPay FG]]
-- [[JapanFG/mufg|MUFG]]
-- [[JapanFG/rakuten-fg|Rakuten FG]]
+- [[megabanks/smfg|SMFG]]
+- [[megabanks/paypay-fg|PayPay FG]]
+- [[megabanks/mufg|MUFG]]
+- [[payment-firms/rakuten-fg|Rakuten FG]]
 - [[payments/cashless-jp-landscape|Japan cashless payment landscape]]
 - [[fintech/ai-payment-two-tracks|AI payment two tracks]]
 - [[corporate-strategy/partial-spinoff-tax-deferral|partial spinoff tax deferral]]

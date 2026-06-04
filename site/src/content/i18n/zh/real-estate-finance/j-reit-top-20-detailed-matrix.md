@@ -30,14 +30,14 @@ translated_at: 2026-06-01T03:31:12.232Z
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1 | [[real-estate-finance/nippon-building-fund-j-reit-8951\|Nippon Building Fund (NBF)]] | 8951 | [[real-estate-finance/mitsui-fudosan-financing-model\|Mitsui Fudosan]] | 开发商 | 办公室（东京CBD） | ~1.4 | ~0.8-0.9 | 保守（低40%区） | 低端（高端） | 多租户（低集中度） | 持平至轻微下降（办公室资本化率扩大） | 稳定至小幅上涨（租金调整） |
 | 2 | [[real-estate-finance/japan-real-estate-j-reit-8952\|Japan Real Estate (JRE)]] | 8952 | [[real-estate-finance/mitsubishi-estate-financing-model\|Mitsubishi Estate]] | 开发商 | 办公室（丸之内/大手町） | ~1.2 | ~0.7-0.8 | 保守（低40%区） | 低端（高端） | 多租户；丸之内首相 | 平（丸之内弹性） | 稳定 |
-| 3 | [[real-estate-finance/nomura-real-estate-master-fund-nmf\|Nomura Real Estate Master Fund (NMF)]] | 3462 | 野村不动产 ([[JapanFG/nomura-hd\|Nomura HD]]) | 开发商 | 多元化（办公、零售、物流、住宅） | ~1.1 | ~0.6-0.7 | 中部40%区 | 中 | 多租户多元化 | 平 | 稳定至温和上涨 |
+| 3 | [[real-estate-finance/nomura-real-estate-master-fund-nmf\|Nomura Real Estate Master Fund (NMF)]] | 3462 | 野村不动产 ([[securities-firms/nomura-hd\|Nomura HD]]) | 开发商 | 多元化（办公、零售、物流、住宅） | ~1.1 | ~0.6-0.7 | 中部40%区 | 中 | 多租户多元化 | 平 | 稳定至温和上涨 |
 | 4 | [[real-estate-finance/glp-j-reit-3281\|GLP J-REIT]] | 3281 | GLP（总部位于新加坡的全球物流平台） | 国外（物流平台） | 物流（现代A级） | ~0.9 | ~0.5-0.6 | 中40%区 | 中期（物流紧张） | 每个设施单锚/少租户； 3PL和电子商务 | 压缩（保持物流上限） | 稳定上升 |
 | 5 | [[real-estate-finance/nippon-prologis-reit-3283\|Nippon Prologis REIT (NPR)]] | 3283 | Prologis（美国上市的全球物流REIT） | 国外（物流平台） | 物流（A类） | ~0.8 | ~0.5-0.6 | 中部40%区 | 中期（物流紧张） | 单锚定/3PL 与电商锚定 | 压缩；上限利率非常严格 | 稳定上升 |
-| 6 | 大和办公投资 | 8976 | [[JapanFG/daiwa-sg\|Daiwa Securities Group]] | 贸易/金融 | 写字楼（主要城市的中型建筑） | ~0.5 | ~0.3-0.4 | 中部40%区域 | 中 | 多租户中型建筑 | 平坦至轻微下降（中型办公室柔软度） | 稳定 |
+| 6 | 大和办公投资 | 8976 | [[securities-firms/daiwa-sg\|Daiwa Securities Group]] | 贸易/金融 | 写字楼（主要城市的中型建筑） | ~0.5 | ~0.3-0.4 | 中部40%区域 | 中 | 多租户中型建筑 | 平坦至轻微下降（中型办公室柔软度） | 稳定 |
 | 7 | 日本住宿基金 | 3226 | 三井不动产住宅 | 开发商（住宅） | 住宅（出租公寓） | 〜0.5 | ~0.3-0.4 | 中部40%区 | 中 | 细粒度的个人租户；单租户集中度极低 | 平 | 稳定上涨（续租租金调整） |
 | 8 | 日本物流基金 | 8967 | 三井物产（金六福资产管理） | 交易/赞助商（三井物产） | 物流 | ~0.4 | ~0.3 | 中部40%区 | 中 | 单租户物流； 3PL锚 | 轻度压缩 | 稳定上升 |
 | 9 | 积水大厦房地产投资信托基金 | 3309 | 积水屋 | 开发商（住宅/商业） | 多元化（办公+住宅） | ~0.5 | ~0.3 | 中40%区 | 中 | 多租户办公+颗粒住宅 | 平 | 稳定 |
-| 10 | [[JapanFG/orix-corp\|Orix]] JREIT | 8954 | [[JapanFG/orix-corp\|Orix]] | 金融集团 | 多元化（办公室重） | ~0.7 | ~0.4-0.5 | 中40%区 | 中 | 多租户多元化 | 平 | 稳定 |
+| 10 | [[leasing-firms/orix-corp\|Orix]] JREIT | 8954 | [[leasing-firms/orix-corp\|Orix]] | 金融集团 | 多元化（办公室重） | ~0.7 | ~0.4-0.5 | 中40%区 | 中 | 多租户多元化 | 平 | 稳定 |
 | 11 | 森山房地产投资信托基金 | 3234 | 森大厦 | 开发商（城市更新） | 办公楼/城市再开发（六本木、虎之门、爱宕） | ~0.4 | ~0.2-0.3 | 中部40%区 | 中 | 多租户；以城市重建为基础 | 平坦（城市重建弹性） | 稳定至温和上涨 |
 | 12 | 森信托崇光房地产投资信托基金（森信托房地产投资信托基金） | 3478 | 森信托 | 开发商 | 办公重度多元化 | ~0.4 | ~0.2-0.3 | 中40%区 | 中 | 多租户；办公为主的混合型 | 平 | 稳定 |
 | 13 | 工业与基础设施基金 (IIF) | 3249 | KJR Management（KKR 收购 MC-UBS Realty 后）；三菱商事历史 | 交易/财务赞助商（现为 PE 旗下 AM） | 物流+产业基础设施 | ~0.5 | ~0.3-0.4 | 中40%区 | 中（物流主题） | 混合：单租户物流+多租户工业基础设施 | 轻度压缩 | 稳定上升 |
@@ -89,8 +89,8 @@ translated_at: 2026-06-01T03:31:12.232Z
 | 国内开发商（AEON/AEON Mall） | 永旺产业信托 (3292) | 1 |
 | 贸易公司/金融集团（三井物产） | 日本物流基金（8967） | 1 |
 | 贸易公司/金融集团（三菱公司/KKR/KJR） | IIF (3249) | 1 |
-| 金融集团（[[JapanFG/orix-corp\|Orix]]） | 欧力士 JREIT (8954) | 1 |
-| 交易/证券（[[JapanFG/daiwa-sg\|Daiwa SG]]） | 大和办事处 (8976) | 1 |
+| 金融集团（[[leasing-firms/orix-corp\|Orix]]） | 欧力士 JREIT (8954) | 1 |
+| 交易/证券（[[securities-firms/daiwa-sg\|Daiwa SG]]） | 大和办事处 (8976) | 1 |
 | 独立 AM (Kenedix) | Kenedix 办公室 (8972) | 1 |
 | 混合/NTT 附属（Premier） | 卓越投资 (8956) | 1 |
 | 国外物流平台（GLP、新加坡） | 普洛斯 J-REIT (3281) | 1 |
@@ -139,9 +139,9 @@ translated_at: 2026-06-01T03:31:12.232Z
 
 | 受托人 | 顶级 20  受托人角色的大致份额 | 注释 |
 |---|---|---|
-| [[JapanFG/mitsubishi-ufj-trust-bank\|Mitsubishi UFJ Trust Bank]] | 顶级 20 J-REITs 中最常见的受托人 | 日本最大的信托银行；跨发起人受托人角色 |
-| [[JapanFG/sumitomo-mitsui-trust\|Sumitomo Mitsui Trust Bank (SMTB)]] | 第二频繁受托人 | 拥有深厚房地产资产管理专营权的大型信托银行 |
-| [[JapanFG/mizuho-trust-bank\|Mizuho Trust Bank]] | 重要的受托人角色 | 集团旗下房地产特许经营信托银行 |
+| [[trust-banks/mitsubishi-ufj-trust-bank\|Mitsubishi UFJ Trust Bank]] | 顶级 20 J-REITs 中最常见的受托人 | 日本最大的信托银行；跨发起人受托人角色 |
+| [[trust-banks/sumitomo-mitsui-trust\|Sumitomo Mitsui Trust Bank (SMTB)]] | 第二频繁受托人 | 拥有深厚房地产资产管理专营权的大型信托银行 |
+| [[trust-banks/mizuho-trust-bank\|Mizuho Trust Bank]] | 重要的受托人角色 | 集团旗下房地产特许经营信托银行 |
 
 受托人身份独立于发起人身份 —，单一信托银行可以充当由竞争开发商团体发起的 J-REIT 的受托人。受托人角色是一种收费托管/资产管理职能，不影响发起人治理。受托方框架参见[[banking/trust-bank-custody-operating-comparison|trust bank custody operating comparison]]。
 
@@ -267,11 +267,11 @@ translated_at: 2026-06-01T03:31:12.232Z
 - [[real-estate-finance/bank-commercial-real-estate-lending-japan|bank commercial real estate lending Japan]]
 - [[banking/INDEX|banking index]]
 - [[banking/trust-bank-custody-operating-comparison|trust bank custody operating comparison]]
-- [[JapanFG/orix-corp|Orix]]
-- [[JapanFG/daiwa-sg|Daiwa Securities Group]]
-- [[JapanFG/nomura-hd|Nomura HD]]
-- [[JapanFG/mitsubishi-ufj-trust-bank|Mitsubishi UFJ Trust Bank]]
-- [[JapanFG/sumitomo-mitsui-trust|SMTB]]
+- [[leasing-firms/orix-corp|Orix]]
+- [[securities-firms/daiwa-sg|Daiwa Securities Group]]
+- [[securities-firms/nomura-hd|Nomura HD]]
+- [[trust-banks/mitsubishi-ufj-trust-bank|Mitsubishi UFJ Trust Bank]]
+- [[trust-banks/sumitomo-mitsui-trust|SMTB]]
 - [[retail/aeon-group|AEON Group]]
 - [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]]
 - [[INDEX|FinWiki index]]

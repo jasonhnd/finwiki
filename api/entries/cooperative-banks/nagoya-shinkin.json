@@ -1,0 +1,110 @@
+{
+  "schema_version": "1.0",
+  "slug": "cooperative-banks/nagoya-shinkin",
+  "source_path": "cooperative-banks/nagoya-shinkin.md",
+  "url": "https://finwiki.zksc.io/cooperative-banks/nagoya-shinkin",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/cooperative-banks/nagoya-shinkin.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/cooperative-banks/nagoya-shinkin.md",
+  "domain": "cooperative-banks",
+  "title": "名古屋信用金庫",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "名古屋信用金庫",
+    "aliases": [
+      "cooperative-banks/nagoya-shinkin",
+      "nagoya-shinkin",
+      "Nagoya Shinkin Bank",
+      "名古屋信金",
+      "めいしん",
+      "信金"
+    ],
+    "domain": "cooperative-banks",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-25",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "shinkin",
+      "cooperative-banking",
+      "aichi",
+      "chubu",
+      "nagoya",
+      "operating-company"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.meishin.co.jp/",
+      "https://www.shinkin.org/",
+      "https://www.fsa.go.jp/menkyo/menkyoj/shinkin.xlsx",
+      "https://www.shinkin-central-bank.jp/"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 岡崎信用金庫（西三河 / Aichi 南東部の自動車サプライチェーン anchor）and 浜松磐田信用金庫（静岡西部 / 東海西端 anchor）for the regional shinkin peer block, against 名古屋銀行 and あいち銀行（旧 愛知銀行＋中京銀行）for the commercial-bank counterparts in Aichi, and against Japan shinkin bank registry for the broad",
+  "headings": [
+    "名古屋信用金庫",
+    "Wiki route",
+    "TL;DR",
+    "1. License / group boundary",
+    "2. Operating model",
+    "名古屋信用金庫 vs 岡崎信用金庫（geographic / industrial split）",
+    "3. 系統内位置（Systemic position）",
+    "4. Why this page matters",
+    "5. 関連 / 地域論点",
+    "中京経済との結びつき"
+  ],
+  "body_links": {
+    "wikilinks_count": 19,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "banking/INDEX",
+      "banking/cooperative-banking-japan",
+      "banking/japan-cooperative-banking-unified-federation-matrix",
+      "banking/shinkin-bank-registry-japan",
+      "cooperative-banks/hamamatsu-iwata-shinkin",
+      "cooperative-banks/kitakyushu-shinkin",
+      "cooperative-banks/okazaki-shinkin",
+      "cooperative-banks/sapporo-shinkin",
+      "cooperative-banks/sendai-shinkin",
+      "cooperative-banks/shinkin-central",
+      "cooperative-banks/shinkin-network-services",
+      "financial-regulators/yokin-hoken-kiko",
+      "financial-regulators/zenshin-kyo",
+      "mizuho-fg",
+      "mufg",
+      "regional-banks/aichi-bank",
+      "regional-banks/nagoya-bank",
+      "smfg"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/banking/cooperative-banking-japan",
+      "https://finwiki.zksc.io/banking/japan-cooperative-banking-unified-federation-matrix",
+      "https://finwiki.zksc.io/banking/shinkin-bank-registry-japan",
+      "https://finwiki.zksc.io/cooperative-banks/hamamatsu-iwata-shinkin",
+      "https://finwiki.zksc.io/cooperative-banks/kitakyushu-shinkin",
+      "https://finwiki.zksc.io/cooperative-banks/okazaki-shinkin",
+      "https://finwiki.zksc.io/cooperative-banks/sapporo-shinkin",
+      "https://finwiki.zksc.io/cooperative-banks/sendai-shinkin",
+      "https://finwiki.zksc.io/cooperative-banks/shinkin-central",
+      "https://finwiki.zksc.io/cooperative-banks/shinkin-network-services",
+      "https://finwiki.zksc.io/financial-regulators/yokin-hoken-kiko",
+      "https://finwiki.zksc.io/financial-regulators/zenshin-kyo",
+      "https://finwiki.zksc.io/mizuho-fg",
+      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/regional-banks/aichi-bank",
+      "https://finwiki.zksc.io/regional-banks/nagoya-bank",
+      "https://finwiki.zksc.io/smfg"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 4943,
+    "word_like_tokens": 671,
+    "inbound_wikilinks_count": 4,
+    "last_modified": "2026-06-04"
+  }
+}

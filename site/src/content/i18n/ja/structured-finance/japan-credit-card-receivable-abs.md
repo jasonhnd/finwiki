@@ -11,7 +11,7 @@ translated_at: 2026-06-03T00:53:08.262Z
 
 ## 要約
 
-日本のクレジットカード債権ABSは、年間発行額が控えめな規模（約JPY 400–700 bn）で、[[JapanFG/jcb|JCB]]、[[JapanFG/mufg-nicos|Mitsubishi UFJ Nicos]]、[[JapanFG/credit-saison|Credit Saison]]、[[JapanFG/orico|Orient Corp]]、[[JapanFG/aeon-financial-service|AEON Financial Service]]、[[JapanFG/jaccs|JACCS]]が発行している。構造としては、**マスタートラスト枠組み**を用い、単一の信託構造が、継続的に補充されるカード債権プール（ショッピング + リボルビング + キャッシング残高）を裏付けに、複数シリーズのシニア債を時間をかけて発行する。単独信託と異なり、マスタートラストではすべての未償還シリーズが同じリボルビングプールの動態を共有する。新しい各シリーズには、同じリボルビングプールに対する投資額比例の請求権が割り当てられる。この構造は、各シリーズについて**予定されたコントロールド・アモチゼーション期間**（通常6–12 カ月）を持つが、プール実績が強く、再投資が引き続き効率的である場合には、発行体が予定償還開始日を押し出せる**期間延長**条項を備える。これは、米国型マスタートラスト（Citi、Capital One、Discover）から借用され、JSDA開示慣行に合わせて調整された日本固有の特徴である。**早期償還トリガー**（消費者ローンABSに類似）は、累積貸倒償却または90日超延滞が閾値を超えた場合、またはオリジネーターの債務不履行事由が発生した場合に即時償還へ切り替えることで投資家を保護する。多くの国内案件は[[structured-finance/credit-rating-methodology-jcr-r-and-i|JCR / R&I]]が格付し、クロスボーダー案件ではS&P／Moody'sが選択的に関与することがあるが、まれである。
+日本のクレジットカード債権ABSは、年間発行額が控えめな規模（約JPY 400–700 bn）で、[[card-issuers/jcb|JCB]]、[[card-issuers/mufg-nicos|Mitsubishi UFJ Nicos]]、[[card-issuers/credit-saison|Credit Saison]]、[[card-issuers/orico|Orient Corp]]、[[card-issuers/aeon-financial-service|AEON Financial Service]]、[[card-issuers/jaccs|JACCS]]が発行している。構造としては、**マスタートラスト枠組み**を用い、単一の信託構造が、継続的に補充されるカード債権プール（ショッピング + リボルビング + キャッシング残高）を裏付けに、複数シリーズのシニア債を時間をかけて発行する。単独信託と異なり、マスタートラストではすべての未償還シリーズが同じリボルビングプールの動態を共有する。新しい各シリーズには、同じリボルビングプールに対する投資額比例の請求権が割り当てられる。この構造は、各シリーズについて**予定されたコントロールド・アモチゼーション期間**（通常6–12 カ月）を持つが、プール実績が強く、再投資が引き続き効率的である場合には、発行体が予定償還開始日を押し出せる**期間延長**条項を備える。これは、米国型マスタートラスト（Citi、Capital One、Discover）から借用され、JSDA開示慣行に合わせて調整された日本固有の特徴である。**早期償還トリガー**（消費者ローンABSに類似）は、累積貸倒償却または90日超延滞が閾値を超えた場合、またはオリジネーターの債務不履行事由が発生した場合に即時償還へ切り替えることで投資家を保護する。多くの国内案件は[[structured-finance/credit-rating-methodology-jcr-r-and-i|JCR / R&I]]が格付し、クロスボーダー案件ではS&P／Moody'sが選択的に関与することがあるが、まれである。
 
 ## ウィキ上の位置づけ
 
@@ -21,14 +21,14 @@ translated_at: 2026-06-03T00:53:08.262Z
 
 | 発行体 | 親会社 | カードブランド・ポートフォリオ | 年間ABS発行額（概算） |
 |---|---|---|---|
-| [[JapanFG/jcb|JCB]] | 独立系（メガバンクとの持合いあり） | JCBブランドのクレジットカード（国内ネットワーク + 国際） | JPY 100–200 bn |
-| [[JapanFG/mufg-nicos|Mitsubishi UFJ Nicos]] | MUFG group | MUFG Card、DC Card、NICOS、UFJ Cardブランド | JPY 80–150 bn |
-| [[JapanFG/credit-saison|Credit Saison]] | Mizuho group affiliate / 一部Seibu / 一部Mizuho | SAISON Cardブランド | JPY 100–200 bn |
-| [[JapanFG/orico|Orient Corp]] | Mizuho-Itochu group | Orico Cardブランド | JPY 50–100 bn |
-| [[JapanFG/aeon-financial-service|AEON Financial Service]] | AEON Group | AEON Card（小売親和型） | JPY 50–100 bn（公開ABSは限定的。銀行借入依存がより大きい） |
-| [[JapanFG/jaccs|JACCS]] | MUFG group | JACCS Card | JPY 30–80 bn |
+| [[card-issuers/jcb|JCB]] | 独立系（メガバンクとの持合いあり） | JCBブランドのクレジットカード（国内ネットワーク + 国際） | JPY 100–200 bn |
+| [[card-issuers/mufg-nicos|Mitsubishi UFJ Nicos]] | MUFG group | MUFG Card、DC Card、NICOS、UFJ Cardブランド | JPY 80–150 bn |
+| [[card-issuers/credit-saison|Credit Saison]] | Mizuho group affiliate / 一部Seibu / 一部Mizuho | SAISON Cardブランド | JPY 100–200 bn |
+| [[card-issuers/orico|Orient Corp]] | Mizuho-Itochu group | Orico Cardブランド | JPY 50–100 bn |
+| [[card-issuers/aeon-financial-service|AEON Financial Service]] | AEON Group | AEON Card（小売親和型） | JPY 50–100 bn（公開ABSは限定的。銀行借入依存がより大きい） |
+| [[card-issuers/jaccs|JACCS]] | MUFG group | JACCS Card | JPY 30–80 bn |
 
-カード発行会社ABSの発行額は上位3社に集中している。[[JapanFG/sumitomo-mitsui-card|Sumitomo Mitsui Card]]（SMFG group）は歴史的に発行していたが、現在はSMFGの銀行借入枠と親銀行アレンジを通じた資金調達が多い。銀行系カード発行会社（NICOS、Saison、SMBC Card）は一般に、より低コストの親銀行資金にアクセスできるため、ABSは多くの手段の一つであり、支配的な資金調達チャネルではない。これは、Citi、Capital One、Discover、JPM Chaseのマスタートラストが中核的な財務インフラである米国カード債権ABSとは異なる。
+カード発行会社ABSの発行額は上位3社に集中している。[[card-issuers/sumitomo-mitsui-card|Sumitomo Mitsui Card]]（SMFG group）は歴史的に発行していたが、現在はSMFGの銀行借入枠と親銀行アレンジを通じた資金調達が多い。銀行系カード発行会社（NICOS、Saison、SMBC Card）は一般に、より低コストの親銀行資金にアクセスできるため、ABSは多くの手段の一つであり、支配的な資金調達チャネルではない。これは、Citi、Capital One、Discover、JPM Chaseのマスタートラストが中核的な財務インフラである米国カード債権ABSとは異なる。
 
 ## 2. マスタートラスト枠組み: 何か
 
@@ -63,7 +63,7 @@ translated_at: 2026-06-03T00:53:08.262Z
 | **リボルビング（リボ払い）** | カード会員が毎月固定額を支払い、残高に利息が付く | JPY 50K–500K | 中程度のデフォルト（3.0–6.0%。より高リスクの借り手プール） |
 | **キャッシング** | 利用枠内での直接現金引出し | JPY 20K–200K | 高いデフォルト（5.0–9.0%） |
 
-プール構成は発行体によって異なる。[[JapanFG/jcb|JCB]]のプールはショッピング分割払い寄り（低デフォルト）であり、[[JapanFG/credit-saison|Credit Saison]]と[[JapanFG/orico|Orient Corp]]はリボルビング／キャッシング比率が高い（高デフォルトだが高利回り）。
+プール構成は発行体によって異なる。[[card-issuers/jcb|JCB]]のプールはショッピング分割払い寄り（低デフォルト）であり、[[card-issuers/credit-saison|Credit Saison]]と[[card-issuers/orico|Orient Corp]]はリボルビング／キャッシング比率が高い（高デフォルトだが高利回り）。
 
 リボルビングとキャッシング部分には、**利息制限法上の金利上限**（貸付額に応じて15–20%）が適用される。ショッピング分割は割賦販売法の下で異なる扱いを受ける。
 
@@ -109,7 +109,7 @@ translated_at: 2026-06-03T00:53:08.262Z
 | 3. 格付会社との事前協議 | JCR / R&Iがシリーズ固有の劣後、トリガー、プール実績をレビュー |
 | 4. シリーズ・トランチを組成 | シニアAAA + メザニンAA/A + エクイティ（シリーズ固有の劣後） |
 | 5. 配分投資額を算定 | 新シリーズがプール回収金に対する比例請求権を得る |
-| 6. メガバンク系証券部門を通じてシリーズを販売 | [[JapanFG/mufg-securities|MUFG MS]]、[[JapanFG/smbc-nikko|SMBC Nikko]]、[[JapanFG/mizuho-securities|Mizuho Securities]] |
+| 6. メガバンク系証券部門を通じてシリーズを販売 | [[securities-firms/mufg-securities|MUFG MS]]、[[securities-firms/smbc-nikko|SMBC Nikko]]、[[securities-firms/mizuho-securities|Mizuho Securities]] |
 | 7. シリーズ資金化、現金はオリジネーターへ | オリジネーターが資金を受け取り、エクイティ・トランチを保有 |
 | 8. シリーズがリボルビング段階へ入る | プール回収金の比例配分を受け始める |
 
@@ -179,8 +179,8 @@ translated_at: 2026-06-03T00:53:08.262Z
 - Kyash、Revolut Japan、Wiseのようなデジタル専業／フィンテック系カード発行体が、マスタートラストABSを発行するだけのプール規模を持つようになるか。
 - BNPL債権が、商品成熟に伴ってマスタートラスト・プールに統合されるか。
 - キャッシュレス決済政策の推進が、カード債権プール全体の成長に与える影響（QRコードがカード支出のシェアを奪う場合の低下との比較）。
-- [[JapanFG/aeon-financial-service|AEON Financial Service]]が小売親和型カード・ポートフォリオの成熟に伴ってABS発行を拡大するか。
-- [[JapanFG/jcb|JCB]]の国際展開が、クロスボーダー・カード債権発行を促す役割。
+- [[card-issuers/aeon-financial-service|AEON Financial Service]]が小売親和型カード・ポートフォリオの成熟に伴ってABS発行を拡大するか。
+- [[card-issuers/jcb|JCB]]の国際展開が、クロスボーダー・カード債権発行を促す役割。
 
 ## 関連項目
 
@@ -194,9 +194,9 @@ translated_at: 2026-06-03T00:53:08.262Z
 - [[structured-finance/fitch-moody-sp-japan-criteria|Fitch / Moody's / S&P Japan criteria]]
 - [[structured-finance/spv-tk-gk-vehicle-japan-tax|TK / GK / TMK SPV vehicle]]
 - [[structured-finance/japan-securitization-product-matrix|Japan securitization product matrix]]
-- [[JapanFG/jcb|JCB]] · [[JapanFG/mufg-nicos|MUFG Nicos]] · [[JapanFG/credit-saison|Credit Saison]]
-- [[JapanFG/orico|Orient Corp]] · [[JapanFG/aeon-financial-service|AEON Financial Service]] · [[JapanFG/jaccs|JACCS]]
-- [[JapanFG/bnpl-landscape|BNPL landscape]]
+- [[card-issuers/jcb|JCB]] · [[card-issuers/mufg-nicos|MUFG Nicos]] · [[card-issuers/credit-saison|Credit Saison]]
+- [[card-issuers/orico|Orient Corp]] · [[card-issuers/aeon-financial-service|AEON Financial Service]] · [[card-issuers/jaccs|JACCS]]
+- [[payment-firms/bnpl-landscape|BNPL landscape]]
 - [[payments/INDEX|payments domain]]
 
 ## 出典

@@ -87,8 +87,8 @@ Under the §501 framework, Japan's four stablecoin factions would be **re-ranked
 | Camp | §501 status after listing | Evaluation |
 |---|---|---|
 | **SBI Circle Holdings** | Cross-border compliance champion (USDC ↔ JPYC only registered channel) | ★★★★★ |
-| **[[JapanFG/jpyc|JPYC]](Noritaka Okabe)** | Japan's leading retail-compliance position | ★★★★ |
-| **[[JapanFG/progmat|Progmat]](Three major banks)** | Japan B2B Large, **No cross-border compliance channel** | ★★★ |
+| **[[payment-firms/jpyc|JPYC]](Noritaka Okabe)** | Japan's leading retail-compliance position | ★★★★ |
+| **[[payment-firms/progmat|Progmat]](Three major banks)** | Japan B2B Large, **No cross-border compliance channel** | ★★★ |
 | **Minna no Bank / Solana** | Pure domestic retail, Solana is §501 outside the route | ★★ |
 
 For a detailed four-faction comparison, see [[fintech/japan-epi-four-camps-comparison|Japan stablecoin four-camp comparison]].

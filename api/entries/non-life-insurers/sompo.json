@@ -1,0 +1,90 @@
+{
+  "schema_version": "1.0",
+  "slug": "non-life-insurers/sompo",
+  "source_path": "non-life-insurers/sompo.md",
+  "url": "https://finwiki.zksc.io/non-life-insurers/sompo",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/non-life-insurers/sompo.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/non-life-insurers/sompo.md",
+  "domain": "non-life-insurers",
+  "title": "SOMPO ホールディングス (Sompo Holdings)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "SOMPO ホールディングス (Sompo Holdings)",
+    "aliases": [
+      "SOMPO HD",
+      "Sompo Holdings",
+      "SOMPO ホールディングス",
+      "損保ジャパン HD",
+      "旧 NKSJ HD",
+      "non-life-insurers/taisei-kasai"
+    ],
+    "domain": "non-life-insurers",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "non-life-insurance"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: SOMPO ホールディングス (公開情報, 2026-05-19 抽出)",
+      "Wikipedia: 損害保険ジャパン / SOMPO ケア / Sompo International (公開情報)",
+      "金融庁 業務改善命令 (ビッグモーター関連, 2024) 公開発表",
+      "日本経済新聞「SOMPO、米データ大手パランティアに540億円出資」 (2020-06): https://www.nikkei.com/article/DGXMZO60525400Y0A610C2EE9000/",
+      "新日本保険新聞「SOMPOホールディングス、Palantirと『安心・安全・健康のリアルデータプラットフォーム』を立ち上げ」 (2020-06-22): https://www.shinnihon-ins.co.jp/industry-news/industry-news-20200622-9/"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against MS&AD インシュアランス グループ ホールディングス for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "SOMPO ホールディングス (Sompo Holdings)",
+    "Wiki route",
+    "TL;DR",
+    "1. 会社概要",
+    "主要子会社・持分",
+    "合併歴史・前身",
+    "重要年表（抜粋）^[extracted]",
+    "1.5 最新財務 (FY2024 = 2025-03 期, 連結) ^[extracted]",
+    "主要株主構成 ^[extracted]",
+    "2. 事業セグメント・マップ"
+  ],
+  "body_links": {
+    "wikilinks_count": 10,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "banking/INDEX",
+      "mizuho-fg",
+      "mufg",
+      "ndfg",
+      "nomura-hd",
+      "non-life-insurers/msad",
+      "non-life-insurers/sompo-japan-insurance",
+      "non-life-insurers/tokio-marine",
+      "smfg"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/mizuho-fg",
+      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/ndfg",
+      "https://finwiki.zksc.io/nomura-hd",
+      "https://finwiki.zksc.io/non-life-insurers/msad",
+      "https://finwiki.zksc.io/non-life-insurers/sompo-japan-insurance",
+      "https://finwiki.zksc.io/non-life-insurers/tokio-marine",
+      "https://finwiki.zksc.io/smfg"
+    ],
+    "external_links_count": 1,
+    "external_links": [
+      "https://www.sompo-hd.com/"
+    ]
+  },
+  "metrics": {
+    "nonspace_chars": 6367,
+    "word_like_tokens": 1071,
+    "inbound_wikilinks_count": 34,
+    "last_modified": "2026-06-04"
+  }
+}

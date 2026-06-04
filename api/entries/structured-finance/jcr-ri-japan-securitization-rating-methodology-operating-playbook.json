@@ -62,11 +62,9 @@
   "body_links": {
     "wikilinks_count": 17,
     "wikilinks": [
-      "JapanFG/mizuho-fg",
-      "JapanFG/mufg",
-      "JapanFG/nochu-trust-bank",
-      "JapanFG/smfg",
-      "JapanFG/sumitomo-mitsui-trust",
+      "megabanks/mizuho-fg",
+      "megabanks/mufg",
+      "megabanks/smfg",
       "structured-finance/INDEX",
       "structured-finance/credit-rating-methodology-jcr-r-and-i",
       "structured-finance/fitch-moody-sp-japan-criteria",
@@ -78,14 +76,14 @@
       "structured-finance/japan-equipment-lease-abs",
       "structured-finance/japan-rmbs-issuance-structure",
       "structured-finance/japan-securitization-product-matrix",
-      "structured-finance/spv-tk-gk-vehicle-japan-tax"
+      "structured-finance/spv-tk-gk-vehicle-japan-tax",
+      "trust-banks/nochu-trust-bank",
+      "trust-banks/sumitomo-mitsui-trust"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/mizuho-fg",
-      "https://finwiki.zksc.io/JapanFG/mufg",
-      "https://finwiki.zksc.io/JapanFG/nochu-trust-bank",
-      "https://finwiki.zksc.io/JapanFG/smfg",
-      "https://finwiki.zksc.io/JapanFG/sumitomo-mitsui-trust",
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/smfg",
       "https://finwiki.zksc.io/structured-finance/INDEX",
       "https://finwiki.zksc.io/structured-finance/credit-rating-methodology-jcr-r-and-i",
       "https://finwiki.zksc.io/structured-finance/fitch-moody-sp-japan-criteria",
@@ -97,15 +95,17 @@
       "https://finwiki.zksc.io/structured-finance/japan-equipment-lease-abs",
       "https://finwiki.zksc.io/structured-finance/japan-rmbs-issuance-structure",
       "https://finwiki.zksc.io/structured-finance/japan-securitization-product-matrix",
-      "https://finwiki.zksc.io/structured-finance/spv-tk-gk-vehicle-japan-tax"
+      "https://finwiki.zksc.io/structured-finance/spv-tk-gk-vehicle-japan-tax",
+      "https://finwiki.zksc.io/trust-banks/nochu-trust-bank",
+      "https://finwiki.zksc.io/trust-banks/sumitomo-mitsui-trust"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 16314,
-    "word_like_tokens": 2587,
+    "nonspace_chars": 16332,
+    "word_like_tokens": 2590,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-06-04"
   }
 }

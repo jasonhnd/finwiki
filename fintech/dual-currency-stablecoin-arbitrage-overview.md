@@ -35,7 +35,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 ## Mechanism / How it works
 
-**アービトラージ経路**:USDC (Circle USD 1:1) ↔ EURC (Circle EUR 1:1) ↔ [[JapanFG/jpyc|JPYC]] (JPYC Inc. JPY 1:1) ↔ USDC ポジション解消。
+**アービトラージ経路**:USDC (Circle USD 1:1) ↔ EURC (Circle EUR 1:1) ↔ [[payment-firms/jpyc|JPYC]] (JPYC Inc. JPY 1:1) ↔ USDC ポジション解消。
 
 | ステップ | 操作 | コスト |
 |---|---|---|

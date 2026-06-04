@@ -26,7 +26,7 @@ This page sits under [[policy-finance/INDEX|policy-finance index]] and pairs wit
 | Established | 1937 (continuous since reorganization under the 1953 Act) |
 | Funding partners | Osaka Prefectural Government, Osaka City, financial institutions in the service area, and member contributions |
 | Federation membership | Member of [[policy-finance/national-federation-credit-guarantee-corporations|Japan Federation of Credit Guarantee Corporations]] |
-| Public-credit reinsurance | Reinsured by [[JapanFG/jfc|JFC]] credit-insurance operations |
+| Public-credit reinsurance | Reinsured by [[financial-regulators/jfc|JFC]] credit-insurance operations |
 | Boundary note | Osaka City had its own separate credit guarantee corporation until consolidation; the current corporation now covers both prefecture and city borrowers. |
 
 ## 2. Function map
@@ -45,7 +45,7 @@ Osaka CGC matters for three reasons different from Tokyo CGC:
 
 1. **Manufacturing-SME concentration**: Osaka, especially the Higashi-Osaka / Kadoma / Yao corridor, concentrates the densest cluster of manufacturing SMEs in Japan, many of which supply automotive, electronics, and precision machinery primes. Their working-capital and equipment-loan demands route through Osaka CGC guarantees.
 2. **Demographic / succession pressure**: Kansai SMEs face an older average founder age than national average. Succession-related guarantees (business succession M&A, employee buyouts) are a more prominent share of the book than in many other corporations.
-3. **Kansai banking network**: Counterparties include Resona Group ([[JapanFG/resona-hd|Resona HD]] historical Osaka roots), [[JapanFG/smfg|SMFG / SMBC]] (Sumitomo lineage in Osaka), [[JapanFG/mufg|MUFG]] (UFJ-bank legacy), regional banks such as Kansai Mirai Bank, and a large shinkin-bank and credit-cooperative tail.
+3. **Kansai banking network**: Counterparties include Resona Group ([[megabanks/resona-hd|Resona HD]] historical Osaka roots), [[megabanks/smfg|SMFG / SMBC]] (Sumitomo lineage in Osaka), [[megabanks/mufg|MUFG]] (UFJ-bank legacy), regional banks such as Kansai Mirai Bank, and a large shinkin-bank and credit-cooperative tail.
 
 Within the [[policy-finance/japan-policy-finance-system|Japan policy finance system]], Osaka CGC plays the same system role as [[policy-finance/tokyo-credit-guarantee-corp|Tokyo CGC]] but with a different industry mix and different demographic-pressure profile.
 
@@ -54,7 +54,7 @@ Within the [[policy-finance/japan-policy-finance-system|Japan policy finance sys
 - **Not Osaka Prefectural Government**: The corporation is a separate public corporation; policy programs are administered through the corporation but not part of the prefectural government's direct balance sheet.
 - **Not a bank**: Like all credit guarantee corporations, Osaka CGC does not extend loans directly.
 - **Not Kansai-wide**: Service area is Osaka Prefecture; neighbouring prefectures (Hyogo, Kyoto, Wakayama, Nara, Shiga) each have their own credit guarantee corporations within the federation.
-- **Not JFC**: [[JapanFG/jfc|JFC]] reinsures Osaka CGC guarantees through credit insurance but is not the borrower-facing layer.
+- **Not JFC**: [[financial-regulators/jfc|JFC]] reinsures Osaka CGC guarantees through credit insurance but is not the borrower-facing layer.
 
 ## 5. Comparison with Tokyo CGC
 
@@ -79,10 +79,10 @@ Within the [[policy-finance/japan-policy-finance-system|Japan policy finance sys
 - [[policy-finance/national-federation-credit-guarantee-corporations]]
 - [[policy-finance/japan-policy-finance-system]]
 - [[policy-finance/tokyo-credit-guarantee-corp]]
-- [[JapanFG/jfc]]
-- [[JapanFG/smfg]]
-- [[JapanFG/mufg]]
-- [[JapanFG/resona-hd]]
+- [[financial-regulators/jfc]]
+- [[megabanks/smfg]]
+- [[megabanks/mufg]]
+- [[megabanks/resona-hd]]
 - [[banking/shinkin-bank-registry-japan]]
 - [[INDEX|FinWiki index]]
 

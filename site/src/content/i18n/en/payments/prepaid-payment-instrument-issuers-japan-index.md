@@ -58,19 +58,19 @@ These rows are not a completeness claim for all major prepaid issuers. They are 
 
 | Official name in FSA list | Registration date | Corporate number | Wiki route | Boundary note |
 |---|---|---:|---|---|
-| 三菱ＵＦＪニコス株式会社 | 1991-11-22 | 8010001000016 | [[JapanFG/mufg-nicos]] | Card / prepaid / settlement group operator |
-| 株式会社セブン・カードサービス | 2007-02-22 | 4010001088278 | [[JapanFG/seven-card-service]] | Seven & i card / prepaid adjacency |
-| ａｕペイメント株式会社 | 2010-09-30 | 5010401069983 | [[JapanFG/au-payment]] | au PAY prepaid / funds-transfer boundary |
-| ＳＢペイメントサービス株式会社 | 2010-12-10 | 4010401058731 | [[JapanFG/sb-payment-service]] | Merchant PSP / prepaid adjacency |
-| ライフカード株式会社 | 2011-04-01 | 3020001086810 | [[JapanFG/life-card]] | Card and prepaid / guarantee adjacency |
-| 株式会社エポスカード | 2015-01-08 | 6011201010186 | [[JapanFG/epos-card]] | Marui group card / prepaid adjacency |
-| 楽天Ｅｄｙ株式会社 | 2016-07-21 | 3010901038102 | [[JapanFG/rakuten-edy]] | Prepaid electronic money operator |
-| 株式会社Ｋｙａｓｈ | 2017-01-16 | 9011001103831 | [[JapanFG/kyash]] | Wallet / prepaid-card / funds-transfer fintech |
-| ＰａｙＰａｙ株式会社 | 2018-10-05 | 5010001192707 | [[JapanFG/paypay]] | Code-payment wallet; prepaid / funds-transfer / points decomposition required |
-| 株式会社メルペイ | 2019-01-24 | 1010401135178 | [[JapanFG/merpay]] | Marketplace wallet / code-payment operator |
-| イオンフィナンシャルサービス株式会社 | 2023-04-24 | 2010001010887 | [[JapanFG/aeon-financial-service]] | Retail finance group / prepaid adjacency |
-| 株式会社スマートバンク | 2024-03-26 | 8011001127534 | [[JapanFG/smartbank]] | Household wallet / prepaid card adjacency |
-| 三井住友カード株式会社 | 1990-12-03 | 3120001082353 | [[JapanFG/smbc-card]] | Card issuer / prepaid adjacency |
+| 三菱ＵＦＪニコス株式会社 | 1991-11-22 | 8010001000016 | [[card-issuers/mufg-nicos]] | Card / prepaid / settlement group operator |
+| 株式会社セブン・カードサービス | 2007-02-22 | 4010001088278 | [[card-issuers/seven-card-service]] | Seven & i card / prepaid adjacency |
+| ａｕペイメント株式会社 | 2010-09-30 | 5010401069983 | [[payment-firms/au-payment]] | au PAY prepaid / funds-transfer boundary |
+| ＳＢペイメントサービス株式会社 | 2010-12-10 | 4010401058731 | [[payment-firms/sb-payment-service]] | Merchant PSP / prepaid adjacency |
+| ライフカード株式会社 | 2011-04-01 | 3020001086810 | [[card-issuers/life-card]] | Card and prepaid / guarantee adjacency |
+| 株式会社エポスカード | 2015-01-08 | 6011201010186 | [[card-issuers/epos-card]] | Marui group card / prepaid adjacency |
+| 楽天Ｅｄｙ株式会社 | 2016-07-21 | 3010901038102 | [[payment-firms/rakuten-edy]] | Prepaid electronic money operator |
+| 株式会社Ｋｙａｓｈ | 2017-01-16 | 9011001103831 | [[payment-firms/kyash]] | Wallet / prepaid-card / funds-transfer fintech |
+| ＰａｙＰａｙ株式会社 | 2018-10-05 | 5010001192707 | [[payment-firms/paypay]] | Code-payment wallet; prepaid / funds-transfer / points decomposition required |
+| 株式会社メルペイ | 2019-01-24 | 1010401135178 | [[payment-firms/merpay]] | Marketplace wallet / code-payment operator |
+| イオンフィナンシャルサービス株式会社 | 2023-04-24 | 2010001010887 | [[card-issuers/aeon-financial-service]] | Retail finance group / prepaid adjacency |
+| 株式会社スマートバンク | 2024-03-26 | 8011001127534 | [[payment-firms/smartbank]] | Household wallet / prepaid card adjacency |
+| 三井住友カード株式会社 | 1990-12-03 | 3120001082353 | [[card-issuers/smbc-card]] | Card issuer / prepaid adjacency |
 
 ## Promotion Rules
 
@@ -87,8 +87,8 @@ Promote an issuer from registry-only to standalone page only if it is:
 - [[payments/funds-transfer-vs-prepaid-boundary]]
 - [[payments/cashless-jp-landscape]]
 - [[payments/card-acquiring-japan-stack]]
-- [[JapanFG/legal-financial-licenses/INDEX]]
-- [[JapanFG/missing-financial-institutions-backlog]]
+- [[financial-licenses/INDEX]]
+- [[financial-regulators/missing-financial-institutions-backlog]]
 - [[JapanFG/INDEX]]
 - [[INDEX|FinWiki index]]
 

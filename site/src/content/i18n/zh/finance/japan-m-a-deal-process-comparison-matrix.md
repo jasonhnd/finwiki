@@ -84,12 +84,12 @@ This entry sits under [[finance/INDEX|finance index]]. Read it against [[finance
 | 买方类型 | 外国企业战略方、外国 PE 保荐方（如贝恩、KKR、CVC、凯雷），或外国主权财富基金/养老金。 |
 | 控制机制 | 上市目标采用现金要约收购；非上市目标采用股份/资产收购；因偏好现金，三角合并少见。 |
 | 监管审批 | 要约收购监管+FEFTA 事前申报（通常为关键门槛）+JFTC+行业审批+外国方审批。 |
-| 融资结构 | 通常为现金要约；SPC/新设公司层面借债；杠杆通常联合[[JapanFG/mufg-bank]]、[[JapanFG/mizuho-bank]]、[[JapanFG/sumitomo-mitsui-banking-corp|SMBC]]及外资银行。 |
+| 融资结构 | 通常为现金要约；SPC/新设公司层面借债；杠杆通常联合[[megabanks/mufg-bank]]、[[megabanks/mizuho-bank]]、[[megabanks/sumitomo-mitsui-banking-corp|SMBC]]及外资银行。 |
 | 典型时间轴 | FEFTA/反垄断审批顺利时，从公告到结算4-9 个月；有行业审批时更长。 |
 | 公平意见 | 上市目标董事会通常为市场惯例；存在利益冲突委员会时通常需双份公平意见。 |
 | 少数股东评估权 | 如结合后续股份整合/现金强制挤出，反对股东可根据公司法申请。 |
 | 法定门槛 | 5% 大量持股报告通知；1/3 强制要约收购；2/3 章程修订/强制挤出特别决议；90%特别支配股东现金挤出。 |
-| 顾问图谱 | 外资投行通常并行担任卖方/买方顾问，同时配合日本本土机构（[[JapanFG/nomura-hd|Nomura]]、[[JapanFG/daiwa-sg|Daiwa]]、[[JapanFG/smbc-nikko|SMBC Nikko]]、[[JapanFG/mizuho-securities|Mizuho Securities]]）；详见 [[finance/japan-ib-league-table]]。 |
+| 顾问图谱 | 外资投行通常并行担任卖方/买方顾问，同时配合日本本土机构（[[securities-firms/nomura-hd|Nomura]]、[[securities-firms/daiwa-sg|Daiwa]]、[[securities-firms/smbc-nikko|SMBC Nikko]]、[[securities-firms/mizuho-securities|Mizuho Securities]]）；详见 [[finance/japan-ib-league-table]]。 |
 
 本节请结合 [[finance/cross-border-m-a-japan]]（跨境法律层次）和 [[finance/japan-activist-investor-playbook]]（境外收购为敌意或未经请求的保荐方时的接触角度）阅读。
 
@@ -105,7 +105,7 @@ This entry sits under [[finance/INDEX|finance index]]. Read it against [[finance
 | 公平意见 | 日本收购方通常进行买方公平意见，用于董事会/治理辩护。 |
 | 少数股东评估权 | 外国法律概念（如特拉华州评估、英国方案异议）替代公司法机制。 |
 | 法定门槛 | 目标方适用外国法律门槛；仅当收购方发行新股融资时，日本披露范围才在 [[finance/japan-large-shareholding-disclosure]] 下触发。 |
-| 顾问图谱 | 外资投行通常主导目标方流程；日本本土机构作为买方顾问配对；详见 [[finance/japan-ib-league-table]]、[[JapanFG/goldman-sachs-japan]]、[[JapanFG/morgan-stanley-japan]]。 |
+| 顾问图谱 | 外资投行通常主导目标方流程；日本本土机构作为买方顾问配对；详见 [[finance/japan-ib-league-table]]、[[securities-firms/goldman-sachs-japan]]、[[securities-firms/morgan-stanley-japan]]。 |
 
 境外扩张交易受**目标方司法管辖区**规范，不适用日本法定并购；下方矩阵仅展示日本范围内的接触点。
 
@@ -121,7 +121,7 @@ This entry sits under [[finance/INDEX|finance index]]. Read it against [[finance
 | 公平意见 | 上市目标董事会的市场惯例标准，尤其是设立特别委员会时。 |
 | 少数股东评估权 | 公司法 §§785, 797, 806 赋予异议股东要求公平价格购买的权利。 |
 | 法定门槛 | 2/3 股份交换/合并特别决议；1/3 强制要约收购；90%强制挤出。 |
-| 顾问图谱 | 大型银行关联证券公司主导（[[JapanFG/smbc-nikko]]、[[JapanFG/mizuho-securities]]、[[JapanFG/mufg-mums|MUFG / MUMS]]）；详见 [[finance/japan-ib-league-table]]。 |
+| 顾问图谱 | 大型银行关联证券公司主导（[[securities-firms/smbc-nikko]]、[[securities-firms/mizuho-securities]]、[[securities-firms/mufg-mums|MUFG / MUMS]]）；详见 [[finance/japan-ib-league-table]]。 |
 
 ### 国内 PE 杠杆收购
 
@@ -130,7 +130,7 @@ This entry sits under [[finance/INDEX|finance index]]. Read it against [[finance
 | 买方类型 | 日本注册 PE 保荐方（如 Advantage、J-STAR、JIC Capital、Polaris）或全球保荐方日本团队（KKR Japan、Bain Japan、Carlyle Japan）。 |
 | 控制机制 | 上市目标采用 SPC/新设公司要约收购；非上市目标采用私下股份购买协议；有时在保荐方 SPC 与目标控股公司之间进行股份交换。 |
 | 监管审批 | 上市目标则适用要约收购监管+JFTC+行业审批；若保荐方为管理境外有限合伙基金的日本注册普通合伙人，FEFTA 通常不触发（视解释而定）。 |
-| 融资结构 | 优先杠杆收购贷款（通常联合[[JapanFG/mufg-bank]]、[[JapanFG/mizuho-bank]]、[[JapanFG/sumitomo-mitsui-banking-corp|SMBC]]、[[JapanFG/smtb|SMTB]]）；夹层/次级债偶有出现；日本债券置换桥接融资不如美国常见。 |
+| 融资结构 | 优先杠杆收购贷款（通常联合[[megabanks/mufg-bank]]、[[megabanks/mizuho-bank]]、[[megabanks/sumitomo-mitsui-banking-corp|SMBC]]、[[trust-banks/smtb|SMTB]]）；夹层/次级债偶有出现；日本债券置换桥接融资不如美国常见。 |
 | 典型时间轴 | 保荐方承诺至交割4-8 个月；竞价中常附带融资安排。 |
 | 公平意见 | 上市目标董事会的实践惯例要求；来自独立投行的公平意见通常双轨并行。 |
 | 少数股东评估权 | 强制挤出后可依公司法 §172 申请公平价格确定。 |
@@ -270,13 +270,13 @@ This entry sits under [[finance/INDEX|finance index]]. Read it against [[finance
 
 | 交易类型 | 可能的主要顾问类型 |
 |---|---|
-| 境外收购 | 外资投行主导+日本本土机构配对：[[JapanFG/goldman-sachs-japan]]/[[JapanFG/morgan-stanley-japan]]+[[JapanFG/nomura-hd]]/[[JapanFG/daiwa-sg]] |
-| 境外扩张 | 外资投行目标方+日本本土机构买方：[[JapanFG/nomura-hd]]/[[JapanFG/daiwa-sg]]+外资投行 |
-| 国内战略收购 | 大型银行关联证券公司：[[JapanFG/smbc-nikko]]/[[JapanFG/mizuho-securities]]/[[JapanFG/mufg-mums|MUFG / MUMS]] |
+| 境外收购 | 外资投行主导+日本本土机构配对：[[securities-firms/goldman-sachs-japan]]/[[securities-firms/morgan-stanley-japan]]+[[securities-firms/nomura-hd]]/[[securities-firms/daiwa-sg]] |
+| 境外扩张 | 外资投行目标方+日本本土机构买方：[[securities-firms/nomura-hd]]/[[securities-firms/daiwa-sg]]+外资投行 |
+| 国内战略收购 | 大型银行关联证券公司：[[securities-firms/smbc-nikko]]/[[securities-firms/mizuho-securities]]/[[securities-firms/mufg-mums|MUFG / MUMS]] |
 | 国内 PE 杠杆收购 | 大型银行+保荐方内部顾问 |
 | MBO/强制挤出 | 大型银行+独立投行+精品公平意见提供商 |
 | 合资企业成立 | 双方母公司各自的主要投行 |
-| 要约收购强制交易 | 双方均有顾问；代理经纪商[[JapanFG/nomura-hd|Nomura]]/[[JapanFG/daiwa-sg|Daiwa]]常见 |
+| 要约收购强制交易 | 双方均有顾问；代理经纪商[[securities-firms/nomura-hd|Nomura]]/[[securities-firms/daiwa-sg|Daiwa]]常见 |
 
 请结合 [[finance/japan-ib-league-table]] 了解顾问体系深度。
 
@@ -359,18 +359,18 @@ This entry sits under [[finance/INDEX|finance index]]. Read it against [[finance
 - [[corporate-strategy/INDEX|corporate-strategy INDEX]]
 - [[corporate-strategy/partial-spinoff-tax-deferral]]
 - [[corporate-strategy/japan-kaisha-bunkatsu-tax-regime]]
-- [[JapanFG/nomura-hd]]
-- [[JapanFG/daiwa-sg]]
-- [[JapanFG/smbc-nikko]]
-- [[JapanFG/mizuho-securities]]
-- [[JapanFG/goldman-sachs-japan]]
-- [[JapanFG/morgan-stanley-japan]]
-- [[JapanFG/mufg-mums]]
-- [[JapanFG/mufg-bank]]
-- [[JapanFG/mizuho-bank]]
-- [[JapanFG/sumitomo-mitsui-banking-corp]]
-- [[JapanFG/smtb]]
-- [[JapanFG/dbj]]
+- [[securities-firms/nomura-hd]]
+- [[securities-firms/daiwa-sg]]
+- [[securities-firms/smbc-nikko]]
+- [[securities-firms/mizuho-securities]]
+- [[securities-firms/goldman-sachs-japan]]
+- [[securities-firms/morgan-stanley-japan]]
+- [[securities-firms/mufg-mums]]
+- [[megabanks/mufg-bank]]
+- [[megabanks/mizuho-bank]]
+- [[megabanks/sumitomo-mitsui-banking-corp]]
+- [[trust-banks/smtb]]
+- [[financial-regulators/dbj]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

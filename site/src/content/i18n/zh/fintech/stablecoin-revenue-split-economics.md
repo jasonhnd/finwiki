@@ -31,7 +31,7 @@ translated_at: 2026-05-31T11:13:44.898Z
 
 - [[fintech/paypal-pyusd-stablecoin|PYUSD（PayPal）]]和 Paxos 之间的分配安排
 - [[fintech/world-liberty-usd1-political-stablecoin|USD1（World Liberty Financial）]]和 Bridge 之间的分配安排
-- [[JapanFG/jpyc|JPYC]]（[[fintech/stablecoin-channel-japan-sbi-jpyc-ring|SBI × JPYC × Circle 環状持株]]) 电位分布 分布结构
+- [[payment-firms/jpyc|JPYC]]（[[fintech/stablecoin-channel-japan-sbi-jpyc-ring|SBI × JPYC × Circle 環状持株]]) 电位分布 分布结构
 - USDT（Tether）与 Bitfinex 之间的历史关系（条件未披露）
 
 **典型触发时间**：通常交付协议3-5 签订年度+自动续约条款。在 USDC 案例中2026-08 续签协议是 Circle 和 Coinbase 之间的一个关键博弈点。

@@ -12,7 +12,7 @@ translated_at: 2026-06-01T03:31:12.305Z
 
 ## Wiki route
 
-This entry sits under [[policy-finance/INDEX|policy-finance index]] as Japan's housing-finance policy institution. Read it against [[policy-finance/japan-policy-finance-system|Japan policy finance system]] for the broader public-credit boundary and pair it with [[structured-finance/jhf-mbs-mechanics|JHF MBS mechanics]] for the securitization plumbing. JHF is structurally distinct from [[JapanFG/jfc|JFC]] (SME / agriculture-forestry-fisheries / small business) and [[JapanFG/jbic|JBIC]] (international finance) — it is the housing-finance lane of the policy-finance map.
+This entry sits under [[policy-finance/INDEX|policy-finance index]] as Japan's housing-finance policy institution. Read it against [[policy-finance/japan-policy-finance-system|Japan policy finance system]] for the broader public-credit boundary and pair it with [[structured-finance/jhf-mbs-mechanics|JHF MBS mechanics]] for the securitization plumbing. JHF is structurally distinct from [[financial-regulators/jfc|JFC]] (SME / agriculture-forestry-fisheries / small business) and [[financial-regulators/jbic|JBIC]] (international finance) — it is the housing-finance lane of the policy-finance map.
 
 ## TL;DR
 
@@ -103,7 +103,7 @@ When BOJ holds long-term rates artificially low (YCC era 2016–2024), JHF's fun
 
 JHF does not retail Flat 35 directly. Origination is done by approved private financial institutions (取扱金融機関), which include:
 
-- **Megabanks** — [[JapanFG/mufg|MUFG]] (Mitsubishi UFJ Bank), [[JapanFG/smfg|SMFG]] (Sumitomo Mitsui Banking), [[JapanFG/mizuho-fg|Mizuho Bank]] — though megabank Flat 35 share is smaller than retail-focused players.
+- **Megabanks** — [[megabanks/mufg|MUFG]] (Mitsubishi UFJ Bank), [[megabanks/smfg|SMFG]] (Sumitomo Mitsui Banking), [[megabanks/mizuho-fg|Mizuho Bank]] — though megabank Flat 35 share is smaller than retail-focused players.
 - **Regional banks** — many [[banking/regional-bank-consolidation-pattern|regional banks]] across Japan offer Flat 35 as part of their mortgage product mix, particularly where the borrower wants long-term fixed-rate certainty.
 - **Mortgage banks / specialist lenders** — ARUHI Corporation is the historically dominant Flat 35 specialist; SBI Aruhi (formerly SBI Mortgage), Rakuten Bank, and Sony Bank are major non-traditional originators.
 - **Shinkin / credit cooperatives** — participate at smaller scale through regional desks.
@@ -129,11 +129,11 @@ The servicing partnership model means JHF effectively standardizes a long-term f
 - [[policy-finance/okinawa-development-finance-corp]]
 - [[structured-finance/jhf-mbs-mechanics]]
 - [[structured-finance/jhf-mbs-vs-private-rmbs-spread]]
-- [[JapanFG/jfc]]
-- [[JapanFG/jbic]]
-- [[JapanFG/mufg]]
-- [[JapanFG/smfg]]
-- [[JapanFG/mizuho-fg]]
+- [[financial-regulators/jfc]]
+- [[financial-regulators/jbic]]
+- [[megabanks/mufg]]
+- [[megabanks/smfg]]
+- [[megabanks/mizuho-fg]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 - [[INDEX|FinWiki index]]

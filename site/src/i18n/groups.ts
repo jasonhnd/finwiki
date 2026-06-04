@@ -17,7 +17,7 @@ export const domainGroups: DomainGroup[] = [
     ja: '金融機関・グループ',
     en: 'Institutions & groups',
     zh: '金融机构与集团',
-    domains: ['japanfg'],
+    domains: ['japanfg', 'megabanks', 'regional-banks', 'cooperative-banks', 'trust-banks', 'foreign-financial-institutions', 'financial-conglomerates', 'trading-company-finance'],
   },
   {
     id: 'banking',
@@ -31,21 +31,21 @@ export const domainGroups: DomainGroup[] = [
     ja: '市場・証券・商品',
     en: 'Markets, securities & products',
     zh: '市场、证券与产品',
-    domains: ['securities', 'derivatives', 'structured-finance', 'real-estate-finance'],
+    domains: ['securities', 'securities-firms', 'asset-managers', 'derivatives', 'structured-finance', 'real-estate-finance'],
   },
   {
     id: 'insurance',
     ja: '保険',
     en: 'Insurance',
     zh: '保险',
-    domains: ['insurance'],
+    domains: ['insurance', 'life-insurers', 'non-life-insurers'],
   },
   {
     id: 'payments',
     ja: '決済・フィンテック',
     en: 'Payments & fintech',
     zh: '支付与金融科技',
-    domains: ['payments', 'fintech', 'loyalty'],
+    domains: ['payments', 'payment-firms', 'card-issuers', 'leasing-firms', 'consumer-finance', 'fintech', 'loyalty'],
   },
   {
     id: 'crypto',
@@ -73,7 +73,7 @@ export const domainGroups: DomainGroup[] = [
     ja: '制度・ガバナンス',
     en: 'Governance & security',
     zh: '治理与安全',
-    domains: ['non-profit', 'security'],
+    domains: ['financial-regulators', 'financial-licenses', 'non-profit', 'security'],
   },
 ];
 

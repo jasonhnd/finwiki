@@ -36,7 +36,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 | Bank type | Bank | Banking Act + EPI | Medium (linked to deposits) | Linked to bank balance sheet | Minna no Ginko SC (Solana route) |
 | Funds transfer operator type | Funds transfer operator | Payment Services Act | Low (some small-value cross-border use capped at ¥100 万) | ¥100 万 / transaction (some cases) | JPYC (Noritaka Okabe) |
 
-**Trust type** ([[JapanFG/progmat|Progmat]] XJPY): a joint venture among Mitsubishi UFJ, Sumitomo Mitsui, Mizuho, and Datachain, designed to be non-MUFG-controlled (single largest shareholder 49% + diversified governance through 51%), aimed at large-ticket B2B funds. **Bank type** (Minna no Ginko): Fukuoka FG / Minna no Ginko + Solana route, targeting bank retail customers. **Funds transfer operator type** ([[JapanFG/jpyc|JPYC]]): led by Noritaka Okabe, the only holder of a funds-transfer-operator-type SC in Japan, with 2.6 x growth in 3  months.
+**Trust type** ([[payment-firms/progmat|Progmat]] XJPY): a joint venture among Mitsubishi UFJ, Sumitomo Mitsui, Mizuho, and Datachain, designed to be non-MUFG-controlled (single largest shareholder 49% + diversified governance through 51%), aimed at large-ticket B2B funds. **Bank type** (Minna no Ginko): Fukuoka FG / Minna no Ginko + Solana route, targeting bank retail customers. **Funds transfer operator type** ([[payment-firms/jpyc|JPYC]]): led by Noritaka Okabe, the only holder of a funds-transfer-operator-type SC in Japan, with 2.6 x growth in 3  months.
 
 ## Origin & evolution
 

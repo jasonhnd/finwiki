@@ -33,18 +33,18 @@ sources:
 
 Japan's cooperative banking layer consists mainly of shinkin banks, credit cooperatives, labor banks, the JA Bank agricultural cooperative banking system, the JF Marine Bank fisheries cooperative banking system, and related central institutions. FSA's supervision guideline treats cooperative financial institutions as member / mutual-aid institutions with regional finance roles and central-institution support functions. The long-tail institution lists are now routed through registry indexes or system pages rather than standalone pages.
 
-Use this page for the cooperative-finance layer behind [[JapanFG/zenshin-kumi]], [[JapanFG/rokin-renraku]], and regional bank comparisons.
+Use this page for the cooperative-finance layer behind [[cooperative-banks/zenshin-kumi]], [[cooperative-banks/rokin-renraku]], and regional bank comparisons.
 
 ## Structure Map
 
 | Layer | Role | FinWiki route |
 |---|---|---|
-| Shinkin banks | Cooperative regional financial institutions serving members and local SMEs. | [[banking/shinkin-bank-registry-japan]] + [[JapanFG/shinkin-central]] |
-| Credit cooperatives | Member-based cooperative credit institutions, often smaller and more local / occupational. | [[banking/credit-cooperative-registry-japan]] + [[JapanFG/zenshin-kumi]] |
-| Labor banks | Worker / labor-union-linked cooperative finance. | [[banking/rokin-bank-registry-japan]] + [[JapanFG/rokin-renraku]] |
-| JA Bank / agricultural cooperative finance | Local JA credit businesses, prefectural JA Shinnoren, and Norinchukin Bank form the agricultural cooperative banking system. | [[banking/ja-bank-system-japan]] + [[JapanFG/norinchukin]] |
-| JF Marine Bank / fisheries cooperative finance | Credit-business JF, JF Shingyoren, and Norinchukin Bank form the fisheries cooperative banking system. | [[banking/jf-marine-bank-system-japan]] + [[JapanFG/norinchukin]] |
-| Central institutions | Liquidity, monitoring, support, and system functions for member institutions. | [[JapanFG/shinkin-central]], [[JapanFG/zenshin-kumi]], [[JapanFG/rokin-renraku]], [[JapanFG/norinchukin]] |
+| Shinkin banks | Cooperative regional financial institutions serving members and local SMEs. | [[banking/shinkin-bank-registry-japan]] + [[cooperative-banks/shinkin-central]] |
+| Credit cooperatives | Member-based cooperative credit institutions, often smaller and more local / occupational. | [[banking/credit-cooperative-registry-japan]] + [[cooperative-banks/zenshin-kumi]] |
+| Labor banks | Worker / labor-union-linked cooperative finance. | [[banking/rokin-bank-registry-japan]] + [[cooperative-banks/rokin-renraku]] |
+| JA Bank / agricultural cooperative finance | Local JA credit businesses, prefectural JA Shinnoren, and Norinchukin Bank form the agricultural cooperative banking system. | [[banking/ja-bank-system-japan]] + [[cooperative-banks/norinchukin]] |
+| JF Marine Bank / fisheries cooperative finance | Credit-business JF, JF Shingyoren, and Norinchukin Bank form the fisheries cooperative banking system. | [[banking/jf-marine-bank-system-japan]] + [[cooperative-banks/norinchukin]] |
+| Central institutions | Liquidity, monitoring, support, and system functions for member institutions. | [[cooperative-banks/shinkin-central]], [[cooperative-banks/zenshin-kumi]], [[cooperative-banks/rokin-renraku]], [[cooperative-banks/norinchukin]] |
 | Regional banks | Stock-company banks rather than cooperative institutions; useful comparison. | [[banking/regional-bank-consolidation-pattern]] |
 
 ## Why It Matters
@@ -59,13 +59,13 @@ Cooperative institutions are not just small banks. Their governance and business
 
 ## JapanFG Relevance
 
-- [[JapanFG/zenshin-kumi]] is the credit-cooperative central route.
-- [[JapanFG/rokin-renraku]] is the labor-bank route.
-- [[banking/ja-bank-system-japan]] is the JA Bank / agricultural cooperative banking system route behind [[JapanFG/norinchukin]].
-- [[banking/jf-marine-bank-system-japan]] is the JF Marine Bank / fisheries cooperative banking system route behind [[JapanFG/norinchukin]].
+- [[cooperative-banks/zenshin-kumi]] is the credit-cooperative central route.
+- [[cooperative-banks/rokin-renraku]] is the labor-bank route.
+- [[banking/ja-bank-system-japan]] is the JA Bank / agricultural cooperative banking system route behind [[cooperative-banks/norinchukin]].
+- [[banking/jf-marine-bank-system-japan]] is the JF Marine Bank / fisheries cooperative banking system route behind [[cooperative-banks/norinchukin]].
 - [[banking/shinkin-bank-registry-japan]], [[banking/credit-cooperative-registry-japan]], and [[banking/rokin-bank-registry-japan]] are the complete official-name registry routes for the three cooperative-banking populations.
-- [[JapanFG/akita-bank]], [[JapanFG/iwate-bank]], [[JapanFG/joyo-bank]], and other regional banks should be compared carefully: they are local finance peers, but not cooperative institutions.
-- [[JapanFG/legal-financial-licenses/INDEX]] should treat this as a distinct bank / cooperative-finance lane, not as a fintech license shortcut.
+- [[regional-banks/akita-bank]], [[regional-banks/iwate-bank]], [[regional-banks/joyo-bank]], and other regional banks should be compared carefully: they are local finance peers, but not cooperative institutions.
+- [[financial-licenses/INDEX]] should treat this as a distinct bank / cooperative-finance lane, not as a fintech license shortcut.
 
 ## Boundary Cases
 
@@ -83,10 +83,10 @@ Cooperative institutions are not just small banks. Their governance and business
 - [[banking/rokin-bank-registry-japan]]
 - [[banking/ja-bank-system-japan]]
 - [[banking/jf-marine-bank-system-japan]]
-- [[JapanFG/zenshin-kumi]]
-- [[JapanFG/rokin-renraku]]
-- [[JapanFG/norinchukin]]
-- [[JapanFG/legal-financial-licenses/INDEX]]
+- [[cooperative-banks/zenshin-kumi]]
+- [[cooperative-banks/rokin-renraku]]
+- [[cooperative-banks/norinchukin]]
+- [[financial-licenses/INDEX]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

@@ -38,6 +38,6 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exc
 
 ## 战略含义
 
-"金融 × 平台"hybrid 是国内 CEX 竞争轴。**LINE 撤退 vs PayPay 进入** = 软银系重组的信号。今后 d 积分・PayPay 积分是下一个统合候选。[[exchanges/jp-vasp-parent-company-map]] 母公司画像与 [[JapanFG/rakuten-fg|Rakuten FG]] 及 [[JapanFG/monex-group|Monex Group]] 对照阅读即可看出其关系。stablecoin 统合请并读 [[exchanges/jp-cex-deposit-token-stablecoin-integration|JP CEX × 預金トークン / EPI 統合]] 与 [[fintech/japan-stablecoin-regulatory-landscape|日本 stablecoin 規制ランドスケープ]]。
+"金融 × 平台"hybrid 是国内 CEX 竞争轴。**LINE 撤退 vs PayPay 进入** = 软银系重组的信号。今后 d 积分・PayPay 积分是下一个统合候选。[[exchanges/jp-vasp-parent-company-map]] 母公司画像与 [[payment-firms/rakuten-fg|Rakuten FG]] 及 [[securities-firms/monex-group|Monex Group]] 对照阅读即可看出其关系。stablecoin 统合请并读 [[exchanges/jp-cex-deposit-token-stablecoin-integration|JP CEX × 預金トークン / EPI 統合]] 与 [[fintech/japan-stablecoin-regulatory-landscape|日本 stablecoin 規制ランドスケープ]]。
 
 来源：公开信息整理（各 CEX/积分发行体 IR・使用条款，JVCEA 自律规则公示，乐天/SBI/PayPay/Mercari 各公司新闻稿）

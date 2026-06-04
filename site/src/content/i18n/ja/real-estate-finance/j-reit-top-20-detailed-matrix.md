@@ -21,14 +21,14 @@ translated_at: 2026-06-03T00:53:08.310Z
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1 | [[real-estate-finance/nippon-building-fund-j-reit-8951\|Nippon Building Fund (NBF)]] | 8951 | [[real-estate-finance/mitsui-fudosan-financing-model\|Mitsui Fudosan]] | 開発者 | オフィス（東京中心部） | ~1.4 | ~0.8-0.9 | 保守的 (低 40% ゾーン) | ローエンド（プレミアム） | マルチテナント（低集中） | 横ばいから緩やかな低下（オフィスキャップレートの拡大） | 安定～若干上昇（賃料改定） |
 | 2 | [[real-estate-finance/japan-real-estate-j-reit-8952\|Japan Real Estate (JRE)]] | 8952 | [[real-estate-finance/mitsubishi-estate-financing-model\|Mitsubishi Estate]] | 開発者 | オフィス（丸の内・大手町） | ~1.2 | ~0.7-0.8 | 保守的 (低 40% ゾーン) | ローエンド（プレミアム） | マルチテナント。丸の内プレミア | フラット（丸の内レジリエンス） | 安定した |
-| 3 | [[real-estate-finance/nomura-real-estate-master-fund-nmf\|Nomura Real Estate Master Fund (NMF)]] | 3462 | 野村不動産 ([[JapanFG/nomura-hd\|Nomura HD]]) | 開発者 | 多角化（オフィス、小売、物流、住宅） | ~1.1 | ~0.6-0.7 | 40%ゾーン中期 | ミッド | マルチテナントの多様化 | フラット | 安定～軽度上昇 |
+| 3 | [[real-estate-finance/nomura-real-estate-master-fund-nmf\|Nomura Real Estate Master Fund (NMF)]] | 3462 | 野村不動産 ([[securities-firms/nomura-hd\|Nomura HD]]) | 開発者 | 多角化（オフィス、小売、物流、住宅） | ~1.1 | ~0.6-0.7 | 40%ゾーン中期 | ミッド | マルチテナントの多様化 | フラット | 安定～軽度上昇 |
 | 4 | [[real-estate-finance/glp-j-reit-3281\|GLP J-REIT]] | 3281 | GLP（シンガポール本社のグローバル物流プラットフォーム） | 海外（物流プラットフォーム） | 物流 (現代のクラス A) | ~0.9 | ~0.5-0.6 | 40%ゾーン中期 | 中期 (物流が厳しい) | 施設ごとに単一のアンカー/少数のテナント。 3PL と電子商取引 | 圧縮（物流キャップレートは維持） | アップまで安定 |
 | 5 | [[real-estate-finance/nippon-prologis-reit-3283\|Nippon Prologis REIT (NPR)]] | 3283 | プロロジス（米国上場グローバル物流REIT） | 海外（物流プラットフォーム） | 物流（クラスA） | ~0.8 | ~0.5-0.6 | 40%ゾーン中期 | 中期 (物流が厳しい) | シングルアンカー / 3PL および e コマースアンカー | 圧縮された;非常に厳しいキャップレート | アップまで安定 |
-| 6 | 大和オフィスインベストメント | 8976 | [[JapanFG/daiwa-sg\|Daiwa Securities Group]] | 貿易・金融 | オフィス（主要都市の中規模ビル） | ~0.5 | ~0.3-0.4 | 40%ゾーン中期 | ミッド | マルチテナント型中規模ビル | フラットから軽度のダウン (中規模のオフィスの柔らかさ) | 安定した |
+| 6 | 大和オフィスインベストメント | 8976 | [[securities-firms/daiwa-sg\|Daiwa Securities Group]] | 貿易・金融 | オフィス（主要都市の中規模ビル） | ~0.5 | ~0.3-0.4 | 40%ゾーン中期 | ミッド | マルチテナント型中規模ビル | フラットから軽度のダウン (中規模のオフィスの柔らかさ) | 安定した |
 | 7 | 日本宿泊基金 | 3226 | 三井不動産レジデンシャル | デベロッパー（住宅） | 住宅（賃貸アパート） | ~0.5 | ~0.3-0.4 | 40%ゾーン中期 | ミッド | きめ細かな個別テナント。シングルテナントの集中度が非常に低い | フラット | アップまで安定（賃貸更新時の賃料改定） |
 | 8 | 日本物流基金 | 8967 | 三井物産（JLFアセットマネジメント） | 取引・スポンサー（三井物産） | ロジスティクス | ~0.4 | ~0.3 | 40%ゾーン中期 | ミッド | シングルテナントの物流。 3PL アンカー | 軽度の圧縮 | アップまで安定 |
 | 9 | 積水ハウスリート投資法人 | 3309 | 積水ハウス | デベロッパー（住宅・商業） | 多様化（オフィス＋住宅） | ~0.5 | ~0.3 | 40%ゾーン中期 | ミッド | マルチテナントオフィス＋粒状住居 | フラット | 安定した |
-| 10 | [[JapanFG/orix-corp\|Orix]] JREIT | 8954 | [[JapanFG/orix-corp\|Orix]] | 金融複合企業 | 多様化（オフィス中心） | ~0.7 | ~0.4-0.5 | 40%ゾーン中期 | ミッド | マルチテナントの多様化 | フラット | 安定した |
+| 10 | [[leasing-firms/orix-corp\|Orix]] JREIT | 8954 | [[leasing-firms/orix-corp\|Orix]] | 金融複合企業 | 多様化（オフィス中心） | ~0.7 | ~0.4-0.5 | 40%ゾーン中期 | ミッド | マルチテナントの多様化 | フラット | 安定した |
 | 11 | 森ヒルズリート投資法人 | 3234 | 森ビル | デベロッパー（都市再開発） | オフィス・都市再開発（六本木、虎ノ門、愛宕） | ~0.4 | ~0.2-0.3 | 40%ゾーン中期 | ミッド | マルチテナント。都市再開発が中心 | フラット (都市再開発の回復力) | 安定～軽度上昇 |
 | 12 | 森トラスト総合リート投資法人（森トラストリート） | 3478 | 森トラスト | 開発者 | オフィス中心の多様化 | ~0.4 | ~0.2-0.3 | 40%ゾーン中期 | ミッド | マルチテナント。オフィスヘビーミックス | フラット | 安定した |
 | 13 | 産業・インフラ基金 (IIF) | 3249 | KJR Management (KKRによるMC-UBS Realty買収後);三菱商事の歴史 | トレーディング/財務スポンサー (現在はPE所有のAM) | 物流＋産業インフラ | ~0.5 | ~0.3-0.4 | 40%ゾーン中期 | Mid（物流テーマ） | 混合: シングルテナントの物流 + マルチテナントの産業インフラ | 軽度の圧縮 | アップまで安定 |
@@ -72,8 +72,8 @@ translated_at: 2026-06-03T00:53:08.310Z
 | 国内ディベロッパー（イオン・イオンモール） | イオンリート（3292） | 1 |
 | 商社・財閥（三井物産） | 日本物流基金 (8967) | 1 |
 | 商社・財閥（三菱商事・KKR・KJR） | IIF (3249) | 1 |
-| 金融複合企業 ([[JapanFG/orix-corp\|Orix]]) | オリックス不動産投資法人 (8954) | 1 |
-| トレーディング・証券 ([[JapanFG/daiwa-sg\|Daiwa SG]]) | ダイワオフィス（8976） | 1 |
+| 金融複合企業 ([[leasing-firms/orix-corp\|Orix]]) | オリックス不動産投資法人 (8954) | 1 |
+| トレーディング・証券 ([[securities-firms/daiwa-sg\|Daiwa SG]]) | ダイワオフィス（8976） | 1 |
 | 独立系AM（ケネディクス） | ケネディクスオフィス（8972） | 1 |
 | ハイブリッド/NTT系（プレミア） | プレミア投資 (8956) | 1 |
 | 海外物流プラットフォーム（GLP、シンガポール） | GLP投資法人(3281) | 1 |
@@ -107,9 +107,9 @@ translated_at: 2026-06-03T00:53:08.310Z
 各 J-REIT には資産管理のため信託銀行の受託者がいます。受託者市場は、日本最大手の信託銀行に非常に集中しています。
 | 管財人 | 最上位の 20  管理者の役割のおおよその割合 | 注意事項 |
 |---|---|---|
-| [[JapanFG/mitsubishi-ufj-trust-bank\|Mitsubishi UFJ Trust Bank]] | トップ 20 J-REIT 全体で最も頻繁に受託者となる | 日本最大手の信託銀行。クロススポンサートラスティの役割 |
-| [[JapanFG/sumitomo-mitsui-trust\|Sumitomo Mitsui Trust Bank (SMTB)]] | 2 番目に多い受託者 | 豊富な不動産資産管理フランチャイズを持つ大手信託銀行 |
-| [[JapanFG/mizuho-trust-bank\|Mizuho Trust Bank]] | 受託者の重要な役割 | 不動産フランチャイズを持つグループ系信託銀行 |
+| [[trust-banks/mitsubishi-ufj-trust-bank\|Mitsubishi UFJ Trust Bank]] | トップ 20 J-REIT 全体で最も頻繁に受託者となる | 日本最大手の信託銀行。クロススポンサートラスティの役割 |
+| [[trust-banks/sumitomo-mitsui-trust\|Sumitomo Mitsui Trust Bank (SMTB)]] | 2 番目に多い受託者 | 豊富な不動産資産管理フランチャイズを持つ大手信託銀行 |
+| [[trust-banks/mizuho-trust-bank\|Mizuho Trust Bank]] | 受託者の重要な役割 | 不動産フランチャイズを持つグループ系信託銀行 |
 受託者のアイデンティティはスポンサーのアイデンティティとは独立しています。単一の信託銀行が、競合する開発者グループのスポンサーである J-REIT の受託者として機能できます。受託者の役割は、スポンサーのガバナンスに影響を与えない、報酬を得る保管/資産管理機能です。トラスティ側のフレームワークについては、[[banking/trust-bank-custody-operating-comparison|trust bank custody operating comparison]] を参照してください。
 ## 8。 2024-2025 NAV ユニットあたりと DPU の方向性の傾向
 これは、公開 IR 開示および ARES セクター統計からの 2024 ～ 2025  ウィンドウの定性的な読み取りです。方向性ラベルは、正式な予測ではなく、一般公開されている IR のコメントを反映しています。
@@ -203,11 +203,11 @@ JPXの投資家別取引統計（[[real-estate-finance/j-reit-foreign-investor-o
 - [[real-estate-finance/bank-commercial-real-estate-lending-japan|bank commercial real estate lending Japan]]
 - [[banking/INDEX|banking index]]
 - [[banking/trust-bank-custody-operating-comparison|trust bank custody operating comparison]]
-- [[JapanFG/orix-corp|Orix]]
-- [[JapanFG/daiwa-sg|Daiwa Securities Group]]
-- [[JapanFG/nomura-hd|Nomura HD]]
-- [[JapanFG/mitsubishi-ufj-trust-bank|Mitsubishi UFJ Trust Bank]]
-- [[JapanFG/sumitomo-mitsui-trust|SMTB]]
+- [[leasing-firms/orix-corp|Orix]]
+- [[securities-firms/daiwa-sg|Daiwa Securities Group]]
+- [[securities-firms/nomura-hd|Nomura HD]]
+- [[trust-banks/mitsubishi-ufj-trust-bank|Mitsubishi UFJ Trust Bank]]
+- [[trust-banks/sumitomo-mitsui-trust|SMTB]]
 - [[retail/aeon-group|AEON Group]]
 - [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]]
 - [[INDEX|FinWiki index]]

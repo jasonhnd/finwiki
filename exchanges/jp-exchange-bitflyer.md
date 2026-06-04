@@ -124,7 +124,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 - [[fintech/japan-financial-regulation]] — 日本金融規制全体
 - [[exchanges/jp-exchange-binance-japan]] — 同業他社 overview
 - [[exchanges/jp-exchange-gmo-coin]] — 同業他社 overview
-- [[JapanFG/bitflyer]] — bitFlyer Holdings 親会社プロファイル
+- [[payment-firms/bitflyer]] — bitFlyer Holdings 親会社プロファイル
 - [[exchanges/jp-vasp-parent-company-map]] — JP VASP 親会社マップ
 - [[exchanges/jvcea-self-regulatory-overview]] — JVCEA 自主規制体系
 

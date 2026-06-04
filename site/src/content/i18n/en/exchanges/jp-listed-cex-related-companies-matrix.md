@@ -41,7 +41,7 @@ A consolidated list of CEXes (crypto asset exchange operators) with a base in Ja
 
 ## Investor Implications
 
-- **Direct exposure to Japan CEX sector**: Monex Group / SBI HD / GMO Internet Group / CNCK / JN Group are the primary routes. For parent-company profiles, see [[JapanFG/monex-group|Monex Group]] · [[JapanFG/sbi-hd|SBI HD]] · [[JapanFG/gmo-financial-hd|GMO Financial HD]] · [[JapanFG/bitflyer|bitFlyer Holdings]].
+- **Direct exposure to Japan CEX sector**: Monex Group / SBI HD / GMO Internet Group / CNCK / JN Group are the primary routes. For parent-company profiles, see [[securities-firms/monex-group|Monex Group]] · [[megabanks/sbi-hd|SBI HD]] · [[payment-firms/gmo-financial-hd|GMO Financial HD]] · [[payment-firms/bitflyer|bitFlyer Holdings]].
 - **Institutional allocation**: Routes through large financial conglomerates (Monex / SBI / Nomura) are most practical. The only pure-play listed vehicle is CNCK.
 - **Exit / contraction (counter-examples)**: Money Partners G delisted, LINE Xenesis wound down, DMM Bitcoin closed — pure-play independent operations have proved difficult to sustain in capital markets. Reference: [[exchanges/jp-vasp-ma-consolidation-history]].
 

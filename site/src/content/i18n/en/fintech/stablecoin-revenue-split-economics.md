@@ -31,7 +31,7 @@ Distributor quarterly income = (In-platform USDC × Reserve annual yield ×100%�
 
 - [[fintech/paypal-pyusd-stablecoin|PYUSD（PayPal）]]Distribution arrangement between and Paxos
 - [[fintech/world-liberty-usd1-political-stablecoin|USD1（World Liberty Financial）]]Distribution arrangement between and Bridge
-- [[JapanFG/jpyc|JPYC]]（[[fintech/stablecoin-channel-japan-sbi-jpyc-ring|SBI × JPYC × Circle 環状持株]]) potential distribution distribution structure of
+- [[payment-firms/jpyc|JPYC]]（[[fintech/stablecoin-channel-japan-sbi-jpyc-ring|SBI × JPYC × Circle 環状持株]]) potential distribution distribution structure of
 - Historical relationship between USDT (Tether) and Bitfinex (conditions not disclosed)
 
 **Typical Trigger Timing**: Delivery agreements typically3-5 Signed with annual + automatic renewal clause. In the USDC case2026-08 The renewal of the agreement is a key game point between Circle and Coinbase.

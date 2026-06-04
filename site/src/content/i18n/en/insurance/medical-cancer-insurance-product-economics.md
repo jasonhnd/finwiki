@@ -12,11 +12,11 @@ translated_at: 2026-05-31T11:13:44.950Z
 
 ## TL;DR
 
-Medical (医療保険) and cancer (がん保険) insurance are the dominant individual-protection product lines in the Japanese life-insurance market in number of contracts and in retail visibility, sitting on top of (not as a substitute for) the universal public health-insurance system run under the Ministry of Health, Labour and Welfare (MHLW / 厚生労働省). The competitive structure is dominated by a small number of specialist-positioned carriers — [[JapanFG/aflac-japan|Aflac (アフラック)]] holds a structurally dominant share of the cancer-insurance line (commonly reported around the ~70% bracket of individual cancer-policy in-force), [[JapanFG/aia-life-japan|AIA Group]] is a major foreign-life writer of medical / protection, [[insurance/japan-nonlife-big-three|the non-life big three]] subsidiaries [[JapanFG/tokio-marine-nichido-life|Tokio Marine & Nichido Life "Anshin"]], [[JapanFG/sompo-himawari-life|Sompo Himawari Life]], and the MS&AD Aioi Nissay Dowa Life / Mitsui Sumitomo Aioi Life vehicles compete with bundled / rider-led offerings, and the [[insurance/japan-life-insurance-big-four|life big-four]] mutuals offer medical / cancer protection primarily as riders on whole-life or term-life base contracts. The economics are characterized by short-tail morbidity-driven loss ratios (different from rate-sensitive savings products), heavy distribution-channel cost (commission share is the largest single line in product economics), agency / bancassurance / direct channel substitution dynamics, and product-mix interaction with [[insurance/internet-life-insurance-business-model|the internet life insurance business model]] for simple yen-term-style medical covers.
+Medical (医療保険) and cancer (がん保険) insurance are the dominant individual-protection product lines in the Japanese life-insurance market in number of contracts and in retail visibility, sitting on top of (not as a substitute for) the universal public health-insurance system run under the Ministry of Health, Labour and Welfare (MHLW / 厚生労働省). The competitive structure is dominated by a small number of specialist-positioned carriers — [[life-insurers/aflac-japan|Aflac (アフラック)]] holds a structurally dominant share of the cancer-insurance line (commonly reported around the ~70% bracket of individual cancer-policy in-force), [[life-insurers/aia-life-japan|AIA Group]] is a major foreign-life writer of medical / protection, [[insurance/japan-nonlife-big-three|the non-life big three]] subsidiaries [[life-insurers/tokio-marine-nichido-life|Tokio Marine & Nichido Life "Anshin"]], [[life-insurers/sompo-himawari-life|Sompo Himawari Life]], and the MS&AD Aioi Nissay Dowa Life / Mitsui Sumitomo Aioi Life vehicles compete with bundled / rider-led offerings, and the [[insurance/japan-life-insurance-big-four|life big-four]] mutuals offer medical / cancer protection primarily as riders on whole-life or term-life base contracts. The economics are characterized by short-tail morbidity-driven loss ratios (different from rate-sensitive savings products), heavy distribution-channel cost (commission share is the largest single line in product economics), agency / bancassurance / direct channel substitution dynamics, and product-mix interaction with [[insurance/internet-life-insurance-business-model|the internet life insurance business model]] for simple yen-term-style medical covers.
 
 ## Wiki route
 
-This page sits under [[insurance/INDEX|insurance INDEX]] and is the product-economics counterpart to [[insurance/life-insurance-channel-mix|the life insurance channel mix]], [[insurance/japan-life-insurance-big-four|the Japan life big four]] (which sell medical / cancer mainly as riders on base policies), [[insurance/foreign-life-affiliate-japan-positioning|foreign-life-affiliate positioning]] (which is the primary frame for understanding Aflac and AIA), and [[insurance/insurance-agency-and-brokerage-japan|the agency / brokerage Japan landscape]] (the dominant non-bank distribution channel for these products). Read it together with [[insurance/internet-life-insurance-business-model|the internet life insurance business model]] for the direct-channel contrast and [[insurance/bancassurance-economics-japan|bancassurance economics Japan]] for the bank-channel comparative. The entity anchors include [[JapanFG/aflac-japan|Aflac Japan]], [[JapanFG/aia-life-japan|AIA Life Japan]], [[JapanFG/tokio-marine-nichido-life|Tokio Marine & Nichido Life ("Anshin Life")]], [[JapanFG/sompo-himawari-life|Sompo Himawari Life]], and [[JapanFG/metlife-japan|MetLife Japan]] and [[JapanFG/prudential-japan|Prudential Japan]] for the broader foreign-affiliate set.
+This page sits under [[insurance/INDEX|insurance INDEX]] and is the product-economics counterpart to [[insurance/life-insurance-channel-mix|the life insurance channel mix]], [[insurance/japan-life-insurance-big-four|the Japan life big four]] (which sell medical / cancer mainly as riders on base policies), [[insurance/foreign-life-affiliate-japan-positioning|foreign-life-affiliate positioning]] (which is the primary frame for understanding Aflac and AIA), and [[insurance/insurance-agency-and-brokerage-japan|the agency / brokerage Japan landscape]] (the dominant non-bank distribution channel for these products). Read it together with [[insurance/internet-life-insurance-business-model|the internet life insurance business model]] for the direct-channel contrast and [[insurance/bancassurance-economics-japan|bancassurance economics Japan]] for the bank-channel comparative. The entity anchors include [[life-insurers/aflac-japan|Aflac Japan]], [[life-insurers/aia-life-japan|AIA Life Japan]], [[life-insurers/tokio-marine-nichido-life|Tokio Marine & Nichido Life ("Anshin Life")]], [[life-insurers/sompo-himawari-life|Sompo Himawari Life]], and [[life-insurers/metlife-japan|MetLife Japan]] and [[life-insurers/prudential-japan|Prudential Japan]] for the broader foreign-affiliate set.
 
 ## Why these products are a separate product economics
 
@@ -32,14 +32,14 @@ A whole-life or single-premium savings policy is a long-duration, rate-sensitive
 
 | Carrier / group | Product positioning | Channel mix | Notes |
 |---|---|---|---|
-| [[JapanFG/aflac-japan|Aflac Japan]] | Cancer dominant; medical strong; "AFLAC duck" brand | Dedicated agency network + bancassurance + tied + corporate; long postal-channel tie-up history with Japan Post Co. | Structurally dominant cancer share; standalone Japan operating company under [[JapanFG/aflac|Aflac Inc. (NYSE)]] |
-| [[JapanFG/aia-life-japan|AIA Life Japan]] | Medical / protection / wellness; whole-life riders | Tied + agency; "AIA Vitality" overlay | Foreign-affiliate, part of the regional [[JapanFG/aia|AIA Group]] |
-| [[JapanFG/tokio-marine-nichido-life|Tokio Marine & Nichido Life ("Anshin Life")]] | Medical + protection + bundled with non-life via group | Group agency, bancassurance, direct (via [[JapanFG/tokio-marine-direct|Tokio Marine Direct]] / 安心ねっと dai-ichi-jūsho) | Non-life big-three life subsidiary inside [[JapanFG/tokio-marine-holdings|Tokio Marine Holdings]] |
-| [[JapanFG/sompo-himawari-life|Sompo Himawari Life]] | Medical / cancer / nursing; wellness-linked | Group agency, bancassurance | Non-life big-three life subsidiary inside [[JapanFG/sompo|Sompo Holdings]] |
-| MS&AD life vehicles (Mitsui Sumitomo Aioi Life, Mitsui Sumitomo Primary Life) | Medical riders + savings + bancassurance | Group agency, bancassurance, primary-life for bancassurance | Non-life big-three life subsidiaries inside [[JapanFG/ms-ad|MS&AD]] |
+| [[life-insurers/aflac-japan|Aflac Japan]] | Cancer dominant; medical strong; "AFLAC duck" brand | Dedicated agency network + bancassurance + tied + corporate; long postal-channel tie-up history with Japan Post Co. | Structurally dominant cancer share; standalone Japan operating company under [[JapanFG/aflac|Aflac Inc. (NYSE)]] |
+| [[life-insurers/aia-life-japan|AIA Life Japan]] | Medical / protection / wellness; whole-life riders | Tied + agency; "AIA Vitality" overlay | Foreign-affiliate, part of the regional [[life-insurers/aia|AIA Group]] |
+| [[life-insurers/tokio-marine-nichido-life|Tokio Marine & Nichido Life ("Anshin Life")]] | Medical + protection + bundled with non-life via group | Group agency, bancassurance, direct (via [[non-life-insurers/tokio-marine-direct|Tokio Marine Direct]] / 安心ねっと dai-ichi-jūsho) | Non-life big-three life subsidiary inside [[non-life-insurers/tokio-marine-holdings|Tokio Marine Holdings]] |
+| [[life-insurers/sompo-himawari-life|Sompo Himawari Life]] | Medical / cancer / nursing; wellness-linked | Group agency, bancassurance | Non-life big-three life subsidiary inside [[non-life-insurers/sompo|Sompo Holdings]] |
+| MS&AD life vehicles (Mitsui Sumitomo Aioi Life, Mitsui Sumitomo Primary Life) | Medical riders + savings + bancassurance | Group agency, bancassurance, primary-life for bancassurance | Non-life big-three life subsidiaries inside [[non-life-insurers/ms-ad|MS&AD]] |
 | [[insurance/japan-life-insurance-big-four|Life big-four mutuals + Dai-ichi HD]] | Medical / cancer riders attached to whole-life / term base | Tied sales force | Riders rather than standalone product line as primary positioning |
-| Internet direct ([[JapanFG/lifenet|Lifenet]] etc.) | Simple yen medical / term / cancer cover | Internet direct | Lower acquisition cost; simpler underwriting; pricing pressure on the standard medical line |
-| [[JapanFG/metlife-japan|MetLife Japan]], [[JapanFG/prudential-japan|Prudential Japan]] | Protection / whole-life / medical mix | Tied lifeplanner / agency | Foreign-affiliate set; see [[insurance/foreign-life-affiliate-japan-positioning|positioning]] |
+| Internet direct ([[life-insurers/lifenet|Lifenet]] etc.) | Simple yen medical / term / cancer cover | Internet direct | Lower acquisition cost; simpler underwriting; pricing pressure on the standard medical line |
+| [[life-insurers/metlife-japan|MetLife Japan]], [[life-insurers/prudential-japan|Prudential Japan]] | Protection / whole-life / medical mix | Tied lifeplanner / agency | Foreign-affiliate set; see [[insurance/foreign-life-affiliate-japan-positioning|positioning]] |
 
 The Aflac cancer share is the structural anomaly of the Japan medical / cancer market: a single foreign-affiliate carrier holds a share of one product line that no comparable carrier holds in any other Japan life-insurance product line. The history runs back to Aflac's 1974 entry as the first foreign insurer to operate independently in Japan and the first carrier with a specialized cancer-product license, with subsequent market lockup through agency, postal, and bancassurance distribution.
 
@@ -114,14 +114,14 @@ Use this page when:
 - [[insurance/bancassurance-economics-japan]]
 - [[insurance/japan-life-insurance-alm-overview]]
 - [[insurance/japan-nonlife-big-three]]
-- [[JapanFG/aflac-japan]]
-- [[JapanFG/aia-life-japan]]
-- [[JapanFG/tokio-marine-nichido-life]]
-- [[JapanFG/sompo-himawari-life]]
-- [[JapanFG/metlife-japan]]
-- [[JapanFG/prudential-japan]]
+- [[life-insurers/aflac-japan]]
+- [[life-insurers/aia-life-japan]]
+- [[life-insurers/tokio-marine-nichido-life]]
+- [[life-insurers/sompo-himawari-life]]
+- [[life-insurers/metlife-japan]]
+- [[life-insurers/prudential-japan]]
 - MHLW (Ministry of Health, Labour and Welfare)
-- [[JapanFG/fsa]]
+- [[financial-regulators/fsa]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

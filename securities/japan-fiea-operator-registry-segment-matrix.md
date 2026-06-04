@@ -38,7 +38,7 @@ Japan's Financial Instruments and Exchange Act (FIEA / 金融商品取引法) ad
 
 ## Wiki route
 
-This page sits under [[securities/INDEX|securities index]] as the segment-decomposition route for [[securities/financial-instruments-business-operators-japan-index|FIEA operator registry index]]. Read it with [[JapanFG/legal-financial-licenses/securities-license-stack|securities license stack]] for the legal-stack mapping, [[securities/japan-asset-manager-landscape-matrix|Japan asset manager landscape matrix]] for the 投資運用業 lane, [[securities/japan-online-brokerage-competition|Japan online brokerage competition]] for the Type I retail-broker lane, and [[securities/japan-prime-brokerage-and-institutional-financing|Japan prime brokerage and institutional financing]] for the Type I institutional-wholesale lane. The exchange / PTS / clearing infrastructure that sits underneath is in [[securities/japan-market-infrastructure-map|Japan market infrastructure map]].
+This page sits under [[securities/INDEX|securities index]] as the segment-decomposition route for [[securities/financial-instruments-business-operators-japan-index|FIEA operator registry index]]. Read it with [[financial-licenses/securities-license-stack|securities license stack]] for the legal-stack mapping, [[securities/japan-asset-manager-landscape-matrix|Japan asset manager landscape matrix]] for the 投資運用業 lane, [[securities/japan-online-brokerage-competition|Japan online brokerage competition]] for the Type I retail-broker lane, and [[securities/japan-prime-brokerage-and-institutional-financing|Japan prime brokerage and institutional financing]] for the Type I institutional-wholesale lane. The exchange / PTS / clearing infrastructure that sits underneath is in [[securities/japan-market-infrastructure-map|Japan market infrastructure map]].
 
 ## Why this matrix matters
 
@@ -81,9 +81,9 @@ Jurisdiction routing (1,945 total): **金融庁 413, 北海道財務局 21, 東�
 - **Capital floor.** ¥50 million minimum paid-in capital baseline under FIEA cabinet office order, with **higher floors for specific activities**: PTS-equivalent operators ¥300 million; underwriting-eligible Type I firms higher still by activity scope; net capital adequacy ratio (自己資本規制比率) must remain ≥ 120% (¥150% supervisory trigger, ≥ 200% target).
 - **Permitted activities.** Securities dealing, brokerage, intermediation, agency, and underwriting of **highly liquid securities** (listed equities, bonds, ETFs, ETNs, REITs, listed derivatives, FX margin trading, CFDs, security tokens issued under STO scheme). Custody of customer assets is permitted (segregated). Underwriting of securities is reserved to Type I.
 - **Supervisory bureau.** Local Finance Bureau corresponding to head-office prefecture (大半 関東財務局 = Tokyo); large megabank / global IB Type I operators sit under 金融庁 direct supervision.
-- **Self-regulatory membership.** [[JapanFG/jsda|JSDA (日本証券業協会)]] is the dominant SRO; FX-margin focused firms join 金融先物取引業協会 (FFAJ); some join both. JSDA membership is mandatory in practice for retail-securities Type I operators.
+- **Self-regulatory membership.** [[financial-regulators/jsda|JSDA (日本証券業協会)]] is the dominant SRO; FX-margin focused firms join 金融先物取引業協会 (FFAJ); some join both. JSDA membership is mandatory in practice for retail-securities Type I operators.
 - **Investor protection.** [[JapanFG/jiipf|Japan Investor Protection Fund (JIPF)]] coverage applies — segregated customer assets are protected up to ¥10 million per customer in JSDA-member Type I failure events.
-- **Typical operator profile.** All-purpose securities firms — megabank securities arms ([[JapanFG/smbc-nikko|SMBC Nikko]], [[JapanFG/mizuho-securities|Mizuho Securities]], [[JapanFG/mufg-mums|MUMSS]]), independent IBs ([[JapanFG/nomura-hd|Nomura]], [[JapanFG/daiwa-sg|Daiwa SG]]), online brokers ([[JapanFG/sbi-securities|SBI Securities]], [[JapanFG/rakuten-securities|Rakuten Securities]], [[JapanFG/monex-group|Monex]], [[JapanFG/gmo-click-securities|GMO Click]], [[JapanFG/dmm-com-securities|DMM.com]], [[JapanFG/paypay-securities|PayPay Securities]]), foreign IBs ([[JapanFG/goldman-sachs-japan|GS Japan]], [[JapanFG/morgan-stanley-japan|MS Japan]], [[JapanFG/jpmorgan-japan|JPM Japan]], [[JapanFG/citigroup-japan|Citi Japan]], [[JapanFG/bank-of-america-japan|BofA Japan]], [[JapanFG/ubs-japan|UBS Japan]], [[JapanFG/barclays-japan|Barclays Japan]], [[JapanFG/bnp-paribas-japan|BNP Paribas Japan]], [[JapanFG/deutsche-japan|Deutsche Japan]], [[JapanFG/socgen-japan|SocGen Japan]]), FX/derivatives shops ([[JapanFG/traders-securities|Traders Securities]], [[JapanFG/saxo-bank-securities|Saxo Bank Securities]], [[JapanFG/sbi-fx-trade|SBI FX Trade]]).
+- **Typical operator profile.** All-purpose securities firms — megabank securities arms ([[securities-firms/smbc-nikko|SMBC Nikko]], [[securities-firms/mizuho-securities|Mizuho Securities]], [[securities-firms/mufg-mums|MUMSS]]), independent IBs ([[securities-firms/nomura-hd|Nomura]], [[securities-firms/daiwa-sg|Daiwa SG]]), online brokers ([[securities-firms/sbi-securities|SBI Securities]], [[securities-firms/rakuten-securities|Rakuten Securities]], [[securities-firms/monex-group|Monex]], [[securities-firms/gmo-click-securities|GMO Click]], [[securities-firms/dmm-com-securities|DMM.com]], [[securities-firms/paypay-securities|PayPay Securities]]), foreign IBs ([[securities-firms/goldman-sachs-japan|GS Japan]], [[securities-firms/morgan-stanley-japan|MS Japan]], [[foreign-financial-institutions/jpmorgan-japan|JPM Japan]], [[foreign-financial-institutions/citigroup-japan|Citi Japan]], [[foreign-financial-institutions/bank-of-america-japan|BofA Japan]], [[foreign-financial-institutions/ubs-japan|UBS Japan]], [[foreign-financial-institutions/barclays-japan|Barclays Japan]], [[foreign-financial-institutions/bnp-paribas-japan|BNP Paribas Japan]], [[foreign-financial-institutions/deutsche-japan|Deutsche Japan]], [[foreign-financial-institutions/socgen-japan|SocGen Japan]]), FX/derivatives shops ([[securities-firms/traders-securities|Traders Securities]], [[securities-firms/saxo-bank-securities|Saxo Bank Securities]], [[securities-firms/sbi-fx-trade|SBI FX Trade]]).
 
 Type I is the broadest envelope — the gate to listed-market brokerage, underwriting, and most retail securities distribution.
 
@@ -119,10 +119,10 @@ This is the **regulatory entry-point segment** — many securities entrepreneurs
 - **Operator count.** 463 投資運用業 operators.
 - **Capital floor.** ¥50 million minimum paid-in capital baseline under FIEA cabinet office order; with net asset requirements layered on top. Larger 投資運用業 operators managing mass-market 公募投信 carry additional disclosure and risk-management requirements.
 - **Permitted activities.** Discretionary investment management (投資一任業), investment trust management (投資信託委託業), and management of fund assets (ファンド運用業) — the operator **takes investment discretion** over customer money / securities. Asset custody is generally separated to a trust bank (信託受託).
-- **Supervisory bureau.** Larger AMs (the Lane 1 megabank-AM cluster — [[JapanFG/nomura-asset-management|Nomura AM]], [[JapanFG/asset-management-one|AM-One]], [[JapanFG/mufg-asset-management|MUFG AM]], [[JapanFG/smd-am|SMD AM]], [[JapanFG/daiwa-asset-management|Daiwa AM]], [[JapanFG/nikko-asset-management|Nikko AM]]) and global parents (BlackRock Japan, JPMAM Japan, Fidelity Japan) tend toward direct FSA supervision; smaller domestic AMs sit under 関東財務局.
+- **Supervisory bureau.** Larger AMs (the Lane 1 megabank-AM cluster — [[asset-managers/nomura-asset-management|Nomura AM]], [[asset-managers/asset-management-one|AM-One]], [[asset-managers/mufg-asset-management|MUFG AM]], [[asset-managers/smd-am|SMD AM]], [[asset-managers/daiwa-asset-management|Daiwa AM]], [[asset-managers/nikko-asset-management|Nikko AM]]) and global parents (BlackRock Japan, JPMAM Japan, Fidelity Japan) tend toward direct FSA supervision; smaller domestic AMs sit under 関東財務局.
 - **Self-regulatory membership.** [[JapanFG/jita|Japan Investment Trusts Association (投資信託協会, JITA)]] for AMs running 公募投信 / 私募投信; JIAA for 投資一任業. Membership is mandatory in practice for retail public-fund AMs.
 - **Investor protection.** No JIPF — customer assets sit at the trust-bank custodian rather than the AM, so segregation flows through trust-banking law (信託業法) rather than securities investor protection.
-- **Typical operator profile.** Asset managers — megabank-affiliated AMs, insurance-affiliated AMs (Lane 2 in [[securities/japan-asset-manager-landscape-matrix|Japan asset manager landscape matrix]]), independent / online AMs ([[JapanFG/sbi-asset-management|SBI AM]], 楽天投信投資顧問, スパークス・グループ), foreign-affiliated AMs (BlackRock Japan, JPMAM Japan, Fidelity Japan, Schroders Japan, T. Rowe Price Japan, Pictet Japan), pension / endowment discretionary managers, hedge-fund GPs running 投資一任 mandates inside Japan.
+- **Typical operator profile.** Asset managers — megabank-affiliated AMs, insurance-affiliated AMs (Lane 2 in [[securities/japan-asset-manager-landscape-matrix|Japan asset manager landscape matrix]]), independent / online AMs ([[asset-managers/sbi-asset-management|SBI AM]], 楽天投信投資顧問, スパークス・グループ), foreign-affiliated AMs (BlackRock Japan, JPMAM Japan, Fidelity Japan, Schroders Japan, T. Rowe Price Japan, Pictet Japan), pension / endowment discretionary managers, hedge-fund GPs running 投資一任 mandates inside Japan.
 
 Reflects the full 463-operator population that runs the Japanese investment-management book.
 
@@ -133,9 +133,9 @@ Reflects the full 463-operator population that runs the Japanese investment-mana
 - **Capital floor.** ¥10 million minimum paid-in capital (lower than ordinary Type I because activity is narrow); offering size caps cabinet-office-order regulated.
 - **Permitted activities.** Equity-crowdfunding-style **online intermediation of small public offerings** of unlisted-equity securities — issuer fundraising **capped at ¥100 million per fundraising round, and per investor ¥500,000 per issuer per year**. The narrowed activity envelope is the trade-off for the lower capital floor and lighter prudential treatment versus full Type I.
 - **Supervisory bureau.** 関東財務局 dominance; FSA direct supervision rare.
-- **Self-regulatory membership.** [[JapanFG/jsda|JSDA]] equity-crowdfunding sub-SRO regime; Type I rules apply to the relevant slice of activity.
+- **Self-regulatory membership.** [[financial-regulators/jsda|JSDA]] equity-crowdfunding sub-SRO regime; Type I rules apply to the relevant slice of activity.
 - **Investor protection.** JIPF coverage applies to the extent the operator is a Type I registrant; customer-asset segregation rules apply.
-- **Typical operator profile.** Equity-crowdfunding platforms — [[JapanFG/funds-incorporated|FUNDINNO]], [[JapanFG/securite-crowdfunding|Securite]] (when within equity-crowdfunding scope), 日本クラウドキャピタル legacy entity, [[JapanFG/sbi-securities|SBI Securities]] equity-crowdfunding desk (SBI Issuance Market), CAMPFIRE Angels, Ichigon Cloud Funding, FUEL Online and similar issuer-funding intermediaries. Distinct from non-FIEA "donation" / "perks" reward crowdfunding which is not securities activity.
+- **Typical operator profile.** Equity-crowdfunding platforms — [[JapanFG/funds-incorporated|FUNDINNO]], [[JapanFG/securite-crowdfunding|Securite]] (when within equity-crowdfunding scope), 日本クラウドキャピタル legacy entity, [[securities-firms/sbi-securities|SBI Securities]] equity-crowdfunding desk (SBI Issuance Market), CAMPFIRE Angels, Ichigon Cloud Funding, FUEL Online and similar issuer-funding intermediaries. Distinct from non-FIEA "donation" / "perks" reward crowdfunding which is not securities activity.
 
 A small but strategically important segment — it is the legal scaffolding for the Japanese equity-crowdfunding industry.
 
@@ -174,7 +174,7 @@ The largest **notification-only** segment by raw count — but smallest in retai
 - **Supervisory bureau.** FSA direct supervision dominates given systemic-risk concern.
 - **Self-regulatory membership.** [[JapanFG/jvcea|Japan Virtual and Crypto-Assets Exchange Association (JVCEA)]] is the PSA-side SRO; FIEA crypto-derivatives operators interact with JVCEA on overlapping conduct rules.
 - **Investor protection.** Type I JIPF coverage applies; crypto-asset-specific customer-asset segregation rules (cold-wallet ratios, hot-wallet exposure caps) layered on.
-- **Typical operator profile.** [[JapanFG/sbi-securities|SBI Securities]] (limited crypto-derivative sleeve), [[JapanFG/gmo-click-securities|GMO Click Securities]] (crypto-CFD product), [[JapanFG/dmm-com-securities|DMM.com Securities]] adjacency to DMM Bitcoin, and a small handful of FX-margin firms that added crypto-CFD lines.
+- **Typical operator profile.** [[securities-firms/sbi-securities|SBI Securities]] (limited crypto-derivative sleeve), [[securities-firms/gmo-click-securities|GMO Click Securities]] (crypto-CFD product), [[securities-firms/dmm-com-securities|DMM.com Securities]] adjacency to DMM Bitcoin, and a small handful of FX-margin firms that added crypto-CFD lines.
 
 A small but strategically watched segment — sits at the interface between FIEA and PSA.
 
@@ -188,7 +188,7 @@ A small but strategically watched segment — sits at the interface between FIEA
 - **Supervisory bureau.** FSA direct supervision for PTS (market-infrastructure systemic-risk concern); 関東財務局 for QII notifications.
 - **Self-regulatory membership.** PTS operators are JSDA members through their Type I parent license; QII status does not carry SRO membership obligations.
 - **Investor protection.** PTS counterparties are mostly institutional; PTS operator JIPF coverage flows from the underlying Type I parent registration. QII status removes retail-protection coverage on the QII counterparty side.
-- **Typical operator profile.** PTS — [[securities/japannext-securities|Japannext PTS]], [[securities/osaka-digital-exchange|ODX]], and the small number of additional licensed PTS operators. QII — life / nonlife insurers (Nippon Life, Dai-ichi Life, Tokio Marine, Sompo, MS&AD), megabanks (SMBC, MUFG, Mizuho), megabank securities arms ([[JapanFG/smbc-nikko|SMBC Nikko]], [[JapanFG/mizuho-securities|Mizuho Securities]], [[JapanFG/mufg-mums|MUMSS]]), trust banks (MUTB, SMTB), AMs ([[JapanFG/nomura-asset-management|Nomura AM]], [[JapanFG/asset-management-one|AM-One]]), public pension funds (GPIF, KKR), and the broader institutional investor universe.
+- **Typical operator profile.** PTS — [[securities/japannext-securities|Japannext PTS]], [[securities/osaka-digital-exchange|ODX]], and the small number of additional licensed PTS operators. QII — life / nonlife insurers (Nippon Life, Dai-ichi Life, Tokio Marine, Sompo, MS&AD), megabanks (SMBC, MUFG, Mizuho), megabank securities arms ([[securities-firms/smbc-nikko|SMBC Nikko]], [[securities-firms/mizuho-securities|Mizuho Securities]], [[securities-firms/mufg-mums|MUMSS]]), trust banks (MUTB, SMTB), AMs ([[asset-managers/nomura-asset-management|Nomura AM]], [[asset-managers/asset-management-one|AM-One]]), public pension funds (GPIF, KKR), and the broader institutional investor universe.
 
 ## Cross-segment comparison table
 
@@ -214,20 +214,20 @@ This is a public-anchor list — institution names that materially anchor each s
 
 | Segment | Anchor operators (illustrative, not ranked) |
 |---|---|
-| **Type I — independent IB** | [[JapanFG/nomura-hd\|Nomura]], [[JapanFG/daiwa-sg\|Daiwa Securities Group]] |
-| **Type I — megabank arm** | [[JapanFG/smbc-nikko\|SMBC Nikko]], [[JapanFG/mizuho-securities\|Mizuho Securities]], [[JapanFG/mufg-mums\|MUMSS]] |
-| **Type I — online broker** | [[JapanFG/sbi-securities\|SBI Securities]], [[JapanFG/rakuten-securities\|Rakuten Securities]], [[JapanFG/monex-group\|Monex]], [[JapanFG/mufg-esmart-securities\|au Kabucom (MUFG eSmart)]], [[JapanFG/paypay-securities\|PayPay Securities]], [[JapanFG/gmo-click-securities\|GMO Click]], [[JapanFG/dmm-com-securities\|DMM.com]] |
-| **Type I — foreign IB** | [[JapanFG/goldman-sachs-japan\|GS Japan]], [[JapanFG/morgan-stanley-japan\|MS Japan]], [[JapanFG/jpmorgan-japan\|JPM Japan]], [[JapanFG/citigroup-japan\|Citi Japan]], [[JapanFG/bank-of-america-japan\|BofA Japan]], [[JapanFG/ubs-japan\|UBS Japan]], [[JapanFG/barclays-japan\|Barclays Japan]], [[JapanFG/bnp-paribas-japan\|BNP Paribas Japan]], [[JapanFG/deutsche-japan\|Deutsche Japan]], [[JapanFG/socgen-japan\|SocGen Japan]] |
-| **Type I — FX / derivatives broker** | [[JapanFG/traders-securities\|Traders Securities]], [[JapanFG/saxo-bank-securities\|Saxo Bank Securities]], [[JapanFG/sbi-fx-trade\|SBI FX Trade]] |
+| **Type I — independent IB** | [[securities-firms/nomura-hd\|Nomura]], [[securities-firms/daiwa-sg\|Daiwa Securities Group]] |
+| **Type I — megabank arm** | [[securities-firms/smbc-nikko\|SMBC Nikko]], [[securities-firms/mizuho-securities\|Mizuho Securities]], [[securities-firms/mufg-mums\|MUMSS]] |
+| **Type I — online broker** | [[securities-firms/sbi-securities\|SBI Securities]], [[securities-firms/rakuten-securities\|Rakuten Securities]], [[securities-firms/monex-group\|Monex]], [[securities-firms/mufg-esmart-securities\|au Kabucom (MUFG eSmart)]], [[securities-firms/paypay-securities\|PayPay Securities]], [[securities-firms/gmo-click-securities\|GMO Click]], [[securities-firms/dmm-com-securities\|DMM.com]] |
+| **Type I — foreign IB** | [[securities-firms/goldman-sachs-japan\|GS Japan]], [[securities-firms/morgan-stanley-japan\|MS Japan]], [[foreign-financial-institutions/jpmorgan-japan\|JPM Japan]], [[foreign-financial-institutions/citigroup-japan\|Citi Japan]], [[foreign-financial-institutions/bank-of-america-japan\|BofA Japan]], [[foreign-financial-institutions/ubs-japan\|UBS Japan]], [[foreign-financial-institutions/barclays-japan\|Barclays Japan]], [[foreign-financial-institutions/bnp-paribas-japan\|BNP Paribas Japan]], [[foreign-financial-institutions/deutsche-japan\|Deutsche Japan]], [[foreign-financial-institutions/socgen-japan\|SocGen Japan]] |
+| **Type I — FX / derivatives broker** | [[securities-firms/traders-securities\|Traders Securities]], [[securities-firms/saxo-bank-securities\|Saxo Bank Securities]], [[securities-firms/sbi-fx-trade\|SBI FX Trade]] |
 | **Type II — fund GPs / RE-AM** | Real-estate fund GPs, infrastructure fund GPs, anime / content fund GPs, agricultural fund GPs, renewable-energy fund GPs (long tail of 1,223) |
-| **投資助言・代理業 — IFA / advisory** | IFA platform operators ([[JapanFG/sbi-securities\|SBI Securities]]-IFA tie-ups, [[JapanFG/rakuten-securities\|Rakuten Securities]]-IFA tie-ups), 投資助言 newsletter publishers, foreign-AM Japan introducer offices |
-| **投資運用業 — megabank-AM** | [[JapanFG/nomura-asset-management\|Nomura AM]], [[JapanFG/asset-management-one\|AM-One]], [[JapanFG/mufg-asset-management\|MUFG AM]], [[JapanFG/smd-am\|SMD AM]], [[JapanFG/daiwa-asset-management\|Daiwa AM]], [[JapanFG/nikko-asset-management\|Nikko AM]] |
-| **投資運用業 — independent / online** | [[JapanFG/sbi-asset-management\|SBI AM]], 楽天投信投資顧問, スパークス・グループ |
+| **投資助言・代理業 — IFA / advisory** | IFA platform operators ([[securities-firms/sbi-securities\|SBI Securities]]-IFA tie-ups, [[securities-firms/rakuten-securities\|Rakuten Securities]]-IFA tie-ups), 投資助言 newsletter publishers, foreign-AM Japan introducer offices |
+| **投資運用業 — megabank-AM** | [[asset-managers/nomura-asset-management\|Nomura AM]], [[asset-managers/asset-management-one\|AM-One]], [[asset-managers/mufg-asset-management\|MUFG AM]], [[asset-managers/smd-am\|SMD AM]], [[asset-managers/daiwa-asset-management\|Daiwa AM]], [[asset-managers/nikko-asset-management\|Nikko AM]] |
+| **投資運用業 — independent / online** | [[asset-managers/sbi-asset-management\|SBI AM]], 楽天投信投資顧問, スパークス・グループ |
 | **投資運用業 — foreign-affiliated** | BlackRock Japan, JPMorgan AM Japan, Fidelity Investments Japan, Schroders Japan, T. Rowe Price Japan, Pictet AM Japan |
 | **第一種少額電子募集取扱業** | [[JapanFG/funds-incorporated\|FUNDINNO / Funds]], 日本クラウドキャピタル legacy entity, equity-crowdfunding-platform operators |
 | **電子取引基盤運営業** | Wholesale OTC e-trading platform operators (≈6 rows) |
 | **適格機関投資家等特例業務** | Thousands of single-mandate PE / HF / RE / family-office GP vehicles |
-| **暗号資産関連 (overlay)** | [[JapanFG/sbi-securities\|SBI Securities]] (crypto-derivative sleeve), [[JapanFG/gmo-click-securities\|GMO Click Securities]] (crypto-CFD), [[JapanFG/dmm-com-securities\|DMM.com Securities]] (DMM Bitcoin adjacency) |
+| **暗号資産関連 (overlay)** | [[securities-firms/sbi-securities\|SBI Securities]] (crypto-derivative sleeve), [[securities-firms/gmo-click-securities\|GMO Click Securities]] (crypto-CFD), [[securities-firms/dmm-com-securities\|DMM.com Securities]] (DMM Bitcoin adjacency) |
 | **PTS approval** | [[securities/japannext-securities\|Japannext PTS]], [[securities/osaka-digital-exchange\|ODX]] |
 | **QII notification** | Life insurers, nonlife insurers, megabanks, securities arms, trust banks, AMs, pension funds (GPIF, KKR, PFA) |
 
@@ -239,11 +239,11 @@ A material share of large FIBO operators carry **multiple registrations inside o
 
 | Operator type | Typical stack |
 |---|---|
-| Megabank securities arm ([[JapanFG/smbc-nikko\|SMBC Nikko]], [[JapanFG/mizuho-securities\|Mizuho Securities]], [[JapanFG/mufg-mums\|MUMSS]]) | Type I + Type II + 投資助言・代理業 + 投資運用業 |
-| Independent IB ([[JapanFG/nomura-hd\|Nomura]], [[JapanFG/daiwa-sg\|Daiwa SG]]) | Type I + Type II + 投資助言・代理業 + 投資運用業 (often in subsidiary AMs) |
-| Online broker ([[JapanFG/sbi-securities\|SBI Securities]], [[JapanFG/rakuten-securities\|Rakuten Securities]], [[JapanFG/monex-group\|Monex]]) | Type I + Type II + 投資助言・代理業 (some hold 投資運用業 in subsidiary AMs) |
-| Foreign IB ([[JapanFG/goldman-sachs-japan\|GS Japan]], [[JapanFG/jpmorgan-japan\|JPM Japan]], [[JapanFG/morgan-stanley-japan\|MS Japan]]) | Type I + Type II + 投資運用業 (in subsidiary AM); separate FX / commodity entities |
-| Standalone AM ([[JapanFG/nomura-asset-management\|Nomura AM]], [[JapanFG/asset-management-one\|AM-One]]) | 投資運用業 + 投資助言・代理業 + Type II (for fund self-offering) |
+| Megabank securities arm ([[securities-firms/smbc-nikko\|SMBC Nikko]], [[securities-firms/mizuho-securities\|Mizuho Securities]], [[securities-firms/mufg-mums\|MUMSS]]) | Type I + Type II + 投資助言・代理業 + 投資運用業 |
+| Independent IB ([[securities-firms/nomura-hd\|Nomura]], [[securities-firms/daiwa-sg\|Daiwa SG]]) | Type I + Type II + 投資助言・代理業 + 投資運用業 (often in subsidiary AMs) |
+| Online broker ([[securities-firms/sbi-securities\|SBI Securities]], [[securities-firms/rakuten-securities\|Rakuten Securities]], [[securities-firms/monex-group\|Monex]]) | Type I + Type II + 投資助言・代理業 (some hold 投資運用業 in subsidiary AMs) |
+| Foreign IB ([[securities-firms/goldman-sachs-japan\|GS Japan]], [[foreign-financial-institutions/jpmorgan-japan\|JPM Japan]], [[securities-firms/morgan-stanley-japan\|MS Japan]]) | Type I + Type II + 投資運用業 (in subsidiary AM); separate FX / commodity entities |
+| Standalone AM ([[asset-managers/nomura-asset-management\|Nomura AM]], [[asset-managers/asset-management-one\|AM-One]]) | 投資運用業 + 投資助言・代理業 + Type II (for fund self-offering) |
 | Equity-crowdfunding platform | 第一種少額電子募集取扱業 + Type I (for narrow brokerage segment) |
 | PTS operator | Type I + PTS sub-authorization |
 | Crypto-derivatives operator | Underlying Type I + 暗号資産関連 sub-line |
@@ -254,7 +254,7 @@ This multi-license stacking is why the segment subtotals (291 + 1,223 + 994 + 46
 
 | Self-regulatory organization | Coverage |
 |---|---|
-| [[JapanFG/jsda\|JSDA (日本証券業協会)]] | Type I 金商業者 (mandatory in practice); PTS-operator parents; equity-crowdfunding sub-SRO |
+| [[financial-regulators/jsda\|JSDA (日本証券業協会)]] | Type I 金商業者 (mandatory in practice); PTS-operator parents; equity-crowdfunding sub-SRO |
 | [[JapanFG/jiaa\|JIAA Type II (第二種金融商品取引業協会)]] | Type II 金商業者 (effectively mandatory for self-offering and crowdfunding-adjacent activity) |
 | [[JapanFG/jiaa-advisory\|JIAA advisory (日本投資顧問業協会)]] | 投資助言・代理業 + 投資一任 / 投資運用業 advisory and agency |
 | [[JapanFG/jita\|JITA (投資信託協会)]] | 投資運用業 operators running 公募投信 / 私募投信 |
@@ -292,28 +292,28 @@ This multi-license stacking is why the segment subtotals (291 + 1,223 + 994 + 46
 - [[securities/japan-securities-depository-center]]
 - [[securities/japan-underwriting-market-structure]]
 - [[securities/japan-market-maker-and-liquidity-provider-landscape]]
-- [[JapanFG/legal-financial-licenses/securities-license-stack]]
-- [[JapanFG/legal-financial-licenses/INDEX]]
-- [[JapanFG/jsda]]
-- [[JapanFG/japan-exchange-group]]
-- [[JapanFG/japan-securities-finance]]
-- [[JapanFG/nomura-hd]]
-- [[JapanFG/daiwa-sg]]
-- [[JapanFG/smbc-nikko]]
-- [[JapanFG/mizuho-securities]]
-- [[JapanFG/mufg-mums]]
-- [[JapanFG/sbi-securities]]
-- [[JapanFG/rakuten-securities]]
-- [[JapanFG/monex-group]]
-- [[JapanFG/goldman-sachs-japan]]
-- [[JapanFG/jpmorgan-japan]]
-- [[JapanFG/morgan-stanley-japan]]
-- [[JapanFG/citigroup-japan]]
-- [[JapanFG/bank-of-america-japan]]
-- [[JapanFG/nomura-asset-management]]
-- [[JapanFG/asset-management-one]]
-- [[JapanFG/mufg-asset-management]]
-- [[JapanFG/sbi-asset-management]]
+- [[financial-licenses/securities-license-stack]]
+- [[financial-licenses/INDEX]]
+- [[financial-regulators/jsda]]
+- [[financial-regulators/japan-exchange-group]]
+- [[financial-regulators/japan-securities-finance]]
+- [[securities-firms/nomura-hd]]
+- [[securities-firms/daiwa-sg]]
+- [[securities-firms/smbc-nikko]]
+- [[securities-firms/mizuho-securities]]
+- [[securities-firms/mufg-mums]]
+- [[securities-firms/sbi-securities]]
+- [[securities-firms/rakuten-securities]]
+- [[securities-firms/monex-group]]
+- [[securities-firms/goldman-sachs-japan]]
+- [[foreign-financial-institutions/jpmorgan-japan]]
+- [[securities-firms/morgan-stanley-japan]]
+- [[foreign-financial-institutions/citigroup-japan]]
+- [[foreign-financial-institutions/bank-of-america-japan]]
+- [[asset-managers/nomura-asset-management]]
+- [[asset-managers/asset-management-one]]
+- [[asset-managers/mufg-asset-management]]
+- [[asset-managers/sbi-asset-management]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

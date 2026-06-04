@@ -109,7 +109,7 @@ Megabank and trust-bank real-estate-finance desks are not just lenders. They typ
 | Takeout-route provider | Underwrites the J-REIT equity raise at takeout (where dealer is part of J-REIT's standing syndicate) |
 | Fee streams | Origination fee on debt, trust fee, advisory fee, plus equity underwriting fee at takeout |
 
-This multi-role franchise is one of the reasons megabank-group trust banks ([[JapanFG/mitsubishi-ufj-trust-bank|MUFG Trust]], [[JapanFG/sumitomo-mitsui-trust|SMTB]], [[JapanFG/mizuho-trust-bank|Mizuho Trust]]) dominate the bridge-fund franchise — the in-group bank + trust + securities subsidiary stack lets a single megabank capture multiple revenue lines from one transaction. See [[banking/trust-bank-custody-operating-comparison|trust-bank custody operating comparison]] for the operating split.
+This multi-role franchise is one of the reasons megabank-group trust banks ([[trust-banks/mitsubishi-ufj-trust-bank|MUFG Trust]], [[trust-banks/sumitomo-mitsui-trust|SMTB]], [[trust-banks/mizuho-trust-bank|Mizuho Trust]]) dominate the bridge-fund franchise — the in-group bank + trust + securities subsidiary stack lets a single megabank capture multiple revenue lines from one transaction. See [[banking/trust-bank-custody-operating-comparison|trust-bank custody operating comparison]] for the operating split.
 
 ### Takeout to listed J-REIT
 
@@ -204,9 +204,9 @@ A growing strand is foreign-LP bridge equity — foreign sovereign wealth, pensi
 - [[insurance/INDEX]]
 - [[policy-finance/INDEX]]
 - [[policy-finance/japan-housing-finance-agency]]
-- [[JapanFG/mitsubishi-ufj-trust-bank]]
-- [[JapanFG/sumitomo-mitsui-trust]]
-- [[JapanFG/mizuho-trust-bank]]
+- [[trust-banks/mitsubishi-ufj-trust-bank]]
+- [[trust-banks/sumitomo-mitsui-trust]]
+- [[trust-banks/mizuho-trust-bank]]
 - [[finance/INDEX]]
 
 ## Sources

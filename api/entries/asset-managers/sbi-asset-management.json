@@ -1,0 +1,77 @@
+{
+  "schema_version": "1.0",
+  "slug": "asset-managers/sbi-asset-management",
+  "source_path": "asset-managers/sbi-asset-management.md",
+  "url": "https://finwiki.zksc.io/asset-managers/sbi-asset-management",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/asset-managers/sbi-asset-management.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/asset-managers/sbi-asset-management.md",
+  "domain": "asset-managers",
+  "title": "SBIアセットマネジメント",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "SBIアセットマネジメント",
+    "aliases": [
+      "SBI Asset Management",
+      "SBIアセットマネジメント",
+      "SBIアセットマネジメント株式会社"
+    ],
+    "domain": "asset-managers",
+    "created": "2026-05-20",
+    "last_updated": "2026-05-20",
+    "last_tended": "2026-05-20",
+    "review_by": "2026-11-20",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "asset-management",
+      "fiea-operator",
+      "sbi"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx",
+      "https://www.sbiam.co.jp/gaiyo/gaiyo_gai.html",
+      "https://www.sbigroup.co.jp/company/group/"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against SBI証券 (SBI Securities) for peer / contrast context and securities index for the broader system / regulatory boundary.",
+  "headings": [
+    "SBIアセットマネジメント",
+    "Wiki route",
+    "TL;DR",
+    "1. 法人・ライセンス境界",
+    "2. Business role",
+    "3. Why standalone page matters",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 7,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "asset-managers/nomura-asset-management",
+      "megabanks/sbi-hd",
+      "securities-firms/sbi-fx-trade",
+      "securities-firms/sbi-securities",
+      "securities/INDEX",
+      "securities/nisa-2024-flow"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/asset-managers/nomura-asset-management",
+      "https://finwiki.zksc.io/megabanks/sbi-hd",
+      "https://finwiki.zksc.io/securities-firms/sbi-fx-trade",
+      "https://finwiki.zksc.io/securities-firms/sbi-securities",
+      "https://finwiki.zksc.io/securities/INDEX",
+      "https://finwiki.zksc.io/securities/nisa-2024-flow"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 1731,
+    "word_like_tokens": 261,
+    "inbound_wikilinks_count": 10,
+    "last_modified": "2026-06-04"
+  }
+}

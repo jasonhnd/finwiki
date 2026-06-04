@@ -27,7 +27,7 @@ This entry sits under [[real-estate-finance/INDEX|real-estate-finance index]] as
 | Ticker | TSE Prime **8802** |
 | Domain | Office leasing (Marunouchi cluster), residential, retail, logistics, hotel, overseas, asset management |
 | Headquarters | Tokyo, Chiyoda-ku, Marunouchi |
-| Group association | Mitsubishi group — historical association with [[JapanFG/mitsubishi-corp|Mitsubishi Corporation]] and the broader Mitsubishi keiretsu through cross-shareholding, though Mitsubishi Estate is a separately listed and corporately distinct entity. |
+| Group association | Mitsubishi group — historical association with [[financial-conglomerates/mitsubishi-corp|Mitsubishi Corporation]] and the broader Mitsubishi keiretsu through cross-shareholding, though Mitsubishi Estate is a separately listed and corporately distinct entity. |
 | Reporting standard | JGAAP (IFRS-equivalent disclosures in IR materials) |
 | Credit rating | Top-tier domestic investment-grade (high A range) by R&I and JCR; investment-grade international (S&P / Moody's) |
 | Key segments | Office leasing (Marunouchi-centric), commercial property development, residential (ParkAxis / The Parkhouse), overseas (US, UK, Asia), hotels (Royal Park), asset management |
@@ -64,7 +64,7 @@ Megabank syndicates lead Mitsubishi Estate's large-scale construction financing 
 
 - **MUFG Bank** — historical primary banking relationship via the Mitsubishi group.
 - **SMBC** and **Mizuho Bank** — co-arrangers in syndicated facilities.
-- **[[JapanFG/mitsubishi-ufj-trust-bank|MUFJ Trust]]** and **[[JapanFG/sumitomo-mitsui-trust|SMTB]]** — trust-bank lenders and project-finance arrangers.
+- **[[trust-banks/mitsubishi-ufj-trust-bank|MUFJ Trust]]** and **[[trust-banks/sumitomo-mitsui-trust|SMTB]]** — trust-bank lenders and project-finance arrangers.
 - **Life insurers** — large-ticket private placement / direct lending in some facilities.
 
 See [[real-estate-finance/bank-commercial-real-estate-lending-japan|bank CRE lending Japan]] for the broader lender architecture.
@@ -219,9 +219,9 @@ The trend across Japanese corporates is to **reduce cross-shareholding** under F
 - [[real-estate-finance/bank-commercial-real-estate-lending-japan|bank CRE lending Japan]]
 - [[real-estate-finance/real-estate-cap-rate-compression-2026|cap-rate compression 2026]]
 - [[derivatives/yen-basis-swap-market|JPY-USD basis swap]]
-- [[JapanFG/mitsubishi-corp|Mitsubishi Corporation]]
-- [[JapanFG/mitsubishi-ufj-trust-bank|MUFJ Trust]]
-- [[JapanFG/sumitomo-mitsui-trust|SMTB]]
+- [[financial-conglomerates/mitsubishi-corp|Mitsubishi Corporation]]
+- [[trust-banks/mitsubishi-ufj-trust-bank|MUFJ Trust]]
+- [[trust-banks/sumitomo-mitsui-trust|SMTB]]
 - [[business/INDEX|business INDEX]]
 - [[corporate-strategy/INDEX|corporate-strategy INDEX]]
 - [[INDEX|FinWiki index]]

@@ -16,14 +16,14 @@ translated_at: 2026-06-01T04:15:40.131Z
 
 ## TL;DR
 
-Progmat 是由 Progmat Inc.（株式会社Progmat）运营的日本代币化平台，从与 [[JapanFG/mizuho-fg|Mizuho]] 相邻、由 MUFG 主导的信托银行代币化工作中拆分出来（核心 Progmat ST 基础设施最初位于 [[JapanFG/mitsubishi-ufj-trust-bank|Mitsubishi UFJ Trust and Banking]] 内部，之后成为由多家银行股东参与的独立公司）。它为代币化信托受益权（ST）、代币化存款 / stablecoin（Progmat Coin / Progmat UT）以及随后在 [[securities/osaka-digital-exchange|Osaka Digital Exchange]] START 二级市场交易的 security tokens 提供发行和生命周期基础设施。Progmat 公开材料披露了国内市场中显著的 ST 累计发行余额，其中 Progmat 经手案例占多数份额。竞争平台包括 BOOSTRY（由 Nomura 主导，也定位为支持 ST 发行）和 ibet for FIN（consortium platform）。这三者共同构成日本 ST 发行平台三角，位于 [[securities/japan-security-token-secondary-market-route|ST secondary market routes]] 的 ST 发行人侧背后。
+Progmat 是由 Progmat Inc.（株式会社Progmat）运营的日本代币化平台，从与 [[megabanks/mizuho-fg|Mizuho]] 相邻、由 MUFG 主导的信托银行代币化工作中拆分出来（核心 Progmat ST 基础设施最初位于 [[trust-banks/mitsubishi-ufj-trust-bank|Mitsubishi UFJ Trust and Banking]] 内部，之后成为由多家银行股东参与的独立公司）。它为代币化信托受益权（ST）、代币化存款 / stablecoin（Progmat Coin / Progmat UT）以及随后在 [[securities/osaka-digital-exchange|Osaka Digital Exchange]] START 二级市场交易的 security tokens 提供发行和生命周期基础设施。Progmat 公开材料披露了国内市场中显著的 ST 累计发行余额，其中 Progmat 经手案例占多数份额。竞争平台包括 BOOSTRY（由 Nomura 主导，也定位为支持 ST 发行）和 ibet for FIN（consortium platform）。这三者共同构成日本 ST 发行平台三角，位于 [[securities/japan-security-token-secondary-market-route|ST secondary market routes]] 的 ST 发行人侧背后。
 
 ## Platform identity
 
 | 字段 | 公开解读 |
 |---|---|
 | 运营主体 | 株式会社Progmat（Progmat Inc.） |
-| 起源 | 从 [[JapanFG/mitsubishi-ufj-trust-bank|Mitsubishi UFJ Trust and Banking]] 代币化工作中拆分出来；转型为拥有更广泛银行 / 证券公司股东的独立公司。 |
+| 起源 | 从 [[trust-banks/mitsubishi-ufj-trust-bank|Mitsubishi UFJ Trust and Banking]] 代币化工作中拆分出来；转型为拥有更广泛银行 / 证券公司股东的独立公司。 |
 | 股东谱系 | MUFG 集团实体作为锚点；根据轮次，还包括其他日本 mega-bank、信托银行、证券公司和 IT 平台股东。当前 cap table 需按 Progmat IR / news 核验。 |
 | 平台产品 | Progmat（ST — security-token 发行 / 生命周期）；Progmat Coin（SC — stablecoin / tokenized deposit）；Progmat UT（utility token）。 |
 | 底层技术 | 基于 DLT 的代币化，并整合信托银行托管；具体链选择和版本会演进。 |
@@ -75,7 +75,7 @@ Progmat Coin（stablecoin / tokenized-deposit 产品层）在公开描述中是 
 | 平台 | 运营主体 | 锚点 / 谱系 | 取向 |
 |---|---|---|---|
 | Progmat | Progmat Inc. | MUFG 集团起源；多家银行股东 | 信托受益权 ST + Progmat Coin / SC 整合；银行主导生态系统。 |
-| BOOSTRY | BOOSTRY Co., Ltd. | [[JapanFG/nomura-hd|Nomura HD]] / [[JapanFG/japan-exchange-group|JPX]] / SBI / 其他方已在多轮中公开投资 | 证券公司主导生态系统；历史上聚焦公司债和数字债；ibet network operator。 |
+| BOOSTRY | BOOSTRY Co., Ltd. | [[securities-firms/nomura-hd|Nomura HD]] / [[financial-regulators/japan-exchange-group|JPX]] / SBI / 其他方已在多轮中公开投资 | 证券公司主导生态系统；历史上聚焦公司债和数字债；ibet network operator。 |
 | ibet for FIN | Consortium platform，与 BOOSTRY 协同运营 | 多家公司 consortium | 将 ST 记账定位为 sector utility，并有广泛金融行业参与。 |
 
 具体竞争特征（可能变化）：
@@ -157,11 +157,11 @@ Progmat Coin（stablecoin / tokenized-deposit 产品层）在公开描述中是 
 - [[securities/tokyo-stock-exchange]]
 - [[securities/financial-instruments-business-operators-japan-index]]
 - [[securities/japan-asset-manager-landscape-matrix]]
-- [[JapanFG/progmat]]
-- [[JapanFG/nomura-hd]]
-- [[JapanFG/sbi-hd]]
-- [[JapanFG/jsda]]
-- [[JapanFG/japan-exchange-group]]
+- [[payment-firms/progmat]]
+- [[securities-firms/nomura-hd]]
+- [[megabanks/sbi-hd]]
+- [[financial-regulators/jsda]]
+- [[financial-regulators/japan-exchange-group]]
 - [[fintech/jp-stablecoin-progmat]]
 - [[INDEX|FinWiki index]]
 

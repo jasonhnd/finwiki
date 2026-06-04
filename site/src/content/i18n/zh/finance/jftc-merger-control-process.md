@@ -14,7 +14,7 @@ translated_at: 2026-05-31T06:16:15.701Z
 
 公正取引委員会（JFTC）企业结合审查是与 [[finance/japan-tender-offer-process|FIEA tender offer route]] 并行的反垄断审查关口：任何跨越国内营业额门槛的控制权交易，须依据《禁止私的独占及确保公正交易法》（独禁法，AMA）向 JFTC **事先申报**，并在完成前取得核准。该程序属于 [[finance/INDEX|finance]] 的范畴，因为它是 [[finance/cross-border-m-a-japan|cross-border M&A in Japan]] 及 [[finance/japan-acquisition-finance|acquisition-financed]] 类交易的主要监管否决权。
 
-请结合 [[finance/japan-mbo-and-squeeze-out-process|MBO and squeeze-out process]]、[[finance/japan-activist-investor-playbook|activist playbook]]、[[finance/japan-leveraged-buyout-economics|Japan LBO economics]]、[[JapanFG/legal-financial-licenses/securities-license-stack|securities license stack]] 及整体路由用的 [[INDEX|FinWiki index]] 阅读本页面。
+请结合 [[finance/japan-mbo-and-squeeze-out-process|MBO and squeeze-out process]]、[[finance/japan-activist-investor-playbook|activist playbook]]、[[finance/japan-leveraged-buyout-economics|Japan LBO economics]]、[[financial-licenses/securities-license-stack|securities license stack]] 及整体路由用的 [[INDEX|FinWiki index]] 阅读本页面。
 
 ## 申报门槛（2010  修订后）
 
@@ -73,7 +73,7 @@ translated_at: 2026-05-31T06:16:15.701Z
 2. 如已公开，调取申报前商谈摘要。
 3. 对照 [[finance/japan-tender-offer-process|TOB timeline]] 梳理申报日期—— JFTC 核准通常是公开收购的先决条件。
 4. 阅读 JFTC 年报，了解当年度执法重点及第二阶段比率。
-5. 确认该交易是否还需要 [[JapanFG/legal-financial-licenses/securities-license-stack|sector-license]] 批准（银行、电信、能源）。
+5. 确认该交易是否还需要 [[financial-licenses/securities-license-stack|sector-license]] 批准（银行、电信、能源）。
 
 ## Related
 
@@ -85,7 +85,7 @@ translated_at: 2026-05-31T06:16:15.701Z
 - [[finance/japan-leveraged-buyout-economics]]
 - [[finance/japan-activist-investor-playbook]]
 - [[finance/japan-fair-disclosure-and-insider-trading-controls]]
-- [[JapanFG/legal-financial-licenses/securities-license-stack]]
+- [[financial-licenses/securities-license-stack]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

@@ -14,7 +14,7 @@ translated_at: 2026-05-31T06:16:15.691Z
 
 Japan TOB analysis is a disclosure-control workflow: tender offer trigger, public notice, tender offer statement, target company opinion, amendments, EDINET statutory filing, TDnet timely disclosure, large-shareholding reports, settlement, and squeeze-out / delisting route. It belongs in [[finance/INDEX|finance]] because it is a public-company control-transaction process, not only a trading rule.
 
-Use this page with [[finance/cross-border-m-a-japan|cross-border M&A Japan]], [[finance/japan-acquisition-finance|Japan acquisition finance]], [[finance/japan-activist-investor-playbook|Japan activist investor playbook]], [[securities/tokyo-stock-exchange|Tokyo Stock Exchange]], [[JapanFG/legal-financial-licenses/securities-license-stack|securities license stack]], [[securities/japan-underwriting-market-structure|underwriting market structure]], [[JapanFG/sbi-hd|SBI HD]], and [[JapanFG/sbi-shinsei-bank|SBI Shinsei Bank]].
+Use this page with [[finance/cross-border-m-a-japan|cross-border M&A Japan]], [[finance/japan-acquisition-finance|Japan acquisition finance]], [[finance/japan-activist-investor-playbook|Japan activist investor playbook]], [[securities/tokyo-stock-exchange|Tokyo Stock Exchange]], [[financial-licenses/securities-license-stack|securities license stack]], [[securities/japan-underwriting-market-structure|underwriting market structure]], [[megabanks/sbi-hd|SBI HD]], and [[regional-banks/sbi-shinsei-bank|SBI Shinsei Bank]].
 
 ## Process Map
 
@@ -57,10 +57,10 @@ Read large-shareholding reports together with [[finance/cross-border-m-a-japan|M
 
 ## JapanFG Relevance
 
-- [[JapanFG/sbi-hd|SBI HD]] / [[JapanFG/sbi-shinsei-bank|SBI Shinsei Bank]] are useful historical anchors for bank-control and public TOB analysis.
-- [[JapanFG/sony-fg|Sony FG]], [[JapanFG/wealthnavi|WealthNavi]], and other listed finance / fintech cases may need TOB / squeeze-out reading when control changes.
-- [[JapanFG/smbc-nikko|SMBC Nikko]], [[JapanFG/mufg-mums|MUMSS]], [[JapanFG/nomura-hd|Nomura]], and [[JapanFG/daiwa-sg|Daiwa Securities Group]] matter as tender-offer agents, financial advisers, underwriters, or fairness-advice participants.
-- [[JapanFG/legal-financial-licenses/securities-license-stack|Securities license stack]] is needed when a party is acting as securities firm, tender-offer agent, or financial adviser.
+- [[megabanks/sbi-hd|SBI HD]] / [[regional-banks/sbi-shinsei-bank|SBI Shinsei Bank]] are useful historical anchors for bank-control and public TOB analysis.
+- [[megabanks/sony-fg|Sony FG]], [[payment-firms/wealthnavi|WealthNavi]], and other listed finance / fintech cases may need TOB / squeeze-out reading when control changes.
+- [[securities-firms/smbc-nikko|SMBC Nikko]], [[securities-firms/mufg-mums|MUMSS]], [[securities-firms/nomura-hd|Nomura]], and [[securities-firms/daiwa-sg|Daiwa Securities Group]] matter as tender-offer agents, financial advisers, underwriters, or fairness-advice participants.
+- [[financial-licenses/securities-license-stack|Securities license stack]] is needed when a party is acting as securities firm, tender-offer agent, or financial adviser.
 
 ## Research Checklist
 
@@ -79,11 +79,11 @@ Read large-shareholding reports together with [[finance/cross-border-m-a-japan|M
 - [[finance/japan-activist-investor-playbook]]
 - [[securities/tokyo-stock-exchange]]
 - [[securities/japan-underwriting-market-structure]]
-- [[JapanFG/legal-financial-licenses/securities-license-stack]]
-- [[JapanFG/sbi-hd]]
-- [[JapanFG/sbi-shinsei-bank]]
-- [[JapanFG/nomura-hd]]
-- [[JapanFG/daiwa-sg]]
+- [[financial-licenses/securities-license-stack]]
+- [[megabanks/sbi-hd]]
+- [[regional-banks/sbi-shinsei-bank]]
+- [[securities-firms/nomura-hd]]
+- [[securities-firms/daiwa-sg]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

@@ -19,7 +19,7 @@ translated_at: 2026-05-31T03:19:56.495Z
 3. **并购公告前保护** —— 收购方与标的董事会有时围绕拟议交易，与交易商银行构建要约前看涨期权、领子安排或大宗交易对冲，受 FIEA 内幕交易约束；
 4. **库存股回购计划对冲** —— 执行大规模股票回购计划的企业，与交易商银行对手方使用加速股票回购（ASR）变体、方差互换叠加（overlay）和期权领子结构。
 
-这一股票-企业-对冲资金流**另一侧的交易商业务**，在国内企业覆盖方面集中于巨型银行的证券子公司（[[JapanFG/nomura-hd|Nomura]]、[[JapanFG/daiwa-sg|Daiwa]]、[[JapanFG/smbc-nikko|SMBC Nikko]]、[[JapanFG/mizuho-securities|Mizuho Securities]]），在跨境与结构化产品能力方面集中于全球投行（[[JapanFG/goldman-sachs-japan|GS Japan]]、[[JapanFG/morgan-stanley-japan|MS Japan]]、[[JapanFG/jpmorgan-japan|JPM Japan]]、[[JapanFG/citigroup-japan|Citi Japan]]）。这是日本 [[derivatives/dealer-bank-derivatives-revenue-mix|dealer-bank derivatives revenue mix]] 的股票衍生品终端用户支柱。
+这一股票-企业-对冲资金流**另一侧的交易商业务**，在国内企业覆盖方面集中于巨型银行的证券子公司（[[securities-firms/nomura-hd|Nomura]]、[[securities-firms/daiwa-sg|Daiwa]]、[[securities-firms/smbc-nikko|SMBC Nikko]]、[[securities-firms/mizuho-securities|Mizuho Securities]]），在跨境与结构化产品能力方面集中于全球投行（[[securities-firms/goldman-sachs-japan|GS Japan]]、[[securities-firms/morgan-stanley-japan|MS Japan]]、[[foreign-financial-institutions/jpmorgan-japan|JPM Japan]]、[[foreign-financial-institutions/citigroup-japan|Citi Japan]]）。这是日本 [[derivatives/dealer-bank-derivatives-revenue-mix|dealer-bank derivatives revenue mix]] 的股票衍生品终端用户支柱。
 
 本条目涵盖四种企业用例、各用例所用的 OTC 工具集、交易商业务经济、监管边界（内幕交易、大额持股披露、库存股规则），以及该细分领域相较美国企业股票衍生品对冲为何仍**规模更小、更依赖交易商中介**的结构性原因。
 
@@ -31,7 +31,7 @@ translated_at: 2026-05-31T03:19:56.495Z
 
 日本企业承担着美欧同行不会以同等程度承担的**结构上独具特色**的股票波动率敞口：
 
-- **交叉持股** —— 日本上市非金融企业整体持有大量对商业伙伴（供应商、客户、银行关系对手方）的资产负债表股权头寸。在会计规则下，这些头寸通过其他综合收益（OCI）按市值计价，对资本和盈利有影响。当前长达十年的 [[finance/japan-cross-shareholding-unwinding-economics|cross-shareholding unwinding]] 周期 —— 由 [[JapanFG/japan-exchange-group|JPX]] 公司治理准则修订和 FSA 披露压力驱动 —— 形成了持续的结构性股票卖出资金流，企业常希望对冲其期内波动；
+- **交叉持股** —— 日本上市非金融企业整体持有大量对商业伙伴（供应商、客户、银行关系对手方）的资产负债表股权头寸。在会计规则下，这些头寸通过其他综合收益（OCI）按市值计价，对资本和盈利有影响。当前长达十年的 [[finance/japan-cross-shareholding-unwinding-economics|cross-shareholding unwinding]] 周期 —— 由 [[financial-regulators/japan-exchange-group|JPX]] 公司治理准则修订和 FSA 披露压力驱动 —— 形成了持续的结构性股票卖出资金流，企业常希望对冲其期内波动；
 - **ESO 会计** —— 许多日本上市企业有重大的 ESO 和股权挂钩留任计划；会计规则下授予时的期权公允价值**对波动率输入敏感**，部分财资负责人进行双边对冲；
 - **大规模回购计划** —— 日本企业资产负债表持有历史性高位的现金头寸；公司治理压力推动了回购计划加速，多家超大市值公司宣布了数万亿日元规模的多年回购计划；在不造成市场冲击和价格滑点的情况下大规模执行这些计划是一项结构性衍生品用例；
 - **东证主板（TSE-Prime）规模的并购活动** —— 从事 [[finance/cross-border-m-a-japan|cross-border M&A]] 以及国内 [[finance/japan-tender-offer-process|tender offer]] / [[finance/japan-mbo-and-squeeze-out-process|MBO]] 交易的大型日本企业，有时会使用公告前股票衍生品头寸，受严格的内幕交易和大额持股披露约束。
@@ -44,7 +44,7 @@ translated_at: 2026-05-31T03:19:56.495Z
 
 - 该组合**通过 OCI（其他综合收益）按市值计价**，其变动流经权益但通常不计入损益（P&L）；
 - 对银行和保险公司而言，按市值计价的变动影响**监管资本**（巴塞尔框架下银行的 CET1 ；ICS / J-SAM 下保险公司的风险权益）；
-- 在 [[JapanFG/japan-exchange-group|TSE corporate governance code]] 修订下，上市企业必须解释每项超过阈值的交叉持股的合理性，并展示削减进展；
+- 在 [[financial-regulators/japan-exchange-group|TSE corporate governance code]] 修订下，上市企业必须解释每项超过阈值的交叉持股的合理性，并展示削减进展；
 - 东证主板"PBR > 1"压力以及更广泛的公司治理改革浪潮，形成了交叉持股的**持续结构性卖出资金流**。
 
 ### 对冲问题
@@ -107,7 +107,7 @@ OTC 交易商通过**交易商的 [[derivatives/dealer-bank-derivatives-revenue-
 
 ### 监管边界
 
-ESO 对冲计划与**[[finance/japan-listed-financial-groups-investable-universe|Companies Act]] 下的库存股规则**（上限 / 自己株式取得規制）、FSA 披露制度，以及 [[JapanFG/japan-exchange-group|JPX]] 公司治理准则相互作用。大多数企业通过正式董事会批准的回购计划执行 ESO 相关对冲，而非临时性衍生品交易。
+ESO 对冲计划与**[[finance/japan-listed-financial-groups-investable-universe|Companies Act]] 下的库存股规则**（上限 / 自己株式取得規制）、FSA 披露制度，以及 [[financial-regulators/japan-exchange-group|JPX]] 公司治理准则相互作用。大多数企业通过正式董事会批准的回购计划执行 ESO 相关对冲，而非临时性衍生品交易。
 
 ### 敞口
 
@@ -170,14 +170,14 @@ ESO 对冲计划与**[[finance/japan-listed-financial-groups-investable-universe
 
 | 交易商 | 在企业股票 OTC 期权上的优势 |
 |---|---|
-| **[[JapanFG/nomura-hd|Nomura]]** | 最大的国内企业覆盖业务；最深的单一名称期权账簿；交叉持股解除资金流的主导地位。 |
-| **[[JapanFG/daiwa-sg|Daiwa SG]]** | 第二梯队国内企业覆盖；有竞争力的结构化产品业务。 |
-| **[[JapanFG/smbc-nikko|SMBC Nikko]]** | 巨型银行系；通过 SMBC 银行关系形成企业覆盖优势；集团交叉持股资金流渠道。 |
-| **[[JapanFG/mizuho-securities|Mizuho Securities]]** | 巨型银行系；通过瑞穗（Mizuho）银行与信托整合形成企业覆盖；与第一生命（Dai-ichi Life）相邻。 |
-| **[[JapanFG/goldman-sachs-japan|GS Japan]]** | 第 1 梯队全球投行；最深的跨境并购与结构化股票能力。 |
-| **[[JapanFG/morgan-stanley-japan|MS Japan / MUMSS]]** | 第 1 梯队全球投行 + MUFG 合资；双渠道企业覆盖。 |
-| **[[JapanFG/jpmorgan-japan|JPM Japan]]** | 第 1 梯队全球投行；银行账簿 + 证券能力。 |
-| **[[JapanFG/citigroup-japan|Citi Japan]]** | 第 1 梯队全球投行；与外汇主经纪（FX-prime）相邻，对跨境并购尤为有价值。 |
+| **[[securities-firms/nomura-hd|Nomura]]** | 最大的国内企业覆盖业务；最深的单一名称期权账簿；交叉持股解除资金流的主导地位。 |
+| **[[securities-firms/daiwa-sg|Daiwa SG]]** | 第二梯队国内企业覆盖；有竞争力的结构化产品业务。 |
+| **[[securities-firms/smbc-nikko|SMBC Nikko]]** | 巨型银行系；通过 SMBC 银行关系形成企业覆盖优势；集团交叉持股资金流渠道。 |
+| **[[securities-firms/mizuho-securities|Mizuho Securities]]** | 巨型银行系；通过瑞穗（Mizuho）银行与信托整合形成企业覆盖；与第一生命（Dai-ichi Life）相邻。 |
+| **[[securities-firms/goldman-sachs-japan|GS Japan]]** | 第 1 梯队全球投行；最深的跨境并购与结构化股票能力。 |
+| **[[securities-firms/morgan-stanley-japan|MS Japan / MUMSS]]** | 第 1 梯队全球投行 + MUFG 合资；双渠道企业覆盖。 |
+| **[[foreign-financial-institutions/jpmorgan-japan|JPM Japan]]** | 第 1 梯队全球投行；银行账簿 + 证券能力。 |
+| **[[foreign-financial-institutions/citigroup-japan|Citi Japan]]** | 第 1 梯队全球投行；与外汇主经纪（FX-prime）相邻，对跨境并购尤为有价值。 |
 
 结构性格局：**国内企业交叉持股与回购资金流**集中于巨型银行证券子公司；**跨境并购与复杂结构化股票**集中于全球投行；交易商侧的 OTC 股票期权账簿主要通过挂牌的 [[securities/osaka-exchange|OSE]] 日经 225 期权、单一名称挂牌期权、底层 [[securities/tokyo-stock-exchange|TSE]] 现货市场，以及用于 Delta 对冲的 [[securities/japan-stock-lending-market-route|stock-loan market]] 进行对冲。
 
@@ -203,15 +203,15 @@ ESO 对冲计划与**[[finance/japan-listed-financial-groups-investable-universe
 - [[finance/japan-mbo-and-squeeze-out-process]]
 - [[finance/cross-border-m-a-japan]]
 - [[finance/japan-listed-financial-groups-investable-universe]]
-- [[JapanFG/japan-exchange-group]]
-- [[JapanFG/nomura-hd]]
-- [[JapanFG/daiwa-sg]]
-- [[JapanFG/smbc-nikko]]
-- [[JapanFG/mizuho-securities]]
-- [[JapanFG/goldman-sachs-japan]]
-- [[JapanFG/morgan-stanley-japan]]
-- [[JapanFG/jpmorgan-japan]]
-- [[JapanFG/citigroup-japan]]
+- [[financial-regulators/japan-exchange-group]]
+- [[securities-firms/nomura-hd]]
+- [[securities-firms/daiwa-sg]]
+- [[securities-firms/smbc-nikko]]
+- [[securities-firms/mizuho-securities]]
+- [[securities-firms/goldman-sachs-japan]]
+- [[securities-firms/morgan-stanley-japan]]
+- [[foreign-financial-institutions/jpmorgan-japan]]
+- [[foreign-financial-institutions/citigroup-japan]]
 - [[INDEX|FinWiki index]]
 
 ## 来源

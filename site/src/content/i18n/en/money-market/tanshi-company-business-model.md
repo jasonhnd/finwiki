@@ -12,13 +12,13 @@ translated_at: 2026-05-30T14:13:23.432Z
 
 ## Wiki route
 
-This entry sits under [[money-market/INDEX|money-market index]]. Read it against [[money-market/call-market-structure|call market structure]] for the peer / contrast surface where tanshi brokerage actually happens, and against [[money-market/boj-open-market-operations|BoJ open market operations]] for the broader system / regulatory boundary where tanshi flows interact with central-bank policy implementation. The peer-entity routes are [[JapanFG/tokyo-tanshi]], [[JapanFG/central-tanshi]], and [[JapanFG/ueda-yagi-tanshi]].
+This entry sits under [[money-market/INDEX|money-market index]]. Read it against [[money-market/call-market-structure|call market structure]] for the peer / contrast surface where tanshi brokerage actually happens, and against [[money-market/boj-open-market-operations|BoJ open market operations]] for the broader system / regulatory boundary where tanshi flows interact with central-bank policy implementation. The peer-entity routes are [[financial-regulators/tokyo-tanshi]], [[financial-regulators/central-tanshi]], and [[financial-regulators/ueda-yagi-tanshi]].
 
 ## TL;DR
 
 Tanshi (短資) companies are Japan's specialist money-market brokers. They sit between banks, securities firms, trust banks, insurers, and other eligible financial institutions, and intermediate short-term yen funding — primarily uncollateralized call transactions, JGB / general-collateral repo, T-bill (国庫短期証券) brokerage, and securities financing. Three firms remain after decades of consolidation: 東京短資 (Tokyo Tanshi), セントラル短資 (Central Tanshi), and 上田八木短資 (Ueda Yagi Tanshi). All three are commission-based intermediaries — by design they do not run proprietary directional positions — and all three operate adjacent to the Bank of Japan's market-operations counterparty universe, which is why they show up repeatedly in pages such as [[money-market/japan-money-market|Japan money market]] and [[money-market/jgb-repo-market-japan|JGB repo market in Japan]].
 
-For FinWiki, this page is the business-model layer beneath [[JapanFG/boj-monetary-policy]] and the three peer pages above.
+For FinWiki, this page is the business-model layer beneath [[financial-regulators/boj-monetary-policy]] and the three peer pages above.
 
 ## What Tanshi Do
 
@@ -28,7 +28,7 @@ The tanshi role is best described as money-market brokerage with adjacent market
 |---|---|---|
 | Call market intermediation | Match overnight and term, uncollateralized and collateralized, call lenders and borrowers across the interbank network. | [[money-market/call-market-structure]] |
 | JGB / GC repo intermediation | Broker secured short-term funding against JGB collateral; sit alongside dealer-to-dealer and dealer-to-buyside flows. | [[money-market/jgb-repo-market-japan]] |
-| T-bill brokerage | Intermediate Treasury Discount Bill (国庫短期証券) flows between investors and dealers. | [[JapanFG/local-bond-market]] |
+| T-bill brokerage | Intermediate Treasury Discount Bill (国庫短期証券) flows between investors and dealers. | [[financial-regulators/local-bond-market]] |
 | Securities financing | Broker securities lending / borrowing transactions, including cash-collateralized SBL adjacent to repo. | [[money-market/jgb-repo-market-japan]] |
 | Market-information services | Provide reference rates, daily commentary, and screen / chat-based price discovery to subscribers. | (vendor-specific) |
 | Adjacency to BoJ operations | Stand near the BoJ's operation counterparty universe and provide read-through on call-rate and repo conditions. | [[money-market/boj-open-market-operations]] |
@@ -41,9 +41,9 @@ After decades of consolidation, three tanshi companies remain. Their core broker
 
 | Firm | FinWiki entity | Lineage / positioning |
 |---|---|---|
-| 東京短資 (Tokyo Tanshi) | [[JapanFG/tokyo-tanshi]] | Long-established Tokyo money-market broker, historically the largest of the three by call-market presence; serves the full short-rate / repo / T-bill stack. |
-| セントラル短資 (Central Tanshi) | [[JapanFG/central-tanshi]] | Money-market broker with a sister entity in the FX margin / retail-flow space (セントラル短資FX), giving the group a broader public-facing footprint than pure interbank tanshi peers. |
-| 上田八木短資 (Ueda Yagi Tanshi) | [[JapanFG/ueda-yagi-tanshi]] | Result of the Ueda Tanshi / Yagi Tanshi merger; part of the wider Ueda group, with corporate adjacencies into bullion / precious metals (Ueda Harlow / Ueda Bullion) and into other broking lines. |
+| 東京短資 (Tokyo Tanshi) | [[financial-regulators/tokyo-tanshi]] | Long-established Tokyo money-market broker, historically the largest of the three by call-market presence; serves the full short-rate / repo / T-bill stack. |
+| セントラル短資 (Central Tanshi) | [[financial-regulators/central-tanshi]] | Money-market broker with a sister entity in the FX margin / retail-flow space (セントラル短資FX), giving the group a broader public-facing footprint than pure interbank tanshi peers. |
+| 上田八木短資 (Ueda Yagi Tanshi) | [[financial-regulators/ueda-yagi-tanshi]] | Result of the Ueda Tanshi / Yagi Tanshi merger; part of the wider Ueda group, with corporate adjacencies into bullion / precious metals (Ueda Harlow / Ueda Bullion) and into other broking lines. |
 
 Each company's own corporate site (tokyotanshi.co.jp, central-tanshi.com, ueda-net.co.jp/yagi/) is the right starting source for current product menus and group structure. The exact league-table ranking among the three changes year to year and should not be asserted from secondary sources without checking each firm's "会社案内" / "事業案内" pages.
 
@@ -53,7 +53,7 @@ Tanshi companies are not the only conduit between the BoJ and the market — the
 
 - **Brokered price discovery**: when the BoJ supplies or absorbs funds, the resulting reserve-balance and call-rate effects propagate through brokered call quotes that tanshi screens publish, which is one of the channels through which the broader market reads operation results.
 - **Counterparty / signal adjacency**: tanshi firms have historically appeared as counterparties for certain BoJ funds-supplying and funds-absorbing operations and as eligible participants in the operational infrastructure around them. The current eligible-counterparty lists are maintained on the BoJ's "Money Market" / market operations pages and should be checked directly rather than inferred.
-- **Transmission for normalization**: post-March-2024, as the [[JapanFG/boj-monetary-policy|BoJ monetary policy]] framework shifted away from negative rates and YCC, the uncollateralized overnight call market regained meaning as an observable transmission surface. Tanshi brokerage flows are part of how that surface is observed in practice.
+- **Transmission for normalization**: post-March-2024, as the [[financial-regulators/boj-monetary-policy|BoJ monetary policy]] framework shifted away from negative rates and YCC, the uncollateralized overnight call market regained meaning as an observable transmission surface. Tanshi brokerage flows are part of how that surface is observed in practice.
 
 In short, tanshi sit one step away from policy implementation: not the institutions setting the rate, but the institutions whose brokered prints and screens make the rate visible.
 
@@ -82,7 +82,7 @@ Tanshi companies are private-sector financial firms regulated under Japan's fina
 - They are subject to the FSA's supervision over financial instruments businesses, and to BoJ rules where they interact with central-bank operations or settlement systems.
 - They do not take retail deposits and are not banks under the Banking Act. They are not deposit insurance institutions.
 
-The route page for FinWiki's license taxonomy is [[JapanFG/legal-financial-licenses/INDEX]]; the policy-framework route is [[JapanFG/boj-monetary-policy]].
+The route page for FinWiki's license taxonomy is [[financial-licenses/INDEX]]; the policy-framework route is [[financial-regulators/boj-monetary-policy]].
 
 ## Related
 
@@ -91,11 +91,11 @@ The route page for FinWiki's license taxonomy is [[JapanFG/legal-financial-licen
 - [[money-market/call-market-structure]]
 - [[money-market/jgb-repo-market-japan]]
 - [[money-market/boj-open-market-operations]]
-- [[JapanFG/tokyo-tanshi]]
-- [[JapanFG/central-tanshi]]
-- [[JapanFG/ueda-yagi-tanshi]]
-- [[JapanFG/boj-monetary-policy]]
-- [[JapanFG/legal-financial-licenses/INDEX]]
+- [[financial-regulators/tokyo-tanshi]]
+- [[financial-regulators/central-tanshi]]
+- [[financial-regulators/ueda-yagi-tanshi]]
+- [[financial-regulators/boj-monetary-policy]]
+- [[financial-licenses/INDEX]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

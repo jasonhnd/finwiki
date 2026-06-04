@@ -16,7 +16,7 @@ This entry sits under [[banking/INDEX|banking index]]. Read it against [[banking
 
 ## TL;DR
 
-Japan's BaaS market is not a single "bank API product." It splits into at least four models: API provision, partner branches, banking-agent or white-label account acquisition, and narrow BaaS focused on payments, account transfers, and instant deposits. [[banking/minna-bank-baas-model|Minna Bank]] is the embedded-BaaS case for B2C applications; [[JapanFG/gmo-aozora-net|GMO Aozora Net Bank]] is closer to corporate API and embedded finance; [[JapanFG/ssnb|Sumishin SBI Net Bank]] is best compared through the NEOBANK model.
+Japan's BaaS market is not a single "bank API product." It splits into at least four models: API provision, partner branches, banking-agent or white-label account acquisition, and narrow BaaS focused on payments, account transfers, and instant deposits. [[banking/minna-bank-baas-model|Minna Bank]] is the embedded-BaaS case for B2C applications; [[payment-firms/gmo-aozora-net|GMO Aozora Net Bank]] is closer to corporate API and embedded finance; [[regional-banks/ssnb|Sumishin SBI Net Bank]] is best compared through the NEOBANK model.
 
 ## Landscape map
 
@@ -24,8 +24,8 @@ Japan's BaaS market is not a single "bank API product." It splits into at least 
 |---|---|---|---|
 | API-provided banking | Account information, account transfer, payment instruction | External app UX improvement | Minna Bank API-provision model, [[banking/quick-deposit-four-methods|OAuth quick deposit]] |
 | Partner branch | Branded branch / account experience | Partner brand + banking relationship | [[banking/mercari-bank|Mercari Bank]], pixiv branch, DMM branch |
-| NEOBANK / white-label bank | Bank account opened under partner proposition | Fuller embedded banking | [[JapanFG/ssnb|SSNB]] / NEOBANK type models |
-| Corporate API bank | Business account, payment, transfer, accounting integration | SME / SaaS / platform operation | [[JapanFG/gmo-aozora-net|GMO Aozora Net Bank]] adjacency |
+| NEOBANK / white-label bank | Bank account opened under partner proposition | Fuller embedded banking | [[regional-banks/ssnb|SSNB]] / NEOBANK type models |
+| Corporate API bank | Business account, payment, transfer, accounting integration | SME / SaaS / platform operation | [[payment-firms/gmo-aozora-net|GMO Aozora Net Bank]] adjacency |
 
 ## Strategic read
 
@@ -55,8 +55,8 @@ The 2025-12 Mercari launch is especially important because Mercari has a large w
 - [[banking/mercari-bank]]
 - [[banking/mercari-bank-license-stack]]
 - [[banking/quick-deposit-four-methods]]
-- [[JapanFG/gmo-aozora-net]]
-- [[JapanFG/ssnb]]
+- [[payment-firms/gmo-aozora-net]]
+- [[regional-banks/ssnb]]
 - [[fintech/japan-financial-regulation]]
 
 ## Sources

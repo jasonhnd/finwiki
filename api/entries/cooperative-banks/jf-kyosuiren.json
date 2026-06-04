@@ -1,0 +1,105 @@
+{
+  "schema_version": "1.0",
+  "slug": "cooperative-banks/jf-kyosuiren",
+  "source_path": "cooperative-banks/jf-kyosuiren.md",
+  "url": "https://finwiki.zksc.io/cooperative-banks/jf-kyosuiren",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/cooperative-banks/jf-kyosuiren.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/cooperative-banks/jf-kyosuiren.md",
+  "domain": "cooperative-banks",
+  "title": "JF 共水連 (全国共済水産業協同組合連合会 / Kyosuiren)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "JF 共水連 (全国共済水産業協同組合連合会 / Kyosuiren)",
+    "aliases": [
+      "JF-Kyosuiren",
+      "JF共水連",
+      "共水連",
+      "全国共済水産業協同組合連合会",
+      "Kyosuiren",
+      "JF Kyosai",
+      "全水共"
+    ],
+    "domain": "cooperative-banks",
+    "created": "2026-05-25",
+    "last_updated": "2026-05-25",
+    "last_tended": "2026-05-25",
+    "review_by": "2026-11-21",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "jf-group",
+      "cooperative-central",
+      "kyosai",
+      "mutual-insurance",
+      "fisheries-insurance",
+      "ja-kyosairen-peer"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.kyosuiren.or.jp/",
+      "https://www.kyosuiren.or.jp/about/kyosuiren/",
+      "https://www.kyosuiren.or.jp/assets/pdf/disclosure/disclosure_2025.pdf",
+      "https://www.jf-kyosai.jp/about/",
+      "https://www.zengyoren.or.jp/",
+      "https://www.jfmbk.org/",
+      "https://www.nochubank.or.jp/about/features.html",
+      "水産業協同組合法 (昭和 23 年法律第 242 号)"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index as the JF Group cooperative-insurance national federation, the JF-side parallel to JA 共済連 in the agricultural cooperative system. Closes the audit gap where JA 共済連 was deeply documented but the JF-side equivalent (JF 共水連) had no anchor. Read with JF 全漁連 (JF グループ代表",
+  "headings": [
+    "JF 共水連 (全国共済水産業協同組合連合会 / Kyosuiren)",
+    "Wiki route",
+    "TL;DR",
+    "1. 組織構造",
+    "共済事業 vs 保険業法 (区別) ^[extracted]",
+    "JF グループ 3 大全国連合会 ^[extracted]",
+    "JA 共済連との対比 ^[extracted / inferred]",
+    "重要年表 ^[extracted / inferred]",
+    "JA 共済連との規模対比",
+    "漁業者組合員特性"
+  ],
+  "body_links": {
+    "wikilinks_count": 14,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "banking/cooperative-banking-japan",
+      "banking/jf-marine-bank-system-japan",
+      "cooperative-banks/ja-kyosairen-fukushima",
+      "cooperative-banks/ja-zen-noh",
+      "cooperative-banks/ja-zenchu",
+      "cooperative-banks/jf-marine-bank-hokkaido",
+      "cooperative-banks/jf-shingyoren",
+      "cooperative-banks/jf-zengyoren",
+      "cooperative-banks/norinchukin",
+      "insurance/INDEX",
+      "insurance/mutual-vs-stock-life-insurer",
+      "non-life-insurers/ja-kyosairen",
+      "non-life-insurers/kyoritsu-fire-marine"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/banking/cooperative-banking-japan",
+      "https://finwiki.zksc.io/banking/jf-marine-bank-system-japan",
+      "https://finwiki.zksc.io/cooperative-banks/ja-kyosairen-fukushima",
+      "https://finwiki.zksc.io/cooperative-banks/ja-zen-noh",
+      "https://finwiki.zksc.io/cooperative-banks/ja-zenchu",
+      "https://finwiki.zksc.io/cooperative-banks/jf-marine-bank-hokkaido",
+      "https://finwiki.zksc.io/cooperative-banks/jf-shingyoren",
+      "https://finwiki.zksc.io/cooperative-banks/jf-zengyoren",
+      "https://finwiki.zksc.io/cooperative-banks/norinchukin",
+      "https://finwiki.zksc.io/insurance/INDEX",
+      "https://finwiki.zksc.io/insurance/mutual-vs-stock-life-insurer",
+      "https://finwiki.zksc.io/non-life-insurers/ja-kyosairen",
+      "https://finwiki.zksc.io/non-life-insurers/kyoritsu-fire-marine"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 6079,
+    "word_like_tokens": 1080,
+    "inbound_wikilinks_count": 1,
+    "last_modified": "2026-06-04"
+  }
+}

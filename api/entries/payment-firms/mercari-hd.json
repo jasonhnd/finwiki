@@ -1,0 +1,101 @@
+{
+  "schema_version": "1.0",
+  "slug": "payment-firms/mercari-hd",
+  "source_path": "payment-firms/mercari-hd.md",
+  "url": "https://finwiki.zksc.io/payment-firms/mercari-hd",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/payment-firms/mercari-hd.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/payment-firms/mercari-hd.md",
+  "domain": "payment-firms",
+  "title": "メルカリ HD（株式会社メルカリ）",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "メルカリ HD（株式会社メルカリ）",
+    "aliases": [
+      "メルカリ",
+      "Mercari",
+      "Mercari Inc.",
+      "メルペイ",
+      "メルコイン",
+      "Merpay",
+      "Mercoin",
+      "メルカード",
+      "4385"
+    ],
+    "domain": "payment-firms",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "ec-fintech",
+      "crypto"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: 株式会社メルカリ (2026-05-19 抽出)",
+      "メルカリ 公式 IR (https://about.mercari.com/ir/) (2026-05-19 抽出)",
+      "FY2025.6 通期決算短信〔IFRS〕（連結）2025-08-05 開示",
+      "FY2025.6 4Q 決算説明資料 2025-08-05 開示",
+      "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250805/20250804529612.pdf",
+      "メルペイ・メルコイン 公式サービス資料"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against マネックスグループ (Monex Group) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "メルカリ HD（株式会社メルカリ）",
+    "Wiki route",
+    "TL;DR",
+    "1. 会社概要",
+    "主要子会社・新規事業",
+    "重要年表",
+    "2. 事業セグメント・マップ",
+    "サービス連携の特徴",
+    "垂直統合戦略",
+    "海外戦略"
+  ],
+  "body_links": {
+    "wikilinks_count": 14,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "au-fh",
+      "banking/INDEX",
+      "banking/mercari-bank-license-stack",
+      "banking/minna-bank-baas-model",
+      "mizuho-fg",
+      "mufg",
+      "ndfg",
+      "payment-firms/merpay",
+      "paypay-fg",
+      "rakuten-fg",
+      "sbi-hd",
+      "securities-firms/monex-group",
+      "smfg"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/au-fh",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/banking/mercari-bank-license-stack",
+      "https://finwiki.zksc.io/banking/minna-bank-baas-model",
+      "https://finwiki.zksc.io/mizuho-fg",
+      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/ndfg",
+      "https://finwiki.zksc.io/payment-firms/merpay",
+      "https://finwiki.zksc.io/paypay-fg",
+      "https://finwiki.zksc.io/rakuten-fg",
+      "https://finwiki.zksc.io/sbi-hd",
+      "https://finwiki.zksc.io/securities-firms/monex-group",
+      "https://finwiki.zksc.io/smfg"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 6350,
+    "word_like_tokens": 1184,
+    "inbound_wikilinks_count": 10,
+    "last_modified": "2026-06-04"
+  }
+}

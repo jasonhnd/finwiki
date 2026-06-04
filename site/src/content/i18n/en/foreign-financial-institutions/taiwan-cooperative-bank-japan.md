@@ -1,0 +1,73 @@
+---
+source: japanfg/taiwan-cooperative-bank-japan
+source_hash: 079c7f512088edcc
+lang: en
+status: machine
+fidelity: ok
+title: "合作金庫商業銀行日本 (Taiwan Cooperative Bank Japan)"
+translated_at: 2026-06-01T02:31:57.121Z
+---
+# 合作金庫商業銀行日本 (Taiwan Cooperative Bank Japan)
+
+## Wiki route
+
+Taiwan Cooperative Bank Japan sits under [[JapanFG/INDEX|JapanFG index]] and is a Taiwan-Japan foreign-bank branch route in [[foreign-financial-institutions/foreign-bank-branches-japan-index|the foreign-bank branch registry]]. Read it with [[foreign-financial-institutions/chang-hwa-bank-japan|Chang Hwa Bank Japan]], [[foreign-financial-institutions/first-commercial-bank-japan|First Commercial Bank Japan]], [[foreign-financial-institutions/taiwan-business-bank-japan|Taiwan Business Bank Japan]], and [[banking/INDEX|banking index]].
+
+Use this page for Taiwan public / cooperative-bank heritage, Taiwan-Japan trade finance, and newer Tokyo Branch build-out questions.
+
+## Overview
+
+Taiwan Cooperative Bank's Tokyo Branch page says the branch was established to support Taiwan-Japan economic and trade relationships and the bank's internationalization strategy. It describes the branch as serving Taiwan enterprises in Japan, Taiwanese entrepreneurs, and companies involved in Japan-Taiwan investment or technical cooperation.
+
+The page is worth standalone treatment because Taiwan Cooperative Bank was one of the six remaining registry-only foreign-bank branch rows and has a clear public strategic rationale for Japan: bilateral trade, overseas service network expansion, and corporate-finance support.
+
+## Entity Boundary
+
+| Item | Reading |
+|---|---|
+| Parent bank | Taiwan Cooperative Bank |
+| Japan branch | Tokyo Branch |
+| Public opening | Tokyo Branch page states formal opening on 2025-10-27. |
+| Main Japan services | Deposits, lending, FX, remittance, trade finance, securities investment in public branch page. |
+| Regulatory route | FSA foreign-bank branch list |
+
+## Business Role Map
+
+| Function | Japan relevance |
+|---|---|
+| Deposits / lending | Local banking base for Taiwan-related business clients. |
+| FX / remittance | Taiwan-Japan settlement and payment route. |
+| Import / export | Public page names export / import operations. |
+| Securities investment | Listed as part of the branch's handled business. |
+| Corporate support | Taiwan enterprises, Taiwanese entrepreneurs, and Japan-Taiwan investment / technology cooperation. |
+
+## Public Context
+
+Taiwan Cooperative Bank completes the Taiwan corridor from older branch incumbents to newer expansion rows. Its public branch explanation is stronger than a bare registry listing because it states why Tokyo matters: Japan-Taiwan trade, investment, technical cooperation, and international network expansion.
+
+FinWiki should keep the page focused on the Tokyo branch and Taiwan-Japan business corridor. Parent-bank systemic-bank status or Taiwan domestic branch network should be used only when sourced and relevant to Japan strategy.
+
+## Research Checklist
+
+1. Use the FSA bank-license workbook for current branch registration.
+2. Use the Tokyo Branch page for services and opening rationale.
+3. Use Taiwan FSC approval release for establishment background when needed.
+4. Verify any specific customer, project, or investment claim separately before adding.
+
+## Related
+
+- [[JapanFG/INDEX]]
+- [[foreign-financial-institutions/foreign-bank-branches-japan-index]]
+- [[foreign-financial-institutions/chang-hwa-bank-japan]]
+- [[foreign-financial-institutions/first-commercial-bank-japan]]
+- [[foreign-financial-institutions/taiwan-business-bank-japan]]
+- [[foreign-financial-institutions/taipei-fubon-bank-japan]]
+- [[financial-licenses/foreign-bank-branch-license-route]]
+- [[finance/cross-border-m-a-japan]]
+- [[INDEX|FinWiki index]]
+
+## Sources
+
+- FSA: bank license list, foreign bank branches.
+- Taiwan Cooperative Bank: Tokyo Branch public profile.
+- Taiwan FSC: approval release for Tokyo Branch application.

@@ -31,7 +31,7 @@ GLP J-REIT 的结构特征基于三个支柱： (i) **保荐人渠道** — GLP 
 |上市日期 |十二月 2012 |
 |资产聚焦 |现代化多租户物流设施——A级仓库|
 |地理焦点 |大东京物流子市场（印西、船桥、草加、厚木、埼玉走廊）和大大阪 |
-|评级 | [[JapanFG/jcr|JCR]] / [[JapanFG/rating-and-investment|R&I]] 投资级 |
+|评级 | [[financial-regulators/jcr|JCR]] / [[financial-regulators/rating-and-investment|R&I]] 投资级 |
 |指数纳入| TSE REIT 指数、TSE REIT 物流指数、GPR / FTSE EPRA Nareit 亚洲发达国家 |
 
 ## 2。赞助平台——GLP

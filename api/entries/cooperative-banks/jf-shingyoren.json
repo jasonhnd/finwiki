@@ -1,0 +1,101 @@
+{
+  "schema_version": "1.0",
+  "slug": "cooperative-banks/jf-shingyoren",
+  "source_path": "cooperative-banks/jf-shingyoren.md",
+  "url": "https://finwiki.zksc.io/cooperative-banks/jf-shingyoren",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/cooperative-banks/jf-shingyoren.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/cooperative-banks/jf-shingyoren.md",
+  "domain": "cooperative-banks",
+  "title": "JF 信漁連 (信用漁業協同組合連合会 / Prefectural Credit Federations of Fishery Cooperatives)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "JF 信漁連 (信用漁業協同組合連合会 / Prefectural Credit Federations of Fishery Cooperatives)",
+    "aliases": [
+      "JF-Shingyoren",
+      "JF信漁連",
+      "信漁連",
+      "信用漁業協同組合連合会",
+      "Prefectural Credit Federation of Fishery Cooperatives",
+      "Shingyoren",
+      "JF Credit Federation"
+    ],
+    "domain": "cooperative-banks",
+    "created": "2026-05-24",
+    "last_updated": "2026-05-24",
+    "last_tended": "2026-05-24",
+    "review_by": "2026-11-20",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "cooperative-central",
+      "jf-group",
+      "prefectural-federation",
+      "fisheries-finance",
+      "jf-marine-bank-system"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.jfmbk.org/",
+      "https://www.jfmbk.org/about/housin.html",
+      "https://www.jfmbk.org/common/pdf/housin_jf_all.pdf",
+      "https://www.nochubank.or.jp/about/features.html",
+      "水産業協同組合法 (昭和 23 年法律第 242 号)",
+      "https://ja.wikipedia.org/wiki/JFマリンバンク",
+      "https://marinebank.jp/disclosure/index.html"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index as the prefectural credit-federation layer of the JF Marine Bank system, sitting between local JF (71 fishery cooperatives) and the national central institution 農林中央金庫. Read with JA 信連 for the agricultural-side equivalent, JF 全漁連 for the representative / economic-",
+  "headings": [
+    "JF 信漁連 (信用漁業協同組合連合会 / Prefectural Credit Federations of Fishery Cooperatives)",
+    "Wiki route",
+    "TL;DR",
+    "1. 組織構造",
+    "JF Marine Bank system の三段構造 ^[extracted]",
+    "JA 信連との対比 ^[extracted]",
+    "重要年表 ^[extracted]",
+    "4 大機能 ^[extracted]",
+    "規模感",
+    "JF Marine Bank system 内の位置付け"
+  ],
+  "body_links": {
+    "wikilinks_count": 13,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "banking/cooperative-banking-japan",
+      "banking/ja-bank-system-japan",
+      "banking/jf-marine-bank-system-japan",
+      "cooperative-banks/ja-shinnoren",
+      "cooperative-banks/ja-zenchu",
+      "cooperative-banks/jf-marine-bank-hokkaido",
+      "cooperative-banks/jf-zengyoren",
+      "cooperative-banks/norinchukin",
+      "cooperative-banks/rokin-renraku",
+      "cooperative-banks/shinkin-central",
+      "cooperative-banks/zenshin-kumi",
+      "norinchukin"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/banking/cooperative-banking-japan",
+      "https://finwiki.zksc.io/banking/ja-bank-system-japan",
+      "https://finwiki.zksc.io/banking/jf-marine-bank-system-japan",
+      "https://finwiki.zksc.io/cooperative-banks/ja-shinnoren",
+      "https://finwiki.zksc.io/cooperative-banks/ja-zenchu",
+      "https://finwiki.zksc.io/cooperative-banks/jf-marine-bank-hokkaido",
+      "https://finwiki.zksc.io/cooperative-banks/jf-zengyoren",
+      "https://finwiki.zksc.io/cooperative-banks/norinchukin",
+      "https://finwiki.zksc.io/cooperative-banks/rokin-renraku",
+      "https://finwiki.zksc.io/cooperative-banks/shinkin-central",
+      "https://finwiki.zksc.io/cooperative-banks/zenshin-kumi",
+      "https://finwiki.zksc.io/norinchukin"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 5226,
+    "word_like_tokens": 852,
+    "inbound_wikilinks_count": 10,
+    "last_modified": "2026-06-04"
+  }
+}

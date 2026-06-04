@@ -39,7 +39,7 @@ sources:
 
 ## Overview
 
-This domain routes securities-market and household-investment pages. Listed financial groups and broad company pages usually stay in [[JapanFG/INDEX|JapanFG]], while this domain explains securities-market mechanisms and infrastructure such as NISA flows, IPO listing disclosure, exchange venues, PTS, security-token secondary markets, clearing, settlement, brokerage distribution, underwriting, prime brokerage / institutional financing, and FIEA / JSDA topics. The large FIEA operator population is controlled through [[securities/financial-instruments-business-operators-japan-index|Japan financial instruments business operators registry index]] rather than long-tail standalone pages, and the activity-level license logic is routed through [[JapanFG/legal-financial-licenses/securities-license-stack|Japan securities license stack]].
+This domain routes securities-market and household-investment pages. Listed financial groups and broad company pages usually stay in [[JapanFG/INDEX|JapanFG]], while this domain explains securities-market mechanisms and infrastructure such as NISA flows, IPO listing disclosure, exchange venues, PTS, security-token secondary markets, clearing, settlement, brokerage distribution, underwriting, prime brokerage / institutional financing, and FIEA / JSDA topics. The large FIEA operator population is controlled through [[securities/financial-instruments-business-operators-japan-index|Japan financial instruments business operators registry index]] rather than long-tail standalone pages, and the activity-level license logic is routed through [[financial-licenses/securities-license-stack|Japan securities license stack]].
 
 ## Start Here
 
@@ -57,7 +57,7 @@ This domain routes securities-market and household-investment pages. Listed fina
 | Underwriting structure | [[securities/japan-underwriting-market-structure|Japan underwriting market structure]] | IPO / PO / bond underwriting, lead-manager roles, bookbuilding, JPX listing flow, JSDA rules, and league-table interpretation. |
 | IPO listing disclosure | [[securities/japan-ipo-listing-disclosure-route|Japan IPO listing disclosure route]] | JPX / TSE listing route, JPX-R examination, new-listing documents, EDINET, and TDnet disclosure. |
 | Market infrastructure map | [[securities/japan-market-infrastructure-map|Japan market infrastructure map]] | Venue / clearing / settlement / PTS / securities-finance map for routing trading, SOR, and post-trade questions. |
-| Exchange holding company | [[JapanFG/japan-exchange-group|Japan Exchange Group]] | JPX as the holding company for TSE, OSE, TOCOM, JPX-R, JPX-RI, and JSCC. |
+| Exchange holding company | [[financial-regulators/japan-exchange-group|Japan Exchange Group]] | JPX as the holding company for TSE, OSE, TOCOM, JPX-R, JPX-RI, and JSCC. |
 | Cash equity exchange | [[securities/tokyo-stock-exchange|Tokyo Stock Exchange]] | Listing, trading, market segments, TDnet adjacency, and issuer governance. |
 | Derivatives exchange | [[securities/osaka-exchange|Osaka Exchange]] | Listed derivatives, Nikkei 225 / TOPIX / JGB futures, and derivatives market structure. |
 | Commodity exchange | [[securities/tokyo-commodity-exchange|Tokyo Commodity Exchange]] | Energy futures and commodity-market infrastructure under JPX. |
@@ -65,9 +65,9 @@ This domain routes securities-market and household-investment pages. Listed fina
 | Settlement / CSD | [[securities/japan-securities-depository-center|JASDEC]] | Book-entry transfer, DVP, settlement, and securities depository infrastructure. |
 | PTS venues | [[securities/japannext-securities|Japannext]] / [[securities/osaka-digital-exchange|ODX]] | Alternative trading, SOR, PTS, and security-token secondary market structure. |
 | Security-token secondary market | [[securities/japan-security-token-secondary-market-route|Japan security token secondary market route]] | ODX START, JSDA unlisted securities PTS rules, Progmat, FIEA / securities-firm route, and settlement / custody fields. |
-| Legal / license stack | [[JapanFG/legal-financial-licenses/securities-license-stack|Japan securities license stack]] / [[JapanFG/legal-financial-licenses/INDEX|JapanFG legal / financial licenses]] | Whether the question is Type I/II FIBO, registered financial institution, intermediary, advisory, or JSDA self-regulation. |
+| Legal / license stack | [[financial-licenses/securities-license-stack|Japan securities license stack]] / [[financial-licenses/INDEX|JapanFG legal / financial licenses]] | Whether the question is Type I/II FIBO, registered financial institution, intermediary, advisory, or JSDA self-regulation. |
 | FIEA operator registry | [[securities/financial-instruments-business-operators-japan-index|FIEA operator registry index]] | FSA 1,945-row registry-control route for financial instruments business operators. |
-| Self-regulation | [[JapanFG/jsda|JSDA]] | Securities self-regulatory body route. |
+| Self-regulation | [[financial-regulators/jsda|JSDA]] | Securities self-regulatory body route. |
 | Investment-banking comparison | [[finance/japan-ib-league-table|Japan IB league table]] | How to read underwriting / M&A adviser rankings. |
 | Asset manager landscape | [[securities/japan-asset-manager-landscape-matrix|Japan asset manager landscape matrix]] | Four-lane comparison (megabank-affiliated / insurance-affiliated / independent-online / foreign-affiliated) across AUM, distribution, product mix, NISA / iDeCo share, ETF, ESG, in-house vs sub-advisory, recent M&A. |
 
@@ -75,18 +75,18 @@ This domain routes securities-market and household-investment pages. Listed fina
 
 | Cluster | Entity pages |
 |---|---|
-| Independent securities groups | [[JapanFG/nomura-hd]], [[JapanFG/daiwa-sg]] |
-| Megabank securities arms | [[JapanFG/smbc-nikko]], [[JapanFG/mizuho-securities]], [[JapanFG/mufg-mums]] |
-| Online brokers | [[JapanFG/rakuten-securities]], [[JapanFG/monex-group]], [[JapanFG/sbi-securities]], [[JapanFG/mufg-esmart-securities]], [[JapanFG/paypay-securities]], [[JapanFG/gmo-click-securities]], [[JapanFG/dmm-com-securities]] |
-| FX / derivatives brokers | [[JapanFG/traders-securities]], [[JapanFG/saxo-bank-securities]], [[JapanFG/sbi-fx-trade]] |
-| Asset managers | [[JapanFG/nomura-asset-management]], [[JapanFG/nikko-asset-management]], [[JapanFG/asset-management-one]], [[JapanFG/mufg-asset-management]], [[JapanFG/smd-am]], [[JapanFG/daiwa-asset-management]], [[JapanFG/sbi-asset-management]] |
-| Self-regulation | [[JapanFG/jsda]] |
-| Market infrastructure | [[JapanFG/japan-exchange-group]], [[JapanFG/japan-securities-finance]], [[securities/tokyo-stock-exchange]], [[securities/osaka-exchange]], [[securities/tokyo-commodity-exchange]], [[securities/japan-securities-clearing-corp]], [[securities/japan-securities-depository-center]], [[securities/japannext-securities]], [[securities/osaka-digital-exchange]] |
+| Independent securities groups | [[securities-firms/nomura-hd]], [[securities-firms/daiwa-sg]] |
+| Megabank securities arms | [[securities-firms/smbc-nikko]], [[securities-firms/mizuho-securities]], [[securities-firms/mufg-mums]] |
+| Online brokers | [[securities-firms/rakuten-securities]], [[securities-firms/monex-group]], [[securities-firms/sbi-securities]], [[securities-firms/mufg-esmart-securities]], [[securities-firms/paypay-securities]], [[securities-firms/gmo-click-securities]], [[securities-firms/dmm-com-securities]] |
+| FX / derivatives brokers | [[securities-firms/traders-securities]], [[securities-firms/saxo-bank-securities]], [[securities-firms/sbi-fx-trade]] |
+| Asset managers | [[asset-managers/nomura-asset-management]], [[asset-managers/nikko-asset-management]], [[asset-managers/asset-management-one]], [[asset-managers/mufg-asset-management]], [[asset-managers/smd-am]], [[asset-managers/daiwa-asset-management]], [[asset-managers/sbi-asset-management]] |
+| Self-regulation | [[financial-regulators/jsda]] |
+| Market infrastructure | [[financial-regulators/japan-exchange-group]], [[financial-regulators/japan-securities-finance]], [[securities/tokyo-stock-exchange]], [[securities/osaka-exchange]], [[securities/tokyo-commodity-exchange]], [[securities/japan-securities-clearing-corp]], [[securities/japan-securities-depository-center]], [[securities/japannext-securities]], [[securities/osaka-digital-exchange]] |
 
 ## Registry Control
 
 - [[securities/financial-instruments-business-operators-japan-index]] — FSA 1,945-row financial instruments business operator registry-control route.
-- [[JapanFG/legal-financial-licenses/securities-license-stack]] — FIEA / JSDA / registered-financial-institution / intermediary license-stack route.
+- [[financial-licenses/securities-license-stack]] — FIEA / JSDA / registered-financial-institution / intermediary license-stack route.
 
 ## Research Control
 
@@ -100,7 +100,7 @@ This domain routes securities-market and household-investment pages. Listed fina
 
 | Priority | Page | Why |
 |---|---|---|
-| Done | [[JapanFG/legal-financial-licenses/securities-license-stack|Japan securities license stack]] | Dedicated legal page for Type I/II FIBO, registered financial institution, intermediary, advisory, and JSDA. |
+| Done | [[financial-licenses/securities-license-stack|Japan securities license stack]] | Dedicated legal page for Type I/II FIBO, registered financial institution, intermediary, advisory, and JSDA. |
 | Done | [[securities/japan-online-brokerage-competition|Japan online brokerage competition]] | Compare Rakuten, SBI, Monex, MUFG eSmart, Matsui, PayPay Securities, GMO Click, and DMM across NISA / points / fees / app routes. |
 | Done | [[securities/japan-best-execution-sor-pts|Japan best execution, SOR, and PTS]] | Dedicated best-execution / SOR / PTS page for broker fee and execution-quality analysis. |
 | Done | [[securities/japan-pts-liquidity-data-guide|Japan PTS liquidity data guide]] | Dedicated JSDA PTS statistics / liquidity / denominator guide for SOR and execution-quality analysis. |
@@ -131,9 +131,9 @@ Venue / token / research / market-maker plumbing deepening:
 ## Related
 
 - [[JapanFG/INDEX]]
-- [[JapanFG/legal-financial-licenses/INDEX]]
+- [[financial-licenses/INDEX]]
 - [[securities/financial-instruments-business-operators-japan-index]]
-- [[JapanFG/legal-financial-licenses/securities-license-stack]]
+- [[financial-licenses/securities-license-stack]]
 - [[securities/japan-online-brokerage-competition]]
 - [[securities/japan-best-execution-sor-pts]]
 - [[securities/japan-pts-liquidity-data-guide]]
@@ -147,8 +147,8 @@ Venue / token / research / market-maker plumbing deepening:
 - [[securities/japan-market-infrastructure-map]]
 - [[finance/japan-ib-league-table]]
 - [[finance/cross-border-m-a-japan]]
-- [[JapanFG/japan-exchange-group]]
-- [[JapanFG/japan-securities-finance]]
+- [[financial-regulators/japan-exchange-group]]
+- [[financial-regulators/japan-securities-finance]]
 - [[loyalty/japan-points-landscape]]
 - [[INDEX|FinWiki index]]
 

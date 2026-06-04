@@ -1,0 +1,87 @@
+{
+  "schema_version": "1.0",
+  "slug": "foreign-financial-institutions/ubaf-japan",
+  "source_path": "foreign-financial-institutions/ubaf-japan.md",
+  "url": "https://finwiki.zksc.io/foreign-financial-institutions/ubaf-japan",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/foreign-financial-institutions/ubaf-japan.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/foreign-financial-institutions/ubaf-japan.md",
+  "domain": "foreign-financial-institutions",
+  "title": "ユバフーアラブ・フランス連合銀行日本 (UBAF Japan)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "ユバフーアラブ・フランス連合銀行日本 (UBAF Japan)",
+    "aliases": [
+      "UBAF Japan",
+      "Union de Banques Arabes et Françaises Tokyo Branch",
+      "ユバフーアラブ・フランス連合銀行東京支店",
+      "Union of Arab and French Banks Japan"
+    ],
+    "domain": "foreign-financial-institutions",
+    "created": "2026-05-22",
+    "last_updated": "2026-05-22",
+    "last_tended": "2026-05-22",
+    "review_by": "2026-11-22",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "foreign-bank",
+      "France",
+      "trade-finance",
+      "correspondent-banking"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
+      "https://www.ubaf.fr/en",
+      "https://www.ubaf.fr/en/our-clearers",
+      "https://www.ubaf.fr/sites/default/files/2023-12/20231130_Standard%20Terms%20and%20Conditions%202020_Overseas%20Tokyo%20branch.pdf"
+    ]
+  },
+  "summary": "UBAF Japan sits under JapanFG index and is a France-linked foreign-bank branch route in the foreign-bank branch registry. Read it with Credit Agricole Bank Japan, BNP Paribas Japan, Natixis Japan, and banking index.",
+  "headings": [
+    "ユバフーアラブ・フランス連合銀行日本 (UBAF Japan)",
+    "Wiki route",
+    "Overview",
+    "Entity Boundary",
+    "Business Role Map",
+    "Public Context",
+    "Research Checklist",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 10,
+    "wikilinks": [
+      "INDEX",
+      "JapanFG/INDEX",
+      "banking/INDEX",
+      "finance/cross-border-m-a-japan",
+      "financial-licenses/foreign-bank-branch-license-route",
+      "foreign-financial-institutions/bnp-paribas-japan",
+      "foreign-financial-institutions/credit-agricole-bank-japan",
+      "foreign-financial-institutions/foreign-bank-branches-japan-index",
+      "foreign-financial-institutions/natixis-japan",
+      "foreign-financial-institutions/socgen-japan"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/finance/cross-border-m-a-japan",
+      "https://finwiki.zksc.io/financial-licenses/foreign-bank-branch-license-route",
+      "https://finwiki.zksc.io/foreign-financial-institutions/bnp-paribas-japan",
+      "https://finwiki.zksc.io/foreign-financial-institutions/credit-agricole-bank-japan",
+      "https://finwiki.zksc.io/foreign-financial-institutions/foreign-bank-branches-japan-index",
+      "https://finwiki.zksc.io/foreign-financial-institutions/natixis-japan",
+      "https://finwiki.zksc.io/foreign-financial-institutions/socgen-japan"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3744,
+    "word_like_tokens": 592,
+    "inbound_wikilinks_count": 3,
+    "last_modified": "2026-06-04"
+  }
+}

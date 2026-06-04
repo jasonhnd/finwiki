@@ -12,7 +12,7 @@ translated_at: 2026-06-01T03:31:12.329Z
 
 ## Wiki route
 
-This entry sits under [[policy-finance/INDEX|policy-finance index]] as the operating-mechanics deep dive on [[policy-finance/jogmec|JOGMEC (Japan Organization for Metals and Energy Security)]]. Read it with [[policy-finance/japan-project-finance-stack-diagram|Japan project finance stack diagram]] for how JOGMEC's equity / exploration risk sits underneath [[JapanFG/jbic|JBIC]] loans, [[policy-finance/nexi|NEXI]] insurance, and megabank commercial debt; with [[policy-finance/jbic-overseas-investment-underwriting-process|JBIC overseas investment loan underwriting process]] for the lender-side flow that frequently follows a JOGMEC equity position upstream; with [[policy-finance/japan-policy-finance-system|Japan policy finance system]] for placement in the wider state-finance toolkit; and with [[policy-finance/japan-eximbank-history|Japan Eximbank history]] for parallel institutional reorganisation context. JOGMEC's pivot from oil / gas / metals exploration support to a broader **economic-security** mandate from 2022–2024 is the central recent narrative.
+This entry sits under [[policy-finance/INDEX|policy-finance index]] as the operating-mechanics deep dive on [[policy-finance/jogmec|JOGMEC (Japan Organization for Metals and Energy Security)]]. Read it with [[policy-finance/japan-project-finance-stack-diagram|Japan project finance stack diagram]] for how JOGMEC's equity / exploration risk sits underneath [[financial-regulators/jbic|JBIC]] loans, [[policy-finance/nexi|NEXI]] insurance, and megabank commercial debt; with [[policy-finance/jbic-overseas-investment-underwriting-process|JBIC overseas investment loan underwriting process]] for the lender-side flow that frequently follows a JOGMEC equity position upstream; with [[policy-finance/japan-policy-finance-system|Japan policy finance system]] for placement in the wider state-finance toolkit; and with [[policy-finance/japan-eximbank-history|Japan Eximbank history]] for parallel institutional reorganisation context. JOGMEC's pivot from oil / gas / metals exploration support to a broader **economic-security** mandate from 2022–2024 is the central recent narrative.
 
 ## TL;DR
 
@@ -35,7 +35,7 @@ The institutional form is distinctive within the policy-finance constellation: J
 ### 1.1 What JOGMEC does — and what it does not
 
 - **Does**: take equity in upstream resource projects, share exploration risk, run state stockpiles, provide liability guarantees on exploration debt, run geological / R&D activities.
-- **Does not**: lend operating loans (that is [[JapanFG/jbic|JBIC]] or megabank territory), insure political risk on equity (that is [[policy-finance/nexi|NEXI]]), trade physical commodities, build refineries / smelters on its own balance sheet (those sit with sponsors and downstream entities).
+- **Does not**: lend operating loans (that is [[financial-regulators/jbic|JBIC]] or megabank territory), insure political risk on equity (that is [[policy-finance/nexi|NEXI]]), trade physical commodities, build refineries / smelters on its own balance sheet (those sit with sponsors and downstream entities).
 
 The boundary with JBIC and NEXI is structural and rarely contested in practice: JOGMEC absorbs upstream risk that lenders and insurers will not price; JBIC and NEXI sit downstream once the project is sufficiently de-risked to be bankable.
 
@@ -71,7 +71,7 @@ Numbers and ceilings vary by project and are decided through METI-coordinated eq
 
 - Cap-table participation alongside Japanese trading-house / utility equity sponsors and international majors.
 - Loan support / quasi-equity overlay where the project structure benefits from a subordinated tranche.
-- Coordination with [[JapanFG/jbic|JBIC]] direct lending and [[policy-finance/nexi|NEXI]] insurance overlay on the senior-debt layer.
+- Coordination with [[financial-regulators/jbic|JBIC]] direct lending and [[policy-finance/nexi|NEXI]] insurance overlay on the senior-debt layer.
 - Offtake-back-to-Japan as a structural feature of the equity decision — JOGMEC's mandate is resource security, and equity participation is typically conditioned on Japanese-affiliated offtake arrangements.
 
 ### 2.4 Mineral Stockpiling
@@ -124,7 +124,7 @@ JOGMEC's equity-decision flow is closer to a development-bank equity committee t
 
 - Ongoing monitoring through cap-table participation rights (board observer / nominee, information rights).
 - Project-milestone tracking (exploration drilling results, reserve confirmation, development progress, COD).
-- Coordination with parallel [[JapanFG/jbic|JBIC]] and [[policy-finance/nexi|NEXI]] monitoring for projects with multi-layer Japanese state involvement.
+- Coordination with parallel [[financial-regulators/jbic|JBIC]] and [[policy-finance/nexi|NEXI]] monitoring for projects with multi-layer Japanese state involvement.
 - Exit / asset-disposal mechanics on successful projects, where applicable; loss recognition on failed exploration.
 
 The underwriting cycle for a large exploration / development equity decision can run several months and is typically synchronised with the parallel project-finance underwriting cycle on the senior-debt layer (JBIC + NEXI + megabank syndicate).
@@ -134,9 +134,9 @@ The underwriting cycle for a large exploration / development equity decision can
 JOGMEC is the upstream-risk seat in the Japanese cross-border resource-finance stack. Its co-financing geometry:
 
 - **Japanese sponsor consortia.** The default partner mix: trading houses (Mitsui, Mitsubishi Corp, Sumitomo Corp, Itochu, Marubeni, Sojitz) + utilities (JERA, Tokyo Gas, Osaka Gas, Kansai Electric, KEPCO) + specialty mining houses (Sumitomo Metal Mining, Mitsubishi Materials, JX Nippon Mining & Metals) take majority equity; JOGMEC takes a minority equity / risk-sharing slice.
-- **[[JapanFG/jbic|JBIC]] downstream coordination.** Once the project moves past exploration into development with a bankable senior-debt structure, JBIC takes a direct-loan slice on the senior-debt layer. JOGMEC's presence in the cap table is often a precondition for JBIC's involvement; see [[policy-finance/jbic-overseas-investment-underwriting-process|JBIC overseas investment loan underwriting process]] for the lender-side flow.
+- **[[financial-regulators/jbic|JBIC]] downstream coordination.** Once the project moves past exploration into development with a bankable senior-debt structure, JBIC takes a direct-loan slice on the senior-debt layer. JOGMEC's presence in the cap table is often a precondition for JBIC's involvement; see [[policy-finance/jbic-overseas-investment-underwriting-process|JBIC overseas investment loan underwriting process]] for the lender-side flow.
 - **[[policy-finance/nexi|NEXI]] insurance overlay.** NEXI's Overseas Investment Insurance can overlay on the Japanese sponsor's equity exposure (and selectively on JOGMEC's equity in some structures); NEXI's loan insurance overlays on the megabank commercial-tranche.
-- **Megabank commercial-debt syndicate.** [[JapanFG/mufg|MUFG]], [[JapanFG/smfg|SMFG]], and [[JapanFG/mizuho-fg|Mizuho FG]] join the commercial-loan layer once the project is bankable; one bank typically takes the agent role. See [[policy-finance/japan-project-finance-stack-diagram|Japan project finance stack diagram]] for the layered geometry.
+- **Megabank commercial-debt syndicate.** [[megabanks/mufg|MUFG]], [[megabanks/smfg|SMFG]], and [[megabanks/mizuho-fg|Mizuho FG]] join the commercial-loan layer once the project is bankable; one bank typically takes the agent role. See [[policy-finance/japan-project-finance-stack-diagram|Japan project finance stack diagram]] for the layered geometry.
 - **International-major sponsors.** TotalEnergies, Shell, BP, BHP, Rio Tinto, Glencore, Vale, and similar majors often take equity alongside Japanese sponsors + JOGMEC; international-major presence brings operating expertise.
 - **Host-country national oil / mining companies.** NOCs / NMCs participate on the equity layer reflecting host-government participation in resource projects.
 - **Multilateral co-financing.** ADB / World Bank / IFC / EBRD participation can structure alongside JOGMEC on selected development-stage deals.
@@ -217,10 +217,10 @@ The comparison highlights two contrasts: (1) within the developed-economy state-
 - [[policy-finance/nexi-export-credit-insurance-products]]
 - [[policy-finance/nexi]]
 - [[policy-finance/jica]]
-- [[JapanFG/jbic]]
-- [[JapanFG/mufg]]
-- [[JapanFG/smfg]]
-- [[JapanFG/mizuho-fg]]
+- [[financial-regulators/jbic]]
+- [[megabanks/mufg]]
+- [[megabanks/smfg]]
+- [[megabanks/mizuho-fg]]
 - [[finance/japan-acquisition-finance]]
 
 ## Sources

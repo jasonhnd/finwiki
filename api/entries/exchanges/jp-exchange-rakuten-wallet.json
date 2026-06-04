@@ -54,7 +54,6 @@
   "body_links": {
     "wikilinks_count": 14,
     "wikilinks": [
-      "JapanFG/rakuten-fg",
       "exchanges/INDEX",
       "exchanges/fsa-vasp-registration-system",
       "exchanges/jp-cex-points-economy-integration",
@@ -67,10 +66,10 @@
       "fintech/japan-bittrade-listing-process",
       "fintech/japan-financial-regulation",
       "fintech/japan-stablecoin-regulatory-landscape",
-      "fintech/jp-trust-type-sc-architecture"
+      "fintech/jp-trust-type-sc-architecture",
+      "payment-firms/rakuten-fg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/rakuten-fg",
       "https://finwiki.zksc.io/exchanges/INDEX",
       "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
       "https://finwiki.zksc.io/exchanges/jp-cex-points-economy-integration",
@@ -83,7 +82,8 @@
       "https://finwiki.zksc.io/fintech/japan-bittrade-listing-process",
       "https://finwiki.zksc.io/fintech/japan-financial-regulation",
       "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
-      "https://finwiki.zksc.io/fintech/jp-trust-type-sc-architecture"
+      "https://finwiki.zksc.io/fintech/jp-trust-type-sc-architecture",
+      "https://finwiki.zksc.io/payment-firms/rakuten-fg"
     ],
     "external_links_count": 7,
     "external_links": [
@@ -97,9 +97,9 @@
     ]
   },
   "metrics": {
-    "nonspace_chars": 5102,
-    "word_like_tokens": 870,
-    "inbound_wikilinks_count": 11,
-    "last_modified": "2026-05-24"
+    "nonspace_chars": 5114,
+    "word_like_tokens": 872,
+    "inbound_wikilinks_count": 12,
+    "last_modified": "2026-06-04"
   }
 }

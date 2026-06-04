@@ -37,7 +37,7 @@ translated_at: 2026-06-01T03:31:12.320Z
 
 一级市场由以下因素支持：
 
-- 由主要证券公司（[[JapanFG/nomura-hd|Nomura]]、[[JapanFG/daiwa-sg|Daiwa]]、[[JapanFG/mufg-mums|Mitsubishi UFJ Morgan Stanley]]、[[JapanFG/smbc-nikko|SMBC Nikko]]、[[JapanFG/mizuho-bank|Mizuho Securities]]）牵头的**承销团**。
+- 由主要证券公司（[[securities-firms/nomura-hd|Nomura]]、[[securities-firms/daiwa-sg|Daiwa]]、[[securities-firms/mufg-mums|Mitsubishi UFJ Morgan Stanley]]、[[securities-firms/smbc-nikko|SMBC Nikko]]、[[megabanks/mizuho-bank|Mizuho Securities]]）牵头的**承销团**。
 - **JPX-R（日本交易所监管）的上市审查**。
 - 通过 EDINET（财务报表披露）和 TDnet（及时披露）进行**披露**。
 - **JSDA 分销行为自律**。
@@ -53,7 +53,7 @@ translated_at: 2026-06-01T03:31:12.320Z
 |上市衍生品 | OSE 上的 [[derivatives/jgb-futures-curve|JGB futures]] / [[derivatives/nikkei-225-futures-options|Nikkei 225]] / TOPIX / TONA 期货 | [[derivatives/INDEX]]、[[derivatives/topix-futures]] |
 |场外股票/债券|经销商市场、JSDA报价系统| [[derivatives/INDEX]]、[[securities/japan-market-infrastructure-map]] |
 |场外衍生品 |双边场外交易，范围内交易通过 JSCC 清算 | [[derivatives/japan-otc-derivative-market-overview]]、[[derivatives/otc-clearing-jp-trade-repository]] |
-|股票借贷| OTC双边加JSF | [[securities/japan-stock-lending-market-route]]、[[JapanFG/japan-securities-finance]] |
+|股票借贷| OTC双边加JSF | [[securities/japan-stock-lending-market-route]]、[[financial-regulators/japan-securities-finance]] |
 |保证金交易 |经纪保证金+JSF贷款交易| [[securities/japan-margin-trading-and-securities-finance]] |
 |日本国债现金 |场外交易交易商 | [[money-market/jgb-repo-market-japan]] |
 
@@ -63,7 +63,7 @@ translated_at: 2026-06-01T03:31:12.320Z
 - **TSE 和 PTS 场地之间的智能订单传送 (SOR)**。
 - **做市商和流动性提供者** ([[securities/japan-market-maker-and-liquidity-provider-landscape]])。
 - **卖空规则** ([[securities/japan-short-selling-and-stock-loan-controls]])。
-- **保证金/证券金融管道** ([[JapanFG/japan-securities-finance]])。
+- **保证金/证券金融管道** ([[financial-regulators/japan-securities-finance]])。
 
 ### 3。清算
 
@@ -112,9 +112,9 @@ translated_at: 2026-06-01T03:31:12.320Z
 |类别 |示例 |
 |---|---|
 |发行人 |上市公司（TSE Prime ~1,600, 标准 ~1,500, Growth ~600）、JGB 发行人 (MoF)、J-REIT 发起人、公司债券发行人、ABS 发起人。 |
-|承销商| [[JapanFG/nomura-hd|Nomura]]、[[JapanFG/daiwa-sg|Daiwa]]、[[JapanFG/mufg-mums|MUMSS]]、[[JapanFG/smbc-nikko|SMBC Nikko]]、[[JapanFG/mizuho-bank|Mizuho Securities]]、外国 IB。 |
-|经纪业务（零售）| [[JapanFG/sbi-hd|SBI Securities]]、[[JapanFG/rakuten-fg|Rakuten Securities]]、[[JapanFG/monex-group|Monex]]、松井证券、[[JapanFG/mufg-esmart-securities|MUFG eSmart]]、[[JapanFG/paypay-securities|PayPay Securities]]、GMO Click、DMM。请参阅[[securities/japan-online-brokerage-competition]]。 |
-|资产管理公司| [[JapanFG/asset-management-one|Asset Management One]]（瑞穗）、[[JapanFG/mufg-asset-management|MUFG Asset Management]]、野村资产管理、日兴资产管理、大和资产管理。请参阅[[securities/japan-asset-manager-landscape-matrix]]。 |
+|承销商| [[securities-firms/nomura-hd|Nomura]]、[[securities-firms/daiwa-sg|Daiwa]]、[[securities-firms/mufg-mums|MUMSS]]、[[securities-firms/smbc-nikko|SMBC Nikko]]、[[megabanks/mizuho-bank|Mizuho Securities]]、外国 IB。 |
+|经纪业务（零售）| [[megabanks/sbi-hd|SBI Securities]]、[[payment-firms/rakuten-fg|Rakuten Securities]]、[[securities-firms/monex-group|Monex]]、松井证券、[[securities-firms/mufg-esmart-securities|MUFG eSmart]]、[[securities-firms/paypay-securities|PayPay Securities]]、GMO Click、DMM。请参阅[[securities/japan-online-brokerage-competition]]。 |
+|资产管理公司| [[asset-managers/asset-management-one|Asset Management One]]（瑞穗）、[[asset-managers/mufg-asset-management|MUFG Asset Management]]、野村资产管理、日兴资产管理、大和资产管理。请参阅[[securities/japan-asset-manager-landscape-matrix]]。 |
 |信托银行（托管）| [[banking/japan-master-trust-and-custody-bank-landscape|Master Trust Bank of Japan, Japan Trustee Services Bank, etc.]] |
 |机构投资者| GPIF、人寿保险公司、非人寿保险公司、日本央行（JGB 控股）、外国机构账户。 |
 |国外经纪商|摩根大通、高盛、花旗、摩根士丹利、德意志银行、法国巴黎银行、汇丰银行、瑞银、巴克莱银行。 |
@@ -131,7 +131,7 @@ translated_at: 2026-06-01T03:31:12.320Z
 |外国日本国债所有权|外国账户在日本国债流通量中占有相当大的份额。 |
 | EMIR 等效 |对于欧盟交易对手方来说，JSCC 相当于 EMIR。 |
 |第七章 / CFTC 同等条款 | JSCC 具有用于 IRS 清算的 CFTC 替代合规/等效要素。 |
-| ICSD联动 |外资银行作为 ICSD 运营，提供跨境结算服务。请参阅[[JapanFG/clearstream-banking-japan]]。 |
+| ICSD联动 |外资银行作为 ICSD 运营，提供跨境结算服务。请参阅[[foreign-financial-institutions/clearstream-banking-japan]]。 |
 |东京证交所上市 ETF 交叉上市 |有限交叉上市；主要是互相认可。 |
 
 ## 公共数据源
@@ -198,12 +198,12 @@ translated_at: 2026-06-01T03:31:12.320Z
 - [[banking/japan-master-trust-and-custody-bank-landscape]]
 - [[banking/jasdec-settlement-operations]]
 - [[JapanFG/INDEX]]
-- [[JapanFG/japan-exchange-group]]
-- [[JapanFG/japan-securities-finance]]
-- [[JapanFG/nomura-hd]]
-- [[JapanFG/daiwa-sg]]
-- [[JapanFG/mufg-mums]]
-- [[JapanFG/smbc-nikko]]
+- [[financial-regulators/japan-exchange-group]]
+- [[financial-regulators/japan-securities-finance]]
+- [[securities-firms/nomura-hd]]
+- [[securities-firms/daiwa-sg]]
+- [[securities-firms/mufg-mums]]
+- [[securities-firms/smbc-nikko]]
 - [[INDEX|FinWiki index]]
 
 ## 来源

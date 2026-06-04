@@ -29,7 +29,7 @@ sources:
 
 Japan margin trading is not just a retail leverage product. It is a market-infrastructure and securities-finance route connecting brokers, Tokyo Stock Exchange rules, Japan Securities Finance, collateral, stock lending, clearing, settlement, short-sale pressure, and investor risk controls.
 
-Use this page with [[securities/INDEX|securities domain]], [[JapanFG/japan-securities-finance|Japan Securities Finance]], [[securities/tokyo-stock-exchange|Tokyo Stock Exchange]], [[securities/japan-best-execution-sor-pts|Japan best execution, SOR, and PTS]], [[securities/japan-pts-liquidity-data-guide|PTS liquidity data guide]], [[securities/japan-prime-brokerage-and-institutional-financing|prime brokerage and institutional financing]], [[securities/japan-market-infrastructure-map|Japan market infrastructure map]], and broker pages such as [[JapanFG/sbi-securities|SBI Securities]] and [[JapanFG/rakuten-securities|Rakuten Securities]].
+Use this page with [[securities/INDEX|securities domain]], [[financial-regulators/japan-securities-finance|Japan Securities Finance]], [[securities/tokyo-stock-exchange|Tokyo Stock Exchange]], [[securities/japan-best-execution-sor-pts|Japan best execution, SOR, and PTS]], [[securities/japan-pts-liquidity-data-guide|PTS liquidity data guide]], [[securities/japan-prime-brokerage-and-institutional-financing|prime brokerage and institutional financing]], [[securities/japan-market-infrastructure-map|Japan market infrastructure map]], and broker pages such as [[securities-firms/sbi-securities|SBI Securities]] and [[securities-firms/rakuten-securities|Rakuten Securities]].
 
 ## System Map
 
@@ -38,7 +38,7 @@ Use this page with [[securities/INDEX|securities domain]], [[JapanFG/japan-secur
 | Investor / customer | Deposits collateral with a securities company and buys or sells through margin trading. |
 | Securities company | Lends funds or securities to customers, manages collateral, calls, repayment, and product suitability. |
 | TSE / JPX rules | Define standardized margin trading, eligible issues, loan margin trading issues, restrictions, rights treatment, and public notices. |
-| [[JapanFG/japan-securities-finance|Japan Securities Finance]] | Provides funds and shares to securities companies for standardized margin trading settlement and broader securities-finance services. |
+| [[financial-regulators/japan-securities-finance|Japan Securities Finance]] | Provides funds and shares to securities companies for standardized margin trading settlement and broader securities-finance services. |
 | [[securities/japan-securities-clearing-corp|JSCC]] / [[securities/japan-securities-depository-center|JASDEC]] | Clearing and book-entry settlement layers for market transactions and collateral / delivery plumbing. |
 | Lenders / outside shareholders | Can supply borrowed shares when demand to borrow exceeds internal supply, including through auction-style premium charge mechanisms. |
 
@@ -54,7 +54,7 @@ JPX's margin overview separates standardized margin trading from negotiable marg
 | Rights treatment | Method specified by TSE. | Determined between customer and securities company. |
 | Loan trading | Available. | Not available in the same way. |
 
-This boundary matters because [[JapanFG/japan-securities-finance|JSF]] is most central to the standardized margin / loan trading route, while negotiable margin depends more on broker balance sheet, collateral policy, and product terms.
+This boundary matters because [[financial-regulators/japan-securities-finance|JSF]] is most central to the standardized margin / loan trading route, while negotiable margin depends more on broker balance sheet, collateral policy, and product terms.
 
 ## Securities Finance Role
 
@@ -98,9 +98,9 @@ The important point is that a retail margin trade can become a chain of customer
 
 ## JapanFG Relevance
 
-- [[JapanFG/japan-securities-finance|Japan Securities Finance]] is the anchor page for the institutional securities-finance function.
-- [[JapanFG/sbi-securities|SBI Securities]], [[JapanFG/rakuten-securities|Rakuten Securities]], [[JapanFG/matsui-sec|Matsui Securities]], [[JapanFG/gmo-click-securities|GMO Click Securities]], and [[JapanFG/dmm-com-securities|DMM.com Securities]] is routed through margin rates, collateral rules, product restrictions, and active-trader economics.
-- [[JapanFG/nomura-hd|Nomura]], [[JapanFG/daiwa-sg|Daiwa Securities Group]], [[JapanFG/smbc-nikko|SMBC Nikko]], [[JapanFG/mizuho-securities|Mizuho Securities]], and [[JapanFG/mufg-mums|MUMSS]] matter for institutional securities lending, prime brokerage adjacency, and full-service financing context.
+- [[financial-regulators/japan-securities-finance|Japan Securities Finance]] is the anchor page for the institutional securities-finance function.
+- [[securities-firms/sbi-securities|SBI Securities]], [[securities-firms/rakuten-securities|Rakuten Securities]], [[securities-firms/matsui-sec|Matsui Securities]], [[securities-firms/gmo-click-securities|GMO Click Securities]], and [[securities-firms/dmm-com-securities|DMM.com Securities]] is routed through margin rates, collateral rules, product restrictions, and active-trader economics.
+- [[securities-firms/nomura-hd|Nomura]], [[securities-firms/daiwa-sg|Daiwa Securities Group]], [[securities-firms/smbc-nikko|SMBC Nikko]], [[securities-firms/mizuho-securities|Mizuho Securities]], and [[securities-firms/mufg-mums|MUMSS]] matter for institutional securities lending, prime brokerage adjacency, and full-service financing context.
 - [[money-market/jgb-repo-market-japan|Japan JGB repo market]] and [[money-market/INDEX|money-market domain]] are adjacent when securities finance becomes a collateral and funding-cost question.
 
 ## Risk Controls
@@ -126,7 +126,7 @@ The important point is that a retail margin trade can become a chain of customer
 ## Related
 
 - [[securities/INDEX]]
-- [[JapanFG/japan-securities-finance]]
+- [[financial-regulators/japan-securities-finance]]
 - [[securities/tokyo-stock-exchange]]
 - [[securities/japan-market-infrastructure-map]]
 - [[securities/japan-best-execution-sor-pts]]
@@ -134,8 +134,8 @@ The important point is that a retail margin trade can become a chain of customer
 - [[securities/japan-prime-brokerage-and-institutional-financing]]
 - [[securities/japan-securities-clearing-corp]]
 - [[securities/japan-securities-depository-center]]
-- [[JapanFG/sbi-securities]]
-- [[JapanFG/rakuten-securities]]
+- [[securities-firms/sbi-securities]]
+- [[securities-firms/rakuten-securities]]
 - [[money-market/jgb-repo-market-japan]]
 - [[INDEX|FinWiki index]]
 

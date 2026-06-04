@@ -61,8 +61,6 @@
     "wikilinks_count": 15,
     "wikilinks": [
       "INDEX",
-      "JapanFG/mitsubishi-ufj-trust-bank",
-      "JapanFG/sumitomo-mitsui-trust",
       "banking/INDEX",
       "banking/trust-bank-custody-operating-comparison",
       "finance/INDEX",
@@ -74,12 +72,12 @@
       "real-estate-finance/j-reit-market-overview",
       "real-estate-finance/j-reit-sponsor-structure-conflict",
       "real-estate-finance/private-reit-japan-vs-listed-j-reit-comparison",
-      "real-estate-finance/top-10-j-reit-overview-matrix"
+      "real-estate-finance/top-10-j-reit-overview-matrix",
+      "trust-banks/mitsubishi-ufj-trust-bank",
+      "trust-banks/sumitomo-mitsui-trust"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/mitsubishi-ufj-trust-bank",
-      "https://finwiki.zksc.io/JapanFG/sumitomo-mitsui-trust",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/trust-bank-custody-operating-comparison",
       "https://finwiki.zksc.io/finance/INDEX",
@@ -91,15 +89,17 @@
       "https://finwiki.zksc.io/real-estate-finance/j-reit-market-overview",
       "https://finwiki.zksc.io/real-estate-finance/j-reit-sponsor-structure-conflict",
       "https://finwiki.zksc.io/real-estate-finance/private-reit-japan-vs-listed-j-reit-comparison",
-      "https://finwiki.zksc.io/real-estate-finance/top-10-j-reit-overview-matrix"
+      "https://finwiki.zksc.io/real-estate-finance/top-10-j-reit-overview-matrix",
+      "https://finwiki.zksc.io/trust-banks/mitsubishi-ufj-trust-bank",
+      "https://finwiki.zksc.io/trust-banks/sumitomo-mitsui-trust"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 9973,
-    "word_like_tokens": 1572,
+    "nonspace_chars": 9981,
+    "word_like_tokens": 1574,
     "inbound_wikilinks_count": 12,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-06-04"
   }
 }

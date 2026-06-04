@@ -16,7 +16,7 @@ The world's major VASP (Virtual Asset Service Provider) regulations have converg
 
 ## Wiki route
 
-This entry sits under [[exchanges/INDEX|exchanges index]]. It is the **横串 (cross-cut)** counterpart to the per-pole files above and reads against [[fintech/global-stablecoin-regulatory-five-pole-matrix|global stablecoin regulatory five-pole matrix]] for the parallel stablecoin axis, and [[JapanFG/legal-financial-licenses/INDEX|legal/financial licenses]] for the system / regulatory boundary on the Japan side.
+This entry sits under [[exchanges/INDEX|exchanges index]]. It is the **横串 (cross-cut)** counterpart to the per-pole files above and reads against [[fintech/global-stablecoin-regulatory-five-pole-matrix|global stablecoin regulatory five-pole matrix]] for the parallel stablecoin axis, and [[financial-licenses/INDEX|legal/financial licenses]] for the system / regulatory boundary on the Japan side.
 
 ## Key facts
 
@@ -207,7 +207,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. It is the **横串 (c
 - [[exchanges/jp-vasp-cold-storage-segregation-rules]] — cold-storage details
 - [[exchanges/global-cex-top10-comparison]] — global CEX 10  leaders positioning
 - [[fintech/global-stablecoin-regulatory-five-pole-matrix]] — stablecoin version of the 5 -pole matrix (being prepared in parallel; link to be resolved after both are published)
-- [[JapanFG/legal-financial-licenses/INDEX|legal/financial licenses]] — the regulatory boundary on the Japan side
+- [[financial-licenses/INDEX|legal/financial licenses]] — the regulatory boundary on the Japan side
 
 ## Sources
 

@@ -12,7 +12,7 @@ translated_at: 2026-06-02T11:47:37.309Z
 
 ## ウィキ上の位置づけ
 
-このエントリは [[banking/INDEX|banking index]] の下に位置し、年金側の需要を信託銀行の供給に接続する。機関投資家のアンカー [[JapanFG/master-trust-bank|MTBJ]] と [[JapanFG/custody-bank|CBJ]]、オペレーティングモデル [[banking/master-trust-bank-operating-model|Master Trust Bank operating model]] と [[banking/custody-bank-operating-model|Custody Bank operating model]]、ランドスケープ視点 [[banking/japan-master-trust-and-custody-bank-landscape|Japan master trust and custody bank landscape]]、陣営横断マトリクス [[banking/japan-trust-bank-vs-global-custodian-comparison-matrix|Japan trust bank vs global custodian comparison matrix]]、運用比較 [[banking/trust-bank-custody-operating-comparison|trust-bank custody operating comparison]]、手数料研究 [[banking/trust-bank-fee-structure-comparison|trust bank fee structure comparison]] とともに読むこと。レールについては [[banking/jasdec-settlement-operations|JASDEC settlement operations]] と、規制ティアについては [[banking/japan-banking-license-tier-comparison-matrix|Japan banking license tier comparison matrix]] と、フロントオフィスの信託銀行側については [[JapanFG/mitsubishi-ufj-trust-bank|MUFG Trust]]、[[JapanFG/sumitomo-mitsui-trust|SMTB]]、[[JapanFG/mizuho-trust-bank|Mizuho Trust]] と、外国資産レグのサブカストディについては [[JapanFG/bny-mellon-japan|BNY Mellon Japan]] / [[JapanFG/state-street-japan|State Street Japan]] / [[JapanFG/jpmorgan-japan|JP Morgan Japan]] とペアにすること。機関投資家のコンテキストについては [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]] を参照。
+このエントリは [[banking/INDEX|banking index]] の下に位置し、年金側の需要を信託銀行の供給に接続する。機関投資家のアンカー [[trust-banks/master-trust-bank|MTBJ]] と [[trust-banks/custody-bank|CBJ]]、オペレーティングモデル [[banking/master-trust-bank-operating-model|Master Trust Bank operating model]] と [[banking/custody-bank-operating-model|Custody Bank operating model]]、ランドスケープ視点 [[banking/japan-master-trust-and-custody-bank-landscape|Japan master trust and custody bank landscape]]、陣営横断マトリクス [[banking/japan-trust-bank-vs-global-custodian-comparison-matrix|Japan trust bank vs global custodian comparison matrix]]、運用比較 [[banking/trust-bank-custody-operating-comparison|trust-bank custody operating comparison]]、手数料研究 [[banking/trust-bank-fee-structure-comparison|trust bank fee structure comparison]] とともに読むこと。レールについては [[banking/jasdec-settlement-operations|JASDEC settlement operations]] と、規制ティアについては [[banking/japan-banking-license-tier-comparison-matrix|Japan banking license tier comparison matrix]] と、フロントオフィスの信託銀行側については [[trust-banks/mitsubishi-ufj-trust-bank|MUFG Trust]]、[[trust-banks/sumitomo-mitsui-trust|SMTB]]、[[trust-banks/mizuho-trust-bank|Mizuho Trust]] と、外国資産レグのサブカストディについては [[foreign-financial-institutions/bny-mellon-japan|BNY Mellon Japan]] / [[foreign-financial-institutions/state-street-japan|State Street Japan]] / [[foreign-financial-institutions/jpmorgan-japan|JP Morgan Japan]] とペアにすること。機関投資家のコンテキストについては [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]] を参照。
 
 ## 要約
 
@@ -217,20 +217,20 @@ Pension plan
 - [[banking/trust-bank-fee-structure-comparison]]
 - [[banking/jasdec-settlement-operations]]
 - [[banking/japan-banking-license-tier-comparison-matrix]]
-- [[JapanFG/master-trust-bank]]
-- [[JapanFG/custody-bank]]
-- [[JapanFG/mitsubishi-ufj-trust-bank]]
-- [[JapanFG/sumitomo-mitsui-trust]]
-- [[JapanFG/mizuho-trust-bank]]
-- [[JapanFG/smbc-trust-bank]]
-- [[JapanFG/nochu-trust-bank]]
-- [[JapanFG/nippon-life]]
-- [[JapanFG/dai-ichi-life]]
-- [[JapanFG/meiji-yasuda]]
-- [[JapanFG/bny-mellon-japan]]
-- [[JapanFG/state-street-japan]]
-- [[JapanFG/jpmorgan-japan]]
-- [[JapanFG/citigroup-japan]]
+- [[trust-banks/master-trust-bank]]
+- [[trust-banks/custody-bank]]
+- [[trust-banks/mitsubishi-ufj-trust-bank]]
+- [[trust-banks/sumitomo-mitsui-trust]]
+- [[trust-banks/mizuho-trust-bank]]
+- [[trust-banks/smbc-trust-bank]]
+- [[trust-banks/nochu-trust-bank]]
+- [[life-insurers/nippon-life]]
+- [[life-insurers/dai-ichi-life]]
+- [[life-insurers/meiji-yasuda]]
+- [[foreign-financial-institutions/bny-mellon-japan]]
+- [[foreign-financial-institutions/state-street-japan]]
+- [[foreign-financial-institutions/jpmorgan-japan]]
+- [[foreign-financial-institutions/citigroup-japan]]
 - [[securities/japan-securities-depository-center]]
 - [[securities/japan-securities-clearing-corp]]
 - [[securities/japan-asset-manager-landscape-matrix]]

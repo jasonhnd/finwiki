@@ -12,11 +12,11 @@ translated_at: 2026-06-03T00:53:08.306Z
 
 ## 要約
 
-合成証券化 — 銀行が裏付けとなるローンを売却せずに、**クレジット・デフォルト・スワップ (CDS)** または **クレジット・リンク・ノート (CLN)** 構造を介して、参照ローン・ポートフォリオの信用リスクを外部投資家に移転する方法 – は、銀行のバランスシート上の **リスク加重資産 (RWA) 救済**のための最新のバーゼル III ツールです。日本では、3 つのメガバンク ([[JapanFG/mufg|MUFG]]、[[JapanFG/smfg|SMFG]]、[[JapanFG/mizuho-fg|Mizuho FG]]) が、**企業融資**、**プロジェクト ファイナンス**、**インフラストラクチャ ファイナンス** ポートフォリオの資本を解放するために合成証券化を選択的に使用してきました。欧州のピアバンクとの取引の流れと比較すると、日本のメガバンクの合成SRT（重要リスク移転）発行は規模が小さく、頻度も低い。日本の銀行は歴史的に十分な資本バッファーを持っており、RWA救済取引は断続的にしか必要としてこなかった。投資家ベースは、世界的な専門的なクレジット投資家ファンド（ヘッジファンド、ストラクチャード・クレジット・ファンド、一部の年金基金）によって占められており、ジュニアまたはメザニンのリスク移転トランシェを吸収することができます。 [[structured-finance/credit-rating-methodology-jcr-r-and-i|FSA capital-relief approval]] では、取引には、特定の会計および資本テストの下で真の信用リスク移転を証明することが求められています。
+合成証券化 — 銀行が裏付けとなるローンを売却せずに、**クレジット・デフォルト・スワップ (CDS)** または **クレジット・リンク・ノート (CLN)** 構造を介して、参照ローン・ポートフォリオの信用リスクを外部投資家に移転する方法 – は、銀行のバランスシート上の **リスク加重資産 (RWA) 救済**のための最新のバーゼル III ツールです。日本では、3 つのメガバンク ([[megabanks/mufg|MUFG]]、[[megabanks/smfg|SMFG]]、[[megabanks/mizuho-fg|Mizuho FG]]) が、**企業融資**、**プロジェクト ファイナンス**、**インフラストラクチャ ファイナンス** ポートフォリオの資本を解放するために合成証券化を選択的に使用してきました。欧州のピアバンクとの取引の流れと比較すると、日本のメガバンクの合成SRT（重要リスク移転）発行は規模が小さく、頻度も低い。日本の銀行は歴史的に十分な資本バッファーを持っており、RWA救済取引は断続的にしか必要としてこなかった。投資家ベースは、世界的な専門的なクレジット投資家ファンド（ヘッジファンド、ストラクチャード・クレジット・ファンド、一部の年金基金）によって占められており、ジュニアまたはメザニンのリスク移転トランシェを吸収することができます。 [[structured-finance/credit-rating-methodology-jcr-r-and-i|FSA capital-relief approval]] では、取引には、特定の会計および資本テストの下で真の信用リスク移転を証明することが求められています。
 
 ## ウィキ上の位置づけ
 
-このエントリは、**銀行資本管理** 証券化ノードとして [[structured-finance/INDEX|structured-finance index]] の下にあります。 [[structured-finance/japan-abs-market-overview|Japan ABS market overview]] (合成の代替としての実際の販売 ABS)、法的構造レイヤーの [[structured-finance/spv-tk-gk-vehicle-japan-tax|TK / GK SPV vehicle]]、および基礎となるクレジット デリバティブ インフラストラクチャの [[derivatives/japan-cds-market-overview|Japan CDS market overview]] に対して読み取ります。システムフレーム: [[finance/INDEX|finance index]] (より広範な銀行資本コンテキスト用)、および機関アンカー: [[JapanFG/mufg|MUFG]]、[[JapanFG/smfg|SMFG]]、[[JapanFG/mizuho-fg|Mizuho FG]]。
+このエントリは、**銀行資本管理** 証券化ノードとして [[structured-finance/INDEX|structured-finance index]] の下にあります。 [[structured-finance/japan-abs-market-overview|Japan ABS market overview]] (合成の代替としての実際の販売 ABS)、法的構造レイヤーの [[structured-finance/spv-tk-gk-vehicle-japan-tax|TK / GK SPV vehicle]]、および基礎となるクレジット デリバティブ インフラストラクチャの [[derivatives/japan-cds-market-overview|Japan CDS market overview]] に対して読み取ります。システムフレーム: [[finance/INDEX|finance index]] (より広範な銀行資本コンテキスト用)、および機関アンカー: [[megabanks/mufg|MUFG]]、[[megabanks/smfg|SMFG]]、[[megabanks/mizuho-fg|Mizuho FG]]。
 
 ## 1。問題 — 融資の増加に対する銀行資本の制約
 
@@ -149,7 +149,7 @@ FSA は、SRT 準拠に関して各取引を個別に審査します。これは
 ## 10. 未解決の論点
 
 - バーゼル最終決定圧力下における日本のメガバンクのシンセティックSRT発行ペース（出力下限発効日など）
-- [[JapanFG/japan-post-bank|Japan Post Bank]] または大手地方銀行が合成 SRT を発行するかどうか (これまでのところ、活動はメガバンクに集中しています)
+- [[regional-banks/japan-post-bank|Japan Post Bank]] または大手地方銀行が合成 SRT を発行するかどうか (これまでのところ、活動はメガバンクに集中しています)
 - FSA の承認プロセスが時間の経過とともにより標準化され、構造上の摩擦が軽減されるかどうか
 - 日本の機関投資家（生命保険会社、年金基金）が合成SRT取引のシニアトランシェへの意欲を高めるかどうか
 - 合成 SRT と [[structured-finance/aircraft-leasing-financing-japan-shosha|aircraft]] / [[structured-finance/ship-financing-japan-megabank|ship]] / [[structured-finance/project-finance-spv-japan-renewable|project-finance]] ローンブックとの相互作用 — 資本集約型の特殊ローン ポートフォリオが自然な候補です
@@ -174,8 +174,8 @@ FSA は、SRT 準拠に関して各取引を個別に審査します。これは
 - [[finance/INDEX|finance index]]・[[finance/japan-leveraged-buyout-economics|Japan LBO economics]]
 - [[real-estate-finance/INDEX|real-estate-finance index]]
 - [[policy-finance/japan-project-finance-stack-diagram|Japan project finance stack]]
-- [[JapanFG/mufg|MUFG]]・[[JapanFG/smfg|SMFG]]・[[JapanFG/mizuho-fg|Mizuho FG]]
-- [[JapanFG/norinchukin|Norinchukin]]・[[JapanFG/japan-post-bank|Japan Post Bank]]・[[JapanFG/japan-exchange-group|JPX]]
+- [[megabanks/mufg|MUFG]]・[[megabanks/smfg|SMFG]]・[[megabanks/mizuho-fg|Mizuho FG]]
+- [[cooperative-banks/norinchukin|Norinchukin]]・[[regional-banks/japan-post-bank|Japan Post Bank]]・[[financial-regulators/japan-exchange-group|JPX]]
 
 ## 出典
 

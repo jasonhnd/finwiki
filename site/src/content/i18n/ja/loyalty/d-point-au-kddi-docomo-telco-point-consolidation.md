@@ -19,9 +19,9 @@ translated_at: 2026-06-02T16:33:58.488Z
 
 | プログラム | アンカー | 提携先 | 決済統合 | 金融グループ統合 |
 |---|---|---|---|---|
-| **d Point** | NTT docomo の通信加入者 | Lawson, McDonald's, Matsumoto Kiyoshi, ENEOS など | d払い（d-barai QR）, d Card credit, d Card Prepaid | NTT Docomo 金融部門 → [[JapanFG/ndfg|NDFG]]（SMBC 信託ルートを含む統合を予定） |
-| **au PAY ポイント（旧 Ponta）** | KDDI / au 通信加入者 + Recruit Holdings 共同アンカー連合 | Lawson, GEO, Shell SS（出光昭和シェル）, Recruit Group services（じゃらん, Hot Pepper など） | au PAY（QR）, au PAY カード, au PAY プリペイドカード | [[JapanFG/au-fh|au FH (KDDI 金融持株)]] + [[JapanFG/au-payment|au Payment]] |
-| **V Point** | SMBC Group 金融加入者 + CCC データベース | T-Card legacy network（CCC）, SMBC card 会員, Olive 口座 | Olive一体型, SMBC card, V NEAR PAY | [[JapanFG/smfg|SMFG]] / SMBC card |
+| **d Point** | NTT docomo の通信加入者 | Lawson, McDonald's, Matsumoto Kiyoshi, ENEOS など | d払い（d-barai QR）, d Card credit, d Card Prepaid | NTT Docomo 金融部門 → [[megabanks/ndfg|NDFG]]（SMBC 信託ルートを含む統合を予定） |
+| **au PAY ポイント（旧 Ponta）** | KDDI / au 通信加入者 + Recruit Holdings 共同アンカー連合 | Lawson, GEO, Shell SS（出光昭和シェル）, Recruit Group services（じゃらん, Hot Pepper など） | au PAY（QR）, au PAY カード, au PAY プリペイドカード | [[megabanks/au-fh|au FH (KDDI 金融持株)]] + [[payment-firms/au-payment|au Payment]] |
+| **V Point** | SMBC Group 金融加入者 + CCC データベース | T-Card legacy network（CCC）, SMBC card 会員, Olive 口座 | Olive一体型, SMBC card, V NEAR PAY | [[megabanks/smfg|SMFG]] / SMBC card |
 
 通信キャリア起点の二つのプログラムと銀行起点の V Point の戦略的な違いは、**本人識別の起点**にある。
 
@@ -52,9 +52,9 @@ translated_at: 2026-06-02T16:33:58.488Z
 | 概算会員 ID 基盤 | 100M+ d-account ID（NTT docomo 公開開示） | 100M+ Ponta ID / au ID 合算（KDDI / Recruit 公開資料） | 130M+ 統合時点（CCC + SMBC 公開資料） |
 | ウォレット統合 | d払い（QR） | au PAY（QR） | V NEAR PAY（NFC）+ Olive一体型 |
 | カード | d Card / d Card GOLD（NTT docomo 発行） | au PAY カード（au Financial Service 発行） | SMBC card / Olive一体型（SMBC） |
-| 銀行 | （NDFG 統合予定、現状は提携銀行） | au じぶん銀行（[[JapanFG/au-fh|au FH]] 子会社） | SMBC + Olive |
+| 銀行 | （NDFG 統合予定、現状は提携銀行） | au じぶん銀行（[[megabanks/au-fh|au FH]] 子会社） | SMBC + Olive |
 | 証券 | （SMBC 提携から NTT ルートへ向かう予定経路） | au カブコム証券（au FH 子会社） | SMBC日興証券 |
-| 保険 | （NTT docomo 保険販売 + NDFG への巻き取り予定） | [[JapanFG/au-insurance|au 損害保険]] + au アセットマネジメント | 提携保険ルート |
+| 保険 | （NTT docomo 保険販売 + NDFG への巻き取り予定） | [[non-life-insurers/au-insurance|au 損害保険]] + au アセットマネジメント | 提携保険ルート |
 | 主要小売 | Lawson, McDonald's, Matsumoto Kiyoshi, ENEOS | Lawson, GEO, 出光, Recruit ecosystem | T-card legacy network（Tsutaya, スーパーなど） |
 | モバイルキャリア | NTT docomo（mobile, ahamo, irumo） | au, UQ mobile, povo | （なし） |
 
@@ -70,24 +70,24 @@ d Point と au PAY ポイント（Ponta）はどちらも Lawson で使える。
 
 ## NTT docomo — NDFG のフロントエンドとしての d Point
 
-d Point プログラムは、NTT docomo が進めるより広い **金融持株会社** 構造の消費者向けレイヤーである。組み立てられている統合構造は [[JapanFG/ndfg|NDFG (NTT docomo financial group)]] を参照。戦略の流れは次のとおり。
+d Point プログラムは、NTT docomo が進めるより広い **金融持株会社** 構造の消費者向けレイヤーである。組み立てられている統合構造は [[megabanks/ndfg|NDFG (NTT docomo financial group)]] を参照。戦略の流れは次のとおり。
 
 1. **d-account** を、docomo、d払い、d Card、dアカウント銀行パートナー、dアカウント NISA パートナーを横断する単一顧客 ID とする。
 2. **d Point** を、体験全体を結び付けるロイヤルティ通貨とする。
 3. **NDFG 持株会社** を、銀行、証券、保険、信託子会社を一つの金融グループ傘下に統合する規制上の器とする。
 4. **SMBC 信託ルート** を、NTT / SMBC 発表で公開された具体的な統合レバーの一つとする。
 
-NTT の公開資料が示唆する最終形は、ポイント・決済・金融サービス統合バンドルで [[JapanFG/rakuten-fg|Rakuten FG]] や [[JapanFG/paypay-fg|PayPay FG]] と競う **通信キャリア起点の金融スーパーグループ** であり、基礎アンカーは **通信加入キャッシュフロー** である。
+NTT の公開資料が示唆する最終形は、ポイント・決済・金融サービス統合バンドルで [[payment-firms/rakuten-fg|Rakuten FG]] や [[megabanks/paypay-fg|PayPay FG]] と競う **通信キャリア起点の金融スーパーグループ** であり、基礎アンカーは **通信加入キャッシュフロー** である。
 
 ## KDDI — au FH 内の au Point
 
-KDDI の並行構造は、金融面では NTT よりも **既に統合済み** に近い。[[JapanFG/au-fh|au FH (au Financial Holdings)]] は既に以下を保有する。
+KDDI の並行構造は、金融面では NTT よりも **既に統合済み** に近い。[[megabanks/au-fh|au FH (au Financial Holdings)]] は既に以下を保有する。
 
 - au じぶん銀行（インターネット銀行、MUFG との旧提携経緯）
 - au カブコム証券
-- au 損害保険 / [[JapanFG/au-insurance|au 損害保険]]
+- au 損害保険 / [[non-life-insurers/au-insurance|au 損害保険]]
 - au アセットマネジメント
-- [[JapanFG/au-payment|au Payment]]（au PAY の運営者）
+- [[payment-firms/au-payment|au Payment]]（au PAY の運営者）
 - au Pay Card
 
 au PAY ポイントプログラムは、これらの子会社を一つの顧客ファネル物語に結び付ける **ロイヤルティ通貨** として機能する。Ponta を通じた Recruit の連合提携は、その上に旅行、飲食、サービスなど通信以外の面を加える。
@@ -105,7 +105,7 @@ V Point（[[loyalty/v-point-smbc-ccc-case|V Point (SMBC × CCC) case]] 参照）
 | データグラフは何か。 | 位置情報 + アプリ + 通信利用 | 支出 + 口座フロー + CCC 小売データベース |
 | 競争上の堀は何か。 | 携帯回線乗換えの粘着性 | 銀行口座乗換えの粘着性 |
 | 規制アンカーは何か。 | 電気通信事業法 + 資金決済法（決済） | 銀行法 + 割賦販売法 + 資金決済法 |
-| 金融グループの最終状態は何か。 | 通信キャリア起点の金融持株会社（[[JapanFG/ndfg|NDFG]], [[JapanFG/au-fh|au FH]]） | 銀行主導グループ（[[JapanFG/smfg|SMFG]] / Olive） |
+| 金融グループの最終状態は何か。 | 通信キャリア起点の金融持株会社（[[megabanks/ndfg|NDFG]], [[megabanks/au-fh|au FH]]） | 銀行主導グループ（[[megabanks/smfg|SMFG]] / Olive） |
 
 二つのアンカー型は、カード、銀行、証券、保険、決済、小売メディアという同じ下流商品に収束する。しかし到達経路となる顧客獲得ファネルと、防御的な経済性は異なる。通信キャリアのアンカーは基礎サブスクリプションの解約率が低く、金融アンカーはアクティブ関係あたり収益が高い。
 
@@ -143,7 +143,7 @@ V Point（[[loyalty/v-point-smbc-ccc-case|V Point (SMBC × CCC) case]] 参照）
 ## 戦略的な読み方
 
 - **通信キャリア起点のポイントプログラムは、日本で最もコスト効率の高いクロスセル基盤である**。携帯契約が KYC、顧客獲得、継続請求レールの費用を既に負担しており、ロイヤルティ層は支払済みの関係を収益化するためである。
-- **d Point / au PAY ポイントの競争は数十年単位の争いである**。両アンカーは全国展開し、統合金融持株を持ち、どちらにも構造的なコスト劣位がない。PayPay のエコシステム（[[JapanFG/paypay-fg|PayPay FG]]）は別の出発点（携帯回線アンカーではなく LY / SoftBank / Yahoo データ資産）から運営され、第三の軸で競争する。
+- **d Point / au PAY ポイントの競争は数十年単位の争いである**。両アンカーは全国展開し、統合金融持株を持ち、どちらにも構造的なコスト劣位がない。PayPay のエコシステム（[[megabanks/paypay-fg|PayPay FG]]）は別の出発点（携帯回線アンカーではなく LY / SoftBank / Yahoo データ資産）から運営され、第三の軸で競争する。
 - **コード決済浸透は、より深い金融グループ競争の可視層である**。ウォレット側の見方は [[payments/japan-code-payment-competitive-map|Japan code-payment competitive map]] を参照。d払いと au PAY は、主に取引単位データを取得し、カード / 銀行 / 保険 / 証券へのクロスセル基盤を広げるために存在する。
 - **ポイント負債会計の論点は通信キャリア規模でより重要になる**。d Point と au PAY ポイントはいずれも数百億円規模の未払ロイヤルティ負債を抱え、重要な失効率仮定を持つ。IFRS-15  / J-GAAP の処理は [[loyalty/point-liability-accounting-boundary|point liability accounting boundary]] に記載される。
 - **小売買収（Lawson、ENEOS、Matsumoto Kiyoshi）はもはやコモディティではない**。KDDI の [[retail/lawson-kddi-retail-finance|Lawson]] の動きは、複数ポイント提携のコスト基盤を変える。NTT docomo が小売アンカーに対して同様の資本施策を取るか注視する。
@@ -154,12 +154,12 @@ V Point（[[loyalty/v-point-smbc-ccc-case|V Point (SMBC × CCC) case]] 参照）
 - [[loyalty/japan-points-landscape|Japan points and loyalty landscape]]
 - [[loyalty/v-point-smbc-ccc-case|V Point (SMBC × CCC) case]]
 - [[loyalty/point-liability-accounting-boundary|point liability accounting boundary]]
-- [[JapanFG/ndfg|NDFG (NTT docomo financial group)]]
-- [[JapanFG/au-fh|au FH (au Financial Holdings)]]
-- [[JapanFG/au-payment|au Payment]]
-- [[JapanFG/au-insurance|au 損害保険]]
-- [[JapanFG/rakuten-fg|Rakuten FG]]
-- [[JapanFG/paypay-fg|PayPay FG]]
+- [[megabanks/ndfg|NDFG (NTT docomo financial group)]]
+- [[megabanks/au-fh|au FH (au Financial Holdings)]]
+- [[payment-firms/au-payment|au Payment]]
+- [[non-life-insurers/au-insurance|au 損害保険]]
+- [[payment-firms/rakuten-fg|Rakuten FG]]
+- [[megabanks/paypay-fg|PayPay FG]]
 - [[retail/lawson-kddi-retail-finance|Lawson × KDDI retail finance]]
 - [[retail/INDEX|retail INDEX]]
 - [[payments/japan-code-payment-competitive-map|Japan code-payment competitive map]]

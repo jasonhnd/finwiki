@@ -11,7 +11,7 @@ translated_at: 2026-06-01T04:15:40.106Z
 
 ## TL;DR
 
-A **repackaging note (repackaged bond, "repack")** is a structured-credit product in which an [[structured-finance/spv-tk-gk-vehicle-japan-tax|SPV]] purchases an underlying debt asset (a bond, a loan, a basket of bonds), enters into derivative overlays (currency swap, interest-rate swap, sometimes credit-default swap), and reissues new notes to investors with a different combination of currency, coupon structure, maturity, or credit profile. The Japanese market has both **institutional repacks** (typically large-ticket, sold by megabank-securities arms and foreign investment banks to Japanese life insurers, regional banks, [[JapanFG/japan-post-bank|JPost]], pension funds, asset managers — converting USD corporate bonds into JPY fixed-rate notes, for example) and **retail repacks** (smaller-denomination, distributed through retail brokerage networks of [[JapanFG/nomura-securities|Nomura]], [[JapanFG/daiwa-securities|Daiwa]], regional securities firms — typically high-coupon notes linked to FX or rate triggers, often involving emerging-market sovereign bond underlying). The dealer franchise is split between **Japanese megabank securities subsidiaries** ([[JapanFG/mufg-securities|MUFG MS]], [[JapanFG/smbc-nikko|SMBC Nikko]], [[JapanFG/mizuho-securities|Mizuho Securities]]) and **foreign investment banks** (Goldman, Morgan Stanley, J.P. Morgan, Citi, BNP Paribas, others) which were historically the originators of the repack franchise in Japan.
+A **repackaging note (repackaged bond, "repack")** is a structured-credit product in which an [[structured-finance/spv-tk-gk-vehicle-japan-tax|SPV]] purchases an underlying debt asset (a bond, a loan, a basket of bonds), enters into derivative overlays (currency swap, interest-rate swap, sometimes credit-default swap), and reissues new notes to investors with a different combination of currency, coupon structure, maturity, or credit profile. The Japanese market has both **institutional repacks** (typically large-ticket, sold by megabank-securities arms and foreign investment banks to Japanese life insurers, regional banks, [[regional-banks/japan-post-bank|JPost]], pension funds, asset managers — converting USD corporate bonds into JPY fixed-rate notes, for example) and **retail repacks** (smaller-denomination, distributed through retail brokerage networks of [[securities-firms/nomura-securities|Nomura]], [[securities-firms/daiwa-securities|Daiwa]], regional securities firms — typically high-coupon notes linked to FX or rate triggers, often involving emerging-market sovereign bond underlying). The dealer franchise is split between **Japanese megabank securities subsidiaries** ([[securities-firms/mufg-securities|MUFG MS]], [[securities-firms/smbc-nikko|SMBC Nikko]], [[securities-firms/mizuho-securities|Mizuho Securities]]) and **foreign investment banks** (Goldman, Morgan Stanley, J.P. Morgan, Citi, BNP Paribas, others) which were historically the originators of the repack franchise in Japan.
 
 ## Wiki route
 
@@ -88,13 +88,13 @@ The retail repack market in Japan is particularly large and has historically bee
 **Foreign investment banks** (Goldman, Morgan Stanley, J.P. Morgan, Citi, BNP Paribas, Société Générale, others) were historically the originators of the repack franchise in Japan — they brought the structuring expertise, the derivative infrastructure, and the cross-currency-swap capacity that made the products feasible.
 
 **Japanese megabank securities subsidiaries** built repack businesses over time:
-- [[JapanFG/mufg-securities|MUFG Morgan Stanley Securities]] (joint venture)
-- [[JapanFG/smbc-nikko|SMBC Nikko Securities]]
-- [[JapanFG/mizuho-securities|Mizuho Securities]]
+- [[securities-firms/mufg-securities|MUFG Morgan Stanley Securities]] (joint venture)
+- [[securities-firms/smbc-nikko|SMBC Nikko Securities]]
+- [[securities-firms/mizuho-securities|Mizuho Securities]]
 
 The split today is roughly:
 - Institutional repack: foreign IB strong in cross-currency complex deals; Japanese megabank securities strong in simpler institutional repackages and in relationship-driven placements
-- Retail repack: Japanese securities firms ([[JapanFG/nomura-securities|Nomura]], [[JapanFG/daiwa-securities|Daiwa]], regional brokerages) dominate distribution
+- Retail repack: Japanese securities firms ([[securities-firms/nomura-securities|Nomura]], [[securities-firms/daiwa-securities|Daiwa]], regional brokerages) dominate distribution
 
 ## 5. SPV / legal structure
 
@@ -153,7 +153,7 @@ The "structuring cost" (dealer margin) reduces the yield to the investor relativ
 
 ## 10. Open questions
 
-- The size of the retail repack market under [[JapanFG/boj|BOJ]] rate normalisation — whether higher domestic yields reduce demand for high-coupon retail structures
+- The size of the retail repack market under [[financial-regulators/boj|BOJ]] rate normalisation — whether higher domestic yields reduce demand for high-coupon retail structures
 - Whether ESG-linked repacks (e.g., green-bond underlying repackaged into yen) gain meaningful share
 - The pace of foreign-IB market-share evolution in Japanese repack vs domestic megabank securities arms
 - Whether the [[structured-finance/credit-rating-methodology-jcr-r-and-i|JCR / R&I]] and global-agency methodology divergence affects repack issuance economics
@@ -169,8 +169,8 @@ The "structuring cost" (dealer margin) reduces the yield to the investor relativ
 - [[derivatives/japan-cds-market-overview|Japan CDS market overview]]
 - [[finance/INDEX|finance index]]
 - [[real-estate-finance/INDEX|real-estate-finance index]]
-- [[JapanFG/mufg|MUFG]] · [[JapanFG/smfg|SMFG]] · [[JapanFG/mizuho-fg|Mizuho FG]]
-- [[JapanFG/japan-post-bank|Japan Post Bank]] · [[JapanFG/japan-exchange-group|JPX]]
+- [[megabanks/mufg|MUFG]] · [[megabanks/smfg|SMFG]] · [[megabanks/mizuho-fg|Mizuho FG]]
+- [[regional-banks/japan-post-bank|Japan Post Bank]] · [[financial-regulators/japan-exchange-group|JPX]]
 
 ## Sources
 

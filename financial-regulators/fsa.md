@@ -1,0 +1,152 @@
+---
+title: 金融庁 (FSA)
+aliases: ["FSA", "Financial Services Agency", "金融庁", "Kinyu-cho"]
+domain: financial-regulators
+created: 2026-05-25
+last_updated: 2026-05-25
+last_tended: 2026-05-25
+review_by: 2026-11-25
+confidence: likely
+tags: [JapanFG, regulator, financial-supervision, government-agency]
+status: active
+sources:
+  - "Wikipedia: 金融庁 (2026-05-25 抽出)"
+  - "金融庁 公式サイト (https://www.fsa.go.jp/, 2026-05-25 参照)"
+  - "金融庁設置法 (平成 10 年法律第 130 号)"
+  - "内閣府設置法 (平成 11 年法律第 89 号)"
+---
+# 金融庁 (FSA)
+
+## Wiki route
+
+This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[financial-regulators/boj|日本銀行]] for the central-bank counterpart, and [[financial-regulators/dic|預金保険機構]] / [[financial-regulators/sonpo-hosho-kiko|損保機構]] / [[financial-regulators/seimei-hokensha-hogo-kiko|生保機構]] for the safety-net peers it supervises.
+
+## TL;DR
+
+**日本の銀行・保険・証券・暗号資産業を一元監督する内閣府外局**。**2000-07-01 大蔵省（旧 MoF）から分離・金融監督庁 → 2000-07 金融庁** へ。前史: 1998 大蔵省接待汚職事件 → 銀行行政の信頼失墜 → 「銀行監督」「金融政策」分離方針。**戦略局（旧総合政策局）+ 監督局 + 検査局（廃止統合済）+ 企画市場局**（執行体制再編後、現在は **総合政策局 + 企画市場局 + 監督局 + 政策立案総括審議官** 体制）。長官は事務方トップ、その上に **金融担当大臣**（内閣府特命担当大臣）が政治指揮。仮想通貨/暗号資産規制（2017 改正資金決済法）、コーポレートガバナンス・コード（2014）、スチュワードシップ・コード（2014）、サステナビリティ開示（2022〜）等、ここ 10 年で監督領域は大幅拡大。
+
+## 1. 法的根拠・設立
+
+**正式名**: 金融庁
+**英名**: Financial Services Agency (FSA)
+**法的根拠**: **金融庁設置法**（平成 10 年法律第 130 号）+ **内閣府設置法**
+**設立**: **2000-07-01**（金融監督庁 → 金融庁に改組）
+**位置付け**: **内閣府外局**
+**本部**: 東京都千代田区霞が関 3-2-1
+**主管大臣**: **金融担当大臣**（内閣府特命担当大臣、首相直属）
+**長官**: 事務方トップ
+
+### 沿革
+
+```
+〜1998   大蔵省 銀行局 / 証券局 / 国際金融局 が一元監督
+1998     大蔵省接待汚職事件 → 銀行行政の信頼失墜
+1998-06  金融監督庁 設置（大蔵省から監督機能分離）
+2000-07  **金融再生委員会と統合 → 金融庁発足**
+2001-01  中央省庁再編 → 内閣府外局として再定置
+2017-04  仮想通貨交換業者登録制度 開始
+2018-04  企画市場局 + 監督局体制が定着
+```
+
+### 重要年表
+
+| 年月 | 事象 |
+|---|---|
+| 1998-03 | 大蔵省接待汚職事件 → 国会答弁・銀行行政信頼失墜 |
+| **1998-06** | **金融監督庁 発足** |
+| 1998-10 | 金融再生委員会発足（銀行破綻処理担当）|
+| **2000-07** | **金融監督庁 + 金融再生委員会事務局 → 金融庁発足** |
+| 2003-05 | [[megabanks/resona-hd|りそな]] 公的資金注入・実質国有化 |
+| **2006-06** | **金融商品取引法 成立**（証券取引法を全面改正）|
+| 2007-09 | 金融商品取引法 施行 |
+| **2014-06** | **スチュワードシップ・コード 公表** |
+| **2014-06** | **コーポレートガバナンス・コード 公表（東証と共同）** |
+| **2017-04** | **改正資金決済法施行 → 仮想通貨（暗号資産）交換業者登録制度** |
+| 2018-01 | コインチェック流出事件 → 暗号資産規制強化 |
+| 2020 | **コロナ対応金融政策・モラトリアム・電子決済等代行業強化** |
+| **2022-04** | **金融商品取引法改正 → サステナビリティ開示強化** |
+| 2023-04 | デジタル証券（ST）規制整備 |
+
+## 2. 組織体制（現行）
+
+```
+金融担当大臣（内閣府特命担当大臣・政治指揮）
+   │
+金融庁長官（事務方トップ）
+   ├── 金融国際審議官（国際・グローバル業務）
+   ├── 政策立案総括審議官
+   │
+   ├── [[financial-regulators/fsa-strategy-bureau|総合政策局（戦略局）]] ── 監督全般・横断政策
+   ├── [[financial-regulators/fsa-planning-coordination-bureau|企画市場局]] ── 制度設計・市場規制
+   ├── [[financial-regulators/fsa-supervision-bureau|監督局]] ── 個別業者監督（銀行・保険・証券）
+   ├── [[financial-regulators/fsa-inspection-bureau|検査局]]（旧体制、現在は監督局・総合政策局に統合済）
+   │
+   └── 証券取引等監視委員会（SESC、3 条委員会）
+            証券市場の検査・調査・告発
+```
+
+※ 検査局は 2018-07 組織改革で監督局・総合政策局に機能統合。現在は「検査・監督一体運営」体制。
+
+### 主要審議会・会議体
+
+- **金融審議会**: 政策諮問機関、制度改正の議論ハブ
+- **金融機能強化審査会**: 公的資金注入案件審査
+- **公認会計士・監査審査会**: 会計士監督
+- **証券取引等監視委員会**（SESC）: 市場監視
+
+## 3. 監督対象
+
+| 業態 | 監督根拠法 | 主要対象 |
+|---|---|---|
+| **銀行** | 銀行法 | [[megabanks/mufg-bank|MUFG]] / [[megabanks/smbc|SMBC]] / [[megabanks/mizuho-bank|みずほ]] / 地銀 / 信金 等 |
+| **証券** | 金融商品取引法 | [[securities-firms/nomura-hd|野村]] / [[securities-firms/daiwa-sg|大和]] / [[securities-firms/mizuho-securities|みずほ証券]] 等 |
+| **保険** | 保険業法 | [[non-life-insurers/tokio-marine-hd|東京海上]] / [[life-insurers/dai-ichi-life-hd|第一生命]] / [[life-insurers/kampo-life|かんぽ]] 等 |
+| **資産運用** | 金融商品取引法 | 投信投資顧問業者 |
+| **資金移動業** | 資金決済法 | [[payment-firms/paypay|PayPay]] / [[megabanks/line-pay|LINE Pay]] 等 |
+| **暗号資産業** | 改正資金決済法（2017）| [[payment-firms/bitflyer|bitFlyer]] / [[payment-firms/gmo-coin|GMO コイン]] 等 |
+| **貸金業** | 貸金業法 | [[consumer-finance/acom|アコム]] / [[consumer-finance/aiful|アイフル]] 等 |
+
+### コーポレートガバナンス・コード（2014〜）
+
+- [[financial-regulators/japan-exchange-group|JPX]] と共同策定
+- プライム市場では遵守 or 説明（comply-or-explain）原則
+- 取締役会の独立性・多様性・指名報酬委員会等の明文化
+- 2018 / 2021 改訂で社外取締役・独立社外取締役比率・サステナビリティ等強化
+
+### スチュワードシップ・コード（2014〜）
+
+- 機関投資家の議決権行使・対話原則
+- 2017 / 2020 改訂で ESG・サステナビリティ・パッシブファンドへの拡張
+
+### 暗号資産規制（2017〜）
+
+- 改正資金決済法で暗号資産交換業者登録制度
+- 2018 コインチェック流出事件で規制強化
+- 2019 改正で「仮想通貨」→「暗号資産」呼称変更
+- ステーブルコイン規制（2022 改正資金決済法）
+
+### サステナビリティ開示（2022〜）
+
+- 有価証券報告書での **サステナビリティ情報開示義務化**
+- [[finance/issb|ISSB]] / [[finance/ssbj|SSBJ]] 基準連動
+- 2024 SSBJ 基準正式公表
+
+## Related
+
+- [[financial-regulators/fsa-strategy-bureau|FSA 総合政策局（戦略局）]] · [[financial-regulators/fsa-planning-coordination-bureau|FSA 企画市場局]] · [[financial-regulators/fsa-supervision-bureau|FSA 監督局]] · [[financial-regulators/fsa-inspection-bureau|FSA 検査局]]
+- [[financial-regulators/boj|日本銀行]] · [[financial-regulators/dic|預金保険機構]] · [[financial-regulators/sonpo-hosho-kiko|損保機構]] · [[financial-regulators/seimei-hokensha-hogo-kiko|生保機構]]
+- [[financial-regulators/japan-exchange-group|日本取引所グループ]] · [[financial-regulators/jsda|日本証券業協会]]
+- [[financial-regulators/jcr|JCR]] · [[financial-regulators/rating-and-investment|R&I]]
+- [[JapanFG/INDEX|JapanFG index]]
+
+## Sources
+
+- **Wikipedia: 金融庁**（https://ja.wikipedia.org/wiki/金融庁, 2026-05-25 抽出）
+- **金融庁 公式サイト**（https://www.fsa.go.jp/, 2026-05-25 参照）
+- **金融庁組織図**（https://www.fsa.go.jp/common/about/organization/index.html, 2026-05-25 参照）
+- **金融庁設置法**（平成 10 年法律第 130 号）
+- **内閣府設置法**（平成 11 年法律第 89 号）
+
+---
+
+> [!info] 校核状態

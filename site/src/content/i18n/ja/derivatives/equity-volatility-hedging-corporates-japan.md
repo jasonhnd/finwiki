@@ -19,7 +19,7 @@ translated_at: 2026-06-02T11:47:37.312Z
 3. **M&A 公表前の保護** — 買収企業と対象企業の取締役会は、FIEA のもとのインサイダー取引制約を条件として、検討中の取引をめぐってディーラーバンクと公表前のコールオプション、カラー取り決め、ブロックトレードヘッジをストラクチャーすることがある;
 4. **自己株式買戻しプログラムのヘッジ** — 大規模な自社株買いプログラムを実行する企業は、ディーラーバンクのカウンターパーティと加速型自社株買戻し(ASR)のバリアント、分散スワップオーバーレイ、オプションカラー構造を使う。
 
-この株式企業ヘッジフローの**反対側のディーラーフランチャイズ**は、国内企業のカバレッジについてはメガバンクの証券部門([[JapanFG/nomura-hd|Nomura]], [[JapanFG/daiwa-sg|Daiwa]], [[JapanFG/smbc-nikko|SMBC Nikko]], [[JapanFG/mizuho-securities|Mizuho Securities]])に、クロスボーダーおよびストラクチャード商品のキャパシティについてはグローバル IB([[JapanFG/goldman-sachs-japan|GS Japan]], [[JapanFG/morgan-stanley-japan|MS Japan]], [[JapanFG/jpmorgan-japan|JPM Japan]], [[JapanFG/citigroup-japan|Citi Japan]])に集中している。これは日本の [[derivatives/dealer-bank-derivatives-revenue-mix|dealer-bank derivatives revenue mix]] の株式デリバティブのエンドユーザーの柱である。
+この株式企業ヘッジフローの**反対側のディーラーフランチャイズ**は、国内企業のカバレッジについてはメガバンクの証券部門([[securities-firms/nomura-hd|Nomura]], [[securities-firms/daiwa-sg|Daiwa]], [[securities-firms/smbc-nikko|SMBC Nikko]], [[securities-firms/mizuho-securities|Mizuho Securities]])に、クロスボーダーおよびストラクチャード商品のキャパシティについてはグローバル IB([[securities-firms/goldman-sachs-japan|GS Japan]], [[securities-firms/morgan-stanley-japan|MS Japan]], [[foreign-financial-institutions/jpmorgan-japan|JPM Japan]], [[foreign-financial-institutions/citigroup-japan|Citi Japan]])に集中している。これは日本の [[derivatives/dealer-bank-derivatives-revenue-mix|dealer-bank derivatives revenue mix]] の株式デリバティブのエンドユーザーの柱である。
 
 このエントリは、4つの企業ユースケース、それぞれで使われる OTC 商品セット、ディーラーフランチャイズの経済性、規制境界(インサイダー取引、大量保有開示、自己株式ルール)、およびこのセグメントが米国の企業株式デリバティブヘッジより**小さくよりディーラー仲介的**にとどまる構造的理由をカバーする。
 
@@ -31,7 +31,7 @@ translated_at: 2026-06-02T11:47:37.312Z
 
 日本企業は、米国や欧州のピアが同程度には抱えない**構造的に独特な**株式ボラティリティエクスポージャーを抱える:
 
-- **持ち合い株式** — 上場日本非金融企業は集合的に、事業パートナー(サプライヤー、顧客、銀行取引関係のカウンターパーティ)に大きなバランスシート株式ポジションを保有する。これらのポジションは会計ルールのもとで OCI を通じて時価評価され、資本と利益への含意を持つ。現在の10年にわたる [[finance/japan-cross-shareholding-unwinding-economics|cross-shareholding unwinding]] サイクル — [[JapanFG/japan-exchange-group|JPX]] コーポレートガバナンスコードの改訂と FSA の開示圧力に駆動される — は、企業が期中のボラティリティに対してしばしばヘッジしたい株式売却の継続的な構造的フローを生む;
+- **持ち合い株式** — 上場日本非金融企業は集合的に、事業パートナー(サプライヤー、顧客、銀行取引関係のカウンターパーティ)に大きなバランスシート株式ポジションを保有する。これらのポジションは会計ルールのもとで OCI を通じて時価評価され、資本と利益への含意を持つ。現在の10年にわたる [[finance/japan-cross-shareholding-unwinding-economics|cross-shareholding unwinding]] サイクル — [[financial-regulators/japan-exchange-group|JPX]] コーポレートガバナンスコードの改訂と FSA の開示圧力に駆動される — は、企業が期中のボラティリティに対してしばしばヘッジしたい株式売却の継続的な構造的フローを生む;
 - **ESO 会計** — 多くの上場日本企業は実質的な ESO および株式連動型リテンションプログラムを持つ;会計ルールのもとでの付与時のオプション公正価値は**ボラティリティインプットに敏感**であり、一部のトレジャラーは相対でヘッジする;
 - **大規模な自社株買いプログラム** — 日本企業のバランスシートは歴史的に高い現金ポジションを抱える;コーポレートガバナンス圧力が自社株買いプログラムの加速を駆動し、いくつかのメガキャップが数兆円規模の複数年買戻し計画を発表している;市場インパクトと価格スリッページなしにこれらを大規模に実行することは構造的なデリバティブのユースケースである;
 - **TSE プライム規模の M&A 活動** — [[finance/cross-border-m-a-japan|cross-border M&A]] および国内の [[finance/japan-tender-offer-process|tender offer]] / [[finance/japan-mbo-and-squeeze-out-process|MBO]] 取引に従事する大規模な日本企業は、厳格なインサイダー取引および大量保有開示の制約を条件として、公表前の株式デリバティブポジションを使うことがある。
@@ -44,7 +44,7 @@ translated_at: 2026-06-02T11:47:37.312Z
 
 - ポートフォリオは **OCI(その他の包括利益)を通じて時価評価**され、変動は株式を通じて流れるが一般に P&L ではない;
 - 銀行と保険会社にとって、時価評価の変動は**規制資本**に影響する(Basel のもとの銀行の CET1 ;ICS / J-SAM のもとの保険会社のリスク株式);
-- [[JapanFG/japan-exchange-group|TSE corporate governance code]] の改訂のもとで、上場企業はしきい値を超える各持ち合い株式の根拠を説明し、削減に向けた進捗を示さなければならない;
+- [[financial-regulators/japan-exchange-group|TSE corporate governance code]] の改訂のもとで、上場企業はしきい値を超える各持ち合い株式の根拠を説明し、削減に向けた進捗を示さなければならない;
 - TSE プライムの「PBR > 1」圧力とより広範なコーポレートガバナンス改革の波は、持ち合い株式の**継続的な構造的売却フロー**を生んでいる。
 
 ### ヘッジの問題
@@ -107,7 +107,7 @@ ESO ヘッジの公的情報源の根拠:
 
 ### 規制境界
 
-ESO ヘッジプログラムは、**[[finance/japan-listed-financial-groups-investable-universe|Companies Act]] のもとの自己株式ルール**(上限／自己株式取得規制)、FSA の開示制度、[[JapanFG/japan-exchange-group|JPX]] コーポレートガバナンスコードと相互作用する。ほとんどの企業は、アドホックなデリバティブ取引ではなく、正式に取締役会で承認された買戻しプログラムを介して ESO 関連のヘッジを実行する。
+ESO ヘッジプログラムは、**[[finance/japan-listed-financial-groups-investable-universe|Companies Act]] のもとの自己株式ルール**(上限／自己株式取得規制)、FSA の開示制度、[[financial-regulators/japan-exchange-group|JPX]] コーポレートガバナンスコードと相互作用する。ほとんどの企業は、アドホックなデリバティブ取引ではなく、正式に取締役会で承認された買戻しプログラムを介して ESO 関連のヘッジを実行する。
 
 ### エクスポージャー
 
@@ -170,14 +170,14 @@ M&A 公表前株式デリバティブの公的情報源の根拠:
 
 | ディーラー | 企業株式 OTC オプションでの強み |
 |---|---|
-| **[[JapanFG/nomura-hd|Nomura]]** | 最大の国内企業カバレッジフランチャイズ;最も深い個別銘柄オプションブック;持ち合い株式解消フローの優位性。 |
-| **[[JapanFG/daiwa-sg|Daiwa SG]]** | 第2層の国内企業カバレッジ;競争力のあるストラクチャード商品フランチャイズ。 |
-| **[[JapanFG/smbc-nikko|SMBC Nikko]]** | メガバンク系列;SMBC の銀行取引関係を介した企業カバレッジの強み;グループ持ち合い株式フローチャネル。 |
-| **[[JapanFG/mizuho-securities|Mizuho Securities]]** | メガバンク系列;Mizuho の銀行および信託統合を介した企業カバレッジ;第一生命の隣接性。 |
-| **[[JapanFG/goldman-sachs-japan|GS Japan]]** | 第1 層のグローバル IB;最も深いクロスボーダー M&A およびストラクチャード株式の能力。 |
-| **[[JapanFG/morgan-stanley-japan|MS Japan / MUMSS]]** | 第1 層のグローバル IB + MUFG JV;デュアルチャネルの企業カバレッジ。 |
-| **[[JapanFG/jpmorgan-japan|JPM Japan]]** | 第1 層のグローバル IB;バンキングブック + 証券の能力。 |
-| **[[JapanFG/citigroup-japan|Citi Japan]]** | 第1 層のグローバル IB;クロスボーダー M&A に特に価値のある FX プライムの隣接性。 |
+| **[[securities-firms/nomura-hd|Nomura]]** | 最大の国内企業カバレッジフランチャイズ;最も深い個別銘柄オプションブック;持ち合い株式解消フローの優位性。 |
+| **[[securities-firms/daiwa-sg|Daiwa SG]]** | 第2層の国内企業カバレッジ;競争力のあるストラクチャード商品フランチャイズ。 |
+| **[[securities-firms/smbc-nikko|SMBC Nikko]]** | メガバンク系列;SMBC の銀行取引関係を介した企業カバレッジの強み;グループ持ち合い株式フローチャネル。 |
+| **[[securities-firms/mizuho-securities|Mizuho Securities]]** | メガバンク系列;Mizuho の銀行および信託統合を介した企業カバレッジ;第一生命の隣接性。 |
+| **[[securities-firms/goldman-sachs-japan|GS Japan]]** | 第1 層のグローバル IB;最も深いクロスボーダー M&A およびストラクチャード株式の能力。 |
+| **[[securities-firms/morgan-stanley-japan|MS Japan / MUMSS]]** | 第1 層のグローバル IB + MUFG JV;デュアルチャネルの企業カバレッジ。 |
+| **[[foreign-financial-institutions/jpmorgan-japan|JPM Japan]]** | 第1 層のグローバル IB;バンキングブック + 証券の能力。 |
+| **[[foreign-financial-institutions/citigroup-japan|Citi Japan]]** | 第1 層のグローバル IB;クロスボーダー M&A に特に価値のある FX プライムの隣接性。 |
 
 構造的パターン:**国内企業の持ち合い株式と買戻しフロー**はメガバンクの証券部門に集中する;**クロスボーダー M&A と複雑なストラクチャード株式**はグローバル IB に集中する;ディーラー側の OTC 株式オプションブックは主に上場 [[securities/osaka-exchange|OSE]] の日経225 オプション、個別銘柄上場オプション、基盤となる [[securities/tokyo-stock-exchange|TSE]] 現物市場、およびデルタヘッジのための [[securities/japan-stock-lending-market-route|stock-loan market]] を介してヘッジされる。
 
@@ -203,15 +203,15 @@ M&A 公表前株式デリバティブの公的情報源の根拠:
 - [[finance/japan-mbo-and-squeeze-out-process]]
 - [[finance/cross-border-m-a-japan]]
 - [[finance/japan-listed-financial-groups-investable-universe]]
-- [[JapanFG/japan-exchange-group]]
-- [[JapanFG/nomura-hd]]
-- [[JapanFG/daiwa-sg]]
-- [[JapanFG/smbc-nikko]]
-- [[JapanFG/mizuho-securities]]
-- [[JapanFG/goldman-sachs-japan]]
-- [[JapanFG/morgan-stanley-japan]]
-- [[JapanFG/jpmorgan-japan]]
-- [[JapanFG/citigroup-japan]]
+- [[financial-regulators/japan-exchange-group]]
+- [[securities-firms/nomura-hd]]
+- [[securities-firms/daiwa-sg]]
+- [[securities-firms/smbc-nikko]]
+- [[securities-firms/mizuho-securities]]
+- [[securities-firms/goldman-sachs-japan]]
+- [[securities-firms/morgan-stanley-japan]]
+- [[foreign-financial-institutions/jpmorgan-japan]]
+- [[foreign-financial-institutions/citigroup-japan]]
 - [[INDEX|FinWiki index]]
 
 ## 出典

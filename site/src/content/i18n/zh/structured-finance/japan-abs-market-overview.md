@@ -31,27 +31,27 @@ translated_at: 2026-06-01T04:15:40.132Z
 | 层 | 典型发行人 | 载体 | 大致规模倾向 |
 |---|---|---|---|
 | JHF MBS | [[policy-finance/japan-housing-finance-agency]] | JHF Trust | 最大的日元结构化层 |
-| Private RMBS | Megabanks（[[JapanFG/mufg]]、[[JapanFG/smfg]]、[[JapanFG/mizuho-fg]]）、信托银行 | 信托受益权 | 中等规模，偶有公开交易 |
+| Private RMBS | Megabanks（[[megabanks/mufg]]、[[megabanks/smfg]]、[[megabanks/mizuho-fg]]）、信托银行 | 信托受益权 | 中等规模，偶有公开交易 |
 | CMBS | 房地产 sponsors、megabanks | TMK 或 TK-GK | 2008, 之后规模小，在 2020年代增长 |
-| Auto-loan ABS | [[JapanFG/toyota-finance]]、[[JapanFG/toyota-financial]]、Honda Finance、Nissan Credit | TK-GK | 重复发行人，granular pools |
-| Consumer / card ABS | [[JapanFG/orico]]、[[JapanFG/jaccs]]、[[JapanFG/aplus]]、[[JapanFG/mufg-nicos]] | TK-GK 或 trust | 循环结构常见 |
-| Lease ABS | [[JapanFG/mitsubishi-hc-capital]]、其他租赁公司 | Trust | 租赁池中存在 residual-value risk |
+| Auto-loan ABS | [[card-issuers/toyota-finance]]、[[leasing-firms/toyota-financial]]、Honda Finance、Nissan Credit | TK-GK | 重复发行人，granular pools |
+| Consumer / card ABS | [[card-issuers/orico]]、[[card-issuers/jaccs]]、[[card-issuers/aplus]]、[[card-issuers/mufg-nicos]] | TK-GK 或 trust | 循环结构常见 |
+| Lease ABS | [[leasing-firms/mitsubishi-hc-capital]]、其他租赁公司 | Trust | 租赁池中存在 residual-value risk |
 | Project / infra | Sponsor SPC | TMK 或 TK-GK | 小众，逐笔交易 |
 
 ## 2. Originator landscape
 
-- **银行**：megabanks（[[JapanFG/mufg]]、[[JapanFG/smfg]]、[[JapanFG/mizuho-fg]]）和主要信托银行发起 jumbo mortgage 和 corporate-loan collateral。关于 originator 侧见 [[banking/INDEX]]。
+- **银行**：megabanks（[[megabanks/mufg]]、[[megabanks/smfg]]、[[megabanks/mizuho-fg]]）和主要信托银行发起 jumbo mortgage 和 corporate-loan collateral。关于 originator 侧见 [[banking/INDEX]]。
 - **汽车金融公司**：Toyota Finance、Toyota Financial Services、Honda Finance、Nissan Credit、SMBC Auto、MUFG Capital Auto Loan 将 auto-loan ABS 作为资产负债表管理工具发行。
-- **Consumer / card issuers**：Aplus、Orico、JACCS、MUFG NICOS、[[JapanFG/jcb]]、[[JapanFG/credit-saison]] 使用 card-receivable ABS 作为与银行授信额度并行的融资工具。
+- **Consumer / card issuers**：Aplus、Orico、JACCS、MUFG NICOS、[[card-issuers/jcb]]、[[card-issuers/credit-saison]] 使用 card-receivable ABS 作为与银行授信额度并行的融资工具。
 - **公共部门**：JHF 是主导性的 public-credit issuer；见 [[policy-finance/japan-housing-finance-agency]] 和 [[structured-finance/jhf-mbs-mechanics]]。
-- **Trust banks as trustees**：[[JapanFG/sumitomo-mitsui-trust]] 和其他信托银行担任信托受益权结构中的 trustee；信托银行角色是结构性的，不是 originator。
+- **Trust banks as trustees**：[[trust-banks/sumitomo-mitsui-trust]] 和其他信托银行担任信托受益权结构中的 trustee；信托银行角色是结构性的，不是 originator。
 
 ## 3. Dealer / arranger landscape
 
 | 角色 | 典型机构 |
 |---|---|
-| Lead arranger | [[JapanFG/mizuho-securities]]、[[JapanFG/mufg-mums]]、Nomura、Daiwa SG（[[JapanFG/daiwa-sg]]）、SMBC Nikko |
-| Trustee | [[JapanFG/sumitomo-mitsui-trust]]、Mitsubishi UFJ Trust、Mizuho Trust |
+| Lead arranger | [[securities-firms/mizuho-securities]]、[[securities-firms/mufg-mums]]、Nomura、Daiwa SG（[[securities-firms/daiwa-sg]]）、SMBC Nikko |
+| Trustee | [[trust-banks/sumitomo-mitsui-trust]]、Mitsubishi UFJ Trust、Mizuho Trust |
 | Rating agency | JCR、R&I（见 [[structured-finance/credit-rating-methodology-jcr-r-and-i]]）；跨境为 S&P、Moody's、Fitch |
 | Servicer | Originator 或关联 servicer；有时是 specialized special servicer |
 
@@ -84,7 +84,7 @@ translated_at: 2026-06-01T04:15:40.132Z
 - 日本结构化金融市场是二分的：一个很大的 public-credit engine（JHF MBS）和一个更小、更保守的 private layer。
 - JHF MBS 层驱动大部分日元 structured-paper 供给和定价；private deals 相对于它定价。
 - 2008 之后的 reset 使日本拥有发达市场中最保守的结构化惯例之一 —— CMBS-specific story 见 [[structured-finance/japan-cmbs-issuance-structure]]。
-- 投资者基础由寻求 JGB-plus yield 的寿险公司（[[JapanFG/daido-life]]、[[JapanFG/asahi-life]]等）、地方银行和资产管理公司主导。
+- 投资者基础由寻求 JGB-plus yield 的寿险公司（[[life-insurers/daido-life]]、[[life-insurers/asahi-life]]等）、地方银行和资产管理公司主导。
 
 ## Related
 

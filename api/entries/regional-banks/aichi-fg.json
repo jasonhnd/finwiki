@@ -1,0 +1,91 @@
+{
+  "schema_version": "1.0",
+  "slug": "regional-banks/aichi-fg",
+  "source_path": "regional-banks/aichi-fg.md",
+  "url": "https://finwiki.zksc.io/regional-banks/aichi-fg",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/regional-banks/aichi-fg.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/regional-banks/aichi-fg.md",
+  "domain": "regional-banks",
+  "title": "あいち FG (Aichi FG)",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "あいち FG (Aichi FG)",
+    "aliases": [
+      "あいち FG",
+      "Aichi FG",
+      "あいちフィナンシャルグループ",
+      "Aichi Financial Group",
+      "7389"
+    ],
+    "domain": "regional-banks",
+    "created": "2026-05-19",
+    "last_updated": "2026-05-26",
+    "last_tended": "2026-05-26",
+    "review_by": "2026-11-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "regional-bank",
+      "chubu"
+    ],
+    "status": "active",
+    "sources": [
+      "Wikipedia: あいちフィナンシャルグループ (2026-05-19 抽出)",
+      "Wikipedia: 愛知銀行 (2026-05-19 抽出)",
+      "Wikipedia: 中京銀行 (2026-05-19 抽出)",
+      "あいち FG 公式 IR (2026-05-19 確認)"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 八十二長野銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "あいち FG (Aichi FG)",
+    "Wiki route",
+    "TL;DR",
+    "1. 会社概要",
+    "主要子会社・グループ構成",
+    "重要年表 ^[extracted]",
+    "2. 事業セグメント・マップ",
+    "中京経済圏集中戦略",
+    "合併シナジー（2022-10 統合 → 2025-01 銀行合併）",
+    "競合構図"
+  ],
+  "body_links": {
+    "wikilinks_count": 12,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "aichi-bank",
+      "banking/INDEX",
+      "juroku-fg",
+      "mizuho-fg",
+      "mufg",
+      "nagoya-bank",
+      "ogaki-kyoritsu-bank",
+      "regional-banks/hachijuni-nagano-bank",
+      "san-jusan-fg",
+      "shizuoka-fg",
+      "smfg"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/aichi-bank",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/juroku-fg",
+      "https://finwiki.zksc.io/mizuho-fg",
+      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/nagoya-bank",
+      "https://finwiki.zksc.io/ogaki-kyoritsu-bank",
+      "https://finwiki.zksc.io/regional-banks/hachijuni-nagano-bank",
+      "https://finwiki.zksc.io/san-jusan-fg",
+      "https://finwiki.zksc.io/shizuoka-fg",
+      "https://finwiki.zksc.io/smfg"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 3481,
+    "word_like_tokens": 573,
+    "inbound_wikilinks_count": 8,
+    "last_modified": "2026-06-04"
+  }
+}

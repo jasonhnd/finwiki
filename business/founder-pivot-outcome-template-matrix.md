@@ -130,7 +130,7 @@ The matrix is most useful for two reading purposes: **classifying the next visib
 
 ### Kitao Yoshitaka — independent-strategy bet against the Progmat domestic consortium
 
-- **Pivot type**: **Active rejection of consortium**. SBI Holdings refusing the 3-megabank-led [[JapanFG/progmat|Progmat]] domestic stablecoin / tokenisation alliance and instead pursuing **cross-border compliance partnership** with Circle and adjacent global infrastructure.
+- **Pivot type**: **Active rejection of consortium**. SBI Holdings refusing the 3-megabank-led [[payment-firms/progmat|Progmat]] domestic stablecoin / tokenisation alliance and instead pursuing **cross-border compliance partnership** with Circle and adjacent global infrastructure.
 - **Trigger**: 2023-2024 emergence of the Progmat consortium (trust-bank-led, B2B-focused, domestic-anchored) with SBI publicly declining to join → SBI / Circle Holdings 50/50 JV formation 2025-08 → 2026-05 Arc private investment by SBI extending the cross-border compliance stack.
 - **Transition timeline**: Multi-year (1999 SBI founding from SoftBank carve-out → 2010s Ripple / XRP early backing → 2024 Progmat refusal → 2025-08 SBI / Circle JV → 2026-Q2 expanded cross-border posture).
 - **Outcome shape**: **Pending verification — independent route's value depends on §501(d)-style denylist designations actually creating monopoly rent on cross-border lanes**. Status currently looks favorable post the public §501 anchoring discussion.

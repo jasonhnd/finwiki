@@ -41,7 +41,7 @@ A common Japan-listed policy tier looks like this, though actual ratios are firm
 | 1-3Y | 0-30%, often capital-investment-linked | Strategic; usually tied to long-dated capex / debt cash flows. |
 | 3Y+ | Rare for FX; only for project / debt | Cross-currency swap territory, see [[derivatives/cross-currency-basis-swap-japan|cross-currency basis swap]]. |
 
-The exact split is set by the treasury function under board / audit-committee oversight. Megabank corporate desks at [[JapanFG/mufg-bank|MUFG Bank]], [[JapanFG/sumitomo-mitsui-banking-corp|Sumitomo Mitsui Banking Corp]], and [[JapanFG/mizuho-bank|Mizuho Bank]] are the dominant counterparties in this tenor stack.
+The exact split is set by the treasury function under board / audit-committee oversight. Megabank corporate desks at [[megabanks/mufg-bank|MUFG Bank]], [[megabanks/sumitomo-mitsui-banking-corp|Sumitomo Mitsui Banking Corp]], and [[megabanks/mizuho-bank|Mizuho Bank]] are the dominant counterparties in this tenor stack.
 
 ## Hedge instrument mix
 
@@ -148,7 +148,7 @@ A robust hedge policy specifies counterparty rules, typically including:
 | Collateral terms | Two-way variation margin, JPY-cash collateral preferred, daily mark. |
 | Concentration test | No more than X% of total notional with any single counterparty. |
 
-The Japanese megabanks ([[JapanFG/mufg-bank|MUFG Bank]], [[JapanFG/sumitomo-mitsui-banking-corp|Sumitomo Mitsui Banking Corp]], [[JapanFG/mizuho-bank|Mizuho Bank]]) tend to dominate because of relationship banking and JPY-collateral convenience. Foreign-bank presence in the dealer panel diversifies pricing and provides depth for non-JPY pair trades.
+The Japanese megabanks ([[megabanks/mufg-bank|MUFG Bank]], [[megabanks/sumitomo-mitsui-banking-corp|Sumitomo Mitsui Banking Corp]], [[megabanks/mizuho-bank|Mizuho Bank]]) tend to dominate because of relationship banking and JPY-collateral convenience. Foreign-bank presence in the dealer panel diversifies pricing and provides depth for non-JPY pair trades.
 
 ## CSA collateral mechanics
 
@@ -217,9 +217,9 @@ The pattern of these failures is typically diagnosed at year-end audit and addre
 - [[insurance/japan-life-insurance-alm-overview]]
 - [[money-market/japan-money-market]]
 - [[money-market/boj-open-market-operations]]
-- [[JapanFG/mufg-bank]]
-- [[JapanFG/sumitomo-mitsui-banking-corp]]
-- [[JapanFG/mizuho-bank]]
+- [[megabanks/mufg-bank]]
+- [[megabanks/sumitomo-mitsui-banking-corp]]
+- [[megabanks/mizuho-bank]]
 
 ## Sources
 

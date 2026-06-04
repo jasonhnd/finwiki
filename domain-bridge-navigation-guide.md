@@ -54,7 +54,7 @@ The journeys are not exhaustive. They are starting templates for the most common
 
 ## 4. Journey 3 — Foreign bank in Japan · bank to capital markets to product
 
-1. Start: [[JapanFG/jpmorgan-japan|JPMorgan Japan]] (JapanFG anchor for foreign-bank Japan structure).
+1. Start: [[foreign-financial-institutions/jpmorgan-japan|JPMorgan Japan]] (JapanFG anchor for foreign-bank Japan structure).
 2. Peer / contrast: [[JapanFG/INDEX|JapanFG index]] for [[goldman-sachs-japan]], [[morgan-stanley-japan]], and other foreign IB anchors.
 3. Banking-system frame: [[banking/INDEX|banking index]] and [[banking/japan-banking-license-tier-comparison-matrix|Japan banking license tier comparison]] for the megabank / regional / foreign-branch / shinkin / rōkin perimeter.
 4. Tokenized-money product: [[fintech/jpmorgan-jpmd-coin|JPMD coin]] and [[fintech/jpm-onyx-wholesale-network|JPM Onyx wholesale network]] for the fintech-side product story.
@@ -89,14 +89,14 @@ The journeys are not exhaustive. They are starting templates for the most common
 1. Start: an operating-company page, e.g. [[insurance/saison-automobile-fire|Saison Automobile & Fire]] or [[insurance/japan-life-insurance-big-four|Japan life-insurance big four]].
 2. Channel / distribution context: [[insurance/japan-bancassurance-distribution-overlay-matrix|Japan bancassurance distribution overlay]] and [[insurance/insurance-agency-and-brokerage-japan|insurance agency / brokerage in Japan]].
 3. Solvency frame: [[insurance/global-solvency-framework-comparison-matrix|global solvency framework comparison]] (FSA ESR / IAIS ICS / Solvency II / US RBC) and [[insurance/economic-value-based-solvency|economic-value-based solvency]].
-4. JapanFG mirror: [[JapanFG/saison-automobile-fire-insurance|JapanFG Saison Automobile & Fire mirror]] and the broader [[JapanFG/INDEX|JapanFG index]] for the operating-company catalog.
+4. JapanFG mirror: [[non-life-insurers/saison-automobile-fire-insurance|JapanFG Saison Automobile & Fire mirror]] and the broader [[JapanFG/INDEX|JapanFG index]] for the operating-company catalog.
 5. Mirror-page rationale: [[entity-mirror-page-policy]].
 
 ## 9. Journey 8 — Public-figure strategic narrative · business domain bridge
 
 1. Start: [[business/INDEX|business index]] for the public-figure / public-company case catalog.
 2. Examples: [[business/jamie-dimon-anti-crypto-pivot-case|Jamie Dimon pivot]], [[business/larry-fink-blackrock-digital-asset-template|Larry Fink BlackRock template]], [[business/brian-armstrong-coinbase-public-company-template|Brian Armstrong Coinbase template]], [[business/cz-binance-founder-handoff-case|CZ Binance founder handoff]].
-3. Operating-company bridges: BlackRock → [[fintech/blackrock-buidl-tokenized-mmf-overview|BUIDL tokenized MMF]]; Coinbase → exchanges/ entries; JPM → [[JapanFG/jpmorgan-japan]] and [[fintech/jpm-onyx-wholesale-network]].
+3. Operating-company bridges: BlackRock → [[fintech/blackrock-buidl-tokenized-mmf-overview|BUIDL tokenized MMF]]; Coinbase → exchanges/ entries; JPM → [[foreign-financial-institutions/jpmorgan-japan]] and [[fintech/jpm-onyx-wholesale-network]].
 4. Topic-cluster index: [[topic-cluster-reference]].
 
 ## 10. Journey 9 — Japan policy / banking interface
@@ -149,7 +149,7 @@ The journeys are not exhaustive. They are starting templates for the most common
 
 Common reader anti-patterns and the fix:
 
-- **Reading a single operator page in isolation.** If you read only [[JapanFG/jpmorgan-japan]], you miss the full JPM cross-product story. Always step out to at least one cross-domain reference.
+- **Reading a single operator page in isolation.** If you read only [[foreign-financial-institutions/jpmorgan-japan]], you miss the full JPM cross-product story. Always step out to at least one cross-domain reference.
 - **Reading only macro pages.** If you read only [[fintech/mica-overview]], you miss the operator-level reality (issuers, banks, payments-license consumers). Drill down via Journey 5.
 - **Skipping routing surfaces.** Domain `INDEX.md` files are not decoration; they are the only place where the full set of peers is enumerated. Always end (or restart) at a routing surface.
 

@@ -37,7 +37,7 @@ Use this page under [[policy-finance/INDEX|policy-finance index]] as the canonic
 | Established | 1937 (continuous since reorganization under the 1953 Act) |
 | Funding partners | Tokyo Metropolitan Government, financial institutions operating in Tokyo, and member contributions |
 | Federation membership | Member of [[policy-finance/national-federation-credit-guarantee-corporations|Japan Federation of Credit Guarantee Corporations]] (51 local corps total) |
-| Public-credit reinsurance | Reinsured by [[JapanFG/jfc|JFC]] credit-insurance operations |
+| Public-credit reinsurance | Reinsured by [[financial-regulators/jfc|JFC]] credit-insurance operations |
 
 ## 2. Function map
 
@@ -55,13 +55,13 @@ Tokyo CGC is the largest single node in the local credit guarantee system becaus
 
 1. **SME density**: Tokyo Metropolis has the highest concentration of SMEs of any Japanese prefecture, including manufacturing, services, retail, and food-and-beverage businesses.
 2. **Policy-program scale**: Tokyo-Metropolitan-Government emergency credit programs (e.g., pandemic Special Guarantees in 2020–2021, energy-price relief in 2022–2023) are the largest by yen volume among the 51 corporations.
-3. **Banking density**: All three megabank groups — [[JapanFG/mufg|MUFG]], [[JapanFG/smfg|SMFG]], and [[JapanFG/mizuho-fg|Mizuho FG]] — plus regional, shinkin, and credit-cooperative lenders operate in Tokyo, making it the busiest single counterparty for SME guarantee flow.
+3. **Banking density**: All three megabank groups — [[megabanks/mufg|MUFG]], [[megabanks/smfg|SMFG]], and [[megabanks/mizuho-fg|Mizuho FG]] — plus regional, shinkin, and credit-cooperative lenders operate in Tokyo, making it the busiest single counterparty for SME guarantee flow.
 
-The corporation sits structurally between the borrower and the public-credit reinsurance layer at [[JapanFG/jfc|JFC]], so its program design changes propagate quickly through the credit system. It is a peer institution to [[policy-finance/osaka-credit-guarantee-corp|Osaka Credit Guarantee Corporation]] but operates at noticeably larger scale.
+The corporation sits structurally between the borrower and the public-credit reinsurance layer at [[financial-regulators/jfc|JFC]], so its program design changes propagate quickly through the credit system. It is a peer institution to [[policy-finance/osaka-credit-guarantee-corp|Osaka Credit Guarantee Corporation]] but operates at noticeably larger scale.
 
 ## 4. System anchoring
 
-This page is the canonical example for understanding any of the 51 local credit guarantee corporations. The same structural pattern — local corporation guarantees an SME loan, financial institution shares residual risk under the responsibility-sharing system, [[JapanFG/jfc|JFC]] reinsures via credit insurance, and the national federation [[policy-finance/national-federation-credit-guarantee-corporations|JFG]] coordinates — applies in every prefecture and major city.
+This page is the canonical example for understanding any of the 51 local credit guarantee corporations. The same structural pattern — local corporation guarantees an SME loan, financial institution shares residual risk under the responsibility-sharing system, [[financial-regulators/jfc|JFC]] reinsures via credit insurance, and the national federation [[policy-finance/national-federation-credit-guarantee-corporations|JFG]] coordinates — applies in every prefecture and major city.
 
 Within the [[policy-finance/japan-policy-finance-system|Japan policy finance system]] map, Tokyo CGC represents the **SME credit-guarantee lane**, distinct from:
 - Agriculture / fisheries guarantees ([[policy-finance/agriculture-credit-guarantee-system]], [[policy-finance/fisheries-credit-guarantee-system]]).
@@ -73,7 +73,7 @@ Within the [[policy-finance/japan-policy-finance-system|Japan policy finance sys
 
 - **Not a bank**: Tokyo CGC does not extend loans directly to SMEs; it guarantees loans made by banks and other financial institutions.
 - **Not the Tokyo Metropolitan Government**: While Tokyo-Metropolitan-Government policy flows through Tokyo CGC, the corporation is a legally separate public corporation with its own balance sheet.
-- **Not JFC**: [[JapanFG/jfc|JFC]] is the national policy-finance institution and operates the credit-insurance reinsurance layer; Tokyo CGC is the local-corporation layer at the borrower-facing end.
+- **Not JFC**: [[financial-regulators/jfc|JFC]] is the national policy-finance institution and operates the credit-insurance reinsurance layer; Tokyo CGC is the local-corporation layer at the borrower-facing end.
 - **Not the federation**: [[policy-finance/national-federation-credit-guarantee-corporations|JFG]] coordinates the 51 corporations; Tokyo CGC is one member of that federation.
 
 ## 6. Open questions
@@ -81,7 +81,7 @@ Within the [[policy-finance/japan-policy-finance-system|Japan policy finance sys
 - What share of Tokyo SME bank lending flows through Tokyo CGC guarantees on average, and how does that vary by industry?
 - How did pandemic Special Guarantees (実質無利子・無担保 / zero-interest, no-collateral programs) reshape Tokyo CGC's subrogation profile in 2022–2024?
 - What is the long-term effect of small-business succession (事業承継) on Tokyo CGC's guarantee book — succession-related guarantees vs ordinary working capital?
-- How do bankruptcy-rate trends in Tokyo's service / retail / hospitality sectors affect long-term reinsurance pricing through [[JapanFG/jfc|JFC]]?
+- How do bankruptcy-rate trends in Tokyo's service / retail / hospitality sectors affect long-term reinsurance pricing through [[financial-regulators/jfc|JFC]]?
 
 ## Related
 
@@ -90,10 +90,10 @@ Within the [[policy-finance/japan-policy-finance-system|Japan policy finance sys
 - [[policy-finance/national-federation-credit-guarantee-corporations]]
 - [[policy-finance/japan-policy-finance-system]]
 - [[policy-finance/osaka-credit-guarantee-corp]]
-- [[JapanFG/jfc]]
-- [[JapanFG/mufg]]
-- [[JapanFG/smfg]]
-- [[JapanFG/mizuho-fg]]
+- [[financial-regulators/jfc]]
+- [[megabanks/mufg]]
+- [[megabanks/smfg]]
+- [[megabanks/mizuho-fg]]
 - [[banking/shinkin-bank-registry-japan]]
 - [[banking/credit-cooperative-registry-japan]]
 - [[INDEX|FinWiki index]]

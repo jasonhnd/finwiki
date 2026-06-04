@@ -18,7 +18,7 @@ This entry sits under [[insurance/INDEX|insurance index]]. Read it against [[ins
 
 Saison Automobile & Fire is the historical name of the direct non-life insurer now operating as SOMPO Direct General Insurance. The official company history says it changed name to Saison Automobile & Fire Insurance Co., Ltd. in 1998  and to SOMPO Direct General Insurance Inc. in October 2024.
 
-This page should be read as the direct non-life / auto-insurance case inside the [[JapanFG/sompo|SOMPO]] cluster. The original P3  inbound link came from [[JapanFG/sony-fg]] because Sony FG's non-life business is also a direct-insurance comparison case, but the entity itself belongs in the SOMPO route.
+This page should be read as the direct non-life / auto-insurance case inside the [[non-life-insurers/sompo|SOMPO]] cluster. The original P3  inbound link came from [[megabanks/sony-fg]] because Sony FG's non-life business is also a direct-insurance comparison case, but the entity itself belongs in the SOMPO route.
 
 ## Company Identity
 
@@ -26,9 +26,9 @@ This page should be read as the direct non-life / auto-insurance case inside the
 |---|---|
 | Current name | SOMPO Direct General Insurance Inc. |
 | Former name | Saison Automobile & Fire Insurance Co., Ltd. |
-| Group route | [[JapanFG/sompo]] |
+| Group route | [[non-life-insurers/sompo]] |
 | Product lane | Direct auto insurance and direct non-life products |
-| Comparison lane | [[JapanFG/sony-fg]] for Sony Assurance / Sony non-life direct model |
+| Comparison lane | [[megabanks/sony-fg]] for Sony Assurance / Sony non-life direct model |
 
 ## Strategic Meaning
 
@@ -43,8 +43,8 @@ That makes it a bridge between [[insurance/life-insurance-channel-mix|channel mi
 
 | Comparison | Why it matters |
 |---|---|
-| vs [[JapanFG/sony-fg|Sony FG]] | Sony's non-life unit is a direct-insurance peer; both show that direct channels can work in Japanese retail insurance. |
-| vs [[JapanFG/sompo|SOMPO group core non-life]] | Direct brand may have different customer acquisition, pricing, and claims UX, but group capital / governance still matters. |
+| vs [[megabanks/sony-fg|Sony FG]] | Sony's non-life unit is a direct-insurance peer; both show that direct channels can work in Japanese retail insurance. |
+| vs [[non-life-insurers/sompo|SOMPO group core non-life]] | Direct brand may have different customer acquisition, pricing, and claims UX, but group capital / governance still matters. |
 | vs traditional agency non-life | Direct model can reduce intermediary cost but must replace the trust and service role of agents. |
 
 ## Related
@@ -52,9 +52,9 @@ That makes it a bridge between [[insurance/life-insurance-channel-mix|channel mi
 - [[insurance/INDEX|insurance INDEX]]
 - [[insurance/natcat-reinsurance-japan]]
 - [[insurance/life-insurance-channel-mix]]
-- [[JapanFG/sompo]]
-- [[JapanFG/sony-fg]]
-- [[JapanFG/legal-financial-licenses/INDEX]]
+- [[non-life-insurers/sompo]]
+- [[megabanks/sony-fg]]
+- [[financial-licenses/INDEX]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

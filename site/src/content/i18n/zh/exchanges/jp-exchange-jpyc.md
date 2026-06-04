@@ -17,7 +17,7 @@ translated_at: 2026-05-31T05:31:05.771Z
 
 > 资金移动业者登记 关东财务局 第00099号 · JVCEA 会员 #1042（资金移动业）· 设立 2019年11月
 
-> Namespace note: JPYC is not a conventional crypto-asset exchange. This detailed page remains in `exchanges/` for legacy stablecoin-routing reasons; the operating-company anchor is [[JapanFG/jpyc]].
+> Namespace note: JPYC is not a conventional crypto-asset exchange. This detailed page remains in `exchanges/` for legacy stablecoin-routing reasons; the operating-company anchor is [[payment-firms/jpyc]].
 
 ## 1. 法人・股东
 
@@ -100,7 +100,7 @@ translated_at: 2026-05-31T05:31:05.771Z
 ## Related
 
 - [[fintech/japan-stablecoin-regulatory-landscape]] — 日本 stablecoin 三层法律制度（JPYC・USDC・信托型的定位）
-- [[JapanFG/jpyc]] — JapanFG operating-company anchor
+- [[payment-firms/jpyc]] — JapanFG operating-company anchor
 - [[fintech/jp-trust-type-sc-architecture]] — 三型 SC 比较（信托型・银行型・资金移动业者型）
 - [[fintech/japan-financial-regulation]] — 日本金融监管整体
 - [[exchanges/jp-exchange-sbi-vc-trade]] — SBI VC Trade（同时持有电子结算手段等交易业的交换业者比较示例）

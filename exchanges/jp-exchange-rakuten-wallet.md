@@ -81,7 +81,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 
 - 口座数・月間取引高は公表なし（2026-05-18 時点）。
 - 楽天グループ（会員1億人超）のエコシステムを活用した顧客基盤が差別化要因。楽天ポイント・楽天キャッシュとの連携により、暗号資産未経験の楽天ユーザーへのオンボーディングを図る。
-- 競合内ポジション: 中堅（mid tier）。[[exchanges/jp-exchange-bitflyer|bitFlyer]]・[[exchanges/jp-exchange-coincheck|Coincheck]]・[[exchanges/jp-exchange-gmo-coin|GMOコイン]]が上位を形成する中、[[JapanFG/rakuten-fg|楽天経済圏]]での独自のポジションを確立（[[exchanges/jp-cex-points-economy-integration|JP CEX ポイント経済統合]] パターン）。機関投資家向けサービスよりリテール特化の色合いが強い。
+- 競合内ポジション: 中堅（mid tier）。[[exchanges/jp-exchange-bitflyer|bitFlyer]]・[[exchanges/jp-exchange-coincheck|Coincheck]]・[[exchanges/jp-exchange-gmo-coin|GMOコイン]]が上位を形成する中、[[payment-firms/rakuten-fg|楽天経済圏]]での独自のポジションを確立（[[exchanges/jp-cex-points-economy-integration|JP CEX ポイント経済統合]] パターン）。機関投資家向けサービスよりリテール特化の色合いが強い。
 
 ## 6. 沿革・重大事件
 
@@ -128,7 +128,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 - [[exchanges/jp-exchange-gmo-coin]] — 同業 GMO コイン overview
 - [[exchanges/jp-exchange-mercoin]] — 同業 メルコイン overview
 - [[exchanges/jp-exchange-binance-japan]] — 同業 バイナンスジャパン overview
-- [[JapanFG/rakuten-fg]] — 楽天グループ親会社プロファイル
+- [[payment-firms/rakuten-fg]] — 楽天グループ親会社プロファイル
 - [[exchanges/jp-cex-points-economy-integration]] — JP CEX ポイント経済統合
 - [[exchanges/jp-vasp-parent-company-map]] — JP VASP 親会社マップ
 

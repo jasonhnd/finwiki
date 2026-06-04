@@ -28,7 +28,7 @@ This entry sits under [[banking/INDEX|banking index]]. Read it against [[banking
 
 ## TL;DR
 
-日本の BaaS は、単一の「銀行 API 商品」ではない。少なくとも 4 類型に分かれる: API 提供、パートナー支店、銀行代理 / white-label 的な口座獲得、そして決済・口座振替・即時入金に特化した narrow BaaS。[[banking/minna-bank-baas-model|みんなの銀行]] は B2C アプリへの埋め込み型 BaaS、[[JapanFG/gmo-aozora-net|GMO あおぞらネット銀行]] は法人 / API / 組込金融寄り、[[JapanFG/ssnb|住信SBIネット銀行]] は NEOBANK 型で比較される。
+日本の BaaS は、単一の「銀行 API 商品」ではない。少なくとも 4 類型に分かれる: API 提供、パートナー支店、銀行代理 / white-label 的な口座獲得、そして決済・口座振替・即時入金に特化した narrow BaaS。[[banking/minna-bank-baas-model|みんなの銀行]] は B2C アプリへの埋め込み型 BaaS、[[payment-firms/gmo-aozora-net|GMO あおぞらネット銀行]] は法人 / API / 組込金融寄り、[[regional-banks/ssnb|住信SBIネット銀行]] は NEOBANK 型で比較される。
 
 ## Landscape map
 
@@ -36,8 +36,8 @@ This entry sits under [[banking/INDEX|banking index]]. Read it against [[banking
 |---|---|---|---|
 | API-provided banking | Account information, account transfer, payment instruction | External app UX improvement | みんなの銀行 API提供モデル, [[banking/quick-deposit-four-methods|OAuth quick deposit]] |
 | Partner branch | Branded branch / account experience | Partner brand + banking relationship | [[banking/mercari-bank|Mercari Bank]], pixiv branch, DMM branch |
-| NEOBANK / white-label bank | Bank account opened under partner proposition | Fuller embedded banking | [[JapanFG/ssnb|SSNB]] / NEOBANK type models |
-| Corporate API bank | Business account, payment, transfer, accounting integration | SME / SaaS / platform operation | [[JapanFG/gmo-aozora-net|GMO Aozora Net Bank]] adjacency |
+| NEOBANK / white-label bank | Bank account opened under partner proposition | Fuller embedded banking | [[regional-banks/ssnb|SSNB]] / NEOBANK type models |
+| Corporate API bank | Business account, payment, transfer, accounting integration | SME / SaaS / platform operation | [[payment-firms/gmo-aozora-net|GMO Aozora Net Bank]] adjacency |
 
 ## Strategic read
 
@@ -67,8 +67,8 @@ The 2025-12 Mercari launch is especially important because Mercari has a large w
 - [[banking/mercari-bank]]
 - [[banking/mercari-bank-license-stack]]
 - [[banking/quick-deposit-four-methods]]
-- [[JapanFG/gmo-aozora-net]]
-- [[JapanFG/ssnb]]
+- [[payment-firms/gmo-aozora-net]]
+- [[regional-banks/ssnb]]
 - [[fintech/japan-financial-regulation]]
 
 ## Sources

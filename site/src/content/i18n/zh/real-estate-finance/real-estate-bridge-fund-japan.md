@@ -92,7 +92,7 @@ End buyer (J-REIT / private REIT / pension / SWF)
 | Takeout 路线提供方 | 在 takeout 时承销 J-REIT 股权融资（若交易商属于 J-REIT 常设承销团） |
 | 费用流 | 债务发起费、信托费、顾问费，加上 takeout 时股权承销费 |
 
-这种多角色业务是大型银行集团信托银行（[[JapanFG/mitsubishi-ufj-trust-bank|MUFG Trust]]、[[JapanFG/sumitomo-mitsui-trust|SMTB]]、[[JapanFG/mizuho-trust-bank|Mizuho Trust]]）主导过桥基金业务的原因之一：集团内银行 + 信托 + 证券子公司栈，使单一大型银行可从同一交易捕获多条收入线。运营拆分见 [[banking/trust-bank-custody-operating-comparison|trust-bank custody operating comparison]]。
+这种多角色业务是大型银行集团信托银行（[[trust-banks/mitsubishi-ufj-trust-bank|MUFG Trust]]、[[trust-banks/sumitomo-mitsui-trust|SMTB]]、[[trust-banks/mizuho-trust-bank|Mizuho Trust]]）主导过桥基金业务的原因之一：集团内银行 + 信托 + 证券子公司栈，使单一大型银行可从同一交易捕获多条收入线。运营拆分见 [[banking/trust-bank-custody-operating-comparison|trust-bank custody operating comparison]]。
 
 ### Takeout to listed J-REIT
 
@@ -187,9 +187,9 @@ End buyer (J-REIT / private REIT / pension / SWF)
 - [[insurance/INDEX]]
 - [[policy-finance/INDEX]]
 - [[policy-finance/japan-housing-finance-agency]]
-- [[JapanFG/mitsubishi-ufj-trust-bank]]
-- [[JapanFG/sumitomo-mitsui-trust]]
-- [[JapanFG/mizuho-trust-bank]]
+- [[trust-banks/mitsubishi-ufj-trust-bank]]
+- [[trust-banks/sumitomo-mitsui-trust]]
+- [[trust-banks/mizuho-trust-bank]]
 - [[finance/INDEX]]
 
 ## Sources

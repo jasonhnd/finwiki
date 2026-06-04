@@ -52,41 +52,41 @@
     "wikilinks_count": 13,
     "wikilinks": [
       "INDEX",
-      "JapanFG/18-shinwa-bank",
-      "JapanFG/akita-bank",
-      "JapanFG/chiba-bank",
-      "JapanFG/concordia-fg",
-      "JapanFG/fukuoka-fg",
-      "JapanFG/iwate-bank",
-      "JapanFG/joyo-bank",
-      "JapanFG/legal-financial-licenses/INDEX",
-      "JapanFG/tomony-hd",
       "banking/INDEX",
       "banking/cooperative-banking-japan",
-      "banking/post-megabank-positioning"
+      "banking/post-megabank-positioning",
+      "financial-licenses/INDEX",
+      "regional-banks/18-shinwa-bank",
+      "regional-banks/akita-bank",
+      "regional-banks/chiba-bank",
+      "regional-banks/concordia-fg",
+      "regional-banks/fukuoka-fg",
+      "regional-banks/iwate-bank",
+      "regional-banks/joyo-bank",
+      "regional-banks/tomony-hd"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/18-shinwa-bank",
-      "https://finwiki.zksc.io/JapanFG/akita-bank",
-      "https://finwiki.zksc.io/JapanFG/chiba-bank",
-      "https://finwiki.zksc.io/JapanFG/concordia-fg",
-      "https://finwiki.zksc.io/JapanFG/fukuoka-fg",
-      "https://finwiki.zksc.io/JapanFG/iwate-bank",
-      "https://finwiki.zksc.io/JapanFG/joyo-bank",
-      "https://finwiki.zksc.io/JapanFG/legal-financial-licenses/INDEX",
-      "https://finwiki.zksc.io/JapanFG/tomony-hd",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/cooperative-banking-japan",
-      "https://finwiki.zksc.io/banking/post-megabank-positioning"
+      "https://finwiki.zksc.io/banking/post-megabank-positioning",
+      "https://finwiki.zksc.io/financial-licenses/INDEX",
+      "https://finwiki.zksc.io/regional-banks/18-shinwa-bank",
+      "https://finwiki.zksc.io/regional-banks/akita-bank",
+      "https://finwiki.zksc.io/regional-banks/chiba-bank",
+      "https://finwiki.zksc.io/regional-banks/concordia-fg",
+      "https://finwiki.zksc.io/regional-banks/fukuoka-fg",
+      "https://finwiki.zksc.io/regional-banks/iwate-bank",
+      "https://finwiki.zksc.io/regional-banks/joyo-bank",
+      "https://finwiki.zksc.io/regional-banks/tomony-hd"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3547,
-    "word_like_tokens": 534,
-    "inbound_wikilinks_count": 112,
-    "last_modified": "2026-05-20"
+    "nonspace_chars": 3666,
+    "word_like_tokens": 551,
+    "inbound_wikilinks_count": 114,
+    "last_modified": "2026-06-04"
   }
 }

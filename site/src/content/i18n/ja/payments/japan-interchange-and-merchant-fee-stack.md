@@ -13,7 +13,7 @@ translated_at: 2026-06-02T16:33:58.477Z
 
 このページは、日本のカード加盟店手数料とインターチェンジ関連開示の公開構造を記録する。対象範囲は、カード加盟店手数料の構成、イシュア手数料 / インターチェンジ開示、アクワイアラ経済性、関連する公開政策資料である。より広い加盟店 PSP 価格、決済準備金、チャージバック配分、ゲートウェイ価格は [[payments/psp-merchant-settlement-risk|PSP merchant settlement risk]] と [[payments/card-acquiring-japan-stack|Japan card acquiring stack]] に振り分ける。
 
-このページは [[payments/INDEX|payments domain]] に属し、[[payments/cashless-jp-landscape|Japan cashless payment landscape]]、[[payments/japan-card-issuer-acquirer-processor-split|issuer / acquirer / processor split]]、[[payments/japan-card-security-authentication-controls|card security and authentication controls]]、[[payments/credit-purchase-card-operators-japan-index|credit / card registry]]、[[payments/japan-code-payment-competitive-map|Japan code-payment competitive map]]、[[payments/merchant-bank-pay-account-direct-acquiring|merchant bank-account direct acquiring]]、[[JapanFG/legal-financial-licenses/payment-license-stack|Japan payment license stack]] へリンクする。
+このページは [[payments/INDEX|payments domain]] に属し、[[payments/cashless-jp-landscape|Japan cashless payment landscape]]、[[payments/japan-card-issuer-acquirer-processor-split|issuer / acquirer / processor split]]、[[payments/japan-card-security-authentication-controls|card security and authentication controls]]、[[payments/credit-purchase-card-operators-japan-index|credit / card registry]]、[[payments/japan-code-payment-competitive-map|Japan code-payment competitive map]]、[[payments/merchant-bank-pay-account-direct-acquiring|merchant bank-account direct acquiring]]、[[financial-licenses/payment-license-stack|Japan payment license stack]] へリンクする。
 
 ## 手数料構成マップ
 
@@ -71,8 +71,8 @@ translated_at: 2026-06-02T16:33:58.477Z
 
 ## JapanFG 運営者リンク
 
-- 主要カードイシュア / アクワイアラ: [[JapanFG/smbc-card]], [[JapanFG/mufg-nicos]], [[JapanFG/rakuten-card]], [[JapanFG/paypay-card]], [[JapanFG/aeon-financial-service]], [[JapanFG/jcb]].
-- 加盟店 PSP / ゲートウェイ運営者: [[JapanFG/gmo-payment-gateway]], [[JapanFG/gmo-epsilon]], [[JapanFG/sb-payment-service]], [[JapanFG/dg-financial-technology]], [[JapanFG/netstars]].
+- 主要カードイシュア / アクワイアラ: [[card-issuers/smbc-card]], [[card-issuers/mufg-nicos]], [[card-issuers/rakuten-card]], [[card-issuers/paypay-card]], [[card-issuers/aeon-financial-service]], [[card-issuers/jcb]].
+- 加盟店 PSP / ゲートウェイ運営者: [[payment-firms/gmo-payment-gateway]], [[payment-firms/gmo-epsilon]], [[payment-firms/sb-payment-service]], [[payment-firms/dg-financial-technology]], [[payment-firms/netstars]].
 - クレジット / 割賦レジストリ経路: [[payments/credit-purchase-card-operators-japan-index]].
 
 ## 関連項目
@@ -86,7 +86,7 @@ translated_at: 2026-06-02T16:33:58.477Z
 - [[payments/credit-purchase-card-operators-japan-index]]
 - [[payments/japan-code-payment-competitive-map]]
 - [[payments/merchant-bank-pay-account-direct-acquiring]]
-- [[JapanFG/legal-financial-licenses/payment-license-stack]]
+- [[financial-licenses/payment-license-stack]]
 - [[INDEX|FinWiki index]]
 
 ## 出典

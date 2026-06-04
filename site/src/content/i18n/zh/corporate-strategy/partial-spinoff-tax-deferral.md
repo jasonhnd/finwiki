@@ -12,11 +12,11 @@ translated_at: 2026-05-30T15:31:43.922Z
 
 ## Wiki 路由
 
-本词条归属于 [[corporate-strategy/INDEX|corporate-strategy index]] 和 [[INDEX|FinWiki index]]。配合 [[corporate-strategy/japan-kaisha-bunkatsu-tax-regime|会社分割 tax regime]] 阅读以了解法律管道对应物，[[JapanFG/sony-fg|Sony FG]] 作为主要公开交易示例，[[finance/INDEX|finance index]] 了解相邻的资本市场背景。
+本词条归属于 [[corporate-strategy/INDEX|corporate-strategy index]] 和 [[INDEX|FinWiki index]]。配合 [[corporate-strategy/japan-kaisha-bunkatsu-tax-regime|会社分割 tax regime]] 阅读以了解法律管道对应物，[[megabanks/sony-fg|Sony FG]] 作为主要公开交易示例，[[finance/INDEX|finance index]] 了解相邻的资本市场背景。
 
 ## TL;DR
 
-部分分拆税制是这样一种制度：即便在母公司保留子公司部分股份的同时，将子公司股份以实物分配给股东的分拆中，只要满足一定要件，也能将重组时的转让损益课税及股东的视同股利课税予以递延 / 排除在外。在日本，该制度于 2023年 年度税制改正中创设，并在 2024年 年度税制改正中进行了要件修订与适用期限延长。[[JapanFG/sony-fg|sony-fg]] 的再上市 / 分离是国内代表性案例。
+部分分拆税制是这样一种制度：即便在母公司保留子公司部分股份的同时，将子公司股份以实物分配给股东的分拆中，只要满足一定要件，也能将重组时的转让损益课税及股东的视同股利课税予以递延 / 排除在外。在日本，该制度于 2023年 年度税制改正中创设，并在 2024年 年度税制改正中进行了要件修订与适用期限延长。[[megabanks/sony-fg|sony-fg]] 的再上市 / 分离是国内代表性案例。
 
 ## 1. 制度结构
 
@@ -62,7 +62,7 @@ METI 于 2024-02-14 公布认定了 Sony Group 基于产业竞争力强化法的
 
 ## 相关
 
-- [[JapanFG/sony-fg|sony-fg]]
+- [[megabanks/sony-fg|sony-fg]]
 - [[finance/cross-border-m-a-japan|cross-border M&A Japan]]
 - [[JapanFG/INDEX|JapanFG INDEX]]
 - [[INDEX|FinWiki index]]

@@ -55,27 +55,27 @@
     "wikilinks_count": 6,
     "wikilinks": [
       "INDEX",
-      "JapanFG/norinchukin",
       "banking/INDEX",
       "banking/cooperative-banking-japan",
       "banking/ja-bank-system-japan",
+      "cooperative-banks/norinchukin",
       "policy-finance/INDEX"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/norinchukin",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/cooperative-banking-japan",
       "https://finwiki.zksc.io/banking/ja-bank-system-japan",
+      "https://finwiki.zksc.io/cooperative-banks/norinchukin",
       "https://finwiki.zksc.io/policy-finance/INDEX"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3920,
-    "word_like_tokens": 631,
-    "inbound_wikilinks_count": 14,
-    "last_modified": "2026-05-21"
+    "nonspace_chars": 3980,
+    "word_like_tokens": 637,
+    "inbound_wikilinks_count": 16,
+    "last_modified": "2026-06-04"
   }
 }

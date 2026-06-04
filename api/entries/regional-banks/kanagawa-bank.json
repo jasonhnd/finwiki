@@ -1,0 +1,75 @@
+{
+  "schema_version": "1.0",
+  "slug": "regional-banks/kanagawa-bank",
+  "source_path": "regional-banks/kanagawa-bank.md",
+  "url": "https://finwiki.zksc.io/regional-banks/kanagawa-bank",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/regional-banks/kanagawa-bank.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/regional-banks/kanagawa-bank.md",
+  "domain": "regional-banks",
+  "title": "神奈川銀行",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "神奈川銀行",
+    "aliases": [
+      "Kanagawa Bank",
+      "The Kanagawa Bank",
+      "株式会社神奈川銀行"
+    ],
+    "domain": "regional-banks",
+    "created": "2026-05-21",
+    "last_updated": "2026-05-21",
+    "last_tended": "2026-05-21",
+    "review_by": "2026-11-21",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "banking",
+      "second-regional-bank",
+      "kanto",
+      "operating-company"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
+      "https://www.kanagawabank.co.jp/about/company/overview/"
+    ]
+  },
+  "summary": "This entry sits under JapanFG index. Read it against 東京スター銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "headings": [
+    "神奈川銀行",
+    "Wiki route",
+    "TL;DR",
+    "1. License / group boundary",
+    "2. Operating model",
+    "3. Why this page matters",
+    "Related",
+    "Sources"
+  ],
+  "body_links": {
+    "wikilinks_count": 6,
+    "wikilinks": [
+      "JapanFG/INDEX",
+      "banking/INDEX",
+      "banking/regional-bank-consolidation-pattern",
+      "concordia-fg",
+      "regional-banks/tokyo-star-bank",
+      "yokohama-bank"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
+      "https://finwiki.zksc.io/concordia-fg",
+      "https://finwiki.zksc.io/regional-banks/tokyo-star-bank",
+      "https://finwiki.zksc.io/yokohama-bank"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 1718,
+    "word_like_tokens": 266,
+    "inbound_wikilinks_count": 3,
+    "last_modified": "2026-06-04"
+  }
+}

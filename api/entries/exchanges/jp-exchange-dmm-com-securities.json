@@ -53,7 +53,6 @@
   "body_links": {
     "wikilinks_count": 9,
     "wikilinks": [
-      "JapanFG/dmm-com-securities",
       "exchanges/INDEX",
       "exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis",
       "exchanges/fsa-vasp-registration-system",
@@ -61,10 +60,10 @@
       "exchanges/jp-vasp-derivative-license-system",
       "fintech/japan-bittrade-listing-process",
       "fintech/japan-financial-regulation",
-      "fintech/japan-stablecoin-regulatory-landscape"
+      "fintech/japan-stablecoin-regulatory-landscape",
+      "securities-firms/dmm-com-securities"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/dmm-com-securities",
       "https://finwiki.zksc.io/exchanges/INDEX",
       "https://finwiki.zksc.io/exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis",
       "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
@@ -72,7 +71,8 @@
       "https://finwiki.zksc.io/exchanges/jp-vasp-derivative-license-system",
       "https://finwiki.zksc.io/fintech/japan-bittrade-listing-process",
       "https://finwiki.zksc.io/fintech/japan-financial-regulation",
-      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape"
+      "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
+      "https://finwiki.zksc.io/securities-firms/dmm-com-securities"
     ],
     "external_links_count": 5,
     "external_links": [
@@ -84,9 +84,9 @@
     ]
   },
   "metrics": {
-    "nonspace_chars": 4286,
-    "word_like_tokens": 756,
+    "nonspace_chars": 4295,
+    "word_like_tokens": 757,
     "inbound_wikilinks_count": 6,
-    "last_modified": "2026-05-24"
+    "last_modified": "2026-06-04"
   }
 }

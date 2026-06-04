@@ -12,7 +12,7 @@ translated_at: 2026-05-30T15:31:43.930Z
 
 ## Wiki route
 
-This entry sits under [[manufacturer-finance/INDEX|manufacturing index]]. Read it against [[manufacturer-finance/hitachi-industrial-finance-platform|Hitachi industrial finance]], [[manufacturer-finance/panasonic-captive-finance|Panasonic captive finance]], [[manufacturer-finance/toyota-financial-services|Toyota Financial Services]], and [[manufacturer-finance/mitsubishi-heavy-export-finance|Mitsubishi Heavy Export Finance]] for peer industrial-conglomerate finance arms. Pair with [[JapanFG/sony-fg|Sony Financial Group]] for the entity profile, [[business/sony-fg-partial-spinoff-case|Sony FG partial spinoff case]] for the 2025 carve-out mechanics, and [[corporate-strategy/partial-spinoff-tax-deferral|partial spinoff tax deferral]] for the tax-regime backbone.
+This entry sits under [[manufacturer-finance/INDEX|manufacturing index]]. Read it against [[manufacturer-finance/hitachi-industrial-finance-platform|Hitachi industrial finance]], [[manufacturer-finance/panasonic-captive-finance|Panasonic captive finance]], [[manufacturer-finance/toyota-financial-services|Toyota Financial Services]], and [[manufacturer-finance/mitsubishi-heavy-export-finance|Mitsubishi Heavy Export Finance]] for peer industrial-conglomerate finance arms. Pair with [[megabanks/sony-fg|Sony Financial Group]] for the entity profile, [[business/sony-fg-partial-spinoff-case|Sony FG partial spinoff case]] for the 2025 carve-out mechanics, and [[corporate-strategy/partial-spinoff-tax-deferral|partial spinoff tax deferral]] for the tax-regime backbone.
 
 ## TL;DR
 
@@ -24,7 +24,7 @@ Sony Group's (6758) **finance arm = Sony Financial Group (SFG, former SFH)** con
 |---|---|
 | Parent formal name | Sony Group Corporation |
 | Parent listing | TSE PRIME 6758, NYSE listed (ADR: SONY) |
-| Financial holding company | [[JapanFG/sony-fg|Sony Financial Group]] (former Sony Financial Holdings 8729) |
+| Financial holding company | [[megabanks/sony-fg|Sony Financial Group]] (former Sony Financial Holdings 8729) |
 | Made a wholly-owned subsidiary | 2020-09-29 (TOB completed, delisted) |
 | Re-listing (planned) | 2025-10-01 (TSE PRIME re-listing via partial spin-off) |
 | Parent's final stake (assumed post-re-listing) | below 20% (deconsolidation requirement) |
@@ -36,9 +36,9 @@ Sony Group's (6758) **finance arm = Sony Financial Group (SFG, former SFH)** con
 ```
 Sony Group (6758)
  └── Sony Financial Group (SFG, 100% → below 20% post-re-listing)
- ├── [[JapanFG/sony-life|Sony Life]] (1981, Lifeplanner sales)
+ ├── [[life-insurers/sony-life|Sony Life]] (1981, Lifeplanner sales)
  ├── Sony Assurance (1998, internet auto insurance)
- ├── [[JapanFG/sony-bank|Sony Bank]] (2001, internet bank, foreign-currency deposits, mortgages)
+ ├── [[regional-banks/sony-bank|Sony Bank]] (2001, internet bank, foreign-currency deposits, mortgages)
  └── Sony Financial Ventures (CVC, fintech investment)
  in parallel: Sony Network Communications (So-net group, adjacent to finance)
 ```
@@ -89,7 +89,7 @@ Sony's financial segment has functioned over the past 20 years as **"a stable re
 
 ## Related
 
-- [[JapanFG/sony-fg|Sony Financial Group]] · [[JapanFG/sony-bank|Sony Bank]] · [[JapanFG/sony-life|Sony Life]] · [[JapanFG/sony-insurance|Sony Assurance]]
+- [[megabanks/sony-fg|Sony Financial Group]] · [[regional-banks/sony-bank|Sony Bank]] · [[life-insurers/sony-life|Sony Life]] · [[non-life-insurers/sony-insurance|Sony Assurance]]
 - [[business/sony-fg-partial-spinoff-case|Sony FG partial spinoff case]] · [[corporate-strategy/partial-spinoff-tax-deferral|partial spinoff tax deferral]]
 - [[manufacturer-finance/hitachi-industrial-finance-platform|Hitachi Industrial Finance Platform]] · [[manufacturer-finance/panasonic-captive-finance|Panasonic Captive Finance]] · [[manufacturer-finance/toyota-financial-services|Toyota Financial Services]] · [[manufacturer-finance/mitsubishi-heavy-export-finance|Mitsubishi Heavy Export Finance]]
 - [[manufacturer-finance/INDEX|manufacturing INDEX]] · [[JapanFG/INDEX|JapanFG INDEX]] · [[INDEX|FinWiki index]]

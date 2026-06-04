@@ -67,9 +67,9 @@ The platform-level rivalry over who controls this loop — closed retail group v
 
 ## Governance and boundary notes
 
-- **Data-use boundaries.** Combining payment, card, and purchase data for ad targeting and credit scoring sits inside personal-data and (for card data) installment-sales / card-number-handling rules; structure matters more than slogans. Routing context: [[JapanFG/legal-financial-licenses/INDEX|legal / financial licenses]].
+- **Data-use boundaries.** Combining payment, card, and purchase data for ad targeting and credit scoring sits inside personal-data and (for card data) installment-sales / card-number-handling rules; structure matters more than slogans. Routing context: [[financial-licenses/INDEX|legal / financial licenses]].
 - **Point liability.** Point-back funded by retail media still creates a redeemable liability whose accounting depends on issuance / redemption design — see [[loyalty/point-liability-accounting-boundary|point-liability accounting boundary]].
-- **Open vs closed.** [[JapanFG/rakuten-fg|Rakuten]] and [[JapanFG/paypay-fg|PayPay FG]] run the loop across an open membership base; in-house retail loops ([[payments/waon-prepaid-aeon|WAON]], [[payments/nanaco-prepaid-seven-i|nanaco]]) keep it closed for group stickiness.
+- **Open vs closed.** [[payment-firms/rakuten-fg|Rakuten]] and [[megabanks/paypay-fg|PayPay FG]] run the loop across an open membership base; in-house retail loops ([[payments/waon-prepaid-aeon|WAON]], [[payments/nanaco-prepaid-seven-i|nanaco]]) keep it closed for group stickiness.
 
 ## Related
 
@@ -81,7 +81,7 @@ The platform-level rivalry over who controls this loop — closed retail group v
 - [[loyalty/point-liability-accounting-boundary|Point-liability accounting boundary]]
 - [[payments/cashless-jp-landscape|Japan cashless payment landscape]]
 - [[payments/famipay-valucreate-strategy|FamiPay value-creation strategy]]
-- [[JapanFG/legal-financial-licenses/INDEX|JapanFG legal / financial licenses]]
+- [[financial-licenses/INDEX|JapanFG legal / financial licenses]]
 - [[INDEX|FinWiki index]]
 
 ## Sources
