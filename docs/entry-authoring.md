@@ -34,7 +34,7 @@ status: active                    # candidate | confirmed | active | borderline 
 sources:
   - "https://<公开 URL，优先>"
   - "<或公开文档/公开来源描述>"
-canonical_anchor: <vault-root 路径>  # 可选；仅 mirror page 设，见下
+canonical_anchor: <vault-root 路径>  # mirror page 必填（drift-gated），其他条目整行省略；见下
 ---
 ```
 
@@ -56,9 +56,9 @@ canonical_anchor: <vault-root 路径>  # 可选；仅 mirror page 设，见下
 
 `canonical_anchor` = 某个**跨领域实体或 mirror page** 的「单一真相源锚点条目」的 vault-root 路径（如 `JapanFG/saison-automobile-fire-insurance`）。
 
-- **何时设**：同一实体在多个领域有页面时。**实体主页（anchor）不设** `canonical_anchor`；各**镜像/视角页**（domain-specific view）设 `canonical_anchor` 指向那个 anchor。
+- **何时设（mirror page 必填 / hard requirement，Phase 4）**：同一实体在多个领域有页面时。**实体主页（anchor）不设** `canonical_anchor`；各**镜像/视角页**（domain-specific view）**必须**设 `canonical_anchor` 指向那个 anchor。这是 v2026.06.04-3 起的 hard requirement——新建 mirror page 不设会在 review 退回（mirror 与否是语义判断、无法机检，故靠写作规范 + review 兜底，依据见 [decisions.md](decisions.md) ADR-007）。
   例：`insurance/saison-automobile-fire.md` 是 SOMPO Direct 的**保险领域视角页**，它 `canonical_anchor: JapanFG/saison-automobile-fire-insurance`（指向 JapanFG 实体 anchor）。
-- **如何避免 drift**：设了 `canonical_anchor` 后，**必须在 core body（通常 `## Wiki route`）里也用 `[[anchor|label]]` 显式交叉链接同一个 anchor**。canonical_anchor 审计会核对 frontmatter 锚点是否在正文里被链回——只写 frontmatter、正文不链，会被判 drift。saison 页的做法：frontmatter `canonical_anchor` + Wiki route 里 `The canonical entity anchor for this insurer is [[JapanFG/saison-automobile-fire-insurance|its JapanFG entity page]]`，两者一致。
+- **如何避免 drift（现为硬门禁）**：设了 `canonical_anchor` 后，**必须在 core body（通常 `## Wiki route`）里也用 `[[anchor|label]]` 显式交叉链接同一个 anchor**。canonical_anchor 审计会核对 frontmatter 锚点是否（a）resolve 到实在条目、（b）在正文里被链回——只写 frontmatter、正文不链，会被判 drift。**v2026.06.04-3 起 drift 是硬门禁**：`release.ts` 用 `--fail-on-canonical-drift` 跑审计，任何 `canonical_anchor_drift>0` 都会 `EXIT≠0` 阻断发布。saison 页的做法：frontmatter `canonical_anchor` + Wiki route 里 `The canonical entity anchor for this insurer is [[JapanFG/saison-automobile-fire-insurance|its JapanFG entity page]]`，两者一致。
 - 普通单一领域条目**不需要** `canonical_anchor`，整行省略。
 
 ---
@@ -205,7 +205,7 @@ model]]; this shifts authorization risk onto the payer side.
 - [ ] **`## Wiki route` 开场**已写，含路由 + peer + system/regulatory 链接。
 - [ ] **core body ≥ 3 条 `[[wikilink]]`**（`## Related` 之前），覆盖 route / peer / regulatory 三类。
 - [ ] **每个 `[[target]]` 已验证存在**（`ls` / audit，不信裸 grep）；无指向 pending/不存在条目的链接。
-- [ ] 若设了 `canonical_anchor`：core body 里已用 `[[anchor|…]]` 链回同一锚点（防 drift）。
+- [ ] mirror/视角页：已设 `canonical_anchor`（hard requirement），且 core body 里用 `[[anchor|…]]` 链回同一锚点。**drift 是硬门禁**——`canonical_anchor_drift>0` 会阻断 `release.ts`。
 - [ ] **只含公开信息**：无个人隐私 / 本地路径 / 非公开内容 / 捏造数字；财务用「shape 而非 snapshot」并 hedge。
 - [ ] `## Sources` 镜像 frontmatter `sources[]`，优先公开 URL。
 - [ ] **在领域 `INDEX.md` 加一行**登记本条（按该 INDEX 的表格列格式）；若领域 count 变动，手动核对 `INDEX.md` 根表（`release.ts` 不自动改）。

@@ -105,7 +105,7 @@ function grabInt(text: string, pattern: RegExp): number {
 }
 
 function runWikiLinkAudit(writeReport: boolean): AuditResult {
-  const args = ["bun", "tools/wiki_link_audit.ts", "--fail-on-issues"];
+  const args = ["bun", "tools/wiki_link_audit.ts", "--fail-on-issues", "--fail-on-canonical-drift"];
   if (writeReport) args.push("--report", "wiki-link-improvement-plan.md");
   const proc = run(args);
   const merged = `${proc.stdout}${proc.stderr}`;
@@ -113,6 +113,7 @@ function runWikiLinkAudit(writeReport: boolean): AuditResult {
     ok: proc.ok,
     entriesChecked: grabInt(merged, /entries_checked=(\d+)/),
     issues: grabInt(merged, /entries_with_issues=(\d+)/),
+    canonicalDrift: grabInt(merged, /canonical_anchor_drift=(\d+)/),
     stdout: proc.stdout,
     stderr: proc.stderr,
     exitCode: proc.exitCode ?? 1,
@@ -334,9 +335,14 @@ async function main(): Promise<number> {
     const audit = runWikiLinkAudit(args.write);
     entries = audit.entriesChecked;
     issues = audit.issues;
-    console.log(`[1] link audit: entries=${entries} issues=${issues} -> ${audit.ok ? "PASS" : "FAIL"}`);
+    console.log(`[1] link audit: entries=${entries} issues=${issues} canonical_drift=${audit.canonicalDrift} -> ${audit.ok ? "PASS" : "FAIL"}`);
     if (!audit.ok) {
-      console.log("    broken links present; fix before releasing. See wiki-link-improvement-plan.md");
+      if (issues > 0) {
+        console.log("    broken links present; fix before releasing. See wiki-link-improvement-plan.md");
+      }
+      if (audit.canonicalDrift > 0) {
+        console.log(`    canonical_anchor drift=${audit.canonicalDrift}: a declared canonical_anchor does not resolve or is not core-body cross-linked. See wiki-link-improvement-plan.md.`);
+      }
       return 2;
     }
   }

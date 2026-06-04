@@ -45,3 +45,11 @@
 - **决定**：用**直接 Agent**，每个 agent 严格限定一个领域目录（文件域隔离），主会话在 Phase 2 统一同步 root INDEX + 发布。Workflow schema 模式实测**全失败**（v12，10 个 agent 0 token / 没调 StructuredOutput）。
 - **理由**：文件域隔离让 N 个 agent 并行写主仓不同文件零冲突；直接 Agent 返回文本可靠、可重试（绕过 rate-limit / 故障）；并发 ≤5-6 避免 API rate-limit。
 - **影响**：确立并行开发标准流程（见 [parallel-development.md](parallel-development.md)）。内容由 agent 生成 → 结构 / 链接可 audit，但**事实精度需人工抽查**。rate-limit + 重试可能产生双批 entry（v12 的 5 领域各得 6 个互补 entry），Phase 2 收尾必须按 **disk 实数**对账 root INDEX。
+
+## ADR-007：canonical_anchor hard requirement 用 drift-gate + 写作规范，而非 mirror 自动检测
+
+- **背景**：Phase 2（entity edge，v2026.06.04-2）落地后，roadmap P1 仅剩「把 `canonical_anchor` 从 optional 变 hard requirement（mirror page 必填）+ audit 升 gate」。
+- **选项**：(A) 机检「每个 mirror 必须设 `canonical_anchor`」并 gate；(B) 只 gate「已声明的 anchor 必须有效（resolve + core-body 链回）」+ 用写作规范要求 mirror 必填。
+- **决定**：选 **B**。`tools/wiki_link_audit.ts` 加 `--fail-on-canonical-drift`（drift>0 → EXIT=1），`tools/release.ts` 的 `runWikiLinkAudit` 始终带此 flag → 每次 `--check` / `--write` 都 gate `canonical_anchor_drift=0`。「mirror 必填」写进 [`SCHEMA.md`](../SCHEMA.md) + [entry-authoring.md](entry-authoring.md)，靠 review 兜底。
+- **理由**：mirror 与否是**语义 / 编辑判断**，无法机械枚举。实测 12 个已声明 mirror 里只有 4 个与其 anchor **同 slug**（sony-bank / au-jibun-bank / daiwa-next-bank / ui-bank），其余 8 个是编辑选定的异 slug（如 `toyota-financial-services→toyota-financial`、`kampo-japan-post-insurance→kampo-life`、`sony-group-finance-arm→sony-fg`）；而同 slug 跨域对又**全部 4/4 已声明**。即 slug 启发式 recall≈33% 且当前 0 violation——做不了可靠的「找出未声明 mirror」gate。能机检且有价值的是**声明有效性**（drift），它防止 12 条 entity edge 因 anchor 改名 / 移除而 rot。
+- **影响**：drift 从 report-only（[ADR-002](#adr-002canonical_anchor-分-phase-落地)）升为硬门禁，但**仅在 `--fail-on-canonical-drift` 下**（不带 flag 时仍 report-only，保持 ADR-002 的隔离 + 默认行为）。canonical_anchor 计数仍不进 `entries_with_issues`。drift=0 现状下启用零风险，只在未来回归时 bite。**P1（canonical_anchor Phase 2）至此全部完成**。

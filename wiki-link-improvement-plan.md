@@ -15,7 +15,7 @@
 | Missing route link | 0 |
 | Missing peer link | 0 |
 | Missing system / regulatory link | 0 |
-| Changed or new entries in current worktree | 1 |
+| Changed or new entries in current worktree | 0 |
 | canonical_anchor declarations checked (informational) | 12 |
 | canonical_anchor drift (informational, non-gating) | 0 |
 
@@ -41,7 +41,6 @@
 
 | Path | State | Body | Issues |
 |---|---:|---:|---|
-| `frontmatter-canonical-anchor-field-proposal.md` | `M` | 28 | ok |
 
 ## Domain Snapshot
 
@@ -79,12 +78,14 @@
 | `systems` | 62 | 0 | 9.7 |
 | `trade` | 7 | 0 | 12.6 |
 
-## Informational: canonical_anchor Integrity
+## canonical_anchor Integrity (drift-gated)
 
-> Report-only (proposal Phase 1, audit-only). These rows never increment
-> entries-with-issues and never fail the release gate. They flag pages whose
-> `canonical_anchor:` frontmatter either points at a non-existent entry or is
-> not cross-linked from the declaring page's core body (before `## Related`).
+> Proposal Phase 4. These rows stay isolated from entries-with-issues
+> (ADR-002), but drift now FAILS the release gate: `release.ts` runs the audit
+> with `--fail-on-canonical-drift`, so any non-zero drift blocks the release.
+> They flag pages whose `canonical_anchor:` frontmatter either points at a
+> non-existent entry or is not cross-linked from the declaring page's core
+> body (before `## Related`). Keep this at 0.
 
 Declarations checked: 12. Drift: 0.
 

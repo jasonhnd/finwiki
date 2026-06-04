@@ -1,16 +1,16 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-06-04T11:40:38+09:00",
+  "generated_at": "2026-06-04T13:37:00+09:00",
   "counts": {
-    "markdown_files": 1537,
-    "public_markdown_pages": 1536,
-    "site_urls_in_sitemap": 1537,
+    "markdown_files": 1538,
+    "public_markdown_pages": 1537,
+    "site_urls_in_sitemap": 1538,
     "topical_domains": 23,
     "link_audited_entries": 1466,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 10568114,
-    "word_like_tokens": 1710709,
+    "nonspace_utf8_chars": 10583237,
+    "word_like_tokens": 1713561,
     "entity_anchors": 12,
     "entity_mirror_pages": 12
   },
@@ -488,10 +488,10 @@
         "English",
         "中文",
         "2026-06-04",
+        "canonicalanchor Phase 2 hard requirement — drift gate（--fail-on-canonical-drift）+ mirror 必填規範（P1 完了）/ canonicalanchor Phase 2 hard requirement (drift gate, P1 done) / canonical_anchor Phase 2 hard requirement（drift gate，P1 完成）",
         "canonicalanchor Phase 2 — discovery entity edge（ai-index.json entities[] / llms-full.txt）/ canonicalanchor Phase 2 — discovery entity edges / canonical_anchor Phase 2 — discovery 实体边",
         "開発文書の専門化整理（docs 11 文書・3 分類）/ Developer-docs professionalization (11 docs, 3 tiers) / 开发文档专业化整理（11 文档、3 分类）",
-        "2026-06-03",
-        "canonicalanchor Phase 2 back-fill（mirror 4 件）/ canonicalanchor Phase 2 back-fill (4 mirrors) / canonical_anchor Phase 2 back-fill（4 个 mirror）"
+        "2026-06-03"
       ],
       "wikilinks": [
         "...",
@@ -727,8 +727,8 @@
         "governance/...",
         "origin repository"
       ],
-      "nonspace_chars": 519546,
-      "word_like_tokens": 92428,
+      "nonspace_chars": 524728,
+      "word_like_tokens": 93419,
       "last_modified": "2026-06-04"
     },
     {
@@ -36748,8 +36748,8 @@
         "vercel.json",
         "wiki-link-improvement-plan.md"
       ],
-      "nonspace_chars": 54985,
-      "word_like_tokens": 9510,
+      "nonspace_chars": 57420,
+      "word_like_tokens": 9992,
       "last_modified": "2026-06-04"
     },
     {
@@ -36789,9 +36789,9 @@
         "INDEX.md",
         "wiki-link-improvement-plan.md"
       ],
-      "nonspace_chars": 4014,
-      "word_like_tokens": 600,
-      "last_modified": "2026-06-03"
+      "nonspace_chars": 4269,
+      "word_like_tokens": 650,
+      "last_modified": "2026-06-04"
     },
     {
       "source_path": "agent-economy/2026-04-08_agent-payment-infrastructure-research.md",
@@ -81034,6 +81034,34 @@
       "last_modified": "2026-06-04"
     },
     {
+      "source_path": "releases/v2026.06.04-3.md",
+      "url": "https://finwiki.zksc.io/releases/v2026.06.04-3",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.06.04-3.md",
+      "title": "canonical_anchor Phase 2 hard requirement — drift gate（--fail-on-canonical-drift）+ mirror 必填規範",
+      "domain": "releases",
+      "entry_type": "release_note",
+      "canonical_anchor": "",
+      "summary": "",
+      "headings": [
+        "canonical_anchor Phase 2 hard requirement — drift gate（--fail-on-canonical-drift）+ mirror 必填規範",
+        "日本語",
+        "公開範囲",
+        "主要変更",
+        "検証結果",
+        "既知の注意点",
+        "次の作業",
+        "English",
+        "Release Scope",
+        "Major Changes"
+      ],
+      "wikilinks": [],
+      "resolved_wikilinks": [],
+      "markdown_links": [],
+      "nonspace_chars": 7215,
+      "word_like_tokens": 1315,
+      "last_modified": "2026-06-04"
+    },
+    {
       "source_path": "retail/INDEX.md",
       "url": "https://finwiki.zksc.io/retail/INDEX",
       "github_url": "https://github.com/jasonhnd/finwiki/blob/main/retail/INDEX.md",
@@ -90705,7 +90733,7 @@
         "Priority A: Failing Entries",
         "Priority B: Current Worktree Entries To Review",
         "Domain Snapshot",
-        "Informational: canonical_anchor Integrity",
+        "canonical_anchor Integrity (drift-gated)",
         "Execution Notes"
       ],
       "wikilinks": [
@@ -90715,8 +90743,8 @@
         "https://finwiki.zksc.io/wikilink"
       ],
       "markdown_links": [],
-      "nonspace_chars": 2830,
-      "word_like_tokens": 508,
+      "nonspace_chars": 2866,
+      "word_like_tokens": 522,
       "last_modified": "2026-06-04"
     }
   ]
