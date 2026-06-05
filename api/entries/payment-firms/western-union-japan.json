@@ -17,8 +17,8 @@
     ],
     "domain": "payment-firms",
     "created": "2026-05-21",
-    "last_updated": "2026-05-21",
-    "last_tended": "2026-05-21",
+    "last_updated": "2026-06-05",
+    "last_tended": "2026-06-05",
     "review_by": "2026-11-21",
     "confidence": "likely",
     "tags": [
@@ -35,44 +35,46 @@
       "https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against Wise Payments Japan for peer / contrast context and payments index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under payment-firms INDEX (its domain route). Read it against SBIレミット and トラベレックスジャパン for peer / contrast (cross-border remittance / money-movement), and against the FSA plus the funds-transfer vs prepaid boundary for the supervisory / system boundary.",
   "headings": [
     "ウエスタンユニオンジャパン (Western Union Japan)",
     "Wiki route",
     "TL;DR",
-    "1. 法人・ライセンス境界",
-    "2. Business role",
-    "3. Why this standalone page matters",
+    "1. License / group boundary",
+    "2. Operating model",
+    "3. Why this page matters",
     "Related",
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 7,
+    "wikilinks_count": 8,
     "wikilinks": [
-      "JapanFG/INDEX",
+      "INDEX",
+      "financial-regulators/fsa",
+      "payment-firms/INDEX",
       "payment-firms/paypal-pte-ltd-japan",
       "payment-firms/sbi-remit",
       "payment-firms/travelex-japan",
       "payment-firms/wise-payments-japan",
-      "payments/INDEX",
       "payments/funds-transfer-vs-prepaid-boundary"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/financial-regulators/fsa",
+      "https://finwiki.zksc.io/payment-firms/INDEX",
       "https://finwiki.zksc.io/payment-firms/paypal-pte-ltd-japan",
       "https://finwiki.zksc.io/payment-firms/sbi-remit",
       "https://finwiki.zksc.io/payment-firms/travelex-japan",
       "https://finwiki.zksc.io/payment-firms/wise-payments-japan",
-      "https://finwiki.zksc.io/payments/INDEX",
       "https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2130,
-    "word_like_tokens": 332,
-    "inbound_wikilinks_count": 7,
-    "last_modified": "2026-06-04"
+    "nonspace_chars": 2621,
+    "word_like_tokens": 414,
+    "inbound_wikilinks_count": 8,
+    "last_modified": "2026-06-05"
   }
 }

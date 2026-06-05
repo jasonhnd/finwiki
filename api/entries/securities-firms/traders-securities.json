@@ -14,13 +14,14 @@
       "Traders Securities",
       "トレイダーズ証券",
       "トレイダーズ証券株式会社",
-      "みんなのFX"
+      "みんなのFX",
+      "LIGHT FX"
     ],
     "domain": "securities-firms",
     "created": "2026-05-20",
-    "last_updated": "2026-05-20",
-    "last_tended": "2026-05-20",
-    "review_by": "2026-11-20",
+    "last_updated": "2026-06-05",
+    "last_tended": "2026-06-05",
+    "review_by": "2026-12-05",
     "confidence": "likely",
     "tags": [
       "JapanFG",
@@ -33,45 +34,49 @@
     "sources": [
       "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx",
       "https://www.tradershd.com/business/group/securities/",
-      "https://www.tradershd.com/company/outline/"
+      "https://min-fx.jp/company/outline/"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against SBI FXトレード for peer / contrast context and securities index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under securities-firms INDEX (its domain route). Read it against SBI FXトレード for the closest FX-specialist peer / contrast, and against the FSA plus JSDA for the FIEA supervisory / self-regulatory boundary. The broader retail-FX field includes GMOクリック証券 and DMM.com証券.",
   "headings": [
     "トレイダーズ証券",
     "Wiki route",
     "TL;DR",
-    "1. 法人・ライセンス境界",
-    "2. Business role",
-    "3. Why standalone page matters",
+    "1. License / group boundary",
+    "2. Operating model",
+    "3. Why this page matters",
     "Related",
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 6,
+    "wikilinks_count": 8,
     "wikilinks": [
-      "JapanFG/INDEX",
+      "INDEX",
+      "financial-regulators/fsa",
+      "financial-regulators/jsda",
+      "securities-firms/INDEX",
       "securities-firms/dmm-com-securities",
       "securities-firms/gmo-click-securities",
       "securities-firms/saxo-bank-securities",
-      "securities-firms/sbi-fx-trade",
-      "securities/INDEX"
+      "securities-firms/sbi-fx-trade"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/financial-regulators/fsa",
+      "https://finwiki.zksc.io/financial-regulators/jsda",
+      "https://finwiki.zksc.io/securities-firms/INDEX",
       "https://finwiki.zksc.io/securities-firms/dmm-com-securities",
       "https://finwiki.zksc.io/securities-firms/gmo-click-securities",
       "https://finwiki.zksc.io/securities-firms/saxo-bank-securities",
-      "https://finwiki.zksc.io/securities-firms/sbi-fx-trade",
-      "https://finwiki.zksc.io/securities/INDEX"
+      "https://finwiki.zksc.io/securities-firms/sbi-fx-trade"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1754,
-    "word_like_tokens": 267,
-    "inbound_wikilinks_count": 6,
-    "last_modified": "2026-06-04"
+    "nonspace_chars": 2381,
+    "word_like_tokens": 366,
+    "inbound_wikilinks_count": 7,
+    "last_modified": "2026-06-05"
   }
 }

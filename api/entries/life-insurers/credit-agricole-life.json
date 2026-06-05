@@ -18,8 +18,8 @@
     ],
     "domain": "life-insurers",
     "created": "2026-05-21",
-    "last_updated": "2026-05-21",
-    "last_tended": "2026-05-21",
+    "last_updated": "2026-06-05",
+    "last_tended": "2026-06-05",
     "review_by": "2026-11-21",
     "confidence": "likely",
     "tags": [
@@ -34,50 +34,58 @@
     "sources": [
       "https://www.fsa.go.jp/menkyo/hoken.pdf",
       "https://www.seiho.or.jp/member/list/",
-      "https://www.ca-life.jp/about/outline.html"
+      "https://www.ca-life.jp/about/outline.html",
+      "https://www.ca-life.jp/about/group.html"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against カーディフ生命保険 for peer / contrast context and insurance index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under life-insurers INDEX (its domain route). Read it against カーディフ生命保険 and PGF生命 for the foreign-affiliated bancassurance peer / contrast, and against the FSA plus 生命保険協会 for the supervisory / industry-body boundary. The bancassurance economics it operates inside are mapped in banca",
   "headings": [
     "クレディ・アグリコル生命保険",
     "Wiki route",
     "TL;DR",
     "1. License / group boundary",
-    "2. Why this page matters",
+    "2. Operating model",
+    "3. Why this page matters",
     "Related",
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 9,
+    "wikilinks_count": 12,
     "wikilinks": [
-      "JapanFG/INDEX",
-      "cardif-life",
-      "credit-agricole-bank-japan",
-      "dai-ichi-frontier-life",
-      "foreign-financial-institutions/credit-agricole-bank-japan",
-      "insurance/INDEX",
-      "insurance/life-insurance-channel-mix",
+      "INDEX",
+      "financial-regulators/fsa",
+      "financial-regulators/seiho-kyokai",
+      "insurance/bancassurance-economics-japan",
+      "insurance/foreign-life-affiliate-japan-positioning",
+      "insurance/japan-life-insurance-alm-overview",
+      "life-insurers/INDEX",
       "life-insurers/cardif-life",
-      "td-financial-life"
+      "life-insurers/dai-ichi-frontier-life",
+      "life-insurers/dai-ichi-life-insurance",
+      "life-insurers/ms-primary-life",
+      "life-insurers/pgf-life"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
-      "https://finwiki.zksc.io/cardif-life",
-      "https://finwiki.zksc.io/credit-agricole-bank-japan",
-      "https://finwiki.zksc.io/dai-ichi-frontier-life",
-      "https://finwiki.zksc.io/foreign-financial-institutions/credit-agricole-bank-japan",
-      "https://finwiki.zksc.io/insurance/INDEX",
-      "https://finwiki.zksc.io/insurance/life-insurance-channel-mix",
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/financial-regulators/fsa",
+      "https://finwiki.zksc.io/financial-regulators/seiho-kyokai",
+      "https://finwiki.zksc.io/insurance/bancassurance-economics-japan",
+      "https://finwiki.zksc.io/insurance/foreign-life-affiliate-japan-positioning",
+      "https://finwiki.zksc.io/insurance/japan-life-insurance-alm-overview",
+      "https://finwiki.zksc.io/life-insurers/INDEX",
       "https://finwiki.zksc.io/life-insurers/cardif-life",
-      "https://finwiki.zksc.io/td-financial-life"
+      "https://finwiki.zksc.io/life-insurers/dai-ichi-frontier-life",
+      "https://finwiki.zksc.io/life-insurers/dai-ichi-life-insurance",
+      "https://finwiki.zksc.io/life-insurers/ms-primary-life",
+      "https://finwiki.zksc.io/life-insurers/pgf-life"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1856,
-    "word_like_tokens": 281,
-    "inbound_wikilinks_count": 8,
-    "last_modified": "2026-06-04"
+    "nonspace_chars": 3348,
+    "word_like_tokens": 460,
+    "inbound_wikilinks_count": 10,
+    "last_modified": "2026-06-05"
   }
 }

@@ -18,8 +18,8 @@
     ],
     "domain": "life-insurers",
     "created": "2026-05-21",
-    "last_updated": "2026-05-21",
-    "last_tended": "2026-05-21",
+    "last_updated": "2026-06-05",
+    "last_tended": "2026-06-05",
     "review_by": "2026-11-21",
     "confidence": "likely",
     "tags": [
@@ -34,50 +34,54 @@
     "sources": [
       "https://www.fsa.go.jp/menkyo/hoken.pdf",
       "https://www.seiho.or.jp/member/list/",
-      "https://www.ms-primary.com/company/outline/"
+      "https://www.ms-primary.com/company/outline/",
+      "https://www.ms-ad-hd.com/ja/group/what/group/structure.html"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 第一フロンティア生命保険 for peer / contrast context and insurance index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under life-insurers INDEX (its domain route). Its parent is the listed P&C group holding company MS&AD ホールディングス; the group's protection-focused life arm is 三井住友海上あいおい生命. Read it against PGF生命 and 第一フロンティア生命 for the FI-channel annuity peer / contrast, and against the FSA plus 生命保険協会 f",
   "headings": [
     "三井住友海上プライマリー生命保険",
     "Wiki route",
     "TL;DR",
     "1. License / group boundary",
-    "2. Why this page matters",
+    "2. Operating model",
+    "3. Why this page matters",
     "Related",
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 9,
+    "wikilinks_count": 10,
     "wikilinks": [
-      "JapanFG/INDEX",
-      "dai-ichi-frontier-life",
-      "insurance/INDEX",
-      "insurance/life-insurance-channel-mix",
+      "INDEX",
+      "financial-regulators/fsa",
+      "financial-regulators/seiho-kyokai",
+      "insurance/bancassurance-economics-japan",
+      "life-insurers/INDEX",
+      "life-insurers/credit-agricole-life",
       "life-insurers/dai-ichi-frontier-life",
-      "mitsui-sumitomo-aioi-life",
-      "msad",
-      "pgf-life",
-      "td-financial-life"
+      "life-insurers/mitsui-sumitomo-aioi-life",
+      "life-insurers/pgf-life",
+      "non-life-insurers/msad"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
-      "https://finwiki.zksc.io/dai-ichi-frontier-life",
-      "https://finwiki.zksc.io/insurance/INDEX",
-      "https://finwiki.zksc.io/insurance/life-insurance-channel-mix",
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/financial-regulators/fsa",
+      "https://finwiki.zksc.io/financial-regulators/seiho-kyokai",
+      "https://finwiki.zksc.io/insurance/bancassurance-economics-japan",
+      "https://finwiki.zksc.io/life-insurers/INDEX",
+      "https://finwiki.zksc.io/life-insurers/credit-agricole-life",
       "https://finwiki.zksc.io/life-insurers/dai-ichi-frontier-life",
-      "https://finwiki.zksc.io/mitsui-sumitomo-aioi-life",
-      "https://finwiki.zksc.io/msad",
-      "https://finwiki.zksc.io/pgf-life",
-      "https://finwiki.zksc.io/td-financial-life"
+      "https://finwiki.zksc.io/life-insurers/mitsui-sumitomo-aioi-life",
+      "https://finwiki.zksc.io/life-insurers/pgf-life",
+      "https://finwiki.zksc.io/non-life-insurers/msad"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1698,
-    "word_like_tokens": 266,
-    "inbound_wikilinks_count": 6,
-    "last_modified": "2026-06-04"
+    "nonspace_chars": 3152,
+    "word_like_tokens": 470,
+    "inbound_wikilinks_count": 9,
+    "last_modified": "2026-06-05"
   }
 }

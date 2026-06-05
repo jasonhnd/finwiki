@@ -20,8 +20,8 @@
     ],
     "domain": "non-life-insurers",
     "created": "2026-05-21",
-    "last_updated": "2026-05-21",
-    "last_tended": "2026-05-21",
+    "last_updated": "2026-06-05",
+    "last_tended": "2026-06-05",
     "review_by": "2026-11-21",
     "confidence": "likely",
     "tags": [
@@ -34,10 +34,11 @@
     "status": "active",
     "sources": [
       "https://www.fsa.go.jp/menkyo/menkyoj/hokenmochikabu.pdf",
-      "https://www.anicom.co.jp/"
+      "https://www.anicom.co.jp/company/",
+      "https://ja.wikipedia.org/wiki/アニコム_ホールディングス"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it with insurance index for adjacent context and JapanFG index for the broader system boundary.",
+  "summary": "This entry sits under non-life-insurers INDEX (its domain route). Read it against its own operating subsidiary アニコム損害保険 for the holding-company / operating-company split, against the other pet-insurance underwriters ペット&ファミリー損保 and アイペット損保 for peer / contrast, and against the FSA for the supervisory",
   "headings": [
     "アニコム ホールディングス",
     "Wiki route",
@@ -49,28 +50,30 @@
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 5,
+    "wikilinks_count": 6,
     "wikilinks": [
-      "JapanFG/INDEX",
-      "anicom-insurance",
-      "financial-licenses/INDEX",
-      "financial-regulators/missing-financial-institutions-backlog",
-      "insurance/INDEX"
+      "INDEX",
+      "financial-regulators/fsa",
+      "non-life-insurers/INDEX",
+      "non-life-insurers/anicom-insurance",
+      "non-life-insurers/dai-ichi-ipet-insurance",
+      "non-life-insurers/pet-and-family-insurance"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
-      "https://finwiki.zksc.io/anicom-insurance",
-      "https://finwiki.zksc.io/financial-licenses/INDEX",
-      "https://finwiki.zksc.io/financial-regulators/missing-financial-institutions-backlog",
-      "https://finwiki.zksc.io/insurance/INDEX"
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/financial-regulators/fsa",
+      "https://finwiki.zksc.io/non-life-insurers/INDEX",
+      "https://finwiki.zksc.io/non-life-insurers/anicom-insurance",
+      "https://finwiki.zksc.io/non-life-insurers/dai-ichi-ipet-insurance",
+      "https://finwiki.zksc.io/non-life-insurers/pet-and-family-insurance"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1751,
-    "word_like_tokens": 270,
+    "nonspace_chars": 2854,
+    "word_like_tokens": 432,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-05"
   }
 }

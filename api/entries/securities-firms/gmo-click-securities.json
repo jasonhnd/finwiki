@@ -17,9 +17,9 @@
     ],
     "domain": "securities-firms",
     "created": "2026-05-20",
-    "last_updated": "2026-05-20",
-    "last_tended": "2026-05-20",
-    "review_by": "2026-11-20",
+    "last_updated": "2026-06-05",
+    "last_tended": "2026-06-05",
+    "review_by": "2026-12-05",
     "confidence": "likely",
     "tags": [
       "JapanFG",
@@ -36,44 +36,52 @@
       "https://www.gmofh.com/ourbusiness/"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against DMM.com証券 for peer / contrast context and securities index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under securities-firms INDEX (its domain route). Read it against DMM.com証券 for the closest retail FX / CFD peer / contrast, and against the FSA plus JSDA for the FIEA supervisory / self-regulatory boundary. The retail-FX market map lives across SBI FXトレード and トレイダーズ証券.",
   "headings": [
     "GMOクリック証券",
     "Wiki route",
     "TL;DR",
-    "1. 法人・ライセンス境界",
-    "2. Business role",
-    "3. Why standalone page matters",
+    "1. License / group boundary",
+    "2. Operating model",
+    "3. Why this page matters",
     "Related",
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 7,
+    "wikilinks_count": 11,
     "wikilinks": [
-      "JapanFG/INDEX",
+      "INDEX",
+      "financial-regulators/fsa",
+      "financial-regulators/jsda",
       "payment-firms/gmo-aozora-net",
       "payment-firms/gmo-coin",
       "payment-firms/gmo-financial-hd",
       "payment-firms/gmo-payment-gateway",
+      "securities-firms/INDEX",
       "securities-firms/dmm-com-securities",
-      "securities/INDEX"
+      "securities-firms/sbi-fx-trade",
+      "securities-firms/traders-securities"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/financial-regulators/fsa",
+      "https://finwiki.zksc.io/financial-regulators/jsda",
       "https://finwiki.zksc.io/payment-firms/gmo-aozora-net",
       "https://finwiki.zksc.io/payment-firms/gmo-coin",
       "https://finwiki.zksc.io/payment-firms/gmo-financial-hd",
       "https://finwiki.zksc.io/payment-firms/gmo-payment-gateway",
+      "https://finwiki.zksc.io/securities-firms/INDEX",
       "https://finwiki.zksc.io/securities-firms/dmm-com-securities",
-      "https://finwiki.zksc.io/securities/INDEX"
+      "https://finwiki.zksc.io/securities-firms/sbi-fx-trade",
+      "https://finwiki.zksc.io/securities-firms/traders-securities"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1660,
-    "word_like_tokens": 263,
+    "nonspace_chars": 2485,
+    "word_like_tokens": 409,
     "inbound_wikilinks_count": 20,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-05"
   }
 }

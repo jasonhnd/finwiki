@@ -3,8 +3,8 @@ title: "整理回収機構 (RCC)"
 aliases: ["RCC", "Resolution and Collection Corporation", "整理回収機構", "株式会社整理回収機構"]
 domain: financial-regulators
 created: 2026-05-20
-last_updated: 2026-05-20
-last_tended: 2026-05-20
+last_updated: 2026-06-05
+last_tended: 2026-06-05
 review_by: 2026-11-20
 confidence: likely
 tags: [JapanFG, bank, resolution, servicer, policy-finance-adjacent]
@@ -12,19 +12,18 @@ status: active
 sources:
   - "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx"
   - "https://www.kaisyukikou.co.jp/intro/intro_001.html"
-  - "https://www.dic.go.jp/"
+  - "https://www.dic.go.jp/yokinsha/page_000132.html"
 ---
 
 # 整理回収機構 (RCC)
 
-
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[trust-banks/mitsubishi-ufj-trust-bank|三菱UFJ信託銀行 (MUTB)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]] (its domain route). It is not a regulator but a **resolution / collection arm** — read it against its 100% parent [[financial-regulators/dic|預金保険機構 (Deposit Insurance Corporation)]] for the institutional parent boundary, against the policy-finance vehicles [[financial-regulators/jbic|JBIC]] and [[financial-regulators/dbj|DBJ]] for peer / contrast (公的特殊会社), and against [[financial-regulators/fsa|the FSA]] for the supervisory / banking-license boundary.
 
 ## TL;DR
 
-整理回収機構 (RCC) は預金保険機構を株主とする resolution / collection institution。FSA の銀行免許リストにも「株式会社整理回収機構」として掲載される特殊な銀行ライセンス保有主体で、破綻金融機関・不良債権処理・債権回収の文脈で扱う。
+整理回収機構 (RCC) は [[financial-regulators/dic|預金保険機構]] が 100% 出資する resolution / collection institution。FSA の銀行免許リストにも「株式会社整理回収機構」として掲載される特殊な銀行ライセンス保有主体だが、預金獲得や一般貸出を競う通常銀行ではなく、破綻金融機関処理・不良債権回収・特別 servicing を担う public resolution infrastructure。1999 年 4 月に **住宅金融債権管理機構と整理回収銀行が合併**して発足した。
 
 ## 1. 法人・ライセンス境界
 
@@ -32,30 +31,39 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[trust-b
 |---|---|
 | Legal name | 株式会社整理回収機構 |
 | English name | The Resolution and Collection Corporation |
-| FSA category | 銀行免許リスト掲載 entity |
-| Shareholder | 預金保険機構 |
+| FSA category | 銀行免許リスト掲載 entity (special-purpose bank license) |
+| Shareholder | [[financial-regulators/dic|預金保険機構]] が 100% 出資 |
+| Formed | 1999-04、住宅金融債権管理機構 + 整理回収銀行 の合併 |
+| Legal/policy basis | 金融再生・預金保険の枠組み下の resolution vehicle (米 RTC をモデルとした株式会社形態) |
 | Core role | Resolution, collection, special servicing |
+
+RCC は「銀行」カテゴリに載るが、retail deposits や corporate lending を競う銀行ではない。預金保険機構の子会社として、破綻処理・債権回収の専用 vehicle である点が境界の本質。
 
 ## 2. Business role
 
-- 住宅金融債権管理機構と整理回収銀行の系譜を持ち、1999 年に整理回収機構として発足。
-- 不良債権、破綻金融機関関連債権、特定回収困難債権などの回収・管理を担う。
-- 通常の retail / corporate bank ではなく、金融危機後処理・公的 resolution infrastructure として扱う。
+- 旧住専 7 社の破綻処理を担った住宅金融債権管理機構と、金融機関破綻処理を担った整理回収銀行の系譜を持つ。
+- 業務は概ね —（1）破綻金融機関等からの不良債権の買取り・回収、（2）金融機関等の資本増強関連業務、（3）特定回収困難債権 (反社等を含む) の買取り・回収、（4）承継銀行業務等。
+- 民間企業の再生業務にも関与し、不良債権の抜本処理と国民負担の最小化を目的とする。
 
 ## 3. Why standalone page matters
 
-RCC は「銀行」カテゴリに載るが、預金獲得や一般貸出を競う銀行ではない。金融システム安定、預金保険、破綻処理、反社等債権回収、地域金融再生の analysis node として、通常銀行ページとは別の説明が必要。Peer policy-finance vehicles include [[financial-regulators/jbic|JBIC]] と [[financial-regulators/dbj|DBJ]]、related institutional context は [[banking/regional-bank-consolidation-pattern|地域銀行統合パターン]] と [[banking/INDEX|banking index]] を参照。
+通常銀行ページとは別に、金融システム安定・預金保険・破綻処理・債権回収・地域金融再生の analysis node として独立説明が必要。Peer policy-finance vehicles は [[financial-regulators/jbic|JBIC]] と [[financial-regulators/dbj|DBJ]]、parent は [[financial-regulators/dic|預金保険機構]]、related context は [[banking/regional-bank-consolidation-pattern|地域銀行統合パターン]] と [[banking/INDEX|banking index]] を参照。
 
 ## Related
 
-- [[regional-banks/jimoto-hd]]
-- [[financial-regulators/dbj]]
-- [[financial-regulators/jfc]]
-- 信用保証協会制度
-- [[banking/regional-bank-consolidation-pattern]]
+- [[financial-regulators/dic|預金保険機構]]
+- [[financial-regulators/jbic|JBIC]]
+- [[financial-regulators/dbj|DBJ]]
+- [[financial-regulators/jfc|JFC]]
+- [[banking/regional-bank-consolidation-pattern|地域銀行統合パターン]]
+- [[financial-regulators/INDEX|financial-regulators INDEX]]
+- [[INDEX|FinWiki index]]
 
 ## Sources
 
 - FSA, "銀行免許一覧", `ginkou.xlsx`.
-- RCC, "整理回収機構の概要".
-- Deposit Insurance Corporation of Japan public information.
+- RCC, "整理回収機構の概要" (kaisyukikou.co.jp).
+- Deposit Insurance Corporation of Japan: 整理回収機構の概要 (100% DIC-owned; 1999-04 merger of 住宅金融債権管理機構 + 整理回収銀行; business scope).
+
+> [!info] 校核状態
+> confidence: likely。親会社 (預金保険機構 100% 出資)・発足 (1999-04 合併)・業務範囲・銀行免許リスト掲載は DIC/RCC 公開情報で確認済み。「金融機能再生緊急措置法」等の個別条名は版により表記が分かれるため、本文では legal basis を「金融再生・預金保険の枠組み」と一般化し、特定条名の断定は避けた。

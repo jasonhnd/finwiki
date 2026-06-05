@@ -20,8 +20,8 @@
     ],
     "domain": "life-insurers",
     "created": "2026-05-21",
-    "last_updated": "2026-05-21",
-    "last_tended": "2026-05-21",
+    "last_updated": "2026-06-05",
+    "last_tended": "2026-06-05",
     "review_by": "2026-11-21",
     "confidence": "likely",
     "tags": [
@@ -36,48 +36,52 @@
     "sources": [
       "https://www.fsa.go.jp/menkyo/hoken.pdf",
       "https://www.seiho.or.jp/member/list/",
-      "https://neofirst.co.jp/company/outline.html"
+      "https://neofirst.co.jp/company/outline.html",
+      "https://neofirst.co.jp/about/brand/"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 第一フロンティア生命保険 for peer / contrast context and insurance index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under life-insurers INDEX (its domain route). It is a specialty operating company under the listed parent 第一ライフグループ, alongside the core underwriter 第一生命保険 and the bancassurance arm 第一フロンティア生命. Read it against the FSA and 生命保険協会 for the supervisory / industry-body boundary; its produc",
   "headings": [
     "第一ネオ生命保険",
     "Wiki route",
     "TL;DR",
     "1. License / group boundary",
-    "2. Why this page matters",
+    "2. Operating model",
+    "3. Why this page matters",
     "Related",
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 8,
+    "wikilinks_count": 9,
     "wikilinks": [
-      "JapanFG/INDEX",
-      "dai-ichi-frontier-life",
-      "dai-ichi-life",
-      "dai-ichi-life-insurance",
-      "insurance/INDEX",
-      "insurance/global-solvency-framework-comparison-matrix",
-      "insurance/life-insurance-channel-mix",
-      "life-insurers/dai-ichi-frontier-life"
+      "INDEX",
+      "financial-regulators/fsa",
+      "financial-regulators/seiho-kyokai",
+      "insurance/japan-life-insurance-alm-overview",
+      "insurance/medical-cancer-insurance-product-economics",
+      "life-insurers/INDEX",
+      "life-insurers/dai-ichi-frontier-life",
+      "life-insurers/dai-ichi-life",
+      "life-insurers/dai-ichi-life-insurance"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
-      "https://finwiki.zksc.io/dai-ichi-frontier-life",
-      "https://finwiki.zksc.io/dai-ichi-life",
-      "https://finwiki.zksc.io/dai-ichi-life-insurance",
-      "https://finwiki.zksc.io/insurance/INDEX",
-      "https://finwiki.zksc.io/insurance/global-solvency-framework-comparison-matrix",
-      "https://finwiki.zksc.io/insurance/life-insurance-channel-mix",
-      "https://finwiki.zksc.io/life-insurers/dai-ichi-frontier-life"
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/financial-regulators/fsa",
+      "https://finwiki.zksc.io/financial-regulators/seiho-kyokai",
+      "https://finwiki.zksc.io/insurance/japan-life-insurance-alm-overview",
+      "https://finwiki.zksc.io/insurance/medical-cancer-insurance-product-economics",
+      "https://finwiki.zksc.io/life-insurers/INDEX",
+      "https://finwiki.zksc.io/life-insurers/dai-ichi-frontier-life",
+      "https://finwiki.zksc.io/life-insurers/dai-ichi-life",
+      "https://finwiki.zksc.io/life-insurers/dai-ichi-life-insurance"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1697,
-    "word_like_tokens": 270,
-    "inbound_wikilinks_count": 4,
-    "last_modified": "2026-06-04"
+    "nonspace_chars": 2970,
+    "word_like_tokens": 441,
+    "inbound_wikilinks_count": 5,
+    "last_modified": "2026-06-05"
   }
 }

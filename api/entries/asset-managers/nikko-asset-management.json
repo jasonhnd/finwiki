@@ -19,8 +19,8 @@
     ],
     "domain": "asset-managers",
     "created": "2026-05-20",
-    "last_updated": "2026-05-20",
-    "last_tended": "2026-05-20",
+    "last_updated": "2026-06-05",
+    "last_tended": "2026-06-05",
     "review_by": "2026-11-20",
     "confidence": "likely",
     "tags": [
@@ -37,33 +37,37 @@
       "https://www.amova-am.com/files/lists/eannouncement/20250901.pdf"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against アセットマネジメントOne for peer / contrast context and securities index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under asset-managers INDEX (its domain route). Read it against 三井住友トラスト・アセットマネジメント (SMT-AM) for the same-group trust-affiliated 運用会社 peer / contrast, and against the FSA plus FSA 金商業者 index for the supervisory / registry boundary over 投資運用業 operators.",
   "headings": [
     "アモーヴァ・アセットマネジメント (旧 日興アセット)",
     "Wiki route",
     "TL;DR",
-    "1. 法人・ライセンス境界",
-    "2. Business role",
-    "3. Why standalone page matters",
+    "1. License / group boundary",
+    "2. Operating model",
+    "3. Why this page matters",
     "Related",
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 7,
+    "wikilinks_count": 9,
     "wikilinks": [
-      "JapanFG/INDEX",
-      "asset-managers/asset-management-one",
+      "INDEX",
+      "asset-managers/INDEX",
       "asset-managers/nomura-asset-management",
-      "securities/INDEX",
+      "asset-managers/smt-am",
+      "financial-regulators/fsa",
+      "securities/financial-instruments-business-operators-japan-index",
       "securities/nisa-2024-flow",
       "trust-banks/smtb",
       "trust-banks/sumitomo-mitsui-trust"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
-      "https://finwiki.zksc.io/asset-managers/asset-management-one",
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/asset-managers/INDEX",
       "https://finwiki.zksc.io/asset-managers/nomura-asset-management",
-      "https://finwiki.zksc.io/securities/INDEX",
+      "https://finwiki.zksc.io/asset-managers/smt-am",
+      "https://finwiki.zksc.io/financial-regulators/fsa",
+      "https://finwiki.zksc.io/securities/financial-instruments-business-operators-japan-index",
       "https://finwiki.zksc.io/securities/nisa-2024-flow",
       "https://finwiki.zksc.io/trust-banks/smtb",
       "https://finwiki.zksc.io/trust-banks/sumitomo-mitsui-trust"
@@ -72,9 +76,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1885,
-    "word_like_tokens": 272,
-    "inbound_wikilinks_count": 7,
-    "last_modified": "2026-06-04"
+    "nonspace_chars": 2856,
+    "word_like_tokens": 422,
+    "inbound_wikilinks_count": 9,
+    "last_modified": "2026-06-05"
   }
 }

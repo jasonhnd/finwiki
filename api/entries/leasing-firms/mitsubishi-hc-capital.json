@@ -19,8 +19,8 @@
     ],
     "domain": "leasing-firms",
     "created": "2026-05-19",
-    "last_updated": "2026-05-19",
-    "last_tended": "2026-05-19",
+    "last_updated": "2026-06-05",
+    "last_tended": "2026-06-05",
     "review_by": "2026-11-15",
     "confidence": "likely",
     "tags": [
@@ -33,24 +33,27 @@
     "status": "active",
     "sources": [
       "https://www.mitsubishi-hc-capital.com/english/corporate/",
-      "https://www.mitsubishi-hc-capital.com/english/corporate/business/"
+      "https://www.mitsubishi-hc-capital.com/english/corporate/business/",
+      "https://ja.wikipedia.org/wiki/三菱HCキャピタル"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against オリックス株式会社 (ORIX Corporation) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under leasing-firms INDEX (its domain route). Read it against オリックス株式会社 (ORIX Corporation) for peer / contrast (independent conglomerate vs. bank/trading-house affiliate), against MUFG for the group / parent context, and against the FSA for the supervisory boundary (lessors register",
   "headings": [
     "三菱 HC キャピタル (Mitsubishi HC Capital)",
     "Wiki route",
     "TL;DR",
-    "Business map",
-    "Strategic read",
+    "1. Identity / merger lineage",
+    "2. Operating model",
+    "3. Strategic read",
     "Related",
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 8,
+    "wikilinks_count": 9,
     "wikilinks": [
-      "JapanFG/INDEX",
-      "banking/INDEX",
+      "INDEX",
+      "financial-regulators/fsa",
+      "leasing-firms/INDEX",
       "leasing-firms/fuyo-lease",
       "leasing-firms/mizuho-lease",
       "leasing-firms/orix-corp",
@@ -59,8 +62,9 @@
       "megabanks/mufg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
-      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/financial-regulators/fsa",
+      "https://finwiki.zksc.io/leasing-firms/INDEX",
       "https://finwiki.zksc.io/leasing-firms/fuyo-lease",
       "https://finwiki.zksc.io/leasing-firms/mizuho-lease",
       "https://finwiki.zksc.io/leasing-firms/orix-corp",
@@ -72,9 +76,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1827,
-    "word_like_tokens": 273,
+    "nonspace_chars": 2866,
+    "word_like_tokens": 428,
     "inbound_wikilinks_count": 47,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-05"
   }
 }

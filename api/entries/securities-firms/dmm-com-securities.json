@@ -19,9 +19,9 @@
     ],
     "domain": "securities-firms",
     "created": "2026-05-20",
-    "last_updated": "2026-05-20",
-    "last_tended": "2026-05-20",
-    "review_by": "2026-11-20",
+    "last_updated": "2026-06-05",
+    "last_tended": "2026-06-05",
+    "review_by": "2026-12-05",
     "confidence": "likely",
     "tags": [
       "JapanFG",
@@ -38,44 +38,48 @@
       "https://securities.dmm.com/service_policy/"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against GMOクリック証券 for peer / contrast context and securities index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under securities-firms INDEX (its domain route). Read it against GMOクリック証券 for the closest retail FX / CFD peer / contrast, and against the FSA plus JSDA for the FIEA supervisory / self-regulatory boundary. The crypto-asset operator view lives separately on the DMM exchange page.",
   "headings": [
     "DMM.com証券",
     "Wiki route",
     "TL;DR",
-    "1. 法人・ライセンス境界",
-    "2. Business role",
-    "3. Why standalone page matters",
+    "1. License / group boundary",
+    "2. Operating model",
+    "3. Why this page matters",
     "Related",
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 7,
+    "wikilinks_count": 9,
     "wikilinks": [
-      "JapanFG/INDEX",
+      "INDEX",
       "exchanges/jp-exchange-dmm-com-securities",
+      "financial-regulators/fsa",
+      "financial-regulators/jsda",
+      "securities-firms/INDEX",
       "securities-firms/gmo-click-securities",
       "securities-firms/saxo-bank-securities",
       "securities-firms/sbi-fx-trade",
-      "securities-firms/traders-securities",
-      "securities/INDEX"
+      "securities-firms/traders-securities"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/INDEX",
       "https://finwiki.zksc.io/exchanges/jp-exchange-dmm-com-securities",
+      "https://finwiki.zksc.io/financial-regulators/fsa",
+      "https://finwiki.zksc.io/financial-regulators/jsda",
+      "https://finwiki.zksc.io/securities-firms/INDEX",
       "https://finwiki.zksc.io/securities-firms/gmo-click-securities",
       "https://finwiki.zksc.io/securities-firms/saxo-bank-securities",
       "https://finwiki.zksc.io/securities-firms/sbi-fx-trade",
-      "https://finwiki.zksc.io/securities-firms/traders-securities",
-      "https://finwiki.zksc.io/securities/INDEX"
+      "https://finwiki.zksc.io/securities-firms/traders-securities"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1889,
-    "word_like_tokens": 303,
+    "nonspace_chars": 2473,
+    "word_like_tokens": 403,
     "inbound_wikilinks_count": 18,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-05"
   }
 }
