@@ -1,16 +1,16 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-06-05T09:39:16+09:00",
+  "generated_at": "2026-06-05T09:59:31+09:00",
   "counts": {
-    "markdown_files": 1562,
-    "public_markdown_pages": 1561,
-    "site_urls_in_sitemap": 1562,
+    "markdown_files": 1563,
+    "public_markdown_pages": 1562,
+    "site_urls_in_sitemap": 1563,
     "topical_domains": 40,
     "link_audited_entries": 1485,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 10875294,
-    "word_like_tokens": 1756279,
+    "nonspace_utf8_chars": 10880506,
+    "word_like_tokens": 1757249,
     "entity_anchors": 12,
     "entity_mirror_pages": 12
   },
@@ -160,35 +160,35 @@
     },
     {
       "domain": "exchanges",
-      "entries": 147,
+      "entries": 146,
       "route": "exchanges/INDEX",
       "url": "https://finwiki.zksc.io/exchanges/INDEX",
       "scope": "Japan and global CEX / DEX, VASP regulation, JVCEA / FSA registered-operator completeness, custody, IEO, warnings, and incidents."
     },
     {
       "domain": "fintech",
-      "entries": 144,
+      "entries": 143,
       "route": "fintech/INDEX",
       "url": "https://finwiki.zksc.io/fintech/INDEX",
       "scope": "Stablecoins, tokenized money, EPI, GENIUS, MiCA, MAS, HKMA, CBDC, embedded wallets, and monetary geopolitics."
     },
     {
       "domain": "systems",
-      "entries": 62,
+      "entries": 61,
       "route": "systems/INDEX",
       "url": "https://finwiki.zksc.io/systems/INDEX",
       "scope": "Cross-chain infrastructure, BFT / validator economics, account abstraction, Canton / DAML, Besu, Ethereum upgrades, and protocol implementation topics."
     },
     {
       "domain": "agent-economy",
-      "entries": 41,
+      "entries": 40,
       "route": "agent-economy/INDEX",
       "url": "https://finwiki.zksc.io/agent-economy/INDEX",
       "scope": "AI-agent payment protocols, x402, AP2, embedded wallets, and agent-commerce infrastructure."
     },
     {
       "domain": "banking",
-      "entries": 40,
+      "entries": 39,
       "route": "banking/INDEX",
       "url": "https://finwiki.zksc.io/banking/INDEX",
       "scope": "Net banks, net-bank competition map, BaaS operating models, cooperative banking, JA Bank system, JF Marine Bank system, shinkin / credit-cooperative / rokin registry indexes, trust-bank / custody infrastructure, trust-bank custody operating comparison, master trust / custody bank landscape, regional bank API partnerships, foreign-bank retreat, regional-bank consolidation, quick-deposit flows, the Japan banking license tier comparison matrix (megabank / regional / second / trust / net / foreign branch / shinkin / credit cooperative / rōkin / Norinchukin-JA-JF), and the Japan trust bank vs global custodian comparison matrix."
@@ -202,21 +202,21 @@
     },
     {
       "domain": "policy-finance",
-      "entries": 35,
+      "entries": 34,
       "route": "policy-finance/INDEX",
       "url": "https://finwiki.zksc.io/policy-finance/INDEX",
       "scope": "Public finance, development finance, export credit, housing finance, SME / agriculture / fisheries credit guarantees, policy-bank adjacency, JICA, JBIC, NEXI, JOGMEC, and JASSO."
     },
     {
       "domain": "insurance",
-      "entries": 33,
+      "entries": 32,
       "route": "insurance/INDEX",
       "url": "https://finwiki.zksc.io/insurance/INDEX",
       "scope": "Solvency, ESR, life-insurance distribution, mutual-company governance, internet life insurance, life-insurance big-four comparison, non-life big-three comparison, public-private earthquake insurance scheme, agency / brokerage distribution, reinsurance, direct non-life insurance, and the global solvency framework comparison (FSA ESR / IAIS ICS / EU Solvency II / US RBC)."
     },
     {
       "domain": "finance",
-      "entries": 27,
+      "entries": 26,
       "route": "finance/INDEX",
       "url": "https://finwiki.zksc.io/finance/INDEX",
       "scope": "Public finance reference pages for FIRE math, cross-border M&A, acquisition finance, activist / engagement playbook, tender offers / public-company control transactions, MBO / squeeze-out process, large-shareholding disclosure, fair disclosure / insider trading controls, shareholder proposal / AGM voting route, investment-banking league tables, and public tax-jurisdiction comparison."
@@ -279,35 +279,35 @@
     },
     {
       "domain": "payments",
-      "entries": 41,
+      "entries": 40,
       "route": "payments/INDEX",
       "url": "https://finwiki.zksc.io/payments/INDEX",
       "scope": "Japan cashless-payment, payment license stack, bank API / electronic payment agency, bank API incident / fraud controls, account-to-account payment, account-direct merchant acquiring, card issuer / acquirer / processor split, card security / authentication controls, interchange / merchant-fee stack, payment clearing / settlement infrastructure, card acquiring / merchant PSP, BNPL / credit-purchase boundary, wallet, prepaid issuer registry, funds-transfer registry, credit / card registry, code-payment competition, PSP settlement risk, and EPI-adjacent settlement landscape."
     },
     {
       "domain": "securities",
-      "entries": 33,
+      "entries": 32,
       "route": "securities/INDEX",
       "url": "https://finwiki.zksc.io/securities/INDEX",
       "scope": "NISA, IPO listing disclosure, security-token secondary markets, online brokerage competition, best execution / SOR / PTS, PTS liquidity data, margin trading / securities finance, short-selling / stock-loan controls, stock lending market route, prime brokerage / institutional financing, underwriting market structure, FIEA operator registry, JSDA, exchange venues, clearing, settlement, market-infrastructure mapping, and securities-market flow."
     },
     {
       "domain": "derivatives",
-      "entries": 33,
+      "entries": 32,
       "route": "derivatives/INDEX",
       "url": "https://finwiki.zksc.io/derivatives/INDEX",
       "scope": "Japan + global derivatives markets — interest rate (IRS / OIS / JGB futures), FX (cross-currency basis / FX options / retail FX), credit (CDS / structured bond / EB knock-in), equity volatility (JPX-VI), OTC clearing infrastructure (JSCC, trade repository), dealer-bank revenue mix."
     },
     {
       "domain": "real-estate-finance",
-      "entries": 28,
+      "entries": 27,
       "route": "real-estate-finance/INDEX",
       "url": "https://finwiki.zksc.io/real-estate-finance/INDEX",
       "scope": "Japan + global real-estate finance — J-REIT (top 10 matrix, sponsor-conflict, governance vs US REIT), securitization (CMBS / RMBS / bridge fund / GK-TK SPV / appraisal), developer financing (Mitsui Fudosan / Mitsubishi Estate / AEON Mall / Mitsubishi commercial real-estate lending), cap-rate compression, foreign-investor / tax."
     },
     {
       "domain": "structured-finance",
-      "entries": 30,
+      "entries": 29,
       "route": "structured-finance/INDEX",
       "url": "https://finwiki.zksc.io/structured-finance/INDEX",
       "scope": "Japan + global structured finance — ABS (auto / consumer / RMBS / CMBS), JHF MBS, CLO, NPL securitization, project finance SPV (renewable), aircraft / ship / infrastructure finance, synthetic securitization for RWA relief, SPV vehicles (TK / GK / TMK), credit rating methodology (JCR / R&I)."
@@ -541,10 +541,10 @@
         "English",
         "中文",
         "2026-06-05",
+        "INDEX 件数校正 — root content map の domain 件数を disk 実数へ同期 / INDEX count calibration / INDEX 数量校准",
         "P2 深化（第 1 批）— JapanFG 拆分域の存根 58 件を深化 / P2 deepening batch 1 (58 split-domain stubs) / P2 深化第 1 批（58 个拆分域存根）",
         "P4 i18n — 55 entry に ja/zh/en mirror 165 file（鍵不要・subagent 直接翻訳）/ P4 i18n: 165 ja/zh/en mirrors, no API key / P4 i18n：55 entry × 3 语 = 165 镜像（无需密钥）",
-        "P3 内容拡充 — 最薄の non-profit / trade を各 +6（+12 entry）/ P3 content expansion (non-profit / trade +6 each) / P3 内容扩充（non-profit / trade 各 +6）",
-        "2026-06-04"
+        "P3 内容拡充 — 最薄の non-profit / trade を各 +6（+12 entry）/ P3 content expansion (non-profit / trade +6 each) / P3 内容扩充（non-profit / trade 各 +6）"
       ],
       "wikilinks": [
         "...",
@@ -784,8 +784,8 @@
         "japanfg-split-design 参照",
         "origin repository"
       ],
-      "nonspace_chars": 541885,
-      "word_like_tokens": 96619,
+      "nonspace_chars": 545260,
+      "word_like_tokens": 97266,
       "last_modified": "2026-06-05"
     },
     {
@@ -1355,8 +1355,8 @@
         "vercel.json",
         "wiki-link-improvement-plan.md"
       ],
-      "nonspace_chars": 66283,
-      "word_like_tokens": 11675,
+      "nonspace_chars": 67904,
+      "word_like_tokens": 11967,
       "last_modified": "2026-06-05"
     },
     {
@@ -76771,6 +76771,34 @@
       "last_modified": "2026-06-05"
     },
     {
+      "source_path": "releases/v2026.06.05-4.md",
+      "url": "https://finwiki.zksc.io/releases/v2026.06.05-4",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.06.05-4.md",
+      "title": "INDEX 件数校正 — root content map の domain 件数を disk 実数へ同期",
+      "domain": "releases",
+      "entry_type": "release_note",
+      "canonical_anchor": "",
+      "summary": "",
+      "headings": [
+        "INDEX 件数校正 — root content map の domain 件数を disk 実数へ同期",
+        "日本語",
+        "公開範囲",
+        "主要変更",
+        "検証結果",
+        "既知の注意点 / 次の作業",
+        "English",
+        "Release Scope",
+        "Major Changes",
+        "Validation Results"
+      ],
+      "wikilinks": [],
+      "resolved_wikilinks": [],
+      "markdown_links": [],
+      "nonspace_chars": 2846,
+      "word_like_tokens": 504,
+      "last_modified": "2026-06-05"
+    },
+    {
       "source_path": "retail/INDEX.md",
       "url": "https://finwiki.zksc.io/retail/INDEX",
       "github_url": "https://github.com/jasonhnd/finwiki/blob/main/retail/INDEX.md",
@@ -91752,8 +91780,8 @@
         "https://finwiki.zksc.io/wikilink"
       ],
       "markdown_links": [],
-      "nonspace_chars": 6032,
-      "word_like_tokens": 1104,
+      "nonspace_chars": 3402,
+      "word_like_tokens": 631,
       "last_modified": "2026-06-05"
     }
   ]

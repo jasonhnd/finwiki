@@ -19,8 +19,8 @@
 | 🟢 | `security` 4 个 planned 页 | **v12 完成**（+4，security 6→9）。 |
 | 🟢 | 薄领域补内容 | **v12 + v2026.06.05-1 完成**。v12 +46 entry；v05-1 并行 2 agent 把最薄的 `non-profit` 6→12、`trade` 6→12（+12）。现无「最薄」域。 |
 | 🟢 | i18n 翻译（v12 的 43 + v05-1 的 12）| **v2026.06.05-2 完成**。55 个 content entry × ja/zh/en = 165 个镜像，由 8 个并行 subagent 直接翻译（**不需要密钥**——`translate.mjs` 需密钥只因它是独立程序调另一个 Haiku；subagent 自己就能译）。镜像复刻流水线格式（`source_hash=sha256(body).slice(0,16)`、`.passthrough()` schema）。全局 link-integrity 检查 `checked=165 link_mismatches=0`。17 个新域 INDEX 不需镜像（landing 由 config 生成）。教训：i18n 不在 link audit 内，须自行验证 `[[link]]`/数字 byte 一致（已记入做法）。 |
+| 🟢 | 各领域 INDEX count 常态校准 | **v2026.06.05-4 完成一轮**。root `INDEX.md` 中 13 个 thematic domain Entries 值各 +1，已按 non-INDEX `.md` disk 实数校正。今后内容增删仍需 Phase 2 手动对账（见维护提醒）。 |
 | 🔴 | 评估/合并 v12 双批近重复主题 | v12 中 5 领域（loyalty / money-market 等）因 rate-limit + 重试得到双量（6）entry，主题互补但 loyalty & money-market 出现多个 benchmark / point-economics 类页，人工核对是否近重复并按需合并。 |
-| 🔴 | 各领域 INDEX count 常态校准 | 内容增删后 INDEX 表 count 易滞后（`release.ts` 不自动改领域 count）。 |
 
 ## JapanFG（P2）
 
@@ -42,3 +42,4 @@
 - clone 后首次发布前要恢复 mtime（见 [gotchas.md](gotchas.md) #1）。
 - 改领域名要同步 4 处（site 三配置 + wiki_link_audit map + INDEX 表），见 [gotchas.md](gotchas.md) #5 / [decisions.md](decisions.md) ADR-001。
 - README / CHANGELOG 散文里别写字面 `[[domain/...]]`（见 gotchas #6）。
+- 内容增删后 root / domain INDEX 表 count 易滞后；`release.ts` 不自动改领域 count，需按 disk 实数手动对账（v2026.06.05-4 修过一轮）。
