@@ -1,5 +1,5 @@
 ---
-source: japanfg/unionpay-international-japan
+source: payment-firms/unionpay-international-japan
 source_hash: 15d45bce352042ef
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.163Z
 
 ## Wiki route
 
-本条目位于[[JapanFG/INDEX|JapanFG index]]之下。可与[[card-issuers/jcb|JCB]]对读，以把握同业 / 对比背景（JCB 与银联自2006 年起存在相互受理合作历史）；也可与[[payments/japan-card-issuer-acquirer-processor-split|Japan card issuer / acquirer / processor split]]对读，以理解更广的系统与监管边界。
+本条目位于[[payment-firms/INDEX|payment-firms INDEX]]之下。可与[[card-issuers/jcb|JCB]]对读，以把握同业 / 对比背景（JCB 与银联自2006 年起存在相互受理合作历史）；也可与[[payments/japan-card-issuer-acquirer-processor-split|Japan card issuer / acquirer / processor split]]对读，以理解更广的系统与监管边界。
 
 ## TL;DR
 

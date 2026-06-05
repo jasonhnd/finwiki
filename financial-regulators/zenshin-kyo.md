@@ -34,7 +34,7 @@ Zenshin-kyō (全信協) is the national industry body for Japan's shinkin banks
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it with [[cooperative-banks/shinkin-central|Shinkin Central Bank]] for the operational central-bank counterpart, and with peer banking industry bodies [[financial-regulators/zenginkyo|Japanese Bankers Association]], [[financial-regulators/zenchugin-kyo|Regional Banks Association of Japan]], and [[financial-regulators/dai2-chigin-kyo|Second Association of Regional Banks]] for the broader banking-association stack. Statutory backdrop sits at [[financial-licenses/INDEX]] and [[financial-licenses/bank-license-and-baas-boundary]]; failure-resolution backstop is [[financial-regulators/yokin-hoken-kiko|Deposit Insurance Corporation of Japan]]; the wider operator universe is in [[banking/INDEX]].
+This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]]. Read it with [[cooperative-banks/shinkin-central|Shinkin Central Bank]] for the operational central-bank counterpart, and with peer banking industry bodies [[financial-regulators/zenginkyo|Japanese Bankers Association]], [[financial-regulators/zenchugin-kyo|Regional Banks Association of Japan]], and [[financial-regulators/dai2-chigin-kyo|Second Association of Regional Banks]] for the broader banking-association stack. Statutory backdrop sits at [[financial-licenses/INDEX]] and [[financial-licenses/bank-license-and-baas-boundary]]; failure-resolution backstop is [[financial-regulators/yokin-hoken-kiko|Deposit Insurance Corporation of Japan]]; the wider operator universe is in [[banking/INDEX]].
 
 ## Legal route / statutory position (法令の根拠)
 
@@ -71,7 +71,7 @@ Shinkin banks are easy to misclassify as "small regional banks" — they are leg
 
 ## Related
 
-- [[JapanFG/INDEX|JapanFG index]]
+- [[financial-regulators/INDEX|financial-regulators INDEX]]
 - [[cooperative-banks/shinkin-central|Shinkin Central Bank]]
 - [[financial-regulators/zenginkyo|Japanese Bankers Association]]
 - [[financial-regulators/zenchugin-kyo|Regional Banks Association of Japan]]

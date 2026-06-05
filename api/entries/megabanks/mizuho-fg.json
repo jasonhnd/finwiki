@@ -38,7 +38,7 @@
       "Yahoo!ニュース/ABEMA TIMES「メガバンク初 みずほ銀行が対話型AIを業務に導入」(2023): https://news.yahoo.co.jp/articles/51973b383cf6057abe0cb43e1aa87a4c64d27bd5"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 三菱 UFJ FG (MUFG) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under megabanks INDEX. Read it against 三菱 UFJ FG (MUFG) for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [
     "みずほ FG (Mizuho FG)",
     "Wiki route",
@@ -54,10 +54,10 @@
   "body_links": {
     "wikilinks_count": 10,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "banking/mercari-bank-license-stack",
       "banking/minna-bank-baas-model",
+      "megabanks/INDEX",
       "megabanks/mufg",
       "mufg",
       "ndfg",
@@ -66,10 +66,10 @@
       "smfg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/mercari-bank-license-stack",
       "https://finwiki.zksc.io/banking/minna-bank-baas-model",
+      "https://finwiki.zksc.io/megabanks/INDEX",
       "https://finwiki.zksc.io/megabanks/mufg",
       "https://finwiki.zksc.io/mufg",
       "https://finwiki.zksc.io/ndfg",
@@ -81,9 +81,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 7617,
+    "nonspace_chars": 7621,
     "word_like_tokens": 1384,
     "inbound_wikilinks_count": 103,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

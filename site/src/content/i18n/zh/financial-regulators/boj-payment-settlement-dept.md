@@ -1,5 +1,5 @@
 ---
-source: japanfg/boj-payment-settlement-dept
+source: financial-regulators/boj-payment-settlement-dept
 source_hash: 9e37873cb25b2d42
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T11:13:44.918Z
 # 決済機構局 (BoJ Payment and Settlement Systems Department)
 
 ## Wiki ??
-????? [[JapanFG/INDEX|JapanFG index]]. ??? [[financial-regulators/boj-financial-markets-dept|金融市場局]] for the BoJ market-operations counterpart and [[financial-regulators/boj-financial-system-dept|金融機構局]] for the prudential-side bureau. For the broader settlement system, anchor through [[banking/INDEX|banking landscape]] and [[financial-regulators/boj-monetary-policy|BoJ monetary policy]].
+????? [[financial-regulators/INDEX|financial-regulators INDEX]]. ??? [[financial-regulators/boj-financial-markets-dept|金融市場局]] for the BoJ market-operations counterpart and [[financial-regulators/boj-financial-system-dept|金融機構局]] for the prudential-side bureau. For the broader settlement system, anchor through [[banking/INDEX|banking landscape]] and [[financial-regulators/boj-monetary-policy|BoJ monetary policy]].
 
 ## TL;DR
 

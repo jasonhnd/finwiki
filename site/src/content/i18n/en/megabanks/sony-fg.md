@@ -1,5 +1,5 @@
 ---
-source: japanfg/sony-fg
+source: megabanks/sony-fg
 source_hash: 03ca707c17d626b6
 lang: en
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-01T02:31:57.152Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[life-insurers/sony-life|ソニー生命保険]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+This entry sits under [[megabanks/INDEX|megabanks INDEX]]. Read it against [[life-insurers/sony-life|ソニー生命保険]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 

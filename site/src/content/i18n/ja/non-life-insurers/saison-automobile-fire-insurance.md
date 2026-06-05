@@ -1,5 +1,5 @@
 ---
-source: japanfg/saison-automobile-fire-insurance
+source: non-life-insurers/saison-automobile-fire-insurance
 source_hash: cd532720e5961ed1
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T15:14:17.102Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] 歴史的に次の名称で知られたダイレクト損保の事業会社アンカーとして セゾン自動車火災保険, now operating as ＳＯＭＰＯダイレクト損害保険に置かれる。比較対象として[[non-life-insurers/sompo|SOMPO HD]] 親グループの文脈を確認する, [[megabanks/sony-fg|Sony FG]] ダイレクト自動車保険の同業比較を確認する, and [[card-issuers/credit-saison|Credit Saison]] 歴史的なSaisonグループ起源を確認する. あわせて [[insurance/saison-automobile-fire|the insurance/ deep-dive]] ダイレクトチャネルと商品レベルの分析を参照する.
+この項目は [[non-life-insurers/INDEX|non-life-insurers INDEX]] 歴史的に次の名称で知られたダイレクト損保の事業会社アンカーとして セゾン自動車火災保険, now operating as ＳＯＭＰＯダイレクト損害保険に置かれる。比較対象として[[non-life-insurers/sompo|SOMPO HD]] 親グループの文脈を確認する, [[megabanks/sony-fg|Sony FG]] ダイレクト自動車保険の同業比較を確認する, and [[card-issuers/credit-saison|Credit Saison]] 歴史的なSaisonグループ起源を確認する. あわせて [[insurance/saison-automobile-fire|the insurance/ deep-dive]] ダイレクトチャネルと商品レベルの分析を参照する.
 
 ## 要約
 
@@ -130,7 +130,7 @@ SOMPO ホールディングス（東証 PRIME 8630）
 - [[insurance/sony-assurance]] — 直販自動車保険ピア
 - [[insurance/axa-direct]] — 直販自動車保険ピア（外資系）
 - [[insurance/INDEX]] — insurance namespace index
-- [[JapanFG/INDEX]] — JapanFG namespace index
+- [[non-life-insurers/INDEX]] — JapanFG namespace index
 
 ## 出典
 

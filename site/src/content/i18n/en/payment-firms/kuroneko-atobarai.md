@@ -1,5 +1,5 @@
 ---
-source: japanfg/kuroneko-atobarai
+source: payment-firms/kuroneko-atobarai
 source_hash: 38cac22717755d2c
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:59:49.398Z
 
 ## Wiki route
 
-This entry sits under the [[JapanFG/INDEX|JapanFG index]] as a **logistics-anchored BNPL** product. Read it against the [[payment-firms/bnpl-landscape|Japan BNPL landscape]] system note, the [[payment-firms/net-protections-hd|Net Protections HD]] / [[payment-firms/paidy|Paidy]] BNPL peer set, and the [[payments/japan-bnpl-credit-purchase-boundary|Japan BNPL and credit-purchase boundary]] for the regulatory question. The [[payments/credit-purchase-card-operators-japan-index|METI credit-purchase registry]] is the registration anchor and the [[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]] shows where atobarai differs from card / code rails on merchant economics.
+This entry sits under the [[payment-firms/INDEX|payment-firms INDEX]] as a **logistics-anchored BNPL** product. Read it against the [[payment-firms/bnpl-landscape|Japan BNPL landscape]] system note, the [[payment-firms/net-protections-hd|Net Protections HD]] / [[payment-firms/paidy|Paidy]] BNPL peer set, and the [[payments/japan-bnpl-credit-purchase-boundary|Japan BNPL and credit-purchase boundary]] for the regulatory question. The [[payments/credit-purchase-card-operators-japan-index|METI credit-purchase registry]] is the registration anchor and the [[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]] shows where atobarai differs from card / code rails on merchant economics.
 
 ## TL;DR
 

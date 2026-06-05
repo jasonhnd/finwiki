@@ -1,5 +1,5 @@
 ---
-source: japanfg/nomura-asset-management
+source: asset-managers/nomura-asset-management
 source_hash: 68a327230dd059bb
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T00:41:50.451Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[asset-managers/asset-management-one|アセットマネジメントOne]] for peer / contrast context and [[securities/INDEX|securities index]] for the broader system / regulatory boundary.
+This entry sits under [[asset-managers/INDEX|asset-managers INDEX]]. Read it against [[asset-managers/asset-management-one|アセットマネジメントOne]] for peer / contrast context and [[securities/INDEX|securities index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 

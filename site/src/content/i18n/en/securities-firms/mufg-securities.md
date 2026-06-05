@@ -1,5 +1,5 @@
 ---
-source: japanfg/mufg-securities
+source: securities-firms/mufg-securities
 source_hash: 057e1001642df3af
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:59:49.415Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[megabanks/mufg|MUFG (8306, parent company)]], [[securities-firms/smbc-nikko|SMBC Nikko Securities]] / [[securities-firms/mizuho-securities|Mizuho Securities]] for peer / contrast context among megabank-affiliated securities firms, [[securities-firms/nomura-hd|Nomura HD]] / [[securities-firms/daiwa-sg|Daiwa Securities]] for independent rival context, and [[financial-regulators/fsa|Financial Services Agency]] for the regulatory boundary.
+This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it against [[megabanks/mufg|MUFG (8306, parent company)]], [[securities-firms/smbc-nikko|SMBC Nikko Securities]] / [[securities-firms/mizuho-securities|Mizuho Securities]] for peer / contrast context among megabank-affiliated securities firms, [[securities-firms/nomura-hd|Nomura HD]] / [[securities-firms/daiwa-sg|Daiwa Securities]] for independent rival context, and [[financial-regulators/fsa|Financial Services Agency]] for the regulatory boundary.
 
 ## TL;DR
 
@@ -125,7 +125,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[megaban
 - [[megabanks/mufg|MUFG (8306)]] · [[megabanks/mufg-bank|MUFG Bank]] · [[securities-firms/mufg-mums|MUMSS]]
 - [[securities-firms/smbc-nikko|SMBC Nikko Securities]] · [[securities-firms/mizuho-securities|Mizuho Securities]] · [[securities-firms/nomura-hd|Nomura HD]] · [[securities-firms/daiwa-sg|Daiwa Securities Group Inc.]]
 - [[financial-regulators/fsa|Financial Services Agency]] · [[financial-regulators/japan-exchange-group|Japan Exchange Group]] · [[financial-regulators/jsda|Japan Securities Dealers Association]]
-- [[JapanFG/INDEX|JapanFG index]]
+- [[securities-firms/INDEX|securities-firms INDEX]]
 
 ## Sources
 

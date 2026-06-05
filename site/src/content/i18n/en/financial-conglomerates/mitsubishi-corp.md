@@ -1,5 +1,5 @@
 ---
-source: japanfg/mitsubishi-corp
+source: financial-conglomerates/mitsubishi-corp
 source_hash: 7e3eb18701b272a1
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:59:49.344Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha parent holding-company** (not a financial group per se, but it is the cap-table parent of multiple JapanFG-tagged finance subsidiaries). Read it against [[financial-conglomerates/mitsui-co|Mitsui & Co.]] and [[financial-conglomerates/itochu-corp|ITOCHU Corporation]] for the closest 5  major trading-company peer / contrast context. For the financial-services adjacency that gives this entry its JapanFG anchor, see [[trading-company-finance/mitsubishi-corp-finance|Mitsubishi Corporation Financial Services]] (inward-facing group treasury) and [[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]] (outward-facing leasing, partially owned and listed). System frame: [[finance/INDEX|finance index]] and [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]] for the broader cross-shareholding lens that ties trading companies to megabanks / leasing.
+This entry sits under [[financial-conglomerates/INDEX|financial-conglomerates INDEX]] as a **sōgō shōsha parent holding-company** (not a financial group per se, but it is the cap-table parent of multiple JapanFG-tagged finance subsidiaries). Read it against [[financial-conglomerates/mitsui-co|Mitsui & Co.]] and [[financial-conglomerates/itochu-corp|ITOCHU Corporation]] for the closest 5  major trading-company peer / contrast context. For the financial-services adjacency that gives this entry its JapanFG anchor, see [[trading-company-finance/mitsubishi-corp-finance|Mitsubishi Corporation Financial Services]] (inward-facing group treasury) and [[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]] (outward-facing leasing, partially owned and listed). System frame: [[finance/INDEX|finance index]] and [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]] for the broader cross-shareholding lens that ties trading companies to megabanks / leasing.
 
 ## 1. Company overview
 
@@ -112,7 +112,7 @@ The **two-layer structure** of "outward leasing = Mitsubishi HC Capital" and "in
 
 ## Related
 
-- [[JapanFG/INDEX|JapanFG index]]
+- [[financial-conglomerates/INDEX|financial-conglomerates INDEX]]
 - [[financial-conglomerates/mitsui-co|三井物産]] · [[financial-conglomerates/itochu-corp|伊藤忠商事]] · [[financial-conglomerates/sumitomo-corp|住友商事]] · [[financial-conglomerates/marubeni-corp|丸紅]] · [[financial-conglomerates/toyota-tsusho-corp|豊田通商]] · [[financial-conglomerates/sojitz-corp|双日]] (5  major trading companies + mid-sized trading companies)
 - [[trading-company-finance/mitsubishi-corp-finance|Mitsubishi Corporation Financial Services]] (inward group treasury)
 - [[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]] (outward-facing leasing, jointly controlled with MUFG)

@@ -1,5 +1,5 @@
 ---
-source: japanfg/kumamoto-bank
+source: regional-banks/kumamoto-bank
 source_hash: 44f96dba7aef8394
 lang: en
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T23:59:49.386Z
 
 ## Wiki Route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[regional-banks/higo-bank|肥後銀行]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it against [[regional-banks/higo-bank|肥後銀行]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 

@@ -1,5 +1,5 @@
 ---
-source: japanfg/iwate-bank
+source: regional-banks/iwate-bank
 source_hash: 2896cf231d78a771
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T15:29:03.904Z
 
 ## 维基路线
 
-此条目位于 [[JapanFG/INDEX|JapanFG index]] 下。针对同行/对比背景阅读 [[regional-banks/fidea-hd|フィデア HD (Fidea Holdings)]]，针对更广泛的系统/监管边界阅读 [[banking/INDEX|banking index]]。
+此条目位于 [[regional-banks/INDEX|regional-banks INDEX]] 下。针对同行/对比背景阅读 [[regional-banks/fidea-hd|フィデア HD (Fidea Holdings)]]，针对更广泛的系统/监管边界阅读 [[banking/INDEX|banking index]]。
 
 ##TL;博士
 

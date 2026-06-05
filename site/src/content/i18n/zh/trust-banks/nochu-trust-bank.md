@@ -1,5 +1,5 @@
 ---
-source: japanfg/nochu-trust-bank
+source: trust-banks/nochu-trust-bank
 source_hash: 7c12fa2b38ade4ea
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-01T00:41:50.440Z
 
 ## Wiki route
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可与 [[trust-banks/mitsubishi-ufj-trust-bank|三菱UFJ信託銀行 (MUTB)]] 对照阅读同业 / 对比语境，并与 [[banking/INDEX|banking index]] 阅读更广泛的系统 / 监管边界。
+本条目位于 [[trust-banks/INDEX|trust-banks INDEX]] 之下。可与 [[trust-banks/mitsubishi-ufj-trust-bank|三菱UFJ信託銀行 (MUTB)]] 对照阅读同业 / 对比语境，并与 [[banking/INDEX|banking index]] 阅读更广泛的系统 / 监管边界。
 
 ## TL;DR
 

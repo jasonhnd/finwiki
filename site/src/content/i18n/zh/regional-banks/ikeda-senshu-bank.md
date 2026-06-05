@@ -1,5 +1,5 @@
 ---
-source: japanfg/ikeda-senshu-bank
+source: regional-banks/ikeda-senshu-bank
 source_hash: e92013ce9f1c65c4
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T15:29:03.868Z
 
 ## Wiki 路径
 
-本条目位于 [[JapanFG/INDEX|JapanFG 索引]] 之下。可与 [[regional-banks/kansai-mirai-bank|Kansai Mirai Bank]]、[[regional-banks/kyoto-bank|Kyoto Bank]]、[[regional-banks/kiyo-bank|Kiyo Bank]] 以及 [[banking/INDEX|银行索引]] 对照阅读，理解关西地区地方银行整合格局。
+本条目位于 [[regional-banks/INDEX|regional-banks INDEX]] 之下。可与 [[regional-banks/kansai-mirai-bank|Kansai Mirai Bank]]、[[regional-banks/kyoto-bank|Kyoto Bank]]、[[regional-banks/kiyo-bank|Kiyo Bank]] 以及 [[banking/INDEX|银行索引]] 对照阅读，理解关西地区地方银行整合格局。
 
 ## TL;DR
 

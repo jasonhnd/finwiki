@@ -45,7 +45,7 @@
       "JPX 銘柄情報 2768 — https://www2.jpx.co.jp/"
     ]
   },
-  "summary": "This entry sits under JapanFG index as a sōgō shōsha parent holding-company — 5 大商社の次のレイヤーである 7 大商社の中堅商社 に位置付けられる。Read it against 丸紅 (5 大商社の中下位、双日との近接ポジション) and 豊田通商 (中堅・5 大下位の他のもう一極) for peer / contrast context. For the financial-services adjacency that gives this entry its JapanFG anchor — see 双日フ",
+  "summary": "This entry sits under financial-conglomerates INDEX as a sōgō shōsha parent holding-company — 5 大商社の次のレイヤーである 7 大商社の中堅商社 に位置付けられる。Read it against 丸紅 (5 大商社の中下位、双日との近接ポジション) and 豊田通商 (中堅・5 大下位の他のもう一極) for peer / contrast context. For the financial-services adjacency that gives this entry its JapanFG",
   "headings": [
     "双日 (Sojitz Corporation)",
     "Wiki route",
@@ -61,10 +61,10 @@
   "body_links": {
     "wikilinks_count": 21,
     "wikilinks": [
-      "JapanFG/INDEX",
       "cooperative-banks/ja-mitsui-leasing",
       "finance/INDEX",
       "finance/japan-listed-financial-groups-investable-universe",
+      "financial-conglomerates/INDEX",
       "financial-conglomerates/itochu-corp",
       "financial-conglomerates/marubeni-corp",
       "financial-conglomerates/mitsubishi-corp",
@@ -84,10 +84,10 @@
       "trading-company-finance/sojitz-finance"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/cooperative-banks/ja-mitsui-leasing",
       "https://finwiki.zksc.io/finance/INDEX",
       "https://finwiki.zksc.io/finance/japan-listed-financial-groups-investable-universe",
+      "https://finwiki.zksc.io/financial-conglomerates/INDEX",
       "https://finwiki.zksc.io/financial-conglomerates/itochu-corp",
       "https://finwiki.zksc.io/financial-conglomerates/marubeni-corp",
       "https://finwiki.zksc.io/financial-conglomerates/mitsubishi-corp",
@@ -110,9 +110,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5351,
-    "word_like_tokens": 837,
+    "nonspace_chars": 5415,
+    "word_like_tokens": 841,
     "inbound_wikilinks_count": 9,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

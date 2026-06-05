@@ -1,5 +1,5 @@
 ---
-source: japanfg/kiraboshi-bank
+source: regional-banks/kiraboshi-bank
 source_hash: d8bc5428cb3535ef
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:59:49.374Z
 
 ## Wiki 路径
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可与 [[regional-banks/yokohama-bank|横浜銀行]] 对读以理解同业和对比关系，并与 [[banking/INDEX|banking index]] 对读以把握更广的制度 / 监管边界。
+本条目位于 [[regional-banks/INDEX|regional-banks INDEX]] 之下。可与 [[regional-banks/yokohama-bank|横浜銀行]] 对读以理解同业和对比关系，并与 [[banking/INDEX|banking index]] 对读以把握更广的制度 / 监管边界。
 
 ## TL;DR
 

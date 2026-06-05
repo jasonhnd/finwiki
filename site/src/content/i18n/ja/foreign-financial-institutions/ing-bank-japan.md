@@ -1,5 +1,5 @@
 ---
-source: japanfg/ing-bank-japan
+source: foreign-financial-institutions/ing-bank-japan
 source_hash: 28e10448dab56308
 lang: ja
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-06-02T14:25:12.442Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に位置づける。[[foreign-financial-institutions/credit-agricole-bank-japan|クレディ・アグリコル銀行 東京支店]] は比較対象の文脈、[[banking/INDEX|banking index]] は制度全体と規制上の境界を確認するために併読する。
+この項目は [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]] の配下に位置づける。[[foreign-financial-institutions/credit-agricole-bank-japan|クレディ・アグリコル銀行 東京支店]] は比較対象の文脈、[[banking/INDEX|banking index]] は制度全体と規制上の境界を確認するために併読する。
 
 ## 要約
 

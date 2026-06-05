@@ -1,5 +1,5 @@
 ---
-source: japanfg/deloitte-touche-tohmatsu
+source: financial-regulators/deloitte-touche-tohmatsu
 source_hash: e90b2ee72297aa04
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T15:29:03.928Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it alongside [[financial-regulators/ey-shinnihon|EY ShinNihon]] and [[financial-regulators/pwc-aarata|PwC Aarata]] for peer Big Four audit context, and [[financial-licenses/INDEX|financial-license index]] for the public-accountant and audit-quality supervision perimeter. PAAOB supervision belongs with [[financial-regulators/fsa-supervision-bureau|FSA Supervision Bureau]] and [[financial-regulators/fsa-strategy-bureau|FSA Strategy Development and Management Bureau]] context.
+This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]]. Read it alongside [[financial-regulators/ey-shinnihon|EY ShinNihon]] and [[financial-regulators/pwc-aarata|PwC Aarata]] for peer Big Four audit context, and [[financial-licenses/INDEX|financial-license index]] for the public-accountant and audit-quality supervision perimeter. PAAOB supervision belongs with [[financial-regulators/fsa-supervision-bureau|FSA Supervision Bureau]] and [[financial-regulators/fsa-strategy-bureau|FSA Strategy Development and Management Bureau]] context.
 
 ## 1. Entity profile
 

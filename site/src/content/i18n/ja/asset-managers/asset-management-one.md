@@ -1,5 +1,5 @@
 ---
-source: japanfg/asset-management-one
+source: asset-managers/asset-management-one
 source_hash: ebceb13cb5ed90f9
 lang: ja
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-06-02T14:01:20.909Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下にある。ピア比較・対照の文脈では [[asset-managers/smd-am|三井住友DSアセットマネジメント]] とあわせて読み、より広い制度・規制境界については [[securities/INDEX|securities index]] とあわせて読む。
+この項目は [[asset-managers/INDEX|asset-managers INDEX]] の配下にある。ピア比較・対照の文脈では [[asset-managers/smd-am|三井住友DSアセットマネジメント]] とあわせて読み、より広い制度・規制境界については [[securities/INDEX|securities index]] とあわせて読む。
 
 ## 要約
 

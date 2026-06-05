@@ -1,5 +1,5 @@
 ---
-source: japanfg/mitsubishi-corp-asset-management
+source: asset-managers/mitsubishi-corp-asset-management
 source_hash: a3860ef0fcf61002
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:59:49.314Z
 
 ## Wiki route
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可与 [[asset-managers/asset-management-one|アセットマネジメントOne]]（[[megabanks/mizuho-fg|みずほ FG]] + [[life-insurers/dai-ichi-life|第一生命]] JV AM，银行体系 AM 同业）和 [[asset-managers/mufg-asset-management|三菱UFJアセットマネジメント]]（[[megabanks/mufg|MUFG]] 系列 AM）对照阅读。同一母公司下的集团 treasury 功能见 [[trading-company-finance/mitsubishi-corp-finance|三菱商事FS]]。更广泛的商社系金融同业集合见：[[trading-company-finance/mitsui-bussan-financial-services|三井物産FS]] / [[trading-company-finance/sumitomo-corp-financial-management|住友商事FM]] / [[trading-company-finance/itochu-finance|伊藤忠ファイナンス]] / [[trading-company-finance/marubeni-financial-services|丸紅フィナンス]] / [[trading-company-finance/toyota-tsusho-finance|豊田通商フィナンス]] / [[trading-company-finance/sojitz-finance|双日フィナンス]]。FIEA / 投资运用业边界见 [[securities/INDEX|securities index]]。
+本条目位于 [[asset-managers/INDEX|asset-managers INDEX]] 之下。可与 [[asset-managers/asset-management-one|アセットマネジメントOne]]（[[megabanks/mizuho-fg|みずほ FG]] + [[life-insurers/dai-ichi-life|第一生命]] JV AM，银行体系 AM 同业）和 [[asset-managers/mufg-asset-management|三菱UFJアセットマネジメント]]（[[megabanks/mufg|MUFG]] 系列 AM）对照阅读。同一母公司下的集团 treasury 功能见 [[trading-company-finance/mitsubishi-corp-finance|三菱商事FS]]。更广泛的商社系金融同业集合见：[[trading-company-finance/mitsui-bussan-financial-services|三井物産FS]] / [[trading-company-finance/sumitomo-corp-financial-management|住友商事FM]] / [[trading-company-finance/itochu-finance|伊藤忠ファイナンス]] / [[trading-company-finance/marubeni-financial-services|丸紅フィナンス]] / [[trading-company-finance/toyota-tsusho-finance|豊田通商フィナンス]] / [[trading-company-finance/sojitz-finance|双日フィナンス]]。FIEA / 投资运用业边界见 [[securities/INDEX|securities index]]。
 
 ## 1. 公司概要
 

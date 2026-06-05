@@ -1,5 +1,5 @@
 ---
-source: japanfg/jsda
+source: financial-regulators/jsda
 source_hash: d93223bddc8804df
 lang: ja
 status: machine

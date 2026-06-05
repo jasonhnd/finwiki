@@ -1,5 +1,5 @@
 ---
-source: japanfg/hamamatsu-iwata-shinkin
+source: cooperative-banks/hamamatsu-iwata-shinkin
 source_hash: 427d893c8fb2df53
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T15:29:03.878Z
 
 ## 维基路线
 
-该条目位于[[JapanFG/INDEX|JapanFG index]]阅读它反对[[cooperative-banks/okazaki-shinkin|岡崎信用金庫]]对于中部制造带信金块内的同行/对比环境和[[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]]对于更广泛的系统/监管边界[[cooperative-banks/shinkin-central|信金中央金庫]]。
+该条目位于[[cooperative-banks/INDEX|cooperative-banks INDEX]]阅读它反对[[cooperative-banks/okazaki-shinkin|岡崎信用金庫]]对于中部制造带信金块内的同行/对比环境和[[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]]对于更广泛的系统/监管边界[[cooperative-banks/shinkin-central|信金中央金庫]]。
 
 ## 长话短说
 

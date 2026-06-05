@@ -38,7 +38,7 @@
       "Capital Trust about page: https://www.captrustjp.com/about"
     ]
   },
-  "summary": "Wiki route: JapanFG/INDEX -> trust-banks/trust-companies-japan-index -> trust-banks/capital-trust",
+  "summary": "Wiki route: trust-banks/INDEX -> trust-banks/trust-companies-japan-index -> trust-banks/capital-trust",
   "headings": [
     "Capital Trust / キャピタル信託",
     "Overview",
@@ -53,9 +53,9 @@
     "wikilinks_count": 8,
     "wikilinks": [
       "INDEX",
-      "JapanFG/INDEX",
       "finance/japan-acquisition-finance",
       "securities/japan-market-infrastructure-map",
+      "trust-banks/INDEX",
       "trust-banks/asahi-trust",
       "trust-banks/capital-trust",
       "trust-banks/lombard-odier-trust",
@@ -63,9 +63,9 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/finance/japan-acquisition-finance",
       "https://finwiki.zksc.io/securities/japan-market-infrastructure-map",
+      "https://finwiki.zksc.io/trust-banks/INDEX",
       "https://finwiki.zksc.io/trust-banks/asahi-trust",
       "https://finwiki.zksc.io/trust-banks/capital-trust",
       "https://finwiki.zksc.io/trust-banks/lombard-odier-trust",
@@ -75,9 +75,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2449,
-    "word_like_tokens": 376,
+    "nonspace_chars": 2453,
+    "word_like_tokens": 377,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

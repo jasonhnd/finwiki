@@ -45,7 +45,7 @@
       "労働金庫法 (昭和 28 年法律第 227 号)"
     ]
   },
-  "summary": "This entry sits under JapanFG index as the largest of the 13 rokin (labour bank) operating companies in Japan, providing the rokin-side operating-company anchor parallel to 京都中央信用金庫 (shinkin) and 大阪商銀信用組合 (shinkumi). Read it against 労働金庫連合会 (Rokinren) for the cooperative-system central institution,",
+  "summary": "This entry sits under cooperative-banks INDEX as the largest of the 13 rokin (labour bank) operating companies in Japan, providing the rokin-side operating-company anchor parallel to 京都中央信用金庫 (shinkin) and 大阪商銀信用組合 (shinkumi). Read it against 労働金庫連合会 (Rokinren) for the cooperative-system central ins",
   "headings": [
     "中央労働金庫 (Chuo Rokin / Central Labour Bank)",
     "Wiki route",
@@ -61,9 +61,9 @@
   "body_links": {
     "wikilinks_count": 13,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/cooperative-banking-japan",
       "banking/rokin-bank-registry-japan",
+      "cooperative-banks/INDEX",
       "cooperative-banks/kyoto-chuo-shinkin",
       "cooperative-banks/norinchukin",
       "cooperative-banks/osaka-shinkin",
@@ -76,9 +76,9 @@
       "regional-banks/yokohama-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/cooperative-banking-japan",
       "https://finwiki.zksc.io/banking/rokin-bank-registry-japan",
+      "https://finwiki.zksc.io/cooperative-banks/INDEX",
       "https://finwiki.zksc.io/cooperative-banks/kyoto-chuo-shinkin",
       "https://finwiki.zksc.io/cooperative-banks/norinchukin",
       "https://finwiki.zksc.io/cooperative-banks/osaka-shinkin",
@@ -94,9 +94,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5950,
-    "word_like_tokens": 957,
+    "nonspace_chars": 5990,
+    "word_like_tokens": 961,
     "inbound_wikilinks_count": 1,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

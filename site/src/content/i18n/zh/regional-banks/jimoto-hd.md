@@ -1,5 +1,5 @@
 ---
-source: japanfg/jimoto-hd
+source: regional-banks/jimoto-hd
 source_hash: 1165535985db1bb6
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:59:49.372Z
 
 ## Wiki 路由
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]]。相邻银行业语境见 [[banking/INDEX|banking index]]，更广泛的牌照和制度边界见 [[financial-licenses/INDEX|JapanFG legal / financial licenses index]]。
+本条目位于 [[regional-banks/INDEX|regional-banks INDEX]]。相邻银行业语境见 [[banking/INDEX|banking index]]，更广泛的牌照和制度边界见 [[financial-licenses/INDEX|JapanFG legal / financial licenses index]]。
 
 ## TL;DR
 

@@ -1,5 +1,5 @@
 ---
-source: japanfg/shinsei-financial
+source: consumer-finance/shinsei-financial
 source_hash: 18c762aaf69a3e80
 lang: en
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-01T02:31:57.150Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it with [[card-issuers/aplus|APLUS]] for the adjacent SBI Shinsei consumer-credit lane and [[payments/credit-purchase-card-operators-japan-index|Japan credit purchase and card operator registry index]] for the broader credit / installment boundary.
+This entry sits under [[consumer-finance/INDEX|consumer-finance INDEX]]. Read it with [[card-issuers/aplus|APLUS]] for the adjacent SBI Shinsei consumer-credit lane and [[payments/credit-purchase-card-operators-japan-index|Japan credit purchase and card operator registry index]] for the broader credit / installment boundary.
 
 ## Overview
 

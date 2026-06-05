@@ -1,5 +1,5 @@
 ---
-source: japanfg/intesa-sanpaolo-japan
+source: foreign-financial-institutions/intesa-sanpaolo-japan
 source_hash: b5c741df61a897ee
 lang: zh
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-05-31T15:29:03.946Z
 
 ## 维基路线
 
-该条目位于[[JapanFG/INDEX|JapanFG index]]下。针对同行/对比上下文阅读 [[foreign-financial-institutions/credit-agricole-bank-japan|クレディ・アグリコル銀行 東京支店]]，针对更广泛的系统/监管边界阅读 [[banking/INDEX|banking index]]。
+该条目位于[[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]]下。针对同行/对比上下文阅读 [[foreign-financial-institutions/credit-agricole-bank-japan|クレディ・アグリコル銀行 東京支店]]，针对更广泛的系统/监管边界阅读 [[banking/INDEX|banking index]]。
 
 ## 长话短说
 
@@ -35,7 +35,7 @@ translated_at: 2026-05-31T15:29:03.946Z
 
 联合圣保罗银行的官方新闻编辑室将其东京分公司描述为利用专业知识支持意大利和国际客户在日本开展业务，并帮助日本企业向海外扩张。同一篇文章指出，自1972 以来，联合圣保罗银行及其前身一直在东京开展业务。
 
-该分行最好被理解为企业/贸易/项目融资和意大利商业的桥梁，而不是国内零售银行。为在日本的意大利企业提供融资等公共案例说明了该分行在双边企业走廊中的作用。0 中的意大利 P[[JapanFG/INDEX|JapanFG]]分支插槽与[[foreign-financial-institutions/credit-agricole-bank-japan|Crédit Agricole Tokyo]]覆盖范围中的[[foreign-financial-institutions/commerzbank-japan|Commerzbank Tokyo]]和德国[[banking/INDEX|banking]]等法国同行并列。
+该分行最好被理解为企业/贸易/项目融资和意大利商业的桥梁，而不是国内零售银行。为在日本的意大利企业提供融资等公共案例说明了该分行在双边企业走廊中的作用。0 中的意大利 P[[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]]分支插槽与[[foreign-financial-institutions/credit-agricole-bank-japan|Crédit Agricole Tokyo]]覆盖范围中的[[foreign-financial-institutions/commerzbank-japan|Commerzbank Tokyo]]和德国[[banking/INDEX|banking]]等法国同行并列。
 
 ## 3 。为什么此页面很重要
 

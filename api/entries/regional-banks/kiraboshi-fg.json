@@ -38,7 +38,7 @@
       "東京きらぼし FG 2025-03 期 決算短信 / 公式 IR"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against ふくおか FG (FFG) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under regional-banks INDEX. Read it against ふくおか FG (FFG) for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [
     "東京きらぼし FG (Tokyo Kiraboshi FG)",
     "Wiki route",
@@ -54,7 +54,6 @@
   "body_links": {
     "wikilinks_count": 12,
     "wikilinks": [
-      "JapanFG/INDEX",
       "au-fh",
       "banking/INDEX",
       "fukuoka-fg",
@@ -63,12 +62,12 @@
       "ndfg",
       "paypay-fg",
       "rakuten-fg",
+      "regional-banks/INDEX",
       "regional-banks/fukuoka-fg",
       "resona-hd",
       "smfg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/au-fh",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/fukuoka-fg",
@@ -77,6 +76,7 @@
       "https://finwiki.zksc.io/ndfg",
       "https://finwiki.zksc.io/paypay-fg",
       "https://finwiki.zksc.io/rakuten-fg",
+      "https://finwiki.zksc.io/regional-banks/INDEX",
       "https://finwiki.zksc.io/regional-banks/fukuoka-fg",
       "https://finwiki.zksc.io/resona-hd",
       "https://finwiki.zksc.io/smfg"
@@ -85,9 +85,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4007,
-    "word_like_tokens": 656,
+    "nonspace_chars": 4021,
+    "word_like_tokens": 658,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

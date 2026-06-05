@@ -1,5 +1,5 @@
 ---
-source: japanfg/ja-mitsui-leasing
+source: cooperative-banks/ja-mitsui-leasing
 source_hash: e09268a40e2e4ce5
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:59:49.300Z
 
 ## Wiki Route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[leasing-firms/fuyo-lease|芙蓉総合リース]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary. As a JA / Norinchukin + Mitsui joint vehicle, it should also be read with [[cooperative-banks/norinchukin|農林中央金庫]] for the JA-side context.
+This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]]. Read it against [[leasing-firms/fuyo-lease|芙蓉総合リース]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary. As a JA / Norinchukin + Mitsui joint vehicle, it should also be read with [[cooperative-banks/norinchukin|農林中央金庫]] for the JA-side context.
 
 ## TL;DR
 

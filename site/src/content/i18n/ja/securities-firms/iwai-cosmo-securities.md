@@ -1,5 +1,5 @@
 ---
-source: japanfg/iwai-cosmo-securities
+source: securities-firms/iwai-cosmo-securities
 source_hash: 1e28dc74abc72f93
 lang: ja
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-06-02T14:25:12.415Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] 配下に位置する。親会社持株会社の文脈では [[securities-firms/iwai-cosmo-hd|岩井コスモホールディングス]]、中堅独立証券の比較対象では [[securities-firms/okasan-sg|岡三証券グループ]] / [[securities-firms/tokai-tokyo-fh|東海東京FH]]、市場構造全体の境界では [[securities/INDEX|securities index]] とあわせて読む。
+この項目は [[securities-firms/INDEX|securities-firms INDEX]] 配下に位置する。親会社持株会社の文脈では [[securities-firms/iwai-cosmo-hd|岩井コスモホールディングス]]、中堅独立証券の比較対象では [[securities-firms/okasan-sg|岡三証券グループ]] / [[securities-firms/tokai-tokyo-fh|東海東京FH]]、市場構造全体の境界では [[securities/INDEX|securities index]] とあわせて読む。
 
 ## 要約
 

@@ -34,7 +34,7 @@
       "https://www.sbigroup.co.jp/company/group/shinseifinancial.php"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it with APLUS for the adjacent SBI Shinsei consumer-credit lane and Japan credit purchase and card operator registry index for the broader credit / installment boundary.",
+  "summary": "This entry sits under consumer-finance INDEX. Read it with APLUS for the adjacent SBI Shinsei consumer-credit lane and Japan credit purchase and card operator registry index for the broader credit / installment boundary.",
   "headings": [
     "新生フィナンシャル",
     "Wiki route",
@@ -48,8 +48,8 @@
   "body_links": {
     "wikilinks_count": 8,
     "wikilinks": [
-      "JapanFG/INDEX",
       "card-issuers/aplus",
+      "consumer-finance/INDEX",
       "consumer-finance/acom",
       "consumer-finance/shinsei-financial",
       "consumer-finance/smbc-consumer-finance",
@@ -58,8 +58,8 @@
       "regional-banks/sbi-shinsei-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/card-issuers/aplus",
+      "https://finwiki.zksc.io/consumer-finance/INDEX",
       "https://finwiki.zksc.io/consumer-finance/acom",
       "https://finwiki.zksc.io/consumer-finance/shinsei-financial",
       "https://finwiki.zksc.io/consumer-finance/smbc-consumer-finance",
@@ -71,9 +71,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2982,
-    "word_like_tokens": 457,
+    "nonspace_chars": 3000,
+    "word_like_tokens": 459,
     "inbound_wikilinks_count": 7,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

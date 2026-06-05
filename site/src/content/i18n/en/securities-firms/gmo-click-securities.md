@@ -1,5 +1,5 @@
 ---
-source: japanfg/gmo-click-securities
+source: securities-firms/gmo-click-securities
 source_hash: fd0d651a986375ed
 lang: en
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-05-31T15:29:03.964Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[securities-firms/dmm-com-securities|DMM.com証券]] for peer / contrast context and [[securities/INDEX|securities index]] for the broader system / regulatory boundary.
+This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it against [[securities-firms/dmm-com-securities|DMM.com証券]] for peer / contrast context and [[securities/INDEX|securities index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 

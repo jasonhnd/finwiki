@@ -1,5 +1,5 @@
 ---
-source: japanfg/ing-bank-japan
+source: foreign-financial-institutions/ing-bank-japan
 source_hash: 28e10448dab56308
 lang: en
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-05-31T15:29:03.925Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[foreign-financial-institutions/credit-agricole-bank-japan|Credit Agricole Bank Tokyo Branch]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]]. Read it against [[foreign-financial-institutions/credit-agricole-bank-japan|Credit Agricole Bank Tokyo Branch]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 

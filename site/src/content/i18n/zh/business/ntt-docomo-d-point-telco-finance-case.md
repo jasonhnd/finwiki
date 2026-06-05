@@ -12,7 +12,7 @@ translated_at: 2026-05-30T16:08:36.702Z
 
 ## Wiki route
 
-本条目归于 [[business/INDEX|business INDEX]] 之下,作为上市公司战略案例。请将其与 [[business/rakuten-group-mobile-finance-bundling-case|Rakuten Group mobile-finance bundling case]] 作为反向交叉补贴模式(金融补贴移动 vs 电信补贴金融)、与 [[business/gmo-internet-group|GMO Internet Group]] 作为互联网到金融集团对照,以及 [[megabanks/paypay-fg|PayPay FG]] 作为 SoftBank 侧平行案例一并阅读。配合 [[JapanFG/INDEX|JapanFG INDEX]] 与 [[payments/cashless-jp-landscape|payments INDEX]]。
+本条目归于 [[business/INDEX|business INDEX]] 之下,作为上市公司战略案例。请将其与 [[business/rakuten-group-mobile-finance-bundling-case|Rakuten Group mobile-finance bundling case]] 作为反向交叉补贴模式(金融补贴移动 vs 电信补贴金融)、与 [[business/gmo-internet-group|GMO Internet Group]] 作为互联网到金融集团对照,以及 [[megabanks/paypay-fg|PayPay FG]] 作为 SoftBank 侧平行案例一并阅读。配合 [[business/INDEX|business INDEX]] 与 [[payments/cashless-jp-landscape|payments INDEX]]。
 
 ## TL;DR
 

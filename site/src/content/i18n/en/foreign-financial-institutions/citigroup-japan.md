@@ -1,5 +1,5 @@
 ---
-source: japanfg/citigroup-japan
+source: foreign-financial-institutions/citigroup-japan
 source_hash: 4ee1bbedfa56053a
 lang: en
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T11:13:44.933Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[foreign-financial-institutions/hsbc-japan|HSBC ジャパン (HSBC Japan)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]]. Read it against [[foreign-financial-institutions/hsbc-japan|HSBC ジャパン (HSBC Japan)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## 1. Company Profile
 

@@ -38,7 +38,7 @@
       "https://news.nab.com.au/news/nab-receives-approval-for-japanese-securities-registration/"
     ]
   },
-  "summary": "National Australia Bank Japan sits under JapanFG index and is an Australia-Japan wholesale bank route in the foreign-bank branch registry. Read it with Commonwealth Bank Japan, ANZ Bank Japan, foreign financial group adjacent licenses, and FIEA operator registry.",
+  "summary": "National Australia Bank Japan sits under foreign-financial-institutions INDEX and is an Australia-Japan wholesale bank route in the foreign-bank branch registry. Read it with Commonwealth Bank Japan, ANZ Bank Japan, foreign financial group adjacent licenses, and FIEA operator registry.",
   "headings": [
     "ナショナルオーストラリア銀行日本 (National Australia Bank Japan)",
     "Wiki route",
@@ -54,10 +54,10 @@
     "wikilinks_count": 9,
     "wikilinks": [
       "INDEX",
-      "JapanFG/INDEX",
       "finance/cross-border-m-a-japan",
       "financial-licenses/foreign-bank-branch-license-route",
       "financial-licenses/foreign-financial-group-adjacent-licenses",
+      "foreign-financial-institutions/INDEX",
       "foreign-financial-institutions/commonwealth-bank-japan",
       "foreign-financial-institutions/foreign-bank-branches-japan-index",
       "securities-firms/anz-bank-japan",
@@ -65,10 +65,10 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/finance/cross-border-m-a-japan",
       "https://finwiki.zksc.io/financial-licenses/foreign-bank-branch-license-route",
       "https://finwiki.zksc.io/financial-licenses/foreign-financial-group-adjacent-licenses",
+      "https://finwiki.zksc.io/foreign-financial-institutions/INDEX",
       "https://finwiki.zksc.io/foreign-financial-institutions/commonwealth-bank-japan",
       "https://finwiki.zksc.io/foreign-financial-institutions/foreign-bank-branches-japan-index",
       "https://finwiki.zksc.io/securities-firms/anz-bank-japan",
@@ -78,9 +78,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4568,
-    "word_like_tokens": 687,
+    "nonspace_chars": 4637,
+    "word_like_tokens": 693,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

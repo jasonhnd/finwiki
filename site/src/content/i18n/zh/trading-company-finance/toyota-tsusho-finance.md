@@ -1,5 +1,5 @@
 ---
-source: japanfg/toyota-tsusho-finance
+source: trading-company-finance/toyota-tsusho-finance
 source_hash: b38a8fec431de266
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-01T02:31:57.155Z
 
 ## Wiki route
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可与 [[leasing-firms/toyota-financial|トヨタファイナンシャルサービス (TFS)]]（Toyota group 的 **captive auto-finance** 控股，与本页商社系 internal-treasury arm 不同）和 [[card-issuers/toyota-finance|トヨタファイナンス]]（auto-loan / Toyota dealer finance 运营公司）对照阅读。商社系 group-treasury arms 的 peer 参见 [[trading-company-finance/mitsubishi-corp-finance|三菱商事FS]]、[[trading-company-finance/mitsui-bussan-financial-services|三井物産FS]]、[[trading-company-finance/sumitomo-corp-financial-management|住友商事FM]]、[[trading-company-finance/itochu-finance|伊藤忠ファイナンス]]、[[trading-company-finance/marubeni-financial-services|丸紅フィナンス]]。更广义的监管边界见 [[banking/INDEX|banking index]]。
+本条目位于 [[trading-company-finance/INDEX|trading-company-finance INDEX]] 之下。可与 [[leasing-firms/toyota-financial|トヨタファイナンシャルサービス (TFS)]]（Toyota group 的 **captive auto-finance** 控股，与本页商社系 internal-treasury arm 不同）和 [[card-issuers/toyota-finance|トヨタファイナンス]]（auto-loan / Toyota dealer finance 运营公司）对照阅读。商社系 group-treasury arms 的 peer 参见 [[trading-company-finance/mitsubishi-corp-finance|三菱商事FS]]、[[trading-company-finance/mitsui-bussan-financial-services|三井物産FS]]、[[trading-company-finance/sumitomo-corp-financial-management|住友商事FM]]、[[trading-company-finance/itochu-finance|伊藤忠ファイナンス]]、[[trading-company-finance/marubeni-financial-services|丸紅フィナンス]]。更广义的监管边界见 [[banking/INDEX|banking index]]。
 
 ## 1. 公司概要
 

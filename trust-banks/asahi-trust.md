@@ -17,7 +17,7 @@ sources:
 
 # Asahi Trust / 朝日信託
 
-Wiki route: [[JapanFG/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/asahi-trust]]
+Wiki route: [[trust-banks/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/asahi-trust]]
 
 ## Overview
 

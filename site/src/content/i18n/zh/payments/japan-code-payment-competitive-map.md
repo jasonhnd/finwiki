@@ -13,7 +13,7 @@ translated_at: 2026-06-01T03:31:12.270Z
 
 日本码支付市场可被记录为钱包生态、商户受理网络、积分预算以及结算 / 资金转移能力之间的竞争。METI 的 2025  无现金支付发布显示，无现金比率为 **58.0%**，并将码支付识别为**无现金支付金额的 10.2%，即 16.6  万亿日元**；无现金推进协会则发布码支付趋势调查，覆盖店铺金额 / 件数、汇款、充值余额和 MAU。
 
-本页将码支付分析归入 [[payments/INDEX|支付领域]]，并把 [[JapanFG/INDEX|JapanFG]] 中的消费者钱包运营商与 [[payment-firms/netstars|Netstars]]、[[payments/psp-merchant-settlement-risk|商户结算风险]] 等 PSP / 网关基础设施连接起来。
+本页将码支付分析归入 [[payments/INDEX|支付领域]]，并把 [[payments/INDEX|payments INDEX]] 中的消费者钱包运营商与 [[payment-firms/netstars|Netstars]]、[[payments/psp-merchant-settlement-risk|商户结算风险]] 等 PSP / 网关基础设施连接起来。
 
 ## 竞争路线
 

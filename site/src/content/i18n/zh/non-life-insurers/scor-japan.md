@@ -1,5 +1,5 @@
 ---
-source: japanfg/scor-japan
+source: non-life-insurers/scor-japan
 source_hash: e05faaad2865da62
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T00:41:50.479Z
 
 ## Wiki 路线
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可与同为“欧洲第三层级”再保险公司的 [[non-life-insurers/hannover-re-japan|ハノーバー再保険日本支店]] 对照阅读，并与“Big 2”同业 [[non-life-insurers/munich-re-japan|ミュンヘン再保険日本支店]] 和 [[non-life-insurers/swiss-re-japan|スイス再保険日本支店]] 比较。系统锚点是 [[insurance/natcat-reinsurance-japan|nat-cat reinsurance Japan]]，国内对照为 [[non-life-insurers/toa-reinsurance|トーア再保険]]。
+本条目位于 [[non-life-insurers/INDEX|non-life-insurers INDEX]] 之下。可与同为“欧洲第三层级”再保险公司的 [[non-life-insurers/hannover-re-japan|ハノーバー再保険日本支店]] 对照阅读，并与“Big 2”同业 [[non-life-insurers/munich-re-japan|ミュンヘン再保険日本支店]] 和 [[non-life-insurers/swiss-re-japan|スイス再保険日本支店]] 比较。系统锚点是 [[insurance/natcat-reinsurance-japan|nat-cat reinsurance Japan]]，国内对照为 [[non-life-insurers/toa-reinsurance|トーア再保険]]。
 
 ## TL;DR
 
@@ -43,7 +43,7 @@ translated_at: 2026-06-01T00:41:50.479Z
 
 ## Related
 
-- [[JapanFG/INDEX]]
+- [[non-life-insurers/INDEX]]
 - [[munich-re-japan]]
 - [[swiss-re-japan]]
 - [[hannover-re-japan]]

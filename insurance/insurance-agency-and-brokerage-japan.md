@@ -71,7 +71,7 @@ Several FinWiki domains now touch insurance distribution:
 - [[payments/INDEX|payments]]: wallet / card / app ecosystems can cross-sell insurance or run embedded product flows.
 - [[retail/INDEX|retail]]: retail groups can be distribution platforms.
 - [[fintech/INDEX|fintech]]: comparison, embedded finance, and data-driven customer journeys can blur regulated roles.
-- [[JapanFG/INDEX|JapanFG]]: insurer entity pages stay in JapanFG; distribution-model pages stay here.
+- [[insurance/INDEX|insurance INDEX]]: insurer entity pages stay in JapanFG; distribution-model pages stay here.
 
 Wiki entries record the legal-stack boundary where public. A product card on a bank or app page can name the insurer and the publicly disclosed distributor, agent, broker, intermediary, or referral route.
 

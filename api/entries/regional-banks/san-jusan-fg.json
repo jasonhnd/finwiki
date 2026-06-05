@@ -32,7 +32,7 @@
       "Wikipedia: 三十三銀行 (2026-05-19 抽出)"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against ふくおか FG (FFG) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under regional-banks INDEX. Read it against ふくおか FG (FFG) for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [
     "三十三 FG (San ju San Financial Group)",
     "Wiki route",
@@ -48,28 +48,28 @@
   "body_links": {
     "wikilinks_count": 6,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "hyakugo-bank",
       "juroku-fg",
       "mufg",
+      "regional-banks/INDEX",
       "regional-banks/fukuoka-fg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/hyakugo-bank",
       "https://finwiki.zksc.io/juroku-fg",
       "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/regional-banks/INDEX",
       "https://finwiki.zksc.io/regional-banks/fukuoka-fg"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2543,
-    "word_like_tokens": 423,
+    "nonspace_chars": 2557,
+    "word_like_tokens": 425,
     "inbound_wikilinks_count": 0,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

@@ -1,5 +1,5 @@
 ---
-source: japanfg/ssjbank
+source: regional-banks/ssjbank
 source_hash: c65a6ebb77a52cbb
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.175Z
 
 ## Wiki 路径
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可与 [[megabanks/mufg|三菱 UFJ FG (MUFG)]] 对照阅读以理解同业 / 对比语境，并参考 [[banking/INDEX|banking index]] 把握更广泛的系统与监管边界。
+本条目位于 [[regional-banks/INDEX|regional-banks INDEX]] 之下。可与 [[megabanks/mufg|三菱 UFJ FG (MUFG)]] 对照阅读以理解同业 / 对比语境，并参考 [[banking/INDEX|banking index]] 把握更广泛的系统与监管边界。
 
 ## TL;DR
 
@@ -35,7 +35,7 @@ translated_at: 2026-06-01T02:31:57.175Z
 
 - [[regional-banks/77-bank|七十七銀行]]
 - [[regional-banks/proclair-hd|proclair-hd]]
-- [[JapanFG/INDEX|JapanFG INDEX]]
+- [[regional-banks/INDEX|regional-banks INDEX]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

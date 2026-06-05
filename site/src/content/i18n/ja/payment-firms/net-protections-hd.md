@@ -1,5 +1,5 @@
 ---
-source: japanfg/net-protections-hd
+source: payment-firms/net-protections-hd
 source_hash: 2239116bdb84d047
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:54:39.101Z
 
 ## ウィキ上の位置づけ
 
-この項目は、純粋な **BNPL 事業者**として [[JapanFG/INDEX|JapanFG index]] 配下に置く。制度メモの [[payment-firms/bnpl-landscape|Japan BNPL landscape]] と比較対象の [[payment-firms/paidy|Paidy]] を併せて読み、規制の見方は [[payments/japan-bnpl-credit-purchase-boundary|Japan BNPL and credit-purchase boundary]]、METI 登録の流れは [[payments/credit-purchase-card-operators-japan-index|credit-purchase / card operator registry]] で確認する。
+この項目は、純粋な **BNPL 事業者**として [[payment-firms/INDEX|payment-firms INDEX]] 配下に置く。制度メモの [[payment-firms/bnpl-landscape|Japan BNPL landscape]] と比較対象の [[payment-firms/paidy|Paidy]] を併せて読み、規制の見方は [[payments/japan-bnpl-credit-purchase-boundary|Japan BNPL and credit-purchase boundary]]、METI 登録の流れは [[payments/credit-purchase-card-operators-japan-index|credit-purchase / card operator registry]] で確認する。
 
 ## 要約
 

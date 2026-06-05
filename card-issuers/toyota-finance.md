@@ -19,7 +19,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[leasing-firms/toyota-financial|Toyota Financial Services]] for parent / operating-company separation and [[payments/credit-purchase-card-operators-japan-index|Japan credit purchase and card operator registry index]] for the installment-credit and card boundary.
+This entry sits under [[card-issuers/INDEX|card-issuers INDEX]]. Read it against [[leasing-firms/toyota-financial|Toyota Financial Services]] for parent / operating-company separation and [[payments/credit-purchase-card-operators-japan-index|Japan credit purchase and card operator registry index]] for the installment-credit and card boundary.
 
 ## Overview
 

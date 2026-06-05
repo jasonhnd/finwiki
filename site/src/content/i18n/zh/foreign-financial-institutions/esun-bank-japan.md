@@ -1,5 +1,5 @@
 ---
-source: japanfg/esun-bank-japan
+source: foreign-financial-institutions/esun-bank-japan
 source_hash: 361227b6de013702
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T15:29:03.929Z
 
 ## Wiki 路径
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可与 [[foreign-financial-institutions/mega-icbc-japan|Mega International Commercial Bank Tokyo Branch]] 对照阅读，以理解同业与跨境走廊背景；也可结合 [[banking/INDEX|banking index]] 把握更广泛的日本银行体系边界。
+本条目位于 [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]] 之下。可与 [[foreign-financial-institutions/mega-icbc-japan|Mega International Commercial Bank Tokyo Branch]] 对照阅读，以理解同业与跨境走廊背景；也可结合 [[banking/INDEX|banking index]] 把握更广泛的日本银行体系边界。
 
 ## TL;DR
 

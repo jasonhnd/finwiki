@@ -1,5 +1,5 @@
 ---
-source: japanfg/mitsubishi-corp-asset-management
+source: asset-managers/mitsubishi-corp-asset-management
 source_hash: a3860ef0fcf61002
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:59:49.314Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[asset-managers/asset-management-one|Asset Management One]] (the [[megabanks/mizuho-fg|Mizuho FG]] + [[life-insurers/dai-ichi-life|Dai-ichi Life]] JV AM, peer banking-system AM) and [[asset-managers/mufg-asset-management|Mitsubishi UFJ Asset Management]] (the [[megabanks/mufg|MUFG]] group AM). For the same-parent group-treasury arm, see [[trading-company-finance/mitsubishi-corp-finance|Mitsubishi Corporation FS]]. For the broader trading-company financial peer set: [[trading-company-finance/mitsui-bussan-financial-services|Mitsui Bussan Financial Services]] / [[trading-company-finance/sumitomo-corp-financial-management|Sumitomo Corporation Financial Management]] / [[trading-company-finance/itochu-finance|Itochu Finance]] / [[trading-company-finance/marubeni-financial-services|Marubeni Financial Services]] / [[trading-company-finance/toyota-tsusho-finance|Toyota Tsusho Finance]] / [[trading-company-finance/sojitz-finance|Sojitz Finance]]. See [[securities/INDEX|securities index]] for the FIEA / investment-management-business boundary.
+This entry sits under [[asset-managers/INDEX|asset-managers INDEX]]. Read it against [[asset-managers/asset-management-one|Asset Management One]] (the [[megabanks/mizuho-fg|Mizuho FG]] + [[life-insurers/dai-ichi-life|Dai-ichi Life]] JV AM, peer banking-system AM) and [[asset-managers/mufg-asset-management|Mitsubishi UFJ Asset Management]] (the [[megabanks/mufg|MUFG]] group AM). For the same-parent group-treasury arm, see [[trading-company-finance/mitsubishi-corp-finance|Mitsubishi Corporation FS]]. For the broader trading-company financial peer set: [[trading-company-finance/mitsui-bussan-financial-services|Mitsui Bussan Financial Services]] / [[trading-company-finance/sumitomo-corp-financial-management|Sumitomo Corporation Financial Management]] / [[trading-company-finance/itochu-finance|Itochu Finance]] / [[trading-company-finance/marubeni-financial-services|Marubeni Financial Services]] / [[trading-company-finance/toyota-tsusho-finance|Toyota Tsusho Finance]] / [[trading-company-finance/sojitz-finance|Sojitz Finance]]. See [[securities/INDEX|securities index]] for the FIEA / investment-management-business boundary.
 
 ## 1. Company overview
 

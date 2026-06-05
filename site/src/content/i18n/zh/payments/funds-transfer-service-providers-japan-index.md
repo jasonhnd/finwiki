@@ -14,7 +14,7 @@ translated_at: 2026-06-01T03:31:12.281Z
 
 FSA 的资金转账服务提供商列表包含截至 2026-04-30** 的 **83  注册运营商。该页面是[[payments/funds-transfer-vs-prepaid-boundary|funds-transfer vs prepaid]]分析的注册表控制路径；它不会重现所有行级注册表数据。
 
-当需要将 [[JapanFG/INDEX|JapanFG]] 下的公司页面读取为汇款运营商、钱包运营商、汇款提供商、具有转账功能的 PSP 或稳定币相关结算公司时，请使用此页面。官方 FSA PDF 仍然是注册号、日期、地址和服务类型列的真实来源。
+当需要将 [[payments/INDEX|payments INDEX]] 下的公司页面读取为汇款运营商、钱包运营商、汇款提供商、具有转账功能的 PSP 或稳定币相关结算公司时，请使用此页面。官方 FSA PDF 仍然是注册号、日期、地址和服务类型列的真实来源。
 
 ## 注册表快照
 

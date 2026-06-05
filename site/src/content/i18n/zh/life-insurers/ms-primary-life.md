@@ -1,5 +1,5 @@
 ---
-source: japanfg/ms-primary-life
+source: life-insurers/ms-primary-life
 source_hash: 575b63ddb7c28d1f
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:59:49.333Z
 
 ## Wiki 路径
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可与 [[life-insurers/dai-ichi-frontier-life|第一フロンティア生命保険]] 对照阅读，以理解同业 / 反差语境；也可与 [[insurance/INDEX|insurance index]] 一起阅读，以理解更大的系统 / 监管边界。
+本条目位于 [[life-insurers/INDEX|life-insurers INDEX]] 之下。可与 [[life-insurers/dai-ichi-frontier-life|第一フロンティア生命保険]] 对照阅读，以理解同业 / 反差语境；也可与 [[insurance/INDEX|insurance index]] 一起阅读，以理解更大的系统 / 监管边界。
 
 ## TL;DR
 

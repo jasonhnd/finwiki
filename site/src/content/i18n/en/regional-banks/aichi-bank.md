@@ -1,5 +1,5 @@
 ---
-source: japanfg/aichi-bank
+source: regional-banks/aichi-bank
 source_hash: bc062171d69014cd
 lang: en
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T11:13:44.951Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[regional-banks/nagoya-bank|名古屋銀行]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it against [[regional-banks/nagoya-bank|名古屋銀行]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 

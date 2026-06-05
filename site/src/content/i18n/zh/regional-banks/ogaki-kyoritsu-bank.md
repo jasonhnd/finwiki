@@ -1,5 +1,5 @@
 ---
-source: japanfg/ogaki-kyoritsu-bank
+source: regional-banks/ogaki-kyoritsu-bank
 source_hash: fac55df416c5df6d
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T00:41:50.451Z
 
 ## Wiki 路径
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可与 [[regional-banks/fukuoka-fg|ふくおか FG (FFG)]] 对照阅读，用于同业 / 对比语境；也可与 [[banking/INDEX|banking index]] 一并理解更广义的系统 / 监管边界。
+本条目位于 [[regional-banks/INDEX|regional-banks INDEX]] 之下。可与 [[regional-banks/fukuoka-fg|ふくおか FG (FFG)]] 对照阅读，用于同业 / 对比语境；也可与 [[banking/INDEX|banking index]] 一并理解更广义的系统 / 监管边界。
 
 ## TL;DR
 

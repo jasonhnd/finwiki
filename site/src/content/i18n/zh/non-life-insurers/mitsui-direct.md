@@ -1,5 +1,5 @@
 ---
-source: japanfg/mitsui-direct
+source: non-life-insurers/mitsui-direct
 source_hash: 9074a3f783fdf823
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:05:42.104Z
 
 ## Wiki route
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 下。可与 [[non-life-insurers/aioi-nissay-dowa-insurance|あいおいニッセイ同和損害保険]] 对照阅读，以理解同业和差异；更广泛的制度和监管边界见 [[insurance/INDEX|insurance index]]。
+本条目位于 [[non-life-insurers/INDEX|non-life-insurers INDEX]] 下。可与 [[non-life-insurers/aioi-nissay-dowa-insurance|あいおいニッセイ同和損害保険]] 对照阅读，以理解同业和差异；更广泛的制度和监管边界见 [[insurance/INDEX|insurance index]]。
 
 ## TL;DR
 

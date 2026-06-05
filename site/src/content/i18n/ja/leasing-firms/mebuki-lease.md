@@ -1,5 +1,5 @@
 ---
-source: japanfg/mebuki-lease
+source: leasing-firms/mebuki-lease
 source_hash: 79973862e4aebd5b
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:54:39.093Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の下で、[[mebuki-fg|めぶき FG]] に関するFG子会社リース運営会社の基点として置く。親会社側の運営銀行 [[joyo-bank|常陽銀行]] / [[ashikaga-bank|足利銀行]]、および兄弟子会社 [[mebuki-securities|めぶき証券]] と照合して読む。比較対象は [[hokkaido-lease|北海道リース]]（北洋・北海道銀行系）と大手リース会社 [[mitsubishi-hc-capital|三菱 HC キャピタル]] / [[mizuho-lease|みずほリース]]。より広い制度ルートは [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]] と [[banking/INDEX|banking index]]。
+この項目は [[leasing-firms/INDEX|leasing-firms INDEX]] の下で、[[mebuki-fg|めぶき FG]] に関するFG子会社リース運営会社の基点として置く。親会社側の運営銀行 [[joyo-bank|常陽銀行]] / [[ashikaga-bank|足利銀行]]、および兄弟子会社 [[mebuki-securities|めぶき証券]] と照合して読む。比較対象は [[hokkaido-lease|北海道リース]]（北洋・北海道銀行系）と大手リース会社 [[mitsubishi-hc-capital|三菱 HC キャピタル]] / [[mizuho-lease|みずほリース]]。より広い制度ルートは [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]] と [[banking/INDEX|banking index]]。
 
 ## 要約
 
@@ -120,7 +120,7 @@ translated_at: 2026-06-02T14:54:39.093Z
 - [[mitsubishi-hc-capital]] · [[smfl]] · [[mizuho-lease]] · [[fuyo-lease]] · [[tokyo-century]] · [[ricoh-leasing]] · [[hokkaido-lease]]
 - [[ja-mitsui-leasing]] · [[nec-leasing]] · [[showa-leasing]]
 - [[banking/regional-bank-consolidation-pattern]] · [[banking/INDEX]]
-- [[JapanFG/INDEX|JapanFG index]]
+- [[leasing-firms/INDEX|leasing-firms INDEX]]
 
 ## 出典
 

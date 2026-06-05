@@ -25,7 +25,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[business/INDEX|business INDEX]] as a public-company strategic case. Read it against [[business/rakuten-group-mobile-finance-bundling-case|Rakuten Group mobile-finance bundling case]] for the inverse-direction cross-subsidy pattern (finance subsidizes mobile vs telco subsidizes finance), [[business/gmo-internet-group|GMO Internet Group]] for an internet-to-finance conglomerate contrast, and [[megabanks/paypay-fg|PayPay FG]] for the SoftBank-side parallel. Pair with [[JapanFG/INDEX|JapanFG INDEX]] and [[payments/cashless-jp-landscape|payments INDEX]].
+This entry sits under [[business/INDEX|business INDEX]] as a public-company strategic case. Read it against [[business/rakuten-group-mobile-finance-bundling-case|Rakuten Group mobile-finance bundling case]] for the inverse-direction cross-subsidy pattern (finance subsidizes mobile vs telco subsidizes finance), [[business/gmo-internet-group|GMO Internet Group]] for an internet-to-finance conglomerate contrast, and [[megabanks/paypay-fg|PayPay FG]] for the SoftBank-side parallel. Pair with [[business/INDEX|business INDEX]] and [[payments/cashless-jp-landscape|payments INDEX]].
 
 ## TL;DR
 

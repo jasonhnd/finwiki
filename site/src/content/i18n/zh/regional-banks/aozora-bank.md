@@ -1,5 +1,5 @@
 ---
-source: japanfg/aozora-bank
+source: regional-banks/aozora-bank
 source_hash: 9086c349b6dc429b
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T11:13:44.867Z
 
 ## Wiki 路由
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]]。建议与 [[regional-banks/sbi-shinsei-bank|SBI 新生银行]] 对照阅读，以理解同类“公的资金处置后再生”的中型银行路径；并与 [[banking/INDEX|banking index]] 一起阅读，以把握更广义的银行体系与监管边界。
+本条目位于 [[regional-banks/INDEX|regional-banks INDEX]]。建议与 [[regional-banks/sbi-shinsei-bank|SBI 新生银行]] 对照阅读，以理解同类“公的资金处置后再生”的中型银行路径；并与 [[banking/INDEX|banking index]] 一起阅读，以把握更广义的银行体系与监管边界。
 
 ## TL;DR
 

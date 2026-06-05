@@ -29,7 +29,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[life-insurers/axa-japan|アクサ・ジャパン (AXA Japan)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read it against [[life-insurers/axa-japan|アクサ・ジャパン (AXA Japan)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## 1. グループ構造
 

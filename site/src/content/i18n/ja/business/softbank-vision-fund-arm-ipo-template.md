@@ -12,7 +12,7 @@ translated_at: 2026-06-02T11:47:37.296Z
 
 ## ウィキ上の位置づけ
 
-本項目は [[business/INDEX|business INDEX]] の下に、人材・ポートフォリオのクラスターにおける上場企業の戦略ケースとして位置する。ポートフォリオ企業の上場に関するピア / 対比の文脈については [[business/brian-armstrong-coinbase-public-company-template|Brian Armstrong Coinbase exchange-as-public-company template]]、対照的な日本のFG独立ルートのケースについては [[business/kitao-yoshitaka-sbi-independent-strategy-case|Kitao Yoshitaka SBI independent strategy]]、より広い資本市場の文脈については [[finance/INDEX|finance INDEX]] と照らし合わせて読まれたい。ビジョン・ファンドの構造上の親会社については [[JapanFG/INDEX|JapanFG INDEX]] を参照。
+本項目は [[business/INDEX|business INDEX]] の下に、人材・ポートフォリオのクラスターにおける上場企業の戦略ケースとして位置する。ポートフォリオ企業の上場に関するピア / 対比の文脈については [[business/brian-armstrong-coinbase-public-company-template|Brian Armstrong Coinbase exchange-as-public-company template]]、対照的な日本のFG独立ルートのケースについては [[business/kitao-yoshitaka-sbi-independent-strategy-case|Kitao Yoshitaka SBI independent strategy]]、より広い資本市場の文脈については [[finance/INDEX|finance INDEX]] と照らし合わせて読まれたい。ビジョン・ファンドの構造上の親会社については [[business/INDEX|business INDEX]] を参照。
 
 ## 要約
 

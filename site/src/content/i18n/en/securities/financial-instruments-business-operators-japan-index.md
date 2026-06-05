@@ -23,7 +23,7 @@ Use this page to separate brokerage, Type I / Type II FIBO, investment advisory,
 | Financial instruments business operators | Full population controlled by FSA `kinyushohin.xlsx`; summarized here by category and jurisdiction. |
 | Securities company / online broker | Standalone page when market share, group strategy, or retail distribution matters. |
 | Asset manager | Standalone page when AUM, group strategy, ETF / fund platform, or public market relevance matters. |
-| PTS / market infrastructure | Standalone pages under [[securities/INDEX]] or [[JapanFG/INDEX]] where relevant. |
+| PTS / market infrastructure | Standalone pages under [[securities/INDEX]] or [[securities/INDEX]] where relevant. |
 | Long-tail advisers / Type II operators | Registry-only unless strategic. |
 
 ## Registry Snapshot
@@ -89,7 +89,6 @@ Promote an operator from registry-only to standalone page only if it is:
 ## Related
 
 - [[securities/INDEX]]
-- [[JapanFG/INDEX]]
 - [[financial-licenses/INDEX]]
 - [[financial-regulators/missing-financial-institutions-backlog]]
 - [[securities/japan-securities-clearing-corp]]

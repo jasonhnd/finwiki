@@ -1,5 +1,5 @@
 ---
-source: japanfg/jf-shingyoren
+source: cooperative-banks/jf-shingyoren
 source_hash: ae34d9785a9b9663
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:59:49.304Z
 
 ## Wiki 路线
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下，是 [[banking/jf-marine-bank-system-japan|JF Marine Bank system]] 的**都道府县信用联合会层**，位于地方 JF（71 fishery cooperatives）与全国中央机构 [[cooperative-banks/norinchukin|農林中央金庫]] 之间。可与 [[cooperative-banks/ja-shinnoren|JA 信連]] 一并阅读以理解农业侧对应机构，与 [[cooperative-banks/jf-zengyoren|JF 全漁連]] 一并阅读以理解代表 / 经济事业联合会，并参照 [[banking/cooperative-banking-japan|cooperative banking domain]] 理解更广泛背景。
+本条目位于 [[cooperative-banks/INDEX|cooperative-banks INDEX]] 之下，是 [[banking/jf-marine-bank-system-japan|JF Marine Bank system]] 的**都道府县信用联合会层**，位于地方 JF（71 fishery cooperatives）与全国中央机构 [[cooperative-banks/norinchukin|農林中央金庫]] 之间。可与 [[cooperative-banks/ja-shinnoren|JA 信連]] 一并阅读以理解农业侧对应机构，与 [[cooperative-banks/jf-zengyoren|JF 全漁連]] 一并阅读以理解代表 / 经济事业联合会，并参照 [[banking/cooperative-banking-japan|cooperative banking domain]] 理解更广泛背景。
 
 ## TL;DR
 
@@ -110,7 +110,7 @@ JF Marine Bank system（3  层结构）
 - [[banking/jf-marine-bank-system-japan]] — JF Marine Bank system boundary
 - [[banking/ja-bank-system-japan]] — JA Bank system（peer system）
 - [[banking/cooperative-banking-japan]] — 协同组织金融整体
-- [[JapanFG/INDEX|JapanFG index]]
+- [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 
 ## Sources
 

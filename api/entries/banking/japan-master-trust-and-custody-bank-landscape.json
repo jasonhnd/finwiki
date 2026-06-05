@@ -56,10 +56,9 @@
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 12,
+    "wikilinks_count": 11,
     "wikilinks": [
       "INDEX",
-      "JapanFG/INDEX",
       "banking/INDEX",
       "banking/japan-trust-bank-custody-map",
       "fintech/INDEX",
@@ -73,7 +72,6 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/japan-trust-bank-custody-map",
       "https://finwiki.zksc.io/fintech/INDEX",
@@ -89,9 +87,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5619,
-    "word_like_tokens": 837,
+    "nonspace_chars": 5613,
+    "word_like_tokens": 836,
     "inbound_wikilinks_count": 22,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

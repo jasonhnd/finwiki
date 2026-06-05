@@ -1,5 +1,5 @@
 ---
-source: japanfg/ey-shinnihon
+source: financial-regulators/ey-shinnihon
 source_hash: 9af619ab9cf1a564
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T15:29:03.950Z
 
 ## Wiki route
 
-该条目位于 [[JapanFG/INDEX|JapanFG index]] 下。请与 [[financial-regulators/deloitte-touche-tohmatsu|有限責任監査法人トーマツ (Deloitte)]] 和 [[financial-regulators/kpmg-azsa|あずさ監査法人 (KPMG)]] 一起阅读，以了解同行大 4  审计上下文，并与 [[financial-licenses/INDEX|金融ライセンス INDEX]] 一起阅读，以了解《注册会计师法》/审计质量控制的监管边界。对于 CPAAOB 检查系统的审计师披露和列表披露，请一起阅读 [[financial-regulators/fsa-supervision-bureau|金融庁 監督局]] 和 [[financial-regulators/fsa-strategy-bureau|金融庁 総合政策局]] 的司法管辖区背景。
+该条目位于 [[financial-regulators/INDEX|financial-regulators INDEX]] 下。请与 [[financial-regulators/deloitte-touche-tohmatsu|有限責任監査法人トーマツ (Deloitte)]] 和 [[financial-regulators/kpmg-azsa|あずさ監査法人 (KPMG)]] 一起阅读，以了解同行大 4  审计上下文，并与 [[financial-licenses/INDEX|金融ライセンス INDEX]] 一起阅读，以了解《注册会计师法》/审计质量控制的监管边界。对于 CPAAOB 检查系统的审计师披露和列表披露，请一起阅读 [[financial-regulators/fsa-supervision-bureau|金融庁 監督局]] 和 [[financial-regulators/fsa-strategy-bureau|金融庁 総合政策局]] 的司法管辖区背景。
 
 ## 1.公司概况
 

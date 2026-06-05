@@ -1,5 +1,5 @@
 ---
-source: japanfg/airwallex-japan
+source: payment-firms/airwallex-japan
 source_hash: 473e9407c4849a17
 lang: en
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-05-31T07:28:06.131Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[payment-firms/wise-payments-japan|Wise Payments Japan]] for peer / contrast context and [[payments/INDEX|payments index]] for the broader system / regulatory boundary.
+This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it against [[payment-firms/wise-payments-japan|Wise Payments Japan]] for peer / contrast context and [[payments/INDEX|payments index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 

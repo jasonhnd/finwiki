@@ -1,5 +1,5 @@
 ---
-source: japanfg/ja-kyosairen-fukushima
+source: cooperative-banks/ja-kyosairen-fukushima
 source_hash: 9c16f7dd8fe5d348
 lang: ja
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-02T14:25:12.396Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の下に置く、**FinWiki における JA 共済連システム初の県本部アンカー**である。「JA 共済連はあるが県域の信連・県本部アンカーがない」という監査上の空白を埋める。 福島は災害復興文脈との関連性（2011 東日本大震災・原発事故 + 建物更生共済 = 建更 の大規模給付実績）から選定した。全国本部については [[non-life-insurers/ja-kyosairen|JA 共済連 (全国本部)]]、地域銀行ピアについては [[regional-banks/fukushima-bank|福島銀行]]、農業信用事業の県域対応については [[cooperative-banks/ja-shinnoren|JA 信連]]、制度境界については [[banking/ja-bank-system-japan|JA Bank system]] と併読する。
+この項目は [[cooperative-banks/INDEX|cooperative-banks INDEX]] の下に置く、**FinWiki における JA 共済連システム初の県本部アンカー**である。「JA 共済連はあるが県域の信連・県本部アンカーがない」という監査上の空白を埋める。 福島は災害復興文脈との関連性（2011 東日本大震災・原発事故 + 建物更生共済 = 建更 の大規模給付実績）から選定した。全国本部については [[non-life-insurers/ja-kyosairen|JA 共済連 (全国本部)]]、地域銀行ピアについては [[regional-banks/fukushima-bank|福島銀行]]、農業信用事業の県域対応については [[cooperative-banks/ja-shinnoren|JA 信連]]、制度境界については [[banking/ja-bank-system-japan|JA Bank system]] と併読する。
 
 ## 要約
 
@@ -130,7 +130,7 @@ translated_at: 2026-06-02T14:25:12.396Z
 - [[banking/ja-bank-system-japan]] — JA Bank システム
 - [[banking/cooperative-banking-japan]] — 協同組織金融全体
 - [[insurance/INDEX]] — 保険ドメイン (共済比較)
-- [[JapanFG/INDEX|JapanFG index]]
+- [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 
 ## 出典
 

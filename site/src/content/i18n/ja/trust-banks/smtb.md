@@ -1,5 +1,5 @@
 ---
-source: japanfg/smtb
+source: trust-banks/smtb
 source_hash: ad0b64a846286d7f
 lang: ja
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-06-02T15:14:17.089Z
 
 ## ウィキ上の位置づけ
 
-本項目は[[JapanFG/INDEX|JapanFG index]]配下に置く。[[trust-banks/mitsubishi-ufj-trust-bank|三菱UFJ信託銀行 (MUTB)]]とは同業・対比の文脈で、[[banking/INDEX|banking index]]とはより広い制度・規制上の境界を読むために参照する。
+本項目は[[trust-banks/INDEX|trust-banks INDEX]]配下に置く。[[trust-banks/mitsubishi-ufj-trust-bank|三菱UFJ信託銀行 (MUTB)]]とは同業・対比の文脈で、[[banking/INDEX|banking index]]とはより広い制度・規制上の境界を読むために参照する。
 
 ## 要約
 

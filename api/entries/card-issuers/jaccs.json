@@ -37,7 +37,7 @@
       "MUFG 第 20 期 (2025-03 期) 有価証券報告書 (持分法適用関連)"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 株式会社オリエントコーポレーション (Orico) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under card-issuers INDEX. Read it against 株式会社オリエントコーポレーション (Orico) for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [
     "株式会社ジャックス (Jaccs)",
     "Wiki route",
@@ -53,8 +53,8 @@
   "body_links": {
     "wikilinks_count": 7,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
+      "card-issuers/INDEX",
       "card-issuers/orico",
       "credit-saison",
       "mufg",
@@ -62,8 +62,8 @@
       "smfg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/card-issuers/INDEX",
       "https://finwiki.zksc.io/card-issuers/orico",
       "https://finwiki.zksc.io/credit-saison",
       "https://finwiki.zksc.io/mufg",
@@ -74,9 +74,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3831,
-    "word_like_tokens": 593,
+    "nonspace_chars": 3841,
+    "word_like_tokens": 595,
     "inbound_wikilinks_count": 33,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

@@ -21,7 +21,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary securities operating-company anchor for [[chiba-bank|千葉銀行 (Chiba Bank)]]. Read it against parent operating bank [[chiba-bank|千葉銀行]] (no-holding-company 単独銀行 model) and sibling subsidiary [[chibagin-leasing|ちばぎんリース]]. Peer comparison: [[mebuki-securities|めぶき証券]] under [[mebuki-fg|めぶき FG]] (北関東地銀系証券) and [[ffg-securities|FFG 証券]] under [[fukuoka-fg|FFG]] (九州地銀系証券). For broader system route see [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]], [[banking/regional-bank-api-digital-partnership-route|regional-bank API/digital partnership route]] and [[banking/INDEX|banking index]]. Investable-universe context: [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]].
+This entry sits under the [[securities-firms/INDEX|securities-firms INDEX]] as the FG-subsidiary securities operating-company anchor for [[chiba-bank|千葉銀行 (Chiba Bank)]]. Read it against parent operating bank [[chiba-bank|千葉銀行]] (no-holding-company 単独銀行 model) and sibling subsidiary [[chibagin-leasing|ちばぎんリース]]. Peer comparison: [[mebuki-securities|めぶき証券]] under [[mebuki-fg|めぶき FG]] (北関東地銀系証券) and [[ffg-securities|FFG 証券]] under [[fukuoka-fg|FFG]] (九州地銀系証券). For broader system route see [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]], [[banking/regional-bank-api-digital-partnership-route|regional-bank API/digital partnership route]] and [[banking/INDEX|banking index]]. Investable-universe context: [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]].
 
 ## TL;DR
 
@@ -124,7 +124,7 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary s
 - [[sbi-securities]] · [[rakuten-securities]] · [[gmo-click-securities]] · [[paypay-securities]]
 - [[jsda]] · [[banking/regional-bank-consolidation-pattern]] · [[banking/regional-bank-api-digital-partnership-route]] · [[banking/INDEX]]
 - [[finance/japan-listed-financial-groups-investable-universe]] · [[finance/INDEX]]
-- [[JapanFG/INDEX|JapanFG index]]
+- [[securities-firms/INDEX|securities-firms INDEX]]
 
 ## Sources
 

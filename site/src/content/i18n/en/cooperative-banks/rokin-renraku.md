@@ -1,5 +1,5 @@
 ---
-source: japanfg/rokin-renraku
+source: cooperative-banks/rokin-renraku
 source_hash: 9ef361651e26c0e6
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T00:41:50.389Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[megabanks/mufg|三菱 UFJ FG (MUFG)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]]. Read it against [[megabanks/mufg|三菱 UFJ FG (MUFG)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 

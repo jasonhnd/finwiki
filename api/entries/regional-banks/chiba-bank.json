@@ -36,7 +36,7 @@
       "千葉銀行 2025年3月期 決算短信〔日本基準〕（連結）(2025-05-08): https://ssl4.eir-parts.net/doc/8331/tdnet/2603982/00.pdf"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 群馬銀行 (The Gunma Bank) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under regional-banks INDEX. Read it against 群馬銀行 (The Gunma Bank) for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [
     "千葉銀行 (Chiba Bank)",
     "Wiki route",
@@ -52,7 +52,6 @@
   "body_links": {
     "wikilinks_count": 11,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "concordia-fg",
       "fukuoka-fg",
@@ -60,12 +59,12 @@
       "mebuki-fg",
       "mizuho-fg",
       "mufg",
+      "regional-banks/INDEX",
       "regional-banks/dai-shi-hokuetsu-fg",
       "regional-banks/gunma-bank",
       "smfg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/concordia-fg",
       "https://finwiki.zksc.io/fukuoka-fg",
@@ -73,6 +72,7 @@
       "https://finwiki.zksc.io/mebuki-fg",
       "https://finwiki.zksc.io/mizuho-fg",
       "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/regional-banks/INDEX",
       "https://finwiki.zksc.io/regional-banks/dai-shi-hokuetsu-fg",
       "https://finwiki.zksc.io/regional-banks/gunma-bank",
       "https://finwiki.zksc.io/smfg"
@@ -81,9 +81,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4096,
-    "word_like_tokens": 706,
+    "nonspace_chars": 4110,
+    "word_like_tokens": 708,
     "inbound_wikilinks_count": 15,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

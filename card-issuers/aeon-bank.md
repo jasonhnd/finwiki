@@ -20,7 +20,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[regional-banks/seven-bank|セブン銀行 (Seven Bank)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+This entry sits under [[card-issuers/INDEX|card-issuers INDEX]]. Read it against [[regional-banks/seven-bank|セブン銀行 (Seven Bank)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 

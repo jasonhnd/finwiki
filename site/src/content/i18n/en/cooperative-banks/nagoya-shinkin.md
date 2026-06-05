@@ -1,5 +1,5 @@
 ---
-source: japanfg/nagoya-shinkin
+source: cooperative-banks/nagoya-shinkin
 source_hash: 024a60d9b5216c32
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T00:41:50.421Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[cooperative-banks/okazaki-shinkin|Okazaki Shinkin Bank]] (Nishimikawa / Aichi southeast automotive supply-chain anchor) and [[cooperative-banks/hamamatsu-iwata-shinkin|Hamamatsu Iwata Shinkin Bank]] (western Shizuoka / western-edge Tokai anchor) for the regional shinkin peer block, against [[regional-banks/nagoya-bank|Nagoya Bank]] and [[regional-banks/aichi-bank|Aichi Bank]] (former Aichi Bank + Chukyo Bank) for the commercial-bank counterparts in Aichi, and against [[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]] for the broader 254-shinkin system maintained by [[cooperative-banks/shinkin-central|Shinkin Central Bank]] and represented by [[financial-regulators/zenshin-kyo|National Association of Shinkin Banks]]. The 34 shinkin banks under the Tokai Local Finance Bureau form the second-largest district nationwide, and this page is positioned as the anchor for urban Nagoya.
+This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]]. Read it against [[cooperative-banks/okazaki-shinkin|Okazaki Shinkin Bank]] (Nishimikawa / Aichi southeast automotive supply-chain anchor) and [[cooperative-banks/hamamatsu-iwata-shinkin|Hamamatsu Iwata Shinkin Bank]] (western Shizuoka / western-edge Tokai anchor) for the regional shinkin peer block, against [[regional-banks/nagoya-bank|Nagoya Bank]] and [[regional-banks/aichi-bank|Aichi Bank]] (former Aichi Bank + Chukyo Bank) for the commercial-bank counterparts in Aichi, and against [[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]] for the broader 254-shinkin system maintained by [[cooperative-banks/shinkin-central|Shinkin Central Bank]] and represented by [[financial-regulators/zenshin-kyo|National Association of Shinkin Banks]]. The 34 shinkin banks under the Tokai Local Finance Bureau form the second-largest district nationwide, and this page is positioned as the anchor for urban Nagoya.
 
 ## TL;DR
 
@@ -82,7 +82,7 @@ Nagoya City is one of the ordinance-designated cities where cashless adoption ha
 
 ## Related
 
-- [[JapanFG/INDEX|JapanFG index]]
+- [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 - [[cooperative-banks/shinkin-central|Shinkin Central Bank]]
 - [[financial-regulators/zenshin-kyo|National Association of Shinkin Banks]]
 - [[cooperative-banks/shinkin-network-services|Shinkin Network Services]]

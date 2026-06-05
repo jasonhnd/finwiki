@@ -1,5 +1,5 @@
 ---
-source: japanfg/ui-bank
+source: regional-banks/ui-bank
 source_hash: 37e993ea493d1c84
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.148Z
 
 ## Wiki Route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[megabanks/saitama-resona-bank|埼玉りそな銀行 (Saitama Resona Bank)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it against [[megabanks/saitama-resona-bank|埼玉りそな銀行 (Saitama Resona Bank)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 

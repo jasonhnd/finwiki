@@ -13,7 +13,7 @@ translated_at: 2026-05-31T07:28:06.150Z
 
 日本财险“big three”是针对 [[non-life-insurers/tokio-marine|Tokio Marine]]、[[non-life-insurers/msad|MS&AD]]、[[non-life-insurers/sompo|Sompo]] 的控股公司分组。运营公司层则包括 [[non-life-insurers/tokio-marine-nichido-fire|Tokio Marine & Nichido Fire]]、[[non-life-insurers/mitsui-sumitomo-insurance|Mitsui Sumitomo Insurance]]、[[non-life-insurers/aioi-nissay-dowa-insurance|Aioi Nissay Dowa Insurance]]、[[non-life-insurers/sompo-japan-insurance|Sompo Japan Insurance]]。
 
-本页位于 [[insurance/INDEX|insurance domain]] 之下，并使用 [[JapanFG/INDEX|JapanFG]] 作为保险公司实体页。请与 [[insurance/natcat-reinsurance-japan|nat-cat reinsurance Japan]]、[[insurance/earthquake-insurance-public-private-scheme|earthquake insurance public-private scheme]]、[[insurance/economic-value-based-solvency|economic-value solvency]]、[[financial-licenses/insurance-license-and-solvency|insurance license and solvency route]]、[[insurance/insurance-agency-and-brokerage-japan|insurance agency and brokerage Japan]] 一并阅读。
+本页位于 [[insurance/INDEX|insurance domain]] 之下，并使用 [[insurance/INDEX|insurance INDEX]] 作为保险公司实体页。请与 [[insurance/natcat-reinsurance-japan|nat-cat reinsurance Japan]]、[[insurance/earthquake-insurance-public-private-scheme|earthquake insurance public-private scheme]]、[[insurance/economic-value-based-solvency|economic-value solvency]]、[[financial-licenses/insurance-license-and-solvency|insurance license and solvency route]]、[[insurance/insurance-agency-and-brokerage-japan|insurance agency and brokerage Japan]] 一并阅读。
 
 ## Holding-Company Map
 

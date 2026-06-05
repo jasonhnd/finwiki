@@ -1,5 +1,5 @@
 ---
-source: japanfg/orix-life
+source: life-insurers/orix-life
 source_hash: ff193c2dc941b121
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T00:41:50.385Z
 
 ## Wiki route
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]]。可与 [[life-insurers/dai-ichi-life|第一ライフグループ / 旧 第一生命 HD]] 对照阅读，以理解同业和差异；更广泛的制度和监管边界见 [[insurance/INDEX|insurance index]]。
+本条目位于 [[life-insurers/INDEX|life-insurers INDEX]]。可与 [[life-insurers/dai-ichi-life|第一ライフグループ / 旧 第一生命 HD]] 对照阅读，以理解同业和差异；更广泛的制度和监管边界见 [[insurance/INDEX|insurance index]]。
 
 ## TL;DR
 

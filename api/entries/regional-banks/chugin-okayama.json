@@ -36,7 +36,7 @@
       "ちゅうぎん FG 中期経営計画「未来共創プラン ステージ III」(2023-04〜2027-03)"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against ふくおか FG (FFG) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under regional-banks INDEX. Read it against ふくおか FG (FFG) for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [
     "ちゅうぎん FG / 中国銀行 historical group page",
     "Wiki route",
@@ -52,13 +52,13 @@
   "body_links": {
     "wikilinks_count": 12,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "chugoku-bank",
       "hirogin-hd",
       "iyogin-hd",
       "mizuho-fg",
       "mufg",
+      "regional-banks/INDEX",
       "regional-banks/fukuoka-fg",
       "resona-hd",
       "san-in-godo-bank",
@@ -66,13 +66,13 @@
       "yamaguchi-fg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/chugoku-bank",
       "https://finwiki.zksc.io/hirogin-hd",
       "https://finwiki.zksc.io/iyogin-hd",
       "https://finwiki.zksc.io/mizuho-fg",
       "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/regional-banks/INDEX",
       "https://finwiki.zksc.io/regional-banks/fukuoka-fg",
       "https://finwiki.zksc.io/resona-hd",
       "https://finwiki.zksc.io/san-in-godo-bank",
@@ -83,9 +83,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5650,
-    "word_like_tokens": 1018,
+    "nonspace_chars": 5664,
+    "word_like_tokens": 1020,
     "inbound_wikilinks_count": 3,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

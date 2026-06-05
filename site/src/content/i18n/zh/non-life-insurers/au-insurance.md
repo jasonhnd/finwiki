@@ -1,5 +1,5 @@
 ---
-source: japanfg/au-insurance
+source: non-life-insurers/au-insurance
 source_hash: 3c4614021c27a7ac
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T11:13:44.856Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[non-life-insurers/sony-insurance|ソニー損害保険]] for peer / contrast context and [[insurance/INDEX|insurance index]] for the broader system / regulatory boundary.
+This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read it against [[non-life-insurers/sony-insurance|ソニー損害保険]] for peer / contrast context and [[insurance/INDEX|insurance index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 

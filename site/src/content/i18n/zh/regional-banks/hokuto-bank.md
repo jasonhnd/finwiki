@@ -1,5 +1,5 @@
 ---
-source: japanfg/hokuto-bank
+source: regional-banks/hokuto-bank
 source_hash: 3f72b3393cc5f1d4
 lang: zh
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-05-31T15:29:03.966Z
 
 ## 维基路线
 
-该条目位于 [[JapanFG/INDEX|JapanFG index]] 下。针对同行/对比上下文阅读 [[regional-banks/shonai-bank|荘内銀行]]，针对更广泛的系统/监管边界阅读 [[banking/INDEX|banking index]]。
+该条目位于 [[regional-banks/INDEX|regional-banks INDEX]] 下。针对同行/对比上下文阅读 [[regional-banks/shonai-bank|荘内銀行]]，针对更广泛的系统/监管边界阅读 [[banking/INDEX|banking index]]。
 
 ## 长话短说
 

@@ -41,7 +41,7 @@
       "Bloomberg「農林中金の今期赤字１兆9000億円程度に、外債売却で－奥理事長は辞任」(2025-02-20): https://www.bloomberg.co.jp/news/articles/2025-02-20/SRYUQNT1UM0W00"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 三菱 UFJ FG (MUFG) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under cooperative-banks INDEX. Read it against 三菱 UFJ FG (MUFG) for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [
     "農林中央金庫 (Norinchukin Bank)",
     "Wiki route",
@@ -57,11 +57,11 @@
   "body_links": {
     "wikilinks_count": 18,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "banking/cooperative-banking-japan",
       "banking/ja-bank-system-japan",
       "banking/jf-marine-bank-system-japan",
+      "cooperative-banks/INDEX",
       "cooperative-banks/ja-shinnoren",
       "dai-ichi-life",
       "dbj",
@@ -77,11 +77,11 @@
       "trust-banks/nochu-trust-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/cooperative-banking-japan",
       "https://finwiki.zksc.io/banking/ja-bank-system-japan",
       "https://finwiki.zksc.io/banking/jf-marine-bank-system-japan",
+      "https://finwiki.zksc.io/cooperative-banks/INDEX",
       "https://finwiki.zksc.io/cooperative-banks/ja-shinnoren",
       "https://finwiki.zksc.io/dai-ichi-life",
       "https://finwiki.zksc.io/dbj",
@@ -100,9 +100,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5821,
-    "word_like_tokens": 923,
+    "nonspace_chars": 5841,
+    "word_like_tokens": 925,
     "inbound_wikilinks_count": 49,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

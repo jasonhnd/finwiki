@@ -24,7 +24,7 @@ sources:
 
 ## Wiki route
 
-UBAF Japan sits under [[JapanFG/INDEX|JapanFG index]] and is a France-linked foreign-bank branch route in [[foreign-financial-institutions/foreign-bank-branches-japan-index|the foreign-bank branch registry]]. Read it with [[foreign-financial-institutions/credit-agricole-bank-japan|Credit Agricole Bank Japan]], [[foreign-financial-institutions/bnp-paribas-japan|BNP Paribas Japan]], [[foreign-financial-institutions/natixis-japan|Natixis Japan]], and [[banking/INDEX|banking index]].
+UBAF Japan sits under [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]] and is a France-linked foreign-bank branch route in [[foreign-financial-institutions/foreign-bank-branches-japan-index|the foreign-bank branch registry]]. Read it with [[foreign-financial-institutions/credit-agricole-bank-japan|Credit Agricole Bank Japan]], [[foreign-financial-institutions/bnp-paribas-japan|BNP Paribas Japan]], [[foreign-financial-institutions/natixis-japan|Natixis Japan]], and [[banking/INDEX|banking index]].
 
 Use this page for trade-finance, correspondent-banking, Europe-Asia-Arab-world flow, and Tokyo Branch clearing questions around Union de Banques Arabes et Françaises.
 
@@ -69,7 +69,7 @@ Specific commodity, project-finance, Islamic-finance, or country-exposure claims
 
 ## Related
 
-- [[JapanFG/INDEX]]
+- [[foreign-financial-institutions/INDEX]]
 - [[foreign-financial-institutions/foreign-bank-branches-japan-index]]
 - [[foreign-financial-institutions/credit-agricole-bank-japan]]
 - [[foreign-financial-institutions/bnp-paribas-japan]]

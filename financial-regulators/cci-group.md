@@ -86,7 +86,7 @@ The older [[regional-banks/hokkoku-fhd|Hokkoku FHD]] narrative around Microsoft 
 
 ## Related
 
-- [[JapanFG/INDEX]]
+- [[financial-regulators/INDEX]]
 - [[regional-banks/hokkoku-fhd]]
 - [[regional-banks/hokkoku-bank]]
 - [[regional-banks/fukuoka-fg]]

@@ -1,5 +1,5 @@
 ---
-source: japanfg/saga-kyoei-bank
+source: regional-banks/saga-kyoei-bank
 source_hash: e12de23234a3e1a6
 lang: ja
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-06-02T15:14:17.079Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に置かれる。隣接領域の文脈として [[banking/INDEX|banking index]]、制度全体の境界として [[financial-licenses/INDEX|JapanFG index]] とあわせて読む。
+この項目は [[regional-banks/INDEX|regional-banks INDEX]] の配下に置かれる。隣接領域の文脈として [[banking/INDEX|banking index]]、制度全体の境界として [[financial-licenses/INDEX|JapanFG index]] とあわせて読む。
 
 ## 要約
 

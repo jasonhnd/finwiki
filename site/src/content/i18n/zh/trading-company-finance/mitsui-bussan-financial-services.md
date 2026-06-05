@@ -1,5 +1,5 @@
 ---
-source: japanfg/mitsui-bussan-financial-services
+source: trading-company-finance/mitsui-bussan-financial-services
 source_hash: f57d11a436a91c90
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:59:49.380Z
 
 ## Wiki route
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可与 [[trading-company-finance/mitsubishi-corp-finance|三菱商事フィナンシャルサービス]]（最接近的同业商社集团 treasury 子公司）和 [[cooperative-banks/ja-mitsui-leasing|JA三井リース]]（同一母公司旗下租赁子公司，三井物产系 + 农林中金 JV）对照阅读。更广泛的同业集合参见 [[trading-company-finance/marubeni-financial-services|丸紅フィナンス]]、[[trading-company-finance/sumitomo-corp-financial-management|住友商事FM]]、[[trading-company-finance/itochu-finance|伊藤忠ファイナンス]]。三井集团银行侧是 [[megabanks/smfg|SMFG]] 旗下的 [[megabanks/sumitomo-mitsui-banking-corp|SMBC]]。更广泛的监管边界参见 [[banking/INDEX|banking index]]。
+本条目位于 [[trading-company-finance/INDEX|trading-company-finance INDEX]] 之下。可与 [[trading-company-finance/mitsubishi-corp-finance|三菱商事フィナンシャルサービス]]（最接近的同业商社集团 treasury 子公司）和 [[cooperative-banks/ja-mitsui-leasing|JA三井リース]]（同一母公司旗下租赁子公司，三井物产系 + 农林中金 JV）对照阅读。更广泛的同业集合参见 [[trading-company-finance/marubeni-financial-services|丸紅フィナンス]]、[[trading-company-finance/sumitomo-corp-financial-management|住友商事FM]]、[[trading-company-finance/itochu-finance|伊藤忠ファイナンス]]。三井集团银行侧是 [[megabanks/smfg|SMFG]] 旗下的 [[megabanks/sumitomo-mitsui-banking-corp|SMBC]]。更广泛的监管边界参见 [[banking/INDEX|banking index]]。
 
 ## 1. 公司概要
 

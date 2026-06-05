@@ -1,5 +1,5 @@
 ---
-source: japanfg/ntt-docomo-sonpo
+source: non-life-insurers/ntt-docomo-sonpo
 source_hash: 2605464bb1e58320
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-01T00:41:50.413Z
 
 ## Wiki route
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 下。可与 [[non-life-insurers/ntt-docomo-sompo-hd|NTTドコモ損害保険ホールディングス]]、[[non-life-insurers/sompo|SOMPO]]、[[non-life-insurers/sompo-japan-insurance|損害保険ジャパン]]、[[non-life-insurers/yamap-naturance-insurance|ヤマップネイチャランス損害保険]] 和 [[insurance/INDEX|insurance index]] 一起阅读。
+本条目位于 [[non-life-insurers/INDEX|non-life-insurers INDEX]] 下。可与 [[non-life-insurers/ntt-docomo-sompo-hd|NTTドコモ損害保険ホールディングス]]、[[non-life-insurers/sompo|SOMPO]]、[[non-life-insurers/sompo-japan-insurance|損害保険ジャパン]]、[[non-life-insurers/yamap-naturance-insurance|ヤマップネイチャランス損害保険]] 和 [[insurance/INDEX|insurance index]] 一起阅读。
 
 本页用于持牌运营公司。持股公司的授权路径请使用 [[non-life-insurers/ntt-docomo-sompo-hd|NTTドコモ損害保険ホールディングス]]。
 

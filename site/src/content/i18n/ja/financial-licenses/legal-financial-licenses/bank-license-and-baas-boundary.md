@@ -1,5 +1,5 @@
 ---
-source: japanfg/legal-financial-licenses/bank-license-and-baas-boundary
+source: financial-licenses/legal-financial-licenses/bank-license-and-baas-boundary
 source_hash: 4e96ba905ac9d912
 lang: ja
 status: machine
@@ -32,7 +32,7 @@ This page belongs to [[financial-licenses/INDEX|JapanFG legal / financial licens
 
 FSA の免許・登録金融機関ポータルは、銀行一覧を `預金取扱等金融機関` の下で公開している。同じポータルには、銀行持株会社、銀行代理業者、外国銀行代理銀行、電子決済等代行業者、その他の規制対象カテゴリも掲載される。2026-05-22 に開いたポータルのスナップショットでは、銀行一覧の基準日は 2026-05-13、電子決済等代行業者一覧の基準日は 2026-04-30 と表示されていた。
 
-BaaS 記録では、銀行免許フィールドは預金債務を負う法的主体を特定する。公開上の根拠は通常、FSA の銀行一覧、銀行の口座規定、サービス規約、パートナー支店または BaaS ページから確認する。銀行運営会社ページは [[JapanFG/INDEX|JapanFG]] の下に置き、[[regional-banks/ssnb|SSNB]]、[[payment-firms/gmo-aozora-net|GMO Aozora Net Bank]]、[[regional-banks/sony-bank|Sony Bank]]、[[regional-banks/ui-bank|UI Bank]]、[[regional-banks/01-bank|01 Bank]] などを含む。
+BaaS 記録では、銀行免許フィールドは預金債務を負う法的主体を特定する。公開上の根拠は通常、FSA の銀行一覧、銀行の口座規定、サービス規約、パートナー支店または BaaS ページから確認する。銀行運営会社ページは [[financial-licenses/INDEX|financial-licenses INDEX]] の下に置き、[[regional-banks/ssnb|SSNB]]、[[payment-firms/gmo-aozora-net|GMO Aozora Net Bank]]、[[regional-banks/sony-bank|Sony Bank]]、[[regional-banks/ui-bank|UI Bank]]、[[regional-banks/01-bank|01 Bank]] などを含む。
 
 ## 銀行代理業ルート
 

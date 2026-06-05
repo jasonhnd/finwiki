@@ -1,5 +1,5 @@
 ---
-source: japanfg/sendai-bank
+source: regional-banks/sendai-bank
 source_hash: 04b1d0e2172bd63d
 lang: ja
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-06-02T15:14:17.080Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に置かれる。比較対象として [[regional-banks/kirayaka-bank|きらやか銀行]]、制度全体や規制上の境界を把握する入口として [[banking/INDEX|banking index]] とあわせて読む。
+この項目は [[regional-banks/INDEX|regional-banks INDEX]] の配下に置かれる。比較対象として [[regional-banks/kirayaka-bank|きらやか銀行]]、制度全体や規制上の境界を把握する入口として [[banking/INDEX|banking index]] とあわせて読む。
 
 ## 要約
 

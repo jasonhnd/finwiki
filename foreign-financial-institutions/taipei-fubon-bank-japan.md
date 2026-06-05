@@ -24,7 +24,7 @@ sources:
 
 ## Wiki route
 
-Taipei Fubon Bank Japan sits under [[JapanFG/INDEX|JapanFG index]] and is a current Taiwan-Japan foreign-bank branch route in [[foreign-financial-institutions/foreign-bank-branches-japan-index|the foreign-bank branch registry]]. Read it with [[foreign-financial-institutions/first-commercial-bank-japan|First Commercial Bank Japan]], [[foreign-financial-institutions/esun-bank-japan|E.SUN Bank Japan]], [[foreign-financial-institutions/ctbc-bank-japan|CTBC Bank Japan]], [[foreign-financial-institutions/bank-of-taiwan-japan|Bank of Taiwan Japan]], and [[finance/cross-border-m-a-japan|cross-border finance]].
+Taipei Fubon Bank Japan sits under [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]] and is a current Taiwan-Japan foreign-bank branch route in [[foreign-financial-institutions/foreign-bank-branches-japan-index|the foreign-bank branch registry]]. Read it with [[foreign-financial-institutions/first-commercial-bank-japan|First Commercial Bank Japan]], [[foreign-financial-institutions/esun-bank-japan|E.SUN Bank Japan]], [[foreign-financial-institutions/ctbc-bank-japan|CTBC Bank Japan]], [[foreign-financial-institutions/bank-of-taiwan-japan|Bank of Taiwan Japan]], and [[finance/cross-border-m-a-japan|cross-border finance]].
 
 Use this page for recent Taiwan-Japan corporate finance, syndicated loans, plant-construction financing, trade finance, and Taiwan semiconductor supply-chain expansion into Japan.
 
@@ -71,7 +71,7 @@ This makes the page a peer of [[foreign-financial-institutions/first-commercial-
 
 ## Related
 
-- [[JapanFG/INDEX]]
+- [[foreign-financial-institutions/INDEX]]
 - [[foreign-financial-institutions/foreign-bank-branches-japan-index]]
 - [[foreign-financial-institutions/first-commercial-bank-japan]]
 - [[foreign-financial-institutions/esun-bank-japan]]

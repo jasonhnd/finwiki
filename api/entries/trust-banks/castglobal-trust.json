@@ -36,7 +36,7 @@
       "CastGlobal Trust services: https://castglobaltrust.co.jp/ja/services/"
     ]
   },
-  "summary": "Wiki route: JapanFG/INDEX -> trust-banks/trust-companies-japan-index -> trust-banks/castglobal-trust",
+  "summary": "Wiki route: trust-banks/INDEX -> trust-banks/trust-companies-japan-index -> trust-banks/castglobal-trust",
   "headings": [
     "CastGlobal Trust / キャストグローバル信託",
     "Overview",
@@ -51,8 +51,8 @@
     "wikilinks_count": 7,
     "wikilinks": [
       "INDEX",
-      "JapanFG/INDEX",
       "payments/account-to-account-payment-japan",
+      "trust-banks/INDEX",
       "trust-banks/castglobal-trust",
       "trust-banks/kyodo-trust",
       "trust-banks/trust-companies-japan-index",
@@ -60,8 +60,8 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/payments/account-to-account-payment-japan",
+      "https://finwiki.zksc.io/trust-banks/INDEX",
       "https://finwiki.zksc.io/trust-banks/castglobal-trust",
       "https://finwiki.zksc.io/trust-banks/kyodo-trust",
       "https://finwiki.zksc.io/trust-banks/trust-companies-japan-index",
@@ -71,9 +71,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2272,
-    "word_like_tokens": 348,
+    "nonspace_chars": 2276,
+    "word_like_tokens": 349,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

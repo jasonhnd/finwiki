@@ -36,7 +36,7 @@
       "沖縄県金融業界一般公開情報"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against おきなわ FG (Okinawa FG) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under regional-banks INDEX. Read it against おきなわ FG (Okinawa FG) for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [
     "株式会社琉球銀行",
     "Wiki route",
@@ -52,22 +52,22 @@
   "body_links": {
     "wikilinks_count": 8,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "mizuho-fg",
       "mufg",
       "okinawa-fg",
       "okinawa-kaiho-bank",
+      "regional-banks/INDEX",
       "regional-banks/okinawa-fg",
       "smfg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/mizuho-fg",
       "https://finwiki.zksc.io/mufg",
       "https://finwiki.zksc.io/okinawa-fg",
       "https://finwiki.zksc.io/okinawa-kaiho-bank",
+      "https://finwiki.zksc.io/regional-banks/INDEX",
       "https://finwiki.zksc.io/regional-banks/okinawa-fg",
       "https://finwiki.zksc.io/smfg"
     ],
@@ -75,9 +75,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3486,
-    "word_like_tokens": 487,
+    "nonspace_chars": 3500,
+    "word_like_tokens": 489,
     "inbound_wikilinks_count": 2,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

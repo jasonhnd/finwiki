@@ -60,10 +60,9 @@
     "4. Capacity by line of business"
   ],
   "body_links": {
-    "wikilinks_count": 27,
+    "wikilinks_count": 26,
     "wikilinks": [
       "INDEX",
-      "JapanFG/INDEX",
       "financial-licenses/insurance-license-and-solvency",
       "financial-regulators/japan-pi-club",
       "insurance/INDEX",
@@ -92,7 +91,6 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/financial-licenses/insurance-license-and-solvency",
       "https://finwiki.zksc.io/financial-regulators/japan-pi-club",
       "https://finwiki.zksc.io/insurance/INDEX",
@@ -123,9 +121,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 10091,
-    "word_like_tokens": 1613,
+    "nonspace_chars": 10100,
+    "word_like_tokens": 1614,
     "inbound_wikilinks_count": 7,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

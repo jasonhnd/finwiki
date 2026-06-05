@@ -46,7 +46,7 @@
       "中小企業等協同組合法"
     ]
   },
-  "summary": "This entry sits under JapanFG index as the Chubu (中京) representative of the 商銀系 (in-Japan Korean business) shinkumi network, complementing 大阪商銀信用組合 (Kansai) and routing through Japan credit cooperative registry for the broader 143-cooperative population.",
+  "summary": "This entry sits under cooperative-banks INDEX as the Chubu (中京) representative of the 商銀系 (in-Japan Korean business) shinkumi network, complementing 大阪商銀信用組合 (Kansai) and routing through Japan credit cooperative registry for the broader 143-cooperative population.",
   "headings": [
     "信用組合愛知商銀 (Aichi Shogin Credit Cooperative)",
     "Wiki route",
@@ -62,9 +62,9 @@
   "body_links": {
     "wikilinks_count": 11,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/cooperative-banking-japan",
       "banking/credit-cooperative-registry-japan",
+      "cooperative-banks/INDEX",
       "cooperative-banks/osaka-shogin-shinkumi",
       "cooperative-banks/yokohama-kogin-shinkumi",
       "cooperative-banks/zenshin-kumi",
@@ -75,9 +75,9 @@
       "regional-banks/nagoya-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/cooperative-banking-japan",
       "https://finwiki.zksc.io/banking/credit-cooperative-registry-japan",
+      "https://finwiki.zksc.io/cooperative-banks/INDEX",
       "https://finwiki.zksc.io/cooperative-banks/osaka-shogin-shinkumi",
       "https://finwiki.zksc.io/cooperative-banks/yokohama-kogin-shinkumi",
       "https://finwiki.zksc.io/cooperative-banks/zenshin-kumi",
@@ -93,9 +93,9 @@
     ]
   },
   "metrics": {
-    "nonspace_chars": 4529,
-    "word_like_tokens": 656,
+    "nonspace_chars": 4569,
+    "word_like_tokens": 660,
     "inbound_wikilinks_count": 3,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

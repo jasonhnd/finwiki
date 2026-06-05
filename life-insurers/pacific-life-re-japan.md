@@ -24,7 +24,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against its closest same-domain peer [[life-insurers/rga-japan|RGA Japan]] — the other foreign life / health reinsurer registered on the FSA life-insurer list — as well as [[non-life-insurers/swiss-re-japan|Swiss Re Japan]] and [[non-life-insurers/hannover-re-japan|Hannover Re Japan]] for multi-line reinsurer peer context, and [[insurance/INDEX|insurance index]] for the broader Japan life insurance / reinsurance market system / regulatory boundary.
+This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it against its closest same-domain peer [[life-insurers/rga-japan|RGA Japan]] — the other foreign life / health reinsurer registered on the FSA life-insurer list — as well as [[non-life-insurers/swiss-re-japan|Swiss Re Japan]] and [[non-life-insurers/hannover-re-japan|Hannover Re Japan]] for multi-line reinsurer peer context, and [[insurance/INDEX|insurance index]] for the broader Japan life insurance / reinsurance market system / regulatory boundary.
 
 ## TL;DR
 

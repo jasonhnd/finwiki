@@ -33,7 +33,7 @@
       "岩井コスモ HD 公式コーポレートサイト・沿革"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 岡三証券グループ (Okasan Securities Group) for peer / contrast context and securities index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under securities-firms INDEX. Read it against 岡三証券グループ (Okasan Securities Group) for peer / contrast context and securities index for the broader system / regulatory boundary.",
   "headings": [
     "岩井コスモホールディングス",
     "Wiki route",
@@ -49,26 +49,26 @@
   "body_links": {
     "wikilinks_count": 11,
     "wikilinks": [
-      "JapanFG/INDEX",
       "aizawa-sg",
       "matsui-sec",
       "mizuho-fg",
       "mufg",
       "okasan-sg",
       "sbi-hd",
+      "securities-firms/INDEX",
       "securities-firms/okasan-sg",
       "securities/INDEX",
       "smfg",
       "tokai-tokyo-fh"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/aizawa-sg",
       "https://finwiki.zksc.io/matsui-sec",
       "https://finwiki.zksc.io/mizuho-fg",
       "https://finwiki.zksc.io/mufg",
       "https://finwiki.zksc.io/okasan-sg",
       "https://finwiki.zksc.io/sbi-hd",
+      "https://finwiki.zksc.io/securities-firms/INDEX",
       "https://finwiki.zksc.io/securities-firms/okasan-sg",
       "https://finwiki.zksc.io/securities/INDEX",
       "https://finwiki.zksc.io/smfg",
@@ -78,9 +78,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3452,
-    "word_like_tokens": 516,
+    "nonspace_chars": 3470,
+    "word_like_tokens": 518,
     "inbound_wikilinks_count": 8,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

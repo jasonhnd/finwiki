@@ -1,5 +1,5 @@
 ---
-source: japanfg/taiju-life
+source: life-insurers/taiju-life
 source_hash: bbef09cec8bd4e29
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.161Z
 
 ## Wiki route
 
-本条目位于[[JapanFG/INDEX|JapanFG index]]之下。可与[[life-insurers/hanasaku-life|はなさく生命保険]]对读，以把握同业 / 对比背景；也可与[[insurance/INDEX|insurance index]]对读，以理解更广的系统与监管边界。
+本条目位于[[life-insurers/INDEX|life-insurers INDEX]]之下。可与[[life-insurers/hanasaku-life|はなさく生命保険]]对读，以把握同业 / 对比背景；也可与[[insurance/INDEX|insurance index]]对读，以理解更广的系统与监管边界。
 
 ## TL;DR
 

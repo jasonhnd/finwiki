@@ -1,5 +1,5 @@
 ---
-source: japanfg/ctbc-bank-japan
+source: foreign-financial-institutions/ctbc-bank-japan
 source_hash: 17a8643575453579
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T15:29:03.892Z
 
 ## Wiki 路径
 
-本条目位于 [[JapanFG/INDEX|JapanFG 索引]]。可与 [[foreign-financial-institutions/mega-icbc-japan|兆丰国际商业银行东京分行]] 对照阅读，并结合 [[banking/INDEX|银行索引]] 理解外国银行在日本的分行牌照边界。
+本条目位于 [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]]。可与 [[foreign-financial-institutions/mega-icbc-japan|兆丰国际商业银行东京分行]] 对照阅读，并结合 [[banking/INDEX|银行索引]] 理解外国银行在日本的分行牌照边界。
 
 ## TL;DR
 

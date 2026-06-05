@@ -1,5 +1,5 @@
 ---
-source: japanfg/credit-agricole-bank-japan
+source: foreign-financial-institutions/credit-agricole-bank-japan
 source_hash: 306b497ac723b9ee
 lang: zh
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-05-31T15:29:03.895Z
 
 ## 维基路线
 
-此条目位于 [[JapanFG/INDEX|JapanFG index]] 下。针对同行/对比背景阅读 [[foreign-financial-institutions/natixis-japan|ナティクシス 東京支店]]，针对更广泛的系统/监管边界阅读 [[banking/INDEX|banking index]]。
+此条目位于 [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]] 下。针对同行/对比背景阅读 [[foreign-financial-institutions/natixis-japan|ナティクシス 東京支店]]，针对更广泛的系统/监管边界阅读 [[banking/INDEX|banking index]]。
 
 ##TL;博士
 

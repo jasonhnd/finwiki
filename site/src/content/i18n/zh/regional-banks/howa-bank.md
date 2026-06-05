@@ -1,5 +1,5 @@
 ---
-source: japanfg/howa-bank
+source: regional-banks/howa-bank
 source_hash: 9146621489ccd607
 lang: zh
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-05-31T15:29:03.879Z
 
 ## 维基路线
 
-该条目位于[[JapanFG/INDEX|JapanFG index]]阅读它与[[banking/INDEX|banking index]]对于相邻的上下文和[[financial-licenses/INDEX|JapanFG index]]为更广泛的系统边界。
+该条目位于[[regional-banks/INDEX|regional-banks INDEX]]阅读它与[[banking/INDEX|banking index]]对于相邻的上下文和[[financial-licenses/INDEX|JapanFG index]]为更广泛的系统边界。
 
 ## 长话短说
 
@@ -36,7 +36,7 @@ translated_at: 2026-05-31T15:29:03.879Z
 ## 3.为什么此页面很重要
 
 - 关闭丰和银行的 FSA 确切名称页面。
-- 完成大分第一/第二区域银行同行对，索引通过[[JapanFG/INDEX|JapanFG index]]。
+- 完成大分第一/第二区域银行同行对，索引通过[[regional-banks/INDEX|regional-banks INDEX]]。
 - 为共享系统和整合分析提供九州第二地区银行锚点。
 
 ## 有关的

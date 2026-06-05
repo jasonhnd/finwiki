@@ -52,7 +52,7 @@ translated_at: 2026-06-05T00:00:00.000Z
 
 - **結果**: 純粋持株会社への最もクリーンな道筋。
 - **上場**: *新しい*持株会社が事業会社に代わって上場する (技術的な再上場 / 上場維持は取引所規則の下で処理される)。
-- **複数会社のバリアント**: 2 社が同時に 1 つの持株会社へ株式移転する — [[JapanFG/INDEX|JapanFG INDEX]] の多くの金融グループの背後にある共同持株会社 / 対等合併パターン。
+- **複数会社のバリアント**: 2 社が同時に 1 つの持株会社へ株式移転する — [[corporate-strategy/INDEX|corporate-strategy INDEX]] の多くの金融グループの背後にある共同持株会社 / 対等合併パターン。
 
 ### 方法 B — 株式交換 (share exchange): 既存の会社を上に向ける
 
@@ -119,7 +119,6 @@ translated_at: 2026-06-05T00:00:00.000Z
 - [[finance/japan-listed-financial-groups-investable-universe|Japan listed-financial-groups investable universe]]
 - [[business/japan-listed-corp-strategic-restructuring-matrix|Japan listed-corp strategic-restructuring matrix]]
 - [[securities/japan-ipo-listing-disclosure-route|Japan IPO listing / disclosure route]]
-- [[JapanFG/INDEX|JapanFG INDEX]]
 - [[INDEX|FinWiki index]]
 
 ## 出典

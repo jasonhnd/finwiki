@@ -1,5 +1,5 @@
 ---
-source: japanfg/mastercard-japan
+source: payment-firms/mastercard-japan
 source_hash: 3f2d2a120c1d660b
 lang: en
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T23:59:49.354Z
 
 ## Wiki Route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[card-issuers/jcb|JCB]] for peer / contrast context (4-party global scheme vs JCB's 3-party hybrid) and [[payments/japan-interchange-and-merchant-fee-stack|Japan interchange and merchant fee stack]] for the broader system / regulatory boundary.
+This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it against [[card-issuers/jcb|JCB]] for peer / contrast context (4-party global scheme vs JCB's 3-party hybrid) and [[payments/japan-interchange-and-merchant-fee-stack|Japan interchange and merchant fee stack]] for the broader system / regulatory boundary.
 
 ## TL;DR
 

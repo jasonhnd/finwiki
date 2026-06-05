@@ -1,5 +1,5 @@
 ---
-source: japanfg/pwc-aarata
+source: financial-regulators/pwc-aarata
 source_hash: ccfb71edf7a33389
 lang: en
 status: machine
@@ -15,7 +15,7 @@ translated_at: 2026-06-01T00:41:50.398Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it alongside [[financial-regulators/deloitte-touche-tohmatsu|トーマツ (Deloitte)]] and [[financial-regulators/ey-shinnihon|EY 新日本]] for peer Big 4  audit context, and [[financial-licenses/INDEX|金融ライセンス INDEX]] for the CPA Act / audit-quality-management regulatory boundary. CPAAOB supervisory authority sits with [[financial-regulators/fsa-supervision-bureau|金融庁 監督局]] and [[financial-regulators/fsa-strategy-bureau|金融庁 総合政策局]].
+This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]]. Read it alongside [[financial-regulators/deloitte-touche-tohmatsu|トーマツ (Deloitte)]] and [[financial-regulators/ey-shinnihon|EY 新日本]] for peer Big 4  audit context, and [[financial-licenses/INDEX|金融ライセンス INDEX]] for the CPA Act / audit-quality-management regulatory boundary. CPAAOB supervisory authority sits with [[financial-regulators/fsa-supervision-bureau|金融庁 監督局]] and [[financial-regulators/fsa-strategy-bureau|金融庁 総合政策局]].
 
 ## 1. Entity overview
 

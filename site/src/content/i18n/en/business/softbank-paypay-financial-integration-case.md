@@ -13,7 +13,7 @@ translated_at: 2026-06-05T00:00:00.000Z
 
 ## Wiki route
 
-This entry sits under [[business/INDEX|business INDEX]] as a public-company strategic case. Read it against [[business/kddi-au-financial-bundling-case|KDDI au financial bundling case]] for the contrasting "own the bank, hand securities to the megabank" division of labour, [[business/ntt-docomo-d-point-telco-finance-case|NTT Docomo d-Point telco-finance case]] for the partner-led-bank model, and [[business/rakuten-group-mobile-finance-bundling-case|Rakuten Group mobile-finance bundling case]] for the other super-app that owns every finance vertical. For entity profiles see [[megabanks/paypay-fg|PayPay (financial group)]], [[card-issuers/paypay-card|PayPay Card]], and [[securities-firms/paypay-securities|PayPay Securities]]. Pair with [[JapanFG/INDEX|JapanFG payments / cards / leasing index]], [[payments/cashless-jp-landscape|Japan cashless payment landscape]], and [[loyalty/sb-yahoo-paypay-points-unified-ecosystem|SoftBank / Yahoo / PayPay points ecosystem]].
+This entry sits under [[business/INDEX|business INDEX]] as a public-company strategic case. Read it against [[business/kddi-au-financial-bundling-case|KDDI au financial bundling case]] for the contrasting "own the bank, hand securities to the megabank" division of labour, [[business/ntt-docomo-d-point-telco-finance-case|NTT Docomo d-Point telco-finance case]] for the partner-led-bank model, and [[business/rakuten-group-mobile-finance-bundling-case|Rakuten Group mobile-finance bundling case]] for the other super-app that owns every finance vertical. For entity profiles see [[megabanks/paypay-fg|PayPay (financial group)]], [[card-issuers/paypay-card|PayPay Card]], and [[securities-firms/paypay-securities|PayPay Securities]]. Pair with [[business/INDEX|business INDEX]], [[payments/cashless-jp-landscape|Japan cashless payment landscape]], and [[loyalty/sb-yahoo-paypay-points-unified-ecosystem|SoftBank / Yahoo / PayPay points ecosystem]].
 
 ## TL;DR
 
@@ -128,7 +128,6 @@ The pattern most likely to replicate elsewhere: a dominant payment app that abso
 - [[megabanks/paypay-fg|PayPay financial group]]
 - [[card-issuers/paypay-card|PayPay Card]]
 - [[securities-firms/paypay-securities|PayPay Securities]]
-- [[JapanFG/INDEX|JapanFG payments / cards / leasing index]]
 - [[payments/cashless-jp-landscape|Japan cashless payment landscape]]
 - [[loyalty/sb-yahoo-paypay-points-unified-ecosystem|SoftBank / Yahoo / PayPay points ecosystem]]
 - [[fintech/ai-payment-two-tracks|AI payment two tracks]]

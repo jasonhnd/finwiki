@@ -1,5 +1,5 @@
 ---
-source: japanfg/aiful
+source: consumer-finance/aiful
 source_hash: 31d94d38387f0df3
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:01:20.966Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] 配下に位置づける。ピア比較・対照の文脈では [[card-issuers/jaccs|株式会社ジャックス (Jaccs)]]、より広い制度・規制境界については [[banking/INDEX|banking index]] とあわせて読む。
+この項目は [[consumer-finance/INDEX|consumer-finance INDEX]] 配下に位置づける。ピア比較・対照の文脈では [[card-issuers/jaccs|株式会社ジャックス (Jaccs)]]、より広い制度・規制境界については [[banking/INDEX|banking index]] とあわせて読む。
 
 ## 要約
 

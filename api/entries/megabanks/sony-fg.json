@@ -38,7 +38,7 @@
       "SMBC日興証券「ソニーグループ（6758）のパーシャル・スピンオフに関するお知らせ」(2025-09-17、2025-10-01 効力発生・再上場 8729 を確認) https://www.smbcnikko.co.jp/news/customer/2025/n_20250917_01.html"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against ソニー生命保険 for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under megabanks INDEX. Read it against ソニー生命保険 for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [
     "ソニーフィナンシャルグループ (Sony FG)",
     "Wiki route",
@@ -54,13 +54,13 @@
   "body_links": {
     "wikilinks_count": 15,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "banking/au-jibun-bank",
       "banking/minna-bank-baas-model",
       "banking/rakuten-bank",
       "insurance/saison-automobile-fire",
       "life-insurers/sony-life",
+      "megabanks/INDEX",
       "megabanks/paypay-fg",
       "mizuho-fg",
       "mufg",
@@ -71,13 +71,13 @@
       "smfg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/au-jibun-bank",
       "https://finwiki.zksc.io/banking/minna-bank-baas-model",
       "https://finwiki.zksc.io/banking/rakuten-bank",
       "https://finwiki.zksc.io/insurance/saison-automobile-fire",
       "https://finwiki.zksc.io/life-insurers/sony-life",
+      "https://finwiki.zksc.io/megabanks/INDEX",
       "https://finwiki.zksc.io/megabanks/paypay-fg",
       "https://finwiki.zksc.io/mizuho-fg",
       "https://finwiki.zksc.io/mufg",
@@ -91,9 +91,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4927,
+    "nonspace_chars": 4931,
     "word_like_tokens": 846,
     "inbound_wikilinks_count": 27,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

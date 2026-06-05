@@ -41,7 +41,7 @@
       "https://www.chiginkyo.or.jp/"
     ]
   },
-  "summary": "This entry sits under the JapanFG index as the FG-subsidiary leasing operating-company anchor for 千葉銀行 (Chiba Bank). Read it against parent operating bank 千葉銀行 (no-holding 単独銀行 model) and sibling subsidiary ちばぎん証券. Peer comparison: めぶきリース (北関東地銀系リース) / 横浜銀リース (神奈川地銀系リース) / 北海道リース / 山口リース / いよぎんリース a",
+  "summary": "This entry sits under the leasing-firms INDEX as the FG-subsidiary leasing operating-company anchor for 千葉銀行 (Chiba Bank). Read it against parent operating bank 千葉銀行 (no-holding 単独銀行 model) and sibling subsidiary ちばぎん証券. Peer comparison: めぶきリース (北関東地銀系リース) / 横浜銀リース (神奈川地銀系リース) / 北海道リース / 山口リース / いよぎ",
   "headings": [
     "ちばぎんリース (Chibagin Leasing)",
     "Wiki route",
@@ -57,7 +57,6 @@
   "body_links": {
     "wikilinks_count": 34,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "banking/regional-bank-api-digital-partnership-route",
       "banking/regional-bank-consolidation-pattern",
@@ -76,6 +75,7 @@
       "iyogin-leasing",
       "ja-mitsui-leasing",
       "kanematsu-leasing",
+      "leasing-firms/INDEX",
       "mebuki-fg",
       "mebuki-lease",
       "mitsubishi-hc-capital",
@@ -93,7 +93,6 @@
       "yokohama-bank-leasing"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/regional-bank-api-digital-partnership-route",
       "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
@@ -112,6 +111,7 @@
       "https://finwiki.zksc.io/iyogin-leasing",
       "https://finwiki.zksc.io/ja-mitsui-leasing",
       "https://finwiki.zksc.io/kanematsu-leasing",
+      "https://finwiki.zksc.io/leasing-firms/INDEX",
       "https://finwiki.zksc.io/mebuki-fg",
       "https://finwiki.zksc.io/mebuki-lease",
       "https://finwiki.zksc.io/mitsubishi-hc-capital",
@@ -132,9 +132,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5965,
-    "word_like_tokens": 925,
+    "nonspace_chars": 5989,
+    "word_like_tokens": 929,
     "inbound_wikilinks_count": 2,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

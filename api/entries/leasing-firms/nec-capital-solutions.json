@@ -40,7 +40,7 @@
       "https://www.lease.or.jp/"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 日立キャピタル（旧） / 三菱HCキャピタル for vendor-system-integrator leasing peer context, 東京センチュリー / 三井住友ファイナンス&リース for large general lease peer context, and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under leasing-firms INDEX. Read it against 日立キャピタル（旧） / 三菱HCキャピタル for vendor-system-integrator leasing peer context, 東京センチュリー / 三井住友ファイナンス&リース for large general lease peer context, and banking index for the broader system / regulatory boundary.",
   "headings": [
     "NECキャピタルソリューションズ (NEC Capital Solutions)",
     "Wiki route",
@@ -56,8 +56,8 @@
   "body_links": {
     "wikilinks_count": 9,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
+      "leasing-firms/INDEX",
       "leasing-firms/hitachi-capital",
       "leasing-firms/mitsubishi-hc-capital",
       "leasing-firms/mizuho-lease",
@@ -67,8 +67,8 @@
       "leasing-firms/tokyo-century"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/leasing-firms/INDEX",
       "https://finwiki.zksc.io/leasing-firms/hitachi-capital",
       "https://finwiki.zksc.io/leasing-firms/mitsubishi-hc-capital",
       "https://finwiki.zksc.io/leasing-firms/mizuho-lease",
@@ -81,9 +81,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4479,
-    "word_like_tokens": 775,
+    "nonspace_chars": 4518,
+    "word_like_tokens": 781,
     "inbound_wikilinks_count": 2,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

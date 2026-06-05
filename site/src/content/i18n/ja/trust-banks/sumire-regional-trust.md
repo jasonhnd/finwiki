@@ -1,5 +1,5 @@
 ---
-source: japanfg/sumire-regional-trust
+source: trust-banks/sumire-regional-trust
 source_hash: ff51f6b116660635
 lang: ja
 status: machine
@@ -10,7 +10,7 @@ translated_at: 2026-06-02T15:14:17.099Z
 
 # すみれ地域信託
 
-ウィキ上の位置づけ: [[JapanFG/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/sumire-regional-trust]]
+ウィキ上の位置づけ: [[trust-banks/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/sumire-regional-trust]]
 
 ## 概要
 

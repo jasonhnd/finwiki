@@ -12,7 +12,7 @@ translated_at: 2026-05-30T15:31:43.931Z
 
 ## Wiki 路由
 
-本词条归属于 [[manufacturer-finance/INDEX|manufacturing index]]。请对照 [[manufacturer-finance/seiko-epson|Seiko Epson Corporation (セイコーエプソン)]] 阅读以了解同业 / 对比背景，[[JapanFG/INDEX|JapanFG index]] 了解更广的系统 / 监管边界。
+本词条归属于 [[manufacturer-finance/INDEX|manufacturing index]]。请对照 [[manufacturer-finance/seiko-epson|Seiko Epson Corporation (セイコーエプソン)]] 阅读以了解同业 / 对比背景，[[manufacturer-finance/INDEX|manufacturer-finance INDEX]] 了解更广的系统 / 监管边界。
 
 ## TL;DR
 

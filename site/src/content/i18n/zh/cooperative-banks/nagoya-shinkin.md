@@ -1,5 +1,5 @@
 ---
-source: japanfg/nagoya-shinkin
+source: cooperative-banks/nagoya-shinkin
 source_hash: 024a60d9b5216c32
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T00:41:50.420Z
 
 ## Wiki 路径
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可与 [[cooperative-banks/okazaki-shinkin|岡崎信用金庫]]（西三河 / 爱知东南部汽车供应链 anchor）和 [[cooperative-banks/hamamatsu-iwata-shinkin|浜松磐田信用金庫]]（静冈西部 / 东海西端 anchor）对读以理解区域信用金库同业组；可与 [[regional-banks/nagoya-bank|名古屋銀行]] 和 [[regional-banks/aichi-bank|あいち銀行]]（原爱知银行 + 中京银行）对读以理解爱知县商业银行对应关系；也可与 [[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]] 对读，把握由 [[cooperative-banks/shinkin-central|信金中央金庫]] 维护、由 [[financial-regulators/zenshin-kyo|全国信用金庫協会]] 代表的更广 254-信用金库系统。东海财务局管内 34 家信用金库构成全国 2 位规模的地区，本页面定位为名古屋都市部的 anchor。
+本条目位于 [[cooperative-banks/INDEX|cooperative-banks INDEX]] 之下。可与 [[cooperative-banks/okazaki-shinkin|岡崎信用金庫]]（西三河 / 爱知东南部汽车供应链 anchor）和 [[cooperative-banks/hamamatsu-iwata-shinkin|浜松磐田信用金庫]]（静冈西部 / 东海西端 anchor）对读以理解区域信用金库同业组；可与 [[regional-banks/nagoya-bank|名古屋銀行]] 和 [[regional-banks/aichi-bank|あいち銀行]]（原爱知银行 + 中京银行）对读以理解爱知县商业银行对应关系；也可与 [[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]] 对读，把握由 [[cooperative-banks/shinkin-central|信金中央金庫]] 维护、由 [[financial-regulators/zenshin-kyo|全国信用金庫協会]] 代表的更广 254-信用金库系统。东海财务局管内 34 家信用金库构成全国 2 位规模的地区，本页面定位为名古屋都市部的 anchor。
 
 ## TL;DR
 
@@ -82,7 +82,7 @@ translated_at: 2026-06-01T00:41:50.420Z
 
 ## Related
 
-- [[JapanFG/INDEX|JapanFG index]]
+- [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 - [[cooperative-banks/shinkin-central|信金中央金庫]]
 - [[financial-regulators/zenshin-kyo|全国信用金庫協会]]
 - [[cooperative-banks/shinkin-network-services|信金ネットワークサービス]]

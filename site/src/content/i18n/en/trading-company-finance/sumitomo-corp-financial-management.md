@@ -1,5 +1,5 @@
 ---
-source: japanfg/sumitomo-corp-financial-management
+source: trading-company-finance/sumitomo-corp-financial-management
 source_hash: 97573e348a1fb2ec
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.160Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[leasing-firms/smfl|SMFL]] (the same-parent external leasing / asset-finance JV with [[megabanks/smfg|SMFG]]) and [[trading-company-finance/mitsubishi-corp-finance|Mitsubishi Corporation Financial Services]] (the closest sogo-shosha group-treasury peer).
+This entry sits under [[trading-company-finance/INDEX|trading-company-finance INDEX]]. Read it against [[leasing-firms/smfl|SMFL]] (the same-parent external leasing / asset-finance JV with [[megabanks/smfg|SMFG]]) and [[trading-company-finance/mitsubishi-corp-finance|Mitsubishi Corporation Financial Services]] (the closest sogo-shosha group-treasury peer).
 
 ## 1. Company outline
 

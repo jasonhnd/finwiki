@@ -1,5 +1,5 @@
 ---
-source: japanfg/gmo-postpay
+source: payment-firms/gmo-postpay
 source_hash: 8627021be5280eb9
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T15:29:03.911Z
 
 ## Wiki 路径
 
-本条目位于 [[JapanFG/INDEX|JapanFG 索引]] 之下，作为 PSP 侧 BNPL 产品的实体入口。请与 [[payment-firms/bnpl-landscape|日本 BNPL 全景]]、[[payment-firms/gmo-payment-gateway|GMO Payment Gateway]]、[[payment-firms/net-protections-hd|Net Protections HD]]、[[payment-firms/paidy|Paidy]] 以及 [[payments/japan-bnpl-credit-purchase-boundary|BNPL 与信用购买监管边界]] 配套阅读。[[payments/credit-purchase-card-operators-japan-index|METI 信用购买登记索引]]用于核对登记面，[[payments/japan-payment-scheme-economics-matrix|日本支付方案经济性矩阵]]用于比较卡、代码支付与后付费经济性。
+本条目位于 [[payment-firms/INDEX|payment-firms INDEX]] 之下，作为 PSP 侧 BNPL 产品的实体入口。请与 [[payment-firms/bnpl-landscape|日本 BNPL 全景]]、[[payment-firms/gmo-payment-gateway|GMO Payment Gateway]]、[[payment-firms/net-protections-hd|Net Protections HD]]、[[payment-firms/paidy|Paidy]] 以及 [[payments/japan-bnpl-credit-purchase-boundary|BNPL 与信用购买监管边界]] 配套阅读。[[payments/credit-purchase-card-operators-japan-index|METI 信用购买登记索引]]用于核对登记面，[[payments/japan-payment-scheme-economics-matrix|日本支付方案经济性矩阵]]用于比较卡、代码支付与后付费经济性。
 
 ## TL;DR
 

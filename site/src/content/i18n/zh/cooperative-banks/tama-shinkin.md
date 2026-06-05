@@ -1,5 +1,5 @@
 ---
-source: japanfg/tama-shinkin
+source: cooperative-banks/tama-shinkin
 source_hash: 8cd7ed80cb4118ee
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-01T02:31:57.153Z
 
 ## Wiki route
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可与 [[cooperative-banks/jonan-shinkin|城南信用金庫]] 对照阅读，以理解东京 shinkin 区块内部的同业 / 对比背景（东京多区 23  vs 多摩地区）；也可与 [[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]] 一起阅读，以理解由 [[cooperative-banks/shinkin-central|信金中央金庫]] 维护的更广义系统 / 监管边界。
+本条目位于 [[cooperative-banks/INDEX|cooperative-banks INDEX]] 之下。可与 [[cooperative-banks/jonan-shinkin|城南信用金庫]] 对照阅读，以理解东京 shinkin 区块内部的同业 / 对比背景（东京多区 23  vs 多摩地区）；也可与 [[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]] 一起阅读，以理解由 [[cooperative-banks/shinkin-central|信金中央金庫]] 维护的更广义系统 / 监管边界。
 
 ## TL;DR
 

@@ -1,5 +1,5 @@
 ---
-source: japanfg/rakuten-life
+source: life-insurers/rakuten-life
 source_hash: 372eb3c1648ca842
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-01T00:41:50.465Z
 
 ## Wiki 路径
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可与 [[non-life-insurers/rakuten-general-insurance|楽天損害保険]] 对读以理解同业和对比关系，并与 [[insurance/INDEX|insurance index]] 对读以把握更广的制度 / 监管边界。
+本条目位于 [[life-insurers/INDEX|life-insurers INDEX]] 之下。可与 [[non-life-insurers/rakuten-general-insurance|楽天損害保険]] 对读以理解同业和对比关系，并与 [[insurance/INDEX|insurance index]] 对读以把握更广的制度 / 监管边界。
 
 ## TL;DR
 

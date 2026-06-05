@@ -1,5 +1,5 @@
 ---
-source: japanfg/concordia-fg
+source: regional-banks/concordia-fg
 source_hash: b30ca46b655607dc
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T15:29:03.870Z
 
 ## 维基路线
 
-该条目位于[[JapanFG/INDEX|JapanFG index]]阅读它反对[[regional-banks/fukuoka-fg|ふくおか FG (FFG)]]对于同行/对比上下文和[[banking/INDEX|banking index]]适用于更广泛的系统/监管边界。
+该条目位于[[regional-banks/INDEX|regional-banks INDEX]]阅读它反对[[regional-banks/fukuoka-fg|ふくおか FG (FFG)]]对于同行/对比上下文和[[banking/INDEX|banking index]]适用于更广泛的系统/监管边界。
 
 ## 长话短说
 

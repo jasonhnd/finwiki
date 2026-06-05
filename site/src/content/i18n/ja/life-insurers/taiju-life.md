@@ -1,5 +1,5 @@
 ---
-source: japanfg/taiju-life
+source: life-insurers/taiju-life
 source_hash: bbef09cec8bd4e29
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T16:33:58.477Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] 配下にあります。比較・対照の文脈では [[life-insurers/hanasaku-life|はなさく生命保険]] を、より広い制度・規制境界の文脈では [[insurance/INDEX|insurance index]] をあわせて参照してください。
+この項目は [[life-insurers/INDEX|life-insurers INDEX]] 配下にあります。比較・対照の文脈では [[life-insurers/hanasaku-life|はなさく生命保険]] を、より広い制度・規制境界の文脈では [[insurance/INDEX|insurance index]] をあわせて参照してください。
 
 ## 要約
 

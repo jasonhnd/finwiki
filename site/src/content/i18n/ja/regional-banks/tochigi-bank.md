@@ -1,5 +1,5 @@
 ---
-source: japanfg/tochigi-bank
+source: regional-banks/tochigi-bank
 source_hash: 4a8b728b701bca01
 lang: ja
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-06-02T16:33:58.500Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の下に位置づける。比較・対照の文脈では [[regional-banks/tokyo-star-bank|東京スター銀行]] とあわせて読み、より広い制度・規制上の境界については [[banking/INDEX|banking index]] を参照する。
+この項目は [[regional-banks/INDEX|regional-banks INDEX]] の下に位置づける。比較・対照の文脈では [[regional-banks/tokyo-star-bank|東京スター銀行]] とあわせて読み、より広い制度・規制上の境界については [[banking/INDEX|banking index]] を参照する。
 
 ## 要約
 

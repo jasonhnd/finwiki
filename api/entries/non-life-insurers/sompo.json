@@ -37,7 +37,7 @@
       "新日本保険新聞「SOMPOホールディングス、Palantirと『安心・安全・健康のリアルデータプラットフォーム』を立ち上げ」 (2020-06-22): https://www.shinnihon-ins.co.jp/industry-news/industry-news-20200622-9/"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against MS&AD インシュアランス グループ ホールディングス for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under non-life-insurers INDEX. Read it against MS&AD インシュアランス グループ ホールディングス for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [
     "SOMPO ホールディングス (Sompo Holdings)",
     "Wiki route",
@@ -53,24 +53,24 @@
   "body_links": {
     "wikilinks_count": 10,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "mizuho-fg",
       "mufg",
       "ndfg",
       "nomura-hd",
+      "non-life-insurers/INDEX",
       "non-life-insurers/msad",
       "non-life-insurers/sompo-japan-insurance",
       "non-life-insurers/tokio-marine",
       "smfg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/mizuho-fg",
       "https://finwiki.zksc.io/mufg",
       "https://finwiki.zksc.io/ndfg",
       "https://finwiki.zksc.io/nomura-hd",
+      "https://finwiki.zksc.io/non-life-insurers/INDEX",
       "https://finwiki.zksc.io/non-life-insurers/msad",
       "https://finwiki.zksc.io/non-life-insurers/sompo-japan-insurance",
       "https://finwiki.zksc.io/non-life-insurers/tokio-marine",
@@ -82,9 +82,9 @@
     ]
   },
   "metrics": {
-    "nonspace_chars": 6367,
-    "word_like_tokens": 1071,
+    "nonspace_chars": 6387,
+    "word_like_tokens": 1075,
     "inbound_wikilinks_count": 34,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

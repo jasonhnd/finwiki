@@ -1,5 +1,5 @@
 ---
-source: japanfg/seimei-hokensha-hogo-kiko
+source: financial-regulators/seimei-hokensha-hogo-kiko
 source_hash: 8d87a0b6880d457b
 lang: zh
 status: machine
@@ -37,13 +37,13 @@ translated_at: 2026-06-01T00:41:50.410Z
 
 ## ??????
 
-- [[JapanFG/INDEX|JapanFG index]] [[financial-regulators/sonpo-hosho-kiko|損害保険契約者保護機構]] [[financial-regulators/dic|預金保険機構]] [[financial-regulators/fsa|金融庁]] 1998 12  1997 2001  [[financial-regulators/nissan-life|日産生命]] 1997  [[life-insurers/toho-life|東邦生命]] 1999  [[life-insurers/dai-hyaku-life|第百生命]] 2000  [[financial-regulators/taisho-life|大正生命]] 2000  [[financial-regulators/chiyoda-life|千代田生命]] 2000 
+- [[financial-regulators/INDEX|financial-regulators INDEX]] [[financial-regulators/sonpo-hosho-kiko|損害保険契約者保護機構]] [[financial-regulators/dic|預金保険機構]] [[financial-regulators/fsa|金融庁]] 1998 12  1997 2001  [[financial-regulators/nissan-life|日産生命]] 1997  [[life-insurers/toho-life|東邦生命]] 1999  [[life-insurers/dai-hyaku-life|第百生命]] 2000  [[financial-regulators/taisho-life|大正生命]] 2000  [[financial-regulators/chiyoda-life|千代田生命]] 2000 
 - [[life-insurers/kyoei-life|協栄生命]] 2000  [[financial-regulators/tokyo-life|東京生命]] 2001  [[financial-regulators/yamato-life|大和生命]] 2008 90% 41 社 [[financial-regulators/sonpo-hosho-kiko|損保機構]] [[financial-regulators/dic|預保]] 1 259  1995  1998 12  1998-12-01 [[financial-regulators/fsa|金融庁]] 41 社
 - [[life-insurers/kampo-life|かんぽ生命]] 1995 06  1997 04 [[financial-regulators/nissan-life|日産生命]] 1998 12  1999 06 [[life-insurers/toho-life|東邦生命]] 2000 05 [[life-insurers/dai-hyaku-life|第百生命]] 2000 08 [[financial-regulators/taisho-life|大正生命]] 2000
 - 10 [[financial-regulators/chiyoda-life|千代田生命]] 2000 10 [[life-insurers/kyoei-life|協栄生命]] 2001 03  [[financial-regulators/tokyo-life|東京生命]] [[life-insurers/daido-life|大同生命]] [[life-insurers/taiyo-life|太陽生命]] 2003  2008 10 [[financial-regulators/yamato-life|大和生命]] 2020 90% 90% 90%
 - 90% 90% 5 6% 1.5% 1997 2001  1997 04  [[financial-regulators/nissan-life|日産生命]] 1999 06  [[life-insurers/toho-life|東邦生命]] 2000 05  [[life-insurers/dai-hyaku-life|第百生命]] 2000 08 
 - [[financial-regulators/taisho-life|大正生命]] 2000 10  [[financial-regulators/chiyoda-life|千代田生命]] 2000 10  [[life-insurers/kyoei-life|協栄生命]] 2001 03  [[financial-regulators/tokyo-life|東京生命]] 2008 10  [[financial-regulators/yamato-life|大和生命]] 8 社 4 41 社 2002 06 
-- 5,000 億円 5 1985 1990  [[life-insurers/kampo-life|かんぽ生命]] [[financial-regulators/sonpo-hosho-kiko|損害保険契約者保護機構]] [[financial-regulators/dic|預金保険機構]] [[financial-regulators/fsa|金融庁]] [[life-insurers/kampo-life|かんぽ生命]] [[life-insurers/dai-ichi-life-hd|第一生命 HD]] [[life-insurers/asahi-life|朝日生命]] [[life-insurers/fukoku-life|富国生命]] [[insurance/INDEX|insurance index]] [[JapanFG/INDEX|JapanFG index]] 2026-05-25 2026-05-25 259  2026-05-25
+- 5,000 億円 5 1985 1990  [[life-insurers/kampo-life|かんぽ生命]] [[financial-regulators/sonpo-hosho-kiko|損害保険契約者保護機構]] [[financial-regulators/dic|預金保険機構]] [[financial-regulators/fsa|金融庁]] [[life-insurers/kampo-life|かんぽ生命]] [[life-insurers/dai-ichi-life-hd|第一生命 HD]] [[life-insurers/asahi-life|朝日生命]] [[life-insurers/fukoku-life|富国生命]] [[insurance/INDEX|insurance index]] [[financial-regulators/INDEX|financial-regulators INDEX]] 2026-05-25 2026-05-25 259  2026-05-25
 - 1.0  2026-05-25 1997 2008  [[financial-regulators/nissan-life|日産]] [[life-insurers/toho-life|東邦]] [[financial-regulators/chiyoda-life|千代田]] [[life-insurers/kyoei-life|協栄]] 90%
 
 ## Related

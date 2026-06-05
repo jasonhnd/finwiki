@@ -1,5 +1,5 @@
 ---
-source: japanfg/tokyo-to-shokuin-shinkumi
+source: cooperative-banks/tokyo-to-shokuin-shinkumi
 source_hash: e7efb70ad5c163f4
 lang: ja
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-02T16:33:58.472Z
 
 ## ウィキ上の位置づけ
 
-この項目は、日本最大の **自治体職員 (local government employee) shinkumi** として [[JapanFG/INDEX|JapanFG index]] の配下に置かれる。[[cooperative-banks/keishicho-shinkumi|警視庁職員信用組合]]（警察系）や [[cooperative-banks/tokyo-shobo-shinkumi|東京消防信用組合]]（消防系）などの職域 (occupation-based) shinkumi を補完し、143 協同組織の母集団の中で扱う。この母集団は [[banking/credit-cooperative-registry-japan|Japan credit cooperative registry]] に収録される。
+この項目は、日本最大の **自治体職員 (local government employee) shinkumi** として [[cooperative-banks/INDEX|cooperative-banks INDEX]] の配下に置かれる。[[cooperative-banks/keishicho-shinkumi|警視庁職員信用組合]]（警察系）や [[cooperative-banks/tokyo-shobo-shinkumi|東京消防信用組合]]（消防系）などの職域 (occupation-based) shinkumi を補完し、143 協同組織の母集団の中で扱う。この母集団は [[banking/credit-cooperative-registry-japan|Japan credit cooperative registry]] に収録される。
 
 ## 1. 法人概要
 
@@ -90,7 +90,7 @@ translated_at: 2026-06-02T16:33:58.472Z
 - [[banking/credit-cooperative-registry-japan]] — Japan credit cooperative registry (143 shinkumi 全体)
 - [[banking/cooperative-banking-japan]] — 協同組織金融全体
 - [[cooperative-banks/iwaki-shinkumi]] — いわき信用組合 (peer 地域型信組、業態対比)
-- [[JapanFG/INDEX|JapanFG index]]
+- [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 
 ## 出典
 

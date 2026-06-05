@@ -1,5 +1,5 @@
 ---
-source: japanfg/bangkok-bank-japan
+source: foreign-financial-institutions/bangkok-bank-japan
 source_hash: 5915a65a4e4684f0
 lang: zh
 status: machine
@@ -14,7 +14,7 @@ translated_at: 2026-05-31T11:13:44.929Z
 
 曼谷银行日本是[[foreign-financial-institutions/foreign-bank-branches-japan-index|the foreign-bank branch registry]]里面的泰国走廊页面。用[[foreign-financial-institutions/dbs-bank-japan|DBS Japan]]、[[foreign-financial-institutions/ocbc-bank-japan|OCBC Japan]]、[[foreign-financial-institutions/uob-bank-japan|UOB Japan]]、[[financial-licenses/foreign-bank-branch-license-route|foreign-bank branch license route]] 来阅读。
 
-首先将此条目通过[[JapanFG/INDEX|JapanFG index]]，然后当问题是走廊银行结构而不是单个分支行时使用[[banking/INDEX|banking domain]]。
+首先将此条目通过[[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]]，然后当问题是走廊银行结构而不是单个分支行时使用[[banking/INDEX|banking domain]]。
 
 ＃＃ 概述
 
@@ -60,7 +60,7 @@ translated_at: 2026-05-31T11:13:44.929Z
 
 ＃＃ 有关的
 
-- [[JapanFG/INDEX]]
+- [[foreign-financial-institutions/INDEX]]
 - [[foreign-financial-institutions/foreign-bank-branches-japan-index]]
 - [[foreign-financial-institutions/dbs-bank-japan]]
 - [[foreign-financial-institutions/ocbc-bank-japan]]

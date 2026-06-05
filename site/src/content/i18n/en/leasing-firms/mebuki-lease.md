@@ -1,5 +1,5 @@
 ---
-source: japanfg/mebuki-lease
+source: leasing-firms/mebuki-lease
 source_hash: 79973862e4aebd5b
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:59:49.389Z
 
 ## Wiki Route
 
-This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary leasing operating-company anchor for [[mebuki-fg|Mebuki FG]]. Read it against parent operating banks [[joyo-bank|Joyo Bank]] / [[ashikaga-bank|Ashikaga Bank]] and sibling subsidiary [[mebuki-securities|Mebuki Securities]]. Peer comparison: [[hokkaido-lease|Hokkaido Lease]] (Hokuyo / Hokkaido Bank group) and major lessors [[mitsubishi-hc-capital|Mitsubishi HC Capital]] / [[mizuho-lease|Mizuho Leasing]]. For the broader system route, see [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]] and [[banking/INDEX|banking index]].
+This entry sits under the [[leasing-firms/INDEX|leasing-firms INDEX]] as the FG-subsidiary leasing operating-company anchor for [[mebuki-fg|Mebuki FG]]. Read it against parent operating banks [[joyo-bank|Joyo Bank]] / [[ashikaga-bank|Ashikaga Bank]] and sibling subsidiary [[mebuki-securities|Mebuki Securities]]. Peer comparison: [[hokkaido-lease|Hokkaido Lease]] (Hokuyo / Hokkaido Bank group) and major lessors [[mitsubishi-hc-capital|Mitsubishi HC Capital]] / [[mizuho-lease|Mizuho Leasing]]. For the broader system route, see [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]] and [[banking/INDEX|banking index]].
 
 ## TL;DR
 
@@ -119,7 +119,7 @@ Mebuki Lease Co., Ltd. is a regional-bank leasing company and 100% subsidiary of
 - [[mitsubishi-hc-capital|Mitsubishi HC Capital]] · [[smfl|SMFL]] · [[mizuho-lease|Mizuho Leasing]] · [[fuyo-lease|Fuyo Lease]] · [[tokyo-century|Tokyo Century]] · [[ricoh-leasing|Ricoh Leasing]] · [[hokkaido-lease|Hokkaido Lease]]
 - [[ja-mitsui-leasing|JA Mitsui Leasing]] · [[nec-leasing|NEC Capital Solutions]] · [[showa-leasing|Showa Leasing]]
 - [[banking/regional-bank-consolidation-pattern]] · [[banking/INDEX]]
-- [[JapanFG/INDEX|JapanFG index]]
+- [[leasing-firms/INDEX|leasing-firms INDEX]]
 
 ## Sources
 

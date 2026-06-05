@@ -1,5 +1,5 @@
 ---
-source: japanfg/aig-japan
+source: non-life-insurers/aig-japan
 source_hash: 9285a9f4c9c3106a
 lang: ja
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-02T14:01:20.899Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の下に位置する。ピア比較・対比の文脈は [[life-insurers/axa-japan|アクサ・ジャパン (AXA Japan)]]、より広いシステム / 規制境界は [[banking/INDEX|banking index]] とあわせて読む。
+この項目は [[non-life-insurers/INDEX|non-life-insurers INDEX]] の下に位置する。ピア比較・対比の文脈は [[life-insurers/axa-japan|アクサ・ジャパン (AXA Japan)]]、より広いシステム / 規制境界は [[banking/INDEX|banking index]] とあわせて読む。
 
 ## 1. グループ構造
 

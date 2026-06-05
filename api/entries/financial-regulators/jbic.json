@@ -35,7 +35,7 @@
       "株式会社国際協力銀行法 (平成 23 年法律第 39 号)"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 日本政策金融公庫 (JFC) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under financial-regulators INDEX. Read it against 日本政策金融公庫 (JFC) for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [
     "国際協力銀行 (JBIC)",
     "Wiki route",
@@ -51,8 +51,8 @@
   "body_links": {
     "wikilinks_count": 12,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
+      "financial-regulators/INDEX",
       "financial-regulators/jfc",
       "jfc",
       "mizuho-fg",
@@ -65,8 +65,8 @@
       "smfg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/financial-regulators/INDEX",
       "https://finwiki.zksc.io/financial-regulators/jfc",
       "https://finwiki.zksc.io/jfc",
       "https://finwiki.zksc.io/mizuho-fg",
@@ -82,9 +82,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4023,
-    "word_like_tokens": 636,
+    "nonspace_chars": 4049,
+    "word_like_tokens": 638,
     "inbound_wikilinks_count": 45,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

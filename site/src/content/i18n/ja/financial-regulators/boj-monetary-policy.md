@@ -1,5 +1,5 @@
 ---
-source: japanfg/boj-monetary-policy
+source: financial-regulators/boj-monetary-policy
 source_hash: 8926d65047c6be38
 lang: ja
 status: machine

@@ -1,5 +1,5 @@
 ---
-source: japanfg/esun-bank-japan
+source: foreign-financial-institutions/esun-bank-japan
 source_hash: 361227b6de013702
 lang: en
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T15:29:03.929Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[foreign-financial-institutions/mega-icbc-japan|Mega International Commercial Bank Tokyo Branch]] for peer and corridor context, and against [[banking/INDEX|banking index]] for the broader banking-system boundary.
+This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]]. Read it against [[foreign-financial-institutions/mega-icbc-japan|Mega International Commercial Bank Tokyo Branch]] for peer and corridor context, and against [[banking/INDEX|banking index]] for the broader banking-system boundary.
 
 ## TL;DR
 

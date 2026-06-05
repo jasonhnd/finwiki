@@ -1,5 +1,5 @@
 ---
-source: japanfg/fsa
+source: financial-regulators/fsa
 source_hash: 4e1b655f9ca3571b
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T15:29:03.909Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[financial-regulators/boj|Bank of Japan]] for the central-bank counterpart, and [[financial-regulators/dic|Deposit Insurance Corporation of Japan]], [[financial-regulators/sonpo-hosho-kiko|Non-Life Insurance Policyholders Protection Corporation of Japan]], and [[financial-regulators/seimei-hokensha-hogo-kiko|Life Insurance Policyholders Protection Corporation of Japan]] for safety-net institutions within the supervised financial system.
+This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]]. Read it against [[financial-regulators/boj|Bank of Japan]] for the central-bank counterpart, and [[financial-regulators/dic|Deposit Insurance Corporation of Japan]], [[financial-regulators/sonpo-hosho-kiko|Non-Life Insurance Policyholders Protection Corporation of Japan]], and [[financial-regulators/seimei-hokensha-hogo-kiko|Life Insurance Policyholders Protection Corporation of Japan]] for safety-net institutions within the supervised financial system.
 
 ## TL;DR
 
@@ -124,7 +124,7 @@ The former inspection-bureau model was functionally integrated through the 2018 
 - [[financial-regulators/boj|Bank of Japan]] · [[financial-regulators/dic|Deposit Insurance Corporation of Japan]] · [[financial-regulators/sonpo-hosho-kiko|Non-Life Insurance Policyholders Protection Corporation of Japan]] · [[financial-regulators/seimei-hokensha-hogo-kiko|Life Insurance Policyholders Protection Corporation of Japan]]
 - [[financial-regulators/japan-exchange-group|Japan Exchange Group]] · [[financial-regulators/jsda|Japan Securities Dealers Association]]
 - [[financial-regulators/jcr|JCR]] · [[financial-regulators/rating-and-investment|R&I]]
-- [[JapanFG/INDEX|JapanFG index]]
+- [[financial-regulators/INDEX|financial-regulators INDEX]]
 
 ## Sources
 

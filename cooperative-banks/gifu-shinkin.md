@@ -20,7 +20,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[cooperative-banks/okazaki-shinkin|岡崎信用金庫]] and [[cooperative-banks/hamamatsu-iwata-shinkin|浜松磐田信用金庫]] for peer / contrast context inside the Chubu shinkin block (岐阜信用金庫 is the third-largest Chubu shinkin by deposits, behind those two), and against [[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]] for the broader system / regulatory boundary maintained by [[cooperative-banks/shinkin-central|信金中央金庫]].
+This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]]. Read it against [[cooperative-banks/okazaki-shinkin|岡崎信用金庫]] and [[cooperative-banks/hamamatsu-iwata-shinkin|浜松磐田信用金庫]] for peer / contrast context inside the Chubu shinkin block (岐阜信用金庫 is the third-largest Chubu shinkin by deposits, behind those two), and against [[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]] for the broader system / regulatory boundary maintained by [[cooperative-banks/shinkin-central|信金中央金庫]].
 
 ## TL;DR
 
@@ -50,7 +50,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[coopera
 
 ## Related
 
-- [[JapanFG/INDEX|JapanFG index]]
+- [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 - [[cooperative-banks/shinkin-central|信金中央金庫]]
 - [[cooperative-banks/okazaki-shinkin|岡崎信用金庫]]
 - [[cooperative-banks/hamamatsu-iwata-shinkin|浜松磐田信用金庫]]

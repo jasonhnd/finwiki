@@ -26,7 +26,7 @@ sources:
 # 総合政策局 (FSA Strategy Development and Management Bureau)
 
 ## Wiki route
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[financial-regulators/fsa-supervision-bureau|FSA 監督局]] for the supervision-side counterpart and [[financial-regulators/fsa-planning-coordination-bureau|FSA 企画市場局]] for the rule-making counterpart. For the BoJ-side international policy lane, anchor through [[financial-regulators/boj-international-dept|BoJ 国際局]], and for the broader regulatory perimeter through [[financial-licenses/INDEX|legal / financial licenses]].
+This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]]. Read it against [[financial-regulators/fsa-supervision-bureau|FSA 監督局]] for the supervision-side counterpart and [[financial-regulators/fsa-planning-coordination-bureau|FSA 企画市場局]] for the rule-making counterpart. For the BoJ-side international policy lane, anchor through [[financial-regulators/boj-international-dept|BoJ 国際局]], and for the broader regulatory perimeter through [[financial-licenses/INDEX|legal / financial licenses]].
 
 ## TL;DR
 

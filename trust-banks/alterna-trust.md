@@ -23,7 +23,7 @@ sources:
 
 ## Wiki route
 
-Alterna Trust is a standalone trust-company route under [[JapanFG/INDEX|JapanFG]] and is promoted from [[trust-banks/trust-companies-japan-index|the Japan trust companies registry index]]. Read it with [[payment-firms/progmat|Progmat]], [[fintech/jp-stablecoin-progmat|Progmat stablecoin / digital asset route]], [[securities/osaka-digital-exchange|ODX]], and [[trust-banks/smtb|SMTB]].
+Alterna Trust is a standalone trust-company route under [[trust-banks/INDEX|trust-banks INDEX]] and is promoted from [[trust-banks/trust-companies-japan-index|the Japan trust companies registry index]]. Read it with [[payment-firms/progmat|Progmat]], [[fintech/jp-stablecoin-progmat|Progmat stablecoin / digital asset route]], [[securities/osaka-digital-exchange|ODX]], and [[trust-banks/smtb|SMTB]].
 
 Use this page for digital securities, security-token trust, beneficiary-certificate issuing trust, and trust-company platform questions.
 
@@ -70,7 +70,7 @@ The page should not imply that Alterna Trust itself is the exchange, broker, or 
 
 ## Related
 
-- [[JapanFG/INDEX]]
+- [[trust-banks/INDEX]]
 - [[trust-banks/trust-companies-japan-index]]
 - [[trust-banks/smtb]]
 - [[payment-firms/progmat]]

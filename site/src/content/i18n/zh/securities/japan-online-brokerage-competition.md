@@ -14,7 +14,7 @@ translated_at: 2026-06-01T03:31:12.300Z
 
 日本的在线经纪竞争现在不再是简单的“廉价佣金”竞赛，而是更多关于收购渠道：NISA 账户、积分计划、银行联系、信用卡积累、应用程序分发、SOR / PTS 执行、产品广度和财富保留路径。
 
-使用 [[securities/nisa-2024-flow|NISA 2024 flow]]、[[financial-licenses/securities-license-stack|Japan securities license stack]]、[[securities/financial-instruments-business-operators-japan-index|FIEA operator registry index]] 和 [[loyalty/japan-points-landscape|Japan points landscape]] 阅读本页。公司特定的结论仍然属于相关的 [[JapanFG/INDEX|JapanFG]] 页面。
+使用 [[securities/nisa-2024-flow|NISA 2024 flow]]、[[financial-licenses/securities-license-stack|Japan securities license stack]]、[[securities/financial-instruments-business-operators-japan-index|FIEA operator registry index]] 和 [[loyalty/japan-points-landscape|Japan points landscape]] 阅读本页。公司特定的结论仍然属于相关的 [[securities/INDEX|securities INDEX]] 页面。
 
 ## 有竞争力的轴
 

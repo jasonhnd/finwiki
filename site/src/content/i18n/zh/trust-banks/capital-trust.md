@@ -1,5 +1,5 @@
 ---
-source: japanfg/capital-trust
+source: trust-banks/capital-trust
 source_hash: aeb430e8a253bfd4
 lang: zh
 status: machine
@@ -10,7 +10,7 @@ translated_at: 2026-05-31T11:13:44.955Z
 
 # Capital Trust / キャピタル信託
 
-Wiki route: [[JapanFG/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/capital-trust]]
+Wiki route: [[trust-banks/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/capital-trust]]
 
 ## 概览
 

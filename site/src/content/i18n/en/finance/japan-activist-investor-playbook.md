@@ -12,7 +12,7 @@ translated_at: 2026-05-31T06:16:15.738Z
 
 ## Wiki route
 
-This page sits under [[finance/INDEX|finance domain]]. Read it with [[finance/japan-tender-offer-process|Japan tender offer process]], [[securities/INDEX|securities domain]], [[JapanFG/INDEX|JapanFG index]], and [[securities/tokyo-stock-exchange|Tokyo Stock Exchange]] when engagement becomes public-company disclosure, voting, or control analysis.
+This page sits under [[finance/INDEX|finance domain]]. Read it with [[finance/japan-tender-offer-process|Japan tender offer process]], [[securities/INDEX|securities domain]], [[finance/INDEX|finance INDEX]], and [[securities/tokyo-stock-exchange|Tokyo Stock Exchange]] when engagement becomes public-company disclosure, voting, or control analysis.
 
 ## Overview
 

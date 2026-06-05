@@ -1,5 +1,5 @@
 ---
-source: japanfg/atone
+source: payment-firms/atone
 source_hash: 62ed8ed5c6e66882
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T11:13:44.952Z
 
 ## Wiki 路线
 
-本条目位于 [[JapanFG/INDEX|JapanFG 索引]] 之下，是消费者侧 **BNPL 钱包**品牌页面。应与 [[payment-firms/bnpl-landscape|日本 BNPL 格局]]、母公司 [[payment-firms/net-protections-hd|Net Protections HD]] 以及直接竞品 [[payment-firms/paidy|Paidy]] 对照阅读。[[payments/japan-bnpl-credit-purchase-boundary|BNPL 与信用购买边界]] 提供监管框架，[[payments/credit-purchase-card-operators-japan-index|METI 信用购买注册表]] 提供登记证据，[[payments/japan-payment-scheme-economics-matrix|日本支付方案经济性矩阵]] 说明 atone 在卡支付和码支付之间的位置。
+本条目位于 [[payment-firms/INDEX|payment-firms INDEX]] 之下，是消费者侧 **BNPL 钱包**品牌页面。应与 [[payment-firms/bnpl-landscape|日本 BNPL 格局]]、母公司 [[payment-firms/net-protections-hd|Net Protections HD]] 以及直接竞品 [[payment-firms/paidy|Paidy]] 对照阅读。[[payments/japan-bnpl-credit-purchase-boundary|BNPL 与信用购买边界]] 提供监管框架，[[payments/credit-purchase-card-operators-japan-index|METI 信用购买注册表]] 提供登记证据，[[payments/japan-payment-scheme-economics-matrix|日本支付方案经济性矩阵]] 说明 atone 在卡支付和码支付之间的位置。
 
 ## TL;DR
 

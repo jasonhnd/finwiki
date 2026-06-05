@@ -1,5 +1,5 @@
 ---
-source: japanfg/kyoto-chuo-shinkin
+source: cooperative-banks/kyoto-chuo-shinkin
 source_hash: c067ef9eea557189
 lang: ja
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-02T14:54:39.052Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に置かれる。[[cooperative-banks/osaka-shinkin|大阪信用金庫]] は同業・隣接項目との比較先であり、[[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]] は制度、登録、監督上の境界を確認するための参照先である。本文は公開情報に基づき、会社または制度項目の位置づけを日本語で整理する。
+この項目は [[cooperative-banks/INDEX|cooperative-banks INDEX]] の配下に置かれる。[[cooperative-banks/osaka-shinkin|大阪信用金庫]] は同業・隣接項目との比較先であり、[[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]] は制度、登録、監督上の境界を確認するための参照先である。本文は公開情報に基づき、会社または制度項目の位置づけを日本語で整理する。
 
 ## 要約
 

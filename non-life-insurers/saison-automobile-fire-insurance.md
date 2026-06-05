@@ -29,7 +29,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]] as the operating-company anchor for the direct non-life insurer historically known as セゾン自動車火災保険, now operating as ＳＯＭＰＯダイレクト損害保険. Read it against [[non-life-insurers/sompo|SOMPO HD]] for the parent group context, [[megabanks/sony-fg|Sony FG]] for the direct-auto peer comparison, and [[card-issuers/credit-saison|Credit Saison]] for the historical Saison-group origin. Cross-link to [[insurance/saison-automobile-fire|the insurance/ deep-dive]] for the direct-channel and product-level analysis.
+This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]] as the operating-company anchor for the direct non-life insurer historically known as セゾン自動車火災保険, now operating as ＳＯＭＰＯダイレクト損害保険. Read it against [[non-life-insurers/sompo|SOMPO HD]] for the parent group context, [[megabanks/sony-fg|Sony FG]] for the direct-auto peer comparison, and [[card-issuers/credit-saison|Credit Saison]] for the historical Saison-group origin. Cross-link to [[insurance/saison-automobile-fire|the insurance/ deep-dive]] for the direct-channel and product-level analysis.
 
 ## TL;DR
 
@@ -147,7 +147,7 @@ SOMPO ホールディングス（東証 PRIME 8630）
 - [[insurance/sony-assurance]] — 直販自動車保険ピア
 - [[insurance/axa-direct]] — 直販自動車保険ピア（外資系）
 - [[insurance/INDEX]] — insurance namespace index
-- [[JapanFG/INDEX]] — JapanFG namespace index
+- [[non-life-insurers/INDEX]] — JapanFG namespace index
 
 ## Sources
 

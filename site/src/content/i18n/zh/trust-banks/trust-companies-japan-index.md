@@ -1,5 +1,5 @@
 ---
-source: japanfg/trust-companies-japan-index
+source: trust-banks/trust-companies-japan-index
 source_hash: c2c5c357efbc6c8b
 lang: zh
 status: machine
@@ -19,7 +19,7 @@ translated_at: 2026-06-01T02:31:57.179Z
 
 | 边界 | 处理方式 |
 |---|---|
-| 信托银行 | 在 [[JapanFG/INDEX]] 下保留为独立银行运营公司页面。 |
+| 信托银行 | 在 [[trust-banks/INDEX]] 下保留为独立银行运营公司页面。 |
 | 信托公司 | 在此保留完整 FSA 名单；只有在集团、上市公司、fintech、遗产、tokenization 等方面具有实质意义时才提升为独立页面。 |
 | 集团关联信托公司 | 如果集团页面已存在，则路由到集团页面；不要暗示集团页面覆盖全部信托公司细节。 |
 | 长尾信托公司 | 仅作为注册名单保留，直到出现公开来源理由可提升。 |
@@ -99,7 +99,7 @@ translated_at: 2026-06-01T02:31:57.179Z
 
 ## Related
 
-- [[JapanFG/INDEX]]
+- [[trust-banks/INDEX]]
 - [[financial-regulators/missing-financial-institutions-backlog]]
 - [[trust-banks/mitsubishi-ufj-trust-bank]]
 - [[trust-banks/mizuho-trust-bank]]

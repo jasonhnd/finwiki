@@ -36,7 +36,7 @@
       "https://www.kyogin.co.jp/about/philosophy/"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it with banking index for adjacent context and JapanFG index for the broader system boundary.",
+  "summary": "This entry sits under regional-banks INDEX. Read it with banking index for adjacent context and JapanFG index for the broader system boundary.",
   "headings": [
     "佐賀共栄銀行",
     "Wiki route",
@@ -50,30 +50,30 @@
   "body_links": {
     "wikilinks_count": 7,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "banking/regional-bank-consolidation-pattern",
       "financial-licenses/INDEX",
       "fukuoka-bank",
       "nishi-nippon-city-bank",
+      "regional-banks/INDEX",
       "saga-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
       "https://finwiki.zksc.io/financial-licenses/INDEX",
       "https://finwiki.zksc.io/fukuoka-bank",
       "https://finwiki.zksc.io/nishi-nippon-city-bank",
+      "https://finwiki.zksc.io/regional-banks/INDEX",
       "https://finwiki.zksc.io/saga-bank"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1752,
-    "word_like_tokens": 278,
+    "nonspace_chars": 1766,
+    "word_like_tokens": 280,
     "inbound_wikilinks_count": 1,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

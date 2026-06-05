@@ -1,5 +1,5 @@
 ---
-source: japanfg/daiwa-asset-management
+source: asset-managers/daiwa-asset-management
 source_hash: 963f90e051afa149
 lang: ja
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-06-02T14:25:12.404Z
 
 ## ウィキ上の位置づけ
 
-本項目は [[JapanFG/INDEX|JapanFG index]] の配下に置く。[[asset-managers/asset-management-one|アセットマネジメントOne]] を同業・対比の文脈として、[[securities/INDEX|securities index]] をより広い制度・規制境界として併読する。
+本項目は [[asset-managers/INDEX|asset-managers INDEX]] の配下に置く。[[asset-managers/asset-management-one|アセットマネジメントOne]] を同業・対比の文脈として、[[securities/INDEX|securities index]] をより広い制度・規制境界として併読する。
 
 ## 要約
 

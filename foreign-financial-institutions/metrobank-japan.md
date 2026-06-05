@@ -25,7 +25,7 @@ sources:
 
 ## Wiki route
 
-Metrobank Japan sits under [[JapanFG/INDEX|JapanFG index]] and is a Philippines-Japan corridor page in [[foreign-financial-institutions/foreign-bank-branches-japan-index|the foreign-bank branch registry]]. Read it with [[foreign-financial-institutions/philippine-national-bank-japan|Philippine National Bank Japan]], [[payments/funds-transfer-service-providers-japan-index|funds-transfer registry]], [[financial-licenses/foreign-bank-agency-business-route|foreign-bank agency route]], and [[payments/psp-merchant-settlement-risk|settlement-risk controls]].
+Metrobank Japan sits under [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]] and is a Philippines-Japan corridor page in [[foreign-financial-institutions/foreign-bank-branches-japan-index|the foreign-bank branch registry]]. Read it with [[foreign-financial-institutions/philippine-national-bank-japan|Philippine National Bank Japan]], [[payments/funds-transfer-service-providers-japan-index|funds-transfer registry]], [[financial-licenses/foreign-bank-agency-business-route|foreign-bank agency route]], and [[payments/psp-merchant-settlement-risk|settlement-risk controls]].
 
 Use this page for Metropolitan Bank and Trust Company Tokyo Branch, Philippine remittance, trade finance, selected corporate lending, and Japan branch consolidation.
 
@@ -71,7 +71,7 @@ For comparative analysis, open [[foreign-financial-institutions/philippine-natio
 
 ## Related
 
-- [[JapanFG/INDEX]]
+- [[foreign-financial-institutions/INDEX]]
 - [[foreign-financial-institutions/foreign-bank-branches-japan-index]]
 - [[foreign-financial-institutions/philippine-national-bank-japan]]
 - [[financial-licenses/foreign-bank-branch-license-route]]

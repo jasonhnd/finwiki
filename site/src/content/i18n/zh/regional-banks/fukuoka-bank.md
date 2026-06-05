@@ -1,5 +1,5 @@
 ---
-source: japanfg/fukuoka-bank
+source: regional-banks/fukuoka-bank
 source_hash: 68385f987e44a711
 lang: zh
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-05-31T15:29:03.951Z
 
 ## Wiki 路径
 
-本条目位于 [[JapanFG/INDEX|JapanFG 索引]] 之下。可与 [[regional-banks/nishi-nippon-city-bank|西日本城市银行]] 对照阅读，并结合 [[banking/INDEX|银行索引]] 理解更广泛的体系与监管边界。
+本条目位于 [[regional-banks/INDEX|regional-banks INDEX]] 之下。可与 [[regional-banks/nishi-nippon-city-bank|西日本城市银行]] 对照阅读，并结合 [[banking/INDEX|银行索引]] 理解更广泛的体系与监管边界。
 
 ## TL;DR
 

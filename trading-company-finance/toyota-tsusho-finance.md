@@ -26,7 +26,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[leasing-firms/toyota-financial|トヨタファイナンシャルサービス (TFS)]] (the Toyota-group **captive auto-finance** holding, distinct from this 商社系 internal-treasury arm) and [[card-issuers/toyota-finance|トヨタファイナンス]] (the auto-loan / Toyota dealer finance operating company). For peer 商社系 group-treasury arms, see [[trading-company-finance/mitsubishi-corp-finance|三菱商事FS]], [[trading-company-finance/mitsui-bussan-financial-services|三井物産FS]], [[trading-company-finance/sumitomo-corp-financial-management|住友商事FM]], [[trading-company-finance/itochu-finance|伊藤忠ファイナンス]], [[trading-company-finance/marubeni-financial-services|丸紅フィナンス]]. See [[banking/INDEX|banking index]] for the broader regulatory boundary.
+This entry sits under [[trading-company-finance/INDEX|trading-company-finance INDEX]]. Read it against [[leasing-firms/toyota-financial|トヨタファイナンシャルサービス (TFS)]] (the Toyota-group **captive auto-finance** holding, distinct from this 商社系 internal-treasury arm) and [[card-issuers/toyota-finance|トヨタファイナンス]] (the auto-loan / Toyota dealer finance operating company). For peer 商社系 group-treasury arms, see [[trading-company-finance/mitsubishi-corp-finance|三菱商事FS]], [[trading-company-finance/mitsui-bussan-financial-services|三井物産FS]], [[trading-company-finance/sumitomo-corp-financial-management|住友商事FM]], [[trading-company-finance/itochu-finance|伊藤忠ファイナンス]], [[trading-company-finance/marubeni-financial-services|丸紅フィナンス]]. See [[banking/INDEX|banking index]] for the broader regulatory boundary.
 
 ## 1. 会社概要
 

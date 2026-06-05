@@ -17,7 +17,7 @@ sources:
 
 # HS Insurance / エイチ・エス損害保険
 
-Wiki route: [[JapanFG/INDEX]] -> [[insurance/INDEX]] -> [[non-life-insurers/hs-insurance]]
+Wiki route: [[non-life-insurers/INDEX]] -> [[insurance/INDEX]] -> [[non-life-insurers/hs-insurance]]
 
 ## Overview
 

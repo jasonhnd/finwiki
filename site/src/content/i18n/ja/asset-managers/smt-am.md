@@ -1,5 +1,5 @@
 ---
-source: japanfg/smt-am
+source: asset-managers/smt-am
 source_hash: 8110062bb5fbe309
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T15:14:17.082Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に置かれる。比較文脈として [[asset-managers/asset-management-one|アセットマネジメントOne]]、FIEA上の免許境界として [[financial-licenses/securities-license-stack|securities license stack]]、登録レイヤーとして [[securities/financial-instruments-business-operators-japan-index|FSA 金商業者 index]] とあわせて読む。
+この項目は [[asset-managers/INDEX|asset-managers INDEX]] の配下に置かれる。比較文脈として [[asset-managers/asset-management-one|アセットマネジメントOne]]、FIEA上の免許境界として [[financial-licenses/securities-license-stack|securities license stack]]、登録レイヤーとして [[securities/financial-instruments-business-operators-japan-index|FSA 金商業者 index]] とあわせて読む。
 
 ## 要約
 

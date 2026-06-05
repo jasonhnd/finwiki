@@ -1,5 +1,5 @@
 ---
-source: japanfg/mitsubishi-hc-capital
+source: leasing-firms/mitsubishi-hc-capital
 source_hash: ce0ef803df2142a6
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:59:49.356Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[leasing-firms/orix-corp|オリックス株式会社 (ORIX Corporation)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+This entry sits under [[leasing-firms/INDEX|leasing-firms INDEX]]. Read it against [[leasing-firms/orix-corp|オリックス株式会社 (ORIX Corporation)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 

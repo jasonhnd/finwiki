@@ -1,5 +1,5 @@
 ---
-source: japanfg/kiyo-bank
+source: regional-banks/kiyo-bank
 source_hash: 0b1c1d794edd2cb3
 lang: ja
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-02T14:54:39.037Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に置く。[[regional-banks/ikeda-senshu-hd|池田泉州ホールディングス]] は同業比較・対照の文脈、[[banking/INDEX|banking index]] はより広い制度・規制上の境界として読む。
+この項目は [[regional-banks/INDEX|regional-banks INDEX]] の配下に置く。[[regional-banks/ikeda-senshu-hd|池田泉州ホールディングス]] は同業比較・対照の文脈、[[banking/INDEX|banking index]] はより広い制度・規制上の境界として読む。
 
 ## 要約
 

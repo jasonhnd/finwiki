@@ -40,7 +40,7 @@
       "https://www.senshuikeda-hd.co.jp/ir/e-koukoku/management_plan/index.html (第 5 次中期経営計画 Plus)"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 京都フィナンシャルグループ for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under regional-banks INDEX. Read it against 京都フィナンシャルグループ for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [
     "池田泉州ホールディングス",
     "Wiki route",
@@ -56,7 +56,6 @@
   "body_links": {
     "wikilinks_count": 15,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "concordia-fg",
       "fukuoka-fg",
@@ -65,6 +64,7 @@
       "mufg",
       "paypay-fg",
       "rakuten-fg",
+      "regional-banks/INDEX",
       "regional-banks/kyoto-fg",
       "resona-hd",
       "sbi-hd",
@@ -73,7 +73,6 @@
       "sumitomo-mitsui-trust"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/concordia-fg",
       "https://finwiki.zksc.io/fukuoka-fg",
@@ -82,6 +81,7 @@
       "https://finwiki.zksc.io/mufg",
       "https://finwiki.zksc.io/paypay-fg",
       "https://finwiki.zksc.io/rakuten-fg",
+      "https://finwiki.zksc.io/regional-banks/INDEX",
       "https://finwiki.zksc.io/regional-banks/kyoto-fg",
       "https://finwiki.zksc.io/resona-hd",
       "https://finwiki.zksc.io/sbi-hd",
@@ -93,9 +93,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5576,
-    "word_like_tokens": 977,
+    "nonspace_chars": 5590,
+    "word_like_tokens": 979,
     "inbound_wikilinks_count": 6,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

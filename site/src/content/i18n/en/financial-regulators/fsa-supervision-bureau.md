@@ -1,5 +1,5 @@
 ---
-source: japanfg/fsa-supervision-bureau
+source: financial-regulators/fsa-supervision-bureau
 source_hash: 0c98d49f6e8ec61f
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T15:29:03.899Z
 # FSA Supervision Bureau
 
 ## Wiki route
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[financial-regulators/fsa-planning-coordination-bureau|FSA 企画市場局]] for the rule-making counterpart inside the FSA, [[financial-regulators/fsa-strategy-bureau|FSA 総合政策局]] for the strategy / cross-bureau layer, and [[financial-regulators/boj-financial-system-dept|BoJ 金融機構局]] for the central-bank-side prudential anchor. For the licensing perimeter, anchor through [[financial-licenses/INDEX|legal / financial licenses]] and [[banking/INDEX|banking landscape]].
+This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]]. Read it against [[financial-regulators/fsa-planning-coordination-bureau|FSA 企画市場局]] for the rule-making counterpart inside the FSA, [[financial-regulators/fsa-strategy-bureau|FSA 総合政策局]] for the strategy / cross-bureau layer, and [[financial-regulators/boj-financial-system-dept|BoJ 金融機構局]] for the central-bank-side prudential anchor. For the licensing perimeter, anchor through [[financial-licenses/INDEX|legal / financial licenses]] and [[banking/INDEX|banking landscape]].
 
 ##TL;DR
 

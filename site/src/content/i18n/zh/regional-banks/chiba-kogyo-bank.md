@@ -1,5 +1,5 @@
 ---
-source: japanfg/chiba-kogyo-bank
+source: regional-banks/chiba-kogyo-bank
 source_hash: 9f57a1966f84b084
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T11:13:44.932Z
 
 ## 维基路线
 
-该条目位于[[JapanFG/INDEX|JapanFG index]]下。对照[[regional-banks/jimoto-hd|じもとホールディングス (JIMOTO HD)]]了解同行/对比环境，对照[[banking/INDEX|banking index]]了解更广泛的系统/监管边界。
+该条目位于[[regional-banks/INDEX|regional-banks INDEX]]下。对照[[regional-banks/jimoto-hd|じもとホールディングス (JIMOTO HD)]]了解同行/对比环境，对照[[banking/INDEX|banking index]]了解更广泛的系统/监管边界。
 
 ##TL;博士
 

@@ -1,5 +1,5 @@
 ---
-source: japanfg/kpmg-azsa
+source: financial-regulators/kpmg-azsa
 source_hash: 91900b3d7f816160
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:59:49.375Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it alongside [[financial-regulators/ey-shinnihon|EY 新日本]] and [[financial-regulators/deloitte-touche-tohmatsu|トーマツ]] for peer Big 4  audit context, and [[financial-licenses/INDEX|金融ライセンス INDEX]] for the regulatory boundary of the Certified Public Accountants Act / audit quality control. The CPAAOB supervision context is under the jurisdiction of [[financial-regulators/fsa-supervision-bureau|金融庁 監督局]] and [[financial-regulators/fsa-strategy-bureau|金融庁 総合政策局]].
+This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]]. Read it alongside [[financial-regulators/ey-shinnihon|EY 新日本]] and [[financial-regulators/deloitte-touche-tohmatsu|トーマツ]] for peer Big 4  audit context, and [[financial-licenses/INDEX|金融ライセンス INDEX]] for the regulatory boundary of the Certified Public Accountants Act / audit quality control. The CPAAOB supervision context is under the jurisdiction of [[financial-regulators/fsa-supervision-bureau|金融庁 監督局]] and [[financial-regulators/fsa-strategy-bureau|金融庁 総合政策局]].
 
 ## 1. Entity overview
 

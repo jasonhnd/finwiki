@@ -36,7 +36,7 @@ Zenginkyō (Japanese Bankers Association, JBA) is Japan's primary industry body 
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it alongside peer industry bodies [[financial-regulators/zenchugin-kyo|Regional Banks Association]], [[financial-regulators/dai2-chigin-kyo|Second Association of Regional Banks]], [[financial-regulators/zenshin-kyo|Zenshin-kyō (shinkin national association)]], and [[financial-regulators/shintaku-kyokai|Trust Companies Association of Japan]]. For the statutory backdrop see [[financial-licenses/INDEX]] and [[financial-licenses/bank-license-and-baas-boundary]]; for the deposit-protection counterpart see [[financial-regulators/yokin-hoken-kiko|Deposit Insurance Corporation of Japan]]; for the broader bank universe see [[banking/INDEX]].
+This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]]. Read it alongside peer industry bodies [[financial-regulators/zenchugin-kyo|Regional Banks Association]], [[financial-regulators/dai2-chigin-kyo|Second Association of Regional Banks]], [[financial-regulators/zenshin-kyo|Zenshin-kyō (shinkin national association)]], and [[financial-regulators/shintaku-kyokai|Trust Companies Association of Japan]]. For the statutory backdrop see [[financial-licenses/INDEX]] and [[financial-licenses/bank-license-and-baas-boundary]]; for the deposit-protection counterpart see [[financial-regulators/yokin-hoken-kiko|Deposit Insurance Corporation of Japan]]; for the broader bank universe see [[banking/INDEX]].
 
 ## Legal route / statutory position (法令の根拠)
 
@@ -77,7 +77,7 @@ Banking entries across [[banking/INDEX]] frequently cite "Zenginkyō standard" f
 
 ## Related
 
-- [[JapanFG/INDEX|JapanFG index]]
+- [[financial-regulators/INDEX|financial-regulators INDEX]]
 - [[financial-regulators/zenchugin-kyo|Regional Banks Association of Japan]]
 - [[financial-regulators/dai2-chigin-kyo|Second Association of Regional Banks]]
 - [[financial-regulators/zenshin-kyo|National Association of Shinkin Banks]]

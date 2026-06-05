@@ -1,5 +1,5 @@
 ---
-source: japanfg/visa-worldwide-japan
+source: payment-firms/visa-worldwide-japan
 source_hash: 09054443887fd7a1
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.106Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[card-issuers/jcb|JCB]] for peer / contrast context: Visa is a global pure scheme, while JCB is a Japan-origin hybrid. Read [[payments/japan-card-issuer-acquirer-processor-split|Japan card issuer / acquirer / processor split]] for the broader system / regulatory boundary.
+This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it against [[card-issuers/jcb|JCB]] for peer / contrast context: Visa is a global pure scheme, while JCB is a Japan-origin hybrid. Read [[payments/japan-card-issuer-acquirer-processor-split|Japan card issuer / acquirer / processor split]] for the broader system / regulatory boundary.
 
 ## TL;DR
 

@@ -1,5 +1,5 @@
 ---
-source: japanfg/resona-hd
+source: megabanks/resona-hd
 source_hash: f3e62e90a721f678
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T00:41:50.445Z
 
 ## Wiki route
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可与 [[foreign-financial-institutions/citigroup-japan|シティグループ・ジャパン (Citigroup Japan)]] 对照阅读同业 / 对比语境，并与 [[banking/INDEX|banking index]] 阅读更广泛的系统 / 监管边界。
+本条目位于 [[megabanks/INDEX|megabanks INDEX]] 之下。可与 [[foreign-financial-institutions/citigroup-japan|シティグループ・ジャパン (Citigroup Japan)]] 对照阅读同业 / 对比语境，并与 [[banking/INDEX|banking index]] 阅读更广泛的系统 / 监管边界。
 
 ## TL;DR
 

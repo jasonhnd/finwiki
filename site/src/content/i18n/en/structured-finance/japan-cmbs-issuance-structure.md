@@ -97,7 +97,7 @@ CMBS deals in Japan typically use a TMK (specified purpose company) under the as
 
 CMBS risk depends primarily on the underlying property's cash flow. Office, retail, hotel, logistics, and residential-investment property all have different risk profiles. See [[real-estate-finance/INDEX]] for the underlying real-estate-finance lane.
 
-J-REIT debt overlap: J-REITs ([[JapanFG/INDEX]] for sponsor lineage) often borrow secured by their portfolio properties, but those loans are not securitized as CMBS — they are direct bank loans or J-REIT-issued unsecured bonds.
+J-REIT debt overlap: J-REITs ([[structured-finance/INDEX]] for sponsor lineage) often borrow secured by their portfolio properties, but those loans are not securitized as CMBS — they are direct bank loans or J-REIT-issued unsecured bonds.
 
 ## Related
 

@@ -1,5 +1,5 @@
 ---
-source: japanfg/ryukyu-bank
+source: regional-banks/ryukyu-bank
 source_hash: 119cd07925f30f56
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T15:14:17.140Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に位置する。比較・対照の文脈では [[regional-banks/okinawa-fg|おきなわ FG (Okinawa FG)]]、より広い制度上・規制上の境界については [[banking/INDEX|banking index]] とあわせて読む。
+この項目は [[regional-banks/INDEX|regional-banks INDEX]] の配下に位置する。比較・対照の文脈では [[regional-banks/okinawa-fg|おきなわ FG (Okinawa FG)]]、より広い制度上・規制上の境界については [[banking/INDEX|banking index]] とあわせて読む。
 
 ## 要約
 

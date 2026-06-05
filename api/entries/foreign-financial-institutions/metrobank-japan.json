@@ -39,7 +39,7 @@
       "https://www.metrobank.com.ph/articles/remittance-directory-asia"
     ]
   },
-  "summary": "Metrobank Japan sits under JapanFG index and is a Philippines-Japan corridor page in the foreign-bank branch registry. Read it with Philippine National Bank Japan, funds-transfer registry, foreign-bank agency route, and settlement-risk controls.",
+  "summary": "Metrobank Japan sits under foreign-financial-institutions INDEX and is a Philippines-Japan corridor page in the foreign-bank branch registry. Read it with Philippine National Bank Japan, funds-transfer registry, foreign-bank agency route, and settlement-risk controls.",
   "headings": [
     "メトロポリタン銀行日本 (Metrobank Japan)",
     "Wiki route",
@@ -55,9 +55,9 @@
     "wikilinks_count": 11,
     "wikilinks": [
       "INDEX",
-      "JapanFG/INDEX",
       "financial-licenses/foreign-bank-agency-business-route",
       "financial-licenses/foreign-bank-branch-license-route",
+      "foreign-financial-institutions/INDEX",
       "foreign-financial-institutions/foreign-bank-branches-japan-index",
       "foreign-financial-institutions/philippine-national-bank-japan",
       "payment-firms/sbi-remit",
@@ -68,9 +68,9 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/financial-licenses/foreign-bank-agency-business-route",
       "https://finwiki.zksc.io/financial-licenses/foreign-bank-branch-license-route",
+      "https://finwiki.zksc.io/foreign-financial-institutions/INDEX",
       "https://finwiki.zksc.io/foreign-financial-institutions/foreign-bank-branches-japan-index",
       "https://finwiki.zksc.io/foreign-financial-institutions/philippine-national-bank-japan",
       "https://finwiki.zksc.io/payment-firms/sbi-remit",
@@ -83,9 +83,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4391,
-    "word_like_tokens": 654,
+    "nonspace_chars": 4460,
+    "word_like_tokens": 660,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

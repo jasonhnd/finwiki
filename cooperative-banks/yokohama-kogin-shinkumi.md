@@ -29,7 +29,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **首都圏 (Kanagawa) ethnic-business shinkumi anchor** within the 143-cooperative population catalogued in [[banking/credit-cooperative-registry-japan|Japan credit cooperative registry]]. Read it against [[cooperative-banks/osaka-shogin-shinkumi|大阪商銀信用組合]] for the Kansai counterpart in the Korean-business shinkumi network and [[cooperative-banks/zenshin-kumi|全信組連]] for the cooperative-system parent.
+This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as a **首都圏 (Kanagawa) ethnic-business shinkumi anchor** within the 143-cooperative population catalogued in [[banking/credit-cooperative-registry-japan|Japan credit cooperative registry]]. Read it against [[cooperative-banks/osaka-shogin-shinkumi|大阪商銀信用組合]] for the Kansai counterpart in the Korean-business shinkumi network and [[cooperative-banks/zenshin-kumi|全信組連]] for the cooperative-system parent.
 
 ## TL;DR
 
@@ -125,7 +125,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **首都圏 (Kanagawa
 - [[financial-regulators/dic]] — 預金保険機構
 - [[banking/credit-cooperative-registry-japan]] — Japan credit cooperative registry (143 shinkumi 全体)
 - [[banking/cooperative-banking-japan]] — 協同組織金融全体
-- [[JapanFG/INDEX|JapanFG index]]
+- [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 
 ## Sources
 

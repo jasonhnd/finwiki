@@ -263,7 +263,6 @@ This checklist supports reproducible Japan-securitization-market analysis from p
 - [[real-estate-finance/INDEX|real-estate-finance index]]
 - [[real-estate-finance/japan-cmbs-rmbs-securitization|Japan CMBS/RMBS securitization]]
 - [[banking/INDEX|banking index]]
-- [[JapanFG/INDEX|JapanFG index]]
 - [[card-issuers/toyota-finance|Toyota Finance]]
 - [[card-issuers/orico|Orico]]
 - [[card-issuers/jaccs|JACCS]]

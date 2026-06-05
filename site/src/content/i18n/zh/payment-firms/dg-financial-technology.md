@@ -1,5 +1,5 @@
 ---
-source: japanfg/dg-financial-technology
+source: payment-firms/dg-financial-technology
 source_hash: 22098fe575369cad
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T15:29:03.949Z
 
 ## Wiki 路径
 
-本条目位于 [[JapanFG/INDEX|JapanFG 索引]] 下。可与 [[payment-firms/sb-payment-service|SB Payment Service]] 和 [[payments/INDEX|支付索引]] 对照阅读，以理解日本非银行商户支付基础设施的竞争格局。
+本条目位于 [[payment-firms/INDEX|payment-firms INDEX]] 下。可与 [[payment-firms/sb-payment-service|SB Payment Service]] 和 [[payments/INDEX|支付索引]] 对照阅读，以理解日本非银行商户支付基础设施的竞争格局。
 
 ## TL;DR
 

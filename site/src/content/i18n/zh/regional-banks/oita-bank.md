@@ -1,5 +1,5 @@
 ---
-source: japanfg/oita-bank
+source: regional-banks/oita-bank
 source_hash: dc4fa33d973dae44
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-01T00:41:50.462Z
 
 ## Wiki 路径
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可与 [[regional-banks/fukuoka-bank|福岡銀行]] 对读以理解同业和对比关系，并与 [[banking/INDEX|banking index]] 对读以把握更广的制度 / 监管边界。
+本条目位于 [[regional-banks/INDEX|regional-banks INDEX]] 之下。可与 [[regional-banks/fukuoka-bank|福岡銀行]] 对读以理解同业和对比关系，并与 [[banking/INDEX|banking index]] 对读以把握更广的制度 / 监管边界。
 
 ## TL;DR
 

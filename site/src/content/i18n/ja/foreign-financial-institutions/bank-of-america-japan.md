@@ -1,5 +1,5 @@
 ---
-source: japanfg/bank-of-america-japan
+source: foreign-financial-institutions/bank-of-america-japan
 source_hash: 839afef56a405984
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:01:20.917Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の下に位置する。ピア / 対比の文脈は [[foreign-financial-institutions/socgen-japan|ソシエテ・ジェネラル日本 (Societe Generale Japan)]]、より広いシステム / 規制境界は [[banking/INDEX|banking index]] と照らして読む。
+この項目は [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]] の下に位置する。ピア / 対比の文脈は [[foreign-financial-institutions/socgen-japan|ソシエテ・ジェネラル日本 (Societe Generale Japan)]]、より広いシステム / 規制境界は [[banking/INDEX|banking index]] と照らして読む。
 
 ## 要約
 

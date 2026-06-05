@@ -1,5 +1,5 @@
 ---
-source: japanfg/barclays-japan
+source: foreign-financial-institutions/barclays-japan
 source_hash: ccf484a60c76c53e
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T11:13:44.892Z
 
 ## 维基路线
 
-该条目位于 [[JapanFG/INDEX|JapanFG index]]。阅读它反对 [[foreign-financial-institutions/citigroup-japan|シティグループ・ジャパン (Citigroup Japan)]] 对于同行/对比上下文和 [[banking/INDEX|banking index]] 适用于更广泛的系统/监管边界。
+该条目位于 [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]]。阅读它反对 [[foreign-financial-institutions/citigroup-japan|シティグループ・ジャパン (Citigroup Japan)]] 对于同行/对比上下文和 [[banking/INDEX|banking index]] 适用于更广泛的系统/监管边界。
 
 ##TL;博士
 

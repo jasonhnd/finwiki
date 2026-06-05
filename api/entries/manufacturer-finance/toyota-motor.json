@@ -35,7 +35,7 @@
       "https://global.toyota/en/company/profile/other-toyota-businesses/finance/"
     ]
   },
-  "summary": "This entry sits under manufacturing index. Read it against Seiko Epson Corporation (セイコーエプソン) for peer / contrast context and JapanFG index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under manufacturing index. Read it against Seiko Epson Corporation (セイコーエプソン) for peer / contrast context and manufacturer-finance INDEX for the broader system / regulatory boundary.",
   "headings": [
     "Toyota Motor Corporation (トヨタ自動車)",
     "Wiki route",
@@ -48,10 +48,9 @@
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 8,
+    "wikilinks_count": 7,
     "wikilinks": [
       "INDEX",
-      "JapanFG/INDEX",
       "leasing-firms/toyota-financial",
       "manufacturer-finance/INDEX",
       "manufacturer-finance/seiko-epson",
@@ -61,7 +60,6 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/leasing-firms/toyota-financial",
       "https://finwiki.zksc.io/manufacturer-finance/INDEX",
       "https://finwiki.zksc.io/manufacturer-finance/seiko-epson",
@@ -73,9 +71,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2874,
-    "word_like_tokens": 439,
+    "nonspace_chars": 2900,
+    "word_like_tokens": 441,
     "inbound_wikilinks_count": 11,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

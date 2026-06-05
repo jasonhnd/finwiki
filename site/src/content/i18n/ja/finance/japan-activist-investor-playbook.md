@@ -12,7 +12,7 @@ translated_at: 2026-06-02T13:21:55.082Z
 
 ## ウィキ上の位置づけ
 
-このページは [[finance/INDEX|finance domain]] の下に位置する。エンゲージメントが上場会社開示、議決権行使、または支配権分析に関わる場合は、[[finance/japan-tender-offer-process|Japan tender offer process]]、[[securities/INDEX|securities domain]]、[[JapanFG/INDEX|JapanFG index]]、[[securities/tokyo-stock-exchange|Tokyo Stock Exchange]] とあわせて読む。
+このページは [[finance/INDEX|finance domain]] の下に位置する。エンゲージメントが上場会社開示、議決権行使、または支配権分析に関わる場合は、[[finance/japan-tender-offer-process|Japan tender offer process]]、[[securities/INDEX|securities domain]]、[[finance/INDEX|finance INDEX]]、[[securities/tokyo-stock-exchange|Tokyo Stock Exchange]] とあわせて読む。
 
 ## 概要
 

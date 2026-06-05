@@ -1,5 +1,5 @@
 ---
-source: japanfg/suruga-bank
+source: regional-banks/suruga-bank
 source_hash: 20e63ffad4da2c85
 lang: ja
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-02T15:14:17.154Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に置く。[[regional-banks/fukuoka-fg|ふくおか FG (FFG)]] は同業・比較対象の文脈として、[[banking/INDEX|banking index]] はより広い制度・規制上の境界として併読する。
+この項目は [[regional-banks/INDEX|regional-banks INDEX]] の配下に置く。[[regional-banks/fukuoka-fg|ふくおか FG (FFG)]] は同業・比較対象の文脈として、[[banking/INDEX|banking index]] はより広い制度・規制上の境界として併読する。
 
 ## 要約
 

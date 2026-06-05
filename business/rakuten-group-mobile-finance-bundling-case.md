@@ -25,7 +25,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[business/INDEX|business INDEX]] as a public-company strategic case. Read it against [[business/ntt-docomo-d-point-telco-finance-case|NTT Docomo d-Point telco-finance case]] for the contrast pattern where telco subsidizes finance instead of the reverse, [[business/gmo-internet-group|GMO Internet Group]] for the internet-to-finance conglomerate parallel, and [[business/kitao-yoshitaka-sbi-independent-strategy-case|Kitao Yoshitaka SBI independent strategy]] for the contrasting independent-FG path. Pair with [[JapanFG/INDEX|JapanFG INDEX]] for entity coverage.
+This entry sits under [[business/INDEX|business INDEX]] as a public-company strategic case. Read it against [[business/ntt-docomo-d-point-telco-finance-case|NTT Docomo d-Point telco-finance case]] for the contrast pattern where telco subsidizes finance instead of the reverse, [[business/gmo-internet-group|GMO Internet Group]] for the internet-to-finance conglomerate parallel, and [[business/kitao-yoshitaka-sbi-independent-strategy-case|Kitao Yoshitaka SBI independent strategy]] for the contrasting independent-FG path. Pair with [[business/INDEX|business INDEX]] for entity coverage.
 
 ## TL;DR
 

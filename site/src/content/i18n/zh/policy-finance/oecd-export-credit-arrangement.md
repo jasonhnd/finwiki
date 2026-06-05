@@ -102,7 +102,7 @@ MPR 是根据 CRC、期限、交易结构（主权、相邻主权、公司）和
 
 ### 3.1 船舶部门了解（SSU）
 
-规范船舶出口的出口信贷。自交付起最长期限为 12 年，最低首付为 20%，特定行业 MPR。调整一般安排规则以适应造船业经济。与日本造船商 ([[JapanFG/INDEX|Imabari Shipbuilding, Japan Marine United, Mitsui E&S, others]]) 以及大型银行船舶融资贷款以及 JBIC / NEXI 相关。
+规范船舶出口的出口信贷。自交付起最长期限为 12 年，最低首付为 20%，特定行业 MPR。调整一般安排规则以适应造船业经济。与日本造船商 ([[policy-finance/INDEX|policy-finance INDEX]]) 以及大型银行船舶融资贷款以及 JBIC / NEXI 相关。
 
 ### 3.2 飞机部门了解（ASU）
 

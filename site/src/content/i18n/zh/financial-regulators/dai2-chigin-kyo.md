@@ -1,5 +1,5 @@
 ---
-source: japanfg/dai2-chigin-kyo
+source: financial-regulators/dai2-chigin-kyo
 source_hash: 5e9b9658d63d65ad
 lang: zh
 status: machine
@@ -16,7 +16,7 @@ translated_at: 2026-05-31T15:29:03.917Z
 
 ## Wiki 路径
 
-本条目位于 [[JapanFG/INDEX|JapanFG 索引]] 之下。可与 [[financial-regulators/zenchugin-kyo|全国地方银行协会]] 对照，理解第一地方银行与第二地方银行的历史分层；也可与 [[financial-regulators/zenginkyo|全国银行协会]]、[[financial-regulators/zenshin-kyo|全国信用金库协会]]、[[financial-licenses/INDEX|金融牌照索引]]、[[financial-regulators/yokin-hoken-kiko|存款保险机构]] 及 [[banking/INDEX|银行索引]] 一并阅读。
+本条目位于 [[financial-regulators/INDEX|financial-regulators INDEX]] 之下。可与 [[financial-regulators/zenchugin-kyo|全国地方银行协会]] 对照，理解第一地方银行与第二地方银行的历史分层；也可与 [[financial-regulators/zenginkyo|全国银行协会]]、[[financial-regulators/zenshin-kyo|全国信用金库协会]]、[[financial-licenses/INDEX|金融牌照索引]]、[[financial-regulators/yokin-hoken-kiko|存款保险机构]] 及 [[banking/INDEX|银行索引]] 一并阅读。
 
 ## 1. 法律地位与功能
 

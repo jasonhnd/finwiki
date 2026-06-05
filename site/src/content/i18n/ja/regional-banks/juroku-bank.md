@@ -1,5 +1,5 @@
 ---
-source: japanfg/juroku-bank
+source: regional-banks/juroku-bank
 source_hash: b72134575b26fcae
 lang: ja
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-06-02T14:54:39.096Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] 配下に置く。比較・対照の文脈では [[regional-banks/hachijuni-nagano-bank|八十二長野銀行]] を、より広い制度・規制上の境界では [[banking/INDEX|banking index]] を参照する。
+この項目は [[regional-banks/INDEX|regional-banks INDEX]] 配下に置く。比較・対照の文脈では [[regional-banks/hachijuni-nagano-bank|八十二長野銀行]] を、より広い制度・規制上の境界では [[banking/INDEX|banking index]] を参照する。
 
 ## 要約
 
@@ -31,7 +31,7 @@ translated_at: 2026-06-02T14:54:39.096Z
 
 ## 2. 事業モデル
 
-十六銀行は、岐阜県を中心に個人預金、中小企業金融、法人向け融資、ウェルス・証券紹介、中京圏企業支援を担う地方銀行。[[juroku-fg]] のページは持株会社レベルの戦略を扱い、本ページは銀行免許を持つ運営主体の境界を扱う。中京圏の地方銀行文脈では [[banking/INDEX|banking index]] と [[JapanFG/INDEX|JapanFG index]] を参照する。
+十六銀行は、岐阜県を中心に個人預金、中小企業金融、法人向け融資、ウェルス・証券紹介、中京圏企業支援を担う地方銀行。[[juroku-fg]] のページは持株会社レベルの戦略を扱い、本ページは銀行免許を持つ運営主体の境界を扱う。中京圏の地方銀行文脈では [[banking/INDEX|banking index]] と [[regional-banks/INDEX|regional-banks INDEX]] を参照する。
 
 ## 3. このページが重要な理由
 

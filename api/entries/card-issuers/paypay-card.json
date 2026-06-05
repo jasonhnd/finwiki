@@ -34,7 +34,7 @@
       "https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it with payments index for adjacent context and Funds transfer vs prepaid boundary in Japan for the broader system boundary.",
+  "summary": "This entry sits under card-issuers INDEX. Read it with payments index for adjacent context and Funds transfer vs prepaid boundary in Japan for the broader system boundary.",
   "headings": [
     "PayPayカード (PayPay Card)",
     "Wiki route",
@@ -48,7 +48,7 @@
   "body_links": {
     "wikilinks_count": 10,
     "wikilinks": [
-      "JapanFG/INDEX",
+      "card-issuers/INDEX",
       "card-issuers/rakuten-card",
       "megabanks/paypay-fg",
       "payments/INDEX",
@@ -60,7 +60,7 @@
       "securities-firms/paypay-securities"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/card-issuers/INDEX",
       "https://finwiki.zksc.io/card-issuers/rakuten-card",
       "https://finwiki.zksc.io/megabanks/paypay-fg",
       "https://finwiki.zksc.io/payments/INDEX",
@@ -75,9 +75,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2174,
-    "word_like_tokens": 346,
+    "nonspace_chars": 2184,
+    "word_like_tokens": 348,
     "inbound_wikilinks_count": 24,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

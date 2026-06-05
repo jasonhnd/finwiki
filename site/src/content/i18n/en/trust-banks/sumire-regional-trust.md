@@ -1,5 +1,5 @@
 ---
-source: japanfg/sumire-regional-trust
+source: trust-banks/sumire-regional-trust
 source_hash: ff51f6b116660635
 lang: en
 status: machine
@@ -10,7 +10,7 @@ translated_at: 2026-06-01T02:31:57.153Z
 
 # Sumire Regional Trust
 
-Wiki route: [[JapanFG/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/sumire-regional-trust]]
+Wiki route: [[trust-banks/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/sumire-regional-trust]]
 
 ## Overview
 

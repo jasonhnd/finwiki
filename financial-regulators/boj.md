@@ -18,7 +18,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[financial-regulators/fsa|金融庁]] for the regulatory counterpart, [[financial-regulators/dic|預金保険機構]] for the safety-net peer, and [[financial-regulators/boj-monetary-policy|BoJ 金融政策]] / [[financial-regulators/boj-financial-markets-dept|BoJ 金融市場局]] for internal organs.
+This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]]. Read it against [[financial-regulators/fsa|金融庁]] for the regulatory counterpart, [[financial-regulators/dic|預金保険機構]] for the safety-net peer, and [[financial-regulators/boj-monetary-policy|BoJ 金融政策]] / [[financial-regulators/boj-financial-markets-dept|BoJ 金融市場局]] for internal organs.
 
 ## TL;DR
 
@@ -141,7 +141,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[financi
 - [[financial-regulators/fsa|金融庁]] · [[financial-regulators/dic|預金保険機構]]
 - [[systems/bojnet|BoJ-NET]] · [[systems/zengin|全銀システム]]
 - [[megabanks/mufg-bank|MUFG]] · [[megabanks/smbc|SMBC]] · [[megabanks/mizuho-bank|みずほ銀行]] · [[regional-banks/japan-post-bank|ゆうちょ銀行]]
-- [[JapanFG/INDEX|JapanFG index]]
+- [[financial-regulators/INDEX|financial-regulators INDEX]]
 
 ## Sources
 

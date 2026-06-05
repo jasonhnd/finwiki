@@ -1,5 +1,5 @@
 ---
-source: japanfg/capital-insurance
+source: non-life-insurers/capital-insurance
 source_hash: 0ea82c445860a5ed
 lang: ja
 status: machine
@@ -10,7 +10,7 @@ translated_at: 2026-06-02T14:01:20.910Z
 
 # キャピタル損害保険 (Capital Insurance)
 
-ウィキ上の位置づけ: [[JapanFG/INDEX]] -> [[insurance/INDEX]] -> [[non-life-insurers/capital-insurance]]
+ウィキ上の位置づけ: [[non-life-insurers/INDEX]] -> [[insurance/INDEX]] -> [[non-life-insurers/capital-insurance]]
 
 ## 概要
 

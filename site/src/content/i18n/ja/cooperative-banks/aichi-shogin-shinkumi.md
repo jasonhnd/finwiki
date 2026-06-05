@@ -1,5 +1,5 @@
 ---
-source: japanfg/aichi-shogin-shinkumi
+source: cooperative-banks/aichi-shogin-shinkumi
 source_hash: 7d1f3eabcf8d45ab
 lang: ja
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-02T14:01:20.959Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下にあり、[[cooperative-banks/osaka-shogin-shinkumi|大阪商銀信用組合]]（関西）を補完する商銀系（在日韓国系事業者）信用組合ネットワークの **中部（中京）代表**である。[[banking/credit-cooperative-registry-japan|Japan credit cooperative registry]] を通じて、より広い 143 協同組織金融全体へ接続する。
+この項目は [[cooperative-banks/INDEX|cooperative-banks INDEX]] の配下にあり、[[cooperative-banks/osaka-shogin-shinkumi|大阪商銀信用組合]]（関西）を補完する商銀系（在日韓国系事業者）信用組合ネットワークの **中部（中京）代表**である。[[banking/credit-cooperative-registry-japan|Japan credit cooperative registry]] を通じて、より広い 143 協同組織金融全体へ接続する。
 
 ## 1. 法人概要
 
@@ -119,7 +119,7 @@ translated_at: 2026-06-02T14:01:20.959Z
 - [[financial-regulators/dic]] — 預金保険機構
 - 公開情報に基づく当該項目の位置づけを説明する。 [[banking/credit-cooperative-registry-japan]] 143
 - [[banking/cooperative-banking-japan]] — 協同組織金融全体
-- [[JapanFG/INDEX|JapanFG index]]
+- [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 
 ## 出典
 

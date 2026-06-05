@@ -1,5 +1,5 @@
 ---
-source: japanfg/shinsei-financial
+source: consumer-finance/shinsei-financial
 source_hash: 18c762aaf69a3e80
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-01T02:31:57.150Z
 
 ## Wiki route
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可与 [[card-issuers/aplus|APLUS]] 一起阅读，以理解相邻的 SBI 新生消费信贷路线；也可与 [[payments/credit-purchase-card-operators-japan-index|Japan credit purchase and card operator registry index]] 一起阅读，以理解更广义的信用 / 分期边界。
+本条目位于 [[consumer-finance/INDEX|consumer-finance INDEX]] 之下。可与 [[card-issuers/aplus|APLUS]] 一起阅读，以理解相邻的 SBI 新生消费信贷路线；也可与 [[payments/credit-purchase-card-operators-japan-index|Japan credit purchase and card operator registry index]] 一起阅读，以理解更广义的信用 / 分期边界。
 
 ## Overview
 

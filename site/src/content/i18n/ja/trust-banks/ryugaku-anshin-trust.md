@@ -1,5 +1,5 @@
 ---
-source: japanfg/ryugaku-anshin-trust
+source: trust-banks/ryugaku-anshin-trust
 source_hash: d519b6b5dae26c30
 lang: ja
 status: machine
@@ -10,7 +10,7 @@ translated_at: 2026-06-02T15:14:17.132Z
 
 # 留学安心信託
 
-ウィキ上の位置づけ: [[JapanFG/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/ryugaku-anshin-trust]]
+ウィキ上の位置づけ: [[trust-banks/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/ryugaku-anshin-trust]]
 
 ## 概要
 

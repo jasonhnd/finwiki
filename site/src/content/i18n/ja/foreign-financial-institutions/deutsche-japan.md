@@ -1,5 +1,5 @@
 ---
-source: japanfg/deutsche-japan
+source: foreign-financial-institutions/deutsche-japan
 source_hash: ec64eda744add451
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:25:12.383Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に位置づける。比較対象・対照文脈は [[foreign-financial-institutions/citigroup-japan|シティグループ・ジャパン (Citigroup Japan)]]、より広い制度・規制上の境界は [[banking/INDEX|banking index]] とあわせて読む。
+この項目は [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]] の配下に位置づける。比較対象・対照文脈は [[foreign-financial-institutions/citigroup-japan|シティグループ・ジャパン (Citigroup Japan)]]、より広い制度・規制上の境界は [[banking/INDEX|banking index]] とあわせて読む。
 
 ## 要約
 

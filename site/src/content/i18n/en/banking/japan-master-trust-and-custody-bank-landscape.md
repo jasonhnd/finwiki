@@ -46,7 +46,7 @@ Major-shareholder tables often show names such as "Master Trust Bank of Japan, L
 3. voting and investment decisions usually follow client / manager instruction;
 4. the trust bank's AUC / AuA is not proprietary capital.
 
-This rule is critical when reading [[JapanFG/INDEX|JapanFG entity pages]], issuer filings, cross-shareholding analysis, and governance pages.
+This rule is critical when reading [[banking/INDEX|banking INDEX]], issuer filings, cross-shareholding analysis, and governance pages.
 
 ## Public Research Fields
 

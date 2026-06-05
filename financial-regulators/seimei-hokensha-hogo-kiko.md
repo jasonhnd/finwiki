@@ -29,7 +29,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[financial-regulators/sonpo-hosho-kiko|損害保険契約者保護機構]] for parallel safety-net peer and [[financial-regulators/dic|預金保険機構]] / [[financial-regulators/fsa|金融庁]] for the broader system / regulatory boundary.
+This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]]. Read it against [[financial-regulators/sonpo-hosho-kiko|損害保険契約者保護機構]] for parallel safety-net peer and [[financial-regulators/dic|預金保険機構]] / [[financial-regulators/fsa|金融庁]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
@@ -130,7 +130,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[financi
 - [[financial-regulators/fsa|金融庁]]
 - [[life-insurers/kampo-life|かんぽ生命]] · [[life-insurers/dai-ichi-life-hd|第一生命 HD]] · [[life-insurers/asahi-life|朝日生命]] · [[life-insurers/fukoku-life|富国生命]]
 - [[insurance/INDEX|insurance index]]
-- [[JapanFG/INDEX|JapanFG index]]
+- [[financial-regulators/INDEX|financial-regulators INDEX]]
 
 ## Sources
 

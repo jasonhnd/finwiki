@@ -35,7 +35,6 @@ translated_at: 2026-06-02T14:01:20.930Z
 - [[non-life-insurers/aioi-nissay-dowa-insurance|Aioi Nissay Dowa Insurance]]
 - [[non-life-insurers/sompo-japan-insurance|Sompo Japan Insurance]]
 - [[insurance/INDEX|insurance domain]]
-- [[JapanFG/INDEX|JapanFG]]
 - [[insurance/natcat-reinsurance-japan|nat-cat reinsurance Japan]]
 - [[insurance/earthquake-insurance-public-private-scheme|earthquake insurance public-private scheme]]
 - [[insurance/economic-value-based-solvency|economic-value solvency]]
@@ -63,7 +62,6 @@ translated_at: 2026-06-02T14:01:20.930Z
 - 4
 - 5
 - 6
-- [[insurance/INDEX]]
 - [[insurance/natcat-reinsurance-japan]]
 - [[insurance/earthquake-insurance-public-private-scheme]]
 - [[insurance/economic-value-based-solvency]]

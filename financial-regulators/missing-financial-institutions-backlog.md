@@ -23,7 +23,7 @@ sources:
 
 ## Overview
 
-This page is the execution checklist for expanding [[JapanFG/INDEX|JapanFG]] from a major-institution wiki into a registry-aware Japan financial institution map.
+This page is the execution checklist for expanding [[financial-regulators/INDEX|financial-regulators INDEX]] from a major-institution wiki into a registry-aware Japan financial institution map.
 
 The current wiki already has a strong core: megabanks, major FG, regional-bank groups, policy finance, insurers, securities groups, leasing, payment, fintech, foreign Japan subsidiaries, and crypto exchange pages. It is not yet exhaustive against official license / registration lists.
 
@@ -224,7 +224,7 @@ Complete these before writing more than 20 new pages.
 | [x] | Download and normalize FSA registry Excel files into a temporary working table outside the public wiki. | Working copy created outside the public wiki; no local worksheet committed. |
 | [x] | Match official names to existing wiki slugs. | Machine exact / alias lower-bound match completed; group-covered entries require human review. |
 | [x] | Add a compact completeness table to this backlog. | See QA snapshot below; no personal data, no local path. |
-| [x] | Add or update domain indexes after each batch. | `JapanFG/INDEX.md` and root [[INDEX|INDEX]] synced after A/F and B1; Batch J recorded in [[JapanFG/INDEX|JapanFG INDEX]]. |
+| [x] | Add or update domain indexes after each batch. | `JapanFG/INDEX.md` and root [[INDEX|INDEX]] synced after A/F and B1; Batch J recorded in [[financial-regulators/INDEX|financial-regulators INDEX]]. |
 | [x] | Run wikilink health check after each batch. | Changed-file wikilinks: 42 files ok after B1. |
 | [x] | Update [[CHANGELOG|CHANGELOG]] for each batch. | A/F, B1, and Batch J recorded with JST time, scope, validation, and remaining work. |
 | [x] | Recount root [[INDEX|INDEX]] after each batch. | Root domain table sum = 538 and filesystem count = 538 after B1; Batch J does not add entries. Post-Wave-13 refresh (2026-05-25): JapanFG headline now **620 entity entries**, filesystem .md count = **621** incl. INDEX / backlog / non-entity surfaces. |

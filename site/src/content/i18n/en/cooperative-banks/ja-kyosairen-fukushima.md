@@ -1,5 +1,5 @@
 ---
-source: japanfg/ja-kyosairen-fukushima
+source: cooperative-banks/ja-kyosairen-fukushima
 source_hash: 9c16f7dd8fe5d348
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T15:29:03.958Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]] as the first prefectural-federation anchor for the JA Kyosairen system in FinWiki, closing the audit gap where the national JA mutual-aid federation existed but no prefectural federation anchor existed. Fukushima was selected for its disaster-recovery relevance after the 2011 Great East Japan Earthquake.
+This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as the first prefectural-federation anchor for the JA Kyosairen system in FinWiki, closing the audit gap where the national JA mutual-aid federation existed but no prefectural federation anchor existed. Fukushima was selected for its disaster-recovery relevance after the 2011 Great East Japan Earthquake.
 
 ## TL;DR
 
@@ -130,7 +130,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the first prefectural-f
 - [[banking/ja-bank-system-japan]] — JA Bank system
 - [[banking/cooperative-banking-japan]] — Overall cooperative finance
 - [[insurance/INDEX]] — Insurance domain (mutual aid comparison)
-- [[JapanFG/INDEX|JapanFG index]]
+- [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 
 ## Sources
 

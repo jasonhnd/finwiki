@@ -1,5 +1,5 @@
 ---
-source: japanfg/saxo-bank-securities
+source: securities-firms/saxo-bank-securities
 source_hash: 7b2ceb1128c56a4b
 lang: ja
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-06-02T15:14:17.087Z
 
 ## ウィキ上の位置づけ
 
-本項目は[[JapanFG/INDEX|JapanFG index]]配下に置く。[[securities-firms/gmo-click-securities|GMOクリック証券]]とは同業・対比の文脈で、[[securities/INDEX|securities index]]とはより広い制度・規制上の境界を読むために参照する。
+本項目は[[securities-firms/INDEX|securities-firms INDEX]]配下に置く。[[securities-firms/gmo-click-securities|GMOクリック証券]]とは同業・対比の文脈で、[[securities/INDEX|securities index]]とはより広い制度・規制上の境界を読むために参照する。
 
 ## 要約
 

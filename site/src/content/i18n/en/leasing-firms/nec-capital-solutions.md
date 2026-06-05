@@ -1,5 +1,5 @@
 ---
-source: japanfg/nec-capital-solutions
+source: leasing-firms/nec-capital-solutions
 source_hash: c9333a9a24ecba06
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T00:41:50.394Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[leasing-firms/hitachi-capital|former Hitachi Capital]] / [[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]] for vendor-system-integrator leasing peer context, [[leasing-firms/tokyo-century|Tokyo Century]] / [[leasing-firms/smfl|Sumitomo Mitsui Finance and Leasing]] for large general lessor peer context, and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+This entry sits under [[leasing-firms/INDEX|leasing-firms INDEX]]. Read it against [[leasing-firms/hitachi-capital|former Hitachi Capital]] / [[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]] for vendor-system-integrator leasing peer context, [[leasing-firms/tokyo-century|Tokyo Century]] / [[leasing-firms/smfl|Sumitomo Mitsui Finance and Leasing]] for large general lessor peer context, and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
@@ -104,7 +104,7 @@ For details, see EDINET securities reports and NEC Capital IR earnings releases.
 - [[leasing-firms/orix-corp|ORIX]]: largest general lessor
 - [[leasing-firms/smfl|SMFL]]: bank-linked leasing
 - [[leasing-firms/mizuho-lease|Mizuho Leasing]]: bank-linked leasing
-- [[JapanFG/INDEX|JapanFG index]]
+- [[leasing-firms/INDEX|leasing-firms INDEX]]
 - [[banking/INDEX|Banking domain index]]
 
 ## Sources

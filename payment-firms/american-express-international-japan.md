@@ -21,7 +21,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[card-issuers/jcb|JCB]] for peer / contrast context (JCB と Amex は両方 3-party scheme + 提携歴あり) and [[payments/japan-card-issuer-acquirer-processor-split|Japan card issuer / acquirer / processor split]] for the broader system / regulatory boundary.
+This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it against [[card-issuers/jcb|JCB]] for peer / contrast context (JCB と Amex は両方 3-party scheme + 提携歴あり) and [[payments/japan-card-issuer-acquirer-processor-split|Japan card issuer / acquirer / processor split]] for the broader system / regulatory boundary.
 
 ## 1. License / group boundary
 

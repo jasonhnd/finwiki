@@ -1,5 +1,5 @@
 ---
-source: japanfg/saxo-bank-securities
+source: securities-firms/saxo-bank-securities
 source_hash: 7b2ceb1128c56a4b
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-01T00:41:50.436Z
 
 ## Wiki route
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可与 [[securities-firms/gmo-click-securities|GMOクリック証券]] 对照阅读同业 / 对比语境，并与 [[securities/INDEX|securities index]] 一起理解更广泛的制度 / 监管边界。
+本条目位于 [[securities-firms/INDEX|securities-firms INDEX]] 之下。可与 [[securities-firms/gmo-click-securities|GMOクリック証券]] 对照阅读同业 / 对比语境，并与 [[securities/INDEX|securities index]] 一起理解更广泛的制度 / 监管边界。
 
 ## TL;DR
 

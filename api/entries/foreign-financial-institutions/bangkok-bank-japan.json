@@ -55,11 +55,11 @@
     "wikilinks_count": 12,
     "wikilinks": [
       "INDEX",
-      "JapanFG/INDEX",
       "banking/INDEX",
       "banking/foreign-bank-japan-retreat",
       "finance/cross-border-m-a-japan",
       "financial-licenses/foreign-bank-branch-license-route",
+      "foreign-financial-institutions/INDEX",
       "foreign-financial-institutions/bangkok-bank-japan",
       "foreign-financial-institutions/dbs-bank-japan",
       "foreign-financial-institutions/foreign-bank-branches-japan-index",
@@ -69,11 +69,11 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/foreign-bank-japan-retreat",
       "https://finwiki.zksc.io/finance/cross-border-m-a-japan",
       "https://finwiki.zksc.io/financial-licenses/foreign-bank-branch-license-route",
+      "https://finwiki.zksc.io/foreign-financial-institutions/INDEX",
       "https://finwiki.zksc.io/foreign-financial-institutions/bangkok-bank-japan",
       "https://finwiki.zksc.io/foreign-financial-institutions/dbs-bank-japan",
       "https://finwiki.zksc.io/foreign-financial-institutions/foreign-bank-branches-japan-index",
@@ -85,9 +85,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4581,
-    "word_like_tokens": 695,
+    "nonspace_chars": 4650,
+    "word_like_tokens": 701,
     "inbound_wikilinks_count": 7,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

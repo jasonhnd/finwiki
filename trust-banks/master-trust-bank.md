@@ -26,7 +26,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[trust-banks/custody-bank|日本カストディ銀行 (CBJ)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+This entry sits under [[trust-banks/INDEX|trust-banks INDEX]]. Read it against [[trust-banks/custody-bank|日本カストディ銀行 (CBJ)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 

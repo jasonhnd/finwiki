@@ -1,5 +1,5 @@
 ---
-source: japanfg/bank-negara-indonesia-japan
+source: foreign-financial-institutions/bank-negara-indonesia-japan
 source_hash: 0236566f5c54306c
 lang: zh
 status: machine
@@ -58,7 +58,7 @@ BNI 的全球公共网络页面显示，BNI 东京作为 1959-12-01 的代表处
 
 ＃＃ 有关的
 
-- [[JapanFG/INDEX]]
+- [[foreign-financial-institutions/INDEX]]
 - [[foreign-financial-institutions/foreign-bank-branches-japan-index]]
 - [[foreign-financial-institutions/bangkok-bank-japan]]
 - [[foreign-financial-institutions/dbs-bank-japan]]

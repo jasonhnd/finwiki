@@ -42,7 +42,7 @@
       "https://www.fsa.go.jp/common/about/sosiki/index.html"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against FSA 企画市場局 for the rule-making counterpart inside the FSA, FSA 総合政策局 for the strategy / cross-bureau layer, and BoJ 金融機構局 for the central-bank-side prudential anchor. For the licensing perimeter, anchor through legal / financial licenses and bankin",
+  "summary": "This entry sits under financial-regulators INDEX. Read it against FSA 企画市場局 for the rule-making counterpart inside the FSA, FSA 総合政策局 for the strategy / cross-bureau layer, and BoJ 金融機構局 for the central-bank-side prudential anchor. For the licensing perimeter, anchor through legal / financial licens",
   "headings": [
     "監督局 (FSA Supervision Bureau)",
     "Wiki route",
@@ -56,7 +56,6 @@
   "body_links": {
     "wikilinks_count": 21,
     "wikilinks": [
-      "JapanFG/INDEX",
       "asset-managers/asset-management-one",
       "banking/INDEX",
       "banking/credit-cooperative-registry-japan",
@@ -65,6 +64,7 @@
       "exchanges/fsa-foreign-exchange-warning-system",
       "exchanges/fsa-vasp-registration-system",
       "financial-licenses/INDEX",
+      "financial-regulators/INDEX",
       "financial-regulators/boj-financial-system-dept",
       "financial-regulators/cpaaob",
       "financial-regulators/fsa-inspection-bureau",
@@ -79,7 +79,6 @@
       "securities-firms/mufg-mums"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/asset-managers/asset-management-one",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/credit-cooperative-registry-japan",
@@ -88,6 +87,7 @@
       "https://finwiki.zksc.io/exchanges/fsa-foreign-exchange-warning-system",
       "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
       "https://finwiki.zksc.io/financial-licenses/INDEX",
+      "https://finwiki.zksc.io/financial-regulators/INDEX",
       "https://finwiki.zksc.io/financial-regulators/boj-financial-system-dept",
       "https://finwiki.zksc.io/financial-regulators/cpaaob",
       "https://finwiki.zksc.io/financial-regulators/fsa-inspection-bureau",
@@ -105,9 +105,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6505,
-    "word_like_tokens": 992,
+    "nonspace_chars": 6531,
+    "word_like_tokens": 994,
     "inbound_wikilinks_count": 17,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

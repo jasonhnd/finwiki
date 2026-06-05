@@ -1,5 +1,5 @@
 ---
-source: japanfg/recruit-mufg-business
+source: payment-firms/recruit-mufg-business
 source_hash: b79693d5f35d1561
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-01T00:41:50.416Z
 
 ## Wiki route
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 下。可与 [[megabanks/mufg|MUFG]] 一起阅读以了解银行集团背景，与 [[payments/funds-transfer-service-providers-japan-index|funds-transfer registry]] 一起阅读以了解监管路径，并参见 [[payments/japan-code-payment-competitive-map|Japan code-payment competitive map]] 了解钱包竞争。
+本条目位于 [[payment-firms/INDEX|payment-firms INDEX]] 下。可与 [[megabanks/mufg|MUFG]] 一起阅读以了解银行集团背景，与 [[payments/funds-transfer-service-providers-japan-index|funds-transfer registry]] 一起阅读以了解监管路径，并参见 [[payments/japan-code-payment-competitive-map|Japan code-payment competitive map]] 了解钱包竞争。
 
 ## Overview
 

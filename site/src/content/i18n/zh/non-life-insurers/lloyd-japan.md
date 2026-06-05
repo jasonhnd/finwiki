@@ -1,5 +1,5 @@
 ---
-source: japanfg/lloyd-japan
+source: non-life-insurers/lloyd-japan
 source_hash: 87b8f79fffdf9658
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:59:49.377Z
 
 ## Wiki 路径
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可结合 [[non-life-insurers/fm-global-japan|FM Global Japan]] 和 [[non-life-insurers/aig-japan|AIG Japan]] 理解外资专业保险人的同业背景，并结合 [[insurance/INDEX|insurance index]] 理解日本非寿险市场体系 / 监管边界。
+本条目位于 [[non-life-insurers/INDEX|non-life-insurers INDEX]] 之下。可结合 [[non-life-insurers/fm-global-japan|FM Global Japan]] 和 [[non-life-insurers/aig-japan|AIG Japan]] 理解外资专业保险人的同业背景，并结合 [[insurance/INDEX|insurance index]] 理解日本非寿险市场体系 / 监管边界。
 
 ## 摘要
 

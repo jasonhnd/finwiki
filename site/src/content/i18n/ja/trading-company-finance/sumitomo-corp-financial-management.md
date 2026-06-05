@@ -1,5 +1,5 @@
 ---
-source: japanfg/sumitomo-corp-financial-management
+source: trading-company-finance/sumitomo-corp-financial-management
 source_hash: 97573e348a1fb2ec
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T15:14:17.106Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]]に置かれる。比較対象として[[leasing-firms/smfl|SMFL]] （同一親会社系列の外向けリース・asset finance JVである[[megabanks/smfg|SMFG]]）と、最も近い同業である商社系group-treasury armの[[trading-company-finance/mitsubishi-corp-finance|三菱商事フィナンシャルサービス]]を確認する。より広い同業群は[[trading-company-finance/mitsui-bussan-financial-services|三井物産FS]]、[[trading-company-finance/itochu-finance|伊藤忠ファイナンス]]、[[trading-company-finance/marubeni-financial-services|丸紅フィナンス]]を参照し、規制上の境界は[[banking/INDEX|banking index]]を参照する。
+この項目は [[trading-company-finance/INDEX|trading-company-finance INDEX]]に置かれる。比較対象として[[leasing-firms/smfl|SMFL]] （同一親会社系列の外向けリース・asset finance JVである[[megabanks/smfg|SMFG]]）と、最も近い同業である商社系group-treasury armの[[trading-company-finance/mitsubishi-corp-finance|三菱商事フィナンシャルサービス]]を確認する。より広い同業群は[[trading-company-finance/mitsui-bussan-financial-services|三井物産FS]]、[[trading-company-finance/itochu-finance|伊藤忠ファイナンス]]、[[trading-company-finance/marubeni-financial-services|丸紅フィナンス]]を参照し、規制上の境界は[[banking/INDEX|banking index]]を参照する。
 
 ## 1. 会社概要
 

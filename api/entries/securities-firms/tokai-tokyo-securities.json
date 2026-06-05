@@ -38,7 +38,7 @@
       "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 東海東京フィナンシャル・ホールディングス for parent holding context, 岡三証券グループ / 岩井コスモ証券 for peer mid-tier independent securities, and securities index for the broader market-structure boundary.",
+  "summary": "This entry sits under securities-firms INDEX. Read it against 東海東京フィナンシャル・ホールディングス for parent holding context, 岡三証券グループ / 岩井コスモ証券 for peer mid-tier independent securities, and securities index for the broader market-structure boundary.",
   "headings": [
     "東海東京証券 (Tokai Tokyo Securities)",
     "Wiki route",
@@ -54,7 +54,6 @@
   "body_links": {
     "wikilinks_count": 25,
     "wikilinks": [
-      "JapanFG/INDEX",
       "financial-licenses/securities-license-stack",
       "megabanks/mufg-bank",
       "regional-banks/concordia-fg",
@@ -64,6 +63,7 @@
       "regional-banks/nishi-nippon-city-bank",
       "regional-banks/oita-bank",
       "regional-banks/yokohama-bank",
+      "securities-firms/INDEX",
       "securities-firms/aizawa-sg",
       "securities-firms/iwai-cosmo-securities",
       "securities-firms/marusan-securities",
@@ -81,7 +81,6 @@
       "securities/tokyo-stock-exchange"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/financial-licenses/securities-license-stack",
       "https://finwiki.zksc.io/megabanks/mufg-bank",
       "https://finwiki.zksc.io/regional-banks/concordia-fg",
@@ -91,6 +90,7 @@
       "https://finwiki.zksc.io/regional-banks/nishi-nippon-city-bank",
       "https://finwiki.zksc.io/regional-banks/oita-bank",
       "https://finwiki.zksc.io/regional-banks/yokohama-bank",
+      "https://finwiki.zksc.io/securities-firms/INDEX",
       "https://finwiki.zksc.io/securities-firms/aizawa-sg",
       "https://finwiki.zksc.io/securities-firms/iwai-cosmo-securities",
       "https://finwiki.zksc.io/securities-firms/marusan-securities",
@@ -116,9 +116,9 @@
     ]
   },
   "metrics": {
-    "nonspace_chars": 5893,
-    "word_like_tokens": 917,
+    "nonspace_chars": 5911,
+    "word_like_tokens": 919,
     "inbound_wikilinks_count": 3,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

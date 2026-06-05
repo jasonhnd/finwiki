@@ -38,7 +38,7 @@
       "http://www.jp.abchina.com/en/branch_profile/"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 中国工商銀行 東京支店 for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under foreign-financial-institutions INDEX. Read it against 中国工商銀行 東京支店 for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [
     "中国農業銀行 東京支店",
     "Wiki route",
@@ -52,20 +52,20 @@
   "body_links": {
     "wikilinks_count": 7,
     "wikilinks": [
-      "JapanFG/INDEX",
       "bank-of-china-japan",
       "banking/INDEX",
       "banking/foreign-bank-japan-retreat",
       "china-construction-bank-japan",
+      "foreign-financial-institutions/INDEX",
       "foreign-financial-institutions/icbc-japan",
       "icbc-japan"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/bank-of-china-japan",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/foreign-bank-japan-retreat",
       "https://finwiki.zksc.io/china-construction-bank-japan",
+      "https://finwiki.zksc.io/foreign-financial-institutions/INDEX",
       "https://finwiki.zksc.io/foreign-financial-institutions/icbc-japan",
       "https://finwiki.zksc.io/icbc-japan"
     ],
@@ -73,9 +73,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2330,
-    "word_like_tokens": 370,
+    "nonspace_chars": 2376,
+    "word_like_tokens": 374,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

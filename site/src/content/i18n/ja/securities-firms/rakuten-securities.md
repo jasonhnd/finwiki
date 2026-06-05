@@ -1,5 +1,5 @@
 ---
-source: japanfg/rakuten-securities
+source: securities-firms/rakuten-securities
 source_hash: 40287ba1724a5599
 lang: ja
 status: machine
@@ -44,7 +44,7 @@ translated_at: 2026-06-02T15:14:17.116Z
 
 ## 関連項目
 
-- [[JapanFG/INDEX|JapanFG INDEX]]
+- [[securities-firms/INDEX|securities-firms INDEX]]
 - [[securities/INDEX|securities INDEX]]
 - [[payment-firms/rakuten-fg]]
 - [[securities-firms/monex-group]]

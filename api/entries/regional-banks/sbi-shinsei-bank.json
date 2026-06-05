@@ -38,7 +38,7 @@
       "SBI HD IR (2023-09 完全子会社化、2023-12 商号変更)"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against あおぞら銀行 (Aozora Bank) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under regional-banks INDEX. Read it against あおぞら銀行 (Aozora Bank) for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [
     "SBI 新生銀行",
     "Wiki route",
@@ -54,23 +54,23 @@
   "body_links": {
     "wikilinks_count": 9,
     "wikilinks": [
-      "JapanFG/INDEX",
       "aozora-bank",
       "banking/INDEX",
       "mizuho-fg",
       "mufg",
       "ndfg",
+      "regional-banks/INDEX",
       "regional-banks/aozora-bank",
       "sbi-hd",
       "smfg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/aozora-bank",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/mizuho-fg",
       "https://finwiki.zksc.io/mufg",
       "https://finwiki.zksc.io/ndfg",
+      "https://finwiki.zksc.io/regional-banks/INDEX",
       "https://finwiki.zksc.io/regional-banks/aozora-bank",
       "https://finwiki.zksc.io/sbi-hd",
       "https://finwiki.zksc.io/smfg"
@@ -79,9 +79,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3828,
-    "word_like_tokens": 649,
+    "nonspace_chars": 3842,
+    "word_like_tokens": 651,
     "inbound_wikilinks_count": 25,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

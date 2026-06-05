@@ -1,5 +1,5 @@
 ---
-source: japanfg/icbc-japan
+source: foreign-financial-institutions/icbc-japan
 source_hash: ac3ffdf728b70243
 lang: zh
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-05-31T15:29:03.967Z
 
 ## 维基路线
 
-该条目位于 [[JapanFG/INDEX|JapanFG index]] 下。针对同行/对比上下文阅读 [[foreign-financial-institutions/china-construction-bank-japan|中国建設銀行 東京支店]]，针对更广泛的系统/监管边界阅读 [[banking/INDEX|banking index]]。
+该条目位于 [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]] 下。针对同行/对比上下文阅读 [[foreign-financial-institutions/china-construction-bank-japan|中国建設銀行 東京支店]]，针对更广泛的系统/监管边界阅读 [[banking/INDEX|banking index]]。
 
 ## 长话短说
 

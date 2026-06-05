@@ -35,7 +35,7 @@
       "第三者委員会調査報告書 (2018-09-07)"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against ふくおか FG (FFG) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under regional-banks INDEX. Read it against ふくおか FG (FFG) for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [
     "スルガ銀行",
     "Wiki route",
@@ -51,7 +51,6 @@
   "body_links": {
     "wikilinks_count": 17,
     "wikilinks": [
-      "JapanFG/INDEX",
       "aozora-bank",
       "au-fh",
       "banking/INDEX",
@@ -60,6 +59,7 @@
       "mizuho-fg",
       "mufg",
       "paypay-fg",
+      "regional-banks/INDEX",
       "regional-banks/fukuoka-fg",
       "sbi-shinsei-bank",
       "shimizu-bank",
@@ -70,7 +70,6 @@
       "sony-fg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/aozora-bank",
       "https://finwiki.zksc.io/au-fh",
       "https://finwiki.zksc.io/banking/INDEX",
@@ -79,6 +78,7 @@
       "https://finwiki.zksc.io/mizuho-fg",
       "https://finwiki.zksc.io/mufg",
       "https://finwiki.zksc.io/paypay-fg",
+      "https://finwiki.zksc.io/regional-banks/INDEX",
       "https://finwiki.zksc.io/regional-banks/fukuoka-fg",
       "https://finwiki.zksc.io/sbi-shinsei-bank",
       "https://finwiki.zksc.io/shimizu-bank",
@@ -92,9 +92,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4081,
-    "word_like_tokens": 610,
+    "nonspace_chars": 4095,
+    "word_like_tokens": 612,
     "inbound_wikilinks_count": 3,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

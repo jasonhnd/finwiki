@@ -1,5 +1,5 @@
 ---
-source: japanfg/acom
+source: consumer-finance/acom
 source_hash: 4c9432ea1af3c549
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T11:13:44.901Z
 
 ## 维基路线
 
-该条目位于[[JapanFG/INDEX|JapanFG index]]。阅读它反对[[card-issuers/jaccs|株式会社ジャックス (Jaccs)]]对于同行/对比上下文和[[banking/INDEX|banking index]]适用于更广泛的系统/监管边界。
+该条目位于[[consumer-finance/INDEX|consumer-finance INDEX]]。阅读它反对[[card-issuers/jaccs|株式会社ジャックス (Jaccs)]]对于同行/对比上下文和[[banking/INDEX|banking index]]适用于更广泛的系统/监管边界。
 
 ## 长话短说
 

@@ -17,7 +17,7 @@ sources:
 
 # Sumire Regional Trust / すみれ地域信託
 
-Wiki route: [[JapanFG/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/sumire-regional-trust]]
+Wiki route: [[trust-banks/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/sumire-regional-trust]]
 
 ## Overview
 

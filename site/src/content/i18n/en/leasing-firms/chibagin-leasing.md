@@ -1,5 +1,5 @@
 ---
-source: japanfg/chibagin-leasing
+source: leasing-firms/chibagin-leasing
 source_hash: 91cd04ff7cc77902
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T11:13:44.944Z
 
 ## Wiki route
 
-This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary leasing operating-company anchor for [[chiba-bank|Chiba Bank]]. Read it against parent operating bank [[chiba-bank|Chiba Bank]] (no-holding sole bank model) and sibling subsidiary [[chibagin-securities|Chibagin Securities]]. Peer comparison: [[mebuki-lease|Mebuki Lease]] (North Kanto regional bank lease) / [[yokohama-bank-leasing|Yokohama Bank Leasing]] (Kanagawa regional bank lease) / [[hokkaido-lease|Hokkaido Lease]] / [[yamaguchi-leasing|Yamaguchi Lease]] / [[iyogin-leasing|Iyogin Lease]] and major lessors [[mitsubishi-hc-capital|Mitsubishi HC Capital]] / [[mizuho-lease|Mizuho Leasing]] / [[tokyo-century|Tokyo Century]]. For broader system route see [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]], [[banking/regional-bank-api-digital-partnership-route|regional-bank API/digital partnership route]], and [[banking/INDEX|banking index]]. Investable-universe context: [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]].
+This entry sits under the [[leasing-firms/INDEX|leasing-firms INDEX]] as the FG-subsidiary leasing operating-company anchor for [[chiba-bank|Chiba Bank]]. Read it against parent operating bank [[chiba-bank|Chiba Bank]] (no-holding sole bank model) and sibling subsidiary [[chibagin-securities|Chibagin Securities]]. Peer comparison: [[mebuki-lease|Mebuki Lease]] (North Kanto regional bank lease) / [[yokohama-bank-leasing|Yokohama Bank Leasing]] (Kanagawa regional bank lease) / [[hokkaido-lease|Hokkaido Lease]] / [[yamaguchi-leasing|Yamaguchi Lease]] / [[iyogin-leasing|Iyogin Lease]] and major lessors [[mitsubishi-hc-capital|Mitsubishi HC Capital]] / [[mizuho-lease|Mizuho Leasing]] / [[tokyo-century|Tokyo Century]]. For broader system route see [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]], [[banking/regional-bank-api-digital-partnership-route|regional-bank API/digital partnership route]], and [[banking/INDEX|banking index]]. Investable-universe context: [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]].
 
 ##TL;DR
 
@@ -116,7 +116,7 @@ Chibagin Lease Co., Ltd. is a 100% subsidiary of [[chiba-bank|Chiba Bank (TSE Pr
 -[[ja-mitsui-leasing]]·[[nec-leasing]]·[[showa-leasing]]·[[toyota-finance]]·[[ibj-leasing]]·[[kanematsu-leasing]]
 -[[banking/regional-bank-consolidation-pattern]]·[[banking/regional-bank-api-digital-partnership-route]]·[[banking/INDEX]]
 -[[finance/japan-listed-financial-groups-investable-universe]]·[[finance/INDEX]]
-- [[JapanFG/INDEX|JapanFG index]]
+- [[leasing-firms/INDEX|leasing-firms INDEX]]
 
 ## Sources
 

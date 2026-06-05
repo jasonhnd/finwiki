@@ -17,7 +17,7 @@ sources:
 
 # Kiriu Real Estate Trust / きりう不動産信託
 
-Wiki route: [[JapanFG/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/kiriu-real-estate-trust]]
+Wiki route: [[trust-banks/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/kiriu-real-estate-trust]]
 
 ## Overview
 

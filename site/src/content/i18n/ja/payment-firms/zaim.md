@@ -1,5 +1,5 @@
 ---
-source: japanfg/zaim
+source: payment-firms/zaim
 source_hash: 7f0983ee221a0109
 lang: ja
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-02T16:33:58.488Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の下に位置し、より大規模な同業である [[payment-firms/money-forward|Money Forward]] ME の隣に置かれる **PFM（Personal Financial Management）** アプリである。隣接する個人金融の文脈は [[payment-firms/bnpl-landscape|Japan BNPL landscape]]、同じ家計金融セットの兄弟項目は [[payment-firms/freee|freee]] / [[payment-firms/smartbank|SmartBank]]、KDDI 系列化の企業文脈は [[megabanks/au-fh|au フィナンシャル HD]] とあわせて読む。[[payments/japan-bnpl-credit-purchase-boundary|BNPL and credit-purchase boundary]] と [[payments/credit-purchase-card-operators-japan-index|credit-purchase registry]] のページは規制スタックの一段下に位置し、[[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]] は PFM アプリが口座 API の経済性に依存する理由を説明する。
+この項目は [[payment-firms/INDEX|payment-firms INDEX]] の下に位置し、より大規模な同業である [[payment-firms/money-forward|Money Forward]] ME の隣に置かれる **PFM（Personal Financial Management）** アプリである。隣接する個人金融の文脈は [[payment-firms/bnpl-landscape|Japan BNPL landscape]]、同じ家計金融セットの兄弟項目は [[payment-firms/freee|freee]] / [[payment-firms/smartbank|SmartBank]]、KDDI 系列化の企業文脈は [[megabanks/au-fh|au フィナンシャル HD]] とあわせて読む。[[payments/japan-bnpl-credit-purchase-boundary|BNPL and credit-purchase boundary]] と [[payments/credit-purchase-card-operators-japan-index|credit-purchase registry]] のページは規制スタックの一段下に位置し、[[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]] は PFM アプリが口座 API の経済性に依存する理由を説明する。
 
 ## 要約
 

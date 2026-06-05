@@ -1,5 +1,5 @@
 ---
-source: japanfg/taiko-bank
+source: regional-banks/taiko-bank
 source_hash: 9571be2595372054
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.169Z
 
 ## Wiki route
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可与 [[banking/INDEX|banking index]] 一起阅读以理解相邻语境，也可与 [[financial-licenses/INDEX|JapanFG index]] 一起阅读以把握更大的系统边界。
+本条目位于 [[regional-banks/INDEX|regional-banks INDEX]] 之下。可与 [[banking/INDEX|banking index]] 一起阅读以理解相邻语境，也可与 [[financial-licenses/INDEX|JapanFG index]] 一起阅读以把握更大的系统边界。
 
 ## TL;DR
 

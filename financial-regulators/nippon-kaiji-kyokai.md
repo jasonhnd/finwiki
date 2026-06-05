@@ -19,7 +19,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[financial-regulators/japan-pi-club|日本船主責任相互保険組合]] as the direct marine-industry sibling (船級協会 + P&I クラブで一対の海事インフラ) and [[insurance/INDEX|insurance index]] as the broader risk-transfer system frame. ClassNK is **not an insurer** but its surveys directly underpin hull & P&I underwriting, so it sits in the JapanFG wiki as an "insurance-adjacent" institutional anchor rather than as a licensed financial entity.
+This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]]. Read it against [[financial-regulators/japan-pi-club|日本船主責任相互保険組合]] as the direct marine-industry sibling (船級協会 + P&I クラブで一対の海事インフラ) and [[insurance/INDEX|insurance index]] as the broader risk-transfer system frame. ClassNK is **not an insurer** but its surveys directly underpin hull & P&I underwriting, so it sits in the JapanFG wiki as an "insurance-adjacent" institutional anchor rather than as a licensed financial entity.
 
 ## TL;DR
 
@@ -52,7 +52,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[financi
 
 ## Related
 
-- [[JapanFG/INDEX]]
+- [[financial-regulators/INDEX]]
 - [[japan-pi-club]]
 - [[tokio-marine-nichido-fire]]
 - [[mitsui-sumitomo-insurance]]

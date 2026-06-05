@@ -42,7 +42,7 @@
       "EDINET 有価証券報告書検索"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 東京センチュリー (the same-parent 外向けリース・asset finance platform — 伊藤忠 + みずほ FG の 2 軸株主構造、上場 8439) and 三菱商事フィナンシャルサービス (the closest peer 商社系 group-treasury arm). For the broader peer set, see 三井物産FS, 丸紅フィナンス, 住友商事FM. See banking index for the broader regul",
+  "summary": "This entry sits under trading-company-finance INDEX. Read it against 東京センチュリー (the same-parent 外向けリース・asset finance platform — 伊藤忠 + みずほ FG の 2 軸株主構造、上場 8439) and 三菱商事フィナンシャルサービス (the closest peer 商社系 group-treasury arm). For the broader peer set, see 三井物産FS, 丸紅フィナンス, 住友商事FM. See banking index for t",
   "headings": [
     "伊藤忠ファイナンス (ITOCHU Finance Corporation)",
     "Wiki route",
@@ -58,7 +58,6 @@
   "body_links": {
     "wikilinks_count": 18,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "cooperative-banks/ja-mitsui-leasing",
       "finance/japan-acquisition-finance",
@@ -70,6 +69,7 @@
       "megabanks/mizuho-fg",
       "megabanks/mufg",
       "payment-firms/famima-digital-one",
+      "trading-company-finance/INDEX",
       "trading-company-finance/marubeni-financial-services",
       "trading-company-finance/mitsubishi-corp-finance",
       "trading-company-finance/mitsui-bussan-financial-services",
@@ -78,7 +78,6 @@
       "trading-company-finance/toyota-tsusho-finance"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/cooperative-banks/ja-mitsui-leasing",
       "https://finwiki.zksc.io/finance/japan-acquisition-finance",
@@ -90,6 +89,7 @@
       "https://finwiki.zksc.io/megabanks/mizuho-fg",
       "https://finwiki.zksc.io/megabanks/mufg",
       "https://finwiki.zksc.io/payment-firms/famima-digital-one",
+      "https://finwiki.zksc.io/trading-company-finance/INDEX",
       "https://finwiki.zksc.io/trading-company-finance/marubeni-financial-services",
       "https://finwiki.zksc.io/trading-company-finance/mitsubishi-corp-finance",
       "https://finwiki.zksc.io/trading-company-finance/mitsui-bussan-financial-services",
@@ -101,9 +101,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3874,
-    "word_like_tokens": 556,
+    "nonspace_chars": 3906,
+    "word_like_tokens": 560,
     "inbound_wikilinks_count": 13,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

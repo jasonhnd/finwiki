@@ -12,7 +12,7 @@ translated_at: 2026-05-30T16:08:36.704Z
 
 ## Wiki route
 
-本条目归于 [[business/INDEX|business INDEX]] 之下,作为上市公司战略案例。请将其与 [[business/ntt-docomo-d-point-telco-finance-case|NTT Docomo d-Point telco-finance case]] 作为电信补贴金融而非相反的对照模式、与 [[business/gmo-internet-group|GMO Internet Group]] 作为互联网到金融集团平行案例,以及 [[business/kitao-yoshitaka-sbi-independent-strategy-case|Kitao Yoshitaka SBI independent strategy]] 作为对照的独立 FG 路径一并阅读。配合 [[JapanFG/INDEX|JapanFG INDEX]] 以了解实体覆盖。
+本条目归于 [[business/INDEX|business INDEX]] 之下,作为上市公司战略案例。请将其与 [[business/ntt-docomo-d-point-telco-finance-case|NTT Docomo d-Point telco-finance case]] 作为电信补贴金融而非相反的对照模式、与 [[business/gmo-internet-group|GMO Internet Group]] 作为互联网到金融集团平行案例,以及 [[business/kitao-yoshitaka-sbi-independent-strategy-case|Kitao Yoshitaka SBI independent strategy]] 作为对照的独立 FG 路径一并阅读。配合 [[business/INDEX|business INDEX]] 以了解实体覆盖。
 
 ## TL;DR
 

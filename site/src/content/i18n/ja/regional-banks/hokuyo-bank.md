@@ -1,5 +1,5 @@
 ---
-source: japanfg/hokuyo-bank
+source: regional-banks/hokuyo-bank
 source_hash: 684d164a3f078bd8
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:25:12.408Z
 
 ## ウィキ上の位置づけ
 
-本項目は [[JapanFG/INDEX|JapanFG index]] の配下に置く。[[regional-banks/jimoto-hd|じもとホールディングス (JIMOTO HD)]] を同業・対比の文脈として、[[banking/INDEX|banking index]] をより広い制度・規制境界として併読する。
+本項目は [[regional-banks/INDEX|regional-banks INDEX]] の配下に置く。[[regional-banks/jimoto-hd|じもとホールディングス (JIMOTO HD)]] を同業・対比の文脈として、[[banking/INDEX|banking index]] をより広い制度・規制境界として併読する。
 
 ## 要約
 

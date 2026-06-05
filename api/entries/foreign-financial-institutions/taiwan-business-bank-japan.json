@@ -36,7 +36,7 @@
       "https://www.tbb.com.tw/en-us/-/media/tbb/files/en-us/about/locations/overseas/tokyo-jp/personal-information-management-policy.pdf?hash=74B7AC17C2354067B60B89F49F6AA52F&sc_lang=en-us"
     ]
   },
-  "summary": "Taiwan Business Bank Japan sits under JapanFG index and is a Taiwan-Japan foreign-bank branch route in the foreign-bank branch registry. Read it with Industrial Bank of Korea Japan for SME-bank comparison, Chang Hwa Bank Japan for Taiwan peer context, and banking index for the broader system boundar",
+  "summary": "Taiwan Business Bank Japan sits under foreign-financial-institutions INDEX and is a Taiwan-Japan foreign-bank branch route in the foreign-bank branch registry. Read it with Industrial Bank of Korea Japan for SME-bank comparison, Chang Hwa Bank Japan for Taiwan peer context, and banking index for the",
   "headings": [
     "台湾中小企業銀行日本 (Taiwan Business Bank Japan)",
     "Wiki route",
@@ -52,8 +52,8 @@
     "wikilinks_count": 8,
     "wikilinks": [
       "INDEX",
-      "JapanFG/INDEX",
       "banking/INDEX",
+      "foreign-financial-institutions/INDEX",
       "foreign-financial-institutions/chang-hwa-bank-japan",
       "foreign-financial-institutions/foreign-bank-branches-japan-index",
       "foreign-financial-institutions/industrial-bank-of-korea-japan",
@@ -62,8 +62,8 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/foreign-financial-institutions/INDEX",
       "https://finwiki.zksc.io/foreign-financial-institutions/chang-hwa-bank-japan",
       "https://finwiki.zksc.io/foreign-financial-institutions/foreign-bank-branches-japan-index",
       "https://finwiki.zksc.io/foreign-financial-institutions/industrial-bank-of-korea-japan",
@@ -74,9 +74,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3761,
-    "word_like_tokens": 601,
+    "nonspace_chars": 3830,
+    "word_like_tokens": 607,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

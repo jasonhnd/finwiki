@@ -27,7 +27,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[leasing-firms/tokyo-century|東京センチュリー]] (the same-parent **外向けリース・asset finance** platform — 伊藤忠 + みずほ FG の 2 軸株主構造、上場 8439) and [[trading-company-finance/mitsubishi-corp-finance|三菱商事フィナンシャルサービス]] (the closest peer 商社系 group-treasury arm). For the broader peer set, see [[trading-company-finance/mitsui-bussan-financial-services|三井物産FS]], [[trading-company-finance/marubeni-financial-services|丸紅フィナンス]], [[trading-company-finance/sumitomo-corp-financial-management|住友商事FM]]. See [[banking/INDEX|banking index]] for the broader regulatory boundary.
+This entry sits under [[trading-company-finance/INDEX|trading-company-finance INDEX]]. Read it against [[leasing-firms/tokyo-century|東京センチュリー]] (the same-parent **外向けリース・asset finance** platform — 伊藤忠 + みずほ FG の 2 軸株主構造、上場 8439) and [[trading-company-finance/mitsubishi-corp-finance|三菱商事フィナンシャルサービス]] (the closest peer 商社系 group-treasury arm). For the broader peer set, see [[trading-company-finance/mitsui-bussan-financial-services|三井物産FS]], [[trading-company-finance/marubeni-financial-services|丸紅フィナンス]], [[trading-company-finance/sumitomo-corp-financial-management|住友商事FM]]. See [[banking/INDEX|banking index]] for the broader regulatory boundary.
 
 ## 1. 会社概要
 

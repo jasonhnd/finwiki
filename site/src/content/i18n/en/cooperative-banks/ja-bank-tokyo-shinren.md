@@ -1,5 +1,5 @@
 ---
-source: japanfg/ja-bank-tokyo-shinren
+source: cooperative-banks/ja-bank-tokyo-shinren
 source_hash: 50cb603799ccde41
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T15:29:03.947Z
 
 ## Wiki route
 
-This entry sits under[[JapanFG/INDEX|JapanFG index]]as the **first JA-Bank prefectural credit-federation (Shinren) operating-company anchor in FinWiki**, closing the audit gap that JA-Bank prefectural credit-federation (Collective) was documented but no prefectural Shinren anchor existed. Tokyo was selected for its **urban-agriculture + direct-link borderline case** relevance — Tokyo Shinren had transition discussions to direct-link in the late2010s. Read with[[cooperative-banks/ja-shinnoren|JA 信連 (全国集合)]]for the national-level prefectural-federation context,[[cooperative-banks/ja-kyosairen-fukushima|JA 共済連福島]]for the kyosai-side prefectural peer,[[cooperative-banks/norinchukin|農林中央金庫]]for the central institution above, and[[banking/ja-bank-system-japan|JA Bank system]]for the system boundary.
+This entry sits under[[cooperative-banks/INDEX|cooperative-banks INDEX]]as the **first JA-Bank prefectural credit-federation (Shinren) operating-company anchor in FinWiki**, closing the audit gap that JA-Bank prefectural credit-federation (Collective) was documented but no prefectural Shinren anchor existed. Tokyo was selected for its **urban-agriculture + direct-link borderline case** relevance — Tokyo Shinren had transition discussions to direct-link in the late2010s. Read with[[cooperative-banks/ja-shinnoren|JA 信連 (全国集合)]]for the national-level prefectural-federation context,[[cooperative-banks/ja-kyosairen-fukushima|JA 共済連福島]]for the kyosai-side prefectural peer,[[cooperative-banks/norinchukin|農林中央金庫]]for the central institution above, and[[banking/ja-bank-system-japan|JA Bank system]]for the system boundary.
 
 ## TL;DR
 
@@ -121,7 +121,7 @@ This entry sits under[[JapanFG/INDEX|JapanFG index]]as the **first JA-Bank prefe
 - [[regional-banks/yokohama-bank]] — Yokohama Bank (Kanto regional bank peer)
 - [[banking/ja-bank-system-japan]] — JA Bank system
 - [[banking/cooperative-banking-japan]] — Overall cooperative finance
-- [[JapanFG/INDEX|JapanFG index]]
+- [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 
 ## Sources
 

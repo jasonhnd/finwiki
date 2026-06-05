@@ -1,5 +1,5 @@
 ---
-source: japanfg/aichi-shogin-shinkumi
+source: cooperative-banks/aichi-shogin-shinkumi
 source_hash: 7d1f3eabcf8d45ab
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T07:28:06.188Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **Chubu (Chukyo) representative of the shogin-kei (in-Japan Korean business) shinkumi network**, complementing [[cooperative-banks/osaka-shogin-shinkumi|大阪商銀信用組合]] (Kansai) and routing through [[banking/credit-cooperative-registry-japan|Japan credit cooperative registry]] for the broader 143 cooperative population.
+This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as the **Chubu (Chukyo) representative of the shogin-kei (in-Japan Korean business) shinkumi network**, complementing [[cooperative-banks/osaka-shogin-shinkumi|大阪商銀信用組合]] (Kansai) and routing through [[banking/credit-cooperative-registry-japan|Japan credit cooperative registry]] for the broader 143 cooperative population.
 
 ## 1. Corporate overview
 
@@ -119,7 +119,7 @@ According to the FSA registry, Aichi Prefecture has 8  credit cooperatives (regi
 - [[financial-regulators/dic]] — Deposit Insurance Corporation of Japan
 - [[banking/credit-cooperative-registry-japan]] — Japan credit cooperative registry (143  overall shinkumi population)
 - [[banking/cooperative-banking-japan]] — Cooperative finance as a whole
-- [[JapanFG/INDEX|JapanFG index]]
+- [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 
 ## Sources
 

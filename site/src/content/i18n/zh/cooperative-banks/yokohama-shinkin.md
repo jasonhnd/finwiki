@@ -1,5 +1,5 @@
 ---
-source: japanfg/yokohama-shinkin
+source: cooperative-banks/yokohama-shinkin
 source_hash: 82b15d832a6415b9
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-01T02:31:57.157Z
 
 ## Wiki route
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可与 [[cooperative-banks/kawasaki-shinkin|川崎信用金庫]] 对照阅读，以理解神奈川 shinkin 区块内部的同业 / 对比背景；也可与 [[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]] 一起阅读，以理解由 [[cooperative-banks/shinkin-central|信金中央金庫]] 维护的更广义系统 / 监管边界。
+本条目位于 [[cooperative-banks/INDEX|cooperative-banks INDEX]] 之下。可与 [[cooperative-banks/kawasaki-shinkin|川崎信用金庫]] 对照阅读，以理解神奈川 shinkin 区块内部的同业 / 对比背景；也可与 [[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]] 一起阅读，以理解由 [[cooperative-banks/shinkin-central|信金中央金庫]] 维护的更广义系统 / 监管边界。
 
 ## TL;DR
 

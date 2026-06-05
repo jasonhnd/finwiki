@@ -35,7 +35,7 @@
       "https://www.sbigroup.co.jp/news/2025/0731_15628.html (SBI新生銀行 公的資金完済, 2025-07-31)"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 三菱 UFJ FG (MUFG) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under megabanks INDEX. Read it against 三菱 UFJ FG (MUFG) for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [
     "SBI 地銀ホールディングス",
     "Wiki route",
@@ -51,12 +51,12 @@
   "body_links": {
     "wikilinks_count": 14,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "chiba-bank",
       "concordia-fg",
       "fukuoka-fg",
       "jimoto-hd",
+      "megabanks/INDEX",
       "megabanks/mufg",
       "mizuho-fg",
       "mufg",
@@ -67,12 +67,12 @@
       "smfg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/chiba-bank",
       "https://finwiki.zksc.io/concordia-fg",
       "https://finwiki.zksc.io/fukuoka-fg",
       "https://finwiki.zksc.io/jimoto-hd",
+      "https://finwiki.zksc.io/megabanks/INDEX",
       "https://finwiki.zksc.io/megabanks/mufg",
       "https://finwiki.zksc.io/mizuho-fg",
       "https://finwiki.zksc.io/mufg",
@@ -86,9 +86,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5423,
+    "nonspace_chars": 5427,
     "word_like_tokens": 928,
     "inbound_wikilinks_count": 8,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

@@ -38,7 +38,7 @@
       "https://www.fsa.go.jp/menkyo/menkyoj/songai.pdf"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against ミュンヘン再保険日本支店 for direct peer (\"Big 2\" global reinsurer) and トーア再保険 for the Japanese domestic-reinsurer contrast. The broader system anchor is nat-cat reinsurance Japan, and historical reference 日本地震再保険 explains the public-private earthquake scheme",
+  "summary": "This entry sits under non-life-insurers INDEX. Read it against ミュンヘン再保険日本支店 for direct peer (\"Big 2\" global reinsurer) and トーア再保険 for the Japanese domestic-reinsurer contrast. The broader system anchor is nat-cat reinsurance Japan, and historical reference 日本地震再保険 explains the public-private earthqu",
   "headings": [
     "スイス再保険日本支店",
     "Wiki route",
@@ -52,12 +52,12 @@
   "body_links": {
     "wikilinks_count": 11,
     "wikilinks": [
-      "JapanFG/INDEX",
       "hannover-re-japan",
       "insurance/INDEX",
       "insurance/natcat-reinsurance-japan",
       "japan-earthquake-reinsurance",
       "munich-re-japan",
+      "non-life-insurers/INDEX",
       "non-life-insurers/japan-earthquake-reinsurance",
       "non-life-insurers/munich-re-japan",
       "non-life-insurers/toa-reinsurance",
@@ -65,12 +65,12 @@
       "toa-reinsurance"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/hannover-re-japan",
       "https://finwiki.zksc.io/insurance/INDEX",
       "https://finwiki.zksc.io/insurance/natcat-reinsurance-japan",
       "https://finwiki.zksc.io/japan-earthquake-reinsurance",
       "https://finwiki.zksc.io/munich-re-japan",
+      "https://finwiki.zksc.io/non-life-insurers/INDEX",
       "https://finwiki.zksc.io/non-life-insurers/japan-earthquake-reinsurance",
       "https://finwiki.zksc.io/non-life-insurers/munich-re-japan",
       "https://finwiki.zksc.io/non-life-insurers/toa-reinsurance",
@@ -81,9 +81,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2866,
-    "word_like_tokens": 424,
+    "nonspace_chars": 2896,
+    "word_like_tokens": 430,
     "inbound_wikilinks_count": 12,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

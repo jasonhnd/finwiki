@@ -19,7 +19,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it with [[non-life-insurers/ntt-docomo-sompo-hd|NTTドコモ損害保険ホールディングス]], [[non-life-insurers/sompo|SOMPO]], [[non-life-insurers/sompo-japan-insurance|損害保険ジャパン]], [[non-life-insurers/yamap-naturance-insurance|ヤマップネイチャランス損害保険]], and [[insurance/INDEX|insurance index]].
+This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read it with [[non-life-insurers/ntt-docomo-sompo-hd|NTTドコモ損害保険ホールディングス]], [[non-life-insurers/sompo|SOMPO]], [[non-life-insurers/sompo-japan-insurance|損害保険ジャパン]], [[non-life-insurers/yamap-naturance-insurance|ヤマップネイチャランス損害保険]], and [[insurance/INDEX|insurance index]].
 
 Use this page for the licensed operating company. Use [[non-life-insurers/ntt-docomo-sompo-hd|NTTドコモ損害保険ホールディングス]] for the holding-company authorization route.
 

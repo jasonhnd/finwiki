@@ -1,5 +1,5 @@
 ---
-source: japanfg/smbc-nikko
+source: securities-firms/smbc-nikko
 source_hash: a210e4583200e645
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.166Z
 
 ## Wiki route
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可与 [[securities-firms/nomura-hd|野村ホールディングス (Nomura HD)]] 对照阅读以理解同业 / 对比语境，也可与 [[securities/INDEX|securities index]] 一起阅读以把握更大的系统和监管边界。
+本条目位于 [[securities-firms/INDEX|securities-firms INDEX]] 之下。可与 [[securities-firms/nomura-hd|野村ホールディングス (Nomura HD)]] 对照阅读以理解同业 / 对比语境，也可与 [[securities/INDEX|securities index]] 一起阅读以把握更大的系统和监管边界。
 
 ## TL;DR
 

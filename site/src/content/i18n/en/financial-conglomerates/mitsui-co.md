@@ -1,5 +1,5 @@
 ---
-source: japanfg/mitsui-co
+source: financial-conglomerates/mitsui-co
 source_hash: 27a7b35b99fe77b7
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:59:49.391Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sogo shosha parent holding-company**. Read it against [[financial-conglomerates/mitsubishi-corp|Mitsubishi Corporation]], the largest rival competing for the top net-income position, and [[financial-conglomerates/itochu-corp|Itochu Corporation]], the five-major-trading-company contrast with a more non-resource tilt, for peer and contrast context. For the financial-services adjacency that anchors this entry on JapanFG, see [[trading-company-finance/mitsui-bussan-financial-services|Mitsui Bussan Financial Services]] as the internal CMS function. Treating [[leasing-firms/smfl|SMFL]] as Mitsui & Co.'s main leasing subsidiary is **inaccurate**. Mitsui & Co.'s main leasing affiliate is [[cooperative-banks/ja-mitsui-leasing|JA Mitsui Leasing]], a JA Zen-Noh + Mitsui & Co. line formed through the merger of former Mitsui Leasing and JA Leasing. That is separate from its stake in [[leasing-firms/smfl|SMFL]], the SMFG / Sumitomo Corporation line, and from its stake in [[leasing-firms/sumitomo-mitsui-auto-service|Sumitomo Mitsui Auto Service]]. System frame: [[finance/INDEX|finance index]] and [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]].
+This entry sits under [[financial-conglomerates/INDEX|financial-conglomerates INDEX]] as a **sogo shosha parent holding-company**. Read it against [[financial-conglomerates/mitsubishi-corp|Mitsubishi Corporation]], the largest rival competing for the top net-income position, and [[financial-conglomerates/itochu-corp|Itochu Corporation]], the five-major-trading-company contrast with a more non-resource tilt, for peer and contrast context. For the financial-services adjacency that anchors this entry on JapanFG, see [[trading-company-finance/mitsui-bussan-financial-services|Mitsui Bussan Financial Services]] as the internal CMS function. Treating [[leasing-firms/smfl|SMFL]] as Mitsui & Co.'s main leasing subsidiary is **inaccurate**. Mitsui & Co.'s main leasing affiliate is [[cooperative-banks/ja-mitsui-leasing|JA Mitsui Leasing]], a JA Zen-Noh + Mitsui & Co. line formed through the merger of former Mitsui Leasing and JA Leasing. That is separate from its stake in [[leasing-firms/smfl|SMFL]], the SMFG / Sumitomo Corporation line, and from its stake in [[leasing-firms/sumitomo-mitsui-auto-service|Sumitomo Mitsui Auto Service]]. System frame: [[finance/INDEX|finance index]] and [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]].
 
 ## 1. Company overview
 
@@ -103,7 +103,7 @@ Mitsui & Co. itself does not hold a banking license, but it is anchored in the f
 
 ## Related
 
-- [[JapanFG/INDEX|JapanFG index]]
+- [[financial-conglomerates/INDEX|financial-conglomerates INDEX]]
 - [[financial-conglomerates/mitsubishi-corp|三菱商事]] · [[financial-conglomerates/itochu-corp|伊藤忠商事]] · [[financial-conglomerates/sumitomo-corp|住友商事]] · [[financial-conglomerates/marubeni-corp|丸紅]] · [[financial-conglomerates/toyota-tsusho-corp|豊田通商]] · [[financial-conglomerates/sojitz-corp|双日]] (peer trading companies)
 - [[trading-company-finance/mitsui-bussan-financial-services|Mitsui Bussan Financial Services]] (internal group treasury)
 - [[cooperative-banks/ja-mitsui-leasing|JA Mitsui Leasing]] (equity-method leasing)

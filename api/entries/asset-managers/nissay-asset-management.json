@@ -37,7 +37,7 @@
       "https://www.nissay.co.jp/kaisha/group/"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against アセットマネジメントOne for peer / contrast context, securities license stack for the FIEA license boundary, and FSA 金商業者 index for the registry layer.",
+  "summary": "This entry sits under asset-managers INDEX. Read it against アセットマネジメントOne for peer / contrast context, securities license stack for the FIEA license boundary, and FSA 金商業者 index for the registry layer.",
   "headings": [
     "ニッセイアセットマネジメント (Nissay AM)",
     "Wiki route",
@@ -53,7 +53,7 @@
   "body_links": {
     "wikilinks_count": 15,
     "wikilinks": [
-      "JapanFG/INDEX",
+      "asset-managers/INDEX",
       "asset-managers/asset-management-one",
       "asset-managers/mufg-asset-management",
       "asset-managers/sbi-asset-management",
@@ -70,7 +70,7 @@
       "securities/nisa-2024-flow"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/asset-managers/INDEX",
       "https://finwiki.zksc.io/asset-managers/asset-management-one",
       "https://finwiki.zksc.io/asset-managers/mufg-asset-management",
       "https://finwiki.zksc.io/asset-managers/sbi-asset-management",
@@ -90,9 +90,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3498,
-    "word_like_tokens": 500,
+    "nonspace_chars": 3512,
+    "word_like_tokens": 502,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

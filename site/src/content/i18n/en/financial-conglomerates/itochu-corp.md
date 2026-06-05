@@ -1,5 +1,5 @@
 ---
-source: japanfg/itochu-corp
+source: financial-conglomerates/itochu-corp
 source_hash: 04e09ca021a5fe0f
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T15:29:03.957Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha parent holding company**: a non-financial trading-company parent that remains JapanFG-relevant through financial-services subsidiaries and strategic shareholdings. Read it against [[financial-conglomerates/mitsubishi-corp|Mitsubishi Corporation]] (leader among the five major trading companies, with a more resource-oriented profile) and [[financial-conglomerates/marubeni-corp|Marubeni]] (a textile- and grain-origin trading-company comparator) for peer / contrast context. For the financial-services adjacency that gives this entry its JapanFG anchor, see [[trading-company-finance/itochu-finance|ITOCHU Finance]] (internal CMS) and especially **[[leasing-firms/tokyo-century|Tokyo Century]]** (ITOCHU's strategic interest of roughly the 25% class, making it one of the two major shareholders alongside Mizuho FG; TSE PRIME **8439**). System frame: [[finance/INDEX|finance index]] and [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial-groups investable universe]].
+This entry sits under [[financial-conglomerates/INDEX|financial-conglomerates INDEX]] as a **sōgō shōsha parent holding company**: a non-financial trading-company parent that remains JapanFG-relevant through financial-services subsidiaries and strategic shareholdings. Read it against [[financial-conglomerates/mitsubishi-corp|Mitsubishi Corporation]] (leader among the five major trading companies, with a more resource-oriented profile) and [[financial-conglomerates/marubeni-corp|Marubeni]] (a textile- and grain-origin trading-company comparator) for peer / contrast context. For the financial-services adjacency that gives this entry its JapanFG anchor, see [[trading-company-finance/itochu-finance|ITOCHU Finance]] (internal CMS) and especially **[[leasing-firms/tokyo-century|Tokyo Century]]** (ITOCHU's strategic interest of roughly the 25% class, making it one of the two major shareholders alongside Mizuho FG; TSE PRIME **8439**). System frame: [[finance/INDEX|finance index]] and [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial-groups investable universe]].
 
 ## 1. Company profile
 
@@ -105,7 +105,7 @@ In addition, **ITOCHU Group's financial-services ecosystem**:
 
 ## Related
 
-- [[JapanFG/INDEX|JapanFG index]]
+- [[financial-conglomerates/INDEX|financial-conglomerates INDEX]]
 - [[financial-conglomerates/mitsubishi-corp|Mitsubishi Corporation]] · [[financial-conglomerates/mitsui-co|Mitsui & Co.]] · [[financial-conglomerates/sumitomo-corp|Sumitomo Corporation]] · [[financial-conglomerates/marubeni-corp|Marubeni]] · [[financial-conglomerates/toyota-tsusho-corp|Toyota Tsusho]] · [[financial-conglomerates/sojitz-corp|Sojitz]] (peer trading companies)
 - [[trading-company-finance/itochu-finance|ITOCHU Finance]] (internal group treasury)
 - [[leasing-firms/tokyo-century|Tokyo Century]] (major leasing company; ITOCHU strategic interest approximately 25% class)

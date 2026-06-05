@@ -44,7 +44,7 @@
       "ニッキンONLINE: 金融庁、池田泉州HDの「01Bank」に免許交付 https://www.nikkinonline.com/article/254475"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against UI銀行 (UI Bank) and みんなの銀行 for peer / contrast context (the two preceding 地銀デジタル銀行), 池田泉州ホールディングス for parent group context, and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under regional-banks INDEX. Read it against UI銀行 (UI Bank) and みんなの銀行 for peer / contrast context (the two preceding 地銀デジタル銀行), 池田泉州ホールディングス for parent group context, and banking index for the broader system / regulatory boundary.",
   "headings": [
     "01銀行 (01Bank)",
     "Wiki route",
@@ -60,20 +60,20 @@
   "body_links": {
     "wikilinks_count": 8,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "banking/baas-japan-landscape",
       "banking/minna-bank-baas-model",
+      "regional-banks/INDEX",
       "regional-banks/fukuoka-fg",
       "regional-banks/hokkoku-fhd",
       "regional-banks/ikeda-senshu-hd",
       "regional-banks/ui-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/baas-japan-landscape",
       "https://finwiki.zksc.io/banking/minna-bank-baas-model",
+      "https://finwiki.zksc.io/regional-banks/INDEX",
       "https://finwiki.zksc.io/regional-banks/fukuoka-fg",
       "https://finwiki.zksc.io/regional-banks/hokkoku-fhd",
       "https://finwiki.zksc.io/regional-banks/ikeda-senshu-hd",
@@ -83,9 +83,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5386,
-    "word_like_tokens": 939,
+    "nonspace_chars": 5400,
+    "word_like_tokens": 941,
     "inbound_wikilinks_count": 7,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

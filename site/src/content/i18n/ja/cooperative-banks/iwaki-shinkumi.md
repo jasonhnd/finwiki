@@ -1,5 +1,5 @@
 ---
-source: japanfg/iwaki-shinkumi
+source: cooperative-banks/iwaki-shinkumi
 source_hash: 976bc0e407a2c282
 lang: ja
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-02T14:25:12.423Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の下に置き、143協同組織群のうち [[banking/credit-cooperative-registry-japan|Japan credit cooperative registry]] に収録される **東北の地域信組アンカー** として扱う。[[cooperative-banks/osaka-shogin-shinkumi|大阪商銀信用組合]] は民族系・業域系信組との対比、[[cooperative-banks/zenshin-kumi|全信組連 / Zenshinkumiren]] は協同組織システム上位機関の文脈として併読する。
+この項目は [[cooperative-banks/INDEX|cooperative-banks INDEX]] の下に置き、143協同組織群のうち [[banking/credit-cooperative-registry-japan|Japan credit cooperative registry]] に収録される **東北の地域信組アンカー** として扱う。[[cooperative-banks/osaka-shogin-shinkumi|大阪商銀信用組合]] は民族系・業域系信組との対比、[[cooperative-banks/zenshin-kumi|全信組連 / Zenshinkumiren]] は協同組織システム上位機関の文脈として併読する。
 
 ## 要約
 
@@ -100,7 +100,7 @@ translated_at: 2026-06-02T14:25:12.423Z
 - [[financial-regulators/shoko-chukin]] — 商工中金 (政府系中小企業金融、被災地連携)
 - [[banking/credit-cooperative-registry-japan]] — 日本の信用組合レジストリ（143 信組全体）
 - [[banking/cooperative-banking-japan]] — 協同組織金融全体
-- [[JapanFG/INDEX|JapanFG index]]
+- [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 
 ## 出典
 

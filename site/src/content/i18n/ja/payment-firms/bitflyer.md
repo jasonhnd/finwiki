@@ -1,5 +1,5 @@
 ---
-source: japanfg/bitflyer
+source: payment-firms/bitflyer
 source_hash: 9db6c7bc20410838
 lang: ja
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-02T14:01:20.901Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の下に位置する。ピア比較・対比の文脈は [[securities-firms/monex-group|マネックスグループ (Monex Group)]]、より広いシステム / 規制境界は [[banking/INDEX|banking index]] とあわせて読む。
+この項目は [[payment-firms/INDEX|payment-firms INDEX]] の下に位置する。ピア比較・対比の文脈は [[securities-firms/monex-group|マネックスグループ (Monex Group)]]、より広いシステム / 規制境界は [[banking/INDEX|banking index]] とあわせて読む。
 
 ## 要約
 

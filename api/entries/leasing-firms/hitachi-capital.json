@@ -39,7 +39,7 @@
       "https://www.leasing.or.jp/"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 三菱HCキャピタル (現行統合エンティティ) for the surviving entity post-2021 merger and banking index for the broader system / regulatory boundary. As a Hitachi-side historical entity, read it together with MUFG for parent-group context post-merger.",
+  "summary": "This entry sits under leasing-firms INDEX. Read it against 三菱HCキャピタル (現行統合エンティティ) for the surviving entity post-2021 merger and banking index for the broader system / regulatory boundary. As a Hitachi-side historical entity, read it together with MUFG for parent-group context post-merger.",
   "headings": [
     "日立キャピタル (旧称・現三菱HCキャピタル統合)",
     "Wiki route",
@@ -55,9 +55,9 @@
   "body_links": {
     "wikilinks_count": 12,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "finance/japan-acquisition-finance",
+      "leasing-firms/INDEX",
       "leasing-firms/fuyo-lease",
       "leasing-firms/ibj-leasing",
       "leasing-firms/mitsubishi-hc-capital",
@@ -69,9 +69,9 @@
       "megabanks/mufg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/finance/japan-acquisition-finance",
+      "https://finwiki.zksc.io/leasing-firms/INDEX",
       "https://finwiki.zksc.io/leasing-firms/fuyo-lease",
       "https://finwiki.zksc.io/leasing-firms/ibj-leasing",
       "https://finwiki.zksc.io/leasing-firms/mitsubishi-hc-capital",
@@ -86,9 +86,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4049,
-    "word_like_tokens": 664,
+    "nonspace_chars": 4061,
+    "word_like_tokens": 666,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

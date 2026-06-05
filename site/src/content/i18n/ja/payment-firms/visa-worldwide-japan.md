@@ -1,5 +1,5 @@
 ---
-source: japanfg/visa-worldwide-japan
+source: payment-firms/visa-worldwide-japan
 source_hash: 09054443887fd7a1
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T16:33:58.502Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の下に位置づける。比較・対照の文脈では [[card-issuers/jcb|JCB]] とあわせて読む。Visa はグローバルな純粋スキームであり、JCB は日本発のハイブリッド型である。より広い制度・規制上の境界については [[payments/japan-card-issuer-acquirer-processor-split|Japan card issuer / acquirer / processor split]] を参照する。
+この項目は [[payment-firms/INDEX|payment-firms INDEX]] の下に位置づける。比較・対照の文脈では [[card-issuers/jcb|JCB]] とあわせて読む。Visa はグローバルな純粋スキームであり、JCB は日本発のハイブリッド型である。より広い制度・規制上の境界については [[payments/japan-card-issuer-acquirer-processor-split|Japan card issuer / acquirer / processor split]] を参照する。
 
 ## 要約
 

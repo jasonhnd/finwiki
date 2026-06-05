@@ -36,7 +36,7 @@
       "https://www.meijiyasuda-sonpo.co.jp/"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it with insurance index for adjacent context and JapanFG index for the broader system boundary.",
+  "summary": "This entry sits under non-life-insurers INDEX. Read it with insurance index for adjacent context and JapanFG index for the broader system boundary.",
   "headings": [
     "明治安田損害保険",
     "Wiki route",
@@ -50,32 +50,32 @@
   "body_links": {
     "wikilinks_count": 8,
     "wikilinks": [
-      "JapanFG/INDEX",
       "financial-licenses/INDEX",
       "insurance/INDEX",
       "insurance/global-solvency-framework-comparison-matrix",
       "insurance/mutual-vs-stock-life-insurer",
       "meiji-yasuda",
       "nisshin-fire",
+      "non-life-insurers/INDEX",
       "non-life-insurers/dai-ichi-ipet-insurance"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/financial-licenses/INDEX",
       "https://finwiki.zksc.io/insurance/INDEX",
       "https://finwiki.zksc.io/insurance/global-solvency-framework-comparison-matrix",
       "https://finwiki.zksc.io/insurance/mutual-vs-stock-life-insurer",
       "https://finwiki.zksc.io/meiji-yasuda",
       "https://finwiki.zksc.io/nisshin-fire",
+      "https://finwiki.zksc.io/non-life-insurers/INDEX",
       "https://finwiki.zksc.io/non-life-insurers/dai-ichi-ipet-insurance"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2074,
-    "word_like_tokens": 326,
+    "nonspace_chars": 2094,
+    "word_like_tokens": 330,
     "inbound_wikilinks_count": 3,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

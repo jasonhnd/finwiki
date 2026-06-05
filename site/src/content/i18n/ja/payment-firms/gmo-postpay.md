@@ -1,5 +1,5 @@
 ---
-source: japanfg/gmo-postpay
+source: payment-firms/gmo-postpay
 source_hash: 8627021be5280eb9
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:25:12.434Z
 
 ## ウィキ上の位置づけ
 
-この項目は **PSP 側 BNPL** 商品として [[JapanFG/INDEX|JapanFG index]] の下に置く。[[payment-firms/bnpl-landscape|Japan BNPL landscape]] のシステムノート、加盟店獲得スタックを説明する兄弟項目 [[payment-firms/gmo-payment-gateway|GMO ペイメントゲートウェイ]]、ピュアプレイ BNPL を示す [[payment-firms/net-protections-hd|Net Protections HD]] / [[payment-firms/paidy|Paidy]] とあわせて読む。[[payments/japan-bnpl-credit-purchase-boundary|BNPL and credit-purchase boundary]] は規制上の問いを整理し、[[payments/credit-purchase-card-operators-japan-index|METI credit-purchase registry]] は登録のアンカー、[[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]] はカード・コード決済の経済性との比較軸を与える。
+この項目は **PSP 側 BNPL** 商品として [[payment-firms/INDEX|payment-firms INDEX]] の下に置く。[[payment-firms/bnpl-landscape|Japan BNPL landscape]] のシステムノート、加盟店獲得スタックを説明する兄弟項目 [[payment-firms/gmo-payment-gateway|GMO ペイメントゲートウェイ]]、ピュアプレイ BNPL を示す [[payment-firms/net-protections-hd|Net Protections HD]] / [[payment-firms/paidy|Paidy]] とあわせて読む。[[payments/japan-bnpl-credit-purchase-boundary|BNPL and credit-purchase boundary]] は規制上の問いを整理し、[[payments/credit-purchase-card-operators-japan-index|METI credit-purchase registry]] は登録のアンカー、[[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]] はカード・コード決済の経済性との比較軸を与える。
 
 ## 要約
 

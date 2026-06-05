@@ -1,5 +1,5 @@
 ---
-source: japanfg/ikeda-senshu-hd
+source: regional-banks/ikeda-senshu-hd
 source_hash: 6a83b6e8ade9f865
 lang: en
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T15:29:03.881Z
 
 ## Wiki route
 
-This entry sits under[[JapanFG/INDEX|JapanFG index]]Read it against[[regional-banks/kyoto-fg|Kyoto FG]]for peer / contrast context and[[banking/INDEX|banking index]]for the broader system / regulatory boundary.
+This entry sits under[[regional-banks/INDEX|regional-banks INDEX]]Read it against[[regional-banks/kyoto-fg|Kyoto FG]]for peer / contrast context and[[banking/INDEX|banking index]]for the broader system / regulatory boundary.
 
 ## TL;DR
 

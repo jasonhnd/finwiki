@@ -1,5 +1,5 @@
 ---
-source: japanfg/dmm-com-securities
+source: securities-firms/dmm-com-securities
 source_hash: 7ab6522b841a5466
 lang: zh
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-05-31T15:29:03.874Z
 
 ## 维基路线
 
-该条目位于[[JapanFG/INDEX|JapanFG index]]阅读它反对[[securities-firms/gmo-click-securities|GMOクリック証券]]对于同行/对比上下文和[[securities/INDEX|securities index]]适用于更广泛的系统/监管边界。
+该条目位于[[securities-firms/INDEX|securities-firms INDEX]]阅读它反对[[securities-firms/gmo-click-securities|GMOクリック証券]]对于同行/对比上下文和[[securities/INDEX|securities index]]适用于更广泛的系统/监管边界。
 
 ## 长话短说
 

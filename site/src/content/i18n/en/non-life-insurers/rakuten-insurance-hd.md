@@ -1,5 +1,5 @@
 ---
-source: japanfg/rakuten-insurance-hd
+source: non-life-insurers/rakuten-insurance-hd
 source_hash: ed0bba87f846c7cb
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T00:41:50.454Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[life-insurers/rakuten-life|楽天生命保険]] for peer / contrast context and [[insurance/INDEX|insurance index]] for the broader system / regulatory boundary.
+This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read it against [[life-insurers/rakuten-life|楽天生命保険]] for peer / contrast context and [[insurance/INDEX|insurance index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 

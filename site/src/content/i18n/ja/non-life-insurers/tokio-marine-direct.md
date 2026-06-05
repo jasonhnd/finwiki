@@ -1,5 +1,5 @@
 ---
-source: japanfg/tokio-marine-direct
+source: non-life-insurers/tokio-marine-direct
 source_hash: 0aa4206ca6933630
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T16:33:58.472Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に置かれる。比較・対照の文脈では [[non-life-insurers/tokio-marine-nichido-fire|東京海上日動火災保険]] を、より広い制度・規制上の境界については [[insurance/INDEX|insurance index]] を参照する。
+この項目は [[non-life-insurers/INDEX|non-life-insurers INDEX]] の配下に置かれる。比較・対照の文脈では [[non-life-insurers/tokio-marine-nichido-fire|東京海上日動火災保険]] を、より広い制度・規制上の境界については [[insurance/INDEX|insurance index]] を参照する。
 
 ## 要約
 

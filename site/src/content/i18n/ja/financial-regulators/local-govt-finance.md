@@ -1,5 +1,5 @@
 ---
-source: japanfg/local-govt-finance
+source: financial-regulators/local-govt-finance
 source_hash: cd4203f58748cbc3
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:54:39.092Z
 
 ## ウィキ上の位置づけ
 
-この項目 sits under [[JapanFG/INDEX|JapanFG index]]. あわせて読む と照合して [[financial-regulators/jfc|日本政策金融公庫 (JFC)]] のために 比較・対照 文脈 と [[banking/INDEX|banking index]] のために the より広い制度・規制境界.
+この項目 sits under [[financial-regulators/INDEX|financial-regulators INDEX]]. あわせて読む と照合して [[financial-regulators/jfc|日本政策金融公庫 (JFC)]] のために 比較・対照 文脈 と [[banking/INDEX|banking index]] のために the より広い制度・規制境界.
 
 ## 要約
 

@@ -1,5 +1,5 @@
 ---
-source: japanfg/nisshin-fire
+source: non-life-insurers/nisshin-fire
 source_hash: ea3f2339160dbe1f
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T00:41:50.422Z
 
 ## Wiki 路径
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可与 [[non-life-insurers/tokio-marine-nichido-fire|東京海上日動火災保険]] 对读以理解同业 / 对比语境，并与 [[insurance/INDEX|insurance index]] 对读以把握更广的制度 / 监管边界。
+本条目位于 [[non-life-insurers/INDEX|non-life-insurers INDEX]] 之下。可与 [[non-life-insurers/tokio-marine-nichido-fire|東京海上日動火災保険]] 对读以理解同业 / 对比语境，并与 [[insurance/INDEX|insurance index]] 对读以把握更广的制度 / 监管边界。
 
 ## TL;DR
 

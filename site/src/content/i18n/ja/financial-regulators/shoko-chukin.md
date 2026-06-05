@@ -1,5 +1,5 @@
 ---
-source: japanfg/shoko-chukin
+source: financial-regulators/shoko-chukin
 source_hash: 9bb0d146db3aa019
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T15:14:17.143Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に位置する。比較・対照の文脈では [[megabanks/mufg|三菱 UFJ FG (MUFG)]]、より広い制度上・規制上の境界については [[banking/INDEX|banking index]] とあわせて読む。
+この項目は [[financial-regulators/INDEX|financial-regulators INDEX]] の配下に位置する。比較・対照の文脈では [[megabanks/mufg|三菱 UFJ FG (MUFG)]]、より広い制度上・規制上の境界については [[banking/INDEX|banking index]] とあわせて読む。
 
 ## 要約
 

@@ -59,7 +59,6 @@
     "wikilinks_count": 16,
     "wikilinks": [
       "INDEX",
-      "JapanFG/INDEX",
       "banking/INDEX",
       "finance/cross-border-m-a-japan",
       "financial-licenses/foreign-bank-agency-business-route",
@@ -71,13 +70,13 @@
       "foreign-financial-institutions/foreign-bank-branches-japan-index",
       "foreign-financial-institutions/standard-chartered-japan",
       "foreign-financial-institutions/uob-bank-japan",
+      "securities-firms/INDEX",
       "securities-firms/goldman-sachs-japan",
       "securities/INDEX",
       "securities/financial-instruments-business-operators-japan-index"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/finance/cross-border-m-a-japan",
       "https://finwiki.zksc.io/financial-licenses/foreign-bank-agency-business-route",
@@ -89,6 +88,7 @@
       "https://finwiki.zksc.io/foreign-financial-institutions/foreign-bank-branches-japan-index",
       "https://finwiki.zksc.io/foreign-financial-institutions/standard-chartered-japan",
       "https://finwiki.zksc.io/foreign-financial-institutions/uob-bank-japan",
+      "https://finwiki.zksc.io/securities-firms/INDEX",
       "https://finwiki.zksc.io/securities-firms/goldman-sachs-japan",
       "https://finwiki.zksc.io/securities/INDEX",
       "https://finwiki.zksc.io/securities/financial-instruments-business-operators-japan-index"
@@ -97,9 +97,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5480,
-    "word_like_tokens": 805,
+    "nonspace_chars": 5507,
+    "word_like_tokens": 808,
     "inbound_wikilinks_count": 7,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

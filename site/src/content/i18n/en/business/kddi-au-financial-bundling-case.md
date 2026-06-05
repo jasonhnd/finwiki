@@ -13,7 +13,7 @@ translated_at: 2026-06-05T00:00:00.000Z
 
 ## Wiki route
 
-This entry sits under [[business/INDEX|business INDEX]] as a public-company strategic case. Read it against [[business/ntt-docomo-d-point-telco-finance-case|NTT Docomo d-Point telco-finance case]] for the contrasting partner-led model (Docomo leases SMBC's balance sheet rather than owning the bank) and [[business/rakuten-group-mobile-finance-bundling-case|Rakuten Group mobile-finance bundling case]] for the build-everything-and-cross-subsidise direction. For the regulated-entity profiles see [[megabanks/au-fh|au Financial Holdings]], [[regional-banks/au-jibun-bank|au Jibun Bank]], and [[payment-firms/au-payment|au PAY (au Payment)]]; for the megabank counterparty see [[megabanks/mufg|MUFG]]. Pair with [[JapanFG/INDEX|JapanFG payments / cards / leasing index]] and [[payments/cashless-jp-landscape|Japan cashless payment landscape]].
+This entry sits under [[business/INDEX|business INDEX]] as a public-company strategic case. Read it against [[business/ntt-docomo-d-point-telco-finance-case|NTT Docomo d-Point telco-finance case]] for the contrasting partner-led model (Docomo leases SMBC's balance sheet rather than owning the bank) and [[business/rakuten-group-mobile-finance-bundling-case|Rakuten Group mobile-finance bundling case]] for the build-everything-and-cross-subsidise direction. For the regulated-entity profiles see [[megabanks/au-fh|au Financial Holdings]], [[regional-banks/au-jibun-bank|au Jibun Bank]], and [[payment-firms/au-payment|au PAY (au Payment)]]; for the megabank counterparty see [[megabanks/mufg|MUFG]]. Pair with [[business/INDEX|business INDEX]] and [[payments/cashless-jp-landscape|Japan cashless payment landscape]].
 
 ## TL;DR
 
@@ -130,7 +130,6 @@ The pattern most likely to replicate: a telco that owns the deposit + payments r
 - [[payment-firms/au-payment|au PAY]]
 - [[non-life-insurers/au-insurance|au Insurance]]
 - [[megabanks/mufg|MUFG]]
-- [[JapanFG/INDEX|JapanFG payments / cards / leasing index]]
 - [[payments/cashless-jp-landscape|Japan cashless payment landscape]]
 - [[loyalty/d-point-au-kddi-docomo-telco-point-consolidation|telco point consolidation]]
 - [[INDEX|FinWiki index]]

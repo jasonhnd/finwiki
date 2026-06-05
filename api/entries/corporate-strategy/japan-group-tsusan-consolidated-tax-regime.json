@@ -58,10 +58,9 @@
     "7. Counterpoints and Caveats"
   ],
   "body_links": {
-    "wikilinks_count": 11,
+    "wikilinks_count": 10,
     "wikilinks": [
       "INDEX",
-      "JapanFG/INDEX",
       "corporate-strategy/INDEX",
       "corporate-strategy/japan-gappei-merger-regime",
       "corporate-strategy/japan-holding-company-conversion",
@@ -74,7 +73,6 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/corporate-strategy/INDEX",
       "https://finwiki.zksc.io/corporate-strategy/japan-gappei-merger-regime",
       "https://finwiki.zksc.io/corporate-strategy/japan-holding-company-conversion",
@@ -89,9 +87,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 11072,
-    "word_like_tokens": 1927,
+    "nonspace_chars": 11063,
+    "word_like_tokens": 1925,
     "inbound_wikilinks_count": 1,
-    "last_modified": "2026-06-03"
+    "last_modified": "2026-06-06"
   }
 }

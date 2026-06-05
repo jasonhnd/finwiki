@@ -35,7 +35,7 @@
       "Kyodo Trust company profile PDF: https://www.ookuchi-step21.jp/images/library/pamphlet02.pdf"
     ]
   },
-  "summary": "Wiki route: JapanFG/INDEX -> trust-banks/trust-companies-japan-index -> trust-banks/kyodo-trust",
+  "summary": "Wiki route: trust-banks/INDEX -> trust-banks/trust-companies-japan-index -> trust-banks/kyodo-trust",
   "headings": [
     "Kyodo Trust / 共同信託",
     "Overview",
@@ -50,8 +50,8 @@
     "wikilinks_count": 7,
     "wikilinks": [
       "INDEX",
-      "JapanFG/INDEX",
       "payments/account-to-account-payment-japan",
+      "trust-banks/INDEX",
       "trust-banks/castglobal-trust",
       "trust-banks/kiriu-real-estate-trust",
       "trust-banks/kyodo-trust",
@@ -59,8 +59,8 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/payments/account-to-account-payment-japan",
+      "https://finwiki.zksc.io/trust-banks/INDEX",
       "https://finwiki.zksc.io/trust-banks/castglobal-trust",
       "https://finwiki.zksc.io/trust-banks/kiriu-real-estate-trust",
       "https://finwiki.zksc.io/trust-banks/kyodo-trust",
@@ -70,9 +70,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2201,
-    "word_like_tokens": 356,
+    "nonspace_chars": 2205,
+    "word_like_tokens": 357,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

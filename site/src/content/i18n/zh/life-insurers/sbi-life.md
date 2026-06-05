@@ -1,5 +1,5 @@
 ---
-source: japanfg/sbi-life
+source: life-insurers/sbi-life
 source_hash: 1d7c64d60c3e1c62
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-01T00:41:50.409Z
 
 ## Wiki 路线
 
-本条目位于 [[JapanFG/INDEX|JapanFG 索引]]。可与 [[insurance/INDEX|保险索引]]、[[sbi-insurance-group]] 和 [[sbi-hd]] 配套阅读。
+本条目位于 [[life-insurers/INDEX|life-insurers INDEX]]。可与 [[insurance/INDEX|保险索引]]、[[sbi-insurance-group]] 和 [[sbi-hd]] 配套阅读。
 
 ## 概要
 

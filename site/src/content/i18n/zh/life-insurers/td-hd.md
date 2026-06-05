@@ -1,5 +1,5 @@
 ---
-source: japanfg/td-hd
+source: life-insurers/td-hd
 source_hash: f180a543f398b6d0
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.170Z
 
 ## Wiki route
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可与 [[life-insurers/dai-ichi-life|第一ライフグループ / 旧 第一生命 HD]] 对照阅读以理解同业 / 对比语境，也可与 [[insurance/INDEX|insurance index]] 一起阅读以把握更大的系统和监管边界。
+本条目位于 [[life-insurers/INDEX|life-insurers INDEX]] 之下。可与 [[life-insurers/dai-ichi-life|第一ライフグループ / 旧 第一生命 HD]] 对照阅读以理解同业 / 对比语境，也可与 [[insurance/INDEX|insurance index]] 一起阅读以把握更大的系统和监管边界。
 
 ## TL;DR
 

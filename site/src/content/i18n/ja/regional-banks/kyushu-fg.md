@@ -1,5 +1,5 @@
 ---
-source: japanfg/kyushu-fg
+source: regional-banks/kyushu-fg
 source_hash: 046247fbd932bc90
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:54:39.065Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] に属する。同業・比較対象の文脈では [[regional-banks/fukuoka-fg|ふくおか FG (FFG)]]、より広い制度・規制上の境界では [[banking/INDEX|banking index]] と併せて読む。
+この項目は [[regional-banks/INDEX|regional-banks INDEX]] に属する。同業・比較対象の文脈では [[regional-banks/fukuoka-fg|ふくおか FG (FFG)]]、より広い制度・規制上の境界では [[banking/INDEX|banking index]] と併せて読む。
 
 ## 要約
 

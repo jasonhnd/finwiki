@@ -1,5 +1,5 @@
 ---
-source: japanfg/fidea-hd
+source: regional-banks/fidea-hd
 source_hash: 9edce4ba51207a83
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:25:12.412Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] 配下に位置する。比較・対照の文脈では [[regional-banks/jimoto-hd|じもとホールディングス (JIMOTO HD)]]、制度全体と規制境界の文脈では [[banking/INDEX|banking index]] とあわせて読む。
+この項目は [[regional-banks/INDEX|regional-banks INDEX]] 配下に位置する。比較・対照の文脈では [[regional-banks/jimoto-hd|じもとホールディングス (JIMOTO HD)]]、制度全体と規制境界の文脈では [[banking/INDEX|banking index]] とあわせて読む。
 
 ## 要約
 

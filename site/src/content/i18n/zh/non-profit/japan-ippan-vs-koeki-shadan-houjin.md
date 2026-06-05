@@ -91,7 +91,7 @@ translated_at: 2026-06-05T00:00:00.000Z
 
 - **一般社団 → 公益社団** 阶梯是 **一般財団 → 公益財団** 阶梯的会员侧对应物。中间的 一般 阶段是 公益認定等委員会 审查者在授予公益资格前所期望的事实上的业绩记录期。
 - 对于接受资助或从事募款的主体而言，公益 资格下的捐赠方抵扣实质性地拓宽了可触达的捐赠者基础，这也是成熟的企业慈善与研究载体往往攀升至 公益 的原因 —— 与 [[non-profit/japan-research-grant-map-2026|Japan research grant map 2026]] 所映射的资金生态相关。
-- 运营公益分支的上市金融集团通常偏好 公益 形态以获得保持距离的治理；此类集团的实体级覆盖位于 [[JapanFG/INDEX|JapanFG INDEX]]，监管背景位于 [[fintech/japan-financial-regulation|Japan financial regulation]]。
+- 运营公益分支的上市金融集团通常偏好 公益 形态以获得保持距离的治理；此类集团的实体级覆盖位于 [[non-profit/INDEX|non-profit INDEX]]，监管背景位于 [[fintech/japan-financial-regulation|Japan financial regulation]]。
 
 ## 相关
 

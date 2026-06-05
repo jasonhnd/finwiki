@@ -40,7 +40,7 @@
       "https://www.fsa.go.jp/menkyo/menkyoj/songai.pdf"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against RGA リインシュアランス・カンパニー日本支店 as a US-headquartered peer (RGA: life specialist; Gen Re: P&C + life via subsidiary), and contrast with ミュンヘン再保険日本支店 / スイス再保険日本支店 as the European \"Big 2\". Domestic peer remains トーア再保険 and broader system is nat-cat reinsuran",
+  "summary": "This entry sits under non-life-insurers INDEX. Read it against RGA リインシュアランス・カンパニー日本支店 as a US-headquartered peer (RGA: life specialist; Gen Re: P&C + life via subsidiary), and contrast with ミュンヘン再保険日本支店 / スイス再保険日本支店 as the European \"Big 2\". Domestic peer remains トーア再保険 and broader system is nat-cat",
   "headings": [
     "ジェネラル再保険日本支店",
     "Wiki route",
@@ -54,7 +54,6 @@
   "body_links": {
     "wikilinks_count": 14,
     "wikilinks": [
-      "JapanFG/INDEX",
       "hannover-re-japan",
       "insurance/INDEX",
       "insurance/natcat-reinsurance-japan",
@@ -62,6 +61,7 @@
       "life-insurers/rga-japan",
       "mitsubishi-corporation",
       "munich-re-japan",
+      "non-life-insurers/INDEX",
       "non-life-insurers/munich-re-japan",
       "non-life-insurers/swiss-re-japan",
       "non-life-insurers/toa-reinsurance",
@@ -70,7 +70,6 @@
       "toa-reinsurance"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/hannover-re-japan",
       "https://finwiki.zksc.io/insurance/INDEX",
       "https://finwiki.zksc.io/insurance/natcat-reinsurance-japan",
@@ -78,6 +77,7 @@
       "https://finwiki.zksc.io/life-insurers/rga-japan",
       "https://finwiki.zksc.io/mitsubishi-corporation",
       "https://finwiki.zksc.io/munich-re-japan",
+      "https://finwiki.zksc.io/non-life-insurers/INDEX",
       "https://finwiki.zksc.io/non-life-insurers/munich-re-japan",
       "https://finwiki.zksc.io/non-life-insurers/swiss-re-japan",
       "https://finwiki.zksc.io/non-life-insurers/toa-reinsurance",
@@ -89,9 +89,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2833,
-    "word_like_tokens": 432,
+    "nonspace_chars": 2863,
+    "word_like_tokens": 438,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

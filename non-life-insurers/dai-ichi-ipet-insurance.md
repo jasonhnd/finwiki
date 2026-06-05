@@ -19,7 +19,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it with [[life-insurers/dai-ichi-life|第一ライフグループ]], [[non-life-insurers/anicom-insurance|アニコム損害保険]], [[non-life-insurers/pet-and-family-insurance|ペット＆ファミリー損害保険]], and [[insurance/INDEX|insurance index]].
+This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read it with [[life-insurers/dai-ichi-life|第一ライフグループ]], [[non-life-insurers/anicom-insurance|アニコム損害保険]], [[non-life-insurers/pet-and-family-insurance|ペット＆ファミリー損害保険]], and [[insurance/INDEX|insurance index]].
 
 Use this page for the pet-insurance operating-company boundary. Use [[life-insurers/dai-ichi-life|第一ライフグループ]] for the holding-company / group strategy route.
 

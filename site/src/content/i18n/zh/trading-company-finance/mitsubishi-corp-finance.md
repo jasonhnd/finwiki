@@ -1,5 +1,5 @@
 ---
-source: japanfg/mitsubishi-corp-finance
+source: trading-company-finance/mitsubishi-corp-finance
 source_hash: 396a0db0b996a787
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T23:59:49.331Z
 
 ## Wiki 路线
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可对照 [[asset-managers/mitsubishi-corp-asset-management|三菱商事アセットマネジメント]] 理解同一母公司内相邻的资产管理业务，并对照 [[trading-company-finance/mitsui-bussan-financial-services|三井物産フィナンシャルサービス]] 理解最接近的商社集团 treasury arm。关于本 wiki 已覆盖的 leasing peer set — [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]]（三菱侧上市租赁平台）、[[leasing-firms/smfl|SMFL]]（住友商事 + SMFG）、[[leasing-firms/tokyo-century|東京センチュリー]]（伊藤忠系）、[[cooperative-banks/ja-mitsui-leasing|JA三井リース]]（三井物産 + JA）— 可参见 [[banking/INDEX|banking index]] 理解更广泛的系统 / 监管边界。
+本条目位于 [[trading-company-finance/INDEX|trading-company-finance INDEX]] 之下。可对照 [[asset-managers/mitsubishi-corp-asset-management|三菱商事アセットマネジメント]] 理解同一母公司内相邻的资产管理业务，并对照 [[trading-company-finance/mitsui-bussan-financial-services|三井物産フィナンシャルサービス]] 理解最接近的商社集团 treasury arm。关于本 wiki 已覆盖的 leasing peer set — [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]]（三菱侧上市租赁平台）、[[leasing-firms/smfl|SMFL]]（住友商事 + SMFG）、[[leasing-firms/tokyo-century|東京センチュリー]]（伊藤忠系）、[[cooperative-banks/ja-mitsui-leasing|JA三井リース]]（三井物産 + JA）— 可参见 [[banking/INDEX|banking index]] 理解更广泛的系统 / 监管边界。
 
 ## 1. 公司概要
 

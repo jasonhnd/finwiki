@@ -1,5 +1,5 @@
 ---
-source: japanfg/gmo-epsilon
+source: payment-firms/gmo-epsilon
 source_hash: c8bab53c1a19f65a
 lang: ja
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-06-02T14:25:12.413Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] 配下に位置する。比較・対照の文脈では [[payment-firms/sb-payment-service|SBペイメントサービス (SB Payment Service)]]、制度全体と規制境界の文脈では [[payments/INDEX|payments index]] とあわせて読む。
+この項目は [[payment-firms/INDEX|payment-firms INDEX]] 配下に位置する。比較・対照の文脈では [[payment-firms/sb-payment-service|SBペイメントサービス (SB Payment Service)]]、制度全体と規制境界の文脈では [[payments/INDEX|payments index]] とあわせて読む。
 
 ## 要約
 

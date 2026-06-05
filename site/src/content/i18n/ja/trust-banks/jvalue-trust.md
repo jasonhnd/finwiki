@@ -1,5 +1,5 @@
 ---
-source: japanfg/jvalue-trust
+source: trust-banks/jvalue-trust
 source_hash: 75400b1ced507fc1
 lang: ja
 status: machine
@@ -10,7 +10,7 @@ translated_at: 2026-06-02T14:54:39.045Z
 
 # ジェイバリュー信託
 
-ウィキ上の位置づけ: [[JapanFG/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/jvalue-trust]]
+ウィキ上の位置づけ: [[trust-banks/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/jvalue-trust]]
 
 ## 概要
 

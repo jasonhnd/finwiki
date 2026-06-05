@@ -92,7 +92,7 @@ Sony's financial segment has functioned over the past 20 years as **"a stable re
 - [[megabanks/sony-fg|Sony Financial Group]] · [[regional-banks/sony-bank|Sony Bank]] · [[life-insurers/sony-life|Sony Life]] · [[non-life-insurers/sony-insurance|Sony Assurance]]
 - [[business/sony-fg-partial-spinoff-case|Sony FG partial spinoff case]] · [[corporate-strategy/partial-spinoff-tax-deferral|partial spinoff tax deferral]]
 - [[manufacturer-finance/hitachi-industrial-finance-platform|Hitachi Industrial Finance Platform]] · [[manufacturer-finance/panasonic-captive-finance|Panasonic Captive Finance]] · [[manufacturer-finance/toyota-financial-services|Toyota Financial Services]] · [[manufacturer-finance/mitsubishi-heavy-export-finance|Mitsubishi Heavy Export Finance]]
-- [[manufacturer-finance/INDEX|manufacturing INDEX]] · [[JapanFG/INDEX|JapanFG INDEX]] · [[INDEX|FinWiki index]]
+- [[manufacturer-finance/INDEX|manufacturing INDEX]] · [[manufacturer-finance/INDEX|manufacturer-finance INDEX]] · [[INDEX|FinWiki index]]
 
 ## Sources
 

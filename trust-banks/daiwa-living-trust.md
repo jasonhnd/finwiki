@@ -20,7 +20,7 @@ sources:
 
 ## Wiki route
 
-Daiwa Living Trust is a standalone trust-company route under [[JapanFG/INDEX|JapanFG]] and is promoted from [[trust-banks/trust-companies-japan-index|the Japan trust companies registry index]]. Read it with [[banking/japan-trust-bank-custody-map|Japan trust-bank custody map]], [[finance/japan-acquisition-finance|Japan acquisition finance]], and [[trust-banks/starts-trust|Starts Trust]].
+Daiwa Living Trust is a standalone trust-company route under [[trust-banks/INDEX|trust-banks INDEX]] and is promoted from [[trust-banks/trust-companies-japan-index|the Japan trust companies registry index]]. Read it with [[banking/japan-trust-bank-custody-map|Japan trust-bank custody map]], [[finance/japan-acquisition-finance|Japan acquisition finance]], and [[trust-banks/starts-trust|Starts Trust]].
 
 Use this page for rental-housing trust, real-estate management trust, family asset succession, and housing-owner trust questions.
 
@@ -66,7 +66,7 @@ Do not infer specific lending terms, tax outcomes, or family-office advice witho
 
 ## Related
 
-- [[JapanFG/INDEX]]
+- [[trust-banks/INDEX]]
 - [[trust-banks/trust-companies-japan-index]]
 - [[banking/japan-trust-bank-custody-map]]
 - [[policy-finance/japan-housing-finance-agency]]

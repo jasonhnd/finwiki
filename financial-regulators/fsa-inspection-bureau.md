@@ -25,7 +25,7 @@ sources:
 # 検査局 (FSA Inspection Bureau — historical)
 
 ## Wiki route
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it alongside [[financial-regulators/fsa-supervision-bureau|FSA 監督局]], which absorbed this bureau's function in the 2018 reorganization, and [[financial-regulators/fsa-strategy-bureau|FSA 総合政策局]] for the new strategy / governance lane created in the same reform. For the broader regulatory perimeter, anchor through [[financial-licenses/INDEX|legal / financial licenses]] and [[banking/INDEX|banking landscape]].
+This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]]. Read it alongside [[financial-regulators/fsa-supervision-bureau|FSA 監督局]], which absorbed this bureau's function in the 2018 reorganization, and [[financial-regulators/fsa-strategy-bureau|FSA 総合政策局]] for the new strategy / governance lane created in the same reform. For the broader regulatory perimeter, anchor through [[financial-licenses/INDEX|legal / financial licenses]] and [[banking/INDEX|banking landscape]].
 
 ## TL;DR
 

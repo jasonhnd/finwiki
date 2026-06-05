@@ -1,5 +1,5 @@
 ---
-source: japanfg/t-and-d-asset-management
+source: asset-managers/t-and-d-asset-management
 source_hash: 8925088f83834522
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.145Z
 
 ## Wiki Route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[asset-managers/nissay-asset-management|Nissay Asset Management]] for peer / contrast context, [[financial-licenses/securities-license-stack|securities license stack]] for the FIEA license boundary, and [[securities/financial-instruments-business-operators-japan-index|FSA Financial Instruments Business Operators index]] for the registry layer.
+This entry sits under [[asset-managers/INDEX|asset-managers INDEX]]. Read it against [[asset-managers/nissay-asset-management|Nissay Asset Management]] for peer / contrast context, [[financial-licenses/securities-license-stack|securities license stack]] for the FIEA license boundary, and [[securities/financial-instruments-business-operators-japan-index|FSA Financial Instruments Business Operators index]] for the registry layer.
 
 ## TL;DR
 

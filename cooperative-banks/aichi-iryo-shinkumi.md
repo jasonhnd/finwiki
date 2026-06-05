@@ -26,7 +26,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **業域 (medical-occupation) shinkumi anchor** for the Chukyo region, peer to occupation-based [[cooperative-banks/keishicho-shinkumi|警視庁職員信用組合]] (police) and [[cooperative-banks/tokyo-to-shokuin-shinkumi|東京都職員信用組合]] (civil servant). Medical shinkumi form the **largest single-industry shinkumi category** in Japan's 143-cooperative population catalogued in [[banking/credit-cooperative-registry-japan|Japan credit cooperative registry]].
+This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as the **業域 (medical-occupation) shinkumi anchor** for the Chukyo region, peer to occupation-based [[cooperative-banks/keishicho-shinkumi|警視庁職員信用組合]] (police) and [[cooperative-banks/tokyo-to-shokuin-shinkumi|東京都職員信用組合]] (civil servant). Medical shinkumi form the **largest single-industry shinkumi category** in Japan's 143-cooperative population catalogued in [[banking/credit-cooperative-registry-japan|Japan credit cooperative registry]].
 
 ## TL;DR
 
@@ -151,7 +151,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **業域 (medical-o
 - [[banking/credit-cooperative-registry-japan]] — Japan credit cooperative registry (143 shinkumi 全体)
 - [[banking/cooperative-banking-japan]] — 協同組織金融全体
 - [[cooperative-banks/iwaki-shinkumi]] — いわき信用組合 (peer 地域型信組、業態対比)
-- [[JapanFG/INDEX|JapanFG index]]
+- [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 
 ## Sources
 

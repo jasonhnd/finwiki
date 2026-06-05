@@ -1,5 +1,5 @@
 ---
-source: japanfg/sbi-life
+source: life-insurers/sbi-life
 source_hash: 1d7c64d60c3e1c62
 lang: ja
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-06-02T15:14:17.141Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に位置する。比較・対照の文脈では [[life-insurers/dai-ichi-frontier-life|第一フロンティア生命保険]]、より広い制度上・規制上の境界については [[insurance/INDEX|insurance index]] とあわせて読む。
+この項目は [[life-insurers/INDEX|life-insurers INDEX]] の配下に位置する。比較・対照の文脈では [[life-insurers/dai-ichi-frontier-life|第一フロンティア生命保険]]、より広い制度上・規制上の境界については [[insurance/INDEX|insurance index]] とあわせて読む。
 
 ## 要約
 

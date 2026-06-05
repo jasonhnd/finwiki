@@ -1,5 +1,5 @@
 ---
-source: japanfg/imamura-securities
+source: securities-firms/imamura-securities
 source_hash: aa95bf836d076e19
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T15:29:03.893Z
 
 ## Wiki route
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]]. 请对照 [[securities-firms/marusan-securities|丸三証券]] for peer / contrast context, [[securities/financial-instruments-business-operators-japan-index|FSA 金融商品取引業者 index]] for the regulatory-license layer, and [[financial-licenses/securities-license-stack|securities license stack]] for FIEA license boundary.
+本条目位于 [[securities-firms/INDEX|securities-firms INDEX]]. 请对照 [[securities-firms/marusan-securities|丸三証券]] for peer / contrast context, [[securities/financial-instruments-business-operators-japan-index|FSA 金融商品取引業者 index]] for the regulatory-license layer, and [[financial-licenses/securities-license-stack|securities license stack]] for FIEA license boundary.
 
 ## TL;DR
 

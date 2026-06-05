@@ -37,7 +37,7 @@
       "https://life.cardif.co.jp/"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it alongside クレディ・アグリコル生命 as the closest same-domain peer — both are French-bank-affiliated, bancassurance-oriented Japan life insurers — with insurance index for adjacent context and JapanFG index for the broader system boundary.",
+  "summary": "This entry sits under life-insurers INDEX. Read it alongside クレディ・アグリコル生命 as the closest same-domain peer — both are French-bank-affiliated, bancassurance-oriented Japan life insurers — with insurance index for adjacent context and JapanFG index for the broader system boundary.",
   "headings": [
     "カーディフ生命保険",
     "Wiki route",
@@ -51,22 +51,22 @@
   "body_links": {
     "wikilinks_count": 8,
     "wikilinks": [
-      "JapanFG/INDEX",
       "bnp-paribas-japan",
       "dai-ichi-frontier-life",
       "financial-licenses/INDEX",
       "insurance/INDEX",
       "insurance/life-insurance-channel-mix",
+      "life-insurers/INDEX",
       "life-insurers/credit-agricole-life",
       "td-financial-life"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/bnp-paribas-japan",
       "https://finwiki.zksc.io/dai-ichi-frontier-life",
       "https://finwiki.zksc.io/financial-licenses/INDEX",
       "https://finwiki.zksc.io/insurance/INDEX",
       "https://finwiki.zksc.io/insurance/life-insurance-channel-mix",
+      "https://finwiki.zksc.io/life-insurers/INDEX",
       "https://finwiki.zksc.io/life-insurers/credit-agricole-life",
       "https://finwiki.zksc.io/td-financial-life"
     ],
@@ -74,9 +74,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2133,
-    "word_like_tokens": 331,
+    "nonspace_chars": 2145,
+    "word_like_tokens": 333,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

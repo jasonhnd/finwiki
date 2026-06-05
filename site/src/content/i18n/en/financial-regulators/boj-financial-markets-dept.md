@@ -1,5 +1,5 @@
 ---
-source: japanfg/boj-financial-markets-dept
+source: financial-regulators/boj-financial-markets-dept
 source_hash: 8d741ed0f614de58
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T11:13:44.869Z
 # BoJ Financial Markets Department
 
 ## Wiki route
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[financial-regulators/boj-payment-settlement-dept|BoJ Payment and Settlement Systems Department]] for peer-bureau context inside the Bank of Japan, and against [[financial-regulators/boj-monetary-policy|BoJ monetary policy]] for the policy-to-operations boundary. For market-mechanics anchoring, route through [[money-market/japan-money-market|Japan money market]] and [[money-market/boj-open-market-operations|BoJ open market operations]].
+This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]]. Read it against [[financial-regulators/boj-payment-settlement-dept|BoJ Payment and Settlement Systems Department]] for peer-bureau context inside the Bank of Japan, and against [[financial-regulators/boj-monetary-policy|BoJ monetary policy]] for the policy-to-operations boundary. For market-mechanics anchoring, route through [[money-market/japan-money-market|Japan money market]] and [[money-market/boj-open-market-operations|BoJ open market operations]].
 
 ## TL;DR
 

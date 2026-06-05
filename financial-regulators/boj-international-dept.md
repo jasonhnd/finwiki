@@ -26,7 +26,7 @@ sources:
 # 国際局 (BoJ International Department)
 
 ## Wiki route
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[financial-regulators/boj-financial-markets-dept|金融市場局]] for the domestic market-operations counterpart and [[financial-regulators/fsa-strategy-bureau|FSA 総合政策局]] for the FSA-side international-policy lane. For currency-and-FX context, anchor through [[financial-regulators/boj-monetary-policy|BoJ monetary policy]] and [[money-market/japan-money-market|Japan money market]].
+This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]]. Read it against [[financial-regulators/boj-financial-markets-dept|金融市場局]] for the domestic market-operations counterpart and [[financial-regulators/fsa-strategy-bureau|FSA 総合政策局]] for the FSA-side international-policy lane. For currency-and-FX context, anchor through [[financial-regulators/boj-monetary-policy|BoJ monetary policy]] and [[money-market/japan-money-market|Japan money market]].
 
 ## TL;DR
 

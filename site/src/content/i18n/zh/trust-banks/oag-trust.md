@@ -1,5 +1,5 @@
 ---
-source: japanfg/oag-trust
+source: trust-banks/oag-trust
 source_hash: a927f39328d44063
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T00:41:50.432Z
 
 ## Wiki route
 
-OAG Trust 是 [[JapanFG/INDEX|JapanFG]] 下的独立信托公司路径，并由 [[trust-banks/trust-companies-japan-index|the Japan trust companies registry index]] 提升出来。可与 [[banking/japan-trust-bank-custody-map|Japan trust-bank custody map]]、[[finance/japan-acquisition-finance|Japan acquisition finance]]、[[trust-banks/yamada-escrow-trust|Yamada Escrow Trust]] 一起阅读。
+OAG Trust 是 [[trust-banks/INDEX|trust-banks INDEX]] 下的独立信托公司路径，并由 [[trust-banks/trust-companies-japan-index|the Japan trust companies registry index]] 提升出来。可与 [[banking/japan-trust-bank-custody-map|Japan trust-bank custody map]]、[[finance/japan-acquisition-finance|Japan acquisition finance]]、[[trust-banks/yamada-escrow-trust|Yamada Escrow Trust]] 一起阅读。
 
 本页用于资金保护信托、破产隔离、咨询集团信托服务，以及预付服务 / 交易资金保护相关问题。
 
@@ -58,7 +58,7 @@ OAG Trust 应纳入 FinWiki，因为资金保护信托是一种控制功能。�
 
 ## Related
 
-- [[JapanFG/INDEX]]
+- [[trust-banks/INDEX]]
 - [[trust-banks/trust-companies-japan-index]]
 - [[banking/japan-trust-bank-custody-map]]
 - [[trust-banks/yamada-escrow-trust]]

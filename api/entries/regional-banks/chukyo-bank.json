@@ -41,7 +41,7 @@
       "https://ja.wikipedia.org/wiki/中京銀行"
     ]
   },
-  "summary": "This entry sits under the JapanFG index as the historical predecessor anchor for current operating bank あいち銀行 under あいち FG. Read it against the 名古屋銀行 in-prefecture rival and 三十三銀行 / 十六銀行 Chubu peers, and against regional-bank consolidation pattern for the broader system / regulatory boundary.",
+  "summary": "This entry sits under the regional-banks INDEX as the historical predecessor anchor for current operating bank あいち銀行 under あいち FG. Read it against the 名古屋銀行 in-prefecture rival and 三十三銀行 / 十六銀行 Chubu peers, and against regional-bank consolidation pattern for the broader system / regulatory boundary.",
   "headings": [
     "中京銀行 (Chukyo Bank, historical)",
     "Wiki route",
@@ -57,7 +57,6 @@
   "body_links": {
     "wikilinks_count": 14,
     "wikilinks": [
-      "JapanFG/INDEX",
       "aichi-bank",
       "aichi-fg",
       "banking/INDEX",
@@ -68,12 +67,12 @@
       "juroku-fg",
       "nagoya-bank",
       "ogaki-kyoritsu-bank",
+      "regional-banks/INDEX",
       "san-jusan-bank",
       "san-jusan-fg",
       "zenshin-kyo"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/aichi-bank",
       "https://finwiki.zksc.io/aichi-fg",
       "https://finwiki.zksc.io/banking/INDEX",
@@ -84,6 +83,7 @@
       "https://finwiki.zksc.io/juroku-fg",
       "https://finwiki.zksc.io/nagoya-bank",
       "https://finwiki.zksc.io/ogaki-kyoritsu-bank",
+      "https://finwiki.zksc.io/regional-banks/INDEX",
       "https://finwiki.zksc.io/san-jusan-bank",
       "https://finwiki.zksc.io/san-jusan-fg",
       "https://finwiki.zksc.io/zenshin-kyo"
@@ -92,9 +92,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4569,
-    "word_like_tokens": 796,
+    "nonspace_chars": 4597,
+    "word_like_tokens": 800,
     "inbound_wikilinks_count": 3,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

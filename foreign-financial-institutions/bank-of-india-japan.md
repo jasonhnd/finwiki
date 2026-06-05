@@ -29,7 +29,7 @@ sources:
 
 Bank of India Japan is the India-corridor peer to [[foreign-financial-institutions/state-bank-of-india-japan|State Bank of India Japan]] inside [[foreign-financial-institutions/foreign-bank-branches-japan-index|the foreign-bank branch registry]]. Use this page for India-Japan trade finance, remittance, forex, loans, syndication, and branch-history context.
 
-Route this entry through [[JapanFG/INDEX|JapanFG index]] first, then cross-read [[banking/INDEX|banking domain]] for foreign-bank branch and wholesale-banking context.
+Route this entry through [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]] first, then cross-read [[banking/INDEX|banking domain]] for foreign-bank branch and wholesale-banking context.
 
 ## Overview
 
@@ -83,7 +83,7 @@ Registration is observed in the checked FSA source as of 2026-05-13; this page d
 
 ## Related
 
-- [[JapanFG/INDEX]]
+- [[foreign-financial-institutions/INDEX]]
 - [[foreign-financial-institutions/foreign-bank-branches-japan-index]]
 - [[foreign-financial-institutions/state-bank-of-india-japan]]
 - [[financial-regulators/jbic]]

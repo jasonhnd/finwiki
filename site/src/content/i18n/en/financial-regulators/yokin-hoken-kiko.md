@@ -1,5 +1,5 @@
 ---
-source: japanfg/yokin-hoken-kiko
+source: financial-regulators/yokin-hoken-kiko
 source_hash: db429518fb212b99
 lang: en
 status: machine
@@ -15,7 +15,7 @@ The Deposit Insurance Corporation of Japan (DICJ, 預金保険機構) is the sta
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it with the banking industry-body stack — [[financial-regulators/zenginkyo|Japanese Bankers Association]], [[financial-regulators/zenchugin-kyo|Regional Banks Association of Japan]], [[financial-regulators/dai2-chigin-kyo|Second Association of Regional Banks]], [[financial-regulators/zenshin-kyo|Zenshin-kyō]], and [[financial-regulators/shintaku-kyokai|Trust Companies Association of Japan]] — to see the full safety-net layering, and with the insurance-side statutory counterparts [[financial-regulators/seimei-hokensha-hogo-kiko|Life Insurance Policyholders Protection Corporation of Japan]] and [[financial-regulators/sonpo-hosho-kiko|Non-Life Insurance Policyholders Protection Corporation of Japan]]. Statutory backdrop sits at [[financial-licenses/INDEX]] and [[financial-licenses/bank-license-and-baas-boundary]]; the wider operator universe is in [[banking/INDEX]].
+This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]]. Read it with the banking industry-body stack — [[financial-regulators/zenginkyo|Japanese Bankers Association]], [[financial-regulators/zenchugin-kyo|Regional Banks Association of Japan]], [[financial-regulators/dai2-chigin-kyo|Second Association of Regional Banks]], [[financial-regulators/zenshin-kyo|Zenshin-kyō]], and [[financial-regulators/shintaku-kyokai|Trust Companies Association of Japan]] — to see the full safety-net layering, and with the insurance-side statutory counterparts [[financial-regulators/seimei-hokensha-hogo-kiko|Life Insurance Policyholders Protection Corporation of Japan]] and [[financial-regulators/sonpo-hosho-kiko|Non-Life Insurance Policyholders Protection Corporation of Japan]]. Statutory backdrop sits at [[financial-licenses/INDEX]] and [[financial-licenses/bank-license-and-baas-boundary]]; the wider operator universe is in [[banking/INDEX]].
 
 ## Legal route / statutory position (法令の根拠)
 
@@ -55,7 +55,7 @@ DICJ is referenced implicitly in nearly every bank entry in this vault — "depo
 
 ## Related
 
-- [[JapanFG/INDEX|JapanFG index]]
+- [[financial-regulators/INDEX|financial-regulators INDEX]]
 - [[financial-regulators/zenginkyo|Japanese Bankers Association]]
 - [[financial-regulators/zenchugin-kyo|Regional Banks Association of Japan]]
 - [[financial-regulators/dai2-chigin-kyo|Second Association of Regional Banks]]

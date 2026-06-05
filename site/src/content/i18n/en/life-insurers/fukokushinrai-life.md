@@ -1,5 +1,5 @@
 ---
-source: japanfg/fukokushinrai-life
+source: life-insurers/fukokushinrai-life
 source_hash: 9c1d04edbbeea2ac
 lang: en
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T15:29:03.930Z
 
 ## Wiki Route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[life-insurers/fukoku-life|Fukoku Life]] for group context and [[insurance/INDEX|insurance index]] for the broader insurance-system and regulatory boundary.
+This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it against [[life-insurers/fukoku-life|Fukoku Life]] for group context and [[insurance/INDEX|insurance index]] for the broader insurance-system and regulatory boundary.
 
 ## TL;DR
 
@@ -36,7 +36,7 @@ Fukoku Shinrai Life Insurance is a life-insurance operating company adjacent to 
 
 ## Related
 
-- [[JapanFG/INDEX|JapanFG index]]
+- [[life-insurers/INDEX|life-insurers INDEX]]
 - [[insurance/INDEX|insurance index]]
 - [[life-insurers/fukoku-life|Fukoku Life]]
 - [[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]]

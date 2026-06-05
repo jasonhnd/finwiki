@@ -1,5 +1,5 @@
 ---
-source: japanfg/toho-bank
+source: regional-banks/toho-bank
 source_hash: ba386d30e537a206
 lang: ja
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-02T16:33:58.508Z
 
 ## ウィキ上の位置づけ
 
-このエントリは [[JapanFG/INDEX|JapanFG index]] の配下に位置する。ピア / 対比の文脈には [[regional-banks/fidea-hd|フィデア HD (Fidea Holdings)]]、より広い制度 / 規制境界には [[banking/INDEX|banking index]] と照らして読む。
+このエントリは [[regional-banks/INDEX|regional-banks INDEX]] の配下に位置する。ピア / 対比の文脈には [[regional-banks/fidea-hd|フィデア HD (Fidea Holdings)]]、より広い制度 / 規制境界には [[banking/INDEX|banking index]] と照らして読む。
 
 ## 要約
 

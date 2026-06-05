@@ -1,5 +1,5 @@
 ---
-source: japanfg/olta
+source: payment-firms/olta
 source_hash: 319ef49816d12391
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T15:14:17.084Z
 
 ## ウィキ上の位置づけ
 
-本項目は[[JapanFG/INDEX|JapanFG index]]配下に置き、より広い運転資金スタックの中でBNPLに隣接する **B2Bファクタリングfintech** として扱う。[[payment-firms/bnpl-landscape|Japan BNPL landscape]]のシステムノート、BtoB BNPLの比較対象である[[payment-firms/net-protections-hd|Net Protections HD]]（NP 掛け払い）、SaaS主導型ファクタリング比較対象である[[payment-firms/money-forward|Money Forward]] / Biz Forwardと併せて読む。[[payments/japan-bnpl-credit-purchase-boundary|BNPL and credit-purchase boundary]]はファクタリングが信用供与に当たるかという論点を枠づけ、[[payments/credit-purchase-card-operators-japan-index|METI credit-purchase registry]]は関連する基準線、[[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]]はカード / コード決済レールに隣接する運転資金の経済性を位置づける。
+本項目は[[payment-firms/INDEX|payment-firms INDEX]]配下に置き、より広い運転資金スタックの中でBNPLに隣接する **B2Bファクタリングfintech** として扱う。[[payment-firms/bnpl-landscape|Japan BNPL landscape]]のシステムノート、BtoB BNPLの比較対象である[[payment-firms/net-protections-hd|Net Protections HD]]（NP 掛け払い）、SaaS主導型ファクタリング比較対象である[[payment-firms/money-forward|Money Forward]] / Biz Forwardと併せて読む。[[payments/japan-bnpl-credit-purchase-boundary|BNPL and credit-purchase boundary]]はファクタリングが信用供与に当たるかという論点を枠づけ、[[payments/credit-purchase-card-operators-japan-index|METI credit-purchase registry]]は関連する基準線、[[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]]はカード / コード決済レールに隣接する運転資金の経済性を位置づける。
 
 ## 要約
 

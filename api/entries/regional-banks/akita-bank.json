@@ -32,7 +32,7 @@
       "https://www.akita-bank.co.jp/aboutus/info/kanren/"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against フィデア HD (Fidea Holdings) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under regional-banks INDEX. Read it against フィデア HD (Fidea Holdings) for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [
     "株式会社秋田銀行 (The Akita Bank)",
     "Wiki route",
@@ -48,8 +48,8 @@
     "wikilinks_count": 7,
     "wikilinks": [
       "INDEX",
-      "JapanFG/INDEX",
       "banking/INDEX",
+      "regional-banks/INDEX",
       "regional-banks/fidea-hd",
       "regional-banks/iwate-bank",
       "regional-banks/jimoto-hd",
@@ -57,8 +57,8 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/regional-banks/INDEX",
       "https://finwiki.zksc.io/regional-banks/fidea-hd",
       "https://finwiki.zksc.io/regional-banks/iwate-bank",
       "https://finwiki.zksc.io/regional-banks/jimoto-hd",
@@ -68,9 +68,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2193,
-    "word_like_tokens": 345,
+    "nonspace_chars": 2207,
+    "word_like_tokens": 347,
     "inbound_wikilinks_count": 7,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

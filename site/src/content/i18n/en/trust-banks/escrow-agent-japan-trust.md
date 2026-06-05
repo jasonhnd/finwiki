@@ -1,5 +1,5 @@
 ---
-source: japanfg/escrow-agent-japan-trust
+source: trust-banks/escrow-agent-japan-trust
 source_hash: 62f94b80224aebd7
 lang: en
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T15:29:03.918Z
 
 ## Wiki route
 
-Escrow Agent Japan Trust is a standalone trust-company route under [[JapanFG/INDEX|JapanFG]] and is promoted from [[trust-banks/trust-companies-japan-index|the Japan trust companies registry index]]. Read it with [[finance/japan-mbo-and-squeeze-out-process|Japan MBO / squeeze-out process]], [[finance/japan-acquisition-finance|Japan acquisition finance]], and [[banking/japan-trust-bank-custody-map|Japan trust-bank custody map]].
+Escrow Agent Japan Trust is a standalone trust-company route under [[trust-banks/INDEX|trust-banks INDEX]] and is promoted from [[trust-banks/trust-companies-japan-index|the Japan trust companies registry index]]. Read it with [[finance/japan-mbo-and-squeeze-out-process|Japan MBO / squeeze-out process]], [[finance/japan-acquisition-finance|Japan acquisition finance]], and [[banking/japan-trust-bank-custody-map|Japan trust-bank custody map]].
 
 Use this page for escrow, real-estate transaction support, inheritance-related trust services, and property-sale / administration workflows.
 
@@ -59,7 +59,7 @@ Specific deal, property, auction, or client claims should be added only with pub
 
 ## Related
 
-- [[JapanFG/INDEX]]
+- [[trust-banks/INDEX]]
 - [[trust-banks/trust-companies-japan-index]]
 - [[banking/japan-trust-bank-custody-map]]
 - [[finance/japan-acquisition-finance]]

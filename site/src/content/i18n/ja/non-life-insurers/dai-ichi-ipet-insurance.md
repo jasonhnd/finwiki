@@ -1,5 +1,5 @@
 ---
-source: japanfg/dai-ichi-ipet-insurance
+source: non-life-insurers/dai-ichi-ipet-insurance
 source_hash: ed85480b699ac26a
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:25:12.397Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に置く。[[life-insurers/dai-ichi-life|第一ライフグループ]]、[[non-life-insurers/anicom-insurance|アニコム損害保険]]、[[non-life-insurers/pet-and-family-insurance|ペット＆ファミリー損害保険]]、[[insurance/INDEX|insurance index]] とあわせて読む。
+この項目は [[non-life-insurers/INDEX|non-life-insurers INDEX]] の配下に置く。[[life-insurers/dai-ichi-life|第一ライフグループ]]、[[non-life-insurers/anicom-insurance|アニコム損害保険]]、[[non-life-insurers/pet-and-family-insurance|ペット＆ファミリー損害保険]]、[[insurance/INDEX|insurance index]] とあわせて読む。
 
 このページはペット保険の事業会社境界を扱う。持株会社・グループ戦略のルートは [[life-insurers/dai-ichi-life|第一ライフグループ]] を使う。
 

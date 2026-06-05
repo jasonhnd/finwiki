@@ -1,5 +1,5 @@
 ---
-source: japanfg/tajima-bank
+source: regional-banks/tajima-bank
 source_hash: ed90e6ff8ac8f39a
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T16:33:58.464Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] 配下に置く。競合・比較対象の文脈は [[regional-banks/kansai-mirai-bank|関西みらい銀行]]、より広い制度・規制境界は [[banking/INDEX|banking index]] と照合して読む。
+この項目は [[regional-banks/INDEX|regional-banks INDEX]] 配下に置く。競合・比較対象の文脈は [[regional-banks/kansai-mirai-bank|関西みらい銀行]]、より広い制度・規制境界は [[banking/INDEX|banking index]] と照合して読む。
 
 ## 要約
 

@@ -1,5 +1,5 @@
 ---
-source: japanfg/sumitomo-mitsui-auto-service
+source: leasing-firms/sumitomo-mitsui-auto-service
 source_hash: 1bc5653f341c7ebb
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.102Z
 
 ## Wiki route
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可与 [[leasing-firms/smfl|SMFL]] 对读，后者是同一组母公司之间的姊妹综合租赁 JV，即 [[megabanks/smfg|SMFG]] + [[trading-company-finance/sumitomo-corp-financial-management|住友商事系]]；也可与 [[trading-company-finance/sumitomo-corp-financial-management|住友商事フィナンシャルマネジメント]] 对读，后者是住友商事的集团内部资金管理主体。汽车 / 车队金融同业参见 [[card-issuers/toyota-finance|トヨタファイナンス]] 和 [[leasing-firms/toyota-financial|TFS]]。商社系金融同业集合参见 [[trading-company-finance/mitsubishi-corp-finance|三菱商事FS]] / [[trading-company-finance/mitsui-bussan-financial-services|三井物産FS]] / [[trading-company-finance/itochu-finance|伊藤忠ファイナンス]] / [[trading-company-finance/marubeni-financial-services|丸紅フィナンス]] / [[trading-company-finance/toyota-tsusho-finance|豊田通商フィナンス]] / [[trading-company-finance/sojitz-finance|双日フィナンス]] / [[asset-managers/mitsubishi-corp-asset-management|三菱商事系AM]]。更广的监管边界参见 [[banking/INDEX|banking index]]。
+本条目位于 [[leasing-firms/INDEX|leasing-firms INDEX]] 之下。可与 [[leasing-firms/smfl|SMFL]] 对读，后者是同一组母公司之间的姊妹综合租赁 JV，即 [[megabanks/smfg|SMFG]] + [[trading-company-finance/sumitomo-corp-financial-management|住友商事系]]；也可与 [[trading-company-finance/sumitomo-corp-financial-management|住友商事フィナンシャルマネジメント]] 对读，后者是住友商事的集团内部资金管理主体。汽车 / 车队金融同业参见 [[card-issuers/toyota-finance|トヨタファイナンス]] 和 [[leasing-firms/toyota-financial|TFS]]。商社系金融同业集合参见 [[trading-company-finance/mitsubishi-corp-finance|三菱商事FS]] / [[trading-company-finance/mitsui-bussan-financial-services|三井物産FS]] / [[trading-company-finance/itochu-finance|伊藤忠ファイナンス]] / [[trading-company-finance/marubeni-financial-services|丸紅フィナンス]] / [[trading-company-finance/toyota-tsusho-finance|豊田通商フィナンス]] / [[trading-company-finance/sojitz-finance|双日フィナンス]] / [[asset-managers/mitsubishi-corp-asset-management|三菱商事系AM]]。更广的监管边界参见 [[banking/INDEX|banking index]]。
 
 ## 1. 公司概要
 

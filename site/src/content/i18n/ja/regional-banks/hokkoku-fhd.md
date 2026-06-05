@@ -1,5 +1,5 @@
 ---
-source: japanfg/hokkoku-fhd
+source: regional-banks/hokkoku-fhd
 source_hash: e8f0c64f835e4c32
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:25:12.447Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の下に位置づけられる。ピア比較・対照の文脈では [[regional-banks/fukuoka-fg|ふくおか FG (FFG)]] を、より広い制度・規制境界では [[banking/INDEX|banking index]] を参照する。
+この項目は [[regional-banks/INDEX|regional-banks INDEX]] の下に位置づけられる。ピア比較・対照の文脈では [[regional-banks/fukuoka-fg|ふくおか FG (FFG)]] を、より広い制度・規制境界では [[banking/INDEX|banking index]] を参照する。
 
 現名称ルート: [[financial-regulators/cci-group|CCIグループ]]. このページは、過去の調査メモやリンクをつなぐための歴史的名称・旧名称 Hokkoku FHD の橋渡しとして残す。
 

@@ -1,5 +1,5 @@
 ---
-source: japanfg/hs-insurance
+source: non-life-insurers/hs-insurance
 source_hash: a3fbb65a371d0f91
 lang: ja
 status: machine
@@ -9,7 +9,7 @@ translated_at: 2026-06-02T14:25:12.422Z
 ---
 # エイチ・エス損害保険
 
-ウィキ上の位置づけ: [[JapanFG/INDEX]] -> [[insurance/INDEX]] -> [[non-life-insurers/hs-insurance]]
+ウィキ上の位置づけ: [[non-life-insurers/INDEX]] -> [[insurance/INDEX]] -> [[non-life-insurers/hs-insurance]]
 
 ## 概要
 

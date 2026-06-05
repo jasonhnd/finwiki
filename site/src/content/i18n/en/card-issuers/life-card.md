@@ -1,5 +1,5 @@
 ---
-source: japanfg/life-card
+source: card-issuers/life-card
 source_hash: d34054a0e5df3899
 lang: en
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T23:59:49.353Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[card-issuers/rakuten-card|楽天カード (Rakuten Card)]] for peer / contrast context and [[payments/INDEX|payments index]] for the broader system / regulatory boundary.
+This entry sits under [[card-issuers/INDEX|card-issuers INDEX]]. Read it against [[card-issuers/rakuten-card|楽天カード (Rakuten Card)]] for peer / contrast context and [[payments/INDEX|payments index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 

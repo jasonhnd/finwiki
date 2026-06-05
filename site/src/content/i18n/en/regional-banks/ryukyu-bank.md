@@ -1,5 +1,5 @@
 ---
-source: japanfg/ryukyu-bank
+source: regional-banks/ryukyu-bank
 source_hash: 119cd07925f30f56
 lang: en
 status: machine
@@ -37,7 +37,7 @@ Read this entry together with the related banks, insurers, leasing companies, as
 
 ## Protected source anchors
 
-- [[JapanFG/INDEX|JapanFG index]] [[regional-banks/okinawa-fg|おきなわ FG (Okinawa FG)]] [[banking/INDEX|banking index]] 2  [[okinawa-fg]] 1948-05-01 1972 05  8399 1 8399
+- [[regional-banks/INDEX|regional-banks INDEX]] [[regional-banks/okinawa-fg|おきなわ FG (Okinawa FG)]] [[banking/INDEX|banking index]] 2  [[okinawa-fg]] 1948-05-01 1972 05  8399 1 8399
  1948-05-01 第 1 号 1 11 1
  1948  1972-05-15
 - 8399 2 2 2024  2024  8369 [[okinawa-fg]] 1  2021 10  8399 2 [[okinawa-kaiho-bank|沖縄海邦銀行]] 8390 3  1 2 3

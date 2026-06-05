@@ -1,5 +1,5 @@
 ---
-source: japanfg/euroclear-bank-japan
+source: foreign-financial-institutions/euroclear-bank-japan
 source_hash: 056c68af26a8ea3a
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T15:29:03.939Z
 
 ## 维基路线
 
-该条目位于[[JapanFG/INDEX|JapanFG]]下，并将[[foreign-financial-institutions/foreign-bank-branches-japan-index|foreign-bank branch registry]]中的 Euroclear 行从仅注册升级为独立的 ICSD/抵押品路线。使用 [[foreign-financial-institutions/clearstream-banking-japan|Clearstream Banking Japan]]、[[securities/japan-market-infrastructure-map|Japan market infrastructure map]] 和[[money-market/jgb-repo-market-japan|JGB repo market]]读取它。
+该条目位于[[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]]下，并将[[foreign-financial-institutions/foreign-bank-branches-japan-index|foreign-bank branch registry]]中的 Euroclear 行从仅注册升级为独立的 ICSD/抵押品路线。使用 [[foreign-financial-institutions/clearstream-banking-japan|Clearstream Banking Japan]]、[[securities/japan-market-infrastructure-map|Japan market infrastructure map]] 和[[money-market/jgb-repo-market-japan|JGB repo market]]读取它。
 
 ## 概述
 
@@ -78,7 +78,7 @@ Euroclear 毗邻基础设施。长尾外国银行可能会保留在[[foreign-fin
 
 ## 有关的
 
-- [[JapanFG/INDEX]]
+- [[foreign-financial-institutions/INDEX]]
 - [[foreign-financial-institutions/foreign-bank-branches-japan-index]]
 - [[foreign-financial-institutions/clearstream-banking-japan]]
 - [[foreign-financial-institutions/bny-mellon-japan]]

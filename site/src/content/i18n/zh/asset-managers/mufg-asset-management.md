@@ -1,5 +1,5 @@
 ---
-source: japanfg/mufg-asset-management
+source: asset-managers/mufg-asset-management
 source_hash: 013a8947a5376218
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:59:49.359Z
 
 ## Wiki 路径
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可对照 [[asset-managers/asset-management-one|アセットマネジメントOne]] 理解同业 / 对比语境，并对照 [[securities/INDEX|securities index]] 理解更大的系统和监管边界。
+本条目位于 [[asset-managers/INDEX|asset-managers INDEX]] 之下。可对照 [[asset-managers/asset-management-one|アセットマネジメントOne]] 理解同业 / 对比语境，并对照 [[securities/INDEX|securities index]] 理解更大的系统和监管边界。
 
 ## 概览
 

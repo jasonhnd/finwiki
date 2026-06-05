@@ -1,5 +1,5 @@
 ---
-source: japanfg/t-and-d-asset-management
+source: asset-managers/t-and-d-asset-management
 source_hash: 8925088f83834522
 lang: ja
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-02T16:33:58.464Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] 配下に置く。競合・比較対象の文脈は [[asset-managers/nissay-asset-management|ニッセイアセットマネジメント]]、FIEA ライセンス境界は [[financial-licenses/securities-license-stack|securities license stack]]、登録簿レイヤーは [[securities/financial-instruments-business-operators-japan-index|FSA 金商業者 index]] と照合して読む。
+この項目は [[asset-managers/INDEX|asset-managers INDEX]] 配下に置く。競合・比較対象の文脈は [[asset-managers/nissay-asset-management|ニッセイアセットマネジメント]]、FIEA ライセンス境界は [[financial-licenses/securities-license-stack|securities license stack]]、登録簿レイヤーは [[securities/financial-instruments-business-operators-japan-index|FSA 金商業者 index]] と照合して読む。
 
 ## 要約
 

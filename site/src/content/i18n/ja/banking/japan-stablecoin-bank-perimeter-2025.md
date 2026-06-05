@@ -120,7 +120,6 @@ translated_at: 2026-06-02T11:47:37.309Z
 - [[banking/gmo-aozora-net-bank]]
 - [[banking/japan-net-bank-competition-map]]
 - [[banking/post-megabank-positioning]]
-- [[JapanFG/INDEX]]
 - [[payment-firms/progmat]]
 - [[payment-firms/jpyc]]
 - [[megabanks/mufg]]

@@ -1,5 +1,5 @@
 ---
-source: japanfg/credit-agricole-life
+source: life-insurers/credit-agricole-life
 source_hash: 10cf85edb251d244
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T15:29:03.905Z
 
 ## Wiki 路线
 
-本条目位于 [[JapanFG/INDEX|JapanFG 索引]]。可与 [[life-insurers/cardif-life|Cardif Life]]、[[insurance/INDEX|保险索引]] 和外资寿险公司页面配套阅读。
+本条目位于 [[life-insurers/INDEX|life-insurers INDEX]]。可与 [[life-insurers/cardif-life|Cardif Life]]、[[insurance/INDEX|保险索引]] 和外资寿险公司页面配套阅读。
 
 ## 概要
 

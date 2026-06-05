@@ -1,5 +1,5 @@
 ---
-source: japanfg/fukuoka-ken-shinkumi
+source: cooperative-banks/fukuoka-ken-shinkumi
 source_hash: 9ccc92d5bd7e84a4
 lang: ja
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-02T14:25:12.413Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] 配下に位置する **九州の県域型信用組合アンカー**であり、地域信用組合カバレッジを補完する [[cooperative-banks/iwaki-shinkumi|いわき信用組合]]（東北の市域型）および [[cooperative-banks/sapporo-chuo-shinkumi|札幌中央信用組合]]（北海道の市域型）とあわせて読む。対象は 143 協同組織金融母集団の一部で、[[banking/credit-cooperative-registry-japan|Japan credit cooperative registry]] に収録されている。
+この項目は [[cooperative-banks/INDEX|cooperative-banks INDEX]] 配下に位置する **九州の県域型信用組合アンカー**であり、地域信用組合カバレッジを補完する [[cooperative-banks/iwaki-shinkumi|いわき信用組合]]（東北の市域型）および [[cooperative-banks/sapporo-chuo-shinkumi|札幌中央信用組合]]（北海道の市域型）とあわせて読む。対象は 143 協同組織金融母集団の一部で、[[banking/credit-cooperative-registry-japan|Japan credit cooperative registry]] に収録されている。
 
 ## 要約
 
@@ -116,7 +116,7 @@ translated_at: 2026-06-02T14:25:12.413Z
 - [[financial-regulators/dic]] — 預金保険機構
 - [[banking/credit-cooperative-registry-japan]] — 日本の信用組合登録簿 (143 信用組合 全体)
 - [[banking/cooperative-banking-japan]] — 協同組織金融全体
-- [[JapanFG/INDEX|JapanFG index]]
+- [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 
 ## 出典
 

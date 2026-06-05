@@ -1,5 +1,5 @@
 ---
-source: japanfg/capital-insurance
+source: non-life-insurers/capital-insurance
 source_hash: 0ea82c445860a5ed
 lang: en
 status: machine
@@ -10,7 +10,7 @@ translated_at: 2026-05-31T11:13:44.943Z
 
 # Capital Insurance / Capital Insurance
 
-Wiki route: [[JapanFG/INDEX]] -> [[insurance/INDEX]] -> [[non-life-insurers/capital-insurance]]
+Wiki route: [[non-life-insurers/INDEX]] -> [[insurance/INDEX]] -> [[non-life-insurers/capital-insurance]]
 
 ##Overview
 

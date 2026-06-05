@@ -1,5 +1,5 @@
 ---
-source: japanfg/alterna-trust
+source: trust-banks/alterna-trust
 source_hash: ec4339e9581f4e75
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:01:20.959Z
 
 ## ウィキ上の位置づけ
 
-Alterna Trust は、[[JapanFG/INDEX|JapanFG]] 配下の独立した信託会社ルートであり、[[trust-banks/trust-companies-japan-index|the Japan trust companies registry index]] から昇格している。[[payment-firms/progmat|Progmat]]、[[fintech/jp-stablecoin-progmat|Progmat stablecoin / digital asset route]]、[[securities/osaka-digital-exchange|ODX]]、[[trust-banks/smtb|SMTB]] と合わせて読む。
+Alterna Trust は、[[trust-banks/INDEX|trust-banks INDEX]] 配下の独立した信託会社ルートであり、[[trust-banks/trust-companies-japan-index|the Japan trust companies registry index]] から昇格している。[[payment-firms/progmat|Progmat]]、[[fintech/jp-stablecoin-progmat|Progmat stablecoin / digital asset route]]、[[securities/osaka-digital-exchange|ODX]]、[[trust-banks/smtb|SMTB]] と合わせて読む。
 
 デジタル証券、セキュリティトークン信託、受益証券発行信託、信託会社プラットフォームに関する問いではこのページを使う。
 
@@ -59,7 +59,7 @@ Alterna Trust は、デジタル資産で信託会社登録が重要になるこ
 
 ## 関連項目
 
-- [[JapanFG/INDEX]]
+- [[trust-banks/INDEX]]
 - [[trust-banks/trust-companies-japan-index]]
 - [[trust-banks/smtb]]
 - [[payment-firms/progmat]]

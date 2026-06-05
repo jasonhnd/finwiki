@@ -34,7 +34,7 @@
       "JCB 公式コーポレートサイト 会社概要 (公開情報)"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 株式会社オリエントコーポレーション (Orico) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under card-issuers INDEX. Read it against 株式会社オリエントコーポレーション (Orico) for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [
     "株式会社ジェーシービー (JCB)",
     "Wiki route",
@@ -50,8 +50,8 @@
   "body_links": {
     "wikilinks_count": 8,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
+      "card-issuers/INDEX",
       "card-issuers/orico",
       "mizuho-fg",
       "mufg",
@@ -60,8 +60,8 @@
       "smfg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/card-issuers/INDEX",
       "https://finwiki.zksc.io/card-issuers/orico",
       "https://finwiki.zksc.io/mizuho-fg",
       "https://finwiki.zksc.io/mufg",
@@ -73,9 +73,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4407,
-    "word_like_tokens": 722,
+    "nonspace_chars": 4417,
+    "word_like_tokens": 724,
     "inbound_wikilinks_count": 40,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

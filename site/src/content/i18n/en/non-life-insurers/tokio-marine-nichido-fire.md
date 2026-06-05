@@ -1,5 +1,5 @@
 ---
-source: japanfg/tokio-marine-nichido-fire
+source: non-life-insurers/tokio-marine-nichido-fire
 source_hash: 9e654c318e28d0c0
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.162Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[non-life-insurers/tokio-marine-direct|東京海上ダイレクト損害保険]] for peer / contrast context and [[insurance/INDEX|insurance index]] for the broader system / regulatory boundary.
+This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read it against [[non-life-insurers/tokio-marine-direct|東京海上ダイレクト損害保険]] for peer / contrast context and [[insurance/INDEX|insurance index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 

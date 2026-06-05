@@ -36,7 +36,7 @@
       "https://www.anicom-sompo.co.jp/"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 東京海上日動火災保険 for peer / contrast context and insurance index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under non-life-insurers INDEX. Read it against 東京海上日動火災保険 for peer / contrast context and insurance index for the broader system / regulatory boundary.",
   "headings": [
     "アニコム損害保険",
     "Wiki route",
@@ -50,9 +50,9 @@
   "body_links": {
     "wikilinks_count": 8,
     "wikilinks": [
-      "JapanFG/INDEX",
       "financial-regulators/missing-financial-institutions-backlog",
       "insurance/INDEX",
+      "non-life-insurers/INDEX",
       "non-life-insurers/anicom-hd",
       "non-life-insurers/sony-insurance",
       "non-life-insurers/tokio-marine-nichido-fire",
@@ -60,9 +60,9 @@
       "sony-insurance"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/financial-regulators/missing-financial-institutions-backlog",
       "https://finwiki.zksc.io/insurance/INDEX",
+      "https://finwiki.zksc.io/non-life-insurers/INDEX",
       "https://finwiki.zksc.io/non-life-insurers/anicom-hd",
       "https://finwiki.zksc.io/non-life-insurers/sony-insurance",
       "https://finwiki.zksc.io/non-life-insurers/tokio-marine-nichido-fire",
@@ -73,9 +73,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2105,
-    "word_like_tokens": 322,
+    "nonspace_chars": 2150,
+    "word_like_tokens": 331,
     "inbound_wikilinks_count": 12,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

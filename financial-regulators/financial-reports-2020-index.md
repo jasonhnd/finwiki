@@ -18,7 +18,7 @@ sources:
 
 ## TL;DR
 
-本ページは [[JapanFG/INDEX|JapanFG namespace]] 中の金融会社 / 金融機関の **2020 年以降の公式財務報告、統合報告書、ディスクロージャー誌、有価証券報告書、親会社年次報告書入口** を一つのインデックスにまとめている。
+本ページは [[financial-regulators/INDEX|financial-regulators INDEX]] 中の金融会社 / 金融機関の **2020 年以降の公式財務報告、統合報告書、ディスクロージャー誌、有価証券報告書、親会社年次報告書入口** を一つのインデックスにまとめている。
 
 方針は **archive-first**：2020 年以降の全レポートをカバーできる公式 archive / backnumber ページを優先記録；公式ページに完全な archive がない場合のみ、直接 PDF サンプル、親会社年次報告書、規制開示、または「公開年次報告書ギャップ」を記録する。
 
@@ -286,7 +286,7 @@ For these, the reliable five-year source is normally the parent annual report pl
 
 ## Related
 
-- [[JapanFG/INDEX|JapanFG INDEX]]
+- [[financial-regulators/INDEX|financial-regulators INDEX]]
 - [[financial-licenses/INDEX|JapanFG legal / financial licenses]]
 - [[finance/INDEX|finance INDEX]]
 - [[securities/INDEX|securities INDEX]]

@@ -1,5 +1,5 @@
 ---
-source: japanfg/okinawa-kaiho-bank
+source: regional-banks/okinawa-kaiho-bank
 source_hash: 889c6151448b8ba6
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T15:14:17.147Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に置く。[[regional-banks/jimoto-hd|じもとホールディングス (JIMOTO HD)]] は同業・比較対象の文脈として、[[banking/INDEX|banking index]] はより広い制度・規制上の境界として併読する。
+この項目は [[regional-banks/INDEX|regional-banks INDEX]] の配下に置く。[[regional-banks/jimoto-hd|じもとホールディングス (JIMOTO HD)]] は同業・比較対象の文脈として、[[banking/INDEX|banking index]] はより広い制度・規制上の境界として併読する。
 
 ## 要約
 
@@ -125,7 +125,7 @@ translated_at: 2026-06-02T15:14:17.147Z
 - [[okinawa-shinko]] — 沖縄振興開発金融公庫（政策金融補完）
 - [[fidea-hd]] · [[jimoto-hd]] — 本土第二地銀統合事例（再編比較対象）
 - [[mufg]] · [[smfg]] · [[mizuho-fg]] — メガ 3 行（県内大型案件競合・コルレス）
-- [[JapanFG/INDEX|Japan FG INDEX]]
+- [[regional-banks/INDEX|regional-banks INDEX]]
 
 ## 出典
 

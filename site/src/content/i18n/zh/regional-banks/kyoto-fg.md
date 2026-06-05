@@ -1,5 +1,5 @@
 ---
-source: japanfg/kyoto-fg
+source: regional-banks/kyoto-fg
 source_hash: 9d7656da382c684c
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:59:49.351Z
 
 ## Wiki 路径
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可与 [[regional-banks/ikeda-senshu-hd|池田泉州ホールディングス]] 对读以理解同业和对比关系，并与 [[banking/INDEX|banking index]] 对读以把握更广的制度 / 监管边界。
+本条目位于 [[regional-banks/INDEX|regional-banks INDEX]] 之下。可与 [[regional-banks/ikeda-senshu-hd|池田泉州ホールディングス]] 对读以理解同业和对比关系，并与 [[banking/INDEX|banking index]] 对读以把握更广的制度 / 监管边界。
 
 ## TL;DR
 

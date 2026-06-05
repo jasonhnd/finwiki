@@ -1,5 +1,5 @@
 ---
-source: japanfg/freee
+source: payment-firms/freee
 source_hash: 1c805cbd45f68270
 lang: en
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T15:29:03.962Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[payment-firms/money-forward|Money Forward, Inc.]] for peer / contrast context and [[fintech/japan-stablecoin-regulatory-landscape|Japan stablecoin regulatory landscape: the JPYC / USDC / Project Pax three-layer structure]] for the broader system / regulatory boundary.
+This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it against [[payment-firms/money-forward|Money Forward, Inc.]] for peer / contrast context and [[fintech/japan-stablecoin-regulatory-landscape|Japan stablecoin regulatory landscape: the JPYC / USDC / Project Pax three-layer structure]] for the broader system / regulatory boundary.
 
 ## TL;DR
 

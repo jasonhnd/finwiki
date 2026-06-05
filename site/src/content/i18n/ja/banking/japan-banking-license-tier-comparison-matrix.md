@@ -218,7 +218,7 @@ translated_at: 2026-06-02T11:47:37.257Z
 - **信金 vs 信用組合。** どちらも別個の法令を持つ 協同組織 金融機関;資格ルールと監督部局が異なる。[[banking/shinkin-bank-registry-japan|shinkin registry]] および [[banking/credit-cooperative-registry-japan|credit cooperative registry]] 参照。
 - **労金 vs 他の協同組織金融。** 労金は 厚労省 と独自に共同で監督され、労働組合の会員構造を持つ。[[banking/rokin-bank-registry-japan|rōkin registry]] 参照。
 - **農林系統 vs 通常の協同組織金融。** このシステムは 預金 ではなく 貯金 の用語を用い、[[financial-regulators/yokin-hoken-kiko|DICJ]] と並行する独自の貯金保険組織を持つ;監督は FSA / 農水省 の共同。
-- **外国銀行支店 vs 日本法人化した外資系銀行。** 外国銀行支店 は第9章のもとの支店である。日本法人化した子会社(例:SBJ Bank のような [[JapanFG/INDEX|JapanFG]] 法人)は外資系の 普通銀行 であり、外国銀行支店ではない。預金保険の扱いが異なる。
+- **外国銀行支店 vs 日本法人化した外資系銀行。** 外国銀行支店 は第9章のもとの支店である。日本法人化した子会社(例:SBJ Bank のような [[banking/INDEX|banking INDEX]] 法人)は外資系の 普通銀行 であり、外国銀行支店ではない。預金保険の扱いが異なる。
 - **銀行代理 / BaaS 面 vs 銀行ライセンス。** パートナーブランドのアプリ、BaaS サービス、または銀行代理チャネルは **別個の** 銀行ライセンスではない — 預金債務者はライセンスされた銀行である。法的スタック対 UX スタックのマッピングについては [[financial-licenses/bank-license-and-baas-boundary|bank license and BaaS boundary]] 参照。
 
 ## 関連項目

@@ -29,7 +29,7 @@ sources:
 
 State Bank of India Japan is the main India-Japan banking-corridor page in [[foreign-financial-institutions/foreign-bank-branches-japan-index|the foreign-bank branch registry]]. Read it with [[foreign-financial-institutions/bank-of-india-japan|Bank of India Japan]], [[financial-regulators/jbic|JBIC]], [[finance/cross-border-m-a-japan|cross-border M&A Japan]], and [[financial-licenses/foreign-bank-agency-business-route|foreign-bank agency route]].
 
-Route this entry through [[JapanFG/INDEX|JapanFG index]] first, then use [[banking/INDEX|banking domain]] for branch-banking context and [[finance/INDEX|finance domain]] for public M&A / project-finance questions.
+Route this entry through [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]] first, then use [[banking/INDEX|banking domain]] for branch-banking context and [[finance/INDEX|finance domain]] for public M&A / project-finance questions.
 
 ## Overview
 
@@ -82,7 +82,7 @@ Always write out "State Bank of India" at first mention when the page sits near 
 
 ## Related
 
-- [[JapanFG/INDEX]]
+- [[foreign-financial-institutions/INDEX]]
 - [[foreign-financial-institutions/foreign-bank-branches-japan-index]]
 - [[foreign-financial-institutions/bank-of-india-japan]]
 - [[financial-regulators/jbic]]

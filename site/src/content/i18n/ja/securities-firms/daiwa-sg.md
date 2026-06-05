@@ -1,5 +1,5 @@
 ---
-source: japanfg/daiwa-sg
+source: securities-firms/daiwa-sg
 source_hash: b94e1c696e877472
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:25:12.426Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に位置づける。比較対象・対照軸として [[securities-firms/nomura-hd|野村ホールディングス (Nomura HD)]] を、より広い制度・規制上の境界として [[securities/INDEX|securities index]] を併読する。
+この項目は [[securities-firms/INDEX|securities-firms INDEX]] の配下に位置づける。比較対象・対照軸として [[securities-firms/nomura-hd|野村ホールディングス (Nomura HD)]] を、より広い制度・規制上の境界として [[securities/INDEX|securities index]] を併読する。
 
 ## 要約
 

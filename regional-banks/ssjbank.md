@@ -23,7 +23,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[megabanks/mufg|三菱 UFJ FG (MUFG)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it against [[megabanks/mufg|三菱 UFJ FG (MUFG)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
@@ -47,7 +47,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[megaban
 
 - [[regional-banks/77-bank|七十七銀行]]
 - [[regional-banks/proclair-hd|proclair-hd]]
-- [[JapanFG/INDEX|JapanFG INDEX]]
+- [[regional-banks/INDEX|regional-banks INDEX]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

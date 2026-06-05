@@ -36,7 +36,7 @@
       "金融庁 登録金融機関・登録金融商品取引業者一覧"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against シティグループ・ジャパン (Citigroup Japan) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under foreign-financial-institutions INDEX. Read it against シティグループ・ジャパン (Citigroup Japan) for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [
     "JP モルガン日本 (JPMorgan Japan)",
     "Wiki route",
@@ -52,9 +52,9 @@
   "body_links": {
     "wikilinks_count": 11,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "citigroup-japan",
+      "foreign-financial-institutions/INDEX",
       "foreign-financial-institutions/citigroup-japan",
       "goldman-sachs-japan",
       "mizuho-fg",
@@ -65,9 +65,9 @@
       "ubs-japan"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/citigroup-japan",
+      "https://finwiki.zksc.io/foreign-financial-institutions/INDEX",
       "https://finwiki.zksc.io/foreign-financial-institutions/citigroup-japan",
       "https://finwiki.zksc.io/goldman-sachs-japan",
       "https://finwiki.zksc.io/mizuho-fg",
@@ -81,9 +81,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4312,
-    "word_like_tokens": 736,
+    "nonspace_chars": 4358,
+    "word_like_tokens": 740,
     "inbound_wikilinks_count": 33,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

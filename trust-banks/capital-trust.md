@@ -17,7 +17,7 @@ sources:
 
 # Capital Trust / キャピタル信託
 
-Wiki route: [[JapanFG/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/capital-trust]]
+Wiki route: [[trust-banks/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/capital-trust]]
 
 ## Overview
 

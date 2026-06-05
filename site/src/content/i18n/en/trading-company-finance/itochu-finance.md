@@ -1,5 +1,5 @@
 ---
-source: japanfg/itochu-finance
+source: trading-company-finance/itochu-finance
 source_hash: 91d3c5e7a2edbe0e
 lang: en
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T15:29:03.968Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[leasing-firms/tokyo-century|Tokyo Century]] (the same-parent **external lease/asset finance** platform — Itochu + Mizuho FG's two-axis shareholder structure, listed 8439) and [[trading-company-finance/mitsubishi-corp-finance|Mitsubishi Corp Finance]] (the closest peer trading company group-treasury arm). For the broader peer set, see [[trading-company-finance/mitsui-bussan-financial-services|三井物産FS]], [[trading-company-finance/marubeni-financial-services|Marubeni Financial Services]], [[trading-company-finance/sumitomo-corp-financial-management|住友商事FM]]. See [[banking/INDEX|banking index]] for the broader regulatory boundary.
+This entry sits under [[trading-company-finance/INDEX|trading-company-finance INDEX]]. Read it against [[leasing-firms/tokyo-century|Tokyo Century]] (the same-parent **external lease/asset finance** platform — Itochu + Mizuho FG's two-axis shareholder structure, listed 8439) and [[trading-company-finance/mitsubishi-corp-finance|Mitsubishi Corp Finance]] (the closest peer trading company group-treasury arm). For the broader peer set, see [[trading-company-finance/mitsui-bussan-financial-services|三井物産FS]], [[trading-company-finance/marubeni-financial-services|Marubeni Financial Services]], [[trading-company-finance/sumitomo-corp-financial-management|住友商事FM]]. See [[banking/INDEX|banking index]] for the broader regulatory boundary.
 
 ## 1. Company profile
 

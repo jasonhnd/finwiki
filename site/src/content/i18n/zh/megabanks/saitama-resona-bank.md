@@ -1,5 +1,5 @@
 ---
-source: japanfg/saitama-resona-bank
+source: megabanks/saitama-resona-bank
 source_hash: 69d5f4c7344362e4
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-01T00:41:50.467Z
 
 ## Wiki 路径
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可与 [[megabanks/resona-bank|りそな銀行 (Resona Bank)]] 对读以理解同业和对比关系，并与 [[banking/INDEX|banking index]] 对读以把握更广的制度 / 监管边界。
+本条目位于 [[megabanks/INDEX|megabanks INDEX]] 之下。可与 [[megabanks/resona-bank|りそな銀行 (Resona Bank)]] 对读以理解同业和对比关系，并与 [[banking/INDEX|banking index]] 对读以把握更广的制度 / 监管边界。
 
 ## TL;DR
 

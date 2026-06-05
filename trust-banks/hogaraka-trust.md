@@ -21,7 +21,7 @@ sources:
 
 ## Wiki route
 
-Hogaraka Trust is a standalone trust-company route under [[JapanFG/INDEX|JapanFG]] and is promoted from [[trust-banks/trust-companies-japan-index|the Japan trust companies registry index]]. Read it with [[retail/INDEX|retail]], [[banking/japan-trust-bank-custody-map|Japan trust-bank custody map]], and [[trust-banks/daiwa-living-trust|Daiwa Living Trust]].
+Hogaraka Trust is a standalone trust-company route under [[trust-banks/INDEX|trust-banks INDEX]] and is promoted from [[trust-banks/trust-companies-japan-index|the Japan trust companies registry index]]. Read it with [[retail/INDEX|retail]], [[banking/japan-trust-bank-custody-map|Japan trust-bank custody map]], and [[trust-banks/daiwa-living-trust|Daiwa Living Trust]].
 
 Use this page for retail-group trust services, estate planning, family business succession, senior support, and real-estate succession questions.
 
@@ -68,7 +68,7 @@ Do not infer regulated investment management or banking functions without separa
 
 ## Related
 
-- [[JapanFG/INDEX]]
+- [[trust-banks/INDEX]]
 - [[trust-banks/trust-companies-japan-index]]
 - [[retail/INDEX]]
 - [[banking/japan-trust-bank-custody-map]]

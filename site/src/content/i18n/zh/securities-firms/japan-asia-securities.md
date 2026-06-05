@@ -1,5 +1,5 @@
 ---
-source: japanfg/japan-asia-securities
+source: securities-firms/japan-asia-securities
 source_hash: 87d7cebfe40e47b1
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:59:49.393Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[securities-firms/aizawa-securities|アイザワ証券]] / [[securities-firms/iwai-cosmo-securities|岩井コスモ証券]] for peer mid-cap independent securities with Asian-emerging focus, [[securities-firms/marusan-securities|丸三証券]] for old-line independent broker context, and [[securities/INDEX|securities index]] for the broader market-structure boundary.
+This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it against [[securities-firms/aizawa-securities|アイザワ証券]] / [[securities-firms/iwai-cosmo-securities|岩井コスモ証券]] for peer mid-cap independent securities with Asian-emerging focus, [[securities-firms/marusan-securities|丸三証券]] for old-line independent broker context, and [[securities/INDEX|securities index]] for the broader market-structure boundary.
 
 ## TL;DR
 
@@ -98,7 +98,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[securit
 - [[securities-firms/marusan-securities|丸三証券]] — 关东基础的老牌独立中坚证券同业
 - [[securities-firms/aizawa-sg|アイザワ証券グループ]] — 母公司 HD（差异化同业）
 - [[securities-firms/tokai-tokyo-securities|東海東京証券]] — 东海基础的独立中坚证券同业
-- [[JapanFG/INDEX|JapanFG index]]
+- [[securities-firms/INDEX|securities-firms INDEX]]
 - [[securities/INDEX|Securities domain index]]
 
 ## Sources

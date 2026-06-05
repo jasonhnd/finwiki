@@ -36,7 +36,7 @@
       "東証・JPX 上場会社情報 (公開ベース)"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against SBI証券 (SBI Securities) for peer / contrast context and securities index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under securities-firms INDEX. Read it against SBI証券 (SBI Securities) for peer / contrast context and securities index for the broader system / regulatory boundary.",
   "headings": [
     "松井証券株式会社 (Matsui Securities)",
     "Wiki route",
@@ -52,7 +52,6 @@
   "body_links": {
     "wikilinks_count": 11,
     "wikilinks": [
-      "JapanFG/INDEX",
       "daiwa-sg",
       "monex-group",
       "mufg",
@@ -60,12 +59,12 @@
       "nomura-hd",
       "rakuten-fg",
       "sbi-hd",
+      "securities-firms/INDEX",
       "securities-firms/sbi-securities",
       "securities/INDEX",
       "smbc-nikko"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/daiwa-sg",
       "https://finwiki.zksc.io/monex-group",
       "https://finwiki.zksc.io/mufg",
@@ -73,6 +72,7 @@
       "https://finwiki.zksc.io/nomura-hd",
       "https://finwiki.zksc.io/rakuten-fg",
       "https://finwiki.zksc.io/sbi-hd",
+      "https://finwiki.zksc.io/securities-firms/INDEX",
       "https://finwiki.zksc.io/securities-firms/sbi-securities",
       "https://finwiki.zksc.io/securities/INDEX",
       "https://finwiki.zksc.io/smbc-nikko"
@@ -81,9 +81,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3702,
-    "word_like_tokens": 538,
+    "nonspace_chars": 3720,
+    "word_like_tokens": 540,
     "inbound_wikilinks_count": 15,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

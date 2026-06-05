@@ -11,7 +11,7 @@ translated_at: 2026-06-01T04:15:40.092Z
 
 ## TL;DR
 
-日本的消费贷款和信用卡应收款 ABS 由主要消费金融和发卡公司发行，包括 [[card-issuers/aplus]]、[[card-issuers/orico]]、[[card-issuers/jaccs]]、[[card-issuers/mufg-nicos]] 等，并采用带有提前摊还触发机制的循环池结构。该资产类别在结构上不同于汽车贷款 ABS，因为信用卡应收款期限短、循环性强，并与对经济周期敏感的消费信贷需求相关。违约率比汽车贷款 ABS 更具周期性，但带有硬触发机制的循环结构保护优先级债券持有人。使用本页理解 [[structured-finance/INDEX]] 中的消费 / 信用卡 ABS 结构机制，并连接到 [[JapanFG/INDEX]] 中的消费金融公司页面。
+日本的消费贷款和信用卡应收款 ABS 由主要消费金融和发卡公司发行，包括 [[card-issuers/aplus]]、[[card-issuers/orico]]、[[card-issuers/jaccs]]、[[card-issuers/mufg-nicos]] 等，并采用带有提前摊还触发机制的循环池结构。该资产类别在结构上不同于汽车贷款 ABS，因为信用卡应收款期限短、循环性强，并与对经济周期敏感的消费信贷需求相关。违约率比汽车贷款 ABS 更具周期性，但带有硬触发机制的循环结构保护优先级债券持有人。使用本页理解 [[structured-finance/INDEX]] 中的消费 / 信用卡 ABS 结构机制，并连接到 [[structured-finance/INDEX]] 中的消费金融公司页面。
 
 ## Wiki 路径
 

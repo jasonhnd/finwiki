@@ -1,5 +1,5 @@
 ---
-source: japanfg/gmo-coin
+source: payment-firms/gmo-coin
 source_hash: 345227176bc44182
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T15:29:03.864Z
 
 ## Wiki 路径
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 下，作为 GMO Internet Group 旗下加密资产交换业者页面。可与 GMO Financial Holdings、GMO Payment Gateway、GMO Aozora Net Bank 和日本 VASP 同业对照阅读。
+本条目位于 [[payment-firms/INDEX|payment-firms INDEX]] 下，作为 GMO Internet Group 旗下加密资产交换业者页面。可与 GMO Financial Holdings、GMO Payment Gateway、GMO Aozora Net Bank 和日本 VASP 同业对照阅读。
 
 ## TL;DR
 

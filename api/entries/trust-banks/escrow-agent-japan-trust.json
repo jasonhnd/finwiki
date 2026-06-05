@@ -36,7 +36,7 @@
       "https://auction.eajt.co.jp/"
     ]
   },
-  "summary": "Escrow Agent Japan Trust is a standalone trust-company route under JapanFG and is promoted from the Japan trust companies registry index. Read it with Japan MBO / squeeze-out process, Japan acquisition finance, and Japan trust-bank custody map.",
+  "summary": "Escrow Agent Japan Trust is a standalone trust-company route under trust-banks INDEX and is promoted from the Japan trust companies registry index. Read it with Japan MBO / squeeze-out process, Japan acquisition finance, and Japan trust-bank custody map.",
   "headings": [
     "エスクロー・エージェント・ジャパン信託 (Escrow Agent Japan Trust)",
     "Wiki route",
@@ -52,27 +52,27 @@
     "wikilinks_count": 6,
     "wikilinks": [
       "INDEX",
-      "JapanFG/INDEX",
       "banking/japan-trust-bank-custody-map",
       "finance/japan-acquisition-finance",
       "finance/japan-mbo-and-squeeze-out-process",
+      "trust-banks/INDEX",
       "trust-banks/trust-companies-japan-index"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/japan-trust-bank-custody-map",
       "https://finwiki.zksc.io/finance/japan-acquisition-finance",
       "https://finwiki.zksc.io/finance/japan-mbo-and-squeeze-out-process",
+      "https://finwiki.zksc.io/trust-banks/INDEX",
       "https://finwiki.zksc.io/trust-banks/trust-companies-japan-index"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3257,
-    "word_like_tokens": 515,
+    "nonspace_chars": 3274,
+    "word_like_tokens": 519,
     "inbound_wikilinks_count": 6,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

@@ -1,5 +1,5 @@
 ---
-source: japanfg/orient-trust-japan
+source: trust-banks/orient-trust-japan
 source_hash: 97d2e6c0e5292331
 lang: en
 status: machine
@@ -14,7 +14,7 @@ translated_at: 2026-06-01T00:41:50.453Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **foreign-affiliated trust / asset-servicing subsidiary** anchor. Read it against [[foreign-financial-institutions/state-street-japan|State Street Japan]] / [[foreign-financial-institutions/bny-mellon-japan|BNY Mellon Japan]] / [[foreign-financial-institutions/jpmorgan-japan|JPMorgan Japan]] for the foreign custodian / asset-servicing peer cluster, [[trust-banks/master-trust-bank|Master Trust Bank of Japan]] / [[trust-banks/mitsubishi-ufj-trust-bank|Mitsubishi UFJ Trust and Banking]] for the domestic trust peer cluster, [[trust-banks/trust-companies-japan-index|the Japan trust companies registry index]] for the registry context, and [[banking/japan-trust-bank-custody-map|the Japan trust-bank custody map]] for system-level positioning.
+This entry sits under [[trust-banks/INDEX|trust-banks INDEX]] as a **foreign-affiliated trust / asset-servicing subsidiary** anchor. Read it against [[foreign-financial-institutions/state-street-japan|State Street Japan]] / [[foreign-financial-institutions/bny-mellon-japan|BNY Mellon Japan]] / [[foreign-financial-institutions/jpmorgan-japan|JPMorgan Japan]] for the foreign custodian / asset-servicing peer cluster, [[trust-banks/master-trust-bank|Master Trust Bank of Japan]] / [[trust-banks/mitsubishi-ufj-trust-bank|Mitsubishi UFJ Trust and Banking]] for the domestic trust peer cluster, [[trust-banks/trust-companies-japan-index|the Japan trust companies registry index]] for the registry context, and [[banking/japan-trust-bank-custody-map|the Japan trust-bank custody map]] for system-level positioning.
 
 ## 1. Parent-company overview
 
@@ -136,7 +136,7 @@ Northern Trust Corporation (U.S., NASDAQ: NTRS)
 - [[trust-banks/lgt-wealth-management-trust]] — foreign wealth-management trust peer
 - [[trust-banks/trust-companies-japan-index]] — trust-company registry
 - [[banking/japan-trust-bank-custody-map]] — trust-bank custody map
-- [[JapanFG/INDEX]] — JapanFG namespace index
+- [[trust-banks/INDEX]] — JapanFG namespace index
 
 ## Sources
 

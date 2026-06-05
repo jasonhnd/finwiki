@@ -18,7 +18,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[card-issuers/jcb|JCB]] for peer / contrast context (4-party global scheme vs JCB の 3-party hybrid) and [[payments/japan-interchange-and-merchant-fee-stack|Japan interchange and merchant fee stack]] for the broader system / regulatory boundary.
+This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it against [[card-issuers/jcb|JCB]] for peer / contrast context (4-party global scheme vs JCB の 3-party hybrid) and [[payments/japan-interchange-and-merchant-fee-stack|Japan interchange and merchant fee stack]] for the broader system / regulatory boundary.
 
 ## TL;DR
 

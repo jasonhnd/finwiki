@@ -1,5 +1,5 @@
 ---
-source: japanfg/lifenet
+source: life-insurers/lifenet
 source_hash: fa842a1a0a9ef245
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:54:39.072Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] 配下に置かれる。[[life-insurers/dai-ichi-life|第一ライフグループ / 旧 第一生命 HD]] を同業・対照の文脈として、[[insurance/INDEX|insurance index]] をより広い制度・規制境界として読む。
+この項目は [[life-insurers/INDEX|life-insurers INDEX]] 配下に置かれる。[[life-insurers/dai-ichi-life|第一ライフグループ / 旧 第一生命 HD]] を同業・対照の文脈として、[[insurance/INDEX|insurance index]] をより広い制度・規制境界として読む。
 
 ## 要約
 

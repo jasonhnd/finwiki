@@ -33,7 +33,7 @@
       "マネーフォワード公式 IR / 中期経営計画 (公開資料)"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against freee 株式会社 (freee K.K.) for peer / contrast context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system / regulatory boundary.",
+  "summary": "This entry sits under payment-firms INDEX. Read it against freee 株式会社 (freee K.K.) for peer / contrast context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system / regulatory boundary.",
   "headings": [
     "株式会社マネーフォワード (Money Forward)",
     "Wiki route",
@@ -49,21 +49,21 @@
   "body_links": {
     "wikilinks_count": 8,
     "wikilinks": [
-      "JapanFG/INDEX",
       "fintech/japan-stablecoin-regulatory-landscape",
       "mizuho-fg",
       "mufg",
       "ndfg",
+      "payment-firms/INDEX",
       "payment-firms/freee",
       "sbi-hd",
       "smfg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
       "https://finwiki.zksc.io/mizuho-fg",
       "https://finwiki.zksc.io/mufg",
       "https://finwiki.zksc.io/ndfg",
+      "https://finwiki.zksc.io/payment-firms/INDEX",
       "https://finwiki.zksc.io/payment-firms/freee",
       "https://finwiki.zksc.io/sbi-hd",
       "https://finwiki.zksc.io/smfg"
@@ -72,9 +72,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4074,
-    "word_like_tokens": 752,
+    "nonspace_chars": 4103,
+    "word_like_tokens": 757,
     "inbound_wikilinks_count": 9,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

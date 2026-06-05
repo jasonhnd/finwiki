@@ -1,5 +1,5 @@
 ---
-source: japanfg/mizuho-securities
+source: securities-firms/mizuho-securities
 source_hash: c876a226b8e32da2
 lang: zh
 status: machine
@@ -44,7 +44,7 @@ translated_at: 2026-05-31T23:59:49.380Z
 
 ## Related
 
-- [[JapanFG/INDEX|JapanFG INDEX]]
+- [[securities-firms/INDEX|securities-firms INDEX]]
 - [[securities/INDEX|securities INDEX]]
 - [[megabanks/mizuho-fg]]
 - [[securities-firms/nomura-hd]]

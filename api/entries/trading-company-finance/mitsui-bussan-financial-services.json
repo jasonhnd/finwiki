@@ -40,7 +40,7 @@
       "EDINET 有価証券報告書検索"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 三菱商事フィナンシャルサービス (the closest peer trading-company group-treasury arm) and JA三井リース (the same-parent leasing arm, 三井物産系 + 農林中金 JV). For the broader peer set, see 丸紅フィナンス, 住友商事FM, 伊藤忠ファイナンス. The Mitsui-group banking side is SMBC under SMFG. See banki",
+  "summary": "This entry sits under trading-company-finance INDEX. Read it against 三菱商事フィナンシャルサービス (the closest peer trading-company group-treasury arm) and JA三井リース (the same-parent leasing arm, 三井物産系 + 農林中金 JV). For the broader peer set, see 丸紅フィナンス, 住友商事FM, 伊藤忠ファイナンス. The Mitsui-group banking side is SMBC under",
   "headings": [
     "三井物産フィナンシャルサービス (Mitsui & Co. Financial Services)",
     "Wiki route",
@@ -56,7 +56,6 @@
   "body_links": {
     "wikilinks_count": 19,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "cooperative-banks/ja-mitsui-leasing",
       "finance/japan-acquisition-finance",
@@ -68,6 +67,7 @@
       "megabanks/smfg",
       "megabanks/sumitomo-mitsui-banking-corp",
       "non-life-insurers/mitsui-sumitomo-insurance",
+      "trading-company-finance/INDEX",
       "trading-company-finance/itochu-finance",
       "trading-company-finance/marubeni-financial-services",
       "trading-company-finance/mitsubishi-corp-finance",
@@ -77,7 +77,6 @@
       "trust-banks/smtb"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/cooperative-banks/ja-mitsui-leasing",
       "https://finwiki.zksc.io/finance/japan-acquisition-finance",
@@ -89,6 +88,7 @@
       "https://finwiki.zksc.io/megabanks/smfg",
       "https://finwiki.zksc.io/megabanks/sumitomo-mitsui-banking-corp",
       "https://finwiki.zksc.io/non-life-insurers/mitsui-sumitomo-insurance",
+      "https://finwiki.zksc.io/trading-company-finance/INDEX",
       "https://finwiki.zksc.io/trading-company-finance/itochu-finance",
       "https://finwiki.zksc.io/trading-company-finance/marubeni-financial-services",
       "https://finwiki.zksc.io/trading-company-finance/mitsubishi-corp-finance",
@@ -101,9 +101,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4193,
-    "word_like_tokens": 610,
+    "nonspace_chars": 4225,
+    "word_like_tokens": 614,
     "inbound_wikilinks_count": 10,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

@@ -1,5 +1,5 @@
 ---
-source: japanfg/sumitomo-mitsui-trust
+source: trust-banks/sumitomo-mitsui-trust
 source_hash: 5380370120c2bc4f
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.120Z
 
 ## 维基路线
 
-该条目位于 [[JapanFG/INDEX|JapanFG index]] 下。对照 [[trust-banks/master-trust-bank|日本マスタートラスト信託銀行]] 来了解同行/对比环境，对照 [[banking/INDEX|banking index]] 来了解更广泛的系统/监管边界。
+该条目位于 [[trust-banks/INDEX|trust-banks INDEX]] 下。对照 [[trust-banks/master-trust-bank|日本マスタートラスト信託銀行]] 来了解同行/对比环境，对照 [[banking/INDEX|banking index]] 来了解更广泛的系统/监管边界。
 
 ## 长篇大论；博士
 

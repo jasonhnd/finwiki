@@ -1,5 +1,5 @@
 ---
-source: japanfg/japan-exchange-group
+source: financial-regulators/japan-exchange-group
 source_hash: fa273acd3fff9e13
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:59:49.404Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[financial-regulators/japan-securities-finance|日本証券金融 (JSF)]] for peer / contrast context and [[securities/INDEX|securities index]] for the broader system / regulatory boundary.
+This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]]. Read it against [[financial-regulators/japan-securities-finance|日本証券金融 (JSF)]] for peer / contrast context and [[securities/INDEX|securities index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 

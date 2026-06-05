@@ -1,5 +1,5 @@
 ---
-source: japanfg/metrobank-japan
+source: foreign-financial-institutions/metrobank-japan
 source_hash: 55546db8be0283dc
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:59:49.379Z
 
 ## Wiki 路径
 
-Metrobank Japan 位于 [[JapanFG/INDEX|JapanFG index]] 下，是 [[foreign-financial-institutions/foreign-bank-branches-japan-index|the foreign-bank branch registry]] 中的菲律宾-日本走廊页面。可与 [[foreign-financial-institutions/philippine-national-bank-japan|Philippine National Bank Japan]]、[[payments/funds-transfer-service-providers-japan-index|funds-transfer registry]]、[[financial-licenses/foreign-bank-agency-business-route|foreign-bank agency route]] 和 [[payments/psp-merchant-settlement-risk|settlement-risk controls]] 一起阅读。
+Metrobank Japan 位于 [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]] 下，是 [[foreign-financial-institutions/foreign-bank-branches-japan-index|the foreign-bank branch registry]] 中的菲律宾-日本走廊页面。可与 [[foreign-financial-institutions/philippine-national-bank-japan|Philippine National Bank Japan]]、[[payments/funds-transfer-service-providers-japan-index|funds-transfer registry]]、[[financial-licenses/foreign-bank-agency-business-route|foreign-bank agency route]] 和 [[payments/psp-merchant-settlement-risk|settlement-risk controls]] 一起阅读。
 
 本页用于 Metropolitan Bank and Trust Company Tokyo Branch、菲律宾汇款、贸易金融、部分日本企业贷款以及日本分行整合。
 
@@ -57,7 +57,7 @@ Metrobank Japan 既是银行分行页面，也是汇款走廊页面。其价值�
 
 ## Related
 
-- [[JapanFG/INDEX]]
+- [[foreign-financial-institutions/INDEX]]
 - [[foreign-financial-institutions/foreign-bank-branches-japan-index]]
 - [[foreign-financial-institutions/philippine-national-bank-japan]]
 - [[financial-licenses/foreign-bank-branch-license-route]]

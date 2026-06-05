@@ -1,5 +1,5 @@
 ---
-source: japanfg/ja-zenchu
+source: cooperative-banks/ja-zenchu
 source_hash: ec4e10099a138f64
 lang: ja
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-02T14:25:12.430Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下で、[[cooperative-banks/norinchukin|農林中央金庫 (Norinchukin)]] と [[banking/ja-bank-system-japan|JA Bank system]] の背後にある **JAグループ全国調整レイヤー**として位置づける。経済事業連合の対応組織として [[cooperative-banks/ja-zen-noh|JA 全農 (全国農業協同組合連合会)]]、共済連合として [[non-life-insurers/ja-kyosairen|JA 共済連]]、より広い制度境界として [[banking/cooperative-banking-japan|cooperative banking domain]] と併読する。
+この項目は [[cooperative-banks/INDEX|cooperative-banks INDEX]] の配下で、[[cooperative-banks/norinchukin|農林中央金庫 (Norinchukin)]] と [[banking/ja-bank-system-japan|JA Bank system]] の背後にある **JAグループ全国調整レイヤー**として位置づける。経済事業連合の対応組織として [[cooperative-banks/ja-zen-noh|JA 全農 (全国農業協同組合連合会)]]、共済連合として [[non-life-insurers/ja-kyosairen|JA 共済連]]、より広い制度境界として [[banking/cooperative-banking-japan|cooperative banking domain]] と併読する。
 
 ## 要約
 
@@ -119,7 +119,7 @@ JA グループ (全国 497 JA + 4 大全国連)
 - [[banking/ja-bank-system-japan]] — JA Bank system の boundary
 - [[banking/cooperative-banking-japan]] — 協同組織金融全体
 - [[financial-regulators/zenginkyo]] — 銀行業界の対応国全国組織 (株式会社系)
-- [[JapanFG/INDEX|JapanFG index]]
+- [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 
 ## 出典
 

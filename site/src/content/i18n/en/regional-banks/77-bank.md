@@ -1,5 +1,5 @@
 ---
-source: japanfg/77-bank
+source: regional-banks/77-bank
 source_hash: de41857c51ab60b2
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T11:13:44.890Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[regional-banks/fidea-hd|フィデア HD (Fidea Holdings)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it against [[regional-banks/fidea-hd|フィデア HD (Fidea Holdings)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ##TL;DR
 

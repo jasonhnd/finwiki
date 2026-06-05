@@ -1,5 +1,5 @@
 ---
-source: japanfg/toyama-first-bank
+source: regional-banks/toyama-first-bank
 source_hash: 14b1e9e8219ef74e
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-01T02:31:57.123Z
 
 ## 维基路线
 
-该条目位于 [[JapanFG/INDEX|JapanFG index]] 下。针对同行/对比上下文阅读 [[regional-banks/tokushima-taisho-bank|徳島大正銀行]]，针对更广泛的系统/监管边界阅读 [[banking/INDEX|banking index]]。
+该条目位于 [[regional-banks/INDEX|regional-banks INDEX]] 下。针对同行/对比上下文阅读 [[regional-banks/tokushima-taisho-bank|徳島大正銀行]]，针对更广泛的系统/监管边界阅读 [[banking/INDEX|banking index]]。
 
 ## 长篇大论；博士
 
@@ -35,7 +35,7 @@ translated_at: 2026-06-01T02:31:57.123Z
 
 - 添加第二个地区银行的确切名称页面。
 - 与 [[hokuriku-bank]]、[[hokkoku-bank]] 和 [[toyama-bank]] 一起完成第一个北陆 B2  切片。
-- 注册支持的 B2.1  区域银行运营公司页面，索引在 [[JapanFG/INDEX|JapanFG index]] 下。
+- 注册支持的 B2.1  区域银行运营公司页面，索引在 [[regional-banks/INDEX|regional-banks INDEX]] 下。
 
 ## 相关
 

@@ -1,5 +1,5 @@
 ---
-source: japanfg/toyota-finance
+source: card-issuers/toyota-finance
 source_hash: ed1a8443367e75da
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.132Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[leasing-firms/toyota-financial|Toyota Financial Services]] for parent / operating-company separation and [[payments/credit-purchase-card-operators-japan-index|Japan credit purchase and card operator registry index]] for the installment-credit and card boundary.
+This entry sits under [[card-issuers/INDEX|card-issuers INDEX]]. Read it against [[leasing-firms/toyota-financial|Toyota Financial Services]] for parent / operating-company separation and [[payments/credit-purchase-card-operators-japan-index|Japan credit purchase and card operator registry index]] for the installment-credit and card boundary.
 
 ## Overview
 

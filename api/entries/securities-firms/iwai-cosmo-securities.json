@@ -38,7 +38,7 @@
       "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 岩井コスモホールディングス for parent holding context, 岡三証券グループ / 東海東京FH for peer mid-tier independent securities, and securities index for the broader market-structure boundary.",
+  "summary": "This entry sits under securities-firms INDEX. Read it against 岩井コスモホールディングス for parent holding context, 岡三証券グループ / 東海東京FH for peer mid-tier independent securities, and securities index for the broader market-structure boundary.",
   "headings": [
     "岩井コスモ証券 (IwaiCosmo Securities)",
     "Wiki route",
@@ -54,8 +54,8 @@
   "body_links": {
     "wikilinks_count": 21,
     "wikilinks": [
-      "JapanFG/INDEX",
       "financial-licenses/securities-license-stack",
+      "securities-firms/INDEX",
       "securities-firms/aizawa-sg",
       "securities-firms/daiwa-securities-group",
       "securities-firms/iwai-cosmo-hd",
@@ -77,8 +77,8 @@
       "securities/tokyo-stock-exchange"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/financial-licenses/securities-license-stack",
+      "https://finwiki.zksc.io/securities-firms/INDEX",
       "https://finwiki.zksc.io/securities-firms/aizawa-sg",
       "https://finwiki.zksc.io/securities-firms/daiwa-securities-group",
       "https://finwiki.zksc.io/securities-firms/iwai-cosmo-hd",
@@ -108,9 +108,9 @@
     ]
   },
   "metrics": {
-    "nonspace_chars": 5156,
-    "word_like_tokens": 826,
+    "nonspace_chars": 5174,
+    "word_like_tokens": 828,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

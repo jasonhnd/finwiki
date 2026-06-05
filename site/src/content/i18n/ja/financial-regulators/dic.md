@@ -1,5 +1,5 @@
 ---
-source: japanfg/dic
+source: financial-regulators/dic
 source_hash: b320c756093196a6
 lang: ja
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-02T14:25:12.398Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に置く。並行するセーフティネット比較対象として [[financial-regulators/sonpo-hosho-kiko|損害保険契約者保護機構]] と [[financial-regulators/seimei-hokensha-hogo-kiko|生命保険契約者保護機構]]、より広いシステム境界・規制境界として [[financial-regulators/fsa|金融庁]] / [[financial-regulators/boj|日本銀行]] とあわせて読む。
+この項目は [[financial-regulators/INDEX|financial-regulators INDEX]] の配下に置く。並行するセーフティネット比較対象として [[financial-regulators/sonpo-hosho-kiko|損害保険契約者保護機構]] と [[financial-regulators/seimei-hokensha-hogo-kiko|生命保険契約者保護機構]]、より広いシステム境界・規制境界として [[financial-regulators/fsa|金融庁]] / [[financial-regulators/boj|日本銀行]] とあわせて読む。
 
 ## 要約
 

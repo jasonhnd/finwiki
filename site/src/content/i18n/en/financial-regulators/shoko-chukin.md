@@ -1,5 +1,5 @@
 ---
-source: japanfg/shoko-chukin
+source: financial-regulators/shoko-chukin
 source_hash: 9bb0d146db3aa019
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.117Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[megabanks/mufg|三菱 UFJ FG (MUFG)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]]. Read it against [[megabanks/mufg|三菱 UFJ FG (MUFG)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 

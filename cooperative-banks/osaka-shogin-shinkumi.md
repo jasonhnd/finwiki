@@ -27,7 +27,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **first standalone shinkumi (credit cooperative) operating-company anchor** in FinWiki, closing the long-flagged 143-shinkumi audit gap. Read it against [[cooperative-banks/osaka-shinkin|大阪信用金庫]] for the shinkin-vs-shinkumi distinction in the same Osaka market, [[cooperative-banks/zenshin-kumi|全信組連 / Zenshinkumiren]] for the cooperative system parent, and [[banking/cooperative-banking-japan|cooperative banking domain]] for the broader regulatory boundary.
+This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as the **first standalone shinkumi (credit cooperative) operating-company anchor** in FinWiki, closing the long-flagged 143-shinkumi audit gap. Read it against [[cooperative-banks/osaka-shinkin|大阪信用金庫]] for the shinkin-vs-shinkumi distinction in the same Osaka market, [[cooperative-banks/zenshin-kumi|全信組連 / Zenshinkumiren]] for the cooperative system parent, and [[banking/cooperative-banking-japan|cooperative banking domain]] for the broader regulatory boundary.
 
 ## TL;DR
 
@@ -136,7 +136,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **first standalone 
 - [[financial-regulators/dic]] — 預金保険機構
 - [[banking/cooperative-banking-japan]] — 協同組織金融全体
 - [[banking/shinkin-bank-registry-japan]] — 信金 registry (peer registry)
-- [[JapanFG/INDEX|JapanFG index]]
+- [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 
 ## Sources
 

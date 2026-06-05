@@ -39,7 +39,7 @@
       "セブン&アイ・ホールディングス 株式の状況: https://www.7andi.com/ir/stocks/overview.html"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against ローソン銀行 (Lawson Bank) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under regional-banks INDEX. Read it against ローソン銀行 (Lawson Bank) for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [
     "セブン銀行 (Seven Bank)",
     "Wiki route",
@@ -55,7 +55,6 @@
   "body_links": {
     "wikilinks_count": 11,
     "wikilinks": [
-      "JapanFG/INDEX",
       "aeon-bank",
       "banking/INDEX",
       "banking/mercari-bank-license-stack",
@@ -63,12 +62,12 @@
       "lawson-bank",
       "mizuho-fg",
       "mufg",
+      "regional-banks/INDEX",
       "regional-banks/lawson-bank",
       "retail/seven-and-i-hd",
       "smfg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/aeon-bank",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/mercari-bank-license-stack",
@@ -76,6 +75,7 @@
       "https://finwiki.zksc.io/lawson-bank",
       "https://finwiki.zksc.io/mizuho-fg",
       "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/regional-banks/INDEX",
       "https://finwiki.zksc.io/regional-banks/lawson-bank",
       "https://finwiki.zksc.io/retail/seven-and-i-hd",
       "https://finwiki.zksc.io/smfg"
@@ -84,9 +84,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5355,
-    "word_like_tokens": 929,
+    "nonspace_chars": 5369,
+    "word_like_tokens": 931,
     "inbound_wikilinks_count": 23,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

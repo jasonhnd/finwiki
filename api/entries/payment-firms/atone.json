@@ -37,7 +37,7 @@
       "https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html"
     ]
   },
-  "summary": "This entry sits under the JapanFG index as a consumer BNPL wallet brand. Read it together with the Japan BNPL landscape system note, the Net Protections HD corporate parent for ownership context, and the Paidy peer for direct comparator. The BNPL and credit-purchase boundary page sets the regulatory",
+  "summary": "This entry sits under the payment-firms INDEX as a consumer BNPL wallet brand. Read it together with the Japan BNPL landscape system note, the Net Protections HD corporate parent for ownership context, and the Paidy peer for direct comparator. The BNPL and credit-purchase boundary page sets the regu",
   "headings": [
     "atone (アトネ)",
     "Wiki route",
@@ -52,7 +52,7 @@
   "body_links": {
     "wikilinks_count": 9,
     "wikilinks": [
-      "JapanFG/INDEX",
+      "payment-firms/INDEX",
       "payment-firms/bnpl-landscape",
       "payment-firms/famima-digital-one",
       "payment-firms/merpay",
@@ -63,7 +63,7 @@
       "payments/japan-payment-scheme-economics-matrix"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/payment-firms/INDEX",
       "https://finwiki.zksc.io/payment-firms/bnpl-landscape",
       "https://finwiki.zksc.io/payment-firms/famima-digital-one",
       "https://finwiki.zksc.io/payment-firms/merpay",
@@ -77,9 +77,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2609,
-    "word_like_tokens": 388,
+    "nonspace_chars": 2621,
+    "word_like_tokens": 390,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

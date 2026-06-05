@@ -1,5 +1,5 @@
 ---
-source: japanfg/sbi-life
+source: life-insurers/sbi-life
 source_hash: 1d7c64d60c3e1c62
 lang: en
 status: machine
@@ -37,7 +37,7 @@ Read this entry together with the related banks, insurers, leasing companies, as
 
 ## Protected source anchors
 
-- [[JapanFG/INDEX|JapanFG index]] [[life-insurers/dai-ichi-frontier-life|第一フロンティア生命保険]] [[insurance/INDEX|insurance index]] [[sbi-insurance-group]] [[sbi-hd]] 1 [[sbi-insurance-group]] [[sbi-hd]] 2 [[sbi-hd]] [[lifenet]] [[rakuten-life]] [[sony-life]] 3 [[sbi-hd]] [[sbi-insurance-group]] [[sbi-securities]] [[sbi-shinsei-bank]]
+- [[life-insurers/INDEX|life-insurers INDEX]] [[life-insurers/dai-ichi-frontier-life|第一フロンティア生命保険]] [[insurance/INDEX|insurance index]] [[sbi-insurance-group]] [[sbi-hd]] 1 [[sbi-insurance-group]] [[sbi-hd]] 2 [[sbi-hd]] [[lifenet]] [[rakuten-life]] [[sony-life]] 3 [[sbi-hd]] [[sbi-insurance-group]] [[sbi-securities]] [[sbi-shinsei-bank]]
 - [[lifenet]] [[insurance/internet-life-insurance-business-model]] 2026-04-13 2026-04-13
 
 ## Related

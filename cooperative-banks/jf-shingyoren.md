@@ -29,7 +29,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **prefectural credit-federation layer** of the [[banking/jf-marine-bank-system-japan|JF Marine Bank system]], sitting between local JF (71 fishery cooperatives) and the national central institution [[cooperative-banks/norinchukin|農林中央金庫]]. Read with [[cooperative-banks/ja-shinnoren|JA 信連]] for the agricultural-side equivalent, [[cooperative-banks/jf-zengyoren|JF 全漁連]] for the representative / economic-business federation, and [[banking/cooperative-banking-japan|cooperative banking domain]] for the broader context.
+This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as the **prefectural credit-federation layer** of the [[banking/jf-marine-bank-system-japan|JF Marine Bank system]], sitting between local JF (71 fishery cooperatives) and the national central institution [[cooperative-banks/norinchukin|農林中央金庫]]. Read with [[cooperative-banks/ja-shinnoren|JA 信連]] for the agricultural-side equivalent, [[cooperative-banks/jf-zengyoren|JF 全漁連]] for the representative / economic-business federation, and [[banking/cooperative-banking-japan|cooperative banking domain]] for the broader context.
 
 ## TL;DR
 
@@ -128,7 +128,7 @@ JF Marine Bank system (3 層構造)
 - [[banking/jf-marine-bank-system-japan]] — JF Marine Bank system boundary
 - [[banking/ja-bank-system-japan]] — JA Bank system (peer system)
 - [[banking/cooperative-banking-japan]] — 協同組織金融全体
-- [[JapanFG/INDEX|JapanFG index]]
+- [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 
 ## Sources
 

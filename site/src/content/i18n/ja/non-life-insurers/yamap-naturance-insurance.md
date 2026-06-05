@@ -1,5 +1,5 @@
 ---
-source: japanfg/yamap-naturance-insurance
+source: non-life-insurers/yamap-naturance-insurance
 source_hash: f9b5eb30a34f5648
 lang: ja
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-02T16:33:58.510Z
 
 ## ウィキ上の位置づけ
 
-このエントリは [[JapanFG/INDEX|JapanFG index]] の配下に位置する。専門型 / 組込型損害保険の比較ルートとして、[[insurance/INDEX|insurance index]]、[[non-life-insurers/ntt-docomo-sonpo|NTTドコモ損害保険]]、[[non-life-insurers/au-insurance|au損害保険]]、[[non-life-insurers/anicom-insurance|アニコム損害保険]] とあわせて読む。
+このエントリは [[non-life-insurers/INDEX|non-life-insurers INDEX]] の配下に位置する。専門型 / 組込型損害保険の比較ルートとして、[[insurance/INDEX|insurance index]]、[[non-life-insurers/ntt-docomo-sonpo|NTTドコモ損害保険]]、[[non-life-insurers/au-insurance|au損害保険]]、[[non-life-insurers/anicom-insurance|アニコム損害保険]] とあわせて読む。
 
 このページは、広範な大手損害保険分析ではなく、アウトドア / アクティビティ隣接の専門型損害保険引受に使う。
 

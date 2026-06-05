@@ -1,5 +1,5 @@
 ---
-source: japanfg/mizuho-trust-bank-detail
+source: trust-banks/mizuho-trust-bank-detail
 source_hash: 29c023efd6855892
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:05:42.105Z
 
 ## Wiki route
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 下，并补充 [[trust-banks/mizuho-trust-bank|みずほ信託銀行]] 的公司层级概要。可与 [[trust-banks/mitsubishi-ufj-trust-bank|三菱UFJ信託銀行 (MUTB)]] / [[trust-banks/sumitomo-mitsui-trust|三井住友信託銀行]] 对照阅读，以理解信托银行同业竞争；与 [[megabanks/mizuho-fg|みずほFG]] / [[megabanks/mizuho-bank|みずほ銀行]] 对照阅读，以理解母集团内姊妹公司关系；更广泛的制度和监管边界见 [[banking/INDEX|banking index]]。
+本条目位于 [[trust-banks/INDEX|trust-banks INDEX]] 下，并补充 [[trust-banks/mizuho-trust-bank|みずほ信託銀行]] 的公司层级概要。可与 [[trust-banks/mitsubishi-ufj-trust-bank|三菱UFJ信託銀行 (MUTB)]] / [[trust-banks/sumitomo-mitsui-trust|三井住友信託銀行]] 对照阅读，以理解信托银行同业竞争；与 [[megabanks/mizuho-fg|みずほFG]] / [[megabanks/mizuho-bank|みずほ銀行]] 对照阅读，以理解母集团内姊妹公司关系；更广泛的制度和监管边界见 [[banking/INDEX|banking index]]。
 
 ## TL;DR
 
@@ -57,13 +57,13 @@ translated_at: 2026-05-31T23:05:42.105Z
 - **不动产信托受益权**：不动产流动化方案和 REIT 相关信托受益权组建。
 - **不动产中介**：面向法人 / 富裕层的不动产买卖中介和咨询。
 - **不动产基金**：私募不动产基金组建。
-- **竞争对手**：[[trust-banks/mitsubishi-ufj-trust-bank|MUTB]] / [[trust-banks/sumitomo-mitsui-trust|三井住友信託]] / 大型不动产公司，包括 [[JapanFG/INDEX|三井不動産]] 和三菱地所等。
+- **竞争对手**：[[trust-banks/mitsubishi-ufj-trust-bank|MUTB]] / [[trust-banks/sumitomo-mitsui-trust|三井住友信託]] / 大型不动产公司，包括 [[trust-banks/INDEX|trust-banks INDEX]] 和三菱地所等。
 
 ### 4.3  证券代行（股东名册管理）
 
 - **业务**：上市公司股东名册管理、股东大会事务和股息支付事务。
 - **客户**：上市公司，尤其是旧瑞穗 FG 系银行 main bank 关系客户。
-- **市场份额**：3  大信托 + [[JapanFG/INDEX|IR ジャパン]] 等几乎占据日本市场。
+- **市场份额**：3  大信托 + [[trust-banks/INDEX|trust-banks INDEX]] 等几乎占据日本市场。
 
 ### 4.4  受托财产（资产运用受托 / 托管）
 
@@ -88,10 +88,10 @@ translated_at: 2026-05-31T23:05:42.105Z
 | 信托银行 | 母 FG | 规模感（信托财产） |
 |---|---|---|
 | [[trust-banks/mitsubishi-ufj-trust-bank|三菱UFJ信託銀行 (MUTB)]] | [[megabanks/mufg|MUFG]] | **3  大信托中最大**（超过 300 兆円） |
-| [[trust-banks/sumitomo-mitsui-trust|三井住友信託銀行]] | [[JapanFG/INDEX|三井住友トラストHD]] | 超过 300 兆円，在年金领域领先 |
+| [[trust-banks/sumitomo-mitsui-trust|三井住友信託銀行]] | [[trust-banks/INDEX|trust-banks INDEX]] | 超过 300 兆円，在年金领域领先 |
 | **瑞穗信托银行** | 瑞穗 FG | 中位规模（200 兆円 区间） |
 
-此外，地银系信托（如 [[JapanFG/INDEX|横浜銀行]] 集团等）和独立系信托（Orix、东京海上等）的信托子公司也补充市场。
+此外，地银系信托（如 [[trust-banks/INDEX|trust-banks INDEX]] 集团等）和独立系信托（Orix、东京海上等）的信托子公司也补充市场。
 
 ## 6. 战略和近期动向
 
@@ -134,7 +134,7 @@ translated_at: 2026-05-31T23:05:42.105Z
 - [[trust-banks/mitsubishi-ufj-trust-bank|三菱UFJ信託銀行]] — 3  大信托竞争对手
 - [[trust-banks/sumitomo-mitsui-trust|三井住友信託銀行]] — 3  大信托竞争对手
 - [[trust-banks/smbc-trust-bank|SMBC信託銀行]] — SMFG 系信托银行，规模较小
-- [[JapanFG/INDEX|JapanFG index]]
+- [[trust-banks/INDEX|trust-banks INDEX]]
 - [[banking/INDEX|Banking domain index]]
 
 ## Sources

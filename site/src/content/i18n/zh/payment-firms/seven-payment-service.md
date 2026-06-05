@@ -1,5 +1,5 @@
 ---
-source: japanfg/seven-payment-service
+source: payment-firms/seven-payment-service
 source_hash: 97c9ea60a2958dc6
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-01T00:41:50.469Z
 
 ## Wiki 路径
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可与 [[payments/INDEX|payments index]] 一起阅读以获得相邻语境，并与 [[payments/funds-transfer-vs-prepaid-boundary|Funds transfer vs prepaid boundary in Japan]] 对读以把握更广的系统边界。
+本条目位于 [[payment-firms/INDEX|payment-firms INDEX]] 之下。可与 [[payments/INDEX|payments index]] 一起阅读以获得相邻语境，并与 [[payments/funds-transfer-vs-prepaid-boundary|Funds transfer vs prepaid boundary in Japan]] 对读以把握更广的系统边界。
 
 ## TL;DR
 

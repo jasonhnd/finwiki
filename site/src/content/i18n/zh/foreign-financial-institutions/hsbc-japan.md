@@ -1,5 +1,5 @@
 ---
-source: japanfg/hsbc-japan
+source: foreign-financial-institutions/hsbc-japan
 source_hash: 30223cf24a093d83
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T15:29:03.903Z
 
 ## 维基路线
 
-此条目位于 [[JapanFG/INDEX|JapanFG index]] 下。针对同行/对比背景阅读 [[foreign-financial-institutions/citigroup-japan|シティグループ・ジャパン (Citigroup Japan)]]，针对更广泛的系统/监管边界阅读 [[banking/INDEX|banking index]]。
+此条目位于 [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]] 下。针对同行/对比背景阅读 [[foreign-financial-institutions/citigroup-japan|シティグループ・ジャパン (Citigroup Japan)]]，针对更广泛的系统/监管边界阅读 [[banking/INDEX|banking index]]。
 
 ##TL;博士
 

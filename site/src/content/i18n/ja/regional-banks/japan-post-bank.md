@@ -1,5 +1,5 @@
 ---
-source: japanfg/japan-post-bank
+source: regional-banks/japan-post-bank
 source_hash: c17ce58ea76bbca7
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:25:12.431Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下で、[[regional-banks/yucho|ゆうちょ銀行 (Japan Post Bank) entity anchor]] のエンティティ・アンカーに対応する事業プロフィールとして位置づける。メガバンク級資産規模の比較対象として [[megabanks/mufg|MUFG]]・[[megabanks/smfg|SMFG]]・[[megabanks/mizuho-fg|Mizuho FG]]、上場非メガバンクのユニバーサルバンク比較として [[megabanks/resona-hd|りそなホールディングス]]、メガバンク外で次に大きい預金量システムとして [[banking/cooperative-banking-japan|cooperative banking Japan]]、上場リテール銀行 universe の中でゆうちょ銀行がどこに位置するかの構造的読みとして [[banking/post-megabank-positioning|post-megabank positioning]] を併読する。残存する政府金融の境界は [[policy-finance/japan-policy-finance-system|Japan policy finance system]]、デジタル販売の比較対象は [[banking/japan-net-bank-competition-map|Japan net bank competition map]] と組み合わせる。
+この項目は [[regional-banks/INDEX|regional-banks INDEX]] の配下で、[[regional-banks/yucho|ゆうちょ銀行 (Japan Post Bank) entity anchor]] のエンティティ・アンカーに対応する事業プロフィールとして位置づける。メガバンク級資産規模の比較対象として [[megabanks/mufg|MUFG]]・[[megabanks/smfg|SMFG]]・[[megabanks/mizuho-fg|Mizuho FG]]、上場非メガバンクのユニバーサルバンク比較として [[megabanks/resona-hd|りそなホールディングス]]、メガバンク外で次に大きい預金量システムとして [[banking/cooperative-banking-japan|cooperative banking Japan]]、上場リテール銀行 universe の中でゆうちょ銀行がどこに位置するかの構造的読みとして [[banking/post-megabank-positioning|post-megabank positioning]] を併読する。残存する政府金融の境界は [[policy-finance/japan-policy-finance-system|Japan policy finance system]]、デジタル販売の比較対象は [[banking/japan-net-bank-competition-map|Japan net bank competition map]] と組み合わせる。
 
 ## 1. グループ・所有構造上の位置
 
@@ -162,7 +162,7 @@ translated_at: 2026-06-02T14:25:12.431Z
 
 ## 関連項目
 
-- [[JapanFG/INDEX]]
+- [[regional-banks/INDEX]]
 - [[regional-banks/yucho]] — entity-anchor companion page
 - [[megabanks/japan-post-holdings]]
 - [[megabanks/japan-post]]

@@ -1,5 +1,5 @@
 ---
-source: japanfg/starr-insurance-japan
+source: non-life-insurers/starr-insurance-japan
 source_hash: 416573e5df177d3e
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.120Z
 
 ## 维基路线
 
-该条目位于 [[JapanFG/INDEX|JapanFG index]] 下。针对外国专业保险公司同行背景的 [[non-life-insurers/aig-japan|AIG Japan]] 和 [[non-life-insurers/chubb-insurance-japan|Chubb Insurance Japan]] 进行阅读，针对更广泛的日本非寿险市场体系/监管边界针对 [[insurance/INDEX|insurance index]] 进行阅读。
+该条目位于 [[non-life-insurers/INDEX|non-life-insurers INDEX]] 下。针对外国专业保险公司同行背景的 [[non-life-insurers/aig-japan|AIG Japan]] 和 [[non-life-insurers/chubb-insurance-japan|Chubb Insurance Japan]] 进行阅读，针对更广泛的日本非寿险市场体系/监管边界针对 [[insurance/INDEX|insurance index]] 进行阅读。
 
 ## 长篇大论；博士
 

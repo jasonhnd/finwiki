@@ -1,5 +1,5 @@
 ---
-source: japanfg/axa-japan
+source: life-insurers/axa-japan
 source_hash: 604573cfd8d56b39
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T11:13:44.904Z
 
 ## 维基路线
 
-该条目位于[[JapanFG/INDEX|JapanFG index]]。阅读它反对[[life-insurers/prudential-japan|プルデンシャル・ジブラルタ・ファイナンシャル (Prudential Japan)]]对于同行/对比上下文和[[insurance/INDEX|insurance index]]适用于更广泛的系统/监管边界。
+该条目位于[[life-insurers/INDEX|life-insurers INDEX]]。阅读它反对[[life-insurers/prudential-japan|プルデンシャル・ジブラルタ・ファイナンシャル (Prudential Japan)]]对于同行/对比上下文和[[insurance/INDEX|insurance index]]适用于更广泛的系统/监管边界。
 
 ## 长话短说
 

@@ -28,7 +28,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **first JA-Bank prefectural credit-federation (信連) operating-company anchor in FinWiki**, closing the audit gap that JA 信連 (集合的) was documented but no prefectural 信連 anchor existed. Tokyo was selected for its **urban-agriculture + 直結方式 (direct-link) borderline case** relevance — Tokyo信連 had transition discussions to 直結方式 in the late 2010s. Read with [[cooperative-banks/ja-shinnoren|JA 信連 (全国集合)]] for the national-level prefectural-federation context, [[cooperative-banks/ja-kyosairen-fukushima|JA 共済連福島]] for the kyosai-side prefectural peer, [[cooperative-banks/norinchukin|農林中央金庫]] for the central institution above, and [[banking/ja-bank-system-japan|JA Bank system]] for the system boundary.
+This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as the **first JA-Bank prefectural credit-federation (信連) operating-company anchor in FinWiki**, closing the audit gap that JA 信連 (集合的) was documented but no prefectural 信連 anchor existed. Tokyo was selected for its **urban-agriculture + 直結方式 (direct-link) borderline case** relevance — Tokyo信連 had transition discussions to 直結方式 in the late 2010s. Read with [[cooperative-banks/ja-shinnoren|JA 信連 (全国集合)]] for the national-level prefectural-federation context, [[cooperative-banks/ja-kyosairen-fukushima|JA 共済連福島]] for the kyosai-side prefectural peer, [[cooperative-banks/norinchukin|農林中央金庫]] for the central institution above, and [[banking/ja-bank-system-japan|JA Bank system]] for the system boundary.
 
 ## TL;DR
 
@@ -138,7 +138,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **first JA-Bank pre
 - [[regional-banks/yokohama-bank]] — 横浜銀行 (関東地銀 peer)
 - [[banking/ja-bank-system-japan]] — JA Bank system
 - [[banking/cooperative-banking-japan]] — 協同組織金融全体
-- [[JapanFG/INDEX|JapanFG index]]
+- [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 
 ## Sources
 

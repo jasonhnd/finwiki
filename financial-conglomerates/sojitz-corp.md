@@ -26,7 +26,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha parent holding-company** — 5 大商社の次のレイヤーである **7 大商社の中堅商社** に位置付けられる。Read it against [[financial-conglomerates/marubeni-corp|丸紅]] (5 大商社の中下位、双日との近接ポジション) and [[financial-conglomerates/toyota-tsusho-corp|豊田通商]] (中堅・5 大下位の他のもう一極) for peer / contrast context. For the financial-services adjacency that gives this entry its JapanFG anchor — see [[trading-company-finance/sojitz-finance|双日フィナンス]] (内向け CMS、5 大の MCFS / MBFS / 伊藤忠ファイナンス / 丸紅フィナンス / 住友商事FM と同じ group-treasury モデル)。System frame: [[finance/INDEX|finance index]] と [[finance/japan-listed-financial-groups-investable-universe|Japan 上場金融 G 投資ユニバース]]。
+This entry sits under [[financial-conglomerates/INDEX|financial-conglomerates INDEX]] as a **sōgō shōsha parent holding-company** — 5 大商社の次のレイヤーである **7 大商社の中堅商社** に位置付けられる。Read it against [[financial-conglomerates/marubeni-corp|丸紅]] (5 大商社の中下位、双日との近接ポジション) and [[financial-conglomerates/toyota-tsusho-corp|豊田通商]] (中堅・5 大下位の他のもう一極) for peer / contrast context. For the financial-services adjacency that gives this entry its JapanFG anchor — see [[trading-company-finance/sojitz-finance|双日フィナンス]] (内向け CMS、5 大の MCFS / MBFS / 伊藤忠ファイナンス / 丸紅フィナンス / 住友商事FM と同じ group-treasury モデル)。System frame: [[finance/INDEX|finance index]] と [[finance/japan-listed-financial-groups-investable-universe|Japan 上場金融 G 投資ユニバース]]。
 
 ## 1. 会社概要
 
@@ -119,7 +119,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha pare
 
 ## Related
 
-- [[JapanFG/INDEX|JapanFG index]]
+- [[financial-conglomerates/INDEX|financial-conglomerates INDEX]]
 - [[financial-conglomerates/mitsubishi-corp|三菱商事]] · [[financial-conglomerates/mitsui-co|三井物産]] · [[financial-conglomerates/itochu-corp|伊藤忠商事]] · [[financial-conglomerates/sumitomo-corp|住友商事]] · [[financial-conglomerates/marubeni-corp|丸紅]] · [[financial-conglomerates/toyota-tsusho-corp|豊田通商]] (peer 商社)
 - [[trading-company-finance/sojitz-finance|双日フィナンス]] (内向け group treasury)
 - [[leasing-firms/orix-corp|オリックス]] · [[leasing-firms/mitsubishi-hc-capital|HCキャピタル]] · [[leasing-firms/tokyo-century|東京センチュリー]] · [[leasing-firms/smfl|SMFL]] · [[leasing-firms/mizuho-lease|みずほリース]] (外部リース取引先)

@@ -26,7 +26,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]] and complements the company-level summary at [[trust-banks/mizuho-trust-bank|みずほ信託銀行]]. Read it against [[trust-banks/mitsubishi-ufj-trust-bank|三菱UFJ信託銀行 (MUTB)]] / [[trust-banks/sumitomo-mitsui-trust|三井住友信託銀行]] for peer trust-bank competitor context, [[megabanks/mizuho-fg|みずほFG]] / [[megabanks/mizuho-bank|みずほ銀行]] for parent-group sister context, and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+This entry sits under [[trust-banks/INDEX|trust-banks INDEX]] and complements the company-level summary at [[trust-banks/mizuho-trust-bank|みずほ信託銀行]]. Read it against [[trust-banks/mitsubishi-ufj-trust-bank|三菱UFJ信託銀行 (MUTB)]] / [[trust-banks/sumitomo-mitsui-trust|三井住友信託銀行]] for peer trust-bank competitor context, [[megabanks/mizuho-fg|みずほFG]] / [[megabanks/mizuho-bank|みずほ銀行]] for parent-group sister context, and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
@@ -72,13 +72,13 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] and complements the compan
 - **不動産信託受益権**：不動産流動化スキーム・REIT 関連の信託受益権組成
 - **不動産仲介**：法人 / 富裕層向け不動産売買仲介・コンサルティング
 - **不動産ファンド**：私募不動産ファンド組成
-- **競合**：[[trust-banks/mitsubishi-ufj-trust-bank|MUTB]] / [[trust-banks/sumitomo-mitsui-trust|三井住友信託]] / 大手不動産会社（[[JapanFG/INDEX|三井不動産]]・三菱地所等）
+- **競合**：[[trust-banks/mitsubishi-ufj-trust-bank|MUTB]] / [[trust-banks/sumitomo-mitsui-trust|三井住友信託]] / 大手不動産会社（[[trust-banks/INDEX|trust-banks INDEX]]・三菱地所等）
 
 ### 4.3 証券代行（株主名簿管理）
 
 - **業務**：上場会社の株主名簿管理・株主総会事務・配当支払事務
 - **顧客**：上場会社（旧 みずほ FG 系銀行 main bank 関係先中心）
-- **市場シェア**：3 大信託 + [[JapanFG/INDEX|IR ジャパン]] 等で日本市場をほぼ占有
+- **市場シェア**：3 大信託 + [[trust-banks/INDEX|trust-banks INDEX]] 等で日本市場をほぼ占有
 
 ### 4.4 受託財産（資産運用受託・カストディ）
 
@@ -103,10 +103,10 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] and complements the compan
 | 信託銀行 | 親 FG | 規模感（信託財産） |
 |---|---|---|
 | [[trust-banks/mitsubishi-ufj-trust-bank|三菱UFJ信託銀行 (MUTB)]] | [[megabanks/mufg|MUFG]] | **3 大信託最大** (300 兆円超) |
-| [[trust-banks/sumitomo-mitsui-trust|三井住友信託銀行]] | [[JapanFG/INDEX|三井住友トラストHD]] | 300 兆円超 (年金で先行) |
+| [[trust-banks/sumitomo-mitsui-trust|三井住友信託銀行]] | [[trust-banks/INDEX|trust-banks INDEX]] | 300 兆円超 (年金で先行) |
 | **みずほ信託銀行** | みずほ FG | 中位規模 (200 兆円台) |
 
-その他、地銀系信託（[[JapanFG/INDEX|横浜銀行]] グループ等）や独立系信託（オリックス・東京海上等）の信託子会社も補完。
+その他、地銀系信託（[[trust-banks/INDEX|trust-banks INDEX]] グループ等）や独立系信託（オリックス・東京海上等）の信託子会社も補完。
 
 ## 6. 戦略・最近の動向
 
@@ -149,7 +149,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] and complements the compan
 - [[trust-banks/mitsubishi-ufj-trust-bank|三菱UFJ信託銀行]] — 3 大信託競合
 - [[trust-banks/sumitomo-mitsui-trust|三井住友信託銀行]] — 3 大信託競合
 - [[trust-banks/smbc-trust-bank|SMBC信託銀行]] — SMFG 系信託（規模小）
-- [[JapanFG/INDEX|JapanFG index]]
+- [[trust-banks/INDEX|trust-banks INDEX]]
 - [[banking/INDEX|Banking domain index]]
 
 ## Sources

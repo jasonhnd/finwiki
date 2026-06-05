@@ -36,7 +36,7 @@
       "https://www.au-sonpo.co.jp/corporate/corporate/index.html"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against ソニー損害保険 for peer / contrast context and insurance index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under non-life-insurers INDEX. Read it against ソニー損害保険 for peer / contrast context and insurance index for the broader system / regulatory boundary.",
   "headings": [
     "au損害保険",
     "Wiki route",
@@ -50,11 +50,11 @@
   "body_links": {
     "wikilinks_count": 10,
     "wikilinks": [
-      "JapanFG/INDEX",
       "aioi-nissay-dowa-insurance",
       "au-fh",
       "insurance/INDEX",
       "lifenet",
+      "non-life-insurers/INDEX",
       "non-life-insurers/sony-insurance",
       "rakuten-general-insurance",
       "retail/INDEX",
@@ -62,11 +62,11 @@
       "sony-insurance"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/aioi-nissay-dowa-insurance",
       "https://finwiki.zksc.io/au-fh",
       "https://finwiki.zksc.io/insurance/INDEX",
       "https://finwiki.zksc.io/lifenet",
+      "https://finwiki.zksc.io/non-life-insurers/INDEX",
       "https://finwiki.zksc.io/non-life-insurers/sony-insurance",
       "https://finwiki.zksc.io/rakuten-general-insurance",
       "https://finwiki.zksc.io/retail/INDEX",
@@ -77,9 +77,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1985,
-    "word_like_tokens": 314,
+    "nonspace_chars": 2005,
+    "word_like_tokens": 318,
     "inbound_wikilinks_count": 15,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

@@ -1,5 +1,5 @@
 ---
-source: japanfg/dg-financial-technology
+source: payment-firms/dg-financial-technology
 source_hash: 22098fe575369cad
 lang: ja
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-06-02T14:25:12.391Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の下に置く。ピア比較・対照の文脈では [[payment-firms/sb-payment-service|SBペイメントサービス (SB Payment Service)]] と照合し、より広い制度・規制上の境界は [[payments/INDEX|payments index]] と併読する。
+この項目は [[payment-firms/INDEX|payment-firms INDEX]] の下に置く。ピア比較・対照の文脈では [[payment-firms/sb-payment-service|SBペイメントサービス (SB Payment Service)]] と照合し、より広い制度・規制上の境界は [[payments/INDEX|payments index]] と併読する。
 
 ## 要約
 

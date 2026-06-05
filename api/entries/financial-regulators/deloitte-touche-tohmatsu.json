@@ -44,7 +44,7 @@
       "https://ja.wikipedia.org/wiki/アビームコンサルティング"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it alongside EY 新日本 and PwC あらた for peer Big 4 audit context, and 金融ライセンス INDEX for 公認会計士法 / 監査品質管理の規制境界。CPAAOB 監督文脈は 金融庁 監督局 と 金融庁 総合政策局 の所管。",
+  "summary": "This entry sits under financial-regulators INDEX. Read it alongside EY 新日本 and PwC あらた for peer Big 4 audit context, and 金融ライセンス INDEX for 公認会計士法 / 監査品質管理の規制境界。CPAAOB 監督文脈は 金融庁 監督局 と 金融庁 総合政策局 の所管。",
   "headings": [
     "有限責任監査法人トーマツ (Deloitte Touche Tohmatsu)",
     "Wiki route",
@@ -60,11 +60,11 @@
   "body_links": {
     "wikilinks_count": 12,
     "wikilinks": [
-      "JapanFG/INDEX",
       "exchanges/japan-crypto-audit-firm-landscape",
       "exchanges/jp-exchange-bitflyer",
       "exchanges/jp-vasp-aml-travel-rule-implementation",
       "financial-licenses/INDEX",
+      "financial-regulators/INDEX",
       "financial-regulators/ey-shinnihon",
       "financial-regulators/fsa-strategy-bureau",
       "financial-regulators/fsa-supervision-bureau",
@@ -74,11 +74,11 @@
       "securities-firms/nomura-hd"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/exchanges/japan-crypto-audit-firm-landscape",
       "https://finwiki.zksc.io/exchanges/jp-exchange-bitflyer",
       "https://finwiki.zksc.io/exchanges/jp-vasp-aml-travel-rule-implementation",
       "https://finwiki.zksc.io/financial-licenses/INDEX",
+      "https://finwiki.zksc.io/financial-regulators/INDEX",
       "https://finwiki.zksc.io/financial-regulators/ey-shinnihon",
       "https://finwiki.zksc.io/financial-regulators/fsa-strategy-bureau",
       "https://finwiki.zksc.io/financial-regulators/fsa-supervision-bureau",
@@ -91,9 +91,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4461,
-    "word_like_tokens": 663,
+    "nonspace_chars": 4487,
+    "word_like_tokens": 665,
     "inbound_wikilinks_count": 8,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

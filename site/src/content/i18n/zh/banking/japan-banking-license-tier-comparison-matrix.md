@@ -219,7 +219,7 @@ translated_at: 2026-05-30T18:10:53.989Z
 - **信用金库对比信用合作社。** 两者都是具有不同法规的 協同組織 合作金融机构;资格规则与监管财务局不同。参见 [[banking/shinkin-bank-registry-japan|shinkin registry]] 与 [[banking/credit-cooperative-registry-japan|credit cooperative registry]]。
 - **劳动金库对比其他合作金融。** 劳动金库独特地由 厚劳省 联合监管,并具有工会会员结构。参见 [[banking/rokin-bank-registry-japan|rōkin registry]]。
 - **農林系統 对比普通合作金融。** 该体系使用 貯金(储蓄)而非 預金(存款)术语,并拥有与 [[financial-regulators/yokin-hoken-kiko|DICJ]] 平行的自有储蓄保险机构;监管为金融厅 / 农水省 联合。
-- **外国银行分行对比日本注册的外资银行。** 外国銀行支店 是第九章下的分行。日本注册的子公司(例如 [[JapanFG/INDEX|JapanFG]] 等实体,如 SBJ Bank)是具有外资所有权的 普通銀行,而非外国银行分行。存款保险处理不同。
+- **外国银行分行对比日本注册的外资银行。** 外国銀行支店 是第九章下的分行。日本注册的子公司(例如 [[banking/INDEX|banking INDEX]] 等实体,如 SBJ Bank)是具有外资所有权的 普通銀行,而非外国银行分行。存款保险处理不同。
 - **银行代理 / BaaS 界面对比银行牌照。** 合作伙伴品牌的应用、BaaS 服务或银行代理渠道**不是**单独的银行牌照 —— 存款债务方是持牌银行。法律堆栈对比 UX 堆栈的映射参见 [[financial-licenses/bank-license-and-baas-boundary|bank license and BaaS boundary]]。
 
 ## Related

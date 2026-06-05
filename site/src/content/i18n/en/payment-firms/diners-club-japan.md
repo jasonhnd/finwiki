@@ -1,5 +1,5 @@
 ---
-source: japanfg/diners-club-japan
+source: payment-firms/diners-club-japan
 source_hash: 8a9a79531f276d38
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T15:29:03.858Z
 
 ## Wiki route
 
-This entry sits in the JapanFG route specified by the source file. Main source context: [[JapanFG/INDEX|JapanFG index]] [[card-issuers/jcb|JCB]] 3 [[payments/japan-card-issuer-acquirer-processor-split|Japan card issuer / acquirer / processor split]] 1 3 [[trust-banks/sumitomo-mitsui-trust|Sumitomo Mitsui Trust Group]] 2 1950 2006-02  13,000 merchant locations 3 [[payment-firms/american-express-international-japan|Amex Japan]] 3 [[card-issuers/jcb|JCB]] 4 [[card-issuers/jcb|JCB]] [[payment-firms/american-express-international-japan|American Express International Japan]] 3
+This entry sits in the JapanFG route specified by the source file. Main source context: [[payment-firms/INDEX|payment-firms INDEX]] [[card-issuers/jcb|JCB]] 3 [[payments/japan-card-issuer-acquirer-processor-split|Japan card issuer / acquirer / processor split]] 1 3 [[trust-banks/sumitomo-mitsui-trust|Sumitomo Mitsui Trust Group]] 2 1950 2006-02  13,000 merchant locations 3 [[payment-firms/american-express-international-japan|Amex Japan]] 3 [[card-issuers/jcb|JCB]] 4 [[card-issuers/jcb|JCB]] [[payment-firms/american-express-international-japan|American Express International Japan]] 3
 
 ## TL;DR
 

@@ -1,5 +1,5 @@
 ---
-source: japanfg/acom-co-detail
+source: consumer-finance/acom-co-detail
 source_hash: a831aad37c8bf471
 lang: en
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T07:28:06.178Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]] and complements the company-level summary at [[consumer-finance/acom|Acom Co., Ltd.]]. Read it against [[consumer-finance/smbc-consumer-finance|SMBC Consumer Finance (Promise)]] for MUFG-group competitor context on the SMFG side, [[consumer-finance/aiful|Aiful]] for an independent pure-play consumer-finance peer, and [[megabanks/mufg|MUFG]] / [[megabanks/mufg-bank|Mitsubishi UFJ Bank]] for parent-group context.
+This entry sits under [[consumer-finance/INDEX|consumer-finance INDEX]] and complements the company-level summary at [[consumer-finance/acom|Acom Co., Ltd.]]. Read it against [[consumer-finance/smbc-consumer-finance|SMBC Consumer Finance (Promise)]] for MUFG-group competitor context on the SMFG side, [[consumer-finance/aiful|Aiful]] for an independent pure-play consumer-finance peer, and [[megabanks/mufg|MUFG]] / [[megabanks/mufg-bank|Mitsubishi UFJ Bank]] for parent-group context.
 
 ## TL;DR
 
@@ -118,7 +118,7 @@ For details, see EDINET annual securities reports and Acom IR earnings materials
 - [[consumer-finance/aiful|Aiful]] — independent competitor
 - [[card-issuers/jaccs|JACCS]] — credit-sales competitor
 - [[card-issuers/orico|Orient Corporation]] — credit-sales competitor
-- [[JapanFG/INDEX|JapanFG index]]
+- [[consumer-finance/INDEX|consumer-finance INDEX]]
 - [[banking/INDEX|Banking domain index]]
 
 ## Sources

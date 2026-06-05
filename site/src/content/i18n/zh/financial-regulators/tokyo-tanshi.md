@@ -1,5 +1,5 @@
 ---
-source: japanfg/tokyo-tanshi
+source: financial-regulators/tokyo-tanshi
 source_hash: fa690119bd04111a
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.147Z
 
 ## Wiki 路线
 
-该条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可结合 [[financial-regulators/central-tanshi|セントラル短資株式会社 (Central Tanshi)]] 阅读同业和对比背景，并结合 [[banking/INDEX|banking index]] 理解更广泛的制度和监管边界。
+该条目位于 [[financial-regulators/INDEX|financial-regulators INDEX]] 之下。可结合 [[financial-regulators/central-tanshi|セントラル短資株式会社 (Central Tanshi)]] 阅读同业和对比背景，并结合 [[banking/INDEX|banking index]] 理解更广泛的制度和监管边界。
 
 ## 要点
 

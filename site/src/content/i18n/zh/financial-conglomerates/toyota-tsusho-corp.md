@@ -1,5 +1,5 @@
 ---
-source: japanfg/toyota-tsusho-corp
+source: financial-conglomerates/toyota-tsusho-corp
 source_hash: 83735b0e76f428b2
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.147Z
 
 ## Wiki 路线
 
-该条目位于 [[JapanFG/INDEX|JapanFG index]] 之下，是具有鲜明**丰田集团系商社（Toyota group captive trading house）**特征的**综合商社母体 / 控股型公司**：Toyota Motor 持股约 22% 级，是主要股东；它独立于 5  大商社之外，被定位为**第 6  商社 / 丰田系商社**。可结合 [[financial-conglomerates/mitsubishi-corp|三菱商事]] 和 [[financial-conglomerates/sojitz-corp|双日]]（中坚商社）阅读同业和对比背景。赋予本条目 JapanFG 锚点的金融服务相邻性，请参见 [[trading-company-finance/toyota-tsusho-finance|豊田通商フィナンス]]（内部 CMS）和 **[[leasing-firms/toyota-financial|トヨタファイナンシャルサービス (TFS)]] family**（Toyota Motor 100% 子公司系的**汽车贷款 / 租赁 / 保险平台**；与丰田通商没有直接资本关系，但在 Toyota group ecosystem 中相邻）。系统框架：[[finance/INDEX|finance index]] 和 [[finance/japan-listed-financial-groups-investable-universe|Japan 上場金融 G 投資ユニバース]]。
+该条目位于 [[financial-conglomerates/INDEX|financial-conglomerates INDEX]] 之下，是具有鲜明**丰田集团系商社（Toyota group captive trading house）**特征的**综合商社母体 / 控股型公司**：Toyota Motor 持股约 22% 级，是主要股东；它独立于 5  大商社之外，被定位为**第 6  商社 / 丰田系商社**。可结合 [[financial-conglomerates/mitsubishi-corp|三菱商事]] 和 [[financial-conglomerates/sojitz-corp|双日]]（中坚商社）阅读同业和对比背景。赋予本条目 JapanFG 锚点的金融服务相邻性，请参见 [[trading-company-finance/toyota-tsusho-finance|豊田通商フィナンス]]（内部 CMS）和 **[[leasing-firms/toyota-financial|トヨタファイナンシャルサービス (TFS)]] family**（Toyota Motor 100% 子公司系的**汽车贷款 / 租赁 / 保险平台**；与丰田通商没有直接资本关系，但在 Toyota group ecosystem 中相邻）。系统框架：[[finance/INDEX|finance index]] 和 [[finance/japan-listed-financial-groups-investable-universe|Japan 上場金融 G 投資ユニバース]]。
 
 ## 1. 公司概要
 
@@ -99,7 +99,7 @@ translated_at: 2026-06-01T02:31:57.147Z
 
 ## Related
 
-- [[JapanFG/INDEX|JapanFG index]]
+- [[financial-conglomerates/INDEX|financial-conglomerates INDEX]]
 - [[financial-conglomerates/mitsubishi-corp|三菱商事]] · [[financial-conglomerates/mitsui-co|三井物産]] · [[financial-conglomerates/itochu-corp|伊藤忠商事]] · [[financial-conglomerates/sumitomo-corp|住友商事]] · [[financial-conglomerates/marubeni-corp|丸紅]] · [[financial-conglomerates/sojitz-corp|双日]]（同业商社）
 - [[trading-company-finance/toyota-tsusho-finance|豊田通商フィナンス]]（内部 group treasury）
 - [[leasing-firms/toyota-financial|TFS / トヨタファイナンシャルサービス]]（Toyota Motor 直属 captive finance）

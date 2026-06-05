@@ -26,7 +26,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha parent holding-company**. Read it against [[financial-conglomerates/mitsubishi-corp|三菱商事]] (旧 財閥商社の両雄) and [[financial-conglomerates/mitsui-co|三井物産]] (財閥商社の三巨頭) for peer / contrast context. For the financial-services adjacency that gives this entry its JapanFG anchor — see [[trading-company-finance/sumitomo-corp-financial-management|住友商事フィナンシャルマネジメント]] (内向け CMS) and especially **[[leasing-firms/smfl|SMFL (三井住友ファイナンス&リース)]]** (住友商事 50% + [[megabanks/smfg|SMFG]] 50%、3 大リースの一角) and **[[leasing-firms/sumitomo-mitsui-auto-service|住友三井オートサービス]]** (オートリース国内首位級)。System frame: [[finance/INDEX|finance index]] と [[finance/japan-listed-financial-groups-investable-universe|Japan 上場金融 G 投資ユニバース]]。
+This entry sits under [[financial-conglomerates/INDEX|financial-conglomerates INDEX]] as a **sōgō shōsha parent holding-company**. Read it against [[financial-conglomerates/mitsubishi-corp|三菱商事]] (旧 財閥商社の両雄) and [[financial-conglomerates/mitsui-co|三井物産]] (財閥商社の三巨頭) for peer / contrast context. For the financial-services adjacency that gives this entry its JapanFG anchor — see [[trading-company-finance/sumitomo-corp-financial-management|住友商事フィナンシャルマネジメント]] (内向け CMS) and especially **[[leasing-firms/smfl|SMFL (三井住友ファイナンス&リース)]]** (住友商事 50% + [[megabanks/smfg|SMFG]] 50%、3 大リースの一角) and **[[leasing-firms/sumitomo-mitsui-auto-service|住友三井オートサービス]]** (オートリース国内首位級)。System frame: [[finance/INDEX|finance index]] と [[finance/japan-listed-financial-groups-investable-universe|Japan 上場金融 G 投資ユニバース]]。
 
 ## 1. 会社概要
 
@@ -116,7 +116,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha pare
 
 ## Related
 
-- [[JapanFG/INDEX|JapanFG index]]
+- [[financial-conglomerates/INDEX|financial-conglomerates INDEX]]
 - [[financial-conglomerates/mitsubishi-corp|三菱商事]] · [[financial-conglomerates/mitsui-co|三井物産]] · [[financial-conglomerates/itochu-corp|伊藤忠商事]] · [[financial-conglomerates/marubeni-corp|丸紅]] · [[financial-conglomerates/toyota-tsusho-corp|豊田通商]] · [[financial-conglomerates/sojitz-corp|双日]] (peer 商社)
 - [[trading-company-finance/sumitomo-corp-financial-management|住友商事フィナンシャルマネジメント]] (内向け group treasury)
 - [[leasing-firms/smfl|SMFL]] (50/50 JV with SMFG、3 大リース)

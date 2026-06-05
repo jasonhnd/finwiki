@@ -1,5 +1,5 @@
 ---
-source: japanfg/swiss-re-japan
+source: non-life-insurers/swiss-re-japan
 source_hash: 26d8eca0389bb6b3
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.137Z
 
 ## Wiki 路线
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可与 [[non-life-insurers/munich-re-japan|ミュンヘン再保険日本支店]] 对照阅读，后者是直接 peer（“Big 2” global reinsurer）；也可与 [[non-life-insurers/toa-reinsurance|トーア再保険]] 对照，以把握日本国内再保险公司的差异。更广的系统锚点是 [[insurance/natcat-reinsurance-japan|nat-cat reinsurance Japan]]，历史参照 [[non-life-insurers/japan-earthquake-reinsurance|日本地震再保険]] 则说明了与民间全球再保险能力互动的公私地震制度。
+本条目位于 [[non-life-insurers/INDEX|non-life-insurers INDEX]] 之下。可与 [[non-life-insurers/munich-re-japan|ミュンヘン再保険日本支店]] 对照阅读，后者是直接 peer（“Big 2” global reinsurer）；也可与 [[non-life-insurers/toa-reinsurance|トーア再保険]] 对照，以把握日本国内再保险公司的差异。更广的系统锚点是 [[insurance/natcat-reinsurance-japan|nat-cat reinsurance Japan]]，历史参照 [[non-life-insurers/japan-earthquake-reinsurance|日本地震再保険]] 则说明了与民间全球再保险能力互动的公私地震制度。
 
 ## TL;DR
 
@@ -44,7 +44,7 @@ translated_at: 2026-06-01T02:31:57.137Z
 
 ## Related
 
-- [[JapanFG/INDEX]]
+- [[non-life-insurers/INDEX]]
 - [[munich-re-japan]]
 - [[toa-reinsurance]]
 - [[japan-earthquake-reinsurance]]

@@ -16,7 +16,7 @@ translated_at: 2026-06-02T14:01:20.943Z
 
 市場は集中している。生命保険では Nippon Life、Dai-ichi、Sumitomo、Meiji Yasuda の大手四社が保険料を主導し、損害保険では Tokio Marine、MS&AD、Sompo の大手三グループが中心で、共済では JA Kyosai が最大の協同組合系保険者である。地震保険制度は、Japan Earthquake Reinsurance（JER）が運営し政府の裏付けを持つ、日本特有の官民パートナーシップである。
 
-この項目は [[insurance/INDEX|insurance domain]] を横断的につなぎ、エンティティページである [[JapanFG/INDEX|JapanFG]] への橋渡しをするエコシステム上のアンカーである。
+この項目は [[insurance/INDEX|insurance domain]] を横断的につなぎ、エンティティページである [[insurance/INDEX|insurance INDEX]] への橋渡しをするエコシステム上のアンカーである。
 
 ## ウィキ上の位置づけ
 
@@ -167,7 +167,6 @@ translated_at: 2026-06-02T14:01:20.943Z
 - [[insurance/bancassurance-economics-japan]]
 - [[insurance/japan-bancassurance-distribution-overlay-matrix]]
 - [[insurance/kampo-japan-post-insurance]]
-- [[JapanFG/INDEX]]
 - [[life-insurers/nippon-life]]
 - [[life-insurers/dai-ichi-life]]
 - [[life-insurers/sumitomo-life]]

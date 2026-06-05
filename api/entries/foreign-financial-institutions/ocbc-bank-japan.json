@@ -38,7 +38,7 @@
       "https://www.ocbc.com/group/about-us/international-network.page"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it with banking index for adjacent context and JapanFG index for the broader system boundary.",
+  "summary": "This entry sits under foreign-financial-institutions INDEX. Read it with banking index for adjacent context and JapanFG index for the broader system boundary.",
   "headings": [
     "オーバーシー・チャイニーズ銀行 東京支店",
     "Wiki route",
@@ -52,18 +52,18 @@
   "body_links": {
     "wikilinks_count": 6,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "banking/foreign-bank-japan-retreat",
       "financial-licenses/INDEX",
+      "foreign-financial-institutions/INDEX",
       "foreign-financial-institutions/dbs-bank-japan",
       "foreign-financial-institutions/uob-bank-japan"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/foreign-bank-japan-retreat",
       "https://finwiki.zksc.io/financial-licenses/INDEX",
+      "https://finwiki.zksc.io/foreign-financial-institutions/INDEX",
       "https://finwiki.zksc.io/foreign-financial-institutions/dbs-bank-japan",
       "https://finwiki.zksc.io/foreign-financial-institutions/uob-bank-japan"
     ],
@@ -71,9 +71,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2460,
-    "word_like_tokens": 395,
+    "nonspace_chars": 2506,
+    "word_like_tokens": 399,
     "inbound_wikilinks_count": 9,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

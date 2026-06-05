@@ -11,7 +11,7 @@ translated_at: 2026-06-02T16:33:58.496Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[manufacturer-finance/INDEX|manufacturing index]] の配下に位置する。産業コングロマリットの金融部門ピアとして [[manufacturer-finance/hitachi-industrial-finance-platform|Hitachi 産業金融]]、[[manufacturer-finance/panasonic-captive-finance|Panasonic 顧客金融]]、[[manufacturer-finance/sony-group-finance-arm|Sony FG]]、[[manufacturer-finance/toyota-financial-services|Toyota Financial Services]] と照らして読む。政策金融側の対応関係については [[financial-regulators/jbic|JBIC]]・[[policy-finance/nexi|NEXI]]、輸出支援スタック全体については [[trade/jetro-vs-nexi-vs-jbic-comparison|JETRO vs NEXI vs JBIC]]、より広い三菱系列の文脈については [[trading-company-finance/mitsubishi-corp-finance|三菱商事 金融機能]] / [[JapanFG/INDEX|JapanFG index]] と組み合わせる。
+この項目は [[manufacturer-finance/INDEX|manufacturing index]] の配下に位置する。産業コングロマリットの金融部門ピアとして [[manufacturer-finance/hitachi-industrial-finance-platform|Hitachi 産業金融]]、[[manufacturer-finance/panasonic-captive-finance|Panasonic 顧客金融]]、[[manufacturer-finance/sony-group-finance-arm|Sony FG]]、[[manufacturer-finance/toyota-financial-services|Toyota Financial Services]] と照らして読む。政策金融側の対応関係については [[financial-regulators/jbic|JBIC]]・[[policy-finance/nexi|NEXI]]、輸出支援スタック全体については [[trade/jetro-vs-nexi-vs-jbic-comparison|JETRO vs NEXI vs JBIC]]、より広い三菱系列の文脈については [[trading-company-finance/mitsubishi-corp-finance|三菱商事 金融機能]] / [[manufacturer-finance/INDEX|manufacturer-finance INDEX]] と組み合わせる。
 
 ## 要約
 
@@ -113,7 +113,7 @@ MHI は「銀行・保険を抱える型の captive」ではなく、「**輸出
 - [[megabanks/mufg|MUFG]] · [[megabanks/smfg|SMFG]] · [[megabanks/mizuho-fg|みずほ FG]] · [[trading-company-finance/mitsubishi-corp-finance|三菱商事 金融機能]] · [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]]
 - [[manufacturer-finance/hitachi-industrial-finance-platform|Hitachi 産業金融]] · [[manufacturer-finance/panasonic-captive-finance|Panasonic 顧客金融]] · [[manufacturer-finance/sony-group-finance-arm|Sony FG]] · [[manufacturer-finance/toyota-financial-services|Toyota Financial Services]]
 - [[manufacturer-finance/toyota-motor|Toyota Motor]] · [[manufacturer-finance/seiko-epson|Seiko Epson]]
-- [[manufacturer-finance/INDEX|manufacturing INDEX]] · [[JapanFG/INDEX|JapanFG INDEX]] · [[INDEX|FinWiki index]]
+- [[manufacturer-finance/INDEX|manufacturing INDEX]] · [[manufacturer-finance/INDEX|manufacturer-finance INDEX]] · [[INDEX|FinWiki index]]
 
 ## 出典
 

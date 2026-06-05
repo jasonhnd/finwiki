@@ -1,5 +1,5 @@
 ---
-source: japanfg/jf-marine-bank-hokkaido
+source: cooperative-banks/jf-marine-bank-hokkaido
 source_hash: 5951f6ad9d5cba9b
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:59:49.417Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **first JF Marine Bank prefectural-federation operating-company anchor in FinWiki**, closing the audit gap that JF Shingyoren (collective) was documented but no prefectural Shingyoren anchor existed. Hokkaido was selected as the **single largest fisheries region in Japan** (top production value for salmon / scallops / kelp / coastal fisheries, etc.) + **the most prominent regional federation in the 10-Shingyoren landscape**. Read with [[cooperative-banks/jf-shingyoren|JF 信漁連 (全国集合)]] for the national prefectural-federation context, [[cooperative-banks/jf-zengyoren|JF 全漁連]] for the JF group national representative + economic business federation, [[cooperative-banks/norinchukin|農林中央金庫]] for the central institution above, [[cooperative-banks/ja-bank-tokyo-shinren|JA バンク東京信連]] for the agricultural-side peer prefectural anchor, and [[banking/jf-marine-bank-system-japan|JF Marine Bank system]] for the system boundary.
+This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as the **first JF Marine Bank prefectural-federation operating-company anchor in FinWiki**, closing the audit gap that JF Shingyoren (collective) was documented but no prefectural Shingyoren anchor existed. Hokkaido was selected as the **single largest fisheries region in Japan** (top production value for salmon / scallops / kelp / coastal fisheries, etc.) + **the most prominent regional federation in the 10-Shingyoren landscape**. Read with [[cooperative-banks/jf-shingyoren|JF 信漁連 (全国集合)]] for the national prefectural-federation context, [[cooperative-banks/jf-zengyoren|JF 全漁連]] for the JF group national representative + economic business federation, [[cooperative-banks/norinchukin|農林中央金庫]] for the central institution above, [[cooperative-banks/ja-bank-tokyo-shinren|JA バンク東京信連]] for the agricultural-side peer prefectural anchor, and [[banking/jf-marine-bank-system-japan|JF Marine Bank system]] for the system boundary.
 
 ## TL;DR
 
@@ -153,7 +153,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **first JF Marine B
 - [[banking/jf-marine-bank-system-japan]] -- JF Marine Bank system
 - [[banking/ja-bank-system-japan]] -- JA Bank system (peer system)
 - [[banking/cooperative-banking-japan]] -- cooperative financial institutions overall
-- [[JapanFG/INDEX|JapanFG index]]
+- [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 
 ## Sources
 

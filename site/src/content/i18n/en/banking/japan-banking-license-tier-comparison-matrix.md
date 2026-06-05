@@ -219,7 +219,7 @@ When reading any single institution page:
 - **Shinkin vs credit cooperative.** Both are 協同組織 cooperative-finance institutions with separate statutes; eligibility rules and supervisory bureaus differ. See [[banking/shinkin-bank-registry-japan|shinkin registry]] and [[banking/credit-cooperative-registry-japan|credit cooperative registry]].
 - **Rōkin vs other cooperative-finance.** Rōkin are uniquely jointly supervised with 厚労省 and have a labour-union membership structure. See [[banking/rokin-bank-registry-japan|rōkin registry]].
 - **農林系統 vs ordinary cooperative-finance.** The system uses 貯金 (savings) rather than 預金 (deposits) terminology and has its own savings-insurance organization parallel to [[financial-regulators/yokin-hoken-kiko|DICJ]]; supervision is joint FSA / 農水省.
-- **Foreign bank branch vs Japanese-incorporated foreign-owned bank.** A 外国銀行支店 is a branch under Chapter IX. A Japanese-incorporated subsidiary (e.g. [[JapanFG/INDEX|JapanFG]] entities like SBJ Bank) is a 普通銀行 with foreign ownership, not a foreign-bank branch. Deposit insurance treatment differs.
+- **Foreign bank branch vs Japanese-incorporated foreign-owned bank.** A 外国銀行支店 is a branch under Chapter IX. A Japanese-incorporated subsidiary (e.g. [[banking/INDEX|banking INDEX]] entities like SBJ Bank) is a 普通銀行 with foreign ownership, not a foreign-bank branch. Deposit insurance treatment differs.
 - **Bank-agent / BaaS surface vs bank licence.** A partner-branded app, a BaaS service, or a bank-agent channel is **not** a separate banking licence — the deposit obligor is the licensed bank. See [[financial-licenses/bank-license-and-baas-boundary|bank license and BaaS boundary]] for the legal-stack-vs-UX-stack mapping.
 
 ## Related

@@ -1,5 +1,5 @@
 ---
-source: japanfg/kainuma-trust-real-estate
+source: trust-banks/kainuma-trust-real-estate
 source_hash: 8b2d73fb43e4272f
 lang: ja
 status: machine
@@ -10,7 +10,7 @@ translated_at: 2026-06-02T14:54:39.063Z
 
 # 貝沼信託不動産
 
-ウィキ上の位置づけ: [[JapanFG/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/kainuma-trust-real-estate]]
+ウィキ上の位置づけ: [[trust-banks/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/kainuma-trust-real-estate]]
 
 ## 概要
 

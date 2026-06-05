@@ -1,5 +1,5 @@
 ---
-source: japanfg/mega-icbc-japan
+source: foreign-financial-institutions/mega-icbc-japan
 source_hash: d8be33c2895f728e
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:05:42.103Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[foreign-financial-institutions/esun-bank-japan|玉山銀行 東京支店]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]]. Read it against [[foreign-financial-institutions/esun-bank-japan|玉山銀行 東京支店]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 

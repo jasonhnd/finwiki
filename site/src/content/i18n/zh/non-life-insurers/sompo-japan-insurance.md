@@ -1,5 +1,5 @@
 ---
-source: japanfg/sompo-japan-insurance
+source: non-life-insurers/sompo-japan-insurance
 source_hash: 19696e937cfbabc7
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.109Z
 
 ## Wiki route
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 下。可与 [[non-life-insurers/sompo-direct|SOMPOダイレクト損害保険]] 对照阅读，以理解同业和差异；更广泛的制度和监管边界见 [[insurance/INDEX|insurance index]]。
+本条目位于 [[non-life-insurers/INDEX|non-life-insurers INDEX]] 下。可与 [[non-life-insurers/sompo-direct|SOMPOダイレクト損害保険]] 对照阅读，以理解同业和差异；更广泛的制度和监管边界见 [[insurance/INDEX|insurance index]]。
 
 ## TL;DR
 

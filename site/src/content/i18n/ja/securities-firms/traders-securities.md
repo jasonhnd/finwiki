@@ -1,5 +1,5 @@
 ---
-source: japanfg/traders-securities
+source: securities-firms/traders-securities
 source_hash: 8f2582cfaaeab39b
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T16:33:58.479Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] 配下にあります。比較・対照の文脈では [[securities-firms/sbi-fx-trade|SBI FXトレード]] を、より広い制度・規制境界の文脈では [[securities/INDEX|securities index]] をあわせて参照してください。
+この項目は [[securities-firms/INDEX|securities-firms INDEX]] 配下にあります。比較・対照の文脈では [[securities-firms/sbi-fx-trade|SBI FXトレード]] を、より広い制度・規制境界の文脈では [[securities/INDEX|securities index]] をあわせて参照してください。
 
 ## 要約
 

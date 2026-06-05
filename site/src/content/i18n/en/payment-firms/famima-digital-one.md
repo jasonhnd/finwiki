@@ -1,5 +1,5 @@
 ---
-source: japanfg/famima-digital-one
+source: payment-firms/famima-digital-one
 source_hash: 6f839dfb0fd6528a
 lang: en
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T15:29:03.961Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[payment-firms/gmo-payment-gateway|GMO Payment Gateway]] for peer context and [[fintech/japan-stablecoin-regulatory-landscape|Japan stablecoin regulatory landscape]] for the broader system and regulatory boundary.
+This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it against [[payment-firms/gmo-payment-gateway|GMO Payment Gateway]] for peer context and [[fintech/japan-stablecoin-regulatory-landscape|Japan stablecoin regulatory landscape]] for the broader system and regulatory boundary.
 
 ## TL;DR
 

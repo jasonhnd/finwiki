@@ -1,5 +1,5 @@
 ---
-source: japanfg/atone
+source: payment-firms/atone
 source_hash: 62ed8ed5c6e66882
 lang: ja
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-02T14:01:20.916Z
 
 ## ウィキ上の位置づけ
 
-この項目は、消費者向け **BNPL ウォレット** ブランドとして [[JapanFG/INDEX|JapanFG index]] の下に位置する。[[payment-firms/bnpl-landscape|Japan BNPL landscape]] のシステムノート、所有関係の文脈を示す [[payment-firms/net-protections-hd|Net Protections HD]] の親会社ページ、直接比較対象である [[payment-firms/paidy|Paidy]] とあわせて読む。[[payments/japan-bnpl-credit-purchase-boundary|BNPL and credit-purchase boundary]] は規制枠組みを示し、[[payments/credit-purchase-card-operators-japan-index|METI credit-purchase registry]] は登録根拠を固定し、[[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]] は atone がカード決済やコード決済の隣でどこに位置するかを示す。
+この項目は、消費者向け **BNPL ウォレット** ブランドとして [[payment-firms/INDEX|payment-firms INDEX]] の下に位置する。[[payment-firms/bnpl-landscape|Japan BNPL landscape]] のシステムノート、所有関係の文脈を示す [[payment-firms/net-protections-hd|Net Protections HD]] の親会社ページ、直接比較対象である [[payment-firms/paidy|Paidy]] とあわせて読む。[[payments/japan-bnpl-credit-purchase-boundary|BNPL and credit-purchase boundary]] は規制枠組みを示し、[[payments/credit-purchase-card-operators-japan-index|METI credit-purchase registry]] は登録根拠を固定し、[[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]] は atone がカード決済やコード決済の隣でどこに位置するかを示す。
 
 ## 要約
 

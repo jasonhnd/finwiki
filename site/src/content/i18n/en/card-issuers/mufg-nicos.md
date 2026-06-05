@@ -1,5 +1,5 @@
 ---
-source: japanfg/mufg-nicos
+source: card-issuers/mufg-nicos
 source_hash: a07aed565f1a4f27
 lang: en
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T23:59:49.403Z
 
 ## Wiki Route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[card-issuers/smbc-card|三井住友カード (SMCC)]] for peer / contrast context and [[payments/INDEX|payments index]] for the broader system / regulatory boundary.
+This entry sits under [[card-issuers/INDEX|card-issuers INDEX]]. Read it against [[card-issuers/smbc-card|三井住友カード (SMCC)]] for peer / contrast context and [[payments/INDEX|payments index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 

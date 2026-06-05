@@ -35,7 +35,7 @@ Sonpo Kyōkai (General Insurance Association of Japan, GIAJ) is the industry bod
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it with the life-side peer [[financial-regulators/seiho-kyokai|Life Insurance Association of Japan]], the statutory non-life policyholder-protection backstop [[financial-regulators/sonpo-hosho-kiko|Non-Life Insurance Policyholders Protection Corporation of Japan]], and the statutory premium-rating body [[financial-regulators/hokenryo-sanshutsu-kiko|Non-Life Insurance Rating Organization of Japan]] (where added). Statutory backdrop sits at [[financial-licenses/INDEX]] and [[financial-licenses/insurance-license-and-solvency|insurance license and solvency route]]; the wider operator universe is in [[insurance/INDEX]].
+This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]]. Read it with the life-side peer [[financial-regulators/seiho-kyokai|Life Insurance Association of Japan]], the statutory non-life policyholder-protection backstop [[financial-regulators/sonpo-hosho-kiko|Non-Life Insurance Policyholders Protection Corporation of Japan]], and the statutory premium-rating body [[financial-regulators/hokenryo-sanshutsu-kiko|Non-Life Insurance Rating Organization of Japan]] (where added). Statutory backdrop sits at [[financial-licenses/INDEX]] and [[financial-licenses/insurance-license-and-solvency|insurance license and solvency route]]; the wider operator universe is in [[insurance/INDEX]].
 
 ## Legal route / statutory position (法令の根拠)
 
@@ -71,7 +71,7 @@ JapanFG non-life-insurer entries frequently cite "GIAJ standard practice" or "in
 
 ## Related
 
-- [[JapanFG/INDEX|JapanFG index]]
+- [[financial-regulators/INDEX|financial-regulators INDEX]]
 - [[financial-regulators/seiho-kyokai|Life Insurance Association of Japan]]
 - [[financial-regulators/sonpo-hosho-kiko|Non-Life Insurance Policyholders Protection Corporation of Japan]]
 - [[financial-regulators/seimei-hokensha-hogo-kiko|Life Insurance Policyholders Protection Corporation of Japan]]

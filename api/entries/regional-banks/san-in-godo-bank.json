@@ -37,7 +37,7 @@
       "山陰合同銀行 公式サイト「沿革」(2025 更新)"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 鳥取銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under regional-banks INDEX. Read it against 鳥取銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [
     "山陰合同銀行 (San-in Godo Bank)",
     "Wiki route",
@@ -53,24 +53,24 @@
   "body_links": {
     "wikilinks_count": 10,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "chugin-okayama",
       "hirogin-hd",
       "mizuho-fg",
       "mufg",
+      "regional-banks/INDEX",
       "regional-banks/tottori-bank",
       "shimane-bank",
       "smfg",
       "yamaguchi-fg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/chugin-okayama",
       "https://finwiki.zksc.io/hirogin-hd",
       "https://finwiki.zksc.io/mizuho-fg",
       "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/regional-banks/INDEX",
       "https://finwiki.zksc.io/regional-banks/tottori-bank",
       "https://finwiki.zksc.io/shimane-bank",
       "https://finwiki.zksc.io/smfg",
@@ -80,9 +80,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3431,
-    "word_like_tokens": 531,
+    "nonspace_chars": 3445,
+    "word_like_tokens": 533,
     "inbound_wikilinks_count": 2,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

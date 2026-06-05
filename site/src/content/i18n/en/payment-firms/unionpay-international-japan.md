@@ -1,5 +1,5 @@
 ---
-source: japanfg/unionpay-international-japan
+source: payment-firms/unionpay-international-japan
 source_hash: 15d45bce352042ef
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.163Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[card-issuers/jcb|JCB]] for peer / contrast context (JCB and UnionPay have a history of mutual acceptance tie-ups from 2006 年) and [[payments/japan-card-issuer-acquirer-processor-split|Japan card issuer / acquirer / processor split]] for the broader system / regulatory boundary.
+This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it against [[card-issuers/jcb|JCB]] for peer / contrast context (JCB and UnionPay have a history of mutual acceptance tie-ups from 2006 年) and [[payments/japan-card-issuer-acquirer-processor-split|Japan card issuer / acquirer / processor split]] for the broader system / regulatory boundary.
 
 ## TL;DR
 

@@ -17,7 +17,7 @@ sources:
 
 # Hyundai Marine & Fire Japan / 現代海上火災保険
 
-Wiki route: [[JapanFG/INDEX]] -> [[insurance/INDEX]] -> [[non-life-insurers/hyundai-marine-fire-japan]]
+Wiki route: [[non-life-insurers/INDEX]] -> [[insurance/INDEX]] -> [[non-life-insurers/hyundai-marine-fire-japan]]
 
 ## Overview
 

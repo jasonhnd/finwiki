@@ -41,7 +41,7 @@
       "https://www.boj.or.jp/en/about/publication/"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 決済機構局 for peer-bureau context inside the Bank of Japan, and against BoJ monetary policy for the policy-to-operations boundary. For market-mechanics anchoring, route through Japan money market and BoJ open market operations.",
+  "summary": "This entry sits under financial-regulators INDEX. Read it against 決済機構局 for peer-bureau context inside the Bank of Japan, and against BoJ monetary policy for the policy-to-operations boundary. For market-mechanics anchoring, route through Japan money market and BoJ open market operations.",
   "headings": [
     "金融市場局 (BoJ Financial Markets Department)",
     "Wiki route",
@@ -55,7 +55,7 @@
   "body_links": {
     "wikilinks_count": 12,
     "wikilinks": [
-      "JapanFG/INDEX",
+      "financial-regulators/INDEX",
       "financial-regulators/boj-financial-system-dept",
       "financial-regulators/boj-international-dept",
       "financial-regulators/boj-monetary-policy",
@@ -69,7 +69,7 @@
       "money-market/jgb-repo-market-japan"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/financial-regulators/INDEX",
       "https://finwiki.zksc.io/financial-regulators/boj-financial-system-dept",
       "https://finwiki.zksc.io/financial-regulators/boj-international-dept",
       "https://finwiki.zksc.io/financial-regulators/boj-monetary-policy",
@@ -86,9 +86,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5860,
-    "word_like_tokens": 947,
+    "nonspace_chars": 5886,
+    "word_like_tokens": 949,
     "inbound_wikilinks_count": 8,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

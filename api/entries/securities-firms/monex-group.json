@@ -37,7 +37,7 @@
       "公開プレスリリース (NTT ドコモ提携 2024 年公表分)"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 野村ホールディングス (Nomura HD) for peer / contrast context and securities index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under securities-firms INDEX. Read it against 野村ホールディングス (Nomura HD) for peer / contrast context and securities index for the broader system / regulatory boundary.",
   "headings": [
     "マネックスグループ (Monex Group)",
     "Wiki route",
@@ -53,23 +53,23 @@
   "body_links": {
     "wikilinks_count": 9,
     "wikilinks": [
-      "JapanFG/INDEX",
       "mizuho-fg",
       "mufg",
       "ndfg",
       "paypay-fg",
       "sbi-hd",
+      "securities-firms/INDEX",
       "securities-firms/nomura-hd",
       "securities/INDEX",
       "smfg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/mizuho-fg",
       "https://finwiki.zksc.io/mufg",
       "https://finwiki.zksc.io/ndfg",
       "https://finwiki.zksc.io/paypay-fg",
       "https://finwiki.zksc.io/sbi-hd",
+      "https://finwiki.zksc.io/securities-firms/INDEX",
       "https://finwiki.zksc.io/securities-firms/nomura-hd",
       "https://finwiki.zksc.io/securities/INDEX",
       "https://finwiki.zksc.io/smfg"
@@ -78,9 +78,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4534,
-    "word_like_tokens": 678,
+    "nonspace_chars": 4552,
+    "word_like_tokens": 680,
     "inbound_wikilinks_count": 27,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

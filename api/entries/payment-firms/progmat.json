@@ -36,7 +36,7 @@
       "https://progmat.co.jp/en/news/2023-09-11-press/"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it with 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for adjacent context and payments index for the broader system boundary.",
+  "summary": "This entry sits under payment-firms INDEX. Read it with 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for adjacent context and payments index for the broader system boundary.",
   "headings": [
     "株式会社Progmat",
     "Wiki route",
@@ -50,25 +50,25 @@
   "body_links": {
     "wikilinks_count": 10,
     "wikilinks": [
-      "JapanFG/INDEX",
       "exchanges/INDEX",
       "financial-regulators/japan-exchange-group",
       "fintech/japan-stablecoin-regulatory-landscape",
       "fintech/jp-stablecoin-progmat",
       "fintech/jp-trust-type-sc-architecture",
       "megabanks/mufg",
+      "payment-firms/INDEX",
       "payment-firms/jpyc",
       "payments/INDEX",
       "trust-banks/mitsubishi-ufj-trust-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/exchanges/INDEX",
       "https://finwiki.zksc.io/financial-regulators/japan-exchange-group",
       "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
       "https://finwiki.zksc.io/fintech/jp-stablecoin-progmat",
       "https://finwiki.zksc.io/fintech/jp-trust-type-sc-architecture",
       "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/payment-firms/INDEX",
       "https://finwiki.zksc.io/payment-firms/jpyc",
       "https://finwiki.zksc.io/payments/INDEX",
       "https://finwiki.zksc.io/trust-banks/mitsubishi-ufj-trust-bank"
@@ -77,9 +77,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2338,
-    "word_like_tokens": 359,
+    "nonspace_chars": 2350,
+    "word_like_tokens": 361,
     "inbound_wikilinks_count": 35,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

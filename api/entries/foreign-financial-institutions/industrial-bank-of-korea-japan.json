@@ -39,7 +39,7 @@
       "https://www.zenginkyo.or.jp/bankdb/bc0498/"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it with banking index for adjacent context and JapanFG index for the broader system boundary.",
+  "summary": "This entry sits under foreign-financial-institutions INDEX. Read it with banking index for adjacent context and JapanFG index for the broader system boundary.",
   "headings": [
     "中小企業銀行 東京支店",
     "Wiki route",
@@ -53,10 +53,10 @@
   "body_links": {
     "wikilinks_count": 9,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "banking/foreign-bank-japan-retreat",
       "financial-licenses/INDEX",
+      "foreign-financial-institutions/INDEX",
       "hana-bank-japan",
       "kb-kookmin-bank-japan",
       "korea-development-bank-japan",
@@ -64,10 +64,10 @@
       "woori-bank-japan"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/foreign-bank-japan-retreat",
       "https://finwiki.zksc.io/financial-licenses/INDEX",
+      "https://finwiki.zksc.io/foreign-financial-institutions/INDEX",
       "https://finwiki.zksc.io/hana-bank-japan",
       "https://finwiki.zksc.io/kb-kookmin-bank-japan",
       "https://finwiki.zksc.io/korea-development-bank-japan",
@@ -78,9 +78,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2131,
-    "word_like_tokens": 361,
+    "nonspace_chars": 2177,
+    "word_like_tokens": 365,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

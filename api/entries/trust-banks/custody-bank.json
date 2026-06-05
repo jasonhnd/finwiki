@@ -38,7 +38,7 @@
       "日本カストディ銀行 ディスクロージャー誌 2025 https://www.custody.jp/data/disclosure/pdf/disclosure202507.pdf"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 日本マスタートラスト信託銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under trust-banks INDEX. Read it against 日本マスタートラスト信託銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [
     "日本カストディ銀行 (CBJ)",
     "Wiki route",
@@ -54,7 +54,6 @@
   "body_links": {
     "wikilinks_count": 9,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "dai-ichi-life",
       "master-trust-bank",
@@ -62,10 +61,10 @@
       "mufg",
       "nippon-life",
       "sumitomo-mitsui-trust",
+      "trust-banks/INDEX",
       "trust-banks/master-trust-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/dai-ichi-life",
       "https://finwiki.zksc.io/master-trust-bank",
@@ -73,15 +72,16 @@
       "https://finwiki.zksc.io/mufg",
       "https://finwiki.zksc.io/nippon-life",
       "https://finwiki.zksc.io/sumitomo-mitsui-trust",
+      "https://finwiki.zksc.io/trust-banks/INDEX",
       "https://finwiki.zksc.io/trust-banks/master-trust-bank"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5215,
-    "word_like_tokens": 900,
+    "nonspace_chars": 5223,
+    "word_like_tokens": 902,
     "inbound_wikilinks_count": 21,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

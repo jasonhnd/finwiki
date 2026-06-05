@@ -48,7 +48,7 @@
       "https://www.fsa.go.jp/en/news/2008/20080317.html"
     ]
   },
-  "summary": "This page sits under finance domain. Read it with Japan tender offer process, securities domain, JapanFG index, and Tokyo Stock Exchange when engagement becomes public-company disclosure, voting, or control analysis.",
+  "summary": "This page sits under finance domain. Read it with Japan tender offer process, securities domain, finance INDEX, and Tokyo Stock Exchange when engagement becomes public-company disclosure, voting, or control analysis.",
   "headings": [
     "Japan activist investor playbook",
     "Wiki route",
@@ -62,10 +62,9 @@
     "Research Checklist"
   ],
   "body_links": {
-    "wikilinks_count": 23,
+    "wikilinks_count": 22,
     "wikilinks": [
       "INDEX",
-      "JapanFG/INDEX",
       "finance/INDEX",
       "finance/cross-border-m-a-japan",
       "finance/japan-ib-league-table",
@@ -90,7 +89,6 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/finance/INDEX",
       "https://finwiki.zksc.io/finance/cross-border-m-a-japan",
       "https://finwiki.zksc.io/finance/japan-ib-league-table",
@@ -120,6 +118,6 @@
     "nonspace_chars": 7597,
     "word_like_tokens": 1114,
     "inbound_wikilinks_count": 21,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

@@ -1,5 +1,5 @@
 ---
-source: japanfg/ntt-docomo-sompo-hd
+source: non-life-insurers/ntt-docomo-sompo-hd
 source_hash: 914903536ffb4b18
 lang: en
 status: machine
@@ -37,7 +37,7 @@ Read this entry together with the related banks, insurers, leasing companies, as
 
 ## Protected source anchors
 
-- [[JapanFG/INDEX|JapanFG index]] [[insurance/INDEX|insurance index]] [[financial-licenses/INDEX|JapanFG index]] 2024  1 2024-04-04 2 [[megabanks/ndfg|NDFG (NTT Docomo Financial Group)]] [[non-life-insurers/sompo|SOMPO HD]] [[megabanks/au-fh|au-FH]] [[non-life-insurers/au-insurance|au 損保]] 3 [[ndfg]] [[ndfg]] [[au-fh]] [[paypay-fg]] [[insurance/INDEX]] [[financial-regulators/missing-financial-institutions-backlog]]
+- [[non-life-insurers/INDEX|non-life-insurers INDEX]] [[insurance/INDEX|insurance index]] [[financial-licenses/INDEX|JapanFG index]] 2024  1 2024-04-04 2 [[megabanks/ndfg|NDFG (NTT Docomo Financial Group)]] [[non-life-insurers/sompo|SOMPO HD]] [[megabanks/au-fh|au-FH]] [[non-life-insurers/au-insurance|au 損保]] 3 [[ndfg]] [[ndfg]] [[au-fh]] [[paypay-fg]] [[insurance/INDEX]] [[financial-regulators/missing-financial-institutions-backlog]]
 - 2026-04-01 2024-04-04
 
 ## Related

@@ -1,5 +1,5 @@
 ---
-source: japanfg/lloyd-japan
+source: non-life-insurers/lloyd-japan
 source_hash: 87b8f79fffdf9658
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:59:49.377Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[non-life-insurers/fm-global-japan|FM Global Japan]] and [[non-life-insurers/aig-japan|AIG Japan]] for foreign-specialty-insurer peer context, and [[insurance/INDEX|insurance index]] for the broader Japan non-life market system / regulatory boundary.
+This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read it against [[non-life-insurers/fm-global-japan|FM Global Japan]] and [[non-life-insurers/aig-japan|AIG Japan]] for foreign-specialty-insurer peer context, and [[insurance/INDEX|insurance index]] for the broader Japan non-life market system / regulatory boundary.
 
 ## TL;DR
 

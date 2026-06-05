@@ -1,5 +1,5 @@
 ---
-source: japanfg/minami-nippon-bank
+source: regional-banks/minami-nippon-bank
 source_hash: 56b124fcce1e9b92
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:05:42.103Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[regional-banks/kagoshima-bank|鹿児島銀行]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it against [[regional-banks/kagoshima-bank|鹿児島銀行]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 

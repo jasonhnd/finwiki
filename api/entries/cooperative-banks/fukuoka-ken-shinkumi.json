@@ -43,7 +43,7 @@
       "中小企業等協同組合法"
     ]
   },
-  "summary": "This entry sits under JapanFG index as the Kyushu 県域型 (prefecture-wide) shinkumi anchor, complementing いわき信用組合 (Tohoku city-level) and 札幌中央信用組合 (Hokkaido city-level) for regional shinkumi coverage within the 143-cooperative population catalogued in Japan credit cooperative registry.",
+  "summary": "This entry sits under cooperative-banks INDEX as the Kyushu 県域型 (prefecture-wide) shinkumi anchor, complementing いわき信用組合 (Tohoku city-level) and 札幌中央信用組合 (Hokkaido city-level) for regional shinkumi coverage within the 143-cooperative population catalogued in Japan credit cooperative registry.",
   "headings": [
     "福岡県信用組合 (Fukuoka Prefecture Credit Cooperative)",
     "Wiki route",
@@ -59,10 +59,10 @@
   "body_links": {
     "wikilinks_count": 11,
     "wikilinks": [
-      "JapanFG/INDEX",
       "JapanFG/fukuoka-shinkin",
       "banking/cooperative-banking-japan",
       "banking/credit-cooperative-registry-japan",
+      "cooperative-banks/INDEX",
       "cooperative-banks/iwaki-shinkumi",
       "cooperative-banks/sapporo-chuo-shinkumi",
       "cooperative-banks/zenshin-kumi",
@@ -72,10 +72,10 @@
       "regional-banks/nnfh"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/JapanFG/fukuoka-shinkin",
       "https://finwiki.zksc.io/banking/cooperative-banking-japan",
       "https://finwiki.zksc.io/banking/credit-cooperative-registry-japan",
+      "https://finwiki.zksc.io/cooperative-banks/INDEX",
       "https://finwiki.zksc.io/cooperative-banks/iwaki-shinkumi",
       "https://finwiki.zksc.io/cooperative-banks/sapporo-chuo-shinkumi",
       "https://finwiki.zksc.io/cooperative-banks/zenshin-kumi",
@@ -90,9 +90,9 @@
     ]
   },
   "metrics": {
-    "nonspace_chars": 4663,
-    "word_like_tokens": 682,
+    "nonspace_chars": 4703,
+    "word_like_tokens": 686,
     "inbound_wikilinks_count": 1,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

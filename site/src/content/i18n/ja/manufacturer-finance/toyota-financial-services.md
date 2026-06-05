@@ -11,7 +11,7 @@ translated_at: 2026-06-02T16:33:58.525Z
 
 ## ウィキ上の位置づけ
 
-このエントリは [[manufacturer-finance/INDEX|manufacturing index]] 配下に位置し、[[leasing-firms/toyota-financial|Toyota Financial Services (JapanFG entity profile)]] と [[card-issuers/toyota-finance|トヨタファイナンス (国内オペレーティング会社)]] を補完する。製造業エントリは、TFS を**親 OEM の製造・戦略視点**から見るために存在する。すなわち、Toyota が世界最大級の自動車キャプティブ金融を使って、販売チャネル、残価リスク、モビリティサービスをどう制御しているかを扱う。親 OEM については [[manufacturer-finance/toyota-motor|Toyota Motor]]、同業の産業コングロマリット金融部門については [[manufacturer-finance/hitachi-industrial-finance-platform|Hitachi 産業金融]]、[[manufacturer-finance/panasonic-captive-finance|Panasonic 顧客金融]]、[[manufacturer-finance/sony-group-finance-arm|Sony FG]]、[[manufacturer-finance/mitsubishi-heavy-export-finance|MHI 輸出金融]] と照らして読む。証券化レイヤーについては [[structured-finance/auto-loan-abs-japan-toyota-honda|Japan auto-loan ABS]]、より広い規制境界については [[JapanFG/INDEX|JapanFG index]] と組み合わせる。
+このエントリは [[manufacturer-finance/INDEX|manufacturing index]] 配下に位置し、[[leasing-firms/toyota-financial|Toyota Financial Services (JapanFG entity profile)]] と [[card-issuers/toyota-finance|トヨタファイナンス (国内オペレーティング会社)]] を補完する。製造業エントリは、TFS を**親 OEM の製造・戦略視点**から見るために存在する。すなわち、Toyota が世界最大級の自動車キャプティブ金融を使って、販売チャネル、残価リスク、モビリティサービスをどう制御しているかを扱う。親 OEM については [[manufacturer-finance/toyota-motor|Toyota Motor]]、同業の産業コングロマリット金融部門については [[manufacturer-finance/hitachi-industrial-finance-platform|Hitachi 産業金融]]、[[manufacturer-finance/panasonic-captive-finance|Panasonic 顧客金融]]、[[manufacturer-finance/sony-group-finance-arm|Sony FG]]、[[manufacturer-finance/mitsubishi-heavy-export-finance|MHI 輸出金融]] と照らして読む。証券化レイヤーについては [[structured-finance/auto-loan-abs-japan-toyota-honda|Japan auto-loan ABS]]、より広い規制境界については [[manufacturer-finance/INDEX|manufacturer-finance INDEX]] と組み合わせる。
 
 ## 要約
 
@@ -112,7 +112,7 @@ TFS は世界最大級の auto-loan / auto-lease ABS 発行体の一つ。米国
 - [[structured-finance/auto-loan-abs-japan-toyota-honda|Japan auto-loan ABS]]
 - [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]] · [[leasing-firms/orix-corp|オリックス]] · [[leasing-firms/tokyo-century|東京センチュリー]] · [[megabanks/mufg|MUFG]] · [[megabanks/smfg|SMFG]] · [[megabanks/mizuho-fg|みずほ FG]]
 - [[manufacturer-finance/hitachi-industrial-finance-platform|Hitachi 産業金融]] · [[manufacturer-finance/panasonic-captive-finance|Panasonic 顧客金融]] · [[manufacturer-finance/sony-group-finance-arm|Sony FG]] · [[manufacturer-finance/mitsubishi-heavy-export-finance|MHI 輸出金融]]
-- [[manufacturer-finance/INDEX|manufacturing INDEX]] · [[JapanFG/INDEX|JapanFG INDEX]] · [[INDEX|FinWiki index]]
+- [[manufacturer-finance/INDEX|manufacturing INDEX]] · [[manufacturer-finance/INDEX|manufacturer-finance INDEX]] · [[INDEX|FinWiki index]]
 
 ## 出典
 

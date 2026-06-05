@@ -63,7 +63,7 @@ When applying for grants on themes in the finance / policy-finance field, using 
 ## Related wiki
 
 - [[non-profit/japan-general-foundation-establishment-requirements|japan-general-foundation-establishment-requirements]] (the prerequisite of applying for grants as a foundation)
-- [[JapanFG/INDEX|JapanFG INDEX]] (reference when financial institutions are the research subject)
+- [[non-profit/INDEX|non-profit INDEX]] (reference when financial institutions are the research subject)
 
 ## Sources
 

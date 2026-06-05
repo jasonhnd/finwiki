@@ -1,5 +1,5 @@
 ---
-source: japanfg/bdo-sanyu
+source: financial-regulators/bdo-sanyu
 source_hash: 12a2d666c8ef0cd7
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T11:13:44.917Z
 
 ## Wiki 路线
 
-本条目位于 [[JapanFG/INDEX|JapanFG 索引]]。可与 [[financial-regulators/taiyo-grant-thornton|太陽グラントソントン]] 作为中坚审计法人对照阅读。
+本条目位于 [[financial-regulators/INDEX|financial-regulators INDEX]]。可与 [[financial-regulators/taiyo-grant-thornton|太陽グラントソントン]] 作为中坚审计法人对照阅读。
 
 ## 概要
 

@@ -34,7 +34,7 @@
       "MS&AD HD 公式コーポレートサイト (公開情報ベース)"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against SOMPO ホールディングス (Sompo Holdings) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under non-life-insurers INDEX. Read it against SOMPO ホールディングス (Sompo Holdings) for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [
     "MS&AD インシュアランス グループ ホールディングス",
     "Wiki route",
@@ -50,17 +50,17 @@
   "body_links": {
     "wikilinks_count": 6,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "megabanks/mufg",
+      "non-life-insurers/INDEX",
       "non-life-insurers/mitsui-sumitomo-insurance",
       "non-life-insurers/sompo",
       "non-life-insurers/tokio-marine"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/non-life-insurers/INDEX",
       "https://finwiki.zksc.io/non-life-insurers/mitsui-sumitomo-insurance",
       "https://finwiki.zksc.io/non-life-insurers/sompo",
       "https://finwiki.zksc.io/non-life-insurers/tokio-marine"
@@ -69,9 +69,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5542,
-    "word_like_tokens": 938,
+    "nonspace_chars": 5562,
+    "word_like_tokens": 942,
     "inbound_wikilinks_count": 27,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

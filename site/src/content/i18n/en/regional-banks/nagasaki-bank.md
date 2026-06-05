@@ -1,5 +1,5 @@
 ---
-source: japanfg/nagasaki-bank
+source: regional-banks/nagasaki-bank
 source_hash: bd9f7d0436438d49
 lang: en
 status: machine
@@ -37,7 +37,7 @@ Read this entry together with the related banks, insurers, leasing companies, as
 
 ## Protected source anchors
 
-- [[JapanFG/INDEX|JapanFG index]] [[regional-banks/kumamoto-bank|熊本銀行]] [[banking/INDEX|banking index]] [[nishi-nippon-fhd]] [[18-shinwa-bank]] 1 [[nishi-nippon-fhd]] 2 [[nishi-nippon-fhd]] 3 [[18-shinwa-bank]] [[nishi-nippon-city-bank]] [[fukuoka-fg]] [[nishi-nippon-fhd]] [[nishi-nippon-city-bank]] [[18-shinwa-bank]] [[fukuoka-fg]] [[banking/regional-bank-consolidation-pattern]]
+- [[regional-banks/INDEX|regional-banks INDEX]] [[regional-banks/kumamoto-bank|熊本銀行]] [[banking/INDEX|banking index]] [[nishi-nippon-fhd]] [[18-shinwa-bank]] 1 [[nishi-nippon-fhd]] 2 [[nishi-nippon-fhd]] 3 [[18-shinwa-bank]] [[nishi-nippon-city-bank]] [[fukuoka-fg]] [[nishi-nippon-fhd]] [[nishi-nippon-city-bank]] [[18-shinwa-bank]] [[fukuoka-fg]] [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]] 2026-05-02
 
 ## Related

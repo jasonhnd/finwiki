@@ -1,5 +1,5 @@
 ---
-source: japanfg/industrial-bank-of-korea-japan
+source: foreign-financial-institutions/industrial-bank-of-korea-japan
 source_hash: 41a1bf994ad65bf5
 lang: ja
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-06-02T14:25:12.429Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に位置づける。隣接文脈として [[banking/INDEX|banking index]] を、より広い制度境界として [[financial-licenses/INDEX|JapanFG index]] を併読する。
+この項目は [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]] の配下に位置づける。隣接文脈として [[banking/INDEX|banking index]] を、より広い制度境界として [[financial-licenses/INDEX|JapanFG index]] を併読する。
 
 ## 要約
 

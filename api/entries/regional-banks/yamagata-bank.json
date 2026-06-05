@@ -35,7 +35,7 @@
       "山形銀行 公式サイト・IR (2025 年公表ベース)"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against フィデア HD (Fidea Holdings) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under regional-banks INDEX. Read it against フィデア HD (Fidea Holdings) for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [
     "株式会社山形銀行",
     "Wiki route",
@@ -51,25 +51,25 @@
   "body_links": {
     "wikilinks_count": 10,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "fidea-hd",
       "jimoto-hd",
       "mizuho-fg",
       "mufg",
       "ndfg",
+      "regional-banks/INDEX",
       "regional-banks/fidea-hd",
       "regional-banks/sbi-shinsei-bank",
       "smfg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/fidea-hd",
       "https://finwiki.zksc.io/jimoto-hd",
       "https://finwiki.zksc.io/mizuho-fg",
       "https://finwiki.zksc.io/mufg",
       "https://finwiki.zksc.io/ndfg",
+      "https://finwiki.zksc.io/regional-banks/INDEX",
       "https://finwiki.zksc.io/regional-banks/fidea-hd",
       "https://finwiki.zksc.io/regional-banks/sbi-shinsei-bank",
       "https://finwiki.zksc.io/smfg"
@@ -78,9 +78,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3968,
-    "word_like_tokens": 593,
+    "nonspace_chars": 3982,
+    "word_like_tokens": 595,
     "inbound_wikilinks_count": 3,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

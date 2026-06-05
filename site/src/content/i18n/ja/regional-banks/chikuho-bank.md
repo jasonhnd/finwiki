@@ -1,5 +1,5 @@
 ---
-source: japanfg/chikuho-bank
+source: regional-banks/chikuho-bank
 source_hash: a2c589d3c24e114b
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:01:20.926Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] に属する。ピア / 対比の文脈では [[regional-banks/fukuoka-bank|福岡銀行]] を、より広いシステム / 規制境界では [[banking/INDEX|banking index]] を参照する。
+この項目は [[regional-banks/INDEX|regional-banks INDEX]] に属する。ピア / 対比の文脈では [[regional-banks/fukuoka-bank|福岡銀行]] を、より広いシステム / 規制境界では [[banking/INDEX|banking index]] を参照する。
 
 ## 要約
 

@@ -1,5 +1,5 @@
 ---
-source: japanfg/yamagata-bank
+source: regional-banks/yamagata-bank
 source_hash: e37d6f063ef0500e
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.164Z
 
 ## Wiki route
 
-本条目位于[[JapanFG/INDEX|JapanFG index]]之下。可与[[regional-banks/fidea-hd|フィデア HD (Fidea Holdings)]]对读，以把握同业 / 对比背景；也可与[[banking/INDEX|banking index]]对读，以理解更广的系统与监管边界。
+本条目位于[[regional-banks/INDEX|regional-banks INDEX]]之下。可与[[regional-banks/fidea-hd|フィデア HD (Fidea Holdings)]]对读，以把握同业 / 对比背景；也可与[[banking/INDEX|banking index]]对读，以理解更广的系统与监管边界。
 
 ## TL;DR
 

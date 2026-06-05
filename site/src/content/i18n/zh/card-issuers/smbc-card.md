@@ -1,5 +1,5 @@
 ---
-source: japanfg/smbc-card
+source: card-issuers/smbc-card
 source_hash: fb1e2f7529496be9
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-01T02:31:57.150Z
 
 ## Wiki route
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可与 [[card-issuers/mufg-nicos|三菱UFJニコス (Mitsubishi UFJ NICOS)]] 对照阅读，以理解同业 / 对比背景；也可与 [[payments/INDEX|payments index]] 一起阅读，以理解更广义的系统和监管边界。
+本条目位于 [[card-issuers/INDEX|card-issuers INDEX]] 之下。可与 [[card-issuers/mufg-nicos|三菱UFJニコス (Mitsubishi UFJ NICOS)]] 对照阅读，以理解同业 / 对比背景；也可与 [[payments/INDEX|payments index]] 一起阅读，以理解更广义的系统和监管边界。
 
 ## TL;DR
 

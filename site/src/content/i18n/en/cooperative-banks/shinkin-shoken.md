@@ -1,5 +1,5 @@
 ---
-source: japanfg/shinkin-shoken
+source: cooperative-banks/shinkin-shoken
 source_hash: a8a47f1ff9052272
 lang: en
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-06-01T02:31:57.142Z
 
 ## Wiki Route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[cooperative-banks/shinkin-central|Shinkin Central Bank]], [[financial-regulators/zenshin-kyo|National Association of Shinkin Banks]], and [[cooperative-banks/shinkin-network-services|Shinkin Network Services]] for a four-leg view of the shinkin system.
+This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]]. Read it against [[cooperative-banks/shinkin-central|Shinkin Central Bank]], [[financial-regulators/zenshin-kyo|National Association of Shinkin Banks]], and [[cooperative-banks/shinkin-network-services|Shinkin Network Services]] for a four-leg view of the shinkin system.
 
 ## TL;DR
 
@@ -98,7 +98,7 @@ Development of "regional contribution / SDGs-linked" investment products specifi
 
 ## Related
 
-- [[JapanFG/INDEX|JapanFG index]]
+- [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 - [[cooperative-banks/shinkin-central|信金中央金庫]]
 - [[financial-regulators/zenshin-kyo|全国信用金庫協会]]
 - [[cooperative-banks/shinkin-network-services|Shinkin Network Services]]

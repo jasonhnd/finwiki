@@ -1,5 +1,5 @@
 ---
-source: japanfg/nn-life-japan
+source: life-insurers/nn-life-japan
 source_hash: 9f1f4b93fda5f6c5
 lang: ja
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-06-02T14:54:39.050Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に置く。比較対象・対照関係は [[life-insurers/credit-agricole-life|クレディ・アグリコル生命保険]]、より広い制度・監督上の境界は [[insurance/INDEX|insurance index]] とあわせて読む。
+この項目は [[life-insurers/INDEX|life-insurers INDEX]] の配下に置く。比較対象・対照関係は [[life-insurers/credit-agricole-life|クレディ・アグリコル生命保険]]、より広い制度・監督上の境界は [[insurance/INDEX|insurance index]] とあわせて読む。
 
 ## 要約
 

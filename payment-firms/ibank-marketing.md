@@ -22,7 +22,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary fintech / wallet-app operating-company anchor for [[fukuoka-fg|ふくおか FG (FFG)]]. Read it against parent operating bank [[fukuoka-bank|福岡銀行]] / [[18-shinwa-bank|十八親和銀行]] / [[kumamoto-bank|熊本銀行]] and the wallet-app peer [[paypay-fg|PayPay FG]] / [[au-fh|au フィナンシャル HD]] / [[rakuten-fg|楽天 FG]] context. For broader system route see [[banking/regional-bank-api-digital-partnership-route|regional-bank API / digital partnership route]] and [[banking/INDEX|banking index]].
+This entry sits under the [[payment-firms/INDEX|payment-firms INDEX]] as the FG-subsidiary fintech / wallet-app operating-company anchor for [[fukuoka-fg|ふくおか FG (FFG)]]. Read it against parent operating bank [[fukuoka-bank|福岡銀行]] / [[18-shinwa-bank|十八親和銀行]] / [[kumamoto-bank|熊本銀行]] and the wallet-app peer [[paypay-fg|PayPay FG]] / [[au-fh|au フィナンシャル HD]] / [[rakuten-fg|楽天 FG]] context. For broader system route see [[banking/regional-bank-api-digital-partnership-route|regional-bank API / digital partnership route]] and [[banking/INDEX|banking index]].
 
 ## TL;DR
 
@@ -128,7 +128,7 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary f
 - [[paypay-fg]] · [[au-fh]] · [[rakuten-fg]] · [[mercari-hd]]
 - [[money-forward]] · [[freee]]
 - [[banking/regional-bank-api-digital-partnership-route]] · [[banking/INDEX]] · [[banking/baas-japan-landscape]]
-- [[JapanFG/INDEX|JapanFG index]]
+- [[payment-firms/INDEX|payment-firms INDEX]]
 
 ## Sources
 

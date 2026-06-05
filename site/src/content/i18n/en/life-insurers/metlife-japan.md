@@ -1,5 +1,5 @@
 ---
-source: japanfg/metlife-japan
+source: life-insurers/metlife-japan
 source_hash: 0acb1cf2c48c9431
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:59:49.368Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[life-insurers/prudential-japan|プルデンシャル・ジブラルタ・ファイナンシャル (Prudential Japan)]] for peer / contrast context and [[insurance/INDEX|insurance index]] for the broader system / regulatory boundary.
+This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it against [[life-insurers/prudential-japan|プルデンシャル・ジブラルタ・ファイナンシャル (Prudential Japan)]] for peer / contrast context and [[insurance/INDEX|insurance index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 

@@ -35,7 +35,7 @@
       "Midori Life / Midori Trust partnership release: https://midori-life.com/images/topics/720/3.%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9.pdf"
     ]
   },
-  "summary": "Wiki route: JapanFG/INDEX -> trust-banks/trust-companies-japan-index -> trust-banks/midori-trust",
+  "summary": "Wiki route: trust-banks/INDEX -> trust-banks/trust-companies-japan-index -> trust-banks/midori-trust",
   "headings": [
     "Midori Trust / みどり信託",
     "Overview",
@@ -50,18 +50,18 @@
     "wikilinks_count": 7,
     "wikilinks": [
       "INDEX",
-      "JapanFG/INDEX",
       "insurance/japan-life-insurance-big-four",
       "life-insurers/midori-life",
+      "trust-banks/INDEX",
       "trust-banks/asahi-trust",
       "trust-banks/midori-trust",
       "trust-banks/trust-companies-japan-index"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/insurance/japan-life-insurance-big-four",
       "https://finwiki.zksc.io/life-insurers/midori-life",
+      "https://finwiki.zksc.io/trust-banks/INDEX",
       "https://finwiki.zksc.io/trust-banks/asahi-trust",
       "https://finwiki.zksc.io/trust-banks/midori-trust",
       "https://finwiki.zksc.io/trust-banks/trust-companies-japan-index"
@@ -70,9 +70,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2361,
-    "word_like_tokens": 400,
+    "nonspace_chars": 2365,
+    "word_like_tokens": 401,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

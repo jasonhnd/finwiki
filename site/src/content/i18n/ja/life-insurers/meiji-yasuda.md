@@ -1,5 +1,5 @@
 ---
-source: japanfg/meiji-yasuda
+source: life-insurers/meiji-yasuda
 source_hash: 75a37e4297f811af
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:54:39.066Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] に属する。同業・比較対象の文脈では [[life-insurers/nippon-life|日本生命保険相互会社 (Nippon Life)]]、より広い制度・規制上の境界では [[insurance/INDEX|insurance index]] と併せて読む。
+この項目は [[life-insurers/INDEX|life-insurers INDEX]] に属する。同業・比較対象の文脈では [[life-insurers/nippon-life|日本生命保険相互会社 (Nippon Life)]]、より広い制度・規制上の境界では [[insurance/INDEX|insurance index]] と併せて読む。
 
 ## 要約
 

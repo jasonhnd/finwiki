@@ -91,7 +91,7 @@ translated_at: 2026-06-05T00:00:00.000Z
 
 - **一般社団 → 公益社団** の階段は、**一般財団 → 公益財団** の階段の会員側のアナログである。中間の 一般 フェーズは、公益認定等委員会 のレビュアーが公益ステータスを付与する前に期待する事実上の実績期間である。
 - 助成を受ける、または資金調達を行う団体については、公益 ステータスの下での寄付者控除が対応可能な寄付者基盤を実質的に広げ、これが成熟した法人フィランソロピーと研究ビークルがしばしば 公益 に登る理由である —— [[non-profit/japan-research-grant-map-2026|Japan research grant map 2026]] にマップされた資金エコシステムに関連する。
-- 公益アームを運営する上場金融グループは、アームズレングスのガバナンスのために 公益 形態を典型的に好む；そのようなグループのエンティティレベルのカバレッジは [[JapanFG/INDEX|JapanFG INDEX]] に、規制の背景は [[fintech/japan-financial-regulation|Japan financial regulation]] にある。
+- 公益アームを運営する上場金融グループは、アームズレングスのガバナンスのために 公益 形態を典型的に好む；そのようなグループのエンティティレベルのカバレッジは [[non-profit/INDEX|non-profit INDEX]] に、規制の背景は [[fintech/japan-financial-regulation|Japan financial regulation]] にある。
 
 ## 関連
 

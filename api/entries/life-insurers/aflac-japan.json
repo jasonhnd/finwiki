@@ -37,7 +37,7 @@
       "第一生命 HD 2018-07-12 プレスリリース「アフラック・インコーポレーテッドとの戦略的業務・資本提携について」"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against プルデンシャル・ジブラルタ・ファイナンシャル (Prudential Japan) for peer / contrast context and insurance index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under life-insurers INDEX. Read it against プルデンシャル・ジブラルタ・ファイナンシャル (Prudential Japan) for peer / contrast context and insurance index for the broader system / regulatory boundary.",
   "headings": [
     "アフラック生命保険 (Aflac Japan)",
     "Wiki route",
@@ -53,10 +53,10 @@
   "body_links": {
     "wikilinks_count": 12,
     "wikilinks": [
-      "JapanFG/INDEX",
       "dai-ichi-life",
       "insurance/INDEX",
       "kampo-life",
+      "life-insurers/INDEX",
       "life-insurers/meiji-yasuda",
       "life-insurers/prudential-japan",
       "metlife-japan",
@@ -67,10 +67,10 @@
       "sumitomo-life"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/dai-ichi-life",
       "https://finwiki.zksc.io/insurance/INDEX",
       "https://finwiki.zksc.io/kampo-life",
+      "https://finwiki.zksc.io/life-insurers/INDEX",
       "https://finwiki.zksc.io/life-insurers/meiji-yasuda",
       "https://finwiki.zksc.io/life-insurers/prudential-japan",
       "https://finwiki.zksc.io/metlife-japan",
@@ -84,9 +84,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6177,
-    "word_like_tokens": 899,
+    "nonspace_chars": 6189,
+    "word_like_tokens": 901,
     "inbound_wikilinks_count": 14,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

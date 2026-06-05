@@ -1,5 +1,5 @@
 ---
-source: japanfg/yamaguchi-leasing
+source: leasing-firms/yamaguchi-leasing
 source_hash: 709372a3a85705e6
 lang: ja
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-02T16:33:58.495Z
 
 ## ウィキ上の位置づけ
 
-この項目は、[[JapanFG/INDEX|JapanFG index]] の配下に、[[yamaguchi-fg|山口 FG (YMFG)]] の FG 子会社リース operating-company anchor として位置する。親 operating banks の [[yamaguchi-fg|山口 FG]] 3 行体制 ([[momiji-bank|もみじ銀行]] / [[kitakyushu-bank|北九州銀行]] / 山口銀行) および兄弟子会社ワイエム証券と照らして読む。ピア比較は [[mebuki-lease|めぶきリース]] (北関東) / [[yokohama-bank-leasing|横浜銀リース]] (神奈川) / [[chibagin-leasing|ちばぎんリース]] (千葉) / [[hokkaido-lease|北海道リース]] / [[iyogin-leasing|いよぎんリース]] (四国)、大手リース会社 [[mitsubishi-hc-capital|三菱 HC キャピタル]] / [[mizuho-lease|みずほリース]] / [[tokyo-century|東京センチュリー]]。より広いシステムルートは [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]]、[[banking/regional-bank-api-digital-partnership-route|regional-bank API/digital partnership route]]、[[banking/INDEX|banking index]] を参照。投資可能ユニバースの文脈は [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]]。
+この項目は、[[leasing-firms/INDEX|leasing-firms INDEX]] の配下に、[[yamaguchi-fg|山口 FG (YMFG)]] の FG 子会社リース operating-company anchor として位置する。親 operating banks の [[yamaguchi-fg|山口 FG]] 3 行体制 ([[momiji-bank|もみじ銀行]] / [[kitakyushu-bank|北九州銀行]] / 山口銀行) および兄弟子会社ワイエム証券と照らして読む。ピア比較は [[mebuki-lease|めぶきリース]] (北関東) / [[yokohama-bank-leasing|横浜銀リース]] (神奈川) / [[chibagin-leasing|ちばぎんリース]] (千葉) / [[hokkaido-lease|北海道リース]] / [[iyogin-leasing|いよぎんリース]] (四国)、大手リース会社 [[mitsubishi-hc-capital|三菱 HC キャピタル]] / [[mizuho-lease|みずほリース]] / [[tokyo-century|東京センチュリー]]。より広いシステムルートは [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]]、[[banking/regional-bank-api-digital-partnership-route|regional-bank API/digital partnership route]]、[[banking/INDEX|banking index]] を参照。投資可能ユニバースの文脈は [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]]。
 
 ## 要約
 
@@ -121,7 +121,7 @@ translated_at: 2026-06-02T16:33:58.495Z
 - [[ja-mitsui-leasing]] · [[nec-leasing]] · [[showa-leasing]] · [[toyota-finance]] · [[ibj-leasing]] · [[kanematsu-leasing]]
 - [[banking/regional-bank-consolidation-pattern]] · [[banking/regional-bank-api-digital-partnership-route]] · [[banking/INDEX]]
 - [[finance/japan-listed-financial-groups-investable-universe]] · [[finance/INDEX]]
-- [[JapanFG/INDEX|JapanFG index]]
+- [[leasing-firms/INDEX|leasing-firms INDEX]]
 
 ## 出典
 

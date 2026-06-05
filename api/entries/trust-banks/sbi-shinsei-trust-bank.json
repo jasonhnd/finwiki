@@ -40,7 +40,7 @@
       "https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf"
     ]
   },
-  "summary": "SBI Shinsei Trust Bank is a licensed trust-bank operating-company page under JapanFG. Read it with SBI Shinsei Bank, SBI Holdings, Mitsubishi UFJ Trust Bank, Progmat, Japan stablecoin regulation, and Japan trust-bank custody map.",
+  "summary": "SBI Shinsei Trust Bank is a licensed trust-bank operating-company page under trust-banks INDEX. Read it with SBI Shinsei Bank, SBI Holdings, Mitsubishi UFJ Trust Bank, Progmat, Japan stablecoin regulation, and Japan trust-bank custody map.",
   "headings": [
     "SBI新生信託銀行 (SBI Shinsei Trust Bank)",
     "Wiki route",
@@ -57,7 +57,6 @@
     "wikilinks_count": 14,
     "wikilinks": [
       "INDEX",
-      "JapanFG/INDEX",
       "banking/japan-trust-bank-custody-map",
       "exchanges/jp-exchange-sbi-vc-trade",
       "finance/japan-acquisition-finance",
@@ -68,12 +67,12 @@
       "regional-banks/sbi-shinsei-bank",
       "securities-firms/sbi-securities",
       "securities/osaka-digital-exchange",
+      "trust-banks/INDEX",
       "trust-banks/jsf-trust-bank",
       "trust-banks/mitsubishi-ufj-trust-bank"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/japan-trust-bank-custody-map",
       "https://finwiki.zksc.io/exchanges/jp-exchange-sbi-vc-trade",
       "https://finwiki.zksc.io/finance/japan-acquisition-finance",
@@ -84,6 +83,7 @@
       "https://finwiki.zksc.io/regional-banks/sbi-shinsei-bank",
       "https://finwiki.zksc.io/securities-firms/sbi-securities",
       "https://finwiki.zksc.io/securities/osaka-digital-exchange",
+      "https://finwiki.zksc.io/trust-banks/INDEX",
       "https://finwiki.zksc.io/trust-banks/jsf-trust-bank",
       "https://finwiki.zksc.io/trust-banks/mitsubishi-ufj-trust-bank"
     ],
@@ -91,9 +91,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5948,
-    "word_like_tokens": 933,
+    "nonspace_chars": 5965,
+    "word_like_tokens": 937,
     "inbound_wikilinks_count": 6,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

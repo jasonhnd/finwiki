@@ -1,5 +1,5 @@
 ---
-source: japanfg/aflac-japan
+source: life-insurers/aflac-japan
 source_hash: f3e6e6d6c28de091
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T07:28:06.129Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[life-insurers/prudential-japan|プルデンシャル・ジブラルタ・ファイナンシャル (Prudential Japan)]] for peer / contrast context and [[insurance/INDEX|insurance index]] for the broader system / regulatory boundary.
+This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it against [[life-insurers/prudential-japan|プルデンシャル・ジブラルタ・ファイナンシャル (Prudential Japan)]] for peer / contrast context and [[insurance/INDEX|insurance index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 

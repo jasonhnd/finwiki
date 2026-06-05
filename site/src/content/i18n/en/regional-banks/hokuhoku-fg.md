@@ -1,5 +1,5 @@
 ---
-source: japanfg/hokuhoku-fg
+source: regional-banks/hokuhoku-fg
 source_hash: 92233eef46869281
 lang: en
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T15:29:03.944Z
 
 ## Wiki route
 
-This entry sits under[[JapanFG/INDEX|JapanFG index]]. Read it against[[regional-banks/fukuoka-fg|ふくおか FG (FFG)]]for peer / contrast context and[[banking/INDEX|banking index]]for the broader system / regulatory boundary.
+This entry sits under[[regional-banks/INDEX|regional-banks INDEX]]. Read it against[[regional-banks/fukuoka-fg|ふくおか FG (FFG)]]for peer / contrast context and[[banking/INDEX|banking index]]for the broader system / regulatory boundary.
 
 ## TL;DR
 

@@ -61,9 +61,9 @@
   "body_links": {
     "wikilinks_count": 25,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "financial-licenses/INDEX",
+      "financial-regulators/INDEX",
       "financial-regulators/dai2-chigin-kyo",
       "financial-regulators/fsa",
       "financial-regulators/jsda",
@@ -88,9 +88,9 @@
       "trust-banks/trust-companies-japan-index"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/financial-licenses/INDEX",
+      "https://finwiki.zksc.io/financial-regulators/INDEX",
       "https://finwiki.zksc.io/financial-regulators/dai2-chigin-kyo",
       "https://finwiki.zksc.io/financial-regulators/fsa",
       "https://finwiki.zksc.io/financial-regulators/jsda",
@@ -118,9 +118,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 8674,
-    "word_like_tokens": 1341,
+    "nonspace_chars": 8726,
+    "word_like_tokens": 1345,
     "inbound_wikilinks_count": 10,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

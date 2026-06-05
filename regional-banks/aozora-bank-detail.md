@@ -25,7 +25,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]] and complements the company-level summary at [[regional-banks/aozora-bank|あおぞら銀行]]. Read it against [[regional-banks/sbi-shinsei-bank|SBI 新生銀行]] for post-rehabilitation peer context, [[megabanks/mufg-bank|三菱UFJ銀行]] / [[megabanks/smbc|SMBC]] / [[megabanks/mizuho-bank|みずほ銀行]] for mega-bank contrast, and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] and complements the company-level summary at [[regional-banks/aozora-bank|あおぞら銀行]]. Read it against [[regional-banks/sbi-shinsei-bank|SBI 新生銀行]] for post-rehabilitation peer context, [[megabanks/mufg-bank|三菱UFJ銀行]] / [[megabanks/smbc|SMBC]] / [[megabanks/mizuho-bank|みずほ銀行]] for mega-bank contrast, and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
@@ -147,7 +147,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] and complements the compan
 - [[megabanks/smbc|SMBC]] — メガ法人銀行
 - [[megabanks/mizuho-bank|みずほ銀行]] — メガ法人銀行
 - [[regional-banks/tokyo-star-bank|東京スター銀行]] — 中堅特殊銀行ピア
-- [[JapanFG/INDEX|JapanFG index]]
+- [[regional-banks/INDEX|regional-banks INDEX]]
 - [[banking/INDEX|Banking domain index]]
 
 ## Sources

@@ -41,7 +41,7 @@
       "財務省北海道財務局 公表資料 (2008-10-14)"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against じもとホールディングス (JIMOTO HD) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under regional-banks INDEX. Read it against じもとホールディングス (JIMOTO HD) for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [
     "北洋銀行",
     "Wiki route",
@@ -57,23 +57,23 @@
   "body_links": {
     "wikilinks_count": 9,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "hokuhoku-fg",
       "mizuho-fg",
       "mufg",
       "ndfg",
+      "regional-banks/INDEX",
       "regional-banks/jimoto-hd",
       "sbi-hd",
       "smfg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/hokuhoku-fg",
       "https://finwiki.zksc.io/mizuho-fg",
       "https://finwiki.zksc.io/mufg",
       "https://finwiki.zksc.io/ndfg",
+      "https://finwiki.zksc.io/regional-banks/INDEX",
       "https://finwiki.zksc.io/regional-banks/jimoto-hd",
       "https://finwiki.zksc.io/sbi-hd",
       "https://finwiki.zksc.io/smfg"
@@ -82,9 +82,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3700,
-    "word_like_tokens": 675,
+    "nonspace_chars": 3714,
+    "word_like_tokens": 677,
     "inbound_wikilinks_count": 6,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

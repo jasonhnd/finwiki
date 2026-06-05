@@ -108,7 +108,7 @@ This entry sits under [[manufacturer-finance/INDEX|manufacturing index]]. Read i
 - [[megabanks/sony-fg|ソニーフィナンシャルグループ]] · [[regional-banks/sony-bank|ソニー銀行]] · [[life-insurers/sony-life|ソニー生命]] · [[non-life-insurers/sony-insurance|ソニー損保]]
 - [[business/sony-fg-partial-spinoff-case|Sony FG partial spinoff case]] · [[corporate-strategy/partial-spinoff-tax-deferral|partial spinoff tax deferral]]
 - [[manufacturer-finance/hitachi-industrial-finance-platform|Hitachi 産業金融]] · [[manufacturer-finance/panasonic-captive-finance|Panasonic 顧客金融]] · [[manufacturer-finance/toyota-financial-services|Toyota Financial Services]] · [[manufacturer-finance/mitsubishi-heavy-export-finance|MHI 輸出金融]]
-- [[manufacturer-finance/INDEX|manufacturing INDEX]] · [[JapanFG/INDEX|JapanFG INDEX]] · [[INDEX|FinWiki index]]
+- [[manufacturer-finance/INDEX|manufacturing INDEX]] · [[manufacturer-finance/INDEX|manufacturer-finance INDEX]] · [[INDEX|FinWiki index]]
 
 ## Sources
 

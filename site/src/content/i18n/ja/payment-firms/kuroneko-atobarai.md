@@ -1,5 +1,5 @@
 ---
-source: japanfg/kuroneko-atobarai
+source: payment-firms/kuroneko-atobarai
 source_hash: 38cac22717755d2c
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:54:39.078Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下にある、物流を軸にした **BNPL** 商品として位置づける。[[payment-firms/bnpl-landscape|Japan BNPL landscape]] の制度メモ、[[payment-firms/net-protections-hd|Net Protections HD]] / [[payment-firms/paidy|Paidy]] の BNPL 比較群、規制上の問いについては [[payments/japan-bnpl-credit-purchase-boundary|Japan BNPL and credit-purchase boundary]] と併読する。[[payments/credit-purchase-card-operators-japan-index|METI credit-purchase registry]] は登録上のアンカーであり、[[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]] は加盟店経済において後払いがカード・コード決済レールとどう異なるかを示す。
+この項目は [[payment-firms/INDEX|payment-firms INDEX]] の配下にある、物流を軸にした **BNPL** 商品として位置づける。[[payment-firms/bnpl-landscape|Japan BNPL landscape]] の制度メモ、[[payment-firms/net-protections-hd|Net Protections HD]] / [[payment-firms/paidy|Paidy]] の BNPL 比較群、規制上の問いについては [[payments/japan-bnpl-credit-purchase-boundary|Japan BNPL and credit-purchase boundary]] と併読する。[[payments/credit-purchase-card-operators-japan-index|METI credit-purchase registry]] は登録上のアンカーであり、[[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]] は加盟店経済において後払いがカード・コード決済レールとどう異なるかを示す。
 
 ## 要約
 

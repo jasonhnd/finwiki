@@ -1,5 +1,5 @@
 ---
-source: japanfg/medicare-life
+source: life-insurers/medicare-life
 source_hash: ab4d5cec652d6c07
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:59:49.411Z
 
 ## Wiki route
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 下。可与第一 Frontier 生命保险和 insurance index 对照阅读。
+本条目位于 [[life-insurers/INDEX|life-insurers INDEX]] 下。可与第一 Frontier 生命保险和 insurance index 对照阅读。
 
 ## TL;DR
 

@@ -1,5 +1,5 @@
 ---
-source: japanfg/iwai-cosmo-hd
+source: securities-firms/iwai-cosmo-hd
 source_hash: a1fe444a0496cd77
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:25:12.408Z
 
 ## ウィキ上の位置づけ
 
-本項目は [[JapanFG/INDEX|JapanFG index]] の配下に置く。[[securities-firms/okasan-sg|岡三証券グループ (Okasan Securities Group)]] を同業・対比の文脈として、[[securities/INDEX|securities index]] をより広い制度・規制境界として併読する。
+本項目は [[securities-firms/INDEX|securities-firms INDEX]] の配下に置く。[[securities-firms/okasan-sg|岡三証券グループ (Okasan Securities Group)]] を同業・対比の文脈として、[[securities/INDEX|securities index]] をより広い制度・規制境界として併読する。
 
 ## 要約
 

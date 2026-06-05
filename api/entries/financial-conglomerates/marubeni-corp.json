@@ -45,7 +45,7 @@
       "JPX 銘柄情報 8002 — https://www2.jpx.co.jp/"
     ]
   },
-  "summary": "This entry sits under JapanFG index as a sōgō shōsha parent holding-company. Read it against 伊藤忠商事 (戦前の同根 = 旧 丸紅伊藤忠商事、戦後 1949 分割) and 住友商事 (5 大商社中堅同士) for peer / contrast context. For the financial-services adjacency that gives this entry its JapanFG anchor — see 丸紅フィナンス (内向け CMS) and みずほリース (旧 興銀リー",
+  "summary": "This entry sits under financial-conglomerates INDEX as a sōgō shōsha parent holding-company. Read it against 伊藤忠商事 (戦前の同根 = 旧 丸紅伊藤忠商事、戦後 1949 分割) and 住友商事 (5 大商社中堅同士) for peer / contrast context. For the financial-services adjacency that gives this entry its JapanFG anchor — see 丸紅フィナンス (内向け CMS) an",
   "headings": [
     "丸紅 (Marubeni Corporation)",
     "Wiki route",
@@ -61,9 +61,9 @@
   "body_links": {
     "wikilinks_count": 15,
     "wikilinks": [
-      "JapanFG/INDEX",
       "finance/INDEX",
       "finance/japan-listed-financial-groups-investable-universe",
+      "financial-conglomerates/INDEX",
       "financial-conglomerates/itochu-corp",
       "financial-conglomerates/mitsubishi-corp",
       "financial-conglomerates/mitsui-co",
@@ -78,9 +78,9 @@
       "trading-company-finance/marubeni-financial-services"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/finance/INDEX",
       "https://finwiki.zksc.io/finance/japan-listed-financial-groups-investable-universe",
+      "https://finwiki.zksc.io/financial-conglomerates/INDEX",
       "https://finwiki.zksc.io/financial-conglomerates/itochu-corp",
       "https://finwiki.zksc.io/financial-conglomerates/mitsubishi-corp",
       "https://finwiki.zksc.io/financial-conglomerates/mitsui-co",
@@ -98,9 +98,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5496,
-    "word_like_tokens": 881,
+    "nonspace_chars": 5560,
+    "word_like_tokens": 885,
     "inbound_wikilinks_count": 9,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

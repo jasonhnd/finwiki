@@ -25,7 +25,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[asset-managers/mitsubishi-corp-asset-management|三菱商事アセットマネジメント]] for the asset-management adjacent within the same parent, and [[trading-company-finance/mitsui-bussan-financial-services|三井物産フィナンシャルサービス]] for the closest peer trading-company group-treasury arm. For the leasing peer set already covered in this wiki — [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]] (the Mitsubishi-side listed leasing platform), [[leasing-firms/smfl|SMFL]] (住友商事 + SMFG), [[leasing-firms/tokyo-century|東京センチュリー]] (伊藤忠系), [[cooperative-banks/ja-mitsui-leasing|JA三井リース]] (三井物産 + JA) — see [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+This entry sits under [[trading-company-finance/INDEX|trading-company-finance INDEX]]. Read it against [[asset-managers/mitsubishi-corp-asset-management|三菱商事アセットマネジメント]] for the asset-management adjacent within the same parent, and [[trading-company-finance/mitsui-bussan-financial-services|三井物産フィナンシャルサービス]] for the closest peer trading-company group-treasury arm. For the leasing peer set already covered in this wiki — [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]] (the Mitsubishi-side listed leasing platform), [[leasing-firms/smfl|SMFL]] (住友商事 + SMFG), [[leasing-firms/tokyo-century|東京センチュリー]] (伊藤忠系), [[cooperative-banks/ja-mitsui-leasing|JA三井リース]] (三井物産 + JA) — see [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## 1. 会社概要
 

@@ -1,5 +1,5 @@
 ---
-source: japanfg/orix-bank
+source: trust-banks/orix-bank
 source_hash: b8340abebcd298d6
 lang: ja
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-06-02T15:14:17.107Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に置く。比較・対照の文脈では [[trust-banks/mitsubishi-ufj-trust-bank|三菱UFJ信託銀行 (MUTB)]]、より広い制度・規制境界では [[banking/INDEX|banking index]] とあわせて読む。
+この項目は [[trust-banks/INDEX|trust-banks INDEX]] の配下に置く。比較・対照の文脈では [[trust-banks/mitsubishi-ufj-trust-bank|三菱UFJ信託銀行 (MUTB)]]、より広い制度・規制境界では [[banking/INDEX|banking index]] とあわせて読む。
 
 ## 要約
 

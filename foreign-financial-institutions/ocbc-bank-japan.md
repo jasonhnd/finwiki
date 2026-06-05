@@ -20,7 +20,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it with [[banking/INDEX|banking index]] for adjacent context and [[financial-licenses/INDEX|JapanFG index]] for the broader system boundary.
+This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]]. Read it with [[banking/INDEX|banking index]] for adjacent context and [[financial-licenses/INDEX|JapanFG index]] for the broader system boundary.
 
 ## TL;DR
 

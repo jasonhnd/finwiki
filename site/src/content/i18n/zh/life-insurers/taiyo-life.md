@@ -1,5 +1,5 @@
 ---
-source: japanfg/taiyo-life
+source: life-insurers/taiyo-life
 source_hash: 7d1c35e3af531801
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-01T02:31:57.137Z
 
 ## Wiki 路线
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可与 [[life-insurers/daido-life|大同生命保険]] 对照阅读，以把握同业 / 对比语境；也可与 [[insurance/INDEX|insurance index]] 一起阅读，以确认更广的制度 / 监管边界。
+本条目位于 [[life-insurers/INDEX|life-insurers INDEX]] 之下。可与 [[life-insurers/daido-life|大同生命保険]] 对照阅读，以把握同业 / 对比语境；也可与 [[insurance/INDEX|insurance index]] 一起阅读，以确认更广的制度 / 监管边界。
 
 ## TL;DR
 

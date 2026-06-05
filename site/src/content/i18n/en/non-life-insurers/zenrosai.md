@@ -1,5 +1,5 @@
 ---
-source: japanfg/zenrosai
+source: non-life-insurers/zenrosai
 source_hash: 2eb24dc4cd81b277
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T03:31:12.248Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **workers' / consumer-cooperative-based mutual-aid federation** outside the JA / JF / shinkin / shinkumi axis. Read with [[non-life-insurers/ja-kyosairen|JA 共済連]] for the agricultural cooperative kyosai peer, [[non-life-insurers/kyoritsu-fire-marine|共栄火災海上保険]] for cooperative-system non-life adjacency, [[insurance/INDEX|insurance domain]] for the kyosai-vs-insurance regulatory boundary, and [[cooperative-banks/rokin-renraku|労働金庫連合会]] for the workers' cooperative finance peer in banking.
+This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]] as a **workers' / consumer-cooperative-based mutual-aid federation** outside the JA / JF / shinkin / shinkumi axis. Read with [[non-life-insurers/ja-kyosairen|JA 共済連]] for the agricultural cooperative kyosai peer, [[non-life-insurers/kyoritsu-fire-marine|共栄火災海上保険]] for cooperative-system non-life adjacency, [[insurance/INDEX|insurance domain]] for the kyosai-vs-insurance regulatory boundary, and [[cooperative-banks/rokin-renraku|労働金庫連合会]] for the workers' cooperative finance peer in banking.
 
 ## TL;DR
 
@@ -119,7 +119,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **workers' / consumer
 -[[insurance/INDEX|insurance domain]]
 -[[insurance/mutual-vs-stock-life-insurer]]
 -[[banking/cooperative-banking-japan]]
--[[JapanFG/INDEX|JapanFG index]]
+-[[non-life-insurers/INDEX|non-life-insurers INDEX]]
 
 ## Sources
 

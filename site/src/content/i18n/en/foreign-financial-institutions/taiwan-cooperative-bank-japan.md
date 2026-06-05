@@ -1,5 +1,5 @@
 ---
-source: japanfg/taiwan-cooperative-bank-japan
+source: foreign-financial-institutions/taiwan-cooperative-bank-japan
 source_hash: 079c7f512088edcc
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.121Z
 
 ## Wiki route
 
-Taiwan Cooperative Bank Japan sits under [[JapanFG/INDEX|JapanFG index]] and is a Taiwan-Japan foreign-bank branch route in [[foreign-financial-institutions/foreign-bank-branches-japan-index|the foreign-bank branch registry]]. Read it with [[foreign-financial-institutions/chang-hwa-bank-japan|Chang Hwa Bank Japan]], [[foreign-financial-institutions/first-commercial-bank-japan|First Commercial Bank Japan]], [[foreign-financial-institutions/taiwan-business-bank-japan|Taiwan Business Bank Japan]], and [[banking/INDEX|banking index]].
+Taiwan Cooperative Bank Japan sits under [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]] and is a Taiwan-Japan foreign-bank branch route in [[foreign-financial-institutions/foreign-bank-branches-japan-index|the foreign-bank branch registry]]. Read it with [[foreign-financial-institutions/chang-hwa-bank-japan|Chang Hwa Bank Japan]], [[foreign-financial-institutions/first-commercial-bank-japan|First Commercial Bank Japan]], [[foreign-financial-institutions/taiwan-business-bank-japan|Taiwan Business Bank Japan]], and [[banking/INDEX|banking index]].
 
 Use this page for Taiwan public / cooperative-bank heritage, Taiwan-Japan trade finance, and newer Tokyo Branch build-out questions.
 
@@ -56,7 +56,7 @@ FinWiki should keep the page focused on the Tokyo branch and Taiwan-Japan busine
 
 ## Related
 
-- [[JapanFG/INDEX]]
+- [[foreign-financial-institutions/INDEX]]
 - [[foreign-financial-institutions/foreign-bank-branches-japan-index]]
 - [[foreign-financial-institutions/chang-hwa-bank-japan]]
 - [[foreign-financial-institutions/first-commercial-bank-japan]]

@@ -32,7 +32,7 @@
       "https://www.mebuki-fg.co.jp/eng/shareholder/ir_library/annual_report/"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 足利銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under regional-banks INDEX. Read it against 足利銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [
     "株式会社常陽銀行 (Joyo Bank)",
     "Wiki route",
@@ -48,18 +48,18 @@
     "wikilinks_count": 7,
     "wikilinks": [
       "INDEX",
-      "JapanFG/INDEX",
       "banking/INDEX",
       "regional-banks/77-bank",
+      "regional-banks/INDEX",
       "regional-banks/ashikaga-bank",
       "regional-banks/chiba-bank",
       "regional-banks/mebuki-fg"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/regional-banks/77-bank",
+      "https://finwiki.zksc.io/regional-banks/INDEX",
       "https://finwiki.zksc.io/regional-banks/ashikaga-bank",
       "https://finwiki.zksc.io/regional-banks/chiba-bank",
       "https://finwiki.zksc.io/regional-banks/mebuki-fg"
@@ -68,9 +68,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2172,
-    "word_like_tokens": 364,
+    "nonspace_chars": 2186,
+    "word_like_tokens": 366,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

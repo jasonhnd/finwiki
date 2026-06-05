@@ -1,5 +1,5 @@
 ---
-source: japanfg/taiyo-grant-thornton
+source: financial-regulators/taiyo-grant-thornton
 source_hash: 600c4ce759272201
 lang: ja
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-02T16:33:58.522Z
 
 ## ウィキ上の位置づけ
 
-このエントリは [[JapanFG/INDEX|JapanFG index]] 配下に位置する。[[financial-regulators/ey-shinnihon|EY 新日本]]、[[financial-regulators/deloitte-touche-tohmatsu|トーマツ]]、[[financial-regulators/kpmg-azsa|あずさ]]、[[financial-regulators/pwc-aarata|PwC あらた]] と並べて Big 4  比較として読み、公認会計士法 / 監査品質管理の規制境界については [[financial-licenses/INDEX|金融ライセンス INDEX]] と照らして読む。CPAAOB の監督文脈は [[financial-regulators/fsa-supervision-bureau|金融庁 監督局]] と [[financial-regulators/fsa-strategy-bureau|金融庁 総合政策局]] の所管である。
+このエントリは [[financial-regulators/INDEX|financial-regulators INDEX]] 配下に位置する。[[financial-regulators/ey-shinnihon|EY 新日本]]、[[financial-regulators/deloitte-touche-tohmatsu|トーマツ]]、[[financial-regulators/kpmg-azsa|あずさ]]、[[financial-regulators/pwc-aarata|PwC あらた]] と並べて Big 4  比較として読み、公認会計士法 / 監査品質管理の規制境界については [[financial-licenses/INDEX|金融ライセンス INDEX]] と照らして読む。CPAAOB の監督文脈は [[financial-regulators/fsa-supervision-bureau|金融庁 監督局]] と [[financial-regulators/fsa-strategy-bureau|金融庁 総合政策局]] の所管である。
 
 ## 1. 法人概要
 

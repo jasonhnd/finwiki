@@ -1,5 +1,5 @@
 ---
-source: japanfg/hannover-re-japan
+source: non-life-insurers/hannover-re-japan
 source_hash: 1d11f873d0f4b8cb
 lang: en
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T15:29:03.922Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[non-life-insurers/munich-re-japan|Munich Re Japan Branch]] and [[non-life-insurers/swiss-re-japan|Swiss Re Japan Branch]] as the "Big 2 + Hannover" trio of European reinsurers in Japan, and [[non-life-insurers/toa-reinsurance|Toa Reinsurance]] as the domestic peer. The system page [[insurance/natcat-reinsurance-japan|nat-cat reinsurance Japan]] frames how all of these fit into Japan's catastrophe risk transfer architecture.
+This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read it against [[non-life-insurers/munich-re-japan|Munich Re Japan Branch]] and [[non-life-insurers/swiss-re-japan|Swiss Re Japan Branch]] as the "Big 2 + Hannover" trio of European reinsurers in Japan, and [[non-life-insurers/toa-reinsurance|Toa Reinsurance]] as the domestic peer. The system page [[insurance/natcat-reinsurance-japan|nat-cat reinsurance Japan]] frames how all of these fit into Japan's catastrophe risk transfer architecture.
 
 ## TL;DR
 
@@ -44,7 +44,7 @@ Hannover Re Japan Branch is the Japanese branch of Hannover Rueck SE, listed in 
 
 ## Related
 
-- [[JapanFG/INDEX]]
+- [[non-life-insurers/INDEX]]
 - [[munich-re-japan]]
 - [[swiss-re-japan]]
 - [[toa-reinsurance]]

@@ -1,5 +1,5 @@
 ---
-source: japanfg/saikyo-bank
+source: regional-banks/saikyo-bank
 source_hash: 5aba7998eaf1e7aa
 lang: ja
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-06-02T15:14:17.087Z
 
 ## ウィキ上の位置づけ
 
-本項目は[[JapanFG/INDEX|JapanFG index]]配下に置く。[[regional-banks/shimane-bank|島根銀行]]とは同業・対比の文脈で、[[banking/INDEX|banking index]]とはより広い制度・規制上の境界を読むために参照する。
+本項目は[[regional-banks/INDEX|regional-banks INDEX]]配下に置く。[[regional-banks/shimane-bank|島根銀行]]とは同業・対比の文脈で、[[banking/INDEX|banking index]]とはより広い制度・規制上の境界を読むために参照する。
 
 ## 要約
 

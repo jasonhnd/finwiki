@@ -11,7 +11,7 @@ translated_at: 2026-06-01T04:15:40.175Z
 
 ## TL;DR
 
-日本汽车贷款 ABS 由日本汽车 OEM 的 captive finance 子公司以及银行系汽车金融公司发行。最大的重复发行人包括 [[card-issuers/toyota-finance]]、[[leasing-firms/toyota-financial]]（用于跨境）、Honda Finance、Nissan Credit、Mitsubishi UFJ Capital Auto Loan ABS 和 SMBC Auto。结构通常是颗粒化资产池（数万笔贷款）、TK-GK SPV 形式，并采用 senior / mezz / equity 分层。租赁 ABS 变体除信用风险外还带有残值风险。使用本页理解 [[structured-finance/INDEX]] 中的汽车金融 ABS 层，并连接到 [[JapanFG/INDEX]] 中的 captive-finance 公司页面。
+日本汽车贷款 ABS 由日本汽车 OEM 的 captive finance 子公司以及银行系汽车金融公司发行。最大的重复发行人包括 [[card-issuers/toyota-finance]]、[[leasing-firms/toyota-financial]]（用于跨境）、Honda Finance、Nissan Credit、Mitsubishi UFJ Capital Auto Loan ABS 和 SMBC Auto。结构通常是颗粒化资产池（数万笔贷款）、TK-GK SPV 形式，并采用 senior / mezz / equity 分层。租赁 ABS 变体除信用风险外还带有残值风险。使用本页理解 [[structured-finance/INDEX]] 中的汽车金融 ABS 层，并连接到 [[structured-finance/INDEX]] 中的 captive-finance 公司页面。
 
 ## Wiki 路由
 

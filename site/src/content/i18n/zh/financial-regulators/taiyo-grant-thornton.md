@@ -1,5 +1,5 @@
 ---
-source: japanfg/taiyo-grant-thornton
+source: financial-regulators/taiyo-grant-thornton
 source_hash: 600c4ce759272201
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.129Z
 
 ## Wiki 路径
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可与 [[financial-regulators/ey-shinnihon|EY 新日本]]、[[financial-regulators/deloitte-touche-tohmatsu|トーマツ]]、[[financial-regulators/kpmg-azsa|あずさ]]、[[financial-regulators/pwc-aarata|PwC あらた]] 一并阅读，用于 Big 4  比较；并结合 [[financial-licenses/INDEX|金融ライセンス INDEX]] 理解公认会计士法 / 审计质量管理的监管边界。CPAAOB 监督语境由 [[financial-regulators/fsa-supervision-bureau|金融庁 監督局]] 和 [[financial-regulators/fsa-strategy-bureau|金融庁 総合政策局]] 管辖。
+本条目位于 [[financial-regulators/INDEX|financial-regulators INDEX]] 之下。可与 [[financial-regulators/ey-shinnihon|EY 新日本]]、[[financial-regulators/deloitte-touche-tohmatsu|トーマツ]]、[[financial-regulators/kpmg-azsa|あずさ]]、[[financial-regulators/pwc-aarata|PwC あらた]] 一并阅读，用于 Big 4  比较；并结合 [[financial-licenses/INDEX|金融ライセンス INDEX]] 理解公认会计士法 / 审计质量管理的监管边界。CPAAOB 监督语境由 [[financial-regulators/fsa-supervision-bureau|金融庁 監督局]] 和 [[financial-regulators/fsa-strategy-bureau|金融庁 総合政策局]] 管辖。
 
 ## 1. 法人概要
 

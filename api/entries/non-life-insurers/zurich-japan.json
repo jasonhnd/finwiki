@@ -36,7 +36,7 @@
       "Zurich Insurance Group Annual Report 2024 (公式 IR)"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against アクサ・ジャパン (AXA Japan) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under non-life-insurers INDEX. Read it against アクサ・ジャパン (AXA Japan) for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [
     "チューリッヒ保険会社 (Zurich Japan)",
     "Wiki route",
@@ -52,12 +52,12 @@
   "body_links": {
     "wikilinks_count": 11,
     "wikilinks": [
-      "JapanFG/INDEX",
       "axa-japan",
       "banking/INDEX",
       "life-insurers/axa-japan",
       "lifenet",
       "msad",
+      "non-life-insurers/INDEX",
       "prudential-japan",
       "sbi-hd",
       "sompo",
@@ -65,12 +65,12 @@
       "tokio-marine"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/axa-japan",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/life-insurers/axa-japan",
       "https://finwiki.zksc.io/lifenet",
       "https://finwiki.zksc.io/msad",
+      "https://finwiki.zksc.io/non-life-insurers/INDEX",
       "https://finwiki.zksc.io/prudential-japan",
       "https://finwiki.zksc.io/sbi-hd",
       "https://finwiki.zksc.io/sompo",
@@ -81,9 +81,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3981,
-    "word_like_tokens": 570,
+    "nonspace_chars": 4001,
+    "word_like_tokens": 574,
     "inbound_wikilinks_count": 3,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

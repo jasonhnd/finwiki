@@ -1,5 +1,5 @@
 ---
-source: japanfg/zurich-life
+source: life-insurers/zurich-life
 source_hash: bb0985c276b47564
 lang: zh
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-06-01T03:31:12.290Z
 
 ## 维基路线
 
-该条目位于 [[JapanFG/INDEX|JapanFG index]] 下。针对同行/对比上下文阅读 [[life-insurers/credit-agricole-life|クレディ・アグリコル生命保険]]，针对更广泛的系统/监管边界阅读 [[insurance/INDEX|insurance index]]。
+该条目位于 [[life-insurers/INDEX|life-insurers INDEX]] 下。针对同行/对比上下文阅读 [[life-insurers/credit-agricole-life|クレディ・アグリコル生命保険]]，针对更广泛的系统/监管边界阅读 [[insurance/INDEX|insurance index]]。
 
 ## 长话短说
 

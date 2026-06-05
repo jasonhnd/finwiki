@@ -1,5 +1,5 @@
 ---
-source: japanfg/bbva-bank-japan
+source: foreign-financial-institutions/bbva-bank-japan
 source_hash: e6dc9ccba912358d
 lang: ja
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-06-02T14:01:20.961Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に位置する。ピア比較 / 対照文脈は [[foreign-financial-institutions/credit-agricole-bank-japan|クレディ・アグリコル銀行 東京支店]]、より広いシステム / 規制上の境界は [[banking/INDEX|banking index]] と照合して読む。
+この項目は [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]] の配下に位置する。ピア比較 / 対照文脈は [[foreign-financial-institutions/credit-agricole-bank-japan|クレディ・アグリコル銀行 東京支店]]、より広いシステム / 規制上の境界は [[banking/INDEX|banking index]] と照合して読む。
 
 ## 要約
 

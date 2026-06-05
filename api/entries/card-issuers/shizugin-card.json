@@ -47,7 +47,7 @@
       "https://www.j-credit.or.jp/"
     ]
   },
-  "summary": "This entry sits under the JapanFG index as the FG-subsidiary credit-card operating-company anchor for しずおか FG グループ (静岡銀行 母体)。Read it against parent operating bank 静岡銀行 and sibling subsidiaries 静銀ティーエム証券 / しずぎんリース / 静銀キャピタル / 静銀信用保証. Peer comparison: 地銀系クレジットカード会社 (めぶきカード / ちばぎんカード / UCS カード (旧 名古屋鉄道",
+  "summary": "This entry sits under the card-issuers INDEX as the FG-subsidiary credit-card operating-company anchor for しずおか FG グループ (静岡銀行 母体)。Read it against parent operating bank 静岡銀行 and sibling subsidiaries 静銀ティーエム証券 / しずぎんリース / 静銀キャピタル / 静銀信用保証. Peer comparison: 地銀系クレジットカード会社 (めぶきカード / ちばぎんカード / UCS カード (旧",
   "headings": [
     "しずぎんカード (Shizugin Card / Shizuoka Bank Card)",
     "Wiki route",
@@ -63,7 +63,6 @@
   "body_links": {
     "wikilinks_count": 43,
     "wikilinks": [
-      "JapanFG/INDEX",
       "acom",
       "aeon-financial-service",
       "aiful",
@@ -74,6 +73,7 @@
       "banking/regional-bank-api-digital-partnership-route",
       "banking/regional-bank-consolidation-pattern",
       "bnpl-landscape",
+      "card-issuers/INDEX",
       "chiba-bank",
       "chibagin-leasing",
       "chibagin-securities",
@@ -108,7 +108,6 @@
       "yokohama-bank-leasing"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/acom",
       "https://finwiki.zksc.io/aeon-financial-service",
       "https://finwiki.zksc.io/aiful",
@@ -119,6 +118,7 @@
       "https://finwiki.zksc.io/banking/regional-bank-api-digital-partnership-route",
       "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
       "https://finwiki.zksc.io/bnpl-landscape",
+      "https://finwiki.zksc.io/card-issuers/INDEX",
       "https://finwiki.zksc.io/chiba-bank",
       "https://finwiki.zksc.io/chibagin-leasing",
       "https://finwiki.zksc.io/chibagin-securities",
@@ -156,9 +156,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6613,
-    "word_like_tokens": 1022,
+    "nonspace_chars": 6633,
+    "word_like_tokens": 1026,
     "inbound_wikilinks_count": 1,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

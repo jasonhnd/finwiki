@@ -42,7 +42,7 @@
       "EDINET 有価証券報告書検索"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against トヨタファイナンシャルサービス (TFS) (the Toyota-group captive auto-finance holding, distinct from this 商社系 internal-treasury arm) and トヨタファイナンス (the auto-loan / Toyota dealer finance operating company). For peer 商社系 group-treasury arms, see 三菱商事FS, 三井物産FS, 住友商事",
+  "summary": "This entry sits under trading-company-finance INDEX. Read it against トヨタファイナンシャルサービス (TFS) (the Toyota-group captive auto-finance holding, distinct from this 商社系 internal-treasury arm) and トヨタファイナンス (the auto-loan / Toyota dealer finance operating company). For peer 商社系 group-treasury arms, see 三菱商事",
   "headings": [
     "豊田通商フィナンス (Toyota Tsusho Finance)",
     "Wiki route",
@@ -58,7 +58,6 @@
   "body_links": {
     "wikilinks_count": 19,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "card-issuers/jcb",
       "card-issuers/toyota-finance",
@@ -71,6 +70,7 @@
       "leasing-firms/tokyo-century",
       "leasing-firms/toyota-financial",
       "megabanks/mufg",
+      "trading-company-finance/INDEX",
       "trading-company-finance/itochu-finance",
       "trading-company-finance/marubeni-financial-services",
       "trading-company-finance/mitsubishi-corp-finance",
@@ -79,7 +79,6 @@
       "trading-company-finance/sumitomo-corp-financial-management"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/card-issuers/jcb",
       "https://finwiki.zksc.io/card-issuers/toyota-finance",
@@ -92,6 +91,7 @@
       "https://finwiki.zksc.io/leasing-firms/tokyo-century",
       "https://finwiki.zksc.io/leasing-firms/toyota-financial",
       "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/trading-company-finance/INDEX",
       "https://finwiki.zksc.io/trading-company-finance/itochu-finance",
       "https://finwiki.zksc.io/trading-company-finance/marubeni-financial-services",
       "https://finwiki.zksc.io/trading-company-finance/mitsubishi-corp-finance",
@@ -103,9 +103,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4428,
-    "word_like_tokens": 628,
+    "nonspace_chars": 4460,
+    "word_like_tokens": 632,
     "inbound_wikilinks_count": 11,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

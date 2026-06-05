@@ -1,5 +1,5 @@
 ---
-source: japanfg/hsbc-japan
+source: foreign-financial-institutions/hsbc-japan
 source_hash: 30223cf24a093d83
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:25:12.429Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に位置づける。比較対象・対照軸として [[foreign-financial-institutions/citigroup-japan|シティグループ・ジャパン (Citigroup Japan)]] を、より広い制度・規制上の境界として [[banking/INDEX|banking index]] を併読する。
+この項目は [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]] の配下に位置づける。比較対象・対照軸として [[foreign-financial-institutions/citigroup-japan|シティグループ・ジャパン (Citigroup Japan)]] を、より広い制度・規制上の境界として [[banking/INDEX|banking index]] を併読する。
 
 ## 要約
 

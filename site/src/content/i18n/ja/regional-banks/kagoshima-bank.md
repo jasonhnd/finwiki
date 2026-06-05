@@ -1,5 +1,5 @@
 ---
-source: japanfg/kagoshima-bank
+source: regional-banks/kagoshima-bank
 source_hash: 989c06231d7b4820
 lang: ja
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-02T14:54:39.057Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の下に位置づけられる。比較対象・対照関係は [[regional-banks/fukuoka-bank|福岡銀行]]、より広い制度・規制上の境界は [[banking/INDEX|banking index]] とあわせて読む。
+この項目は [[regional-banks/INDEX|regional-banks INDEX]] の下に位置づけられる。比較対象・対照関係は [[regional-banks/fukuoka-bank|福岡銀行]]、より広い制度・規制上の境界は [[banking/INDEX|banking index]] とあわせて読む。
 
 ## 要約
 

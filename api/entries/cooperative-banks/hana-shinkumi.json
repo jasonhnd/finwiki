@@ -45,7 +45,7 @@
       "中小企業等協同組合法"
     ]
   },
-  "summary": "This entry sits under JapanFG index as a 首都圏 (Tokyo) 在日コリアン民族系 shinkumi anchor, peer to 大阪商銀信用組合 (Kansai 商銀系)・横浜幸銀信用組合 (Kanagawa 幸銀系)・信用組合愛知商銀 (Chukyo 商銀系) within the broader Korean-business shinkumi sub-population catalogued in Japan credit cooperative registry.",
+  "summary": "This entry sits under cooperative-banks INDEX as a 首都圏 (Tokyo) 在日コリアン民族系 shinkumi anchor, peer to 大阪商銀信用組合 (Kansai 商銀系)・横浜幸銀信用組合 (Kanagawa 幸銀系)・信用組合愛知商銀 (Chukyo 商銀系) within the broader Korean-business shinkumi sub-population catalogued in Japan credit cooperative registry.",
   "headings": [
     "ハナ信用組合 (Hana Credit Cooperative)",
     "Wiki route",
@@ -61,9 +61,9 @@
   "body_links": {
     "wikilinks_count": 9,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/cooperative-banking-japan",
       "banking/credit-cooperative-registry-japan",
+      "cooperative-banks/INDEX",
       "cooperative-banks/aichi-shogin-shinkumi",
       "cooperative-banks/iwaki-shinkumi",
       "cooperative-banks/osaka-shogin-shinkumi",
@@ -72,9 +72,9 @@
       "financial-regulators/dic"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/cooperative-banking-japan",
       "https://finwiki.zksc.io/banking/credit-cooperative-registry-japan",
+      "https://finwiki.zksc.io/cooperative-banks/INDEX",
       "https://finwiki.zksc.io/cooperative-banks/aichi-shogin-shinkumi",
       "https://finwiki.zksc.io/cooperative-banks/iwaki-shinkumi",
       "https://finwiki.zksc.io/cooperative-banks/osaka-shogin-shinkumi",
@@ -88,9 +88,9 @@
     ]
   },
   "metrics": {
-    "nonspace_chars": 4512,
-    "word_like_tokens": 633,
+    "nonspace_chars": 4552,
+    "word_like_tokens": 637,
     "inbound_wikilinks_count": 2,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

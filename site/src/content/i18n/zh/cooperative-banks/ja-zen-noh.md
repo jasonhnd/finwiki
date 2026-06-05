@@ -1,5 +1,5 @@
 ---
-source: japanfg/ja-zen-noh
+source: cooperative-banks/ja-zen-noh
 source_hash: b62491426b1c9741
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:59:49.334Z
 
 ## Wiki 路线
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下，是 **JA Group 的经济事业联合会**，与 [[cooperative-banks/norinchukin|農林中央金庫 (信用)]] / [[non-life-insurers/ja-kyosairen|JA 共済連 (共済)]] / [[cooperative-banks/ja-zenchu|JA 全中 (代表)]] 并列。可与 [[banking/ja-bank-system-japan|JA Bank system]] 一并阅读以理解信用侧邻接关系，并参照 [[banking/cooperative-banking-japan|cooperative banking domain]] 理解系统边界。
+本条目位于 [[cooperative-banks/INDEX|cooperative-banks INDEX]] 之下，是 **JA Group 的经济事业联合会**，与 [[cooperative-banks/norinchukin|農林中央金庫 (信用)]] / [[non-life-insurers/ja-kyosairen|JA 共済連 (共済)]] / [[cooperative-banks/ja-zenchu|JA 全中 (代表)]] 并列。可与 [[banking/ja-bank-system-japan|JA Bank system]] 一并阅读以理解信用侧邻接关系，并参照 [[banking/cooperative-banking-japan|cooperative banking domain]] 理解系统边界。
 
 ## TL;DR
 
@@ -105,7 +105,7 @@ translated_at: 2026-05-31T23:59:49.334Z
 - [[cooperative-banks/ja-mitsui-leasing]] — JA 集团 leasing 功能示例
 - [[banking/ja-bank-system-japan]] — JA Bank system
 - [[banking/cooperative-banking-japan]] — 协同组织金融整体
-- [[JapanFG/INDEX|JapanFG index]]
+- [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 
 ## Sources
 

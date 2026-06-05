@@ -1,5 +1,5 @@
 ---
-source: japanfg/boj-financial-system-dept
+source: financial-regulators/boj-financial-system-dept
 source_hash: 0855d72073427a4c
 lang: ja
 status: machine
@@ -10,7 +10,7 @@ translated_at: 2026-06-02T14:01:20.947Z
 # 金融機構局 (BoJ Financial System and Bank Examination Department)
 
 ## ウィキ上の位置づけ
-この項目は [[JapanFG/INDEX|JapanFG index]] の下に位置づける。BoJ の市場オペレーション側の相手方は [[financial-regulators/boj-financial-markets-dept|金融市場局]]、規制外縁の対照は [[financial-regulators/fsa-supervision-bureau|FSA 監督局]] と照らして読む。より広い健全性システムでは [[financial-regulators/boj-monetary-policy|BoJ monetary policy]] と [[banking/INDEX|banking landscape]] を通じて位置づける。
+この項目は [[financial-regulators/INDEX|financial-regulators INDEX]] の下に位置づける。BoJ の市場オペレーション側の相手方は [[financial-regulators/boj-financial-markets-dept|金融市場局]]、規制外縁の対照は [[financial-regulators/fsa-supervision-bureau|FSA 監督局]] と照らして読む。より広い健全性システムでは [[financial-regulators/boj-monetary-policy|BoJ monetary policy]] と [[banking/INDEX|banking landscape]] を通じて位置づける。
 
 ## 要約
 

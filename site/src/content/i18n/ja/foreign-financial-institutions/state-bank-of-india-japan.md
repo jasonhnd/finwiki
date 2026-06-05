@@ -1,5 +1,5 @@
 ---
-source: japanfg/state-bank-of-india-japan
+source: foreign-financial-institutions/state-bank-of-india-japan
 source_hash: 437b91a8af75f0ae
 lang: ja
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-06-02T15:14:17.083Z
 
 State Bank of India Japanは、[[foreign-financial-institutions/foreign-bank-branches-japan-index|the foreign-bank branch registry]] におけるインド-日本間の銀行回廊を扱う主要ページである。[[foreign-financial-institutions/bank-of-india-japan|Bank of India Japan]]、[[financial-regulators/jbic|JBIC]]、[[finance/cross-border-m-a-japan|cross-border M&A Japan]]、[[financial-licenses/foreign-bank-agency-business-route|foreign-bank agency route]] とあわせて読む。
 
-この項目はまず [[JapanFG/INDEX|JapanFG index]] を通して位置づけ、そのうえで支店銀行業務の文脈には [[banking/INDEX|banking domain]]、公開M&Aやプロジェクトファイナンスの論点には [[finance/INDEX|finance domain]] を使う。
+この項目はまず [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]] を通して位置づけ、そのうえで支店銀行業務の文脈には [[banking/INDEX|banking domain]]、公開M&Aやプロジェクトファイナンスの論点には [[finance/INDEX|finance domain]] を使う。
 
 ## 概要
 
@@ -66,7 +66,7 @@ State Bank of India Japanは、インド-日本間のホールセール銀行イ
 
 ## 関連
 
-- [[JapanFG/INDEX]]
+- [[foreign-financial-institutions/INDEX]]
 - [[foreign-financial-institutions/foreign-bank-branches-japan-index]]
 - [[foreign-financial-institutions/bank-of-india-japan]]
 - [[financial-regulators/jbic]]

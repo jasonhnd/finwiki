@@ -17,7 +17,7 @@ sources:
 
 # Chubb Insurance Japan / Chubb損害保険
 
-Wiki route: [[JapanFG/INDEX]] -> [[insurance/INDEX]] -> [[non-life-insurers/chubb-insurance-japan]]
+Wiki route: [[non-life-insurers/INDEX]] -> [[insurance/INDEX]] -> [[non-life-insurers/chubb-insurance-japan]]
 
 ## Overview
 

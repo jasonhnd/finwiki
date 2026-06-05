@@ -1,5 +1,5 @@
 ---
-source: japanfg/sbi-securities
+source: securities-firms/sbi-securities
 source_hash: 871f96b2f9585b9b
 lang: en
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-01T00:41:50.437Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[securities-firms/paypay-securities|PayPay証券]] for peer / contrast context and [[securities/INDEX|securities index]] for the broader system / regulatory boundary.
+This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it against [[securities-firms/paypay-securities|PayPay証券]] for peer / contrast context and [[securities/INDEX|securities index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 

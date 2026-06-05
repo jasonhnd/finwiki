@@ -64,9 +64,8 @@
     "What regional banks can and cannot do"
   ],
   "body_links": {
-    "wikilinks_count": 29,
+    "wikilinks_count": 28,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "banking/baas-japan-landscape",
       "banking/gmo-aozora-net-bank",
@@ -97,7 +96,6 @@
       "trust-banks/sumitomo-mitsui-trust"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/baas-japan-landscape",
       "https://finwiki.zksc.io/banking/gmo-aozora-net-bank",
@@ -131,9 +129,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 13507,
-    "word_like_tokens": 2165,
+    "nonspace_chars": 13489,
+    "word_like_tokens": 2163,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

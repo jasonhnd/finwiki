@@ -1,5 +1,5 @@
 ---
-source: japanfg/chubb-insurance-japan
+source: non-life-insurers/chubb-insurance-japan
 source_hash: 16b41a12e22fef6f
 lang: en
 status: machine
@@ -10,7 +10,7 @@ translated_at: 2026-05-31T11:13:44.883Z
 
 # Chubb Insurance Japan / Chubb General Insurance
 
-Wiki route:[[JapanFG/INDEX]] -> [[insurance/INDEX]] -> [[non-life-insurers/chubb-insurance-japan]]
+Wiki route:[[non-life-insurers/INDEX]] -> [[insurance/INDEX]] -> [[non-life-insurers/chubb-insurance-japan]]
 
 ## Overview
 

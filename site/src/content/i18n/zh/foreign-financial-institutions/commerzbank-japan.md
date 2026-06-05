@@ -1,5 +1,5 @@
 ---
-source: japanfg/commerzbank-japan
+source: foreign-financial-institutions/commerzbank-japan
 source_hash: 95ef46e29467396b
 lang: zh
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-05-31T11:13:44.957Z
 
 ## Wiki 路径
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可与 [[foreign-financial-institutions/credit-agricole-bank-japan|法国农业信贷银行东京支店]] 对照阅读，并结合 [[banking/INDEX|banking index]] 理解更广的银行系统与监管边界。
+本条目位于 [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]] 之下。可与 [[foreign-financial-institutions/credit-agricole-bank-japan|法国农业信贷银行东京支店]] 对照阅读，并结合 [[banking/INDEX|banking index]] 理解更广的银行系统与监管边界。
 
 ## TL;DR
 

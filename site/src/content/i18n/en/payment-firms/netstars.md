@@ -1,5 +1,5 @@
 ---
-source: japanfg/netstars
+source: payment-firms/netstars
 source_hash: 69637c2dc665f2ab
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T00:41:50.421Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it with [[payment-firms/gmo-payment-gateway|GMO Payment Gateway]] and [[payment-firms/dg-financial-technology|DG Financial Technology]] for PSP peer context, and with [[payments/funds-transfer-service-providers-japan-index|funds-transfer registry]] for the broader regulatory boundary.
+This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it with [[payment-firms/gmo-payment-gateway|GMO Payment Gateway]] and [[payment-firms/dg-financial-technology|DG Financial Technology]] for PSP peer context, and with [[payments/funds-transfer-service-providers-japan-index|funds-transfer registry]] for the broader regulatory boundary.
 
 ## Overview
 

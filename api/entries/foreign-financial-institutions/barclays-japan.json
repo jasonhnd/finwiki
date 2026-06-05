@@ -38,7 +38,7 @@
       "Nikkei Asia: Barclays renews Asia focus"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against シティグループ・ジャパン (Citigroup Japan) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under foreign-financial-institutions INDEX. Read it against シティグループ・ジャパン (Citigroup Japan) for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [
     "バークレイズ日本 (Barclays Japan)",
     "Wiki route",
@@ -54,12 +54,12 @@
   "body_links": {
     "wikilinks_count": 17,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "bnp-paribas-japan",
       "citigroup-japan",
       "daiwa-sg",
       "deutsche-japan",
+      "foreign-financial-institutions/INDEX",
       "foreign-financial-institutions/citigroup-japan",
       "goldman-sachs-japan",
       "hsbc-japan",
@@ -73,12 +73,12 @@
       "ubs-japan"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/bnp-paribas-japan",
       "https://finwiki.zksc.io/citigroup-japan",
       "https://finwiki.zksc.io/daiwa-sg",
       "https://finwiki.zksc.io/deutsche-japan",
+      "https://finwiki.zksc.io/foreign-financial-institutions/INDEX",
       "https://finwiki.zksc.io/foreign-financial-institutions/citigroup-japan",
       "https://finwiki.zksc.io/goldman-sachs-japan",
       "https://finwiki.zksc.io/hsbc-japan",
@@ -95,9 +95,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5520,
-    "word_like_tokens": 905,
+    "nonspace_chars": 5566,
+    "word_like_tokens": 909,
     "inbound_wikilinks_count": 9,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

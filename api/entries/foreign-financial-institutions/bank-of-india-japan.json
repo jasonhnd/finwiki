@@ -57,11 +57,11 @@
     "wikilinks_count": 11,
     "wikilinks": [
       "INDEX",
-      "JapanFG/INDEX",
       "banking/INDEX",
       "finance/cross-border-m-a-japan",
       "financial-licenses/foreign-bank-branch-license-route",
       "financial-regulators/jbic",
+      "foreign-financial-institutions/INDEX",
       "foreign-financial-institutions/foreign-bank-branches-japan-index",
       "foreign-financial-institutions/state-bank-of-india-japan",
       "megabanks/mufg-bank",
@@ -70,11 +70,11 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/finance/cross-border-m-a-japan",
       "https://finwiki.zksc.io/financial-licenses/foreign-bank-branch-license-route",
       "https://finwiki.zksc.io/financial-regulators/jbic",
+      "https://finwiki.zksc.io/foreign-financial-institutions/INDEX",
       "https://finwiki.zksc.io/foreign-financial-institutions/foreign-bank-branches-japan-index",
       "https://finwiki.zksc.io/foreign-financial-institutions/state-bank-of-india-japan",
       "https://finwiki.zksc.io/megabanks/mufg-bank",
@@ -85,9 +85,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4481,
-    "word_like_tokens": 719,
+    "nonspace_chars": 4550,
+    "word_like_tokens": 725,
     "inbound_wikilinks_count": 7,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

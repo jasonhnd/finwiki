@@ -1,5 +1,5 @@
 ---
-source: japanfg/goldman-sachs-japan
+source: securities-firms/goldman-sachs-japan
 source_hash: a34002feefccb2ea
 lang: ja
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-02T14:25:12.440Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に位置づける。[[securities-firms/morgan-stanley-japan|モルガン・スタンレー・ジャパン (Morgan Stanley Japan)]] は比較対象の文脈、[[securities/INDEX|securities index]] は制度全体と規制上の境界を確認するために併読する。
+この項目は [[securities-firms/INDEX|securities-firms INDEX]] の配下に位置づける。[[securities-firms/morgan-stanley-japan|モルガン・スタンレー・ジャパン (Morgan Stanley Japan)]] は比較対象の文脈、[[securities/INDEX|securities index]] は制度全体と規制上の境界を確認するために併読する。
 
 ## 要約
 

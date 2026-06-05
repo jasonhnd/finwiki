@@ -1,5 +1,5 @@
 ---
-source: japanfg/johoku-shinkin
+source: cooperative-banks/johoku-shinkin
 source_hash: 9ce05bab2e7f49e6
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:05:42.093Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[cooperative-banks/jonan-shinkin|城南信用金庫]] for peer / contrast context (southwestern Tokyo vs northern Tokyo) inside the Tokyo shinkin block, and [[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]] for the broader system / regulatory boundary maintained by [[cooperative-banks/shinkin-central|信金中央金庫]].
+This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]]. Read it against [[cooperative-banks/jonan-shinkin|城南信用金庫]] for peer / contrast context (southwestern Tokyo vs northern Tokyo) inside the Tokyo shinkin block, and [[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]] for the broader system / regulatory boundary maintained by [[cooperative-banks/shinkin-central|信金中央金庫]].
 
 ## TL;DR
 

@@ -1,5 +1,5 @@
 ---
-source: japanfg/smartbank
+source: payment-firms/smartbank
 source_hash: 98b1067834ebfab8
 lang: ja
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-06-02T15:14:17.089Z
 
 ## ウィキ上の位置づけ
 
-本項目は[[JapanFG/INDEX|JapanFG index]]配下に置く。[[payment-firms/au-payment|auペイメント (au Payment)]]とは同業・対比の文脈で、[[payments/INDEX|payments index]]とはより広い制度・規制上の境界を読むために参照する。
+本項目は[[payment-firms/INDEX|payment-firms INDEX]]配下に置く。[[payment-firms/au-payment|auペイメント (au Payment)]]とは同業・対比の文脈で、[[payments/INDEX|payments index]]とはより広い制度・規制上の境界を読むために参照する。
 
 ## 要約
 

@@ -1,5 +1,5 @@
 ---
-source: japanfg/daito-mirai-trust
+source: trust-banks/daito-mirai-trust
 source_hash: ae3a15f0c3fa1a64
 lang: en
 status: machine
@@ -10,7 +10,7 @@ translated_at: 2026-05-31T15:29:03.960Z
 
 # Daito Mirai Trust / Daito Mirai Trust
 
-Wiki route: [[JapanFG/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/daito-mirai-trust]]
+Wiki route: [[trust-banks/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/daito-mirai-trust]]
 
 ## Overview
 

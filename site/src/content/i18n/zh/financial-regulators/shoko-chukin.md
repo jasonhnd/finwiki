@@ -1,5 +1,5 @@
 ---
-source: japanfg/shoko-chukin
+source: financial-regulators/shoko-chukin
 source_hash: 9bb0d146db3aa019
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.116Z
 
 ## 维基路线
 
-该条目位于 [[JapanFG/INDEX|JapanFG index]] 下。针对同行/对比上下文阅读 [[megabanks/mufg|三菱 UFJ FG (MUFG)]]，针对更广泛的系统/监管边界阅读 [[banking/INDEX|banking index]]。
+该条目位于 [[financial-regulators/INDEX|financial-regulators INDEX]] 下。针对同行/对比上下文阅读 [[megabanks/mufg|三菱 UFJ FG (MUFG)]]，针对更广泛的系统/监管边界阅读 [[banking/INDEX|banking index]]。
 
 ## 长篇大论；博士
 

@@ -1,5 +1,5 @@
 ---
-source: japanfg/hyakugo-bank
+source: regional-banks/hyakugo-bank
 source_hash: e4f024ea239c516b
 lang: ja
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-02T14:25:12.435Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の下に置く。比較対象・対照軸は [[regional-banks/fukuoka-fg|ふくおか FG (FFG)]]、より広い制度・規制境界は [[banking/INDEX|banking index]] とあわせて読む。
+この項目は [[regional-banks/INDEX|regional-banks INDEX]] の下に置く。比較対象・対照軸は [[regional-banks/fukuoka-fg|ふくおか FG (FFG)]]、より広い制度・規制境界は [[banking/INDEX|banking index]] とあわせて読む。
 
 ## 要約
 

@@ -12,7 +12,7 @@ translated_at: 2026-05-30T15:31:43.926Z
 
 ## Wiki route
 
-This entry sits under [[manufacturer-finance/INDEX|manufacturing index]]. Read it against [[manufacturer-finance/toyota-motor|Toyota Motor]] and [[manufacturer-finance/mitsubishi-heavy-export-finance|Mitsubishi Heavy export finance]] for peer industrial-finance contrast, [[leasing-firms/hitachi-capital|former 日立Capital]] for the legacy captive-leasing entity history, [[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]] for the post-2021 surviving merged entity, and [[JapanFG/INDEX|JapanFG index]] for the broader system / regulatory boundary.
+This entry sits under [[manufacturer-finance/INDEX|manufacturing index]]. Read it against [[manufacturer-finance/toyota-motor|Toyota Motor]] and [[manufacturer-finance/mitsubishi-heavy-export-finance|Mitsubishi Heavy export finance]] for peer industrial-finance contrast, [[leasing-firms/hitachi-capital|former 日立Capital]] for the legacy captive-leasing entity history, [[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]] for the post-2021 surviving merged entity, and [[manufacturer-finance/INDEX|manufacturer-finance INDEX]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
@@ -98,7 +98,7 @@ Large UK-bound rail deals such as Hitachi Rail UK's **Class 800 / 802** or the *
 - [[manufacturer-finance/mitsubishi-heavy-export-finance|MHI 輸出金融]] · [[manufacturer-finance/panasonic-captive-finance|Panasonic 顧客金融]] · [[manufacturer-finance/sony-group-finance-arm|Sony FG]] · [[manufacturer-finance/toyota-financial-services|Toyota Financial Services]]
 - [[financial-regulators/jbic|JBIC]] · [[policy-finance/nexi|NEXI]] · [[megabanks/mufg|MUFG]] · [[megabanks/smfg|SMFG]] · [[megabanks/mizuho-fg|Mizuho FG]]
 - [[leasing-firms/orix-corp|ORIX]] · [[leasing-firms/tokyo-century|東京Century]]
-- [[manufacturer-finance/INDEX|manufacturing INDEX]] · [[JapanFG/INDEX|JapanFG INDEX]] · [[INDEX|FinWiki index]]
+- [[manufacturer-finance/INDEX|manufacturing INDEX]] · [[manufacturer-finance/INDEX|manufacturer-finance INDEX]] · [[INDEX|FinWiki index]]
 
 ## Sources
 

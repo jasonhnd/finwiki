@@ -201,7 +201,6 @@ The rates-derivative product matrix is a public-surface tool. When reading any s
 - [[finance/japan-corporate-fx-and-rate-hedge-policy]]
 - [[securities/japan-securities-clearing-corp]]
 - [[banking/INDEX]]
-- [[JapanFG/INDEX]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

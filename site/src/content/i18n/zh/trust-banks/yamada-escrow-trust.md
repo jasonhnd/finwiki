@@ -1,5 +1,5 @@
 ---
-source: japanfg/yamada-escrow-trust
+source: trust-banks/yamada-escrow-trust
 source_hash: 5291191b273f7916
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-01T02:31:57.157Z
 
 ## Wiki route
 
-Yamada Escrow Trust 是 [[JapanFG/INDEX|JapanFG]] 之下的独立信托公司路线，并由 [[trust-banks/trust-companies-japan-index|the Japan trust companies registry index]] 提升而来。可与 [[finance/japan-mbo-and-squeeze-out-process|Japan MBO / squeeze-out process]]、[[finance/japan-acquisition-finance|Japan acquisition finance]]、[[trust-banks/escrow-agent-japan-trust|Escrow Agent Japan Trust]] 一起阅读。
+Yamada Escrow Trust 是 [[trust-banks/INDEX|trust-banks INDEX]] 之下的独立信托公司路线，并由 [[trust-banks/trust-companies-japan-index|the Japan trust companies registry index]] 提升而来。可与 [[finance/japan-mbo-and-squeeze-out-process|Japan MBO / squeeze-out process]]、[[finance/japan-acquisition-finance|Japan acquisition finance]]、[[trust-banks/escrow-agent-japan-trust|Escrow Agent Japan Trust]] 一起阅读。
 
 涉及 escrow trust、不动产交易保护、M&A 价款留置，以及高龄者住宅 / 葬仪服务预付款保护的问题，可使用本页。
 
@@ -58,7 +58,7 @@ Yamada Escrow Trust 是一个重要的 Priority B 页面，因为它把信托公
 
 ## Related
 
-- [[JapanFG/INDEX]]
+- [[trust-banks/INDEX]]
 - [[trust-banks/trust-companies-japan-index]]
 - [[trust-banks/escrow-agent-japan-trust]]
 - [[finance/japan-acquisition-finance]]

@@ -37,7 +37,7 @@
       "https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against REVOLUT TECHNOLOGIES JAPAN for peer / contrast context and payments index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under payment-firms INDEX. Read it against REVOLUT TECHNOLOGIES JAPAN for peer / contrast context and payments index for the broader system / regulatory boundary.",
   "headings": [
     "PayPal Pte. Ltd. Japan service boundary",
     "Wiki route",
@@ -51,7 +51,7 @@
   "body_links": {
     "wikilinks_count": 9,
     "wikilinks": [
-      "JapanFG/INDEX",
+      "payment-firms/INDEX",
       "payment-firms/airwallex-japan",
       "payment-firms/payoneer-japan",
       "payment-firms/paypay",
@@ -62,7 +62,7 @@
       "payments/funds-transfer-vs-prepaid-boundary"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/payment-firms/INDEX",
       "https://finwiki.zksc.io/payment-firms/airwallex-japan",
       "https://finwiki.zksc.io/payment-firms/payoneer-japan",
       "https://finwiki.zksc.io/payment-firms/paypay",
@@ -76,9 +76,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2325,
-    "word_like_tokens": 359,
+    "nonspace_chars": 2337,
+    "word_like_tokens": 361,
     "inbound_wikilinks_count": 11,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

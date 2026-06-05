@@ -1,5 +1,5 @@
 ---
-source: japanfg/sbi-insurance
+source: non-life-insurers/sbi-insurance
 source_hash: 3d5d46565ae436e5
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T00:41:50.401Z
 
 ## Wiki 路由
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。请结合 [[non-life-insurers/sony-insurance|ソニー損害保険]] 阅读，以取得同业 / 对比语境；并结合 [[insurance/INDEX|insurance index]] 阅读，以理解更广泛的体系 / 监管边界。
+本条目位于 [[non-life-insurers/INDEX|non-life-insurers INDEX]] 之下。请结合 [[non-life-insurers/sony-insurance|ソニー損害保険]] 阅读，以取得同业 / 对比语境；并结合 [[insurance/INDEX|insurance index]] 阅读，以理解更广泛的体系 / 监管边界。
 
 ## TL;DR
 

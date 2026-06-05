@@ -1,5 +1,5 @@
 ---
-source: japanfg/saison-automobile-fire-insurance
+source: non-life-insurers/saison-automobile-fire-insurance
 source_hash: cd532720e5961ed1
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T00:41:50.456Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]] as the operating-company anchor for the direct non-life insurer historically known as Saison Automobile & Fire Insurance and now operating as SOMPO Direct General Insurance. Read it against [[non-life-insurers/sompo|SOMPO HD]] for the parent group context, [[megabanks/sony-fg|Sony FG]] for the direct-auto peer comparison, and [[card-issuers/credit-saison|Credit Saison]] for the historical Saison-group origin. Cross-link to [[insurance/saison-automobile-fire|the insurance/ deep-dive]] for the direct-channel and product-level analysis.
+This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]] as the operating-company anchor for the direct non-life insurer historically known as Saison Automobile & Fire Insurance and now operating as SOMPO Direct General Insurance. Read it against [[non-life-insurers/sompo|SOMPO HD]] for the parent group context, [[megabanks/sony-fg|Sony FG]] for the direct-auto peer comparison, and [[card-issuers/credit-saison|Credit Saison]] for the historical Saison-group origin. Cross-link to [[insurance/saison-automobile-fire|the insurance/ deep-dive]] for the direct-channel and product-level analysis.
 
 ## TL;DR
 
@@ -129,7 +129,7 @@ The company organized the old Seibu Saison group-origin name "Saison Automobile 
 - [[insurance/sony-assurance]] — direct auto-insurance peer
 - [[insurance/axa-direct]] — direct auto-insurance peer, foreign-affiliated
 - [[insurance/INDEX]] — insurance namespace index
-- [[JapanFG/INDEX]] — JapanFG namespace index
+- [[non-life-insurers/INDEX]] — JapanFG namespace index
 
 ## Sources
 

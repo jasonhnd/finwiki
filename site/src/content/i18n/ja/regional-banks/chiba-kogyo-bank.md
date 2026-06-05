@@ -1,5 +1,5 @@
 ---
-source: japanfg/chiba-kogyo-bank
+source: regional-banks/chiba-kogyo-bank
 source_hash: 9f57a1966f84b084
 lang: ja
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-02T14:01:20.903Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の下に位置する。ピア比較・対比の文脈は [[regional-banks/jimoto-hd|じもとホールディングス (JIMOTO HD)]]、より広いシステム / 規制境界は [[banking/INDEX|banking index]] とあわせて読む。
+この項目は [[regional-banks/INDEX|regional-banks INDEX]] の下に位置する。ピア比較・対比の文脈は [[regional-banks/jimoto-hd|じもとホールディングス (JIMOTO HD)]]、より広いシステム / 規制境界は [[banking/INDEX|banking index]] とあわせて読む。
 
 ## 要約
 

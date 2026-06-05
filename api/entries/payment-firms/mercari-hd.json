@@ -42,7 +42,7 @@
       "メルペイ・メルコイン 公式サービス資料"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against マネックスグループ (Monex Group) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under payment-firms INDEX. Read it against マネックスグループ (Monex Group) for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [
     "メルカリ HD（株式会社メルカリ）",
     "Wiki route",
@@ -58,7 +58,6 @@
   "body_links": {
     "wikilinks_count": 14,
     "wikilinks": [
-      "JapanFG/INDEX",
       "au-fh",
       "banking/INDEX",
       "banking/mercari-bank-license-stack",
@@ -66,6 +65,7 @@
       "mizuho-fg",
       "mufg",
       "ndfg",
+      "payment-firms/INDEX",
       "payment-firms/merpay",
       "paypay-fg",
       "rakuten-fg",
@@ -74,7 +74,6 @@
       "smfg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/au-fh",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/mercari-bank-license-stack",
@@ -82,6 +81,7 @@
       "https://finwiki.zksc.io/mizuho-fg",
       "https://finwiki.zksc.io/mufg",
       "https://finwiki.zksc.io/ndfg",
+      "https://finwiki.zksc.io/payment-firms/INDEX",
       "https://finwiki.zksc.io/payment-firms/merpay",
       "https://finwiki.zksc.io/paypay-fg",
       "https://finwiki.zksc.io/rakuten-fg",
@@ -93,9 +93,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6350,
-    "word_like_tokens": 1184,
+    "nonspace_chars": 6362,
+    "word_like_tokens": 1186,
     "inbound_wikilinks_count": 10,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

@@ -34,7 +34,7 @@
       "JVCEA 会員名簿"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against マネックスグループ (Monex Group) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under payment-firms INDEX. Read it against マネックスグループ (Monex Group) for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [
     "bitFlyer (株式会社ビットフライヤー / bitFlyer Holdings)",
     "Wiki route",
@@ -50,7 +50,6 @@
   "body_links": {
     "wikilinks_count": 12,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "exchanges/jp-exchange-bitbank",
       "exchanges/jp-exchange-coincheck",
@@ -59,12 +58,12 @@
       "gmo-coin",
       "mufg",
       "ndfg",
+      "payment-firms/INDEX",
       "sbi-hd",
       "securities-firms/monex-group",
       "systems/bitflyer-blockchain"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/exchanges/jp-exchange-bitbank",
       "https://finwiki.zksc.io/exchanges/jp-exchange-coincheck",
@@ -73,6 +72,7 @@
       "https://finwiki.zksc.io/gmo-coin",
       "https://finwiki.zksc.io/mufg",
       "https://finwiki.zksc.io/ndfg",
+      "https://finwiki.zksc.io/payment-firms/INDEX",
       "https://finwiki.zksc.io/sbi-hd",
       "https://finwiki.zksc.io/securities-firms/monex-group",
       "https://finwiki.zksc.io/systems/bitflyer-blockchain"
@@ -81,9 +81,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4989,
-    "word_like_tokens": 798,
+    "nonspace_chars": 5001,
+    "word_like_tokens": 800,
     "inbound_wikilinks_count": 8,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

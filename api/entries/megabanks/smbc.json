@@ -36,7 +36,7 @@
       "金融庁 銀行免許一覧 (2026-05-25 参照)"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against SMFG (親会社), MUFG 銀行, みずほ銀行 for peer / contrast (3 大メガバンク), and 金融庁 / 日本銀行 for the broader regulatory boundary.",
+  "summary": "This entry sits under megabanks INDEX. Read it against SMFG (親会社), MUFG 銀行, みずほ銀行 for peer / contrast (3 大メガバンク), and 金融庁 / 日本銀行 for the broader regulatory boundary.",
   "headings": [
     "株式会社三井住友銀行 (SMBC)",
     "Wiki route",
@@ -52,7 +52,6 @@
   "body_links": {
     "wikilinks_count": 16,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "card-issuers/jcb",
       "card-issuers/smbc-card",
@@ -60,6 +59,7 @@
       "financial-regulators/boj",
       "financial-regulators/dic",
       "financial-regulators/fsa",
+      "megabanks/INDEX",
       "megabanks/mizuho-bank",
       "megabanks/mizuho-fg",
       "megabanks/mufg",
@@ -70,7 +70,6 @@
       "trust-banks/smbc-trust-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/card-issuers/jcb",
       "https://finwiki.zksc.io/card-issuers/smbc-card",
@@ -78,6 +77,7 @@
       "https://finwiki.zksc.io/financial-regulators/boj",
       "https://finwiki.zksc.io/financial-regulators/dic",
       "https://finwiki.zksc.io/financial-regulators/fsa",
+      "https://finwiki.zksc.io/megabanks/INDEX",
       "https://finwiki.zksc.io/megabanks/mizuho-bank",
       "https://finwiki.zksc.io/megabanks/mizuho-fg",
       "https://finwiki.zksc.io/megabanks/mufg",
@@ -91,9 +91,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4844,
+    "nonspace_chars": 4852,
     "word_like_tokens": 788,
     "inbound_wikilinks_count": 7,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

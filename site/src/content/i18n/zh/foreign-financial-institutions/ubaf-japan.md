@@ -1,5 +1,5 @@
 ---
-source: japanfg/ubaf-japan
+source: foreign-financial-institutions/ubaf-japan
 source_hash: d3e4b9e8bfd8f389
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.114Z
 
 ## Wiki route
 
-UBAF Japan 位于 [[JapanFG/INDEX|JapanFG index]] 下，是 [[foreign-financial-institutions/foreign-bank-branches-japan-index|the foreign-bank branch registry]] 中与法国相关的外资银行分行路线。可与 [[foreign-financial-institutions/credit-agricole-bank-japan|Credit Agricole Bank Japan]]、[[foreign-financial-institutions/bnp-paribas-japan|BNP Paribas Japan]]、[[foreign-financial-institutions/natixis-japan|Natixis Japan]] 和 [[banking/INDEX|banking index]] 一起阅读。
+UBAF Japan 位于 [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]] 下，是 [[foreign-financial-institutions/foreign-bank-branches-japan-index|the foreign-bank branch registry]] 中与法国相关的外资银行分行路线。可与 [[foreign-financial-institutions/credit-agricole-bank-japan|Credit Agricole Bank Japan]]、[[foreign-financial-institutions/bnp-paribas-japan|BNP Paribas Japan]]、[[foreign-financial-institutions/natixis-japan|Natixis Japan]] 和 [[banking/INDEX|banking index]] 一起阅读。
 
 本页用于围绕 Union de Banques Arabes et Françaises 的 trade-finance、correspondent-banking、欧洲-亚洲-阿拉伯世界资金流，以及东京分行清算问题。
 
@@ -56,7 +56,7 @@ UBAF 应被解读为 specialist foreign-bank branch。对 FinWiki 来说，它�
 
 ## Related
 
-- [[JapanFG/INDEX]]
+- [[foreign-financial-institutions/INDEX]]
 - [[foreign-financial-institutions/foreign-bank-branches-japan-index]]
 - [[foreign-financial-institutions/credit-agricole-bank-japan]]
 - [[foreign-financial-institutions/bnp-paribas-japan]]

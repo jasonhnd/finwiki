@@ -34,7 +34,7 @@
       "全国地方銀行協会 加盟行公開情報"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against ふくおか FG (FFG) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under regional-banks INDEX. Read it against ふくおか FG (FFG) for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [
     "百五銀行 (Hyakugo Bank)",
     "Wiki route",
@@ -50,21 +50,21 @@
   "body_links": {
     "wikilinks_count": 8,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "hyakujushi-bank",
       "mizuho-fg",
       "mufg",
+      "regional-banks/INDEX",
       "regional-banks/fukuoka-fg",
       "san-jusan-fg",
       "smfg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/hyakujushi-bank",
       "https://finwiki.zksc.io/mizuho-fg",
       "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/regional-banks/INDEX",
       "https://finwiki.zksc.io/regional-banks/fukuoka-fg",
       "https://finwiki.zksc.io/san-jusan-fg",
       "https://finwiki.zksc.io/smfg"
@@ -73,9 +73,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2907,
-    "word_like_tokens": 423,
+    "nonspace_chars": 2921,
+    "word_like_tokens": 425,
     "inbound_wikilinks_count": 1,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

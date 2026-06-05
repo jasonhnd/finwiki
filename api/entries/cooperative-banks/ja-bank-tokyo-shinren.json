@@ -45,7 +45,7 @@
       "農業協同組合法 (昭和 22 年法律第 132 号)"
     ]
   },
-  "summary": "This entry sits under JapanFG index as the first JA-Bank prefectural credit-federation (信連) operating-company anchor in FinWiki, closing the audit gap that JA 信連 (集合的) was documented but no prefectural 信連 anchor existed. Tokyo was selected for its urban-agriculture + 直結方式 (direct-link) borderline ca",
+  "summary": "This entry sits under cooperative-banks INDEX as the first JA-Bank prefectural credit-federation (信連) operating-company anchor in FinWiki, closing the audit gap that JA 信連 (集合的) was documented but no prefectural 信連 anchor existed. Tokyo was selected for its urban-agriculture + 直結方式 (direct-link) bor",
   "headings": [
     "JA バンク東京信連 (東京都信用農業協同組合連合会 / JA Tokyo Shinren)",
     "Wiki route",
@@ -61,9 +61,9 @@
   "body_links": {
     "wikilinks_count": 12,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/cooperative-banking-japan",
       "banking/ja-bank-system-japan",
+      "cooperative-banks/INDEX",
       "cooperative-banks/ja-kyosairen-fukushima",
       "cooperative-banks/ja-shinnoren",
       "cooperative-banks/ja-zen-noh",
@@ -75,9 +75,9 @@
       "regional-banks/yokohama-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/cooperative-banking-japan",
       "https://finwiki.zksc.io/banking/ja-bank-system-japan",
+      "https://finwiki.zksc.io/cooperative-banks/INDEX",
       "https://finwiki.zksc.io/cooperative-banks/ja-kyosairen-fukushima",
       "https://finwiki.zksc.io/cooperative-banks/ja-shinnoren",
       "https://finwiki.zksc.io/cooperative-banks/ja-zen-noh",
@@ -92,9 +92,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5282,
-    "word_like_tokens": 878,
+    "nonspace_chars": 5322,
+    "word_like_tokens": 882,
     "inbound_wikilinks_count": 3,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

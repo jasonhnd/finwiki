@@ -38,7 +38,7 @@
       "https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html"
     ]
   },
-  "summary": "This entry sits under the JapanFG index as a white-label fintech vendor that sits one layer below the consumer-facing wallets. Read it together with the Japan BNPL landscape for the BNPL-adjacent payment context, the DG Financial Technology and FamiMa Digital One peers for white-label / merchant-sid",
+  "summary": "This entry sits under the payment-firms INDEX as a white-label fintech vendor that sits one layer below the consumer-facing wallets. Read it together with the Japan BNPL landscape for the BNPL-adjacent payment context, the DG Financial Technology and FamiMa Digital One peers for white-label / mercha",
   "headings": [
     "インフキュリオン (Infcurion)",
     "Wiki route",
@@ -53,7 +53,7 @@
   "body_links": {
     "wikilinks_count": 14,
     "wikilinks": [
-      "JapanFG/INDEX",
+      "payment-firms/INDEX",
       "payment-firms/bnpl-landscape",
       "payment-firms/dg-financial-technology",
       "payment-firms/famima-digital-one",
@@ -69,7 +69,7 @@
       "payments/japan-payment-scheme-economics-matrix"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/payment-firms/INDEX",
       "https://finwiki.zksc.io/payment-firms/bnpl-landscape",
       "https://finwiki.zksc.io/payment-firms/dg-financial-technology",
       "https://finwiki.zksc.io/payment-firms/famima-digital-one",
@@ -88,9 +88,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2994,
-    "word_like_tokens": 433,
+    "nonspace_chars": 3006,
+    "word_like_tokens": 435,
     "inbound_wikilinks_count": 1,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

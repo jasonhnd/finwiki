@@ -1,5 +1,5 @@
 ---
-source: japanfg/smbc-trust-bank
+source: trust-banks/smbc-trust-bank
 source_hash: 05ea0aa9726fd439
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.174Z
 
 ## Wiki 路径
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可与 [[trust-banks/mitsubishi-ufj-trust-bank|三菱UFJ信託銀行 (MUTB)]] 对照阅读以理解同业 / 对比语境，并参考 [[banking/INDEX|banking index]] 把握更广泛的系统与监管边界。
+本条目位于 [[trust-banks/INDEX|trust-banks INDEX]] 之下。可与 [[trust-banks/mitsubishi-ufj-trust-bank|三菱UFJ信託銀行 (MUTB)]] 对照阅读以理解同业 / 对比语境，并参考 [[banking/INDEX|banking index]] 把握更广泛的系统与监管边界。
 
 ## TL;DR
 

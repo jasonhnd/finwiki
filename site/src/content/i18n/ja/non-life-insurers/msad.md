@@ -1,5 +1,5 @@
 ---
-source: japanfg/msad
+source: non-life-insurers/msad
 source_hash: 68d7aeddf3e769e7
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:54:39.095Z
 
 ## ウィキ上の位置づけ
 
-この項目 sits under [[JapanFG/INDEX|JapanFG index]]. あわせて読む と照合して [[non-life-insurers/sompo|SOMPO ホールディングス (Sompo Holdings)]] のために 比較・対照 文脈 と [[banking/INDEX|banking index]] のために the より広い制度・規制境界.
+この項目 sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. あわせて読む と照合して [[non-life-insurers/sompo|SOMPO ホールディングス (Sompo Holdings)]] のために 比較・対照 文脈 と [[banking/INDEX|banking index]] のために the より広い制度・規制境界.
 
 ## 要約
 

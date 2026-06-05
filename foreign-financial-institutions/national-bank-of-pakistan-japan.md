@@ -25,7 +25,7 @@ sources:
 
 ## Wiki route
 
-National Bank of Pakistan Japan sits under [[JapanFG/INDEX|JapanFG index]] and is a foreign-bank branch route in [[foreign-financial-institutions/foreign-bank-branches-japan-index|the foreign-bank branch registry]]. Read it with [[foreign-financial-institutions/state-bank-of-india-japan|State Bank of India Japan]] for South Asia corridor comparison, [[payments/funds-transfer-service-providers-japan-index|funds-transfer registry]] for remittance context, and [[banking/INDEX|banking index]].
+National Bank of Pakistan Japan sits under [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]] and is a foreign-bank branch route in [[foreign-financial-institutions/foreign-bank-branches-japan-index|the foreign-bank branch registry]]. Read it with [[foreign-financial-institutions/state-bank-of-india-japan|State Bank of India Japan]] for South Asia corridor comparison, [[payments/funds-transfer-service-providers-japan-index|funds-transfer registry]] for remittance context, and [[banking/INDEX|banking index]].
 
 Use this page for Pakistan-Japan remittance, trade-finance, deposit, and South Asia corridor banking questions.
 
@@ -71,7 +71,7 @@ The page should not infer migrant remittance volumes, borrower concentration, or
 
 ## Related
 
-- [[JapanFG/INDEX]]
+- [[foreign-financial-institutions/INDEX]]
 - [[foreign-financial-institutions/foreign-bank-branches-japan-index]]
 - [[foreign-financial-institutions/state-bank-of-india-japan]]
 - [[foreign-financial-institutions/bank-of-india-japan]]

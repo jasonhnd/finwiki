@@ -1,5 +1,5 @@
 ---
-source: japanfg/okinawa-shinko
+source: financial-regulators/okinawa-shinko
 source_hash: 1bd91d0d441849a4
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T00:41:50.424Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[financial-regulators/jfc|日本政策金融公庫 (JFC)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]]. Read it against [[financial-regulators/jfc|日本政策金融公庫 (JFC)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 

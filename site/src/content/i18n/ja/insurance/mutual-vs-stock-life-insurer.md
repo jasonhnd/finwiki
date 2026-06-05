@@ -11,7 +11,7 @@ translated_at: 2026-06-02T14:01:20.898Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[insurance/INDEX|insurance index]] の下に位置する。ピア比較・対比の文脈は [[insurance/life-insurance-channel-mix|Life insurance channel mix]]、より広いシステム / 規制境界は [[JapanFG/INDEX|JapanFG index]] とあわせて読む。
+この項目は [[insurance/INDEX|insurance index]] の下に位置する。ピア比較・対比の文脈は [[insurance/life-insurance-channel-mix|Life insurance channel mix]]、より広いシステム / 規制境界は [[insurance/INDEX|insurance INDEX]] とあわせて読む。
 
 ## 要約
 

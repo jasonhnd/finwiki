@@ -1,5 +1,5 @@
 ---
-source: japanfg/nissay-asset-management
+source: asset-managers/nissay-asset-management
 source_hash: 8873170ecda28c2f
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:54:39.096Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の下に置く。比較・対照の文脈は [[asset-managers/asset-management-one|アセットマネジメントOne]]、FIEA上の免許境界は [[financial-licenses/securities-license-stack|securities license stack]]、登録レイヤーは [[securities/financial-instruments-business-operators-japan-index|FSA 金商業者 index]] とあわせて読む。
+この項目は [[asset-managers/INDEX|asset-managers INDEX]] の下に置く。比較・対照の文脈は [[asset-managers/asset-management-one|アセットマネジメントOne]]、FIEA上の免許境界は [[financial-licenses/securities-license-stack|securities license stack]]、登録レイヤーは [[securities/financial-instruments-business-operators-japan-index|FSA 金商業者 index]] とあわせて読む。
 
 ## 要約
 

@@ -37,7 +37,7 @@
       "https://www.dai-ichi-life-hd.com/newsroom/newsrelease/2025/pdf/index_046.pdf"
     ]
   },
-  "summary": "This entry sits under insurance index. Read it against Economic value-based solvency regulation for peer / contrast context and JapanFG index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under insurance index. Read it against Economic value-based solvency regulation for peer / contrast context and insurance INDEX for the broader system / regulatory boundary.",
   "headings": [
     "ESR (Economic Solvency Ratio)",
     "Wiki route",
@@ -50,10 +50,9 @@
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 11,
+    "wikilinks_count": 10,
     "wikilinks": [
       "INDEX",
-      "JapanFG/INDEX",
       "financial-licenses/INDEX",
       "insurance/INDEX",
       "insurance/economic-value-based-solvency",
@@ -66,7 +65,6 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/financial-licenses/INDEX",
       "https://finwiki.zksc.io/insurance/INDEX",
       "https://finwiki.zksc.io/insurance/economic-value-based-solvency",
@@ -81,9 +79,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3545,
+    "nonspace_chars": 3549,
     "word_like_tokens": 564,
     "inbound_wikilinks_count": 23,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

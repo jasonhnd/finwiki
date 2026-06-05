@@ -1,5 +1,5 @@
 ---
-source: japanfg/sony-bank
+source: regional-banks/sony-bank
 source_hash: 6febed6c0fe5d9c9
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.144Z
 
 ## Wiki 路线
 
-该条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可结合 [[regional-banks/daiwa-next-bank|大和ネクスト銀行 (Daiwa Next Bank)]] 阅读同业和对比背景，并结合 [[banking/INDEX|banking index]] 理解更广泛的制度和监管边界。
+该条目位于 [[regional-banks/INDEX|regional-banks INDEX]] 之下。可结合 [[regional-banks/daiwa-next-bank|大和ネクスト銀行 (Daiwa Next Bank)]] 阅读同业和对比背景，并结合 [[banking/INDEX|banking index]] 理解更广泛的制度和监管边界。
 
 ## 要点
 

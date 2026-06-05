@@ -1,5 +1,5 @@
 ---
-source: japanfg/asset-management-one
+source: asset-managers/asset-management-one
 source_hash: ebceb13cb5ed90f9
 lang: zh
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-05-31T11:13:44.940Z
 
 ## 维基路线
 
-该条目位于[[JapanFG/INDEX|JapanFG index]]。阅读它反对[[asset-managers/smd-am|三井住友DSアセットマネジメント]]对于同行/对比上下文和[[securities/INDEX|securities index]]适用于更广泛的系统/监管边界。
+该条目位于[[asset-managers/INDEX|asset-managers INDEX]]。阅读它反对[[asset-managers/smd-am|三井住友DSアセットマネジメント]]对于同行/对比上下文和[[securities/INDEX|securities index]]适用于更广泛的系统/监管边界。
 
 ##TL;博士
 

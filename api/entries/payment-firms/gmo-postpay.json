@@ -38,7 +38,7 @@
       "https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html"
     ]
   },
-  "summary": "This entry sits under the JapanFG index as a PSP-side BNPL product. Read it against the Japan BNPL landscape system note, with the GMO ペイメントゲートウェイ sibling explaining the merchant-acquiring stack and the Net Protections HD / Paidy peers showing pure-play BNPL. The BNPL and credit-purchase boundary fr",
+  "summary": "This entry sits under the payment-firms INDEX as a PSP-side BNPL product. Read it against the Japan BNPL landscape system note, with the GMO ペイメントゲートウェイ sibling explaining the merchant-acquiring stack and the Net Protections HD / Paidy peers showing pure-play BNPL. The BNPL and credit-purchase bound",
   "headings": [
     "GMO後払い (GMO Postpay)",
     "Wiki route",
@@ -53,7 +53,7 @@
   "body_links": {
     "wikilinks_count": 11,
     "wikilinks": [
-      "JapanFG/INDEX",
+      "payment-firms/INDEX",
       "payment-firms/atone",
       "payment-firms/bnpl-landscape",
       "payment-firms/gmo-payment-gateway",
@@ -66,7 +66,7 @@
       "payments/japan-payment-scheme-economics-matrix"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/payment-firms/INDEX",
       "https://finwiki.zksc.io/payment-firms/atone",
       "https://finwiki.zksc.io/payment-firms/bnpl-landscape",
       "https://finwiki.zksc.io/payment-firms/gmo-payment-gateway",
@@ -82,9 +82,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2967,
-    "word_like_tokens": 474,
+    "nonspace_chars": 2979,
+    "word_like_tokens": 476,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

@@ -1,5 +1,5 @@
 ---
-source: japanfg/kiriu-real-estate-trust
+source: trust-banks/kiriu-real-estate-trust
 source_hash: ccef5d71b9dc25e5
 lang: ja
 status: machine
@@ -10,7 +10,7 @@ translated_at: 2026-06-02T14:54:39.078Z
 
 # Kiriu Real Estate Trust / きりう不動産信託
 
-ウィキ上の位置づけ: [[JapanFG/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/kiriu-real-estate-trust]]
+ウィキ上の位置づけ: [[trust-banks/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/kiriu-real-estate-trust]]
 
 ## 概要
 

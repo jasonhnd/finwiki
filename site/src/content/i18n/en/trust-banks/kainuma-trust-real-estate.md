@@ -1,5 +1,5 @@
 ---
-source: japanfg/kainuma-trust-real-estate
+source: trust-banks/kainuma-trust-real-estate
 source_hash: 8b2d73fb43e4272f
 lang: en
 status: machine
@@ -9,7 +9,7 @@ translated_at: 2026-05-31T23:59:49.396Z
 ---
 # Kainuma Trust Real Estate / Kainuma Trust Real Estate
 
-Wiki route: [[JapanFG/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/kainuma-trust-real-estate]]
+Wiki route: [[trust-banks/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/kainuma-trust-real-estate]]
 
 ## Overview
 

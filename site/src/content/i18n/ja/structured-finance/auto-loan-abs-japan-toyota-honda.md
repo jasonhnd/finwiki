@@ -11,7 +11,7 @@ translated_at: 2026-06-03T00:53:08.356Z
 
 ## 要約
 
-日本の自動車ローン ABS は、日本の自動車 OEM のキャプティブ金融子会社および銀行系自動車金融会社によって発行される。主な継続発行体は[[card-issuers/toyota-finance]]、[[leasing-firms/toyota-financial]]（クロスボーダー向け）、Honda Finance、Nissan Credit、Mitsubishi UFJ Capital Auto Loan ABS、SMBC Auto である。構造は通常、数万件規模のローンからなる粒度の細かいプール、TK-GK SPV 形式、シニア / メザニン / エクイティのトランチングを持つ。リース ABS 型では信用リスクに加えて残価リスクを負う。このページは、[[structured-finance/INDEX]]における自動車金融 ABS レイヤーを理解し、[[JapanFG/INDEX]]のキャプティブ金融会社ページへ接続するために使う。
+日本の自動車ローン ABS は、日本の自動車 OEM のキャプティブ金融子会社および銀行系自動車金融会社によって発行される。主な継続発行体は[[card-issuers/toyota-finance]]、[[leasing-firms/toyota-financial]]（クロスボーダー向け）、Honda Finance、Nissan Credit、Mitsubishi UFJ Capital Auto Loan ABS、SMBC Auto である。構造は通常、数万件規模のローンからなる粒度の細かいプール、TK-GK SPV 形式、シニア / メザニン / エクイティのトランチングを持つ。リース ABS 型では信用リスクに加えて残価リスクを負う。このページは、[[structured-finance/INDEX]]における自動車金融 ABS レイヤーを理解し、[[structured-finance/INDEX]]のキャプティブ金融会社ページへ接続するために使う。
 
 ## ウィキ上の位置づけ
 

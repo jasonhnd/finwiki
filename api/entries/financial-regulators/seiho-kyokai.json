@@ -64,9 +64,9 @@
   "body_links": {
     "wikilinks_count": 29,
     "wikilinks": [
-      "JapanFG/INDEX",
       "financial-licenses/INDEX",
       "financial-licenses/insurance-license-and-solvency",
+      "financial-regulators/INDEX",
       "financial-regulators/dai2-chigin-kyo",
       "financial-regulators/fsa",
       "financial-regulators/jsda",
@@ -95,9 +95,9 @@
       "life-insurers/zurich-life"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/financial-licenses/INDEX",
       "https://finwiki.zksc.io/financial-licenses/insurance-license-and-solvency",
+      "https://finwiki.zksc.io/financial-regulators/INDEX",
       "https://finwiki.zksc.io/financial-regulators/dai2-chigin-kyo",
       "https://finwiki.zksc.io/financial-regulators/fsa",
       "https://finwiki.zksc.io/financial-regulators/jsda",
@@ -129,9 +129,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 8438,
-    "word_like_tokens": 1273,
+    "nonspace_chars": 8490,
+    "word_like_tokens": 1277,
     "inbound_wikilinks_count": 17,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

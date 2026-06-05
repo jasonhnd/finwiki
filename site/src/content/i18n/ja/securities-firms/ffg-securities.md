@@ -1,5 +1,5 @@
 ---
-source: japanfg/ffg-securities
+source: securities-firms/ffg-securities
 source_hash: cfdc9d9b4ce13027
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:25:12.405Z
 
 ## ウィキ上の位置づけ
 
-本項目は [[JapanFG/INDEX|JapanFG index]] の配下で、[[fukuoka-fg|ふくおか FG (FFG)]] における FG 子会社証券会社の事業会社アンカーとして置く。親銀行 [[fukuoka-bank|福岡銀行]]、兄弟会社 [[18-shinwa-bank|十八親和銀行]] / [[kumamoto-bank|熊本銀行]] と併読する。同業の FG 系証券比較は [[mebuki-securities|めぶき証券]]（[[mebuki-fg]] 配下）を、より広い制度・規制境界は [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]] を参照。
+本項目は [[securities-firms/INDEX|securities-firms INDEX]] の配下で、[[fukuoka-fg|ふくおか FG (FFG)]] における FG 子会社証券会社の事業会社アンカーとして置く。親銀行 [[fukuoka-bank|福岡銀行]]、兄弟会社 [[18-shinwa-bank|十八親和銀行]] / [[kumamoto-bank|熊本銀行]] と併読する。同業の FG 系証券比較は [[mebuki-securities|めぶき証券]]（[[mebuki-fg]] 配下）を、より広い制度・規制境界は [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]] を参照。
 
 ## 要約
 
@@ -123,7 +123,7 @@ translated_at: 2026-06-02T14:25:12.405Z
 - [[smbc-nikko]] · [[mizuho-securities]] · [[mufg-mums]] · [[daiwa-sg]] · [[nomura-hd]]
 - [[nishi-nippon-fhd]] · [[kyushu-fg]] · [[hirogin-hd]]
 - [[jsda]] · [[banking/regional-bank-consolidation-pattern]] · [[banking/INDEX]]
-- [[JapanFG/INDEX|JapanFG index]]
+- [[securities-firms/INDEX|securities-firms INDEX]]
 
 ## 出典
 

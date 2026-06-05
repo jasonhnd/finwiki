@@ -1,5 +1,5 @@
 ---
-source: japanfg/sumitomo-corp
+source: financial-conglomerates/sumitomo-corp
 source_hash: fb44c7abc3fbc582
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.169Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sogo shosha parent holding-company**. Read it against [[financial-conglomerates/mitsubishi-corp|Mitsubishi Corporation]], one of the two major former-zaibatsu trading houses, and [[financial-conglomerates/mitsui-co|Mitsui & Co.]], the third pillar among the zaibatsu trading houses, for peer / contrast context. For the financial-services adjacency that gives this entry its JapanFG anchor, see [[trading-company-finance/sumitomo-corp-financial-management|Sumitomo Corporation Financial Management]] (internal CMS), especially **[[leasing-firms/smfl|SMFL (Sumitomo Mitsui Finance and Leasing)]]** (Sumitomo Corporation 50% + [[megabanks/smfg|SMFG]] 50%; one of the three major leasing companies), and **[[leasing-firms/sumitomo-mitsui-auto-service|Sumitomo Mitsui Auto Service]]** (one of Japan's leading auto-leasing companies). System frame: [[finance/INDEX|finance index]] and [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial-groups investable universe]].
+This entry sits under [[financial-conglomerates/INDEX|financial-conglomerates INDEX]] as a **sogo shosha parent holding-company**. Read it against [[financial-conglomerates/mitsubishi-corp|Mitsubishi Corporation]], one of the two major former-zaibatsu trading houses, and [[financial-conglomerates/mitsui-co|Mitsui & Co.]], the third pillar among the zaibatsu trading houses, for peer / contrast context. For the financial-services adjacency that gives this entry its JapanFG anchor, see [[trading-company-finance/sumitomo-corp-financial-management|Sumitomo Corporation Financial Management]] (internal CMS), especially **[[leasing-firms/smfl|SMFL (Sumitomo Mitsui Finance and Leasing)]]** (Sumitomo Corporation 50% + [[megabanks/smfg|SMFG]] 50%; one of the three major leasing companies), and **[[leasing-firms/sumitomo-mitsui-auto-service|Sumitomo Mitsui Auto Service]]** (one of Japan's leading auto-leasing companies). System frame: [[finance/INDEX|finance index]] and [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial-groups investable universe]].
 
 ## 1. Company overview
 
@@ -101,7 +101,7 @@ In addition, the **Sumitomo group financial-services ecosystem** has a three-lay
 
 ## Related
 
-- [[JapanFG/INDEX|JapanFG index]]
+- [[financial-conglomerates/INDEX|financial-conglomerates INDEX]]
 - [[financial-conglomerates/mitsubishi-corp|Mitsubishi Corporation]] / [[financial-conglomerates/mitsui-co|Mitsui & Co.]] / [[financial-conglomerates/itochu-corp|Itochu Corporation]] / [[financial-conglomerates/marubeni-corp|Marubeni]] / [[financial-conglomerates/toyota-tsusho-corp|Toyota Tsusho]] / [[financial-conglomerates/sojitz-corp|Sojitz]] (peer trading houses)
 - [[trading-company-finance/sumitomo-corp-financial-management|Sumitomo Corporation Financial Management]] (internal group treasury)
 - [[leasing-firms/smfl|SMFL]] (50/50  JV with SMFG, 3  major leasing)

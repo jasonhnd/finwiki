@@ -1,5 +1,5 @@
 ---
-source: japanfg/hannover-re-japan
+source: non-life-insurers/hannover-re-japan
 source_hash: 1d11f873d0f4b8cb
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:25:12.441Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に位置づける。[[non-life-insurers/munich-re-japan|ミュンヘン再保険日本支店]] と [[non-life-insurers/swiss-re-japan|スイス再保険日本支店]] は、日本における欧州再保険会社の「Big 2  + Hannover」三社として併読し、[[non-life-insurers/toa-reinsurance|トーア再保険]] は国内比較対象として読む。制度ページ [[insurance/natcat-reinsurance-japan|nat-cat reinsurance Japan]] は、これらが日本のカタストロフィリスク移転構造にどう組み込まれるかを整理する。
+この項目は [[non-life-insurers/INDEX|non-life-insurers INDEX]] の配下に位置づける。[[non-life-insurers/munich-re-japan|ミュンヘン再保険日本支店]] と [[non-life-insurers/swiss-re-japan|スイス再保険日本支店]] は、日本における欧州再保険会社の「Big 2  + Hannover」三社として併読し、[[non-life-insurers/toa-reinsurance|トーア再保険]] は国内比較対象として読む。制度ページ [[insurance/natcat-reinsurance-japan|nat-cat reinsurance Japan]] は、これらが日本のカタストロフィリスク移転構造にどう組み込まれるかを整理する。
 
 ## 要約
 
@@ -44,7 +44,7 @@ translated_at: 2026-06-02T14:25:12.441Z
 
 ## 関連項目
 
-- [[JapanFG/INDEX]]
+- [[non-life-insurers/INDEX]]
 - [[munich-re-japan]]
 - [[swiss-re-japan]]
 - [[toa-reinsurance]]

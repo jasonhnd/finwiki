@@ -19,7 +19,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it with [[insurance/INDEX|insurance index]], [[non-life-insurers/ntt-docomo-sonpo|NTTドコモ損害保険]], [[non-life-insurers/au-insurance|au損害保険]], and [[non-life-insurers/anicom-insurance|アニコム損害保険]] as specialty / embedded non-life comparison routes.
+This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read it with [[insurance/INDEX|insurance index]], [[non-life-insurers/ntt-docomo-sonpo|NTTドコモ損害保険]], [[non-life-insurers/au-insurance|au損害保険]], and [[non-life-insurers/anicom-insurance|アニコム損害保険]] as specialty / embedded non-life comparison routes.
 
 Use this page for outdoor / activity-adjacent specialty non-life underwriting, not for broad non-life major analysis.
 

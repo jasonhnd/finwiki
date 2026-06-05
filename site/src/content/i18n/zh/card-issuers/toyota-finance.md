@@ -1,5 +1,5 @@
 ---
-source: japanfg/toyota-finance
+source: card-issuers/toyota-finance
 source_hash: ed1a8443367e75da
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.131Z
 
 ## Wiki 路径
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可结合 [[leasing-firms/toyota-financial|Toyota Financial Services]] 阅读母公司 / 运营公司分离，并结合 [[payments/credit-purchase-card-operators-japan-index|Japan credit purchase and card operator registry index]] 阅读分期信用和银行卡边界。
+本条目位于 [[card-issuers/INDEX|card-issuers INDEX]] 之下。可结合 [[leasing-firms/toyota-financial|Toyota Financial Services]] 阅读母公司 / 运营公司分离，并结合 [[payments/credit-purchase-card-operators-japan-index|Japan credit purchase and card operator registry index]] 阅读分期信用和银行卡边界。
 
 ## 概览
 

@@ -108,7 +108,7 @@ A group-tax regime might look like pure compliance, but it is a **strategic stru
 - It is a primary reason groups adopt a [[corporate-strategy/japan-holding-company-conversion|pure-HoldCo]] model — a neutral apex over 100%-owned operating subsidiaries that can net results across the portfolio.
 - It influences **where to house a loss-making new venture** (inside the 通算 group, so its losses offset group profits, vs outside it).
 - It interacts with the **dividend-flow design** of a HoldCo (the 100% intra-group dividend exclusion under グループ法人税制 keeps cash moving up to the parent untaxed).
-- For regulated financial groups, it overlays the HoldCo supervision that organizes the entities in [[finance/japan-listed-financial-groups-investable-universe|the listed-financial-groups universe]] and [[JapanFG/INDEX|JapanFG INDEX]].
+- For regulated financial groups, it overlays the HoldCo supervision that organizes the entities in [[finance/japan-listed-financial-groups-investable-universe|the listed-financial-groups universe]] and [[corporate-strategy/INDEX|corporate-strategy INDEX]].
 
 ## 7. Counterpoints and Caveats
 
@@ -129,7 +129,6 @@ A group-tax regime might look like pure compliance, but it is a **strategic stru
 - [[corporate-strategy/spinoff-decision-tree-japan|spinoff decision tree Japan]]
 - [[finance/japan-listed-financial-groups-investable-universe|Japan listed-financial-groups investable universe]]
 - [[finance/INDEX|finance INDEX]]
-- [[JapanFG/INDEX|JapanFG INDEX]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

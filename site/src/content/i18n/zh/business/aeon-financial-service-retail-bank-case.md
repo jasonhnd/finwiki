@@ -13,7 +13,7 @@ translated_at: 2026-06-05T00:00:00.000Z
 
 ## Wiki 路径
 
-本条目归于 [[business/INDEX|business INDEX]] 之下，作为上市公司战略案例：一家**构建了完整金融控股而非单一公用轨道的零售（超市）集团**。请与 [[business/seven-bank-atm-platform-deconsolidation-case|Seven Bank ATM-platform + deconsolidation case]] 对照阅读 —— 这是最干净的对照，因为 Seven & i 通过一家狭窄的 ATM 手续费银行变现门店客流，随后将其*去合并*，而永旺则构建并*保留*一项广泛的卡加银行加亚洲的特许经营。亦请与 [[business/toyota-financial-services-captive-finance-case|Toyota Financial Services captive-finance case]] 对照以见制造商自有金融的对照，并与 [[business/rakuten-group-mobile-finance-bundling-case|Rakuten Group mobile-finance bundling case]] 对照以见零售嵌入式金融的互联网集团版本。实体 / 行业简介参见 [[card-issuers/aeon-financial-service|Aeon Financial Service]]、[[card-issuers/aeon-bank|Aeon Bank]]、母公司零售集团 [[retail/aeon-group|Aeon Group]]，以及同行发卡机构 [[card-issuers/credit-saison|Credit Saison]] 与 [[card-issuers/jaccs|Jaccs]]。与 [[payments/waon-prepaid-aeon|WAON prepaid]]、[[payments/japan-consumer-credit-operator-comparison-matrix|Japan consumer-credit operator comparison matrix]] 及 [[JapanFG/INDEX|JapanFG payments / cards / leasing index]] 搭配阅读。
+本条目归于 [[business/INDEX|business INDEX]] 之下，作为上市公司战略案例：一家**构建了完整金融控股而非单一公用轨道的零售（超市）集团**。请与 [[business/seven-bank-atm-platform-deconsolidation-case|Seven Bank ATM-platform + deconsolidation case]] 对照阅读 —— 这是最干净的对照，因为 Seven & i 通过一家狭窄的 ATM 手续费银行变现门店客流，随后将其*去合并*，而永旺则构建并*保留*一项广泛的卡加银行加亚洲的特许经营。亦请与 [[business/toyota-financial-services-captive-finance-case|Toyota Financial Services captive-finance case]] 对照以见制造商自有金融的对照，并与 [[business/rakuten-group-mobile-finance-bundling-case|Rakuten Group mobile-finance bundling case]] 对照以见零售嵌入式金融的互联网集团版本。实体 / 行业简介参见 [[card-issuers/aeon-financial-service|Aeon Financial Service]]、[[card-issuers/aeon-bank|Aeon Bank]]、母公司零售集团 [[retail/aeon-group|Aeon Group]]，以及同行发卡机构 [[card-issuers/credit-saison|Credit Saison]] 与 [[card-issuers/jaccs|Jaccs]]。与 [[payments/waon-prepaid-aeon|WAON prepaid]]、[[payments/japan-consumer-credit-operator-comparison-matrix|Japan consumer-credit operator comparison matrix]] 及 [[business/INDEX|business INDEX]] 搭配阅读。
 
 ## TL;DR
 
@@ -125,7 +125,6 @@ AFS 在**海外消费金融**业务的广度上，在日本零售金融部门中
 - [[payments/japan-consumer-credit-operator-comparison-matrix|Japan consumer-credit operator comparison matrix]]
 - [[retail/store-traffic-as-financial-distribution|store traffic as financial distribution]]
 - [[finance/cross-border-m-a-japan|cross-border M&A Japan]]
-- [[JapanFG/INDEX|JapanFG payments / cards / leasing index]]
 - [[INDEX|FinWiki index]]
 
 ## 来源

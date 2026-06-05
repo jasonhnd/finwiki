@@ -1,5 +1,5 @@
 ---
-source: japanfg/boj-financial-markets-dept
+source: financial-regulators/boj-financial-markets-dept
 source_hash: 8d741ed0f614de58
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T11:13:44.869Z
 # 日本银行金融市场局（BoJ Financial Markets Department）
 
 ## Wiki 路径
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可与 [[financial-regulators/boj-payment-settlement-dept|支付结算系统局]] 对照阅读，以理解日本银行内部平行局室关系；也可结合 [[financial-regulators/boj-monetary-policy|BoJ monetary policy]] 把握政策与执行之间的边界。若要理解市场机制，请继续参见 [[money-market/japan-money-market|Japan money market]] 与 [[money-market/boj-open-market-operations|BoJ open market operations]]。
+本条目位于 [[financial-regulators/INDEX|financial-regulators INDEX]] 之下。可与 [[financial-regulators/boj-payment-settlement-dept|支付结算系统局]] 对照阅读，以理解日本银行内部平行局室关系；也可结合 [[financial-regulators/boj-monetary-policy|BoJ monetary policy]] 把握政策与执行之间的边界。若要理解市场机制，请继续参见 [[money-market/japan-money-market|Japan money market]] 与 [[money-market/boj-open-market-operations|BoJ open market operations]]。
 
 ## TL;DR
 

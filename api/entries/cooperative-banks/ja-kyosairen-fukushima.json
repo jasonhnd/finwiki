@@ -45,7 +45,7 @@
       "農業協同組合法 (昭和 22 年法律第 132 号)"
     ]
   },
-  "summary": "This entry sits under JapanFG index as the first prefectural-federation anchor for the JA Kyosairen system in FinWiki, closing the audit gap that \"JA 共済連 exists but no prefectural 信連 anchors exist\". Fukushima was selected for its disaster-recovery-context relevance (2011 東日本大震災・原発事故 + 建物更生共済 = 建更 の大",
+  "summary": "This entry sits under cooperative-banks INDEX as the first prefectural-federation anchor for the JA Kyosairen system in FinWiki, closing the audit gap that \"JA 共済連 exists but no prefectural 信連 anchors exist\". Fukushima was selected for its disaster-recovery-context relevance (2011 東日本大震災・原発事故 + 建物更生",
   "headings": [
     "JA 共済連福島 (福島県本部 / Fukushima Prefectural Office of JA Kyosairen)",
     "Wiki route",
@@ -61,9 +61,9 @@
   "body_links": {
     "wikilinks_count": 13,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/cooperative-banking-japan",
       "banking/ja-bank-system-japan",
+      "cooperative-banks/INDEX",
       "cooperative-banks/ja-bank-tokyo-shinren",
       "cooperative-banks/ja-shinnoren",
       "cooperative-banks/ja-zen-noh",
@@ -76,9 +76,9 @@
       "regional-banks/fukushima-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/cooperative-banking-japan",
       "https://finwiki.zksc.io/banking/ja-bank-system-japan",
+      "https://finwiki.zksc.io/cooperative-banks/INDEX",
       "https://finwiki.zksc.io/cooperative-banks/ja-bank-tokyo-shinren",
       "https://finwiki.zksc.io/cooperative-banks/ja-shinnoren",
       "https://finwiki.zksc.io/cooperative-banks/ja-zen-noh",
@@ -94,9 +94,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5789,
-    "word_like_tokens": 929,
+    "nonspace_chars": 5829,
+    "word_like_tokens": 933,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

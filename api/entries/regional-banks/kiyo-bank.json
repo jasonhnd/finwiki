@@ -35,7 +35,7 @@
       "Wikipedia: 紀陽ホールディングス (2026-05-19 抽出)"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 池田泉州ホールディングス for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under regional-banks INDEX. Read it against 池田泉州ホールディングス for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [
     "株式会社紀陽銀行 (The Kiyo Bank)",
     "Wiki route",
@@ -51,7 +51,6 @@
   "body_links": {
     "wikilinks_count": 13,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "banking/minna-bank-baas-model",
       "ikeda-senshu-hd",
@@ -60,13 +59,13 @@
       "mufg",
       "nanto-bank",
       "norinchukin",
+      "regional-banks/INDEX",
       "regional-banks/ikeda-senshu-hd",
       "resona-hd",
       "san-jusan-fg",
       "smfg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/minna-bank-baas-model",
       "https://finwiki.zksc.io/ikeda-senshu-hd",
@@ -75,6 +74,7 @@
       "https://finwiki.zksc.io/mufg",
       "https://finwiki.zksc.io/nanto-bank",
       "https://finwiki.zksc.io/norinchukin",
+      "https://finwiki.zksc.io/regional-banks/INDEX",
       "https://finwiki.zksc.io/regional-banks/ikeda-senshu-hd",
       "https://finwiki.zksc.io/resona-hd",
       "https://finwiki.zksc.io/san-jusan-fg",
@@ -84,9 +84,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4945,
-    "word_like_tokens": 776,
+    "nonspace_chars": 4959,
+    "word_like_tokens": 778,
     "inbound_wikilinks_count": 1,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

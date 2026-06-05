@@ -107,7 +107,7 @@ Only after fixing that axis does the **一般 vs 公益** question (donor-deduct
 
 - The **一般社団 → 公益社団** staircase is the membership-side analogue of the **一般財団 → 公益財団** staircase. The intermediate 一般 phase is the de-facto track-record period that 公益認定等委員会 reviewers expect before granting public-interest status.
 - For grant-receiving or fundraising bodies, donor-deductibility under 公益 status materially widens the addressable donor base, which is why mature corporate philanthropy and research vehicles often climb to 公益 — relevant to the funding ecosystem mapped in [[non-profit/japan-research-grant-map-2026|Japan research grant map 2026]].
-- Listed financial groups that operate a public-interest arm typically prefer the 公益 form for arm's-length governance; the entity-level coverage of such groups lives in [[JapanFG/INDEX|JapanFG INDEX]], and the regulatory backdrop in [[fintech/japan-financial-regulation|Japan financial regulation]].
+- Listed financial groups that operate a public-interest arm typically prefer the 公益 form for arm's-length governance; the entity-level coverage of such groups lives in [[non-profit/INDEX|non-profit INDEX]], and the regulatory backdrop in [[fintech/japan-financial-regulation|Japan financial regulation]].
 
 ## Related
 

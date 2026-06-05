@@ -36,7 +36,7 @@
       "内閣府設置法 (平成 11 年法律第 89 号)"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 日本銀行 for the central-bank counterpart, and 預金保険機構 / 損保機構 / 生保機構 for the safety-net peers it supervises.",
+  "summary": "This entry sits under financial-regulators INDEX. Read it against 日本銀行 for the central-bank counterpart, and 預金保険機構 / 損保機構 / 生保機構 for the safety-net peers it supervises.",
   "headings": [
     "金融庁 (FSA)",
     "Wiki route",
@@ -52,11 +52,11 @@
   "body_links": {
     "wikilinks_count": 31,
     "wikilinks": [
-      "JapanFG/INDEX",
       "consumer-finance/acom",
       "consumer-finance/aiful",
       "finance/issb",
       "finance/ssbj",
+      "financial-regulators/INDEX",
       "financial-regulators/boj",
       "financial-regulators/dic",
       "financial-regulators/fsa-inspection-bureau",
@@ -85,11 +85,11 @@
       "securities-firms/nomura-hd"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/consumer-finance/acom",
       "https://finwiki.zksc.io/consumer-finance/aiful",
       "https://finwiki.zksc.io/finance/issb",
       "https://finwiki.zksc.io/finance/ssbj",
+      "https://finwiki.zksc.io/financial-regulators/INDEX",
       "https://finwiki.zksc.io/financial-regulators/boj",
       "https://finwiki.zksc.io/financial-regulators/dic",
       "https://finwiki.zksc.io/financial-regulators/fsa-inspection-bureau",
@@ -121,9 +121,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4642,
-    "word_like_tokens": 678,
+    "nonspace_chars": 4694,
+    "word_like_tokens": 682,
     "inbound_wikilinks_count": 142,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

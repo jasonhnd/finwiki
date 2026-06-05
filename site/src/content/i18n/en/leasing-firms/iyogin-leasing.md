@@ -1,5 +1,5 @@
 ---
-source: japanfg/iyogin-leasing
+source: leasing-firms/iyogin-leasing
 source_hash: 4059ac30cfb6879d
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T15:29:03.935Z
 
 ## Wiki Route
 
-This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the leasing-company anchor for the [[iyogin-hd|Iyogin Holdings]] group. Read it with the parent operating bank [[iyo-bank|Iyo Bank]], peer regional-bank leasing subsidiaries such as [[mebuki-lease|Mebuki Lease]], [[yokohama-bank-leasing|Yokohama Bank Leasing]], [[chibagin-leasing|Chibagin Leasing]], [[yamaguchi-leasing|Yamaguchi Leasing]], and [[hokkaido-lease|Hokkaido Lease]], and major listed leasing companies such as [[mitsubishi-hc-capital|Mitsubishi HC Capital]], [[mizuho-lease|Mizuho Leasing]], and [[tokyo-century|Tokyo Century]]. For broader system context, use [[banking/regional-bank-consolidation-pattern|regional-bank consolidation patterns]], [[banking/regional-bank-api-digital-partnership-route|regional-bank API and digital partnership routes]], and [[banking/INDEX|banking index]].
+This entry sits under the [[leasing-firms/INDEX|leasing-firms INDEX]] as the leasing-company anchor for the [[iyogin-hd|Iyogin Holdings]] group. Read it with the parent operating bank [[iyo-bank|Iyo Bank]], peer regional-bank leasing subsidiaries such as [[mebuki-lease|Mebuki Lease]], [[yokohama-bank-leasing|Yokohama Bank Leasing]], [[chibagin-leasing|Chibagin Leasing]], [[yamaguchi-leasing|Yamaguchi Leasing]], and [[hokkaido-lease|Hokkaido Lease]], and major listed leasing companies such as [[mitsubishi-hc-capital|Mitsubishi HC Capital]], [[mizuho-lease|Mizuho Leasing]], and [[tokyo-century|Tokyo Century]]. For broader system context, use [[banking/regional-bank-consolidation-pattern|regional-bank consolidation patterns]], [[banking/regional-bank-api-digital-partnership-route|regional-bank API and digital partnership routes]], and [[banking/INDEX|banking index]].
 
 ## TL;DR
 
@@ -109,7 +109,7 @@ Iyogin Leasing Co., Ltd. is the regional-bank-affiliated leasing company of the 
 - [[ja-mitsui-leasing]] / [[nec-leasing]] / [[showa-leasing]] / [[toyota-finance]] / [[ibj-leasing]] / [[kanematsu-leasing]]
 - [[banking/regional-bank-consolidation-pattern]] / [[banking/regional-bank-api-digital-partnership-route]] / [[banking/INDEX]]
 - [[finance/japan-listed-financial-groups-investable-universe]] / [[finance/INDEX]]
-- [[JapanFG/INDEX|JapanFG index]]
+- [[leasing-firms/INDEX|leasing-firms INDEX]]
 
 ## Sources
 

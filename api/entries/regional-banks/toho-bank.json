@@ -38,7 +38,7 @@
       "東邦銀行 統合報告書/ディスクロージャー誌 2025年3月期: https://www.tohobank.co.jp/company/ir/library/disclosure/2025/"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against フィデア HD (Fidea Holdings) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under regional-banks INDEX. Read it against フィデア HD (Fidea Holdings) for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [
     "東邦銀行 (Toho Bank)",
     "Wiki route",
@@ -55,7 +55,6 @@
     "wikilinks_count": 13,
     "wikilinks": [
       "77-bank",
-      "JapanFG/INDEX",
       "banking/INDEX",
       "chiba-bank",
       "jimoto-hd",
@@ -63,6 +62,7 @@
       "mizuho-fg",
       "mufg",
       "proclair-hd",
+      "regional-banks/INDEX",
       "regional-banks/fidea-hd",
       "regional-banks/shizuoka-fg",
       "sbi-regional-bank-hd",
@@ -70,7 +70,6 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/77-bank",
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/chiba-bank",
       "https://finwiki.zksc.io/jimoto-hd",
@@ -78,6 +77,7 @@
       "https://finwiki.zksc.io/mizuho-fg",
       "https://finwiki.zksc.io/mufg",
       "https://finwiki.zksc.io/proclair-hd",
+      "https://finwiki.zksc.io/regional-banks/INDEX",
       "https://finwiki.zksc.io/regional-banks/fidea-hd",
       "https://finwiki.zksc.io/regional-banks/shizuoka-fg",
       "https://finwiki.zksc.io/sbi-regional-bank-hd",
@@ -87,9 +87,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4483,
-    "word_like_tokens": 694,
+    "nonspace_chars": 4497,
+    "word_like_tokens": 696,
     "inbound_wikilinks_count": 3,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

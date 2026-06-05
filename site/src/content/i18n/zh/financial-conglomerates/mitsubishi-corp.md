@@ -1,5 +1,5 @@
 ---
-source: japanfg/mitsubishi-corp
+source: financial-conglomerates/mitsubishi-corp
 source_hash: 7e3eb18701b272a1
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:59:49.343Z
 
 ## Wiki 路径
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下，作为**综合商社母体控股公司**（其本身并非金融集团，但它是多个 JapanFG 标签金融子公司的股权母体）。可结合 [[financial-conglomerates/mitsui-co|三井物産]] 和 [[financial-conglomerates/itochu-corp|伊藤忠商事]] 作为最接近的 5  大商社同业 / 对照背景。赋予本条目 JapanFG 锚点的金融服务相邻关系见 [[trading-company-finance/mitsubishi-corp-finance|三菱商事フィナンシャルサービス]]（面向内部的 group treasury）和 [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]]（面向外部的租赁，部分持股上市公司）。系统框架参见 [[finance/INDEX|finance index]] 与 [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]]，用于理解连接商社、megabank 和租赁公司的交叉持股视角。
+本条目位于 [[financial-conglomerates/INDEX|financial-conglomerates INDEX]] 之下，作为**综合商社母体控股公司**（其本身并非金融集团，但它是多个 JapanFG 标签金融子公司的股权母体）。可结合 [[financial-conglomerates/mitsui-co|三井物産]] 和 [[financial-conglomerates/itochu-corp|伊藤忠商事]] 作为最接近的 5  大商社同业 / 对照背景。赋予本条目 JapanFG 锚点的金融服务相邻关系见 [[trading-company-finance/mitsubishi-corp-finance|三菱商事フィナンシャルサービス]]（面向内部的 group treasury）和 [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]]（面向外部的租赁，部分持股上市公司）。系统框架参见 [[finance/INDEX|finance index]] 与 [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]]，用于理解连接商社、megabank 和租赁公司的交叉持股视角。
 
 ## 1. 公司概况
 
@@ -112,7 +112,7 @@ translated_at: 2026-05-31T23:59:49.343Z
 
 ## 相关
 
-- [[JapanFG/INDEX|JapanFG index]]
+- [[financial-conglomerates/INDEX|financial-conglomerates INDEX]]
 - [[financial-conglomerates/mitsui-co|三井物産]] · [[financial-conglomerates/itochu-corp|伊藤忠商事]] · [[financial-conglomerates/sumitomo-corp|住友商事]] · [[financial-conglomerates/marubeni-corp|丸紅]] · [[financial-conglomerates/toyota-tsusho-corp|豊田通商]] · [[financial-conglomerates/sojitz-corp|双日]]（5  大商社 + 中坚商社）
 - [[trading-company-finance/mitsubishi-corp-finance|三菱商事フィナンシャルサービス]]（面向内部的 group treasury）
 - [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]]（面向外部的租赁，与 MUFG 共同控制）

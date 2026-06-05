@@ -1,5 +1,5 @@
 ---
-source: japanfg/legal-financial-licenses/bank-license-and-baas-boundary
+source: financial-licenses/legal-financial-licenses/bank-license-and-baas-boundary
 source_hash: 4e96ba905ac9d912
 lang: en
 status: machine
@@ -31,7 +31,7 @@ This page belongs to [[financial-licenses/INDEX|JapanFG legal / financial licens
 
 The FSA licensed / registered institution portal publishes the bank list under `預金取扱等金融機関`. The same portal also carries bank holding companies, bank agents, foreign bank agency banks, electronic payment agencies, and other regulated categories. As of the portal snapshot opened on 2026-05-22, the bank list line showed an as-of date of 2026-05-13, and the electronic payment agency list line showed an as-of date of 2026-04-30.
 
-For BaaS records, the bank-license field identifies the legal entity that owes the deposit claim. The public record normally comes from the FSA bank list, the bank's account terms, the service terms, or the partner branch / BaaS page. Bank operating-company pages remain under [[JapanFG/INDEX|JapanFG]], including [[regional-banks/ssnb|SSNB]], [[payment-firms/gmo-aozora-net|GMO Aozora Net Bank]], [[regional-banks/sony-bank|Sony Bank]], [[regional-banks/ui-bank|UI Bank]], and [[regional-banks/01-bank|01 Bank]].
+For BaaS records, the bank-license field identifies the legal entity that owes the deposit claim. The public record normally comes from the FSA bank list, the bank's account terms, the service terms, or the partner branch / BaaS page. Bank operating-company pages remain under [[financial-licenses/INDEX|financial-licenses INDEX]], including [[regional-banks/ssnb|SSNB]], [[payment-firms/gmo-aozora-net|GMO Aozora Net Bank]], [[regional-banks/sony-bank|Sony Bank]], [[regional-banks/ui-bank|UI Bank]], and [[regional-banks/01-bank|01 Bank]].
 
 ## Bank Agency Route
 

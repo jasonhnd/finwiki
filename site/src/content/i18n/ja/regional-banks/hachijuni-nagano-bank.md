@@ -1,5 +1,5 @@
 ---
-source: japanfg/hachijuni-nagano-bank
+source: regional-banks/hachijuni-nagano-bank
 source_hash: 3e0d703a0ec5a15a
 lang: ja
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-06-02T14:25:12.400Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に置く。[[regional-banks/shimizu-bank|清水銀行]] は比較対象・対照文脈として、[[banking/INDEX|banking index]] はより広いシステム境界・規制境界として読む。
+この項目は [[regional-banks/INDEX|regional-banks INDEX]] の配下に置く。[[regional-banks/shimizu-bank|清水銀行]] は比較対象・対照文脈として、[[banking/INDEX|banking index]] はより広いシステム境界・規制境界として読む。
 
 ## 要約
 

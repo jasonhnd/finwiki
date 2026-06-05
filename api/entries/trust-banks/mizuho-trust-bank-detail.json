@@ -41,7 +41,7 @@
       "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx"
     ]
   },
-  "summary": "This entry sits under JapanFG index and complements the company-level summary at みずほ信託銀行. Read it against 三菱UFJ信託銀行 (MUTB) / 三井住友信託銀行 for peer trust-bank competitor context, みずほFG / みずほ銀行 for parent-group sister context, and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under trust-banks INDEX and complements the company-level summary at みずほ信託銀行. Read it against 三菱UFJ信託銀行 (MUTB) / 三井住友信託銀行 for peer trust-bank competitor context, みずほFG / みずほ銀行 for parent-group sister context, and banking index for the broader system / regulatory boundary.",
   "headings": [
     "みずほ信託銀行 事業詳細 (Mizuho Trust & Banking Operating Profile)",
     "Wiki route",
@@ -57,24 +57,24 @@
   "body_links": {
     "wikilinks_count": 10,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "megabanks/mizuho-bank",
       "megabanks/mizuho-fg",
       "megabanks/mufg",
       "securities-firms/mizuho-securities",
+      "trust-banks/INDEX",
       "trust-banks/mitsubishi-ufj-trust-bank",
       "trust-banks/mizuho-trust-bank",
       "trust-banks/smbc-trust-bank",
       "trust-banks/sumitomo-mitsui-trust"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/megabanks/mizuho-bank",
       "https://finwiki.zksc.io/megabanks/mizuho-fg",
       "https://finwiki.zksc.io/megabanks/mufg",
       "https://finwiki.zksc.io/securities-firms/mizuho-securities",
+      "https://finwiki.zksc.io/trust-banks/INDEX",
       "https://finwiki.zksc.io/trust-banks/mitsubishi-ufj-trust-bank",
       "https://finwiki.zksc.io/trust-banks/mizuho-trust-bank",
       "https://finwiki.zksc.io/trust-banks/smbc-trust-bank",
@@ -84,9 +84,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4974,
-    "word_like_tokens": 745,
+    "nonspace_chars": 5045,
+    "word_like_tokens": 759,
     "inbound_wikilinks_count": 1,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

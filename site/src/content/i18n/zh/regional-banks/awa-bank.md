@@ -1,5 +1,5 @@
 ---
-source: japanfg/awa-bank
+source: regional-banks/awa-bank
 source_hash: 422bada35f8def37
 lang: zh
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-05-31T11:13:44.892Z
 
 ## 维基路线
 
-该条目位于 [[JapanFG/INDEX|JapanFG index]]。阅读它反对 [[regional-banks/iyo-bank|伊予銀行]] 对于同行/对比上下文和 [[banking/INDEX|banking index]] 适用于更广泛的系统/监管边界。
+该条目位于 [[regional-banks/INDEX|regional-banks INDEX]]。阅读它反对 [[regional-banks/iyo-bank|伊予銀行]] 对于同行/对比上下文和 [[banking/INDEX|banking index]] 适用于更广泛的系统/监管边界。
 
 ##TL;博士
 

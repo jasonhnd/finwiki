@@ -41,7 +41,7 @@
       "PayPay 株式会社 公式コーポレートサイト"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against au フィナンシャルホールディングス (au-FH) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under megabanks INDEX. Read it against au フィナンシャルホールディングス (au-FH) for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [
     "PayPay 金融グループ",
     "Wiki route",
@@ -57,10 +57,10 @@
   "body_links": {
     "wikilinks_count": 12,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "banking/mercari-bank-license-stack",
       "banking/minna-bank-baas-model",
+      "megabanks/INDEX",
       "megabanks/au-fh",
       "mizuho-fg",
       "mufg",
@@ -71,10 +71,10 @@
       "smfg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/mercari-bank-license-stack",
       "https://finwiki.zksc.io/banking/minna-bank-baas-model",
+      "https://finwiki.zksc.io/megabanks/INDEX",
       "https://finwiki.zksc.io/megabanks/au-fh",
       "https://finwiki.zksc.io/mizuho-fg",
       "https://finwiki.zksc.io/mufg",
@@ -88,9 +88,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 8048,
+    "nonspace_chars": 8052,
     "word_like_tokens": 1585,
     "inbound_wikilinks_count": 45,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

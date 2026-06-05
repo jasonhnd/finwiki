@@ -1,5 +1,5 @@
 ---
-source: japanfg/sony-life
+source: life-insurers/sony-life
 source_hash: 68e0df74f64ad7ed
 lang: ja
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-06-02T15:14:17.112Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に置く。比較・対照の文脈では [[life-insurers/dai-ichi-frontier-life|第一フロンティア生命保険]]、より広い制度・規制境界では [[insurance/INDEX|insurance index]] とあわせて読む。
+この項目は [[life-insurers/INDEX|life-insurers INDEX]] の配下に置く。比較・対照の文脈では [[life-insurers/dai-ichi-frontier-life|第一フロンティア生命保険]]、より広い制度・規制境界では [[insurance/INDEX|insurance index]] とあわせて読む。
 
 ## 要約
 

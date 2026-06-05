@@ -1,5 +1,5 @@
 ---
-source: japanfg/mercari-hd
+source: payment-firms/mercari-hd
 source_hash: 0c28b6c5c9a067a2
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:54:39.073Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] 配下に置かれる。[[securities-firms/monex-group|マネックスグループ (Monex Group)]] を同業・対照の文脈として、[[banking/INDEX|banking index]] をより広い制度・規制境界として読む。
+この項目は [[payment-firms/INDEX|payment-firms INDEX]] 配下に置かれる。[[securities-firms/monex-group|マネックスグループ (Monex Group)]] を同業・対照の文脈として、[[banking/INDEX|banking index]] をより広い制度・規制境界として読む。
 
 ## 要約
 

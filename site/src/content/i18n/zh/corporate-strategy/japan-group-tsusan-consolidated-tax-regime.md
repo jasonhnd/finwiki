@@ -91,7 +91,7 @@ translated_at: 2026-06-05T00:00:00.000Z
 - 它是集团采用 [[corporate-strategy/japan-holding-company-conversion|pure-HoldCo]] 模式的首要原因之一 — 一个凌驾于 100% 所有的经营子公司之上、能跨组合轧差结果的中立顶点。
 - 它影响**将一家亏损的新创投置于何处** (置于 通算 集团内、使其亏损抵销集团利润，对比置于其外)。
 - 它与一家控股公司的**股息流设计**相互作用 (グループ法人税制 之下的 100% 集团内股息免计益金使现金免税地持续上行至母公司)。
-- 对于受监管的金融集团，它叠加于组织 [[finance/japan-listed-financial-groups-investable-universe|the listed-financial-groups universe]] 与 [[JapanFG/INDEX|JapanFG INDEX]] 中实体的控股公司监督之上。
+- 对于受监管的金融集团，它叠加于组织 [[finance/japan-listed-financial-groups-investable-universe|the listed-financial-groups universe]] 与 [[corporate-strategy/INDEX|corporate-strategy INDEX]] 中实体的控股公司监督之上。
 
 ## 7. 反论与注意事项
 
@@ -112,7 +112,6 @@ translated_at: 2026-06-05T00:00:00.000Z
 - [[corporate-strategy/spinoff-decision-tree-japan|spinoff decision tree Japan]]
 - [[finance/japan-listed-financial-groups-investable-universe|Japan listed-financial-groups investable universe]]
 - [[finance/INDEX|finance INDEX]]
-- [[JapanFG/INDEX|JapanFG INDEX]]
 - [[INDEX|FinWiki index]]
 
 ## 来源

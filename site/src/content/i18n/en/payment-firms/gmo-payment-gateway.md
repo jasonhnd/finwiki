@@ -1,5 +1,5 @@
 ---
-source: japanfg/gmo-payment-gateway
+source: payment-firms/gmo-payment-gateway
 source_hash: 108f0578b7e47522
 lang: en
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T15:29:03.901Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[payment-firms/famima-digital-one|ファミマデジタルワン (FamiMa Digital One)]] for peer / contrast context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system / regulatory boundary.
+This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it against [[payment-firms/famima-digital-one|ファミマデジタルワン (FamiMa Digital One)]] for peer / contrast context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system / regulatory boundary.
 
 ##TL;DR
 

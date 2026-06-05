@@ -1,5 +1,5 @@
 ---
-source: japanfg/zenchugin-kyo
+source: financial-regulators/zenchugin-kyo
 source_hash: 5f8d207d894586bf
 lang: zh
 status: machine
@@ -15,7 +15,7 @@ translated_at: 2026-06-01T02:31:57.181Z
 
 ## Wiki 路径
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可与 [[financial-regulators/dai2-chigin-kyo|Second Association of Regional Banks]] 一起阅读以理解第二地方银行（原相互银行）谱系，并与 [[financial-regulators/zenginkyo|Japanese Bankers Association]] 一起理解跨行业协调。法定背景位于 [[financial-licenses/INDEX]] 和 [[financial-licenses/bank-license-and-baas-boundary]]；破产处置后盾为 [[financial-regulators/yokin-hoken-kiko|Deposit Insurance Corporation of Japan]]；更广泛的运营主体宇宙见 [[banking/INDEX]]。
+本条目位于 [[financial-regulators/INDEX|financial-regulators INDEX]] 之下。可与 [[financial-regulators/dai2-chigin-kyo|Second Association of Regional Banks]] 一起阅读以理解第二地方银行（原相互银行）谱系，并与 [[financial-regulators/zenginkyo|Japanese Bankers Association]] 一起理解跨行业协调。法定背景位于 [[financial-licenses/INDEX]] 和 [[financial-licenses/bank-license-and-baas-boundary]]；破产处置后盾为 [[financial-regulators/yokin-hoken-kiko|Deposit Insurance Corporation of Japan]]；更广泛的运营主体宇宙见 [[banking/INDEX]]。
 
 ## 法律路径 / 法定地位
 
@@ -50,7 +50,7 @@ translated_at: 2026-06-01T02:31:57.181Z
 
 ## Related
 
-- [[JapanFG/INDEX|JapanFG index]]
+- [[financial-regulators/INDEX|financial-regulators INDEX]]
 - [[financial-regulators/zenginkyo|Japanese Bankers Association]]
 - [[financial-regulators/dai2-chigin-kyo|Second Association of Regional Banks]]
 - [[financial-regulators/zenshin-kyo|National Association of Shinkin Banks]]

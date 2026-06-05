@@ -1,5 +1,5 @@
 ---
-source: japanfg/ey-shinnihon
+source: financial-regulators/ey-shinnihon
 source_hash: 9af619ab9cf1a564
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T15:29:03.950Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it alongside [[financial-regulators/deloitte-touche-tohmatsu|有限責任監査法人トーマツ (Deloitte)]] and [[financial-regulators/kpmg-azsa|あずさ監査法人 (KPMG)]] for peer Big 4  audit context, and [[financial-licenses/INDEX|金融ライセンス INDEX]] for the regulatory boundary around the Certified Public Accountants Act / Audit Quality Control. For auditor disclosure of CPAAOB inspection system and listing disclosure, read the jurisdictional context of [[financial-regulators/fsa-supervision-bureau|金融庁 監督局]] and [[financial-regulators/fsa-strategy-bureau|金融庁 総合政策局]] together.
+This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]]. Read it alongside [[financial-regulators/deloitte-touche-tohmatsu|有限責任監査法人トーマツ (Deloitte)]] and [[financial-regulators/kpmg-azsa|あずさ監査法人 (KPMG)]] for peer Big 4  audit context, and [[financial-licenses/INDEX|金融ライセンス INDEX]] for the regulatory boundary around the Certified Public Accountants Act / Audit Quality Control. For auditor disclosure of CPAAOB inspection system and listing disclosure, read the jurisdictional context of [[financial-regulators/fsa-supervision-bureau|金融庁 監督局]] and [[financial-regulators/fsa-strategy-bureau|金融庁 総合政策局]] together.
 
 ## 1.Corporate overview
 

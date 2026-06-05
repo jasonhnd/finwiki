@@ -25,7 +25,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[business/INDEX|business INDEX]] as a public-company strategic case in the people-and-portfolio cluster. Read it against [[business/brian-armstrong-coinbase-public-company-template|Brian Armstrong Coinbase exchange-as-public-company template]] for peer / contrast context on portfolio company going public, [[business/kitao-yoshitaka-sbi-independent-strategy-case|Kitao Yoshitaka SBI independent strategy]] for the contrasting Japan-FG independent-route case, and [[finance/INDEX|finance INDEX]] for the broader capital-markets context. For Vision Fund's structural parent see [[JapanFG/INDEX|JapanFG INDEX]].
+This entry sits under [[business/INDEX|business INDEX]] as a public-company strategic case in the people-and-portfolio cluster. Read it against [[business/brian-armstrong-coinbase-public-company-template|Brian Armstrong Coinbase exchange-as-public-company template]] for peer / contrast context on portfolio company going public, [[business/kitao-yoshitaka-sbi-independent-strategy-case|Kitao Yoshitaka SBI independent strategy]] for the contrasting Japan-FG independent-route case, and [[finance/INDEX|finance INDEX]] for the broader capital-markets context. For Vision Fund's structural parent see [[business/INDEX|business INDEX]].
 
 ## TL;DR
 

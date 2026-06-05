@@ -17,7 +17,7 @@ sources:
 
 # JI Accident & Fire Insurance / ジェイアイ傷害火災保険
 
-Wiki route: [[JapanFG/INDEX]] -> [[insurance/INDEX]] -> [[non-life-insurers/ji-accident-fire-insurance]]
+Wiki route: [[non-life-insurers/INDEX]] -> [[insurance/INDEX]] -> [[non-life-insurers/ji-accident-fire-insurance]]
 
 ## Overview
 

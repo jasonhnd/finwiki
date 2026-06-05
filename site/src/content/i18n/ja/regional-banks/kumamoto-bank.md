@@ -1,5 +1,5 @@
 ---
-source: japanfg/kumamoto-bank
+source: regional-banks/kumamoto-bank
 source_hash: 44f96dba7aef8394
 lang: ja
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-06-02T14:54:39.071Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] 配下に置かれる。[[regional-banks/higo-bank|肥後銀行]] を同業・対照の文脈として、[[banking/INDEX|banking index]] をより広い制度・規制境界として読む。
+この項目は [[regional-banks/INDEX|regional-banks INDEX]] 配下に置かれる。[[regional-banks/higo-bank|肥後銀行]] を同業・対照の文脈として、[[banking/INDEX|banking index]] をより広い制度・規制境界として読む。
 
 ## 要約
 

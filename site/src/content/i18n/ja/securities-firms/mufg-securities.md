@@ -1,5 +1,5 @@
 ---
-source: japanfg/mufg-securities
+source: securities-firms/mufg-securities
 source_hash: 057e1001642df3af
 lang: ja
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-02T14:54:39.068Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] に属する。メガバンク系証券の同業・比較対象として [[megabanks/mufg|MUFG (8306、親会社)]]、[[securities-firms/smbc-nikko|SMBC 日興証券]] / [[securities-firms/mizuho-securities|みずほ証券]]、独立系競合の文脈では [[securities-firms/nomura-hd|野村 HD]] / [[securities-firms/daiwa-sg|大和証券]]、規制上の境界では [[financial-regulators/fsa|金融庁]] と併せて読む。
+この項目は [[securities-firms/INDEX|securities-firms INDEX]] に属する。メガバンク系証券の同業・比較対象として [[megabanks/mufg|MUFG (8306、親会社)]]、[[securities-firms/smbc-nikko|SMBC 日興証券]] / [[securities-firms/mizuho-securities|みずほ証券]]、独立系競合の文脈では [[securities-firms/nomura-hd|野村 HD]] / [[securities-firms/daiwa-sg|大和証券]]、規制上の境界では [[financial-regulators/fsa|金融庁]] と併せて読む。
 
 ## 要約
 
@@ -127,7 +127,7 @@ translated_at: 2026-06-02T14:54:39.068Z
 - [[megabanks/mufg|MUFG (8306)]] · [[megabanks/mufg-bank|MUFG 銀行]] · [[securities-firms/mufg-mums|MUMSS]]
 - [[securities-firms/smbc-nikko|SMBC 日興証券]] · [[securities-firms/mizuho-securities|みずほ証券]] · [[securities-firms/nomura-hd|野村 HD]] · [[securities-firms/daiwa-sg|大和証券グループ本社]]
 - [[financial-regulators/fsa|金融庁]] · [[financial-regulators/japan-exchange-group|日本取引所グループ]] · [[financial-regulators/jsda|日本証券業協会]]
-- [[JapanFG/INDEX|JapanFG index]]
+- [[securities-firms/INDEX|securities-firms INDEX]]
 
 ## 出典
 

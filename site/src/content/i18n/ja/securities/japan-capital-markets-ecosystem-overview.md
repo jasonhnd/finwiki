@@ -196,7 +196,6 @@ translated_at: 2026-06-03T00:53:08.290Z
 - [[policy-finance/japan-local-bond-association]]
 - [[banking/japan-master-trust-and-custody-bank-landscape]]
 - [[banking/jasdec-settlement-operations]]
-- [[JapanFG/INDEX]]
 - [[financial-regulators/japan-exchange-group]]
 - [[financial-regulators/japan-securities-finance]]
 - [[securities-firms/nomura-hd]]

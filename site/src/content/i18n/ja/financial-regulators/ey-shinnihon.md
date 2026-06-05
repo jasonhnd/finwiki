@@ -1,5 +1,5 @@
 ---
-source: japanfg/ey-shinnihon
+source: financial-regulators/ey-shinnihon
 source_hash: 9af619ab9cf1a564
 lang: ja
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-02T14:25:12.392Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の下に置く。[[financial-regulators/deloitte-touche-tohmatsu|有限責任監査法人トーマツ (Deloitte)]] と [[financial-regulators/kpmg-azsa|あずさ監査法人 (KPMG)]] は Big 4 監査法人のピア文脈として併読し、公認会計士法 / 監査品質管理をめぐる規制境界は [[financial-licenses/INDEX|金融ライセンス INDEX]] で確認する。CPAAOB 検査制度や上場開示の監査人開示は [[financial-regulators/fsa-supervision-bureau|金融庁 監督局]] と [[financial-regulators/fsa-strategy-bureau|金融庁 総合政策局]] の所管文脈を併読。
+この項目は [[financial-regulators/INDEX|financial-regulators INDEX]] の下に置く。[[financial-regulators/deloitte-touche-tohmatsu|有限責任監査法人トーマツ (Deloitte)]] と [[financial-regulators/kpmg-azsa|あずさ監査法人 (KPMG)]] は Big 4 監査法人のピア文脈として併読し、公認会計士法 / 監査品質管理をめぐる規制境界は [[financial-licenses/INDEX|金融ライセンス INDEX]] で確認する。CPAAOB 検査制度や上場開示の監査人開示は [[financial-regulators/fsa-supervision-bureau|金融庁 監督局]] と [[financial-regulators/fsa-strategy-bureau|金融庁 総合政策局]] の所管文脈を併読。
 
 ## 1. 法人概要
 

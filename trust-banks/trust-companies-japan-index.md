@@ -30,7 +30,7 @@ Use this page to avoid creating 38 standalone company pages unless a trust compa
 
 | Boundary | Treatment |
 |---|---|
-| Trust banks | Keep as standalone bank operating-company pages under [[JapanFG/INDEX]]. |
+| Trust banks | Keep as standalone bank operating-company pages under [[trust-banks/INDEX]]. |
 | Trust companies | Keep the full FSA list here; promote standalone pages only for material group, listed-company, fintech, estate, or tokenization relevance. |
 | Group-linked trust companies | Route to group pages where the group page already exists; do not imply the group page covers all trust-company details. |
 | Long-tail trust companies | Registry-only until there is a public-source reason to promote. |
@@ -110,7 +110,7 @@ Promote a trust company from registry-only to standalone page only if one of the
 
 ## Related
 
-- [[JapanFG/INDEX]]
+- [[trust-banks/INDEX]]
 - [[financial-regulators/missing-financial-institutions-backlog]]
 - [[trust-banks/mitsubishi-ufj-trust-bank]]
 - [[trust-banks/mizuho-trust-bank]]

@@ -1,5 +1,5 @@
 ---
-source: japanfg/central-tanshi
+source: financial-regulators/central-tanshi
 source_hash: a82b7d5b4a570287
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T11:13:44.894Z
 
 ## 维基路线
 
-该条目位于 [[JapanFG/INDEX|JapanFG index]]。阅读它反对 [[financial-regulators/ueda-yagi-tanshi|上田八木短資株式会社 (Ueda Yagi Tanshi)]] 对于同行/对比上下文和 [[banking/INDEX|banking index]] 适用于更广泛的系统/监管边界。
+该条目位于 [[financial-regulators/INDEX|financial-regulators INDEX]]。阅读它反对 [[financial-regulators/ueda-yagi-tanshi|上田八木短資株式会社 (Ueda Yagi Tanshi)]] 对于同行/对比上下文和 [[banking/INDEX|banking index]] 适用于更广泛的系统/监管边界。
 
 ##TL;博士
 

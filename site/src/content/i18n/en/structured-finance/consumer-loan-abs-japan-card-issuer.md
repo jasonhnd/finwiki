@@ -11,7 +11,7 @@ translated_at: 2026-06-01T04:15:40.093Z
 
 ## TL;DR
 
-Consumer-loan and card-receivable ABS in Japan are issued by major consumer-finance and card-issuing companies — [[card-issuers/aplus]], [[card-issuers/orico]], [[card-issuers/jaccs]], [[card-issuers/mufg-nicos]], and others — and use revolving-pool structures with early-amortization triggers. The asset class is structurally distinct from auto-loan ABS because card receivables are short-tenor, revolving, and tied to economic-cycle-sensitive consumer credit demand. Default rates are more cyclical than auto-loan ABS, but the revolving structure with hard triggers protects senior bondholders. Use this page for consumer / card ABS structure mechanics in [[structured-finance/INDEX]] and to connect to consumer-finance company pages in [[JapanFG/INDEX]].
+Consumer-loan and card-receivable ABS in Japan are issued by major consumer-finance and card-issuing companies — [[card-issuers/aplus]], [[card-issuers/orico]], [[card-issuers/jaccs]], [[card-issuers/mufg-nicos]], and others — and use revolving-pool structures with early-amortization triggers. The asset class is structurally distinct from auto-loan ABS because card receivables are short-tenor, revolving, and tied to economic-cycle-sensitive consumer credit demand. Default rates are more cyclical than auto-loan ABS, but the revolving structure with hard triggers protects senior bondholders. Use this page for consumer / card ABS structure mechanics in [[structured-finance/INDEX]] and to connect to consumer-finance company pages in [[structured-finance/INDEX]].
 
 ## Wiki route
 

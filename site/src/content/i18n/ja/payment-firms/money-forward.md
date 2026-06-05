@@ -1,5 +1,5 @@
 ---
-source: japanfg/money-forward
+source: payment-firms/money-forward
 source_hash: 275674e19e722bd7
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:54:39.074Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] 配下に置かれる。[[payment-firms/freee|freee 株式会社 (freee K.K.)]] を同業・対照の文脈として、[[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] をより広い制度・規制境界として読む。
+この項目は [[payment-firms/INDEX|payment-firms INDEX]] 配下に置かれる。[[payment-firms/freee|freee 株式会社 (freee K.K.)]] を同業・対照の文脈として、[[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] をより広い制度・規制境界として読む。
 
 ## 要約
 
@@ -134,7 +134,7 @@ translated_at: 2026-06-02T14:54:39.074Z
 ## 関連項目
 
 - [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[sbi-hd]] · [[ndfg]]
-- [[JapanFG/INDEX|JapanFG]] (PRIME 上場 fintech カテゴリ)
+- [[payment-firms/INDEX|payment-firms INDEX]] (PRIME 上場 fintech カテゴリ)
 
 ## 出典
 

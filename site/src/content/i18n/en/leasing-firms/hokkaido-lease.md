@@ -1,5 +1,5 @@
 ---
-source: japanfg/hokkaido-lease
+source: leasing-firms/hokkaido-lease
 source_hash: 52e2e7afc49ffe5f
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T15:29:03.913Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[leasing-firms/fuyo-lease|Fuyo General Lease]] for peer / contrast context (national semi-major lessor versus regional captive lessor) and [[banking/INDEX|banking index]] for the broader system / regulatory boundary. Read it together with [[regional-banks/hokkaido-bank|Hokkaido Bank]] and [[regional-banks/hokuyo-bank|Hokuyo Bank]] for the parent and regional context.
+This entry sits under [[leasing-firms/INDEX|leasing-firms INDEX]]. Read it against [[leasing-firms/fuyo-lease|Fuyo General Lease]] for peer / contrast context (national semi-major lessor versus regional captive lessor) and [[banking/INDEX|banking index]] for the broader system / regulatory boundary. Read it together with [[regional-banks/hokkaido-bank|Hokkaido Bank]] and [[regional-banks/hokuyo-bank|Hokuyo Bank]] for the parent and regional context.
 
 ## TL;DR
 

@@ -1,5 +1,5 @@
 ---
-source: japanfg/daishi-hokuetsu-bank
+source: regional-banks/daishi-hokuetsu-bank
 source_hash: 2262793dc134dff5
 lang: en
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-05-31T15:29:03.937Z
 
 ## Wiki route
 
-This entry sits under[[JapanFG/INDEX|JapanFG index]]. Read it against[[regional-banks/hachijuni-nagano-bank|八十二長野銀行]]for peer / contrast context and[[banking/INDEX|banking index]]for the broader system / regulatory boundary.
+This entry sits under[[regional-banks/INDEX|regional-banks INDEX]]. Read it against[[regional-banks/hachijuni-nagano-bank|八十二長野銀行]]for peer / contrast context and[[banking/INDEX|banking index]]for the broader system / regulatory boundary.
 
 ## TL;DR
 

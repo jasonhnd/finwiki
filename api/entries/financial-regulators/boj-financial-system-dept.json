@@ -41,7 +41,7 @@
       "https://www.boj.or.jp/en/about/publication/"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 金融市場局 for the BoJ market-operations counterpart and FSA 監督局 for the regulatory-perimeter contrast. For the broader prudential system, anchor through BoJ monetary policy and banking landscape.",
+  "summary": "This entry sits under financial-regulators INDEX. Read it against 金融市場局 for the BoJ market-operations counterpart and FSA 監督局 for the regulatory-perimeter contrast. For the broader prudential system, anchor through BoJ monetary policy and banking landscape.",
   "headings": [
     "金融機構局 (BoJ Financial System and Bank Examination Department)",
     "Wiki route",
@@ -55,10 +55,10 @@
   "body_links": {
     "wikilinks_count": 13,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "banking/shinkin-bank-registry-japan",
       "financial-licenses/INDEX",
+      "financial-regulators/INDEX",
       "financial-regulators/boj-financial-markets-dept",
       "financial-regulators/boj-international-dept",
       "financial-regulators/boj-monetary-policy",
@@ -70,10 +70,10 @@
       "securities-firms/mufg-mums"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/shinkin-bank-registry-japan",
       "https://finwiki.zksc.io/financial-licenses/INDEX",
+      "https://finwiki.zksc.io/financial-regulators/INDEX",
       "https://finwiki.zksc.io/financial-regulators/boj-financial-markets-dept",
       "https://finwiki.zksc.io/financial-regulators/boj-international-dept",
       "https://finwiki.zksc.io/financial-regulators/boj-monetary-policy",
@@ -88,9 +88,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5695,
-    "word_like_tokens": 890,
+    "nonspace_chars": 5721,
+    "word_like_tokens": 892,
     "inbound_wikilinks_count": 9,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

@@ -1,5 +1,5 @@
 ---
-source: japanfg/saison-asset-management
+source: asset-managers/saison-asset-management
 source_hash: e76cd69c5556bf5d
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T15:14:17.094Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下で、[[card-issuers/credit-saison|Credit Saison]] グループの投資信託子会社を示す事業会社アンカーとして置く。[[card-issuers/credit-saison|クレディセゾン（親会社）]]、長期分散投資の [[JapanFG/hifumi|レオス・キャピタルワークス（ひふみ投信）]]・[[JapanFG/sawakami-am|さわかみ投信]]・[[JapanFG/commons-am|コモンズ投信]]、販売チャネルとしての [[JapanFG/INDEX]]、規制上の境界を示す [[asset-management/INDEX|asset management index]] とあわせて読む。
+この項目は [[asset-managers/INDEX|asset-managers INDEX]] の配下で、[[card-issuers/credit-saison|Credit Saison]] グループの投資信託子会社を示す事業会社アンカーとして置く。[[card-issuers/credit-saison|クレディセゾン（親会社）]]、長期分散投資の [[JapanFG/hifumi|レオス・キャピタルワークス（ひふみ投信）]]・[[JapanFG/sawakami-am|さわかみ投信]]・[[JapanFG/commons-am|コモンズ投信]]、販売チャネルとしての [[asset-managers/INDEX]]、規制上の境界を示す [[asset-management/INDEX|asset management index]] とあわせて読む。
 
 ## 要約
 
@@ -131,7 +131,7 @@ translated_at: 2026-06-02T15:14:17.094Z
 - [[trust-banks/master-trust-bank]] — 受託信託銀行
 - [[megabanks/mizuho-fg]] — 親会社系列メインバンク
 - [[asset-management/INDEX]] — asset management namespace index
-- [[JapanFG/INDEX]] — JapanFG namespace index
+- [[asset-managers/INDEX]] — JapanFG namespace index
 
 ## 出典
 

@@ -27,7 +27,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[leasing-firms/mizuho-lease|みずほリース]] (the listed leasing arm where 丸紅 became a strategic shareholder in 2024) and [[leasing-firms/fuyo-lease|芙蓉総合リース]] (the 芙蓉グループ peer leasing arm — 丸紅 is part of the 芙蓉 community). For peer 商社系 group-treasury arms, see [[trading-company-finance/mitsubishi-corp-finance|三菱商事FS]], [[trading-company-finance/mitsui-bussan-financial-services|三井物産FS]], [[trading-company-finance/sumitomo-corp-financial-management|住友商事FM]], [[trading-company-finance/itochu-finance|伊藤忠ファイナンス]]. See [[banking/INDEX|banking index]] for the broader regulatory boundary.
+This entry sits under [[trading-company-finance/INDEX|trading-company-finance INDEX]]. Read it against [[leasing-firms/mizuho-lease|みずほリース]] (the listed leasing arm where 丸紅 became a strategic shareholder in 2024) and [[leasing-firms/fuyo-lease|芙蓉総合リース]] (the 芙蓉グループ peer leasing arm — 丸紅 is part of the 芙蓉 community). For peer 商社系 group-treasury arms, see [[trading-company-finance/mitsubishi-corp-finance|三菱商事FS]], [[trading-company-finance/mitsui-bussan-financial-services|三井物産FS]], [[trading-company-finance/sumitomo-corp-financial-management|住友商事FM]], [[trading-company-finance/itochu-finance|伊藤忠ファイナンス]]. See [[banking/INDEX|banking index]] for the broader regulatory boundary.
 
 ## 1. 会社概要
 

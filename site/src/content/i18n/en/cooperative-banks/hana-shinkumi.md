@@ -1,5 +1,5 @@
 ---
-source: japanfg/hana-shinkumi
+source: cooperative-banks/hana-shinkumi
 source_hash: 527868c0a57b2e4a
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T15:29:03.902Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]] as a ** Capital Metropolitan Area (Tokyo) in Japan shinkumi anchor**, peer to [[cooperative-banks/osaka-shogin-shinkumi|大阪商銀信用組合]] (Kansai 商bank department)・[[cooperative-banks/yokohama-kogin-shinkumi|横浜幸銀信用組合]] (Kanagawa 行bank department)・[[cooperative-banks/aichi-shogin-shinkumi|信用組合愛知商銀]] (Chukyo 商bank department) within the broader Korean-business shinkumi sub-population cataloged in [[banking/credit-cooperative-registry-japan|Japan credit cooperative registry]].
+This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as a ** Capital Metropolitan Area (Tokyo) in Japan shinkumi anchor**, peer to [[cooperative-banks/osaka-shogin-shinkumi|大阪商銀信用組合]] (Kansai 商bank department)・[[cooperative-banks/yokohama-kogin-shinkumi|横浜幸銀信用組合]] (Kanagawa 行bank department)・[[cooperative-banks/aichi-shogin-shinkumi|信用組合愛知商銀]] (Chukyo 商bank department) within the broader Korean-business shinkumi sub-population cataloged in [[banking/credit-cooperative-registry-japan|Japan credit cooperative registry]].
 
 ## 1. Corporate profile
 
@@ -110,7 +110,7 @@ Tokyo 19 Ethnic credit unions:
 - [[banking/credit-cooperative-registry-japan]] — Japan credit cooperative registry (143 shinkumi entire)
 - [[banking/cooperative-banking-japan]] — Coordinate and organize the financial community
 - [[cooperative-banks/iwaki-shinkumi]] — Iwaki Credit Union (peer regional credit union, comparison by business type)
-- [[JapanFG/INDEX|JapanFG index]]
+- [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 
 ## Sources
 

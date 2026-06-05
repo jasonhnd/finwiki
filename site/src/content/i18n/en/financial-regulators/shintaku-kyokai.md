@@ -1,5 +1,5 @@
 ---
-source: japanfg/shintaku-kyokai
+source: financial-regulators/shintaku-kyokai
 source_hash: e2ecf780af3721f4
 lang: en
 status: machine
@@ -15,7 +15,7 @@ Shintaku Kyokai (信託協会) is Japan's industry body for trust banks and trus
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it with peer banking industry bodies [[financial-regulators/zenginkyo|Japanese Bankers Association]], [[financial-regulators/zenchugin-kyo|Regional Banks Association of Japan]], [[financial-regulators/dai2-chigin-kyo|Second Association of Regional Banks]], and [[financial-regulators/zenshin-kyo|Zenshin-kyō]] for the bank-side stack, plus [[financial-regulators/jsda|JSDA]] for the securities lane that intersects trust-based asset-management products. For the trust-company universe see [[trust-banks/trust-companies-japan-index|Japan trust companies registry index]]; statutory backdrop sits at [[financial-licenses/INDEX]]; depositor-protection counterpart is [[financial-regulators/yokin-hoken-kiko|Deposit Insurance Corporation of Japan]]; wider operator universe is in [[banking/INDEX]].
+This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]]. Read it with peer banking industry bodies [[financial-regulators/zenginkyo|Japanese Bankers Association]], [[financial-regulators/zenchugin-kyo|Regional Banks Association of Japan]], [[financial-regulators/dai2-chigin-kyo|Second Association of Regional Banks]], and [[financial-regulators/zenshin-kyo|Zenshin-kyō]] for the bank-side stack, plus [[financial-regulators/jsda|JSDA]] for the securities lane that intersects trust-based asset-management products. For the trust-company universe see [[trust-banks/trust-companies-japan-index|Japan trust companies registry index]]; statutory backdrop sits at [[financial-licenses/INDEX]]; depositor-protection counterpart is [[financial-regulators/yokin-hoken-kiko|Deposit Insurance Corporation of Japan]]; wider operator universe is in [[banking/INDEX]].
 
 ## Legal route / statutory position
 
@@ -53,7 +53,7 @@ Trust vocabulary inside JapanFG entries often references the association's publi
 
 ## Related
 
-- [[JapanFG/INDEX|JapanFG index]]
+- [[financial-regulators/INDEX|financial-regulators INDEX]]
 - [[trust-banks/trust-companies-japan-index|Japan trust companies registry index]]
 - [[financial-regulators/zenginkyo|Japanese Bankers Association]]
 - [[financial-regulators/zenchugin-kyo|Regional Banks Association of Japan]]

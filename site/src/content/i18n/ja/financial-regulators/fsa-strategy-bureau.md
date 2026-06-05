@@ -1,5 +1,5 @@
 ---
-source: japanfg/fsa-strategy-bureau
+source: financial-regulators/fsa-strategy-bureau
 source_hash: d1ac3c4c4ea67193
 lang: ja
 status: machine
@@ -10,7 +10,7 @@ translated_at: 2026-06-02T14:25:12.420Z
 # 総合政策局
 
 ## ウィキ上の位置づけ
-この項目は [[JapanFG/INDEX|JapanFG index]] の下に置く。[[financial-regulators/fsa-supervision-bureau|FSA 監督局]] は監督側の対応部局、[[financial-regulators/fsa-planning-coordination-bureau|FSA 企画市場局]] はルール策定側の対応部局として併読する。BoJ 側の国際政策レーンは [[financial-regulators/boj-international-dept|BoJ 国際局]] を経由し、より広い規制境界は [[financial-licenses/INDEX|legal / financial licenses]] を使う。
+この項目は [[financial-regulators/INDEX|financial-regulators INDEX]] の下に置く。[[financial-regulators/fsa-supervision-bureau|FSA 監督局]] は監督側の対応部局、[[financial-regulators/fsa-planning-coordination-bureau|FSA 企画市場局]] はルール策定側の対応部局として併読する。BoJ 側の国際政策レーンは [[financial-regulators/boj-international-dept|BoJ 国際局]] を経由し、より広い規制境界は [[financial-licenses/INDEX|legal / financial licenses]] を使う。
 
 ## 要約
 

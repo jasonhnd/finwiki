@@ -1,5 +1,5 @@
 ---
-source: japanfg/toyama-first-bank
+source: regional-banks/toyama-first-bank
 source_hash: 14b1e9e8219ef74e
 lang: en
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-01T02:31:57.123Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[regional-banks/tokushima-taisho-bank|徳島大正銀行]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it against [[regional-banks/tokushima-taisho-bank|徳島大正銀行]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
@@ -35,7 +35,7 @@ Toyama Daiichi Bank is a second regional bank with local retail / SME / regional
 
 - Adds a second-regional-bank exact-name page.
 - Completes the first Hokuriku B2 slice alongside [[hokuriku-bank]], [[hokkoku-bank]], and [[toyama-bank]].
-- Registry-backed B2.1 regional-bank operating-company page, indexed under [[JapanFG/INDEX|JapanFG index]].
+- Registry-backed B2.1 regional-bank operating-company page, indexed under [[regional-banks/INDEX|regional-banks INDEX]].
 
 ## Related
 

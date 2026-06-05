@@ -33,7 +33,7 @@
       "Capital Insurance company profile: https://www.capital-sonpo.co.jp/company/gaiyo/index.html"
     ]
   },
-  "summary": "Wiki route: JapanFG/INDEX -> insurance/INDEX -> non-life-insurers/capital-insurance",
+  "summary": "Wiki route: non-life-insurers/INDEX -> insurance/INDEX -> non-life-insurers/capital-insurance",
   "headings": [
     "Capital Insurance / キャピタル損害保険",
     "Overview",
@@ -48,21 +48,21 @@
     "wikilinks_count": 8,
     "wikilinks": [
       "INDEX",
-      "JapanFG/INDEX",
       "financial-licenses/insurance-license-and-solvency",
       "financial-regulators/cci-group",
       "insurance/INDEX",
       "leasing-firms/mitsubishi-hc-capital",
+      "non-life-insurers/INDEX",
       "non-life-insurers/capital-insurance",
       "non-life-insurers/sakura-insurance"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/financial-licenses/insurance-license-and-solvency",
       "https://finwiki.zksc.io/financial-regulators/cci-group",
       "https://finwiki.zksc.io/insurance/INDEX",
       "https://finwiki.zksc.io/leasing-firms/mitsubishi-hc-capital",
+      "https://finwiki.zksc.io/non-life-insurers/INDEX",
       "https://finwiki.zksc.io/non-life-insurers/capital-insurance",
       "https://finwiki.zksc.io/non-life-insurers/sakura-insurance"
     ],
@@ -70,9 +70,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2249,
-    "word_like_tokens": 355,
+    "nonspace_chars": 2259,
+    "word_like_tokens": 357,
     "inbound_wikilinks_count": 3,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

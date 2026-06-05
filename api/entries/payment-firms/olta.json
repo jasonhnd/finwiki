@@ -38,7 +38,7 @@
       "https://corp.netprotections.com/"
     ]
   },
-  "summary": "This entry sits under the JapanFG index as a B2B factoring fintech that sits next to BNPL in the wider working-capital stack. Read it together with the Japan BNPL landscape system note, the Net Protections HD BtoB BNPL peer (NP 掛け払い), and the Money Forward / Biz Forward sibling for the SaaS-led fact",
+  "summary": "This entry sits under the payment-firms INDEX as a B2B factoring fintech that sits next to BNPL in the wider working-capital stack. Read it together with the Japan BNPL landscape system note, the Net Protections HD BtoB BNPL peer (NP 掛け払い), and the Money Forward / Biz Forward sibling for the SaaS-le",
   "headings": [
     "OLTA (オルタ)",
     "Wiki route",
@@ -53,10 +53,10 @@
   "body_links": {
     "wikilinks_count": 11,
     "wikilinks": [
-      "JapanFG/INDEX",
       "card-issuers/credit-saison",
       "card-issuers/jaccs",
       "card-issuers/orico",
+      "payment-firms/INDEX",
       "payment-firms/bnpl-landscape",
       "payment-firms/freee",
       "payment-firms/money-forward",
@@ -66,10 +66,10 @@
       "payments/japan-payment-scheme-economics-matrix"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/card-issuers/credit-saison",
       "https://finwiki.zksc.io/card-issuers/jaccs",
       "https://finwiki.zksc.io/card-issuers/orico",
+      "https://finwiki.zksc.io/payment-firms/INDEX",
       "https://finwiki.zksc.io/payment-firms/bnpl-landscape",
       "https://finwiki.zksc.io/payment-firms/freee",
       "https://finwiki.zksc.io/payment-firms/money-forward",
@@ -82,9 +82,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2621,
-    "word_like_tokens": 389,
+    "nonspace_chars": 2633,
+    "word_like_tokens": 391,
     "inbound_wikilinks_count": 1,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

@@ -1,5 +1,5 @@
 ---
-source: japanfg/yamanashi-chuo-bank
+source: regional-banks/yamanashi-chuo-bank
 source_hash: fb7bdaf4145bf4ea
 lang: ja
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-06-02T16:33:58.502Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の下に位置づける。隣接文脈については [[banking/INDEX|banking index]] とあわせて読み、より広い制度境界については [[financial-licenses/INDEX|JapanFG index]] を参照する。
+この項目は [[regional-banks/INDEX|regional-banks INDEX]] の下に位置づける。隣接文脈については [[banking/INDEX|banking index]] とあわせて読み、より広い制度境界については [[financial-licenses/INDEX|JapanFG index]] を参照する。
 
 ## 要約
 

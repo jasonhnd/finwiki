@@ -1,5 +1,5 @@
 ---
-source: japanfg/showa-leasing
+source: leasing-firms/showa-leasing
 source_hash: eaf462590dfd22e4
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T15:14:17.081Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に置かれる。比較対象として [[leasing-firms/fuyo-lease|芙蓉総合リース]]、制度全体や規制上の境界を把握する入口として [[banking/INDEX|banking index]] とあわせて読む。 As an [[regional-banks/sbi-shinsei-bank|SBI新生銀行]] グループ傘下の captive leasing entity, it should be read alongside [[consumer-finance/shinsei-financial|新生フィナンシャル]] for the broader Shinsei non-bank finance footprint.
+この項目は [[leasing-firms/INDEX|leasing-firms INDEX]] の配下に置かれる。比較対象として [[leasing-firms/fuyo-lease|芙蓉総合リース]]、制度全体や規制上の境界を把握する入口として [[banking/INDEX|banking index]] とあわせて読む。 As an [[regional-banks/sbi-shinsei-bank|SBI新生銀行]] グループ傘下の captive leasing entity, it should be read alongside [[consumer-finance/shinsei-financial|新生フィナンシャル]] for the broader Shinsei non-bank finance footprint.
 
 ## 要約
 

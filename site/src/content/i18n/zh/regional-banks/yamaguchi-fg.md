@@ -1,5 +1,5 @@
 ---
-source: japanfg/yamaguchi-fg
+source: regional-banks/yamaguchi-fg
 source_hash: 7ee0304573e68963
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.173Z
 
 ## Wiki route
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可与 [[regional-banks/fukuoka-fg|ふくおか FG (FFG)]] 对照阅读以理解同业 / 对比语境，也可与 [[banking/INDEX|banking index]] 一起阅读以把握更大的系统和监管边界。
+本条目位于 [[regional-banks/INDEX|regional-banks INDEX]] 之下。可与 [[regional-banks/fukuoka-fg|ふくおか FG (FFG)]] 对照阅读以理解同业 / 对比语境，也可与 [[banking/INDEX|banking index]] 一起阅读以把握更大的系统和监管边界。
 
 ## TL;DR
 

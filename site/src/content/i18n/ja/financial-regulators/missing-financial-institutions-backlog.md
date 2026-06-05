@@ -1,5 +1,5 @@
 ---
-source: japanfg/missing-financial-institutions-backlog
+source: financial-regulators/missing-financial-institutions-backlog
 source_hash: 2606f321d3665e5f
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:54:39.060Z
 
 ## 概要
 
-本ページは、[[JapanFG/INDEX|JapanFG]] を主要機関中心のウィキから、登録・免許一覧を意識した日本の金融機関マップへ拡張するための実行チェックリストである。
+本ページは、[[financial-regulators/INDEX|financial-regulators INDEX]] を主要機関中心のウィキから、登録・免許一覧を意識した日本の金融機関マップへ拡張するための実行チェックリストである。
 
 現在のウィキは、メガバンク、主要金融グループ、地域銀行グループ、政策金融、保険会社、証券グループ、リース、決済、フィンテック、外資系日本法人、暗号資産交換業者ページについて強い中核をすでに持つ。ただし、公的な免許・登録一覧に対してはまだ網羅的ではない。
 
@@ -213,7 +213,7 @@ translated_at: 2026-06-02T14:54:39.060Z
 | [x] | Download and normalize FSA registry Excel files into a temporary working table outside the public wiki. | 公開ウィキ外に作業コピーを作成。ローカルのワークシートはコミットしていない。 |
 | [x] | Match official names to existing wiki slugs. | 機械的な完全一致・別名下限照合を完了。グループでカバーされる項目は人手レビューが必要。 |
 | [x] | Add a compact completeness table to this backlog. | 下記QAスナップショットを参照。個人情報やローカルパスは含めていない。 |
-| [x] | 各バッチ後にドメイン索引を追加または更新する。 | `JapanFG/INDEX.md` と root [[INDEX|INDEX]] は A/F と B1 後に同期済み。Batch J は [[JapanFG/INDEX|JapanFG INDEX]] に記録。 |
+| [x] | 各バッチ後にドメイン索引を追加または更新する。 | `JapanFG/INDEX.md` と root [[INDEX|INDEX]] は A/F と B1 後に同期済み。Batch J は [[financial-regulators/INDEX|financial-regulators INDEX]] に記録。 |
 | [x] | 各バッチ後にウィキリンク健全性チェックを実行する。 | 変更ファイルのウィキリンク: 42 ファイルは B1 後に問題なし。 |
 | [x] | 各バッチで [[CHANGELOG|CHANGELOG]] を更新する。 | A/F、B1, 、Batch J は JST 時刻、範囲、検証、残作業とともに記録済み。 |
 | [x] | 各バッチ後に root [[INDEX|INDEX]] を再集計する。 | ルートドメイン表合計は 538 、ファイルシステム件数は 538 （B1 後）。Batch J は項目を追加しない。Post-Wave-13 更新（2026-05-25）では、JapanFG 見出しは現在 **620 エンティティ項目**、ファイルシステムの .md 件数は INDEX / バックログ / 非エンティティ面を含め **621**。 |

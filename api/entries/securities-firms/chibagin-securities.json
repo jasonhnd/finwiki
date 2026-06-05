@@ -43,7 +43,7 @@
       "ちばぎん証券 公式 沿革 — 商号変更 2011-01 / 千葉銀完全子会社化 2011-10 (https://www.chibagin-sec.co.jp/corporate/history/index.html)"
     ]
   },
-  "summary": "This entry sits under the JapanFG index as the FG-subsidiary securities operating-company anchor for 千葉銀行 (Chiba Bank). Read it against parent operating bank 千葉銀行 (no-holding-company 単独銀行 model) and sibling subsidiary ちばぎんリース. Peer comparison: めぶき証券 under めぶき FG (北関東地銀系証券) and FFG 証券 under FFG (九州地銀",
+  "summary": "This entry sits under the securities-firms INDEX as the FG-subsidiary securities operating-company anchor for 千葉銀行 (Chiba Bank). Read it against parent operating bank 千葉銀行 (no-holding-company 単独銀行 model) and sibling subsidiary ちばぎんリース. Peer comparison: めぶき証券 under めぶき FG (北関東地銀系証券) and FFG 証券 under",
   "headings": [
     "ちばぎん証券 (Chibagin Securities)",
     "Wiki route",
@@ -59,7 +59,6 @@
   "body_links": {
     "wikilinks_count": 25,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "banking/regional-bank-api-digital-partnership-route",
       "banking/regional-bank-consolidation-pattern",
@@ -81,12 +80,12 @@
       "paypay-securities",
       "rakuten-securities",
       "sbi-securities",
+      "securities-firms/INDEX",
       "shizuoka-fg",
       "smbc-nikko",
       "yamaguchi-fg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/regional-bank-api-digital-partnership-route",
       "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
@@ -108,6 +107,7 @@
       "https://finwiki.zksc.io/paypay-securities",
       "https://finwiki.zksc.io/rakuten-securities",
       "https://finwiki.zksc.io/sbi-securities",
+      "https://finwiki.zksc.io/securities-firms/INDEX",
       "https://finwiki.zksc.io/shizuoka-fg",
       "https://finwiki.zksc.io/smbc-nikko",
       "https://finwiki.zksc.io/yamaguchi-fg"
@@ -116,9 +116,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5858,
-    "word_like_tokens": 835,
+    "nonspace_chars": 5894,
+    "word_like_tokens": 839,
     "inbound_wikilinks_count": 1,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

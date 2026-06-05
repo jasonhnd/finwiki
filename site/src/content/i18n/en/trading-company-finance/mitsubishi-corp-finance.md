@@ -1,5 +1,5 @@
 ---
-source: japanfg/mitsubishi-corp-finance
+source: trading-company-finance/mitsubishi-corp-finance
 source_hash: 396a0db0b996a787
 lang: en
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T23:59:49.331Z
 
 ## Wiki Route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[asset-managers/mitsubishi-corp-asset-management|Mitsubishi Corporation Asset Management]] for asset-management adjacency within the same parent, and [[trading-company-finance/mitsui-bussan-financial-services|Mitsui Bussan Financial Services]] for the closest peer trading-company group-treasury arm. For the leasing peer set already covered in this wiki, see [[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]] (the Mitsubishi-side listed leasing platform), [[leasing-firms/smfl|SMFL]] (Sumitomo Corporation + SMFG), [[leasing-firms/tokyo-century|Tokyo Century]] (Itochu line), and [[cooperative-banks/ja-mitsui-leasing|JA Mitsui Leasing]] (Mitsui & Co. + JA). See [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+This entry sits under [[trading-company-finance/INDEX|trading-company-finance INDEX]]. Read it against [[asset-managers/mitsubishi-corp-asset-management|Mitsubishi Corporation Asset Management]] for asset-management adjacency within the same parent, and [[trading-company-finance/mitsui-bussan-financial-services|Mitsui Bussan Financial Services]] for the closest peer trading-company group-treasury arm. For the leasing peer set already covered in this wiki, see [[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]] (the Mitsubishi-side listed leasing platform), [[leasing-firms/smfl|SMFL]] (Sumitomo Corporation + SMFG), [[leasing-firms/tokyo-century|Tokyo Century]] (Itochu line), and [[cooperative-banks/ja-mitsui-leasing|JA Mitsui Leasing]] (Mitsui & Co. + JA). See [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## 1. Company Overview
 

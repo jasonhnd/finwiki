@@ -1,5 +1,5 @@
 ---
-source: japanfg/taiwan-business-bank-japan
+source: foreign-financial-institutions/taiwan-business-bank-japan
 source_hash: 9e82556bcde49a12
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.111Z
 
 ## Wiki route
 
-Taiwan Business Bank Japan sits under [[JapanFG/INDEX|JapanFG index]] and is a Taiwan-Japan foreign-bank branch route in [[foreign-financial-institutions/foreign-bank-branches-japan-index|the foreign-bank branch registry]]. Read it with [[foreign-financial-institutions/industrial-bank-of-korea-japan|Industrial Bank of Korea Japan]] for SME-bank comparison, [[foreign-financial-institutions/chang-hwa-bank-japan|Chang Hwa Bank Japan]] for Taiwan peer context, and [[banking/INDEX|banking index]] for the broader system boundary.
+Taiwan Business Bank Japan sits under [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]] and is a Taiwan-Japan foreign-bank branch route in [[foreign-financial-institutions/foreign-bank-branches-japan-index|the foreign-bank branch registry]]. Read it with [[foreign-financial-institutions/industrial-bank-of-korea-japan|Industrial Bank of Korea Japan]] for SME-bank comparison, [[foreign-financial-institutions/chang-hwa-bank-japan|Chang Hwa Bank Japan]] for Taiwan peer context, and [[banking/INDEX|banking index]] for the broader system boundary.
 
 Use this page for Taiwan SME-bank, Tokyo branch, remittance, and Taiwan-Japan small / mid-market corporate banking questions.
 
@@ -55,7 +55,7 @@ The current page intentionally avoids unverified claims about individual borrowe
 
 ## Related
 
-- [[JapanFG/INDEX]]
+- [[foreign-financial-institutions/INDEX]]
 - [[foreign-financial-institutions/foreign-bank-branches-japan-index]]
 - [[foreign-financial-institutions/industrial-bank-of-korea-japan]]
 - [[foreign-financial-institutions/chang-hwa-bank-japan]]

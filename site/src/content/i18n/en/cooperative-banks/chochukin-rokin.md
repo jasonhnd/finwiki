@@ -1,5 +1,5 @@
 ---
-source: japanfg/chochukin-rokin
+source: cooperative-banks/chochukin-rokin
 source_hash: 773879af268cf26b
 lang: en
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T11:13:44.871Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **largest of Japan's 13 rokin (labour bank) operating companies**, serving as the rokin-side operating-company anchor parallel to [[cooperative-banks/kyoto-chuo-shinkin|Kyoto Chuo Shinkin Bank]] (shinkin) and [[cooperative-banks/osaka-shogin-shinkumi|Osaka Shogin Credit Cooperative]] (shinkumi). Read it together with [[cooperative-banks/rokin-renraku|Labour Bank Federation (Rokinren)]] for the cooperative-system central institution, [[banking/rokin-bank-registry-japan|rokin registry]] for the 13-rokin landscape, and [[banking/cooperative-banking-japan|cooperative banking domain]] for the broader regulatory boundary.
+This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as the **largest of Japan's 13 rokin (labour bank) operating companies**, serving as the rokin-side operating-company anchor parallel to [[cooperative-banks/kyoto-chuo-shinkin|Kyoto Chuo Shinkin Bank]] (shinkin) and [[cooperative-banks/osaka-shogin-shinkumi|Osaka Shogin Credit Cooperative]] (shinkumi). Read it together with [[cooperative-banks/rokin-renraku|Labour Bank Federation (Rokinren)]] for the cooperative-system central institution, [[banking/rokin-bank-registry-japan|rokin registry]] for the 13-rokin landscape, and [[banking/cooperative-banking-japan|cooperative banking domain]] for the broader regulatory boundary.
 
 ## TL;DR
 
@@ -159,7 +159,7 @@ Members (working households + member labour unions, consumer cooperatives, NPOs)
 - [[financial-regulators/dic]] — Deposit Insurance Corporation
 - [[banking/rokin-bank-registry-japan]] — Registry of Japan's 13 labour banks
 - [[banking/cooperative-banking-japan]] — Japan's cooperative-banking domain
-- [[JapanFG/INDEX|JapanFG index]]
+- [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 
 ## Sources
 

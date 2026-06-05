@@ -34,7 +34,7 @@
       "Wikipedia: 鹿児島銀行 (2026-05-19 抽出)"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against ふくおか FG (FFG) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under regional-banks INDEX. Read it against ふくおか FG (FFG) for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [
     "九州 FG (Kyushu FG)",
     "Wiki route",
@@ -50,7 +50,6 @@
   "body_links": {
     "wikilinks_count": 17,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "concordia-fg",
       "fukuoka-fg",
@@ -63,13 +62,13 @@
       "mizuho-fg",
       "mufg",
       "nishi-nippon-fhd",
+      "regional-banks/INDEX",
       "regional-banks/chiba-bank",
       "regional-banks/fukuoka-fg",
       "sbi-hd",
       "smfg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/concordia-fg",
       "https://finwiki.zksc.io/fukuoka-fg",
@@ -82,6 +81,7 @@
       "https://finwiki.zksc.io/mizuho-fg",
       "https://finwiki.zksc.io/mufg",
       "https://finwiki.zksc.io/nishi-nippon-fhd",
+      "https://finwiki.zksc.io/regional-banks/INDEX",
       "https://finwiki.zksc.io/regional-banks/chiba-bank",
       "https://finwiki.zksc.io/regional-banks/fukuoka-fg",
       "https://finwiki.zksc.io/sbi-hd",
@@ -91,9 +91,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3688,
-    "word_like_tokens": 606,
+    "nonspace_chars": 3702,
+    "word_like_tokens": 608,
     "inbound_wikilinks_count": 7,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

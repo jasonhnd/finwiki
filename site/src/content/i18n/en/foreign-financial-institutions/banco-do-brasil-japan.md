@@ -1,5 +1,5 @@
 ---
-source: japanfg/banco-do-brasil-japan
+source: foreign-financial-institutions/banco-do-brasil-japan
 source_hash: 013cc2fae429006d
 lang: en
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T11:13:44.916Z
 
 ## Wiki route
 
-Banco do Brasil Japan sits under [[JapanFG/INDEX|JapanFG index]] and is the Brazil-Japan foreign-bank branch route in [[foreign-financial-institutions/foreign-bank-branches-japan-index|the foreign-bank branch registry]]. Read it with [[payments/funds-transfer-service-providers-japan-index|funds-transfer registry]], [[financial-licenses/foreign-bank-branch-license-route|foreign-bank branch route]], [[financial-licenses/foreign-bank-agency-business-route|foreign-bank agency route]], and [[finance/cross-border-m-a-japan|cross-border finance]].
+Banco do Brasil Japan sits under [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]] and is the Brazil-Japan foreign-bank branch route in [[foreign-financial-institutions/foreign-bank-branches-japan-index|the foreign-bank branch registry]]. Read it with [[payments/funds-transfer-service-providers-japan-index|funds-transfer registry]], [[financial-licenses/foreign-bank-branch-license-route|foreign-bank branch route]], [[financial-licenses/foreign-bank-agency-business-route|foreign-bank agency route]], and [[finance/cross-border-m-a-japan|cross-border finance]].
 
 Use this page for BB Japão, Japan-Brazil remittance, foreign-currency deposits, branch banking, and corporate international operations.
 
@@ -58,7 +58,7 @@ For analysis, compare it with [[foreign-financial-institutions/philippine-nation
 
 ## Related
 
-- [[JapanFG/INDEX]]
+- [[foreign-financial-institutions/INDEX]]
 - [[foreign-financial-institutions/foreign-bank-branches-japan-index]]
 - [[financial-licenses/foreign-bank-branch-license-route]]
 - [[financial-licenses/foreign-bank-agency-business-route]]

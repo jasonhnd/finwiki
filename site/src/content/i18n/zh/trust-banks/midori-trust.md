@@ -1,5 +1,5 @@
 ---
-source: japanfg/midori-trust
+source: trust-banks/midori-trust
 source_hash: 33dc200e3aeaa938
 lang: zh
 status: machine
@@ -9,7 +9,7 @@ translated_at: 2026-05-31T23:59:49.401Z
 ---
 # Midori Trust / 绿信托
 
-Wiki route: [[JapanFG/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/midori-trust]]
+Wiki route: [[trust-banks/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/midori-trust]]
 
 ## 概览
 

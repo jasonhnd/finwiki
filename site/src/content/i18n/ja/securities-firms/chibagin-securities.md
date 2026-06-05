@@ -1,5 +1,5 @@
 ---
-source: japanfg/chibagin-securities
+source: securities-firms/chibagin-securities
 source_hash: 8184ad07e1ec311b
 lang: ja
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-02T14:01:20.918Z
 
 ## ウィキ上の位置づけ
 
-この項目は、[[JapanFG/INDEX|JapanFG index]] の下にある、[[chiba-bank|千葉銀行 (Chiba Bank)]] 向けの FG 子会社証券事業会社アンカーである。親銀行である [[chiba-bank|千葉銀行]]（持株会社化していない単独銀行モデル）および兄弟子会社 [[chibagin-leasing|ちばぎんリース]] と照らして読む。ピア比較は、[[mebuki-securities|めぶき証券]]（[[mebuki-fg|めぶき FG]] 傘下の北関東地銀系証券）と、[[ffg-securities|FFG 証券]]（[[fukuoka-fg|FFG]] 傘下の九州地銀系証券）。より広いシステムルートは [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]]、[[banking/regional-bank-api-digital-partnership-route|regional-bank API/digital partnership route]]、[[banking/INDEX|banking index]] を参照。投資対象ユニバースの文脈は [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]]。
+この項目は、[[securities-firms/INDEX|securities-firms INDEX]] の下にある、[[chiba-bank|千葉銀行 (Chiba Bank)]] 向けの FG 子会社証券事業会社アンカーである。親銀行である [[chiba-bank|千葉銀行]]（持株会社化していない単独銀行モデル）および兄弟子会社 [[chibagin-leasing|ちばぎんリース]] と照らして読む。ピア比較は、[[mebuki-securities|めぶき証券]]（[[mebuki-fg|めぶき FG]] 傘下の北関東地銀系証券）と、[[ffg-securities|FFG 証券]]（[[fukuoka-fg|FFG]] 傘下の九州地銀系証券）。より広いシステムルートは [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]]、[[banking/regional-bank-api-digital-partnership-route|regional-bank API/digital partnership route]]、[[banking/INDEX|banking index]] を参照。投資対象ユニバースの文脈は [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]]。
 
 ## 要約
 
@@ -114,7 +114,7 @@ translated_at: 2026-06-02T14:01:20.918Z
 - [[sbi-securities]] · [[rakuten-securities]] · [[gmo-click-securities]] · [[paypay-securities]]
 - [[jsda]] · [[banking/regional-bank-consolidation-pattern]] · [[banking/regional-bank-api-digital-partnership-route]] · [[banking/INDEX]]
 - [[finance/japan-listed-financial-groups-investable-universe]] · [[finance/INDEX]]
-- [[JapanFG/INDEX|JapanFG index]]
+- [[securities-firms/INDEX|securities-firms INDEX]]
 
 ## 出典
 

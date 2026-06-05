@@ -17,7 +17,7 @@ sources:
 
 # Midori Trust / みどり信託
 
-Wiki route: [[JapanFG/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/midori-trust]]
+Wiki route: [[trust-banks/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/midori-trust]]
 
 ## Overview
 

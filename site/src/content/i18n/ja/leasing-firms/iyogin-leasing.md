@@ -1,5 +1,5 @@
 ---
-source: japanfg/iyogin-leasing
+source: leasing-firms/iyogin-leasing
 source_hash: 4059ac30cfb6879d
 lang: ja
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-02T14:25:12.448Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の下に位置づけられ、[[iyogin-hd|いよぎん HD]] グループ（[[iyo-bank|伊予銀行]] 母体）における FG 子会社型リース事業会社のアンカーである。比較対象は親銀行 [[iyo-bank|伊予銀行]] と兄弟会社のいよぎん DC カード / いよぎん地域経済研究センター (IRC) / いよぎんキャピタル。ピア比較では [[mebuki-lease|めぶきリース]]（北関東）/ [[yokohama-bank-leasing|横浜銀リース]]（神奈川）/ [[chibagin-leasing|ちばぎんリース]]（千葉）/ [[yamaguchi-leasing|山口リース]]（中国地方西部）/ [[hokkaido-lease|北海道リース]]、および大手リース会社 [[mitsubishi-hc-capital|三菱 HC キャピタル]] / [[mizuho-lease|みずほリース]] / [[tokyo-century|東京センチュリー]] を参照する。より広い制度ルートは [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]]、[[banking/regional-bank-api-digital-partnership-route|regional-bank API/digital partnership route]]、[[banking/INDEX|banking index]] を参照し、投資対象ユニバースの文脈は [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]] で扱う。
+この項目は [[leasing-firms/INDEX|leasing-firms INDEX]] の下に位置づけられ、[[iyogin-hd|いよぎん HD]] グループ（[[iyo-bank|伊予銀行]] 母体）における FG 子会社型リース事業会社のアンカーである。比較対象は親銀行 [[iyo-bank|伊予銀行]] と兄弟会社のいよぎん DC カード / いよぎん地域経済研究センター (IRC) / いよぎんキャピタル。ピア比較では [[mebuki-lease|めぶきリース]]（北関東）/ [[yokohama-bank-leasing|横浜銀リース]]（神奈川）/ [[chibagin-leasing|ちばぎんリース]]（千葉）/ [[yamaguchi-leasing|山口リース]]（中国地方西部）/ [[hokkaido-lease|北海道リース]]、および大手リース会社 [[mitsubishi-hc-capital|三菱 HC キャピタル]] / [[mizuho-lease|みずほリース]] / [[tokyo-century|東京センチュリー]] を参照する。より広い制度ルートは [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]]、[[banking/regional-bank-api-digital-partnership-route|regional-bank API/digital partnership route]]、[[banking/INDEX|banking index]] を参照し、投資対象ユニバースの文脈は [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]] で扱う。
 
 ## 要約
 
@@ -112,7 +112,7 @@ translated_at: 2026-06-02T14:25:12.448Z
 - [[ja-mitsui-leasing]] · [[nec-leasing]] · [[showa-leasing]] · [[toyota-finance]] · [[ibj-leasing]] · [[kanematsu-leasing]]
 - [[banking/regional-bank-consolidation-pattern]] · [[banking/regional-bank-api-digital-partnership-route]] · [[banking/INDEX]]
 - [[finance/japan-listed-financial-groups-investable-universe]] · [[finance/INDEX]]
-- [[JapanFG/INDEX|JapanFG index]]
+- [[leasing-firms/INDEX|leasing-firms INDEX]]
 
 ## 出典
 

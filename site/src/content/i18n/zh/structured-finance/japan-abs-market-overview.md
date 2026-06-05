@@ -12,7 +12,7 @@ translated_at: 2026-06-01T04:15:40.132Z
 
 ## TL;DR
 
-日本资产支持证券市场大致分为三层：规模很大的 JHF MBS 层（Japan Housing Finance Agency，政府支持的 senior class）、private RMBS 层（由 megabanks 和信托银行发起的 jumbo mortgage pools），以及通过 TK-GK SPVs 或指定目的公司发行的 consumer / auto / CMBS / project 层。2008 之后，CMBS 侧发行急剧下降；JHF MBS 引擎持续运行，现在主导日元计价结构化票据。请将本页作为 [[structured-finance/INDEX]] 的路由界面，并用于将 [[JapanFG/INDEX]] 中的 originator company pages 连接到本领域的结构机制。
+日本资产支持证券市场大致分为三层：规模很大的 JHF MBS 层（Japan Housing Finance Agency，政府支持的 senior class）、private RMBS 层（由 megabanks 和信托银行发起的 jumbo mortgage pools），以及通过 TK-GK SPVs 或指定目的公司发行的 consumer / auto / CMBS / project 层。2008 之后，CMBS 侧发行急剧下降；JHF MBS 引擎持续运行，现在主导日元计价结构化票据。请将本页作为 [[structured-finance/INDEX]] 的路由界面，并用于将 [[structured-finance/INDEX]] 中的 originator company pages 连接到本领域的结构机制。
 
 ## Wiki route
 
@@ -97,7 +97,6 @@ translated_at: 2026-06-01T04:15:40.132Z
 - [[policy-finance/japan-housing-finance-agency]]
 - [[real-estate-finance/INDEX]]
 - [[banking/INDEX]]
-- [[JapanFG/INDEX]]
 
 ## Sources
 

@@ -1,5 +1,5 @@
 ---
-source: japanfg/tokyo-star-bank
+source: regional-banks/tokyo-star-bank
 source_hash: a699eaded09cbabc
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T16:33:58.456Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に置く。ピア比較・対比の文脈では [[regional-banks/kanagawa-bank|神奈川銀行]] と、より広い制度・規制上の境界では [[banking/INDEX|banking index]] と合わせて読む。
+この項目は [[regional-banks/INDEX|regional-banks INDEX]] の配下に置く。ピア比較・対比の文脈では [[regional-banks/kanagawa-bank|神奈川銀行]] と、より広い制度・規制上の境界では [[banking/INDEX|banking index]] と合わせて読む。
 
 ## 要約
 

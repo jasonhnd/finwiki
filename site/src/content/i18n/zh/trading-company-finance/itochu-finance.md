@@ -1,5 +1,5 @@
 ---
-source: japanfg/itochu-finance
+source: trading-company-finance/itochu-finance
 source_hash: 91d3c5e7a2edbe0e
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T15:29:03.967Z
 
 ## 维基路线
 
-该条目位于 [[JapanFG/INDEX|JapanFG index]] 下。对照[[leasing-firms/tokyo-century|東京センチュリー]]（同母公司**外部租赁/资产融资**平台——伊藤忠+瑞穗FG的2 轴股东结构，上市8439）和[[trading-company-finance/mitsubishi-corp-finance|三菱商事フィナンシャルサービス]]（最接近的同行贸易公司集团财务部门）来阅读。对于更广泛的对等集，请参阅 [[trading-company-finance/mitsui-bussan-financial-services|三井物産FS]]、[[trading-company-finance/marubeni-financial-services|丸紅フィナンス]]、[[trading-company-finance/sumitomo-corp-financial-management|住友商事FM]]。请参阅 [[banking/INDEX|banking index]] 了解更广泛的监管范围。
+该条目位于 [[trading-company-finance/INDEX|trading-company-finance INDEX]] 下。对照[[leasing-firms/tokyo-century|東京センチュリー]]（同母公司**外部租赁/资产融资**平台——伊藤忠+瑞穗FG的2 轴股东结构，上市8439）和[[trading-company-finance/mitsubishi-corp-finance|三菱商事フィナンシャルサービス]]（最接近的同行贸易公司集团财务部门）来阅读。对于更广泛的对等集，请参阅 [[trading-company-finance/mitsui-bussan-financial-services|三井物産FS]]、[[trading-company-finance/marubeni-financial-services|丸紅フィナンス]]、[[trading-company-finance/sumitomo-corp-financial-management|住友商事FM]]。请参阅 [[banking/INDEX|banking index]] 了解更广泛的监管范围。
 
 ## 1。公司简介
 

@@ -37,7 +37,7 @@
       "https://www.boy.co.jp/boy/company/gaiyou.html"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 東日本銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under regional-banks INDEX. Read it against 東日本銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [
     "横浜銀行",
     "Wiki route",
@@ -51,28 +51,28 @@
   "body_links": {
     "wikilinks_count": 6,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "concordia-fg",
       "higashi-nippon-bank",
       "kanagawa-bank",
+      "regional-banks/INDEX",
       "regional-banks/higashi-nippon-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/concordia-fg",
       "https://finwiki.zksc.io/higashi-nippon-bank",
       "https://finwiki.zksc.io/kanagawa-bank",
+      "https://finwiki.zksc.io/regional-banks/INDEX",
       "https://finwiki.zksc.io/regional-banks/higashi-nippon-bank"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1766,
-    "word_like_tokens": 281,
+    "nonspace_chars": 1780,
+    "word_like_tokens": 283,
     "inbound_wikilinks_count": 16,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

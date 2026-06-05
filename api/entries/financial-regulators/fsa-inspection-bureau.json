@@ -41,7 +41,7 @@
       "https://www.fsa.go.jp/news/30/20180626.html"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it alongside FSA 監督局, which absorbed this bureau's function in the 2018 reorganization, and FSA 総合政策局 for the new strategy / governance lane created in the same reform. For the broader regulatory perimeter, anchor through legal / financial licenses and banki",
+  "summary": "This entry sits under financial-regulators INDEX. Read it alongside FSA 監督局, which absorbed this bureau's function in the 2018 reorganization, and FSA 総合政策局 for the new strategy / governance lane created in the same reform. For the broader regulatory perimeter, anchor through legal / financial licen",
   "headings": [
     "検査局 (FSA Inspection Bureau — historical)",
     "Wiki route",
@@ -55,9 +55,9 @@
   "body_links": {
     "wikilinks_count": 8,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "financial-licenses/INDEX",
+      "financial-regulators/INDEX",
       "financial-regulators/boj-financial-system-dept",
       "financial-regulators/cpaaob",
       "financial-regulators/fsa-planning-coordination-bureau",
@@ -65,9 +65,9 @@
       "financial-regulators/fsa-supervision-bureau"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/financial-licenses/INDEX",
+      "https://finwiki.zksc.io/financial-regulators/INDEX",
       "https://finwiki.zksc.io/financial-regulators/boj-financial-system-dept",
       "https://finwiki.zksc.io/financial-regulators/cpaaob",
       "https://finwiki.zksc.io/financial-regulators/fsa-planning-coordination-bureau",
@@ -78,9 +78,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5576,
-    "word_like_tokens": 895,
+    "nonspace_chars": 5602,
+    "word_like_tokens": 897,
     "inbound_wikilinks_count": 7,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

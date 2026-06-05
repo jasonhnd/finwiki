@@ -1,5 +1,5 @@
 ---
-source: japanfg/ja-shinnoren
+source: cooperative-banks/ja-shinnoren
 source_hash: 68220c94967c30ff
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:59:49.319Z
 
 ## Wiki route
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下，作为 [[banking/ja-bank-system-japan|JA Bank system]] 的**都道府县信用联合会层**，位于本地 JA（497  cooperatives）与全国中央机构 [[cooperative-banks/norinchukin|農林中央金庫]] 之间。可与 [[cooperative-banks/jf-shingyoren|JF 信漁連]] 一起阅读，以理解渔业侧对应机构；也可与 [[banking/cooperative-banking-japan|cooperative banking domain]] 一起阅读，以理解更广泛语境。
+本条目位于 [[cooperative-banks/INDEX|cooperative-banks INDEX]] 之下，作为 [[banking/ja-bank-system-japan|JA Bank system]] 的**都道府县信用联合会层**，位于本地 JA（497  cooperatives）与全国中央机构 [[cooperative-banks/norinchukin|農林中央金庫]] 之间。可与 [[cooperative-banks/jf-shingyoren|JF 信漁連]] 一起阅读，以理解渔业侧对应机构；也可与 [[banking/cooperative-banking-japan|cooperative banking domain]] 一起阅读，以理解更广泛语境。
 
 ## TL;DR
 
@@ -115,7 +115,7 @@ JA Bank system（3 层结构）
 - [[cooperative-banks/rokin-renraku]] -- 劳动金库业界中央机构（比较）
 - [[banking/ja-bank-system-japan]] -- JA Bank system boundary
 - [[banking/cooperative-banking-japan]] -- 协同组织金融整体
-- [[JapanFG/INDEX|JapanFG index]]
+- [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 
 ## Sources
 

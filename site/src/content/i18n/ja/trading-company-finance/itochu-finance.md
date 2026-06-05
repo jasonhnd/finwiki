@@ -1,5 +1,5 @@
 ---
-source: japanfg/itochu-finance
+source: trading-company-finance/itochu-finance
 source_hash: 91d3c5e7a2edbe0e
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:25:12.402Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に置く。[[leasing-firms/tokyo-century|東京センチュリー]] は同じ親会社を持つ **外向けリース・アセットファイナンス** プラットフォーム（伊藤忠 + みずほ FG の 2 軸株主構造、上場 8439）であり、[[trading-company-finance/mitsubishi-corp-finance|三菱商事フィナンシャルサービス]] は最も近い比較対象である商社系グループ財務子会社である。より広い比較対象群は [[trading-company-finance/mitsui-bussan-financial-services|三井物産FS]]、[[trading-company-finance/marubeni-financial-services|丸紅フィナンス]]、[[trading-company-finance/sumitomo-corp-financial-management|住友商事FM]]、より広い規制境界は [[banking/INDEX|banking index]] を参照。
+この項目は [[trading-company-finance/INDEX|trading-company-finance INDEX]] の配下に置く。[[leasing-firms/tokyo-century|東京センチュリー]] は同じ親会社を持つ **外向けリース・アセットファイナンス** プラットフォーム（伊藤忠 + みずほ FG の 2 軸株主構造、上場 8439）であり、[[trading-company-finance/mitsubishi-corp-finance|三菱商事フィナンシャルサービス]] は最も近い比較対象である商社系グループ財務子会社である。より広い比較対象群は [[trading-company-finance/mitsui-bussan-financial-services|三井物産FS]]、[[trading-company-finance/marubeni-financial-services|丸紅フィナンス]]、[[trading-company-finance/sumitomo-corp-financial-management|住友商事FM]]、より広い規制境界は [[banking/INDEX|banking index]] を参照。
 
 ## 1. 会社概要
 

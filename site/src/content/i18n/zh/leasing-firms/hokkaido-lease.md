@@ -1,5 +1,5 @@
 ---
-source: japanfg/hokkaido-lease
+source: leasing-firms/hokkaido-lease
 source_hash: 52e2e7afc49ffe5f
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T15:29:03.912Z
 
 ## Wiki 路径
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 下。可与 [[leasing-firms/fuyo-lease|芙蓉综合租赁]]、[[regional-banks/hokkaido-bank|北海道银行]]、[[regional-banks/hokuyo-bank|北洋银行]] 和 [[banking/INDEX|banking index]] 对照阅读。
+本条目位于 [[leasing-firms/INDEX|leasing-firms INDEX]] 下。可与 [[leasing-firms/fuyo-lease|芙蓉综合租赁]]、[[regional-banks/hokkaido-bank|北海道银行]]、[[regional-banks/hokuyo-bank|北洋银行]] 和 [[banking/INDEX|banking index]] 对照阅读。
 
 ## TL;DR
 

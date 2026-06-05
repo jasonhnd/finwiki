@@ -1,5 +1,5 @@
 ---
-source: japanfg/hachijuni-bank
+source: regional-banks/hachijuni-bank
 source_hash: fdd8171dbd1cb4d7
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:25:12.393Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の下に置く。ピア比較・対照の文脈では [[regional-banks/fukuoka-fg|ふくおか FG (FFG)]] と照合し、より広い制度・規制上の境界は [[banking/INDEX|banking index]] と併読する。
+この項目は [[regional-banks/INDEX|regional-banks INDEX]] の下に置く。ピア比較・対照の文脈では [[regional-banks/fukuoka-fg|ふくおか FG (FFG)]] と照合し、より広い制度・規制上の境界は [[banking/INDEX|banking index]] と併読する。
 
 ## 要約
 

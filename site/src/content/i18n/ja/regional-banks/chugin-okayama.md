@@ -1,5 +1,5 @@
 ---
-source: japanfg/chugin-okayama
+source: regional-banks/chugin-okayama
 source_hash: 713e904ff29c3e15
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:01:20.955Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の下に置かれる。 [[regional-banks/fukuoka-fg|ふくおか FG (FFG)]] をピア比較・対照の文脈として、[[banking/INDEX|banking index]] をより広い制度・規制境界としてあわせて読む。
+この項目は [[regional-banks/INDEX|regional-banks INDEX]] の下に置かれる。 [[regional-banks/fukuoka-fg|ふくおか FG (FFG)]] をピア比較・対照の文脈として、[[banking/INDEX|banking index]] をより広い制度・規制境界としてあわせて読む。
 
 ## 要約
 

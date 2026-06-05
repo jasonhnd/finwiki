@@ -1,5 +1,5 @@
 ---
-source: japanfg/monex-group
+source: securities-firms/monex-group
 source_hash: 87b85712ea1d994a
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:59:49.414Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[securities-firms/nomura-hd|野村ホールディングス (Nomura HD)]] for peer / contrast context and [[securities/INDEX|securities index]] for the broader system / regulatory boundary.
+This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it against [[securities-firms/nomura-hd|野村ホールディングス (Nomura HD)]] for peer / contrast context and [[securities/INDEX|securities index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 

@@ -1,5 +1,5 @@
 ---
-source: japanfg/aozora-bank-detail
+source: regional-banks/aozora-bank-detail
 source_hash: 870742c7aa12ddd4
 lang: en
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T11:13:44.855Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]] and complements the company-level summary at [[regional-banks/aozora-bank|あおぞら銀行]]. Read it against [[regional-banks/sbi-shinsei-bank|SBI 新生銀行]] for post-rehabilitation peer context, [[megabanks/mufg-bank|三菱UFJ銀行]] / [[megabanks/smbc|SMBC]] / [[megabanks/mizuho-bank|みずほ銀行]] for mega-bank contrast, and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] and complements the company-level summary at [[regional-banks/aozora-bank|あおぞら銀行]]. Read it against [[regional-banks/sbi-shinsei-bank|SBI 新生銀行]] for post-rehabilitation peer context, [[megabanks/mufg-bank|三菱UFJ銀行]] / [[megabanks/smbc|SMBC]] / [[megabanks/mizuho-bank|みずほ銀行]] for mega-bank contrast, and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
@@ -134,7 +134,7 @@ For details, see EDINET securities reports and Aozora Bank IR earnings releases.
 - [[megabanks/smbc|SMBC]] — mega corporate bank
 - [[megabanks/mizuho-bank|みずほ銀行]] — mega corporate bank
 - [[regional-banks/tokyo-star-bank|東京スター銀行]] — mid-sized special-bank peer
-- [[JapanFG/INDEX|JapanFG index]]
+- [[regional-banks/INDEX|regional-banks INDEX]]
 - [[banking/INDEX|Banking domain index]]
 
 ## Sources

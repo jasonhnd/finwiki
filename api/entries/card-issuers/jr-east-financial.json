@@ -49,7 +49,7 @@
       "Wikipedia: 東日本旅客鉄道 / ビューカード / JRE BANK (公開情報, 2026-05-25 抽出)"
     ]
   },
-  "summary": "This entry sits under JapanFG index as the operating-company anchor for JR 東日本 (East Japan Railway Company) グループの金融サブセクター — specifically, ビューカード（View Card）+ JRE BANK（楽天銀行と提携の BaaS 銀行口座）+ Suica 電子マネー / JR 東日本ペイメントサービス の 3 軸構成. Read it against 東急カード（Tokyu Card）・小田急カード for transit-captive peer comparis",
+  "summary": "This entry sits under card-issuers INDEX as the operating-company anchor for JR 東日本 (East Japan Railway Company) グループの金融サブセクター — specifically, ビューカード（View Card）+ JRE BANK（楽天銀行と提携の BaaS 銀行口座）+ Suica 電子マネー / JR 東日本ペイメントサービス の 3 軸構成. Read it against 東急カード（Tokyu Card）・小田急カード for transit-captive peer com",
   "headings": [
     "JR東日本 金融グループ (JR-East Financial Subsidiaries)",
     "Wiki route",
@@ -65,11 +65,11 @@
   "body_links": {
     "wikilinks_count": 13,
     "wikilinks": [
-      "JapanFG/INDEX",
       "JapanFG/odakyu-cards",
       "JapanFG/rakuten-bank",
       "JapanFG/tokyu-card",
       "banking/baas-rakuten-jre-bank",
+      "card-issuers/INDEX",
       "card-issuers/aeon-bank",
       "megabanks/au-fh",
       "payments/d-barai",
@@ -80,11 +80,11 @@
       "regional-banks/seven-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/JapanFG/odakyu-cards",
       "https://finwiki.zksc.io/JapanFG/rakuten-bank",
       "https://finwiki.zksc.io/JapanFG/tokyu-card",
       "https://finwiki.zksc.io/banking/baas-rakuten-jre-bank",
+      "https://finwiki.zksc.io/card-issuers/INDEX",
       "https://finwiki.zksc.io/card-issuers/aeon-bank",
       "https://finwiki.zksc.io/megabanks/au-fh",
       "https://finwiki.zksc.io/payments/d-barai",
@@ -98,9 +98,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6341,
-    "word_like_tokens": 1188,
+    "nonspace_chars": 6356,
+    "word_like_tokens": 1191,
     "inbound_wikilinks_count": 7,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

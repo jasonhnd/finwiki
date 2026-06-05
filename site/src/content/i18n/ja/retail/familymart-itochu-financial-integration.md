@@ -12,7 +12,7 @@ translated_at: 2026-06-03T00:53:08.301Z
 
 ## ウィキ上の位置づけ
 
-このエントリは、**3 番目の主要な CVS 金融再編の詳細**として [[retail/INDEX|retail index]] の下に位置し、[[retail/seven-i-holdings-finance-deep-dive|Seven & i Holdings finance deep dive]] および [[retail/lawson-mitsubishi-corporation-tie-up-2024-deep|Lawson + Mitsubishi 2024 deep tie-up]] の三分法を完了します。ファミリーマートの事件は、ローソンが 2020  で踏襲した商社主導の非公開化パターンの **2024  前例**です。ファミリーマートは、KDDI と三菱商事がローソンに対して同じことを行う 4 年前の [[financial-conglomerates/itochu-corp|Itochu Corporation]] 年 11 月に **2020, ** によって非公開化されました。これをクロスケースウェッジビューの [[retail/japan-retail-financial-distribution-wedge-matrix|Japan retail financial-distribution wedge matrix]]、ロイヤルティレイヤーの [[loyalty/japan-points-landscape|Japan points landscape]]、クロスロイヤルティコンテキストの [[loyalty/d-point-detailed-ecosystem|d Point detailed ecosystem]] / [[loyalty/v-point-smbc-ccc-case|V Point case]] / [[loyalty/ponta-points-deep-dive|Ponta points deep dive]]、親およびファイナンスアームアンカーの [[financial-conglomerates/itochu-corp|Itochu Corporation]] および [[trading-company-finance/itochu-finance|Itochu Finance]]、ウォレットレイヤーのオーバーレイの [[payments/japan-code-payment-operator-2025-market-share-matrix|Japan code-payment operator 2025 market share matrix]] と組み合わせます。規制対象エンティティの境界用の [[JapanFG/INDEX|JapanFG index]]。
+このエントリは、**3 番目の主要な CVS 金融再編の詳細**として [[retail/INDEX|retail index]] の下に位置し、[[retail/seven-i-holdings-finance-deep-dive|Seven & i Holdings finance deep dive]] および [[retail/lawson-mitsubishi-corporation-tie-up-2024-deep|Lawson + Mitsubishi 2024 deep tie-up]] の三分法を完了します。ファミリーマートの事件は、ローソンが 2020  で踏襲した商社主導の非公開化パターンの **2024  前例**です。ファミリーマートは、KDDI と三菱商事がローソンに対して同じことを行う 4 年前の [[financial-conglomerates/itochu-corp|Itochu Corporation]] 年 11 月に **2020, ** によって非公開化されました。これをクロスケースウェッジビューの [[retail/japan-retail-financial-distribution-wedge-matrix|Japan retail financial-distribution wedge matrix]]、ロイヤルティレイヤーの [[loyalty/japan-points-landscape|Japan points landscape]]、クロスロイヤルティコンテキストの [[loyalty/d-point-detailed-ecosystem|d Point detailed ecosystem]] / [[loyalty/v-point-smbc-ccc-case|V Point case]] / [[loyalty/ponta-points-deep-dive|Ponta points deep dive]]、親およびファイナンスアームアンカーの [[financial-conglomerates/itochu-corp|Itochu Corporation]] および [[trading-company-finance/itochu-finance|Itochu Finance]]、ウォレットレイヤーのオーバーレイの [[payments/japan-code-payment-operator-2025-market-share-matrix|Japan code-payment operator 2025 market share matrix]] と組み合わせます。規制対象エンティティの境界用の [[retail/INDEX|retail INDEX]]。
 
 ## 要約
 
@@ -28,7 +28,7 @@ translated_at: 2026-06-03T00:53:08.301Z
 | TOB完了日 | **11月 2020** |
 | 上場廃止 | ファミリーマート、2020-11 で東証一部から上場廃止|
 | 私有化後 | アンカーとしての伊藤忠商事株式会社 (~50%+) と共同投資家 |
-| 重要な歴史的背景 | ファミリーマートは以前ユニーを吸収合併（ユニーホールディングス→ドン・キホーテホールディングス／[[JapanFG/INDEX|PPIH]]体制）していたため、非公開化はドン・キホーテ／ユニー事業分野の親子関係にも影響を与えた。 |
+| 重要な歴史的背景 | ファミリーマートは以前ユニーを吸収合併（ユニーホールディングス→ドン・キホーテホールディングス／[[retail/INDEX|retail INDEX]]体制）していたため、非公開化はドン・キホーテ／ユニー事業分野の親子関係にも影響を与えた。 |
 | 上場時代のティッカー | 8028 (上場廃止) |
 
 伊藤忠商事の戦略的根拠は、サプライチェーンの統合、食品サービスへの投資、グループ間の消費者データの活用を可能にする**CVS小売チャネルの直接管理**でした。非公開化は、公開市場のCVS評価が低迷し、伊藤忠商事が少数株式を吸収するだけの資金的余裕があった新型コロナウイルス感染症19 時代に起こった。

@@ -1,5 +1,5 @@
 ---
-source: japanfg/hana-bank-japan
+source: foreign-financial-institutions/hana-bank-japan
 source_hash: 1afb14d344258c4e
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:25:12.421Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の下に置く。[[foreign-financial-institutions/woori-bank-japan|ウリィ銀行 東京支店]] は比較対象の文脈、[[banking/INDEX|banking index]] は制度全体と規制境界の文脈として併読する。
+この項目は [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]] の下に置く。[[foreign-financial-institutions/woori-bank-japan|ウリィ銀行 東京支店]] は比較対象の文脈、[[banking/INDEX|banking index]] は制度全体と規制境界の文脈として併読する。
 
 ## 要約
 

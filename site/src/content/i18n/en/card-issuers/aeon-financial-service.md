@@ -1,5 +1,5 @@
 ---
-source: japanfg/aeon-financial-service
+source: card-issuers/aeon-financial-service
 source_hash: 85e621a8dbf797f6
 lang: en
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-05-31T11:13:44.939Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[card-issuers/seven-card-service|セブン・カードサービス (Seven Card Service)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+This entry sits under [[card-issuers/INDEX|card-issuers INDEX]]. Read it against [[card-issuers/seven-card-service|セブン・カードサービス (Seven Card Service)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 

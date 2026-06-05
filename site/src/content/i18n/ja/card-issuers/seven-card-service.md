@@ -1,5 +1,5 @@
 ---
-source: japanfg/seven-card-service
+source: card-issuers/seven-card-service
 source_hash: 54174640074807c2
 lang: ja
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-06-02T15:14:17.103Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]]に置かれる。併せて[[payments/INDEX|payments index]] 隣接文脈を確認する and [[payments/funds-transfer-vs-prepaid-boundary|Funds transfer vs prepaid boundary in Japan]] より広い制度境界を確認する.
+この項目は [[card-issuers/INDEX|card-issuers INDEX]]に置かれる。併せて[[payments/INDEX|payments index]] 隣接文脈を確認する and [[payments/funds-transfer-vs-prepaid-boundary|Funds transfer vs prepaid boundary in Japan]] より広い制度境界を確認する.
 
 ## 要約
 

@@ -42,7 +42,7 @@
       "日本生命「Vision 2030」公式説明資料"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 明治安田生命保険相互会社 for peer / contrast context and insurance index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under life-insurers INDEX. Read it against 明治安田生命保険相互会社 for peer / contrast context and insurance index for the broader system / regulatory boundary.",
   "headings": [
     "日本生命保険相互会社 (Nippon Life)",
     "Wiki route",
@@ -58,11 +58,11 @@
   "body_links": {
     "wikilinks_count": 10,
     "wikilinks": [
-      "JapanFG/INDEX",
       "dai-ichi-life",
       "insurance/INDEX",
       "insurance/esr-economic-value-solvency",
       "insurance/mutual-vs-stock-life-insurer",
+      "life-insurers/INDEX",
       "life-insurers/meiji-yasuda",
       "megabanks/nippon-post",
       "mizuho-fg",
@@ -70,11 +70,11 @@
       "smfg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/dai-ichi-life",
       "https://finwiki.zksc.io/insurance/INDEX",
       "https://finwiki.zksc.io/insurance/esr-economic-value-solvency",
       "https://finwiki.zksc.io/insurance/mutual-vs-stock-life-insurer",
+      "https://finwiki.zksc.io/life-insurers/INDEX",
       "https://finwiki.zksc.io/life-insurers/meiji-yasuda",
       "https://finwiki.zksc.io/megabanks/nippon-post",
       "https://finwiki.zksc.io/mizuho-fg",
@@ -85,9 +85,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6824,
-    "word_like_tokens": 1198,
+    "nonspace_chars": 6836,
+    "word_like_tokens": 1200,
     "inbound_wikilinks_count": 31,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

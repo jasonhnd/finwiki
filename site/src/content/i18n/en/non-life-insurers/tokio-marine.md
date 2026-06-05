@@ -1,5 +1,5 @@
 ---
-source: japanfg/tokio-marine
+source: non-life-insurers/tokio-marine
 source_hash: 52fb10d2c1579f5e
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.178Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[non-life-insurers/sompo|SOMPO ホールディングス (Sompo Holdings)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read it against [[non-life-insurers/sompo|SOMPO ホールディングス (Sompo Holdings)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
@@ -152,7 +152,7 @@ Tokio Marine HD (holding company, listed 8766)
 
 - [[non-life-insurers/msad|ms-ad]] · [[non-life-insurers/sompo|sompo-hd]] -- domestic 3  mega non-life insurers
 - [[mufg]] · [[smfg]] · [[mizuho-fg]] -- bank FGs (a different category from non-life insurance, but linked and competitive in corporate finance)
-- [[JapanFG/INDEX]]
+- [[non-life-insurers/INDEX]]
 
 ## Sources
 

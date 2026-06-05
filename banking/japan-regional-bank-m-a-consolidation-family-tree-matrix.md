@@ -37,7 +37,7 @@ Post-1990 regional-bank consolidation in Japan has produced a layered map of ban
 
 ## Wiki route
 
-This entry sits under [[banking/INDEX|banking index]]. Read it with [[banking/regional-bank-consolidation-pattern|Regional bank consolidation pattern]] for the structural drivers (population, NIM, system cost, AML, digital), [[banking/regional-bank-api-digital-partnership-route|Regional bank API and digital partnership route]] for the digital-rail layer, [[banking/japan-banking-license-tier-comparison-matrix|Japan banking-license tier comparison matrix]] for the regional vs second-regional vs cooperative licence-tier split, and [[banking/post-megabank-positioning|Post-megabank positioning]] for the largest-regional vs megabank-edge cases. The FG holding-company population is the [[JapanFG/INDEX|JapanFG index]]. The complete FSA list of bank holding companies underpinning this matrix is the FSA 銀行持株会社一覧 PDF.
+This entry sits under [[banking/INDEX|banking index]]. Read it with [[banking/regional-bank-consolidation-pattern|Regional bank consolidation pattern]] for the structural drivers (population, NIM, system cost, AML, digital), [[banking/regional-bank-api-digital-partnership-route|Regional bank API and digital partnership route]] for the digital-rail layer, [[banking/japan-banking-license-tier-comparison-matrix|Japan banking-license tier comparison matrix]] for the regional vs second-regional vs cooperative licence-tier split, and [[banking/post-megabank-positioning|Post-megabank positioning]] for the largest-regional vs megabank-edge cases. The FG holding-company population is the [[banking/INDEX|banking INDEX]]. The complete FSA list of bank holding companies underpinning this matrix is the FSA 銀行持株会社一覧 PDF.
 
 ## Why this family-tree matters
 
@@ -297,7 +297,6 @@ The combination of these drivers produced the wave of FGs documented in this mat
 - [[megabanks/resona-hd]]
 - [[life-insurers/td-hd]]
 - [[financial-regulators/cci-group]]
-- [[JapanFG/INDEX|JapanFG index]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

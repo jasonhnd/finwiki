@@ -1,5 +1,5 @@
 ---
-source: japanfg/kochi-bank
+source: regional-banks/kochi-bank
 source_hash: d3eaae4cc65c46e7
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:05:42.097Z
 
 ## Wiki route
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 下。可与 [[regional-banks/tokushima-taisho-bank|徳島大正銀行]] 对照阅读，以理解同业和差异；更广泛的制度和监管边界见 [[banking/INDEX|banking index]]。
+本条目位于 [[regional-banks/INDEX|regional-banks INDEX]] 下。可与 [[regional-banks/tokushima-taisho-bank|徳島大正銀行]] 对照阅读，以理解同业和差异；更广泛的制度和监管边界见 [[banking/INDEX|banking index]]。
 
 ## TL;DR
 

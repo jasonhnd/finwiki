@@ -1,5 +1,5 @@
 ---
-source: japanfg/sapporo-shinkin
+source: cooperative-banks/sapporo-shinkin
 source_hash: 13b85f611a1055b8
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T00:41:50.428Z
 
 ## Wiki 路径
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可与 [[regional-banks/hokkaido-bank|北海道銀行]] 和 [[regional-banks/hokuyo-bank|北洋銀行]] 对读以理解县级商业银行对应关系；可与 [[cooperative-banks/yokohama-shinkin|横浜信用金庫]] 对读以比较其他都道府县 city-anchor 信用金库；也可与 [[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]] 对读，把握由 [[cooperative-banks/shinkin-central|信金中央金庫]] 维护、由 [[financial-regulators/zenshin-kyo|全国信用金庫協会]] 代表的更广 254-信用金库系统。北海道有 20 家持牌信用金库（FSA 2025-11-06），是全国都道府县中数量最多的地区，因此本页面是该区块的运营公司 anchor。
+本条目位于 [[cooperative-banks/INDEX|cooperative-banks INDEX]] 之下。可与 [[regional-banks/hokkaido-bank|北海道銀行]] 和 [[regional-banks/hokuyo-bank|北洋銀行]] 对读以理解县级商业银行对应关系；可与 [[cooperative-banks/yokohama-shinkin|横浜信用金庫]] 对读以比较其他都道府县 city-anchor 信用金库；也可与 [[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]] 对读，把握由 [[cooperative-banks/shinkin-central|信金中央金庫]] 维护、由 [[financial-regulators/zenshin-kyo|全国信用金庫協会]] 代表的更广 254-信用金库系统。北海道有 20 家持牌信用金库（FSA 2025-11-06），是全国都道府县中数量最多的地区，因此本页面是该区块的运营公司 anchor。
 
 ## TL;DR
 
@@ -83,7 +83,7 @@ translated_at: 2026-06-01T00:41:50.428Z
 
 ## Related
 
-- [[JapanFG/INDEX|JapanFG index]]
+- [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 - [[cooperative-banks/shinkin-central|信金中央金庫]]
 - [[financial-regulators/zenshin-kyo|全国信用金庫協会]]
 - [[cooperative-banks/shinkin-network-services|信金ネットワークサービス]]

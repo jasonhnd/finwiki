@@ -1,5 +1,5 @@
 ---
-source: japanfg/japan-asia-securities
+source: securities-firms/japan-asia-securities
 source_hash: 87d7cebfe40e47b1
 lang: ja
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-06-02T14:25:12.389Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に位置づける。アジア・新興国に焦点を置く中堅独立系証券との比較は [[securities-firms/aizawa-securities|アイザワ証券]] / [[securities-firms/iwai-cosmo-securities|岩井コスモ証券]]、老舗独立系証券の文脈は [[securities-firms/marusan-securities|丸三証券]]、より広い市場構造上の境界は [[securities/INDEX|securities index]] とあわせて読む。
+この項目は [[securities-firms/INDEX|securities-firms INDEX]] の配下に位置づける。アジア・新興国に焦点を置く中堅独立系証券との比較は [[securities-firms/aizawa-securities|アイザワ証券]] / [[securities-firms/iwai-cosmo-securities|岩井コスモ証券]]、老舗独立系証券の文脈は [[securities-firms/marusan-securities|丸三証券]]、より広い市場構造上の境界は [[securities/INDEX|securities index]] とあわせて読む。
 
 ## 要約
 
@@ -100,7 +100,7 @@ translated_at: 2026-06-02T14:25:12.389Z
 - [[securities-firms/marusan-securities|丸三証券]] — 関東基盤老舗独立中堅証券ピア
 - [[securities-firms/aizawa-sg|アイザワ証券グループ]] — 親 HD（差別化ピア）
 - [[securities-firms/tokai-tokyo-securities|東海東京証券]] — 東海基盤独立中堅証券ピア
-- [[JapanFG/INDEX|JapanFG index]]
+- [[securities-firms/INDEX|securities-firms INDEX]]
 - [[securities/INDEX|Securities domain index]]
 
 ## 出典

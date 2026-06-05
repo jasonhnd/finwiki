@@ -1,5 +1,5 @@
 ---
-source: japanfg/hitachi-capital
+source: leasing-firms/hitachi-capital
 source_hash: 2da2f50d7c4ef25c
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T15:29:03.866Z
 
 ## Wiki 路径
 
-本条目位于 [[JapanFG/INDEX|JapanFG 索引]] 之下。阅读时应与 [[leasing-firms/mitsubishi-hc-capital|三菱 HC Capital]] 对照，后者是 2021 年经营合并后的存续实体；也可参照 [[banking/INDEX|银行索引]] 与 [[megabanks/mufg|MUFG]]，理解合并后的集团边界。
+本条目位于 [[leasing-firms/INDEX|leasing-firms INDEX]] 之下。阅读时应与 [[leasing-firms/mitsubishi-hc-capital|三菱 HC Capital]] 对照，后者是 2021 年经营合并后的存续实体；也可参照 [[banking/INDEX|银行索引]] 与 [[megabanks/mufg|MUFG]]，理解合并后的集团边界。
 
 ## TL;DR
 

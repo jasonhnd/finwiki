@@ -1,5 +1,5 @@
 ---
-source: japanfg/chochukin-rokin
+source: cooperative-banks/chochukin-rokin
 source_hash: 773879af268cf26b
 lang: ja
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-02T14:01:20.941Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] 配下に置き、**日本の 13 ろうきん（労働金庫）事業会社の中で最大**のアンカーとして、[[cooperative-banks/kyoto-chuo-shinkin|京都中央信用金庫]]（信金）および [[cooperative-banks/osaka-shogin-shinkumi|大阪商銀信用組合]]（信組）と並ぶろうきん側の事業会社アンカーを提供する。協同組織系統中央機関は [[cooperative-banks/rokin-renraku|労働金庫連合会 (Rokinren)]]、[[banking/rokin-bank-registry-japan|rokin registry]] は 13ろうきんの全体像、より広い規制境界は [[banking/cooperative-banking-japan|cooperative banking domain]] と併読する。
+この項目は [[cooperative-banks/INDEX|cooperative-banks INDEX]] 配下に置き、**日本の 13 ろうきん（労働金庫）事業会社の中で最大**のアンカーとして、[[cooperative-banks/kyoto-chuo-shinkin|京都中央信用金庫]]（信金）および [[cooperative-banks/osaka-shogin-shinkumi|大阪商銀信用組合]]（信組）と並ぶろうきん側の事業会社アンカーを提供する。協同組織系統中央機関は [[cooperative-banks/rokin-renraku|労働金庫連合会 (Rokinren)]]、[[banking/rokin-bank-registry-japan|rokin registry]] は 13ろうきんの全体像、より広い規制境界は [[banking/cooperative-banking-japan|cooperative banking domain]] と併読する。
 
 ## 要約
 
@@ -158,7 +158,7 @@ translated_at: 2026-06-02T14:01:20.941Z
 - [[financial-regulators/dic]] — 預金保険機構
 - [[banking/rokin-bank-registry-japan]] — 労働金庫 13 金庫 registry
 - [[banking/cooperative-banking-japan]] — 協同組織金融全体
-- [[JapanFG/INDEX|JapanFG index]]
+- [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 
 ## 出典
 

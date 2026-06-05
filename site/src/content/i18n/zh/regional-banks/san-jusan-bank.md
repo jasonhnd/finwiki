@@ -1,5 +1,5 @@
 ---
-source: japanfg/san-jusan-bank
+source: regional-banks/san-jusan-bank
 source_hash: 40ab911f087580c3
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T00:41:50.400Z
 
 ## Wiki 路由
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下，是 [[san-jusan-fg|三十三 FG]] 控股公司路径下的银行牌照运营公司锚点。请结合县内竞争对手 [[hyakugo-bank|百五銀行]]、中部同业银行 [[juroku-bank|十六銀行]] / [[aichi-bank|あいち銀行]]，以及更广泛体系 / 监管边界 [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]] 阅读。
+本条目位于 [[regional-banks/INDEX|regional-banks INDEX]] 之下，是 [[san-jusan-fg|三十三 FG]] 控股公司路径下的银行牌照运营公司锚点。请结合县内竞争对手 [[hyakugo-bank|百五銀行]]、中部同业银行 [[juroku-bank|十六銀行]] / [[aichi-bank|あいち銀行]]，以及更广泛体系 / 监管边界 [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]] 阅读。
 
 ## TL;DR
 
@@ -126,7 +126,7 @@ translated_at: 2026-06-01T00:41:50.400Z
 - [[san-jusan-fg]] · [[hyakugo-bank]] · [[aichi-bank]] · [[juroku-bank]] · [[ogaki-kyoritsu-bank]]
 - [[aichi-fg]] · [[juroku-fg]] · [[kyoto-fg]]
 - [[banking/regional-bank-consolidation-pattern]] · [[banking/INDEX]]
-- [[JapanFG/INDEX|JapanFG index]]
+- [[regional-banks/INDEX|regional-banks INDEX]]
 
 ## Sources
 

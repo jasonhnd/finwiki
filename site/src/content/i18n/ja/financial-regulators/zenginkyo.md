@@ -1,5 +1,5 @@
 ---
-source: japanfg/zenginkyo
+source: financial-regulators/zenginkyo
 source_hash: bfd2780c0081b3cb
 lang: ja
 status: machine
@@ -16,7 +16,7 @@ translated_at: 2026-06-02T16:33:58.503Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の下に位置づける。同業の業界団体である [[financial-regulators/zenchugin-kyo|Regional Banks Association]]、[[financial-regulators/dai2-chigin-kyo|Second Association of Regional Banks]]、[[financial-regulators/zenshin-kyo|Zenshin-kyō (shinkin national association)]]、[[financial-regulators/shintaku-kyokai|Trust Companies Association of Japan]] とあわせて読む。法令上の背景は [[financial-licenses/INDEX]] と [[financial-licenses/bank-license-and-baas-boundary]]、預金保護側の対応関係は [[financial-regulators/yokin-hoken-kiko|Deposit Insurance Corporation of Japan]]、より広い銀行業界全体は [[banking/INDEX]] を参照する。
+この項目は [[financial-regulators/INDEX|financial-regulators INDEX]] の下に位置づける。同業の業界団体である [[financial-regulators/zenchugin-kyo|Regional Banks Association]]、[[financial-regulators/dai2-chigin-kyo|Second Association of Regional Banks]]、[[financial-regulators/zenshin-kyo|Zenshin-kyō (shinkin national association)]]、[[financial-regulators/shintaku-kyokai|Trust Companies Association of Japan]] とあわせて読む。法令上の背景は [[financial-licenses/INDEX]] と [[financial-licenses/bank-license-and-baas-boundary]]、預金保護側の対応関係は [[financial-regulators/yokin-hoken-kiko|Deposit Insurance Corporation of Japan]]、より広い銀行業界全体は [[banking/INDEX]] を参照する。
 
 ## 法令ルート / 法的な位置づけ
 
@@ -57,7 +57,7 @@ translated_at: 2026-06-02T16:33:58.503Z
 
 ## 関連項目
 
-- [[JapanFG/INDEX|JapanFG index]]
+- [[financial-regulators/INDEX|financial-regulators INDEX]]
 - [[financial-regulators/zenchugin-kyo|Regional Banks Association of Japan]]
 - [[financial-regulators/dai2-chigin-kyo|Second Association of Regional Banks]]
 - [[financial-regulators/zenshin-kyo|National Association of Shinkin Banks]]

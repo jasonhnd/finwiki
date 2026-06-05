@@ -1,5 +1,5 @@
 ---
-source: japanfg/epos-card
+source: card-issuers/epos-card
 source_hash: 40bb27d8ad70941e
 lang: ja
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-06-02T14:25:12.432Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の下に置く。比較対象・対照軸は [[card-issuers/pocket-card|ポケットカード (Pocket Card)]]、より広い制度・規制境界は [[payments/INDEX|payments index]] とあわせて読む。
+この項目は [[card-issuers/INDEX|card-issuers INDEX]] の下に置く。比較対象・対照軸は [[card-issuers/pocket-card|ポケットカード (Pocket Card)]]、より広い制度・規制境界は [[payments/INDEX|payments index]] とあわせて読む。
 
 ## 要約
 

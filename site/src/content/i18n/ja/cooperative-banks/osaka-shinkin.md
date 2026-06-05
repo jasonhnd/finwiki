@@ -1,5 +1,5 @@
 ---
-source: japanfg/osaka-shinkin
+source: cooperative-banks/osaka-shinkin
 source_hash: d167a3a8a95eb40d
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T15:14:17.131Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に位置する。関西信用金庫ブロック内のピア比較・対比では [[cooperative-banks/kyoto-chuo-shinkin|京都中央信用金庫]]、より広い制度・規制上の境界では [[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]] とあわせて読む。この境界は [[cooperative-banks/shinkin-central|信金中央金庫]] が維持する。
+この項目は [[cooperative-banks/INDEX|cooperative-banks INDEX]] の配下に位置する。関西信用金庫ブロック内のピア比較・対比では [[cooperative-banks/kyoto-chuo-shinkin|京都中央信用金庫]]、より広い制度・規制上の境界では [[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]] とあわせて読む。この境界は [[cooperative-banks/shinkin-central|信金中央金庫]] が維持する。
 
 ## 要約
 

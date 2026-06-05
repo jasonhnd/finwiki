@@ -24,7 +24,7 @@ sources:
 
 Japan's code-payment market is recorded as a battle among wallet ecosystems, merchant acceptance networks, loyalty budgets, and settlement / funds-transfer capabilities. METI's 2025 cashless-payment release reports a **58.0%** cashless ratio and identifies code payment as **10.2% of cashless payment value, or 16.6 trillion yen**, while the Cashless Promotion Council publishes code-payment trend surveys covering store value / count, remittance, charge balance, and MAU.
 
-This page routes code-payment analysis under [[payments/INDEX|payments]] and links consumer wallet operators in [[JapanFG/INDEX|JapanFG]] with PSP / gateway infrastructure such as [[payment-firms/netstars|Netstars]] and [[payments/psp-merchant-settlement-risk|merchant settlement risk]].
+This page routes code-payment analysis under [[payments/INDEX|payments]] and links consumer wallet operators in [[payments/INDEX|payments INDEX]] with PSP / gateway infrastructure such as [[payment-firms/netstars|Netstars]] and [[payments/psp-merchant-settlement-risk|merchant settlement risk]].
 
 ## Competitive Lanes
 

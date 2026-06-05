@@ -12,7 +12,7 @@ translated_at: 2026-06-02T11:47:37.266Z
 
 ## ウィキ上の位置づけ
 
-本項目は [[business/INDEX|business INDEX]] の下に、公開企業の戦略的事例として位置づけられる。逆方向のクロスサブシディのパターン(金融がモバイルを補助 vs 通信会社が金融を補助)については [[business/rakuten-group-mobile-finance-bundling-case|Rakuten Group mobile-finance bundling case]]、インターネットから金融へのコングロマリットの対比については [[business/gmo-internet-group|GMO Internet Group]]、ソフトバンク側の並行事例については [[megabanks/paypay-fg|PayPay FG]] と対照して読むこと。[[JapanFG/INDEX|JapanFG INDEX]] および [[payments/cashless-jp-landscape|payments INDEX]] と併せること。
+本項目は [[business/INDEX|business INDEX]] の下に、公開企業の戦略的事例として位置づけられる。逆方向のクロスサブシディのパターン(金融がモバイルを補助 vs 通信会社が金融を補助)については [[business/rakuten-group-mobile-finance-bundling-case|Rakuten Group mobile-finance bundling case]]、インターネットから金融へのコングロマリットの対比については [[business/gmo-internet-group|GMO Internet Group]]、ソフトバンク側の並行事例については [[megabanks/paypay-fg|PayPay FG]] と対照して読むこと。[[business/INDEX|business INDEX]] および [[payments/cashless-jp-landscape|payments INDEX]] と併せること。
 
 ## 要約
 

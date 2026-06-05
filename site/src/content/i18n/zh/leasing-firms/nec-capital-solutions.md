@@ -1,5 +1,5 @@
 ---
-source: japanfg/nec-capital-solutions
+source: leasing-firms/nec-capital-solutions
 source_hash: c9333a9a24ecba06
 lang: zh
 status: machine
@@ -11,11 +11,11 @@ translated_at: 2026-06-01T00:41:50.393Z
 
 ## Wiki 路由
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。请结合 [[leasing-firms/hitachi-capital|日立キャピタル（旧）]] / [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]] 阅读，以取得厂商 / 系统集成商系租赁同业语境；结合 [[leasing-firms/tokyo-century|東京センチュリー]] / [[leasing-firms/smfl|三井住友ファイナンス&リース]] 阅读，以取得大型综合租赁同业语境；并结合 [[banking/INDEX|banking index]] 阅读，以理解更广泛的体系 / 监管边界。
+本条目位于 [[leasing-firms/INDEX|leasing-firms INDEX]] 之下。请结合 [[leasing-firms/hitachi-capital|日立キャピタル（旧）]] / [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]] 阅读，以取得厂商 / 系统集成商系租赁同业语境；结合 [[leasing-firms/tokyo-century|東京センチュリー]] / [[leasing-firms/smfl|三井住友ファイナンス&リース]] 阅读，以取得大型综合租赁同业语境；并结合 [[banking/INDEX|banking index]] 阅读，以理解更广泛的体系 / 监管边界。
 
 ## TL;DR
 
-NEC Capital Solutions Limited 是 **[[JapanFG/INDEX|日本電気 (NEC)]] 系中型综合租赁公司**，在东证 PRIME 上市，证券代码 **8793**。它于 1978-08  以旧「日本电气租赁株式会社」成立，主要目的为 NEC 系设备租赁，后经商号变更成为现在的 NEC Capital Solutions。其核心是 **面向 IT 解决方案、通信设备和产业设备的 NEC 集团厂商金融平台**，同时持续拓展非 NEC 案件，包括医疗设备、产业设备、船舶 / 航空和公共部门。母公司 NEC 的持股比例处于 37-40% 区间并按权益法适用，因此它不是 NEC 的合并子公司，但战略合作和销售协同仍然紧密。同业包括厂商系的 [[leasing-firms/hitachi-capital|日立キャピタル]]、富士通租赁、Ricoh Leasing（[[leasing-firms/ricoh-leasing|リコーリース]]）等，以及综合租赁上位公司 [[leasing-firms/orix-corp|オリックス]] / [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]] / [[leasing-firms/tokyo-century|東京センチュリー]] / [[leasing-firms/smfl|三井住友ファイナンス&リース]]。
+NEC Capital Solutions Limited 是 **[[leasing-firms/INDEX|leasing-firms INDEX]] 系中型综合租赁公司**，在东证 PRIME 上市，证券代码 **8793**。它于 1978-08  以旧「日本电气租赁株式会社」成立，主要目的为 NEC 系设备租赁，后经商号变更成为现在的 NEC Capital Solutions。其核心是 **面向 IT 解决方案、通信设备和产业设备的 NEC 集团厂商金融平台**，同时持续拓展非 NEC 案件，包括医疗设备、产业设备、船舶 / 航空和公共部门。母公司 NEC 的持股比例处于 37-40% 区间并按权益法适用，因此它不是 NEC 的合并子公司，但战略合作和销售协同仍然紧密。同业包括厂商系的 [[leasing-firms/hitachi-capital|日立キャピタル]]、富士通租赁、Ricoh Leasing（[[leasing-firms/ricoh-leasing|リコーリース]]）等，以及综合租赁上位公司 [[leasing-firms/orix-corp|オリックス]] / [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]] / [[leasing-firms/tokyo-century|東京センチュリー]] / [[leasing-firms/smfl|三井住友ファイナンス&リース]]。
 
 ## 1. 法人 / 股东
 
@@ -108,7 +108,7 @@ NEC Capital 是中等规模厂商系租赁公司的代表。
 - [[leasing-firms/orix-corp|オリックス]]：最大型综合租赁
 - [[leasing-firms/smfl|SMFL]]：银行系租赁
 - [[leasing-firms/mizuho-lease|みずほリース]]：银行系租赁
-- [[JapanFG/INDEX|JapanFG index]]
+- [[leasing-firms/INDEX|leasing-firms INDEX]]
 - [[banking/INDEX|Banking domain index]]
 
 ## Sources

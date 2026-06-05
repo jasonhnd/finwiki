@@ -1,5 +1,5 @@
 ---
-source: japanfg/tokio-marine-nichido-life
+source: life-insurers/tokio-marine-nichido-life
 source_hash: 2becf6186b2812f9
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T16:33:58.486Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の下に位置する。同業比較・対比の文脈は [[life-insurers/dai-ichi-frontier-life|第一フロンティア生命保険]]、より広い制度・規制上の境界は [[insurance/INDEX|insurance index]] とあわせて読む。
+この項目は [[life-insurers/INDEX|life-insurers INDEX]] の下に位置する。同業比較・対比の文脈は [[life-insurers/dai-ichi-frontier-life|第一フロンティア生命保険]]、より広い制度・規制上の境界は [[insurance/INDEX|insurance index]] とあわせて読む。
 
 ## 要約
 

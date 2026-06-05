@@ -1,5 +1,5 @@
 ---
-source: japanfg/cardif-nonlife
+source: non-life-insurers/cardif-nonlife
 source_hash: b0737a58c150f879
 lang: en
 status: machine
@@ -9,7 +9,7 @@ translated_at: 2026-05-31T11:13:44.858Z
 ---
 ﻿# Cardif Non-Life Japan / Cardif Non-Life Insurance
 
-Wiki route: [[JapanFG/INDEX]] -> [[insurance/INDEX]] -> [[non-life-insurers/cardif-nonlife]]
+Wiki route: [[non-life-insurers/INDEX]] -> [[insurance/INDEX]] -> [[non-life-insurers/cardif-nonlife]]
 
 ## Overview
 

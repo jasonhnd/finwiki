@@ -1,5 +1,5 @@
 ---
-source: japanfg/dai2-chigin-kyo
+source: financial-regulators/dai2-chigin-kyo
 source_hash: be20005980618851
 lang: en
 status: machine
@@ -16,7 +16,7 @@ Dai-ni Chigin-kyō (第二地銀協) is the industry body for Japan's second-tie
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it with [[financial-regulators/zenchugin-kyo|Regional Banks Association of Japan]] for the first-tier lineage, [[financial-regulators/zenginkyo|Japanese Bankers Association]] for cross-industry coordination, and [[financial-regulators/zenshin-kyo|Zenshin-kyō]] for the shinkin co-operative banking adjacent track. Statutory backdrop sits at [[financial-licenses/INDEX]] and [[financial-licenses/bank-license-and-baas-boundary]]; failure-resolution backstop is [[financial-regulators/yokin-hoken-kiko|Deposit Insurance Corporation of Japan]]; the wider operator universe is in [[banking/INDEX]].
+This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]]. Read it with [[financial-regulators/zenchugin-kyo|Regional Banks Association of Japan]] for the first-tier lineage, [[financial-regulators/zenginkyo|Japanese Bankers Association]] for cross-industry coordination, and [[financial-regulators/zenshin-kyo|Zenshin-kyō]] for the shinkin co-operative banking adjacent track. Statutory backdrop sits at [[financial-licenses/INDEX]] and [[financial-licenses/bank-license-and-baas-boundary]]; failure-resolution backstop is [[financial-regulators/yokin-hoken-kiko|Deposit Insurance Corporation of Japan]]; the wider operator universe is in [[banking/INDEX]].
 
 ## Legal route / statutory position (法令の根拠)
 
@@ -53,7 +53,7 @@ The distinction between "first-tier" and "second-tier" regional banks is a recur
 
 ## Related
 
-- [[JapanFG/INDEX|JapanFG index]]
+- [[financial-regulators/INDEX|financial-regulators INDEX]]
 - [[financial-regulators/zenginkyo|Japanese Bankers Association]]
 - [[financial-regulators/zenchugin-kyo|Regional Banks Association of Japan]]
 - [[financial-regulators/zenshin-kyo|National Association of Shinkin Banks]]

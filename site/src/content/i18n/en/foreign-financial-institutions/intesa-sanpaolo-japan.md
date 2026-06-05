@@ -1,5 +1,5 @@
 ---
-source: japanfg/intesa-sanpaolo-japan
+source: foreign-financial-institutions/intesa-sanpaolo-japan
 source_hash: b5c741df61a897ee
 lang: en
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-05-31T15:29:03.946Z
 
 ## Wiki route
 
-This entry sits under[[JapanFG/INDEX|JapanFG index]]. Read it against[[foreign-financial-institutions/credit-agricole-bank-japan|クレディ・アグリコル銀行 東京支店]]for peer / contrast context and[[banking/INDEX|banking index]]for the broader system / regulatory boundary.
+This entry sits under[[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]]. Read it against[[foreign-financial-institutions/credit-agricole-bank-japan|クレディ・アグリコル銀行 東京支店]]for peer / contrast context and[[banking/INDEX|banking index]]for the broader system / regulatory boundary.
 
 ## TL;DR
 
@@ -35,7 +35,7 @@ Intesa Sanpaolo Tokyo Branch is a bank branch in Japan of Italy / Intesa Sanpaol
 
 Intesa Sanpaolo's official newsroom describes its Tokyo corporate branch as using specialist expertise to support Italian and international customers doing business in Japan, and to help Japanese businesses expand abroad. The same article notes presence in Tokyo since1972 through Intesa Sanpaolo and predecessors.
 
-The branch is best understood as a corporate / trade / project-finance and Italian-business bridge rather than a domestic retail bank. Public cases such as financing for Italian businesses in Japan illustrate the branch's role in the bilateral corporate corridor. The Italian P0 branch slot in[[JapanFG/INDEX|JapanFG]]sits alongside French peers like[[foreign-financial-institutions/credit-agricole-bank-japan|Crédit Agricole Tokyo]]and German[[foreign-financial-institutions/commerzbank-japan|Commerzbank Tokyo]]in[[banking/INDEX|banking]]coverage.
+The branch is best understood as a corporate / trade / project-finance and Italian-business bridge rather than a domestic retail bank. Public cases such as financing for Italian businesses in Japan illustrate the branch's role in the bilateral corporate corridor. The Italian P0 branch slot in[[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]]sits alongside French peers like[[foreign-financial-institutions/credit-agricole-bank-japan|Crédit Agricole Tokyo]]and German[[foreign-financial-institutions/commerzbank-japan|Commerzbank Tokyo]]in[[banking/INDEX|banking]]coverage.
 
 ## 3 . Why this page matters
 

@@ -1,5 +1,5 @@
 ---
-source: japanfg/nippon-life
+source: life-insurers/nippon-life
 source_hash: 10c29fbc68aa0cfd
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T00:41:50.460Z
 
 ## Wiki 路径
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可与 [[life-insurers/meiji-yasuda|明治安田生命保険相互会社]] 对读以理解同业和对比关系，并与 [[insurance/INDEX|insurance index]] 对读以把握更广的制度 / 监管边界。
+本条目位于 [[life-insurers/INDEX|life-insurers INDEX]] 之下。可与 [[life-insurers/meiji-yasuda|明治安田生命保険相互会社]] 对读以理解同业和对比关系，并与 [[insurance/INDEX|insurance index]] 对读以把握更广的制度 / 监管边界。
 
 ## TL;DR
 

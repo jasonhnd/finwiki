@@ -1,5 +1,5 @@
 ---
-source: japanfg/japan-post-bank
+source: regional-banks/japan-post-bank
 source_hash: c17ce58ea76bbca7
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:59:49.335Z
 
 ## Wiki 路径
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下，是 [[regional-banks/yucho|ゆうちょ銀行 (Japan Post Bank) entity anchor]] 实体锚点的运营画像配套页。可结合 [[megabanks/mufg|MUFG]] · [[megabanks/smfg|SMFG]] · [[megabanks/mizuho-fg|Mizuho FG]] 进行 megabank 资产类别同业比较，结合 [[megabanks/resona-hd|りそなホールディングス]] 比较上市非 megabank universal bank，结合 [[banking/cooperative-banking-japan|cooperative banking Japan]] 理解 megabank 之外下一个大型存款系统，并结合 [[banking/post-megabank-positioning|post-megabank positioning]] 结构化理解 Japan Post Bank 在上市零售银行宇宙中的位置。还可与 [[policy-finance/japan-policy-finance-system|Japan policy finance system]] 一起理解残余政府金融边界，并与 [[banking/japan-net-bank-competition-map|Japan net bank competition map]] 一起理解数字分销比较对象。
+本条目位于 [[regional-banks/INDEX|regional-banks INDEX]] 之下，是 [[regional-banks/yucho|ゆうちょ銀行 (Japan Post Bank) entity anchor]] 实体锚点的运营画像配套页。可结合 [[megabanks/mufg|MUFG]] · [[megabanks/smfg|SMFG]] · [[megabanks/mizuho-fg|Mizuho FG]] 进行 megabank 资产类别同业比较，结合 [[megabanks/resona-hd|りそなホールディングス]] 比较上市非 megabank universal bank，结合 [[banking/cooperative-banking-japan|cooperative banking Japan]] 理解 megabank 之外下一个大型存款系统，并结合 [[banking/post-megabank-positioning|post-megabank positioning]] 结构化理解 Japan Post Bank 在上市零售银行宇宙中的位置。还可与 [[policy-finance/japan-policy-finance-system|Japan policy finance system]] 一起理解残余政府金融边界，并与 [[banking/japan-net-bank-competition-map|Japan net bank competition map]] 一起理解数字分销比较对象。
 
 ## 1. 集团与所有权位置
 
@@ -161,7 +161,7 @@ JPB 公开的核心财务数据显示出结构性模式：
 
 ## 相关
 
-- [[JapanFG/INDEX]]
+- [[regional-banks/INDEX]]
 - [[regional-banks/yucho]] — 实体锚点配套页
 - [[megabanks/japan-post-holdings]]
 - [[megabanks/japan-post]]

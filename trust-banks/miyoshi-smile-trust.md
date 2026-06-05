@@ -18,7 +18,7 @@ sources:
 
 # Miyoshi Smile Trust / 三好スマイル信託
 
-Wiki route: [[JapanFG/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/miyoshi-smile-trust]]
+Wiki route: [[trust-banks/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/miyoshi-smile-trust]]
 
 ## Overview
 

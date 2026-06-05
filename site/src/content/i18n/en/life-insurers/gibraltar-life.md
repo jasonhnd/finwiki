@@ -1,5 +1,5 @@
 ---
-source: japanfg/gibraltar-life
+source: life-insurers/gibraltar-life
 source_hash: 0b6ffa2940d830a5
 lang: en
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-05-31T15:29:03.942Z
 
 ## Wiki route
 
-This entry sits under[[JapanFG/INDEX|JapanFG index]]. Read it against[[life-insurers/pgf-life|プルデンシャル ジブラルタ ファイナンシャル生命保険]]for peer / contrast context and[[insurance/INDEX|insurance index]]for the broader system / regulatory boundary.
+This entry sits under[[life-insurers/INDEX|life-insurers INDEX]]. Read it against[[life-insurers/pgf-life|プルデンシャル ジブラルタ ファイナンシャル生命保険]]for peer / contrast context and[[insurance/INDEX|insurance index]]for the broader system / regulatory boundary.
 
 ## TL;DR
 

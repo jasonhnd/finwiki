@@ -1,5 +1,5 @@
 ---
-source: japanfg/japan-securities-finance
+source: financial-regulators/japan-securities-finance
 source_hash: 9e5c38133dc1f147
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:59:49.361Z
 
 ## Wiki 路径
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可对照 [[financial-regulators/japan-exchange-group|日本取引所グループ (JPX)]] 阅读，以获得同业 / 对比语境；也可对照 [[securities/INDEX|securities index]] 阅读，以把握更广的体系 / 监管边界。
+本条目位于 [[financial-regulators/INDEX|financial-regulators INDEX]] 之下。可对照 [[financial-regulators/japan-exchange-group|日本取引所グループ (JPX)]] 阅读，以获得同业 / 对比语境；也可对照 [[securities/INDEX|securities index]] 阅读，以把握更广的体系 / 监管边界。
 
 ## TL;DR
 

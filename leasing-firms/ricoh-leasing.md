@@ -24,7 +24,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[leasing-firms/fuyo-lease|芙蓉総合リース]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary. As a Ricoh / Mizuho-adjacent leasing platform it should be read together with [[megabanks/mizuho-fg|Mizuho FG]] and [[leasing-firms/mizuho-lease|Mizuho Leasing]] when mapping Mizuho-side asset-finance exposure.
+This entry sits under [[leasing-firms/INDEX|leasing-firms INDEX]]. Read it against [[leasing-firms/fuyo-lease|芙蓉総合リース]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary. As a Ricoh / Mizuho-adjacent leasing platform it should be read together with [[megabanks/mizuho-fg|Mizuho FG]] and [[leasing-firms/mizuho-lease|Mizuho Leasing]] when mapping Mizuho-side asset-finance exposure.
 
 ## TL;DR
 

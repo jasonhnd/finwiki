@@ -1,5 +1,5 @@
 ---
-source: japanfg/sonpo-hosho-kiko
+source: financial-regulators/sonpo-hosho-kiko
 source_hash: bf77b2ef80e31ac0
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.127Z
 
 ## Wiki 路径
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可结合 [[financial-regulators/seimei-hokensha-hogo-kiko|生命保険契約者保護機構]] 作为平行安全网同业，并结合 [[financial-regulators/dic|預金保険機構]] / [[financial-regulators/fsa|金融庁]] 理解更广泛的制度 / 监管边界。
+本条目位于 [[financial-regulators/INDEX|financial-regulators INDEX]] 之下。可结合 [[financial-regulators/seimei-hokensha-hogo-kiko|生命保険契約者保護機構]] 作为平行安全网同业，并结合 [[financial-regulators/dic|預金保険機構]] / [[financial-regulators/fsa|金融庁]] 理解更广泛的制度 / 监管边界。
 
 ## 摘要
 
@@ -115,7 +115,7 @@ translated_at: 2026-06-01T02:31:57.127Z
 - [[financial-regulators/fsa|金融庁]]
 - [[non-life-insurers/tokio-marine-hd|東京海上ホールディングス]] · [[non-life-insurers/sompo-japan|損保ジャパン]] · [[non-life-insurers/mitsui-sumitomo|三井住友海上]] · [[non-life-insurers/aioi-nissay-dowa-insurance|あいおいニッセイ同和]]
 - [[insurance/INDEX|insurance index]]
-- [[JapanFG/INDEX|JapanFG index]]
+- [[financial-regulators/INDEX|financial-regulators INDEX]]
 
 ## 来源
 

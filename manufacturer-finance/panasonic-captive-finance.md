@@ -27,7 +27,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[manufacturer-finance/INDEX|manufacturing index]]. Read it against [[manufacturer-finance/hitachi-industrial-finance-platform|Hitachi 産業金融]], [[manufacturer-finance/sony-group-finance-arm|Sony FG]], [[manufacturer-finance/mitsubishi-heavy-export-finance|MHI 輸出金融]], and [[manufacturer-finance/toyota-financial-services|Toyota Financial Services]] for peer industrial-conglomerate finance arms. Pair with [[leasing-firms/smfl|SMFL (三井住友ファイナンス&リース)]] and [[megabanks/mufg|MUFG]] for the bank-side counterpart of Panasonic's B2B vendor-finance flows, [[JapanFG/INDEX|JapanFG index]] for the broader regulatory boundary.
+This entry sits under [[manufacturer-finance/INDEX|manufacturing index]]. Read it against [[manufacturer-finance/hitachi-industrial-finance-platform|Hitachi 産業金融]], [[manufacturer-finance/sony-group-finance-arm|Sony FG]], [[manufacturer-finance/mitsubishi-heavy-export-finance|MHI 輸出金融]], and [[manufacturer-finance/toyota-financial-services|Toyota Financial Services]] for peer industrial-conglomerate finance arms. Pair with [[leasing-firms/smfl|SMFL (三井住友ファイナンス&リース)]] and [[megabanks/mufg|MUFG]] for the bank-side counterpart of Panasonic's B2B vendor-finance flows, [[manufacturer-finance/INDEX|manufacturer-finance INDEX]] for the broader regulatory boundary.
 
 ## TL;DR
 
@@ -119,7 +119,7 @@ EV 電池では **Tesla Gigafactory 1 (ネバダ)** 向けに 1810 / 21700 セ�
 - [[financial-regulators/jbic|JBIC]] · [[policy-finance/nexi|NEXI]]
 - [[manufacturer-finance/hitachi-industrial-finance-platform|Hitachi 産業金融]] · [[manufacturer-finance/sony-group-finance-arm|Sony FG]] · [[manufacturer-finance/toyota-financial-services|Toyota Financial Services]] · [[manufacturer-finance/mitsubishi-heavy-export-finance|MHI 輸出金融]]
 - [[manufacturer-finance/toyota-motor|Toyota Motor]] · [[manufacturer-finance/seiko-epson|Seiko Epson]]
-- [[manufacturer-finance/INDEX|manufacturing INDEX]] · [[JapanFG/INDEX|JapanFG INDEX]] · [[INDEX|FinWiki index]]
+- [[manufacturer-finance/INDEX|manufacturing INDEX]] · [[manufacturer-finance/INDEX|manufacturer-finance INDEX]] · [[INDEX|FinWiki index]]
 
 ## Sources
 

@@ -178,7 +178,6 @@ translated_at: 2026-06-02T11:47:37.318Z
 - [[finance/japan-corporate-fx-and-rate-hedge-policy]]
 - [[securities/japan-securities-clearing-corp]]
 - [[banking/INDEX]]
-- [[JapanFG/INDEX]]
 - [[INDEX|FinWiki index]]
 
 ## 出典

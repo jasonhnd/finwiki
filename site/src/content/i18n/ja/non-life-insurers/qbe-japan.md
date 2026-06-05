@@ -1,5 +1,5 @@
 ---
-source: japanfg/qbe-japan
+source: non-life-insurers/qbe-japan
 source_hash: e79940598b832b70
 lang: ja
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-02T15:14:17.140Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に位置する。外国専門保険会社の比較文脈では [[non-life-insurers/lloyd-japan|Lloyd's Japan]] と [[non-life-insurers/fm-global-japan|FM Global Japan]]、日本の損害保険市場全体と規制上の境界については [[insurance/INDEX|insurance index]] とあわせて読む。
+この項目は [[non-life-insurers/INDEX|non-life-insurers INDEX]] の配下に位置する。外国専門保険会社の比較文脈では [[non-life-insurers/lloyd-japan|Lloyd's Japan]] と [[non-life-insurers/fm-global-japan|FM Global Japan]]、日本の損害保険市場全体と規制上の境界については [[insurance/INDEX|insurance index]] とあわせて読む。
 
 ## 要約
 

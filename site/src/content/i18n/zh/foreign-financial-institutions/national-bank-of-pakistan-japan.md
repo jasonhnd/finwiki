@@ -1,5 +1,5 @@
 ---
-source: japanfg/national-bank-of-pakistan-japan
+source: foreign-financial-institutions/national-bank-of-pakistan-japan
 source_hash: f1902f37f7763f0b
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T00:41:50.459Z
 
 ## Wiki 路径
 
-National Bank of Pakistan Japan 位于 [[JapanFG/INDEX|JapanFG index]] 之下，并且是 [[foreign-financial-institutions/foreign-bank-branches-japan-index|the foreign-bank branch registry]] 中的外资银行分行路径。可与 [[foreign-financial-institutions/state-bank-of-india-japan|State Bank of India Japan]] 一起阅读以进行南亚 corridor 比较，与 [[payments/funds-transfer-service-providers-japan-index|funds-transfer registry]] 一起阅读以获得汇款语境，并与 [[banking/INDEX|banking index]] 对读。
+National Bank of Pakistan Japan 位于 [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]] 之下，并且是 [[foreign-financial-institutions/foreign-bank-branches-japan-index|the foreign-bank branch registry]] 中的外资银行分行路径。可与 [[foreign-financial-institutions/state-bank-of-india-japan|State Bank of India Japan]] 一起阅读以进行南亚 corridor 比较，与 [[payments/funds-transfer-service-providers-japan-index|funds-transfer registry]] 一起阅读以获得汇款语境，并与 [[banking/INDEX|banking index]] 对读。
 
 本页用于巴基斯坦-日本汇款、贸易融资、存款和南亚 corridor banking 相关问题。
 
@@ -57,7 +57,7 @@ National Bank of Pakistan Japan 应作为 corridor branch 阅读。其重要性�
 
 ## Related
 
-- [[JapanFG/INDEX]]
+- [[foreign-financial-institutions/INDEX]]
 - [[foreign-financial-institutions/foreign-bank-branches-japan-index]]
 - [[foreign-financial-institutions/state-bank-of-india-japan]]
 - [[foreign-financial-institutions/bank-of-india-japan]]

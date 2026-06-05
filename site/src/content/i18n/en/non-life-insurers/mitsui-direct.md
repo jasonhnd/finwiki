@@ -1,5 +1,5 @@
 ---
-source: japanfg/mitsui-direct
+source: non-life-insurers/mitsui-direct
 source_hash: 9074a3f783fdf823
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:05:42.104Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[non-life-insurers/aioi-nissay-dowa-insurance|あいおいニッセイ同和損害保険]] for peer / contrast context and [[insurance/INDEX|insurance index]] for the broader system / regulatory boundary.
+This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read it against [[non-life-insurers/aioi-nissay-dowa-insurance|あいおいニッセイ同和損害保険]] for peer / contrast context and [[insurance/INDEX|insurance index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 

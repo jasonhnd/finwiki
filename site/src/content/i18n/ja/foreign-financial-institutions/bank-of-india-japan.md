@@ -1,5 +1,5 @@
 ---
-source: japanfg/bank-of-india-japan
+source: foreign-financial-institutions/bank-of-india-japan
 source_hash: b17f5a3bdc0cdba3
 lang: ja
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-06-02T14:01:20.939Z
 
 Bank of India Japan は、[[foreign-financial-institutions/state-bank-of-india-japan|State Bank of India Japan]] と対になる、[[foreign-financial-institutions/foreign-bank-branches-japan-index|the foreign-bank branch registry]] 内のインド回廊ピアである。このページは、日印貿易金融、送金、外国為替、融資、シンジケーション、支店沿革の文脈に用いる。
 
-この項目はまず [[JapanFG/INDEX|JapanFG index]] 経由で位置づけ、そのうえで外国銀行支店およびホールセール銀行業務の文脈として [[banking/INDEX|banking domain]] と併読する。
+この項目はまず [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]] 経由で位置づけ、そのうえで外国銀行支店およびホールセール銀行業務の文脈として [[banking/INDEX|banking domain]] と併読する。
 
 ## 概要
 
@@ -67,7 +67,7 @@ Bank of India Japan は、日印銀行回廊を扱う独立ページである。
 
 ## 関連項目
 
-- [[JapanFG/INDEX]]
+- [[foreign-financial-institutions/INDEX]]
 - [[foreign-financial-institutions/foreign-bank-branches-japan-index]]
 - [[foreign-financial-institutions/state-bank-of-india-japan]]
 - [[financial-regulators/jbic]]

@@ -1,5 +1,5 @@
 ---
-source: japanfg/mufg-bank
+source: megabanks/mufg-bank
 source_hash: effe947ac06a3ee0
 lang: ja
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-06-02T14:54:39.041Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に置く。[[megabanks/sumitomo-mitsui-banking-corp|三井住友銀行 (SMBC)]] は同業比較・対照の文脈、[[banking/INDEX|banking index]] はより広い制度・規制上の境界として読む。
+この項目は [[megabanks/INDEX|megabanks INDEX]] の配下に置く。[[megabanks/sumitomo-mitsui-banking-corp|三井住友銀行 (SMBC)]] は同業比較・対照の文脈、[[banking/INDEX|banking index]] はより広い制度・規制上の境界として読む。
 
 ## 要約
 

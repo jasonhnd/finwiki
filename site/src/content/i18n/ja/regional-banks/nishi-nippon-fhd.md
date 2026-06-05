@@ -1,5 +1,5 @@
 ---
-source: japanfg/nishi-nippon-fhd
+source: regional-banks/nishi-nippon-fhd
 source_hash: 9a5c7c7b269d0ff0
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:54:39.089Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] 配下に置かれる。[[regional-banks/fukuoka-fg|ふくおか FG (FFG)]] は比較対象の文脈、[[banking/INDEX|banking index]] はより広い制度・規制境界の文脈として読む。
+この項目は [[regional-banks/INDEX|regional-banks INDEX]] 配下に置かれる。[[regional-banks/fukuoka-fg|ふくおか FG (FFG)]] は比較対象の文脈、[[banking/INDEX|banking index]] はより広い制度・規制境界の文脈として読む。
 
 ## 要約
 

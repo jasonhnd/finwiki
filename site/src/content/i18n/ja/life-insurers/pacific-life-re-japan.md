@@ -1,5 +1,5 @@
 ---
-source: japanfg/pacific-life-re-japan
+source: life-insurers/pacific-life-re-japan
 source_hash: eb722d9a61ef42a5
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T15:14:17.147Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に置く。生命再保険会社の同業文脈は [[non-life-insurers/swiss-re-japan|Swiss Re Japan]] と [[non-life-insurers/hannover-re-japan|Hannover Re Japan]]、日本の生命保険・再保険市場におけるより広い制度・規制境界は [[insurance/INDEX|insurance index]] と併読する。
+この項目は [[life-insurers/INDEX|life-insurers INDEX]] の配下に置く。生命再保険会社の同業文脈は [[non-life-insurers/swiss-re-japan|Swiss Re Japan]] と [[non-life-insurers/hannover-re-japan|Hannover Re Japan]]、日本の生命保険・再保険市場におけるより広い制度・規制境界は [[insurance/INDEX|insurance index]] と併読する。
 
 ## 要約
 

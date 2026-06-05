@@ -1,5 +1,5 @@
 ---
-source: japanfg/deloitte-touche-tohmatsu
+source: financial-regulators/deloitte-touche-tohmatsu
 source_hash: e90b2ee72297aa04
 lang: ja
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-02T14:25:12.444Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の下に位置づけられる。[[financial-regulators/ey-shinnihon|EY 新日本]] と [[financial-regulators/pwc-aarata|PwC あらた]] は Big 4  監査法人の比較文脈で読み、[[financial-licenses/INDEX|金融ライセンス INDEX]] は公認会計士法・監査品質管理の規制境界として参照する。CPAAOB 監督文脈は [[financial-regulators/fsa-supervision-bureau|金融庁 監督局]] と [[financial-regulators/fsa-strategy-bureau|金融庁 総合政策局]] の所管である。
+この項目は [[financial-regulators/INDEX|financial-regulators INDEX]] の下に位置づけられる。[[financial-regulators/ey-shinnihon|EY 新日本]] と [[financial-regulators/pwc-aarata|PwC あらた]] は Big 4  監査法人の比較文脈で読み、[[financial-licenses/INDEX|金融ライセンス INDEX]] は公認会計士法・監査品質管理の規制境界として参照する。CPAAOB 監督文脈は [[financial-regulators/fsa-supervision-bureau|金融庁 監督局]] と [[financial-regulators/fsa-strategy-bureau|金融庁 総合政策局]] の所管である。
 
 ## 1. 法人概要
 

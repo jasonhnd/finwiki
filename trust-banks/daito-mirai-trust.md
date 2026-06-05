@@ -17,7 +17,7 @@ sources:
 
 # Daito Mirai Trust / 大東みらい信託
 
-Wiki route: [[JapanFG/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/daito-mirai-trust]]
+Wiki route: [[trust-banks/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/daito-mirai-trust]]
 
 ## Overview
 

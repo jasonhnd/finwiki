@@ -1,5 +1,5 @@
 ---
-source: japanfg/nec-capital-solutions
+source: leasing-firms/nec-capital-solutions
 source_hash: c9333a9a24ecba06
 lang: ja
 status: machine
@@ -13,11 +13,11 @@ translated_at: 2026-06-02T14:54:39.089Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] 配下に置かれる。[[leasing-firms/hitachi-capital|日立キャピタル（旧）]] / [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]] はベンダー・システムインテグレーター系リースの比較文脈、[[leasing-firms/tokyo-century|東京センチュリー]] / [[leasing-firms/smfl|三井住友ファイナンス&リース]] は大手総合リースの比較文脈、[[banking/INDEX|banking index]] はより広い制度・規制境界の文脈として読む。
+この項目は [[leasing-firms/INDEX|leasing-firms INDEX]] 配下に置かれる。[[leasing-firms/hitachi-capital|日立キャピタル（旧）]] / [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]] はベンダー・システムインテグレーター系リースの比較文脈、[[leasing-firms/tokyo-century|東京センチュリー]] / [[leasing-firms/smfl|三井住友ファイナンス&リース]] は大手総合リースの比較文脈、[[banking/INDEX|banking index]] はより広い制度・規制境界の文脈として読む。
 
 ## 要約
 
-NECキャピタルソリューションズ株式会社は **[[JapanFG/INDEX|日本電気 (NEC)]] 系列の中堅総合リース会社**、東証 PRIME **8793** 上場。1978-08 旧「日本電気リース」として NEC 系の機器リースを主目的に設立、後に商号変更を経て現「NEC キャピタルソリューションズ」に。**ITソリューション・通信機器・産業機器を含む NEC グループ ベンダーファイナンス基盤** が中核、加えて非 NEC 案件（医療機器・産業設備・船舶 / 航空・公共セクター）への業務拡大を継続。**親 NEC の出資比率 37-40% 台（持分法適用）** で連結子会社ではないが、戦略提携・営業連携は密接。競合は同じ ベンダー系 [[leasing-firms/hitachi-capital|日立キャピタル]] / 富士通リース / リコーリース（[[leasing-firms/ricoh-leasing|リコーリース]]）等、および総合リース上位 [[leasing-firms/orix-corp|オリックス]] / [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]] / [[leasing-firms/tokyo-century|東京センチュリー]] / [[leasing-firms/smfl|三井住友ファイナンス&リース]]。
+NECキャピタルソリューションズ株式会社は **[[leasing-firms/INDEX|leasing-firms INDEX]] 系列の中堅総合リース会社**、東証 PRIME **8793** 上場。1978-08 旧「日本電気リース」として NEC 系の機器リースを主目的に設立、後に商号変更を経て現「NEC キャピタルソリューションズ」に。**ITソリューション・通信機器・産業機器を含む NEC グループ ベンダーファイナンス基盤** が中核、加えて非 NEC 案件（医療機器・産業設備・船舶 / 航空・公共セクター）への業務拡大を継続。**親 NEC の出資比率 37-40% 台（持分法適用）** で連結子会社ではないが、戦略提携・営業連携は密接。競合は同じ ベンダー系 [[leasing-firms/hitachi-capital|日立キャピタル]] / 富士通リース / リコーリース（[[leasing-firms/ricoh-leasing|リコーリース]]）等、および総合リース上位 [[leasing-firms/orix-corp|オリックス]] / [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]] / [[leasing-firms/tokyo-century|東京センチュリー]] / [[leasing-firms/smfl|三井住友ファイナンス&リース]]。
 
 ## 1. 法人・株主
 
@@ -110,7 +110,7 @@ NEC キャピタルは中位規模・ベンダー系の代表格。
 - [[leasing-firms/orix-corp|オリックス]] — 総合リース最大手
 - [[leasing-firms/smfl|SMFL]] — 銀行系リース
 - [[leasing-firms/mizuho-lease|みずほリース]] — 銀行系リース
-- [[JapanFG/INDEX|JapanFG index]]
+- [[leasing-firms/INDEX|leasing-firms INDEX]]
 - [[banking/INDEX|Banking domain index]]
 
 ## 出典

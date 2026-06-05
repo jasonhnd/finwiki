@@ -1,5 +1,5 @@
 ---
-source: japanfg/aichi-iryo-shinkumi
+source: cooperative-banks/aichi-iryo-shinkumi
 source_hash: ff63a7b3799af047
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T07:28:06.179Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **业域（医疗职业）shinkumi anchor** for the Chukyo region, peer to occupation-based [[cooperative-banks/keishicho-shinkumi|警視庁職員信用組合]] (police) and [[cooperative-banks/tokyo-to-shokuin-shinkumi|東京都職員信用組合]] (civil servant). Medical shinkumi form the **largest single-industry shinkumi category** in Japan's 143-cooperative population catalogued in [[banking/credit-cooperative-registry-japan|Japan credit cooperative registry]].
+This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as the **业域（医疗职业）shinkumi anchor** for the Chukyo region, peer to occupation-based [[cooperative-banks/keishicho-shinkumi|警視庁職員信用組合]] (police) and [[cooperative-banks/tokyo-to-shokuin-shinkumi|東京都職員信用組合]] (civil servant). Medical shinkumi form the **largest single-industry shinkumi category** in Japan's 143-cooperative population catalogued in [[banking/credit-cooperative-registry-japan|Japan credit cooperative registry]].
 
 ## TL;DR
 
@@ -136,7 +136,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **业域（医疗�
 - [[banking/credit-cooperative-registry-japan]] — Japan credit cooperative registry（143  shinkumi 全体）
 - [[banking/cooperative-banking-japan]] — 协同组织金融整体
 - [[cooperative-banks/iwaki-shinkumi]] — 磐城信用组合（地区型信组 peer，业态对比）
-- [[JapanFG/INDEX|JapanFG index]]
+- [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 
 ## Sources
 

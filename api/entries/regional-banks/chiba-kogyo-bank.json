@@ -41,7 +41,7 @@
       "関東財務局 経営統合 基本合意: https://lfb.mof.go.jp/kantou/kinyuu/pagekt_cnt_20250919001.html"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against じもとホールディングス (JIMOTO HD) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under regional-banks INDEX. Read it against じもとホールディングス (JIMOTO HD) for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [
     "千葉興業銀行 (Chiba Kogyo Bank)",
     "Wiki route",
@@ -57,7 +57,6 @@
   "body_links": {
     "wikilinks_count": 10,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "chiba-bank",
       "concordia-fg",
@@ -65,11 +64,11 @@
       "mizuho-fg",
       "mufg",
       "musashino-bank",
+      "regional-banks/INDEX",
       "regional-banks/jimoto-hd",
       "smfg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/chiba-bank",
       "https://finwiki.zksc.io/concordia-fg",
@@ -77,6 +76,7 @@
       "https://finwiki.zksc.io/mizuho-fg",
       "https://finwiki.zksc.io/mufg",
       "https://finwiki.zksc.io/musashino-bank",
+      "https://finwiki.zksc.io/regional-banks/INDEX",
       "https://finwiki.zksc.io/regional-banks/jimoto-hd",
       "https://finwiki.zksc.io/smfg"
     ],
@@ -84,9 +84,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5208,
-    "word_like_tokens": 884,
+    "nonspace_chars": 5222,
+    "word_like_tokens": 886,
     "inbound_wikilinks_count": 2,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

@@ -1,5 +1,5 @@
 ---
-source: japanfg/kyoritsu-fire-marine
+source: non-life-insurers/kyoritsu-fire-marine
 source_hash: 8bb35023ef76330d
 lang: ja
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-02T14:54:39.037Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に置く。[[non-life-insurers/sompo|SOMPO ホールディングス (Sompo Holdings)]] は同業比較・対照の文脈、[[banking/INDEX|banking index]] はより広い制度・規制上の境界として読む。
+この項目は [[non-life-insurers/INDEX|non-life-insurers INDEX]] の配下に置く。[[non-life-insurers/sompo|SOMPO ホールディングス (Sompo Holdings)]] は同業比較・対照の文脈、[[banking/INDEX|banking index]] はより広い制度・規制上の境界として読む。
 
 ## 要約
 

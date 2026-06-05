@@ -1,5 +1,5 @@
 ---
-source: japanfg/bank-negara-indonesia-japan
+source: foreign-financial-institutions/bank-negara-indonesia-japan
 source_hash: 0236566f5c54306c
 lang: ja
 status: machine
@@ -58,7 +58,7 @@ BNI の公開グローバルネットワークページによれば、BNI Tokyo 
 
 ## 関連
 
-- [[JapanFG/INDEX]]
+- [[foreign-financial-institutions/INDEX]]
 - [[foreign-financial-institutions/foreign-bank-branches-japan-index]]
 - [[foreign-financial-institutions/bangkok-bank-japan]]
 - [[foreign-financial-institutions/dbs-bank-japan]]

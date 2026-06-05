@@ -1,5 +1,5 @@
 ---
-source: japanfg/jsf-trust-bank
+source: trust-banks/jsf-trust-bank
 source_hash: 8470b3a40a11b149
 lang: zh
 status: machine
@@ -70,7 +70,7 @@ JSF Trust and Banking 是 [[financial-regulators/japan-securities-finance|Japan 
 
 ## Related
 
-- [[JapanFG/INDEX]]
+- [[trust-banks/INDEX]]
 - [[financial-regulators/japan-securities-finance]]
 - [[securities/japan-margin-trading-and-securities-finance]]
 - [[securities/japan-stock-lending-market-route]]

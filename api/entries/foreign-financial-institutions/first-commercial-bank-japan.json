@@ -36,7 +36,7 @@
       "https://www.firstbank.com.tw/sites/fcb/zh_TW/1565683458722"
     ]
   },
-  "summary": "First Commercial Bank Japan sits under JapanFG index and is a Taiwan-Japan foreign-bank branch route in the foreign-bank branch registry. Read it with Bank of Taiwan Japan, Mega ICBC Japan, CTBC Bank Japan, E.SUN Bank Japan, and Taipei Fubon Bank Japan.",
+  "summary": "First Commercial Bank Japan sits under foreign-financial-institutions INDEX and is a Taiwan-Japan foreign-bank branch route in the foreign-bank branch registry. Read it with Bank of Taiwan Japan, Mega ICBC Japan, CTBC Bank Japan, E.SUN Bank Japan, and Taipei Fubon Bank Japan.",
   "headings": [
     "第一商業銀行日本 (First Commercial Bank Japan)",
     "Wiki route",
@@ -52,9 +52,9 @@
     "wikilinks_count": 10,
     "wikilinks": [
       "INDEX",
-      "JapanFG/INDEX",
       "finance/cross-border-m-a-japan",
       "financial-licenses/foreign-bank-branch-license-route",
+      "foreign-financial-institutions/INDEX",
       "foreign-financial-institutions/bank-of-taiwan-japan",
       "foreign-financial-institutions/ctbc-bank-japan",
       "foreign-financial-institutions/esun-bank-japan",
@@ -64,9 +64,9 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/finance/cross-border-m-a-japan",
       "https://finwiki.zksc.io/financial-licenses/foreign-bank-branch-license-route",
+      "https://finwiki.zksc.io/foreign-financial-institutions/INDEX",
       "https://finwiki.zksc.io/foreign-financial-institutions/bank-of-taiwan-japan",
       "https://finwiki.zksc.io/foreign-financial-institutions/ctbc-bank-japan",
       "https://finwiki.zksc.io/foreign-financial-institutions/esun-bank-japan",
@@ -78,9 +78,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4083,
-    "word_like_tokens": 616,
+    "nonspace_chars": 4152,
+    "word_like_tokens": 622,
     "inbound_wikilinks_count": 6,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

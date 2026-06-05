@@ -1,5 +1,5 @@
 ---
-source: japanfg/starts-trust
+source: trust-banks/starts-trust
 source_hash: 2914742a29b08583
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T15:14:17.153Z
 
 ## ウィキ上の位置づけ
 
-スターツ信託は [[JapanFG/INDEX|JapanFG]] 配下の独立した信託会社ルートで、[[trust-banks/trust-companies-japan-index|the Japan trust companies registry index]] から昇格した項目。[[banking/japan-trust-bank-custody-map|Japan trust-bank custody map]]、[[finance/japan-acquisition-finance|Japan acquisition finance]]、[[trust-banks/escrow-agent-japan-trust|Escrow Agent Japan Trust]] と併読する。
+スターツ信託は [[trust-banks/INDEX|trust-banks INDEX]] 配下の独立した信託会社ルートで、[[trust-banks/trust-companies-japan-index|the Japan trust companies registry index]] から昇格した項目。[[banking/japan-trust-bank-custody-map|Japan trust-bank custody map]]、[[finance/japan-acquisition-finance|Japan acquisition finance]]、[[trust-banks/escrow-agent-japan-trust|Escrow Agent Japan Trust]] と併読する。
 
 このページは、スターツグループ周辺の不動産信託、土地信託、資産承継、地域の信託代理店ネットワークに関する論点で使う。
 
@@ -59,7 +59,7 @@ translated_at: 2026-06-02T15:14:17.153Z
 
 ## 関連項目
 
-- [[JapanFG/INDEX]]
+- [[trust-banks/INDEX]]
 - [[trust-banks/trust-companies-japan-index]]
 - [[banking/japan-trust-bank-custody-map]]
 - [[finance/japan-acquisition-finance]]

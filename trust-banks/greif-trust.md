@@ -16,7 +16,7 @@ sources:
 
 # Greif Trust / グライフ信託
 
-Wiki route: [[JapanFG/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/greif-trust]]
+Wiki route: [[trust-banks/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/greif-trust]]
 
 ## Overview
 

@@ -37,7 +37,7 @@
       "https://www.nw-life.co.jp/"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it with insurance index for adjacent context and JapanFG index for the broader system boundary.",
+  "summary": "This entry sits under life-insurers INDEX. Read it with insurance index for adjacent context and JapanFG index for the broader system boundary.",
   "headings": [
     "ニッセイ・ウェルス生命保険",
     "Wiki route",
@@ -51,22 +51,22 @@
   "body_links": {
     "wikilinks_count": 8,
     "wikilinks": [
-      "JapanFG/INDEX",
       "dai-ichi-frontier-life",
       "financial-licenses/INDEX",
       "hanasaku-life",
       "insurance/INDEX",
       "insurance/life-insurance-channel-mix",
+      "life-insurers/INDEX",
       "nippon-life",
       "td-financial-life"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/dai-ichi-frontier-life",
       "https://finwiki.zksc.io/financial-licenses/INDEX",
       "https://finwiki.zksc.io/hanasaku-life",
       "https://finwiki.zksc.io/insurance/INDEX",
       "https://finwiki.zksc.io/insurance/life-insurance-channel-mix",
+      "https://finwiki.zksc.io/life-insurers/INDEX",
       "https://finwiki.zksc.io/nippon-life",
       "https://finwiki.zksc.io/td-financial-life"
     ],
@@ -74,9 +74,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1926,
-    "word_like_tokens": 291,
+    "nonspace_chars": 1938,
+    "word_like_tokens": 293,
     "inbound_wikilinks_count": 3,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

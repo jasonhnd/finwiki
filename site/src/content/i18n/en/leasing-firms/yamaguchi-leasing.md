@@ -1,5 +1,5 @@
 ---
-source: japanfg/yamaguchi-leasing
+source: leasing-firms/yamaguchi-leasing
 source_hash: 709372a3a85705e6
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.181Z
 
 ## Wiki route
 
-This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary leasing operating-company anchor for [[yamaguchi-fg|Yamaguchi FG (YMFG)]]. Read it against parent operating banks in the YMFG three-bank structure ([[momiji-bank|Momiji Bank]] / [[kitakyushu-bank|Kitakyushu Bank]] / Yamaguchi Bank) and sibling subsidiary YM Securities. Peer comparison: [[mebuki-lease|Mebuki Lease]] / [[yokohama-bank-leasing|Yokohama Bank Leasing]] / [[chibagin-leasing|Chibagin Leasing]] / [[hokkaido-lease|Hokkaido Lease]].
+This entry sits under the [[leasing-firms/INDEX|leasing-firms INDEX]] as the FG-subsidiary leasing operating-company anchor for [[yamaguchi-fg|Yamaguchi FG (YMFG)]]. Read it against parent operating banks in the YMFG three-bank structure ([[momiji-bank|Momiji Bank]] / [[kitakyushu-bank|Kitakyushu Bank]] / Yamaguchi Bank) and sibling subsidiary YM Securities. Peer comparison: [[mebuki-lease|Mebuki Lease]] / [[yokohama-bank-leasing|Yokohama Bank Leasing]] / [[chibagin-leasing|Chibagin Leasing]] / [[hokkaido-lease|Hokkaido Lease]].
 
 ## TL;DR
 
@@ -121,7 +121,7 @@ Yamaguchi Leasing Co., Ltd. is a regional-bank-affiliated leasing company in the
 - [[ja-mitsui-leasing]] · [[nec-leasing]] · [[showa-leasing]] · [[toyota-finance]] · [[ibj-leasing]] · [[kanematsu-leasing]]
 - [[banking/regional-bank-consolidation-pattern]] · [[banking/regional-bank-api-digital-partnership-route]] · [[banking/INDEX]]
 - [[finance/japan-listed-financial-groups-investable-universe]] · [[finance/INDEX]]
-- [[JapanFG/INDEX|JapanFG index]]
+- [[leasing-firms/INDEX|leasing-firms INDEX]]
 
 ## Sources
 

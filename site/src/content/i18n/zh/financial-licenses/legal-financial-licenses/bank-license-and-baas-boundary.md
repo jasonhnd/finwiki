@@ -1,5 +1,5 @@
 ---
-source: japanfg/legal-financial-licenses/bank-license-and-baas-boundary
+source: financial-licenses/legal-financial-licenses/bank-license-and-baas-boundary
 source_hash: 4e96ba905ac9d912
 lang: zh
 status: machine
@@ -31,7 +31,7 @@ translated_at: 2026-05-31T23:59:49.387Z
 
 金融厅持牌 / 登记机构门户在 `預金取扱等金融機関` 下发布银行名单。同一门户也载有银行控股公司、银行代理业者、外国银行代理银行、电子支付代理业者和其他受监管类别。截至 2026-05-22 打开的门户快照，银行名单行显示的截至日期为 2026-05-13，电子支付代理业者名单行显示的截至日期为 2026-04-30。
 
-在 BaaS 记录中，银行牌照字段识别承担存款债权的法人实体。公开记录通常来自金融厅银行名单、银行账户条款、服务条款或合作伙伴分行 / BaaS 页面。银行运营公司页面仍置于 [[JapanFG/INDEX|JapanFG]] 之下，包括 [[regional-banks/ssnb|SSNB]]、[[payment-firms/gmo-aozora-net|GMO Aozora Net Bank]]、[[regional-banks/sony-bank|Sony Bank]]、[[regional-banks/ui-bank|UI Bank]] 和 [[regional-banks/01-bank|01 Bank]]。
+在 BaaS 记录中，银行牌照字段识别承担存款债权的法人实体。公开记录通常来自金融厅银行名单、银行账户条款、服务条款或合作伙伴分行 / BaaS 页面。银行运营公司页面仍置于 [[financial-licenses/INDEX|financial-licenses INDEX]] 之下，包括 [[regional-banks/ssnb|SSNB]]、[[payment-firms/gmo-aozora-net|GMO Aozora Net Bank]]、[[regional-banks/sony-bank|Sony Bank]]、[[regional-banks/ui-bank|UI Bank]] 和 [[regional-banks/01-bank|01 Bank]]。
 
 ## 银行代理路径
 

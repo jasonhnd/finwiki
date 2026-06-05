@@ -1,5 +1,5 @@
 ---
-source: japanfg/gen-re-japan
+source: non-life-insurers/gen-re-japan
 source_hash: d97c9a22ec5000ee
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:25:12.446Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の下に位置づけられる。米国本社のピアとして [[life-insurers/rga-japan|RGA リインシュアランス・カンパニー日本支店]]（RGA は生命再保険特化、Gen Re は子会社経由で P&C と生命再保険を扱う）と比較し、[[non-life-insurers/munich-re-japan|ミュンヘン再保険日本支店]] / [[non-life-insurers/swiss-re-japan|スイス再保険日本支店]] は欧州系「Big 2」として対照する。国内ピアは [[non-life-insurers/toa-reinsurance|トーア再保険]]、より広い制度は [[insurance/natcat-reinsurance-japan|nat-cat reinsurance Japan]] である。
+この項目は [[non-life-insurers/INDEX|non-life-insurers INDEX]] の下に位置づけられる。米国本社のピアとして [[life-insurers/rga-japan|RGA リインシュアランス・カンパニー日本支店]]（RGA は生命再保険特化、Gen Re は子会社経由で P&C と生命再保険を扱う）と比較し、[[non-life-insurers/munich-re-japan|ミュンヘン再保険日本支店]] / [[non-life-insurers/swiss-re-japan|スイス再保険日本支店]] は欧州系「Big 2」として対照する。国内ピアは [[non-life-insurers/toa-reinsurance|トーア再保険]]、より広い制度は [[insurance/natcat-reinsurance-japan|nat-cat reinsurance Japan]] である。
 
 ## 要約
 
@@ -45,7 +45,7 @@ General Reinsurance AG / General Re Corporation の日本支店。**バークシ
 
 ## 関連項目
 
-- [[JapanFG/INDEX]]
+- [[non-life-insurers/INDEX]]
 - [[rga-japan]]
 - [[munich-re-japan]]
 - [[swiss-re-japan]]

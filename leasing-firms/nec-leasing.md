@@ -27,7 +27,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[leasing-firms/ricoh-leasing|リコーリース]] for peer / contrast context (both are事業会社 captive lease) and [[banking/INDEX|banking index]] for the broader system / regulatory boundary. Read it together with [[leasing-firms/fuyo-lease|芙蓉総合リース]] for the準大手 leasing peer set.
+This entry sits under [[leasing-firms/INDEX|leasing-firms INDEX]]. Read it against [[leasing-firms/ricoh-leasing|リコーリース]] for peer / contrast context (both are事業会社 captive lease) and [[banking/INDEX|banking index]] for the broader system / regulatory boundary. Read it together with [[leasing-firms/fuyo-lease|芙蓉総合リース]] for the準大手 leasing peer set.
 
 ## TL;DR
 

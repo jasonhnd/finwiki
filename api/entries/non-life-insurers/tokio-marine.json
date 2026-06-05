@@ -37,7 +37,7 @@
       "Tokio Marine Holdings 公式 IR(沿革・組織図)"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against SOMPO ホールディングス (Sompo Holdings) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under non-life-insurers INDEX. Read it against SOMPO ホールディングス (Sompo Holdings) for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [
     "東京海上ホールディングス (Tokio Marine Holdings)",
     "Wiki route",
@@ -53,19 +53,19 @@
   "body_links": {
     "wikilinks_count": 7,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "mizuho-fg",
       "mufg",
+      "non-life-insurers/INDEX",
       "non-life-insurers/msad",
       "non-life-insurers/sompo",
       "smfg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/mizuho-fg",
       "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/non-life-insurers/INDEX",
       "https://finwiki.zksc.io/non-life-insurers/msad",
       "https://finwiki.zksc.io/non-life-insurers/sompo",
       "https://finwiki.zksc.io/smfg"
@@ -74,9 +74,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5172,
-    "word_like_tokens": 910,
+    "nonspace_chars": 5202,
+    "word_like_tokens": 916,
     "inbound_wikilinks_count": 29,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

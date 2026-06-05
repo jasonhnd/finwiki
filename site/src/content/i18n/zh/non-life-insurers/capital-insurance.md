@@ -1,5 +1,5 @@
 ---
-source: japanfg/capital-insurance
+source: non-life-insurers/capital-insurance
 source_hash: 0ea82c445860a5ed
 lang: zh
 status: machine
@@ -10,7 +10,7 @@ translated_at: 2026-05-31T11:13:44.943Z
 
 # 资金保险/资金保险
 
-维基路线： [[JapanFG/INDEX]] -> [[insurance/INDEX]] -> [[non-life-insurers/capital-insurance]]
+维基路线： [[non-life-insurers/INDEX]] -> [[insurance/INDEX]] -> [[non-life-insurers/capital-insurance]]
 
 ＃＃概述
 

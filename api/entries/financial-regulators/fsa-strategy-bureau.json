@@ -42,7 +42,7 @@
       "https://www.fsa.go.jp/common/about/sosiki/index.html"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against FSA 監督局 for the supervision-side counterpart and FSA 企画市場局 for the rule-making counterpart. For the BoJ-side international policy lane, anchor through BoJ 国際局, and for the broader regulatory perimeter through legal / financial licenses.",
+  "summary": "This entry sits under financial-regulators INDEX. Read it against FSA 監督局 for the supervision-side counterpart and FSA 企画市場局 for the rule-making counterpart. For the BoJ-side international policy lane, anchor through BoJ 国際局, and for the broader regulatory perimeter through legal / financial license",
   "headings": [
     "総合政策局 (FSA Strategy Development and Management Bureau)",
     "Wiki route",
@@ -56,10 +56,10 @@
   "body_links": {
     "wikilinks_count": 9,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "exchanges/fsa-vasp-registration-system",
       "financial-licenses/INDEX",
+      "financial-regulators/INDEX",
       "financial-regulators/boj-international-dept",
       "financial-regulators/cpaaob",
       "financial-regulators/fsa-inspection-bureau",
@@ -67,10 +67,10 @@
       "financial-regulators/fsa-supervision-bureau"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
       "https://finwiki.zksc.io/financial-licenses/INDEX",
+      "https://finwiki.zksc.io/financial-regulators/INDEX",
       "https://finwiki.zksc.io/financial-regulators/boj-international-dept",
       "https://finwiki.zksc.io/financial-regulators/cpaaob",
       "https://finwiki.zksc.io/financial-regulators/fsa-inspection-bureau",
@@ -81,9 +81,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6119,
-    "word_like_tokens": 947,
+    "nonspace_chars": 6145,
+    "word_like_tokens": 949,
     "inbound_wikilinks_count": 14,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

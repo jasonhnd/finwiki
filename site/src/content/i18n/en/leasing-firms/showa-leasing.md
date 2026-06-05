@@ -1,5 +1,5 @@
 ---
-source: japanfg/showa-leasing
+source: leasing-firms/showa-leasing
 source_hash: eaf462590dfd22e4
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.135Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[leasing-firms/fuyo-lease|Fuyo General Lease]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary. As a captive leasing entity under the [[regional-banks/sbi-shinsei-bank|SBI Shinsei Bank]] group, it should be read alongside [[consumer-finance/shinsei-financial|Shinsei Financial]] for the broader Shinsei non-bank finance footprint.
+This entry sits under [[leasing-firms/INDEX|leasing-firms INDEX]]. Read it against [[leasing-firms/fuyo-lease|Fuyo General Lease]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary. As a captive leasing entity under the [[regional-banks/sbi-shinsei-bank|SBI Shinsei Bank]] group, it should be read alongside [[consumer-finance/shinsei-financial|Shinsei Financial]] for the broader Shinsei non-bank finance footprint.
 
 ## TL;DR
 

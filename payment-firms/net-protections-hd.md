@@ -28,7 +28,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under the [[JapanFG/INDEX|JapanFG index]] as a pure-play **BNPL operator**. Read it against the [[payment-firms/bnpl-landscape|Japan BNPL landscape]] system note and the [[payment-firms/paidy|Paidy]] peer for contrast, with the [[payments/japan-bnpl-credit-purchase-boundary|Japan BNPL and credit-purchase boundary]] page setting the regulatory lens and the [[payments/credit-purchase-card-operators-japan-index|credit-purchase / card operator registry]] anchoring the METI registration trail.
+This entry sits under the [[payment-firms/INDEX|payment-firms INDEX]] as a pure-play **BNPL operator**. Read it against the [[payment-firms/bnpl-landscape|Japan BNPL landscape]] system note and the [[payment-firms/paidy|Paidy]] peer for contrast, with the [[payments/japan-bnpl-credit-purchase-boundary|Japan BNPL and credit-purchase boundary]] page setting the regulatory lens and the [[payments/credit-purchase-card-operators-japan-index|credit-purchase / card operator registry]] anchoring the METI registration trail.
 
 ## TL;DR
 

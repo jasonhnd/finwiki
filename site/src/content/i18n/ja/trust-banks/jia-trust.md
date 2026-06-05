@@ -1,5 +1,5 @@
 ---
-source: japanfg/jia-trust
+source: trust-banks/jia-trust
 source_hash: 3f6dc724c3c9708a
 lang: ja
 status: machine
@@ -9,7 +9,7 @@ translated_at: 2026-06-02T14:25:12.449Z
 ---
 # JIA Trust / JIA信託
 
-ウィキ上の位置づけ: [[JapanFG/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/jia-trust]]
+ウィキ上の位置づけ: [[trust-banks/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/jia-trust]]
 
 ## 概要
 

@@ -27,7 +27,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **JA Group national-coordination layer** behind [[cooperative-banks/norinchukin|農林中央金庫 (Norinchukin)]] and the [[banking/ja-bank-system-japan|JA Bank system]]. Read it together with [[cooperative-banks/ja-zen-noh|JA 全農 (全国農業協同組合連合会)]] for the commercial-federation counterpart, [[non-life-insurers/ja-kyosairen|JA 共済連]] for the cooperative insurance federation, and [[banking/cooperative-banking-japan|cooperative banking domain]] for the broader system boundary.
+This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as the **JA Group national-coordination layer** behind [[cooperative-banks/norinchukin|農林中央金庫 (Norinchukin)]] and the [[banking/ja-bank-system-japan|JA Bank system]]. Read it together with [[cooperative-banks/ja-zen-noh|JA 全農 (全国農業協同組合連合会)]] for the commercial-federation counterpart, [[non-life-insurers/ja-kyosairen|JA 共済連]] for the cooperative insurance federation, and [[banking/cooperative-banking-japan|cooperative banking domain]] for the broader system boundary.
 
 ## TL;DR
 
@@ -135,7 +135,7 @@ JA グループ (全国 497 JA + 4 大全国連)
 - [[banking/ja-bank-system-japan]] — JA Bank system の boundary
 - [[banking/cooperative-banking-japan]] — 協同組織金融全体
 - [[financial-regulators/zenginkyo]] — 銀行業界の対応国全国組織 (株式会社系)
-- [[JapanFG/INDEX|JapanFG index]]
+- [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 
 ## Sources
 

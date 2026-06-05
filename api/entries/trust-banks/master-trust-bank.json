@@ -38,7 +38,7 @@
       "https://www.mastertrust.co.jp/company/information.html"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 日本カストディ銀行 (CBJ) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under trust-banks INDEX. Read it against 日本カストディ銀行 (CBJ) for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [
     "日本マスタートラスト信託銀行",
     "Wiki route",
@@ -54,7 +54,6 @@
   "body_links": {
     "wikilinks_count": 10,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "custody-bank",
       "meiji-yasuda",
@@ -63,10 +62,10 @@
       "nippon-life",
       "norinchukin",
       "sumitomo-mitsui-trust",
+      "trust-banks/INDEX",
       "trust-banks/custody-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/custody-bank",
       "https://finwiki.zksc.io/meiji-yasuda",
@@ -75,15 +74,16 @@
       "https://finwiki.zksc.io/nippon-life",
       "https://finwiki.zksc.io/norinchukin",
       "https://finwiki.zksc.io/sumitomo-mitsui-trust",
+      "https://finwiki.zksc.io/trust-banks/INDEX",
       "https://finwiki.zksc.io/trust-banks/custody-bank"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4539,
-    "word_like_tokens": 692,
+    "nonspace_chars": 4547,
+    "word_like_tokens": 694,
     "inbound_wikilinks_count": 25,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

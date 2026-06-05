@@ -45,7 +45,7 @@
       "中小企業等協同組合法"
     ]
   },
-  "summary": "This entry sits under JapanFG index as the first standalone shinkumi (credit cooperative) operating-company anchor in FinWiki, closing the long-flagged 143-shinkumi audit gap. Read it against 大阪信用金庫 for the shinkin-vs-shinkumi distinction in the same Osaka market, 全信組連 / Zenshinkumiren for the coope",
+  "summary": "This entry sits under cooperative-banks INDEX as the first standalone shinkumi (credit cooperative) operating-company anchor in FinWiki, closing the long-flagged 143-shinkumi audit gap. Read it against 大阪信用金庫 for the shinkin-vs-shinkumi distinction in the same Osaka market, 全信組連 / Zenshinkumiren for",
   "headings": [
     "大阪商銀信用組合 (Osaka Shogin Credit Cooperative)",
     "Wiki route",
@@ -61,9 +61,9 @@
   "body_links": {
     "wikilinks_count": 12,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/cooperative-banking-japan",
       "banking/shinkin-bank-registry-japan",
+      "cooperative-banks/INDEX",
       "cooperative-banks/ja-shinnoren",
       "cooperative-banks/jf-shingyoren",
       "cooperative-banks/kyoto-chuo-shinkin",
@@ -75,9 +75,9 @@
       "financial-regulators/dic"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/cooperative-banking-japan",
       "https://finwiki.zksc.io/banking/shinkin-bank-registry-japan",
+      "https://finwiki.zksc.io/cooperative-banks/INDEX",
       "https://finwiki.zksc.io/cooperative-banks/ja-shinnoren",
       "https://finwiki.zksc.io/cooperative-banks/jf-shingyoren",
       "https://finwiki.zksc.io/cooperative-banks/kyoto-chuo-shinkin",
@@ -92,9 +92,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6087,
-    "word_like_tokens": 803,
+    "nonspace_chars": 6127,
+    "word_like_tokens": 807,
     "inbound_wikilinks_count": 7,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

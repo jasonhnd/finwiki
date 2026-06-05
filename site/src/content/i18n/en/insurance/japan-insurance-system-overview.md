@@ -15,7 +15,7 @@ Japan's **insurance system** spans five major segments: **life insurance** (life
 
 The market is concentrated. Four life insurers (Nippon Life, Dai-ichi, Sumitomo, Meiji Yasuda) dominate life premiums, three non-life groups (Tokio Marine, MS&AD, Sompo) dominate non-life premiums, and JA Kyosai is the largest co-op insurer. The earthquake-insurance scheme is a unique public-private partnership operated by Japan Earthquake Reinsurance (JER) with government backing.
 
-This entry is the cross-segment ecosystem anchor that ties the [[insurance/INDEX|insurance domain]] together and bridges to [[JapanFG/INDEX|JapanFG]] for entity pages.
+This entry is the cross-segment ecosystem anchor that ties the [[insurance/INDEX|insurance domain]] together and bridges to [[insurance/INDEX|insurance INDEX]] for entity pages.
 
 ## Wiki route
 
@@ -166,7 +166,6 @@ See [[insurance/earthquake-insurance-public-private-scheme]] and [[non-life-insu
 - [[insurance/bancassurance-economics-japan]]
 - [[insurance/japan-bancassurance-distribution-overlay-matrix]]
 - [[insurance/kampo-japan-post-insurance]]
-- [[JapanFG/INDEX]]
 - [[life-insurers/nippon-life]]
 - [[life-insurers/dai-ichi-life]]
 - [[life-insurers/sumitomo-life]]

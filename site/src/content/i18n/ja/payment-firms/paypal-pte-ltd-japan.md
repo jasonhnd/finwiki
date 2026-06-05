@@ -1,5 +1,5 @@
 ---
-source: japanfg/paypal-pte-ltd-japan
+source: payment-firms/paypal-pte-ltd-japan
 source_hash: 20ae76fcce77ed1f
 lang: ja
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-06-02T15:14:17.100Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]]に置かれる。比較対象として[[payment-firms/revolut-technologies-japan|REVOLUT TECHNOLOGIES JAPAN]] 同業・対比の文脈を確認する and [[payments/INDEX|payments index]] より広い制度・規制境界を確認する.
+この項目は [[payment-firms/INDEX|payment-firms INDEX]]に置かれる。比較対象として[[payment-firms/revolut-technologies-japan|REVOLUT TECHNOLOGIES JAPAN]] 同業・対比の文脈を確認する and [[payments/INDEX|payments index]] より広い制度・規制境界を確認する.
 
 ## 要約
 

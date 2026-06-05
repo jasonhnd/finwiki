@@ -1,5 +1,5 @@
 ---
-source: japanfg/sumitomo-mitsui-banking-corp
+source: megabanks/sumitomo-mitsui-banking-corp
 source_hash: d64a812af88a0e9e
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.110Z
 
 ## Wiki route
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 下。可与 [[megabanks/mufg-bank|三菱UFJ銀行 (MUFG Bank)]] 对照阅读，以理解同业和差异；更广泛的制度和监管边界见 [[banking/INDEX|banking index]]。
+本条目位于 [[megabanks/INDEX|megabanks INDEX]] 下。可与 [[megabanks/mufg-bank|三菱UFJ銀行 (MUFG Bank)]] 对照阅读，以理解同业和差异；更广泛的制度和监管边界见 [[banking/INDEX|banking index]]。
 
 ## TL;DR
 

@@ -11,7 +11,7 @@ translated_at: 2026-06-02T16:33:58.461Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[manufacturer-finance/INDEX|manufacturing index]] の配下に置く。ピア比較・対比の文脈では [[manufacturer-finance/seiko-epson|Seiko Epson Corporation (セイコーエプソン)]] と、より広い制度・規制上の境界では [[JapanFG/INDEX|JapanFG index]] と合わせて読む。
+この項目は [[manufacturer-finance/INDEX|manufacturing index]] の配下に置く。ピア比較・対比の文脈では [[manufacturer-finance/seiko-epson|Seiko Epson Corporation (セイコーエプソン)]] と、より広い制度・規制上の境界では [[manufacturer-finance/INDEX|manufacturer-finance INDEX]] と合わせて読む。
 
 ## 要約
 

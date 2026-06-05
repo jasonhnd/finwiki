@@ -29,6 +29,18 @@
 - 如果某次提交只更新少量条目，也要写清楚为什么改、改了哪里、如何确认。
 - 本仓库正文内容只保留公开互联网信息、公文资料、公开披露或基于公开来源的分析；个人信息、本地路径、非公开对话、客户/相手方信息和内部案件细节必须删除。
 
+## 2026-06-06
+
+### JapanFG split-leftover route の一括修復 — entity 页の旧 `[[JapanFG/INDEX]]` を各域 INDEX へ / JapanFG route batch fix / JapanFG 旧路由批量修复
+#### 日本語記録 / English / 中文
+- **JST 時刻**: 2026-06-06 JST。
+- **背景**: backlog P2 最後の項目。v2026.06.04-4 の JapanFG 17 域物理拆分後、**非 thin の entity 页**にも開頭 Wiki-route が旧 `[[JapanFG/INDEX]]` を指す取り残しが大量に残っていた（死链ではない——umbrella 健在——が各実体は自域 INDEX を route にすべき）。
+- **範囲**: 主仓 source entity `.md` **575 件** + `ja/zh/en` i18n mirror **2,069 件** = **2,644 件**。決定的スクリプトで一括変換。domain `INDEX.md` の umbrella nav と `releases/` 史実は不変。
+- **主要変更**: ① `[[JapanFG/INDEX|…]]`/`[[JapanFG/INDEX]]`（route・footer・本文）→ 各域 INDEX、source と 3 言語 mirror で link target を byte 一致、footer 重複 bullet を dedupe。② mirror frontmatter の旧 `source: japanfg/<slug>` → 現行 `source: <domain>/<slug>` を 1,887 件訂正（prep-translate は path 解決のため build 無影響）。③ `source_hash` は**意図的に不変**——mirror は現 source に対し既に stale（`fresh=false`）、新 hash へ書換は「fresh な翻訳」の偽証となり再翻訳をスキップ→ stale 凍結するため、自己修復シグナルを温存。
+- **実行手順**: i18n モデル調査（content.config.ts は `passthrough()` で source_hash/link 未検証、prep-translate は path で mirror 解決、source_hash は再翻訳要否判定のみ）→ DRY-RUN（件数・サンプル diff・fresh 判定）→ `--apply` → `wiki_link_audit` → `release.ts --write` → `--check --strict`。commit は単独・message に `verif` 不使用。
+- **検証結果**: `wiki_link_audit` `entries_with_issues=0 / dead=0 / canonical_anchor_drift=0`（1485 entries）。非 JapanFG source 残= 0（domain INDEX 32 + releases 4 は意図的保持）、mirror 残= 0。`release.ts --check --strict` **EXIT=0**（md=1564 / domains=40 / counts in sync）。⚠️ `site/` はローカル build 不可（gotcha #3）→ push 後 `gh run watch` で「Deploy FinWiki」確認。
+- **残タスク**: mirror 翻訳本文は依然 stale（route link のみ patch）→ 次回 translate pipeline で self-healing。次は P3 v12 双批近重複マージ、`.txt` 入口 audit 化。詳細は `releases/v2026.06.06-1.md`。
+
 ## 2026-06-05
 
 ### P2 深化（第 2 批・完）— JapanFG 拆分域の残り存根 50 件を実体ページへ深化 / P2 deepening batch 2 (final) / P2 深化第 2 批（完）

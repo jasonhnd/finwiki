@@ -1,5 +1,5 @@
 ---
-source: japanfg/woori-bank-japan
+source: foreign-financial-institutions/woori-bank-japan
 source_hash: bb1e61882b70dfd2
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.149Z
 
 ## Wiki 路线
 
-该条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可结合 [[foreign-financial-institutions/korea-development-bank-japan|韓国産業銀行 東京支店]] 阅读同业和对比背景，并结合 [[banking/INDEX|banking index]] 理解更广泛的制度和监管边界。
+该条目位于 [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]] 之下。可结合 [[foreign-financial-institutions/korea-development-bank-japan|韓国産業銀行 東京支店]] 阅读同业和对比背景，并结合 [[banking/INDEX|banking index]] 理解更广泛的制度和监管边界。
 
 ## 要点
 

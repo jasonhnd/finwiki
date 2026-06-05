@@ -16,7 +16,7 @@ sources:
 
 # JIA Trust / JIA信託
 
-Wiki route: [[JapanFG/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/jia-trust]]
+Wiki route: [[trust-banks/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/jia-trust]]
 
 ## Overview
 

@@ -29,7 +29,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **first JF Marine Bank prefectural-federation operating-company anchor in FinWiki**, closing the audit gap that JF 信漁連 (集合的) was documented but no prefectural 信漁連 anchor existed. Hokkaido was selected as the **single largest fisheries region in Japan** (sake / hotate / kombu / 沿岸漁業 等の生産額トップ) + **the 10-shingyoren landscape's most prominent regional federation**. Read with [[cooperative-banks/jf-shingyoren|JF 信漁連 (全国集合)]] for the national prefectural-federation context, [[cooperative-banks/jf-zengyoren|JF 全漁連]] for the JF group national representative + economic business federation, [[cooperative-banks/norinchukin|農林中央金庫]] for the central institution above, [[cooperative-banks/ja-bank-tokyo-shinren|JA バンク東京信連]] for the agricultural-side peer prefectural anchor, and [[banking/jf-marine-bank-system-japan|JF Marine Bank system]] for the system boundary.
+This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as the **first JF Marine Bank prefectural-federation operating-company anchor in FinWiki**, closing the audit gap that JF 信漁連 (集合的) was documented but no prefectural 信漁連 anchor existed. Hokkaido was selected as the **single largest fisheries region in Japan** (sake / hotate / kombu / 沿岸漁業 等の生産額トップ) + **the 10-shingyoren landscape's most prominent regional federation**. Read with [[cooperative-banks/jf-shingyoren|JF 信漁連 (全国集合)]] for the national prefectural-federation context, [[cooperative-banks/jf-zengyoren|JF 全漁連]] for the JF group national representative + economic business federation, [[cooperative-banks/norinchukin|農林中央金庫]] for the central institution above, [[cooperative-banks/ja-bank-tokyo-shinren|JA バンク東京信連]] for the agricultural-side peer prefectural anchor, and [[banking/jf-marine-bank-system-japan|JF Marine Bank system]] for the system boundary.
 
 ## TL;DR
 
@@ -171,7 +171,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **first JF Marine B
 - [[banking/jf-marine-bank-system-japan]] — JF Marine Bank system
 - [[banking/ja-bank-system-japan]] — JA Bank system (peer system)
 - [[banking/cooperative-banking-japan]] — 協同組織金融全体
-- [[JapanFG/INDEX|JapanFG index]]
+- [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 
 ## Sources
 

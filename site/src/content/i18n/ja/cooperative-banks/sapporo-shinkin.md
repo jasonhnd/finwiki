@@ -1,5 +1,5 @@
 ---
-source: japanfg/sapporo-shinkin
+source: cooperative-banks/sapporo-shinkin
 source_hash: 13b85f611a1055b8
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T15:14:17.079Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に置かれる。都道府県レベルの商業銀行側の比較対象として [[regional-banks/hokkaido-bank|北海道銀行]] と [[regional-banks/hokuyo-bank|北洋銀行]]、他県の都市アンカー型信用金庫の比較対象として [[cooperative-banks/yokohama-shinkin|横浜信用金庫]]、より広い協同組織金融システムの比較対象として [[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]] とあわせて読む。この広い 254 信用金庫システムは [[cooperative-banks/shinkin-central|信金中央金庫]] が維持し、[[financial-regulators/zenshin-kyo|全国信用金庫協会]] が代表する。北海道には 20  の免許信用金庫（FSA 2025-11-06）があり、全国最多の都道府県別数であるため、このページはそのブロックの事業会社アンカーとなる。
+この項目は [[cooperative-banks/INDEX|cooperative-banks INDEX]] の配下に置かれる。都道府県レベルの商業銀行側の比較対象として [[regional-banks/hokkaido-bank|北海道銀行]] と [[regional-banks/hokuyo-bank|北洋銀行]]、他県の都市アンカー型信用金庫の比較対象として [[cooperative-banks/yokohama-shinkin|横浜信用金庫]]、より広い協同組織金融システムの比較対象として [[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]] とあわせて読む。この広い 254 信用金庫システムは [[cooperative-banks/shinkin-central|信金中央金庫]] が維持し、[[financial-regulators/zenshin-kyo|全国信用金庫協会]] が代表する。北海道には 20  の免許信用金庫（FSA 2025-11-06）があり、全国最多の都道府県別数であるため、このページはそのブロックの事業会社アンカーとなる。
 
 ## 要約
 
@@ -84,7 +84,7 @@ translated_at: 2026-06-02T15:14:17.079Z
 
 ## 関連
 
-- [[JapanFG/INDEX|JapanFG index]]
+- [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 - [[cooperative-banks/shinkin-central|信金中央金庫]]
 - [[financial-regulators/zenshin-kyo|全国信用金庫協会]]
 - [[cooperative-banks/shinkin-network-services|信金ネットワークサービス]]

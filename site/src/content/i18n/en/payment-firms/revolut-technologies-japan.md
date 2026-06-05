@@ -1,5 +1,5 @@
 ---
-source: japanfg/revolut-technologies-japan
+source: payment-firms/revolut-technologies-japan
 source_hash: c33d874ba217b4ab
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T00:41:50.455Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[payment-firms/paypal-pte-ltd-japan|PayPal Pte. Ltd. Japan service boundary]] for peer / contrast context and [[payments/INDEX|payments index]] for the broader system / regulatory boundary.
+This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it against [[payment-firms/paypal-pte-ltd-japan|PayPal Pte. Ltd. Japan service boundary]] for peer / contrast context and [[payments/INDEX|payments index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 

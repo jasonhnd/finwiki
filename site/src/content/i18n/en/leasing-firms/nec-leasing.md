@@ -1,5 +1,5 @@
 ---
-source: japanfg/nec-leasing
+source: leasing-firms/nec-leasing
 source_hash: 6661db581eac7f04
 lang: en
 status: machine
@@ -37,7 +37,7 @@ Read this entry together with the related banks, insurers, leasing companies, as
 
 ## Preserved source anchors
 
-- [[JapanFG/INDEX|JapanFG index]]; [[leasing-firms/ricoh-leasing|Ricoh Leasing]]; [[banking/INDEX|banking index]]; [[leasing-firms/fuyo-lease|Fuyo General Lease]]; 1978; 8793; 1978-04-01; 2006; [[leasing-firms/orix-corp|Orix]]; [[leasing-firms/tokyo-century|Tokyo Century]].
+- [[leasing-firms/INDEX|leasing-firms INDEX]]; [[leasing-firms/ricoh-leasing|Ricoh Leasing]]; [[banking/INDEX|banking index]]; [[leasing-firms/fuyo-lease|Fuyo General Lease]]; 1978; 8793; 1978-04-01; 2006; [[leasing-firms/orix-corp|Orix]]; [[leasing-firms/tokyo-century|Tokyo Century]].
 - 8566; [[finance/japan-acquisition-finance|Japan acquisition finance]]; [[leasing-firms/ricoh-leasing|Ricoh Leasing]]; [[card-issuers/toyota-finance|Toyota Finance]]; [[leasing-firms/fuyo-lease|Fuyo General Lease]]; [[leasing-firms/mizuho-lease|Mizuho Leasing]]; [[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]]; [[banking/INDEX|banking index]]; 8793; 2026-05-24.
 
 ## Related

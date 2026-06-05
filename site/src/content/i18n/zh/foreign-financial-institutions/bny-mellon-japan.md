@@ -1,5 +1,5 @@
 ---
-source: japanfg/bny-mellon-japan
+source: foreign-financial-institutions/bny-mellon-japan
 source_hash: 7a9027bc89fcc642
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T11:13:44.857Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[trust-banks/master-trust-bank|日本マスタートラスト信託銀行]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]]. Read it against [[trust-banks/master-trust-bank|日本マスタートラスト信託銀行]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## 1. 公司概要
 

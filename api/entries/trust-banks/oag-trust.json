@@ -35,7 +35,7 @@
       "https://www.oag-group.co.jp/wp/wp-content/uploads/2024/08/the-Heartful-OAG-no.232.pdf"
     ]
   },
-  "summary": "OAG Trust is a standalone trust-company route under JapanFG and is promoted from the Japan trust companies registry index. Read it with Japan trust-bank custody map, Japan acquisition finance, and Yamada Escrow Trust.",
+  "summary": "OAG Trust is a standalone trust-company route under trust-banks INDEX and is promoted from the Japan trust companies registry index. Read it with Japan trust-bank custody map, Japan acquisition finance, and Yamada Escrow Trust.",
   "headings": [
     "OAG信託 (OAG Trust)",
     "Wiki route",
@@ -51,18 +51,18 @@
     "wikilinks_count": 7,
     "wikilinks": [
       "INDEX",
-      "JapanFG/INDEX",
       "banking/japan-trust-bank-custody-map",
       "finance/japan-acquisition-finance",
+      "trust-banks/INDEX",
       "trust-banks/escrow-agent-japan-trust",
       "trust-banks/trust-companies-japan-index",
       "trust-banks/yamada-escrow-trust"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/japan-trust-bank-custody-map",
       "https://finwiki.zksc.io/finance/japan-acquisition-finance",
+      "https://finwiki.zksc.io/trust-banks/INDEX",
       "https://finwiki.zksc.io/trust-banks/escrow-agent-japan-trust",
       "https://finwiki.zksc.io/trust-banks/trust-companies-japan-index",
       "https://finwiki.zksc.io/trust-banks/yamada-escrow-trust"
@@ -71,9 +71,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3210,
-    "word_like_tokens": 528,
+    "nonspace_chars": 3227,
+    "word_like_tokens": 532,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

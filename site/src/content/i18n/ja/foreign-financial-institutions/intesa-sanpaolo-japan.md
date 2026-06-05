@@ -1,5 +1,5 @@
 ---
-source: japanfg/intesa-sanpaolo-japan
+source: foreign-financial-institutions/intesa-sanpaolo-japan
 source_hash: b5c741df61a897ee
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:25:12.388Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に位置づける。比較対象・対照文脈は [[foreign-financial-institutions/credit-agricole-bank-japan|クレディ・アグリコル銀行 東京支店]]、より広い制度・規制上の境界は [[banking/INDEX|banking index]] とあわせて読む。
+この項目は [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]] の配下に位置づける。比較対象・対照文脈は [[foreign-financial-institutions/credit-agricole-bank-japan|クレディ・アグリコル銀行 東京支店]]、より広い制度・規制上の境界は [[banking/INDEX|banking index]] とあわせて読む。
 
 ## 要約
 
@@ -34,7 +34,7 @@ translated_at: 2026-06-02T14:25:12.388Z
 
 Intesa Sanpaolo の公式ニュースルームは、東京の法人向け支店について、専門的知見を使って日本で事業を行うイタリアおよび国際顧客を支援し、日本企業の海外展開を後押しすると説明している。同記事は、Intesa Sanpaolo とその前身を通じて 1972 から東京に拠点を置いていることにも触れている。
 
-この支店は、国内リテール銀行ではなく、法人 / 貿易 / プロジェクトファイナンスおよびイタリア企業ビジネスの橋渡しとして理解するのが適切である。日本におけるイタリア企業向けファイナンスの公開事例は、二国間の法人コリドーにおける支店の役割を示す。イタリア P0 支店枠は [[JapanFG/INDEX|JapanFG]] に位置し、[[foreign-financial-institutions/credit-agricole-bank-japan|Crédit Agricole Tokyo]] のようなフランス系ピアや [[foreign-financial-institutions/commerzbank-japan|Commerzbank Tokyo]] のようなドイツ系ピアと並んで [[banking/INDEX|banking]] のカバレッジに入る。
+この支店は、国内リテール銀行ではなく、法人 / 貿易 / プロジェクトファイナンスおよびイタリア企業ビジネスの橋渡しとして理解するのが適切である。日本におけるイタリア企業向けファイナンスの公開事例は、二国間の法人コリドーにおける支店の役割を示す。イタリア P0 支店枠は [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]] に位置し、[[foreign-financial-institutions/credit-agricole-bank-japan|Crédit Agricole Tokyo]] のようなフランス系ピアや [[foreign-financial-institutions/commerzbank-japan|Commerzbank Tokyo]] のようなドイツ系ピアと並んで [[banking/INDEX|banking]] のカバレッジに入る。
 
 ## 3. このページが重要な理由
 

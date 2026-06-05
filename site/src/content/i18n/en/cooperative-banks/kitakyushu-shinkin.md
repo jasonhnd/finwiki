@@ -1,5 +1,5 @@
 ---
-source: japanfg/kitakyushu-shinkin
+source: cooperative-banks/kitakyushu-shinkin
 source_hash: c1f78287244c72bf
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:59:49.326Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[regional-banks/fukuoka-fg|Fukuoka Financial Group]] ([[regional-banks/fukuoka-bank|Bank of Fukuoka]], [[regional-banks/kumamoto-bank|Kumamoto Bank]], and [[regional-banks/18-shinwa-bank|Juhachi-Shinwa Bank]]) and [[regional-banks/nishi-nippon-fh|Nishi-Nippon Financial Holdings]] ([[regional-banks/nishi-nippon-city-bank|Nishi-Nippon City Bank]]) for Kyushu commercial-bank counterparts; against [[regional-banks/kitakyushu-bank|Kitakyushu Bank]] for the same-name regional commercial bank; and against [[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]] for the broader shinkin system maintained by [[cooperative-banks/shinkin-central|Shinkin Central Bank]] and represented by [[financial-regulators/zenshin-kyo|National Association of Shinkin Banks]].
+This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]]. Read it against [[regional-banks/fukuoka-fg|Fukuoka Financial Group]] ([[regional-banks/fukuoka-bank|Bank of Fukuoka]], [[regional-banks/kumamoto-bank|Kumamoto Bank]], and [[regional-banks/18-shinwa-bank|Juhachi-Shinwa Bank]]) and [[regional-banks/nishi-nippon-fh|Nishi-Nippon Financial Holdings]] ([[regional-banks/nishi-nippon-city-bank|Nishi-Nippon City Bank]]) for Kyushu commercial-bank counterparts; against [[regional-banks/kitakyushu-bank|Kitakyushu Bank]] for the same-name regional commercial bank; and against [[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]] for the broader shinkin system maintained by [[cooperative-banks/shinkin-central|Shinkin Central Bank]] and represented by [[financial-regulators/zenshin-kyo|National Association of Shinkin Banks]].
 
 ## TL;DR
 
@@ -79,7 +79,7 @@ As a city-anchor shinkin in the Kyushu-Okinawa block, it is positioned alongside
 
 ## Related
 
-- [[JapanFG/INDEX|JapanFG index]]
+- [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 - [[cooperative-banks/shinkin-central|信金中央金庫]]
 - [[financial-regulators/zenshin-kyo|全国信用金庫協会]]
 - [[cooperative-banks/shinkin-network-services|Shinkin Network Services]]

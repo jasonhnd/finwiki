@@ -17,7 +17,7 @@ sources:
 
 # Kainuma Trust Real Estate / 貝沼信託不動産
 
-Wiki route: [[JapanFG/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/kainuma-trust-real-estate]]
+Wiki route: [[trust-banks/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/kainuma-trust-real-estate]]
 
 ## Overview
 

@@ -1,5 +1,5 @@
 ---
-source: japanfg/zurich-japan
+source: non-life-insurers/zurich-japan
 source_hash: d8425f6b62f041dc
 lang: en
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-01T03:31:12.280Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[life-insurers/axa-japan|アクサ・ジャパン (AXA Japan)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read it against [[life-insurers/axa-japan|アクサ・ジャパン (AXA Japan)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 

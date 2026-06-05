@@ -24,7 +24,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[financial-regulators/sonpo-hosho-kiko|損害保険契約者保護機構]] and [[financial-regulators/seimei-hokensha-hogo-kiko|生命保険契約者保護機構]] for parallel safety-net peers, and against [[financial-regulators/fsa|金融庁]] / [[financial-regulators/boj|日本銀行]] for the broader system / regulatory boundary.
+This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]]. Read it against [[financial-regulators/sonpo-hosho-kiko|損害保険契約者保護機構]] and [[financial-regulators/seimei-hokensha-hogo-kiko|生命保険契約者保護機構]] for parallel safety-net peers, and against [[financial-regulators/fsa|金融庁]] / [[financial-regulators/boj|日本銀行]] for the broader system / regulatory boundary.
 
 ## TL;DR
 

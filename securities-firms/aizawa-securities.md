@@ -26,7 +26,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[securities-firms/aizawa-sg|アイザワ証券グループ]] for parent holding context, [[securities-firms/iwai-cosmo-securities|岩井コスモ証券]] / [[securities-firms/tokai-tokyo-securities|東海東京証券]] / [[securities-firms/okasan-sg|岡三証券グループ]] for peer mid-tier independent securities, and [[securities/INDEX|securities index]] for the broader market-structure boundary.
+This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it against [[securities-firms/aizawa-sg|アイザワ証券グループ]] for parent holding context, [[securities-firms/iwai-cosmo-securities|岩井コスモ証券]] / [[securities-firms/tokai-tokyo-securities|東海東京証券]] / [[securities-firms/okasan-sg|岡三証券グループ]] for peer mid-tier independent securities, and [[securities/INDEX|securities index]] for the broader market-structure boundary.
 
 ## TL;DR
 
@@ -125,7 +125,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[securit
 - [[securities-firms/tokai-tokyo-securities|東海東京証券]] — 東海基盤独立中堅証券ピア
 - [[securities-firms/marusan-securities|丸三証券]] — 関東基盤独立中堅証券ピア
 - [[securities-firms/okasan-sg|岡三証券グループ]] — 名古屋系老舗独立中堅証券ピア
-- [[JapanFG/INDEX|JapanFG index]]
+- [[securities-firms/INDEX|securities-firms INDEX]]
 - [[securities/INDEX|Securities domain index]]
 
 ## Sources

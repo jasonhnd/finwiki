@@ -1,5 +1,5 @@
 ---
-source: japanfg/state-bank-of-india-japan
+source: foreign-financial-institutions/state-bank-of-india-japan
 source_hash: 437b91a8af75f0ae
 lang: zh
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-06-01T02:31:57.136Z
 
 State Bank of India Japan 是 [[foreign-financial-institutions/foreign-bank-branches-japan-index|the foreign-bank branch registry]] 中主要的 India-Japan banking-corridor 页面。应与 [[foreign-financial-institutions/bank-of-india-japan|Bank of India Japan]]、[[financial-regulators/jbic|JBIC]]、[[finance/cross-border-m-a-japan|cross-border M&A Japan]]、[[financial-licenses/foreign-bank-agency-business-route|foreign-bank agency route]] 一起阅读。
 
-本条目先经由 [[JapanFG/INDEX|JapanFG index]] 路由，再用 [[banking/INDEX|banking domain]] 处理分行业务语境，用 [[finance/INDEX|finance domain]] 处理公开 M&A / 项目融资问题。
+本条目先经由 [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]] 路由，再用 [[banking/INDEX|banking domain]] 处理分行业务语境，用 [[finance/INDEX|finance domain]] 处理公开 M&A / 项目融资问题。
 
 ## Overview
 
@@ -66,7 +66,7 @@ State Bank of India Japan 在此记录为 India-Japan wholesale banking infrastr
 
 ## Related
 
-- [[JapanFG/INDEX]]
+- [[foreign-financial-institutions/INDEX]]
 - [[foreign-financial-institutions/foreign-bank-branches-japan-index]]
 - [[foreign-financial-institutions/bank-of-india-japan]]
 - [[financial-regulators/jbic]]

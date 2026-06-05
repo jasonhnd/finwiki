@@ -23,7 +23,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under the [[JapanFG/INDEX|JapanFG index]] as a **white-label fintech** vendor that sits one layer below the consumer-facing wallets. Read it together with the [[payment-firms/bnpl-landscape|Japan BNPL landscape]] for the BNPL-adjacent payment context, the [[payment-firms/dg-financial-technology|DG Financial Technology]] and [[payment-firms/famima-digital-one|FamiMa Digital One]] peers for white-label / merchant-side fintech comparators, and the [[payments/japan-bnpl-credit-purchase-boundary|BNPL and credit-purchase boundary]] for where issuer / acquirer license edges land. The [[payments/credit-purchase-card-operators-japan-index|METI credit-purchase registry]] and [[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]] are the registration and economics anchors.
+This entry sits under the [[payment-firms/INDEX|payment-firms INDEX]] as a **white-label fintech** vendor that sits one layer below the consumer-facing wallets. Read it together with the [[payment-firms/bnpl-landscape|Japan BNPL landscape]] for the BNPL-adjacent payment context, the [[payment-firms/dg-financial-technology|DG Financial Technology]] and [[payment-firms/famima-digital-one|FamiMa Digital One]] peers for white-label / merchant-side fintech comparators, and the [[payments/japan-bnpl-credit-purchase-boundary|BNPL and credit-purchase boundary]] for where issuer / acquirer license edges land. The [[payments/credit-purchase-card-operators-japan-index|METI credit-purchase registry]] and [[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]] are the registration and economics anchors.
 
 ## TL;DR
 

@@ -19,7 +19,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[asset-managers/asset-management-one|アセットマネジメントOne]] for peer / contrast context, [[financial-licenses/securities-license-stack|securities license stack]] for the FIEA license boundary, and [[securities/financial-instruments-business-operators-japan-index|FSA 金商業者 index]] for the registry layer.
+This entry sits under [[asset-managers/INDEX|asset-managers INDEX]]. Read it against [[asset-managers/asset-management-one|アセットマネジメントOne]] for peer / contrast context, [[financial-licenses/securities-license-stack|securities license stack]] for the FIEA license boundary, and [[securities/financial-instruments-business-operators-japan-index|FSA 金商業者 index]] for the registry layer.
 
 ## TL;DR
 

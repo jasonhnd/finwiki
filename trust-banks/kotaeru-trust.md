@@ -17,7 +17,7 @@ sources:
 
 # Kotaeru Trust / コタエル信託
 
-Wiki route: [[JapanFG/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/kotaeru-trust]]
+Wiki route: [[trust-banks/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/kotaeru-trust]]
 
 ## Overview
 

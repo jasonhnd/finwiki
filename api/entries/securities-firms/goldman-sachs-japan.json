@@ -40,7 +40,7 @@
       "https://www.goldmansachs.com/japan/our-firm/about-us/"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against モルガン・スタンレー・ジャパン (Morgan Stanley Japan) for peer / contrast context and securities index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under securities-firms INDEX. Read it against モルガン・スタンレー・ジャパン (Morgan Stanley Japan) for peer / contrast context and securities index for the broader system / regulatory boundary.",
   "headings": [
     "ゴールドマン・サックス・ジャパン (Goldman Sachs Japan)",
     "Wiki route",
@@ -56,7 +56,6 @@
   "body_links": {
     "wikilinks_count": 11,
     "wikilinks": [
-      "JapanFG/INDEX",
       "finance/cross-border-m-a-japan",
       "finance/japan-ib-league-table",
       "mizuho-fg",
@@ -64,12 +63,12 @@
       "mufg",
       "ndfg",
       "nomura-hd",
+      "securities-firms/INDEX",
       "securities-firms/morgan-stanley-japan",
       "securities/INDEX",
       "smfg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/finance/cross-border-m-a-japan",
       "https://finwiki.zksc.io/finance/japan-ib-league-table",
       "https://finwiki.zksc.io/mizuho-fg",
@@ -77,6 +76,7 @@
       "https://finwiki.zksc.io/mufg",
       "https://finwiki.zksc.io/ndfg",
       "https://finwiki.zksc.io/nomura-hd",
+      "https://finwiki.zksc.io/securities-firms/INDEX",
       "https://finwiki.zksc.io/securities-firms/morgan-stanley-japan",
       "https://finwiki.zksc.io/securities/INDEX",
       "https://finwiki.zksc.io/smfg"
@@ -85,9 +85,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5454,
-    "word_like_tokens": 870,
+    "nonspace_chars": 5472,
+    "word_like_tokens": 872,
     "inbound_wikilinks_count": 34,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

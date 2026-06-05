@@ -1,5 +1,5 @@
 ---
-source: japanfg/fsa-strategy-bureau
+source: financial-regulators/fsa-strategy-bureau
 source_hash: d1ac3c4c4ea67193
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T15:29:03.888Z
 # Strategy Development and Management Bureau (FSA Strategy Development and Management Bureau)
 
 ## Wiki route
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[financial-regulators/fsa-supervision-bureau|FSA 監督局]] for the supervision-side counterpart and [[financial-regulators/fsa-planning-coordination-bureau|FSA 企画市場局]] for the rule-making counterpart. For the BoJ-side international policy lane, anchor through [[financial-regulators/boj-international-dept|BoJ 国際局]], and for the broader regulatory perimeter through [[financial-licenses/INDEX|legal / financial licenses]].
+This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]]. Read it against [[financial-regulators/fsa-supervision-bureau|FSA 監督局]] for the supervision-side counterpart and [[financial-regulators/fsa-planning-coordination-bureau|FSA 企画市場局]] for the rule-making counterpart. For the BoJ-side international policy lane, anchor through [[financial-regulators/boj-international-dept|BoJ 国際局]], and for the broader regulatory perimeter through [[financial-licenses/INDEX|legal / financial licenses]].
 
 ## TL;DR
 

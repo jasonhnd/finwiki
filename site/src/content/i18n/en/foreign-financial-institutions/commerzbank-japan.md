@@ -1,5 +1,5 @@
 ---
-source: japanfg/commerzbank-japan
+source: foreign-financial-institutions/commerzbank-japan
 source_hash: 95ef46e29467396b
 lang: en
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T11:13:44.957Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[foreign-financial-institutions/credit-agricole-bank-japan|クレディ・アグリコル銀行 東京支店]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]]. Read it against [[foreign-financial-institutions/credit-agricole-bank-japan|クレディ・アグリコル銀行 東京支店]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 

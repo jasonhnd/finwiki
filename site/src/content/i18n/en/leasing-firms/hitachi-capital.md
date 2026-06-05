@@ -1,5 +1,5 @@
 ---
-source: japanfg/hitachi-capital
+source: leasing-firms/hitachi-capital
 source_hash: 2da2f50d7c4ef25c
 lang: en
 status: machine

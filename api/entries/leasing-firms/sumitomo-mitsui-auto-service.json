@@ -41,7 +41,7 @@
       "住友三井オートサービス 公式コーポレートサイト"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against SMFL (the sister general-leasing JV between the same parents — SMFG + 住友商事系) and 住友商事フィナンシャルマネジメント (the Sumitomo Corp internal-treasury arm). For peer auto / fleet finance, see トヨタファイナンス (Toyota dealer / auto financing) and TFS. For 商社系金融 peer set",
+  "summary": "This entry sits under leasing-firms INDEX. Read it against SMFL (the sister general-leasing JV between the same parents — SMFG + 住友商事系) and 住友商事フィナンシャルマネジメント (the Sumitomo Corp internal-treasury arm). For peer auto / fleet finance, see トヨタファイナンス (Toyota dealer / auto financing) and TFS. For 商社系金融 pe",
   "headings": [
     "住友三井オートサービス (Sumitomo Mitsui Auto Service / SMAS)",
     "Wiki route",
@@ -57,12 +57,12 @@
   "body_links": {
     "wikilinks_count": 20,
     "wikilinks": [
-      "JapanFG/INDEX",
       "asset-managers/mitsubishi-corp-asset-management",
       "banking/INDEX",
       "card-issuers/toyota-finance",
       "finance/japan-acquisition-finance",
       "financial-regulators/boj-monetary-policy",
+      "leasing-firms/INDEX",
       "leasing-firms/orix-corp",
       "leasing-firms/smfl",
       "leasing-firms/tokyo-century",
@@ -79,12 +79,12 @@
       "trust-banks/smtb"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/asset-managers/mitsubishi-corp-asset-management",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/card-issuers/toyota-finance",
       "https://finwiki.zksc.io/finance/japan-acquisition-finance",
       "https://finwiki.zksc.io/financial-regulators/boj-monetary-policy",
+      "https://finwiki.zksc.io/leasing-firms/INDEX",
       "https://finwiki.zksc.io/leasing-firms/orix-corp",
       "https://finwiki.zksc.io/leasing-firms/smfl",
       "https://finwiki.zksc.io/leasing-firms/tokyo-century",
@@ -104,9 +104,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4821,
-    "word_like_tokens": 733,
+    "nonspace_chars": 4833,
+    "word_like_tokens": 735,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

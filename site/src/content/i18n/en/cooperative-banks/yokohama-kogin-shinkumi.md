@@ -1,5 +1,5 @@
 ---
-source: japanfg/yokohama-kogin-shinkumi
+source: cooperative-banks/yokohama-kogin-shinkumi
 source_hash: 2de5354ea51dcc29
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.149Z
 
 ## Wiki Route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **metropolitan-area (Kanagawa) ethnic-business shinkumi anchor** within the 143 cooperative population catalogued in [[banking/credit-cooperative-registry-japan|Japan credit cooperative registry]]. Read it against [[cooperative-banks/osaka-shogin-shinkumi|大阪商銀信用組合]] for the Kansai counterpart in the Korean-business shinkumi network and [[cooperative-banks/zenshin-kumi|全信組連]] for the cooperative-system parent.
+This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as a **metropolitan-area (Kanagawa) ethnic-business shinkumi anchor** within the 143 cooperative population catalogued in [[banking/credit-cooperative-registry-japan|Japan credit cooperative registry]]. Read it against [[cooperative-banks/osaka-shogin-shinkumi|大阪商銀信用組合]] for the Kansai counterpart in the Korean-business shinkumi network and [[cooperative-banks/zenshin-kumi|全信組連]] for the cooperative-system parent.
 
 ## TL;DR
 
@@ -107,7 +107,7 @@ Kanagawa Prefecture has 6  credit cooperatives in the FSA registry (registry Nos
 - [[financial-regulators/dic]] — Deposit Insurance Corporation of Japan
 - [[banking/credit-cooperative-registry-japan]] — Japan credit cooperative registry (overall 143  shinkumi)
 - [[banking/cooperative-banking-japan]] — Cooperative finance overall
-- [[JapanFG/INDEX|JapanFG index]]
+- [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 
 ## Sources
 

@@ -57,10 +57,9 @@
     "7. Counterpoints"
   ],
   "body_links": {
-    "wikilinks_count": 16,
+    "wikilinks_count": 15,
     "wikilinks": [
       "INDEX",
-      "JapanFG/INDEX",
       "business/INDEX",
       "business/gmo-internet-group",
       "business/kddi-au-financial-bundling-case",
@@ -78,7 +77,6 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/business/INDEX",
       "https://finwiki.zksc.io/business/gmo-internet-group",
       "https://finwiki.zksc.io/business/kddi-au-financial-bundling-case",
@@ -98,9 +96,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 11107,
-    "word_like_tokens": 1800,
+    "nonspace_chars": 11034,
+    "word_like_tokens": 1790,
     "inbound_wikilinks_count": 2,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

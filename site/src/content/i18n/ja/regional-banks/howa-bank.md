@@ -1,5 +1,5 @@
 ---
-source: japanfg/howa-bank
+source: regional-banks/howa-bank
 source_hash: 9146621489ccd607
 lang: ja
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-06-02T14:25:12.414Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] 配下に位置する。隣接文脈では [[banking/INDEX|banking index]]、制度全体の境界では [[financial-licenses/INDEX|JapanFG index]] とあわせて読む。
+この項目は [[regional-banks/INDEX|regional-banks INDEX]] 配下に位置する。隣接文脈では [[banking/INDEX|banking index]]、制度全体の境界では [[financial-licenses/INDEX|JapanFG index]] とあわせて読む。
 
 ## 要約
 
@@ -36,7 +36,7 @@ translated_at: 2026-06-02T14:25:12.414Z
 ## 3. このページが重要な理由
 
 - Closes the FSA exact-name page for 豊和銀行.
-- [[JapanFG/INDEX|JapanFG index]] 経由で索引される、大分の第一・第二地方銀行の比較ペアを完成させる。
+- [[regional-banks/INDEX|regional-banks INDEX]] 経由で索引される、大分の第一・第二地方銀行の比較ペアを完成させる。
 - 九州の第二地方銀行について、共同システムと再編分析のアンカーを提供する。
 
 ## 関連項目

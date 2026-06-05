@@ -1,5 +1,5 @@
 ---
-source: japanfg/state-street-japan
+source: foreign-financial-institutions/state-street-japan
 source_hash: 7f373e9514752115
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T15:14:17.090Z
 
 ## ウィキ上の位置づけ
 
-本項目は[[JapanFG/INDEX|JapanFG index]]配下に置く。[[foreign-financial-institutions/bny-mellon-japan|BNY メロン日本 (BNY Mellon Japan)]]とは同業・対比の文脈で、[[banking/INDEX|banking index]]とはより広い制度・規制上の境界を読むために参照する。
+本項目は[[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]]配下に置く。[[foreign-financial-institutions/bny-mellon-japan|BNY メロン日本 (BNY Mellon Japan)]]とは同業・対比の文脈で、[[banking/INDEX|banking index]]とはより広い制度・規制上の境界を読むために参照する。
 
 ## 1. 会社概要
 

@@ -1,5 +1,5 @@
 ---
-source: japanfg/meiji-yasuda-trust-life
+source: life-insurers/meiji-yasuda-trust-life
 source_hash: 5d51f6855524f29f
 lang: ja
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-06-02T14:54:39.059Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の下に位置づけられる。比較対象・対照関係は [[life-insurers/dai-ichi-frontier-life|第一フロンティア生命保険]]、より広い制度・規制上の境界は [[insurance/INDEX|insurance index]] とあわせて読む。
+この項目は [[life-insurers/INDEX|life-insurers INDEX]] の下に位置づけられる。比較対象・対照関係は [[life-insurers/dai-ichi-frontier-life|第一フロンティア生命保険]]、より広い制度・規制上の境界は [[insurance/INDEX|insurance index]] とあわせて読む。
 
 ## 要約
 

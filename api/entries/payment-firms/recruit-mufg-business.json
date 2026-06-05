@@ -39,7 +39,7 @@
       "https://www.recruit.co.jp/newsroom/pressrelease/2025/0519_15640.html"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it with MUFG for bank-group context, funds-transfer registry for the regulatory route, and Japan code-payment competitive map for wallet competition.",
+  "summary": "This entry sits under payment-firms INDEX. Read it with MUFG for bank-group context, funds-transfer registry for the regulatory route, and Japan code-payment competitive map for wallet competition.",
   "headings": [
     "リクルートMUFGビジネス",
     "Wiki route",
@@ -53,9 +53,9 @@
   "body_links": {
     "wikilinks_count": 11,
     "wikilinks": [
-      "JapanFG/INDEX",
       "megabanks/mufg",
       "megabanks/mufg-bank",
+      "payment-firms/INDEX",
       "payment-firms/au-payment",
       "payment-firms/gmo-payment-gateway",
       "payment-firms/merpay",
@@ -66,9 +66,9 @@
       "payments/prepaid-payment-instrument-issuers-japan-index"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/megabanks/mufg",
       "https://finwiki.zksc.io/megabanks/mufg-bank",
+      "https://finwiki.zksc.io/payment-firms/INDEX",
       "https://finwiki.zksc.io/payment-firms/au-payment",
       "https://finwiki.zksc.io/payment-firms/gmo-payment-gateway",
       "https://finwiki.zksc.io/payment-firms/merpay",
@@ -82,9 +82,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3009,
-    "word_like_tokens": 495,
+    "nonspace_chars": 3021,
+    "word_like_tokens": 497,
     "inbound_wikilinks_count": 11,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

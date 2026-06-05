@@ -1,5 +1,5 @@
 ---
-source: japanfg/nippon-post
+source: megabanks/nippon-post
 source_hash: 9bbccaf2498d98f2
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T00:41:50.471Z
 
 ## Wiki Route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[life-insurers/kampo-life|かんぽ生命保険 (Japan Post Insurance)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+This entry sits under [[megabanks/INDEX|megabanks INDEX]]. Read it against [[life-insurers/kampo-life|かんぽ生命保険 (Japan Post Insurance)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 

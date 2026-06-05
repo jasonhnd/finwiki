@@ -12,7 +12,7 @@ translated_at: 2026-05-30T16:08:36.705Z
 
 ## Wiki route
 
-本条目归于 [[business/INDEX|business INDEX]] 之下,作为人物与投资组合集群中的上市公司战略案例。请将其与 [[business/brian-armstrong-coinbase-public-company-template|Brian Armstrong Coinbase exchange-as-public-company template]] 作为投资组合公司上市的同业 / 对比背景、与 [[business/kitao-yoshitaka-sbi-independent-strategy-case|Kitao Yoshitaka SBI independent strategy]] 作为对照的 Japan-FG 独立路线案例,以及 [[finance/INDEX|finance INDEX]] 作为更广泛的资本市场背景一并阅读。Vision Fund 的结构性母公司参见 [[JapanFG/INDEX|JapanFG INDEX]]。
+本条目归于 [[business/INDEX|business INDEX]] 之下,作为人物与投资组合集群中的上市公司战略案例。请将其与 [[business/brian-armstrong-coinbase-public-company-template|Brian Armstrong Coinbase exchange-as-public-company template]] 作为投资组合公司上市的同业 / 对比背景、与 [[business/kitao-yoshitaka-sbi-independent-strategy-case|Kitao Yoshitaka SBI independent strategy]] 作为对照的 Japan-FG 独立路线案例,以及 [[finance/INDEX|finance INDEX]] 作为更广泛的资本市场背景一并阅读。Vision Fund 的结构性母公司参见 [[business/INDEX|business INDEX]]。
 
 ## TL;DR
 

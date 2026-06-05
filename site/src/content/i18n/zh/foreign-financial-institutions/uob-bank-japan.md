@@ -1,5 +1,5 @@
 ---
-source: japanfg/uob-bank-japan
+source: foreign-financial-institutions/uob-bank-japan
 source_hash: f242da9d03ff9458
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.172Z
 
 ## Wiki route
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可与 [[foreign-financial-institutions/dbs-bank-japan|DBS銀行 東京支店]] 对照阅读以理解同业 / 对比语境，也可与 [[banking/INDEX|banking index]] 一起阅读以把握更大的系统和监管边界。
+本条目位于 [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]] 之下。可与 [[foreign-financial-institutions/dbs-bank-japan|DBS銀行 東京支店]] 对照阅读以理解同业 / 对比语境，也可与 [[banking/INDEX|banking index]] 一起阅读以把握更大的系统和监管边界。
 
 ## TL;DR
 

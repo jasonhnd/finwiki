@@ -1,5 +1,5 @@
 ---
-source: japanfg/tomony-hd
+source: regional-banks/tomony-hd
 source_hash: 9b76c572892200fc
 lang: ja
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-02T16:33:58.486Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の下に位置する。同業比較・対比の文脈は [[regional-banks/fukuoka-fg|ふくおか FG (FFG)]]、より広い制度・規制上の境界は [[banking/INDEX|banking index]] とあわせて読む。
+この項目は [[regional-banks/INDEX|regional-banks INDEX]] の下に位置する。同業比較・対比の文脈は [[regional-banks/fukuoka-fg|ふくおか FG (FFG)]]、より広い制度・規制上の境界は [[banking/INDEX|banking index]] とあわせて読む。
 
 ## 要約
 

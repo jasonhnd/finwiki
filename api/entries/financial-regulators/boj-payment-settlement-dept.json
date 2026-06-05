@@ -44,7 +44,7 @@
       "https://www.boj.or.jp/en/about/publication/"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 金融市場局 for the BoJ market-operations counterpart and 金融機構局 for the prudential-side bureau. For the broader settlement system, anchor through banking landscape and BoJ monetary policy.",
+  "summary": "This entry sits under financial-regulators INDEX. Read it against 金融市場局 for the BoJ market-operations counterpart and 金融機構局 for the prudential-side bureau. For the broader settlement system, anchor through banking landscape and BoJ monetary policy.",
   "headings": [
     "決済機構局 (BoJ Payment and Settlement Systems Department)",
     "Wiki route",
@@ -58,10 +58,10 @@
   "body_links": {
     "wikilinks_count": 13,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "banking/baas-japan-landscape",
       "banking/quick-deposit-four-methods",
+      "financial-regulators/INDEX",
       "financial-regulators/boj-financial-markets-dept",
       "financial-regulators/boj-financial-system-dept",
       "financial-regulators/boj-international-dept",
@@ -73,10 +73,10 @@
       "money-market/japan-money-market"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/baas-japan-landscape",
       "https://finwiki.zksc.io/banking/quick-deposit-four-methods",
+      "https://finwiki.zksc.io/financial-regulators/INDEX",
       "https://finwiki.zksc.io/financial-regulators/boj-financial-markets-dept",
       "https://finwiki.zksc.io/financial-regulators/boj-financial-system-dept",
       "https://finwiki.zksc.io/financial-regulators/boj-international-dept",
@@ -91,9 +91,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5816,
-    "word_like_tokens": 944,
+    "nonspace_chars": 5842,
+    "word_like_tokens": 946,
     "inbound_wikilinks_count": 7,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

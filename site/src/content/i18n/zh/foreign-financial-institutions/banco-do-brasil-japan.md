@@ -1,5 +1,5 @@
 ---
-source: japanfg/banco-do-brasil-japan
+source: foreign-financial-institutions/banco-do-brasil-japan
 source_hash: 013cc2fae429006d
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T11:13:44.916Z
 
 ## Wiki 路由
 
-Banco do Brasil Japan 属于 [[JapanFG/INDEX|JapanFG index]]，也是 [[foreign-financial-institutions/foreign-bank-branches-japan-index|foreign-bank branch registry]] 中的巴西-日本外资银行分支路线。阅读时可同时参考 [[payments/funds-transfer-service-providers-japan-index|funds-transfer registry]]、[[financial-licenses/foreign-bank-branch-license-route|foreign-bank branch route]]、[[financial-licenses/foreign-bank-agency-business-route|foreign-bank agency route]] 与 [[finance/cross-border-m-a-japan|cross-border finance]]。
+Banco do Brasil Japan 属于 [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]]，也是 [[foreign-financial-institutions/foreign-bank-branches-japan-index|foreign-bank branch registry]] 中的巴西-日本外资银行分支路线。阅读时可同时参考 [[payments/funds-transfer-service-providers-japan-index|funds-transfer registry]]、[[financial-licenses/foreign-bank-branch-license-route|foreign-bank branch route]]、[[financial-licenses/foreign-bank-agency-business-route|foreign-bank agency route]] 与 [[finance/cross-border-m-a-japan|cross-border finance]]。
 
 本页用于记录 Banco do Brasil Japan、Japan-Brazil 汇款、外币存款、分支银行服务与企业国际业务等公开信息。
 
@@ -58,7 +58,7 @@ Banco do Brasil Japan 是面向在日巴西居民、巴西相关企业与日巴�
 
 ## 相关
 
-- [[JapanFG/INDEX]]
+- [[foreign-financial-institutions/INDEX]]
 - [[foreign-financial-institutions/foreign-bank-branches-japan-index]]
 - [[financial-licenses/foreign-bank-branch-license-route]]
 - [[financial-licenses/foreign-bank-agency-business-route]]

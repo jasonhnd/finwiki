@@ -1,5 +1,5 @@
 ---
-source: japanfg/hokuyo-bank
+source: regional-banks/hokuyo-bank
 source_hash: 684d164a3f078bd8
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T15:29:03.867Z
 
 ## Wiki 路径
 
-本条目位于 [[JapanFG/INDEX|JapanFG 索引]] 之下。可与 [[regional-banks/hokuhoku-fg|Hokuhoku Financial Group]]、[[regional-banks/jimoto-hd|Jimoto Holdings]] 以及 [[banking/INDEX|银行索引]] 对照阅读，理解北海道和东北地区地方银行的集团边界。
+本条目位于 [[regional-banks/INDEX|regional-banks INDEX]] 之下。可与 [[regional-banks/hokuhoku-fg|Hokuhoku Financial Group]]、[[regional-banks/jimoto-hd|Jimoto Holdings]] 以及 [[banking/INDEX|银行索引]] 对照阅读，理解北海道和东北地区地方银行的集团边界。
 
 ## TL;DR
 

@@ -35,7 +35,7 @@
       "https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it with payments index for adjacent context and Funds transfer vs prepaid boundary in Japan for the broader system boundary.",
+  "summary": "This entry sits under payment-firms INDEX. Read it with payments index for adjacent context and Funds transfer vs prepaid boundary in Japan for the broader system boundary.",
   "headings": [
     "セブン・ペイメントサービス",
     "Wiki route",
@@ -49,8 +49,8 @@
   "body_links": {
     "wikilinks_count": 7,
     "wikilinks": [
-      "JapanFG/INDEX",
       "card-issuers/seven-card-service",
+      "payment-firms/INDEX",
       "payment-firms/jal-payment-port",
       "payments/INDEX",
       "payments/funds-transfer-vs-prepaid-boundary",
@@ -58,8 +58,8 @@
       "retail/seven-and-i-hd"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/card-issuers/seven-card-service",
+      "https://finwiki.zksc.io/payment-firms/INDEX",
       "https://finwiki.zksc.io/payment-firms/jal-payment-port",
       "https://finwiki.zksc.io/payments/INDEX",
       "https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary",
@@ -70,9 +70,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1904,
-    "word_like_tokens": 320,
+    "nonspace_chars": 1916,
+    "word_like_tokens": 322,
     "inbound_wikilinks_count": 12,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

@@ -1,5 +1,5 @@
 ---
-source: japanfg/wealthnavi
+source: payment-firms/wealthnavi
 source_hash: 8f0e3f2d21964572
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.114Z
 
 ## Wiki route
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 下。可与 [[payment-firms/rakuten-fg|楽天グループ金融事業 (Rakuten FG)]] 对照阅读，以理解同业和差异；更广泛的制度和监管边界见 [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]]。
+本条目位于 [[payment-firms/INDEX|payment-firms INDEX]] 下。可与 [[payment-firms/rakuten-fg|楽天グループ金融事業 (Rakuten FG)]] 对照阅读，以理解同业和差异；更广泛的制度和监管边界见 [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]]。
 
 ## TL;DR
 

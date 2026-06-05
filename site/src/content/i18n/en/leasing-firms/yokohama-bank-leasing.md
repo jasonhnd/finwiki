@@ -1,5 +1,5 @@
 ---
-source: japanfg/yokohama-bank-leasing
+source: leasing-firms/yokohama-bank-leasing
 source_hash: 48657a6d6c645de3
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.133Z
 
 ## Wiki route
 
-This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary leasing operating-company anchor for [[concordia-fg|Yokohama Financial Group (formerly Concordia FG)]]. Read it against parent operating bank [[yokohama-bank|Yokohama Bank]] and sibling subsidiary [[higashi-nippon-bank|Higashi-Nippon Bank]]. Peer comparison: [[mebuki-lease|Mebuki Lease]], the northern-Kanto regional-bank leasing peer, and major lessors [[mitsubishi-hc-capital|Mitsubishi HC Capital]] / [[mizuho-lease|Mizuho Leasing]] / [[tokyo-century|Tokyo Century]]. For broader system route see [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]] and [[banking/INDEX|banking index]].
+This entry sits under the [[leasing-firms/INDEX|leasing-firms INDEX]] as the FG-subsidiary leasing operating-company anchor for [[concordia-fg|Yokohama Financial Group (formerly Concordia FG)]]. Read it against parent operating bank [[yokohama-bank|Yokohama Bank]] and sibling subsidiary [[higashi-nippon-bank|Higashi-Nippon Bank]]. Peer comparison: [[mebuki-lease|Mebuki Lease]], the northern-Kanto regional-bank leasing peer, and major lessors [[mitsubishi-hc-capital|Mitsubishi HC Capital]] / [[mizuho-lease|Mizuho Leasing]] / [[tokyo-century|Tokyo Century]]. For broader system route see [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]] and [[banking/INDEX|banking index]].
 
 ## TL;DR
 
@@ -108,7 +108,7 @@ Yokohama Bank Leasing Co., Ltd. is a regional-bank leasing company and consolida
 - [[mitsubishi-hc-capital]] · [[smfl]] · [[mizuho-lease]] · [[fuyo-lease]] · [[tokyo-century]] · [[ricoh-leasing]] · [[hokkaido-lease]] · [[mebuki-lease]]
 - [[ja-mitsui-leasing]] · [[nec-leasing]] · [[showa-leasing]]
 - [[banking/regional-bank-consolidation-pattern]] · [[banking/INDEX]]
-- [[JapanFG/INDEX|JapanFG index]]
+- [[leasing-firms/INDEX|leasing-firms INDEX]]
 
 ## Sources
 

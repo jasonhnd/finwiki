@@ -1,5 +1,5 @@
 ---
-source: japanfg/ja-mitsui-leasing
+source: cooperative-banks/ja-mitsui-leasing
 source_hash: e09268a40e2e4ce5
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:25:12.409Z
 
 ## ウィキ上の位置づけ
 
-本項目は [[JapanFG/INDEX|JapanFG index]] の配下に置く。[[leasing-firms/fuyo-lease|芙蓉総合リース]] を同業・対比の文脈として、[[banking/INDEX|banking index]] をより広い制度・規制境界として併読する。JA / 農林中金 + 三井系の合弁体として、JA 側の文脈は [[cooperative-banks/norinchukin|農林中央金庫]] とあわせて読む。
+本項目は [[cooperative-banks/INDEX|cooperative-banks INDEX]] の配下に置く。[[leasing-firms/fuyo-lease|芙蓉総合リース]] を同業・対比の文脈として、[[banking/INDEX|banking index]] をより広い制度・規制境界として併読する。JA / 農林中金 + 三井系の合弁体として、JA 側の文脈は [[cooperative-banks/norinchukin|農林中央金庫]] とあわせて読む。
 
 ## 要約
 

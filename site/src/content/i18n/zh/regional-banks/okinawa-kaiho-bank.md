@@ -1,5 +1,5 @@
 ---
-source: japanfg/okinawa-kaiho-bank
+source: regional-banks/okinawa-kaiho-bank
 source_hash: 889c6151448b8ba6
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-01T00:41:50.413Z
 
 ## Wiki route
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 下。可与 [[regional-banks/jimoto-hd|じもとホールディングス (JIMOTO HD)]] 对照阅读，以理解同业和差异；更广泛的系统和监管边界见 [[banking/INDEX|banking index]]。
+本条目位于 [[regional-banks/INDEX|regional-banks INDEX]] 下。可与 [[regional-banks/jimoto-hd|じもとホールディングス (JIMOTO HD)]] 对照阅读，以理解同业和差异；更广泛的系统和监管边界见 [[banking/INDEX|banking index]]。
 
 ## TL;DR
 
@@ -125,7 +125,7 @@ translated_at: 2026-06-01T00:41:50.413Z
 - [[okinawa-shinko]] — 冲绳振兴开发金融公库（政策金融补完）
 - [[fidea-hd]] · [[jimoto-hd]] — 本土第二地银整合案例（重组比较对象）
 - [[mufg]] · [[smfg]] · [[mizuho-fg]] — Mega 3 行（县内大型案件竞争 / 代理行）
-- [[JapanFG/INDEX|Japan FG INDEX]]
+- [[regional-banks/INDEX|regional-banks INDEX]]
 
 ## Sources
 

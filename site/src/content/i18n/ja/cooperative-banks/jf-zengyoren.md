@@ -1,5 +1,5 @@
 ---
-source: japanfg/jf-zengyoren
+source: cooperative-banks/jf-zengyoren
 source_hash: e1c28b381f7eb1cc
 lang: ja
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-02T14:25:12.431Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下で、農協系統における [[cooperative-banks/ja-zenchu|JA 全中]] と並ぶ **JFグループの全国代表連合会**として位置づける。中央金融機関として [[cooperative-banks/norinchukin|農林中央金庫]]、信用事業システムの境界として [[banking/jf-marine-bank-system-japan|JF Marine Bank system]]、より広い協同組織金融の範囲として [[banking/cooperative-banking-japan|cooperative banking domain]] と併読する。
+この項目は [[cooperative-banks/INDEX|cooperative-banks INDEX]] の配下で、農協系統における [[cooperative-banks/ja-zenchu|JA 全中]] と並ぶ **JFグループの全国代表連合会**として位置づける。中央金融機関として [[cooperative-banks/norinchukin|農林中央金庫]]、信用事業システムの境界として [[banking/jf-marine-bank-system-japan|JF Marine Bank system]]、より広い協同組織金融の範囲として [[banking/cooperative-banking-japan|cooperative banking domain]] と併読する。
 
 ## 要約
 
@@ -132,7 +132,7 @@ JF (漁業協同組合) グループ
 - [[banking/jf-marine-bank-system-japan]] — JF Marine Bank system
 - [[banking/ja-bank-system-japan]] — JA Bank system (peer system)
 - [[banking/cooperative-banking-japan]] — 協同組織金融全体
-- [[JapanFG/INDEX|JapanFG index]]
+- [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 
 ## 出典
 

@@ -1,5 +1,5 @@
 ---
-source: japanfg/fsa-inspection-bureau
+source: financial-regulators/fsa-inspection-bureau
 source_hash: 16922f212a93d67b
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T15:29:03.862Z
 
 ## Wiki ??
 
-??????????? JapanFG ????????????[[JapanFG/INDEX|JapanFG index]] [[financial-regulators/fsa-supervision-bureau|FSA 監督局]] 2018  [[financial-regulators/fsa-strategy-bureau|FSA 総合政策局]] [[financial-licenses/INDEX|legal / financial licenses]] [[banking/INDEX|banking landscape]] 2018  [[financial-regulators/fsa-supervision-bureau|監督局]] 2018  1 2018 1999  1990 2 2018  2018  [[financial-regulators/fsa-strategy-bureau|総合政策局]] [[financial-regulators/fsa-planning-coordination-bureau|企画市場局]] 2019,  2018
+??????????? JapanFG ????????????[[financial-regulators/INDEX|financial-regulators INDEX]] [[financial-regulators/fsa-supervision-bureau|FSA 監督局]] 2018  [[financial-regulators/fsa-strategy-bureau|FSA 総合政策局]] [[financial-licenses/INDEX|legal / financial licenses]] [[banking/INDEX|banking landscape]] 2018  [[financial-regulators/fsa-supervision-bureau|監督局]] 2018  1 2018 1999  1990 2 2018  2018  [[financial-regulators/fsa-strategy-bureau|総合政策局]] [[financial-regulators/fsa-planning-coordination-bureau|企画市場局]] 2019,  2018
 
 ## TL;DR
 

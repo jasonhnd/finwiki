@@ -1,5 +1,5 @@
 ---
-source: japanfg/ryugaku-anshin-trust
+source: trust-banks/ryugaku-anshin-trust
 source_hash: d519b6b5dae26c30
 lang: en
 status: machine
@@ -9,7 +9,7 @@ translated_at: 2026-06-01T00:41:50.400Z
 ---
 # Ryugaku Anshin Trust / Study Abroad Anshin Trust
 
-Wiki route: [[JapanFG/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/ryugaku-anshin-trust]]
+Wiki route: [[trust-banks/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/ryugaku-anshin-trust]]
 
 ## Overview
 

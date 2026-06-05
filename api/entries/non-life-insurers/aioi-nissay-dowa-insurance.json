@@ -36,7 +36,7 @@
       "https://www.aioinissaydowa.co.jp/"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 三井住友海上火災保険 for peer / contrast context and insurance index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under non-life-insurers INDEX. Read it against 三井住友海上火災保険 for peer / contrast context and insurance index for the broader system / regulatory boundary.",
   "headings": [
     "あいおいニッセイ同和損害保険",
     "Wiki route",
@@ -50,23 +50,23 @@
   "body_links": {
     "wikilinks_count": 9,
     "wikilinks": [
-      "JapanFG/INDEX",
       "insurance/INDEX",
       "insurance/natcat-reinsurance-japan",
       "mitsui-sumitomo-aioi-life",
       "mitsui-sumitomo-insurance",
       "msad",
+      "non-life-insurers/INDEX",
       "non-life-insurers/mitsui-sumitomo-insurance",
       "sompo-japan-insurance",
       "tokio-marine-nichido-fire"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/insurance/INDEX",
       "https://finwiki.zksc.io/insurance/natcat-reinsurance-japan",
       "https://finwiki.zksc.io/mitsui-sumitomo-aioi-life",
       "https://finwiki.zksc.io/mitsui-sumitomo-insurance",
       "https://finwiki.zksc.io/msad",
+      "https://finwiki.zksc.io/non-life-insurers/INDEX",
       "https://finwiki.zksc.io/non-life-insurers/mitsui-sumitomo-insurance",
       "https://finwiki.zksc.io/sompo-japan-insurance",
       "https://finwiki.zksc.io/tokio-marine-nichido-fire"
@@ -75,9 +75,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1997,
-    "word_like_tokens": 305,
+    "nonspace_chars": 2017,
+    "word_like_tokens": 309,
     "inbound_wikilinks_count": 17,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

@@ -1,5 +1,5 @@
 ---
-source: japanfg/kyodo-trust
+source: trust-banks/kyodo-trust
 source_hash: 443e405ef5f39b7b
 lang: ja
 status: machine
@@ -10,7 +10,7 @@ translated_at: 2026-06-02T14:54:39.091Z
 # 共同信託
 # Kyodo Trust / 共同信託
 
-ウィキ上の位置づけ: [[JapanFG/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/kyodo-trust]]
+ウィキ上の位置づけ: [[trust-banks/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/kyodo-trust]]
 
 ## 概要
 

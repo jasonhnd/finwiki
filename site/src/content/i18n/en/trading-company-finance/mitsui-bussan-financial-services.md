@@ -1,5 +1,5 @@
 ---
-source: japanfg/mitsui-bussan-financial-services
+source: trading-company-finance/mitsui-bussan-financial-services
 source_hash: f57d11a436a91c90
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:59:49.380Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[trading-company-finance/mitsubishi-corp-finance|Mitsubishi Corporation Financial Services]] (the closest peer trading-company group-treasury arm) and [[cooperative-banks/ja-mitsui-leasing|JA Mitsui Leasing]] (the same-parent leasing arm, Mitsui & Co. group + Norinchukin JV).
+This entry sits under [[trading-company-finance/INDEX|trading-company-finance INDEX]]. Read it against [[trading-company-finance/mitsubishi-corp-finance|Mitsubishi Corporation Financial Services]] (the closest peer trading-company group-treasury arm) and [[cooperative-banks/ja-mitsui-leasing|JA Mitsui Leasing]] (the same-parent leasing arm, Mitsui & Co. group + Norinchukin JV).
 
 ## 1. Company Overview
 

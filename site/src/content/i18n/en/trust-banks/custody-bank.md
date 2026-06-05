@@ -1,5 +1,5 @@
 ---
-source: japanfg/custody-bank
+source: trust-banks/custody-bank
 source_hash: f8ee68ff4bce2ea4
 lang: en
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T15:29:03.936Z
 
 ## Wiki route
 
-This entry sits under[[JapanFG/INDEX|JapanFG index]]. Read it against[[trust-banks/master-trust-bank|日本マスタートラスト信託銀行]]for peer / contrast context and[[banking/INDEX|banking index]]for the broader system / regulatory boundary.
+This entry sits under[[trust-banks/INDEX|trust-banks INDEX]]. Read it against[[trust-banks/master-trust-bank|日本マスタートラスト信託銀行]]for peer / contrast context and[[banking/INDEX|banking index]]for the broader system / regulatory boundary.
 
 ## TL;DR
 

@@ -1,5 +1,5 @@
 ---
-source: japanfg/ntt-docomo-sompo-hd
+source: non-life-insurers/ntt-docomo-sompo-hd
 source_hash: 914903536ffb4b18
 lang: ja
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-06-02T14:54:39.096Z
 
 ## ウィキ上の位置づけ
 
-この項目 sits under [[JapanFG/INDEX|JapanFG index]]. あわせて読む with [[insurance/INDEX|insurance index]] のために adjacent 文脈 と [[financial-licenses/INDEX|JapanFG index]] のために the より広い制度境界.
+この項目 sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. あわせて読む with [[insurance/INDEX|insurance index]] のために adjacent 文脈 と [[financial-licenses/INDEX|JapanFG index]] のために the より広い制度境界.
 
 ## 要約
 

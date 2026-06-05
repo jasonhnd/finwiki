@@ -1,5 +1,5 @@
 ---
-source: japanfg/marubeni-corp
+source: financial-conglomerates/marubeni-corp
 source_hash: cf412a7714e24c99
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:05:42.101Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sogo shosha parent holding-company**. Read it against [[financial-conglomerates/itochu-corp|Itochu Corporation]] and [[financial-conglomerates/sumitomo-corp|Sumitomo Corporation]] for peer / contrast context. For financial-services adjacency, see [[trading-company-finance/marubeni-financial-services|Marubeni Financial Services]] and especially **[[leasing-firms/mizuho-lease|Mizuho Leasing]]**, where Marubeni became a strategic shareholder in 2024. System frame: [[finance/INDEX|finance index]] and [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial-groups investable universe]].
+This entry sits under [[financial-conglomerates/INDEX|financial-conglomerates INDEX]] as a **sogo shosha parent holding-company**. Read it against [[financial-conglomerates/itochu-corp|Itochu Corporation]] and [[financial-conglomerates/sumitomo-corp|Sumitomo Corporation]] for peer / contrast context. For financial-services adjacency, see [[trading-company-finance/marubeni-financial-services|Marubeni Financial Services]] and especially **[[leasing-firms/mizuho-lease|Mizuho Leasing]]**, where Marubeni became a strategic shareholder in 2024. System frame: [[finance/INDEX|finance index]] and [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial-groups investable universe]].
 
 ## 1. Company Overview
 
@@ -106,7 +106,7 @@ In addition, within the **Mizuho-group financial-services ecosystem**:
 
 ## Related
 
-- [[JapanFG/INDEX|JapanFG index]]
+- [[financial-conglomerates/INDEX|financial-conglomerates INDEX]]
 - [[financial-conglomerates/mitsubishi-corp|三菱商事]] · [[financial-conglomerates/mitsui-co|三井物産]] · [[financial-conglomerates/itochu-corp|伊藤忠商事]] · [[financial-conglomerates/sumitomo-corp|住友商事]] · [[financial-conglomerates/toyota-tsusho-corp|豊田通商]] · [[financial-conglomerates/sojitz-corp|双日]] (peer trading companies)
 - [[trading-company-finance/marubeni-financial-services|Marubeni Financial Services]] (internal group treasury)
 - [[leasing-firms/mizuho-lease|Mizuho Leasing]] (2024 strategic stake around 20% level)

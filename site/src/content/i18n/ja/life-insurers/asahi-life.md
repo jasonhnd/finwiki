@@ -1,5 +1,5 @@
 ---
-source: japanfg/asahi-life
+source: life-insurers/asahi-life
 source_hash: 577ae3264d727f99
 lang: ja
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-06-02T14:01:20.952Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の下に置かれる。 [[life-insurers/fukoku-life|富国生命保険]] をピア比較・対照の文脈として、[[insurance/INDEX|insurance index]] をより広い制度・規制境界としてあわせて読む。
+この項目は [[life-insurers/INDEX|life-insurers INDEX]] の下に置かれる。 [[life-insurers/fukoku-life|富国生命保険]] をピア比較・対照の文脈として、[[insurance/INDEX|insurance index]] をより広い制度・規制境界としてあわせて読む。
 
 ## 要約
 

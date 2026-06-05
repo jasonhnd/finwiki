@@ -37,7 +37,7 @@
       "https://www.tfsc.jp/corporate/index.html"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against Toyota Financial Services for parent / operating-company separation and Japan credit purchase and card operator registry index for the installment-credit and card boundary.",
+  "summary": "This entry sits under card-issuers INDEX. Read it against Toyota Financial Services for parent / operating-company separation and Japan credit purchase and card operator registry index for the installment-credit and card boundary.",
   "headings": [
     "トヨタファイナンス",
     "Wiki route",
@@ -51,7 +51,7 @@
   "body_links": {
     "wikilinks_count": 7,
     "wikilinks": [
-      "JapanFG/INDEX",
+      "card-issuers/INDEX",
       "card-issuers/jaccs",
       "card-issuers/orico",
       "leasing-firms/orix-corp",
@@ -60,7 +60,7 @@
       "payments/credit-purchase-card-operators-japan-index"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/card-issuers/INDEX",
       "https://finwiki.zksc.io/card-issuers/jaccs",
       "https://finwiki.zksc.io/card-issuers/orico",
       "https://finwiki.zksc.io/leasing-firms/orix-corp",
@@ -72,9 +72,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3063,
-    "word_like_tokens": 482,
+    "nonspace_chars": 3073,
+    "word_like_tokens": 484,
     "inbound_wikilinks_count": 17,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

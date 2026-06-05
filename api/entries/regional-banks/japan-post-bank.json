@@ -49,7 +49,7 @@
       "https://www.japanpost.jp/ir/stock/index10/"
     ]
   },
-  "summary": "This entry sits under JapanFG index as the operating-profile companion to the entity anchor at ゆうちょ銀行 (Japan Post Bank) entity anchor. Read it against MUFG · SMFG · Mizuho FG for the megabank-asset-class peer comparison, against りそなホールディングス for the listed non-megabank universal-bank peer, against co",
+  "summary": "This entry sits under regional-banks INDEX as the operating-profile companion to the entity anchor at ゆうちょ銀行 (Japan Post Bank) entity anchor. Read it against MUFG · SMFG · Mizuho FG for the megabank-asset-class peer comparison, against りそなホールディングス for the listed non-megabank universal-bank peer, aga",
   "headings": [
     "Japan Post Bank (株式会社ゆうちょ銀行 / 7182) operating profile",
     "Wiki route",
@@ -65,7 +65,6 @@
   "body_links": {
     "wikilinks_count": 19,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "banking/au-jibun-bank",
       "banking/cooperative-banking-japan",
@@ -82,11 +81,11 @@
       "megabanks/resona-hd",
       "megabanks/smfg",
       "policy-finance/japan-policy-finance-system",
+      "regional-banks/INDEX",
       "regional-banks/ssnb",
       "regional-banks/yucho"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/au-jibun-bank",
       "https://finwiki.zksc.io/banking/cooperative-banking-japan",
@@ -103,6 +102,7 @@
       "https://finwiki.zksc.io/megabanks/resona-hd",
       "https://finwiki.zksc.io/megabanks/smfg",
       "https://finwiki.zksc.io/policy-finance/japan-policy-finance-system",
+      "https://finwiki.zksc.io/regional-banks/INDEX",
       "https://finwiki.zksc.io/regional-banks/ssnb",
       "https://finwiki.zksc.io/regional-banks/yucho"
     ],
@@ -110,9 +110,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 13110,
-    "word_like_tokens": 2192,
+    "nonspace_chars": 13131,
+    "word_like_tokens": 2195,
     "inbound_wikilinks_count": 20,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

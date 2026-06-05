@@ -25,7 +25,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[leasing-firms/fuyo-lease|芙蓉総合リース]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary. As a JA / 農林中金 + 三井系の合弁体, it should be cross-read with [[cooperative-banks/norinchukin|農林中央金庫]] for the JA-side context.
+This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]]. Read it against [[leasing-firms/fuyo-lease|芙蓉総合リース]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary. As a JA / 農林中金 + 三井系の合弁体, it should be cross-read with [[cooperative-banks/norinchukin|農林中央金庫]] for the JA-side context.
 
 ## TL;DR
 

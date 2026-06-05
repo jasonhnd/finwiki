@@ -1,5 +1,5 @@
 ---
-source: japanfg/pet-and-family-insurance
+source: non-life-insurers/pet-and-family-insurance
 source_hash: 3446df45b60f768d
 lang: en
 status: machine
@@ -37,7 +37,7 @@ Read this entry together with the related banks, insurers, leasing companies, as
 
 ## Protected source anchors
 
-- [[JapanFG/INDEX|JapanFG index]] [[life-insurers/td-hd|T&D Holdings]] [[non-life-insurers/dai-ichi-ipet-insurance|第一アイペット損害保険]] [[non-life-insurers/anicom-insurance|アニコム損害保険]] [[insurance/INDEX|insurance index]] [[life-insurers/td-hd|T&D Holdings]] 100% [[life-insurers/daido-life|Daido Life]] [[life-insurers/taiyo-life|Taiyo Life]] [[life-insurers/td-financial-life|T&D Financial Life]] 1 [[life-insurers/td-hd|T&D Holdings]] 100% 2 [[non-life-insurers/dai-ichi-ipet-insurance|Daiichi ipet]] [[non-life-insurers/anicom-insurance|Anicom]] 3 [[insurance/INDEX|insurance domain]]
+- [[non-life-insurers/INDEX|non-life-insurers INDEX]] [[life-insurers/td-hd|T&D Holdings]] [[non-life-insurers/dai-ichi-ipet-insurance|第一アイペット損害保険]] [[non-life-insurers/anicom-insurance|アニコム損害保険]] [[insurance/INDEX|insurance index]] [[life-insurers/td-hd|T&D Holdings]] 100% [[life-insurers/daido-life|Daido Life]] [[life-insurers/taiyo-life|Taiyo Life]] [[life-insurers/td-financial-life|T&D Financial Life]] 1 [[life-insurers/td-hd|T&D Holdings]] 100% 2 [[non-life-insurers/dai-ichi-ipet-insurance|Daiichi ipet]] [[non-life-insurers/anicom-insurance|Anicom]] 3 [[insurance/INDEX|insurance domain]]
 - 4 [[life-insurers/td-hd|T&D Holdings]] [[life-insurers/td-hd]] [[life-insurers/daido-life]] [[life-insurers/taiyo-life]] [[life-insurers/td-financial-life]] [[non-life-insurers/dai-ichi-ipet-insurance]] [[non-life-insurers/anicom-insurance]] [[insurance/INDEX]] 2026-04-01
 
 ## Related

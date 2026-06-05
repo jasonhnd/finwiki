@@ -16,7 +16,7 @@ sources:
 
 # JValue Trust / ジェイバリュー信託
 
-Wiki route: [[JapanFG/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/jvalue-trust]]
+Wiki route: [[trust-banks/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/jvalue-trust]]
 
 ## Overview
 

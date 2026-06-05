@@ -72,7 +72,7 @@ The acquiring company (株式交換完全親会社) becomes the sole shareholder
 株式移転 incorporates a **new** parent (株式移転設立完全親会社) whose only initial asset is 100% of the transferred company(ies). It is the standard legal route for two patterns:
 
 1. **Single-company HoldCo conversion**: one operating company does a 株式移転 to put itself under a freshly created pure holding company. Shareholders swap their operating-company shares for HoldCo shares one-for-one; the operating company becomes a wholly-owned subsidiary.
-2. **Joint HoldCo / merger-of-equals**: two (or more) companies each do a simultaneous 株式移転 into one new HoldCo, parking both under a common parent without merging their operating entities. Many Japanese financial groups were assembled this way — the structures populate [[finance/japan-listed-financial-groups-investable-universe|the listed-financial-groups universe]] and the entities catalogued in [[JapanFG/INDEX|JapanFG INDEX]].
+2. **Joint HoldCo / merger-of-equals**: two (or more) companies each do a simultaneous 株式移転 into one new HoldCo, parking both under a common parent without merging their operating entities. Many Japanese financial groups were assembled this way — the structures populate [[finance/japan-listed-financial-groups-investable-universe|the listed-financial-groups universe]] and the entities catalogued in [[corporate-strategy/INDEX|corporate-strategy INDEX]].
 
 Because the new HoldCo is created from scratch, 株式移転 avoids any need for the parent to have pre-existing share capital to issue — contrast 株式交換, which needs an existing acquirer with issuable shares.
 

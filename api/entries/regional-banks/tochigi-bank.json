@@ -34,7 +34,7 @@
       "https://www.tochigibank.co.jp/aboutus/company/"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 東京スター銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under regional-banks INDEX. Read it against 東京スター銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [
     "栃木銀行",
     "Wiki route",
@@ -48,20 +48,20 @@
   "body_links": {
     "wikilinks_count": 7,
     "wikilinks": [
-      "JapanFG/INDEX",
       "ashikaga-bank",
       "banking/INDEX",
       "banking/regional-bank-consolidation-pattern",
       "mebuki-fg",
+      "regional-banks/INDEX",
       "regional-banks/tokyo-star-bank",
       "towa-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/ashikaga-bank",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
       "https://finwiki.zksc.io/mebuki-fg",
+      "https://finwiki.zksc.io/regional-banks/INDEX",
       "https://finwiki.zksc.io/regional-banks/tokyo-star-bank",
       "https://finwiki.zksc.io/towa-bank"
     ],
@@ -69,9 +69,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1721,
-    "word_like_tokens": 272,
+    "nonspace_chars": 1735,
+    "word_like_tokens": 274,
     "inbound_wikilinks_count": 0,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

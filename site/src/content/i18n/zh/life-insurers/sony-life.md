@@ -1,5 +1,5 @@
 ---
-source: japanfg/sony-life
+source: life-insurers/sony-life
 source_hash: 68e0df74f64ad7ed
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.168Z
 
 ## Wiki route
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可与 [[life-insurers/dai-ichi-frontier-life|第一フロンティア生命保険]] 对照阅读以理解同业 / 对比语境，也可与 [[insurance/INDEX|insurance index]] 一起阅读以把握更大的系统和监管边界。
+本条目位于 [[life-insurers/INDEX|life-insurers INDEX]] 之下。可与 [[life-insurers/dai-ichi-frontier-life|第一フロンティア生命保険]] 对照阅读以理解同业 / 对比语境，也可与 [[insurance/INDEX|insurance index]] 一起阅读以把握更大的系统和监管边界。
 
 ## TL;DR
 

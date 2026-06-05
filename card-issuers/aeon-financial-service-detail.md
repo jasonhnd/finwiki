@@ -33,7 +33,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **operating-company anchor** for 株式会社電通グループ（東証 PRIME 4324、世界 5 大広告会社の一角）の **金融機能子会社群** — specifically, **電通ベンチャーズ（CVC = Corporate Venture Capital）+ 電通キャピタル（M&A / 戦略投資）+ 広告主向け請求・決済機能 + 国際拠点ファイナンス機能**. Read it against 博報堂 DY HD や WPP Japan for media-industry peer context, [[JapanFG/INDEX]] のメーカー captive-finance 子会社群（[[card-issuers/toyota-finance|トヨタファイナンス]]・[[JapanFG/sony-finance|ソニーファイナンス]]・[[JapanFG/nissan-finance|日産フィナンシャル]] 等）for industrial captive-finance peer cluster, and [[asset-management/cvc-japan-landscape|日本 CVC ランドスケープ]] for the corporate venture context.
+This entry sits under [[card-issuers/INDEX|card-issuers INDEX]] as the **operating-company anchor** for 株式会社電通グループ（東証 PRIME 4324、世界 5 大広告会社の一角）の **金融機能子会社群** — specifically, **電通ベンチャーズ（CVC = Corporate Venture Capital）+ 電通キャピタル（M&A / 戦略投資）+ 広告主向け請求・決済機能 + 国際拠点ファイナンス機能**. Read it against 博報堂 DY HD や WPP Japan for media-industry peer context, [[card-issuers/INDEX]] のメーカー captive-finance 子会社群（[[card-issuers/toyota-finance|トヨタファイナンス]]・[[JapanFG/sony-finance|ソニーファイナンス]]・[[JapanFG/nissan-finance|日産フィナンシャル]] 等）for industrial captive-finance peer cluster, and [[asset-management/cvc-japan-landscape|日本 CVC ランドスケープ]] for the corporate venture context.
 
 ## TL;DR
 
@@ -170,7 +170,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **operating-company
 - [[JapanFG/nissan-finance]] — メーカー captive-finance ピア
 - [[megabanks/sbi-hd]] — 大手 CVC / 投資グループピア
 - [[asset-management/cvc-japan-landscape]] — 日本 CVC ランドスケープ
-- [[JapanFG/INDEX]] — JapanFG namespace index
+- [[card-issuers/INDEX]] — JapanFG namespace index
 
 ## Sources
 

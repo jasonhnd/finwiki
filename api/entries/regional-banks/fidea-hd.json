@@ -37,7 +37,7 @@
       "https://www.hokutobank.co.jp/news/pdf/20220210-1.pdf"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against じもとホールディングス (JIMOTO HD) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under regional-banks INDEX. Read it against じもとホールディングス (JIMOTO HD) for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [
     "フィデア HD (Fidea Holdings)",
     "Wiki route",
@@ -53,7 +53,6 @@
   "body_links": {
     "wikilinks_count": 19,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "concordia-fg",
       "dai-shi-hokuetsu-fg",
@@ -63,6 +62,7 @@
       "mizuho-fg",
       "mufg",
       "regional-banks/77-bank",
+      "regional-banks/INDEX",
       "regional-banks/akita-bank",
       "regional-banks/iwate-bank",
       "regional-banks/jimoto-hd",
@@ -74,7 +74,6 @@
       "yucho"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/concordia-fg",
       "https://finwiki.zksc.io/dai-shi-hokuetsu-fg",
@@ -84,6 +83,7 @@
       "https://finwiki.zksc.io/mizuho-fg",
       "https://finwiki.zksc.io/mufg",
       "https://finwiki.zksc.io/regional-banks/77-bank",
+      "https://finwiki.zksc.io/regional-banks/INDEX",
       "https://finwiki.zksc.io/regional-banks/akita-bank",
       "https://finwiki.zksc.io/regional-banks/iwate-bank",
       "https://finwiki.zksc.io/regional-banks/jimoto-hd",
@@ -98,9 +98,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4400,
-    "word_like_tokens": 679,
+    "nonspace_chars": 4414,
+    "word_like_tokens": 681,
     "inbound_wikilinks_count": 11,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

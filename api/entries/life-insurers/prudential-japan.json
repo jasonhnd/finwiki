@@ -41,7 +41,7 @@
       "Prudential Financial, Inc. Form 10-K (公開情報)"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against アクサ・ジャパン (AXA Japan) for peer / contrast context and insurance index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under life-insurers INDEX. Read it against アクサ・ジャパン (AXA Japan) for peer / contrast context and insurance index for the broader system / regulatory boundary.",
   "headings": [
     "プルデンシャル・ジブラルタ・ファイナンシャル (Prudential Japan)",
     "Wiki route",
@@ -57,9 +57,9 @@
   "body_links": {
     "wikilinks_count": 10,
     "wikilinks": [
-      "JapanFG/INDEX",
       "dai-ichi-life",
       "insurance/INDEX",
+      "life-insurers/INDEX",
       "life-insurers/axa-japan",
       "meiji-yasuda",
       "mizuho-fg",
@@ -69,9 +69,9 @@
       "sony-fg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/dai-ichi-life",
       "https://finwiki.zksc.io/insurance/INDEX",
+      "https://finwiki.zksc.io/life-insurers/INDEX",
       "https://finwiki.zksc.io/life-insurers/axa-japan",
       "https://finwiki.zksc.io/meiji-yasuda",
       "https://finwiki.zksc.io/mizuho-fg",
@@ -84,9 +84,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5262,
-    "word_like_tokens": 771,
+    "nonspace_chars": 5274,
+    "word_like_tokens": 773,
     "inbound_wikilinks_count": 16,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

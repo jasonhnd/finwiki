@@ -1,5 +1,5 @@
 ---
-source: japanfg/aichi-iryo-shinkumi
+source: cooperative-banks/aichi-iryo-shinkumi
 source_hash: ff63a7b3799af047
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T07:28:06.179Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **occupation-based shinkumi anchor for the medical field** in the Chukyo region, a peer to occupation-based [[cooperative-banks/keishicho-shinkumi|警視庁職員信用組合]] (police) and [[cooperative-banks/tokyo-to-shokuin-shinkumi|東京都職員信用組合]] (civil servants). Medical shinkumi form the **largest single-industry shinkumi category** within Japan's 143 cooperative population catalogued in [[banking/credit-cooperative-registry-japan|Japan credit cooperative registry]].
+This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as the **occupation-based shinkumi anchor for the medical field** in the Chukyo region, a peer to occupation-based [[cooperative-banks/keishicho-shinkumi|警視庁職員信用組合]] (police) and [[cooperative-banks/tokyo-to-shokuin-shinkumi|東京都職員信用組合]] (civil servants). Medical shinkumi form the **largest single-industry shinkumi category** within Japan's 143 cooperative population catalogued in [[banking/credit-cooperative-registry-japan|Japan credit cooperative registry]].
 
 ## TL;DR
 
@@ -136,7 +136,7 @@ Medical shinkumi exist in more than 17  prefectures and are one of the largest o
 - [[banking/credit-cooperative-registry-japan]] — Japan credit cooperative registry (the full 143  shinkumi universe)
 - [[banking/cooperative-banking-japan]] — Cooperative finance as a whole
 - [[cooperative-banks/iwaki-shinkumi]] — Iwaki Credit Cooperative (peer regional shinkumi, business-model contrast)
-- [[JapanFG/INDEX|JapanFG index]]
+- [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 
 ## Sources
 

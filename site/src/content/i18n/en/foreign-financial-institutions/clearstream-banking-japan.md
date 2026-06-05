@@ -1,5 +1,5 @@
 ---
-source: japanfg/clearstream-banking-japan
+source: foreign-financial-institutions/clearstream-banking-japan
 source_hash: 4b12ca3923ddf9a6
 lang: en
 status: machine
@@ -14,7 +14,7 @@ translated_at: 2026-05-31T11:13:44.945Z
 
 This page promotes the Clearstream row in [[foreign-financial-institutions/foreign-bank-branches-japan-index|the foreign-bank branch registry]] into a standalone ICSD route. Read it with [[foreign-financial-institutions/euroclear-bank-japan|Euroclear Bank Japan]], [[securities/japan-market-infrastructure-map|market infrastructure map]], [[banking/japan-trust-bank-custody-map|trust-bank custody map]], and [[financial-licenses/foreign-financial-group-adjacent-licenses|foreign financial group adjacent-license route]].
 
-Route this entry through [[JapanFG/INDEX|JapanFG index]] first, then use [[securities/INDEX|securities domain]] for post-trade infrastructure and [[banking/INDEX|banking domain]] for custody / branch status.
+Route this entry through [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]] first, then use [[securities/INDEX|securities domain]] for post-trade infrastructure and [[banking/INDEX|banking domain]] for custody / branch status.
 
 ##Overview
 
@@ -73,7 +73,7 @@ Use [[financial-licenses/foreign-financial-group-adjacent-licenses|foreign finan
 
 ## Related
 
-- [[JapanFG/INDEX]]
+- [[foreign-financial-institutions/INDEX]]
 - [[foreign-financial-institutions/foreign-bank-branches-japan-index]]
 - [[foreign-financial-institutions/euroclear-bank-japan]]
 - [[foreign-financial-institutions/deutsche-japan]]

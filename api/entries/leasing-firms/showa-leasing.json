@@ -38,7 +38,7 @@
       "https://www.leasing.or.jp/"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 芙蓉総合リース for peer / contrast context and banking index for the broader system / regulatory boundary. As an SBI新生銀行 グループ傘下の captive leasing entity, it should be read alongside 新生フィナンシャル for the broader Shinsei non-bank finance footprint.",
+  "summary": "This entry sits under leasing-firms INDEX. Read it against 芙蓉総合リース for peer / contrast context and banking index for the broader system / regulatory boundary. As an SBI新生銀行 グループ傘下の captive leasing entity, it should be read alongside 新生フィナンシャル for the broader Shinsei non-bank finance footprint.",
   "headings": [
     "昭和リース",
     "Wiki route",
@@ -53,10 +53,10 @@
   "body_links": {
     "wikilinks_count": 10,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "consumer-finance/shinsei-financial",
       "finance/japan-acquisition-finance",
+      "leasing-firms/INDEX",
       "leasing-firms/fuyo-lease",
       "leasing-firms/mitsubishi-hc-capital",
       "leasing-firms/mizuho-lease",
@@ -65,10 +65,10 @@
       "trust-banks/sbi-shinsei-trust-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/consumer-finance/shinsei-financial",
       "https://finwiki.zksc.io/finance/japan-acquisition-finance",
+      "https://finwiki.zksc.io/leasing-firms/INDEX",
       "https://finwiki.zksc.io/leasing-firms/fuyo-lease",
       "https://finwiki.zksc.io/leasing-firms/mitsubishi-hc-capital",
       "https://finwiki.zksc.io/leasing-firms/mizuho-lease",
@@ -80,9 +80,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3242,
-    "word_like_tokens": 509,
+    "nonspace_chars": 3254,
+    "word_like_tokens": 511,
     "inbound_wikilinks_count": 1,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

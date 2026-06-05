@@ -1,5 +1,5 @@
 ---
-source: japanfg/sbi-asset-management
+source: asset-managers/sbi-asset-management
 source_hash: b6c0640e1e2d0748
 lang: ja
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-06-02T15:14:17.103Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]]に置かれる。比較対象として[[securities-firms/sbi-securities|SBI証券 (SBI Securities)]] 同業・対比の文脈を確認する and [[securities/INDEX|securities index]] より広い制度・規制境界を確認する.
+この項目は [[asset-managers/INDEX|asset-managers INDEX]]に置かれる。比較対象として[[securities-firms/sbi-securities|SBI証券 (SBI Securities)]] 同業・対比の文脈を確認する and [[securities/INDEX|securities index]] より広い制度・規制境界を確認する.
 
 ## 要約
 

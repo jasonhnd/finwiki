@@ -1,5 +1,5 @@
 ---
-source: japanfg/tokio-marine
+source: non-life-insurers/tokio-marine
 source_hash: 52fb10d2c1579f5e
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.178Z
 
 ## Wiki 路径
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可与 [[non-life-insurers/sompo|SOMPO ホールディングス (Sompo Holdings)]] 对照阅读以理解同业 / 对比语境，并参考 [[banking/INDEX|banking index]] 把握更广泛的系统与监管边界。
+本条目位于 [[non-life-insurers/INDEX|non-life-insurers INDEX]] 之下。可与 [[non-life-insurers/sompo|SOMPO ホールディングス (Sompo Holdings)]] 对照阅读以理解同业 / 对比语境，并参考 [[banking/INDEX|banking index]] 把握更广泛的系统与监管边界。
 
 ## TL;DR
 
@@ -152,7 +152,7 @@ translated_at: 2026-06-01T02:31:57.178Z
 
 - [[non-life-insurers/msad|ms-ad]] · [[non-life-insurers/sompo|sompo-hd]] -- 国内损保 3  mega
 - [[mufg]] · [[smfg]] · [[mizuho-fg]] -- 银行系 FG（与损保不同类别，但在企业金融中联动 / 竞争）
-- [[JapanFG/INDEX]]
+- [[non-life-insurers/INDEX]]
 
 ## Sources
 

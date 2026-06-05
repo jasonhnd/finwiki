@@ -13,7 +13,7 @@ translated_at: 2026-06-02T14:01:20.908Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[insurance/INDEX|insurance index]] の配下にある。ピア比較・対照の文脈では [[insurance/saison-automobile-fire|Saison Automobile & Fire / SOMPO Direct]] とあわせて読み、より広い制度・規制境界については [[JapanFG/INDEX|JapanFG index]] とあわせて読む。
+この項目は [[insurance/INDEX|insurance index]] の配下にある。ピア比較・対照の文脈では [[insurance/saison-automobile-fire|Saison Automobile & Fire / SOMPO Direct]] とあわせて読み、より広い制度・規制境界については [[insurance/INDEX|insurance INDEX]] とあわせて読む。
 
 ## 要約
 

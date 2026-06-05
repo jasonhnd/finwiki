@@ -1,5 +1,5 @@
 ---
-source: japanfg/iwaki-shinkumi
+source: cooperative-banks/iwaki-shinkumi
 source_hash: 976bc0e407a2c282
 lang: en
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T15:29:03.894Z
 
 ## Wiki Route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **Tohoku regional shinkumi anchor** within the 143-cooperative population catalogued in [[banking/credit-cooperative-registry-japan|Japan credit cooperative registry]]. Read it against [[cooperative-banks/osaka-shogin-shinkumi|Osaka Shogin Credit Cooperative]] for the ethnic-business shinkumi contrast and [[cooperative-banks/zenshin-kumi|Zenshinkumiren]] for the cooperative-system parent.
+This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as a **Tohoku regional shinkumi anchor** within the 143-cooperative population catalogued in [[banking/credit-cooperative-registry-japan|Japan credit cooperative registry]]. Read it against [[cooperative-banks/osaka-shogin-shinkumi|Osaka Shogin Credit Cooperative]] for the ethnic-business shinkumi contrast and [[cooperative-banks/zenshin-kumi|Zenshinkumiren]] for the cooperative-system parent.
 
 ## TL;DR
 
@@ -101,7 +101,7 @@ Fukushima Prefecture has four credit cooperatives in the FSA registry, Nos. 19-2
 - [[financial-regulators/shoko-chukin|Shoko Chukin Bank]]
 - [[banking/credit-cooperative-registry-japan|Japan credit cooperative registry]]
 - [[banking/cooperative-banking-japan|Cooperative banking in Japan]]
-- [[JapanFG/INDEX|JapanFG index]]
+- [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 
 ## Sources
 

@@ -1,5 +1,5 @@
 ---
-source: japanfg/money-forward
+source: payment-firms/money-forward
 source_hash: 275674e19e722bd7
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:59:49.429Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[payment-firms/freee|freee K.K.]] for peer / contrast context and [[fintech/japan-stablecoin-regulatory-landscape|Japan stablecoin regulation: the three-layer structure around JPYC, USDC, and Project Pax]] for the broader system / regulatory boundary.
+This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it against [[payment-firms/freee|freee K.K.]] for peer / contrast context and [[fintech/japan-stablecoin-regulatory-landscape|Japan stablecoin regulation: the three-layer structure around JPYC, USDC, and Project Pax]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
@@ -134,7 +134,7 @@ Money Forward (holding / listed company 3994)
 ## Related
 
 - [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[sbi-hd]] · [[ndfg]]
-- [[JapanFG/INDEX|JapanFG]] (TSE Prime fintech category)
+- [[payment-firms/INDEX|payment-firms INDEX]] (TSE Prime fintech category)
 
 ## Sources
 

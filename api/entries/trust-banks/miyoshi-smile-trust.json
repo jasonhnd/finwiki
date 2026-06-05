@@ -36,7 +36,7 @@
       "Miyoshi Real Estate announcement: https://www.miyoshi.co.jp/info/archives/1393"
     ]
   },
-  "summary": "Wiki route: JapanFG/INDEX -> trust-banks/trust-companies-japan-index -> trust-banks/miyoshi-smile-trust",
+  "summary": "Wiki route: trust-banks/INDEX -> trust-banks/trust-companies-japan-index -> trust-banks/miyoshi-smile-trust",
   "headings": [
     "Miyoshi Smile Trust / 三好スマイル信託",
     "Overview",
@@ -51,8 +51,8 @@
     "wikilinks_count": 7,
     "wikilinks": [
       "INDEX",
-      "JapanFG/INDEX",
       "policy-finance/japan-housing-finance-agency",
+      "trust-banks/INDEX",
       "trust-banks/kainuma-trust-real-estate",
       "trust-banks/kiriu-real-estate-trust",
       "trust-banks/miyoshi-smile-trust",
@@ -60,8 +60,8 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/policy-finance/japan-housing-finance-agency",
+      "https://finwiki.zksc.io/trust-banks/INDEX",
       "https://finwiki.zksc.io/trust-banks/kainuma-trust-real-estate",
       "https://finwiki.zksc.io/trust-banks/kiriu-real-estate-trust",
       "https://finwiki.zksc.io/trust-banks/miyoshi-smile-trust",
@@ -71,9 +71,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2316,
-    "word_like_tokens": 375,
+    "nonspace_chars": 2320,
+    "word_like_tokens": 376,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

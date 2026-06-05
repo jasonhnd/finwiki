@@ -1,5 +1,5 @@
 ---
-source: japanfg/netstars
+source: payment-firms/netstars
 source_hash: 69637c2dc665f2ab
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:54:39.042Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に置く。PSP の同業文脈は [[payment-firms/gmo-payment-gateway|GMO Payment Gateway]] と [[payment-firms/dg-financial-technology|DG Financial Technology]]、より広い規制上の境界は [[payments/funds-transfer-service-providers-japan-index|funds-transfer registry]] と合わせて読む。
+この項目は [[payment-firms/INDEX|payment-firms INDEX]] の配下に置く。PSP の同業文脈は [[payment-firms/gmo-payment-gateway|GMO Payment Gateway]] と [[payment-firms/dg-financial-technology|DG Financial Technology]]、より広い規制上の境界は [[payments/funds-transfer-service-providers-japan-index|funds-transfer registry]] と合わせて読む。
 
 ## 概要
 

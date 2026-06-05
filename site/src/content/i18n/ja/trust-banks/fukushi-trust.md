@@ -1,5 +1,5 @@
 ---
-source: japanfg/fukushi-trust
+source: trust-banks/fukushi-trust
 source_hash: 107cb0308815d3b7
 lang: ja
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-02T14:25:12.420Z
 
 ## ウィキ上の位置づけ
 
-ふくし信託は [[JapanFG/INDEX|JapanFG]] 配下の独立した信託会社ルートで、[[trust-banks/trust-companies-japan-index|the Japan trust companies registry index]] から昇格させた項目である。[[banking/japan-trust-bank-custody-map|Japan trust-bank custody map]]、[[non-profit/japan-general-foundation-establishment-requirements|Japan foundation requirements]]、[[trust-banks/hogaraka-trust|Hogaraka Trust]] と併読する。
+ふくし信託は [[trust-banks/INDEX|trust-banks INDEX]] 配下の独立した信託会社ルートで、[[trust-banks/trust-companies-japan-index|the Japan trust companies registry index]] から昇格させた項目である。[[banking/japan-trust-bank-custody-map|Japan trust-bank custody map]]、[[non-profit/japan-general-foundation-establishment-requirements|Japan foundation requirements]]、[[trust-banks/hogaraka-trust|Hogaraka Trust]] と併読する。
 
 福祉志向の信託、成年後見に隣接する設計、親亡き後の備え、家族財産管理に関する論点でこのページを使う。
 
@@ -57,7 +57,7 @@ translated_at: 2026-06-02T14:25:12.420Z
 
 ## 関連項目
 
-- [[JapanFG/INDEX]]
+- [[trust-banks/INDEX]]
 - [[trust-banks/trust-companies-japan-index]]
 - [[banking/japan-trust-bank-custody-map]]
 - [[non-profit/japan-general-foundation-establishment-requirements]]

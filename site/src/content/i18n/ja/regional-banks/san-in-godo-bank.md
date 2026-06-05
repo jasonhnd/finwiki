@@ -1,5 +1,5 @@
 ---
-source: japanfg/san-in-godo-bank
+source: regional-banks/san-in-godo-bank
 source_hash: 9640cb9463b1c932
 lang: ja
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-02T15:14:17.126Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に位置づける。同業・比較対象の文脈は [[regional-banks/tottori-bank|鳥取銀行]] と照らし、より広い制度・規制上の境界は [[banking/INDEX|banking index]] を参照する。
+この項目は [[regional-banks/INDEX|regional-banks INDEX]] の配下に位置づける。同業・比較対象の文脈は [[regional-banks/tottori-bank|鳥取銀行]] と照らし、より広い制度・規制上の境界は [[banking/INDEX|banking index]] を参照する。
 
 ## 要約
 

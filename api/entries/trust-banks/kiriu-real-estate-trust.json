@@ -35,7 +35,7 @@
       "MLIT historical-townscape research PDF: https://www.mlit.go.jp/common/001083330.pdf"
     ]
   },
-  "summary": "Wiki route: JapanFG/INDEX -> trust-banks/trust-companies-japan-index -> trust-banks/kiriu-real-estate-trust",
+  "summary": "Wiki route: trust-banks/INDEX -> trust-banks/trust-companies-japan-index -> trust-banks/kiriu-real-estate-trust",
   "headings": [
     "Kiriu Real Estate Trust / きりう不動産信託",
     "Overview",
@@ -50,7 +50,7 @@
     "wikilinks_count": 7,
     "wikilinks": [
       "INDEX",
-      "JapanFG/INDEX",
+      "trust-banks/INDEX",
       "trust-banks/kainuma-trust-real-estate",
       "trust-banks/kiriu-real-estate-trust",
       "trust-banks/sekisui-house-trust",
@@ -59,7 +59,7 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/trust-banks/INDEX",
       "https://finwiki.zksc.io/trust-banks/kainuma-trust-real-estate",
       "https://finwiki.zksc.io/trust-banks/kiriu-real-estate-trust",
       "https://finwiki.zksc.io/trust-banks/sekisui-house-trust",
@@ -70,9 +70,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2323,
-    "word_like_tokens": 374,
+    "nonspace_chars": 2327,
+    "word_like_tokens": 375,
     "inbound_wikilinks_count": 7,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

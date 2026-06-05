@@ -28,7 +28,7 @@ sources:
 
 Bangkok Bank Japan is the Thailand corridor page inside [[foreign-financial-institutions/foreign-bank-branches-japan-index|the foreign-bank branch registry]]. Read it with [[foreign-financial-institutions/dbs-bank-japan|DBS Japan]], [[foreign-financial-institutions/ocbc-bank-japan|OCBC Japan]], [[foreign-financial-institutions/uob-bank-japan|UOB Japan]], and [[financial-licenses/foreign-bank-branch-license-route|foreign-bank branch license route]].
 
-Route this entry through [[JapanFG/INDEX|JapanFG index]] first, then use [[banking/INDEX|banking domain]] when the question is corridor-banking structure rather than a single branch row.
+Route this entry through [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]] first, then use [[banking/INDEX|banking domain]] when the question is corridor-banking structure rather than a single branch row.
 
 ## Overview
 
@@ -74,7 +74,7 @@ Registration is observed in the checked FSA source as of 2026-05-13; this page d
 
 ## Related
 
-- [[JapanFG/INDEX]]
+- [[foreign-financial-institutions/INDEX]]
 - [[foreign-financial-institutions/foreign-bank-branches-japan-index]]
 - [[foreign-financial-institutions/dbs-bank-japan]]
 - [[foreign-financial-institutions/ocbc-bank-japan]]

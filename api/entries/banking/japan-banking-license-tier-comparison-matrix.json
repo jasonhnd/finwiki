@@ -72,10 +72,9 @@
     "Tier 6 — Foreign bank branch (外国銀行支店)"
   ],
   "body_links": {
-    "wikilinks_count": 22,
+    "wikilinks_count": 21,
     "wikilinks": [
       "INDEX",
-      "JapanFG/INDEX",
       "banking/INDEX",
       "banking/cooperative-banking-japan",
       "banking/credit-cooperative-registry-japan",
@@ -99,7 +98,6 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/cooperative-banking-japan",
       "https://finwiki.zksc.io/banking/credit-cooperative-registry-japan",
@@ -125,9 +123,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 30100,
-    "word_like_tokens": 4611,
+    "nonspace_chars": 30105,
+    "word_like_tokens": 4612,
     "inbound_wikilinks_count": 32,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

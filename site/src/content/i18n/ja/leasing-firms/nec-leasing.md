@@ -1,5 +1,5 @@
 ---
-source: japanfg/nec-leasing
+source: leasing-firms/nec-leasing
 source_hash: 6661db581eac7f04
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:54:39.095Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の下に置く。比較・対照の文脈では [[leasing-firms/ricoh-leasing|リコーリース]] と照合する（いずれも事業会社系キャプティブリース）。より広い制度・規制境界は [[banking/INDEX|banking index]]、準大手リース会社の比較対象は [[leasing-firms/fuyo-lease|芙蓉総合リース]] とあわせて読む。
+この項目は [[leasing-firms/INDEX|leasing-firms INDEX]] の下に置く。比較・対照の文脈では [[leasing-firms/ricoh-leasing|リコーリース]] と照合する（いずれも事業会社系キャプティブリース）。より広い制度・規制境界は [[banking/INDEX|banking index]]、準大手リース会社の比較対象は [[leasing-firms/fuyo-lease|芙蓉総合リース]] とあわせて読む。
 
 ## 要約
 

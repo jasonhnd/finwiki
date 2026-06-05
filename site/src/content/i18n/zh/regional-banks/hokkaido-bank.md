@@ -1,5 +1,5 @@
 ---
-source: japanfg/hokkaido-bank
+source: regional-banks/hokkaido-bank
 source_hash: 3f1b30f5870f72c4
 lang: zh
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-05-31T15:29:03.902Z
 
 ## 维基路线
 
-此条目位于 [[JapanFG/INDEX|JapanFG index]] 下。针对同行/对比背景阅读 [[regional-banks/hokuriku-bank|北陸銀行]]，针对更广泛的系统/监管边界阅读 [[banking/INDEX|banking index]]。
+此条目位于 [[regional-banks/INDEX|regional-banks INDEX]] 下。针对同行/对比背景阅读 [[regional-banks/hokuriku-bank|北陸銀行]]，针对更广泛的系统/监管边界阅读 [[banking/INDEX|banking index]]。
 
 ##TL;博士
 

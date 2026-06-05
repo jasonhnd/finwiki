@@ -1,5 +1,5 @@
 ---
-source: japanfg/ja-kyosairen
+source: non-life-insurers/ja-kyosairen
 source_hash: 00a545c6f340d64d
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T15:29:03.968Z
 
 ## 维基路线
 
-此条目位于 [[JapanFG/INDEX|JapanFG index]] 作为 **JA 集团合作保险联盟**，与 [[cooperative-banks/norinchukin|農林中央金庫 (信用)]] / [[cooperative-banks/ja-zen-noh|JA 全農 (経済)]] / [[cooperative-banks/ja-zenchu|JA 全中 (代表)]] 平行。合作保险与股份保险形式请阅读[[insurance/INDEX|insurance domain]]，非寿险补充请阅读[[non-life-insurers/kyoritsu-fire-marine|共栄火災海上保険]]（JA Kyosairen 为最大股东），JA 集团系统边界请阅读[[banking/ja-bank-system-japan|JA Bank system]]。
+此条目位于 [[non-life-insurers/INDEX|non-life-insurers INDEX]] 作为 **JA 集团合作保险联盟**，与 [[cooperative-banks/norinchukin|農林中央金庫 (信用)]] / [[cooperative-banks/ja-zen-noh|JA 全農 (経済)]] / [[cooperative-banks/ja-zenchu|JA 全中 (代表)]] 平行。合作保险与股份保险形式请阅读[[insurance/INDEX|insurance domain]]，非寿险补充请阅读[[non-life-insurers/kyoritsu-fire-marine|共栄火災海上保険]]（JA Kyosairen 为最大股东），JA 集团系统边界请阅读[[banking/ja-bank-system-japan|JA Bank system]]。
 
 ## 长话短说
 
@@ -134,7 +134,7 @@ translated_at: 2026-05-31T15:29:03.968Z
 - [[insurance/mutual-vs-stock-life-insurer]] — 共同公司与股份公司（合作 = 编号 3  表格）
 - [[insurance/japan-life-insurance-big-four]]
 - [[banking/ja-bank-system-japan]]
-- [[JapanFG/INDEX|JapanFG index]]
+- [[non-life-insurers/INDEX|non-life-insurers INDEX]]
 
 ## 来源
 

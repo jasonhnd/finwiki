@@ -36,7 +36,7 @@
       "https://www.ashikagabank.co.jp/ashigin/company.html"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 横浜銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under regional-banks INDEX. Read it against 横浜銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [
     "足利銀行",
     "Wiki route",
@@ -50,20 +50,20 @@
   "body_links": {
     "wikilinks_count": 7,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "banking/regional-bank-consolidation-pattern",
       "joyo-bank",
       "mebuki-fg",
+      "regional-banks/INDEX",
       "regional-banks/yokohama-bank",
       "tochigi-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
       "https://finwiki.zksc.io/joyo-bank",
       "https://finwiki.zksc.io/mebuki-fg",
+      "https://finwiki.zksc.io/regional-banks/INDEX",
       "https://finwiki.zksc.io/regional-banks/yokohama-bank",
       "https://finwiki.zksc.io/tochigi-bank"
     ],
@@ -71,9 +71,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1720,
-    "word_like_tokens": 276,
+    "nonspace_chars": 1734,
+    "word_like_tokens": 278,
     "inbound_wikilinks_count": 3,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

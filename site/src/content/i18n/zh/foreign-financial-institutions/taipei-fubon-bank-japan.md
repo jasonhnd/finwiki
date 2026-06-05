@@ -1,5 +1,5 @@
 ---
-source: japanfg/taipei-fubon-bank-japan
+source: foreign-financial-institutions/taipei-fubon-bank-japan
 source_hash: afe2ce18f3fccae8
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.176Z
 
 ## Wiki 路径
 
-Taipei Fubon Bank Japan 位于 [[JapanFG/INDEX|JapanFG index]] 之下，是 [[foreign-financial-institutions/foreign-bank-branches-japan-index|the foreign-bank branch registry]] 中当前的台日 foreign-bank branch 路径。可与 [[foreign-financial-institutions/first-commercial-bank-japan|First Commercial Bank Japan]]、[[foreign-financial-institutions/esun-bank-japan|E.SUN Bank Japan]]、[[foreign-financial-institutions/ctbc-bank-japan|CTBC Bank Japan]]、[[foreign-financial-institutions/bank-of-taiwan-japan|Bank of Taiwan Japan]]、[[finance/cross-border-m-a-japan|cross-border finance]] 一并阅读。
+Taipei Fubon Bank Japan 位于 [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]] 之下，是 [[foreign-financial-institutions/foreign-bank-branches-japan-index|the foreign-bank branch registry]] 中当前的台日 foreign-bank branch 路径。可与 [[foreign-financial-institutions/first-commercial-bank-japan|First Commercial Bank Japan]]、[[foreign-financial-institutions/esun-bank-japan|E.SUN Bank Japan]]、[[foreign-financial-institutions/ctbc-bank-japan|CTBC Bank Japan]]、[[foreign-financial-institutions/bank-of-taiwan-japan|Bank of Taiwan Japan]]、[[finance/cross-border-m-a-japan|cross-border finance]] 一并阅读。
 
 本页用于近期台日企业融资、银团贷款、厂房建设融资、贸易金融，以及台湾半导体供应链向日本扩张的语境。
 
@@ -58,7 +58,7 @@ Taipei Fubon Bank Japan 位于 [[JapanFG/INDEX|JapanFG index]] 之下，是 [[fo
 
 ## Related
 
-- [[JapanFG/INDEX]]
+- [[foreign-financial-institutions/INDEX]]
 - [[foreign-financial-institutions/foreign-bank-branches-japan-index]]
 - [[foreign-financial-institutions/first-commercial-bank-japan]]
 - [[foreign-financial-institutions/esun-bank-japan]]

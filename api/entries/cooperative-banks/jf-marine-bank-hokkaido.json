@@ -46,7 +46,7 @@
       "https://marinebank.jp/disclosure/disclosure2025_02.pdf"
     ]
   },
-  "summary": "This entry sits under JapanFG index as the first JF Marine Bank prefectural-federation operating-company anchor in FinWiki, closing the audit gap that JF 信漁連 (集合的) was documented but no prefectural 信漁連 anchor existed. Hokkaido was selected as the single largest fisheries region in Japan (sake / hota",
+  "summary": "This entry sits under cooperative-banks INDEX as the first JF Marine Bank prefectural-federation operating-company anchor in FinWiki, closing the audit gap that JF 信漁連 (集合的) was documented but no prefectural 信漁連 anchor existed. Hokkaido was selected as the single largest fisheries region in Japan (s",
   "headings": [
     "JF Marine Bank 北海道 (北海道信用漁業協同組合連合会 / Hokkaido Shingyoren)",
     "Wiki route",
@@ -62,10 +62,10 @@
   "body_links": {
     "wikilinks_count": 12,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/cooperative-banking-japan",
       "banking/ja-bank-system-japan",
       "banking/jf-marine-bank-system-japan",
+      "cooperative-banks/INDEX",
       "cooperative-banks/ja-bank-tokyo-shinren",
       "cooperative-banks/ja-kyosairen-fukushima",
       "cooperative-banks/ja-shinnoren",
@@ -76,10 +76,10 @@
       "regional-banks/north-pacific-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/cooperative-banking-japan",
       "https://finwiki.zksc.io/banking/ja-bank-system-japan",
       "https://finwiki.zksc.io/banking/jf-marine-bank-system-japan",
+      "https://finwiki.zksc.io/cooperative-banks/INDEX",
       "https://finwiki.zksc.io/cooperative-banks/ja-bank-tokyo-shinren",
       "https://finwiki.zksc.io/cooperative-banks/ja-kyosairen-fukushima",
       "https://finwiki.zksc.io/cooperative-banks/ja-shinnoren",
@@ -93,9 +93,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6742,
-    "word_like_tokens": 1085,
+    "nonspace_chars": 6782,
+    "word_like_tokens": 1089,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

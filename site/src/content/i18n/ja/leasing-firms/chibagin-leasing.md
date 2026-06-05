@@ -1,5 +1,5 @@
 ---
-source: japanfg/chibagin-leasing
+source: leasing-firms/chibagin-leasing
 source_hash: 91cd04ff7cc77902
 lang: ja
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-02T14:01:20.911Z
 
 ## ウィキ上の位置づけ
 
-この項目は、[[JapanFG/INDEX|JapanFG index]] の配下にあり、[[chiba-bank|千葉銀行 (Chiba Bank)]] に対する FG 子会社リース事業会社のアンカーである。親事業銀行 [[chiba-bank|千葉銀行]]（持株会社化していない単独銀行モデル）および兄弟子会社 [[chibagin-securities|ちばぎん証券]] と対照して読む。ピア比較は、[[mebuki-lease|めぶきリース]]（北関東地銀系リース）/ [[yokohama-bank-leasing|横浜銀リース]]（神奈川地銀系リース）/ [[hokkaido-lease|北海道リース]] / [[yamaguchi-leasing|山口リース]] / [[iyogin-leasing|いよぎんリース]]、および大手リース会社 [[mitsubishi-hc-capital|三菱 HC キャピタル]] / [[mizuho-lease|みずほリース]] / [[tokyo-century|東京センチュリー]]。より広い制度ルートは [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]]、[[banking/regional-bank-api-digital-partnership-route|regional-bank API/digital partnership route]]、[[banking/INDEX|banking index]] を参照する。投資可能ユニバースの文脈は [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]]。
+この項目は、[[leasing-firms/INDEX|leasing-firms INDEX]] の配下にあり、[[chiba-bank|千葉銀行 (Chiba Bank)]] に対する FG 子会社リース事業会社のアンカーである。親事業銀行 [[chiba-bank|千葉銀行]]（持株会社化していない単独銀行モデル）および兄弟子会社 [[chibagin-securities|ちばぎん証券]] と対照して読む。ピア比較は、[[mebuki-lease|めぶきリース]]（北関東地銀系リース）/ [[yokohama-bank-leasing|横浜銀リース]]（神奈川地銀系リース）/ [[hokkaido-lease|北海道リース]] / [[yamaguchi-leasing|山口リース]] / [[iyogin-leasing|いよぎんリース]]、および大手リース会社 [[mitsubishi-hc-capital|三菱 HC キャピタル]] / [[mizuho-lease|みずほリース]] / [[tokyo-century|東京センチュリー]]。より広い制度ルートは [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]]、[[banking/regional-bank-api-digital-partnership-route|regional-bank API/digital partnership route]]、[[banking/INDEX|banking index]] を参照する。投資可能ユニバースの文脈は [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]]。
 
 ## 要約
 
@@ -116,7 +116,7 @@ translated_at: 2026-06-02T14:01:20.911Z
 - [[ja-mitsui-leasing]] · [[nec-leasing]] · [[showa-leasing]] · [[toyota-finance]] · [[ibj-leasing]] · [[kanematsu-leasing]]
 - [[banking/regional-bank-consolidation-pattern]] · [[banking/regional-bank-api-digital-partnership-route]] · [[banking/INDEX]]
 - [[finance/japan-listed-financial-groups-investable-universe]] · [[finance/INDEX]]
-- [[JapanFG/INDEX|JapanFG index]]
+- [[leasing-firms/INDEX|leasing-firms INDEX]]
 
 ## 出典
 

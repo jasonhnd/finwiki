@@ -36,7 +36,7 @@
       "https://www.fsc.gov.tw/en/home.jsp?dataserno=202403050001&dtable=News&id=54&mcustomize=multimessage_view.jsp&parentpath=0"
     ]
   },
-  "summary": "Taiwan Cooperative Bank Japan sits under JapanFG index and is a Taiwan-Japan foreign-bank branch route in the foreign-bank branch registry. Read it with Chang Hwa Bank Japan, First Commercial Bank Japan, Taiwan Business Bank Japan, and banking index.",
+  "summary": "Taiwan Cooperative Bank Japan sits under foreign-financial-institutions INDEX and is a Taiwan-Japan foreign-bank branch route in the foreign-bank branch registry. Read it with Chang Hwa Bank Japan, First Commercial Bank Japan, Taiwan Business Bank Japan, and banking index.",
   "headings": [
     "合作金庫商業銀行日本 (Taiwan Cooperative Bank Japan)",
     "Wiki route",
@@ -52,10 +52,10 @@
     "wikilinks_count": 10,
     "wikilinks": [
       "INDEX",
-      "JapanFG/INDEX",
       "banking/INDEX",
       "finance/cross-border-m-a-japan",
       "financial-licenses/foreign-bank-branch-license-route",
+      "foreign-financial-institutions/INDEX",
       "foreign-financial-institutions/chang-hwa-bank-japan",
       "foreign-financial-institutions/first-commercial-bank-japan",
       "foreign-financial-institutions/foreign-bank-branches-japan-index",
@@ -64,10 +64,10 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/finance/cross-border-m-a-japan",
       "https://finwiki.zksc.io/financial-licenses/foreign-bank-branch-license-route",
+      "https://finwiki.zksc.io/foreign-financial-institutions/INDEX",
       "https://finwiki.zksc.io/foreign-financial-institutions/chang-hwa-bank-japan",
       "https://finwiki.zksc.io/foreign-financial-institutions/first-commercial-bank-japan",
       "https://finwiki.zksc.io/foreign-financial-institutions/foreign-bank-branches-japan-index",
@@ -78,9 +78,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3899,
-    "word_like_tokens": 597,
+    "nonspace_chars": 3968,
+    "word_like_tokens": 603,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

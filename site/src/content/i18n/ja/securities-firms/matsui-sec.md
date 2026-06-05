@@ -1,5 +1,5 @@
 ---
-source: japanfg/matsui-sec
+source: securities-firms/matsui-sec
 source_hash: 2f77612dc69b166b
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:54:39.079Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の下に位置づける。[[securities-firms/sbi-securities|SBI証券 (SBI Securities)]] を同業比較・対照の文脈として、[[securities/INDEX|securities index]] を制度全体と規制境界の文脈として併読する。
+この項目は [[securities-firms/INDEX|securities-firms INDEX]] の下に位置づける。[[securities-firms/sbi-securities|SBI証券 (SBI Securities)]] を同業比較・対照の文脈として、[[securities/INDEX|securities index]] を制度全体と規制境界の文脈として併読する。
 
 ## 要約
 

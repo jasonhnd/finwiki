@@ -1,5 +1,5 @@
 ---
-source: japanfg/toyama-bank
+source: regional-banks/toyama-bank
 source_hash: cf7b35ec800fdbc6
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.113Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[regional-banks/fukuoka-bank|福岡銀行]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it against [[regional-banks/fukuoka-bank|福岡銀行]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
@@ -34,7 +34,7 @@ Toyama Bank is a smaller regional bank focused on Toyama prefecture retail, SME,
 
 - Adds an exact-name FSA regional-bank page.
 - Complements [[hokuriku-bank]] and [[toyama-first-bank]].
-- Registry-backed B2.1  regional-bank operating-company page, tracked under the wider [[JapanFG/INDEX|JapanFG index]] surface.
+- Registry-backed B2.1  regional-bank operating-company page, tracked under the wider [[regional-banks/INDEX|regional-banks INDEX]] surface.
 
 ## Related
 

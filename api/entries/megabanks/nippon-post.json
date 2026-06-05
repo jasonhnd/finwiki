@@ -41,7 +41,7 @@
       "日本経済新聞「日本郵政、楽天G株で850億円の特損計上 23年4〜6月」 — https://www.nikkei.com/article/DGXZQOUA308QV0Q3A630C2000000/"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against かんぽ生命保険 (Japan Post Insurance) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under megabanks INDEX. Read it against かんぽ生命保険 (Japan Post Insurance) for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [
     "日本郵政 (Japan Post Holdings)",
     "Wiki route",
@@ -57,10 +57,10 @@
   "body_links": {
     "wikilinks_count": 12,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "kampo-life",
       "life-insurers/kampo-life",
+      "megabanks/INDEX",
       "megabanks/japan-post-holdings",
       "mizuho-fg",
       "mufg",
@@ -71,10 +71,10 @@
       "yucho"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/kampo-life",
       "https://finwiki.zksc.io/life-insurers/kampo-life",
+      "https://finwiki.zksc.io/megabanks/INDEX",
       "https://finwiki.zksc.io/megabanks/japan-post-holdings",
       "https://finwiki.zksc.io/mizuho-fg",
       "https://finwiki.zksc.io/mufg",
@@ -88,9 +88,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5153,
+    "nonspace_chars": 5157,
     "word_like_tokens": 862,
     "inbound_wikilinks_count": 7,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

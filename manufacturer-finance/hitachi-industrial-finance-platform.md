@@ -27,7 +27,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[manufacturer-finance/INDEX|manufacturing index]]. Read it against [[manufacturer-finance/toyota-motor|Toyota Motor]] and [[manufacturer-finance/mitsubishi-heavy-export-finance|Mitsubishi Heavy export finance]] for peer industrial-finance contrast, [[leasing-firms/hitachi-capital|旧 日立キャピタル]] for the legacy captive-leasing entity history, [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]] for the post-2021 surviving merged entity, and [[JapanFG/INDEX|JapanFG index]] for the broader system / regulatory boundary.
+This entry sits under [[manufacturer-finance/INDEX|manufacturing index]]. Read it against [[manufacturer-finance/toyota-motor|Toyota Motor]] and [[manufacturer-finance/mitsubishi-heavy-export-finance|Mitsubishi Heavy export finance]] for peer industrial-finance contrast, [[leasing-firms/hitachi-capital|旧 日立キャピタル]] for the legacy captive-leasing entity history, [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]] for the post-2021 surviving merged entity, and [[manufacturer-finance/INDEX|manufacturer-finance INDEX]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
@@ -113,7 +113,7 @@ Hitachi Rail UK の **Class 800 / 802** や **Intercity Express Programme (IEP)*
 - [[manufacturer-finance/mitsubishi-heavy-export-finance|MHI 輸出金融]] · [[manufacturer-finance/panasonic-captive-finance|Panasonic 顧客金融]] · [[manufacturer-finance/sony-group-finance-arm|Sony FG]] · [[manufacturer-finance/toyota-financial-services|Toyota Financial Services]]
 - [[financial-regulators/jbic|JBIC]] · [[policy-finance/nexi|NEXI]] · [[megabanks/mufg|MUFG]] · [[megabanks/smfg|SMFG]] · [[megabanks/mizuho-fg|みずほ FG]]
 - [[leasing-firms/orix-corp|オリックス]] · [[leasing-firms/tokyo-century|東京センチュリー]]
-- [[manufacturer-finance/INDEX|manufacturing INDEX]] · [[JapanFG/INDEX|JapanFG INDEX]] · [[INDEX|FinWiki index]]
+- [[manufacturer-finance/INDEX|manufacturing INDEX]] · [[manufacturer-finance/INDEX|manufacturer-finance INDEX]] · [[INDEX|FinWiki index]]
 
 ## Sources
 

@@ -42,7 +42,7 @@
       "https://www.shinkin-central-bank.jp/"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 七十七銀行（仙台地銀メインプレイヤー）and 仙台銀行（第二地銀）for the Miyagi commercial-bank counterparts, against 札幌信用金庫 for the parallel north-Japan city-anchor shinkin, and against Japan shinkin bank registry for the broader 254-shinkin system maintained by 信金中央金庫 and repr",
+  "summary": "This entry sits under cooperative-banks INDEX. Read it against 七十七銀行（仙台地銀メインプレイヤー）and 仙台銀行（第二地銀）for the Miyagi commercial-bank counterparts, against 札幌信用金庫 for the parallel north-Japan city-anchor shinkin, and against Japan shinkin bank registry for the broader 254-shinkin system maintained by 信金中央金",
   "headings": [
     "杜の都信用金庫 (Sendai-area / Tohoku leader shinkin)",
     "Wiki route",
@@ -58,12 +58,12 @@
   "body_links": {
     "wikilinks_count": 18,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "banking/cooperative-banking-japan",
       "banking/japan-cooperative-banking-unified-federation-matrix",
       "banking/japan-disaster-finance-framework",
       "banking/shinkin-bank-registry-japan",
+      "cooperative-banks/INDEX",
       "cooperative-banks/ja-zenchu",
       "cooperative-banks/kitakyushu-shinkin",
       "cooperative-banks/nagoya-shinkin",
@@ -78,12 +78,12 @@
       "regional-banks/sendai-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/cooperative-banking-japan",
       "https://finwiki.zksc.io/banking/japan-cooperative-banking-unified-federation-matrix",
       "https://finwiki.zksc.io/banking/japan-disaster-finance-framework",
       "https://finwiki.zksc.io/banking/shinkin-bank-registry-japan",
+      "https://finwiki.zksc.io/cooperative-banks/INDEX",
       "https://finwiki.zksc.io/cooperative-banks/ja-zenchu",
       "https://finwiki.zksc.io/cooperative-banks/kitakyushu-shinkin",
       "https://finwiki.zksc.io/cooperative-banks/nagoya-shinkin",
@@ -101,9 +101,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4769,
-    "word_like_tokens": 666,
+    "nonspace_chars": 4809,
+    "word_like_tokens": 670,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

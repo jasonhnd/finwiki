@@ -1,5 +1,5 @@
 ---
-source: japanfg/greif-trust
+source: trust-banks/greif-trust
 source_hash: de33f641697b836d
 lang: en
 status: machine
@@ -9,7 +9,7 @@ translated_at: 2026-05-31T15:29:03.932Z
 ---
 # Greif Trust
 
-Wiki route: [[JapanFG/INDEX|JapanFG index]] -> [[trust-banks/trust-companies-japan-index|Japan trust companies registry index]] -> Greif Trust.
+Wiki route: [[trust-banks/INDEX|trust-banks INDEX]] -> [[trust-banks/trust-companies-japan-index|Japan trust companies registry index]] -> Greif Trust.
 
 ## Overview
 

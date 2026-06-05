@@ -1,5 +1,5 @@
 ---
-source: japanfg/rcc
+source: financial-regulators/rcc
 source_hash: 335a585564581877
 lang: en
 status: machine
@@ -37,7 +37,7 @@ Read this entry together with the related banks, insurers, leasing companies, as
 
 ## Protected source anchors
 
-- [[JapanFG/INDEX|JapanFG index]] [[trust-banks/mitsubishi-ufj-trust-bank|三菱UFJ信託銀行 (MUTB)]] [[banking/INDEX|banking index]] 1 2 1999 年 3 [[financial-regulators/jbic|JBIC]] [[financial-regulators/dbj|DBJ]] [[banking/regional-bank-consolidation-pattern|地域銀行統合パターン]] [[banking/INDEX|banking index]] [[regional-banks/jimoto-hd]] [[financial-regulators/dbj]] [[financial-regulators/jfc]] [[banking/regional-bank-consolidation-pattern]]
+- [[financial-regulators/INDEX|financial-regulators INDEX]] [[trust-banks/mitsubishi-ufj-trust-bank|三菱UFJ信託銀行 (MUTB)]] [[banking/INDEX|banking index]] 1 2 1999 年 3 [[financial-regulators/jbic|JBIC]] [[financial-regulators/dbj|DBJ]] [[banking/regional-bank-consolidation-pattern|地域銀行統合パターン]] [[banking/INDEX|banking index]] [[regional-banks/jimoto-hd]] [[financial-regulators/dbj]] [[financial-regulators/jfc]] [[banking/regional-bank-consolidation-pattern]]
 
 ## Related
 

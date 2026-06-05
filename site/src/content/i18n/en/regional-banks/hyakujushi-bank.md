@@ -1,5 +1,5 @@
 ---
-source: japanfg/hyakujushi-bank
+source: regional-banks/hyakujushi-bank
 source_hash: 25d79f3f546252ca
 lang: en
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T15:29:03.924Z
 
 ## Wiki Route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[regional-banks/iyo-bank|Iyo Bank]] and [[regional-banks/kagawa-bank|Kagawa Bank]] for Shikoku regional-bank comparison.
+This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it against [[regional-banks/iyo-bank|Iyo Bank]] and [[regional-banks/kagawa-bank|Kagawa Bank]] for Shikoku regional-bank comparison.
 
 ## TL;DR
 

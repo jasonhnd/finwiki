@@ -27,7 +27,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[non-life-insurers/sompo|SOMPO ホールディングス (Sompo Holdings)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read it against [[non-life-insurers/sompo|SOMPO ホールディングス (Sompo Holdings)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
@@ -168,7 +168,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[non-lif
 
 - [[non-life-insurers/msad|ms-ad]] · [[non-life-insurers/sompo|sompo-hd]] ── 国内損保 3 メガ
 - [[mufg]] · [[smfg]] · [[mizuho-fg]] ── 銀行系 FG(損保とは別カテゴリだが企業金融で連携・競合)
-- [[JapanFG/INDEX]]
+- [[non-life-insurers/INDEX]]
 
 ## Sources
 

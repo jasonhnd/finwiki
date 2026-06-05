@@ -1,5 +1,5 @@
 ---
-source: japanfg/ja-zen-noh
+source: cooperative-banks/ja-zen-noh
 source_hash: b62491426b1c9741
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:59:49.334Z
 
 ## Wiki Route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **JA Group economic-business federation**, parallel to [[cooperative-banks/norinchukin|農林中央金庫 (信用)]] / [[non-life-insurers/ja-kyosairen|JA 共済連 (共済)]] / [[cooperative-banks/ja-zenchu|JA 全中 (代表)]]. Read with [[banking/ja-bank-system-japan|JA Bank system]] for the credit-side adjacency and [[banking/cooperative-banking-japan|cooperative banking domain]] for the system boundary.
+This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as the **JA Group economic-business federation**, parallel to [[cooperative-banks/norinchukin|農林中央金庫 (信用)]] / [[non-life-insurers/ja-kyosairen|JA 共済連 (共済)]] / [[cooperative-banks/ja-zenchu|JA 全中 (代表)]]. Read with [[banking/ja-bank-system-japan|JA Bank system]] for the credit-side adjacency and [[banking/cooperative-banking-japan|cooperative banking domain]] for the system boundary.
 
 ## TL;DR
 
@@ -105,7 +105,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **JA Group economic
 - [[cooperative-banks/ja-mitsui-leasing]] — Example of JA Group leasing function
 - [[banking/ja-bank-system-japan]] — JA Bank system
 - [[banking/cooperative-banking-japan]] — Cooperative-organization finance overall
-- [[JapanFG/INDEX|JapanFG index]]
+- [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 
 ## Sources
 

@@ -1,5 +1,5 @@
 ---
-source: japanfg/gunma-bank
+source: regional-banks/gunma-bank
 source_hash: 76c21209eedb8e13
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:25:12.386Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に位置づける。比較対象・対照文脈は [[regional-banks/chiba-bank|千葉銀行 (Chiba Bank)]]、より広い制度・規制上の境界は [[banking/INDEX|banking index]] とあわせて読む。
+この項目は [[regional-banks/INDEX|regional-banks INDEX]] の配下に位置づける。比較対象・対照文脈は [[regional-banks/chiba-bank|千葉銀行 (Chiba Bank)]]、より広い制度・規制上の境界は [[banking/INDEX|banking index]] とあわせて読む。
 
 ## 要約
 

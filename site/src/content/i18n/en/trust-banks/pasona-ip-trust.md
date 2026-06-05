@@ -1,5 +1,5 @@
 ---
-source: japanfg/pasona-ip-trust
+source: trust-banks/pasona-ip-trust
 source_hash: 2da3ce8dff93fffb
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T00:41:50.433Z
 
 ## Wiki route
 
-Pasona IP Trust is a standalone trust-company route under [[JapanFG/INDEX|JapanFG]] and is promoted from [[trust-banks/trust-companies-japan-index|the Japan trust companies registry index]]. Read it with [[finance/japan-acquisition-finance|Japan acquisition finance]], [[business/INDEX|business cases]], and [[banking/japan-trust-bank-custody-map|Japan trust-bank custody map]].
+Pasona IP Trust is a standalone trust-company route under [[trust-banks/INDEX|trust-banks INDEX]] and is promoted from [[trust-banks/trust-companies-japan-index|the Japan trust companies registry index]]. Read it with [[finance/japan-acquisition-finance|Japan acquisition finance]], [[business/INDEX|business cases]], and [[banking/japan-trust-bank-custody-map|Japan trust-bank custody map]].
 
 Use this page for intellectual-property trust, patent / industrial-property administration, IP monetization, and non-financial-asset trust questions.
 
@@ -58,7 +58,7 @@ Do not infer current securitization, collateral, or financing products unless Pa
 
 ## Related
 
-- [[JapanFG/INDEX]]
+- [[trust-banks/INDEX]]
 - [[trust-banks/trust-companies-japan-index]]
 - [[banking/japan-trust-bank-custody-map]]
 - [[finance/japan-acquisition-finance]]

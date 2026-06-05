@@ -1,5 +1,5 @@
 ---
-source: japanfg/yokohama-kogin-shinkumi
+source: cooperative-banks/yokohama-kogin-shinkumi
 source_hash: 2de5354ea51dcc29
 lang: ja
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-02T16:33:58.467Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] 配下に置き、143協同組織金融の母集団 ([[banking/credit-cooperative-registry-japan|Japan credit cooperative registry]] で整理) の中で、**首都圏 (神奈川) の民族系事業者信組アンカー**として扱う。韓国系事業者信組ネットワークにおける関西側の比較対象は [[cooperative-banks/osaka-shogin-shinkumi|大阪商銀信用組合]]、協同組織金融システムの親レイヤーは [[cooperative-banks/zenshin-kumi|全信組連]] と照合して読む。
+この項目は [[cooperative-banks/INDEX|cooperative-banks INDEX]] 配下に置き、143協同組織金融の母集団 ([[banking/credit-cooperative-registry-japan|Japan credit cooperative registry]] で整理) の中で、**首都圏 (神奈川) の民族系事業者信組アンカー**として扱う。韓国系事業者信組ネットワークにおける関西側の比較対象は [[cooperative-banks/osaka-shogin-shinkumi|大阪商銀信用組合]]、協同組織金融システムの親レイヤーは [[cooperative-banks/zenshin-kumi|全信組連]] と照合して読む。
 
 ## 要約
 
@@ -107,7 +107,7 @@ translated_at: 2026-06-02T16:33:58.467Z
 - [[financial-regulators/dic]] — 預金保険機構
 - [[banking/credit-cooperative-registry-japan]] — Japan credit cooperative registry (143 shinkumi 全体)
 - [[banking/cooperative-banking-japan]] — 協同組織金融全体
-- [[JapanFG/INDEX|JapanFG index]]
+- [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 
 ## 出典
 

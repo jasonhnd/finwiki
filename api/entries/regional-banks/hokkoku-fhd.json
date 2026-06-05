@@ -37,7 +37,7 @@
       "https://www.fsa.go.jp/menkyo/menkyoj/ginkoumochikabu.pdf"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against ふくおか FG (FFG) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under regional-banks INDEX. Read it against ふくおか FG (FFG) for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [
     "北國 FHD (Hokkoku FHD)",
     "Wiki route",
@@ -53,7 +53,6 @@
   "body_links": {
     "wikilinks_count": 14,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "banking/minna-bank-baas-model",
       "concordia-fg",
@@ -63,13 +62,13 @@
       "mebuki-fg",
       "mizuho-fg",
       "mufg",
+      "regional-banks/INDEX",
       "regional-banks/fukuoka-fg",
       "sbi-hd",
       "shizuoka-fg",
       "smfg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/minna-bank-baas-model",
       "https://finwiki.zksc.io/concordia-fg",
@@ -79,6 +78,7 @@
       "https://finwiki.zksc.io/mebuki-fg",
       "https://finwiki.zksc.io/mizuho-fg",
       "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/regional-banks/INDEX",
       "https://finwiki.zksc.io/regional-banks/fukuoka-fg",
       "https://finwiki.zksc.io/sbi-hd",
       "https://finwiki.zksc.io/shizuoka-fg",
@@ -88,9 +88,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4272,
-    "word_like_tokens": 675,
+    "nonspace_chars": 4286,
+    "word_like_tokens": 677,
     "inbound_wikilinks_count": 8,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

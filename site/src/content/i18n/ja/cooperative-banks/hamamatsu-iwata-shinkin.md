@@ -1,5 +1,5 @@
 ---
-source: japanfg/hamamatsu-iwata-shinkin
+source: cooperative-banks/hamamatsu-iwata-shinkin
 source_hash: 427d893c8fb2df53
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:25:12.414Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] 配下に位置する。中部製造業ベルトの信用金庫ブロック内の比較・対照文脈では [[cooperative-banks/okazaki-shinkin|岡崎信用金庫]]、制度全体と規制境界では [[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]] とあわせて読む。この境界は [[cooperative-banks/shinkin-central|信金中央金庫]] が維持する。
+この項目は [[cooperative-banks/INDEX|cooperative-banks INDEX]] 配下に位置する。中部製造業ベルトの信用金庫ブロック内の比較・対照文脈では [[cooperative-banks/okazaki-shinkin|岡崎信用金庫]]、制度全体と規制境界では [[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]] とあわせて読む。この境界は [[cooperative-banks/shinkin-central|信金中央金庫]] が維持する。
 
 ## 要約
 

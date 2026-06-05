@@ -18,7 +18,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it with [[card-issuers/aplus|APLUS]] for the adjacent SBI Shinsei consumer-credit lane and [[payments/credit-purchase-card-operators-japan-index|Japan credit purchase and card operator registry index]] for the broader credit / installment boundary.
+This entry sits under [[consumer-finance/INDEX|consumer-finance INDEX]]. Read it with [[card-issuers/aplus|APLUS]] for the adjacent SBI Shinsei consumer-credit lane and [[payments/credit-purchase-card-operators-japan-index|Japan credit purchase and card operator registry index]] for the broader credit / installment boundary.
 
 ## Overview
 

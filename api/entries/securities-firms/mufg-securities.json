@@ -37,7 +37,7 @@
       "Morgan Stanley 10-K Filings (joint venture sections, 2024-25)"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against MUFG (8306、親会社), SMBC 日興証券 / みずほ証券 for peer / contrast (メガバンク系証券)、野村 HD / 大和証券 for independent rival context, and 金融庁 for the regulatory boundary.",
+  "summary": "This entry sits under securities-firms INDEX. Read it against MUFG (8306、親会社), SMBC 日興証券 / みずほ証券 for peer / contrast (メガバンク系証券)、野村 HD / 大和証券 for independent rival context, and 金融庁 for the regulatory boundary.",
   "headings": [
     "MUFG 証券ホールディングス",
     "Wiki route",
@@ -53,7 +53,6 @@
   "body_links": {
     "wikilinks_count": 13,
     "wikilinks": [
-      "JapanFG/INDEX",
       "financial-regulators/fsa",
       "financial-regulators/japan-exchange-group",
       "financial-regulators/jsda",
@@ -61,6 +60,7 @@
       "megabanks/mufg",
       "megabanks/mufg-bank",
       "megabanks/smfg",
+      "securities-firms/INDEX",
       "securities-firms/daiwa-sg",
       "securities-firms/mizuho-securities",
       "securities-firms/mufg-mums",
@@ -68,7 +68,6 @@
       "securities-firms/smbc-nikko"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/financial-regulators/fsa",
       "https://finwiki.zksc.io/financial-regulators/japan-exchange-group",
       "https://finwiki.zksc.io/financial-regulators/jsda",
@@ -76,6 +75,7 @@
       "https://finwiki.zksc.io/megabanks/mufg",
       "https://finwiki.zksc.io/megabanks/mufg-bank",
       "https://finwiki.zksc.io/megabanks/smfg",
+      "https://finwiki.zksc.io/securities-firms/INDEX",
       "https://finwiki.zksc.io/securities-firms/daiwa-sg",
       "https://finwiki.zksc.io/securities-firms/mizuho-securities",
       "https://finwiki.zksc.io/securities-firms/mufg-mums",
@@ -86,9 +86,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4915,
-    "word_like_tokens": 795,
+    "nonspace_chars": 4951,
+    "word_like_tokens": 799,
     "inbound_wikilinks_count": 7,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

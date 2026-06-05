@@ -57,10 +57,9 @@
     "Related"
   ],
   "body_links": {
-    "wikilinks_count": 8,
+    "wikilinks_count": 7,
     "wikilinks": [
       "INDEX",
-      "JapanFG/INDEX",
       "fintech/japan-financial-regulation",
       "non-profit/INDEX",
       "non-profit/japan-general-foundation-establishment-requirements",
@@ -70,7 +69,6 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/fintech/japan-financial-regulation",
       "https://finwiki.zksc.io/non-profit/INDEX",
       "https://finwiki.zksc.io/non-profit/japan-general-foundation-establishment-requirements",
@@ -82,9 +80,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6930,
-    "word_like_tokens": 1128,
+    "nonspace_chars": 6936,
+    "word_like_tokens": 1130,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-06-03"
+    "last_modified": "2026-06-06"
   }
 }

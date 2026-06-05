@@ -35,7 +35,7 @@
       "東海東京 FHD 公式 IR・沿革・中期経営計画"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 岡三証券グループ (Okasan Securities Group) for peer / contrast context and securities index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under securities-firms INDEX. Read it against 岡三証券グループ (Okasan Securities Group) for peer / contrast context and securities index for the broader system / regulatory boundary.",
   "headings": [
     "東海東京 FH (Tokai Tokyo Financial Holdings)",
     "Wiki route",
@@ -51,25 +51,25 @@
   "body_links": {
     "wikilinks_count": 10,
     "wikilinks": [
-      "JapanFG/INDEX",
       "concordia-fg",
       "fukuoka-fg",
       "mizuho-fg",
       "mufg",
       "okasan-sg",
       "sbi-hd",
+      "securities-firms/INDEX",
       "securities-firms/okasan-sg",
       "securities/INDEX",
       "smfg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/concordia-fg",
       "https://finwiki.zksc.io/fukuoka-fg",
       "https://finwiki.zksc.io/mizuho-fg",
       "https://finwiki.zksc.io/mufg",
       "https://finwiki.zksc.io/okasan-sg",
       "https://finwiki.zksc.io/sbi-hd",
+      "https://finwiki.zksc.io/securities-firms/INDEX",
       "https://finwiki.zksc.io/securities-firms/okasan-sg",
       "https://finwiki.zksc.io/securities/INDEX",
       "https://finwiki.zksc.io/smfg"
@@ -78,9 +78,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3529,
-    "word_like_tokens": 586,
+    "nonspace_chars": 3547,
+    "word_like_tokens": 588,
     "inbound_wikilinks_count": 9,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

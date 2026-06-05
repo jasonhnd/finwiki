@@ -55,7 +55,7 @@ The risk is also distribution-linked: online brokerage competition compresses co
 
 ## Related
 
-- [[JapanFG/INDEX|JapanFG INDEX]]
+- [[securities-firms/INDEX|securities-firms INDEX]]
 - [[securities/INDEX|securities INDEX]]
 - [[payment-firms/rakuten-fg]]
 - [[securities-firms/monex-group]]

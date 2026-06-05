@@ -27,7 +27,7 @@ sources:
 # 決済機構局 (BoJ Payment and Settlement Systems Department)
 
 ## Wiki route
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[financial-regulators/boj-financial-markets-dept|金融市場局]] for the BoJ market-operations counterpart and [[financial-regulators/boj-financial-system-dept|金融機構局]] for the prudential-side bureau. For the broader settlement system, anchor through [[banking/INDEX|banking landscape]] and [[financial-regulators/boj-monetary-policy|BoJ monetary policy]].
+This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]]. Read it against [[financial-regulators/boj-financial-markets-dept|金融市場局]] for the BoJ market-operations counterpart and [[financial-regulators/boj-financial-system-dept|金融機構局]] for the prudential-side bureau. For the broader settlement system, anchor through [[banking/INDEX|banking landscape]] and [[financial-regulators/boj-monetary-policy|BoJ monetary policy]].
 
 ## TL;DR
 

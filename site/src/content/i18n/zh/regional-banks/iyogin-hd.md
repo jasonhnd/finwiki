@@ -1,5 +1,5 @@
 ---
-source: japanfg/iyogin-hd
+source: regional-banks/iyogin-hd
 source_hash: 9db5d5d7cdcb80e5
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T15:29:03.925Z
 
 ## Wiki route
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 下。可与 [[regional-banks/iyo-bank|伊予银行]] 和 [[banking/INDEX|banking index]] 对照阅读。
+本条目位于 [[regional-banks/INDEX|regional-banks INDEX]] 下。可与 [[regional-banks/iyo-bank|伊予银行]] 和 [[banking/INDEX|banking index]] 对照阅读。
 
 ## TL;DR
 

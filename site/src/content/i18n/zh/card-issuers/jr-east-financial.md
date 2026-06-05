@@ -1,5 +1,5 @@
 ---
-source: japanfg/jr-east-financial
+source: card-issuers/jr-east-financial
 source_hash: a6a312b8a3a7c0a3
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:59:49.306Z
 
 ## Wiki 路径
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下，是 JR 东日本（East Japan Railway Company）集团金融子板块的**运营公司锚点**，具体包括 **View Card + JRE BANK（与乐天银行合作的 BaaS 银行账户）+ Suica 电子货币 / JR 东日本 Payment Services** 的 3  轴结构。可结合 [[JapanFG/tokyu-card|東急カード（Tokyu Card）]]、[[JapanFG/odakyu-cards|小田急カード]] 进行交通圈 captive 同业比较，结合 [[regional-banks/seven-bank|セブン銀行]] 进行零售 captive bank 比较，结合 [[banking/baas-rakuten-jre-bank|楽天-JRE Bank BaaS]] 理解 Banking as a Service 架构，并结合 [[payments/suica-pasmo-fares|Suica/PASMO 運賃エコシステム]] 理解电子货币 / 交通 IC 整合层。
+本条目位于 [[card-issuers/INDEX|card-issuers INDEX]] 之下，是 JR 东日本（East Japan Railway Company）集团金融子板块的**运营公司锚点**，具体包括 **View Card + JRE BANK（与乐天银行合作的 BaaS 银行账户）+ Suica 电子货币 / JR 东日本 Payment Services** 的 3  轴结构。可结合 [[JapanFG/tokyu-card|東急カード（Tokyu Card）]]、[[JapanFG/odakyu-cards|小田急カード]] 进行交通圈 captive 同业比较，结合 [[regional-banks/seven-bank|セブン銀行]] 进行零售 captive bank 比较，结合 [[banking/baas-rakuten-jre-bank|楽天-JRE Bank BaaS]] 理解 Banking as a Service 架构，并结合 [[payments/suica-pasmo-fares|Suica/PASMO 運賃エコシステム]] 理解电子货币 / 交通 IC 整合层。
 
 ## 摘要
 
@@ -136,7 +136,7 @@ translated_at: 2026-05-31T23:59:49.306Z
 - [[payments/suica-prepaid-jr-east]] — Suica 生态系统
 - [[payments/suica-pasmo-fares]] — 交通系 IC 票价生态系统
 - [[banking/baas-rakuten-jre-bank]] — BaaS 架构
-- [[JapanFG/INDEX]] — JapanFG namespace index
+- [[card-issuers/INDEX]] — JapanFG namespace index
 
 ## 来源
 

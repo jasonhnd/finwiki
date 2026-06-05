@@ -1,5 +1,5 @@
 ---
-source: japanfg/mitsubishi-hc-capital
+source: leasing-firms/mitsubishi-hc-capital
 source_hash: ce0ef803df2142a6
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:54:39.087Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] 配下に置かれる。[[leasing-firms/orix-corp|オリックス株式会社 (ORIX Corporation)]] は比較対象の文脈、[[banking/INDEX|banking index]] はより広い制度・規制境界の文脈として読む。
+この項目は [[leasing-firms/INDEX|leasing-firms INDEX]] 配下に置かれる。[[leasing-firms/orix-corp|オリックス株式会社 (ORIX Corporation)]] は比較対象の文脈、[[banking/INDEX|banking index]] はより広い制度・規制境界の文脈として読む。
 
 ## 要約
 

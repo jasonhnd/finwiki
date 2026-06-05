@@ -1,5 +1,5 @@
 ---
-source: japanfg/kyoto-bank
+source: regional-banks/kyoto-bank
 source_hash: 9528591d75a93c99
 lang: ja
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-06-02T14:54:39.046Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に置く。比較対象・対照関係は [[regional-banks/kansai-mirai-bank|関西みらい銀行]]、より広い制度・監督上の境界は [[banking/INDEX|banking index]] とあわせて読む。
+この項目は [[regional-banks/INDEX|regional-banks INDEX]] の配下に置く。比較対象・対照関係は [[regional-banks/kansai-mirai-bank|関西みらい銀行]]、より広い制度・監督上の境界は [[banking/INDEX|banking index]] とあわせて読む。
 
 ## 要約
 

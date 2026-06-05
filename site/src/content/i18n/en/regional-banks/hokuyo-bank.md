@@ -1,5 +1,5 @@
 ---
-source: japanfg/hokuyo-bank
+source: regional-banks/hokuyo-bank
 source_hash: 684d164a3f078bd8
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T15:29:03.868Z
 
 ## Wiki route
 
-This entry sits in the JapanFG route specified by the source file. Source-context anchors: [[JapanFG/INDEX|JapanFG index]] [[regional-banks/jimoto-hd|JIMOTO Holdings]] [[banking/INDEX|banking index]] 13 兆 4467 億円 11 兆 1039 億円 171  2024  2025 03  1917  1951  1989  1998 11  1  3 7 1
+This entry sits in the JapanFG route specified by the source file. Source-context anchors: [[regional-banks/INDEX|regional-banks INDEX]] [[regional-banks/jimoto-hd|JIMOTO Holdings]] [[banking/INDEX|banking index]] 13 兆 4467 億円 11 兆 1039 億円 171  2024  2025 03  1917  1951  1989  1998 11  1  3 7 1
 
 ## TL;DR
 

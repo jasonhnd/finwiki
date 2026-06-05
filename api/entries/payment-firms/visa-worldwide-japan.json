@@ -37,7 +37,7 @@
       "https://www.visa.co.jp/about-visa/our_business/visa-japan.html"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against JCB for peer / contrast context (Visa は global pure-scheme、JCB は Japan-origin hybrid) and Japan card issuer / acquirer / processor split for the broader system / regulatory boundary.",
+  "summary": "This entry sits under payment-firms INDEX. Read it against JCB for peer / contrast context (Visa は global pure-scheme、JCB は Japan-origin hybrid) and Japan card issuer / acquirer / processor split for the broader system / regulatory boundary.",
   "headings": [
     "ビザ・ワールドワイド・ジャパン (Visa Worldwide Japan)",
     "Wiki route",
@@ -52,11 +52,11 @@
   "body_links": {
     "wikilinks_count": 10,
     "wikilinks": [
-      "JapanFG/INDEX",
       "card-issuers/jcb",
       "card-issuers/mufg-nicos",
       "card-issuers/rakuten-card",
       "card-issuers/smbc-card",
+      "payment-firms/INDEX",
       "payment-firms/american-express-international-japan",
       "payment-firms/mastercard-japan",
       "payment-firms/unionpay-international-japan",
@@ -64,11 +64,11 @@
       "payments/japan-interchange-and-merchant-fee-stack"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/card-issuers/jcb",
       "https://finwiki.zksc.io/card-issuers/mufg-nicos",
       "https://finwiki.zksc.io/card-issuers/rakuten-card",
       "https://finwiki.zksc.io/card-issuers/smbc-card",
+      "https://finwiki.zksc.io/payment-firms/INDEX",
       "https://finwiki.zksc.io/payment-firms/american-express-international-japan",
       "https://finwiki.zksc.io/payment-firms/mastercard-japan",
       "https://finwiki.zksc.io/payment-firms/unionpay-international-japan",
@@ -79,9 +79,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3497,
-    "word_like_tokens": 566,
+    "nonspace_chars": 3509,
+    "word_like_tokens": 568,
     "inbound_wikilinks_count": 11,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

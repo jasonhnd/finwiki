@@ -1,5 +1,5 @@
 ---
-source: japanfg/deloitte-touche-tohmatsu
+source: financial-regulators/deloitte-touche-tohmatsu
 source_hash: e90b2ee72297aa04
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T15:29:03.928Z
 
 ## Wiki 路线
 
-本条目位于 [[JapanFG/INDEX|JapanFG 索引]]，用于说明 Deloitte 日本审计法人トーマツ的公开业务和监管边界。
+本条目位于 [[financial-regulators/INDEX|financial-regulators INDEX]]，用于说明 Deloitte 日本审计法人トーマツ的公开业务和监管边界。
 
 ## 概要
 

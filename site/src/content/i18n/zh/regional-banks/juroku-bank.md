@@ -1,5 +1,5 @@
 ---
-source: japanfg/juroku-bank
+source: regional-banks/juroku-bank
 source_hash: b72134575b26fcae
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T23:59:49.349Z
 
 ## Wiki route
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可与 [[regional-banks/hachijuni-nagano-bank|八十二長野銀行]] 对照阅读其同业 / 对比语境，并与 [[banking/INDEX|banking index]] 阅读更广泛的系统 / 监管边界。
+本条目位于 [[regional-banks/INDEX|regional-banks INDEX]] 之下。可与 [[regional-banks/hachijuni-nagano-bank|八十二長野銀行]] 对照阅读其同业 / 对比语境，并与 [[banking/INDEX|banking index]] 阅读更广泛的系统 / 监管边界。
 
 ## TL;DR
 
@@ -30,7 +30,7 @@ translated_at: 2026-05-31T23:59:49.349Z
 
 ## 2. 运营模式
 
-十六银行是以岐阜县为中心，承担零售存款、SME 融资、企业贷款、财富 / 证券转介以及中京地区企业支持的地方银行。[[juroku-fg]] 页面处理控股公司战略，本页承载银行牌照运营边界。中京地区地方银行语境可参见 [[banking/INDEX|banking index]] 和 [[JapanFG/INDEX|JapanFG index]]。
+十六银行是以岐阜县为中心，承担零售存款、SME 融资、企业贷款、财富 / 证券转介以及中京地区企业支持的地方银行。[[juroku-fg]] 页面处理控股公司战略，本页承载银行牌照运营边界。中京地区地方银行语境可参见 [[banking/INDEX|banking index]] 和 [[regional-banks/INDEX|regional-banks INDEX]]。
 
 ## 3. 为什么本页重要
 

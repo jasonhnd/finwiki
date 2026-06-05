@@ -1,5 +1,5 @@
 ---
-source: japanfg/dbj
+source: financial-regulators/dbj
 source_hash: e8be03721211979b
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T15:29:03.907Z
 
 ## Wiki 路线
 
-本条目位于 [[JapanFG/INDEX|JapanFG 索引]]。可与 [[financial-regulators/jfc|日本政策金融公库（JFC）]] 和 [[banking/INDEX|银行索引]] 配套阅读。
+本条目位于 [[financial-regulators/INDEX|financial-regulators INDEX]]。可与 [[financial-regulators/jfc|日本政策金融公库（JFC）]] 和 [[banking/INDEX|银行索引]] 配套阅读。
 
 ## 概要
 

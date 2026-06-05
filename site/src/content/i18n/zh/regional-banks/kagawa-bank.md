@@ -1,5 +1,5 @@
 ---
-source: japanfg/kagawa-bank
+source: regional-banks/kagawa-bank
 source_hash: a050eeda56dfc498
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T23:59:49.373Z
 
 ## Wiki 路径
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可结合 [[regional-banks/tokushima-taisho-bank|徳島大正銀行]] 阅读，以获得同业 / 对比语境；也可结合 [[banking/INDEX|banking index]] 阅读，以理解更大的系统 / 监管边界。
+本条目位于 [[regional-banks/INDEX|regional-banks INDEX]] 之下。可结合 [[regional-banks/tokushima-taisho-bank|徳島大正銀行]] 阅读，以获得同业 / 对比语境；也可结合 [[banking/INDEX|banking index]] 阅读，以理解更大的系统 / 监管边界。
 
 ## TL;DR
 

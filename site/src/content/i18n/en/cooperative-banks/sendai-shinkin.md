@@ -1,5 +1,5 @@
 ---
-source: japanfg/sendai-shinkin
+source: cooperative-banks/sendai-shinkin
 source_hash: bc1bd6bbb38983e6
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T00:41:50.438Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[regional-banks/77-bank|七十七銀行]] (the main Sendai regional-bank player) and [[regional-banks/sendai-bank|仙台銀行]] (second regional bank) for the Miyagi commercial-bank counterparts, against [[cooperative-banks/sapporo-shinkin|札幌信用金庫]] for the parallel north-Japan city-anchor shinkin, and against [[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]] for the broader 254-shinkin system maintained by [[cooperative-banks/shinkin-central|信金中央金庫]] and represented by [[financial-regulators/zenshin-kyo|全国信用金庫協会]]. Tohoku has 27 licensed shinkin (FSA 2025-11-06: Tohoku Local Finance Bureau jurisdiction), the second-largest regional block after Kanto, so the Miyagi / Sendai metropolitan anchor here is a key system route.
+This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]]. Read it against [[regional-banks/77-bank|七十七銀行]] (the main Sendai regional-bank player) and [[regional-banks/sendai-bank|仙台銀行]] (second regional bank) for the Miyagi commercial-bank counterparts, against [[cooperative-banks/sapporo-shinkin|札幌信用金庫]] for the parallel north-Japan city-anchor shinkin, and against [[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]] for the broader 254-shinkin system maintained by [[cooperative-banks/shinkin-central|信金中央金庫]] and represented by [[financial-regulators/zenshin-kyo|全国信用金庫協会]]. Tohoku has 27 licensed shinkin (FSA 2025-11-06: Tohoku Local Finance Bureau jurisdiction), the second-largest regional block after Kanto, so the Miyagi / Sendai metropolitan anchor here is a key system route.
 
 ## TL;DR
 
@@ -76,7 +76,7 @@ Sendai is Tohoku's only ordinance-designated city and a city of 100 万people, w
 
 ## Related
 
-- [[JapanFG/INDEX|JapanFG index]]
+- [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 - [[cooperative-banks/shinkin-central|信金中央金庫]]
 - [[financial-regulators/zenshin-kyo|全国信用金庫協会]]
 - [[cooperative-banks/shinkin-network-services|信金ネットワークサービス]]

@@ -1,5 +1,5 @@
 ---
-source: japanfg/ibank-marketing
+source: payment-firms/ibank-marketing
 source_hash: e0e045dec3172ceb
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:25:12.388Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下にあり、[[fukuoka-fg|ふくおか FG (FFG)]] の FG 子会社フィンテック / ウォレットアプリ事業会社アンカーとして位置づける。親銀行である [[fukuoka-bank|福岡銀行]] / [[18-shinwa-bank|十八親和銀行]] / [[kumamoto-bank|熊本銀行]]、およびウォレットアプリのピアである [[paypay-fg|PayPay FG]] / [[au-fh|au フィナンシャル HD]] / [[rakuten-fg|楽天 FG]] の文脈とあわせて読む。より広い制度上の経路は [[banking/regional-bank-api-digital-partnership-route|regional-bank API / digital partnership route]] と [[banking/INDEX|banking index]] を参照。
+この項目は [[payment-firms/INDEX|payment-firms INDEX]] の配下にあり、[[fukuoka-fg|ふくおか FG (FFG)]] の FG 子会社フィンテック / ウォレットアプリ事業会社アンカーとして位置づける。親銀行である [[fukuoka-bank|福岡銀行]] / [[18-shinwa-bank|十八親和銀行]] / [[kumamoto-bank|熊本銀行]]、およびウォレットアプリのピアである [[paypay-fg|PayPay FG]] / [[au-fh|au フィナンシャル HD]] / [[rakuten-fg|楽天 FG]] の文脈とあわせて読む。より広い制度上の経路は [[banking/regional-bank-api-digital-partnership-route|regional-bank API / digital partnership route]] と [[banking/INDEX|banking index]] を参照。
 
 ## 要約
 
@@ -118,7 +118,7 @@ translated_at: 2026-06-02T14:25:12.388Z
 - [[paypay-fg]] · [[au-fh]] · [[rakuten-fg]] · [[mercari-hd]]
 - [[money-forward]] · [[freee]]
 - [[banking/regional-bank-api-digital-partnership-route]] · [[banking/INDEX]] · [[banking/baas-japan-landscape]]
-- [[JapanFG/INDEX|JapanFG index]]
+- [[payment-firms/INDEX|payment-firms INDEX]]
 
 ## 出典
 

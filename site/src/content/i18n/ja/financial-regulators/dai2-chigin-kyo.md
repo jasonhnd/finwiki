@@ -1,5 +1,5 @@
 ---
-source: japanfg/dai2-chigin-kyo
+source: financial-regulators/dai2-chigin-kyo
 source_hash: be20005980618851
 lang: ja
 status: machine
@@ -16,7 +16,7 @@ translated_at: 2026-06-02T14:25:12.432Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の下に置く。第一地方銀行の系譜は [[financial-regulators/zenchugin-kyo|Regional Banks Association of Japan]]、業界横断の調整は [[financial-regulators/zenginkyo|Japanese Bankers Association]]、信用金庫系の協同組織金融に隣接する流れは [[financial-regulators/zenshin-kyo|Zenshin-kyō]] とあわせて読む。法令上の背景は [[financial-licenses/INDEX]] と [[financial-licenses/bank-license-and-baas-boundary]]、破綻処理のバックストップは [[financial-regulators/yokin-hoken-kiko|Deposit Insurance Corporation of Japan]]、より広い事業者群は [[banking/INDEX]] に置く。
+この項目は [[financial-regulators/INDEX|financial-regulators INDEX]] の下に置く。第一地方銀行の系譜は [[financial-regulators/zenchugin-kyo|Regional Banks Association of Japan]]、業界横断の調整は [[financial-regulators/zenginkyo|Japanese Bankers Association]]、信用金庫系の協同組織金融に隣接する流れは [[financial-regulators/zenshin-kyo|Zenshin-kyō]] とあわせて読む。法令上の背景は [[financial-licenses/INDEX]] と [[financial-licenses/bank-license-and-baas-boundary]]、破綻処理のバックストップは [[financial-regulators/yokin-hoken-kiko|Deposit Insurance Corporation of Japan]]、より広い事業者群は [[banking/INDEX]] に置く。
 
 ## 法的経路・法令上の位置づけ
 
@@ -53,7 +53,7 @@ translated_at: 2026-06-02T14:25:12.432Z
 
 ## 関連
 
-- [[JapanFG/INDEX|JapanFG index]]
+- [[financial-regulators/INDEX|financial-regulators INDEX]]
 - [[financial-regulators/zenginkyo|Japanese Bankers Association]]
 - [[financial-regulators/zenchugin-kyo|Regional Banks Association of Japan]]
 - [[financial-regulators/zenshin-kyo|National Association of Shinkin Banks]]

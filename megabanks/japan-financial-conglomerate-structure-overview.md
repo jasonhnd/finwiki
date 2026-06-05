@@ -42,7 +42,7 @@ This entry is the cross-cutting anchor that explains the holding-company structu
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG namespace index]] as a cross-cutting overview. Pair it with [[banking/japan-banking-license-tier-comparison-matrix]] for the license-tier overlay, [[financial-licenses/INDEX|JapanFG legal-license INDEX]] for the license-stack catalog, [[finance/japan-listed-financial-groups-investable-universe]] for the listed FG investable universe, and [[banking/japan-regional-bank-m-a-consolidation-family-tree-matrix]] for the regional bank consolidation family tree.
+This entry sits under [[megabanks/INDEX|megabanks INDEX]] as a cross-cutting overview. Pair it with [[banking/japan-banking-license-tier-comparison-matrix]] for the license-tier overlay, [[financial-licenses/INDEX|JapanFG legal-license INDEX]] for the license-stack catalog, [[finance/japan-listed-financial-groups-investable-universe]] for the listed FG investable universe, and [[banking/japan-regional-bank-m-a-consolidation-family-tree-matrix]] for the regional bank consolidation family tree.
 
 ### 1. Mega-bank FG (G-SIB tier)
 
@@ -136,7 +136,7 @@ The FSA supervises financial conglomerates through:
 
 ## Related
 
-- [[JapanFG/INDEX]]
+- [[megabanks/INDEX]]
 - [[financial-licenses/INDEX]]
 - [[banking/INDEX]]
 - [[banking/japan-banking-license-tier-comparison-matrix]]

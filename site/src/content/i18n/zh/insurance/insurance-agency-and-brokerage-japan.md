@@ -58,7 +58,7 @@ Several FinWiki domains now touch insurance distribution:
 - [[payments/INDEX|payments]]: 钱包 / 卡 / 应用生态可以交叉销售保险或运行嵌入式产品流程。
 - [[retail/INDEX|retail]]: 零售集团可以成为销售平台。
 - [[fintech/INDEX|fintech]]: 比较、嵌入式金融和数据驱动客户旅程会模糊受监管角色。
-- [[JapanFG/INDEX|JapanFG]]: 保险公司主体页面保留在 JapanFG；销售模型页面保留在这里。
+- [[insurance/INDEX|insurance INDEX]]: 保险公司主体页面保留在 JapanFG；销售模型页面保留在这里。
 
 Wiki 条目在公开信息允许时记录法律栈边界。银行或应用页面上的产品卡可以列出保险公司以及公开披露的销售方、代理人、经纪人、中介或转介路径。
 

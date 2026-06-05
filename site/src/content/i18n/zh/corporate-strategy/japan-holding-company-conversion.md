@@ -52,7 +52,7 @@ translated_at: 2026-06-05T00:00:00.000Z
 
 - **结果**: 通往纯粹型控股公司最清晰的路径。
 - **上市**: *新*控股公司取代经营公司上市 (技术性再上市 / 上场维持依交易所规则处理)。
-- **多公司变体**: 两家公司同时进行株式移転并入一家控股公司 — [[JapanFG/INDEX|JapanFG INDEX]] 中许多金融集团背后的共同控股 / 对等合并模式。
+- **多公司变体**: 两家公司同时进行株式移転并入一家控股公司 — [[corporate-strategy/INDEX|corporate-strategy INDEX]] 中许多金融集团背后的共同控股 / 对等合并模式。
 
 ### 方法 B — 株式交換 (股份交换): 让一家既存公司朝上指向
 
@@ -119,7 +119,6 @@ translated_at: 2026-06-05T00:00:00.000Z
 - [[finance/japan-listed-financial-groups-investable-universe|Japan listed-financial-groups investable universe]]
 - [[business/japan-listed-corp-strategic-restructuring-matrix|Japan listed-corp strategic-restructuring matrix]]
 - [[securities/japan-ipo-listing-disclosure-route|Japan IPO listing / disclosure route]]
-- [[JapanFG/INDEX|JapanFG INDEX]]
 - [[INDEX|FinWiki index]]
 
 ## 来源

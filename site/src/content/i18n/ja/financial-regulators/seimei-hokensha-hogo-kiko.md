@@ -1,5 +1,5 @@
 ---
-source: japanfg/seimei-hokensha-hogo-kiko
+source: financial-regulators/seimei-hokensha-hogo-kiko
 source_hash: 8d87a0b6880d457b
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T15:14:17.142Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に位置する。並行するセーフティネットとの比較は [[financial-regulators/sonpo-hosho-kiko|損害保険契約者保護機構]]、より広い制度上・規制上の境界は [[financial-regulators/dic|預金保険機構]] / [[financial-regulators/fsa|金融庁]] とあわせて読む。
+この項目は [[financial-regulators/INDEX|financial-regulators INDEX]] の配下に位置する。並行するセーフティネットとの比較は [[financial-regulators/sonpo-hosho-kiko|損害保険契約者保護機構]]、より広い制度上・規制上の境界は [[financial-regulators/dic|預金保険機構]] / [[financial-regulators/fsa|金融庁]] とあわせて読む。
 
 ## 要約
 
@@ -113,7 +113,7 @@ translated_at: 2026-06-02T15:14:17.142Z
 - [[financial-regulators/fsa|金融庁]]
 - [[life-insurers/kampo-life|かんぽ生命]] · [[life-insurers/dai-ichi-life-hd|第一生命 HD]] · [[life-insurers/asahi-life|朝日生命]] · [[life-insurers/fukoku-life|富国生命]]
 - [[insurance/INDEX|insurance index]]
-- [[JapanFG/INDEX|JapanFG index]]
+- [[financial-regulators/INDEX|financial-regulators INDEX]]
 
 ## 出典
 

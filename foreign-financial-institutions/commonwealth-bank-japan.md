@@ -24,7 +24,7 @@ sources:
 
 ## Wiki route
 
-Commonwealth Bank Japan sits under [[JapanFG/INDEX|JapanFG index]] and is a foreign-bank branch route inside [[foreign-financial-institutions/foreign-bank-branches-japan-index|the Japan foreign-bank branch registry]]. Read it with [[securities-firms/anz-bank-japan|ANZ Bank Japan]], [[foreign-financial-institutions/national-australia-bank-japan|National Australia Bank Japan]], [[financial-licenses/foreign-bank-branch-license-route|foreign-bank branch licensing]], and [[finance/cross-border-m-a-japan|cross-border finance]].
+Commonwealth Bank Japan sits under [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]] and is a foreign-bank branch route inside [[foreign-financial-institutions/foreign-bank-branches-japan-index|the Japan foreign-bank branch registry]]. Read it with [[securities-firms/anz-bank-japan|ANZ Bank Japan]], [[foreign-financial-institutions/national-australia-bank-japan|National Australia Bank Japan]], [[financial-licenses/foreign-bank-branch-license-route|foreign-bank branch licensing]], and [[finance/cross-border-m-a-japan|cross-border finance]].
 
 Use this page for Australia-Japan wholesale banking, structured asset finance, markets, and foreign-bank agency questions. It is not a Japan retail bank page.
 
@@ -75,7 +75,7 @@ The page is recorded as institutional banking infrastructure, not consumer remit
 
 ## Related
 
-- [[JapanFG/INDEX]]
+- [[foreign-financial-institutions/INDEX]]
 - [[foreign-financial-institutions/foreign-bank-branches-japan-index]]
 - [[securities-firms/anz-bank-japan]]
 - [[foreign-financial-institutions/national-australia-bank-japan]]

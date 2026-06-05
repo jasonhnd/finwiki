@@ -1,5 +1,5 @@
 ---
-source: japanfg/lombard-odier-trust
+source: trust-banks/lombard-odier-trust
 source_hash: a4ea50d48e4ddfc3
 lang: zh
 status: machine
@@ -9,7 +9,7 @@ translated_at: 2026-05-31T23:59:49.410Z
 ---
 # Lombard Odier Trust Japan / ロンバー・オディエ信託
 
-Wiki route: [[JapanFG/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/lombard-odier-trust]]
+Wiki route: [[trust-banks/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/lombard-odier-trust]]
 
 ## Overview
 

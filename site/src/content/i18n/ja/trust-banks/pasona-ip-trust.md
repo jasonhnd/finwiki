@@ -1,5 +1,5 @@
 ---
-source: japanfg/pasona-ip-trust
+source: trust-banks/pasona-ip-trust
 source_hash: 2da3ce8dff93fffb
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T15:14:17.085Z
 
 ## ウィキ上の位置づけ
 
-パソナ知財信託は、[[JapanFG/INDEX|JapanFG]]配下の独立した信託会社ルートであり、[[trust-banks/trust-companies-japan-index|the Japan trust companies registry index]]から昇格した項目です。[[finance/japan-acquisition-finance|Japan acquisition finance]]、[[business/INDEX|business cases]]、[[banking/japan-trust-bank-custody-map|Japan trust-bank custody map]]と併せて参照する。
+パソナ知財信託は、[[trust-banks/INDEX|trust-banks INDEX]]配下の独立した信託会社ルートであり、[[trust-banks/trust-companies-japan-index|the Japan trust companies registry index]]から昇格した項目です。[[finance/japan-acquisition-finance|Japan acquisition finance]]、[[business/INDEX|business cases]]、[[banking/japan-trust-bank-custody-map|Japan trust-bank custody map]]と併せて参照する。
 
 知的財産信託、特許 / 産業財産権の管理、IPの収益化、非金融資産信託に関する質問で使うページである。
 
@@ -59,7 +59,7 @@ translated_at: 2026-06-02T15:14:17.085Z
 
 ## 関連
 
-- [[JapanFG/INDEX]]
+- [[trust-banks/INDEX]]
 - [[trust-banks/trust-companies-japan-index]]
 - [[banking/japan-trust-bank-custody-map]]
 - [[finance/japan-acquisition-finance]]

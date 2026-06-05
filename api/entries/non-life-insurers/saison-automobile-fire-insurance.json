@@ -44,7 +44,7 @@
       "Wikipedia: SOMPOダイレクト損害保険 (沿革・従業員数1,141人(2024-03-31)・資本金322.6億円、公開情報)"
     ]
   },
-  "summary": "This entry sits under JapanFG index as the operating-company anchor for the direct non-life insurer historically known as セゾン自動車火災保険, now operating as ＳＯＭＰＯダイレクト損害保険. Read it against SOMPO HD for the parent group context, Sony FG for the direct-auto peer comparison, and Credit Saison for the histori",
+  "summary": "This entry sits under non-life-insurers INDEX as the operating-company anchor for the direct non-life insurer historically known as セゾン自動車火災保険, now operating as ＳＯＭＰＯダイレクト損害保険. Read it against SOMPO HD for the parent group context, Sony FG for the direct-auto peer comparison, and Credit Saison for t",
   "headings": [
     "セゾン自動車火災保険 / SOMPOダイレクト (Saison Automobile & Fire / SOMPO Direct)",
     "Wiki route",
@@ -60,7 +60,6 @@
   "body_links": {
     "wikilinks_count": 12,
     "wikilinks": [
-      "JapanFG/INDEX",
       "card-issuers/credit-saison",
       "insurance/INDEX",
       "insurance/axa-direct",
@@ -70,11 +69,11 @@
       "insurance/sompo-himawari-life",
       "insurance/sony-assurance",
       "megabanks/sony-fg",
+      "non-life-insurers/INDEX",
       "non-life-insurers/sompo",
       "non-life-insurers/sompo-japan"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/card-issuers/credit-saison",
       "https://finwiki.zksc.io/insurance/INDEX",
       "https://finwiki.zksc.io/insurance/axa-direct",
@@ -84,6 +83,7 @@
       "https://finwiki.zksc.io/insurance/sompo-himawari-life",
       "https://finwiki.zksc.io/insurance/sony-assurance",
       "https://finwiki.zksc.io/megabanks/sony-fg",
+      "https://finwiki.zksc.io/non-life-insurers/INDEX",
       "https://finwiki.zksc.io/non-life-insurers/sompo",
       "https://finwiki.zksc.io/non-life-insurers/sompo-japan"
     ],
@@ -91,9 +91,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6005,
-    "word_like_tokens": 938,
+    "nonspace_chars": 6035,
+    "word_like_tokens": 944,
     "inbound_wikilinks_count": 6,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

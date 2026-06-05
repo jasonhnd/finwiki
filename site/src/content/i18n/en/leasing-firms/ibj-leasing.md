@@ -1,5 +1,5 @@
 ---
-source: japanfg/ibj-leasing
+source: leasing-firms/ibj-leasing
 source_hash: 2ca976196c82253d
 lang: en
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T15:29:03.956Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[leasing-firms/mizuho-lease|Mizuho Leasing]] (the surviving successor entity after the 2019 merger) and [[banking/INDEX|banking index]] for the broader system / regulatory boundary. As a Mizuho-side historical entity, read it together with [[megabanks/mizuho-fg|Mizuho FG]] for parent-group context.
+This entry sits under [[leasing-firms/INDEX|leasing-firms INDEX]]. Read it against [[leasing-firms/mizuho-lease|Mizuho Leasing]] (the surviving successor entity after the 2019 merger) and [[banking/INDEX|banking index]] for the broader system / regulatory boundary. As a Mizuho-side historical entity, read it together with [[megabanks/mizuho-fg|Mizuho FG]] for parent-group context.
 
 ## TL;DR
 

@@ -17,7 +17,7 @@ sources:
 
 # American Home Insurance Japan / アメリカンホーム医療・損害保険
 
-Wiki route: [[JapanFG/INDEX]] -> [[insurance/INDEX]] -> [[non-life-insurers/american-home-insurance-japan]]
+Wiki route: [[non-life-insurers/INDEX]] -> [[insurance/INDEX]] -> [[non-life-insurers/american-home-insurance-japan]]
 
 ## Overview
 

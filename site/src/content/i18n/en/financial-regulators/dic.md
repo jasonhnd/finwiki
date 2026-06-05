@@ -1,5 +1,5 @@
 ---
-source: japanfg/dic
+source: financial-regulators/dic
 source_hash: b320c756093196a6
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T15:29:03.961Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[financial-regulators/sonpo-hosho-kiko|Non-Life Insurance Policyholders Protection Corporation of Japan]] and [[financial-regulators/seimei-hokensha-hogo-kiko|Life Insurance Policyholders Protection Corporation of Japan]] for parallel safety-net peers, and against [[financial-regulators/fsa|Financial Services Agency]] / [[financial-regulators/boj|Bank of Japan]] for the broader system / regulatory boundary.
+This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]]. Read it against [[financial-regulators/sonpo-hosho-kiko|Non-Life Insurance Policyholders Protection Corporation of Japan]] and [[financial-regulators/seimei-hokensha-hogo-kiko|Life Insurance Policyholders Protection Corporation of Japan]] for parallel safety-net peers, and against [[financial-regulators/fsa|Financial Services Agency]] / [[financial-regulators/boj|Bank of Japan]] for the broader system / regulatory boundary.
 
 ## TL;DR
 

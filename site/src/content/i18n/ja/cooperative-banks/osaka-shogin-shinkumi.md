@@ -1,5 +1,5 @@
 ---
-source: japanfg/osaka-shogin-shinkumi
+source: cooperative-banks/osaka-shogin-shinkumi
 source_hash: 4f1f5b4153369d95
 lang: ja
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-02T15:14:17.138Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に位置し、FinWiki で初めて単独の信用組合事業会社を扱うアンカーとして、長く残っていた 143信用組合の監査ギャップを埋める。同じ大阪市場における信用金庫と信用組合の違いは [[cooperative-banks/osaka-shinkin|大阪信用金庫]]、協同組織金融の上位系統は [[cooperative-banks/zenshin-kumi|全信組連 / Zenshinkumiren]]、より広い規制上の境界は [[banking/cooperative-banking-japan|cooperative banking domain]] とあわせて読む。
+この項目は [[cooperative-banks/INDEX|cooperative-banks INDEX]] の配下に位置し、FinWiki で初めて単独の信用組合事業会社を扱うアンカーとして、長く残っていた 143信用組合の監査ギャップを埋める。同じ大阪市場における信用金庫と信用組合の違いは [[cooperative-banks/osaka-shinkin|大阪信用金庫]]、協同組織金融の上位系統は [[cooperative-banks/zenshin-kumi|全信組連 / Zenshinkumiren]]、より広い規制上の境界は [[banking/cooperative-banking-japan|cooperative banking domain]] とあわせて読む。
 
 ## 要約
 
@@ -120,7 +120,7 @@ translated_at: 2026-06-02T15:14:17.138Z
 - [[financial-regulators/dic]] — 預金保険機構
 - [[banking/cooperative-banking-japan]] — 協同組織金融全体
 - [[banking/shinkin-bank-registry-japan]] — 信金 レジストリ (peer レジストリ)
-- [[JapanFG/INDEX|JapanFG index]]
+- [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 
 ## 出典
 

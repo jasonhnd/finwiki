@@ -1,5 +1,5 @@
 ---
-source: japanfg/aig-japan
+source: non-life-insurers/aig-japan
 source_hash: 9285a9f4c9c3106a
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T11:13:44.866Z
 
 ## Wiki 路由
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]]。建议与 [[life-insurers/axa-japan|アクサ・ジャパン (AXA Japan)]] 对照阅读，以把握同业与差异；也可与 [[banking/INDEX|banking index]] 一起阅读，用于理解更广义的金融体系与监管边界。
+本条目位于 [[non-life-insurers/INDEX|non-life-insurers INDEX]]。建议与 [[life-insurers/axa-japan|アクサ・ジャパン (AXA Japan)]] 对照阅读，以把握同业与差异；也可与 [[banking/INDEX|banking index]] 一起阅读，用于理解更广义的金融体系与监管边界。
 
 ## 1. 集团结构
 

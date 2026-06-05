@@ -1,5 +1,5 @@
 ---
-source: japanfg/credit-saison
+source: card-issuers/credit-saison
 source_hash: 9b0af9045a65b9bd
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:01:20.962Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に位置する。ピア比較 / 対照文脈は [[card-issuers/jaccs|株式会社ジャックス (Jaccs)]]、より広いシステム / 規制上の境界は [[banking/INDEX|banking index]] と照合して読む。
+この項目は [[card-issuers/INDEX|card-issuers INDEX]] の配下に位置する。ピア比較 / 対照文脈は [[card-issuers/jaccs|株式会社ジャックス (Jaccs)]]、より広いシステム / 規制上の境界は [[banking/INDEX|banking index]] と照合して読む。
 
 ## 要約
 

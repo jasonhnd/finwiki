@@ -1,5 +1,5 @@
 ---
-source: japanfg/miyoshi-smile-trust
+source: trust-banks/miyoshi-smile-trust
 source_hash: 0bd1efdf1edec5ea
 lang: ja
 status: machine
@@ -10,7 +10,7 @@ translated_at: 2026-06-02T14:54:39.081Z
 
 # Miyoshi Smile Trust / 三好スマイル信託
 
-ウィキ上の位置づけ: [[JapanFG/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/miyoshi-smile-trust]]
+ウィキ上の位置づけ: [[trust-banks/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/miyoshi-smile-trust]]
 
 ## 概要
 

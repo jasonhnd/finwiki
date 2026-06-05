@@ -62,7 +62,6 @@
     "wikilinks_count": 63,
     "wikilinks": [
       "INDEX",
-      "JapanFG/INDEX",
       "asset-managers/mufg-asset-management",
       "banking/INDEX",
       "banking/au-jibun-bank",
@@ -89,6 +88,7 @@
       "insurance/japan-nonlife-big-three",
       "life-insurers/kampo-life",
       "life-insurers/sony-life",
+      "megabanks/INDEX",
       "megabanks/au-fh",
       "megabanks/mizuho-bank",
       "megabanks/mizuho-fg",
@@ -127,7 +127,6 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/asset-managers/mufg-asset-management",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/au-jibun-bank",
@@ -154,6 +153,7 @@
       "https://finwiki.zksc.io/insurance/japan-nonlife-big-three",
       "https://finwiki.zksc.io/life-insurers/kampo-life",
       "https://finwiki.zksc.io/life-insurers/sony-life",
+      "https://finwiki.zksc.io/megabanks/INDEX",
       "https://finwiki.zksc.io/megabanks/au-fh",
       "https://finwiki.zksc.io/megabanks/mizuho-bank",
       "https://finwiki.zksc.io/megabanks/mizuho-fg",
@@ -194,9 +194,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 11989,
-    "word_like_tokens": 1828,
+    "nonspace_chars": 11986,
+    "word_like_tokens": 1827,
     "inbound_wikilinks_count": 1,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

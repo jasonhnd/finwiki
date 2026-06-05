@@ -1,5 +1,5 @@
 ---
-source: japanfg/sbi-shinsei-trust-bank
+source: trust-banks/sbi-shinsei-trust-bank
 source_hash: edd66e69d6dc3d50
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T00:41:50.457Z
 
 ## Wiki 路径
 
-SBI Shinsei Trust Bank 是 [[JapanFG/INDEX|JapanFG]] 之下的持牌信托银行运营公司页面。可与 [[regional-banks/sbi-shinsei-bank|SBI Shinsei Bank]]、[[megabanks/sbi-hd|SBI Holdings]]、[[trust-banks/mitsubishi-ufj-trust-bank|Mitsubishi UFJ Trust Bank]]、[[payment-firms/progmat|Progmat]]、[[fintech/japan-stablecoin-regulatory-landscape|Japan stablecoin regulation]]、[[banking/japan-trust-bank-custody-map|Japan trust-bank custody map]] 一并阅读。
+SBI Shinsei Trust Bank 是 [[trust-banks/INDEX|trust-banks INDEX]] 之下的持牌信托银行运营公司页面。可与 [[regional-banks/sbi-shinsei-bank|SBI Shinsei Bank]]、[[megabanks/sbi-hd|SBI Holdings]]、[[trust-banks/mitsubishi-ufj-trust-bank|Mitsubishi UFJ Trust Bank]]、[[payment-firms/progmat|Progmat]]、[[fintech/japan-stablecoin-regulatory-landscape|Japan stablecoin regulation]]、[[banking/japan-trust-bank-custody-map|Japan trust-bank custody map]] 一并阅读。
 
 当问题涉及信托银行法人、信托方案、证券化、证券代币，或由信托银行支撑的数字金融路径时，使用本页。普通银行战略和公的资金偿还历史请使用 [[regional-banks/sbi-shinsei-bank|SBI Shinsei Bank]]。
 
@@ -73,7 +73,7 @@ SBI Shinsei Trust Bank 是 SBI Shinsei / SBI Holdings 集团内的信托银行�
 
 ## Related
 
-- [[JapanFG/INDEX]]
+- [[trust-banks/INDEX]]
 - [[regional-banks/sbi-shinsei-bank]]
 - [[megabanks/sbi-hd]]
 - [[payment-firms/progmat]]

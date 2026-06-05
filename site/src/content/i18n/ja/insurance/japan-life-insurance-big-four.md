@@ -13,7 +13,7 @@ translated_at: 2026-06-02T14:01:20.897Z
 
 「日本の生命保険ビッグフォー」は市場で使われる略称であり、金融庁の正式分類ではない。通常は [[life-insurers/nippon-life|Nippon Life]]、[[life-insurers/dai-ichi-life|Dai-ichi Life]]、[[life-insurers/meiji-yasuda|Meiji Yasuda]]、[[life-insurers/sumitomo-life|Sumitomo Life]] を指す。公開情報で比較できる項目には、法的形態、チャネル構造、商品構成、海外展開、資本開示、契約者 / 株主ガバナンスが含まれる。
 
-このページは [[insurance/INDEX|insurance domain]] の下に位置し、会社別ページには [[JapanFG/INDEX|JapanFG]] を使う。[[insurance/life-insurance-channel-mix|life-insurance channel mix]]、[[insurance/mutual-vs-stock-life-insurer|mutual vs stock life insurer]]、[[insurance/esr-economic-value-solvency|ESR]]、[[financial-licenses/insurance-license-and-solvency|insurance license and solvency route]]、[[insurance/internet-life-insurance-business-model|internet life insurance business model]] とあわせて読む。
+このページは [[insurance/INDEX|insurance domain]] の下に位置し、会社別ページには [[insurance/INDEX|insurance INDEX]] を使う。[[insurance/life-insurance-channel-mix|life-insurance channel mix]]、[[insurance/mutual-vs-stock-life-insurer|mutual vs stock life insurer]]、[[insurance/esr-economic-value-solvency|ESR]]、[[financial-licenses/insurance-license-and-solvency|insurance license and solvency route]]、[[insurance/internet-life-insurance-business-model|internet life insurance business model]] とあわせて読む。
 
 ## 比較スナップショット
 

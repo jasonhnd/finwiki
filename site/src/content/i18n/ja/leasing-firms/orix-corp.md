@@ -1,5 +1,5 @@
 ---
-source: japanfg/orix-corp
+source: leasing-firms/orix-corp
 source_hash: 70fffad576d76c9d
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T15:14:17.114Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の下に位置づけます。ピア比較・対照の文脈では [[leasing-firms/tokyo-century|東京センチュリー株式会社 (Tokyo Century Corporation)]]、より広い制度・規制上の境界では [[banking/INDEX|banking index]] とあわせて読んでください。
+この項目は [[leasing-firms/INDEX|leasing-firms INDEX]] の下に位置づけます。ピア比較・対照の文脈では [[leasing-firms/tokyo-century|東京センチュリー株式会社 (Tokyo Century Corporation)]]、より広い制度・規制上の境界では [[banking/INDEX|banking index]] とあわせて読んでください。
 
 ## 要約
 

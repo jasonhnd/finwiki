@@ -1,5 +1,5 @@
 ---
-source: japanfg/tachibana-securities
+source: securities-firms/tachibana-securities
 source_hash: 6ed5b8be0ad79ab5
 lang: en
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-01T02:31:57.153Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[securities-firms/marusan-securities|丸三証券]] for peer / contrast context, [[securities/financial-instruments-business-operators-japan-index|FSA 金融商品取引業者 index]] for the regulatory-license layer, and [[financial-licenses/securities-license-stack|securities license stack]] for FIEA license boundary.
+This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it against [[securities-firms/marusan-securities|丸三証券]] for peer / contrast context, [[securities/financial-instruments-business-operators-japan-index|FSA 金融商品取引業者 index]] for the regulatory-license layer, and [[financial-licenses/securities-license-stack|securities license stack]] for FIEA license boundary.
 
 ## TL;DR
 

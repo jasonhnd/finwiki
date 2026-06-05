@@ -41,7 +41,7 @@
       "Wikipedia: イオン・アリアンツ生命保険 (https://ja.wikipedia.org/wiki/イオン・アリアンツ生命保険)"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against セブン銀行 (Seven Bank) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under card-issuers INDEX. Read it against セブン銀行 (Seven Bank) for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [
     "イオン銀行 / イオンフィナンシャルサービス (Aeon Bank / AFS)",
     "Wiki route",
@@ -57,8 +57,8 @@
   "body_links": {
     "wikilinks_count": 15,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
+      "card-issuers/INDEX",
       "card-issuers/jcb",
       "jcb",
       "lawson-bank",
@@ -74,8 +74,8 @@
       "sony-fg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/card-issuers/INDEX",
       "https://finwiki.zksc.io/card-issuers/jcb",
       "https://finwiki.zksc.io/jcb",
       "https://finwiki.zksc.io/lawson-bank",
@@ -94,9 +94,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5272,
-    "word_like_tokens": 859,
+    "nonspace_chars": 5282,
+    "word_like_tokens": 861,
     "inbound_wikilinks_count": 23,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

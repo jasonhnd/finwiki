@@ -28,7 +28,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha parent holding-company** (not a financial group per se, but it is the cap-table parent of multiple JapanFG-tagged finance subsidiaries). Read it against [[financial-conglomerates/mitsui-co|三井物産]] and [[financial-conglomerates/itochu-corp|伊藤忠商事]] for the closest 5 大商社 peer / contrast context. For the financial-services adjacency that gives this entry its JapanFG anchor — see [[trading-company-finance/mitsubishi-corp-finance|三菱商事フィナンシャルサービス]] (内向け group treasury) and [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]] (外向けリース、partial-owned listed). System frame: [[finance/INDEX|finance index]] and [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]] for the broader cross-shareholding lens that ties 商社 to メガバンク / リース.
+This entry sits under [[financial-conglomerates/INDEX|financial-conglomerates INDEX]] as a **sōgō shōsha parent holding-company** (not a financial group per se, but it is the cap-table parent of multiple JapanFG-tagged finance subsidiaries). Read it against [[financial-conglomerates/mitsui-co|三井物産]] and [[financial-conglomerates/itochu-corp|伊藤忠商事]] for the closest 5 大商社 peer / contrast context. For the financial-services adjacency that gives this entry its JapanFG anchor — see [[trading-company-finance/mitsubishi-corp-finance|三菱商事フィナンシャルサービス]] (内向け group treasury) and [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]] (外向けリース、partial-owned listed). System frame: [[finance/INDEX|finance index]] and [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]] for the broader cross-shareholding lens that ties 商社 to メガバンク / リース.
 
 ## 1. 会社概要
 
@@ -128,7 +128,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha pare
 
 ## Related
 
-- [[JapanFG/INDEX|JapanFG index]]
+- [[financial-conglomerates/INDEX|financial-conglomerates INDEX]]
 - [[financial-conglomerates/mitsui-co|三井物産]] · [[financial-conglomerates/itochu-corp|伊藤忠商事]] · [[financial-conglomerates/sumitomo-corp|住友商事]] · [[financial-conglomerates/marubeni-corp|丸紅]] · [[financial-conglomerates/toyota-tsusho-corp|豊田通商]] · [[financial-conglomerates/sojitz-corp|双日]] (5 大商社 + 中堅商社)
 - [[trading-company-finance/mitsubishi-corp-finance|三菱商事フィナンシャルサービス]] (内向け group treasury)
 - [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]] (外向けリース、MUFG とのジョイント支配)

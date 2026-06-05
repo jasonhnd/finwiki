@@ -1,5 +1,5 @@
 ---
-source: japanfg/keishicho-shinkumi
+source: cooperative-banks/keishicho-shinkumi
 source_hash: 95690b6871831be6
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:05:42.096Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **Tokyo metropolitan occupation-based shinkumi anchor** for the police sector, complementing [[cooperative-banks/tokyo-shobo-shinkumi|東京消防信用組合]] (fire department) and [[cooperative-banks/tokyo-to-shokuin-shinkumi|東京都職員信用組合]] (metropolitan civil servants) within the 143-cooperative population catalogued in [[banking/credit-cooperative-registry-japan|Japan credit cooperative registry]].
+This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as the **Tokyo metropolitan occupation-based shinkumi anchor** for the police sector, complementing [[cooperative-banks/tokyo-shobo-shinkumi|東京消防信用組合]] (fire department) and [[cooperative-banks/tokyo-to-shokuin-shinkumi|東京都職員信用組合]] (metropolitan civil servants) within the 143-cooperative population catalogued in [[banking/credit-cooperative-registry-japan|Japan credit cooperative registry]].
 
 ## TL;DR
 
@@ -106,7 +106,7 @@ Tokyo has 19  credit cooperatives on the FSA registry. Representative occupation
 - [[banking/credit-cooperative-registry-japan]] - Japan credit cooperative registry (all 143  shinkumi)
 - [[banking/cooperative-banking-japan]] - Cooperative banking in Japan
 - [[cooperative-banks/iwaki-shinkumi]] - Iwaki Shinkumi (peer regional shinkumi for business-model contrast)
-- [[JapanFG/INDEX|JapanFG index]]
+- [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 
 ## Sources
 

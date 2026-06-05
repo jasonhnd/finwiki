@@ -41,7 +41,7 @@
       "中小企業等協同組合法"
     ]
   },
-  "summary": "This entry sits under JapanFG index as a Hokkaido 地域型 (regional) shinkumi anchor, peer to いわき信用組合 (Tohoku) within the 143-cooperative population catalogued in Japan credit cooperative registry. Contrast with 札幌信用金庫 for the shinkin-vs-shinkumi distinction in the Sapporo market.",
+  "summary": "This entry sits under cooperative-banks INDEX as a Hokkaido 地域型 (regional) shinkumi anchor, peer to いわき信用組合 (Tohoku) within the 143-cooperative population catalogued in Japan credit cooperative registry. Contrast with 札幌信用金庫 for the shinkin-vs-shinkumi distinction in the Sapporo market.",
   "headings": [
     "札幌中央信用組合 (Sapporo Chuo Credit Cooperative)",
     "Wiki route",
@@ -57,9 +57,9 @@
   "body_links": {
     "wikilinks_count": 10,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/cooperative-banking-japan",
       "banking/credit-cooperative-registry-japan",
+      "cooperative-banks/INDEX",
       "cooperative-banks/iwaki-shinkumi",
       "cooperative-banks/sapporo-shinkin",
       "cooperative-banks/zenshin-kumi",
@@ -69,9 +69,9 @@
       "regional-banks/hokuyo-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/cooperative-banking-japan",
       "https://finwiki.zksc.io/banking/credit-cooperative-registry-japan",
+      "https://finwiki.zksc.io/cooperative-banks/INDEX",
       "https://finwiki.zksc.io/cooperative-banks/iwaki-shinkumi",
       "https://finwiki.zksc.io/cooperative-banks/sapporo-shinkin",
       "https://finwiki.zksc.io/cooperative-banks/zenshin-kumi",
@@ -84,9 +84,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4489,
-    "word_like_tokens": 665,
+    "nonspace_chars": 4529,
+    "word_like_tokens": 669,
     "inbound_wikilinks_count": 3,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

@@ -1,5 +1,5 @@
 ---
-source: japanfg/commonwealth-bank-japan
+source: foreign-financial-institutions/commonwealth-bank-japan
 source_hash: 495784c3f417e727
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T15:29:03.854Z
 
 ## Wiki ??
 
-??????????? JapanFG ????????????[[JapanFG/INDEX|JapanFG index]] [[foreign-financial-institutions/foreign-bank-branches-japan-index|the Japan foreign-bank branch registry]] [[securities-firms/anz-bank-japan|ANZ Bank Japan]] [[foreign-financial-institutions/national-australia-bank-japan|National Australia Bank Japan]] [[financial-licenses/foreign-bank-branch-license-route|foreign-bank branch licensing]] [[finance/cross-border-m-a-japan|cross-border finance]] 1986  [[securities-firms/anz-bank-japan|ANZ]] [[foreign-financial-institutions/national-australia-bank-japan|NAB]] [[securities-firms/anz-bank-japan|ANZ Bank Japan]] [[foreign-financial-institutions/national-australia-bank-japan|NAB Japan]] [[foreign-financial-institutions/standard-chartered-japan|Standard Chartered Japan]] [[foreign-financial-institutions/rbc-japan|RBC Japan]] 1 2 3 4 5 [[securities-firms/anz-bank-japan|ANZ]] [[foreign-financial-institutions/national-australia-bank-japan|NAB]]
+??????????? JapanFG ????????????[[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]] [[foreign-financial-institutions/foreign-bank-branches-japan-index|the Japan foreign-bank branch registry]] [[securities-firms/anz-bank-japan|ANZ Bank Japan]] [[foreign-financial-institutions/national-australia-bank-japan|National Australia Bank Japan]] [[financial-licenses/foreign-bank-branch-license-route|foreign-bank branch licensing]] [[finance/cross-border-m-a-japan|cross-border finance]] 1986  [[securities-firms/anz-bank-japan|ANZ]] [[foreign-financial-institutions/national-australia-bank-japan|NAB]] [[securities-firms/anz-bank-japan|ANZ Bank Japan]] [[foreign-financial-institutions/national-australia-bank-japan|NAB Japan]] [[foreign-financial-institutions/standard-chartered-japan|Standard Chartered Japan]] [[foreign-financial-institutions/rbc-japan|RBC Japan]] 1 2 3 4 5 [[securities-firms/anz-bank-japan|ANZ]] [[foreign-financial-institutions/national-australia-bank-japan|NAB]]
 
 ## TL;DR
 
@@ -39,7 +39,7 @@ translated_at: 2026-05-31T15:29:03.854Z
 
 ## ?????
 
-- [[JapanFG/INDEX]] [[foreign-financial-institutions/foreign-bank-branches-japan-index]] [[securities-firms/anz-bank-japan]] [[foreign-financial-institutions/national-australia-bank-japan]] [[financial-licenses/foreign-bank-branch-license-route]] [[financial-licenses/foreign-bank-agency-business-route]] [[finance/cross-border-m-a-japan]] [[banking/foreign-bank-japan-retreat]] [[INDEX|FinWiki index]] 21
+- [[foreign-financial-institutions/INDEX]] [[foreign-financial-institutions/foreign-bank-branches-japan-index]] [[securities-firms/anz-bank-japan]] [[foreign-financial-institutions/national-australia-bank-japan]] [[financial-licenses/foreign-bank-branch-license-route]] [[financial-licenses/foreign-bank-agency-business-route]] [[finance/cross-border-m-a-japan]] [[banking/foreign-bank-japan-retreat]] [[INDEX|FinWiki index]] 21
 
 ## Related
 

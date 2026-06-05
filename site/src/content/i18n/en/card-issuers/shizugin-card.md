@@ -1,5 +1,5 @@
 ---
-source: japanfg/shizugin-card
+source: card-issuers/shizugin-card
 source_hash: 4be9aec204738d2d
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.166Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary credit-card operating-company anchor for the [[shizuoka-fg|Shizuoka FG]] group, with [[shizuoka-bank|Shizuoka Bank]] as parent. Read it against the parent operating bank [[shizuoka-bank|Shizuoka Bank]] and sibling subsidiaries Shizugin TM Securities, Shizugin Lease, Shizugin Capital, and Shizugin Credit Guarantee. Peer comparison includes regional-bank credit-card companies such as Mebuki Card, Chibagin Card, [[ucs-card|UCS Card]], and Yokohama Bank's Hamagin Finance, plus major issuers [[smbc-card|Sumitomo Mitsui Card]], [[credit-saison|Credit Saison]], [[rakuten-card|Rakuten Card]], [[seven-card-service|Seven Card Service]], [[paypay-card|PayPay Card]], [[epos-card|Epos Card]], [[life-card|Life Card]], [[aplus|APLUS]], and [[pocket-card|Pocket Card]]. For the broader system route, see [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]], [[banking/regional-bank-api-digital-partnership-route|regional-bank API/digital partnership route]], and [[banking/INDEX|banking index]]. Investable-universe context: [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]].
+This entry sits under [[card-issuers/INDEX|card-issuers INDEX]] as the FG-subsidiary credit-card operating-company anchor for the [[shizuoka-fg|Shizuoka FG]] group, with [[shizuoka-bank|Shizuoka Bank]] as parent. Read it against the parent operating bank [[shizuoka-bank|Shizuoka Bank]] and sibling subsidiaries Shizugin TM Securities, Shizugin Lease, Shizugin Capital, and Shizugin Credit Guarantee. Peer comparison includes regional-bank credit-card companies such as Mebuki Card, Chibagin Card, [[ucs-card|UCS Card]], and Yokohama Bank's Hamagin Finance, plus major issuers [[smbc-card|Sumitomo Mitsui Card]], [[credit-saison|Credit Saison]], [[rakuten-card|Rakuten Card]], [[seven-card-service|Seven Card Service]], [[paypay-card|PayPay Card]], [[epos-card|Epos Card]], [[life-card|Life Card]], [[aplus|APLUS]], and [[pocket-card|Pocket Card]]. For the broader system route, see [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]], [[banking/regional-bank-api-digital-partnership-route|regional-bank API/digital partnership route]], and [[banking/INDEX|banking index]]. Investable-universe context: [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]].
 
 ## TL;DR
 
@@ -113,7 +113,7 @@ Shizugin Card Co., Ltd. is the credit-card subsidiary of the [[shizuoka-fg|Shizu
 - [[bnpl-landscape]] · [[atone]] · [[acom]] · [[aiful]]
 - [[banking/regional-bank-consolidation-pattern]] · [[banking/regional-bank-api-digital-partnership-route]] · [[banking/INDEX]]
 - [[finance/japan-listed-financial-groups-investable-universe]] · [[finance/INDEX]]
-- [[JapanFG/INDEX|JapanFG index]]
+- [[card-issuers/INDEX|card-issuers INDEX]]
 
 ## Sources
 

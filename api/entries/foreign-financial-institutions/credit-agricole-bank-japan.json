@@ -38,7 +38,7 @@
       "https://www.ca-cib.com/news/credit-agricole-cib-and-credit-agricole-life-insurance-inaugurate-new-office-japan"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against ナティクシス 東京支店 for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under foreign-financial-institutions INDEX. Read it against ナティクシス 東京支店 for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [
     "クレディ・アグリコル銀行 東京支店",
     "Wiki route",
@@ -52,18 +52,18 @@
   "body_links": {
     "wikilinks_count": 7,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "banking/foreign-bank-japan-retreat",
+      "foreign-financial-institutions/INDEX",
       "foreign-financial-institutions/bnp-paribas-japan",
       "foreign-financial-institutions/natixis-japan",
       "foreign-financial-institutions/socgen-japan",
       "life-insurers/credit-agricole-life"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/foreign-bank-japan-retreat",
+      "https://finwiki.zksc.io/foreign-financial-institutions/INDEX",
       "https://finwiki.zksc.io/foreign-financial-institutions/bnp-paribas-japan",
       "https://finwiki.zksc.io/foreign-financial-institutions/natixis-japan",
       "https://finwiki.zksc.io/foreign-financial-institutions/socgen-japan",
@@ -73,9 +73,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2963,
-    "word_like_tokens": 468,
+    "nonspace_chars": 3009,
+    "word_like_tokens": 472,
     "inbound_wikilinks_count": 13,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

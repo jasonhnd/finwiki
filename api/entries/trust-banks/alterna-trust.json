@@ -36,7 +36,7 @@
       "https://prtimes.jp/main/html/rd/p/000000083.000056997.html"
     ]
   },
-  "summary": "Alterna Trust is a standalone trust-company route under JapanFG and is promoted from the Japan trust companies registry index. Read it with Progmat, Progmat stablecoin / digital asset route, ODX, and SMTB.",
+  "summary": "Alterna Trust is a standalone trust-company route under trust-banks INDEX and is promoted from the Japan trust companies registry index. Read it with Progmat, Progmat stablecoin / digital asset route, ODX, and SMTB.",
   "headings": [
     "オルタナ信託 (Alterna Trust)",
     "Wiki route",
@@ -52,21 +52,21 @@
     "wikilinks_count": 8,
     "wikilinks": [
       "INDEX",
-      "JapanFG/INDEX",
       "financial-licenses/securities-license-stack",
       "fintech/jp-stablecoin-progmat",
       "payment-firms/progmat",
       "securities/osaka-digital-exchange",
+      "trust-banks/INDEX",
       "trust-banks/smtb",
       "trust-banks/trust-companies-japan-index"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/financial-licenses/securities-license-stack",
       "https://finwiki.zksc.io/fintech/jp-stablecoin-progmat",
       "https://finwiki.zksc.io/payment-firms/progmat",
       "https://finwiki.zksc.io/securities/osaka-digital-exchange",
+      "https://finwiki.zksc.io/trust-banks/INDEX",
       "https://finwiki.zksc.io/trust-banks/smtb",
       "https://finwiki.zksc.io/trust-banks/trust-companies-japan-index"
     ],
@@ -74,9 +74,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3575,
-    "word_like_tokens": 551,
+    "nonspace_chars": 3592,
+    "word_like_tokens": 555,
     "inbound_wikilinks_count": 3,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

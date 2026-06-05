@@ -12,7 +12,7 @@ translated_at: 2026-05-31T07:28:06.128Z
 
 ## Wiki 路线
 
-本条目位于 [[insurance/INDEX|保险索引]] 之下。可与 [[insurance/natcat-reinsurance-japan|日本自然灾害再保险]] 对照阅读，以理解同业和风险语境；也可与 [[JapanFG/INDEX|JapanFG 索引]] 对照阅读，以把握更广的制度和监管边界。
+本条目位于 [[insurance/INDEX|保险索引]] 之下。可与 [[insurance/natcat-reinsurance-japan|日本自然灾害再保险]] 对照阅读，以理解同业和风险语境；也可与 [[insurance/INDEX|insurance INDEX]] 对照阅读，以把握更广的制度和监管边界。
 
 ## TL;DR
 

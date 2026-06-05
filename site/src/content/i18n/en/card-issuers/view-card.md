@@ -1,5 +1,5 @@
 ---
-source: japanfg/view-card
+source: card-issuers/view-card
 source_hash: 6463adeea69ce84e
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.180Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[card-issuers/jal-card|Co., Ltd.JALCard]] for peer / contrast context and [[payments/credit-purchase-card-operators-japan-index|credit purchase / card operators index]] for the broader regulatory / registry boundary.
+This entry sits under [[card-issuers/INDEX|card-issuers INDEX]]. Read it against [[card-issuers/jal-card|Co., Ltd.JALCard]] for peer / contrast context and [[payments/credit-purchase-card-operators-japan-index|credit purchase / card operators index]] for the broader regulatory / registry boundary.
 
 ## TL;DR
 

@@ -30,7 +30,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **JA Group cooperative-insurance federation**, parallel to [[cooperative-banks/norinchukin|農林中央金庫 (信用)]] / [[cooperative-banks/ja-zen-noh|JA 全農 (経済)]] / [[cooperative-banks/ja-zenchu|JA 全中 (代表)]]. Read with [[insurance/INDEX|insurance domain]] for cooperative-vs-stock insurance form, [[non-life-insurers/kyoritsu-fire-marine|共栄火災海上保険]] (JA 共済連が筆頭株主) for the損保補完, and [[banking/ja-bank-system-japan|JA Bank system]] for the JA Group system boundary.
+This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]] as the **JA Group cooperative-insurance federation**, parallel to [[cooperative-banks/norinchukin|農林中央金庫 (信用)]] / [[cooperative-banks/ja-zen-noh|JA 全農 (経済)]] / [[cooperative-banks/ja-zenchu|JA 全中 (代表)]]. Read with [[insurance/INDEX|insurance domain]] for cooperative-vs-stock insurance form, [[non-life-insurers/kyoritsu-fire-marine|共栄火災海上保険]] (JA 共済連が筆頭株主) for the損保補完, and [[banking/ja-bank-system-japan|JA Bank system]] for the JA Group system boundary.
 
 ## TL;DR
 
@@ -152,7 +152,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **JA Group cooperat
 - [[insurance/mutual-vs-stock-life-insurer]] — 相互会社 vs 株式会社 (協同組合 = 第 3 形態)
 - [[insurance/japan-life-insurance-big-four]]
 - [[banking/ja-bank-system-japan]]
-- [[JapanFG/INDEX|JapanFG index]]
+- [[non-life-insurers/INDEX|non-life-insurers INDEX]]
 
 ## Sources
 

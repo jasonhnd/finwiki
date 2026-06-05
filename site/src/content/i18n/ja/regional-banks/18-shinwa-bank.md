@@ -1,5 +1,5 @@
 ---
-source: japanfg/18-shinwa-bank
+source: regional-banks/18-shinwa-bank
 source_hash: a6c15ccc06d52adc
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:01:20.937Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] 配下に置く。[[regional-banks/fukuoka-bank|福岡銀行]] はピア比較・対比の文脈、[[banking/INDEX|banking index]] はより広い制度・規制境界として併読する。
+この項目は [[regional-banks/INDEX|regional-banks INDEX]] 配下に置く。[[regional-banks/fukuoka-bank|福岡銀行]] はピア比較・対比の文脈、[[banking/INDEX|banking index]] はより広い制度・規制境界として併読する。
 
 ## 要約
 

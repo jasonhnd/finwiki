@@ -19,7 +19,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[megabanks/mufg|MUFG (8306、親会社)]], [[securities-firms/smbc-nikko|SMBC 日興証券]] / [[securities-firms/mizuho-securities|みずほ証券]] for peer / contrast (メガバンク系証券)、[[securities-firms/nomura-hd|野村 HD]] / [[securities-firms/daiwa-sg|大和証券]] for independent rival context, and [[financial-regulators/fsa|金融庁]] for the regulatory boundary.
+This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it against [[megabanks/mufg|MUFG (8306、親会社)]], [[securities-firms/smbc-nikko|SMBC 日興証券]] / [[securities-firms/mizuho-securities|みずほ証券]] for peer / contrast (メガバンク系証券)、[[securities-firms/nomura-hd|野村 HD]] / [[securities-firms/daiwa-sg|大和証券]] for independent rival context, and [[financial-regulators/fsa|金融庁]] for the regulatory boundary.
 
 ## TL;DR
 
@@ -135,7 +135,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[megaban
 - [[megabanks/mufg|MUFG (8306)]] · [[megabanks/mufg-bank|MUFG 銀行]] · [[securities-firms/mufg-mums|MUMSS]]
 - [[securities-firms/smbc-nikko|SMBC 日興証券]] · [[securities-firms/mizuho-securities|みずほ証券]] · [[securities-firms/nomura-hd|野村 HD]] · [[securities-firms/daiwa-sg|大和証券グループ本社]]
 - [[financial-regulators/fsa|金融庁]] · [[financial-regulators/japan-exchange-group|日本取引所グループ]] · [[financial-regulators/jsda|日本証券業協会]]
-- [[JapanFG/INDEX|JapanFG index]]
+- [[securities-firms/INDEX|securities-firms INDEX]]
 
 ## Sources
 

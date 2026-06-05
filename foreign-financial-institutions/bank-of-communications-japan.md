@@ -27,7 +27,7 @@ sources:
 
 This page upgrades the Bank of Communications row in [[foreign-financial-institutions/foreign-bank-branches-japan-index|foreign-bank branch registry]] into a China-Japan corporate banking route. Read it with [[foreign-financial-institutions/bank-of-china-japan|Bank of China Japan]], [[foreign-financial-institutions/icbc-japan|ICBC Japan]], [[foreign-financial-institutions/china-construction-bank-japan|China Construction Bank Japan]], and [[foreign-financial-institutions/agricultural-bank-of-china-japan|Agricultural Bank of China Japan]].
 
-Route this entry through [[JapanFG/INDEX|JapanFG index]] first, then use [[banking/INDEX|banking domain]] and [[payments/INDEX|payments domain]] when the question turns into banking rails or account-to-account settlement.
+Route this entry through [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]] first, then use [[banking/INDEX|banking domain]] and [[payments/INDEX|payments domain]] when the question turns into banking rails or account-to-account settlement.
 
 ## Overview
 
@@ -75,7 +75,7 @@ Use [[financial-licenses/foreign-bank-branch-license-route|foreign-bank branch l
 
 ## Related
 
-- [[JapanFG/INDEX]]
+- [[foreign-financial-institutions/INDEX]]
 - [[foreign-financial-institutions/foreign-bank-branches-japan-index]]
 - [[foreign-financial-institutions/bank-of-china-japan]]
 - [[foreign-financial-institutions/icbc-japan]]

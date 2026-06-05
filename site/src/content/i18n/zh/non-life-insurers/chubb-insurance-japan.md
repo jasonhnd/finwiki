@@ -1,5 +1,5 @@
 ---
-source: japanfg/chubb-insurance-japan
+source: non-life-insurers/chubb-insurance-japan
 source_hash: 16b41a12e22fef6f
 lang: zh
 status: machine
@@ -10,7 +10,7 @@ translated_at: 2026-05-31T11:13:44.883Z
 
 # 安达保险日本 / 安达普通保险
 
-维基路线：[[JapanFG/INDEX]] -> [[insurance/INDEX]] -> [[non-life-insurers/chubb-insurance-japan]]
+维基路线：[[non-life-insurers/INDEX]] -> [[insurance/INDEX]] -> [[non-life-insurers/chubb-insurance-japan]]
 
 ＃＃ 概述
 

@@ -28,7 +28,7 @@ sources:
 
 ## Wiki route
 
-This page sits under [[finance/INDEX|finance index]]. It is a public-source reference universe for Japan-listed financial groups, read against [[finance/japan-ib-league-table]] for adviser-side peer mapping, [[finance/japan-activist-investor-playbook]] for engagement / control reading, [[finance/japan-large-shareholding-disclosure]] for stake disclosure mechanics, [[finance/japan-shareholder-proposal-and-agm-voting-route]] for AGM / stewardship route, and [[JapanFG/INDEX|JapanFG]] for entity-level pages. System-side context lives at [[securities/tokyo-stock-exchange]] and [[securities/japan-market-infrastructure-map]].
+This page sits under [[finance/INDEX|finance index]]. It is a public-source reference universe for Japan-listed financial groups, read against [[finance/japan-ib-league-table]] for adviser-side peer mapping, [[finance/japan-activist-investor-playbook]] for engagement / control reading, [[finance/japan-large-shareholding-disclosure]] for stake disclosure mechanics, [[finance/japan-shareholder-proposal-and-agm-voting-route]] for AGM / stewardship route, and [[finance/INDEX|finance INDEX]] for entity-level pages. System-side context lives at [[securities/tokyo-stock-exchange]] and [[securities/japan-market-infrastructure-map]].
 
 ## TL;DR
 
@@ -49,7 +49,7 @@ This is a reference universe map of Japan-listed financial groups, organised by 
 | Telco-finance hybrid | Listed telcos that hold a financial group of meaningful scale. |
 | Fintech / crypto-adjacent | Listed groups whose financial business is fintech-led or crypto-adjacent. |
 
-The universe is read against [[JapanFG/INDEX|JapanFG]], which is the entity-level index for individual issuers.
+The universe is read against [[finance/INDEX|finance INDEX]], which is the entity-level index for individual issuers.
 
 ## Investable-Universe Matrix Fields
 
@@ -81,7 +81,7 @@ All values below are categorical descriptors derived from public-surface IR / di
 | [[megabanks/mizuho-fg]] | 8411 | 大型 | Public-float-heavy with strategic cross-holdings | Low single-digit to mid single-digit historical range | Mid yield class | Buyback policy presence varies by period | Nikkei 225, TOPIX Core 30, FTSE Russell Japan | High foreign ownership | NIM compression, system / operational risk legacy, overseas credit, capital-policy execution. |
 | Resona HD | 8308 | 中型 to 大型 | Public-float-heavy regional / SME-bank franchise | Mid single-digit historical range | Mid yield class | Progressive dividend stance historically disclosed | TOPIX, FTSE Russell Japan | Mid foreign ownership | Domestic-focused NIM, SME credit cycle, regional rate sensitivity, branch-network cost. |
 
-Read these against [[finance/japan-ib-league-table]] for adviser-side franchise depth and [[JapanFG/INDEX|JapanFG]] for entity-level pages.
+Read these against [[finance/japan-ib-league-table]] for adviser-side franchise depth and [[finance/INDEX|finance INDEX]] for entity-level pages.
 
 ## Trust FG
 
@@ -117,7 +117,7 @@ Regional FGs are read with [[finance/japan-activist-investor-playbook]] because 
 | Rakuten Bank | 5838 | 中型 | Net bank, listed digital bank | Parent Rakuten group majority / strategic | TOPIX | Parent-funding linkage, deposit-cost competition, credit growth quality, regulatory perimeter. |
 | Mercari | 4385 | 中型 to 大型 | C2C marketplace with finance / payment / lending arm (adjacent) | Public-float-heavy | TOPIX | Financial-service unit losses, regulatory perimeter, marketplace GMV, credit quality. |
 
-Note: many digital-bank brands in Japan (e.g. SBI Sumishin Net Bank, au Jibun Bank, PayPay Bank) sit inside a listed parent FG rather than being standalone listings; see [[JapanFG/INDEX|JapanFG]] for parent-of mapping.
+Note: many digital-bank brands in Japan (e.g. SBI Sumishin Net Bank, au Jibun Bank, PayPay Bank) sit inside a listed parent FG rather than being standalone listings; see [[finance/INDEX|finance INDEX]] for parent-of mapping.
 
 ## Major insurers (listed)
 
@@ -140,7 +140,7 @@ Life insurers are read with [[finance/japan-large-shareholding-disclosure]] when
 | Matsui Securities | 8628 | 中型 | Online broker, retail-flow concentrated | Founder-family / strategic stake significant | Mid to high yield class | TOPIX | Retail-trading cycle, fee compression, demographic skew. |
 | SBI HD | 8473 | 大型 | Financial conglomerate (securities + bank + insurance + AM + VC) | Strategic / founder-aligned with public float | Mid to high yield class | TOPIX, FTSE Russell Japan | Conglomerate-discount, capital allocation across subsidiaries, Shinsei-bank integration, crypto / fintech cycle. |
 
-Read these with [[finance/japan-ib-league-table]] for advisory franchise depth; megabank-affiliated securities arms (SMBC Nikko, Mizuho Securities, MUFG / MUMS) sit inside parent FG entries above and inside [[JapanFG/INDEX|JapanFG]].
+Read these with [[finance/japan-ib-league-table]] for advisory franchise depth; megabank-affiliated securities arms (SMBC Nikko, Mizuho Securities, MUFG / MUMS) sit inside parent FG entries above and inside [[finance/INDEX|finance INDEX]].
 
 ## Card / consumer finance
 
@@ -175,7 +175,7 @@ Note: JA Mitsui Leasing is jointly held by JA group and Mitsui & Co; it is NOT l
 | KDDI | 9433 | 大型 | Telco that holds au Financial Holdings | Public-float-heavy with strategic cross-holdings | Nikkei 225, TOPIX Core 30, FTSE Russell Japan | Telco capex cycle, financial-arm credit growth quality, regulatory perimeter, payment-fee competition. |
 | SoftBank Corp | 9434 | 大型 | Telco that holds PayPay FG (PayPay, PayPay Bank, PayPay Card, PayPay Securities) | SoftBank Group parent majority | Nikkei 225, TOPIX Core 30, FTSE Russell Japan | Telco capex cycle, parent-funding linkage, payment-business credit / regulatory perimeter. |
 
-These hybrid entries are useful to read alongside [[JapanFG/INDEX|JapanFG]] because the financial subsidiary balance sheets are disclosed inside the telco parent.
+These hybrid entries are useful to read alongside [[finance/INDEX|finance INDEX]] because the financial subsidiary balance sheets are disclosed inside the telco parent.
 
 ## Fintech / crypto
 
@@ -259,7 +259,7 @@ Before using any line in this page in any real-world decision, the reader should
 - Tickers, sub-sector classifications, and major shareholder shapes change as a result of mergers, alliances, TOBs, reorganisations, and corporate actions.
 - ROE, dividend yield, foreign-ownership, and capital-policy descriptors are range / class labels only; they are NOT point estimates and they go stale fast.
 - Index inclusion and FTSE Russell eligibility rotate periodically; the index methodology pages override anything stated here.
-- Some named entities sit inside a listed parent rather than as standalone listings (e.g. PayPay Bank inside SoftBank Corp; SBI Sumishin Net Bank historically inside SBI HD); see [[JapanFG/INDEX|JapanFG]] for the parent-of mapping.
+- Some named entities sit inside a listed parent rather than as standalone listings (e.g. PayPay Bank inside SoftBank Corp; SBI Sumishin Net Bank historically inside SBI HD); see [[finance/INDEX|finance INDEX]] for the parent-of mapping.
 - Private financial groups (e.g. JA Mitsui Leasing, mutual life insurers) are explicitly out of scope for an "investable universe" page because they are not listed.
 - Data verification is the reader's responsibility. The FinWiki public-surface convention is route-and-link, NOT signal generation.
 
@@ -272,7 +272,6 @@ Before using any line in this page in any real-world decision, the reader should
 - [[finance/japan-shareholder-proposal-and-agm-voting-route]]
 - [[finance/japan-acquisition-finance]]
 - [[finance/japan-tender-offer-process]]
-- [[JapanFG/INDEX|JapanFG]]
 - [[megabanks/mufg]]
 - [[megabanks/smfg]]
 - [[megabanks/mizuho-fg]]

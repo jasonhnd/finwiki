@@ -34,7 +34,7 @@
       "https://www.y-escrow-trust.co.jp/news/pdf/920f75354c325c19353be143f28eff510517861c.pdf"
     ]
   },
-  "summary": "Yamada Escrow Trust is a standalone trust-company route under JapanFG and is promoted from the Japan trust companies registry index. Read it with Japan MBO / squeeze-out process, Japan acquisition finance, and Escrow Agent Japan Trust.",
+  "summary": "Yamada Escrow Trust is a standalone trust-company route under trust-banks INDEX and is promoted from the Japan trust companies registry index. Read it with Japan MBO / squeeze-out process, Japan acquisition finance, and Escrow Agent Japan Trust.",
   "headings": [
     "山田エスクロー信託 (Yamada Escrow Trust)",
     "Wiki route",
@@ -50,17 +50,17 @@
     "wikilinks_count": 6,
     "wikilinks": [
       "INDEX",
-      "JapanFG/INDEX",
       "finance/japan-acquisition-finance",
       "finance/japan-mbo-and-squeeze-out-process",
+      "trust-banks/INDEX",
       "trust-banks/escrow-agent-japan-trust",
       "trust-banks/trust-companies-japan-index"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/finance/japan-acquisition-finance",
       "https://finwiki.zksc.io/finance/japan-mbo-and-squeeze-out-process",
+      "https://finwiki.zksc.io/trust-banks/INDEX",
       "https://finwiki.zksc.io/trust-banks/escrow-agent-japan-trust",
       "https://finwiki.zksc.io/trust-banks/trust-companies-japan-index"
     ],
@@ -68,9 +68,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3057,
-    "word_like_tokens": 509,
+    "nonspace_chars": 3074,
+    "word_like_tokens": 513,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

@@ -37,7 +37,7 @@
       "https://www.tokyocentury.co.jp/en/company/info/domestic/"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against SMFL / Sumitomo Mitsui Finance and Leasing for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under leasing-firms INDEX. Read it against SMFL / Sumitomo Mitsui Finance and Leasing for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [
     "NTT TC Leasing",
     "Wiki route",
@@ -54,9 +54,9 @@
     "wikilinks_count": 10,
     "wikilinks": [
       "INDEX",
-      "JapanFG/INDEX",
       "banking/INDEX",
       "financial-licenses/INDEX",
+      "leasing-firms/INDEX",
       "leasing-firms/mitsubishi-hc-capital",
       "leasing-firms/mizuho-lease",
       "leasing-firms/orix-corp",
@@ -66,9 +66,9 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/financial-licenses/INDEX",
+      "https://finwiki.zksc.io/leasing-firms/INDEX",
       "https://finwiki.zksc.io/leasing-firms/mitsubishi-hc-capital",
       "https://finwiki.zksc.io/leasing-firms/mizuho-lease",
       "https://finwiki.zksc.io/leasing-firms/orix-corp",
@@ -80,9 +80,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3843,
-    "word_like_tokens": 601,
+    "nonspace_chars": 3855,
+    "word_like_tokens": 603,
     "inbound_wikilinks_count": 6,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

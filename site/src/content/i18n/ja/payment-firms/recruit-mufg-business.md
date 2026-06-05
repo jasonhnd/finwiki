@@ -1,5 +1,5 @@
 ---
-source: japanfg/recruit-mufg-business
+source: payment-firms/recruit-mufg-business
 source_hash: b79693d5f35d1561
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T15:14:17.148Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に置く。銀行グループの文脈は [[megabanks/mufg|MUFG]]、規制上の経路は [[payments/funds-transfer-service-providers-japan-index|funds-transfer registry]]、ウォレット競争は [[payments/japan-code-payment-competitive-map|Japan code-payment competitive map]] と併読する。
+この項目は [[payment-firms/INDEX|payment-firms INDEX]] の配下に置く。銀行グループの文脈は [[megabanks/mufg|MUFG]]、規制上の経路は [[payments/funds-transfer-service-providers-japan-index|funds-transfer registry]]、ウォレット競争は [[payments/japan-code-payment-competitive-map|Japan code-payment competitive map]] と併読する。
 
 ## 概要
 

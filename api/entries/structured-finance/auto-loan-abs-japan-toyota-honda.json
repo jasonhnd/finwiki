@@ -55,9 +55,8 @@
     "7. Dealer floorplan ABS"
   ],
   "body_links": {
-    "wikilinks_count": 11,
+    "wikilinks_count": 10,
     "wikilinks": [
-      "JapanFG/INDEX",
       "card-issuers/toyota-finance",
       "leasing-firms/mitsubishi-hc-capital",
       "leasing-firms/toyota-financial",
@@ -70,7 +69,6 @@
       "trust-banks/sumitomo-mitsui-trust"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/card-issuers/toyota-finance",
       "https://finwiki.zksc.io/leasing-firms/mitsubishi-hc-capital",
       "https://finwiki.zksc.io/leasing-firms/toyota-financial",
@@ -86,9 +84,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6609,
-    "word_like_tokens": 1061,
+    "nonspace_chars": 6620,
+    "word_like_tokens": 1062,
     "inbound_wikilinks_count": 14,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

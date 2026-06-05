@@ -1,5 +1,5 @@
 ---
-source: japanfg/philippine-national-bank-japan
+source: foreign-financial-institutions/philippine-national-bank-japan
 source_hash: cd22ae9b3631b3ff
 lang: en
 status: machine
@@ -43,7 +43,7 @@ The branch is worth standalone treatment because its business is not just corpor
 
 ## Public Context
 
-PNB Japan sits between two domains. It is a licensed foreign-bank branch in [[JapanFG/INDEX|JapanFG]], but its user-facing importance often appears in remittance and household-finance workflows that belong with [[payments/INDEX|payments]].
+PNB Japan sits between two domains. It is a licensed foreign-bank branch in [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]], but its user-facing importance often appears in remittance and household-finance workflows that belong with [[payments/INDEX|payments]].
 
 This makes it different from US or European wholesale branches. For Philippine-Japan flows, the relevant comparison is [[foreign-financial-institutions/metrobank-japan|Metrobank Japan]], plus non-bank remittance operators such as [[payment-firms/western-union-japan|Western Union Japan]], [[payment-firms/sbi-remit|SBI Remit]], and [[payment-firms/wise-payments-japan|Wise Payments Japan]].
 
@@ -57,7 +57,7 @@ This makes it different from US or European wholesale branches. For Philippine-J
 
 ## Related
 
-- [[JapanFG/INDEX]]
+- [[foreign-financial-institutions/INDEX]]
 - [[foreign-financial-institutions/foreign-bank-branches-japan-index]]
 - [[foreign-financial-institutions/metrobank-japan]]
 - [[financial-licenses/foreign-bank-branch-license-route]]

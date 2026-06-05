@@ -1,5 +1,5 @@
 ---
-source: japanfg/daiwa-living-trust
+source: trust-banks/daiwa-living-trust
 source_hash: cb335cfc450de5b7
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:25:12.411Z
 
 ## ウィキ上の位置づけ
 
-大和リビング信託は [[JapanFG/INDEX|JapanFG]] 配下の独立した信託会社ルートであり、[[trust-banks/trust-companies-japan-index|the Japan trust companies registry index]] から昇格した項目。[[banking/japan-trust-bank-custody-map|Japan trust-bank custody map]]、[[finance/japan-acquisition-finance|Japan acquisition finance]]、[[trust-banks/starts-trust|Starts Trust]] とあわせて読む。
+大和リビング信託は [[trust-banks/INDEX|trust-banks INDEX]] 配下の独立した信託会社ルートであり、[[trust-banks/trust-companies-japan-index|the Japan trust companies registry index]] から昇格した項目。[[banking/japan-trust-bank-custody-map|Japan trust-bank custody map]]、[[finance/japan-acquisition-finance|Japan acquisition finance]]、[[trust-banks/starts-trust|Starts Trust]] とあわせて読む。
 
 賃貸住宅信託、不動産管理信託、家族への資産承継、住宅所有者向け信託を扱うときにこのページを使う。
 
@@ -58,7 +58,7 @@ translated_at: 2026-06-02T14:25:12.411Z
 
 ## 関連項目
 
-- [[JapanFG/INDEX]]
+- [[trust-banks/INDEX]]
 - [[trust-banks/trust-companies-japan-index]]
 - [[banking/japan-trust-bank-custody-map]]
 - [[policy-finance/japan-housing-finance-agency]]

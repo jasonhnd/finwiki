@@ -1,5 +1,5 @@
 ---
-source: japanfg/aplus
+source: card-issuers/aplus
 source_hash: f3f9059229cfb656
 lang: zh
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-05-31T11:13:44.879Z
 
 ## 维基路线
 
-该条目位于[[JapanFG/INDEX|JapanFG index]]。阅读它与[[banking/INDEX|banking index]]对于相邻的上下文和[[securities/INDEX|securities index]]为更广泛的系统边界。
+该条目位于[[card-issuers/INDEX|card-issuers INDEX]]。阅读它与[[banking/INDEX|banking index]]对于相邻的上下文和[[securities/INDEX|securities index]]为更广泛的系统边界。
 
 ##TL;博士
 

@@ -1,5 +1,5 @@
 ---
-source: japanfg/sompo
+source: non-life-insurers/sompo
 source_hash: 131ee9bb9bec9b55
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.119Z
 
 ## 维基路线
 
-该条目位于 [[JapanFG/INDEX|JapanFG index]] 下。对照 [[non-life-insurers/msad|MS&AD インシュアランス グループ ホールディングス]] 来了解同行/对比环境，对照 [[banking/INDEX|banking index]] 来了解更广泛的系统/监管边界。
+该条目位于 [[non-life-insurers/INDEX|non-life-insurers INDEX]] 下。对照 [[non-life-insurers/msad|MS&AD インシュアランス グループ ホールディングス]] 来了解同行/对比环境，对照 [[banking/INDEX|banking index]] 来了解更广泛的系统/监管边界。
 
 ## 长篇大论；博士
 

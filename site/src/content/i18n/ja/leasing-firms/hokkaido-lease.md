@@ -1,5 +1,5 @@
 ---
-source: japanfg/hokkaido-lease
+source: leasing-firms/hokkaido-lease
 source_hash: 52e2e7afc49ffe5f
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:25:12.435Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の下に置く。全国系準大手と地域系キャプティブの比較・対照軸は [[leasing-firms/fuyo-lease|芙蓉総合リース]]、より広い制度・規制境界は [[banking/INDEX|banking index]] とあわせて読む。親会社・地域文脈は [[regional-banks/hokkaido-bank|北海道銀行]] と [[regional-banks/hokuyo-bank|北洋銀行]] と一緒に読む。
+この項目は [[leasing-firms/INDEX|leasing-firms INDEX]] の下に置く。全国系準大手と地域系キャプティブの比較・対照軸は [[leasing-firms/fuyo-lease|芙蓉総合リース]]、より広い制度・規制境界は [[banking/INDEX|banking index]] とあわせて読む。親会社・地域文脈は [[regional-banks/hokkaido-bank|北海道銀行]] と [[regional-banks/hokuyo-bank|北洋銀行]] と一緒に読む。
 
 ## 要約
 

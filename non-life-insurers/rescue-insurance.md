@@ -17,7 +17,7 @@ sources:
 
 # Rescue Insurance / レスキュー損害保険
 
-Wiki route: [[JapanFG/INDEX]] -> [[insurance/INDEX]] -> [[non-life-insurers/rescue-insurance]]
+Wiki route: [[non-life-insurers/INDEX]] -> [[insurance/INDEX]] -> [[non-life-insurers/rescue-insurance]]
 
 ## Overview
 

@@ -1,5 +1,5 @@
 ---
-source: japanfg/japan-policy-finance-map
+source: financial-regulators/japan-policy-finance-map
 source_hash: 6e77ae2ae9262aa3
 lang: en
 status: machine

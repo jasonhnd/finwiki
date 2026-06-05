@@ -1,5 +1,5 @@
 ---
-source: japanfg/castglobal-trust
+source: trust-banks/castglobal-trust
 source_hash: 992cb7c0fa79dca2
 lang: ja
 status: machine
@@ -9,7 +9,7 @@ translated_at: 2026-06-02T14:01:20.940Z
 ---
 # キャストグローバル信託
 
-ウィキ上の位置づけ: [[JapanFG/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/castglobal-trust]]
+ウィキ上の位置づけ: [[trust-banks/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/castglobal-trust]]
 
 ## 概要
 

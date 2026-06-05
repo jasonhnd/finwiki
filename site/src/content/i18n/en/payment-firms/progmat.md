@@ -1,5 +1,5 @@
 ---
-source: japanfg/progmat
+source: payment-firms/progmat
 source_hash: 79f1b32dc3223e3e
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T00:41:50.475Z
 
 ## Wiki Route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it with [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for adjacent context and [[payments/INDEX|payments index]] for the broader system boundary.
+This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it with [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for adjacent context and [[payments/INDEX|payments index]] for the broader system boundary.
 
 ## TL;DR
 

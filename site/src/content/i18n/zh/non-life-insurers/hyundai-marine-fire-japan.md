@@ -1,5 +1,5 @@
 ---
-source: japanfg/hyundai-marine-fire-japan
+source: non-life-insurers/hyundai-marine-fire-japan
 source_hash: b70049ba38a58126
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T15:29:03.933Z
 
 ## Wiki 路线
 
-本条目位于 [[JapanFG/INDEX|JapanFG 索引]]，用于记录韩国 Hyundai Marine & Fire Insurance 的日本非寿险业务触点。
+本条目位于 [[non-life-insurers/INDEX|non-life-insurers INDEX]]，用于记录韩国 Hyundai Marine & Fire Insurance 的日本非寿险业务触点。
 
 ## 概要
 

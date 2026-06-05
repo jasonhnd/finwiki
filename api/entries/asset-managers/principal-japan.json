@@ -38,7 +38,7 @@
       "Principal Financial Group Annual Report (公開版・NASDAQ: PFG)"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against Manulife Life Insurance Japan and NN Life Japan for foreign-financial-group peer context, and insurance index for the broader Japan retirement / insurance system / regulatory boundary.",
+  "summary": "This entry sits under asset-managers INDEX. Read it against Manulife Life Insurance Japan and NN Life Japan for foreign-financial-group peer context, and insurance index for the broader Japan retirement / insurance system / regulatory boundary.",
   "headings": [
     "Principal Japan / プリンシパル・ジャパン",
     "Wiki route",
@@ -52,7 +52,7 @@
   "body_links": {
     "wikilinks_count": 12,
     "wikilinks": [
-      "JapanFG/INDEX",
+      "asset-managers/INDEX",
       "asset-managers/asset-management-one",
       "financial-licenses/foreign-financial-group-adjacent-licenses",
       "financial-licenses/insurance-license-and-solvency",
@@ -66,7 +66,7 @@
       "life-insurers/prudential-japan"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/asset-managers/INDEX",
       "https://finwiki.zksc.io/asset-managers/asset-management-one",
       "https://finwiki.zksc.io/financial-licenses/foreign-financial-group-adjacent-licenses",
       "https://finwiki.zksc.io/financial-licenses/insurance-license-and-solvency",
@@ -83,9 +83,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5472,
-    "word_like_tokens": 798,
+    "nonspace_chars": 5486,
+    "word_like_tokens": 800,
     "inbound_wikilinks_count": 3,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

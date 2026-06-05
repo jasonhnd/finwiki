@@ -1,5 +1,5 @@
 ---
-source: japanfg/aichi-iryo-shinkumi
+source: cooperative-banks/aichi-iryo-shinkumi
 source_hash: ff63a7b3799af047
 lang: ja
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-02T14:01:20.952Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の下に置かれ、中京圏の **業域（医療職域）信用組合アンカー**として、職域型の [[cooperative-banks/keishicho-shinkumi|警視庁職員信用組合]]（警察）および [[cooperative-banks/tokyo-to-shokuin-shinkumi|東京都職員信用組合]]（公務員）と並ぶ。医療系信組は、日本の 143 協同組織金融のうち [[banking/credit-cooperative-registry-japan|Japan credit cooperative registry]] に整理された母集団で **最大の単一業域カテゴリ**を形成する。
+この項目は [[cooperative-banks/INDEX|cooperative-banks INDEX]] の下に置かれ、中京圏の **業域（医療職域）信用組合アンカー**として、職域型の [[cooperative-banks/keishicho-shinkumi|警視庁職員信用組合]]（警察）および [[cooperative-banks/tokyo-to-shokuin-shinkumi|東京都職員信用組合]]（公務員）と並ぶ。医療系信組は、日本の 143 協同組織金融のうち [[banking/credit-cooperative-registry-japan|Japan credit cooperative registry]] に整理された母集団で **最大の単一業域カテゴリ**を形成する。
 
 ## 要約
 
@@ -136,7 +136,7 @@ translated_at: 2026-06-02T14:01:20.952Z
 - [[banking/credit-cooperative-registry-japan]] — Japan credit cooperative registry (143 shinkumi 全体)
 - [[banking/cooperative-banking-japan]] — 協同組織金融全体
 - [[cooperative-banks/iwaki-shinkumi]] — いわき信用組合 (ピア 地域型信組、業態対比)
-- [[JapanFG/INDEX|JapanFG index]]
+- [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 
 ## 出典
 

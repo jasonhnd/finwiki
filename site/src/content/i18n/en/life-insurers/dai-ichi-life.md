@@ -1,5 +1,5 @@
 ---
-source: japanfg/dai-ichi-life
+source: life-insurers/dai-ichi-life
 source_hash: b0f7f138f202d270
 lang: en
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T15:29:03.872Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[life-insurers/nippon-life|Nippon Life Insurance Company (mutual company)]] for peer / contrast context and [[insurance/INDEX|insurance index]] for the broader system / regulatory boundary.
+This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it against [[life-insurers/nippon-life|Nippon Life Insurance Company (mutual company)]] for peer / contrast context and [[insurance/INDEX|insurance index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 

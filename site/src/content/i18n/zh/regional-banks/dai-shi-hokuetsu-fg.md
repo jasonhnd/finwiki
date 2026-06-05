@@ -1,5 +1,5 @@
 ---
-source: japanfg/dai-shi-hokuetsu-fg
+source: regional-banks/dai-shi-hokuetsu-fg
 source_hash: 20f00da1740754fb
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T15:29:03.895Z
 
 ## 维基路线
 
-此条目位于 [[JapanFG/INDEX|JapanFG index]] 下。针对同行/对比背景阅读 [[regional-banks/fukuoka-fg|ふくおか FG (FFG)]]，针对更广泛的系统/监管边界阅读 [[banking/INDEX|banking index]]。
+此条目位于 [[regional-banks/INDEX|regional-banks INDEX]] 下。针对同行/对比背景阅读 [[regional-banks/fukuoka-fg|ふくおか FG (FFG)]]，针对更广泛的系统/监管边界阅读 [[banking/INDEX|banking index]]。
 
 ##TL;博士
 

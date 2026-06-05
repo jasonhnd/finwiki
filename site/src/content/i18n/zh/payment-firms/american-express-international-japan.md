@@ -1,5 +1,5 @@
 ---
-source: japanfg/american-express-international-japan
+source: payment-firms/american-express-international-japan
 source_hash: b7ca411b244489ae
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T11:13:44.914Z
 
 ## Wiki 路径
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可与 [[card-issuers/jcb|JCB]] 对照阅读；JCB 与 Amex 都具有三方方案特征，并存在历史合作关系。也可结合 [[payments/japan-card-issuer-acquirer-processor-split|日本卡发行 / 收单 / 处理机构拆分]] 理解更广的支付系统边界。
+本条目位于 [[payment-firms/INDEX|payment-firms INDEX]] 之下。可与 [[card-issuers/jcb|JCB]] 对照阅读；JCB 与 Amex 都具有三方方案特征，并存在历史合作关系。也可结合 [[payments/japan-card-issuer-acquirer-processor-split|日本卡发行 / 收单 / 处理机构拆分]] 理解更广的支付系统边界。
 
 ## 1. 牌照与集团边界
 

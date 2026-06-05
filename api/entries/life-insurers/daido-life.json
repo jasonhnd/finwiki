@@ -37,7 +37,7 @@
       "https://www.daido-life.co.jp/"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against T&Dフィナンシャル生命保険 for peer / contrast context and insurance index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under life-insurers INDEX. Read it against T&Dフィナンシャル生命保険 for peer / contrast context and insurance index for the broader system / regulatory boundary.",
   "headings": [
     "大同生命保険",
     "Wiki route",
@@ -51,20 +51,20 @@
   "body_links": {
     "wikilinks_count": 8,
     "wikilinks": [
-      "JapanFG/INDEX",
       "insurance/INDEX",
       "insurance/life-insurance-channel-mix",
       "jfc",
+      "life-insurers/INDEX",
       "life-insurers/td-financial-life",
       "policy-finance/INDEX",
       "taiyo-life",
       "td-hd"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/insurance/INDEX",
       "https://finwiki.zksc.io/insurance/life-insurance-channel-mix",
       "https://finwiki.zksc.io/jfc",
+      "https://finwiki.zksc.io/life-insurers/INDEX",
       "https://finwiki.zksc.io/life-insurers/td-financial-life",
       "https://finwiki.zksc.io/policy-finance/INDEX",
       "https://finwiki.zksc.io/taiyo-life",
@@ -74,9 +74,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1881,
-    "word_like_tokens": 307,
+    "nonspace_chars": 1893,
+    "word_like_tokens": 309,
     "inbound_wikilinks_count": 9,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

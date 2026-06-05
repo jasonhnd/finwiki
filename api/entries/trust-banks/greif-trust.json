@@ -34,7 +34,7 @@
       "Greif Trust company profile: https://www.greif-trust.com/company/"
     ]
   },
-  "summary": "Wiki route: JapanFG/INDEX -> trust-banks/trust-companies-japan-index -> trust-banks/greif-trust",
+  "summary": "Wiki route: trust-banks/INDEX -> trust-banks/trust-companies-japan-index -> trust-banks/greif-trust",
   "headings": [
     "Greif Trust / グライフ信託",
     "Overview",
@@ -49,8 +49,8 @@
     "wikilinks_count": 7,
     "wikilinks": [
       "INDEX",
-      "JapanFG/INDEX",
       "financial-licenses/securities-license-stack",
+      "trust-banks/INDEX",
       "trust-banks/greif-trust",
       "trust-banks/miyoshi-smile-trust",
       "trust-banks/sumire-regional-trust",
@@ -58,8 +58,8 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/financial-licenses/securities-license-stack",
+      "https://finwiki.zksc.io/trust-banks/INDEX",
       "https://finwiki.zksc.io/trust-banks/greif-trust",
       "https://finwiki.zksc.io/trust-banks/miyoshi-smile-trust",
       "https://finwiki.zksc.io/trust-banks/sumire-regional-trust",
@@ -69,9 +69,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2111,
-    "word_like_tokens": 324,
+    "nonspace_chars": 2115,
+    "word_like_tokens": 325,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

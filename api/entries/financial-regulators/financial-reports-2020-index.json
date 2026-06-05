@@ -35,7 +35,7 @@
       "Official company IR / disclosure / annual-report archive URLs listed per row"
     ]
   },
-  "summary": "本ページは JapanFG namespace 中の金融会社 / 金融機関の 2020 年以降の公式財務報告、統合報告書、ディスクロージャー誌、有価証券報告書、親会社年次報告書入口 を一つのインデックスにまとめている。",
+  "summary": "本ページは financial-regulators INDEX 中の金融会社 / 金融機関の 2020 年以降の公式財務報告、統合報告書、ディスクロージャー誌、有価証券報告書、親会社年次報告書入口 を一つのインデックスにまとめている。",
   "headings": [
     "JapanFG financial reports 2020+ index",
     "TL;DR",
@@ -51,7 +51,6 @@
   "body_links": {
     "wikilinks_count": 172,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "card-issuers/aeon-bank",
       "card-issuers/credit-saison",
@@ -67,6 +66,7 @@
       "cooperative-banks/zenshin-kumi",
       "finance/INDEX",
       "financial-licenses/INDEX",
+      "financial-regulators/INDEX",
       "financial-regulators/boj-monetary-policy",
       "financial-regulators/central-tanshi",
       "financial-regulators/dbj",
@@ -133,7 +133,6 @@
       "non-life-insurers/sbi-insurance-group"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/card-issuers/aeon-bank",
       "https://finwiki.zksc.io/card-issuers/credit-saison",
@@ -149,6 +148,7 @@
       "https://finwiki.zksc.io/cooperative-banks/zenshin-kumi",
       "https://finwiki.zksc.io/finance/INDEX",
       "https://finwiki.zksc.io/financial-licenses/INDEX",
+      "https://finwiki.zksc.io/financial-regulators/INDEX",
       "https://finwiki.zksc.io/financial-regulators/boj-monetary-policy",
       "https://finwiki.zksc.io/financial-regulators/central-tanshi",
       "https://finwiki.zksc.io/financial-regulators/dbj",
@@ -259,9 +259,9 @@
     ]
   },
   "metrics": {
-    "nonspace_chars": 38398,
-    "word_like_tokens": 5669,
+    "nonspace_chars": 38446,
+    "word_like_tokens": 5673,
     "inbound_wikilinks_count": 1,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

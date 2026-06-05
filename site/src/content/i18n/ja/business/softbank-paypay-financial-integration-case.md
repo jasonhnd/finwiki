@@ -13,7 +13,7 @@ translated_at: 2026-06-05T00:00:00.000Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[business/INDEX|business INDEX]] の下に上場企業の戦略的事例として位置する。対照的な「銀行を保有し、証券をメガバンクに引き渡す」分業として [[business/kddi-au-financial-bundling-case|KDDI au financial bundling case]] に、パートナー主導の銀行モデルとして [[business/ntt-docomo-d-point-telco-finance-case|NTT Docomo d-Point telco-finance case]] に、あらゆる金融バーティカルを保有するもう一つのスーパーアプリとして [[business/rakuten-group-mobile-finance-bundling-case|Rakuten Group mobile-finance bundling case]] に照らして読むこと。事業体プロフィールについては [[megabanks/paypay-fg|PayPay (financial group)]]、[[card-issuers/paypay-card|PayPay Card]]、[[securities-firms/paypay-securities|PayPay Securities]] を参照のこと。[[JapanFG/INDEX|JapanFG payments / cards / leasing index]]、[[payments/cashless-jp-landscape|Japan cashless payment landscape]]、および [[loyalty/sb-yahoo-paypay-points-unified-ecosystem|SoftBank / Yahoo / PayPay points ecosystem]] とあわせて参照のこと。
+この項目は [[business/INDEX|business INDEX]] の下に上場企業の戦略的事例として位置する。対照的な「銀行を保有し、証券をメガバンクに引き渡す」分業として [[business/kddi-au-financial-bundling-case|KDDI au financial bundling case]] に、パートナー主導の銀行モデルとして [[business/ntt-docomo-d-point-telco-finance-case|NTT Docomo d-Point telco-finance case]] に、あらゆる金融バーティカルを保有するもう一つのスーパーアプリとして [[business/rakuten-group-mobile-finance-bundling-case|Rakuten Group mobile-finance bundling case]] に照らして読むこと。事業体プロフィールについては [[megabanks/paypay-fg|PayPay (financial group)]]、[[card-issuers/paypay-card|PayPay Card]]、[[securities-firms/paypay-securities|PayPay Securities]] を参照のこと。[[business/INDEX|business INDEX]]、[[payments/cashless-jp-landscape|Japan cashless payment landscape]]、および [[loyalty/sb-yahoo-paypay-points-unified-ecosystem|SoftBank / Yahoo / PayPay points ecosystem]] とあわせて参照のこと。
 
 ## TL;DR
 
@@ -128,7 +128,6 @@ PayPay の事例は、**決済アプリ主導の金融統合**のテンプレー
 - [[megabanks/paypay-fg|PayPay financial group]]
 - [[card-issuers/paypay-card|PayPay Card]]
 - [[securities-firms/paypay-securities|PayPay Securities]]
-- [[JapanFG/INDEX|JapanFG payments / cards / leasing index]]
 - [[payments/cashless-jp-landscape|Japan cashless payment landscape]]
 - [[loyalty/sb-yahoo-paypay-points-unified-ecosystem|SoftBank / Yahoo / PayPay points ecosystem]]
 - [[fintech/ai-payment-two-tracks|AI payment two tracks]]

@@ -1,5 +1,5 @@
 ---
-source: japanfg/kansai-mirai-bank
+source: regional-banks/kansai-mirai-bank
 source_hash: 89ef52bf1a38d3ef
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:59:49.324Z
 
 ## Wiki 路径
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 下。可与 [[regional-banks/ikeda-senshu-bank|池田泉州銀行]] 对读，作为同业 / 对照语境；也可与 [[banking/INDEX|banking index]] 对读，理解更广的系统与监管边界。
+本条目位于 [[regional-banks/INDEX|regional-banks INDEX]] 下。可与 [[regional-banks/ikeda-senshu-bank|池田泉州銀行]] 对读，作为同业 / 对照语境；也可与 [[banking/INDEX|banking index]] 对读，理解更广的系统与监管边界。
 
 ## TL;DR
 

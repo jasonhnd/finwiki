@@ -1,5 +1,5 @@
 ---
-source: japanfg/concordia-fg
+source: regional-banks/concordia-fg
 source_hash: b30ca46b655607dc
 lang: ja
 status: machine
@@ -27,7 +27,7 @@ translated_at: 2026-06-02T14:01:20.934Z
 
 以下の参照キーは原文の占位符を出現順のまま保持したものである。翻訳時に削除、改変、統合、並べ替えを行わない。
 
-- [[JapanFG/INDEX|JapanFG index]]
+- [[regional-banks/INDEX|regional-banks INDEX]]
 - [[regional-banks/fukuoka-fg|ふくおか FG (FFG)]]
 - [[banking/INDEX|banking index]]
 - 19.7 兆円

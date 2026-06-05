@@ -38,7 +38,7 @@
       "https://www.ingwb.com/en/network/asia-pacific/japan-info"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against クレディ・アグリコル銀行 東京支店 for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under foreign-financial-institutions INDEX. Read it against クレディ・アグリコル銀行 東京支店 for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [
     "アイエヌジーバンク エヌ・ヴイ 東京支店",
     "Wiki route",
@@ -52,18 +52,18 @@
   "body_links": {
     "wikilinks_count": 7,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "banking/foreign-bank-japan-retreat",
+      "foreign-financial-institutions/INDEX",
       "foreign-financial-institutions/bbva-bank-japan",
       "foreign-financial-institutions/commerzbank-japan",
       "foreign-financial-institutions/credit-agricole-bank-japan",
       "foreign-financial-institutions/intesa-sanpaolo-japan"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/foreign-bank-japan-retreat",
+      "https://finwiki.zksc.io/foreign-financial-institutions/INDEX",
       "https://finwiki.zksc.io/foreign-financial-institutions/bbva-bank-japan",
       "https://finwiki.zksc.io/foreign-financial-institutions/commerzbank-japan",
       "https://finwiki.zksc.io/foreign-financial-institutions/credit-agricole-bank-japan",
@@ -73,9 +73,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2676,
-    "word_like_tokens": 422,
+    "nonspace_chars": 2722,
+    "word_like_tokens": 426,
     "inbound_wikilinks_count": 8,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

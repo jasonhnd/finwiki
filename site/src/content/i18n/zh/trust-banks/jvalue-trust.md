@@ -1,5 +1,5 @@
 ---
-source: japanfg/jvalue-trust
+source: trust-banks/jvalue-trust
 source_hash: 75400b1ced507fc1
 lang: zh
 status: machine
@@ -9,7 +9,7 @@ translated_at: 2026-05-31T23:05:42.094Z
 ---
 # JValue Trust / JValue Trust Co., Ltd.
 
-Wiki route: [[JapanFG/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/jvalue-trust]]
+Wiki route: [[trust-banks/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/jvalue-trust]]
 
 ## Overview
 

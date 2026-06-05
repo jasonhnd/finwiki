@@ -19,7 +19,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[financial-regulators/boj|日本銀行]] for the central-bank counterpart, and [[financial-regulators/dic|預金保険機構]] / [[financial-regulators/sonpo-hosho-kiko|損保機構]] / [[financial-regulators/seimei-hokensha-hogo-kiko|生保機構]] for the safety-net peers it supervises.
+This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]]. Read it against [[financial-regulators/boj|日本銀行]] for the central-bank counterpart, and [[financial-regulators/dic|預金保険機構]] / [[financial-regulators/sonpo-hosho-kiko|損保機構]] / [[financial-regulators/seimei-hokensha-hogo-kiko|生保機構]] for the safety-net peers it supervises.
 
 ## TL;DR
 
@@ -137,7 +137,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[financi
 - [[financial-regulators/boj|日本銀行]] · [[financial-regulators/dic|預金保険機構]] · [[financial-regulators/sonpo-hosho-kiko|損保機構]] · [[financial-regulators/seimei-hokensha-hogo-kiko|生保機構]]
 - [[financial-regulators/japan-exchange-group|日本取引所グループ]] · [[financial-regulators/jsda|日本証券業協会]]
 - [[financial-regulators/jcr|JCR]] · [[financial-regulators/rating-and-investment|R&I]]
-- [[JapanFG/INDEX|JapanFG index]]
+- [[financial-regulators/INDEX|financial-regulators INDEX]]
 
 ## Sources
 

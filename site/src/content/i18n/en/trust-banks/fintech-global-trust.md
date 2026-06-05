@@ -1,5 +1,5 @@
 ---
-source: japanfg/fintech-global-trust
+source: trust-banks/fintech-global-trust
 source_hash: a7bbc2ab91c31a5e
 lang: en
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T15:29:03.898Z
 
 ## Wiki route
 
-Fintech Global Trust is a standalone trust-company route under [[JapanFG/INDEX|JapanFG]] and is promoted from [[trust-banks/trust-companies-japan-index|the Japan trust companies registry index]]. Read it with [[finance/japan-acquisition-finance|Japan acquisition finance]], [[finance/cross-border-m-a-japan|cross-border M&A Japan]], and [[banking/japan-trust-bank-custody-map|Japan trust-bank custody map]].
+Fintech Global Trust is a standalone trust-company route under [[trust-banks/INDEX|trust-banks INDEX]] and is promoted from [[trust-banks/trust-companies-japan-index|the Japan trust companies registry index]]. Read it with [[finance/japan-acquisition-finance|Japan acquisition finance]], [[finance/cross-border-m-a-japan|cross-border M&A Japan]], and [[banking/japan-trust-bank-custody-map|Japan trust-bank custody map]].
 
 Use this page for structured-finance trust functions, asset administration, and FGI group trust-service questions.
 
@@ -59,7 +59,7 @@ Specific products, investors, or returns should be added only when supported by 
 
 ## Related
 
-- [[JapanFG/INDEX]]
+- [[trust-banks/INDEX]]
 - [[trust-banks/trust-companies-japan-index]]
 - [[trust-banks/fpg-trust]]
 - [[banking/japan-trust-bank-custody-map]]

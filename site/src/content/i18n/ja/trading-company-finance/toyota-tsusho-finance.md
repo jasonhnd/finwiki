@@ -1,5 +1,5 @@
 ---
-source: japanfg/toyota-tsusho-finance
+source: trading-company-finance/toyota-tsusho-finance
 source_hash: b38a8fec431de266
 lang: ja
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-02T16:33:58.473Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に置かれる。[[leasing-firms/toyota-financial|トヨタファイナンシャルサービス (TFS)]]（Toyota グループの **captive auto-finance** 持株会社で、本ページの商社系内部財務部門とは異なる）および [[card-issuers/toyota-finance|トヨタファイナンス]]（オートローン / Toyota ディーラー金融の運営会社）とあわせて読む。商社系グループ財務部門のピアについては [[trading-company-finance/mitsubishi-corp-finance|三菱商事FS]]、[[trading-company-finance/mitsui-bussan-financial-services|三井物産FS]]、[[trading-company-finance/sumitomo-corp-financial-management|住友商事FM]]、[[trading-company-finance/itochu-finance|伊藤忠ファイナンス]]、[[trading-company-finance/marubeni-financial-services|丸紅フィナンス]] を参照する。より広い規制上の境界については [[banking/INDEX|banking index]] を参照。
+この項目は [[trading-company-finance/INDEX|trading-company-finance INDEX]] の配下に置かれる。[[leasing-firms/toyota-financial|トヨタファイナンシャルサービス (TFS)]]（Toyota グループの **captive auto-finance** 持株会社で、本ページの商社系内部財務部門とは異なる）および [[card-issuers/toyota-finance|トヨタファイナンス]]（オートローン / Toyota ディーラー金融の運営会社）とあわせて読む。商社系グループ財務部門のピアについては [[trading-company-finance/mitsubishi-corp-finance|三菱商事FS]]、[[trading-company-finance/mitsui-bussan-financial-services|三井物産FS]]、[[trading-company-finance/sumitomo-corp-financial-management|住友商事FM]]、[[trading-company-finance/itochu-finance|伊藤忠ファイナンス]]、[[trading-company-finance/marubeni-financial-services|丸紅フィナンス]] を参照する。より広い規制上の境界については [[banking/INDEX|banking index]] を参照。
 
 ## 1. 会社概要
 

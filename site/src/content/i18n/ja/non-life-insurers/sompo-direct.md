@@ -1,5 +1,5 @@
 ---
-source: japanfg/sompo-direct
+source: non-life-insurers/sompo-direct
 source_hash: 005ab2b01eae0462
 lang: ja
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-02T15:14:17.120Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の下に位置づけます。ピア比較・対照の文脈では [[non-life-insurers/sompo-japan-insurance|損害保険ジャパン]]、より広い制度・規制上の境界では [[insurance/INDEX|insurance index]] とあわせて読んでください。
+この項目は [[non-life-insurers/INDEX|non-life-insurers INDEX]] の下に位置づけます。ピア比較・対照の文脈では [[non-life-insurers/sompo-japan-insurance|損害保険ジャパン]]、より広い制度・規制上の境界では [[insurance/INDEX|insurance index]] とあわせて読んでください。
 
 ## 要約
 

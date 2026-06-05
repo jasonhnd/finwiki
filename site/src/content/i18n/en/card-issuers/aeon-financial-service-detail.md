@@ -1,5 +1,5 @@
 ---
-source: japanfg/aeon-financial-service-detail
+source: card-issuers/aeon-financial-service-detail
 source_hash: 3fb50625048a46ca
 lang: en
 status: machine
@@ -15,7 +15,7 @@ translated_at: 2026-05-31T11:13:44.927Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]] as the operating-company anchor for the finance-related subsidiaries of Dentsu Group Inc., TSE Prime 4324 and one of the world's five largest advertising companies. The scope covers Dentsu Ventures as corporate venture capital, Dentsu Capital as an M&A and strategic-investment function, advertiser billing and payment functions, and international-office finance functions. Read it against Hakuhodo DY HD and WPP Japan for media-industry peer context, against manufacturer captive-finance subsidiaries such as [[card-issuers/toyota-finance|Toyota Finance]], [[JapanFG/sony-finance|Sony Finance]], and [[JapanFG/nissan-finance|Nissan Financial]] for the industrial captive-finance peer cluster, and against [[asset-management/cvc-japan-landscape|Japan CVC landscape]] for the corporate-venture context.
+This entry sits under [[card-issuers/INDEX|card-issuers INDEX]] as the operating-company anchor for the finance-related subsidiaries of Dentsu Group Inc., TSE Prime 4324 and one of the world's five largest advertising companies. The scope covers Dentsu Ventures as corporate venture capital, Dentsu Capital as an M&A and strategic-investment function, advertiser billing and payment functions, and international-office finance functions. Read it against Hakuhodo DY HD and WPP Japan for media-industry peer context, against manufacturer captive-finance subsidiaries such as [[card-issuers/toyota-finance|Toyota Finance]], [[JapanFG/sony-finance|Sony Finance]], and [[JapanFG/nissan-finance|Nissan Financial]] for the industrial captive-finance peer cluster, and against [[asset-management/cvc-japan-landscape|Japan CVC landscape]] for the corporate-venture context.
 
 ## TL;DR
 
@@ -152,7 +152,7 @@ Dentsu Group Inc. (TSE PRIME 4324)
 - [[JapanFG/nissan-finance]] — Manufacturer captive-finance peer
 - [[megabanks/sbi-hd]] — Major CVC/Investment Group Peer
 - [[asset-management/cvc-japan-landscape]] — Japan CVC Landscape
-- [[JapanFG/INDEX]] — JapanFG namespace index
+- [[card-issuers/INDEX]] — JapanFG namespace index
 
 ## Sources
 

@@ -1,5 +1,5 @@
 ---
-source: japanfg/sonpo-hosho-kiko
+source: financial-regulators/sonpo-hosho-kiko
 source_hash: bf77b2ef80e31ac0
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.127Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[financial-regulators/seimei-hokensha-hogo-kiko|Life Insurance Policyholders Protection Corporation of Japan]] for parallel safety-net peer and [[financial-regulators/dic|Deposit Insurance Corporation of Japan]] / [[financial-regulators/fsa|Financial Services Agency]] for the broader system / regulatory boundary.
+This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]]. Read it against [[financial-regulators/seimei-hokensha-hogo-kiko|Life Insurance Policyholders Protection Corporation of Japan]] for parallel safety-net peer and [[financial-regulators/dic|Deposit Insurance Corporation of Japan]] / [[financial-regulators/fsa|Financial Services Agency]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
@@ -115,7 +115,7 @@ Expenditure
 - [[financial-regulators/fsa|Financial Services Agency]]
 - [[non-life-insurers/tokio-marine-hd|Tokio Marine Holdings]] · [[non-life-insurers/sompo-japan|Sompo Japan]] · [[non-life-insurers/mitsui-sumitomo|Mitsui Sumitomo Insurance]] · [[non-life-insurers/aioi-nissay-dowa-insurance|Aioi Nissay Dowa Insurance]]
 - [[insurance/INDEX|insurance index]]
-- [[JapanFG/INDEX|JapanFG index]]
+- [[financial-regulators/INDEX|financial-regulators INDEX]]
 
 ## Sources
 

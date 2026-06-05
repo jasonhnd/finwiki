@@ -1,5 +1,5 @@
 ---
-source: japanfg/fukuoka-fg
+source: regional-banks/fukuoka-fg
 source_hash: 39f2e1e2bc6f6700
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:25:12.406Z
 
 ## ウィキ上の位置づけ
 
-本項目は [[JapanFG/INDEX|JapanFG index]] の配下に置く。[[regional-banks/chiba-bank|千葉銀行 (Chiba Bank)]] を同業・対比の文脈として、[[banking/INDEX|banking index]] をより広い制度・規制境界として併読する。
+本項目は [[regional-banks/INDEX|regional-banks INDEX]] の配下に置く。[[regional-banks/chiba-bank|千葉銀行 (Chiba Bank)]] を同業・対比の文脈として、[[banking/INDEX|banking index]] をより広い制度・規制境界として併読する。
 
 ## 要約
 

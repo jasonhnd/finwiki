@@ -1,5 +1,5 @@
 ---
-source: japanfg/sojitz-corp
+source: financial-conglomerates/sojitz-corp
 source_hash: 068acbbc607d7766
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.159Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sogo shosha parent holding-company**. It is positioned after the five major trading houses and within the middle-tier / quasi-major trading-company group. Read it against [[financial-conglomerates/marubeni-corp|Marubeni]] and [[financial-conglomerates/toyota-tsusho-corp|Toyota Tsusho]] for peer / contrast context. For the financial-services adjacency that gives this entry its JapanFG anchor, see [[trading-company-finance/sojitz-finance|Sojitz Finance]], the internal CMS / group-finance arm that has the same model as major trading-house finance subsidiaries such as MCFS, MBFS, Itochu Finance, Marubeni Finance, and Sumitomo Corporation Financial Management. System frame: [[finance/INDEX|finance index]] and [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial-group investable universe]].
+This entry sits under [[financial-conglomerates/INDEX|financial-conglomerates INDEX]] as a **sogo shosha parent holding-company**. It is positioned after the five major trading houses and within the middle-tier / quasi-major trading-company group. Read it against [[financial-conglomerates/marubeni-corp|Marubeni]] and [[financial-conglomerates/toyota-tsusho-corp|Toyota Tsusho]] for peer / contrast context. For the financial-services adjacency that gives this entry its JapanFG anchor, see [[trading-company-finance/sojitz-finance|Sojitz Finance]], the internal CMS / group-finance arm that has the same model as major trading-house finance subsidiaries such as MCFS, MBFS, Itochu Finance, Marubeni Finance, and Sumitomo Corporation Financial Management. System frame: [[finance/INDEX|finance index]] and [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial-group investable universe]].
 
 ## 1. Company overview
 
@@ -109,7 +109,7 @@ Sojitz has strengthened profitability and shareholder returns, but still needs t
 
 ## Related
 
-- [[JapanFG/INDEX|JapanFG index]]
+- [[financial-conglomerates/INDEX|financial-conglomerates INDEX]]
 - [[financial-conglomerates/mitsubishi-corp|三菱商事]] · [[financial-conglomerates/mitsui-co|三井物産]] · [[financial-conglomerates/itochu-corp|伊藤忠商事]] · [[financial-conglomerates/sumitomo-corp|住友商事]] · [[financial-conglomerates/marubeni-corp|丸紅]] · [[financial-conglomerates/toyota-tsusho-corp|豊田通商]] (peer trading houses)
 - [[trading-company-finance/sojitz-finance|Sojitz Finance]] (internal group treasury)
 - [[leasing-firms/orix-corp|ORIX]] ? [[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]] ? [[leasing-firms/tokyo-century|Tokyo Century]] ? [[leasing-firms/smfl|SMFL]] ? [[leasing-firms/mizuho-lease|Mizuho Leasing]] (external leasing comparators)

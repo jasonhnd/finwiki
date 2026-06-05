@@ -1,5 +1,5 @@
 ---
-source: japanfg/sumitomo-mitsui-auto-service
+source: leasing-firms/sumitomo-mitsui-auto-service
 source_hash: 1bc5653f341c7ebb
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.102Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[leasing-firms/smfl|SMFL]], the sister general-leasing JV between the same parents, [[megabanks/smfg|SMFG]] + [[trading-company-finance/sumitomo-corp-financial-management|Sumitomo Corp Financial Management]], and against [[trading-company-finance/sumitomo-corp-financial-management|Sumitomo Corp Financial Management]], the Sumitomo Corp internal-treasury arm. For peer auto / fleet finance, see [[card-issuers/toyota-finance|Toyota Finance]] and [[leasing-firms/toyota-financial|TFS]]. For the trading-company financial peer set: [[trading-company-finance/mitsubishi-corp-finance|Mitsubishi Corporation Financial Services]] / [[trading-company-finance/mitsui-bussan-financial-services|Mitsui Bussan Financial Services]] / [[trading-company-finance/itochu-finance|ITOCHU Finance]] / [[trading-company-finance/marubeni-financial-services|Marubeni Financial Services]] / [[trading-company-finance/toyota-tsusho-finance|Toyota Tsusho Finance]] / [[trading-company-finance/sojitz-finance|Sojitz Finance]] / [[asset-managers/mitsubishi-corp-asset-management|Mitsubishi Corporation Asset Management]]. See [[banking/INDEX|banking index]] for the broader regulatory boundary.
+This entry sits under [[leasing-firms/INDEX|leasing-firms INDEX]]. Read it against [[leasing-firms/smfl|SMFL]], the sister general-leasing JV between the same parents, [[megabanks/smfg|SMFG]] + [[trading-company-finance/sumitomo-corp-financial-management|Sumitomo Corp Financial Management]], and against [[trading-company-finance/sumitomo-corp-financial-management|Sumitomo Corp Financial Management]], the Sumitomo Corp internal-treasury arm. For peer auto / fleet finance, see [[card-issuers/toyota-finance|Toyota Finance]] and [[leasing-firms/toyota-financial|TFS]]. For the trading-company financial peer set: [[trading-company-finance/mitsubishi-corp-finance|Mitsubishi Corporation Financial Services]] / [[trading-company-finance/mitsui-bussan-financial-services|Mitsui Bussan Financial Services]] / [[trading-company-finance/itochu-finance|ITOCHU Finance]] / [[trading-company-finance/marubeni-financial-services|Marubeni Financial Services]] / [[trading-company-finance/toyota-tsusho-finance|Toyota Tsusho Finance]] / [[trading-company-finance/sojitz-finance|Sojitz Finance]] / [[asset-managers/mitsubishi-corp-asset-management|Mitsubishi Corporation Asset Management]]. See [[banking/INDEX|banking index]] for the broader regulatory boundary.
 
 ## 1. Company Overview
 
