@@ -15,7 +15,7 @@
 | Missing route link | 0 |
 | Missing peer link | 0 |
 | Missing system / regulatory link | 0 |
-| Changed or new entries in current worktree | 1 |
+| Changed or new entries in current worktree | 50 |
 | canonical_anchor declarations checked (informational) | 12 |
 | canonical_anchor drift (informational, non-gating) | 0 |
 
@@ -41,7 +41,56 @@
 
 | Path | State | Body | Issues |
 |---|---:|---:|---|
-| `INDEX.md` | `M` | 46 | ok |
+| `asset-managers/asset-management-one.md` | `M` | 15 | ok |
+| `asset-managers/daiwa-asset-management.md` | `M` | 11 | ok |
+| `asset-managers/mufg-asset-management.md` | `M` | 13 | ok |
+| `asset-managers/nikko-asset-management.md` | `M` | 12 | ok |
+| `asset-managers/nomura-asset-management.md` | `M` | 11 | ok |
+| `asset-managers/sbi-asset-management.md` | `M` | 12 | ok |
+| `asset-managers/smd-am.md` | `M` | 13 | ok |
+| `card-issuers/aeon-financial-service.md` | `M` | 16 | ok |
+| `card-issuers/epos-card.md` | `M` | 10 | ok |
+| `card-issuers/life-card.md` | `M` | 14 | ok |
+| `card-issuers/mufg-nicos.md` | `M` | 14 | ok |
+| `card-issuers/pocket-card.md` | `M` | 10 | ok |
+| `consumer-finance/smbc-consumer-finance.md` | `M` | 12 | ok |
+| `financial-regulators/rcc.md` | `M` | 12 | ok |
+| `leasing-firms/mitsubishi-hc-capital.md` | `M` | 11 | ok |
+| `life-insurers/credit-agricole-life.md` | `M` | 18 | ok |
+| `life-insurers/dai-ichi-life-insurance.md` | `M` | 19 | ok |
+| `life-insurers/dai-ichi-neo-life.md` | `M` | 17 | ok |
+| `life-insurers/fukokushinrai-life.md` | `M` | 21 | ok |
+| `life-insurers/meiji-yasuda-trust-life.md` | `M` | 14 | ok |
+| `life-insurers/midori-life.md` | `M` | 14 | ok |
+| `life-insurers/ms-primary-life.md` | `M` | 19 | ok |
+| `life-insurers/pgf-life.md` | `M` | 21 | ok |
+| `megabanks/mizuho-bank.md` | `M` | 13 | ok |
+| `megabanks/mufg-bank.md` | `M` | 10 | ok |
+| `megabanks/resona-bank.md` | `M` | 9 | ok |
+| `megabanks/saitama-resona-bank.md` | `M` | 10 | ok |
+| `megabanks/sumitomo-mitsui-banking-corp.md` | `M` | 13 | ok |
+| `non-life-insurers/anicom-hd.md` | `M` | 10 | ok |
+| `payment-firms/payoneer-japan.md` | `M` | 8 | ok |
+| `payment-firms/pring.md` | `M` | 7 | ok |
+| `payment-firms/rakuten-edy.md` | `M` | 10 | ok |
+| `payment-firms/sbi-remit.md` | `M` | 9 | ok |
+| `payment-firms/smartbank.md` | `M` | 7 | ok |
+| `payment-firms/travelex-japan.md` | `M` | 8 | ok |
+| `payment-firms/western-union-japan.md` | `M` | 9 | ok |
+| `securities-firms/dmm-com-securities.md` | `M` | 12 | ok |
+| `securities-firms/gmo-click-securities.md` | `M` | 16 | ok |
+| `securities-firms/mufg-esmart-securities.md` | `M` | 15 | ok |
+| `securities-firms/paypay-securities.md` | `M` | 12 | ok |
+| `securities-firms/saxo-bank-securities.md` | `M` | 11 | ok |
+| `securities-firms/sbi-fx-trade.md` | `M` | 15 | ok |
+| `securities-firms/sbi-securities.md` | `M` | 15 | ok |
+| `securities-firms/traders-securities.md` | `M` | 12 | ok |
+| `trust-banks/mitsubishi-ufj-trust-bank.md` | `M` | 16 | ok |
+| `trust-banks/mizuho-trust-bank.md` | `M` | 16 | ok |
+| `trust-banks/nochu-trust-bank.md` | `M` | 12 | ok |
+| `trust-banks/orix-bank.md` | `M` | 16 | ok |
+| `trust-banks/smbc-trust-bank.md` | `M` | 17 | ok |
+| `trust-banks/smtb.md` | `M` | 17 | ok |
 
 ## Domain Snapshot
 
@@ -49,11 +98,11 @@
 |---|---:|---:|---:|
 | `JapanFG` | 1 | 0 | 17.0 |
 | `agent-economy` | 41 | 0 | 13.5 |
-| `asset-managers` | 15 | 0 | 15.9 |
+| `asset-managers` | 15 | 0 | 18.4 |
 | `banking` | 40 | 0 | 42.9 |
 | `business` | 25 | 0 | 20.0 |
-| `card-issuers` | 24 | 0 | 15.1 |
-| `consumer-finance` | 6 | 0 | 14.8 |
+| `card-issuers` | 24 | 0 | 16.4 |
+| `consumer-finance` | 6 | 0 | 15.3 |
 | `control` | 1 | 0 | 207.0 |
 | `control-anchor` | 1 | 0 | 30.0 |
 | `control-bridge` | 1 | 0 | 116.0 |
@@ -67,34 +116,34 @@
 | `finance` | 27 | 0 | 23.0 |
 | `financial-conglomerates` | 8 | 0 | 25.6 |
 | `financial-licenses` | 8 | 0 | 47.3 |
-| `financial-regulators` | 53 | 0 | 21.8 |
+| `financial-regulators` | 53 | 0 | 21.9 |
 | `fintech` | 144 | 0 | 10.9 |
 | `finwiki` | 1 | 0 | 46.0 |
 | `foreign-financial-institutions` | 58 | 0 | 12.2 |
 | `governance` | 1 | 0 | 31.0 |
 | `insurance` | 33 | 0 | 42.7 |
 | `leasing-firms` | 24 | 0 | 22.3 |
-| `life-insurers` | 47 | 0 | 10.0 |
+| `life-insurers` | 47 | 0 | 11.5 |
 | `loyalty` | 18 | 0 | 22.6 |
 | `manufacturer-finance` | 14 | 0 | 17.4 |
-| `megabanks` | 20 | 0 | 15.3 |
+| `megabanks` | 20 | 0 | 15.9 |
 | `money-market` | 18 | 0 | 23.0 |
 | `non-life-insurers` | 57 | 0 | 12.4 |
 | `non-profit` | 12 | 0 | 8.9 |
-| `payment-firms` | 54 | 0 | 11.6 |
+| `payment-firms` | 54 | 0 | 11.8 |
 | `payments` | 41 | 0 | 34.9 |
 | `policy-finance` | 35 | 0 | 27.1 |
 | `real-estate-finance` | 28 | 0 | 24.6 |
 | `regional-banks` | 136 | 0 | 14.0 |
 | `retail` | 11 | 0 | 23.1 |
 | `securities` | 33 | 0 | 32.1 |
-| `securities-firms` | 37 | 0 | 17.9 |
+| `securities-firms` | 37 | 0 | 19.3 |
 | `security` | 10 | 0 | 9.9 |
 | `structured-finance` | 30 | 0 | 23.4 |
 | `systems` | 62 | 0 | 9.7 |
 | `trade` | 13 | 0 | 11.8 |
 | `trading-company-finance` | 8 | 0 | 28.3 |
-| `trust-banks` | 48 | 0 | 11.6 |
+| `trust-banks` | 48 | 0 | 12.6 |
 
 ## canonical_anchor Integrity (drift-gated)
 

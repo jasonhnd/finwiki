@@ -18,8 +18,8 @@
     ],
     "domain": "life-insurers",
     "created": "2026-05-21",
-    "last_updated": "2026-05-21",
-    "last_tended": "2026-05-21",
+    "last_updated": "2026-06-05",
+    "last_tended": "2026-06-05",
     "review_by": "2026-11-21",
     "confidence": "likely",
     "tags": [
@@ -27,53 +27,61 @@
       "insurance",
       "life-insurance",
       "fukoku-life",
-      "shinkin",
+      "bancassurance",
       "operating-company"
     ],
     "status": "active",
     "sources": [
       "https://www.fsa.go.jp/menkyo/hoken.pdf",
       "https://www.seiho.or.jp/member/list/",
-      "https://www.fukokushinrai.co.jp/company/profile/outline/"
+      "https://www.fukokushinrai.co.jp/company/profile/outline/",
+      "https://www.fukokushinrai.co.jp/company/profile/history/"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 第一フロンティア生命保険 for peer / contrast context and insurance index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under life-insurers INDEX (its domain route). Its controlling shareholder is the mutual major 富国生命, and its founding parent was the P&C carrier 共栄火災海上保険. Read it against MS Primary 生命 for the FI / bancassurance peer / contrast, and against the FSA plus 生命保険協会 for the supervisory / in",
   "headings": [
     "フコクしんらい生命保険",
     "Wiki route",
     "TL;DR",
     "1. License / group boundary",
-    "2. Why this page matters",
+    "2. Operating model",
+    "3. Why this page matters",
     "Related",
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 7,
+    "wikilinks_count": 10,
     "wikilinks": [
-      "JapanFG/INDEX",
-      "fukoku-life",
-      "insurance/INDEX",
-      "insurance/life-insurance-channel-mix",
-      "kyoritsu-fire-marine",
+      "INDEX",
+      "banking/shinkin-bank-registry-japan",
+      "financial-regulators/fsa",
+      "financial-regulators/seiho-kyokai",
+      "insurance/bancassurance-economics-japan",
+      "life-insurers/INDEX",
       "life-insurers/dai-ichi-frontier-life",
-      "shinkin-central"
+      "life-insurers/fukoku-life",
+      "life-insurers/ms-primary-life",
+      "non-life-insurers/kyoritsu-fire-marine"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
-      "https://finwiki.zksc.io/fukoku-life",
-      "https://finwiki.zksc.io/insurance/INDEX",
-      "https://finwiki.zksc.io/insurance/life-insurance-channel-mix",
-      "https://finwiki.zksc.io/kyoritsu-fire-marine",
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/banking/shinkin-bank-registry-japan",
+      "https://finwiki.zksc.io/financial-regulators/fsa",
+      "https://finwiki.zksc.io/financial-regulators/seiho-kyokai",
+      "https://finwiki.zksc.io/insurance/bancassurance-economics-japan",
+      "https://finwiki.zksc.io/life-insurers/INDEX",
       "https://finwiki.zksc.io/life-insurers/dai-ichi-frontier-life",
-      "https://finwiki.zksc.io/shinkin-central"
+      "https://finwiki.zksc.io/life-insurers/fukoku-life",
+      "https://finwiki.zksc.io/life-insurers/ms-primary-life",
+      "https://finwiki.zksc.io/non-life-insurers/kyoritsu-fire-marine"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1683,
-    "word_like_tokens": 250,
+    "nonspace_chars": 3202,
+    "word_like_tokens": 450,
     "inbound_wikilinks_count": 2,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-05"
   }
 }

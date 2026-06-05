@@ -19,63 +19,70 @@
     ],
     "domain": "card-issuers",
     "created": "2026-05-21",
-    "last_updated": "2026-05-21",
-    "last_tended": "2026-05-21",
+    "last_updated": "2026-06-05",
+    "last_tended": "2026-06-05",
     "review_by": "2026-11-21",
     "confidence": "likely",
     "tags": [
+      "card-issuers",
       "JapanFG",
-      "payments",
       "credit-card",
       "retail-finance",
-      "bank"
+      "installment-credit"
     ],
     "status": "active",
     "sources": [
       "https://www.aeonfinancial.co.jp/corp/",
-      "https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html"
+      "https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html",
+      "https://www.j-credit.or.jp/"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against セブン・カードサービス (Seven Card Service) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under card-issuers INDEX (its domain route). Read it against セブン・カードサービス and エポスカード for retail-origin peer / contrast, and against the FSA plus payments for the supervisory / system boundary. The governing acquiring statute is 割賦販売法 2020 改正.",
   "headings": [
     "イオンフィナンシャルサービス (AEON Financial Service)",
     "Wiki route",
     "TL;DR",
-    "1. 法人・ライセンス境界",
-    "2. Business role",
-    "3. Why this standalone page matters",
+    "1. License / group boundary",
+    "2. Operating model",
+    "3. Why this page matters",
     "Related",
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 8,
+    "wikilinks_count": 11,
     "wikilinks": [
-      "JapanFG/INDEX",
-      "banking/INDEX",
+      "INDEX",
+      "card-issuers/INDEX",
       "card-issuers/aeon-bank",
+      "card-issuers/epos-card",
+      "card-issuers/installment-sales-act-2020-amendment",
+      "card-issuers/pocket-card",
       "card-issuers/seven-card-service",
-      "loyalty/japan-points-landscape",
-      "payments/cashless-jp-landscape",
-      "retail/aeon-group",
-      "retail/seven-and-i-hd"
+      "card-issuers/ucs-card",
+      "financial-regulators/fsa",
+      "payments/INDEX",
+      "retail/aeon-group"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
-      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/card-issuers/INDEX",
       "https://finwiki.zksc.io/card-issuers/aeon-bank",
+      "https://finwiki.zksc.io/card-issuers/epos-card",
+      "https://finwiki.zksc.io/card-issuers/installment-sales-act-2020-amendment",
+      "https://finwiki.zksc.io/card-issuers/pocket-card",
       "https://finwiki.zksc.io/card-issuers/seven-card-service",
-      "https://finwiki.zksc.io/loyalty/japan-points-landscape",
-      "https://finwiki.zksc.io/payments/cashless-jp-landscape",
-      "https://finwiki.zksc.io/retail/aeon-group",
-      "https://finwiki.zksc.io/retail/seven-and-i-hd"
+      "https://finwiki.zksc.io/card-issuers/ucs-card",
+      "https://finwiki.zksc.io/financial-regulators/fsa",
+      "https://finwiki.zksc.io/payments/INDEX",
+      "https://finwiki.zksc.io/retail/aeon-group"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1940,
-    "word_like_tokens": 301,
-    "inbound_wikilinks_count": 28,
-    "last_modified": "2026-06-04"
+    "nonspace_chars": 3117,
+    "word_like_tokens": 465,
+    "inbound_wikilinks_count": 29,
+    "last_modified": "2026-06-05"
   }
 }

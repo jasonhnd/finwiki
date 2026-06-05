@@ -14,13 +14,14 @@
       "SMBC",
       "Sumitomo Mitsui Banking Corporation",
       "三井住友銀行",
-      "株式会社三井住友銀行"
+      "株式会社三井住友銀行",
+      "みついすみともぎんこう"
     ],
     "domain": "megabanks",
     "created": "2026-05-20",
-    "last_updated": "2026-05-20",
-    "last_tended": "2026-05-20",
-    "review_by": "2026-11-20",
+    "last_updated": "2026-06-05",
+    "last_tended": "2026-06-05",
+    "review_by": "2026-12-05",
     "confidence": "likely",
     "tags": [
       "JapanFG",
@@ -35,13 +36,13 @@
       "https://www.smbc.co.jp/aboutus/profile/group.html"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 三菱UFJ銀行 (MUFG Bank) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under megabanks INDEX (its domain route). Read it against 三菱UFJ銀行 (MUFG Bank) for peer / contrast (another 都市銀行 megabank operating company), and against the FSA for the supervisory / regulatory boundary. The group / parent view lives on SMFG; the trust and securities siblings on SMBC",
   "headings": [
     "三井住友銀行 (SMBC)",
     "Wiki route",
     "TL;DR",
-    "1. 法人・ライセンス境界",
-    "2. Business role",
+    "1. License / group boundary",
+    "2. Operating model",
     "3. Why standalone page matters",
     "Related",
     "Sources"
@@ -49,20 +50,20 @@
   "body_links": {
     "wikilinks_count": 8,
     "wikilinks": [
-      "JapanFG/INDEX",
+      "INDEX",
       "asset-managers/smd-am",
-      "banking/INDEX",
-      "banking/post-megabank-positioning",
+      "financial-regulators/fsa",
+      "megabanks/INDEX",
       "megabanks/mufg-bank",
       "megabanks/smfg",
       "securities-firms/smbc-nikko",
       "trust-banks/smbc-trust-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/INDEX",
       "https://finwiki.zksc.io/asset-managers/smd-am",
-      "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/banking/post-megabank-positioning",
+      "https://finwiki.zksc.io/financial-regulators/fsa",
+      "https://finwiki.zksc.io/megabanks/INDEX",
       "https://finwiki.zksc.io/megabanks/mufg-bank",
       "https://finwiki.zksc.io/megabanks/smfg",
       "https://finwiki.zksc.io/securities-firms/smbc-nikko",
@@ -72,9 +73,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1693,
-    "word_like_tokens": 259,
+    "nonspace_chars": 2106,
+    "word_like_tokens": 323,
     "inbound_wikilinks_count": 52,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-05"
   }
 }

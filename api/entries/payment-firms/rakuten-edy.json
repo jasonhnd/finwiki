@@ -18,8 +18,8 @@
     ],
     "domain": "payment-firms",
     "created": "2026-05-21",
-    "last_updated": "2026-05-21",
-    "last_tended": "2026-05-21",
+    "last_updated": "2026-06-05",
+    "last_tended": "2026-06-05",
     "review_by": "2026-11-21",
     "confidence": "likely",
     "tags": [
@@ -27,58 +27,59 @@
       "payments",
       "prepaid",
       "electronic-money",
-      "funds-transfer",
       "rakuten"
     ],
     "status": "active",
     "sources": [
-      "https://edy.rakuten.co.jp/company/company.html?l-id=lid_top_footer_company",
-      "https://edy.rakuten.co.jp/company/?l-id=footer_company",
-      "https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf"
+      "https://edy.rakuten.co.jp/company/company.html",
+      "https://www.s-kessai.jp/cms/card-data/detail/84/",
+      "https://www.fsa.go.jp/policy/prepaid/"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it with payments index for adjacent context and Funds transfer vs prepaid boundary in Japan for the broader system boundary.",
+  "summary": "This entry sits under payment-firms INDEX (its domain route). Read it against Rakuten financial ecosystem for the group / parent context and セブン・ペイメントサービス / nanaco-style prepaid peers for contrast, and against the funds-transfer vs prepaid boundary plus the FSA for the supervisory / system boundary.",
   "headings": [
     "楽天Edy",
     "Wiki route",
     "TL;DR",
-    "1. 法人・ライセンス境界",
-    "2. Business role",
-    "3. Why this standalone page matters",
+    "1. License / group boundary",
+    "2. Operating model",
+    "3. Why this page matters",
     "Related",
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 9,
+    "wikilinks_count": 10,
     "wikilinks": [
-      "JapanFG/INDEX",
+      "INDEX",
       "card-issuers/rakuten-card",
+      "financial-regulators/fsa",
       "loyalty/japan-points-landscape",
+      "payment-firms/INDEX",
       "payment-firms/rakuten-fg",
-      "payments/INDEX",
-      "payments/cashless-jp-landscape",
-      "payments/funds-transfer-service-providers-japan-index",
+      "payment-firms/seven-payment-service",
       "payments/funds-transfer-vs-prepaid-boundary",
-      "payments/japan-payment-scheme-economics-matrix"
+      "payments/japan-payment-scheme-economics-matrix",
+      "payments/japan-prepaid-electronic-money-operator-matrix"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/INDEX",
       "https://finwiki.zksc.io/card-issuers/rakuten-card",
+      "https://finwiki.zksc.io/financial-regulators/fsa",
       "https://finwiki.zksc.io/loyalty/japan-points-landscape",
+      "https://finwiki.zksc.io/payment-firms/INDEX",
       "https://finwiki.zksc.io/payment-firms/rakuten-fg",
-      "https://finwiki.zksc.io/payments/INDEX",
-      "https://finwiki.zksc.io/payments/cashless-jp-landscape",
-      "https://finwiki.zksc.io/payments/funds-transfer-service-providers-japan-index",
+      "https://finwiki.zksc.io/payment-firms/seven-payment-service",
       "https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary",
-      "https://finwiki.zksc.io/payments/japan-payment-scheme-economics-matrix"
+      "https://finwiki.zksc.io/payments/japan-payment-scheme-economics-matrix",
+      "https://finwiki.zksc.io/payments/japan-prepaid-electronic-money-operator-matrix"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2175,
-    "word_like_tokens": 353,
+    "nonspace_chars": 2621,
+    "word_like_tokens": 404,
     "inbound_wikilinks_count": 15,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-05"
   }
 }

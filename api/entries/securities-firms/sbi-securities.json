@@ -17,9 +17,9 @@
     ],
     "domain": "securities-firms",
     "created": "2026-05-20",
-    "last_updated": "2026-05-20",
-    "last_tended": "2026-05-20",
-    "review_by": "2026-11-20",
+    "last_updated": "2026-06-05",
+    "last_tended": "2026-06-05",
+    "review_by": "2026-12-05",
     "confidence": "likely",
     "tags": [
       "JapanFG",
@@ -35,46 +35,50 @@
       "https://www.sbigroup.co.jp/company/group/sbisec.php"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against PayPay証券 for peer / contrast context and securities index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under securities-firms INDEX (its domain route). Read it against 楽天証券 for the closest online-broker peer / contrast, and against the FSA plus JSDA for the FIEA supervisory / self-regulatory boundary. The retail-competition map lives on 日本ネット証券競争.",
   "headings": [
     "SBI証券 (SBI Securities)",
     "Wiki route",
     "TL;DR",
-    "1. 法人・ライセンス境界",
-    "2. Business role",
-    "3. Why standalone page matters",
+    "1. License / group boundary",
+    "2. Operating model",
+    "3. Why this page matters",
     "Related",
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 8,
+    "wikilinks_count": 10,
     "wikilinks": [
-      "JapanFG/INDEX",
+      "INDEX",
       "exchanges/jp-exchange-sbi-vc-trade",
+      "financial-regulators/fsa",
+      "financial-regulators/jsda",
       "megabanks/sbi-hd",
-      "securities-firms/paypay-securities",
+      "securities-firms/INDEX",
       "securities-firms/rakuten-securities",
       "securities-firms/sbi-fx-trade",
-      "securities/INDEX",
+      "securities/japan-online-brokerage-competition",
       "securities/nisa-2024-flow"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/INDEX",
       "https://finwiki.zksc.io/exchanges/jp-exchange-sbi-vc-trade",
+      "https://finwiki.zksc.io/financial-regulators/fsa",
+      "https://finwiki.zksc.io/financial-regulators/jsda",
       "https://finwiki.zksc.io/megabanks/sbi-hd",
-      "https://finwiki.zksc.io/securities-firms/paypay-securities",
+      "https://finwiki.zksc.io/securities-firms/INDEX",
       "https://finwiki.zksc.io/securities-firms/rakuten-securities",
       "https://finwiki.zksc.io/securities-firms/sbi-fx-trade",
-      "https://finwiki.zksc.io/securities/INDEX",
+      "https://finwiki.zksc.io/securities/japan-online-brokerage-competition",
       "https://finwiki.zksc.io/securities/nisa-2024-flow"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1741,
-    "word_like_tokens": 290,
+    "nonspace_chars": 2529,
+    "word_like_tokens": 402,
     "inbound_wikilinks_count": 36,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-05"
   }
 }

@@ -17,63 +17,66 @@
     ],
     "domain": "card-issuers",
     "created": "2026-05-21",
-    "last_updated": "2026-05-21",
-    "last_tended": "2026-05-21",
+    "last_updated": "2026-06-05",
+    "last_tended": "2026-06-05",
     "review_by": "2026-11-21",
     "confidence": "likely",
     "tags": [
+      "card-issuers",
       "JapanFG",
-      "payments",
       "credit-card",
       "retail-finance",
-      "consumer-credit"
+      "installment-credit"
     ],
     "status": "active",
     "sources": [
       "https://www.01epos.jp/company/",
-      "https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html"
+      "https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html",
+      "https://www.j-credit.or.jp/"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against ポケットカード (Pocket Card) for peer / contrast context and payments index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under card-issuers INDEX (its domain route). Read it against ポケットカード and イオンフィナンシャルサービス for retail-origin peer / contrast, and against the FSA plus payments for the supervisory / system boundary. The governing acquiring statute is 割賦販売法 2020 改正.",
   "headings": [
     "エポスカード (EPOS Card)",
     "Wiki route",
     "TL;DR",
-    "1. 法人・ライセンス境界",
-    "2. Business role",
-    "3. Why this standalone page matters",
+    "1. License / group boundary",
+    "2. Operating model",
+    "3. Why this page matters",
     "Related",
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 8,
+    "wikilinks_count": 9,
     "wikilinks": [
-      "JapanFG/INDEX",
+      "INDEX",
+      "card-issuers/INDEX",
       "card-issuers/aeon-financial-service",
+      "card-issuers/credit-saison",
+      "card-issuers/installment-sales-act-2020-amendment",
+      "card-issuers/mufg-nicos",
       "card-issuers/pocket-card",
-      "loyalty/japan-points-landscape",
-      "megabanks/mufg",
-      "payments/INDEX",
-      "payments/card-acquiring-japan-stack",
-      "payments/cashless-jp-landscape"
+      "financial-regulators/fsa",
+      "payments/INDEX"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/card-issuers/INDEX",
       "https://finwiki.zksc.io/card-issuers/aeon-financial-service",
+      "https://finwiki.zksc.io/card-issuers/credit-saison",
+      "https://finwiki.zksc.io/card-issuers/installment-sales-act-2020-amendment",
+      "https://finwiki.zksc.io/card-issuers/mufg-nicos",
       "https://finwiki.zksc.io/card-issuers/pocket-card",
-      "https://finwiki.zksc.io/loyalty/japan-points-landscape",
-      "https://finwiki.zksc.io/megabanks/mufg",
-      "https://finwiki.zksc.io/payments/INDEX",
-      "https://finwiki.zksc.io/payments/card-acquiring-japan-stack",
-      "https://finwiki.zksc.io/payments/cashless-jp-landscape"
+      "https://finwiki.zksc.io/financial-regulators/fsa",
+      "https://finwiki.zksc.io/payments/INDEX"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1928,
-    "word_like_tokens": 296,
-    "inbound_wikilinks_count": 11,
-    "last_modified": "2026-06-04"
+    "nonspace_chars": 2666,
+    "word_like_tokens": 394,
+    "inbound_wikilinks_count": 12,
+    "last_modified": "2026-06-05"
   }
 }

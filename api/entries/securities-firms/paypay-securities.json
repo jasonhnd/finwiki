@@ -18,9 +18,9 @@
     ],
     "domain": "securities-firms",
     "created": "2026-05-20",
-    "last_updated": "2026-05-20",
-    "last_tended": "2026-05-20",
-    "review_by": "2026-11-20",
+    "last_updated": "2026-06-05",
+    "last_tended": "2026-06-05",
+    "review_by": "2026-12-05",
     "confidence": "likely",
     "tags": [
       "JapanFG",
@@ -33,53 +33,53 @@
     "sources": [
       "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx",
       "https://www.paypay-sec.co.jp/corporate/company/",
-      "https://www.paypay-sec.co.jp/corporate/pdf/discloser/dis202303.pdf"
+      "https://www.softbank.jp/corp/news/press/sbkk/2025/20250210_01/"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it with securities index for adjacent context and JapanFG index for the broader system boundary.",
+  "summary": "This entry sits under securities-firms INDEX (its domain route). Read it against 楽天証券 for the closest ポイント経済圏連動型 online-broker peer / contrast, and against the FSA plus JSDA for the FIEA supervisory / self-regulatory boundary. The embedded-finance funnel runs through PayPay銀行 and cashless Japan land",
   "headings": [
     "PayPay証券",
     "Wiki route",
     "TL;DR",
-    "1. 法人・ライセンス境界",
-    "2. Business role",
-    "3. Why standalone page matters",
+    "1. License / group boundary",
+    "2. Operating model",
+    "3. Why this page matters",
     "Related",
     "Sources"
   ],
   "body_links": {
     "wikilinks_count": 10,
     "wikilinks": [
-      "JapanFG/INDEX",
+      "INDEX",
       "banking/paypay-bank",
-      "financial-licenses/INDEX",
+      "financial-regulators/fsa",
+      "financial-regulators/jsda",
       "megabanks/paypay-fg",
       "payments/cashless-jp-landscape",
+      "securities-firms/INDEX",
       "securities-firms/rakuten-securities",
-      "securities/INDEX",
       "securities/financial-instruments-business-operators-japan-index",
-      "securities/japan-asset-manager-landscape-matrix",
       "securities/nisa-2024-flow"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/INDEX",
       "https://finwiki.zksc.io/banking/paypay-bank",
-      "https://finwiki.zksc.io/financial-licenses/INDEX",
+      "https://finwiki.zksc.io/financial-regulators/fsa",
+      "https://finwiki.zksc.io/financial-regulators/jsda",
       "https://finwiki.zksc.io/megabanks/paypay-fg",
       "https://finwiki.zksc.io/payments/cashless-jp-landscape",
+      "https://finwiki.zksc.io/securities-firms/INDEX",
       "https://finwiki.zksc.io/securities-firms/rakuten-securities",
-      "https://finwiki.zksc.io/securities/INDEX",
       "https://finwiki.zksc.io/securities/financial-instruments-business-operators-japan-index",
-      "https://finwiki.zksc.io/securities/japan-asset-manager-landscape-matrix",
       "https://finwiki.zksc.io/securities/nisa-2024-flow"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1844,
-    "word_like_tokens": 265,
-    "inbound_wikilinks_count": 19,
-    "last_modified": "2026-06-04"
+    "nonspace_chars": 2566,
+    "word_like_tokens": 373,
+    "inbound_wikilinks_count": 18,
+    "last_modified": "2026-06-05"
   }
 }

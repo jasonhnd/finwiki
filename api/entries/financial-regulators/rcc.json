@@ -18,8 +18,8 @@
     ],
     "domain": "financial-regulators",
     "created": "2026-05-20",
-    "last_updated": "2026-05-20",
-    "last_tended": "2026-05-20",
+    "last_updated": "2026-06-05",
+    "last_tended": "2026-06-05",
     "review_by": "2026-11-20",
     "confidence": "likely",
     "tags": [
@@ -33,10 +33,10 @@
     "sources": [
       "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
       "https://www.kaisyukikou.co.jp/intro/intro_001.html",
-      "https://www.dic.go.jp/"
+      "https://www.dic.go.jp/yokinsha/page_000132.html"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 三菱UFJ信託銀行 (MUTB) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under financial-regulators INDEX (its domain route). It is not a regulator but a resolution / collection arm — read it against its 100% parent 預金保険機構 (Deposit Insurance Corporation) for the institutional parent boundary, against the policy-finance vehicles JBIC and DBJ for peer / con",
   "headings": [
     "整理回収機構 (RCC)",
     "Wiki route",
@@ -48,34 +48,36 @@
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 8,
+    "wikilinks_count": 9,
     "wikilinks": [
-      "JapanFG/INDEX",
+      "INDEX",
       "banking/INDEX",
       "banking/regional-bank-consolidation-pattern",
+      "financial-regulators/INDEX",
       "financial-regulators/dbj",
+      "financial-regulators/dic",
+      "financial-regulators/fsa",
       "financial-regulators/jbic",
-      "financial-regulators/jfc",
-      "regional-banks/jimoto-hd",
-      "trust-banks/mitsubishi-ufj-trust-bank"
+      "financial-regulators/jfc"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
+      "https://finwiki.zksc.io/financial-regulators/INDEX",
       "https://finwiki.zksc.io/financial-regulators/dbj",
+      "https://finwiki.zksc.io/financial-regulators/dic",
+      "https://finwiki.zksc.io/financial-regulators/fsa",
       "https://finwiki.zksc.io/financial-regulators/jbic",
-      "https://finwiki.zksc.io/financial-regulators/jfc",
-      "https://finwiki.zksc.io/regional-banks/jimoto-hd",
-      "https://finwiki.zksc.io/trust-banks/mitsubishi-ufj-trust-bank"
+      "https://finwiki.zksc.io/financial-regulators/jfc"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1800,
-    "word_like_tokens": 248,
+    "nonspace_chars": 2894,
+    "word_like_tokens": 398,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-05"
   }
 }

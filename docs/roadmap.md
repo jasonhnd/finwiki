@@ -24,6 +24,7 @@
 | v2026.06.05-2 | P4 i18n mirrors | 55 entry × ja/zh/en = 165 mirror，link/数字 byte 一致 |
 | v2026.06.05-3 | P2 深化第 1 批 | JapanFG 拆分域 58 个 thin stubs 深化（regional-banks 48 + cooperative-banks 10） |
 | v2026.06.05-4 | INDEX count 校准 | root `INDEX.md` 13 个 thematic domain count 从 +1 drift 校正到 disk 实数 |
+| v2026.06.05-5 | **P2 深化第 2 批（完）** | JapanFG 拆分域剩余 50 个 thin stub 深化（11 域），**P2 thin 存根深化完成**（累计 108）|
 
 ## 近期重点（P1 → P3，三方向并行推进）
 
@@ -40,7 +41,7 @@
 
 JapanFG 已**物理拆分为 17 个机构类型顶级域**（v2026.06.04-4，见 [japanfg-split-design.md](japanfg-split-design.md) / [decisions.md](decisions.md) ADR-008）。9 个未分类 entity（sogo-shosha 母公司）已在拆分映射裁定归入 `financial-conglomerates`。下一步 = 各域里 **entity 页内容深化**（业务模式 / 监管定位 / 集团关系），针对 ~110 个 <250 词的「登记簿存根」：
 - ✅ **v2026.06.05-3**：`regional-banks` 48 + `cooperative-banks` 10 = **58 个存根深化**（web 核实具体事实、严守无捏造、顺手修复 split 遗留的 `[[JapanFG/INDEX]]` 旧路由）。
-- 🔴 剩余 ~51 个 thin 存根：`life-insurers`(8) / `securities-firms`(8) / `asset-managers`(7) / `payment-firms`(7) / `trust-banks`(6) / `megabanks`(5) / `card-issuers`(5) + 小域（non-life / leasing / consumer-finance / regulators 各 1）。同样可并行 agent。
+- ✅ **v2026.06.05-5**：剩余 **50 个 thin 存根深化完成**（`life-insurers`8 / `securities-firms`8 / `asset-managers`7 / `payment-firms`7 / `trust-banks`6 / `megabanks`5 / `card-issuers`5 + 小域 4）。8 个并行 subagent·2 batch，无捏造 web 核实并订正多处既有 stub 错误（paypay 母公司、mufg-esmart、rakuten-edy 牌照、orix-bank 牌照、nikko-am/smd-am 股东）。**至此 P2 thin 存根深化全部完成（108 个）**。
 - 🔴 **split 旧路由批量修**：很多**非 thin** 实体页的开头 Wiki-route 仍指向 `[[JapanFG/INDEX]]`（非死链——umbrella 还在——但应指向各自新域 INDEX）。独立的导航质量清理，可脚本批量做。
 
 ### P3. 各领域内容扩充

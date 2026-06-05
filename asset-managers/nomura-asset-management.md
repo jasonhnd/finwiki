@@ -8,8 +8,8 @@ aliases:
   - "asset-managers/nomura-am"
 domain: asset-managers
 created: 2026-05-20
-last_updated: 2026-05-20
-last_tended: 2026-05-20
+last_updated: 2026-06-05
+last_tended: 2026-06-05
 review_by: 2026-11-20
 confidence: likely
 tags: [JapanFG, asset-management, fiea-operator, nomura]
@@ -22,43 +22,48 @@ sources:
 
 # 野村アセットマネジメント
 
-
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[asset-managers/asset-management-one|アセットマネジメントOne]] for peer / contrast context and [[securities/INDEX|securities index]] for the broader system / regulatory boundary.
+This entry sits under [[asset-managers/INDEX|asset-managers INDEX]] (its domain route). Read it against [[asset-managers/daiwa-asset-management|大和アセットマネジメント]] for the other major securities-affiliated 運用会社 peer / contrast, and against [[financial-regulators/fsa|the FSA]] plus [[securities/financial-instruments-business-operators-japan-index|FSA 金商業者 index]] for the supervisory / registry boundary over 投資運用業 operators.
 
 ## TL;DR
 
-野村アセットマネジメントは [[securities-firms/nomura-hd|野村 HD]] の asset-management operating company。FSA 金融商品取引業者一覧では「野村アセットマネジメント株式会社」、関東財務局長(金商)第373号として掲載される。野村グループの投信・ETF・機関投資家向け運用の主語。
+野村アセットマネジメント株式会社は、金融商品取引法上の **投資運用業** 登録を持つ [[securities-firms/nomura-hd|野村 HD]] の運用会社。FSA 金融商品取引業者一覧では「野村アセットマネジメント株式会社」、関東財務局長(金商)第373号として掲載される。公募投信・ETF・年金 / 機関投資家向け運用を担う、日本最大級の証券系運用会社の一角。
 
-## 1. 法人・ライセンス境界
+## 1. License / group boundary
 
-| Item | Reading |
+| Item | Notes |
 |---|---|
-| Legal name | 野村アセットマネジメント株式会社 |
-| FSA registration | 関東財務局長(金商)第373号 |
-| FIEA scope | 第二種、投資助言・代理業、投資運用業 |
-| Parent boundary | [[securities-firms/nomura-hd|野村 HD]] asset-management arm |
+| Legal name | 野村アセットマネジメント株式会社 / Nomura Asset Management Co., Ltd. |
+| License route | 金融商品取引法上の **投資運用業**・**投資助言・代理業**・第二種; 関東財務局長(金商)第373号 |
+| Parent boundary | [[securities-firms/nomura-hd|野村 HD]] グループの asset-management arm (securities-affiliated) |
+| Supervision | [[financial-regulators/fsa|FSA]] + 投資信託協会 / 日本投資顧問業協会 |
+| Wiki role | 野村系 運用会社 anchor |
 
-## 2. Business role
+## 2. Operating model
 
-- 投資信託、ETF、年金・機関投資家向け運用を担う。
-- [[securities-firms/nomura-hd|野村 HD]] の証券 brokerage / investment banking とは別の fee-based asset-management pillar。
-- [[trust-banks/nomura-trust-bank|野村信託銀行]] とともに、証券 group の wealth / asset formation stack を構成する。
+投資運用業者として、(1) 公募投信の **投資信託委託** (組成・運用)、(2) ETF / index products、(3) **投資一任** (年金・機関投資家 discretionary mandate)、(4) 投資助言を担う。証券グループの brokerage / investment banking とは分離された **fee-based asset-management pillar**。[[trust-banks/nomura-trust-bank|野村信託銀行]] とともに証券グループの wealth / asset formation stack を構成する。低コスト index / ETF の手数料競争では [[asset-managers/daiwa-asset-management|大和アセット]] や系列系大手と直接ぶつかる。監督は FSA + 自主規制機関の二層構造。
 
-## 3. Why standalone page matters
+## 3. Why this page matters
 
-野村グループを証券 brokerage だけで見ると、運用会社としての ETF / index / active management / institutional mandate が見えにくい。資産運用立国、NISA、ETF 市場、信託銀行 custody と接続するため独立ページ化する。
+- 野村グループを brokerage だけで見ると見えにくい **ETF / index / active / institutional mandate** の運用機能を切り出す。
+- 資産運用立国・NISA・ETF 市場・信託銀行 custody との接続点を確定する。
+- 証券系ピア ([[asset-managers/daiwa-asset-management|大和アセット]] / [[asset-managers/nikko-asset-management|日興→Amova]]) との比較起点を提供する。
 
 ## Related
 
-- [[securities-firms/nomura-hd]]
-- [[trust-banks/nomura-trust-bank]]
-- [[securities/nisa-2024-flow]]
-- [[securities/INDEX]]
+- [[asset-managers/INDEX|asset-managers INDEX]]
+- [[securities-firms/nomura-hd|野村 HD]]
+- [[trust-banks/nomura-trust-bank|野村信託銀行]]
+- [[asset-managers/daiwa-asset-management|大和アセット]]
+- [[securities/nisa-2024-flow|NISA 2024 flow]]
+- [[INDEX|FinWiki index]]
 
 ## Sources
 
 - FSA, "金融商品取引業者登録一覧", `kinyushohin.xlsx`.
 - Nomura Asset Management, "会社概要".
 - Nomura Asset Management, "投資理念".
+
+> [!info] 校核状態
+> confidence: likely. 法人名・登録番号・野村 HD 系列は公開情報。具体的 AUM / ファンド本数 / シェアは記載しない。

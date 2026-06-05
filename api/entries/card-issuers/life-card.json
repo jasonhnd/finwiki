@@ -17,63 +17,66 @@
     ],
     "domain": "card-issuers",
     "created": "2026-05-21",
-    "last_updated": "2026-05-21",
-    "last_tended": "2026-05-21",
+    "last_updated": "2026-06-05",
+    "last_tended": "2026-06-05",
     "review_by": "2026-11-21",
     "confidence": "likely",
     "tags": [
+      "card-issuers",
       "JapanFG",
-      "payments",
       "credit-card",
       "prepaid",
-      "consumer-credit"
+      "installment-credit"
     ],
     "status": "active",
     "sources": [
       "https://www.lifecard.co.jp/company/outline/",
-      "https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html"
+      "https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html",
+      "https://www.j-credit.or.jp/"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 楽天カード (Rakuten Card) for peer / contrast context and payments index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under card-issuers INDEX (its domain route). Read it against クレディセゾン and 楽天カード for independent-issuer peer / contrast, and against the FSA plus payments for the supervisory / system boundary. The governing acquiring statute is 割賦販売法 2020 改正; the lending parent lives at アイフル.",
   "headings": [
     "ライフカード (Life Card)",
     "Wiki route",
     "TL;DR",
-    "1. 法人・ライセンス境界",
-    "2. Business role",
-    "3. Why this standalone page matters",
+    "1. License / group boundary",
+    "2. Operating model",
+    "3. Why this page matters",
     "Related",
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 8,
+    "wikilinks_count": 9,
     "wikilinks": [
-      "JapanFG/INDEX",
+      "INDEX",
+      "card-issuers/INDEX",
+      "card-issuers/credit-saison",
+      "card-issuers/installment-sales-act-2020-amendment",
       "card-issuers/rakuten-card",
       "consumer-finance/acom",
       "consumer-finance/aiful",
-      "payments/INDEX",
-      "payments/card-acquiring-japan-stack",
-      "payments/cashless-jp-landscape",
-      "payments/funds-transfer-vs-prepaid-boundary"
+      "financial-regulators/fsa",
+      "payments/INDEX"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/card-issuers/INDEX",
+      "https://finwiki.zksc.io/card-issuers/credit-saison",
+      "https://finwiki.zksc.io/card-issuers/installment-sales-act-2020-amendment",
       "https://finwiki.zksc.io/card-issuers/rakuten-card",
       "https://finwiki.zksc.io/consumer-finance/acom",
       "https://finwiki.zksc.io/consumer-finance/aiful",
-      "https://finwiki.zksc.io/payments/INDEX",
-      "https://finwiki.zksc.io/payments/card-acquiring-japan-stack",
-      "https://finwiki.zksc.io/payments/cashless-jp-landscape",
-      "https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary"
+      "https://finwiki.zksc.io/financial-regulators/fsa",
+      "https://finwiki.zksc.io/payments/INDEX"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1834,
-    "word_like_tokens": 286,
-    "inbound_wikilinks_count": 8,
-    "last_modified": "2026-06-04"
+    "nonspace_chars": 2733,
+    "word_like_tokens": 413,
+    "inbound_wikilinks_count": 7,
+    "last_modified": "2026-06-05"
   }
 }

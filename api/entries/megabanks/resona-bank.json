@@ -13,13 +13,14 @@
     "aliases": [
       "Resona Bank",
       "りそな銀行",
-      "株式会社りそな銀行"
+      "株式会社りそな銀行",
+      "りそなぎんこう"
     ],
     "domain": "megabanks",
     "created": "2026-05-20",
-    "last_updated": "2026-05-20",
-    "last_tended": "2026-05-20",
-    "review_by": "2026-11-20",
+    "last_updated": "2026-06-05",
+    "last_tended": "2026-06-05",
+    "review_by": "2026-12-05",
     "confidence": "likely",
     "tags": [
       "JapanFG",
@@ -34,46 +35,44 @@
       "https://www.resona-gr.co.jp/holdings/about/group/"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 埼玉りそな銀行 (Saitama Resona Bank) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under megabanks INDEX (its domain route). Read it against 埼玉りそな銀行 (Saitama Resona Bank) for peer / contrast (its separately licensed Saitama-market sibling), and against the FSA for the supervisory / regulatory boundary. The group / parent view lives on りそな HD.",
   "headings": [
     "りそな銀行 (Resona Bank)",
     "Wiki route",
     "TL;DR",
-    "1. 法人・ライセンス境界",
-    "2. Business role",
+    "1. License / group boundary",
+    "2. Operating model",
     "3. Why standalone page matters",
     "Related",
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 8,
+    "wikilinks_count": 7,
     "wikilinks": [
-      "JapanFG/INDEX",
-      "banking/INDEX",
+      "INDEX",
       "banking/post-megabank-positioning",
       "banking/regional-bank-consolidation-pattern",
-      "kansai-mirai-bank",
+      "financial-regulators/fsa",
+      "megabanks/INDEX",
       "megabanks/resona-hd",
-      "megabanks/saitama-resona-bank",
-      "minato-bank"
+      "megabanks/saitama-resona-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
-      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/INDEX",
       "https://finwiki.zksc.io/banking/post-megabank-positioning",
       "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
-      "https://finwiki.zksc.io/kansai-mirai-bank",
+      "https://finwiki.zksc.io/financial-regulators/fsa",
+      "https://finwiki.zksc.io/megabanks/INDEX",
       "https://finwiki.zksc.io/megabanks/resona-hd",
-      "https://finwiki.zksc.io/megabanks/saitama-resona-bank",
-      "https://finwiki.zksc.io/minato-bank"
+      "https://finwiki.zksc.io/megabanks/saitama-resona-bank"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1649,
-    "word_like_tokens": 249,
+    "nonspace_chars": 2074,
+    "word_like_tokens": 310,
     "inbound_wikilinks_count": 10,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-05"
   }
 }

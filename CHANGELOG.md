@@ -31,6 +31,16 @@
 
 ## 2026-06-05
 
+### P2 深化（第 2 批・完）— JapanFG 拆分域の残り存根 50 件を実体ページへ深化 / P2 deepening batch 2 (final) / P2 深化第 2 批（完）
+#### 日本語記録 / English / 中文
+- **JST 時刻**: 2026-06-05 20:18 JST。
+- **背景**: roadmap P2 = JapanFG 拆分域の entity 内容深化。v2026.06.05-3（第 1 批 58 件）に続き、backlog に残っていた **~51 件**の <250 語「登记簿存根」を深化し、**P2 thin 存根の深化を完了**（合計 108 件、本批 50 件）。
+- **範囲**: 11 域 — `life-insurers` 8 / `securities-firms` 8 / `asset-managers` 7 / `payment-firms` 7 / `trust-banks` 6 / `megabanks` 5 / `card-issuers` 5 + 小域 4（`non-life-insurers` anicom-hd / `leasing-firms` mitsubishi-hc-capital / `consumer-finance` smbc-consumer-finance / `financial-regulators` rcc）。計 50 entry の本文拡充。site config / 領域数 / entry 数は不変。
+- **主要変更**: ① 存根 → 実体ページ（License/group boundary 表 + institution-type Operating model + group/parent 文脈 + 3+ core-body wikilink）。② 無捏造を厳守（親会社/免許/設立/本店のみ web 照合、不確実な数値は shape として hedge か削除）。照合で既存 stub の誤りを訂正（paypay-securities 親 → PayPay株式会社 2025、mufg-esmart-securities → 三菱UFJ銀行 100% 2025、rakuten-edy → 第三者型前払式、orix-bank → 信託兼営の普通銀行、nikko-asset-management → Sumitomo Mitsui Trust 100%、smd-am 株主構成）。③ split 旧路由 `[[JapanFG/INDEX]]` を各域 INDEX へ修正、regulator link を実在の `[[financial-regulators/fsa]]` へ統一。
+- **実行手順**: 並列 subagent 8 体・2 batch（域別 file-scope 隔離、各 agent は自域 + 自域 INDEX のみ、tools/lib/site/docs/root/他域 不可）→ `git status` で越界 0 確認 → `bun tools/wiki_link_audit.ts` → `release.ts --write` → `--check --strict`。commit は単独・message に `verif` 不使用。
+- **検証結果**: `wiki_link_audit` `entries_with_issues=0 / dead=0 / canonical_anchor_drift=0`（1485 entries）。`release.ts --check --strict` **EXIT=0**（md=1563 / domains=40 / entries=1485 / counts in sync / JSON・LF・dup-id OK）。
+- **残タスク**: 内容は subagent 生成 → 事実精度は人工抽查推奨（ADR-006、特に midori-life 現所有 / pocket-card 持分 / mitsubishi-hc-capital 現財務）。次は **非 thin** 実体页の `[[JapanFG/INDEX]]` 旧 route batch 修復、P3 v12 双批近重複マージ、`.txt` 入口の audit 化。詳細は `releases/v2026.06.05-5.md`。
+
 ### INDEX 件数校正 — root content map の domain 件数を disk 実数へ同期 / INDEX count calibration / INDEX 数量校准
 #### 日本語記録 / English / 中文
 - **JST 時刻**: 2026-06-05 09:55 JST。

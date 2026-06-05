@@ -13,18 +13,18 @@
     "aliases": [
       "Saitama Resona Bank",
       "埼玉りそな銀行",
-      "株式会社埼玉りそな銀行"
+      "株式会社埼玉りそな銀行",
+      "さいたまりそなぎんこう"
     ],
     "domain": "megabanks",
     "created": "2026-05-20",
-    "last_updated": "2026-05-20",
-    "last_tended": "2026-05-20",
-    "review_by": "2026-11-20",
+    "last_updated": "2026-06-05",
+    "last_tended": "2026-06-05",
+    "review_by": "2026-12-05",
     "confidence": "likely",
     "tags": [
       "JapanFG",
       "bank",
-      "regional-bank",
       "resona",
       "operating-company"
     ],
@@ -35,30 +35,32 @@
       "https://www.saitamaresona.co.jp/about/"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against りそな銀行 (Resona Bank) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under megabanks INDEX (its domain route). Read it against りそな銀行 (Resona Bank) for peer / contrast (its sibling Resona-group core bank), and against the FSA for the supervisory / regulatory boundary. The group / parent view lives on りそな HD.",
   "headings": [
     "埼玉りそな銀行 (Saitama Resona Bank)",
     "Wiki route",
     "TL;DR",
-    "1. 法人・ライセンス境界",
-    "2. Business role",
+    "1. License / group boundary",
+    "2. Operating model",
     "3. Why standalone page matters",
     "Related",
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 5,
+    "wikilinks_count": 6,
     "wikilinks": [
-      "JapanFG/INDEX",
-      "banking/INDEX",
+      "INDEX",
       "banking/regional-bank-consolidation-pattern",
+      "financial-regulators/fsa",
+      "megabanks/INDEX",
       "megabanks/resona-bank",
       "megabanks/resona-hd"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
-      "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/INDEX",
       "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
+      "https://finwiki.zksc.io/financial-regulators/fsa",
+      "https://finwiki.zksc.io/megabanks/INDEX",
       "https://finwiki.zksc.io/megabanks/resona-bank",
       "https://finwiki.zksc.io/megabanks/resona-hd"
     ],
@@ -66,9 +68,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1611,
-    "word_like_tokens": 232,
+    "nonspace_chars": 2041,
+    "word_like_tokens": 301,
     "inbound_wikilinks_count": 6,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-05"
   }
 }
