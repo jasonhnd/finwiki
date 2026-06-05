@@ -18,8 +18,8 @@
     ],
     "domain": "regional-banks",
     "created": "2026-05-20",
-    "last_updated": "2026-05-20",
-    "last_tended": "2026-05-20",
+    "last_updated": "2026-06-05",
+    "last_tended": "2026-06-05",
     "review_by": "2026-11-20",
     "confidence": "likely",
     "tags": [
@@ -33,10 +33,10 @@
     "sources": [
       "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
       "https://www.uibank.co.jp/info/",
-      "https://www.tokyo-kiraboshifg.co.jp/"
+      "https://www.kiraboshibank.co.jp/detail/20220124.html"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 埼玉りそな銀行 (Saitama Resona Bank) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under regional-banks INDEX (its domain route). Read it against 01銀行 and みんなの銀行 for the peer / contrast (regional-group-launched digital banks), and against the FSA plus banking for the supervisory / system boundary. The parent group view lives on 東京きらぼしフィナンシャルグループ.",
   "headings": [
     "UI銀行 (UI Bank)",
     "Wiki route",
@@ -48,32 +48,36 @@
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 7,
+    "wikilinks_count": 9,
     "wikilinks": [
-      "JapanFG/INDEX",
+      "INDEX",
       "banking/INDEX",
       "banking/baas-japan-landscape",
       "banking/minna-bank-baas-model",
-      "megabanks/saitama-resona-bank",
+      "financial-regulators/fsa",
       "regional-banks/01-bank",
+      "regional-banks/INDEX",
+      "regional-banks/kiraboshi-bank",
       "regional-banks/kiraboshi-fg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/baas-japan-landscape",
       "https://finwiki.zksc.io/banking/minna-bank-baas-model",
-      "https://finwiki.zksc.io/megabanks/saitama-resona-bank",
+      "https://finwiki.zksc.io/financial-regulators/fsa",
       "https://finwiki.zksc.io/regional-banks/01-bank",
+      "https://finwiki.zksc.io/regional-banks/INDEX",
+      "https://finwiki.zksc.io/regional-banks/kiraboshi-bank",
       "https://finwiki.zksc.io/regional-banks/kiraboshi-fg"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1554,
-    "word_like_tokens": 251,
+    "nonspace_chars": 2431,
+    "word_like_tokens": 400,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-05"
   }
 }

@@ -18,8 +18,8 @@
     ],
     "domain": "regional-banks",
     "created": "2026-05-21",
-    "last_updated": "2026-05-21",
-    "last_tended": "2026-05-21",
+    "last_updated": "2026-06-05",
+    "last_tended": "2026-06-05",
     "review_by": "2026-11-21",
     "confidence": "likely",
     "tags": [
@@ -36,7 +36,7 @@
       "https://www.hokutobank.co.jp/news/pdf/20220210-1.pdf"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 荘内銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under regional-banks INDEX (its domain route). Read it against 岩手銀行 for the same-prefecture peer / contrast (Iwate lead regional bank vs second channel) and 北日本銀行 for the same-prefecture second-regional bank, and against the FSA plus banking for the supervisory / system boundary.",
   "headings": [
     "東北銀行",
     "Wiki route",
@@ -48,32 +48,34 @@
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 7,
+    "wikilinks_count": 8,
     "wikilinks": [
-      "JapanFG/INDEX",
+      "INDEX",
       "banking/INDEX",
       "banking/regional-bank-consolidation-pattern",
-      "fidea-hd",
-      "iwate-bank",
-      "kita-nippon-bank",
-      "regional-banks/shonai-bank"
+      "financial-regulators/fsa",
+      "regional-banks/INDEX",
+      "regional-banks/fidea-hd",
+      "regional-banks/iwate-bank",
+      "regional-banks/kita-nippon-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
-      "https://finwiki.zksc.io/fidea-hd",
-      "https://finwiki.zksc.io/iwate-bank",
-      "https://finwiki.zksc.io/kita-nippon-bank",
-      "https://finwiki.zksc.io/regional-banks/shonai-bank"
+      "https://finwiki.zksc.io/financial-regulators/fsa",
+      "https://finwiki.zksc.io/regional-banks/INDEX",
+      "https://finwiki.zksc.io/regional-banks/fidea-hd",
+      "https://finwiki.zksc.io/regional-banks/iwate-bank",
+      "https://finwiki.zksc.io/regional-banks/kita-nippon-bank"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1787,
-    "word_like_tokens": 273,
-    "inbound_wikilinks_count": 0,
-    "last_modified": "2026-06-04"
+    "nonspace_chars": 2573,
+    "word_like_tokens": 391,
+    "inbound_wikilinks_count": 1,
+    "last_modified": "2026-06-05"
   }
 }

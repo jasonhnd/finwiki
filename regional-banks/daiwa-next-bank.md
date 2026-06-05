@@ -3,9 +3,9 @@ title: "大和ネクスト銀行 (Daiwa Next Bank)"
 aliases: ["Daiwa Next Bank", "大和ネクスト銀行", "株式会社大和ネクスト銀行"]
 domain: regional-banks
 created: 2026-05-20
-last_updated: 2026-05-20
-last_tended: 2026-05-20
-review_by: 2026-11-20
+last_updated: 2026-06-05
+last_tended: 2026-06-05
+review_by: 2026-12-05
 confidence: likely
 tags: [JapanFG, bank, securities-group, net-bank, operating-company]
 status: active
@@ -20,11 +20,11 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[regional-banks/sony-bank|ソニー銀行 (Sony Bank)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain route — listed there in the digital / net / retail-platform banks group). Read it against [[regional-banks/sony-bank|ソニー銀行 (Sony Bank)]] for the net-bank peer / contrast, and against [[financial-regulators/fsa|the FSA]] plus [[banking/INDEX|banking]] for the supervisory / system boundary. Parent group context lives in [[securities-firms/daiwa-sg|大和証券グループ]].
 
 ## TL;DR
 
-大和ネクスト銀行は [[securities-firms/daiwa-sg|大和証券グループ]] の銀行 operating company。大和証券口座との連携を前提とした預金・外貨・資産形成サポート銀行で、2026-04-27 に [[trust-banks/orix-bank|オリックス銀行]] の完全子会社化を公表したため、証券グループの銀行機能拡張で重要性が増している。
+大和ネクスト銀行は、銀行法上の銀行免許を持ち金融庁の銀行免許一覧に掲載される [[securities-firms/daiwa-sg|大和証券グループ]] の銀行 operating company（ネット銀行 / その他銀行）。大和証券口座との連携を前提とした預金・外貨・資産形成サポート銀行で、2026-04-27 に親会社（大和証券グループ本社）が [[trust-banks/orix-bank|オリックス銀行]] を約 3,700 億円で完全子会社化し、将来の両行合併を計画すると公表したため、証券グループの銀行機能拡張で重要性が増している。
 
 ## 1. 法人・ライセンス境界
 
@@ -32,29 +32,40 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[regiona
 |---|---|
 | Legal name | 株式会社大和ネクスト銀行 |
 | English name | Daiwa Next Bank, Ltd. |
-| FSA category | その他銀行 |
+| License route | 銀行法上の銀行免許; FSA 区分「その他の銀行」 |
 | Parent boundary | [[securities-firms/daiwa-sg|大和証券グループ本社]] 100% bank subsidiary |
-| Strategic watch | [[trust-banks/orix-bank|オリックス銀行]] acquisition / future integration |
+| Strategic watch | [[trust-banks/orix-bank|オリックス銀行]] 子会社化（2026-04-27 公表）/ 将来合併計画 |
 
 ## 2. Business role
 
 - 大和証券口座と連携するネット銀行として、円預金・外貨預金・資金移動・資産形成サポートを提供する。
 - 全国の大和証券店舗・営業員ネットワークと接続するため、完全オンライン専業銀行とは異なる hybrid securities-bank model。
-- オリックス銀行買収が完了すれば、不動産ローン・信託機能・預金基盤の拡張が焦点になる。
+- オリックス銀行の子会社化・将来合併が進めば、不動産ローン・預金基盤の拡張が焦点になる（公表ベースでは両行合算で総資産規模の大幅拡大を企図）。
+- 既存のネット銀行 [[regional-banks/sony-bank|ソニー銀行]] と並ぶ「事業グループ発のネット銀行」類型として読める。
 
-## 3. Why standalone page matters
+## 3. Regulatory & system positioning
+
+- **Supervision**: 銀行法のもとで金融庁 ([[financial-regulators/fsa|FSA]]) が監督。地方銀行協会・第二地方銀行協会ではなく FSA 区分上「その他の銀行」に属するネット銀行。自己資本比率規制等で健全性が規律される。
+- **Industry / system**: 全国銀行資金決済ネットワーク（全銀システム）に参加し、業界団体としては [[financial-regulators/zenginkyo|全国銀行協会（全銀協）]] の枠組みに連なる。
+- **Depositor protection**: 預金は預金保険機構（DIC）の付保対象。
+
+## 4. Why standalone page matters
 
 大和証券グループの証券会社ページだけでは、銀行免許、預金基盤、証券口座連動、オリックス銀行統合を追えない。大和ネクスト銀行は「証券グループが銀行機能をどこまで持つか」を見る代表例。
 
 ## Related
 
+- [[regional-banks/INDEX|regional-banks INDEX]]
+- [[regional-banks/sony-bank|ソニー銀行]]
 - [[securities-firms/daiwa-sg]]
 - [[trust-banks/orix-bank]]
-- [[securities/INDEX]]
+- [[financial-regulators/fsa|FSA]]
 - [[banking/post-megabank-positioning]]
+- [[banking/INDEX]]
+- [[INDEX|FinWiki index]]
 
 ## Sources
 
-- FSA, "銀行免許一覧", `ginkou.xlsx`.
-- Daiwa Next Bank, "会社概要".
-- Daiwa Securities Group / Daiwa Next Bank, "オリックス銀行株式会社の子会社化について" (2026-04-27).
+- FSA (金融庁): 銀行免許一覧 (`ginkou.xlsx`), その他の銀行.
+- Daiwa Next Bank, 会社概要, `https://www.bank-daiwa.co.jp/about/company/profile/`.
+- Daiwa Securities Group Inc. / Daiwa Next Bank, 「オリックス銀行株式会社の子会社化について」 (2026-04-27), `https://www.bank-daiwa.co.jp/info/2026/pdf/0427_02.pdf`.

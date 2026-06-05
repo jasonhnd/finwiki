@@ -17,8 +17,8 @@
     ],
     "domain": "cooperative-banks",
     "created": "2026-05-24",
-    "last_updated": "2026-05-24",
-    "last_tended": "2026-05-24",
+    "last_updated": "2026-06-05",
+    "last_tended": "2026-06-05",
     "review_by": "2026-11-20",
     "confidence": "likely",
     "tags": [
@@ -36,46 +36,57 @@
       "https://www.shinkin-central-bank.jp/"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 朝日信用金庫 for peer / contrast context inside the Tokyo shinkin block and Japan shinkin bank registry for the broader system / regulatory boundary maintained by 信金中央金庫.",
+  "summary": "This entry sits under cooperative-banks index. Read it against 朝日信用金庫 for peer / contrast context inside the Tokyo shinkin block, Japan shinkin bank registry for the system landscape, 信金中央金庫 for the cooperative central institution above it, and the FSA for the supervisory / licensing boundary over 信",
   "headings": [
     "城南信用金庫",
     "Wiki route",
     "TL;DR",
     "1. License / group boundary",
-    "2. Operating model",
-    "3. Why this page matters",
+    "2. Institution-type business model",
+    "3. System & regulatory positioning",
+    "4. Why this page matters",
     "Related",
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 8,
+    "wikilinks_count": 13,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "banking/cooperative-banking-japan",
       "banking/shinkin-bank-registry-japan",
+      "cooperative-banks/INDEX",
       "cooperative-banks/asahi-shinkin",
       "cooperative-banks/johoku-shinkin",
       "cooperative-banks/kawasaki-shinkin",
-      "cooperative-banks/shinkin-central"
+      "cooperative-banks/norinchukin",
+      "cooperative-banks/rokin-renraku",
+      "cooperative-banks/shinkin-central",
+      "financial-regulators/dic",
+      "financial-regulators/fsa",
+      "regional-banks/yokohama-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/cooperative-banking-japan",
       "https://finwiki.zksc.io/banking/shinkin-bank-registry-japan",
+      "https://finwiki.zksc.io/cooperative-banks/INDEX",
       "https://finwiki.zksc.io/cooperative-banks/asahi-shinkin",
       "https://finwiki.zksc.io/cooperative-banks/johoku-shinkin",
       "https://finwiki.zksc.io/cooperative-banks/kawasaki-shinkin",
-      "https://finwiki.zksc.io/cooperative-banks/shinkin-central"
+      "https://finwiki.zksc.io/cooperative-banks/norinchukin",
+      "https://finwiki.zksc.io/cooperative-banks/rokin-renraku",
+      "https://finwiki.zksc.io/cooperative-banks/shinkin-central",
+      "https://finwiki.zksc.io/financial-regulators/dic",
+      "https://finwiki.zksc.io/financial-regulators/fsa",
+      "https://finwiki.zksc.io/regional-banks/yokohama-bank"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1843,
-    "word_like_tokens": 245,
+    "nonspace_chars": 3664,
+    "word_like_tokens": 522,
     "inbound_wikilinks_count": 8,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-05"
   }
 }

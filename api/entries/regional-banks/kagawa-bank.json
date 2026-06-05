@@ -17,9 +17,9 @@
     ],
     "domain": "regional-banks",
     "created": "2026-05-21",
-    "last_updated": "2026-05-21",
-    "last_tended": "2026-05-21",
-    "review_by": "2026-11-21",
+    "last_updated": "2026-06-05",
+    "last_tended": "2026-06-05",
+    "review_by": "2026-12-05",
     "confidence": "likely",
     "tags": [
       "JapanFG",
@@ -35,36 +35,51 @@
       "https://www.kagawabank.co.jp/about/gaiyou.html"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 徳島大正銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under regional-banks INDEX (its domain route). Read it against 百十四銀行 for the same-prefecture peer / contrast (first vs second regional bank), and against the FSA plus banking for the supervisory / system boundary.",
   "headings": [
     "香川銀行",
     "Wiki route",
     "TL;DR",
     "1. License / group boundary",
     "2. Operating model",
-    "3. Why this page matters",
+    "3. Regulatory & system positioning",
+    "4. Why this page matters",
     "Related",
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 8,
+    "wikilinks_count": 15,
     "wikilinks": [
-      "JapanFG/INDEX",
+      "INDEX",
       "awa-bank",
       "banking/INDEX",
       "banking/regional-bank-consolidation-pattern",
+      "financial-regulators/fsa",
+      "financial-regulators/zenginkyo",
       "hyakujushi-bank",
+      "regional-banks/INDEX",
+      "regional-banks/awa-bank",
+      "regional-banks/hyakujushi-bank",
+      "regional-banks/iyo-bank",
       "regional-banks/tokushima-taisho-bank",
+      "regional-banks/tomony-hd",
       "tokushima-taisho-bank",
       "tomony-hd"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/INDEX",
       "https://finwiki.zksc.io/awa-bank",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
+      "https://finwiki.zksc.io/financial-regulators/fsa",
+      "https://finwiki.zksc.io/financial-regulators/zenginkyo",
       "https://finwiki.zksc.io/hyakujushi-bank",
+      "https://finwiki.zksc.io/regional-banks/INDEX",
+      "https://finwiki.zksc.io/regional-banks/awa-bank",
+      "https://finwiki.zksc.io/regional-banks/hyakujushi-bank",
+      "https://finwiki.zksc.io/regional-banks/iyo-bank",
       "https://finwiki.zksc.io/regional-banks/tokushima-taisho-bank",
+      "https://finwiki.zksc.io/regional-banks/tomony-hd",
       "https://finwiki.zksc.io/tokushima-taisho-bank",
       "https://finwiki.zksc.io/tomony-hd"
     ],
@@ -72,9 +87,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1769,
-    "word_like_tokens": 278,
+    "nonspace_chars": 2683,
+    "word_like_tokens": 394,
     "inbound_wikilinks_count": 1,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-05"
   }
 }

@@ -18,8 +18,8 @@
     ],
     "domain": "regional-banks",
     "created": "2026-05-21",
-    "last_updated": "2026-05-21",
-    "last_tended": "2026-05-21",
+    "last_updated": "2026-06-05",
+    "last_tended": "2026-06-05",
     "review_by": "2026-11-21",
     "confidence": "likely",
     "tags": [
@@ -32,10 +32,11 @@
     "status": "active",
     "sources": [
       "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
-      "https://www.first-bank.co.jp/about/company/"
+      "https://www.first-bank.co.jp/about/company/",
+      "https://ja.wikipedia.org/wiki/富山第一銀行"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 徳島大正銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under regional-banks INDEX (its domain route). Read it against 富山銀行 for the same-prefecture peer / contrast (first vs second regional bank) and 北陸銀行 for the dominant in-prefecture bank, and against the FSA plus banking for the supervisory / system boundary.",
   "headings": [
     "富山第一銀行",
     "Wiki route",
@@ -47,36 +48,38 @@
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 9,
+    "wikilinks_count": 10,
     "wikilinks": [
-      "JapanFG/INDEX",
+      "INDEX",
       "banking/INDEX",
       "banking/regional-bank-consolidation-pattern",
-      "hokkoku-bank",
-      "hokkoku-fhd",
-      "hokuhoku-fg",
-      "hokuriku-bank",
-      "regional-banks/tokushima-taisho-bank",
-      "toyama-bank"
+      "financial-regulators/fsa",
+      "regional-banks/INDEX",
+      "regional-banks/hokkoku-bank",
+      "regional-banks/hokkoku-fhd",
+      "regional-banks/hokuhoku-fg",
+      "regional-banks/hokuriku-bank",
+      "regional-banks/toyama-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
-      "https://finwiki.zksc.io/hokkoku-bank",
-      "https://finwiki.zksc.io/hokkoku-fhd",
-      "https://finwiki.zksc.io/hokuhoku-fg",
-      "https://finwiki.zksc.io/hokuriku-bank",
-      "https://finwiki.zksc.io/regional-banks/tokushima-taisho-bank",
-      "https://finwiki.zksc.io/toyama-bank"
+      "https://finwiki.zksc.io/financial-regulators/fsa",
+      "https://finwiki.zksc.io/regional-banks/INDEX",
+      "https://finwiki.zksc.io/regional-banks/hokkoku-bank",
+      "https://finwiki.zksc.io/regional-banks/hokkoku-fhd",
+      "https://finwiki.zksc.io/regional-banks/hokuhoku-fg",
+      "https://finwiki.zksc.io/regional-banks/hokuriku-bank",
+      "https://finwiki.zksc.io/regional-banks/toyama-bank"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1725,
-    "word_like_tokens": 275,
-    "inbound_wikilinks_count": 0,
-    "last_modified": "2026-06-04"
+    "nonspace_chars": 2543,
+    "word_like_tokens": 378,
+    "inbound_wikilinks_count": 1,
+    "last_modified": "2026-06-05"
   }
 }

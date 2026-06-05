@@ -17,8 +17,8 @@
     ],
     "domain": "regional-banks",
     "created": "2026-05-21",
-    "last_updated": "2026-05-21",
-    "last_tended": "2026-05-21",
+    "last_updated": "2026-06-05",
+    "last_tended": "2026-06-05",
     "review_by": "2026-11-21",
     "confidence": "likely",
     "tags": [
@@ -32,10 +32,11 @@
     "status": "active",
     "sources": [
       "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
-      "https://www.tajimabank.co.jp/about/company/index.html"
+      "https://www.tajimabank.co.jp/about/company/index.html",
+      "https://ja.wikipedia.org/wiki/但馬銀行"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 関西みらい銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under regional-banks INDEX (its domain route). Read it against みなと銀行 for the same-prefecture peer / contrast (Hyogo first-regional-bank vs second-regional-bank) and 関西みらい銀行 for the larger Kansai-group rival, and against the FSA plus banking for the supervisory / system boundary.",
   "headings": [
     "但馬銀行",
     "Wiki route",
@@ -49,22 +50,22 @@
   "body_links": {
     "wikilinks_count": 8,
     "wikilinks": [
-      "JapanFG/INDEX",
+      "INDEX",
       "banking/INDEX",
       "banking/regional-bank-consolidation-pattern",
-      "ikeda-senshu-bank",
-      "kansai-mirai-bank",
-      "minato-bank",
+      "financial-regulators/fsa",
+      "regional-banks/INDEX",
+      "regional-banks/ikeda-senshu-bank",
       "regional-banks/kansai-mirai-bank",
       "regional-banks/minato-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
-      "https://finwiki.zksc.io/ikeda-senshu-bank",
-      "https://finwiki.zksc.io/kansai-mirai-bank",
-      "https://finwiki.zksc.io/minato-bank",
+      "https://finwiki.zksc.io/financial-regulators/fsa",
+      "https://finwiki.zksc.io/regional-banks/INDEX",
+      "https://finwiki.zksc.io/regional-banks/ikeda-senshu-bank",
       "https://finwiki.zksc.io/regional-banks/kansai-mirai-bank",
       "https://finwiki.zksc.io/regional-banks/minato-bank"
     ],
@@ -72,9 +73,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1773,
-    "word_like_tokens": 276,
+    "nonspace_chars": 2374,
+    "word_like_tokens": 361,
     "inbound_wikilinks_count": 2,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-05"
   }
 }
