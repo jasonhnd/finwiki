@@ -1,5 +1,5 @@
 ---
-source: japanfg/asahi-shinkin
+source: cooperative-banks/asahi-shinkin
 source_hash: 7bf9ac26ab4924a2
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T11:13:44.903Z
 
 ## 维基路线
 
-该条目位于[[JapanFG/INDEX|JapanFG index]]。阅读它反对[[cooperative-banks/jonan-shinkin|城南信用金庫]]东京信用金区块内的同行/对比背景以及[[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]]对于更广泛的系统/监管边界[[cooperative-banks/shinkin-central|信金中央金庫]]。
+该条目位于[[cooperative-banks/INDEX|cooperative-banks INDEX]]。阅读它反对[[cooperative-banks/jonan-shinkin|城南信用金庫]]东京信用金区块内的同行/对比背景以及[[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]]对于更广泛的系统/监管边界[[cooperative-banks/shinkin-central|信金中央金庫]]。
 
 ## 长话短说
 

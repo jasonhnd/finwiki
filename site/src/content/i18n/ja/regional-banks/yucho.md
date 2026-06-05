@@ -1,5 +1,5 @@
 ---
-source: japanfg/yucho
+source: regional-banks/yucho
 source_hash: e3664b4b99ca62ee
 lang: ja
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-02T16:33:58.480Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] 配下にあります。比較・対照の文脈では [[megabanks/resona-hd|りそなホールディングス (Resona Holdings)]] を、より広い制度・規制境界の文脈では [[banking/INDEX|banking index]] をあわせて参照してください。
+この項目は [[regional-banks/INDEX|regional-banks INDEX]] 配下にあります。比較・対照の文脈では [[megabanks/resona-hd|りそなホールディングス (Resona Holdings)]] を、より広い制度・規制境界の文脈では [[banking/INDEX|banking index]] をあわせて参照してください。
 
 ## 要約
 

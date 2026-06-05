@@ -27,7 +27,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **首都圏 (Tokyo) 職域 (occupation-based) shinkumi anchor** for the police sector, complementing [[cooperative-banks/tokyo-shobo-shinkumi|東京消防信用組合]] (fire dept) and [[cooperative-banks/tokyo-to-shokuin-shinkumi|東京都職員信用組合]] (metropolitan civil servant) within the 143-cooperative population catalogued in [[banking/credit-cooperative-registry-japan|Japan credit cooperative registry]].
+This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as the **首都圏 (Tokyo) 職域 (occupation-based) shinkumi anchor** for the police sector, complementing [[cooperative-banks/tokyo-shobo-shinkumi|東京消防信用組合]] (fire dept) and [[cooperative-banks/tokyo-to-shokuin-shinkumi|東京都職員信用組合]] (metropolitan civil servant) within the 143-cooperative population catalogued in [[banking/credit-cooperative-registry-japan|Japan credit cooperative registry]].
 
 ## TL;DR
 
@@ -122,7 +122,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **首都圏 (Tokyo)
 - [[banking/credit-cooperative-registry-japan]] — Japan credit cooperative registry (143 shinkumi 全体)
 - [[banking/cooperative-banking-japan]] — 協同組織金融全体
 - [[cooperative-banks/iwaki-shinkumi]] — いわき信用組合 (peer 地域型信組、業態対比)
-- [[JapanFG/INDEX|JapanFG index]]
+- [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 
 ## Sources
 

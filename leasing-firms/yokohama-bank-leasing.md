@@ -20,7 +20,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary leasing operating-company anchor for [[concordia-fg|横浜フィナンシャルグループ (旧コンコルディア FG)]]. Read it against parent operating bank [[yokohama-bank|横浜銀行]] and sibling subsidiary [[higashi-nippon-bank|東日本銀行]]. Peer comparison: [[mebuki-lease|めぶきリース]] (北関東地銀系) and major lessor [[mitsubishi-hc-capital|三菱 HC キャピタル]] / [[mizuho-lease|みずほリース]] / [[tokyo-century|東京センチュリー]]. For broader system route see [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]] and [[banking/INDEX|banking index]].
+This entry sits under the [[leasing-firms/INDEX|leasing-firms INDEX]] as the FG-subsidiary leasing operating-company anchor for [[concordia-fg|横浜フィナンシャルグループ (旧コンコルディア FG)]]. Read it against parent operating bank [[yokohama-bank|横浜銀行]] and sibling subsidiary [[higashi-nippon-bank|東日本銀行]]. Peer comparison: [[mebuki-lease|めぶきリース]] (北関東地銀系) and major lessor [[mitsubishi-hc-capital|三菱 HC キャピタル]] / [[mizuho-lease|みずほリース]] / [[tokyo-century|東京センチュリー]]. For broader system route see [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]] and [[banking/INDEX|banking index]].
 
 ## TL;DR
 
@@ -117,7 +117,7 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary l
 - [[mitsubishi-hc-capital]] · [[smfl]] · [[mizuho-lease]] · [[fuyo-lease]] · [[tokyo-century]] · [[ricoh-leasing]] · [[hokkaido-lease]] · [[mebuki-lease]]
 - [[ja-mitsui-leasing]] · [[nec-leasing]] · [[showa-leasing]]
 - [[banking/regional-bank-consolidation-pattern]] · [[banking/INDEX]]
-- [[JapanFG/INDEX|JapanFG index]]
+- [[leasing-firms/INDEX|leasing-firms INDEX]]
 
 ## Sources
 

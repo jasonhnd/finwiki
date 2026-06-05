@@ -1,5 +1,5 @@
 ---
-source: japanfg/01-bank
+source: regional-banks/01-bank
 source_hash: 7b072feb564b9abc
 lang: ja
 status: machine
@@ -29,7 +29,7 @@ translated_at: 2026-06-02T14:01:20.930Z
 
 - 01
 - 01
-- [[JapanFG/INDEX|JapanFG index]]
+- [[regional-banks/INDEX|regional-banks INDEX]]
 - [[regional-banks/ui-bank|UI銀行 (UI Bank)]]
 - [[banking/minna-bank-baas-model|みんなの銀行]]
 - [[regional-banks/ikeda-senshu-hd|池田泉州ホールディングス]]

@@ -1,5 +1,5 @@
 ---
-source: japanfg/meiji-yasuda
+source: life-insurers/meiji-yasuda
 source_hash: 75a37e4297f811af
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:59:49.330Z
 
 ## Wiki route
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可与 [[life-insurers/nippon-life|日本生命保険相互会社 (Nippon Life)]] 对照阅读，以理解同业 / 反差语境；也可与 [[insurance/INDEX|insurance index]] 一起阅读，以理解更大的系统 / 监管边界。
+本条目位于 [[life-insurers/INDEX|life-insurers INDEX]] 之下。可与 [[life-insurers/nippon-life|日本生命保険相互会社 (Nippon Life)]] 对照阅读，以理解同业 / 反差语境；也可与 [[insurance/INDEX|insurance index]] 一起阅读，以理解更大的系统 / 监管边界。
 
 ## TL;DR
 

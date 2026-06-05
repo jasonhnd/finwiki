@@ -55,7 +55,7 @@ For retail household investment flow, connect to [[securities/nisa-2024-flow]]. 
 
 ## Related
 
-- [[JapanFG/INDEX|JapanFG INDEX]]
+- [[securities-firms/INDEX|securities-firms INDEX]]
 - [[securities/INDEX|securities INDEX]]
 - [[megabanks/mizuho-fg]]
 - [[securities-firms/nomura-hd]]

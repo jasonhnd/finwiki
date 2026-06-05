@@ -1,5 +1,5 @@
 ---
-source: japanfg/tokio-marine-asset-management
+source: asset-managers/tokio-marine-asset-management
 source_hash: 515723baeed88661
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.146Z
 
 ## Wiki Route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[asset-managers/asset-management-one|アセットマネジメントOne]] for peer / contrast context, [[financial-licenses/securities-license-stack|securities license stack]] for the FIEA license boundary, and [[securities/financial-instruments-business-operators-japan-index|FSA 金商業者 index]] for the registry layer.
+This entry sits under [[asset-managers/INDEX|asset-managers INDEX]]. Read it against [[asset-managers/asset-management-one|アセットマネジメントOne]] for peer / contrast context, [[financial-licenses/securities-license-stack|securities license stack]] for the FIEA license boundary, and [[securities/financial-instruments-business-operators-japan-index|FSA 金商業者 index]] for the registry layer.
 
 ## TL;DR
 

@@ -42,7 +42,7 @@
       "https://www.fsa.go.jp/news/r5/shouken/20240228.html"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it alongside EY 新日本、トーマツ、あずさ、PwC あらた for Big 4 比較、and 金融ライセンス INDEX for 公認会計士法 / 監査品質管理の規制境界。CPAAOB 監督文脈は 金融庁 監督局 と 金融庁 総合政策局 の所管。",
+  "summary": "This entry sits under financial-regulators INDEX. Read it alongside EY 新日本、トーマツ、あずさ、PwC あらた for Big 4 比較、and 金融ライセンス INDEX for 公認会計士法 / 監査品質管理の規制境界。CPAAOB 監督文脈は 金融庁 監督局 と 金融庁 総合政策局 の所管。",
   "headings": [
     "太陽有限責任監査法人 (Grant Thornton Taiyo)",
     "Wiki route",
@@ -58,9 +58,9 @@
   "body_links": {
     "wikilinks_count": 10,
     "wikilinks": [
-      "JapanFG/INDEX",
       "exchanges/japan-crypto-audit-firm-landscape",
       "financial-licenses/INDEX",
+      "financial-regulators/INDEX",
       "financial-regulators/deloitte-touche-tohmatsu",
       "financial-regulators/ey-shinnihon",
       "financial-regulators/fsa-strategy-bureau",
@@ -70,9 +70,9 @@
       "megabanks/sbi-hd"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/exchanges/japan-crypto-audit-firm-landscape",
       "https://finwiki.zksc.io/financial-licenses/INDEX",
+      "https://finwiki.zksc.io/financial-regulators/INDEX",
       "https://finwiki.zksc.io/financial-regulators/deloitte-touche-tohmatsu",
       "https://finwiki.zksc.io/financial-regulators/ey-shinnihon",
       "https://finwiki.zksc.io/financial-regulators/fsa-strategy-bureau",
@@ -85,9 +85,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3997,
-    "word_like_tokens": 615,
+    "nonspace_chars": 4023,
+    "word_like_tokens": 617,
     "inbound_wikilinks_count": 8,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

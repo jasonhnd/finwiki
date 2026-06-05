@@ -1,5 +1,5 @@
 ---
-source: japanfg/mufg-mums
+source: securities-firms/mufg-mums
 source_hash: d106a9851ba46310
 lang: en
 status: machine
@@ -42,7 +42,7 @@ That means MUMSS should not be treated as simply "MUFG's retail brokerage" or si
 
 ## Related
 
-- [[JapanFG/INDEX|JapanFG INDEX]]
+- [[securities-firms/INDEX|securities-firms INDEX]]
 - [[securities/INDEX|securities INDEX]]
 - [[megabanks/mufg]]
 - [[securities-firms/mizuho-securities]]

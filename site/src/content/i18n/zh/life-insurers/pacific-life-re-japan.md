@@ -1,5 +1,5 @@
 ---
-source: japanfg/pacific-life-re-japan
+source: life-insurers/pacific-life-re-japan
 source_hash: eb722d9a61ef42a5
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-01T00:41:50.414Z
 
 ## Wiki route
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 下。可与 [[non-life-insurers/swiss-re-japan|Swiss Re Japan]] 和 [[non-life-insurers/hannover-re-japan|Hannover Re Japan]] 对照阅读，以了解寿险再保险同业背景；更广泛的日本寿险 / 再保险市场系统和监管边界见 [[insurance/INDEX|insurance index]]。
+本条目位于 [[life-insurers/INDEX|life-insurers INDEX]] 下。可与 [[non-life-insurers/swiss-re-japan|Swiss Re Japan]] 和 [[non-life-insurers/hannover-re-japan|Hannover Re Japan]] 对照阅读，以了解寿险再保险同业背景；更广泛的日本寿险 / 再保险市场系统和监管边界见 [[insurance/INDEX|insurance index]]。
 
 ## TL;DR
 

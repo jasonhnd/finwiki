@@ -1,5 +1,5 @@
 ---
-source: japanfg/nomura-hd
+source: securities-firms/nomura-hd
 source_hash: 2232be608a2f42b1
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T00:41:50.461Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[securities-firms/daiwa-sg|大和証券グループ本社 (Daiwa Securities Group)]] for peer / contrast context and [[securities/INDEX|securities index]] for the broader system / regulatory boundary.
+This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it against [[securities-firms/daiwa-sg|大和証券グループ本社 (Daiwa Securities Group)]] for peer / contrast context and [[securities/INDEX|securities index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 

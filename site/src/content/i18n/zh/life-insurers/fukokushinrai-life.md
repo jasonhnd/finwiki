@@ -1,5 +1,5 @@
 ---
-source: japanfg/fukokushinrai-life
+source: life-insurers/fukokushinrai-life
 source_hash: 9c1d04edbbeea2ac
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T15:29:03.930Z
 
 ## Wiki 路径
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]]。可结合 [[life-insurers/fukoku-life|Fukoku Life]] 了解集团脉络，并结合 [[insurance/INDEX|insurance index]] 了解更广泛的保险体系与监管边界。
+本条目位于 [[life-insurers/INDEX|life-insurers INDEX]]。可结合 [[life-insurers/fukoku-life|Fukoku Life]] 了解集团脉络，并结合 [[insurance/INDEX|insurance index]] 了解更广泛的保险体系与监管边界。
 
 ## TL;DR
 
@@ -36,7 +36,7 @@ translated_at: 2026-05-31T15:29:03.930Z
 
 ## Related
 
-- [[JapanFG/INDEX|JapanFG index]]
+- [[life-insurers/INDEX|life-insurers INDEX]]
 - [[insurance/INDEX|insurance index]]
 - [[life-insurers/fukoku-life|Fukoku Life]]
 - [[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]]

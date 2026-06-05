@@ -22,7 +22,7 @@ sources:
 
 ## Wiki route
 
-Sekisui House Trust is a standalone trust-company route under [[JapanFG/INDEX|JapanFG]] and is promoted from [[trust-banks/trust-companies-japan-index|the Japan trust companies registry index]]. Read it with [[banking/japan-trust-bank-custody-map|Japan trust-bank custody map]], [[policy-finance/japan-housing-finance-agency|Japan Housing Finance Agency]], and [[trust-banks/daiwa-living-trust|Daiwa Living Trust]].
+Sekisui House Trust is a standalone trust-company route under [[trust-banks/INDEX|trust-banks INDEX]] and is promoted from [[trust-banks/trust-companies-japan-index|the Japan trust companies registry index]]. Read it with [[banking/japan-trust-bank-custody-map|Japan trust-bank custody map]], [[policy-finance/japan-housing-finance-agency|Japan Housing Finance Agency]], and [[trust-banks/daiwa-living-trust|Daiwa Living Trust]].
 
 Use this page for real-estate management trust, rental-housing succession, and housing-company trust-service questions.
 
@@ -68,7 +68,7 @@ Do not infer loan underwriting, tax benefits, or rental yield outcomes without p
 
 ## Related
 
-- [[JapanFG/INDEX]]
+- [[trust-banks/INDEX]]
 - [[trust-banks/trust-companies-japan-index]]
 - [[banking/japan-trust-bank-custody-map]]
 - [[policy-finance/japan-housing-finance-agency]]

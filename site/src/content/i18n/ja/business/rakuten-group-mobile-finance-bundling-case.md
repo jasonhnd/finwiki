@@ -12,7 +12,7 @@ translated_at: 2026-06-02T11:47:37.282Z
 
 ## ウィキ上の位置づけ
 
-このエントリは上場企業の戦略事例として [[business/INDEX|business INDEX]] の下に位置する。逆に通信が金融を補助する対照パターンについては [[business/ntt-docomo-d-point-telco-finance-case|NTT Docomo d-Point telco-finance case]] と、インターネットから金融へのコングロマリットの並行例については [[business/gmo-internet-group|GMO Internet Group]] と、対照的な独立系 FG の経路については [[business/kitao-yoshitaka-sbi-independent-strategy-case|Kitao Yoshitaka SBI independent strategy]] と併せて読むこと。エンティティのカバレッジについては [[JapanFG/INDEX|JapanFG INDEX]] と組み合わせること。
+このエントリは上場企業の戦略事例として [[business/INDEX|business INDEX]] の下に位置する。逆に通信が金融を補助する対照パターンについては [[business/ntt-docomo-d-point-telco-finance-case|NTT Docomo d-Point telco-finance case]] と、インターネットから金融へのコングロマリットの並行例については [[business/gmo-internet-group|GMO Internet Group]] と、対照的な独立系 FG の経路については [[business/kitao-yoshitaka-sbi-independent-strategy-case|Kitao Yoshitaka SBI independent strategy]] と併せて読むこと。エンティティのカバレッジについては [[business/INDEX|business INDEX]] と組み合わせること。
 
 ## 要約
 

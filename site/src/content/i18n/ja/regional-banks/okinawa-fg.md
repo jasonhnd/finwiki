@@ -1,5 +1,5 @@
 ---
-source: japanfg/okinawa-fg
+source: regional-banks/okinawa-fg
 source_hash: d585c2eab38684b7
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T15:14:17.138Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に位置する。比較・対照の文脈では [[regional-banks/ryukyu-bank|株式会社琉球銀行]]、より広い制度上・規制上の境界については [[banking/INDEX|banking index]] とあわせて読む。
+この項目は [[regional-banks/INDEX|regional-banks INDEX]] の配下に位置する。比較・対照の文脈では [[regional-banks/ryukyu-bank|株式会社琉球銀行]]、より広い制度上・規制上の境界については [[banking/INDEX|banking index]] とあわせて読む。
 
 ## 要約
 
@@ -186,7 +186,7 @@ translated_at: 2026-06-02T15:14:17.138Z
 - [[ryukyu-bank]] — 沖縄県内 No.2 地銀・1948 設立・PRIME 8399・単独銀行
 - [[kyushu-fg]] · [[fukuoka-fg]] · [[nishi-nippon-fhd]] — 九州地区競合・本土地銀
 - [[mufg]] · [[smfg]] · [[mizuho-fg]] — メガバンク県内拠点・大企業向け競合
-- [[JapanFG/INDEX|Japan FG INDEX]]
+- [[regional-banks/INDEX|regional-banks INDEX]]
 
 ## 出典
 

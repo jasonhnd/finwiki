@@ -1,5 +1,5 @@
 ---
-source: japanfg/smt-am
+source: asset-managers/smt-am
 source_hash: 8110062bb5fbe309
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.135Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[asset-managers/asset-management-one|Asset Management One]] for peer / contrast context, [[financial-licenses/securities-license-stack|securities license stack]] for the FIEA license boundary, and [[securities/financial-instruments-business-operators-japan-index|FSA Financial Instruments Business Operators index]] for the registry layer.
+This entry sits under [[asset-managers/INDEX|asset-managers INDEX]]. Read it against [[asset-managers/asset-management-one|Asset Management One]] for peer / contrast context, [[financial-licenses/securities-license-stack|securities license stack]] for the FIEA license boundary, and [[securities/financial-instruments-business-operators-japan-index|FSA Financial Instruments Business Operators index]] for the registry layer.
 
 ## TL;DR
 

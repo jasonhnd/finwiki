@@ -1,5 +1,5 @@
 ---
-source: japanfg/dbj
+source: financial-regulators/dbj
 source_hash: 68ddc74cc7e6c154
 lang: en
 status: machine

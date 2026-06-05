@@ -1,5 +1,5 @@
 ---
-source: japanfg/boj-international-dept
+source: financial-regulators/boj-international-dept
 source_hash: a8af91109f28c734
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T11:13:44.893Z
 # 日本央行国际部
 
 ## 维基路线
-该条目位于 [[JapanFG/INDEX|JapanFG index]]。阅读它反对 [[financial-regulators/boj-financial-markets-dept|金融市場局]] 为国内市场运营同行和 [[financial-regulators/fsa-strategy-bureau|FSA 総合政策局]] FSA 方面的国际政策通道。对于货币和外汇背景，锚定 [[financial-regulators/boj-monetary-policy|BoJ monetary policy]] 和 [[money-market/japan-money-market|Japan money market]]。
+该条目位于 [[financial-regulators/INDEX|financial-regulators INDEX]]。阅读它反对 [[financial-regulators/boj-financial-markets-dept|金融市場局]] 为国内市场运营同行和 [[financial-regulators/fsa-strategy-bureau|FSA 総合政策局]] FSA 方面的国际政策通道。对于货币和外汇背景，锚定 [[financial-regulators/boj-monetary-policy|BoJ monetary policy]] 和 [[money-market/japan-money-market|Japan money market]]。
 
 ##TL;博士
 

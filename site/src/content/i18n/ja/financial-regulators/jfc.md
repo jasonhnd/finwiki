@@ -1,5 +1,5 @@
 ---
-source: japanfg/jfc
+source: financial-regulators/jfc
 source_hash: 0b3a875703c20971
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:25:12.437Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の下に置く。比較対象・対照軸は [[financial-regulators/jbic|国際協力銀行 (JBIC)]]、より広い制度・規制境界は [[banking/INDEX|banking index]] とあわせて読む。
+この項目は [[financial-regulators/INDEX|financial-regulators INDEX]] の下に置く。比較対象・対照軸は [[financial-regulators/jbic|国際協力銀行 (JBIC)]]、より広い制度・規制境界は [[banking/INDEX|banking index]] とあわせて読む。
 
 ## 要約
 

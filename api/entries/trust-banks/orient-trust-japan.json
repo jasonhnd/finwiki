@@ -46,7 +46,7 @@
       "Wikipedia: Northern Trust (公開情報, 2026-05-25 抽出)"
     ]
   },
-  "summary": "This entry sits under JapanFG index as a foreign-affiliated trust / asset-servicing subsidiary anchor. Read it against State Street Japan / BNY Mellon Japan / JPMorgan Japan for the foreign custodian / asset-servicing peer cluster, マスタートラスト信託銀行 / 三菱 UFJ 信託銀行 for the domestic trust peer cluster, the",
+  "summary": "This entry sits under trust-banks INDEX as a foreign-affiliated trust / asset-servicing subsidiary anchor. Read it against State Street Japan / BNY Mellon Japan / JPMorgan Japan for the foreign custodian / asset-servicing peer cluster, マスタートラスト信託銀行 / 三菱 UFJ 信託銀行 for the domestic trust peer cluster,",
   "headings": [
     "ノーザン・トラスト・ジャパン (Northern Trust Japan)",
     "Wiki route",
@@ -62,7 +62,6 @@
   "body_links": {
     "wikilinks_count": 20,
     "wikilinks": [
-      "JapanFG/INDEX",
       "asset-managers/daiwa-am",
       "asset-managers/mitsubishi-ufj-am",
       "asset-managers/nomura-am",
@@ -76,6 +75,7 @@
       "life-insurers/dai-ichi-life",
       "life-insurers/nippon-life",
       "non-life-insurers/tokio-marine",
+      "trust-banks/INDEX",
       "trust-banks/lgt-wealth-management-trust",
       "trust-banks/master-trust-bank",
       "trust-banks/mitsubishi-ufj-trust-bank",
@@ -84,7 +84,6 @@
       "trust-banks/trust-companies-japan-index"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/asset-managers/daiwa-am",
       "https://finwiki.zksc.io/asset-managers/mitsubishi-ufj-am",
       "https://finwiki.zksc.io/asset-managers/nomura-am",
@@ -98,6 +97,7 @@
       "https://finwiki.zksc.io/life-insurers/dai-ichi-life",
       "https://finwiki.zksc.io/life-insurers/nippon-life",
       "https://finwiki.zksc.io/non-life-insurers/tokio-marine",
+      "https://finwiki.zksc.io/trust-banks/INDEX",
       "https://finwiki.zksc.io/trust-banks/lgt-wealth-management-trust",
       "https://finwiki.zksc.io/trust-banks/master-trust-bank",
       "https://finwiki.zksc.io/trust-banks/mitsubishi-ufj-trust-bank",
@@ -109,9 +109,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 7256,
-    "word_like_tokens": 1106,
+    "nonspace_chars": 7268,
+    "word_like_tokens": 1109,
     "inbound_wikilinks_count": 1,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

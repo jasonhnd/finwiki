@@ -71,7 +71,7 @@ The peer set is not the European / US investment-bank cluster. It is closer to [
 
 ## Related
 
-- [[JapanFG/INDEX]]
+- [[foreign-financial-institutions/INDEX]]
 - [[foreign-financial-institutions/foreign-bank-branches-japan-index]]
 - [[foreign-financial-institutions/bangkok-bank-japan]]
 - [[foreign-financial-institutions/dbs-bank-japan]]

@@ -1,5 +1,5 @@
 ---
-source: japanfg/bdo-sanyu
+source: financial-regulators/bdo-sanyu
 source_hash: c1d4528761e011c3
 lang: en
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T15:29:02.768Z
 
 ## Wiki Route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it alongside [[financial-regulators/taiyo-grant-thornton|Taiyo Grant Thornton]] for mid-tier audit-firm context, and alongside [[financial-regulators/ey-shinnihon|EY ShinNihon]] and [[financial-regulators/deloitte-touche-tohmatsu|Deloitte Touche Tohmatsu]] for Big Four comparisons. The regulatory perimeter is the Certified Public Accountants Act and audit-quality-management framework covered through [[financial-licenses/INDEX|financial-license index]]. CPAAOB supervision sits with the Financial Services Agency.
+This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]]. Read it alongside [[financial-regulators/taiyo-grant-thornton|Taiyo Grant Thornton]] for mid-tier audit-firm context, and alongside [[financial-regulators/ey-shinnihon|EY ShinNihon]] and [[financial-regulators/deloitte-touche-tohmatsu|Deloitte Touche Tohmatsu]] for Big Four comparisons. The regulatory perimeter is the Certified Public Accountants Act and audit-quality-management framework covered through [[financial-licenses/INDEX|financial-license index]]. CPAAOB supervision sits with the Financial Services Agency.
 
 ## 1. Institutional Profile
 

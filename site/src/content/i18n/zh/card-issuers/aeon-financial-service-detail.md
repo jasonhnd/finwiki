@@ -1,5 +1,5 @@
 ---
-source: japanfg/aeon-financial-service-detail
+source: card-issuers/aeon-financial-service-detail
 source_hash: 3fb50625048a46ca
 lang: zh
 status: machine
@@ -15,7 +15,7 @@ translated_at: 2026-05-31T11:13:44.927Z
 
 ## 维基路线
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **operating-company anchor** for 株式会社電通グループ（東証 PRIME 4324、世界 5 大広告会社の一角）の **金融機能子会社群** — specifically, **電通ベンチャーズ（CVC = Corporate Venture Capital）+ 電通キャピタル（M&A / 戦略投資）+ 広告主向け請求・決済機能 + 国際拠点ファイナンス機能**. Read it against 博報堂 DY HD や WPP Japan for media-industry peer context, [[JapanFG/INDEX]] のメーカー captive-finance 子会社群（[[card-issuers/toyota-finance|トヨタファイナンス]]・[[JapanFG/sony-finance|ソニーファイナンス]]・[[JapanFG/nissan-finance|日産フィナンシャル]] 等）for industrial captive-finance peer cluster, and [[asset-management/cvc-japan-landscape|日本 CVC ランドスケープ]] for the corporate venture context.
+This entry sits under [[card-issuers/INDEX|card-issuers INDEX]] as the **operating-company anchor** for 株式会社電通グループ（東証 PRIME 4324、世界 5 大広告会社の一角）の **金融機能子会社群** — specifically, **電通ベンチャーズ（CVC = Corporate Venture Capital）+ 電通キャピタル（M&A / 戦略投資）+ 広告主向け請求・決済機能 + 国際拠点ファイナンス機能**. Read it against 博報堂 DY HD や WPP Japan for media-industry peer context, [[card-issuers/INDEX]] のメーカー captive-finance 子会社群（[[card-issuers/toyota-finance|トヨタファイナンス]]・[[JapanFG/sony-finance|ソニーファイナンス]]・[[JapanFG/nissan-finance|日産フィナンシャル]] 等）for industrial captive-finance peer cluster, and [[asset-management/cvc-japan-landscape|日本 CVC ランドスケープ]] for the corporate venture context.
 
 ##TL;博士
 
@@ -152,7 +152,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **operating-company
 - [[JapanFG/nissan-finance]] — 制造商自保金融同行
 - [[megabanks/sbi-hd]] — 主要 CVC/投资集团同行
 - [[asset-management/cvc-japan-landscape]] — 日本 CVC 格局
-- [[JapanFG/INDEX]] — JapanFG 命名空间索引
+- [[card-issuers/INDEX]] — JapanFG 命名空间索引
 
 ## 来源
 

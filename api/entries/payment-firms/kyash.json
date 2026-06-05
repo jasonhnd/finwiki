@@ -36,7 +36,7 @@
       "https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against pring for peer / contrast context and payments index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under payment-firms INDEX. Read it against pring for peer / contrast context and payments index for the broader system / regulatory boundary.",
   "headings": [
     "Kyash",
     "Wiki route",
@@ -50,9 +50,9 @@
   "body_links": {
     "wikilinks_count": 9,
     "wikilinks": [
-      "JapanFG/INDEX",
       "card-issuers/mufg-nicos",
       "card-issuers/smbc-card",
+      "payment-firms/INDEX",
       "payment-firms/paypay",
       "payment-firms/pring",
       "payment-firms/smartbank",
@@ -61,9 +61,9 @@
       "payments/funds-transfer-vs-prepaid-boundary"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/card-issuers/mufg-nicos",
       "https://finwiki.zksc.io/card-issuers/smbc-card",
+      "https://finwiki.zksc.io/payment-firms/INDEX",
       "https://finwiki.zksc.io/payment-firms/paypay",
       "https://finwiki.zksc.io/payment-firms/pring",
       "https://finwiki.zksc.io/payment-firms/smartbank",
@@ -75,9 +75,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2041,
-    "word_like_tokens": 329,
+    "nonspace_chars": 2053,
+    "word_like_tokens": 331,
     "inbound_wikilinks_count": 9,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

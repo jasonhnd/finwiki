@@ -1,5 +1,5 @@
 ---
-source: japanfg/sakura-insurance
+source: non-life-insurers/sakura-insurance
 source_hash: 29f4b496edc135cf
 lang: ja
 status: machine
@@ -9,7 +9,7 @@ translated_at: 2026-06-02T15:14:17.117Z
 ---
 # さくら損害保険
 
-ウィキ上の位置づけ: [[JapanFG/INDEX]] -> [[insurance/INDEX]] -> [[non-life-insurers/sakura-insurance]]
+ウィキ上の位置づけ: [[non-life-insurers/INDEX]] -> [[insurance/INDEX]] -> [[non-life-insurers/sakura-insurance]]
 
 ## 概要
 

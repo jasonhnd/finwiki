@@ -1,5 +1,5 @@
 ---
-source: japanfg/taishin-bank-japan
+source: foreign-financial-institutions/taishin-bank-japan
 source_hash: 497d908a61fd90fa
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.103Z
 
 ## Wiki route
 
-Taishin Bank Japan 位于 [[JapanFG/INDEX|JapanFG index]] 之下，并在 [[foreign-financial-institutions/foreign-bank-branches-japan-index|the foreign-bank branch registry]] 中属于台湾-日本外资银行分行路径。可与 [[foreign-financial-institutions/taipei-fubon-bank-japan|Taipei Fubon Bank Japan]]、[[foreign-financial-institutions/esun-bank-japan|E.SUN Bank Japan]]、[[foreign-financial-institutions/chang-hwa-bank-japan|Chang Hwa Bank Japan]] 和 [[banking/INDEX|banking index]] 对读。
+Taishin Bank Japan 位于 [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]] 之下，并在 [[foreign-financial-institutions/foreign-bank-branches-japan-index|the foreign-bank branch registry]] 中属于台湾-日本外资银行分行路径。可与 [[foreign-financial-institutions/taipei-fubon-bank-japan|Taipei Fubon Bank Japan]]、[[foreign-financial-institutions/esun-bank-japan|E.SUN Bank Japan]]、[[foreign-financial-institutions/chang-hwa-bank-japan|Chang Hwa Bank Japan]] 和 [[banking/INDEX|banking index]] 对读。
 
 本页用于台湾民营银行扩张、企业银行、分支网络比较，以及围绕台新国际商业银行东京分行的日本-台湾金融走廊问题。
 
@@ -56,7 +56,7 @@ FinWiki 应使用本页比较海外分行战略，而不是在没有公开交易
 
 ## Related
 
-- [[JapanFG/INDEX]]
+- [[foreign-financial-institutions/INDEX]]
 - [[foreign-financial-institutions/foreign-bank-branches-japan-index]]
 - [[foreign-financial-institutions/taipei-fubon-bank-japan]]
 - [[foreign-financial-institutions/esun-bank-japan]]

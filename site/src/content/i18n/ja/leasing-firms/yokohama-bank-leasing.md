@@ -1,5 +1,5 @@
 ---
-source: japanfg/yokohama-bank-leasing
+source: leasing-firms/yokohama-bank-leasing
 source_hash: 48657a6d6c645de3
 lang: ja
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-02T16:33:58.524Z
 
 ## ウィキ上の位置づけ
 
-このエントリは、[[JapanFG/INDEX|JapanFG index]] 配下に位置する、[[concordia-fg|横浜フィナンシャルグループ (旧コンコルディア FG)]] に対応する FG 子会社リース事業会社アンカーである。親事業銀行 [[yokohama-bank|横浜銀行]] および兄弟子会社 [[higashi-nippon-bank|東日本銀行]] と照らして読む。ピア比較は [[mebuki-lease|めぶきリース]] (北関東地銀系) および大手リース会社 [[mitsubishi-hc-capital|三菱 HC キャピタル]] / [[mizuho-lease|みずほリース]] / [[tokyo-century|東京センチュリー]]。より広い制度ルートについては [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]] と [[banking/INDEX|banking index]] を参照。
+このエントリは、[[leasing-firms/INDEX|leasing-firms INDEX]] 配下に位置する、[[concordia-fg|横浜フィナンシャルグループ (旧コンコルディア FG)]] に対応する FG 子会社リース事業会社アンカーである。親事業銀行 [[yokohama-bank|横浜銀行]] および兄弟子会社 [[higashi-nippon-bank|東日本銀行]] と照らして読む。ピア比較は [[mebuki-lease|めぶきリース]] (北関東地銀系) および大手リース会社 [[mitsubishi-hc-capital|三菱 HC キャピタル]] / [[mizuho-lease|みずほリース]] / [[tokyo-century|東京センチュリー]]。より広い制度ルートについては [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]] と [[banking/INDEX|banking index]] を参照。
 
 ## 要約
 
@@ -108,7 +108,7 @@ translated_at: 2026-06-02T16:33:58.524Z
 - [[mitsubishi-hc-capital]] · [[smfl]] · [[mizuho-lease]] · [[fuyo-lease]] · [[tokyo-century]] · [[ricoh-leasing]] · [[hokkaido-lease]] · [[mebuki-lease]]
 - [[ja-mitsui-leasing]] · [[nec-leasing]] · [[showa-leasing]]
 - [[banking/regional-bank-consolidation-pattern]] · [[banking/INDEX]]
-- [[JapanFG/INDEX|JapanFG index]]
+- [[leasing-firms/INDEX|leasing-firms INDEX]]
 
 ## 出典
 

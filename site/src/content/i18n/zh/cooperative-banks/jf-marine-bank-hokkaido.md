@@ -1,5 +1,5 @@
 ---
-source: japanfg/jf-marine-bank-hokkaido
+source: cooperative-banks/jf-marine-bank-hokkaido
 source_hash: 5951f6ad9d5cba9b
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:59:49.417Z
 
 ## Wiki route
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下，是 **FinWiki 中第一个 JF Marine Bank 都道府县联合会 operating-company 锚点**，补上了已记录 JF 信渔连（集合体）但缺少都道府县信渔连锚点的审计缺口。选择北海道，是因为它是**日本最大单一渔业地区**（鲑鱼 / 扇贝 / 昆布 / 沿岸渔业等生产额居首）+ **10-shingyoren landscape 中最突出的区域联合会**。可与 [[cooperative-banks/jf-shingyoren|JF 信漁連 (全国集合)]] 一起阅读，以理解全国都道府县联合会语境；与 [[cooperative-banks/jf-zengyoren|JF 全漁連]] 一起阅读，以理解 JF 集团全国代表 + 经济事业联合会；与 [[cooperative-banks/norinchukin|農林中央金庫]] 一起阅读，以理解上位中央机构；与 [[cooperative-banks/ja-bank-tokyo-shinren|JA バンク東京信連]] 一起阅读，以理解农业侧同业都道府县锚点；并与 [[banking/jf-marine-bank-system-japan|JF Marine Bank system]] 一起阅读，以理解系统边界。
+本条目位于 [[cooperative-banks/INDEX|cooperative-banks INDEX]] 之下，是 **FinWiki 中第一个 JF Marine Bank 都道府县联合会 operating-company 锚点**，补上了已记录 JF 信渔连（集合体）但缺少都道府县信渔连锚点的审计缺口。选择北海道，是因为它是**日本最大单一渔业地区**（鲑鱼 / 扇贝 / 昆布 / 沿岸渔业等生产额居首）+ **10-shingyoren landscape 中最突出的区域联合会**。可与 [[cooperative-banks/jf-shingyoren|JF 信漁連 (全国集合)]] 一起阅读，以理解全国都道府县联合会语境；与 [[cooperative-banks/jf-zengyoren|JF 全漁連]] 一起阅读，以理解 JF 集团全国代表 + 经济事业联合会；与 [[cooperative-banks/norinchukin|農林中央金庫]] 一起阅读，以理解上位中央机构；与 [[cooperative-banks/ja-bank-tokyo-shinren|JA バンク東京信連]] 一起阅读，以理解农业侧同业都道府县锚点；并与 [[banking/jf-marine-bank-system-japan|JF Marine Bank system]] 一起阅读，以理解系统边界。
 
 ## TL;DR
 
@@ -153,7 +153,7 @@ translated_at: 2026-05-31T23:59:49.417Z
 - [[banking/jf-marine-bank-system-japan]] -- JF Marine Bank system
 - [[banking/ja-bank-system-japan]] -- JA Bank system（peer system）
 - [[banking/cooperative-banking-japan]] -- 协同组织金融整体
-- [[JapanFG/INDEX|JapanFG index]]
+- [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 
 ## Sources
 

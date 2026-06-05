@@ -1,5 +1,5 @@
 ---
-source: japanfg/fukokushinrai-life
+source: life-insurers/fukokushinrai-life
 source_hash: 9c1d04edbbeea2ac
 lang: ja
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-02T14:25:12.445Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の下に位置づけられる。ピア比較・対照の文脈では [[life-insurers/dai-ichi-frontier-life|第一フロンティア生命保険]] を、より広い制度・規制境界では [[insurance/INDEX|insurance index]] を参照する。
+この項目は [[life-insurers/INDEX|life-insurers INDEX]] の下に位置づけられる。ピア比較・対照の文脈では [[life-insurers/dai-ichi-frontier-life|第一フロンティア生命保険]] を、より広い制度・規制境界では [[insurance/INDEX|insurance index]] を参照する。
 
 ## 要約
 

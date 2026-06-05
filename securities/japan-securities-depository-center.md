@@ -56,7 +56,7 @@ JASDEC is easy to miss because it is not consumer-facing. It becomes central whe
 - where broker-held shares are recorded;
 - how settlement risk is reduced via [[securities/japan-securities-clearing-corp|JSCC]] central counterparty layering;
 - how corporate actions flow through the system into venues such as [[securities/tokyo-stock-exchange|TSE]] and [[securities/osaka-digital-exchange|ODX]];
-- why digital securities and security-token markets need clear links to existing CSD infrastructure or a parallel settlement model (compare with the [[payment-firms/progmat|Progmat]] tokenization platform on the [[JapanFG/INDEX|JapanFG]] side).
+- why digital securities and security-token markets need clear links to existing CSD infrastructure or a parallel settlement model (compare with the [[payment-firms/progmat|Progmat]] tokenization platform on the [[securities/INDEX|securities INDEX]] side).
 
 ## Related
 

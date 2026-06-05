@@ -1,5 +1,5 @@
 ---
-source: japanfg/smbc-consumer-finance
+source: consumer-finance/smbc-consumer-finance
 source_hash: 4944049e083dd298
 lang: ja
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-06-02T15:14:17.104Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]]に置かれる。比較対象として[[card-issuers/jaccs|株式会社ジャックス (Jaccs)]] 同業・対比の文脈を確認する and [[banking/INDEX|banking index]] より広い制度・規制境界を確認する.
+この項目は [[consumer-finance/INDEX|consumer-finance INDEX]]に置かれる。比較対象として[[card-issuers/jaccs|株式会社ジャックス (Jaccs)]] 同業・対比の文脈を確認する and [[banking/INDEX|banking index]] より広い制度・規制境界を確認する.
 
 ## 要約
 

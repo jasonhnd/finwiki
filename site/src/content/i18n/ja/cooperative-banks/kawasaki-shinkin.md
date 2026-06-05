@@ -1,5 +1,5 @@
 ---
-source: japanfg/kawasaki-shinkin
+source: cooperative-banks/kawasaki-shinkin
 source_hash: 9d24bd392d637686
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:54:39.097Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] 配下に置く。神奈川の信用金庫ブロック内での比較・対照には [[cooperative-banks/yokohama-shinkin|横浜信用金庫]] を参照する。より広い制度・規制上の境界は [[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]] で扱われ、[[cooperative-banks/shinkin-central|信金中央金庫]] が維持する。
+この項目は [[cooperative-banks/INDEX|cooperative-banks INDEX]] 配下に置く。神奈川の信用金庫ブロック内での比較・対照には [[cooperative-banks/yokohama-shinkin|横浜信用金庫]] を参照する。より広い制度・規制上の境界は [[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]] で扱われ、[[cooperative-banks/shinkin-central|信金中央金庫]] が維持する。
 
 ## 要約
 

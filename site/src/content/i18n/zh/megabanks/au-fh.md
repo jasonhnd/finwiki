@@ -1,5 +1,5 @@
 ---
-source: japanfg/au-fh
+source: megabanks/au-fh
 source_hash: 548119cd84bdad36
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T11:13:44.839Z
 
 ## 维基路线
 
-该条目位于 [[JapanFG/INDEX|JapanFG index]] 下。针对同行/对比上下文阅读 [[megabanks/paypay-fg|PayPay 金融グループ]]，针对更广泛的系统/监管边界阅读 [[banking/INDEX|banking index]]。
+该条目位于 [[megabanks/INDEX|megabanks INDEX]] 下。针对同行/对比上下文阅读 [[megabanks/paypay-fg|PayPay 金融グループ]]，针对更广泛的系统/监管边界阅读 [[banking/INDEX|banking index]]。
 
 ##TL;博士
 

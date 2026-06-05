@@ -1,5 +1,5 @@
 ---
-source: japanfg/okinawa-fg
+source: regional-banks/okinawa-fg
 source_hash: d585c2eab38684b7
 lang: en
 status: machine
@@ -37,7 +37,7 @@ Read this entry together with the related banks, insurers, leasing companies, as
 
 ## Protected source anchors
 
-- [[JapanFG/INDEX|JapanFG index]] [[regional-banks/ryukyu-bank|株式会社琉球銀行]] [[banking/INDEX|banking index]] 2 兆 8552 億円 79 億円 2025 03  27% 2021-10-01 [[okinawa-bank|沖縄銀行]] 7350 1  [[okinawa-bank|沖縄銀行]] 1956  [[ryukyu-bank]] 2  2025
+- [[regional-banks/INDEX|regional-banks INDEX]] [[regional-banks/ryukyu-bank|株式会社琉球銀行]] [[banking/INDEX|banking index]] 2 兆 8552 億円 79 億円 2025 03  27% 2021-10-01 [[okinawa-bank|沖縄銀行]] 7350 1  [[okinawa-bank|沖縄銀行]] 1956  [[ryukyu-bank]] 2  2025
 - 3 行 [[okinawa-bank|沖縄銀行]] [[ryukyu-bank]] [[okinawa-kaiho-bank|沖縄海邦銀行]] 30% 1 7350 2021-10-01 2021-10-01 3 10 1 2025 03  587 億 5600 万円 51 億 8300 万円
 - 10% 79 億円 27% 2022 03  2 兆 8552 億 5600 万円 2025 03  1 兆 9455 億円 568 億円 2024 03  1581 名 2025 03 
 - 45 円 60 円 105 円 2026-05-18 1417 億円 6160 円 10.96 0.81 7.4% 2022-03-31 9.86% 4.71% 3.78% 3.19% 3.02% 7350 100% [[okinawa-bank]]
@@ -51,7 +51,7 @@ Read this entry together with the related banks, insurers, leasing companies, as
 - 03  1979  2025 07  2  2024 04 2027 03 3  1 2 3 2025 05  710 億円 110 億円 6.20%
 - 2  2025 07  2025 07 3 行 1 30% 7350 2021 10 [[ryukyu-bank]] 2  25% 8399  [[okinawa-kaiho-bank|沖縄海邦銀行]] 3  10%
 - 3 行 [[ryukyu-bank]] [[ryukyu-bank]] [[kyushu-fg]] [[fukuoka-fg]] 2022 03  4 52  17 2023 05  2024 2025 03  27% 2024 2025
-- 10  2022 04 [[ryukyu-bank]] 2  1948  8399 [[kyushu-fg]] [[fukuoka-fg]] [[nishi-nippon-fhd]] [[mufg]] [[smfg]] [[mizuho-fg]] [[JapanFG/INDEX|Japan FG INDEX]] 2026-05-19 2026-05-19 2025 03 
+- 10  2022 04 [[ryukyu-bank]] 2  1948  8399 [[kyushu-fg]] [[fukuoka-fg]] [[nishi-nippon-fhd]] [[mufg]] [[smfg]] [[mizuho-fg]] [[regional-banks/INDEX|regional-banks INDEX]] 2026-05-19 2026-05-19 2025 03 
 - 2025-05-09 2  2024-04-01 27% 25 03  2025-05-09 3 行 2026-05-19 2025  2026 03  2026 05  2022 03 
 
 ## Related

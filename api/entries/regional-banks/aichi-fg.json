@@ -36,7 +36,7 @@
       "あいち FG 公式 IR (2026-05-19 確認)"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 八十二長野銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under regional-banks INDEX. Read it against 八十二長野銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [
     "あいち FG (Aichi FG)",
     "Wiki route",
@@ -52,7 +52,6 @@
   "body_links": {
     "wikilinks_count": 12,
     "wikilinks": [
-      "JapanFG/INDEX",
       "aichi-bank",
       "banking/INDEX",
       "juroku-fg",
@@ -60,13 +59,13 @@
       "mufg",
       "nagoya-bank",
       "ogaki-kyoritsu-bank",
+      "regional-banks/INDEX",
       "regional-banks/hachijuni-nagano-bank",
       "san-jusan-fg",
       "shizuoka-fg",
       "smfg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/aichi-bank",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/juroku-fg",
@@ -74,6 +73,7 @@
       "https://finwiki.zksc.io/mufg",
       "https://finwiki.zksc.io/nagoya-bank",
       "https://finwiki.zksc.io/ogaki-kyoritsu-bank",
+      "https://finwiki.zksc.io/regional-banks/INDEX",
       "https://finwiki.zksc.io/regional-banks/hachijuni-nagano-bank",
       "https://finwiki.zksc.io/san-jusan-fg",
       "https://finwiki.zksc.io/shizuoka-fg",
@@ -83,9 +83,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3481,
-    "word_like_tokens": 573,
+    "nonspace_chars": 3495,
+    "word_like_tokens": 575,
     "inbound_wikilinks_count": 9,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

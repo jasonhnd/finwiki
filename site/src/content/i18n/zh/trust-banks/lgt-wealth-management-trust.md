@@ -1,5 +1,5 @@
 ---
-source: japanfg/lgt-wealth-management-trust
+source: trust-banks/lgt-wealth-management-trust
 source_hash: 9f0922d031518309
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:59:49.340Z
 
 ## Wiki 路径
 
-LGT Wealth Management Trust 是 [[JapanFG/INDEX|JapanFG]] 下的独立信托公司路径，由 [[trust-banks/trust-companies-japan-index|the Japan trust companies registry index]] 提升而来。可与 [[foreign-financial-institutions/ubs-japan|UBS Japan]]、[[trust-banks/smbc-trust-bank|SMBC Trust Bank]]、[[trust-banks/mitsubishi-ufj-trust-bank|Mitsubishi UFJ Trust Bank]]、[[banking/japan-trust-bank-custody-map|Japan trust-bank custody map]] 对读。
+LGT Wealth Management Trust 是 [[trust-banks/INDEX|trust-banks INDEX]] 下的独立信托公司路径，由 [[trust-banks/trust-companies-japan-index|the Japan trust companies registry index]] 提升而来。可与 [[foreign-financial-institutions/ubs-japan|UBS Japan]]、[[trust-banks/smbc-trust-bank|SMBC Trust Bank]]、[[trust-banks/mitsubishi-ufj-trust-bank|Mitsubishi UFJ Trust Bank]]、[[banking/japan-trust-bank-custody-map|Japan trust-bank custody map]] 对读。
 
 本页用于日本 private banking、wealth-management trust、投资顾问以及外资高净值服务相关问题。
 
@@ -58,7 +58,7 @@ LGT 将其日本业务描述为服务高净值客户、家族和企业家。对 
 
 ## Related
 
-- [[JapanFG/INDEX]]
+- [[trust-banks/INDEX]]
 - [[trust-banks/trust-companies-japan-index]]
 - [[foreign-financial-institutions/ubs-japan]]
 - [[trust-banks/smbc-trust-bank]]

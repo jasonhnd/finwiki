@@ -37,7 +37,7 @@
       "https://www.d-frontier-life.co.jp/"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against T&Dフィナンシャル生命保険 for peer / contrast context and insurance index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under life-insurers INDEX. Read it against T&Dフィナンシャル生命保険 for peer / contrast context and insurance index for the broader system / regulatory boundary.",
   "headings": [
     "第一フロンティア生命保険",
     "Wiki route",
@@ -51,21 +51,21 @@
   "body_links": {
     "wikilinks_count": 8,
     "wikilinks": [
-      "JapanFG/INDEX",
       "dai-ichi-life",
       "insurance/INDEX",
       "insurance/economic-value-based-solvency",
       "insurance/life-insurance-channel-mix",
+      "life-insurers/INDEX",
       "life-insurers/td-financial-life",
       "mizuho-fg",
       "smtb"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/dai-ichi-life",
       "https://finwiki.zksc.io/insurance/INDEX",
       "https://finwiki.zksc.io/insurance/economic-value-based-solvency",
       "https://finwiki.zksc.io/insurance/life-insurance-channel-mix",
+      "https://finwiki.zksc.io/life-insurers/INDEX",
       "https://finwiki.zksc.io/life-insurers/td-financial-life",
       "https://finwiki.zksc.io/mizuho-fg",
       "https://finwiki.zksc.io/smtb"
@@ -74,9 +74,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2212,
-    "word_like_tokens": 342,
+    "nonspace_chars": 2224,
+    "word_like_tokens": 344,
     "inbound_wikilinks_count": 20,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

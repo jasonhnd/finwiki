@@ -35,7 +35,7 @@
       "https://www.sihd-bk.jp/aboutus/outline/"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 関西みらい銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under regional-banks INDEX. Read it against 関西みらい銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [
     "池田泉州銀行",
     "Wiki route",
@@ -49,32 +49,32 @@
   "body_links": {
     "wikilinks_count": 8,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "banking/regional-bank-consolidation-pattern",
       "ikeda-senshu-hd",
       "kansai-mirai-bank",
       "kiyo-bank",
       "kyoto-bank",
+      "regional-banks/INDEX",
       "regional-banks/kansai-mirai-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
       "https://finwiki.zksc.io/ikeda-senshu-hd",
       "https://finwiki.zksc.io/kansai-mirai-bank",
       "https://finwiki.zksc.io/kiyo-bank",
       "https://finwiki.zksc.io/kyoto-bank",
+      "https://finwiki.zksc.io/regional-banks/INDEX",
       "https://finwiki.zksc.io/regional-banks/kansai-mirai-bank"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1771,
-    "word_like_tokens": 277,
+    "nonspace_chars": 1785,
+    "word_like_tokens": 279,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

@@ -122,7 +122,7 @@ For official **fixed-rate** lending (as distinct from market-rate lending such a
 
 ### 3.1 Ship Sector Understanding (SSU)
 
-Disciplines export credits for vessel exports. Maximum 12-year tenor from delivery, minimum 20% down payment, sector-specific MPR. Adjusts general Arrangement rules to fit shipbuilding industry economics. Relevant for Japanese shipbuilders ([[JapanFG/INDEX|Imabari Shipbuilding, Japan Marine United, Mitsui E&S, others]]) and the megabank ship-finance lending alongside JBIC / NEXI.
+Disciplines export credits for vessel exports. Maximum 12-year tenor from delivery, minimum 20% down payment, sector-specific MPR. Adjusts general Arrangement rules to fit shipbuilding industry economics. Relevant for Japanese shipbuilders ([[policy-finance/INDEX|policy-finance INDEX]]) and the megabank ship-finance lending alongside JBIC / NEXI.
 
 ### 3.2 Aircraft Sector Understanding (ASU)
 

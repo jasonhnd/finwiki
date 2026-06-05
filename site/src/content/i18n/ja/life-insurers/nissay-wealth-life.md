@@ -1,5 +1,5 @@
 ---
-source: japanfg/nissay-wealth-life
+source: life-insurers/nissay-wealth-life
 source_hash: a5172eee6aad61e1
 lang: ja
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-06-02T14:54:39.101Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] 配下に置く。隣接文脈では [[insurance/INDEX|insurance index]] を、より広い制度上の境界では [[financial-licenses/INDEX|JapanFG index]] を参照する。
+この項目は [[life-insurers/INDEX|life-insurers INDEX]] 配下に置く。隣接文脈では [[insurance/INDEX|insurance index]] を、より広い制度上の境界では [[financial-licenses/INDEX|JapanFG index]] を参照する。
 
 ## 要約
 

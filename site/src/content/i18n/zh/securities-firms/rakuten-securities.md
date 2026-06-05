@@ -1,5 +1,5 @@
 ---
-source: japanfg/rakuten-securities
+source: securities-firms/rakuten-securities
 source_hash: 40287ba1724a5599
 lang: zh
 status: machine
@@ -44,7 +44,7 @@ Rakuten Securities 不是传统分支机构型券商。它的优势在于分发�
 
 ## Related
 
-- [[JapanFG/INDEX|JapanFG INDEX]]
+- [[securities-firms/INDEX|securities-firms INDEX]]
 - [[securities/INDEX|securities INDEX]]
 - [[payment-firms/rakuten-fg]]
 - [[securities-firms/monex-group]]

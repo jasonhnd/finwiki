@@ -55,10 +55,9 @@
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 41,
+    "wikilinks_count": 40,
     "wikilinks": [
       "INDEX",
-      "JapanFG/INDEX",
       "asset-managers/asset-management-one",
       "asset-managers/daiwa-asset-management",
       "asset-managers/mufg-asset-management",
@@ -101,7 +100,6 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/asset-managers/asset-management-one",
       "https://finwiki.zksc.io/asset-managers/daiwa-asset-management",
       "https://finwiki.zksc.io/asset-managers/mufg-asset-management",
@@ -146,9 +144,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5062,
-    "word_like_tokens": 700,
+    "nonspace_chars": 5047,
+    "word_like_tokens": 698,
     "inbound_wikilinks_count": 48,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

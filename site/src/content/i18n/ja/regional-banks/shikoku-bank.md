@@ -1,5 +1,5 @@
 ---
-source: japanfg/shikoku-bank
+source: regional-banks/shikoku-bank
 source_hash: 493bc2b470a7b174
 lang: ja
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-06-02T15:14:17.127Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に位置づける。同業・比較対象の文脈は [[regional-banks/iyo-bank|伊予銀行]] と照らし、より広い制度・規制上の境界は [[banking/INDEX|banking index]] を参照する。
+この項目は [[regional-banks/INDEX|regional-banks INDEX]] の配下に位置づける。同業・比較対象の文脈は [[regional-banks/iyo-bank|伊予銀行]] と照らし、より広い制度・規制上の境界は [[banking/INDEX|banking index]] を参照する。
 
 ## 要約
 
@@ -31,7 +31,7 @@ translated_at: 2026-06-02T15:14:17.127Z
 
 ## 2. 運営モデル
 
-四国銀行は、高知県を中心に個人預金、中小企業金融、地域法人融資、四国圏のリレーションシップバンキングを担う地方銀行。高知県内では [[kochi-bank]] と第一 / 第二地方銀行の比較境界を持つ。四国の地域銀行再編文脈は [[banking/INDEX|banking index]] と [[JapanFG/INDEX|JapanFG index]] を参照。
+四国銀行は、高知県を中心に個人預金、中小企業金融、地域法人融資、四国圏のリレーションシップバンキングを担う地方銀行。高知県内では [[kochi-bank]] と第一 / 第二地方銀行の比較境界を持つ。四国の地域銀行再編文脈は [[banking/INDEX|banking index]] と [[regional-banks/INDEX|regional-banks INDEX]] を参照。
 
 ## 3. この項目が存在する理由
 

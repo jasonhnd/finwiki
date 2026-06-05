@@ -1,5 +1,5 @@
 ---
-source: japanfg/fukoku-life
+source: life-insurers/fukoku-life
 source_hash: 185d0c09e9d9888e
 lang: zh
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-05-31T15:29:03.919Z
 
 ## Wiki 路线
 
-本条目位于 [[JapanFG/INDEX|JapanFG 索引]] 下。可与 [[life-insurers/asahi-life|朝日生命保险]] 对照阅读，以理解同业位置；也可与 [[insurance/INDEX|保险索引]] 对照阅读，以把握更广的制度和监管边界。
+本条目位于 [[life-insurers/INDEX|life-insurers INDEX]] 下。可与 [[life-insurers/asahi-life|朝日生命保险]] 对照阅读，以理解同业位置；也可与 [[insurance/INDEX|保险索引]] 对照阅读，以把握更广的制度和监管边界。
 
 ## TL;DR
 

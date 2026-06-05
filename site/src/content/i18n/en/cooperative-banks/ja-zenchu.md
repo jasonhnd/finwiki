@@ -1,5 +1,5 @@
 ---
-source: japanfg/ja-zenchu
+source: cooperative-banks/ja-zenchu
 source_hash: ec4e10099a138f64
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:59:49.347Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **JA Group national-coordination layer** behind [[cooperative-banks/norinchukin|農林中央金庫 (Norinchukin)]] and the [[banking/ja-bank-system-japan|JA Bank system]]. Read it together with [[cooperative-banks/ja-zen-noh|JA 全農 (全国農業協同組合連合会)]] for the commercial-federation counterpart, [[non-life-insurers/ja-kyosairen|JA 共済連]] for the cooperative insurance federation, and [[banking/cooperative-banking-japan|cooperative banking domain]] for the broader system boundary.
+This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as the **JA Group national-coordination layer** behind [[cooperative-banks/norinchukin|農林中央金庫 (Norinchukin)]] and the [[banking/ja-bank-system-japan|JA Bank system]]. Read it together with [[cooperative-banks/ja-zen-noh|JA 全農 (全国農業協同組合連合会)]] for the commercial-federation counterpart, [[non-life-insurers/ja-kyosairen|JA 共済連]] for the cooperative insurance federation, and [[banking/cooperative-banking-japan|cooperative banking domain]] for the broader system boundary.
 
 ## TL;DR
 
@@ -119,7 +119,7 @@ JA Group (nationwide 497  JAs + 4  major national federations)
 - [[banking/ja-bank-system-japan]] — JA Bank system boundary
 - [[banking/cooperative-banking-japan]] — cooperative finance as a whole
 - [[financial-regulators/zenginkyo]] — corresponding national organization for the banking industry (stock-company banks)
-- [[JapanFG/INDEX|JapanFG index]]
+- [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 
 ## Sources
 

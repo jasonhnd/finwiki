@@ -1,5 +1,5 @@
 ---
-source: japanfg/hyundai-marine-fire-japan
+source: non-life-insurers/hyundai-marine-fire-japan
 source_hash: b70049ba38a58126
 lang: ja
 status: machine
@@ -9,7 +9,7 @@ translated_at: 2026-06-02T14:25:12.447Z
 ---
 # Hyundai Marine & Fire Japan / 現代海上火災保険
 
-ウィキ上の位置づけ: [[JapanFG/INDEX]] -> [[insurance/INDEX]] -> [[non-life-insurers/hyundai-marine-fire-japan]]
+ウィキ上の位置づけ: [[non-life-insurers/INDEX]] -> [[insurance/INDEX]] -> [[non-life-insurers/hyundai-marine-fire-japan]]
 
 ## 概要
 

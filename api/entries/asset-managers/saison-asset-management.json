@@ -45,7 +45,7 @@
       "日本経済新聞: セゾン投信、中野晴啓会長が退任へ 直販モデルに転機 (2023-06) https://www.nikkei.com/article/DGXZQOUB017CW0R00C23A6000000/"
     ]
   },
-  "summary": "This entry sits under JapanFG index as the operating-company anchor for Credit Saison グループの投資信託子会社. Read it against クレディセゾン（親会社）, peer 長期分散投資のレオス・キャピタルワークス（ひふみ投信）・さわかみ投信・コモンズ投信、distribution channel JapanFG/INDEX の直販投信群、broader context asset management index for the regulatory boundary.",
+  "summary": "This entry sits under asset-managers INDEX as the operating-company anchor for Credit Saison グループの投資信託子会社. Read it against クレディセゾン（親会社）, peer 長期分散投資のレオス・キャピタルワークス（ひふみ投信）・さわかみ投信・コモンズ投信、distribution channel asset-managers/INDEX の直販投信群、broader context asset management index for the regulatory boundary.",
   "headings": [
     "セゾン投信 (Saison Asset Management)",
     "Wiki route",
@@ -61,11 +61,11 @@
   "body_links": {
     "wikilinks_count": 14,
     "wikilinks": [
-      "JapanFG/INDEX",
       "JapanFG/commons-am",
       "JapanFG/hifumi",
       "JapanFG/sawakami-am",
       "asset-management/INDEX",
+      "asset-managers/INDEX",
       "asset-managers/daiwa-am",
       "asset-managers/mitsubishi-ufj-am",
       "asset-managers/nomura-am",
@@ -77,11 +77,11 @@
       "trust-banks/master-trust-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/JapanFG/commons-am",
       "https://finwiki.zksc.io/JapanFG/hifumi",
       "https://finwiki.zksc.io/JapanFG/sawakami-am",
       "https://finwiki.zksc.io/asset-management/INDEX",
+      "https://finwiki.zksc.io/asset-managers/INDEX",
       "https://finwiki.zksc.io/asset-managers/daiwa-am",
       "https://finwiki.zksc.io/asset-managers/mitsubishi-ufj-am",
       "https://finwiki.zksc.io/asset-managers/nomura-am",
@@ -96,9 +96,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6224,
-    "word_like_tokens": 961,
+    "nonspace_chars": 6252,
+    "word_like_tokens": 965,
     "inbound_wikilinks_count": 1,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

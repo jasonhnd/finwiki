@@ -103,7 +103,7 @@ translated_at: 2026-06-02T14:01:20.963Z
 
 - [[fintech/japan-financial-regulation|japan-financial-regulation]]（金融系の隣接法制度）
 - [[non-profit/japan-research-grant-map-2026|日本 研究助成金 map（2026 年度）]]（財団設立後に狙える助成金一覧）
-- [[JapanFG/INDEX|JapanFG INDEX]]（金融グループ実例の参照）
+- [[non-profit/INDEX|non-profit INDEX]]（金融グループ実例の参照）
 
 ## 出典
 

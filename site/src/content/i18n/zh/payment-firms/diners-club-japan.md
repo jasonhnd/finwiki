@@ -1,5 +1,5 @@
 ---
-source: japanfg/diners-club-japan
+source: payment-firms/diners-club-japan
 source_hash: 8a9a79531f276d38
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T15:29:03.858Z
 
 ## Wiki 路径
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]]。可与 [[card-issuers/jcb|JCB]] 对照，理解日本三方卡组织与高端卡市场的结构；也应结合 [[payments/japan-card-issuer-acquirer-processor-split|Japan card issuer / acquirer / processor split]]，把发卡、收单、品牌授权与监管边界分开阅读。
+本条目位于 [[payment-firms/INDEX|payment-firms INDEX]]。可与 [[card-issuers/jcb|JCB]] 对照，理解日本三方卡组织与高端卡市场的结构；也应结合 [[payments/japan-card-issuer-acquirer-processor-split|Japan card issuer / acquirer / processor split]]，把发卡、收单、品牌授权与监管边界分开阅读。
 
 ## TL;DR
 

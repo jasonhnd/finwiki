@@ -1,5 +1,5 @@
 ---
-source: japanfg/sojitz-finance
+source: trading-company-finance/sojitz-finance
 source_hash: a184f180218a6107
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.167Z
 
 ## Wiki route
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可与最接近的中坚商社系 group-treasury 同业 [[trading-company-finance/marubeni-financial-services|丸紅フィナンス]]、以及另一家商社系 internal-treasury arm [[trading-company-finance/itochu-finance|伊藤忠ファイナンス]] 对照阅读。中坚商社 captive 比较参见 [[leasing-firms/kanematsu-leasing|兼松リース]]（规模更小的中坚商社系租赁公司）。5  大商社系的比较基准参见 [[trading-company-finance/mitsubishi-corp-finance|三菱商事FS]] / [[trading-company-finance/mitsui-bussan-financial-services|三井物産FS]] / [[trading-company-finance/sumitomo-corp-financial-management|住友商事FM]] / [[trading-company-finance/toyota-tsusho-finance|豊田通商フィナンス]]。更大的监管边界参见 [[banking/INDEX|banking index]]。
+本条目位于 [[trading-company-finance/INDEX|trading-company-finance INDEX]] 之下。可与最接近的中坚商社系 group-treasury 同业 [[trading-company-finance/marubeni-financial-services|丸紅フィナンス]]、以及另一家商社系 internal-treasury arm [[trading-company-finance/itochu-finance|伊藤忠ファイナンス]] 对照阅读。中坚商社 captive 比较参见 [[leasing-firms/kanematsu-leasing|兼松リース]]（规模更小的中坚商社系租赁公司）。5  大商社系的比较基准参见 [[trading-company-finance/mitsubishi-corp-finance|三菱商事FS]] / [[trading-company-finance/mitsui-bussan-financial-services|三井物産FS]] / [[trading-company-finance/sumitomo-corp-financial-management|住友商事FM]] / [[trading-company-finance/toyota-tsusho-finance|豊田通商フィナンス]]。更大的监管边界参见 [[banking/INDEX|banking index]]。
 
 ## 1. 公司概要
 

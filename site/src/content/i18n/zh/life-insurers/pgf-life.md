@@ -1,5 +1,5 @@
 ---
-source: japanfg/pgf-life
+source: life-insurers/pgf-life
 source_hash: b04a21bcb0320001
 lang: zh
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-06-01T00:41:50.415Z
 
 ## Wiki route
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 下。可与 [[life-insurers/dai-ichi-frontier-life|第一フロンティア生命保険]] 对照阅读，以理解同业和差异；更广泛的系统和监管边界见 [[insurance/INDEX|insurance index]]。
+本条目位于 [[life-insurers/INDEX|life-insurers INDEX]] 下。可与 [[life-insurers/dai-ichi-frontier-life|第一フロンティア生命保険]] 对照阅读，以理解同业和差异；更广泛的系统和监管边界见 [[insurance/INDEX|insurance index]]。
 
 ## TL;DR
 

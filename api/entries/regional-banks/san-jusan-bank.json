@@ -41,7 +41,7 @@
       "https://www.33fg.co.jp/profile/ir_library/disc/tougou2025.3.pdf"
     ]
   },
-  "summary": "This entry sits under the JapanFG index as the bank-license operating-company anchor for the 三十三 FG holding-company route. Read it against the 百五銀行 in-prefecture rival and the 十六銀行 / あいち銀行 Chubu peer banks, and against the regional-bank consolidation pattern for the broader system / regulatory bound",
+  "summary": "This entry sits under the regional-banks INDEX as the bank-license operating-company anchor for the 三十三 FG holding-company route. Read it against the 百五銀行 in-prefecture rival and the 十六銀行 / あいち銀行 Chubu peer banks, and against the regional-bank consolidation pattern for the broader system / regulator",
   "headings": [
     "三十三銀行 (San ju San Bank)",
     "Wiki route",
@@ -57,7 +57,6 @@
   "body_links": {
     "wikilinks_count": 12,
     "wikilinks": [
-      "JapanFG/INDEX",
       "aichi-bank",
       "aichi-fg",
       "banking/INDEX",
@@ -67,11 +66,11 @@
       "juroku-fg",
       "kyoto-fg",
       "ogaki-kyoritsu-bank",
+      "regional-banks/INDEX",
       "san-jusan-fg",
       "zenchugin-kyo"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/aichi-bank",
       "https://finwiki.zksc.io/aichi-fg",
       "https://finwiki.zksc.io/banking/INDEX",
@@ -81,6 +80,7 @@
       "https://finwiki.zksc.io/juroku-fg",
       "https://finwiki.zksc.io/kyoto-fg",
       "https://finwiki.zksc.io/ogaki-kyoritsu-bank",
+      "https://finwiki.zksc.io/regional-banks/INDEX",
       "https://finwiki.zksc.io/san-jusan-fg",
       "https://finwiki.zksc.io/zenchugin-kyo"
     ],
@@ -88,9 +88,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4670,
-    "word_like_tokens": 821,
+    "nonspace_chars": 4698,
+    "word_like_tokens": 825,
     "inbound_wikilinks_count": 0,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

@@ -1,5 +1,5 @@
 ---
-source: japanfg/sojitz-finance
+source: trading-company-finance/sojitz-finance
 source_hash: a184f180218a6107
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.167Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[trading-company-finance/marubeni-financial-services|Marubeni Finance]], the closest mid-tier trading-company group-treasury peer, and [[trading-company-finance/itochu-finance|ITOCHU Finance]], another peer trading-company internal-treasury arm. For mid-tier trading-company captive comparison, see [[leasing-firms/kanematsu-leasing|Kanematsu Leasing]], a smaller mid-tier trading-company lease captive. For the comparison baseline among the 5  major trading houses, see [[trading-company-finance/mitsubishi-corp-finance|Mitsubishi Corporation FS]] / [[trading-company-finance/mitsui-bussan-financial-services|Mitsui & Co. FS]] / [[trading-company-finance/sumitomo-corp-financial-management|Sumitomo Corporation FM]] / [[trading-company-finance/toyota-tsusho-finance|Toyota Tsusho Finance]]. See [[banking/INDEX|banking index]] for the broader regulatory boundary.
+This entry sits under [[trading-company-finance/INDEX|trading-company-finance INDEX]]. Read it against [[trading-company-finance/marubeni-financial-services|Marubeni Finance]], the closest mid-tier trading-company group-treasury peer, and [[trading-company-finance/itochu-finance|ITOCHU Finance]], another peer trading-company internal-treasury arm. For mid-tier trading-company captive comparison, see [[leasing-firms/kanematsu-leasing|Kanematsu Leasing]], a smaller mid-tier trading-company lease captive. For the comparison baseline among the 5  major trading houses, see [[trading-company-finance/mitsubishi-corp-finance|Mitsubishi Corporation FS]] / [[trading-company-finance/mitsui-bussan-financial-services|Mitsui & Co. FS]] / [[trading-company-finance/sumitomo-corp-financial-management|Sumitomo Corporation FM]] / [[trading-company-finance/toyota-tsusho-finance|Toyota Tsusho Finance]]. See [[banking/INDEX|banking index]] for the broader regulatory boundary.
 
 ## 1. Company overview
 

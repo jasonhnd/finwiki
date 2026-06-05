@@ -26,7 +26,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[cooperative-banks/okazaki-shinkin|岡崎信用金庫]]（西三河 / Aichi 南東部の自動車サプライチェーン anchor）and [[cooperative-banks/hamamatsu-iwata-shinkin|浜松磐田信用金庫]]（静岡西部 / 東海西端 anchor）for the regional shinkin peer block, against [[regional-banks/nagoya-bank|名古屋銀行]] and [[regional-banks/aichi-bank|あいち銀行]]（旧 愛知銀行＋中京銀行）for the commercial-bank counterparts in Aichi, and against [[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]] for the broader 254-shinkin system maintained by [[cooperative-banks/shinkin-central|信金中央金庫]] and represented by [[financial-regulators/zenshin-kyo|全国信用金庫協会]]. 東海財務局管内 34 信用金庫は全国 2 位の地区規模、名古屋都市部のアンカーとして本ページが位置付けられる。
+This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]]. Read it against [[cooperative-banks/okazaki-shinkin|岡崎信用金庫]]（西三河 / Aichi 南東部の自動車サプライチェーン anchor）and [[cooperative-banks/hamamatsu-iwata-shinkin|浜松磐田信用金庫]]（静岡西部 / 東海西端 anchor）for the regional shinkin peer block, against [[regional-banks/nagoya-bank|名古屋銀行]] and [[regional-banks/aichi-bank|あいち銀行]]（旧 愛知銀行＋中京銀行）for the commercial-bank counterparts in Aichi, and against [[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]] for the broader 254-shinkin system maintained by [[cooperative-banks/shinkin-central|信金中央金庫]] and represented by [[financial-regulators/zenshin-kyo|全国信用金庫協会]]. 東海財務局管内 34 信用金庫は全国 2 位の地区規模、名古屋都市部のアンカーとして本ページが位置付けられる。
 
 ## TL;DR
 
@@ -97,7 +97,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[coopera
 
 ## Related
 
-- [[JapanFG/INDEX|JapanFG index]]
+- [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 - [[cooperative-banks/shinkin-central|信金中央金庫]]
 - [[financial-regulators/zenshin-kyo|全国信用金庫協会]]
 - [[cooperative-banks/shinkin-network-services|信金ネットワークサービス]]

@@ -1,5 +1,5 @@
 ---
-source: japanfg/shizuoka-bank
+source: regional-banks/shizuoka-bank
 source_hash: 2912663319b595b5
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.174Z
 
 ## Wiki 路径
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可与 [[regional-banks/shimizu-bank|清水銀行]] 对照阅读以理解同业 / 对比语境，并参考 [[banking/INDEX|banking index]] 把握更广泛的系统与监管边界。
+本条目位于 [[regional-banks/INDEX|regional-banks INDEX]] 之下。可与 [[regional-banks/shimizu-bank|清水銀行]] 对照阅读以理解同业 / 对比语境，并参考 [[banking/INDEX|banking index]] 把握更广泛的系统与监管边界。
 
 ## TL;DR
 

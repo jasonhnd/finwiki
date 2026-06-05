@@ -1,5 +1,5 @@
 ---
-source: japanfg/toa-reinsurance
+source: non-life-insurers/toa-reinsurance
 source_hash: 0df0c91d2cd0a4fd
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.177Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[non-life-insurers/japan-earthquake-reinsurance|日本地震再保険]] for peer / contrast context and [[insurance/INDEX|insurance index]] for the broader system / regulatory boundary.
+This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read it against [[non-life-insurers/japan-earthquake-reinsurance|日本地震再保険]] for peer / contrast context and [[insurance/INDEX|insurance index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 

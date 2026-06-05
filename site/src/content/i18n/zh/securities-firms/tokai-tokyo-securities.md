@@ -1,5 +1,5 @@
 ---
-source: japanfg/tokai-tokyo-securities
+source: securities-firms/tokai-tokyo-securities
 source_hash: c694e30923819287
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-01T02:31:57.138Z
 
 ## Wiki 路线
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可与 [[securities-firms/tokai-tokyo-fh|東海東京フィナンシャル・ホールディングス]] 对照阅读，以把握母公司 holding 语境；与 [[securities-firms/okasan-sg|岡三証券グループ]] / [[securities-firms/iwai-cosmo-securities|岩井コスモ証券]] 一起阅读，以把握中坚独立证券 peer；与 [[securities/INDEX|securities index]] 一起阅读，以确认更广的市场结构边界。
+本条目位于 [[securities-firms/INDEX|securities-firms INDEX]] 之下。可与 [[securities-firms/tokai-tokyo-fh|東海東京フィナンシャル・ホールディングス]] 对照阅读，以把握母公司 holding 语境；与 [[securities-firms/okasan-sg|岡三証券グループ]] / [[securities-firms/iwai-cosmo-securities|岩井コスモ証券]] 一起阅读，以把握中坚独立证券 peer；与 [[securities/INDEX|securities index]] 一起阅读，以确认更广的市场结构边界。
 
 ## TL;DR
 

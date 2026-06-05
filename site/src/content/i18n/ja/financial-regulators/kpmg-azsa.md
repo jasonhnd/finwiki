@@ -1,5 +1,5 @@
 ---
-source: japanfg/kpmg-azsa
+source: financial-regulators/kpmg-azsa
 source_hash: 91900b3d7f816160
 lang: ja
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-02T14:54:39.064Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] に属する。[[financial-regulators/ey-shinnihon|EY 新日本]] と [[financial-regulators/deloitte-touche-tohmatsu|トーマツ]] は Big 4  監査法人としての同業文脈、[[financial-licenses/INDEX|金融ライセンス INDEX]] は公認会計士法 / 監査品質管理の規制境界として併せて読む。CPAAOB 監督文脈は [[financial-regulators/fsa-supervision-bureau|金融庁 監督局]] と [[financial-regulators/fsa-strategy-bureau|金融庁 総合政策局]] の所管。
+この項目は [[financial-regulators/INDEX|financial-regulators INDEX]] に属する。[[financial-regulators/ey-shinnihon|EY 新日本]] と [[financial-regulators/deloitte-touche-tohmatsu|トーマツ]] は Big 4  監査法人としての同業文脈、[[financial-licenses/INDEX|金融ライセンス INDEX]] は公認会計士法 / 監査品質管理の規制境界として併せて読む。CPAAOB 監督文脈は [[financial-regulators/fsa-supervision-bureau|金融庁 監督局]] と [[financial-regulators/fsa-strategy-bureau|金融庁 総合政策局]] の所管。
 
 ## 1. 法人概要
 

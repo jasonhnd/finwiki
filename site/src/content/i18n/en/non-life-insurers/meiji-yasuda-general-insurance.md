@@ -1,5 +1,5 @@
 ---
-source: japanfg/meiji-yasuda-general-insurance
+source: non-life-insurers/meiji-yasuda-general-insurance
 source_hash: c20153827bb73120
 lang: en
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T23:59:49.426Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it with [[insurance/INDEX|insurance index]] for adjacent context and [[financial-licenses/INDEX|JapanFG index]] for the broader system boundary.
+This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read it with [[insurance/INDEX|insurance index]] for adjacent context and [[financial-licenses/INDEX|JapanFG index]] for the broader system boundary.
 
 ## TL;DR
 

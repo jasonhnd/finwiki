@@ -1,5 +1,5 @@
 ---
-source: japanfg/mizuho-trust-bank
+source: trust-banks/mizuho-trust-bank
 source_hash: cf24c105ee592f70
 lang: ja
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-02T14:54:39.054Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に置かれる。[[trust-banks/mitsubishi-ufj-trust-bank|三菱UFJ信託銀行 (MUTB)]] は同業・隣接項目との比較先であり、[[banking/INDEX|banking index]] は制度、登録、監督上の境界を確認するための参照先である。本文は公開情報に基づき、会社または制度項目の位置づけを日本語で整理する。
+この項目は [[trust-banks/INDEX|trust-banks INDEX]] の配下に置かれる。[[trust-banks/mitsubishi-ufj-trust-bank|三菱UFJ信託銀行 (MUTB)]] は同業・隣接項目との比較先であり、[[banking/INDEX|banking index]] は制度、登録、監督上の境界を確認するための参照先である。本文は公開情報に基づき、会社または制度項目の位置づけを日本語で整理する。
 
 ## 要約
 

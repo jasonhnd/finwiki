@@ -1,5 +1,5 @@
 ---
-source: japanfg/fukuoka-chuo-bank
+source: regional-banks/fukuoka-chuo-bank
 source_hash: 4143e5e8f74568a7
 lang: ja
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-06-02T14:25:12.399Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に置く。[[regional-banks/fukuoka-bank|福岡銀行]] は比較対象・対照文脈として、[[banking/INDEX|banking index]] はより広いシステム境界・規制境界として読む。
+この項目は [[regional-banks/INDEX|regional-banks INDEX]] の配下に置く。[[regional-banks/fukuoka-bank|福岡銀行]] は比較対象・対照文脈として、[[banking/INDEX|banking index]] はより広いシステム境界・規制境界として読む。
 
 ## 要約
 

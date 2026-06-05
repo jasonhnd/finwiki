@@ -35,7 +35,7 @@
       "https://www.kyotobank.co.jp/about/company/outline.html"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 関西みらい銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under regional-banks INDEX. Read it against 関西みらい銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [
     "京都銀行",
     "Wiki route",
@@ -49,24 +49,24 @@
   "body_links": {
     "wikilinks_count": 9,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "banking/regional-bank-consolidation-pattern",
       "ikeda-senshu-bank",
       "kansai-mirai-bank",
       "kyoto-fg",
       "nanto-bank",
+      "regional-banks/INDEX",
       "regional-banks/kansai-mirai-bank",
       "shiga-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
       "https://finwiki.zksc.io/ikeda-senshu-bank",
       "https://finwiki.zksc.io/kansai-mirai-bank",
       "https://finwiki.zksc.io/kyoto-fg",
       "https://finwiki.zksc.io/nanto-bank",
+      "https://finwiki.zksc.io/regional-banks/INDEX",
       "https://finwiki.zksc.io/regional-banks/kansai-mirai-bank",
       "https://finwiki.zksc.io/shiga-bank"
     ],
@@ -74,9 +74,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1807,
-    "word_like_tokens": 289,
+    "nonspace_chars": 1821,
+    "word_like_tokens": 291,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

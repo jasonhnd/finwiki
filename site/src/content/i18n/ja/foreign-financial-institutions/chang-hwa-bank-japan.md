@@ -1,5 +1,5 @@
 ---
-source: japanfg/chang-hwa-bank-japan
+source: foreign-financial-institutions/chang-hwa-bank-japan
 source_hash: 1537aae264fa19ad
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:01:20.961Z
 
 ## ウィキ上の位置づけ
 
-彰化商業銀行日本は [[JapanFG/INDEX|JapanFG index]] の配下にあり、[[foreign-financial-institutions/foreign-bank-branches-japan-index|the foreign-bank branch registry]] における台湾-日本の外国銀行支店ルートである。[[foreign-financial-institutions/first-commercial-bank-japan|First Commercial Bank Japan]]、[[foreign-financial-institutions/bank-of-taiwan-japan|Bank of Taiwan Japan]]、[[foreign-financial-institutions/mega-icbc-japan|Mega ICBC Japan]]、[[banking/foreign-bank-japan-retreat|foreign-bank Japan retreat]] と合わせて読む。
+彰化商業銀行日本は [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]] の配下にあり、[[foreign-financial-institutions/foreign-bank-branches-japan-index|the foreign-bank branch registry]] における台湾-日本の外国銀行支店ルートである。[[foreign-financial-institutions/first-commercial-bank-japan|First Commercial Bank Japan]]、[[foreign-financial-institutions/bank-of-taiwan-japan|Bank of Taiwan Japan]]、[[foreign-financial-institutions/mega-icbc-japan|Mega ICBC Japan]]、[[banking/foreign-bank-japan-retreat|foreign-bank Japan retreat]] と合わせて読む。
 
 Chang Hwa Bank Tokyo Branch をめぐる台湾-日本の法人銀行業務、貿易金融、送金、FX、シンジケートローンのルート質問ではこのページを使う。
 
@@ -58,7 +58,7 @@ FinWiki では、このページを支店 / コリドーレベルに保つべき
 
 ## 関連項目
 
-- [[JapanFG/INDEX]]
+- [[foreign-financial-institutions/INDEX]]
 - [[foreign-financial-institutions/foreign-bank-branches-japan-index]]
 - [[foreign-financial-institutions/first-commercial-bank-japan]]
 - [[foreign-financial-institutions/taishin-bank-japan]]

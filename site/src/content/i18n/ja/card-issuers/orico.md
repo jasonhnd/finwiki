@@ -1,5 +1,5 @@
 ---
-source: japanfg/orico
+source: card-issuers/orico
 source_hash: 56ed6d6f6e797f22
 lang: ja
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-02T15:14:17.092Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に置く。比較・対照の文脈は [[card-issuers/jaccs|株式会社ジャックス (Jaccs)]] と照合し、より広い制度・規制上の境界は [[banking/INDEX|banking index]] とあわせて読む。
+この項目は [[card-issuers/INDEX|card-issuers INDEX]] の配下に置く。比較・対照の文脈は [[card-issuers/jaccs|株式会社ジャックス (Jaccs)]] と照合し、より広い制度・規制上の境界は [[banking/INDEX|banking index]] とあわせて読む。
 
 ## 要約
 

@@ -60,10 +60,9 @@
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 15,
+    "wikilinks_count": 14,
     "wikilinks": [
       "INDEX",
-      "JapanFG/INDEX",
       "leasing-firms/mitsubishi-hc-capital",
       "leasing-firms/orix-corp",
       "leasing-firms/tokyo-century",
@@ -80,7 +79,6 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/leasing-firms/mitsubishi-hc-capital",
       "https://finwiki.zksc.io/leasing-firms/orix-corp",
       "https://finwiki.zksc.io/leasing-firms/tokyo-century",
@@ -99,9 +97,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6911,
-    "word_like_tokens": 982,
+    "nonspace_chars": 6963,
+    "word_like_tokens": 986,
     "inbound_wikilinks_count": 3,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

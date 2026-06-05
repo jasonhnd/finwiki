@@ -41,7 +41,7 @@
       "FFG 証券について — 2022-04 から ふくおかフィナンシャルグループ 100% 子会社 (https://www.ffg-sec.co.jp/company/)"
     ]
   },
-  "summary": "This entry sits under the JapanFG index as the FG-subsidiary securities operating-company anchor for ふくおか FG (FFG). Read it against parent operating bank 福岡銀行 and sibling subsidiaries 十八親和銀行 / 熊本銀行. For peer FG-securities comparison see めぶき証券 under mebuki-fg and the broader regional-bank consolidati",
+  "summary": "This entry sits under the securities-firms INDEX as the FG-subsidiary securities operating-company anchor for ふくおか FG (FFG). Read it against parent operating bank 福岡銀行 and sibling subsidiaries 十八親和銀行 / 熊本銀行. For peer FG-securities comparison see めぶき証券 under mebuki-fg and the broader regional-bank co",
   "headings": [
     "FFG 証券 (FFG Securities)",
     "Wiki route",
@@ -58,7 +58,6 @@
     "wikilinks_count": 25,
     "wikilinks": [
       "18-shinwa-bank",
-      "JapanFG/INDEX",
       "aizawa-sg",
       "banking/INDEX",
       "banking/regional-bank-consolidation-pattern",
@@ -81,11 +80,11 @@
       "okasan-sg",
       "rakuten-securities",
       "sbi-securities",
+      "securities-firms/INDEX",
       "smbc-nikko"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/18-shinwa-bank",
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/aizawa-sg",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
@@ -108,15 +107,16 @@
       "https://finwiki.zksc.io/okasan-sg",
       "https://finwiki.zksc.io/rakuten-securities",
       "https://finwiki.zksc.io/sbi-securities",
+      "https://finwiki.zksc.io/securities-firms/INDEX",
       "https://finwiki.zksc.io/smbc-nikko"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6135,
-    "word_like_tokens": 1066,
+    "nonspace_chars": 6171,
+    "word_like_tokens": 1070,
     "inbound_wikilinks_count": 1,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

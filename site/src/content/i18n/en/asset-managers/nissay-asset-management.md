@@ -1,5 +1,5 @@
 ---
-source: japanfg/nissay-asset-management
+source: asset-managers/nissay-asset-management
 source_hash: 8873170ecda28c2f
 lang: en
 status: machine
@@ -37,7 +37,7 @@ Read this entry together with the related banks, insurers, leasing companies, as
 
 ## Protected source anchors
 
-- [[JapanFG/INDEX|JapanFG index]] [[asset-managers/asset-management-one|アセットマネジメントOne]] [[financial-licenses/securities-license-stack|securities license stack]] [[securities/financial-instruments-business-operators-japan-index|FSA 金商業者 index]] [[life-insurers/nippon-life|日本生命保険 (相互会社)]] 第369号 [[life-insurers/nippon-life|日本生命]] 80 兆円 75 兆円 [[asset-managers/mufg-asset-management|MUAM]] [[asset-managers/asset-management-one|アセマネOne]] [[asset-managers/tokio-marine-asset-management|東京海上 AM]] 1 第369号 [[life-insurers/nippon-life|日本生命保険 (相互会社)]] 100% 2 3
+- [[asset-managers/INDEX|asset-managers INDEX]] [[asset-managers/asset-management-one|アセットマネジメントOne]] [[financial-licenses/securities-license-stack|securities license stack]] [[securities/financial-instruments-business-operators-japan-index|FSA 金商業者 index]] [[life-insurers/nippon-life|日本生命保険 (相互会社)]] 第369号 [[life-insurers/nippon-life|日本生命]] 80 兆円 75 兆円 [[asset-managers/mufg-asset-management|MUAM]] [[asset-managers/asset-management-one|アセマネOne]] [[asset-managers/tokio-marine-asset-management|東京海上 AM]] 1 第369号 [[life-insurers/nippon-life|日本生命保険 (相互会社)]] 100% 2 3
 - 100% 100% 4 [[life-insurers/nippon-life|日本生命]] 1 [[asset-managers/asset-management-one|アセマネOne]] [[asset-managers/tokio-marine-asset-management|東京海上 AM]] 100% 2 [[asset-managers/sbi-asset-management|SBI AM]] [[asset-managers/mufg-asset-management|MUAM]] 3 [[securities/nisa-2024-flow|nisa-2024-flow]] 4 75 兆円 5 [[asset-managers/t-and-d-asset-management|T&D AM]] [[life-insurers/td-hd|T&D HD]]
 - [[asset-managers/asset-management-one|アセマネOne]] [[asset-managers/tokio-marine-asset-management|東京海上 AM]] [[non-life-insurers/tokio-marine|東京海上 HD]] [[asset-managers/sbi-asset-management|SBI AM]] [[megabanks/sbi-hd|SBI HD]] [[asset-managers/mufg-asset-management|MUAM]] [[megabanks/mufg|MUFG]] [[life-insurers/nippon-life]] [[life-insurers/dai-ichi-life]] [[asset-managers/asset-management-one]] [[asset-managers/tokio-marine-asset-management]] [[asset-managers/t-and-d-asset-management]] [[asset-managers/mufg-asset-management]] [[asset-managers/sbi-asset-management]] [[securities/nisa-2024-flow]] [[securities/financial-instruments-business-operators-japan-index]]
 

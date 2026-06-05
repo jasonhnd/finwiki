@@ -1,5 +1,5 @@
 ---
-source: japanfg/hyakujushi-bank
+source: regional-banks/hyakujushi-bank
 source_hash: 25d79f3f546252ca
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T15:29:03.924Z
 
 ## Wiki route
 
-本条目位于 [[JapanFG/INDEX|JapanFG 索引]]。可与 [[regional-banks/iyo-bank|伊予银行]] 对照，并与 [[banking/INDEX|银行索引]] 配套阅读。
+本条目位于 [[regional-banks/INDEX|regional-banks INDEX]]。可与 [[regional-banks/iyo-bank|伊予银行]] 对照，并与 [[banking/INDEX|银行索引]] 配套阅读。
 
 ## TL;DR
 

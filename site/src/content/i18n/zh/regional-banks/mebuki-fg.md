@@ -1,5 +1,5 @@
 ---
-source: japanfg/mebuki-fg
+source: regional-banks/mebuki-fg
 source_hash: 2a95b5ef488f697f
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:59:49.378Z
 
 ## Wiki 路径
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可结合 [[regional-banks/fukuoka-fg|ふくおか FG (FFG)]] 阅读，以获得同业 / 对比语境；也可结合 [[banking/INDEX|banking index]] 阅读，以理解更大的系统 / 监管边界。
+本条目位于 [[regional-banks/INDEX|regional-banks INDEX]] 之下。可结合 [[regional-banks/fukuoka-fg|ふくおか FG (FFG)]] 阅读，以获得同业 / 对比语境；也可结合 [[banking/INDEX|banking index]] 阅读，以理解更大的系统 / 监管边界。
 
 ## TL;DR
 

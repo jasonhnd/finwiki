@@ -1,5 +1,5 @@
 ---
-source: japanfg/ja-bank-tokyo-shinren
+source: cooperative-banks/ja-bank-tokyo-shinren
 source_hash: 50cb603799ccde41
 lang: ja
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-02T14:25:12.389Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下にあり、FinWiki で **初の JA バンク都道府県信用農業協同組合連合会（信連）の事業会社アンカー**として位置づける。JA 信連（集合的）は記録済みだが都道府県別信連のアンカーがなかった監査上の空白を埋める。東京は **都市農業 + 直結方式の境界事例**として重要であり、東京信連では 2010年代後半に直結方式への移行論議があった。全国レベルの都道府県連合会文脈は [[cooperative-banks/ja-shinnoren|JA 信連 (全国集合)]]、共済側の都道府県ピアは [[cooperative-banks/ja-kyosairen-fukushima|JA 共済連福島]]、上位中央機関は [[cooperative-banks/norinchukin|農林中央金庫]]、制度境界は [[banking/ja-bank-system-japan|JA Bank system]] とあわせて読む。
+この項目は [[cooperative-banks/INDEX|cooperative-banks INDEX]] の配下にあり、FinWiki で **初の JA バンク都道府県信用農業協同組合連合会（信連）の事業会社アンカー**として位置づける。JA 信連（集合的）は記録済みだが都道府県別信連のアンカーがなかった監査上の空白を埋める。東京は **都市農業 + 直結方式の境界事例**として重要であり、東京信連では 2010年代後半に直結方式への移行論議があった。全国レベルの都道府県連合会文脈は [[cooperative-banks/ja-shinnoren|JA 信連 (全国集合)]]、共済側の都道府県ピアは [[cooperative-banks/ja-kyosairen-fukushima|JA 共済連福島]]、上位中央機関は [[cooperative-banks/norinchukin|農林中央金庫]]、制度境界は [[banking/ja-bank-system-japan|JA Bank system]] とあわせて読む。
 
 ## 要約
 
@@ -121,7 +121,7 @@ translated_at: 2026-06-02T14:25:12.389Z
 - [[regional-banks/yokohama-bank]] — 横浜銀行 （関東地銀ピア）
 - [[banking/ja-bank-system-japan]] — JA バンクシステム
 - [[banking/cooperative-banking-japan]] — 協同組織金融全体
-- [[JapanFG/INDEX|JapanFG index]]
+- [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 
 ## 出典
 

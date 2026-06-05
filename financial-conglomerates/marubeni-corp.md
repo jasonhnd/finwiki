@@ -26,7 +26,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha parent holding-company**. Read it against [[financial-conglomerates/itochu-corp|伊藤忠商事]] (戦前の同根 = 旧 丸紅伊藤忠商事、戦後 1949 分割) and [[financial-conglomerates/sumitomo-corp|住友商事]] (5 大商社中堅同士) for peer / contrast context. For the financial-services adjacency that gives this entry its JapanFG anchor — see [[trading-company-finance/marubeni-financial-services|丸紅フィナンス]] (内向け CMS) and **[[leasing-firms/mizuho-lease|みずほリース]]** (旧 興銀リース、2024 年に丸紅が戦略的株主入り)。System frame: [[finance/INDEX|finance index]] と [[finance/japan-listed-financial-groups-investable-universe|Japan 上場金融 G 投資ユニバース]]。
+This entry sits under [[financial-conglomerates/INDEX|financial-conglomerates INDEX]] as a **sōgō shōsha parent holding-company**. Read it against [[financial-conglomerates/itochu-corp|伊藤忠商事]] (戦前の同根 = 旧 丸紅伊藤忠商事、戦後 1949 分割) and [[financial-conglomerates/sumitomo-corp|住友商事]] (5 大商社中堅同士) for peer / contrast context. For the financial-services adjacency that gives this entry its JapanFG anchor — see [[trading-company-finance/marubeni-financial-services|丸紅フィナンス]] (内向け CMS) and **[[leasing-firms/mizuho-lease|みずほリース]]** (旧 興銀リース、2024 年に丸紅が戦略的株主入り)。System frame: [[finance/INDEX|finance index]] と [[finance/japan-listed-financial-groups-investable-universe|Japan 上場金融 G 投資ユニバース]]。
 
 ## 1. 会社概要
 
@@ -121,7 +121,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha pare
 
 ## Related
 
-- [[JapanFG/INDEX|JapanFG index]]
+- [[financial-conglomerates/INDEX|financial-conglomerates INDEX]]
 - [[financial-conglomerates/mitsubishi-corp|三菱商事]] · [[financial-conglomerates/mitsui-co|三井物産]] · [[financial-conglomerates/itochu-corp|伊藤忠商事]] · [[financial-conglomerates/sumitomo-corp|住友商事]] · [[financial-conglomerates/toyota-tsusho-corp|豊田通商]] · [[financial-conglomerates/sojitz-corp|双日]] (peer 商社)
 - [[trading-company-finance/marubeni-financial-services|丸紅フィナンス]] (内向け group treasury)
 - [[leasing-firms/mizuho-lease|みずほリース]] (2024 戦略的持分 約 20% 級)

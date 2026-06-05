@@ -1,5 +1,5 @@
 ---
-source: japanfg/gmo-aozora-net
+source: payment-firms/gmo-aozora-net
 source_hash: ecc9ba5ced5fec7a
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:25:12.393Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の下に置く。ピア比較・対照の文脈では [[regional-banks/ssnb|住信 SBI ネット銀行 (SBI Sumishin Net Bank) → ドコモ SMTB ネット銀行]] と照合し、より広い制度・規制上の境界は [[banking/INDEX|banking index]] と併読する。
+この項目は [[payment-firms/INDEX|payment-firms INDEX]] の下に置く。ピア比較・対照の文脈では [[regional-banks/ssnb|住信 SBI ネット銀行 (SBI Sumishin Net Bank) → ドコモ SMTB ネット銀行]] と照合し、より広い制度・規制上の境界は [[banking/INDEX|banking index]] と併読する。
 
 ## 要約
 

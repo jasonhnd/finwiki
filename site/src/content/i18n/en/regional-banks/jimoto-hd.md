@@ -1,5 +1,5 @@
 ---
-source: japanfg/jimoto-hd
+source: regional-banks/jimoto-hd
 source_hash: 1165535985db1bb6
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:59:49.373Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it with [[banking/INDEX|banking index]] for adjacent context and [[financial-licenses/INDEX|JapanFG index]] for the broader system boundary.
+This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it with [[banking/INDEX|banking index]] for adjacent context and [[financial-licenses/INDEX|JapanFG index]] for the broader system boundary.
 
 ## TL;DR
 

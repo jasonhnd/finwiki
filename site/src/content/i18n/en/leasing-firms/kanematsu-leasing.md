@@ -1,5 +1,5 @@
 ---
-source: japanfg/kanematsu-leasing
+source: leasing-firms/kanematsu-leasing
 source_hash: e14b38acb838201c
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:59:49.308Z
 
 ## Wiki Route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[cooperative-banks/ja-mitsui-leasing|JA Mitsui Leasing]] for peer and contrast context, as both are trading-house-linked leasing entities, and against [[banking/INDEX|banking index]] for the broader system and regulatory boundary. Read it with [[leasing-firms/tokyo-century|Tokyo Century]], an Itochu-lineage case, for the broader trading-house x leasing pattern.
+This entry sits under [[leasing-firms/INDEX|leasing-firms INDEX]]. Read it against [[cooperative-banks/ja-mitsui-leasing|JA Mitsui Leasing]] for peer and contrast context, as both are trading-house-linked leasing entities, and against [[banking/INDEX|banking index]] for the broader system and regulatory boundary. Read it with [[leasing-firms/tokyo-century|Tokyo Century]], an Itochu-lineage case, for the broader trading-house x leasing pattern.
 
 ## TL;DR
 

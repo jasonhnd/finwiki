@@ -90,7 +90,6 @@ translated_at: 2026-06-05T00:00:00.000Z
 - [[megabanks/smfg|SMFG]]
 - [[megabanks/ndfg|NDFG]]
 - [[megabanks/paypay-fg|PayPay FG]]
-- [[JapanFG/INDEX|JapanFG INDEX]]
 - [[INDEX|FinWiki index]]
 
 ## 出典

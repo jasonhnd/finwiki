@@ -1,5 +1,5 @@
 ---
-source: japanfg/hamagin-research
+source: regional-banks/hamagin-research
 source_hash: 9245b687c1e2d20c
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T15:29:03.865Z
 
 ## Wiki 路线
 
-本条目位于 [[JapanFG/INDEX|JapanFG 索引]]，作为 [[concordia-fg|横浜 Financial Group]] 旗下地方银行系智库页面。
+本条目位于 [[regional-banks/INDEX|regional-banks INDEX]]，作为 [[concordia-fg|横浜 Financial Group]] 旗下地方银行系智库页面。
 
 ## 概要
 

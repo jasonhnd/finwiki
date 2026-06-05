@@ -1,5 +1,5 @@
 ---
-source: japanfg/shimane-bank
+source: regional-banks/shimane-bank
 source_hash: b72bb27979398a3e
 lang: ja
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-06-02T15:14:17.135Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に位置する。ピア比較・対比の文脈では [[regional-banks/momiji-bank|もみじ銀行]]、より広い制度・規制上の境界では [[banking/INDEX|banking index]] とあわせて読む。
+この項目は [[regional-banks/INDEX|regional-banks INDEX]] の配下に位置する。ピア比較・対比の文脈では [[regional-banks/momiji-bank|もみじ銀行]]、より広い制度・規制上の境界では [[banking/INDEX|banking index]] とあわせて読む。
 
 ## 要約
 

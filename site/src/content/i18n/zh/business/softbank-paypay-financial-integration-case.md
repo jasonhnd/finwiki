@@ -13,7 +13,7 @@ translated_at: 2026-06-05T00:00:00.000Z
 
 ## Wiki 路径
 
-本条目归于 [[business/INDEX|business INDEX]] 之下，作为上市公司战略案例。请与 [[business/kddi-au-financial-bundling-case|KDDI au financial bundling case]] 对照，那是对照性的"自有银行、把证券交给巨型银行"的分工；与 [[business/ntt-docomo-d-point-telco-finance-case|NTT Docomo d-Point telco-finance case]] 对照，那是合作方主导的银行模式；并与 [[business/rakuten-group-mobile-finance-bundling-case|Rakuten Group mobile-finance bundling case]] 对照，那是另一家自有每条金融垂直的超级 App。实体简介参见 [[megabanks/paypay-fg|PayPay (financial group)]]、[[card-issuers/paypay-card|PayPay Card]] 与 [[securities-firms/paypay-securities|PayPay Securities]]。与 [[JapanFG/INDEX|JapanFG payments / cards / leasing index]]、[[payments/cashless-jp-landscape|Japan cashless payment landscape]] 及 [[loyalty/sb-yahoo-paypay-points-unified-ecosystem|SoftBank / Yahoo / PayPay points ecosystem]] 搭配阅读。
+本条目归于 [[business/INDEX|business INDEX]] 之下，作为上市公司战略案例。请与 [[business/kddi-au-financial-bundling-case|KDDI au financial bundling case]] 对照，那是对照性的"自有银行、把证券交给巨型银行"的分工；与 [[business/ntt-docomo-d-point-telco-finance-case|NTT Docomo d-Point telco-finance case]] 对照，那是合作方主导的银行模式；并与 [[business/rakuten-group-mobile-finance-bundling-case|Rakuten Group mobile-finance bundling case]] 对照，那是另一家自有每条金融垂直的超级 App。实体简介参见 [[megabanks/paypay-fg|PayPay (financial group)]]、[[card-issuers/paypay-card|PayPay Card]] 与 [[securities-firms/paypay-securities|PayPay Securities]]。与 [[business/INDEX|business INDEX]]、[[payments/cashless-jp-landscape|Japan cashless payment landscape]] 及 [[loyalty/sb-yahoo-paypay-points-unified-ecosystem|SoftBank / Yahoo / PayPay points ecosystem]] 搭配阅读。
 
 ## TL;DR
 
@@ -128,7 +128,6 @@ PayPay 案例是**支付 App 主导的金融整合**的模板：
 - [[megabanks/paypay-fg|PayPay financial group]]
 - [[card-issuers/paypay-card|PayPay Card]]
 - [[securities-firms/paypay-securities|PayPay Securities]]
-- [[JapanFG/INDEX|JapanFG payments / cards / leasing index]]
 - [[payments/cashless-jp-landscape|Japan cashless payment landscape]]
 - [[loyalty/sb-yahoo-paypay-points-unified-ecosystem|SoftBank / Yahoo / PayPay points ecosystem]]
 - [[fintech/ai-payment-two-tracks|AI payment two tracks]]

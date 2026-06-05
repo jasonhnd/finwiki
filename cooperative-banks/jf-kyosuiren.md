@@ -30,7 +30,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **JF Group cooperative-insurance national federation**, the JF-side parallel to [[non-life-insurers/ja-kyosairen|JA 共済連]] in the agricultural cooperative system. Closes the audit gap where JA 共済連 was deeply documented but the JF-side equivalent (JF 共水連) had no anchor. Read with [[cooperative-banks/jf-zengyoren|JF 全漁連 (JF グループ代表 + 経済事業)]] for the JF group representative federation, [[cooperative-banks/jf-shingyoren|JF 信漁連]] for the JF credit federation layer, [[cooperative-banks/jf-marine-bank-hokkaido|JF Marine Bank 北海道]] for prefectural credit anchor, [[cooperative-banks/norinchukin|農林中央金庫]] for the JF Marine Bank system central institution, and [[insurance/INDEX|insurance domain]] for the cooperative-vs-stock insurance form contrast.
+This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as the **JF Group cooperative-insurance national federation**, the JF-side parallel to [[non-life-insurers/ja-kyosairen|JA 共済連]] in the agricultural cooperative system. Closes the audit gap where JA 共済連 was deeply documented but the JF-side equivalent (JF 共水連) had no anchor. Read with [[cooperative-banks/jf-zengyoren|JF 全漁連 (JF グループ代表 + 経済事業)]] for the JF group representative federation, [[cooperative-banks/jf-shingyoren|JF 信漁連]] for the JF credit federation layer, [[cooperative-banks/jf-marine-bank-hokkaido|JF Marine Bank 北海道]] for prefectural credit anchor, [[cooperative-banks/norinchukin|農林中央金庫]] for the JF Marine Bank system central institution, and [[insurance/INDEX|insurance domain]] for the cooperative-vs-stock insurance form contrast.
 
 ## TL;DR
 
@@ -142,7 +142,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **JF Group cooperat
 - [[insurance/mutual-vs-stock-life-insurer]] — 相互会社 vs 株式会社 (協同組合 = 第 3 形態)
 - [[banking/jf-marine-bank-system-japan]] — JF Marine Bank system
 - [[banking/cooperative-banking-japan]] — 協同組織金融全体
-- [[JapanFG/INDEX|JapanFG index]]
+- [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 
 ## Sources
 

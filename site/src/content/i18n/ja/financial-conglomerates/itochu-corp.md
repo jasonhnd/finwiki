@@ -1,5 +1,5 @@
 ---
-source: japanfg/itochu-corp
+source: financial-conglomerates/itochu-corp
 source_hash: 04e09ca021a5fe0f
 lang: ja
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-02T14:25:12.395Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の下に置く、**総合商社の親会社・持株会社級エントリ**である。金融サービス会社そのものではないが、金融サービス子会社と戦略的持分を通じて JapanFG と接続する。 ピア比較・対照の文脈では、[[financial-conglomerates/mitsubishi-corp|三菱商事]]（5 大首位 / 資源寄り対照）および [[financial-conglomerates/marubeni-corp|丸紅]]（繊維・穀物商社としての対照）と併読する。 この項目に JapanFG 上のアンカーを与える金融サービス隣接領域については、[[trading-company-finance/itochu-finance|伊藤忠ファイナンス]]（内向け CMS）、特に **[[leasing-firms/tokyo-century|東京センチュリー]]** (伊藤忠の戦略的持分 **約 25% 級** = みずほ FG と並ぶ 2 大株主、東証 PRIME **8439**)。制度上の枠組み: [[finance/INDEX|finance index]] と [[finance/japan-listed-financial-groups-investable-universe|Japan 上場金融 G 投資ユニバース]]。
+この項目は [[financial-conglomerates/INDEX|financial-conglomerates INDEX]] の下に置く、**総合商社の親会社・持株会社級エントリ**である。金融サービス会社そのものではないが、金融サービス子会社と戦略的持分を通じて JapanFG と接続する。 ピア比較・対照の文脈では、[[financial-conglomerates/mitsubishi-corp|三菱商事]]（5 大首位 / 資源寄り対照）および [[financial-conglomerates/marubeni-corp|丸紅]]（繊維・穀物商社としての対照）と併読する。 この項目に JapanFG 上のアンカーを与える金融サービス隣接領域については、[[trading-company-finance/itochu-finance|伊藤忠ファイナンス]]（内向け CMS）、特に **[[leasing-firms/tokyo-century|東京センチュリー]]** (伊藤忠の戦略的持分 **約 25% 級** = みずほ FG と並ぶ 2 大株主、東証 PRIME **8439**)。制度上の枠組み: [[finance/INDEX|finance index]] と [[finance/japan-listed-financial-groups-investable-universe|Japan 上場金融 G 投資ユニバース]]。
 
 ## 1. 会社概要
 
@@ -105,7 +105,7 @@ translated_at: 2026-06-02T14:25:12.395Z
 
 ## 関連
 
-- [[JapanFG/INDEX|JapanFG index]]
+- [[financial-conglomerates/INDEX|financial-conglomerates INDEX]]
 - [[financial-conglomerates/mitsubishi-corp|三菱商事]] · [[financial-conglomerates/mitsui-co|三井物産]] · [[financial-conglomerates/sumitomo-corp|住友商事]] · [[financial-conglomerates/marubeni-corp|丸紅]] · [[financial-conglomerates/toyota-tsusho-corp|豊田通商]] · [[financial-conglomerates/sojitz-corp|双日]] （ピア商社）
 - [[trading-company-finance/itochu-finance|伊藤忠ファイナンス]] （内向けグループ財務）
 - [[leasing-firms/tokyo-century|東京センチュリー]] (3 大リース、伊藤忠 戦略的持分 約 25% 級)

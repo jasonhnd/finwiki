@@ -19,7 +19,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[non-life-insurers/munich-re-japan|ミュンヘン再保険日本支店]] and [[non-life-insurers/swiss-re-japan|スイス再保険日本支店]] as the "Big 2 + Hannover" trio of European reinsurers in Japan, and [[non-life-insurers/toa-reinsurance|トーア再保険]] as the domestic peer. The system page [[insurance/natcat-reinsurance-japan|nat-cat reinsurance Japan]] frames how all of these fit into Japan's catastrophe risk transfer architecture.
+This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read it against [[non-life-insurers/munich-re-japan|ミュンヘン再保険日本支店]] and [[non-life-insurers/swiss-re-japan|スイス再保険日本支店]] as the "Big 2 + Hannover" trio of European reinsurers in Japan, and [[non-life-insurers/toa-reinsurance|トーア再保険]] as the domestic peer. The system page [[insurance/natcat-reinsurance-japan|nat-cat reinsurance Japan]] frames how all of these fit into Japan's catastrophe risk transfer architecture.
 
 ## TL;DR
 
@@ -51,7 +51,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[non-lif
 
 ## Related
 
-- [[JapanFG/INDEX]]
+- [[non-life-insurers/INDEX]]
 - [[munich-re-japan]]
 - [[swiss-re-japan]]
 - [[toa-reinsurance]]

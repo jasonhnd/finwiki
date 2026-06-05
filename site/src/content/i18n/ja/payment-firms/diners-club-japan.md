@@ -1,5 +1,5 @@
 ---
-source: japanfg/diners-club-japan
+source: payment-firms/diners-club-japan
 source_hash: 8a9a79531f276d38
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:25:12.404Z
 
 ## ウィキ上の位置づけ
 
-本項目は [[JapanFG/INDEX|JapanFG index]] の配下に置く。[[card-issuers/jcb|JCB]] を同業・対比の文脈（両者とも 3者間型・プレミアム志向）として、[[payments/japan-card-issuer-acquirer-processor-split|Japan card issuer / acquirer / processor split]] をより広い制度・規制境界として併読する。
+本項目は [[payment-firms/INDEX|payment-firms INDEX]] の配下に置く。[[card-issuers/jcb|JCB]] を同業・対比の文脈（両者とも 3者間型・プレミアム志向）として、[[payments/japan-card-issuer-acquirer-processor-split|Japan card issuer / acquirer / processor split]] をより広い制度・規制境界として併読する。
 
 ## 1. ライセンス・グループ境界
 

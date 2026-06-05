@@ -1,5 +1,5 @@
 ---
-source: japanfg/sekisui-house-trust
+source: trust-banks/sekisui-house-trust
 source_hash: f6989566c4a0e7a1
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T15:14:17.151Z
 
 ## ウィキ上の位置づけ
 
-積水ハウス信託は [[JapanFG/INDEX|JapanFG]] 配下の独立した信託会社ルートで、[[trust-banks/trust-companies-japan-index|the Japan trust companies registry index]] から昇格した項目。[[banking/japan-trust-bank-custody-map|Japan trust-bank custody map]]、[[policy-finance/japan-housing-finance-agency|Japan Housing Finance Agency]]、[[trust-banks/daiwa-living-trust|Daiwa Living Trust]] と併読する。
+積水ハウス信託は [[trust-banks/INDEX|trust-banks INDEX]] 配下の独立した信託会社ルートで、[[trust-banks/trust-companies-japan-index|the Japan trust companies registry index]] から昇格した項目。[[banking/japan-trust-bank-custody-map|Japan trust-bank custody map]]、[[policy-finance/japan-housing-finance-agency|Japan Housing Finance Agency]]、[[trust-banks/daiwa-living-trust|Daiwa Living Trust]] と併読する。
 
 このページは、不動産管理信託、賃貸住宅の承継、住宅会社による信託サービスに関する論点で使う。
 
@@ -58,7 +58,7 @@ translated_at: 2026-06-02T15:14:17.151Z
 
 ## 関連項目
 
-- [[JapanFG/INDEX]]
+- [[trust-banks/INDEX]]
 - [[trust-banks/trust-companies-japan-index]]
 - [[banking/japan-trust-bank-custody-map]]
 - [[policy-finance/japan-housing-finance-agency]]

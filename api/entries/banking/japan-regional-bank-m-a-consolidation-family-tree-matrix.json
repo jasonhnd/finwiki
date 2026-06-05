@@ -64,10 +64,9 @@
     "Predecessor-to-successor mapping (the family-tree pairs)"
   ],
   "body_links": {
-    "wikilinks_count": 105,
+    "wikilinks_count": 104,
     "wikilinks": [
       "INDEX",
-      "JapanFG/INDEX",
       "banking/INDEX",
       "banking/japan-banking-license-tier-comparison-matrix",
       "banking/japan-cooperative-banking-unified-federation-matrix",
@@ -145,11 +144,11 @@
       "regional-banks/minato-bank\\",
       "regional-banks/momiji-bank\\",
       "regional-banks/nagasaki-bank\\",
-      "regional-banks/nishi-nippon-city-bank\\"
+      "regional-banks/nishi-nippon-city-bank\\",
+      "regional-banks/nishi-nippon-fhd"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/japan-banking-license-tier-comparison-matrix",
       "https://finwiki.zksc.io/banking/japan-cooperative-banking-unified-federation-matrix",
@@ -227,15 +226,16 @@
       "https://finwiki.zksc.io/regional-banks/minato-bank\\",
       "https://finwiki.zksc.io/regional-banks/momiji-bank\\",
       "https://finwiki.zksc.io/regional-banks/nagasaki-bank\\",
-      "https://finwiki.zksc.io/regional-banks/nishi-nippon-city-bank\\"
+      "https://finwiki.zksc.io/regional-banks/nishi-nippon-city-bank\\",
+      "https://finwiki.zksc.io/regional-banks/nishi-nippon-fhd"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 33397,
-    "word_like_tokens": 5817,
+    "nonspace_chars": 33366,
+    "word_like_tokens": 5813,
     "inbound_wikilinks_count": 6,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

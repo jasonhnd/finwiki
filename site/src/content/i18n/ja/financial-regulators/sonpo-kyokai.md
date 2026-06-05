@@ -1,5 +1,5 @@
 ---
-source: japanfg/sonpo-kyokai
+source: financial-regulators/sonpo-kyokai
 source_hash: d7ff0e7b872fedd9
 lang: ja
 status: machine
@@ -15,7 +15,7 @@ Sonpo Kyokai（General Insurance Association of Japan, GIAJ）は、日本の損
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に置かれる。生命保険側の比較対象である [[financial-regulators/seiho-kyokai|Life Insurance Association of Japan]]、法定の損害保険契約者保護の受け皿である [[financial-regulators/sonpo-hosho-kiko|Non-Life Insurance Policyholders Protection Corporation of Japan]]、追加時には法定の料率算出団体である [[financial-regulators/hokenryo-sanshutsu-kiko|Non-Life Insurance Rating Organization of Japan]] とあわせて読む。法令上の背景は [[financial-licenses/INDEX]] と [[financial-licenses/insurance-license-and-solvency|insurance license and solvency route]]、より広い事業者一覧は [[insurance/INDEX]] に置かれる。
+この項目は [[financial-regulators/INDEX|financial-regulators INDEX]] の配下に置かれる。生命保険側の比較対象である [[financial-regulators/seiho-kyokai|Life Insurance Association of Japan]]、法定の損害保険契約者保護の受け皿である [[financial-regulators/sonpo-hosho-kiko|Non-Life Insurance Policyholders Protection Corporation of Japan]]、追加時には法定の料率算出団体である [[financial-regulators/hokenryo-sanshutsu-kiko|Non-Life Insurance Rating Organization of Japan]] とあわせて読む。法令上の背景は [[financial-licenses/INDEX]] と [[financial-licenses/insurance-license-and-solvency|insurance license and solvency route]]、より広い事業者一覧は [[insurance/INDEX]] に置かれる。
 
 ## 法令ルート / 法定上の位置づけ（豕穂ｻ､縺ｮ譬ｹ諡）
 
@@ -51,7 +51,7 @@ JapanFGの損害保険会社項目では、「GIAJ標準実務」や「業界協
 
 ## 関連
 
-- [[JapanFG/INDEX|JapanFG index]]
+- [[financial-regulators/INDEX|financial-regulators INDEX]]
 - [[financial-regulators/seiho-kyokai|Life Insurance Association of Japan]]
 - [[financial-regulators/sonpo-hosho-kiko|Non-Life Insurance Policyholders Protection Corporation of Japan]]
 - [[financial-regulators/seimei-hokensha-hogo-kiko|Life Insurance Policyholders Protection Corporation of Japan]]

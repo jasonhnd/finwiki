@@ -1,5 +1,5 @@
 ---
-source: japanfg/pacific-life-re-japan
+source: life-insurers/pacific-life-re-japan
 source_hash: eb722d9a61ef42a5
 lang: en
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-01T00:41:50.414Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[non-life-insurers/swiss-re-japan|Swiss Re Japan]] and [[non-life-insurers/hannover-re-japan|Hannover Re Japan]] for life-reinsurer peer context, and [[insurance/INDEX|insurance index]] for the broader Japan life insurance / reinsurance market system / regulatory boundary.
+This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it against [[non-life-insurers/swiss-re-japan|Swiss Re Japan]] and [[non-life-insurers/hannover-re-japan|Hannover Re Japan]] for life-reinsurer peer context, and [[insurance/INDEX|insurance index]] for the broader Japan life insurance / reinsurance market system / regulatory boundary.
 
 ## TL;DR
 

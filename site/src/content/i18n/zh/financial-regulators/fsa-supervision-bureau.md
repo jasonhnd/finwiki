@@ -1,5 +1,5 @@
 ---
-source: japanfg/fsa-supervision-bureau
+source: financial-regulators/fsa-supervision-bureau
 source_hash: 0c98d49f6e8ec61f
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T15:29:03.899Z
 # 监督局 (FSA Supervision Bureau)
 
 ## 维基路线
-此条目位于 [[JapanFG/INDEX|JapanFG index]] 下。将其与 [[financial-regulators/fsa-planning-coordination-bureau|FSA 企画市場局]] 对应的 FSA 内部规则制定对应部分、[[financial-regulators/fsa-strategy-bureau|FSA 総合政策局]] 对应的战略/跨局层、以及 [[financial-regulators/boj-financial-system-dept|BoJ 金融機構局]] 对应的央行侧审慎锚定进行对比。对于许可范围，通过 [[financial-licenses/INDEX|legal / financial licenses]] 和 [[banking/INDEX|banking landscape]] 进行锚定。
+此条目位于 [[financial-regulators/INDEX|financial-regulators INDEX]] 下。将其与 [[financial-regulators/fsa-planning-coordination-bureau|FSA 企画市場局]] 对应的 FSA 内部规则制定对应部分、[[financial-regulators/fsa-strategy-bureau|FSA 総合政策局]] 对应的战略/跨局层、以及 [[financial-regulators/boj-financial-system-dept|BoJ 金融機構局]] 对应的央行侧审慎锚定进行对比。对于许可范围，通过 [[financial-licenses/INDEX|legal / financial licenses]] 和 [[banking/INDEX|banking landscape]] 进行锚定。
 
 ##TL;博士
 

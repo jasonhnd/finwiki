@@ -38,7 +38,7 @@
       "https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 株式会社JR東日本ファイナンシャル & View Card for peer / contrast context and credit purchase / card operators index for the broader regulatory / registry boundary.",
+  "summary": "This entry sits under card-issuers INDEX. Read it against 株式会社JR東日本ファイナンシャル & View Card for peer / contrast context and credit purchase / card operators index for the broader regulatory / registry boundary.",
   "headings": [
     "株式会社JALカード (JAL Card)",
     "Wiki route",
@@ -54,7 +54,7 @@
   "body_links": {
     "wikilinks_count": 14,
     "wikilinks": [
-      "JapanFG/INDEX",
+      "card-issuers/INDEX",
       "card-issuers/credit-saison",
       "card-issuers/epos-card",
       "card-issuers/jcb",
@@ -70,7 +70,7 @@
       "regional-banks/seven-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/card-issuers/INDEX",
       "https://finwiki.zksc.io/card-issuers/credit-saison",
       "https://finwiki.zksc.io/card-issuers/epos-card",
       "https://finwiki.zksc.io/card-issuers/jcb",
@@ -94,9 +94,9 @@
     ]
   },
   "metrics": {
-    "nonspace_chars": 4947,
-    "word_like_tokens": 884,
+    "nonspace_chars": 4957,
+    "word_like_tokens": 886,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

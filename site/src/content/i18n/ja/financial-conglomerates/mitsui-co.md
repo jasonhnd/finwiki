@@ -1,5 +1,5 @@
 ---
-source: japanfg/mitsui-co
+source: financial-conglomerates/mitsui-co
 source_hash: 27a7b35b99fe77b7
 lang: ja
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-02T14:54:39.040Z
 
 ## ウィキ上の位置づけ
 
-この項目は **総合商社の親会社・持株会社的ルート** として [[JapanFG/INDEX|JapanFG index]] の配下に置く。[[financial-conglomerates/mitsubishi-corp|三菱商事]]（純利益首位を争う最大ライバル）と [[financial-conglomerates/itochu-corp|伊藤忠商事]]（非資源寄り 5 大商社の対照）を同業比較・対照の文脈で読む。JapanFG 上でこの項目を支える金融サービス隣接性は、[[trading-company-finance/mitsui-bussan-financial-services|三井物産フィナンシャルサービス]]（内向け CMS）を参照し、[[leasing-firms/smfl|SMFL (住友三井オートサービス系の総合リース)]] は **不正確** — 三井物産の主リース子会社は [[cooperative-banks/ja-mitsui-leasing|JA三井リース]] (JA 全農 + 三井物産 50/50 系列 — 旧 三井リース + JA リース合併体) と SMFG / 住友商事系の [[leasing-firms/smfl|SMFL]] への持分とは別物 (SMFL = 50% SMFG + 50% 住友商事)、加えて [[leasing-firms/sumitomo-mitsui-auto-service|住友三井オートサービス]] への一定持分。制度上の枠組み: [[finance/INDEX|finance index]] と [[finance/japan-listed-financial-groups-investable-universe|Japan 上場金融 G 投資ユニバース]]。
+この項目は **総合商社の親会社・持株会社的ルート** として [[financial-conglomerates/INDEX|financial-conglomerates INDEX]] の配下に置く。[[financial-conglomerates/mitsubishi-corp|三菱商事]]（純利益首位を争う最大ライバル）と [[financial-conglomerates/itochu-corp|伊藤忠商事]]（非資源寄り 5 大商社の対照）を同業比較・対照の文脈で読む。JapanFG 上でこの項目を支える金融サービス隣接性は、[[trading-company-finance/mitsui-bussan-financial-services|三井物産フィナンシャルサービス]]（内向け CMS）を参照し、[[leasing-firms/smfl|SMFL (住友三井オートサービス系の総合リース)]] は **不正確** — 三井物産の主リース子会社は [[cooperative-banks/ja-mitsui-leasing|JA三井リース]] (JA 全農 + 三井物産 50/50 系列 — 旧 三井リース + JA リース合併体) と SMFG / 住友商事系の [[leasing-firms/smfl|SMFL]] への持分とは別物 (SMFL = 50% SMFG + 50% 住友商事)、加えて [[leasing-firms/sumitomo-mitsui-auto-service|住友三井オートサービス]] への一定持分。制度上の枠組み: [[finance/INDEX|finance index]] と [[finance/japan-listed-financial-groups-investable-universe|Japan 上場金融 G 投資ユニバース]]。
 
 ## 1. 会社概要
 
@@ -103,7 +103,7 @@ translated_at: 2026-06-02T14:54:39.040Z
 
 ## 関連項目
 
-- [[JapanFG/INDEX|JapanFG index]]
+- [[financial-conglomerates/INDEX|financial-conglomerates INDEX]]
 - [[financial-conglomerates/mitsubishi-corp|三菱商事]] · [[financial-conglomerates/itochu-corp|伊藤忠商事]] · [[financial-conglomerates/sumitomo-corp|住友商事]] · [[financial-conglomerates/marubeni-corp|丸紅]] · [[financial-conglomerates/toyota-tsusho-corp|豊田通商]] · [[financial-conglomerates/sojitz-corp|双日]] (peer 商社)
 - [[trading-company-finance/mitsui-bussan-financial-services|三井物産FS]] (内向け グループ財務)
 - [[cooperative-banks/ja-mitsui-leasing|JA三井リース]] (持分法リース)

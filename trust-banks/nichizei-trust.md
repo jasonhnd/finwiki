@@ -17,7 +17,7 @@ sources:
 
 # Nichizei Trust / 日税信託
 
-Wiki route: [[JapanFG/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/nichizei-trust]]
+Wiki route: [[trust-banks/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/nichizei-trust]]
 
 ## Overview
 

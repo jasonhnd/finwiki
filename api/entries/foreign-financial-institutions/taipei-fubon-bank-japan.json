@@ -38,7 +38,7 @@
       "https://www.fubon.com/banking/Corporate/en/overseas_Business/branch_japan/branch_japan.htm"
     ]
   },
-  "summary": "Taipei Fubon Bank Japan sits under JapanFG index and is a current Taiwan-Japan foreign-bank branch route in the foreign-bank branch registry. Read it with First Commercial Bank Japan, E.SUN Bank Japan, CTBC Bank Japan, Bank of Taiwan Japan, and cross-border finance.",
+  "summary": "Taipei Fubon Bank Japan sits under foreign-financial-institutions INDEX and is a current Taiwan-Japan foreign-bank branch route in the foreign-bank branch registry. Read it with First Commercial Bank Japan, E.SUN Bank Japan, CTBC Bank Japan, Bank of Taiwan Japan, and cross-border finance.",
   "headings": [
     "台北富邦商業銀行日本 (Taipei Fubon Bank Japan)",
     "Wiki route",
@@ -54,9 +54,9 @@
     "wikilinks_count": 10,
     "wikilinks": [
       "INDEX",
-      "JapanFG/INDEX",
       "finance/cross-border-m-a-japan",
       "financial-licenses/foreign-bank-branch-license-route",
+      "foreign-financial-institutions/INDEX",
       "foreign-financial-institutions/bank-of-taiwan-japan",
       "foreign-financial-institutions/ctbc-bank-japan",
       "foreign-financial-institutions/esun-bank-japan",
@@ -66,9 +66,9 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/finance/cross-border-m-a-japan",
       "https://finwiki.zksc.io/financial-licenses/foreign-bank-branch-license-route",
+      "https://finwiki.zksc.io/foreign-financial-institutions/INDEX",
       "https://finwiki.zksc.io/foreign-financial-institutions/bank-of-taiwan-japan",
       "https://finwiki.zksc.io/foreign-financial-institutions/ctbc-bank-japan",
       "https://finwiki.zksc.io/foreign-financial-institutions/esun-bank-japan",
@@ -80,9 +80,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4413,
-    "word_like_tokens": 698,
+    "nonspace_chars": 4482,
+    "word_like_tokens": 704,
     "inbound_wikilinks_count": 6,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

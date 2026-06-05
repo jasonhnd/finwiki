@@ -23,7 +23,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[cooperative-banks/ja-mitsui-leasing|JA三井リース]] for peer / contrast context (both are trading-house-linked leasing entities) and [[banking/INDEX|banking index]] for the broader system / regulatory boundary. Read it with [[leasing-firms/tokyo-century|東京センチュリー]] (伊藤忠系) for the broader trading-house x leasing pattern.
+This entry sits under [[leasing-firms/INDEX|leasing-firms INDEX]]. Read it against [[cooperative-banks/ja-mitsui-leasing|JA三井リース]] for peer / contrast context (both are trading-house-linked leasing entities) and [[banking/INDEX|banking index]] for the broader system / regulatory boundary. Read it with [[leasing-firms/tokyo-century|東京センチュリー]] (伊藤忠系) for the broader trading-house x leasing pattern.
 
 ## TL;DR
 

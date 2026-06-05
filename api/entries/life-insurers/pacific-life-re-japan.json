@@ -38,7 +38,7 @@
       "Pacific Life Insurance Company group disclosures (公開版)"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against its closest same-domain peer RGA Japan — the other foreign life / health reinsurer registered on the FSA life-insurer list — as well as Swiss Re Japan and Hannover Re Japan for multi-line reinsurer peer context, and insurance index for the broader",
+  "summary": "This entry sits under life-insurers INDEX. Read it against its closest same-domain peer RGA Japan — the other foreign life / health reinsurer registered on the FSA life-insurer list — as well as Swiss Re Japan and Hannover Re Japan for multi-line reinsurer peer context, and insurance index for the b",
   "headings": [
     "Pacific Life Re Japan / パシフィック・ライフ・リー・ジャパン",
     "Wiki route",
@@ -52,12 +52,12 @@
   "body_links": {
     "wikilinks_count": 13,
     "wikilinks": [
-      "JapanFG/INDEX",
       "financial-licenses/insurance-license-and-solvency",
       "insurance/INDEX",
       "insurance/global-solvency-framework-comparison-matrix",
       "insurance/japan-life-insurance-big-four",
       "insurance/mutual-vs-stock-life-insurer",
+      "life-insurers/INDEX",
       "life-insurers/manulife-japan",
       "life-insurers/metlife-japan",
       "life-insurers/rga-japan",
@@ -67,12 +67,12 @@
       "non-life-insurers/toa-reinsurance"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/financial-licenses/insurance-license-and-solvency",
       "https://finwiki.zksc.io/insurance/INDEX",
       "https://finwiki.zksc.io/insurance/global-solvency-framework-comparison-matrix",
       "https://finwiki.zksc.io/insurance/japan-life-insurance-big-four",
       "https://finwiki.zksc.io/insurance/mutual-vs-stock-life-insurer",
+      "https://finwiki.zksc.io/life-insurers/INDEX",
       "https://finwiki.zksc.io/life-insurers/manulife-japan",
       "https://finwiki.zksc.io/life-insurers/metlife-japan",
       "https://finwiki.zksc.io/life-insurers/rga-japan",
@@ -85,9 +85,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5184,
-    "word_like_tokens": 830,
+    "nonspace_chars": 5196,
+    "word_like_tokens": 832,
     "inbound_wikilinks_count": 3,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

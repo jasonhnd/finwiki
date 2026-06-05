@@ -41,7 +41,7 @@
       "https://www.fsa.go.jp/news/newse/e20041216-1.html"
     ]
   },
-  "summary": "Banco do Brasil Japan sits under JapanFG index and is the Brazil-Japan foreign-bank branch route in the foreign-bank branch registry. Read it with funds-transfer registry, foreign-bank branch route, foreign-bank agency route, and cross-border finance.",
+  "summary": "Banco do Brasil Japan sits under foreign-financial-institutions INDEX and is the Brazil-Japan foreign-bank branch route in the foreign-bank branch registry. Read it with funds-transfer registry, foreign-bank branch route, foreign-bank agency route, and cross-border finance.",
   "headings": [
     "ブラジル銀行日本 (Banco do Brasil Japan)",
     "Wiki route",
@@ -57,10 +57,10 @@
     "wikilinks_count": 11,
     "wikilinks": [
       "INDEX",
-      "JapanFG/INDEX",
       "finance/cross-border-m-a-japan",
       "financial-licenses/foreign-bank-agency-business-route",
       "financial-licenses/foreign-bank-branch-license-route",
+      "foreign-financial-institutions/INDEX",
       "foreign-financial-institutions/foreign-bank-branches-japan-index",
       "foreign-financial-institutions/metrobank-japan",
       "foreign-financial-institutions/philippine-national-bank-japan",
@@ -70,10 +70,10 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/finance/cross-border-m-a-japan",
       "https://finwiki.zksc.io/financial-licenses/foreign-bank-agency-business-route",
       "https://finwiki.zksc.io/financial-licenses/foreign-bank-branch-license-route",
+      "https://finwiki.zksc.io/foreign-financial-institutions/INDEX",
       "https://finwiki.zksc.io/foreign-financial-institutions/foreign-bank-branches-japan-index",
       "https://finwiki.zksc.io/foreign-financial-institutions/metrobank-japan",
       "https://finwiki.zksc.io/foreign-financial-institutions/philippine-national-bank-japan",
@@ -85,9 +85,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4531,
-    "word_like_tokens": 715,
+    "nonspace_chars": 4600,
+    "word_like_tokens": 721,
     "inbound_wikilinks_count": 3,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

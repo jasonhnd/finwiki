@@ -36,7 +36,7 @@
       "https://www.kagin.co.jp/investor/profile/company.html"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 福岡銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under regional-banks INDEX. Read it against 福岡銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [
     "鹿児島銀行",
     "Wiki route",
@@ -50,32 +50,32 @@
   "body_links": {
     "wikilinks_count": 8,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "banking/regional-bank-consolidation-pattern",
       "higo-bank",
       "kyushu-fg",
       "miyazaki-bank",
       "oita-bank",
+      "regional-banks/INDEX",
       "regional-banks/fukuoka-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
       "https://finwiki.zksc.io/higo-bank",
       "https://finwiki.zksc.io/kyushu-fg",
       "https://finwiki.zksc.io/miyazaki-bank",
       "https://finwiki.zksc.io/oita-bank",
+      "https://finwiki.zksc.io/regional-banks/INDEX",
       "https://finwiki.zksc.io/regional-banks/fukuoka-bank"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1788,
-    "word_like_tokens": 279,
+    "nonspace_chars": 1802,
+    "word_like_tokens": 281,
     "inbound_wikilinks_count": 3,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

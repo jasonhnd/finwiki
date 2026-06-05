@@ -1,5 +1,5 @@
 ---
-source: japanfg/yamada-escrow-trust
+source: trust-banks/yamada-escrow-trust
 source_hash: 5291191b273f7916
 lang: en
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-01T02:31:57.157Z
 
 ## Wiki route
 
-Yamada Escrow Trust is a standalone trust-company route under [[JapanFG/INDEX|JapanFG]] and is promoted from [[trust-banks/trust-companies-japan-index|the Japan trust companies registry index]]. Read it with [[finance/japan-mbo-and-squeeze-out-process|Japan MBO / squeeze-out process]], [[finance/japan-acquisition-finance|Japan acquisition finance]], and [[trust-banks/escrow-agent-japan-trust|Escrow Agent Japan Trust]].
+Yamada Escrow Trust is a standalone trust-company route under [[trust-banks/INDEX|trust-banks INDEX]] and is promoted from [[trust-banks/trust-companies-japan-index|the Japan trust companies registry index]]. Read it with [[finance/japan-mbo-and-squeeze-out-process|Japan MBO / squeeze-out process]], [[finance/japan-acquisition-finance|Japan acquisition finance]], and [[trust-banks/escrow-agent-japan-trust|Escrow Agent Japan Trust]].
 
 Use this page for escrow trust, real-estate transaction protection, M&A payment retention, and senior-housing / funeral-service prepayment protection questions.
 
@@ -58,7 +58,7 @@ Do not add specific transaction examples unless the parties publicly disclose th
 
 ## Related
 
-- [[JapanFG/INDEX]]
+- [[trust-banks/INDEX]]
 - [[trust-banks/trust-companies-japan-index]]
 - [[trust-banks/escrow-agent-japan-trust]]
 - [[finance/japan-acquisition-finance]]

@@ -1,5 +1,5 @@
 ---
-source: japanfg/visa-worldwide-japan
+source: payment-firms/visa-worldwide-japan
 source_hash: 09054443887fd7a1
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.106Z
 
 ## Wiki route
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可与 [[card-issuers/jcb|JCB]] 对读作为同业 / 对照背景：Visa 是全球纯 scheme，而 JCB 是日本起源的 hybrid。更广的系统 / 监管边界参见 [[payments/japan-card-issuer-acquirer-processor-split|Japan card issuer / acquirer / processor split]]。
+本条目位于 [[payment-firms/INDEX|payment-firms INDEX]] 之下。可与 [[card-issuers/jcb|JCB]] 对读作为同业 / 对照背景：Visa 是全球纯 scheme，而 JCB 是日本起源的 hybrid。更广的系统 / 监管边界参见 [[payments/japan-card-issuer-acquirer-processor-split|Japan card issuer / acquirer / processor split]]。
 
 ## TL;DR
 

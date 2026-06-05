@@ -1,5 +1,5 @@
 ---
-source: japanfg/kanagawa-bank
+source: regional-banks/kanagawa-bank
 source_hash: 29f422ab409dea45
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T23:59:49.419Z
 
 ## Wiki 路径
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可结合 [[regional-banks/tokyo-star-bank|東京スター銀行]] 作为同业 / 对照背景，并结合 [[banking/INDEX|banking index]] 理解更广泛的制度 / 监管边界。
+本条目位于 [[regional-banks/INDEX|regional-banks INDEX]] 之下。可结合 [[regional-banks/tokyo-star-bank|東京スター銀行]] 作为同业 / 对照背景，并结合 [[banking/INDEX|banking index]] 理解更广泛的制度 / 监管边界。
 
 ## 摘要
 

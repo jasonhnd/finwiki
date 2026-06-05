@@ -17,7 +17,7 @@ sources:
 
 # CastGlobal Trust / キャストグローバル信託
 
-Wiki route: [[JapanFG/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/castglobal-trust]]
+Wiki route: [[trust-banks/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/castglobal-trust]]
 
 ## Overview
 

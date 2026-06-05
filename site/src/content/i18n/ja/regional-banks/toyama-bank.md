@@ -1,5 +1,5 @@
 ---
-source: japanfg/toyama-bank
+source: regional-banks/toyama-bank
 source_hash: cf7b35ec800fdbc6
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T16:33:58.509Z
 
 ## ウィキ上の位置づけ
 
-このエントリは [[JapanFG/INDEX|JapanFG index]] の配下に位置する。ピア / 対比の文脈には [[regional-banks/fukuoka-bank|福岡銀行]]、より広い制度 / 規制境界には [[banking/INDEX|banking index]] と照らして読む。
+このエントリは [[regional-banks/INDEX|regional-banks INDEX]] の配下に位置する。ピア / 対比の文脈には [[regional-banks/fukuoka-bank|福岡銀行]]、より広い制度 / 規制境界には [[banking/INDEX|banking index]] と照らして読む。
 
 ## 要約
 
@@ -35,7 +35,7 @@ translated_at: 2026-06-02T16:33:58.509Z
 
 - FSA に基づく正確な名称の地域銀行ページを追加する。
 - [[hokuriku-bank]] と [[toyama-first-bank]] を補完する。
-- B2.1 地域銀行のオペレーティング会社ページとして、より広い [[JapanFG/INDEX|JapanFG index]] の面の下で追跡する。
+- B2.1 地域銀行のオペレーティング会社ページとして、より広い [[regional-banks/INDEX|regional-banks INDEX]] の面の下で追跡する。
 
 ## 関連項目
 

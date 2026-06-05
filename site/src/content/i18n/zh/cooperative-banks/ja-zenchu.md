@@ -1,5 +1,5 @@
 ---
-source: japanfg/ja-zenchu
+source: cooperative-banks/ja-zenchu
 source_hash: ec4e10099a138f64
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:59:49.346Z
 
 ## Wiki 路径
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下，是支撑 [[cooperative-banks/norinchukin|農林中央金庫 (Norinchukin)]] 和 [[banking/ja-bank-system-japan|JA Bank system]] 的 **JA Group 全国协调层**。可结合 [[cooperative-banks/ja-zen-noh|JA 全農 (全国農業協同組合連合会)]] 理解经济事业全国联的对应方，结合 [[non-life-insurers/ja-kyosairen|JA 共済連]] 理解协同保险联，结合 [[banking/cooperative-banking-japan|cooperative banking domain]] 理解更广泛的系统边界。
+本条目位于 [[cooperative-banks/INDEX|cooperative-banks INDEX]] 之下，是支撑 [[cooperative-banks/norinchukin|農林中央金庫 (Norinchukin)]] 和 [[banking/ja-bank-system-japan|JA Bank system]] 的 **JA Group 全国协调层**。可结合 [[cooperative-banks/ja-zen-noh|JA 全農 (全国農業協同組合連合会)]] 理解经济事业全国联的对应方，结合 [[non-life-insurers/ja-kyosairen|JA 共済連]] 理解协同保险联，结合 [[banking/cooperative-banking-japan|cooperative banking domain]] 理解更广泛的系统边界。
 
 ## 摘要
 
@@ -119,7 +119,7 @@ JA Group（全国 497  个 JA + 4  大全国联）
 - [[banking/ja-bank-system-japan]] — JA Bank system 的边界
 - [[banking/cooperative-banking-japan]] — 协同组织金融整体
 - [[financial-regulators/zenginkyo]] — 银行业对应的全国组织（株式会社系）
-- [[JapanFG/INDEX|JapanFG index]]
+- [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 
 ## 来源
 

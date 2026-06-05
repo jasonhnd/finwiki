@@ -1,5 +1,5 @@
 ---
-source: japanfg/kb-kookmin-bank-japan
+source: foreign-financial-institutions/kb-kookmin-bank-japan
 source_hash: f19da07929faa73a
 lang: ja
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-06-02T14:54:39.036Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に置く。[[foreign-financial-institutions/woori-bank-japan|ウリィ銀行 東京支店]] は同業比較・対照の文脈、[[banking/INDEX|banking index]] はより広い制度・規制上の境界として読む。
+この項目は [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]] の配下に置く。[[foreign-financial-institutions/woori-bank-japan|ウリィ銀行 東京支店]] は同業比較・対照の文脈、[[banking/INDEX|banking index]] はより広い制度・規制上の境界として読む。
 
 ## 要約
 

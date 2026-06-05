@@ -1,5 +1,5 @@
 ---
-source: japanfg/fwd-life-japan
+source: life-insurers/fwd-life-japan
 source_hash: 4ee762abbe7b6efc
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T15:29:03.920Z
 
 ## Wiki 路线
 
-本条目位于 [[JapanFG/INDEX|JapanFG 索引]]。请与 [[life-insurers/credit-agricole-life|Credit Agricole Life Japan]] 作为同类外资生命保险公司进行比较，并与 [[insurance/INDEX|保险索引]] 配套阅读，以把握更广泛的监管边界。
+本条目位于 [[life-insurers/INDEX|life-insurers INDEX]]。请与 [[life-insurers/credit-agricole-life|Credit Agricole Life Japan]] 作为同类外资生命保险公司进行比较，并与 [[insurance/INDEX|保险索引]] 配套阅读，以把握更广泛的监管边界。
 
 ## TL;DR
 

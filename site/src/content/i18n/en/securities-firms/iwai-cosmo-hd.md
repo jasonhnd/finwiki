@@ -1,5 +1,5 @@
 ---
-source: japanfg/iwai-cosmo-hd
+source: securities-firms/iwai-cosmo-hd
 source_hash: a1fe444a0496cd77
 lang: en
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T15:29:03.870Z
 
 ## Wiki Route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]] as a securities-group holding-company page.
+This entry sits under [[securities-firms/INDEX|securities-firms INDEX]] as a securities-group holding-company page.
 
 ## TL;DR
 

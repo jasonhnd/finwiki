@@ -22,7 +22,7 @@ translated_at: 2026-06-03T00:53:08.258Z
 | 金融商品取引業者 | 金融庁の`kinyushohin.xlsx`で管理される全体母集団。ここではカテゴリ別・管轄別に要約する。 |
 | 証券会社／オンライン証券 | 市場シェア、グループ戦略、個人向け販売が重要な場合は独立ページ化する。 |
 | 資産運用会社 | AUM、グループ戦略、ETF／ファンド基盤、公開市場での重要性がある場合は独立ページ化する。 |
-| PTS／市場インフラ | 関連する場合は[[securities/INDEX]]または[[JapanFG/INDEX]]配下に独立ページを置く。 |
+| PTS／市場インフラ | 関連する場合は[[securities/INDEX]]または[[securities/INDEX]]配下に独立ページを置く。 |
 | ロングテールの助言業者／第二種業者 | 戦略的重要性がない限り登録簿のみで扱う。 |
 
 ## 登録簿スナップショット
@@ -88,7 +88,6 @@ translated_at: 2026-06-03T00:53:08.258Z
 ## 関連項目
 
 - [[securities/INDEX]]
-- [[JapanFG/INDEX]]
 - [[financial-licenses/INDEX]]
 - [[financial-regulators/missing-financial-institutions-backlog]]
 - [[securities/japan-securities-clearing-corp]]

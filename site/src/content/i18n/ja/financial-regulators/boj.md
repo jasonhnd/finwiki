@@ -1,5 +1,5 @@
 ---
-source: japanfg/boj
+source: financial-regulators/boj
 source_hash: f46b15b53cc2ac63
 lang: ja
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-02T14:01:20.903Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の下に位置する。規制上の相手方は [[financial-regulators/fsa|金融庁]]、セーフティネット上のピアは [[financial-regulators/dic|預金保険機構]]、内部組織は [[financial-regulators/boj-monetary-policy|BoJ 金融政策]] / [[financial-regulators/boj-financial-markets-dept|BoJ 金融市場局]] とあわせて読む。
+この項目は [[financial-regulators/INDEX|financial-regulators INDEX]] の下に位置する。規制上の相手方は [[financial-regulators/fsa|金融庁]]、セーフティネット上のピアは [[financial-regulators/dic|預金保険機構]]、内部組織は [[financial-regulators/boj-monetary-policy|BoJ 金融政策]] / [[financial-regulators/boj-financial-markets-dept|BoJ 金融市場局]] とあわせて読む。
 
 ## 要約
 
@@ -135,7 +135,7 @@ translated_at: 2026-06-02T14:01:20.903Z
 - [[financial-regulators/fsa|金融庁]] · [[financial-regulators/dic|預金保険機構]]
 - [[systems/bojnet|BoJ-NET]] · [[systems/zengin|全銀システム]]
 - [[megabanks/mufg-bank|MUFG]] · [[megabanks/smbc|SMBC]] · [[megabanks/mizuho-bank|みずほ銀行]] · [[regional-banks/japan-post-bank|ゆうちょ銀行]]
-- [[JapanFG/INDEX|JapanFG index]]
+- [[financial-regulators/INDEX|financial-regulators INDEX]]
 
 ## 出典
 

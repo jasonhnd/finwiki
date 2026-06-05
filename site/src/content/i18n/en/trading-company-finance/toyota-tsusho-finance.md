@@ -1,5 +1,5 @@
 ---
-source: japanfg/toyota-tsusho-finance
+source: trading-company-finance/toyota-tsusho-finance
 source_hash: b38a8fec431de266
 lang: en
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-01T02:31:57.156Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[leasing-firms/toyota-financial|Toyota Financial Services (TFS)]] and [[card-issuers/toyota-finance|Toyota Finance]]. For peer trading-house group-treasury arms, see [[trading-company-finance/mitsubishi-corp-finance|Mitsubishi Corporation Finance]], [[trading-company-finance/mitsui-bussan-financial-services|Mitsui Bussan Financial Services]], [[trading-company-finance/sumitomo-corp-financial-management|Sumitomo Corporation Financial Management]], [[trading-company-finance/itochu-finance|Itochu Finance]], and [[trading-company-finance/marubeni-financial-services|Marubeni Financial Services]].
+This entry sits under [[trading-company-finance/INDEX|trading-company-finance INDEX]]. Read it against [[leasing-firms/toyota-financial|Toyota Financial Services (TFS)]] and [[card-issuers/toyota-finance|Toyota Finance]]. For peer trading-house group-treasury arms, see [[trading-company-finance/mitsubishi-corp-finance|Mitsubishi Corporation Finance]], [[trading-company-finance/mitsui-bussan-financial-services|Mitsui Bussan Financial Services]], [[trading-company-finance/sumitomo-corp-financial-management|Sumitomo Corporation Financial Management]], [[trading-company-finance/itochu-finance|Itochu Finance]], and [[trading-company-finance/marubeni-financial-services|Marubeni Financial Services]].
 
 ## 1. Company Overview
 

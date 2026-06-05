@@ -37,7 +37,7 @@
       "https://www.marusan-sec.co.jp/company/profile/"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against アイザワ証券グループ for peer / contrast context, FSA 金融商品取引業者 index for the regulatory-license layer, and securities license stack for the FIEA license boundary.",
+  "summary": "This entry sits under securities-firms INDEX. Read it against アイザワ証券グループ for peer / contrast context, FSA 金融商品取引業者 index for the regulatory-license layer, and securities license stack for the FIEA license boundary.",
   "headings": [
     "丸三証券 (Marusan Securities)",
     "Wiki route",
@@ -53,9 +53,9 @@
   "body_links": {
     "wikilinks_count": 18,
     "wikilinks": [
-      "JapanFG/INDEX",
       "financial-licenses/securities-license-stack",
       "financial-regulators/jsda",
+      "securities-firms/INDEX",
       "securities-firms/aizawa-sg",
       "securities-firms/daiwa-sg",
       "securities-firms/iwai-cosmo-hd",
@@ -73,9 +73,9 @@
       "securities/japan-online-brokerage-competition"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/financial-licenses/securities-license-stack",
       "https://finwiki.zksc.io/financial-regulators/jsda",
+      "https://finwiki.zksc.io/securities-firms/INDEX",
       "https://finwiki.zksc.io/securities-firms/aizawa-sg",
       "https://finwiki.zksc.io/securities-firms/daiwa-sg",
       "https://finwiki.zksc.io/securities-firms/iwai-cosmo-hd",
@@ -96,9 +96,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3538,
-    "word_like_tokens": 489,
+    "nonspace_chars": 3556,
+    "word_like_tokens": 491,
     "inbound_wikilinks_count": 8,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

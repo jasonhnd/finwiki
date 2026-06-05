@@ -1,5 +1,5 @@
 ---
-source: japanfg/money-forward
+source: payment-firms/money-forward
 source_hash: 275674e19e722bd7
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:59:49.429Z
 
 ## Wiki 路径
 
-本条目位于 [[JapanFG/INDEX|JapanFG 索引]] 之下。可结合 [[payment-firms/freee|freee K.K.]] 阅读其同业 / 对比背景，并结合 [[fintech/japan-stablecoin-regulatory-landscape|日本稳定币法制度三层结构（JPYC、USDC、Project Pax）]] 理解更广泛的系统与监管边界。
+本条目位于 [[payment-firms/INDEX|payment-firms INDEX]] 之下。可结合 [[payment-firms/freee|freee K.K.]] 阅读其同业 / 对比背景，并结合 [[fintech/japan-stablecoin-regulatory-landscape|日本稳定币法制度三层结构（JPYC、USDC、Project Pax）]] 理解更广泛的系统与监管边界。
 
 ## 摘要
 
@@ -134,7 +134,7 @@ Money Forward（控股 / 上市公司 3994）
 ## 相关
 
 - [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[sbi-hd]] · [[ndfg]]
-- [[JapanFG/INDEX|JapanFG]]（东证 Prime fintech 类别）
+- [[payment-firms/INDEX|payment-firms INDEX]]（东证 Prime fintech 类别）
 
 ## 来源
 

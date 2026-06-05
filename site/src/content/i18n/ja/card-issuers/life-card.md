@@ -1,5 +1,5 @@
 ---
-source: japanfg/life-card
+source: card-issuers/life-card
 source_hash: d34054a0e5df3899
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:54:39.065Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] に属する。同業・比較対象の文脈では [[card-issuers/rakuten-card|楽天カード (Rakuten Card)]]、より広い制度・規制上の境界では [[payments/INDEX|payments index]] と併せて読む。
+この項目は [[card-issuers/INDEX|card-issuers INDEX]] に属する。同業・比較対象の文脈では [[card-issuers/rakuten-card|楽天カード (Rakuten Card)]]、より広い制度・規制上の境界では [[payments/INDEX|payments index]] と併せて読む。
 
 ## 要約
 

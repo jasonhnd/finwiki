@@ -20,7 +20,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[cooperative-banks/kyoto-chuo-shinkin|京都中央信用金庫]] for peer / contrast context inside the Kyoto shinkin block (両者は京都を地盤とする二大信用金庫) and against [[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]] for the broader system / regulatory boundary maintained by [[cooperative-banks/shinkin-central|信金中央金庫]].
+This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]]. Read it against [[cooperative-banks/kyoto-chuo-shinkin|京都中央信用金庫]] for peer / contrast context inside the Kyoto shinkin block (両者は京都を地盤とする二大信用金庫) and against [[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]] for the broader system / regulatory boundary maintained by [[cooperative-banks/shinkin-central|信金中央金庫]].
 
 ## TL;DR
 
@@ -51,7 +51,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[coopera
 
 ## Related
 
-- [[JapanFG/INDEX|JapanFG index]]
+- [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 - [[cooperative-banks/shinkin-central|信金中央金庫]]
 - [[cooperative-banks/kyoto-chuo-shinkin|京都中央信用金庫]]
 - [[regional-banks/kyoto-bank|京都銀行]]

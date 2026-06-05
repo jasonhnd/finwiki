@@ -36,7 +36,7 @@
       "https://www.himawari-life.co.jp/"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 第一フロンティア生命保険 for peer / contrast context and insurance index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under life-insurers INDEX. Read it against 第一フロンティア生命保険 for peer / contrast context and insurance index for the broader system / regulatory boundary.",
   "headings": [
     "SOMPOひまわり生命保険",
     "Wiki route",
@@ -50,8 +50,8 @@
   "body_links": {
     "wikilinks_count": 7,
     "wikilinks": [
-      "JapanFG/INDEX",
       "insurance/INDEX",
+      "life-insurers/INDEX",
       "life-insurers/dai-ichi-frontier-life",
       "msad",
       "sompo",
@@ -59,8 +59,8 @@
       "tokio-marine-nichido-life"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/insurance/INDEX",
+      "https://finwiki.zksc.io/life-insurers/INDEX",
       "https://finwiki.zksc.io/life-insurers/dai-ichi-frontier-life",
       "https://finwiki.zksc.io/msad",
       "https://finwiki.zksc.io/sompo",
@@ -71,9 +71,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2020,
-    "word_like_tokens": 326,
+    "nonspace_chars": 2032,
+    "word_like_tokens": 328,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

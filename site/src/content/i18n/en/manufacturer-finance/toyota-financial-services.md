@@ -12,7 +12,7 @@ translated_at: 2026-05-30T15:31:43.931Z
 
 ## Wiki route
 
-This entry sits under [[manufacturer-finance/INDEX|manufacturing index]] and complements [[leasing-firms/toyota-financial|Toyota Financial Services (JapanFG entity profile)]] and [[card-issuers/toyota-finance|Toyota Finance]]. The manufacturing entry exists to look at TFS **from the parent OEM's manufacturing/strategy perspective**: how Toyota uses the largest auto captive finance in the world to control sales channels, residual-value risk, and mobility services. Read against [[manufacturer-finance/toyota-motor|Toyota Motor]] for the parent OEM, [[manufacturer-finance/hitachi-industrial-finance-platform|Hitachi 産業金融]], [[manufacturer-finance/panasonic-captive-finance|Panasonic 顧客金融]], [[manufacturer-finance/sony-group-finance-arm|Sony FG]], [[manufacturer-finance/mitsubishi-heavy-export-finance|MHI 輸出金融]] for peer industrial-conglomerate finance arms. Pair with [[structured-finance/auto-loan-abs-japan-toyota-honda|Japan auto-loan ABS]] for the securitization layer and [[JapanFG/INDEX|JapanFG index]] for the broader regulatory boundary.
+This entry sits under [[manufacturer-finance/INDEX|manufacturing index]] and complements [[leasing-firms/toyota-financial|Toyota Financial Services (JapanFG entity profile)]] and [[card-issuers/toyota-finance|Toyota Finance]]. The manufacturing entry exists to look at TFS **from the parent OEM's manufacturing/strategy perspective**: how Toyota uses the largest auto captive finance in the world to control sales channels, residual-value risk, and mobility services. Read against [[manufacturer-finance/toyota-motor|Toyota Motor]] for the parent OEM, [[manufacturer-finance/hitachi-industrial-finance-platform|Hitachi 産業金融]], [[manufacturer-finance/panasonic-captive-finance|Panasonic 顧客金融]], [[manufacturer-finance/sony-group-finance-arm|Sony FG]], [[manufacturer-finance/mitsubishi-heavy-export-finance|MHI 輸出金融]] for peer industrial-conglomerate finance arms. Pair with [[structured-finance/auto-loan-abs-japan-toyota-honda|Japan auto-loan ABS]] for the securitization layer and [[manufacturer-finance/INDEX|manufacturer-finance INDEX]] for the broader regulatory boundary.
 
 ## TL;DR
 
@@ -113,7 +113,7 @@ TFS is one of the world's largest auto-loan / auto-lease ABS issuers. In the US,
 - [[structured-finance/auto-loan-abs-japan-toyota-honda|Japan auto-loan ABS]]
 - [[leasing-firms/mitsubishi-hc-capital|Mitsubishi Hc Capital]] · [[leasing-firms/orix-corp|Orix Corp]] · [[leasing-firms/tokyo-century|Tokyo Century]] · [[megabanks/mufg|MUFG]] · [[megabanks/smfg|SMFG]] · [[megabanks/mizuho-fg|Mizuho FG]]
 - [[manufacturer-finance/hitachi-industrial-finance-platform|Hitachi 産業金融]] · [[manufacturer-finance/panasonic-captive-finance|Panasonic 顧客金融]] · [[manufacturer-finance/sony-group-finance-arm|Sony FG]] · [[manufacturer-finance/mitsubishi-heavy-export-finance|MHI 輸出金融]]
-- [[manufacturer-finance/INDEX|manufacturing INDEX]] · [[JapanFG/INDEX|JapanFG INDEX]] · [[INDEX|FinWiki index]]
+- [[manufacturer-finance/INDEX|manufacturing INDEX]] · [[manufacturer-finance/INDEX|manufacturer-finance INDEX]] · [[INDEX|FinWiki index]]
 
 ## Sources
 

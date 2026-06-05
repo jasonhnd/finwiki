@@ -1,5 +1,5 @@
 ---
-source: japanfg/fsa-planning-coordination-bureau
+source: financial-regulators/fsa-planning-coordination-bureau
 source_hash: 8c849ea52781187a
 lang: ja
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-02T14:25:12.412Z
 # 企画市場局 (FSA Planning and Coordination Bureau)
 
 ## ウィキ上の位置づけ
-この項目は [[JapanFG/INDEX|JapanFG index]] 配下に位置する。監督側の対応組織は [[financial-regulators/fsa-supervision-bureau|FSA 監督局]]、部局横断の戦略レーンは [[financial-regulators/fsa-strategy-bureau|FSA 総合政策局]] とあわせて読む。市場ルールの文脈では [[financial-regulators/jsda|JSDA]] と [[financial-licenses/INDEX|legal / financial licenses]] 索引を起点にし、BoJ 側のプルーデンス部局との対照は [[financial-regulators/boj-financial-system-dept|BoJ 金融機構局]] を参照する。
+この項目は [[financial-regulators/INDEX|financial-regulators INDEX]] 配下に位置する。監督側の対応組織は [[financial-regulators/fsa-supervision-bureau|FSA 監督局]]、部局横断の戦略レーンは [[financial-regulators/fsa-strategy-bureau|FSA 総合政策局]] とあわせて読む。市場ルールの文脈では [[financial-regulators/jsda|JSDA]] と [[financial-licenses/INDEX|legal / financial licenses]] 索引を起点にし、BoJ 側のプルーデンス部局との対照は [[financial-regulators/boj-financial-system-dept|BoJ 金融機構局]] を参照する。
 
 ## 要約
 

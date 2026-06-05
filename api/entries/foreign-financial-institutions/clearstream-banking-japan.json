@@ -58,13 +58,13 @@
     "wikilinks_count": 17,
     "wikilinks": [
       "INDEX",
-      "JapanFG/INDEX",
       "banking/INDEX",
       "banking/japan-trust-bank-custody-map",
       "financial-licenses/foreign-bank-branch-license-route",
       "financial-licenses/foreign-financial-group-adjacent-licenses",
       "financial-regulators/japan-exchange-group",
       "financial-regulators/japan-securities-finance",
+      "foreign-financial-institutions/INDEX",
       "foreign-financial-institutions/bny-mellon-japan",
       "foreign-financial-institutions/deutsche-japan",
       "foreign-financial-institutions/euroclear-bank-japan",
@@ -77,13 +77,13 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/japan-trust-bank-custody-map",
       "https://finwiki.zksc.io/financial-licenses/foreign-bank-branch-license-route",
       "https://finwiki.zksc.io/financial-licenses/foreign-financial-group-adjacent-licenses",
       "https://finwiki.zksc.io/financial-regulators/japan-exchange-group",
       "https://finwiki.zksc.io/financial-regulators/japan-securities-finance",
+      "https://finwiki.zksc.io/foreign-financial-institutions/INDEX",
       "https://finwiki.zksc.io/foreign-financial-institutions/bny-mellon-japan",
       "https://finwiki.zksc.io/foreign-financial-institutions/deutsche-japan",
       "https://finwiki.zksc.io/foreign-financial-institutions/euroclear-bank-japan",
@@ -98,9 +98,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6545,
-    "word_like_tokens": 956,
+    "nonspace_chars": 6614,
+    "word_like_tokens": 962,
     "inbound_wikilinks_count": 14,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

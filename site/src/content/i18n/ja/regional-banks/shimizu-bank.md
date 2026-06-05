@@ -1,5 +1,5 @@
 ---
-source: japanfg/shimizu-bank
+source: regional-banks/shimizu-bank
 source_hash: 4b35c8cfcbdba8eb
 lang: ja
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-06-02T15:14:17.142Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に位置する。比較・対照の文脈では [[regional-banks/shizuoka-bank|静岡銀行]]、より広い制度上・規制上の境界については [[banking/INDEX|banking index]] とあわせて読む。
+この項目は [[regional-banks/INDEX|regional-banks INDEX]] の配下に位置する。比較・対照の文脈では [[regional-banks/shizuoka-bank|静岡銀行]]、より広い制度上・規制上の境界については [[banking/INDEX|banking index]] とあわせて読む。
 
 ## 要約
 

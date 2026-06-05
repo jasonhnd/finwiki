@@ -1,5 +1,5 @@
 ---
-source: japanfg/foreign-bank-branches-japan-index
+source: foreign-financial-institutions/foreign-bank-branches-japan-index
 source_hash: dac93e26ea0ccf3e
 lang: ja
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-06-02T14:25:12.384Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に位置づける。比較対象・対照文脈は [[foreign-financial-institutions/icbc-japan|中国工商銀行 東京支店]]、より広い制度・規制上の境界は [[banking/INDEX|banking index]] とあわせて読む。
+この項目は [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]] の配下に位置づける。比較対象・対照文脈は [[foreign-financial-institutions/icbc-japan|中国工商銀行 東京支店]]、より広い制度・規制上の境界は [[banking/INDEX|banking index]] とあわせて読む。
 
 ## 概要
 
@@ -139,7 +139,7 @@ translated_at: 2026-06-02T14:25:12.384Z
 
 ## 関連項目
 
-- [[JapanFG/INDEX]]
+- [[foreign-financial-institutions/INDEX]]
 - [[financial-regulators/missing-financial-institutions-backlog]]
 - [[foreign-financial-institutions/euroclear-bank-japan]]
 - [[foreign-financial-institutions/clearstream-banking-japan]]

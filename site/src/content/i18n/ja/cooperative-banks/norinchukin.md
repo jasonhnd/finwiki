@@ -1,5 +1,5 @@
 ---
-source: japanfg/norinchukin
+source: cooperative-banks/norinchukin
 source_hash: 3a466fc384176821
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:54:39.090Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] 配下に置かれる。[[megabanks/mufg|三菱 UFJ FG (MUFG)]] は比較対象の文脈、[[banking/INDEX|banking index]] はより広い制度・規制境界の文脈として読む。
+この項目は [[cooperative-banks/INDEX|cooperative-banks INDEX]] 配下に置かれる。[[megabanks/mufg|三菱 UFJ FG (MUFG)]] は比較対象の文脈、[[banking/INDEX|banking index]] はより広い制度・規制境界の文脈として読む。
 
 ## 要約
 

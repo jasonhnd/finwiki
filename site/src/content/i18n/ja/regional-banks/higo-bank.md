@@ -1,5 +1,5 @@
 ---
-source: japanfg/higo-bank
+source: regional-banks/higo-bank
 source_hash: be8f79bf6873eed3
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:25:12.387Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に位置づける。比較対象・対照文脈は [[regional-banks/fukuoka-bank|福岡銀行]]、より広い制度・規制上の境界は [[banking/INDEX|banking index]] とあわせて読む。
+この項目は [[regional-banks/INDEX|regional-banks INDEX]] の配下に位置づける。比較対象・対照文脈は [[regional-banks/fukuoka-bank|福岡銀行]]、より広い制度・規制上の境界は [[banking/INDEX|banking index]] とあわせて読む。
 
 ## 要約
 

@@ -1,5 +1,5 @@
 ---
-source: japanfg/fsa-inspection-bureau
+source: financial-regulators/fsa-inspection-bureau
 source_hash: 16922f212a93d67b
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T15:29:03.862Z
 
 ## Wiki route
 
-This entry sits in the JapanFG route specified by the source file. Main source-context sequence: [[JapanFG/INDEX|JapanFG index]] [[financial-regulators/fsa-supervision-bureau|FSA Supervision Bureau]] 2018  [[financial-regulators/fsa-strategy-bureau|FSA Strategy Development and Management Bureau]] [[financial-licenses/INDEX|legal / financial licenses]] [[banking/INDEX|banking landscape]] 2018  [[financial-regulators/fsa-supervision-bureau|Supervision Bureau]] 2018  1 2018 1999  1990 2 2018  2018  [[financial-regulators/fsa-strategy-bureau|Strategy Development and Management Bureau]] [[financial-regulators/fsa-planning-coordination-bureau|Planning and Coordination Bureau]] 2019,  2018
+This entry sits in the JapanFG route specified by the source file. Main source-context sequence: [[financial-regulators/INDEX|financial-regulators INDEX]] [[financial-regulators/fsa-supervision-bureau|FSA Supervision Bureau]] 2018  [[financial-regulators/fsa-strategy-bureau|FSA Strategy Development and Management Bureau]] [[financial-licenses/INDEX|legal / financial licenses]] [[banking/INDEX|banking landscape]] 2018  [[financial-regulators/fsa-supervision-bureau|Supervision Bureau]] 2018  1 2018 1999  1990 2 2018  2018  [[financial-regulators/fsa-strategy-bureau|Strategy Development and Management Bureau]] [[financial-regulators/fsa-planning-coordination-bureau|Planning and Coordination Bureau]] 2019,  2018
 
 ## TL;DR
 

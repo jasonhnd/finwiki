@@ -1,5 +1,5 @@
 ---
-source: japanfg/nomura-trust-bank
+source: trust-banks/nomura-trust-bank
 source_hash: 1d76ab8f6bbe6fc0
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T00:41:50.472Z
 
 ## Wiki Route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it with [[banking/INDEX|banking index]] for adjacent context, [[securities-firms/nomura-hd|野村 HD]] for parent group context, [[trust-banks/sumitomo-mitsui-trust|SMTB]] / [[trust-banks/mitsubishi-ufj-trust-bank|MUTB]] for peer trust-bank comparison, and [[financial-licenses/INDEX|金融ライセンス INDEX]] for the broader regulatory boundary.
+This entry sits under [[trust-banks/INDEX|trust-banks INDEX]]. Read it with [[banking/INDEX|banking index]] for adjacent context, [[securities-firms/nomura-hd|野村 HD]] for parent group context, [[trust-banks/sumitomo-mitsui-trust|SMTB]] / [[trust-banks/mitsubishi-ufj-trust-bank|MUTB]] for peer trust-bank comparison, and [[financial-licenses/INDEX|金融ライセンス INDEX]] for the broader regulatory boundary.
 
 ## 1. Entity / License Boundary
 

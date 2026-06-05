@@ -24,7 +24,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **Hokkaido 地域型 (regional) shinkumi anchor**, peer to [[cooperative-banks/iwaki-shinkumi|いわき信用組合]] (Tohoku) within the 143-cooperative population catalogued in [[banking/credit-cooperative-registry-japan|Japan credit cooperative registry]]. Contrast with [[cooperative-banks/sapporo-shinkin|札幌信用金庫]] for the shinkin-vs-shinkumi distinction in the Sapporo market.
+This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as a **Hokkaido 地域型 (regional) shinkumi anchor**, peer to [[cooperative-banks/iwaki-shinkumi|いわき信用組合]] (Tohoku) within the 143-cooperative population catalogued in [[banking/credit-cooperative-registry-japan|Japan credit cooperative registry]]. Contrast with [[cooperative-banks/sapporo-shinkin|札幌信用金庫]] for the shinkin-vs-shinkumi distinction in the Sapporo market.
 
 ## TL;DR
 
@@ -119,7 +119,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **Hokkaido 地域型 
 - [[financial-regulators/dic]] — 預金保険機構
 - [[banking/credit-cooperative-registry-japan]] — Japan credit cooperative registry (143 shinkumi 全体)
 - [[banking/cooperative-banking-japan]] — 協同組織金融全体
-- [[JapanFG/INDEX|JapanFG index]]
+- [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 
 ## Sources
 

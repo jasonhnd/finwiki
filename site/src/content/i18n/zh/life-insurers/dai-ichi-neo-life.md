@@ -1,5 +1,5 @@
 ---
-source: japanfg/dai-ichi-neo-life
+source: life-insurers/dai-ichi-neo-life
 source_hash: 3b93720a659bf495
 lang: zh
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-05-31T15:29:03.883Z
 
 ## Wiki route
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]]. 请对照 [[life-insurers/dai-ichi-frontier-life|第一フロンティア生命保険]] 阅读以获得同业 / 对比背景，并对照 [[insurance/INDEX|insurance index]] 阅读以理解更广泛的系统 / 监管边界。
+本条目位于 [[life-insurers/INDEX|life-insurers INDEX]]. 请对照 [[life-insurers/dai-ichi-frontier-life|第一フロンティア生命保険]] 阅读以获得同业 / 对比背景，并对照 [[insurance/INDEX|insurance index]] 阅读以理解更广泛的系统 / 监管边界。
 
 ## TL;DR
 

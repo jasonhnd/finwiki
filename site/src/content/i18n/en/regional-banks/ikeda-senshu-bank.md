@@ -1,5 +1,5 @@
 ---
-source: japanfg/ikeda-senshu-bank
+source: regional-banks/ikeda-senshu-bank
 source_hash: e92013ce9f1c65c4
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T15:29:03.869Z
 
 ## Wiki route
 
-This entry sits in the JapanFG route specified by the source file. Principal routing context: [[JapanFG/INDEX|JapanFG index]] [[regional-banks/kansai-mirai-bank|Kansai Mirai Bank]] [[banking/INDEX|banking index]] [[ikeda-senshu-hd]] 1 [[ikeda-senshu-hd]] 2 [[banking/regional-bank-consolidation-pattern]] 3 [[ikeda-senshu-hd]] [[kansai-mirai-bank]] [[kyoto-bank]] [[kiyo-bank]] [[ikeda-senshu-hd]] [[kansai-mirai-bank]] [[kyoto-bank]] [[kiyo-bank]] [[banking/regional-bank-consolidation-pattern]] [[banking/INDEX]] 2026-01-01
+This entry sits in the JapanFG route specified by the source file. Principal routing context: [[regional-banks/INDEX|regional-banks INDEX]] [[regional-banks/kansai-mirai-bank|Kansai Mirai Bank]] [[banking/INDEX|banking index]] [[ikeda-senshu-hd]] 1 [[ikeda-senshu-hd]] 2 [[banking/regional-bank-consolidation-pattern]] 3 [[ikeda-senshu-hd]] [[kansai-mirai-bank]] [[kyoto-bank]] [[kiyo-bank]] [[ikeda-senshu-hd]] [[kansai-mirai-bank]] [[kyoto-bank]] [[kiyo-bank]] [[banking/regional-bank-consolidation-pattern]] [[banking/INDEX]] 2026-01-01
 
 ## TL;DR
 

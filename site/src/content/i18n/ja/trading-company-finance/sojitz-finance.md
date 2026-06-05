@@ -1,5 +1,5 @@
 ---
-source: japanfg/sojitz-finance
+source: trading-company-finance/sojitz-finance
 source_hash: a184f180218a6107
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T15:14:17.112Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に置く。中堅商社系グループ財務の近い比較対象として [[trading-company-finance/marubeni-financial-services|丸紅フィナンス]]、別の商社系内部財務機能として [[trading-company-finance/itochu-finance|伊藤忠ファイナンス]] とあわせて読む。中堅商社の キャプティブ 比較では [[leasing-firms/kanematsu-leasing|兼松リース]]（小規模な中堅商社系リース）を参照する。5 大商社系の比較基準は [[trading-company-finance/mitsubishi-corp-finance|三菱商事FS]] / [[trading-company-finance/mitsui-bussan-financial-services|三井物産FS]] / [[trading-company-finance/sumitomo-corp-financial-management|住友商事FM]] / [[trading-company-finance/toyota-tsusho-finance|豊田通商フィナンス]]、より広い規制境界は [[banking/INDEX|banking index]] を参照する。
+この項目は [[trading-company-finance/INDEX|trading-company-finance INDEX]] の配下に置く。中堅商社系グループ財務の近い比較対象として [[trading-company-finance/marubeni-financial-services|丸紅フィナンス]]、別の商社系内部財務機能として [[trading-company-finance/itochu-finance|伊藤忠ファイナンス]] とあわせて読む。中堅商社の キャプティブ 比較では [[leasing-firms/kanematsu-leasing|兼松リース]]（小規模な中堅商社系リース）を参照する。5 大商社系の比較基準は [[trading-company-finance/mitsubishi-corp-finance|三菱商事FS]] / [[trading-company-finance/mitsui-bussan-financial-services|三井物産FS]] / [[trading-company-finance/sumitomo-corp-financial-management|住友商事FM]] / [[trading-company-finance/toyota-tsusho-finance|豊田通商フィナンス]]、より広い規制境界は [[banking/INDEX|banking index]] を参照する。
 
 ## 1. 会社概要
 

@@ -1,5 +1,5 @@
 ---
-source: japanfg/central-tanshi
+source: financial-regulators/central-tanshi
 source_hash: a82b7d5b4a570287
 lang: en
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T11:13:44.895Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[financial-regulators/ueda-yagi-tanshi|上田八木短資株式会社 (Ueda Yagi Tanshi)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]]. Read it against [[financial-regulators/ueda-yagi-tanshi|上田八木短資株式会社 (Ueda Yagi Tanshi)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ##TL;DR
 

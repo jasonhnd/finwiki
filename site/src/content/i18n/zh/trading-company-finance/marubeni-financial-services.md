@@ -1,5 +1,5 @@
 ---
-source: japanfg/marubeni-financial-services
+source: trading-company-finance/marubeni-financial-services
 source_hash: 95170397741da394
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:59:49.311Z
 
 ## Wiki 路径
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可结合 [[leasing-firms/mizuho-lease|みずほリース]]（丸红在 2024 成为战略股东的上市租赁平台）和 [[leasing-firms/fuyo-lease|芙蓉総合リース]]（芙蓉集团 peer leasing arm，丸红属于芙蓉共同体）阅读。关于同业商社系 group-treasury arms，参见 [[trading-company-finance/mitsubishi-corp-finance|三菱商事FS]]、[[trading-company-finance/mitsui-bussan-financial-services|三井物産FS]]、[[trading-company-finance/sumitomo-corp-financial-management|住友商事FM]]、[[trading-company-finance/itochu-finance|伊藤忠ファイナンス]]。更大的监管边界见 [[banking/INDEX|banking index]]。
+本条目位于 [[trading-company-finance/INDEX|trading-company-finance INDEX]] 之下。可结合 [[leasing-firms/mizuho-lease|みずほリース]]（丸红在 2024 成为战略股东的上市租赁平台）和 [[leasing-firms/fuyo-lease|芙蓉総合リース]]（芙蓉集团 peer leasing arm，丸红属于芙蓉共同体）阅读。关于同业商社系 group-treasury arms，参见 [[trading-company-finance/mitsubishi-corp-finance|三菱商事FS]]、[[trading-company-finance/mitsui-bussan-financial-services|三井物産FS]]、[[trading-company-finance/sumitomo-corp-financial-management|住友商事FM]]、[[trading-company-finance/itochu-finance|伊藤忠ファイナンス]]。更大的监管边界见 [[banking/INDEX|banking index]]。
 
 ## 1. 公司概要
 

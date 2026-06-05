@@ -11,7 +11,7 @@ translated_at: 2026-06-02T16:33:58.489Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[manufacturer-finance/INDEX|manufacturing index]] の下に位置する。産業金融の同業比較は [[manufacturer-finance/toyota-motor|Toyota Motor]] と [[manufacturer-finance/mitsubishi-heavy-export-finance|Mitsubishi Heavy export finance]]、旧キャプティブリース会社の歴史は [[leasing-firms/hitachi-capital|旧 日立キャピタル]]、[[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]] は 2021 後の存続統合後法人、より広い制度・規制上の境界は [[JapanFG/INDEX|JapanFG index]] とあわせて読む。
+この項目は [[manufacturer-finance/INDEX|manufacturing index]] の下に位置する。産業金融の同業比較は [[manufacturer-finance/toyota-motor|Toyota Motor]] と [[manufacturer-finance/mitsubishi-heavy-export-finance|Mitsubishi Heavy export finance]]、旧キャプティブリース会社の歴史は [[leasing-firms/hitachi-capital|旧 日立キャピタル]]、[[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]] は 2021 後の存続統合後法人、より広い制度・規制上の境界は [[manufacturer-finance/INDEX|manufacturer-finance INDEX]] とあわせて読む。
 
 ## 要約
 
@@ -97,7 +97,7 @@ Hitachi Rail UK の **Class 800 / 802** や **Intercity Express Programme (IEP)*
 - [[manufacturer-finance/mitsubishi-heavy-export-finance|MHI 輸出金融]] · [[manufacturer-finance/panasonic-captive-finance|Panasonic 顧客金融]] · [[manufacturer-finance/sony-group-finance-arm|Sony FG]] · [[manufacturer-finance/toyota-financial-services|Toyota Financial Services]]
 - [[financial-regulators/jbic|JBIC]] · [[policy-finance/nexi|NEXI]] · [[megabanks/mufg|MUFG]] · [[megabanks/smfg|SMFG]] · [[megabanks/mizuho-fg|みずほ FG]]
 - [[leasing-firms/orix-corp|オリックス]] · [[leasing-firms/tokyo-century|東京センチュリー]]
-- [[manufacturer-finance/INDEX|manufacturing INDEX]] · [[JapanFG/INDEX|JapanFG INDEX]] · [[INDEX|FinWiki index]]
+- [[manufacturer-finance/INDEX|manufacturing INDEX]] · [[manufacturer-finance/INDEX|manufacturer-finance INDEX]] · [[INDEX|FinWiki index]]
 
 ## 出典
 

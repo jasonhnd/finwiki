@@ -1,5 +1,5 @@
 ---
-source: japanfg/rescue-insurance
+source: non-life-insurers/rescue-insurance
 source_hash: d0a0ff58ba62a421
 lang: en
 status: machine
@@ -9,7 +9,7 @@ translated_at: 2026-06-01T00:41:50.427Z
 ---
 # Rescue Insurance
 
-Wiki route: [[JapanFG/INDEX]] -> [[insurance/INDEX]] -> [[non-life-insurers/rescue-insurance]]
+Wiki route: [[non-life-insurers/INDEX]] -> [[insurance/INDEX]] -> [[non-life-insurers/rescue-insurance]]
 
 ## Overview
 

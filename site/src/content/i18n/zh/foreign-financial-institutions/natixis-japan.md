@@ -1,5 +1,5 @@
 ---
-source: japanfg/natixis-japan
+source: foreign-financial-institutions/natixis-japan
 source_hash: cd51088301f143bf
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T00:41:50.469Z
 
 ## Wiki 路线
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可对照 [[foreign-financial-institutions/credit-agricole-bank-japan|クレディ・アグリコル銀行 東京支店]] 阅读同业 / 对比背景，并结合 [[banking/INDEX|banking index]] 理解更广泛的系统与监管边界。
+本条目位于 [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]] 之下。可对照 [[foreign-financial-institutions/credit-agricole-bank-japan|クレディ・アグリコル銀行 東京支店]] 阅读同业 / 对比背景，并结合 [[banking/INDEX|banking index]] 理解更广泛的系统与监管边界。
 
 ## TL;DR
 

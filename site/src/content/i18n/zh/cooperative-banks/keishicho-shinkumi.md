@@ -1,5 +1,5 @@
 ---
-source: japanfg/keishicho-shinkumi
+source: cooperative-banks/keishicho-shinkumi
 source_hash: 95690b6871831be6
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:05:42.095Z
 
 ## Wiki route
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 下，是警察领域的**首都圈（东京）职域型 shinkumi 锚点**；在 [[banking/credit-cooperative-registry-japan|Japan credit cooperative registry]] 所收录的 143 家信用组合群体中，它与 [[cooperative-banks/tokyo-shobo-shinkumi|東京消防信用組合]]（消防部门）和 [[cooperative-banks/tokyo-to-shokuin-shinkumi|東京都職員信用組合]]（东京都公务员）互为补充。
+本条目位于 [[cooperative-banks/INDEX|cooperative-banks INDEX]] 下，是警察领域的**首都圈（东京）职域型 shinkumi 锚点**；在 [[banking/credit-cooperative-registry-japan|Japan credit cooperative registry]] 所收录的 143 家信用组合群体中，它与 [[cooperative-banks/tokyo-shobo-shinkumi|東京消防信用組合]]（消防部门）和 [[cooperative-banks/tokyo-to-shokuin-shinkumi|東京都職員信用組合]]（东京都公务员）互为补充。
 
 ## TL;DR
 
@@ -106,7 +106,7 @@ translated_at: 2026-05-31T23:05:42.095Z
 - [[banking/credit-cooperative-registry-japan]] - Japan credit cooperative registry（143  家 shinkumi 全体）
 - [[banking/cooperative-banking-japan]] - 日本协同组织金融
 - [[cooperative-banks/iwaki-shinkumi]] - 磐城信用组合（地域型信组同业，用于业态对比）
-- [[JapanFG/INDEX|JapanFG index]]
+- [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 
 ## Sources
 

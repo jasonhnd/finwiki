@@ -1,5 +1,5 @@
 ---
-source: japanfg/akita-bank
+source: regional-banks/akita-bank
 source_hash: 2f59aba54289930c
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:01:20.945Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の下に位置づける。比較・対照の文脈は [[regional-banks/fidea-hd|フィデア HD (Fidea Holdings)]]、より広いシステムおよび規制上の境界は [[banking/INDEX|banking index]] と照らして読む。
+この項目は [[regional-banks/INDEX|regional-banks INDEX]] の下に位置づける。比較・対照の文脈は [[regional-banks/fidea-hd|フィデア HD (Fidea Holdings)]]、より広いシステムおよび規制上の境界は [[banking/INDEX|banking index]] と照らして読む。
 
 ## 要約
 

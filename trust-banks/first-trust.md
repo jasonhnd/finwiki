@@ -16,7 +16,7 @@ sources:
 
 # First Trust Japan / ファースト信託
 
-Wiki route: [[JapanFG/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/first-trust]]
+Wiki route: [[trust-banks/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/first-trust]]
 
 ## Overview
 

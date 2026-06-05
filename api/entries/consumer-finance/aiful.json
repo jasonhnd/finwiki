@@ -35,7 +35,7 @@
       "金融庁 業務改善命令公表資料 (2008-04, 公開分)"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 株式会社ジャックス (Jaccs) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under consumer-finance INDEX. Read it against 株式会社ジャックス (Jaccs) for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [
     "アイフル株式会社 (Aiful)",
     "Wiki route",
@@ -51,9 +51,9 @@
   "body_links": {
     "wikilinks_count": 11,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "card-issuers/jaccs",
+      "consumer-finance/INDEX",
       "consumer-finance/smbc-consumer-finance",
       "credit-saison",
       "jaccs",
@@ -64,9 +64,9 @@
       "smfg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/card-issuers/jaccs",
+      "https://finwiki.zksc.io/consumer-finance/INDEX",
       "https://finwiki.zksc.io/consumer-finance/smbc-consumer-finance",
       "https://finwiki.zksc.io/credit-saison",
       "https://finwiki.zksc.io/jaccs",
@@ -80,9 +80,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4898,
-    "word_like_tokens": 733,
+    "nonspace_chars": 4916,
+    "word_like_tokens": 735,
     "inbound_wikilinks_count": 12,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

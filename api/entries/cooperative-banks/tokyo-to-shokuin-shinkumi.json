@@ -45,7 +45,7 @@
       "中小企業等協同組合法"
     ]
   },
-  "summary": "This entry sits under JapanFG index as the largest 自治体職員 (local government employee) shinkumi in Japan, complementing peer 職域 (occupation-based) shinkumi like 警視庁職員信用組合 (police) and 東京消防信用組合 (fire dept) within the 143-cooperative population catalogued in Japan credit cooperative registry.",
+  "summary": "This entry sits under cooperative-banks INDEX as the largest 自治体職員 (local government employee) shinkumi in Japan, complementing peer 職域 (occupation-based) shinkumi like 警視庁職員信用組合 (police) and 東京消防信用組合 (fire dept) within the 143-cooperative population catalogued in Japan credit cooperative registry.",
   "headings": [
     "東京都職員信用組合 (Tokyo Metropolitan Government Employees Credit Cooperative)",
     "Wiki route",
@@ -61,9 +61,9 @@
   "body_links": {
     "wikilinks_count": 8,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/cooperative-banking-japan",
       "banking/credit-cooperative-registry-japan",
+      "cooperative-banks/INDEX",
       "cooperative-banks/iwaki-shinkumi",
       "cooperative-banks/keishicho-shinkumi",
       "cooperative-banks/tokyo-shobo-shinkumi",
@@ -71,9 +71,9 @@
       "financial-regulators/dic"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/cooperative-banking-japan",
       "https://finwiki.zksc.io/banking/credit-cooperative-registry-japan",
+      "https://finwiki.zksc.io/cooperative-banks/INDEX",
       "https://finwiki.zksc.io/cooperative-banks/iwaki-shinkumi",
       "https://finwiki.zksc.io/cooperative-banks/keishicho-shinkumi",
       "https://finwiki.zksc.io/cooperative-banks/tokyo-shobo-shinkumi",
@@ -84,9 +84,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4201,
-    "word_like_tokens": 650,
+    "nonspace_chars": 4241,
+    "word_like_tokens": 654,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

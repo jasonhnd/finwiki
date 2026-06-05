@@ -43,7 +43,7 @@
       "https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html"
     ]
   },
-  "summary": "This entry sits under the JapanFG index as a pure-play BNPL operator. Read it against the Japan BNPL landscape system note and the Paidy peer for contrast, with the Japan BNPL and credit-purchase boundary page setting the regulatory lens and the credit-purchase / card operator registry anchoring the",
+  "summary": "This entry sits under the payment-firms INDEX as a pure-play BNPL operator. Read it against the Japan BNPL landscape system note and the Paidy peer for contrast, with the Japan BNPL and credit-purchase boundary page setting the regulatory lens and the credit-purchase / card operator registry anchori",
   "headings": [
     "ネットプロテクションズHD (Net Protections HD)",
     "Wiki route",
@@ -58,12 +58,12 @@
   "body_links": {
     "wikilinks_count": 12,
     "wikilinks": [
-      "JapanFG/INDEX",
       "card-issuers/aplus",
       "card-issuers/credit-saison",
       "card-issuers/installment-sales-act-2020-amendment",
       "card-issuers/jaccs",
       "card-issuers/orico",
+      "payment-firms/INDEX",
       "payment-firms/bnpl-landscape",
       "payment-firms/merpay",
       "payment-firms/paidy",
@@ -72,12 +72,12 @@
       "payments/japan-payment-scheme-economics-matrix"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/card-issuers/aplus",
       "https://finwiki.zksc.io/card-issuers/credit-saison",
       "https://finwiki.zksc.io/card-issuers/installment-sales-act-2020-amendment",
       "https://finwiki.zksc.io/card-issuers/jaccs",
       "https://finwiki.zksc.io/card-issuers/orico",
+      "https://finwiki.zksc.io/payment-firms/INDEX",
       "https://finwiki.zksc.io/payment-firms/bnpl-landscape",
       "https://finwiki.zksc.io/payment-firms/merpay",
       "https://finwiki.zksc.io/payment-firms/paidy",
@@ -89,9 +89,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3595,
-    "word_like_tokens": 552,
+    "nonspace_chars": 3607,
+    "word_like_tokens": 554,
     "inbound_wikilinks_count": 7,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

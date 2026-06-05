@@ -1,5 +1,5 @@
 ---
-source: japanfg/au-jibun-bank
+source: regional-banks/au-jibun-bank
 source_hash: 103789f826a93c41
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T11:13:44.868Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[regional-banks/sony-bank|Sony Bank]], [[trust-banks/orix-bank|ORIX Bank]], and [[JapanFG/rakuten-bank|Rakuten Bank]] for internet-bank peer context, against [[megabanks/mufg-bank|MUFG Bank]] as the co-investor parent-bank route, and against [[banking/INDEX|banking index]] for the broader banking and regulatory perimeter.
+This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it against [[regional-banks/sony-bank|Sony Bank]], [[trust-banks/orix-bank|ORIX Bank]], and [[JapanFG/rakuten-bank|Rakuten Bank]] for internet-bank peer context, against [[megabanks/mufg-bank|MUFG Bank]] as the co-investor parent-bank route, and against [[banking/INDEX|banking index]] for the broader banking and regulatory perimeter.
 
 ## TL;DR
 
@@ -102,7 +102,7 @@ For exact current figures, use KDDI / MUFG IR materials, securities reports, and
 - [[regional-banks/sbi-sumishin-net-bank|SBI Sumishin Net Bank]] - online-bank peer
 - [[JapanFG/paypay-bank|PayPay Bank]] - telecom / payment-zone online-bank peer
 - [[trust-banks/orix-bank|ORIX Bank]] - independent online-bank peer
-- [[JapanFG/INDEX|JapanFG index]]
+- [[regional-banks/INDEX|regional-banks INDEX]]
 - [[banking/INDEX|Banking domain index]]
 
 ## Sources

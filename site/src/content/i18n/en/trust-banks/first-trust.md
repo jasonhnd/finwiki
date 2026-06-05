@@ -1,5 +1,5 @@
 ---
-source: japanfg/first-trust
+source: trust-banks/first-trust
 source_hash: 3c6395010345fa11
 lang: en
 status: machine
@@ -10,7 +10,7 @@ translated_at: 2026-05-31T15:29:03.919Z
 
 # First Trust Japan / ファースト信託
 
-Wiki route: [[JapanFG/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/first-trust]]
+Wiki route: [[trust-banks/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/first-trust]]
 
 ## Overview
 

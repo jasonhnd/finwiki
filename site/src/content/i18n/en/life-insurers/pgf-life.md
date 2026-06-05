@@ -1,5 +1,5 @@
 ---
-source: japanfg/pgf-life
+source: life-insurers/pgf-life
 source_hash: b04a21bcb0320001
 lang: en
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-06-01T00:41:50.415Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[life-insurers/dai-ichi-frontier-life|第一フロンティア生命保険]] for peer / contrast context and [[insurance/INDEX|insurance index]] for the broader system / regulatory boundary.
+This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it against [[life-insurers/dai-ichi-frontier-life|第一フロンティア生命保険]] for peer / contrast context and [[insurance/INDEX|insurance index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 

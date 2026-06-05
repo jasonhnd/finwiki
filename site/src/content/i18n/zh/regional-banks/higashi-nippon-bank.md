@@ -1,5 +1,5 @@
 ---
-source: japanfg/higashi-nippon-bank
+source: regional-banks/higashi-nippon-bank
 source_hash: 956bf8e053ab8fd6
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T15:29:03.932Z
 
 ## Wiki 路径
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]]。可结合 [[regional-banks/yokohama-bank|Bank of Yokohama]] 进行同业 / 对照阅读，并结合 [[banking/INDEX|banking index]] 了解更广泛的体系与监管边界。
+本条目位于 [[regional-banks/INDEX|regional-banks INDEX]]。可结合 [[regional-banks/yokohama-bank|Bank of Yokohama]] 进行同业 / 对照阅读，并结合 [[banking/INDEX|banking index]] 了解更广泛的体系与监管边界。
 
 ## TL;DR
 

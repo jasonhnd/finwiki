@@ -1,5 +1,5 @@
 ---
-source: japanfg/fintech-global-trust
+source: trust-banks/fintech-global-trust
 source_hash: a7bbc2ab91c31a5e
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:25:12.426Z
 
 ## ウィキ上の位置づけ
 
-フィンテックグローバル信託は [[JapanFG/INDEX|JapanFG]] 配下の独立した信託会社ルートで、[[trust-banks/trust-companies-japan-index|the Japan trust companies registry index]] から昇格した項目である。[[finance/japan-acquisition-finance|Japan acquisition finance]]、[[finance/cross-border-m-a-japan|cross-border M&A Japan]]、[[banking/japan-trust-bank-custody-map|Japan trust-bank custody map]] と併読する。
+フィンテックグローバル信託は [[trust-banks/INDEX|trust-banks INDEX]] 配下の独立した信託会社ルートで、[[trust-banks/trust-companies-japan-index|the Japan trust companies registry index]] から昇格した項目である。[[finance/japan-acquisition-finance|Japan acquisition finance]]、[[finance/cross-border-m-a-japan|cross-border M&A Japan]]、[[banking/japan-trust-bank-custody-map|Japan trust-bank custody map]] と併読する。
 
 ストラクチャードファイナンスに関わる信託機能、資産管理、FGIグループの信託サービスを確認する際に使う。
 
@@ -59,7 +59,7 @@ translated_at: 2026-06-02T14:25:12.426Z
 
 ## 関連項目
 
-- [[JapanFG/INDEX]]
+- [[trust-banks/INDEX]]
 - [[trust-banks/trust-companies-japan-index]]
 - [[trust-banks/fpg-trust]]
 - [[banking/japan-trust-bank-custody-map]]

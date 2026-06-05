@@ -38,7 +38,7 @@
       "https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html"
     ]
   },
-  "summary": "This entry sits under the JapanFG index as a logistics-anchored BNPL product. Read it against the Japan BNPL landscape system note, the Net Protections HD / Paidy BNPL peer set, and the Japan BNPL and credit-purchase boundary for the regulatory question. The METI credit-purchase registry is the regi",
+  "summary": "This entry sits under the payment-firms INDEX as a logistics-anchored BNPL product. Read it against the Japan BNPL landscape system note, the Net Protections HD / Paidy BNPL peer set, and the Japan BNPL and credit-purchase boundary for the regulatory question. The METI credit-purchase registry is th",
   "headings": [
     "クロネコ代金後払いサービス (Kuroneko Atobarai)",
     "Wiki route",
@@ -53,9 +53,9 @@
   "body_links": {
     "wikilinks_count": 10,
     "wikilinks": [
-      "JapanFG/INDEX",
       "card-issuers/jcb",
       "megabanks/nippon-post",
+      "payment-firms/INDEX",
       "payment-firms/atone",
       "payment-firms/bnpl-landscape",
       "payment-firms/net-protections-hd",
@@ -65,9 +65,9 @@
       "payments/japan-payment-scheme-economics-matrix"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/card-issuers/jcb",
       "https://finwiki.zksc.io/megabanks/nippon-post",
+      "https://finwiki.zksc.io/payment-firms/INDEX",
       "https://finwiki.zksc.io/payment-firms/atone",
       "https://finwiki.zksc.io/payment-firms/bnpl-landscape",
       "https://finwiki.zksc.io/payment-firms/net-protections-hd",
@@ -80,9 +80,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2718,
-    "word_like_tokens": 395,
+    "nonspace_chars": 2730,
+    "word_like_tokens": 397,
     "inbound_wikilinks_count": 3,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

@@ -1,5 +1,5 @@
 ---
-source: japanfg/aizawa-securities
+source: securities-firms/aizawa-securities
 source_hash: b3331733f41ec478
 lang: ja
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-06-02T14:01:20.924Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] に属する。親持株会社の文脈では [[securities-firms/aizawa-sg|アイザワ証券グループ]] を、中堅独立証券のピア比較では [[securities-firms/iwai-cosmo-securities|岩井コスモ証券]] / [[securities-firms/tokai-tokyo-securities|東海東京証券]] / [[securities-firms/okasan-sg|岡三証券グループ]] を、より広い市場構造の境界では [[securities/INDEX|securities index]] を参照する。
+この項目は [[securities-firms/INDEX|securities-firms INDEX]] に属する。親持株会社の文脈では [[securities-firms/aizawa-sg|アイザワ証券グループ]] を、中堅独立証券のピア比較では [[securities-firms/iwai-cosmo-securities|岩井コスモ証券]] / [[securities-firms/tokai-tokyo-securities|東海東京証券]] / [[securities-firms/okasan-sg|岡三証券グループ]] を、より広い市場構造の境界では [[securities/INDEX|securities index]] を参照する。
 
 ## 要約
 
@@ -112,7 +112,7 @@ translated_at: 2026-06-02T14:01:20.924Z
 - [[securities-firms/tokai-tokyo-securities|東海東京証券]] — 東海基盤独立中堅証券ピア
 - [[securities-firms/marusan-securities|丸三証券]] — 関東基盤独立中堅証券ピア
 - [[securities-firms/okasan-sg|岡三証券グループ]] — 名古屋系老舗独立中堅証券ピア
-- [[JapanFG/INDEX|JapanFG index]]
+- [[securities-firms/INDEX|securities-firms INDEX]]
 - [[securities/INDEX|Securities domain index]]
 
 ## 出典

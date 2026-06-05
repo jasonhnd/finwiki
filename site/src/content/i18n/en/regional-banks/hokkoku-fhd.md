@@ -1,5 +1,5 @@
 ---
-source: japanfg/hokkoku-fhd
+source: regional-banks/hokkoku-fhd
 source_hash: e8f0c64f835e4c32
 lang: en
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T15:29:03.933Z
 
 ## Wiki Route
 
-This entry belongs to the [[JapanFG/INDEX|JapanFG index]]. Read it with [[regional-banks/fukuoka-fg|Fukuoka Financial Group (FFG)]] for peer comparison and with the [[banking/INDEX|banking index]] for the broader banking and regulatory context.
+This entry belongs to the [[regional-banks/INDEX|regional-banks INDEX]]. Read it with [[regional-banks/fukuoka-fg|Fukuoka Financial Group (FFG)]] for peer comparison and with the [[banking/INDEX|banking index]] for the broader banking and regulatory context.
 
 Current-name route: [[financial-regulators/cci-group|CCI Group]]. This page remains as the historical Hokkoku FHD bridge for older research notes and backlinks.
 

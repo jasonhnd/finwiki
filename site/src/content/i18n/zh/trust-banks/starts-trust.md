@@ -1,5 +1,5 @@
 ---
-source: japanfg/starts-trust
+source: trust-banks/starts-trust
 source_hash: 2914742a29b08583
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.128Z
 
 ## Wiki 路径
 
-Starts Trust 是 [[JapanFG/INDEX|JapanFG]] 下的独立信托公司路径，并从 [[trust-banks/trust-companies-japan-index|the Japan trust companies registry index]] 提升为单独页面。应与 [[banking/japan-trust-bank-custody-map|Japan trust-bank custody map]]、[[finance/japan-acquisition-finance|Japan acquisition finance]] 和 [[trust-banks/escrow-agent-japan-trust|Escrow Agent Japan Trust]] 一并阅读。
+Starts Trust 是 [[trust-banks/INDEX|trust-banks INDEX]] 下的独立信托公司路径，并从 [[trust-banks/trust-companies-japan-index|the Japan trust companies registry index]] 提升为单独页面。应与 [[banking/japan-trust-bank-custody-map|Japan trust-bank custody map]]、[[finance/japan-acquisition-finance|Japan acquisition finance]] 和 [[trust-banks/escrow-agent-japan-trust|Escrow Agent Japan Trust]] 一并阅读。
 
 围绕 Starts 集团的房地产信托、土地信托、资产传承和区域信托代理网络问题，使用本页。
 
@@ -58,7 +58,7 @@ Starts Trust 是 Starts 集团内偏房地产的信托公司。Starts 的公开�
 
 ## 相关
 
-- [[JapanFG/INDEX]]
+- [[trust-banks/INDEX]]
 - [[trust-banks/trust-companies-japan-index]]
 - [[banking/japan-trust-bank-custody-map]]
 - [[finance/japan-acquisition-finance]]

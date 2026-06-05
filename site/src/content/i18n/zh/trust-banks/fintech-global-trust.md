@@ -1,5 +1,5 @@
 ---
-source: japanfg/fintech-global-trust
+source: trust-banks/fintech-global-trust
 source_hash: a7bbc2ab91c31a5e
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T15:29:03.898Z
 
 ## 维基路线
 
-Fintech Global Trust 是 [[JapanFG/INDEX|JapanFG]] 下的独立信托公司路线，由 [[trust-banks/trust-companies-japan-index|the Japan trust companies registry index]] 晋升。使用 [[finance/japan-acquisition-finance|Japan acquisition finance]]、[[finance/cross-border-m-a-japan|cross-border M&A Japan]] 和 [[banking/japan-trust-bank-custody-map|Japan trust-bank custody map]] 来读取它。
+Fintech Global Trust 是 [[trust-banks/INDEX|trust-banks INDEX]] 下的独立信托公司路线，由 [[trust-banks/trust-companies-japan-index|the Japan trust companies registry index]] 晋升。使用 [[finance/japan-acquisition-finance|Japan acquisition finance]]、[[finance/cross-border-m-a-japan|cross-border M&A Japan]] 和 [[banking/japan-trust-bank-custody-map|Japan trust-bank custody map]] 来读取它。
 
 使用此页面了解结构性融资信托职能、资产管理和 FGI 集团信托服务问题。
 
@@ -59,7 +59,7 @@ Fintech Global Trust 将自己描述为一家运营信托公司，提供符合 F
 
 ＃＃ 有关的
 
-- [[JapanFG/INDEX]]
+- [[trust-banks/INDEX]]
 - [[trust-banks/trust-companies-japan-index]]
 - [[trust-banks/fpg-trust]]
 - [[banking/japan-trust-bank-custody-map]]

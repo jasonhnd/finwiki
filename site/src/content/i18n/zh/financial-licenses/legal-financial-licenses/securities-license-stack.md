@@ -1,5 +1,5 @@
 ---
-source: japanfg/legal-financial-licenses/securities-license-stack
+source: financial-licenses/legal-financial-licenses/securities-license-stack
 source_hash: a57653de86a1cac5
 lang: zh
 status: machine

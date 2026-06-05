@@ -1,5 +1,5 @@
 ---
-source: japanfg/gen-re-japan
+source: non-life-insurers/gen-re-japan
 source_hash: d97c9a22ec5000ee
 lang: en
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T15:29:03.931Z
 
 ## Wiki Route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[life-insurers/rga-japan|RGA Reinsurance Company Japan Branch]], [[non-life-insurers/munich-re-japan|Munich Re Japan Branch]], [[non-life-insurers/swiss-re-japan|Swiss Re Japan Branch]], and [[non-life-insurers/toa-reinsurance|Toa Reinsurance]].
+This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read it against [[life-insurers/rga-japan|RGA Reinsurance Company Japan Branch]], [[non-life-insurers/munich-re-japan|Munich Re Japan Branch]], [[non-life-insurers/swiss-re-japan|Swiss Re Japan Branch]], and [[non-life-insurers/toa-reinsurance|Toa Reinsurance]].
 
 ## TL;DR
 

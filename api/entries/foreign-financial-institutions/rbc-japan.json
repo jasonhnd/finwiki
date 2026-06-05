@@ -38,7 +38,7 @@
       "https://www.rbccm.com/en/legal/legal-terms-of-use"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against クレディ・アグリコル銀行 東京支店 for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under foreign-financial-institutions INDEX. Read it against クレディ・アグリコル銀行 東京支店 for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [
     "カナダロイヤル銀行 東京支店",
     "Wiki route",
@@ -52,18 +52,18 @@
   "body_links": {
     "wikilinks_count": 7,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "banking/foreign-bank-japan-retreat",
+      "foreign-financial-institutions/INDEX",
       "foreign-financial-institutions/bny-mellon-japan",
       "foreign-financial-institutions/credit-agricole-bank-japan",
       "foreign-financial-institutions/state-street-japan",
       "foreign-financial-institutions/wells-fargo-japan"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/foreign-bank-japan-retreat",
+      "https://finwiki.zksc.io/foreign-financial-institutions/INDEX",
       "https://finwiki.zksc.io/foreign-financial-institutions/bny-mellon-japan",
       "https://finwiki.zksc.io/foreign-financial-institutions/credit-agricole-bank-japan",
       "https://finwiki.zksc.io/foreign-financial-institutions/state-street-japan",
@@ -73,9 +73,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2738,
-    "word_like_tokens": 425,
+    "nonspace_chars": 2784,
+    "word_like_tokens": 429,
     "inbound_wikilinks_count": 6,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

@@ -1,5 +1,5 @@
 ---
-source: japanfg/hokenryo-sanshutsu-kiko
+source: financial-regulators/hokenryo-sanshutsu-kiko
 source_hash: a730db428a74a8e7
 lang: en
 status: machine
@@ -16,7 +16,7 @@ GIROJ (損害保険料率算出機構) is the statutory premium-rating body for 
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it with the non-life industry-body [[financial-regulators/sonpo-kyokai|General Insurance Association of Japan]], the life-side peer [[financial-regulators/seiho-kyokai|Life Insurance Association of Japan]], and the statutory policyholder-protection counterpart [[financial-regulators/sonpo-hosho-kiko|Non-Life Insurance Policyholders Protection Corporation of Japan]]. Statutory backdrop sits at [[financial-licenses/INDEX]] and [[financial-licenses/insurance-license-and-solvency|insurance license and solvency route]]; the wider operator universe is in [[insurance/INDEX]].
+This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]]. Read it with the non-life industry-body [[financial-regulators/sonpo-kyokai|General Insurance Association of Japan]], the life-side peer [[financial-regulators/seiho-kyokai|Life Insurance Association of Japan]], and the statutory policyholder-protection counterpart [[financial-regulators/sonpo-hosho-kiko|Non-Life Insurance Policyholders Protection Corporation of Japan]]. Statutory backdrop sits at [[financial-licenses/INDEX]] and [[financial-licenses/insurance-license-and-solvency|insurance license and solvency route]]; the wider operator universe is in [[insurance/INDEX]].
 
 ## Legal route / statutory position (法令の根拠)
 
@@ -55,7 +55,7 @@ GIROJ is the single most consequential body to anchor for understanding how Japa
 
 ## Related
 
-- [[JapanFG/INDEX|JapanFG index]]
+- [[financial-regulators/INDEX|financial-regulators INDEX]]
 - [[financial-regulators/sonpo-kyokai|General Insurance Association of Japan]]
 - [[financial-regulators/seiho-kyokai|Life Insurance Association of Japan]]
 - [[financial-regulators/sonpo-hosho-kiko|Non-Life Insurance Policyholders Protection Corporation of Japan]]

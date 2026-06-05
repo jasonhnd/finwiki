@@ -1,5 +1,5 @@
 ---
-source: japanfg/nomura-trust-bank
+source: trust-banks/nomura-trust-bank
 source_hash: 1d76ab8f6bbe6fc0
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T00:41:50.471Z
 
 ## Wiki 路线
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可与 [[banking/INDEX|banking index]] 阅读相邻背景，与 [[securities-firms/nomura-hd|野村 HD]] 阅读母集团背景，与 [[trust-banks/sumitomo-mitsui-trust|SMTB]] / [[trust-banks/mitsubishi-ufj-trust-bank|MUTB]] 做 trust-bank 同业比较，并通过 [[financial-licenses/INDEX|金融ライセンス INDEX]] 理解更广泛监管边界。
+本条目位于 [[trust-banks/INDEX|trust-banks INDEX]] 之下。可与 [[banking/INDEX|banking index]] 阅读相邻背景，与 [[securities-firms/nomura-hd|野村 HD]] 阅读母集团背景，与 [[trust-banks/sumitomo-mitsui-trust|SMTB]] / [[trust-banks/mitsubishi-ufj-trust-bank|MUTB]] 做 trust-bank 同业比较，并通过 [[financial-licenses/INDEX|金融ライセンス INDEX]] 理解更广泛监管边界。
 
 ## 1. 法人 / 牌照边界
 

@@ -1,5 +1,5 @@
 ---
-source: japanfg/shinkin-shoken
+source: cooperative-banks/shinkin-shoken
 source_hash: a8a47f1ff9052272
 lang: zh
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-06-01T02:31:57.142Z
 
 ## Wiki 路线
 
-该条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可结合 [[cooperative-banks/shinkin-central|信金中央金庫]]（中央机构本体）、[[financial-regulators/zenshin-kyo|全国信用金庫協会]]（政策 / 行业团体）和 [[cooperative-banks/shinkin-network-services|信金ネットワークサービス]]（共同 IT 基础设施）阅读，从四条腿观察信金中央系统（中央金库本体 / 行业团体 / IT 基础设施 / 证券和运用功能）。也可与 [[cooperative-banks/norinchukin|農林中央金庫]] 集团的 [[cooperative-banks/nochu-securities|農中信託銀行・農中証券]] 比较 JA 中央系统的平行证券线，并结合 [[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]] 理解更广泛的 254-shinkin 成员基础。合作组织体系整体比较锚点：[[banking/japan-cooperative-banking-unified-federation-matrix|Japan cooperative-banking unified federation matrix]]。
+该条目位于 [[cooperative-banks/INDEX|cooperative-banks INDEX]] 之下。可结合 [[cooperative-banks/shinkin-central|信金中央金庫]]（中央机构本体）、[[financial-regulators/zenshin-kyo|全国信用金庫協会]]（政策 / 行业团体）和 [[cooperative-banks/shinkin-network-services|信金ネットワークサービス]]（共同 IT 基础设施）阅读，从四条腿观察信金中央系统（中央金库本体 / 行业团体 / IT 基础设施 / 证券和运用功能）。也可与 [[cooperative-banks/norinchukin|農林中央金庫]] 集团的 [[cooperative-banks/nochu-securities|農中信託銀行・農中証券]] 比较 JA 中央系统的平行证券线，并结合 [[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]] 理解更广泛的 254-shinkin 成员基础。合作组织体系整体比较锚点：[[banking/japan-cooperative-banking-unified-federation-matrix|Japan cooperative-banking unified federation matrix]]。
 
 ## 要点
 
@@ -98,7 +98,7 @@ translated_at: 2026-06-01T02:31:57.142Z
 
 ## Related
 
-- [[JapanFG/INDEX|JapanFG index]]
+- [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 - [[cooperative-banks/shinkin-central|信金中央金庫]]
 - [[financial-regulators/zenshin-kyo|全国信用金庫協会]]
 - [[cooperative-banks/shinkin-network-services|信金ネットワークサービス]]

@@ -73,10 +73,9 @@
     "Product 6 — Swaption (option on yen IRS)"
   ],
   "body_links": {
-    "wikilinks_count": 20,
+    "wikilinks_count": 19,
     "wikilinks": [
       "INDEX",
-      "JapanFG/INDEX",
       "banking/INDEX",
       "derivatives/INDEX",
       "derivatives/cross-currency-basis-swap-japan",
@@ -98,7 +97,6 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/derivatives/INDEX",
       "https://finwiki.zksc.io/derivatives/cross-currency-basis-swap-japan",
@@ -122,9 +120,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 19796,
-    "word_like_tokens": 3361,
+    "nonspace_chars": 19778,
+    "word_like_tokens": 3359,
     "inbound_wikilinks_count": 3,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-06-06"
   }
 }

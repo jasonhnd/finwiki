@@ -1,5 +1,5 @@
 ---
-source: japanfg/suruga-bank
+source: regional-banks/suruga-bank
 source_hash: 20e63ffad4da2c85
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.128Z
 
 ## Wiki 路径
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可结合 [[regional-banks/fukuoka-fg|ふくおか FG (FFG)]] 作为同业 / 对照背景，并结合 [[banking/INDEX|banking index]] 理解更广泛的制度 / 监管边界。
+本条目位于 [[regional-banks/INDEX|regional-banks INDEX]] 之下。可结合 [[regional-banks/fukuoka-fg|ふくおか FG (FFG)]] 作为同业 / 对照背景，并结合 [[banking/INDEX|banking index]] 理解更广泛的制度 / 监管边界。
 
 ## 摘要
 

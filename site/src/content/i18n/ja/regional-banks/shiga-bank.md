@@ -1,5 +1,5 @@
 ---
-source: japanfg/shiga-bank
+source: regional-banks/shiga-bank
 source_hash: 44ad3f245c832b47
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T15:14:17.119Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の下に位置づけます。ピア比較・対照の文脈では [[regional-banks/ikeda-senshu-hd|池田泉州ホールディングス]]、より広い制度・規制上の境界では [[banking/INDEX|banking index]] とあわせて読んでください。
+この項目は [[regional-banks/INDEX|regional-banks INDEX]] の下に位置づけます。ピア比較・対照の文脈では [[regional-banks/ikeda-senshu-hd|池田泉州ホールディングス]]、より広い制度・規制上の境界では [[banking/INDEX|banking index]] とあわせて読んでください。
 
 ## 要約
 

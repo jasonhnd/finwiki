@@ -1,5 +1,5 @@
 ---
-source: japanfg/bnpl-landscape
+source: payment-firms/bnpl-landscape
 source_hash: 72f658c26d821a6e
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T11:13:44.842Z
 
 ## 维基路线
 
-该条目位于 [[JapanFG/INDEX|JapanFG index]] 下。针对同行/对比上下文阅读 [[card-issuers/rakuten-card|楽天カード (Rakuten Card)]]，针对更广泛的系统/监管边界阅读 [[payments/INDEX|payments index]]。
+该条目位于 [[payment-firms/INDEX|payment-firms INDEX]] 下。针对同行/对比上下文阅读 [[card-issuers/rakuten-card|楽天カード (Rakuten Card)]]，针对更广泛的系统/监管边界阅读 [[payments/INDEX|payments index]]。
 
 ##TL;博士
 

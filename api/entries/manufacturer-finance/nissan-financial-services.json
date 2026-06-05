@@ -63,10 +63,9 @@
     "4. 戦略 (Residual Value + EV + Brand-Split + Wholesale)"
   ],
   "body_links": {
-    "wikilinks_count": 14,
+    "wikilinks_count": 13,
     "wikilinks": [
       "INDEX",
-      "JapanFG/INDEX",
       "manufacturer-finance/INDEX",
       "manufacturer-finance/floorplan-finance-mechanism",
       "manufacturer-finance/hitachi-industrial-finance-platform",
@@ -82,7 +81,6 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/manufacturer-finance/INDEX",
       "https://finwiki.zksc.io/manufacturer-finance/floorplan-finance-mechanism",
       "https://finwiki.zksc.io/manufacturer-finance/hitachi-industrial-finance-platform",
@@ -100,9 +98,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 8203,
-    "word_like_tokens": 1249,
+    "nonspace_chars": 8255,
+    "word_like_tokens": 1253,
     "inbound_wikilinks_count": 3,
-    "last_modified": "2026-06-03"
+    "last_modified": "2026-06-06"
   }
 }

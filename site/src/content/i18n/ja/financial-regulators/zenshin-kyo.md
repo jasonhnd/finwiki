@@ -1,5 +1,5 @@
 ---
-source: japanfg/zenshin-kyo
+source: financial-regulators/zenshin-kyo
 source_hash: 4632dd4940440c8c
 lang: ja
 status: machine
@@ -15,7 +15,7 @@ translated_at: 2026-06-02T16:33:58.460Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に置く。信用金庫の中央金融機関としての事業面の対照先である [[cooperative-banks/shinkin-central|Shinkin Central Bank]] と、より広い銀行協会レイヤーのピアである [[financial-regulators/zenginkyo|Japanese Bankers Association]]、[[financial-regulators/zenchugin-kyo|Regional Banks Association of Japan]]、[[financial-regulators/dai2-chigin-kyo|Second Association of Regional Banks]] と合わせて読む。法令上の背景は [[financial-licenses/INDEX]] と [[financial-licenses/bank-license-and-baas-boundary]]、破綻処理のバックストップは [[financial-regulators/yokin-hoken-kiko|Deposit Insurance Corporation of Japan]]、より広い事業者群は [[banking/INDEX]] に置く。
+この項目は [[financial-regulators/INDEX|financial-regulators INDEX]] の配下に置く。信用金庫の中央金融機関としての事業面の対照先である [[cooperative-banks/shinkin-central|Shinkin Central Bank]] と、より広い銀行協会レイヤーのピアである [[financial-regulators/zenginkyo|Japanese Bankers Association]]、[[financial-regulators/zenchugin-kyo|Regional Banks Association of Japan]]、[[financial-regulators/dai2-chigin-kyo|Second Association of Regional Banks]] と合わせて読む。法令上の背景は [[financial-licenses/INDEX]] と [[financial-licenses/bank-license-and-baas-boundary]]、破綻処理のバックストップは [[financial-regulators/yokin-hoken-kiko|Deposit Insurance Corporation of Japan]]、より広い事業者群は [[banking/INDEX]] に置く。
 
 ## 法令経路・法的位置づけ
 
@@ -52,7 +52,7 @@ translated_at: 2026-06-02T16:33:58.460Z
 
 ## 関連項目
 
-- [[JapanFG/INDEX|JapanFG index]]
+- [[financial-regulators/INDEX|financial-regulators INDEX]]
 - [[cooperative-banks/shinkin-central|Shinkin Central Bank]]
 - [[financial-regulators/zenginkyo|Japanese Bankers Association]]
 - [[financial-regulators/zenchugin-kyo|Regional Banks Association of Japan]]

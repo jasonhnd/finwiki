@@ -1,5 +1,5 @@
 ---
-source: japanfg/fsa-planning-coordination-bureau
+source: financial-regulators/fsa-planning-coordination-bureau
 source_hash: 8c849ea52781187a
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T15:29:03.875Z
 # FSA规划协调局
 
 ## 维基路线
-该条目位于[[JapanFG/INDEX|JapanFG index]]阅读它反对[[financial-regulators/fsa-supervision-bureau|FSA 監督局]]对于监管方而言[[financial-regulators/fsa-strategy-bureau|FSA 総合政策局]]为跨局策略通道。对于市场规则背景，锚定[[financial-regulators/jsda|JSDA]]和[[financial-licenses/INDEX|legal / financial licenses]]指数;有关日本央行审慎局的对比，请参见[[financial-regulators/boj-financial-system-dept|BoJ 金融機構局]]。
+该条目位于[[financial-regulators/INDEX|financial-regulators INDEX]]阅读它反对[[financial-regulators/fsa-supervision-bureau|FSA 監督局]]对于监管方而言[[financial-regulators/fsa-strategy-bureau|FSA 総合政策局]]为跨局策略通道。对于市场规则背景，锚定[[financial-regulators/jsda|JSDA]]和[[financial-licenses/INDEX|legal / financial licenses]]指数;有关日本央行审慎局的对比，请参见[[financial-regulators/boj-financial-system-dept|BoJ 金融機構局]]。
 
 ## 长话短说
 

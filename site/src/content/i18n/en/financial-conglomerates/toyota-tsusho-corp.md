@@ -1,5 +1,5 @@
 ---
-source: japanfg/toyota-tsusho-corp
+source: financial-conglomerates/toyota-tsusho-corp
 source_hash: 83735b0e76f428b2
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.148Z
 
 ## Wiki Route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha parent holding-company** with a distinctive **Toyota group captive trading house** character: Toyota Motor is a major shareholder at roughly the 22% level, and Toyota Tsusho is positioned as an independent **No. 6  trading company / Toyota-affiliated trading company** outside the 5  major trading houses. Read it against [[financial-conglomerates/mitsubishi-corp|Mitsubishi Corporation]] and [[financial-conglomerates/sojitz-corp|Sojitz]] (mid-sized trading companies) for peer / contrast context. For the financial-services adjacency that gives this entry its JapanFG anchor, see [[trading-company-finance/toyota-tsusho-finance|Toyota Tsusho Finance]] (internal CMS) and the **[[leasing-firms/toyota-financial|Toyota Financial Services (TFS)]] family** (Toyota Motor 100% subsidiary line of **auto loan / lease / insurance platforms**; not directly capital-linked to Toyota Tsusho, but adjacent within the Toyota group ecosystem). System frame: [[finance/INDEX|finance index]] and [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial-group investable universe]].
+This entry sits under [[financial-conglomerates/INDEX|financial-conglomerates INDEX]] as a **sōgō shōsha parent holding-company** with a distinctive **Toyota group captive trading house** character: Toyota Motor is a major shareholder at roughly the 22% level, and Toyota Tsusho is positioned as an independent **No. 6  trading company / Toyota-affiliated trading company** outside the 5  major trading houses. Read it against [[financial-conglomerates/mitsubishi-corp|Mitsubishi Corporation]] and [[financial-conglomerates/sojitz-corp|Sojitz]] (mid-sized trading companies) for peer / contrast context. For the financial-services adjacency that gives this entry its JapanFG anchor, see [[trading-company-finance/toyota-tsusho-finance|Toyota Tsusho Finance]] (internal CMS) and the **[[leasing-firms/toyota-financial|Toyota Financial Services (TFS)]] family** (Toyota Motor 100% subsidiary line of **auto loan / lease / insurance platforms**; not directly capital-linked to Toyota Tsusho, but adjacent within the Toyota group ecosystem). System frame: [[finance/INDEX|finance index]] and [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial-group investable universe]].
 
 ## 1. Company Overview
 
@@ -99,7 +99,7 @@ In addition, the **Toyota group financial-services ecosystem**:
 
 ## Related
 
-- [[JapanFG/INDEX|JapanFG index]]
+- [[financial-conglomerates/INDEX|financial-conglomerates INDEX]]
 - [[financial-conglomerates/mitsubishi-corp|Mitsubishi Corporation]] · [[financial-conglomerates/mitsui-co|Mitsui & Co.]] · [[financial-conglomerates/itochu-corp|ITOCHU Corporation]] · [[financial-conglomerates/sumitomo-corp|Sumitomo Corporation]] · [[financial-conglomerates/marubeni-corp|Marubeni]] · [[financial-conglomerates/sojitz-corp|Sojitz]] (peer trading companies)
 - [[trading-company-finance/toyota-tsusho-finance|Toyota Tsusho Finance]] (internal group treasury)
 - [[leasing-firms/toyota-financial|TFS / Toyota Financial Services]] (Toyota Motor direct captive finance)

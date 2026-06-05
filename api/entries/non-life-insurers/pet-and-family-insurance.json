@@ -36,7 +36,7 @@
       "https://www.petfamilyins.co.jp/company/overview/"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it with T&D Holdings, 第一アイペット損害保険, アニコム損害保険, and insurance index.",
+  "summary": "This entry sits under non-life-insurers INDEX. Read it with T&D Holdings, 第一アイペット損害保険, アニコム損害保険, and insurance index.",
   "headings": [
     "ペット＆ファミリー損害保険",
     "Wiki route",
@@ -51,22 +51,22 @@
   "body_links": {
     "wikilinks_count": 8,
     "wikilinks": [
-      "JapanFG/INDEX",
       "insurance/INDEX",
       "life-insurers/daido-life",
       "life-insurers/taiyo-life",
       "life-insurers/td-financial-life",
       "life-insurers/td-hd",
+      "non-life-insurers/INDEX",
       "non-life-insurers/anicom-insurance",
       "non-life-insurers/dai-ichi-ipet-insurance"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/insurance/INDEX",
       "https://finwiki.zksc.io/life-insurers/daido-life",
       "https://finwiki.zksc.io/life-insurers/taiyo-life",
       "https://finwiki.zksc.io/life-insurers/td-financial-life",
       "https://finwiki.zksc.io/life-insurers/td-hd",
+      "https://finwiki.zksc.io/non-life-insurers/INDEX",
       "https://finwiki.zksc.io/non-life-insurers/anicom-insurance",
       "https://finwiki.zksc.io/non-life-insurers/dai-ichi-ipet-insurance"
     ],
@@ -74,9 +74,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3339,
-    "word_like_tokens": 572,
+    "nonspace_chars": 3359,
+    "word_like_tokens": 576,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

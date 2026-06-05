@@ -1,5 +1,5 @@
 ---
-source: japanfg/swiss-re-japan
+source: non-life-insurers/swiss-re-japan
 source_hash: 26d8eca0389bb6b3
 lang: ja
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-02T16:33:58.454Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に置く。直接のピアである [[non-life-insurers/munich-re-japan|ミュンヘン再保険日本支店]]（「Big 2」のグローバル再保険会社）と、日本の国内再保険会社との対比である [[non-life-insurers/toa-reinsurance|トーア再保険]] と合わせて読む。より広い制度上のアンカーは [[insurance/natcat-reinsurance-japan|nat-cat reinsurance Japan]] であり、歴史的参照先の [[non-life-insurers/japan-earthquake-reinsurance|日本地震再保険]] は、民間のグローバル再保険キャパシティと接続する官民の地震保険制度を説明する。
+この項目は [[non-life-insurers/INDEX|non-life-insurers INDEX]] の配下に置く。直接のピアである [[non-life-insurers/munich-re-japan|ミュンヘン再保険日本支店]]（「Big 2」のグローバル再保険会社）と、日本の国内再保険会社との対比である [[non-life-insurers/toa-reinsurance|トーア再保険]] と合わせて読む。より広い制度上のアンカーは [[insurance/natcat-reinsurance-japan|nat-cat reinsurance Japan]] であり、歴史的参照先の [[non-life-insurers/japan-earthquake-reinsurance|日本地震再保険]] は、民間のグローバル再保険キャパシティと接続する官民の地震保険制度を説明する。
 
 ## 要約
 
@@ -44,7 +44,7 @@ translated_at: 2026-06-02T16:33:58.454Z
 
 ## 関連項目
 
-- [[JapanFG/INDEX]]
+- [[non-life-insurers/INDEX]]
 - [[munich-re-japan]]
 - [[toa-reinsurance]]
 - [[japan-earthquake-reinsurance]]

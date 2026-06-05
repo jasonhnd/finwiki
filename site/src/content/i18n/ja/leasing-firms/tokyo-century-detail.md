@@ -1,5 +1,5 @@
 ---
-source: japanfg/tokyo-century-detail
+source: leasing-firms/tokyo-century-detail
 source_hash: b61acd6394d5d9f9
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T16:33:58.508Z
 
 ## ウィキ上の位置づけ
 
-このエントリは [[JapanFG/INDEX|JapanFG index]] の配下に位置し、[[leasing-firms/tokyo-century|東京センチュリー]] の会社レベル要約を補完する。一般リース業界のピア文脈には [[leasing-firms/orix-corp|オリックス]] / [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]] / [[leasing-firms/smfl|三井住友ファイナンス&リース]] / [[leasing-firms/mizuho-lease|みずほリース]]、一つの親グループルートには [[megabanks/mizuho-fg|みずほFG]]、より広い制度 / 規制境界には [[banking/INDEX|banking index]] と照らして読む。
+このエントリは [[leasing-firms/INDEX|leasing-firms INDEX]] の配下に位置し、[[leasing-firms/tokyo-century|東京センチュリー]] の会社レベル要約を補完する。一般リース業界のピア文脈には [[leasing-firms/orix-corp|オリックス]] / [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]] / [[leasing-firms/smfl|三井住友ファイナンス&リース]] / [[leasing-firms/mizuho-lease|みずほリース]]、一つの親グループルートには [[megabanks/mizuho-fg|みずほFG]]、より広い制度 / 規制境界には [[banking/INDEX|banking index]] と照らして読む。
 
 ## 要約
 
@@ -124,7 +124,7 @@ translated_at: 2026-06-02T16:33:58.508Z
 - [[leasing-firms/smfl|SMFL]] — 銀行系リース競合
 - [[leasing-firms/mizuho-lease|みずほリース]] — みずほ系姉妹リース
 - [[leasing-firms/nec-capital-solutions|NECキャピタルソリューションズ]] — ベンダー系リース
-- [[JapanFG/INDEX|JapanFG index]]
+- [[leasing-firms/INDEX|leasing-firms INDEX]]
 - [[banking/INDEX|Banking domain index]]
 
 ## 出典

@@ -1,5 +1,5 @@
 ---
-source: japanfg/jonan-shinkin
+source: cooperative-banks/jonan-shinkin
 source_hash: 2609a64e7368ac77
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:59:49.384Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[cooperative-banks/asahi-shinkin|朝日信用金庫]] for peer / contrast context inside the Tokyo shinkin block and [[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]] for the broader system / regulatory boundary maintained by [[cooperative-banks/shinkin-central|信金中央金庫]].
+This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]]. Read it against [[cooperative-banks/asahi-shinkin|朝日信用金庫]] for peer / contrast context inside the Tokyo shinkin block and [[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]] for the broader system / regulatory boundary maintained by [[cooperative-banks/shinkin-central|信金中央金庫]].
 
 ## TL;DR
 

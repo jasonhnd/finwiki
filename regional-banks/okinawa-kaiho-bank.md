@@ -23,7 +23,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[regional-banks/jimoto-hd|じもとホールディングス (JIMOTO HD)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it against [[regional-banks/jimoto-hd|じもとホールディングス (JIMOTO HD)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
@@ -136,7 +136,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[regiona
 - [[okinawa-shinko]] — 沖縄振興開発金融公庫（政策金融補完）
 - [[fidea-hd]] · [[jimoto-hd]] — 本土第二地銀統合事例（再編比較対象）
 - [[mufg]] · [[smfg]] · [[mizuho-fg]] — メガ 3 行（県内大型案件競合・コルレス）
-- [[JapanFG/INDEX|Japan FG INDEX]]
+- [[regional-banks/INDEX|regional-banks INDEX]]
 
 ## Sources
 

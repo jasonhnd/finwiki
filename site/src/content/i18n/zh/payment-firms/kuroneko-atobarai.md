@@ -1,5 +1,5 @@
 ---
-source: japanfg/kuroneko-atobarai
+source: payment-firms/kuroneko-atobarai
 source_hash: 38cac22717755d2c
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:59:49.397Z
 
 ## Wiki 路径
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下，是一个**以物流为锚点的 BNPL** 产品。可结合 [[payment-firms/bnpl-landscape|Japan BNPL landscape]] 系统笔记、[[payment-firms/net-protections-hd|Net Protections HD]] / [[payment-firms/paidy|Paidy]] 的 BNPL 同业组，以及 [[payments/japan-bnpl-credit-purchase-boundary|Japan BNPL and credit-purchase boundary]] 中的监管问题阅读。[[payments/credit-purchase-card-operators-japan-index|METI credit-purchase registry]] 是登记锚点，[[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]] 展示后付支付在商户经济性上与银行卡 / 码支付轨道的差异。
+本条目位于 [[payment-firms/INDEX|payment-firms INDEX]] 之下，是一个**以物流为锚点的 BNPL** 产品。可结合 [[payment-firms/bnpl-landscape|Japan BNPL landscape]] 系统笔记、[[payment-firms/net-protections-hd|Net Protections HD]] / [[payment-firms/paidy|Paidy]] 的 BNPL 同业组，以及 [[payments/japan-bnpl-credit-purchase-boundary|Japan BNPL and credit-purchase boundary]] 中的监管问题阅读。[[payments/credit-purchase-card-operators-japan-index|METI credit-purchase registry]] 是登记锚点，[[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]] 展示后付支付在商户经济性上与银行卡 / 码支付轨道的差异。
 
 ## 摘要
 

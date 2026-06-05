@@ -24,7 +24,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[regional-banks/ui-bank|UI銀行 (UI Bank)]] and [[banking/minna-bank-baas-model|みんなの銀行]] for peer / contrast context (the two preceding 地銀デジタル銀行), [[regional-banks/ikeda-senshu-hd|池田泉州ホールディングス]] for parent group context, and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it against [[regional-banks/ui-bank|UI銀行 (UI Bank)]] and [[banking/minna-bank-baas-model|みんなの銀行]] for peer / contrast context (the two preceding 地銀デジタル銀行), [[regional-banks/ikeda-senshu-hd|池田泉州ホールディングス]] for parent group context, and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## 1. 法人・ライセンス境界
 

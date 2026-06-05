@@ -33,7 +33,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **operating-company anchor** for JR 東日本 (East Japan Railway Company) グループの金融サブセクター — specifically, **ビューカード（View Card）+ JRE BANK（楽天銀行と提携の BaaS 銀行口座）+ Suica 電子マネー / JR 東日本ペイメントサービス** の 3 軸構成. Read it against [[JapanFG/tokyu-card|東急カード（Tokyu Card）]]・[[JapanFG/odakyu-cards|小田急カード]] for transit-captive peer comparison, [[regional-banks/seven-bank|セブン銀行]] for retail-captive bank comparison, [[banking/baas-rakuten-jre-bank|楽天-JRE Bank BaaS]] for the bank-as-a-service architectural context, and [[payments/suica-pasmo-fares|Suica/PASMO 運賃エコシステム]] for the e-money / transit-IC integration layer.
+This entry sits under [[card-issuers/INDEX|card-issuers INDEX]] as the **operating-company anchor** for JR 東日本 (East Japan Railway Company) グループの金融サブセクター — specifically, **ビューカード（View Card）+ JRE BANK（楽天銀行と提携の BaaS 銀行口座）+ Suica 電子マネー / JR 東日本ペイメントサービス** の 3 軸構成. Read it against [[JapanFG/tokyu-card|東急カード（Tokyu Card）]]・[[JapanFG/odakyu-cards|小田急カード]] for transit-captive peer comparison, [[regional-banks/seven-bank|セブン銀行]] for retail-captive bank comparison, [[banking/baas-rakuten-jre-bank|楽天-JRE Bank BaaS]] for the bank-as-a-service architectural context, and [[payments/suica-pasmo-fares|Suica/PASMO 運賃エコシステム]] for the e-money / transit-IC integration layer.
 
 ## TL;DR
 
@@ -158,7 +158,7 @@ JR 東日本 グループの金融機能群。コアは ① **ビューカード
 - [[payments/suica-prepaid-jr-east]] — Suica エコシステム
 - [[payments/suica-pasmo-fares]] — 交通系 IC 運賃エコシステム
 - [[banking/baas-rakuten-jre-bank]] — BaaS アーキテクチャ
-- [[JapanFG/INDEX]] — JapanFG namespace index
+- [[card-issuers/INDEX]] — JapanFG namespace index
 
 ## Sources
 

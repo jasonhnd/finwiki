@@ -1,5 +1,5 @@
 ---
-source: japanfg/aizawa-securities
+source: securities-firms/aizawa-securities
 source_hash: b3331733f41ec478
 lang: en
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T11:13:44.890Z
 
 ## Wiki Route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[securities-firms/aizawa-sg|Aizawa Securities Group]] for parent-holding context, [[securities-firms/iwai-cosmo-securities|IwaiCosmo Securities]], [[securities-firms/tokai-tokyo-securities|Tokai Tokyo Securities]], and [[securities-firms/okasan-sg|Okasan Securities Group]] for mid-tier independent securities peers, and [[securities/INDEX|securities index]] for the broader market-structure boundary.
+This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it against [[securities-firms/aizawa-sg|Aizawa Securities Group]] for parent-holding context, [[securities-firms/iwai-cosmo-securities|IwaiCosmo Securities]], [[securities-firms/tokai-tokyo-securities|Tokai Tokyo Securities]], and [[securities-firms/okasan-sg|Okasan Securities Group]] for mid-tier independent securities peers, and [[securities/INDEX|securities index]] for the broader market-structure boundary.
 
 ## TL;DR
 
@@ -111,7 +111,7 @@ Detailed financials should be read through the [[securities-firms/aizawa-sg|pare
 - [[securities-firms/tokai-tokyo-securities|Tokai Tokyo Securities]] — Tokai-region mid-sized independent securities peer
 - [[securities-firms/marusan-securities|Marusan Securities]] — Kanto-based mid-sized independent securities peer
 - [[securities-firms/okasan-sg|Okasan Securities Group]] — Nagoya-based mid-sized independent securities peer
-- [[JapanFG/INDEX|JapanFG index]]
+- [[securities-firms/INDEX|securities-firms INDEX]]
 - [[securities/INDEX|securities domain index]]
 
 ## Sources

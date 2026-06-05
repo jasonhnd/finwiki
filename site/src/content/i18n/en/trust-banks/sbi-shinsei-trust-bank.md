@@ -1,5 +1,5 @@
 ---
-source: japanfg/sbi-shinsei-trust-bank
+source: trust-banks/sbi-shinsei-trust-bank
 source_hash: edd66e69d6dc3d50
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T00:41:50.457Z
 
 ## Wiki route
 
-SBI Shinsei Trust Bank is a licensed trust-bank operating-company page under [[JapanFG/INDEX|JapanFG]]. Read it with [[regional-banks/sbi-shinsei-bank|SBI Shinsei Bank]], [[megabanks/sbi-hd|SBI Holdings]], [[trust-banks/mitsubishi-ufj-trust-bank|Mitsubishi UFJ Trust Bank]], [[payment-firms/progmat|Progmat]], [[fintech/japan-stablecoin-regulatory-landscape|Japan stablecoin regulation]], and [[banking/japan-trust-bank-custody-map|Japan trust-bank custody map]].
+SBI Shinsei Trust Bank is a licensed trust-bank operating-company page under [[trust-banks/INDEX|trust-banks INDEX]]. Read it with [[regional-banks/sbi-shinsei-bank|SBI Shinsei Bank]], [[megabanks/sbi-hd|SBI Holdings]], [[trust-banks/mitsubishi-ufj-trust-bank|Mitsubishi UFJ Trust Bank]], [[payment-firms/progmat|Progmat]], [[fintech/japan-stablecoin-regulatory-landscape|Japan stablecoin regulation]], and [[banking/japan-trust-bank-custody-map|Japan trust-bank custody map]].
 
 Use this page when the question is about the trust-bank legal entity, trust schemes, securitization, security tokens, or trust-bank-backed digital-finance routes. Use [[regional-banks/sbi-shinsei-bank|SBI Shinsei Bank]] for ordinary bank strategy and public-funds repayment history.
 
@@ -73,7 +73,7 @@ Third, the trust bank creates a peer / contrast with [[trust-banks/mitsubishi-uf
 
 ## Related
 
-- [[JapanFG/INDEX]]
+- [[trust-banks/INDEX]]
 - [[regional-banks/sbi-shinsei-bank]]
 - [[megabanks/sbi-hd]]
 - [[payment-firms/progmat]]

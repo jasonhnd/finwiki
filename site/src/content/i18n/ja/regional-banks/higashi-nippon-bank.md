@@ -1,5 +1,5 @@
 ---
-source: japanfg/higashi-nippon-bank
+source: regional-banks/higashi-nippon-bank
 source_hash: 956bf8e053ab8fd6
 lang: ja
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-02T14:25:12.446Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の下に位置づけられる。ピア比較・対照の文脈では [[regional-banks/yokohama-bank|横浜銀行]] を、より広い制度・規制境界では [[banking/INDEX|banking index]] を参照する。
+この項目は [[regional-banks/INDEX|regional-banks INDEX]] の下に位置づけられる。ピア比較・対照の文脈では [[regional-banks/yokohama-bank|横浜銀行]] を、より広い制度・規制境界では [[banking/INDEX|banking index]] を参照する。
 
 ## 要約
 

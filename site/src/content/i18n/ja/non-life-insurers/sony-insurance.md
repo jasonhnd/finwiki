@@ -1,5 +1,5 @@
 ---
-source: japanfg/sony-insurance
+source: non-life-insurers/sony-insurance
 source_hash: 893562b91cc60970
 lang: ja
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-06-02T15:14:17.105Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]]に置かれる。比較対象として[[non-life-insurers/tokio-marine-direct|東京海上ダイレクト損害保険]] 同業・対比の文脈を確認する and [[insurance/INDEX|insurance index]] より広い制度・規制境界を確認する.
+この項目は [[non-life-insurers/INDEX|non-life-insurers INDEX]]に置かれる。比較対象として[[non-life-insurers/tokio-marine-direct|東京海上ダイレクト損害保険]] 同業・対比の文脈を確認する and [[insurance/INDEX|insurance index]] より広い制度・規制境界を確認する.
 
 ## 要約
 

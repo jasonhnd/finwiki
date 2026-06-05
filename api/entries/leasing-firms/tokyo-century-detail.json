@@ -39,7 +39,7 @@
       "https://www.lease.or.jp/"
     ]
   },
-  "summary": "This entry sits under JapanFG index and complements the company-level summary at 東京センチュリー. Read it against オリックス / 三菱HCキャピタル / 三井住友ファイナンス&リース / みずほリース for general-lease industry peer context, みずほFG for one parent group route, and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under leasing-firms INDEX and complements the company-level summary at 東京センチュリー. Read it against オリックス / 三菱HCキャピタル / 三井住友ファイナンス&リース / みずほリース for general-lease industry peer context, みずほFG for one parent group route, and banking index for the broader system / regulatory boundary.",
   "headings": [
     "東京センチュリー 事業詳細 (Tokyo Century Operating Profile)",
     "Wiki route",
@@ -55,8 +55,8 @@
   "body_links": {
     "wikilinks_count": 9,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
+      "leasing-firms/INDEX",
       "leasing-firms/mitsubishi-hc-capital",
       "leasing-firms/mizuho-lease",
       "leasing-firms/nec-capital-solutions",
@@ -66,8 +66,8 @@
       "megabanks/mizuho-fg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/leasing-firms/INDEX",
       "https://finwiki.zksc.io/leasing-firms/mitsubishi-hc-capital",
       "https://finwiki.zksc.io/leasing-firms/mizuho-lease",
       "https://finwiki.zksc.io/leasing-firms/nec-capital-solutions",
@@ -80,9 +80,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4441,
-    "word_like_tokens": 742,
+    "nonspace_chars": 4465,
+    "word_like_tokens": 746,
     "inbound_wikilinks_count": 1,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

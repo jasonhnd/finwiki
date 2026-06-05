@@ -1,5 +1,5 @@
 ---
-source: japanfg/boj-financial-system-dept
+source: financial-regulators/boj-financial-system-dept
 source_hash: 0855d72073427a4c
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T11:13:44.882Z
 #BoJ Financial System and Bank Examination Department
 
 ## Wiki route
-This entry sits under[[JapanFG/INDEX|JapanFG index]]. Read it against[[financial-regulators/boj-financial-markets-dept|金融市場局]]for the BoJ market-operations counterpart and[[financial-regulators/fsa-supervision-bureau|FSA 監督局]]for the regulatory-perimeter contrast. For the broader prudential system, anchor through[[financial-regulators/boj-monetary-policy|BoJ monetary policy]]and[[banking/INDEX|banking landscape]].
+This entry sits under[[financial-regulators/INDEX|financial-regulators INDEX]]. Read it against[[financial-regulators/boj-financial-markets-dept|金融市場局]]for the BoJ market-operations counterpart and[[financial-regulators/fsa-supervision-bureau|FSA 監督局]]for the regulatory-perimeter contrast. For the broader prudential system, anchor through[[financial-regulators/boj-monetary-policy|BoJ monetary policy]]and[[banking/INDEX|banking landscape]].
 
 ## TL;DR
 

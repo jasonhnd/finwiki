@@ -35,7 +35,7 @@
       "短資協会 公開資料"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against セントラル短資株式会社 (Central Tanshi) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under financial-regulators INDEX. Read it against セントラル短資株式会社 (Central Tanshi) for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [
     "東京短資 (Tokyo Tanshi)",
     "Wiki route",
@@ -51,9 +51,9 @@
   "body_links": {
     "wikilinks_count": 10,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "central-tanshi",
+      "financial-regulators/INDEX",
       "financial-regulators/boj-monetary-policy",
       "financial-regulators/central-tanshi",
       "mizuho-fg",
@@ -63,9 +63,9 @@
       "ueda-yagi-tanshi"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/central-tanshi",
+      "https://finwiki.zksc.io/financial-regulators/INDEX",
       "https://finwiki.zksc.io/financial-regulators/boj-monetary-policy",
       "https://finwiki.zksc.io/financial-regulators/central-tanshi",
       "https://finwiki.zksc.io/mizuho-fg",
@@ -78,9 +78,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2964,
-    "word_like_tokens": 466,
+    "nonspace_chars": 2990,
+    "word_like_tokens": 468,
     "inbound_wikilinks_count": 20,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

@@ -1,5 +1,5 @@
 ---
-source: japanfg/principal-japan
+source: asset-managers/principal-japan
 source_hash: cb638775fba4ab23
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T15:14:17.093Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に置く。外資系金融グループの比較文脈は [[life-insurers/manulife-japan|Manulife Life Insurance Japan]] と [[life-insurers/nn-life-japan|NN Life Japan]] と照合し、日本の退職・保険制度および規制上の境界は [[insurance/INDEX|insurance index]] とあわせて読む。
+この項目は [[asset-managers/INDEX|asset-managers INDEX]] の配下に置く。外資系金融グループの比較文脈は [[life-insurers/manulife-japan|Manulife Life Insurance Japan]] と [[life-insurers/nn-life-japan|NN Life Japan]] と照合し、日本の退職・保険制度および規制上の境界は [[insurance/INDEX|insurance index]] とあわせて読む。
 
 ## 要約
 

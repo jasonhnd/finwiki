@@ -1,5 +1,5 @@
 ---
-source: japanfg/rakuten-edy
+source: payment-firms/rakuten-edy
 source_hash: 033724e2f2fd7246
 lang: ja
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-06-02T15:14:17.078Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に置かれる。隣接領域の文脈として [[payments/INDEX|payments index]]、制度全体の境界として [[payments/funds-transfer-vs-prepaid-boundary|Funds transfer vs prepaid boundary in Japan]] とあわせて読む。
+この項目は [[payment-firms/INDEX|payment-firms INDEX]] の配下に置かれる。隣接領域の文脈として [[payments/INDEX|payments index]]、制度全体の境界として [[payments/funds-transfer-vs-prepaid-boundary|Funds transfer vs prepaid boundary in Japan]] とあわせて読む。
 
 ## 要約
 

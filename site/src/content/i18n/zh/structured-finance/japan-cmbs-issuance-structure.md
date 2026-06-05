@@ -97,7 +97,7 @@ translated_at: 2026-06-01T04:15:40.159Z
 
 CMBS 风险主要取决于底层物业现金流。办公、零售、酒店、物流和住宅投资物业都有不同风险画像。底层房地产金融路径见 [[real-estate-finance/INDEX]]。
 
-J-REIT 债务重叠：J-REIT（发起人谱系见 [[JapanFG/INDEX]]）通常以其组合物业作为担保借款，但这些贷款不会证券化为 CMBS — 它们是直接银行贷款或 J-REIT 发行的无担保债券。
+J-REIT 债务重叠：J-REIT（发起人谱系见 [[structured-finance/INDEX]]）通常以其组合物业作为担保借款，但这些贷款不会证券化为 CMBS — 它们是直接银行贷款或 J-REIT 发行的无担保债券。
 
 ## Related
 

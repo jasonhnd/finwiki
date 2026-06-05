@@ -1,5 +1,5 @@
 ---
-source: japanfg/mitsui-sumitomo-aioi-life
+source: life-insurers/mitsui-sumitomo-aioi-life
 source_hash: 744f6ee923d28935
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T23:59:49.402Z
 
 ## Wiki 路径
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可结合 [[life-insurers/ms-primary-life|三井住友海上プライマリー生命保険]] 阅读，以获得同业 / 对比语境；也可结合 [[insurance/INDEX|insurance index]] 阅读，以理解更大的系统 / 监管边界。
+本条目位于 [[life-insurers/INDEX|life-insurers INDEX]] 之下。可结合 [[life-insurers/ms-primary-life|三井住友海上プライマリー生命保険]] 阅读，以获得同业 / 对比语境；也可结合 [[insurance/INDEX|insurance index]] 阅读，以理解更大的系统 / 监管边界。
 
 ## TL;DR
 

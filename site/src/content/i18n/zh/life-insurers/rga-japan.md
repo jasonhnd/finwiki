@@ -1,5 +1,5 @@
 ---
-source: japanfg/rga-japan
+source: life-insurers/rga-japan
 source_hash: 16a4f23923416c63
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T00:41:50.466Z
 
 ## Wiki 路径
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可将其与 [[non-life-insurers/gen-re-japan|ジェネラル再保険日本支店]] 作为美国总部再保险公司同业对读，并与 [[non-life-insurers/swiss-re-japan|スイス再保険日本支店]] / [[non-life-insurers/hannover-re-japan|ハノーバー再保険日本支店]] 对读以理解生命再保险竞争语境。国内再保险公司的对照仍为 [[non-life-insurers/toa-reinsurance|トーア再保険]]，更广的系统地图为 [[insurance/INDEX|insurance index]]。
+本条目位于 [[life-insurers/INDEX|life-insurers INDEX]] 之下。可将其与 [[non-life-insurers/gen-re-japan|ジェネラル再保険日本支店]] 作为美国总部再保险公司同业对读，并与 [[non-life-insurers/swiss-re-japan|スイス再保険日本支店]] / [[non-life-insurers/hannover-re-japan|ハノーバー再保険日本支店]] 对读以理解生命再保险竞争语境。国内再保险公司的对照仍为 [[non-life-insurers/toa-reinsurance|トーア再保険]]，更广的系统地图为 [[insurance/INDEX|insurance index]]。
 
 ## TL;DR
 
@@ -44,7 +44,7 @@ translated_at: 2026-06-01T00:41:50.466Z
 
 ## Related
 
-- [[JapanFG/INDEX]]
+- [[life-insurers/INDEX]]
 - [[gen-re-japan]]
 - [[swiss-re-japan]]
 - [[hannover-re-japan]]

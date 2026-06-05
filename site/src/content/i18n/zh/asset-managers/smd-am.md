@@ -1,5 +1,5 @@
 ---
-source: japanfg/smd-am
+source: asset-managers/smd-am
 source_hash: f8f7842bffc6dfcb
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.108Z
 
 ## Wiki route
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 下。可与 [[asset-managers/asset-management-one|アセットマネジメントOne]] 对照阅读，以理解同业和差异；更广泛的制度和监管边界见 [[securities/INDEX|securities index]]。
+本条目位于 [[asset-managers/INDEX|asset-managers INDEX]] 下。可与 [[asset-managers/asset-management-one|アセットマネジメントOne]] 对照阅读，以理解同业和差异；更广泛的制度和监管边界见 [[securities/INDEX|securities index]]。
 
 ## TL;DR
 

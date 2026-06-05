@@ -43,7 +43,7 @@
       "https://www.boj.or.jp/en/about/publication/"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 金融市場局 for the domestic market-operations counterpart and FSA 総合政策局 for the FSA-side international-policy lane. For currency-and-FX context, anchor through BoJ monetary policy and Japan money market.",
+  "summary": "This entry sits under financial-regulators INDEX. Read it against 金融市場局 for the domestic market-operations counterpart and FSA 総合政策局 for the FSA-side international-policy lane. For currency-and-FX context, anchor through BoJ monetary policy and Japan money market.",
   "headings": [
     "国際局 (BoJ International Department)",
     "Wiki route",
@@ -57,8 +57,8 @@
   "body_links": {
     "wikilinks_count": 12,
     "wikilinks": [
-      "JapanFG/INDEX",
       "financial-licenses/foreign-bank-branch-license-route",
+      "financial-regulators/INDEX",
       "financial-regulators/boj-financial-markets-dept",
       "financial-regulators/boj-financial-system-dept",
       "financial-regulators/boj-monetary-policy",
@@ -71,8 +71,8 @@
       "money-market/japan-money-market"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/financial-licenses/foreign-bank-branch-license-route",
+      "https://finwiki.zksc.io/financial-regulators/INDEX",
       "https://finwiki.zksc.io/financial-regulators/boj-financial-markets-dept",
       "https://finwiki.zksc.io/financial-regulators/boj-financial-system-dept",
       "https://finwiki.zksc.io/financial-regulators/boj-monetary-policy",
@@ -88,9 +88,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5830,
-    "word_like_tokens": 949,
+    "nonspace_chars": 5856,
+    "word_like_tokens": 951,
     "inbound_wikilinks_count": 7,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

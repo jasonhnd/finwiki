@@ -14,7 +14,7 @@ translated_at: 2026-05-31T11:13:44.913Z
 
 "Japan life insurance big four" is a market shorthand, not a formal FSA category. It usually refers to [[life-insurers/nippon-life|Nippon Life]], [[life-insurers/dai-ichi-life|Dai-ichi Life]], [[life-insurers/meiji-yasuda|Meiji Yasuda]], and [[life-insurers/sumitomo-life|Sumitomo Life]]. Public comparison fields include legal form, channel architecture, product mix, overseas expansion, capital disclosure, and policyholder / shareholder governance.
 
-This page sits under [[insurance/INDEX|insurance domain]] and uses [[JapanFG/INDEX|JapanFG]] for company pages. Read it with [[insurance/life-insurance-channel-mix|life-insurance channel mix]], [[insurance/mutual-vs-stock-life-insurer|mutual vs stock life insurer]], [[insurance/esr-economic-value-solvency|ESR]], [[financial-licenses/insurance-license-and-solvency|insurance license and solvency route]], and [[insurance/internet-life-insurance-business-model|internet life insurance business model]].
+This page sits under [[insurance/INDEX|insurance domain]] and uses [[insurance/INDEX|insurance INDEX]] for company pages. Read it with [[insurance/life-insurance-channel-mix|life-insurance channel mix]], [[insurance/mutual-vs-stock-life-insurer|mutual vs stock life insurer]], [[insurance/esr-economic-value-solvency|ESR]], [[financial-licenses/insurance-license-and-solvency|insurance license and solvency route]], and [[insurance/internet-life-insurance-business-model|internet life insurance business model]].
 
 ## Comparison Snapshot
 

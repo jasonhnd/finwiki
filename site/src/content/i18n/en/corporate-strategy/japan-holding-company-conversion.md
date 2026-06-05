@@ -52,7 +52,7 @@ The operating company executes a single-company [[corporate-strategy/japan-kabus
 
 - **Result**: cleanest path to a 純粋持株会社.
 - **Listing**: the *new* HoldCo lists in place of the operating company (technical re-listing / 上場維持 handled under exchange rules).
-- **Multi-company variant**: two companies do simultaneous 株式移転 into one HoldCo — the joint-HoldCo / merger-of-equals pattern behind many financial groups in [[JapanFG/INDEX|JapanFG INDEX]].
+- **Multi-company variant**: two companies do simultaneous 株式移転 into one HoldCo — the joint-HoldCo / merger-of-equals pattern behind many financial groups in [[corporate-strategy/INDEX|corporate-strategy INDEX]].
 
 ### Method B — 株式交換 (share exchange): point an existing company upward
 
@@ -119,7 +119,6 @@ Once the HoldCo exists, ongoing group taxation (the **グループ通算制度**
 - [[finance/japan-listed-financial-groups-investable-universe|Japan listed-financial-groups investable universe]]
 - [[business/japan-listed-corp-strategic-restructuring-matrix|Japan listed-corp strategic-restructuring matrix]]
 - [[securities/japan-ipo-listing-disclosure-route|Japan IPO listing / disclosure route]]
-- [[JapanFG/INDEX|JapanFG INDEX]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

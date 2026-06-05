@@ -1,5 +1,5 @@
 ---
-source: japanfg/olta
+source: payment-firms/olta
 source_hash: 319ef49816d12391
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T00:41:50.433Z
 
 ## Wiki route
 
-This entry sits under the [[JapanFG/INDEX|JapanFG index]] as a **B2B factoring fintech** that sits next to BNPL in the wider working-capital stack. Read it together with the [[payment-firms/bnpl-landscape|Japan BNPL landscape]] system note, the [[payment-firms/net-protections-hd|Net Protections HD]] BtoB BNPL peer (NP Kakebarai), and the [[payment-firms/money-forward|Money Forward]] / Biz Forward sibling for the SaaS-led factoring comparator. The [[payments/japan-bnpl-credit-purchase-boundary|BNPL and credit-purchase boundary]] frames the question of whether factoring counts as credit, the [[payments/credit-purchase-card-operators-japan-index|METI credit-purchase registry]] is a related baseline, and the [[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]] situates the working-capital economics next to card / code rails.
+This entry sits under the [[payment-firms/INDEX|payment-firms INDEX]] as a **B2B factoring fintech** that sits next to BNPL in the wider working-capital stack. Read it together with the [[payment-firms/bnpl-landscape|Japan BNPL landscape]] system note, the [[payment-firms/net-protections-hd|Net Protections HD]] BtoB BNPL peer (NP Kakebarai), and the [[payment-firms/money-forward|Money Forward]] / Biz Forward sibling for the SaaS-led factoring comparator. The [[payments/japan-bnpl-credit-purchase-boundary|BNPL and credit-purchase boundary]] frames the question of whether factoring counts as credit, the [[payments/credit-purchase-card-operators-japan-index|METI credit-purchase registry]] is a related baseline, and the [[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]] situates the working-capital economics next to card / code rails.
 
 ## TL;DR
 

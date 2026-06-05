@@ -1,5 +1,5 @@
 ---
-source: japanfg/au-payment
+source: payment-firms/au-payment
 source_hash: 67ca4a46688149de
 lang: en
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-05-31T11:13:44.880Z
 
 ## Wiki route
 
-This entry sits under[[JapanFG/INDEX|JapanFG index]]. Read it with[[payments/INDEX|payments index]]for adjacent context and[[payments/funds-transfer-vs-prepaid-boundary|Funds transfer vs prepaid boundary in Japan]]for the broader system boundary.
+This entry sits under[[payment-firms/INDEX|payment-firms INDEX]]. Read it with[[payments/INDEX|payments index]]for adjacent context and[[payments/funds-transfer-vs-prepaid-boundary|Funds transfer vs prepaid boundary in Japan]]for the broader system boundary.
 
 ## TL;DR
 

@@ -54,11 +54,11 @@
     "wikilinks_count": 12,
     "wikilinks": [
       "INDEX",
-      "JapanFG/INDEX",
       "finance/japan-ib-league-table",
       "financial-licenses/INDEX",
       "financial-regulators/jsda",
       "megabanks/mufg",
+      "securities-firms/INDEX",
       "securities-firms/daiwa-sg",
       "securities-firms/mizuho-securities",
       "securities-firms/nomura-hd",
@@ -68,11 +68,11 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/finance/japan-ib-league-table",
       "https://finwiki.zksc.io/financial-licenses/INDEX",
       "https://finwiki.zksc.io/financial-regulators/jsda",
       "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/securities-firms/INDEX",
       "https://finwiki.zksc.io/securities-firms/daiwa-sg",
       "https://finwiki.zksc.io/securities-firms/mizuho-securities",
       "https://finwiki.zksc.io/securities-firms/nomura-hd",
@@ -84,9 +84,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3070,
-    "word_like_tokens": 449,
+    "nonspace_chars": 3088,
+    "word_like_tokens": 451,
     "inbound_wikilinks_count": 45,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

@@ -1,5 +1,5 @@
 ---
-source: japanfg/fukuoka-ken-shinkumi
+source: cooperative-banks/fukuoka-ken-shinkumi
 source_hash: 9ccc92d5bd7e84a4
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T15:29:03.877Z
 
 ## Wiki route
 
-This entry sits under[[JapanFG/INDEX|JapanFG index]]as the **Kyushu prefecture-wide shinkumi anchor**, complementing[[cooperative-banks/iwaki-shinkumi|いわき信用組合]](Tohoku city-level) and[[cooperative-banks/sapporo-chuo-shinkumi|札幌中央信用組合]](Hokkaido city-level) for regional shinkumi coverage within the143-cooperative population cataloged in[[banking/credit-cooperative-registry-japan|Japan credit cooperative registry]].
+This entry sits under[[cooperative-banks/INDEX|cooperative-banks INDEX]]as the **Kyushu prefecture-wide shinkumi anchor**, complementing[[cooperative-banks/iwaki-shinkumi|いわき信用組合]](Tohoku city-level) and[[cooperative-banks/sapporo-chuo-shinkumi|札幌中央信用組合]](Hokkaido city-level) for regional shinkumi coverage within the143-cooperative population cataloged in[[banking/credit-cooperative-registry-japan|Japan credit cooperative registry]].
 
 ## TL;DR
 
@@ -116,7 +116,7 @@ Fukuoka Finance Branch = Fukuoka Prefecture + Saga Prefecture + Nagasaki Prefect
 - [[financial-regulators/dic]]— Deposit Insurance Corporation
 - [[banking/credit-cooperative-registry-japan]]— Japan credit cooperative registry (143 shinkumi (whole)
 - [[banking/cooperative-banking-japan]]— Overall cooperative finance
-- [[JapanFG/INDEX|JapanFG index]]
+- [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 
 ## Sources
 

@@ -1,5 +1,5 @@
 ---
-source: japanfg/bitflyer
+source: payment-firms/bitflyer
 source_hash: 9db6c7bc20410838
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T11:13:44.930Z
 
 ## 维基路线
 
-该条目位于[[JapanFG/INDEX|JapanFG index]]下。对照[[securities-firms/monex-group|マネックスグループ (Monex Group)]]了解同行/对比环境，对照[[banking/INDEX|banking index]]了解更广泛的系统/监管边界。
+该条目位于[[payment-firms/INDEX|payment-firms INDEX]]下。对照[[securities-firms/monex-group|マネックスグループ (Monex Group)]]了解同行/对比环境，对照[[banking/INDEX|banking index]]了解更广泛的系统/监管边界。
 
 ##TL;博士
 

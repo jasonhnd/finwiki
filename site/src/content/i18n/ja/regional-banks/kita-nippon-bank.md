@@ -1,5 +1,5 @@
 ---
-source: japanfg/kita-nippon-bank
+source: regional-banks/kita-nippon-bank
 source_hash: 1c99f130cb196af4
 lang: ja
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-06-02T14:54:39.084Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] 配下に置かれる。[[regional-banks/fukushima-bank|福島銀行]] は比較対象の文脈、[[banking/INDEX|banking index]] はより広い制度・規制境界の文脈として読む。
+この項目は [[regional-banks/INDEX|regional-banks INDEX]] 配下に置かれる。[[regional-banks/fukushima-bank|福島銀行]] は比較対象の文脈、[[banking/INDEX|banking index]] はより広い制度・規制境界の文脈として読む。
 
 ## 要約
 

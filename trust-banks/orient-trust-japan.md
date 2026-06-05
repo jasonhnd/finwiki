@@ -35,7 +35,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **foreign-affiliated trust / asset-servicing subsidiary** anchor. Read it against [[foreign-financial-institutions/state-street-japan|State Street Japan]] / [[foreign-financial-institutions/bny-mellon-japan|BNY Mellon Japan]] / [[foreign-financial-institutions/jpmorgan-japan|JPMorgan Japan]] for the foreign custodian / asset-servicing peer cluster, [[trust-banks/master-trust-bank|マスタートラスト信託銀行]] / [[trust-banks/mitsubishi-ufj-trust-bank|三菱 UFJ 信託銀行]] for the domestic trust peer cluster, [[trust-banks/trust-companies-japan-index|the Japan trust companies registry index]] for the registry context, and [[banking/japan-trust-bank-custody-map|the Japan trust-bank custody map]] for system-level positioning.
+This entry sits under [[trust-banks/INDEX|trust-banks INDEX]] as a **foreign-affiliated trust / asset-servicing subsidiary** anchor. Read it against [[foreign-financial-institutions/state-street-japan|State Street Japan]] / [[foreign-financial-institutions/bny-mellon-japan|BNY Mellon Japan]] / [[foreign-financial-institutions/jpmorgan-japan|JPMorgan Japan]] for the foreign custodian / asset-servicing peer cluster, [[trust-banks/master-trust-bank|マスタートラスト信託銀行]] / [[trust-banks/mitsubishi-ufj-trust-bank|三菱 UFJ 信託銀行]] for the domestic trust peer cluster, [[trust-banks/trust-companies-japan-index|the Japan trust companies registry index]] for the registry context, and [[banking/japan-trust-bank-custody-map|the Japan trust-bank custody map]] for system-level positioning.
 
 ## 1. 親会社概要
 
@@ -157,7 +157,7 @@ Northern Trust Corporation（米 NASDAQ: NTRS）
 - [[trust-banks/lgt-wealth-management-trust]] — 外資 wealth mgmt 信託ピア
 - [[trust-banks/trust-companies-japan-index]] — 信託会社レジストリ
 - [[banking/japan-trust-bank-custody-map]] — 信託銀行カストディマップ
-- [[JapanFG/INDEX]] — JapanFG namespace index
+- [[trust-banks/INDEX]] — JapanFG namespace index
 
 ## Sources
 

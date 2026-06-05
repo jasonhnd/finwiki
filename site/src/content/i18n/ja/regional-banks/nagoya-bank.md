@@ -1,5 +1,5 @@
 ---
-source: japanfg/nagoya-bank
+source: regional-banks/nagoya-bank
 source_hash: 4f1de175dce802c8
 lang: ja
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-06-02T14:54:39.101Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] 配下に置く。比較・対照の文脈では [[regional-banks/aichi-bank|あいち銀行]] を、より広い制度・規制上の境界では [[banking/INDEX|banking index]] を参照する。
+この項目は [[regional-banks/INDEX|regional-banks INDEX]] 配下に置く。比較・対照の文脈では [[regional-banks/aichi-bank|あいち銀行]] を、より広い制度・規制上の境界では [[banking/INDEX|banking index]] を参照する。
 
 ## 要約
 

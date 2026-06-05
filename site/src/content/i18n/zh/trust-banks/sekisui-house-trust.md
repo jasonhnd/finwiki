@@ -1,5 +1,5 @@
 ---
-source: japanfg/sekisui-house-trust
+source: trust-banks/sekisui-house-trust
 source_hash: f6989566c4a0e7a1
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-01T00:41:50.419Z
 
 ## Wiki route
 
-Sekisui House Trust 是 [[JapanFG/INDEX|JapanFG]] 下的独立信托公司路径，并从 [[trust-banks/trust-companies-japan-index|the Japan trust companies registry index]] 提升为单独页面。可与 [[banking/japan-trust-bank-custody-map|Japan trust-bank custody map]]、[[policy-finance/japan-housing-finance-agency|Japan Housing Finance Agency]] 和 [[trust-banks/daiwa-living-trust|Daiwa Living Trust]] 一起阅读。
+Sekisui House Trust 是 [[trust-banks/INDEX|trust-banks INDEX]] 下的独立信托公司路径，并从 [[trust-banks/trust-companies-japan-index|the Japan trust companies registry index]] 提升为单独页面。可与 [[banking/japan-trust-bank-custody-map|Japan trust-bank custody map]]、[[policy-finance/japan-housing-finance-agency|Japan Housing Finance Agency]] 和 [[trust-banks/daiwa-living-trust|Daiwa Living Trust]] 一起阅读。
 
 涉及不动产管理信托、出租住宅继承以及住宅公司信托服务问题时使用本页。
 
@@ -58,7 +58,7 @@ Sekisui House Trust 是与积水住宅集团相关的管理型信托公司。其
 
 ## Related
 
-- [[JapanFG/INDEX]]
+- [[trust-banks/INDEX]]
 - [[trust-banks/trust-companies-japan-index]]
 - [[banking/japan-trust-bank-custody-map]]
 - [[policy-finance/japan-housing-finance-agency]]

@@ -36,7 +36,7 @@
       "東証 PRIME 上場 銘柄コード 8424"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against オリックス株式会社 (ORIX Corporation) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under leasing-firms INDEX. Read it against オリックス株式会社 (ORIX Corporation) for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [
     "芙蓉総合リース",
     "Wiki route",
@@ -52,8 +52,8 @@
   "body_links": {
     "wikilinks_count": 8,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
+      "leasing-firms/INDEX",
       "leasing-firms/orix-corp",
       "mizuho-fg",
       "mufg",
@@ -62,8 +62,8 @@
       "tokyo-century"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/leasing-firms/INDEX",
       "https://finwiki.zksc.io/leasing-firms/orix-corp",
       "https://finwiki.zksc.io/mizuho-fg",
       "https://finwiki.zksc.io/mufg",
@@ -75,9 +75,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3356,
-    "word_like_tokens": 579,
+    "nonspace_chars": 3368,
+    "word_like_tokens": 581,
     "inbound_wikilinks_count": 15,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

@@ -1,5 +1,5 @@
 ---
-source: japanfg/daito-bank
+source: regional-banks/daito-bank
 source_hash: ff3e54c6045a60eb
 lang: zh
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-05-31T15:29:03.948Z
 
 ## Wiki 路径
 
-本条目位于 [[JapanFG/INDEX|JapanFG 索引]]下。请与 [[regional-banks/fukushima-bank|福岛银行]] 对照阅读，以理解福岛县第二地方银行的牌照格局；更广义的制度边界见 [[banking/INDEX|银行业索引]]。
+本条目位于 [[regional-banks/INDEX|regional-banks INDEX]]下。请与 [[regional-banks/fukushima-bank|福岛银行]] 对照阅读，以理解福岛县第二地方银行的牌照格局；更广义的制度边界见 [[banking/INDEX|银行业索引]]。
 
 ## TL;DR
 

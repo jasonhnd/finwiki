@@ -1,5 +1,5 @@
 ---
-source: japanfg/jf-kyosuiren
+source: cooperative-banks/jf-kyosuiren
 source_hash: 6f394661f29a011a
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:59:49.405Z
 
 ## Wiki 路径
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下，是 **JF集团协同组织保险 / 共济的全国联合会**，相当于农业协同组织系统中 [[non-life-insurers/ja-kyosairen|JA 共済連]] 的 JF 侧 parallel。此前 JA 共济连已有深入记录，而 JF 侧等价机构（JF 共水连）没有 anchor，本页用于补齐该审计缺口。可与 [[cooperative-banks/jf-zengyoren|JF 全漁連 (JF グループ代表 + 経済事業)]] 对读以理解 JF集团代表联合会，与 [[cooperative-banks/jf-shingyoren|JF 信漁連]] 对读以理解 JF 信用联合会层，与 [[cooperative-banks/jf-marine-bank-hokkaido|JF Marine Bank 北海道]] 对读以理解都道府县信用 anchor，与 [[cooperative-banks/norinchukin|農林中央金庫]] 对读以理解 JF Marine Bank system 中央机构，并与 [[insurance/INDEX|insurance domain]] 对读以比较协同组织保险与股份制保险形态。
+本条目位于 [[cooperative-banks/INDEX|cooperative-banks INDEX]] 之下，是 **JF集团协同组织保险 / 共济的全国联合会**，相当于农业协同组织系统中 [[non-life-insurers/ja-kyosairen|JA 共済連]] 的 JF 侧 parallel。此前 JA 共济连已有深入记录，而 JF 侧等价机构（JF 共水连）没有 anchor，本页用于补齐该审计缺口。可与 [[cooperative-banks/jf-zengyoren|JF 全漁連 (JF グループ代表 + 経済事業)]] 对读以理解 JF集团代表联合会，与 [[cooperative-banks/jf-shingyoren|JF 信漁連]] 对读以理解 JF 信用联合会层，与 [[cooperative-banks/jf-marine-bank-hokkaido|JF Marine Bank 北海道]] 对读以理解都道府县信用 anchor，与 [[cooperative-banks/norinchukin|農林中央金庫]] 对读以理解 JF Marine Bank system 中央机构，并与 [[insurance/INDEX|insurance domain]] 对读以比较协同组织保险与股份制保险形态。
 
 ## TL;DR
 
@@ -123,7 +123,7 @@ translated_at: 2026-05-31T23:59:49.405Z
 - [[insurance/mutual-vs-stock-life-insurer]] — 相互会社 vs 株式会社（协同组织 = 第 3 形态）
 - [[banking/jf-marine-bank-system-japan]] — JF Marine Bank system
 - [[banking/cooperative-banking-japan]] — 协同组织金融整体
-- [[JapanFG/INDEX|JapanFG index]]
+- [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 
 ## Sources
 

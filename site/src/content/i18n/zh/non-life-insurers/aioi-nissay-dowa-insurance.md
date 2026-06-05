@@ -1,5 +1,5 @@
 ---
-source: japanfg/aioi-nissay-dowa-insurance
+source: non-life-insurers/aioi-nissay-dowa-insurance
 source_hash: 5ed64342393347b5
 lang: zh
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-05-31T11:13:44.878Z
 
 ## 维基路线
 
-该条目位于[[JapanFG/INDEX|JapanFG index]]。阅读它反对[[non-life-insurers/mitsui-sumitomo-insurance|三井住友海上火災保険]]对于同行/对比上下文和[[insurance/INDEX|insurance index]]适用于更广泛的系统/监管边界。
+该条目位于[[non-life-insurers/INDEX|non-life-insurers INDEX]]。阅读它反对[[non-life-insurers/mitsui-sumitomo-insurance|三井住友海上火災保険]]对于同行/对比上下文和[[insurance/INDEX|insurance index]]适用于更广泛的系统/监管边界。
 
 ##TL;博士
 

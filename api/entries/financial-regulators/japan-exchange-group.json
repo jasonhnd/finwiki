@@ -36,7 +36,7 @@
       "https://www.jpx.co.jp/english/corporate/investor-relations/ir-library/integrated-report/"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 日本証券金融 (JSF) for peer / contrast context and securities index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under financial-regulators INDEX. Read it against 日本証券金融 (JSF) for peer / contrast context and securities index for the broader system / regulatory boundary.",
   "headings": [
     "日本取引所グループ (JPX)",
     "Wiki route",
@@ -51,8 +51,8 @@
   "body_links": {
     "wikilinks_count": 11,
     "wikilinks": [
-      "JapanFG/INDEX",
       "finance/japan-ib-league-table",
+      "financial-regulators/INDEX",
       "financial-regulators/japan-securities-finance",
       "fintech/japan-listed-company-disclosure-monitoring",
       "securities/INDEX",
@@ -64,8 +64,8 @@
       "securities/tokyo-stock-exchange"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/finance/japan-ib-league-table",
+      "https://finwiki.zksc.io/financial-regulators/INDEX",
       "https://finwiki.zksc.io/financial-regulators/japan-securities-finance",
       "https://finwiki.zksc.io/fintech/japan-listed-company-disclosure-monitoring",
       "https://finwiki.zksc.io/securities/INDEX",
@@ -80,9 +80,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4201,
-    "word_like_tokens": 604,
+    "nonspace_chars": 4227,
+    "word_like_tokens": 606,
     "inbound_wikilinks_count": 45,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

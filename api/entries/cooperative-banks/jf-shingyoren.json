@@ -44,7 +44,7 @@
       "https://marinebank.jp/disclosure/index.html"
     ]
   },
-  "summary": "This entry sits under JapanFG index as the prefectural credit-federation layer of the JF Marine Bank system, sitting between local JF (71 fishery cooperatives) and the national central institution 農林中央金庫. Read with JA 信連 for the agricultural-side equivalent, JF 全漁連 for the representative / economic-",
+  "summary": "This entry sits under cooperative-banks INDEX as the prefectural credit-federation layer of the JF Marine Bank system, sitting between local JF (71 fishery cooperatives) and the national central institution 農林中央金庫. Read with JA 信連 for the agricultural-side equivalent, JF 全漁連 for the representative /",
   "headings": [
     "JF 信漁連 (信用漁業協同組合連合会 / Prefectural Credit Federations of Fishery Cooperatives)",
     "Wiki route",
@@ -60,10 +60,10 @@
   "body_links": {
     "wikilinks_count": 13,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/cooperative-banking-japan",
       "banking/ja-bank-system-japan",
       "banking/jf-marine-bank-system-japan",
+      "cooperative-banks/INDEX",
       "cooperative-banks/ja-shinnoren",
       "cooperative-banks/ja-zenchu",
       "cooperative-banks/jf-marine-bank-hokkaido",
@@ -75,10 +75,10 @@
       "norinchukin"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/cooperative-banking-japan",
       "https://finwiki.zksc.io/banking/ja-bank-system-japan",
       "https://finwiki.zksc.io/banking/jf-marine-bank-system-japan",
+      "https://finwiki.zksc.io/cooperative-banks/INDEX",
       "https://finwiki.zksc.io/cooperative-banks/ja-shinnoren",
       "https://finwiki.zksc.io/cooperative-banks/ja-zenchu",
       "https://finwiki.zksc.io/cooperative-banks/jf-marine-bank-hokkaido",
@@ -93,9 +93,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5226,
-    "word_like_tokens": 852,
+    "nonspace_chars": 5266,
+    "word_like_tokens": 856,
     "inbound_wikilinks_count": 10,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

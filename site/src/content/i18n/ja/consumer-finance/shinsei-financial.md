@@ -1,5 +1,5 @@
 ---
-source: japanfg/shinsei-financial
+source: consumer-finance/shinsei-financial
 source_hash: 18c762aaf69a3e80
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T15:14:17.097Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に置く。隣接する SBI 新生銀行の消費者信用レーンは [[card-issuers/aplus|APLUS]] とあわせて読み、より広い信用・割賦の境界は [[payments/credit-purchase-card-operators-japan-index|Japan credit purchase and card operator registry index]] と照合する。
+この項目は [[consumer-finance/INDEX|consumer-finance INDEX]] の配下に置く。隣接する SBI 新生銀行の消費者信用レーンは [[card-issuers/aplus|APLUS]] とあわせて読み、より広い信用・割賦の境界は [[payments/credit-purchase-card-operators-japan-index|Japan credit purchase and card operator registry index]] と照合する。
 
 ## 概要
 

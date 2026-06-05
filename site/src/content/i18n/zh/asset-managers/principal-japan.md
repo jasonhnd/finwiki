@@ -1,5 +1,5 @@
 ---
-source: japanfg/principal-japan
+source: asset-managers/principal-japan
 source_hash: cb638775fba4ab23
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T00:41:50.443Z
 
 ## Wiki route
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可与 [[life-insurers/manulife-japan|Manulife Life Insurance Japan]] 和 [[life-insurers/nn-life-japan|NN Life Japan]] 对照阅读外资金融集团同业语境，并与 [[insurance/INDEX|insurance index]] 阅读更广泛的日本退休 / 保险系统 / 监管边界。
+本条目位于 [[asset-managers/INDEX|asset-managers INDEX]] 之下。可与 [[life-insurers/manulife-japan|Manulife Life Insurance Japan]] 和 [[life-insurers/nn-life-japan|NN Life Japan]] 对照阅读外资金融集团同业语境，并与 [[insurance/INDEX|insurance index]] 阅读更广泛的日本退休 / 保险系统 / 监管边界。
 
 ## TL;DR
 

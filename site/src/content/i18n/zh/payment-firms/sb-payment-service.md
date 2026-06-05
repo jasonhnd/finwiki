@@ -1,5 +1,5 @@
 ---
-source: japanfg/sb-payment-service
+source: payment-firms/sb-payment-service
 source_hash: e63a5ec045a10d0a
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-01T00:41:50.446Z
 
 ## Wiki route
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可与 [[payment-firms/gmo-epsilon|GMOイプシロン (GMO Epsilon)]] 对照阅读同业 / 对比语境，并与 [[payments/INDEX|payments index]] 阅读更广泛的系统 / 监管边界。
+本条目位于 [[payment-firms/INDEX|payment-firms INDEX]] 之下。可与 [[payment-firms/gmo-epsilon|GMOイプシロン (GMO Epsilon)]] 对照阅读同业 / 对比语境，并与 [[payments/INDEX|payments index]] 阅读更广泛的系统 / 监管边界。
 
 ## TL;DR
 

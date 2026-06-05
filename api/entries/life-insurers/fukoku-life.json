@@ -37,7 +37,7 @@
       "https://www.fukoku-life.co.jp/"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 朝日生命保険 for peer / contrast context and insurance index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under life-insurers INDEX. Read it against 朝日生命保険 for peer / contrast context and insurance index for the broader system / regulatory boundary.",
   "headings": [
     "富国生命保険",
     "Wiki route",
@@ -51,20 +51,20 @@
   "body_links": {
     "wikilinks_count": 8,
     "wikilinks": [
-      "JapanFG/INDEX",
       "asahi-life",
       "insurance/INDEX",
       "insurance/mutual-vs-stock-life-insurer",
+      "life-insurers/INDEX",
       "life-insurers/asahi-life",
       "meiji-yasuda",
       "nippon-life",
       "sumitomo-life"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/asahi-life",
       "https://finwiki.zksc.io/insurance/INDEX",
       "https://finwiki.zksc.io/insurance/mutual-vs-stock-life-insurer",
+      "https://finwiki.zksc.io/life-insurers/INDEX",
       "https://finwiki.zksc.io/life-insurers/asahi-life",
       "https://finwiki.zksc.io/meiji-yasuda",
       "https://finwiki.zksc.io/nippon-life",
@@ -74,9 +74,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2037,
-    "word_like_tokens": 314,
+    "nonspace_chars": 2049,
+    "word_like_tokens": 316,
     "inbound_wikilinks_count": 6,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

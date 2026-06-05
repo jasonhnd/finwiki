@@ -1,5 +1,5 @@
 ---
-source: japanfg/chibagin-securities
+source: securities-firms/chibagin-securities
 source_hash: 8184ad07e1ec311b
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T11:13:44.956Z
 
 ## Wiki route
 
-This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary securities operating-company anchor for [[chiba-bank|Chiba Bank]]. Read it against parent operating bank [[chiba-bank|Chiba Bank]] under the no-holding-company single-bank model and sibling subsidiary [[chibagin-leasing|Chibagin Leasing]]. Peer comparison: [[mebuki-securities|Mebuki Securities]] under [[mebuki-fg|Mebuki FG]] for northern Kanto regional-bank securities, and [[ffg-securities|FFG Securities]] under [[fukuoka-fg|FFG]] for Kyushu regional-bank securities. For the broader system route, see [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]], [[banking/regional-bank-api-digital-partnership-route|regional-bank API/digital partnership route]], and [[banking/INDEX|banking index]]. Investable-universe context: [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]].
+This entry sits under the [[securities-firms/INDEX|securities-firms INDEX]] as the FG-subsidiary securities operating-company anchor for [[chiba-bank|Chiba Bank]]. Read it against parent operating bank [[chiba-bank|Chiba Bank]] under the no-holding-company single-bank model and sibling subsidiary [[chibagin-leasing|Chibagin Leasing]]. Peer comparison: [[mebuki-securities|Mebuki Securities]] under [[mebuki-fg|Mebuki FG]] for northern Kanto regional-bank securities, and [[ffg-securities|FFG Securities]] under [[fukuoka-fg|FFG]] for Kyushu regional-bank securities. For the broader system route, see [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]], [[banking/regional-bank-api-digital-partnership-route|regional-bank API/digital partnership route]], and [[banking/INDEX|banking index]]. Investable-universe context: [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]].
 
 ## TL;DR
 
@@ -114,7 +114,7 @@ Chibagin Securities Co., Ltd. is a regional-bank securities company wholly owned
 - [[sbi-securities]] · [[rakuten-securities]] · [[gmo-click-securities]] · [[paypay-securities]]
 - [[jsda]] · [[banking/regional-bank-consolidation-pattern]] · [[banking/regional-bank-api-digital-partnership-route]] · [[banking/INDEX]]
 - [[finance/japan-listed-financial-groups-investable-universe]] · [[finance/INDEX]]
-- [[JapanFG/INDEX|JapanFG index]]
+- [[securities-firms/INDEX|securities-firms INDEX]]
 
 ## Sources
 

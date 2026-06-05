@@ -1,5 +1,5 @@
 ---
-source: japanfg/aozora-bank-detail
+source: regional-banks/aozora-bank-detail
 source_hash: 870742c7aa12ddd4
 lang: ja
 status: machine
@@ -27,7 +27,7 @@ translated_at: 2026-06-02T14:01:20.931Z
 
 以下の参照キーは原文の占位符を出現順のまま保持したものである。翻訳時に削除、改変、統合、並べ替えを行わない。
 
-- [[JapanFG/INDEX|JapanFG index]]
+- [[regional-banks/INDEX|regional-banks INDEX]]
 - [[regional-banks/aozora-bank|あおぞら銀行]]
 - [[regional-banks/sbi-shinsei-bank|SBI 新生銀行]]
 - [[megabanks/mufg-bank|三菱UFJ銀行]]
@@ -118,7 +118,6 @@ translated_at: 2026-06-02T14:01:20.931Z
 - [[megabanks/smbc|SMBC]]
 - [[megabanks/mizuho-bank|みずほ銀行]]
 - [[regional-banks/tokyo-star-bank|東京スター銀行]]
-- [[JapanFG/INDEX|JapanFG index]]
 - [[banking/INDEX|Banking domain index]]
 - 2
 - 2024

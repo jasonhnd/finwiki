@@ -1,5 +1,5 @@
 ---
-source: japanfg/castglobal-trust
+source: trust-banks/castglobal-trust
 source_hash: 992cb7c0fa79dca2
 lang: en
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T11:13:44.870Z
 
 ## Wiki route
 
-[[JapanFG/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/castglobal-trust]]
+[[trust-banks/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/castglobal-trust]]
 
 ## Overview
 

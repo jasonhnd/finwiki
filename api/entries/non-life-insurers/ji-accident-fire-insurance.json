@@ -37,7 +37,7 @@
       "JI library / disclosure page: https://www.jihoken.co.jp/company/library/"
     ]
   },
-  "summary": "Wiki route: JapanFG/INDEX -> insurance/INDEX -> non-life-insurers/ji-accident-fire-insurance",
+  "summary": "Wiki route: non-life-insurers/INDEX -> insurance/INDEX -> non-life-insurers/ji-accident-fire-insurance",
   "headings": [
     "JI Accident & Fire Insurance / ジェイアイ傷害火災保険",
     "Overview",
@@ -52,20 +52,20 @@
     "wikilinks_count": 8,
     "wikilinks": [
       "INDEX",
-      "JapanFG/INDEX",
       "financial-licenses/insurance-license-and-solvency",
       "insurance/INDEX",
       "insurance/direct-nonlife-insurance-japan",
+      "non-life-insurers/INDEX",
       "non-life-insurers/aig-japan",
       "non-life-insurers/hs-insurance",
       "non-life-insurers/ji-accident-fire-insurance"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/financial-licenses/insurance-license-and-solvency",
       "https://finwiki.zksc.io/insurance/INDEX",
       "https://finwiki.zksc.io/insurance/direct-nonlife-insurance-japan",
+      "https://finwiki.zksc.io/non-life-insurers/INDEX",
       "https://finwiki.zksc.io/non-life-insurers/aig-japan",
       "https://finwiki.zksc.io/non-life-insurers/hs-insurance",
       "https://finwiki.zksc.io/non-life-insurers/ji-accident-fire-insurance"
@@ -74,9 +74,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2296,
-    "word_like_tokens": 365,
+    "nonspace_chars": 2306,
+    "word_like_tokens": 367,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

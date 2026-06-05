@@ -57,10 +57,9 @@
     "7. Counterpoints"
   ],
   "body_links": {
-    "wikilinks_count": 17,
+    "wikilinks_count": 16,
     "wikilinks": [
       "INDEX",
-      "JapanFG/INDEX",
       "JapanFG/rakuten-bank",
       "business/INDEX",
       "business/gmo-internet-group",
@@ -79,7 +78,6 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/JapanFG/rakuten-bank",
       "https://finwiki.zksc.io/business/INDEX",
       "https://finwiki.zksc.io/business/gmo-internet-group",
@@ -100,9 +98,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 9150,
+    "nonspace_chars": 9152,
     "word_like_tokens": 1476,
     "inbound_wikilinks_count": 6,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

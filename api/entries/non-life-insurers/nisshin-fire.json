@@ -36,7 +36,7 @@
       "https://www.nisshinfire.co.jp/company/"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 東京海上日動火災保険 for peer / contrast context and insurance index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under non-life-insurers INDEX. Read it against 東京海上日動火災保険 for peer / contrast context and insurance index for the broader system / regulatory boundary.",
   "headings": [
     "日新火災海上保険",
     "Wiki route",
@@ -50,16 +50,16 @@
   "body_links": {
     "wikilinks_count": 6,
     "wikilinks": [
-      "JapanFG/INDEX",
       "insurance/INDEX",
+      "non-life-insurers/INDEX",
       "non-life-insurers/tokio-marine-nichido-fire",
       "tokio-marine",
       "tokio-marine-direct",
       "tokio-marine-nichido-fire"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/insurance/INDEX",
+      "https://finwiki.zksc.io/non-life-insurers/INDEX",
       "https://finwiki.zksc.io/non-life-insurers/tokio-marine-nichido-fire",
       "https://finwiki.zksc.io/tokio-marine",
       "https://finwiki.zksc.io/tokio-marine-direct",
@@ -69,9 +69,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1877,
-    "word_like_tokens": 291,
+    "nonspace_chars": 1897,
+    "word_like_tokens": 295,
     "inbound_wikilinks_count": 2,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

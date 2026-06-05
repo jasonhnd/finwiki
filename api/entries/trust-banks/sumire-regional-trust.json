@@ -35,7 +35,7 @@
       "Zentaku case page: https://www.zentaku.or.jp/about/research_project/renovation/renovation-10582/"
     ]
   },
-  "summary": "Wiki route: JapanFG/INDEX -> trust-banks/trust-companies-japan-index -> trust-banks/sumire-regional-trust",
+  "summary": "Wiki route: trust-banks/INDEX -> trust-banks/trust-companies-japan-index -> trust-banks/sumire-regional-trust",
   "headings": [
     "Sumire Regional Trust / すみれ地域信託",
     "Overview",
@@ -50,8 +50,8 @@
     "wikilinks_count": 7,
     "wikilinks": [
       "INDEX",
-      "JapanFG/INDEX",
       "policy-finance/japan-credit-guarantee-system",
+      "trust-banks/INDEX",
       "trust-banks/greif-trust",
       "trust-banks/kiriu-real-estate-trust",
       "trust-banks/sumire-regional-trust",
@@ -59,8 +59,8 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/policy-finance/japan-credit-guarantee-system",
+      "https://finwiki.zksc.io/trust-banks/INDEX",
       "https://finwiki.zksc.io/trust-banks/greif-trust",
       "https://finwiki.zksc.io/trust-banks/kiriu-real-estate-trust",
       "https://finwiki.zksc.io/trust-banks/sumire-regional-trust",
@@ -70,9 +70,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2320,
-    "word_like_tokens": 360,
+    "nonspace_chars": 2324,
+    "word_like_tokens": 361,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

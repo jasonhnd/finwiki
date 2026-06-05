@@ -1,5 +1,5 @@
 ---
-source: japanfg/tokyo-shobo-shinkumi
+source: cooperative-banks/tokyo-shobo-shinkumi
 source_hash: fbb0101ff62600a5
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.131Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **Tokyo Fire Department employee occupation-based shinkumi anchor**, completing the Tokyo emergency/civil-service shinkumi trio with [[cooperative-banks/keishicho-shinkumi|警視庁職員信用組合]], the police peer, and [[cooperative-banks/tokyo-to-shokuin-shinkumi|東京都職員信用組合]], the metropolitan civil-servant peer, within the 143-cooperative population catalogued in [[banking/credit-cooperative-registry-japan|Japan credit cooperative registry]].
+This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as the **Tokyo Fire Department employee occupation-based shinkumi anchor**, completing the Tokyo emergency/civil-service shinkumi trio with [[cooperative-banks/keishicho-shinkumi|警視庁職員信用組合]], the police peer, and [[cooperative-banks/tokyo-to-shokuin-shinkumi|東京都職員信用組合]], the metropolitan civil-servant peer, within the 143-cooperative population catalogued in [[banking/credit-cooperative-registry-japan|Japan credit cooperative registry]].
 
 ## TL;DR
 
@@ -103,7 +103,7 @@ Because it is an occupation-based shinkumi, membership eligibility is strictly *
 - [[banking/credit-cooperative-registry-japan]] — Japan credit cooperative registry, overall 143  shinkumi
 - [[banking/cooperative-banking-japan]] — cooperative finance overall
 - [[cooperative-banks/iwaki-shinkumi]] — Iwaki Credit Cooperative, regional-type shinkumi peer for business-type contrast
-- [[JapanFG/INDEX|JapanFG index]]
+- [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 
 ## Sources
 

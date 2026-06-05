@@ -24,7 +24,7 @@ sources:
 
 ## Wiki route
 
-National Australia Bank Japan sits under [[JapanFG/INDEX|JapanFG index]] and is an Australia-Japan wholesale bank route in [[foreign-financial-institutions/foreign-bank-branches-japan-index|the foreign-bank branch registry]]. Read it with [[foreign-financial-institutions/commonwealth-bank-japan|Commonwealth Bank Japan]], [[securities-firms/anz-bank-japan|ANZ Bank Japan]], [[financial-licenses/foreign-financial-group-adjacent-licenses|foreign financial group adjacent licenses]], and [[securities/financial-instruments-business-operators-japan-index|FIEA operator registry]].
+National Australia Bank Japan sits under [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]] and is an Australia-Japan wholesale bank route in [[foreign-financial-institutions/foreign-bank-branches-japan-index|the foreign-bank branch registry]]. Read it with [[foreign-financial-institutions/commonwealth-bank-japan|Commonwealth Bank Japan]], [[securities-firms/anz-bank-japan|ANZ Bank Japan]], [[financial-licenses/foreign-financial-group-adjacent-licenses|foreign financial group adjacent licenses]], and [[securities/financial-instruments-business-operators-japan-index|FIEA operator registry]].
 
 Use this page when the question is about NAB's Japan branch, Japan-Australia corporate finance, capital markets, markets products, correspondent banking, or the relation between bank-branch and securities-entity surfaces.
 
@@ -70,7 +70,7 @@ NAB's page does not be merged into the generic Australia-bank bucket. [[securiti
 
 ## Related
 
-- [[JapanFG/INDEX]]
+- [[foreign-financial-institutions/INDEX]]
 - [[foreign-financial-institutions/foreign-bank-branches-japan-index]]
 - [[foreign-financial-institutions/commonwealth-bank-japan]]
 - [[securities-firms/anz-bank-japan]]

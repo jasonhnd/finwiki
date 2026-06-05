@@ -1,5 +1,5 @@
 ---
-source: japanfg/aeon-bank
+source: card-issuers/aeon-bank
 source_hash: 1552bc3f7d44337c
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T11:13:44.914Z
 
 ## Wiki Route
 
-This entry sits under the [[JapanFG/INDEX|JapanFG index]]. Read it against [[regional-banks/seven-bank|Seven Bank]] for retail-bank peer context and [[banking/INDEX|banking index]] for the broader system and regulatory boundary.
+This entry sits under the [[card-issuers/INDEX|card-issuers INDEX]]. Read it against [[regional-banks/seven-bank|Seven Bank]] for retail-bank peer context and [[banking/INDEX|banking index]] for the broader system and regulatory boundary.
 
 ## TL;DR
 

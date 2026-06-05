@@ -1,5 +1,5 @@
 ---
-source: japanfg/sumitomo-mitsui-auto-service
+source: leasing-firms/sumitomo-mitsui-auto-service
 source_hash: 1bc5653f341c7ebb
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T15:14:17.130Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に位置づける。[[leasing-firms/smfl|SMFL]] は同じ親会社（[[megabanks/smfg|SMFG]] + [[trading-company-finance/sumitomo-corp-financial-management|住友商事系]]）による姉妹の総合リース JV であり、[[trading-company-finance/sumitomo-corp-financial-management|住友商事フィナンシャルマネジメント]] は住友商事の社内財務機能として併せて読む。オート / フリート金融の比較対象は [[card-issuers/toyota-finance|トヨタファイナンス]]（トヨタ販売店・自動車金融）と [[leasing-firms/toyota-financial|TFS]] を参照する。商社系金融の比較群は [[trading-company-finance/mitsubishi-corp-finance|三菱商事FS]] / [[trading-company-finance/mitsui-bussan-financial-services|三井物産FS]] / [[trading-company-finance/itochu-finance|伊藤忠ファイナンス]] / [[trading-company-finance/marubeni-financial-services|丸紅フィナンス]] / [[trading-company-finance/toyota-tsusho-finance|豊田通商フィナンス]] / [[trading-company-finance/sojitz-finance|双日フィナンス]] / [[asset-managers/mitsubishi-corp-asset-management|三菱商事系AM]]。より広い規制上の境界は [[banking/INDEX|banking index]] を参照する。
+この項目は [[leasing-firms/INDEX|leasing-firms INDEX]] の配下に位置づける。[[leasing-firms/smfl|SMFL]] は同じ親会社（[[megabanks/smfg|SMFG]] + [[trading-company-finance/sumitomo-corp-financial-management|住友商事系]]）による姉妹の総合リース JV であり、[[trading-company-finance/sumitomo-corp-financial-management|住友商事フィナンシャルマネジメント]] は住友商事の社内財務機能として併せて読む。オート / フリート金融の比較対象は [[card-issuers/toyota-finance|トヨタファイナンス]]（トヨタ販売店・自動車金融）と [[leasing-firms/toyota-financial|TFS]] を参照する。商社系金融の比較群は [[trading-company-finance/mitsubishi-corp-finance|三菱商事FS]] / [[trading-company-finance/mitsui-bussan-financial-services|三井物産FS]] / [[trading-company-finance/itochu-finance|伊藤忠ファイナンス]] / [[trading-company-finance/marubeni-financial-services|丸紅フィナンス]] / [[trading-company-finance/toyota-tsusho-finance|豊田通商フィナンス]] / [[trading-company-finance/sojitz-finance|双日フィナンス]] / [[asset-managers/mitsubishi-corp-asset-management|三菱商事系AM]]。より広い規制上の境界は [[banking/INDEX|banking index]] を参照する。
 
 ## 1. 会社概要
 

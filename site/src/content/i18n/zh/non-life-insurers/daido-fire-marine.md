@@ -1,5 +1,5 @@
 ---
-source: japanfg/daido-fire-marine
+source: non-life-insurers/daido-fire-marine
 source_hash: 3fdfd734f4c81d7f
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T15:29:03.916Z
 
 ## Wiki 路由
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]]。可与 [[non-life-insurers/sompo|SOMPO Holdings]] 作同业 / 对照阅读，并与 [[banking/INDEX|banking index]] 共同把握更广泛的系统和监管边界。
+本条目位于 [[non-life-insurers/INDEX|non-life-insurers INDEX]]。可与 [[non-life-insurers/sompo|SOMPO Holdings]] 作同业 / 对照阅读，并与 [[banking/INDEX|banking index]] 共同把握更广泛的系统和监管边界。
 
 ## TL;DR
 

@@ -1,5 +1,5 @@
 ---
-source: japanfg/gmo-coin
+source: payment-firms/gmo-coin
 source_hash: 345227176bc44182
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T15:29:03.865Z
 
 ## Wiki route
 
-This entry sits in the JapanFG route specified by the source file. Main context: [[JapanFG/INDEX|JapanFG index]] [[securities-firms/monex-group|Monex Group (Monex Group)]] [[banking/INDEX|banking index]] No. 00006 1  3  20  [[gmo-payment-gateway|GMO Payment Gateway]] [[gmo-aozora-net|GMO Aozora Net Bank]] [[bitflyer]] [[monex-group]] [[sbi-hd]] [[bittrade]] 1 2016-10-21 26 1  No. 00006 [[payment-firms/gmo-financial-hd|GMO Financial Holdings]] 7177
+This entry sits in the JapanFG route specified by the source file. Main context: [[payment-firms/INDEX|payment-firms INDEX]] [[securities-firms/monex-group|Monex Group (Monex Group)]] [[banking/INDEX|banking index]] No. 00006 1  3  20  [[gmo-payment-gateway|GMO Payment Gateway]] [[gmo-aozora-net|GMO Aozora Net Bank]] [[bitflyer]] [[monex-group]] [[sbi-hd]] [[bittrade]] 1 2016-10-21 26 1  No. 00006 [[payment-firms/gmo-financial-hd|GMO Financial Holdings]] 7177
 
 ## TL;DR
 

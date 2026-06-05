@@ -1,5 +1,5 @@
 ---
-source: japanfg/sakura-insurance
+source: non-life-insurers/sakura-insurance
 source_hash: 29f4b496edc135cf
 lang: en
 status: machine
@@ -9,7 +9,7 @@ translated_at: 2026-06-01T00:41:50.477Z
 ---
 # Sakura Insurance / Sakura Non-Life Insurance
 
-Wiki route: [[JapanFG/INDEX]] -> [[insurance/INDEX]] -> [[non-life-insurers/sakura-insurance]]
+Wiki route: [[non-life-insurers/INDEX]] -> [[insurance/INDEX]] -> [[non-life-insurers/sakura-insurance]]
 
 ## Overview
 

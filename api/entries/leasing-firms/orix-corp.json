@@ -35,7 +35,7 @@
       "ORIX 公式 IR・沿革 (2025 年度更新)"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 東京センチュリー株式会社 (Tokyo Century Corporation) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under leasing-firms INDEX. Read it against 東京センチュリー株式会社 (Tokyo Century Corporation) for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [
     "オリックス株式会社 (ORIX Corporation)",
     "Wiki route",
@@ -51,8 +51,8 @@
   "body_links": {
     "wikilinks_count": 10,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
+      "leasing-firms/INDEX",
       "leasing-firms/fuyo-lease",
       "leasing-firms/mitsubishi-hc-capital",
       "leasing-firms/ntt-tc-lease",
@@ -63,8 +63,8 @@
       "smfg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/leasing-firms/INDEX",
       "https://finwiki.zksc.io/leasing-firms/fuyo-lease",
       "https://finwiki.zksc.io/leasing-firms/mitsubishi-hc-capital",
       "https://finwiki.zksc.io/leasing-firms/ntt-tc-lease",
@@ -78,9 +78,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4628,
-    "word_like_tokens": 782,
+    "nonspace_chars": 4640,
+    "word_like_tokens": 784,
     "inbound_wikilinks_count": 32,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

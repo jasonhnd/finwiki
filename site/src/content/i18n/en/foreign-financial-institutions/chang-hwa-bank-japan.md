@@ -1,5 +1,5 @@
 ---
-source: japanfg/chang-hwa-bank-japan
+source: foreign-financial-institutions/chang-hwa-bank-japan
 source_hash: 1537aae264fa19ad
 lang: en
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T11:13:44.907Z
 
 ## Wiki route
 
-Chang Hwa Bank Japan sits under[[JapanFG/INDEX|JapanFG index]]and is a Taiwan-Japan foreign-bank branch route in[[foreign-financial-institutions/foreign-bank-branches-japan-index|the foreign-bank branch registry]]. Read it with[[foreign-financial-institutions/first-commercial-bank-japan|First Commercial Bank Japan]],[[foreign-financial-institutions/bank-of-taiwan-japan|Bank of Taiwan Japan]],[[foreign-financial-institutions/mega-icbc-japan|Mega ICBC Japan]], and[[banking/foreign-bank-japan-retreat|foreign-bank Japan retreat]].
+Chang Hwa Bank Japan sits under[[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]]and is a Taiwan-Japan foreign-bank branch route in[[foreign-financial-institutions/foreign-bank-branches-japan-index|the foreign-bank branch registry]]. Read it with[[foreign-financial-institutions/first-commercial-bank-japan|First Commercial Bank Japan]],[[foreign-financial-institutions/bank-of-taiwan-japan|Bank of Taiwan Japan]],[[foreign-financial-institutions/mega-icbc-japan|Mega ICBC Japan]], and[[banking/foreign-bank-japan-retreat|foreign-bank Japan retreat]].
 
 Use this page for Taiwan-Japan corporate banking, trade finance, remittance, FX, and syndicated-loan route questions around Chang Hwa Bank Tokyo Branch.
 
@@ -58,7 +58,7 @@ For FinWiki, the page should stay at branch / corridor level. It should not infe
 
 ## Related
 
-- [[JapanFG/INDEX]]
+- [[foreign-financial-institutions/INDEX]]
 - [[foreign-financial-institutions/foreign-bank-branches-japan-index]]
 - [[foreign-financial-institutions/first-commercial-bank-japan]]
 - [[foreign-financial-institutions/taishin-bank-japan]]

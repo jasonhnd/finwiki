@@ -1,5 +1,5 @@
 ---
-source: japanfg/bdo-sanyu
+source: financial-regulators/bdo-sanyu
 source_hash: 12a2d666c8ef0cd7
 lang: ja
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-02T14:01:20.968Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] 配下に位置づける。中堅監査法人のピア文脈は [[financial-regulators/taiyo-grant-thornton|太陽グラントソントン]]、[[financial-regulators/ey-shinnihon|EY 新日本]]・[[financial-regulators/deloitte-touche-tohmatsu|トーマツ]] は Big 4 比較、公認会計士法 / 監査品質管理の規制境界は [[financial-licenses/INDEX|金融ライセンス INDEX]] とあわせて読む。CPAAOB 監督文脈は [[financial-regulators/fsa-supervision-bureau|金融庁 監督局]] と [[financial-regulators/fsa-strategy-bureau|金融庁 総合政策局]] の所管。
+この項目は [[financial-regulators/INDEX|financial-regulators INDEX]] 配下に位置づける。中堅監査法人のピア文脈は [[financial-regulators/taiyo-grant-thornton|太陽グラントソントン]]、[[financial-regulators/ey-shinnihon|EY 新日本]]・[[financial-regulators/deloitte-touche-tohmatsu|トーマツ]] は Big 4 比較、公認会計士法 / 監査品質管理の規制境界は [[financial-licenses/INDEX|金融ライセンス INDEX]] とあわせて読む。CPAAOB 監督文脈は [[financial-regulators/fsa-supervision-bureau|金融庁 監督局]] と [[financial-regulators/fsa-strategy-bureau|金融庁 総合政策局]] の所管。
 
 ## 1. 法人概要
 

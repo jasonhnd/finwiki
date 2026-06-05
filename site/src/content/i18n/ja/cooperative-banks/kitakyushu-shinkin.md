@@ -1,5 +1,5 @@
 ---
-source: japanfg/kitakyushu-shinkin
+source: cooperative-banks/kitakyushu-shinkin
 source_hash: 9b65f08028afd9cf
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:54:39.097Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] 配下に置く。九州の商業銀行側の比較対象として [[regional-banks/fukuoka-fg|ふくおかフィナンシャルグループ]]（[[regional-banks/fukuoka-bank|福岡銀行]]・[[regional-banks/kumamoto-bank|熊本銀行]]・[[regional-banks/18-shinwa-bank|十八親和銀行]]）と [[regional-banks/nishi-nippon-fh|西日本フィナンシャルホールディングス]]（[[regional-banks/nishi-nippon-city-bank|西日本シティ銀行]]）を参照する。同名の地域商業銀行については [[regional-banks/kitakyushu-bank|北九州銀行]]（山口 FG 傘下、北九州市地盤の第二地銀）を参照する。[[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]] を参照することで、より広い 254 信用金庫システムを確認できる。このシステムは [[cooperative-banks/shinkin-central|信金中央金庫]] が維持し、[[financial-regulators/zenshin-kyo|全国信用金庫協会]] が代表する。九州財務局管内 13 信用金庫 + 福岡財務支局管内 13 信用金庫 + 沖縄総合事務局管内 1 信用金庫 = 九州沖縄ブロック計 27 信用金庫の代表的な都市アンカー項目である。
+この項目は [[cooperative-banks/INDEX|cooperative-banks INDEX]] 配下に置く。九州の商業銀行側の比較対象として [[regional-banks/fukuoka-fg|ふくおかフィナンシャルグループ]]（[[regional-banks/fukuoka-bank|福岡銀行]]・[[regional-banks/kumamoto-bank|熊本銀行]]・[[regional-banks/18-shinwa-bank|十八親和銀行]]）と [[regional-banks/nishi-nippon-fh|西日本フィナンシャルホールディングス]]（[[regional-banks/nishi-nippon-city-bank|西日本シティ銀行]]）を参照する。同名の地域商業銀行については [[regional-banks/kitakyushu-bank|北九州銀行]]（山口 FG 傘下、北九州市地盤の第二地銀）を参照する。[[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]] を参照することで、より広い 254 信用金庫システムを確認できる。このシステムは [[cooperative-banks/shinkin-central|信金中央金庫]] が維持し、[[financial-regulators/zenshin-kyo|全国信用金庫協会]] が代表する。九州財務局管内 13 信用金庫 + 福岡財務支局管内 13 信用金庫 + 沖縄総合事務局管内 1 信用金庫 = 九州沖縄ブロック計 27 信用金庫の代表的な都市アンカー項目である。
 
 ## 要約
 
@@ -80,7 +80,7 @@ translated_at: 2026-06-02T14:54:39.097Z
 
 ## 関連
 
-- [[JapanFG/INDEX|JapanFG index]]
+- [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 - [[cooperative-banks/shinkin-central|信金中央金庫]]
 - [[financial-regulators/zenshin-kyo|全国信用金庫協会]]
 - [[cooperative-banks/shinkin-network-services|信金ネットワークサービス]]

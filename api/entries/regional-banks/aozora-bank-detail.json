@@ -39,7 +39,7 @@
       "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx"
     ]
   },
-  "summary": "This entry sits under JapanFG index and complements the company-level summary at あおぞら銀行. Read it against SBI 新生銀行 for post-rehabilitation peer context, 三菱UFJ銀行 / SMBC / みずほ銀行 for mega-bank contrast, and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under regional-banks INDEX and complements the company-level summary at あおぞら銀行. Read it against SBI 新生銀行 for post-rehabilitation peer context, 三菱UFJ銀行 / SMBC / みずほ銀行 for mega-bank contrast, and banking index for the broader system / regulatory boundary.",
   "headings": [
     "あおぞら銀行 事業詳細 (Aozora Bank Operating Profile)",
     "Wiki route",
@@ -55,21 +55,21 @@
   "body_links": {
     "wikilinks_count": 8,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "megabanks/mizuho-bank",
       "megabanks/mufg-bank",
       "megabanks/smbc",
+      "regional-banks/INDEX",
       "regional-banks/aozora-bank",
       "regional-banks/sbi-shinsei-bank",
       "regional-banks/tokyo-star-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/megabanks/mizuho-bank",
       "https://finwiki.zksc.io/megabanks/mufg-bank",
       "https://finwiki.zksc.io/megabanks/smbc",
+      "https://finwiki.zksc.io/regional-banks/INDEX",
       "https://finwiki.zksc.io/regional-banks/aozora-bank",
       "https://finwiki.zksc.io/regional-banks/sbi-shinsei-bank",
       "https://finwiki.zksc.io/regional-banks/tokyo-star-bank"
@@ -78,9 +78,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4582,
-    "word_like_tokens": 733,
+    "nonspace_chars": 4610,
+    "word_like_tokens": 737,
     "inbound_wikilinks_count": 1,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

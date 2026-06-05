@@ -1,5 +1,5 @@
 ---
-source: japanfg/nagoya-shinkin
+source: cooperative-banks/nagoya-shinkin
 source_hash: 024a60d9b5216c32
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:54:39.041Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に置く。[[cooperative-banks/okazaki-shinkin|岡崎信用金庫]]（西三河 / Aichi 南東部の自動車サプライチェーン アンカー）と [[cooperative-banks/hamamatsu-iwata-shinkin|浜松磐田信用金庫]]（静岡西部 / 東海西端 アンカー）は地域信用金庫の同業ブロックとして読む。[[regional-banks/nagoya-bank|名古屋銀行]] と [[regional-banks/aichi-bank|あいち銀行]]（旧 愛知銀行＋中京銀行）は愛知県内の商業銀行側の対応先、[[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]] は、254-信用金庫システムというより広い枠組みとして、[[cooperative-banks/shinkin-central|信金中央金庫]] が維持し [[financial-regulators/zenshin-kyo|全国信用金庫協会]] が代表する制度面と合わせて読む。東海財務局管内 34 信用金庫は全国 2 位の地区規模、名古屋都市部のアンカーとして本ページが位置付けられる。
+この項目は [[cooperative-banks/INDEX|cooperative-banks INDEX]] の配下に置く。[[cooperative-banks/okazaki-shinkin|岡崎信用金庫]]（西三河 / Aichi 南東部の自動車サプライチェーン アンカー）と [[cooperative-banks/hamamatsu-iwata-shinkin|浜松磐田信用金庫]]（静岡西部 / 東海西端 アンカー）は地域信用金庫の同業ブロックとして読む。[[regional-banks/nagoya-bank|名古屋銀行]] と [[regional-banks/aichi-bank|あいち銀行]]（旧 愛知銀行＋中京銀行）は愛知県内の商業銀行側の対応先、[[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]] は、254-信用金庫システムというより広い枠組みとして、[[cooperative-banks/shinkin-central|信金中央金庫]] が維持し [[financial-regulators/zenshin-kyo|全国信用金庫協会]] が代表する制度面と合わせて読む。東海財務局管内 34 信用金庫は全国 2 位の地区規模、名古屋都市部のアンカーとして本ページが位置付けられる。
 
 ## 要約
 
@@ -83,7 +83,7 @@ translated_at: 2026-06-02T14:54:39.041Z
 
 ## 関連項目
 
-- [[JapanFG/INDEX|JapanFG index]]
+- [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 - [[cooperative-banks/shinkin-central|信金中央金庫]]
 - [[financial-regulators/zenshin-kyo|全国信用金庫協会]]
 - [[cooperative-banks/shinkin-network-services|信金ネットワークサービス]]

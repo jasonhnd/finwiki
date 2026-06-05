@@ -39,7 +39,7 @@
       "https://www.fsa.go.jp/menkyo/hoken.pdf"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against トーア再保険 for a reinsurance peer (both sit outside the FSA non-life direct primary register) and 日本海事協会 (ClassNK) for the closest marine-industry sibling. The broader system frame is insurance index and the global P&I context is the International Gro",
+  "summary": "This entry sits under financial-regulators INDEX. Read it against トーア再保険 for a reinsurance peer (both sit outside the FSA non-life direct primary register) and 日本海事協会 (ClassNK) for the closest marine-industry sibling. The broader system frame is insurance index and the global P&I context is the Inte",
   "headings": [
     "日本船主責任相互保険組合",
     "Wiki route",
@@ -53,7 +53,7 @@
   "body_links": {
     "wikilinks_count": 9,
     "wikilinks": [
-      "JapanFG/INDEX",
+      "financial-regulators/INDEX",
       "financial-regulators/nippon-kaiji-kyokai",
       "insurance/INDEX",
       "mitsui-sumitomo-insurance",
@@ -64,7 +64,7 @@
       "tokio-marine-nichido-fire"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/financial-regulators/INDEX",
       "https://finwiki.zksc.io/financial-regulators/nippon-kaiji-kyokai",
       "https://finwiki.zksc.io/insurance/INDEX",
       "https://finwiki.zksc.io/mitsui-sumitomo-insurance",
@@ -78,9 +78,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2482,
-    "word_like_tokens": 408,
+    "nonspace_chars": 2521,
+    "word_like_tokens": 411,
     "inbound_wikilinks_count": 9,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

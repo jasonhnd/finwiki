@@ -1,5 +1,5 @@
 ---
-source: japanfg/orient-trust-japan
+source: trust-banks/orient-trust-japan
 source_hash: 97d2e6c0e5292331
 lang: ja
 status: machine
@@ -15,7 +15,7 @@ translated_at: 2026-06-02T15:14:17.100Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] 外資系信託・資産サービシング子会社のアンカーとしてに置かれる。比較対象として[[foreign-financial-institutions/state-street-japan|State Street Japan]] / [[foreign-financial-institutions/bny-mellon-japan|BNY Mellon Japan]] / [[foreign-financial-institutions/jpmorgan-japan|JPMorgan Japan]] 外資系カストディ・資産サービシングの同業群を確認する, [[trust-banks/master-trust-bank|マスタートラスト信託銀行]] / [[trust-banks/mitsubishi-ufj-trust-bank|三菱 UFJ 信託銀行]] 国内信託の同業群を確認する, [[trust-banks/trust-companies-japan-index|the Japan trust companies registry index]] 登録簿上の文脈を確認する, and [[banking/japan-trust-bank-custody-map|the Japan trust-bank custody map]] 制度上の位置づけを確認する.
+この項目は [[trust-banks/INDEX|trust-banks INDEX]] 外資系信託・資産サービシング子会社のアンカーとしてに置かれる。比較対象として[[foreign-financial-institutions/state-street-japan|State Street Japan]] / [[foreign-financial-institutions/bny-mellon-japan|BNY Mellon Japan]] / [[foreign-financial-institutions/jpmorgan-japan|JPMorgan Japan]] 外資系カストディ・資産サービシングの同業群を確認する, [[trust-banks/master-trust-bank|マスタートラスト信託銀行]] / [[trust-banks/mitsubishi-ufj-trust-bank|三菱 UFJ 信託銀行]] 国内信託の同業群を確認する, [[trust-banks/trust-companies-japan-index|the Japan trust companies registry index]] 登録簿上の文脈を確認する, and [[banking/japan-trust-bank-custody-map|the Japan trust-bank custody map]] 制度上の位置づけを確認する.
 
 ## 1. 親会社概要
 
@@ -137,7 +137,7 @@ Northern Trust Corporation（米 NASDAQ: NTRS）
 - [[trust-banks/lgt-wealth-management-trust]] — 外資 wealth mgmt 信託ピア
 - [[trust-banks/trust-companies-japan-index]] — 信託会社レジストリ
 - [[banking/japan-trust-bank-custody-map]] — 信託銀行カストディマップ
-- [[JapanFG/INDEX]] — JapanFG namespace index
+- [[trust-banks/INDEX]] — JapanFG namespace index
 
 ## 出典
 

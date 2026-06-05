@@ -1,5 +1,5 @@
 ---
-source: japanfg/chugoku-bank
+source: regional-banks/chugoku-bank
 source_hash: c323c13e54a966f0
 lang: ja
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-06-02T14:01:20.962Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に位置する。ピア比較 / 対照文脈は [[regional-banks/hiroshima-bank|広島銀行]]、より広いシステム / 規制上の境界は [[banking/INDEX|banking index]] と照合して読む。
+この項目は [[regional-banks/INDEX|regional-banks INDEX]] の配下に位置する。ピア比較 / 対照文脈は [[regional-banks/hiroshima-bank|広島銀行]]、より広いシステム / 規制上の境界は [[banking/INDEX|banking index]] と照合して読む。
 
 ## 要約
 

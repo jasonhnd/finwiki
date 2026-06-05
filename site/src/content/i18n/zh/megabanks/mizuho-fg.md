@@ -1,5 +1,5 @@
 ---
-source: japanfg/mizuho-fg
+source: megabanks/mizuho-fg
 source_hash: 73ee657ed46f570a
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:59:49.357Z
 
 ## Wiki 路径
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 下。可与 [[megabanks/mufg|三菱 UFJ FG (MUFG)]] 对读，作为同业 / 对照语境；也可与 [[banking/INDEX|banking index]] 对读，理解更广的系统与监管边界。
+本条目位于 [[megabanks/INDEX|megabanks INDEX]] 下。可与 [[megabanks/mufg|三菱 UFJ FG (MUFG)]] 对读，作为同业 / 对照语境；也可与 [[banking/INDEX|banking index]] 对读，理解更广的系统与监管边界。
 
 ## TL;DR
 

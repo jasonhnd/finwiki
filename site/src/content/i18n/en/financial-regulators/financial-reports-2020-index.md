@@ -1,5 +1,5 @@
 ---
-source: japanfg/financial-reports-2020-index
+source: financial-regulators/financial-reports-2020-index
 source_hash: f515edbaef7ad578
 lang: en
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T15:29:03.887Z
 
 ## TL;DR
 
-This page consolidates entry points for **official financial reports, integrated reports, disclosure booklets, securities reports, and parent-company annual reports from 2020 onward** for financial companies and institutions in the [[JapanFG/INDEX|JapanFG namespace]].
+This page consolidates entry points for **official financial reports, integrated reports, disclosure booklets, securities reports, and parent-company annual reports from 2020 onward** for financial companies and institutions in the [[financial-regulators/INDEX|financial-regulators INDEX]].
 
 The policy is **archive-first**: record official archive or back-number pages that can cover all reports from 2020 onward. Use direct PDF examples, parent-company annual reports, regulatory disclosures, or a public annual-report gap note only when the official site lacks a complete archive.
 
@@ -280,7 +280,7 @@ For these, the reliable five-year source is normally the parent annual report pl
 
 ## Related
 
-- [[JapanFG/INDEX|JapanFG INDEX]]
+- [[financial-regulators/INDEX|financial-regulators INDEX]]
 - [[financial-licenses/INDEX|JapanFG legal / financial licenses]]
 - [[finance/INDEX|finance INDEX]]
 - [[securities/INDEX|securities INDEX]]

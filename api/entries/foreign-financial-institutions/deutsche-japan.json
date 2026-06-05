@@ -36,7 +36,7 @@
       "公開報道 (Reuters / Bloomberg / 日経 / FT, 2019-2024 リストラ報道)"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against シティグループ・ジャパン (Citigroup Japan) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under foreign-financial-institutions INDEX. Read it against シティグループ・ジャパン (Citigroup Japan) for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [
     "ドイチェ・ジャパン (Deutsche Japan)",
     "Wiki route",
@@ -52,10 +52,10 @@
   "body_links": {
     "wikilinks_count": 13,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "barclays-japan",
       "citigroup-japan",
+      "foreign-financial-institutions/INDEX",
       "foreign-financial-institutions/bnp-paribas-japan",
       "foreign-financial-institutions/citigroup-japan",
       "foreign-financial-institutions/socgen-japan",
@@ -67,10 +67,10 @@
       "ubs-japan"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/barclays-japan",
       "https://finwiki.zksc.io/citigroup-japan",
+      "https://finwiki.zksc.io/foreign-financial-institutions/INDEX",
       "https://finwiki.zksc.io/foreign-financial-institutions/bnp-paribas-japan",
       "https://finwiki.zksc.io/foreign-financial-institutions/citigroup-japan",
       "https://finwiki.zksc.io/foreign-financial-institutions/socgen-japan",
@@ -85,9 +85,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4356,
-    "word_like_tokens": 708,
+    "nonspace_chars": 4402,
+    "word_like_tokens": 712,
     "inbound_wikilinks_count": 13,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

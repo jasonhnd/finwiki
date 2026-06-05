@@ -35,7 +35,7 @@ canonical_anchor: regional-banks/yucho
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]] as the operating-profile companion to the entity anchor at [[regional-banks/yucho|ゆうちょ銀行 (Japan Post Bank) entity anchor]]. Read it against [[megabanks/mufg|MUFG]] · [[megabanks/smfg|SMFG]] · [[megabanks/mizuho-fg|Mizuho FG]] for the megabank-asset-class peer comparison, against [[megabanks/resona-hd|りそなホールディングス]] for the listed non-megabank universal-bank peer, against [[banking/cooperative-banking-japan|cooperative banking Japan]] for the next-largest deposit-mass system outside the megabanks, and against [[banking/post-megabank-positioning|post-megabank positioning]] for the structural read of where Japan Post Bank sits in the listed retail-bank universe. Pair it with [[policy-finance/japan-policy-finance-system|Japan policy finance system]] for the residual government-finance perimeter and with [[banking/japan-net-bank-competition-map|Japan net bank competition map]] for the digital-distribution comparator.
+This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] as the operating-profile companion to the entity anchor at [[regional-banks/yucho|ゆうちょ銀行 (Japan Post Bank) entity anchor]]. Read it against [[megabanks/mufg|MUFG]] · [[megabanks/smfg|SMFG]] · [[megabanks/mizuho-fg|Mizuho FG]] for the megabank-asset-class peer comparison, against [[megabanks/resona-hd|りそなホールディングス]] for the listed non-megabank universal-bank peer, against [[banking/cooperative-banking-japan|cooperative banking Japan]] for the next-largest deposit-mass system outside the megabanks, and against [[banking/post-megabank-positioning|post-megabank positioning]] for the structural read of where Japan Post Bank sits in the listed retail-bank universe. Pair it with [[policy-finance/japan-policy-finance-system|Japan policy finance system]] for the residual government-finance perimeter and with [[banking/japan-net-bank-competition-map|Japan net bank competition map]] for the digital-distribution comparator.
 
 ## 1. Group and ownership position
 
@@ -185,7 +185,7 @@ The 2019 かんぽ生命 mis-selling scandal (inappropriate sales of insurance p
 
 ## Related
 
-- [[JapanFG/INDEX]]
+- [[regional-banks/INDEX]]
 - [[regional-banks/yucho]] — entity-anchor companion page
 - [[megabanks/japan-post-holdings]]
 - [[megabanks/japan-post]]

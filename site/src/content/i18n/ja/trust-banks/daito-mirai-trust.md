@@ -1,5 +1,5 @@
 ---
-source: japanfg/daito-mirai-trust
+source: trust-banks/daito-mirai-trust
 source_hash: ae3a15f0c3fa1a64
 lang: ja
 status: machine
@@ -10,7 +10,7 @@ translated_at: 2026-06-02T14:25:12.398Z
 
 # 大東みらい信託
 
-ウィキ上の位置づけ: [[JapanFG/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/daito-mirai-trust]]
+ウィキ上の位置づけ: [[trust-banks/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/daito-mirai-trust]]
 
 ## 概要
 

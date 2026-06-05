@@ -1,5 +1,5 @@
 ---
-source: japanfg/jpyc
+source: payment-firms/jpyc
 source_hash: 0408b114162a53fa
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T23:59:49.418Z
 
 ## Wiki 路线
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可对照 [[payment-firms/wise-payments-japan|Wise Payments Japan]] 理解同业 / 对比背景，并参照 [[payments/INDEX|payments index]] 理解更广泛的系统 / 监管边界。
+本条目位于 [[payment-firms/INDEX|payment-firms INDEX]] 之下。可对照 [[payment-firms/wise-payments-japan|Wise Payments Japan]] 理解同业 / 对比背景，并参照 [[payments/INDEX|payments index]] 理解更广泛的系统 / 监管边界。
 
 ## TL;DR
 

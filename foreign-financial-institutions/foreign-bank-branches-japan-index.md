@@ -20,7 +20,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[foreign-financial-institutions/icbc-japan|中国工商銀行 東京支店]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]]. Read it against [[foreign-financial-institutions/icbc-japan|中国工商銀行 東京支店]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## Overview
 
@@ -146,7 +146,7 @@ No registry-only rows remain as of this pass. Future changes should follow FSA l
 
 ## Related
 
-- [[JapanFG/INDEX]]
+- [[foreign-financial-institutions/INDEX]]
 - [[financial-regulators/missing-financial-institutions-backlog]]
 - [[foreign-financial-institutions/euroclear-bank-japan]]
 - [[foreign-financial-institutions/clearstream-banking-japan]]

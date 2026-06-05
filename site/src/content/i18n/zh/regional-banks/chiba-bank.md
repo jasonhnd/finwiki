@@ -1,5 +1,5 @@
 ---
-source: japanfg/chiba-bank
+source: regional-banks/chiba-bank
 source_hash: ec2d4cc9267cbe3c
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T11:13:44.919Z
 
 ## Wiki 路由
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]]。可与 [[regional-banks/gunma-bank|群马银行（The Gunma Bank）]] 作同业 / 对照阅读，并与 [[banking/INDEX|banking index]] 共同把握更广泛的银行制度和监管边界。
+本条目位于 [[regional-banks/INDEX|regional-banks INDEX]]。可与 [[regional-banks/gunma-bank|群马银行（The Gunma Bank）]] 作同业 / 对照阅读，并与 [[banking/INDEX|banking index]] 共同把握更广泛的银行制度和监管边界。
 
 ## TL;DR
 

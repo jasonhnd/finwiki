@@ -1,5 +1,5 @@
 ---
-source: japanfg/mitsubishi-ufj-trust-bank
+source: trust-banks/mitsubishi-ufj-trust-bank
 source_hash: fb83b277d5f022b6
 lang: ja
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-06-02T14:54:39.093Z
 
 ## ウィキ上の位置づけ
 
-この項目 sits under [[JapanFG/INDEX|JapanFG index]]. あわせて読む と照合して [[trust-banks/smbc-trust-bank|SMBC信託銀行 (SMBC Trust Bank)]] のために 比較・対照 文脈 と [[banking/INDEX|banking index]] のために the より広い制度・規制境界.
+この項目 sits under [[trust-banks/INDEX|trust-banks INDEX]]. あわせて読む と照合して [[trust-banks/smbc-trust-bank|SMBC信託銀行 (SMBC Trust Bank)]] のために 比較・対照 文脈 と [[banking/INDEX|banking index]] のために the より広い制度・規制境界.
 
 ## 要約
 

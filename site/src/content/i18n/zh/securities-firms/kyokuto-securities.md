@@ -1,5 +1,5 @@
 ---
-source: japanfg/kyokuto-securities
+source: securities-firms/kyokuto-securities
 source_hash: 9aafa097d2d0055f
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:59:49.309Z
 
 ## Wiki route
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可与 [[securities-firms/marusan-securities|丸三証券]] 对照阅读同业 / 对比语境，与 [[securities/financial-instruments-business-operators-japan-index|FSA 金融商品取引業者 index]] 阅读监管牌照层，并与 [[financial-licenses/securities-license-stack|securities license stack]] 阅读 FIEA 牌照边界。
+本条目位于 [[securities-firms/INDEX|securities-firms INDEX]] 之下。可与 [[securities-firms/marusan-securities|丸三証券]] 对照阅读同业 / 对比语境，与 [[securities/financial-instruments-business-operators-japan-index|FSA 金融商品取引業者 index]] 阅读监管牌照层，并与 [[financial-licenses/securities-license-stack|securities license stack]] 阅读 FIEA 牌照边界。
 
 ## TL;DR
 

@@ -1,5 +1,5 @@
 ---
-source: japanfg/imamura-securities
+source: securities-firms/imamura-securities
 source_hash: aa95bf836d076e19
 lang: ja
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-02T14:25:12.422Z
 
 ## ウィキ上の位置づけ
 
-この項目 sits under [[JapanFG/INDEX|JapanFG index]]. 併読先は [[securities-firms/marusan-securities|丸三証券]] 比較対象の文脈, [[securities/financial-instruments-business-operators-japan-index|FSA 金融商品取引業者 index]] 規制ライセンス層の文脈, and [[financial-licenses/securities-license-stack|securities license stack]] 金融商品取引法上のライセンス境界の文脈.
+この項目 sits under [[securities-firms/INDEX|securities-firms INDEX]]. 併読先は [[securities-firms/marusan-securities|丸三証券]] 比較対象の文脈, [[securities/financial-instruments-business-operators-japan-index|FSA 金融商品取引業者 index]] 規制ライセンス層の文脈, and [[financial-licenses/securities-license-stack|securities license stack]] 金融商品取引法上のライセンス境界の文脈.
 
 ## 要約
 

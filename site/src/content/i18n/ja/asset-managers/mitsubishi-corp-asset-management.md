@@ -1,5 +1,5 @@
 ---
-source: japanfg/mitsubishi-corp-asset-management
+source: asset-managers/mitsubishi-corp-asset-management
 source_hash: a3860ef0fcf61002
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:54:39.066Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] に属する。同業の銀行系 AM である [[asset-managers/asset-management-one|アセットマネジメントOne]]（[[megabanks/mizuho-fg|みずほ FG]] + [[life-insurers/dai-ichi-life|第一生命]] の JV AM）および [[asset-managers/mufg-asset-management|三菱UFJアセットマネジメント]]（[[megabanks/mufg|MUFG]] 系列 AM）と併せて読む。同じ親会社内のグループ財務機能は [[trading-company-finance/mitsubishi-corp-finance|三菱商事FS]] を参照。商社系金融の広い比較対象は [[trading-company-finance/mitsui-bussan-financial-services|三井物産FS]] / [[trading-company-finance/sumitomo-corp-financial-management|住友商事FM]] / [[trading-company-finance/itochu-finance|伊藤忠ファイナンス]] / [[trading-company-finance/marubeni-financial-services|丸紅フィナンス]] / [[trading-company-finance/toyota-tsusho-finance|豊田通商フィナンス]] / [[trading-company-finance/sojitz-finance|双日フィナンス]]。金融商品取引法 / 投資運用業の境界は [[securities/INDEX|securities index]] を参照。
+この項目は [[asset-managers/INDEX|asset-managers INDEX]] に属する。同業の銀行系 AM である [[asset-managers/asset-management-one|アセットマネジメントOne]]（[[megabanks/mizuho-fg|みずほ FG]] + [[life-insurers/dai-ichi-life|第一生命]] の JV AM）および [[asset-managers/mufg-asset-management|三菱UFJアセットマネジメント]]（[[megabanks/mufg|MUFG]] 系列 AM）と併せて読む。同じ親会社内のグループ財務機能は [[trading-company-finance/mitsubishi-corp-finance|三菱商事FS]] を参照。商社系金融の広い比較対象は [[trading-company-finance/mitsui-bussan-financial-services|三井物産FS]] / [[trading-company-finance/sumitomo-corp-financial-management|住友商事FM]] / [[trading-company-finance/itochu-finance|伊藤忠ファイナンス]] / [[trading-company-finance/marubeni-financial-services|丸紅フィナンス]] / [[trading-company-finance/toyota-tsusho-finance|豊田通商フィナンス]] / [[trading-company-finance/sojitz-finance|双日フィナンス]]。金融商品取引法 / 投資運用業の境界は [[securities/INDEX|securities index]] を参照。
 
 ## 1. 会社概要
 

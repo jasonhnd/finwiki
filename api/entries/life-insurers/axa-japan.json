@@ -40,7 +40,7 @@
       "AXA グループ公式 Annual Report 2024"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against プルデンシャル・ジブラルタ・ファイナンシャル (Prudential Japan) for peer / contrast context and insurance index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under life-insurers INDEX. Read it against プルデンシャル・ジブラルタ・ファイナンシャル (Prudential Japan) for peer / contrast context and insurance index for the broader system / regulatory boundary.",
   "headings": [
     "アクサ・ジャパン (AXA Japan)",
     "Wiki route",
@@ -56,10 +56,10 @@
   "body_links": {
     "wikilinks_count": 14,
     "wikilinks": [
-      "JapanFG/INDEX",
       "aflac-japan",
       "dai-ichi-life",
       "insurance/INDEX",
+      "life-insurers/INDEX",
       "life-insurers/lifenet",
       "life-insurers/prudential-japan",
       "life-insurers/td-hd",
@@ -72,10 +72,10 @@
       "smfg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/aflac-japan",
       "https://finwiki.zksc.io/dai-ichi-life",
       "https://finwiki.zksc.io/insurance/INDEX",
+      "https://finwiki.zksc.io/life-insurers/INDEX",
       "https://finwiki.zksc.io/life-insurers/lifenet",
       "https://finwiki.zksc.io/life-insurers/prudential-japan",
       "https://finwiki.zksc.io/life-insurers/td-hd",
@@ -91,9 +91,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4152,
-    "word_like_tokens": 637,
+    "nonspace_chars": 4164,
+    "word_like_tokens": 639,
     "inbound_wikilinks_count": 13,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

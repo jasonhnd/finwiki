@@ -18,7 +18,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[payment-firms/freee|freee 株式会社 (freee K.K.)]] for peer / contrast context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system / regulatory boundary.
+This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it against [[payment-firms/freee|freee 株式会社 (freee K.K.)]] for peer / contrast context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
@@ -140,7 +140,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[payment
 ## Related
 
 - [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[sbi-hd]] · [[ndfg]]
-- [[JapanFG/INDEX|JapanFG]] (PRIME 上場 fintech カテゴリ)
+- [[payment-firms/INDEX|payment-firms INDEX]] (PRIME 上場 fintech カテゴリ)
 
 ## Sources
 

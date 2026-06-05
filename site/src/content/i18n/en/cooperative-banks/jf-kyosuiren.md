@@ -1,5 +1,5 @@
 ---
-source: japanfg/jf-kyosuiren
+source: cooperative-banks/jf-kyosuiren
 source_hash: 6f394661f29a011a
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:59:49.405Z
 
 ## Wiki Route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **JF Group cooperative-insurance national federation**, the JF-side parallel to [[non-life-insurers/ja-kyosairen|JA 共済連]] in the agricultural cooperative system. It closes the audit gap where JA Kyosairen was deeply documented but the JF-side equivalent, JF Kyosuiren, had no anchor. Read it with [[cooperative-banks/jf-zengyoren|JF 全漁連 (JF グループ代表 + 経済事業)]] for the JF group representative federation, [[cooperative-banks/jf-shingyoren|JF 信漁連]] for the JF credit federation layer, [[cooperative-banks/jf-marine-bank-hokkaido|JF Marine Bank 北海道]] for the prefectural credit anchor, [[cooperative-banks/norinchukin|農林中央金庫]] for the JF Marine Bank system central institution, and [[insurance/INDEX|insurance domain]] for the cooperative-vs-stock insurance form contrast.
+This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as the **JF Group cooperative-insurance national federation**, the JF-side parallel to [[non-life-insurers/ja-kyosairen|JA 共済連]] in the agricultural cooperative system. It closes the audit gap where JA Kyosairen was deeply documented but the JF-side equivalent, JF Kyosuiren, had no anchor. Read it with [[cooperative-banks/jf-zengyoren|JF 全漁連 (JF グループ代表 + 経済事業)]] for the JF group representative federation, [[cooperative-banks/jf-shingyoren|JF 信漁連]] for the JF credit federation layer, [[cooperative-banks/jf-marine-bank-hokkaido|JF Marine Bank 北海道]] for the prefectural credit anchor, [[cooperative-banks/norinchukin|農林中央金庫]] for the JF Marine Bank system central institution, and [[insurance/INDEX|insurance domain]] for the cooperative-vs-stock insurance form contrast.
 
 ## TL;DR
 
@@ -123,7 +123,7 @@ Note: in the JA Group, representation (Zenchu), economic business (Zen-Noh), mut
 - [[insurance/mutual-vs-stock-life-insurer]] — Mutual company vs stock company; cooperative organization as the 3  form
 - [[banking/jf-marine-bank-system-japan]] — JF Marine Bank system
 - [[banking/cooperative-banking-japan]] — Cooperative finance overall
-- [[JapanFG/INDEX|JapanFG index]]
+- [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 
 ## Sources
 

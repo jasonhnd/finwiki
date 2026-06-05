@@ -1,5 +1,5 @@
 ---
-source: japanfg/shonai-bank
+source: regional-banks/shonai-bank
 source_hash: 1c9ad20d7daa85e1
 lang: ja
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-06-02T15:14:17.152Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に置く。[[regional-banks/hokuto-bank|北都銀行]] は同業・比較対象の文脈として、[[banking/INDEX|banking index]] はより広い制度・規制上の境界として併読する。
+この項目は [[regional-banks/INDEX|regional-banks INDEX]] の配下に置く。[[regional-banks/hokuto-bank|北都銀行]] は同業・比較対象の文脈として、[[banking/INDEX|banking index]] はより広い制度・規制上の境界として併読する。
 
 ## 要約
 

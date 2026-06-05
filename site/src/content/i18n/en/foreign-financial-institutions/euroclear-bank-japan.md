@@ -1,5 +1,5 @@
 ---
-source: japanfg/euroclear-bank-japan
+source: foreign-financial-institutions/euroclear-bank-japan
 source_hash: 056c68af26a8ea3a
 lang: en
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T15:29:03.939Z
 
 ## Wiki route
 
-This entry sits under[[JapanFG/INDEX|JapanFG]]and upgrades the Euroclear row in[[foreign-financial-institutions/foreign-bank-branches-japan-index|foreign-bank branch registry]]from registry-only to a standalone ICSD / collateral route. Read it with[[foreign-financial-institutions/clearstream-banking-japan|Clearstream Banking Japan]],[[securities/japan-market-infrastructure-map|Japan market infrastructure map]], and[[money-market/jgb-repo-market-japan|JGB repo market]].
+This entry sits under[[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]]and upgrades the Euroclear row in[[foreign-financial-institutions/foreign-bank-branches-japan-index|foreign-bank branch registry]]from registry-only to a standalone ICSD / collateral route. Read it with[[foreign-financial-institutions/clearstream-banking-japan|Clearstream Banking Japan]],[[securities/japan-market-infrastructure-map|Japan market infrastructure map]], and[[money-market/jgb-repo-market-japan|JGB repo market]].
 
 ## Overview
 
@@ -78,7 +78,7 @@ That makes this page a peer of[[foreign-financial-institutions/clearstream-banki
 
 ## Related
 
-- [[JapanFG/INDEX]]
+- [[foreign-financial-institutions/INDEX]]
 - [[foreign-financial-institutions/foreign-bank-branches-japan-index]]
 - [[foreign-financial-institutions/clearstream-banking-japan]]
 - [[foreign-financial-institutions/bny-mellon-japan]]

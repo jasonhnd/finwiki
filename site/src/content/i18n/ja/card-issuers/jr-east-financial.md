@@ -1,5 +1,5 @@
 ---
-source: japanfg/jr-east-financial
+source: card-issuers/jr-east-financial
 source_hash: a6a312b8a3a7c0a3
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:54:39.077Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の下に置かれる、JR 東日本（East Japan Railway Company）グループ金融サブセクターの **運営会社アンカー** である。具体的には、**ビューカード（View Card）+ JRE BANK（楽天銀行と提携する BaaS 型銀行口座）+ Suica 電子マネー / JR 東日本ペイメントサービス** の 3 軸構成を扱う。交通顧客基盤を持つ同業比較は [[JapanFG/tokyu-card|東急カード（Tokyu Card）]]・[[JapanFG/odakyu-cards|小田急カード]]、リテール顧客基盤を持つ銀行比較は [[regional-banks/seven-bank|セブン銀行]]、BaaS アーキテクチャ文脈は [[banking/baas-rakuten-jre-bank|楽天-JRE Bank BaaS]]、電子マネー / 交通 IC 統合レイヤーは [[payments/suica-pasmo-fares|Suica/PASMO 運賃エコシステム]] と併読する。
+この項目は [[card-issuers/INDEX|card-issuers INDEX]] の下に置かれる、JR 東日本（East Japan Railway Company）グループ金融サブセクターの **運営会社アンカー** である。具体的には、**ビューカード（View Card）+ JRE BANK（楽天銀行と提携する BaaS 型銀行口座）+ Suica 電子マネー / JR 東日本ペイメントサービス** の 3 軸構成を扱う。交通顧客基盤を持つ同業比較は [[JapanFG/tokyu-card|東急カード（Tokyu Card）]]・[[JapanFG/odakyu-cards|小田急カード]]、リテール顧客基盤を持つ銀行比較は [[regional-banks/seven-bank|セブン銀行]]、BaaS アーキテクチャ文脈は [[banking/baas-rakuten-jre-bank|楽天-JRE Bank BaaS]]、電子マネー / 交通 IC 統合レイヤーは [[payments/suica-pasmo-fares|Suica/PASMO 運賃エコシステム]] と併読する。
 
 ## 要約
 
@@ -137,7 +137,7 @@ JR 東日本 グループの金融機能群。コアは ① **ビューカード
 - [[payments/suica-prepaid-jr-east]] — Suica エコシステム
 - [[payments/suica-pasmo-fares]] — 交通系 IC 運賃エコシステム
 - [[banking/baas-rakuten-jre-bank]] — BaaS アーキテクチャ
-- [[JapanFG/INDEX]] — JapanFG namespace index
+- [[card-issuers/INDEX]] — JapanFG namespace index
 
 ## 出典
 

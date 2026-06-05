@@ -1,5 +1,5 @@
 ---
-source: japanfg/american-express-international-japan
+source: payment-firms/american-express-international-japan
 source_hash: b7ca411b244489ae
 lang: en
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T11:13:44.915Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[card-issuers/jcb|JCB]] for peer context because both JCB and American Express have three-party scheme characteristics and a history of merchant-network cooperation. Use [[payments/japan-card-issuer-acquirer-processor-split|Japan card issuer / acquirer / processor split]] for the broader system and regulatory boundary.
+This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it against [[card-issuers/jcb|JCB]] for peer context because both JCB and American Express have three-party scheme characteristics and a history of merchant-network cooperation. Use [[payments/japan-card-issuer-acquirer-processor-split|Japan card issuer / acquirer / processor split]] for the broader system and regulatory boundary.
 
 ## 1. License / group boundary
 

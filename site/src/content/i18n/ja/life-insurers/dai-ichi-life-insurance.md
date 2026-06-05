@@ -1,5 +1,5 @@
 ---
-source: japanfg/dai-ichi-life-insurance
+source: life-insurers/dai-ichi-life-insurance
 source_hash: 2b46d0c61183fa58
 lang: ja
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-06-02T14:25:12.404Z
 
 ## ウィキ上の位置づけ
 
-本項目は [[JapanFG/INDEX|JapanFG index]] の配下に置く。[[life-insurers/dai-ichi-frontier-life|第一フロンティア生命保険]] を同業・対比の文脈として、[[insurance/INDEX|insurance index]] をより広い制度・規制境界として併読する。
+本項目は [[life-insurers/INDEX|life-insurers INDEX]] の配下に置く。[[life-insurers/dai-ichi-frontier-life|第一フロンティア生命保険]] を同業・対比の文脈として、[[insurance/INDEX|insurance index]] をより広い制度・規制境界として併読する。
 
 ## 要約
 

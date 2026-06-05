@@ -1,5 +1,5 @@
 ---
-source: japanfg/sony-fg
+source: megabanks/sony-fg
 source_hash: 03ca707c17d626b6
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-01T02:31:57.152Z
 
 ## Wiki route
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可与 [[life-insurers/sony-life|ソニー生命保険]] 对照阅读，以理解同业 / 对比背景；也可与 [[banking/INDEX|banking index]] 一起阅读，以理解更广义的系统和监管边界。
+本条目位于 [[megabanks/INDEX|megabanks INDEX]] 之下。可与 [[life-insurers/sony-life|ソニー生命保険]] 对照阅读，以理解同业 / 对比背景；也可与 [[banking/INDEX|banking index]] 一起阅读，以理解更广义的系统和监管边界。
 
 ## TL;DR
 

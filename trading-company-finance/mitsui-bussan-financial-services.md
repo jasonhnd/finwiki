@@ -25,7 +25,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[trading-company-finance/mitsubishi-corp-finance|三菱商事フィナンシャルサービス]] (the closest peer trading-company group-treasury arm) and [[cooperative-banks/ja-mitsui-leasing|JA三井リース]] (the same-parent leasing arm, 三井物産系 + 農林中金 JV). For the broader peer set, see [[trading-company-finance/marubeni-financial-services|丸紅フィナンス]], [[trading-company-finance/sumitomo-corp-financial-management|住友商事FM]], [[trading-company-finance/itochu-finance|伊藤忠ファイナンス]]. The Mitsui-group banking side is [[megabanks/sumitomo-mitsui-banking-corp|SMBC]] under [[megabanks/smfg|SMFG]]. See [[banking/INDEX|banking index]] for the broader regulatory boundary.
+This entry sits under [[trading-company-finance/INDEX|trading-company-finance INDEX]]. Read it against [[trading-company-finance/mitsubishi-corp-finance|三菱商事フィナンシャルサービス]] (the closest peer trading-company group-treasury arm) and [[cooperative-banks/ja-mitsui-leasing|JA三井リース]] (the same-parent leasing arm, 三井物産系 + 農林中金 JV). For the broader peer set, see [[trading-company-finance/marubeni-financial-services|丸紅フィナンス]], [[trading-company-finance/sumitomo-corp-financial-management|住友商事FM]], [[trading-company-finance/itochu-finance|伊藤忠ファイナンス]]. The Mitsui-group banking side is [[megabanks/sumitomo-mitsui-banking-corp|SMBC]] under [[megabanks/smfg|SMFG]]. See [[banking/INDEX|banking index]] for the broader regulatory boundary.
 
 ## 1. 会社概要
 

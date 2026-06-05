@@ -39,7 +39,7 @@
       "https://www.igpandi.org/clubs"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 日本船主責任相互保険組合 as the direct marine-industry sibling (船級協会 + P&I クラブで一対の海事インフラ) and insurance index as the broader risk-transfer system frame. ClassNK is not an insurer but its surveys directly underpin hull & P&I underwriting, so it sits in the Jap",
+  "summary": "This entry sits under financial-regulators INDEX. Read it against 日本船主責任相互保険組合 as the direct marine-industry sibling (船級協会 + P&I クラブで一対の海事インフラ) and insurance index as the broader risk-transfer system frame. ClassNK is not an insurer but its surveys directly underpin hull & P&I underwriting, so it si",
   "headings": [
     "日本海事協会 (ClassNK)",
     "Wiki route",
@@ -53,7 +53,7 @@
   "body_links": {
     "wikilinks_count": 7,
     "wikilinks": [
-      "JapanFG/INDEX",
+      "financial-regulators/INDEX",
       "financial-regulators/japan-pi-club",
       "insurance/INDEX",
       "japan-pi-club",
@@ -62,7 +62,7 @@
       "tokio-marine-nichido-fire"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/financial-regulators/INDEX",
       "https://finwiki.zksc.io/financial-regulators/japan-pi-club",
       "https://finwiki.zksc.io/insurance/INDEX",
       "https://finwiki.zksc.io/japan-pi-club",
@@ -74,9 +74,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2744,
-    "word_like_tokens": 411,
+    "nonspace_chars": 2783,
+    "word_like_tokens": 414,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

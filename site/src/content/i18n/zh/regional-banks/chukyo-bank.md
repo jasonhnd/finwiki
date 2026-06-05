@@ -1,5 +1,5 @@
 ---
-source: japanfg/chukyo-bank
+source: regional-banks/chukyo-bank
 source_hash: 0c709c1c67d18f4a
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T11:13:44.920Z
 
 ## Wiki ??
 
-????? the [[JapanFG/INDEX|JapanFG index]] as the **historical predecessor anchor** for current operating bank [[aichi-bank|あいち銀行]] under [[aichi-fg|あいち FG]]. ??? the [[nagoya-bank|名古屋銀行]] in-prefecture rival and [[san-jusan-bank|三十三銀行]] / [[juroku-bank|十六銀行]] Chubu peers, and against [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]] for the broader system / regulatory boundary.
+????? the [[regional-banks/INDEX|regional-banks INDEX]] as the **historical predecessor anchor** for current operating bank [[aichi-bank|あいち銀行]] under [[aichi-fg|あいち FG]]. ??? the [[nagoya-bank|名古屋銀行]] in-prefecture rival and [[san-jusan-bank|三十三銀行]] / [[juroku-bank|十六銀行]] Chubu peers, and against [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
@@ -115,7 +115,7 @@ translated_at: 2026-05-31T11:13:44.920Z
 - [[aichi-fg]] · [[aichi-bank]] · [[nagoya-bank]] · [[san-jusan-bank]] · [[juroku-bank]] · [[ogaki-kyoritsu-bank]]
 - [[hyakugo-bank]] · [[hyakujushi-bank]] · [[juroku-fg]] · [[san-jusan-fg]]
 - [[banking/regional-bank-consolidation-pattern]] · [[banking/INDEX]]
-- [[JapanFG/INDEX|JapanFG index]]
+- [[regional-banks/INDEX|regional-banks INDEX]]
 
 ## ??
 

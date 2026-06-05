@@ -1,5 +1,5 @@
 ---
-source: japanfg/zenginkyo
+source: financial-regulators/zenginkyo
 source_hash: bfd2780c0081b3cb
 lang: zh
 status: machine
@@ -16,7 +16,7 @@ Zenginkyō（日本银行家协会，JBA）是日本银行的主要行业机构 
 
 ## 维基路线
 
-该条目位于 [[JapanFG/INDEX|JapanFG index]] 下。与同行行业机构 [[financial-regulators/zenchugin-kyo|Regional Banks Association]]、[[financial-regulators/dai2-chigin-kyo|Second Association of Regional Banks]]、[[financial-regulators/zenshin-kyo|Zenshin-kyō (shinkin national association)]] 和 [[financial-regulators/shintaku-kyokai|Trust Companies Association of Japan]] 一起阅读。法定背景参见[[financial-licenses/INDEX]]和[[financial-licenses/bank-license-and-baas-boundary]]；对于存款保护对应方，请参阅[[financial-regulators/yokin-hoken-kiko|Deposit Insurance Corporation of Japan]]；对于更广泛的银行领域，请参阅 [[banking/INDEX]]。
+该条目位于 [[financial-regulators/INDEX|financial-regulators INDEX]] 下。与同行行业机构 [[financial-regulators/zenchugin-kyo|Regional Banks Association]]、[[financial-regulators/dai2-chigin-kyo|Second Association of Regional Banks]]、[[financial-regulators/zenshin-kyo|Zenshin-kyō (shinkin national association)]] 和 [[financial-regulators/shintaku-kyokai|Trust Companies Association of Japan]] 一起阅读。法定背景参见[[financial-licenses/INDEX]]和[[financial-licenses/bank-license-and-baas-boundary]]；对于存款保护对应方，请参阅[[financial-regulators/yokin-hoken-kiko|Deposit Insurance Corporation of Japan]]；对于更广泛的银行领域，请参阅 [[banking/INDEX]]。
 
 ## 合法途径/法定地位（法令の根拠）
 
@@ -57,7 +57,7 @@ Zenginkyō 位于分层行业主体堆栈的顶部。区域银行渠道贯穿一
 
 ## 相关
 
-- [[JapanFG/INDEX|JapanFG index]]
+- [[financial-regulators/INDEX|financial-regulators INDEX]]
 - [[financial-regulators/zenchugin-kyo|Regional Banks Association of Japan]]
 - [[financial-regulators/dai2-chigin-kyo|Second Association of Regional Banks]]
 - [[financial-regulators/zenshin-kyo|National Association of Shinkin Banks]]

@@ -1,5 +1,5 @@
 ---
-source: japanfg/fsa
+source: financial-regulators/fsa
 source_hash: 4e1b655f9ca3571b
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T15:29:03.909Z
 
 ## Wiki ??
 
-????? [[JapanFG/INDEX|JapanFG index]]. ?? [[financial-regulators/boj|日本銀行]] for the central-bank counterpart, and [[financial-regulators/dic|預金保険機構]] / [[financial-regulators/sonpo-hosho-kiko|損保機構]] / [[financial-regulators/seimei-hokensha-hogo-kiko|生保機構]] for the safety-net peers it supervises.
+????? [[financial-regulators/INDEX|financial-regulators INDEX]]. ?? [[financial-regulators/boj|日本銀行]] for the central-bank counterpart, and [[financial-regulators/dic|預金保険機構]] / [[financial-regulators/sonpo-hosho-kiko|損保機構]] / [[financial-regulators/seimei-hokensha-hogo-kiko|生保機構]] for the safety-net peers it supervises.
 
 ## TL;DR
 
@@ -129,7 +129,7 @@ translated_at: 2026-05-31T15:29:03.909Z
 - [[financial-regulators/boj|日本銀行]] · [[financial-regulators/dic|預金保険機構]] · [[financial-regulators/sonpo-hosho-kiko|損保機構]] · [[financial-regulators/seimei-hokensha-hogo-kiko|生保機構]]
 - [[financial-regulators/japan-exchange-group|日本取引所グループ]] · [[financial-regulators/jsda|日本証券業協会]]
 - [[financial-regulators/jcr|JCR]] · [[financial-regulators/rating-and-investment|R&I]]
-- [[JapanFG/INDEX|JapanFG index]]
+- [[financial-regulators/INDEX|financial-regulators INDEX]]
 
 ## ??
 

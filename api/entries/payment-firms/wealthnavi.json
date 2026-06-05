@@ -38,7 +38,7 @@
       "時事通信 Financial: ウェルスナビ第3四半期決算 運用者数41.6万人 (2024-09末, https://financial.jiji.com/long_investment/article.html?number=728)"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 楽天グループ金融事業 (Rakuten FG) for peer / contrast context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system / regulatory boundary.",
+  "summary": "This entry sits under payment-firms INDEX. Read it against 楽天グループ金融事業 (Rakuten FG) for peer / contrast context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system / regulatory boundary.",
   "headings": [
     "ウェルスナビ株式会社 (WealthNavi)",
     "Wiki route",
@@ -54,26 +54,26 @@
   "body_links": {
     "wikilinks_count": 11,
     "wikilinks": [
-      "JapanFG/INDEX",
       "daiwa-sg",
       "fintech/japan-stablecoin-regulatory-landscape",
       "mizuho-fg",
       "monex-group",
       "mufg",
       "nomura-hd",
+      "payment-firms/INDEX",
       "payment-firms/rakuten-fg",
       "rakuten-fg",
       "sbi-hd",
       "smfg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/daiwa-sg",
       "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
       "https://finwiki.zksc.io/mizuho-fg",
       "https://finwiki.zksc.io/monex-group",
       "https://finwiki.zksc.io/mufg",
       "https://finwiki.zksc.io/nomura-hd",
+      "https://finwiki.zksc.io/payment-firms/INDEX",
       "https://finwiki.zksc.io/payment-firms/rakuten-fg",
       "https://finwiki.zksc.io/rakuten-fg",
       "https://finwiki.zksc.io/sbi-hd",
@@ -83,9 +83,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5169,
-    "word_like_tokens": 893,
+    "nonspace_chars": 5181,
+    "word_like_tokens": 895,
     "inbound_wikilinks_count": 8,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

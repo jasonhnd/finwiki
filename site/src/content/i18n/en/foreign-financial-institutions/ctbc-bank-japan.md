@@ -1,5 +1,5 @@
 ---
-source: japanfg/ctbc-bank-japan
+source: foreign-financial-institutions/ctbc-bank-japan
 source_hash: 17a8643575453579
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T15:29:03.927Z
 
 ## Wiki route
 
-This entry sits under the [[JapanFG/INDEX|JapanFG index]]. Read it against [[foreign-financial-institutions/mega-icbc-japan|Mega International Commercial Bank Tokyo Branch]] for Taiwan-bank peer context and [[banking/INDEX|banking index]] for the broader system and regulatory boundary.
+This entry sits under the [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]]. Read it against [[foreign-financial-institutions/mega-icbc-japan|Mega International Commercial Bank Tokyo Branch]] for Taiwan-bank peer context and [[banking/INDEX|banking index]] for the broader system and regulatory boundary.
 
 ## TL;DR
 

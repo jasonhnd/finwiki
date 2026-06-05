@@ -1,5 +1,5 @@
 ---
-source: japanfg/ing-bank-japan
+source: foreign-financial-institutions/ing-bank-japan
 source_hash: 28e10448dab56308
 lang: zh
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-05-31T15:29:03.925Z
 
 ## Wiki 路线
 
-本条目位于 [[JapanFG/INDEX|JapanFG 索引]] 下。可与外资银行日本分支机构页面和 [[banking/INDEX|银行业索引]] 对照阅读。
+本条目位于 [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]] 下。可与外资银行日本分支机构页面和 [[banking/INDEX|银行业索引]] 对照阅读。
 
 ## TL;DR
 

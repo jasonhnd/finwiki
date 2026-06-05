@@ -1,5 +1,5 @@
 ---
-source: japanfg/shizuoka-fg
+source: regional-banks/shizuoka-fg
 source_hash: 93c3b0b94d21b881
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.108Z
 
 ## Wiki route
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 下。可与 [[regional-banks/fukuoka-fg|ふくおか FG (FFG)]] 对照阅读，以理解同业和差异；更广泛的制度和监管边界见 [[banking/INDEX|banking index]]。
+本条目位于 [[regional-banks/INDEX|regional-banks INDEX]] 下。可与 [[regional-banks/fukuoka-fg|ふくおか FG (FFG)]] 对照阅读，以理解同业和差异；更广泛的制度和监管边界见 [[banking/INDEX|banking index]]。
 
 ## TL;DR
 

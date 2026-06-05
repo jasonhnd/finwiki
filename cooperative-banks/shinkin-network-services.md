@@ -29,7 +29,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[cooperative-banks/shinkin-central|信金中央金庫]] for the operational central-bank counterpart that anchors the shinkin system, against [[financial-regulators/zenshin-kyo|全国信用金庫協会]] for the industry-body / policy layer, and against [[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]] for the full member-population route. The cooperative-system comparison anchor sits at [[banking/japan-cooperative-banking-unified-federation-matrix|Japan cooperative-banking unified federation matrix]].
+This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]]. Read it against [[cooperative-banks/shinkin-central|信金中央金庫]] for the operational central-bank counterpart that anchors the shinkin system, against [[financial-regulators/zenshin-kyo|全国信用金庫協会]] for the industry-body / policy layer, and against [[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]] for the full member-population route. The cooperative-system comparison anchor sits at [[banking/japan-cooperative-banking-unified-federation-matrix|Japan cooperative-banking unified federation matrix]].
 
 ## TL;DR
 
@@ -115,7 +115,7 @@ ATM ネットワーク（SCS）は現金利用減少のなかで運営コスト�
 
 ## Related
 
-- [[JapanFG/INDEX|JapanFG index]]
+- [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 - [[cooperative-banks/shinkin-central|信金中央金庫]]
 - [[financial-regulators/zenshin-kyo|全国信用金庫協会]]
 - [[cooperative-banks/kyoto-chuo-shinkin|京都中央信用金庫]]

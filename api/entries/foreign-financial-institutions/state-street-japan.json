@@ -45,7 +45,7 @@
       "FSB List of Global Systemically Important Banks (G-SIBs) 2024"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against BNY メロン日本 (BNY Mellon Japan) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under foreign-financial-institutions INDEX. Read it against BNY メロン日本 (BNY Mellon Japan) for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [
     "ステート・ストリート (State Street Japan)",
     "Wiki route",
@@ -61,7 +61,6 @@
   "body_links": {
     "wikilinks_count": 20,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "barclays-japan",
       "bnp-paribas-japan",
@@ -70,6 +69,7 @@
       "custody-bank",
       "daiwa-sg",
       "deutsche-japan",
+      "foreign-financial-institutions/INDEX",
       "foreign-financial-institutions/bny-mellon-japan",
       "goldman-sachs-japan",
       "hsbc-japan",
@@ -83,7 +83,6 @@
       "sumitomo-mitsui-trust"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/barclays-japan",
       "https://finwiki.zksc.io/bnp-paribas-japan",
@@ -92,6 +91,7 @@
       "https://finwiki.zksc.io/custody-bank",
       "https://finwiki.zksc.io/daiwa-sg",
       "https://finwiki.zksc.io/deutsche-japan",
+      "https://finwiki.zksc.io/foreign-financial-institutions/INDEX",
       "https://finwiki.zksc.io/foreign-financial-institutions/bny-mellon-japan",
       "https://finwiki.zksc.io/goldman-sachs-japan",
       "https://finwiki.zksc.io/hsbc-japan",
@@ -108,9 +108,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5784,
-    "word_like_tokens": 930,
+    "nonspace_chars": 5830,
+    "word_like_tokens": 934,
     "inbound_wikilinks_count": 25,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

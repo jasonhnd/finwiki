@@ -1,5 +1,5 @@
 ---
-source: japanfg/tachibana-securities
+source: securities-firms/tachibana-securities
 source_hash: 6ed5b8be0ad79ab5
 lang: ja
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-02T16:33:58.471Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に置かれる。比較・対照の文脈では [[securities-firms/marusan-securities|丸三証券]] を、規制ライセンス層については [[securities/financial-instruments-business-operators-japan-index|FSA 金融商品取引業者 index]] を、FIEA 上のライセンス境界については [[financial-licenses/securities-license-stack|securities license stack]] を参照する。
+この項目は [[securities-firms/INDEX|securities-firms INDEX]] の配下に置かれる。比較・対照の文脈では [[securities-firms/marusan-securities|丸三証券]] を、規制ライセンス層については [[securities/financial-instruments-business-operators-japan-index|FSA 金融商品取引業者 index]] を、FIEA 上のライセンス境界については [[financial-licenses/securities-license-stack|securities license stack]] を参照する。
 
 ## 要約
 

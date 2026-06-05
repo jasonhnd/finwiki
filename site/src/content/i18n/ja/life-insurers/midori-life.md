@@ -1,5 +1,5 @@
 ---
-source: japanfg/midori-life
+source: life-insurers/midori-life
 source_hash: 739b76039f0f55ae
 lang: ja
 status: machine
@@ -13,11 +13,11 @@ translated_at: 2026-06-02T14:54:39.099Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] 配下に置く。比較・対照の文脈では [[life-insurers/dai-ichi-frontier-life|第一フロンティア生命保険]] を、より広い制度・規制上の境界では [[insurance/INDEX|insurance index]] を参照する。
+この項目は [[life-insurers/INDEX|life-insurers INDEX]] 配下に置く。比較・対照の文脈では [[life-insurers/dai-ichi-frontier-life|第一フロンティア生命保険]] を、より広い制度・規制上の境界では [[insurance/INDEX|insurance index]] を参照する。
 
 ## 要約
 
-みどり生命保険株式会社は、金融庁の生命保険会社一覧と生命保険協会会員一覧に掲載される小規模な専門型生命保険運営会社。大規模グループのページでは拾いにくいため、[[JapanFG/INDEX|JapanFG]] 内の正確な法人名アンカーとして追加する。比較対象としては [[life-insurers/dai-ichi-frontier-life|第一フロンティア生命]] や [[life-insurers/asahi-life|朝日生命]] など中堅生命保険会社を参照しやすい（[[insurance/INDEX|insurance index]] 経由）。
+みどり生命保険株式会社は、金融庁の生命保険会社一覧と生命保険協会会員一覧に掲載される小規模な専門型生命保険運営会社。大規模グループのページでは拾いにくいため、[[life-insurers/INDEX|life-insurers INDEX]] 内の正確な法人名アンカーとして追加する。比較対象としては [[life-insurers/dai-ichi-frontier-life|第一フロンティア生命]] や [[life-insurers/asahi-life|朝日生命]] など中堅生命保険会社を参照しやすい（[[insurance/INDEX|insurance index]] 経由）。
 
 ## 1. 免許・グループ境界
 

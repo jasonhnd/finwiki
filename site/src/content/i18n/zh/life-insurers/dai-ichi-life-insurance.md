@@ -1,5 +1,5 @@
 ---
-source: japanfg/dai-ichi-life-insurance
+source: life-insurers/dai-ichi-life-insurance
 source_hash: 2b46d0c61183fa58
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T15:29:03.856Z
 
 ## Wiki 路径
 
-本条目位于 [[JapanFG/INDEX|JapanFG 索引]] 之下。可与 [[life-insurers/dai-ichi-frontier-life|Dai-ichi Frontier Life]]、[[life-insurers/dai-ichi-neo-life|Dai-ichi Neo Life]] 以及 [[insurance/INDEX|保险索引]] 对照阅读；资本与偿付能力框架可参照 [[insurance/global-solvency-framework-comparison-matrix|全球偿付能力框架比较矩阵]]。
+本条目位于 [[life-insurers/INDEX|life-insurers INDEX]] 之下。可与 [[life-insurers/dai-ichi-frontier-life|Dai-ichi Frontier Life]]、[[life-insurers/dai-ichi-neo-life|Dai-ichi Neo Life]] 以及 [[insurance/INDEX|保险索引]] 对照阅读；资本与偿付能力框架可参照 [[insurance/global-solvency-framework-comparison-matrix|全球偿付能力框架比较矩阵]]。
 
 ## TL;DR
 

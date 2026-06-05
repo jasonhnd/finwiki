@@ -21,7 +21,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it with [[banking/INDEX|banking index]] for adjacent context, [[securities-firms/nomura-hd|野村 HD]] for parent group context, [[trust-banks/sumitomo-mitsui-trust|SMTB]] / [[trust-banks/mitsubishi-ufj-trust-bank|MUTB]] for peer trust-bank comparison, and [[financial-licenses/INDEX|金融ライセンス INDEX]] for the broader regulatory boundary.
+This entry sits under [[trust-banks/INDEX|trust-banks INDEX]]. Read it with [[banking/INDEX|banking index]] for adjacent context, [[securities-firms/nomura-hd|野村 HD]] for parent group context, [[trust-banks/sumitomo-mitsui-trust|SMTB]] / [[trust-banks/mitsubishi-ufj-trust-bank|MUTB]] for peer trust-bank comparison, and [[financial-licenses/INDEX|金融ライセンス INDEX]] for the broader regulatory boundary.
 
 ## 1. 法人・ライセンス境界
 

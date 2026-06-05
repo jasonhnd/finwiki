@@ -1,5 +1,5 @@
 ---
-source: japanfg/dbs-bank-japan
+source: foreign-financial-institutions/dbs-bank-japan
 source_hash: 6f59ee08cc7e471a
 lang: ja
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-06-02T14:25:12.438Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に位置づける。隣接する文脈は [[banking/INDEX|banking index]]、制度全体の境界は [[financial-licenses/INDEX|JapanFG index]] とあわせて読む。
+この項目は [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]] の配下に位置づける。隣接する文脈は [[banking/INDEX|banking index]]、制度全体の境界は [[financial-licenses/INDEX|JapanFG index]] とあわせて読む。
 
 ## 要約
 

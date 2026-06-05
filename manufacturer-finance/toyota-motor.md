@@ -23,7 +23,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[manufacturer-finance/INDEX|manufacturing index]]. Read it against [[manufacturer-finance/seiko-epson|Seiko Epson Corporation (セイコーエプソン)]] for peer / contrast context and [[JapanFG/INDEX|JapanFG index]] for the broader system / regulatory boundary.
+This entry sits under [[manufacturer-finance/INDEX|manufacturing index]]. Read it against [[manufacturer-finance/seiko-epson|Seiko Epson Corporation (セイコーエプソン)]] for peer / contrast context and [[manufacturer-finance/INDEX|manufacturer-finance INDEX]] for the broader system / regulatory boundary.
 
 ## TL;DR
 

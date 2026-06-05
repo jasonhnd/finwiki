@@ -20,7 +20,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[non-life-insurers/tokio-marine-nichido-fire|東京海上日動火災保険]] for peer / contrast context and [[insurance/INDEX|insurance index]] for the broader system / regulatory boundary.
+This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read it against [[non-life-insurers/tokio-marine-nichido-fire|東京海上日動火災保険]] for peer / contrast context and [[insurance/INDEX|insurance index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
@@ -38,7 +38,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[non-lif
 
 ## 2. Operating model
 
-Pet insurance is structurally different from auto / fire insurance: veterinary clinic networks, claim-frequency behavior, pet-owner acquisition, and medical-cost inflation matter more than motor accident frequency. アニコム損保 anchors this specialty line in [[JapanFG/INDEX|JapanFG]], with parent context at [[non-life-insurers/anicom-hd|アニコム HD]] and a specialty-line contrast against [[non-life-insurers/sony-insurance|ソニー損保]] direct auto.
+Pet insurance is structurally different from auto / fire insurance: veterinary clinic networks, claim-frequency behavior, pet-owner acquisition, and medical-cost inflation matter more than motor accident frequency. アニコム損保 anchors this specialty line in [[non-life-insurers/INDEX|non-life-insurers INDEX]], with parent context at [[non-life-insurers/anicom-hd|アニコム HD]] and a specialty-line contrast against [[non-life-insurers/sony-insurance|ソニー損保]] direct auto.
 
 ## 3. Why this page matters
 

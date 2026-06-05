@@ -1,5 +1,5 @@
 ---
-source: japanfg/mitsui-sumitomo-insurance
+source: non-life-insurers/mitsui-sumitomo-insurance
 source_hash: 822d7b62d60fca1f
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:59:49.413Z
 
 ## Wiki Route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[non-life-insurers/aioi-nissay-dowa-insurance|あいおいニッセイ同和損害保険]] for peer / contrast context and [[insurance/INDEX|insurance index]] for the broader system / regulatory boundary.
+This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read it against [[non-life-insurers/aioi-nissay-dowa-insurance|あいおいニッセイ同和損害保険]] for peer / contrast context and [[insurance/INDEX|insurance index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 

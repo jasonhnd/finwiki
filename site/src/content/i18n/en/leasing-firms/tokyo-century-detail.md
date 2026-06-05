@@ -1,5 +1,5 @@
 ---
-source: japanfg/tokyo-century-detail
+source: leasing-firms/tokyo-century-detail
 source_hash: b61acd6394d5d9f9
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.113Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]] and complements the company-level summary at [[leasing-firms/tokyo-century|Tokyo Century]]. Read it against [[leasing-firms/orix-corp|ORIX]], [[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]], [[leasing-firms/smfl|Sumitomo Mitsui Finance and Leasing]], and [[leasing-firms/mizuho-lease|Mizuho Leasing]] for general-lease industry peer context, [[megabanks/mizuho-fg|Mizuho FG]] for one parent group route, and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+This entry sits under [[leasing-firms/INDEX|leasing-firms INDEX]] and complements the company-level summary at [[leasing-firms/tokyo-century|Tokyo Century]]. Read it against [[leasing-firms/orix-corp|ORIX]], [[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]], [[leasing-firms/smfl|Sumitomo Mitsui Finance and Leasing]], and [[leasing-firms/mizuho-lease|Mizuho Leasing]] for general-lease industry peer context, [[megabanks/mizuho-fg|Mizuho FG]] for one parent group route, and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
@@ -123,7 +123,7 @@ For details, see EDINET securities reports and Tokyo Century IR integrated repor
 - [[leasing-firms/smfl|SMFL]] -- bank-affiliated leasing competitor
 - [[leasing-firms/mizuho-lease|Mizuho Leasing]] -- Mizuho-affiliated sister lessor
 - [[leasing-firms/nec-capital-solutions|NEC Capital Solutions]] -- vendor-affiliated lessor
-- [[JapanFG/INDEX|JapanFG index]]
+- [[leasing-firms/INDEX|leasing-firms INDEX]]
 - [[banking/INDEX|Banking domain index]]
 
 ## Sources

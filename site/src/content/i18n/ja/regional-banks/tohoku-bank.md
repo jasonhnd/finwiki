@@ -1,5 +1,5 @@
 ---
-source: japanfg/tohoku-bank
+source: regional-banks/tohoku-bank
 source_hash: 1d918232c7319c81
 lang: ja
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-06-02T16:33:58.515Z
 
 ## ウィキ上の位置づけ
 
-このエントリは以下にあります[[JapanFG/INDEX|JapanFG index]]。反対に読んでください[[regional-banks/shonai-bank|荘内銀行]]ピア/コントラストコンテキスト用と[[banking/INDEX|banking index]]より広範なシステム/規制境界に対応します。
+このエントリは以下にあります[[regional-banks/INDEX|regional-banks INDEX]]。反対に読んでください[[regional-banks/shonai-bank|荘内銀行]]ピア/コントラストコンテキスト用と[[banking/INDEX|banking index]]より広範なシステム/規制境界に対応します。
 
 ## 要約
 

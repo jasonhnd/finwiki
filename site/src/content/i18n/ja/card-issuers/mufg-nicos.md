@@ -1,5 +1,5 @@
 ---
-source: japanfg/mufg-nicos
+source: card-issuers/mufg-nicos
 source_hash: a07aed565f1a4f27
 lang: ja
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-02T14:54:39.061Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の下に位置づけられる。比較対象・対照関係は [[card-issuers/smbc-card|三井住友カード (SMCC)]]、より広い制度・規制上の境界は [[payments/INDEX|payments index]] とあわせて読む。
+この項目は [[card-issuers/INDEX|card-issuers INDEX]] の下に位置づけられる。比較対象・対照関係は [[card-issuers/smbc-card|三井住友カード (SMCC)]]、より広い制度・規制上の境界は [[payments/INDEX|payments index]] とあわせて読む。
 
 ## 要約
 

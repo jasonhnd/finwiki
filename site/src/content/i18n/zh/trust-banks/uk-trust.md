@@ -1,5 +1,5 @@
 ---
-source: japanfg/uk-trust
+source: trust-banks/uk-trust
 source_hash: 9b50761ae9fe53a4
 lang: zh
 status: machine
@@ -10,7 +10,7 @@ translated_at: 2026-06-01T02:31:57.156Z
 
 # UK Trust / UK信托
 
-Wiki route: [[JapanFG/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/uk-trust]]
+Wiki route: [[trust-banks/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/uk-trust]]
 
 ## Overview
 

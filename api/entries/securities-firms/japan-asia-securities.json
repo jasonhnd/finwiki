@@ -38,7 +38,7 @@
       "https://www.jsda.or.jp/"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against アイザワ証券 / 岩井コスモ証券 for peer mid-cap independent securities with Asian-emerging focus, 丸三証券 for old-line independent broker context, and securities index for the broader market-structure boundary.",
+  "summary": "This entry sits under securities-firms INDEX. Read it against アイザワ証券 / 岩井コスモ証券 for peer mid-cap independent securities with Asian-emerging focus, 丸三証券 for old-line independent broker context, and securities index for the broader market-structure boundary.",
   "headings": [
     "日本アジア証券 (Japan Asia Securities)",
     "Wiki route",
@@ -54,7 +54,7 @@
   "body_links": {
     "wikilinks_count": 13,
     "wikilinks": [
-      "JapanFG/INDEX",
+      "securities-firms/INDEX",
       "securities-firms/aizawa-securities",
       "securities-firms/aizawa-sg",
       "securities-firms/iwai-cosmo-hd",
@@ -69,7 +69,7 @@
       "securities/tokyo-stock-exchange"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/securities-firms/INDEX",
       "https://finwiki.zksc.io/securities-firms/aizawa-securities",
       "https://finwiki.zksc.io/securities-firms/aizawa-sg",
       "https://finwiki.zksc.io/securities-firms/iwai-cosmo-hd",
@@ -87,9 +87,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3814,
-    "word_like_tokens": 512,
+    "nonspace_chars": 3850,
+    "word_like_tokens": 516,
     "inbound_wikilinks_count": 1,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

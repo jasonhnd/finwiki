@@ -1,5 +1,5 @@
 ---
-source: japanfg/national-bank-of-pakistan-japan
+source: foreign-financial-institutions/national-bank-of-pakistan-japan
 source_hash: f1902f37f7763f0b
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:54:39.068Z
 
 ## ウィキ上の位置づけ
 
-National Bank of Pakistan Japan は [[JapanFG/INDEX|JapanFG index]] に属し、[[foreign-financial-institutions/foreign-bank-branches-japan-index|the foreign-bank branch registry]] における外国銀行支店ルートである。南アジア回廊の比較では [[foreign-financial-institutions/state-bank-of-india-japan|State Bank of India Japan]]、送金文脈では [[payments/funds-transfer-service-providers-japan-index|funds-transfer registry]]、関連する銀行文脈では [[banking/INDEX|banking index]] と併せて読む。
+National Bank of Pakistan Japan は [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]] に属し、[[foreign-financial-institutions/foreign-bank-branches-japan-index|the foreign-bank branch registry]] における外国銀行支店ルートである。南アジア回廊の比較では [[foreign-financial-institutions/state-bank-of-india-japan|State Bank of India Japan]]、送金文脈では [[payments/funds-transfer-service-providers-japan-index|funds-transfer registry]]、関連する銀行文脈では [[banking/INDEX|banking index]] と併せて読む。
 
 このページは、Pakistan-Japan の送金、貿易金融、預金、南アジア回廊銀行に関する論点で利用する。
 
@@ -58,7 +58,7 @@ National Bank of Pakistan Japan は回廊型支店として読むべきである
 
 ## 関連項目
 
-- [[JapanFG/INDEX]]
+- [[foreign-financial-institutions/INDEX]]
 - [[foreign-financial-institutions/foreign-bank-branches-japan-index]]
 - [[foreign-financial-institutions/state-bank-of-india-japan]]
 - [[foreign-financial-institutions/bank-of-india-japan]]

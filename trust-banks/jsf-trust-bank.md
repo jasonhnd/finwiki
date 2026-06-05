@@ -83,7 +83,7 @@ That makes the bank a peer / complement to [[trust-banks/master-trust-bank|Maste
 
 ## Related
 
-- [[JapanFG/INDEX]]
+- [[trust-banks/INDEX]]
 - [[financial-regulators/japan-securities-finance]]
 - [[securities/japan-margin-trading-and-securities-finance]]
 - [[securities/japan-stock-lending-market-route]]

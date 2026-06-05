@@ -1,5 +1,5 @@
 ---
-source: japanfg/okasan-sg
+source: securities-firms/okasan-sg
 source_hash: cd863ec4dcb98623
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T15:14:17.114Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の下に位置づけます。ピア比較・対照の文脈では [[securities-firms/tokai-tokyo-fh|東海東京フィナンシャル・ホールディングス (Tokai Tokyo FH)]]、より広い制度・規制上の境界では [[securities/INDEX|securities index]] とあわせて読んでください。
+この項目は [[securities-firms/INDEX|securities-firms INDEX]] の下に位置づけます。ピア比較・対照の文脈では [[securities-firms/tokai-tokyo-fh|東海東京フィナンシャル・ホールディングス (Tokai Tokyo FH)]]、より広い制度・規制上の境界では [[securities/INDEX|securities index]] とあわせて読んでください。
 
 ## 要約
 

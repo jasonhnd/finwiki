@@ -1,5 +1,5 @@
 ---
-source: japanfg/qbe-japan
+source: non-life-insurers/qbe-japan
 source_hash: e79940598b832b70
 lang: zh
 status: machine
@@ -37,7 +37,7 @@ QBE Japan / QBE ??????????QBE ??????????????????????????????????????????????????
 
 ## ??????
 
-- [[JapanFG/INDEX|JapanFG index]] [[non-life-insurers/lloyd-japan|Lloyd's Japan]] [[non-life-insurers/fm-global-japan|FM Global Japan]] [[insurance/INDEX|insurance index]] [[non-life-insurers/lloyd-japan|Lloyd's Japan]] [[non-life-insurers/allianz-fire-marine-japan|Allianz Fire and Marine Insurance Japan]] 1 [[financial-licenses/insurance-license-and-solvency|insurance license and solvency]] 2 [[non-life-insurers/lloyd-japan|Lloyd's Japan]] [[insurance/japan-nonlife-big-three|non-life big three]] [[insurance/global-solvency-framework-comparison-matrix|global solvency framework comparison matrix]] 3 [[insurance/japan-nonlife-big-three|non-life big three]] [[non-life-insurers/lloyd-japan]] [[non-life-insurers/fm-global-japan]] [[non-life-insurers/aig-japan]] [[non-life-insurers/chubb-insurance-japan]]
+- [[non-life-insurers/INDEX|non-life-insurers INDEX]] [[non-life-insurers/lloyd-japan|Lloyd's Japan]] [[non-life-insurers/fm-global-japan|FM Global Japan]] [[insurance/INDEX|insurance index]] [[non-life-insurers/lloyd-japan|Lloyd's Japan]] [[non-life-insurers/allianz-fire-marine-japan|Allianz Fire and Marine Insurance Japan]] 1 [[financial-licenses/insurance-license-and-solvency|insurance license and solvency]] 2 [[non-life-insurers/lloyd-japan|Lloyd's Japan]] [[insurance/japan-nonlife-big-three|non-life big three]] [[insurance/global-solvency-framework-comparison-matrix|global solvency framework comparison matrix]] 3 [[insurance/japan-nonlife-big-three|non-life big three]] [[non-life-insurers/lloyd-japan]] [[non-life-insurers/fm-global-japan]] [[non-life-insurers/aig-japan]] [[non-life-insurers/chubb-insurance-japan]]
 - [[non-life-insurers/allianz-fire-marine-japan]] [[insurance/japan-nonlife-big-three]] [[insurance/natcat-reinsurance-japan]] [[insurance/global-solvency-framework-comparison-matrix]] [[financial-licenses/insurance-license-and-solvency]] [[insurance/INDEX]] 2026-05-24
 
 ## Related

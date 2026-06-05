@@ -1,5 +1,5 @@
 ---
-source: japanfg/rakuten-card
+source: card-issuers/rakuten-card
 source_hash: bae553d3c82f69b2
 lang: en
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-06-01T00:41:50.416Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it with [[payments/INDEX|payments index]] for adjacent context and [[payments/funds-transfer-vs-prepaid-boundary|Funds transfer vs prepaid boundary in Japan]] for the broader system boundary.
+This entry sits under [[card-issuers/INDEX|card-issuers INDEX]]. Read it with [[payments/INDEX|payments index]] for adjacent context and [[payments/funds-transfer-vs-prepaid-boundary|Funds transfer vs prepaid boundary in Japan]] for the broader system boundary.
 
 ## TL;DR
 

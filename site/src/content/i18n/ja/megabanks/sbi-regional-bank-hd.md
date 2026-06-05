@@ -1,5 +1,5 @@
 ---
-source: japanfg/sbi-regional-bank-hd
+source: megabanks/sbi-regional-bank-hd
 source_hash: 9fe53aa3c842f991
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T15:14:17.150Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に置く。[[megabanks/mufg|三菱 UFJ FG (MUFG)]] は同業・比較対象の文脈として、[[banking/INDEX|banking index]] はより広い制度・規制上の境界として併読する。
+この項目は [[megabanks/INDEX|megabanks INDEX]] の配下に置く。[[megabanks/mufg|三菱 UFJ FG (MUFG)]] は同業・比較対象の文脈として、[[banking/INDEX|banking index]] はより広い制度・規制上の境界として併読する。
 
 ## 要約
 

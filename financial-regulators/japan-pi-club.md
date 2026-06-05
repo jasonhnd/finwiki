@@ -19,7 +19,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[non-life-insurers/toa-reinsurance|トーア再保険]] for a reinsurance peer (both sit outside the FSA non-life direct primary register) and [[financial-regulators/nippon-kaiji-kyokai|日本海事協会 (ClassNK)]] for the closest marine-industry sibling. The broader system frame is [[insurance/INDEX|insurance index]] and the global P&I context is the International Group of P&I Clubs reference linked in Sources.
+This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]]. Read it against [[non-life-insurers/toa-reinsurance|トーア再保険]] for a reinsurance peer (both sit outside the FSA non-life direct primary register) and [[financial-regulators/nippon-kaiji-kyokai|日本海事協会 (ClassNK)]] for the closest marine-industry sibling. The broader system frame is [[insurance/INDEX|insurance index]] and the global P&I context is the International Group of P&I Clubs reference linked in Sources.
 
 ## TL;DR
 
@@ -50,7 +50,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[non-lif
 
 ## Related
 
-- [[JapanFG/INDEX]]
+- [[financial-regulators/INDEX]]
 - [[nippon-kaiji-kyokai]]
 - [[toa-reinsurance]]
 - [[tokio-marine-nichido-fire]]

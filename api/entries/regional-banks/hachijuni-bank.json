@@ -36,7 +36,7 @@
       "https://bank.82group.jp/about/company/"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against ふくおか FG (FFG) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under regional-banks INDEX. Read it against ふくおか FG (FFG) for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [
     "株式会社八十二銀行 (The Hachijuni Bank)",
     "Wiki route",
@@ -52,7 +52,6 @@
   "body_links": {
     "wikilinks_count": 15,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "banking/minna-bank-baas-model",
       "concordia-fg",
@@ -64,12 +63,12 @@
       "mebuki-fg",
       "mizuho-fg",
       "mufg",
+      "regional-banks/INDEX",
       "regional-banks/fukuoka-fg",
       "shizuoka-fg",
       "smfg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/minna-bank-baas-model",
       "https://finwiki.zksc.io/concordia-fg",
@@ -81,6 +80,7 @@
       "https://finwiki.zksc.io/mebuki-fg",
       "https://finwiki.zksc.io/mizuho-fg",
       "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/regional-banks/INDEX",
       "https://finwiki.zksc.io/regional-banks/fukuoka-fg",
       "https://finwiki.zksc.io/shizuoka-fg",
       "https://finwiki.zksc.io/smfg"
@@ -89,9 +89,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4573,
-    "word_like_tokens": 713,
+    "nonspace_chars": 4587,
+    "word_like_tokens": 715,
     "inbound_wikilinks_count": 3,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

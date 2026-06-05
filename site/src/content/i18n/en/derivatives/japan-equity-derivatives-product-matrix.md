@@ -16,7 +16,7 @@ Japan's listed equity derivatives complex is concentrated on the Osaka Exchange 
 
 ## Wiki route
 
-This entry sits under [[derivatives/INDEX|derivatives index]]. It pairs with [[derivatives/nikkei-225-futures-options|Nikkei 225 futures and options]] for the headline index-derivative lane, [[derivatives/topix-futures|TOPIX futures]] for the broad-market hedge lane, [[derivatives/japan-single-stock-options|Japan single-stock options]] for the name-by-name optionality lane, [[derivatives/nikkei-vix-jpx-vi-equivalent|Nikkei VIX / JPX-VI]] for the volatility surface, and [[derivatives/structured-product-eb-knockin-japan-retail|Japan retail EB knock-in structured products]] for the structured / retail-distribution lane. The cash market sits at [[securities/INDEX|securities index]] and [[securities/japan-market-infrastructure-map|Japan market infrastructure map]]; the exchange / CCP layer is [[securities/japan-securities-clearing-corp|JSCC]] and the dealer franchise is [[banking/INDEX|banking index]] plus the [[JapanFG/INDEX|JapanFG]] securities-firm pages.
+This entry sits under [[derivatives/INDEX|derivatives index]]. It pairs with [[derivatives/nikkei-225-futures-options|Nikkei 225 futures and options]] for the headline index-derivative lane, [[derivatives/topix-futures|TOPIX futures]] for the broad-market hedge lane, [[derivatives/japan-single-stock-options|Japan single-stock options]] for the name-by-name optionality lane, [[derivatives/nikkei-vix-jpx-vi-equivalent|Nikkei VIX / JPX-VI]] for the volatility surface, and [[derivatives/structured-product-eb-knockin-japan-retail|Japan retail EB knock-in structured products]] for the structured / retail-distribution lane. The cash market sits at [[securities/INDEX|securities index]] and [[securities/japan-market-infrastructure-map|Japan market infrastructure map]]; the exchange / CCP layer is [[securities/japan-securities-clearing-corp|JSCC]] and the dealer franchise is [[banking/INDEX|banking index]] plus the [[derivatives/INDEX|derivatives INDEX]] securities-firm pages.
 
 ## Why an equity-derivative product matrix matters
 
@@ -227,7 +227,6 @@ The equity-derivative product matrix is a public-surface tool. When reading any 
 - [[securities/japan-market-infrastructure-map]]
 - [[securities/japan-securities-clearing-corp]]
 - [[banking/INDEX]]
-- [[JapanFG/INDEX]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

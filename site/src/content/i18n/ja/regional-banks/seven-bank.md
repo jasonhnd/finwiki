@@ -1,5 +1,5 @@
 ---
-source: japanfg/seven-bank
+source: regional-banks/seven-bank
 source_hash: efbf9cab130bc899
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T15:14:17.096Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に置く。比較・対照の文脈は [[regional-banks/lawson-bank|ローソン銀行 (Lawson Bank)]] と照合し、より広い制度・規制上の境界は [[banking/INDEX|banking index]] とあわせて読む。
+この項目は [[regional-banks/INDEX|regional-banks INDEX]] の配下に置く。比較・対照の文脈は [[regional-banks/lawson-bank|ローソン銀行 (Lawson Bank)]] と照合し、より広い制度・規制上の境界は [[banking/INDEX|banking index]] とあわせて読む。
 
 ## 要約
 

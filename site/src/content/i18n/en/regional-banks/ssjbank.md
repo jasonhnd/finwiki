@@ -1,5 +1,5 @@
 ---
-source: japanfg/ssjbank
+source: regional-banks/ssjbank
 source_hash: c65a6ebb77a52cbb
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.175Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[megabanks/mufg|三菱 UFJ FG (MUFG)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it against [[megabanks/mufg|三菱 UFJ FG (MUFG)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
@@ -35,7 +35,7 @@ Do not delete this page. Keep it so that if old Obsidian links or auto-generated
 
 - [[regional-banks/77-bank|七十七銀行]]
 - [[regional-banks/proclair-hd|proclair-hd]]
-- [[JapanFG/INDEX|JapanFG INDEX]]
+- [[regional-banks/INDEX|regional-banks INDEX]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

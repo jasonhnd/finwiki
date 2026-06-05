@@ -1,5 +1,5 @@
 ---
-source: japanfg/jal-card
+source: card-issuers/jal-card
 source_hash: f26765e392ab51af
 lang: ja
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-06-02T14:25:12.442Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に位置づける。比較対象の文脈は [[card-issuers/jr-east-financial|株式会社JR東日本ファイナンシャル & View Card]]、規制・登録上の境界は [[payments/credit-purchase-card-operators-japan-index|credit purchase / card operators index]] とあわせて読む。
+この項目は [[card-issuers/INDEX|card-issuers INDEX]] の配下に位置づける。比較対象の文脈は [[card-issuers/jr-east-financial|株式会社JR東日本ファイナンシャル & View Card]]、規制・登録上の境界は [[payments/credit-purchase-card-operators-japan-index|credit purchase / card operators index]] とあわせて読む。
 
 ## 要約
 

@@ -1,5 +1,5 @@
 ---
-source: japanfg/anz-bank-japan
+source: securities-firms/anz-bank-japan
 source_hash: cc64ee9857c3d37e
 lang: en
 status: machine
@@ -14,7 +14,7 @@ translated_at: 2026-05-31T11:13:44.839Z
 
 ANZ Japan sits between [[foreign-financial-institutions/foreign-bank-branches-japan-index|foreign-bank branch registry]], [[securities/financial-instruments-business-operators-japan-index|FIEA operator registry]], and [[financial-licenses/foreign-financial-group-adjacent-licenses|foreign financial group adjacent-license route]]. It is linked with [[foreign-financial-institutions/standard-chartered-japan|Standard Chartered Japan]], [[foreign-financial-institutions/dbs-bank-japan|DBS Japan]], [[foreign-financial-institutions/uob-bank-japan|UOB Japan]], and [[financial-licenses/securities-license-stack|securities license stack]].
 
-Route this entry through [[JapanFG/INDEX|JapanFG index]] first, then use [[securities/INDEX|securities domain]] for the FIBO / markets side and [[banking/INDEX|banking domain]] for the branch-banking side.
+Route this entry through [[securities-firms/INDEX|securities-firms INDEX]] first, then use [[securities/INDEX|securities domain]] for the FIBO / markets side and [[banking/INDEX|banking domain]] for the branch-banking side.
 
 ## Overview
 
@@ -67,7 +67,7 @@ Registration is observed in the checked FSA sources as of 2026-05-13; this page 
 
 ## Related
 
-- [[JapanFG/INDEX]]
+- [[securities-firms/INDEX]]
 - [[foreign-financial-institutions/foreign-bank-branches-japan-index]]
 - [[financial-licenses/foreign-bank-branch-license-route]]
 - [[financial-licenses/foreign-bank-agency-business-route]]

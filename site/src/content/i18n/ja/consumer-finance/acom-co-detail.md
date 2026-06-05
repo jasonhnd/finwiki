@@ -1,5 +1,5 @@
 ---
-source: japanfg/acom-co-detail
+source: consumer-finance/acom-co-detail
 source_hash: a831aad37c8bf471
 lang: ja
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-06-02T14:01:20.951Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の下に置かれ、[[consumer-finance/acom|アコム株式会社]] の会社レベル要約を補完する。MUFG グループに対する SMFG 側の競合文脈は [[consumer-finance/smbc-consumer-finance|SMBCコンシューマーファイナンス (プロミス)]]、独立系専業消費者金融のピアは [[consumer-finance/aiful|アイフル]]、親グループ文脈は [[megabanks/mufg|MUFG]] / [[megabanks/mufg-bank|三菱UFJ銀行]] とあわせて読む。
+この項目は [[consumer-finance/INDEX|consumer-finance INDEX]] の下に置かれ、[[consumer-finance/acom|アコム株式会社]] の会社レベル要約を補完する。MUFG グループに対する SMFG 側の競合文脈は [[consumer-finance/smbc-consumer-finance|SMBCコンシューマーファイナンス (プロミス)]]、独立系専業消費者金融のピアは [[consumer-finance/aiful|アイフル]]、親グループ文脈は [[megabanks/mufg|MUFG]] / [[megabanks/mufg-bank|三菱UFJ銀行]] とあわせて読む。
 
 ## 要約
 
@@ -119,7 +119,7 @@ translated_at: 2026-06-02T14:01:20.951Z
 - [[consumer-finance/aiful|アイフル]] — 独立系競合
 - [[card-issuers/jaccs|ジャックス]] — 信販系競合
 - [[card-issuers/orico|オリコ]] — 信販系競合
-- [[JapanFG/INDEX|JapanFG index]]
+- [[consumer-finance/INDEX|consumer-finance INDEX]]
 - [[banking/INDEX|Banking domain index]]
 
 ## 出典

@@ -57,10 +57,9 @@
     "5. Where It Sits Among the Share-Side Regimes"
   ],
   "body_links": {
-    "wikilinks_count": 15,
+    "wikilinks_count": 14,
     "wikilinks": [
       "INDEX",
-      "JapanFG/INDEX",
       "corporate-strategy/INDEX",
       "corporate-strategy/japan-holding-company-conversion",
       "corporate-strategy/japan-kaisha-bunkatsu-tax-regime",
@@ -77,7 +76,6 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/corporate-strategy/INDEX",
       "https://finwiki.zksc.io/corporate-strategy/japan-holding-company-conversion",
       "https://finwiki.zksc.io/corporate-strategy/japan-kaisha-bunkatsu-tax-regime",
@@ -96,9 +94,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 12099,
-    "word_like_tokens": 1957,
+    "nonspace_chars": 12121,
+    "word_like_tokens": 1959,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-06-03"
+    "last_modified": "2026-06-06"
   }
 }

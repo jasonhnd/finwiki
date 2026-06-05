@@ -25,7 +25,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **Tohoku regional shinkumi (地域信組) anchor** within the 143-cooperative population catalogued in [[banking/credit-cooperative-registry-japan|Japan credit cooperative registry]]. Read it against [[cooperative-banks/osaka-shogin-shinkumi|大阪商銀信用組合]] for the ethnic-business shinkumi contrast and [[cooperative-banks/zenshin-kumi|全信組連 / Zenshinkumiren]] for the cooperative-system parent.
+This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as a **Tohoku regional shinkumi (地域信組) anchor** within the 143-cooperative population catalogued in [[banking/credit-cooperative-registry-japan|Japan credit cooperative registry]]. Read it against [[cooperative-banks/osaka-shogin-shinkumi|大阪商銀信用組合]] for the ethnic-business shinkumi contrast and [[cooperative-banks/zenshin-kumi|全信組連 / Zenshinkumiren]] for the cooperative-system parent.
 
 ## TL;DR
 
@@ -114,7 +114,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **Tohoku regional shi
 - [[financial-regulators/shoko-chukin]] — 商工中金 (政府系中小企業金融、被災地連携)
 - [[banking/credit-cooperative-registry-japan]] — Japan credit cooperative registry (143 shinkumi 全体)
 - [[banking/cooperative-banking-japan]] — 協同組織金融全体
-- [[JapanFG/INDEX|JapanFG index]]
+- [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 
 ## Sources
 

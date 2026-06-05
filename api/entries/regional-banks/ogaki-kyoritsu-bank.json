@@ -35,7 +35,7 @@
       "https://www.okb.co.jp/assets/pdf/investor/tanshin/2024/2025-0502.pdf"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against ふくおか FG (FFG) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under regional-banks INDEX. Read it against ふくおか FG (FFG) for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [
     "大垣共立銀行 (OKB)",
     "Wiki route",
@@ -51,21 +51,21 @@
   "body_links": {
     "wikilinks_count": 8,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "juroku-fg",
       "mizuho-fg",
       "mufg",
+      "regional-banks/INDEX",
       "regional-banks/fukuoka-fg",
       "san-jusan-fg",
       "smfg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/juroku-fg",
       "https://finwiki.zksc.io/mizuho-fg",
       "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/regional-banks/INDEX",
       "https://finwiki.zksc.io/regional-banks/fukuoka-fg",
       "https://finwiki.zksc.io/san-jusan-fg",
       "https://finwiki.zksc.io/smfg"
@@ -74,9 +74,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4026,
-    "word_like_tokens": 644,
+    "nonspace_chars": 4040,
+    "word_like_tokens": 646,
     "inbound_wikilinks_count": 3,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

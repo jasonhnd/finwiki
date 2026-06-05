@@ -1,5 +1,5 @@
 ---
-source: japanfg/scor-japan
+source: non-life-insurers/scor-japan
 source_hash: e05faaad2865da62
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T00:41:50.479Z
 
 ## Wiki Route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[non-life-insurers/hannover-re-japan|ハノーバー再保険日本支店]] as a fellow "European third-tier" reinsurer, and the "Big 2" peers [[non-life-insurers/munich-re-japan|ミュンヘン再保険日本支店]] and [[non-life-insurers/swiss-re-japan|スイス再保険日本支店]]. The system anchor is [[insurance/natcat-reinsurance-japan|nat-cat reinsurance Japan]], with domestic contrast [[non-life-insurers/toa-reinsurance|トーア再保険]].
+This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read it against [[non-life-insurers/hannover-re-japan|ハノーバー再保険日本支店]] as a fellow "European third-tier" reinsurer, and the "Big 2" peers [[non-life-insurers/munich-re-japan|ミュンヘン再保険日本支店]] and [[non-life-insurers/swiss-re-japan|スイス再保険日本支店]]. The system anchor is [[insurance/natcat-reinsurance-japan|nat-cat reinsurance Japan]], with domestic contrast [[non-life-insurers/toa-reinsurance|トーア再保険]].
 
 ## TL;DR
 
@@ -43,7 +43,7 @@ This is the Japan branch of SCOR SE, a major European reinsurer listed in Paris.
 
 ## Related
 
-- [[JapanFG/INDEX]]
+- [[non-life-insurers/INDEX]]
 - [[munich-re-japan]]
 - [[swiss-re-japan]]
 - [[hannover-re-japan]]

@@ -1,5 +1,5 @@
 ---
-source: japanfg/okinawa-bank
+source: regional-banks/okinawa-bank
 source_hash: fa0965eff57e2b78
 lang: ja
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-06-02T15:14:17.130Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に位置する。ピア比較・対比の文脈では [[regional-banks/fukuoka-bank|福岡銀行]]、より広い制度・規制上の境界では [[banking/INDEX|banking index]] とあわせて読む。
+この項目は [[regional-banks/INDEX|regional-banks INDEX]] の配下に位置する。ピア比較・対比の文脈では [[regional-banks/fukuoka-bank|福岡銀行]]、より広い制度・規制上の境界では [[banking/INDEX|banking index]] とあわせて読む。
 
 ## 要約
 

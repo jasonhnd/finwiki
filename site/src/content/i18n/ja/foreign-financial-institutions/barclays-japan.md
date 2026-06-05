@@ -1,5 +1,5 @@
 ---
-source: japanfg/barclays-japan
+source: foreign-financial-institutions/barclays-japan
 source_hash: ccf484a60c76c53e
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:01:20.953Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の下に置かれる。 [[foreign-financial-institutions/citigroup-japan|シティグループ・ジャパン (Citigroup Japan)]] をピア比較・対照の文脈として、[[banking/INDEX|banking index]] をより広い制度・規制境界としてあわせて読む。
+この項目は [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]] の下に置かれる。 [[foreign-financial-institutions/citigroup-japan|シティグループ・ジャパン (Citigroup Japan)]] をピア比較・対照の文脈として、[[banking/INDEX|banking index]] をより広い制度・規制境界としてあわせて読む。
 
 ## 要約
 

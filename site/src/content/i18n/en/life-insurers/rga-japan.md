@@ -1,5 +1,5 @@
 ---
-source: japanfg/rga-japan
+source: life-insurers/rga-japan
 source_hash: 16a4f23923416c63
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T00:41:50.466Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[non-life-insurers/gen-re-japan|ジェネラル再保険日本支店]] as a US-headquartered reinsurer peer, and against [[non-life-insurers/swiss-re-japan|スイス再保険日本支店]] / [[non-life-insurers/hannover-re-japan|ハノーバー再保険日本支店]] for life-reinsurance competitive context. The domestic-reinsurer contrast remains [[non-life-insurers/toa-reinsurance|トーア再保険]], and broader system map is [[insurance/INDEX|insurance index]].
+This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it against [[non-life-insurers/gen-re-japan|ジェネラル再保険日本支店]] as a US-headquartered reinsurer peer, and against [[non-life-insurers/swiss-re-japan|スイス再保険日本支店]] / [[non-life-insurers/hannover-re-japan|ハノーバー再保険日本支店]] for life-reinsurance competitive context. The domestic-reinsurer contrast remains [[non-life-insurers/toa-reinsurance|トーア再保険]], and broader system map is [[insurance/INDEX|insurance index]].
 
 ## TL;DR
 
@@ -44,7 +44,7 @@ This is the Japan branch of RGA Reinsurance Company, a subsidiary of U.S.-based 
 
 ## Related
 
-- [[JapanFG/INDEX]]
+- [[life-insurers/INDEX]]
 - [[gen-re-japan]]
 - [[swiss-re-japan]]
 - [[hannover-re-japan]]

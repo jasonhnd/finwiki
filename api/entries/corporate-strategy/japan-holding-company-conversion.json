@@ -57,10 +57,9 @@
     "4. Tax Layer — 適格 Treatment Carries Through"
   ],
   "body_links": {
-    "wikilinks_count": 14,
+    "wikilinks_count": 13,
     "wikilinks": [
       "INDEX",
-      "JapanFG/INDEX",
       "business/japan-listed-corp-strategic-restructuring-matrix",
       "corporate-strategy/INDEX",
       "corporate-strategy/japan-business-succession-jigyou-shoukei",
@@ -76,7 +75,6 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/business/japan-listed-corp-strategic-restructuring-matrix",
       "https://finwiki.zksc.io/corporate-strategy/INDEX",
       "https://finwiki.zksc.io/corporate-strategy/japan-business-succession-jigyou-shoukei",
@@ -94,9 +92,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 11192,
-    "word_like_tokens": 1814,
+    "nonspace_chars": 11183,
+    "word_like_tokens": 1812,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-06-03"
+    "last_modified": "2026-06-06"
   }
 }

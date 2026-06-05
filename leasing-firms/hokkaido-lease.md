@@ -23,7 +23,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[leasing-firms/fuyo-lease|芙蓉総合リース]] for peer / contrast context (national 準大手 vs regional captive) and [[banking/INDEX|banking index]] for the broader system / regulatory boundary. Read it together with [[regional-banks/hokkaido-bank|北海道銀行]] and [[regional-banks/hokuyo-bank|北洋銀行]] for the parent / regional context.
+This entry sits under [[leasing-firms/INDEX|leasing-firms INDEX]]. Read it against [[leasing-firms/fuyo-lease|芙蓉総合リース]] for peer / contrast context (national 準大手 vs regional captive) and [[banking/INDEX|banking index]] for the broader system / regulatory boundary. Read it together with [[regional-banks/hokkaido-bank|北海道銀行]] and [[regional-banks/hokuyo-bank|北洋銀行]] for the parent / regional context.
 
 ## TL;DR
 

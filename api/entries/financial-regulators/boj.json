@@ -37,7 +37,7 @@
       "日本銀行法 (平成 9 年法律第 89 号)"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 金融庁 for the regulatory counterpart, 預金保険機構 for the safety-net peer, and BoJ 金融政策 / BoJ 金融市場局 for internal organs.",
+  "summary": "This entry sits under financial-regulators INDEX. Read it against 金融庁 for the regulatory counterpart, 預金保険機構 for the safety-net peer, and BoJ 金融政策 / BoJ 金融市場局 for internal organs.",
   "headings": [
     "日本銀行 (BoJ)",
     "Wiki route",
@@ -53,7 +53,7 @@
   "body_links": {
     "wikilinks_count": 14,
     "wikilinks": [
-      "JapanFG/INDEX",
+      "financial-regulators/INDEX",
       "financial-regulators/boj-financial-markets-dept",
       "financial-regulators/boj-financial-system-dept",
       "financial-regulators/boj-international-dept",
@@ -69,7 +69,7 @@
       "systems/zengin"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/financial-regulators/INDEX",
       "https://finwiki.zksc.io/financial-regulators/boj-financial-markets-dept",
       "https://finwiki.zksc.io/financial-regulators/boj-financial-system-dept",
       "https://finwiki.zksc.io/financial-regulators/boj-international-dept",
@@ -88,9 +88,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4490,
-    "word_like_tokens": 758,
+    "nonspace_chars": 4542,
+    "word_like_tokens": 762,
     "inbound_wikilinks_count": 13,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

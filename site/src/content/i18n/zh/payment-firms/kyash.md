@@ -1,5 +1,5 @@
 ---
-source: japanfg/kyash
+source: payment-firms/kyash
 source_hash: 02e23a5efee1155b
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T23:59:49.408Z
 
 ## Wiki route
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可结合 [[payment-firms/pring|pring]] 阅读，以理解同业与对比关系；也可结合 [[payments/INDEX|payments index]] 阅读，以把握更广泛的支付系统和监管边界。
+本条目位于 [[payment-firms/INDEX|payment-firms INDEX]] 之下。可结合 [[payment-firms/pring|pring]] 阅读，以理解同业与对比关系；也可结合 [[payments/INDEX|payments index]] 阅读，以把握更广泛的支付系统和监管边界。
 
 ## TL;DR
 

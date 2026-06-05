@@ -1,5 +1,5 @@
 ---
-source: japanfg/anicom-hd
+source: non-life-insurers/anicom-hd
 source_hash: 511cd11fc25ed860
 lang: ja
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-06-02T14:01:20.909Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下にある。隣接する文脈は [[insurance/INDEX|insurance index]] とあわせて読み、より広い制度境界については [[financial-licenses/INDEX|JapanFG index]] とあわせて読む。
+この項目は [[non-life-insurers/INDEX|non-life-insurers INDEX]] の配下にある。隣接する文脈は [[insurance/INDEX|insurance index]] とあわせて読み、より広い制度境界については [[financial-licenses/INDEX|JapanFG index]] とあわせて読む。
 
 ## 要約
 

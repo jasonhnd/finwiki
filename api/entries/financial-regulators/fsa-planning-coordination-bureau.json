@@ -43,7 +43,7 @@
       "https://www.fsa.go.jp/en/refer/councils/index.html"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against FSA 監督局 for the supervision-side counterpart and FSA 総合政策局 for the cross-bureau strategy lane. For market-rule context, anchor through JSDA and the legal / financial licenses index; for the BoJ-side prudential bureau contrast, see BoJ 金融機構局.",
+  "summary": "This entry sits under financial-regulators INDEX. Read it against FSA 監督局 for the supervision-side counterpart and FSA 総合政策局 for the cross-bureau strategy lane. For market-rule context, anchor through JSDA and the legal / financial licenses index; for the BoJ-side prudential bureau contrast, see BoJ",
   "headings": [
     "企画市場局 (FSA Planning and Coordination Bureau)",
     "Wiki route",
@@ -57,12 +57,12 @@
   "body_links": {
     "wikilinks_count": 12,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "exchanges/fsa-vasp-registration-system",
       "financial-licenses/INDEX",
       "financial-licenses/insurance-license-and-solvency",
       "financial-licenses/securities-license-stack",
+      "financial-regulators/INDEX",
       "financial-regulators/boj-financial-system-dept",
       "financial-regulators/cpaaob",
       "financial-regulators/fsa-inspection-bureau",
@@ -71,12 +71,12 @@
       "financial-regulators/jsda"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
       "https://finwiki.zksc.io/financial-licenses/INDEX",
       "https://finwiki.zksc.io/financial-licenses/insurance-license-and-solvency",
       "https://finwiki.zksc.io/financial-licenses/securities-license-stack",
+      "https://finwiki.zksc.io/financial-regulators/INDEX",
       "https://finwiki.zksc.io/financial-regulators/boj-financial-system-dept",
       "https://finwiki.zksc.io/financial-regulators/cpaaob",
       "https://finwiki.zksc.io/financial-regulators/fsa-inspection-bureau",
@@ -88,9 +88,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6249,
-    "word_like_tokens": 966,
+    "nonspace_chars": 6275,
+    "word_like_tokens": 968,
     "inbound_wikilinks_count": 7,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

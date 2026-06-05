@@ -1,5 +1,5 @@
 ---
-source: japanfg/mufg-esmart-securities
+source: securities-firms/mufg-esmart-securities
 source_hash: a659cc849fcc5368
 lang: en
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T23:59:49.382Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[securities-firms/sbi-securities|SBI証券 (SBI Securities)]] for peer / contrast context and [[securities/INDEX|securities index]] for the broader system / regulatory boundary.
+This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it against [[securities-firms/sbi-securities|SBI証券 (SBI Securities)]] for peer / contrast context and [[securities/INDEX|securities index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 

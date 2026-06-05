@@ -37,7 +37,7 @@
       "金融庁 保険契約者保護機構関連ページ (https://www.fsa.go.jp/, 2026-05-25 参照)"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 生命保険契約者保護機構 for parallel safety-net peer and 預金保険機構 / 金融庁 for the broader system / regulatory boundary.",
+  "summary": "This entry sits under financial-regulators INDEX. Read it against 生命保険契約者保護機構 for parallel safety-net peer and 預金保険機構 / 金融庁 for the broader system / regulatory boundary.",
   "headings": [
     "損害保険契約者保護機構",
     "Wiki route",
@@ -53,7 +53,7 @@
   "body_links": {
     "wikilinks_count": 12,
     "wikilinks": [
-      "JapanFG/INDEX",
+      "financial-regulators/INDEX",
       "financial-regulators/dai-ichi-mutual",
       "financial-regulators/dic",
       "financial-regulators/fsa",
@@ -67,7 +67,7 @@
       "non-life-insurers/tokio-marine-hd"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/financial-regulators/INDEX",
       "https://finwiki.zksc.io/financial-regulators/dai-ichi-mutual",
       "https://finwiki.zksc.io/financial-regulators/dic",
       "https://finwiki.zksc.io/financial-regulators/fsa",
@@ -84,9 +84,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4439,
-    "word_like_tokens": 620,
+    "nonspace_chars": 4491,
+    "word_like_tokens": 624,
     "inbound_wikilinks_count": 8,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

@@ -1,5 +1,5 @@
 ---
-source: japanfg/jcr
+source: financial-regulators/jcr
 source_hash: b08ae72d8492101e
 lang: ja
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-02T14:25:12.403Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に置く。[[financial-regulators/rating-and-investment|格付投資情報センター (R&I)]] は比較対象・対照文脈として、[[financial-regulators/fsa|金融庁]] はより広い規制境界（信用格付業者登録）として読む。
+この項目は [[financial-regulators/INDEX|financial-regulators INDEX]] の配下に置く。[[financial-regulators/rating-and-investment|格付投資情報センター (R&I)]] は比較対象・対照文脈として、[[financial-regulators/fsa|金融庁]] はより広い規制境界（信用格付業者登録）として読む。
 
 ## 要約
 
@@ -94,7 +94,7 @@ translated_at: 2026-06-02T14:25:12.403Z
 - [[financial-regulators/rating-and-investment|格付投資情報センター (R&I)]] · [[financial-regulators/fsa|金融庁]]
 - [[megabanks/mufg|MUFG]] · [[megabanks/smfg|SMFG]] · [[megabanks/mizuho-fg|みずほ FG]]
 - [[financial-regulators/japan-exchange-group|日本取引所グループ]]
-- [[JapanFG/INDEX|JapanFG index]]
+- [[financial-regulators/INDEX|financial-regulators INDEX]]
 
 ## 出典
 

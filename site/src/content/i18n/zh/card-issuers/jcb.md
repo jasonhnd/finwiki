@@ -1,5 +1,5 @@
 ---
-source: japanfg/jcb
+source: card-issuers/jcb
 source_hash: f3da014d83e80d70
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:05:42.090Z
 
 ## Wiki route
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 下。可与 [[card-issuers/orico|株式会社オリエントコーポレーション (Orico)]] 对照阅读，以理解同业和差异；更广泛的制度和监管边界见 [[banking/INDEX|banking index]]。
+本条目位于 [[card-issuers/INDEX|card-issuers INDEX]] 下。可与 [[card-issuers/orico|株式会社オリエントコーポレーション (Orico)]] 对照阅读，以理解同业和差异；更广泛的制度和监管边界见 [[banking/INDEX|banking index]]。
 
 ## TL;DR
 

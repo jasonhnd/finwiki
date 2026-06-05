@@ -1,5 +1,5 @@
 ---
-source: japanfg/fukuoka-ken-shinkumi
+source: cooperative-banks/fukuoka-ken-shinkumi
 source_hash: 9ccc92d5bd7e84a4
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T15:29:03.876Z
 
 ## 维基路线
 
-该条目位于[[JapanFG/INDEX|JapanFG index]]作为**九州县范围内的新组主播**，补充[[cooperative-banks/iwaki-shinkumi|いわき信用組合]]（东北市级）和[[cooperative-banks/sapporo-chuo-shinkumi|札幌中央信用組合]]（北海道市级）区域新组覆盖范围内143- 合作人口编目于[[banking/credit-cooperative-registry-japan|Japan credit cooperative registry]]。
+该条目位于[[cooperative-banks/INDEX|cooperative-banks INDEX]]作为**九州县范围内的新组主播**，补充[[cooperative-banks/iwaki-shinkumi|いわき信用組合]]（东北市级）和[[cooperative-banks/sapporo-chuo-shinkumi|札幌中央信用組合]]（北海道市级）区域新组覆盖范围内143- 合作人口编目于[[banking/credit-cooperative-registry-japan|Japan credit cooperative registry]]。
 
 ## 长话短说
 
@@ -116,7 +116,7 @@ translated_at: 2026-05-31T15:29:03.876Z
 - [[financial-regulators/dic]]— 存款保险公司
 - [[banking/credit-cooperative-registry-japan]]— 日本信用合作社登记处（143 新组（全）
 - [[banking/cooperative-banking-japan]]— 整体合作金融
-- [[JapanFG/INDEX|JapanFG index]]
+- [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 
 ## 来源
 

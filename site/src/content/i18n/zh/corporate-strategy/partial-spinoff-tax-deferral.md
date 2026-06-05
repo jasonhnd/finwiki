@@ -64,7 +64,7 @@ METI 于 2024-02-14 公布认定了 Sony Group 基于产业竞争力强化法的
 
 - [[megabanks/sony-fg|sony-fg]]
 - [[finance/cross-border-m-a-japan|cross-border M&A Japan]]
-- [[JapanFG/INDEX|JapanFG INDEX]]
+- [[corporate-strategy/INDEX|corporate-strategy INDEX]]
 - [[INDEX|FinWiki index]]
 
 ## 来源

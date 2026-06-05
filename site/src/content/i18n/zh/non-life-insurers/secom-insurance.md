@@ -1,5 +1,5 @@
 ---
-source: japanfg/secom-insurance
+source: non-life-insurers/secom-insurance
 source_hash: 5efc757c4b3bc9ca
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T00:41:50.391Z
 
 ## Wiki route
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]]。可与 [[non-life-insurers/tokio-marine-nichido-fire|東京海上日動火災保険]] 对照阅读，以理解同业和差异；更广泛的制度和监管边界见 [[insurance/INDEX|insurance index]]。
+本条目位于 [[non-life-insurers/INDEX|non-life-insurers INDEX]]。可与 [[non-life-insurers/tokio-marine-nichido-fire|東京海上日動火災保険]] 对照阅读，以理解同业和差异；更广泛的制度和监管边界见 [[insurance/INDEX|insurance index]]。
 
 ## TL;DR
 

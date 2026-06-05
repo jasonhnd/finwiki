@@ -37,7 +37,7 @@
       "https://www.leasing.or.jp/"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 芙蓉総合リース for peer / contrast context (national 準大手 vs regional captive) and banking index for the broader system / regulatory boundary. Read it together with 北海道銀行 and 北洋銀行 for the parent / regional context.",
+  "summary": "This entry sits under leasing-firms INDEX. Read it against 芙蓉総合リース for peer / contrast context (national 準大手 vs regional captive) and banking index for the broader system / regulatory boundary. Read it together with 北海道銀行 and 北洋銀行 for the parent / regional context.",
   "headings": [
     "北海道リース",
     "Wiki route",
@@ -52,10 +52,10 @@
   "body_links": {
     "wikilinks_count": 9,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "cooperative-banks/ja-mitsui-leasing",
       "finance/japan-acquisition-finance",
+      "leasing-firms/INDEX",
       "leasing-firms/fuyo-lease",
       "leasing-firms/mizuho-lease",
       "leasing-firms/tokyo-century",
@@ -63,10 +63,10 @@
       "regional-banks/hokuyo-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/cooperative-banks/ja-mitsui-leasing",
       "https://finwiki.zksc.io/finance/japan-acquisition-finance",
+      "https://finwiki.zksc.io/leasing-firms/INDEX",
       "https://finwiki.zksc.io/leasing-firms/fuyo-lease",
       "https://finwiki.zksc.io/leasing-firms/mizuho-lease",
       "https://finwiki.zksc.io/leasing-firms/tokyo-century",
@@ -77,9 +77,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3143,
-    "word_like_tokens": 461,
+    "nonspace_chars": 3155,
+    "word_like_tokens": 463,
     "inbound_wikilinks_count": 2,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

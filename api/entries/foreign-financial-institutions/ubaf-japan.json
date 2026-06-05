@@ -37,7 +37,7 @@
       "https://www.ubaf.fr/sites/default/files/2023-12/20231130_Standard%20Terms%20and%20Conditions%202020_Overseas%20Tokyo%20branch.pdf"
     ]
   },
-  "summary": "UBAF Japan sits under JapanFG index and is a France-linked foreign-bank branch route in the foreign-bank branch registry. Read it with Credit Agricole Bank Japan, BNP Paribas Japan, Natixis Japan, and banking index.",
+  "summary": "UBAF Japan sits under foreign-financial-institutions INDEX and is a France-linked foreign-bank branch route in the foreign-bank branch registry. Read it with Credit Agricole Bank Japan, BNP Paribas Japan, Natixis Japan, and banking index.",
   "headings": [
     "ユバフーアラブ・フランス連合銀行日本 (UBAF Japan)",
     "Wiki route",
@@ -53,10 +53,10 @@
     "wikilinks_count": 10,
     "wikilinks": [
       "INDEX",
-      "JapanFG/INDEX",
       "banking/INDEX",
       "finance/cross-border-m-a-japan",
       "financial-licenses/foreign-bank-branch-license-route",
+      "foreign-financial-institutions/INDEX",
       "foreign-financial-institutions/bnp-paribas-japan",
       "foreign-financial-institutions/credit-agricole-bank-japan",
       "foreign-financial-institutions/foreign-bank-branches-japan-index",
@@ -65,10 +65,10 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/finance/cross-border-m-a-japan",
       "https://finwiki.zksc.io/financial-licenses/foreign-bank-branch-license-route",
+      "https://finwiki.zksc.io/foreign-financial-institutions/INDEX",
       "https://finwiki.zksc.io/foreign-financial-institutions/bnp-paribas-japan",
       "https://finwiki.zksc.io/foreign-financial-institutions/credit-agricole-bank-japan",
       "https://finwiki.zksc.io/foreign-financial-institutions/foreign-bank-branches-japan-index",
@@ -79,9 +79,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3744,
-    "word_like_tokens": 592,
+    "nonspace_chars": 3813,
+    "word_like_tokens": 598,
     "inbound_wikilinks_count": 3,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

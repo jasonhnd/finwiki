@@ -1,5 +1,5 @@
 ---
-source: japanfg/ubs-japan
+source: foreign-financial-institutions/ubs-japan
 source_hash: 05cf316fd3cb2324
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.123Z
 
 ## 维基路线
 
-该条目位于 [[JapanFG/INDEX|JapanFG index]] 下。针对同行/对比上下文阅读 [[foreign-financial-institutions/citigroup-japan|シティグループ・ジャパン (Citigroup Japan)]]，针对更广泛的系统/监管边界阅读 [[banking/INDEX|banking index]]。
+该条目位于 [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]] 下。针对同行/对比上下文阅读 [[foreign-financial-institutions/citigroup-japan|シティグループ・ジャパン (Citigroup Japan)]]，针对更广泛的系统/监管边界阅读 [[banking/INDEX|banking index]]。
 
 ## 长篇大论；博士
 

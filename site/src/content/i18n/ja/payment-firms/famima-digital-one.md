@@ -1,5 +1,5 @@
 ---
-source: japanfg/famima-digital-one
+source: payment-firms/famima-digital-one
 source_hash: 6f839dfb0fd6528a
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:25:12.399Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に置く。[[payment-firms/gmo-payment-gateway|GMO ペイメントゲートウェイ]] は比較対象・対照文脈として、[[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] はより広いシステム境界・規制境界として読む。
+この項目は [[payment-firms/INDEX|payment-firms INDEX]] の配下に置く。[[payment-firms/gmo-payment-gateway|GMO ペイメントゲートウェイ]] は比較対象・対照文脈として、[[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] はより広いシステム境界・規制境界として読む。
 
 ## 要約
 

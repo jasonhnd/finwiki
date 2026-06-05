@@ -1,5 +1,5 @@
 ---
-source: japanfg/taiwan-cooperative-bank-japan
+source: foreign-financial-institutions/taiwan-cooperative-bank-japan
 source_hash: 079c7f512088edcc
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T16:33:58.514Z
 
 ## ウィキ上の位置づけ
 
-台湾合作銀行日本は傘下にある[[JapanFG/INDEX|JapanFG index]]台湾-日本間の外国銀行支店ルートです。[[foreign-financial-institutions/foreign-bank-branches-japan-index|the foreign-bank branch registry]]。と一緒に読んでください[[foreign-financial-institutions/chang-hwa-bank-japan|Chang Hwa Bank Japan]], [[foreign-financial-institutions/first-commercial-bank-japan|First Commercial Bank Japan]], [[foreign-financial-institutions/taiwan-business-bank-japan|Taiwan Business Bank Japan]]、 そして[[banking/INDEX|banking index]].
+台湾合作銀行日本は傘下にある[[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]]台湾-日本間の外国銀行支店ルートです。[[foreign-financial-institutions/foreign-bank-branches-japan-index|the foreign-bank branch registry]]。と一緒に読んでください[[foreign-financial-institutions/chang-hwa-bank-japan|Chang Hwa Bank Japan]], [[foreign-financial-institutions/first-commercial-bank-japan|First Commercial Bank Japan]], [[foreign-financial-institutions/taiwan-business-bank-japan|Taiwan Business Bank Japan]]、 そして[[banking/INDEX|banking index]].
 
 台湾の公的/協同組合銀行の歴史、台日貿易金融、および新しい東京支店の構築に関する質問については、このページを使用してください。
 
@@ -57,7 +57,7 @@ FinWiki は、東京支社と台湾と日本のビジネス回廊に焦点を当
 
 ## 関連項目
 
-- [[JapanFG/INDEX]]
+- [[foreign-financial-institutions/INDEX]]
 - [[foreign-financial-institutions/foreign-bank-branches-japan-index]]
 - [[foreign-financial-institutions/chang-hwa-bank-japan]]
 - [[foreign-financial-institutions/first-commercial-bank-japan]]

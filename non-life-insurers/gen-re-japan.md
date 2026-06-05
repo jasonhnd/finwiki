@@ -19,7 +19,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[life-insurers/rga-japan|RGA リインシュアランス・カンパニー日本支店]] as a US-headquartered peer (RGA: life specialist; Gen Re: P&C + life via subsidiary), and contrast with [[non-life-insurers/munich-re-japan|ミュンヘン再保険日本支店]] / [[non-life-insurers/swiss-re-japan|スイス再保険日本支店]] as the European "Big 2". Domestic peer remains [[non-life-insurers/toa-reinsurance|トーア再保険]] and broader system is [[insurance/natcat-reinsurance-japan|nat-cat reinsurance Japan]].
+This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read it against [[life-insurers/rga-japan|RGA リインシュアランス・カンパニー日本支店]] as a US-headquartered peer (RGA: life specialist; Gen Re: P&C + life via subsidiary), and contrast with [[non-life-insurers/munich-re-japan|ミュンヘン再保険日本支店]] / [[non-life-insurers/swiss-re-japan|スイス再保険日本支店]] as the European "Big 2". Domestic peer remains [[non-life-insurers/toa-reinsurance|トーア再保険]] and broader system is [[insurance/natcat-reinsurance-japan|nat-cat reinsurance Japan]].
 
 ## TL;DR
 
@@ -52,7 +52,7 @@ General Reinsurance AG / General Re Corporation の日本支店。**バークシ
 
 ## Related
 
-- [[JapanFG/INDEX]]
+- [[non-life-insurers/INDEX]]
 - [[rga-japan]]
 - [[munich-re-japan]]
 - [[swiss-re-japan]]

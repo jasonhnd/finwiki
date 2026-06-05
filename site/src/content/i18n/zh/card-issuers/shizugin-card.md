@@ -1,5 +1,5 @@
 ---
-source: japanfg/shizugin-card
+source: card-issuers/shizugin-card
 source_hash: 4be9aec204738d2d
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.165Z
 
 ## Wiki 路径
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下，是 [[shizuoka-fg|しずおか FG]] 集团（母体为 [[shizuoka-bank|静岡銀行]]）中 FG 旗下信用卡运营公司锚点。阅读时应与母体运营银行 [[shizuoka-bank|静岡銀行]]，以及静银 TM 证券、しずぎん租赁、静银资本、静银信用保证等兄弟子公司对照。可比较对象包括地方银行系信用卡公司，如めぶきカード、ちばぎんカード、[[ucs-card|UCS カード]]（原名古屋铁道系）、横滨银行的はまぎんファイナンス等，以及大型发卡机构 [[smbc-card|三井住友カード]] / [[credit-saison|クレディセゾン]] / [[rakuten-card|楽天カード]] / [[seven-card-service|セブンカードサービス]] / [[paypay-card|PayPay カード]] / [[epos-card|エポスカード]] / [[life-card|ライフカード]] / [[aplus|アプラス]] / [[pocket-card|ポケットカード]]。更大的制度路径见 [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]]、[[banking/regional-bank-api-digital-partnership-route|regional-bank API/digital partnership route]] 和 [[banking/INDEX|banking index]]。可投资金融集团语境见 [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]]。
+本条目位于 [[card-issuers/INDEX|card-issuers INDEX]] 之下，是 [[shizuoka-fg|しずおか FG]] 集团（母体为 [[shizuoka-bank|静岡銀行]]）中 FG 旗下信用卡运营公司锚点。阅读时应与母体运营银行 [[shizuoka-bank|静岡銀行]]，以及静银 TM 证券、しずぎん租赁、静银资本、静银信用保证等兄弟子公司对照。可比较对象包括地方银行系信用卡公司，如めぶきカード、ちばぎんカード、[[ucs-card|UCS カード]]（原名古屋铁道系）、横滨银行的はまぎんファイナンス等，以及大型发卡机构 [[smbc-card|三井住友カード]] / [[credit-saison|クレディセゾン]] / [[rakuten-card|楽天カード]] / [[seven-card-service|セブンカードサービス]] / [[paypay-card|PayPay カード]] / [[epos-card|エポスカード]] / [[life-card|ライフカード]] / [[aplus|アプラス]] / [[pocket-card|ポケットカード]]。更大的制度路径见 [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]]、[[banking/regional-bank-api-digital-partnership-route|regional-bank API/digital partnership route]] 和 [[banking/INDEX|banking index]]。可投资金融集团语境见 [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]]。
 
 ## TL;DR
 
@@ -113,7 +113,7 @@ translated_at: 2026-06-01T02:31:57.165Z
 - [[bnpl-landscape]] · [[atone]] · [[acom]] · [[aiful]]
 - [[banking/regional-bank-consolidation-pattern]] · [[banking/regional-bank-api-digital-partnership-route]] · [[banking/INDEX]]
 - [[finance/japan-listed-financial-groups-investable-universe]] · [[finance/INDEX]]
-- [[JapanFG/INDEX|JapanFG index]]
+- [[card-issuers/INDEX|card-issuers INDEX]]
 
 ## Sources
 

@@ -1,5 +1,5 @@
 ---
-source: japanfg/boj-international-dept
+source: financial-regulators/boj-international-dept
 source_hash: a8af91109f28c734
 lang: ja
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-02T14:01:20.954Z
 # 国際局 (BoJ International Department)
 
 ## ウィキ上の位置づけ
-この項目は [[JapanFG/INDEX|JapanFG index]] の下に置かれる。国内市場オペレーション側の対応部局は [[financial-regulators/boj-financial-markets-dept|金融市場局]]、FSA 側の国際政策レーンは [[financial-regulators/fsa-strategy-bureau|FSA 総合政策局]] とあわせて読む。通貨・為替の文脈では [[financial-regulators/boj-monetary-policy|BoJ monetary policy]] と [[money-market/japan-money-market|Japan money market]] をアンカーにする。
+この項目は [[financial-regulators/INDEX|financial-regulators INDEX]] の下に置かれる。国内市場オペレーション側の対応部局は [[financial-regulators/boj-financial-markets-dept|金融市場局]]、FSA 側の国際政策レーンは [[financial-regulators/fsa-strategy-bureau|FSA 総合政策局]] とあわせて読む。通貨・為替の文脈では [[financial-regulators/boj-monetary-policy|BoJ monetary policy]] と [[money-market/japan-money-market|Japan money market]] をアンカーにする。
 
 ## 要約
 

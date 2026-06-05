@@ -1,5 +1,5 @@
 ---
-source: japanfg/musashino-bank
+source: regional-banks/musashino-bank
 source_hash: 5a044c81013f610a
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T00:41:50.391Z
 
 ## Wiki 路由
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。请结合 [[regional-banks/fukuoka-fg|ふくおか FG (FFG)]] 阅读，以取得同业 / 对比语境；并结合 [[banking/INDEX|banking index]] 阅读，以理解更广泛的体系 / 监管边界。
+本条目位于 [[regional-banks/INDEX|regional-banks INDEX]] 之下。请结合 [[regional-banks/fukuoka-fg|ふくおか FG (FFG)]] 阅读，以取得同业 / 对比语境；并结合 [[banking/INDEX|banking index]] 阅读，以理解更广泛的体系 / 监管边界。
 
 ## TL;DR
 

@@ -1,5 +1,5 @@
 ---
-source: japanfg/yokin-hoken-kiko
+source: financial-regulators/yokin-hoken-kiko
 source_hash: db429518fb212b99
 lang: ja
 status: machine
@@ -16,7 +16,7 @@ translated_at: 2026-06-02T16:33:58.517Z
 
 ## ウィキ上の位置づけ
 
-このエントリは以下にあります[[JapanFG/INDEX|JapanFG index]]。銀行業界団体のスタックで読んでください —[[financial-regulators/zenginkyo|Japanese Bankers Association]], [[financial-regulators/zenchugin-kyo|Regional Banks Association of Japan]], [[financial-regulators/dai2-chigin-kyo|Second Association of Regional Banks]], [[financial-regulators/zenshin-kyo|Zenshin-kyō]]、 そして[[financial-regulators/shintaku-kyokai|Trust Companies Association of Japan]]— セーフティネットの完全な階層化と保険側の法定対応者を確認する[[financial-regulators/seimei-hokensha-hogo-kiko|Life Insurance Policyholders Protection Corporation of Japan]]そして[[financial-regulators/sonpo-hosho-kiko|Non-Life Insurance Policyholders Protection Corporation of Japan]]。法的背景は次のとおりです[[financial-licenses/INDEX]]そして[[financial-licenses/bank-license-and-baas-boundary]];より広い演算子の世界が広がっています[[banking/INDEX]].
+このエントリは以下にあります[[financial-regulators/INDEX|financial-regulators INDEX]]。銀行業界団体のスタックで読んでください —[[financial-regulators/zenginkyo|Japanese Bankers Association]], [[financial-regulators/zenchugin-kyo|Regional Banks Association of Japan]], [[financial-regulators/dai2-chigin-kyo|Second Association of Regional Banks]], [[financial-regulators/zenshin-kyo|Zenshin-kyō]]、 そして[[financial-regulators/shintaku-kyokai|Trust Companies Association of Japan]]— セーフティネットの完全な階層化と保険側の法定対応者を確認する[[financial-regulators/seimei-hokensha-hogo-kiko|Life Insurance Policyholders Protection Corporation of Japan]]そして[[financial-regulators/sonpo-hosho-kiko|Non-Life Insurance Policyholders Protection Corporation of Japan]]。法的背景は次のとおりです[[financial-licenses/INDEX]]そして[[financial-licenses/bank-license-and-baas-boundary]];より広い演算子の世界が広がっています[[banking/INDEX]].
 
 ## 法令上の根拠 / 位置づけ
 
@@ -58,7 +58,7 @@ DICJ は、この金庫のほぼすべての銀行エントリで暗黙的に参
 
 ## 関連項目
 
-- [[JapanFG/INDEX|JapanFG index]]
+- [[financial-regulators/INDEX|financial-regulators INDEX]]
 - [[financial-regulators/zenginkyo|Japanese Bankers Association]]
 - [[financial-regulators/zenchugin-kyo|Regional Banks Association of Japan]]
 - [[financial-regulators/dai2-chigin-kyo|Second Association of Regional Banks]]

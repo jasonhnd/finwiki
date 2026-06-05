@@ -38,7 +38,7 @@
       "大和ネクスト銀行 ディスクロージャー (https://www.bank-daiwa.co.jp/about/disclosure/transition/) — 2026-03 末"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 野村ホールディングス (Nomura HD) for peer / contrast context and securities index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under securities-firms INDEX. Read it against 野村ホールディングス (Nomura HD) for peer / contrast context and securities index for the broader system / regulatory boundary.",
   "headings": [
     "大和証券グループ本社 (Daiwa Securities Group)",
     "Wiki route",
@@ -54,7 +54,6 @@
   "body_links": {
     "wikilinks_count": 13,
     "wikilinks": [
-      "JapanFG/INDEX",
       "au-fh",
       "fukuoka-fg",
       "mizuho-fg",
@@ -64,12 +63,12 @@
       "paypay-fg",
       "rakuten-fg",
       "sbi-hd",
+      "securities-firms/INDEX",
       "securities-firms/nomura-hd",
       "securities/INDEX",
       "smfg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/au-fh",
       "https://finwiki.zksc.io/fukuoka-fg",
       "https://finwiki.zksc.io/mizuho-fg",
@@ -79,6 +78,7 @@
       "https://finwiki.zksc.io/paypay-fg",
       "https://finwiki.zksc.io/rakuten-fg",
       "https://finwiki.zksc.io/sbi-hd",
+      "https://finwiki.zksc.io/securities-firms/INDEX",
       "https://finwiki.zksc.io/securities-firms/nomura-hd",
       "https://finwiki.zksc.io/securities/INDEX",
       "https://finwiki.zksc.io/smfg"
@@ -87,9 +87,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5211,
-    "word_like_tokens": 876,
+    "nonspace_chars": 5229,
+    "word_like_tokens": 878,
     "inbound_wikilinks_count": 68,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

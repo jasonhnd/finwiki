@@ -1,5 +1,5 @@
 ---
-source: japanfg/fsa-inspection-bureau
+source: financial-regulators/fsa-inspection-bureau
 source_hash: 16922f212a93d67b
 lang: ja
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-02T14:25:12.405Z
 # 検査局（FSA 検査局・歴史的部局）
 
 ## ウィキ上の位置づけ
-本項目は [[JapanFG/INDEX|JapanFG index]] の配下に置く。本部局の機能を吸収した [[financial-regulators/fsa-supervision-bureau|FSA 監督局]]（2018 の組織再編）、同じ改革で新設された戦略・ガバナンス系レーンである [[financial-regulators/fsa-strategy-bureau|FSA 総合政策局]] と併読する。より広い規制対象範囲は [[financial-licenses/INDEX|legal / financial licenses]] と [[banking/INDEX|banking landscape]] を通じて位置づける。
+本項目は [[financial-regulators/INDEX|financial-regulators INDEX]] の配下に置く。本部局の機能を吸収した [[financial-regulators/fsa-supervision-bureau|FSA 監督局]]（2018 の組織再編）、同じ改革で新設された戦略・ガバナンス系レーンである [[financial-regulators/fsa-strategy-bureau|FSA 総合政策局]] と併読する。より広い規制対象範囲は [[financial-licenses/INDEX|legal / financial licenses]] と [[banking/INDEX|banking landscape]] を通じて位置づける。
 
 ## 要約
 

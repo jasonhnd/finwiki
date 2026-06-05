@@ -36,7 +36,7 @@
       "Hyundai Marine & Fire Japan English top: https://www.hdinsurance.co.jp/eng_index.html"
     ]
   },
-  "summary": "Wiki route: JapanFG/INDEX -> insurance/INDEX -> non-life-insurers/hyundai-marine-fire-japan",
+  "summary": "Wiki route: non-life-insurers/INDEX -> insurance/INDEX -> non-life-insurers/hyundai-marine-fire-japan",
   "headings": [
     "Hyundai Marine & Fire Japan / 現代海上火災保険",
     "Overview",
@@ -50,22 +50,22 @@
   "body_links": {
     "wikilinks_count": 8,
     "wikilinks": [
-      "JapanFG/INDEX",
       "financial-licenses/foreign-financial-group-adjacent-licenses",
       "financial-licenses/insurance-license-and-solvency",
       "foreign-financial-institutions/hana-bank-japan",
       "foreign-financial-institutions/woori-bank-japan",
       "insurance/INDEX",
+      "non-life-insurers/INDEX",
       "non-life-insurers/chubb-insurance-japan",
       "non-life-insurers/hyundai-marine-fire-japan"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/financial-licenses/foreign-financial-group-adjacent-licenses",
       "https://finwiki.zksc.io/financial-licenses/insurance-license-and-solvency",
       "https://finwiki.zksc.io/foreign-financial-institutions/hana-bank-japan",
       "https://finwiki.zksc.io/foreign-financial-institutions/woori-bank-japan",
       "https://finwiki.zksc.io/insurance/INDEX",
+      "https://finwiki.zksc.io/non-life-insurers/INDEX",
       "https://finwiki.zksc.io/non-life-insurers/chubb-insurance-japan",
       "https://finwiki.zksc.io/non-life-insurers/hyundai-marine-fire-japan"
     ],
@@ -73,9 +73,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2513,
-    "word_like_tokens": 399,
+    "nonspace_chars": 2523,
+    "word_like_tokens": 401,
     "inbound_wikilinks_count": 3,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

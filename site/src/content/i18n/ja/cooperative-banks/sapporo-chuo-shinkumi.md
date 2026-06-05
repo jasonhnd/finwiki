@@ -1,5 +1,5 @@
 ---
-source: japanfg/sapporo-chuo-shinkumi
+source: cooperative-banks/sapporo-chuo-shinkumi
 source_hash: c5f7b7cb047e698f
 lang: ja
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-02T15:14:17.149Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下で、[[cooperative-banks/iwaki-shinkumi|いわき信用組合]]（東北）と並ぶ **北海道の地域型信組アンカー**として位置づける。143の信用組合群は [[banking/credit-cooperative-registry-japan|Japan credit cooperative registry]] に収録されており、札幌市場における信金と信組の違いは [[cooperative-banks/sapporo-shinkin|札幌信用金庫]] と対比する。
+この項目は [[cooperative-banks/INDEX|cooperative-banks INDEX]] の配下で、[[cooperative-banks/iwaki-shinkumi|いわき信用組合]]（東北）と並ぶ **北海道の地域型信組アンカー**として位置づける。143の信用組合群は [[banking/credit-cooperative-registry-japan|Japan credit cooperative registry]] に収録されており、札幌市場における信金と信組の違いは [[cooperative-banks/sapporo-shinkin|札幌信用金庫]] と対比する。
 
 ## 要約
 
@@ -106,7 +106,7 @@ translated_at: 2026-06-02T15:14:17.149Z
 - [[financial-regulators/dic]] — 預金保険機構
 - [[banking/credit-cooperative-registry-japan]] — 日本の信用組合登録（143 shinkumi 全体）
 - [[banking/cooperative-banking-japan]] — 協同組織金融全体
-- [[JapanFG/INDEX|JapanFG index]]
+- [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 
 ## 出典
 

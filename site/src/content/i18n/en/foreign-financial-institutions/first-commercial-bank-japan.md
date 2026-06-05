@@ -1,5 +1,5 @@
 ---
-source: japanfg/first-commercial-bank-japan
+source: foreign-financial-institutions/first-commercial-bank-japan
 source_hash: 53df0976117286e9
 lang: en
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T15:29:03.908Z
 
 ## Wiki route
 
-First Commercial Bank Japan sits under [[JapanFG/INDEX|JapanFG index]] and is a Taiwan-Japan foreign-bank branch route in [[foreign-financial-institutions/foreign-bank-branches-japan-index|the foreign-bank branch registry]]. Read it with [[foreign-financial-institutions/bank-of-taiwan-japan|Bank of Taiwan Japan]], [[foreign-financial-institutions/mega-icbc-japan|Mega ICBC Japan]], [[foreign-financial-institutions/ctbc-bank-japan|CTBC Bank Japan]], [[foreign-financial-institutions/esun-bank-japan|E.SUN Bank Japan]], and [[foreign-financial-institutions/taipei-fubon-bank-japan|Taipei Fubon Bank Japan]].
+First Commercial Bank Japan sits under [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]] and is a Taiwan-Japan foreign-bank branch route in [[foreign-financial-institutions/foreign-bank-branches-japan-index|the foreign-bank branch registry]]. Read it with [[foreign-financial-institutions/bank-of-taiwan-japan|Bank of Taiwan Japan]], [[foreign-financial-institutions/mega-icbc-japan|Mega ICBC Japan]], [[foreign-financial-institutions/ctbc-bank-japan|CTBC Bank Japan]], [[foreign-financial-institutions/esun-bank-japan|E.SUN Bank Japan]], and [[foreign-financial-institutions/taipei-fubon-bank-japan|Taipei Fubon Bank Japan]].
 
 Use this page for Taiwanese corporate banking, deposits, loans, trade finance, FX, and remittance route questions around First Commercial Bank Tokyo Branch.
 
@@ -60,7 +60,7 @@ The page is not reduced to a remittance page. Its public material points to depo
 
 ## Related
 
-- [[JapanFG/INDEX]]
+- [[foreign-financial-institutions/INDEX]]
 - [[foreign-financial-institutions/foreign-bank-branches-japan-index]]
 - [[foreign-financial-institutions/bank-of-taiwan-japan]]
 - [[foreign-financial-institutions/mega-icbc-japan]]

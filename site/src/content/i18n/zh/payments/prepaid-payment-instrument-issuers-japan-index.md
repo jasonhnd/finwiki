@@ -87,7 +87,7 @@ FSA 的第三方预付支付工具发行人列表包含自 2026-04-30 起的 **8
 -[[payments/card-acquiring-japan-stack]]
 -[[financial-licenses/INDEX]]
 -[[financial-regulators/missing-financial-institutions-backlog]]
--[[JapanFG/INDEX]]
+-[[payments/INDEX]]
 -[[INDEX|FinWiki index]]
 
 ## 来源

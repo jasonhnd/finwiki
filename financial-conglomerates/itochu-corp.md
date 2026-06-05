@@ -28,7 +28,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha parent holding-company** (non-financial-services 商社 parent, but JapanFG-relevant via its financial-services 子会社 and strategic shareholdings). Read it against [[financial-conglomerates/mitsubishi-corp|三菱商事]] (5 大首位 / 資源寄り対照) and [[financial-conglomerates/marubeni-corp|丸紅]] (繊維・穀物商社としての対照) for peer / contrast context. For the financial-services adjacency that gives this entry its JapanFG anchor — see [[trading-company-finance/itochu-finance|伊藤忠ファイナンス]] (内向け CMS) and especially **[[leasing-firms/tokyo-century|東京センチュリー]]** (伊藤忠の戦略的持分 **約 25% 級** = みずほ FG と並ぶ 2 大株主、東証 PRIME **8439**)。System frame: [[finance/INDEX|finance index]] と [[finance/japan-listed-financial-groups-investable-universe|Japan 上場金融 G 投資ユニバース]]。
+This entry sits under [[financial-conglomerates/INDEX|financial-conglomerates INDEX]] as a **sōgō shōsha parent holding-company** (non-financial-services 商社 parent, but JapanFG-relevant via its financial-services 子会社 and strategic shareholdings). Read it against [[financial-conglomerates/mitsubishi-corp|三菱商事]] (5 大首位 / 資源寄り対照) and [[financial-conglomerates/marubeni-corp|丸紅]] (繊維・穀物商社としての対照) for peer / contrast context. For the financial-services adjacency that gives this entry its JapanFG anchor — see [[trading-company-finance/itochu-finance|伊藤忠ファイナンス]] (内向け CMS) and especially **[[leasing-firms/tokyo-century|東京センチュリー]]** (伊藤忠の戦略的持分 **約 25% 級** = みずほ FG と並ぶ 2 大株主、東証 PRIME **8439**)。System frame: [[finance/INDEX|finance index]] と [[finance/japan-listed-financial-groups-investable-universe|Japan 上場金融 G 投資ユニバース]]。
 
 ## 1. 会社概要
 
@@ -122,7 +122,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha pare
 
 ## Related
 
-- [[JapanFG/INDEX|JapanFG index]]
+- [[financial-conglomerates/INDEX|financial-conglomerates INDEX]]
 - [[financial-conglomerates/mitsubishi-corp|三菱商事]] · [[financial-conglomerates/mitsui-co|三井物産]] · [[financial-conglomerates/sumitomo-corp|住友商事]] · [[financial-conglomerates/marubeni-corp|丸紅]] · [[financial-conglomerates/toyota-tsusho-corp|豊田通商]] · [[financial-conglomerates/sojitz-corp|双日]] (peer 商社)
 - [[trading-company-finance/itochu-finance|伊藤忠ファイナンス]] (内向け group treasury)
 - [[leasing-firms/tokyo-century|東京センチュリー]] (3 大リース、伊藤忠 戦略的持分 約 25% 級)

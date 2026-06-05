@@ -20,7 +20,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it alongside [[life-insurers/credit-agricole-life|クレディ・アグリコル生命]] as the closest same-domain peer — both are French-bank-affiliated, bancassurance-oriented Japan life insurers — with [[insurance/INDEX|insurance index]] for adjacent context and [[financial-licenses/INDEX|JapanFG index]] for the broader system boundary.
+This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it alongside [[life-insurers/credit-agricole-life|クレディ・アグリコル生命]] as the closest same-domain peer — both are French-bank-affiliated, bancassurance-oriented Japan life insurers — with [[insurance/INDEX|insurance index]] for adjacent context and [[financial-licenses/INDEX|JapanFG index]] for the broader system boundary.
 
 ## TL;DR
 

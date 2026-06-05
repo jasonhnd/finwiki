@@ -15,7 +15,7 @@ translated_at: 2026-05-31T07:28:06.166Z
 
 市场高度集中。四大寿险公司（日本生命、第一生命、住友生命、明治安田生命）主导寿险保费，三大非寿险集团（东京海上、MS&AD、Sompo）主导非寿险保费，而 JA Kyosai 是最大的合作社保险机构。地震保险机制则是由日本地震再保险（JER）运营、并由政府兜底的独特公私合营安排。
 
-本条目是连接 [[insurance/INDEX|保险领域]] 的跨板块生态锚点，并衔接到实体页面锚点 [[JapanFG/INDEX|JapanFG]]。
+本条目是连接 [[insurance/INDEX|保险领域]] 的跨板块生态锚点，并衔接到实体页面锚点 [[insurance/INDEX|insurance INDEX]]。
 
 ## Wiki 路径
 
@@ -166,7 +166,6 @@ translated_at: 2026-05-31T07:28:06.166Z
 - [[insurance/bancassurance-economics-japan]]
 - [[insurance/japan-bancassurance-distribution-overlay-matrix]]
 - [[insurance/kampo-japan-post-insurance]]
-- [[JapanFG/INDEX]]
 - [[life-insurers/nippon-life]]
 - [[life-insurers/dai-ichi-life]]
 - [[life-insurers/sumitomo-life]]

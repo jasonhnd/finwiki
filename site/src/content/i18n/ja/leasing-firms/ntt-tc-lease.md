@@ -1,5 +1,5 @@
 ---
-source: japanfg/ntt-tc-lease
+source: leasing-firms/ntt-tc-lease
 source_hash: 705ce88b575675ba
 lang: ja
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-02T15:14:17.073Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に置かれる。比較対象として [[leasing-firms/smfl|SMFL / Sumitomo Mitsui Finance and Leasing]]、制度全体や規制上の境界を把握する入口として [[banking/INDEX|banking index]] とあわせて読む。
+この項目は [[leasing-firms/INDEX|leasing-firms INDEX]] の配下に置かれる。比較対象として [[leasing-firms/smfl|SMFL / Sumitomo Mitsui Finance and Leasing]]、制度全体や規制上の境界を把握する入口として [[banking/INDEX|banking index]] とあわせて読む。
 
 ## 要約
 

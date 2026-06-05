@@ -1,5 +1,5 @@
 ---
-source: japanfg/shikoku-bank
+source: regional-banks/shikoku-bank
 source_hash: 493bc2b470a7b174
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.097Z
 
 ## Wiki route
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可与 [[regional-banks/iyo-bank|伊予銀行]] 对读，以理解同业 / 对照关系；也可与 [[banking/INDEX|banking index]] 对读，以理解更广的制度与监管边界。
+本条目位于 [[regional-banks/INDEX|regional-banks INDEX]] 之下。可与 [[regional-banks/iyo-bank|伊予銀行]] 对读，以理解同业 / 对照关系；也可与 [[banking/INDEX|banking index]] 对读，以理解更广的制度与监管边界。
 
 ## TL;DR
 
@@ -29,7 +29,7 @@ translated_at: 2026-06-01T02:31:57.097Z
 
 ## 2. 经营模式
 
-四国银行是以高知县为中心的地方银行，提供零售存款、中小企业融资、本地企业贷款以及四国区域关系型银行服务。在高知县内，它与 [[kochi-bank]] 形成第一 / 第二地方银行的同业边界。关于四国地方银行整合背景，参见 [[banking/INDEX|banking index]] 和 [[JapanFG/INDEX|JapanFG index]]。
+四国银行是以高知县为中心的地方银行，提供零售存款、中小企业融资、本地企业贷款以及四国区域关系型银行服务。在高知县内，它与 [[kochi-bank]] 形成第一 / 第二地方银行的同业边界。关于四国地方银行整合背景，参见 [[banking/INDEX|banking index]] 和 [[regional-banks/INDEX|regional-banks INDEX]]。
 
 ## 3. 本页意义
 

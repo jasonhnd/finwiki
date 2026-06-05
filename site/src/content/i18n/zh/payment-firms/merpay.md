@@ -1,5 +1,5 @@
 ---
-source: japanfg/merpay
+source: payment-firms/merpay
 source_hash: f5611a7604f9809e
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T23:59:49.355Z
 
 ## Wiki 路径
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可结合 [[payments/INDEX|payments index]] 理解相邻背景，并结合 [[payments/funds-transfer-vs-prepaid-boundary|Funds transfer vs prepaid boundary in Japan]] 理解更广泛的系统边界。
+本条目位于 [[payment-firms/INDEX|payment-firms INDEX]] 之下。可结合 [[payments/INDEX|payments index]] 理解相邻背景，并结合 [[payments/funds-transfer-vs-prepaid-boundary|Funds transfer vs prepaid boundary in Japan]] 理解更广泛的系统边界。
 
 ## 摘要
 

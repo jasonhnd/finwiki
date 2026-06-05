@@ -16,7 +16,7 @@ translated_at: 2026-05-30T18:52:47.779Z
 
 ## Wiki route
 
-本条目归属于 [[banking/INDEX|banking index]]。请与 [[banking/regional-bank-consolidation-pattern|Regional bank consolidation pattern]]（结构性驱动因素：人口、NIM、系统成本、AML、数字化）、[[banking/regional-bank-api-digital-partnership-route|Regional bank API and digital partnership route]]（数字轨道层）、[[banking/japan-banking-license-tier-comparison-matrix|Japan banking-license tier comparison matrix]]（地方 vs 第二地方 vs 合作社牌照分层切分）及 [[banking/post-megabank-positioning|Post-megabank positioning]]（最大地方银行 vs 大型银行的边缘案例）一并阅读。FG 控股公司全集即 [[JapanFG/INDEX|JapanFG index]]。支撑本矩阵的完整 FSA 银行控股公司名单是 FSA 銀行持株会社一覧 PDF。
+本条目归属于 [[banking/INDEX|banking index]]。请与 [[banking/regional-bank-consolidation-pattern|Regional bank consolidation pattern]]（结构性驱动因素：人口、NIM、系统成本、AML、数字化）、[[banking/regional-bank-api-digital-partnership-route|Regional bank API and digital partnership route]]（数字轨道层）、[[banking/japan-banking-license-tier-comparison-matrix|Japan banking-license tier comparison matrix]]（地方 vs 第二地方 vs 合作社牌照分层切分）及 [[banking/post-megabank-positioning|Post-megabank positioning]]（最大地方银行 vs 大型银行的边缘案例）一并阅读。FG 控股公司全集即 [[banking/INDEX|banking INDEX]]。支撑本矩阵的完整 FSA 银行控股公司名单是 FSA 銀行持株会社一覧 PDF。
 
 ## Why this family-tree matters
 
@@ -276,7 +276,6 @@ Multiple structural drivers compressed the regional-bank universe through holdin
 - [[megabanks/resona-hd]]
 - [[life-insurers/td-hd]]
 - [[financial-regulators/cci-group]]
-- [[JapanFG/INDEX|JapanFG index]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

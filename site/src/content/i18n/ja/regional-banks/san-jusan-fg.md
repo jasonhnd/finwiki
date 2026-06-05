@@ -1,5 +1,5 @@
 ---
-source: japanfg/san-jusan-fg
+source: regional-banks/san-jusan-fg
 source_hash: 5d8e15ebc6f7d703
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T15:14:17.141Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に位置する。比較・対照の文脈では [[regional-banks/fukuoka-fg|ふくおか FG (FFG)]]、より広い制度上・規制上の境界については [[banking/INDEX|banking index]] とあわせて読む。
+この項目は [[regional-banks/INDEX|regional-banks INDEX]] の配下に位置する。比較・対照の文脈では [[regional-banks/fukuoka-fg|ふくおか FG (FFG)]]、より広い制度上・規制上の境界については [[banking/INDEX|banking index]] とあわせて読む。
 
 ## 要約
 

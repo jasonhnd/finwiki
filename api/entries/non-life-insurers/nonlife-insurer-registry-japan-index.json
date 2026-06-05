@@ -59,7 +59,6 @@
     "wikilinks_count": 74,
     "wikilinks": [
       "INDEX",
-      "JapanFG/INDEX",
       "financial-licenses/insurance-license-and-solvency",
       "financial-regulators/japan-pi-club",
       "foreign-financial-institutions/foreign-bank-branches-japan-index",
@@ -82,6 +81,7 @@
       "megabanks/au-fh",
       "megabanks/sbi-hd",
       "megabanks/sony-fg",
+      "non-life-insurers/INDEX",
       "non-life-insurers/aig-japan",
       "non-life-insurers/aioi-nissay-dowa-insurance",
       "non-life-insurers/allianz-fire-marine-japan",
@@ -135,7 +135,6 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/financial-licenses/insurance-license-and-solvency",
       "https://finwiki.zksc.io/financial-regulators/japan-pi-club",
       "https://finwiki.zksc.io/foreign-financial-institutions/foreign-bank-branches-japan-index",
@@ -158,6 +157,7 @@
       "https://finwiki.zksc.io/megabanks/au-fh",
       "https://finwiki.zksc.io/megabanks/sbi-hd",
       "https://finwiki.zksc.io/megabanks/sony-fg",
+      "https://finwiki.zksc.io/non-life-insurers/INDEX",
       "https://finwiki.zksc.io/non-life-insurers/aig-japan",
       "https://finwiki.zksc.io/non-life-insurers/aioi-nissay-dowa-insurance",
       "https://finwiki.zksc.io/non-life-insurers/allianz-fire-marine-japan",
@@ -213,9 +213,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 14866,
-    "word_like_tokens": 2290,
+    "nonspace_chars": 14921,
+    "word_like_tokens": 2301,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

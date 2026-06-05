@@ -38,7 +38,7 @@
       "https://www.e-design.net/company/about/"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 東京海上日動火災保険 for peer / contrast context and insurance index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under non-life-insurers INDEX. Read it against 東京海上日動火災保険 for peer / contrast context and insurance index for the broader system / regulatory boundary.",
   "headings": [
     "東京海上ダイレクト損害保険",
     "Wiki route",
@@ -52,8 +52,8 @@
   "body_links": {
     "wikilinks_count": 7,
     "wikilinks": [
-      "JapanFG/INDEX",
       "insurance/INDEX",
+      "non-life-insurers/INDEX",
       "non-life-insurers/tokio-marine-nichido-fire",
       "sompo-direct",
       "sony-insurance",
@@ -61,8 +61,8 @@
       "tokio-marine-nichido-fire"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/insurance/INDEX",
+      "https://finwiki.zksc.io/non-life-insurers/INDEX",
       "https://finwiki.zksc.io/non-life-insurers/tokio-marine-nichido-fire",
       "https://finwiki.zksc.io/sompo-direct",
       "https://finwiki.zksc.io/sony-insurance",
@@ -73,9 +73,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2018,
-    "word_like_tokens": 314,
+    "nonspace_chars": 2038,
+    "word_like_tokens": 318,
     "inbound_wikilinks_count": 6,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

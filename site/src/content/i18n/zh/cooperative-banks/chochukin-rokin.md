@@ -1,5 +1,5 @@
 ---
-source: japanfg/chochukin-rokin
+source: cooperative-banks/chochukin-rokin
 source_hash: 773879af268cf26b
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T11:13:44.870Z
 
 ## Wiki 路径
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下，是**日本 13 家 rokin（劳动金库）运营主体中规模最大的一家**，在 rokin 体系中对应于 [[cooperative-banks/kyoto-chuo-shinkin|京都中央信用金库]]（shinkin）与 [[cooperative-banks/osaka-shogin-shinkumi|大阪商银信用组合]]（shinkumi）那类运营主体锚点。可结合 [[cooperative-banks/rokin-renraku|劳动金库连合会 (Rokinren)]] 理解 cooperative-system central institution，结合 [[banking/rokin-bank-registry-japan|rokin registry]] 把握 13 家 rokin 全貌，并结合 [[banking/cooperative-banking-japan|cooperative banking domain]] 理解更广泛的监管边界。
+本条目位于 [[cooperative-banks/INDEX|cooperative-banks INDEX]] 之下，是**日本 13 家 rokin（劳动金库）运营主体中规模最大的一家**，在 rokin 体系中对应于 [[cooperative-banks/kyoto-chuo-shinkin|京都中央信用金库]]（shinkin）与 [[cooperative-banks/osaka-shogin-shinkumi|大阪商银信用组合]]（shinkumi）那类运营主体锚点。可结合 [[cooperative-banks/rokin-renraku|劳动金库连合会 (Rokinren)]] 理解 cooperative-system central institution，结合 [[banking/rokin-bank-registry-japan|rokin registry]] 把握 13 家 rokin 全貌，并结合 [[banking/cooperative-banking-japan|cooperative banking domain]] 理解更广泛的监管边界。
 
 ## TL;DR
 
@@ -160,7 +160,7 @@ translated_at: 2026-05-31T11:13:44.870Z
 - [[financial-regulators/dic]] - 存款保险机构
 - [[banking/rokin-bank-registry-japan]] - 劳动金库 13 家 registry
 - [[banking/cooperative-banking-japan]] - 合作金融领域
-- [[JapanFG/INDEX|JapanFG index]]
+- [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 
 ## Sources
 

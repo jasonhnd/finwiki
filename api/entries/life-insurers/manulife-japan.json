@@ -36,7 +36,7 @@
       "Wikipedia: 第百生命保険 (2026-05-19 抽出)"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against プルデンシャル・ジブラルタ・ファイナンシャル (Prudential Japan) for peer / contrast context and insurance index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under life-insurers INDEX. Read it against プルデンシャル・ジブラルタ・ファイナンシャル (Prudential Japan) for peer / contrast context and insurance index for the broader system / regulatory boundary.",
   "headings": [
     "マニュライフ生命保険 (Manulife Life Insurance Japan)",
     "Wiki route",
@@ -52,19 +52,19 @@
   "body_links": {
     "wikilinks_count": 7,
     "wikilinks": [
-      "JapanFG/INDEX",
       "aflac-japan",
       "axa-japan",
       "insurance/INDEX",
+      "life-insurers/INDEX",
       "life-insurers/prudential-japan",
       "metlife-japan",
       "prudential-japan"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/aflac-japan",
       "https://finwiki.zksc.io/axa-japan",
       "https://finwiki.zksc.io/insurance/INDEX",
+      "https://finwiki.zksc.io/life-insurers/INDEX",
       "https://finwiki.zksc.io/life-insurers/prudential-japan",
       "https://finwiki.zksc.io/metlife-japan",
       "https://finwiki.zksc.io/prudential-japan"
@@ -73,9 +73,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4825,
-    "word_like_tokens": 689,
+    "nonspace_chars": 4837,
+    "word_like_tokens": 691,
     "inbound_wikilinks_count": 12,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

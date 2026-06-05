@@ -1,5 +1,5 @@
 ---
-source: japanfg/oag-trust
+source: trust-banks/oag-trust
 source_hash: a927f39328d44063
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T00:41:50.432Z
 
 ## Wiki route
 
-OAG Trust is a standalone trust-company route under [[JapanFG/INDEX|JapanFG]] and is promoted from [[trust-banks/trust-companies-japan-index|the Japan trust companies registry index]]. Read it with [[banking/japan-trust-bank-custody-map|Japan trust-bank custody map]], [[finance/japan-acquisition-finance|Japan acquisition finance]], and [[trust-banks/yamada-escrow-trust|Yamada Escrow Trust]].
+OAG Trust is a standalone trust-company route under [[trust-banks/INDEX|trust-banks INDEX]] and is promoted from [[trust-banks/trust-companies-japan-index|the Japan trust companies registry index]]. Read it with [[banking/japan-trust-bank-custody-map|Japan trust-bank custody map]], [[finance/japan-acquisition-finance|Japan acquisition finance]], and [[trust-banks/yamada-escrow-trust|Yamada Escrow Trust]].
 
 Use this page for fund-protection trust, bankruptcy-remoteness, consulting-group trust services, and prepaid-service / transaction-fund protection questions.
 
@@ -58,7 +58,7 @@ Specific covered services, risk allocation, or legal treatment should be added o
 
 ## Related
 
-- [[JapanFG/INDEX]]
+- [[trust-banks/INDEX]]
 - [[trust-banks/trust-companies-japan-index]]
 - [[banking/japan-trust-bank-custody-map]]
 - [[trust-banks/yamada-escrow-trust]]

@@ -16,7 +16,7 @@ translated_at: 2026-06-02T11:47:37.302Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[banking/INDEX|banking index]] の下に位置する。構造的なドライバー(人口、NIM、システムコスト、AML、デジタル)については [[banking/regional-bank-consolidation-pattern|Regional bank consolidation pattern]] と、デジタルレール層については [[banking/regional-bank-api-digital-partnership-route|Regional bank API and digital partnership route]] と、地銀対第二地銀対協同組合のライセンス階層の区分については [[banking/japan-banking-license-tier-comparison-matrix|Japan banking-license tier comparison matrix]] と、最大級の地銀対メガバンクの境界事例については [[banking/post-megabank-positioning|Post-megabank positioning]] とあわせて読むこと。FG 持株会社の母集団は [[JapanFG/INDEX|JapanFG index]] である。このマトリクスの基礎となる銀行持株会社の完全な FSA リストは FSA 銀行持株会社一覧 PDF である。
+この項目は [[banking/INDEX|banking index]] の下に位置する。構造的なドライバー(人口、NIM、システムコスト、AML、デジタル)については [[banking/regional-bank-consolidation-pattern|Regional bank consolidation pattern]] と、デジタルレール層については [[banking/regional-bank-api-digital-partnership-route|Regional bank API and digital partnership route]] と、地銀対第二地銀対協同組合のライセンス階層の区分については [[banking/japan-banking-license-tier-comparison-matrix|Japan banking-license tier comparison matrix]] と、最大級の地銀対メガバンクの境界事例については [[banking/post-megabank-positioning|Post-megabank positioning]] とあわせて読むこと。FG 持株会社の母集団は [[banking/INDEX|banking INDEX]] である。このマトリクスの基礎となる銀行持株会社の完全な FSA リストは FSA 銀行持株会社一覧 PDF である。
 
 ## なぜこのファミリーツリーが重要か
 
@@ -278,7 +278,6 @@ translated_at: 2026-06-02T11:47:37.302Z
 - [[megabanks/resona-hd]]
 - [[life-insurers/td-hd]]
 - [[financial-regulators/cci-group]]
-- [[JapanFG/INDEX|JapanFG index]]
 - [[INDEX|FinWiki index]]
 
 ## 出典

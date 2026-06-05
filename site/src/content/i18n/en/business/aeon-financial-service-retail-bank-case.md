@@ -13,7 +13,7 @@ translated_at: 2026-06-05T00:00:00.000Z
 
 ## Wiki route
 
-This entry sits under [[business/INDEX|business INDEX]] as a public-company strategic case: a **retail (supermarket) conglomerate that built a full financial holding** rather than a single utility rail. Read it against [[business/seven-bank-atm-platform-deconsolidation-case|Seven Bank ATM-platform + deconsolidation case]] — the cleanest contrast, since Seven & i monetised store traffic through a narrow ATM-fee bank and then *deconsolidated* it, whereas Aeon built and *keeps* a broad card-plus-bank-plus-Asia franchise. Read it also against [[business/toyota-financial-services-captive-finance-case|Toyota Financial Services captive-finance case]] for the manufacturer-captive contrast and [[business/rakuten-group-mobile-finance-bundling-case|Rakuten Group mobile-finance bundling case]] for the internet-conglomerate version of retail-embedded finance. For entity / sector profiles see [[card-issuers/aeon-financial-service|Aeon Financial Service]], [[card-issuers/aeon-bank|Aeon Bank]], the parent retail group [[retail/aeon-group|Aeon Group]], and peer issuers [[card-issuers/credit-saison|Credit Saison]] and [[card-issuers/jaccs|Jaccs]]. Pair with [[payments/waon-prepaid-aeon|WAON prepaid]], the [[payments/japan-consumer-credit-operator-comparison-matrix|Japan consumer-credit operator comparison matrix]], and the [[JapanFG/INDEX|JapanFG payments / cards / leasing index]].
+This entry sits under [[business/INDEX|business INDEX]] as a public-company strategic case: a **retail (supermarket) conglomerate that built a full financial holding** rather than a single utility rail. Read it against [[business/seven-bank-atm-platform-deconsolidation-case|Seven Bank ATM-platform + deconsolidation case]] — the cleanest contrast, since Seven & i monetised store traffic through a narrow ATM-fee bank and then *deconsolidated* it, whereas Aeon built and *keeps* a broad card-plus-bank-plus-Asia franchise. Read it also against [[business/toyota-financial-services-captive-finance-case|Toyota Financial Services captive-finance case]] for the manufacturer-captive contrast and [[business/rakuten-group-mobile-finance-bundling-case|Rakuten Group mobile-finance bundling case]] for the internet-conglomerate version of retail-embedded finance. For entity / sector profiles see [[card-issuers/aeon-financial-service|Aeon Financial Service]], [[card-issuers/aeon-bank|Aeon Bank]], the parent retail group [[retail/aeon-group|Aeon Group]], and peer issuers [[card-issuers/credit-saison|Credit Saison]] and [[card-issuers/jaccs|Jaccs]]. Pair with [[payments/waon-prepaid-aeon|WAON prepaid]], the [[payments/japan-consumer-credit-operator-comparison-matrix|Japan consumer-credit operator comparison matrix]], and the [[business/INDEX|business INDEX]].
 
 ## TL;DR
 
@@ -125,7 +125,6 @@ For **AFS as a listed FG (8570)**:
 - [[payments/japan-consumer-credit-operator-comparison-matrix|Japan consumer-credit operator comparison matrix]]
 - [[retail/store-traffic-as-financial-distribution|store traffic as financial distribution]]
 - [[finance/cross-border-m-a-japan|cross-border M&A Japan]]
-- [[JapanFG/INDEX|JapanFG payments / cards / leasing index]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

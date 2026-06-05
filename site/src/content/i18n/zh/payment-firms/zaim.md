@@ -1,5 +1,5 @@
 ---
-source: japanfg/zaim
+source: payment-firms/zaim
 source_hash: 7f0983ee221a0109
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.173Z
 
 ## Wiki route
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下，是与规模更大的 [[payment-firms/money-forward|Money Forward]] ME 并列的 **PFM（个人财务管理）**应用。可与 [[payment-firms/bnpl-landscape|Japan BNPL landscape]] 一起阅读，以理解相邻的消费金融语境；也可与 [[payment-firms/freee|freee]] / [[payment-firms/smartbank|SmartBank]] 这一组家庭金融同类页面，以及说明 KDDI 系分支故事的 [[megabanks/au-fh|au フィナンシャル HD]] 一起阅读。[[payments/japan-bnpl-credit-purchase-boundary|BNPL and credit-purchase boundary]] 和 [[payments/credit-purchase-card-operators-japan-index|credit-purchase registry]] 位于更下一层监管栈，[[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]] 则说明 PFM 应用为何依赖账户 API 经济性。
+本条目位于 [[payment-firms/INDEX|payment-firms INDEX]] 之下，是与规模更大的 [[payment-firms/money-forward|Money Forward]] ME 并列的 **PFM（个人财务管理）**应用。可与 [[payment-firms/bnpl-landscape|Japan BNPL landscape]] 一起阅读，以理解相邻的消费金融语境；也可与 [[payment-firms/freee|freee]] / [[payment-firms/smartbank|SmartBank]] 这一组家庭金融同类页面，以及说明 KDDI 系分支故事的 [[megabanks/au-fh|au フィナンシャル HD]] 一起阅读。[[payments/japan-bnpl-credit-purchase-boundary|BNPL and credit-purchase boundary]] 和 [[payments/credit-purchase-card-operators-japan-index|credit-purchase registry]] 位于更下一层监管栈，[[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]] 则说明 PFM 应用为何依赖账户 API 经济性。
 
 ## TL;DR
 

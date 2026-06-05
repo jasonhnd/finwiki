@@ -46,9 +46,8 @@
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 10,
+    "wikilinks_count": 9,
     "wikilinks": [
-      "JapanFG/INDEX",
       "financial-licenses/INDEX",
       "fintech/japan-listed-company-disclosure-monitoring",
       "fintech/japan-third-party-allotment-5-step-flow",
@@ -60,7 +59,6 @@
       "securities/tokyo-stock-exchange"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/financial-licenses/INDEX",
       "https://finwiki.zksc.io/fintech/japan-listed-company-disclosure-monitoring",
       "https://finwiki.zksc.io/fintech/japan-third-party-allotment-5-step-flow",
@@ -75,9 +73,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2743,
-    "word_like_tokens": 401,
+    "nonspace_chars": 2754,
+    "word_like_tokens": 402,
     "inbound_wikilinks_count": 42,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

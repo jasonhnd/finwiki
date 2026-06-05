@@ -13,7 +13,7 @@ translated_at: 2026-06-02T14:01:20.949Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[insurance/INDEX|insurance index]] の下に置かれる。 [[insurance/economic-value-based-solvency|Economic value-based solvency regulation]] をピア比較・対照の文脈として、[[JapanFG/INDEX|JapanFG index]] をより広い制度・規制境界としてあわせて読む。
+この項目は [[insurance/INDEX|insurance index]] の下に置かれる。 [[insurance/economic-value-based-solvency|Economic value-based solvency regulation]] をピア比較・対照の文脈として、[[insurance/INDEX|insurance INDEX]] をより広い制度・規制境界としてあわせて読む。
 
 ## 要約
 

@@ -1,5 +1,5 @@
 ---
-source: japanfg/sendai-shinkin
+source: cooperative-banks/sendai-shinkin
 source_hash: bc1bd6bbb38983e6
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T00:41:50.438Z
 
 ## Wiki route
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可与 [[regional-banks/77-bank|七十七銀行]]（仙台地方银行主力玩家）和 [[regional-banks/sendai-bank|仙台銀行]]（第二地方银行）一起阅读，以理解宫城县商业银行侧的对应方；可与 [[cooperative-banks/sapporo-shinkin|札幌信用金庫]] 对照北日本城市锚点 shinkin；也可与 [[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]] 一起理解由 [[cooperative-banks/shinkin-central|信金中央金庫]] 维持、由 [[financial-regulators/zenshin-kyo|全国信用金庫協会]] 代表的更广义 254-shinkin system。东北地区有 27 licensed shinkin（FSA 2025-11-06: 东北财务局管内），是仅次于关东的第二大区域区块，因此这里的宫城 / 仙台都市圈锚点是关键系统路径。
+本条目位于 [[cooperative-banks/INDEX|cooperative-banks INDEX]] 之下。可与 [[regional-banks/77-bank|七十七銀行]]（仙台地方银行主力玩家）和 [[regional-banks/sendai-bank|仙台銀行]]（第二地方银行）一起阅读，以理解宫城县商业银行侧的对应方；可与 [[cooperative-banks/sapporo-shinkin|札幌信用金庫]] 对照北日本城市锚点 shinkin；也可与 [[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]] 一起理解由 [[cooperative-banks/shinkin-central|信金中央金庫]] 维持、由 [[financial-regulators/zenshin-kyo|全国信用金庫協会]] 代表的更广义 254-shinkin system。东北地区有 27 licensed shinkin（FSA 2025-11-06: 东北财务局管内），是仅次于关东的第二大区域区块，因此这里的宫城 / 仙台都市圈锚点是关键系统路径。
 
 ## TL;DR
 
@@ -76,7 +76,7 @@ translated_at: 2026-06-01T00:41:50.438Z
 
 ## Related
 
-- [[JapanFG/INDEX|JapanFG index]]
+- [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 - [[cooperative-banks/shinkin-central|信金中央金庫]]
 - [[financial-regulators/zenshin-kyo|全国信用金庫協会]]
 - [[cooperative-banks/shinkin-network-services|信金ネットワークサービス]]

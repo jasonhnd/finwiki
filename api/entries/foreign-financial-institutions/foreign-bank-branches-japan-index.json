@@ -36,7 +36,7 @@
       "https://www.fsa.go.jp/en/regulated/licensed/foreign.pdf"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 中国工商銀行 東京支店 for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under foreign-financial-institutions INDEX. Read it against 中国工商銀行 東京支店 for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [
     "Foreign bank branches in Japan registry index",
     "Wiki route",
@@ -51,10 +51,10 @@
   "body_links": {
     "wikilinks_count": 61,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "banking/foreign-bank-japan-retreat",
       "financial-regulators/missing-financial-institutions-backlog",
+      "foreign-financial-institutions/INDEX",
       "foreign-financial-institutions/agricultural-bank-of-china-japan",
       "foreign-financial-institutions/banco-do-brasil-japan",
       "foreign-financial-institutions/bangkok-bank-japan",
@@ -114,10 +114,10 @@
       "securities-firms/anz-bank-japan"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/foreign-bank-japan-retreat",
       "https://finwiki.zksc.io/financial-regulators/missing-financial-institutions-backlog",
+      "https://finwiki.zksc.io/foreign-financial-institutions/INDEX",
       "https://finwiki.zksc.io/foreign-financial-institutions/agricultural-bank-of-china-japan",
       "https://finwiki.zksc.io/foreign-financial-institutions/banco-do-brasil-japan",
       "https://finwiki.zksc.io/foreign-financial-institutions/bangkok-bank-japan",
@@ -180,9 +180,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 12606,
-    "word_like_tokens": 1614,
+    "nonspace_chars": 12675,
+    "word_like_tokens": 1620,
     "inbound_wikilinks_count": 33,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

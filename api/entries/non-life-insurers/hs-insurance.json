@@ -36,7 +36,7 @@
       "HS Insurance company profile: https://www.hs-sonpo.co.jp/company/profile/"
     ]
   },
-  "summary": "Wiki route: JapanFG/INDEX -> insurance/INDEX -> non-life-insurers/hs-insurance",
+  "summary": "Wiki route: non-life-insurers/INDEX -> insurance/INDEX -> non-life-insurers/hs-insurance",
   "headings": [
     "HS Insurance / エイチ・エス損害保険",
     "Overview",
@@ -50,9 +50,9 @@
   "body_links": {
     "wikilinks_count": 8,
     "wikilinks": [
-      "JapanFG/INDEX",
       "financial-licenses/insurance-license-and-solvency",
       "insurance/INDEX",
+      "non-life-insurers/INDEX",
       "non-life-insurers/anicom-insurance",
       "non-life-insurers/hs-insurance",
       "non-life-insurers/ji-accident-fire-insurance",
@@ -60,9 +60,9 @@
       "non-life-insurers/sony-insurance"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/financial-licenses/insurance-license-and-solvency",
       "https://finwiki.zksc.io/insurance/INDEX",
+      "https://finwiki.zksc.io/non-life-insurers/INDEX",
       "https://finwiki.zksc.io/non-life-insurers/anicom-insurance",
       "https://finwiki.zksc.io/non-life-insurers/hs-insurance",
       "https://finwiki.zksc.io/non-life-insurers/ji-accident-fire-insurance",
@@ -73,9 +73,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2324,
-    "word_like_tokens": 376,
+    "nonspace_chars": 2334,
+    "word_like_tokens": 378,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

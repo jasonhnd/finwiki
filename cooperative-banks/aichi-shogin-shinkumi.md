@@ -27,7 +27,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **Chubu (中京) representative of the 商銀系 (in-Japan Korean business) shinkumi network**, complementing [[cooperative-banks/osaka-shogin-shinkumi|大阪商銀信用組合]] (Kansai) and routing through [[banking/credit-cooperative-registry-japan|Japan credit cooperative registry]] for the broader 143-cooperative population.
+This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as the **Chubu (中京) representative of the 商銀系 (in-Japan Korean business) shinkumi network**, complementing [[cooperative-banks/osaka-shogin-shinkumi|大阪商銀信用組合]] (Kansai) and routing through [[banking/credit-cooperative-registry-japan|Japan credit cooperative registry]] for the broader 143-cooperative population.
 
 ## 1. 法人概要
 
@@ -135,7 +135,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **Chubu (中京) re
 - [[financial-regulators/dic]] — 預金保険機構
 - [[banking/credit-cooperative-registry-japan]] — Japan credit cooperative registry (143 shinkumi 全体)
 - [[banking/cooperative-banking-japan]] — 協同組織金融全体
-- [[JapanFG/INDEX|JapanFG index]]
+- [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 
 ## Sources
 

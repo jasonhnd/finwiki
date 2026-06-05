@@ -1,5 +1,5 @@
 ---
-source: japanfg/jr-east-financial
+source: card-issuers/jr-east-financial
 source_hash: a6a312b8a3a7c0a3
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:59:49.307Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **operating-company anchor** for the financial subsector of the JR East (East Japan Railway Company) group — specifically the 3 -axis structure of **View Card + JRE BANK (a BaaS bank account partnered with Rakuten Bank) + Suica e-money / JR East Payment Services**. Read it against [[JapanFG/tokyu-card|東急カード（Tokyu Card）]] and [[JapanFG/odakyu-cards|小田急カード]] for transit-captive peer comparison, [[regional-banks/seven-bank|セブン銀行]] for retail-captive bank comparison, [[banking/baas-rakuten-jre-bank|楽天-JRE Bank BaaS]] for the bank-as-a-service architectural context, and [[payments/suica-pasmo-fares|Suica/PASMO 運賃エコシステム]] for the e-money / transit-IC integration layer.
+This entry sits under [[card-issuers/INDEX|card-issuers INDEX]] as the **operating-company anchor** for the financial subsector of the JR East (East Japan Railway Company) group — specifically the 3 -axis structure of **View Card + JRE BANK (a BaaS bank account partnered with Rakuten Bank) + Suica e-money / JR East Payment Services**. Read it against [[JapanFG/tokyu-card|東急カード（Tokyu Card）]] and [[JapanFG/odakyu-cards|小田急カード]] for transit-captive peer comparison, [[regional-banks/seven-bank|セブン銀行]] for retail-captive bank comparison, [[banking/baas-rakuten-jre-bank|楽天-JRE Bank BaaS]] for the bank-as-a-service architectural context, and [[payments/suica-pasmo-fares|Suica/PASMO 運賃エコシステム]] for the e-money / transit-IC integration layer.
 
 ## TL;DR
 
@@ -136,7 +136,7 @@ East Japan Railway Company (TSE Prime 9020)
 - [[payments/suica-prepaid-jr-east]] — Suica ecosystem
 - [[payments/suica-pasmo-fares]] — transit IC fare ecosystem
 - [[banking/baas-rakuten-jre-bank]] — BaaS architecture
-- [[JapanFG/INDEX]] — JapanFG namespace index
+- [[card-issuers/INDEX]] — JapanFG namespace index
 
 ## Sources
 

@@ -1,5 +1,5 @@
 ---
-source: japanfg/smfg
+source: megabanks/smfg
 source_hash: 9482726f9d345afa
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T15:14:17.144Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に位置する。隣接する文脈は [[banking/INDEX|banking index]]、より広い制度上の境界は [[securities/INDEX|securities index]] とあわせて読む。
+この項目は [[megabanks/INDEX|megabanks INDEX]] の配下に位置する。隣接する文脈は [[banking/INDEX|banking index]]、より広い制度上の境界は [[securities/INDEX|securities index]] とあわせて読む。
 
 ## 要約
 

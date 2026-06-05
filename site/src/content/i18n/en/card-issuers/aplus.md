@@ -1,5 +1,5 @@
 ---
-source: japanfg/aplus
+source: card-issuers/aplus
 source_hash: f3f9059229cfb656
 lang: en
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-05-31T11:13:44.879Z
 
 ## Wiki route
 
-This entry sits under[[JapanFG/INDEX|JapanFG index]]. Read it with[[banking/INDEX|banking index]]for adjacent context and[[securities/INDEX|securities index]]for the broader system boundary.
+This entry sits under[[card-issuers/INDEX|card-issuers INDEX]]. Read it with[[banking/INDEX|banking index]]for adjacent context and[[securities/INDEX|securities index]]for the broader system boundary.
 
 ## TL;DR
 

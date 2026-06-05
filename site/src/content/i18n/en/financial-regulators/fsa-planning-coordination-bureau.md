@@ -1,5 +1,5 @@
 ---
-source: japanfg/fsa-planning-coordination-bureau
+source: financial-regulators/fsa-planning-coordination-bureau
 source_hash: 8c849ea52781187a
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T15:29:03.876Z
 # FSA Planning and Coordination Bureau
 
 ## Wiki route
-This entry sits under[[JapanFG/INDEX|JapanFG index]]Read it against[[financial-regulators/fsa-supervision-bureau|FSA 監督局]]for the supervision-side counterpart and[[financial-regulators/fsa-strategy-bureau|FSA 総合政策局]]for the cross-bureau strategy lane. For market-rule context, anchor through[[financial-regulators/jsda|JSDA]]and the[[financial-licenses/INDEX|legal / financial licenses]]index; for the BoJ-side prudential bureau contrast, see[[financial-regulators/boj-financial-system-dept|BoJ 金融機構局]].
+This entry sits under[[financial-regulators/INDEX|financial-regulators INDEX]]Read it against[[financial-regulators/fsa-supervision-bureau|FSA 監督局]]for the supervision-side counterpart and[[financial-regulators/fsa-strategy-bureau|FSA 総合政策局]]for the cross-bureau strategy lane. For market-rule context, anchor through[[financial-regulators/jsda|JSDA]]and the[[financial-licenses/INDEX|legal / financial licenses]]index; for the BoJ-side prudential bureau contrast, see[[financial-regulators/boj-financial-system-dept|BoJ 金融機構局]].
 
 ## TL;DR
 

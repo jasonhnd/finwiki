@@ -1,5 +1,5 @@
 ---
-source: japanfg/okazaki-shinkin
+source: cooperative-banks/okazaki-shinkin
 source_hash: ab04c2f7972ac4c1
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T15:14:17.122Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に位置づける。中部地方の信用金庫ブロックにおける同業・比較対象の文脈は [[cooperative-banks/hamamatsu-iwata-shinkin|浜松磐田信用金庫]] と照らし、より広い制度・規制上の境界は [[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]] を参照する。この境界は [[cooperative-banks/shinkin-central|信金中央金庫]] が維持する。
+この項目は [[cooperative-banks/INDEX|cooperative-banks INDEX]] の配下に位置づける。中部地方の信用金庫ブロックにおける同業・比較対象の文脈は [[cooperative-banks/hamamatsu-iwata-shinkin|浜松磐田信用金庫]] と照らし、より広い制度・規制上の境界は [[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]] を参照する。この境界は [[cooperative-banks/shinkin-central|信金中央金庫]] が維持する。
 
 ## 要約
 

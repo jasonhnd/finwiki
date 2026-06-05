@@ -1,5 +1,5 @@
 ---
-source: japanfg/jcb-international
+source: payment-firms/jcb-international
 source_hash: 37765abe1b531ccd
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:25:12.390Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に位置づける。親会社 / スキーム運営者の関係を含む比較対象・対照文脈は [[card-issuers/jcb|JCB]]、より広い制度・規制上の境界は [[payments/japan-card-issuer-acquirer-processor-split|Japan card issuer / acquirer / processor split]] とあわせて読む。
+この項目は [[payment-firms/INDEX|payment-firms INDEX]] の配下に位置づける。親会社 / スキーム運営者の関係を含む比較対象・対照文脈は [[card-issuers/jcb|JCB]]、より広い制度・規制上の境界は [[payments/japan-card-issuer-acquirer-processor-split|Japan card issuer / acquirer / processor split]] とあわせて読む。
 
 ## 要約
 

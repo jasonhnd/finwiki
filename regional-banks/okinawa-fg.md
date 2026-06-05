@@ -22,7 +22,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[regional-banks/ryukyu-bank|株式会社琉球銀行]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it against [[regional-banks/ryukyu-bank|株式会社琉球銀行]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
@@ -196,7 +196,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[regiona
 - [[ryukyu-bank]] — 沖縄県内 No.2 地銀・1948 設立・PRIME 8399・単独銀行
 - [[kyushu-fg]] · [[fukuoka-fg]] · [[nishi-nippon-fhd]] — 九州地区競合・本土地銀
 - [[mufg]] · [[smfg]] · [[mizuho-fg]] — メガバンク県内拠点・大企業向け競合
-- [[JapanFG/INDEX|Japan FG INDEX]]
+- [[regional-banks/INDEX|regional-banks INDEX]]
 
 ## Sources
 

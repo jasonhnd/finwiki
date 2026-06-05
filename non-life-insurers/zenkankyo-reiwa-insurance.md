@@ -17,7 +17,7 @@ sources:
 
 # Zenkankyo Reiwa Insurance / 全管協れいわ損害保険
 
-Wiki route: [[JapanFG/INDEX]] -> [[insurance/INDEX]] -> [[non-life-insurers/zenkankyo-reiwa-insurance]]
+Wiki route: [[non-life-insurers/INDEX]] -> [[insurance/INDEX]] -> [[non-life-insurers/zenkankyo-reiwa-insurance]]
 
 ## Overview
 

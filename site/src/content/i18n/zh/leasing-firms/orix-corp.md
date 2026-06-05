@@ -1,5 +1,5 @@
 ---
-source: japanfg/orix-corp
+source: leasing-firms/orix-corp
 source_hash: 70fffad576d76c9d
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T00:41:50.473Z
 
 ## Wiki 路线
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可对照 [[leasing-firms/tokyo-century|東京センチュリー株式会社 (Tokyo Century Corporation)]] 阅读同业 / 对比背景，并结合 [[banking/INDEX|banking index]] 理解更广泛的系统与监管边界。
+本条目位于 [[leasing-firms/INDEX|leasing-firms INDEX]] 之下。可对照 [[leasing-firms/tokyo-century|東京センチュリー株式会社 (Tokyo Century Corporation)]] 阅读同业 / 对比背景，并结合 [[banking/INDEX|banking index]] 理解更广泛的系统与监管边界。
 
 ## TL;DR
 

@@ -1,5 +1,5 @@
 ---
-source: japanfg/hanasaku-life
+source: life-insurers/hanasaku-life
 source_hash: cf12761edaaa55da
 lang: ja
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-06-02T14:25:12.434Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の下に置く。比較対象・対照軸は [[life-insurers/nanairo-life|なないろ生命保険]]、より広い制度・規制境界は [[insurance/INDEX|insurance index]] とあわせて読む。
+この項目は [[life-insurers/INDEX|life-insurers INDEX]] の下に置く。比較対象・対照軸は [[life-insurers/nanairo-life|なないろ生命保険]]、より広い制度・規制境界は [[insurance/INDEX|insurance index]] とあわせて読む。
 
 ## 要約
 

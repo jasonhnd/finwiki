@@ -37,7 +37,7 @@
       "https://www.sonpo.or.jp/member/gaikyou/quarterly/2023/ctuevu00000187k8-att/29_yamap_2024.pdf"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it with insurance index, NTTドコモ損害保険, au損害保険, and アニコム損害保険 as specialty / embedded non-life comparison routes.",
+  "summary": "This entry sits under non-life-insurers INDEX. Read it with insurance index, NTTドコモ損害保険, au損害保険, and アニコム損害保険 as specialty / embedded non-life comparison routes.",
   "headings": [
     "ヤマップネイチャランス損害保険",
     "Wiki route",
@@ -52,8 +52,8 @@
   "body_links": {
     "wikilinks_count": 12,
     "wikilinks": [
-      "JapanFG/INDEX",
       "insurance/INDEX",
+      "non-life-insurers/INDEX",
       "non-life-insurers/anicom-insurance",
       "non-life-insurers/au-insurance",
       "non-life-insurers/msad",
@@ -66,8 +66,8 @@
       "non-life-insurers/tokio-marine-nichido-fire"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/insurance/INDEX",
+      "https://finwiki.zksc.io/non-life-insurers/INDEX",
       "https://finwiki.zksc.io/non-life-insurers/anicom-insurance",
       "https://finwiki.zksc.io/non-life-insurers/au-insurance",
       "https://finwiki.zksc.io/non-life-insurers/msad",
@@ -83,9 +83,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3662,
-    "word_like_tokens": 594,
+    "nonspace_chars": 3682,
+    "word_like_tokens": 598,
     "inbound_wikilinks_count": 3,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

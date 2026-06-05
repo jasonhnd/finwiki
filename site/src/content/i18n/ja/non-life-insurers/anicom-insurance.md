@@ -1,5 +1,5 @@
 ---
-source: japanfg/anicom-insurance
+source: non-life-insurers/anicom-insurance
 source_hash: 4134c6ef773e5052
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:01:20.916Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の下に位置する。ピア / 対比の文脈は [[non-life-insurers/tokio-marine-nichido-fire|東京海上日動火災保険]]、より広いシステム / 規制境界は [[insurance/INDEX|insurance index]] と照らして読む。
+この項目は [[non-life-insurers/INDEX|non-life-insurers INDEX]] の下に位置する。ピア / 対比の文脈は [[non-life-insurers/tokio-marine-nichido-fire|東京海上日動火災保険]]、より広いシステム / 規制境界は [[insurance/INDEX|insurance index]] と照らして読む。
 
 ## 要約
 
@@ -30,7 +30,7 @@ translated_at: 2026-06-02T14:01:20.916Z
 
 ## 2. 事業モデル
 
-ペット保険は自動車 / 火災保険とは構造的に異なる。自動車事故頻度よりも、動物病院ネットワーク、保険金請求頻度、ペットオーナー獲得、医療費インフレが重要である。アニコム損保は [[JapanFG/INDEX|JapanFG]] におけるこの専門ラインのアンカーであり、親会社の文脈は [[non-life-insurers/anicom-hd|アニコム HD]]、専門ラインの対比はダイレクト自動車の [[non-life-insurers/sony-insurance|ソニー損保]] に置く。
+ペット保険は自動車 / 火災保険とは構造的に異なる。自動車事故頻度よりも、動物病院ネットワーク、保険金請求頻度、ペットオーナー獲得、医療費インフレが重要である。アニコム損保は [[non-life-insurers/INDEX|non-life-insurers INDEX]] におけるこの専門ラインのアンカーであり、親会社の文脈は [[non-life-insurers/anicom-hd|アニコム HD]]、専門ラインの対比はダイレクト自動車の [[non-life-insurers/sony-insurance|ソニー損保]] に置く。
 
 ## 3. このページが重要な理由
 

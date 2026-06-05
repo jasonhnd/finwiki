@@ -1,5 +1,5 @@
 ---
-source: japanfg/fukui-bank
+source: regional-banks/fukui-bank
 source_hash: c3dcdccfd042d773
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:25:12.384Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に位置づける。隣接する文脈は [[banking/INDEX|banking index]]、より広い制度上の境界は [[financial-licenses/INDEX|JapanFG index]] とあわせて読む。
+この項目は [[regional-banks/INDEX|regional-banks INDEX]] の配下に位置づける。隣接する文脈は [[banking/INDEX|banking index]]、より広い制度上の境界は [[financial-licenses/INDEX|JapanFG index]] とあわせて読む。
 
 ## 要約
 

@@ -1,5 +1,5 @@
 ---
-source: japanfg/towa-bank
+source: regional-banks/towa-bank
 source_hash: 926f4a86743f3242
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.105Z
 
 ## Wiki route
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可与 [[regional-banks/jimoto-hd|じもとホールディングス (JIMOTO HD)]] 对读，以理解同业 / 对照背景；也可与 [[banking/INDEX|banking index]] 对读，以理解更广的制度 / 监管边界。
+本条目位于 [[regional-banks/INDEX|regional-banks INDEX]] 之下。可与 [[regional-banks/jimoto-hd|じもとホールディングス (JIMOTO HD)]] 对读，以理解同业 / 对照背景；也可与 [[banking/INDEX|banking index]] 对读，以理解更广的制度 / 监管边界。
 
 ## TL;DR
 

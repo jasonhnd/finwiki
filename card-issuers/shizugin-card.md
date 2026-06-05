@@ -21,7 +21,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary credit-card operating-company anchor for [[shizuoka-fg|しずおか FG]] グループ ([[shizuoka-bank|静岡銀行]] 母体)。Read it against parent operating bank [[shizuoka-bank|静岡銀行]] and sibling subsidiaries 静銀ティーエム証券 / しずぎんリース / 静銀キャピタル / 静銀信用保証. Peer comparison: 地銀系クレジットカード会社 (めぶきカード / ちばぎんカード / [[ucs-card|UCS カード]] (旧 名古屋鉄道系) / 横浜銀のはまぎんファイナンス etc.) and major card-issuers [[smbc-card|三井住友カード]] / [[credit-saison|クレディセゾン]] / [[rakuten-card|楽天カード]] / [[seven-card-service|セブンカードサービス]] / [[paypay-card|PayPay カード]] / [[epos-card|エポスカード]] / [[life-card|ライフカード]] / [[aplus|アプラス]] / [[pocket-card|ポケットカード]]. For broader system route see [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]], [[banking/regional-bank-api-digital-partnership-route|regional-bank API/digital partnership route]] and [[banking/INDEX|banking index]]. Investable-universe context: [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]].
+This entry sits under the [[card-issuers/INDEX|card-issuers INDEX]] as the FG-subsidiary credit-card operating-company anchor for [[shizuoka-fg|しずおか FG]] グループ ([[shizuoka-bank|静岡銀行]] 母体)。Read it against parent operating bank [[shizuoka-bank|静岡銀行]] and sibling subsidiaries 静銀ティーエム証券 / しずぎんリース / 静銀キャピタル / 静銀信用保証. Peer comparison: 地銀系クレジットカード会社 (めぶきカード / ちばぎんカード / [[ucs-card|UCS カード]] (旧 名古屋鉄道系) / 横浜銀のはまぎんファイナンス etc.) and major card-issuers [[smbc-card|三井住友カード]] / [[credit-saison|クレディセゾン]] / [[rakuten-card|楽天カード]] / [[seven-card-service|セブンカードサービス]] / [[paypay-card|PayPay カード]] / [[epos-card|エポスカード]] / [[life-card|ライフカード]] / [[aplus|アプラス]] / [[pocket-card|ポケットカード]]. For broader system route see [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]], [[banking/regional-bank-api-digital-partnership-route|regional-bank API/digital partnership route]] and [[banking/INDEX|banking index]]. Investable-universe context: [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]].
 
 ## TL;DR
 
@@ -123,7 +123,7 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary c
 - [[bnpl-landscape]] · [[atone]] · [[acom]] · [[aiful]]
 - [[banking/regional-bank-consolidation-pattern]] · [[banking/regional-bank-api-digital-partnership-route]] · [[banking/INDEX]]
 - [[finance/japan-listed-financial-groups-investable-universe]] · [[finance/INDEX]]
-- [[JapanFG/INDEX|JapanFG index]]
+- [[card-issuers/INDEX|card-issuers INDEX]]
 
 ## Sources
 

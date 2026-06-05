@@ -1,5 +1,5 @@
 ---
-source: japanfg/kitakyushu-bank
+source: regional-banks/kitakyushu-bank
 source_hash: 83f7257f1f02bc30
 lang: ja
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-06-02T14:54:39.091Z
 
 ## ウィキ上の位置づけ
 
-この項目 sits under [[JapanFG/INDEX|JapanFG index]]. あわせて読む と照合して [[regional-banks/fukuoka-bank|福岡銀行]] のために 比較・対照 文脈 と [[banking/INDEX|banking index]] のために the より広い制度・規制境界.
+この項目 sits under [[regional-banks/INDEX|regional-banks INDEX]]. あわせて読む と照合して [[regional-banks/fukuoka-bank|福岡銀行]] のために 比較・対照 文脈 と [[banking/INDEX|banking index]] のために the より広い制度・規制境界.
 
 ## 要約
 

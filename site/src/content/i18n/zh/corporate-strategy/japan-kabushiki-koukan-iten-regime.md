@@ -57,7 +57,7 @@ translated_at: 2026-06-05T00:00:00.000Z
 株式移転 设立一家**全新**母公司 (株式移転設立完全親会社)，其最初唯一的资产即被转移公司的 100%。它是两种模式的标准法律路径:
 
 1. **单一公司控股化**: 一家经营公司进行一次 株式移転，将自身置于一家新创设的纯粹型控股公司之下。股东以一对一将其经营公司股份换为控股公司股份；经营公司成为全资子公司。
-2. **共同控股公司 / 对等合并**: 两家 (或以上) 公司各自向一家新控股公司同时进行 株式移転，在不合并其经营实体的前提下将两者置于一个共同母公司之下。许多日本金融集团即以此种方式组装而成 — 这些结构构成了 [[finance/japan-listed-financial-groups-investable-universe|the listed-financial-groups universe]] 与编目于 [[JapanFG/INDEX|JapanFG INDEX]] 的实体。
+2. **共同控股公司 / 对等合并**: 两家 (或以上) 公司各自向一家新控股公司同时进行 株式移転，在不合并其经营实体的前提下将两者置于一个共同母公司之下。许多日本金融集团即以此种方式组装而成 — 这些结构构成了 [[finance/japan-listed-financial-groups-investable-universe|the listed-financial-groups universe]] 与编目于 [[corporate-strategy/INDEX|corporate-strategy INDEX]] 的实体。
 
 由于新控股公司是从零创设的，株式移転 规避了母公司须拥有可供发行的既有股本之需 — 与需要一家拥有可发行股份的既存收购方的 株式交換 相对照。
 

@@ -31,7 +31,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **JA Group economic-business federation**, parallel to [[cooperative-banks/norinchukin|農林中央金庫 (信用)]] / [[non-life-insurers/ja-kyosairen|JA 共済連 (共済)]] / [[cooperative-banks/ja-zenchu|JA 全中 (代表)]]. Read with [[banking/ja-bank-system-japan|JA Bank system]] for the credit-side adjacency and [[banking/cooperative-banking-japan|cooperative banking domain]] for the system boundary.
+This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as the **JA Group economic-business federation**, parallel to [[cooperative-banks/norinchukin|農林中央金庫 (信用)]] / [[non-life-insurers/ja-kyosairen|JA 共済連 (共済)]] / [[cooperative-banks/ja-zenchu|JA 全中 (代表)]]. Read with [[banking/ja-bank-system-japan|JA Bank system]] for the credit-side adjacency and [[banking/cooperative-banking-japan|cooperative banking domain]] for the system boundary.
 
 ## TL;DR
 
@@ -125,7 +125,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **JA Group economic
 - [[cooperative-banks/ja-mitsui-leasing]] — JA グループのリース機能の例
 - [[banking/ja-bank-system-japan]] — JA Bank system
 - [[banking/cooperative-banking-japan]] — 協同組織金融全体
-- [[JapanFG/INDEX|JapanFG index]]
+- [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 
 ## Sources
 

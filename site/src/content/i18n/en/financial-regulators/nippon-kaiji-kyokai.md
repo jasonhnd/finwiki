@@ -1,5 +1,5 @@
 ---
-source: japanfg/nippon-kaiji-kyokai
+source: financial-regulators/nippon-kaiji-kyokai
 source_hash: 9304522eeb7d575d
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T00:41:50.450Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[financial-regulators/japan-pi-club|日本船主責任相互保険組合]] as the direct marine-industry sibling, with a classification society and P&I club forming a pair of maritime infrastructure anchors, and [[insurance/INDEX|insurance index]] as the broader risk-transfer system frame. ClassNK is **not an insurer**, but its surveys directly underpin hull and P&I underwriting, so it sits in the JapanFG wiki as an "insurance-adjacent" institutional anchor rather than as a licensed financial entity.
+This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]]. Read it against [[financial-regulators/japan-pi-club|日本船主責任相互保険組合]] as the direct marine-industry sibling, with a classification society and P&I club forming a pair of maritime infrastructure anchors, and [[insurance/INDEX|insurance index]] as the broader risk-transfer system frame. ClassNK is **not an insurer**, but its surveys directly underpin hull and P&I underwriting, so it sits in the JapanFG wiki as an "insurance-adjacent" institutional anchor rather than as a licensed financial entity.
 
 ## TL;DR
 
@@ -44,7 +44,7 @@ General Incorporated Foundation Nippon Kaiji Kyokai (commonly ClassNK) is one of
 
 ## Related
 
-- [[JapanFG/INDEX]]
+- [[financial-regulators/INDEX]]
 - [[japan-pi-club]]
 - [[tokio-marine-nichido-fire]]
 - [[mitsui-sumitomo-insurance]]

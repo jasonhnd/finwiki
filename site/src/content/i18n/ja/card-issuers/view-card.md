@@ -1,5 +1,5 @@
 ---
-source: japanfg/view-card
+source: card-issuers/view-card
 source_hash: 6463adeea69ce84e
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T16:33:58.494Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に位置する。ピア / 対比の文脈については [[card-issuers/jal-card|株式会社JALカード]] と、より広い規制 / レジストリ境界については [[payments/credit-purchase-card-operators-japan-index|credit purchase / card operators index]] と照らして読む。
+この項目は [[card-issuers/INDEX|card-issuers INDEX]] の配下に位置する。ピア / 対比の文脈については [[card-issuers/jal-card|株式会社JALカード]] と、より広い規制 / レジストリ境界については [[payments/credit-purchase-card-operators-japan-index|credit purchase / card operators index]] と照らして読む。
 
 ## 要約
 

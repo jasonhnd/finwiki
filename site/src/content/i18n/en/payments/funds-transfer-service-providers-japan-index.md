@@ -14,7 +14,7 @@ translated_at: 2026-06-01T03:31:12.281Z
 
 FSA's funds transfer service provider list contains **83 registered operators as of 2026-04-30**. This page is the registry-control route for [[payments/funds-transfer-vs-prepaid-boundary|funds-transfer vs prepaid]] analysis; it does not reproduce all row-level registry data.
 
-Use this page when a company page under [[JapanFG/INDEX|JapanFG]] needs to be read as a money-transfer operator, wallet operator, remittance provider, PSP with transfer capability, or stablecoin-adjacent settlement company. The official FSA PDF remains the source of truth for registration numbers, dates, addresses, and service-type columns.
+Use this page when a company page under [[payments/INDEX|payments INDEX]] needs to be read as a money-transfer operator, wallet operator, remittance provider, PSP with transfer capability, or stablecoin-adjacent settlement company. The official FSA PDF remains the source of truth for registration numbers, dates, addresses, and service-type columns.
 
 ## Registry Snapshot
 

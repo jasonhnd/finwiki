@@ -42,7 +42,7 @@
       "中小企業等協同組合法"
     ]
   },
-  "summary": "This entry sits under JapanFG index as a Tohoku regional shinkumi (地域信組) anchor within the 143-cooperative population catalogued in Japan credit cooperative registry. Read it against 大阪商銀信用組合 for the ethnic-business shinkumi contrast and 全信組連 / Zenshinkumiren for the cooperative-system parent.",
+  "summary": "This entry sits under cooperative-banks INDEX as a Tohoku regional shinkumi (地域信組) anchor within the 143-cooperative population catalogued in Japan credit cooperative registry. Read it against 大阪商銀信用組合 for the ethnic-business shinkumi contrast and 全信組連 / Zenshinkumiren for the cooperative-system par",
   "headings": [
     "いわき信用組合 (Iwaki Credit Cooperative)",
     "Wiki route",
@@ -58,9 +58,9 @@
   "body_links": {
     "wikilinks_count": 10,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/cooperative-banking-japan",
       "banking/credit-cooperative-registry-japan",
+      "cooperative-banks/INDEX",
       "cooperative-banks/osaka-shogin-shinkumi",
       "cooperative-banks/sapporo-chuo-shinkumi",
       "cooperative-banks/zenshin-kumi",
@@ -70,9 +70,9 @@
       "regulators-japan/financial-laws-stack"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/cooperative-banking-japan",
       "https://finwiki.zksc.io/banking/credit-cooperative-registry-japan",
+      "https://finwiki.zksc.io/cooperative-banks/INDEX",
       "https://finwiki.zksc.io/cooperative-banks/osaka-shogin-shinkumi",
       "https://finwiki.zksc.io/cooperative-banks/sapporo-chuo-shinkumi",
       "https://finwiki.zksc.io/cooperative-banks/zenshin-kumi",
@@ -87,9 +87,9 @@
     ]
   },
   "metrics": {
-    "nonspace_chars": 4542,
-    "word_like_tokens": 682,
+    "nonspace_chars": 4582,
+    "word_like_tokens": 686,
     "inbound_wikilinks_count": 8,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

@@ -1,5 +1,5 @@
 ---
-source: japanfg/fm-global-japan
+source: non-life-insurers/fm-global-japan
 source_hash: b5ab1cac2a4da3b6
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T15:29:03.930Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[non-life-insurers/lloyd-japan|Lloyd's Japan]] and [[non-life-insurers/chubb-insurance-japan|Chubb Insurance Japan]] for foreign-commercial-insurer peer context, and [[insurance/INDEX|insurance index]] for the broader Japan non-life market system / regulatory boundary.
+This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read it against [[non-life-insurers/lloyd-japan|Lloyd's Japan]] and [[non-life-insurers/chubb-insurance-japan|Chubb Insurance Japan]] for foreign-commercial-insurer peer context, and [[insurance/INDEX|insurance index]] for the broader Japan non-life market system / regulatory boundary.
 
 ## TL;DR
 

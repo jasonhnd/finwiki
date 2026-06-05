@@ -1,5 +1,5 @@
 ---
-source: japanfg/sumitomo-life
+source: life-insurers/sumitomo-life
 source_hash: 0026157d767a3213
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.176Z
 
 ## Wiki 路径
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可与 [[life-insurers/nippon-life|日本生命保険相互会社 (Nippon Life)]] 对照阅读以理解同业 / 对比语境，并参考 [[insurance/INDEX|insurance index]] 把握更广泛的系统与监管边界。
+本条目位于 [[life-insurers/INDEX|life-insurers INDEX]] 之下。可与 [[life-insurers/nippon-life|日本生命保険相互会社 (Nippon Life)]] 对照阅读以理解同业 / 对比语境，并参考 [[insurance/INDEX|insurance index]] 把握更广泛的系统与监管边界。
 
 ## TL;DR
 

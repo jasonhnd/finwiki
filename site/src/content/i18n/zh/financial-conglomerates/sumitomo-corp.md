@@ -1,5 +1,5 @@
 ---
-source: japanfg/sumitomo-corp
+source: financial-conglomerates/sumitomo-corp
 source_hash: fb44c7abc3fbc582
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.168Z
 
 ## Wiki route
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下，作为 **综合商社母公司 / 控股公司** 页面。可与 [[financial-conglomerates/mitsubishi-corp|三菱商事]]（旧财阀商社两雄之一）和 [[financial-conglomerates/mitsui-co|三井物産]]（财阀商社三巨头之一）对照阅读。构成本条目 JapanFG 锚点的金融服务邻接部分，请参见 [[trading-company-finance/sumitomo-corp-financial-management|住友商事フィナンシャルマネジメント]]（内部 CMS），尤其是 **[[leasing-firms/smfl|SMFL (三井住友ファイナンス&リース)]]**（住友商事 50% + [[megabanks/smfg|SMFG]] 50%，3 大租赁之一）和 **[[leasing-firms/sumitomo-mitsui-auto-service|住友三井オートサービス]]**（日本国内汽车租赁首位级）。系统框架参见 [[finance/INDEX|finance index]] 和 [[finance/japan-listed-financial-groups-investable-universe|Japan 上場金融 G 投資ユニバース]]。
+本条目位于 [[financial-conglomerates/INDEX|financial-conglomerates INDEX]] 之下，作为 **综合商社母公司 / 控股公司** 页面。可与 [[financial-conglomerates/mitsubishi-corp|三菱商事]]（旧财阀商社两雄之一）和 [[financial-conglomerates/mitsui-co|三井物産]]（财阀商社三巨头之一）对照阅读。构成本条目 JapanFG 锚点的金融服务邻接部分，请参见 [[trading-company-finance/sumitomo-corp-financial-management|住友商事フィナンシャルマネジメント]]（内部 CMS），尤其是 **[[leasing-firms/smfl|SMFL (三井住友ファイナンス&リース)]]**（住友商事 50% + [[megabanks/smfg|SMFG]] 50%，3 大租赁之一）和 **[[leasing-firms/sumitomo-mitsui-auto-service|住友三井オートサービス]]**（日本国内汽车租赁首位级）。系统框架参见 [[finance/INDEX|finance index]] 和 [[finance/japan-listed-financial-groups-investable-universe|Japan 上場金融 G 投資ユニバース]]。
 
 ## 1. 公司概要
 
@@ -101,7 +101,7 @@ translated_at: 2026-06-01T02:31:57.168Z
 
 ## Related
 
-- [[JapanFG/INDEX|JapanFG index]]
+- [[financial-conglomerates/INDEX|financial-conglomerates INDEX]]
 - [[financial-conglomerates/mitsubishi-corp|三菱商事]] ? [[financial-conglomerates/mitsui-co|三井物産]] ? [[financial-conglomerates/itochu-corp|伊藤忠商事]] ? [[financial-conglomerates/marubeni-corp|丸紅]] ? [[financial-conglomerates/toyota-tsusho-corp|豊田通商]] ? [[financial-conglomerates/sojitz-corp|双日]]（同业商社）
 - [[trading-company-finance/sumitomo-corp-financial-management|住友商事フィナンシャルマネジメント]]（内部 group treasury）
 - [[leasing-firms/smfl|SMFL]]（与 SMFG 的 50/50 JV，3 大租赁）

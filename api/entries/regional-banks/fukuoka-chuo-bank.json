@@ -36,7 +36,7 @@
       "https://www.fukuoka-fg.com/group/company.html"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 福岡銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under regional-banks INDEX. Read it against 福岡銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [
     "福岡中央銀行",
     "Wiki route",
@@ -50,7 +50,6 @@
   "body_links": {
     "wikilinks_count": 9,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "banking/minna-bank-baas-model",
       "banking/regional-bank-consolidation-pattern",
@@ -58,10 +57,10 @@
       "fukuoka-bank",
       "fukuoka-fg",
       "nishi-nippon-city-bank",
+      "regional-banks/INDEX",
       "regional-banks/fukuoka-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/minna-bank-baas-model",
       "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
@@ -69,15 +68,16 @@
       "https://finwiki.zksc.io/fukuoka-bank",
       "https://finwiki.zksc.io/fukuoka-fg",
       "https://finwiki.zksc.io/nishi-nippon-city-bank",
+      "https://finwiki.zksc.io/regional-banks/INDEX",
       "https://finwiki.zksc.io/regional-banks/fukuoka-bank"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1859,
-    "word_like_tokens": 296,
+    "nonspace_chars": 1873,
+    "word_like_tokens": 298,
     "inbound_wikilinks_count": 3,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

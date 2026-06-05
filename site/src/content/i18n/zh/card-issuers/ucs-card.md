@@ -1,5 +1,5 @@
 ---
-source: japanfg/ucs-card
+source: card-issuers/ucs-card
 source_hash: 5f8ef272100aad4c
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-01T02:31:57.132Z
 
 ## Wiki 路径
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可结合 [[card-issuers/life-card|ライフカード (Life Card)]] 作为同业 / 对照背景，并结合 [[payments/INDEX|payments index]] 理解更广泛的制度 / 监管边界。
+本条目位于 [[card-issuers/INDEX|card-issuers INDEX]] 之下。可结合 [[card-issuers/life-card|ライフカード (Life Card)]] 作为同业 / 对照背景，并结合 [[payments/INDEX|payments index]] 理解更广泛的制度 / 监管边界。
 
 ## 摘要
 

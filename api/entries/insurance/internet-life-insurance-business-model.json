@@ -36,7 +36,7 @@
       "https://www.lifenet-seimei.co.jp/policy/security/"
     ]
   },
-  "summary": "This entry sits under insurance index. Read it against Life insurance channel mix for peer / contrast context and JapanFG index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under insurance index. Read it against Life insurance channel mix for peer / contrast context and insurance INDEX for the broader system / regulatory boundary.",
   "headings": [
     "Internet life insurance business model",
     "Wiki route",
@@ -48,10 +48,9 @@
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 12,
+    "wikilinks_count": 11,
     "wikilinks": [
       "INDEX",
-      "JapanFG/INDEX",
       "financial-licenses/INDEX",
       "insurance/INDEX",
       "insurance/life-insurance-channel-mix",
@@ -65,7 +64,6 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/financial-licenses/INDEX",
       "https://finwiki.zksc.io/insurance/INDEX",
       "https://finwiki.zksc.io/insurance/life-insurance-channel-mix",
@@ -81,9 +79,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3715,
+    "nonspace_chars": 3719,
     "word_like_tokens": 566,
     "inbound_wikilinks_count": 19,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

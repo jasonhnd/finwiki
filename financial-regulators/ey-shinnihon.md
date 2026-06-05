@@ -35,7 +35,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it alongside [[financial-regulators/deloitte-touche-tohmatsu|有限責任監査法人トーマツ (Deloitte)]] and [[financial-regulators/kpmg-azsa|あずさ監査法人 (KPMG)]] for peer Big 4 audit context, and [[financial-licenses/INDEX|金融ライセンス INDEX]] for the regulatory boundary around 公認会計士法 / 監査品質管理。CPAAOB 検査制度や上場開示の監査人開示は [[financial-regulators/fsa-supervision-bureau|金融庁 監督局]] と [[financial-regulators/fsa-strategy-bureau|金融庁 総合政策局]] の所管文脈を併読。
+This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]]. Read it alongside [[financial-regulators/deloitte-touche-tohmatsu|有限責任監査法人トーマツ (Deloitte)]] and [[financial-regulators/kpmg-azsa|あずさ監査法人 (KPMG)]] for peer Big 4 audit context, and [[financial-licenses/INDEX|金融ライセンス INDEX]] for the regulatory boundary around 公認会計士法 / 監査品質管理。CPAAOB 検査制度や上場開示の監査人開示は [[financial-regulators/fsa-supervision-bureau|金融庁 監督局]] と [[financial-regulators/fsa-strategy-bureau|金融庁 総合政策局]] の所管文脈を併読。
 
 ## 1. 法人概要
 

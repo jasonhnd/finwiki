@@ -1,5 +1,5 @@
 ---
-source: japanfg/daito-mirai-trust
+source: trust-banks/daito-mirai-trust
 source_hash: ae3a15f0c3fa1a64
 lang: zh
 status: machine
@@ -10,7 +10,7 @@ translated_at: 2026-05-31T15:29:03.959Z
 
 # 大东未来信托 / 大东未来信托
 
-维基路线：[[JapanFG/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/daito-mirai-trust]]
+维基路线：[[trust-banks/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/daito-mirai-trust]]
 
 ## 概述
 

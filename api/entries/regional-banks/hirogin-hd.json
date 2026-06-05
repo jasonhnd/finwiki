@@ -31,7 +31,7 @@
       "ひろぎん HD 第 5 期 (2025-03 期) 有価証券報告書"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against ふくおか FG (FFG) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under regional-banks INDEX. Read it against ふくおか FG (FFG) for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [
     "ひろぎん HD (Hirogin Holdings)",
     "Wiki route",
@@ -47,13 +47,13 @@
   "body_links": {
     "wikilinks_count": 12,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "chugoku-bank",
       "hiroshima-bank",
       "mizuho-fg",
       "mufg",
       "ndfg",
+      "regional-banks/INDEX",
       "regional-banks/chugin-okayama",
       "regional-banks/fukuoka-fg",
       "san-in-godo-bank",
@@ -61,13 +61,13 @@
       "yamaguchi-fg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/chugoku-bank",
       "https://finwiki.zksc.io/hiroshima-bank",
       "https://finwiki.zksc.io/mizuho-fg",
       "https://finwiki.zksc.io/mufg",
       "https://finwiki.zksc.io/ndfg",
+      "https://finwiki.zksc.io/regional-banks/INDEX",
       "https://finwiki.zksc.io/regional-banks/chugin-okayama",
       "https://finwiki.zksc.io/regional-banks/fukuoka-fg",
       "https://finwiki.zksc.io/san-in-godo-bank",
@@ -78,9 +78,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3520,
-    "word_like_tokens": 579,
+    "nonspace_chars": 3534,
+    "word_like_tokens": 581,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

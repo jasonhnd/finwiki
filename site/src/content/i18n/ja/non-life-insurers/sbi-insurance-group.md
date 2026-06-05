@@ -1,5 +1,5 @@
 ---
-source: japanfg/sbi-insurance-group
+source: non-life-insurers/sbi-insurance-group
 source_hash: 565cdc49b7fd2b7c
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T15:14:17.126Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に位置づける。同業・比較対象の文脈は [[securities-firms/sbi-securities|SBI証券 (SBI Securities)]] と照らし、より広い制度・規制上の境界は [[banking/INDEX|banking index]] を参照する。
+この項目は [[non-life-insurers/INDEX|non-life-insurers INDEX]] の配下に位置づける。同業・比較対象の文脈は [[securities-firms/sbi-securities|SBI証券 (SBI Securities)]] と照らし、より広い制度・規制上の境界は [[banking/INDEX|banking index]] を参照する。
 
 ## 要約
 

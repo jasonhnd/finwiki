@@ -1,5 +1,5 @@
 ---
-source: japanfg/dock-financial
+source: payment-firms/dock-financial
 source_hash: 30d0e0946679c698
 lang: en
 status: machine
@@ -14,7 +14,7 @@ translated_at: 2026-05-31T15:29:03.885Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **operating-company anchor** for SB Payment Service (SBPS), the SoftBank Corp. payment-processing and financial-services subsidiary. Read it against [[megabanks/paypay-fg|PayPay Financial Group]] for the sister SoftBank-affiliated payment / fintech cluster, [[megabanks/au-fh|au Financial Holdings]] for the telco-captive financial group peer, [[megabanks/ndfg|NTT docomo FG]] for the telco-financial-group peer, [[payments/INDEX|payments index]] for the PSP / merchant-payment-service context, and [[payments/cashless-jp-landscape|Japan cashless payment landscape]] for system-level positioning.
+This entry sits under [[payment-firms/INDEX|payment-firms INDEX]] as the **operating-company anchor** for SB Payment Service (SBPS), the SoftBank Corp. payment-processing and financial-services subsidiary. Read it against [[megabanks/paypay-fg|PayPay Financial Group]] for the sister SoftBank-affiliated payment / fintech cluster, [[megabanks/au-fh|au Financial Holdings]] for the telco-captive financial group peer, [[megabanks/ndfg|NTT docomo FG]] for the telco-financial-group peer, [[payments/INDEX|payments index]] for the PSP / merchant-payment-service context, and [[payments/cashless-jp-landscape|Japan cashless payment landscape]] for system-level positioning.
 
 ## TL;DR
 
@@ -140,13 +140,13 @@ SBPS differentiates through **SoftBank / Yahoo / LINE / PayPay group channels an
 - [[payment-firms/paypay]] ? QR-payment merchant linkage
 - [[JapanFG/paypay-bank]] ? group bank
 - [[card-issuers/paypay-card]] ? group card issuer
-- [[payment-firms/gmo-payment-gateway]] ? major PSP competitor within [[JapanFG/INDEX]]
+- [[payment-firms/gmo-payment-gateway]] ? major PSP competitor within [[payment-firms/INDEX]]
 - [[payment-firms/digital-garage]] ? major PSP competitor
 - [[megabanks/au-fh]] ? telecom financial-group peer
 - [[megabanks/ndfg]] ? telecom financial-group peer
 - [[payments/cashless-jp-landscape]] ? Japan cashless-payment overview
 - [[payments/INDEX]] — payments namespace index
-- [[JapanFG/INDEX]] — JapanFG namespace index
+- [[payment-firms/INDEX]] — JapanFG namespace index
 
 ## Sources
 

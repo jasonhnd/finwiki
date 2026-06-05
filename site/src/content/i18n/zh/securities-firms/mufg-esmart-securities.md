@@ -1,5 +1,5 @@
 ---
-source: japanfg/mufg-esmart-securities
+source: securities-firms/mufg-esmart-securities
 source_hash: a659cc849fcc5368
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T23:59:49.381Z
 
 ## Wiki 路径
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可结合 [[securities-firms/sbi-securities|SBI証券 (SBI Securities)]] 阅读，以获得同业 / 对比语境；也可结合 [[securities/INDEX|securities index]] 阅读，以理解更大的系统 / 监管边界。
+本条目位于 [[securities-firms/INDEX|securities-firms INDEX]] 之下。可结合 [[securities-firms/sbi-securities|SBI証券 (SBI Securities)]] 阅读，以获得同业 / 对比语境；也可结合 [[securities/INDEX|securities index]] 阅读，以理解更大的系统 / 监管边界。
 
 ## TL;DR
 

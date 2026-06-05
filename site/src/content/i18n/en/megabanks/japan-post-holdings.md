@@ -1,5 +1,5 @@
 ---
-source: japanfg/japan-post-holdings
+source: megabanks/japan-post-holdings
 source_hash: 962882d769f90356
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:59:49.348Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[regional-banks/japan-post-bank|Japan Post Bank]] and [[life-insurers/kampo-life|Japan Post Insurance]] for its main financial subsidiaries, and against [[financial-regulators/fsa|金融庁]] / [[financial-regulators/boj|日本銀行]] for the broader system / regulatory boundary.
+This entry sits under [[megabanks/INDEX|megabanks INDEX]]. Read it against [[regional-banks/japan-post-bank|Japan Post Bank]] and [[life-insurers/kampo-life|Japan Post Insurance]] for its main financial subsidiaries, and against [[financial-regulators/fsa|金融庁]] / [[financial-regulators/boj|日本銀行]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
@@ -109,7 +109,7 @@ Note: Japan Post Holdings plans to reduce its [[regional-banks/japan-post-bank|J
 - [[regional-banks/japan-post-bank|Japan Post Bank]] · [[life-insurers/kampo-life|Japan Post Insurance]] · [[megabanks/japan-post-co|日本郵便]]
 - [[financial-regulators/fsa|金融庁]] · [[financial-regulators/boj|日本銀行]]
 - [[financial-regulators/japan-exchange-group|Japan Exchange Group]]
-- [[JapanFG/INDEX|JapanFG index]]
+- [[megabanks/INDEX|megabanks INDEX]]
 
 ## Sources
 

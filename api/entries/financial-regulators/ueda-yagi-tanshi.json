@@ -34,7 +34,7 @@
       "日本銀行: コール市場・短期金融市場関連公開資料"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against セントラル短資株式会社 (Central Tanshi) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under financial-regulators INDEX. Read it against セントラル短資株式会社 (Central Tanshi) for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [
     "上田八木短資株式会社 (Ueda Yagi Tanshi)",
     "Wiki route",
@@ -50,9 +50,9 @@
   "body_links": {
     "wikilinks_count": 10,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "central-tanshi",
+      "financial-regulators/INDEX",
       "financial-regulators/central-tanshi",
       "mizuho-fg",
       "money-market/boj-open-market-operations",
@@ -62,9 +62,9 @@
       "tokyo-tanshi"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/central-tanshi",
+      "https://finwiki.zksc.io/financial-regulators/INDEX",
       "https://finwiki.zksc.io/financial-regulators/central-tanshi",
       "https://finwiki.zksc.io/mizuho-fg",
       "https://finwiki.zksc.io/money-market/boj-open-market-operations",
@@ -77,9 +77,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2979,
-    "word_like_tokens": 418,
+    "nonspace_chars": 3005,
+    "word_like_tokens": 420,
     "inbound_wikilinks_count": 20,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

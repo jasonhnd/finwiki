@@ -1,5 +1,5 @@
 ---
-source: japanfg/chukyo-bank
+source: regional-banks/chukyo-bank
 source_hash: 0c709c1c67d18f4a
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T11:13:44.920Z
 
 ## Wiki Route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]] as the historical predecessor anchor for current operating bank [[aichi-bank|Aichi Bank]] under [[aichi-fg|Aichi FG]]. Read it against [[nagoya-bank|Nagoya Bank]] for the remaining independent Nagoya regional-bank peer.
+This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] as the historical predecessor anchor for current operating bank [[aichi-bank|Aichi Bank]] under [[aichi-fg|Aichi FG]]. Read it against [[nagoya-bank|Nagoya Bank]] for the remaining independent Nagoya regional-bank peer.
 
 ## TL;DR
 

@@ -1,5 +1,5 @@
 ---
-source: japanfg/tokyo-star-bank
+source: regional-banks/tokyo-star-bank
 source_hash: a699eaded09cbabc
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-01T02:31:57.139Z
 
 ## Wiki 路线
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可与 [[regional-banks/kanagawa-bank|神奈川銀行]] 对照阅读，以把握同业 / 对比语境；也可与 [[banking/INDEX|banking index]] 一起阅读，以确认更广的制度 / 监管边界。
+本条目位于 [[regional-banks/INDEX|regional-banks INDEX]] 之下。可与 [[regional-banks/kanagawa-bank|神奈川銀行]] 对照阅读，以把握同业 / 对比语境；也可与 [[banking/INDEX|banking index]] 一起阅读，以确认更广的制度 / 监管边界。
 
 ## TL;DR
 

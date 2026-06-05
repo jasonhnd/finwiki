@@ -1,5 +1,5 @@
 ---
-source: japanfg/iwai-cosmo-securities
+source: securities-firms/iwai-cosmo-securities
 source_hash: 1e28dc74abc72f93
 lang: en
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-05-31T15:29:03.882Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[securities-firms/iwai-cosmo-hd|Iwai Cosmo Holdings]] for parent holding context, [[securities-firms/okasan-sg|Okasan Securities Group]] / [[securities-firms/tokai-tokyo-fh|Tokai Tokyo FH]] for peer mid-tier independent securities, and [[securities/INDEX|securities index]] for the broader market-structure boundary.
+This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it against [[securities-firms/iwai-cosmo-hd|Iwai Cosmo Holdings]] for parent holding context, [[securities-firms/okasan-sg|Okasan Securities Group]] / [[securities-firms/tokai-tokyo-fh|Tokai Tokyo FH]] for peer mid-tier independent securities, and [[securities/INDEX|securities index]] for the broader market-structure boundary.
 
 ## TL;DR
 

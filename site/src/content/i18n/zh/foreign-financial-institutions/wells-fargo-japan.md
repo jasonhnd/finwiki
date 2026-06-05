@@ -1,5 +1,5 @@
 ---
-source: japanfg/wells-fargo-japan
+source: foreign-financial-institutions/wells-fargo-japan
 source_hash: 5456f932c5e6d9e4
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.124Z
 
 ## 维基路线
 
-该条目位于 [[JapanFG/INDEX|JapanFG index]] 下。对照 [[foreign-financial-institutions/bank-of-america-japan|バンク・オブ・アメリカ日本 (Bank of America Japan)]] 来了解同行/对比环境，对照 [[banking/INDEX|banking index]] 来了解更广泛的系统/监管边界。
+该条目位于 [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]] 下。对照 [[foreign-financial-institutions/bank-of-america-japan|バンク・オブ・アメリカ日本 (Bank of America Japan)]] 来了解同行/对比环境，对照 [[banking/INDEX|banking index]] 来了解更广泛的系统/监管边界。
 
 ## 长篇大论；博士
 

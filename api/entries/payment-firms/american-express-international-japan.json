@@ -41,7 +41,7 @@
       "https://www.jcb.co.jp/promotion/b2b/index.html"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against JCB for peer / contrast context (JCB と Amex は両方 3-party scheme + 提携歴あり) and Japan card issuer / acquirer / processor split for the broader system / regulatory boundary.",
+  "summary": "This entry sits under payment-firms INDEX. Read it against JCB for peer / contrast context (JCB と Amex は両方 3-party scheme + 提携歴あり) and Japan card issuer / acquirer / processor split for the broader system / regulatory boundary.",
   "headings": [
     "アメリカン・エキスプレス・インターナショナル日本支店 (American Express International Japan)",
     "Wiki route",
@@ -55,11 +55,11 @@
   "body_links": {
     "wikilinks_count": 11,
     "wikilinks": [
-      "JapanFG/INDEX",
       "card-issuers/aplus",
       "card-issuers/jcb",
       "card-issuers/mufg-nicos",
       "card-issuers/smbc-card",
+      "payment-firms/INDEX",
       "payment-firms/diners-club-japan",
       "payment-firms/mastercard-japan",
       "payment-firms/unionpay-international-japan",
@@ -68,11 +68,11 @@
       "payments/japan-interchange-and-merchant-fee-stack"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/card-issuers/aplus",
       "https://finwiki.zksc.io/card-issuers/jcb",
       "https://finwiki.zksc.io/card-issuers/mufg-nicos",
       "https://finwiki.zksc.io/card-issuers/smbc-card",
+      "https://finwiki.zksc.io/payment-firms/INDEX",
       "https://finwiki.zksc.io/payment-firms/diners-club-japan",
       "https://finwiki.zksc.io/payment-firms/mastercard-japan",
       "https://finwiki.zksc.io/payment-firms/unionpay-international-japan",
@@ -84,9 +84,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3846,
-    "word_like_tokens": 588,
+    "nonspace_chars": 3858,
+    "word_like_tokens": 590,
     "inbound_wikilinks_count": 8,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

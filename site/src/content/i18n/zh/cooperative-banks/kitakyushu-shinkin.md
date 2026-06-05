@@ -1,5 +1,5 @@
 ---
-source: japanfg/kitakyushu-shinkin
+source: cooperative-banks/kitakyushu-shinkin
 source_hash: c1f78287244c72bf
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:59:49.325Z
 
 ## Wiki route
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。九州商业银行对照对象可与 [[regional-banks/fukuoka-fg|ふくおかフィナンシャルグループ]]（[[regional-banks/fukuoka-bank|福岡銀行]]、[[regional-banks/kumamoto-bank|熊本銀行]]、[[regional-banks/18-shinwa-bank|十八親和銀行]]）和 [[regional-banks/nishi-nippon-fh|西日本フィナンシャルホールディングス]]（[[regional-banks/nishi-nippon-city-bank|西日本シティ銀行]]）一起阅读；同名区域商业银行可与 [[regional-banks/kitakyushu-bank|北九州銀行]]（山口 FG 旗下、以北九州市为地盘的第二地方银行）一起阅读；更广泛的 254 信用金库系统可与 [[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]] 一起阅读，该系统由 [[cooperative-banks/shinkin-central|信金中央金庫]] 维护并由 [[financial-regulators/zenshin-kyo|全国信用金庫協会]] 代表。九州财务局管内 13  家信用金库 + 福冈财务支局管内 13  家信用金库 + 冲绳综合事务局管内 1  家信用金库 = 九州冲绳区块合计 27  家信用金库，本页是其中具有代表性的 city-anchor 条目。
+本条目位于 [[cooperative-banks/INDEX|cooperative-banks INDEX]] 之下。九州商业银行对照对象可与 [[regional-banks/fukuoka-fg|ふくおかフィナンシャルグループ]]（[[regional-banks/fukuoka-bank|福岡銀行]]、[[regional-banks/kumamoto-bank|熊本銀行]]、[[regional-banks/18-shinwa-bank|十八親和銀行]]）和 [[regional-banks/nishi-nippon-fh|西日本フィナンシャルホールディングス]]（[[regional-banks/nishi-nippon-city-bank|西日本シティ銀行]]）一起阅读；同名区域商业银行可与 [[regional-banks/kitakyushu-bank|北九州銀行]]（山口 FG 旗下、以北九州市为地盘的第二地方银行）一起阅读；更广泛的 254 信用金库系统可与 [[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]] 一起阅读，该系统由 [[cooperative-banks/shinkin-central|信金中央金庫]] 维护并由 [[financial-regulators/zenshin-kyo|全国信用金庫協会]] 代表。九州财务局管内 13  家信用金库 + 福冈财务支局管内 13  家信用金库 + 冲绳综合事务局管内 1  家信用金库 = 九州冲绳区块合计 27  家信用金库，本页是其中具有代表性的 city-anchor 条目。
 
 ## TL;DR
 
@@ -79,7 +79,7 @@ translated_at: 2026-05-31T23:59:49.325Z
 
 ## Related
 
-- [[JapanFG/INDEX|JapanFG index]]
+- [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 - [[cooperative-banks/shinkin-central|信金中央金庫]]
 - [[financial-regulators/zenshin-kyo|全国信用金庫協会]]
 - [[cooperative-banks/shinkin-network-services|信金ネットワークサービス]]

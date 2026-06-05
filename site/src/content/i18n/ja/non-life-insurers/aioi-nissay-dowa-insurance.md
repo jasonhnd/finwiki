@@ -1,5 +1,5 @@
 ---
-source: japanfg/aioi-nissay-dowa-insurance
+source: non-life-insurers/aioi-nissay-dowa-insurance
 source_hash: 5ed64342393347b5
 lang: ja
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-06-02T14:01:20.908Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下にある。ピア比較・対照の文脈では [[non-life-insurers/mitsui-sumitomo-insurance|三井住友海上火災保険]] とあわせて読み、より広い制度・規制境界については [[insurance/INDEX|insurance index]] とあわせて読む。
+この項目は [[non-life-insurers/INDEX|non-life-insurers INDEX]] の配下にある。ピア比較・対照の文脈では [[non-life-insurers/mitsui-sumitomo-insurance|三井住友海上火災保険]] とあわせて読み、より広い制度・規制境界については [[insurance/INDEX|insurance index]] とあわせて読む。
 
 ## 要約
 

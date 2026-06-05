@@ -24,7 +24,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[leasing-firms/fuyo-lease|芙蓉総合リース]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary. As an [[regional-banks/sbi-shinsei-bank|SBI新生銀行]] グループ傘下の captive leasing entity, it should be read alongside [[consumer-finance/shinsei-financial|新生フィナンシャル]] for the broader Shinsei non-bank finance footprint.
+This entry sits under [[leasing-firms/INDEX|leasing-firms INDEX]]. Read it against [[leasing-firms/fuyo-lease|芙蓉総合リース]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary. As an [[regional-banks/sbi-shinsei-bank|SBI新生銀行]] グループ傘下の captive leasing entity, it should be read alongside [[consumer-finance/shinsei-financial|新生フィナンシャル]] for the broader Shinsei non-bank finance footprint.
 
 ## TL;DR
 

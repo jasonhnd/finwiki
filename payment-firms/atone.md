@@ -23,7 +23,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under the [[JapanFG/INDEX|JapanFG index]] as a consumer **BNPL wallet** brand. Read it together with the [[payment-firms/bnpl-landscape|Japan BNPL landscape]] system note, the [[payment-firms/net-protections-hd|Net Protections HD]] corporate parent for ownership context, and the [[payment-firms/paidy|Paidy]] peer for direct comparator. The [[payments/japan-bnpl-credit-purchase-boundary|BNPL and credit-purchase boundary]] page sets the regulatory frame, the [[payments/credit-purchase-card-operators-japan-index|METI credit-purchase registry]] anchors registration evidence, and the [[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]] shows where atone fits next to card and code payment.
+This entry sits under the [[payment-firms/INDEX|payment-firms INDEX]] as a consumer **BNPL wallet** brand. Read it together with the [[payment-firms/bnpl-landscape|Japan BNPL landscape]] system note, the [[payment-firms/net-protections-hd|Net Protections HD]] corporate parent for ownership context, and the [[payment-firms/paidy|Paidy]] peer for direct comparator. The [[payments/japan-bnpl-credit-purchase-boundary|BNPL and credit-purchase boundary]] page sets the regulatory frame, the [[payments/credit-purchase-card-operators-japan-index|METI credit-purchase registry]] anchors registration evidence, and the [[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]] shows where atone fits next to card and code payment.
 
 ## TL;DR
 

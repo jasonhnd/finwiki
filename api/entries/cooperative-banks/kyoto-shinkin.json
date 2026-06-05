@@ -39,7 +39,7 @@
       "https://www.shinkin-central-bank.jp/"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 京都中央信用金庫 for peer / contrast context inside the Kyoto shinkin block (両者は京都を地盤とする二大信用金庫) and against Japan shinkin bank registry for the broader system / regulatory boundary maintained by 信金中央金庫.",
+  "summary": "This entry sits under cooperative-banks INDEX. Read it against 京都中央信用金庫 for peer / contrast context inside the Kyoto shinkin block (両者は京都を地盤とする二大信用金庫) and against Japan shinkin bank registry for the broader system / regulatory boundary maintained by 信金中央金庫.",
   "headings": [
     "京都信用金庫",
     "Wiki route",
@@ -53,10 +53,10 @@
   "body_links": {
     "wikilinks_count": 9,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "banking/cooperative-banking-japan",
       "banking/shinkin-bank-registry-japan",
+      "cooperative-banks/INDEX",
       "cooperative-banks/kyoto-chuo-shinkin",
       "cooperative-banks/osaka-shinkin",
       "cooperative-banks/shinkin-central",
@@ -64,10 +64,10 @@
       "regional-banks/kyoto-fg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/cooperative-banking-japan",
       "https://finwiki.zksc.io/banking/shinkin-bank-registry-japan",
+      "https://finwiki.zksc.io/cooperative-banks/INDEX",
       "https://finwiki.zksc.io/cooperative-banks/kyoto-chuo-shinkin",
       "https://finwiki.zksc.io/cooperative-banks/osaka-shinkin",
       "https://finwiki.zksc.io/cooperative-banks/shinkin-central",
@@ -78,9 +78,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2794,
-    "word_like_tokens": 391,
+    "nonspace_chars": 2834,
+    "word_like_tokens": 395,
     "inbound_wikilinks_count": 1,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

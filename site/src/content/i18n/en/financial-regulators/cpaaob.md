@@ -1,5 +1,5 @@
 ---
-source: japanfg/cpaaob
+source: financial-regulators/cpaaob
 source_hash: 15957f4e40f48a4e
 lang: en
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T15:29:03.883Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it alongside [[financial-regulators/fsa-supervision-bureau|FSA Supervision Bureau]] and [[financial-regulators/fsa-inspection-bureau|FSA Inspection Bureau, historical]] for the supervisory boundary, and against [[financial-regulators/fsa-strategy-bureau|FSA Strategy Development and Management Bureau]] / [[financial-regulators/fsa-planning-coordination-bureau|FSA Planning and Coordination Bureau]] for the rule-making and policy interfaces. For the audit-firm side, anchor through [[financial-regulators/ey-shinnihon|EY ShinNihon]] · [[financial-regulators/deloitte-touche-tohmatsu|Deloitte Touche Tohmatsu]] · [[financial-regulators/kpmg-azsa|KPMG AZSA]] · [[financial-regulators/pwc-aarata|PwC Aarata]] (Big 4) and [[financial-regulators/taiyo-grant-thornton|Taiyo Grant Thornton]] · [[financial-regulators/bdo-sanyu|BDO Sanyu]] (mid-tier). License perimeter via [[financial-licenses/INDEX|financial licenses index]].
+This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]]. Read it alongside [[financial-regulators/fsa-supervision-bureau|FSA Supervision Bureau]] and [[financial-regulators/fsa-inspection-bureau|FSA Inspection Bureau, historical]] for the supervisory boundary, and against [[financial-regulators/fsa-strategy-bureau|FSA Strategy Development and Management Bureau]] / [[financial-regulators/fsa-planning-coordination-bureau|FSA Planning and Coordination Bureau]] for the rule-making and policy interfaces. For the audit-firm side, anchor through [[financial-regulators/ey-shinnihon|EY ShinNihon]] · [[financial-regulators/deloitte-touche-tohmatsu|Deloitte Touche Tohmatsu]] · [[financial-regulators/kpmg-azsa|KPMG AZSA]] · [[financial-regulators/pwc-aarata|PwC Aarata]] (Big 4) and [[financial-regulators/taiyo-grant-thornton|Taiyo Grant Thornton]] · [[financial-regulators/bdo-sanyu|BDO Sanyu]] (mid-tier). License perimeter via [[financial-licenses/INDEX|financial licenses index]].
 
 ## 1. Legal position
 
@@ -68,7 +68,7 @@ The enforcement sequence runs from CPAAOB inspection and recommendation to a dis
 
 ## Related
 
-- [[JapanFG/INDEX|JapanFG index]] — parent index
+- [[financial-regulators/INDEX|financial-regulators INDEX]] — parent index
 - [[financial-regulators/fsa-supervision-bureau|FSA Supervision Bureau]] — supervision of banks, securities firms, and insurers
 - [[financial-regulators/fsa-inspection-bureau|FSA Inspection Bureau, historical]] — inspection function before the 2018 integration
 - [[financial-regulators/fsa-strategy-bureau|FSA Strategy Development and Management Bureau]] — audit-policy coordination

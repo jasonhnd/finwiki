@@ -19,7 +19,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it with [[banking/INDEX|banking index]] for adjacent context and [[securities/INDEX|securities index]] for the broader system boundary.
+This entry sits under [[card-issuers/INDEX|card-issuers INDEX]]. Read it with [[banking/INDEX|banking index]] for adjacent context and [[securities/INDEX|securities index]] for the broader system boundary.
 
 ## TL;DR
 

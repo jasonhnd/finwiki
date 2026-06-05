@@ -57,10 +57,9 @@
     "4. 戦略 (Residual Value + EV + Mobility)"
   ],
   "body_links": {
-    "wikilinks_count": 18,
+    "wikilinks_count": 17,
     "wikilinks": [
       "INDEX",
-      "JapanFG/INDEX",
       "card-issuers/toyota-finance",
       "leasing-firms/mitsubishi-hc-capital",
       "leasing-firms/orix-corp",
@@ -80,7 +79,6 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/card-issuers/toyota-finance",
       "https://finwiki.zksc.io/leasing-firms/mitsubishi-hc-capital",
       "https://finwiki.zksc.io/leasing-firms/orix-corp",
@@ -102,9 +100,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 7230,
-    "word_like_tokens": 1126,
+    "nonspace_chars": 7282,
+    "word_like_tokens": 1130,
     "inbound_wikilinks_count": 13,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

@@ -1,5 +1,5 @@
 ---
-source: japanfg/bny-mellon-japan
+source: foreign-financial-institutions/bny-mellon-japan
 source_hash: 7a9027bc89fcc642
 lang: ja
 status: machine
@@ -27,7 +27,7 @@ BNY Mellon の日本拠点を、信託銀行、東京支店、資産運用会社
 
 以下の参照キーは原文の占位符を出現順のまま保持したものである。翻訳時に削除、改変、統合、並べ替えを行わない。
 
-- [[JapanFG/INDEX|JapanFG index]]
+- [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]]
 - [[trust-banks/master-trust-bank|日本マスタートラスト信託銀行]]
 - [[banking/INDEX|banking index]]
 - 1

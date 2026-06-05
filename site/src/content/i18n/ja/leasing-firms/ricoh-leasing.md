@@ -1,5 +1,5 @@
 ---
-source: japanfg/ricoh-leasing
+source: leasing-firms/ricoh-leasing
 source_hash: dc2677ee6157ef13
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T15:14:17.117Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の下に位置づけます。ピア比較・対照の文脈では [[leasing-firms/fuyo-lease|芙蓉総合リース]]、より広い制度・規制上の境界では [[banking/INDEX|banking index]] とあわせて読んでください。 リコー / みずほ隣接のリースプラットフォームとして、みずほ側のアセットファイナンス・エクスポージャーを整理する際は [[megabanks/mizuho-fg|Mizuho FG]] と [[leasing-firms/mizuho-lease|Mizuho Leasing]] もあわせて読んでください。
+この項目は [[leasing-firms/INDEX|leasing-firms INDEX]] の下に位置づけます。ピア比較・対照の文脈では [[leasing-firms/fuyo-lease|芙蓉総合リース]]、より広い制度・規制上の境界では [[banking/INDEX|banking index]] とあわせて読んでください。 リコー / みずほ隣接のリースプラットフォームとして、みずほ側のアセットファイナンス・エクスポージャーを整理する際は [[megabanks/mizuho-fg|Mizuho FG]] と [[leasing-firms/mizuho-lease|Mizuho Leasing]] もあわせて読んでください。
 
 ## 要約
 

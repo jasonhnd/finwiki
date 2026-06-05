@@ -25,7 +25,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[insurance/INDEX|insurance index]]. Read it against [[insurance/economic-value-based-solvency|Economic value-based solvency regulation]] for peer / contrast context and [[JapanFG/INDEX|JapanFG index]] for the broader system / regulatory boundary.
+This entry sits under [[insurance/INDEX|insurance index]]. Read it against [[insurance/economic-value-based-solvency|Economic value-based solvency regulation]] for peer / contrast context and [[insurance/INDEX|insurance INDEX]] for the broader system / regulatory boundary.
 
 ## TL;DR
 

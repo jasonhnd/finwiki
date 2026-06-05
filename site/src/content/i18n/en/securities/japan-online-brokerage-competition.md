@@ -14,7 +14,7 @@ translated_at: 2026-06-01T03:31:12.301Z
 
 Japan's online brokerage competition is now less about a simple "cheap commission" race and more about acquisition funnels: NISA accounts, point programs, bank linkage, credit-card accumulation, app distribution, SOR / PTS execution, product breadth, and wealth-retention paths.
 
-Read this page with [[securities/nisa-2024-flow|NISA 2024 flow]], [[financial-licenses/securities-license-stack|Japan securities license stack]], [[securities/financial-instruments-business-operators-japan-index|FIEA operator registry index]], and [[loyalty/japan-points-landscape|Japan points landscape]]. Company-specific conclusions still belong on the relevant [[JapanFG/INDEX|JapanFG]] pages.
+Read this page with [[securities/nisa-2024-flow|NISA 2024 flow]], [[financial-licenses/securities-license-stack|Japan securities license stack]], [[securities/financial-instruments-business-operators-japan-index|FIEA operator registry index]], and [[loyalty/japan-points-landscape|Japan points landscape]]. Company-specific conclusions still belong on the relevant [[securities/INDEX|securities INDEX]] pages.
 
 ## Competitive Axes
 

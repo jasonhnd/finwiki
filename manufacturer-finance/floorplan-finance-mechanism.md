@@ -29,7 +29,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[manufacturer-finance/INDEX|manufacturing index]] as a **mechanism page**, focused on the *upstream* (dealer-inventory) half of manufacturer finance. It is the wholesale-side complement to the *downstream* (consumer) [[manufacturer-finance/vendor-finance-mechanism|captive / vendor finance mechanism]], and a sibling to [[manufacturer-finance/export-finance-mechanism|export finance mechanism]]. The OEM finance arms that run floorplan programs are documented in [[manufacturer-finance/toyota-financial-services|Toyota Financial Services]], [[manufacturer-finance/honda-finance|Honda Finance]], [[manufacturer-finance/nissan-financial-services|Nissan Financial Services]], and — for heavy equipment — [[manufacturer-finance/komatsu-captive-finance|Komatsu 顧客金融]]. The bank-affiliated leasing companies that compete on wholesale credit are [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]] / [[leasing-firms/orix-corp|オリックス]] / [[leasing-firms/tokyo-century|東京センチュリー]]. Pair with [[JapanFG/INDEX|JapanFG index]] for the regulatory boundary.
+This entry sits under [[manufacturer-finance/INDEX|manufacturing index]] as a **mechanism page**, focused on the *upstream* (dealer-inventory) half of manufacturer finance. It is the wholesale-side complement to the *downstream* (consumer) [[manufacturer-finance/vendor-finance-mechanism|captive / vendor finance mechanism]], and a sibling to [[manufacturer-finance/export-finance-mechanism|export finance mechanism]]. The OEM finance arms that run floorplan programs are documented in [[manufacturer-finance/toyota-financial-services|Toyota Financial Services]], [[manufacturer-finance/honda-finance|Honda Finance]], [[manufacturer-finance/nissan-financial-services|Nissan Financial Services]], and — for heavy equipment — [[manufacturer-finance/komatsu-captive-finance|Komatsu 顧客金融]]. The bank-affiliated leasing companies that compete on wholesale credit are [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]] / [[leasing-firms/orix-corp|オリックス]] / [[leasing-firms/tokyo-century|東京センチュリー]]. Pair with [[manufacturer-finance/INDEX|manufacturer-finance INDEX]] for the regulatory boundary.
 
 ## TL;DR
 
@@ -87,7 +87,7 @@ floorplan の中核リスクは **在庫が長く売れ残る** ことと **売�
 - [[manufacturer-finance/toyota-financial-services|Toyota Financial Services]] · [[manufacturer-finance/honda-finance|Honda Finance]] · [[manufacturer-finance/nissan-financial-services|Nissan Financial Services]] · [[manufacturer-finance/komatsu-captive-finance|Komatsu 顧客金融]]
 - [[structured-finance/auto-loan-abs-japan-toyota-honda|Auto-loan ABS Japan]] · [[structured-finance/japan-auto-loan-abs-waterfall-mechanics|Japan auto-loan ABS waterfall mechanics]]
 - [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]] · [[leasing-firms/orix-corp|オリックス]] · [[leasing-firms/tokyo-century|東京センチュリー]]
-- [[manufacturer-finance/INDEX|manufacturing INDEX]] · [[JapanFG/INDEX|JapanFG INDEX]] · [[INDEX|FinWiki index]]
+- [[manufacturer-finance/INDEX|manufacturing INDEX]] · [[manufacturer-finance/INDEX|manufacturer-finance INDEX]] · [[INDEX|FinWiki index]]
 
 ## Sources
 

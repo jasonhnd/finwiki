@@ -39,7 +39,7 @@
       "https://www.sc.com/jp/standard-chartered-securities-japan-ltd/"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against BNY メロン日本 (BNY Mellon Japan) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under foreign-financial-institutions INDEX. Read it against BNY メロン日本 (BNY Mellon Japan) for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [
     "スタンダード・チャータード銀行 東京支店 (Standard Chartered Bank Tokyo)",
     "Wiki route",
@@ -55,9 +55,9 @@
   "body_links": {
     "wikilinks_count": 10,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "citigroup-japan",
+      "foreign-financial-institutions/INDEX",
       "foreign-financial-institutions/bny-mellon-japan",
       "hsbc-japan",
       "mizuho-fg",
@@ -67,9 +67,9 @@
       "smfg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/citigroup-japan",
+      "https://finwiki.zksc.io/foreign-financial-institutions/INDEX",
       "https://finwiki.zksc.io/foreign-financial-institutions/bny-mellon-japan",
       "https://finwiki.zksc.io/hsbc-japan",
       "https://finwiki.zksc.io/mizuho-fg",
@@ -82,9 +82,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4071,
-    "word_like_tokens": 605,
+    "nonspace_chars": 4117,
+    "word_like_tokens": 609,
     "inbound_wikilinks_count": 10,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

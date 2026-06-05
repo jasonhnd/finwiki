@@ -22,7 +22,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary securities operating-company anchor for [[mebuki-fg|めぶき FG]]. Read it against [[joyo-bank|常陽銀行]] and [[ashikaga-bank|足利銀行]] (parent bank subsidiaries) and the [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]] for system / regulatory boundary. Adjacent peer is [[ffg-securities|FFG 証券]] under [[fukuoka-fg]] for the FG-affiliated regional-securities comparison.
+This entry sits under the [[securities-firms/INDEX|securities-firms INDEX]] as the FG-subsidiary securities operating-company anchor for [[mebuki-fg|めぶき FG]]. Read it against [[joyo-bank|常陽銀行]] and [[ashikaga-bank|足利銀行]] (parent bank subsidiaries) and the [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]] for system / regulatory boundary. Adjacent peer is [[ffg-securities|FFG 証券]] under [[fukuoka-fg]] for the FG-affiliated regional-securities comparison.
 
 ## TL;DR
 
@@ -126,7 +126,7 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary s
 - [[ffg-securities]] · [[okasan-sg]] · [[aizawa-sg]] · [[iwai-cosmo-hd]]
 - [[smbc-nikko]] · [[mizuho-securities]] · [[mufg-mums]] · [[daiwa-sg]] · [[nomura-hd]]
 - [[jsda]] · [[banking/regional-bank-consolidation-pattern]] · [[banking/INDEX]]
-- [[JapanFG/INDEX|JapanFG index]]
+- [[securities-firms/INDEX|securities-firms INDEX]]
 
 ## Sources
 

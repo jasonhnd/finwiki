@@ -1,5 +1,5 @@
 ---
-source: japanfg/daiwa-asset-management
+source: asset-managers/daiwa-asset-management
 source_hash: 963f90e051afa149
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T15:29:03.858Z
 
 ## Wiki route
 
-This entry sits in the JapanFG route specified by the source file. Main source-context links: [[JapanFG/INDEX|JapanFG index]] [[asset-managers/asset-management-one|Asset Management One]] [[securities/INDEX|securities index]] [[securities-firms/daiwa-sg|Daiwa Securities Group]] registration No. 352 1 registration No. 352 [[securities-firms/daiwa-sg|Daiwa Securities Group]] 80% [[life-insurers/kampo-life|Kampo Life]] 20% 2 [[regional-banks/daiwa-next-bank|Daiwa Next Bank]] 3 [[securities-firms/daiwa-sg]] [[regional-banks/daiwa-next-bank]] [[life-insurers/kampo-life]] [[asset-managers/smd-am]] [[securities/nisa-2024-flow]]
+This entry sits in the JapanFG route specified by the source file. Main source-context links: [[asset-managers/INDEX|asset-managers INDEX]] [[asset-managers/asset-management-one|Asset Management One]] [[securities/INDEX|securities index]] [[securities-firms/daiwa-sg|Daiwa Securities Group]] registration No. 352 1 registration No. 352 [[securities-firms/daiwa-sg|Daiwa Securities Group]] 80% [[life-insurers/kampo-life|Kampo Life]] 20% 2 [[regional-banks/daiwa-next-bank|Daiwa Next Bank]] 3 [[securities-firms/daiwa-sg]] [[regional-banks/daiwa-next-bank]] [[life-insurers/kampo-life]] [[asset-managers/smd-am]] [[securities/nisa-2024-flow]]
 
 ## TL;DR
 

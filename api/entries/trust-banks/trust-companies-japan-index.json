@@ -51,7 +51,6 @@
     "wikilinks_count": 47,
     "wikilinks": [
       "INDEX",
-      "JapanFG/INDEX",
       "financial-regulators/missing-financial-institutions-backlog",
       "leasing-firms/mitsubishi-hc-capital",
       "leasing-firms/smfl",
@@ -59,6 +58,7 @@
       "megabanks/sbi-hd",
       "payment-firms/rakuten-fg",
       "securities-firms/monex-group",
+      "trust-banks/INDEX",
       "trust-banks/alterna-trust",
       "trust-banks/asahi-trust",
       "trust-banks/capital-trust",
@@ -100,7 +100,6 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/financial-regulators/missing-financial-institutions-backlog",
       "https://finwiki.zksc.io/leasing-firms/mitsubishi-hc-capital",
       "https://finwiki.zksc.io/leasing-firms/smfl",
@@ -108,6 +107,7 @@
       "https://finwiki.zksc.io/megabanks/sbi-hd",
       "https://finwiki.zksc.io/payment-firms/rakuten-fg",
       "https://finwiki.zksc.io/securities-firms/monex-group",
+      "https://finwiki.zksc.io/trust-banks/INDEX",
       "https://finwiki.zksc.io/trust-banks/alterna-trust",
       "https://finwiki.zksc.io/trust-banks/asahi-trust",
       "https://finwiki.zksc.io/trust-banks/capital-trust",
@@ -151,9 +151,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 8937,
-    "word_like_tokens": 1380,
+    "nonspace_chars": 8945,
+    "word_like_tokens": 1382,
     "inbound_wikilinks_count": 37,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

@@ -1,5 +1,5 @@
 ---
-source: japanfg/cardif-life
+source: life-insurers/cardif-life
 source_hash: ab028c02626b694e
 lang: en
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-05-31T11:13:44.843Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it with [[insurance/INDEX|insurance index]] for adjacent context and [[financial-licenses/INDEX|JapanFG index]] for the broader system boundary.
+This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it with [[insurance/INDEX|insurance index]] for adjacent context and [[financial-licenses/INDEX|JapanFG index]] for the broader system boundary.
 
 ##TL;DR
 

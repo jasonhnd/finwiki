@@ -16,7 +16,7 @@ sources:
 
 # Capital Insurance / キャピタル損害保険
 
-Wiki route: [[JapanFG/INDEX]] -> [[insurance/INDEX]] -> [[non-life-insurers/capital-insurance]]
+Wiki route: [[non-life-insurers/INDEX]] -> [[insurance/INDEX]] -> [[non-life-insurers/capital-insurance]]
 
 ## Overview
 

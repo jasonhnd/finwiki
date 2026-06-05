@@ -1,5 +1,5 @@
 ---
-source: japanfg/san-jusan-bank
+source: regional-banks/san-jusan-bank
 source_hash: 40ab911f087580c3
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T00:41:50.401Z
 
 ## Wiki route
 
-This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the bank-license operating-company anchor for the [[san-jusan-fg|三十三 FG]] holding-company route. Read it against the [[hyakugo-bank|百五銀行]] in-prefecture rival and the [[juroku-bank|十六銀行]] / [[aichi-bank|あいち銀行]] Chubu peer banks, and against the [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]] for the broader system / regulatory boundary.
+This entry sits under the [[regional-banks/INDEX|regional-banks INDEX]] as the bank-license operating-company anchor for the [[san-jusan-fg|三十三 FG]] holding-company route. Read it against the [[hyakugo-bank|百五銀行]] in-prefecture rival and the [[juroku-bank|十六銀行]] / [[aichi-bank|あいち銀行]] Chubu peer banks, and against the [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
@@ -126,7 +126,7 @@ San ju San Bank, Ltd. is a first-tier regional bank headquartered in Yokkaichi, 
 - [[san-jusan-fg]] · [[hyakugo-bank]] · [[aichi-bank]] · [[juroku-bank]] · [[ogaki-kyoritsu-bank]]
 - [[aichi-fg]] · [[juroku-fg]] · [[kyoto-fg]]
 - [[banking/regional-bank-consolidation-pattern]] · [[banking/INDEX]]
-- [[JapanFG/INDEX|JapanFG index]]
+- [[regional-banks/INDEX|regional-banks INDEX]]
 
 ## Sources
 

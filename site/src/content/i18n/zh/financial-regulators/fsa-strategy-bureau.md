@@ -1,5 +1,5 @@
 ---
-source: japanfg/fsa-strategy-bureau
+source: financial-regulators/fsa-strategy-bureau
 source_hash: d1ac3c4c4ea67193
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T15:29:03.888Z
 
 ## Wiki 路线
 
-本条目位于 [[JapanFG/INDEX|JapanFG 索引]]。请与 [[financial-regulators/fsa-supervision-bureau|FSA 监督局]] 作为监督侧对应部门对照阅读，并与 [[financial-regulators/fsa-planning-coordination-bureau|FSA 企划市场局]] 作为规则制定侧对应部门对照阅读。日本银行侧的国际政策路线可参照 [[financial-regulators/boj-international-dept|BoJ 国际局]]，更广泛的监管边界见 [[financial-licenses/INDEX|法律 / 金融牌照]]。
+本条目位于 [[financial-regulators/INDEX|financial-regulators INDEX]]。请与 [[financial-regulators/fsa-supervision-bureau|FSA 监督局]] 作为监督侧对应部门对照阅读，并与 [[financial-regulators/fsa-planning-coordination-bureau|FSA 企划市场局]] 作为规则制定侧对应部门对照阅读。日本银行侧的国际政策路线可参照 [[financial-regulators/boj-international-dept|BoJ 国际局]]，更广泛的监管边界见 [[financial-licenses/INDEX|法律 / 金融牌照]]。
 
 ## TL;DR
 

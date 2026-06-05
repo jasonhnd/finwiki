@@ -1,5 +1,5 @@
 ---
-source: japanfg/kirayaka-bank
+source: regional-banks/kirayaka-bank
 source_hash: a2f0d75f5474d7a7
 lang: ja
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-06-02T14:54:39.070Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] 配下に置かれる。[[regional-banks/sendai-bank|仙台銀行]] を同業・対照の文脈として、[[banking/INDEX|banking index]] をより広い制度・規制境界として読む。
+この項目は [[regional-banks/INDEX|regional-banks INDEX]] 配下に置かれる。[[regional-banks/sendai-bank|仙台銀行]] を同業・対照の文脈として、[[banking/INDEX|banking index]] をより広い制度・規制境界として読む。
 
 ## 要約
 

@@ -1,5 +1,5 @@
 ---
-source: japanfg/sapporo-chuo-shinkumi
+source: cooperative-banks/sapporo-chuo-shinkumi
 source_hash: c5f7b7cb047e698f
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T00:41:50.418Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **Hokkaido regional shinkumi anchor**, peer to [[cooperative-banks/iwaki-shinkumi|いわき信用組合]] (Tohoku) within the 143-cooperative population catalogued in [[banking/credit-cooperative-registry-japan|Japan credit cooperative registry]]. Contrast with [[cooperative-banks/sapporo-shinkin|札幌信用金庫]] for the shinkin-vs-shinkumi distinction in the Sapporo market.
+This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as a **Hokkaido regional shinkumi anchor**, peer to [[cooperative-banks/iwaki-shinkumi|いわき信用組合]] (Tohoku) within the 143-cooperative population catalogued in [[banking/credit-cooperative-registry-japan|Japan credit cooperative registry]]. Contrast with [[cooperative-banks/sapporo-shinkin|札幌信用金庫]] for the shinkin-vs-shinkumi distinction in the Sapporo market.
 
 ## TL;DR
 
@@ -106,7 +106,7 @@ Hokkaido has 7  credit cooperatives in the FSA registry (registry No. 1-7):
 - [[financial-regulators/dic]] — Deposit Insurance Corporation of Japan
 - [[banking/credit-cooperative-registry-japan]] — Japan credit cooperative registry (overall 143 shinkumi)
 - [[banking/cooperative-banking-japan]] — Cooperative financial institutions overall
-- [[JapanFG/INDEX|JapanFG index]]
+- [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 
 ## Sources
 

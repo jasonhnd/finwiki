@@ -1,5 +1,5 @@
 ---
-source: japanfg/zenshin-kumi
+source: cooperative-banks/zenshin-kumi
 source_hash: 9e7cf75728a1b4e9
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T03:31:12.258Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[cooperative-banks/shinkin-central|信金中央金庫 (Shinkin Central Bank)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]]. Read it against [[cooperative-banks/shinkin-central|信金中央金庫 (Shinkin Central Bank)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 

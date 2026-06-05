@@ -1,5 +1,5 @@
 ---
-source: japanfg/bank-of-taiwan-japan
+source: foreign-financial-institutions/bank-of-taiwan-japan
 source_hash: f74583d3fb89bc0c
 lang: ja
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-06-02T14:01:20.946Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の下に位置づける。比較・対照の文脈は [[foreign-financial-institutions/mega-icbc-japan|兆豐國際商業銀行 東京支店]]、より広いシステムおよび規制上の境界は [[banking/INDEX|banking index]] と照らして読む。
+この項目は [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]] の下に位置づける。比較・対照の文脈は [[foreign-financial-institutions/mega-icbc-japan|兆豐國際商業銀行 東京支店]]、より広いシステムおよび規制上の境界は [[banking/INDEX|banking index]] と照らして読む。
 
 ## 要約
 

@@ -36,7 +36,7 @@
       "Cardif Japan corporate profile 2025: https://nonlife.cardif.co.jp/wp-content/uploads/sites/37/2025/12/Cardif-CorporateProfile_2025.pdf"
     ]
   },
-  "summary": "Wiki route: JapanFG/INDEX -> insurance/INDEX -> non-life-insurers/cardif-nonlife",
+  "summary": "Wiki route: non-life-insurers/INDEX -> insurance/INDEX -> non-life-insurers/cardif-nonlife",
   "headings": [
     "Cardif Non-Life Japan / カーディフ損害保険",
     "Overview",
@@ -50,22 +50,22 @@
   "body_links": {
     "wikilinks_count": 8,
     "wikilinks": [
-      "JapanFG/INDEX",
       "financial-licenses/insurance-license-and-solvency",
       "foreign-financial-institutions/bnp-paribas-japan",
       "insurance/INDEX",
       "insurance/life-insurance-distribution-japan",
       "life-insurers/cardif-life",
+      "non-life-insurers/INDEX",
       "non-life-insurers/cardif-nonlife",
       "non-life-insurers/ji-accident-fire-insurance"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/financial-licenses/insurance-license-and-solvency",
       "https://finwiki.zksc.io/foreign-financial-institutions/bnp-paribas-japan",
       "https://finwiki.zksc.io/insurance/INDEX",
       "https://finwiki.zksc.io/insurance/life-insurance-distribution-japan",
       "https://finwiki.zksc.io/life-insurers/cardif-life",
+      "https://finwiki.zksc.io/non-life-insurers/INDEX",
       "https://finwiki.zksc.io/non-life-insurers/cardif-nonlife",
       "https://finwiki.zksc.io/non-life-insurers/ji-accident-fire-insurance"
     ],
@@ -73,9 +73,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2603,
-    "word_like_tokens": 411,
+    "nonspace_chars": 2613,
+    "word_like_tokens": 413,
     "inbound_wikilinks_count": 3,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

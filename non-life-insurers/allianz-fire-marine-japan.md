@@ -16,7 +16,7 @@ sources:
 
 # Allianz Fire and Marine Japan / アリアンツ火災海上保険
 
-Wiki route: [[JapanFG/INDEX]] -> [[insurance/INDEX]] -> [[non-life-insurers/allianz-fire-marine-japan]]
+Wiki route: [[non-life-insurers/INDEX]] -> [[insurance/INDEX]] -> [[non-life-insurers/allianz-fire-marine-japan]]
 
 ## Overview
 

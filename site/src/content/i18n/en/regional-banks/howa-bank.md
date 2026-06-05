@@ -1,5 +1,5 @@
 ---
-source: japanfg/howa-bank
+source: regional-banks/howa-bank
 source_hash: 9146621489ccd607
 lang: en
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-05-31T15:29:03.880Z
 
 ## Wiki route
 
-This entry sits under[[JapanFG/INDEX|JapanFG index]]Read it with[[banking/INDEX|banking index]]for adjacent context and[[financial-licenses/INDEX|JapanFG index]]for the broader system boundary.
+This entry sits under[[regional-banks/INDEX|regional-banks INDEX]]Read it with[[banking/INDEX|banking index]]for adjacent context and[[financial-licenses/INDEX|JapanFG index]]for the broader system boundary.
 
 ## TL;DR
 
@@ -36,7 +36,7 @@ Howa Bank is a second regional bank responsible for retail deposits, SME finance
 ## 3.Why this page matters
 
 - Closes the FSA exact-name page for Howa Bank.
-- Completes the Oita first / second regional-bank peer pair, indexed via[[JapanFG/INDEX|JapanFG index]].
+- Completes the Oita first / second regional-bank peer pair, indexed via[[regional-banks/INDEX|regional-banks INDEX]].
 - Provides a Kyushu second-regional-bank anchor for shared-system and consolidation analysis.
 
 ## Related

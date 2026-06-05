@@ -1,5 +1,5 @@
 ---
-source: japanfg/fsa-supervision-bureau
+source: financial-regulators/fsa-supervision-bureau
 source_hash: 0c98d49f6e8ec61f
 lang: ja
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-02T14:25:12.427Z
 # 監督局
 
 ## ウィキ上の位置づけ
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に位置づける。FSA内部のルール形成側の対応部局として [[financial-regulators/fsa-planning-coordination-bureau|FSA 企画市場局]]、戦略・部局横断レイヤーとして [[financial-regulators/fsa-strategy-bureau|FSA 総合政策局]]、中央銀行側の健全性監督アンカーとして [[financial-regulators/boj-financial-system-dept|BoJ 金融機構局]] を併読する。免許境界は [[financial-licenses/INDEX|legal / financial licenses]] と [[banking/INDEX|banking landscape]] を通じて確認する。
+この項目は [[financial-regulators/INDEX|financial-regulators INDEX]] の配下に位置づける。FSA内部のルール形成側の対応部局として [[financial-regulators/fsa-planning-coordination-bureau|FSA 企画市場局]]、戦略・部局横断レイヤーとして [[financial-regulators/fsa-strategy-bureau|FSA 総合政策局]]、中央銀行側の健全性監督アンカーとして [[financial-regulators/boj-financial-system-dept|BoJ 金融機構局]] を併読する。免許境界は [[financial-licenses/INDEX|legal / financial licenses]] と [[banking/INDEX|banking landscape]] を通じて確認する。
 
 ## 要約
 

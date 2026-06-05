@@ -26,7 +26,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[regional-banks/fukuoka-fg|ふくおかフィナンシャルグループ]]（[[regional-banks/fukuoka-bank|福岡銀行]]・[[regional-banks/kumamoto-bank|熊本銀行]]・[[regional-banks/18-shinwa-bank|十八親和銀行]]）と [[regional-banks/nishi-nippon-fh|西日本フィナンシャルホールディングス]]（[[regional-banks/nishi-nippon-city-bank|西日本シティ銀行]]）for the Kyushu commercial-bank counterparts, against [[regional-banks/kitakyushu-bank|北九州銀行]]（山口 FG 傘下、北九州市地盤の第二地銀）for the same-name regional commercial bank, and against [[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]] for the broader 254-shinkin system maintained by [[cooperative-banks/shinkin-central|信金中央金庫]] and represented by [[financial-regulators/zenshin-kyo|全国信用金庫協会]]. 九州財務局管内 13 信用金庫 + 福岡財務支局管内 13 信用金庫 + 沖縄総合事務局管内 1 信用金庫 = 九州沖縄ブロック計 27 信用金庫の代表的 city-anchor entry。
+This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]]. Read it against [[regional-banks/fukuoka-fg|ふくおかフィナンシャルグループ]]（[[regional-banks/fukuoka-bank|福岡銀行]]・[[regional-banks/kumamoto-bank|熊本銀行]]・[[regional-banks/18-shinwa-bank|十八親和銀行]]）と [[regional-banks/nishi-nippon-fh|西日本フィナンシャルホールディングス]]（[[regional-banks/nishi-nippon-city-bank|西日本シティ銀行]]）for the Kyushu commercial-bank counterparts, against [[regional-banks/kitakyushu-bank|北九州銀行]]（山口 FG 傘下、北九州市地盤の第二地銀）for the same-name regional commercial bank, and against [[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]] for the broader 254-shinkin system maintained by [[cooperative-banks/shinkin-central|信金中央金庫]] and represented by [[financial-regulators/zenshin-kyo|全国信用金庫協会]]. 九州財務局管内 13 信用金庫 + 福岡財務支局管内 13 信用金庫 + 沖縄総合事務局管内 1 信用金庫 = 九州沖縄ブロック計 27 信用金庫の代表的 city-anchor entry。
 
 ## TL;DR
 
@@ -94,7 +94,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[regiona
 
 ## Related
 
-- [[JapanFG/INDEX|JapanFG index]]
+- [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 - [[cooperative-banks/shinkin-central|信金中央金庫]]
 - [[financial-regulators/zenshin-kyo|全国信用金庫協会]]
 - [[cooperative-banks/shinkin-network-services|信金ネットワークサービス]]

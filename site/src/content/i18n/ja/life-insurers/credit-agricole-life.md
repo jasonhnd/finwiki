@@ -1,5 +1,5 @@
 ---
-source: japanfg/credit-agricole-life
+source: life-insurers/credit-agricole-life
 source_hash: 10cf85edb251d244
 lang: ja
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-06-02T14:01:20.955Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の下に置かれる。 [[life-insurers/cardif-life|カーディフ生命保険]] をピア比較・対照の文脈として、[[insurance/INDEX|insurance index]] をより広い制度・規制境界としてあわせて読む。
+この項目は [[life-insurers/INDEX|life-insurers INDEX]] の下に置かれる。 [[life-insurers/cardif-life|カーディフ生命保険]] をピア比較・対照の文脈として、[[insurance/INDEX|insurance index]] をより広い制度・規制境界としてあわせて読む。
 
 ## 要約
 

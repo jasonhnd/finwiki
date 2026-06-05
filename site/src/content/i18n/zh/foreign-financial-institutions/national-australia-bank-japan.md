@@ -1,5 +1,5 @@
 ---
-source: japanfg/national-australia-bank-japan
+source: foreign-financial-institutions/national-australia-bank-japan
 source_hash: b2955e91f0098e19
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T00:41:50.449Z
 
 ## Wiki 路径
 
-National Australia Bank Japan 位于 [[JapanFG/INDEX|JapanFG index]] 之下，是 [[foreign-financial-institutions/foreign-bank-branches-japan-index|the foreign-bank branch registry]] 中的澳日批发银行路径。可与 [[foreign-financial-institutions/commonwealth-bank-japan|Commonwealth Bank Japan]]、[[securities-firms/anz-bank-japan|ANZ Bank Japan]]、[[financial-licenses/foreign-financial-group-adjacent-licenses|foreign financial group adjacent licenses]]、[[securities/financial-instruments-business-operators-japan-index|FIEA operator registry]] 一并阅读。
+National Australia Bank Japan 位于 [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]] 之下，是 [[foreign-financial-institutions/foreign-bank-branches-japan-index|the foreign-bank branch registry]] 中的澳日批发银行路径。可与 [[foreign-financial-institutions/commonwealth-bank-japan|Commonwealth Bank Japan]]、[[securities-firms/anz-bank-japan|ANZ Bank Japan]]、[[financial-licenses/foreign-financial-group-adjacent-licenses|foreign financial group adjacent licenses]]、[[securities/financial-instruments-business-operators-japan-index|FIEA operator registry]] 一并阅读。
 
 当问题涉及 NAB 日本分行、日澳企业金融、资本市场、市场类产品、代理行 / 往来行业务，或银行分行与证券实体边界时，使用本页。
 
@@ -57,7 +57,7 @@ NAB 页面不应并入泛泛的澳大利亚银行桶。[[securities-firms/anz-ba
 
 ## Related
 
-- [[JapanFG/INDEX]]
+- [[foreign-financial-institutions/INDEX]]
 - [[foreign-financial-institutions/foreign-bank-branches-japan-index]]
 - [[foreign-financial-institutions/commonwealth-bank-japan]]
 - [[securities-firms/anz-bank-japan]]

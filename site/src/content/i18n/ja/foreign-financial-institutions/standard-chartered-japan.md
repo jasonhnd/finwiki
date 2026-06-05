@@ -1,5 +1,5 @@
 ---
-source: japanfg/standard-chartered-japan
+source: foreign-financial-institutions/standard-chartered-japan
 source_hash: 873b9b72a9dc486a
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T15:14:17.137Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に位置する。ピア比較・対比の文脈では [[foreign-financial-institutions/bny-mellon-japan|BNY メロン日本 (BNY Mellon Japan)]]、より広い制度・規制上の境界では [[banking/INDEX|banking index]] とあわせて読む。
+この項目は [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]] の配下に位置する。ピア比較・対比の文脈では [[foreign-financial-institutions/bny-mellon-japan|BNY メロン日本 (BNY Mellon Japan)]]、より広い制度・規制上の境界では [[banking/INDEX|banking index]] とあわせて読む。
 
 ## 要約
 

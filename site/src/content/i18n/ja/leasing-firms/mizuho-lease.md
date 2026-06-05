@@ -1,5 +1,5 @@
 ---
-source: japanfg/mizuho-lease
+source: leasing-firms/mizuho-lease
 source_hash: 92652b6ea356ad2c
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:54:39.100Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] 配下に置く。比較・対照の文脈では [[leasing-firms/smfl|SMFL / Sumitomo Mitsui Finance and Leasing]] を、より広い制度・規制上の境界では [[banking/INDEX|banking index]] を参照する。
+この項目は [[leasing-firms/INDEX|leasing-firms INDEX]] 配下に置く。比較・対照の文脈では [[leasing-firms/smfl|SMFL / Sumitomo Mitsui Finance and Leasing]] を、より広い制度・規制上の境界では [[banking/INDEX|banking index]] を参照する。
 
 ## 要約
 

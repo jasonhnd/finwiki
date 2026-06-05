@@ -43,7 +43,7 @@
       "Wikipedia: 殖産銀行 / 仙台銀行 (2026-05-29 再検証)"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it with banking index for adjacent context and JapanFG index for the broader system boundary.",
+  "summary": "This entry sits under regional-banks INDEX. Read it with banking index for adjacent context and JapanFG index for the broader system boundary.",
   "headings": [
     "じもとホールディングス (JIMOTO HD)",
     "Wiki route",
@@ -59,22 +59,22 @@
   "body_links": {
     "wikilinks_count": 8,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "fidea-hd",
       "financial-licenses/INDEX",
       "mizuho-fg",
       "mufg",
+      "regional-banks/INDEX",
       "sbi-hd",
       "smfg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/fidea-hd",
       "https://finwiki.zksc.io/financial-licenses/INDEX",
       "https://finwiki.zksc.io/mizuho-fg",
       "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/regional-banks/INDEX",
       "https://finwiki.zksc.io/sbi-hd",
       "https://finwiki.zksc.io/smfg"
     ],
@@ -82,9 +82,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5461,
-    "word_like_tokens": 1002,
+    "nonspace_chars": 5475,
+    "word_like_tokens": 1004,
     "inbound_wikilinks_count": 10,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

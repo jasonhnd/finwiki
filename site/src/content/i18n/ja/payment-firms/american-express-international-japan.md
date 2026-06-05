@@ -1,5 +1,5 @@
 ---
-source: japanfg/american-express-international-japan
+source: payment-firms/american-express-international-japan
 source_hash: b7ca411b244489ae
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:01:20.967Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] 配下に位置づける。[[card-issuers/jcb|JCB]] はピア比較・対照の文脈（JCB と Amex はいずれも 3-party scheme で提携歴もある）、[[payments/japan-card-issuer-acquirer-processor-split|Japan card issuer / acquirer / processor split]] はより広い制度 / 規制境界としてあわせて読む。
+この項目は [[payment-firms/INDEX|payment-firms INDEX]] 配下に位置づける。[[card-issuers/jcb|JCB]] はピア比較・対照の文脈（JCB と Amex はいずれも 3-party scheme で提携歴もある）、[[payments/japan-card-issuer-acquirer-processor-split|Japan card issuer / acquirer / processor split]] はより広い制度 / 規制境界としてあわせて読む。
 
 ## 1. 免許 / グループ境界
 

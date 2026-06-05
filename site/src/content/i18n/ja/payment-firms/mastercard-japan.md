@@ -1,5 +1,5 @@
 ---
-source: japanfg/mastercard-japan
+source: payment-firms/mastercard-japan
 source_hash: 3f2d2a120c1d660b
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:54:39.072Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] 配下に置かれる。[[card-issuers/jcb|JCB]] は同業・対照文脈（4-party のグローバルスキームと、JCB の 3-party ハイブリッドの比較）、[[payments/japan-interchange-and-merchant-fee-stack|Japan interchange and merchant fee stack]] はより広い制度・規制境界として読む。
+この項目は [[payment-firms/INDEX|payment-firms INDEX]] 配下に置かれる。[[card-issuers/jcb|JCB]] は同業・対照文脈（4-party のグローバルスキームと、JCB の 3-party ハイブリッドの比較）、[[payments/japan-interchange-and-merchant-fee-stack|Japan interchange and merchant fee stack]] はより広い制度・規制境界として読む。
 
 ## 要約
 

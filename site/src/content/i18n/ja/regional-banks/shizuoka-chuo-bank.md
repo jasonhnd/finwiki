@@ -1,5 +1,5 @@
 ---
-source: japanfg/shizuoka-chuo-bank
+source: regional-banks/shizuoka-chuo-bank
 source_hash: c9fbaf18b9bbeae5
 lang: ja
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-06-02T15:14:17.127Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に位置づける。同業・比較対象の文脈は [[regional-banks/aichi-bank|あいち銀行]] と照らし、より広い制度・規制上の境界は [[banking/INDEX|banking index]] を参照する。
+この項目は [[regional-banks/INDEX|regional-banks INDEX]] の配下に位置づける。同業・比較対象の文脈は [[regional-banks/aichi-bank|あいち銀行]] と照らし、より広い制度・規制上の境界は [[banking/INDEX|banking index]] を参照する。
 
 ## 要約
 

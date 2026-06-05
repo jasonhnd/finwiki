@@ -11,7 +11,7 @@ translated_at: 2026-05-31T07:28:06.167Z
 
 ## Wiki 路由
 
-本条目位于 [[insurance/INDEX|insurance index]]。可与 [[insurance/internet-life-insurance-business-model|互联网寿险商业模式]] 作同业 / 对照阅读，并与 [[JapanFG/INDEX|JapanFG index]] 共同把握寿险渠道组合、集团边界和更广泛的监管边界。
+本条目位于 [[insurance/INDEX|insurance index]]。可与 [[insurance/internet-life-insurance-business-model|互联网寿险商业模式]] 作同业 / 对照阅读，并与 [[insurance/INDEX|insurance INDEX]] 共同把握寿险渠道组合、集团边界和更广泛的监管边界。
 
 ## TL;DR
 

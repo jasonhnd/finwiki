@@ -1,5 +1,5 @@
 ---
-source: japanfg/fukuoka-fg
+source: regional-banks/fukuoka-fg
 source_hash: 39f2e1e2bc6f6700
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T15:29:03.864Z
 
 ## Wiki route
 
-This entry sits in the JapanFG route specified by the source file. Main source-sequence context: [[JapanFG/INDEX|JapanFG index]] [[regional-banks/chiba-bank|Chiba Bank]] [[banking/INDEX|banking index]] 3  2007-04-02 [[fukuoka-bank|Fukuoka Bank]] [[kumamoto-bank|Kumamoto Bank]] 2  2021 05  4  0 2025  2026 年 3 月 2026-05-13 2025  2026 03  2024  2025
+This entry sits in the JapanFG route specified by the source file. Main source-sequence context: [[regional-banks/INDEX|regional-banks INDEX]] [[regional-banks/chiba-bank|Chiba Bank]] [[banking/INDEX|banking index]] 3  2007-04-02 [[fukuoka-bank|Fukuoka Bank]] [[kumamoto-bank|Kumamoto Bank]] 2  2021 05  4  0 2025  2026 年 3 月 2026-05-13 2025  2026 03  2024  2025
 
 ## TL;DR
 

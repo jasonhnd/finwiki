@@ -45,7 +45,7 @@
       "https://www.bny.com/corporate/jp/ja/asset-servicing-japan-disclosure.html"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 日本マスタートラスト信託銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under foreign-financial-institutions INDEX. Read it against 日本マスタートラスト信託銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [
     "BNY メロン日本 (BNY Mellon Japan)",
     "Wiki route",
@@ -61,12 +61,12 @@
   "body_links": {
     "wikilinks_count": 20,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "barclays-japan",
       "bnp-paribas-japan",
       "citigroup-japan",
       "deutsche-japan",
+      "foreign-financial-institutions/INDEX",
       "foreign-financial-institutions/foreign-bank-branches-japan-index",
       "goldman-sachs-japan",
       "hsbc-japan",
@@ -83,12 +83,12 @@
       "trust-banks/trust-companies-japan-index"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/barclays-japan",
       "https://finwiki.zksc.io/bnp-paribas-japan",
       "https://finwiki.zksc.io/citigroup-japan",
       "https://finwiki.zksc.io/deutsche-japan",
+      "https://finwiki.zksc.io/foreign-financial-institutions/INDEX",
       "https://finwiki.zksc.io/foreign-financial-institutions/foreign-bank-branches-japan-index",
       "https://finwiki.zksc.io/goldman-sachs-japan",
       "https://finwiki.zksc.io/hsbc-japan",
@@ -108,9 +108,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4685,
-    "word_like_tokens": 699,
+    "nonspace_chars": 4731,
+    "word_like_tokens": 703,
     "inbound_wikilinks_count": 29,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

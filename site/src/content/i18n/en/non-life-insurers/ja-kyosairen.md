@@ -1,5 +1,5 @@
 ---
-source: japanfg/ja-kyosairen
+source: non-life-insurers/ja-kyosairen
 source_hash: 00a545c6f340d64d
 lang: en
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T15:29:03.969Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **JA Group cooperative-insurance federation**, parallel to [[cooperative-banks/norinchukin|Norinchukin Bank (credit)]] / [[cooperative-banks/ja-zen-noh|JA Zen-Noh (economic federation)]] / [[cooperative-banks/ja-zenchu|JA Zenchu (representative organization)]]. Read with [[insurance/INDEX|insurance domain]] for cooperative-vs-stock insurance form, [[non-life-insurers/kyoritsu-fire-marine|Kyoei Fire and Marine Insurance]] (JA Kyosairen is the largest shareholder) for the non-life insurance supplement, and [[banking/ja-bank-system-japan|JA Bank system]] for the JA Group system boundary.
+This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]] as the **JA Group cooperative-insurance federation**, parallel to [[cooperative-banks/norinchukin|Norinchukin Bank (credit)]] / [[cooperative-banks/ja-zen-noh|JA Zen-Noh (economic federation)]] / [[cooperative-banks/ja-zenchu|JA Zenchu (representative organization)]]. Read with [[insurance/INDEX|insurance domain]] for cooperative-vs-stock insurance form, [[non-life-insurers/kyoritsu-fire-marine|Kyoei Fire and Marine Insurance]] (JA Kyosairen is the largest shareholder) for the non-life insurance supplement, and [[banking/ja-bank-system-japan|JA Bank system]] for the JA Group system boundary.
 
 ## TL;DR
 
@@ -134,7 +134,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **JA Group cooperat
 - [[insurance/mutual-vs-stock-life-insurer]] — Mutual company vs joint stock company (cooperative = No. 3  form)
 - [[insurance/japan-life-insurance-big-four]]
 - [[banking/ja-bank-system-japan]]
-- [[JapanFG/INDEX|JapanFG index]]
+- [[non-life-insurers/INDEX|non-life-insurers INDEX]]
 
 ## Sources
 

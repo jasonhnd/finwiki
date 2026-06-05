@@ -1,5 +1,5 @@
 ---
-source: japanfg/china-construction-bank-japan
+source: foreign-financial-institutions/china-construction-bank-japan
 source_hash: a9167db6b04cfe36
 lang: ja
 status: machine
@@ -27,7 +27,7 @@ translated_at: 2026-06-02T14:01:20.933Z
 
 以下の参照キーは原文の占位符を出現順のまま保持したものである。翻訳時に削除、改変、統合、並べ替えを行わない。
 
-- [[JapanFG/INDEX|JapanFG index]]
+- [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]]
 - [[foreign-financial-institutions/icbc-japan|中国工商銀行 東京支店]]
 - [[banking/INDEX|banking index]]
 - 2003 年

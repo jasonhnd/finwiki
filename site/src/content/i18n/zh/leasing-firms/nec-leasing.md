@@ -1,5 +1,5 @@
 ---
-source: japanfg/nec-leasing
+source: leasing-firms/nec-leasing
 source_hash: 6661db581eac7f04
 lang: zh
 status: machine
@@ -37,7 +37,7 @@ NEC Capital Solutions?NEC ??????????????? NEC ?? captive leasing ???????????????
 
 ## ??????
 
-- [[JapanFG/INDEX|JapanFG index]] [[leasing-firms/ricoh-leasing|リコーリース]] [[banking/INDEX|banking index]] [[leasing-firms/fuyo-lease|芙蓉総合リース]] 1978 年 8793  1 8793  1978-04-01 2006  2 3 [[leasing-firms/orix-corp|オリックス]] [[leasing-firms/tokyo-century|東京センチュリー]] [[leasing-firms/fuyo-lease|芙蓉総合リース]] [[leasing-firms/ricoh-leasing|リコーリース]] [[leasing-firms/ricoh-leasing|リコーリース]] 8793 
+- [[leasing-firms/INDEX|leasing-firms INDEX]] [[leasing-firms/ricoh-leasing|リコーリース]] [[banking/INDEX|banking index]] [[leasing-firms/fuyo-lease|芙蓉総合リース]] 1978 年 8793  1 8793  1978-04-01 2006  2 3 [[leasing-firms/orix-corp|オリックス]] [[leasing-firms/tokyo-century|東京センチュリー]] [[leasing-firms/fuyo-lease|芙蓉総合リース]] [[leasing-firms/ricoh-leasing|リコーリース]] [[leasing-firms/ricoh-leasing|リコーリース]] 8793 
 - 8566  [[finance/japan-acquisition-finance|日本アクイジションファイナンス]] 4 [[leasing-firms/ricoh-leasing|リコーリース]] [[card-issuers/toyota-finance|トヨタファイナンス]] [[leasing-firms/ricoh-leasing|リコーリース]] [[leasing-firms/fuyo-lease|芙蓉総合リース]] [[leasing-firms/mizuho-lease|Mizuho Leasing]] [[leasing-firms/tokyo-century|東京センチュリー]] [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]] [[leasing-firms/orix-corp|オリックス]] [[card-issuers/toyota-finance|トヨタファイナンス]] [[banking/INDEX|banking index]] [[finance/japan-acquisition-finance|日本アクイジションファイナンス]] 8793  2026-05-24
 
 ## Related

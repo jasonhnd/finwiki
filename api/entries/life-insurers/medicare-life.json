@@ -37,7 +37,7 @@
       "https://medicarelife.com/"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 第一フロンティア生命保険 for peer / contrast context and insurance index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under life-insurers INDEX. Read it against 第一フロンティア生命保険 for peer / contrast context and insurance index for the broader system / regulatory boundary.",
   "headings": [
     "メディケア生命保険",
     "Wiki route",
@@ -51,19 +51,19 @@
   "body_links": {
     "wikilinks_count": 7,
     "wikilinks": [
-      "JapanFG/INDEX",
       "hanasaku-life",
       "insurance/INDEX",
       "insurance/life-insurance-channel-mix",
+      "life-insurers/INDEX",
       "life-insurers/dai-ichi-frontier-life",
       "nanairo-life",
       "sumitomo-life"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/hanasaku-life",
       "https://finwiki.zksc.io/insurance/INDEX",
       "https://finwiki.zksc.io/insurance/life-insurance-channel-mix",
+      "https://finwiki.zksc.io/life-insurers/INDEX",
       "https://finwiki.zksc.io/life-insurers/dai-ichi-frontier-life",
       "https://finwiki.zksc.io/nanairo-life",
       "https://finwiki.zksc.io/sumitomo-life"
@@ -72,9 +72,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1884,
-    "word_like_tokens": 283,
+    "nonspace_chars": 1896,
+    "word_like_tokens": 285,
     "inbound_wikilinks_count": 3,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

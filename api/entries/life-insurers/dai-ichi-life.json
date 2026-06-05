@@ -42,7 +42,7 @@
       "https://www.dai-ichi-life-hd.com/newsroom/newsrelease/2025/pdf/index_036.pdf"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 日本生命保険相互会社 (Nippon Life) for peer / contrast context and insurance index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under life-insurers INDEX. Read it against 日本生命保険相互会社 (Nippon Life) for peer / contrast context and insurance index for the broader system / regulatory boundary.",
   "headings": [
     "第一ライフグループ / 旧 第一生命 HD",
     "Wiki route",
@@ -58,10 +58,10 @@
   "body_links": {
     "wikilinks_count": 9,
     "wikilinks": [
-      "JapanFG/INDEX",
       "insurance/INDEX",
       "insurance/economic-value-based-solvency",
       "insurance/life-insurance-channel-mix",
+      "life-insurers/INDEX",
       "life-insurers/nippon-life",
       "mizuho-fg",
       "mufg",
@@ -69,10 +69,10 @@
       "smfg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/insurance/INDEX",
       "https://finwiki.zksc.io/insurance/economic-value-based-solvency",
       "https://finwiki.zksc.io/insurance/life-insurance-channel-mix",
+      "https://finwiki.zksc.io/life-insurers/INDEX",
       "https://finwiki.zksc.io/life-insurers/nippon-life",
       "https://finwiki.zksc.io/mizuho-fg",
       "https://finwiki.zksc.io/mufg",
@@ -83,9 +83,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6142,
-    "word_like_tokens": 1159,
+    "nonspace_chars": 6154,
+    "word_like_tokens": 1161,
     "inbound_wikilinks_count": 42,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

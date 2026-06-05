@@ -1,5 +1,5 @@
 ---
-source: japanfg/nissay-wealth-life
+source: life-insurers/nissay-wealth-life
 source_hash: a5172eee6aad61e1
 lang: en
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-06-01T00:41:50.412Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it with [[insurance/INDEX|insurance index]] for adjacent context and [[financial-licenses/INDEX|JapanFG index]] for the broader system boundary.
+This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it with [[insurance/INDEX|insurance index]] for adjacent context and [[financial-licenses/INDEX|JapanFG index]] for the broader system boundary.
 
 ## TL;DR
 

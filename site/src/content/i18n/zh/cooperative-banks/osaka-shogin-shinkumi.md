@@ -1,5 +1,5 @@
 ---
-source: japanfg/osaka-shogin-shinkumi
+source: cooperative-banks/osaka-shogin-shinkumi
 source_hash: 4f1f5b4153369d95
 lang: zh
 status: machine
@@ -37,10 +37,10 @@ translated_at: 2026-06-01T00:41:50.406Z
 
 ## ??????
 
-- [[JapanFG/INDEX|JapanFG index]] 143 [[cooperative-banks/osaka-shinkin|大阪信用金庫]] [[cooperative-banks/zenshin-kumi|全信組連 / Zenshinkumiren]] [[banking/cooperative-banking-japan|cooperative banking domain]] 2002 年 [[cooperative-banks/zenshin-kumi|全国信用協同組合連合会 (全信組連)]] [[financial-regulators/dic|DIC]] ^[extracted] 1 [[cooperative-banks/zenshin-kumi|全信組連]] [[financial-regulators/dic|預金保険機構]] 143  ^[extracted] [[cooperative-banks/osaka-shinkin|osaka-shinkin]] 6,550 億円 [[cooperative-banks/shinkin-central|信金中央金庫]] [[cooperative-banks/zenshin-kumi|全信組連]]
+- [[cooperative-banks/INDEX|cooperative-banks INDEX]] 143 [[cooperative-banks/osaka-shinkin|大阪信用金庫]] [[cooperative-banks/zenshin-kumi|全信組連 / Zenshinkumiren]] [[banking/cooperative-banking-japan|cooperative banking domain]] 2002 年 [[cooperative-banks/zenshin-kumi|全国信用協同組合連合会 (全信組連)]] [[financial-regulators/dic|DIC]] ^[extracted] 1 [[cooperative-banks/zenshin-kumi|全信組連]] [[financial-regulators/dic|預金保険機構]] 143  ^[extracted] [[cooperative-banks/osaka-shinkin|osaka-shinkin]] 6,550 億円 [[cooperative-banks/shinkin-central|信金中央金庫]] [[cooperative-banks/zenshin-kumi|全信組連]]
 - [[cooperative-banks/zenshin-kumi|全信組連]] ^[extracted] 1950 60  1970 80  1990 年 2002 2003 ^[extracted] 2003 2010 年 2020 年 ^[extracted] 2001 年 5 月 28 日 1989 年 2002 年 2004 年
 - [[cooperative-banks/yokohama-kogin-shinkumi|横浜幸銀信用組合]] [[cooperative-banks/zenshin-kumi|全信組連]] 2002 2003  ^[extracted] 2001 年 4 2001 年 5 月 1 兆円 [[cooperative-banks/yokohama-kogin-shinkumi|横浜幸銀信用組合]] 6,550 億円 2024-03-31 5 [[financial-regulators/dic|預金保険機構]] 1,000 万円 [[cooperative-banks/zenshin-kumi]] [[cooperative-banks/osaka-shinkin]] [[cooperative-banks/kyoto-chuo-shinkin]]
-- [[cooperative-banks/shinkin-central]] [[cooperative-banks/rokin-renraku]] [[cooperative-banks/ja-shinnoren]] [[cooperative-banks/jf-shingyoren]] [[financial-regulators/dic]] [[banking/cooperative-banking-japan]] [[banking/shinkin-bank-registry-japan]] [[JapanFG/INDEX|JapanFG index]] 2001 年 5 月 28 日 2002 年 5 月 27 日 1989  1998  1999  2001  2002 2003  2001 年 5 月 1998 
+- [[cooperative-banks/shinkin-central]] [[cooperative-banks/rokin-renraku]] [[cooperative-banks/ja-shinnoren]] [[cooperative-banks/jf-shingyoren]] [[financial-regulators/dic]] [[banking/cooperative-banking-japan]] [[banking/shinkin-bank-registry-japan]] [[cooperative-banks/INDEX|cooperative-banks INDEX]] 2001 年 5 月 28 日 2002 年 5 月 27 日 1989  1998  1999  2001  2002 2003  2001 年 5 月 1998 
 - 1999  2001 
 
 ## Related

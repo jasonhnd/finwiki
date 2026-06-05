@@ -25,7 +25,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[leasing-firms/smfl|SMFL]] (the same-parent 外向けリース・asset finance JV with [[megabanks/smfg|SMFG]]) and [[trading-company-finance/mitsubishi-corp-finance|三菱商事フィナンシャルサービス]] (the closest peer 商社系 group-treasury arm). For the broader peer set, see [[trading-company-finance/mitsui-bussan-financial-services|三井物産FS]], [[trading-company-finance/itochu-finance|伊藤忠ファイナンス]], [[trading-company-finance/marubeni-financial-services|丸紅フィナンス]]. See [[banking/INDEX|banking index]] for the broader regulatory boundary.
+This entry sits under [[trading-company-finance/INDEX|trading-company-finance INDEX]]. Read it against [[leasing-firms/smfl|SMFL]] (the same-parent 外向けリース・asset finance JV with [[megabanks/smfg|SMFG]]) and [[trading-company-finance/mitsubishi-corp-finance|三菱商事フィナンシャルサービス]] (the closest peer 商社系 group-treasury arm). For the broader peer set, see [[trading-company-finance/mitsui-bussan-financial-services|三井物産FS]], [[trading-company-finance/itochu-finance|伊藤忠ファイナンス]], [[trading-company-finance/marubeni-financial-services|丸紅フィナンス]]. See [[banking/INDEX|banking index]] for the broader regulatory boundary.
 
 ## 1. 会社概要
 

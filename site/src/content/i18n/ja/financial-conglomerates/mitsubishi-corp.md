@@ -1,5 +1,5 @@
 ---
-source: japanfg/mitsubishi-corp
+source: financial-conglomerates/mitsubishi-corp
 source_hash: 7e3eb18701b272a1
 lang: ja
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-02T14:54:39.080Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の下にある **総合商社の親持株会社的な項目** として位置づける。それ自体は金融グループではないが、JapanFG で扱う複数の金融子会社の資本関係上の親会社である。最も近い同業比較・対照文脈として [[financial-conglomerates/mitsui-co|三井物産]] と [[financial-conglomerates/itochu-corp|伊藤忠商事]] を併読し、5 大商社の比較軸に接続する。この項目に JapanFG 上のアンカーを与える金融サービス隣接領域については、[[trading-company-finance/mitsubishi-corp-finance|三菱商事フィナンシャルサービス]]（国内向けグループ財務）と [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]]（外向けリース、一部保有の上場会社）を参照する。制度上の枠組みは、商社をメガバンク / リースと結ぶ持ち合いの視点として [[finance/INDEX|finance index]] と [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]] を参照する。
+この項目は [[financial-conglomerates/INDEX|financial-conglomerates INDEX]] の下にある **総合商社の親持株会社的な項目** として位置づける。それ自体は金融グループではないが、JapanFG で扱う複数の金融子会社の資本関係上の親会社である。最も近い同業比較・対照文脈として [[financial-conglomerates/mitsui-co|三井物産]] と [[financial-conglomerates/itochu-corp|伊藤忠商事]] を併読し、5 大商社の比較軸に接続する。この項目に JapanFG 上のアンカーを与える金融サービス隣接領域については、[[trading-company-finance/mitsubishi-corp-finance|三菱商事フィナンシャルサービス]]（国内向けグループ財務）と [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]]（外向けリース、一部保有の上場会社）を参照する。制度上の枠組みは、商社をメガバンク / リースと結ぶ持ち合いの視点として [[finance/INDEX|finance index]] と [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]] を参照する。
 
 ## 1. 会社概要
 
@@ -111,7 +111,7 @@ translated_at: 2026-06-02T14:54:39.080Z
 
 ## 関連項目
 
-- [[JapanFG/INDEX|JapanFG index]]
+- [[financial-conglomerates/INDEX|financial-conglomerates INDEX]]
 - [[financial-conglomerates/mitsui-co|三井物産]] · [[financial-conglomerates/itochu-corp|伊藤忠商事]] · [[financial-conglomerates/sumitomo-corp|住友商事]] · [[financial-conglomerates/marubeni-corp|丸紅]] · [[financial-conglomerates/toyota-tsusho-corp|豊田通商]] · [[financial-conglomerates/sojitz-corp|双日]] (5 大商社 + 中堅商社)
 - [[trading-company-finance/mitsubishi-corp-finance|三菱商事フィナンシャルサービス]] (内向け group treasury)
 - [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]] (外向けリース、MUFG とのジョイント支配)

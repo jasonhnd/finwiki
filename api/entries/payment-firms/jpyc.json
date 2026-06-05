@@ -36,7 +36,7 @@
       "https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against Wise Payments Japan for peer / contrast context and payments index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under payment-firms INDEX. Read it against Wise Payments Japan for peer / contrast context and payments index for the broader system / regulatory boundary.",
   "headings": [
     "JPYC株式会社",
     "Wiki route",
@@ -50,22 +50,22 @@
   "body_links": {
     "wikilinks_count": 9,
     "wikilinks": [
-      "JapanFG/INDEX",
       "exchanges/jp-exchange-jpyc",
       "exchanges/jp-exchange-sbi-vc-trade",
       "fintech/japan-stablecoin-regulatory-landscape",
       "fintech/jp-trust-type-sc-architecture",
+      "payment-firms/INDEX",
       "payment-firms/progmat",
       "payment-firms/wise-payments-japan",
       "payments/INDEX",
       "payments/funds-transfer-vs-prepaid-boundary"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/exchanges/jp-exchange-jpyc",
       "https://finwiki.zksc.io/exchanges/jp-exchange-sbi-vc-trade",
       "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
       "https://finwiki.zksc.io/fintech/jp-trust-type-sc-architecture",
+      "https://finwiki.zksc.io/payment-firms/INDEX",
       "https://finwiki.zksc.io/payment-firms/progmat",
       "https://finwiki.zksc.io/payment-firms/wise-payments-japan",
       "https://finwiki.zksc.io/payments/INDEX",
@@ -75,9 +75,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2007,
-    "word_like_tokens": 324,
+    "nonspace_chars": 2019,
+    "word_like_tokens": 326,
     "inbound_wikilinks_count": 26,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

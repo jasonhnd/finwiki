@@ -1,5 +1,5 @@
 ---
-source: japanfg/paidy
+source: payment-firms/paidy
 source_hash: fc53edb7a8218f16
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T15:14:17.077Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に置かれる。比較対象として [[payment-firms/rakuten-fg|楽天グループ金融事業 (Rakuten FG)]]、制度全体や規制上の境界を把握する入口として [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] とあわせて読む。
+この項目は [[payment-firms/INDEX|payment-firms INDEX]] の配下に置かれる。比較対象として [[payment-firms/rakuten-fg|楽天グループ金融事業 (Rakuten FG)]]、制度全体や規制上の境界を把握する入口として [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] とあわせて読む。
 
 ## 要約
 

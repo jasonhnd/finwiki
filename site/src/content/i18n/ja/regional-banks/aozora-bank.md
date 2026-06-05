@@ -1,5 +1,5 @@
 ---
-source: japanfg/aozora-bank
+source: regional-banks/aozora-bank
 source_hash: 9086c349b6dc429b
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:01:20.938Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] 配下に置く。[[regional-banks/sbi-shinsei-bank|SBI 新生銀行]] はピア比較・対比の文脈、[[banking/INDEX|banking index]] はより広い制度・規制境界として併読する。
+この項目は [[regional-banks/INDEX|regional-banks INDEX]] 配下に置く。[[regional-banks/sbi-shinsei-bank|SBI 新生銀行]] はピア比較・対比の文脈、[[banking/INDEX|banking index]] はより広い制度・規制境界として併読する。
 
 ## 要約
 

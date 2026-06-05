@@ -1,5 +1,5 @@
 ---
-source: japanfg/japan-financial-conglomerate-structure-overview
+source: megabanks/japan-financial-conglomerate-structure-overview
 source_hash: 0c9309d16b515125
 lang: zh
 status: machine
@@ -26,7 +26,7 @@ translated_at: 2026-05-31T23:59:49.415Z
 
 ## Wiki 路径
 
-本条目作为横向概览位于 [[JapanFG/INDEX|JapanFG namespace index]] 之下。可与 [[banking/japan-banking-license-tier-comparison-matrix]] 对读以理解牌照层级覆盖，与 [[financial-licenses/INDEX|JapanFG legal-license INDEX]] 对读以理解 license-stack catalog，与 [[finance/japan-listed-financial-groups-investable-universe]] 对读以理解上市 FG 可投资范围，并与 [[banking/japan-regional-bank-m-a-consolidation-family-tree-matrix]] 对读以理解地方银行整合族谱。
+本条目作为横向概览位于 [[megabanks/INDEX|megabanks INDEX]] 之下。可与 [[banking/japan-banking-license-tier-comparison-matrix]] 对读以理解牌照层级覆盖，与 [[financial-licenses/INDEX|JapanFG legal-license INDEX]] 对读以理解 license-stack catalog，与 [[finance/japan-listed-financial-groups-investable-universe]] 对读以理解上市 FG 可投资范围，并与 [[banking/japan-regional-bank-m-a-consolidation-family-tree-matrix]] 对读以理解地方银行整合族谱。
 
 ### 1. Megabank FG（G-SIB 层级）
 
@@ -120,7 +120,7 @@ FSA 通过以下机制监管金融集团：
 
 ## Related
 
-- [[JapanFG/INDEX]]
+- [[megabanks/INDEX]]
 - [[financial-licenses/INDEX]]
 - [[banking/INDEX]]
 - [[banking/japan-banking-license-tier-comparison-matrix]]

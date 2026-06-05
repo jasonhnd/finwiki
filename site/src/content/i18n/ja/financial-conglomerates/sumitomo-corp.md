@@ -1,5 +1,5 @@
 ---
-source: japanfg/sumitomo-corp
+source: financial-conglomerates/sumitomo-corp
 source_hash: fb44c7abc3fbc582
 lang: ja
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-02T15:14:17.113Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に置き、総合商社の親会社・持株会社的な中核として扱う。比較・対照の文脈では、旧財閥商社の両雄である [[financial-conglomerates/mitsubishi-corp|三菱商事]]、財閥商社の三巨頭である [[financial-conglomerates/mitsui-co|三井物産]] とあわせて読む。この項目を JapanFG に接続する金融サービス隣接領域としては、[[trading-company-finance/sumitomo-corp-financial-management|住友商事フィナンシャルマネジメント]]（内向け CMS）、特に **[[leasing-firms/smfl|SMFL (三井住友ファイナンス&リース)]]**（住友商事 50% + [[megabanks/smfg|SMFG]] 50%、3 大リースの一角）と **[[leasing-firms/sumitomo-mitsui-auto-service|住友三井オートサービス]]**（オートリース国内首位級）を参照する。制度上の枠組みは [[finance/INDEX|finance index]] と [[finance/japan-listed-financial-groups-investable-universe|Japan 上場金融 G 投資ユニバース]]。
+この項目は [[financial-conglomerates/INDEX|financial-conglomerates INDEX]] の配下に置き、総合商社の親会社・持株会社的な中核として扱う。比較・対照の文脈では、旧財閥商社の両雄である [[financial-conglomerates/mitsubishi-corp|三菱商事]]、財閥商社の三巨頭である [[financial-conglomerates/mitsui-co|三井物産]] とあわせて読む。この項目を JapanFG に接続する金融サービス隣接領域としては、[[trading-company-finance/sumitomo-corp-financial-management|住友商事フィナンシャルマネジメント]]（内向け CMS）、特に **[[leasing-firms/smfl|SMFL (三井住友ファイナンス&リース)]]**（住友商事 50% + [[megabanks/smfg|SMFG]] 50%、3 大リースの一角）と **[[leasing-firms/sumitomo-mitsui-auto-service|住友三井オートサービス]]**（オートリース国内首位級）を参照する。制度上の枠組みは [[finance/INDEX|finance index]] と [[finance/japan-listed-financial-groups-investable-universe|Japan 上場金融 G 投資ユニバース]]。
 
 ## 1. 会社概要
 
@@ -101,7 +101,7 @@ translated_at: 2026-06-02T15:14:17.113Z
 
 ## 関連項目
 
-- [[JapanFG/INDEX|JapanFG index]]
+- [[financial-conglomerates/INDEX|financial-conglomerates INDEX]]
 - [[financial-conglomerates/mitsubishi-corp|三菱商事]] · [[financial-conglomerates/mitsui-co|三井物産]] · [[financial-conglomerates/itochu-corp|伊藤忠商事]] · [[financial-conglomerates/marubeni-corp|丸紅]] · [[financial-conglomerates/toyota-tsusho-corp|豊田通商]] · [[financial-conglomerates/sojitz-corp|双日]] (比較対象 商社)
 - [[trading-company-finance/sumitomo-corp-financial-management|住友商事フィナンシャルマネジメント]] (内向け group treasury)
 - [[leasing-firms/smfl|SMFL]] (50/50 SMFG との JV、3 大リース)

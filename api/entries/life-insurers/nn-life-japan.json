@@ -37,7 +37,7 @@
       "https://www.nnlife.co.jp/"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against クレディ・アグリコル生命保険 for peer / contrast context and insurance index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under life-insurers INDEX. Read it against クレディ・アグリコル生命保険 for peer / contrast context and insurance index for the broader system / regulatory boundary.",
   "headings": [
     "NN生命保険",
     "Wiki route",
@@ -51,22 +51,22 @@
   "body_links": {
     "wikilinks_count": 9,
     "wikilinks": [
-      "JapanFG/INDEX",
       "aflac-japan",
       "axa-japan",
       "insurance/INDEX",
       "insurance/life-insurance-channel-mix",
+      "life-insurers/INDEX",
       "life-insurers/credit-agricole-life",
       "manulife-japan",
       "metlife-japan",
       "prudential-japan"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/aflac-japan",
       "https://finwiki.zksc.io/axa-japan",
       "https://finwiki.zksc.io/insurance/INDEX",
       "https://finwiki.zksc.io/insurance/life-insurance-channel-mix",
+      "https://finwiki.zksc.io/life-insurers/INDEX",
       "https://finwiki.zksc.io/life-insurers/credit-agricole-life",
       "https://finwiki.zksc.io/manulife-japan",
       "https://finwiki.zksc.io/metlife-japan",
@@ -76,9 +76,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1995,
-    "word_like_tokens": 304,
+    "nonspace_chars": 2007,
+    "word_like_tokens": 306,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

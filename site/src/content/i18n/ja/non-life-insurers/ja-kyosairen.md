@@ -1,5 +1,5 @@
 ---
-source: japanfg/ja-kyosairen
+source: non-life-insurers/ja-kyosairen
 source_hash: 00a545c6f340d64d
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:25:12.402Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に置く **JA グループの協同組合保険連合会**であり、[[cooperative-banks/norinchukin|農林中央金庫 (信用)]] / [[cooperative-banks/ja-zen-noh|JA 全農 (経済)]] / [[cooperative-banks/ja-zenchu|JA 全中 (代表)]] と並ぶ。協同組合型と株式会社型保険の違いは [[insurance/INDEX|insurance domain]]、損保補完は [[non-life-insurers/kyoritsu-fire-marine|共栄火災海上保険]]（JA 共済連が筆頭株主）、JA グループ全体のシステム境界は [[banking/ja-bank-system-japan|JA Bank system]] とあわせて読む。
+この項目は [[non-life-insurers/INDEX|non-life-insurers INDEX]] の配下に置く **JA グループの協同組合保険連合会**であり、[[cooperative-banks/norinchukin|農林中央金庫 (信用)]] / [[cooperative-banks/ja-zen-noh|JA 全農 (経済)]] / [[cooperative-banks/ja-zenchu|JA 全中 (代表)]] と並ぶ。協同組合型と株式会社型保険の違いは [[insurance/INDEX|insurance domain]]、損保補完は [[non-life-insurers/kyoritsu-fire-marine|共栄火災海上保険]]（JA 共済連が筆頭株主）、JA グループ全体のシステム境界は [[banking/ja-bank-system-japan|JA Bank system]] とあわせて読む。
 
 ## 要約
 
@@ -134,7 +134,7 @@ translated_at: 2026-06-02T14:25:12.402Z
 - [[insurance/mutual-vs-stock-life-insurer]] — 相互会社 vs 株式会社 (協同組合 = 第 3 形態)
 - [[insurance/japan-life-insurance-big-four]]
 - [[banking/ja-bank-system-japan]]
-- [[JapanFG/INDEX|JapanFG index]]
+- [[non-life-insurers/INDEX|non-life-insurers INDEX]]
 
 ## 出典
 

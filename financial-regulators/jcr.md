@@ -20,7 +20,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[financial-regulators/rating-and-investment|格付投資情報センター (R&I)]] for peer / contrast context and [[financial-regulators/fsa|金融庁]] for the broader regulatory boundary (信用格付業者登録).
+This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]]. Read it against [[financial-regulators/rating-and-investment|格付投資情報センター (R&I)]] for peer / contrast context and [[financial-regulators/fsa|金融庁]] for the broader regulatory boundary (信用格付業者登録).
 
 ## TL;DR
 
@@ -103,7 +103,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[financi
 - [[financial-regulators/rating-and-investment|格付投資情報センター (R&I)]] · [[financial-regulators/fsa|金融庁]]
 - [[megabanks/mufg|MUFG]] · [[megabanks/smfg|SMFG]] · [[megabanks/mizuho-fg|みずほ FG]]
 - [[financial-regulators/japan-exchange-group|日本取引所グループ]]
-- [[JapanFG/INDEX|JapanFG index]]
+- [[financial-regulators/INDEX|financial-regulators INDEX]]
 
 ## Sources
 

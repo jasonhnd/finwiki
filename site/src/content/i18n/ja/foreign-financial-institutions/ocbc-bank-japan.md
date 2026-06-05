@@ -1,5 +1,5 @@
 ---
-source: japanfg/ocbc-bank-japan
+source: foreign-financial-institutions/ocbc-bank-japan
 source_hash: c29c723abfe9e0e1
 lang: ja
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-06-02T15:14:17.091Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に置く。隣接する文脈は [[banking/INDEX|banking index]] とあわせて読み、より広い制度上の境界は [[financial-licenses/INDEX|JapanFG index]] と照合する。
+この項目は [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]] の配下に置く。隣接する文脈は [[banking/INDEX|banking index]] とあわせて読み、より広い制度上の境界は [[financial-licenses/INDEX|JapanFG index]] と照合する。
 
 ## 要約
 

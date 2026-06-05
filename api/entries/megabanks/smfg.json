@@ -45,7 +45,7 @@
       "Federal Reserve Written Agreement 解除 2025-09-04 (SMBC NY 支店 AML): https://www.federalreserve.gov/newsevents/pressreleases/enforcement20250909a.htm"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it with banking index for adjacent context and securities index for the broader system boundary.",
+  "summary": "This entry sits under megabanks INDEX. Read it with banking index for adjacent context and securities index for the broader system boundary.",
   "headings": [
     "三井住友 FG (SMFG / SMBC グループ)",
     "Wiki route",
@@ -61,12 +61,12 @@
   "body_links": {
     "wikilinks_count": 15,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "banking/mercari-bank-license-stack",
       "banking/minna-bank-baas-model",
       "card-issuers/smbc-card",
       "consumer-finance/smbc-consumer-finance",
+      "megabanks/INDEX",
       "megabanks/sbi-hd",
       "mizuho-fg",
       "monex-group",
@@ -78,12 +78,12 @@
       "ssnb"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/mercari-bank-license-stack",
       "https://finwiki.zksc.io/banking/minna-bank-baas-model",
       "https://finwiki.zksc.io/card-issuers/smbc-card",
       "https://finwiki.zksc.io/consumer-finance/smbc-consumer-finance",
+      "https://finwiki.zksc.io/megabanks/INDEX",
       "https://finwiki.zksc.io/megabanks/sbi-hd",
       "https://finwiki.zksc.io/mizuho-fg",
       "https://finwiki.zksc.io/monex-group",
@@ -98,9 +98,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 13898,
+    "nonspace_chars": 13902,
     "word_like_tokens": 2848,
     "inbound_wikilinks_count": 119,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

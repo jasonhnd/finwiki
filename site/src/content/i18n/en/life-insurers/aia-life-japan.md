@@ -1,5 +1,5 @@
 ---
-source: japanfg/aia-life-japan
+source: life-insurers/aia-life-japan
 source_hash: 916e241aa853814e
 lang: en
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T07:28:06.152Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[life-insurers/metlife-japan|MetLife Japan]] and [[life-insurers/manulife-japan|Manulife Life Insurance Japan]] for foreign-life-insurer peer context, and [[insurance/INDEX|insurance index]] for the broader Japan life insurance market system / regulatory boundary.
+This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it against [[life-insurers/metlife-japan|MetLife Japan]] and [[life-insurers/manulife-japan|Manulife Life Insurance Japan]] for foreign-life-insurer peer context, and [[insurance/INDEX|insurance index]] for the broader Japan life insurance market system / regulatory boundary.
 
 ## TL;DR
 

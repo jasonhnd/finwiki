@@ -1,5 +1,5 @@
 ---
-source: japanfg/shizugin-card
+source: card-issuers/shizugin-card
 source_hash: 4be9aec204738d2d
 lang: ja
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-02T15:14:17.111Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に置き、[[shizuoka-fg|しずおか FG]] グループ（[[shizuoka-bank|静岡銀行]] 母体）の FG 子会社クレジットカード事業会社アンカーとして扱う。親銀行である [[shizuoka-bank|静岡銀行]]、および兄弟会社の静銀ティーエム証券 / しずぎんリース / 静銀キャピタル / 静銀信用保証とあわせて読む。比較対象は、めぶきカード、ちばぎんカード、[[ucs-card|UCS カード]]（旧 名古屋鉄道系）、横浜銀行系のはまぎんファイナンスなどの地銀系クレジットカード会社、および [[smbc-card|三井住友カード]] / [[credit-saison|クレディセゾン]] / [[rakuten-card|楽天カード]] / [[seven-card-service|セブンカードサービス]] / [[paypay-card|PayPay カード]] / [[epos-card|エポスカード]] / [[life-card|ライフカード]] / [[aplus|アプラス]] / [[pocket-card|ポケットカード]] などの大手カード発行会社。より広い制度上の位置づけは [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]]、[[banking/regional-bank-api-digital-partnership-route|regional-bank API/digital partnership route]]、[[banking/INDEX|banking index]]、投資対象ユニバースの文脈は [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]] を参照する。
+この項目は [[card-issuers/INDEX|card-issuers INDEX]] の配下に置き、[[shizuoka-fg|しずおか FG]] グループ（[[shizuoka-bank|静岡銀行]] 母体）の FG 子会社クレジットカード事業会社アンカーとして扱う。親銀行である [[shizuoka-bank|静岡銀行]]、および兄弟会社の静銀ティーエム証券 / しずぎんリース / 静銀キャピタル / 静銀信用保証とあわせて読む。比較対象は、めぶきカード、ちばぎんカード、[[ucs-card|UCS カード]]（旧 名古屋鉄道系）、横浜銀行系のはまぎんファイナンスなどの地銀系クレジットカード会社、および [[smbc-card|三井住友カード]] / [[credit-saison|クレディセゾン]] / [[rakuten-card|楽天カード]] / [[seven-card-service|セブンカードサービス]] / [[paypay-card|PayPay カード]] / [[epos-card|エポスカード]] / [[life-card|ライフカード]] / [[aplus|アプラス]] / [[pocket-card|ポケットカード]] などの大手カード発行会社。より広い制度上の位置づけは [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]]、[[banking/regional-bank-api-digital-partnership-route|regional-bank API/digital partnership route]]、[[banking/INDEX|banking index]]、投資対象ユニバースの文脈は [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]] を参照する。
 
 ## 要約
 
@@ -113,7 +113,7 @@ translated_at: 2026-06-02T15:14:17.111Z
 - [[bnpl-landscape]] · [[atone]] · [[acom]] · [[aiful]]
 - [[banking/regional-bank-consolidation-pattern]] · [[banking/regional-bank-api-digital-partnership-route]] · [[banking/INDEX]]
 - [[finance/japan-listed-financial-groups-investable-universe]] · [[finance/INDEX]]
-- [[JapanFG/INDEX|JapanFG index]]
+- [[card-issuers/INDEX|card-issuers INDEX]]
 
 ## 出典
 

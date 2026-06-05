@@ -63,7 +63,7 @@ translated_at: 2026-06-02T14:01:20.906Z
 ## 関連ウィキ
 
 - [[non-profit/japan-general-foundation-establishment-requirements|japan-general-foundation-establishment-requirements]]（財団法人として助成金を申請する前提）
-- [[JapanFG/INDEX|JapanFG INDEX]]（金融機関を研究対象とする場合の参照）
+- [[non-profit/INDEX|non-profit INDEX]]（金融機関を研究対象とする場合の参照）
 
 ## 出典
 

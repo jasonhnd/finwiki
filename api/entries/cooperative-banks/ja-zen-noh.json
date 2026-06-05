@@ -45,7 +45,7 @@
       "農業協同組合法 (昭和 22 年法律第 132 号)"
     ]
   },
-  "summary": "This entry sits under JapanFG index as the JA Group economic-business federation, parallel to 農林中央金庫 (信用) / JA 共済連 (共済) / JA 全中 (代表). Read with JA Bank system for the credit-side adjacency and cooperative banking domain for the system boundary.",
+  "summary": "This entry sits under cooperative-banks INDEX as the JA Group economic-business federation, parallel to 農林中央金庫 (信用) / JA 共済連 (共済) / JA 全中 (代表). Read with JA Bank system for the credit-side adjacency and cooperative banking domain for the system boundary.",
   "headings": [
     "JA 全農 (全国農業協同組合連合会 / National Federation of Agricultural Cooperative Associations)",
     "Wiki route",
@@ -61,9 +61,9 @@
   "body_links": {
     "wikilinks_count": 9,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/cooperative-banking-japan",
       "banking/ja-bank-system-japan",
+      "cooperative-banks/INDEX",
       "cooperative-banks/ja-mitsui-leasing",
       "cooperative-banks/ja-shinnoren",
       "cooperative-banks/ja-zenchu",
@@ -72,9 +72,9 @@
       "non-life-insurers/ja-kyosairen"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/cooperative-banking-japan",
       "https://finwiki.zksc.io/banking/ja-bank-system-japan",
+      "https://finwiki.zksc.io/cooperative-banks/INDEX",
       "https://finwiki.zksc.io/cooperative-banks/ja-mitsui-leasing",
       "https://finwiki.zksc.io/cooperative-banks/ja-shinnoren",
       "https://finwiki.zksc.io/cooperative-banks/ja-zenchu",
@@ -86,9 +86,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4553,
-    "word_like_tokens": 731,
+    "nonspace_chars": 4593,
+    "word_like_tokens": 735,
     "inbound_wikilinks_count": 10,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

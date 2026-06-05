@@ -57,7 +57,7 @@ That means MUMSS should not be treated as simply "MUFG's retail brokerage" or si
 
 ## Related
 
-- [[JapanFG/INDEX|JapanFG INDEX]]
+- [[securities-firms/INDEX|securities-firms INDEX]]
 - [[securities/INDEX|securities INDEX]]
 - [[megabanks/mufg]]
 - [[securities-firms/mizuho-securities]]

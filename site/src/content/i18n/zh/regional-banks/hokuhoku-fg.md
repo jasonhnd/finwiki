@@ -1,5 +1,5 @@
 ---
-source: japanfg/hokuhoku-fg
+source: regional-banks/hokuhoku-fg
 source_hash: 92233eef46869281
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T15:29:03.944Z
 
 ## 维基路线
 
-该条目位于[[JapanFG/INDEX|JapanFG index]]下。针对同行/对比上下文阅读 [[regional-banks/fukuoka-fg|ふくおか FG (FFG)]]，针对更广泛的系统/监管边界阅读 [[banking/INDEX|banking index]]。
+该条目位于[[regional-banks/INDEX|regional-banks INDEX]]下。针对同行/对比上下文阅读 [[regional-banks/fukuoka-fg|ふくおか FG (FFG)]]，针对更广泛的系统/监管边界阅读 [[banking/INDEX|banking index]]。
 
 ## 长话短说
 

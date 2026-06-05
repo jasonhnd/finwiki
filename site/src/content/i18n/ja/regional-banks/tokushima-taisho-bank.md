@@ -1,5 +1,5 @@
 ---
-source: japanfg/tokushima-taisho-bank
+source: regional-banks/tokushima-taisho-bank
 source_hash: 0fa2d1d988fc5733
 lang: ja
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-06-02T16:33:58.500Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の下に位置づける。比較・対照の文脈では [[regional-banks/awa-bank|阿波銀行]] とあわせて読み、より広い制度・規制上の境界については [[banking/INDEX|banking index]] を参照する。
+この項目は [[regional-banks/INDEX|regional-banks INDEX]] の下に位置づける。比較・対照の文脈では [[regional-banks/awa-bank|阿波銀行]] とあわせて読み、より広い制度・規制上の境界については [[banking/INDEX|banking index]] を参照する。
 
 ## 要約
 

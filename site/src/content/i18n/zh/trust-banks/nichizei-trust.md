@@ -1,5 +1,5 @@
 ---
-source: japanfg/nichizei-trust
+source: trust-banks/nichizei-trust
 source_hash: 93b21d02931eb6d1
 lang: zh
 status: machine
@@ -9,7 +9,7 @@ translated_at: 2026-06-01T00:41:50.430Z
 ---
 # Nichizei Trust / 日税信託
 
-Wiki route: [[JapanFG/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/nichizei-trust]]
+Wiki route: [[trust-banks/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/nichizei-trust]]
 
 ## Overview
 

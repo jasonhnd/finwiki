@@ -12,7 +12,7 @@ translated_at: 2026-05-30T15:31:43.927Z
 
 ## Wiki 路由
 
-本词条归属于 [[manufacturer-finance/INDEX|manufacturing index]]。请对照 [[manufacturer-finance/hitachi-industrial-finance-platform|Hitachi 産業金融]]、[[manufacturer-finance/panasonic-captive-finance|Panasonic 顧客金融]]、[[manufacturer-finance/sony-group-finance-arm|Sony FG]]、[[manufacturer-finance/toyota-financial-services|Toyota Financial Services]] 阅读以作同业产业综合企业金融部门的比较。与 [[financial-regulators/jbic|JBIC]]・[[policy-finance/nexi|NEXI]] 配对了解政策金融对应方，[[trade/jetro-vs-nexi-vs-jbic-comparison|JETRO vs NEXI vs JBIC]] 了解出口支持栈概览，[[trading-company-finance/mitsubishi-corp-finance|三菱商事 金融機能]] / [[JapanFG/INDEX|JapanFG index]] 了解更广的三菱系列（keiretsu）背景。
+本词条归属于 [[manufacturer-finance/INDEX|manufacturing index]]。请对照 [[manufacturer-finance/hitachi-industrial-finance-platform|Hitachi 産業金融]]、[[manufacturer-finance/panasonic-captive-finance|Panasonic 顧客金融]]、[[manufacturer-finance/sony-group-finance-arm|Sony FG]]、[[manufacturer-finance/toyota-financial-services|Toyota Financial Services]] 阅读以作同业产业综合企业金融部门的比较。与 [[financial-regulators/jbic|JBIC]]・[[policy-finance/nexi|NEXI]] 配对了解政策金融对应方，[[trade/jetro-vs-nexi-vs-jbic-comparison|JETRO vs NEXI vs JBIC]] 了解出口支持栈概览，[[trading-company-finance/mitsubishi-corp-finance|三菱商事 金融機能]] / [[manufacturer-finance/INDEX|manufacturer-finance INDEX]] 了解更广的三菱系列（keiretsu）背景。
 
 ## TL;DR
 
@@ -114,7 +114,7 @@ MHI 并非「持有银行 / 保险型 captive」，而是作为「**按出口案
 - [[megabanks/mufg|MUFG]] · [[megabanks/smfg|SMFG]] · [[megabanks/mizuho-fg|みずほ FG]] · [[trading-company-finance/mitsubishi-corp-finance|三菱商事 金融機能]] · [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]]
 - [[manufacturer-finance/hitachi-industrial-finance-platform|Hitachi 産業金融]] · [[manufacturer-finance/panasonic-captive-finance|Panasonic 顧客金融]] · [[manufacturer-finance/sony-group-finance-arm|Sony FG]] · [[manufacturer-finance/toyota-financial-services|Toyota Financial Services]]
 - [[manufacturer-finance/toyota-motor|Toyota Motor]] · [[manufacturer-finance/seiko-epson|Seiko Epson]]
-- [[manufacturer-finance/INDEX|manufacturing INDEX]] · [[JapanFG/INDEX|JapanFG INDEX]] · [[INDEX|FinWiki index]]
+- [[manufacturer-finance/INDEX|manufacturing INDEX]] · [[manufacturer-finance/INDEX|manufacturer-finance INDEX]] · [[INDEX|FinWiki index]]
 
 ## 来源
 

@@ -1,5 +1,5 @@
 ---
-source: japanfg/paypay
+source: payment-firms/paypay
 source_hash: c363be403622a86f
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T00:41:50.397Z
 
 ## Wiki 路由
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。请结合 [[payment-firms/paypal-pte-ltd-japan|PayPal Pte. Ltd. Japan service boundary]] 阅读，以取得同业 / 对比语境；并结合 [[payments/INDEX|payments index]] 阅读，以理解更广泛的体系 / 监管边界。
+本条目位于 [[payment-firms/INDEX|payment-firms INDEX]] 之下。请结合 [[payment-firms/paypal-pte-ltd-japan|PayPal Pte. Ltd. Japan service boundary]] 阅读，以取得同业 / 对比语境；并结合 [[payments/INDEX|payments index]] 阅读，以理解更广泛的体系 / 监管边界。
 
 ## TL;DR
 

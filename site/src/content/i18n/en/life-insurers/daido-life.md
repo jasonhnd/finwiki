@@ -1,5 +1,5 @@
 ---
-source: japanfg/daido-life
+source: life-insurers/daido-life
 source_hash: 1d6de5cd3860ad14
 lang: en
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T15:29:03.927Z
 
 ## Wiki Route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it with [[life-insurers/td-financial-life|T&D Financial Life Insurance]] for peer comparison and with the [[insurance/INDEX|insurance index]] for the broader insurance and regulatory context.
+This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it with [[life-insurers/td-financial-life|T&D Financial Life Insurance]] for peer comparison and with the [[insurance/INDEX|insurance index]] for the broader insurance and regulatory context.
 
 ## TL;DR
 

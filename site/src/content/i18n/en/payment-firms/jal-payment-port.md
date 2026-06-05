@@ -1,5 +1,5 @@
 ---
-source: japanfg/jal-payment-port
+source: payment-firms/jal-payment-port
 source_hash: feea80e248144867
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:59:49.382Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it with [[payments/funds-transfer-service-providers-japan-index|funds-transfer registry]] for regulatory context, [[payments/funds-transfer-vs-prepaid-boundary|funds-transfer vs prepaid]] for wallet classification, and [[megabanks/sbi-hd|SBI]] / [[regional-banks/ssnb|Sumishin SBI Net Bank]] for group-adjacent banking infrastructure.
+This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it with [[payments/funds-transfer-service-providers-japan-index|funds-transfer registry]] for regulatory context, [[payments/funds-transfer-vs-prepaid-boundary|funds-transfer vs prepaid]] for wallet classification, and [[megabanks/sbi-hd|SBI]] / [[regional-banks/ssnb|Sumishin SBI Net Bank]] for group-adjacent banking infrastructure.
 
 ## Overview
 

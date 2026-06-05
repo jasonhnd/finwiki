@@ -38,7 +38,7 @@
       "https://www.sompo-direct.co.jp/company/profile.html"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 損害保険ジャパン for peer / contrast context and insurance index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under non-life-insurers INDEX. Read it against 損害保険ジャパン for peer / contrast context and insurance index for the broader system / regulatory boundary.",
   "headings": [
     "SOMPOダイレクト損害保険",
     "Wiki route",
@@ -52,9 +52,9 @@
   "body_links": {
     "wikilinks_count": 8,
     "wikilinks": [
-      "JapanFG/INDEX",
       "insurance/INDEX",
       "insurance/saison-automobile-fire",
+      "non-life-insurers/INDEX",
       "non-life-insurers/sompo-japan-insurance",
       "sompo",
       "sompo-japan-insurance",
@@ -62,9 +62,9 @@
       "tokio-marine-direct"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/insurance/INDEX",
       "https://finwiki.zksc.io/insurance/saison-automobile-fire",
+      "https://finwiki.zksc.io/non-life-insurers/INDEX",
       "https://finwiki.zksc.io/non-life-insurers/sompo-japan-insurance",
       "https://finwiki.zksc.io/sompo",
       "https://finwiki.zksc.io/sompo-japan-insurance",
@@ -75,9 +75,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1961,
-    "word_like_tokens": 298,
+    "nonspace_chars": 1981,
+    "word_like_tokens": 302,
     "inbound_wikilinks_count": 8,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

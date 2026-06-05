@@ -17,7 +17,7 @@ sources:
 
 # Kyodo Trust / 共同信託
 
-Wiki route: [[JapanFG/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/kyodo-trust]]
+Wiki route: [[trust-banks/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/kyodo-trust]]
 
 ## Overview
 

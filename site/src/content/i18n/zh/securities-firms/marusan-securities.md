@@ -1,5 +1,5 @@
 ---
-source: japanfg/marusan-securities
+source: securities-firms/marusan-securities
 source_hash: 6051246d36944a74
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:59:49.329Z
 
 ## Wiki 路径
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可与 [[securities-firms/aizawa-sg|アイザワ証券グループ]] 对读以理解同业和对比关系，与 [[securities/financial-instruments-business-operators-japan-index|FSA 金融商品取引業者 index]] 对读以理解监管牌照层，并与 [[financial-licenses/securities-license-stack|securities license stack]] 对读以理解金商法牌照边界。
+本条目位于 [[securities-firms/INDEX|securities-firms INDEX]] 之下。可与 [[securities-firms/aizawa-sg|アイザワ証券グループ]] 对读以理解同业和对比关系，与 [[securities/financial-instruments-business-operators-japan-index|FSA 金融商品取引業者 index]] 对读以理解监管牌照层，并与 [[financial-licenses/securities-license-stack|securities license stack]] 对读以理解金商法牌照边界。
 
 ## TL;DR
 

@@ -1,5 +1,5 @@
 ---
-source: japanfg/dai-shi-hokuetsu-fg
+source: regional-banks/dai-shi-hokuetsu-fg
 source_hash: 20f00da1740754fb
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:25:12.425Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に位置づける。比較対象・対照軸として [[regional-banks/fukuoka-fg|ふくおか FG (FFG)]] を、より広い制度・規制上の境界として [[banking/INDEX|banking index]] を併読する。
+この項目は [[regional-banks/INDEX|regional-banks INDEX]] の配下に位置づける。比較対象・対照軸として [[regional-banks/fukuoka-fg|ふくおか FG (FFG)]] を、より広い制度・規制上の境界として [[banking/INDEX|banking index]] を併読する。
 
 ## 要約
 

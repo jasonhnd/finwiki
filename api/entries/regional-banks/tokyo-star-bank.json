@@ -35,7 +35,7 @@
       "https://www.tokyostarbank.co.jp/profile/summary/"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 神奈川銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under regional-banks INDEX. Read it against 神奈川銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [
     "東京スター銀行",
     "Wiki route",
@@ -49,21 +49,21 @@
   "body_links": {
     "wikilinks_count": 8,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "banking/foreign-bank-japan-retreat",
       "higashi-nippon-bank",
       "kiraboshi-bank",
+      "regional-banks/INDEX",
       "regional-banks/kanagawa-bank",
       "regional-banks/kiraboshi-bank",
       "regional-banks/sbj-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/foreign-bank-japan-retreat",
       "https://finwiki.zksc.io/higashi-nippon-bank",
       "https://finwiki.zksc.io/kiraboshi-bank",
+      "https://finwiki.zksc.io/regional-banks/INDEX",
       "https://finwiki.zksc.io/regional-banks/kanagawa-bank",
       "https://finwiki.zksc.io/regional-banks/kiraboshi-bank",
       "https://finwiki.zksc.io/regional-banks/sbj-bank"
@@ -72,9 +72,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1968,
-    "word_like_tokens": 316,
+    "nonspace_chars": 1982,
+    "word_like_tokens": 318,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

@@ -1,5 +1,5 @@
 ---
-source: japanfg/custody-bank
+source: trust-banks/custody-bank
 source_hash: f8ee68ff4bce2ea4
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:25:12.381Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に位置づける。比較対象・対照文脈は [[trust-banks/master-trust-bank|日本マスタートラスト信託銀行]]、より広い制度・規制上の境界は [[banking/INDEX|banking index]] とあわせて読む。
+この項目は [[trust-banks/INDEX|trust-banks INDEX]] の配下に位置づける。比較対象・対照文脈は [[trust-banks/master-trust-bank|日本マスタートラスト信託銀行]]、より広い制度・規制上の境界は [[banking/INDEX|banking index]] とあわせて読む。
 
 ## 要約
 

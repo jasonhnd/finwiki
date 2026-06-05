@@ -37,7 +37,7 @@
       "日本経済新聞: みずほ、オリコ株の一部をアイフル親会社に売却 3社で業務提携 (2026-05-15) https://www.nikkei.com/article/DGXZQOUB150RE0V10C26A5000000/"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 株式会社ジャックス (Jaccs) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under card-issuers INDEX. Read it against 株式会社ジャックス (Jaccs) for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [
     "株式会社オリエントコーポレーション (Orico)",
     "Wiki route",
@@ -53,10 +53,10 @@
   "body_links": {
     "wikilinks_count": 14,
     "wikilinks": [
-      "JapanFG/INDEX",
       "aeon-bank",
       "au-fh",
       "banking/INDEX",
+      "card-issuers/INDEX",
       "card-issuers/jaccs",
       "jaccs",
       "jcb",
@@ -69,10 +69,10 @@
       "smfg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/aeon-bank",
       "https://finwiki.zksc.io/au-fh",
       "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/card-issuers/INDEX",
       "https://finwiki.zksc.io/card-issuers/jaccs",
       "https://finwiki.zksc.io/jaccs",
       "https://finwiki.zksc.io/jcb",
@@ -88,9 +88,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5658,
-    "word_like_tokens": 876,
+    "nonspace_chars": 5668,
+    "word_like_tokens": 878,
     "inbound_wikilinks_count": 30,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

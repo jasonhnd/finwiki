@@ -22,7 +22,7 @@ sources:
 
 ## Wiki route
 
-Starts Trust is a standalone trust-company route under [[JapanFG/INDEX|JapanFG]] and is promoted from [[trust-banks/trust-companies-japan-index|the Japan trust companies registry index]]. Read it with [[banking/japan-trust-bank-custody-map|Japan trust-bank custody map]], [[finance/japan-acquisition-finance|Japan acquisition finance]], and [[trust-banks/escrow-agent-japan-trust|Escrow Agent Japan Trust]].
+Starts Trust is a standalone trust-company route under [[trust-banks/INDEX|trust-banks INDEX]] and is promoted from [[trust-banks/trust-companies-japan-index|the Japan trust companies registry index]]. Read it with [[banking/japan-trust-bank-custody-map|Japan trust-bank custody map]], [[finance/japan-acquisition-finance|Japan acquisition finance]], and [[trust-banks/escrow-agent-japan-trust|Escrow Agent Japan Trust]].
 
 Use this page for real-estate trust, land trust, asset succession, and regional trust-agent network questions around the Starts group.
 
@@ -69,7 +69,7 @@ Do not infer deal volumes, market share, or client economics beyond public relea
 
 ## Related
 
-- [[JapanFG/INDEX]]
+- [[trust-banks/INDEX]]
 - [[trust-banks/trust-companies-japan-index]]
 - [[banking/japan-trust-bank-custody-map]]
 - [[finance/japan-acquisition-finance]]

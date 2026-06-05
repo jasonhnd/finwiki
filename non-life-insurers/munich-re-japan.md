@@ -19,7 +19,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[non-life-insurers/toa-reinsurance|トーア再保険]] for peer / contrast context as a Japanese domestic reinsurer, and [[insurance/natcat-reinsurance-japan|nat-cat reinsurance Japan]] for the broader system / regulatory boundary. The Japan branch is one channel through which global reinsurance capacity reaches Japanese primary insurers, and it sits alongside [[non-life-insurers/japan-earthquake-reinsurance|日本地震再保険]] in the wiki's reinsurance map.
+This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read it against [[non-life-insurers/toa-reinsurance|トーア再保険]] for peer / contrast context as a Japanese domestic reinsurer, and [[insurance/natcat-reinsurance-japan|nat-cat reinsurance Japan]] for the broader system / regulatory boundary. The Japan branch is one channel through which global reinsurance capacity reaches Japanese primary insurers, and it sits alongside [[non-life-insurers/japan-earthquake-reinsurance|日本地震再保険]] in the wiki's reinsurance map.
 
 ## TL;DR
 
@@ -52,7 +52,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[non-lif
 
 ## Related
 
-- [[JapanFG/INDEX]]
+- [[non-life-insurers/INDEX]]
 - [[toa-reinsurance]]
 - [[japan-earthquake-reinsurance]]
 - [[swiss-re-japan]]

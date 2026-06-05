@@ -1,5 +1,5 @@
 ---
-source: japanfg/mufg-mums
+source: securities-firms/mufg-mums
 source_hash: d106a9851ba46310
 lang: zh
 status: machine
@@ -42,7 +42,7 @@ translated_at: 2026-05-31T23:59:49.392Z
 
 ## 相关
 
-- [[JapanFG/INDEX|JapanFG INDEX]]
+- [[securities-firms/INDEX|securities-firms INDEX]]
 - [[securities/INDEX|securities INDEX]]
 - [[megabanks/mufg]]
 - [[securities-firms/mizuho-securities]]

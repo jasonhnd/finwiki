@@ -42,7 +42,7 @@
       "https://disclosure2.edinet-fsa.go.jp/"
     ]
   },
-  "summary": "This entry sits under manufacturing index. Read it against Toyota Motor and Mitsubishi Heavy export finance for peer industrial-finance contrast, 旧 日立キャピタル for the legacy captive-leasing entity history, 三菱HCキャピタル for the post-2021 surviving merged entity, and JapanFG index for the broader system / r",
+  "summary": "This entry sits under manufacturing index. Read it against Toyota Motor and Mitsubishi Heavy export finance for peer industrial-finance contrast, 旧 日立キャピタル for the legacy captive-leasing entity history, 三菱HCキャピタル for the post-2021 surviving merged entity, and manufacturer-finance INDEX for the broad",
   "headings": [
     "Hitachi Industrial Finance Platform (日立グループ産業金融プラットフォーム)",
     "Wiki route",
@@ -56,10 +56,9 @@
     "Related"
   ],
   "body_links": {
-    "wikilinks_count": 17,
+    "wikilinks_count": 16,
     "wikilinks": [
       "INDEX",
-      "JapanFG/INDEX",
       "financial-regulators/jbic",
       "leasing-firms/hitachi-capital",
       "leasing-firms/mitsubishi-hc-capital",
@@ -78,7 +77,6 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/financial-regulators/jbic",
       "https://finwiki.zksc.io/leasing-firms/hitachi-capital",
       "https://finwiki.zksc.io/leasing-firms/mitsubishi-hc-capital",
@@ -99,9 +97,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5996,
-    "word_like_tokens": 939,
+    "nonspace_chars": 6048,
+    "word_like_tokens": 943,
     "inbound_wikilinks_count": 10,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

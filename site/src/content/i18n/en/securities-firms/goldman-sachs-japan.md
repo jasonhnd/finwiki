@@ -1,5 +1,5 @@
 ---
-source: japanfg/goldman-sachs-japan
+source: securities-firms/goldman-sachs-japan
 source_hash: a34002feefccb2ea
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T15:29:03.921Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[securities-firms/morgan-stanley-japan|Morgan Stanley Japan]] for the closest foreign-investment-bank comparison and [[securities/INDEX|securities index]] for the broader market-infrastructure and regulatory boundary.
+This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it against [[securities-firms/morgan-stanley-japan|Morgan Stanley Japan]] for the closest foreign-investment-bank comparison and [[securities/INDEX|securities index]] for the broader market-infrastructure and regulatory boundary.
 
 ## TL;DR
 

@@ -1,5 +1,5 @@
 ---
-source: japanfg/socgen-japan
+source: foreign-financial-institutions/socgen-japan
 source_hash: caf05fd8b84d7888
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-01T02:31:57.151Z
 
 ## Wiki route
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可与 [[foreign-financial-institutions/bank-of-america-japan|バンク・オブ・アメリカ日本 (Bank of America Japan)]] 对照阅读，以理解同业 / 对比背景；也可与 [[banking/INDEX|banking index]] 一起阅读，以理解更广义的系统和监管边界。
+本条目位于 [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]] 之下。可与 [[foreign-financial-institutions/bank-of-america-japan|バンク・オブ・アメリカ日本 (Bank of America Japan)]] 对照阅读，以理解同业 / 对比背景；也可与 [[banking/INDEX|banking index]] 一起阅读，以理解更广义的系统和监管边界。
 
 ## TL;DR
 

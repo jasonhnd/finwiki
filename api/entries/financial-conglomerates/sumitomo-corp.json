@@ -45,7 +45,7 @@
       "JPX 銘柄情報 8053 — https://www2.jpx.co.jp/"
     ]
   },
-  "summary": "This entry sits under JapanFG index as a sōgō shōsha parent holding-company. Read it against 三菱商事 (旧 財閥商社の両雄) and 三井物産 (財閥商社の三巨頭) for peer / contrast context. For the financial-services adjacency that gives this entry its JapanFG anchor — see 住友商事フィナンシャルマネジメント (内向け CMS) and especially SMFL (三井住友ファイナ",
+  "summary": "This entry sits under financial-conglomerates INDEX as a sōgō shōsha parent holding-company. Read it against 三菱商事 (旧 財閥商社の両雄) and 三井物産 (財閥商社の三巨頭) for peer / contrast context. For the financial-services adjacency that gives this entry its JapanFG anchor — see 住友商事フィナンシャルマネジメント (内向け CMS) and especiall",
   "headings": [
     "住友商事 (Sumitomo Corporation)",
     "Wiki route",
@@ -61,9 +61,9 @@
   "body_links": {
     "wikilinks_count": 18,
     "wikilinks": [
-      "JapanFG/INDEX",
       "finance/INDEX",
       "finance/japan-listed-financial-groups-investable-universe",
+      "financial-conglomerates/INDEX",
       "financial-conglomerates/itochu-corp",
       "financial-conglomerates/marubeni-corp",
       "financial-conglomerates/mitsubishi-corp",
@@ -81,9 +81,9 @@
       "trust-banks/sumitomo-mitsui-trust"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/finance/INDEX",
       "https://finwiki.zksc.io/finance/japan-listed-financial-groups-investable-universe",
+      "https://finwiki.zksc.io/financial-conglomerates/INDEX",
       "https://finwiki.zksc.io/financial-conglomerates/itochu-corp",
       "https://finwiki.zksc.io/financial-conglomerates/marubeni-corp",
       "https://finwiki.zksc.io/financial-conglomerates/mitsubishi-corp",
@@ -104,9 +104,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5918,
-    "word_like_tokens": 926,
+    "nonspace_chars": 5982,
+    "word_like_tokens": 930,
     "inbound_wikilinks_count": 11,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

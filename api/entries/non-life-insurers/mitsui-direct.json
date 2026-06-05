@@ -37,7 +37,7 @@
       "https://www.mitsui-direct.co.jp/"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against あいおいニッセイ同和損害保険 for peer / contrast context and insurance index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under non-life-insurers INDEX. Read it against あいおいニッセイ同和損害保険 for peer / contrast context and insurance index for the broader system / regulatory boundary.",
   "headings": [
     "三井ダイレクト損害保険",
     "Wiki route",
@@ -51,20 +51,20 @@
   "body_links": {
     "wikilinks_count": 7,
     "wikilinks": [
-      "JapanFG/INDEX",
       "aioi-nissay-dowa-insurance",
       "insurance/INDEX",
       "mitsui-sumitomo-insurance",
       "msad",
+      "non-life-insurers/INDEX",
       "non-life-insurers/aioi-nissay-dowa-insurance",
       "sony-insurance"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/aioi-nissay-dowa-insurance",
       "https://finwiki.zksc.io/insurance/INDEX",
       "https://finwiki.zksc.io/mitsui-sumitomo-insurance",
       "https://finwiki.zksc.io/msad",
+      "https://finwiki.zksc.io/non-life-insurers/INDEX",
       "https://finwiki.zksc.io/non-life-insurers/aioi-nissay-dowa-insurance",
       "https://finwiki.zksc.io/sony-insurance"
     ],
@@ -72,9 +72,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1918,
-    "word_like_tokens": 297,
+    "nonspace_chars": 1938,
+    "word_like_tokens": 301,
     "inbound_wikilinks_count": 2,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

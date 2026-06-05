@@ -1,5 +1,5 @@
 ---
-source: japanfg/japan-pi-club
+source: financial-regulators/japan-pi-club
 source_hash: d53bfb7d4f8421f2
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:25:12.416Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] 配下に位置する。再保険の比較対象（どちらも FSA の損害保険直接元受登録の外側にある）は [[non-life-insurers/toa-reinsurance|トーア再保険]]、最も近い海事産業の隣接項目は [[financial-regulators/nippon-kaiji-kyokai|日本海事協会 (ClassNK)]] とあわせて読む。制度全体の枠組みは [[insurance/INDEX|insurance index]]、グローバル P&I の文脈は出典にリンクした International Group of P&I Clubs 参照を起点にする。
+この項目は [[financial-regulators/INDEX|financial-regulators INDEX]] 配下に位置する。再保険の比較対象（どちらも FSA の損害保険直接元受登録の外側にある）は [[non-life-insurers/toa-reinsurance|トーア再保険]]、最も近い海事産業の隣接項目は [[financial-regulators/nippon-kaiji-kyokai|日本海事協会 (ClassNK)]] とあわせて読む。制度全体の枠組みは [[insurance/INDEX|insurance index]]、グローバル P&I の文脈は出典にリンクした International Group of P&I Clubs 参照を起点にする。
 
 ## 要約
 
@@ -43,7 +43,7 @@ translated_at: 2026-06-02T14:25:12.416Z
 
 ## 関連項目
 
-- [[JapanFG/INDEX]]
+- [[financial-regulators/INDEX]]
 - [[nippon-kaiji-kyokai]]
 - [[toa-reinsurance]]
 - [[tokio-marine-nichido-fire]]

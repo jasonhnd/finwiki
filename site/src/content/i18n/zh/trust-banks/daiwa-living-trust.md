@@ -1,5 +1,5 @@
 ---
-source: japanfg/daiwa-living-trust
+source: trust-banks/daiwa-living-trust
 source_hash: cb335cfc450de5b7
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T15:29:03.873Z
 
 ## 维基路线
 
-Daiwa Living Trust 是一家独立的信托公司，隶属于[[JapanFG/INDEX|JapanFG]]并晋升自[[trust-banks/trust-companies-japan-index|the Japan trust companies registry index]]阅读它与[[banking/japan-trust-bank-custody-map|Japan trust-bank custody map]],[[finance/japan-acquisition-finance|Japan acquisition finance]]， 和[[trust-banks/starts-trust|Starts Trust]]。
+Daiwa Living Trust 是一家独立的信托公司，隶属于[[trust-banks/INDEX|trust-banks INDEX]]并晋升自[[trust-banks/trust-companies-japan-index|the Japan trust companies registry index]]阅读它与[[banking/japan-trust-bank-custody-map|Japan trust-bank custody map]],[[finance/japan-acquisition-finance|Japan acquisition finance]]， 和[[trust-banks/starts-trust|Starts Trust]]。
 
 使用此页面解答租赁住房信托、房地产管理信托、家庭资产继承和住房所有者信托问题。
 
@@ -58,7 +58,7 @@ Daiwa Living Trust 属于 FinWiki，因为信托公司的覆盖范围应包括�
 
 ## 有关的
 
-- [[JapanFG/INDEX]]
+- [[trust-banks/INDEX]]
 - [[trust-banks/trust-companies-japan-index]]
 - [[banking/japan-trust-bank-custody-map]]
 - [[policy-finance/japan-housing-finance-agency]]

@@ -1,5 +1,5 @@
 ---
-source: japanfg/bittrade
+source: payment-firms/bittrade
 source_hash: 9fecb8e890e512c2
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:01:20.910Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下にある。ピア比較・対照の文脈では [[securities-firms/monex-group|マネックスグループ (Monex Group)]] とあわせて読み、より広い制度・規制境界については [[banking/INDEX|banking index]] とあわせて読む。
+この項目は [[payment-firms/INDEX|payment-firms INDEX]] の配下にある。ピア比較・対照の文脈では [[securities-firms/monex-group|マネックスグループ (Monex Group)]] とあわせて読み、より広い制度・規制境界については [[banking/INDEX|banking index]] とあわせて読む。
 
 ## 要約
 

@@ -1,5 +1,5 @@
 ---
-source: japanfg/kpmg-azsa
+source: financial-regulators/kpmg-azsa
 source_hash: 91900b3d7f816160
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:59:49.375Z
 
 ## Wiki route
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可与 [[financial-regulators/ey-shinnihon|EY 新日本]]、[[financial-regulators/deloitte-touche-tohmatsu|トーマツ]] 一起阅读，以理解 Big 4  审计同业语境；也可与 [[financial-licenses/INDEX|金融ライセンス INDEX]] 一起阅读，以理解公认会计士法 / 审计质量管理的监管边界。CPAAOB 监督语境由 [[financial-regulators/fsa-supervision-bureau|金融庁 監督局]] 和 [[financial-regulators/fsa-strategy-bureau|金融庁 総合政策局]] 管辖。
+本条目位于 [[financial-regulators/INDEX|financial-regulators INDEX]] 之下。可与 [[financial-regulators/ey-shinnihon|EY 新日本]]、[[financial-regulators/deloitte-touche-tohmatsu|トーマツ]] 一起阅读，以理解 Big 4  审计同业语境；也可与 [[financial-licenses/INDEX|金融ライセンス INDEX]] 一起阅读，以理解公认会计士法 / 审计质量管理的监管边界。CPAAOB 监督语境由 [[financial-regulators/fsa-supervision-bureau|金融庁 監督局]] 和 [[financial-regulators/fsa-strategy-bureau|金融庁 総合政策局]] 管辖。
 
 ## 1. 法人概要
 

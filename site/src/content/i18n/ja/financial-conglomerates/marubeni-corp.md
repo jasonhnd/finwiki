@@ -1,5 +1,5 @@
 ---
-source: japanfg/marubeni-corp
+source: financial-conglomerates/marubeni-corp
 source_hash: cf412a7714e24c99
 lang: ja
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-02T14:54:39.047Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に置き、**総合商社の親会社・持株会社的エントリ** として扱う。比較対象は [[financial-conglomerates/itochu-corp|伊藤忠商事]]（戦前の同根である旧丸紅伊藤忠商事、戦後 1949  分割）および [[financial-conglomerates/sumitomo-corp|住友商事]]（5  大商社中堅同士）とあわせて読む。JapanFG 上のアンカーになる金融サービス隣接領域は、[[trading-company-finance/marubeni-financial-services|丸紅フィナンス]]（内向け CMS）と **[[leasing-firms/mizuho-lease|みずほリース]]**（旧興銀リース、2024 年に丸紅が戦略的株主入り）を参照する。制度上の枠組みは [[finance/INDEX|finance index]] と [[finance/japan-listed-financial-groups-investable-universe|Japan 上場金融 G 投資ユニバース]]。
+この項目は [[financial-conglomerates/INDEX|financial-conglomerates INDEX]] の配下に置き、**総合商社の親会社・持株会社的エントリ** として扱う。比較対象は [[financial-conglomerates/itochu-corp|伊藤忠商事]]（戦前の同根である旧丸紅伊藤忠商事、戦後 1949  分割）および [[financial-conglomerates/sumitomo-corp|住友商事]]（5  大商社中堅同士）とあわせて読む。JapanFG 上のアンカーになる金融サービス隣接領域は、[[trading-company-finance/marubeni-financial-services|丸紅フィナンス]]（内向け CMS）と **[[leasing-firms/mizuho-lease|みずほリース]]**（旧興銀リース、2024 年に丸紅が戦略的株主入り）を参照する。制度上の枠組みは [[finance/INDEX|finance index]] と [[finance/japan-listed-financial-groups-investable-universe|Japan 上場金融 G 投資ユニバース]]。
 
 ## 1. 会社概要
 
@@ -106,7 +106,7 @@ translated_at: 2026-06-02T14:54:39.047Z
 
 ## 関連項目
 
-- [[JapanFG/INDEX|JapanFG index]]
+- [[financial-conglomerates/INDEX|financial-conglomerates INDEX]]
 - [[financial-conglomerates/mitsubishi-corp|三菱商事]] · [[financial-conglomerates/mitsui-co|三井物産]] · [[financial-conglomerates/itochu-corp|伊藤忠商事]] · [[financial-conglomerates/sumitomo-corp|住友商事]] · [[financial-conglomerates/toyota-tsusho-corp|豊田通商]] · [[financial-conglomerates/sojitz-corp|双日]] (ピア商社)
 - [[trading-company-finance/marubeni-financial-services|丸紅フィナンス]] (内向け グループ財務)
 - [[leasing-firms/mizuho-lease|みずほリース]] (2024 戦略的持分 約 20% 級)

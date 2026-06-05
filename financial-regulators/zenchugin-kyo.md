@@ -33,7 +33,7 @@ Zenchūgin-kyō (第一地銀協 in industry shorthand) is the industry body for
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it with [[financial-regulators/dai2-chigin-kyo|Second Association of Regional Banks]] for the second-tier (former mutual-bank) lineage, and with [[financial-regulators/zenginkyo|Japanese Bankers Association]] for cross-industry coordination. Statutory backdrop sits at [[financial-licenses/INDEX]] and [[financial-licenses/bank-license-and-baas-boundary]]; failure-resolution backstop is [[financial-regulators/yokin-hoken-kiko|Deposit Insurance Corporation of Japan]]; the wider operator universe is in [[banking/INDEX]].
+This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]]. Read it with [[financial-regulators/dai2-chigin-kyo|Second Association of Regional Banks]] for the second-tier (former mutual-bank) lineage, and with [[financial-regulators/zenginkyo|Japanese Bankers Association]] for cross-industry coordination. Statutory backdrop sits at [[financial-licenses/INDEX]] and [[financial-licenses/bank-license-and-baas-boundary]]; failure-resolution backstop is [[financial-regulators/yokin-hoken-kiko|Deposit Insurance Corporation of Japan]]; the wider operator universe is in [[banking/INDEX]].
 
 ## Legal route / statutory position (法令の根拠)
 
@@ -68,7 +68,7 @@ Regional-bank entries in this vault often refer to "first-tier vs second-tier re
 
 ## Related
 
-- [[JapanFG/INDEX|JapanFG index]]
+- [[financial-regulators/INDEX|financial-regulators INDEX]]
 - [[financial-regulators/zenginkyo|Japanese Bankers Association]]
 - [[financial-regulators/dai2-chigin-kyo|Second Association of Regional Banks]]
 - [[financial-regulators/zenshin-kyo|National Association of Shinkin Banks]]

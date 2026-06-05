@@ -23,7 +23,7 @@ sources:
 
 ## Wiki route
 
-LGT Wealth Management Trust is a standalone trust-company route under [[JapanFG/INDEX|JapanFG]] and is promoted from [[trust-banks/trust-companies-japan-index|the Japan trust companies registry index]]. Read it with [[foreign-financial-institutions/ubs-japan|UBS Japan]], [[trust-banks/smbc-trust-bank|SMBC Trust Bank]], [[trust-banks/mitsubishi-ufj-trust-bank|Mitsubishi UFJ Trust Bank]], and [[banking/japan-trust-bank-custody-map|Japan trust-bank custody map]].
+LGT Wealth Management Trust is a standalone trust-company route under [[trust-banks/INDEX|trust-banks INDEX]] and is promoted from [[trust-banks/trust-companies-japan-index|the Japan trust companies registry index]]. Read it with [[foreign-financial-institutions/ubs-japan|UBS Japan]], [[trust-banks/smbc-trust-bank|SMBC Trust Bank]], [[trust-banks/mitsubishi-ufj-trust-bank|Mitsubishi UFJ Trust Bank]], and [[banking/japan-trust-bank-custody-map|Japan trust-bank custody map]].
 
 Use this page for Japan private-banking, wealth-management trust, investment advisory, and foreign-affiliated high-net-worth service questions.
 
@@ -70,7 +70,7 @@ Do not infer deposit products, bank-balance-sheet lending, or bank-branch activi
 
 ## Related
 
-- [[JapanFG/INDEX]]
+- [[trust-banks/INDEX]]
 - [[trust-banks/trust-companies-japan-index]]
 - [[foreign-financial-institutions/ubs-japan]]
 - [[trust-banks/smbc-trust-bank]]

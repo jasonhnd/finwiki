@@ -1,5 +1,5 @@
 ---
-source: japanfg/aizawa-securities
+source: securities-firms/aizawa-securities
 source_hash: b3331733f41ec478
 lang: zh
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-05-31T11:13:44.890Z
 
 ## 维基路线
 
-该条目位于 [[JapanFG/INDEX|JapanFG index]]。阅读它反对 [[securities-firms/aizawa-sg|アイザワ証券グループ]] 对于父持有上下文， [[securities-firms/iwai-cosmo-securities|岩井コスモ証券]] / [[securities-firms/tokai-tokyo-securities|東海東京証券]] / [[securities-firms/okasan-sg|岡三証券グループ]] 对于同行中层独立证券，以及 [[securities/INDEX|securities index]] 更广泛的市场结构边界。
+该条目位于 [[securities-firms/INDEX|securities-firms INDEX]]。阅读它反对 [[securities-firms/aizawa-sg|アイザワ証券グループ]] 对于父持有上下文， [[securities-firms/iwai-cosmo-securities|岩井コスモ証券]] / [[securities-firms/tokai-tokyo-securities|東海東京証券]] / [[securities-firms/okasan-sg|岡三証券グループ]] 对于同行中层独立证券，以及 [[securities/INDEX|securities index]] 更广泛的市场结构边界。
 
 ##TL;博士
 
@@ -112,7 +112,7 @@ translated_at: 2026-05-31T11:13:44.890Z
 - [[securities-firms/tokai-tokyo-securities|東海東京証券]] — Tokai 基金会独立中型证券同行
 - [[securities-firms/marusan-securities|丸三証券]] — 关东独立中型证券同行
 - [[securities-firms/okasan-sg|岡三証券グループ]] — 名古屋独立中型证券同行
-- [[JapanFG/INDEX|JapanFG index]]
+- [[securities-firms/INDEX|securities-firms INDEX]]
 - [[securities/INDEX|Securities domain index]]
 
 ## 来源

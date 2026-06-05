@@ -1,5 +1,5 @@
 ---
-source: japanfg/infcurion
+source: payment-firms/infcurion
 source_hash: 749142c8c73a8e0c
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:25:12.436Z
 
 ## ウィキ上の位置づけ
 
-この項目は、消費者向けウォレットの一段下にある **ホワイトラベル型 fintech** ベンダーとして [[JapanFG/INDEX|JapanFG index]] の下に置く。BNPL 隣接の決済文脈は [[payment-firms/bnpl-landscape|Japan BNPL landscape]]、ホワイトラベル・加盟店側 fintech の比較対象は [[payment-firms/dg-financial-technology|DG Financial Technology]] と [[payment-firms/famima-digital-one|FamiMa Digital One]]、発行会社・加盟店契約会社のライセンス境界がどこに落ちるかは [[payments/japan-bnpl-credit-purchase-boundary|BNPL and credit-purchase boundary]] とあわせて読む。[[payments/credit-purchase-card-operators-japan-index|METI credit-purchase registry]] と [[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]] は登録と経済性のアンカーである。
+この項目は、消費者向けウォレットの一段下にある **ホワイトラベル型 fintech** ベンダーとして [[payment-firms/INDEX|payment-firms INDEX]] の下に置く。BNPL 隣接の決済文脈は [[payment-firms/bnpl-landscape|Japan BNPL landscape]]、ホワイトラベル・加盟店側 fintech の比較対象は [[payment-firms/dg-financial-technology|DG Financial Technology]] と [[payment-firms/famima-digital-one|FamiMa Digital One]]、発行会社・加盟店契約会社のライセンス境界がどこに落ちるかは [[payments/japan-bnpl-credit-purchase-boundary|BNPL and credit-purchase boundary]] とあわせて読む。[[payments/credit-purchase-card-operators-japan-index|METI credit-purchase registry]] と [[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]] は登録と経済性のアンカーである。
 
 ## 要約
 

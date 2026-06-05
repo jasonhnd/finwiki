@@ -1,5 +1,5 @@
 ---
-source: japanfg/tokyo-century
+source: leasing-firms/tokyo-century
 source_hash: 1b4230cb7884d3d3
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.122Z
 
 ## 维基路线
 
-该条目位于 [[JapanFG/INDEX|JapanFG index]] 下。针对同行/对比上下文阅读 [[leasing-firms/orix-corp|オリックス株式会社 (ORIX Corporation)]]，针对更广泛的系统/监管边界阅读 [[banking/INDEX|banking index]]。
+该条目位于 [[leasing-firms/INDEX|leasing-firms INDEX]] 下。针对同行/对比上下文阅读 [[leasing-firms/orix-corp|オリックス株式会社 (ORIX Corporation)]]，针对更广泛的系统/监管边界阅读 [[banking/INDEX|banking index]]。
 
 ## 长篇大论；博士
 

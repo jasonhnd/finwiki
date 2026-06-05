@@ -17,7 +17,7 @@ sources:
 
 # UK Trust / UK信託
 
-Wiki route: [[JapanFG/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/uk-trust]]
+Wiki route: [[trust-banks/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/uk-trust]]
 
 ## Overview
 

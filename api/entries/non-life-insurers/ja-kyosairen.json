@@ -44,7 +44,7 @@
       "https://www.kyoeikasai.co.jp/about/know/pdf/ja.pdf"
     ]
   },
-  "summary": "This entry sits under JapanFG index as the JA Group cooperative-insurance federation, parallel to 農林中央金庫 (信用) / JA 全農 (経済) / JA 全中 (代表). Read with insurance domain for cooperative-vs-stock insurance form, 共栄火災海上保険 (JA 共済連が筆頭株主) for the損保補完, and JA Bank system for the JA Group system boundary.",
+  "summary": "This entry sits under non-life-insurers INDEX as the JA Group cooperative-insurance federation, parallel to 農林中央金庫 (信用) / JA 全農 (経済) / JA 全中 (代表). Read with insurance domain for cooperative-vs-stock insurance form, 共栄火災海上保険 (JA 共済連が筆頭株主) for the損保補完, and JA Bank system for the JA Group system bounda",
   "headings": [
     "JA 共済連 (全国共済農業協同組合連合会 / National Mutual Insurance Federation of Agricultural Cooperatives)",
     "Wiki route",
@@ -60,7 +60,6 @@
   "body_links": {
     "wikilinks_count": 19,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/ja-bank-system-japan",
       "cooperative-banks/ja-shinnoren",
       "cooperative-banks/ja-zen-noh",
@@ -74,6 +73,7 @@
       "life-insurers/meiji-yasuda",
       "life-insurers/nippon-life",
       "life-insurers/sumitomo-life",
+      "non-life-insurers/INDEX",
       "non-life-insurers/kyoritsu-fire-marine",
       "non-life-insurers/msad",
       "non-life-insurers/sompo",
@@ -81,7 +81,6 @@
       "non-life-insurers/zenrosai"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/ja-bank-system-japan",
       "https://finwiki.zksc.io/cooperative-banks/ja-shinnoren",
       "https://finwiki.zksc.io/cooperative-banks/ja-zen-noh",
@@ -95,6 +94,7 @@
       "https://finwiki.zksc.io/life-insurers/meiji-yasuda",
       "https://finwiki.zksc.io/life-insurers/nippon-life",
       "https://finwiki.zksc.io/life-insurers/sumitomo-life",
+      "https://finwiki.zksc.io/non-life-insurers/INDEX",
       "https://finwiki.zksc.io/non-life-insurers/kyoritsu-fire-marine",
       "https://finwiki.zksc.io/non-life-insurers/msad",
       "https://finwiki.zksc.io/non-life-insurers/sompo",
@@ -105,9 +105,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5658,
-    "word_like_tokens": 906,
+    "nonspace_chars": 5698,
+    "word_like_tokens": 914,
     "inbound_wikilinks_count": 13,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

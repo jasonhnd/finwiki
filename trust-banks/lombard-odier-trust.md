@@ -17,7 +17,7 @@ sources:
 
 # Lombard Odier Trust Japan / ロンバー・オディエ信託
 
-Wiki route: [[JapanFG/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/lombard-odier-trust]]
+Wiki route: [[trust-banks/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/lombard-odier-trust]]
 
 ## Overview
 

@@ -1,5 +1,5 @@
 ---
-source: japanfg/bank-of-communications-japan
+source: foreign-financial-institutions/bank-of-communications-japan
 source_hash: 6e9503aaff292cf8
 lang: ja
 status: machine
@@ -32,7 +32,7 @@ translated_at: 2026-06-02T14:01:20.932Z
 - [[foreign-financial-institutions/icbc-japan|ICBC Japan]]
 - [[foreign-financial-institutions/china-construction-bank-japan|China Construction Bank Japan]]
 - [[foreign-financial-institutions/agricultural-bank-of-china-japan|Agricultural Bank of China Japan]]
-- [[JapanFG/INDEX|JapanFG index]]
+- [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]]
 - [[banking/INDEX|banking domain]]
 - [[payments/INDEX|payments domain]]
 - 2026-05-13
@@ -50,7 +50,6 @@ translated_at: 2026-06-02T14:01:20.932Z
 - 5
 - [[payments/account-to-account-payment-japan|account-to-account payment route]]
 - [[banking/foreign-bank-japan-retreat|foreign-bank Japan retreat / footprint context]]
-- [[JapanFG/INDEX]]
 - [[foreign-financial-institutions/foreign-bank-branches-japan-index]]
 - [[foreign-financial-institutions/bank-of-china-japan]]
 - [[foreign-financial-institutions/icbc-japan]]

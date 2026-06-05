@@ -28,7 +28,7 @@ sources:
 
 ## TL;DR
 
-Auto-loan ABS in Japan are issued by captive finance subsidiaries of the Japanese auto OEMs and by bank-affiliated auto-finance companies. The largest repeat issuers are [[card-issuers/toyota-finance]], [[leasing-firms/toyota-financial]] (for cross-border), Honda Finance, Nissan Credit, Mitsubishi UFJ Capital Auto Loan ABS, and SMBC Auto. Structures are typically granular pools (tens of thousands of loans), TK-GK SPV form, with senior / mezz / equity tranching. Lease-ABS variants carry residual-value risk in addition to credit risk. Use this page to understand the auto-finance ABS layer in [[structured-finance/INDEX]] and to connect to the captive-finance company pages in [[JapanFG/INDEX]].
+Auto-loan ABS in Japan are issued by captive finance subsidiaries of the Japanese auto OEMs and by bank-affiliated auto-finance companies. The largest repeat issuers are [[card-issuers/toyota-finance]], [[leasing-firms/toyota-financial]] (for cross-border), Honda Finance, Nissan Credit, Mitsubishi UFJ Capital Auto Loan ABS, and SMBC Auto. Structures are typically granular pools (tens of thousands of loans), TK-GK SPV form, with senior / mezz / equity tranching. Lease-ABS variants carry residual-value risk in addition to credit risk. Use this page to understand the auto-finance ABS layer in [[structured-finance/INDEX]] and to connect to the captive-finance company pages in [[structured-finance/INDEX]].
 
 ## Wiki route
 

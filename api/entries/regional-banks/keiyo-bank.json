@@ -33,7 +33,7 @@
       "京葉銀行 公式 IR ディスクロージャー誌（公開）"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against じもとホールディングス (JIMOTO HD) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under regional-banks INDEX. Read it against じもとホールディングス (JIMOTO HD) for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [
     "株式会社京葉銀行",
     "Wiki route",
@@ -49,7 +49,6 @@
   "body_links": {
     "wikilinks_count": 11,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "chiba-bank",
       "chiba-kogyo-bank",
@@ -58,11 +57,11 @@
       "mizuho-fg",
       "mufg",
       "paypay-fg",
+      "regional-banks/INDEX",
       "regional-banks/jimoto-hd",
       "smfg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/chiba-bank",
       "https://finwiki.zksc.io/chiba-kogyo-bank",
@@ -71,6 +70,7 @@
       "https://finwiki.zksc.io/mizuho-fg",
       "https://finwiki.zksc.io/mufg",
       "https://finwiki.zksc.io/paypay-fg",
+      "https://finwiki.zksc.io/regional-banks/INDEX",
       "https://finwiki.zksc.io/regional-banks/jimoto-hd",
       "https://finwiki.zksc.io/smfg"
     ],
@@ -78,9 +78,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3281,
-    "word_like_tokens": 525,
+    "nonspace_chars": 3295,
+    "word_like_tokens": 527,
     "inbound_wikilinks_count": 1,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

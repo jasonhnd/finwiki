@@ -46,7 +46,7 @@ translated_at: 2026-05-30T18:52:47.775Z
 3. 投票与投资决策通常遵循客户 / 管理人的指图；
 4. 该信托银行的 AUC / AuA 并非自有资本。
 
-在阅读 [[JapanFG/INDEX|JapanFG entity pages]]、发行人申报、交叉持股分析及治理页面时，这条规则至关重要。
+在阅读 [[banking/INDEX|banking INDEX]]、发行人申报、交叉持股分析及治理页面时，这条规则至关重要。
 
 ## Public Research Fields
 

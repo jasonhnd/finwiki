@@ -1,5 +1,5 @@
 ---
-source: japanfg/clearstream-banking-japan
+source: foreign-financial-institutions/clearstream-banking-japan
 source_hash: 4b12ca3923ddf9a6
 lang: zh
 status: machine
@@ -14,7 +14,7 @@ translated_at: 2026-05-31T11:13:44.945Z
 
 此页面将 [[foreign-financial-institutions/foreign-bank-branches-japan-index|the foreign-bank branch registry]] 中的 Clearstream 行提升为独立的 ICSD 路径。使用 [[foreign-financial-institutions/euroclear-bank-japan|Euroclear Bank Japan]]、[[securities/japan-market-infrastructure-map|market infrastructure map]]、[[banking/japan-trust-bank-custody-map|trust-bank custody map]] 和 [[financial-licenses/foreign-financial-group-adjacent-licenses|foreign financial group adjacent-license route]] 来阅读。
 
-首先通过 [[JapanFG/INDEX|JapanFG index]] 路由此条目，然后使用 [[securities/INDEX|securities domain]] 表示交易后基础设施，使用 [[banking/INDEX|banking domain]] 表示托管/分支机构状态。
+首先通过 [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]] 路由此条目，然后使用 [[securities/INDEX|securities domain]] 表示交易后基础设施，使用 [[banking/INDEX|banking domain]] 表示托管/分支机构状态。
 
 ＃＃概述
 
@@ -73,7 +73,7 @@ Clearstream 与 [[foreign-financial-institutions/deutsche-japan|Deutsche Japan]]
 
 ＃＃ 有关的
 
-- [[JapanFG/INDEX]]
+- [[foreign-financial-institutions/INDEX]]
 - [[foreign-financial-institutions/foreign-bank-branches-japan-index]]
 - [[foreign-financial-institutions/euroclear-bank-japan]]
 - [[foreign-financial-institutions/deutsche-japan]]

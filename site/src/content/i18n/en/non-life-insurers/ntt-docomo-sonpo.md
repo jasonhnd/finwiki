@@ -1,5 +1,5 @@
 ---
-source: japanfg/ntt-docomo-sonpo
+source: non-life-insurers/ntt-docomo-sonpo
 source_hash: 2605464bb1e58320
 lang: en
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-01T00:41:50.413Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it with [[non-life-insurers/ntt-docomo-sompo-hd|NTT DOCOMO Non-Life Insurance Holdings]], [[non-life-insurers/sompo|SOMPO]], [[non-life-insurers/sompo-japan-insurance|Sompo Japan Insurance]], [[non-life-insurers/yamap-naturance-insurance|YAMAP Naturance General Insurance]], and [[insurance/INDEX|insurance index]].
+This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read it with [[non-life-insurers/ntt-docomo-sompo-hd|NTT DOCOMO Non-Life Insurance Holdings]], [[non-life-insurers/sompo|SOMPO]], [[non-life-insurers/sompo-japan-insurance|Sompo Japan Insurance]], [[non-life-insurers/yamap-naturance-insurance|YAMAP Naturance General Insurance]], and [[insurance/INDEX|insurance index]].
 
 Use this page for the licensed operating company. Use [[non-life-insurers/ntt-docomo-sompo-hd|NTT DOCOMO Non-Life Insurance Holdings]] for the holding-company authorization route.
 

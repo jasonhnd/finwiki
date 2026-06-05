@@ -40,7 +40,7 @@
       "AIG Inc. Annual Report 2024"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against アクサ・ジャパン (AXA Japan) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under non-life-insurers INDEX. Read it against アクサ・ジャパン (AXA Japan) for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [
     "AIG ジャパン (AIG 損害保険)",
     "Wiki route",
@@ -56,24 +56,24 @@
   "body_links": {
     "wikilinks_count": 10,
     "wikilinks": [
-      "JapanFG/INDEX",
       "aflac-japan",
       "axa-japan",
       "banking/INDEX",
       "kyoritsu-fire-marine",
       "life-insurers/axa-japan",
+      "non-life-insurers/INDEX",
       "non-life-insurers/msad",
       "non-life-insurers/sompo",
       "prudential-japan",
       "tokio-marine"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/aflac-japan",
       "https://finwiki.zksc.io/axa-japan",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/kyoritsu-fire-marine",
       "https://finwiki.zksc.io/life-insurers/axa-japan",
+      "https://finwiki.zksc.io/non-life-insurers/INDEX",
       "https://finwiki.zksc.io/non-life-insurers/msad",
       "https://finwiki.zksc.io/non-life-insurers/sompo",
       "https://finwiki.zksc.io/prudential-japan",
@@ -83,9 +83,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3742,
-    "word_like_tokens": 619,
+    "nonspace_chars": 3762,
+    "word_like_tokens": 623,
     "inbound_wikilinks_count": 16,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

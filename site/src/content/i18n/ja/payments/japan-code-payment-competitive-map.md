@@ -13,7 +13,7 @@ translated_at: 2026-06-02T16:33:58.527Z
 
 日本のコード決済市場は、ウォレット・エコシステム、加盟店受入ネットワーク、ロイヤルティ予算、決済 / 資金移動能力の争いとして記録される。METI の 2025  キャッシュレス決済比率リリースは、キャッシュレス比率を **58.0%** と報告し、コード決済をキャッシュレス決済金額の **10.2%、または 16.6 兆円** と位置づけている。Cashless Promotion Council は、店舗金額 / 件数、送金、チャージ残高、MAU を含むコード決済動向調査を公表している。
 
-このページは、コード決済分析を [[payments/INDEX|payments]] 配下に置き、[[JapanFG/INDEX|JapanFG]] の消費者ウォレット事業者と、[[payment-firms/netstars|Netstars]] や [[payments/psp-merchant-settlement-risk|merchant settlement risk]] のような PSP / ゲートウェイインフラを接続する。
+このページは、コード決済分析を [[payments/INDEX|payments]] 配下に置き、[[payments/INDEX|payments INDEX]] の消費者ウォレット事業者と、[[payment-firms/netstars|Netstars]] や [[payments/psp-merchant-settlement-risk|merchant settlement risk]] のような PSP / ゲートウェイインフラを接続する。
 
 ## 競争レーン
 

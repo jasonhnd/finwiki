@@ -37,7 +37,7 @@
       "第二地方銀行協会 加盟行リスト (公開)"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against じもとホールディングス (JIMOTO HD) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under regional-banks INDEX. Read it against じもとホールディングス (JIMOTO HD) for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [
     "東和銀行 (The Towa Bank, Ltd.)",
     "Wiki route",
@@ -53,7 +53,6 @@
   "body_links": {
     "wikilinks_count": 12,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "fidea-hd",
       "gunma-bank",
@@ -62,12 +61,12 @@
       "mizuho-fg",
       "mufg",
       "proclair-hd",
+      "regional-banks/INDEX",
       "regional-banks/jimoto-hd",
       "smfg",
       "tomony-hd"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/fidea-hd",
       "https://finwiki.zksc.io/gunma-bank",
@@ -76,6 +75,7 @@
       "https://finwiki.zksc.io/mizuho-fg",
       "https://finwiki.zksc.io/mufg",
       "https://finwiki.zksc.io/proclair-hd",
+      "https://finwiki.zksc.io/regional-banks/INDEX",
       "https://finwiki.zksc.io/regional-banks/jimoto-hd",
       "https://finwiki.zksc.io/smfg",
       "https://finwiki.zksc.io/tomony-hd"
@@ -84,9 +84,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4070,
-    "word_like_tokens": 605,
+    "nonspace_chars": 4084,
+    "word_like_tokens": 607,
     "inbound_wikilinks_count": 0,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

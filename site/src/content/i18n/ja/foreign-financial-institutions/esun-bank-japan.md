@@ -1,5 +1,5 @@
 ---
-source: japanfg/esun-bank-japan
+source: foreign-financial-institutions/esun-bank-japan
 source_hash: 361227b6de013702
 lang: ja
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-02T14:25:12.444Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の下に位置づけられる。ピア比較・対照の文脈では [[foreign-financial-institutions/mega-icbc-japan|兆豐國際商業銀行 東京支店]] を、より広い制度・規制境界では [[banking/INDEX|banking index]] を参照する。
+この項目は [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]] の下に位置づけられる。ピア比較・対照の文脈では [[foreign-financial-institutions/mega-icbc-japan|兆豐國際商業銀行 東京支店]] を、より広い制度・規制境界では [[banking/INDEX|banking index]] を参照する。
 
 ## 要約
 

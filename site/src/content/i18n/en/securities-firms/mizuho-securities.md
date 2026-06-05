@@ -1,5 +1,5 @@
 ---
-source: japanfg/mizuho-securities
+source: securities-firms/mizuho-securities
 source_hash: c876a226b8e32da2
 lang: en
 status: machine
@@ -44,7 +44,7 @@ For retail household investment flow, connect to [[securities/nisa-2024-flow]]. 
 
 ## Related
 
-- [[JapanFG/INDEX|JapanFG INDEX]]
+- [[securities-firms/INDEX|securities-firms INDEX]]
 - [[securities/INDEX|securities INDEX]]
 - [[megabanks/mizuho-fg]]
 - [[securities-firms/nomura-hd]]

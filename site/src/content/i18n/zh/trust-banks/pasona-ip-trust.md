@@ -1,5 +1,5 @@
 ---
-source: japanfg/pasona-ip-trust
+source: trust-banks/pasona-ip-trust
 source_hash: 2da3ce8dff93fffb
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T00:41:50.433Z
 
 ## Wiki route
 
-Pasona IP Trust 是 [[JapanFG/INDEX|JapanFG]] 下的独立信托公司路径，并由 [[trust-banks/trust-companies-japan-index|the Japan trust companies registry index]] 提升出来。可与 [[finance/japan-acquisition-finance|Japan acquisition finance]]、[[business/INDEX|business cases]]、[[banking/japan-trust-bank-custody-map|Japan trust-bank custody map]] 一起阅读。
+Pasona IP Trust 是 [[trust-banks/INDEX|trust-banks INDEX]] 下的独立信托公司路径，并由 [[trust-banks/trust-companies-japan-index|the Japan trust companies registry index]] 提升出来。可与 [[finance/japan-acquisition-finance|Japan acquisition finance]]、[[business/INDEX|business cases]]、[[banking/japan-trust-bank-custody-map|Japan trust-bank custody map]] 一起阅读。
 
 本页用于知识产权信托、专利 / 工业产权管理、IP 变现以及非金融资产信托相关问题。
 
@@ -58,7 +58,7 @@ Pasona IP Trust 很有用，因为无形资产通常位于普通资产负债表�
 
 ## Related
 
-- [[JapanFG/INDEX]]
+- [[trust-banks/INDEX]]
 - [[trust-banks/trust-companies-japan-index]]
 - [[banking/japan-trust-bank-custody-map]]
 - [[finance/japan-acquisition-finance]]

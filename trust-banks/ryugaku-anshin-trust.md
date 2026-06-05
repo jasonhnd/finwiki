@@ -17,7 +17,7 @@ sources:
 
 # Ryugaku Anshin Trust / 留学安心信託
 
-Wiki route: [[JapanFG/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/ryugaku-anshin-trust]]
+Wiki route: [[trust-banks/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/ryugaku-anshin-trust]]
 
 ## Overview
 

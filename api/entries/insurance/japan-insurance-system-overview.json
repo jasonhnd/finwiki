@@ -62,10 +62,9 @@
     "Market Participants"
   ],
   "body_links": {
-    "wikilinks_count": 52,
+    "wikilinks_count": 51,
     "wikilinks": [
       "INDEX",
-      "JapanFG/INDEX",
       "derivatives/japan-interest-rate-derivatives-overview",
       "financial-regulators/japan-pi-club",
       "insurance/INDEX",
@@ -119,7 +118,6 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/derivatives/japan-interest-rate-derivatives-overview",
       "https://finwiki.zksc.io/financial-regulators/japan-pi-club",
       "https://finwiki.zksc.io/insurance/INDEX",
@@ -175,9 +173,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 12685,
-    "word_like_tokens": 1791,
+    "nonspace_chars": 12676,
+    "word_like_tokens": 1790,
     "inbound_wikilinks_count": 1,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

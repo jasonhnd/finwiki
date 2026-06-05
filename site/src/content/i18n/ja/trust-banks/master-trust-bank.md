@@ -1,5 +1,5 @@
 ---
-source: japanfg/master-trust-bank
+source: trust-banks/master-trust-bank
 source_hash: 31e2ee76fb70bfd7
 lang: ja
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-02T14:54:39.065Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] に属する。同業・比較対象の文脈では [[trust-banks/custody-bank|日本カストディ銀行 (CBJ)]]、より広い制度・規制上の境界では [[banking/INDEX|banking index]] と併せて読む。
+この項目は [[trust-banks/INDEX|trust-banks INDEX]] に属する。同業・比較対象の文脈では [[trust-banks/custody-bank|日本カストディ銀行 (CBJ)]]、より広い制度・規制上の境界では [[banking/INDEX|banking index]] と併せて読む。
 
 ## 要約
 

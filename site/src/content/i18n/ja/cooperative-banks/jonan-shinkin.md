@@ -1,5 +1,5 @@
 ---
-source: japanfg/jonan-shinkin
+source: cooperative-banks/jonan-shinkin
 source_hash: 2609a64e7368ac77
 lang: ja
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-02T14:54:39.051Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に置かれる。[[cooperative-banks/asahi-shinkin|朝日信用金庫]] は同業・隣接項目との比較先であり、[[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]] は制度、登録、監督上の境界を確認するための参照先である。本文は公開情報に基づき、会社または制度項目の位置づけを日本語で整理する。
+この項目は [[cooperative-banks/INDEX|cooperative-banks INDEX]] の配下に置かれる。[[cooperative-banks/asahi-shinkin|朝日信用金庫]] は同業・隣接項目との比較先であり、[[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]] は制度、登録、監督上の境界を確認するための参照先である。本文は公開情報に基づき、会社または制度項目の位置づけを日本語で整理する。
 
 ## 要約
 

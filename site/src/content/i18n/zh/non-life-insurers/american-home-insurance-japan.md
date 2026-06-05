@@ -1,5 +1,5 @@
 ---
-source: japanfg/american-home-insurance-japan
+source: non-life-insurers/american-home-insurance-japan
 source_hash: d54475b5bff0af04
 lang: zh
 status: machine
@@ -10,7 +10,7 @@ translated_at: 2026-05-31T11:13:44.927Z
 
 # 美国家庭保险 日本/美国家庭医疗/非人寿保险
 
-维基路线：[[JapanFG/INDEX]] -> [[insurance/INDEX]] -> [[non-life-insurers/american-home-insurance-japan]]
+维基路线：[[non-life-insurers/INDEX]] -> [[insurance/INDEX]] -> [[non-life-insurers/american-home-insurance-japan]]
 
 ＃＃ 概述
 

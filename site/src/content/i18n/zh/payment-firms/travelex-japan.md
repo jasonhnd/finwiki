@@ -1,5 +1,5 @@
 ---
-source: japanfg/travelex-japan
+source: payment-firms/travelex-japan
 source_hash: d9e093d4fd9803fa
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.171Z
 
 ## Wiki route
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可与 [[payment-firms/wise-payments-japan|Wise Payments Japan]] 对照阅读以理解同业 / 对比语境，也可与 [[payments/INDEX|payments index]] 一起阅读以把握更大的系统和监管边界。
+本条目位于 [[payment-firms/INDEX|payment-firms INDEX]] 之下。可与 [[payment-firms/wise-payments-japan|Wise Payments Japan]] 对照阅读以理解同业 / 对比语境，也可与 [[payments/INDEX|payments index]] 一起阅读以把握更大的系统和监管边界。
 
 ## TL;DR
 

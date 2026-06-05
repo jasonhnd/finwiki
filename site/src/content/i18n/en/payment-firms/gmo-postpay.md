@@ -1,5 +1,5 @@
 ---
-source: japanfg/gmo-postpay
+source: payment-firms/gmo-postpay
 source_hash: 8627021be5280eb9
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T15:29:03.911Z
 
 ## Wiki route
 
-This entry sits under the [[JapanFG/INDEX|JapanFG index]] as a PSP-side BNPL product. Read it against the [[payment-firms/bnpl-landscape|Japan BNPL landscape]] system note, with the [[payment-firms/gmo-payment-gateway|GMO Payment Gateway]] sibling explaining the merchant-acquiring stack and the [[payment-firms/net-protections-hd|Net Protections HD]] / [[payment-firms/paidy|Paidy]] peers showing pure-play BNPL. The [[payments/japan-bnpl-credit-purchase-boundary|BNPL and credit-purchase boundary]] frames the regulatory question, the [[payments/credit-purchase-card-operators-japan-index|METI credit-purchase registry]] anchors registration, and the [[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]] places it next to card and code-payment economics.
+This entry sits under the [[payment-firms/INDEX|payment-firms INDEX]] as a PSP-side BNPL product. Read it against the [[payment-firms/bnpl-landscape|Japan BNPL landscape]] system note, with the [[payment-firms/gmo-payment-gateway|GMO Payment Gateway]] sibling explaining the merchant-acquiring stack and the [[payment-firms/net-protections-hd|Net Protections HD]] / [[payment-firms/paidy|Paidy]] peers showing pure-play BNPL. The [[payments/japan-bnpl-credit-purchase-boundary|BNPL and credit-purchase boundary]] frames the regulatory question, the [[payments/credit-purchase-card-operators-japan-index|METI credit-purchase registry]] anchors registration, and the [[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]] places it next to card and code-payment economics.
 
 ## TL;DR
 

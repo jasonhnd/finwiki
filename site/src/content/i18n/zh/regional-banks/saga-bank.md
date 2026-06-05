@@ -1,5 +1,5 @@
 ---
-source: japanfg/saga-bank
+source: regional-banks/saga-bank
 source_hash: d488bb7c3a1be75e
 lang: zh
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-06-01T00:41:50.417Z
 
 ## Wiki route
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 下。可与 [[regional-banks/fukuoka-bank|福岡銀行]] 对照阅读，以理解同业和差异；更广泛的系统和监管边界见 [[banking/INDEX|banking index]]。
+本条目位于 [[regional-banks/INDEX|regional-banks INDEX]] 下。可与 [[regional-banks/fukuoka-bank|福岡銀行]] 对照阅读，以理解同业和差异；更广泛的系统和监管边界见 [[banking/INDEX|banking index]]。
 
 ## TL;DR
 

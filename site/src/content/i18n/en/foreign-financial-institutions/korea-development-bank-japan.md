@@ -1,5 +1,5 @@
 ---
-source: japanfg/korea-development-bank-japan
+source: foreign-financial-institutions/korea-development-bank-japan
 source_hash: d1d92980ba3e682d
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:59:49.351Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[foreign-financial-institutions/woori-bank-japan|Woori Bank Tokyo]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]]. Read it against [[foreign-financial-institutions/woori-bank-japan|Woori Bank Tokyo]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 

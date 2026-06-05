@@ -1,5 +1,5 @@
 ---
-source: japanfg/nonlife-insurer-registry-japan-index
+source: non-life-insurers/nonlife-insurer-registry-japan-index
 source_hash: a3f488b602f6d86f
 lang: ja
 status: machine
@@ -14,11 +14,11 @@ translated_at: 2026-06-02T14:54:39.083Z
 
 FSA の損害保険会社免許一覧（損害保険会社免許一覧、songai.pdf）は、日本の保険業法に基づいて損害保険を引き受ける免許を持つ全主体の単一レジストリ面である。このページはそのレジストリのルーティング面であり、読者に FSA ワークブックの生データ解釈を強いるのではなく、所有クラスター（3社 / ダイレクト / 専門 / 外資系 / 再保険）別に整理する。構造は [[trust-banks/trust-companies-japan-index]] と [[foreign-financial-institutions/foreign-bank-branches-japan-index]] を反映する。
 
-単独の保険会社ページは [[JapanFG/INDEX|JapanFG]] に置く。概念ページ（巨大災害リスク、代理店チャネル、ソルベンシー）は [[insurance/INDEX|insurance]] に置く。この索引はその中間にあり、双方へルーティングする。
+単独の保険会社ページは [[non-life-insurers/INDEX|non-life-insurers INDEX]] に置く。概念ページ（巨大災害リスク、代理店チャネル、ソルベンシー）は [[insurance/INDEX|insurance]] に置く。この索引はその中間にあり、双方へルーティングする。
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の下にあり、[[trust-banks/trust-companies-japan-index|trust companies registry index]] と [[foreign-financial-institutions/foreign-bank-branches-japan-index|foreign bank branches registry index]] に対応する損害保険側の索引である。持株会社比較レイヤーとして [[insurance/japan-nonlife-big-three|Japan non-life big three]]、リスク出再レイヤーとして [[insurance/natcat-reinsurance-japan|nat-cat reinsurance in Japan]]、広い運営モデルマップとして [[insurance/INDEX|insurance index]] を併読する。資本十分性の読み替えは [[insurance/economic-value-based-solvency|economic value-based solvency]] と [[insurance/global-solvency-framework-comparison-matrix|global solvency framework comparison matrix]] を通す。外国再保険会社のみの項目は、姉妹ページの [[insurance/foreign-reinsurer-japan-landscape|foreign reinsurer Japan landscape]] と [[insurance/lloyds-japan-syndicate-operating-model|Lloyd's Japan syndicate operating model]] にまとめる。
+この項目は [[non-life-insurers/INDEX|non-life-insurers INDEX]] の下にあり、[[trust-banks/trust-companies-japan-index|trust companies registry index]] と [[foreign-financial-institutions/foreign-bank-branches-japan-index|foreign bank branches registry index]] に対応する損害保険側の索引である。持株会社比較レイヤーとして [[insurance/japan-nonlife-big-three|Japan non-life big three]]、リスク出再レイヤーとして [[insurance/natcat-reinsurance-japan|nat-cat reinsurance in Japan]]、広い運営モデルマップとして [[insurance/INDEX|insurance index]] を併読する。資本十分性の読み替えは [[insurance/economic-value-based-solvency|economic value-based solvency]] と [[insurance/global-solvency-framework-comparison-matrix|global solvency framework comparison matrix]] を通す。外国再保険会社のみの項目は、姉妹ページの [[insurance/foreign-reinsurer-japan-landscape|foreign reinsurer Japan landscape]] と [[insurance/lloyds-japan-syndicate-operating-model|Lloyd's Japan syndicate operating model]] にまとめる。
 
 ## 対象範囲
 
@@ -150,7 +150,7 @@ Lloyd's Japan は、この一覧の他の行とは構造的に異なる。単一
 
 ## 関連項目
 
-- [[JapanFG/INDEX]]
+- [[non-life-insurers/INDEX]]
 - [[trust-banks/trust-companies-japan-index]]
 - [[foreign-financial-institutions/foreign-bank-branches-japan-index]]
 - [[insurance/INDEX]]

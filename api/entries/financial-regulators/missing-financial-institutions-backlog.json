@@ -39,7 +39,7 @@
       "JBA / JCA / FISC public bank API, card-security, and payment-control materials"
     ]
   },
-  "summary": "This page is the execution checklist for expanding JapanFG from a major-institution wiki into a registry-aware Japan financial institution map.",
+  "summary": "This page is the execution checklist for expanding financial-regulators INDEX from a major-institution wiki into a registry-aware Japan financial institution map.",
   "headings": [
     "Missing Japan financial institutions expansion backlog",
     "Overview",
@@ -57,7 +57,6 @@
     "wikilinks": [
       "CHANGELOG",
       "INDEX",
-      "JapanFG/INDEX",
       "banking/credit-cooperative-registry-japan",
       "banking/ja-bank-system-japan",
       "banking/japan-master-trust-and-custody-bank-landscape",
@@ -88,6 +87,7 @@
       "finance/japan-activist-investor-playbook",
       "finance/japan-tender-offer-process",
       "financial-licenses/securities-license-stack",
+      "financial-regulators/INDEX",
       "financial-regulators/cci-group",
       "financial-regulators/dbj",
       "financial-regulators/jbic",
@@ -139,7 +139,6 @@
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/CHANGELOG",
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/credit-cooperative-registry-japan",
       "https://finwiki.zksc.io/banking/ja-bank-system-japan",
       "https://finwiki.zksc.io/banking/japan-master-trust-and-custody-bank-landscape",
@@ -170,6 +169,7 @@
       "https://finwiki.zksc.io/finance/japan-activist-investor-playbook",
       "https://finwiki.zksc.io/finance/japan-tender-offer-process",
       "https://finwiki.zksc.io/financial-licenses/securities-license-stack",
+      "https://finwiki.zksc.io/financial-regulators/INDEX",
       "https://finwiki.zksc.io/financial-regulators/cci-group",
       "https://finwiki.zksc.io/financial-regulators/dbj",
       "https://finwiki.zksc.io/financial-regulators/jbic",
@@ -222,9 +222,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 39586,
-    "word_like_tokens": 6073,
+    "nonspace_chars": 39643,
+    "word_like_tokens": 6078,
     "inbound_wikilinks_count": 14,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

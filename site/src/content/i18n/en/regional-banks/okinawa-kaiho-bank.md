@@ -1,5 +1,5 @@
 ---
-source: japanfg/okinawa-kaiho-bank
+source: regional-banks/okinawa-kaiho-bank
 source_hash: 889c6151448b8ba6
 lang: en
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-01T00:41:50.414Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[regional-banks/jimoto-hd|じもとホールディングス (JIMOTO HD)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it against [[regional-banks/jimoto-hd|じもとホールディングス (JIMOTO HD)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
@@ -125,7 +125,7 @@ Common issues for member banks of the Second Association of Regional Banks (form
 - [[okinawa-shinko]] — Okinawa Development Finance Corporation (policy-finance complement)
 - [[fidea-hd]] · [[jimoto-hd]] — Mainland second regional bank consolidation examples (reorganization comparators)
 - [[mufg]] · [[smfg]] · [[mizuho-fg]] — Mega 3 行 (large prefectural deal competition / correspondent banking)
-- [[JapanFG/INDEX|Japan FG INDEX]]
+- [[regional-banks/INDEX|regional-banks INDEX]]
 
 ## Sources
 

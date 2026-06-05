@@ -46,9 +46,8 @@
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 26,
+    "wikilinks_count": 25,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "banking/baas-japan-landscape",
       "card-issuers/rakuten-card",
@@ -76,7 +75,6 @@
       "payments/psp-merchant-settlement-risk"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/baas-japan-landscape",
       "https://finwiki.zksc.io/card-issuers/rakuten-card",
@@ -107,9 +105,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4540,
-    "word_like_tokens": 678,
+    "nonspace_chars": 4547,
+    "word_like_tokens": 679,
     "inbound_wikilinks_count": 25,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

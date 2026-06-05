@@ -39,7 +39,7 @@
       "https://www.leasing.or.jp/"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 芙蓉総合リース for peer / contrast context and banking index for the broader system / regulatory boundary. As a JA / 農林中金 + 三井系の合弁体, it should be cross-read with 農林中央金庫 for the JA-side context.",
+  "summary": "This entry sits under cooperative-banks INDEX. Read it against 芙蓉総合リース for peer / contrast context and banking index for the broader system / regulatory boundary. As a JA / 農林中金 + 三井系の合弁体, it should be cross-read with 農林中央金庫 for the JA-side context.",
   "headings": [
     "JA三井リース",
     "Wiki route",
@@ -54,8 +54,8 @@
   "body_links": {
     "wikilinks_count": 9,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
+      "cooperative-banks/INDEX",
       "cooperative-banks/norinchukin",
       "finance/japan-acquisition-finance",
       "leasing-firms/fuyo-lease",
@@ -65,8 +65,8 @@
       "leasing-firms/tokyo-century"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/cooperative-banks/INDEX",
       "https://finwiki.zksc.io/cooperative-banks/norinchukin",
       "https://finwiki.zksc.io/finance/japan-acquisition-finance",
       "https://finwiki.zksc.io/leasing-firms/fuyo-lease",
@@ -79,9 +79,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3168,
-    "word_like_tokens": 521,
+    "nonspace_chars": 3188,
+    "word_like_tokens": 523,
     "inbound_wikilinks_count": 16,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

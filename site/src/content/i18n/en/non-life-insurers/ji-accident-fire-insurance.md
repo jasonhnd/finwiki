@@ -1,5 +1,5 @@
 ---
-source: japanfg/ji-accident-fire-insurance
+source: non-life-insurers/ji-accident-fire-insurance
 source_hash: c64e785e936ecdc4
 lang: en
 status: machine
@@ -9,7 +9,7 @@ translated_at: 2026-05-31T23:59:49.348Z
 ---
 # JI Accident & Fire Insurance / JI Accident & Fire Insurance
 
-Wiki route: [[JapanFG/INDEX]] -> [[insurance/INDEX]] -> [[non-life-insurers/ji-accident-fire-insurance]]
+Wiki route: [[non-life-insurers/INDEX]] -> [[insurance/INDEX]] -> [[non-life-insurers/ji-accident-fire-insurance]]
 
 ## Overview
 

@@ -1,5 +1,5 @@
 ---
-source: japanfg/hiroshima-bank
+source: regional-banks/hiroshima-bank
 source_hash: 53424583361eee68
 lang: ja
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-06-02T14:25:12.401Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に置く。[[regional-banks/chugoku-bank|中国銀行]] は比較対象・対照文脈として、[[banking/INDEX|banking index]] はより広いシステム境界・規制境界として読む。
+この項目は [[regional-banks/INDEX|regional-banks INDEX]] の配下に置く。[[regional-banks/chugoku-bank|中国銀行]] は比較対象・対照文脈として、[[banking/INDEX|banking index]] はより広いシステム境界・規制境界として読む。
 
 ## 要約
 

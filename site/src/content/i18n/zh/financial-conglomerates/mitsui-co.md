@@ -1,5 +1,5 @@
 ---
-source: japanfg/mitsui-co
+source: financial-conglomerates/mitsui-co
 source_hash: 27a7b35b99fe77b7
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:59:49.391Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha parent holding-company**. Read it against [[financial-conglomerates/mitsubishi-corp|三菱商事]]（争夺净利润首位的最大竞争对手）and [[financial-conglomerates/itochu-corp|伊藤忠商事]]（在 5  大商社中偏非资源型的对照）for peer / contrast context. For the financial-services adjacency that anchors this entry on JapanFG, see [[trading-company-finance/mitsui-bussan-financial-services|三井物産フィナンシャルサービス]]（面向集团内部的 CMS）。[[leasing-firms/smfl|SMFL (住友三井オートサービス系の総合リース)]] is **不准确** — 三井物产的主要租赁子公司是 [[cooperative-banks/ja-mitsui-leasing|JA三井リース]]（JA 全农 + 三井物产 50/50  系列；旧三井租赁 + JA 租赁的合并体），这与其持有 [[leasing-firms/smfl|SMFL]]（SMFG / 住友商事系，SMFL = 50% SMFG + 50% 住友商事）的权益不同；此外还有对 [[leasing-firms/sumitomo-mitsui-auto-service|住友三井オートサービス]] 的一定持股。System frame: [[finance/INDEX|finance index]] 和 [[finance/japan-listed-financial-groups-investable-universe|Japan 上場金融 G 投資ユニバース]]。
+This entry sits under [[financial-conglomerates/INDEX|financial-conglomerates INDEX]] as a **sōgō shōsha parent holding-company**. Read it against [[financial-conglomerates/mitsubishi-corp|三菱商事]]（争夺净利润首位的最大竞争对手）and [[financial-conglomerates/itochu-corp|伊藤忠商事]]（在 5  大商社中偏非资源型的对照）for peer / contrast context. For the financial-services adjacency that anchors this entry on JapanFG, see [[trading-company-finance/mitsui-bussan-financial-services|三井物産フィナンシャルサービス]]（面向集团内部的 CMS）。[[leasing-firms/smfl|SMFL (住友三井オートサービス系の総合リース)]] is **不准确** — 三井物产的主要租赁子公司是 [[cooperative-banks/ja-mitsui-leasing|JA三井リース]]（JA 全农 + 三井物产 50/50  系列；旧三井租赁 + JA 租赁的合并体），这与其持有 [[leasing-firms/smfl|SMFL]]（SMFG / 住友商事系，SMFL = 50% SMFG + 50% 住友商事）的权益不同；此外还有对 [[leasing-firms/sumitomo-mitsui-auto-service|住友三井オートサービス]] 的一定持股。System frame: [[finance/INDEX|finance index]] 和 [[finance/japan-listed-financial-groups-investable-universe|Japan 上場金融 G 投資ユニバース]]。
 
 ## 1. 公司概要
 
@@ -103,7 +103,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as a **sōgō shōsha pare
 
 ## Related
 
-- [[JapanFG/INDEX|JapanFG index]]
+- [[financial-conglomerates/INDEX|financial-conglomerates INDEX]]
 - [[financial-conglomerates/mitsubishi-corp|三菱商事]] · [[financial-conglomerates/itochu-corp|伊藤忠商事]] · [[financial-conglomerates/sumitomo-corp|住友商事]] · [[financial-conglomerates/marubeni-corp|丸紅]] · [[financial-conglomerates/toyota-tsusho-corp|豊田通商]] · [[financial-conglomerates/sojitz-corp|双日]]（同业商社）
 - [[trading-company-finance/mitsui-bussan-financial-services|三井物産FS]]（面向集团内部的 group treasury）
 - [[cooperative-banks/ja-mitsui-leasing|JA三井リース]]（权益法租赁）

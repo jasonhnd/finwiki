@@ -1,5 +1,5 @@
 ---
-source: japanfg/jf-marine-bank-hokkaido
+source: cooperative-banks/jf-marine-bank-hokkaido
 source_hash: 5951f6ad9d5cba9b
 lang: ja
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-02T14:25:12.417Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] 配下に位置し、FinWiki で最初の **JF Marine Bank 都道府県信漁連運営会社アンカー**である。集合項目としての JF 信漁連は文書化済みだったが、都道府県別信漁連アンカーが存在しないという監査ギャップを埋める。北海道は、サケ・ホタテ・コンブ・沿岸漁業等の生産額で国内最大級の水産地域であり、10 信漁連地図の中でも最も目立つ地域連合会として選定した。全国の都道府県連合会文脈は [[cooperative-banks/jf-shingyoren|JF 信漁連 (全国集合)]]、JF グループの全国代表・経済事業連合会は [[cooperative-banks/jf-zengyoren|JF 全漁連]]、上位中央機関は [[cooperative-banks/norinchukin|農林中央金庫]]、農協側の都道府県別比較アンカーは [[cooperative-banks/ja-bank-tokyo-shinren|JA バンク東京信連]]、システム境界は [[banking/jf-marine-bank-system-japan|JF Marine Bank system]] とあわせて読む。
+この項目は [[cooperative-banks/INDEX|cooperative-banks INDEX]] 配下に位置し、FinWiki で最初の **JF Marine Bank 都道府県信漁連運営会社アンカー**である。集合項目としての JF 信漁連は文書化済みだったが、都道府県別信漁連アンカーが存在しないという監査ギャップを埋める。北海道は、サケ・ホタテ・コンブ・沿岸漁業等の生産額で国内最大級の水産地域であり、10 信漁連地図の中でも最も目立つ地域連合会として選定した。全国の都道府県連合会文脈は [[cooperative-banks/jf-shingyoren|JF 信漁連 (全国集合)]]、JF グループの全国代表・経済事業連合会は [[cooperative-banks/jf-zengyoren|JF 全漁連]]、上位中央機関は [[cooperative-banks/norinchukin|農林中央金庫]]、農協側の都道府県別比較アンカーは [[cooperative-banks/ja-bank-tokyo-shinren|JA バンク東京信連]]、システム境界は [[banking/jf-marine-bank-system-japan|JF Marine Bank system]] とあわせて読む。
 
 ## 要約
 
@@ -153,7 +153,7 @@ translated_at: 2026-06-02T14:25:12.417Z
 - [[banking/jf-marine-bank-system-japan]] — JF Marine Bank システム
 - [[banking/ja-bank-system-japan]] — JA Bank システム (比較対象システム)
 - [[banking/cooperative-banking-japan]] — 協同組織金融全体
-- [[JapanFG/INDEX|JapanFG index]]
+- [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 
 ## 出典
 

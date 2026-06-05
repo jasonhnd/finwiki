@@ -38,7 +38,7 @@
       "日本銀行ワーキングペーパー No.07-E-11 『Credit Rating Gaps in Japan: Differences between Japanese and U.S. Rating Agencies』 (2007, https://www.boj.or.jp/en/research/wps_rev/wps_2007/data/wp07e11.pdf)"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 格付投資情報センター (R&I) for peer / contrast context and 金融庁 for the broader regulatory boundary (信用格付業者登録).",
+  "summary": "This entry sits under financial-regulators INDEX. Read it against 格付投資情報センター (R&I) for peer / contrast context and 金融庁 for the broader regulatory boundary (信用格付業者登録).",
   "headings": [
     "日本格付研究所 (JCR)",
     "Wiki route",
@@ -54,7 +54,7 @@
   "body_links": {
     "wikilinks_count": 7,
     "wikilinks": [
-      "JapanFG/INDEX",
+      "financial-regulators/INDEX",
       "financial-regulators/fsa",
       "financial-regulators/japan-exchange-group",
       "financial-regulators/rating-and-investment",
@@ -63,7 +63,7 @@
       "megabanks/smfg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/financial-regulators/INDEX",
       "https://finwiki.zksc.io/financial-regulators/fsa",
       "https://finwiki.zksc.io/financial-regulators/japan-exchange-group",
       "https://finwiki.zksc.io/financial-regulators/rating-and-investment",
@@ -75,9 +75,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4290,
-    "word_like_tokens": 693,
+    "nonspace_chars": 4342,
+    "word_like_tokens": 697,
     "inbound_wikilinks_count": 12,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

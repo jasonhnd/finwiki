@@ -1,5 +1,5 @@
 ---
-source: japanfg/gen-re-japan
+source: non-life-insurers/gen-re-japan
 source_hash: d97c9a22ec5000ee
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T15:29:03.931Z
 
 ## Wiki 路由
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]]。可与 [[life-insurers/rga-japan|RGA 日本支店]]、[[non-life-insurers/munich-re-japan|Munich Re 日本支店]]、[[non-life-insurers/swiss-re-japan|Swiss Re 日本支店]] 和 [[non-life-insurers/toa-reinsurance|トーア再保険]] 对照，并与 [[insurance/natcat-reinsurance-japan|nat-cat reinsurance Japan]] 共同阅读。
+本条目位于 [[non-life-insurers/INDEX|non-life-insurers INDEX]]。可与 [[life-insurers/rga-japan|RGA 日本支店]]、[[non-life-insurers/munich-re-japan|Munich Re 日本支店]]、[[non-life-insurers/swiss-re-japan|Swiss Re 日本支店]] 和 [[non-life-insurers/toa-reinsurance|トーア再保険]] 对照，并与 [[insurance/natcat-reinsurance-japan|nat-cat reinsurance Japan]] 共同阅读。
 
 ## 要点摘要
 
@@ -37,7 +37,7 @@ General Reinsurance AG / General Re Corporation 的日本支店是 Berkshire Hat
 
 ## Related
 
-- [[JapanFG/INDEX]]
+- [[non-life-insurers/INDEX]]
 - [[rga-japan]]
 - [[munich-re-japan]]
 - [[swiss-re-japan]]

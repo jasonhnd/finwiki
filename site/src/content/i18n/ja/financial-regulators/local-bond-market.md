@@ -1,5 +1,5 @@
 ---
-source: japanfg/local-bond-market
+source: financial-regulators/local-bond-market
 source_hash: 6cc6eddbb3cd971e
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:54:39.086Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] 配下に置かれる。[[financial-regulators/japan-policy-finance-map|Japan policy-finance map]] は比較対象の文脈、[[banking/INDEX|banking index]] はより広い制度・規制境界の文脈として読む。
+この項目は [[financial-regulators/INDEX|financial-regulators INDEX]] 配下に置かれる。[[financial-regulators/japan-policy-finance-map|Japan policy-finance map]] は比較対象の文脈、[[banking/INDEX|banking index]] はより広い制度・規制境界の文脈として読む。
 
 ## 要約
 

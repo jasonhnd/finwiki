@@ -33,7 +33,7 @@
       "日刊工業新聞「共栄火災海上保険、新中計で経営体力強化」(2026-05-19 抽出)"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against SOMPO ホールディングス (Sompo Holdings) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under non-life-insurers INDEX. Read it against SOMPO ホールディングス (Sompo Holdings) for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [
     "共栄火災海上保険",
     "Wiki route",
@@ -49,21 +49,21 @@
   "body_links": {
     "wikilinks_count": 8,
     "wikilinks": [
-      "JapanFG/INDEX",
       "axa-japan",
       "banking/INDEX",
       "kampo-life",
       "msad",
+      "non-life-insurers/INDEX",
       "non-life-insurers/sompo",
       "sompo",
       "tokio-marine"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/axa-japan",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/kampo-life",
       "https://finwiki.zksc.io/msad",
+      "https://finwiki.zksc.io/non-life-insurers/INDEX",
       "https://finwiki.zksc.io/non-life-insurers/sompo",
       "https://finwiki.zksc.io/sompo",
       "https://finwiki.zksc.io/tokio-marine"
@@ -72,9 +72,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3971,
-    "word_like_tokens": 636,
+    "nonspace_chars": 3991,
+    "word_like_tokens": 640,
     "inbound_wikilinks_count": 9,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

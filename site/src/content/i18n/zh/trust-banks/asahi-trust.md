@@ -1,5 +1,5 @@
 ---
-source: japanfg/asahi-trust
+source: trust-banks/asahi-trust
 source_hash: 562976f35feabeb7
 lang: zh
 status: machine
@@ -10,7 +10,7 @@ translated_at: 2026-05-31T11:13:44.915Z
 
 # Asahi Trust / 朝日信托
 
-Wiki 路线：[[JapanFG/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/asahi-trust]]
+Wiki 路线：[[trust-banks/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/asahi-trust]]
 
 ## 概览
 

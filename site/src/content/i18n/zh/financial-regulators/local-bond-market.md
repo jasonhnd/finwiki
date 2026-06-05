@@ -1,5 +1,5 @@
 ---
-source: japanfg/local-bond-market
+source: financial-regulators/local-bond-market
 source_hash: 6cc6eddbb3cd971e
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:59:49.388Z
 
 ## Wiki 路径
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可与 [[financial-regulators/japan-policy-finance-map|Japan policy-finance map]] 对读，以获得同业 / 对照背景；也可与 [[banking/INDEX|banking index]] 对读，以理解更广泛的制度 / 监管边界。
+本条目位于 [[financial-regulators/INDEX|financial-regulators INDEX]] 之下。可与 [[financial-regulators/japan-policy-finance-map|Japan policy-finance map]] 对读，以获得同业 / 对照背景；也可与 [[banking/INDEX|banking index]] 对读，以理解更广泛的制度 / 监管边界。
 
 ## TL;DR
 

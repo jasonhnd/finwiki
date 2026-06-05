@@ -37,7 +37,7 @@
       "GMO インターネットグループ: GMOあおぞらネット銀行 種類株式取得に関するお知らせ 2023-06-19 (https://group.gmo/news/article/8450/)"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 住信 SBI ネット銀行 (SBI Sumishin Net Bank) → ドコモ SMTB ネット銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under payment-firms INDEX. Read it against 住信 SBI ネット銀行 (SBI Sumishin Net Bank) → ドコモ SMTB ネット銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [
     "GMO あおぞらネット銀行",
     "Wiki route",
@@ -53,7 +53,6 @@
   "body_links": {
     "wikilinks_count": 11,
     "wikilinks": [
-      "JapanFG/INDEX",
       "aozora-bank",
       "banking/INDEX",
       "banking/au-jibun-bank",
@@ -63,10 +62,10 @@
       "banking/paypay-bank",
       "banking/rakuten-bank",
       "gmo-coin",
+      "payment-firms/INDEX",
       "regional-banks/ssnb"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/aozora-bank",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/au-jibun-bank",
@@ -76,15 +75,16 @@
       "https://finwiki.zksc.io/banking/paypay-bank",
       "https://finwiki.zksc.io/banking/rakuten-bank",
       "https://finwiki.zksc.io/gmo-coin",
+      "https://finwiki.zksc.io/payment-firms/INDEX",
       "https://finwiki.zksc.io/regional-banks/ssnb"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5240,
-    "word_like_tokens": 923,
+    "nonspace_chars": 5252,
+    "word_like_tokens": 925,
     "inbound_wikilinks_count": 15,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

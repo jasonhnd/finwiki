@@ -1,5 +1,5 @@
 ---
-source: japanfg/aplus
+source: card-issuers/aplus
 source_hash: f3f9059229cfb656
 lang: ja
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-06-02T14:01:20.945Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の下に位置づける。隣接する文脈は [[banking/INDEX|banking index]]、より広いシステム境界は [[securities/INDEX|securities index]] とあわせて読む。
+この項目は [[card-issuers/INDEX|card-issuers INDEX]] の下に位置づける。隣接する文脈は [[banking/INDEX|banking index]]、より広いシステム境界は [[securities/INDEX|securities index]] とあわせて読む。
 
 ## 要約
 

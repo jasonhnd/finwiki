@@ -33,7 +33,7 @@
       "オリックス株式会社 統合報告書 / IR (2024-2025)"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 第一ライフグループ / 旧 第一生命 HD for peer / contrast context and insurance index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under life-insurers INDEX. Read it against 第一ライフグループ / 旧 第一生命 HD for peer / contrast context and insurance index for the broader system / regulatory boundary.",
   "headings": [
     "オリックス生命保険",
     "Wiki route",
@@ -49,12 +49,12 @@
   "body_links": {
     "wikilinks_count": 15,
     "wikilinks": [
-      "JapanFG/INDEX",
       "aflac-japan",
       "axa-japan",
       "dai-ichi-life",
       "insurance/INDEX",
       "kampo-life",
+      "life-insurers/INDEX",
       "life-insurers/dai-ichi-life",
       "lifenet",
       "meiji-yasuda",
@@ -66,12 +66,12 @@
       "sumitomo-life"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/aflac-japan",
       "https://finwiki.zksc.io/axa-japan",
       "https://finwiki.zksc.io/dai-ichi-life",
       "https://finwiki.zksc.io/insurance/INDEX",
       "https://finwiki.zksc.io/kampo-life",
+      "https://finwiki.zksc.io/life-insurers/INDEX",
       "https://finwiki.zksc.io/life-insurers/dai-ichi-life",
       "https://finwiki.zksc.io/lifenet",
       "https://finwiki.zksc.io/meiji-yasuda",
@@ -86,9 +86,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3467,
-    "word_like_tokens": 477,
+    "nonspace_chars": 3479,
+    "word_like_tokens": 479,
     "inbound_wikilinks_count": 6,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

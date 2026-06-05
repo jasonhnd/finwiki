@@ -1,5 +1,5 @@
 ---
-source: japanfg/fm-global-japan
+source: non-life-insurers/fm-global-japan
 source_hash: b5ab1cac2a4da3b6
 lang: ja
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-02T14:25:12.445Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の下に位置づけられる。外資系商業損害保険会社の比較文脈では [[non-life-insurers/lloyd-japan|Lloyd's Japan]] と [[non-life-insurers/chubb-insurance-japan|Chubb Insurance Japan]] を、日本の損害保険市場全体と規制境界では [[insurance/INDEX|insurance index]] を参照する。
+この項目は [[non-life-insurers/INDEX|non-life-insurers INDEX]] の下に位置づけられる。外資系商業損害保険会社の比較文脈では [[non-life-insurers/lloyd-japan|Lloyd's Japan]] と [[non-life-insurers/chubb-insurance-japan|Chubb Insurance Japan]] を、日本の損害保険市場全体と規制境界では [[insurance/INDEX|insurance index]] を参照する。
 
 ## 要約
 

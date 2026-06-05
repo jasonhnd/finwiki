@@ -1,5 +1,5 @@
 ---
-source: japanfg/mizuho-trust-bank
+source: trust-banks/mizuho-trust-bank
 source_hash: cf24c105ee592f70
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T23:59:49.392Z
 
 ## Wiki 路径
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可结合 [[trust-banks/mitsubishi-ufj-trust-bank|三菱UFJ信託銀行 (MUTB)]] 阅读，以获得同业 / 对比语境；也可结合 [[banking/INDEX|banking index]] 阅读，以理解更大的系统 / 监管边界。
+本条目位于 [[trust-banks/INDEX|trust-banks INDEX]] 之下。可结合 [[trust-banks/mitsubishi-ufj-trust-bank|三菱UFJ信託銀行 (MUTB)]] 阅读，以获得同业 / 对比语境；也可结合 [[banking/INDEX|banking index]] 阅读，以理解更大的系统 / 监管边界。
 
 ## TL;DR
 

@@ -1,5 +1,5 @@
 ---
-source: japanfg/hs-insurance
+source: non-life-insurers/hs-insurance
 source_hash: a3fbb65a371d0f91
 lang: zh
 status: machine
@@ -10,7 +10,7 @@ translated_at: 2026-05-31T15:29:03.892Z
 
 # HS Insurance / H.S. Non-Life Insurance
 
-Wiki 路径：[[JapanFG/INDEX]] -> [[insurance/INDEX]] -> [[non-life-insurers/hs-insurance]]
+Wiki 路径：[[non-life-insurers/INDEX]] -> [[insurance/INDEX]] -> [[non-life-insurers/hs-insurance]]
 
 ## 概览
 

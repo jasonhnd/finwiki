@@ -1,5 +1,5 @@
 ---
-source: japanfg/hamagin-research
+source: regional-banks/hamagin-research
 source_hash: 9245b687c1e2d20c
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:25:12.407Z
 
 ## ウィキ上の位置づけ
 
-本項目は [[JapanFG/INDEX|JapanFG index]] の配下で、[[concordia-fg|横浜フィナンシャルグループ (旧コンコルディア FG)]] における FG 子会社シンクタンク / 調査事業会社のアンカーとして置く。親銀行 [[yokohama-bank|横浜銀行]] と兄弟会社 [[yokohama-bank-leasing|横浜銀リース]] と併読する。地域銀行系シンクタンクの同業文脈では、野村総研、三菱総研、NRI などの大手シンクタンクおよびより広い [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]] と対比する。制度・規制境界は [[banking/INDEX|banking index]] を参照。
+本項目は [[regional-banks/INDEX|regional-banks INDEX]] の配下で、[[concordia-fg|横浜フィナンシャルグループ (旧コンコルディア FG)]] における FG 子会社シンクタンク / 調査事業会社のアンカーとして置く。親銀行 [[yokohama-bank|横浜銀行]] と兄弟会社 [[yokohama-bank-leasing|横浜銀リース]] と併読する。地域銀行系シンクタンクの同業文脈では、野村総研、三菱総研、NRI などの大手シンクタンクおよびより広い [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]] と対比する。制度・規制境界は [[banking/INDEX|banking index]] を参照。
 
 ## 要約
 
@@ -108,7 +108,7 @@ translated_at: 2026-06-02T14:25:12.407Z
 - [[concordia-fg]] · [[yokohama-bank]] · [[higashi-nippon-bank]] · [[yokohama-bank-leasing]]
 - [[mebuki-securities]] · [[ffg-securities]] · [[ibank-marketing]] · [[mebuki-lease]]
 - [[banking/regional-bank-consolidation-pattern]] · [[banking/regional-bank-api-digital-partnership-route]] · [[banking/INDEX]]
-- [[JapanFG/INDEX|JapanFG index]]
+- [[regional-banks/INDEX|regional-banks INDEX]]
 
 ## 出典
 

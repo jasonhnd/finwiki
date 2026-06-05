@@ -1,5 +1,5 @@
 ---
-source: japanfg/bnpl-landscape
+source: payment-firms/bnpl-landscape
 source_hash: 72f658c26d821a6e
 lang: ja
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-02T14:01:20.926Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] に属する。ピア / 対比の文脈では [[card-issuers/rakuten-card|楽天カード (Rakuten Card)]] を、より広いシステム / 規制境界では [[payments/INDEX|payments index]] を参照する。
+この項目は [[payment-firms/INDEX|payment-firms INDEX]] に属する。ピア / 対比の文脈では [[card-issuers/rakuten-card|楽天カード (Rakuten Card)]] を、より広いシステム / 規制境界では [[payments/INDEX|payments index]] を参照する。
 
 ## 要約
 

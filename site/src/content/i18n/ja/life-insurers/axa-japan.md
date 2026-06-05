@@ -1,5 +1,5 @@
 ---
-source: japanfg/axa-japan
+source: life-insurers/axa-japan
 source_hash: 604573cfd8d56b39
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:01:20.960Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に位置する。ピア比較 / 対照文脈は [[life-insurers/prudential-japan|プルデンシャル・ジブラルタ・ファイナンシャル (Prudential Japan)]]、より広いシステム / 規制上の境界は [[insurance/INDEX|insurance index]] と照合して読む。
+この項目は [[life-insurers/INDEX|life-insurers INDEX]] の配下に位置する。ピア比較 / 対照文脈は [[life-insurers/prudential-japan|プルデンシャル・ジブラルタ・ファイナンシャル (Prudential Japan)]]、より広いシステム / 規制上の境界は [[insurance/INDEX|insurance index]] と照合して読む。
 
 ## 要約
 

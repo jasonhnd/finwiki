@@ -1,5 +1,5 @@
 ---
-source: japanfg/zaim
+source: payment-firms/zaim
 source_hash: 7f0983ee221a0109
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.173Z
 
 ## Wiki route
 
-This entry sits under the [[JapanFG/INDEX|JapanFG index]] as a **PFM (Personal Financial Management)** app sitting next to the much larger [[payment-firms/money-forward|Money Forward]] ME peer. Read it with the [[payment-firms/bnpl-landscape|Japan BNPL landscape]] for adjacent consumer-finance context, the [[payment-firms/freee|freee]] / [[payment-firms/smartbank|SmartBank]] sibling household-finance set, and the [[megabanks/au-fh|au フィナンシャル HD]] corporate context for the KDDI-affiliated branch story. The [[payments/japan-bnpl-credit-purchase-boundary|BNPL and credit-purchase boundary]] and [[payments/credit-purchase-card-operators-japan-index|credit-purchase registry]] page sit one layer down the regulatory stack, while the [[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]] explains why PFM apps depend on account-API economics.
+This entry sits under the [[payment-firms/INDEX|payment-firms INDEX]] as a **PFM (Personal Financial Management)** app sitting next to the much larger [[payment-firms/money-forward|Money Forward]] ME peer. Read it with the [[payment-firms/bnpl-landscape|Japan BNPL landscape]] for adjacent consumer-finance context, the [[payment-firms/freee|freee]] / [[payment-firms/smartbank|SmartBank]] sibling household-finance set, and the [[megabanks/au-fh|au フィナンシャル HD]] corporate context for the KDDI-affiliated branch story. The [[payments/japan-bnpl-credit-purchase-boundary|BNPL and credit-purchase boundary]] and [[payments/credit-purchase-card-operators-japan-index|credit-purchase registry]] page sit one layer down the regulatory stack, while the [[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]] explains why PFM apps depend on account-API economics.
 
 ## TL;DR
 

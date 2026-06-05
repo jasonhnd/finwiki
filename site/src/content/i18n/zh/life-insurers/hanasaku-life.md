@@ -1,5 +1,5 @@
 ---
-source: japanfg/hanasaku-life
+source: life-insurers/hanasaku-life
 source_hash: cf12761edaaa55da
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T15:29:03.912Z
 
 ## Wiki 路径
 
-本条目位于 [[JapanFG/INDEX|JapanFG 索引]] 之下。可与 [[life-insurers/nanairo-life|Nanairo Life Insurance]]、[[life-insurers/medicare-life|Medicare Life]] 以及 [[insurance/INDEX|保险索引]] 对照阅读，用于理解日本大型寿险集团的代理渠道与医疗保障子品牌策略。
+本条目位于 [[life-insurers/INDEX|life-insurers INDEX]] 之下。可与 [[life-insurers/nanairo-life|Nanairo Life Insurance]]、[[life-insurers/medicare-life|Medicare Life]] 以及 [[insurance/INDEX|保险索引]] 对照阅读，用于理解日本大型寿险集团的代理渠道与医疗保障子品牌策略。
 
 ## TL;DR
 

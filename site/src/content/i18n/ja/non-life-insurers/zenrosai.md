@@ -1,5 +1,5 @@
 ---
-source: japanfg/zenrosai
+source: non-life-insurers/zenrosai
 source_hash: 2eb24dc4cd81b277
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T16:33:58.517Z
 
 ## ウィキ上の位置づけ
 
-このエントリは以下にあります[[JapanFG/INDEX|JapanFG index]]JA / JF / しんきん / しんくみ軸の外の**労働者/生協をベースとした互助会連合会**として。一緒に読む[[non-life-insurers/ja-kyosairen|JA 共済連]]農協共済ピアの場合、[[non-life-insurers/kyoritsu-fire-marine|共栄火災海上保険]]協力システムの損害隣接の場合、[[insurance/INDEX|insurance domain]]共済と保険の規制境界線について[[cooperative-banks/rokin-renraku|労働金庫連合会]]労働者協同組合金融の銀行業界の同業者向け。
+このエントリは以下にあります[[non-life-insurers/INDEX|non-life-insurers INDEX]]JA / JF / しんきん / しんくみ軸の外の**労働者/生協をベースとした互助会連合会**として。一緒に読む[[non-life-insurers/ja-kyosairen|JA 共済連]]農協共済ピアの場合、[[non-life-insurers/kyoritsu-fire-marine|共栄火災海上保険]]協力システムの損害隣接の場合、[[insurance/INDEX|insurance domain]]共済と保険の規制境界線について[[cooperative-banks/rokin-renraku|労働金庫連合会]]労働者協同組合金融の銀行業界の同業者向け。
 
 ## 要約
 
@@ -122,7 +122,7 @@ translated_at: 2026-06-02T16:33:58.517Z
 - [[insurance/INDEX|insurance domain]]
 - [[insurance/mutual-vs-stock-life-insurer]]
 - [[banking/cooperative-banking-japan]]
-- [[JapanFG/INDEX|JapanFG index]]
+- [[non-life-insurers/INDEX|non-life-insurers INDEX]]
 
 ## 出典
 

@@ -25,7 +25,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[securities-firms/aizawa-securities|アイザワ証券]] / [[securities-firms/iwai-cosmo-securities|岩井コスモ証券]] for peer mid-cap independent securities with Asian-emerging focus, [[securities-firms/marusan-securities|丸三証券]] for old-line independent broker context, and [[securities/INDEX|securities index]] for the broader market-structure boundary.
+This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it against [[securities-firms/aizawa-securities|アイザワ証券]] / [[securities-firms/iwai-cosmo-securities|岩井コスモ証券]] for peer mid-cap independent securities with Asian-emerging focus, [[securities-firms/marusan-securities|丸三証券]] for old-line independent broker context, and [[securities/INDEX|securities index]] for the broader market-structure boundary.
 
 ## TL;DR
 
@@ -112,7 +112,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[securit
 - [[securities-firms/marusan-securities|丸三証券]] — 関東基盤老舗独立中堅証券ピア
 - [[securities-firms/aizawa-sg|アイザワ証券グループ]] — 親 HD（差別化ピア）
 - [[securities-firms/tokai-tokyo-securities|東海東京証券]] — 東海基盤独立中堅証券ピア
-- [[JapanFG/INDEX|JapanFG index]]
+- [[securities-firms/INDEX|securities-firms INDEX]]
 - [[securities/INDEX|Securities domain index]]
 
 ## Sources

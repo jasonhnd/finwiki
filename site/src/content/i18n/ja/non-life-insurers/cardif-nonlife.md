@@ -1,5 +1,5 @@
 ---
-source: japanfg/cardif-nonlife
+source: non-life-insurers/cardif-nonlife
 source_hash: b0737a58c150f879
 lang: ja
 status: machine
@@ -27,7 +27,7 @@ translated_at: 2026-06-02T14:01:20.933Z
 
 以下の参照キーは原文の占位符を出現順のまま保持したものである。翻訳時に削除、改変、統合、並べ替えを行わない。
 
-- [[JapanFG/INDEX]]
+- [[non-life-insurers/INDEX]]
 - [[insurance/INDEX]]
 - [[non-life-insurers/cardif-nonlife]]
 - [[life-insurers/cardif-life]]

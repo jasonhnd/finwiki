@@ -1,5 +1,5 @@
 ---
-source: japanfg/agricultural-bank-of-china-japan
+source: foreign-financial-institutions/agricultural-bank-of-china-japan
 source_hash: 533c115da6743d43
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T07:28:06.140Z
 
 ## Wiki route
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 下。可结合 [[foreign-financial-institutions/icbc-japan|中国工商銀行 東京支店]] 阅读同业 / 对比背景，并结合 [[banking/INDEX|banking index]] 阅读更广泛的体系 / 监管边界。
+本条目位于 [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]] 下。可结合 [[foreign-financial-institutions/icbc-japan|中国工商銀行 東京支店]] 阅读同业 / 对比背景，并结合 [[banking/INDEX|banking index]] 阅读更广泛的体系 / 监管边界。
 
 ## TL;DR
 

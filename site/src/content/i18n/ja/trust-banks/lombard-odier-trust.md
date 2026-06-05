@@ -1,5 +1,5 @@
 ---
-source: japanfg/lombard-odier-trust
+source: trust-banks/lombard-odier-trust
 source_hash: a4ea50d48e4ddfc3
 lang: ja
 status: machine
@@ -10,7 +10,7 @@ translated_at: 2026-06-02T14:54:39.098Z
 
 # ロンバー・オディエ信託
 
-ウィキ上の位置づけ: [[JapanFG/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/lombard-odier-trust]]
+ウィキ上の位置づけ: [[trust-banks/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/lombard-odier-trust]]
 
 ## 概要
 

@@ -37,7 +37,7 @@
       "金融商品取引法 第 66 条の 27 以下"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 日本格付研究所 (JCR) for peer / contrast context and 金融庁 for the broader regulatory boundary.",
+  "summary": "This entry sits under financial-regulators INDEX. Read it against 日本格付研究所 (JCR) for peer / contrast context and 金融庁 for the broader regulatory boundary.",
   "headings": [
     "格付投資情報センター (R&I)",
     "Wiki route",
@@ -53,7 +53,7 @@
   "body_links": {
     "wikilinks_count": 8,
     "wikilinks": [
-      "JapanFG/INDEX",
+      "financial-regulators/INDEX",
       "financial-regulators/fsa",
       "financial-regulators/japan-exchange-group",
       "financial-regulators/jcr",
@@ -63,7 +63,7 @@
       "megabanks/smfg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/financial-regulators/INDEX",
       "https://finwiki.zksc.io/financial-regulators/fsa",
       "https://finwiki.zksc.io/financial-regulators/japan-exchange-group",
       "https://finwiki.zksc.io/financial-regulators/jcr",
@@ -76,9 +76,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3486,
-    "word_like_tokens": 591,
+    "nonspace_chars": 3538,
+    "word_like_tokens": 595,
     "inbound_wikilinks_count": 12,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

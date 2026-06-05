@@ -1,5 +1,5 @@
 ---
-source: japanfg/aizawa-sg
+source: securities-firms/aizawa-sg
 source_hash: be5e572e8d314df8
 lang: ja
 status: machine
@@ -27,7 +27,7 @@ translated_at: 2026-06-02T14:01:20.931Z
 
 以下の参照キーは原文の占位符を出現順のまま保持したものである。翻訳時に削除、改変、統合、並べ替えを行わない。
 
-- [[JapanFG/INDEX|JapanFG index]]
+- [[securities-firms/INDEX|securities-firms INDEX]]
 - [[securities-firms/okasan-sg|岡三証券グループ (Okasan Securities Group)]]
 - [[securities/INDEX|securities index]]
 - 8708

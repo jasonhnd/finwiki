@@ -1,5 +1,5 @@
 ---
-source: japanfg/akatsuki-hq
+source: securities-firms/akatsuki-hq
 source_hash: 0be163d16c08e2de
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T11:13:44.902Z
 
 ## 维基路线
 
-该条目位于[[JapanFG/INDEX|JapanFG index]]。阅读它反对[[securities-firms/nomura-hd|野村ホールディングス (Nomura HD)]]对于同行/对比上下文和[[securities/INDEX|securities index]]适用于更广泛的系统/监管边界。
+该条目位于[[securities-firms/INDEX|securities-firms INDEX]]。阅读它反对[[securities-firms/nomura-hd|野村ホールディングス (Nomura HD)]]对于同行/对比上下文和[[securities/INDEX|securities index]]适用于更广泛的系统/监管边界。
 
 ## 长话短说
 

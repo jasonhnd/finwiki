@@ -12,7 +12,7 @@ translated_at: 2026-06-01T03:31:12.279Z
 
 ## Wiki route
 
-This entry sits under [[retail/INDEX|retail index]] as the **finance-stack deep dive** for [[retail/seven-and-i-hd|Seven & i Holdings]], extending the parent retail-group page with the full subsidiary map (7-Bank holdco perimeter, Seven Card Service, Seven CS Card Service, Seven Payment Service, nanaco). Pair it with [[retail/aeon-group|AEON Group]] and the comparable [[retail/lawson-mitsubishi-corporation-tie-up-2024-deep|Lawson + Mitsubishi 2024 tie-up]] for the CVS / GMS finance trichotomy, [[retail/japan-retail-financial-distribution-wedge-matrix|Japan retail financial-distribution wedge matrix]] for the cross-case wedge layout, [[regional-banks/seven-bank|Seven Bank]] for the bank-license layer, [[loyalty/japan-points-landscape|Japan points landscape]] for nanaco point's position, [[payments/japan-code-payment-operator-2025-market-share-matrix|Japan code-payment operator 2025 market share matrix]] for the wallet-acceptance side, and [[JapanFG/INDEX|JapanFG index]] for the regulated-entity context.
+This entry sits under [[retail/INDEX|retail index]] as the **finance-stack deep dive** for [[retail/seven-and-i-hd|Seven & i Holdings]], extending the parent retail-group page with the full subsidiary map (7-Bank holdco perimeter, Seven Card Service, Seven CS Card Service, Seven Payment Service, nanaco). Pair it with [[retail/aeon-group|AEON Group]] and the comparable [[retail/lawson-mitsubishi-corporation-tie-up-2024-deep|Lawson + Mitsubishi 2024 tie-up]] for the CVS / GMS finance trichotomy, [[retail/japan-retail-financial-distribution-wedge-matrix|Japan retail financial-distribution wedge matrix]] for the cross-case wedge layout, [[regional-banks/seven-bank|Seven Bank]] for the bank-license layer, [[loyalty/japan-points-landscape|Japan points landscape]] for nanaco point's position, [[payments/japan-code-payment-operator-2025-market-share-matrix|Japan code-payment operator 2025 market share matrix]] for the wallet-acceptance side, and [[retail/INDEX|retail INDEX]] for the regulated-entity context.
 
 ## TL;DR
 
@@ -138,7 +138,6 @@ The structural takeaway: **Seven & i's finance arm is an "ATM infrastructure as 
 - [[payments/japan-code-payment-operator-2025-market-share-matrix|Japan code-payment operator 2025 market share matrix]]
 - [[payments/funds-transfer-vs-prepaid-boundary|funds-transfer vs prepaid boundary]]
 - [[payments/cashless-jp-landscape|Japan cashless payment landscape]]
-- [[JapanFG/INDEX|JapanFG index]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

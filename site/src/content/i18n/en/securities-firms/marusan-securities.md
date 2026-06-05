@@ -1,5 +1,5 @@
 ---
-source: japanfg/marusan-securities
+source: securities-firms/marusan-securities
 source_hash: 6051246d36944a74
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:59:49.330Z
 
 ## Wiki Route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[securities-firms/aizawa-sg|アイザワ証券グループ]] for peer / contrast context, [[securities/financial-instruments-business-operators-japan-index|FSA 金融商品取引業者 index]] for the regulatory-license layer, and [[financial-licenses/securities-license-stack|securities license stack]] for the FIEA license boundary.
+This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it against [[securities-firms/aizawa-sg|アイザワ証券グループ]] for peer / contrast context, [[securities/financial-instruments-business-operators-japan-index|FSA 金融商品取引業者 index]] for the regulatory-license layer, and [[financial-licenses/securities-license-stack|securities license stack]] for the FIEA license boundary.
 
 ## TL;DR
 

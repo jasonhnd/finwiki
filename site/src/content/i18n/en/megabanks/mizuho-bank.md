@@ -1,5 +1,5 @@
 ---
-source: japanfg/mizuho-bank
+source: megabanks/mizuho-bank
 source_hash: f2df63adbe7569e7
 lang: en
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T23:59:49.345Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[megabanks/mufg-bank|三菱UFJ銀行 (MUFG Bank)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+This entry sits under [[megabanks/INDEX|megabanks INDEX]]. Read it against [[megabanks/mufg-bank|三菱UFJ銀行 (MUFG Bank)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 

@@ -1,5 +1,5 @@
 ---
-source: japanfg/shintaku-kyokai
+source: financial-regulators/shintaku-kyokai
 source_hash: e2ecf780af3721f4
 lang: zh
 status: machine
@@ -15,7 +15,7 @@ translated_at: 2026-06-01T02:31:57.158Z
 
 ## Wiki route
 
-本条目位于[[JapanFG/INDEX|JapanFG index]]之下。银行侧行业团体栈可与[[financial-regulators/zenginkyo|Japanese Bankers Association]]、[[financial-regulators/zenchugin-kyo|Regional Banks Association of Japan]]、[[financial-regulators/dai2-chigin-kyo|Second Association of Regional Banks]]、[[financial-regulators/zenshin-kyo|Zenshin-kyō]]对读；涉及信托型资产管理产品的证券业务线可参见[[financial-regulators/jsda|JSDA]]。信托公司全集参见[[trust-banks/trust-companies-japan-index|Japan trust companies registry index]]；法定背景位于[[financial-licenses/INDEX]]；存款人保护对应项是[[financial-regulators/yokin-hoken-kiko|Deposit Insurance Corporation of Japan]]；更广的运营主体宇宙位于[[banking/INDEX]]。
+本条目位于[[financial-regulators/INDEX|financial-regulators INDEX]]之下。银行侧行业团体栈可与[[financial-regulators/zenginkyo|Japanese Bankers Association]]、[[financial-regulators/zenchugin-kyo|Regional Banks Association of Japan]]、[[financial-regulators/dai2-chigin-kyo|Second Association of Regional Banks]]、[[financial-regulators/zenshin-kyo|Zenshin-kyō]]对读；涉及信托型资产管理产品的证券业务线可参见[[financial-regulators/jsda|JSDA]]。信托公司全集参见[[trust-banks/trust-companies-japan-index|Japan trust companies registry index]]；法定背景位于[[financial-licenses/INDEX]]；存款人保护对应项是[[financial-regulators/yokin-hoken-kiko|Deposit Insurance Corporation of Japan]]；更广的运营主体宇宙位于[[banking/INDEX]]。
 
 ## 法律路径 / 法定位置
 
@@ -53,7 +53,7 @@ JapanFG 条目中的信托术语常引用协会统计却未点名协会。本页
 
 ## Related
 
-- [[JapanFG/INDEX|JapanFG index]]
+- [[financial-regulators/INDEX|financial-regulators INDEX]]
 - [[trust-banks/trust-companies-japan-index|Japan trust companies registry index]]
 - [[financial-regulators/zenginkyo|Japanese Bankers Association]]
 - [[financial-regulators/zenchugin-kyo|Regional Banks Association of Japan]]

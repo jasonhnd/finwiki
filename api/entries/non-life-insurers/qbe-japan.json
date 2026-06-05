@@ -39,7 +39,7 @@
       "QBE Insurance Group Annual Report (公開版)"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against Lloyd's Japan and FM Global Japan for foreign-specialty-insurer peer context, and insurance index for the broader Japan non-life market system / regulatory boundary.",
+  "summary": "This entry sits under non-life-insurers INDEX. Read it against Lloyd's Japan and FM Global Japan for foreign-specialty-insurer peer context, and insurance index for the broader Japan non-life market system / regulatory boundary.",
   "headings": [
     "QBE Japan / QBEインシュアランス・ジャパン",
     "Wiki route",
@@ -53,12 +53,12 @@
   "body_links": {
     "wikilinks_count": 11,
     "wikilinks": [
-      "JapanFG/INDEX",
       "financial-licenses/insurance-license-and-solvency",
       "insurance/INDEX",
       "insurance/global-solvency-framework-comparison-matrix",
       "insurance/japan-nonlife-big-three",
       "insurance/natcat-reinsurance-japan",
+      "non-life-insurers/INDEX",
       "non-life-insurers/aig-japan",
       "non-life-insurers/allianz-fire-marine-japan",
       "non-life-insurers/chubb-insurance-japan",
@@ -66,12 +66,12 @@
       "non-life-insurers/lloyd-japan"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/financial-licenses/insurance-license-and-solvency",
       "https://finwiki.zksc.io/insurance/INDEX",
       "https://finwiki.zksc.io/insurance/global-solvency-framework-comparison-matrix",
       "https://finwiki.zksc.io/insurance/japan-nonlife-big-three",
       "https://finwiki.zksc.io/insurance/natcat-reinsurance-japan",
+      "https://finwiki.zksc.io/non-life-insurers/INDEX",
       "https://finwiki.zksc.io/non-life-insurers/aig-japan",
       "https://finwiki.zksc.io/non-life-insurers/allianz-fire-marine-japan",
       "https://finwiki.zksc.io/non-life-insurers/chubb-insurance-japan",
@@ -82,9 +82,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4391,
-    "word_like_tokens": 694,
+    "nonspace_chars": 4411,
+    "word_like_tokens": 698,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

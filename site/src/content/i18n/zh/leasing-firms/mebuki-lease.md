@@ -1,5 +1,5 @@
 ---
-source: japanfg/mebuki-lease
+source: leasing-firms/mebuki-lease
 source_hash: 79973862e4aebd5b
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:59:49.389Z
 
 ## Wiki 路径
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 下，是 [[mebuki-fg|めぶき FG]] 的 FG 子公司 leasing operating-company 锚点。可与母体 operating banks [[joyo-bank|常陽銀行]] / [[ashikaga-bank|足利銀行]] 以及兄弟子公司 [[mebuki-securities|めぶき証券]] 对读。同业比较包括 [[hokkaido-lease|北海道リース]]（北洋 / 北海道银行系）以及大型 leasing company [[mitsubishi-hc-capital|三菱 HC キャピタル]] / [[mizuho-lease|みずほリース]]。更广的系统路径见 [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]] 和 [[banking/INDEX|banking index]]。
+本条目位于 [[leasing-firms/INDEX|leasing-firms INDEX]] 下，是 [[mebuki-fg|めぶき FG]] 的 FG 子公司 leasing operating-company 锚点。可与母体 operating banks [[joyo-bank|常陽銀行]] / [[ashikaga-bank|足利銀行]] 以及兄弟子公司 [[mebuki-securities|めぶき証券]] 对读。同业比较包括 [[hokkaido-lease|北海道リース]]（北洋 / 北海道银行系）以及大型 leasing company [[mitsubishi-hc-capital|三菱 HC キャピタル]] / [[mizuho-lease|みずほリース]]。更广的系统路径见 [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]] 和 [[banking/INDEX|banking index]]。
 
 ## TL;DR
 
@@ -119,7 +119,7 @@ translated_at: 2026-05-31T23:59:49.389Z
 - [[mitsubishi-hc-capital]] · [[smfl]] · [[mizuho-lease]] · [[fuyo-lease]] · [[tokyo-century]] · [[ricoh-leasing]] · [[hokkaido-lease]]
 - [[ja-mitsui-leasing]] · [[nec-leasing]] · [[showa-leasing]]
 - [[banking/regional-bank-consolidation-pattern]] · [[banking/INDEX]]
-- [[JapanFG/INDEX|JapanFG index]]
+- [[leasing-firms/INDEX|leasing-firms INDEX]]
 
 ## Sources
 

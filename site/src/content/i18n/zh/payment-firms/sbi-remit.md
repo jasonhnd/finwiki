@@ -1,5 +1,5 @@
 ---
-source: japanfg/sbi-remit
+source: payment-firms/sbi-remit
 source_hash: df20abd4e2724d31
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T00:41:50.429Z
 
 ## Wiki 路径
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可与 [[payment-firms/wise-payments-japan|Wise Payments Japan]] 对读以理解同业 / 对比语境，并与 [[payments/INDEX|payments index]] 对读以把握更广的制度 / 监管边界。
+本条目位于 [[payment-firms/INDEX|payment-firms INDEX]] 之下。可与 [[payment-firms/wise-payments-japan|Wise Payments Japan]] 对读以理解同业 / 对比语境，并与 [[payments/INDEX|payments index]] 对读以把握更广的制度 / 监管边界。
 
 ## TL;DR
 

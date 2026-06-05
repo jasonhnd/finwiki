@@ -35,7 +35,7 @@
       "Lombard Odier group profile: https://www.lombardodier.com/ja/home/about-us/la-maison.html"
     ]
   },
-  "summary": "Wiki route: JapanFG/INDEX -> trust-banks/trust-companies-japan-index -> trust-banks/lombard-odier-trust",
+  "summary": "Wiki route: trust-banks/INDEX -> trust-banks/trust-companies-japan-index -> trust-banks/lombard-odier-trust",
   "headings": [
     "Lombard Odier Trust Japan / ロンバー・オディエ信託",
     "Overview",
@@ -50,18 +50,18 @@
     "wikilinks_count": 7,
     "wikilinks": [
       "INDEX",
-      "JapanFG/INDEX",
       "financial-licenses/foreign-financial-group-adjacent-licenses",
       "financial-licenses/securities-license-stack",
+      "trust-banks/INDEX",
       "trust-banks/lgt-wealth-management-trust",
       "trust-banks/lombard-odier-trust",
       "trust-banks/trust-companies-japan-index"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/financial-licenses/foreign-financial-group-adjacent-licenses",
       "https://finwiki.zksc.io/financial-licenses/securities-license-stack",
+      "https://finwiki.zksc.io/trust-banks/INDEX",
       "https://finwiki.zksc.io/trust-banks/lgt-wealth-management-trust",
       "https://finwiki.zksc.io/trust-banks/lombard-odier-trust",
       "https://finwiki.zksc.io/trust-banks/trust-companies-japan-index"
@@ -70,9 +70,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2545,
-    "word_like_tokens": 404,
+    "nonspace_chars": 2549,
+    "word_like_tokens": 405,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

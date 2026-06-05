@@ -35,7 +35,7 @@
       "https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it with payments index for adjacent context and Funds transfer vs prepaid boundary in Japan for the broader system boundary.",
+  "summary": "This entry sits under card-issuers INDEX. Read it with payments index for adjacent context and Funds transfer vs prepaid boundary in Japan for the broader system boundary.",
   "headings": [
     "セブン・カードサービス (Seven Card Service)",
     "Wiki route",
@@ -49,7 +49,7 @@
   "body_links": {
     "wikilinks_count": 9,
     "wikilinks": [
-      "JapanFG/INDEX",
+      "card-issuers/INDEX",
       "card-issuers/aeon-financial-service",
       "card-issuers/ucs-card",
       "loyalty/japan-points-landscape",
@@ -60,7 +60,7 @@
       "retail/seven-and-i-hd"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/card-issuers/INDEX",
       "https://finwiki.zksc.io/card-issuers/aeon-financial-service",
       "https://finwiki.zksc.io/card-issuers/ucs-card",
       "https://finwiki.zksc.io/loyalty/japan-points-landscape",
@@ -74,9 +74,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2103,
-    "word_like_tokens": 345,
+    "nonspace_chars": 2113,
+    "word_like_tokens": 347,
     "inbound_wikilinks_count": 15,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

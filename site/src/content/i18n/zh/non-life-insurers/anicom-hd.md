@@ -1,5 +1,5 @@
 ---
-source: japanfg/anicom-hd
+source: non-life-insurers/anicom-hd
 source_hash: 511cd11fc25ed860
 lang: zh
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-05-31T11:13:44.940Z
 
 ## 维基路线
 
-该条目位于 [[JapanFG/INDEX|JapanFG index]] 下。使用 [[insurance/INDEX|insurance index]] 来读取相邻上下文，使用 [[financial-licenses/INDEX|JapanFG index]] 来读取更广泛的系统边界。
+该条目位于 [[non-life-insurers/INDEX|non-life-insurers INDEX]] 下。使用 [[insurance/INDEX|insurance index]] 来读取相邻上下文，使用 [[financial-licenses/INDEX|JapanFG index]] 来读取更广泛的系统边界。
 
 ## 长篇大论；博士
 

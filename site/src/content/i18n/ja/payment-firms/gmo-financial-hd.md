@@ -1,5 +1,5 @@
 ---
-source: japanfg/gmo-financial-hd
+source: payment-firms/gmo-financial-hd
 source_hash: c5bd3a4a46e4ede0
 lang: ja
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-02T14:25:12.421Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の下に置く。[[payment-firms/rakuten-fg|楽天グループ金融事業 (Rakuten FG)]] は比較対象の文脈、[[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] は制度全体と規制境界の文脈として併読する。
+この項目は [[payment-firms/INDEX|payment-firms INDEX]] の下に置く。[[payment-firms/rakuten-fg|楽天グループ金融事業 (Rakuten FG)]] は比較対象の文脈、[[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] は制度全体と規制境界の文脈として併読する。
 
 ## 要約
 

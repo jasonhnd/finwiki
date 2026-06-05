@@ -1,5 +1,5 @@
 ---
-source: japanfg/marubeni-financial-services
+source: trading-company-finance/marubeni-financial-services
 source_hash: 95170397741da394
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:59:49.312Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[leasing-firms/mizuho-lease|Mizuho Leasing]] and [[leasing-firms/fuyo-lease|Fuyo General Lease]] for leasing-sector context. For peer trading-house group-treasury arms, see [[trading-company-finance/mitsubishi-corp-finance|Mitsubishi Corporation Financial Services]], [[trading-company-finance/mitsui-bussan-financial-services|Mitsui & Co. Financial Services]], [[trading-company-finance/sumitomo-corp-financial-management|Sumitomo Corporation Financial Management]], and [[trading-company-finance/itochu-finance|ITOCHU Finance]]. See [[banking/INDEX|banking index]] for the broader regulatory boundary.
+This entry sits under [[trading-company-finance/INDEX|trading-company-finance INDEX]]. Read it against [[leasing-firms/mizuho-lease|Mizuho Leasing]] and [[leasing-firms/fuyo-lease|Fuyo General Lease]] for leasing-sector context. For peer trading-house group-treasury arms, see [[trading-company-finance/mitsubishi-corp-finance|Mitsubishi Corporation Financial Services]], [[trading-company-finance/mitsui-bussan-financial-services|Mitsui & Co. Financial Services]], [[trading-company-finance/sumitomo-corp-financial-management|Sumitomo Corporation Financial Management]], and [[trading-company-finance/itochu-finance|ITOCHU Finance]]. See [[banking/INDEX|banking index]] for the broader regulatory boundary.
 
 ## 1. Company Overview
 

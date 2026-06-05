@@ -1,5 +1,5 @@
 ---
-source: japanfg/western-union-japan
+source: payment-firms/western-union-japan
 source_hash: d9434c45e4f71c3d
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-01T02:31:57.132Z
 
 ## Wiki 路径
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可结合 [[payment-firms/wise-payments-japan|Wise Payments Japan]] 作为同业 / 对照背景，并结合 [[payments/INDEX|payments index]] 理解更广泛的制度 / 监管边界。
+本条目位于 [[payment-firms/INDEX|payment-firms INDEX]] 之下。可结合 [[payment-firms/wise-payments-japan|Wise Payments Japan]] 作为同业 / 对照背景，并结合 [[payments/INDEX|payments index]] 理解更广泛的制度 / 监管边界。
 
 ## 摘要
 

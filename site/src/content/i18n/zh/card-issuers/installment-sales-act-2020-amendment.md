@@ -1,5 +1,5 @@
 ---
-source: japanfg/installment-sales-act-2020-amendment
+source: card-issuers/installment-sales-act-2020-amendment
 source_hash: 232696e3708817d9
 lang: zh
 status: machine

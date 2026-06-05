@@ -1,5 +1,5 @@
 ---
-source: japanfg/allianz-fire-marine-japan
+source: non-life-insurers/allianz-fire-marine-japan
 source_hash: 50b7cbfb708d061f
 lang: ja
 status: machine
@@ -10,7 +10,7 @@ translated_at: 2026-06-02T14:01:20.952Z
 
 # アリアンツ火災海上保険
 
-ウィキ上の位置づけ: [[JapanFG/INDEX]] → [[insurance/INDEX]] → [[non-life-insurers/allianz-fire-marine-japan]]
+ウィキ上の位置づけ: [[non-life-insurers/INDEX]] → [[insurance/INDEX]] → [[non-life-insurers/allianz-fire-marine-japan]]
 
 ## 概要
 

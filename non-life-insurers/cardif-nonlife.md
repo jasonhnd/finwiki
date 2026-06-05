@@ -17,7 +17,7 @@ sources:
 
 # Cardif Non-Life Japan / カーディフ損害保険
 
-Wiki route: [[JapanFG/INDEX]] -> [[insurance/INDEX]] -> [[non-life-insurers/cardif-nonlife]]
+Wiki route: [[non-life-insurers/INDEX]] -> [[insurance/INDEX]] -> [[non-life-insurers/cardif-nonlife]]
 
 ## Overview
 

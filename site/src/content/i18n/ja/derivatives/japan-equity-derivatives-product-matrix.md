@@ -16,7 +16,7 @@ translated_at: 2026-06-02T11:47:37.283Z
 
 ## ウィキ上の位置づけ
 
-このエントリは [[derivatives/INDEX|derivatives index]] の下に位置する。これは、看板となる指数デリバティブのレーンについては [[derivatives/nikkei-225-futures-options|Nikkei 225 futures and options]] と、広範市場のヘッジレーンについては [[derivatives/topix-futures|TOPIX futures]] と、ネームごとのオプショナリティレーンについては [[derivatives/japan-single-stock-options|Japan single-stock options]] と、ボラティリティサーフェスについては [[derivatives/nikkei-vix-jpx-vi-equivalent|Nikkei VIX / JPX-VI]] と、ストラクチャード / リテール販売レーンについては [[derivatives/structured-product-eb-knockin-japan-retail|Japan retail EB knock-in structured products]] と対をなす。現物市場は [[securities/INDEX|securities index]] と [[securities/japan-market-infrastructure-map|Japan market infrastructure map]] にあり、取引所 / CCP レイヤーは [[securities/japan-securities-clearing-corp|JSCC]]、ディーラーフランチャイズは [[banking/INDEX|banking index]] に加えて [[JapanFG/INDEX|JapanFG]] の証券会社ページである。
+このエントリは [[derivatives/INDEX|derivatives index]] の下に位置する。これは、看板となる指数デリバティブのレーンについては [[derivatives/nikkei-225-futures-options|Nikkei 225 futures and options]] と、広範市場のヘッジレーンについては [[derivatives/topix-futures|TOPIX futures]] と、ネームごとのオプショナリティレーンについては [[derivatives/japan-single-stock-options|Japan single-stock options]] と、ボラティリティサーフェスについては [[derivatives/nikkei-vix-jpx-vi-equivalent|Nikkei VIX / JPX-VI]] と、ストラクチャード / リテール販売レーンについては [[derivatives/structured-product-eb-knockin-japan-retail|Japan retail EB knock-in structured products]] と対をなす。現物市場は [[securities/INDEX|securities index]] と [[securities/japan-market-infrastructure-map|Japan market infrastructure map]] にあり、取引所 / CCP レイヤーは [[securities/japan-securities-clearing-corp|JSCC]]、ディーラーフランチャイズは [[banking/INDEX|banking index]] に加えて [[derivatives/INDEX|derivatives INDEX]] の証券会社ページである。
 
 ## なぜ株式デリバティブ商品マトリクスが重要なのか
 
@@ -227,7 +227,6 @@ translated_at: 2026-06-02T11:47:37.283Z
 - [[securities/japan-market-infrastructure-map]]
 - [[securities/japan-securities-clearing-corp]]
 - [[banking/INDEX]]
-- [[JapanFG/INDEX]]
 - [[INDEX|FinWiki index]]
 
 ## 出典

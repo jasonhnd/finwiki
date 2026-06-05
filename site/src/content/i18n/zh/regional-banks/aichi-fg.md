@@ -1,5 +1,5 @@
 ---
-source: japanfg/aichi-fg
+source: regional-banks/aichi-fg
 source_hash: b48a56cb3ba0d8d1
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T11:13:44.837Z
 
 ## 维基路线
 
-该条目位于 [[JapanFG/INDEX|JapanFG index]] 下。针对同行/对比上下文阅读 [[regional-banks/hachijuni-nagano-bank|八十二長野銀行]]，针对更广泛的系统/监管边界阅读 [[banking/INDEX|banking index]]。
+该条目位于 [[regional-banks/INDEX|regional-banks INDEX]] 下。针对同行/对比上下文阅读 [[regional-banks/hachijuni-nagano-bank|八十二長野銀行]]，针对更广泛的系统/监管边界阅读 [[banking/INDEX|banking index]]。
 
 ##TL;博士
 

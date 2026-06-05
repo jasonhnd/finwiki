@@ -1,5 +1,5 @@
 ---
-source: japanfg/zenrosai
+source: non-life-insurers/zenrosai
 source_hash: 2eb24dc4cd81b277
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T03:31:12.247Z
 
 ## 维基路线
 
-该条目位于 [[JapanFG/INDEX|JapanFG index]] 下，作为 JA / JF / shinkin / shinkumi 轴之外的 **工人/消费者合作社互助联盟**。与 [[non-life-insurers/ja-kyosairen|JA 共済連]] 一起阅读农业合作社 kyosai 同行，[[non-life-insurers/kyoritsu-fire-marine|共栄火災海上保険]] 合作社系统非生命邻接，[[insurance/INDEX|insurance domain]] 共济与保险监管边界，以及 [[cooperative-banks/rokin-renraku|労働金庫連合会]] 银行业工人合作金融同行。
+该条目位于 [[non-life-insurers/INDEX|non-life-insurers INDEX]] 下，作为 JA / JF / shinkin / shinkumi 轴之外的 **工人/消费者合作社互助联盟**。与 [[non-life-insurers/ja-kyosairen|JA 共済連]] 一起阅读农业合作社 kyosai 同行，[[non-life-insurers/kyoritsu-fire-marine|共栄火災海上保険]] 合作社系统非生命邻接，[[insurance/INDEX|insurance domain]] 共济与保险监管边界，以及 [[cooperative-banks/rokin-renraku|労働金庫連合会]] 银行业工人合作金融同行。
 
 ## 长篇大论；博士
 
@@ -119,7 +119,7 @@ translated_at: 2026-06-01T03:31:12.247Z
 -[[insurance/INDEX|insurance domain]]
 -[[insurance/mutual-vs-stock-life-insurer]]
 -[[banking/cooperative-banking-japan]]
--[[JapanFG/INDEX|JapanFG index]]
+-[[non-life-insurers/INDEX|non-life-insurers INDEX]]
 
 ## 来源
 

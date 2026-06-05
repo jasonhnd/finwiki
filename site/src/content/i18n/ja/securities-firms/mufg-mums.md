@@ -1,5 +1,5 @@
 ---
-source: japanfg/mufg-mums
+source: securities-firms/mufg-mums
 source_hash: d106a9851ba46310
 lang: ja
 status: machine
@@ -45,7 +45,7 @@ translated_at: 2026-06-02T14:54:39.055Z
 - 三菱UFJモルガン・スタンレー証券 を会社または制度単位で参照できる入口にする。
 - 上位グループ、同業他社、制度項目を混同せず、公開情報だけで説明する。
 - [[financial-regulators/jsda]] との比較により、営業地盤、規模、登録区分、監督境界の違いを確認できる。
-- [[JapanFG/INDEX|JapanFG INDEX]] を読む際の補助線として、地域金融、資本市場、保険、資産運用、商社系金融の接点を整理できる。
+- [[securities-firms/INDEX|securities-firms INDEX]] を読む際の補助線として、地域金融、資本市場、保険、資産運用、商社系金融の接点を整理できる。
 
 ## 関連
 

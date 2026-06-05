@@ -35,7 +35,7 @@
       "Allianz Japan disclosure 2025: https://commercial.allianz.com/content/dam/onemarketing/commercial/commercial/countries/japan/Allianz-Disclosure-2025.pdf"
     ]
   },
-  "summary": "Wiki route: JapanFG/INDEX -> insurance/INDEX -> non-life-insurers/allianz-fire-marine-japan",
+  "summary": "Wiki route: non-life-insurers/INDEX -> insurance/INDEX -> non-life-insurers/allianz-fire-marine-japan",
   "headings": [
     "Allianz Fire and Marine Japan / アリアンツ火災海上保険",
     "Overview",
@@ -49,21 +49,21 @@
   "body_links": {
     "wikilinks_count": 8,
     "wikilinks": [
-      "JapanFG/INDEX",
       "financial-licenses/insurance-license-and-solvency",
       "insurance/INDEX",
       "insurance/japan-nonlife-big-three",
       "life-insurers/axa-japan",
+      "non-life-insurers/INDEX",
       "non-life-insurers/aig-japan",
       "non-life-insurers/allianz-fire-marine-japan",
       "non-life-insurers/chubb-insurance-japan"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/financial-licenses/insurance-license-and-solvency",
       "https://finwiki.zksc.io/insurance/INDEX",
       "https://finwiki.zksc.io/insurance/japan-nonlife-big-three",
       "https://finwiki.zksc.io/life-insurers/axa-japan",
+      "https://finwiki.zksc.io/non-life-insurers/INDEX",
       "https://finwiki.zksc.io/non-life-insurers/aig-japan",
       "https://finwiki.zksc.io/non-life-insurers/allianz-fire-marine-japan",
       "https://finwiki.zksc.io/non-life-insurers/chubb-insurance-japan"
@@ -72,9 +72,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2448,
-    "word_like_tokens": 374,
+    "nonspace_chars": 2458,
+    "word_like_tokens": 376,
     "inbound_wikilinks_count": 11,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

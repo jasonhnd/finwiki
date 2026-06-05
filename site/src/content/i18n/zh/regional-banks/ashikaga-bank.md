@@ -1,5 +1,5 @@
 ---
-source: japanfg/ashikaga-bank
+source: regional-banks/ashikaga-bank
 source_hash: 797deb99226084e5
 lang: zh
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-05-31T11:13:44.928Z
 
 ## 维基路线
 
-该条目位于[[JapanFG/INDEX|JapanFG index]]下。对照[[regional-banks/yokohama-bank|横浜銀行]]了解同行/对比环境，对照[[banking/INDEX|banking index]]了解更广泛的系统/监管边界。
+该条目位于[[regional-banks/INDEX|regional-banks INDEX]]下。对照[[regional-banks/yokohama-bank|横浜銀行]]了解同行/对比环境，对照[[banking/INDEX|banking index]]了解更广泛的系统/监管边界。
 
 ##TL;博士
 

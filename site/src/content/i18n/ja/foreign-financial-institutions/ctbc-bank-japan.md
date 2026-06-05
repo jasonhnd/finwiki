@@ -1,5 +1,5 @@
 ---
-source: japanfg/ctbc-bank-japan
+source: foreign-financial-institutions/ctbc-bank-japan
 source_hash: 17a8643575453579
 lang: ja
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-06-02T14:01:20.970Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] 配下に位置づける。ピア比較・対照の文脈では [[foreign-financial-institutions/mega-icbc-japan|兆豐國際商業銀行 東京支店]]、より広い制度・規制境界については [[banking/INDEX|banking index]] とあわせて読む。
+この項目は [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]] 配下に位置づける。ピア比較・対照の文脈では [[foreign-financial-institutions/mega-icbc-japan|兆豐國際商業銀行 東京支店]]、より広い制度・規制境界については [[banking/INDEX|banking index]] とあわせて読む。
 
 ## 要約
 

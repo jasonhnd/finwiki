@@ -1,5 +1,5 @@
 ---
-source: japanfg/hitachi-capital
+source: leasing-firms/hitachi-capital
 source_hash: 2da2f50d7c4ef25c
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:25:12.407Z
 
 ## ウィキ上の位置づけ
 
-本項目は [[JapanFG/INDEX|JapanFG index]] の配下に置く。存続エンティティである [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル (現行統合エンティティ)]]（2021 以後の統合後）と、より広い制度・規制境界である [[banking/INDEX|banking index]] を併読する。日立側の歴史的エンティティとして、統合後の親グループ文脈は [[megabanks/mufg|MUFG]] とあわせて読む。
+本項目は [[leasing-firms/INDEX|leasing-firms INDEX]] の配下に置く。存続エンティティである [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル (現行統合エンティティ)]]（2021 以後の統合後）と、より広い制度・規制境界である [[banking/INDEX|banking index]] を併読する。日立側の歴史的エンティティとして、統合後の親グループ文脈は [[megabanks/mufg|MUFG]] とあわせて読む。
 
 ## 要約
 

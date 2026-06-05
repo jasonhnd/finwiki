@@ -44,19 +44,19 @@
     "wikilinks_count": 7,
     "wikilinks": [
       "INDEX",
-      "JapanFG/INDEX",
       "business/INDEX",
       "finance/INDEX",
       "fintech/japan-financial-regulation",
+      "non-profit/INDEX",
       "non-profit/japan-research-grant-map-2026",
       "policy-finance/INDEX"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/business/INDEX",
       "https://finwiki.zksc.io/finance/INDEX",
       "https://finwiki.zksc.io/fintech/japan-financial-regulation",
+      "https://finwiki.zksc.io/non-profit/INDEX",
       "https://finwiki.zksc.io/non-profit/japan-research-grant-map-2026",
       "https://finwiki.zksc.io/policy-finance/INDEX"
     ],
@@ -64,9 +64,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2557,
-    "word_like_tokens": 466,
+    "nonspace_chars": 2563,
+    "word_like_tokens": 468,
     "inbound_wikilinks_count": 11,
-    "last_modified": "2026-06-03"
+    "last_modified": "2026-06-06"
   }
 }

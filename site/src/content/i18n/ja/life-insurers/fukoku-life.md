@@ -1,5 +1,5 @@
 ---
-source: japanfg/fukoku-life
+source: life-insurers/fukoku-life
 source_hash: 185d0c09e9d9888e
 lang: ja
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-06-02T14:25:12.439Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に位置づける。[[life-insurers/asahi-life|朝日生命保険]] は比較対象の文脈、[[insurance/INDEX|insurance index]] は制度全体と規制上の境界を確認するために併読する。
+この項目は [[life-insurers/INDEX|life-insurers INDEX]] の配下に位置づける。[[life-insurers/asahi-life|朝日生命保険]] は比較対象の文脈、[[insurance/INDEX|insurance index]] は制度全体と規制上の境界を確認するために併読する。
 
 ## 要約
 

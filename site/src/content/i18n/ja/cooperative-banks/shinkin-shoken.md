@@ -1,5 +1,5 @@
 ---
-source: japanfg/shinkin-shoken
+source: cooperative-banks/shinkin-shoken
 source_hash: a8a47f1ff9052272
 lang: ja
 status: machine
@@ -14,7 +14,7 @@ translated_at: 2026-06-02T15:14:17.088Z
 
 ## ウィキ上の位置づけ
 
-本項目は[[JapanFG/INDEX|JapanFG index]]配下に置く。信用金庫中央システムを「中央金庫本体 / 業界団体 / ITインフラ / 証券・運用機能」の四本柱で見るため、[[cooperative-banks/shinkin-central|信金中央金庫]]（中央機関本体）、[[financial-regulators/zenshin-kyo|全国信用金庫協会]]（政策 / 業界団体）、[[cooperative-banks/shinkin-network-services|信金ネットワークサービス]]（IT共同インフラ）と併せて読む。JA中央システムにおける並行する証券レーンとして[[cooperative-banks/norinchukin|農林中央金庫]]グループの[[cooperative-banks/nochu-securities|農中信託銀行・農中証券]]と比較し、[[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]]は、より広い254信用金庫会員基盤の参照先として扱う。協同組織システム全体の比較アンカーは[[banking/japan-cooperative-banking-unified-federation-matrix|Japan cooperative-banking unified federation matrix]]である。
+本項目は[[cooperative-banks/INDEX|cooperative-banks INDEX]]配下に置く。信用金庫中央システムを「中央金庫本体 / 業界団体 / ITインフラ / 証券・運用機能」の四本柱で見るため、[[cooperative-banks/shinkin-central|信金中央金庫]]（中央機関本体）、[[financial-regulators/zenshin-kyo|全国信用金庫協会]]（政策 / 業界団体）、[[cooperative-banks/shinkin-network-services|信金ネットワークサービス]]（IT共同インフラ）と併せて読む。JA中央システムにおける並行する証券レーンとして[[cooperative-banks/norinchukin|農林中央金庫]]グループの[[cooperative-banks/nochu-securities|農中信託銀行・農中証券]]と比較し、[[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]]は、より広い254信用金庫会員基盤の参照先として扱う。協同組織システム全体の比較アンカーは[[banking/japan-cooperative-banking-unified-federation-matrix|Japan cooperative-banking unified federation matrix]]である。
 
 ## 要約
 
@@ -99,7 +99,7 @@ translated_at: 2026-06-02T15:14:17.088Z
 
 ## 関連
 
-- [[JapanFG/INDEX|JapanFG index]]
+- [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 - [[cooperative-banks/shinkin-central|信金中央金庫]]
 - [[financial-regulators/zenshin-kyo|全国信用金庫協会]]
 - [[cooperative-banks/shinkin-network-services|信金ネットワークサービス]]

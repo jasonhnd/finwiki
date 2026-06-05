@@ -24,7 +24,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[financial-regulators/seimei-hokensha-hogo-kiko|生命保険契約者保護機構]] for parallel safety-net peer and [[financial-regulators/dic|預金保険機構]] / [[financial-regulators/fsa|金融庁]] for the broader system / regulatory boundary.
+This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]]. Read it against [[financial-regulators/seimei-hokensha-hogo-kiko|生命保険契約者保護機構]] for parallel safety-net peer and [[financial-regulators/dic|預金保険機構]] / [[financial-regulators/fsa|金融庁]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
@@ -128,7 +128,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[financi
 - [[financial-regulators/fsa|金融庁]]
 - [[non-life-insurers/tokio-marine-hd|東京海上ホールディングス]] · [[non-life-insurers/sompo-japan|損保ジャパン]] · [[non-life-insurers/mitsui-sumitomo|三井住友海上]] · [[non-life-insurers/aioi-nissay-dowa-insurance|あいおいニッセイ同和]]
 - [[insurance/INDEX|insurance index]]
-- [[JapanFG/INDEX|JapanFG index]]
+- [[financial-regulators/INDEX|financial-regulators INDEX]]
 
 ## Sources
 

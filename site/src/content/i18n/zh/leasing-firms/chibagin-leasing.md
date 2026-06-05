@@ -1,5 +1,5 @@
 ---
-source: japanfg/chibagin-leasing
+source: leasing-firms/chibagin-leasing
 source_hash: 91cd04ff7cc77902
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T11:13:44.944Z
 
 ## 维基路线
 
-该条目位于[[JapanFG/INDEX|JapanFG index]]作为FG子公司租赁运营公司的主力[[chiba-bank|千葉銀行 (Chiba Bank)]]。针对母运营银行阅读[[chiba-bank|千葉銀行]]（无控股独资银行模式）及兄弟子公司[[chibagin-securities|ちばぎん証券]]。同行比较：[[mebuki-lease|めぶきリース]]（北关东地方银行租赁）/[[yokohama-bank-leasing|横浜銀リース]]（神奈川地方银行租赁）/[[hokkaido-lease|北海道リース]]/[[yamaguchi-leasing|山口リース]]/[[iyogin-leasing|いよぎんリース]]和主要出租人[[mitsubishi-hc-capital|三菱 HC キャピタル]]/[[mizuho-lease|みずほリース]]/[[tokyo-century|東京センチュリー]]。对于更广泛的系统路线，请参阅[[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]],[[banking/regional-bank-api-digital-partnership-route|regional-bank API/digital partnership route]]和[[banking/INDEX|banking index]]。可投资宇宙背景：[[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]]。
+该条目位于[[leasing-firms/INDEX|leasing-firms INDEX]]作为FG子公司租赁运营公司的主力[[chiba-bank|千葉銀行 (Chiba Bank)]]。针对母运营银行阅读[[chiba-bank|千葉銀行]]（无控股独资银行模式）及兄弟子公司[[chibagin-securities|ちばぎん証券]]。同行比较：[[mebuki-lease|めぶきリース]]（北关东地方银行租赁）/[[yokohama-bank-leasing|横浜銀リース]]（神奈川地方银行租赁）/[[hokkaido-lease|北海道リース]]/[[yamaguchi-leasing|山口リース]]/[[iyogin-leasing|いよぎんリース]]和主要出租人[[mitsubishi-hc-capital|三菱 HC キャピタル]]/[[mizuho-lease|みずほリース]]/[[tokyo-century|東京センチュリー]]。对于更广泛的系统路线，请参阅[[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]],[[banking/regional-bank-api-digital-partnership-route|regional-bank API/digital partnership route]]和[[banking/INDEX|banking index]]。可投资宇宙背景：[[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]]。
 
 ##TL;博士
 
@@ -116,7 +116,7 @@ translated_at: 2026-05-31T11:13:44.944Z
 -[[ja-mitsui-leasing]]·[[nec-leasing]]·[[showa-leasing]]·[[toyota-finance]]·[[ibj-leasing]]·[[kanematsu-leasing]]
 -[[banking/regional-bank-consolidation-pattern]]·[[banking/regional-bank-api-digital-partnership-route]]·[[banking/INDEX]]
 -[[finance/japan-listed-financial-groups-investable-universe]]·[[finance/INDEX]]
-- [[JapanFG/INDEX|JapanFG index]]
+- [[leasing-firms/INDEX|leasing-firms INDEX]]
 
 ## 来源
 

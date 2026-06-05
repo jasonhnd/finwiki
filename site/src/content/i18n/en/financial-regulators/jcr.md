@@ -1,5 +1,5 @@
 ---
-source: japanfg/jcr
+source: financial-regulators/jcr
 source_hash: b08ae72d8492101e
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:59:49.394Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[financial-regulators/rating-and-investment|格付投資情報センター (R&I)]] for peer / contrast context and [[financial-regulators/fsa|金融庁]] for the broader regulatory boundary (credit rating agency registration).
+This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]]. Read it against [[financial-regulators/rating-and-investment|格付投資情報センター (R&I)]] for peer / contrast context and [[financial-regulators/fsa|金融庁]] for the broader regulatory boundary (credit rating agency registration).
 
 ## TL;DR
 
@@ -94,7 +94,7 @@ A **domestic credit rating agency in Japan's capital market, one of the 2 社 do
 - [[financial-regulators/rating-and-investment|格付投資情報センター (R&I)]] · [[financial-regulators/fsa|金融庁]]
 - [[megabanks/mufg|MUFG]] · [[megabanks/smfg|SMFG]] · [[megabanks/mizuho-fg|みずほ FG]]
 - [[financial-regulators/japan-exchange-group|日本取引所グループ]]
-- [[JapanFG/INDEX|JapanFG index]]
+- [[financial-regulators/INDEX|financial-regulators INDEX]]
 
 ## Sources
 

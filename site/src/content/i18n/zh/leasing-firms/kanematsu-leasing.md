@@ -1,5 +1,5 @@
 ---
-source: japanfg/kanematsu-leasing
+source: leasing-firms/kanematsu-leasing
 source_hash: e14b38acb838201c
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:59:49.307Z
 
 ## Wiki 路径
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可与 [[cooperative-banks/ja-mitsui-leasing|JA三井リース]] 对读，作为同业 / 对照语境（两者都是与商社相连的租赁实体）；也可与 [[banking/INDEX|banking index]] 对读，理解更广的系统与监管边界。还应与 [[leasing-firms/tokyo-century|東京センチュリー]]（伊藤忠系）对读，以把握更广的「商社 x 租赁」模式。
+本条目位于 [[leasing-firms/INDEX|leasing-firms INDEX]] 之下。可与 [[cooperative-banks/ja-mitsui-leasing|JA三井リース]] 对读，作为同业 / 对照语境（两者都是与商社相连的租赁实体）；也可与 [[banking/INDEX|banking index]] 对读，理解更广的系统与监管边界。还应与 [[leasing-firms/tokyo-century|東京センチュリー]]（伊藤忠系）对读，以把握更广的「商社 x 租赁」模式。
 
 ## TL;DR
 

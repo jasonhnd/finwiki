@@ -1,5 +1,5 @@
 ---
-source: japanfg/aichi-fg
+source: regional-banks/aichi-fg
 source_hash: b48a56cb3ba0d8d1
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:01:20.944Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の下に位置づける。比較・対照の文脈は [[regional-banks/hachijuni-nagano-bank|八十二長野銀行]]、より広いシステムおよび規制上の境界は [[banking/INDEX|banking index]] と照らして読む。
+この項目は [[regional-banks/INDEX|regional-banks INDEX]] の下に位置づける。比較・対照の文脈は [[regional-banks/hachijuni-nagano-bank|八十二長野銀行]]、より広いシステムおよび規制上の境界は [[banking/INDEX|banking index]] と照らして読む。
 
 ## 要約
 

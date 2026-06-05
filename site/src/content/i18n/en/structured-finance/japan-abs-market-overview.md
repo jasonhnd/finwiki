@@ -12,7 +12,7 @@ translated_at: 2026-06-01T04:15:40.133Z
 
 ## TL;DR
 
-Japan's asset-backed securities market is split into three rough layers: the very large JHF MBS layer (Japan Housing Finance Agency, government-supported senior class), the private RMBS layer (jumbo mortgage pools originated by megabanks and trust banks), and the consumer / auto / CMBS / project layer issued through TK-GK SPVs or specified-purpose companies. Post-2008 issuance dropped sharply on the CMBS side; the JHF MBS engine kept running and now dominates yen-denominated structured paper. Use this page as the routing surface for [[structured-finance/INDEX]] and to connect originator company pages in [[JapanFG/INDEX]] to the structure mechanics in this domain.
+Japan's asset-backed securities market is split into three rough layers: the very large JHF MBS layer (Japan Housing Finance Agency, government-supported senior class), the private RMBS layer (jumbo mortgage pools originated by megabanks and trust banks), and the consumer / auto / CMBS / project layer issued through TK-GK SPVs or specified-purpose companies. Post-2008 issuance dropped sharply on the CMBS side; the JHF MBS engine kept running and now dominates yen-denominated structured paper. Use this page as the routing surface for [[structured-finance/INDEX]] and to connect originator company pages in [[structured-finance/INDEX]] to the structure mechanics in this domain.
 
 ## Wiki route
 
@@ -97,7 +97,6 @@ Japan's asset-backed securities market is split into three rough layers: the ver
 - [[policy-finance/japan-housing-finance-agency]]
 - [[real-estate-finance/INDEX]]
 - [[banking/INDEX]]
-- [[JapanFG/INDEX]]
 
 ## Sources
 

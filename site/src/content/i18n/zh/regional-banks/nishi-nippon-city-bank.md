@@ -1,5 +1,5 @@
 ---
-source: japanfg/nishi-nippon-city-bank
+source: regional-banks/nishi-nippon-city-bank
 source_hash: 5382033cf5e6b097
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T00:41:50.382Z
 
 ## Wiki route
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]]。可与 [[regional-banks/fukuoka-bank|福岡銀行]] 对照阅读，以理解同业和差异；更广泛的制度和监管边界见 [[banking/INDEX|banking index]]。
+本条目位于 [[regional-banks/INDEX|regional-banks INDEX]]。可与 [[regional-banks/fukuoka-bank|福岡銀行]] 对照阅读，以理解同业和差异；更广泛的制度和监管边界见 [[banking/INDEX|banking index]]。
 
 ## TL;DR
 

@@ -1,5 +1,5 @@
 ---
-source: japanfg/paypay-securities
+source: securities-firms/paypay-securities
 source_hash: 441e54a525659c59
 lang: ja
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-06-02T15:14:17.123Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に位置づける。隣接する文脈は [[securities/INDEX|securities index]] と併せて読み、より広い制度上の境界は [[financial-licenses/INDEX|JapanFG index]] を参照する。
+この項目は [[securities-firms/INDEX|securities-firms INDEX]] の配下に位置づける。隣接する文脈は [[securities/INDEX|securities index]] と併せて読み、より広い制度上の境界は [[financial-licenses/INDEX|JapanFG index]] を参照する。
 
 ## 要約
 

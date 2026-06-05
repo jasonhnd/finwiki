@@ -1,5 +1,5 @@
 ---
-source: japanfg/japan-post-holdings
+source: megabanks/japan-post-holdings
 source_hash: 962882d769f90356
 lang: ja
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-02T14:25:12.437Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の下に置く。主要金融子会社は [[regional-banks/japan-post-bank|ゆうちょ銀行 (7182)]] と [[life-insurers/kampo-life|かんぽ生命 (7181)]]、より広い制度・規制境界は [[financial-regulators/fsa|金融庁]] / [[financial-regulators/boj|日本銀行]] とあわせて読む。
+この項目は [[megabanks/INDEX|megabanks INDEX]] の下に置く。主要金融子会社は [[regional-banks/japan-post-bank|ゆうちょ銀行 (7182)]] と [[life-insurers/kampo-life|かんぽ生命 (7181)]]、より広い制度・規制境界は [[financial-regulators/fsa|金融庁]] / [[financial-regulators/boj|日本銀行]] とあわせて読む。
 
 ## 要約
 
@@ -109,7 +109,7 @@ translated_at: 2026-06-02T14:25:12.437Z
 - [[regional-banks/japan-post-bank|ゆうちょ銀行 (7182)]] · [[life-insurers/kampo-life|かんぽ生命 (7181)]] · [[megabanks/japan-post-co|日本郵便]]
 - [[financial-regulators/fsa|金融庁]] · [[financial-regulators/boj|日本銀行]]
 - [[financial-regulators/japan-exchange-group|日本取引所グループ]]
-- [[JapanFG/INDEX|JapanFG index]]
+- [[megabanks/INDEX|megabanks INDEX]]
 
 ## 出典
 

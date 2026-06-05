@@ -37,7 +37,7 @@
       "https://www.rakuten-insurance.co.jp/"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 楽天損害保険 for peer / contrast context and insurance index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under life-insurers INDEX. Read it against 楽天損害保険 for peer / contrast context and insurance index for the broader system / regulatory boundary.",
   "headings": [
     "楽天生命保険",
     "Wiki route",
@@ -51,9 +51,9 @@
   "body_links": {
     "wikilinks_count": 11,
     "wikilinks": [
-      "JapanFG/INDEX",
       "insurance/INDEX",
       "insurance/internet-life-insurance-business-model",
+      "life-insurers/INDEX",
       "lifenet",
       "non-life-insurers/rakuten-general-insurance",
       "rakuten-card",
@@ -64,9 +64,9 @@
       "sony-life"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/insurance/INDEX",
       "https://finwiki.zksc.io/insurance/internet-life-insurance-business-model",
+      "https://finwiki.zksc.io/life-insurers/INDEX",
       "https://finwiki.zksc.io/lifenet",
       "https://finwiki.zksc.io/non-life-insurers/rakuten-general-insurance",
       "https://finwiki.zksc.io/rakuten-card",
@@ -80,9 +80,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2038,
-    "word_like_tokens": 303,
+    "nonspace_chars": 2050,
+    "word_like_tokens": 305,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

@@ -1,5 +1,5 @@
 ---
-source: japanfg/mitsui-sumitomo-insurance
+source: non-life-insurers/mitsui-sumitomo-insurance
 source_hash: 822d7b62d60fca1f
 lang: ja
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-06-02T14:54:39.061Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の下に位置づけられる。比較対象・対照関係は [[non-life-insurers/aioi-nissay-dowa-insurance|あいおいニッセイ同和損害保険]]、より広い制度・規制上の境界は [[insurance/INDEX|insurance index]] とあわせて読む。
+この項目は [[non-life-insurers/INDEX|non-life-insurers INDEX]] の下に位置づけられる。比較対象・対照関係は [[non-life-insurers/aioi-nissay-dowa-insurance|あいおいニッセイ同和損害保険]]、より広い制度・規制上の境界は [[insurance/INDEX|insurance index]] とあわせて読む。
 
 ## 要約
 

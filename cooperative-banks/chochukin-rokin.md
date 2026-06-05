@@ -29,7 +29,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **largest of the 13 rokin (labour bank) operating companies in Japan**, providing the rokin-side operating-company anchor parallel to [[cooperative-banks/kyoto-chuo-shinkin|京都中央信用金庫]] (shinkin) and [[cooperative-banks/osaka-shogin-shinkumi|大阪商銀信用組合]] (shinkumi). Read it against [[cooperative-banks/rokin-renraku|労働金庫連合会 (Rokinren)]] for the cooperative-system central institution, [[banking/rokin-bank-registry-japan|rokin registry]] for the 13-rokin landscape, and [[banking/cooperative-banking-japan|cooperative banking domain]] for the broader regulatory boundary.
+This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as the **largest of the 13 rokin (labour bank) operating companies in Japan**, providing the rokin-side operating-company anchor parallel to [[cooperative-banks/kyoto-chuo-shinkin|京都中央信用金庫]] (shinkin) and [[cooperative-banks/osaka-shogin-shinkumi|大阪商銀信用組合]] (shinkumi). Read it against [[cooperative-banks/rokin-renraku|労働金庫連合会 (Rokinren)]] for the cooperative-system central institution, [[banking/rokin-bank-registry-japan|rokin registry]] for the 13-rokin landscape, and [[banking/cooperative-banking-japan|cooperative banking domain]] for the broader regulatory boundary.
 
 ## TL;DR
 
@@ -176,7 +176,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **largest of the 13
 - [[financial-regulators/dic]] — 預金保険機構
 - [[banking/rokin-bank-registry-japan]] — 労働金庫 13 金庫 registry
 - [[banking/cooperative-banking-japan]] — 協同組織金融全体
-- [[JapanFG/INDEX|JapanFG index]]
+- [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 
 ## Sources
 

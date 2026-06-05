@@ -1,5 +1,5 @@
 ---
-source: japanfg/kotaeru-trust
+source: trust-banks/kotaeru-trust
 source_hash: c945b005fa73c306
 lang: en
 status: machine
@@ -9,7 +9,7 @@ translated_at: 2026-05-31T23:59:49.364Z
 ---
 # Kotaeru Trust
 
-Wiki route: [[JapanFG/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/kotaeru-trust]]
+Wiki route: [[trust-banks/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/kotaeru-trust]]
 
 ## Overview
 

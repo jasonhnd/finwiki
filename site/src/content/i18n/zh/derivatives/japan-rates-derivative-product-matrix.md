@@ -178,7 +178,6 @@ This entry sits under [[derivatives/INDEX|derivatives index]]. It pairs with [[d
 - [[finance/japan-corporate-fx-and-rate-hedge-policy]]
 - [[securities/japan-securities-clearing-corp]]
 - [[banking/INDEX]]
-- [[JapanFG/INDEX]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

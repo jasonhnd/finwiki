@@ -1,5 +1,5 @@
 ---
-source: japanfg/shikoku-bank
+source: regional-banks/shikoku-bank
 source_hash: 493bc2b470a7b174
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.098Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[regional-banks/iyo-bank|伊予銀行]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it against [[regional-banks/iyo-bank|伊予銀行]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
@@ -29,7 +29,7 @@ The Shikoku Bank, Ltd. is a regional bank headquartered in Kochi Prefecture and 
 
 ## 2. Operating model
 
-Shikoku Bank is a regional bank centered on Kochi Prefecture, providing retail deposits, SME finance, local corporate lending, and Shikoku-area relationship banking. Within Kochi Prefecture it has a first / second-regional-bank peer boundary with [[kochi-bank]]. For Shikoku regional-bank consolidation context, see [[banking/INDEX|banking index]] and [[JapanFG/INDEX|JapanFG index]].
+Shikoku Bank is a regional bank centered on Kochi Prefecture, providing retail deposits, SME finance, local corporate lending, and Shikoku-area relationship banking. Within Kochi Prefecture it has a first / second-regional-bank peer boundary with [[kochi-bank]]. For Shikoku regional-bank consolidation context, see [[banking/INDEX|banking index]] and [[regional-banks/INDEX|regional-banks INDEX]].
 
 ## 3. Why this page matters
 

@@ -1,5 +1,5 @@
 ---
-source: japanfg/ja-bank-tokyo-shinren
+source: cooperative-banks/ja-bank-tokyo-shinren
 source_hash: 50cb603799ccde41
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T15:29:03.946Z
 
 ## 维基路线
 
-此条目位于[[JapanFG/INDEX|JapanFG index]]下，作为 FinWiki 中**第一个 JA 银行县信用联盟 (Shinren) 运营公司锚点**，弥补了 JA 银行县信用联盟 (集体) 已记录但不存在县 Shinren 锚点的审计空白。东京因其**城市农业+直接链接边缘案例**相关性而被选中 - 东京 Shinren 在2010后期进行了向直接链接过渡的讨论。[[cooperative-banks/ja-shinnoren|JA 信連 (全国集合)]]为国家级都道府县联邦背景，[[cooperative-banks/ja-kyosairen-fukushima|JA 共済連福島]] 为共西侧都道府县同级，[[cooperative-banks/norinchukin|農林中央金庫]] 为上述中央机构，[[banking/ja-bank-system-japan|JA Bank system]] 为系统边界。
+此条目位于[[cooperative-banks/INDEX|cooperative-banks INDEX]]下，作为 FinWiki 中**第一个 JA 银行县信用联盟 (Shinren) 运营公司锚点**，弥补了 JA 银行县信用联盟 (集体) 已记录但不存在县 Shinren 锚点的审计空白。东京因其**城市农业+直接链接边缘案例**相关性而被选中 - 东京 Shinren 在2010后期进行了向直接链接过渡的讨论。[[cooperative-banks/ja-shinnoren|JA 信連 (全国集合)]]为国家级都道府县联邦背景，[[cooperative-banks/ja-kyosairen-fukushima|JA 共済連福島]] 为共西侧都道府县同级，[[cooperative-banks/norinchukin|農林中央金庫]] 为上述中央机构，[[banking/ja-bank-system-japan|JA Bank system]] 为系统边界。
 
 ## 长话短说
 
@@ -121,7 +121,7 @@ translated_at: 2026-05-31T15:29:03.946Z
 - [[regional-banks/yokohama-bank]] — 横滨银行（关东地区银行同行）
 - [[banking/ja-bank-system-japan]] — JA 银行系统
 - [[banking/cooperative-banking-japan]] — 整体合作金融
-- [[JapanFG/INDEX|JapanFG index]]
+- [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 
 ## 来源
 

@@ -40,7 +40,7 @@
       "https://www.fsa.go.jp/menkyo/menkyoj/seimei.pdf"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against ジェネラル再保険日本支店 as a US-headquartered reinsurer peer, and against スイス再保険日本支店 / ハノーバー再保険日本支店 for life-reinsurance competitive context. The domestic-reinsurer contrast remains トーア再保険, and broader system map is insurance index.",
+  "summary": "This entry sits under life-insurers INDEX. Read it against ジェネラル再保険日本支店 as a US-headquartered reinsurer peer, and against スイス再保険日本支店 / ハノーバー再保険日本支店 for life-reinsurance competitive context. The domestic-reinsurer contrast remains トーア再保険, and broader system map is insurance index.",
   "headings": [
     "RGA リインシュアランス・カンパニー日本支店",
     "Wiki route",
@@ -54,11 +54,11 @@
   "body_links": {
     "wikilinks_count": 14,
     "wikilinks": [
-      "JapanFG/INDEX",
       "dai-ichi-life",
       "gen-re-japan",
       "hannover-re-japan",
       "insurance/INDEX",
+      "life-insurers/INDEX",
       "life-insurers/aflac-japan",
       "nippon-life",
       "non-life-insurers/gen-re-japan",
@@ -70,11 +70,11 @@
       "toa-reinsurance"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/dai-ichi-life",
       "https://finwiki.zksc.io/gen-re-japan",
       "https://finwiki.zksc.io/hannover-re-japan",
       "https://finwiki.zksc.io/insurance/INDEX",
+      "https://finwiki.zksc.io/life-insurers/INDEX",
       "https://finwiki.zksc.io/life-insurers/aflac-japan",
       "https://finwiki.zksc.io/nippon-life",
       "https://finwiki.zksc.io/non-life-insurers/gen-re-japan",
@@ -89,9 +89,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2787,
-    "word_like_tokens": 403,
+    "nonspace_chars": 2805,
+    "word_like_tokens": 406,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

@@ -1,5 +1,5 @@
 ---
-source: japanfg/juroku-fg
+source: regional-banks/juroku-fg
 source_hash: c911ee5b589f0bfa
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:59:49.362Z
 
 ## Wiki route
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 下。可与地方银行控股公司和银行索引对照阅读。
+本条目位于 [[regional-banks/INDEX|regional-banks INDEX]] 下。可与地方银行控股公司和银行索引对照阅读。
 
 ## TL;DR
 

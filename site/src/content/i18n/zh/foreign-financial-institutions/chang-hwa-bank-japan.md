@@ -1,5 +1,5 @@
 ---
-source: japanfg/chang-hwa-bank-japan
+source: foreign-financial-institutions/chang-hwa-bank-japan
 source_hash: 1537aae264fa19ad
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T11:13:44.907Z
 
 ## 维基路线
 
-日本彰化银行[[JapanFG/INDEX|JapanFG index]]是台日外资银行分行路线[[foreign-financial-institutions/foreign-bank-branches-japan-index|the foreign-bank branch registry]]。阅读它与[[foreign-financial-institutions/first-commercial-bank-japan|First Commercial Bank Japan]],[[foreign-financial-institutions/bank-of-taiwan-japan|Bank of Taiwan Japan]],[[foreign-financial-institutions/mega-icbc-japan|Mega ICBC Japan]]， 和[[banking/foreign-bank-japan-retreat|foreign-bank Japan retreat]]。
+日本彰化银行[[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]]是台日外资银行分行路线[[foreign-financial-institutions/foreign-bank-branches-japan-index|the foreign-bank branch registry]]。阅读它与[[foreign-financial-institutions/first-commercial-bank-japan|First Commercial Bank Japan]],[[foreign-financial-institutions/bank-of-taiwan-japan|Bank of Taiwan Japan]],[[foreign-financial-institutions/mega-icbc-japan|Mega ICBC Japan]]， 和[[banking/foreign-bank-japan-retreat|foreign-bank Japan retreat]]。
 
 使用此页面了解有关彰化银行东京分行的台日企业银行业务、贸易融资、汇款、外汇和银团贷款路线问题。
 
@@ -58,7 +58,7 @@ translated_at: 2026-05-31T11:13:44.907Z
 
 ## 有关的
 
-- [[JapanFG/INDEX]]
+- [[foreign-financial-institutions/INDEX]]
 - [[foreign-financial-institutions/foreign-bank-branches-japan-index]]
 - [[foreign-financial-institutions/first-commercial-bank-japan]]
 - [[foreign-financial-institutions/taishin-bank-japan]]

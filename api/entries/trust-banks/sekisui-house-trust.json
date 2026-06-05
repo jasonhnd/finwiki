@@ -35,7 +35,7 @@
       "https://www.sekisuihouse.co.jp/library/company/topics/datail/__icsFiles/afieldfile/2017/07/28/20170727.pdf"
     ]
   },
-  "summary": "Sekisui House Trust is a standalone trust-company route under JapanFG and is promoted from the Japan trust companies registry index. Read it with Japan trust-bank custody map, Japan Housing Finance Agency, and Daiwa Living Trust.",
+  "summary": "Sekisui House Trust is a standalone trust-company route under trust-banks INDEX and is promoted from the Japan trust companies registry index. Read it with Japan trust-bank custody map, Japan Housing Finance Agency, and Daiwa Living Trust.",
   "headings": [
     "積水ハウス信託 (Sekisui House Trust)",
     "Wiki route",
@@ -51,20 +51,20 @@
     "wikilinks_count": 8,
     "wikilinks": [
       "INDEX",
-      "JapanFG/INDEX",
       "banking/japan-trust-bank-custody-map",
       "manufacturer-finance/INDEX",
       "policy-finance/japan-housing-finance-agency",
+      "trust-banks/INDEX",
       "trust-banks/daiwa-living-trust",
       "trust-banks/starts-trust",
       "trust-banks/trust-companies-japan-index"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/japan-trust-bank-custody-map",
       "https://finwiki.zksc.io/manufacturer-finance/INDEX",
       "https://finwiki.zksc.io/policy-finance/japan-housing-finance-agency",
+      "https://finwiki.zksc.io/trust-banks/INDEX",
       "https://finwiki.zksc.io/trust-banks/daiwa-living-trust",
       "https://finwiki.zksc.io/trust-banks/starts-trust",
       "https://finwiki.zksc.io/trust-banks/trust-companies-japan-index"
@@ -73,9 +73,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3254,
-    "word_like_tokens": 511,
+    "nonspace_chars": 3271,
+    "word_like_tokens": 515,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

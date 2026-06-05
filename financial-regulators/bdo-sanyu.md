@@ -34,7 +34,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it alongside [[financial-regulators/taiyo-grant-thornton|太陽グラントソントン]] for peer 中堅 audit context, and [[financial-regulators/ey-shinnihon|EY 新日本]]・[[financial-regulators/deloitte-touche-tohmatsu|トーマツ]] for Big 4 比較; [[financial-licenses/INDEX|金融ライセンス INDEX]] for 公認会計士法 / 監査品質管理の規制境界。CPAAOB 監督文脈は [[financial-regulators/fsa-supervision-bureau|金融庁 監督局]] と [[financial-regulators/fsa-strategy-bureau|金融庁 総合政策局]] の所管。
+This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]]. Read it alongside [[financial-regulators/taiyo-grant-thornton|太陽グラントソントン]] for peer 中堅 audit context, and [[financial-regulators/ey-shinnihon|EY 新日本]]・[[financial-regulators/deloitte-touche-tohmatsu|トーマツ]] for Big 4 比較; [[financial-licenses/INDEX|金融ライセンス INDEX]] for 公認会計士法 / 監査品質管理の規制境界。CPAAOB 監督文脈は [[financial-regulators/fsa-supervision-bureau|金融庁 監督局]] と [[financial-regulators/fsa-strategy-bureau|金融庁 総合政策局]] の所管。
 
 ## 1. 法人概要
 

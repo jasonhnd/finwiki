@@ -1,5 +1,5 @@
 ---
-source: japanfg/miyazaki-taiyo-bank
+source: regional-banks/miyazaki-taiyo-bank
 source_hash: 6ccaf9a550aa00a3
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T23:59:49.316Z
 
 ## Wiki 路线
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可与 [[banking/INDEX|banking index]] 一并阅读以了解邻近背景，并参照 [[financial-licenses/INDEX|JapanFG index]] 理解更广泛的系统边界。
+本条目位于 [[regional-banks/INDEX|regional-banks INDEX]] 之下。可与 [[banking/INDEX|banking index]] 一并阅读以了解邻近背景，并参照 [[financial-licenses/INDEX|JapanFG index]] 理解更广泛的系统边界。
 
 ## TL;DR
 

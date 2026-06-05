@@ -38,7 +38,7 @@
       "かんぽ生命 2025年3月期 決算短信〔日本基準〕(連結) — 総資産 59兆5,556億円 (https://pdf.irpocket.com/C7181/vAfC/ITEh/s65S.pdf)"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 第一ライフグループ / 旧 第一生命 HD for peer / contrast context and insurance index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under life-insurers INDEX. Read it against 第一ライフグループ / 旧 第一生命 HD for peer / contrast context and insurance index for the broader system / regulatory boundary.",
   "headings": [
     "かんぽ生命保険 (Japan Post Insurance)",
     "Wiki route",
@@ -54,9 +54,9 @@
   "body_links": {
     "wikilinks_count": 11,
     "wikilinks": [
-      "JapanFG/INDEX",
       "dai-ichi-life",
       "insurance/INDEX",
+      "life-insurers/INDEX",
       "life-insurers/dai-ichi-life",
       "mizuho-fg",
       "msad",
@@ -67,9 +67,9 @@
       "tokio-marine"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/dai-ichi-life",
       "https://finwiki.zksc.io/insurance/INDEX",
+      "https://finwiki.zksc.io/life-insurers/INDEX",
       "https://finwiki.zksc.io/life-insurers/dai-ichi-life",
       "https://finwiki.zksc.io/mizuho-fg",
       "https://finwiki.zksc.io/msad",
@@ -83,9 +83,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4181,
-    "word_like_tokens": 636,
+    "nonspace_chars": 4193,
+    "word_like_tokens": 638,
     "inbound_wikilinks_count": 18,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

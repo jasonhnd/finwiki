@@ -1,5 +1,5 @@
 ---
-source: japanfg/tokyo-century-detail
+source: leasing-firms/tokyo-century-detail
 source_hash: b61acd6394d5d9f9
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.112Z
 
 ## Wiki route
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 下，并补充 [[leasing-firms/tokyo-century|東京センチュリー]] 的公司层面摘要。可与 [[leasing-firms/orix-corp|オリックス]] / [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]] / [[leasing-firms/smfl|三井住友ファイナンス&リース]] / [[leasing-firms/mizuho-lease|みずほリース]] 对照阅读，以理解综合租赁行业同业背景；[[megabanks/mizuho-fg|みずほFG]] 用于一个母集团路线；[[banking/INDEX|banking index]] 用于更广泛的系统 / 监管边界。
+本条目位于 [[leasing-firms/INDEX|leasing-firms INDEX]] 下，并补充 [[leasing-firms/tokyo-century|東京センチュリー]] 的公司层面摘要。可与 [[leasing-firms/orix-corp|オリックス]] / [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]] / [[leasing-firms/smfl|三井住友ファイナンス&リース]] / [[leasing-firms/mizuho-lease|みずほリース]] 对照阅读，以理解综合租赁行业同业背景；[[megabanks/mizuho-fg|みずほFG]] 用于一个母集团路线；[[banking/INDEX|banking index]] 用于更广泛的系统 / 监管边界。
 
 ## TL;DR
 
@@ -123,7 +123,7 @@ translated_at: 2026-06-01T02:31:57.112Z
 - [[leasing-firms/smfl|SMFL]] -- 银行系租赁竞争者
 - [[leasing-firms/mizuho-lease|みずほリース]] -- Mizuho 系姊妹租赁
 - [[leasing-firms/nec-capital-solutions|NECキャピタルソリューションズ]] -- vendor 系租赁
-- [[JapanFG/INDEX|JapanFG index]]
+- [[leasing-firms/INDEX|leasing-firms INDEX]]
 - [[banking/INDEX|Banking domain index]]
 
 ## Sources

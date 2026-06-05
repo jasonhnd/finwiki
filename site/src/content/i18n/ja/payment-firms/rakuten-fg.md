@@ -1,5 +1,5 @@
 ---
-source: japanfg/rakuten-fg
+source: payment-firms/rakuten-fg
 source_hash: b5bd3ddfd02e60f7
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T15:14:17.086Z
 
 ## ウィキ上の位置づけ
 
-本項目は[[JapanFG/INDEX|JapanFG index]]配下に置く。[[payment-firms/gmo-payment-gateway|GMO ペイメントゲートウェイ]]とは同業・対比の文脈で、[[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]]とはより広い制度・規制上の境界を読むために参照する。
+本項目は[[payment-firms/INDEX|payment-firms INDEX]]配下に置く。[[payment-firms/gmo-payment-gateway|GMO ペイメントゲートウェイ]]とは同業・対比の文脈で、[[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]]とはより広い制度・規制上の境界を読むために参照する。
 
 ## 要約
 

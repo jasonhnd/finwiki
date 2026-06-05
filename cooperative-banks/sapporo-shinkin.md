@@ -26,7 +26,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[regional-banks/hokkaido-bank|北海道銀行]] and [[regional-banks/hokuyo-bank|北洋銀行]] for the prefecture-level commercial-bank counterparts, against [[cooperative-banks/yokohama-shinkin|横浜信用金庫]] for a comparable other-prefecture city-anchor shinkin, and against [[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]] for the broader 254-shinkin system maintained by [[cooperative-banks/shinkin-central|信金中央金庫]] and represented by [[financial-regulators/zenshin-kyo|全国信用金庫協会]]. Hokkaido has 20 licensed shinkin (FSA 2025-11-06)—the largest prefectural count nationwide—so this page is the operating-company anchor for that block.
+This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]]. Read it against [[regional-banks/hokkaido-bank|北海道銀行]] and [[regional-banks/hokuyo-bank|北洋銀行]] for the prefecture-level commercial-bank counterparts, against [[cooperative-banks/yokohama-shinkin|横浜信用金庫]] for a comparable other-prefecture city-anchor shinkin, and against [[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]] for the broader 254-shinkin system maintained by [[cooperative-banks/shinkin-central|信金中央金庫]] and represented by [[financial-regulators/zenshin-kyo|全国信用金庫協会]]. Hokkaido has 20 licensed shinkin (FSA 2025-11-06)—the largest prefectural count nationwide—so this page is the operating-company anchor for that block.
 
 ## TL;DR
 
@@ -98,7 +98,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[regiona
 
 ## Related
 
-- [[JapanFG/INDEX|JapanFG index]]
+- [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 - [[cooperative-banks/shinkin-central|信金中央金庫]]
 - [[financial-regulators/zenshin-kyo|全国信用金庫協会]]
 - [[cooperative-banks/shinkin-network-services|信金ネットワークサービス]]

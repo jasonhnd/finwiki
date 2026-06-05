@@ -22,7 +22,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary think-tank / research operating-company anchor for [[concordia-fg|横浜フィナンシャルグループ (旧コンコルディア FG)]]. Read it against parent operating bank [[yokohama-bank|横浜銀行]] and sibling subsidiary [[yokohama-bank-leasing|横浜銀リース]]. For peer regional-bank think-tank context, contrast with major think tanks (野村総研, 三菱総研, NRI) and the broader [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]]. For system / regulatory boundary see [[banking/INDEX|banking index]].
+This entry sits under the [[regional-banks/INDEX|regional-banks INDEX]] as the FG-subsidiary think-tank / research operating-company anchor for [[concordia-fg|横浜フィナンシャルグループ (旧コンコルディア FG)]]. Read it against parent operating bank [[yokohama-bank|横浜銀行]] and sibling subsidiary [[yokohama-bank-leasing|横浜銀リース]]. For peer regional-bank think-tank context, contrast with major think tanks (野村総研, 三菱総研, NRI) and the broader [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]]. For system / regulatory boundary see [[banking/INDEX|banking index]].
 
 ## TL;DR
 
@@ -118,7 +118,7 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary t
 - [[concordia-fg]] · [[yokohama-bank]] · [[higashi-nippon-bank]] · [[yokohama-bank-leasing]]
 - [[mebuki-securities]] · [[ffg-securities]] · [[ibank-marketing]] · [[mebuki-lease]]
 - [[banking/regional-bank-consolidation-pattern]] · [[banking/regional-bank-api-digital-partnership-route]] · [[banking/INDEX]]
-- [[JapanFG/INDEX|JapanFG index]]
+- [[regional-banks/INDEX|regional-banks INDEX]]
 
 ## Sources
 

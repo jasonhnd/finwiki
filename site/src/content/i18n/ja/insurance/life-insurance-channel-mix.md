@@ -11,7 +11,7 @@ translated_at: 2026-06-02T14:01:20.943Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[insurance/INDEX|insurance index]] の下に位置づける。比較・対照の文脈は [[insurance/internet-life-insurance-business-model|Internet life insurance business model]]、より広いシステムおよび規制上の境界は [[JapanFG/INDEX|JapanFG index]] と照らして読む。
+この項目は [[insurance/INDEX|insurance index]] の下に位置づける。比較・対照の文脈は [[insurance/internet-life-insurance-business-model|Internet life insurance business model]]、より広いシステムおよび規制上の境界は [[insurance/INDEX|insurance INDEX]] と照らして読む。
 
 ## 要約
 

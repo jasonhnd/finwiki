@@ -1,5 +1,5 @@
 ---
-source: japanfg/taiyo-grant-thornton
+source: financial-regulators/taiyo-grant-thornton
 source_hash: 600c4ce759272201
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.130Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it alongside [[financial-regulators/ey-shinnihon|EY 新日本]], [[financial-regulators/deloitte-touche-tohmatsu|トーマツ]], [[financial-regulators/kpmg-azsa|あずさ]], and [[financial-regulators/pwc-aarata|PwC あらた]] for Big 4  comparison, and [[financial-licenses/INDEX|金融ライセンス INDEX]] for the regulatory boundary around the Certified Public Accountants Act and audit quality control. The CPAAOB supervision context is under the jurisdiction of [[financial-regulators/fsa-supervision-bureau|金融庁 監督局]] and [[financial-regulators/fsa-strategy-bureau|金融庁 総合政策局]].
+This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]]. Read it alongside [[financial-regulators/ey-shinnihon|EY 新日本]], [[financial-regulators/deloitte-touche-tohmatsu|トーマツ]], [[financial-regulators/kpmg-azsa|あずさ]], and [[financial-regulators/pwc-aarata|PwC あらた]] for Big 4  comparison, and [[financial-licenses/INDEX|金融ライセンス INDEX]] for the regulatory boundary around the Certified Public Accountants Act and audit quality control. The CPAAOB supervision context is under the jurisdiction of [[financial-regulators/fsa-supervision-bureau|金融庁 監督局]] and [[financial-regulators/fsa-strategy-bureau|金融庁 総合政策局]].
 
 ## 1. Entity overview
 

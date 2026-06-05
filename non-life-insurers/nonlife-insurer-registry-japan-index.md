@@ -28,11 +28,11 @@ sources:
 
 FSA's non-life insurer license list (損害保険会社免許一覧, songai.pdf) is the single registry surface for every entity licensed under Japan's Insurance Business Act (保険業法) to underwrite non-life (損害) insurance. This page is the routing surface for that registry — it organises the list by ownership cluster (大手3社 / direct / specialty / foreign-affiliated / reinsurer) instead of forcing every page reader to interpret the raw FSA workbook. It mirrors the structure of [[trust-banks/trust-companies-japan-index]] and [[foreign-financial-institutions/foreign-bank-branches-japan-index]].
 
-Standalone insurer pages stay in [[JapanFG/INDEX|JapanFG]]. Concept pages (catastrophe risk, agency channel, solvency) stay in [[insurance/INDEX|insurance]]. This index sits between them and routes both ways.
+Standalone insurer pages stay in [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Concept pages (catastrophe risk, agency channel, solvency) stay in [[insurance/INDEX|insurance]]. This index sits between them and routes both ways.
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]] as the non-life counterpart to [[trust-banks/trust-companies-japan-index|trust companies registry index]] and [[foreign-financial-institutions/foreign-bank-branches-japan-index|foreign bank branches registry index]]. Read it against [[insurance/japan-nonlife-big-three|Japan non-life big three]] for the holding-company comparison layer, [[insurance/natcat-reinsurance-japan|nat-cat reinsurance in Japan]] for the risk-cession layer, and [[insurance/INDEX|insurance index]] for the broader operating-model map. Capital adequacy translation goes through [[insurance/economic-value-based-solvency|economic value-based solvency]] and [[insurance/global-solvency-framework-comparison-matrix|global solvency framework comparison matrix]]. Foreign-reinsurer-only entries are grouped on [[insurance/foreign-reinsurer-japan-landscape|foreign reinsurer Japan landscape]] and [[insurance/lloyds-japan-syndicate-operating-model|Lloyd's Japan syndicate operating model]] sister pages.
+This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]] as the non-life counterpart to [[trust-banks/trust-companies-japan-index|trust companies registry index]] and [[foreign-financial-institutions/foreign-bank-branches-japan-index|foreign bank branches registry index]]. Read it against [[insurance/japan-nonlife-big-three|Japan non-life big three]] for the holding-company comparison layer, [[insurance/natcat-reinsurance-japan|nat-cat reinsurance in Japan]] for the risk-cession layer, and [[insurance/INDEX|insurance index]] for the broader operating-model map. Capital adequacy translation goes through [[insurance/economic-value-based-solvency|economic value-based solvency]] and [[insurance/global-solvency-framework-comparison-matrix|global solvency framework comparison matrix]]. Foreign-reinsurer-only entries are grouped on [[insurance/foreign-reinsurer-japan-landscape|foreign reinsurer Japan landscape]] and [[insurance/lloyds-japan-syndicate-operating-model|Lloyd's Japan syndicate operating model]] sister pages.
 
 ## Boundary
 
@@ -164,7 +164,7 @@ A standalone page is *not* required for every FSA row that is captured here. Lon
 
 ## Related
 
-- [[JapanFG/INDEX]]
+- [[non-life-insurers/INDEX]]
 - [[trust-banks/trust-companies-japan-index]]
 - [[foreign-financial-institutions/foreign-bank-branches-japan-index]]
 - [[insurance/INDEX]]

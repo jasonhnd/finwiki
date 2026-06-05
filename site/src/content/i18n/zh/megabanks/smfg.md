@@ -1,5 +1,5 @@
 ---
-source: japanfg/smfg
+source: megabanks/smfg
 source_hash: 9482726f9d345afa
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.117Z
 
 ## 维基路线
 
-该条目位于 [[JapanFG/INDEX|JapanFG index]] 下。使用 [[banking/INDEX|banking index]] 来了解相邻上下文，使用 [[securities/INDEX|securities index]] 来了解更广泛的系统边界。
+该条目位于 [[megabanks/INDEX|megabanks INDEX]] 下。使用 [[banking/INDEX|banking index]] 来了解相邻上下文，使用 [[securities/INDEX|securities index]] 来了解更广泛的系统边界。
 
 ## 长篇大论；博士
 

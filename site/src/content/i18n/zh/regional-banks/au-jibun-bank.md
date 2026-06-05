@@ -1,5 +1,5 @@
 ---
-source: japanfg/au-jibun-bank
+source: regional-banks/au-jibun-bank
 source_hash: 103789f826a93c41
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T11:13:44.867Z
 
 ## Wiki 路由
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]]。建议与 [[regional-banks/sony-bank|Sony Bank]]、[[trust-banks/orix-bank|ORIX Bank]]、[[JapanFG/rakuten-bank|Rakuten Bank]] 对照阅读，以理解网络银行同业；与 [[megabanks/mufg-bank|MUFG Bank]] 一起阅读，以把握其作为共同出资母行的路径；并与 [[banking/INDEX|banking index]] 一起阅读，以理解更广义的银行与监管边界。
+本条目位于 [[regional-banks/INDEX|regional-banks INDEX]]。建议与 [[regional-banks/sony-bank|Sony Bank]]、[[trust-banks/orix-bank|ORIX Bank]]、[[JapanFG/rakuten-bank|Rakuten Bank]] 对照阅读，以理解网络银行同业；与 [[megabanks/mufg-bank|MUFG Bank]] 一起阅读，以把握其作为共同出资母行的路径；并与 [[banking/INDEX|banking index]] 一起阅读，以理解更广义的银行与监管边界。
 
 ## TL;DR
 
@@ -103,7 +103,7 @@ au Jibun Bank Corporation 是由 **KDDI（au）** 与 [[megabanks/mufg|Mitsubish
 - [[regional-banks/sbi-sumishin-net-bank|SBI Sumishin Net Bank]] - 网络银行同业
 - [[JapanFG/paypay-bank|PayPay Bank]] - 通信 / 支付经济圈型网络银行同业
 - [[trust-banks/orix-bank|ORIX Bank]] - 独立型网络银行同业
-- [[JapanFG/INDEX|JapanFG index]]
+- [[regional-banks/INDEX|regional-banks INDEX]]
 - [[banking/INDEX|Banking domain index]]
 
 ## 来源

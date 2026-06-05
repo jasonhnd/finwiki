@@ -85,7 +85,7 @@ Large-shareholding filings are part of [[finance/japan-activist-investor-playboo
 - issuer governance reforms;
 - market-price and volume context.
 
-For bank, brokerage, insurance, and fintech entities, link relevant control cases back to [[JapanFG/INDEX|JapanFG]] pages only when the public source supports the entity-level relevance.
+For bank, brokerage, insurance, and fintech entities, link relevant control cases back to [[finance/INDEX|finance INDEX]] pages only when the public source supports the entity-level relevance.
 
 ## EDINET Workflow
 

@@ -50,10 +50,9 @@
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 11,
+    "wikilinks_count": 10,
     "wikilinks": [
       "INDEX",
-      "JapanFG/INDEX",
       "corporate-strategy/INDEX",
       "corporate-strategy/japan-kaisha-bunkatsu-tax-regime",
       "finance/INDEX",
@@ -66,7 +65,6 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/corporate-strategy/INDEX",
       "https://finwiki.zksc.io/corporate-strategy/japan-kaisha-bunkatsu-tax-regime",
       "https://finwiki.zksc.io/finance/INDEX",
@@ -81,9 +79,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3670,
-    "word_like_tokens": 532,
+    "nonspace_chars": 3692,
+    "word_like_tokens": 534,
     "inbound_wikilinks_count": 17,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

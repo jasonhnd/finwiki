@@ -1,5 +1,5 @@
 ---
-source: japanfg/bank-of-china-japan
+source: foreign-financial-institutions/bank-of-china-japan
 source_hash: 4524c9268cc207c2
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:01:20.925Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] に属する。ピア / 対比の文脈では [[foreign-financial-institutions/icbc-japan|中国工商銀行 東京支店]] を、より広いシステム / 規制境界では [[banking/INDEX|banking index]] を参照する。
+この項目は [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]] に属する。ピア / 対比の文脈では [[foreign-financial-institutions/icbc-japan|中国工商銀行 東京支店]] を、より広いシステム / 規制境界では [[banking/INDEX|banking index]] を参照する。
 
 ## 要約
 

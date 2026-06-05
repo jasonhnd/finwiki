@@ -1,5 +1,5 @@
 ---
-source: japanfg/hokkoku-bank
+source: regional-banks/hokkoku-bank
 source_hash: 7929fdd91cf16f4d
 lang: zh
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-05-31T15:29:03.923Z
 
 ## Wiki 路径
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可与 [[regional-banks/fukuoka-bank|福冈银行]] 进行同业对照，并结合 [[banking/INDEX|banking index]] 理解更广的银行系统与监管边界。
+本条目位于 [[regional-banks/INDEX|regional-banks INDEX]] 之下。可与 [[regional-banks/fukuoka-bank|福冈银行]] 进行同业对照，并结合 [[banking/INDEX|banking index]] 理解更广的银行系统与监管边界。
 
 ## TL;DR
 

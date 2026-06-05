@@ -28,7 +28,7 @@ sources:
 
 Japan's non-life "big three" is a holding-company grouping for [[non-life-insurers/tokio-marine|Tokio Marine]], [[non-life-insurers/msad|MS&AD]], and [[non-life-insurers/sompo|Sompo]]. The operating-company layer includes [[non-life-insurers/tokio-marine-nichido-fire|Tokio Marine & Nichido Fire]], [[non-life-insurers/mitsui-sumitomo-insurance|Mitsui Sumitomo Insurance]], [[non-life-insurers/aioi-nissay-dowa-insurance|Aioi Nissay Dowa Insurance]], and [[non-life-insurers/sompo-japan-insurance|Sompo Japan Insurance]].
 
-This page sits under [[insurance/INDEX|insurance domain]] and uses [[JapanFG/INDEX|JapanFG]] for insurer entity pages. Use it with [[insurance/natcat-reinsurance-japan|nat-cat reinsurance Japan]], [[insurance/earthquake-insurance-public-private-scheme|earthquake insurance public-private scheme]], [[insurance/economic-value-based-solvency|economic-value solvency]], [[financial-licenses/insurance-license-and-solvency|insurance license and solvency route]], and [[insurance/insurance-agency-and-brokerage-japan|insurance agency and brokerage Japan]].
+This page sits under [[insurance/INDEX|insurance domain]] and uses [[insurance/INDEX|insurance INDEX]] for insurer entity pages. Use it with [[insurance/natcat-reinsurance-japan|nat-cat reinsurance Japan]], [[insurance/earthquake-insurance-public-private-scheme|earthquake insurance public-private scheme]], [[insurance/economic-value-based-solvency|economic-value solvency]], [[financial-licenses/insurance-license-and-solvency|insurance license and solvency route]], and [[insurance/insurance-agency-and-brokerage-japan|insurance agency and brokerage Japan]].
 
 ## Holding-Company Map
 

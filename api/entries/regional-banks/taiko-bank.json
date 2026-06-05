@@ -35,7 +35,7 @@
       "https://www.taikobank.jp/company/profile.php"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it with banking index for adjacent context and JapanFG index for the broader system boundary.",
+  "summary": "This entry sits under regional-banks INDEX. Read it with banking index for adjacent context and JapanFG index for the broader system boundary.",
   "headings": [
     "大光銀行",
     "Wiki route",
@@ -49,30 +49,30 @@
   "body_links": {
     "wikilinks_count": 7,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "banking/regional-bank-consolidation-pattern",
       "dai-shi-hokuetsu-fg",
       "daishi-hokuetsu-bank",
       "financial-licenses/INDEX",
+      "regional-banks/INDEX",
       "sbi-regional-bank-hd"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
       "https://finwiki.zksc.io/dai-shi-hokuetsu-fg",
       "https://finwiki.zksc.io/daishi-hokuetsu-bank",
       "https://finwiki.zksc.io/financial-licenses/INDEX",
+      "https://finwiki.zksc.io/regional-banks/INDEX",
       "https://finwiki.zksc.io/sbi-regional-bank-hd"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1809,
-    "word_like_tokens": 290,
+    "nonspace_chars": 1823,
+    "word_like_tokens": 292,
     "inbound_wikilinks_count": 1,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

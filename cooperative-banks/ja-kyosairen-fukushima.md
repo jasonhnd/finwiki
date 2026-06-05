@@ -28,7 +28,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **first prefectural-federation anchor for the JA Kyosairen system in FinWiki**, closing the audit gap that "JA 共済連 exists but no prefectural 信連 anchors exist". Fukushima was selected for its disaster-recovery-context relevance (2011 東日本大震災・原発事故 + 建物更生共済 = 建更 の大規模給付実績). Read with [[non-life-insurers/ja-kyosairen|JA 共済連 (全国本部)]] for the national parent, [[regional-banks/fukushima-bank|福島銀行]] for the regional banking peer, [[cooperative-banks/ja-shinnoren|JA 信連]] for the agricultural-credit prefectural equivalent, and [[banking/ja-bank-system-japan|JA Bank system]] for the system boundary.
+This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as the **first prefectural-federation anchor for the JA Kyosairen system in FinWiki**, closing the audit gap that "JA 共済連 exists but no prefectural 信連 anchors exist". Fukushima was selected for its disaster-recovery-context relevance (2011 東日本大震災・原発事故 + 建物更生共済 = 建更 の大規模給付実績). Read with [[non-life-insurers/ja-kyosairen|JA 共済連 (全国本部)]] for the national parent, [[regional-banks/fukushima-bank|福島銀行]] for the regional banking peer, [[cooperative-banks/ja-shinnoren|JA 信連]] for the agricultural-credit prefectural equivalent, and [[banking/ja-bank-system-japan|JA Bank system]] for the system boundary.
 
 ## TL;DR
 
@@ -147,7 +147,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] as the **first prefectural
 - [[banking/ja-bank-system-japan]] — JA Bank system
 - [[banking/cooperative-banking-japan]] — 協同組織金融全体
 - [[insurance/INDEX]] — 保険ドメイン (共済比較)
-- [[JapanFG/INDEX|JapanFG index]]
+- [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 
 ## Sources
 

@@ -56,10 +56,9 @@
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 20,
+    "wikilinks_count": 19,
     "wikilinks": [
       "INDEX",
-      "JapanFG/INDEX",
       "loyalty/INDEX",
       "loyalty/d-point-au-kddi-docomo-telco-point-consolidation",
       "loyalty/d-point-detailed-ecosystem",
@@ -81,7 +80,6 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/loyalty/INDEX",
       "https://finwiki.zksc.io/loyalty/d-point-au-kddi-docomo-telco-point-consolidation",
       "https://finwiki.zksc.io/loyalty/d-point-detailed-ecosystem",
@@ -105,9 +103,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 8582,
-    "word_like_tokens": 1409,
+    "nonspace_chars": 8551,
+    "word_like_tokens": 1405,
     "inbound_wikilinks_count": 1,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

@@ -13,7 +13,7 @@ translated_at: 2026-06-03T00:53:08.269Z
 
 日本のオンライン証券競争は、もはや単純な「手数料の安さ」競争ではなく、獲得ファネルの競争になっている。NISA 口座、ポイントプログラム、銀行連携、クレジットカード積立、アプリ配布、SOR / PTS 執行、商品幅、資産維持の導線が競争軸である。
 
-このページは、[[securities/nisa-2024-flow|NISA 2024 flow]]、[[financial-licenses/securities-license-stack|Japan securities license stack]]、[[securities/financial-instruments-business-operators-japan-index|FIEA operator registry index]]、[[loyalty/japan-points-landscape|Japan points landscape]]と併せて読む。会社別の結論は、引き続き該当する[[JapanFG/INDEX|JapanFG]]ページに置く。
+このページは、[[securities/nisa-2024-flow|NISA 2024 flow]]、[[financial-licenses/securities-license-stack|Japan securities license stack]]、[[securities/financial-instruments-business-operators-japan-index|FIEA operator registry index]]、[[loyalty/japan-points-landscape|Japan points landscape]]と併せて読む。会社別の結論は、引き続き該当する[[securities/INDEX|securities INDEX]]ページに置く。
 
 ## 競争軸
 

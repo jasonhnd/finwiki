@@ -37,7 +37,7 @@
       "https://www.chugin.co.jp/company/"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 広島銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under regional-banks INDEX. Read it against 広島銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [
     "中国銀行",
     "Wiki route",
@@ -51,21 +51,21 @@
   "body_links": {
     "wikilinks_count": 8,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "banking/regional-bank-consolidation-pattern",
       "chugin-okayama",
       "hiroshima-bank",
+      "regional-banks/INDEX",
       "regional-banks/hiroshima-bank",
       "tomato-bank",
       "tottori-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
       "https://finwiki.zksc.io/chugin-okayama",
       "https://finwiki.zksc.io/hiroshima-bank",
+      "https://finwiki.zksc.io/regional-banks/INDEX",
       "https://finwiki.zksc.io/regional-banks/hiroshima-bank",
       "https://finwiki.zksc.io/tomato-bank",
       "https://finwiki.zksc.io/tottori-bank"
@@ -74,9 +74,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1835,
-    "word_like_tokens": 285,
+    "nonspace_chars": 1849,
+    "word_like_tokens": 287,
     "inbound_wikilinks_count": 7,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

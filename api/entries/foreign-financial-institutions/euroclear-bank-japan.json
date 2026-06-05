@@ -40,7 +40,7 @@
       "https://www.euroclear.com/newsandinsights/en/Format/CaseStudies/JapaneseGovernmentBonds.html"
     ]
   },
-  "summary": "This entry sits under JapanFG and upgrades the Euroclear row in foreign-bank branch registry from registry-only to a standalone ICSD / collateral route. Read it with Clearstream Banking Japan, Japan market infrastructure map, and JGB repo market.",
+  "summary": "This entry sits under foreign-financial-institutions INDEX and upgrades the Euroclear row in foreign-bank branch registry from registry-only to a standalone ICSD / collateral route. Read it with Clearstream Banking Japan, Japan market infrastructure map, and JGB repo market.",
   "headings": [
     "ユーロクリア・バンク日本 (Euroclear Bank Japan)",
     "Wiki route",
@@ -57,9 +57,9 @@
     "wikilinks_count": 14,
     "wikilinks": [
       "INDEX",
-      "JapanFG/INDEX",
       "banking/japan-trust-bank-custody-map",
       "financial-regulators/japan-securities-finance",
+      "foreign-financial-institutions/INDEX",
       "foreign-financial-institutions/bny-mellon-japan",
       "foreign-financial-institutions/clearstream-banking-japan",
       "foreign-financial-institutions/deutsche-japan",
@@ -73,9 +73,9 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/japan-trust-bank-custody-map",
       "https://finwiki.zksc.io/financial-regulators/japan-securities-finance",
+      "https://finwiki.zksc.io/foreign-financial-institutions/INDEX",
       "https://finwiki.zksc.io/foreign-financial-institutions/bny-mellon-japan",
       "https://finwiki.zksc.io/foreign-financial-institutions/clearstream-banking-japan",
       "https://finwiki.zksc.io/foreign-financial-institutions/deutsche-japan",
@@ -91,9 +91,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6834,
-    "word_like_tokens": 1035,
+    "nonspace_chars": 6908,
+    "word_like_tokens": 1042,
     "inbound_wikilinks_count": 13,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

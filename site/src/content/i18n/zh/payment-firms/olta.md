@@ -1,5 +1,5 @@
 ---
-source: japanfg/olta
+source: payment-firms/olta
 source_hash: 319ef49816d12391
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T00:41:50.432Z
 
 ## Wiki route
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下，作为位于更广义营运资金栈中、与 BNPL 相邻的 **B2B factoring fintech**。可与 [[payment-firms/bnpl-landscape|Japan BNPL landscape]] 系统笔记、[[payment-firms/net-protections-hd|Net Protections HD]] 这个 BtoB BNPL 同业（NP 挂け払い），以及 [[payment-firms/money-forward|Money Forward]] / Biz Forward 这个 SaaS 主导 factoring 对照项一起阅读。[[payments/japan-bnpl-credit-purchase-boundary|BNPL and credit-purchase boundary]] 用于界定 factoring 是否算作 credit，[[payments/credit-purchase-card-operators-japan-index|METI credit-purchase registry]] 是相关基线，[[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]] 则把营运资金经济学放在银行卡 / 码支付轨道旁边定位。
+本条目位于 [[payment-firms/INDEX|payment-firms INDEX]] 之下，作为位于更广义营运资金栈中、与 BNPL 相邻的 **B2B factoring fintech**。可与 [[payment-firms/bnpl-landscape|Japan BNPL landscape]] 系统笔记、[[payment-firms/net-protections-hd|Net Protections HD]] 这个 BtoB BNPL 同业（NP 挂け払い），以及 [[payment-firms/money-forward|Money Forward]] / Biz Forward 这个 SaaS 主导 factoring 对照项一起阅读。[[payments/japan-bnpl-credit-purchase-boundary|BNPL and credit-purchase boundary]] 用于界定 factoring 是否算作 credit，[[payments/credit-purchase-card-operators-japan-index|METI credit-purchase registry]] 是相关基线，[[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]] 则把营运资金经济学放在银行卡 / 码支付轨道旁边定位。
 
 ## TL;DR
 

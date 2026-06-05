@@ -103,7 +103,7 @@ When dealing with financial / policy research, use the systems of [[policy-finan
 
 - [[fintech/japan-financial-regulation|japan-financial-regulation]] (adjacent legal systems in the financial domain)
 - [[non-profit/japan-research-grant-map-2026|日本 研究助成金 map（2026 年度）]] (list of grants obtainable after foundation establishment)
-- [[JapanFG/INDEX|JapanFG INDEX]] (reference to real-world financial-group examples)
+- [[non-profit/INDEX|non-profit INDEX]] (reference to real-world financial-group examples)
 
 ## Sources
 

@@ -1,5 +1,5 @@
 ---
-source: japanfg/dai-ichi-life
+source: life-insurers/dai-ichi-life
 source_hash: b0f7f138f202d270
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:25:12.411Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] 配下に位置する。比較・対照の文脈では [[life-insurers/nippon-life|日本生命保険相互会社 (Nippon Life)]]、制度全体と規制境界の文脈では [[insurance/INDEX|insurance index]] とあわせて読む。
+この項目は [[life-insurers/INDEX|life-insurers INDEX]] 配下に位置する。比較・対照の文脈では [[life-insurers/nippon-life|日本生命保険相互会社 (Nippon Life)]]、制度全体と規制境界の文脈では [[insurance/INDEX|insurance index]] とあわせて読む。
 
 ## 要約
 

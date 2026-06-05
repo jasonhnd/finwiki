@@ -35,7 +35,7 @@
       "りそな HD 公式 IR / 統合報告書"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against シティグループ・ジャパン (Citigroup Japan) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under megabanks INDEX. Read it against シティグループ・ジャパン (Citigroup Japan) for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [
     "りそなホールディングス (Resona Holdings)",
     "Wiki route",
@@ -51,11 +51,11 @@
   "body_links": {
     "wikilinks_count": 10,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "banking/post-megabank-positioning",
       "foreign-financial-institutions/citigroup-japan",
       "kansai-mirai-bank",
+      "megabanks/INDEX",
       "minato-bank",
       "mizuho-fg",
       "mufg",
@@ -63,11 +63,11 @@
       "smfg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/post-megabank-positioning",
       "https://finwiki.zksc.io/foreign-financial-institutions/citigroup-japan",
       "https://finwiki.zksc.io/kansai-mirai-bank",
+      "https://finwiki.zksc.io/megabanks/INDEX",
       "https://finwiki.zksc.io/minato-bank",
       "https://finwiki.zksc.io/mizuho-fg",
       "https://finwiki.zksc.io/mufg",
@@ -78,9 +78,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4406,
+    "nonspace_chars": 4410,
     "word_like_tokens": 757,
     "inbound_wikilinks_count": 17,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

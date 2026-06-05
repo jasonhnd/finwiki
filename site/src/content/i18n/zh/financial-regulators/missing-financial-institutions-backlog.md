@@ -1,5 +1,5 @@
 ---
-source: japanfg/missing-financial-institutions-backlog
+source: financial-regulators/missing-financial-institutions-backlog
 source_hash: 2606f321d3665e5f
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:59:49.427Z
 
 ## 概览
 
-本页是将 [[JapanFG/INDEX|JapanFG]] 从主要机构 wiki 扩展为登记册感知型日本金融机构地图的执行清单。
+本页是将 [[financial-regulators/INDEX|financial-regulators INDEX]] 从主要机构 wiki 扩展为登记册感知型日本金融机构地图的执行清单。
 
 ?? wiki ??????????????????????????????????????????????????????????????????????????????????? / ????????????
 
@@ -212,7 +212,7 @@ Complete these before writing more than 20 new pages.
 | [x] | Download and normalize FSA registry Excel files into a temporary working table outside the public wiki. | Working copy created outside the public wiki; no local worksheet committed. |
 | [x] | Match official names to existing wiki slugs. | Machine exact / alias lower-bound match completed; group-covered entries require human review. |
 | [x] | Add a compact completeness table to this backlog. | See QA snapshot below; no personal data, no local path. |
-| [x] | Add or update domain indexes after each batch. | `JapanFG/INDEX.md` and root [[INDEX|INDEX]] synced after A/F and B1; Batch J recorded in [[JapanFG/INDEX|JapanFG INDEX]]. |
+| [x] | Add or update domain indexes after each batch. | `JapanFG/INDEX.md` and root [[INDEX|INDEX]] synced after A/F and B1; Batch J recorded in [[financial-regulators/INDEX|financial-regulators INDEX]]. |
 | [x] | Run wikilink health check after each batch. | Changed-file wikilinks: 42 files ok after B1. |
 | [x] | Update [[CHANGELOG|CHANGELOG]] for each batch. | A/F, B1, and Batch J recorded with JST time, scope, validation, and remaining work. |
 | [x] | Recount root [[INDEX|INDEX]] after each batch. | Root domain table sum = 538 and filesystem count = 538 after B1; Batch J does not add entries. Post-Wave-13 refresh (2026-05-25): JapanFG headline now **620 entity entries**, filesystem .md count = **621** incl. INDEX / backlog / non-entity surfaces. |

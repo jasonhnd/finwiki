@@ -1,5 +1,5 @@
 ---
-source: japanfg/rbc-japan
+source: foreign-financial-institutions/rbc-japan
 source_hash: 011681da865d4fb0
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T00:41:50.399Z
 
 ## Wiki 路由
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。请结合 [[foreign-financial-institutions/credit-agricole-bank-japan|クレディ・アグリコル銀行 東京支店]] 阅读，以取得同业 / 对比语境；并结合 [[banking/INDEX|banking index]] 阅读，以理解更广泛的体系 / 监管边界。
+本条目位于 [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]] 之下。请结合 [[foreign-financial-institutions/credit-agricole-bank-japan|クレディ・アグリコル銀行 東京支店]] 阅读，以取得同业 / 对比语境；并结合 [[banking/INDEX|banking index]] 阅读，以理解更广泛的体系 / 监管边界。
 
 ## TL;DR
 

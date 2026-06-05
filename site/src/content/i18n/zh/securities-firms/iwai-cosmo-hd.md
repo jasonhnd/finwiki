@@ -1,5 +1,5 @@
 ---
-source: japanfg/iwai-cosmo-hd
+source: securities-firms/iwai-cosmo-hd
 source_hash: a1fe444a0496cd77
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T15:29:03.869Z
 
 ## Wiki 路径
 
-本条目位于 [[JapanFG/INDEX|JapanFG 索引]] 下。可与 [[securities-firms/okasan-sg|冈三证券集团（Okasan Securities Group）]] 对照阅读，以理解中坚独立证券集团的竞争位置；也可结合 [[securities/INDEX|证券索引]] 阅读，以把握更广泛的制度与监管背景。
+本条目位于 [[securities-firms/INDEX|securities-firms INDEX]] 下。可与 [[securities-firms/okasan-sg|冈三证券集团（Okasan Securities Group）]] 对照阅读，以理解中坚独立证券集团的竞争位置；也可结合 [[securities/INDEX|证券索引]] 阅读，以把握更广泛的制度与监管背景。
 
 ## TL;DR
 

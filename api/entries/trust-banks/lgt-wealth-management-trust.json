@@ -36,7 +36,7 @@
       "https://www.lgt.com/jp-en/company-information"
     ]
   },
-  "summary": "LGT Wealth Management Trust is a standalone trust-company route under JapanFG and is promoted from the Japan trust companies registry index. Read it with UBS Japan, SMBC Trust Bank, Mitsubishi UFJ Trust Bank, and Japan trust-bank custody map.",
+  "summary": "LGT Wealth Management Trust is a standalone trust-company route under trust-banks INDEX and is promoted from the Japan trust companies registry index. Read it with UBS Japan, SMBC Trust Bank, Mitsubishi UFJ Trust Bank, and Japan trust-bank custody map.",
   "headings": [
     "LGTウェルスマネジメント信託 (LGT Wealth Management Trust)",
     "Wiki route",
@@ -52,18 +52,18 @@
     "wikilinks_count": 7,
     "wikilinks": [
       "INDEX",
-      "JapanFG/INDEX",
       "banking/japan-trust-bank-custody-map",
       "foreign-financial-institutions/ubs-japan",
+      "trust-banks/INDEX",
       "trust-banks/mitsubishi-ufj-trust-bank",
       "trust-banks/smbc-trust-bank",
       "trust-banks/trust-companies-japan-index"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/japan-trust-bank-custody-map",
       "https://finwiki.zksc.io/foreign-financial-institutions/ubs-japan",
+      "https://finwiki.zksc.io/trust-banks/INDEX",
       "https://finwiki.zksc.io/trust-banks/mitsubishi-ufj-trust-bank",
       "https://finwiki.zksc.io/trust-banks/smbc-trust-bank",
       "https://finwiki.zksc.io/trust-banks/trust-companies-japan-index"
@@ -72,9 +72,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3520,
-    "word_like_tokens": 561,
+    "nonspace_chars": 3537,
+    "word_like_tokens": 565,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

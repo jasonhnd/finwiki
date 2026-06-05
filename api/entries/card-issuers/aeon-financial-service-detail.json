@@ -45,7 +45,7 @@
       "Wikipedia: 電通グループ (公開情報, 2026-05-25 抽出)"
     ]
   },
-  "summary": "This entry sits under JapanFG index as the operating-company anchor for 株式会社電通グループ（東証 PRIME 4324、世界 5 大広告会社の一角）の 金融機能子会社群 — specifically, 電通ベンチャーズ（CVC = Corporate Venture Capital）+ 電通キャピタル（M&A / 戦略投資）+ 広告主向け請求・決済機能 + 国際拠点ファイナンス機能. Read it against 博報堂 DY HD や WPP Japan for media-industry peer context",
+  "summary": "This entry sits under card-issuers INDEX as the operating-company anchor for 株式会社電通グループ（東証 PRIME 4324、世界 5 大広告会社の一角）の 金融機能子会社群 — specifically, 電通ベンチャーズ（CVC = Corporate Venture Capital）+ 電通キャピタル（M&A / 戦略投資）+ 広告主向け請求・決済機能 + 国際拠点ファイナンス機能. Read it against 博報堂 DY HD や WPP Japan for media-industry peer co",
   "headings": [
     "電通グループ金融子会社 (Dentsu Group Financial Arm)",
     "Wiki route",
@@ -61,10 +61,10 @@
   "body_links": {
     "wikilinks_count": 10,
     "wikilinks": [
-      "JapanFG/INDEX",
       "JapanFG/nissan-finance",
       "JapanFG/sony-finance",
       "asset-management/cvc-japan-landscape",
+      "card-issuers/INDEX",
       "card-issuers/aeon-financial-service",
       "card-issuers/toyota-finance",
       "megabanks/mufg",
@@ -73,10 +73,10 @@
       "megabanks/sony-fg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/JapanFG/nissan-finance",
       "https://finwiki.zksc.io/JapanFG/sony-finance",
       "https://finwiki.zksc.io/asset-management/cvc-japan-landscape",
+      "https://finwiki.zksc.io/card-issuers/INDEX",
       "https://finwiki.zksc.io/card-issuers/aeon-financial-service",
       "https://finwiki.zksc.io/card-issuers/toyota-finance",
       "https://finwiki.zksc.io/megabanks/mufg",
@@ -88,9 +88,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6004,
-    "word_like_tokens": 1027,
+    "nonspace_chars": 6024,
+    "word_like_tokens": 1031,
     "inbound_wikilinks_count": 1,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

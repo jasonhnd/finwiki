@@ -23,7 +23,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル (現行統合エンティティ)]] for the surviving entity post-2021 merger and [[banking/INDEX|banking index]] for the broader system / regulatory boundary. As a Hitachi-side historical entity, read it together with [[megabanks/mufg|MUFG]] for parent-group context post-merger.
+This entry sits under [[leasing-firms/INDEX|leasing-firms INDEX]]. Read it against [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル (現行統合エンティティ)]] for the surviving entity post-2021 merger and [[banking/INDEX|banking index]] for the broader system / regulatory boundary. As a Hitachi-side historical entity, read it together with [[megabanks/mufg|MUFG]] for parent-group context post-merger.
 
 ## TL;DR
 

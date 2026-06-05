@@ -33,7 +33,7 @@
       "住友生命 公式サイト 会社情報 / 沿革 (2026-05-19 アクセス)"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 日本生命保険相互会社 (Nippon Life) for peer / contrast context and insurance index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under life-insurers INDEX. Read it against 日本生命保険相互会社 (Nippon Life) for peer / contrast context and insurance index for the broader system / regulatory boundary.",
   "headings": [
     "住友生命保険相互会社 (Sumitomo Life)",
     "Wiki route",
@@ -49,8 +49,8 @@
   "body_links": {
     "wikilinks_count": 7,
     "wikilinks": [
-      "JapanFG/INDEX",
       "insurance/INDEX",
+      "life-insurers/INDEX",
       "life-insurers/nippon-life",
       "meiji-yasuda",
       "mizuho-fg",
@@ -58,8 +58,8 @@
       "smfg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/insurance/INDEX",
+      "https://finwiki.zksc.io/life-insurers/INDEX",
       "https://finwiki.zksc.io/life-insurers/nippon-life",
       "https://finwiki.zksc.io/meiji-yasuda",
       "https://finwiki.zksc.io/mizuho-fg",
@@ -70,9 +70,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3592,
-    "word_like_tokens": 554,
+    "nonspace_chars": 3604,
+    "word_like_tokens": 556,
     "inbound_wikilinks_count": 23,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

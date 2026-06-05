@@ -51,10 +51,9 @@
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 18,
+    "wikilinks_count": 17,
     "wikilinks": [
       "INDEX",
-      "JapanFG/INDEX",
       "banking/INDEX",
       "financial-licenses/insurance-license-and-solvency",
       "fintech/INDEX",
@@ -74,7 +73,6 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/financial-licenses/insurance-license-and-solvency",
       "https://finwiki.zksc.io/fintech/INDEX",
@@ -96,9 +94,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6138,
-    "word_like_tokens": 903,
+    "nonspace_chars": 6147,
+    "word_like_tokens": 904,
     "inbound_wikilinks_count": 23,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

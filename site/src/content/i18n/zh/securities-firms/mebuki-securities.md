@@ -1,5 +1,5 @@
 ---
-source: japanfg/mebuki-securities
+source: securities-firms/mebuki-securities
 source_hash: e835c7315e480666
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:59:49.400Z
 
 ## Wiki route
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下，是 [[mebuki-fg|めぶき FG]] 的 FG 子公司证券运营公司锚点。可与 [[joyo-bank|常陽銀行]] 和 [[ashikaga-bank|足利銀行]]（母银行子公司）以及 [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]]（系统 / 监管边界）对照阅读。相邻同业是 [[fukuoka-fg]] 旗下的 [[ffg-securities|FFG 証券]]，用于 FG 关联地方证券比较。
+本条目位于 [[securities-firms/INDEX|securities-firms INDEX]] 之下，是 [[mebuki-fg|めぶき FG]] 的 FG 子公司证券运营公司锚点。可与 [[joyo-bank|常陽銀行]] 和 [[ashikaga-bank|足利銀行]]（母银行子公司）以及 [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]]（系统 / 监管边界）对照阅读。相邻同业是 [[fukuoka-fg]] 旗下的 [[ffg-securities|FFG 証券]]，用于 FG 关联地方证券比较。
 
 ## TL;DR
 
@@ -115,7 +115,7 @@ translated_at: 2026-05-31T23:59:49.400Z
 - [[ffg-securities]] · [[okasan-sg]] · [[aizawa-sg]] · [[iwai-cosmo-hd]]
 - [[smbc-nikko]] · [[mizuho-securities]] · [[mufg-mums]] · [[daiwa-sg]] · [[nomura-hd]]
 - [[jsda]] · [[banking/regional-bank-consolidation-pattern]] · [[banking/INDEX]]
-- [[JapanFG/INDEX|JapanFG index]]
+- [[securities-firms/INDEX|securities-firms INDEX]]
 
 ## Sources
 

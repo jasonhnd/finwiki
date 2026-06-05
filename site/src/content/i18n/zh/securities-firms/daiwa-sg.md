@@ -1,5 +1,5 @@
 ---
-source: japanfg/daiwa-sg
+source: securities-firms/daiwa-sg
 source_hash: b94e1c696e877472
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T15:29:03.896Z
 
 ## 维基路线
 
-此条目位于 [[JapanFG/INDEX|JapanFG index]] 下。针对同行/对比背景阅读 [[securities-firms/nomura-hd|野村ホールディングス (Nomura HD)]]，针对更广泛的系统/监管边界阅读 [[securities/INDEX|securities index]]。
+此条目位于 [[securities-firms/INDEX|securities-firms INDEX]] 下。针对同行/对比背景阅读 [[securities-firms/nomura-hd|野村ホールディングス (Nomura HD)]]，针对更广泛的系统/监管边界阅读 [[securities/INDEX|securities index]]。
 
 ##TL;博士
 

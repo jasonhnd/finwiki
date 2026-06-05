@@ -1,5 +1,5 @@
 ---
-source: japanfg/gibraltar-life
+source: life-insurers/gibraltar-life
 source_hash: 0b6ffa2940d830a5
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:25:12.386Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に位置づける。比較対象・対照文脈は [[life-insurers/pgf-life|プルデンシャル ジブラルタ ファイナンシャル生命保険]]、より広い制度・規制上の境界は [[insurance/INDEX|insurance index]] とあわせて読む。
+この項目は [[life-insurers/INDEX|life-insurers INDEX]] の配下に位置づける。比較対象・対照文脈は [[life-insurers/pgf-life|プルデンシャル ジブラルタ ファイナンシャル生命保険]]、より広い制度・規制上の境界は [[insurance/INDEX|insurance index]] とあわせて読む。
 
 ## 要約
 

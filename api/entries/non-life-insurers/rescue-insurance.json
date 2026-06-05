@@ -35,7 +35,7 @@
       "JBR group companies: https://www.jbr.co.jp/affiliated/"
     ]
   },
-  "summary": "Wiki route: JapanFG/INDEX -> insurance/INDEX -> non-life-insurers/rescue-insurance",
+  "summary": "Wiki route: non-life-insurers/INDEX -> insurance/INDEX -> non-life-insurers/rescue-insurance",
   "headings": [
     "Rescue Insurance / レスキュー損害保険",
     "Overview",
@@ -49,18 +49,18 @@
   "body_links": {
     "wikilinks_count": 7,
     "wikilinks": [
-      "JapanFG/INDEX",
       "financial-licenses/insurance-license-and-solvency",
       "insurance/INDEX",
+      "non-life-insurers/INDEX",
       "non-life-insurers/rescue-insurance",
       "non-life-insurers/sakura-insurance",
       "non-life-insurers/secom-insurance",
       "non-life-insurers/zenkankyo-reiwa-insurance"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/financial-licenses/insurance-license-and-solvency",
       "https://finwiki.zksc.io/insurance/INDEX",
+      "https://finwiki.zksc.io/non-life-insurers/INDEX",
       "https://finwiki.zksc.io/non-life-insurers/rescue-insurance",
       "https://finwiki.zksc.io/non-life-insurers/sakura-insurance",
       "https://finwiki.zksc.io/non-life-insurers/secom-insurance",
@@ -70,9 +70,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2289,
-    "word_like_tokens": 360,
+    "nonspace_chars": 2299,
+    "word_like_tokens": 362,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

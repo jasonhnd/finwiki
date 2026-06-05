@@ -1,5 +1,5 @@
 ---
-source: japanfg/taiwan-cooperative-bank-japan
+source: foreign-financial-institutions/taiwan-cooperative-bank-japan
 source_hash: 079c7f512088edcc
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.121Z
 
 ## 维基路线
 
-合作金库日本银行隶属于[[JapanFG/INDEX|JapanFG index]]，是[[foreign-financial-institutions/foreign-bank-branches-japan-index|the foreign-bank branch registry]]的台日外资银行分行路线。使用 [[foreign-financial-institutions/chang-hwa-bank-japan|Chang Hwa Bank Japan]]、[[foreign-financial-institutions/first-commercial-bank-japan|First Commercial Bank Japan]]、[[foreign-financial-institutions/taiwan-business-bank-japan|Taiwan Business Bank Japan]] 和 [[banking/INDEX|banking index]] 读取。
+合作金库日本银行隶属于[[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]]，是[[foreign-financial-institutions/foreign-bank-branches-japan-index|the foreign-bank branch registry]]的台日外资银行分行路线。使用 [[foreign-financial-institutions/chang-hwa-bank-japan|Chang Hwa Bank Japan]]、[[foreign-financial-institutions/first-commercial-bank-japan|First Commercial Bank Japan]]、[[foreign-financial-institutions/taiwan-business-bank-japan|Taiwan Business Bank Japan]] 和 [[banking/INDEX|banking index]] 读取。
 
 使用此页面了解台湾公共/合作银行遗产、台日贸易融资以及较新的东京分行扩建问题。
 
@@ -56,7 +56,7 @@ FinWiki应该将页面重点放在东京分部和台日商业走廊上。母行�
 
 ## 相关
 
-- [[JapanFG/INDEX]]
+- [[foreign-financial-institutions/INDEX]]
 - [[foreign-financial-institutions/foreign-bank-branches-japan-index]]
 - [[foreign-financial-institutions/chang-hwa-bank-japan]]
 - [[foreign-financial-institutions/first-commercial-bank-japan]]

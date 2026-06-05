@@ -1,5 +1,5 @@
 ---
-source: japanfg/first-commercial-bank-japan
+source: foreign-financial-institutions/first-commercial-bank-japan
 source_hash: 53df0976117286e9
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T15:29:03.908Z
 
 ## Wiki 路线
 
-第一商业银行日本位于 [[JapanFG/INDEX|JapanFG 索引]]，是台湾 - 日本外资银行分行路线，也是 [[foreign-financial-institutions/foreign-bank-branches-japan-index|外资银行分行名录]] 的组成部分。请与 [[foreign-financial-institutions/bank-of-taiwan-japan|Bank of Taiwan Japan]]、[[foreign-financial-institutions/mega-icbc-japan|Mega ICBC Japan]]、[[foreign-financial-institutions/ctbc-bank-japan|CTBC Bank Japan]]、[[foreign-financial-institutions/esun-bank-japan|E.SUN Bank Japan]] 和 [[foreign-financial-institutions/taipei-fubon-bank-japan|Taipei Fubon Bank Japan]] 对照阅读。
+第一商业银行日本位于 [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]]，是台湾 - 日本外资银行分行路线，也是 [[foreign-financial-institutions/foreign-bank-branches-japan-index|外资银行分行名录]] 的组成部分。请与 [[foreign-financial-institutions/bank-of-taiwan-japan|Bank of Taiwan Japan]]、[[foreign-financial-institutions/mega-icbc-japan|Mega ICBC Japan]]、[[foreign-financial-institutions/ctbc-bank-japan|CTBC Bank Japan]]、[[foreign-financial-institutions/esun-bank-japan|E.SUN Bank Japan]] 和 [[foreign-financial-institutions/taipei-fubon-bank-japan|Taipei Fubon Bank Japan]] 对照阅读。
 
 本页用于处理围绕第一商业银行日本分行的台湾企业金融、存款、贷款、贸易金融、外汇与汇款路径问题。
 
@@ -60,7 +60,7 @@ FinWiki 已覆盖多家台湾走廊银行；第一商业银行补足了 Bank of 
 
 ## 相关
 
-- [[JapanFG/INDEX]]
+- [[foreign-financial-institutions/INDEX]]
 - [[foreign-financial-institutions/foreign-bank-branches-japan-index]]
 - [[foreign-financial-institutions/bank-of-taiwan-japan]]
 - [[foreign-financial-institutions/mega-icbc-japan]]

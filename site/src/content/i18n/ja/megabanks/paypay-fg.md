@@ -1,5 +1,5 @@
 ---
-source: japanfg/paypay-fg
+source: megabanks/paypay-fg
 source_hash: 5af77f802b8d347e
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T15:14:17.115Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の下に位置づけます。ピア比較・対照の文脈では [[megabanks/au-fh|au フィナンシャルホールディングス (au-FH)]]、より広い制度・規制上の境界では [[banking/INDEX|banking index]] とあわせて読んでください。
+この項目は [[megabanks/INDEX|megabanks INDEX]] の下に位置づけます。ピア比較・対照の文脈では [[megabanks/au-fh|au フィナンシャルホールディングス (au-FH)]]、より広い制度・規制上の境界では [[banking/INDEX|banking index]] とあわせて読んでください。
 
 ## 要約
 

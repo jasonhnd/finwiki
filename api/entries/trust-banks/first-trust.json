@@ -33,7 +33,7 @@
       "First Trust official site: https://www.firstshintaku.co.jp/"
     ]
   },
-  "summary": "Wiki route: JapanFG/INDEX -> trust-banks/trust-companies-japan-index -> trust-banks/first-trust",
+  "summary": "Wiki route: trust-banks/INDEX -> trust-banks/trust-companies-japan-index -> trust-banks/first-trust",
   "headings": [
     "First Trust Japan / ファースト信託",
     "Overview",
@@ -48,8 +48,8 @@
     "wikilinks_count": 7,
     "wikilinks": [
       "INDEX",
-      "JapanFG/INDEX",
       "banking/japan-trust-bank-custody-map",
+      "trust-banks/INDEX",
       "trust-banks/first-trust",
       "trust-banks/jvalue-trust",
       "trust-banks/kyodo-trust",
@@ -57,8 +57,8 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/japan-trust-bank-custody-map",
+      "https://finwiki.zksc.io/trust-banks/INDEX",
       "https://finwiki.zksc.io/trust-banks/first-trust",
       "https://finwiki.zksc.io/trust-banks/jvalue-trust",
       "https://finwiki.zksc.io/trust-banks/kyodo-trust",
@@ -68,9 +68,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2007,
-    "word_like_tokens": 331,
+    "nonspace_chars": 2011,
+    "word_like_tokens": 332,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

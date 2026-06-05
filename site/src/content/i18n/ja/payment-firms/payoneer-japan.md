@@ -1,5 +1,5 @@
 ---
-source: japanfg/payoneer-japan
+source: payment-firms/payoneer-japan
 source_hash: c2a2cd594c5925b8
 lang: ja
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-06-02T15:14:17.092Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に置く。比較・対照の文脈は [[payment-firms/wise-payments-japan|Wise Payments Japan]] と照合し、より広い制度・規制上の境界は [[payments/INDEX|payments index]] とあわせて読む。
+この項目は [[payment-firms/INDEX|payment-firms INDEX]] の配下に置く。比較・対照の文脈は [[payment-firms/wise-payments-japan|Wise Payments Japan]] と照合し、より広い制度・規制上の境界は [[payments/INDEX|payments index]] とあわせて読む。
 
 ## 要約
 

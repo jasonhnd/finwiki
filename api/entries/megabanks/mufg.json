@@ -49,7 +49,7 @@
       "SEC Settled Charges 2025-08-06 (MUFG Securities EMEA, SBSD): https://www.sec.gov/files/litigation/admin/2025/34-103646.pdf"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 三井住友 FG (SMFG / SMBC グループ) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under megabanks INDEX. Read it against 三井住友 FG (SMFG / SMBC グループ) for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [
     "三菱 UFJ FG (MUFG)",
     "Wiki route",
@@ -65,10 +65,10 @@
   "body_links": {
     "wikilinks_count": 10,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "banking/mercari-bank-license-stack",
       "banking/minna-bank-baas-model",
+      "megabanks/INDEX",
       "megabanks/smfg",
       "mizuho-fg",
       "ndfg",
@@ -77,10 +77,10 @@
       "smfg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/mercari-bank-license-stack",
       "https://finwiki.zksc.io/banking/minna-bank-baas-model",
+      "https://finwiki.zksc.io/megabanks/INDEX",
       "https://finwiki.zksc.io/megabanks/smfg",
       "https://finwiki.zksc.io/mizuho-fg",
       "https://finwiki.zksc.io/ndfg",
@@ -92,9 +92,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 14023,
+    "nonspace_chars": 14027,
     "word_like_tokens": 2933,
     "inbound_wikilinks_count": 144,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

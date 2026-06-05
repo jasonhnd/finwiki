@@ -18,7 +18,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it with [[life-insurers/td-hd|T&D Holdings]], [[non-life-insurers/dai-ichi-ipet-insurance|第一アイペット損害保険]], [[non-life-insurers/anicom-insurance|アニコム損害保険]], and [[insurance/INDEX|insurance index]].
+This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read it with [[life-insurers/td-hd|T&D Holdings]], [[non-life-insurers/dai-ichi-ipet-insurance|第一アイペット損害保険]], [[non-life-insurers/anicom-insurance|アニコム損害保険]], and [[insurance/INDEX|insurance index]].
 
 Use this page for the T&D group pet-insurance operating-company route. Use [[life-insurers/td-hd|T&D Holdings]] for the listed insurance-holding-company route.
 

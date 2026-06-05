@@ -1,5 +1,5 @@
 ---
-source: japanfg/rating-and-investment
+source: financial-regulators/rating-and-investment
 source_hash: c1c97db5b6c6a2d5
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T00:41:50.388Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[financial-regulators/jcr|日本格付研究所 (JCR)]] for peer / contrast context and [[financial-regulators/fsa|金融庁]] for the broader regulatory boundary.
+This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]]. Read it against [[financial-regulators/jcr|日本格付研究所 (JCR)]] for peer / contrast context and [[financial-regulators/fsa|金融庁]] for the broader regulatory boundary.
 
 ## TL;DR
 
@@ -108,7 +108,7 @@ Rating and Investment Information, Inc. (R&I) is one of the 2  major domestic cr
 - [[megabanks/mizuho-fg|みずほフィナンシャルグループ]] · [[megabanks/mizuho-bank|みずほ銀行]]
 - [[megabanks/mufg|MUFG]] · [[megabanks/smfg|SMFG]]
 - [[financial-regulators/japan-exchange-group|日本取引所グループ]]
-- [[JapanFG/INDEX|JapanFG index]]
+- [[financial-regulators/INDEX|financial-regulators INDEX]]
 
 ## Sources
 

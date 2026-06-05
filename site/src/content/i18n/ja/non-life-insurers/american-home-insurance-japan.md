@@ -1,5 +1,5 @@
 ---
-source: japanfg/american-home-insurance-japan
+source: non-life-insurers/american-home-insurance-japan
 source_hash: d54475b5bff0af04
 lang: ja
 status: machine
@@ -9,7 +9,7 @@ translated_at: 2026-06-02T14:01:20.899Z
 ---
 # American Home Insurance Japan / アメリカンホーム医療・損害保険
 
-ウィキ上の位置づけ：[[JapanFG/INDEX]] -> [[insurance/INDEX]] -> [[non-life-insurers/american-home-insurance-japan]]
+ウィキ上の位置づけ：[[non-life-insurers/INDEX]] -> [[insurance/INDEX]] -> [[non-life-insurers/american-home-insurance-japan]]
 
 ## 概要
 

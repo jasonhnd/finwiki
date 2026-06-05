@@ -1,5 +1,5 @@
 ---
-source: japanfg/nagasaki-bank
+source: regional-banks/nagasaki-bank
 source_hash: bd9f7d0436438d49
 lang: ja
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-06-02T14:54:39.095Z
 
 ## ウィキ上の位置づけ
 
-この項目 sits under [[JapanFG/INDEX|JapanFG index]]. あわせて読む と照合して [[regional-banks/kumamoto-bank|熊本銀行]] のために 比較・対照 文脈 と [[banking/INDEX|banking index]] のために the より広い制度・規制境界.
+この項目 sits under [[regional-banks/INDEX|regional-banks INDEX]]. あわせて読む と照合して [[regional-banks/kumamoto-bank|熊本銀行]] のために 比較・対照 文脈 と [[banking/INDEX|banking index]] のために the より広い制度・規制境界.
 
 ## 要約
 

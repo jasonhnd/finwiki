@@ -1,5 +1,5 @@
 ---
-source: japanfg/acom-co-detail
+source: consumer-finance/acom-co-detail
 source_hash: a831aad37c8bf471
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T07:28:06.178Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]] and complements the company-level summary at [[consumer-finance/acom|アコム株式会社]]. Read it against [[consumer-finance/smbc-consumer-finance|SMBCコンシューマーファイナンス (プロミス)]] for MUFG-group competitor SMFG-side context, [[consumer-finance/aiful|アイフル]] for independent-pure-play consumer-finance peer, and [[megabanks/mufg|MUFG]] / [[megabanks/mufg-bank|三菱UFJ銀行]] for parent-group context.
+This entry sits under [[consumer-finance/INDEX|consumer-finance INDEX]] and complements the company-level summary at [[consumer-finance/acom|アコム株式会社]]. Read it against [[consumer-finance/smbc-consumer-finance|SMBCコンシューマーファイナンス (プロミス)]] for MUFG-group competitor SMFG-side context, [[consumer-finance/aiful|アイフル]] for independent-pure-play consumer-finance peer, and [[megabanks/mufg|MUFG]] / [[megabanks/mufg-bank|三菱UFJ銀行]] for parent-group context.
 
 ## TL;DR
 
@@ -118,7 +118,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] and complements the compan
 - [[consumer-finance/aiful|アイフル]] — 独立系竞争对手
 - [[card-issuers/jaccs|ジャックス]] — 信贩系竞争对手
 - [[card-issuers/orico|オリコ]] — 信贩系竞争对手
-- [[JapanFG/INDEX|JapanFG index]]
+- [[consumer-finance/INDEX|consumer-finance INDEX]]
 - [[banking/INDEX|Banking domain index]]
 
 ## Sources

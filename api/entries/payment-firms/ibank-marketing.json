@@ -42,7 +42,7 @@
       "https://www.fukuoka-fg.com/news/"
     ]
   },
-  "summary": "This entry sits under the JapanFG index as the FG-subsidiary fintech / wallet-app operating-company anchor for ふくおか FG (FFG). Read it against parent operating bank 福岡銀行 / 十八親和銀行 / 熊本銀行 and the wallet-app peer PayPay FG / au フィナンシャル HD / 楽天 FG context. For broader system route see regional-bank API /",
+  "summary": "This entry sits under the payment-firms INDEX as the FG-subsidiary fintech / wallet-app operating-company anchor for ふくおか FG (FFG). Read it against parent operating bank 福岡銀行 / 十八親和銀行 / 熊本銀行 and the wallet-app peer PayPay FG / au フィナンシャル HD / 楽天 FG context. For broader system route see regional-bank",
   "headings": [
     "iBank マーケティング (iBank Marketing)",
     "Wiki route",
@@ -59,7 +59,6 @@
     "wikilinks_count": 15,
     "wikilinks": [
       "18-shinwa-bank",
-      "JapanFG/INDEX",
       "au-fh",
       "banking/INDEX",
       "banking/baas-japan-landscape",
@@ -71,12 +70,12 @@
       "kumamoto-bank",
       "mercari-hd",
       "money-forward",
+      "payment-firms/INDEX",
       "paypay-fg",
       "rakuten-fg"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/18-shinwa-bank",
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/au-fh",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/baas-japan-landscape",
@@ -88,6 +87,7 @@
       "https://finwiki.zksc.io/kumamoto-bank",
       "https://finwiki.zksc.io/mercari-hd",
       "https://finwiki.zksc.io/money-forward",
+      "https://finwiki.zksc.io/payment-firms/INDEX",
       "https://finwiki.zksc.io/paypay-fg",
       "https://finwiki.zksc.io/rakuten-fg"
     ],
@@ -95,9 +95,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5163,
-    "word_like_tokens": 838,
+    "nonspace_chars": 5187,
+    "word_like_tokens": 842,
     "inbound_wikilinks_count": 1,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

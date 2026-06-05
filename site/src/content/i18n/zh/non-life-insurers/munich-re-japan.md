@@ -1,5 +1,5 @@
 ---
-source: japanfg/munich-re-japan
+source: non-life-insurers/munich-re-japan
 source_hash: d364fc6a92945763
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T00:41:50.380Z
 
 ## Wiki route
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]]。可与 [[non-life-insurers/toa-reinsurance|トーア再保険]] 对照阅读，以理解其作为日本本土再保险公司同业的差异；更广泛的制度和监管边界见 [[insurance/natcat-reinsurance-japan|nat-cat reinsurance Japan]]。日本分公司是全球再保险资本进入日本原保险公司的通道之一，在本 wiki 的再保险地图中也与 [[non-life-insurers/japan-earthquake-reinsurance|日本地震再保険]] 并列。
+本条目位于 [[non-life-insurers/INDEX|non-life-insurers INDEX]]。可与 [[non-life-insurers/toa-reinsurance|トーア再保険]] 对照阅读，以理解其作为日本本土再保险公司同业的差异；更广泛的制度和监管边界见 [[insurance/natcat-reinsurance-japan|nat-cat reinsurance Japan]]。日本分公司是全球再保险资本进入日本原保险公司的通道之一，在本 wiki 的再保险地图中也与 [[non-life-insurers/japan-earthquake-reinsurance|日本地震再保険]] 并列。
 
 ## TL;DR
 
@@ -44,7 +44,7 @@ translated_at: 2026-06-01T00:41:50.380Z
 
 ## Related
 
-- [[JapanFG/INDEX]]
+- [[non-life-insurers/INDEX]]
 - [[toa-reinsurance]]
 - [[japan-earthquake-reinsurance]]
 - [[swiss-re-japan]]

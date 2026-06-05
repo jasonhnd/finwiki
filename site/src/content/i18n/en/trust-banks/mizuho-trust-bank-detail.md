@@ -1,5 +1,5 @@
 ---
-source: japanfg/mizuho-trust-bank-detail
+source: trust-banks/mizuho-trust-bank-detail
 source_hash: 29c023efd6855892
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:05:42.105Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]] and complements the company-level summary at [[trust-banks/mizuho-trust-bank|Mizuho Trust & Banking]]. Read it against [[trust-banks/mitsubishi-ufj-trust-bank|Mitsubishi UFJ Trust and Banking (MUTB)]] / [[trust-banks/sumitomo-mitsui-trust|Sumitomo Mitsui Trust Bank]] for peer trust-bank competitor context, [[megabanks/mizuho-fg|Mizuho FG]] / [[megabanks/mizuho-bank|Mizuho Bank]] for parent-group sister context, and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+This entry sits under [[trust-banks/INDEX|trust-banks INDEX]] and complements the company-level summary at [[trust-banks/mizuho-trust-bank|Mizuho Trust & Banking]]. Read it against [[trust-banks/mitsubishi-ufj-trust-bank|Mitsubishi UFJ Trust and Banking (MUTB)]] / [[trust-banks/sumitomo-mitsui-trust|Sumitomo Mitsui Trust Bank]] for peer trust-bank competitor context, [[megabanks/mizuho-fg|Mizuho FG]] / [[megabanks/mizuho-bank|Mizuho Bank]] for parent-group sister context, and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
@@ -57,13 +57,13 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] and complements the compan
 - **Real-estate trust beneficiary rights**: structuring of trust beneficiary rights for real-estate securitization schemes and REIT-related transactions.
 - **Real-estate brokerage**: real-estate sale / purchase brokerage and consulting for corporations and affluent individuals.
 - **Real-estate funds**: private real-estate fund formation.
-- **Competitors**: [[trust-banks/mitsubishi-ufj-trust-bank|MUTB]] / [[trust-banks/sumitomo-mitsui-trust|三井住友信託]] / major real-estate companies, including [[JapanFG/INDEX|三井不動産]] and Mitsubishi Estate.
+- **Competitors**: [[trust-banks/mitsubishi-ufj-trust-bank|MUTB]] / [[trust-banks/sumitomo-mitsui-trust|三井住友信託]] / major real-estate companies, including [[trust-banks/INDEX|trust-banks INDEX]] and Mitsubishi Estate.
 
 ### 4.3  Stock transfer agency (shareholder-register administration)
 
 - **Business**: shareholder-register administration, shareholder-meeting administration, and dividend-payment administration for listed companies.
 - **Customers**: listed companies, especially counterparties related to former Mizuho FG-line main-bank relationships.
-- **Market share**: the 3 major trust banks plus [[JapanFG/INDEX|IR Japan]] and others account for most of the Japanese market.
+- **Market share**: the 3 major trust banks plus [[trust-banks/INDEX|trust-banks INDEX]] and others account for most of the Japanese market.
 
 ### 4.4  Entrusted assets (asset-management entrustment and custody)
 
@@ -88,10 +88,10 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] and complements the compan
 | Trust bank | Parent FG | Scale impression (trust assets) |
 |---|---|---|
 | [[trust-banks/mitsubishi-ufj-trust-bank|三菱UFJ信託銀行 (MUTB)]] | [[megabanks/mufg|MUFG]] | **Largest among the 3  major trust banks** (over 300 兆円) |
-| [[trust-banks/sumitomo-mitsui-trust|Sumitomo Mitsui Trust Bank]] | [[JapanFG/INDEX|Sumitomo Mitsui Trust Holdings]] | Over 300tn yen, with strength in pensions |
+| [[trust-banks/sumitomo-mitsui-trust|Sumitomo Mitsui Trust Bank]] | [[trust-banks/INDEX|trust-banks INDEX]] | Over 300tn yen, with strength in pensions |
 | **Mizuho Trust & Banking** | Mizuho FG | Mid-scale, in the 200 兆円 range |
 
-Other trust subsidiaries, including regional-bank trust subsidiaries such as the [[JapanFG/INDEX|横浜銀行]] group and independent trust subsidiaries such as Orix and Tokio Marine, also complement the market.
+Other trust subsidiaries, including regional-bank trust subsidiaries such as the [[trust-banks/INDEX|trust-banks INDEX]] group and independent trust subsidiaries such as Orix and Tokio Marine, also complement the market.
 
 ## 6. Strategy and recent trends
 
@@ -134,7 +134,7 @@ For details, see EDINET annual securities reports, Mizuho FG IR materials, and M
 - [[trust-banks/mitsubishi-ufj-trust-bank|三菱UFJ信託銀行]] — 3  major trust-bank competitor
 - [[trust-banks/sumitomo-mitsui-trust|三井住友信託銀行]] — 3  major trust-bank competitor
 - [[trust-banks/smbc-trust-bank|SMBC信託銀行]] — SMFG-line trust bank, smaller scale
-- [[JapanFG/INDEX|JapanFG index]]
+- [[trust-banks/INDEX|trust-banks INDEX]]
 - [[banking/INDEX|Banking domain index]]
 
 ## Sources

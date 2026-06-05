@@ -1,5 +1,5 @@
 ---
-source: japanfg/sbi-fx-trade
+source: securities-firms/sbi-fx-trade
 source_hash: cfbe1cd5c14224d6
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-01T00:41:50.467Z
 
 ## Wiki 路径
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可与 [[securities-firms/traders-securities|トレイダーズ証券]] 对读以理解同业和对比关系，并与 [[securities/INDEX|securities index]] 对读以把握更广的制度 / 监管边界。
+本条目位于 [[securities-firms/INDEX|securities-firms INDEX]] 之下。可与 [[securities-firms/traders-securities|トレイダーズ証券]] 对读以理解同业和对比关系，并与 [[securities/INDEX|securities index]] 对读以把握更广的制度 / 监管边界。
 
 ## TL;DR
 

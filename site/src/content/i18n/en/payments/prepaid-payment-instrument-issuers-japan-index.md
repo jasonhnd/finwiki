@@ -89,7 +89,6 @@ Promote an issuer from registry-only to standalone page only if it is:
 - [[payments/card-acquiring-japan-stack]]
 - [[financial-licenses/INDEX]]
 - [[financial-regulators/missing-financial-institutions-backlog]]
-- [[JapanFG/INDEX]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

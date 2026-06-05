@@ -1,5 +1,5 @@
 ---
-source: japanfg/net-protections-hd
+source: payment-firms/net-protections-hd
 source_hash: 2239116bdb84d047
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-01T00:41:50.411Z
 
 ## Wiki route
 
-本条目作为纯粹的 **BNPL 运营商** 位于 [[JapanFG/INDEX|JapanFG index]] 下。可与 [[payment-firms/bnpl-landscape|Japan BNPL landscape]] 系统说明和 [[payment-firms/paidy|Paidy]] 同业对照阅读；[[payments/japan-bnpl-credit-purchase-boundary|Japan BNPL and credit-purchase boundary]] 页面提供监管视角，[[payments/credit-purchase-card-operators-japan-index|credit-purchase / card operator registry]] 则锚定经产省登记轨迹。
+本条目作为纯粹的 **BNPL 运营商** 位于 [[payment-firms/INDEX|payment-firms INDEX]] 下。可与 [[payment-firms/bnpl-landscape|Japan BNPL landscape]] 系统说明和 [[payment-firms/paidy|Paidy]] 同业对照阅读；[[payments/japan-bnpl-credit-purchase-boundary|Japan BNPL and credit-purchase boundary]] 页面提供监管视角，[[payments/credit-purchase-card-operators-japan-index|credit-purchase / card operator registry]] 则锚定经产省登记轨迹。
 
 ## TL;DR
 

@@ -1,5 +1,5 @@
 ---
-source: japanfg/zenkankyo-reiwa-insurance
+source: non-life-insurers/zenkankyo-reiwa-insurance
 source_hash: 4bb44cf7659c9ef7
 lang: zh
 status: machine
@@ -10,7 +10,7 @@ translated_at: 2026-06-01T03:31:12.237Z
 
 # Zenkankyo Reiwa Insurance / 全管协令和损害保险
 
-Wiki 路径：[[JapanFG/INDEX]] -> [[insurance/INDEX]] -> [[non-life-insurers/zenkankyo-reiwa-insurance]]
+Wiki 路径：[[non-life-insurers/INDEX]] -> [[insurance/INDEX]] -> [[non-life-insurers/zenkankyo-reiwa-insurance]]
 
 ## 概览
 

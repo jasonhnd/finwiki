@@ -1,5 +1,5 @@
 ---
-source: japanfg/au-payment
+source: payment-firms/au-payment
 source_hash: 67ca4a46688149de
 lang: zh
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-05-31T11:13:44.879Z
 
 ## 维基路线
 
-该条目位于[[JapanFG/INDEX|JapanFG index]]。阅读它与[[payments/INDEX|payments index]]对于相邻的上下文和[[payments/funds-transfer-vs-prepaid-boundary|Funds transfer vs prepaid boundary in Japan]]为更广泛的系统边界。
+该条目位于[[payment-firms/INDEX|payment-firms INDEX]]。阅读它与[[payments/INDEX|payments index]]对于相邻的上下文和[[payments/funds-transfer-vs-prepaid-boundary|Funds transfer vs prepaid boundary in Japan]]为更广泛的系统边界。
 
 ##TL;博士
 

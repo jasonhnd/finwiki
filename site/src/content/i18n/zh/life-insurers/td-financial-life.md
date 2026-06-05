@@ -1,5 +1,5 @@
 ---
-source: japanfg/td-financial-life
+source: life-insurers/td-financial-life
 source_hash: bc685cc14a964c1e
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.161Z
 
 ## Wiki route
 
-本条目位于[[JapanFG/INDEX|JapanFG index]]之下。可与[[life-insurers/dai-ichi-frontier-life|第一フロンティア生命保険]]对读，以把握同业 / 对比背景；也可与[[insurance/INDEX|insurance index]]对读，以理解更广的系统与监管边界。
+本条目位于[[life-insurers/INDEX|life-insurers INDEX]]之下。可与[[life-insurers/dai-ichi-frontier-life|第一フロンティア生命保険]]对读，以把握同业 / 对比背景；也可与[[insurance/INDEX|insurance index]]对读，以理解更广的系统与监管边界。
 
 ## TL;DR
 

@@ -1,5 +1,5 @@
 ---
-source: japanfg/hana-shinkumi
+source: cooperative-banks/hana-shinkumi
 source_hash: 527868c0a57b2e4a
 lang: ja
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-02T14:25:12.428Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下で、**首都圏（東京）の在日コリアン民族系信用組合アンカー**として位置づける。[[cooperative-banks/osaka-shogin-shinkumi|大阪商銀信用組合]]（関西商銀系）、[[cooperative-banks/yokohama-kogin-shinkumi|横浜幸銀信用組合]]（神奈川幸銀系）、[[cooperative-banks/aichi-shogin-shinkumi|信用組合愛知商銀]]（中京商銀系）と比較し、[[banking/credit-cooperative-registry-japan|Japan credit cooperative registry]] に整理される在日コリアン系信用組合群の中で読む。
+この項目は [[cooperative-banks/INDEX|cooperative-banks INDEX]] の配下で、**首都圏（東京）の在日コリアン民族系信用組合アンカー**として位置づける。[[cooperative-banks/osaka-shogin-shinkumi|大阪商銀信用組合]]（関西商銀系）、[[cooperative-banks/yokohama-kogin-shinkumi|横浜幸銀信用組合]]（神奈川幸銀系）、[[cooperative-banks/aichi-shogin-shinkumi|信用組合愛知商銀]]（中京商銀系）と比較し、[[banking/credit-cooperative-registry-japan|Japan credit cooperative registry]] に整理される在日コリアン系信用組合群の中で読む。
 
 ## 1. 法人概要
 
@@ -110,7 +110,7 @@ translated_at: 2026-06-02T14:25:12.428Z
 - [[banking/credit-cooperative-registry-japan]] — Japan credit cooperative registry (143 shinkumi 全体)
 - [[banking/cooperative-banking-japan]] — 協同組織金融全体
 - [[cooperative-banks/iwaki-shinkumi]] — いわき信用組合 (比較対象の地域型信組、業態対比)
-- [[JapanFG/INDEX|JapanFG index]]
+- [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 
 ## 出典
 

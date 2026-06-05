@@ -1,5 +1,5 @@
 ---
-source: japanfg/tottori-bank
+source: regional-banks/tottori-bank
 source_hash: 5726a22f2dd65fba
 lang: ja
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-02T16:33:58.493Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に位置する。ピア / 対比の文脈については [[regional-banks/chugoku-bank|中国銀行]] と、より広い制度 / 規制境界については [[banking/INDEX|banking index]] と照らして読む。
+この項目は [[regional-banks/INDEX|regional-banks INDEX]] の配下に位置する。ピア / 対比の文脈については [[regional-banks/chugoku-bank|中国銀行]] と、より広い制度 / 規制境界については [[banking/INDEX|banking index]] と照らして読む。
 
 ## 要約
 

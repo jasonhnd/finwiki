@@ -1,5 +1,5 @@
 ---
-source: japanfg/rating-and-investment
+source: financial-regulators/rating-and-investment
 source_hash: c1c97db5b6c6a2d5
 lang: ja
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-02T15:14:17.124Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に位置づける。同業・比較対象の文脈は [[financial-regulators/jcr|日本格付研究所 (JCR)]] と照らし、より広い規制上の境界は [[financial-regulators/fsa|金融庁]] を参照する。
+この項目は [[financial-regulators/INDEX|financial-regulators INDEX]] の配下に位置づける。同業・比較対象の文脈は [[financial-regulators/jcr|日本格付研究所 (JCR)]] と照らし、より広い規制上の境界は [[financial-regulators/fsa|金融庁]] を参照する。
 
 ## 要約
 
@@ -108,7 +108,7 @@ translated_at: 2026-06-02T15:14:17.124Z
 - [[megabanks/mizuho-fg|みずほフィナンシャルグループ]] · [[megabanks/mizuho-bank|みずほ銀行]]
 - [[megabanks/mufg|MUFG]] · [[megabanks/smfg|SMFG]]
 - [[financial-regulators/japan-exchange-group|日本取引所グループ]]
-- [[JapanFG/INDEX|JapanFG index]]
+- [[financial-regulators/INDEX|financial-regulators INDEX]]
 
 ## 出典
 

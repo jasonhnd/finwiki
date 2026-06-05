@@ -64,7 +64,7 @@ METI announced on 2024-02-14 that it had certified Sony Group's business-reorgan
 
 - [[megabanks/sony-fg|sony-fg]]
 - [[finance/cross-border-m-a-japan|cross-border M&A Japan]]
-- [[JapanFG/INDEX|JapanFG INDEX]]
+- [[corporate-strategy/INDEX|corporate-strategy INDEX]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

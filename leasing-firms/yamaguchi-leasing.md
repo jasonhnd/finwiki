@@ -21,7 +21,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary leasing operating-company anchor for [[yamaguchi-fg|山口 FG (YMFG)]]. Read it against parent operating banks [[yamaguchi-fg|山口 FG]] 3 行体制 ([[momiji-bank|もみじ銀行]] / [[kitakyushu-bank|北九州銀行]] / 山口銀行) and sibling subsidiary ワイエム証券. Peer comparison: [[mebuki-lease|めぶきリース]] (北関東) / [[yokohama-bank-leasing|横浜銀リース]] (神奈川) / [[chibagin-leasing|ちばぎんリース]] (千葉) / [[hokkaido-lease|北海道リース]] / [[iyogin-leasing|いよぎんリース]] (四国) and major lessor [[mitsubishi-hc-capital|三菱 HC キャピタル]] / [[mizuho-lease|みずほリース]] / [[tokyo-century|東京センチュリー]]. For broader system route see [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]], [[banking/regional-bank-api-digital-partnership-route|regional-bank API/digital partnership route]] and [[banking/INDEX|banking index]]. Investable-universe context: [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]].
+This entry sits under the [[leasing-firms/INDEX|leasing-firms INDEX]] as the FG-subsidiary leasing operating-company anchor for [[yamaguchi-fg|山口 FG (YMFG)]]. Read it against parent operating banks [[yamaguchi-fg|山口 FG]] 3 行体制 ([[momiji-bank|もみじ銀行]] / [[kitakyushu-bank|北九州銀行]] / 山口銀行) and sibling subsidiary ワイエム証券. Peer comparison: [[mebuki-lease|めぶきリース]] (北関東) / [[yokohama-bank-leasing|横浜銀リース]] (神奈川) / [[chibagin-leasing|ちばぎんリース]] (千葉) / [[hokkaido-lease|北海道リース]] / [[iyogin-leasing|いよぎんリース]] (四国) and major lessor [[mitsubishi-hc-capital|三菱 HC キャピタル]] / [[mizuho-lease|みずほリース]] / [[tokyo-century|東京センチュリー]]. For broader system route see [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]], [[banking/regional-bank-api-digital-partnership-route|regional-bank API/digital partnership route]] and [[banking/INDEX|banking index]]. Investable-universe context: [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]].
 
 ## TL;DR
 
@@ -131,7 +131,7 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the FG-subsidiary l
 - [[ja-mitsui-leasing]] · [[nec-leasing]] · [[showa-leasing]] · [[toyota-finance]] · [[ibj-leasing]] · [[kanematsu-leasing]]
 - [[banking/regional-bank-consolidation-pattern]] · [[banking/regional-bank-api-digital-partnership-route]] · [[banking/INDEX]]
 - [[finance/japan-listed-financial-groups-investable-universe]] · [[finance/INDEX]]
-- [[JapanFG/INDEX|JapanFG index]]
+- [[leasing-firms/INDEX|leasing-firms INDEX]]
 
 ## Sources
 

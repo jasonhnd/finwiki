@@ -1,5 +1,5 @@
 ---
-source: japanfg/toyama-first-bank
+source: regional-banks/toyama-first-bank
 source_hash: 14b1e9e8219ef74e
 lang: ja
 status: machine
@@ -13,7 +13,7 @@ translated_at: 2026-06-02T16:33:58.516Z
 
 ## ウィキ上の位置づけ
 
-このエントリは以下にあります[[JapanFG/INDEX|JapanFG index]]。反対に読んでください[[regional-banks/tokushima-taisho-bank|徳島大正銀行]]ピア/コントラストコンテキスト用と[[banking/INDEX|banking index]]より広範なシステム/規制境界に対応します。
+このエントリは以下にあります[[regional-banks/INDEX|regional-banks INDEX]]。反対に読んでください[[regional-banks/tokushima-taisho-bank|徳島大正銀行]]ピア/コントラストコンテキスト用と[[banking/INDEX|banking index]]より広範なシステム/規制境界に対応します。
 
 ## 要約
 
@@ -36,7 +36,7 @@ translated_at: 2026-06-02T16:33:58.516Z
 
 - 第 2 地方銀行の正確な名前ページを追加します。
 - 第1回北陸B完走2 横にスライスする[[hokuriku-bank]], [[hokkoku-bank]]、 そして[[toyama-bank]].
-- レジストリベースの B2.1 地方銀行の事業会社のページ（以下にインデックスされています）[[JapanFG/INDEX|JapanFG index]].
+- レジストリベースの B2.1 地方銀行の事業会社のページ（以下にインデックスされています）[[regional-banks/INDEX|regional-banks INDEX]].
 
 ## 関連項目
 

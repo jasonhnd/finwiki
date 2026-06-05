@@ -36,7 +36,7 @@
       "西日本 FHD 公式 IR (2025-03 期決算公表分)"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against ふくおか FG (FFG) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under regional-banks INDEX. Read it against ふくおか FG (FFG) for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [
     "西日本 FHD (Nishi-Nippon FHD)",
     "Wiki route",
@@ -53,7 +53,6 @@
     "wikilinks_count": 18,
     "wikilinks": [
       "18-shinwa-bank",
-      "JapanFG/INDEX",
       "banking/INDEX",
       "fukuoka-bank",
       "fukuoka-chuo-bank",
@@ -66,6 +65,7 @@
       "nishi-nippon-city-bank",
       "oita-bank",
       "paypay-fg",
+      "regional-banks/INDEX",
       "regional-banks/fukuoka-fg",
       "saga-bank",
       "sbi-hd",
@@ -73,7 +73,6 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/18-shinwa-bank",
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/fukuoka-bank",
       "https://finwiki.zksc.io/fukuoka-chuo-bank",
@@ -86,6 +85,7 @@
       "https://finwiki.zksc.io/nishi-nippon-city-bank",
       "https://finwiki.zksc.io/oita-bank",
       "https://finwiki.zksc.io/paypay-fg",
+      "https://finwiki.zksc.io/regional-banks/INDEX",
       "https://finwiki.zksc.io/regional-banks/fukuoka-fg",
       "https://finwiki.zksc.io/saga-bank",
       "https://finwiki.zksc.io/sbi-hd",
@@ -95,9 +95,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3962,
-    "word_like_tokens": 614,
-    "inbound_wikilinks_count": 6,
-    "last_modified": "2026-06-04"
+    "nonspace_chars": 3976,
+    "word_like_tokens": 616,
+    "inbound_wikilinks_count": 7,
+    "last_modified": "2026-06-06"
   }
 }

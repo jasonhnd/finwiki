@@ -1,5 +1,5 @@
 ---
-source: japanfg/nippon-kaiji-kyokai
+source: financial-regulators/nippon-kaiji-kyokai
 source_hash: 9304522eeb7d575d
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:54:39.062Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の下に位置づけられる。直接の海事産業上の兄弟項目である [[financial-regulators/japan-pi-club|日本船主責任相互保険組合]]（船級協会 + P&I クラブで一対の海事インフラ）と、より広いリスク移転システムの枠組みである [[insurance/INDEX|insurance index]] とあわせて読む。ClassNK は**保険会社ではない**が、その検査は船体保険・P&I の引受を直接支えるため、免許金融機関ではなく「保険隣接」の制度的アンカーとして JapanFG ウィキに置く。
+この項目は [[financial-regulators/INDEX|financial-regulators INDEX]] の下に位置づけられる。直接の海事産業上の兄弟項目である [[financial-regulators/japan-pi-club|日本船主責任相互保険組合]]（船級協会 + P&I クラブで一対の海事インフラ）と、より広いリスク移転システムの枠組みである [[insurance/INDEX|insurance index]] とあわせて読む。ClassNK は**保険会社ではない**が、その検査は船体保険・P&I の引受を直接支えるため、免許金融機関ではなく「保険隣接」の制度的アンカーとして JapanFG ウィキに置く。
 
 ## 要約
 
@@ -45,7 +45,7 @@ translated_at: 2026-06-02T14:54:39.062Z
 
 ## 関連項目
 
-- [[JapanFG/INDEX]]
+- [[financial-regulators/INDEX]]
 - [[japan-pi-club]]
 - [[tokio-marine-nichido-fire]]
 - [[mitsui-sumitomo-insurance]]

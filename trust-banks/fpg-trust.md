@@ -24,7 +24,7 @@ sources:
 
 ## Wiki route
 
-FPG Trust is a standalone trust-company route under [[JapanFG/INDEX|JapanFG]] and is promoted from [[trust-banks/trust-companies-japan-index|the Japan trust companies registry index]]. Read it with [[finance/japan-acquisition-finance|Japan acquisition finance]], [[finance/cross-border-m-a-japan|cross-border M&A Japan]], and [[banking/japan-trust-bank-custody-map|Japan trust-bank custody map]].
+FPG Trust is a standalone trust-company route under [[trust-banks/INDEX|trust-banks INDEX]] and is promoted from [[trust-banks/trust-companies-japan-index|the Japan trust companies registry index]]. Read it with [[finance/japan-acquisition-finance|Japan acquisition finance]], [[finance/cross-border-m-a-japan|cross-border M&A Japan]], and [[banking/japan-trust-bank-custody-map|Japan trust-bank custody map]].
 
 Use this page when a question involves FPG group trust structures, real-estate / movable-asset trust schemes, asset administration, or independent trust-company positioning.
 
@@ -71,7 +71,7 @@ The page should not infer specific investor returns, tax effects, or product ris
 
 ## Related
 
-- [[JapanFG/INDEX]]
+- [[trust-banks/INDEX]]
 - [[trust-banks/trust-companies-japan-index]]
 - [[banking/japan-trust-bank-custody-map]]
 - [[finance/japan-acquisition-finance]]

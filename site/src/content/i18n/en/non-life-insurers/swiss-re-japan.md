@@ -1,5 +1,5 @@
 ---
-source: japanfg/swiss-re-japan
+source: non-life-insurers/swiss-re-japan
 source_hash: 26d8eca0389bb6b3
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.137Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[non-life-insurers/munich-re-japan|ミュンヘン再保険日本支店]] for direct peer ("Big 2" global reinsurer) and [[non-life-insurers/toa-reinsurance|トーア再保険]] for the Japanese domestic-reinsurer contrast. The broader system anchor is [[insurance/natcat-reinsurance-japan|nat-cat reinsurance Japan]], and historical reference [[non-life-insurers/japan-earthquake-reinsurance|日本地震再保険]] explains the public-private earthquake scheme that interacts with private global reinsurance capacity.
+This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read it against [[non-life-insurers/munich-re-japan|ミュンヘン再保険日本支店]] for direct peer ("Big 2" global reinsurer) and [[non-life-insurers/toa-reinsurance|トーア再保険]] for the Japanese domestic-reinsurer contrast. The broader system anchor is [[insurance/natcat-reinsurance-japan|nat-cat reinsurance Japan]], and historical reference [[non-life-insurers/japan-earthquake-reinsurance|日本地震再保険]] explains the public-private earthquake scheme that interacts with private global reinsurance capacity.
 
 ## TL;DR
 
@@ -44,7 +44,7 @@ This is the Japan branch of Swiss Reinsurance Company Ltd. / Schweizerische Rüc
 
 ## Related
 
-- [[JapanFG/INDEX]]
+- [[non-life-insurers/INDEX]]
 - [[munich-re-japan]]
 - [[toa-reinsurance]]
 - [[japan-earthquake-reinsurance]]

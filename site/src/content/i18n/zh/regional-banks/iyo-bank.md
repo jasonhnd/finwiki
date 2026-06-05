@@ -1,5 +1,5 @@
 ---
-source: japanfg/iyo-bank
+source: regional-banks/iyo-bank
 source_hash: 4dc253f6a48f7ae9
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T15:29:03.915Z
 
 ## Wiki 路径
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 下。可与 [[regional-banks/awa-bank|阿波银行]] 等四国地方银行和 [[banking/INDEX|banking index]] 对照阅读。
+本条目位于 [[regional-banks/INDEX|regional-banks INDEX]] 下。可与 [[regional-banks/awa-bank|阿波银行]] 等四国地方银行和 [[banking/INDEX|banking index]] 对照阅读。
 
 ## TL;DR
 

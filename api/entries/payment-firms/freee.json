@@ -35,7 +35,7 @@
       "freee 公開プロダクトページ (会計・人事労務・申告・サイン 等)"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 株式会社マネーフォワード (Money Forward) for peer / contrast context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system / regulatory boundary.",
+  "summary": "This entry sits under payment-firms INDEX. Read it against 株式会社マネーフォワード (Money Forward) for peer / contrast context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system / regulatory boundary.",
   "headings": [
     "freee 株式会社 (freee K.K.)",
     "Wiki route",
@@ -51,25 +51,25 @@
   "body_links": {
     "wikilinks_count": 10,
     "wikilinks": [
-      "JapanFG/INDEX",
       "au-fh",
       "fintech/japan-stablecoin-regulatory-landscape",
       "gmo-aozora-net",
       "mizuho-fg",
       "mufg",
       "ndfg",
+      "payment-firms/INDEX",
       "payment-firms/money-forward",
       "paypay-fg",
       "smfg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/au-fh",
       "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
       "https://finwiki.zksc.io/gmo-aozora-net",
       "https://finwiki.zksc.io/mizuho-fg",
       "https://finwiki.zksc.io/mufg",
       "https://finwiki.zksc.io/ndfg",
+      "https://finwiki.zksc.io/payment-firms/INDEX",
       "https://finwiki.zksc.io/payment-firms/money-forward",
       "https://finwiki.zksc.io/paypay-fg",
       "https://finwiki.zksc.io/smfg"
@@ -78,9 +78,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4532,
-    "word_like_tokens": 734,
+    "nonspace_chars": 4544,
+    "word_like_tokens": 736,
     "inbound_wikilinks_count": 9,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

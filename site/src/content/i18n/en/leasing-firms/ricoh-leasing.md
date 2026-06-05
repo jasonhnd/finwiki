@@ -1,5 +1,5 @@
 ---
-source: japanfg/ricoh-leasing
+source: leasing-firms/ricoh-leasing
 source_hash: dc2677ee6157ef13
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T00:41:50.477Z
 
 ## Wiki Route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[leasing-firms/fuyo-lease|芙蓉総合Lease]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary. As a Ricoh / Mizuho-adjacent leasing platform it should be read together with [[megabanks/mizuho-fg|Mizuho FG]] and [[leasing-firms/mizuho-lease|Mizuho Leasing]] when mapping Mizuho-side asset-finance exposure.
+This entry sits under [[leasing-firms/INDEX|leasing-firms INDEX]]. Read it against [[leasing-firms/fuyo-lease|芙蓉総合Lease]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary. As a Ricoh / Mizuho-adjacent leasing platform it should be read together with [[megabanks/mizuho-fg|Mizuho FG]] and [[leasing-firms/mizuho-lease|Mizuho Leasing]] when mapping Mizuho-side asset-finance exposure.
 
 ## TL;DR
 

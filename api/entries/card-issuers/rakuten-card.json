@@ -35,7 +35,7 @@
       "https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it with payments index for adjacent context and Funds transfer vs prepaid boundary in Japan for the broader system boundary.",
+  "summary": "This entry sits under card-issuers INDEX. Read it with payments index for adjacent context and Funds transfer vs prepaid boundary in Japan for the broader system boundary.",
   "headings": [
     "楽天カード (Rakuten Card)",
     "Wiki route",
@@ -49,7 +49,7 @@
   "body_links": {
     "wikilinks_count": 10,
     "wikilinks": [
-      "JapanFG/INDEX",
+      "card-issuers/INDEX",
       "card-issuers/paypay-card",
       "loyalty/japan-points-landscape",
       "payment-firms/rakuten-fg",
@@ -61,7 +61,7 @@
       "payments/japan-payment-scheme-economics-matrix"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/card-issuers/INDEX",
       "https://finwiki.zksc.io/card-issuers/paypay-card",
       "https://finwiki.zksc.io/loyalty/japan-points-landscape",
       "https://finwiki.zksc.io/payment-firms/rakuten-fg",
@@ -76,9 +76,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2380,
-    "word_like_tokens": 380,
+    "nonspace_chars": 2390,
+    "word_like_tokens": 382,
     "inbound_wikilinks_count": 32,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

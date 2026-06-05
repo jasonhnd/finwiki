@@ -36,7 +36,7 @@
       "ODFC 公式サイト (https://www.okinawakouko.go.jp/)"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 日本政策金融公庫 (JFC) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under financial-regulators INDEX. Read it against 日本政策金融公庫 (JFC) for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [
     "沖縄振興開発金融公庫 (ODFC)",
     "Wiki route",
@@ -52,9 +52,9 @@
   "body_links": {
     "wikilinks_count": 9,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "dbj",
+      "financial-regulators/INDEX",
       "financial-regulators/jfc",
       "jbic",
       "jfc",
@@ -63,9 +63,9 @@
       "shoko-chukin"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/dbj",
+      "https://finwiki.zksc.io/financial-regulators/INDEX",
       "https://finwiki.zksc.io/financial-regulators/jfc",
       "https://finwiki.zksc.io/jbic",
       "https://finwiki.zksc.io/jfc",
@@ -77,9 +77,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5668,
-    "word_like_tokens": 759,
+    "nonspace_chars": 5694,
+    "word_like_tokens": 761,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

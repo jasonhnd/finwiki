@@ -1,5 +1,5 @@
 ---
-source: japanfg/toyota-finance
+source: card-issuers/toyota-finance
 source_hash: ed1a8443367e75da
 lang: ja
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-02T16:33:58.523Z
 
 ## ウィキ上の位置づけ
 
-このエントリは [[JapanFG/INDEX|JapanFG index]] 配下に位置する。親会社と事業会社の分離については [[leasing-firms/toyota-financial|Toyota Financial Services]]、割賦信用とカードの境界については [[payments/credit-purchase-card-operators-japan-index|Japan credit purchase and card operator registry index]] と照らして読む。
+このエントリは [[card-issuers/INDEX|card-issuers INDEX]] 配下に位置する。親会社と事業会社の分離については [[leasing-firms/toyota-financial|Toyota Financial Services]]、割賦信用とカードの境界については [[payments/credit-purchase-card-operators-japan-index|Japan credit purchase and card operator registry index]] と照らして読む。
 
 ## 概要
 

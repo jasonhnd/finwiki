@@ -1,5 +1,5 @@
 ---
-source: japanfg/starr-insurance-japan
+source: non-life-insurers/starr-insurance-japan
 source_hash: 416573e5df177d3e
 lang: ja
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-02T15:14:17.145Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に位置する。外国専門保険会社の比較文脈では [[non-life-insurers/aig-japan|AIG Japan]] と [[non-life-insurers/chubb-insurance-japan|Chubb Insurance Japan]]、日本の損害保険市場全体と規制上の境界については [[insurance/INDEX|insurance index]] とあわせて読む。
+この項目は [[non-life-insurers/INDEX|non-life-insurers INDEX]] の配下に位置する。外国専門保険会社の比較文脈では [[non-life-insurers/aig-japan|AIG Japan]] と [[non-life-insurers/chubb-insurance-japan|Chubb Insurance Japan]]、日本の損害保険市場全体と規制上の境界については [[insurance/INDEX|insurance index]] とあわせて読む。
 
 ## 要約
 

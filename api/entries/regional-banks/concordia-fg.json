@@ -42,7 +42,7 @@
       "横浜 FG 公式 IR「株式の状況」大株主 (2026-03-31 基準): https://www.yokohamafg.co.jp/shareholder/stock/fact/index.html"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against ふくおか FG (FFG) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under regional-banks INDEX. Read it against ふくおか FG (FFG) for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [
     "横浜フィナンシャルグループ（旧 コンコルディア・フィナンシャルグループ）",
     "Wiki route",
@@ -58,13 +58,13 @@
   "body_links": {
     "wikilinks_count": 12,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "fukuoka-fg",
       "mizuho-fg",
       "mufg",
       "paypay-fg",
       "rakuten-fg",
+      "regional-banks/INDEX",
       "regional-banks/fukuoka-fg",
       "resona-hd",
       "sbi-hd",
@@ -72,13 +72,13 @@
       "sumitomo-mitsui-trust"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/fukuoka-fg",
       "https://finwiki.zksc.io/mizuho-fg",
       "https://finwiki.zksc.io/mufg",
       "https://finwiki.zksc.io/paypay-fg",
       "https://finwiki.zksc.io/rakuten-fg",
+      "https://finwiki.zksc.io/regional-banks/INDEX",
       "https://finwiki.zksc.io/regional-banks/fukuoka-fg",
       "https://finwiki.zksc.io/resona-hd",
       "https://finwiki.zksc.io/sbi-hd",
@@ -89,9 +89,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 7611,
-    "word_like_tokens": 1352,
+    "nonspace_chars": 7625,
+    "word_like_tokens": 1354,
     "inbound_wikilinks_count": 9,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

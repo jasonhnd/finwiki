@@ -25,7 +25,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]] and complements the company-level summary at [[leasing-firms/tokyo-century|東京センチュリー]]. Read it against [[leasing-firms/orix-corp|オリックス]] / [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]] / [[leasing-firms/smfl|三井住友ファイナンス&リース]] / [[leasing-firms/mizuho-lease|みずほリース]] for general-lease industry peer context, [[megabanks/mizuho-fg|みずほFG]] for one parent group route, and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+This entry sits under [[leasing-firms/INDEX|leasing-firms INDEX]] and complements the company-level summary at [[leasing-firms/tokyo-century|東京センチュリー]]. Read it against [[leasing-firms/orix-corp|オリックス]] / [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]] / [[leasing-firms/smfl|三井住友ファイナンス&リース]] / [[leasing-firms/mizuho-lease|みずほリース]] for general-lease industry peer context, [[megabanks/mizuho-fg|みずほFG]] for one parent group route, and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
@@ -137,7 +137,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]] and complements the compan
 - [[leasing-firms/smfl|SMFL]] — 銀行系リース競合
 - [[leasing-firms/mizuho-lease|みずほリース]] — みずほ系姉妹リース
 - [[leasing-firms/nec-capital-solutions|NECキャピタルソリューションズ]] — ベンダー系リース
-- [[JapanFG/INDEX|JapanFG index]]
+- [[leasing-firms/INDEX|leasing-firms INDEX]]
 - [[banking/INDEX|Banking domain index]]
 
 ## Sources

@@ -1,5 +1,5 @@
 ---
-source: japanfg/hyakujushi-bank
+source: regional-banks/hyakujushi-bank
 source_hash: 25d79f3f546252ca
 lang: ja
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-02T14:25:12.441Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に位置づける。[[regional-banks/iyo-bank|伊予銀行]] は比較対象の文脈、[[banking/INDEX|banking index]] は制度全体と規制上の境界を確認するために併読する。
+この項目は [[regional-banks/INDEX|regional-banks INDEX]] の配下に位置づける。[[regional-banks/iyo-bank|伊予銀行]] は比較対象の文脈、[[banking/INDEX|banking index]] は制度全体と規制上の境界を確認するために併読する。
 
 ## 要約
 

@@ -1,5 +1,5 @@
 ---
-source: japanfg/bank-of-america-japan
+source: foreign-financial-institutions/bank-of-america-japan
 source_hash: 839afef56a405984
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T11:13:44.953Z
 
 ## Wiki route
 
-本条目位于 [[JapanFG/INDEX|JapanFG 索引]]。可与 [[foreign-financial-institutions/socgen-japan|Societe Generale Japan]] 对照，并与 [[banking/INDEX|银行索引]] 配套阅读。
+本条目位于 [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]]。可与 [[foreign-financial-institutions/socgen-japan|Societe Generale Japan]] 对照，并与 [[banking/INDEX|银行索引]] 配套阅读。
 
 ## TL;DR
 

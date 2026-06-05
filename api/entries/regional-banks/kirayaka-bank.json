@@ -34,7 +34,7 @@
       "https://www.kirayaka.co.jp/aboutus/outline/company.php"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 仙台銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under regional-banks INDEX. Read it against 仙台銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [
     "きらやか銀行",
     "Wiki route",
@@ -48,20 +48,20 @@
   "body_links": {
     "wikilinks_count": 8,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "banking/regional-bank-consolidation-pattern",
       "jimoto-hd",
+      "regional-banks/INDEX",
       "regional-banks/sendai-bank",
       "sbi-regional-bank-hd",
       "sendai-bank",
       "yamagata-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
       "https://finwiki.zksc.io/jimoto-hd",
+      "https://finwiki.zksc.io/regional-banks/INDEX",
       "https://finwiki.zksc.io/regional-banks/sendai-bank",
       "https://finwiki.zksc.io/sbi-regional-bank-hd",
       "https://finwiki.zksc.io/sendai-bank",
@@ -71,9 +71,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1838,
-    "word_like_tokens": 289,
+    "nonspace_chars": 1852,
+    "word_like_tokens": 291,
     "inbound_wikilinks_count": 3,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

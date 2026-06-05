@@ -1,5 +1,5 @@
 ---
-source: japanfg/cci-group
+source: financial-regulators/cci-group
 source_hash: 56e3aac3aa87e711
 lang: en
 status: machine
@@ -72,7 +72,7 @@ The older[[regional-banks/hokkoku-fhd|Hokkoku FHD]]narrative around Microsoft / 
 
 ## Related
 
-- [[JapanFG/INDEX]]
+- [[financial-regulators/INDEX]]
 - [[regional-banks/hokkoku-fhd]]
 - [[regional-banks/hokkoku-bank]]
 - [[regional-banks/fukuoka-fg]]

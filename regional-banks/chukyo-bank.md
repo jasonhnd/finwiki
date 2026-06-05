@@ -22,7 +22,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the **historical predecessor anchor** for current operating bank [[aichi-bank|あいち銀行]] under [[aichi-fg|あいち FG]]. Read it against the [[nagoya-bank|名古屋銀行]] in-prefecture rival and [[san-jusan-bank|三十三銀行]] / [[juroku-bank|十六銀行]] Chubu peers, and against [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]] for the broader system / regulatory boundary.
+This entry sits under the [[regional-banks/INDEX|regional-banks INDEX]] as the **historical predecessor anchor** for current operating bank [[aichi-bank|あいち銀行]] under [[aichi-fg|あいち FG]]. Read it against the [[nagoya-bank|名古屋銀行]] in-prefecture rival and [[san-jusan-bank|三十三銀行]] / [[juroku-bank|十六銀行]] Chubu peers, and against [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
@@ -125,7 +125,7 @@ This entry sits under the [[JapanFG/INDEX|JapanFG index]] as the **historical pr
 - [[aichi-fg]] · [[aichi-bank]] · [[nagoya-bank]] · [[san-jusan-bank]] · [[juroku-bank]] · [[ogaki-kyoritsu-bank]]
 - [[hyakugo-bank]] · [[hyakujushi-bank]] · [[juroku-fg]] · [[san-jusan-fg]]
 - [[banking/regional-bank-consolidation-pattern]] · [[banking/INDEX]]
-- [[JapanFG/INDEX|JapanFG index]]
+- [[regional-banks/INDEX|regional-banks INDEX]]
 
 ## Sources
 

@@ -1,5 +1,5 @@
 ---
-source: japanfg/sendai-shinkin
+source: cooperative-banks/sendai-shinkin
 source_hash: bc1bd6bbb38983e6
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T15:14:17.088Z
 
 ## ウィキ上の位置づけ
 
-本項目は[[JapanFG/INDEX|JapanFG index]]配下に置く。宮城県の商業銀行側の比較対象として、仙台の主要地銀プレイヤーである[[regional-banks/77-bank|七十七銀行]]、第二地銀である[[regional-banks/sendai-bank|仙台銀行]]と併せて読む。北日本の都市圏アンカー信用金庫としては[[cooperative-banks/sapporo-shinkin|札幌信用金庫]]と対比し、[[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]]では、254信用金庫システムを、[[cooperative-banks/shinkin-central|信金中央金庫]]が維持し[[financial-regulators/zenshin-kyo|全国信用金庫協会]]が代表する広域システムとして参照する。東北には27 の免許信用金庫があり（FSA2025-11-06：東北財務局管内）、関東に次ぐ第二位の地域ブロックであるため、宮城 / 仙台都市圏のアンカーである本項目は重要なシステムルートである。
+本項目は[[cooperative-banks/INDEX|cooperative-banks INDEX]]配下に置く。宮城県の商業銀行側の比較対象として、仙台の主要地銀プレイヤーである[[regional-banks/77-bank|七十七銀行]]、第二地銀である[[regional-banks/sendai-bank|仙台銀行]]と併せて読む。北日本の都市圏アンカー信用金庫としては[[cooperative-banks/sapporo-shinkin|札幌信用金庫]]と対比し、[[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]]では、254信用金庫システムを、[[cooperative-banks/shinkin-central|信金中央金庫]]が維持し[[financial-regulators/zenshin-kyo|全国信用金庫協会]]が代表する広域システムとして参照する。東北には27 の免許信用金庫があり（FSA2025-11-06：東北財務局管内）、関東に次ぐ第二位の地域ブロックであるため、宮城 / 仙台都市圏のアンカーである本項目は重要なシステムルートである。
 
 ## 要約
 
@@ -77,7 +77,7 @@ translated_at: 2026-06-02T15:14:17.088Z
 
 ## 関連
 
-- [[JapanFG/INDEX|JapanFG index]]
+- [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 - [[cooperative-banks/shinkin-central|信金中央金庫]]
 - [[financial-regulators/zenshin-kyo|全国信用金庫協会]]
 - [[cooperative-banks/shinkin-network-services|信金ネットワークサービス]]

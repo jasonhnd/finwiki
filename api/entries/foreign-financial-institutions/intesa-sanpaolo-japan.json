@@ -38,7 +38,7 @@
       "https://group.intesasanpaolo.com/en/newsroom/all-news/news/2023/financing-lardini-flagship-store-in-tokyo"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against クレディ・アグリコル銀行 東京支店 for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under foreign-financial-institutions INDEX. Read it against クレディ・アグリコル銀行 東京支店 for peer / contrast context and banking index for the broader system / regulatory boundary.",
   "headings": [
     "インテーザ・サンパオロ 東京支店",
     "Wiki route",
@@ -52,9 +52,9 @@
   "body_links": {
     "wikilinks_count": 8,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "banking/foreign-bank-japan-retreat",
+      "foreign-financial-institutions/INDEX",
       "foreign-financial-institutions/bbva-bank-japan",
       "foreign-financial-institutions/commerzbank-japan",
       "foreign-financial-institutions/credit-agricole-bank-japan",
@@ -62,9 +62,9 @@
       "foreign-financial-institutions/natixis-japan"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/foreign-bank-japan-retreat",
+      "https://finwiki.zksc.io/foreign-financial-institutions/INDEX",
       "https://finwiki.zksc.io/foreign-financial-institutions/bbva-bank-japan",
       "https://finwiki.zksc.io/foreign-financial-institutions/commerzbank-japan",
       "https://finwiki.zksc.io/foreign-financial-institutions/credit-agricole-bank-japan",
@@ -75,9 +75,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3071,
-    "word_like_tokens": 479,
+    "nonspace_chars": 3168,
+    "word_like_tokens": 488,
     "inbound_wikilinks_count": 8,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

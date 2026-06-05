@@ -90,7 +90,6 @@ The disclosure norms that keep breakage honest across all of them come from the 
 - [[megabanks/smfg|SMFG]]
 - [[megabanks/ndfg|NDFG]]
 - [[megabanks/paypay-fg|PayPay FG]]
-- [[JapanFG/INDEX|JapanFG INDEX]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

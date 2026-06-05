@@ -1,5 +1,5 @@
 ---
-source: japanfg/iyogin-leasing
+source: leasing-firms/iyogin-leasing
 source_hash: 4059ac30cfb6879d
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T15:29:03.935Z
 
 ## Wiki 路由
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]]，作为 [[iyogin-hd|伊予银 HD]] 集团旗下租赁运营子公司的锚点。阅读时可与母银行 [[iyo-bank|伊予银行]]、集团内的 いよぎん DC カード、いよぎん地域経済研究センター（IRC）和 いよぎんキャピタル对照；同业比较可参照 [[mebuki-lease|めぶきリース]]、[[yokohama-bank-leasing|横浜銀リース]]、[[chibagin-leasing|ちばぎんリース]]、[[yamaguchi-leasing|山口リース]]、[[hokkaido-lease|北海道リース]]，以及 [[mitsubishi-hc-capital|三菱 HC キャピタル]]、[[mizuho-lease|みずほリース]]、[[tokyo-century|東京センチュリー]]。
+本条目位于 [[leasing-firms/INDEX|leasing-firms INDEX]]，作为 [[iyogin-hd|伊予银 HD]] 集团旗下租赁运营子公司的锚点。阅读时可与母银行 [[iyo-bank|伊予银行]]、集团内的 いよぎん DC カード、いよぎん地域経済研究センター（IRC）和 いよぎんキャピタル对照；同业比较可参照 [[mebuki-lease|めぶきリース]]、[[yokohama-bank-leasing|横浜銀リース]]、[[chibagin-leasing|ちばぎんリース]]、[[yamaguchi-leasing|山口リース]]、[[hokkaido-lease|北海道リース]]，以及 [[mitsubishi-hc-capital|三菱 HC キャピタル]]、[[mizuho-lease|みずほリース]]、[[tokyo-century|東京センチュリー]]。
 
 ## 要点摘要
 

@@ -91,7 +91,7 @@ translated_at: 2026-06-05T00:00:00.000Z
 - それは、ポートフォリオを横断して結果をネットできる 100% 所有の事業子会社の上の中立的な頂点 — [[corporate-strategy/japan-holding-company-conversion|pure-HoldCo]] モデルをグループが採用する主要な理由である。
 - それは**赤字の新規ベンチャーをどこに収容するか** (その損失がグループ利益を相殺するよう 通算 グループ内に、対 その外に) に影響する。
 - それは持株会社の**配当フロー設計**と相互作用する (グループ法人税制 の下での 100% グループ内配当益金不算入が、キャッシュを親会社へ非課税で上昇させ続ける)。
-- 規制される金融グループについて、それは [[finance/japan-listed-financial-groups-investable-universe|the listed-financial-groups universe]] や [[JapanFG/INDEX|JapanFG INDEX]] の法人を組織する持株会社監督に重なる。
+- 規制される金融グループについて、それは [[finance/japan-listed-financial-groups-investable-universe|the listed-financial-groups universe]] や [[corporate-strategy/INDEX|corporate-strategy INDEX]] の法人を組織する持株会社監督に重なる。
 
 ## 7. 反論と留意点
 
@@ -112,7 +112,6 @@ translated_at: 2026-06-05T00:00:00.000Z
 - [[corporate-strategy/spinoff-decision-tree-japan|spinoff decision tree Japan]]
 - [[finance/japan-listed-financial-groups-investable-universe|Japan listed-financial-groups investable universe]]
 - [[finance/INDEX|finance INDEX]]
-- [[JapanFG/INDEX|JapanFG INDEX]]
 - [[INDEX|FinWiki index]]
 
 ## 出典

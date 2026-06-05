@@ -38,7 +38,7 @@
       "https://www.imamura-sec.co.jp/company/profile.html"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 丸三証券 for peer / contrast context, FSA 金融商品取引業者 index for the regulatory-license layer, and securities license stack for FIEA license boundary.",
+  "summary": "This entry sits under securities-firms INDEX. Read it against 丸三証券 for peer / contrast context, FSA 金融商品取引業者 index for the regulatory-license layer, and securities license stack for FIEA license boundary.",
   "headings": [
     "今村証券 (Imamura Securities)",
     "Wiki route",
@@ -54,11 +54,11 @@
   "body_links": {
     "wikilinks_count": 18,
     "wikilinks": [
-      "JapanFG/INDEX",
       "financial-licenses/securities-license-stack",
       "financial-regulators/jsda",
       "regional-banks/hokkoku-fhd",
       "regional-banks/hokuriku-bank",
+      "securities-firms/INDEX",
       "securities-firms/aizawa-sg",
       "securities-firms/daiwa-sg",
       "securities-firms/iwai-cosmo-hd",
@@ -74,11 +74,11 @@
       "securities/financial-instruments-business-operators-japan-index"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/financial-licenses/securities-license-stack",
       "https://finwiki.zksc.io/financial-regulators/jsda",
       "https://finwiki.zksc.io/regional-banks/hokkoku-fhd",
       "https://finwiki.zksc.io/regional-banks/hokuriku-bank",
+      "https://finwiki.zksc.io/securities-firms/INDEX",
       "https://finwiki.zksc.io/securities-firms/aizawa-sg",
       "https://finwiki.zksc.io/securities-firms/daiwa-sg",
       "https://finwiki.zksc.io/securities-firms/iwai-cosmo-hd",
@@ -97,9 +97,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3411,
-    "word_like_tokens": 480,
+    "nonspace_chars": 3429,
+    "word_like_tokens": 482,
     "inbound_wikilinks_count": 1,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

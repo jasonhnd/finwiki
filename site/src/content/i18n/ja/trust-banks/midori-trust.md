@@ -1,5 +1,5 @@
 ---
-source: japanfg/midori-trust
+source: trust-banks/midori-trust
 source_hash: 33dc200e3aeaa938
 lang: ja
 status: machine
@@ -10,7 +10,7 @@ translated_at: 2026-06-02T14:54:39.039Z
 
 # みどり信託
 
-ウィキ上の位置づけ: [[JapanFG/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/midori-trust]]
+ウィキ上の位置づけ: [[trust-banks/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/midori-trust]]
 
 ## 概要
 

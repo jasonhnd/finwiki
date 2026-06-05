@@ -1,5 +1,5 @@
 ---
-source: japanfg/seiho-kyokai
+source: financial-regulators/seiho-kyokai
 source_hash: 2b368630df500710
 lang: ja
 status: machine
@@ -15,7 +15,7 @@ translated_at: 2026-06-02T15:14:17.134Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の配下に位置する。損害保険側のピアである [[financial-regulators/sonpo-kyokai|General Insurance Association of Japan]]、追加時の消費者教育側の兄弟項目 [[financial-regulators/seimei-bunka-center|Japan Institute of Life Insurance]]、法定の保険契約者保護バックストップである [[financial-regulators/seimei-hokensha-hogo-kiko|Life Insurance Policyholders Protection Corporation of Japan]] とあわせて読む。法令上の背景は [[financial-licenses/INDEX]] と [[financial-licenses/insurance-license-and-solvency|insurance license and solvency route]] にあり、より広い事業者群は [[insurance/INDEX]] にある。
+この項目は [[financial-regulators/INDEX|financial-regulators INDEX]] の配下に位置する。損害保険側のピアである [[financial-regulators/sonpo-kyokai|General Insurance Association of Japan]]、追加時の消費者教育側の兄弟項目 [[financial-regulators/seimei-bunka-center|Japan Institute of Life Insurance]]、法定の保険契約者保護バックストップである [[financial-regulators/seimei-hokensha-hogo-kiko|Life Insurance Policyholders Protection Corporation of Japan]] とあわせて読む。法令上の背景は [[financial-licenses/INDEX]] と [[financial-licenses/insurance-license-and-solvency|insurance license and solvency route]] にあり、より広い事業者群は [[insurance/INDEX]] にある。
 
 ## 法的ルート / 法令上の位置づけ
 
@@ -50,7 +50,7 @@ JapanFG の生命保険会社項目では、「業界標準の顧客保護ルー
 
 ## 関連
 
-- [[JapanFG/INDEX|JapanFG index]]
+- [[financial-regulators/INDEX|financial-regulators INDEX]]
 - [[financial-regulators/sonpo-kyokai|General Insurance Association of Japan]]
 - [[financial-regulators/seimei-bunka-center|Japan Institute of Life Insurance]]
 - [[financial-regulators/seimei-hokensha-hogo-kiko|Life Insurance Policyholders Protection Corporation of Japan]]

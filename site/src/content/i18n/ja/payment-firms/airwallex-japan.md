@@ -1,5 +1,5 @@
 ---
-source: japanfg/airwallex-japan
+source: payment-firms/airwallex-japan
 source_hash: 473e9407c4849a17
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:01:20.915Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] の下に位置する。ピア / 対比の文脈は [[payment-firms/wise-payments-japan|Wise Payments Japan]]、より広いシステム / 規制境界は [[payments/INDEX|payments index]] と照らして読む。
+この項目は [[payment-firms/INDEX|payment-firms INDEX]] の下に位置する。ピア / 対比の文脈は [[payment-firms/wise-payments-japan|Wise Payments Japan]]、より広いシステム / 規制境界は [[payments/INDEX|payments index]] と照らして読む。
 
 ## 要約
 

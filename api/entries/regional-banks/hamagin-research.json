@@ -41,7 +41,7 @@
       "https://www.chiginkyo.or.jp/"
     ]
   },
-  "summary": "This entry sits under the JapanFG index as the FG-subsidiary think-tank / research operating-company anchor for 横浜フィナンシャルグループ (旧コンコルディア FG). Read it against parent operating bank 横浜銀行 and sibling subsidiary 横浜銀リース. For peer regional-bank think-tank context, contrast with major think tanks (野村総研, 三菱総",
+  "summary": "This entry sits under the regional-banks INDEX as the FG-subsidiary think-tank / research operating-company anchor for 横浜フィナンシャルグループ (旧コンコルディア FG). Read it against parent operating bank 横浜銀行 and sibling subsidiary 横浜銀リース. For peer regional-bank think-tank context, contrast with major think tanks (野村",
   "headings": [
     "はまぎん総合研究所 (Hamagin Research Institute)",
     "Wiki route",
@@ -57,7 +57,6 @@
   "body_links": {
     "wikilinks_count": 12,
     "wikilinks": [
-      "JapanFG/INDEX",
       "banking/INDEX",
       "banking/regional-bank-api-digital-partnership-route",
       "banking/regional-bank-consolidation-pattern",
@@ -67,11 +66,11 @@
       "ibank-marketing",
       "mebuki-lease",
       "mebuki-securities",
+      "regional-banks/INDEX",
       "yokohama-bank",
       "yokohama-bank-leasing"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/regional-bank-api-digital-partnership-route",
       "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
@@ -81,6 +80,7 @@
       "https://finwiki.zksc.io/ibank-marketing",
       "https://finwiki.zksc.io/mebuki-lease",
       "https://finwiki.zksc.io/mebuki-securities",
+      "https://finwiki.zksc.io/regional-banks/INDEX",
       "https://finwiki.zksc.io/yokohama-bank",
       "https://finwiki.zksc.io/yokohama-bank-leasing"
     ],
@@ -88,9 +88,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4852,
-    "word_like_tokens": 725,
+    "nonspace_chars": 4880,
+    "word_like_tokens": 729,
     "inbound_wikilinks_count": 1,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

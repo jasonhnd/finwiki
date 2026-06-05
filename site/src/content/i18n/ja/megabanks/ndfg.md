@@ -1,5 +1,5 @@
 ---
-source: japanfg/ndfg
+source: megabanks/ndfg
 source_hash: 85c19dbe4b8feba6
 lang: ja
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-06-02T14:54:39.082Z
 
 ## ウィキ上の位置づけ
 
-この項目は次の配下に位置づけられる: [[JapanFG/INDEX|JapanFG index]]. 次と併読する: [[non-life-insurers/rakuten-insurance-hd|楽天インシュアランスホールディングス]] for 同業比較・対照の文脈 and [[banking/INDEX|banking index]] for the 制度全体と規制境界.
+この項目は次の配下に位置づけられる: [[megabanks/INDEX|megabanks INDEX]]. 次と併読する: [[non-life-insurers/rakuten-insurance-hd|楽天インシュアランスホールディングス]] for 同業比較・対照の文脈 and [[banking/INDEX|banking index]] for the 制度全体と規制境界.
 
 ## 要約
 

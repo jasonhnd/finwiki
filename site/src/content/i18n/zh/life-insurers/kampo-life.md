@@ -1,5 +1,5 @@
 ---
-source: japanfg/kampo-life
+source: life-insurers/kampo-life
 source_hash: d67fbaf4af5b5979
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T23:59:49.407Z
 
 ## Wiki 路线
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。可对照 [[life-insurers/dai-ichi-life|第一ライフグループ / 旧 第一生命 HD]] 理解同业 / 对比背景，并参照 [[insurance/INDEX|insurance index]] 理解更广泛的系统 / 监管边界。
+本条目位于 [[life-insurers/INDEX|life-insurers INDEX]] 之下。可对照 [[life-insurers/dai-ichi-life|第一ライフグループ / 旧 第一生命 HD]] 理解同业 / 对比背景，并参照 [[insurance/INDEX|insurance index]] 理解更广泛的系统 / 监管边界。
 
 ## TL;DR
 

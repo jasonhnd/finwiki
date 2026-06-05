@@ -19,7 +19,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[regional-banks/japan-post-bank|ゆうちょ銀行 (7182)]] and [[life-insurers/kampo-life|かんぽ生命 (7181)]] for its main金融子会社, and against [[financial-regulators/fsa|金融庁]] / [[financial-regulators/boj|日本銀行]] for the broader system / regulatory boundary.
+This entry sits under [[megabanks/INDEX|megabanks INDEX]]. Read it against [[regional-banks/japan-post-bank|ゆうちょ銀行 (7182)]] and [[life-insurers/kampo-life|かんぽ生命 (7181)]] for its main金融子会社, and against [[financial-regulators/fsa|金融庁]] / [[financial-regulators/boj|日本銀行]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
@@ -117,7 +117,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[regiona
 - [[regional-banks/japan-post-bank|ゆうちょ銀行 (7182)]] · [[life-insurers/kampo-life|かんぽ生命 (7181)]] · [[megabanks/japan-post-co|日本郵便]]
 - [[financial-regulators/fsa|金融庁]] · [[financial-regulators/boj|日本銀行]]
 - [[financial-regulators/japan-exchange-group|日本取引所グループ]]
-- [[JapanFG/INDEX|JapanFG index]]
+- [[megabanks/INDEX|megabanks INDEX]]
 
 ## Sources
 

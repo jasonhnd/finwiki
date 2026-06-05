@@ -32,7 +32,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[cooperative-banks/shinkin-central|信金中央金庫]]（中央機関本体）, [[financial-regulators/zenshin-kyo|全国信用金庫協会]]（policy / industry body）, and [[cooperative-banks/shinkin-network-services|信金ネットワークサービス]]（IT 共同インフラ）for the four-leg view of the shinkin central system (中央金庫本体 / 業界団体 / IT インフラ / 証券・運用機能). Compare against [[cooperative-banks/norinchukin|農林中央金庫]] グループの [[cooperative-banks/nochu-securities|農中信託銀行・農中証券]] for the parallel JA central-system securities lane, and against [[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]] for the broader 254-shinkin member base. Cooperative-system overall comparison anchor: [[banking/japan-cooperative-banking-unified-federation-matrix|Japan cooperative-banking unified federation matrix]].
+This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]]. Read it against [[cooperative-banks/shinkin-central|信金中央金庫]]（中央機関本体）, [[financial-regulators/zenshin-kyo|全国信用金庫協会]]（policy / industry body）, and [[cooperative-banks/shinkin-network-services|信金ネットワークサービス]]（IT 共同インフラ）for the four-leg view of the shinkin central system (中央金庫本体 / 業界団体 / IT インフラ / 証券・運用機能). Compare against [[cooperative-banks/norinchukin|農林中央金庫]] グループの [[cooperative-banks/nochu-securities|農中信託銀行・農中証券]] for the parallel JA central-system securities lane, and against [[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]] for the broader 254-shinkin member base. Cooperative-system overall comparison anchor: [[banking/japan-cooperative-banking-unified-federation-matrix|Japan cooperative-banking unified federation matrix]].
 
 ## TL;DR
 
@@ -117,7 +117,7 @@ This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[coopera
 
 ## Related
 
-- [[JapanFG/INDEX|JapanFG index]]
+- [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 - [[cooperative-banks/shinkin-central|信金中央金庫]]
 - [[financial-regulators/zenshin-kyo|全国信用金庫協会]]
 - [[cooperative-banks/shinkin-network-services|信金ネットワークサービス]]

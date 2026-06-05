@@ -1,5 +1,5 @@
 ---
-source: japanfg/itochu-corp
+source: financial-conglomerates/itochu-corp
 source_hash: 04e09ca021a5fe0f
 lang: zh
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-05-31T15:29:03.956Z
 
 ## Wiki route
 
-本条目位于 [[JapanFG/INDEX|JapanFG 索引]]，用于记录综合商社母公司与金融服务子公司、战略持股之间的关联。
+本条目位于 [[financial-conglomerates/INDEX|financial-conglomerates INDEX]]，用于记录综合商社母公司与金融服务子公司、战略持股之间的关联。
 
 ## 1 。公司简介
 
@@ -105,7 +105,7 @@ translated_at: 2026-05-31T15:29:03.956Z
 
 ## Related
 
-- [[JapanFG/INDEX|JapanFG index]]
+- [[financial-conglomerates/INDEX|financial-conglomerates INDEX]]
 - [[financial-conglomerates/mitsubishi-corp|三菱商事]] · [[financial-conglomerates/mitsui-co|三井物産]] · [[financial-conglomerates/sumitomo-corp|住友商事]] · [[financial-conglomerates/marubeni-corp|丸紅]] · [[financial-conglomerates/toyota-tsusho-corp|豊田通商]] · [[financial-conglomerates/sojitz-corp|双日]]（同行贸易公司）
 - [[trading-company-finance/itochu-finance|伊藤忠ファイナンス]]（内部集团金库）
 - [[leasing-firms/tokyo-century|東京センチュリー]]（3  主要租赁，伊藤忠商事战略利益约 25% 级）

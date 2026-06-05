@@ -36,7 +36,7 @@ Seiho Kyōkai (Life Insurance Association of Japan, LIAJ) is the industry body f
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it with the non-life peer [[financial-regulators/sonpo-kyokai|General Insurance Association of Japan]], the consumer-education sibling [[financial-regulators/seimei-bunka-center|Japan Institute of Life Insurance]] (where added), and the statutory policyholder-protection backstop [[financial-regulators/seimei-hokensha-hogo-kiko|Life Insurance Policyholders Protection Corporation of Japan]]. Statutory backdrop sits at [[financial-licenses/INDEX]] and [[financial-licenses/insurance-license-and-solvency|insurance license and solvency route]]; the wider operator universe is in [[insurance/INDEX]].
+This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]]. Read it with the non-life peer [[financial-regulators/sonpo-kyokai|General Insurance Association of Japan]], the consumer-education sibling [[financial-regulators/seimei-bunka-center|Japan Institute of Life Insurance]] (where added), and the statutory policyholder-protection backstop [[financial-regulators/seimei-hokensha-hogo-kiko|Life Insurance Policyholders Protection Corporation of Japan]]. Statutory backdrop sits at [[financial-licenses/INDEX]] and [[financial-licenses/insurance-license-and-solvency|insurance license and solvency route]]; the wider operator universe is in [[insurance/INDEX]].
 
 ## Legal route / statutory position (法令の根拠)
 
@@ -71,7 +71,7 @@ JapanFG life-insurer entries frequently cite "industry-standard customer-protect
 
 ## Related
 
-- [[JapanFG/INDEX|JapanFG index]]
+- [[financial-regulators/INDEX|financial-regulators INDEX]]
 - [[financial-regulators/sonpo-kyokai|General Insurance Association of Japan]]
 - [[financial-regulators/seimei-bunka-center|Japan Institute of Life Insurance]]
 - [[financial-regulators/seimei-hokensha-hogo-kiko|Life Insurance Policyholders Protection Corporation of Japan]]

@@ -25,7 +25,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[trading-company-finance/marubeni-financial-services|丸紅フィナンス]] (the closest mid-tier 商社系 group-treasury peer) and [[trading-company-finance/itochu-finance|伊藤忠ファイナンス]] (another peer 商社系 internal-treasury arm). For the mid-tier 商社 captive 比較, see [[leasing-firms/kanematsu-leasing|兼松リース]] (smaller mid-tier 商社系リース). For 5 大商社系の比較 baseline, see [[trading-company-finance/mitsubishi-corp-finance|三菱商事FS]] / [[trading-company-finance/mitsui-bussan-financial-services|三井物産FS]] / [[trading-company-finance/sumitomo-corp-financial-management|住友商事FM]] / [[trading-company-finance/toyota-tsusho-finance|豊田通商フィナンス]]. See [[banking/INDEX|banking index]] for the broader regulatory boundary.
+This entry sits under [[trading-company-finance/INDEX|trading-company-finance INDEX]]. Read it against [[trading-company-finance/marubeni-financial-services|丸紅フィナンス]] (the closest mid-tier 商社系 group-treasury peer) and [[trading-company-finance/itochu-finance|伊藤忠ファイナンス]] (another peer 商社系 internal-treasury arm). For the mid-tier 商社 captive 比較, see [[leasing-firms/kanematsu-leasing|兼松リース]] (smaller mid-tier 商社系リース). For 5 大商社系の比較 baseline, see [[trading-company-finance/mitsubishi-corp-finance|三菱商事FS]] / [[trading-company-finance/mitsui-bussan-financial-services|三井物産FS]] / [[trading-company-finance/sumitomo-corp-financial-management|住友商事FM]] / [[trading-company-finance/toyota-tsusho-finance|豊田通商フィナンス]]. See [[banking/INDEX|banking index]] for the broader regulatory boundary.
 
 ## 1. 会社概要
 

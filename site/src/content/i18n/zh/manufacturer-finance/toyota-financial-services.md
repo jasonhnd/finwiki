@@ -12,7 +12,7 @@ translated_at: 2026-05-30T15:31:43.930Z
 
 ## Wiki 路由
 
-本词条归属于 [[manufacturer-finance/INDEX|manufacturing index]]，并补充 [[leasing-firms/toyota-financial|Toyota Financial Services (JapanFG entity profile)]] 与 [[card-issuers/toyota-finance|トヨタファイナンス (国内オペレーティング会社)]]。该 manufacturing 词条的存在，是为了 **从母公司 OEM 的制造业 / 战略视角** 看待 TFS：丰田如何利用世界最大的汽车 captive finance 来控制销售渠道、残值风险与移动出行服务。对照 [[manufacturer-finance/toyota-motor|Toyota Motor]] 了解母公司 OEM，对照 [[manufacturer-finance/hitachi-industrial-finance-platform|Hitachi 産業金融]]、[[manufacturer-finance/panasonic-captive-finance|Panasonic 顧客金融]]、[[manufacturer-finance/sony-group-finance-arm|Sony FG]]、[[manufacturer-finance/mitsubishi-heavy-export-finance|MHI 輸出金融]] 了解同业产业综合企业金融部门。与 [[structured-finance/auto-loan-abs-japan-toyota-honda|Japan auto-loan ABS]] 配对了解证券化层，与 [[JapanFG/INDEX|JapanFG index]] 配对了解更广的监管边界。
+本词条归属于 [[manufacturer-finance/INDEX|manufacturing index]]，并补充 [[leasing-firms/toyota-financial|Toyota Financial Services (JapanFG entity profile)]] 与 [[card-issuers/toyota-finance|トヨタファイナンス (国内オペレーティング会社)]]。该 manufacturing 词条的存在，是为了 **从母公司 OEM 的制造业 / 战略视角** 看待 TFS：丰田如何利用世界最大的汽车 captive finance 来控制销售渠道、残值风险与移动出行服务。对照 [[manufacturer-finance/toyota-motor|Toyota Motor]] 了解母公司 OEM，对照 [[manufacturer-finance/hitachi-industrial-finance-platform|Hitachi 産業金融]]、[[manufacturer-finance/panasonic-captive-finance|Panasonic 顧客金融]]、[[manufacturer-finance/sony-group-finance-arm|Sony FG]]、[[manufacturer-finance/mitsubishi-heavy-export-finance|MHI 輸出金融]] 了解同业产业综合企业金融部门。与 [[structured-finance/auto-loan-abs-japan-toyota-honda|Japan auto-loan ABS]] 配对了解证券化层，与 [[manufacturer-finance/INDEX|manufacturer-finance INDEX]] 配对了解更广的监管边界。
 
 ## TL;DR
 
@@ -113,7 +113,7 @@ TFS 是世界最大级的 auto-loan / auto-lease ABS 发行体之一。美国 TM
 - [[structured-finance/auto-loan-abs-japan-toyota-honda|Japan auto-loan ABS]]
 - [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]] · [[leasing-firms/orix-corp|オリックス]] · [[leasing-firms/tokyo-century|東京センチュリー]] · [[megabanks/mufg|MUFG]] · [[megabanks/smfg|SMFG]] · [[megabanks/mizuho-fg|みずほ FG]]
 - [[manufacturer-finance/hitachi-industrial-finance-platform|Hitachi 産業金融]] · [[manufacturer-finance/panasonic-captive-finance|Panasonic 顧客金融]] · [[manufacturer-finance/sony-group-finance-arm|Sony FG]] · [[manufacturer-finance/mitsubishi-heavy-export-finance|MHI 輸出金融]]
-- [[manufacturer-finance/INDEX|manufacturing INDEX]] · [[JapanFG/INDEX|JapanFG INDEX]] · [[INDEX|FinWiki index]]
+- [[manufacturer-finance/INDEX|manufacturing INDEX]] · [[manufacturer-finance/INDEX|manufacturer-finance INDEX]] · [[INDEX|FinWiki index]]
 
 ## 来源
 

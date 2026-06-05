@@ -36,7 +36,7 @@
       "Ryugaku Anshin Trust company profile: https://www.jrst.co.jp/%E4%BC%9A%E7%A4%BE%E6%A1%88%E5%86%85"
     ]
   },
-  "summary": "Wiki route: JapanFG/INDEX -> trust-banks/trust-companies-japan-index -> trust-banks/ryugaku-anshin-trust",
+  "summary": "Wiki route: trust-banks/INDEX -> trust-banks/trust-companies-japan-index -> trust-banks/ryugaku-anshin-trust",
   "headings": [
     "Ryugaku Anshin Trust / 留学安心信託",
     "Overview",
@@ -51,18 +51,18 @@
     "wikilinks_count": 7,
     "wikilinks": [
       "INDEX",
-      "JapanFG/INDEX",
       "payments/prepaid-payment-instrument-issuers-japan-index",
       "payments/psp-merchant-settlement-risk",
+      "trust-banks/INDEX",
       "trust-banks/escrow-agent-japan-trust",
       "trust-banks/ryugaku-anshin-trust",
       "trust-banks/trust-companies-japan-index"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/payments/prepaid-payment-instrument-issuers-japan-index",
       "https://finwiki.zksc.io/payments/psp-merchant-settlement-risk",
+      "https://finwiki.zksc.io/trust-banks/INDEX",
       "https://finwiki.zksc.io/trust-banks/escrow-agent-japan-trust",
       "https://finwiki.zksc.io/trust-banks/ryugaku-anshin-trust",
       "https://finwiki.zksc.io/trust-banks/trust-companies-japan-index"
@@ -71,9 +71,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2355,
-    "word_like_tokens": 388,
+    "nonspace_chars": 2359,
+    "word_like_tokens": 389,
     "inbound_wikilinks_count": 3,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

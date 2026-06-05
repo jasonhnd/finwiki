@@ -1,5 +1,5 @@
 ---
-source: japanfg/pwc-aarata
+source: financial-regulators/pwc-aarata
 source_hash: ccfb71edf7a33389
 lang: zh
 status: machine
@@ -15,7 +15,7 @@ translated_at: 2026-06-01T00:41:50.398Z
 
 ## Wiki 路由
 
-本条目位于 [[JapanFG/INDEX|JapanFG index]] 之下。请与 [[financial-regulators/deloitte-touche-tohmatsu|トーマツ (Deloitte)]] 和 [[financial-regulators/ey-shinnihon|EY 新日本]] 一起阅读，以取得 Big 4  审计同业语境；并结合 [[financial-licenses/INDEX|金融ライセンス INDEX]] 阅读，以理解《公认会计士法》 / 审计质量管理的监管边界。CPAAOB 监督语境由 [[financial-regulators/fsa-supervision-bureau|金融庁 監督局]] 和 [[financial-regulators/fsa-strategy-bureau|金融庁 総合政策局]] 管辖。
+本条目位于 [[financial-regulators/INDEX|financial-regulators INDEX]] 之下。请与 [[financial-regulators/deloitte-touche-tohmatsu|トーマツ (Deloitte)]] 和 [[financial-regulators/ey-shinnihon|EY 新日本]] 一起阅读，以取得 Big 4  审计同业语境；并结合 [[financial-licenses/INDEX|金融ライセンス INDEX]] 阅读，以理解《公认会计士法》 / 审计质量管理的监管边界。CPAAOB 监督语境由 [[financial-regulators/fsa-supervision-bureau|金融庁 監督局]] 和 [[financial-regulators/fsa-strategy-bureau|金融庁 総合政策局]] 管辖。
 
 ## 1. 法人概要
 

@@ -1,5 +1,5 @@
 ---
-source: japanfg/smbc
+source: megabanks/smbc
 source_hash: ea96e805b787987f
 lang: en
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-01T02:31:57.100Z
 
 ## Wiki route
 
-This entry sits under [[JapanFG/INDEX|JapanFG index]]. Read it against [[megabanks/smfg|SMFG parent company]], [[megabanks/mufg-bank|MUFG Bank]], and [[megabanks/mizuho-bank|Mizuho Bank]] for peer / contrast context among the three major megabanks, and against [[financial-regulators/fsa|FSA]] / [[financial-regulators/boj|Bank of Japan]] for the broader regulatory boundary.
+This entry sits under [[megabanks/INDEX|megabanks INDEX]]. Read it against [[megabanks/smfg|SMFG parent company]], [[megabanks/mufg-bank|MUFG Bank]], and [[megabanks/mizuho-bank|Mizuho Bank]] for peer / contrast context among the three major megabanks, and against [[financial-regulators/fsa|FSA]] / [[financial-regulators/boj|Bank of Japan]] for the broader regulatory boundary.
 
 ## TL;DR
 
@@ -119,7 +119,7 @@ SMFG [[megabanks/smfg|8316]], holding company
 - [[megabanks/mufg-bank|MUFG Bank]] ? [[megabanks/mizuho-bank|Mizuho Bank]] ? [[regional-banks/japan-post-bank|Japan Post Bank]]
 - [[financial-regulators/fsa|金融庁]] · [[financial-regulators/boj|日本銀行]] · [[financial-regulators/dic|預金保険機構]]
 - [[card-issuers/jcb|JCB]] · [[banking/INDEX|banking index]]
-- [[JapanFG/INDEX|JapanFG index]]
+- [[megabanks/INDEX|megabanks INDEX]]
 
 ## Sources
 

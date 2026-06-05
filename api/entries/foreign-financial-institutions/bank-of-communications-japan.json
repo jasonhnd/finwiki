@@ -55,10 +55,10 @@
     "wikilinks_count": 13,
     "wikilinks": [
       "INDEX",
-      "JapanFG/INDEX",
       "banking/INDEX",
       "banking/foreign-bank-japan-retreat",
       "financial-licenses/foreign-bank-branch-license-route",
+      "foreign-financial-institutions/INDEX",
       "foreign-financial-institutions/agricultural-bank-of-china-japan",
       "foreign-financial-institutions/bank-of-china-japan",
       "foreign-financial-institutions/bank-of-communications-japan",
@@ -70,10 +70,10 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/foreign-bank-japan-retreat",
       "https://finwiki.zksc.io/financial-licenses/foreign-bank-branch-license-route",
+      "https://finwiki.zksc.io/foreign-financial-institutions/INDEX",
       "https://finwiki.zksc.io/foreign-financial-institutions/agricultural-bank-of-china-japan",
       "https://finwiki.zksc.io/foreign-financial-institutions/bank-of-china-japan",
       "https://finwiki.zksc.io/foreign-financial-institutions/bank-of-communications-japan",
@@ -87,9 +87,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5324,
-    "word_like_tokens": 819,
+    "nonspace_chars": 5393,
+    "word_like_tokens": 825,
     "inbound_wikilinks_count": 6,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

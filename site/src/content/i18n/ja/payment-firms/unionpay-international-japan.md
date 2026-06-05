@@ -1,5 +1,5 @@
 ---
-source: japanfg/unionpay-international-japan
+source: payment-firms/unionpay-international-japan
 source_hash: 15d45bce352042ef
 lang: ja
 status: machine
@@ -11,7 +11,7 @@ translated_at: 2026-06-02T16:33:58.479Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[JapanFG/INDEX|JapanFG index]] 配下にあります。比較・対照の文脈では [[card-issuers/jcb|JCB]] を参照してください。JCB と銀聯は 2006 年 に相互利用提携を結んだ歴史があります。より広い制度・規制境界の文脈では [[payments/japan-card-issuer-acquirer-processor-split|Japan card issuer / acquirer / processor split]] を参照してください。
+この項目は [[payment-firms/INDEX|payment-firms INDEX]] 配下にあります。比較・対照の文脈では [[card-issuers/jcb|JCB]] を参照してください。JCB と銀聯は 2006 年 に相互利用提携を結んだ歴史があります。より広い制度・規制境界の文脈では [[payments/japan-card-issuer-acquirer-processor-split|Japan card issuer / acquirer / processor split]] を参照してください。
 
 ## 要約
 

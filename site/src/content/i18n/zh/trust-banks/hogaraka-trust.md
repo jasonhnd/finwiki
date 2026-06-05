@@ -1,5 +1,5 @@
 ---
-source: japanfg/hogaraka-trust
+source: trust-banks/hogaraka-trust
 source_hash: cf93a2096b2b39a3
 lang: zh
 status: machine
@@ -12,7 +12,7 @@ translated_at: 2026-05-31T15:29:03.879Z
 
 ## 维基路线
 
-Hogaraka Trust 是一家独立的信托公司，隶属于[[JapanFG/INDEX|JapanFG]]并晋升自[[trust-banks/trust-companies-japan-index|the Japan trust companies registry index]]阅读它与[[retail/INDEX|retail]],[[banking/japan-trust-bank-custody-map|Japan trust-bank custody map]]， 和[[trust-banks/daiwa-living-trust|Daiwa Living Trust]]。
+Hogaraka Trust 是一家独立的信托公司，隶属于[[trust-banks/INDEX|trust-banks INDEX]]并晋升自[[trust-banks/trust-companies-japan-index|the Japan trust companies registry index]]阅读它与[[retail/INDEX|retail]],[[banking/japan-trust-bank-custody-map|Japan trust-bank custody map]]， 和[[trust-banks/daiwa-living-trust|Daiwa Living Trust]]。
 
 使用此页面了解零售集团信托服务、遗产规划、家族企业继承、高级支持和房地产继承问题。
 
@@ -59,7 +59,7 @@ Hogaraka Trust 非常有用，因为它将信托公司的覆盖范围从银行/�
 
 ## 有关的
 
-- [[JapanFG/INDEX]]
+- [[trust-banks/INDEX]]
 - [[trust-banks/trust-companies-japan-index]]
 - [[retail/INDEX]]
 - [[banking/japan-trust-bank-custody-map]]

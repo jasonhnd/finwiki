@@ -34,7 +34,7 @@
       "JIA Trust official site: https://www.jiatrust.co.jp/"
     ]
   },
-  "summary": "Wiki route: JapanFG/INDEX -> trust-banks/trust-companies-japan-index -> trust-banks/jia-trust",
+  "summary": "Wiki route: trust-banks/INDEX -> trust-banks/trust-companies-japan-index -> trust-banks/jia-trust",
   "headings": [
     "JIA Trust / JIA信託",
     "Overview",
@@ -49,18 +49,18 @@
     "wikilinks_count": 7,
     "wikilinks": [
       "INDEX",
-      "JapanFG/INDEX",
       "finance/japan-acquisition-finance",
       "securities/financial-instruments-business-operators-japan-index",
+      "trust-banks/INDEX",
       "trust-banks/capital-trust",
       "trust-banks/jia-trust",
       "trust-banks/trust-companies-japan-index"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/finance/japan-acquisition-finance",
       "https://finwiki.zksc.io/securities/financial-instruments-business-operators-japan-index",
+      "https://finwiki.zksc.io/trust-banks/INDEX",
       "https://finwiki.zksc.io/trust-banks/capital-trust",
       "https://finwiki.zksc.io/trust-banks/jia-trust",
       "https://finwiki.zksc.io/trust-banks/trust-companies-japan-index"
@@ -69,9 +69,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2187,
-    "word_like_tokens": 350,
+    "nonspace_chars": 2191,
+    "word_like_tokens": 351,
     "inbound_wikilinks_count": 3,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

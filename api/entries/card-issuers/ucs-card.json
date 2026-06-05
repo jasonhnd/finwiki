@@ -36,7 +36,7 @@
       "https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against ライフカード (Life Card) for peer / contrast context and payments index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under card-issuers INDEX. Read it against ライフカード (Life Card) for peer / contrast context and payments index for the broader system / regulatory boundary.",
   "headings": [
     "UCSカード (UCS)",
     "Wiki route",
@@ -50,7 +50,7 @@
   "body_links": {
     "wikilinks_count": 9,
     "wikilinks": [
-      "JapanFG/INDEX",
+      "card-issuers/INDEX",
       "card-issuers/aeon-financial-service",
       "card-issuers/epos-card",
       "card-issuers/life-card",
@@ -61,7 +61,7 @@
       "payments/funds-transfer-vs-prepaid-boundary"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/card-issuers/INDEX",
       "https://finwiki.zksc.io/card-issuers/aeon-financial-service",
       "https://finwiki.zksc.io/card-issuers/epos-card",
       "https://finwiki.zksc.io/card-issuers/life-card",
@@ -75,9 +75,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1971,
-    "word_like_tokens": 317,
+    "nonspace_chars": 1981,
+    "word_like_tokens": 319,
     "inbound_wikilinks_count": 6,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }

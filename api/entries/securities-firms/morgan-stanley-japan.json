@@ -38,7 +38,7 @@
       "MUFG IR 開示 (Morgan Stanley 戦略提携関連)"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against ゴールドマン・サックス・ジャパン (Goldman Sachs Japan) for peer / contrast context and securities index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under securities-firms INDEX. Read it against ゴールドマン・サックス・ジャパン (Goldman Sachs Japan) for peer / contrast context and securities index for the broader system / regulatory boundary.",
   "headings": [
     "モルガン・スタンレー・ジャパン (Morgan Stanley Japan)",
     "Wiki route",
@@ -54,23 +54,23 @@
   "body_links": {
     "wikilinks_count": 9,
     "wikilinks": [
-      "JapanFG/INDEX",
       "goldman-sachs-japan",
       "mizuho-fg",
       "mufg",
       "nomura-hd",
       "sbi-hd",
+      "securities-firms/INDEX",
       "securities-firms/goldman-sachs-japan",
       "securities/INDEX",
       "smfg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
       "https://finwiki.zksc.io/goldman-sachs-japan",
       "https://finwiki.zksc.io/mizuho-fg",
       "https://finwiki.zksc.io/mufg",
       "https://finwiki.zksc.io/nomura-hd",
       "https://finwiki.zksc.io/sbi-hd",
+      "https://finwiki.zksc.io/securities-firms/INDEX",
       "https://finwiki.zksc.io/securities-firms/goldman-sachs-japan",
       "https://finwiki.zksc.io/securities/INDEX",
       "https://finwiki.zksc.io/smfg"
@@ -79,9 +79,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5392,
-    "word_like_tokens": 976,
+    "nonspace_chars": 5410,
+    "word_like_tokens": 978,
     "inbound_wikilinks_count": 26,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-06"
   }
 }
