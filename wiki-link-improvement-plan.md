@@ -15,7 +15,7 @@
 | Missing route link | 0 |
 | Missing peer link | 0 |
 | Missing system / regulatory link | 0 |
-| Changed or new entries in current worktree | 58 |
+| Changed or new entries in current worktree | 1 |
 | canonical_anchor declarations checked (informational) | 12 |
 | canonical_anchor drift (informational, non-gating) | 0 |
 
@@ -41,64 +41,7 @@
 
 | Path | State | Body | Issues |
 |---|---:|---:|---|
-| `cooperative-banks/asahi-shinkin.md` | `M` | 16 | ok |
-| `cooperative-banks/hamamatsu-iwata-shinkin.md` | `M` | 17 | ok |
-| `cooperative-banks/johoku-shinkin.md` | `M` | 18 | ok |
-| `cooperative-banks/jonan-shinkin.md` | `M` | 17 | ok |
-| `cooperative-banks/kawasaki-shinkin.md` | `M` | 19 | ok |
-| `cooperative-banks/kyoto-chuo-shinkin.md` | `M` | 19 | ok |
-| `cooperative-banks/okazaki-shinkin.md` | `M` | 19 | ok |
-| `cooperative-banks/osaka-shinkin.md` | `M` | 17 | ok |
-| `cooperative-banks/tama-shinkin.md` | `M` | 18 | ok |
-| `cooperative-banks/yokohama-shinkin.md` | `M` | 19 | ok |
-| `regional-banks/awa-bank.md` | `M` | 15 | ok |
-| `regional-banks/daishi-hokuetsu-bank.md` | `M` | 12 | ok |
-| `regional-banks/daito-bank.md` | `M` | 11 | ok |
-| `regional-banks/daiwa-next-bank.md` | `M` | 12 | ok |
-| `regional-banks/ehime-bank.md` | `M` | 12 | ok |
-| `regional-banks/fukui-bank.md` | `M` | 10 | ok |
-| `regional-banks/fukuoka-bank.md` | `M` | 16 | ok |
-| `regional-banks/fukushima-bank.md` | `M` | 16 | ok |
-| `regional-banks/higashi-nippon-bank.md` | `M` | 14 | ok |
-| `regional-banks/hiroshima-bank.md` | `M` | 15 | ok |
-| `regional-banks/hokkaido-bank.md` | `M` | 14 | ok |
-| `regional-banks/hokkoku-bank.md` | `M` | 11 | ok |
-| `regional-banks/hokuriku-bank.md` | `M` | 18 | ok |
-| `regional-banks/hokuto-bank.md` | `M` | 17 | ok |
-| `regional-banks/howa-bank.md` | `M` | 11 | ok |
-| `regional-banks/iyo-bank.md` | `M` | 16 | ok |
-| `regional-banks/juroku-bank.md` | `M` | 16 | ok |
-| `regional-banks/kagawa-bank.md` | `M` | 16 | ok |
-| `regional-banks/kanagawa-bank.md` | `M` | 11 | ok |
-| `regional-banks/kansai-mirai-bank.md` | `M` | 17 | ok |
-| `regional-banks/kita-nippon-bank.md` | `M` | 11 | ok |
-| `regional-banks/kitakyushu-bank.md` | `M` | 19 | ok |
-| `regional-banks/kochi-bank.md` | `M` | 13 | ok |
-| `regional-banks/minami-nippon-bank.md` | `M` | 12 | ok |
-| `regional-banks/miyazaki-bank.md` | `M` | 12 | ok |
-| `regional-banks/miyazaki-taiyo-bank.md` | `M` | 10 | ok |
-| `regional-banks/momiji-bank.md` | `M` | 17 | ok |
-| `regional-banks/nagasaki-bank.md` | `M` | 18 | ok |
-| `regional-banks/nagoya-bank.md` | `M` | 12 | ok |
-| `regional-banks/nishi-nippon-city-bank.md` | `M` | 21 | ok |
-| `regional-banks/oita-bank.md` | `M` | 12 | ok |
-| `regional-banks/saga-bank.md` | `M` | 15 | ok |
-| `regional-banks/saikyo-bank.md` | `M` | 16 | ok |
-| `regional-banks/shikoku-bank.md` | `M` | 14 | ok |
-| `regional-banks/shimizu-bank.md` | `M` | 11 | ok |
-| `regional-banks/shizuoka-bank.md` | `M` | 16 | ok |
-| `regional-banks/shizuoka-chuo-bank.md` | `M` | 12 | ok |
-| `regional-banks/shonai-bank.md` | `M` | 14 | ok |
-| `regional-banks/sony-bank.md` | `M` | 13 | ok |
-| `regional-banks/tajima-bank.md` | `M` | 9 | ok |
-| `regional-banks/tohoku-bank.md` | `M` | 12 | ok |
-| `regional-banks/tomato-bank.md` | `M` | 11 | ok |
-| `regional-banks/tottori-bank.md` | `M` | 11 | ok |
-| `regional-banks/toyama-bank.md` | `M` | 12 | ok |
-| `regional-banks/toyama-first-bank.md` | `M` | 15 | ok |
-| `regional-banks/tsukuba-bank.md` | `M` | 12 | ok |
-| `regional-banks/ui-bank.md` | `M` | 13 | ok |
-| `regional-banks/yamanashi-chuo-bank.md` | `M` | 10 | ok |
+| `INDEX.md` | `M` | 46 | ok |
 
 ## Domain Snapshot
 
