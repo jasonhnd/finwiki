@@ -1,9 +1,9 @@
 # FinWiki Full LLM Manifest
 
-Generated: 2026-06-05T08:11:09+09:00
+Generated: 2026-06-05T09:39:16+09:00
 Site: https://finwiki.zksc.io
-Markdown files: 1561
-Public pages listed: 1560
+Markdown files: 1562
+Public pages listed: 1561
 
 ## Reading Rules
 
@@ -28,7 +28,7 @@ Public pages listed: 1560
 - Domain: root
 - Type: control_doc
 - Summary: 1. matt-huang-triple-role-coi-template — Stripe 取締役就任「2024」→ 2021-11(Stripe newsroom: 2021年11月5日)。 2. christine-moy-talent-signal-jpm-apollo — Apollo 移籍「2024」→ 2022-04(CoinDesk 2022-04-28 / Apollo 公式)。併せて整合しない「回収サイクル 6-18ヶ月」を「数年規模」へ修正。 3. jamie-dimon-anti-crypto-pivot-case — 「2022 ペットロック」を分離・修正:2022
-- Headings: CHANGELOG, 運用原則 / Maintenance Principles / 维护原则, 日本語, English, 中文, 2026-06-05, P4 i18n — 55 entry に ja/zh/en mirror 165 file（鍵不要・subagent 直接翻訳）/ P4 i18n: 165 ja/zh/en mirrors, no API key / P4 i18n：55 entry × 3 语 = 165 镜像（无需密钥）, P3 内容拡充 — 最薄の non-profit / trade を各 +6（+12 entry）/ P3 content expansion (non-profit / trade +6 each) / P3 内容扩充（non-profit / trade 各 +6）
+- Headings: CHANGELOG, 運用原則 / Maintenance Principles / 维护原则, 日本語, English, 中文, 2026-06-05, P2 深化（第 1 批）— JapanFG 拆分域の存根 58 件を深化 / P2 deepening batch 1 (58 split-domain stubs) / P2 深化第 1 批（58 个拆分域存根）, P4 i18n — 55 entry に ja/zh/en mirror 165 file（鍵不要・subagent 直接翻訳）/ P4 i18n: 165 ja/zh/en mirrors, no API key / P4 i18n：55 entry × 3 语 = 165 镜像（无需密钥）
 - First resolved wikilinks: https://finwiki.zksc.io/..., https://finwiki.zksc.io/JapanFG, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/…, https://finwiki.zksc.io/asset-managers/mitsubishi-corp-asset-management, https://finwiki.zksc.io/asset-managers/nissay-asset-management, https://finwiki.zksc.io/asset-managers/principal-japan, https://finwiki.zksc.io/asset-managers/smt-am, https://finwiki.zksc.io/asset-managers/t-and-d-asset-management, https://finwiki.zksc.io/asset-managers/tokio-marine-asset-management, https://finwiki.zksc.io/banking/japan-banking-license-tier-comparison-matrix, https://finwiki.zksc.io/banking/japan-trust-bank-vs-global-custodian-comparison-matrix
 
 ### How to navigate FinWiki — reader profile guide
@@ -79,7 +79,7 @@ Public pages listed: 1560
 - Type: control_doc
 - Summary: FinWiki は、金融、決済、ステーブルコイン、暗号資産、資本市場、日本の金融機関、政策金融、公開企業・公開人物の戦略ケースを扱う Markdown ナレッジベースです。主なリンク形式は Obsidian の wikilink で、全体入口は INDEX.md です。
 - Headings: FinWiki 📚💴🧭, 日本語 🇯🇵, 📊 数字で見る FinWiki, 🚪 まず見る場所, 🗺️ コンテンツマップ, 🔐 公開面ルール, 🔍 使い方, 🛠️ 運用ルール
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/…, https://finwiki.zksc.io/link, https://finwiki.zksc.io/wikilink
+- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/…, https://finwiki.zksc.io/link, https://finwiki.zksc.io/wikilink
 
 ### Wiki Frontmatter Schema
 - URL: https://finwiki.zksc.io/SCHEMA
@@ -1642,9 +1642,9 @@ Public pages listed: 1560
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/cooperative-banks/asahi-shinkin.md
 - Domain: cooperative-banks
 - Type: wiki_entry
-- Summary: This entry sits under JapanFG index. Read it against 城南信用金庫 for peer / contrast context inside the Tokyo shinkin block and Japan shinkin bank registry for the broader system / regulatory boundary maintained by 信金中央金庫.
-- Headings: 朝日信用金庫, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/cooperative-banking-japan, https://finwiki.zksc.io/banking/shinkin-bank-registry-japan, https://finwiki.zksc.io/cooperative-banks/johoku-shinkin, https://finwiki.zksc.io/cooperative-banks/jonan-shinkin, https://finwiki.zksc.io/cooperative-banks/shinkin-central, https://finwiki.zksc.io/cooperative-banks/tama-shinkin
+- Summary: This entry sits under cooperative-banks index. Read it against 城南信用金庫 for peer / contrast context inside the Tokyo shinkin block, Japan shinkin bank registry for the system landscape, 信金中央金庫 for the cooperative central institution above it, and the FSA for the supervisory / licensing boundary over 信
+- Headings: 朝日信用金庫, Wiki route, TL;DR, 1. License / group boundary, 2. Institution-type business model, 3. System & regulatory positioning, 4. Why this page matters, Related
+- First resolved wikilinks: https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/cooperative-banking-japan, https://finwiki.zksc.io/banking/shinkin-bank-registry-japan, https://finwiki.zksc.io/cooperative-banks/INDEX, https://finwiki.zksc.io/cooperative-banks/johoku-shinkin, https://finwiki.zksc.io/cooperative-banks/jonan-shinkin, https://finwiki.zksc.io/cooperative-banks/norinchukin, https://finwiki.zksc.io/cooperative-banks/shinkin-central, https://finwiki.zksc.io/cooperative-banks/tama-shinkin, https://finwiki.zksc.io/financial-regulators/dic, https://finwiki.zksc.io/financial-regulators/fsa
 
 ### 中央労働金庫 (Chuo Rokin / Central Labour Bank)
 - URL: https://finwiki.zksc.io/cooperative-banks/chochukin-rokin
@@ -1682,9 +1682,9 @@ Public pages listed: 1560
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/cooperative-banks/hamamatsu-iwata-shinkin.md
 - Domain: cooperative-banks
 - Type: wiki_entry
-- Summary: This entry sits under JapanFG index. Read it against 岡崎信用金庫 for peer / contrast context inside the Chubu manufacturing-belt shinkin block and Japan shinkin bank registry for the broader system / regulatory boundary maintained by 信金中央金庫.
-- Headings: 浜松磐田信用金庫, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/cooperative-banking-japan, https://finwiki.zksc.io/banking/shinkin-bank-registry-japan, https://finwiki.zksc.io/cooperative-banks/okazaki-shinkin, https://finwiki.zksc.io/cooperative-banks/shinkin-central, https://finwiki.zksc.io/regional-banks/aichi-bank
+- Summary: This entry sits under cooperative-banks index. Read it against 岡崎信用金庫 for peer / contrast context inside the Chubu manufacturing-belt shinkin block, Japan shinkin bank registry for the system landscape, 信金中央金庫 for the cooperative central institution above it, and the FSA for the supervisory / licens
+- Headings: 浜松磐田信用金庫, Wiki route, TL;DR, 1. License / group boundary, 2. Institution-type business model, 3. System & regulatory positioning, 4. Why this page matters, Related
+- First resolved wikilinks: https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/cooperative-banking-japan, https://finwiki.zksc.io/banking/shinkin-bank-registry-japan, https://finwiki.zksc.io/cooperative-banks/INDEX, https://finwiki.zksc.io/cooperative-banks/norinchukin, https://finwiki.zksc.io/cooperative-banks/okazaki-shinkin, https://finwiki.zksc.io/cooperative-banks/shinkin-central, https://finwiki.zksc.io/financial-regulators/dic, https://finwiki.zksc.io/financial-regulators/fsa, https://finwiki.zksc.io/regional-banks/aichi-bank
 
 ### ハナ信用組合 (Hana Credit Cooperative)
 - URL: https://finwiki.zksc.io/cooperative-banks/hana-shinkumi
@@ -1812,9 +1812,9 @@ Public pages listed: 1560
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/cooperative-banks/johoku-shinkin.md
 - Domain: cooperative-banks
 - Type: wiki_entry
-- Summary: This entry sits under JapanFG index. Read it against 城南信用金庫 for peer / contrast context (Tokyo 南西部 vs 北部) inside the Tokyo shinkin block and Japan shinkin bank registry for the broader system / regulatory boundary maintained by 信金中央金庫.
-- Headings: 城北信用金庫, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/cooperative-banking-japan, https://finwiki.zksc.io/banking/shinkin-bank-registry-japan, https://finwiki.zksc.io/cooperative-banks/asahi-shinkin, https://finwiki.zksc.io/cooperative-banks/jonan-shinkin, https://finwiki.zksc.io/cooperative-banks/shinkin-central, https://finwiki.zksc.io/cooperative-banks/tama-shinkin
+- Summary: This entry sits under cooperative-banks index. Read it against 城南信用金庫 for peer / contrast context (Tokyo 南西部 vs 北部) inside the Tokyo shinkin block, Japan shinkin bank registry for the system landscape, 信金中央金庫 for the cooperative central institution above it, and the FSA for the supervisory / licensi
+- Headings: 城北信用金庫, Wiki route, TL;DR, 1. License / group boundary, 2. Institution-type business model, 3. System & regulatory positioning, 4. Why this page matters, Related
+- First resolved wikilinks: https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/cooperative-banking-japan, https://finwiki.zksc.io/banking/shinkin-bank-registry-japan, https://finwiki.zksc.io/cooperative-banks/INDEX, https://finwiki.zksc.io/cooperative-banks/asahi-shinkin, https://finwiki.zksc.io/cooperative-banks/jonan-shinkin, https://finwiki.zksc.io/cooperative-banks/norinchukin, https://finwiki.zksc.io/cooperative-banks/shinkin-central, https://finwiki.zksc.io/cooperative-banks/tama-shinkin, https://finwiki.zksc.io/financial-regulators/dic, https://finwiki.zksc.io/financial-regulators/fsa
 
 ### 城南信用金庫
 - URL: https://finwiki.zksc.io/cooperative-banks/jonan-shinkin
@@ -1822,9 +1822,9 @@ Public pages listed: 1560
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/cooperative-banks/jonan-shinkin.md
 - Domain: cooperative-banks
 - Type: wiki_entry
-- Summary: This entry sits under JapanFG index. Read it against 朝日信用金庫 for peer / contrast context inside the Tokyo shinkin block and Japan shinkin bank registry for the broader system / regulatory boundary maintained by 信金中央金庫.
-- Headings: 城南信用金庫, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/cooperative-banking-japan, https://finwiki.zksc.io/banking/shinkin-bank-registry-japan, https://finwiki.zksc.io/cooperative-banks/asahi-shinkin, https://finwiki.zksc.io/cooperative-banks/johoku-shinkin, https://finwiki.zksc.io/cooperative-banks/kawasaki-shinkin, https://finwiki.zksc.io/cooperative-banks/shinkin-central
+- Summary: This entry sits under cooperative-banks index. Read it against 朝日信用金庫 for peer / contrast context inside the Tokyo shinkin block, Japan shinkin bank registry for the system landscape, 信金中央金庫 for the cooperative central institution above it, and the FSA for the supervisory / licensing boundary over 信
+- Headings: 城南信用金庫, Wiki route, TL;DR, 1. License / group boundary, 2. Institution-type business model, 3. System & regulatory positioning, 4. Why this page matters, Related
+- First resolved wikilinks: https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/cooperative-banking-japan, https://finwiki.zksc.io/banking/shinkin-bank-registry-japan, https://finwiki.zksc.io/cooperative-banks/INDEX, https://finwiki.zksc.io/cooperative-banks/asahi-shinkin, https://finwiki.zksc.io/cooperative-banks/johoku-shinkin, https://finwiki.zksc.io/cooperative-banks/kawasaki-shinkin, https://finwiki.zksc.io/cooperative-banks/norinchukin, https://finwiki.zksc.io/cooperative-banks/rokin-renraku, https://finwiki.zksc.io/cooperative-banks/shinkin-central, https://finwiki.zksc.io/financial-regulators/dic, https://finwiki.zksc.io/financial-regulators/fsa
 
 ### 川崎信用金庫
 - URL: https://finwiki.zksc.io/cooperative-banks/kawasaki-shinkin
@@ -1832,9 +1832,9 @@ Public pages listed: 1560
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/cooperative-banks/kawasaki-shinkin.md
 - Domain: cooperative-banks
 - Type: wiki_entry
-- Summary: This entry sits under JapanFG index. Read it against 横浜信用金庫 for peer / contrast context inside the Kanagawa shinkin block and Japan shinkin bank registry for the broader system / regulatory boundary maintained by 信金中央金庫.
-- Headings: 川崎信用金庫, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/cooperative-banking-japan, https://finwiki.zksc.io/banking/shinkin-bank-registry-japan, https://finwiki.zksc.io/cooperative-banks/jonan-shinkin, https://finwiki.zksc.io/cooperative-banks/shinkin-central, https://finwiki.zksc.io/cooperative-banks/yokohama-shinkin
+- Summary: This entry sits under cooperative-banks index. Read it against 横浜信用金庫 for peer / contrast context inside the Kanagawa shinkin block, Japan shinkin bank registry for the system landscape, 信金中央金庫 for the cooperative central institution above it, and the FSA for the supervisory / licensing boundary ove
+- Headings: 川崎信用金庫, Wiki route, TL;DR, 1. License / group boundary, 2. Institution-type business model, 3. System & regulatory positioning, 4. Why this page matters, Related
+- First resolved wikilinks: https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/cooperative-banking-japan, https://finwiki.zksc.io/banking/shinkin-bank-registry-japan, https://finwiki.zksc.io/cooperative-banks/INDEX, https://finwiki.zksc.io/cooperative-banks/jonan-shinkin, https://finwiki.zksc.io/cooperative-banks/norinchukin, https://finwiki.zksc.io/cooperative-banks/shinkin-central, https://finwiki.zksc.io/cooperative-banks/yokohama-shinkin, https://finwiki.zksc.io/financial-regulators/dic, https://finwiki.zksc.io/financial-regulators/fsa, https://finwiki.zksc.io/regional-banks/yokohama-bank
 
 ### 警視庁職員信用組合 (Metropolitan Police Employees Credit Cooperative)
 - URL: https://finwiki.zksc.io/cooperative-banks/keishicho-shinkumi
@@ -1862,9 +1862,9 @@ Public pages listed: 1560
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/cooperative-banks/kyoto-chuo-shinkin.md
 - Domain: cooperative-banks
 - Type: wiki_entry
-- Summary: This entry sits under JapanFG index. Read it against 大阪信用金庫 for peer / contrast context inside the Kansai shinkin block and Japan shinkin bank registry for the broader system / regulatory boundary anchored by 信金中央金庫.
-- Headings: 京都中央信用金庫, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/cooperative-banking-japan, https://finwiki.zksc.io/banking/shinkin-bank-registry-japan, https://finwiki.zksc.io/cooperative-banks/osaka-shinkin, https://finwiki.zksc.io/cooperative-banks/shinkin-central, https://finwiki.zksc.io/regional-banks/kyoto-bank
+- Summary: This entry sits under cooperative-banks index. Read it against 大阪信用金庫 for peer / contrast context inside the Kansai shinkin block, Japan shinkin bank registry for the system landscape, 信金中央金庫 for the cooperative central institution above it, and the FSA for the supervisory / licensing boundary over
+- Headings: 京都中央信用金庫, Wiki route, TL;DR, 1. License / group boundary, 2. Institution-type business model, 3. System & regulatory positioning, 4. Why this page matters, Related
+- First resolved wikilinks: https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/cooperative-banking-japan, https://finwiki.zksc.io/banking/shinkin-bank-registry-japan, https://finwiki.zksc.io/cooperative-banks/INDEX, https://finwiki.zksc.io/cooperative-banks/norinchukin, https://finwiki.zksc.io/cooperative-banks/osaka-shinkin, https://finwiki.zksc.io/cooperative-banks/shinkin-central, https://finwiki.zksc.io/financial-regulators/dic, https://finwiki.zksc.io/financial-regulators/fsa, https://finwiki.zksc.io/regional-banks/kyoto-bank
 
 ### 京都信用金庫
 - URL: https://finwiki.zksc.io/cooperative-banks/kyoto-shinkin
@@ -1902,9 +1902,9 @@ Public pages listed: 1560
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/cooperative-banks/okazaki-shinkin.md
 - Domain: cooperative-banks
 - Type: wiki_entry
-- Summary: This entry sits under JapanFG index. Read it against 浜松磐田信用金庫 for peer / contrast context inside the Chubu shinkin block and Japan shinkin bank registry for the broader system / regulatory boundary maintained by 信金中央金庫.
-- Headings: 岡崎信用金庫, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/cooperative-banking-japan, https://finwiki.zksc.io/banking/shinkin-bank-registry-japan, https://finwiki.zksc.io/cooperative-banks/hamamatsu-iwata-shinkin, https://finwiki.zksc.io/cooperative-banks/shinkin-central, https://finwiki.zksc.io/regional-banks/aichi-bank, https://finwiki.zksc.io/regional-banks/kyoto-bank
+- Summary: This entry sits under cooperative-banks index. Read it against 浜松磐田信用金庫 for peer / contrast context inside the Chubu shinkin block, Japan shinkin bank registry for the system landscape, 信金中央金庫 for the cooperative central institution above it, and the FSA for the supervisory / licensing boundary over
+- Headings: 岡崎信用金庫, Wiki route, TL;DR, 1. License / group boundary, 2. Institution-type business model, 3. System & regulatory positioning, 4. Why this page matters, Related
+- First resolved wikilinks: https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/cooperative-banking-japan, https://finwiki.zksc.io/banking/shinkin-bank-registry-japan, https://finwiki.zksc.io/cooperative-banks/INDEX, https://finwiki.zksc.io/cooperative-banks/hamamatsu-iwata-shinkin, https://finwiki.zksc.io/cooperative-banks/norinchukin, https://finwiki.zksc.io/cooperative-banks/shinkin-central, https://finwiki.zksc.io/financial-regulators/dic, https://finwiki.zksc.io/financial-regulators/fsa, https://finwiki.zksc.io/regional-banks/aichi-bank, https://finwiki.zksc.io/regional-banks/kyoto-bank
 
 ### 大阪信用金庫
 - URL: https://finwiki.zksc.io/cooperative-banks/osaka-shinkin
@@ -1912,9 +1912,9 @@ Public pages listed: 1560
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/cooperative-banks/osaka-shinkin.md
 - Domain: cooperative-banks
 - Type: wiki_entry
-- Summary: This entry sits under JapanFG index. Read it against 京都中央信用金庫 for peer / contrast context within the Kansai shinkin block and Japan shinkin bank registry for the broader system / regulatory boundary maintained by 信金中央金庫.
-- Headings: 大阪信用金庫, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/cooperative-banking-japan, https://finwiki.zksc.io/banking/shinkin-bank-registry-japan, https://finwiki.zksc.io/cooperative-banks/kawasaki-shinkin, https://finwiki.zksc.io/cooperative-banks/kyoto-chuo-shinkin, https://finwiki.zksc.io/cooperative-banks/shinkin-central
+- Summary: This entry sits under cooperative-banks index. Read it against 京都中央信用金庫 for peer / contrast context within the Kansai shinkin block, Japan shinkin bank registry for the system landscape, 信金中央金庫 for the cooperative central institution above it, and the FSA for the supervisory / licensing boundary ove
+- Headings: 大阪信用金庫, Wiki route, TL;DR, 1. License / group boundary, 2. Institution-type business model, 3. System & regulatory positioning, 4. Why this page matters, Related
+- First resolved wikilinks: https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/cooperative-banking-japan, https://finwiki.zksc.io/banking/shinkin-bank-registry-japan, https://finwiki.zksc.io/cooperative-banks/INDEX, https://finwiki.zksc.io/cooperative-banks/kawasaki-shinkin, https://finwiki.zksc.io/cooperative-banks/kyoto-chuo-shinkin, https://finwiki.zksc.io/cooperative-banks/norinchukin, https://finwiki.zksc.io/cooperative-banks/osaka-shogin-shinkumi, https://finwiki.zksc.io/cooperative-banks/shinkin-central, https://finwiki.zksc.io/financial-regulators/dic, https://finwiki.zksc.io/financial-regulators/fsa
 
 ### 大阪商銀信用組合 (Osaka Shogin Credit Cooperative)
 - URL: https://finwiki.zksc.io/cooperative-banks/osaka-shogin-shinkumi
@@ -2012,9 +2012,9 @@ Public pages listed: 1560
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/cooperative-banks/tama-shinkin.md
 - Domain: cooperative-banks
 - Type: wiki_entry
-- Summary: This entry sits under JapanFG index. Read it against 城南信用金庫 for peer / contrast context (multi-ku Tokyo 23 vs Tama region) inside the Tokyo shinkin block and Japan shinkin bank registry for the broader system / regulatory boundary maintained by 信金中央金庫.
-- Headings: 多摩信用金庫, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/cooperative-banking-japan, https://finwiki.zksc.io/banking/shinkin-bank-registry-japan, https://finwiki.zksc.io/cooperative-banks/asahi-shinkin, https://finwiki.zksc.io/cooperative-banks/johoku-shinkin, https://finwiki.zksc.io/cooperative-banks/jonan-shinkin, https://finwiki.zksc.io/cooperative-banks/shinkin-central
+- Summary: This entry sits under cooperative-banks index. Read it against 城南信用金庫 for peer / contrast context (multi-ku Tokyo 23 vs Tama region) inside the Tokyo shinkin block, Japan shinkin bank registry for the system landscape, 信金中央金庫 for the cooperative central institution above it, and the FSA for the supe
+- Headings: 多摩信用金庫, Wiki route, TL;DR, 1. License / group boundary, 2. Institution-type business model, 3. System & regulatory positioning, 4. Why this page matters, Related
+- First resolved wikilinks: https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/cooperative-banking-japan, https://finwiki.zksc.io/banking/shinkin-bank-registry-japan, https://finwiki.zksc.io/cooperative-banks/INDEX, https://finwiki.zksc.io/cooperative-banks/asahi-shinkin, https://finwiki.zksc.io/cooperative-banks/johoku-shinkin, https://finwiki.zksc.io/cooperative-banks/jonan-shinkin, https://finwiki.zksc.io/cooperative-banks/norinchukin, https://finwiki.zksc.io/cooperative-banks/shinkin-central, https://finwiki.zksc.io/financial-regulators/dic, https://finwiki.zksc.io/financial-regulators/fsa
 
 ### 東京消防信用組合 (Tokyo Fire Department Credit Cooperative)
 - URL: https://finwiki.zksc.io/cooperative-banks/tokyo-shobo-shinkumi
@@ -2052,9 +2052,9 @@ Public pages listed: 1560
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/cooperative-banks/yokohama-shinkin.md
 - Domain: cooperative-banks
 - Type: wiki_entry
-- Summary: This entry sits under JapanFG index. Read it against 川崎信用金庫 for peer / contrast context inside the Kanagawa shinkin block and Japan shinkin bank registry for the broader system / regulatory boundary maintained by 信金中央金庫.
-- Headings: 横浜信用金庫, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/cooperative-banking-japan, https://finwiki.zksc.io/banking/shinkin-bank-registry-japan, https://finwiki.zksc.io/cooperative-banks/kawasaki-shinkin, https://finwiki.zksc.io/cooperative-banks/shinkin-central, https://finwiki.zksc.io/regional-banks/yokohama-bank
+- Summary: This entry sits under cooperative-banks index. Read it against 川崎信用金庫 for peer / contrast context inside the Kanagawa shinkin block, Japan shinkin bank registry for the system landscape, 信金中央金庫 for the cooperative central institution above it, and the FSA for the supervisory / licensing boundary ove
+- Headings: 横浜信用金庫, Wiki route, TL;DR, 1. License / group boundary, 2. Institution-type business model, 3. System & regulatory positioning, 4. Why this page matters, Related
+- First resolved wikilinks: https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/cooperative-banking-japan, https://finwiki.zksc.io/banking/shinkin-bank-registry-japan, https://finwiki.zksc.io/cooperative-banks/INDEX, https://finwiki.zksc.io/cooperative-banks/kawasaki-shinkin, https://finwiki.zksc.io/cooperative-banks/norinchukin, https://finwiki.zksc.io/cooperative-banks/shinkin-central, https://finwiki.zksc.io/financial-regulators/dic, https://finwiki.zksc.io/financial-regulators/fsa, https://finwiki.zksc.io/regional-banks/yokohama-bank
 
 ### 全国信用協同組合連合会 (全信組連)
 - URL: https://finwiki.zksc.io/cooperative-banks/zenshin-kumi
@@ -11147,9 +11147,9 @@ Public pages listed: 1560
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/regional-banks/awa-bank.md
 - Domain: regional-banks
 - Type: wiki_entry
-- Summary: This entry sits under JapanFG index. Read it against 伊予銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.
-- Headings: 阿波銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/hyakujushi-bank, https://finwiki.zksc.io/iyo-bank, https://finwiki.zksc.io/regional-banks/iyo-bank, https://finwiki.zksc.io/shikoku-bank, https://finwiki.zksc.io/tokushima-taisho-bank, https://finwiki.zksc.io/tomony-hd
+- Summary: This entry sits under regional-banks INDEX (its domain route). Read it against 徳島大正銀行 for the same-prefecture peer / contrast, and against the FSA plus banking for the supervisory / system boundary.
+- Headings: 阿波銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Regulatory & system positioning, 4. Why this page matters, Related
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/financial-regulators/fsa, https://finwiki.zksc.io/financial-regulators/zenginkyo, https://finwiki.zksc.io/hyakujushi-bank, https://finwiki.zksc.io/iyo-bank, https://finwiki.zksc.io/regional-banks/INDEX, https://finwiki.zksc.io/regional-banks/hyakujushi-bank, https://finwiki.zksc.io/regional-banks/iyo-bank, https://finwiki.zksc.io/regional-banks/shikoku-bank, https://finwiki.zksc.io/regional-banks/tokushima-taisho-bank
 
 ### 千葉銀行 (Chiba Bank)
 - URL: https://finwiki.zksc.io/regional-banks/chiba-bank
@@ -11237,9 +11237,9 @@ Public pages listed: 1560
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/regional-banks/daishi-hokuetsu-bank.md
 - Domain: regional-banks
 - Type: wiki_entry
-- Summary: This entry sits under JapanFG index. Read it against 八十二長野銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.
-- Headings: 第四北越銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/dai-shi-hokuetsu-fg, https://finwiki.zksc.io/hokuhoku-fg, https://finwiki.zksc.io/regional-banks/hachijuni-nagano-bank, https://finwiki.zksc.io/taiko-bank
+- Summary: This entry sits under regional-banks INDEX (its domain route). Read it against 八十二長野銀行 for the neighbouring-prefecture peer / contrast, and against the FSA plus banking for the supervisory / system boundary. Group context lives in the parent 第四北越フィナンシャルグループ page.
+- Headings: 第四北越銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Regulatory & system positioning, 4. Why this page matters, Related
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/dai-shi-hokuetsu-fg, https://finwiki.zksc.io/financial-regulators/fsa, https://finwiki.zksc.io/financial-regulators/zenginkyo, https://finwiki.zksc.io/hokuhoku-fg, https://finwiki.zksc.io/regional-banks/INDEX, https://finwiki.zksc.io/regional-banks/dai-shi-hokuetsu-fg, https://finwiki.zksc.io/regional-banks/hachijuni-nagano-bank, https://finwiki.zksc.io/taiko-bank
 
 ### 大東銀行
 - URL: https://finwiki.zksc.io/regional-banks/daito-bank
@@ -11247,9 +11247,9 @@ Public pages listed: 1560
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/regional-banks/daito-bank.md
 - Domain: regional-banks
 - Type: wiki_entry
-- Summary: This entry sits under JapanFG index. Read it against 福島銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.
-- Headings: 大東銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/fukushima-bank, https://finwiki.zksc.io/regional-banks/fukushima-bank, https://finwiki.zksc.io/sbi-regional-bank-hd, https://finwiki.zksc.io/toho-bank
+- Summary: This entry sits under regional-banks INDEX (its domain route). Read it against 福島銀行 for the same-prefecture second-regional peer / contrast, and against the FSA plus banking for the supervisory / system boundary. 福島県の第一地銀 anchor は 東邦銀行。
+- Headings: 大東銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Regulatory & system positioning, 4. Why this page matters, Related
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/financial-regulators/fsa, https://finwiki.zksc.io/financial-regulators/zenginkyo, https://finwiki.zksc.io/fukushima-bank, https://finwiki.zksc.io/megabanks/sbi-regional-bank-hd, https://finwiki.zksc.io/regional-banks/INDEX, https://finwiki.zksc.io/regional-banks/fukushima-bank, https://finwiki.zksc.io/regional-banks/toho-bank, https://finwiki.zksc.io/toho-bank
 
 ### 大和ネクスト銀行 (Daiwa Next Bank)
 - URL: https://finwiki.zksc.io/regional-banks/daiwa-next-bank
@@ -11257,9 +11257,9 @@ Public pages listed: 1560
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/regional-banks/daiwa-next-bank.md
 - Domain: regional-banks
 - Type: wiki_entry
-- Summary: This entry sits under JapanFG index. Read it against ソニー銀行 (Sony Bank) for peer / contrast context and banking index for the broader system / regulatory boundary.
-- Headings: 大和ネクスト銀行 (Daiwa Next Bank), Wiki route, TL;DR, 1. 法人・ライセンス境界, 2. Business role, 3. Why standalone page matters, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/post-megabank-positioning, https://finwiki.zksc.io/regional-banks/sony-bank, https://finwiki.zksc.io/securities-firms/daiwa-sg, https://finwiki.zksc.io/securities/INDEX, https://finwiki.zksc.io/trust-banks/orix-bank
+- Summary: This entry sits under regional-banks INDEX (its domain route — listed there in the digital / net / retail-platform banks group). Read it against ソニー銀行 (Sony Bank) for the net-bank peer / contrast, and against the FSA plus banking for the supervisory / system boundary. Parent group context lives in 大
+- Headings: 大和ネクスト銀行 (Daiwa Next Bank), Wiki route, TL;DR, 1. 法人・ライセンス境界, 2. Business role, 3. Regulatory & system positioning, 4. Why standalone page matters, Related
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/post-megabank-positioning, https://finwiki.zksc.io/financial-regulators/fsa, https://finwiki.zksc.io/financial-regulators/zenginkyo, https://finwiki.zksc.io/regional-banks/INDEX, https://finwiki.zksc.io/regional-banks/sony-bank, https://finwiki.zksc.io/securities-firms/daiwa-sg, https://finwiki.zksc.io/trust-banks/orix-bank
 
 ### 愛媛銀行
 - URL: https://finwiki.zksc.io/regional-banks/ehime-bank
@@ -11267,9 +11267,9 @@ Public pages listed: 1560
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/regional-banks/ehime-bank.md
 - Domain: regional-banks
 - Type: wiki_entry
-- Summary: This entry sits under JapanFG index. Read it against 伊予銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.
-- Headings: 愛媛銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/awa-bank, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/hyakujushi-bank, https://finwiki.zksc.io/iyo-bank, https://finwiki.zksc.io/iyogin-hd, https://finwiki.zksc.io/regional-banks/iyo-bank, https://finwiki.zksc.io/shikoku-bank
+- Summary: This entry sits under regional-banks INDEX (its domain route). Read it against 伊予銀行 for the same-prefecture first/second-regional peer / contrast, and against the FSA plus banking for the supervisory / system boundary.
+- Headings: 愛媛銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Regulatory & system positioning, 4. Why this page matters, Related
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/awa-bank, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/financial-regulators/fsa, https://finwiki.zksc.io/financial-regulators/zenginkyo, https://finwiki.zksc.io/hyakujushi-bank, https://finwiki.zksc.io/iyo-bank, https://finwiki.zksc.io/iyogin-hd, https://finwiki.zksc.io/regional-banks/INDEX, https://finwiki.zksc.io/regional-banks/iyo-bank, https://finwiki.zksc.io/regional-banks/iyogin-hd
 
 ### フィデア HD (Fidea Holdings)
 - URL: https://finwiki.zksc.io/regional-banks/fidea-hd
@@ -11287,9 +11287,9 @@ Public pages listed: 1560
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/regional-banks/fukui-bank.md
 - Domain: regional-banks
 - Type: wiki_entry
-- Summary: This entry sits under JapanFG index. Read it with banking index for adjacent context and JapanFG index for the broader system boundary.
-- Headings: 福井銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/daishi-hokuetsu-bank, https://finwiki.zksc.io/financial-licenses/INDEX, https://finwiki.zksc.io/hokkoku-fhd, https://finwiki.zksc.io/hokuhoku-fg, https://finwiki.zksc.io/tokai-tokyo-fh
+- Summary: This entry sits under regional-banks INDEX (its domain route). Read it against 北陸銀行 for the neighbouring-Hokuriku peer / contrast, and against the FSA plus banking for the supervisory / system boundary. License-type context lives in financial licenses.
+- Headings: 福井銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Regulatory & system positioning, 4. Why this page matters, Related
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/daishi-hokuetsu-bank, https://finwiki.zksc.io/financial-licenses/INDEX, https://finwiki.zksc.io/financial-regulators/fsa, https://finwiki.zksc.io/financial-regulators/zenginkyo, https://finwiki.zksc.io/hokkoku-fhd, https://finwiki.zksc.io/hokuhoku-fg, https://finwiki.zksc.io/regional-banks/INDEX, https://finwiki.zksc.io/regional-banks/hokkoku-fhd, https://finwiki.zksc.io/regional-banks/hokuhoku-fg
 
 ### 福岡銀行
 - URL: https://finwiki.zksc.io/regional-banks/fukuoka-bank
@@ -11297,9 +11297,9 @@ Public pages listed: 1560
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/regional-banks/fukuoka-bank.md
 - Domain: regional-banks
 - Type: wiki_entry
-- Summary: This entry sits under JapanFG index. Read it against 西日本シティ銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.
-- Headings: 福岡銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/18-shinwa-bank, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/chikuho-bank, https://finwiki.zksc.io/fukuoka-fg, https://finwiki.zksc.io/kitakyushu-bank, https://finwiki.zksc.io/nishi-nippon-city-bank, https://finwiki.zksc.io/regional-banks/nishi-nippon-city-bank
+- Summary: This entry sits under regional-banks INDEX (its domain route). Read it against 西日本シティ銀行 for the same-prefecture peer / contrast, and against the FSA plus banking for the supervisory / system boundary. Group context lives in the parent ふくおかフィナンシャルグループ page.
+- Headings: 福岡銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Regulatory & system positioning, 4. Why this page matters, Related
+- First resolved wikilinks: https://finwiki.zksc.io/18-shinwa-bank, https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/chikuho-bank, https://finwiki.zksc.io/financial-regulators/fsa, https://finwiki.zksc.io/financial-regulators/zenginkyo, https://finwiki.zksc.io/fukuoka-fg, https://finwiki.zksc.io/kitakyushu-bank, https://finwiki.zksc.io/nishi-nippon-city-bank, https://finwiki.zksc.io/regional-banks/INDEX, https://finwiki.zksc.io/regional-banks/fukuoka-fg
 
 ### 福岡中央銀行
 - URL: https://finwiki.zksc.io/regional-banks/fukuoka-chuo-bank
@@ -11327,9 +11327,9 @@ Public pages listed: 1560
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/regional-banks/fukushima-bank.md
 - Domain: regional-banks
 - Type: wiki_entry
-- Summary: This entry sits under JapanFG index. Read it against 仙台銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.
-- Headings: 福島銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/daito-bank, https://finwiki.zksc.io/regional-banks/sendai-bank, https://finwiki.zksc.io/sbi-regional-bank-hd, https://finwiki.zksc.io/toho-bank
+- Summary: This entry sits under regional-banks INDEX (its domain route). Read it against 大東銀行 for the same-prefecture second-regional peer / contrast, and against the FSA plus banking for the supervisory / system boundary. 福島県の第一地銀 anchor は 東邦銀行。
+- Headings: 福島銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Regulatory & system positioning, 4. Why this page matters, Related
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/daito-bank, https://finwiki.zksc.io/financial-regulators/fsa, https://finwiki.zksc.io/financial-regulators/zenginkyo, https://finwiki.zksc.io/megabanks/sbi-regional-bank-hd, https://finwiki.zksc.io/regional-banks/INDEX, https://finwiki.zksc.io/regional-banks/daito-bank, https://finwiki.zksc.io/regional-banks/toho-bank, https://finwiki.zksc.io/sbi-regional-bank-hd, https://finwiki.zksc.io/toho-bank
 
 ### 群馬銀行 (The Gunma Bank, Ltd.)
 - URL: https://finwiki.zksc.io/regional-banks/gunma-bank
@@ -11377,9 +11377,9 @@ Public pages listed: 1560
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/regional-banks/higashi-nippon-bank.md
 - Domain: regional-banks
 - Type: wiki_entry
-- Summary: This entry sits under JapanFG index. Read it against 横浜銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.
-- Headings: 東日本銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/concordia-fg, https://finwiki.zksc.io/regional-banks/yokohama-bank, https://finwiki.zksc.io/tokyo-star-bank, https://finwiki.zksc.io/yokohama-bank
+- Summary: This entry sits under regional-banks INDEX (its domain route). Read it against 横浜銀行 for the same-group peer / contrast (the FG's other operating bank), and against the FSA plus banking for the supervisory / system boundary. Group context lives in the parent コンコルディア・フィナンシャルグループ page.
+- Headings: 東日本銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Regulatory & system positioning, 4. Why this page matters, Related
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/concordia-fg, https://finwiki.zksc.io/financial-regulators/fsa, https://finwiki.zksc.io/financial-regulators/zenginkyo, https://finwiki.zksc.io/regional-banks/INDEX, https://finwiki.zksc.io/regional-banks/concordia-fg, https://finwiki.zksc.io/regional-banks/yokohama-bank, https://finwiki.zksc.io/tokyo-star-bank, https://finwiki.zksc.io/yokohama-bank
 
 ### 肥後銀行
 - URL: https://finwiki.zksc.io/regional-banks/higo-bank
@@ -11407,9 +11407,9 @@ Public pages listed: 1560
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/regional-banks/hiroshima-bank.md
 - Domain: regional-banks
 - Type: wiki_entry
-- Summary: This entry sits under JapanFG index. Read it against 中国銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.
-- Headings: 広島銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/chugoku-bank, https://finwiki.zksc.io/hirogin-hd, https://finwiki.zksc.io/momiji-bank, https://finwiki.zksc.io/regional-banks/chugoku-bank, https://finwiki.zksc.io/yamaguchi-fg
+- Summary: This entry sits under regional-banks INDEX (its domain route). Read it against 中国銀行 for the neighbouring-prefecture peer / contrast, and against the FSA plus banking for the supervisory / system boundary. Group context lives in the parent ひろぎんホールディングス page.
+- Headings: 広島銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Regulatory & system positioning, 4. Why this page matters, Related
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/chugoku-bank, https://finwiki.zksc.io/financial-regulators/fsa, https://finwiki.zksc.io/financial-regulators/zenginkyo, https://finwiki.zksc.io/hirogin-hd, https://finwiki.zksc.io/momiji-bank, https://finwiki.zksc.io/regional-banks/INDEX, https://finwiki.zksc.io/regional-banks/chugoku-bank, https://finwiki.zksc.io/regional-banks/hirogin-hd, https://finwiki.zksc.io/yamaguchi-fg
 
 ### 北海道銀行
 - URL: https://finwiki.zksc.io/regional-banks/hokkaido-bank
@@ -11417,9 +11417,9 @@ Public pages listed: 1560
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/regional-banks/hokkaido-bank.md
 - Domain: regional-banks
 - Type: wiki_entry
-- Summary: This entry sits under JapanFG index. Read it against 北陸銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.
-- Headings: 北海道銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/hokuhoku-fg, https://finwiki.zksc.io/hokuriku-bank, https://finwiki.zksc.io/hokuyo-bank, https://finwiki.zksc.io/regional-banks/hokuriku-bank
+- Summary: This entry sits under regional-banks INDEX (its domain route). Read it against 北陸銀行 for the sibling-FG peer / contrast (the other Hokuhoku banking wing), and against the FSA plus banking for the supervisory / system boundary. Group context lives in the parent ほくほくフィナンシャルグループ page.
+- Headings: 北海道銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Regulatory & system positioning, 4. Why this page matters, Related
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/financial-regulators/fsa, https://finwiki.zksc.io/financial-regulators/zenginkyo, https://finwiki.zksc.io/hokuhoku-fg, https://finwiki.zksc.io/hokuriku-bank, https://finwiki.zksc.io/hokuyo-bank, https://finwiki.zksc.io/regional-banks/INDEX, https://finwiki.zksc.io/regional-banks/hokuhoku-fg, https://finwiki.zksc.io/regional-banks/hokuriku-bank
 
 ### 北國銀行
 - URL: https://finwiki.zksc.io/regional-banks/hokkoku-bank
@@ -11427,9 +11427,9 @@ Public pages listed: 1560
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/regional-banks/hokkoku-bank.md
 - Domain: regional-banks
 - Type: wiki_entry
-- Summary: This entry sits under JapanFG index. Read it against 福岡銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.
-- Headings: 北國銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/hokkoku-fhd, https://finwiki.zksc.io/hokuriku-bank, https://finwiki.zksc.io/regional-banks/fukuoka-bank, https://finwiki.zksc.io/toyama-bank, https://finwiki.zksc.io/toyama-first-bank
+- Summary: This entry sits under regional-banks INDEX (its domain route). Read it against 北陸銀行 for the same-region peer / contrast, and against the FSA plus banking for the supervisory / system boundary. Group context lives in the parent 北國フィナンシャルホールディングス page.
+- Headings: 北國銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Regulatory & system positioning, 4. Why this page matters, Related
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/financial-regulators/fsa, https://finwiki.zksc.io/financial-regulators/zenginkyo, https://finwiki.zksc.io/hokkoku-fhd, https://finwiki.zksc.io/hokuriku-bank, https://finwiki.zksc.io/regional-banks/INDEX, https://finwiki.zksc.io/regional-banks/hokkoku-fhd, https://finwiki.zksc.io/regional-banks/hokuriku-bank, https://finwiki.zksc.io/toyama-bank, https://finwiki.zksc.io/toyama-first-bank
 
 ### 北國 FHD (Hokkoku FHD)
 - URL: https://finwiki.zksc.io/regional-banks/hokkoku-fhd
@@ -11457,9 +11457,9 @@ Public pages listed: 1560
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/regional-banks/hokuriku-bank.md
 - Domain: regional-banks
 - Type: wiki_entry
-- Summary: This entry sits under JapanFG index. Read it against 北海道銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.
-- Headings: 北陸銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/hokkaido-bank, https://finwiki.zksc.io/hokkoku-bank, https://finwiki.zksc.io/hokuhoku-fg, https://finwiki.zksc.io/regional-banks/hokkaido-bank, https://finwiki.zksc.io/toyama-bank, https://finwiki.zksc.io/toyama-first-bank
+- Summary: This entry sits under regional-banks INDEX (its domain route). Read it against 北海道銀行 for the sibling-FG peer / contrast (the other Hokuhoku banking wing), and against the FSA plus banking for the supervisory / system boundary. Group context lives in the parent ほくほくフィナンシャルグループ page.
+- Headings: 北陸銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Regulatory & system positioning, 4. Why this page matters, Related
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/financial-regulators/fsa, https://finwiki.zksc.io/financial-regulators/zenginkyo, https://finwiki.zksc.io/hokkaido-bank, https://finwiki.zksc.io/hokkoku-bank, https://finwiki.zksc.io/hokuhoku-fg, https://finwiki.zksc.io/regional-banks/INDEX, https://finwiki.zksc.io/regional-banks/hokkaido-bank, https://finwiki.zksc.io/regional-banks/hokuhoku-fg, https://finwiki.zksc.io/toyama-bank
 
 ### 北都銀行
 - URL: https://finwiki.zksc.io/regional-banks/hokuto-bank
@@ -11467,9 +11467,9 @@ Public pages listed: 1560
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/regional-banks/hokuto-bank.md
 - Domain: regional-banks
 - Type: wiki_entry
-- Summary: This entry sits under JapanFG index. Read it against 荘内銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.
-- Headings: 北都銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/akita-bank, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/fidea-hd, https://finwiki.zksc.io/regional-banks/shonai-bank, https://finwiki.zksc.io/shonai-bank
+- Summary: This entry sits under regional-banks INDEX (its domain route). Read it against 荘内銀行 for the same-group merger counterparty, and against the FSA plus banking for the supervisory / system boundary. Group context lives in the parent フィデアホールディングス page.
+- Headings: 北都銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Regulatory & system positioning, 4. Why this page matters, Related
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/akita-bank, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/fidea-hd, https://finwiki.zksc.io/financial-regulators/fsa, https://finwiki.zksc.io/financial-regulators/zenginkyo, https://finwiki.zksc.io/regional-banks/INDEX, https://finwiki.zksc.io/regional-banks/akita-bank, https://finwiki.zksc.io/regional-banks/fidea-hd, https://finwiki.zksc.io/regional-banks/shonai-bank, https://finwiki.zksc.io/shonai-bank
 
 ### 北洋銀行
 - URL: https://finwiki.zksc.io/regional-banks/hokuyo-bank
@@ -11487,9 +11487,9 @@ Public pages listed: 1560
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/regional-banks/howa-bank.md
 - Domain: regional-banks
 - Type: wiki_entry
-- Summary: This entry sits under JapanFG index. Read it with banking index for adjacent context and JapanFG index for the broader system boundary.
-- Headings: 豊和銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/financial-licenses/INDEX, https://finwiki.zksc.io/fukuoka-fg, https://finwiki.zksc.io/nishi-nippon-fhd, https://finwiki.zksc.io/oita-bank
+- Summary: This entry sits under regional-banks INDEX (its domain route). Read it against 大分銀行 for the same-prefecture first/second-regional peer / contrast, and against the FSA plus banking for the supervisory / system boundary. License-type context lives in financial licenses.
+- Headings: 豊和銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Regulatory & system positioning, 4. Why this page matters, Related
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/financial-licenses/INDEX, https://finwiki.zksc.io/financial-regulators/fsa, https://finwiki.zksc.io/financial-regulators/zenginkyo, https://finwiki.zksc.io/fukuoka-fg, https://finwiki.zksc.io/nishi-nippon-fhd, https://finwiki.zksc.io/oita-bank, https://finwiki.zksc.io/regional-banks/INDEX, https://finwiki.zksc.io/regional-banks/oita-bank
 
 ### 百五銀行 (Hyakugo Bank)
 - URL: https://finwiki.zksc.io/regional-banks/hyakugo-bank
@@ -11547,9 +11547,9 @@ Public pages listed: 1560
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/regional-banks/iyo-bank.md
 - Domain: regional-banks
 - Type: wiki_entry
-- Summary: This entry sits under JapanFG index. Read it against 阿波銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.
-- Headings: 伊予銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/awa-bank, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/ehime-bank, https://finwiki.zksc.io/hyakujushi-bank, https://finwiki.zksc.io/iyogin-hd, https://finwiki.zksc.io/regional-banks/awa-bank, https://finwiki.zksc.io/shikoku-bank
+- Summary: This entry sits under regional-banks INDEX (its domain route). Read it against 愛媛銀行 for the same-prefecture first/second-regional peer / contrast, and against the FSA plus banking for the supervisory / system boundary. Group context lives in the parent いよぎんホールディングス page.
+- Headings: 伊予銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Regulatory & system positioning, 4. Why this page matters, Related
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/awa-bank, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/ehime-bank, https://finwiki.zksc.io/financial-regulators/fsa, https://finwiki.zksc.io/financial-regulators/zenginkyo, https://finwiki.zksc.io/hyakujushi-bank, https://finwiki.zksc.io/iyogin-hd, https://finwiki.zksc.io/regional-banks/INDEX, https://finwiki.zksc.io/regional-banks/ehime-bank, https://finwiki.zksc.io/regional-banks/iyogin-hd
 
 ### いよぎん HD (Iyogin Holdings)
 - URL: https://finwiki.zksc.io/regional-banks/iyogin-hd
@@ -11598,9 +11598,9 @@ Public pages listed: 1560
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/regional-banks/juroku-bank.md
 - Domain: regional-banks
 - Type: wiki_entry
-- Summary: This entry sits under JapanFG index. Read it against 八十二長野銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.
-- Headings: 十六銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/aichi-bank, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/juroku-fg, https://finwiki.zksc.io/nagoya-bank, https://finwiki.zksc.io/ogaki-kyoritsu-bank, https://finwiki.zksc.io/regional-banks/hachijuni-nagano-bank
+- Summary: This entry sits under regional-banks INDEX (its domain route). Read it against 名古屋銀行 for the same Chukyo-area peer / contrast, and against the FSA plus banking for the supervisory / system boundary.
+- Headings: 十六銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Regulatory & system positioning, 4. Why this page matters, Related
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/aichi-bank, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/financial-regulators/fsa, https://finwiki.zksc.io/financial-regulators/zenginkyo, https://finwiki.zksc.io/juroku-fg, https://finwiki.zksc.io/nagoya-bank, https://finwiki.zksc.io/ogaki-kyoritsu-bank, https://finwiki.zksc.io/regional-banks/INDEX, https://finwiki.zksc.io/regional-banks/aichi-bank, https://finwiki.zksc.io/regional-banks/juroku-fg
 
 ### 十六 FG (Juroku Financial Group)
 - URL: https://finwiki.zksc.io/regional-banks/juroku-fg
@@ -11618,9 +11618,9 @@ Public pages listed: 1560
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/regional-banks/kagawa-bank.md
 - Domain: regional-banks
 - Type: wiki_entry
-- Summary: This entry sits under JapanFG index. Read it against 徳島大正銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.
-- Headings: 香川銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/awa-bank, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/hyakujushi-bank, https://finwiki.zksc.io/regional-banks/tokushima-taisho-bank, https://finwiki.zksc.io/tokushima-taisho-bank, https://finwiki.zksc.io/tomony-hd
+- Summary: This entry sits under regional-banks INDEX (its domain route). Read it against 百十四銀行 for the same-prefecture peer / contrast (first vs second regional bank), and against the FSA plus banking for the supervisory / system boundary.
+- Headings: 香川銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Regulatory & system positioning, 4. Why this page matters, Related
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/awa-bank, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/financial-regulators/fsa, https://finwiki.zksc.io/financial-regulators/zenginkyo, https://finwiki.zksc.io/hyakujushi-bank, https://finwiki.zksc.io/regional-banks/INDEX, https://finwiki.zksc.io/regional-banks/awa-bank, https://finwiki.zksc.io/regional-banks/hyakujushi-bank, https://finwiki.zksc.io/regional-banks/iyo-bank, https://finwiki.zksc.io/regional-banks/tokushima-taisho-bank
 
 ### 鹿児島銀行
 - URL: https://finwiki.zksc.io/regional-banks/kagoshima-bank
@@ -11638,9 +11638,9 @@ Public pages listed: 1560
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/regional-banks/kanagawa-bank.md
 - Domain: regional-banks
 - Type: wiki_entry
-- Summary: This entry sits under JapanFG index. Read it against 東京スター銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.
-- Headings: 神奈川銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/concordia-fg, https://finwiki.zksc.io/regional-banks/tokyo-star-bank, https://finwiki.zksc.io/yokohama-bank
+- Summary: This entry sits under regional-banks INDEX (its domain route). Read it against 横浜銀行 for the same-prefecture peer / contrast (first vs second regional bank), and against the FSA plus banking for the supervisory / system boundary.
+- Headings: 神奈川銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Regulatory & system positioning, 4. Why this page matters, Related
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/concordia-fg, https://finwiki.zksc.io/financial-regulators/fsa, https://finwiki.zksc.io/financial-regulators/zenginkyo, https://finwiki.zksc.io/regional-banks/INDEX, https://finwiki.zksc.io/regional-banks/concordia-fg, https://finwiki.zksc.io/regional-banks/yokohama-bank, https://finwiki.zksc.io/yokohama-bank
 
 ### 関西みらい銀行
 - URL: https://finwiki.zksc.io/regional-banks/kansai-mirai-bank
@@ -11648,9 +11648,9 @@ Public pages listed: 1560
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/regional-banks/kansai-mirai-bank.md
 - Domain: regional-banks
 - Type: wiki_entry
-- Summary: This entry sits under JapanFG index. Read it against 池田泉州銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.
-- Headings: 関西みらい銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/ikeda-senshu-bank, https://finwiki.zksc.io/kyoto-bank, https://finwiki.zksc.io/minato-bank, https://finwiki.zksc.io/regional-banks/ikeda-senshu-bank, https://finwiki.zksc.io/resona-bank, https://finwiki.zksc.io/resona-hd, https://finwiki.zksc.io/saitama-resona-bank
+- Summary: This entry sits under regional-banks INDEX (its domain route). Read it against 池田泉州銀行 for the same Osaka / Kansai peer / contrast, and against the FSA plus banking for the supervisory / system boundary.
+- Headings: 関西みらい銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Regulatory & system positioning, 4. Why this page matters, Related
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/financial-regulators/fsa, https://finwiki.zksc.io/financial-regulators/zenginkyo, https://finwiki.zksc.io/ikeda-senshu-bank, https://finwiki.zksc.io/kyoto-bank, https://finwiki.zksc.io/minato-bank, https://finwiki.zksc.io/regional-banks/INDEX, https://finwiki.zksc.io/regional-banks/ikeda-senshu-bank, https://finwiki.zksc.io/regional-banks/kyoto-bank, https://finwiki.zksc.io/regional-banks/minato-bank
 
 ### 株式会社京葉銀行
 - URL: https://finwiki.zksc.io/regional-banks/keiyo-bank
@@ -11698,9 +11698,9 @@ Public pages listed: 1560
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/regional-banks/kita-nippon-bank.md
 - Domain: regional-banks
 - Type: wiki_entry
-- Summary: This entry sits under JapanFG index. Read it against 福島銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.
-- Headings: 北日本銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/iwate-bank, https://finwiki.zksc.io/regional-banks/fukushima-bank, https://finwiki.zksc.io/tohoku-bank
+- Summary: This entry sits under regional-banks INDEX (its domain route). Read it against 岩手銀行 for the same-prefecture peer / contrast (first vs second regional bank), and against the FSA plus banking for the supervisory / system boundary.
+- Headings: 北日本銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Regulatory & system positioning, 4. Why this page matters, Related
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/financial-regulators/fsa, https://finwiki.zksc.io/financial-regulators/zenginkyo, https://finwiki.zksc.io/iwate-bank, https://finwiki.zksc.io/regional-banks/INDEX, https://finwiki.zksc.io/regional-banks/iwate-bank, https://finwiki.zksc.io/regional-banks/tohoku-bank, https://finwiki.zksc.io/tohoku-bank
 
 ### 北九州銀行
 - URL: https://finwiki.zksc.io/regional-banks/kitakyushu-bank
@@ -11708,9 +11708,9 @@ Public pages listed: 1560
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/regional-banks/kitakyushu-bank.md
 - Domain: regional-banks
 - Type: wiki_entry
-- Summary: This entry sits under JapanFG index. Read it against 福岡銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.
-- Headings: 北九州銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/fukuoka-bank, https://finwiki.zksc.io/momiji-bank, https://finwiki.zksc.io/nishi-nippon-city-bank, https://finwiki.zksc.io/regional-banks/fukuoka-bank, https://finwiki.zksc.io/yamaguchi-fg
+- Summary: This entry sits under regional-banks INDEX (its domain route). Read it against 福岡銀行 for the same-prefecture peer / contrast, and against the FSA plus banking for the supervisory / system boundary.
+- Headings: 北九州銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Regulatory & system positioning, 4. Why this page matters, Related
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/financial-regulators/fsa, https://finwiki.zksc.io/financial-regulators/zenginkyo, https://finwiki.zksc.io/fukuoka-bank, https://finwiki.zksc.io/momiji-bank, https://finwiki.zksc.io/nishi-nippon-city-bank, https://finwiki.zksc.io/regional-banks/INDEX, https://finwiki.zksc.io/regional-banks/fukuoka-bank, https://finwiki.zksc.io/regional-banks/momiji-bank, https://finwiki.zksc.io/regional-banks/nishi-nippon-city-bank
 
 ### 株式会社紀陽銀行 (The Kiyo Bank)
 - URL: https://finwiki.zksc.io/regional-banks/kiyo-bank
@@ -11728,9 +11728,9 @@ Public pages listed: 1560
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/regional-banks/kochi-bank.md
 - Domain: regional-banks
 - Type: wiki_entry
-- Summary: This entry sits under JapanFG index. Read it against 徳島大正銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.
-- Headings: 高知銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/awa-bank, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/ehime-bank, https://finwiki.zksc.io/hyakujushi-bank, https://finwiki.zksc.io/iyo-bank, https://finwiki.zksc.io/regional-banks/tokushima-taisho-bank, https://finwiki.zksc.io/shikoku-bank
+- Summary: This entry sits under regional-banks INDEX (its domain route). Read it against 四国銀行 for the same-prefecture peer / contrast (first vs second regional bank), and against the FSA plus banking for the supervisory / system boundary.
+- Headings: 高知銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Regulatory & system positioning, 4. Why this page matters, Related
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/awa-bank, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/ehime-bank, https://finwiki.zksc.io/financial-regulators/fsa, https://finwiki.zksc.io/financial-regulators/zenginkyo, https://finwiki.zksc.io/hyakujushi-bank, https://finwiki.zksc.io/iyo-bank, https://finwiki.zksc.io/regional-banks/INDEX, https://finwiki.zksc.io/regional-banks/awa-bank, https://finwiki.zksc.io/regional-banks/ehime-bank
 
 ### 熊本銀行
 - URL: https://finwiki.zksc.io/regional-banks/kumamoto-bank
@@ -11798,9 +11798,9 @@ Public pages listed: 1560
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/regional-banks/minami-nippon-bank.md
 - Domain: regional-banks
 - Type: wiki_entry
-- Summary: This entry sits under JapanFG index. Read it against 鹿児島銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.
-- Headings: 南日本銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/kagoshima-bank, https://finwiki.zksc.io/kyushu-fg, https://finwiki.zksc.io/miyazaki-bank, https://finwiki.zksc.io/regional-banks/kagoshima-bank
+- Summary: This entry sits under regional-banks INDEX (its domain route). Read it against 鹿児島銀行 for the same-prefecture peer / contrast (first vs second regional bank), and against the FSA plus banking for the supervisory / system boundary.
+- Headings: 南日本銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Regulatory & system positioning, 4. Why this page matters, Related
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/financial-regulators/fsa, https://finwiki.zksc.io/financial-regulators/zenginkyo, https://finwiki.zksc.io/kagoshima-bank, https://finwiki.zksc.io/kyushu-fg, https://finwiki.zksc.io/miyazaki-bank, https://finwiki.zksc.io/regional-banks/INDEX, https://finwiki.zksc.io/regional-banks/kagoshima-bank, https://finwiki.zksc.io/regional-banks/kyushu-fg, https://finwiki.zksc.io/regional-banks/miyazaki-bank
 
 ### みなと銀行
 - URL: https://finwiki.zksc.io/regional-banks/minato-bank
@@ -11818,9 +11818,9 @@ Public pages listed: 1560
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/regional-banks/miyazaki-bank.md
 - Domain: regional-banks
 - Type: wiki_entry
-- Summary: This entry sits under JapanFG index. Read it against 福岡銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.
-- Headings: 宮崎銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/higo-bank, https://finwiki.zksc.io/kagoshima-bank, https://finwiki.zksc.io/kyushu-fg, https://finwiki.zksc.io/miyazaki-taiyo-bank, https://finwiki.zksc.io/oita-bank, https://finwiki.zksc.io/regional-banks/fukuoka-bank
+- Summary: This entry sits under regional-banks INDEX (its domain route). Read it against 宮崎太陽銀行 for the same-prefecture peer / contrast (first vs second regional bank), and against the FSA plus banking for the supervisory / system boundary.
+- Headings: 宮崎銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Regulatory & system positioning, 4. Why this page matters, Related
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/financial-regulators/fsa, https://finwiki.zksc.io/financial-regulators/zenginkyo, https://finwiki.zksc.io/higo-bank, https://finwiki.zksc.io/kagoshima-bank, https://finwiki.zksc.io/kyushu-fg, https://finwiki.zksc.io/miyazaki-taiyo-bank, https://finwiki.zksc.io/oita-bank, https://finwiki.zksc.io/regional-banks/INDEX, https://finwiki.zksc.io/regional-banks/higo-bank
 
 ### 宮崎太陽銀行
 - URL: https://finwiki.zksc.io/regional-banks/miyazaki-taiyo-bank
@@ -11828,9 +11828,9 @@ Public pages listed: 1560
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/regional-banks/miyazaki-taiyo-bank.md
 - Domain: regional-banks
 - Type: wiki_entry
-- Summary: This entry sits under JapanFG index. Read it with banking index for adjacent context and JapanFG index for the broader system boundary.
-- Headings: 宮崎太陽銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/financial-licenses/INDEX, https://finwiki.zksc.io/kagoshima-bank, https://finwiki.zksc.io/kyushu-fg, https://finwiki.zksc.io/miyazaki-bank
+- Summary: This entry sits under regional-banks INDEX (its domain route). Read it against 宮崎銀行 for the same-prefecture peer / contrast (second vs first regional bank), and against the FSA plus banking for the supervisory / system boundary.
+- Headings: 宮崎太陽銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Regulatory & system positioning, 4. Why this page matters, Related
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/financial-regulators/fsa, https://finwiki.zksc.io/financial-regulators/zenginkyo, https://finwiki.zksc.io/kagoshima-bank, https://finwiki.zksc.io/kyushu-fg, https://finwiki.zksc.io/minami-nippon-bank, https://finwiki.zksc.io/miyazaki-bank, https://finwiki.zksc.io/regional-banks/INDEX, https://finwiki.zksc.io/regional-banks/minami-nippon-bank, https://finwiki.zksc.io/regional-banks/miyazaki-bank
 
 ### もみじ銀行
 - URL: https://finwiki.zksc.io/regional-banks/momiji-bank
@@ -11838,9 +11838,9 @@ Public pages listed: 1560
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/regional-banks/momiji-bank.md
 - Domain: regional-banks
 - Type: wiki_entry
-- Summary: This entry sits under JapanFG index. Read it against 島根銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.
-- Headings: もみじ銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/chugoku-bank, https://finwiki.zksc.io/hirogin-hd, https://finwiki.zksc.io/hiroshima-bank, https://finwiki.zksc.io/regional-banks/shimane-bank, https://finwiki.zksc.io/yamaguchi-fg
+- Summary: This entry sits under regional-banks INDEX (its domain route). Read it against 広島銀行 for the same-prefecture peer / contrast (first vs second regional bank), and against the FSA plus banking for the supervisory / system boundary.
+- Headings: もみじ銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Regulatory & system positioning, 4. Why this page matters, Related
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/chugoku-bank, https://finwiki.zksc.io/financial-regulators/fsa, https://finwiki.zksc.io/financial-regulators/zenginkyo, https://finwiki.zksc.io/hirogin-hd, https://finwiki.zksc.io/hiroshima-bank, https://finwiki.zksc.io/kitakyushu-bank, https://finwiki.zksc.io/regional-banks/INDEX, https://finwiki.zksc.io/regional-banks/hirogin-hd, https://finwiki.zksc.io/regional-banks/hiroshima-bank
 
 ### 武蔵野銀行 (The Musashino Bank, Ltd.)
 - URL: https://finwiki.zksc.io/regional-banks/musashino-bank
@@ -11858,9 +11858,9 @@ Public pages listed: 1560
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/regional-banks/nagasaki-bank.md
 - Domain: regional-banks
 - Type: wiki_entry
-- Summary: This entry sits under JapanFG index. Read it against 熊本銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.
-- Headings: 長崎銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/18-shinwa-bank, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/fukuoka-fg, https://finwiki.zksc.io/nishi-nippon-city-bank, https://finwiki.zksc.io/nishi-nippon-fhd, https://finwiki.zksc.io/regional-banks/kumamoto-bank
+- Summary: This entry sits under regional-banks INDEX (its domain route). Read it against 西日本シティ銀行 for the same-group peer / contrast, and against the FSA plus banking for the supervisory / system boundary.
+- Headings: 長崎銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Regulatory & system positioning, 4. Why this page matters, Related
+- First resolved wikilinks: https://finwiki.zksc.io/18-shinwa-bank, https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/financial-regulators/fsa, https://finwiki.zksc.io/financial-regulators/zenginkyo, https://finwiki.zksc.io/fukuoka-fg, https://finwiki.zksc.io/nishi-nippon-city-bank, https://finwiki.zksc.io/nishi-nippon-fhd, https://finwiki.zksc.io/regional-banks/18-shinwa-bank, https://finwiki.zksc.io/regional-banks/INDEX, https://finwiki.zksc.io/regional-banks/fukuoka-fg
 
 ### 名古屋銀行
 - URL: https://finwiki.zksc.io/regional-banks/nagoya-bank
@@ -11868,9 +11868,9 @@ Public pages listed: 1560
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/regional-banks/nagoya-bank.md
 - Domain: regional-banks
 - Type: wiki_entry
-- Summary: This entry sits under JapanFG index. Read it against あいち銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.
-- Headings: 名古屋銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/aichi-bank, https://finwiki.zksc.io/aichi-fg, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/juroku-bank, https://finwiki.zksc.io/ogaki-kyoritsu-bank, https://finwiki.zksc.io/regional-banks/aichi-bank
+- Summary: This entry sits under regional-banks INDEX (its domain route). Read it against あいち銀行 for the same Chukyo-area peer / contrast, and against the FSA plus banking for the supervisory / system boundary.
+- Headings: 名古屋銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Regulatory & system positioning, 4. Why this page matters, Related
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/aichi-bank, https://finwiki.zksc.io/aichi-fg, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/financial-regulators/fsa, https://finwiki.zksc.io/financial-regulators/zenginkyo, https://finwiki.zksc.io/juroku-bank, https://finwiki.zksc.io/ogaki-kyoritsu-bank, https://finwiki.zksc.io/regional-banks/INDEX, https://finwiki.zksc.io/regional-banks/aichi-bank, https://finwiki.zksc.io/regional-banks/aichi-fg
 
 ### 株式会社南都銀行 (The Nanto Bank)
 - URL: https://finwiki.zksc.io/regional-banks/nanto-bank
@@ -11888,9 +11888,9 @@ Public pages listed: 1560
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/regional-banks/nishi-nippon-city-bank.md
 - Domain: regional-banks
 - Type: wiki_entry
-- Summary: This entry sits under JapanFG index. Read it against 福岡銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.
-- Headings: 西日本シティ銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/chikuho-bank, https://finwiki.zksc.io/fukuoka-bank, https://finwiki.zksc.io/kitakyushu-bank, https://finwiki.zksc.io/nishi-nippon-fhd, https://finwiki.zksc.io/regional-banks/fukuoka-bank
+- Summary: This entry sits under regional-banks INDEX (its domain route). Read it against 福岡銀行 for the same-prefecture peer / contrast, and against the FSA plus banking for the supervisory / system boundary.
+- Headings: 西日本シティ銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Regulatory & system positioning, 4. Why this page matters, Related
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/chikuho-bank, https://finwiki.zksc.io/financial-regulators/fsa, https://finwiki.zksc.io/financial-regulators/zenginkyo, https://finwiki.zksc.io/fukuoka-bank, https://finwiki.zksc.io/kitakyushu-bank, https://finwiki.zksc.io/nagasaki-bank, https://finwiki.zksc.io/nishi-nippon-fhd, https://finwiki.zksc.io/regional-banks/INDEX, https://finwiki.zksc.io/regional-banks/chikuho-bank
 
 ### 西日本 FHD (Nishi-Nippon FHD)
 - URL: https://finwiki.zksc.io/regional-banks/nishi-nippon-fhd
@@ -11918,9 +11918,9 @@ Public pages listed: 1560
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/regional-banks/oita-bank.md
 - Domain: regional-banks
 - Type: wiki_entry
-- Summary: This entry sits under JapanFG index. Read it against 福岡銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.
-- Headings: 大分銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/fukuoka-bank, https://finwiki.zksc.io/higo-bank, https://finwiki.zksc.io/howa-bank, https://finwiki.zksc.io/miyazaki-bank, https://finwiki.zksc.io/regional-banks/fukuoka-bank, https://finwiki.zksc.io/saga-bank
+- Summary: This entry sits under regional-banks INDEX (its domain route). Read it against 豊和銀行 for the same-prefecture peer / contrast (first vs second regional bank), and against the FSA plus banking for the supervisory / system boundary.
+- Headings: 大分銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Regulatory & system positioning, 4. Why this page matters, Related
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/financial-regulators/fsa, https://finwiki.zksc.io/financial-regulators/zenginkyo, https://finwiki.zksc.io/fukuoka-bank, https://finwiki.zksc.io/higo-bank, https://finwiki.zksc.io/howa-bank, https://finwiki.zksc.io/miyazaki-bank, https://finwiki.zksc.io/regional-banks/INDEX, https://finwiki.zksc.io/regional-banks/fukuoka-bank, https://finwiki.zksc.io/regional-banks/howa-bank
 
 ### 沖縄銀行
 - URL: https://finwiki.zksc.io/regional-banks/okinawa-bank
@@ -11978,9 +11978,9 @@ Public pages listed: 1560
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/regional-banks/saga-bank.md
 - Domain: regional-banks
 - Type: wiki_entry
-- Summary: This entry sits under JapanFG index. Read it against 福岡銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.
-- Headings: 佐賀銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/18-shinwa-bank, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/fukuoka-bank, https://finwiki.zksc.io/nishi-nippon-city-bank, https://finwiki.zksc.io/oita-bank, https://finwiki.zksc.io/regional-banks/fukuoka-bank
+- Summary: This entry sits under regional-banks INDEX (its domain route). Read it against 十八親和銀行 for the adjacent-prefecture peer / contrast, and against the FSA plus banking for the supervisory / system boundary.
+- Headings: 佐賀銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Regulatory & system positioning, 4. Why this page matters, Related
+- First resolved wikilinks: https://finwiki.zksc.io/18-shinwa-bank, https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/financial-regulators/fsa, https://finwiki.zksc.io/financial-regulators/zenginkyo, https://finwiki.zksc.io/fukuoka-bank, https://finwiki.zksc.io/nishi-nippon-city-bank, https://finwiki.zksc.io/oita-bank, https://finwiki.zksc.io/regional-banks/18-shinwa-bank, https://finwiki.zksc.io/regional-banks/INDEX, https://finwiki.zksc.io/regional-banks/fukuoka-bank
 
 ### 佐賀共栄銀行
 - URL: https://finwiki.zksc.io/regional-banks/saga-kyoei-bank
@@ -11998,9 +11998,9 @@ Public pages listed: 1560
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/regional-banks/saikyo-bank.md
 - Domain: regional-banks
 - Type: wiki_entry
-- Summary: This entry sits under JapanFG index. Read it against 島根銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.
-- Headings: 西京銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/hiroshima-bank, https://finwiki.zksc.io/kitakyushu-bank, https://finwiki.zksc.io/momiji-bank, https://finwiki.zksc.io/regional-banks/shimane-bank, https://finwiki.zksc.io/yamaguchi-fg
+- Summary: This entry sits under regional-banks INDEX (its domain route). Read it against もみじ銀行 for the adjacent YMFG-group peer / contrast, and against the FSA plus banking for the supervisory / system boundary.
+- Headings: 西京銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Regulatory & system positioning, 4. Why this page matters, Related
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/financial-regulators/fsa, https://finwiki.zksc.io/financial-regulators/zenginkyo, https://finwiki.zksc.io/hiroshima-bank, https://finwiki.zksc.io/kitakyushu-bank, https://finwiki.zksc.io/momiji-bank, https://finwiki.zksc.io/regional-banks/INDEX, https://finwiki.zksc.io/regional-banks/hiroshima-bank, https://finwiki.zksc.io/regional-banks/kitakyushu-bank, https://finwiki.zksc.io/regional-banks/momiji-bank
 
 ### 山陰合同銀行 (San-in Godo Bank)
 - URL: https://finwiki.zksc.io/regional-banks/san-in-godo-bank
@@ -12088,9 +12088,9 @@ Public pages listed: 1560
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/regional-banks/shikoku-bank.md
 - Domain: regional-banks
 - Type: wiki_entry
-- Summary: This entry sits under JapanFG index. Read it against 伊予銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.
+- Summary: This entry sits under regional-banks INDEX (its domain route). Read it against 高知銀行 for the same-prefecture peer / contrast (first vs second regional bank), and against the FSA plus banking for the supervisory / system boundary.
 - Headings: 四国銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/awa-bank, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/hyakujushi-bank, https://finwiki.zksc.io/iyo-bank, https://finwiki.zksc.io/kochi-bank, https://finwiki.zksc.io/regional-banks/iyo-bank
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/financial-regulators/fsa, https://finwiki.zksc.io/regional-banks/INDEX, https://finwiki.zksc.io/regional-banks/awa-bank, https://finwiki.zksc.io/regional-banks/hyakujushi-bank, https://finwiki.zksc.io/regional-banks/iyo-bank, https://finwiki.zksc.io/regional-banks/kochi-bank
 
 ### 島根銀行
 - URL: https://finwiki.zksc.io/regional-banks/shimane-bank
@@ -12108,9 +12108,9 @@ Public pages listed: 1560
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/regional-banks/shimizu-bank.md
 - Domain: regional-banks
 - Type: wiki_entry
-- Summary: This entry sits under JapanFG index. Read it against 静岡銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.
+- Summary: This entry sits under regional-banks INDEX (its domain route). Read it against 静岡銀行 for the same-prefecture peer / contrast (county-leader vs smaller 地銀), and against the FSA plus banking for the supervisory / system boundary.
 - Headings: 清水銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/regional-banks/shizuoka-bank, https://finwiki.zksc.io/sbi-regional-bank-hd, https://finwiki.zksc.io/shizuoka-bank, https://finwiki.zksc.io/shizuoka-chuo-bank, https://finwiki.zksc.io/shizuoka-fg, https://finwiki.zksc.io/suruga-bank
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/financial-regulators/fsa, https://finwiki.zksc.io/megabanks/sbi-regional-bank-hd, https://finwiki.zksc.io/regional-banks/INDEX, https://finwiki.zksc.io/regional-banks/shizuoka-bank, https://finwiki.zksc.io/regional-banks/shizuoka-chuo-bank, https://finwiki.zksc.io/regional-banks/shizuoka-fg, https://finwiki.zksc.io/regional-banks/suruga-bank
 
 ### 静岡銀行
 - URL: https://finwiki.zksc.io/regional-banks/shizuoka-bank
@@ -12118,9 +12118,9 @@ Public pages listed: 1560
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/regional-banks/shizuoka-bank.md
 - Domain: regional-banks
 - Type: wiki_entry
-- Summary: This entry sits under JapanFG index. Read it against 清水銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.
+- Summary: This entry sits under regional-banks INDEX (its domain route). Read it against 清水銀行 and スルガ銀行 for same-prefecture peer / contrast, and against the FSA plus banking for the supervisory / system boundary. The group-strategy view lives on 静岡フィナンシャルグループ.
 - Headings: 静岡銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/regional-banks/shimizu-bank, https://finwiki.zksc.io/shimizu-bank, https://finwiki.zksc.io/shizuoka-chuo-bank, https://finwiki.zksc.io/shizuoka-fg, https://finwiki.zksc.io/suruga-bank
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/financial-regulators/fsa, https://finwiki.zksc.io/regional-banks/INDEX, https://finwiki.zksc.io/regional-banks/shimizu-bank, https://finwiki.zksc.io/regional-banks/shizuoka-chuo-bank, https://finwiki.zksc.io/regional-banks/shizuoka-fg, https://finwiki.zksc.io/regional-banks/suruga-bank
 
 ### 静岡中央銀行
 - URL: https://finwiki.zksc.io/regional-banks/shizuoka-chuo-bank
@@ -12128,9 +12128,9 @@ Public pages listed: 1560
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/regional-banks/shizuoka-chuo-bank.md
 - Domain: regional-banks
 - Type: wiki_entry
-- Summary: This entry sits under JapanFG index. Read it against あいち銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.
+- Summary: This entry sits under regional-banks INDEX (its domain route). Read it against 静岡銀行 for the same-prefecture first-regional-bank peer / contrast, and against the FSA plus banking for the supervisory / system boundary.
 - Headings: 静岡中央銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/kanagawa-bank, https://finwiki.zksc.io/regional-banks/aichi-bank, https://finwiki.zksc.io/shimizu-bank, https://finwiki.zksc.io/shizuoka-bank, https://finwiki.zksc.io/suruga-bank
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/financial-regulators/fsa, https://finwiki.zksc.io/regional-banks/INDEX, https://finwiki.zksc.io/regional-banks/kanagawa-bank, https://finwiki.zksc.io/regional-banks/shimizu-bank, https://finwiki.zksc.io/regional-banks/shizuoka-bank, https://finwiki.zksc.io/regional-banks/suruga-bank
 
 ### しずおか FG (Shizuoka FG)
 - URL: https://finwiki.zksc.io/regional-banks/shizuoka-fg
@@ -12148,9 +12148,9 @@ Public pages listed: 1560
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/regional-banks/shonai-bank.md
 - Domain: regional-banks
 - Type: wiki_entry
-- Summary: This entry sits under JapanFG index. Read it against 北都銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.
-- Headings: 荘内銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Registry note, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/fidea-hd, https://finwiki.zksc.io/hokuto-bank, https://finwiki.zksc.io/regional-banks/hokuto-bank, https://finwiki.zksc.io/yamagata-bank
+- Summary: This entry sits under regional-banks INDEX (its domain route). Read it against 北都銀行 for the same-group peer / contrast (the planned merger counterparty) and 山形銀行 for the same-prefecture rival, and against the FSA plus banking for the supervisory / system boundary. The holding-company view lives on フ
+- Headings: 荘内銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Registry / boundary note, Related, Sources
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/financial-regulators/fsa, https://finwiki.zksc.io/regional-banks/INDEX, https://finwiki.zksc.io/regional-banks/fidea-hd, https://finwiki.zksc.io/regional-banks/hokuto-bank, https://finwiki.zksc.io/regional-banks/yamagata-bank
 
 ### ソニー銀行 (Sony Bank)
 - URL: https://finwiki.zksc.io/regional-banks/sony-bank
@@ -12158,9 +12158,9 @@ Public pages listed: 1560
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/regional-banks/sony-bank.md
 - Domain: regional-banks
 - Type: wiki_entry
-- Summary: This entry sits under JapanFG index. Read it against 大和ネクスト銀行 (Daiwa Next Bank) for peer / contrast context and banking index for the broader system / regulatory boundary.
+- Summary: This entry sits under regional-banks INDEX (its domain route). Read it against 大和ネクスト銀行 for the peer / contrast (asset-formation-led net bank vs payment-led net bank) and against the FSA plus banking for the supervisory / system boundary. The net-bank field as a whole is mapped from banking.
 - Headings: ソニー銀行 (Sony Bank), Wiki route, TL;DR, 1. 法人・ライセンス境界, 2. Business role, 3. Why standalone page matters, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/au-jibun-bank, https://finwiki.zksc.io/banking/paypay-bank, https://finwiki.zksc.io/banking/rakuten-bank, https://finwiki.zksc.io/life-insurers/lifenet, https://finwiki.zksc.io/megabanks/sony-fg, https://finwiki.zksc.io/regional-banks/daiwa-next-bank
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/paypay-bank, https://finwiki.zksc.io/banking/rakuten-bank, https://finwiki.zksc.io/financial-regulators/fsa, https://finwiki.zksc.io/life-insurers/lifenet, https://finwiki.zksc.io/megabanks/sony-fg, https://finwiki.zksc.io/regional-banks/INDEX, https://finwiki.zksc.io/regional-banks/au-jibun-bank, https://finwiki.zksc.io/regional-banks/daiwa-next-bank
 
 ### ssjbank 誤リンク監査
 - URL: https://finwiki.zksc.io/regional-banks/ssjbank
@@ -12208,9 +12208,9 @@ Public pages listed: 1560
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/regional-banks/tajima-bank.md
 - Domain: regional-banks
 - Type: wiki_entry
-- Summary: This entry sits under JapanFG index. Read it against 関西みらい銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.
+- Summary: This entry sits under regional-banks INDEX (its domain route). Read it against みなと銀行 for the same-prefecture peer / contrast (Hyogo first-regional-bank vs second-regional-bank) and 関西みらい銀行 for the larger Kansai-group rival, and against the FSA plus banking for the supervisory / system boundary.
 - Headings: 但馬銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/ikeda-senshu-bank, https://finwiki.zksc.io/kansai-mirai-bank, https://finwiki.zksc.io/minato-bank, https://finwiki.zksc.io/regional-banks/kansai-mirai-bank, https://finwiki.zksc.io/regional-banks/minato-bank
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/financial-regulators/fsa, https://finwiki.zksc.io/regional-banks/INDEX, https://finwiki.zksc.io/regional-banks/ikeda-senshu-bank, https://finwiki.zksc.io/regional-banks/kansai-mirai-bank, https://finwiki.zksc.io/regional-banks/minato-bank
 
 ### 栃木銀行
 - URL: https://finwiki.zksc.io/regional-banks/tochigi-bank
@@ -12238,9 +12238,9 @@ Public pages listed: 1560
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/regional-banks/tohoku-bank.md
 - Domain: regional-banks
 - Type: wiki_entry
-- Summary: This entry sits under JapanFG index. Read it against 荘内銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.
+- Summary: This entry sits under regional-banks INDEX (its domain route). Read it against 岩手銀行 for the same-prefecture peer / contrast (Iwate lead regional bank vs second channel) and 北日本銀行 for the same-prefecture second-regional bank, and against the FSA plus banking for the supervisory / system boundary.
 - Headings: 東北銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Boundary note, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/fidea-hd, https://finwiki.zksc.io/iwate-bank, https://finwiki.zksc.io/kita-nippon-bank, https://finwiki.zksc.io/regional-banks/shonai-bank
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/financial-regulators/fsa, https://finwiki.zksc.io/regional-banks/INDEX, https://finwiki.zksc.io/regional-banks/fidea-hd, https://finwiki.zksc.io/regional-banks/iwate-bank, https://finwiki.zksc.io/regional-banks/kita-nippon-bank
 
 ### 徳島大正銀行
 - URL: https://finwiki.zksc.io/regional-banks/tokushima-taisho-bank
@@ -12268,9 +12268,9 @@ Public pages listed: 1560
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/regional-banks/tomato-bank.md
 - Domain: regional-banks
 - Type: wiki_entry
-- Summary: This entry sits under JapanFG index. Read it against 中国銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.
+- Summary: This entry sits under regional-banks INDEX (its domain route). Read it against 中国銀行 for the same-prefecture peer / contrast (Okayama first-regional bank vs second-regional bank), and against the FSA plus banking for the supervisory / system boundary.
 - Headings: トマト銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/chugin-okayama, https://finwiki.zksc.io/chugoku-bank, https://finwiki.zksc.io/regional-banks/chugoku-bank, https://finwiki.zksc.io/tottori-bank
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/financial-regulators/fsa, https://finwiki.zksc.io/regional-banks/INDEX, https://finwiki.zksc.io/regional-banks/chugin-okayama, https://finwiki.zksc.io/regional-banks/chugoku-bank, https://finwiki.zksc.io/regional-banks/hiroshima-bank, https://finwiki.zksc.io/regional-banks/tottori-bank
 
 ### トモニホールディングス (Tomony HD)
 - URL: https://finwiki.zksc.io/regional-banks/tomony-hd
@@ -12288,9 +12288,9 @@ Public pages listed: 1560
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/regional-banks/tottori-bank.md
 - Domain: regional-banks
 - Type: wiki_entry
-- Summary: This entry sits under JapanFG index. Read it against 中国銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.
+- Summary: This entry sits under regional-banks INDEX (its domain route). Read it against 山陰合同銀行 for the same-region peer / contrast (the larger 山陰 regional bank) and トマト銀行 for a neighbouring second-regional bank, and against the FSA plus banking for the supervisory / system boundary.
 - Headings: 鳥取銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/chugoku-bank, https://finwiki.zksc.io/hiroshima-bank, https://finwiki.zksc.io/regional-banks/chugoku-bank, https://finwiki.zksc.io/san-in-godo-bank
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/financial-regulators/fsa, https://finwiki.zksc.io/regional-banks/INDEX, https://finwiki.zksc.io/regional-banks/chugoku-bank, https://finwiki.zksc.io/regional-banks/hiroshima-bank, https://finwiki.zksc.io/regional-banks/san-in-godo-bank, https://finwiki.zksc.io/regional-banks/tomato-bank
 
 ### 東和銀行 (The Towa Bank, Ltd.)
 - URL: https://finwiki.zksc.io/regional-banks/towa-bank
@@ -12308,9 +12308,9 @@ Public pages listed: 1560
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/regional-banks/toyama-bank.md
 - Domain: regional-banks
 - Type: wiki_entry
-- Summary: This entry sits under JapanFG index. Read it against 福岡銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.
+- Summary: This entry sits under regional-banks INDEX (its domain route). Read it against 北陸銀行 for the dominant in-prefecture peer / contrast and 富山第一銀行 for the same-prefecture second-regional bank, and against the FSA plus banking for the supervisory / system boundary.
 - Headings: 富山銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/hokuhoku-fg, https://finwiki.zksc.io/hokuriku-bank, https://finwiki.zksc.io/regional-banks/fukuoka-bank, https://finwiki.zksc.io/toyama-first-bank
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/financial-regulators/fsa, https://finwiki.zksc.io/regional-banks/INDEX, https://finwiki.zksc.io/regional-banks/hokuhoku-fg, https://finwiki.zksc.io/regional-banks/hokuriku-bank, https://finwiki.zksc.io/regional-banks/toyama-first-bank
 
 ### 富山第一銀行
 - URL: https://finwiki.zksc.io/regional-banks/toyama-first-bank
@@ -12318,9 +12318,9 @@ Public pages listed: 1560
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/regional-banks/toyama-first-bank.md
 - Domain: regional-banks
 - Type: wiki_entry
-- Summary: This entry sits under JapanFG index. Read it against 徳島大正銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.
+- Summary: This entry sits under regional-banks INDEX (its domain route). Read it against 富山銀行 for the same-prefecture peer / contrast (first vs second regional bank) and 北陸銀行 for the dominant in-prefecture bank, and against the FSA plus banking for the supervisory / system boundary.
 - Headings: 富山第一銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/hokkoku-bank, https://finwiki.zksc.io/hokkoku-fhd, https://finwiki.zksc.io/hokuhoku-fg, https://finwiki.zksc.io/hokuriku-bank, https://finwiki.zksc.io/regional-banks/tokushima-taisho-bank, https://finwiki.zksc.io/toyama-bank
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/financial-regulators/fsa, https://finwiki.zksc.io/regional-banks/INDEX, https://finwiki.zksc.io/regional-banks/hokkoku-bank, https://finwiki.zksc.io/regional-banks/hokkoku-fhd, https://finwiki.zksc.io/regional-banks/hokuhoku-fg, https://finwiki.zksc.io/regional-banks/hokuriku-bank, https://finwiki.zksc.io/regional-banks/toyama-bank
 
 ### 筑波銀行
 - URL: https://finwiki.zksc.io/regional-banks/tsukuba-bank
@@ -12328,9 +12328,9 @@ Public pages listed: 1560
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/regional-banks/tsukuba-bank.md
 - Domain: regional-banks
 - Type: wiki_entry
-- Summary: This entry sits under JapanFG index. Read it against 横浜銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.
+- Summary: This entry sits under regional-banks INDEX (its domain route). Read it against 常陽銀行 for the same-prefecture peer / contrast (Ibaraki lead regional bank vs second channel), and against the FSA plus banking for the supervisory / system boundary.
 - Headings: 筑波銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/joyo-bank, https://finwiki.zksc.io/mebuki-fg, https://finwiki.zksc.io/regional-banks/yokohama-bank, https://finwiki.zksc.io/sbi-regional-bank-hd
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/financial-regulators/fsa, https://finwiki.zksc.io/megabanks/sbi-regional-bank-hd, https://finwiki.zksc.io/regional-banks/INDEX, https://finwiki.zksc.io/regional-banks/joyo-bank, https://finwiki.zksc.io/regional-banks/mebuki-fg
 
 ### UI銀行 (UI Bank)
 - URL: https://finwiki.zksc.io/regional-banks/ui-bank
@@ -12338,9 +12338,9 @@ Public pages listed: 1560
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/regional-banks/ui-bank.md
 - Domain: regional-banks
 - Type: wiki_entry
-- Summary: This entry sits under JapanFG index. Read it against 埼玉りそな銀行 (Saitama Resona Bank) for peer / contrast context and banking index for the broader system / regulatory boundary.
+- Summary: This entry sits under regional-banks INDEX (its domain route). Read it against 01銀行 and みんなの銀行 for the peer / contrast (regional-group-launched digital banks), and against the FSA plus banking for the supervisory / system boundary. The parent group view lives on 東京きらぼしフィナンシャルグループ.
 - Headings: UI銀行 (UI Bank), Wiki route, TL;DR, 1. 法人・ライセンス境界, 2. Business role, 3. Why standalone page matters, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/baas-japan-landscape, https://finwiki.zksc.io/banking/minna-bank-baas-model, https://finwiki.zksc.io/megabanks/saitama-resona-bank, https://finwiki.zksc.io/regional-banks/01-bank, https://finwiki.zksc.io/regional-banks/kiraboshi-fg
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/baas-japan-landscape, https://finwiki.zksc.io/banking/minna-bank-baas-model, https://finwiki.zksc.io/financial-regulators/fsa, https://finwiki.zksc.io/regional-banks/01-bank, https://finwiki.zksc.io/regional-banks/INDEX, https://finwiki.zksc.io/regional-banks/kiraboshi-bank, https://finwiki.zksc.io/regional-banks/kiraboshi-fg
 
 ### 株式会社山形銀行
 - URL: https://finwiki.zksc.io/regional-banks/yamagata-bank
@@ -12368,9 +12368,9 @@ Public pages listed: 1560
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/regional-banks/yamanashi-chuo-bank.md
 - Domain: regional-banks
 - Type: wiki_entry
-- Summary: This entry sits under JapanFG index. Read it with banking index for adjacent context and JapanFG index for the broader system boundary.
+- Summary: This entry sits under regional-banks INDEX (its domain route). Read it against 八十二銀行 and 静岡銀行 for neighbouring central-Japan peer / contrast, and against the FSA plus banking for the supervisory / system boundary.
 - Headings: 山梨中央銀行, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/financial-licenses/INDEX, https://finwiki.zksc.io/hachijuni-nagano-bank, https://finwiki.zksc.io/shizuoka-bank
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern, https://finwiki.zksc.io/financial-regulators/fsa, https://finwiki.zksc.io/regional-banks/INDEX, https://finwiki.zksc.io/regional-banks/hachijuni-nagano-bank, https://finwiki.zksc.io/regional-banks/shizuoka-bank
 
 ### 横浜銀行
 - URL: https://finwiki.zksc.io/regional-banks/yokohama-bank
@@ -13009,6 +13009,15 @@ Public pages listed: 1560
 - Type: release_note
 - Headings: P4 i18n — v12 + P3 の 55 entry に ja/zh/en mirror を生成（165 file、鍵不要）, 日本語, 公開範囲, 主要変更, 検証結果, 既知の注意点 / 次の作業, English, Release Scope
 - First resolved wikilinks: https://finwiki.zksc.io/link, https://finwiki.zksc.io/…
+
+### P2 深化（第 1 批）— JapanFG 拆分域の存根 58 件を実体ページへ深化
+- URL: https://finwiki.zksc.io/releases/v2026.06.05-3
+- Source path: releases/v2026.06.05-3.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.06.05-3.md
+- Domain: releases
+- Type: release_note
+- Headings: P2 深化（第 1 批）— JapanFG 拆分域の存根 58 件を実体ページへ深化, 日本語, 公開範囲, 主要変更, 検証結果, 既知の注意点 / 次の作業, English, Release Scope
+- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/regional-banks/INDEX
 
 ### retail domain
 - URL: https://finwiki.zksc.io/retail/INDEX

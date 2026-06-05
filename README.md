@@ -14,12 +14,12 @@ Homepage は人間が入口を理解するために整えていますが、wiki 
 
 | 指標 | 現在値 | 集計口径 |
 | --- | ---: | --- |
-| Markdown files | 1561 | `.git` を除外し、release notes / control docs / templates を含む repository-wide `.md` files |
+| Markdown files | 1562 | `.git` を除外し、release notes / control docs / templates を含む repository-wide `.md` files |
 | Topical domains | 40 | `INDEX.md` domain map の主要テーマ領域 |
 | Link-audited entries | 1485 | `tools/wiki_link_audit.ts` が確認する public wiki entries |
 | Unresolved link issues | 0 | body route / peer / system link audit と dead wikilink target audit の未解決 issue |
-| Text volume | 約1080万字 | Markdown 全体の空白除外 UTF-8 文字数（約 10,802,591） |
-| Word-like tokens | 約175万 | English / CJK mixed corpus の近似 token count |
+| Text volume | 約1088万字 | Markdown 全体の空白除外 UTF-8 文字数（約 10,875,294） |
+| Word-like tokens | 約176万 | English / CJK mixed corpus の近似 token count |
 
 > 集計基準: 2026-06-05 JST 時点の current repository snapshot。公開サイトへの反映は `origin/main` push と現行本番配信後に確認します。Vercel への DNS cutover は shadow deployment 検証後に別途行います。
 
@@ -34,6 +34,8 @@ Homepage は人間が入口を理解するために整えていますが、wiki 
 > 内容整理: v2026.06.03-6 では並列 subagent で全領域を棚卸しし、内容品質を保ったまま整理しました。2026-05-25 の拡充以降 stale だった 8 領域 INDEX（corporate-strategy / loyalty / money-market / manufacturing / retail / governance / trade / security）を実際の entry へ同期（漏れていた entry の追加、`single entry` 等の古い記述修正、stale backlog 整理）。Bun 移行後に残っていた `tools/*.py` 参照を `SCHEMA.md` / `INDEX.md` / convention / proposal で `.ts` へ修正、`HOW-TO-NAVIGATE.md` の count drift（1465+/24+ → 1,400+/23）を是正、孤立していた 5 件の convention/proposal 文書を `INDEX.md` Control Documents に収録、security INDEX の Status 列ラベルを confidence へ修正しました。Lawson TOB 価格は公開開示に基づき ¥4,952 → ¥10,360 へ統一しました（web 照合）。link audit は entries=1411 / issues=0 で PASS、wiki 本文の死リンクは 0 のままです。
 
 > 構造整理: v2026.06.03-7 では並列 subagent で構造系の整理 B/C/D を落地しました。(B) mislabel だった governance（実体は非営利・公益法人）と manufacturing（実体は manufacturer-finance）の INDEX に scope/disambiguation を追加（corporate governance は finance/securities/exchanges、entity ページは JapanFG、ABS は structured-finance へ案内）。(C) 631 件が flat だった JapanFG に frontmatter tags 駆動で 9 件の機構類型別 sub-INDEX（megabanks-and-fg / regional-banks / cooperative-finance / trust / insurance / securities-and-asset-management / payments-cards-leasing-finance / foreign-institutions / regulators-sro-policy、計 609 entry）を新設し、`JapanFG/INDEX` に類型別導航ブロックを追加。file は一切移動せず（Option A）既存リンク・URL を保全。(D) canonical_anchor proposal の Phase 0 を落地: `canonical_anchor` を SCHEMA の optional field と canonical key order に追加、Saison / Toyota Financial Services の 2 mirror pair に pilot 設定、proposal を status: active へ更新（Phase 1 の audit tooling は後続）。link audit は entries=1420 / issues=0 で PASS（新 sub-INDEX の wikilink 全 resolve、死リンク 0）。
+
+> P2 深化（第 1 批）: v2026.06.05-3 では JapanFG 拆分域の <250 語存根 110 件のうち **58 件**を実体ページへ深化しました（`regional-banks` 48 + `cooperative-banks` 10）。各行に免許種別/監管定位（銀行法・信用金庫法/FSA・財務局/地銀協・信金中金）、業務モデル、group/system 文脈、4+ core-body wikilink を追加。**無捏造を厳守**——具体数値（設立年/証券コード/親会社等）は web 照合できたものだけ記載、照合不能は agent が削除。58 件すべて split 取り残しの旧 `[[JapanFG/INDEX]]` route を新域 INDEX へ修正。並列 subagent（regional A/B/C の 3 agent + 前 batch の cooperative）。残り ~51 件（11 域）は backlog（P2 継続）。検証: `dead=0 / drift=0 / issues=0`、`--check --strict` EXIT=0。内容は subagent 生成ゆえ事実精度は抽查推奨（ADR-006、spot-check 済み）。
 
 > P4 i18n: v2026.06.05-2 では v12（43）+ P3（12）の計 55 content entry に ja/zh/en 翻訳 mirror **165 file** を生成しました。**鍵不要**——v05-1 で「`translate.mjs` が `ANTHROPIC_API_KEY` 必要で未実行」としたのは誤りで、あの script は standalone で別の Haiku を API 呼びするから鍵が要るだけ。本 release は subagent（Claude 自身）が直接翻訳（8 並列・domain 別）。mirror は pipeline 形式を再現（`source_hash=sha256(body).slice(0,16)`、`.passthrough()` schema、`status: machine`）。i18n は link audit 外のため、全 165 mirror の `[[link]]`/数値が source と byte 一致を検証（mismatch=0）。17 新ドメイン INDEX は mirror 不要（landing は config 生成）。検証: link_mismatches=0、`--check --strict` EXIT=0（corpus 不変）、最終は CI Astro build。
 
@@ -183,12 +185,12 @@ The current production site is served by GitHub Pages, and Vercel shadow-deploym
 
 | Metric | Current Value | Counting Basis |
 | --- | ---: | --- |
-| Markdown files | 1561 | Repository-wide `.md` files excluding `.git`, including release notes, control documents, and templates |
+| Markdown files | 1562 | Repository-wide `.md` files excluding `.git`, including release notes, control documents, and templates |
 | Topical domains | 40 | Major topic areas in the `INDEX.md` domain map |
 | Link-audited entries | 1485 | Public wiki entries checked by `tools/wiki_link_audit.ts` |
 | Unresolved link issues | 0 | Open body route / peer / system-link and dead wikilink-target audit issues |
-| Text volume | ~10.80M chars | ~10,802,591 non-space UTF-8 characters across Markdown |
-| Word-like tokens | ~1.75M | Approximate English / CJK mixed-corpus token count |
+| Text volume | ~10.88M chars | ~10,875,294 non-space UTF-8 characters across Markdown |
+| Word-like tokens | ~1.76M | Approximate English / CJK mixed-corpus token count |
 
 > Counting basis: current repository snapshot as of 2026-06-05 JST. Public-site reflection is verified after push to `origin/main` and the current production deployment. Vercel DNS cutover is handled separately after shadow-deployment validation.
 
@@ -203,6 +205,8 @@ The current production site is served by GitHub Pages, and Vercel shadow-deploym
 > Content cleanup: v2026.06.03-6 audited every domain with parallel subagents and tidied the corpus without changing content quality. The 8 domain INDEXes that had gone stale since the 2026-05-25 expansion (corporate-strategy / loyalty / money-market / manufacturing / retail / governance / trade / security) were synced to their real entries (adding omitted entries, fixing stale "single entry" wording, cleaning stale backlogs). Lingering post-Bun-migration `tools/*.py` references in `SCHEMA.md` / `INDEX.md` / convention / proposal were corrected to `.ts`; the `HOW-TO-NAVIGATE.md` count drift (1465+/24+ → 1,400+/23) was fixed; the 5 orphaned convention/proposal docs were added to the `INDEX.md` Control Documents; and the security INDEX "Status" column was relabeled to confidence. The Lawson TOB price was unified to ¥10,360 (from an erroneous ¥4,952) per public disclosure (web-verified). Link audit passes at entries=1411 / issues=0 with zero dead links in the wiki body.
 
 > Structural cleanup: v2026.06.03-7 landed the structural tasks B/C/D with parallel subagents. (B) Added scope/disambiguation to the mislabeled governance (actually non-profit / public-interest) and manufacturing (actually manufacturer-finance) INDEXes, routing corporate governance to finance/securities/exchanges, entity pages to JapanFG, and ABS to structured-finance. (C) Gave the flat 631-entry JapanFG domain 9 institution-type sub-indexes driven by frontmatter tags (megabanks-and-fg / regional-banks / cooperative-finance / trust / insurance / securities-and-asset-management / payments-cards-leasing-finance / foreign-institutions / regulators-sro-policy; 609 entries grouped) plus a navigation block in `JapanFG/INDEX` — with zero file moves (Option A), preserving every existing link and URL. (D) Landed Phase 0 of the canonical_anchor proposal: added `canonical_anchor` as an optional SCHEMA field and to the canonical key order, set it as a pilot on the Saison and Toyota Financial Services mirror pairs, and marked the proposal status: active (Phase 1 audit tooling is future work). Link audit passes at entries=1420 / issues=0 (every new sub-index wikilink resolves; zero dead links).
+
+> P2 deepening (batch 1): v2026.06.05-3 deepened **58** of the 110 sub-250-word registry stubs in the JapanFG-split domains (`regional-banks` 48 + `cooperative-banks` 10) into proper entity pages — license type / regulatory positioning (銀行法・信用金庫法 / FSA・財務局 / 地銀協・信金中金), institution-type business model, group/system context, 4+ core-body wikilinks each. **Strict no-fabrication**: specific numbers (founding year/ticker/parent) added only when web-verified; unverifiable claims removed by the agents. All 58 had their split-leftover stale `[[JapanFG/INDEX]]` route fixed to the new-domain INDEX. Parallel subagents (3 agents for regional A/B/C + cooperative from a prior batch). The remaining ~51 stubs (11 domains) go to the backlog (P2 continues). Verification: `dead=0 / drift=0 / issues=0`, `--check --strict` EXIT=0. Content is subagent-generated, so facts warrant spot-check (ADR-006; spot-checked).
 
 > P4 i18n: v2026.06.05-2 generated **165 translation mirror files** (ja/zh/en) for the 55 content entries from v12 (43) + P3 (12). **No API key needed** — v05-1's claim that `translate.mjs` needs `ANTHROPIC_API_KEY` (so P4 is "blocked") was wrong; that script needs the key only because it's a standalone program calling a *separate* Haiku over the API. This release had subagents (Claude itself) translate directly (8 parallel, per-domain). Mirrors replicate the pipeline format (`source_hash=sha256(body).slice(0,16)`, `.passthrough()` schema, `status: machine`). Since i18n is outside the link audit, every one of the 165 mirrors was verified to have `[[link]]` targets / numbers byte-identical to its source (mismatches=0). The 17 new-domain INDEX pages need no mirror (landings are generated from config). Verification: link_mismatches=0, `--check --strict` EXIT=0 (corpus unchanged); final check is the CI Astro build.
 
@@ -346,12 +350,12 @@ FinWiki 是一个覆盖金融、支付、稳定币、加密资产、资本市场
 
 | 指标 | 当前值 | 统计口径 |
 | --- | ---: | --- |
-| Markdown files | 1561 | 排除 `.git`，包含 release notes、控制文档、模板在内的全仓库 `.md` 文件 |
+| Markdown files | 1562 | 排除 `.git`，包含 release notes、控制文档、模板在内的全仓库 `.md` 文件 |
 | Topical domains | 40 | `INDEX.md` domain map 中的主要主题领域 |
 | Link-audited entries | 1485 | `tools/wiki_link_audit.ts` 覆盖的 public wiki entries |
 | Unresolved link issues | 0 | body route / peer / system link audit 与 dead wikilink target audit 的未解决 issue |
-| Text volume | 约1080万字 | 全库 Markdown 空白除外 UTF-8 字符数（约 10,802,591） |
-| Word-like tokens | 约175万 | English / CJK mixed corpus 的近似 token count |
+| Text volume | 约1088万字 | 全库 Markdown 空白除外 UTF-8 字符数（约 10,875,294） |
+| Word-like tokens | 约176万 | English / CJK mixed corpus 的近似 token count |
 
 > 统计口径：2026-06-03 JST 当前 repository snapshot。公开站点反映会在 push 到 `origin/main` 并完成当前生产部署后确认。Vercel DNS cutover 会在 shadow deployment 验证后单独执行。
 
@@ -366,6 +370,8 @@ FinWiki 是一个覆盖金融、支付、稳定币、加密资产、资本市场
 > 内容整理：v2026.06.03-6 用并行 subagent 盘点了全部领域，在不改变内容质量的前提下做了整理。把 2026-05-25 扩充后 stale 的 8 个领域 INDEX（corporate-strategy / loyalty / money-market / manufacturing / retail / governance / trade / security）同步到实际 entry（补全漏列 entry、修正 `single entry` 等过时表述、清理 stale backlog）。修正了 Bun 迁移后遗留在 `SCHEMA.md` / `INDEX.md` / convention / proposal 中的 `tools/*.py` 引用为 `.ts`；纠正 `HOW-TO-NAVIGATE.md` 的 count drift（1465+/24+ → 1,400+/23）；把 5 个孤立的 convention/proposal 文档收录进 `INDEX.md` 的 Control Documents；并把 security INDEX 的 Status 列改标为 confidence。依据公开披露（已 web 核实）把 Lawson TOB 价格从错误的 ¥4,952 统一为 ¥10,360。link audit 通过 entries=1411 / issues=0，wiki 正文死链保持 0。
 
 > 结构整理：v2026.06.03-7 用并行 subagent 落地了结构类任务 B/C/D。(B) 给 mislabel 的 governance（实为非营利 / 公益法人）和 manufacturing（实为厂商金融）INDEX 加 scope/disambiguation，把 corporate governance 路由到 finance/securities/exchanges、entity 页到 JapanFG、ABS 到 structured-finance。(C) 给 631 个 entry 扁平的 JapanFG 用 frontmatter tags 驱动新建 9 个机构类型 sub-index（megabanks-and-fg / regional-banks / cooperative-finance / trust / insurance / securities-and-asset-management / payments-cards-leasing-finance / foreign-institutions / regulators-sro-policy，分组 609 个 entry），并在 `JapanFG/INDEX` 加类型导航块 —— 零文件移动（Option A），保全所有既有链接与 URL。(D) 落地 canonical_anchor proposal 的 Phase 0：把 `canonical_anchor` 加为 SCHEMA optional 字段和 canonical key order，在 Saison / Toyota Financial Services 两个 mirror pair 设 pilot，并把 proposal 标为 status: active（Phase 1 的 audit tooling 留作后续）。link audit 通过 entries=1420 / issues=0（新 sub-index 的 wikilink 全部 resolve、零死链）。
+
+> P2 深化（第 1 批）: v2026.06.05-3 把 JapanFG 拆分域里 110 个 <250 词登记簿存根中的 **58 个**深化成实体页（`regional-banks` 48 + `cooperative-banks` 10）——补免许种别/监管定位（银行法·信用金庫法 / FSA·财务局 / 地银协·信金中金）、机构类型业务模型、group/system 语境、每页 4+ core-body wikilink。**严守无捏造**：具体数字（设立年/证券代码/母公司等）只在 web 核实后才加，核实不了的被 agent 删除。58 个都修复了 split 残留的旧 `[[JapanFG/INDEX]]` 路由 → 各自新域 INDEX。并行 subagent（regional A/B/C 的 3 个 agent + 前批的 cooperative）。剩余 ~51 个（11 域）记入 backlog（P2 继续）。验证：`dead=0 / drift=0 / issues=0`、`--check --strict` EXIT=0。内容由 subagent 生成，事实建议抽查（ADR-006、已 spot-check）。
 
 > P4 i18n: v2026.06.05-2 给 v12（43）+ P3（12）共 55 个 content entry 生成了 ja/zh/en 翻译镜像 **165 个文件**。**不需要密钥**——v05-1 说「`translate.mjs` 需要 `ANTHROPIC_API_KEY` 所以 P4 阻塞」是错的；那个脚本需要密钥只因它是独立程序、通过 API 调另一个 Haiku。本 release 改为 subagent（Claude 自己）直接翻译（8 并行、按域）。镜像复刻流水线格式（`source_hash=sha256(body).slice(0,16)`、`.passthrough()` schema、`status: machine`）。因 i18n 不在 link audit 内，全部 165 个镜像都验证了 `[[link]]` 目标/数字与 source byte 一致（mismatch=0）。17 个新域 INDEX 不需要镜像（landing 由 config 生成）。验证：link_mismatches=0、`--check --strict` EXIT=0（corpus 不变）；最终看 CI Astro build。
 

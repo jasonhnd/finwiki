@@ -18,9 +18,9 @@
     ],
     "domain": "regional-banks",
     "created": "2026-05-21",
-    "last_updated": "2026-05-21",
-    "last_tended": "2026-05-21",
-    "review_by": "2026-11-21",
+    "last_updated": "2026-06-05",
+    "last_tended": "2026-06-05",
+    "review_by": "2026-12-05",
     "confidence": "likely",
     "tags": [
       "JapanFG",
@@ -36,46 +36,65 @@
       "https://www.ncbank.co.jp/corporate/profile/"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 福岡銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under regional-banks INDEX (its domain route). Read it against 福岡銀行 for the same-prefecture peer / contrast, and against the FSA plus banking for the supervisory / system boundary.",
   "headings": [
     "西日本シティ銀行",
     "Wiki route",
     "TL;DR",
     "1. License / group boundary",
     "2. Operating model",
-    "3. Why this page matters",
+    "3. Regulatory & system positioning",
+    "4. Why this page matters",
     "Related",
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 8,
+    "wikilinks_count": 17,
     "wikilinks": [
-      "JapanFG/INDEX",
+      "INDEX",
       "banking/INDEX",
       "banking/regional-bank-consolidation-pattern",
       "chikuho-bank",
+      "financial-regulators/fsa",
+      "financial-regulators/zenginkyo",
       "fukuoka-bank",
       "kitakyushu-bank",
+      "nagasaki-bank",
       "nishi-nippon-fhd",
-      "regional-banks/fukuoka-bank"
+      "regional-banks/INDEX",
+      "regional-banks/chikuho-bank",
+      "regional-banks/fukuoka-bank",
+      "regional-banks/fukuoka-fg",
+      "regional-banks/kitakyushu-bank",
+      "regional-banks/nagasaki-bank",
+      "regional-banks/nishi-nippon-fhd"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
       "https://finwiki.zksc.io/chikuho-bank",
+      "https://finwiki.zksc.io/financial-regulators/fsa",
+      "https://finwiki.zksc.io/financial-regulators/zenginkyo",
       "https://finwiki.zksc.io/fukuoka-bank",
       "https://finwiki.zksc.io/kitakyushu-bank",
+      "https://finwiki.zksc.io/nagasaki-bank",
       "https://finwiki.zksc.io/nishi-nippon-fhd",
-      "https://finwiki.zksc.io/regional-banks/fukuoka-bank"
+      "https://finwiki.zksc.io/regional-banks/INDEX",
+      "https://finwiki.zksc.io/regional-banks/chikuho-bank",
+      "https://finwiki.zksc.io/regional-banks/fukuoka-bank",
+      "https://finwiki.zksc.io/regional-banks/fukuoka-fg",
+      "https://finwiki.zksc.io/regional-banks/kitakyushu-bank",
+      "https://finwiki.zksc.io/regional-banks/nagasaki-bank",
+      "https://finwiki.zksc.io/regional-banks/nishi-nippon-fhd"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1838,
-    "word_like_tokens": 285,
-    "inbound_wikilinks_count": 5,
-    "last_modified": "2026-06-04"
+    "nonspace_chars": 2943,
+    "word_like_tokens": 426,
+    "inbound_wikilinks_count": 8,
+    "last_modified": "2026-06-05"
   }
 }

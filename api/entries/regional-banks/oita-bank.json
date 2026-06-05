@@ -18,9 +18,9 @@
     ],
     "domain": "regional-banks",
     "created": "2026-05-21",
-    "last_updated": "2026-05-21",
-    "last_tended": "2026-05-21",
-    "review_by": "2026-11-21",
+    "last_updated": "2026-06-05",
+    "last_tended": "2026-06-05",
+    "review_by": "2026-12-05",
     "confidence": "likely",
     "tags": [
       "JapanFG",
@@ -36,48 +36,61 @@
       "https://www.oitabank.co.jp/company/info/profile/"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 福岡銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under regional-banks INDEX (its domain route). Read it against 豊和銀行 for the same-prefecture peer / contrast (first vs second regional bank), and against the FSA plus banking for the supervisory / system boundary.",
   "headings": [
     "大分銀行",
     "Wiki route",
     "TL;DR",
     "1. License / group boundary",
     "2. Operating model",
-    "3. Why this page matters",
+    "3. Regulatory & system positioning",
+    "4. Why this page matters",
     "Related",
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 9,
+    "wikilinks_count": 15,
     "wikilinks": [
-      "JapanFG/INDEX",
+      "INDEX",
       "banking/INDEX",
       "banking/regional-bank-consolidation-pattern",
+      "financial-regulators/fsa",
+      "financial-regulators/zenginkyo",
       "fukuoka-bank",
       "higo-bank",
       "howa-bank",
       "miyazaki-bank",
+      "regional-banks/INDEX",
       "regional-banks/fukuoka-bank",
+      "regional-banks/howa-bank",
+      "regional-banks/miyazaki-bank",
+      "regional-banks/saga-bank",
       "saga-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
+      "https://finwiki.zksc.io/financial-regulators/fsa",
+      "https://finwiki.zksc.io/financial-regulators/zenginkyo",
       "https://finwiki.zksc.io/fukuoka-bank",
       "https://finwiki.zksc.io/higo-bank",
       "https://finwiki.zksc.io/howa-bank",
       "https://finwiki.zksc.io/miyazaki-bank",
+      "https://finwiki.zksc.io/regional-banks/INDEX",
       "https://finwiki.zksc.io/regional-banks/fukuoka-bank",
+      "https://finwiki.zksc.io/regional-banks/howa-bank",
+      "https://finwiki.zksc.io/regional-banks/miyazaki-bank",
+      "https://finwiki.zksc.io/regional-banks/saga-bank",
       "https://finwiki.zksc.io/saga-bank"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1648,
-    "word_like_tokens": 261,
-    "inbound_wikilinks_count": 1,
-    "last_modified": "2026-06-04"
+    "nonspace_chars": 2529,
+    "word_like_tokens": 369,
+    "inbound_wikilinks_count": 2,
+    "last_modified": "2026-06-05"
   }
 }

@@ -89,7 +89,7 @@
   "metrics": {
     "nonspace_chars": 4483,
     "word_like_tokens": 694,
-    "inbound_wikilinks_count": 1,
+    "inbound_wikilinks_count": 3,
     "last_modified": "2026-06-04"
   }
 }

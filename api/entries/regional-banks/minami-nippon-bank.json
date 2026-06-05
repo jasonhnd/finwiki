@@ -18,9 +18,9 @@
     ],
     "domain": "regional-banks",
     "created": "2026-05-21",
-    "last_updated": "2026-05-21",
-    "last_tended": "2026-05-21",
-    "review_by": "2026-11-21",
+    "last_updated": "2026-06-05",
+    "last_tended": "2026-06-05",
+    "review_by": "2026-12-05",
     "confidence": "likely",
     "tags": [
       "JapanFG",
@@ -36,44 +36,55 @@
       "https://nangin.jp/about/nangin/outline.html"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 鹿児島銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under regional-banks INDEX (its domain route). Read it against 鹿児島銀行 for the same-prefecture peer / contrast (first vs second regional bank), and against the FSA plus banking for the supervisory / system boundary.",
   "headings": [
     "南日本銀行",
     "Wiki route",
     "TL;DR",
     "1. License / group boundary",
     "2. Operating model",
-    "3. Why this page matters",
+    "3. Regulatory & system positioning",
+    "4. Why this page matters",
     "Related",
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 7,
+    "wikilinks_count": 12,
     "wikilinks": [
-      "JapanFG/INDEX",
+      "INDEX",
       "banking/INDEX",
       "banking/regional-bank-consolidation-pattern",
+      "financial-regulators/fsa",
+      "financial-regulators/zenginkyo",
       "kagoshima-bank",
       "kyushu-fg",
       "miyazaki-bank",
-      "regional-banks/kagoshima-bank"
+      "regional-banks/INDEX",
+      "regional-banks/kagoshima-bank",
+      "regional-banks/kyushu-fg",
+      "regional-banks/miyazaki-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
+      "https://finwiki.zksc.io/financial-regulators/fsa",
+      "https://finwiki.zksc.io/financial-regulators/zenginkyo",
       "https://finwiki.zksc.io/kagoshima-bank",
       "https://finwiki.zksc.io/kyushu-fg",
       "https://finwiki.zksc.io/miyazaki-bank",
-      "https://finwiki.zksc.io/regional-banks/kagoshima-bank"
+      "https://finwiki.zksc.io/regional-banks/INDEX",
+      "https://finwiki.zksc.io/regional-banks/kagoshima-bank",
+      "https://finwiki.zksc.io/regional-banks/kyushu-fg",
+      "https://finwiki.zksc.io/regional-banks/miyazaki-bank"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1781,
-    "word_like_tokens": 275,
-    "inbound_wikilinks_count": 1,
-    "last_modified": "2026-06-04"
+    "nonspace_chars": 2605,
+    "word_like_tokens": 372,
+    "inbound_wikilinks_count": 2,
+    "last_modified": "2026-06-05"
   }
 }

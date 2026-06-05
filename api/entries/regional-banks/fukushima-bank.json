@@ -16,9 +16,9 @@
     ],
     "domain": "regional-banks",
     "created": "2026-05-21",
-    "last_updated": "2026-05-21",
-    "last_tended": "2026-05-21",
-    "review_by": "2026-11-21",
+    "last_updated": "2026-06-05",
+    "last_tended": "2026-06-05",
+    "review_by": "2026-12-05",
     "confidence": "likely",
     "tags": [
       "JapanFG",
@@ -33,32 +33,45 @@
       "https://www.fukushimabank.co.jp/company/profile/"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 仙台銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under regional-banks INDEX (its domain route). Read it against 大東銀行 for the same-prefecture second-regional peer / contrast, and against the FSA plus banking for the supervisory / system boundary. 福島県の第一地銀 anchor は 東邦銀行。",
   "headings": [
     "福島銀行",
     "Wiki route",
     "TL;DR",
     "1. License / group boundary",
     "2. Operating model",
-    "3. Why this page matters",
+    "3. Regulatory & system positioning",
+    "4. Why this page matters",
     "Related",
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 6,
+    "wikilinks_count": 12,
     "wikilinks": [
-      "JapanFG/INDEX",
+      "INDEX",
       "banking/INDEX",
+      "banking/regional-bank-consolidation-pattern",
       "daito-bank",
-      "regional-banks/sendai-bank",
+      "financial-regulators/fsa",
+      "financial-regulators/zenginkyo",
+      "megabanks/sbi-regional-bank-hd",
+      "regional-banks/INDEX",
+      "regional-banks/daito-bank",
+      "regional-banks/toho-bank",
       "sbi-regional-bank-hd",
       "toho-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
       "https://finwiki.zksc.io/daito-bank",
-      "https://finwiki.zksc.io/regional-banks/sendai-bank",
+      "https://finwiki.zksc.io/financial-regulators/fsa",
+      "https://finwiki.zksc.io/financial-regulators/zenginkyo",
+      "https://finwiki.zksc.io/megabanks/sbi-regional-bank-hd",
+      "https://finwiki.zksc.io/regional-banks/INDEX",
+      "https://finwiki.zksc.io/regional-banks/daito-bank",
+      "https://finwiki.zksc.io/regional-banks/toho-bank",
       "https://finwiki.zksc.io/sbi-regional-bank-hd",
       "https://finwiki.zksc.io/toho-bank"
     ],
@@ -66,9 +79,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1645,
-    "word_like_tokens": 259,
-    "inbound_wikilinks_count": 5,
-    "last_modified": "2026-06-04"
+    "nonspace_chars": 2696,
+    "word_like_tokens": 388,
+    "inbound_wikilinks_count": 4,
+    "last_modified": "2026-06-05"
   }
 }

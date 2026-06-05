@@ -26,8 +26,9 @@
 
 | 状态 | 项目 | 备注 |
 |---|---|---|
-| 🔴 | 9 个未分类 entity | sogo-shosha 母公司等非金融机构，故意未进 9 个 sub-INDEX；按需分类或保留。 |
-| 🔴 | 各机构类型内容深化 | 9 个类型内 entity 的业务模式 / 监管定位 / 集团关系。 |
+| 🟢 | 9 个未分类 entity | **拆分时解决**（v04-4）。sogo-shosha 母公司经映射裁定归入 `financial-conglomerates` 域（见 ADR-008 / jfg_map RESOLVE）。 |
+| 🟡 | 各机构类型内容深化 | **进行中**。~110 个 <250 词存根需深化（业务模式 / 监管定位 / 集团关系）。**v05-3 完成 58 个**（regional-banks 48 + cooperative-banks 10，web 核实、无捏造）。🔴 剩 ~51：life-insurers(8)/securities-firms(8)/asset-managers(7)/payment-firms(7)/trust-banks(6)/megabanks(5)/card-issuers(5)+ 小域。并行 agent 续做。 |
+| 🔴 | split 旧路由批量修 | 拆分后很多**非 thin** 实体页开头 Wiki-route 仍指 `[[JapanFG/INDEX]]`（非死链，audit 不报，但应指各自新域 INDEX）。脚本批量改 `[[JapanFG/INDEX` → `[[<domain>/INDEX`。 |
 
 ## 工具 / 基础设施
 

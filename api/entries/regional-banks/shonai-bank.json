@@ -17,8 +17,8 @@
     ],
     "domain": "regional-banks",
     "created": "2026-05-21",
-    "last_updated": "2026-05-21",
-    "last_tended": "2026-05-21",
+    "last_updated": "2026-06-05",
+    "last_tended": "2026-06-05",
     "review_by": "2026-11-21",
     "confidence": "likely",
     "tags": [
@@ -32,45 +32,50 @@
     "status": "active",
     "sources": [
       "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
-      "https://www.shonai.co.jp/profile/corporate_info/"
+      "https://www.shonai.co.jp/profile/corporate_info/",
+      "https://ja.wikipedia.org/wiki/荘内銀行"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 北都銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under regional-banks INDEX (its domain route). Read it against 北都銀行 for the same-group peer / contrast (the planned merger counterparty) and 山形銀行 for the same-prefecture rival, and against the FSA plus banking for the supervisory / system boundary. The holding-company view lives on フ",
   "headings": [
     "荘内銀行",
     "Wiki route",
     "TL;DR",
     "1. License / group boundary",
     "2. Operating model",
-    "3. Registry note",
+    "3. Registry / boundary note",
     "Related",
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 6,
+    "wikilinks_count": 8,
     "wikilinks": [
-      "JapanFG/INDEX",
+      "INDEX",
       "banking/INDEX",
-      "fidea-hd",
-      "hokuto-bank",
+      "banking/regional-bank-consolidation-pattern",
+      "financial-regulators/fsa",
+      "regional-banks/INDEX",
+      "regional-banks/fidea-hd",
       "regional-banks/hokuto-bank",
-      "yamagata-bank"
+      "regional-banks/yamagata-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/fidea-hd",
-      "https://finwiki.zksc.io/hokuto-bank",
+      "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
+      "https://finwiki.zksc.io/financial-regulators/fsa",
+      "https://finwiki.zksc.io/regional-banks/INDEX",
+      "https://finwiki.zksc.io/regional-banks/fidea-hd",
       "https://finwiki.zksc.io/regional-banks/hokuto-bank",
-      "https://finwiki.zksc.io/yamagata-bank"
+      "https://finwiki.zksc.io/regional-banks/yamagata-bank"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1584,
-    "word_like_tokens": 250,
-    "inbound_wikilinks_count": 2,
-    "last_modified": "2026-06-04"
+    "nonspace_chars": 2937,
+    "word_like_tokens": 456,
+    "inbound_wikilinks_count": 1,
+    "last_modified": "2026-06-05"
   }
 }

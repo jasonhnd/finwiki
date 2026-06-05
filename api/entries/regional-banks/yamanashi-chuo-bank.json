@@ -17,8 +17,8 @@
     ],
     "domain": "regional-banks",
     "created": "2026-05-21",
-    "last_updated": "2026-05-21",
-    "last_tended": "2026-05-21",
+    "last_updated": "2026-06-05",
+    "last_tended": "2026-06-05",
     "review_by": "2026-11-21",
     "confidence": "likely",
     "tags": [
@@ -32,10 +32,11 @@
     "status": "active",
     "sources": [
       "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
-      "https://www.yamanashibank.co.jp/aboutus/about/profile/"
+      "https://www.yamanashibank.co.jp/aboutus/about/profile/",
+      "https://ja.wikipedia.org/wiki/山梨中央銀行"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it with banking index for adjacent context and JapanFG index for the broader system boundary.",
+  "summary": "This entry sits under regional-banks INDEX (its domain route). Read it against 八十二銀行 and 静岡銀行 for neighbouring central-Japan peer / contrast, and against the FSA plus banking for the supervisory / system boundary.",
   "headings": [
     "山梨中央銀行",
     "Wiki route",
@@ -47,30 +48,32 @@
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 6,
+    "wikilinks_count": 7,
     "wikilinks": [
-      "JapanFG/INDEX",
+      "INDEX",
       "banking/INDEX",
       "banking/regional-bank-consolidation-pattern",
-      "financial-licenses/INDEX",
-      "hachijuni-nagano-bank",
-      "shizuoka-bank"
+      "financial-regulators/fsa",
+      "regional-banks/INDEX",
+      "regional-banks/hachijuni-nagano-bank",
+      "regional-banks/shizuoka-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
-      "https://finwiki.zksc.io/financial-licenses/INDEX",
-      "https://finwiki.zksc.io/hachijuni-nagano-bank",
-      "https://finwiki.zksc.io/shizuoka-bank"
+      "https://finwiki.zksc.io/financial-regulators/fsa",
+      "https://finwiki.zksc.io/regional-banks/INDEX",
+      "https://finwiki.zksc.io/regional-banks/hachijuni-nagano-bank",
+      "https://finwiki.zksc.io/regional-banks/shizuoka-bank"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1801,
-    "word_like_tokens": 280,
+    "nonspace_chars": 2404,
+    "word_like_tokens": 360,
     "inbound_wikilinks_count": 1,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-05"
   }
 }

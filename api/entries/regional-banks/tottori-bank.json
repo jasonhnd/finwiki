@@ -17,8 +17,8 @@
     ],
     "domain": "regional-banks",
     "created": "2026-05-21",
-    "last_updated": "2026-05-21",
-    "last_tended": "2026-05-21",
+    "last_updated": "2026-06-05",
+    "last_tended": "2026-06-05",
     "review_by": "2026-11-21",
     "confidence": "likely",
     "tags": [
@@ -32,10 +32,11 @@
     "status": "active",
     "sources": [
       "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
-      "https://www.tottoribank.co.jp/torigin/info/profile/"
+      "https://www.tottoribank.co.jp/torigin/info/profile/index.html",
+      "https://ja.wikipedia.org/wiki/鳥取銀行"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 中国銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under regional-banks INDEX (its domain route). Read it against 山陰合同銀行 for the same-region peer / contrast (the larger 山陰 regional bank) and トマト銀行 for a neighbouring second-regional bank, and against the FSA plus banking for the supervisory / system boundary.",
   "headings": [
     "鳥取銀行",
     "Wiki route",
@@ -47,32 +48,36 @@
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 7,
+    "wikilinks_count": 9,
     "wikilinks": [
-      "JapanFG/INDEX",
+      "INDEX",
       "banking/INDEX",
       "banking/regional-bank-consolidation-pattern",
-      "chugoku-bank",
-      "hiroshima-bank",
+      "financial-regulators/fsa",
+      "regional-banks/INDEX",
       "regional-banks/chugoku-bank",
-      "san-in-godo-bank"
+      "regional-banks/hiroshima-bank",
+      "regional-banks/san-in-godo-bank",
+      "regional-banks/tomato-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
-      "https://finwiki.zksc.io/chugoku-bank",
-      "https://finwiki.zksc.io/hiroshima-bank",
+      "https://finwiki.zksc.io/financial-regulators/fsa",
+      "https://finwiki.zksc.io/regional-banks/INDEX",
       "https://finwiki.zksc.io/regional-banks/chugoku-bank",
-      "https://finwiki.zksc.io/san-in-godo-bank"
+      "https://finwiki.zksc.io/regional-banks/hiroshima-bank",
+      "https://finwiki.zksc.io/regional-banks/san-in-godo-bank",
+      "https://finwiki.zksc.io/regional-banks/tomato-bank"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1704,
-    "word_like_tokens": 269,
-    "inbound_wikilinks_count": 1,
-    "last_modified": "2026-06-04"
+    "nonspace_chars": 2408,
+    "word_like_tokens": 368,
+    "inbound_wikilinks_count": 2,
+    "last_modified": "2026-06-05"
   }
 }

@@ -18,8 +18,8 @@
     ],
     "domain": "regional-banks",
     "created": "2026-05-20",
-    "last_updated": "2026-05-20",
-    "last_tended": "2026-05-20",
+    "last_updated": "2026-06-05",
+    "last_tended": "2026-06-05",
     "review_by": "2026-11-20",
     "confidence": "likely",
     "tags": [
@@ -32,11 +32,11 @@
     "status": "active",
     "sources": [
       "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
-      "https://sonybank.jp/corporate/disclosure/disclosure.html",
-      "https://sonybank.jp/corporate/"
+      "https://sonybank.jp/corporate/aboutus/profile.html",
+      "https://sonybank.jp/corporate/disclosure/disclosure.html"
     ]
   },
-  "summary": "This entry sits under JapanFG index. Read it against 大和ネクスト銀行 (Daiwa Next Bank) for peer / contrast context and banking index for the broader system / regulatory boundary.",
+  "summary": "This entry sits under regional-banks INDEX (its domain route). Read it against 大和ネクスト銀行 for the peer / contrast (asset-formation-led net bank vs payment-led net bank) and against the FSA plus banking for the supervisory / system boundary. The net-bank field as a whole is mapped from banking.",
   "headings": [
     "ソニー銀行 (Sony Bank)",
     "Wiki route",
@@ -48,34 +48,38 @@
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 8,
+    "wikilinks_count": 10,
     "wikilinks": [
-      "JapanFG/INDEX",
+      "INDEX",
       "banking/INDEX",
-      "banking/au-jibun-bank",
       "banking/paypay-bank",
       "banking/rakuten-bank",
+      "financial-regulators/fsa",
       "life-insurers/lifenet",
       "megabanks/sony-fg",
+      "regional-banks/INDEX",
+      "regional-banks/au-jibun-bank",
       "regional-banks/daiwa-next-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/INDEX",
+      "https://finwiki.zksc.io/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/banking/au-jibun-bank",
       "https://finwiki.zksc.io/banking/paypay-bank",
       "https://finwiki.zksc.io/banking/rakuten-bank",
+      "https://finwiki.zksc.io/financial-regulators/fsa",
       "https://finwiki.zksc.io/life-insurers/lifenet",
       "https://finwiki.zksc.io/megabanks/sony-fg",
+      "https://finwiki.zksc.io/regional-banks/INDEX",
+      "https://finwiki.zksc.io/regional-banks/au-jibun-bank",
       "https://finwiki.zksc.io/regional-banks/daiwa-next-bank"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1630,
-    "word_like_tokens": 258,
+    "nonspace_chars": 2469,
+    "word_like_tokens": 390,
     "inbound_wikilinks_count": 9,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-05"
   }
 }
