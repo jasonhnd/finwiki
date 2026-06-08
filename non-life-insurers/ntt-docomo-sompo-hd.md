@@ -43,14 +43,14 @@ This company is important because it shows telco-finance expansion beyond paymen
 ## 3. Why this page matters
 
 - Adds a FSA-listed insurance holding company absent from JapanFG.
-- Connects [[ndfg]] / NTT Docomo finance expansion with insurance regulation.
+- Connects [[megabanks/ndfg]] / NTT Docomo finance expansion with insurance regulation.
 - Helps separate insurance holding-company authorization from ordinary operating insurer pages.
 
 ## Related
 
-- [[ndfg]]
-- [[au-fh]]
-- [[paypay-fg]]
+- [[megabanks/ndfg]]
+- [[megabanks/au-fh]]
+- [[megabanks/paypay-fg]]
 - [[insurance/INDEX]]
 - [[financial-regulators/missing-financial-institutions-backlog]]
 

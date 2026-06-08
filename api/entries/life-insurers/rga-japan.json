@@ -52,46 +52,38 @@
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 14,
+    "wikilinks_count": 10,
     "wikilinks": [
-      "dai-ichi-life",
-      "gen-re-japan",
-      "hannover-re-japan",
       "insurance/INDEX",
       "life-insurers/INDEX",
       "life-insurers/aflac-japan",
-      "nippon-life",
+      "life-insurers/dai-ichi-life",
+      "life-insurers/nippon-life",
       "non-life-insurers/gen-re-japan",
       "non-life-insurers/hannover-re-japan",
+      "non-life-insurers/scor-japan",
       "non-life-insurers/swiss-re-japan",
-      "non-life-insurers/toa-reinsurance",
-      "scor-japan",
-      "swiss-re-japan",
-      "toa-reinsurance"
+      "non-life-insurers/toa-reinsurance"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/dai-ichi-life",
-      "https://finwiki.zksc.io/gen-re-japan",
-      "https://finwiki.zksc.io/hannover-re-japan",
       "https://finwiki.zksc.io/insurance/INDEX",
       "https://finwiki.zksc.io/life-insurers/INDEX",
       "https://finwiki.zksc.io/life-insurers/aflac-japan",
-      "https://finwiki.zksc.io/nippon-life",
+      "https://finwiki.zksc.io/life-insurers/dai-ichi-life",
+      "https://finwiki.zksc.io/life-insurers/nippon-life",
       "https://finwiki.zksc.io/non-life-insurers/gen-re-japan",
       "https://finwiki.zksc.io/non-life-insurers/hannover-re-japan",
+      "https://finwiki.zksc.io/non-life-insurers/scor-japan",
       "https://finwiki.zksc.io/non-life-insurers/swiss-re-japan",
-      "https://finwiki.zksc.io/non-life-insurers/toa-reinsurance",
-      "https://finwiki.zksc.io/scor-japan",
-      "https://finwiki.zksc.io/swiss-re-japan",
-      "https://finwiki.zksc.io/toa-reinsurance"
+      "https://finwiki.zksc.io/non-life-insurers/toa-reinsurance"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2805,
-    "word_like_tokens": 406,
-    "inbound_wikilinks_count": 5,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 2923,
+    "word_like_tokens": 425,
+    "inbound_wikilinks_count": 8,
+    "last_modified": "2026-06-08"
   }
 }

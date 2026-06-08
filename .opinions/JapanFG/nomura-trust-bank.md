@@ -12,7 +12,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## 推論 (from TL;DR)
 
-野村信託銀行は [[JapanFG/nomura-hd|野村 HD]] の trust-bank operating company。FSA の銀行免許リスト上は「野村信託銀行株式会社」として掲載され、**証券グループ系信託銀行**として 野村證券チャネルを銀行代理店・信託契約代理店とする securities-group bank model を持つ ^[extracted]。3 大信託（SMTB / MUTB / MTBJ）に比べ規模は小さく、預金 / ローン / 相続 / ラップ信託 / 従業員持株信託 / 資産流動化信託など、**証券チャネル付随の銀行・信託機能**に特化した「証券会社の銀行牌照アーム」というポジショニング ^[inferred]。
+野村信託銀行は [[securities-firms/nomura-hd|野村 HD]] の trust-bank operating company。FSA の銀行免許リスト上は「野村信託銀行株式会社」として掲載され、**証券グループ系信託銀行**として 野村證券チャネルを銀行代理店・信託契約代理店とする securities-group bank model を持つ ^[extracted]。3 大信託（SMTB / MUTB / MTBJ）に比べ規模は小さく、預金 / ローン / 相続 / ラップ信託 / 従業員持株信託 / 資産流動化信託など、**証券チャネル付随の銀行・信託機能**に特化した「証券会社の銀行牌照アーム」というポジショニング ^[inferred]。
 
 ## 推論 (from 1. 法人・ライセンス境界)
 
@@ -36,7 +36,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## 推論 (from 7. 監督・規制)
 
-- **G-SIB / D-SIB 指定**：なし（規模上）。ただし親 [[JapanFG/nomura-hd|野村 HD]] は **G-SIB Bucket 1（2024 リスト掲載）** ^[inferred]
+- **G-SIB / D-SIB 指定**：なし（規模上）。ただし親 [[securities-firms/nomura-hd|野村 HD]] は **G-SIB Bucket 1（2024 リスト掲載）** ^[inferred]
 
 ## 推論 (from 8. Counterpoints)
 

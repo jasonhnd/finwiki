@@ -37,13 +37,13 @@ E.SUN's Japan branch materials state that the bank operates in Tokyo and Fukuoka
 
 - Adds a newer Taiwan bank branch with a broader Japan regional footprint.
 - Links Tokyo / Fukuoka / Kumamoto corridor finance to the JapanFG map.
-- Complements [[bank-of-taiwan-japan]], [[mega-icbc-japan]], and [[ctbc-bank-japan]].
+- Complements [[foreign-financial-institutions/bank-of-taiwan-japan]], [[foreign-financial-institutions/mega-icbc-japan]], and [[foreign-financial-institutions/ctbc-bank-japan]].
 
 ## Related
 
-- [[bank-of-taiwan-japan]]
-- [[mega-icbc-japan]]
-- [[ctbc-bank-japan]]
+- [[foreign-financial-institutions/bank-of-taiwan-japan]]
+- [[foreign-financial-institutions/mega-icbc-japan]]
+- [[foreign-financial-institutions/ctbc-bank-japan]]
 - [[banking/foreign-bank-japan-retreat]]
 - [[banking/INDEX]]
 

@@ -79,8 +79,8 @@ If a B2B company will become "production-ready," look at downstream customers' p
 
 ## Related
 
-- [[regulatory-window-strategic-acquisition|規制ウィンドウ前の戦略的買収]]
-- [[protocol-renewal-trigger-as-event-anchor|契約更新トリガー]]
-- [[central-banking-function-unbundling|中央銀行機能の解体五層]]
+- [[fintech/regulatory-window-strategic-acquisition|規制ウィンドウ前の戦略的買収]]
+- [[fintech/protocol-renewal-trigger-as-event-anchor|契約更新トリガー]]
+- [[fintech/central-banking-function-unbundling|中央銀行機能の解体五層]]
 
 ---

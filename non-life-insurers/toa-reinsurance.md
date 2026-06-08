@@ -49,9 +49,9 @@ Reinsurance redistributes catastrophe, mortality / morbidity, liability, and lar
 ## Related
 
 - [[insurance/natcat-reinsurance-japan]]
-- [[japan-earthquake-reinsurance]]
-- [[tokio-marine-nichido-fire]]
-- [[sompo-japan-insurance]]
+- [[non-life-insurers/japan-earthquake-reinsurance]]
+- [[non-life-insurers/tokio-marine-nichido-fire]]
+- [[non-life-insurers/sompo-japan-insurance]]
 - [[insurance/INDEX]]
 
 ## Sources

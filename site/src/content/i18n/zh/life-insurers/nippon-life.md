@@ -31,7 +31,7 @@ translated_at: 2026-06-01T00:41:50.460Z
 
 ### 形态特征：相互会社
 
-- 不是股份公司，而是**相互会社**（《保险业法》上的特别法人）。日本很多大型生保公司曾采用该形态，但近年来股份公司化推进（[[dai-ichi-life]] 2010  / 大同生命 2002  等），日生则**传统上维持相互会社形态**。
+- 不是股份公司，而是**相互会社**（《保险业法》上的特别法人）。日本很多大型生保公司曾采用该形态，但近年来股份公司化推进（[[life-insurers/dai-ichi-life]] 2010  / 大同生命 2002  等），日生则**传统上维持相互会社形态**。
 - 不存在股东，**保险投保人 = 社员**，并接受盈余分红。
 - 没有上市义务，外部资本筹措通过基金（kikin，相当于股份的社员账户）和次级债实施。
 - 不存在有价证券报告书，披露文件主要是“决算公告”“披露志”“基础数值”。
@@ -141,7 +141,7 @@ translated_at: 2026-06-01T00:41:50.460Z
 
 ### 国内竞争
 
-- 直接竞争：[[dai-ichi-life]]（第一生命 HD，上市股份公司，FY2024  纯利润 4,296 億円）/ 明治安田生命（相互会社）/ 住友生命（相互会社）/ かんぽ生命（[[megabanks/nippon-post|japan-post]] 系上市）
+- 直接竞争：[[life-insurers/dai-ichi-life]]（第一生命 HD，上市股份公司，FY2024  纯利润 4,296 億円）/ 明治安田生命（相互会社）/ 住友生命（相互会社）/ かんぽ生命（[[megabanks/nippon-post|japan-post]] 系上市）
 - **日生 vs 第一生命**：FY2024  中，纯盈余 / 纯利润几乎同水平（日生 4,354 億円 vs 第一 HD 4,296 億円），规模上日生仍为 1 位，但第一生命于 2010  股份公司化 → 在 M&A 机动性上领先；日生保持相互会社形态同时急速加快海外 M&A → 战略对比鲜明。
 - **“日生阿姨”模式**与明治安田、住友生命类似，但规模上日生居首。
 
@@ -163,7 +163,7 @@ translated_at: 2026-06-01T00:41:50.460Z
 
 ## Related
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[dai-ichi-life]] · [[megabanks/nippon-post|japan-post]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[life-insurers/dai-ichi-life]] · [[megabanks/nippon-post|japan-post]]
 - [[insurance/mutual-vs-stock-life-insurer]] · [[insurance/esr-economic-value-solvency]]
 
 ## Sources

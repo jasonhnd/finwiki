@@ -74,8 +74,8 @@ Akatsuki Head Office (Holding company/Listed company)8737）
 
 ## Related
 
-- [[nomura-hd]]·[[securities-firms/daiwa-sg|daiwa-securities-group]]·[[securities-firms/okasan-sg|okasan-securities]]·[[tokai-tokyo-fh]]·[[securities-firms/matsui-sec|matsui-securities]]
-- [[mufg]]·[[smfg]]·[[mizuho-fg]](compared to major companies)
+- [[securities-firms/nomura-hd]]·[[securities-firms/daiwa-sg|daiwa-securities-group]]·[[securities-firms/okasan-sg|okasan-securities]]·[[securities-firms/tokai-tokyo-fh]]·[[securities-firms/matsui-sec|matsui-securities]]
+- [[megabanks/mufg]]·[[megabanks/smfg]]·[[megabanks/mizuho-fg]](compared to major companies)
 
 ## Sources
 

@@ -53,38 +53,38 @@
   "body_links": {
     "wikilinks_count": 11,
     "wikilinks": [
-      "em-market-crypto-dollarization-pattern",
       "fintech/INDEX",
       "fintech/bis-project-guardian-overview",
+      "fintech/em-market-crypto-dollarization-pattern",
       "fintech/hkma-stablecoin-licensing-overview",
       "fintech/japan-financial-regulation",
       "fintech/japan-stablecoin-regulatory-landscape",
+      "fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage",
+      "fintech/regulatory-window-strategic-acquisition",
       "fintech/singapore-mas-payment-services-act-overview",
       "fintech/sovereign-capital-pool-aramco-anchor",
-      "occ-trust-bank-charter-federal-stablecoin-arbitrage",
-      "regulatory-window-strategic-acquisition",
-      "tether-business-model-short-treasury-yield"
+      "fintech/tether-business-model-short-treasury-yield"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/em-market-crypto-dollarization-pattern",
       "https://finwiki.zksc.io/fintech/INDEX",
       "https://finwiki.zksc.io/fintech/bis-project-guardian-overview",
+      "https://finwiki.zksc.io/fintech/em-market-crypto-dollarization-pattern",
       "https://finwiki.zksc.io/fintech/hkma-stablecoin-licensing-overview",
       "https://finwiki.zksc.io/fintech/japan-financial-regulation",
       "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
+      "https://finwiki.zksc.io/fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage",
+      "https://finwiki.zksc.io/fintech/regulatory-window-strategic-acquisition",
       "https://finwiki.zksc.io/fintech/singapore-mas-payment-services-act-overview",
       "https://finwiki.zksc.io/fintech/sovereign-capital-pool-aramco-anchor",
-      "https://finwiki.zksc.io/occ-trust-bank-charter-federal-stablecoin-arbitrage",
-      "https://finwiki.zksc.io/regulatory-window-strategic-acquisition",
-      "https://finwiki.zksc.io/tether-business-model-short-treasury-yield"
+      "https://finwiki.zksc.io/fintech/tether-business-model-short-treasury-yield"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3638,
-    "word_like_tokens": 603,
+    "nonspace_chars": 3670,
+    "word_like_tokens": 607,
     "inbound_wikilinks_count": 14,
-    "last_modified": "2026-06-01"
+    "last_modified": "2026-06-08"
   }
 }

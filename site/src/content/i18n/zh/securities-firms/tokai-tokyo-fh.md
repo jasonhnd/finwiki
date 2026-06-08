@@ -15,7 +15,7 @@ translated_at: 2026-06-01T02:31:57.130Z
 
 ## 摘要
 
-东海东京 FH 是以中京（名古屋）为本拠的**中坚独立系证券控股公司**。2009-04-01 以东海东京证券为中心转为控股公司体制。其最大战略特征是**与地方银行的合资证券模式**，包括西日本 City TT 证券、池田泉州 TT 证券、福井银行 TT 证券、浜银 TT 证券、栃银 TT 证券、爱媛银行系、四国 Alliance 系等，和众多区域银行设立 JV，确立了补完地银证券功能的“区域合作型混合证券”模式。**竞争对手**包括同属名古屋系的 [[okasan-sg]]（冈三证券集团）以及面对面 5  大证券公司。东证 PRIME 8616。
+东海东京 FH 是以中京（名古屋）为本拠的**中坚独立系证券控股公司**。2009-04-01 以东海东京证券为中心转为控股公司体制。其最大战略特征是**与地方银行的合资证券模式**，包括西日本 City TT 证券、池田泉州 TT 证券、福井银行 TT 证券、浜银 TT 证券、栃银 TT 证券、爱媛银行系、四国 Alliance 系等，和众多区域银行设立 JV，确立了补完地银证券功能的“区域合作型混合证券”模式。**竞争对手**包括同属名古屋系的 [[securities-firms/okasan-sg]]（冈三证券集团）以及面对面 5  大证券公司。东证 PRIME 8616。
 
 ## 1. 公司概要
 
@@ -36,8 +36,8 @@ translated_at: 2026-06-01T02:31:57.130Z
   ├── 东海东京 Asset Management ── 投信运用
   ├── 东海东京 Wealth Consulting ── 富裕层 PB
   ├── 地银合资证券（主要 JV）
-  │     ├── 西日本 City TT 证券（西日本 City 银行 = [[fukuoka-fg]]）
-  │     ├── 浜银 TT 证券（横滨银行 = [[concordia-fg]]）
+  │     ├── 西日本 City TT 证券（西日本 City 银行 = [[regional-banks/fukuoka-fg]]）
+  │     ├── 浜银 TT 证券（横滨银行 = [[regional-banks/concordia-fg]]）
   │     ├── 池田泉州 TT 证券（池田泉州 HD）
   │     ├── 福井银行 TT 证券（福井银行）
   │     ├── とちぎん TT 证券（栃木银行）
@@ -66,9 +66,9 @@ translated_at: 2026-06-01T02:31:57.130Z
 
 ### 行业内定位
 
-- 位于**面对面 5  大证券公司**（野村 / 大和 / [[mufg]] MUMSS / SMBC 日兴 / 瑞穗）之下，但在**中坚独立系中位于顶级**
+- 位于**面对面 5  大证券公司**（野村 / 大和 / [[megabanks/mufg]] MUMSS / SMBC 日兴 / 瑞穗）之下，但在**中坚独立系中位于顶级**
 - 在**中京经济圈**（名古屋、爱知、三重、岐阜）是**本地最大独立证券**
-- 同属名古屋系的竞争对手 = [[okasan-sg]]（冈三证券集团）。两家公司构成“中京 2  强”
+- 同属名古屋系的竞争对手 = [[securities-firms/okasan-sg]]（冈三证券集团）。两家公司构成“中京 2  强”
 
 ### 地银合资模式（最大差异化）
 
@@ -100,13 +100,13 @@ translated_at: 2026-06-01T02:31:57.130Z
 
 | 竞争对手 | 关系 |
 |---|---|
-| [[okasan-sg]]（冈三证券集团） | **直接竞争**。同属名古屋系、中坚独立系、中京 2  强。在部分地银合作中也竞争 |
+| [[securities-firms/okasan-sg]]（冈三证券集团） | **直接竞争**。同属名古屋系、中坚独立系、中京 2  强。在部分地银合作中也竞争 |
 | 野村 HD | 全国面对面 No.1，规模压倒性 |
 | 大和 HD | 同为 5  大面对面证券，在中坚企业 IPO 中竞争 |
-| [[mufg]] MUMSS | megabank 系 / Morgan Stanley JV，在地银合作中也竞争 |
-| SMBC 日兴（[[smfg]]） | megabank 系，地银合作 / 面对面竞争 |
-| 瑞穗证券（[[mizuho-fg]]） | megabank 系 |
-| [[sbi-hd]] / 乐天证券 | 网络系，零售手续费竞争 |
+| [[megabanks/mufg]] MUMSS | megabank 系 / Morgan Stanley JV，在地银合作中也竞争 |
+| SMBC 日兴（[[megabanks/smfg]]） | megabank 系，地银合作 / 面对面竞争 |
+| 瑞穗证券（[[megabanks/mizuho-fg]]） | megabank 系 |
+| [[megabanks/sbi-hd]] / 乐天证券 | 网络系，零售手续费竞争 |
 
 定位：“**不是 megabank 系，但也不是地银单独，第 3  的证券基础设施**”
 
@@ -121,10 +121,10 @@ translated_at: 2026-06-01T02:31:57.130Z
 
 ## 相关
 
-- [[okasan-sg]]（冈三证券 G，中京 2  强的同乡竞争者）
-- [[mufg]] · [[smfg]] · [[mizuho-fg]]（megabank 系证券子公司竞争）
-- [[sbi-hd]]（网络证券系）
-- [[fukuoka-fg]] · [[concordia-fg]]（部分地银 JV 合作方）
+- [[securities-firms/okasan-sg]]（冈三证券 G，中京 2  强的同乡竞争者）
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]（megabank 系证券子公司竞争）
+- [[megabanks/sbi-hd]]（网络证券系）
+- [[regional-banks/fukuoka-fg]] · [[regional-banks/concordia-fg]]（部分地银 JV 合作方）
 
 ## 来源
 

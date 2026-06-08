@@ -36,7 +36,7 @@ JF Marine Bank system (3 -layer structure)
                 ↓ surplus-fund deposits
   Layer 2: 10  Shingyoren (regional / prefectural intermediate layer) ★ this page
                 ↓ surplus-fund deposits
-  Layer 3: 1  Norinchukin Bank (central) → [[norinchukin]]
+  Layer 3: 1  Norinchukin Bank (central) → [[cooperative-banks/norinchukin]]
                 ↓ institutional investment / system return
 ```
 

@@ -111,9 +111,9 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it against [[fintech
 
 ## 关联
 
-- [[tether-business-model-short-treasury-yield|Tether 短期国債収益モデル]]
-- [[em-market-crypto-dollarization-pattern|新興市場ドル化パターン]]
-- [[occ-trust-bank-charter-federal-stablecoin-arbitrage|OCC charter アービトラージ]]
-- [[regulatory-window-strategic-acquisition|規制ウィンドウ前の戦略的買収]]
+- [[fintech/tether-business-model-short-treasury-yield|Tether 短期国債収益モデル]]
+- [[fintech/em-market-crypto-dollarization-pattern|新興市場ドル化パターン]]
+- [[fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage|OCC charter アービトラージ]]
+- [[fintech/regulatory-window-strategic-acquisition|規制ウィンドウ前の戦略的買収]]
 
 ---

@@ -69,12 +69,12 @@ translated_at: 2026-05-31T23:59:49.367Z
 
 | 竞争对手 | 业态 |
 |---|---|
-| [[aflac-japan]] | 外资寿险，癌症保险与第三领域产品在日本国内居首位级别 |
-| [[prudential-japan]] | 外资寿险，life planner（LP）专属销售人员模型 |
-| [[sony-fg]] / Sony Life | 日本本土系，life planner 模型 |
-| [[axa-japan]] | 外资寿险，团体与个人多险种 |
-| [[manulife-japan]] | 外资寿险，外币计价保险 |
-| [[nippon-life]] / [[dai-ichi-life]] / [[life-insurers/meiji-yasuda|meiji-yasuda-life]] / [[sumitomo-life]] | 日系 4  大寿险，销售人员模型 |
+| [[life-insurers/aflac-japan]] | 外资寿险，癌症保险与第三领域产品在日本国内居首位级别 |
+| [[life-insurers/prudential-japan]] | 外资寿险，life planner（LP）专属销售人员模型 |
+| [[megabanks/sony-fg]] / Sony Life | 日本本土系，life planner 模型 |
+| [[life-insurers/axa-japan]] | 外资寿险，团体与个人多险种 |
+| [[life-insurers/manulife-japan]] | 外资寿险，外币计价保险 |
+| [[life-insurers/nippon-life]] / [[life-insurers/dai-ichi-life]] / [[life-insurers/meiji-yasuda|meiji-yasuda-life]] / [[life-insurers/sumitomo-life]] | 日系 4  大寿险，销售人员模型 |
 | 网络系 | Lifenet Life / AXA Direct Life 等，低价、直销 |
 
 ## 4. 监管与政策
@@ -87,9 +87,9 @@ translated_at: 2026-05-31T23:59:49.367Z
 
 ## Related
 
-- [[aflac-japan]] · [[prudential-japan]] · [[sony-fg]] · [[axa-japan]] · [[manulife-japan]]
-- [[nippon-life]] · [[dai-ichi-life]] · [[life-insurers/meiji-yasuda|meiji-yasuda-life]] · [[sumitomo-life]]
-- [[mufg]]（银行窗口销售合作）· [[smfg]] · [[mizuho-fg]]
+- [[life-insurers/aflac-japan]] · [[life-insurers/prudential-japan]] · [[megabanks/sony-fg]] · [[life-insurers/axa-japan]] · [[life-insurers/manulife-japan]]
+- [[life-insurers/nippon-life]] · [[life-insurers/dai-ichi-life]] · [[life-insurers/meiji-yasuda|meiji-yasuda-life]] · [[life-insurers/sumitomo-life]]
+- [[megabanks/mufg]]（银行窗口销售合作）· [[megabanks/smfg]] · [[megabanks/mizuho-fg]]
 
 ## Sources
 

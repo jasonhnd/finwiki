@@ -113,7 +113,7 @@ Aozora Bank (listed operating company, not a holding company, 8304)
 ## 4. Regulation / policy
 
 - **Supervisor**: Financial Services Agency (FSA).
-- **Historical positioning**: One of the few surviving independent lines from Japan's former long-term credit bank system, contrasted with lines that fed into [[mizuho-fg]] and [[sbi-hd]].
+- **Historical positioning**: One of the few surviving independent lines from Japan's former long-term credit bank system, contrasted with lines that fed into [[megabanks/mizuho-fg]] and [[megabanks/sbi-hd]].
 - **Deposit Insurance Corporation**: the entity associated with special public management at the time of the `1998-12` failure.
 - **Current policy issues**:
   - normalization of the Bank of Japan policy-rate environment and its effect on domestic interest margins;
@@ -121,11 +121,11 @@ Aozora Bank (listed operating company, not a holding company, 8304)
 
 ## Related
 
-- [[sbi-hd]]
-- [[mufg]]
-- [[smfg]]
-- [[mizuho-fg]]
-- [[ndfg]]
+- [[megabanks/sbi-hd]]
+- [[megabanks/mufg]]
+- [[megabanks/smfg]]
+- [[megabanks/mizuho-fg]]
+- [[megabanks/ndfg]]
 
 ## Sources
 

@@ -14,9 +14,9 @@ last_updated: 2026-05-26
 last_tended: 2026-05-26
 review_by: 2026-11-08
 related:
-  - "[[bytecode-forensic-three-tier-verify]]"
-  - "[[fork-and-rebrand-5-layer-audit-framework]]"
-  - "[[module-path-confusion-supply-chain-attack]]"
+  - "[[security/bytecode-forensic-three-tier-verify]]"
+  - "[[security/fork-and-rebrand-5-layer-audit-framework]]"
+  - "[[security/module-path-confusion-supply-chain-attack]]"
 tags: [security/forensic, security/identity, security/dd]
 sources:
   - "https://certificate.transparency.dev/"

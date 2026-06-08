@@ -47,32 +47,30 @@
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 7,
+    "wikilinks_count": 6,
     "wikilinks": [
-      "77-bank",
       "banking/INDEX",
       "banking/regional-bank-consolidation-pattern",
-      "jimoto-hd",
-      "kirayaka-bank",
+      "regional-banks/77-bank",
       "regional-banks/INDEX",
+      "regional-banks/jimoto-hd",
       "regional-banks/kirayaka-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/77-bank",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
-      "https://finwiki.zksc.io/jimoto-hd",
-      "https://finwiki.zksc.io/kirayaka-bank",
+      "https://finwiki.zksc.io/regional-banks/77-bank",
       "https://finwiki.zksc.io/regional-banks/INDEX",
+      "https://finwiki.zksc.io/regional-banks/jimoto-hd",
       "https://finwiki.zksc.io/regional-banks/kirayaka-bank"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1778,
-    "word_like_tokens": 281,
+    "nonspace_chars": 1928,
+    "word_like_tokens": 301,
     "inbound_wikilinks_count": 3,
-    "last_modified": "2026-06-06"
+    "last_modified": "2026-06-08"
   }
 }

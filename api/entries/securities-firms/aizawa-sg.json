@@ -49,42 +49,40 @@
     "海外戦略"
   ],
   "body_links": {
-    "wikilinks_count": 12,
+    "wikilinks_count": 11,
     "wikilinks": [
-      "daiwa-sg",
-      "iwai-cosmo-hd",
-      "matsui-sec",
-      "monex-group",
-      "ndfg",
-      "okasan-sg",
-      "sbi-hd",
+      "megabanks/ndfg",
+      "megabanks/sbi-hd",
       "securities-firms/INDEX",
+      "securities-firms/daiwa-sg",
+      "securities-firms/iwai-cosmo-hd",
+      "securities-firms/matsui-sec",
+      "securities-firms/monex-group",
       "securities-firms/okasan-sg",
-      "securities/INDEX",
-      "smbc-nikko",
-      "tokai-tokyo-fh"
+      "securities-firms/smbc-nikko",
+      "securities-firms/tokai-tokyo-fh",
+      "securities/INDEX"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/daiwa-sg",
-      "https://finwiki.zksc.io/iwai-cosmo-hd",
-      "https://finwiki.zksc.io/matsui-sec",
-      "https://finwiki.zksc.io/monex-group",
-      "https://finwiki.zksc.io/ndfg",
-      "https://finwiki.zksc.io/okasan-sg",
-      "https://finwiki.zksc.io/sbi-hd",
+      "https://finwiki.zksc.io/megabanks/ndfg",
+      "https://finwiki.zksc.io/megabanks/sbi-hd",
       "https://finwiki.zksc.io/securities-firms/INDEX",
+      "https://finwiki.zksc.io/securities-firms/daiwa-sg",
+      "https://finwiki.zksc.io/securities-firms/iwai-cosmo-hd",
+      "https://finwiki.zksc.io/securities-firms/matsui-sec",
+      "https://finwiki.zksc.io/securities-firms/monex-group",
       "https://finwiki.zksc.io/securities-firms/okasan-sg",
-      "https://finwiki.zksc.io/securities/INDEX",
-      "https://finwiki.zksc.io/smbc-nikko",
-      "https://finwiki.zksc.io/tokai-tokyo-fh"
+      "https://finwiki.zksc.io/securities-firms/smbc-nikko",
+      "https://finwiki.zksc.io/securities-firms/tokai-tokyo-fh",
+      "https://finwiki.zksc.io/securities/INDEX"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3600,
-    "word_like_tokens": 523,
-    "inbound_wikilinks_count": 10,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 4004,
+    "word_like_tokens": 570,
+    "inbound_wikilinks_count": 13,
+    "last_modified": "2026-06-08"
   }
 }

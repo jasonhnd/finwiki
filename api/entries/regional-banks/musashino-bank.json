@@ -48,42 +48,40 @@
     "TSUBASA アライアンス参加（2015〜）"
   ],
   "body_links": {
-    "wikilinks_count": 12,
+    "wikilinks_count": 11,
     "wikilinks": [
       "banking/INDEX",
-      "chiba-bank",
-      "concordia-fg",
-      "fukuoka-fg",
-      "gunma-bank",
-      "hokuhoku-fg",
-      "mizuho-fg",
-      "mufg",
+      "megabanks/mizuho-fg",
+      "megabanks/mufg",
+      "megabanks/resona-hd",
+      "megabanks/smfg",
       "regional-banks/INDEX",
+      "regional-banks/chiba-bank",
+      "regional-banks/concordia-fg",
       "regional-banks/fukuoka-fg",
-      "resona-hd",
-      "smfg"
+      "regional-banks/gunma-bank",
+      "regional-banks/hokuhoku-fg"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/chiba-bank",
-      "https://finwiki.zksc.io/concordia-fg",
-      "https://finwiki.zksc.io/fukuoka-fg",
-      "https://finwiki.zksc.io/gunma-bank",
-      "https://finwiki.zksc.io/hokuhoku-fg",
-      "https://finwiki.zksc.io/mizuho-fg",
-      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/resona-hd",
+      "https://finwiki.zksc.io/megabanks/smfg",
       "https://finwiki.zksc.io/regional-banks/INDEX",
+      "https://finwiki.zksc.io/regional-banks/chiba-bank",
+      "https://finwiki.zksc.io/regional-banks/concordia-fg",
       "https://finwiki.zksc.io/regional-banks/fukuoka-fg",
-      "https://finwiki.zksc.io/resona-hd",
-      "https://finwiki.zksc.io/smfg"
+      "https://finwiki.zksc.io/regional-banks/gunma-bank",
+      "https://finwiki.zksc.io/regional-banks/hokuhoku-fg"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2789,
-    "word_like_tokens": 407,
-    "inbound_wikilinks_count": 0,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 3019,
+    "word_like_tokens": 436,
+    "inbound_wikilinks_count": 1,
+    "last_modified": "2026-06-08"
   }
 }

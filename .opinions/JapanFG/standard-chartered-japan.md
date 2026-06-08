@@ -24,7 +24,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## 推論 (from 日本での競争・棲み分け)
 
-- **邦銀の新興国コルレス機能**: [[mufg]] / [[smfg]] / [[mizuho-fg]] が自前で拠点を持ちにくい南アジア・アフリカ・中東向け送金・トレード決済の中継先として機能 ^[inferred]
+- **邦銀の新興国コルレス機能**: [[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]] が自前で拠点を持ちにくい南アジア・アフリカ・中東向け送金・トレード決済の中継先として機能 ^[inferred]
 
 ## 推論 (from トランジション・ファイナンス / ESG)
 
@@ -41,13 +41,13 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 ## Counterpoints
 
 - 「日本での存在感は薄い」: リテール非展開・法人専業のため一般認知は低く、邦銀職員以外には目立たない ^[inferred]
-- 「邦銀コルレス機能の代替性」: [[hsbc-japan]] や Citi も似た機能を提供 → 唯一無二ではないが、AMEA 深度は強み ^[ambiguous]
+- 「邦銀コルレス機能の代替性」: [[foreign-financial-institutions/hsbc-japan]] や Citi も似た機能を提供 → 唯一無二ではないが、AMEA 深度は強み ^[ambiguous]
 - 「日本市場の収益貢献度」: 親会社 PLC 全体に占める日本拠点の収益シェアは小さい（推定）^[inferred]
 - 「スタンダードチャータード証券の現況」: 在京の証券子会社は一部時期に存在したが、現在の活動状況は不透明 ^[ambiguous]
 
 ## Open questions
 
 - 日本拠点の従業員規模・収益規模の最新公開数値は？（外国銀行支店ベース報告書を要参照）
-- 邦銀向けコルレス取引における [[mufg]] / [[smfg]] / [[mizuho-fg]] それぞれとの提携関係の深さは？
+- 邦銀向けコルレス取引における [[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]] それぞれとの提携関係の深さは？
 - 親会社 PLC の AMEA 戦略再強化（2024〜）は日本拠点の業務範囲をどう変えるか？
 - スタンダードチャータード証券（日本法人）の現況・継続有無は？

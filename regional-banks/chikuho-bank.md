@@ -23,7 +23,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-株式会社筑邦銀行は、金融庁の銀行免許一覧に掲載される福岡県久留米市本店の地方銀行。Fukuoka prefecture local / Chikugo-area regional-bank operating-company anchor であり、[[fukuoka-bank]] and [[nishi-nippon-city-bank]] とは別法人の peer として扱う。
+株式会社筑邦銀行は、金融庁の銀行免許一覧に掲載される福岡県久留米市本店の地方銀行。Fukuoka prefecture local / Chikugo-area regional-bank operating-company anchor であり、[[regional-banks/fukuoka-bank]] and [[regional-banks/nishi-nippon-city-bank]] とは別法人の peer として扱う。
 
 ## 1. License / group boundary
 
@@ -37,19 +37,19 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## 2. Operating model
 
-筑邦銀行は、福岡県南部を中心に retail deposits, SME finance, local relationship banking, and Chikugo-area business support を担う regional bank。福岡県内では large-bank peers の [[fukuoka-bank]] / [[nishi-nippon-city-bank]] と別の local-bank boundary を持つ。Kyushu regional-bank consolidation context は [[banking/regional-bank-consolidation-pattern]] と [[banking/INDEX|banking index]] を参照。
+筑邦銀行は、福岡県南部を中心に retail deposits, SME finance, local relationship banking, and Chikugo-area business support を担う regional bank。福岡県内では large-bank peers の [[regional-banks/fukuoka-bank]] / [[regional-banks/nishi-nippon-city-bank]] と別の local-bank boundary を持つ。Kyushu regional-bank consolidation context は [[banking/regional-bank-consolidation-pattern]] と [[banking/INDEX|banking index]] を参照。
 
 ## 3. Why this page matters
 
 - Closes the FSA exact-name operating-company gap for 筑邦銀行.
 - Separates Chikugo-area bank coverage from Fukuoka city-centered groups.
-- Provides a peer anchor for [[sbi-regional-bank-hd]] regional-bank investment context.
+- Provides a peer anchor for [[megabanks/sbi-regional-bank-hd]] regional-bank investment context.
 
 ## Related
 
-- [[fukuoka-bank]]
-- [[nishi-nippon-city-bank]]
-- [[sbi-regional-bank-hd]]
+- [[regional-banks/fukuoka-bank]]
+- [[regional-banks/nishi-nippon-city-bank]]
+- [[megabanks/sbi-regional-bank-hd]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 

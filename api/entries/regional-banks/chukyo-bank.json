@@ -57,44 +57,44 @@
   "body_links": {
     "wikilinks_count": 14,
     "wikilinks": [
-      "aichi-bank",
-      "aichi-fg",
       "banking/INDEX",
       "banking/regional-bank-consolidation-pattern",
-      "hyakugo-bank",
-      "hyakujushi-bank",
-      "juroku-bank",
-      "juroku-fg",
-      "nagoya-bank",
-      "ogaki-kyoritsu-bank",
+      "financial-regulators/zenshin-kyo",
       "regional-banks/INDEX",
-      "san-jusan-bank",
-      "san-jusan-fg",
-      "zenshin-kyo"
+      "regional-banks/aichi-bank",
+      "regional-banks/aichi-fg",
+      "regional-banks/hyakugo-bank",
+      "regional-banks/hyakujushi-bank",
+      "regional-banks/juroku-bank",
+      "regional-banks/juroku-fg",
+      "regional-banks/nagoya-bank",
+      "regional-banks/ogaki-kyoritsu-bank",
+      "regional-banks/san-jusan-bank",
+      "regional-banks/san-jusan-fg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/aichi-bank",
-      "https://finwiki.zksc.io/aichi-fg",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
-      "https://finwiki.zksc.io/hyakugo-bank",
-      "https://finwiki.zksc.io/hyakujushi-bank",
-      "https://finwiki.zksc.io/juroku-bank",
-      "https://finwiki.zksc.io/juroku-fg",
-      "https://finwiki.zksc.io/nagoya-bank",
-      "https://finwiki.zksc.io/ogaki-kyoritsu-bank",
+      "https://finwiki.zksc.io/financial-regulators/zenshin-kyo",
       "https://finwiki.zksc.io/regional-banks/INDEX",
-      "https://finwiki.zksc.io/san-jusan-bank",
-      "https://finwiki.zksc.io/san-jusan-fg",
-      "https://finwiki.zksc.io/zenshin-kyo"
+      "https://finwiki.zksc.io/regional-banks/aichi-bank",
+      "https://finwiki.zksc.io/regional-banks/aichi-fg",
+      "https://finwiki.zksc.io/regional-banks/hyakugo-bank",
+      "https://finwiki.zksc.io/regional-banks/hyakujushi-bank",
+      "https://finwiki.zksc.io/regional-banks/juroku-bank",
+      "https://finwiki.zksc.io/regional-banks/juroku-fg",
+      "https://finwiki.zksc.io/regional-banks/nagoya-bank",
+      "https://finwiki.zksc.io/regional-banks/ogaki-kyoritsu-bank",
+      "https://finwiki.zksc.io/regional-banks/san-jusan-bank",
+      "https://finwiki.zksc.io/regional-banks/san-jusan-fg"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4597,
-    "word_like_tokens": 800,
+    "nonspace_chars": 5143,
+    "word_like_tokens": 872,
     "inbound_wikilinks_count": 3,
-    "last_modified": "2026-06-06"
+    "last_modified": "2026-06-08"
   }
 }

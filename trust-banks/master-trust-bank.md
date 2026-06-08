@@ -30,7 +30,7 @@ This entry sits under [[trust-banks/INDEX|trust-banks INDEX]]. Read it against [
 
 ## TL;DR
 
-日本最大の資産管理専業信託銀行（預かり資産残高 **770 兆円** / 2025-03 末・2024 年度決算）。2000-05 設立、[[mufg]] 系 + 生損保連合（[[nippon-life]]・[[meiji-yasuda]]・[[norinchukin]]）の合弁。**「日本マスタートラスト信託銀行（信託口）」名義で上場企業有報の主要株主筆頭に頻出** — 但し実際の受益者は年金基金・機関投資家・投信ファンドで、議決権行使指図は委託者側にある。**カストディ + 年金信託 + 有価証券管理 専業**で、融資・預金は事実上扱わない。競合 [[custody-bank]]（日本カストディ銀行）と並び日本の証券保管インフラ 2 強体制を構成。^[extracted]
+日本最大の資産管理専業信託銀行（預かり資産残高 **770 兆円** / 2025-03 末・2024 年度決算）。2000-05 設立、[[megabanks/mufg]] 系 + 生損保連合（[[life-insurers/nippon-life]]・[[life-insurers/meiji-yasuda]]・[[cooperative-banks/norinchukin]]）の合弁。**「日本マスタートラスト信託銀行（信託口）」名義で上場企業有報の主要株主筆頭に頻出** — 但し実際の受益者は年金基金・機関投資家・投信ファンドで、議決権行使指図は委託者側にある。**カストディ + 年金信託 + 有価証券管理 専業**で、融資・預金は事実上扱わない。競合 [[trust-banks/custody-bank]]（日本カストディ銀行）と並び日本の証券保管インフラ 2 強体制を構成。^[extracted]
 
 ## 1. 会社概要
 
@@ -45,10 +45,10 @@ This entry sits under [[trust-banks/INDEX|trust-banks INDEX]]. Read it against [
 
 | 株主 | 比率 |
 |---|---|
-| 三菱 UFJ 信託銀行（[[mufg]] 100% 子会社）| **46.5%** |
-| 日本生命保険（[[nippon-life]]）| **33.5%** |
-| 明治安田生命保険（[[meiji-yasuda]]）| **10.0%** |
-| 農中信託銀行（[[norinchukin]] 系）| **10.0%** |
+| 三菱 UFJ 信託銀行（[[megabanks/mufg]] 100% 子会社）| **46.5%** |
+| 日本生命保険（[[life-insurers/nippon-life]]）| **33.5%** |
+| 明治安田生命保険（[[life-insurers/meiji-yasuda]]）| **10.0%** |
+| 農中信託銀行（[[cooperative-banks/norinchukin]] 系）| **10.0%** |
 
 ### 機能ポジション
 
@@ -69,7 +69,7 @@ This entry sits under [[trust-banks/INDEX|trust-banks INDEX]]. Read it against [
 |---|---|
 | **2000-05** | **日本マスタートラスト信託銀行 設立** — 旧 三菱信託銀行 + 日本生命 + 明治生命 + 安田生命 等の合弁、資産管理専業信託として |
 | 2000〜2005 | 年金信託受託拡大（厚生年金基金代行返上対応含む）|
-| 2005-10 | [[mufg]] 発足（三菱信託 → 三菱 UFJ 信託）に伴い親会社統合 |
+| 2005-10 | [[megabanks/mufg]] 発足（三菱信託 → 三菱 UFJ 信託）に伴い親会社統合 |
 | 2010-04 | 明治安田生命合併（旧 明治生命 + 安田生命）→ 株主構成整理 |
 | 2010 年代 | 受託資産急増（GPIF 含む年金資産・外国人投資家経由日本株保有拡大）|
 | 2020 年代 | カストディ DX / コーポレートアクション電子化 / 議決権電子行使対応 |
@@ -91,10 +91,10 @@ This entry sits under [[trust-banks/INDEX|trust-banks INDEX]]. Read it against [
 
 | 機関 | 系列 | 設立 | 主要株主 |
 |---|---|---|---|
-| **日本マスタートラスト信託銀行** | [[mufg]] + 生保連合 | 2000-05 | 三菱 UFJ 信託 46.5% / 日本生命 33.5% / 明治安田 10% / 農中信託 10% |
-| **[[custody-bank]]（日本カストディ銀行）** | [[sumitomo-mitsui-trust]] + [[mizuho-fg]] + りそな 系 | 2020-07 | 旧 日本トラスティ・サービス信託 + 資産管理サービス信託 統合 |
+| **日本マスタートラスト信託銀行** | [[megabanks/mufg]] + 生保連合 | 2000-05 | 三菱 UFJ 信託 46.5% / 日本生命 33.5% / 明治安田 10% / 農中信託 10% |
+| **[[trust-banks/custody-bank]]（日本カストディ銀行）** | [[trust-banks/sumitomo-mitsui-trust]] + [[megabanks/mizuho-fg]] + りそな 系 | 2020-07 | 旧 日本トラスティ・サービス信託 + 資産管理サービス信託 統合 |
 
-> [[custody-bank]] は 2020-07 に旧 JTSB（日本トラスティ・サービス信託）+ JTC HD 系の資産管理サービス信託銀行（TCSB）を統合して発足。三井住友信託 + みずほ信託 + りそな等の合弁。マスタートラストと並び日本のカストディ 2 強。^[extracted]
+> [[trust-banks/custody-bank]] は 2020-07 に旧 JTSB（日本トラスティ・サービス信託）+ JTC HD 系の資産管理サービス信託銀行（TCSB）を統合して発足。三井住友信託 + みずほ信託 + りそな等の合弁。マスタートラストと並び日本のカストディ 2 強。^[extracted]
 
 ### 「信託口」名義の意味
 
@@ -127,12 +127,12 @@ This entry sits under [[trust-banks/INDEX|trust-banks INDEX]]. Read it against [
 
 ## Related
 
-- [[mufg]] — 親会社系列、三菱 UFJ 信託銀行 100% 子会社が 46.5% 株主
-- [[custody-bank]] — 主要競合（日本カストディ銀行、2020-07 発足）
-- [[nippon-life]] — 主要株主 33.5%
-- [[meiji-yasuda]] — 主要株主 10%
-- [[norinchukin]] — 農中信託銀行経由で 10%
-- [[sumitomo-mitsui-trust]] · [[mizuho-fg]] — [[custody-bank]] 系列
+- [[megabanks/mufg]] — 親会社系列、三菱 UFJ 信託銀行 100% 子会社が 46.5% 株主
+- [[trust-banks/custody-bank]] — 主要競合（日本カストディ銀行、2020-07 発足）
+- [[life-insurers/nippon-life]] — 主要株主 33.5%
+- [[life-insurers/meiji-yasuda]] — 主要株主 10%
+- [[cooperative-banks/norinchukin]] — 農中信託銀行経由で 10%
+- [[trust-banks/sumitomo-mitsui-trust]] · [[megabanks/mizuho-fg]] — [[trust-banks/custody-bank]] 系列
 
 ## Sources
 

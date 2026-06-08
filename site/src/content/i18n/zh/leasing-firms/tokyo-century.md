@@ -15,7 +15,7 @@ translated_at: 2026-06-01T02:31:57.122Z
 
 ## 长篇大论；博士
 
-日本3 综合租赁和金融公司（[[orix-corp]] / [[mufg]] Mitsubishi HC Capital / Tokyo Century）的一部分。不寻常的资本结构：**瑞穗FG（[[mizuho-fg]]）+伊藤忠商事2 轴大股东**。业务范围广泛，从汽车、IT 和工业设备租赁到房地产、**飞机融资**、海外（美洲和亚洲）、环境/可再生能源、优惠和汽车租赁（前身为 Nippon Rent-A-Car Service）。 TSE PRIME **8439**。 2019 年成为美国航空资本集团（ACG）全资子公司后进入**飞机租赁世界第一10**。
+日本3 综合租赁和金融公司（[[leasing-firms/orix-corp]] / [[megabanks/mufg]] Mitsubishi HC Capital / Tokyo Century）的一部分。不寻常的资本结构：**瑞穗FG（[[megabanks/mizuho-fg]]）+伊藤忠商事2 轴大股东**。业务范围广泛，从汽车、IT 和工业设备租赁到房地产、**飞机融资**、海外（美洲和亚洲）、环境/可再生能源、优惠和汽车租赁（前身为 Nippon Rent-A-Car Service）。 TSE PRIME **8439**。 2019 年成为美国航空资本集团（ACG）全资子公司后进入**飞机租赁世界第一10**。
 
 ## 1。公司简介
 
@@ -24,7 +24,7 @@ translated_at: 2026-06-01T02:31:57.122Z
 **股票代码**：TSE PRIME **8439**
 **业务类型**：综合租赁/融资（3 大租赁）
 **主要股东（总计约50%类）**：
-- **Mizuho FG ([[mizuho-fg]])**（前第一劝业银行血统）
+- **Mizuho FG ([[megabanks/mizuho-fg]])**（前第一劝业银行血统）
 - **伊藤忠商事株式会社**
 
 2 轴的股东结构在日本主要综合租赁公司中是独一无二的。瑞穗提供财务支持，伊藤忠商事提供其贸易公司网络（汽车、工业设备和海外项目），支持租赁融资和项目供应。
@@ -45,11 +45,11 @@ translated_at: 2026-06-01T02:31:57.122Z
 
 3 包括主要租赁和半主要租赁，如下：
 
-- **[[orix-corp]]** (欧力士) -- 最初是租赁，现在是金融综合体
-- **三菱慧聪资本** ([[mufg]], TSE PRIME 8593) ─ 前三菱UFJ租赁+日立资本
+- **[[leasing-firms/orix-corp]]** (欧力士) -- 最初是租赁，现在是金融综合体
+- **三菱慧聪资本** ([[megabanks/mufg]], TSE PRIME 8593) ─ 前三菱UFJ租赁+日立资本
 - **东京世纪**（本页）
-- **Fuyo General Lease ([[fuyo-lease]])** ── 瑞穗集团的独立轴
-- **SMFL（三井住友金融租赁）** ─ [[smfg]]，住友商事株式会社旗下的合资企业
+- **Fuyo General Lease ([[leasing-firms/fuyo-lease]])** ── 瑞穗集团的独立轴
+- **SMFL（三井住友金融租赁）** ─ [[megabanks/smfg]]，住友商事株式会社旗下的合资企业
 
 ### 2  前身
 
@@ -98,8 +98,8 @@ translated_at: 2026-06-01T02:31:57.122Z
 
 |主要公司|微分轴|
 |---|---|
-| [[orix-corp]] | **金融集团**，包括房地产、私募股权、保险和银行|
-|三菱慧聪资本|三菱商事+[[mufg]]附属**国内企业网络+全球工业设备** |
+| [[leasing-firms/orix-corp]] | **金融集团**，包括房地产、私募股权、保险和银行|
+|三菱慧聪资本|三菱商事+[[megabanks/mufg]]附属**国内企业网络+全球工业设备** |
 | **东京世纪** | **瑞穗FG+伊藤忠商事2 轴**、飞机租赁（ACG）、海外多币种金融|
 
 将与伊藤忠商事株式会社的关系与商社租赁并行解读（住友商事⇄ SMFL、三菱商事⇄ 三菱HC Capital）是准确的。
@@ -119,7 +119,7 @@ translated_at: 2026-06-01T02:31:57.122Z
 
 ## 相关
 
-- [[mizuho-fg]] · [[mufg]] · [[smfg]] · [[orix-corp]] · [[fuyo-lease]]
+- [[megabanks/mizuho-fg]] · [[megabanks/mufg]] · [[megabanks/smfg]] · [[leasing-firms/orix-corp]] · [[leasing-firms/fuyo-lease]]
 
 ## 来源
 

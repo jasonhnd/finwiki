@@ -15,7 +15,7 @@ translated_at: 2026-06-01T02:31:57.175Z
 
 ## TL;DR
 
-SOMPO Direct 损害保险株式会社是 [[sompo]] group 的 direct non-life insurance 运营公司。它包含原 Saison 汽车火灾 insurance surface，并以 current legal name 列入金融厅损害保险公司牌照名单。
+SOMPO Direct 损害保险株式会社是 [[non-life-insurers/sompo]] group 的 direct non-life insurance 运营公司。它包含原 Saison 汽车火灾 insurance surface，并以 current legal name 列入金融厅损害保险公司牌照名单。
 
 ## 1. 牌照 / 集团边界
 
@@ -25,11 +25,11 @@ SOMPO Direct 损害保险株式会社是 [[sompo]] group 的 direct non-life ins
 | 原名称 / 产品关联 | Saison 汽车火灾 / 大人的汽车保险 |
 | 牌照路径 | 保险业法损害保险公司；FSA non-life insurer list |
 | 保护机制 | 日本损害保险契约者保护机构会员 |
-| 集团边界 | [[sompo]] direct non-life operating company |
+| 集团边界 | [[non-life-insurers/sompo]] direct non-life operating company |
 
 ## 2. 运营模式
 
-SOMPO Direct 为 SOMPO 提供不同于代理店主导 [[sompo-japan-insurance]] 的数字 / 直销渠道。直接车险、在线报价、呼叫中心运营和低成本分销是主要分析轴。
+SOMPO Direct 为 SOMPO 提供不同于代理店主导 [[non-life-insurers/sompo-japan-insurance]] 的数字 / 直销渠道。直接车险、在线报价、呼叫中心运营和低成本分销是主要分析轴。
 
 ## 3. 为什么本页重要
 
@@ -39,11 +39,11 @@ SOMPO Direct 为 SOMPO 提供不同于代理店主导 [[sompo-japan-insurance]] 
 
 ## Related
 
-- [[sompo]]
-- [[sompo-japan-insurance]]
+- [[non-life-insurers/sompo]]
+- [[non-life-insurers/sompo-japan-insurance]]
 - [[insurance/saison-automobile-fire]]
-- [[sony-insurance]]
-- [[tokio-marine-direct]]
+- [[non-life-insurers/sony-insurance]]
+- [[non-life-insurers/tokio-marine-direct]]
 
 ## Sources
 

@@ -12,11 +12,11 @@ translated_at: 2026-05-31T11:13:44.867Z
 
 ## Wiki 路由
 
-本条目位于 [[regional-banks/INDEX|regional-banks INDEX]]。建议与 [[regional-banks/sony-bank|Sony Bank]]、[[trust-banks/orix-bank|ORIX Bank]]、[[JapanFG/rakuten-bank|Rakuten Bank]] 对照阅读，以理解网络银行同业；与 [[megabanks/mufg-bank|MUFG Bank]] 一起阅读，以把握其作为共同出资母行的路径；并与 [[banking/INDEX|banking index]] 一起阅读，以理解更广义的银行与监管边界。
+本条目位于 [[regional-banks/INDEX|regional-banks INDEX]]。建议与 [[regional-banks/sony-bank|Sony Bank]]、[[trust-banks/orix-bank|ORIX Bank]]、[[banking/rakuten-bank|Rakuten Bank]] 对照阅读，以理解网络银行同业；与 [[megabanks/mufg-bank|MUFG Bank]] 一起阅读，以把握其作为共同出资母行的路径；并与 [[banking/INDEX|banking index]] 一起阅读，以理解更广义的银行与监管边界。
 
 ## TL;DR
 
-au Jibun Bank Corporation 是由 **KDDI（au）** 与 [[megabanks/mufg|Mitsubishi UFJ Financial Group]] 共同发起的网络银行。它在 2008-06 以 Jibun Bank 名义设立，由 KDDI 与 [[megabanks/mufg-bank|MUFG Bank]] 按 50:50 出资；2008-07 开业；2020-02 在 KDDI 提高持股后成为 KDDI 合并子公司，并改名为 au Jibun Bank。该行持有普通银行牌照，是无实体网点的纯网络银行。其鲜明特征，是把 KDDI 的通信客户基础、au 用户、Ponta points、au PAY，与 MUFG 的银行基础设施结合起来。核心产品包括住房贷款、卡贷、外币存款、FX 与投资信托。主要可比对象包括 [[JapanFG/rakuten-bank|Rakuten Bank]]、[[regional-banks/sony-bank|Sony Bank]]、[[regional-banks/sbi-sumishin-net-bank|SBI Sumishin Net Bank]] 与 [[JapanFG/paypay-bank|PayPay Bank]]。
+au Jibun Bank Corporation 是由 **KDDI（au）** 与 [[megabanks/mufg|Mitsubishi UFJ Financial Group]] 共同发起的网络银行。它在 2008-06 以 Jibun Bank 名义设立，由 KDDI 与 [[megabanks/mufg-bank|MUFG Bank]] 按 50:50 出资；2008-07 开业；2020-02 在 KDDI 提高持股后成为 KDDI 合并子公司，并改名为 au Jibun Bank。该行持有普通银行牌照，是无实体网点的纯网络银行。其鲜明特征，是把 KDDI 的通信客户基础、au 用户、Ponta points、au PAY，与 MUFG 的银行基础设施结合起来。核心产品包括住房贷款、卡贷、外币存款、FX 与投资信托。主要可比对象包括 [[banking/rakuten-bank|Rakuten Bank]]、[[regional-banks/sony-bank|Sony Bank]]、[[regional-banks/sbi-sumishin-net-bank|SBI Sumishin Net Bank]] 与 [[banking/paypay-bank|PayPay Bank]]。
 
 ## 1. 法人与股东
 
@@ -61,9 +61,9 @@ au Jibun Bank Corporation 是由 **KDDI（au）** 与 [[megabanks/mufg|Mitsubish
 |---|---|---|
 | au Jibun Bank | **KDDI + MUFG** | au 经济圈、Ponta points、au PAY |
 | [[regional-banks/sbi-sumishin-net-bank|SBI Sumishin Net Bank]] | SBI + Sumitomo Mitsui Trust | 住房贷款、法人业务、证券联动 |
-| [[JapanFG/rakuten-bank|Rakuten Bank]] | 乐天集团 | 乐天经济圈与电商联动 |
+| [[banking/rakuten-bank|Rakuten Bank]] | 乐天集团 | 乐天经济圈与电商联动 |
 | [[regional-banks/sony-bank|Sony Bank]] | Sony Group | 外币与住房贷款 |
-| [[JapanFG/paypay-bank|PayPay Bank]] | Z Holdings + Sumitomo Mitsui | PayPay 经济圈 |
+| [[banking/paypay-bank|PayPay Bank]] | Z Holdings + Sumitomo Mitsui | PayPay 经济圈 |
 | [[trust-banks/orix-bank|ORIX Bank]] | ORIX | 不动产投资贷款 |
 
 ## 6. 战略与近期主题
@@ -98,10 +98,10 @@ au Jibun Bank Corporation 是由 **KDDI（au）** 与 [[megabanks/mufg|Mitsubish
 
 - [[megabanks/mufg|Mitsubishi UFJ Financial Group]] - 共同出资母集团
 - [[megabanks/mufg-bank|MUFG Bank]] - 共同出资银行
-- [[JapanFG/rakuten-bank|Rakuten Bank]] - 经济圈型网络银行同业
+- [[banking/rakuten-bank|Rakuten Bank]] - 经济圈型网络银行同业
 - [[regional-banks/sony-bank|Sony Bank]] - 网络银行同业
 - [[regional-banks/sbi-sumishin-net-bank|SBI Sumishin Net Bank]] - 网络银行同业
-- [[JapanFG/paypay-bank|PayPay Bank]] - 通信 / 支付经济圈型网络银行同业
+- [[banking/paypay-bank|PayPay Bank]] - 通信 / 支付经济圈型网络银行同业
 - [[trust-banks/orix-bank|ORIX Bank]] - 独立型网络银行同业
 - [[regional-banks/INDEX|regional-banks INDEX]]
 - [[banking/INDEX|Banking domain index]]

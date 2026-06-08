@@ -24,7 +24,7 @@ This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-i
 
 ## TL;DR
 
-中國銀行 東京支店は、金融庁の外国銀行支店一覧に掲載される mainland China / Bank of China の在日銀行支店。日本の [[chugoku-bank|中国銀行 / The Chugoku Bank]] とは別 entity であり、日中間の預金・貸出・貿易決済・資金決済・外国為替取引の主要 branch として扱う。
+中國銀行 東京支店は、金融庁の外国銀行支店一覧に掲載される mainland China / Bank of China の在日銀行支店。日本の [[regional-banks/chugoku-bank|中国銀行 / The Chugoku Bank]] とは別 entity であり、日中間の預金・貸出・貿易決済・資金決済・外国為替取引の主要 branch として扱う。
 
 ## 1. License / branch boundary
 
@@ -35,7 +35,7 @@ This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-i
 | License route | Banking Act foreign bank branch; FSA bank license list |
 | Home jurisdiction | Mainland China |
 | Parent / group | Bank of China |
-| Wiki role | China-Japan large-bank branch anchor; not [[chugoku-bank]] |
+| Wiki role | China-Japan large-bank branch anchor; not [[regional-banks/chugoku-bank]] |
 
 ## 2. Operating model
 
@@ -45,16 +45,16 @@ This is one of the most important mainland China bank branches in Japan because 
 
 ## 3. Why this page matters
 
-- Resolves the name collision between Chinese Bank of China and Japanese [[chugoku-bank]].
+- Resolves the name collision between Chinese Bank of China and Japanese [[regional-banks/chugoku-bank]].
 - Adds a core mainland China P1 branch to the foreign-bank map.
-- Provides peer context for [[icbc-japan]], [[china-construction-bank-japan]], and [[agricultural-bank-of-china-japan]].
+- Provides peer context for [[foreign-financial-institutions/icbc-japan]], [[foreign-financial-institutions/china-construction-bank-japan]], and [[foreign-financial-institutions/agricultural-bank-of-china-japan]].
 
 ## Related
 
-- [[chugoku-bank]]
-- [[icbc-japan]]
-- [[china-construction-bank-japan]]
-- [[agricultural-bank-of-china-japan]]
+- [[regional-banks/chugoku-bank]]
+- [[foreign-financial-institutions/icbc-japan]]
+- [[foreign-financial-institutions/china-construction-bank-japan]]
+- [[foreign-financial-institutions/agricultural-bank-of-china-japan]]
 - [[banking/foreign-bank-japan-retreat]]
 
 ## Sources

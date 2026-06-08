@@ -53,37 +53,37 @@
     "wikilinks_count": 11,
     "wikilinks": [
       "banking/INDEX",
-      "concordia-fg",
-      "fukuoka-fg",
-      "hokuhoku-fg",
-      "mebuki-fg",
-      "mizuho-fg",
-      "mufg",
+      "megabanks/mizuho-fg",
+      "megabanks/mufg",
+      "megabanks/smfg",
       "regional-banks/INDEX",
+      "regional-banks/concordia-fg",
       "regional-banks/dai-shi-hokuetsu-fg",
+      "regional-banks/fukuoka-fg",
       "regional-banks/gunma-bank",
-      "smfg"
+      "regional-banks/hokuhoku-fg",
+      "regional-banks/mebuki-fg"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/concordia-fg",
-      "https://finwiki.zksc.io/fukuoka-fg",
-      "https://finwiki.zksc.io/hokuhoku-fg",
-      "https://finwiki.zksc.io/mebuki-fg",
-      "https://finwiki.zksc.io/mizuho-fg",
-      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/smfg",
       "https://finwiki.zksc.io/regional-banks/INDEX",
+      "https://finwiki.zksc.io/regional-banks/concordia-fg",
       "https://finwiki.zksc.io/regional-banks/dai-shi-hokuetsu-fg",
+      "https://finwiki.zksc.io/regional-banks/fukuoka-fg",
       "https://finwiki.zksc.io/regional-banks/gunma-bank",
-      "https://finwiki.zksc.io/smfg"
+      "https://finwiki.zksc.io/regional-banks/hokuhoku-fg",
+      "https://finwiki.zksc.io/regional-banks/mebuki-fg"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4110,
-    "word_like_tokens": 708,
-    "inbound_wikilinks_count": 15,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 4260,
+    "word_like_tokens": 727,
+    "inbound_wikilinks_count": 29,
+    "last_modified": "2026-06-08"
   }
 }

@@ -29,7 +29,7 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 
 ## TL;DR
 
-**独立系生保では国内最大級**の中堅生命保険持株会社。**太陽生命（1893 創業・家庭マーケット） + 大同生命（1902 創業・中小企業経営者マーケット） + T&D フィナンシャル生命（銀行窓販）** の **3 社差別化** が最大特徴。2004-04 経営統合により発足、東証 PRIME 8795。大手 4 生保（[[nippon-life]] / [[dai-ichi-life]] / 住友生命 / 明治安田生命）に次ぐ第 5 極ポジション。2020 米 Fortitude Group へ出資参画（再保険プラットフォーム化）、2024 中計で海外 M&A 拡大を視野。社名「T&D」は **Taiyo + Daido** に由来。^[extracted]
+**独立系生保では国内最大級**の中堅生命保険持株会社。**太陽生命（1893 創業・家庭マーケット） + 大同生命（1902 創業・中小企業経営者マーケット） + T&D フィナンシャル生命（銀行窓販）** の **3 社差別化** が最大特徴。2004-04 経営統合により発足、東証 PRIME 8795。大手 4 生保（[[life-insurers/nippon-life]] / [[life-insurers/dai-ichi-life]] / 住友生命 / 明治安田生命）に次ぐ第 5 極ポジション。2020 米 Fortitude Group へ出資参画（再保険プラットフォーム化）、2024 中計で海外 M&A 拡大を視野。社名「T&D」は **Taiyo + Daido** に由来。^[extracted]
 
 ## 1. 会社概要
 
@@ -99,7 +99,7 @@ T&D HD（持株会社・上場 8795）
 
 ### 独立系最大級ポジション
 
-- 大手 4 生保（[[nippon-life]] / [[dai-ichi-life]] / 住友生命 / 明治安田生命）の次ぐ第 5 極
+- 大手 4 生保（[[life-insurers/nippon-life]] / [[life-insurers/dai-ichi-life]] / 住友生命 / 明治安田生命）の次ぐ第 5 極
 - メガバンク傘下でも、商社系でもない**完全独立系**として運営
 
 ### 海外戦略
@@ -124,8 +124,8 @@ T&D HD（持株会社・上場 8795）
 
 ## Related
 
-- [[nippon-life]] · [[dai-ichi-life]] · [[kampo-life]] · [[sony-fg]]
-- [[mufg]] · [[smfg]] · [[mizuho-fg]]（銀行窓販提携先）
+- [[life-insurers/nippon-life]] · [[life-insurers/dai-ichi-life]] · [[life-insurers/kampo-life]] · [[megabanks/sony-fg]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]（銀行窓販提携先）
 
 ## Sources
 

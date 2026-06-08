@@ -17,7 +17,7 @@ translated_at: 2026-06-02T14:54:39.042Z
 
 ## 要約
 
-日新火災海上保険株式会社は、金融庁の損害保険会社免許一覧に掲載される損害保険会社。[[tokio-marine]] とのグループ上の隣接性を持つが、[[tokio-marine-nichido-fire]] と [[tokio-marine-direct]] とは別の法人・事業会社アンカーとして扱う。
+日新火災海上保険株式会社は、金融庁の損害保険会社免許一覧に掲載される損害保険会社。[[non-life-insurers/tokio-marine]] とのグループ上の隣接性を持つが、[[non-life-insurers/tokio-marine-nichido-fire]] と [[non-life-insurers/tokio-marine-direct]] とは別の法人・事業会社アンカーとして扱う。
 
 ## 1. 免許・グループ境界
 
@@ -36,14 +36,14 @@ translated_at: 2026-06-02T14:54:39.042Z
 ## 3. このページが重要な理由
 
 - Tokio Marine グループ内の損害保険事業会社境界をもう一つ追加する。
-- [[tokio-marine-nichido-fire]] と [[tokio-marine-direct]] を補完する。
+- [[non-life-insurers/tokio-marine-nichido-fire]] と [[non-life-insurers/tokio-marine-direct]] を補完する。
 - 登録簿で裏付けられた D5 専門損保ページである。
 
 ## 関連項目
 
-- [[tokio-marine]]
-- [[tokio-marine-nichido-fire]]
-- [[tokio-marine-direct]]
+- [[non-life-insurers/tokio-marine]]
+- [[non-life-insurers/tokio-marine-nichido-fire]]
+- [[non-life-insurers/tokio-marine-direct]]
 - [[insurance/INDEX]]
 
 ## 出典

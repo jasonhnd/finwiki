@@ -38,7 +38,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## 推論 (from 4. 監督・規制)
 
-- **預金保険**: [[JapanFG/yokin-hoken-kiko|預金保険機構]] への加入は **農水産業協同組合貯金保険機構経由** (一般金融機関とは別建て) ^[inferred]
+- **預金保険**: [[financial-regulators/yokin-hoken-kiko|預金保険機構]] への加入は **農水産業協同組合貯金保険機構経由** (一般金融機関とは別建て) ^[inferred]
 
 ## Counterpoints
 
@@ -83,4 +83,4 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 > 注: 個別信連の規模は agriregistry / 金融庁資料 + 各信連 IR 要確認 ^[ambiguous]
 
-> confidence: **likely**。公開情報 (JA Bank system 公式 + 農林中金公式 + JA グループ Factbook) ベース。信連数 31 (2025-04-01 時点) は [[JapanFG/norinchukin|農林中金]] 公開資料による ^[extracted]。個別信連の規模 ^[ambiguous] は信連別 IR を要参照。「JA → 農林中金 直結方式」移行県は ^[inferred] (個別事例は要追加検証)。
+> confidence: **likely**。公開情報 (JA Bank system 公式 + 農林中金公式 + JA グループ Factbook) ベース。信連数 31 (2025-04-01 時点) は [[cooperative-banks/norinchukin|農林中金]] 公開資料による ^[extracted]。個別信連の規模 ^[ambiguous] は信連別 IR を要参照。「JA → 農林中金 直結方式」移行県は ^[inferred] (個別事例は要追加検証)。

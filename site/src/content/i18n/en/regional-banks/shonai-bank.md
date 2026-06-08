@@ -16,7 +16,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-The Shonai Bank, Ltd. is a regional bank based in Yamagata Prefecture and listed in the FSA bank-license list, and is an operating bank under [[fidea-hd]]. The official company profile treats the bank as originating from the Sixty-Seventh National Bank, founded in 1878 年, and as one side of the planned merger with [[hokuto-bank]] in 2027-01  to form "Fidea Bank."
+The Shonai Bank, Ltd. is a regional bank based in Yamagata Prefecture and listed in the FSA bank-license list, and is an operating bank under [[regional-banks/fidea-hd]]. The official company profile treats the bank as originating from the Sixty-Seventh National Bank, founded in 1878 年, and as one side of the planned merger with [[regional-banks/hokuto-bank]] in 2027-01  to form "Fidea Bank."
 
 ## 1. License / group boundary
 
@@ -24,13 +24,13 @@ The Shonai Bank, Ltd. is a regional bank based in Yamagata Prefecture and listed
 |---|---|
 | Legal name | The Shonai Bank, Ltd. |
 | License route | Banking Act regional bank; FSA bank license list |
-| Group boundary | [[fidea-hd]] operating bank |
+| Group boundary | [[regional-banks/fidea-hd]] operating bank |
 | Home market | Yamagata / Shonai and inland Yamagata |
 | Wiki role | Yamagata regional-bank operating-company page |
 
 ## 2. Operating model
 
-Shonai Bank is a regional bank responsible for retail, SME, agriculture, tourism, inheritance / wealth support, and public finance in Yamagata Prefecture. Inside the prefecture it competes with [[yamagata-bank]], while within [[fidea-hd]]'s broader Yamagata / Akita model it is read together with the Akita-side [[hokuto-bank]].
+Shonai Bank is a regional bank responsible for retail, SME, agriculture, tourism, inheritance / wealth support, and public finance in Yamagata Prefecture. Inside the prefecture it competes with [[regional-banks/yamagata-bank]], while within [[regional-banks/fidea-hd]]'s broader Yamagata / Akita model it is read together with the Akita-side [[regional-banks/hokuto-bank]].
 
 ## 3. Registry note
 
@@ -38,9 +38,9 @@ FSA bank-license list and official profile both identify the legal entity, but a
 
 ## Related
 
-- [[fidea-hd]]
-- [[hokuto-bank]]
-- [[yamagata-bank]]
+- [[regional-banks/fidea-hd]]
+- [[regional-banks/hokuto-bank]]
+- [[regional-banks/yamagata-bank]]
 - [[banking/INDEX]]
 
 ## Sources

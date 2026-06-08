@@ -16,7 +16,7 @@ This entry sits under [[megabanks/INDEX|megabanks INDEX]]. Read it against [[meg
 
 ##TL;DR
 
-KDDI 100% subsidiary, holding company of KDDI Financial Economic Zone. **2019-04-01 Established**. Under its umbrella are **au Jibun Bank / au PAY Card / au PAY / au PAY General Insurance / au Asset Management** etc. 2025-01-31 Acquired all shares of au Jibun Bank from MUFG (as consideration, sold former au Kabucom Securities → Mitsubishi UFJ e-Smart Securities to MUFG) → **Completed making bank 100% a subsidiary**. **FY2026/3  Operating profit 432 hundred million yen** (Previous period 406 hundred million yen, +6.4% / CAGR FY2023+ **30.4%**), **Total assets approximately 9.3 trillion yen**. **2026-05-12 KDDI officially discloses in a timely manner the start of preparations for listing auFH on the Tokyo Stock Exchange** — First IPO candidate for telecommunications FG (timing undecided, KDDI plans to continue as major shareholder even after listing). au Ponta + 2024-07 Lawson 50/50 JV is building a "communications x convenience store x finance" ecosystem. A corner of the communication FG 4  pole ([[ndfg]] / au-FH / [[paypay-fg]] / [[rakuten-fg]]). ^[extracted]
+KDDI 100% subsidiary, holding company of KDDI Financial Economic Zone. **2019-04-01 Established**. Under its umbrella are **au Jibun Bank / au PAY Card / au PAY / au PAY General Insurance / au Asset Management** etc. 2025-01-31 Acquired all shares of au Jibun Bank from MUFG (as consideration, sold former au Kabucom Securities → Mitsubishi UFJ e-Smart Securities to MUFG) → **Completed making bank 100% a subsidiary**. **FY2026/3  Operating profit 432 hundred million yen** (Previous period 406 hundred million yen, +6.4% / CAGR FY2023+ **30.4%**), **Total assets approximately 9.3 trillion yen**. **2026-05-12 KDDI officially discloses in a timely manner the start of preparations for listing auFH on the Tokyo Stock Exchange** — First IPO candidate for telecommunications FG (timing undecided, KDDI plans to continue as major shareholder even after listing). au Ponta + 2024-07 Lawson 50/50 JV is building a "communications x convenience store x finance" ecosystem. A corner of the communication FG 4  pole ([[megabanks/ndfg]] / au-FH / [[megabanks/paypay-fg]] / [[payment-firms/rakuten-fg]]). ^[extracted]
 
 ## 1. Company Profile
 
@@ -137,10 +137,10 @@ au Financial Holdings (unlisted; KDDI 100%; total assets about ?9.3T; preparing 
 
 |FG|Parent company|bank|core|Listing strategy|
 |---|---|---|---|---|
-|[[ndfg]]|NTT Docomo|[[ssnb|SBI Sumishin Net Bank -> Docomo SMTB Net Bank]] (consolidated subsidiary, 2025-10-01~)|d point/d card|NDFG itself is unlisted, but its subsidiary Monex is listed|
+|[[megabanks/ndfg]]|NTT Docomo|[[regional-banks/ssnb|SBI Sumishin Net Bank -> Docomo SMTB Net Bank]] (consolidated subsidiary, 2025-10-01~)|d point/d card|NDFG itself is unlisted, but its subsidiary Monex is listed|
 |**au-FH**|KDDI|au Jibun Bank (100%)|au Ponta / Lawson|**2026-05-12 Announcement of start of preparations for listing on TSE**|
-|[[paypay-fg]]|SoftBank Group / Z|PayPay Bank (formerly Japan Net)|PayPay|Via LINE Yahoo|
-|[[rakuten-fg]]|rakuten group|Rakuten Bank (listed)|Rakuten Points/Rakuten Market|Bank/Securities/Card Individual listing|
+|[[megabanks/paypay-fg]]|SoftBank Group / Z|PayPay Bank (formerly Japan Net)|PayPay|Via LINE Yahoo|
+|[[payment-firms/rakuten-fg]]|rakuten group|Rakuten Bank (listed)|Rakuten Points/Rakuten Market|Bank/Securities/Card Individual listing|
 
 ### Support / M&A
 
@@ -162,7 +162,7 @@ au Financial Holdings (unlisted; KDDI 100%; total assets about ?9.3T; preparing 
 
 ## Related
 
-- [[mufg]] · [[ndfg]] · [[paypay-fg]] · [[rakuten-fg]] · [[smfg]] · [[ssnb]]
+- [[megabanks/mufg]] · [[megabanks/ndfg]] · [[megabanks/paypay-fg]] · [[payment-firms/rakuten-fg]] · [[megabanks/smfg]] · [[regional-banks/ssnb]]
 - [[banking/mercari-bank-license-stack]] · [[banking/minna-bank-baas-model]]
 
 ## Sources

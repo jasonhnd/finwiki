@@ -75,7 +75,6 @@
     "wikilinks": [
       "FSA",
       "INDEX",
-      "JapanFG/saison-automobile-fire",
       "insurance/INDEX",
       "insurance/bancassurance-economics-japan",
       "insurance/cooperative-insurance-system-japan",
@@ -97,6 +96,7 @@
       "insurance/kampo-japan-post-insurance",
       "insurance/marine-insurance-and-pi-cover-market",
       "insurance/medical-cancer-insurance-product-economics",
+      "insurance/saison-automobile-fire",
       "life-insurers/dai-ichi-frontier-life",
       "life-insurers/dai-ichi-life",
       "life-insurers/kampo-life",
@@ -118,7 +118,6 @@
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/FSA",
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/saison-automobile-fire",
       "https://finwiki.zksc.io/insurance/INDEX",
       "https://finwiki.zksc.io/insurance/bancassurance-economics-japan",
       "https://finwiki.zksc.io/insurance/cooperative-insurance-system-japan",
@@ -140,6 +139,7 @@
       "https://finwiki.zksc.io/insurance/kampo-japan-post-insurance",
       "https://finwiki.zksc.io/insurance/marine-insurance-and-pi-cover-market",
       "https://finwiki.zksc.io/insurance/medical-cancer-insurance-product-economics",
+      "https://finwiki.zksc.io/insurance/saison-automobile-fire",
       "https://finwiki.zksc.io/life-insurers/dai-ichi-frontier-life",
       "https://finwiki.zksc.io/life-insurers/dai-ichi-life",
       "https://finwiki.zksc.io/life-insurers/kampo-life",
@@ -175,9 +175,9 @@
     ]
   },
   "metrics": {
-    "nonspace_chars": 32419,
+    "nonspace_chars": 32421,
     "word_like_tokens": 5000,
     "inbound_wikilinks_count": 3,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-08"
   }
 }

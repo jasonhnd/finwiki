@@ -47,13 +47,12 @@
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 8,
+    "wikilinks_count": 7,
     "wikilinks": [
       "banking/INDEX",
       "banking/foreign-bank-japan-retreat",
-      "higashi-nippon-bank",
-      "kiraboshi-bank",
       "regional-banks/INDEX",
+      "regional-banks/higashi-nippon-bank",
       "regional-banks/kanagawa-bank",
       "regional-banks/kiraboshi-bank",
       "regional-banks/sbj-bank"
@@ -61,9 +60,8 @@
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/foreign-bank-japan-retreat",
-      "https://finwiki.zksc.io/higashi-nippon-bank",
-      "https://finwiki.zksc.io/kiraboshi-bank",
       "https://finwiki.zksc.io/regional-banks/INDEX",
+      "https://finwiki.zksc.io/regional-banks/higashi-nippon-bank",
       "https://finwiki.zksc.io/regional-banks/kanagawa-bank",
       "https://finwiki.zksc.io/regional-banks/kiraboshi-bank",
       "https://finwiki.zksc.io/regional-banks/sbj-bank"
@@ -72,9 +70,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1982,
-    "word_like_tokens": 318,
-    "inbound_wikilinks_count": 4,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 2012,
+    "word_like_tokens": 322,
+    "inbound_wikilinks_count": 6,
+    "last_modified": "2026-06-08"
   }
 }

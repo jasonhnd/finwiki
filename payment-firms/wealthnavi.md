@@ -27,7 +27,7 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it again
 
 ## TL;DR
 
-国内ロボアドバイザリー型資産運用サービス最大手。**預かり資産 2 兆円突破（2026-05-12 公表）**、運用者数約 41.6 万人（2024-09 末）。2015-04-28 柴山和久（元 マッキンゼー、財務省出身）創業、2016-07 サービス開始。2020-12-22 東証マザーズ上場（証券コード **7342**、現 グロース）。**2024-12-12 三菱 UFJ 銀行 [[mufg]] が公開買付（TOB）で完全子会社化発表 ★** ── 国内ロボアドのパイオニアがメガバンク AI 金融エコシステムに統合される転換点。^[extracted]
+国内ロボアドバイザリー型資産運用サービス最大手。**預かり資産 2 兆円突破（2026-05-12 公表）**、運用者数約 41.6 万人（2024-09 末）。2015-04-28 柴山和久（元 マッキンゼー、財務省出身）創業、2016-07 サービス開始。2020-12-22 東証マザーズ上場（証券コード **7342**、現 グロース）。**2024-12-12 三菱 UFJ 銀行 [[megabanks/mufg]] が公開買付（TOB）で完全子会社化発表 ★** ── 国内ロボアドのパイオニアがメガバンク AI 金融エコシステムに統合される転換点。^[extracted]
 
 ## 1. 会社概要
 
@@ -63,8 +63,8 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it again
 ```
 ウェルスナビ株式会社
   ├── WealthNavi（自社直販）── 主力ブランド
-  ├── WealthNavi for SBI 証券 ── [[sbi-hd]] 提携
-  ├── WealthNavi for マネックス ── [[monex-group]] 提携
+  ├── WealthNavi for SBI 証券 ── [[megabanks/sbi-hd]] 提携
+  ├── WealthNavi for マネックス ── [[securities-firms/monex-group]] 提携
   ├── WealthNavi for 住信 SBI ネット銀行
   ├── WealthNavi for ソニー銀行 ── ソニー FG 系
   ├── WealthNavi for 横浜銀行 ── コンコルディア FG 系
@@ -87,7 +87,7 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it again
 | 2022-04 | 東証市場区分見直しで グロース市場 へ移行 |
 | **2024-01-11** | **預かり資産 1 兆円突破（国内ロボアド初）** — 2016-07 リリースから約 7 年 5 か月 |
 | 2024 | 新 NISA 制度開始対応（つみたて投資枠・成長投資枠両対応）|
-| **2024-12-12** | **三菱 UFJ 銀行 [[mufg]] が公開買付（TOB）で完全子会社化発表** ★ |
+| **2024-12-12** | **三菱 UFJ 銀行 [[megabanks/mufg]] が公開買付（TOB）で完全子会社化発表** ★ |
 | **2025-01-20** | **三菱 UFJ 銀行 TOB 成立**（買付価格 1,950 円、総額約 997 億円）→ 2025-03 スクイーズアウト・東証グロース 上場廃止 |
 
 ## 2. 事業セグメント・マップ
@@ -113,15 +113,15 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it again
 |---|---|---|---|
 | **WealthNavi** | → MUFG 子会社化（2024-12 発表）| 2 兆円突破（2026-05）| 国内ロボアド No.1 |
 | THEO | お金のデザイン | 数千億円規模 | docomo 提携（THEO+ docomo）|
-| SBI ラップ | [[sbi-hd]] 内 | 拡大中 | グループ顧客取り込み |
-| 楽天証券ラップ | [[rakuten-fg]] 内 | - | グループ統合運用 |
-| マネックス・アセットマネジメント | [[monex-group]] | - | ON COMPASS 等 |
-| 大和ファンドラップ | [[daiwa-sg]] | 大手対面ラップ | 富裕層向け |
-| 野村ファンドラップ | [[nomura-hd]] | 業界最大ラップ規模 | 富裕層対面中心 |
+| SBI ラップ | [[megabanks/sbi-hd]] 内 | 拡大中 | グループ顧客取り込み |
+| 楽天証券ラップ | [[payment-firms/rakuten-fg]] 内 | - | グループ統合運用 |
+| マネックス・アセットマネジメント | [[securities-firms/monex-group]] | - | ON COMPASS 等 |
+| 大和ファンドラップ | [[securities-firms/daiwa-sg]] | 大手対面ラップ | 富裕層向け |
+| 野村ファンドラップ | [[securities-firms/nomura-hd]] | 業界最大ラップ規模 | 富裕層対面中心 |
 
 ### MUFG 子会社化（2024-12-12 発表）★
 
-- **公開買付者**: 三菱 UFJ 銀行（MUFG Bank、[[mufg]] 100% 子会社）
+- **公開買付者**: 三菱 UFJ 銀行（MUFG Bank、[[megabanks/mufg]] 100% 子会社）
 
 > 注：MUFG 完全子会社化後のホワイトラベル提携（SBI / マネックス / ソニー銀行 等）の継続可否・戦略的意義に関する推測は `.opinions/JapanFG/wealthnavi.md` に隔離（検証可能な一次情報なし）。
 
@@ -143,7 +143,7 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it again
 
 ## Related
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[sbi-hd]] · [[monex-group]] · [[rakuten-fg]] · [[daiwa-sg]] · [[nomura-hd]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[megabanks/sbi-hd]] · [[securities-firms/monex-group]] · [[payment-firms/rakuten-fg]] · [[securities-firms/daiwa-sg]] · [[securities-firms/nomura-hd]]
 
 ## Sources
 

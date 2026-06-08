@@ -49,7 +49,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it against [[fintech
 | ロシア準備 $300B+ の凍結 | #1 の中立性仮定を破る → 米ドルが政治ツールと理解される → #3 多極化に政治的正当性 |
 | ChatGPT の一般公開 | #4 を「人 vs 機関」から「人 vs 機関 vs Agent」の三元へ変革 → プロトコル層の再構築 |
 
-参照: [[2022-three-variable-cascade-thesis|2022 三変数カスケード]]
+参照: [[fintech/2022-three-variable-cascade-thesis|2022 三変数カスケード]]
 
 ## レイヤー間ネットワーク効果
 
@@ -96,10 +96,10 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it against [[fintech
 
 ## 関連
 
-- [[stablecoin-chain-sovereign-currency-divide|5 極地政学対立]]
-- [[occ-trust-bank-charter-federal-stablecoin-arbitrage|OCC charter 裁定]]
-- [[three-circles-stablecoin-mra-framework|三円 MRA フレームワーク]]
-- [[2022-three-variable-cascade-thesis|2022 三変数カスケード]]
+- [[fintech/stablecoin-chain-sovereign-currency-divide|5 極地政学対立]]
+- [[fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage|OCC charter 裁定]]
+- [[fintech/three-circles-stablecoin-mra-framework|三円 MRA フレームワーク]]
+- [[fintech/2022-three-variable-cascade-thesis|2022 三変数カスケード]]
 
 ---
 

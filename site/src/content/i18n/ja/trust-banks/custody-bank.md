@@ -16,7 +16,7 @@ translated_at: 2026-06-02T14:25:12.381Z
 
 ## 要約
 
-日本最大級の信託カストディ専業銀行（信託財産総額 約 476 兆円、口座管理業務等を含む総預かり資産 約 696 兆円、いずれも 2025-03 末時点）。**2020-07-27 日本トラスティ・サービス信託銀行 (JTSB) + 資産管理サービス信託銀行 (TCSB) 合併発足**。[[sumitomo-mitsui-trust]]（三井住友トラストグループ）33.3% + [[mizuho-fg]] 27.0% + りそな銀行 16.7% + [[dai-ichi-life]] 第一生命 8.0% + 朝日生命 5.0% + 明治安田生命 4.5% + かんぽ生命 3.5% + 富国生命 2.0% の合弁（2020-07-27 現在）。**上場企業の主要株主欄に「日本カストディ銀行 (信託口)」として常連登場 ★**。日本マスタートラスト信託 [[master-trust-bank]]（MUFG [[mufg]] + [[nippon-life]] 系）と並ぶ国内 2 強の信託口株主（証券保管 2 強体制）。^[extracted]
+日本最大級の信託カストディ専業銀行（信託財産総額 約 476 兆円、口座管理業務等を含む総預かり資産 約 696 兆円、いずれも 2025-03 末時点）。**2020-07-27 日本トラスティ・サービス信託銀行 (JTSB) + 資産管理サービス信託銀行 (TCSB) 合併発足**。[[trust-banks/sumitomo-mitsui-trust]]（三井住友トラストグループ）33.3% + [[megabanks/mizuho-fg]] 27.0% + りそな銀行 16.7% + [[life-insurers/dai-ichi-life]] 第一生命 8.0% + 朝日生命 5.0% + 明治安田生命 4.5% + かんぽ生命 3.5% + 富国生命 2.0% の合弁（2020-07-27 現在）。**上場企業の主要株主欄に「日本カストディ銀行 (信託口)」として常連登場 ★**。日本マスタートラスト信託 [[trust-banks/master-trust-bank]]（MUFG [[megabanks/mufg]] + [[life-insurers/nippon-life]] 系）と並ぶ国内 2 強の信託口株主（証券保管 2 強体制）。^[extracted]
 
 ## 1. 会社概要
 
@@ -31,10 +31,10 @@ translated_at: 2026-06-02T14:25:12.381Z
 
 | 株主 | 比率 |
 |---|---|
-| [[sumitomo-mitsui-trust]]（三井住友トラストグループ）| **33.3%** |
-| [[mizuho-fg]]（みずほフィナンシャルグループ）| **27.0%** |
+| [[trust-banks/sumitomo-mitsui-trust]]（三井住友トラストグループ）| **33.3%** |
+| [[megabanks/mizuho-fg]]（みずほフィナンシャルグループ）| **27.0%** |
 | りそな銀行 | **16.7%** |
-| [[dai-ichi-life]] 第一生命保険 | **8.0%** |
+| [[life-insurers/dai-ichi-life]] 第一生命保険 | **8.0%** |
 | 朝日生命保険 | **5.0%** |
 | 明治安田生命保険 | **4.5%** |
 | かんぽ生命保険 | **3.5%** |
@@ -43,7 +43,7 @@ translated_at: 2026-06-02T14:25:12.381Z
 ### 重要性 ★
 
 - **「日本カストディ銀行 (信託口)」**として日本の上場企業ほぼ全社の主要株主欄に常連登場
-- 日本マスタートラスト信託 [[master-trust-bank]] と並ぶ「信託口株主」の 2 強
+- 日本マスタートラスト信託 [[trust-banks/master-trust-bank]] と並ぶ「信託口株主」の 2 強
 - 信託財産総額 約 **476 兆円**、口座管理業務等を含む**総預かり資産 約 696 兆円**（いずれも 2025-03 末時点、CBJ ディスクロージャー誌 2025）
 - 国内年金（厚生年金 / 私的年金 / 確定拠出年金 等）の中央保管・運営機関の一翼
 
@@ -52,13 +52,13 @@ translated_at: 2026-06-02T14:25:12.381Z
 ```
 JTSB 系（旧 SuMi TRUST 系）
   日本トラスティ・サービス信託銀行（2000 設立）
-    ├── 旧 中央三井信託銀行（→ SuMi TRUST [[sumitomo-mitsui-trust]]）
-    ├── 旧 住友信託銀行（→ SuMi TRUST [[sumitomo-mitsui-trust]]）
-    └── 第一生命 [[dai-ichi-life]] 等
+    ├── 旧 中央三井信託銀行（→ SuMi TRUST [[trust-banks/sumitomo-mitsui-trust]]）
+    ├── 旧 住友信託銀行（→ SuMi TRUST [[trust-banks/sumitomo-mitsui-trust]]）
+    └── 第一生命 [[life-insurers/dai-ichi-life]] 等
 
 TCSB 系（旧 みずほ + りそな系）
   資産管理サービス信託銀行（2004 設立）
-    ├── みずほ信託銀行（[[mizuho-fg]]）
+    ├── みずほ信託銀行（[[megabanks/mizuho-fg]]）
     ├── りそな銀行（旧 大和 / あさひ信託系統）
     ├── 朝日生命・明治安田生命・かんぽ生命・富国生命 等
     └── 旧第一勧業富士信託・安田信託 系統
@@ -66,10 +66,10 @@ TCSB 系（旧 みずほ + りそな系）
   ↓ 2020-07-27 合併
 
 日本カストディ銀行 (CBJ)
-  ├── 三井住友トラストグループ [[sumitomo-mitsui-trust]] 33.3%
-  ├── みずほ FG [[mizuho-fg]] 27.0%
+  ├── 三井住友トラストグループ [[trust-banks/sumitomo-mitsui-trust]] 33.3%
+  ├── みずほ FG [[megabanks/mizuho-fg]] 27.0%
   ├── りそな銀行 16.7%
-  ├── 第一生命 [[dai-ichi-life]] 8.0%
+  ├── 第一生命 [[life-insurers/dai-ichi-life]] 8.0%
   └── 朝日生命 5.0% / 明治安田生命 4.5% / かんぽ生命 3.5% / 富国生命 2.0%
 ```
 
@@ -86,11 +86,11 @@ TCSB 系（旧 みずほ + りそな系）
 ### 専業ポジション
 
 - 信託カストディ + 年金信託 **専業**：商業銀行業務・証券業務・小売は持たない
-- 親会社の SuMi TRUST [[sumitomo-mitsui-trust]] / みずほ信託 [[mizuho-fg]] が**フロント**（運用・営業）、CBJ が**バックオフィス**（保管・計算・事務）という棲み分け
+- 親会社の SuMi TRUST [[trust-banks/sumitomo-mitsui-trust]] / みずほ信託 [[megabanks/mizuho-fg]] が**フロント**（運用・営業）、CBJ が**バックオフィス**（保管・計算・事務）という棲み分け
 
 ### 競合・国内 2 強体制
 
-- **マスタートラスト信託銀行 [[master-trust-bank]]**（MUFG [[mufg]] + [[nippon-life]] 日本生命 系）：最大競合
+- **マスタートラスト信託銀行 [[trust-banks/master-trust-bank]]**（MUFG [[megabanks/mufg]] + [[life-insurers/nippon-life]] 日本生命 系）：最大競合
 - 日本の証券保管・信託口株主は CBJ + マスタートラスト の **2 強体制** ^[extracted]
 - 両者で日本の機関投資家・年金資産の保管バックオフィスを実質寡占
 
@@ -120,15 +120,15 @@ TCSB 系（旧 みずほ + りそな系）
 |---|---|
 | 2000 | 日本トラスティ・サービス信託銀行 (JTSB) 設立（旧 中央三井信託 + 住友信託 + 第一生命 等）|
 | 2004 | 資産管理サービス信託銀行 (TCSB) 設立（みずほ系 + 朝日生命 + 富国生命 等）|
-| 2011-04 | 中央三井信託 + 住友信託 → 三井住友トラスト HD [[sumitomo-mitsui-trust]] 発足 → JTSB 親会社統合 |
+| 2011-04 | 中央三井信託 + 住友信託 → 三井住友トラスト HD [[trust-banks/sumitomo-mitsui-trust]] 発足 → JTSB 親会社統合 |
 | **2020-07-27** | **JTSB + TCSB 合併 → 日本カストディ銀行 (CBJ) 発足** ★ |
 | 2024 | 中計（具体内容は IR 非公開）|
 
 ## 関連項目
 
-- [[master-trust-bank]] · [[sumitomo-mitsui-trust]] · [[mizuho-fg]] · [[dai-ichi-life]]
+- [[trust-banks/master-trust-bank]] · [[trust-banks/sumitomo-mitsui-trust]] · [[megabanks/mizuho-fg]] · [[life-insurers/dai-ichi-life]]
 - りそな銀行（CBJ 第 3 位株主 16.7%）
-- [[mufg]] · [[nippon-life]]（マスタートラスト側）
+- [[megabanks/mufg]] · [[life-insurers/nippon-life]]（マスタートラスト側）
 - 関連 wiki：信託銀行業 / カストディ / 信託口株主 / 議決権行使
 
 ## 出典
@@ -138,7 +138,7 @@ TCSB 系（旧 みずほ + りそな系）
 - **Wikipedia: 資産管理サービス信託銀行 (TCSB)**（2026-05-19 抽出）
 - **三井住友信託銀行: スケールメリットの追求**（日本カストディ銀行の信託財産総額 476 兆円・口座管理等含む総預かり資産 696 兆円、2025-03 末時点）https://www.smtb.jp/business/instrument/management/scale
 - **日本カストディ銀行: ディスクロージャー誌 2025**（信託財産総額 476 兆円, 2025-03 末）https://www.custody.jp/data/disclosure/pdf/disclosure202507.pdf
-- 親会社 IR 開示（[[sumitomo-mitsui-trust]] / [[mizuho-fg]] / [[dai-ichi-life]]）
+- 親会社 IR 開示（[[trust-banks/sumitomo-mitsui-trust]] / [[megabanks/mizuho-fg]] / [[life-insurers/dai-ichi-life]]）
 
 ---
 

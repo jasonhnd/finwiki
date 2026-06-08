@@ -61,33 +61,33 @@
       "banking/INDEX",
       "megabanks/INDEX",
       "megabanks/au-fh",
-      "mizuho-fg",
-      "mufg",
+      "megabanks/mizuho-fg",
+      "megabanks/mufg",
+      "megabanks/paypay-fg",
+      "megabanks/sbi-hd",
+      "megabanks/smfg",
       "non-life-insurers/rakuten-insurance-hd",
-      "paypay-fg",
-      "rakuten-fg",
-      "sbi-hd",
-      "smfg"
+      "payment-firms/rakuten-fg"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/megabanks/INDEX",
       "https://finwiki.zksc.io/megabanks/au-fh",
-      "https://finwiki.zksc.io/mizuho-fg",
-      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/paypay-fg",
+      "https://finwiki.zksc.io/megabanks/sbi-hd",
+      "https://finwiki.zksc.io/megabanks/smfg",
       "https://finwiki.zksc.io/non-life-insurers/rakuten-insurance-hd",
-      "https://finwiki.zksc.io/paypay-fg",
-      "https://finwiki.zksc.io/rakuten-fg",
-      "https://finwiki.zksc.io/sbi-hd",
-      "https://finwiki.zksc.io/smfg"
+      "https://finwiki.zksc.io/payment-firms/rakuten-fg"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6766,
-    "word_like_tokens": 1220,
-    "inbound_wikilinks_count": 28,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 6878,
+    "word_like_tokens": 1233,
+    "inbound_wikilinks_count": 81,
+    "last_modified": "2026-06-08"
   }
 }

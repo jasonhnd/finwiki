@@ -15,7 +15,7 @@ This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]]. Read 
 
 ## TL;DR
 
-Japan's **central organization for the credit union (credit union) industry**. 1954-04  was established, and as of 2026-02-20 according to the Financial Services Agency registry, it is a cooperative financial institution whose member population is **143  Credit Union**. Along with Shinkin Central Bank [[shinkin-central]], it is part of the Chuo 2  group, but its size is approximately 1/10. The four pillars are fund management for member credit unions, surplus funds management, payment agency, system sharing center, and ATM coordination. **Credit unions = specializing in lending to small and medium-sized business association members + regional association members, membership requirements are stricter than credit unions**, and correspond to central banks. It has a regional financial safety net function. ^[extracted]
+Japan's **central organization for the credit union (credit union) industry**. 1954-04  was established, and as of 2026-02-20 according to the Financial Services Agency registry, it is a cooperative financial institution whose member population is **143  Credit Union**. Along with Shinkin Central Bank [[cooperative-banks/shinkin-central]], it is part of the Chuo 2  group, but its size is approximately 1/10. The four pillars are fund management for member credit unions, surplus funds management, payment agency, system sharing center, and ATM coordination. **Credit unions = specializing in lending to small and medium-sized business association members + regional association members, membership requirements are stricter than credit unions**, and correspond to central banks. It has a regional financial safety net function. ^[extracted]
 
 ## 1. Company Profile
 
@@ -32,8 +32,8 @@ Japan's **central organization for the credit union (credit union) industry**. 1
 
 | Central organization | Business type | Number of members (2024) | System relative size |
 |---|---|---|---|
-| [[norinchukin]] (Norinchukin Bank) | JA/JF/Mori Gumi | Approx. 5000+ | Maximum (total assets 100 兆円 scale) |
-| [[shinkin-central]] (Shinkin Central Bank) | Shinkin Bank | 254  Shinkin Bank | Medium size (total assets approximately 40 兆円) |
+| [[cooperative-banks/norinchukin]] (Norinchukin Bank) | JA/JF/Mori Gumi | Approx. 5000+ | Maximum (total assets 100 兆円 scale) |
+| [[cooperative-banks/shinkin-central]] (Shinkin Central Bank) | Shinkin Bank | 254  Shinkin Bank | Medium size (total assets approximately 40 兆円) |
 | **Zenshin Union** | **Credit Union** | **143  Credit Union** | **Small (about Shinkin Central Bank 1/10)** |
 | [[cooperative-banks/rokin-renraku|rokin-renraku]] (Labor Bank Federation) | Labor Bank | 13  Labor Bank | Small scale |
 
@@ -96,7 +96,7 @@ Japan's **central organization for the credit union (credit union) industry**. 1
 
 ### Comparison with Shinkin Central Bank
 
-| Item | [[shinkin-central]] | Zenshin Union |
+| Item | [[cooperative-banks/shinkin-central]] | Zenshin Union |
 |---|---|---|
 | Business type | Shinkin bank (Shinkin Bank Act) | Credit union (Cooperative Association Act + Small and Medium Enterprise Cooperative Act) |
 | Number of members | 254  Shinkin Bank (2025-11 FSA registry) | **143  Shinkin Union** (2026-02 FSA registry) |
@@ -127,9 +127,9 @@ Japan's **central organization for the credit union (credit union) industry**. 1
 
 ## Related
 
-- [[shinkin-central]] (Shinkin Central Bank) — Central institution of the Shinkin bank industry, closest peer business type
-- [[norinchukin]] (Norinchukin Bank) — Central organization for agriculture and forestry, the largest in the industry
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] — Megabank (competitor for credit union member customers)
+- [[cooperative-banks/shinkin-central]] (Shinkin Central Bank) — Central institution of the Shinkin bank industry, closest peer business type
+- [[cooperative-banks/norinchukin]] (Norinchukin Bank) — Central organization for agriculture and forestry, the largest in the industry
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] — Megabank (competitor for credit union member customers)
 - [[banking/cooperative-banking-japan]] — General cooperative financial institutions
 - [[banking/credit-cooperative-registry-japan]] — Registry index of credit union 143  union
 

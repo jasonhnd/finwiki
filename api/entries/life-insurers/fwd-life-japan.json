@@ -50,32 +50,32 @@
   "body_links": {
     "wikilinks_count": 8,
     "wikilinks": [
-      "axa-japan",
       "insurance/INDEX",
       "life-insurers/INDEX",
+      "life-insurers/axa-japan",
       "life-insurers/credit-agricole-life",
-      "manulife-japan",
-      "metlife-japan",
-      "nn-life-japan",
-      "prudential-japan"
+      "life-insurers/manulife-japan",
+      "life-insurers/metlife-japan",
+      "life-insurers/nn-life-japan",
+      "life-insurers/prudential-japan"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/axa-japan",
       "https://finwiki.zksc.io/insurance/INDEX",
       "https://finwiki.zksc.io/life-insurers/INDEX",
+      "https://finwiki.zksc.io/life-insurers/axa-japan",
       "https://finwiki.zksc.io/life-insurers/credit-agricole-life",
-      "https://finwiki.zksc.io/manulife-japan",
-      "https://finwiki.zksc.io/metlife-japan",
-      "https://finwiki.zksc.io/nn-life-japan",
-      "https://finwiki.zksc.io/prudential-japan"
+      "https://finwiki.zksc.io/life-insurers/manulife-japan",
+      "https://finwiki.zksc.io/life-insurers/metlife-japan",
+      "https://finwiki.zksc.io/life-insurers/nn-life-japan",
+      "https://finwiki.zksc.io/life-insurers/prudential-japan"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2031,
-    "word_like_tokens": 328,
+    "nonspace_chars": 2157,
+    "word_like_tokens": 346,
     "inbound_wikilinks_count": 2,
-    "last_modified": "2026-06-06"
+    "last_modified": "2026-06-08"
   }
 }

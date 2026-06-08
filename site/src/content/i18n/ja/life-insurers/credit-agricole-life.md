@@ -32,15 +32,15 @@ translated_at: 2026-06-02T14:01:20.955Z
 ## 2. このページが重要な理由
 
 - FSA の 41 生命保険会社の正確名称ベースの空白を埋める。
-- バンカシュアランス / 金融機関チャネルにおける [[cardif-life]]、[[dai-ichi-frontier-life]]、[[td-financial-life]] の有用な比較対象となる。
+- バンカシュアランス / 金融機関チャネルにおける [[life-insurers/cardif-life]]、[[life-insurers/dai-ichi-frontier-life]]、[[life-insurers/td-financial-life]] の有用な比較対象となる。
 - Credit Agricole の保険面を、銀行業に押し込めず JapanFG に追加する。
 
 ## 関連項目
 
-- [[cardif-life]]
-- [[credit-agricole-bank-japan]]
-- [[dai-ichi-frontier-life]]
-- [[td-financial-life]]
+- [[life-insurers/cardif-life]]
+- [[foreign-financial-institutions/credit-agricole-bank-japan]]
+- [[life-insurers/dai-ichi-frontier-life]]
+- [[life-insurers/td-financial-life]]
 - [[insurance/life-insurance-channel-mix]]
 
 ## 出典

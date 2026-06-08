@@ -24,7 +24,7 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 
 ## TL;DR
 
-ジブラルタ生命保険株式会社は、金融庁 life-insurer list に掲載される Prudential group 系の Japan life-insurance operating company。[[prudential-japan]] umbrella page だけでは見えにくい、separate brand / channel / underwriting boundary を持つ。
+ジブラルタ生命保険株式会社は、金融庁 life-insurer list に掲載される Prudential group 系の Japan life-insurance operating company。[[life-insurers/prudential-japan]] umbrella page だけでは見えにくい、separate brand / channel / underwriting boundary を持つ。
 
 ## 1. License / group boundary
 
@@ -33,12 +33,12 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 | Legal name | ジブラルタ生命保険株式会社 |
 | License route | Insurance Business Act life-insurance company; FSA life insurer list |
 | Industry body | Life Insurance Association of Japan member |
-| Group boundary | Prudential group Japan life-insurance brand; see [[prudential-japan]] |
+| Group boundary | Prudential group Japan life-insurance brand; see [[life-insurers/prudential-japan]] |
 | Wiki role | Prudential Japan cluster operating-company page |
 
 ## 2. Operating model
 
-ジブラルタ生命は、Prudential Japan cluster の中で standalone brand and distribution surface を持つ life insurer。FinWiki では [[prudential-japan]] の umbrella analysis から切り出し、life-planner / advisor-led distribution, teacher / affinity channels, product mix を今後追うための anchor にする。
+ジブラルタ生命は、Prudential Japan cluster の中で standalone brand and distribution surface を持つ life insurer。FinWiki では [[life-insurers/prudential-japan]] の umbrella analysis から切り出し、life-planner / advisor-led distribution, teacher / affinity channels, product mix を今後追うための anchor にする。
 
 ## 3. Why this page matters
 
@@ -48,10 +48,10 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 
 ## Related
 
-- [[prudential-japan]]
+- [[life-insurers/prudential-japan]]
 - [[insurance/life-insurance-channel-mix]]
-- [[sony-life]]
-- [[nn-life-japan]]
+- [[life-insurers/sony-life]]
+- [[life-insurers/nn-life-japan]]
 
 ## Sources
 

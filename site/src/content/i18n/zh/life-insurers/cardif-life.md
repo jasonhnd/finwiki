@@ -17,7 +17,7 @@ translated_at: 2026-05-31T11:13:44.842Z
 
 ##TL;博士
 
-卡迪夫人寿保险株式会社是一家被列入金融厅人寿保险公司名单和人寿保险协会会员名单的外资日本人寿保险公司。它与 [[bnp-paribas-japan]] 处于相同的法国巴黎银行/卡迪夫邻接关系下，但 FinWiki 将其视为信用保护和面向银行保险的人寿保险运营公司，而不是银行/证券页面。
+卡迪夫人寿保险株式会社是一家被列入金融厅人寿保险公司名单和人寿保险协会会员名单的外资日本人寿保险公司。它与 [[foreign-financial-institutions/bnp-paribas-japan]] 处于相同的法国巴黎银行/卡迪夫邻接关系下，但 FinWiki 将其视为信用保护和面向银行保险的人寿保险运营公司，而不是银行/证券页面。
 
 ## 1。许可证/组边界
 
@@ -26,7 +26,7 @@ translated_at: 2026-05-31T11:13:44.842Z
 |法定名称|卡迪夫人寿保险有限公司|
 |许可途径|保险业法——人寿保险公司； FSA 人寿保险公司名单|
 |行业机构|日本人寿保险协会会员|
-|组邻接|法国巴黎银行卡迪夫 / [[bnp-paribas-japan]]|
+|组邻接|法国巴黎银行卡迪夫 / [[foreign-financial-institutions/bnp-paribas-japan]]|
 |维基角色|与银行保险/债权人保险相关的外资人寿保险公司|
 
 ## 2。运营模式
@@ -41,10 +41,10 @@ Cardif 的日本人寿保险界面对于抵押/贷款保护、信用保护和银
 
 ＃＃ 有关的
 
-- [[bnp-paribas-japan]]
+- [[foreign-financial-institutions/bnp-paribas-japan]]
 - [[insurance/life-insurance-channel-mix]]
-- [[dai-ichi-frontier-life]]
-- [[td-financial-life]]
+- [[life-insurers/dai-ichi-frontier-life]]
+- [[life-insurers/td-financial-life]]
 
 ## 来源
 

@@ -25,6 +25,6 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 - The aggregate notional of Japan corporate cross-shareholding equity-derivative hedges — public estimates are limited; rough sizing would require dealer-bank disclosure or BOJ / FSA aggregate publications.
 - The share of large Japan share-buyback programs that use ASR or other derivative-overlay structures vs simple in-market accumulation.
-- The extent to which the [[JapanFG/japan-exchange-group|TSE corporate governance code]] revisions accelerate or constrain corporate hedging activity — does mandatory cross-shareholding reduction increase or decrease the hedging franchise?
+- The extent to which the [[financial-regulators/japan-exchange-group|TSE corporate governance code]] revisions accelerate or constrain corporate hedging activity — does mandatory cross-shareholding reduction increase or decrease the hedging franchise?
 - The cross-flow between corporate equity-derivative hedging and the trust-bank custody channel — many corporate hedges may transact via trust-bank-held employee-trust vehicles.
 - Dealer-franchise market share by bank in equity OTC options serving Japan corporates — public disclosure is fragmented; firm-by-firm sizing is necessarily indicative.

@@ -15,7 +15,7 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it
 
 ## TL;DR
 
-Mid-sized independent securities holding company (TSE Standard **8708**). Founded by 1918-02  Yaichi Aizawa in Tokyo's Nihonbashi-Kabutocho as Aizawa Securities Shop → incorporated in 1948  → listed on JASDAQ in 1989  → converted into a holding company in 2017-04 . It has established a distinct position as a **"specialist securities house for investment in emerging Asia."** Among Japanese securities companies, it has one of the broadest coverages of emerging Asian markets (Vietnam, Indonesia, Thailand, Cambodia, Myanmar, etc.). Retail-focused, with limited corporate IB. Competitors are [[okasan-sg]] / [[tokai-tokyo-fh]] in the same independent mid-tier bracket, and internet-based [[matsui-sec]] / [[monex-group]]. ^[extracted]
+Mid-sized independent securities holding company (TSE Standard **8708**). Founded by 1918-02  Yaichi Aizawa in Tokyo's Nihonbashi-Kabutocho as Aizawa Securities Shop → incorporated in 1948  → listed on JASDAQ in 1989  → converted into a holding company in 2017-04 . It has established a distinct position as a **"specialist securities house for investment in emerging Asia."** Among Japanese securities companies, it has one of the broadest coverages of emerging Asian markets (Vietnam, Indonesia, Thailand, Cambodia, Myanmar, etc.). Retail-focused, with limited corporate IB. Competitors are [[securities-firms/okasan-sg]] / [[securities-firms/tokai-tokyo-fh]] in the same independent mid-tier bracket, and internet-based [[securities-firms/matsui-sec]] / [[securities-firms/monex-group]]. ^[extracted]
 
 ## 1. Company profile
 
@@ -68,11 +68,11 @@ Aizawa Securities Group (holding company, TSE STD 8708)
 - Among Japanese securities firms, it has **one of the broadest coverages of emerging Asian markets** (including frontier markets) ^[extracted]
 - Local networks in Vietnam, Indonesia, Thailand, Cambodia, and Myanmar
 - Provides brokerage access, with face-to-face service, to frontier-market names that individual investors find hard to access
-- Secures a niche by concentrating on geographies not covered by major houses ([[ndfg]] / Daiwa / SMBC Nikko)
+- Secures a niche by concentrating on geographies not covered by major houses ([[megabanks/ndfg]] / Daiwa / SMBC Nikko)
 
 ### Domestic position
 
-- In the mid-sized independent securities bracket (alongside [[okasan-sg]] / [[tokai-tokyo-fh]] / [[matsui-sec]] / [[monex-group]] / [[iwai-cosmo-hd]])
+- In the mid-sized independent securities bracket (alongside [[securities-firms/okasan-sg]] / [[securities-firms/tokai-tokyo-fh]] / [[securities-firms/matsui-sec]] / [[securities-firms/monex-group]] / [[securities-firms/iwai-cosmo-hd]])
 - Specialized in retail clients; does not meaningfully pursue corporate IB
 - Hybrid of face-to-face sales + partial online trading (not a pure online broker)
 
@@ -85,12 +85,12 @@ Aizawa Securities Group (holding company, TSE STD 8708)
 
 | Competitor | Axis |
 |---|---|
-| [[iwai-cosmo-hd]] (IwaiCosmo Holdings) | Same mid-sized independent bracket, Kansai origin, hybrid of face-to-face + online |
-| [[okasan-sg]] (Okasan Securities Group) | Mid-sized independent broker originating in the Chukyo area, online + face-to-face |
-| [[tokai-tokyo-fh]] (Tokai Tokyo Financial Holdings) | Mid-sized Chukyo + Kanto player with many regional-financial tie-ups |
-| [[matsui-sec]] (Matsui Securities) | Pure online broker, centered on younger customers |
-| [[monex-group]] (Monex Group) | Pure online broker, differentiated by U.S. equities + crypto assets |
-| [[smbc-nikko]] (SMBC Nikko) | Major 5 -house securities firm under a megabank group |
+| [[securities-firms/iwai-cosmo-hd]] (IwaiCosmo Holdings) | Same mid-sized independent bracket, Kansai origin, hybrid of face-to-face + online |
+| [[securities-firms/okasan-sg]] (Okasan Securities Group) | Mid-sized independent broker originating in the Chukyo area, online + face-to-face |
+| [[securities-firms/tokai-tokyo-fh]] (Tokai Tokyo Financial Holdings) | Mid-sized Chukyo + Kanto player with many regional-financial tie-ups |
+| [[securities-firms/matsui-sec]] (Matsui Securities) | Pure online broker, centered on younger customers |
+| [[securities-firms/monex-group]] (Monex Group) | Pure online broker, differentiated by U.S. equities + crypto assets |
+| [[securities-firms/smbc-nikko]] (SMBC Nikko) | Major 5 -house securities firm under a megabank group |
 
 ## 4. Regulation / policy
 
@@ -107,9 +107,9 @@ Aizawa Securities Group (holding company, TSE STD 8708)
 
 ## Related
 
-- [[okasan-sg]] · [[tokai-tokyo-fh]] · [[matsui-sec]] · [[monex-group]] · [[iwai-cosmo-hd]]
-- [[ndfg]] · [[daiwa-sg]] · [[smbc-nikko]]
-- [[sbi-hd]]
+- [[securities-firms/okasan-sg]] · [[securities-firms/tokai-tokyo-fh]] · [[securities-firms/matsui-sec]] · [[securities-firms/monex-group]] · [[securities-firms/iwai-cosmo-hd]]
+- [[megabanks/ndfg]] · [[securities-firms/daiwa-sg]] · [[securities-firms/smbc-nikko]]
+- [[megabanks/sbi-hd]]
 
 ## Sources
 

@@ -16,7 +16,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## 推論 (from GMO 金融経済圏の中核)
 
-- **GMO インターネットグループの「金融セグメント」統括会社**：兄弟会社の [[gmo-payment-gateway|GMO ペイメントゲートウェイ]]・[[gmo-aozora-net|GMO あおぞらネット銀行]]・[[gmo-coin|GMO コイン]] と相互送客・データ連携 ^[inferred]
+- **GMO インターネットグループの「金融セグメント」統括会社**：兄弟会社の [[payment-firms/gmo-payment-gateway|GMO ペイメントゲートウェイ]]・[[payment-firms/gmo-aozora-net|GMO あおぞらネット銀行]]・[[payment-firms/gmo-coin|GMO コイン]] と相互送客・データ連携 ^[inferred]
 
 ## 推論 (from 海外戦略)
 
@@ -30,7 +30,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 - **「FX 一本足リスク」** ^[inferred]：GMO クリック証券の収益は FX 取引高に強く依存。為替ボラ低下局面では業績変動リスク。CFD・暗号資産・現物株への分散が進むか
 - **「楽天・SBI 経済圏との規模差」** ^[inferred]：個人向け証券口座数では SBI / 楽天に劣後、GMO 経済圏の総合力（ポイント連動・銀行口座一体感）でも楽天・PayPay に対して見劣り
-- **「東証 STD 上場」の限界** ^[inferred]：兄弟会社 [[gmo-payment-gateway|GMO ペイメントゲートウェイ]]（PRIME 3769）と比較すると市場区分が低い → 評価倍率・機関投資家アクセスで不利
+- **「東証 STD 上場」の限界** ^[inferred]：兄弟会社 [[payment-firms/gmo-payment-gateway|GMO ペイメントゲートウェイ]]（PRIME 3769）と比較すると市場区分が低い → 評価倍率・機関投資家アクセスで不利
 
 <!-- Phase 1.5 追加抽出 (2026-05-29) -->
 

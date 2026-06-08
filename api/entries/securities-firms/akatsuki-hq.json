@@ -49,40 +49,38 @@
     "中計（2024）"
   ],
   "body_links": {
-    "wikilinks_count": 11,
+    "wikilinks_count": 10,
     "wikilinks": [
-      "mizuho-fg",
-      "mufg",
-      "nomura-hd",
+      "megabanks/mizuho-fg",
+      "megabanks/mufg",
+      "megabanks/smfg",
       "securities-firms/INDEX",
       "securities-firms/daiwa-sg",
       "securities-firms/matsui-sec",
       "securities-firms/nomura-hd",
       "securities-firms/okasan-sg",
-      "securities/INDEX",
-      "smfg",
-      "tokai-tokyo-fh"
+      "securities-firms/tokai-tokyo-fh",
+      "securities/INDEX"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/mizuho-fg",
-      "https://finwiki.zksc.io/mufg",
-      "https://finwiki.zksc.io/nomura-hd",
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/smfg",
       "https://finwiki.zksc.io/securities-firms/INDEX",
       "https://finwiki.zksc.io/securities-firms/daiwa-sg",
       "https://finwiki.zksc.io/securities-firms/matsui-sec",
       "https://finwiki.zksc.io/securities-firms/nomura-hd",
       "https://finwiki.zksc.io/securities-firms/okasan-sg",
-      "https://finwiki.zksc.io/securities/INDEX",
-      "https://finwiki.zksc.io/smfg",
-      "https://finwiki.zksc.io/tokai-tokyo-fh"
+      "https://finwiki.zksc.io/securities-firms/tokai-tokyo-fh",
+      "https://finwiki.zksc.io/securities/INDEX"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2082,
-    "word_like_tokens": 314,
+    "nonspace_chars": 2146,
+    "word_like_tokens": 321,
     "inbound_wikilinks_count": 1,
-    "last_modified": "2026-06-06"
+    "last_modified": "2026-06-08"
   }
 }

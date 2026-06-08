@@ -32,7 +32,7 @@ translated_at: 2026-06-02T15:14:17.086Z
 ## 2. 事業上の役割
 
 - 大阪・東京を中心に リテール / SME / 法人銀行業務 を担う、りそなグループの最大 銀行事業体。
-- [[megabanks/saitama-resona-bank|埼玉りそな銀行]]、[[kansai-mirai-bank|関西みらい銀行]]、[[minato-bank|みなと銀行]] と並ぶグループ銀行網の中心。
+- [[megabanks/saitama-resona-bank|埼玉りそな銀行]]、[[regional-banks/kansai-mirai-bank|関西みらい銀行]]、[[regional-banks/minato-bank|みなと銀行]] と並ぶグループ銀行網の中心。
 - メガ 3 行ほど海外投資銀行色は強くない一方、国内 リテール / SME / 信託隣接サービス に強い。
 
 ## 3. この独立ページが重要な理由

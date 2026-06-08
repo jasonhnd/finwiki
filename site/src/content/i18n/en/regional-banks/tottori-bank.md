@@ -15,7 +15,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-Tottori Bank, Ltd. is a regional bank headquartered in Tottori Prefecture and listed in the FSA bank license list. As a standalone regional-bank operating company headquartered in Tottori Prefecture, it has a San'in market peer boundary with [[san-in-godo-bank]].
+Tottori Bank, Ltd. is a regional bank headquartered in Tottori Prefecture and listed in the FSA bank license list. As a standalone regional-bank operating company headquartered in Tottori Prefecture, it has a San'in market peer boundary with [[regional-banks/san-in-godo-bank]].
 
 ## 1. License / group boundary
 
@@ -28,19 +28,19 @@ Tottori Bank, Ltd. is a regional bank headquartered in Tottori Prefecture and li
 
 ## 2. Operating model
 
-Tottori Bank covers retail deposits, SME finance, local government relationships, and regional household / business finance in Tottori Prefecture. Compare the San'in regional-bank axis with [[san-in-godo-bank]] and the broader consolidation-pressure pattern with [[banking/regional-bank-consolidation-pattern]].
+Tottori Bank covers retail deposits, SME finance, local government relationships, and regional household / business finance in Tottori Prefecture. Compare the San'in regional-bank axis with [[regional-banks/san-in-godo-bank]] and the broader consolidation-pressure pattern with [[banking/regional-bank-consolidation-pattern]].
 
 ## 3. Why this page matters
 
 - Adds an exact-name operating-company page for Tottori Bank.
-- Provides a San'in regional-bank peer anchor with [[san-in-godo-bank]].
+- Provides a San'in regional-bank peer anchor with [[regional-banks/san-in-godo-bank]].
 - Completes a FSA bank-license-list row for JapanFG.
 
 ## Related
 
-- [[san-in-godo-bank]]
-- [[chugoku-bank]]
-- [[hiroshima-bank]]
+- [[regional-banks/san-in-godo-bank]]
+- [[regional-banks/chugoku-bank]]
+- [[regional-banks/hiroshima-bank]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 

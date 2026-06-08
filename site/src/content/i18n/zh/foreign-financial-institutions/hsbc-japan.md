@@ -16,7 +16,7 @@ translated_at: 2026-05-31T15:29:03.903Z
 
 ##TL;博士
 
-英国汇丰控股有限公司（伦敦证券交易所/香港交易所上市，G-SIB Bucket 2）的日本基地。 **1866 横滨分行开业，成为历史最悠久的外资银行之一**，**2012-03 退出“汇丰卓越理财”零售→主要转向企业专用**是定义当前业务形式的转折点。以香港上海银行东京分行（商业/批发银行）+汇丰证券（IB）+汇丰环球资产管理为3 轴，我们专注于日本银行通过亚洲（香港）枢纽的全球扩张、跨国公司的交易银行业务以及外汇商品业务。比赛是[[citigroup-japan]] /渣打银行/德意志银行。 ^[extracted]
+英国汇丰控股有限公司（伦敦证券交易所/香港交易所上市，G-SIB Bucket 2）的日本基地。 **1866 横滨分行开业，成为历史最悠久的外资银行之一**，**2012-03 退出“汇丰卓越理财”零售→主要转向企业专用**是定义当前业务形式的转折点。以香港上海银行东京分行（商业/批发银行）+汇丰证券（IB）+汇丰环球资产管理为3 轴，我们专注于日本银行通过亚洲（香港）枢纽的全球扩张、跨国公司的交易银行业务以及外汇商品业务。比赛是[[foreign-financial-institutions/citigroup-japan]] /渣打银行/德意志银行。 ^[extracted]
 
 ## 1。公司简介
 
@@ -79,15 +79,15 @@ HSBC Holdings plc（英、上场）
 ### 零售撤出的战略影响
 
 - **2012-03 退出“汇丰卓越理财”的原因**：日本零售市场与利润率不匹配（公开声明）^[extracted]
-- **客户转账**：主要转账给SBI信托银行（目前[[sbi-shinsei-bank]]集团）等。
+- **客户转账**：主要转账给SBI信托银行（目前[[regional-banks/sbi-shinsei-bank]]集团）等。
 - **矛盾效应**：通过退出降低固定成本→通过专业化公司提高资本效率
-- **控制**：[[citigroup-japan]] 退出 2015  零售（出售给三井住友 [[smfg]]）。外资IB退出零售是结构性趋势
+- **控制**：[[foreign-financial-institutions/citigroup-japan]] 退出 2015  零售（出售给三井住友 [[megabanks/smfg]]）。外资IB退出零售是结构性趋势
 
 ### 竞争关系
 
 |竞赛|位置|与汇丰银行的区别|
 |---|---|---|
-|[[citigroup-japan]]|米最大外资、Citi Private Bank で富裕层残存|汇丰银行专注于企业，花旗则拥有私人银行|
+|[[foreign-financial-institutions/citigroup-japan]]|米最大外资、Citi Private Bank で富裕层残存|汇丰银行专注于企业，花旗则拥有私人银行|
 |渣打银行（东京分行）|英国新兴市场专业化|汇丰银行拥有香港/中国柜台优势|
 |德意志银行东京分行|德国IB，衍生品实力雄厚|汇丰银行专注于商业银行业务|
 |摩根大通/高盛/摩根士丹利东京|米鼓支架 IB|汇丰银行比兴业银行更像是一家商业银行|
@@ -109,7 +109,7 @@ HSBC Holdings plc（英、上场）
 
 ＃＃ 有关的
 
-- [[citigroup-japan]] · [[mufg]] · [[smfg]] · [[mizuho-fg]]
+- [[foreign-financial-institutions/citigroup-japan]] · [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]
 - [[banking/foreign-bank-japan-retreat]]（外资银行退出日本零售业的历史）
 
 ## 来源

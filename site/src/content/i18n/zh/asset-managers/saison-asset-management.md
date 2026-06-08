@@ -11,7 +11,7 @@ translated_at: 2026-06-01T00:41:50.446Z
 
 ## Wiki route
 
-本条目位于 [[asset-managers/INDEX|asset-managers INDEX]] 之下，是 [[card-issuers/credit-saison|Credit Saison]] 集团投资信托子公司的 operating-company 锚点。可与 [[card-issuers/credit-saison|クレディセゾン（親会社）]]、长期分散投资同业 [[JapanFG/hifumi|レオス・キャピタルワークス（ひふみ投信）]]・[[JapanFG/sawakami-am|さわかみ投信]]・[[JapanFG/commons-am|コモンズ投信]]、distribution channel [[asset-managers/INDEX]] 的直销投信群、以及 regulatory boundary 的 broader context [[asset-management/INDEX|asset management index]] 对照阅读。
+本条目位于 [[asset-managers/INDEX|asset-managers INDEX]] 之下，是 [[card-issuers/credit-saison|Credit Saison]] 集团投资信托子公司的 operating-company 锚点。可与 [[card-issuers/credit-saison|クレディセゾン（親会社）]]、长期分散投资同业 [[JapanFG/hifumi|レオス・キャピタルワークス（ひふみ投信）]]・[[JapanFG/sawakami-am|さわかみ投信]]・[[JapanFG/commons-am|コモンズ投信]]、distribution channel [[asset-managers/INDEX]] 的直销投信群、以及 regulatory boundary 的 broader context [[asset-managers/INDEX|asset management index]] 对照阅读。
 
 ## TL;DR
 
@@ -129,7 +129,7 @@ translated_at: 2026-06-01T00:41:50.446Z
 - [[JapanFG/commons-am]] — 独立系直销投信同业
 - [[trust-banks/master-trust-bank]] — 受托信托银行
 - [[megabanks/mizuho-fg]] — 母公司系列 main bank
-- [[asset-management/INDEX]] — asset management namespace index
+- [[asset-managers/INDEX]] — asset management namespace index
 - [[asset-managers/INDEX]] — JapanFG namespace index
 
 ## Sources

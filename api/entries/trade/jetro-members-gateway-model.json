@@ -35,11 +35,10 @@
     "Related"
   ],
   "body_links": {
-    "wikilinks_count": 8,
+    "wikilinks_count": 7,
     "wikilinks": [
       "INDEX",
       "financial-regulators/jbic",
-      "jetro-organization-structure",
       "policy-finance/japan-project-finance-stack-diagram",
       "policy-finance/jogmec",
       "policy-finance/nexi",
@@ -49,7 +48,6 @@
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
       "https://finwiki.zksc.io/financial-regulators/jbic",
-      "https://finwiki.zksc.io/jetro-organization-structure",
       "https://finwiki.zksc.io/policy-finance/japan-project-finance-stack-diagram",
       "https://finwiki.zksc.io/policy-finance/jogmec",
       "https://finwiki.zksc.io/policy-finance/nexi",
@@ -60,9 +58,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1591,
-    "word_like_tokens": 227,
+    "nonspace_chars": 1597,
+    "word_like_tokens": 228,
     "inbound_wikilinks_count": 3,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-08"
   }
 }

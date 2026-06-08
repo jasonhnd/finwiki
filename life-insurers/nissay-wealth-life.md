@@ -24,7 +24,7 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it with 
 
 ## TL;DR
 
-ニッセイ・ウェルス生命保険株式会社は、金融庁 life-insurer list と生命保険協会会員一覧に掲載される [[nippon-life]] group の life-insurance operating company。wealth / financial-institution channel products を見るため、Nippon Life parent page から分けて扱う。
+ニッセイ・ウェルス生命保険株式会社は、金融庁 life-insurer list と生命保険協会会員一覧に掲載される [[life-insurers/nippon-life]] group の life-insurance operating company。wealth / financial-institution channel products を見るため、Nippon Life parent page から分けて扱う。
 
 ## 1. License / group boundary
 
@@ -33,7 +33,7 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it with 
 | Legal name | ニッセイ・ウェルス生命保険株式会社 |
 | License route | Insurance Business Act life-insurance company; FSA life insurer list |
 | Industry body | Life Insurance Association of Japan member |
-| Group boundary | [[nippon-life]] group |
+| Group boundary | [[life-insurers/nippon-life]] group |
 | Wiki role | Nippon Life group wealth / financial-institution-channel life insurer |
 
 ## 2. Operating model
@@ -48,10 +48,10 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it with 
 
 ## Related
 
-- [[nippon-life]]
-- [[hanasaku-life]]
-- [[dai-ichi-frontier-life]]
-- [[td-financial-life]]
+- [[life-insurers/nippon-life]]
+- [[life-insurers/hanasaku-life]]
+- [[life-insurers/dai-ichi-frontier-life]]
+- [[life-insurers/td-financial-life]]
 - [[insurance/life-insurance-channel-mix]]
 
 ## Sources

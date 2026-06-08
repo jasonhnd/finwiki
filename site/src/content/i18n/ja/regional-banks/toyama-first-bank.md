@@ -17,7 +17,7 @@ translated_at: 2026-06-02T16:33:58.516Z
 
 ## 要約
 
-株式会社富山第一銀行は、金融庁の銀行免許一覧では第二地方銀行として掲載される富山県本店の regional bank。富山県内では[[hokuriku-bank]]、[[toyama-bank]]と並ぶ competing local-bank surface を構成する。
+株式会社富山第一銀行は、金融庁の銀行免許一覧では第二地方銀行として掲載される富山県本店の regional bank。富山県内では[[regional-banks/hokuriku-bank]]、[[regional-banks/toyama-bank]]と並ぶ competing local-bank surface を構成する。
 
 ## 1。ライセンス/グループの境界
 
@@ -30,19 +30,19 @@ translated_at: 2026-06-02T16:33:58.516Z
 
 ## 2。動作モデル
 
-富山第一銀行は、地域の個人、SME、地域法人との取引関係を持つ第二地方銀行である。北陸の銀行地図では、別個の免許を持つ銀行かつ競合先であるため、[[hokuhoku-fg]]または[[hokkoku-fhd]]に組み込んで扱わない。第二地方銀行全体の圧力曲線は[[banking/regional-bank-consolidation-pattern]]を参照。
+富山第一銀行は、地域の個人、SME、地域法人との取引関係を持つ第二地方銀行である。北陸の銀行地図では、別個の免許を持つ銀行かつ競合先であるため、[[regional-banks/hokuhoku-fg]]または[[regional-banks/hokkoku-fhd]]に組み込んで扱わない。第二地方銀行全体の圧力曲線は[[banking/regional-bank-consolidation-pattern]]を参照。
 
 ## 3。このページが重要な理由
 
 - 第 2 地方銀行の正確な名前ページを追加します。
-- 第1回北陸B完走2 横にスライスする[[hokuriku-bank]], [[hokkoku-bank]]、 そして[[toyama-bank]].
+- 第1回北陸B完走2 横にスライスする[[regional-banks/hokuriku-bank]], [[regional-banks/hokkoku-bank]]、 そして[[regional-banks/toyama-bank]].
 - レジストリベースの B2.1 地方銀行の事業会社のページ（以下にインデックスされています）[[regional-banks/INDEX|regional-banks INDEX]].
 
 ## 関連項目
 
-- [[hokuriku-bank]]
-- [[toyama-bank]]
-- [[hokuhoku-fg]]
+- [[regional-banks/hokuriku-bank]]
+- [[regional-banks/toyama-bank]]
+- [[regional-banks/hokuhoku-fg]]
 - [[banking/INDEX]]
 
 ## 出典

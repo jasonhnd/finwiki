@@ -22,7 +22,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 - 「直販投信」優位性: 楽天証券・SBI 証券等のネット証券経由販売が拡大し、純粋な直販モデルの差別化は相対化 ^[ambiguous]
 - 「中野晴啓氏退任」影響: 2023 創業者退任後、独立色強い投信哲学の継承度は要観察 ^[ambiguous]
-- 「親会社 [[JapanFG/credit-saison|Credit Saison]] シナジー」: カード顧客 → 投信のクロスセル効率は親会社業績との連動・カード会員プロファイル次第 ^[inferred]
+- 「親会社 [[card-issuers/credit-saison|Credit Saison]] シナジー」: カード顧客 → 投信のクロスセル効率は親会社業績との連動・カード会員プロファイル次第 ^[inferred]
 - 「Vanguard 依存」: 主力「グローバルバランスファンド」が Vanguard ETF を中核に組み立てているため、Vanguard 商品ラインや手数料水準の変動が直接影響 ^[inferred]
 - 「新 NISA 追い風」: 制度的追い風は競合（[[JapanFG/hifumi|ひふみ投信]] / メガ系運用会社）にも同様に作用、相対的シェア拡大は別問題 ^[inferred]
 
@@ -30,7 +30,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 - AUM 中期目標（新 NISA 追い風で 1 兆円超か）?
 - 中野晴啓氏退任後の「直販 + 長期国際分散」哲学の継承度?
-- [[JapanFG/credit-saison|Credit Saison]] カード顧客 → 投信クロスセル効率の定量化（カード会員のうち何 % が投信口座保有か）?
+- [[card-issuers/credit-saison|Credit Saison]] カード顧客 → 投信クロスセル効率の定量化（カード会員のうち何 % が投信口座保有か）?
 - ネット証券販売シェア vs 直販シェアの推移（ネット証券化進行度）?
 - 主力ファンドの実質利回り・トータルリターンの長期実績（10 年・20 年累積）?
 - iDeCo 取扱運営管理機関の拡大余地?

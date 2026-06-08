@@ -24,7 +24,7 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 
 ## TL;DR
 
-T&Dフィナンシャル生命保険株式会社は、[[td-hd]] group の life-insurance operating company。[[daido-life]]、[[taiyo-life]] と並ぶ T&D group の core legal entity で、financial-institution / shop-channel oriented products を分析するための standalone anchor。
+T&Dフィナンシャル生命保険株式会社は、[[life-insurers/td-hd]] group の life-insurance operating company。[[life-insurers/daido-life]]、[[life-insurers/taiyo-life]] と並ぶ T&D group の core legal entity で、financial-institution / shop-channel oriented products を分析するための standalone anchor。
 
 ## 1. License / group boundary
 
@@ -33,12 +33,12 @@ T&Dフィナンシャル生命保険株式会社は、[[td-hd]] group の life-i
 | Legal name | Ｔ＆Ｄフィナンシャル生命保険株式会社 |
 | License route | Insurance Business Act life-insurance company; FSA life insurer list |
 | Industry body | Life Insurance Association of Japan member |
-| Group boundary | [[td-hd]] operating company |
+| Group boundary | [[life-insurers/td-hd]] operating company |
 | Wiki role | T&D group specialist insurer for financial-institution / shop channels |
 
 ## 2. Operating model
 
-T&D group is easier to understand as a three-entity structure: [[taiyo-life]] for individual / household channels, [[daido-life]] for SME / owner channels, and T&Dフィナンシャル生命 for financial-institution / shop-channel products.
+T&D group is easier to understand as a three-entity structure: [[life-insurers/taiyo-life]] for individual / household channels, [[life-insurers/daido-life]] for SME / owner channels, and T&Dフィナンシャル生命 for financial-institution / shop-channel products.
 
 This page keeps channel economics, product risk, and suitability issues separate from the holding-company page.
 
@@ -50,10 +50,10 @@ This page keeps channel economics, product risk, and suitability issues separate
 
 ## Related
 
-- [[td-hd]]
-- [[daido-life]]
-- [[taiyo-life]]
-- [[dai-ichi-frontier-life]]
+- [[life-insurers/td-hd]]
+- [[life-insurers/daido-life]]
+- [[life-insurers/taiyo-life]]
+- [[life-insurers/dai-ichi-frontier-life]]
 - [[insurance/life-insurance-channel-mix]]
 
 ## Sources

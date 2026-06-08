@@ -18,6 +18,6 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## Open questions
 
-- How BNPL ([[JapanFG/bnpl-landscape]]) growth affects card-receivable ABS pool composition.
+- How BNPL ([[payment-firms/bnpl-landscape]]) growth affects card-receivable ABS pool composition.
 - Whether digital-only / fintech card issuers ever issue ABS at scale (currently limited).
 - Long-term effect of demographic decline on card-receivable pool growth.

@@ -49,34 +49,32 @@
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 8,
+    "wikilinks_count": 7,
     "wikilinks": [
-      "asahi-life",
-      "hanasaku-life",
       "insurance/INDEX",
       "insurance/global-solvency-framework-comparison-matrix",
       "insurance/life-insurance-channel-mix",
       "life-insurers/INDEX",
+      "life-insurers/asahi-life",
       "life-insurers/hanasaku-life",
-      "medicare-life"
+      "life-insurers/medicare-life"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/asahi-life",
-      "https://finwiki.zksc.io/hanasaku-life",
       "https://finwiki.zksc.io/insurance/INDEX",
       "https://finwiki.zksc.io/insurance/global-solvency-framework-comparison-matrix",
       "https://finwiki.zksc.io/insurance/life-insurance-channel-mix",
       "https://finwiki.zksc.io/life-insurers/INDEX",
+      "https://finwiki.zksc.io/life-insurers/asahi-life",
       "https://finwiki.zksc.io/life-insurers/hanasaku-life",
-      "https://finwiki.zksc.io/medicare-life"
+      "https://finwiki.zksc.io/life-insurers/medicare-life"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1858,
-    "word_like_tokens": 287,
-    "inbound_wikilinks_count": 4,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 1970,
+    "word_like_tokens": 303,
+    "inbound_wikilinks_count": 5,
+    "last_modified": "2026-06-08"
   }
 }

@@ -69,12 +69,12 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 
 | Competitor | Business type |
 |---|---|
-| [[aflac-japan]] | Foreign-owned life insurer; domestic leader-class player in cancer insurance and third-sector products |
-| [[prudential-japan]] | Foreign-owned life insurer; life-planner (LP) captive-sales model |
-| [[sony-fg]] / Sony Life | Domestic group; life-planner model |
-| [[axa-japan]] | Foreign-owned life insurer; group and individual multiline player |
-| [[manulife-japan]] | Foreign-owned life insurer; foreign-currency insurance |
-| [[nippon-life]] / [[dai-ichi-life]] / [[life-insurers/meiji-yasuda|meiji-yasuda-life]] / [[sumitomo-life]] | Japanese 4  major insurers; sales-staff model |
+| [[life-insurers/aflac-japan]] | Foreign-owned life insurer; domestic leader-class player in cancer insurance and third-sector products |
+| [[life-insurers/prudential-japan]] | Foreign-owned life insurer; life-planner (LP) captive-sales model |
+| [[megabanks/sony-fg]] / Sony Life | Domestic group; life-planner model |
+| [[life-insurers/axa-japan]] | Foreign-owned life insurer; group and individual multiline player |
+| [[life-insurers/manulife-japan]] | Foreign-owned life insurer; foreign-currency insurance |
+| [[life-insurers/nippon-life]] / [[life-insurers/dai-ichi-life]] / [[life-insurers/meiji-yasuda|meiji-yasuda-life]] / [[life-insurers/sumitomo-life]] | Japanese 4  major insurers; sales-staff model |
 | Online insurers | Lifenet Life / AXA Direct Life and others; low-price direct model |
 
 ## 4. Regulation And Policy
@@ -87,9 +87,9 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 
 ## Related
 
-- [[aflac-japan]] · [[prudential-japan]] · [[sony-fg]] · [[axa-japan]] · [[manulife-japan]]
-- [[nippon-life]] · [[dai-ichi-life]] · [[life-insurers/meiji-yasuda|meiji-yasuda-life]] · [[sumitomo-life]]
-- [[mufg]] (bancassurance partnership) · [[smfg]] · [[mizuho-fg]]
+- [[life-insurers/aflac-japan]] · [[life-insurers/prudential-japan]] · [[megabanks/sony-fg]] · [[life-insurers/axa-japan]] · [[life-insurers/manulife-japan]]
+- [[life-insurers/nippon-life]] · [[life-insurers/dai-ichi-life]] · [[life-insurers/meiji-yasuda|meiji-yasuda-life]] · [[life-insurers/sumitomo-life]]
+- [[megabanks/mufg]] (bancassurance partnership) · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]
 
 ## Sources
 

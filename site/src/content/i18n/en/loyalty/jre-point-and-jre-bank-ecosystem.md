@@ -16,7 +16,7 @@ This entry sits under [[loyalty/INDEX|loyalty index]] as the transit-anchored lo
 
 ## TL;DR
 
-**JRE POINT** is the loyalty currency of the [[card-issuers/jr-east-financial|JR-East Financial Subsidiaries]] ecosystem, sitting at the intersection of Mobile Suica, ViewCard credit cards, and the JRE BANK brand banking account operated under [[JapanFG/rakuten-bank|Rakuten Bank]] BaaS from 2024-05. The economic logic is to convert daily rail commuting, station retail, credit-card spend, and bank-deposit balances into a single LTV ladder.
+**JRE POINT** is the loyalty currency of the [[card-issuers/jr-east-financial|JR-East Financial Subsidiaries]] ecosystem, sitting at the intersection of Mobile Suica, ViewCard credit cards, and the JRE BANK brand banking account operated under [[banking/rakuten-bank|Rakuten Bank]] BaaS from 2024-05. The economic logic is to convert daily rail commuting, station retail, credit-card spend, and bank-deposit balances into a single LTV ladder.
 
 ## Ecosystem perimeter — the four anchors
 
@@ -24,7 +24,7 @@ This entry sits under [[loyalty/INDEX|loyalty index]] as the transit-anchored lo
 |---|---|---|
 | **Suica (physical IC card + Mobile Suica)** | [[card-issuers/jr-east-financial|JR-East]] direct (rail business) + JR East Payment Service (acceptance / merchant) | Primary daily-transaction surface; ride-commute accrual + e-money payment accrual |
 | **ViewCard (ViewCard Co., Ltd.)** | JR-East-100% subsidiary | Credit-card spend accrual; auto-charge to Suica; gold-tier service tier |
-| **JRE BANK** | JR-East brand × [[JapanFG/rakuten-bank|楽天銀行]] BaaS (opened 2024-05-09) | Bank deposit-balance accrual; long-distance ticket fare-discount benefit |
+| **JRE BANK** | JR-East brand × [[banking/rakuten-bank|楽天銀行]] BaaS (opened 2024-05-09) | Bank deposit-balance accrual; long-distance ticket fare-discount benefit |
 | **JR-East station retail (Lumine, atre, ecute, NewDays)** | JR-East group banners | Scan-and-earn at retail POS; merchant-funded accrual campaigns |
 
 The **identity layer is the JRE POINT membership ID**, which connects across all four anchors. A JRE POINT member can be:
@@ -69,11 +69,11 @@ The VIEW Plus bonus tier for ViewCard provides 1.5% accrual on Mobile Suica auto
 
 ## JRE BANK — the 2024 BaaS-based bank brand
 
-**JRE BANK** opened on **2024-05-09** as a JR-East-brand banking account operated under **[[JapanFG/rakuten-bank|楽天銀行]] BaaS** (the actual banking license is held by 楽天銀行, with JR-East providing the brand and customer relationship). Key features:
+**JRE BANK** opened on **2024-05-09** as a JR-East-brand banking account operated under **[[banking/rakuten-bank|楽天銀行]] BaaS** (the actual banking license is held by 楽天銀行, with JR-East providing the brand and customer relationship). Key features:
 
 | Item | Detail |
 |---|---|
-| Operator (license holder) | [[JapanFG/rakuten-bank|楽天銀行]] |
+| Operator (license holder) | [[banking/rakuten-bank|楽天銀行]] |
 | Brand owner | [[card-issuers/jr-east-financial|JR-East]] (East Japan Railway Company) |
 | Opening date | **2024-05-09** |
 | Account model | Brand-bank model (similar to a co-branded credit card, but at the deposit-account level) |
@@ -134,7 +134,7 @@ The second-closest peer is private-railway transit-anchored loyalty, such as [[J
 - [[loyalty/sb-yahoo-paypay-points-unified-ecosystem|SB / Yahoo / PayPay unified points]]
 - [[loyalty/t-point-v-point-post-2024-merger|T Point + V Point post-2024 merger detail]]
 - [[card-issuers/jr-east-financial|JR-East Financial Subsidiaries]]
-- [[JapanFG/rakuten-bank|楽天銀行 (Rakuten Bank)]]
+- [[banking/rakuten-bank|楽天銀行 (Rakuten Bank)]]
 - [[regional-banks/seven-bank|Seven Bank]]
 - [[card-issuers/aeon-bank|Aeon Bank / AFS]]
 - [[card-issuers/jal-card|JAL Card]]

@@ -22,7 +22,7 @@ This entry sits under [[leasing-firms/INDEX|leasing-firms INDEX]]. Read it again
 
 ## TL;DR
 
-日本 3 大総合リース・ファイナンスの一角（[[orix-corp]] / [[mufg]] 系 三菱 HC キャピタル / 東京センチュリー）。**みずほ FG ([[mizuho-fg]]) + 伊藤忠商事の 2 軸主要株主**という珍しい資本構造。自動車・IT・産業機器リースから不動産・**航空機ファイナンス**・海外（米州・アジア）・環境/再エネ・コンセッション・レンタカー（旧 ニッポンレンタカーサービス）まで多角化。東証 PRIME **8439**。2019 年 米 Aviation Capital Group (ACG) 完全子会社化により**航空機リース世界 Top 10** 入り。
+日本 3 大総合リース・ファイナンスの一角（[[leasing-firms/orix-corp]] / [[megabanks/mufg]] 系 三菱 HC キャピタル / 東京センチュリー）。**みずほ FG ([[megabanks/mizuho-fg]]) + 伊藤忠商事の 2 軸主要株主**という珍しい資本構造。自動車・IT・産業機器リースから不動産・**航空機ファイナンス**・海外（米州・アジア）・環境/再エネ・コンセッション・レンタカー（旧 ニッポンレンタカーサービス）まで多角化。東証 PRIME **8439**。2019 年 米 Aviation Capital Group (ACG) 完全子会社化により**航空機リース世界 Top 10** 入り。
 
 ## 1. 会社概要
 
@@ -31,7 +31,7 @@ This entry sits under [[leasing-firms/INDEX|leasing-firms INDEX]]. Read it again
 **証券コード**：東証 PRIME **8439**
 **業態**：総合リース・ファイナンス（3 大リース）
 **主要株主（合計約 50% 級）**：
-- **みずほ FG ([[mizuho-fg]])**（旧 第一勧業銀行系の系譜）
+- **みずほ FG ([[megabanks/mizuho-fg]])**（旧 第一勧業銀行系の系譜）
 - **伊藤忠商事**
 
 2 軸株主構造は日本の総合リース大手としてはユニーク。みずほ側は金融的支援、伊藤忠側は商社ネットワーク（自動車・産業機器・海外プロジェクト）を提供し、リース原資調達と案件供給の両面で支えている。
@@ -52,11 +52,11 @@ This entry sits under [[leasing-firms/INDEX|leasing-firms INDEX]]. Read it again
 
 3 大リース・準大手まで含めると以下：
 
-- **[[orix-corp]]**（オリックス）── リース起源だが現在は金融複合体
-- **三菱 HC キャピタル**（[[mufg]] 内、東証 PRIME 8593）── 旧 三菱 UFJ リース + 日立キャピタル
+- **[[leasing-firms/orix-corp]]**（オリックス）── リース起源だが現在は金融複合体
+- **三菱 HC キャピタル**（[[megabanks/mufg]] 内、東証 PRIME 8593）── 旧 三菱 UFJ リース + 日立キャピタル
 - **東京センチュリー**（本ページ）
-- **芙蓉総合リース ([[fuyo-lease]])** ── みずほ系の別軸
-- **SMFL（三井住友ファイナンス&リース）** ── [[smfg]] 内、住友商事系合弁
+- **芙蓉総合リース ([[leasing-firms/fuyo-lease]])** ── みずほ系の別軸
+- **SMFL（三井住友ファイナンス&リース）** ── [[megabanks/smfg]] 内、住友商事系合弁
 
 ### 2 つの前身
 
@@ -105,8 +105,8 @@ This entry sits under [[leasing-firms/INDEX|leasing-firms INDEX]]. Read it again
 
 | 大手 | 差別化軸 |
 |---|---|
-| [[orix-corp]] | 不動産・PE・保険・銀行までの**金融コングロマリット**化 |
-| 三菱 HC キャピタル | 三菱商事 + [[mufg]] 系列の**国内法人ネットワーク + グローバル産業機器** |
+| [[leasing-firms/orix-corp]] | 不動産・PE・保険・銀行までの**金融コングロマリット**化 |
+| 三菱 HC キャピタル | 三菱商事 + [[megabanks/mufg]] 系列の**国内法人ネットワーク + グローバル産業機器** |
 | **東京センチュリー** | **みずほ FG + 伊藤忠商事の 2 軸**、航空機リース (ACG)、海外多通貨ファイナンス |
 
 伊藤忠商事との関係は商社系リース（住友商事 ⇄ SMFL、三菱商事 ⇄ 三菱 HC キャピタル）と並列で読むのが正確。
@@ -126,7 +126,7 @@ This entry sits under [[leasing-firms/INDEX|leasing-firms INDEX]]. Read it again
 
 ## Related
 
-- [[mizuho-fg]] · [[mufg]] · [[smfg]] · [[orix-corp]] · [[fuyo-lease]]
+- [[megabanks/mizuho-fg]] · [[megabanks/mufg]] · [[megabanks/smfg]] · [[leasing-firms/orix-corp]] · [[leasing-firms/fuyo-lease]]
 
 ## Sources
 

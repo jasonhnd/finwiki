@@ -60,31 +60,31 @@
     "wikilinks_count": 8,
     "wikilinks": [
       "banking/INDEX",
-      "fidea-hd",
       "financial-licenses/INDEX",
-      "mizuho-fg",
-      "mufg",
+      "megabanks/mizuho-fg",
+      "megabanks/mufg",
+      "megabanks/sbi-hd",
+      "megabanks/smfg",
       "regional-banks/INDEX",
-      "sbi-hd",
-      "smfg"
+      "regional-banks/fidea-hd"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/fidea-hd",
       "https://finwiki.zksc.io/financial-licenses/INDEX",
-      "https://finwiki.zksc.io/mizuho-fg",
-      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/sbi-hd",
+      "https://finwiki.zksc.io/megabanks/smfg",
       "https://finwiki.zksc.io/regional-banks/INDEX",
-      "https://finwiki.zksc.io/sbi-hd",
-      "https://finwiki.zksc.io/smfg"
+      "https://finwiki.zksc.io/regional-banks/fidea-hd"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5475,
-    "word_like_tokens": 1004,
-    "inbound_wikilinks_count": 10,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 5545,
+    "word_like_tokens": 1012,
+    "inbound_wikilinks_count": 16,
+    "last_modified": "2026-06-08"
   }
 }

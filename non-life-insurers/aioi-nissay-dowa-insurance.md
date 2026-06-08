@@ -24,7 +24,7 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 
 ## TL;DR
 
-あいおいニッセイ同和損害保険株式会社は、[[msad]] group の non-life insurance operating company。金融庁の損害保険会社免許一覧に掲載され、MS&AD group 内では [[mitsui-sumitomo-insurance]] と別の legal-entity and channel boundary を持つ。
+あいおいニッセイ同和損害保険株式会社は、[[non-life-insurers/msad]] group の non-life insurance operating company。金融庁の損害保険会社免許一覧に掲載され、MS&AD group 内では [[non-life-insurers/mitsui-sumitomo-insurance]] と別の legal-entity and channel boundary を持つ。
 
 ## 1. License / group boundary
 
@@ -33,7 +33,7 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 | Legal name | あいおいニッセイ同和損害保険株式会社 |
 | License route | Insurance Business Act non-life insurance company; FSA non-life insurer list |
 | Protection scheme | Non-Life Insurance Policyholders Protection Corporation member |
-| Group boundary | [[msad]] non-life operating company |
+| Group boundary | [[non-life-insurers/msad]] non-life operating company |
 | Wiki role | MS&AD domestic-retail / motor / regional-channel non-life arm |
 
 ## 2. Operating model
@@ -43,14 +43,14 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 ## 3. Why this page matters
 
 - Completes the MS&AD domestic non-life operating-company split.
-- Key peer for [[tokio-marine-nichido-fire]] and [[sompo-japan-insurance]].
+- Key peer for [[non-life-insurers/tokio-marine-nichido-fire]] and [[non-life-insurers/sompo-japan-insurance]].
 - Registry-backed D3 non-life major page.
 
 ## Related
 
-- [[msad]]
-- [[mitsui-sumitomo-insurance]]
-- [[mitsui-sumitomo-aioi-life]]
+- [[non-life-insurers/msad]]
+- [[non-life-insurers/mitsui-sumitomo-insurance]]
+- [[life-insurers/mitsui-sumitomo-aioi-life]]
 - [[insurance/natcat-reinsurance-japan]]
 - [[insurance/INDEX]]
 

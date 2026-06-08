@@ -20,4 +20,4 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 - PayPay 銀行口座のうち、PayPay app 起点で開設・利用されている割合はどれくらいか。
 - PayPay カード・PayPay 証券との cross-sell が預金残高や貸出収益にどれだけ効いているか。
-- [[JapanFG/paypay-fg|PayPay 金融グループ]] 内で銀行が決済・証券・カードを束ねる OS になるのか、補助的な口座機能に留まるのか。
+- [[megabanks/paypay-fg|PayPay 金融グループ]] 内で銀行が決済・証券・カードを束ねる OS になるのか、補助的な口座機能に留まるのか。

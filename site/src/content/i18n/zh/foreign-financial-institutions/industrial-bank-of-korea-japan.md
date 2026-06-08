@@ -39,16 +39,16 @@ FSA 名单确认东京分行为外国银行分行，JBA 的银行数据库提供
 ## 3。为什么此页面很重要
 
 - 添加了 P1  列表中缺少的韩国中小企业金融银行分行。
-- 为日本的韩国政策/半政策金融提供与 [[korea-development-bank-japan]] 同等的服务。
-- 帮助区分韩国分行和在日本注册成立的韩国拥有的 [[sbj-bank]]。
+- 为日本的韩国政策/半政策金融提供与 [[foreign-financial-institutions/korea-development-bank-japan]] 同等的服务。
+- 帮助区分韩国分行和在日本注册成立的韩国拥有的 [[regional-banks/sbj-bank]]。
 
 ＃＃ 有关的
 
-- [[woori-bank-japan]]
-- [[hana-bank-japan]]
-- [[korea-development-bank-japan]]
-- [[kb-kookmin-bank-japan]]
-- [[sbj-bank]]
+- [[foreign-financial-institutions/woori-bank-japan]]
+- [[foreign-financial-institutions/hana-bank-japan]]
+- [[foreign-financial-institutions/korea-development-bank-japan]]
+- [[foreign-financial-institutions/kb-kookmin-bank-japan]]
+- [[regional-banks/sbj-bank]]
 - [[banking/foreign-bank-japan-retreat]]
 
 ## 来源

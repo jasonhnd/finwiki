@@ -48,7 +48,7 @@
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 9,
+    "wikilinks_count": 7,
     "wikilinks": [
       "insurance/INDEX",
       "insurance/natcat-reinsurance-japan",
@@ -56,9 +56,7 @@
       "non-life-insurers/anicom-insurance",
       "non-life-insurers/sompo-direct",
       "non-life-insurers/sompo-japan-insurance",
-      "non-life-insurers/tokio-marine-nichido-fire",
-      "sompo-japan-insurance",
-      "tokio-marine-nichido-fire"
+      "non-life-insurers/tokio-marine-nichido-fire"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/insurance/INDEX",
@@ -67,17 +65,15 @@
       "https://finwiki.zksc.io/non-life-insurers/anicom-insurance",
       "https://finwiki.zksc.io/non-life-insurers/sompo-direct",
       "https://finwiki.zksc.io/non-life-insurers/sompo-japan-insurance",
-      "https://finwiki.zksc.io/non-life-insurers/tokio-marine-nichido-fire",
-      "https://finwiki.zksc.io/sompo-japan-insurance",
-      "https://finwiki.zksc.io/tokio-marine-nichido-fire"
+      "https://finwiki.zksc.io/non-life-insurers/tokio-marine-nichido-fire"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2261,
-    "word_like_tokens": 346,
+    "nonspace_chars": 2297,
+    "word_like_tokens": 352,
     "inbound_wikilinks_count": 3,
-    "last_modified": "2026-06-06"
+    "last_modified": "2026-06-08"
   }
 }

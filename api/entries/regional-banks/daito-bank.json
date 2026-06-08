@@ -47,19 +47,17 @@
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 11,
+    "wikilinks_count": 9,
     "wikilinks": [
       "INDEX",
       "banking/INDEX",
       "banking/regional-bank-consolidation-pattern",
       "financial-regulators/fsa",
       "financial-regulators/zenginkyo",
-      "fukushima-bank",
       "megabanks/sbi-regional-bank-hd",
       "regional-banks/INDEX",
       "regional-banks/fukushima-bank",
-      "regional-banks/toho-bank",
-      "toho-bank"
+      "regional-banks/toho-bank"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
@@ -67,20 +65,18 @@
       "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
       "https://finwiki.zksc.io/financial-regulators/fsa",
       "https://finwiki.zksc.io/financial-regulators/zenginkyo",
-      "https://finwiki.zksc.io/fukushima-bank",
       "https://finwiki.zksc.io/megabanks/sbi-regional-bank-hd",
       "https://finwiki.zksc.io/regional-banks/INDEX",
       "https://finwiki.zksc.io/regional-banks/fukushima-bank",
-      "https://finwiki.zksc.io/regional-banks/toho-bank",
-      "https://finwiki.zksc.io/toho-bank"
+      "https://finwiki.zksc.io/regional-banks/toho-bank"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2644,
-    "word_like_tokens": 372,
+    "nonspace_chars": 2689,
+    "word_like_tokens": 378,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-06-05"
+    "last_modified": "2026-06-08"
   }
 }

@@ -23,7 +23,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-株式会社八十二長野銀行は、金融庁の銀行免許一覧に掲載される長野県本店の地方銀行。旧 [[hachijuni-bank|八十二銀行]] と旧長野銀行の統合後 legal-name entity として、本ページが current operating-company boundary を持つ。
+株式会社八十二長野銀行は、金融庁の銀行免許一覧に掲載される長野県本店の地方銀行。旧 [[regional-banks/hachijuni-bank|八十二銀行]] と旧長野銀行の統合後 legal-name entity として、本ページが current operating-company boundary を持つ。
 
 ## 1. License / group boundary
 
@@ -43,14 +43,14 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 - Corrects the earlier forecast boundary around the Hachijuni / Nagano Bank integration.
 - Closes the FSA exact-name page for 株式会社八十二長野銀行.
-- Provides a current peer anchor for [[yamanashi-chuo-bank]], [[daishi-hokuetsu-bank]], and [[fukui-bank]].
+- Provides a current peer anchor for [[regional-banks/yamanashi-chuo-bank]], [[regional-banks/daishi-hokuetsu-bank]], and [[regional-banks/fukui-bank]].
 
 ## Related
 
-- [[hachijuni-bank]]
-- [[yamanashi-chuo-bank]]
-- [[daishi-hokuetsu-bank]]
-- [[fukui-bank]]
+- [[regional-banks/hachijuni-bank]]
+- [[regional-banks/yamanashi-chuo-bank]]
+- [[regional-banks/daishi-hokuetsu-bank]]
+- [[regional-banks/fukui-bank]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 

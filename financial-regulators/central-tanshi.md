@@ -23,7 +23,7 @@ This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]].
 
 ## TL;DR
 
-日本 **3 大短資会社** の一角を成す短期金融市場仲介業者。2001-04 に旧 **山根短資 + セントラル短資 + 短資** の 3 社合併で発足した非上場会社で、コール市場・手形売買市場・CD/CP 売買・国債売買等の **インターバンク仲介** をコア業務とする。日銀オペ対手としても機能。子会社の **セントラル短資 FX** を通じて短資会社では珍しく **個人向け FX サービス** を展開している点が業界内で異色。競合は [[ueda-yagi-tanshi]]（上田八木短資）と東京短資で、3 社で寡占的 oligopoly を形成。2024 年日銀マイナス金利解除を契機に、長らく縮小傾向だった短資業界の復活期待が高まる。
+日本 **3 大短資会社** の一角を成す短期金融市場仲介業者。2001-04 に旧 **山根短資 + セントラル短資 + 短資** の 3 社合併で発足した非上場会社で、コール市場・手形売買市場・CD/CP 売買・国債売買等の **インターバンク仲介** をコア業務とする。日銀オペ対手としても機能。子会社の **セントラル短資 FX** を通じて短資会社では珍しく **個人向け FX サービス** を展開している点が業界内で異色。競合は [[financial-regulators/ueda-yagi-tanshi]]（上田八木短資）と東京短資で、3 社で寡占的 oligopoly を形成。2024 年日銀マイナス金利解除を契機に、長らく縮小傾向だった短資業界の復活期待が高まる。
 
 ## 1. 会社概要
 
@@ -41,7 +41,7 @@ This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]].
 | セントラル短資（旧） | 1929 | 旧「短資」を母体とする |
 | 短資 | 1932 | 戦前設立の短資仲介業者 |
 
-2001-04-01 業界再編により上記 3 社が合併し、現在のセントラル短資株式会社が発足。これは戦後の短資業界における最大規模の再編の一つで、3 大短資体制（セントラル短資 / [[ueda-yagi-tanshi]] / 東京短資）の確立につながった。
+2001-04-01 業界再編により上記 3 社が合併し、現在のセントラル短資株式会社が発足。これは戦後の短資業界における最大規模の再編の一つで、3 大短資体制（セントラル短資 / [[financial-regulators/ueda-yagi-tanshi]] / 東京短資）の確立につながった。
 
 ### 主要子会社
 
@@ -68,7 +68,7 @@ This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]].
 | 短資会社 | 系列・特徴 |
 |---|---|
 | **セントラル短資** | 2001 山根 + セントラル + 短資 合併、個人 FX 展開 |
-| [[ueda-yagi-tanshi]]（上田八木短資）| 2001 上田短資 + 八木短資 合併、貴金属取引も |
+| [[financial-regulators/ueda-yagi-tanshi]]（上田八木短資）| 2001 上田短資 + 八木短資 合併、貴金属取引も |
 | 東京短資 | 戦前からの独立系、コール仲介集中 |
 
 3 社で日本の短期金融市場仲介を寡占。互いに人材・取引フローで近接競合。
@@ -118,10 +118,10 @@ This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]].
 
 ## Related
 
-- [[ueda-yagi-tanshi]] — 3 大短資競合（上田八木短資）
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] — 主要対手メガバンク
-- [[norinchukin]] — インターバンク市場主要参加者
-- [[shinkin-central]] — 信金中央金庫（短期市場参加者）
+- [[financial-regulators/ueda-yagi-tanshi]] — 3 大短資競合（上田八木短資）
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] — 主要対手メガバンク
+- [[cooperative-banks/norinchukin]] — インターバンク市場主要参加者
+- [[cooperative-banks/shinkin-central]] — 信金中央金庫（短期市場参加者）
 
 ## Sources
 

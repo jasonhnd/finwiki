@@ -12,7 +12,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## 推論 (from TL;DR)
 
-三菱商事 (東証 PRIME **8058**) は **日本最大の総合商社 (sōgō shōsha)**、三菱グループの中核会社の一つ。エネルギー (LNG 上流)、金属資源 (豪州 BHP JV 鉄鉱石・原料炭)、自動車 (いすゞ・三菱自動車・海外ディーラー網)、機械、化学、生活産業 (食品・コンビニ [[JapanFG/mitsubishi-corp|MC]] 100% 子会社化した **ローソン** [[JapanFG/mitsubishi-corp|MC]] + KDDI 50/50 体制、2024)、電力ソリューション、複合都市開発まで横断する **多角コングロマリット**。JapanFG 文脈での重要性は (i) [[JapanFG/mitsubishi-corp-finance|三菱商事フィナンシャルサービス]] を 100% 持つ内部金融機能と (ii) [[JapanFG/mitsubishi-hc-capital|三菱HCキャピタル]] (旧 三菱UFJリース + 旧 日立キャピタル合併体) への約 20% 級株式持分、加えて (iii) [[JapanFG/mufg|MUFG]] との三菱グループ系列内クロス持合いを通じた **金融エコシステム上の中心性** にある。^[inferred]
+三菱商事 (東証 PRIME **8058**) は **日本最大の総合商社 (sōgō shōsha)**、三菱グループの中核会社の一つ。エネルギー (LNG 上流)、金属資源 (豪州 BHP JV 鉄鉱石・原料炭)、自動車 (いすゞ・三菱自動車・海外ディーラー網)、機械、化学、生活産業 (食品・コンビニ [[financial-conglomerates/mitsubishi-corp|MC]] 100% 子会社化した **ローソン** [[financial-conglomerates/mitsubishi-corp|MC]] + KDDI 50/50 体制、2024)、電力ソリューション、複合都市開発まで横断する **多角コングロマリット**。JapanFG 文脈での重要性は (i) [[trading-company-finance/mitsubishi-corp-finance|三菱商事フィナンシャルサービス]] を 100% 持つ内部金融機能と (ii) [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]] (旧 三菱UFJリース + 旧 日立キャピタル合併体) への約 20% 級株式持分、加えて (iii) [[megabanks/mufg|MUFG]] との三菱グループ系列内クロス持合いを通じた **金融エコシステム上の中心性** にある。^[inferred]
 
 ## 推論 (from 1. 会社概要)
 
@@ -25,7 +25,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## 推論 (from 3. Financial-services adjacency)
 
-- [[JapanFG/mufg|MUFG]] / [[JapanFG/bank-of-tokyo-mitsubishi-ufj|三菱UFJ銀行]] (三菱グループ メガバンク、cross-holdings via 三菱重工・三菱地所 等の輪に三菱商事も含まれる) ^[inferred]
+- [[megabanks/mufg|MUFG]] / [[JapanFG/bank-of-tokyo-mitsubishi-ufj|三菱UFJ銀行]] (三菱グループ メガバンク、cross-holdings via 三菱重工・三菱地所 等の輪に三菱商事も含まれる) ^[inferred]
 - [[JapanFG/tokio-marine-hd|東京海上HD]] (旧 三菱グループ 火災海上保険、cross-holdings) ^[inferred]
 - [[JapanFG/mitsubishi-ufj-trust|三菱UFJ信託銀行]] — 信託業務連携 ^[inferred]
 
@@ -44,7 +44,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 - **「持分法投資の質」**: 三菱商事の連結純利益のかなりの部分が **持分法投資利益** で構成される → 連結 cash flow と net income の乖離が指摘される論点 ^[inferred]
 - **「資源市況依存」**: 純利益の振れ幅が大きく、コモディティ価格 (原油・LNG・鉄鉱石・原料炭・銅) のサイクルに連動 ^[inferred]
-- **「三菱HCキャピタルとの関係」**: 約 20% 級保有 = 持分法、しかし HCキャピタルの最大株主は [[JapanFG/mufg|MUFG]] (約 23% 級) で、商社主導の戦略推進力は限定的 ^[inferred]
+- **「三菱HCキャピタルとの関係」**: 約 20% 級保有 = 持分法、しかし HCキャピタルの最大株主は [[megabanks/mufg|MUFG]] (約 23% 級) で、商社主導の戦略推進力は限定的 ^[inferred]
 - **「Berkshire 効果の持続性」**: 商社株のリレーティングは Berkshire 買い増しによる側面が大きく、外人投資家評価の継続性に依存 ^[inferred]
 
 <!-- Phase 1.5 追加抽出 (2026-05-29) -->

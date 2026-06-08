@@ -15,7 +15,7 @@ translated_at: 2026-06-02T14:25:12.445Z
 
 ## 要約
 
-フコクしんらい生命保険株式会社は、[[fukoku-life]] グループとの隣接性を持つ生命保険事業会社である。富国生命、共栄火災、[[shinkin-central]] との関係があり、信用金庫チャネルと地域金融の顧客接点という観点で見る。
+フコクしんらい生命保険株式会社は、[[life-insurers/fukoku-life]] グループとの隣接性を持つ生命保険事業会社である。富国生命、共栄火災、[[cooperative-banks/shinkin-central]] との関係があり、信用金庫チャネルと地域金融の顧客接点という観点で見る。
 
 ## 1. 免許・グループ境界
 
@@ -24,20 +24,20 @@ translated_at: 2026-06-02T14:25:12.445Z
 | 正式名 | フコクしんらい生命保険株式会社 |
 | 免許ルート | 保険業法上の生命保険会社、金融庁の生命保険会社一覧 |
 | 業界団体 | 生命保険協会会員 |
-| グループ・株主上の隣接関係 | [[fukoku-life]], [[kyoritsu-fire-marine]], [[shinkin-central]] |
+| グループ・株主上の隣接関係 | [[life-insurers/fukoku-life]], [[non-life-insurers/kyoritsu-fire-marine]], [[cooperative-banks/shinkin-central]] |
 | ウィキ上の役割 | Fukoku / 信用金庫チャネルの生命保険専門会社 |
 
 ## 2. このページが重要な理由
 
 - 金融庁 41  の正確な掲載名に基づく生命保険会社の欠落を補う。
 - 生命保険と信用金庫・地域金融販売網を接続する。
-- [[fukoku-life]] と [[kyoritsu-fire-marine]] を補完する。
+- [[life-insurers/fukoku-life]] と [[non-life-insurers/kyoritsu-fire-marine]] を補完する。
 
 ## 関連項目
 
-- [[fukoku-life]]
-- [[kyoritsu-fire-marine]]
-- [[shinkin-central]]
+- [[life-insurers/fukoku-life]]
+- [[non-life-insurers/kyoritsu-fire-marine]]
+- [[cooperative-banks/shinkin-central]]
 - [[insurance/life-insurance-channel-mix]]
 
 ## 出典

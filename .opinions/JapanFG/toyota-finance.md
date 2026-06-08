@@ -14,7 +14,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 - Public company pages identify business scope, group ownership, and structure, but detailed product profitability and dealer-level economics require securities reports or parent financial-segment disclosures.
 - Auto finance can look stable through dealer distribution, but residual value, credit-cycle, and EV transition risks need separate analysis.
-- Card products inside a captive auto-finance company is compared with [[JapanFG/rakuten-card|Rakuten Card]], [[JapanFG/paypay-card|PayPay Card]], and bank-card operators rather than only with auto-loan competitors.
+- Card products inside a captive auto-finance company is compared with [[card-issuers/rakuten-card|Rakuten Card]], [[card-issuers/paypay-card|PayPay Card]], and bank-card operators rather than only with auto-loan competitors.
 
 ## Open Questions
 

@@ -58,46 +58,46 @@
   "body_links": {
     "wikilinks_count": 15,
     "wikilinks": [
-      "18-shinwa-bank",
-      "au-fh",
       "banking/INDEX",
       "banking/baas-japan-landscape",
       "banking/regional-bank-api-digital-partnership-route",
-      "ffg-securities",
-      "freee",
-      "fukuoka-bank",
-      "fukuoka-fg",
-      "kumamoto-bank",
-      "mercari-hd",
-      "money-forward",
+      "megabanks/au-fh",
+      "megabanks/paypay-fg",
       "payment-firms/INDEX",
-      "paypay-fg",
-      "rakuten-fg"
+      "payment-firms/freee",
+      "payment-firms/mercari-hd",
+      "payment-firms/money-forward",
+      "payment-firms/rakuten-fg",
+      "regional-banks/18-shinwa-bank",
+      "regional-banks/fukuoka-bank",
+      "regional-banks/fukuoka-fg",
+      "regional-banks/kumamoto-bank",
+      "securities-firms/ffg-securities"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/18-shinwa-bank",
-      "https://finwiki.zksc.io/au-fh",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/baas-japan-landscape",
       "https://finwiki.zksc.io/banking/regional-bank-api-digital-partnership-route",
-      "https://finwiki.zksc.io/ffg-securities",
-      "https://finwiki.zksc.io/freee",
-      "https://finwiki.zksc.io/fukuoka-bank",
-      "https://finwiki.zksc.io/fukuoka-fg",
-      "https://finwiki.zksc.io/kumamoto-bank",
-      "https://finwiki.zksc.io/mercari-hd",
-      "https://finwiki.zksc.io/money-forward",
+      "https://finwiki.zksc.io/megabanks/au-fh",
+      "https://finwiki.zksc.io/megabanks/paypay-fg",
       "https://finwiki.zksc.io/payment-firms/INDEX",
-      "https://finwiki.zksc.io/paypay-fg",
-      "https://finwiki.zksc.io/rakuten-fg"
+      "https://finwiki.zksc.io/payment-firms/freee",
+      "https://finwiki.zksc.io/payment-firms/mercari-hd",
+      "https://finwiki.zksc.io/payment-firms/money-forward",
+      "https://finwiki.zksc.io/payment-firms/rakuten-fg",
+      "https://finwiki.zksc.io/regional-banks/18-shinwa-bank",
+      "https://finwiki.zksc.io/regional-banks/fukuoka-bank",
+      "https://finwiki.zksc.io/regional-banks/fukuoka-fg",
+      "https://finwiki.zksc.io/regional-banks/kumamoto-bank",
+      "https://finwiki.zksc.io/securities-firms/ffg-securities"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5187,
-    "word_like_tokens": 842,
-    "inbound_wikilinks_count": 1,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 6013,
+    "word_like_tokens": 950,
+    "inbound_wikilinks_count": 3,
+    "last_modified": "2026-06-08"
   }
 }

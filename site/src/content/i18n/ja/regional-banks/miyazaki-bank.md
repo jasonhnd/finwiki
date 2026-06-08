@@ -30,22 +30,22 @@ translated_at: 2026-06-02T14:54:39.067Z
 
 ## 2. 事業モデル
 
-宮崎銀行は、宮崎県を中心にリテール預金、中小企業金融、農業 / 観光支援、地域密着型金融を担う地方銀行。南九州では、[[higo-bank]] / [[kagoshima-bank]]（[[kyushu-fg]] 配下）や地域の第二地方銀行と比較する。
+宮崎銀行は、宮崎県を中心にリテール預金、中小企業金融、農業 / 観光支援、地域密着型金融を担う地方銀行。南九州では、[[regional-banks/higo-bank]] / [[regional-banks/kagoshima-bank]]（[[regional-banks/kyushu-fg]] 配下）や地域の第二地方銀行と比較する。
 
 ## 3. このページが重要な理由
 
 - 金融庁の正確な法人名に基づく宮崎銀行の事業会社ページの欠落を埋める。
 - 南九州の地方銀行比較における宮崎県アンカーを提供する。
-- [[miyazaki-taiyo-bank|宮崎太陽銀行]] など第二地方銀行カバレッジの同業ページを追加する。
+- [[regional-banks/miyazaki-taiyo-bank|宮崎太陽銀行]] など第二地方銀行カバレッジの同業ページを追加する。
 
 ## 関連項目
 
-- [[higo-bank]]
-- [[kagoshima-bank]]
-- [[kyushu-fg]]
-- [[oita-bank]]
+- [[regional-banks/higo-bank]]
+- [[regional-banks/kagoshima-bank]]
+- [[regional-banks/kyushu-fg]]
+- [[regional-banks/oita-bank]]
 - [[banking/regional-bank-consolidation-pattern]]
-- [[miyazaki-taiyo-bank]]
+- [[regional-banks/miyazaki-taiyo-bank]]
 - [[banking/INDEX]]
 
 ## 出典

@@ -24,7 +24,7 @@ An independent tanshi company that forms one corner of Japan's 3  major tanshi c
 **Established**: 2001-04, through the merger of Ueda Tanshi + Yagi Tanshi ^[extracted]
 **Business type**: Tanshi company, Japan's distinctive specialized short-term money-market business type
 **Listing**: Unlisted, independent
-**Industry position**: One corner of Japan's 3  major tanshi companies ([[central-tanshi]] / Ueda Yagi Tanshi / [[tokyo-tanshi]])
+**Industry position**: One corner of Japan's 3  major tanshi companies ([[financial-regulators/central-tanshi]] / Ueda Yagi Tanshi / [[financial-regulators/tokyo-tanshi]])
 
 ### Predecessors / merger history
 
@@ -73,7 +73,7 @@ An independent tanshi company that forms one corner of Japan's 3  major tanshi c
 
 ### Competitive relationships
 
-- **Direct competitors**: [[central-tanshi]] / [[tokyo-tanshi]], mutual competition among the 3  major tanshi companies.
+- **Direct competitors**: [[financial-regulators/central-tanshi]] / [[financial-regulators/tokyo-tanshi]], mutual competition among the 3  major tanshi companies.
 - **Indirect competitors**: major securities companies in the short-term JGB OTC market and direct interbank call transactions.
 - **Industry protection factor**: institutional positioning as a Bank of Japan market-operation counterparty.
 
@@ -94,7 +94,7 @@ An independent tanshi company that forms one corner of Japan's 3  major tanshi c
 
 ## Related
 
-- [[central-tanshi]] · [[tokyo-tanshi]] · [[mufg]] · [[smfg]] · [[mizuho-fg]]
+- [[financial-regulators/central-tanshi]] · [[financial-regulators/tokyo-tanshi]] · [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]
 - [[money-market/japan-money-market|japan-money-market]] · [[money-market/boj-open-market-operations|boj-open-market-operations]]
 
 ## Sources

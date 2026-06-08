@@ -101,7 +101,7 @@ Prudential Financial, Inc.（米、NYSE: PRU）
 - **LP = Life Planner**: 高度な資格を持つフルコミッション営業職員 ^[extracted]
 - 国内大手生保の「セールスレディ」マス採用モデルとは異なり、**転職者・有資格者を絞った採用 + 専門教育**
 - 対象は経営者・富裕層・専門職、高額終身保険・経営者保険が中心
-- 競合・類似モデル: **[[sony-fg]] ソニー生命**（同じく LP モデル代表）、外資系生保（メットライフ、アクサ、マニュライフ等）
+- 競合・類似モデル: **[[megabanks/sony-fg]] ソニー生命**（同じく LP モデル代表）、外資系生保（メットライフ、アクサ、マニュライフ等）
 
 ### 3 ブランド使い分け戦略
 
@@ -118,10 +118,10 @@ Prudential Financial, Inc.（米、NYSE: PRU）
 
 | 競合カテゴリ | 主要相手 |
 |---|---|
-| LP モデル国内代表 | [[sony-fg]] ソニー生命（同様の高度営業職員モデル）|
+| LP モデル国内代表 | [[megabanks/sony-fg]] ソニー生命（同様の高度営業職員モデル）|
 | 外資系生保 | メットライフ生命、アクサ生命、マニュライフ生命、アフラック生命 |
-| 国内大手生保 | [[dai-ichi-life]] 第一生命、[[meiji-yasuda]] 明治安田生命、日本生命、住友生命 |
-| 銀行窓販層 | 日本生命（一時払）、第一フロンティア生命（[[dai-ichi-life]] 子会社）、マニュライフ |
+| 国内大手生保 | [[life-insurers/dai-ichi-life]] 第一生命、[[life-insurers/meiji-yasuda]] 明治安田生命、日本生命、住友生命 |
+| 銀行窓販層 | 日本生命（一時払）、第一フロンティア生命（[[life-insurers/dai-ichi-life]] 子会社）、マニュライフ |
 
 ### 親会社（米 Prudential Financial）における日本の位置付け
 
@@ -154,9 +154,9 @@ Prudential Financial, Inc.（米、NYSE: PRU）
 
 ## Related
 
-- [[sony-fg]]（同じく LP モデル代表、最大の戦略的競合）
-- [[dai-ichi-life]] · [[meiji-yasuda]]（国内大手生保）
-- [[ndfg]] · [[mufg]] · [[smfg]] · [[mizuho-fg]]（銀行窓販販売チャネル提供）
+- [[megabanks/sony-fg]]（同じく LP モデル代表、最大の戦略的競合）
+- [[life-insurers/dai-ichi-life]] · [[life-insurers/meiji-yasuda]]（国内大手生保）
+- [[megabanks/ndfg]] · [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]（銀行窓販販売チャネル提供）
 
 ## Sources
 

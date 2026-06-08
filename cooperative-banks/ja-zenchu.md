@@ -89,11 +89,11 @@ This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as the
 ```
 JA グループ (全国 497 JA + 4 大全国連)
   ├── JA 全中 (代表・経営相談・農政) ★本ページ
-  ├── JA 全農 (購買・販売・経済事業) → [[ja-zen-noh]]
-  ├── JA 共済連 (共済事業) → [[ja-kyosairen]]
-  ├── 農林中央金庫 (信用事業) → [[norinchukin]]
+  ├── JA 全農 (購買・販売・経済事業) → [[cooperative-banks/ja-zen-noh]]
+  ├── JA 共済連 (共済事業) → [[non-life-insurers/ja-kyosairen]]
+  ├── 農林中央金庫 (信用事業) → [[cooperative-banks/norinchukin]]
   ├── 都道府県 JA 中央会 (再編進行中)
-  ├── 都道府県信連 → [[ja-shinnoren]]
+  ├── 都道府県信連 → [[cooperative-banks/ja-shinnoren]]
   └── 全国 497 JA (個別農業協同組合)
 ```
 

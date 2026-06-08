@@ -17,7 +17,7 @@ translated_at: 2026-06-01T00:41:50.411Z
 
 ## TL;DR
 
-株式会社名古屋银行是总部位于爱知县名古屋市、列入金融厅银行牌照名单的第二地方银行。在中京圈，应将其作为与 [[aichi-bank]] 并列的主要地方银行同业，保留独立的运营公司页面。
+株式会社名古屋银行是总部位于爱知县名古屋市、列入金融厅银行牌照名单的第二地方银行。在中京圈，应将其作为与 [[regional-banks/aichi-bank]] 并列的主要地方银行同业，保留独立的运营公司页面。
 
 ## 1. 牌照 / 集团边界
 
@@ -31,7 +31,7 @@ translated_at: 2026-06-01T00:41:50.411Z
 
 ## 2. 运营模式
 
-名古屋银行是在爱知县和名古屋圈承担零售存款、中小企业融资、制造业 / 服务业企业关系以及本地咨询职能的第二地方银行。它是与 [[aichi-bank]] 同处一县的地方银行同业，并与 [[juroku-bank]] 和 [[ogaki-kyoritsu-bank]] 具有中京经济圈邻接性。
+名古屋银行是在爱知县和名古屋圈承担零售存款、中小企业融资、制造业 / 服务业企业关系以及本地咨询职能的第二地方银行。它是与 [[regional-banks/aichi-bank]] 同处一县的地方银行同业，并与 [[regional-banks/juroku-bank]] 和 [[regional-banks/ogaki-kyoritsu-bank]] 具有中京经济圈邻接性。
 
 ## 3. 本页为何重要
 
@@ -41,10 +41,10 @@ translated_at: 2026-06-01T00:41:50.411Z
 
 ## Related
 
-- [[aichi-bank]]
-- [[aichi-fg]]
-- [[juroku-bank]]
-- [[ogaki-kyoritsu-bank]]
+- [[regional-banks/aichi-bank]]
+- [[regional-banks/aichi-fg]]
+- [[regional-banks/juroku-bank]]
+- [[regional-banks/ogaki-kyoritsu-bank]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 

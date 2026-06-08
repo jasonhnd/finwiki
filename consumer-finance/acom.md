@@ -24,7 +24,7 @@ This entry sits under [[consumer-finance/INDEX|consumer-finance INDEX]]. Read it
 
 ## TL;DR
 
-[[mufg]] 傘下の大手消費者金融。**1936 神戸で「丸糸呉服店」として木下政雄が創業、1978 商号を「アコム」に改称**、1996-10 東証一部上場。業態は個人向け無担保ローン主軸（カードローン「ACマスターカード」「むじんくん」自動契約機）+ 信用保証 + 海外（タイ Easy Buy PCL）。**アコム（[[mufg]] 系列）・プロミス（[[smfg]] 内 SMBCCF）・アイフル（[[aiful]] 独立系）と並ぶ「3 大消費者金融」の MUFG 系列**。2006-2008 のグレーゾーン金利最高裁判決を契機に過払い金請求が殺到、**2008-10 MUFG TOB で持分法適用会社化（現 持分法 37.6% + 信託 2.0% = 39.6%）**。^[extracted]
+[[megabanks/mufg]] 傘下の大手消費者金融。**1936 神戸で「丸糸呉服店」として木下政雄が創業、1978 商号を「アコム」に改称**、1996-10 東証一部上場。業態は個人向け無担保ローン主軸（カードローン「ACマスターカード」「むじんくん」自動契約機）+ 信用保証 + 海外（タイ Easy Buy PCL）。**アコム（[[megabanks/mufg]] 系列）・プロミス（[[megabanks/smfg]] 内 SMBCCF）・アイフル（[[consumer-finance/aiful]] 独立系）と並ぶ「3 大消費者金融」の MUFG 系列**。2006-2008 のグレーゾーン金利最高裁判決を契機に過払い金請求が殺到、**2008-10 MUFG TOB で持分法適用会社化（現 持分法 37.6% + 信託 2.0% = 39.6%）**。^[extracted]
 
 ## 1. 会社概要
 
@@ -34,15 +34,15 @@ This entry sits under [[consumer-finance/INDEX|consumer-finance INDEX]]. Read it
 **改称**: **1978**（消費者金融業へ業態転換・商号を「アコム」に変更）
 **本社**: 東京都千代田区丸の内
 **上場**: 1993 店頭登録 → **1996-10 東証一部上場** → 2022-04 市場区分見直しで東証 STANDARD ^[extracted]
-**親会社**: 株式会社三菱 UFJ フィナンシャル・グループ（[[mufg]]）
+**親会社**: 株式会社三菱 UFJ フィナンシャル・グループ（[[megabanks/mufg]]）
 
 ### 業態カテゴリ・3 大消費者金融
 
 | 会社 | 系列 | 主要株主 | 上場区分 |
 |---|---|---|---|
-| **アコム** | **[[mufg]] グループ** ★ | **三菱 UFJ 持分法 37.6% + 信託 2.0% = 39.6%** | 東証 STD 8572 |
-| プロミス（SMBC コンシューマーファイナンス）| [[smfg]] グループ | SMFG 100% 完全子会社 | 非上場（2012 上場廃止）|
-| [[aiful]] | 独立系（メガバンク非系列）| 創業家・福田家中心の独立資本 | 東証 PRIME 8515 |
+| **アコム** | **[[megabanks/mufg]] グループ** ★ | **三菱 UFJ 持分法 37.6% + 信託 2.0% = 39.6%** | 東証 STD 8572 |
+| プロミス（SMBC コンシューマーファイナンス）| [[megabanks/smfg]] グループ | SMFG 100% 完全子会社 | 非上場（2012 上場廃止）|
+| [[consumer-finance/aiful]] | 独立系（メガバンク非系列）| 創業家・福田家中心の独立資本 | 東証 PRIME 8515 |
 
 ### 主要グループ会社
 
@@ -80,7 +80,7 @@ This entry sits under [[consumer-finance/INDEX|consumer-finance INDEX]]. Read it
 
 ### Easy Buy PCL（タイ Easy Buy）★
 
-**タイ消費者金融の業界先行モデル**。「Umay+」ブランドで二輪車ローンを軸に展開、アコムが 71% 出資する連結子会社。タイ景気・バーツ・規制リスクと連動するが、ASEAN 個人向け小口金融で他社より先行している。MUFG の ASEAN 戦略（[[mufg]] Krungsri / Bank Danamon）とも整合。^[extracted]
+**タイ消費者金融の業界先行モデル**。「Umay+」ブランドで二輪車ローンを軸に展開、アコムが 71% 出資する連結子会社。タイ景気・バーツ・規制リスクと連動するが、ASEAN 個人向け小口金融で他社より先行している。MUFG の ASEAN 戦略（[[megabanks/mufg]] Krungsri / Bank Danamon）とも整合。^[extracted]
 
 ### 信用保証事業（MUFG 連携）
 
@@ -119,19 +119,19 @@ This entry sits under [[consumer-finance/INDEX|consumer-finance INDEX]]. Read it
 ### MUFG 系列としての位置付け ★
 
 - **銀行カードローン保証**: バンクイック保証で MUFG リテール戦略の中核
-- **資金調達**: MUFG グループ内資金調達で独立系（[[aiful]]）より低コスト
+- **資金調達**: MUFG グループ内資金調達で独立系（[[consumer-finance/aiful]]）より低コスト
 - **顧客送客**: 三菱 UFJ 銀行 ATM・店舗との連携で集客効率
-- **海外**: Easy Buy（タイ）が MUFG ASEAN 戦略（[[mufg]] Krungsri）と補完関係
+- **海外**: Easy Buy（タイ）が MUFG ASEAN 戦略（[[megabanks/mufg]] Krungsri）と補完関係
 
 ### 競合構造
 
 | 競合 | 系列 | アコムとの差 |
 |---|---|---|
-| プロミス（SMBCCF）| [[smfg]] 100% 完全子会社 | 親会社銀行との一体運営・SMFG 100% 子会社で送客効率高、上場廃止 |
-| [[aiful]] | 独立系 | 創業家中心・京都発祥、メガバンク系列外、自社与信データ依存 |
-| 楽天カード・PayPay カード | [[rakuten-fg]] / [[paypay-fg]] | EC・決済プラットフォームと一体、若年層で先行 |
+| プロミス（SMBCCF）| [[megabanks/smfg]] 100% 完全子会社 | 親会社銀行との一体運営・SMFG 100% 子会社で送客効率高、上場廃止 |
+| [[consumer-finance/aiful]] | 独立系 | 創業家中心・京都発祥、メガバンク系列外、自社与信データ依存 |
+| 楽天カード・PayPay カード | [[payment-firms/rakuten-fg]] / [[megabanks/paypay-fg]] | EC・決済プラットフォームと一体、若年層で先行 |
 | 銀行カードローン（直営）| 全メガバンク・地銀 | アコム保証経由で「敵ではなくインフラ提供先」関係も多数 |
-| [[orico]] / [[credit-saison]] / [[jaccs]] | 信販系 | 個品割賦軸が異なる、消費者金融とは隣接 |
+| [[card-issuers/orico]] / [[card-issuers/credit-saison]] / [[card-issuers/jaccs]] | 信販系 | 個品割賦軸が異なる、消費者金融とは隣接 |
 
 ### 中期戦略（公開された方向性）
 
@@ -165,15 +165,15 @@ This entry sits under [[consumer-finance/INDEX|consumer-finance INDEX]]. Read it
 
 ## Related
 
-- [[mufg]] — 親会社（持分法 37.6% + 信託 2.0% = 39.6%）
-- [[smfg]] — 3 大消費者金融の競合（プロミス＝SMBCCF 100% 子会社）
-- [[aiful]] — 3 大消費者金融の競合（独立系・東証 PRIME 8515）
-- [[jaccs]] — 信販大手・隣接業態
-- [[orico]] — 信販大手・隣接業態
-- [[credit-saison]] — 信販大手・隣接業態
-- [[rakuten-fg]] — 楽天カードによる若年層侵食
-- [[paypay-fg]] — PayPay カードによる決済プラットフォーム侵食
-- [[sbi-shinsei-bank]] — レイク ALSA（旧 GE 系・現 SBI 新生銀行内）の競合
+- [[megabanks/mufg]] — 親会社（持分法 37.6% + 信託 2.0% = 39.6%）
+- [[megabanks/smfg]] — 3 大消費者金融の競合（プロミス＝SMBCCF 100% 子会社）
+- [[consumer-finance/aiful]] — 3 大消費者金融の競合（独立系・東証 PRIME 8515）
+- [[card-issuers/jaccs]] — 信販大手・隣接業態
+- [[card-issuers/orico]] — 信販大手・隣接業態
+- [[card-issuers/credit-saison]] — 信販大手・隣接業態
+- [[payment-firms/rakuten-fg]] — 楽天カードによる若年層侵食
+- [[megabanks/paypay-fg]] — PayPay カードによる決済プラットフォーム侵食
+- [[regional-banks/sbi-shinsei-bank]] — レイク ALSA（旧 GE 系・現 SBI 新生銀行内）の競合
 
 ## Sources
 

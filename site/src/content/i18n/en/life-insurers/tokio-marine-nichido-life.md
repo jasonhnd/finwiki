@@ -15,7 +15,7 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 
 ## TL;DR
 
-Tokio Marine & Nichido Life Insurance Co., Ltd. is the life-insurance operating company of the [[tokio-marine]] group. [[tokio-marine]] is well known as a non-life major, but this entity is a separate life underwriter listed in the FSA life-insurer list and is important for understanding life / non-life cross-sell and group diversification.
+Tokio Marine & Nichido Life Insurance Co., Ltd. is the life-insurance operating company of the [[non-life-insurers/tokio-marine]] group. [[non-life-insurers/tokio-marine]] is well known as a non-life major, but this entity is a separate life underwriter listed in the FSA life-insurer list and is important for understanding life / non-life cross-sell and group diversification.
 
 ## 1. License / group boundary
 
@@ -24,12 +24,12 @@ Tokio Marine & Nichido Life Insurance Co., Ltd. is the life-insurance operating 
 | Legal name | Tokio Marine & Nichido Life Insurance Co., Ltd. |
 | License route | Insurance Business Act life-insurance company; FSA life insurer list |
 | Industry body | Life Insurance Association of Japan member |
-| Group boundary | [[tokio-marine]] life-insurance operating company |
+| Group boundary | [[non-life-insurers/tokio-marine]] life-insurance operating company |
 | Wiki role | Tokio Marine group's life-insurance underwriting arm |
 
 ## 2. Operating model
 
-Tokio Marine group has major scale in global non-life insurance, but life products are also part of its domestic Japanese group ecosystem. Tokio Marine & Nichido Life Insurance is the entity that carries this life-insurance underwriting boundary, and can be compared with [[sompo-himawari-life]] and MS&AD group life arms.
+Tokio Marine group has major scale in global non-life insurance, but life products are also part of its domestic Japanese group ecosystem. Tokio Marine & Nichido Life Insurance is the entity that carries this life-insurance underwriting boundary, and can be compared with [[life-insurers/sompo-himawari-life]] and MS&AD group life arms.
 
 Life-insurance businesses run by non-life groups differ from traditional life insurers in terms of agency networks, customer relationships, protection-product cross-sell, and capital allocation.
 
@@ -41,9 +41,9 @@ Life-insurance businesses run by non-life groups differ from traditional life in
 
 ## Related
 
-- [[tokio-marine]]
-- [[sompo-himawari-life]]
-- [[msad]]
+- [[non-life-insurers/tokio-marine]]
+- [[life-insurers/sompo-himawari-life]]
+- [[non-life-insurers/msad]]
 - [[insurance/life-insurance-channel-mix]]
 
 ## Sources

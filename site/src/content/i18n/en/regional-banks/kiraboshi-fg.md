@@ -111,11 +111,11 @@ Tokyo Kiraboshi FG (listed holding company 7173)
 
 ## Related
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] (mega 3 行, Tokyo retail competitors)
-- [[ndfg]] (Chiba Bank line, comparison axis for metropolitan-area regional banks)
-- [[fukuoka-fg]] (iBank Marketing, advanced regional-bank digital example)
-- [[resona-hd]] (metropolitan-area regional bank / Resona line comparison axis)
-- [[paypay-fg]] · [[rakuten-fg]] · [[au-fh]] (individual digital-bank competitors)
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] (mega 3 行, Tokyo retail competitors)
+- [[megabanks/ndfg]] (Chiba Bank line, comparison axis for metropolitan-area regional banks)
+- [[regional-banks/fukuoka-fg]] (iBank Marketing, advanced regional-bank digital example)
+- [[megabanks/resona-hd]] (metropolitan-area regional bank / Resona line comparison axis)
+- [[megabanks/paypay-fg]] · [[payment-firms/rakuten-fg]] · [[megabanks/au-fh]] (individual digital-bank competitors)
 
 ## Sources
 

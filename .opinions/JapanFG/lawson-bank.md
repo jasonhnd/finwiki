@@ -34,9 +34,9 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 - **ローソンアプリ + au PAY 連携深化**：通信会社 KDDI の決済プラットフォームと小売の融合 ^[inferred]
 - **三菱商事系列の金融サブ機能**：三菱商事の小売・流通インフラ（ローソン）と銀行ライセンスを束ねた「小売金融」の試行 ^[inferred]
-- **[[au-fh]] / auじぶん銀行との位置関係**：KDDI 側にはすでに auじぶん銀行（2025-01 [[mufg]] から KDDI 完全傘下化）があり、ローソン銀行との機能重複・棲み分けが論点 ^[inferred]
+- **[[megabanks/au-fh]] / auじぶん銀行との位置関係**：KDDI 側にはすでに auじぶん銀行（2025-01 [[megabanks/mufg]] から KDDI 完全傘下化）があり、ローソン銀行との機能重複・棲み分けが論点 ^[inferred]
 
-## 推論 (from vs セブン銀行（[[seven-bank]]）)
+## 推論 (from vs セブン銀行（[[regional-banks/seven-bank]]）)
 
 | 海外展開 | 米・ASEAN（タイ・フィリピン・インドネシア）等 | 国内中心 ^[inferred] |
 | 決済経済圏 | 7Pay 撤退後は nanaco | Ponta + au PAY ^[inferred] |
@@ -49,24 +49,24 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## Counterpoints
 
-- 「ATM 三強の後発で差別化困難」: ATM 設置数で [[seven-bank]] の半分以下、収益性も先行者に劣後 ^[ambiguous]
-- 「KDDI au 経済圏との重複」: KDDI 側に既に auじぶん銀行（[[au-fh]] 経由）あり、グループ内銀行 2 行の棲み分けは未整理 ^[inferred]
+- 「ATM 三強の後発で差別化困難」: ATM 設置数で [[regional-banks/seven-bank]] の半分以下、収益性も先行者に劣後 ^[ambiguous]
+- 「KDDI au 経済圏との重複」: KDDI 側に既に auじぶん銀行（[[megabanks/au-fh]] 経由）あり、グループ内銀行 2 行の棲み分けは未整理 ^[inferred]
 - 「親会社上場廃止による IR 透明性低下」: 2024-09 以降ローソン本体が非上場化 → ローソン銀行単独 IR の開示水準が論点 ^[inferred]
 - 「セブン銀行モデル追随の天井」: ATM 手数料モデルは現金決済縮小（キャッシュレス化）と長期逆行リスク ^[inferred]
 
 ## Open questions
 
 - 親会社 三菱商事 + KDDI JV 化後の戦略方向性は？（三菱商事系列 vs KDDI au 経済圏どちらの色が強まるか）
-- auじぶん銀行（[[au-fh]]）との機能棲み分け・将来統合可能性は？
+- auじぶん銀行（[[megabanks/au-fh]]）との機能棲み分け・将来統合可能性は？
 - キャッシュレス化進展下での ATM 設置数・手数料収入の中長期見通し
 - ローソンアプリ + 銀行口座 + Ponta + au PAY の統合 UX 完成度
-- [[seven-bank]] との海外展開ギャップは縮まるか（国内特化継続か）
+- [[regional-banks/seven-bank]] との海外展開ギャップは縮まるか（国内特化継続か）
 
 <!-- ambiguous 整理 (2026-05-29) -->
 
 ## MUFG 間接連携余地（推測 / 出典なし）— from KDDI au 経済圏統合可能性
 
-- **MUFG との関係**：1990 年代の旧 三菱東京 UFJ 銀行 ATM 委託歴史 + 三菱商事筆頭株主の三菱グループ系列性で、[[mufg]] との間接連携余地（将来の連携シナリオに関する推測、検証可能な一次情報なし）^[ambiguous]
+- **MUFG との関係**：1990 年代の旧 三菱東京 UFJ 銀行 ATM 委託歴史 + 三菱商事筆頭株主の三菱グループ系列性で、[[megabanks/mufg]] との間接連携余地（将来の連携シナリオに関する推測、検証可能な一次情報なし）^[ambiguous]
 
 ## 規制当局の関心（推測 / 出典なし）— from 4. 規制・政策
 

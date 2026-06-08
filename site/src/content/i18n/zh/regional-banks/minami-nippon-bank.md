@@ -15,7 +15,7 @@ translated_at: 2026-05-31T23:05:42.103Z
 
 ## TL;DR
 
-株式会社南日本银行是列入金融厅银行许可名单、总部位于鹿儿岛县的第二地方银行。它是鹿儿岛县 second-regional-bank operating-company anchor，并作为与 [[kagoshima-bank]] 分开的本地同业法人处理。
+株式会社南日本银行是列入金融厅银行许可名单、总部位于鹿儿岛县的第二地方银行。它是鹿儿岛县 second-regional-bank operating-company anchor，并作为与 [[regional-banks/kagoshima-bank]] 分开的本地同业法人处理。
 
 ## 1. 许可 / 集团边界
 
@@ -29,19 +29,19 @@ translated_at: 2026-05-31T23:05:42.103Z
 
 ## 2. 运营模式
 
-南日本银行是在鹿儿岛县内提供 retail deposits, SME finance, consumer banking, and local relationship banking 的 second regional bank。[[kagoshima-bank]] page 处理 [[kyushu-fg]] core-bank boundary，本页处理 independent second-regional-bank license boundary。九州第二地方银行整合压力见 [[banking/regional-bank-consolidation-pattern]]。
+南日本银行是在鹿儿岛县内提供 retail deposits, SME finance, consumer banking, and local relationship banking 的 second regional bank。[[regional-banks/kagoshima-bank]] page 处理 [[regional-banks/kyushu-fg]] core-bank boundary，本页处理 independent second-regional-bank license boundary。九州第二地方银行整合压力见 [[banking/regional-bank-consolidation-pattern]]。
 
 ## 3. 本页为何重要
 
 - 补齐 FSA 精确名称下的南日本银行页面。
 - 完成鹿儿岛第一地方银行 / 第二地方银行的同业配对。
-- 为 [[kyushu-fg]] 和本地整合分析提供同业锚点。
+- 为 [[regional-banks/kyushu-fg]] 和本地整合分析提供同业锚点。
 
 ## Related
 
-- [[kagoshima-bank]]
-- [[kyushu-fg]]
-- [[miyazaki-bank]]
+- [[regional-banks/kagoshima-bank]]
+- [[regional-banks/kyushu-fg]]
+- [[regional-banks/miyazaki-bank]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 

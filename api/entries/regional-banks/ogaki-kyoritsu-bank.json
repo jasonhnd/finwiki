@@ -52,31 +52,31 @@
     "wikilinks_count": 8,
     "wikilinks": [
       "banking/INDEX",
-      "juroku-fg",
-      "mizuho-fg",
-      "mufg",
+      "megabanks/mizuho-fg",
+      "megabanks/mufg",
+      "megabanks/smfg",
       "regional-banks/INDEX",
       "regional-banks/fukuoka-fg",
-      "san-jusan-fg",
-      "smfg"
+      "regional-banks/juroku-fg",
+      "regional-banks/san-jusan-fg"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/juroku-fg",
-      "https://finwiki.zksc.io/mizuho-fg",
-      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/smfg",
       "https://finwiki.zksc.io/regional-banks/INDEX",
       "https://finwiki.zksc.io/regional-banks/fukuoka-fg",
-      "https://finwiki.zksc.io/san-jusan-fg",
-      "https://finwiki.zksc.io/smfg"
+      "https://finwiki.zksc.io/regional-banks/juroku-fg",
+      "https://finwiki.zksc.io/regional-banks/san-jusan-fg"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4040,
-    "word_like_tokens": 646,
-    "inbound_wikilinks_count": 3,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 4175,
+    "word_like_tokens": 662,
+    "inbound_wikilinks_count": 9,
+    "last_modified": "2026-06-08"
   }
 }

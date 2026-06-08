@@ -44,12 +44,12 @@ This is the Japan branch of SCOR SE, a major European reinsurer listed in Paris.
 ## Related
 
 - [[non-life-insurers/INDEX]]
-- [[munich-re-japan]]
-- [[swiss-re-japan]]
-- [[hannover-re-japan]]
-- [[toa-reinsurance]]
-- [[japan-earthquake-reinsurance]]
-- [[rga-japan]]
+- [[non-life-insurers/munich-re-japan]]
+- [[non-life-insurers/swiss-re-japan]]
+- [[non-life-insurers/hannover-re-japan]]
+- [[non-life-insurers/toa-reinsurance]]
+- [[non-life-insurers/japan-earthquake-reinsurance]]
+- [[life-insurers/rga-japan]]
 - [[insurance/natcat-reinsurance-japan]]
 - [[insurance/INDEX]]
 

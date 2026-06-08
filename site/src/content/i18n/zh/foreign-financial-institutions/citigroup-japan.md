@@ -44,7 +44,7 @@ Citigroup Inc.（米 NYSE: C・连邦准备制度监督）
 | 1998 |母公司花旗银行 + Travelers Group 合并 → **花旗集团成立** |
 | 2007〜2008 |次贷危机→花旗公布大规模亏损|
 | **2008-11/2009** |雷曼兄弟冲击之后，花旗**美国政府公共资金注入**（250 億美元+通过TARP提供额外支持，需接受压力测试）/有效的国有化阶段|
-| **2009-10** | **将 Nikko Cordial 证券出售给 SMFG**（→ [[smbc-nikko]] 之后）。花旗日本批发重建的一部分|
+| **2009-10** | **将 Nikko Cordial 证券出售给 SMFG**（→ [[securities-firms/smbc-nikko]] 之后）。花旗日本批发重建的一部分|
 | 2010s 上半场 |日本零售业将接受全球“花旗控股”非核心资产重组计划的审查
 | **2014-09** | **花旗银行零售→向SMBC信托银行出售的公告**（个人客户、分行、PB业务）|
 | **2015-11** | **零售销售完成** → 继续以SMBC信托银行旗下的“PRESTIA”品牌**。花旗银行（企业人格）消失|
@@ -69,10 +69,10 @@ Citigroup Inc.（米 NYSE: C・连邦准备制度监督）
 
 | 领域 | 主要竞合 |
 |---|---|
-|国外IB/并购| [[goldman-sachs-japan]] / [[morgan-stanley-japan]] / JP 摩根日本 / 巴克莱 |
+|国外IB/并购| [[securities-firms/goldman-sachs-japan]] / [[securities-firms/morgan-stanley-japan]] / JP 摩根日本 / 巴克莱 |
 | GTS / 交易银行 |摩根大通/汇丰银行/德意志银行/法国巴黎银行 |
 |托管 |道富银行/纽约梅隆银行/摩根大通/汇丰银行|
-|日本大型银行的跨境| [[mufg]] / [[smfg]] / [[mizuho-fg]]（包括摩根士丹利合资公司）|
+|日本大型银行的跨境| [[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]]（包括摩根士丹利合资公司）|
 
 ### 与全球战略对接
 
@@ -89,9 +89,9 @@ Citigroup Inc.（米 NYSE: C・连邦准备制度监督）
 
 ＃＃ 有关的
 
-- **竞合外资 IB**: [[goldman-sachs-japan]] · [[morgan-stanley-japan]]
-- **卖方/历史关系**：[[smbc-nikko]]（前 Nikko Cordial 证券、2009-10  卖方）[[smfg]]（与 PRESTIA 母公司[[sumitomo-mitsui-trust]]不同的集团，SMBC 信托银行隶属于 SMFG）
-- **日本超级**：[[mufg]]·[[smfg]]·[[mizuho-fg]]
+- **竞合外资 IB**: [[securities-firms/goldman-sachs-japan]] · [[securities-firms/morgan-stanley-japan]]
+- **卖方/历史关系**：[[securities-firms/smbc-nikko]]（前 Nikko Cordial 证券、2009-10  卖方）[[megabanks/smfg]]（与 PRESTIA 母公司[[trust-banks/sumitomo-mitsui-trust]]不同的集团，SMBC 信托银行隶属于 SMFG）
+- **日本超级**：[[megabanks/mufg]]·[[megabanks/smfg]]·[[megabanks/mizuho-fg]]
 
 ## 来源
 

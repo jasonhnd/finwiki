@@ -36,7 +36,7 @@ JF Marine Bank system（3  层结构）
                 ↓ 余资存入
   Layer 2: 10  信渔连（区域 / 都道府县中间层）★本页
                 ↓ 余资存入
-  Layer 3: 1  农林中央金库（中央）→ [[norinchukin]]
+  Layer 3: 1  农林中央金库（中央）→ [[cooperative-banks/norinchukin]]
                 ↓ 机构投资 / 系统回馈
 ```
 

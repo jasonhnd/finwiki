@@ -52,46 +52,38 @@
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 14,
+    "wikilinks_count": 10,
     "wikilinks": [
-      "hannover-re-japan",
       "insurance/INDEX",
       "insurance/natcat-reinsurance-japan",
-      "japan-earthquake-reinsurance",
       "life-insurers/rga-japan",
       "mitsubishi-corporation",
-      "munich-re-japan",
       "non-life-insurers/INDEX",
+      "non-life-insurers/hannover-re-japan",
+      "non-life-insurers/japan-earthquake-reinsurance",
       "non-life-insurers/munich-re-japan",
       "non-life-insurers/swiss-re-japan",
-      "non-life-insurers/toa-reinsurance",
-      "rga-japan",
-      "swiss-re-japan",
-      "toa-reinsurance"
+      "non-life-insurers/toa-reinsurance"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/hannover-re-japan",
       "https://finwiki.zksc.io/insurance/INDEX",
       "https://finwiki.zksc.io/insurance/natcat-reinsurance-japan",
-      "https://finwiki.zksc.io/japan-earthquake-reinsurance",
       "https://finwiki.zksc.io/life-insurers/rga-japan",
       "https://finwiki.zksc.io/mitsubishi-corporation",
-      "https://finwiki.zksc.io/munich-re-japan",
       "https://finwiki.zksc.io/non-life-insurers/INDEX",
+      "https://finwiki.zksc.io/non-life-insurers/hannover-re-japan",
+      "https://finwiki.zksc.io/non-life-insurers/japan-earthquake-reinsurance",
       "https://finwiki.zksc.io/non-life-insurers/munich-re-japan",
       "https://finwiki.zksc.io/non-life-insurers/swiss-re-japan",
-      "https://finwiki.zksc.io/non-life-insurers/toa-reinsurance",
-      "https://finwiki.zksc.io/rga-japan",
-      "https://finwiki.zksc.io/swiss-re-japan",
-      "https://finwiki.zksc.io/toa-reinsurance"
+      "https://finwiki.zksc.io/non-life-insurers/toa-reinsurance"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2863,
-    "word_like_tokens": 438,
+    "nonspace_chars": 2967,
+    "word_like_tokens": 455,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-06-06"
+    "last_modified": "2026-06-08"
   }
 }

@@ -53,5 +53,5 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 - 合併後新銀行（愛知銀行）のシステム統合スケジュール・コスト負担は？
 - 中京経済圏地銀再編の次フェーズ: 名古屋銀行との将来統合可能性は？ ^[inferred]
 - トヨタサプライチェーン融資の構造的依存度（融資ポートフォリオ占有率）は？
-- [[juroku-fg]] / [[san-jusan-fg]] / [[ogaki-kyoritsu-bank]] との中部広域 FG 化シナリオは？
+- [[regional-banks/juroku-fg]] / [[regional-banks/san-jusan-fg]] / [[regional-banks/ogaki-kyoritsu-bank]] との中部広域 FG 化シナリオは？
 - EV シフトによる自動車サプライヤー業界再編 → 地銀融資ポートフォリオへの影響は？

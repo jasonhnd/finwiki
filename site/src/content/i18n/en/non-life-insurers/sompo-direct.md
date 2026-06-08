@@ -15,7 +15,7 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 
 ## TL;DR
 
-SOMPO Direct Insurance Inc. is the direct non-life insurance operating company of the [[sompo]] group. It includes the former Saison Automobile and Fire Insurance surface and appears under its current legal name in the FSA non-life insurance company license list.
+SOMPO Direct Insurance Inc. is the direct non-life insurance operating company of the [[non-life-insurers/sompo]] group. It includes the former Saison Automobile and Fire Insurance surface and appears under its current legal name in the FSA non-life insurance company license list.
 
 ## 1. License / group boundary
 
@@ -25,11 +25,11 @@ SOMPO Direct Insurance Inc. is the direct non-life insurance operating company o
 | Former / product association | Saison Automobile and Fire Insurance / Otona no Jidosha Hoken |
 | License route | Insurance Business Act non-life insurance company; FSA non-life insurer list |
 | Protection scheme | Non-Life Insurance Policyholders Protection Corporation member |
-| Group boundary | [[sompo]] direct non-life operating company |
+| Group boundary | [[non-life-insurers/sompo]] direct non-life operating company |
 
 ## 2. Operating model
 
-SOMPO Direct gives SOMPO a digital / direct channel that differs from the agency-led [[sompo-japan-insurance]]. Direct auto insurance, web quotation, call-center operations, and lower-cost distribution are the key analytical axes.
+SOMPO Direct gives SOMPO a digital / direct channel that differs from the agency-led [[non-life-insurers/sompo-japan-insurance]]. Direct auto insurance, web quotation, call-center operations, and lower-cost distribution are the key analytical axes.
 
 ## 3. Why this page matters
 
@@ -39,11 +39,11 @@ SOMPO Direct gives SOMPO a digital / direct channel that differs from the agency
 
 ## Related
 
-- [[sompo]]
-- [[sompo-japan-insurance]]
+- [[non-life-insurers/sompo]]
+- [[non-life-insurers/sompo-japan-insurance]]
 - [[insurance/saison-automobile-fire]]
-- [[sony-insurance]]
-- [[tokio-marine-direct]]
+- [[non-life-insurers/sony-insurance]]
+- [[non-life-insurers/tokio-marine-direct]]
 
 ## Sources
 

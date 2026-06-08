@@ -16,7 +16,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-前独立银行总部位于长野县页。 1931-08-01 第十九银行+第63银行通过合并成立，公司名称来自**19  + 63  = 82 **。 2023 - 06  长野银行将成为全资子公司，当前的法定名称实体将在 2026 年 的 FSA 银行牌照列表中列为 [[hachijuni-nagano-bank|八十二長野銀行]]。从现在开始，此页面将是前八十二银行的历史/前身分析，当前运营公司边界将由 [[hachijuni-nagano-bank]] 持有。
+前独立银行总部位于长野县页。 1931-08-01 第十九银行+第63银行通过合并成立，公司名称来自**19  + 63  = 82 **。 2023 - 06  长野银行将成为全资子公司，当前的法定名称实体将在 2026 年 的 FSA 银行牌照列表中列为 [[regional-banks/hachijuni-nagano-bank|八十二長野銀行]]。从现在开始，此页面将是前八十二银行的历史/前身分析，当前运营公司边界将由 [[regional-banks/hachijuni-nagano-bank]] 持有。
 
 ## 1 。公司简介
 
@@ -25,14 +25,14 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 **证券代码**：TSE PRIME 8359
  **基金会**：1931-08-01（第 19 银行 + 63 银行合并）
 **总部**：长野县长野市中乡所冈田 178 - 8（总部大楼）
-**当前边界**：整合后银行牌照运营公司将迁移至[[hachijuni-nagano-bank|株式会社八十二長野銀行]]。
+**当前边界**：整合后银行牌照运营公司将迁移至[[regional-banks/hachijuni-nagano-bank|株式会社八十二長野銀行]]。
 
 ### 主要子公司/参股情况
 
 ```
 八十二銀行（旧単独銀行・上場 8359）
   ├── 長野銀行（2023-06-01 完全子会社化）
-  └── [[hachijuni-nagano-bank]] ── current operating-company boundary
+  └── [[regional-banks/hachijuni-nagano-bank]] ── current operating-company boundary
   ├── 八十二証券 ── 県内リテール証券
   ├── 八十二リース ── グループ金融子会社
   ├── 八十二信用保証 ── 住宅ローン等の信用保証
@@ -49,7 +49,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 - 战后作为核心区域银行长期上市，1949 在东京证券交易所上市
 - ** 2022 - 04  TSE 市场分类审查** → TSE PRIME 8359（从前 TSE 第一部分迁移）
 - ** 2023-06-01 长野银行通过证券交易所成为全资子公司 **：县内第二家地方银行长野银行（原长野综合银行 → 1989  普通银行转换）成为附属公司
-- ** 2026  银行牌照快照**：当前法定名称可在金融厅本地银行列表中确认为 [[hachijuni-nagano-bank|株式会社八十二長野銀行]]。
+- ** 2026  银行牌照快照**：当前法定名称可在金融厅本地银行列表中确认为 [[regional-banks/hachijuni-nagano-bank|株式会社八十二長野銀行]]。
 
 ### 重要年表（摘录）
 
@@ -64,7 +64,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 | 2022 - 04  | TSE 市场分类审查 → TSE PRIME 8359（从前 TSE 第一部分迁移）|
 | ** 2023-06-01 ** | **长野银行通过证券交易所成为全资子公司** |
 | 2024  |制定中期经营计划（长野银行合并后阶段）|
-| 2026  FSA 快照 | [[hachijuni-nagano-bank|株式会社八十二長野銀行]] 已列入本地银行列表 |
+| 2026  FSA 快照 | [[regional-banks/hachijuni-nagano-bank|株式会社八十二長野銀行]] 已列入本地银行列表 |
 
 ## 2 。业务板块图
 
@@ -74,7 +74,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 |县内零售 |八十二银行+八十二证券|长野县人口约200 万，信州地区个人存款较多|
 |制造业主行|八十二银行 |精工爱普生（诹访总公司）、美蓓亚三美（原诹访精工舍系）、中型电子元件|
 |旅游融资|八十二银行 |轻井泽、白马、诹访、上田、善光寺周边的旅游酒店/度假村开发
-|整合策略| [[hachijuni-nagano-bank|八十二長野銀行]] | 1  县内强大的系统集成，包括前第二区域银行 |
+|整合策略| [[regional-banks/hachijuni-nagano-bank|八十二長野銀行]] | 1  县内强大的系统集成，包括前第二区域银行 |
 |县外法人|八十二银行（东京、大阪、名古屋等县外据点）|总公司+关东地区中型企业的县外交易追踪|
 |集团财务|八十二租赁/信用担保/资本金等|围绕银行本身的功能互补|
 
@@ -87,19 +87,19 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 ### 与县内同行的关系：3  Tsutomoe → 1  迈向更强大的系统
 
 - **传统结构**：八十二银行 vs [[#長野銀行統合]] vs 3  信用金库 Tomoe（长野信用金库、松本信用金库等）
-- **长野银行整合**（2023 - 06 成为全资子公司后，过渡到[[hachijuni-nagano-bank|八十二長野銀行]]目前的法定名称边界），完成1 “原八十二银行+原长野银行”的强大结构→解决与原第二地区银行的冲突
+- **长野银行整合**（2023 - 06 成为全资子公司后，过渡到[[regional-banks/hachijuni-nagano-bank|八十二長野銀行]]目前的法定名称边界），完成1 “原八十二银行+原长野银行”的强大结构→解决与原第二地区银行的冲突
 - **与信金银行集团分离**：信金银行以中小企业和个人存款为主，分工比较明确，而八十二行作为区域性银行，确立了针对中小企业的主力银行地位。
-- **与县外主要银行的竞争（大型银行[[mufg]] / [[smfg]] / [[mizuho-fg]]）**：县内龙头企业的大规模贷款/全球业务流向大型银行，八十二银行与社区服务竞争
+- **与县外主要银行的竞争（大型银行[[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]]）**：县内龙头企业的大规模贷款/全球业务流向大型银行，八十二银行与社区服务竞争
 
 ### 单一银行的战略意义
 
-- **不成为控股公司**与成为独立区域银行 FG 的趋势形成鲜明对比，例如静冈 FG（2022 - 10  成为独立 FG）和 [[fukuoka-fg|FFG]]
+- **不成为控股公司**与成为独立区域银行 FG 的趋势形成鲜明对比，例如静冈 FG（2022 - 10  成为独立 FG）和 [[regional-banks/fukuoka-fg|FFG]]
 - 独立银行的优点：( 1 ) 治理简单，( 2 ) 管理资源集中在银行内部，( 3 ) 成为控股公司无需额外成本。
 
 ### 在区域银行重组中的地位
 
-- **保持作为长野县唯一区域银行领导者的独立道路**（与 [[mufg]] 等大型公司合作/与 SBI 4  大型概念的距离）
-- 北信越地区（长野、新泻、富山、石川、福井）的区域银行合作形成了以 [[hokuhoku-fg|ほくほく FG]] 和 [[dai-shi-hokuetsu-fg|第四北越 FG]] 为中心的其他轴，八十二银行是长野县的中央银行。
+- **保持作为长野县唯一区域银行领导者的独立道路**（与 [[megabanks/mufg]] 等大型公司合作/与 SBI 4  大型概念的距离）
+- 北信越地区（长野、新泻、富山、石川、福井）的区域银行合作形成了以 [[regional-banks/hokuhoku-fg|ほくほく FG]] 和 [[regional-banks/dai-shi-hokuetsu-fg|第四北越 FG]] 为中心的其他轴，八十二银行是长野县的中央银行。
 
 ## 4 。法规/政策
 
@@ -113,9 +113,9 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## Related
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] (Megabank 3 行)
-- [[shizuoka-fg]] · [[fukuoka-fg]] · [[concordia-fg]] · [[mebuki-fg]] （与之前单一区域银行 FG 的示例比较）
-- [[hokuhoku-fg]] · [[dai-shi-hokuetsu-fg]]（北信越地区银行）
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] (Megabank 3 行)
+- [[regional-banks/shizuoka-fg]] · [[regional-banks/fukuoka-fg]] · [[regional-banks/concordia-fg]] · [[regional-banks/mebuki-fg]] （与之前单一区域银行 FG 的示例比较）
+- [[regional-banks/hokuhoku-fg]] · [[regional-banks/dai-shi-hokuetsu-fg]]（北信越地区银行）
 - [[banking/minna-bank-baas-model]]（区域银行数字化策略比较）
 
 ## Sources
@@ -126,4 +126,4 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 ---
 
 > [!info] 验证状态
-> 置信度：**可能**（v 1.1  公共源修正 2026-05-21）。历史记录（1931-08-01 建立、19 + 63 = 82  起源、2023 - 06  长野银行子公司）保留在前八十二银行页面上，2026  FSA 银行许可证快照的当前法定名称边界已分离到 [[hachijuni-nagano-bank|八十二長野銀行]] 中。
+> 置信度：**可能**（v 1.1  公共源修正 2026-05-21）。历史记录（1931-08-01 建立、19 + 63 = 82  起源、2023 - 06  长野银行子公司）保留在前八十二银行页面上，2026  FSA 银行许可证快照的当前法定名称边界已分离到 [[regional-banks/hachijuni-nagano-bank|八十二長野銀行]] 中。

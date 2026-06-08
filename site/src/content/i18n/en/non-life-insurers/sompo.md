@@ -158,7 +158,7 @@ SOMPO HD (Holding company/Listed 8630)
 
 ## Related
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[ndfg]] · [[nomura-hd]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[megabanks/ndfg]] · [[securities-firms/nomura-hd]]
 - Domestic 3  General Insurance: Tokio Marine HD (8766) / MS&AD HD (8725) / **SOMPO HD (8630)**
 
 ## Sources

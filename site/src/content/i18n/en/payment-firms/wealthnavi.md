@@ -15,7 +15,7 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it again
 
 ## TL;DR
 
-Japan's largest robo-advisory asset-management service. **Assets under management exceeded 2 兆円 (announced 2026-05-12)**, with about 41.6 万 users under management as of end 2024-09 . Founded in 2015-04-28 by Kazuhisa Shibayama, a former McKinsey consultant and Ministry of Finance official; service launched in 2016-07 . Listed on TSE Mothers in 2020-12-22 (securities code **7342**, now Growth). **2024-12-12 Mitsubishi UFJ Bank [[mufg]] announced full acquisition through a tender offer (TOB) ★** -- a turning point where Japan's robo-ad pioneer is integrated into a megabank AI finance ecosystem. ^[extracted]
+Japan's largest robo-advisory asset-management service. **Assets under management exceeded 2 兆円 (announced 2026-05-12)**, with about 41.6 万 users under management as of end 2024-09 . Founded in 2015-04-28 by Kazuhisa Shibayama, a former McKinsey consultant and Ministry of Finance official; service launched in 2016-07 . Listed on TSE Mothers in 2020-12-22 (securities code **7342**, now Growth). **2024-12-12 Mitsubishi UFJ Bank [[megabanks/mufg]] announced full acquisition through a tender offer (TOB) ★** -- a turning point where Japan's robo-ad pioneer is integrated into a megabank AI finance ecosystem. ^[extracted]
 
 ## 1. Company profile
 
@@ -51,8 +51,8 @@ Japan's largest robo-advisory asset-management service. **Assets under managemen
 ```
 WealthNavi Inc.
   ├── WealthNavi (direct own brand) -- main brand
-  ├── WealthNavi for SBI Securities -- partnership with [[sbi-hd]]
-  ├── WealthNavi for Monex -- partnership with [[monex-group]]
+  ├── WealthNavi for SBI Securities -- partnership with [[megabanks/sbi-hd]]
+  ├── WealthNavi for Monex -- partnership with [[securities-firms/monex-group]]
   ├── WealthNavi for SBI Sumishin Net Bank
   ├── WealthNavi for Sony Bank -- Sony FG route
   ├── WealthNavi for Bank of Yokohama -- Concordia FG route
@@ -75,7 +75,7 @@ WealthNavi Inc.
 | 2022-04 | Shifted to the Growth Market after TSE market-segment reform |
 | **2024-01-11** | **Assets under management exceeded 1 兆円, the first domestic robo-ad to reach that mark** -- about 7  years and 5  months after the 2016-07  release |
 | 2024 | Supported the new NISA system, including both installment-investment quota and growth-investment quota |
-| **2024-12-12** | **Mitsubishi UFJ Bank [[mufg]] announced a tender offer (TOB) for full acquisition** ★ |
+| **2024-12-12** | **Mitsubishi UFJ Bank [[megabanks/mufg]] announced a tender offer (TOB) for full acquisition** ★ |
 | **2025-01-20** | **Mitsubishi UFJ Bank TOB succeeded** (purchase price 1,950 円, total amount about 997 億円) -> 2025-03  squeeze-out and TSE Growth delisting |
 
 ## 2. Business segment map
@@ -101,15 +101,15 @@ WealthNavi Inc.
 |---|---|---|---|
 | **WealthNavi** | -> MUFG subsidiary (announced 2024-12 ) | Exceeded 2 兆円 (2026-05) | Domestic robo-ad No. 1  |
 | THEO | Money Design | Several-hundred-billion-yen scale | docomo partnership (THEO+ docomo) |
-| SBI Wrap | Within [[sbi-hd]] | Expanding | Capturing group customers |
-| Rakuten Securities Wrap | Within [[rakuten-fg]] | - | Integrated group management |
-| Monex Asset Management | [[monex-group]] | - | ON COMPASS, etc. |
-| Daiwa Fund Wrap | [[daiwa-sg]] | Major face-to-face wrap | Wealthy individuals |
-| Nomura Fund Wrap | [[nomura-hd]] | Largest industry wrap scale | Mainly face-to-face wealthy clients |
+| SBI Wrap | Within [[megabanks/sbi-hd]] | Expanding | Capturing group customers |
+| Rakuten Securities Wrap | Within [[payment-firms/rakuten-fg]] | - | Integrated group management |
+| Monex Asset Management | [[securities-firms/monex-group]] | - | ON COMPASS, etc. |
+| Daiwa Fund Wrap | [[securities-firms/daiwa-sg]] | Major face-to-face wrap | Wealthy individuals |
+| Nomura Fund Wrap | [[securities-firms/nomura-hd]] | Largest industry wrap scale | Mainly face-to-face wealthy clients |
 
 ### MUFG subsidiary conversion (announced 2024-12-12) ★
 
-- **Tender offeror**: Mitsubishi UFJ Bank (MUFG Bank, [[mufg]] 100% subsidiary)
+- **Tender offeror**: Mitsubishi UFJ Bank (MUFG Bank, [[megabanks/mufg]] 100% subsidiary)
 
 > Note: speculation about whether white-label partnerships with SBI / Monex / Sony Bank and others will continue after MUFG full acquisition, and what strategic significance they will have, is isolated in `.opinions/JapanFG/wealthnavi.md` because there is no verifiable primary information.
 
@@ -131,7 +131,7 @@ WealthNavi Inc.
 
 ## Related
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[sbi-hd]] · [[monex-group]] · [[rakuten-fg]] · [[daiwa-sg]] · [[nomura-hd]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[megabanks/sbi-hd]] · [[securities-firms/monex-group]] · [[payment-firms/rakuten-fg]] · [[securities-firms/daiwa-sg]] · [[securities-firms/nomura-hd]]
 
 ## Sources
 

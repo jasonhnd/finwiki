@@ -54,35 +54,35 @@
     "wikilinks_count": 10,
     "wikilinks": [
       "banking/INDEX",
-      "concordia-fg",
-      "fukuoka-fg",
-      "mebuki-fg",
-      "mizuho-fg",
-      "mufg",
+      "megabanks/mizuho-fg",
+      "megabanks/mufg",
+      "megabanks/smfg",
       "regional-banks/INDEX",
       "regional-banks/chiba-bank",
-      "smfg",
-      "towa-bank"
+      "regional-banks/concordia-fg",
+      "regional-banks/fukuoka-fg",
+      "regional-banks/mebuki-fg",
+      "regional-banks/towa-bank"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/concordia-fg",
-      "https://finwiki.zksc.io/fukuoka-fg",
-      "https://finwiki.zksc.io/mebuki-fg",
-      "https://finwiki.zksc.io/mizuho-fg",
-      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/smfg",
       "https://finwiki.zksc.io/regional-banks/INDEX",
       "https://finwiki.zksc.io/regional-banks/chiba-bank",
-      "https://finwiki.zksc.io/smfg",
-      "https://finwiki.zksc.io/towa-bank"
+      "https://finwiki.zksc.io/regional-banks/concordia-fg",
+      "https://finwiki.zksc.io/regional-banks/fukuoka-fg",
+      "https://finwiki.zksc.io/regional-banks/mebuki-fg",
+      "https://finwiki.zksc.io/regional-banks/towa-bank"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3842,
-    "word_like_tokens": 578,
-    "inbound_wikilinks_count": 2,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 4007,
+    "word_like_tokens": 598,
+    "inbound_wikilinks_count": 4,
+    "last_modified": "2026-06-08"
   }
 }

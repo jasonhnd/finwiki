@@ -15,7 +15,7 @@ translated_at: 2026-06-01T02:31:57.101Z
 
 ## TL;DR
 
-这是经历了剧烈母公司更替的前网络银行：**2025-09-25 东证 Standard 退市 -> 2025-10-01 成为 NTT Docomo 连结子公司 -> 2025-10-02 与 SBI HD 的资本关系完全解除 -> 计划于 2026-08-03 更名为「Docomo SMTB 网络银行」**。它作为三井住友信托 + SBI HD 50:50  JV 于 2007-09-24 开业，并于 2023-03-29 在 PRIME 上市；仅过 2  年半后，NTT Docomo 收购了 SBI HD 持股。以 **FY2024（2025-03 期）连结纯利润 281 億円、经常收益 1,465 億円、存款余额 9 兆 8,216 億円、账户数 825 万 件** 计，其规模在网络银行业中仅次于 [[banking/rakuten-bank|rakuten-bank]]。核心是 **住房贷款办理额达到网络银行 No.1  级** + **日本最大级 BaaS（NEOBANK）提供方** 这 2  条轴线。原本作为「docomo NEOBANK / d Smart Bank」后台的该行，被合作方 [[ndfg]] 本身吸收，是较少见的案例。
+这是经历了剧烈母公司更替的前网络银行：**2025-09-25 东证 Standard 退市 -> 2025-10-01 成为 NTT Docomo 连结子公司 -> 2025-10-02 与 SBI HD 的资本关系完全解除 -> 计划于 2026-08-03 更名为「Docomo SMTB 网络银行」**。它作为三井住友信托 + SBI HD 50:50  JV 于 2007-09-24 开业，并于 2023-03-29 在 PRIME 上市；仅过 2  年半后，NTT Docomo 收购了 SBI HD 持股。以 **FY2024（2025-03 期）连结纯利润 281 億円、经常收益 1,465 億円、存款余额 9 兆 8,216 億円、账户数 825 万 件** 计，其规模在网络银行业中仅次于 [[banking/rakuten-bank|rakuten-bank]]。核心是 **住房贷款办理额达到网络银行 No.1  级** + **日本最大级 BaaS（NEOBANK）提供方** 这 2  条轴线。原本作为「docomo NEOBANK / d Smart Bank」后台的该行，被合作方 [[megabanks/ndfg]] 本身吸收，是较少见的案例。
 
 ## 1. 公司概要
 
@@ -24,7 +24,7 @@ translated_at: 2026-06-01T02:31:57.101Z
 **证券代码**：原 东证 STANDARD 7163（**2025-09-25 退市**；原 PRIME 因 2024  的 Standard 市场再编而迁移）
 **设立**：2007-09-24（同日开业）
 **现母公司**（2025-10-02起）：
-  - **NTT Docomo**：持股比例 **55.37%**（[[ndfg]] 旗下，连结子公司）
+  - **NTT Docomo**：持股比例 **55.37%**（[[megabanks/ndfg]] 旗下，连结子公司）
   - **三井住友信托银行**：持股比例 **44.63%**（议决权为 50:50）
 **业态**：网络银行（普通银行牌照）+ BaaS 提供方
 **总部**：东京都港区
@@ -62,7 +62,7 @@ translated_at: 2026-06-01T02:31:57.101Z
   NTT Docomo 55.37% + 三井住友信托 44.63%（NTT Docomo 向三井住友信托出售 10.44%）
   议决权比例 50:50
   名；名称：「株式会社ドコモ SMTB ネット銀行」
-  定位: [[ndfg]] 旗下 4 社 中的 1 社（计划于 2026-07-01 设立）
+  定位: [[megabanks/ndfg]] 旗下 4 社 中的 1 社（计划于 2026-07-01 设立）
 ```
 
 ### 重要时间线
@@ -80,7 +80,7 @@ translated_at: 2026-06-01T02:31:57.101Z
 | **2025-09-25** | **东证 Standard 市场退市** |
 | **2025-10-01** | **成为 NTT Docomo 连结子公司**（持股比例约 65.81%） |
 | **2025-10-02** | **SBI HD 资本关系完全解除** |
-| 2026-07-01 (计划) | [[ndfg]]（NTT Docomo Financial Group）设立，统括包括住信 SBI 在内的金融 4 社 |
+| 2026-07-01 (计划) | [[megabanks/ndfg]]（NTT Docomo Financial Group）设立，统括包括住信 SBI 在内的金融 4 社 |
 | 2026-08-03 (计划) | **更名为「Docomo SMTB 网络银行」**，NTT Docomo 55.37% / 三井住友信托 44.63% |
 
 ## 2. 业务分部地图
@@ -106,7 +106,7 @@ translated_at: 2026-06-01T02:31:57.101Z
 | **Yamada NEOBANK** | Yamada HD | 2021 |
 | **Ouchi Direct NEOBANK** | 野村不动产 | 2021 |
 | **Dai-ichi Life NEOBANK** | 第一生命 | 2022 |
-| **docomo NEOBANK / d Smart Bank** ★ | [[ndfg]] / NTT Docomo | 2022  -> 2025-10  母公司化 |
+| **docomo NEOBANK / d Smart Bank** ★ | [[megabanks/ndfg]] / NTT Docomo | 2022  -> 2025-10  母公司化 |
 | **Takashimaya NEOBANK** | 高岛屋 | 2022 |
 | **Open House NEOBANK** | Open House Group | 2023 |
 | **Keio NEOBANK** | 京王集团 | - |
@@ -130,7 +130,7 @@ translated_at: 2026-06-01T02:31:57.101Z
 
 ### 合作 / 收购战略（2025-10 以后）
 
-- **NTT Docomo（新第一大股东）**：2025-10-01起成为连结子公司，是 [[ndfg]] 旗下核心金融功能。docomo NEOBANK 从「BaaS 合作」升级为「自有银行服务」。
+- **NTT Docomo（新第一大股东）**：2025-10-01起成为连结子公司，是 [[megabanks/ndfg]] 旗下核心金融功能。docomo NEOBANK 从「BaaS 合作」升级为「自有银行服务」。
 - **三井住友信托银行（共同母公司）**：自设立时起的 JV 合作方，继续提供信托和养老金基础设施。
 - **SBI HD（资本关系解除）**：2025-10-02 完全解除。与 SBI 证券的「混合存款」/ 与 SBI VC Trade 的加密资产联动 API 今后如何安排尚未确定。
 - **与过去母公司 SBI 系列的联动**：与 SBI 证券 / SBI VC Trade 的既有 API 联动如何继续或缩小，是后续论点。
@@ -160,8 +160,8 @@ translated_at: 2026-06-01T02:31:57.101Z
 
 ## Related
 
-- [[ndfg]] · [[trust-banks/sumitomo-mitsui-trust|smtb-hd]] · [[sbi-hd]] · [[banking/rakuten-bank|rakuten-bank]] · [[banking/paypay-bank|paypay-bank]]
-- [[mufg]] · [[smfg]] · [[mizuho-fg]]
+- [[megabanks/ndfg]] · [[trust-banks/sumitomo-mitsui-trust|smtb-hd]] · [[megabanks/sbi-hd]] · [[banking/rakuten-bank|rakuten-bank]] · [[banking/paypay-bank|paypay-bank]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]
 - [[banking/minna-bank-baas-model]] · [[banking/mercari-bank-license-stack]]
 - [[exchanges/jp-crypto-exchange-overview|jp-crypto-exchange-overview]]
 

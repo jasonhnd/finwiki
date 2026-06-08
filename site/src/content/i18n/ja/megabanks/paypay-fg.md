@@ -173,7 +173,7 @@ SoftBank Group Corp.（9984、東証 PRIME）
 
 ## 関連項目
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[sbi-hd]] · [[ndfg]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[megabanks/sbi-hd]] · [[megabanks/ndfg]]
 - [[banking/mercari-bank-license-stack]] · [[banking/minna-bank-baas-model]]
 
 ## 出典

@@ -30,7 +30,7 @@ freee is an **integrated back-office platform provider for small businesses** (T
 
 ### Business type
 
-It is a pure SaaS vendor and does not hold any banking, securities, or insurance licenses. A **non-bank fintech platform** that provides financial functions (card issuance, financing, electronic contracts) through affiliated financial institutions, card companies, and electronic contract providers. The design philosophy is to use SaaS as a hub to bundle APIs, cards, and loans from existing financial institutions, as opposed to general finance companies such as megabanks FG ([[mufg]] / [[smfg]] / [[mizuho-fg]]) and [[ndfg]] / [[paypay-fg]] that include banks, securities, and cards.
+It is a pure SaaS vendor and does not hold any banking, securities, or insurance licenses. A **non-bank fintech platform** that provides financial functions (card issuance, financing, electronic contracts) through affiliated financial institutions, card companies, and electronic contract providers. The design philosophy is to use SaaS as a hub to bundle APIs, cards, and loans from existing financial institutions, as opposed to general finance companies such as megabanks FG ([[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]]) and [[megabanks/ndfg]] / [[megabanks/paypay-fg]] that include banks, securities, and cards.
 
 ### Important chronology (based on public information) ^[extracted]
 
@@ -99,7 +99,7 @@ The foundation of our business is API collaboration with banks, credit card comp
 
 ## Related
 
-- [[payment-firms/money-forward|Money Forward]] · [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[ndfg]] · [[paypay-fg]] · [[au-fh]] · [[gmo-aozora-net]]
+- [[payment-firms/money-forward|Money Forward]] · [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[megabanks/ndfg]] · [[megabanks/paypay-fg]] · [[megabanks/au-fh]] · [[payment-firms/gmo-aozora-net]]
 
 ## Sources
 

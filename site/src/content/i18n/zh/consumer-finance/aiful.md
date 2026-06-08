@@ -15,7 +15,7 @@ This entry sits under [[consumer-finance/INDEX|consumer-finance INDEX]]. Read it
 
 ## TL;DR
 
-发源于京都的大型消费金融公司。**1967-04 福田吉孝在京都以个人事业“丸三”创业**，于 1978  改名为“アイフル”。业态以个人无担保贷款（卡贷）为主轴 + 信用卡（Life Card 子公司）+ 经营者贷款。与 Acom（[[mufg]] 内）和 Promise（[[smfg]] 内）并列为“3 大消费金融”之一，也是其中唯一不属于大型银行集团的独立系大手 ★。2006-2010  的灰色地带利率和过付款返还问题导致经营危机，随后经由 business turnaround ADR 重建。东证 PRIME 8515  上市。^[extracted]
+发源于京都的大型消费金融公司。**1967-04 福田吉孝在京都以个人事业“丸三”创业**，于 1978  改名为“アイフル”。业态以个人无担保贷款（卡贷）为主轴 + 信用卡（Life Card 子公司）+ 经营者贷款。与 Acom（[[megabanks/mufg]] 内）和 Promise（[[megabanks/smfg]] 内）并列为“3 大消费金融”之一，也是其中唯一不属于大型银行集团的独立系大手 ★。2006-2010  的灰色地带利率和过付款返还问题导致经营危机，随后经由 business turnaround ADR 重建。东证 PRIME 8515  上市。^[extracted]
 
 ## 1. 公司概要
 
@@ -33,8 +33,8 @@ This entry sits under [[consumer-finance/INDEX|consumer-finance INDEX]]. Read it
 
 | 公司 | 系列 | 主要股东 |
 |---|---|---|
-| Acom | [[mufg]] 集团 | 三菱 UFJ 银行 权益法 39.6% |
-| Promise（SMBC Consumer Finance）| [[smfg]] 集团 | SMFG 100% 全资子公司 |
+| Acom | [[megabanks/mufg]] 集团 | 三菱 UFJ 银行 权益法 39.6% |
+| Promise（SMBC Consumer Finance）| [[megabanks/smfg]] 集团 | SMFG 100% 全资子公司 |
 | **Aiful** | **独立系**（非大型银行系列）★ | **以创始家族福田家为中心的独立资本** |
 
 ### 主要集团公司
@@ -51,7 +51,7 @@ Aiful（控股公司功能 + 直营事业・上市 8515）
 
 ### 创始家族与独立性
 
-**以创始家族福田家为中心的独立资本结构**是最大特征。不同于 Acom（[[mufg]] 权益法 39.6%）和 Promise（[[smfg]] 100% 全资子公司），Aiful 是不被纳入大型银行系列的大型消费金融公司中的唯一一家。^[extracted]
+**以创始家族福田家为中心的独立资本结构**是最大特征。不同于 Acom（[[megabanks/mufg]] 权益法 39.6%）和 Promise（[[megabanks/smfg]] 100% 全资子公司），Aiful 是不被纳入大型银行系列的大型消费金融公司中的唯一一家。^[extracted]
 
 ## 2. 事业板块・地图
 
@@ -113,11 +113,11 @@ Aiful（控股公司功能 + 直营事业・上市 8515）
 
 | 竞争对手 | 系列 | 与 Aiful 的差异 |
 |---|---|---|
-| Acom | [[mufg]] 系列（权益法 39.6%）| 通过母行 ATM 和导客领先，海外（泰国 Easy Buy 等）展开 |
-| Promise（SMBCCF）| [[smfg]] 100% 全资子公司 | 与母行银行一体运营，导客效率高 |
-| Rakuten Card・PayPay Card | [[rakuten-fg]] / [[paypay-fg]] | 与 EC・支付平台一体，在年轻层领先 |
+| Acom | [[megabanks/mufg]] 系列（权益法 39.6%）| 通过母行 ATM 和导客领先，海外（泰国 Easy Buy 等）展开 |
+| Promise（SMBCCF）| [[megabanks/smfg]] 100% 全资子公司 | 与母行银行一体运营，导客效率高 |
+| Rakuten Card・PayPay Card | [[payment-firms/rakuten-fg]] / [[megabanks/paypay-fg]] | 与 EC・支付平台一体，在年轻层领先 |
 | 银行卡贷 | 全大型银行・地方银行 | 银行直营低利率卡贷成为替代产品 |
-| [[orico]] / [[credit-saison]] / [[jaccs]] | 信贩系 | 个品分期轴不同，与消费金融相邻 |
+| [[card-issuers/orico]] / [[card-issuers/credit-saison]] / [[card-issuers/jaccs]] | 信贩系 | 个品分期轴不同，与消费金融相邻 |
 
 ### 中期战略（公开方向）
 
@@ -149,13 +149,13 @@ Aiful（控股公司功能 + 直营事业・上市 8515）
 
 ## Related
 
-- [[mufg]] — 3 大消费金融的竞争（Acom 权益法 39.6%）
-- [[smfg]] — 3 大消费金融的竞争（Promise＝SMBCCF 100% 子公司）
-- [[jaccs]] — 信贩大手・相邻业态
-- [[orico]] — 信贩大手・相邻业态
-- [[credit-saison]] — 信贩大手・相邻业态
-- [[rakuten-fg]] — Rakuten Card 对年轻层的侵蚀
-- [[paypay-fg]] — PayPay Card 对支付平台的侵蚀
+- [[megabanks/mufg]] — 3 大消费金融的竞争（Acom 权益法 39.6%）
+- [[megabanks/smfg]] — 3 大消费金融的竞争（Promise＝SMBCCF 100% 子公司）
+- [[card-issuers/jaccs]] — 信贩大手・相邻业态
+- [[card-issuers/orico]] — 信贩大手・相邻业态
+- [[card-issuers/credit-saison]] — 信贩大手・相邻业态
+- [[payment-firms/rakuten-fg]] — Rakuten Card 对年轻层的侵蚀
+- [[megabanks/paypay-fg]] — PayPay Card 对支付平台的侵蚀
 
 ## Sources
 

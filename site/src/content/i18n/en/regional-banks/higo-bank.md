@@ -17,7 +17,7 @@ This entry sits under[[regional-banks/INDEX|regional-banks INDEX]]. Read it agai
 
 ## TL;DR
 
-Higo Bank, Ltd. is a regional bank with its main branch in Kumamoto Prefecture listed on the Financial Services Agency's list of bank licenses. It is the core operating bank of[[kyushu-fg]]and is treated as the regional-bank operating-company anchor of Kumamoto / TSMC-adjacent finance.
+Higo Bank, Ltd. is a regional bank with its main branch in Kumamoto Prefecture listed on the Financial Services Agency's list of bank licenses. It is the core operating bank of[[regional-banks/kyushu-fg]]and is treated as the regional-bank operating-company anchor of Kumamoto / TSMC-adjacent finance.
 
 ## 1 . License / group boundary
 
@@ -25,26 +25,26 @@ Higo Bank, Ltd. is a regional bank with its main branch in Kumamoto Prefecture l
 |---|---|
 | Legal name | Higo Bank, Ltd. |
 | License route | Banking Act regional bank; FSA bank license list |
-| Group boundary |[[kyushu-fg]]core operating bank |
+| Group boundary |[[regional-banks/kyushu-fg]]core operating bank |
 | Home market | Kumamoto / Kumamoto City |
 | Wiki role | Kumamoto regional-bank operating-company page |
 
 ## 2 .Operating model
 
-Higo Bank is a regional bank that is responsible for retail deposits, SME finance, semiconductor cluster finance, agriculture / manufacturing support, and regional relationship banking, mainly in Kumamoto Prefecture.[[kyushu-fg]]page deals with holding-company strategy and Higo / Kagoshima two-bank structure, and this page deals with bank-license entity. For Kyushu regional-bank consolidation context, see [[banking/regional-bank-consolidation-pattern]].
+Higo Bank is a regional bank that is responsible for retail deposits, SME finance, semiconductor cluster finance, agriculture / manufacturing support, and regional relationship banking, mainly in Kumamoto Prefecture.[[regional-banks/kyushu-fg]]page deals with holding-company strategy and Higo / Kagoshima two-bank structure, and this page deals with bank-license entity. For Kyushu regional-bank consolidation context, see [[banking/regional-bank-consolidation-pattern]].
 
 ## 3 . Why this page matters
 
 - Closes the FSA exact-name operating-company gap for Higo Bank.
-- Separates the bank license from[[kyushu-fg]]holding-company coverage.
-- Provides a peer anchor for[[kagoshima-bank]],[[miyazaki-bank]], and[[fukuoka-bank]].
+- Separates the bank license from[[regional-banks/kyushu-fg]]holding-company coverage.
+- Provides a peer anchor for[[regional-banks/kagoshima-bank]],[[regional-banks/miyazaki-bank]], and[[regional-banks/fukuoka-bank]].
 
 ## Related
 
-- [[kyushu-fg]]
-- [[kagoshima-bank]]
-- [[miyazaki-bank]]
-- [[fukuoka-bank]]
+- [[regional-banks/kyushu-fg]]
+- [[regional-banks/kagoshima-bank]]
+- [[regional-banks/miyazaki-bank]]
+- [[regional-banks/fukuoka-bank]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 

@@ -95,9 +95,9 @@ translated_at: 2026-05-31T11:13:44.896Z
 
 ## 联系
 
-- [[three-circles-stablecoin-mra-framework|三円 MRA フレームワーク]]
-- [[genius-act-501-denylist-mandate|GENIUS §501 Denylist]]
-- [[occ-trust-bank-charter-federal-stablecoin-arbitrage|OCC charter アービトラージ]]
-- [[central-banking-function-unbundling|中央銀行機能の解体 5 層]]
+- [[fintech/three-circles-stablecoin-mra-framework|三円 MRA フレームワーク]]
+- [[fintech/genius-act-501-denylist-mandate|GENIUS §501 Denylist]]
+- [[fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage|OCC charter アービトラージ]]
+- [[fintech/central-banking-function-unbundling|中央銀行機能の解体 5 層]]
 
 ---

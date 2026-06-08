@@ -37,14 +37,14 @@ translated_at: 2026-06-02T15:14:17.149Z
 
 - 佐賀銀行について、FSA 上の正確な法人名に基づく事業会社ページの欠落を埋める。
 - 九州地方銀行比較のための佐賀県アンカーを提供する。
-- Adds a 独立系の比較対象 against [[fukuoka-bank]], [[18-shinwa-bank]], and [[nishi-nippon-city-bank]].
+- Adds a 独立系の比較対象 against [[regional-banks/fukuoka-bank]], [[regional-banks/18-shinwa-bank]], and [[regional-banks/nishi-nippon-city-bank]].
 
 ## 関連項目
 
-- [[fukuoka-bank]]
-- [[18-shinwa-bank]]
-- [[nishi-nippon-city-bank]]
-- [[oita-bank]]
+- [[regional-banks/fukuoka-bank]]
+- [[regional-banks/18-shinwa-bank]]
+- [[regional-banks/nishi-nippon-city-bank]]
+- [[regional-banks/oita-bank]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 

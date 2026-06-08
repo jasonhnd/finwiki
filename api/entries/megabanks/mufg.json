@@ -63,38 +63,36 @@
     "合併歴史・前身"
   ],
   "body_links": {
-    "wikilinks_count": 10,
+    "wikilinks_count": 9,
     "wikilinks": [
       "banking/INDEX",
       "banking/mercari-bank-license-stack",
       "banking/minna-bank-baas-model",
       "megabanks/INDEX",
-      "megabanks/smfg",
-      "mizuho-fg",
-      "ndfg",
-      "paypay-fg",
-      "sbi-hd",
-      "smfg"
+      "megabanks/mizuho-fg",
+      "megabanks/ndfg",
+      "megabanks/paypay-fg",
+      "megabanks/sbi-hd",
+      "megabanks/smfg"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/mercari-bank-license-stack",
       "https://finwiki.zksc.io/banking/minna-bank-baas-model",
       "https://finwiki.zksc.io/megabanks/INDEX",
-      "https://finwiki.zksc.io/megabanks/smfg",
-      "https://finwiki.zksc.io/mizuho-fg",
-      "https://finwiki.zksc.io/ndfg",
-      "https://finwiki.zksc.io/paypay-fg",
-      "https://finwiki.zksc.io/sbi-hd",
-      "https://finwiki.zksc.io/smfg"
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/ndfg",
+      "https://finwiki.zksc.io/megabanks/paypay-fg",
+      "https://finwiki.zksc.io/megabanks/sbi-hd",
+      "https://finwiki.zksc.io/megabanks/smfg"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 14027,
-    "word_like_tokens": 2933,
-    "inbound_wikilinks_count": 144,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 14087,
+    "word_like_tokens": 2939,
+    "inbound_wikilinks_count": 270,
+    "last_modified": "2026-06-08"
   }
 }

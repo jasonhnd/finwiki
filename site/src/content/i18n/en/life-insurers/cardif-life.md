@@ -17,7 +17,7 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it with 
 
 ##TL;DR
 
-Cardiff Life Insurance Co., Ltd. is a foreign-affiliated Japanese life insurer listed on the Financial Services Agency's life-insurer list and the Life Insurance Association member list. It is viewed under the same BNP Paribas / Cardif adjacency as [[bnp-paribas-japan]], but FinWiki treats it as a credit protection and bancassurance-oriented life-insurance operating company instead of a bank / securities page.
+Cardiff Life Insurance Co., Ltd. is a foreign-affiliated Japanese life insurer listed on the Financial Services Agency's life-insurer list and the Life Insurance Association member list. It is viewed under the same BNP Paribas / Cardif adjacency as [[foreign-financial-institutions/bnp-paribas-japan]], but FinWiki treats it as a credit protection and bancassurance-oriented life-insurance operating company instead of a bank / securities page.
 
 ## 1. License / group boundary
 
@@ -26,7 +26,7 @@ Cardiff Life Insurance Co., Ltd. is a foreign-affiliated Japanese life insurer l
 |Legal name|Cardiff Life Insurance Co., Ltd.|
 |License route|Insurance Business Act life-insurance company; FSA life insurer list|
 |Industry body|Life Insurance Association of Japan member|
-|Group adjacency|BNP Paribas Cardif / [[bnp-paribas-japan]]|
+|Group adjacency|BNP Paribas Cardif / [[foreign-financial-institutions/bnp-paribas-japan]]|
 |Wiki roles|Foreign-affiliated life insurer with bancassurance / creditor-insurance relevance|
 
 ## 2. Operating model
@@ -41,10 +41,10 @@ Cardif's Japan life-insurance surface is useful for mortgage / loan protection, 
 
 ## Related
 
-- [[bnp-paribas-japan]]
+- [[foreign-financial-institutions/bnp-paribas-japan]]
 - [[insurance/life-insurance-channel-mix]]
-- [[dai-ichi-frontier-life]]
-- [[td-financial-life]]
+- [[life-insurers/dai-ichi-frontier-life]]
+- [[life-insurers/td-financial-life]]
 
 ## Sources
 

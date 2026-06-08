@@ -52,40 +52,38 @@
     "運用方針"
   ],
   "body_links": {
-    "wikilinks_count": 11,
+    "wikilinks_count": 10,
     "wikilinks": [
-      "daiwa-sg",
       "fintech/japan-stablecoin-regulatory-landscape",
-      "mizuho-fg",
-      "monex-group",
-      "mufg",
-      "nomura-hd",
+      "megabanks/mizuho-fg",
+      "megabanks/mufg",
+      "megabanks/sbi-hd",
+      "megabanks/smfg",
       "payment-firms/INDEX",
       "payment-firms/rakuten-fg",
-      "rakuten-fg",
-      "sbi-hd",
-      "smfg"
+      "securities-firms/daiwa-sg",
+      "securities-firms/monex-group",
+      "securities-firms/nomura-hd"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/daiwa-sg",
       "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
-      "https://finwiki.zksc.io/mizuho-fg",
-      "https://finwiki.zksc.io/monex-group",
-      "https://finwiki.zksc.io/mufg",
-      "https://finwiki.zksc.io/nomura-hd",
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/sbi-hd",
+      "https://finwiki.zksc.io/megabanks/smfg",
       "https://finwiki.zksc.io/payment-firms/INDEX",
       "https://finwiki.zksc.io/payment-firms/rakuten-fg",
-      "https://finwiki.zksc.io/rakuten-fg",
-      "https://finwiki.zksc.io/sbi-hd",
-      "https://finwiki.zksc.io/smfg"
+      "https://finwiki.zksc.io/securities-firms/daiwa-sg",
+      "https://finwiki.zksc.io/securities-firms/monex-group",
+      "https://finwiki.zksc.io/securities-firms/nomura-hd"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5181,
-    "word_like_tokens": 895,
+    "nonspace_chars": 5418,
+    "word_like_tokens": 922,
     "inbound_wikilinks_count": 8,
-    "last_modified": "2026-06-06"
+    "last_modified": "2026-06-08"
   }
 }

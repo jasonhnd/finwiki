@@ -17,7 +17,7 @@ translated_at: 2026-05-31T15:29:03.879Z
 
 ## 长话短说
 
-丰和银行是第二家主要分行位于大分县的地方银行，并被列入金融厅的银行牌照名单。它是大分县第二家区域银行运营公司主力，[[oita-bank]]它被视为独立公司的本地同行。
+丰和银行是第二家主要分行位于大分县的地方银行，并被列入金融厅的银行牌照名单。它是大分县第二家区域银行运营公司主力，[[regional-banks/oita-bank]]它被视为独立公司的本地同行。
 
 ## 1.许可证/组边界
 
@@ -31,7 +31,7 @@ translated_at: 2026-05-31T15:29:03.879Z
 
 ## 2.运营模式
 
-丰和银行是大分县第二家负责零售存款、中小企业金融、消费银行和地方关系银行业务的区域银行。[[oita-bank]]页面处理第一区域银行现任者，此页面处理第二区域银行许可证边界。九州第二地方银行的重组趋势是[[banking/regional-bank-consolidation-pattern]]看。
+丰和银行是大分县第二家负责零售存款、中小企业金融、消费银行和地方关系银行业务的区域银行。[[regional-banks/oita-bank]]页面处理第一区域银行现任者，此页面处理第二区域银行许可证边界。九州第二地方银行的重组趋势是[[banking/regional-bank-consolidation-pattern]]看。
 
 ## 3.为什么此页面很重要
 
@@ -41,9 +41,9 @@ translated_at: 2026-05-31T15:29:03.879Z
 
 ## 有关的
 
-- [[oita-bank]]
-- [[fukuoka-fg]]
-- [[nishi-nippon-fhd]]
+- [[regional-banks/oita-bank]]
+- [[regional-banks/fukuoka-fg]]
+- [[regional-banks/nishi-nippon-fhd]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 

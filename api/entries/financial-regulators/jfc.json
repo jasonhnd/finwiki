@@ -49,40 +49,38 @@
     "教育貸付（国民生活事業の独自メニュー）"
   ],
   "body_links": {
-    "wikilinks_count": 11,
+    "wikilinks_count": 10,
     "wikilinks": [
       "banking/INDEX",
       "financial-regulators/INDEX",
       "financial-regulators/jbic",
-      "jbic",
-      "mizuho-fg",
-      "mufg",
-      "ndfg",
+      "financial-regulators/shoko-chukin",
+      "megabanks/mizuho-fg",
+      "megabanks/mufg",
+      "megabanks/ndfg",
+      "megabanks/smfg",
       "policy-finance/japan-student-services-organization",
-      "policy-finance/okinawa-development-finance-corp",
-      "shoko-chukin",
-      "smfg"
+      "policy-finance/okinawa-development-finance-corp"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/financial-regulators/INDEX",
       "https://finwiki.zksc.io/financial-regulators/jbic",
-      "https://finwiki.zksc.io/jbic",
-      "https://finwiki.zksc.io/mizuho-fg",
-      "https://finwiki.zksc.io/mufg",
-      "https://finwiki.zksc.io/ndfg",
+      "https://finwiki.zksc.io/financial-regulators/shoko-chukin",
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/ndfg",
+      "https://finwiki.zksc.io/megabanks/smfg",
       "https://finwiki.zksc.io/policy-finance/japan-student-services-organization",
-      "https://finwiki.zksc.io/policy-finance/okinawa-development-finance-corp",
-      "https://finwiki.zksc.io/shoko-chukin",
-      "https://finwiki.zksc.io/smfg"
+      "https://finwiki.zksc.io/policy-finance/okinawa-development-finance-corp"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4858,
-    "word_like_tokens": 676,
-    "inbound_wikilinks_count": 42,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 4970,
+    "word_like_tokens": 687,
+    "inbound_wikilinks_count": 44,
+    "last_modified": "2026-06-08"
   }
 }

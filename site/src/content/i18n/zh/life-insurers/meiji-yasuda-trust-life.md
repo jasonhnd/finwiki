@@ -15,7 +15,7 @@ translated_at: 2026-05-31T23:59:49.312Z
 
 ## TL;DR
 
-明治安田信托生命保险株式会社是金融厅 life-insurer list 中列明的 [[meiji-yasuda]] group 生命保险经营公司。由于它存在从原 AEON Allianz Life Insurance 变更名称 / 转移集团边界的问题，因此作为 standalone page 保留。
+明治安田信托生命保险株式会社是金融厅 life-insurer list 中列明的 [[life-insurers/meiji-yasuda]] group 生命保险经营公司。由于它存在从原 AEON Allianz Life Insurance 变更名称 / 转移集团边界的问题，因此作为 standalone page 保留。
 
 ## 1. 牌照 / 集团边界
 
@@ -25,18 +25,18 @@ translated_at: 2026-05-31T23:59:49.312Z
 | 原名称 | AEON Allianz Life Insurance Co., Ltd. |
 | 牌照路径 | 保险业法下的生命保险公司；FSA life insurer list |
 | 行业组织 | 日本生命保险协会会员 |
-| 集团边界 | [[meiji-yasuda]] group |
+| 集团边界 | [[life-insurers/meiji-yasuda]] group |
 
 ## 2. 本页为何重要
 
 - 补齐 FSA 41  精确名称空白。
 - 捕捉 2025-2026  名称变更 / 集团边界移动。
-- 补充 [[meiji-yasuda]] 和 [[meiji-yasuda-general-insurance]]。
+- 补充 [[life-insurers/meiji-yasuda]] 和 [[non-life-insurers/meiji-yasuda-general-insurance]]。
 
 ## Related
 
-- [[meiji-yasuda]]
-- [[meiji-yasuda-general-insurance]]
+- [[life-insurers/meiji-yasuda]]
+- [[non-life-insurers/meiji-yasuda-general-insurance]]
 - [[insurance/life-insurance-channel-mix]]
 - [[insurance/INDEX]]
 

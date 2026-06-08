@@ -15,7 +15,7 @@ This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]].
 
 ## TL;DR
 
-A policy-finance special corporation limited to Okinawa Prefecture. It was **established at the same time as Okinawa's reversion to mainland Japan in 1972-05-15** and is the prefecture's only comprehensive policy-finance institution, uniquely **integrating in one institution inside Okinawa Prefecture** the functions of mainland [[jfc]] (national life, SMEs, agriculture / forestry / fisheries), [[dbj]] (mid-sized and large companies), and the Japan Housing Finance Agency. It is a special corporation funded by the national government 100% and supervised by the Cabinet Office's Okinawa department. Through special interest rates and guarantees under the **Act on Special Measures for the Promotion and Development of Okinawa**, it supports businesses, home buyers, and remote-island residents in the prefecture. Even when mainland public finance institutions were integrated into JFC in the 2008  policy-finance reorganization, ODFC was one of the rare institutions **decided to remain standalone because of "Okinawa's special circumstances."** ^[extracted]
+A policy-finance special corporation limited to Okinawa Prefecture. It was **established at the same time as Okinawa's reversion to mainland Japan in 1972-05-15** and is the prefecture's only comprehensive policy-finance institution, uniquely **integrating in one institution inside Okinawa Prefecture** the functions of mainland [[financial-regulators/jfc]] (national life, SMEs, agriculture / forestry / fisheries), [[financial-regulators/dbj]] (mid-sized and large companies), and the Japan Housing Finance Agency. It is a special corporation funded by the national government 100% and supervised by the Cabinet Office's Okinawa department. Through special interest rates and guarantees under the **Act on Special Measures for the Promotion and Development of Okinawa**, it supports businesses, home buyers, and remote-island residents in the prefecture. Even when mainland public finance institutions were integrated into JFC in the 2008  policy-finance reorganization, ODFC was one of the rare institutions **decided to remain standalone because of "Okinawa's special circumstances."** ^[extracted]
 
 ## 1. Company Overview
 
@@ -92,13 +92,13 @@ ODFC (Okinawa Development Finance Corporation; 100% government funded)
 
 | Business division | Mainland counterpart | Main targets | Main menus |
 |---|---|---|---|
-| **SME business** | [[jfc]] SME business + [[dbj]] | Okinawa mid-sized and small companies | Okinawa Promotion Act special-rate loans / management-improvement funds / equipment funds / overseas expansion funds |
-| **Industrial development business** | [[dbj]] | Major tourism, manufacturing, logistics, and agriculture / fisheries processing companies | Tourism development funds / industrial-park loans / port-logistics loans / US military site-redevelopment funds |
+| **SME business** | [[financial-regulators/jfc]] SME business + [[financial-regulators/dbj]] | Okinawa mid-sized and small companies | Okinawa Promotion Act special-rate loans / management-improvement funds / equipment funds / overseas expansion funds |
+| **Industrial development business** | [[financial-regulators/dbj]] | Major tourism, manufacturing, logistics, and agriculture / fisheries processing companies | Tourism development funds / industrial-park loans / port-logistics loans / US military site-redevelopment funds |
 | **Housing business** | Japan Housing Finance Agency | Okinawa individual home buyers and rental-housing constructors | Okinawa housing loans / Flat 35  Okinawa version / disaster-recovery housing funds |
-| **Agriculture, forestry, and fisheries business** | [[jfc]] agriculture, forestry, and fisheries business | Okinawa farmers, sugarcane growers, livestock operators, and fishers | Super L funds / management-entity development / funds for sugar industry |
-| **National life business** | [[jfc]] national life business | Okinawa sole proprietors, small businesses, and founders | Ordinary loans / new-business startup loans / Marukei loans (recommended by Okinawa chambers of commerce) |
+| **Agriculture, forestry, and fisheries business** | [[financial-regulators/jfc]] agriculture, forestry, and fisheries business | Okinawa farmers, sugarcane growers, livestock operators, and fishers | Super L funds / management-entity development / funds for sugar industry |
+| **National life business** | [[financial-regulators/jfc]] national life business | Okinawa sole proprietors, small businesses, and founders | Ordinary loans / new-business startup loans / Marukei loans (recommended by Okinawa chambers of commerce) |
 | **Disaster recovery business** | Emergency response by each institution | Businesses and residents affected by typhoons and earthquakes | Special disaster-recovery loans (interest-free, unsecured) |
-| **Education loan business** | [[jfc]] national life business education loans | Okinawa university and vocational-school students | Advancement loans / scholarship loans (University of the Ryukyus, Okinawa International University, etc.) |
+| **Education loan business** | [[financial-regulators/jfc]] national life business education loans | Okinawa university and vocational-school students | Advancement loans / scholarship loans (University of the Ryukyus, Okinawa International University, etc.) |
 
 ### Prefecture-Complete Special Character
 
@@ -110,8 +110,8 @@ ODFC (Okinawa Development Finance Corporation; 100% government funded)
 
 Like mainland JFC, ODFC exists to **cover risks that private financial institutions cannot lend against**, but its complementary relationship with Okinawa's 3 行 oligopolistic structure is distinctive:
 
-- **[[okinawa-fg]] Bank of Okinawa** (prefecture loan / deposit share roughly 30%, leading position)
-- **[[ryukyu-bank]] Bank of the Ryukyus** (same No. 2, alternates with Bank of Okinawa as prefecture-designated financial institution)
+- **[[regional-banks/okinawa-fg]] Bank of Okinawa** (prefecture loan / deposit share roughly 30%, leading position)
+- **[[regional-banks/ryukyu-bank]] Bank of the Ryukyus** (same No. 2, alternates with Bank of Okinawa as prefecture-designated financial institution)
 - **Okinawa Kaiho Bank** (same No. 3)
 
 -> Coordinated lending that combines this 3 行 proprietary lending with ODFC policy lending is the standard form of Okinawa SME finance.
@@ -136,9 +136,9 @@ In the 2022-2031 年 fiscal-year 6 th Okinawa Promotion Plan, the following are 
 
 ### Relationship with Private Financial Institutions
 
-- **Main actor in coordinated lending**: Combined use with proprietary loans from [[okinawa-fg]] / [[ryukyu-bank]] / Okinawa Kaiho Bank is the standard form for Okinawa SME and tourism financing.
+- **Main actor in coordinated lending**: Combined use with proprietary loans from [[regional-banks/okinawa-fg]] / [[regional-banks/ryukyu-bank]] / Okinawa Kaiho Bank is the standard form for Okinawa SME and tourism financing.
 - **Complement principle with regional banks**: To avoid crowding out private business, priority is given to borrowers private lenders find hard to serve, such as startups, unsecured / non-guaranteed borrowers, remote islands, and disaster recovery.
-- **Division of labor with mainland public finance institutions**: With [[jfc]] / [[dbj]] / Japan Housing Finance Agency, the division is regional: ODFC for Okinawa Prefecture projects, mainland institutions for mainland projects.
+- **Division of labor with mainland public finance institutions**: With [[financial-regulators/jfc]] / [[financial-regulators/dbj]] / Japan Housing Finance Agency, the division is regional: ODFC for Okinawa Prefecture projects, mainland institutions for mainland projects.
 
 ## 4. Regulation / Policy
 
@@ -169,11 +169,11 @@ When the mainland's 4  policy-finance institutions (National Life Finance Corpor
 
 ## Related
 
-- [[jfc]] (mainland comprehensive policy finance; mainland version of ODFC)
-- [[dbj]] (mainland policy finance for mid-sized and large companies; mainland version of ODFC industrial development business)
-- [[shoko-chukin]] (Shoko Chukin Bank; mainland SME policy finance)
-- [[jbic]] (Japan Bank for International Cooperation; overseas finance)
-- [[okinawa-fg]] · [[ryukyu-bank]] (Okinawa regional banks and ODFC coordinated-lending partners)
+- [[financial-regulators/jfc]] (mainland comprehensive policy finance; mainland version of ODFC)
+- [[financial-regulators/dbj]] (mainland policy finance for mid-sized and large companies; mainland version of ODFC industrial development business)
+- [[financial-regulators/shoko-chukin]] (Shoko Chukin Bank; mainland SME policy finance)
+- [[financial-regulators/jbic]] (Japan Bank for International Cooperation; overseas finance)
+- [[regional-banks/okinawa-fg]] · [[regional-banks/ryukyu-bank]] (Okinawa regional banks and ODFC coordinated-lending partners)
 
 ## Sources
 

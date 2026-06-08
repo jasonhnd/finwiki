@@ -46,34 +46,32 @@
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 8,
+    "wikilinks_count": 7,
     "wikilinks": [
       "banking/INDEX",
       "banking/regional-bank-consolidation-pattern",
-      "jimoto-hd",
+      "megabanks/sbi-regional-bank-hd",
       "regional-banks/INDEX",
+      "regional-banks/jimoto-hd",
       "regional-banks/sendai-bank",
-      "sbi-regional-bank-hd",
-      "sendai-bank",
-      "yamagata-bank"
+      "regional-banks/yamagata-bank"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
-      "https://finwiki.zksc.io/jimoto-hd",
+      "https://finwiki.zksc.io/megabanks/sbi-regional-bank-hd",
       "https://finwiki.zksc.io/regional-banks/INDEX",
+      "https://finwiki.zksc.io/regional-banks/jimoto-hd",
       "https://finwiki.zksc.io/regional-banks/sendai-bank",
-      "https://finwiki.zksc.io/sbi-regional-bank-hd",
-      "https://finwiki.zksc.io/sendai-bank",
-      "https://finwiki.zksc.io/yamagata-bank"
+      "https://finwiki.zksc.io/regional-banks/yamagata-bank"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1852,
-    "word_like_tokens": 291,
+    "nonspace_chars": 2012,
+    "word_like_tokens": 312,
     "inbound_wikilinks_count": 3,
-    "last_modified": "2026-06-06"
+    "last_modified": "2026-06-08"
   }
 }

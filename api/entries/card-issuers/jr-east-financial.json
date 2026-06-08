@@ -66,9 +66,9 @@
     "wikilinks_count": 13,
     "wikilinks": [
       "JapanFG/odakyu-cards",
-      "JapanFG/rakuten-bank",
       "JapanFG/tokyu-card",
       "banking/baas-rakuten-jre-bank",
+      "banking/rakuten-bank",
       "card-issuers/INDEX",
       "card-issuers/aeon-bank",
       "megabanks/au-fh",
@@ -81,9 +81,9 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/JapanFG/odakyu-cards",
-      "https://finwiki.zksc.io/JapanFG/rakuten-bank",
       "https://finwiki.zksc.io/JapanFG/tokyu-card",
       "https://finwiki.zksc.io/banking/baas-rakuten-jre-bank",
+      "https://finwiki.zksc.io/banking/rakuten-bank",
       "https://finwiki.zksc.io/card-issuers/INDEX",
       "https://finwiki.zksc.io/card-issuers/aeon-bank",
       "https://finwiki.zksc.io/megabanks/au-fh",
@@ -101,6 +101,6 @@
     "nonspace_chars": 6356,
     "word_like_tokens": 1191,
     "inbound_wikilinks_count": 7,
-    "last_modified": "2026-06-06"
+    "last_modified": "2026-06-08"
   }
 }

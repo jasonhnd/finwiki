@@ -16,7 +16,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-Toyama Daiichi Bank, Ltd. is a regional bank with its main branch in Toyama Prefecture and is listed as a second regional bank in the Financial Services Agency's list of bank licenses. In Toyama Prefecture, it forms a competing local-bank surface along with [[hokuriku-bank]] and [[toyama-bank]].
+Toyama Daiichi Bank, Ltd. is a regional bank with its main branch in Toyama Prefecture and is listed as a second regional bank in the Financial Services Agency's list of bank licenses. In Toyama Prefecture, it forms a competing local-bank surface along with [[regional-banks/hokuriku-bank]] and [[regional-banks/toyama-bank]].
 
 ## 1. License / group boundary
 
@@ -29,19 +29,19 @@ Toyama Daiichi Bank, Ltd. is a regional bank with its main branch in Toyama Pref
 
 ## 2. Operating model
 
-Toyama Daiichi Bank is a second regional bank with local retail / SME / regional corporate relationships. In the Hokuriku bank map, it should not be folded into [[hokuhoku-fg]] or [[hokkoku-fhd]] because it is a separate licensed bank and competitor. See [[banking/regional-bank-consolidation-pattern]] for the broader second-regional-bank pressure curve.
+Toyama Daiichi Bank is a second regional bank with local retail / SME / regional corporate relationships. In the Hokuriku bank map, it should not be folded into [[regional-banks/hokuhoku-fg]] or [[regional-banks/hokkoku-fhd]] because it is a separate licensed bank and competitor. See [[banking/regional-bank-consolidation-pattern]] for the broader second-regional-bank pressure curve.
 
 ## 3. Why this page matters
 
 - Adds a second-regional-bank exact-name page.
-- Completes the first Hokuriku B2 slice alongside [[hokuriku-bank]], [[hokkoku-bank]], and [[toyama-bank]].
+- Completes the first Hokuriku B2 slice alongside [[regional-banks/hokuriku-bank]], [[regional-banks/hokkoku-bank]], and [[regional-banks/toyama-bank]].
 - Registry-backed B2.1 regional-bank operating-company page, indexed under [[regional-banks/INDEX|regional-banks INDEX]].
 
 ## Related
 
--[[hokuriku-bank]]
--[[toyama-bank]]
--[[hokuhoku-fg]]
+-[[regional-banks/hokuriku-bank]]
+-[[regional-banks/toyama-bank]]
+-[[regional-banks/hokuhoku-fg]]
 -[[banking/INDEX]]
 
 ## Sources

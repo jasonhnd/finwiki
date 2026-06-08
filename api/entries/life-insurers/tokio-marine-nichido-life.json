@@ -54,26 +54,26 @@
       "insurance/life-insurance-channel-mix",
       "life-insurers/INDEX",
       "life-insurers/dai-ichi-frontier-life",
-      "msad",
-      "sompo-himawari-life",
-      "tokio-marine"
+      "life-insurers/sompo-himawari-life",
+      "non-life-insurers/msad",
+      "non-life-insurers/tokio-marine"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/insurance/INDEX",
       "https://finwiki.zksc.io/insurance/life-insurance-channel-mix",
       "https://finwiki.zksc.io/life-insurers/INDEX",
       "https://finwiki.zksc.io/life-insurers/dai-ichi-frontier-life",
-      "https://finwiki.zksc.io/msad",
-      "https://finwiki.zksc.io/sompo-himawari-life",
-      "https://finwiki.zksc.io/tokio-marine"
+      "https://finwiki.zksc.io/life-insurers/sompo-himawari-life",
+      "https://finwiki.zksc.io/non-life-insurers/msad",
+      "https://finwiki.zksc.io/non-life-insurers/tokio-marine"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2081,
-    "word_like_tokens": 329,
-    "inbound_wikilinks_count": 5,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 2199,
+    "word_like_tokens": 348,
+    "inbound_wikilinks_count": 8,
+    "last_modified": "2026-06-08"
   }
 }

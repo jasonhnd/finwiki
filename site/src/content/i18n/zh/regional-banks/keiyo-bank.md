@@ -15,7 +15,7 @@ translated_at: 2026-05-31T23:59:49.363Z
 
 ## TL;DR
 
-千叶县 No.2  地方银行（千叶县内份额 2 位，No.1  为 [[chiba-bank]]）。它由 1943  千叶合同无尽 -> 1951  千叶相互银行 -> **1989-04  转换为普通银行、同年 9  月在东证 2  部上市**而来，是“最后发的普通银行”之一。简称“Keiyo”，东证 PRIME 8544。它专注于**中小企业 + 个人贷款、集中于京叶地区（千叶市、市原、木更津、船桥、松户）**，未参加 TSUBASA 并维持独立路线。它加入第二地方银行协会，在第二地银中按总资产和存款都属于上位集团。
+千叶县 No.2  地方银行（千叶县内份额 2 位，No.1  为 [[regional-banks/chiba-bank]]）。它由 1943  千叶合同无尽 -> 1951  千叶相互银行 -> **1989-04  转换为普通银行、同年 9  月在东证 2  部上市**而来，是“最后发的普通银行”之一。简称“Keiyo”，东证 PRIME 8544。它专注于**中小企业 + 个人贷款、集中于京叶地区（千叶市、市原、木更津、船桥、松户）**，未参加 TSUBASA 并维持独立路线。它加入第二地方银行协会，在第二地银中按总资产和存款都属于上位集团。
 
 ## 1. 公司概要
 
@@ -67,15 +67,15 @@ translated_at: 2026-05-31T23:59:49.363Z
 
 | 银行 | 种类 | 定位 |
 |---|---|---|
-| [[chiba-bank]]（千叶银行 8331）| 第一地银 | **千叶县 No.1**，TSUBASA Alliance 主导行，关东地银之雄 |
+| [[regional-banks/chiba-bank]]（千叶银行 8331）| 第一地银 | **千叶县 No.1**，TSUBASA Alliance 主导行，关东地银之雄 |
 | **京叶银行（8544）** | 第二地银 | **千叶县 No.2**，第二地银协，特化京叶地区 |
-| [[chiba-kogyo-bank]]（千叶兴业银行 8337）| 第一地银 | 千叶县内 3 位，旧瑞穗系列色彩（与 [[mizuho-fg]] 有历史关系） |
+| [[regional-banks/chiba-kogyo-bank]]（千叶兴业银行 8337）| 第一地银 | 千叶县内 3 位，旧瑞穗系列色彩（与 [[megabanks/mizuho-fg]] 有历史关系） |
 
 千叶县是 **3 行 并存** 的特殊市场：第一地银 2 行（千叶银、千叶兴业）+ 第二地银 1 行（京叶）。京叶银行在规模上不如千叶银，但在**中小和个人 segment 维持存在感**。
 
 ### 独立路线 — 未参加 TSUBASA
 
-京叶银行**未参加**由 [[chiba-bank]] 主导的 **TSUBASA Alliance**（千叶、第四北越、中国、伊予、东邦、北洋、武藏野、滋贺、琉球等第一地银广域联盟）。这反映了：
+京叶银行**未参加**由 [[regional-banks/chiba-bank]] 主导的 **TSUBASA Alliance**（千叶、第四北越、中国、伊予、东邦、北洋、武藏野、滋贺、琉球等第一地银广域联盟）。这反映了：
 
 - 作为在千叶县内与千叶银直接竞争的第二地银这一结构性原因；
 - 作为第二地银协加盟行的独自定位；
@@ -94,11 +94,11 @@ translated_at: 2026-05-31T23:59:49.363Z
 
 | 竞争轴 | 主要竞争方 |
 |---|---|
-| 千叶县内综合 | [[chiba-bank]]（压倒性 No.1）、[[chiba-kogyo-bank]] |
-| 关东地银 | [[mebuki-fg]]（常阳 + 足利，北关东地盘）、[[concordia-fg]]（横滨 + 东日本，神奈川地盘）|
+| 千叶县内综合 | [[regional-banks/chiba-bank]]（压倒性 No.1）、[[regional-banks/chiba-kogyo-bank]] |
+| 关东地银 | [[regional-banks/mebuki-fg]]（常阳 + 足利，北关东地盘）、[[regional-banks/concordia-fg]]（横滨 + 东日本，神奈川地盘）|
 | 第二地银 | 北日本银行、东日本银行（旧集团）、もみじ银行等 |
-| Megabank 个人 | [[smfg]]、[[mufg]]、[[mizuho-fg]] 的千叶县内支店 |
-| 网银 / 流通系 | 乐天银行、住信 SBI 网络银行、[[paypay-fg]]、PayPay 银行 — 在个人贷款领域侵蚀 |
+| Megabank 个人 | [[megabanks/smfg]]、[[megabanks/mufg]]、[[megabanks/mizuho-fg]] 的千叶县内支店 |
+| 网银 / 流通系 | 乐天银行、住信 SBI 网络银行、[[megabanks/paypay-fg]]、PayPay 银行 — 在个人贷款领域侵蚀 |
 
 ## 4. 监管与政策
 
@@ -108,12 +108,12 @@ translated_at: 2026-05-31T23:59:49.363Z
 - **近期政策论点**：
   - 2024起，日本银行政策利率正常化 -> 国内贷款利差改善（整体地银 bonus）
   - 2025起，千叶县内人口动态（千叶市、船桥市为流入超，内房、外房为流出）-> 店铺重组压力
-  - 个人贷款领域受到**网银 / 流通系银行（[[paypay-fg]]、乐天银、住信 SBI）侵蚀** -> 零售 DX 课题
+  - 个人贷款领域受到**网银 / 流通系银行（[[megabanks/paypay-fg]]、乐天银、住信 SBI）侵蚀** -> 零售 DX 课题
 
 ## Related
 
-- [[chiba-bank]] · [[chiba-kogyo-bank]] · [[mebuki-fg]] · [[concordia-fg]]
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[paypay-fg]]
+- [[regional-banks/chiba-bank]] · [[regional-banks/chiba-kogyo-bank]] · [[regional-banks/mebuki-fg]] · [[regional-banks/concordia-fg]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[megabanks/paypay-fg]]
 
 ## Sources
 

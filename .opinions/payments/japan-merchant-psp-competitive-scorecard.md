@@ -14,7 +14,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 - Will the global checkout PSPs (Stripe Japan, Square Japan, PayPal Japan) erode the developer / digital / small-merchant segment that the Japanese pure-play PSPs (GMO Epsilon, Komoju) currently serve?
 - Will the ecosystem-anchored PSPs (SB Payment Service / PayPay; Rakuten Payment; Amazon Pay; Recruit / Air PAY) extend their acceptance footprint outside their home ecosystems, or does ecosystem-anchor remain a fundamental ceiling?
-- Will [[JapanFG/netstars|Netstars]]-style multi-wallet aggregation survive as wallet operators (PayPay, d払い, au PAY) push for direct-merchant economics that bypass aggregators?
+- Will [[payment-firms/netstars|Netstars]]-style multi-wallet aggregation survive as wallet operators (PayPay, d払い, au PAY) push for direct-merchant economics that bypass aggregators?
 - Will the 2025-03 EMV 3-DS mandate and J-CSC guideline 6.0 / 6.1 compliance burden (see [[payments/japan-card-security-authentication-controls|Japan card security and authentication controls]]) consolidate the small-PSP segment by raising compliance costs?
 - How does the BNPL integration trend (Paidy under PayPal, Komoju Atobarai, etc.) re-shape PSP economics — is BNPL a margin-additive feature or a margin-eroding alternative payment method?
 - Will A2A acceptance via merchant-direct Bank Pay (see [[payments/merchant-bank-pay-account-direct-acquiring|merchant Bank Pay account direct-acquiring]]) become a structural competitor to PSP-routed card acceptance for the high-volume segment?

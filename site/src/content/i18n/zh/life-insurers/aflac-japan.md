@@ -16,7 +16,7 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 
 ## TL;DR
 
-这是美国 Aflac Incorporated（NYSE: AFL，总部位于美国乔治亚州哥伦布）的日本子公司。其于 1974-11  推出日本首个癌症保险，并在第三领域保险（癌症 / 医疗）中成长为国内 No.1  级的保有契约规模。**2018-04-02 年从旧日本分公司转换为日本法人“アフラック生命保険株式会社”**并子公司化，同年 **2018-07-12 又与第一生命 HD（[[dai-ichi-life]]）达成战略业务与资本合作**，第一生命以长期持有为目的取得约 7% 的议决权基础持股。通过营业职员 + 代理店 + 银行柜台销售 + 网络的 4  渠道，它持续维持第三领域市场份额。^[extracted]
+这是美国 Aflac Incorporated（NYSE: AFL，总部位于美国乔治亚州哥伦布）的日本子公司。其于 1974-11  推出日本首个癌症保险，并在第三领域保险（癌症 / 医疗）中成长为国内 No.1  级的保有契约规模。**2018-04-02 年从旧日本分公司转换为日本法人“アフラック生命保険株式会社”**并子公司化，同年 **2018-07-12 又与第一生命 HD（[[life-insurers/dai-ichi-life]]）达成战略业务与资本合作**，第一生命以长期持有为目的取得约 7% 的议决权基础持股。通过营业职员 + 代理店 + 银行柜台销售 + 网络的 4  渠道，它持续维持第三领域市场份额。^[extracted]
 
 ## 1. 公司概况
 
@@ -44,7 +44,7 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 ### 主要股东与资本结构 ^[extracted]
 
 - **由 Aflac Incorporated（美国母公司）在议决权基础上全资持有**
-- 不过，基于与 2018-07-12 第一生命 HD（[[dai-ichi-life]]）的战略业务与资本合作，第一生命 HD 取得了美国母公司 Aflac Incorporated 约 **7% 的议决权基础持股**，持有目的为长期投资（分两阶段取得，标的是美国母公司股份）。★
+- 不过，基于与 2018-07-12 第一生命 HD（[[life-insurers/dai-ichi-life]]）的战略业务与资本合作，第一生命 HD 取得了美国母公司 Aflac Incorporated 约 **7% 的议决权基础持股**，持有目的为长期投资（分两阶段取得，标的是美国母公司股份）。★
 - 美国母公司 Aflac Incorporated 自身的股东以机构投资者为主（主要是 Vanguard / BlackRock / State Street 等被动持仓；Wikipedia / 10-K）
 
 ### 主要子公司与集团
@@ -81,7 +81,7 @@ Aflac Incorporated（美国控股公司，NYSE: AFL）
 | 2009  | 在日本正式大规模启用 Aflac Duck 作为广告角色 |
 | 2013  | Aflac × 日本邮便业务合作（在邮局柜台销售 Aflac 癌症保险）—— 第三领域跨渠道扩张 |
 | **2018-04-02** | **从旧日本分公司转换为“アフラック生命保険株式会社”（通过新设公司方式承继全部业务；美国母公司 100% 子公司）** ★ ^[extracted] |
-| **2018-07-12** | **宣布与第一生命 HD（[[dai-ichi-life]]）达成战略业务与资本合作。第一生命 HD 以长期持有为目的取得美国 Aflac Incorporated 约 7% 的议决权基础持股（分两阶段）。** ★ ^[extracted] |
+| **2018-07-12** | **宣布与第一生命 HD（[[life-insurers/dai-ichi-life]]）达成战略业务与资本合作。第一生命 HD 以长期持有为目的取得美国 Aflac Incorporated 约 7% 的议决权基础持股（分两阶段）。** ★ ^[extracted] |
 | 2019〜 | 与第一生命合作深化（营业职员交叉销售、共同开发产品、联合营销） |
 | 2020〜2022  | 疫情期间医疗险 / 就业不能险需求扩大，营业职员转向远程销售 |
 | 2024〜 | Aflac Japan 中期经营战略：强化数字直销、深挖第一生命渠道、推出应对老龄化的产品 |
@@ -95,7 +95,7 @@ Aflac Incorporated（美国控股公司，NYSE: AFL）
 
 ### 合作与并购战略
 
-- **与第一生命 HD（[[dai-ichi-life]]）的战略业务与资本合作（2018-07-12）** ★ ^[extracted]
+- **与第一生命 HD（[[life-insurers/dai-ichi-life]]）的战略业务与资本合作（2018-07-12）** ★ ^[extracted]
   - 第一生命 HD 以长期持有为目的取得约相当于 7% 议决权基础的 Aflac Incorporated 股份（公告时为分两阶段取得计划）
   - 通过营业职员渠道进行交叉销售（第一生命营业职员可销售 Aflac 癌症保险）
   - 共同开发产品、联合营销、信息系统协作
@@ -130,10 +130,10 @@ Aflac Incorporated（美国控股公司，NYSE: AFL）
 
 ### 竞争对手（国内第三领域 / 医疗险）
 
-- **第一生命 [[dai-ichi-life]]**：既是合作方，也是第三领域竞争者（癌症险 / 医疗险产品线）
-- **日本生命 [[nippon-life]]**：日本最大的寿险公司，正在扩大第三领域份额
-- **三井住友海上あいおい生命 [[msad]]**：MS&AD 集团，以医疗险为主力
-- **MetLife 生命 [[metlife-japan]]**：外资系，聚焦医疗险与终身险
+- **第一生命 [[life-insurers/dai-ichi-life]]**：既是合作方，也是第三领域竞争者（癌症险 / 医疗险产品线）
+- **日本生命 [[life-insurers/nippon-life]]**：日本最大的寿险公司，正在扩大第三领域份额
+- **三井住友海上あいおい生命 [[non-life-insurers/msad]]**：MS&AD 集团，以医疗险为主力
+- **MetLife 生命 [[life-insurers/metlife-japan]]**：外资系，聚焦医疗险与终身险
 - **Zurich 生命**：医疗险网络直销能力强
 - **ORIX 生命**：专注医疗与终身，兼做直销 + 代理
 - **損保ジャパンひまわり生命**（[[non-life-insurers/sompo|sompo-hd]] 系）
@@ -143,8 +143,8 @@ Aflac Incorporated（美国控股公司，NYSE: AFL）
 
 ## Related
 
-- [[dai-ichi-life]] · [[nippon-life]] · [[life-insurers/meiji-yasuda|meiji-yasuda-life]] · [[sumitomo-life]] · [[kampo-life]]
-- [[metlife-japan]] · [[msad]] · [[non-life-insurers/sompo|sompo-hd]] · [[non-life-insurers/tokio-marine|tokio-marine-hd]]
+- [[life-insurers/dai-ichi-life]] · [[life-insurers/nippon-life]] · [[life-insurers/meiji-yasuda|meiji-yasuda-life]] · [[life-insurers/sumitomo-life]] · [[life-insurers/kampo-life]]
+- [[life-insurers/metlife-japan]] · [[non-life-insurers/msad]] · [[non-life-insurers/sompo|sompo-hd]] · [[non-life-insurers/tokio-marine|tokio-marine-hd]]
 - 第三领域保险・癌症保险・医疗保险 (wiki/insurance/third-sector-japan)
 
 ## Sources

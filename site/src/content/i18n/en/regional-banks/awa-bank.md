@@ -17,7 +17,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ##TL;DR
 
-Awa Bank, Ltd. is a regional bank with its main branch in Tokushima Prefecture that is listed on the Financial Services Agency's list of bank licenses. Tokushima Prefecture's first-regional-bank operating-company anchor,[[tomony-hd]] under the umbrella [[tokushima-taisho-bank|徳島大正銀行]] It will be treated as a regional-bank peer, which is a separate legal entity.
+Awa Bank, Ltd. is a regional bank with its main branch in Tokushima Prefecture that is listed on the Financial Services Agency's list of bank licenses. Tokushima Prefecture's first-regional-bank operating-company anchor,[[regional-banks/tomony-hd]] under the umbrella [[regional-banks/tokushima-taisho-bank|徳島大正銀行]] It will be treated as a regional-bank peer, which is a separate legal entity.
 
 ## 1. License / group boundary
 
@@ -31,21 +31,21 @@ Awa Bank, Ltd. is a regional bank with its main branch in Tokushima Prefecture t
 
 ## 2. Operating model
 
-Awa Bank is a regional bank that is responsible for retail deposits, SME finance, local corporate lending, and regional relationship banking, mainly in Tokushima Prefecture. In Tokushima prefecture [[tokushima-taisho-bank]] In the wide area of ​​Shikoku, it competes with [[hyakujushi-bank]], [[iyo-bank]], and [[shikoku-bank]] and a peer boundary.
+Awa Bank is a regional bank that is responsible for retail deposits, SME finance, local corporate lending, and regional relationship banking, mainly in Tokushima Prefecture. In Tokushima prefecture [[regional-banks/tokushima-taisho-bank]] In the wide area of ​​Shikoku, it competes with [[regional-banks/hyakujushi-bank]], [[regional-banks/iyo-bank]], and [[regional-banks/shikoku-bank]] and a peer boundary.
 
 ## 3. Why this page matters
 
 - Closes the FSA exact-name operating-company gap for Awa Bank.
-- Separates Tokushima first-regional-bank coverage from [[tomony-hd]] / [[tokushima-taisho-bank]].
+- Separates Tokushima first-regional-bank coverage from [[regional-banks/tomony-hd]] / [[regional-banks/tokushima-taisho-bank]].
 - Provides a Shikoku peer anchor for regional-bank consolidation and second-regional-bank comparisons.
 
 ## Related
 
-- [[tokushima-taisho-bank]]
-- [[tomony-hd]]
-- [[hyakujushi-bank]]
-- [[iyo-bank]]
-- [[shikoku-bank]]
+- [[regional-banks/tokushima-taisho-bank]]
+- [[regional-banks/tomony-hd]]
+- [[regional-banks/hyakujushi-bank]]
+- [[regional-banks/iyo-bank]]
+- [[regional-banks/shikoku-bank]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 

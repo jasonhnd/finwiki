@@ -48,24 +48,19 @@
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 16,
+    "wikilinks_count": 11,
     "wikilinks": [
       "INDEX",
       "banking/INDEX",
       "banking/regional-bank-consolidation-pattern",
       "financial-regulators/fsa",
       "financial-regulators/zenginkyo",
-      "hyakujushi-bank",
-      "iyo-bank",
       "regional-banks/INDEX",
       "regional-banks/hyakujushi-bank",
       "regional-banks/iyo-bank",
       "regional-banks/shikoku-bank",
       "regional-banks/tokushima-taisho-bank",
-      "regional-banks/tomony-hd",
-      "shikoku-bank",
-      "tokushima-taisho-bank",
-      "tomony-hd"
+      "regional-banks/tomony-hd"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
@@ -73,25 +68,20 @@
       "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
       "https://finwiki.zksc.io/financial-regulators/fsa",
       "https://finwiki.zksc.io/financial-regulators/zenginkyo",
-      "https://finwiki.zksc.io/hyakujushi-bank",
-      "https://finwiki.zksc.io/iyo-bank",
       "https://finwiki.zksc.io/regional-banks/INDEX",
       "https://finwiki.zksc.io/regional-banks/hyakujushi-bank",
       "https://finwiki.zksc.io/regional-banks/iyo-bank",
       "https://finwiki.zksc.io/regional-banks/shikoku-bank",
       "https://finwiki.zksc.io/regional-banks/tokushima-taisho-bank",
-      "https://finwiki.zksc.io/regional-banks/tomony-hd",
-      "https://finwiki.zksc.io/shikoku-bank",
-      "https://finwiki.zksc.io/tokushima-taisho-bank",
-      "https://finwiki.zksc.io/tomony-hd"
+      "https://finwiki.zksc.io/regional-banks/tomony-hd"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2676,
-    "word_like_tokens": 378,
-    "inbound_wikilinks_count": 7,
-    "last_modified": "2026-06-05"
+    "nonspace_chars": 2781,
+    "word_like_tokens": 392,
+    "inbound_wikilinks_count": 12,
+    "last_modified": "2026-06-08"
   }
 }

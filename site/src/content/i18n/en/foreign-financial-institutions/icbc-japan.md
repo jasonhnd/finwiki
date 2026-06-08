@@ -39,14 +39,14 @@ The branch is one of the key Chinese bank routes for Japan-China payments, trade
 ## 3. Why this page matters
 
 - Adds the ICBC branch to the mainland China P1 set.
-- Complements [[bank-of-china-japan]], [[china-construction-bank-japan]], and [[agricultural-bank-of-china-japan]].
+- Complements [[foreign-financial-institutions/bank-of-china-japan]], [[foreign-financial-institutions/china-construction-bank-japan]], and [[foreign-financial-institutions/agricultural-bank-of-china-japan]].
 - Avoids using a generic "Chinese bank" bucket when each branch has different history and Japan footprint.
 
 ## Related
 
-- [[bank-of-china-japan]]
-- [[china-construction-bank-japan]]
-- [[agricultural-bank-of-china-japan]]
+- [[foreign-financial-institutions/bank-of-china-japan]]
+- [[foreign-financial-institutions/china-construction-bank-japan]]
+- [[foreign-financial-institutions/agricultural-bank-of-china-japan]]
 - [[banking/foreign-bank-japan-retreat]]
 - [[banking/INDEX]]
 

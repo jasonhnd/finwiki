@@ -16,7 +16,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-Saikyo Bank, Ltd. is a second regional bank headquartered in Yamaguchi Prefecture and listed on the FSA bank license list. It is the standalone second-regional-bank operating-company anchor for Yamaguchi Prefecture and is treated as a separate peer from Yamaguchi Bank / Momiji Bank / Kitakyushu Bank under [[yamaguchi-fg]].
+Saikyo Bank, Ltd. is a second regional bank headquartered in Yamaguchi Prefecture and listed on the FSA bank license list. It is the standalone second-regional-bank operating-company anchor for Yamaguchi Prefecture and is treated as a separate peer from Yamaguchi Bank / Momiji Bank / Kitakyushu Bank under [[regional-banks/yamaguchi-fg]].
 
 ## 1. License / group boundary
 
@@ -30,20 +30,20 @@ Saikyo Bank, Ltd. is a second regional bank headquartered in Yamaguchi Prefectur
 
 ## 2. Operating model
 
-Saikyo Bank is a second regional bank centered on Yamaguchi Prefecture, handling retail deposits, SME finance, personal loans, and local relationship banking. The [[yamaguchi-fg]] page covers multi-bank holding-company strategy; this page covers the independent second-regional-bank license boundary. For Chugoku second-regional-bank consolidation pressure, see [[banking/regional-bank-consolidation-pattern]].
+Saikyo Bank is a second regional bank centered on Yamaguchi Prefecture, handling retail deposits, SME finance, personal loans, and local relationship banking. The [[regional-banks/yamaguchi-fg]] page covers multi-bank holding-company strategy; this page covers the independent second-regional-bank license boundary. For Chugoku second-regional-bank consolidation pressure, see [[banking/regional-bank-consolidation-pattern]].
 
 ## 3. Why this page matters
 
 - Closes the FSA exact-name page for Saikyo Bank.
 - Adds the missing non-YMFG Yamaguchi bank anchor.
-- Provides a peer anchor for [[yamaguchi-fg]], [[momiji-bank]], and [[kitakyushu-bank]].
+- Provides a peer anchor for [[regional-banks/yamaguchi-fg]], [[regional-banks/momiji-bank]], and [[regional-banks/kitakyushu-bank]].
 
 ## Related
 
-- [[yamaguchi-fg]]
-- [[momiji-bank]]
-- [[kitakyushu-bank]]
-- [[hiroshima-bank]]
+- [[regional-banks/yamaguchi-fg]]
+- [[regional-banks/momiji-bank]]
+- [[regional-banks/kitakyushu-bank]]
+- [[regional-banks/hiroshima-bank]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 

@@ -22,7 +22,7 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 
 ## TL;DR
 
-中堅生命保険会社、オリックス [[orix-corp]] 100% 子会社（非上場）。1991-04 米 Mutual of Omaha との合弁「オリックス・オマハ生命」として設立、2002 米側撤退で 100% 子会社化・現社名へ。代理店 + 銀行窓販 + **ネット直販**の 3 チャネル並用が特徴で、医療保険「**CURE（キュア）**」シリーズが国内ネット販売の主力商品。死亡保険・がん保険を含む第三分野中心のラインアップで、オリックスグループ個人向け金融商品のコアを担う。
+中堅生命保険会社、オリックス [[leasing-firms/orix-corp]] 100% 子会社（非上場）。1991-04 米 Mutual of Omaha との合弁「オリックス・オマハ生命」として設立、2002 米側撤退で 100% 子会社化・現社名へ。代理店 + 銀行窓販 + **ネット直販**の 3 チャネル並用が特徴で、医療保険「**CURE（キュア）**」シリーズが国内ネット販売の主力商品。死亡保険・がん保険を含む第三分野中心のラインアップで、オリックスグループ個人向け金融商品のコアを担う。
 
 ## 1. 会社概要
 
@@ -30,7 +30,7 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 **英名**：ORIX Life Insurance Corporation
 **設立**：1991-04（オリックス・オマハ生命保険株式会社として）
 **現社名変更**：2002（米 Mutual of Omaha 撤退に伴いオリックス 100% 子会社化・改称）
-**上場**：非上場（オリックス [[orix-corp]] 100% 子会社）
+**上場**：非上場（オリックス [[leasing-firms/orix-corp]] 100% 子会社）
 **親会社**：オリックス株式会社（東証 PRIME 8591 / NYSE: IX）
 **業態**：生命保険会社（金融庁認可）
 **主管**：金融庁（FSA）
@@ -85,16 +85,16 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 
 ### チャネル戦略
 
-ライフネット [[lifenet]] のような**純ネット専業生保**ではなく、ネット直販 + 代理店 + 銀行窓販の**ハイブリッド型**として、コスト効率と販路カバレッジの両立を狙う。CURE 系商品は比較サイトでの露出が高く、医療保険ネット販売市場のトップ級プレゼンスを確保している（一般評価ベース）。
+ライフネット [[life-insurers/lifenet]] のような**純ネット専業生保**ではなく、ネット直販 + 代理店 + 銀行窓販の**ハイブリッド型**として、コスト効率と販路カバレッジの両立を狙う。CURE 系商品は比較サイトでの露出が高く、医療保険ネット販売市場のトップ級プレゼンスを確保している（一般評価ベース）。
 
 ### 競合ポジション
 
 | 競合カテゴリ | 主要プレイヤー | オリックス生命の差別化 |
 |---|---|---|
-| 日系大手生保 | 第一生命 [[dai-ichi-life]] / 日本生命 [[nippon-life]] / [[meiji-yasuda]] / [[sumitomo-life]] | 中堅・コスト効率・ネット親和性 |
-| ネット専業 | ライフネット [[lifenet]] / SBI 生命（[[sbi-hd]] 内）| 代理店 + 銀行窓販併用でリーチ広い |
-| 第三分野特化 | アフラック [[aflac-japan]] | 医療「CURE」での価格・シンプルさ訴求 |
-| 外資 | プルデンシャル [[prudential-japan]] / AXA [[axa-japan]] | ネット完結による低コスト |
+| 日系大手生保 | 第一生命 [[life-insurers/dai-ichi-life]] / 日本生命 [[life-insurers/nippon-life]] / [[life-insurers/meiji-yasuda]] / [[life-insurers/sumitomo-life]] | 中堅・コスト効率・ネット親和性 |
+| ネット専業 | ライフネット [[life-insurers/lifenet]] / SBI 生命（[[megabanks/sbi-hd]] 内）| 代理店 + 銀行窓販併用でリーチ広い |
+| 第三分野特化 | アフラック [[life-insurers/aflac-japan]] | 医療「CURE」での価格・シンプルさ訴求 |
+| 外資 | プルデンシャル [[life-insurers/prudential-japan]] / AXA [[life-insurers/axa-japan]] | ネット完結による低コスト |
 
 ## 5. 規制・政策
 
@@ -108,10 +108,10 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 
 ## Related
 
-- 親会社・グループ: [[orix-corp]]
-- 日系大手生保（競合）: [[dai-ichi-life]] · [[nippon-life]] · [[meiji-yasuda]] · [[sumitomo-life]] · [[kampo-life]]
-- ネット系・専門特化（競合）: [[lifenet]] · [[sbi-hd]] · [[sony-fg]]
-- 外資・第三分野系（競合）: [[aflac-japan]] · [[prudential-japan]] · [[axa-japan]]
+- 親会社・グループ: [[leasing-firms/orix-corp]]
+- 日系大手生保（競合）: [[life-insurers/dai-ichi-life]] · [[life-insurers/nippon-life]] · [[life-insurers/meiji-yasuda]] · [[life-insurers/sumitomo-life]] · [[life-insurers/kampo-life]]
+- ネット系・専門特化（競合）: [[life-insurers/lifenet]] · [[megabanks/sbi-hd]] · [[megabanks/sony-fg]]
+- 外資・第三分野系（競合）: [[life-insurers/aflac-japan]] · [[life-insurers/prudential-japan]] · [[life-insurers/axa-japan]]
 
 ## Sources
 
@@ -122,4 +122,4 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 ---
 
 > [!info] 検証状況
-> confidence: **likely**（公開情報ベース、親会社 [[orix-corp]] IR + Wikipedia 校核）。具体数値（保険料収入・契約件数・チャネル別構成比など）は親会社オリックスの統合報告書および保険業界統計の最新版を要参照。非上場のため単独有価証券報告書は存在せず、開示は親会社連結ベースが主。
+> confidence: **likely**（公開情報ベース、親会社 [[leasing-firms/orix-corp]] IR + Wikipedia 校核）。具体数値（保険料収入・契約件数・チャネル別構成比など）は親会社オリックスの統合報告書および保険業界統計の最新版を要参照。非上場のため単独有価証券報告書は存在せず、開示は親会社連結ベースが主。

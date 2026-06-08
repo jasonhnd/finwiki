@@ -15,7 +15,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-The Tochigi Bank, Ltd. is a second regional bank headquartered in Utsunomiya, Tochigi Prefecture and listed on the FSA bank license list. In Tochigi Prefecture, [[ashikaga-bank]] is the first-regional bank anchor, while Tochigi Bank is organized here as the second-regional-bank-side operating company.
+The Tochigi Bank, Ltd. is a second regional bank headquartered in Utsunomiya, Tochigi Prefecture and listed on the FSA bank license list. In Tochigi Prefecture, [[regional-banks/ashikaga-bank]] is the first-regional bank anchor, while Tochigi Bank is organized here as the second-regional-bank-side operating company.
 
 ## 1. License / group boundary
 
@@ -29,19 +29,19 @@ The Tochigi Bank, Ltd. is a second regional bank headquartered in Utsunomiya, To
 
 ## 2. Operating model
 
-Tochigi Bank is a second regional bank providing retail deposits, SME loans, community finance, and local consulting inside Tochigi Prefecture. Separate from [[ashikaga-bank]] and [[mebuki-fg]] coverage, it is the bank-license anchor for understanding the region's competitive layer. For Kanto second-regional-bank consolidation pressure, see [[banking/regional-bank-consolidation-pattern]].
+Tochigi Bank is a second regional bank providing retail deposits, SME loans, community finance, and local consulting inside Tochigi Prefecture. Separate from [[regional-banks/ashikaga-bank]] and [[regional-banks/mebuki-fg]] coverage, it is the bank-license anchor for understanding the region's competitive layer. For Kanto second-regional-bank consolidation pressure, see [[banking/regional-bank-consolidation-pattern]].
 
 ## 3. Why this page matters
 
 - Closes a Tochigi second-regional-bank exact-name gap.
-- Useful peer for [[ashikaga-bank]] and [[towa-bank]] / North Kanto regional-bank analysis.
+- Useful peer for [[regional-banks/ashikaga-bank]] and [[regional-banks/towa-bank]] / North Kanto regional-bank analysis.
 - Separates operating bank coverage from securities-adjacent pages such as Tochigin TT Securities references.
 
 ## Related
 
-- [[ashikaga-bank]]
-- [[mebuki-fg]]
-- [[towa-bank]]
+- [[regional-banks/ashikaga-bank]]
+- [[regional-banks/mebuki-fg]]
+- [[regional-banks/towa-bank]]
 - [[banking/INDEX]]
 
 ## Sources

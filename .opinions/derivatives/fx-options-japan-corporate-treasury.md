@@ -22,4 +22,4 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 - How has FSA suitability enforcement evolved for TRF and similar accumulator structures since the early-2010s tightening?
 - Does the post-YCC interest-rate environment (see [[derivatives/ois-tona-curve|OIS-TONA curve]]) change the relative attractiveness of FX options vs vanilla forwards by increasing forward-point cost?
 - Are foreign banks regaining structured-product share in Japan corporate FX after a decade of megabank dominance?
-- How do the FX option books at [[JapanFG/mufg-bank|MUFG Bank]] / [[JapanFG/sumitomo-mitsui-banking-corp|Sumitomo Mitsui Banking Corp]] / [[JapanFG/mizuho-bank|Mizuho Bank]] interact with their corporate-loan books in terms of relationship-pricing dynamics?
+- How do the FX option books at [[megabanks/mufg-bank|MUFG Bank]] / [[megabanks/sumitomo-mitsui-banking-corp|Sumitomo Mitsui Banking Corp]] / [[megabanks/mizuho-bank|Mizuho Bank]] interact with their corporate-loan books in terms of relationship-pricing dynamics?

@@ -50,37 +50,37 @@
     "wikilinks_count": 11,
     "wikilinks": [
       "banking/INDEX",
-      "chiba-bank",
-      "chiba-kogyo-bank",
-      "concordia-fg",
-      "mebuki-fg",
-      "mizuho-fg",
-      "mufg",
-      "paypay-fg",
+      "megabanks/mizuho-fg",
+      "megabanks/mufg",
+      "megabanks/paypay-fg",
+      "megabanks/smfg",
       "regional-banks/INDEX",
+      "regional-banks/chiba-bank",
+      "regional-banks/chiba-kogyo-bank",
+      "regional-banks/concordia-fg",
       "regional-banks/jimoto-hd",
-      "smfg"
+      "regional-banks/mebuki-fg"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/chiba-bank",
-      "https://finwiki.zksc.io/chiba-kogyo-bank",
-      "https://finwiki.zksc.io/concordia-fg",
-      "https://finwiki.zksc.io/mebuki-fg",
-      "https://finwiki.zksc.io/mizuho-fg",
-      "https://finwiki.zksc.io/mufg",
-      "https://finwiki.zksc.io/paypay-fg",
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/paypay-fg",
+      "https://finwiki.zksc.io/megabanks/smfg",
       "https://finwiki.zksc.io/regional-banks/INDEX",
+      "https://finwiki.zksc.io/regional-banks/chiba-bank",
+      "https://finwiki.zksc.io/regional-banks/chiba-kogyo-bank",
+      "https://finwiki.zksc.io/regional-banks/concordia-fg",
       "https://finwiki.zksc.io/regional-banks/jimoto-hd",
-      "https://finwiki.zksc.io/smfg"
+      "https://finwiki.zksc.io/regional-banks/mebuki-fg"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3295,
-    "word_like_tokens": 527,
+    "nonspace_chars": 3575,
+    "word_like_tokens": 561,
     "inbound_wikilinks_count": 1,
-    "last_modified": "2026-06-06"
+    "last_modified": "2026-06-08"
   }
 }

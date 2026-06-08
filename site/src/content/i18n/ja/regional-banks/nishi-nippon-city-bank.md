@@ -15,7 +15,7 @@ translated_at: 2026-06-02T14:54:39.082Z
 
 ## 要約
 
-譬ｪ蠑丈ｼ夂､ｾ隘ｿ譌･譛ｬ繧ｷ繝・ぅ驫陦後・、FSA の銀行免許一覧に掲載される福岡県本店の地方銀行である。[[nishi-nippon-fhd]] の中核運営銀行であり、福岡県内では [[fukuoka-bank]] と並ぶ主要な地方銀行運営会社のアンカーとして扱う。
+譬ｪ蠑丈ｼ夂､ｾ隘ｿ譌･譛ｬ繧ｷ繝・ぅ驫陦後・、FSA の銀行免許一覧に掲載される福岡県本店の地方銀行である。[[regional-banks/nishi-nippon-fhd]] の中核運営銀行であり、福岡県内では [[regional-banks/fukuoka-bank]] と並ぶ主要な地方銀行運営会社のアンカーとして扱う。
 
 ## 1. 免許・グループ境界
 
@@ -23,26 +23,26 @@ translated_at: 2026-06-02T14:54:39.082Z
 |---|---|
 | 法的名称 | 譬ｪ蠑丈ｼ夂､ｾ隘ｿ譌･譛ｬ繧ｷ繝・ぅ驫陦・|
 | 免許ルート | 銀行法上の地方銀行。FSA の銀行免許一覧で確認する。 |
-| グループ境界 | [[nishi-nippon-fhd]] の中核運営銀行 |
+| グループ境界 | [[regional-banks/nishi-nippon-fhd]] の中核運営銀行 |
 | 主要市場 | 福岡・福岡市 |
 | ウィキ上の役割 | 福岡の地方銀行の運営会社ページ |
 
 ## 2. 運営モデル
 
-隘ｿ譌･譛ｬ繧ｷ繝・ぅ驫陦後・、福岡都市圏と北部九州を中心に個人預金、中小企業金融、都市型法人取引、アジア事業支援を担う地方銀行である。[[nishi-nippon-fhd]] ページは持株会社戦略とグループポートフォリオを扱い、このページは銀行免許を持つ法人を扱う。九州の地方銀行再編文脈は [[banking/regional-bank-consolidation-pattern]] を参照する。
+隘ｿ譌･譛ｬ繧ｷ繝・ぅ驫陦後・、福岡都市圏と北部九州を中心に個人預金、中小企業金融、都市型法人取引、アジア事業支援を担う地方銀行である。[[regional-banks/nishi-nippon-fhd]] ページは持株会社戦略とグループポートフォリオを扱い、このページは銀行免許を持つ法人を扱う。九州の地方銀行再編文脈は [[banking/regional-bank-consolidation-pattern]] を参照する。
 
 ## 3. このページが重要な理由
 
 - 隘ｿ譌･譛ｬ繧ｷ繝・ぅ驫陦後・について、FSA 掲載の正式名称ベースの運営会社ギャップを埋める。
-- 銀行免許を [[nishi-nippon-fhd]] の持株会社カバレッジから切り分ける。
-- [[fukuoka-bank]]、[[chikuho-bank]]、[[kitakyushu-bank]] の比較アンカーを提供する。
+- 銀行免許を [[regional-banks/nishi-nippon-fhd]] の持株会社カバレッジから切り分ける。
+- [[regional-banks/fukuoka-bank]]、[[regional-banks/chikuho-bank]]、[[regional-banks/kitakyushu-bank]] の比較アンカーを提供する。
 
 ## 関連項目
 
-- [[nishi-nippon-fhd]]
-- [[fukuoka-bank]]
-- [[chikuho-bank]]
-- [[kitakyushu-bank]]
+- [[regional-banks/nishi-nippon-fhd]]
+- [[regional-banks/fukuoka-bank]]
+- [[regional-banks/chikuho-bank]]
+- [[regional-banks/kitakyushu-bank]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 

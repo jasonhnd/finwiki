@@ -49,8 +49,8 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 ## Related
 
 - [[insurance/INDEX]]
-- [[sompo-japan-insurance]]
-- [[tokio-marine-nichido-fire]]
+- [[non-life-insurers/sompo-japan-insurance]]
+- [[non-life-insurers/tokio-marine-nichido-fire]]
 - [[insurance/natcat-reinsurance-japan]]
 
 ## Sources

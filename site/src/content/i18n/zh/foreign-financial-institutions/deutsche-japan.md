@@ -16,7 +16,7 @@ translated_at: 2026-05-31T15:29:03.938Z
 
 ## 长话短说
 
-德意志银行股份公司日本办事处的统称（总部位于法兰克福，**G-SIB Bucket2**）。 **东京分行（开设1972 ）+德意志证券（法人IB）** 2 轴为核心。在经历了本国的财务困难（2016 - 2019）后，由于2019 - 07 全球投资银行重组（18,000 全球人员减少），日本业务也有所减少。目前专注于**IB + 市场（债券/外汇优势）+ 资产管理 (DWS) + 私人银行**，没有零售业务发展。竞争对手有[[citigroup-japan]]/[[hsbc-japan]]/ 瑞银 / 巴克莱。
+德意志银行股份公司日本办事处的统称（总部位于法兰克福，**G-SIB Bucket2**）。 **东京分行（开设1972 ）+德意志证券（法人IB）** 2 轴为核心。在经历了本国的财务困难（2016 - 2019）后，由于2019 - 07 全球投资银行重组（18,000 全球人员减少），日本业务也有所减少。目前专注于**IB + 市场（债券/外汇优势）+ 资产管理 (DWS) + 私人银行**，没有零售业务发展。竞争对手有[[foreign-financial-institutions/citigroup-japan]]/[[foreign-financial-institutions/hsbc-japan]]/ 瑞银 / 巴克莱。
 
 ## 1 。公司简介
 
@@ -83,11 +83,11 @@ translated_at: 2026-05-31T15:29:03.938Z
 
 |竞赛|实力对比|
 |---|---|
-|[[citigroup-japan]]|美国退出零售业后IB/市场的类似领域|
-|[[hsbc-japan]]|英国，强大的亚洲网络，零售2012 提现|
+|[[foreign-financial-institutions/citigroup-japan]]|美国退出零售业后IB/市场的类似领域|
+|[[foreign-financial-institutions/hsbc-japan]]|英国，强大的亚洲网络，零售2012 提现|
 |瑞银日本|瑞士，1 位在全球的PB存在，IB正在萎缩|
 |巴克莱日本|英语、IB/市场方面的类似职位|
-|日本银行 IB ([[mufg]]MUMSS /[[smfg]]SMBC Nikko /[[mizuho-fg]])|国内客户群势不可挡，与欧美企业跨境竞争|
+|日本银行 IB ([[megabanks/mufg]]MUMSS /[[megabanks/smfg]]SMBC Nikko /[[megabanks/mizuho-fg]])|国内客户群势不可挡，与欧美企业跨境竞争|
 
 ### 与本国母公司的联系
 
@@ -107,17 +107,17 @@ translated_at: 2026-05-31T15:29:03.938Z
 ## 7 .未决问题
 
 - 2019  全球重组后日本的人员规模和利润贡献的最新数据是多少？ （仅限公开信息）
-- DWS日本基地的AUM规模与日本银行业务（[[mufg]] AM等）相比如何？
+- DWS日本基地的AUM规模与日本银行业务（[[megabanks/mufg]] AM等）相比如何？
 - 德意志银行财富管理 日本富人的市场份额是多少及其相对于竞争对手的地位（瑞银/瑞信 UBS 整合后）？
 - 日元债券一级交易商资格/参与国债拍卖的程度（公开排名之外的敏感部分）
 - 母公司的战略重组（2024 - 2025 中期计划）会对日本基地产生什么影响？
-- 过去和未来与日本银行巨头[[mufg]]/[[smfg]]/[[mizuho-fg]]结盟/合资的可能性？
+- 过去和未来与日本银行巨头[[megabanks/mufg]]/[[megabanks/smfg]]/[[megabanks/mizuho-fg]]结盟/合资的可能性？
 
 ## 8 。有关的
 
-- [[mufg]] ·[[smfg]]·[[mizuho-fg]]· [[ndfg]]
-- [[citigroup-japan]] · [[hsbc-japan]]
-- （相关计划：[[ubs-japan]]·[[barclays-japan]]·[[foreign-financial-institutions/bnp-paribas-japan|bnp-japan]]·[[foreign-financial-institutions/socgen-japan|socgen-japan]]）
+- [[megabanks/mufg]] ·[[megabanks/smfg]]·[[megabanks/mizuho-fg]]· [[megabanks/ndfg]]
+- [[foreign-financial-institutions/citigroup-japan]] · [[foreign-financial-institutions/hsbc-japan]]
+- （相关计划：[[foreign-financial-institutions/ubs-japan]]·[[foreign-financial-institutions/barclays-japan]]·[[foreign-financial-institutions/bnp-paribas-japan|bnp-japan]]·[[foreign-financial-institutions/socgen-japan|socgen-japan]]）
 
 ## 来源
 

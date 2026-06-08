@@ -17,7 +17,7 @@ translated_at: 2026-06-02T16:33:58.500Z
 
 ## 要約
 
-株式会社栃木銀行は、金融庁の銀行免許一覧に掲載される、栃木県宇都宮市に本店を置く第二地方銀行である。栃木県では [[ashikaga-bank]] が第一地方銀行の中核であり、栃木銀行は第二地方銀行側の事業会社として整理する。
+株式会社栃木銀行は、金融庁の銀行免許一覧に掲載される、栃木県宇都宮市に本店を置く第二地方銀行である。栃木県では [[regional-banks/ashikaga-bank]] が第一地方銀行の中核であり、栃木銀行は第二地方銀行側の事業会社として整理する。
 
 ## 1. ライセンス・グループ境界
 
@@ -31,19 +31,19 @@ translated_at: 2026-06-02T16:33:58.500Z
 
 ## 2. 事業モデル
 
-栃木銀行は、栃木県内の個人預金、中小企業向け融資、地域金融、地域向けコンサルティングを担う第二地方銀行である。[[ashikaga-bank]] と [[mebuki-fg]] のカバレッジとは別に、地域金融の競争層を見るための銀行免許上の基準点になる。関東圏の第二地方銀行再編圧力については [[banking/regional-bank-consolidation-pattern]] を参照。
+栃木銀行は、栃木県内の個人預金、中小企業向け融資、地域金融、地域向けコンサルティングを担う第二地方銀行である。[[regional-banks/ashikaga-bank]] と [[regional-banks/mebuki-fg]] のカバレッジとは別に、地域金融の競争層を見るための銀行免許上の基準点になる。関東圏の第二地方銀行再編圧力については [[banking/regional-bank-consolidation-pattern]] を参照。
 
 ## 3. このページが重要な理由
 
 - 栃木県の第二地方銀行について、正式名称ベースのページ空白を埋める。
-- [[ashikaga-bank]] および [[towa-bank]] / 北関東の地域銀行分析における比較対象として有用である。
+- [[regional-banks/ashikaga-bank]] および [[regional-banks/towa-bank]] / 北関東の地域銀行分析における比較対象として有用である。
 - とちぎん TT 証券のような証券隣接ページから、銀行本体のカバレッジを切り分ける。
 
 ## 関連項目
 
-- [[ashikaga-bank]]
-- [[mebuki-fg]]
-- [[towa-bank]]
+- [[regional-banks/ashikaga-bank]]
+- [[regional-banks/mebuki-fg]]
+- [[regional-banks/towa-bank]]
 - [[banking/INDEX]]
 
 ## 出典

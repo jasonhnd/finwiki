@@ -17,7 +17,7 @@ translated_at: 2026-05-31T11:13:44.841Z
 
 ## 要点摘要
 
-中国银行东京分行是中国大陆/中国银行在日本金融厅外国银行分行名单上的一家银行分行。它是与日本[[chugoku-bank|中国銀行 / The Chugoku Bank]]独立的实体，被视为日本与日本之间存款、贷款、贸易结算、资金结算、外汇交易的主要分支机构。
+中国银行东京分行是中国大陆/中国银行在日本金融厅外国银行分行名单上的一家银行分行。它是与日本[[regional-banks/chugoku-bank|中国銀行 / The Chugoku Bank]]独立的实体，被视为日本与日本之间存款、贷款、贸易结算、资金结算、外汇交易的主要分支机构。
 
 ## 1。牌照/分支机构边界
 
@@ -28,7 +28,7 @@ translated_at: 2026-05-31T11:13:44.841Z
 |许可途径|银行法外国银行分行； FSA 银行牌照清单|
 |所属司法管辖区|中国大陆|
 |家长/团体|中国银行|
-|维基角色|中日大型银行分行主力；不是 [[chugoku-bank]]|
+|维基角色|中日大型银行分行主力；不是 [[regional-banks/chugoku-bank]]|
 
 ## 2。运营模式
 
@@ -38,16 +38,16 @@ translated_at: 2026-05-31T11:13:44.841Z
 
 ## 3。为什么此页面很重要
 
-- 解决中国银行与日本[[chugoku-bank]]的名称冲突问题。
+- 解决中国银行与日本[[regional-banks/chugoku-bank]]的名称冲突问题。
 - 在外资银行地图上添加中国大陆核心分行 P1 。
-- 为 [[icbc-japan]]、[[china-construction-bank-japan]] 和 [[agricultural-bank-of-china-japan]] 提供对等上下文。
+- 为 [[foreign-financial-institutions/icbc-japan]]、[[foreign-financial-institutions/china-construction-bank-japan]] 和 [[foreign-financial-institutions/agricultural-bank-of-china-japan]] 提供对等上下文。
 
 ＃＃ 有关的
 
-- [[chugoku-bank]]
-- [[icbc-japan]]
-- [[china-construction-bank-japan]]
-- [[agricultural-bank-of-china-japan]]
+- [[regional-banks/chugoku-bank]]
+- [[foreign-financial-institutions/icbc-japan]]
+- [[foreign-financial-institutions/china-construction-bank-japan]]
+- [[foreign-financial-institutions/agricultural-bank-of-china-japan]]
 - [[banking/foreign-bank-japan-retreat]]
 
 ## 来源

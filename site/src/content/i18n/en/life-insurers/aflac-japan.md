@@ -16,7 +16,7 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 
 ## TL;DR
 
-This is the Japanese subsidiary of Aflac Incorporated (NYSE: AFL, headquartered in Columbus, Georgia, USA). It launched Japan's first cancer insurance in 1974-11  and grew into a domestic No.1 -class holder of policies in third-sector insurance (cancer / medical). In **2018-04-02, it converted from the former Japan branch into the Japanese corporation "Aflac Life Insurance Co., Ltd."**, becoming a subsidiary, and in the same year **2018-07-12 entered into a strategic business and capital alliance with Dai-ichi Life HD ([[dai-ichi-life]])**, under which Dai-ichi Life acquired approximately 7% on a voting-rights basis for long-term holding. Through 4  channels spanning sales representatives, agencies, bancassurance, and the internet, it maintains share in the third-sector market. ^[extracted]
+This is the Japanese subsidiary of Aflac Incorporated (NYSE: AFL, headquartered in Columbus, Georgia, USA). It launched Japan's first cancer insurance in 1974-11  and grew into a domestic No.1 -class holder of policies in third-sector insurance (cancer / medical). In **2018-04-02, it converted from the former Japan branch into the Japanese corporation "Aflac Life Insurance Co., Ltd."**, becoming a subsidiary, and in the same year **2018-07-12 entered into a strategic business and capital alliance with Dai-ichi Life HD ([[life-insurers/dai-ichi-life]])**, under which Dai-ichi Life acquired approximately 7% on a voting-rights basis for long-term holding. Through 4  channels spanning sales representatives, agencies, bancassurance, and the internet, it maintains share in the third-sector market. ^[extracted]
 
 ## 1. Company overview
 
@@ -44,7 +44,7 @@ This is the Japanese subsidiary of Aflac Incorporated (NYSE: AFL, headquartered 
 ### Major shareholders and capital structure ^[extracted]
 
 - **Wholly owned by Aflac Incorporated (US parent) on a voting-rights basis**
-- However, based on the strategic business and capital alliance with 2018-07-12 Dai-ichi Life HD ([[dai-ichi-life]]), Dai-ichi Life HD acquired Aflac Incorporated shares corresponding to roughly **7% on a voting-rights basis** for long-term holding (acquired in two stages, at the US parent-share level). ★
+- However, based on the strategic business and capital alliance with 2018-07-12 Dai-ichi Life HD ([[life-insurers/dai-ichi-life]]), Dai-ichi Life HD acquired Aflac Incorporated shares corresponding to roughly **7% on a voting-rights basis** for long-term holding (acquired in two stages, at the US parent-share level). ★
 - Shareholders of the US parent Aflac Incorporated itself are centered on institutional investors (mainly passive holdings by Vanguard / BlackRock / State Street, etc.; Wikipedia / 10-K)
 
 ### Major subsidiaries and group
@@ -81,7 +81,7 @@ Aflac Incorporated (US holding company, NYSE: AFL)
 | 2009  | Aflac Duck adopted in earnest in Japan as an advertising character |
 | 2013  | Aflac × Japan Post business alliance (Aflac cancer insurance sold at post-office counters) — expanded third-sector cross-channel reach |
 | **2018-04-02** | **Converted from the former Japan branch into "Aflac Life Insurance Co., Ltd." (all business succeeded via a newly established company structure; 100% subsidiary of the US parent)** ★ ^[extracted] |
-| **2018-07-12** | **Announced a strategic business and capital alliance with Dai-ichi Life HD ([[dai-ichi-life]]). Dai-ichi Life HD acquired about 7% of Aflac Incorporated on a voting-rights basis for long-term holding (in two stages).** ★ ^[extracted] |
+| **2018-07-12** | **Announced a strategic business and capital alliance with Dai-ichi Life HD ([[life-insurers/dai-ichi-life]]). Dai-ichi Life HD acquired about 7% of Aflac Incorporated on a voting-rights basis for long-term holding (in two stages).** ★ ^[extracted] |
 | 2019 onward | Deepening partnership with Dai-ichi Life (sales-force cross-sell, joint product development, joint marketing) |
 | 2020-2022  | During the pandemic, growing demand for medical / disability insurance and adaptation to remote sales by sales staff |
 | 2024 onward | Mid-term management strategy at Aflac Japan: strengthen digital direct sales, deepen the Dai-ichi Life channel, and expand products for an aging society |
@@ -95,7 +95,7 @@ Aflac Incorporated (US holding company, NYSE: AFL)
 
 ### Alliance and acquisition strategy
 
-- **Strategic business and capital alliance with Dai-ichi Life HD ([[dai-ichi-life]]) (2018-07-12)** ★ ^[extracted]
+- **Strategic business and capital alliance with Dai-ichi Life HD ([[life-insurers/dai-ichi-life]]) (2018-07-12)** ★ ^[extracted]
   - Dai-ichi Life HD acquired shares equivalent to about 7% on a voting-rights basis in Aflac Incorporated for long-term holding (announced as a two-stage acquisition plan)
   - Cross-selling through the sales-force channel (Dai-ichi Life representatives handle Aflac cancer insurance)
   - Joint product development, joint marketing, and information-systems collaboration
@@ -130,10 +130,10 @@ Aflac Incorporated (US holding company, NYSE: AFL)
 
 ### Competitors (domestic third-sector / medical insurance)
 
-- **Dai-ichi Life [[dai-ichi-life]]**: partner and competitor in the third sector (cancer / medical lineup)
-- **Nippon Life [[nippon-life]]**: Japan's largest life insurer, expanding third-sector share
-- **Mitsui Sumitomo Aioi Life [[msad]]**: part of MS&AD, with medical insurance as a core line
-- **MetLife Japan [[metlife-japan]]**: foreign-affiliated, focused on medical and whole-life insurance
+- **Dai-ichi Life [[life-insurers/dai-ichi-life]]**: partner and competitor in the third sector (cancer / medical lineup)
+- **Nippon Life [[life-insurers/nippon-life]]**: Japan's largest life insurer, expanding third-sector share
+- **Mitsui Sumitomo Aioi Life [[non-life-insurers/msad]]**: part of MS&AD, with medical insurance as a core line
+- **MetLife Japan [[life-insurers/metlife-japan]]**: foreign-affiliated, focused on medical and whole-life insurance
 - **Zurich Life**: strong in online direct sales of medical insurance
 - **ORIX Life**: focused on medical and whole life, using both direct and agency channels
 - **Sompo Himawari Life** ([[non-life-insurers/sompo|sompo-hd]] group)
@@ -143,8 +143,8 @@ Aflac Incorporated (US holding company, NYSE: AFL)
 
 ## Related
 
-- [[dai-ichi-life]] · [[nippon-life]] · [[life-insurers/meiji-yasuda|meiji-yasuda-life]] · [[sumitomo-life]] · [[kampo-life]]
-- [[metlife-japan]] · [[msad]] · [[non-life-insurers/sompo|sompo-hd]] · [[non-life-insurers/tokio-marine|tokio-marine-hd]]
+- [[life-insurers/dai-ichi-life]] · [[life-insurers/nippon-life]] · [[life-insurers/meiji-yasuda|meiji-yasuda-life]] · [[life-insurers/sumitomo-life]] · [[life-insurers/kampo-life]]
+- [[life-insurers/metlife-japan]] · [[non-life-insurers/msad]] · [[non-life-insurers/sompo|sompo-hd]] · [[non-life-insurers/tokio-marine|tokio-marine-hd]]
 - Third-sector insurance / cancer insurance / medical insurance (wiki/insurance/third-sector-japan)
 
 ## Sources

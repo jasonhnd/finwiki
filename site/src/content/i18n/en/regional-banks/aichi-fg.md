@@ -16,7 +16,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ##TL;DR
 
-A regional-bank financial group based in Aichi Prefecture (TSE PRIME 7389). It was established through the **2022-10-03 management integration of Aichi Bank + Chukyo Bank**, and its bank subsidiary has already been integrated into [[aichi-bank|Aichi Bank]]. It is a regional-bank restructuring model grounded in the Chukyo economic zone (Nagoya / Toyota supply chain). In-prefecture competitor: [[nagoya-bank]] (no holding-company structure, prefectural No. 2); nearby peers: [[juroku-fg]] (Gifu) / [[san-jusan-fg]] (Mie) / [[ogaki-kyoritsu-bank]] (Gifu). ^[extracted]
+A regional-bank financial group based in Aichi Prefecture (TSE PRIME 7389). It was established through the **2022-10-03 management integration of Aichi Bank + Chukyo Bank**, and its bank subsidiary has already been integrated into [[regional-banks/aichi-bank|Aichi Bank]]. It is a regional-bank restructuring model grounded in the Chukyo economic zone (Nagoya / Toyota supply chain). In-prefecture competitor: [[regional-banks/nagoya-bank]] (no holding-company structure, prefectural No. 2); nearby peers: [[regional-banks/juroku-fg]] (Gifu) / [[regional-banks/san-jusan-fg]] (Mie) / [[regional-banks/ogaki-kyoritsu-bank]] (Gifu). ^[extracted]
 
 ## 1. Company Profile
 
@@ -30,7 +30,7 @@ A regional-bank financial group based in Aichi Prefecture (TSE PRIME 7389). It w
 
 ```
 Aichi FG (holding company, listed 7389)
-  └── [[aichi-bank|Aichi Bank]] (100%) -- operating bank after the merger of former Aichi Bank and former Chukyo Bank
+  └── [[regional-banks/aichi-bank|Aichi Bank]] (100%) -- operating bank after the merger of former Aichi Bank and former Chukyo Bank
         └── In-prefecture branch network and lending to SMEs and mid-sized companies
 ```
 
@@ -48,7 +48,7 @@ Aichi FG (holding company, listed 7389)
 #### Management integration process
 
 - **2022-10-03 Establishment of Aichi FG** (Joint stock transfer, both banks 100% became a subsidiary, new FG listed on TSE PRIME) ^[extracted]
-- **2025-01-01 Aichi Bank + Chukyo Bank merger**, current operating bank is [[aichi-bank|Aichi Bank]].
+- **2025-01-01 Aichi Bank + Chukyo Bank merger**, current operating bank is [[regional-banks/aichi-bank|Aichi Bank]].
 
 ### Important Chronology ^[extracted]
 
@@ -58,15 +58,15 @@ Aichi FG (holding company, listed 7389)
 |1943 |Aichi Bank Established due to wartime consolidation|
 |1953 |Establishment of Chukyo Bank (3rd Mugen + 17th Mugen)|
 |**2022-10-03**|**Aichi FG established** (Aichi Bank + Chukyo Bank joint stock transfer) / Listed on TSE PRIME|
-|**2025-01-01**|**Aichi Bank + Chukyo Bank merger**, operating-company boundary was organized to [[aichi-bank|Aichi Bank]]|
+|**2025-01-01**|**Aichi Bank + Chukyo Bank merger**, operating-company boundary was organized to [[regional-banks/aichi-bank|Aichi Bank]]|
 
 ## 2. Business segment map
 
 |segment|main business person|Features|
 |---|---|---|
-|Financing for medium-sized and small enterprises|[[aichi-bank|Aichi Bank]]|Manufacturing industry/supplier finance in Aichi Prefecture|
-|Financing for small and medium-sized enterprises|[[aichi-bank|Aichi Bank]]|Including small businesses in Nagoya on the former Chukyo Bank side|
-|Personal retail|[[aichi-bank|Aichi Bank]]|Mortgage loan/deposit|
+|Financing for medium-sized and small enterprises|[[regional-banks/aichi-bank|Aichi Bank]]|Manufacturing industry/supplier finance in Aichi Prefecture|
+|Financing for small and medium-sized enterprises|[[regional-banks/aichi-bank|Aichi Bank]]|Including small businesses in Nagoya on the former Chukyo Bank side|
+|Personal retail|[[regional-banks/aichi-bank|Aichi Bank]]|Mortgage loan/deposit|
 
 ### Chukyo Economic Zone Concentration Strategy
 
@@ -84,10 +84,10 @@ Aichi FG (holding company, listed 7389)
 |competition|Business format|position|
 |---|---|---|
 |Nagoya Bank (TSE PRIME 8522)|Second regional bank standalone/no holding company|Aichi prefecture No.2  position, independent route ^[extracted]|
-|[[juroku-fg]] (TSE PRIME 7380)|Gifu Regional Bank FG (Juroku Bank)|Crossing the border into Gifu prefecture and northwestern Aichi prefecture|
-|[[san-jusan-fg]] (TSE PRIME 7322)|Mie Regional Bank FG (Sanjusan Bank)|Crossing the border from Mie prefecture to southern Aichi prefecture|
-|[[ogaki-kyoritsu-bank]] (TSE PRIME 8361)|Gifu Regional Bank only|Expanded into Gifu prefecture and part of Aichi prefecture|
-|[[mufg]] / [[smfg]] / [[mizuho-fg]]|mega bank|Megas have an advantage in large corporate loans, and regional banks have an advantage in small and medium-sized enterprises.|
+|[[regional-banks/juroku-fg]] (TSE PRIME 7380)|Gifu Regional Bank FG (Juroku Bank)|Crossing the border into Gifu prefecture and northwestern Aichi prefecture|
+|[[regional-banks/san-jusan-fg]] (TSE PRIME 7322)|Mie Regional Bank FG (Sanjusan Bank)|Crossing the border from Mie prefecture to southern Aichi prefecture|
+|[[regional-banks/ogaki-kyoritsu-bank]] (TSE PRIME 8361)|Gifu Regional Bank only|Expanded into Gifu prefecture and part of Aichi prefecture|
+|[[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]]|mega bank|Megas have an advantage in large corporate loans, and regional banks have an advantage in small and medium-sized enterprises.|
 
 ### Chukyo Economic Area Regional Bank Reorganization Model
 
@@ -96,8 +96,8 @@ Aichi FG is an 3  step integration model of **2 行 integration within the same 
 - Stage 2 (2025-01  planned): Integration in name and reality through bank merger
 
 Reference examples of nearby regional banks:
-- [[san-jusan-fg]] (2018  Mie Bank + Daisan Bank integration → 2021  Sanjusan Bank merger) = Aichi FG's predecessor model
-- [[juroku-fg]] (2021  Juroku Bank became a holding company)
+- [[regional-banks/san-jusan-fg]] (2018  Mie Bank + Daisan Bank integration → 2021  Sanjusan Bank merger) = Aichi FG's predecessor model
+- [[regional-banks/juroku-fg]] (2021  Juroku Bank became a holding company)
 
 ## 4. Regulations and policies
 
@@ -108,9 +108,9 @@ Reference examples of nearby regional banks:
 
 ## Related
 
-- [[juroku-fg]] · [[san-jusan-fg]] · [[ogaki-kyoritsu-bank]] (Nearby Chubu Regional Bank)
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] (Mega Bank)
-- [[shizuoka-fg]] / [[juroku-fg]] (Same period regional bank FG comparison target)
+- [[regional-banks/juroku-fg]] · [[regional-banks/san-jusan-fg]] · [[regional-banks/ogaki-kyoritsu-bank]] (Nearby Chubu Regional Bank)
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] (Mega Bank)
+- [[regional-banks/shizuoka-fg]] / [[regional-banks/juroku-fg]] (Same period regional bank FG comparison target)
 
 ## Sources
 
@@ -122,4 +122,4 @@ Reference examples of nearby regional banks:
 ---
 
 > [!info] Check status
-> confidence: **likely** (v1.1 public-source correction 2026-05-21). On 2025-01-01, the forecast wording for the bank merger was removed and the current operating-company boundary was separated into [[aichi-bank|Aichi Bank]]. Continue confirming quantitative data such as financial numbers and branch counts in the latest disclosure materials and securities reports.
+> confidence: **likely** (v1.1 public-source correction 2026-05-21). On 2025-01-01, the forecast wording for the bank merger was removed and the current operating-company boundary was separated into [[regional-banks/aichi-bank|Aichi Bank]]. Continue confirming quantitative data such as financial numbers and branch counts in the latest disclosure materials and securities reports.

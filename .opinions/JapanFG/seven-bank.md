@@ -29,7 +29,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## 推論 (from 競合関係)
 
-- **メガバンク系 ATM**（[[mufg]] / [[smfg]] / [[mizuho-fg]]）: 自前 ATM 縮小傾向 → セブン銀行への依存度上昇 ^[inferred]
+- **メガバンク系 ATM**（[[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]]）: 自前 ATM 縮小傾向 → セブン銀行への依存度上昇 ^[inferred]
 - **キャッシュレス決済**: PayPay 等の電子マネー普及で「現金引出需要」自体が長期的減少リスク ^[inferred]
 
 ## 推論 (from 4. 規制・政策)
@@ -51,5 +51,5 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 - 第 4 世代 ATM 機の顔認証・カードレス機能の利用率と収益貢献は？
 - ASEAN（フィリピン・インドネシア）事業の損益分岐到達時期は？
 - 親会社セブン&アイ HD の戦略変動（コンビニ網縮小・米セブン売却議論等）が セブン銀行に与える影響は？
-- ローソン銀行（[[lawson-bank]]）・イオン銀行との競合・棲み分けの行方は？
+- ローソン銀行（[[regional-banks/lawson-bank]]）・イオン銀行との競合・棲み分けの行方は？
 - ステーブルコイン・CBDC（デジタル円）導入時の ATM 役割再定義は？

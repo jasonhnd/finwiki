@@ -17,9 +17,9 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## 推論 (from JHF Monthly Pass-Through MBS)
 
-| Rating | High investment-grade by [[JapanFG/jcr|JCR]] and [[JapanFG/rating-and-investment|R&I]], often matching JGB-equivalent on domestic scale ^[inferred] |
-| Investor base | Japanese banks, life insurers, regional banks, [[JapanFG/japan-post-bank|Japan Post Bank]], [[JapanFG/japan-post-insurance|Japan Post Insurance]], asset managers running yen fixed-income mandates ^[inferred] |
-| Trustee | Trust-bank trustee — [[JapanFG/mitsubishi-ufj-trust-bank|MUFG Trust]] / [[JapanFG/sumitomo-mitsui-trust|SMTB]] / [[JapanFG/mizuho-trust-bank|Mizuho Trust]] depending on series ^[inferred] |
+| Rating | High investment-grade by [[financial-regulators/jcr|JCR]] and [[financial-regulators/rating-and-investment|R&I]], often matching JGB-equivalent on domestic scale ^[inferred] |
+| Investor base | Japanese banks, life insurers, regional banks, [[regional-banks/japan-post-bank|Japan Post Bank]], [[JapanFG/japan-post-insurance|Japan Post Insurance]], asset managers running yen fixed-income mandates ^[inferred] |
+| Trustee | Trust-bank trustee — [[trust-banks/mitsubishi-ufj-trust-bank|MUFG Trust]] / [[trust-banks/sumitomo-mitsui-trust|SMTB]] / [[trust-banks/mizuho-trust-bank|Mizuho Trust]] depending on series ^[inferred] |
 JHF MBS economics for the buyer are: pickup over JGB at matched WAL (weighted-average-life), low prepayment risk relative to US agency MBS because Japanese fixed-rate Flat 35 loans have flatter prepayment incentives, and high recovery on default driven by guarantee arrangements with originating banks. ^[inferred]
 
 ## 推論 (from Private RMBS)
@@ -44,7 +44,7 @@ The 1棟アパート (apartment-block) loan strand is treated as a hybrid — co
 
 ## 推論 (from RMBS originator landscape)
 
-| [[JapanFG/japan-post-bank|Japan Post Bank]] | Indirect — relationship with [[JapanFG/japan-housing-loan|housing-loan agent]] / partner channel ^[inferred] |
+| [[regional-banks/japan-post-bank|Japan Post Bank]] | Indirect — relationship with [[JapanFG/japan-housing-loan|housing-loan agent]] / partner channel ^[inferred] |
 
 ## 推論 (from Arranger / dealer franchise)
 
@@ -54,13 +54,13 @@ The 1棟アパート (apartment-block) loan strand is treated as a hybrid — co
 
 ## 推論 (from 5. Rating-agency landscape)
 
-| [[JapanFG/jcr|JCR (Japan Credit Rating Agency)]] | Domestic-scale criteria; dominant on JP CMBS / RMBS senior-tranche ratings ^[inferred] |
-| [[JapanFG/rating-and-investment|R&I (Rating and Investment Information)]] | Domestic-scale criteria; the second-domestic rating typically required by yen-investor mandate guidelines ^[inferred] |
+| [[financial-regulators/jcr|JCR (Japan Credit Rating Agency)]] | Domestic-scale criteria; dominant on JP CMBS / RMBS senior-tranche ratings ^[inferred] |
+| [[financial-regulators/rating-and-investment|R&I (Rating and Investment Information)]] | Domestic-scale criteria; the second-domestic rating typically required by yen-investor mandate guidelines ^[inferred] |
 The dual-rating pattern (JCR + R&I on domestic scale, plus S&P or Moody's on global scale) is the typical compromise that lets a JP CMBS / RMBS deal access both the yen institutional base (which uses JCR / R&I-scale ratings for internal-limit management) and the cross-border institutional base (which uses S&P / Moody's global-scale ratings for risk-weighting and limit purposes). ^[inferred]
 
 ## 推論 (from RMBS investor base)
 
-| [[JapanFG/japan-post-bank|Japan Post Bank]] | Buyer at scale on JHF MBS for yen portfolio ^[inferred] |
+| [[regional-banks/japan-post-bank|Japan Post Bank]] | Buyer at scale on JHF MBS for yen portfolio ^[inferred] |
 | [[JapanFG/japan-post-insurance|Japan Post Insurance]] | Buyer at scale for yen-asset matching ^[inferred] |
 | Foreign investors | Limited — currency-hedged yen RMBS returns rarely justify foreign-investor mandate ^[inferred] |
 

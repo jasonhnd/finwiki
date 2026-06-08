@@ -24,13 +24,13 @@ translated_at: 2026-06-02T16:33:58.485Z
 |---|---|
 | 法人名 | 株式会社大光銀行 |
 | 免許ルート | 銀行法上の第二地方銀行、FSA 銀行免許一覧 |
-| グループ境界 | 独立系第二地方銀行。SBI との提携文脈は [[sbi-regional-bank-hd]] とあわせて読む |
+| グループ境界 | 独立系第二地方銀行。SBI との提携文脈は [[megabanks/sbi-regional-bank-hd]] とあわせて読む |
 | 地盤 | 新潟 / 長岡 |
 | Wiki 上の役割 | 新潟県の第二地方銀行運営会社ページ |
 
 ## 2. 事業モデル
 
-大光銀行は、新潟県長岡市を本店として、個人預金、中小企業金融、地域コンサルティング、リース・カード隣接のグループサービス、地域開発支援を担う第二地方銀行である。[[sbi-regional-bank-hd]] のページでは提携文脈に触れることがあるが、銀行免許と営業地盤の境界はこのページで扱う。新潟県内の地域銀行の同業比較は [[daishi-hokuetsu-bank]] と [[dai-shi-hokuetsu-fg]] を参照。
+大光銀行は、新潟県長岡市を本店として、個人預金、中小企業金融、地域コンサルティング、リース・カード隣接のグループサービス、地域開発支援を担う第二地方銀行である。[[megabanks/sbi-regional-bank-hd]] のページでは提携文脈に触れることがあるが、銀行免許と営業地盤の境界はこのページで扱う。新潟県内の地域銀行の同業比較は [[regional-banks/daishi-hokuetsu-bank]] と [[regional-banks/dai-shi-hokuetsu-fg]] を参照。
 
 ## 3. このページが重要な理由
 
@@ -40,7 +40,7 @@ translated_at: 2026-06-02T16:33:58.485Z
 
 ## 関連項目
 
-- [[sbi-regional-bank-hd]]
+- [[megabanks/sbi-regional-bank-hd]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 

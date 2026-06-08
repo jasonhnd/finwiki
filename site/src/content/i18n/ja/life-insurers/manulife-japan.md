@@ -109,10 +109,10 @@ Manulife Financial Corporation（カナダ・トロント、上場 TSX/NYSE/HKEX
 
 | 競合 | 強み | マニュライフとの差分 |
 |---|---|---|
-| [[metlife-japan]] | 営業職員数最大級・医療保険強い | 規模で劣後、外貨建で対抗 |
-| [[aflac-japan]] | がん保険・医療保険圧倒シェア | 商品領域が異なる（マニュライフは終身・年金） |
-| [[prudential-japan]] | ライフプランナー高品質コンサル | チャネル戦略類似、規模で劣後 |
-| [[axa-japan]] | 仏系・ユニットリンク強い | 変額・外貨建で直接競合 |
+| [[life-insurers/metlife-japan]] | 営業職員数最大級・医療保険強い | 規模で劣後、外貨建で対抗 |
+| [[life-insurers/aflac-japan]] | がん保険・医療保険圧倒シェア | 商品領域が異なる（マニュライフは終身・年金） |
+| [[life-insurers/prudential-japan]] | ライフプランナー高品質コンサル | チャネル戦略類似、規模で劣後 |
+| [[life-insurers/axa-japan]] | 仏系・ユニットリンク強い | 変額・外貨建で直接競合 |
 
 ## 5. 規制・政策
 
@@ -127,7 +127,7 @@ Manulife Financial Corporation（カナダ・トロント、上場 TSX/NYSE/HKEX
 
 ## 関連項目
 
-- [[metlife-japan]] · [[aflac-japan]] · [[prudential-japan]] · [[axa-japan]]
+- [[life-insurers/metlife-japan]] · [[life-insurers/aflac-japan]] · [[life-insurers/prudential-japan]] · [[life-insurers/axa-japan]]
 - 親会社: Manulife Financial Corporation（TSX/NYSE: MFC）
 - 米兄弟ブランド: John Hancock（米国、2004 Manulife 買収）
 

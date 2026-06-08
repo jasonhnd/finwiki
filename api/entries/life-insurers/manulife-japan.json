@@ -50,32 +50,30 @@
     "チャネル戦略 ^[extracted]"
   ],
   "body_links": {
-    "wikilinks_count": 7,
+    "wikilinks_count": 6,
     "wikilinks": [
-      "aflac-japan",
-      "axa-japan",
       "insurance/INDEX",
       "life-insurers/INDEX",
-      "life-insurers/prudential-japan",
-      "metlife-japan",
-      "prudential-japan"
+      "life-insurers/aflac-japan",
+      "life-insurers/axa-japan",
+      "life-insurers/metlife-japan",
+      "life-insurers/prudential-japan"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/aflac-japan",
-      "https://finwiki.zksc.io/axa-japan",
       "https://finwiki.zksc.io/insurance/INDEX",
       "https://finwiki.zksc.io/life-insurers/INDEX",
-      "https://finwiki.zksc.io/life-insurers/prudential-japan",
-      "https://finwiki.zksc.io/metlife-japan",
-      "https://finwiki.zksc.io/prudential-japan"
+      "https://finwiki.zksc.io/life-insurers/aflac-japan",
+      "https://finwiki.zksc.io/life-insurers/axa-japan",
+      "https://finwiki.zksc.io/life-insurers/metlife-japan",
+      "https://finwiki.zksc.io/life-insurers/prudential-japan"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4837,
-    "word_like_tokens": 691,
-    "inbound_wikilinks_count": 12,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 4949,
+    "word_like_tokens": 707,
+    "inbound_wikilinks_count": 15,
+    "last_modified": "2026-06-08"
   }
 }

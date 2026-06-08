@@ -16,7 +16,7 @@ translated_at: 2026-06-02T14:01:20.955Z
 
 ## 要約
 
-岡山県岡山市丸の内に本店を置く中国地方東部地盤の地銀グループ page。現在の bank-license operating-company boundary は [[chugoku-bank|中国銀行]] に分離し、本ページは ちゅうぎん FG / historical strategy / Bank of China confusion-control の route として残す。1930-12-21 第一合同銀行 + 山陽銀行 合併で発足、源流は 1878 設立の **第八十六国立銀行**（高梁）まで遡る。**2022-10-03 株式移転で持株会社「ちゅうぎんフィナンシャルグループ」を新設、銀行単独上場（旧 8382）から FG 上場（東証 PRIME 5832）に移行**。2025-03 期 連結純利益 **274 億円**（前年比 +28.2%、過去最高水準）。**TSUBASA アライアンス（千葉銀ハブ・10 行）**創設メンバーで、地銀広域連携の中核行の 1 つ。^[extracted]
+岡山県岡山市丸の内に本店を置く中国地方東部地盤の地銀グループ page。現在の bank-license operating-company boundary は [[regional-banks/chugoku-bank|中国銀行]] に分離し、本ページは ちゅうぎん FG / historical strategy / Bank of China confusion-control の route として残す。1930-12-21 第一合同銀行 + 山陽銀行 合併で発足、源流は 1878 設立の **第八十六国立銀行**（高梁）まで遡る。**2022-10-03 株式移転で持株会社「ちゅうぎんフィナンシャルグループ」を新設、銀行単独上場（旧 8382）から FG 上場（東証 PRIME 5832）に移行**。2025-03 期 連結純利益 **274 億円**（前年比 +28.2%、過去最高水準）。**TSUBASA アライアンス（千葉銀ハブ・10 行）**創設メンバーで、地銀広域連携の中核行の 1 つ。^[extracted]
 
 ## 1. 会社概要
 
@@ -105,9 +105,9 @@ translated_at: 2026-06-02T14:01:20.955Z
 ### 競合関係
 
 - **県内 2 位**: トマト銀行（旧山陽相互銀行系の第二地銀、岡山市本店）
-- **中国地方 西部**: [[hirogin-hd]]（広島銀行）、[[yamaguchi-fg]]（山口銀・もみじ銀・北九州銀 3 行体制）
-- **山陰**: [[san-in-godo-bank]]（山陰合同銀行、米子・松江地盤）
-- **四国側**: 百十四銀行（香川県 高松）、伊予銀行（[[iyogin-hd]]、TSUBASA 同盟行で香川は重複競合 / 協調）
+- **中国地方 西部**: [[regional-banks/hirogin-hd]]（広島銀行）、[[regional-banks/yamaguchi-fg]]（山口銀・もみじ銀・北九州銀 3 行体制）
+- **山陰**: [[regional-banks/san-in-godo-bank]]（山陰合同銀行、米子・松江地盤）
+- **四国側**: 百十四銀行（香川県 高松）、伊予銀行（[[regional-banks/iyogin-hd]]、TSUBASA 同盟行で香川は重複競合 / 協調）
 
 ### TSUBASA アライアンス（2015-10 発足、創設メンバー）
 
@@ -147,9 +147,9 @@ translated_at: 2026-06-02T14:01:20.955Z
 
 ## 関連項目
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[resona-hd]]
-- 中国地方地銀: [[hirogin-hd]] · [[yamaguchi-fg]] · [[san-in-godo-bank]]
-- TSUBASA 同盟行: [[iyogin-hd]] (伊予銀行) · 千葉銀行 · 第四北越 · 北洋銀行 · 武蔵野銀行 · 滋賀銀行 · 琉球銀行 · 群馬銀行 · 東邦銀行
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[megabanks/resona-hd]]
+- 中国地方地銀: [[regional-banks/hirogin-hd]] · [[regional-banks/yamaguchi-fg]] · [[regional-banks/san-in-godo-bank]]
+- TSUBASA 同盟行: [[regional-banks/iyogin-hd]] (伊予銀行) · 千葉銀行 · 第四北越 · 北洋銀行 · 武蔵野銀行 · 滋賀銀行 · 琉球銀行 · 群馬銀行 · 東邦銀行
 - 県内 競合: トマト銀行（岡山県第二地銀）
 
 ## 出典

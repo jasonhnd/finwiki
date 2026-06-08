@@ -52,38 +52,38 @@
   "body_links": {
     "wikilinks_count": 11,
     "wikilinks": [
-      "daiwa-sg",
-      "monex-group",
-      "mufg",
-      "ndfg",
-      "nomura-hd",
-      "rakuten-fg",
-      "sbi-hd",
+      "megabanks/mufg",
+      "megabanks/ndfg",
+      "megabanks/sbi-hd",
+      "payment-firms/rakuten-fg",
       "securities-firms/INDEX",
+      "securities-firms/daiwa-sg",
+      "securities-firms/monex-group",
+      "securities-firms/nomura-hd",
       "securities-firms/sbi-securities",
-      "securities/INDEX",
-      "smbc-nikko"
+      "securities-firms/smbc-nikko",
+      "securities/INDEX"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/daiwa-sg",
-      "https://finwiki.zksc.io/monex-group",
-      "https://finwiki.zksc.io/mufg",
-      "https://finwiki.zksc.io/ndfg",
-      "https://finwiki.zksc.io/nomura-hd",
-      "https://finwiki.zksc.io/rakuten-fg",
-      "https://finwiki.zksc.io/sbi-hd",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/ndfg",
+      "https://finwiki.zksc.io/megabanks/sbi-hd",
+      "https://finwiki.zksc.io/payment-firms/rakuten-fg",
       "https://finwiki.zksc.io/securities-firms/INDEX",
+      "https://finwiki.zksc.io/securities-firms/daiwa-sg",
+      "https://finwiki.zksc.io/securities-firms/monex-group",
+      "https://finwiki.zksc.io/securities-firms/nomura-hd",
       "https://finwiki.zksc.io/securities-firms/sbi-securities",
-      "https://finwiki.zksc.io/securities/INDEX",
-      "https://finwiki.zksc.io/smbc-nikko"
+      "https://finwiki.zksc.io/securities-firms/smbc-nikko",
+      "https://finwiki.zksc.io/securities/INDEX"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3720,
-    "word_like_tokens": 540,
-    "inbound_wikilinks_count": 15,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 3961,
+    "word_like_tokens": 568,
+    "inbound_wikilinks_count": 20,
+    "last_modified": "2026-06-08"
   }
 }

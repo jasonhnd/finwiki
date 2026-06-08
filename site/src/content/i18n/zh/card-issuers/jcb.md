@@ -15,7 +15,7 @@ translated_at: 2026-05-31T23:05:42.090Z
 
 ## TL;DR
 
-**日本唯一的国际卡品牌。** 该公司在 1961-01  由旧三和银行、日本信贩等出资，以 Japan Credit Bureau 的形式成立；后来缩写 "JCB" 成为公司名和品牌名。它构成国际 5  大卡品牌（**Visa / Mastercard / American Express / Discover / JCB**）之一，并在**亚洲（日本、中国、韩国、台湾和东南亚）**具有优势。公司未上市，主要股东是以 [[mufg]] 系、[[smfg]] 系为中心的银行联盟。通过与美国 Discover、中国银联 (UnionPay) 的相互受理合作，JCB 覆盖全球超过 200  个国家和地区。在日本国内，它与 [[smfg]] 系三井住友卡 (Visa)、乐天卡等竞争。
+**日本唯一的国际卡品牌。** 该公司在 1961-01  由旧三和银行、日本信贩等出资，以 Japan Credit Bureau 的形式成立；后来缩写 "JCB" 成为公司名和品牌名。它构成国际 5  大卡品牌（**Visa / Mastercard / American Express / Discover / JCB**）之一，并在**亚洲（日本、中国、韩国、台湾和东南亚）**具有优势。公司未上市，主要股东是以 [[megabanks/mufg]] 系、[[megabanks/smfg]] 系为中心的银行联盟。通过与美国 Discover、中国银联 (UnionPay) 的相互受理合作，JCB 覆盖全球超过 200  个国家和地区。在日本国内，它与 [[megabanks/smfg]] 系三井住友卡 (Visa)、乐天卡等竞争。
 
 ## 1. 公司概要
 
@@ -35,8 +35,8 @@ translated_at: 2026-05-31T23:05:42.090Z
 
 | 股东 | 备注 |
 |---|---|
-| 三菱 UFJ 银行（[[mufg]] 系） | 继承旧三和银行系脉络 |
-| 三井住友 FG（[[smfg]] 系） | 来自旧太阳神户 + 三井 + 住友系银行脉络 |
+| 三菱 UFJ 银行（[[megabanks/mufg]] 系） | 继承旧三和银行系脉络 |
+| 三井住友 FG（[[megabanks/smfg]] 系） | 来自旧太阳神户 + 三井 + 住友系银行脉络 |
 | 三井住友信托银行 | 信托系 |
 | 其他银行系和关联公司 | 因未上市，详细持股比例披露有限 |
 
@@ -101,8 +101,8 @@ JCB Co., Ltd.（总部；未上市）
 
 ### 日本国内竞争结构
 
-- **Visa 合作卡**：三井住友卡（[[smfg]] 系，最大份额）/ 乐天卡 / 永旺卡等。
-- **Mastercard 合作**：乐天卡 / d 卡（[[ndfg]] 系）/ au PAY 卡等。
+- **Visa 合作卡**：三井住友卡（[[megabanks/smfg]] 系，最大份额）/ 乐天卡 / 永旺卡等。
+- **Mastercard 合作**：乐天卡 / d 卡（[[megabanks/ndfg]] 系）/ au PAY 卡等。
 - **JCB 品牌**：国内份额估计在 Visa 之后、约居第二（2 位；公开数值有限）。
 - **数字支付竞争**：PayPay、乐天 Pay、d 払い、au PAY 等二维码支付正在侵蚀“卡 + 移动支付”需求。
 
@@ -127,11 +127,11 @@ JCB Co., Ltd.（总部；未上市）
 
 ## Related
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]]（主要股东 / 母银行系）
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]（主要股东 / 母银行系）
 - 国际品牌竞争：Visa / Mastercard / American Express / Discover
-- 国内竞争：三井住友卡（[[smfg]] 系）/ 三菱 UFJ NICOS（[[mufg]] 系）/ 乐天卡 / d 卡（[[ndfg]] 系）
+- 国内竞争：三井住友卡（[[megabanks/smfg]] 系）/ 三菱 UFJ NICOS（[[megabanks/mufg]] 系）/ 乐天卡 / d 卡（[[megabanks/ndfg]] 系）
 - 亚洲支付：银联 (UnionPay) / Alipay / WeChat Pay
-- 数字支付：PayPay（[[paypay-fg]] 系）/ 乐天 Pay / d 払い / au PAY
+- 数字支付：PayPay（[[megabanks/paypay-fg]] 系）/ 乐天 Pay / d 払い / au PAY
 
 ## Sources
 

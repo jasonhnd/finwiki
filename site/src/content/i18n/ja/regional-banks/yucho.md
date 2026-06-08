@@ -107,8 +107,8 @@ translated_at: 2026-06-02T16:33:58.480Z
 
 ## 関連項目
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[ndfg]]
-- [[sbi-hd]] · [[paypay-fg]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[megabanks/ndfg]]
+- [[megabanks/sbi-hd]] · [[megabanks/paypay-fg]]
 
 ## 出典
 

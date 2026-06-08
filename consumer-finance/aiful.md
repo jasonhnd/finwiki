@@ -23,7 +23,7 @@ This entry sits under [[consumer-finance/INDEX|consumer-finance INDEX]]. Read it
 
 ## TL;DR
 
-京都発祥の消費者金融大手。**1967-04 福田吉孝が個人事業「丸三」として京都で創業**、1978 に「アイフル」に改称。業態は個人向け無担保ローン主軸（カードローン）+ クレジットカード（ライフカード子会社）+ 事業者ローン。**アコム（[[mufg]] 内）・プロミス（[[smfg]] 内）と並ぶ「3 大消費者金融」のうち、メガバンク系列に属さない独立系唯一の大手** ★。2006-2010 のグレーゾーン金利・過払い金返還問題で経営危機 → 事業再生 ADR 経由で再建。東証 PRIME 8515 上場。^[extracted]
+京都発祥の消費者金融大手。**1967-04 福田吉孝が個人事業「丸三」として京都で創業**、1978 に「アイフル」に改称。業態は個人向け無担保ローン主軸（カードローン）+ クレジットカード（ライフカード子会社）+ 事業者ローン。**アコム（[[megabanks/mufg]] 内）・プロミス（[[megabanks/smfg]] 内）と並ぶ「3 大消費者金融」のうち、メガバンク系列に属さない独立系唯一の大手** ★。2006-2010 のグレーゾーン金利・過払い金返還問題で経営危機 → 事業再生 ADR 経由で再建。東証 PRIME 8515 上場。^[extracted]
 
 ## 1. 会社概要
 
@@ -41,8 +41,8 @@ This entry sits under [[consumer-finance/INDEX|consumer-finance INDEX]]. Read it
 
 | 会社 | 系列 | 主要株主 |
 |---|---|---|
-| アコム | [[mufg]] グループ | 三菱 UFJ 銀行 持分法 39.6% |
-| プロミス（SMBC コンシューマーファイナンス）| [[smfg]] グループ | SMFG 100% 完全子会社 |
+| アコム | [[megabanks/mufg]] グループ | 三菱 UFJ 銀行 持分法 39.6% |
+| プロミス（SMBC コンシューマーファイナンス）| [[megabanks/smfg]] グループ | SMFG 100% 完全子会社 |
 | **アイフル** | **独立系**（メガバンク非系列）★ | **創業家・福田家中心の独立資本** |
 
 ### 主要グループ会社
@@ -59,7 +59,7 @@ This entry sits under [[consumer-finance/INDEX|consumer-finance INDEX]]. Read it
 
 ### 創業家・独立性
 
-**創業家・福田家中心の独立資本構造**が最大の特徴。アコム（[[mufg]] 持分法 39.6%）・プロミス（[[smfg]] 100% 完全子会社）と異なり、メガバンク系列に組み込まれていない大手消費者金融としては唯一。^[extracted]
+**創業家・福田家中心の独立資本構造**が最大の特徴。アコム（[[megabanks/mufg]] 持分法 39.6%）・プロミス（[[megabanks/smfg]] 100% 完全子会社）と異なり、メガバンク系列に組み込まれていない大手消費者金融としては唯一。^[extracted]
 
 ## 2. 事業セグメント・マップ
 
@@ -121,11 +121,11 @@ This entry sits under [[consumer-finance/INDEX|consumer-finance INDEX]]. Read it
 
 | 競合 | 系列 | アイフルとの差 |
 |---|---|---|
-| アコム | [[mufg]] 系列（持分法 39.6%）| 親会社の銀行 ATM・送客で先行、海外（タイ Easy Buy 等）展開 |
-| [[consumer-finance/smbc-consumer-finance|プロミス（SMBCコンシューマーファイナンス）]]| [[smfg]] 100% 完全子会社 | 親会社銀行との一体運営で送客効率高い |
-| 楽天カード・PayPay カード | [[rakuten-fg]] / [[paypay-fg]] | EC・決済プラットフォームと一体、若年層で先行 |
+| アコム | [[megabanks/mufg]] 系列（持分法 39.6%）| 親会社の銀行 ATM・送客で先行、海外（タイ Easy Buy 等）展開 |
+| [[consumer-finance/smbc-consumer-finance|プロミス（SMBCコンシューマーファイナンス）]]| [[megabanks/smfg]] 100% 完全子会社 | 親会社銀行との一体運営で送客効率高い |
+| 楽天カード・PayPay カード | [[payment-firms/rakuten-fg]] / [[megabanks/paypay-fg]] | EC・決済プラットフォームと一体、若年層で先行 |
 | 銀行カードローン | 全メガバンク・地銀 | 銀行直営の低金利カードローンが代替商品化 |
-| [[orico]] / [[credit-saison]] / [[jaccs]] | 信販系 | 個品割賦軸が異なる、消費者金融とは隣接 |
+| [[card-issuers/orico]] / [[card-issuers/credit-saison]] / [[card-issuers/jaccs]] | 信販系 | 個品割賦軸が異なる、消費者金融とは隣接 |
 
 ### 中期戦略（公開された方向性）
 
@@ -157,13 +157,13 @@ This entry sits under [[consumer-finance/INDEX|consumer-finance INDEX]]. Read it
 
 ## Related
 
-- [[mufg]] — 3 大消費者金融の競合（アコム持分法 39.6%）
-- [[smfg]] — 3 大消費者金融の競合（プロミス＝SMBCCF 100% 子会社）
-- [[jaccs]] — 信販大手・隣接業態
-- [[orico]] — 信販大手・隣接業態
-- [[credit-saison]] — 信販大手・隣接業態
-- [[rakuten-fg]] — 楽天カードによる若年層侵食
-- [[paypay-fg]] — PayPay カードによる決済プラットフォーム侵食
+- [[megabanks/mufg]] — 3 大消費者金融の競合（アコム持分法 39.6%）
+- [[megabanks/smfg]] — 3 大消費者金融の競合（プロミス＝SMBCCF 100% 子会社）
+- [[card-issuers/jaccs]] — 信販大手・隣接業態
+- [[card-issuers/orico]] — 信販大手・隣接業態
+- [[card-issuers/credit-saison]] — 信販大手・隣接業態
+- [[payment-firms/rakuten-fg]] — 楽天カードによる若年層侵食
+- [[megabanks/paypay-fg]] — PayPay カードによる決済プラットフォーム侵食
 
 ## Sources
 

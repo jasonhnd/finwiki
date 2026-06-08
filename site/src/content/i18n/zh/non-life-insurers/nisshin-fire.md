@@ -15,7 +15,7 @@ translated_at: 2026-06-01T00:41:50.422Z
 
 ## TL;DR
 
-日新火灾海上保险株式会社是列入金融厅损害保险公司牌照名单的非寿险公司。它与 [[tokio-marine]] 集团相邻，但在本 wiki 中作为区别于 [[tokio-marine-nichido-fire]] 和 [[tokio-marine-direct]] 的独立法人与运营公司 anchor 处理。
+日新火灾海上保险株式会社是列入金融厅损害保险公司牌照名单的非寿险公司。它与 [[non-life-insurers/tokio-marine]] 集团相邻，但在本 wiki 中作为区别于 [[non-life-insurers/tokio-marine-nichido-fire]] 和 [[non-life-insurers/tokio-marine-direct]] 的独立法人与运营公司 anchor 处理。
 
 ## 1. 牌照 / 集团边界
 
@@ -34,14 +34,14 @@ translated_at: 2026-06-01T00:41:50.422Z
 ## 3. 本页面为何重要
 
 - 补充 Tokio Marine 集团中另一个非寿险运营公司的边界。
-- 与 [[tokio-marine-nichido-fire]] 和 [[tokio-marine-direct]] 互为补充。
+- 与 [[non-life-insurers/tokio-marine-nichido-fire]] 和 [[non-life-insurers/tokio-marine-direct]] 互为补充。
 - 这是由登记名单支撑的 D5 专业非寿险页面。
 
 ## Related
 
-- [[tokio-marine]]
-- [[tokio-marine-nichido-fire]]
-- [[tokio-marine-direct]]
+- [[non-life-insurers/tokio-marine]]
+- [[non-life-insurers/tokio-marine-nichido-fire]]
+- [[non-life-insurers/tokio-marine-direct]]
 - [[insurance/INDEX]]
 
 ## Sources

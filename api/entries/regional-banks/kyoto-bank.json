@@ -47,36 +47,34 @@
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 9,
+    "wikilinks_count": 8,
     "wikilinks": [
       "banking/INDEX",
       "banking/regional-bank-consolidation-pattern",
-      "ikeda-senshu-bank",
-      "kansai-mirai-bank",
-      "kyoto-fg",
-      "nanto-bank",
       "regional-banks/INDEX",
+      "regional-banks/ikeda-senshu-bank",
       "regional-banks/kansai-mirai-bank",
-      "shiga-bank"
+      "regional-banks/kyoto-fg",
+      "regional-banks/nanto-bank",
+      "regional-banks/shiga-bank"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
-      "https://finwiki.zksc.io/ikeda-senshu-bank",
-      "https://finwiki.zksc.io/kansai-mirai-bank",
-      "https://finwiki.zksc.io/kyoto-fg",
-      "https://finwiki.zksc.io/nanto-bank",
       "https://finwiki.zksc.io/regional-banks/INDEX",
+      "https://finwiki.zksc.io/regional-banks/ikeda-senshu-bank",
       "https://finwiki.zksc.io/regional-banks/kansai-mirai-bank",
-      "https://finwiki.zksc.io/shiga-bank"
+      "https://finwiki.zksc.io/regional-banks/kyoto-fg",
+      "https://finwiki.zksc.io/regional-banks/nanto-bank",
+      "https://finwiki.zksc.io/regional-banks/shiga-bank"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1821,
-    "word_like_tokens": 291,
-    "inbound_wikilinks_count": 5,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 2016,
+    "word_like_tokens": 317,
+    "inbound_wikilinks_count": 7,
+    "last_modified": "2026-06-08"
   }
 }

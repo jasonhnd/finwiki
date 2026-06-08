@@ -16,7 +16,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-A second regional bank based in Okinawa Prefecture (TSE STD **8554**, abbreviated "**Kaigin**" / "Kai-gin"). It was **founded as 1949  Kokuba Mutual Bank** under U.S. military administration, before Okinawa's return to the mainland and during the B-yen currency period; converted to a Japanese bank license at the 1972-05  reversion of Okinawa; and **converted to an ordinary bank in 1989-04 ** as a member of the Second Association of Regional Banks. It is the No. 3  financial institution in Okinawa Prefecture. Against the two stronger top players, 2 行 (No. 1 in the prefecture = Bank of Okinawa under [[okinawa-fg]], and No. 2 = Bank of the Ryukyus [[ryukyu-bank]]), it secures a third-force position through a community-based niche strategy focused on **SME lending + personal lending + tourism + the U.S. military base economy + island coverage**. Its deposit / loan share is around the 10% level in the prefecture. The head office is in Kumoji, Naha City, in the same area and within walking distance of Okinawa Bank and Ryugin.
+A second regional bank based in Okinawa Prefecture (TSE STD **8554**, abbreviated "**Kaigin**" / "Kai-gin"). It was **founded as 1949  Kokuba Mutual Bank** under U.S. military administration, before Okinawa's return to the mainland and during the B-yen currency period; converted to a Japanese bank license at the 1972-05  reversion of Okinawa; and **converted to an ordinary bank in 1989-04 ** as a member of the Second Association of Regional Banks. It is the No. 3  financial institution in Okinawa Prefecture. Against the two stronger top players, 2 行 (No. 1 in the prefecture = Bank of Okinawa under [[regional-banks/okinawa-fg]], and No. 2 = Bank of the Ryukyus [[regional-banks/ryukyu-bank]]), it secures a third-force position through a community-based niche strategy focused on **SME lending + personal lending + tourism + the U.S. military base economy + island coverage**. Its deposit / loan share is around the 10% level in the prefecture. The head office is in Kumoji, Naha City, in the same area and within walking distance of Okinawa Bank and Ryugin.
 
 ## 1. Company overview
 
@@ -33,7 +33,7 @@ A second regional bank based in Okinawa Prefecture (TSE STD **8554**, abbreviate
 
 - **1949** **Kokuba Mutual Bank** established (capital denominated in B yen, under U.S. military administration)
   - Founding base: Okinawan business community, responding to SME and household finance needs during the postwar Okinawa economic reconstruction period
-  - The name "Kokuba" derives from local ties to the Okinawan conglomerate Kokuba-gumi (the lineage of Kokuba Kotaro, who was also involved when [[okinawa-fg]] Bank of Okinawa was founded) ^[likely]
+  - The name "Kokuba" derives from local ties to the Okinawan conglomerate Kokuba-gumi (the lineage of Kokuba Kotaro, who was also involved when [[regional-banks/okinawa-fg]] Bank of Okinawa was founded) ^[likely]
 - **1972-05-15** **Okinawa reversion to Japan**
   - Operations denominated in B yen / U.S. dollars under U.S. military administration shifted to yen-denominated business
   - Transferred to a licensed bank under Japan's Banking Act and Mutual Bank Act
@@ -45,8 +45,8 @@ A second regional bank based in Okinawa Prefecture (TSE STD **8554**, abbreviate
 
 | Bank | Prefectural position | Deposit / loan share | Founded | Form | Listing |
 |---|---|---|---|---|---|
-| **Bank of Okinawa** (under [[okinawa-fg]]) | Prefectural No. 1  | Approx. 30% | 1956  | Trust co-business + holding-company structure (2021-10) | PRIME 7350 (FG) |
-| **[[ryukyu-bank]]** (Bank of the Ryukyus) | Prefectural No. 2  | Around 25% | 1948 (USCAR ordinance) | Standalone listed bank | PRIME 8399  |
+| **Bank of Okinawa** (under [[regional-banks/okinawa-fg]]) | Prefectural No. 1  | Approx. 30% | 1956  | Trust co-business + holding-company structure (2021-10) | PRIME 7350 (FG) |
+| **[[regional-banks/ryukyu-bank]]** (Bank of the Ryukyus) | Prefectural No. 2  | Around 25% | 1948 (USCAR ordinance) | Standalone listed bank | PRIME 8399  |
 | **Okinawa Kaiho Bank** (Kaigin) | **Prefectural No. 3** | **Around 10%** | **1949 (Kokuba Mutual Bank)** | **Second regional bank / standalone listing** | **STD 8554** |
 
 - The No. 1 and No. 2  players form the "Okinawa Bank / Ryugin two-strong" structure, so Kaiho Bank retains a scale gap that directly becomes a competitiveness gap because it is a second regional bank
@@ -94,14 +94,14 @@ Common issues for member banks of the Second Association of Regional Banks (form
 
 ### Competitive / collaborative relationships
 
-- **Prefectural 3 行**: oligopoly among Okinawa Bank ([[okinawa-fg]]), [[ryukyu-bank]], and Kaiho Bank. 3 行 also has its head office concentrated close to **Kumoji, Naha City**, creating a prefectural financial-district structure
-- **[[okinawa-shinko]]** (Okinawa Development Finance Corporation): policy-finance complement. The standard pattern for prefectural businesses is financing through ODFC in a Shoko Chukin-like position plus private-sector 3 行
-- **Megabanks**: division of roles with [[mufg]], [[smfg]], and [[mizuho-fg]] prefectural offices for large corporate deals
-- **Second Association of Regional Banks membership**: information sharing and mutual ATM alliances with the nationwide second regional bank network ([[fidea-hd]], [[jimoto-hd]], etc.)
+- **Prefectural 3 行**: oligopoly among Okinawa Bank ([[regional-banks/okinawa-fg]]), [[regional-banks/ryukyu-bank]], and Kaiho Bank. 3 行 also has its head office concentrated close to **Kumoji, Naha City**, creating a prefectural financial-district structure
+- **[[financial-regulators/okinawa-shinko]]** (Okinawa Development Finance Corporation): policy-finance complement. The standard pattern for prefectural businesses is financing through ODFC in a Shoko Chukin-like position plus private-sector 3 行
+- **Megabanks**: division of roles with [[megabanks/mufg]], [[megabanks/smfg]], and [[megabanks/mizuho-fg]] prefectural offices for large corporate deals
+- **Second Association of Regional Banks membership**: information sharing and mutual ATM alliances with the nationwide second regional bank network ([[regional-banks/fidea-hd]], [[regional-banks/jimoto-hd]], etc.)
 
 ### Reorganization scenario
 
-- Current equilibrium is maintained. Unlike mainland second regional bank consolidation examples ([[fidea-hd]], Kita-Nippon FG, etc.), **Okinawa's 3 行-bank oligopoly has been stable over the long term**
+- Current equilibrium is maintained. Unlike mainland second regional bank consolidation examples ([[regional-banks/fidea-hd]], Kita-Nippon FG, etc.), **Okinawa's 3 行-bank oligopoly has been stable over the long term**
 
 ## 4. Regulation / policy
 
@@ -111,7 +111,7 @@ Common issues for member banks of the Second Association of Regional Banks (form
 - **Okinawa-specific regulation**:
   - Financial preference systems tied to the Act on Special Measures for Okinawa Promotion
   - Cooperation with the Okinawa Credit Guarantee Association
-  - Coordinated lending with the Okinawa Development Finance Corporation ([[okinawa-shinko]])
+  - Coordinated lending with the Okinawa Development Finance Corporation ([[financial-regulators/okinawa-shinko]])
 - **Recent policy topics**:
   - From 2024 onward, Bank of Japan policy-rate normalization -> recovery in deposit-loan margins (tailwind for second regional banks overall)
   - Expansion of financing demand alongside tourism's V-shaped recovery
@@ -120,11 +120,11 @@ Common issues for member banks of the Second Association of Regional Banks (form
 
 ## Related
 
-- [[okinawa-fg]] — Prefectural No. 1 (parent of Bank of Okinawa, holding-company conversion in 2021-10 )
-- [[ryukyu-bank]] — Prefectural No. 2 (established by 1948 USCAR ordinance; standalone listing)
-- [[okinawa-shinko]] — Okinawa Development Finance Corporation (policy-finance complement)
-- [[fidea-hd]] · [[jimoto-hd]] — Mainland second regional bank consolidation examples (reorganization comparators)
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] — Mega 3 行 (large prefectural deal competition / correspondent banking)
+- [[regional-banks/okinawa-fg]] — Prefectural No. 1 (parent of Bank of Okinawa, holding-company conversion in 2021-10 )
+- [[regional-banks/ryukyu-bank]] — Prefectural No. 2 (established by 1948 USCAR ordinance; standalone listing)
+- [[financial-regulators/okinawa-shinko]] — Okinawa Development Finance Corporation (policy-finance complement)
+- [[regional-banks/fidea-hd]] · [[regional-banks/jimoto-hd]] — Mainland second regional bank consolidation examples (reorganization comparators)
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] — Mega 3 行 (large prefectural deal competition / correspondent banking)
 - [[regional-banks/INDEX|regional-banks INDEX]]
 
 ## Sources
@@ -134,7 +134,7 @@ Common issues for member banks of the Second Association of Regional Banks (form
 - **Okinawa Kaiho Bank disclosure magazine** (public edition)
 - **Second Association of Regional Banks member list** (public)
 - General public information and statistics on Okinawa's financial industry
-- [[okinawa-fg]] / [[ryukyu-bank]] in-wiki cross references
+- [[regional-banks/okinawa-fg]] / [[regional-banks/ryukyu-bank]] in-wiki cross references
 
 ---
 

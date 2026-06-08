@@ -44,15 +44,15 @@ Mega Bank's Tokyo site provides the Japan branch route, while the overseas page 
 ## 3. Why this page matters
 
 - Adds one of the strategically important Taiwan foreign-bank branches.
-- Supports Taiwan peer analysis with [[bank-of-taiwan-japan]], [[ctbc-bank-japan]], and [[esun-bank-japan]].
-- Clarifies that Mega ICBC is the Taiwan bank, separate from mainland [[icbc-japan]].
+- Supports Taiwan peer analysis with [[foreign-financial-institutions/bank-of-taiwan-japan]], [[foreign-financial-institutions/ctbc-bank-japan]], and [[foreign-financial-institutions/esun-bank-japan]].
+- Clarifies that Mega ICBC is the Taiwan bank, separate from mainland [[foreign-financial-institutions/icbc-japan]].
 
 ## Related
 
-- [[bank-of-taiwan-japan]]
-- [[ctbc-bank-japan]]
-- [[esun-bank-japan]]
-- [[icbc-japan]]
+- [[foreign-financial-institutions/bank-of-taiwan-japan]]
+- [[foreign-financial-institutions/ctbc-bank-japan]]
+- [[foreign-financial-institutions/esun-bank-japan]]
+- [[foreign-financial-institutions/icbc-japan]]
 - [[banking/foreign-bank-japan-retreat]]
 
 ## Sources

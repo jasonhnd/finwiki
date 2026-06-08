@@ -93,7 +93,7 @@ Receiving bank → funds arrive in receiving currency
 - Applicable to any "blockchain + existing banking workflow" integration discussion
 - Interpreting the relationship between SWIFT reform (ISO 20022  / GPI / GPI for Corporates) and SC
 - Asia-originated cross-border SC design discussions (Korea KRW1  · Thailand Project Inthanon · Singapore Project Ubin)
-- Multi-chain SC transfer design in combination with [[cosmos-ibc-for-financial-institutions|Cosmos IBC for FI]]
+- Multi-chain SC transfer design in combination with [[fintech/cosmos-ibc-for-financial-institutions|Cosmos IBC for FI]]
 
 ---
 

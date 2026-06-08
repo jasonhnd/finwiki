@@ -158,7 +158,7 @@ SOMPO HD（控股公司/上市公司8630）
 
 ## 相关
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[ndfg]] · [[nomura-hd]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[megabanks/ndfg]] · [[securities-firms/nomura-hd]]
 - 国内3 普通保险：Tokio Marine HD (8766) / MS&AD HD (8725) / **SOMPO HD (8630)**
 
 ## 来源

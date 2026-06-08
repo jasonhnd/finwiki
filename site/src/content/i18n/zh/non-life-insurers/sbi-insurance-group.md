@@ -15,7 +15,7 @@ translated_at: 2026-06-01T00:41:50.390Z
 
 ## TL;DR
 
-这是 [[sbi-hd]] 的**保险业务统括中间控股公司**。**2017-04  设立**，是网络直销型保险业务平台。旗下拥有 **SBI 损害保险**（以汽车保险为主）/ **SBI 生命保险**（原 PCA 生命，定期死亡 + 医疗）/ **SBI Ikiiki 少额短期保险**（面向高龄者）/ **SBI Resta 少额短期保险**（地震费用保险）。集团战略是“**美国 Geico / Progressive 模式的日本版**”= 低价格、直销型 + 与 SBI 证券、[[sbi-shinsei-bank]]、住信 SBI 网络银行的**交叉销售**。2017-09  在东证 Mothers 上市 → 2023-09  由 SBI HD 完全子公司化（TOB 挤出）后再次非公开化。^[extracted]
+这是 [[megabanks/sbi-hd]] 的**保险业务统括中间控股公司**。**2017-04  设立**，是网络直销型保险业务平台。旗下拥有 **SBI 损害保险**（以汽车保险为主）/ **SBI 生命保险**（原 PCA 生命，定期死亡 + 医疗）/ **SBI Ikiiki 少额短期保险**（面向高龄者）/ **SBI Resta 少额短期保险**（地震费用保险）。集团战略是“**美国 Geico / Progressive 模式的日本版**”= 低价格、直销型 + 与 SBI 证券、[[regional-banks/sbi-shinsei-bank]]、住信 SBI 网络银行的**交叉销售**。2017-09  在东证 Mothers 上市 → 2023-09  由 SBI HD 完全子公司化（TOB 挤出）后再次非公开化。^[extracted]
 
 ## 1. 公司概要
 
@@ -23,8 +23,8 @@ translated_at: 2026-06-01T00:41:50.390Z
 **英文名称**: SBI Insurance Group Co., Ltd.
 **设立**: 2017-04-03（作为 SBI HD 的保险业务统括公司）^[extracted]
 **总部**: 东京都港区六本木 1-6-1（Izumi Garden Tower，与 SBI HD 同址）^[extracted]
-**母公司**: [[sbi-hd]]（100% 完全子公司）^[extracted]
-**上市历史**: 2018-09-27 东证 Mothers 上市 → 2022-04  东证市场重组后**转入东证 Growth 市场**（证券代码 7326，**目前仍持续上市**）。[[sbi-hd]] 作为合并子公司持有（截至 2025-03-31，议决权比例 **59.67%**，尚未实施完全子公司化）
+**母公司**: [[megabanks/sbi-hd]]（100% 完全子公司）^[extracted]
+**上市历史**: 2018-09-27 东证 Mothers 上市 → 2022-04  东证市场重组后**转入东证 Growth 市场**（证券代码 7326，**目前仍持续上市**）。[[megabanks/sbi-hd]] 作为合并子公司持有（截至 2025-03-31，议决权比例 **59.67%**，尚未实施完全子公司化）
 **业态**: 保险控股公司（少额短期保险控股 + 统括损害保险、生命保险子公司）
 
 ### 主要子公司
@@ -71,23 +71,23 @@ SBI HD（控股、上市 8473）
 
 - **网络直销保险**（直销型）= 排除代理店成本 → 低价诉求
 - **美国 Geico / Progressive 模式**: 以汽车保险为起点进行多产品交叉销售
-- **SBI 经济圈交叉销售**: 共享 SBI 证券 1300 万 个账户 + 住信 SBI 网络银行 + [[sbi-shinsei-bank]] 的客户基础
+- **SBI 经济圈交叉销售**: 共享 SBI 证券 1300 万 个账户 + 住信 SBI 网络银行 + [[regional-banks/sbi-shinsei-bank]] 的客户基础
 - 通过 4  个产品群（损保 + 生保 + 高龄者少短 + 地震少短）覆盖全生命周期
 
 ### 合作 / 收购战略
 
-- **完全子公司化**（2023-09）: 削减维持上市成本 + 提高经营判断速度 + [[sbi-hd]] 经济圈一体运营
+- **完全子公司化**（2023-09）: 削减维持上市成本 + 提高经营判断速度 + [[megabanks/sbi-hd]] 经济圈一体运营
 - **SBI 经济圈内部联动**: 设计证券开户时提出保险方案、新生银行贷款合同搭配火灾保险等协同
 
 ### 竞争对手
 
 | 类别 | 竞争对手 | 备注 |
 |---|---|---|
-| 网络直销生保 | [[lifenet]] | 行业先驱，SBI 生命最大竞争对手 |
-| 网络直销损保（汽车）| [[axa-japan]] AXA Direct | 直销型汽车保险最大公司之一 |
-| 网络直销损保（汽车）| [[sony-fg]] Sony Assurance | 直销型损保最大公司 |
-| 外资直销损保 | [[zurich-japan]] Zurich | 汽车、医疗直销 |
-| 异业种网络损保 | [[rakuten-fg]] Rakuten General Insurance | 以 Rakuten 经济圈为基础，结构相似 |
+| 网络直销生保 | [[life-insurers/lifenet]] | 行业先驱，SBI 生命最大竞争对手 |
+| 网络直销损保（汽车）| [[life-insurers/axa-japan]] AXA Direct | 直销型汽车保险最大公司之一 |
+| 网络直销损保（汽车）| [[megabanks/sony-fg]] Sony Assurance | 直销型损保最大公司 |
+| 外资直销损保 | [[non-life-insurers/zurich-japan]] Zurich | 汽车、医疗直销 |
+| 异业种网络损保 | [[payment-firms/rakuten-fg]] Rakuten General Insurance | 以 Rakuten 经济圈为基础，结构相似 |
 | 少短（高龄者、地震）| 各少额短期保险公司 | 碎片化市场 |
 
 ## 4. 监管 / 政策
@@ -101,7 +101,7 @@ SBI HD（控股、上市 8473）
 
 ## Related
 
-- [[sbi-hd]]（母公司）· [[sbi-shinsei-bank]] · [[lifenet]] · [[axa-japan]] · [[sony-fg]] · [[zurich-japan]] · [[rakuten-fg]] · [[prudential-japan]]
+- [[megabanks/sbi-hd]]（母公司）· [[regional-banks/sbi-shinsei-bank]] · [[life-insurers/lifenet]] · [[life-insurers/axa-japan]] · [[megabanks/sony-fg]] · [[non-life-insurers/zurich-japan]] · [[payment-firms/rakuten-fg]] · [[life-insurers/prudential-japan]]
 
 ## Sources
 
@@ -109,7 +109,7 @@ SBI HD（控股、上市 8473）
 - **Wikipedia: SBI 损害保险**（2026-05-19 抽出）
 - **Wikipedia: SBI 生命保险**（2026-05-19 抽出，确认原 PCA 生命于 2015-04  改名）
 - SBI HD 官方 / 保险业务 IR（2026-05-19 抽出）
-- **SBI 保险集团 IR 股票信息**（https://www.sbiig.co.jp/ir/stock/information.html, 2026-05-29 参照）── 确认证券代码 7326、东证 Growth 市场、持续上市（2018-09-27 Mothers 上市 → 2022-04  转入 Growth，[[sbi-hd]] 议决权 59.67%、截至 2025-03-31）
+- **SBI 保险集团 IR 股票信息**（https://www.sbiig.co.jp/ir/stock/information.html, 2026-05-29 参照）── 确认证券代码 7326、东证 Growth 市场、持续上市（2018-09-27 Mothers 上市 → 2022-04  转入 Growth，[[megabanks/sbi-hd]] 议决权 59.67%、截至 2025-03-31）
 
 ---
 

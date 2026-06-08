@@ -16,7 +16,7 @@ translated_at: 2026-06-02T16:33:58.478Z
 
 ## 要約
 
-東京海上日動火災保険株式会社は、[[tokio-marine]] group の中核損害保険事業会社です。金融庁の損害保険会社免許一覧と損害保険契約者保護機構会員一覧に掲載される独立した保険会社であり、親持株会社とは別に、引受、保険金支払、代理店ネットワークの境界を持ちます。
+東京海上日動火災保険株式会社は、[[non-life-insurers/tokio-marine]] group の中核損害保険事業会社です。金融庁の損害保険会社免許一覧と損害保険契約者保護機構会員一覧に掲載される独立した保険会社であり、親持株会社とは別に、引受、保険金支払、代理店ネットワークの境界を持ちます。
 
 ## 1. ライセンス・グループ境界
 
@@ -25,7 +25,7 @@ translated_at: 2026-06-02T16:33:58.478Z
 | 法人名 | 東京海上日動火災保険株式会社 |
 | 免許ルート | 保険業法上の損害保険会社、FSA 損害保険会社一覧 |
 | 保護制度 | 損害保険契約者保護機構会員 |
-| グループ境界 | [[tokio-marine]] 中核損害保険事業会社 |
+| グループ境界 | [[non-life-insurers/tokio-marine]] 中核損害保険事業会社 |
 | ウィキ上の役割 | Tokio Marine group の日本損害保険引受部門 |
 
 ## 2. 事業モデル
@@ -34,14 +34,14 @@ translated_at: 2026-06-02T16:33:58.478Z
 
 ## 3. このページが重要な理由
 
-- 親会社 [[tokio-marine]] のページだけでは、商品、保険金支払、代理店分析には不十分。
-- [[mitsui-sumitomo-insurance]]、[[aioi-nissay-dowa-insurance]]、[[sompo-japan-insurance]] との中核的な比較点になる。
+- 親会社 [[non-life-insurers/tokio-marine]] のページだけでは、商品、保険金支払、代理店分析には不十分。
+- [[non-life-insurers/mitsui-sumitomo-insurance]]、[[non-life-insurers/aioi-nissay-dowa-insurance]]、[[non-life-insurers/sompo-japan-insurance]] との中核的な比較点になる。
 - 登録に裏づけられた D3  損害保険大手ページ。
 
 ## 関連項目
 
-- [[tokio-marine]]
-- [[tokio-marine-nichido-life]]
+- [[non-life-insurers/tokio-marine]]
+- [[life-insurers/tokio-marine-nichido-life]]
 - [[insurance/natcat-reinsurance-japan]]
 - [[insurance/INDEX]]
 

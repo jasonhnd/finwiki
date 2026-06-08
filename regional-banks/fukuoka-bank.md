@@ -49,17 +49,17 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 ## 4. Why this page matters
 
 - Closes the FSA exact-name operating-company gap for 福岡銀行.
-- Separates the bank license from [[fukuoka-fg]] holding-company strategy.
-- Provides a peer anchor for [[nishi-nippon-city-bank]], [[chikuho-bank]], [[kitakyushu-bank]], and [[18-shinwa-bank]].
+- Separates the bank license from [[regional-banks/fukuoka-fg]] holding-company strategy.
+- Provides a peer anchor for [[regional-banks/nishi-nippon-city-bank]], [[regional-banks/chikuho-bank]], [[regional-banks/kitakyushu-bank]], and [[regional-banks/18-shinwa-bank]].
 
 ## Related
 
 - [[regional-banks/INDEX|regional-banks INDEX]]
-- [[fukuoka-fg]]
-- [[nishi-nippon-city-bank]]
-- [[chikuho-bank]]
-- [[kitakyushu-bank]]
-- [[18-shinwa-bank]]
+- [[regional-banks/fukuoka-fg]]
+- [[regional-banks/nishi-nippon-city-bank]]
+- [[regional-banks/chikuho-bank]]
+- [[regional-banks/kitakyushu-bank]]
+- [[regional-banks/18-shinwa-bank]]
 - [[financial-regulators/fsa|FSA]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]

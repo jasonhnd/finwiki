@@ -17,7 +17,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ##TL;DR
 
-Ehime Bank, Ltd. is the second regional bank with its head office in Ehime Prefecture, listed on the Financial Services Agency's list of bank licenses. It is a second-regional-bank operating-company anchor in Ehime Prefecture, and is treated as a peer of a separate corporation from [[iyo-bank|伊予銀行]].
+Ehime Bank, Ltd. is the second regional bank with its head office in Ehime Prefecture, listed on the Financial Services Agency's list of bank licenses. It is a second-regional-bank operating-company anchor in Ehime Prefecture, and is treated as a peer of a separate corporation from [[regional-banks/iyo-bank|伊予銀行]].
 
 ## 1. License / group boundary
 
@@ -31,21 +31,21 @@ Ehime Bank, Ltd. is the second regional bank with its head office in Ehime Prefe
 
 ## 2. Operating model
 
-Ehime Bank is a second regional bank that is responsible for retail deposits, SME finance, local relationship banking, and Shikoku-area customer support, mainly in Ehime Prefecture. Within Ehime Prefecture, there are [[iyo-bank]] / [[iyogin-hd]] side and first / second-regional-bank peer boundaries. See [[banking/regional-bank-consolidation-pattern]] for Shikoku second-regional-bank consolidation pressure.
+Ehime Bank is a second regional bank that is responsible for retail deposits, SME finance, local relationship banking, and Shikoku-area customer support, mainly in Ehime Prefecture. Within Ehime Prefecture, there are [[regional-banks/iyo-bank]] / [[regional-banks/iyogin-hd]] side and first / second-regional-bank peer boundaries. See [[banking/regional-bank-consolidation-pattern]] for Shikoku second-regional-bank consolidation pressure.
 
 ## 3. Why this page matters
 
 - Closes the FSA exact-name page for Ehime Bank.
-- Separates Ehime second-regional-bank coverage from [[iyo-bank]] and [[iyogin-hd]].
+- Separates Ehime second-regional-bank coverage from [[regional-banks/iyo-bank]] and [[regional-banks/iyogin-hd]].
 - Provides a bank-level anchor for Shikoku regional-bank comparison.
 
 ## Related
 
-- [[iyo-bank]]
-- [[iyogin-hd]]
-- [[hyakujushi-bank]]
-- [[awa-bank]]
-- [[shikoku-bank]]
+- [[regional-banks/iyo-bank]]
+- [[regional-banks/iyogin-hd]]
+- [[regional-banks/hyakujushi-bank]]
+- [[regional-banks/awa-bank]]
+- [[regional-banks/shikoku-bank]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 

@@ -24,7 +24,7 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 
 ## TL;DR
 
-富国生命保険相互会社は、金融庁 life-insurer list と生命保険協会会員一覧に載る mutual life-insurance operating company。大手 4 社ほどの規模 headline はないが、相互会社形態の independent life insurer として、[[asahi-life]]、[[nippon-life]]、[[meiji-yasuda]]、[[sumitomo-life]] と同じ governance category で扱う。
+富国生命保険相互会社は、金融庁 life-insurer list と生命保険協会会員一覧に載る mutual life-insurance operating company。大手 4 社ほどの規模 headline はないが、相互会社形態の independent life insurer として、[[life-insurers/asahi-life]]、[[life-insurers/nippon-life]]、[[life-insurers/meiji-yasuda]]、[[life-insurers/sumitomo-life]] と同じ governance category で扱う。
 
 ## 1. License / group boundary
 
@@ -50,10 +50,10 @@ Mutual life insurers are not listed equity plays; analysis should avoid using li
 
 ## Related
 
-- [[asahi-life]]
-- [[nippon-life]]
-- [[meiji-yasuda]]
-- [[sumitomo-life]]
+- [[life-insurers/asahi-life]]
+- [[life-insurers/nippon-life]]
+- [[life-insurers/meiji-yasuda]]
+- [[life-insurers/sumitomo-life]]
 - [[insurance/mutual-vs-stock-life-insurer]]
 - [[insurance/INDEX]]
 

@@ -15,7 +15,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-Musashino Bank is an independent first-tier regional bank based in Saitama Prefecture, listed on TSE PRIME under **8336**, with its head office in Omiya-ku, Saitama City. It was founded on 1952-03-06 as a postwar newly established regional bank to supplement SME finance in Saitama, and listed on the Tokyo Stock Exchange in 1973 . Known as **Musashino**, it competes locally with **Saitama Resona Bank**, a [[resona-hd]] subsidiary with the No.1 share, while participating in the **TSUBASA Alliance**, the [[chiba-bank]]-led regional-bank operating alliance, to share IT, overseas, and market-operation capabilities. It has not moved to a holding-company structure and continues as a standalone bank. ^[extracted]
+Musashino Bank is an independent first-tier regional bank based in Saitama Prefecture, listed on TSE PRIME under **8336**, with its head office in Omiya-ku, Saitama City. It was founded on 1952-03-06 as a postwar newly established regional bank to supplement SME finance in Saitama, and listed on the Tokyo Stock Exchange in 1973 . Known as **Musashino**, it competes locally with **Saitama Resona Bank**, a [[megabanks/resona-hd]] subsidiary with the No.1 share, while participating in the **TSUBASA Alliance**, the [[regional-banks/chiba-bank]]-led regional-bank operating alliance, to share IT, overseas, and market-operation capabilities. It has not moved to a holding-company structure and continues as a standalone bank. ^[extracted]
 
 ## 1. Company overview
 
@@ -34,7 +34,7 @@ Musashino Bank is an independent first-tier regional bank based in Saitama Prefe
 | **1952-03-06** | **Musashino Bank established** as a postwar regional bank to supplement SME finance in Saitama Prefecture. |
 | 1973  | **Listed on the Tokyo Stock Exchange**. |
 | 2003  | **Business alliance with Chiba Bank**, later becoming pre-history for the TSUBASA Alliance. |
-| 2015  | **Joined the TSUBASA Alliance**, the [[chiba-bank]]-led regional-bank alliance. |
+| 2015  | **Joined the TSUBASA Alliance**, the [[regional-banks/chiba-bank]]-led regional-bank alliance. |
 | 2022-04  | Shifted to TSE PRIME after market-segment reorganization. |
 | 2024  | Medium-term management plan started. |
 
@@ -44,7 +44,7 @@ Musashino Bank is an independent first-tier regional bank based in Saitama Prefe
 Musashino Bank (standalone / TSE PRIME 8336)
   ├── Related subsidiaries for leasing, cards, guarantees, consulting, and prefectural business support
   └── TSUBASA Alliance (business alliance without equity control)
-        ├── Chiba Bank (lead bank) [[chiba-bank]]
+        ├── Chiba Bank (lead bank) [[regional-banks/chiba-bank]]
         ├── Daishi Hokuetsu Bank
         ├── Chugoku Bank
         ├── Iyo Bank
@@ -79,7 +79,7 @@ Key market traits:
 
 ### TSUBASA Alliance participation 2015 onward
 
-**TSUBASA Alliance** is a [[chiba-bank]]-led alliance of regional banks. Musashino Bank joined in 2015 年, with a pre-history of business cooperation with Chiba Bank from 2003 年. ^[extracted]
+**TSUBASA Alliance** is a [[regional-banks/chiba-bank]]-led alliance of regional banks. Musashino Bank joined in 2015 年, with a pre-history of business cooperation with Chiba Bank from 2003 年. ^[extracted]
 
 Main cooperation areas:
 
@@ -91,7 +91,7 @@ Main cooperation areas:
 
 ### No holding-company conversion
 
-Megabanks and [[fukuoka-fg]], [[concordia-fg]], [[hokuhoku-fg]] and similar groups use holding-company structures, but Musashino Bank continues to operate as a **standalone bank**.
+Megabanks and [[regional-banks/fukuoka-fg]], [[regional-banks/concordia-fg]], [[regional-banks/hokuhoku-fg]] and similar groups use holding-company structures, but Musashino Bank continues to operate as a **standalone bank**.
 
 ## 4. Regulation / policy
 
@@ -105,9 +105,9 @@ Megabanks and [[fukuoka-fg]], [[concordia-fg]], [[hokuhoku-fg]] and similar grou
 
 ## Related
 
-- [[chiba-bank]] · [[resona-hd]] · [[gunma-bank]] · [[concordia-fg]]
-- [[fukuoka-fg]] · [[hokuhoku-fg]]
-- [[mufg]] · [[smfg]] · [[mizuho-fg]]
+- [[regional-banks/chiba-bank]] · [[megabanks/resona-hd]] · [[regional-banks/gunma-bank]] · [[regional-banks/concordia-fg]]
+- [[regional-banks/fukuoka-fg]] · [[regional-banks/hokuhoku-fg]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]
 
 ## Sources
 

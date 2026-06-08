@@ -133,7 +133,7 @@ Money Forward (holding / listed company 3994)
 
 ## Related
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[sbi-hd]] · [[ndfg]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[megabanks/sbi-hd]] · [[megabanks/ndfg]]
 - [[payment-firms/INDEX|payment-firms INDEX]] (TSE Prime fintech category)
 
 ## Sources

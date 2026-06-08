@@ -15,7 +15,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-The Shikoku Bank, Ltd. is a regional bank headquartered in Kochi Prefecture and listed on the FSA bank license list. It is the Kochi first-regional-bank operating-company anchor and is treated as a regional-bank peer legal entity separate from [[kochi-bank|高知銀行]].
+The Shikoku Bank, Ltd. is a regional bank headquartered in Kochi Prefecture and listed on the FSA bank license list. It is the Kochi first-regional-bank operating-company anchor and is treated as a regional-bank peer legal entity separate from [[regional-banks/kochi-bank|高知銀行]].
 
 ## 1. License / group boundary
 
@@ -29,20 +29,20 @@ The Shikoku Bank, Ltd. is a regional bank headquartered in Kochi Prefecture and 
 
 ## 2. Operating model
 
-Shikoku Bank is a regional bank centered on Kochi Prefecture, providing retail deposits, SME finance, local corporate lending, and Shikoku-area relationship banking. Within Kochi Prefecture it has a first / second-regional-bank peer boundary with [[kochi-bank]]. For Shikoku regional-bank consolidation context, see [[banking/INDEX|banking index]] and [[regional-banks/INDEX|regional-banks INDEX]].
+Shikoku Bank is a regional bank centered on Kochi Prefecture, providing retail deposits, SME finance, local corporate lending, and Shikoku-area relationship banking. Within Kochi Prefecture it has a first / second-regional-bank peer boundary with [[regional-banks/kochi-bank]]. For Shikoku regional-bank consolidation context, see [[banking/INDEX|banking index]] and [[regional-banks/INDEX|regional-banks INDEX]].
 
 ## 3. Why this page matters
 
 - Closes the FSA exact-name operating-company gap for Shikoku Bank.
-- Separates Kochi first-regional-bank coverage from [[kochi-bank]].
-- Provides a Shikoku peer anchor for [[awa-bank]], [[hyakujushi-bank]], and [[iyo-bank]].
+- Separates Kochi first-regional-bank coverage from [[regional-banks/kochi-bank]].
+- Provides a Shikoku peer anchor for [[regional-banks/awa-bank]], [[regional-banks/hyakujushi-bank]], and [[regional-banks/iyo-bank]].
 
 ## Related
 
-- [[kochi-bank]]
-- [[awa-bank]]
-- [[hyakujushi-bank]]
-- [[iyo-bank]]
+- [[regional-banks/kochi-bank]]
+- [[regional-banks/awa-bank]]
+- [[regional-banks/hyakujushi-bank]]
+- [[regional-banks/iyo-bank]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 

@@ -15,7 +15,7 @@ translated_at: 2026-06-01T00:41:50.454Z
 
 ## TL;DR
 
-楽天インシュアランスホールディングス株式会社是列入金融厅保险持股公司认可名单的 Rakuten insurance holding company。应将其视为汇总 [[rakuten-life]]、[[rakuten-general-insurance]] 以及保险代理 / 规划功能的 group strategy anchor。
+楽天インシュアランスホールディングス株式会社是列入金融厅保险持股公司认可名单的 Rakuten insurance holding company。应将其视为汇总 [[life-insurers/rakuten-life]]、[[non-life-insurers/rakuten-general-insurance]] 以及保险代理 / 规划功能的 group strategy anchor。
 
 ## 1. 牌照 / 集团边界
 
@@ -23,8 +23,8 @@ translated_at: 2026-06-01T00:41:50.454Z
 |---|---|
 | 法定名称 | 楽天インシュアランスホールディングス株式会社 |
 | 牌照路径 | 保险持股公司；FSA 保险持股公司名单 |
-| 集团边界 | [[rakuten-fg]] 邻接下的 Rakuten insurance group |
-| 核心运营页面 | [[rakuten-life]], [[rakuten-general-insurance]] |
+| 集团边界 | [[payment-firms/rakuten-fg]] 邻接下的 Rakuten insurance group |
+| 核心运营页面 | [[life-insurers/rakuten-life]], [[non-life-insurers/rakuten-general-insurance]] |
 | Wiki 角色 | Rakuten 保险生态的持股公司页面 |
 
 ## 2. 运营模型
@@ -39,11 +39,11 @@ Rakuten 的保险战略最适合在持股公司层面理解：人寿保险、损
 
 ## Related
 
-- [[rakuten-fg]]
-- [[rakuten-life]]
-- [[rakuten-general-insurance]]
-- [[rakuten-card]]
-- [[rakuten-edy]]
+- [[payment-firms/rakuten-fg]]
+- [[life-insurers/rakuten-life]]
+- [[non-life-insurers/rakuten-general-insurance]]
+- [[card-issuers/rakuten-card]]
+- [[payment-firms/rakuten-edy]]
 
 ## Sources
 

@@ -16,7 +16,7 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 
 ## TL;DR
 
-Tokio Marine Direct General Insurance Co., Ltd. is the direct non-life insurer of the [[tokio-marine]] group. It has the lineage of the former eDesign Insurance and is listed under its current legal name in the FSA non-life insurance company license list. It is a direct-channel operating company separate from [[tokio-marine-nichido-fire]].
+Tokio Marine Direct General Insurance Co., Ltd. is the direct non-life insurer of the [[non-life-insurers/tokio-marine]] group. It has the lineage of the former eDesign Insurance and is listed under its current legal name in the FSA non-life insurance company license list. It is a direct-channel operating company separate from [[non-life-insurers/tokio-marine-nichido-fire]].
 
 ## 1. License / group boundary
 
@@ -26,11 +26,11 @@ Tokio Marine Direct General Insurance Co., Ltd. is the direct non-life insurer o
 | Former brand | eDesign Insurance |
 | License route | Insurance Business Act non-life insurance company; FSA non-life insurer list |
 | Protection scheme | Non-Life Insurance Policyholders Protection Corporation member |
-| Group boundary | [[tokio-marine]] direct non-life operating company |
+| Group boundary | [[non-life-insurers/tokio-marine]] direct non-life operating company |
 
 ## 2. Operating model
 
-Tokio Marine Direct is the group's direct / digital non-life arm, separate from the traditional agency-led [[tokio-marine-nichido-fire]]. The split lets Tokio Marine operate both full-service agency channels and digital direct auto insurance under separate brands and systems.
+Tokio Marine Direct is the group's direct / digital non-life arm, separate from the traditional agency-led [[non-life-insurers/tokio-marine-nichido-fire]]. The split lets Tokio Marine operate both full-service agency channels and digital direct auto insurance under separate brands and systems.
 
 ## 3. Why this page matters
 
@@ -40,10 +40,10 @@ Tokio Marine Direct is the group's direct / digital non-life arm, separate from 
 
 ## Related
 
-- [[tokio-marine]]
-- [[tokio-marine-nichido-fire]]
-- [[sony-insurance]]
-- [[sompo-direct]]
+- [[non-life-insurers/tokio-marine]]
+- [[non-life-insurers/tokio-marine-nichido-fire]]
+- [[non-life-insurers/sony-insurance]]
+- [[non-life-insurers/sompo-direct]]
 - [[insurance/INDEX]]
 
 ## Sources

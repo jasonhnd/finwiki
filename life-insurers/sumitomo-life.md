@@ -22,7 +22,7 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 
 ## TL;DR
 
-日本大手 4 生保の一角を占める **相互会社形態の生命保険会社**（社員 = 契約者）。1907-05-15 創業（旧 日之出生命、住友家系）、本拠地は大阪市中央区。**「住友生命 Vitality」健康増進型保険**で他大手 4 生保に対する差別化を打ち出し、米 **Symetra Financial**（2016-02 完全子会社化、約 5000 億円）と シンガポール **Singlife**（2017〜2024 段階的買収完了）の 2 大海外プラットフォームを保有。日本生命・第一生命に次ぎ、明治安田生命（[[meiji-yasuda]]）と 4 位を争う。^[extracted]
+日本大手 4 生保の一角を占める **相互会社形態の生命保険会社**（社員 = 契約者）。1907-05-15 創業（旧 日之出生命、住友家系）、本拠地は大阪市中央区。**「住友生命 Vitality」健康増進型保険**で他大手 4 生保に対する差別化を打ち出し、米 **Symetra Financial**（2016-02 完全子会社化、約 5000 億円）と シンガポール **Singlife**（2017〜2024 段階的買収完了）の 2 大海外プラットフォームを保有。日本生命・第一生命に次ぎ、明治安田生命（[[life-insurers/meiji-yasuda]]）と 4 位を争う。^[extracted]
 
 ## 1. 会社概要
 
@@ -39,7 +39,7 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 | 区分 | 内容 |
 |---|---|
 | 業界順位 | 大手 4 生保の一角（保険料等収入で 3〜4 位レンジ）|
-| 競合 | [[meiji-yasuda]]・日本生命・第一生命 HD |
+| 競合 | [[life-insurers/meiji-yasuda]]・日本生命・第一生命 HD |
 | 形態 | 相互会社（明治安田・日本生命 と同じ非上場形態）|
 | 拠点性格 | **関西発・大阪本拠地**（関西経済圏に強み）|
 
@@ -98,7 +98,7 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 
 - **非上場・社員 = 契約者**: 株主圧力なし、長期視点経営が可能（vs 上場第一生命 HD）
 - **総代会方式**: ガバナンスは社員総代（契約者代表）が担う
-- 明治安田生命（[[meiji-yasuda]]）・日本生命と同じ相互会社形態、第一生命 HD のみが 2010 株式会社化・上場済 ^[extracted]
+- 明治安田生命（[[life-insurers/meiji-yasuda]]）・日本生命と同じ相互会社形態、第一生命 HD のみが 2010 株式会社化・上場済 ^[extracted]
 
 ### 関西発の強み
 
@@ -117,8 +117,8 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 
 ## Related
 
-- [[meiji-yasuda]] · 日本生命 · 第一生命 HD（大手 4 生保）
-- [[mufg]] · [[smfg]] · [[mizuho-fg]]（住友グループ横連携）
+- [[life-insurers/meiji-yasuda]] · 日本生命 · 第一生命 HD（大手 4 生保）
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]（住友グループ横連携）
 
 ## Sources
 

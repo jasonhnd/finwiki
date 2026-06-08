@@ -15,7 +15,7 @@ translated_at: 2026-05-31T23:59:49.333Z
 
 ## TL;DR
 
-三井住友海上 Primary 生命保险株式会社是 [[msad]] 集团旗下的 life-insurance operating company。应将其作为负责金融机构渠道和年金 / 储蓄型产品的 specialist，与 [[mitsui-sumitomo-aioi-life]] 区分处理。
+三井住友海上 Primary 生命保险株式会社是 [[non-life-insurers/msad]] 集团旗下的 life-insurance operating company。应将其作为负责金融机构渠道和年金 / 储蓄型产品的 specialist，与 [[life-insurers/mitsui-sumitomo-aioi-life]] 区分处理。
 
 ## 1. 牌照 / 集团边界
 
@@ -24,21 +24,21 @@ translated_at: 2026-05-31T23:59:49.333Z
 | 法定名称 | 三井住友海上プライマリー生命保険株式会社 |
 | 牌照路径 | 《保险业法》生命保险公司；FSA 寿险公司名单 |
 | 行业团体 | 日本生命保险协会会员 |
-| 集团边界 | [[msad]] life-insurance specialist |
+| 集团边界 | [[non-life-insurers/msad]] life-insurance specialist |
 | Wiki 角色 | MS&AD 金融机构渠道寿险公司 |
 
 ## 2. 本页为何重要
 
 - 补齐 FSA 41 精确名称缺口。
-- 与 [[mitsui-sumitomo-aioi-life]] 一起补完 MS&AD 的寿险分工。
-- 可作为 [[dai-ichi-frontier-life]]、[[pgf-life]]、[[td-financial-life]] 的有用同业参照。
+- 与 [[life-insurers/mitsui-sumitomo-aioi-life]] 一起补完 MS&AD 的寿险分工。
+- 可作为 [[life-insurers/dai-ichi-frontier-life]]、[[life-insurers/pgf-life]]、[[life-insurers/td-financial-life]] 的有用同业参照。
 
 ## Related
 
-- [[msad]]
-- [[mitsui-sumitomo-aioi-life]]
-- [[dai-ichi-frontier-life]]
-- [[pgf-life]]
+- [[non-life-insurers/msad]]
+- [[life-insurers/mitsui-sumitomo-aioi-life]]
+- [[life-insurers/dai-ichi-frontier-life]]
+- [[life-insurers/pgf-life]]
 - [[insurance/life-insurance-channel-mix]]
 
 ## Sources

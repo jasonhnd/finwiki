@@ -51,31 +51,31 @@
     "wikilinks_count": 8,
     "wikilinks": [
       "banking/INDEX",
-      "citigroup-japan",
       "foreign-financial-institutions/INDEX",
       "foreign-financial-institutions/bank-of-america-japan",
-      "jpmorgan-japan",
-      "mizuho-fg",
-      "mufg",
-      "smfg"
+      "foreign-financial-institutions/citigroup-japan",
+      "foreign-financial-institutions/jpmorgan-japan",
+      "megabanks/mizuho-fg",
+      "megabanks/mufg",
+      "megabanks/smfg"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/citigroup-japan",
       "https://finwiki.zksc.io/foreign-financial-institutions/INDEX",
       "https://finwiki.zksc.io/foreign-financial-institutions/bank-of-america-japan",
-      "https://finwiki.zksc.io/jpmorgan-japan",
-      "https://finwiki.zksc.io/mizuho-fg",
-      "https://finwiki.zksc.io/mufg",
-      "https://finwiki.zksc.io/smfg"
+      "https://finwiki.zksc.io/foreign-financial-institutions/citigroup-japan",
+      "https://finwiki.zksc.io/foreign-financial-institutions/jpmorgan-japan",
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/smfg"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4583,
-    "word_like_tokens": 709,
+    "nonspace_chars": 4829,
+    "word_like_tokens": 733,
     "inbound_wikilinks_count": 7,
-    "last_modified": "2026-06-06"
+    "last_modified": "2026-06-08"
   }
 }

@@ -55,11 +55,11 @@
       "exchanges/jp-exchange-coincheck",
       "exchanges/jp-exchange-rakuten-wallet",
       "exchanges/jp-exchange-sbi-vc-trade",
-      "gmo-coin",
-      "mufg",
-      "ndfg",
+      "megabanks/mufg",
+      "megabanks/ndfg",
+      "megabanks/sbi-hd",
       "payment-firms/INDEX",
-      "sbi-hd",
+      "payment-firms/gmo-coin",
       "securities-firms/monex-group",
       "systems/bitflyer-blockchain"
     ],
@@ -69,11 +69,11 @@
       "https://finwiki.zksc.io/exchanges/jp-exchange-coincheck",
       "https://finwiki.zksc.io/exchanges/jp-exchange-rakuten-wallet",
       "https://finwiki.zksc.io/exchanges/jp-exchange-sbi-vc-trade",
-      "https://finwiki.zksc.io/gmo-coin",
-      "https://finwiki.zksc.io/mufg",
-      "https://finwiki.zksc.io/ndfg",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/ndfg",
+      "https://finwiki.zksc.io/megabanks/sbi-hd",
       "https://finwiki.zksc.io/payment-firms/INDEX",
-      "https://finwiki.zksc.io/sbi-hd",
+      "https://finwiki.zksc.io/payment-firms/gmo-coin",
       "https://finwiki.zksc.io/securities-firms/monex-group",
       "https://finwiki.zksc.io/systems/bitflyer-blockchain"
     ],
@@ -81,9 +81,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5001,
-    "word_like_tokens": 800,
-    "inbound_wikilinks_count": 8,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 5093,
+    "word_like_tokens": 811,
+    "inbound_wikilinks_count": 10,
+    "last_modified": "2026-06-08"
   }
 }

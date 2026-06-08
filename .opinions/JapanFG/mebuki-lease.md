@@ -13,7 +13,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 ## 推論 (from 1. License / group boundary)
 
 | License route | リース業 (貸金業登録は対応領域に応じて取得、銀行業免許ではない) ^[inferred] |
-| Headquarters | 茨城県水戸市 ([[joyo-bank|常陽銀行]] 本店周辺) ^[inferred] |
+| Headquarters | 茨城県水戸市 ([[regional-banks/joyo-bank|常陽銀行]] 本店周辺) ^[inferred] |
 
 ## 推論 (from めぶき FG 設立とグループ統合)
 
@@ -21,7 +21,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## 推論 (from 4. KPI table (concept) ^[ambiguous])
 
-| 業績開示 | [[mebuki-fg]] 連結ベース ^[inferred] |
+| 業績開示 | [[regional-banks/mebuki-fg]] 連結ベース ^[inferred] |
 
 ## 推論 (from 5. 事業セグメント map)
 
@@ -44,7 +44,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## Open questions
 
-- リース契約残高・新規取扱高の最新規模は ([[mebuki-fg]] セグメント情報で開示限定)
-- 大手リース ([[mitsubishi-hc-capital]] / [[smfl]] / [[mizuho-lease]]) との将来統合・業務提携シナリオ
+- リース契約残高・新規取扱高の最新規模は ([[regional-banks/mebuki-fg]] セグメント情報で開示限定)
+- 大手リース ([[leasing-firms/mitsubishi-hc-capital]] / [[leasing-firms/smfl]] / [[leasing-firms/mizuho-lease]]) との将来統合・業務提携シナリオ
 - 再エネリース・EV リース等の新領域参入計画
-- [[mebuki-fg]] グループ内 [[mebuki-securities]] / めぶきカードとの cross-sell 強化策
+- [[regional-banks/mebuki-fg]] グループ内 [[securities-firms/mebuki-securities]] / めぶきカードとの cross-sell 強化策

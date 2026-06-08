@@ -15,7 +15,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-San-in Godo Bank is the only major listed regional-bank name centered on the San-in region of Shimane and Tottori. It was created through wartime consolidation in 1941-07-01, combining Matsue Bank, Yonago Bank, and related predecessors in 7 行. The bank is commonly called **Gogin**. It is headquartered in Matsue, Shimane Prefecture, remains a standalone bank rather than a holding company, and is listed on TSE Prime under securities code 8381. It holds a high share in the two San-in prefectures, with shares around 4  and above 5  in key local markets. It also has branches outside the home region in Hiroshima, Okayama, Hyogo, and Osaka. Its regional economy combines tourism, agriculture and fisheries, manufacturing, and energy-related businesses, including Shimane nuclear-power adjacency, into a 1 行 regional structure. Local competition includes [[shimane-bank|島根銀行]], while outside the region it meets [[chugin-okayama]], [[hirogin-hd]], and [[yamaguchi-fg]]. ^[extracted]
+San-in Godo Bank is the only major listed regional-bank name centered on the San-in region of Shimane and Tottori. It was created through wartime consolidation in 1941-07-01, combining Matsue Bank, Yonago Bank, and related predecessors in 7 行. The bank is commonly called **Gogin**. It is headquartered in Matsue, Shimane Prefecture, remains a standalone bank rather than a holding company, and is listed on TSE Prime under securities code 8381. It holds a high share in the two San-in prefectures, with shares around 4  and above 5  in key local markets. It also has branches outside the home region in Hiroshima, Okayama, Hyogo, and Osaka. Its regional economy combines tourism, agriculture and fisheries, manufacturing, and energy-related businesses, including Shimane nuclear-power adjacency, into a 1 行 regional structure. Local competition includes [[regional-banks/shimane-bank|島根銀行]], while outside the region it meets [[regional-banks/chugin-okayama]], [[regional-banks/hirogin-hd]], and [[regional-banks/yamaguchi-fg]]. ^[extracted]
 
 ## 1. Company profile
 
@@ -78,10 +78,10 @@ San-in Godo Bank is the only major listed regional-bank name centered on the San
 | Competitor | Base | Relationship |
 |---|---|---|
 | Tottori Bank | Tottori Prefecture | Local competitor; scale gap favors Gogin |
-| [[shimane-bank|島根銀行]] | Shimane Prefecture | Same region |
-| [[chugin-okayama]] | Okayama / Hiroshima | Competitor when expanding outside the home region; major Chugoku-Shikoku regional bank |
-| [[hirogin-hd]] | Hiroshima | Same outside-region competition |
-| [[yamaguchi-fg]] | Yamaguchi / Kitakyushu / Fukuoka | Adjacent FG and 3 行 integration model; contrasts with Gogin's standalone route |
+| [[regional-banks/shimane-bank|島根銀行]] | Shimane Prefecture | Same region |
+| [[regional-banks/chugin-okayama]] | Okayama / Hiroshima | Competitor when expanding outside the home region; major Chugoku-Shikoku regional bank |
+| [[regional-banks/hirogin-hd]] | Hiroshima | Same outside-region competition |
+| [[regional-banks/yamaguchi-fg]] | Yamaguchi / Kitakyushu / Fukuoka | Adjacent FG and 3 行 integration model; contrasts with Gogin's standalone route |
 | JA Bank / Japan Post Bank | Nationwide | Retail competitor, especially for elderly deposits |
 
 ### Partnership / acquisition strategy
@@ -107,7 +107,7 @@ San-in Godo Bank is the only major listed regional-bank name centered on the San
 
 ## Related
 
-- [[chugin-okayama]] · [[hirogin-hd]] · [[yamaguchi-fg]] · [[mufg]] · [[smfg]] · [[mizuho-fg]]
+- [[regional-banks/chugin-okayama]] · [[regional-banks/hirogin-hd]] · [[regional-banks/yamaguchi-fg]] · [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]
 - Chugoku-Shikoku regional-bank block / San-in regional economy / wartime one-prefecture-one-bank policy.
 
 ## Sources

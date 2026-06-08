@@ -55,10 +55,9 @@
     "Related"
   ],
   "body_links": {
-    "wikilinks_count": 12,
+    "wikilinks_count": 10,
     "wikilinks": [
       "INDEX",
-      "cross-border-sc-via-swift-api",
       "fintech/INDEX",
       "fintech/central-banking-function-unbundling",
       "fintech/cross-border-sc-via-swift-api",
@@ -67,12 +66,10 @@
       "fintech/japan-stablecoin-regulatory-landscape",
       "fintech/jp-trust-type-sc-architecture",
       "fintech/multi-megabank-consortium-governance",
-      "jp-trust-type-sc-architecture",
       "systems/cross-chain-five-pole-comparison-matrix"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/cross-border-sc-via-swift-api",
       "https://finwiki.zksc.io/fintech/INDEX",
       "https://finwiki.zksc.io/fintech/central-banking-function-unbundling",
       "https://finwiki.zksc.io/fintech/cross-border-sc-via-swift-api",
@@ -81,16 +78,15 @@
       "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
       "https://finwiki.zksc.io/fintech/jp-trust-type-sc-architecture",
       "https://finwiki.zksc.io/fintech/multi-megabank-consortium-governance",
-      "https://finwiki.zksc.io/jp-trust-type-sc-architecture",
       "https://finwiki.zksc.io/systems/cross-chain-five-pole-comparison-matrix"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4125,
-    "word_like_tokens": 703,
+    "nonspace_chars": 4141,
+    "word_like_tokens": 705,
     "inbound_wikilinks_count": 10,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-06-08"
   }
 }

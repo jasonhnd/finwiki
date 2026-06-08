@@ -25,7 +25,7 @@ translated_at: 2026-06-02T14:54:39.066Z
 **法人形態**：**相互会社**（上場せず、契約者 = 社員が議決権を持つ）
 **設立**：2004-01-01（旧 明治生命保険 + 旧 安田生命保険 合併）
 **本社**：東京都千代田区丸の内 2-1-1（明治安田生命ビル）
-**業界順位**：大手 4 生保の一角（[[nippon-life]] / [[dai-ichi-life]] / 住友生命 / 明治安田生命）
+**業界順位**：大手 4 生保の一角（[[life-insurers/nippon-life]] / [[life-insurers/dai-ichi-life]] / 住友生命 / 明治安田生命）
 
 ### 相互会社形態のポイント
 
@@ -33,7 +33,7 @@ translated_at: 2026-06-02T14:54:39.066Z
 - 株主が存在せず、保険契約者が「社員」として総代会を通じて経営に参画
 - 配当は株主ではなく契約者に還元（契約者配当）
 - 上場できないため資本市場からの株式調達は不可、内部留保と劣後債が中心
-- 同形態の同業: [[nippon-life]]・住友生命・富国生命・朝日生命
+- 同形態の同業: [[life-insurers/nippon-life]]・住友生命・富国生命・朝日生命
 
 ### 前身 2 系統
 
@@ -98,7 +98,7 @@ translated_at: 2026-06-02T14:54:39.066Z
 ### 海外戦略
 
 - **StanCorp 集中**: 米国団体保険プラットフォーム、2016 完全子会社化で約 5000 億円投下
-- アジア展開は同業（[[nippon-life]]・[[dai-ichi-life]]）と比較すると控えめ
+- アジア展開は同業（[[life-insurers/nippon-life]]・[[life-insurers/dai-ichi-life]]）と比較すると控えめ
 - 米国 1 軸の集中リスクと裏返しの専門特化
 
 ## 5. 規制・政策
@@ -123,12 +123,12 @@ translated_at: 2026-06-02T14:54:39.066Z
 - StanCorp 以外の海外展開（アジア等）は本格化するか、米国 1 軸を堅持するか?
 - 経済価値ベース・ソルベンシー規制（2025-04〜）下での余力・配当政策への影響は?
 - 営業職員チャネルのデジタル統合（ハイブリッド型）の進捗は?
-- [[nippon-life]]・[[dai-ichi-life]] との 4 社競争で、相互会社の優位性は持続可能か?
+- [[life-insurers/nippon-life]]・[[life-insurers/dai-ichi-life]] との 4 社競争で、相互会社の優位性は持続可能か?
 
 ### 関連項目
 
-- [[nippon-life]] · [[dai-ichi-life]]（同・大手 4 生保）
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[ndfg]]（メガバンクとの法人取引・銀行窓販）
+- [[life-insurers/nippon-life]] · [[life-insurers/dai-ichi-life]]（同・大手 4 生保）
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[megabanks/ndfg]]（メガバンクとの法人取引・銀行窓販）
 - 住友生命・富国生命・朝日生命（同・相互会社形態）
 
 ### 出典

@@ -15,7 +15,7 @@ translated_at: 2026-06-01T02:31:57.123Z
 
 ## 长篇大论；博士
 
-瑞士UBS Group AG（G-SIB Bucket 1，世界上最大的私人银行之一）的日本基地。 **2023-06 在瑞士政府倡议下完成对原瑞士信贷的紧急收购**，原CS日本基地整合至2024 年正在进行中★。在日本，4 轴结构包括瑞银证券（企业IB）+ **瑞银SuMi TRUST财富管理（与[[sumitomo-mitsui-trust]]合资）** + 瑞银银行东京分行+瑞银资产管理。我们的PB（私人银行）是世界一流的，在日本我们通过SuMi TRUST JV开展针对富人的资产管理。 ^[extracted]
+瑞士UBS Group AG（G-SIB Bucket 1，世界上最大的私人银行之一）的日本基地。 **2023-06 在瑞士政府倡议下完成对原瑞士信贷的紧急收购**，原CS日本基地整合至2024 年正在进行中★。在日本，4 轴结构包括瑞银证券（企业IB）+ **瑞银SuMi TRUST财富管理（与[[trust-banks/sumitomo-mitsui-trust]]合资）** + 瑞银银行东京分行+瑞银资产管理。我们的PB（私人银行）是世界一流的，在日本我们通过SuMi TRUST JV开展针对富人的资产管理。 ^[extracted]
 
 ## 1。公司简介
 
@@ -34,7 +34,7 @@ translated_at: 2026-06-01T02:31:57.123Z
 - **1964**：瑞士银行公司（前身为 UBS）开设东京代表处 ^[extracted]
 - **1998**：瑞士联合银行 + 瑞士银行公司合并→ UBS AG 成立
 - **2008～2009**：雷曼冲击后，次贷相关巨额损失→瑞士政府救助→管理层重组
-- **2014**：与[[sumitomo-mitsui-trust]]（原名为UBS SuMi TRUST Wealth Management）成立PB JV
+- **2014**：与[[trust-banks/sumitomo-mitsui-trust]]（原名为UBS SuMi TRUST Wealth Management）成立PB JV
 - **2023-03-19**：瑞士信贷管理危机（紧急救助计划包括AT1 债券〜160 億瑞士法郎毫无价值）→由瑞士政府、瑞士央行和FINMA主导的瑞银集团签署紧急收购协议^[extracted]
 - **2023-06-12**：**完成瑞银对原瑞士信贷的紧急收购**（收购代价约为30 億瑞士法郎，CS股份1 股份：瑞银股份1/22.48）★ ^[extracted]
 - **2024**：原瑞信日本（原CS证券、日本分行等）完成并入瑞银日本基地 → 成本重组进展
@@ -44,7 +44,7 @@ translated_at: 2026-06-01T02:31:57.123Z
 |细分 |主要运营商|特点|
 |---|---|---|
 |企业IB |瑞银证券|日本公司并购/DCM/ECM/跨境咨询|
-| PB/WM |瑞银苏米信托WM (合资) | [[sumitomo-mitsui-trust]] 客户群+瑞银全球PB平台|
+| PB/WM |瑞银苏米信托WM (合资) | [[trust-banks/sumitomo-mitsui-trust]] 客户群+瑞银全球PB平台|
 |日本的银行业务|瑞银银行东京分行|外汇、大额存款、企业贷款|
 |资产管理|瑞银资产管理|对于机构投资者和养老金|
 |前CS综合业务|前CS证券（综合）| 2024 整合完成，成本重组正在进行中 |
@@ -56,14 +56,14 @@ translated_at: 2026-06-01T02:31:57.123Z
 
 ### 日本战略
 
-- **PB**：[[sumitomo-mitsui-trust]] 通过合资企业接触日本的富人。结合三井住友信托客户群+瑞银全球PB平台
-- **IB**：通过与前CS整合扩大日本IB规模 → 与日本银行（[[smfg]] SMBC Nikko、[[mufg]] MUMSS）/美国银行（摩根士丹利、高盛、摩根大通）竞争
+- **PB**：[[trust-banks/sumitomo-mitsui-trust]] 通过合资企业接触日本的富人。结合三井住友信托客户群+瑞银全球PB平台
+- **IB**：通过与前CS整合扩大日本IB规模 → 与日本银行（[[megabanks/smfg]] SMBC Nikko、[[megabanks/mufg]] MUMSS）/美国银行（摩根士丹利、高盛、摩根大通）竞争
 - **成本重组**：通过消除与前CS日本基地的重复（部门、人员、销售办事处），从2024逐步缩小规模调整为2026 
 
 ### 联盟/收购策略
 
 - **瑞士信贷紧急收购** (2023-06)★：由瑞士政府、瑞士央行和瑞士金融市场监管局牵头的救援计划。 AT1 债券无价值引发市场争议
-- **[[sumitomo-mitsui-trust]] PB JV**（2014～）：日本PB联合开发，优势互补
+- **[[trust-banks/sumitomo-mitsui-trust]] PB JV**（2014～）：日本PB联合开发，优势互补
 - **前CS日本基地整合**（2024）：UBS证券+前CS证券，东京基地/人员/业务整合
 
 ## 5。法规/政策
@@ -89,7 +89,7 @@ translated_at: 2026-06-01T02:31:57.123Z
 
 ## 8。相关
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[sumitomo-mitsui-trust]] · [[ndfg]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[trust-banks/sumitomo-mitsui-trust]] · [[megabanks/ndfg]]
 - 海外主要IB/PB相关Wiki条目（后续添加）
 
 ## 来源

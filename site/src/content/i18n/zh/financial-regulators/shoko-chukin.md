@@ -83,7 +83,7 @@ translated_at: 2026-06-01T02:31:57.116Z
 
 |竞争对手|重叠区域|
 |---|---|
-| Megabank ([[mufg]] / [[smfg]] / [[mizuho-fg]]) |中型企业融资和海外扩张支持|
+| Megabank ([[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]]) |中型企业融资和海外扩张支持|
 |区域银行|区域中小企业融资与企业传承|
 |信用金中央银行/信用金银行|中小企业协会/小微企业贷款|
 |日本金融公司|危机应对融资/政策金融领域|
@@ -100,8 +100,8 @@ translated_at: 2026-06-01T02:31:57.116Z
 
 ## 相关
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] （小企业贷款市场的竞争对手）
-- [[ndfg]]（与当地金融集团和中小企业密切联系）
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] （小企业贷款市场的竞争对手）
+- [[megabanks/ndfg]]（与当地金融集团和中小企业密切联系）
 - *信用金中央银行和日本金融公司维基尚未开发。
 
 ## 来源

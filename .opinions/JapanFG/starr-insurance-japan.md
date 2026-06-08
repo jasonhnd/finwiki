@@ -12,7 +12,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## Counterpoints
 
-- Starr Companies is largely privately held, so financial disclosure is materially less than for listed peers like [[JapanFG/aig-japan|AIG Japan]] (NYSE) or [[JapanFG/chubb-insurance-japan|Chubb Insurance Japan]] (NYSE). ^[inferred]
+- Starr Companies is largely privately held, so financial disclosure is materially less than for listed peers like [[non-life-insurers/aig-japan|AIG Japan]] (NYSE) or [[non-life-insurers/chubb-insurance-japan|Chubb Insurance Japan]] (NYSE). ^[inferred]
 - Starr's Japan premium share is modest vs. the domestic [[insurance/japan-nonlife-big-three|non-life big three]] and is concentrated in specialty rather than broad commercial. ^[inferred]
 - Brand recognition in Japan is materially lower than peer foreign specialty carriers. ^[inferred]
 

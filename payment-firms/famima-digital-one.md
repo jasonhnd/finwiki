@@ -23,7 +23,7 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it again
 
 ## TL;DR
 
-伊藤忠商事 → ファミリーマート 100% 子会社の**コンビニ系決済・ポイント・金融子会社**。2019-04-01 設立（前身: 株式会社ファミマトラベル）、2019-07-01 **FamiPay**（QR + バーコード決済）リリース。資金移動業者ライセンスベースで銀行ライセンスなし。コンビニアプリ完結型決済 + BNPL（FamiPay 翌月払い）+ 個人融資（FamiPay ローン）+ ファミペイカード（旧 ファミマ T カード）。**Tポイント連携を 2024-04 解消 → ファミペイポイント独立化**で「伊藤忠 G 内決済プラットフォーム」へ転換中。競合は au PAY ([[au-fh]]) / PayPay ([[paypay-fg]]) / 楽天ペイ ([[rakuten-fg]]) / d 払い ([[ndfg]])。
+伊藤忠商事 → ファミリーマート 100% 子会社の**コンビニ系決済・ポイント・金融子会社**。2019-04-01 設立（前身: 株式会社ファミマトラベル）、2019-07-01 **FamiPay**（QR + バーコード決済）リリース。資金移動業者ライセンスベースで銀行ライセンスなし。コンビニアプリ完結型決済 + BNPL（FamiPay 翌月払い）+ 個人融資（FamiPay ローン）+ ファミペイカード（旧 ファミマ T カード）。**Tポイント連携を 2024-04 解消 → ファミペイポイント独立化**で「伊藤忠 G 内決済プラットフォーム」へ転換中。競合は au PAY ([[megabanks/au-fh]]) / PayPay ([[megabanks/paypay-fg]]) / 楽天ペイ ([[payment-firms/rakuten-fg]]) / d 払い ([[megabanks/ndfg]])。
 
 ## 1. 会社概要
 
@@ -84,10 +84,10 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it again
 
 | 競合 | 経済圏 | コンビニ提携 |
 |---|---|---|
-| **PayPay**（[[paypay-fg]]）| ソフトバンク G + ヤフー + LINE | ローソン・セブン他で利用可 |
-| **au PAY**（[[au-fh]]）| KDDI 経済圏 + ローソン（KDDI 親会社） | **ローソン主戦場** |
-| **楽天ペイ**（[[rakuten-fg]]）| 楽天経済圏 | 全コンビニ汎用 |
-| **d 払い**（[[ndfg]]）| ドコモ経済圏 + dポイント | 全コンビニ汎用 |
+| **PayPay**（[[megabanks/paypay-fg]]）| ソフトバンク G + ヤフー + LINE | ローソン・セブン他で利用可 |
+| **au PAY**（[[megabanks/au-fh]]）| KDDI 経済圏 + ローソン（KDDI 親会社） | **ローソン主戦場** |
+| **楽天ペイ**（[[payment-firms/rakuten-fg]]）| 楽天経済圏 | 全コンビニ汎用 |
+| **d 払い**（[[megabanks/ndfg]]）| ドコモ経済圏 + dポイント | 全コンビニ汎用 |
 | **nanaco / 7iD**（セブン）| セブン & アイ・HD | **セブン店内専用 → 7iD アプリへ統合中** |
 | **FamiPay** | 伊藤忠商事 / ファミリーマート | **ファミマ主戦場** |
 
@@ -120,8 +120,8 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it again
 
 ## Related
 
-- [[paypay-fg]] · [[au-fh]] · [[rakuten-fg]] · [[ndfg]]
-- [[mufg]] · [[smfg]] · [[mizuho-fg]]
+- [[megabanks/paypay-fg]] · [[megabanks/au-fh]] · [[payment-firms/rakuten-fg]] · [[megabanks/ndfg]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]
 
 ## Sources
 

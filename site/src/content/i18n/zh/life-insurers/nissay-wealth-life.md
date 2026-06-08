@@ -17,7 +17,7 @@ translated_at: 2026-06-01T00:41:50.412Z
 
 ## TL;DR
 
-日生财富生命保险株式会社是 [[nippon-life]] 集团旗下的寿险运营公司，列入金融厅寿险公司名单和生命保险协会会员名单。为了观察财富管理 / 金融机构渠道产品，本页将其与日本生命母公司页面分开处理。
+日生财富生命保险株式会社是 [[life-insurers/nippon-life]] 集团旗下的寿险运营公司，列入金融厅寿险公司名单和生命保险协会会员名单。为了观察财富管理 / 金融机构渠道产品，本页将其与日本生命母公司页面分开处理。
 
 ## 1. 牌照 / 集团边界
 
@@ -26,7 +26,7 @@ translated_at: 2026-06-01T00:41:50.412Z
 | Legal name | 日生财富生命保险株式会社 |
 | License route | 《保险业法》寿险公司；金融厅寿险公司名单 |
 | Industry body | 日本生命保险协会会员 |
-| Group boundary | [[nippon-life]] 集团 |
+| Group boundary | [[life-insurers/nippon-life]] 集团 |
 | Wiki role | 日本生命集团的财富 / 金融机构渠道寿险公司 |
 
 ## 2. 运营模式
@@ -41,10 +41,10 @@ translated_at: 2026-06-01T00:41:50.412Z
 
 ## Related
 
-- [[nippon-life]]
-- [[hanasaku-life]]
-- [[dai-ichi-frontier-life]]
-- [[td-financial-life]]
+- [[life-insurers/nippon-life]]
+- [[life-insurers/hanasaku-life]]
+- [[life-insurers/dai-ichi-frontier-life]]
+- [[life-insurers/td-financial-life]]
 - [[insurance/life-insurance-channel-mix]]
 
 ## Sources

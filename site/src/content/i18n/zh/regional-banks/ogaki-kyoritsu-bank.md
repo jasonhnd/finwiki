@@ -15,7 +15,7 @@ translated_at: 2026-06-01T00:41:50.451Z
 
 ## TL;DR
 
-大垣共立银行是总部位于岐阜县大垣市的东海地方区域银行。1896-03  创业，东证 PRIME 8361  上市，仍维持未转为持股公司的**单体银行体制**。其地盘为岐阜县西浓地方，主要营业圈覆盖爱知县西北部和三重县北部，是**中京经济圈北缘**的区域银行。VI 略称“**OKB**”于 1991 年 导入。该行以“**有趣的银行**”为概念，因 drive-through 店铺、粉色调店内装饰、移动店铺车等独特措施闻名，也提出“**日本第一女性活跃银行**”。在县内份额上，是与 [[juroku-fg]] 并列的两大银行之一。^[extracted]
+大垣共立银行是总部位于岐阜县大垣市的东海地方区域银行。1896-03  创业，东证 PRIME 8361  上市，仍维持未转为持股公司的**单体银行体制**。其地盘为岐阜县西浓地方，主要营业圈覆盖爱知县西北部和三重县北部，是**中京经济圈北缘**的区域银行。VI 略称“**OKB**”于 1991 年 导入。该行以“**有趣的银行**”为概念，因 drive-through 店铺、粉色调店内装饰、移动店铺车等独特措施闻名，也提出“**日本第一女性活跃银行**”。在县内份额上，是与 [[regional-banks/juroku-fg]] 并列的两大银行之一。^[extracted]
 
 ## 1. 公司概要
 
@@ -94,10 +94,10 @@ translated_at: 2026-06-01T00:41:50.451Z
 
 ### 竞争关系
 
-- **[[juroku-fg]]（十六 FG・岐阜总行）** ★最大竞争者：在岐阜全域 + 爱知北部重叠。岐阜县内，十六偏县北 / 岐阜市，OKB 偏西浓，但存款和贷款都直接竞争。^[extracted]
-- **[[san-jusan-fg]]（三十三 FG・三重）**：在三重县北部（桑名・四日市）重叠。
+- **[[regional-banks/juroku-fg]]（十六 FG・岐阜总行）** ★最大竞争者：在岐阜全域 + 爱知北部重叠。岐阜县内，十六偏县北 / 岐阜市，OKB 偏西浓，但存款和贷款都直接竞争。^[extracted]
+- **[[regional-banks/san-jusan-fg]]（三十三 FG・三重）**：在三重县北部（桑名・四日市）重叠。
 - **名古屋银行（爱知）**：在爱知县西北部重叠。
-- **Megabank（[[mufg]] / [[smfg]] / [[mizuho-fg]]）**：在名古屋市内大企业融资中竞争。
+- **Megabank（[[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]]）**：在名古屋市内大企业融资中竞争。
 - **信金・JA**：西浓地方的小规模事业者和农业金融。
 
 ### 地理定位
@@ -132,7 +132,7 @@ translated_at: 2026-06-01T00:41:50.451Z
 
 ## Related
 
-- [[juroku-fg]] · [[san-jusan-fg]] · [[mufg]] · [[smfg]] · [[mizuho-fg]]
+- [[regional-banks/juroku-fg]] · [[regional-banks/san-jusan-fg]] · [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]
 
 ## Sources
 

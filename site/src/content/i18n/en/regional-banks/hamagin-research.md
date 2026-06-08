@@ -11,7 +11,7 @@ translated_at: 2026-05-31T15:29:03.866Z
 
 ## Wiki route
 
-This entry sits in the JapanFG route specified by the source file. Source-order context: [[regional-banks/INDEX|regional-banks INDEX]] [[concordia-fg|Yokohama Financial Group (former Concordia FG)]] [[yokohama-bank|Bank of Yokohama]] [[yokohama-bank-leasing|Yokohama Bank Leasing]] [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]] [[banking/INDEX|banking index]] [[yokohama-bank|Bank of Yokohama]] [[concordia-fg|Yokohama Financial Group]] 1988-07-21 JPY 100 million 157 employees 2025-10-01 ^[extracted] 1 [[yokohama-bank]] [[concordia-fg|Yokohama FG (YFG)]] 2 [[concordia-fg|Yokohama Financial Group (YFG, former CFG)]] 7186 [[yokohama-bank|Bank of Yokohama]]
+This entry sits in the JapanFG route specified by the source file. Source-order context: [[regional-banks/INDEX|regional-banks INDEX]] [[regional-banks/concordia-fg|Yokohama Financial Group (former Concordia FG)]] [[regional-banks/yokohama-bank|Bank of Yokohama]] [[leasing-firms/yokohama-bank-leasing|Yokohama Bank Leasing]] [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]] [[banking/INDEX|banking index]] [[regional-banks/yokohama-bank|Bank of Yokohama]] [[regional-banks/concordia-fg|Yokohama Financial Group]] 1988-07-21 JPY 100 million 157 employees 2025-10-01 ^[extracted] 1 [[regional-banks/yokohama-bank]] [[regional-banks/concordia-fg|Yokohama FG (YFG)]] 2 [[regional-banks/concordia-fg|Yokohama Financial Group (YFG, former CFG)]] 7186 [[regional-banks/yokohama-bank|Bank of Yokohama]]
 
 ## TL;DR
 
@@ -39,10 +39,10 @@ This page records the public-information boundary for Hamagin Research Institute
 
 ## Source-order continuation
 
-- 100% 1  [[yokohama-bank-leasing|Yokohama Bank Leasing]] [[higashi-nippon-bank|Higashi-Nippon Bank]] 100% [[yokohama-bank|Bank of Yokohama]] 1980 90  2025-10-01 [[concordia-fg]] 2016 04  [[yokohama-bank]] [[higashi-nippon-bank]] 2025-10-01 [[yokohama-bank]] 4 1988-07-21 JPY 100 million 157 employees
-- 2025-10-01 [[concordia-fg]] [[yokohama-bank]] [[higashi-nippon-bank]] [[yokohama-bank]] [[concordia-fg]] [[concordia-fg]] JPY 11.0 billion 5 [[yokohama-bank]] 2025 10 [[yokohama-bank]] 7 [[yokohama-bank]] [[concordia-fg]] [[yokohama-bank]] [[higashi-nippon-bank]] [[yokohama-bank-leasing]] [[mebuki-securities]]
-- [[ffg-securities]] [[ibank-marketing]] [[mebuki-lease]] [[banking/regional-bank-consolidation-pattern]] [[banking/regional-bank-api-digital-partnership-route]] [[banking/INDEX]] [[regional-banks/INDEX|regional-banks INDEX]] 1988-07-21 JPY 100 million 157 employees 2025-10-01 2026-05-24 2026-05-24 [[concordia-fg]] 2025 10  1988-07-21 JPY 100 million 157 employees 2025-10-01
-- [[concordia-fg]] 1  2026-05-29
+- 100% 1  [[leasing-firms/yokohama-bank-leasing|Yokohama Bank Leasing]] [[regional-banks/higashi-nippon-bank|Higashi-Nippon Bank]] 100% [[regional-banks/yokohama-bank|Bank of Yokohama]] 1980 90  2025-10-01 [[regional-banks/concordia-fg]] 2016 04  [[regional-banks/yokohama-bank]] [[regional-banks/higashi-nippon-bank]] 2025-10-01 [[regional-banks/yokohama-bank]] 4 1988-07-21 JPY 100 million 157 employees
+- 2025-10-01 [[regional-banks/concordia-fg]] [[regional-banks/yokohama-bank]] [[regional-banks/higashi-nippon-bank]] [[regional-banks/yokohama-bank]] [[regional-banks/concordia-fg]] [[regional-banks/concordia-fg]] JPY 11.0 billion 5 [[regional-banks/yokohama-bank]] 2025 10 [[regional-banks/yokohama-bank]] 7 [[regional-banks/yokohama-bank]] [[regional-banks/concordia-fg]] [[regional-banks/yokohama-bank]] [[regional-banks/higashi-nippon-bank]] [[leasing-firms/yokohama-bank-leasing]] [[securities-firms/mebuki-securities]]
+- [[securities-firms/ffg-securities]] [[payment-firms/ibank-marketing]] [[leasing-firms/mebuki-lease]] [[banking/regional-bank-consolidation-pattern]] [[banking/regional-bank-api-digital-partnership-route]] [[banking/INDEX]] [[regional-banks/INDEX|regional-banks INDEX]] 1988-07-21 JPY 100 million 157 employees 2025-10-01 2026-05-24 2026-05-24 [[regional-banks/concordia-fg]] 2025 10  1988-07-21 JPY 100 million 157 employees 2025-10-01
+- [[regional-banks/concordia-fg]] 1  2026-05-29
 
 ## Related
 

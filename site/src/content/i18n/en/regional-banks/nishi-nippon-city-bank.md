@@ -15,7 +15,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-Nishi-Nippon City Bank, Ltd. is a regional bank headquartered in Fukuoka Prefecture and listed on the FSA bank license list. It is the core operating bank of [[nishi-nippon-fhd]] and is treated as a major regional-bank operating-company anchor in Fukuoka alongside [[fukuoka-bank]].
+Nishi-Nippon City Bank, Ltd. is a regional bank headquartered in Fukuoka Prefecture and listed on the FSA bank license list. It is the core operating bank of [[regional-banks/nishi-nippon-fhd]] and is treated as a major regional-bank operating-company anchor in Fukuoka alongside [[regional-banks/fukuoka-bank]].
 
 ## 1. License / group boundary
 
@@ -23,26 +23,26 @@ Nishi-Nippon City Bank, Ltd. is a regional bank headquartered in Fukuoka Prefect
 |---|---|
 | Legal name | The Nishi-Nippon City Bank, Ltd. |
 | License route | Banking Act regional bank; FSA bank license list |
-| Group boundary | Core operating bank of [[nishi-nippon-fhd]] |
+| Group boundary | Core operating bank of [[regional-banks/nishi-nippon-fhd]] |
 | Home market | Fukuoka / Fukuoka City |
 | Wiki role | Fukuoka regional-bank operating-company page |
 
 ## 2. Operating model
 
-Nishi-Nippon City Bank is a regional bank centered on the Fukuoka metropolitan area and northern Kyushu, with retail deposits, SME finance, urban corporate banking, and Asian business support as core functions. The holding-company strategy and group portfolio are handled on the [[nishi-nippon-fhd]] page; this page covers the bank-license entity. For Kyushu regional-bank consolidation context, see [[banking/regional-bank-consolidation-pattern]].
+Nishi-Nippon City Bank is a regional bank centered on the Fukuoka metropolitan area and northern Kyushu, with retail deposits, SME finance, urban corporate banking, and Asian business support as core functions. The holding-company strategy and group portfolio are handled on the [[regional-banks/nishi-nippon-fhd]] page; this page covers the bank-license entity. For Kyushu regional-bank consolidation context, see [[banking/regional-bank-consolidation-pattern]].
 
 ## 3. Why this page matters
 
 - Closes the FSA exact-name operating-company gap for Nishi-Nippon City Bank.
-- Separates the bank license from [[nishi-nippon-fhd]] holding-company coverage.
-- Provides a peer anchor for [[fukuoka-bank]], [[chikuho-bank]], and [[kitakyushu-bank]].
+- Separates the bank license from [[regional-banks/nishi-nippon-fhd]] holding-company coverage.
+- Provides a peer anchor for [[regional-banks/fukuoka-bank]], [[regional-banks/chikuho-bank]], and [[regional-banks/kitakyushu-bank]].
 
 ## Related
 
-- [[nishi-nippon-fhd]]
-- [[fukuoka-bank]]
-- [[chikuho-bank]]
-- [[kitakyushu-bank]]
+- [[regional-banks/nishi-nippon-fhd]]
+- [[regional-banks/fukuoka-bank]]
+- [[regional-banks/chikuho-bank]]
+- [[regional-banks/kitakyushu-bank]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 

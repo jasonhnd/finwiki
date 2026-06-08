@@ -52,30 +52,30 @@
   "body_links": {
     "wikilinks_count": 7,
     "wikilinks": [
+      "banking/sony-bank",
       "insurance/INDEX",
       "insurance/saison-automobile-fire",
+      "life-insurers/sony-life",
+      "megabanks/sony-fg",
       "non-life-insurers/INDEX",
-      "non-life-insurers/tokio-marine-direct",
-      "sony-bank",
-      "sony-fg",
-      "sony-life"
+      "non-life-insurers/tokio-marine-direct"
     ],
     "resolved_wikilinks": [
+      "https://finwiki.zksc.io/banking/sony-bank",
       "https://finwiki.zksc.io/insurance/INDEX",
       "https://finwiki.zksc.io/insurance/saison-automobile-fire",
+      "https://finwiki.zksc.io/life-insurers/sony-life",
+      "https://finwiki.zksc.io/megabanks/sony-fg",
       "https://finwiki.zksc.io/non-life-insurers/INDEX",
-      "https://finwiki.zksc.io/non-life-insurers/tokio-marine-direct",
-      "https://finwiki.zksc.io/sony-bank",
-      "https://finwiki.zksc.io/sony-fg",
-      "https://finwiki.zksc.io/sony-life"
+      "https://finwiki.zksc.io/non-life-insurers/tokio-marine-direct"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1930,
-    "word_like_tokens": 302,
-    "inbound_wikilinks_count": 17,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 2014,
+    "word_like_tokens": 312,
+    "inbound_wikilinks_count": 20,
+    "last_modified": "2026-06-08"
   }
 }

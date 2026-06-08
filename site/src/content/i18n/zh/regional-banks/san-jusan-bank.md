@@ -11,11 +11,11 @@ translated_at: 2026-06-01T00:41:50.400Z
 
 ## Wiki 路由
 
-本条目位于 [[regional-banks/INDEX|regional-banks INDEX]] 之下，是 [[san-jusan-fg|三十三 FG]] 控股公司路径下的银行牌照运营公司锚点。请结合县内竞争对手 [[hyakugo-bank|百五銀行]]、中部同业银行 [[juroku-bank|十六銀行]] / [[aichi-bank|あいち銀行]]，以及更广泛体系 / 监管边界 [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]] 阅读。
+本条目位于 [[regional-banks/INDEX|regional-banks INDEX]] 之下，是 [[regional-banks/san-jusan-fg|三十三 FG]] 控股公司路径下的银行牌照运营公司锚点。请结合县内竞争对手 [[regional-banks/hyakugo-bank|百五銀行]]、中部同业银行 [[regional-banks/juroku-bank|十六銀行]] / [[regional-banks/aichi-bank|あいち銀行]]，以及更广泛体系 / 监管边界 [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]] 阅读。
 
 ## TL;DR
 
-三十三银行株式会社是总部位于三重县四日市市的第一地方银行，是 [[san-jusan-fg|三十三 FG]]（东证 PRIME 7322）的 100% 子公司，也是单一银行运营子公司。它通过 **2021-05-01 旧三重银行 + 旧第三银行合并**成立，名称「三十三」取自两家银行共有的「三」字，即「**三（mie / 三重）+ 三（third / 第三）**」的双重含义；英文名 San ju San = 33。县内份额 No.1  由 [[hyakugo-bank|百五銀行]] 掌握，本行在两行整合后位于 2位，并利用其处在中京经济圈（名古屋圈）和偏近关西边界之间的独特位置。^[extracted]
+三十三银行株式会社是总部位于三重县四日市市的第一地方银行，是 [[regional-banks/san-jusan-fg|三十三 FG]]（东证 PRIME 7322）的 100% 子公司，也是单一银行运营子公司。它通过 **2021-05-01 旧三重银行 + 旧第三银行合并**成立，名称「三十三」取自两家银行共有的「三」字，即「**三（mie / 三重）+ 三（third / 第三）**」的双重含义；英文名 San ju San = 33。县内份额 No.1  由 [[regional-banks/hyakugo-bank|百五銀行]] 掌握，本行在两行整合后位于 2位，并利用其处在中京经济圈（名古屋圈）和偏近关西边界之间的独特位置。^[extracted]
 
 ## 1. 牌照 / 集团边界
 
@@ -24,7 +24,7 @@ translated_at: 2026-06-01T00:41:50.400Z
 | 法定名称 | 三十三银行株式会社 |
 | 英文名称 | San ju San Bank, Ltd. |
 | 牌照路径 | 《银行法》地方银行；金融厅银行牌照名录 |
-| 集团边界 | [[san-jusan-fg]] 100% 子公司的核心运营银行 |
+| 集团边界 | [[regional-banks/san-jusan-fg]] 100% 子公司的核心运营银行 |
 | 总部 | 三重县四日市市西新地 7-8  |
 | 网点网络 | 三重县北部，包括四日市、桑名、津、松阪、伊势，以及名古屋、大阪、东京 |
 | Wiki 角色 | 三重地方银行运营公司锚点 |
@@ -32,7 +32,7 @@ translated_at: 2026-06-01T00:41:50.400Z
 ## 2. 控股公司树
 
 ```text
-[[san-jusan-fg|三十三 FG]]（控股公司 / 东证 PRIME 7322，2018-04  设立）
+[[regional-banks/san-jusan-fg|三十三 FG]]（控股公司 / 东证 PRIME 7322，2018-04  设立）
   └── 三十三银行株式会社（100%，2021-05  合并成立）
         ├── 三重县内营业基础
         │     ├── 四日市总行 + 县北部（旧三重银行地盘）
@@ -62,7 +62,7 @@ translated_at: 2026-06-01T00:41:50.400Z
 
 ### 经营整合过程
 
-- **2018-04-02**：三重银行 + 第三银行 -> [[san-jusan-fg|三十三 FG]] 通过共同股份转移设立，两行成为 100% 子公司。
+- **2018-04-02**：三重银行 + 第三银行 -> [[regional-banks/san-jusan-fg|三十三 FG]] 通过共同股份转移设立，两行成为 100% 子公司。
 - **2021-05-01**：两行合并 -> 三十三银行启动，完成单一银行运营子公司结构。
 - **2024**：制定中期经营计划，覆盖网点优化、DX 投资和名古屋圈扩张。
 
@@ -75,10 +75,10 @@ translated_at: 2026-06-01T00:41:50.400Z
 | 总资产，FG 合并 | 4 兆 5,108 億円 |
 | 主要营业区域 | 三重县全域，加名古屋圈、大阪和东京 |
 | 员工数，FG 合并 | 约 2,400  人 |
-| 县内份额 | No.2 ；No.1  为 [[hyakugo-bank|百五銀行]] |
-| FG 上市代码 | [[san-jusan-fg|7322]]（PRIME） |
+| 县内份额 | No.2 ；No.1  为 [[regional-banks/hyakugo-bank|百五銀行]] |
+| FG 上市代码 | [[regional-banks/san-jusan-fg|7322]]（PRIME） |
 
-> 注：上述数字基于 [[san-jusan-fg|三十三 FG]] FY2025.3  合并资料，包括 2025-05-09 决算短信和综合报告 2025。三十三银行是该 FG 的核心子公司，银行业务分部占集团活动的大部分。精确单体数值请参见 FG 有价证券报告书。
+> 注：上述数字基于 [[regional-banks/san-jusan-fg|三十三 FG]] FY2025.3  合并资料，包括 2025-05-09 决算短信和综合报告 2025。三十三银行是该 FG 的核心子公司，银行业务分部占集团活动的大部分。精确单体数值请参见 FG 有价证券报告书。
 
 ## 5. 业务分部地图
 
@@ -99,10 +99,10 @@ translated_at: 2026-06-01T00:41:50.400Z
 
 ### 县内竞争者
 
-- [[hyakugo-bank|百五銀行]]（8368）：县内 No.1，总行在津，覆盖整个三重并进入中京圈。
-- [[aichi-bank|あいち銀行]]（[[aichi-fg]] 系）：以爱知县为中心，向桑名和北势外溢竞争。
-- [[juroku-bank|十六銀行]]（[[juroku-fg]] 系）：总行在岐阜，跨入桑名和北势竞争。
-- [[ogaki-kyoritsu-bank|大垣共立銀行]]：在岐阜西浓和桑名地区竞争。
+- [[regional-banks/hyakugo-bank|百五銀行]]（8368）：县内 No.1，总行在津，覆盖整个三重并进入中京圈。
+- [[regional-banks/aichi-bank|あいち銀行]]（[[regional-banks/aichi-fg]] 系）：以爱知县为中心，向桑名和北势外溢竞争。
+- [[regional-banks/juroku-bank|十六銀行]]（[[regional-banks/juroku-fg]] 系）：总行在岐阜，跨入桑名和北势竞争。
+- [[regional-banks/ogaki-kyoritsu-bank|大垣共立銀行]]：在岐阜西浓和桑名地区竞争。
 
 ### 整合效果（2018 -> 2021）
 
@@ -113,18 +113,18 @@ translated_at: 2026-06-01T00:41:50.400Z
 ## 7. 监管 / 政策
 
 - **主管机关**：金融厅 / 《银行法》第 4  条许可。
-- **行业协会**：[[zenchugin-kyo|全国地方銀行協会]] 成员。
-- **控股公司监管**：《银行法》第 52  条之 17 ，控股公司 = [[san-jusan-fg]]。
+- **行业协会**：[[financial-regulators/zenchugin-kyo|全国地方銀行協会]] 成员。
+- **控股公司监管**：《银行法》第 52  条之 17 ，控股公司 = [[regional-banks/san-jusan-fg]]。
 - **近期政策议题**：
   - 2024：日本银行加息 -> 改善国内贷款利差。
-  - 2024：地方银行整合预期；与县内 No.1  [[hyakugo-bank|百五]] 的未来整合情景已被官方否定。
+  - 2024：地方银行整合预期；与县内 No.1  [[regional-banks/hyakugo-bank|百五]] 的未来整合情景已被官方否定。
   - 推进面向中小企业的事业性评价融资。
   - 三重地方创生和旅游复苏融资。
 
 ## Related
 
-- [[san-jusan-fg]] · [[hyakugo-bank]] · [[aichi-bank]] · [[juroku-bank]] · [[ogaki-kyoritsu-bank]]
-- [[aichi-fg]] · [[juroku-fg]] · [[kyoto-fg]]
+- [[regional-banks/san-jusan-fg]] · [[regional-banks/hyakugo-bank]] · [[regional-banks/aichi-bank]] · [[regional-banks/juroku-bank]] · [[regional-banks/ogaki-kyoritsu-bank]]
+- [[regional-banks/aichi-fg]] · [[regional-banks/juroku-fg]] · [[regional-banks/kyoto-fg]]
 - [[banking/regional-bank-consolidation-pattern]] · [[banking/INDEX]]
 - [[regional-banks/INDEX|regional-banks INDEX]]
 
@@ -141,4 +141,4 @@ translated_at: 2026-06-01T00:41:50.400Z
 ---
 
 > [!info] 验证状态
-> confidence: **likely**。运营公司锚点创建于 2026-05-24。FG 页面 = [[san-jusan-fg]] 覆盖战略和集团整合；本页面覆盖银行牌照实体边界和县内竞争图。存款 / 贷款 KPI 已按 [[san-jusan-fg|三十三 FG]] FY2025.3  合并资料（2025-05-09 决算短信）更新。精确单体值请参见 FG 有价证券报告书。
+> confidence: **likely**。运营公司锚点创建于 2026-05-24。FG 页面 = [[regional-banks/san-jusan-fg]] 覆盖战略和集团整合；本页面覆盖银行牌照实体边界和县内竞争图。存款 / 贷款 KPI 已按 [[regional-banks/san-jusan-fg|三十三 FG]] FY2025.3  合并资料（2025-05-09 决算短信）更新。精确单体值请参见 FG 有价证券报告书。

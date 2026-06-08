@@ -15,7 +15,7 @@ translated_at: 2026-06-01T02:31:57.105Z
 
 ## TL;DR
 
-东和银行是一家总部位于群马县前桥市的 **第二地方银行**，在东证 Prime 上市 8558。它以 **1917-11-01 群马无尽株式会社** 起家，经历相互银行转型路线 1951，并配合 1989  普通银行转型改名为东和银行。它仍是 **非控股公司化的独立银行结构**；在群马县内，位置在第一 1  地方银行 [[gunma-bank]] 之后，并处于县内 No.2  位置。核心业务是中小企业特化型本地银行，包括 SUBARU 太田工厂供应链金融，并与 2003  旧第一劝业银行系、现 [[mizuho-fg]] 系建立了广泛战略合作。“东和”是当前法定身份 ^[extracted]。
+东和银行是一家总部位于群马县前桥市的 **第二地方银行**，在东证 Prime 上市 8558。它以 **1917-11-01 群马无尽株式会社** 起家，经历相互银行转型路线 1951，并配合 1989  普通银行转型改名为东和银行。它仍是 **非控股公司化的独立银行结构**；在群马县内，位置在第一 1  地方银行 [[regional-banks/gunma-bank]] 之后，并处于县内 No.2  位置。核心业务是中小企业特化型本地银行，包括 SUBARU 太田工厂供应链金融，并与 2003  旧第一劝业银行系、现 [[megabanks/mizuho-fg]] 系建立了广泛战略合作。“东和”是当前法定身份 ^[extracted]。
 
 ## 1. 公司概要
 
@@ -30,11 +30,11 @@ translated_at: 2026-06-01T02:31:57.105Z
 
 ### 为什么“非控股公司化”重要
 
-在群马县内，与其竞争的 [[gunma-bank]]（第一 1  地方银行）也维持独立银行形态；因此群马县的上市 2 行 家银行都具有 **独立银行 / Prime 上市** 的特别结构 ^[extracted]。放眼第二地方银行整体，[[mebuki-fg]] / [[tomony-hd]] / [[fidea-hd]] / [[jimoto-hd]] / [[proclair-hd]] 等已推进控股公司化，而东和银行仍维持独立形态。背景包括：
+在群马县内，与其竞争的 [[regional-banks/gunma-bank]]（第一 1  地方银行）也维持独立银行形态；因此群马县的上市 2 行 家银行都具有 **独立银行 / Prime 上市** 的特别结构 ^[extracted]。放眼第二地方银行整体，[[regional-banks/mebuki-fg]] / [[regional-banks/tomony-hd]] / [[regional-banks/fidea-hd]] / [[regional-banks/jimoto-hd]] / [[regional-banks/proclair-hd]] 等已推进控股公司化，而东和银行仍维持独立形态。背景包括：
 
 - 县内市场集中，控股公司化带来的多元化收益有限；
 - 租赁、保证等关联公司可在银行下方管理；
-- 与旧第一劝业银行系、现 [[mizuho-fg]] 系的广泛战略合作可补足覆盖能力。
+- 与旧第一劝业银行系、现 [[megabanks/mizuho-fg]] 系的广泛战略合作可补足覆盖能力。
 
 ### 关联业务 / 子公司 ^[likely]
 
@@ -57,7 +57,7 @@ translated_at: 2026-06-01T02:31:57.105Z
 | 高度成长期及战后长期 | 扩大前桥、高崎、太田等群马县内营业基础，并特化中小企业金融 |
 | **1989** | **普通银行转型 + 东和银行更名**；完成从相互银行到第二地方银行的一次性转型 |
 | 1990s | 泡沫破裂后的地方银行重组期仍保持独立 |
-| **2003** | 与旧第一劝业银行系、现 [[mizuho-fg]] 建立广泛战略合作，包括资本和业务合作 ^[extracted] |
+| **2003** | 与旧第一劝业银行系、现 [[megabanks/mizuho-fg]] 建立广泛战略合作，包括资本和业务合作 ^[extracted] |
 | 2010s | 强化县内中小企业和 SUBARU 相关供应链金融 |
 | 2022-04  | 维持东证市场分区条件和东证 Prime 8558  |
 | **2024** | 中期经营计划；具体名称和 KPI 细节需参见公开 IR ^[likely] |
@@ -79,9 +79,9 @@ translated_at: 2026-06-01T02:31:57.105Z
 |---|---|
 | 县内中小企业法人 | 群马县内中小企业特化，尤其是前桥、高崎、太田、伊势崎等区域 |
 | SUBARU 供应链金融 | 围绕 SUBARU 太田工厂零部件供应商和本地汽车制造集群的融资 |
-| 个人 | 县内住房贷款和养老金账户；县内份额位于 [[gunma-bank]] 之后，为 No.2  |
+| 个人 | 县内住房贷款和养老金账户；县内份额位于 [[regional-banks/gunma-bank]] 之后，为 No.2  |
 | 邻接县拓展 | 埼玉北部、栃木西部和东京都北部一部分 |
-| 银证合作 | 与 Mizuho 系证券合作，源自 [[mizuho-fg]] 战略合作 |
+| 银证合作 | 与 Mizuho 系证券合作，源自 [[megabanks/mizuho-fg]] 战略合作 |
 | 卡 / 租赁 | 东和 Card Service、东和 Lease 等 |
 
 ### 营业区域地理
@@ -108,11 +108,11 @@ translated_at: 2026-06-01T02:31:57.105Z
 
 | 竞争者 | 特征 |
 |---|---|
-| **[[gunma-bank]] 群马银行** | 县内 No.1  第一 1  地方银行，Prime 8334；东和最大竞争者 |
-| **[[mebuki-fg]] 足利银行** | 栃木地盘，但在群马东部竞争；Mebuki FG 形态 |
+| **[[regional-banks/gunma-bank]] 群马银行** | 县内 No.1  第一 1  地方银行，Prime 8334；东和最大竞争者 |
+| **[[regional-banks/mebuki-fg]] 足利银行** | 栃木地盘，但在群马东部竞争；Mebuki FG 形态 |
 | **栃木银行** | 栃木地盘第二地方银行，在群马东部也有业务竞争 |
 | **群马未来信用金库等信金 / 信组** | 小额和地域密着金融领域的竞争者 |
-| **Mega 3 行** | 大口法人方面与 [[mufg]] / [[smfg]] / [[mizuho-fg]] 竞争，主要是中堅以上客户 |
+| **Mega 3 行** | 大口法人方面与 [[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]] 竞争，主要是中堅以上客户 |
 
 ### 中小企业金融的差异化
 
@@ -132,9 +132,9 @@ translated_at: 2026-06-01T02:31:57.105Z
 
 ## Related
 
-- [[gunma-bank]] · [[mebuki-fg]] · [[mizuho-fg]] · [[tomony-hd]] · [[jimoto-hd]] · [[fidea-hd]]
-- Mega 3 行: [[mufg]] · [[smfg]] · [[mizuho-fg]]
-- 第二地方银行比较：[[proclair-hd]] · [[fidea-hd]] · [[jimoto-hd]]
+- [[regional-banks/gunma-bank]] · [[regional-banks/mebuki-fg]] · [[megabanks/mizuho-fg]] · [[regional-banks/tomony-hd]] · [[regional-banks/jimoto-hd]] · [[regional-banks/fidea-hd]]
+- Mega 3 行: [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]
+- 第二地方银行比较：[[regional-banks/proclair-hd]] · [[regional-banks/fidea-hd]] · [[regional-banks/jimoto-hd]]
 
 ## Sources
 
@@ -146,4 +146,4 @@ translated_at: 2026-06-01T02:31:57.105Z
 ---
 
 > [!info] 验证状态
-> confidence: **likely**。已参照 Wikipedia + 公开 IR 2.0  2026-05-19。创立 1917-11-01 群马无尽、更名沿革 1942  群马相互 -> 1951  群马相互 / 群马相互银行 -> 1989  东和银行、东证 Prime 上市 8558、前桥总部、第二地方银行协会加盟、与 [[mizuho-fg]] 系 / 旧第一劝业银行合作 2003 均基于公开信息。中期经营计划具体数值、子公司清单、最新决算和股东结构应以官方 IR 核对。SUBARU 中小供应商融资集中度是结构性推定，并非公开披露的集中度数值。
+> confidence: **likely**。已参照 Wikipedia + 公开 IR 2.0  2026-05-19。创立 1917-11-01 群马无尽、更名沿革 1942  群马相互 -> 1951  群马相互 / 群马相互银行 -> 1989  东和银行、东证 Prime 上市 8558、前桥总部、第二地方银行协会加盟、与 [[megabanks/mizuho-fg]] 系 / 旧第一劝业银行合作 2003 均基于公开信息。中期经营计划具体数值、子公司清单、最新决算和股东结构应以官方 IR 核对。SUBARU 中小供应商融资集中度是结构性推定，并非公开披露的集中度数值。

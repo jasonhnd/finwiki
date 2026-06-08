@@ -17,7 +17,7 @@ This entry sits under[[life-insurers/INDEX|life-insurers INDEX]]. Read it agains
 
 ## TL;DR
 
-Gibraltar Life Insurance Co., Ltd. is a Japan life-insurance operating company affiliated with the Prudential group and is listed on the Financial Services Agency's life-insurer list.[[prudential-japan]]It has a separate brand / channel / underwriting boundary that is difficult to see with just an umbrella page.
+Gibraltar Life Insurance Co., Ltd. is a Japan life-insurance operating company affiliated with the Prudential group and is listed on the Financial Services Agency's life-insurer list.[[life-insurers/prudential-japan]]It has a separate brand / channel / underwriting boundary that is difficult to see with just an umbrella page.
 
 ## 1 . License / group boundary
 
@@ -26,12 +26,12 @@ Gibraltar Life Insurance Co., Ltd. is a Japan life-insurance operating company a
 |Legal name|Gibraltar Life Insurance Co., Ltd.|
 |License route|Insurance Business Act life-insurance company; FSA life insurer list|
 |Industry body|Life Insurance Association of Japan member|
-|Group boundary|Prudential group Japan life-insurance brand; see [[prudential-japan]]|
+|Group boundary|Prudential group Japan life-insurance brand; see [[life-insurers/prudential-japan]]|
 |Wiki role|Prudential Japan cluster operating-company page|
 
 ## 2 .Operating model
 
-Gibraltar Life is a life insurer with a standalone brand and distribution surface within the Prudential Japan cluster. At FinWiki, we will cut out [[prudential-japan]]'s umbrella analysis and use life-planner / advisor-led distribution, teacher / affinity channels, and product mix as anchors for future follow-up.
+Gibraltar Life is a life insurer with a standalone brand and distribution surface within the Prudential Japan cluster. At FinWiki, we will cut out [[life-insurers/prudential-japan]]'s umbrella analysis and use life-planner / advisor-led distribution, teacher / affinity channels, and product mix as anchors for future follow-up.
 
 ## 3 . Why this page matters
 
@@ -41,10 +41,10 @@ Gibraltar Life is a life insurer with a standalone brand and distribution surfac
 
 ## Related
 
-- [[prudential-japan]]
+- [[life-insurers/prudential-japan]]
 - [[insurance/life-insurance-channel-mix]]
-- [[sony-life]]
-- [[nn-life-japan]]
+- [[life-insurers/sony-life]]
+- [[life-insurers/nn-life-japan]]
 
 ## Sources
 

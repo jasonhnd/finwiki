@@ -111,9 +111,9 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it against [[fintech
 
 ## Related
 
-- [[tether-business-model-short-treasury-yield|Tether short-term Treasury yield model]]
-- [[em-market-crypto-dollarization-pattern|emerging-market dollarization pattern]]
-- [[occ-trust-bank-charter-federal-stablecoin-arbitrage|OCC charter arbitrage]]
-- [[regulatory-window-strategic-acquisition|strategic acquisition before the regulatory window]]
+- [[fintech/tether-business-model-short-treasury-yield|Tether short-term Treasury yield model]]
+- [[fintech/em-market-crypto-dollarization-pattern|emerging-market dollarization pattern]]
+- [[fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage|OCC charter arbitrage]]
+- [[fintech/regulatory-window-strategic-acquisition|strategic acquisition before the regulatory window]]
 
 ---

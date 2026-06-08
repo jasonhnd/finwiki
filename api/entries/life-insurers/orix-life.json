@@ -47,48 +47,46 @@
     "競合ポジション"
   ],
   "body_links": {
-    "wikilinks_count": 15,
+    "wikilinks_count": 14,
     "wikilinks": [
-      "aflac-japan",
-      "axa-japan",
-      "dai-ichi-life",
       "insurance/INDEX",
-      "kampo-life",
+      "leasing-firms/orix-corp",
       "life-insurers/INDEX",
+      "life-insurers/aflac-japan",
+      "life-insurers/axa-japan",
       "life-insurers/dai-ichi-life",
-      "lifenet",
-      "meiji-yasuda",
-      "nippon-life",
-      "orix-corp",
-      "prudential-japan",
-      "sbi-hd",
-      "sony-fg",
-      "sumitomo-life"
+      "life-insurers/kampo-life",
+      "life-insurers/lifenet",
+      "life-insurers/meiji-yasuda",
+      "life-insurers/nippon-life",
+      "life-insurers/prudential-japan",
+      "life-insurers/sumitomo-life",
+      "megabanks/sbi-hd",
+      "megabanks/sony-fg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/aflac-japan",
-      "https://finwiki.zksc.io/axa-japan",
-      "https://finwiki.zksc.io/dai-ichi-life",
       "https://finwiki.zksc.io/insurance/INDEX",
-      "https://finwiki.zksc.io/kampo-life",
+      "https://finwiki.zksc.io/leasing-firms/orix-corp",
       "https://finwiki.zksc.io/life-insurers/INDEX",
+      "https://finwiki.zksc.io/life-insurers/aflac-japan",
+      "https://finwiki.zksc.io/life-insurers/axa-japan",
       "https://finwiki.zksc.io/life-insurers/dai-ichi-life",
-      "https://finwiki.zksc.io/lifenet",
-      "https://finwiki.zksc.io/meiji-yasuda",
-      "https://finwiki.zksc.io/nippon-life",
-      "https://finwiki.zksc.io/orix-corp",
-      "https://finwiki.zksc.io/prudential-japan",
-      "https://finwiki.zksc.io/sbi-hd",
-      "https://finwiki.zksc.io/sony-fg",
-      "https://finwiki.zksc.io/sumitomo-life"
+      "https://finwiki.zksc.io/life-insurers/kampo-life",
+      "https://finwiki.zksc.io/life-insurers/lifenet",
+      "https://finwiki.zksc.io/life-insurers/meiji-yasuda",
+      "https://finwiki.zksc.io/life-insurers/nippon-life",
+      "https://finwiki.zksc.io/life-insurers/prudential-japan",
+      "https://finwiki.zksc.io/life-insurers/sumitomo-life",
+      "https://finwiki.zksc.io/megabanks/sbi-hd",
+      "https://finwiki.zksc.io/megabanks/sony-fg"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3479,
-    "word_like_tokens": 479,
-    "inbound_wikilinks_count": 6,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 3817,
+    "word_like_tokens": 526,
+    "inbound_wikilinks_count": 7,
+    "last_modified": "2026-06-08"
   }
 }

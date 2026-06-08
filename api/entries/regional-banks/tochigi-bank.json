@@ -48,30 +48,30 @@
   "body_links": {
     "wikilinks_count": 7,
     "wikilinks": [
-      "ashikaga-bank",
       "banking/INDEX",
       "banking/regional-bank-consolidation-pattern",
-      "mebuki-fg",
       "regional-banks/INDEX",
+      "regional-banks/ashikaga-bank",
+      "regional-banks/mebuki-fg",
       "regional-banks/tokyo-star-bank",
-      "towa-bank"
+      "regional-banks/towa-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/ashikaga-bank",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
-      "https://finwiki.zksc.io/mebuki-fg",
       "https://finwiki.zksc.io/regional-banks/INDEX",
+      "https://finwiki.zksc.io/regional-banks/ashikaga-bank",
+      "https://finwiki.zksc.io/regional-banks/mebuki-fg",
       "https://finwiki.zksc.io/regional-banks/tokyo-star-bank",
-      "https://finwiki.zksc.io/towa-bank"
+      "https://finwiki.zksc.io/regional-banks/towa-bank"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1735,
-    "word_like_tokens": 274,
-    "inbound_wikilinks_count": 0,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 1855,
+    "word_like_tokens": 290,
+    "inbound_wikilinks_count": 2,
+    "last_modified": "2026-06-08"
   }
 }

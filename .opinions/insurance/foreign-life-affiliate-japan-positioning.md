@@ -22,7 +22,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 - How does AFLAC Japan's cancer-insurance dominance evolve as Japanese demographic and morbidity patterns shift, and as Japanese domestic insurers improve their cancer / medical product offerings?
 - How do bancassurance regulatory and conduct rules affect MetLife Japan and other bancassurance-leaning foreign affiliates as the FSA tightens suitability frameworks for foreign-currency products?
-- How do Prudential Japan / Gibraltar Life Lifeplanner productivity and persistency metrics compare with [[JapanFG/sony-life|Sony Life]] under the [[insurance/sony-life-group-life-operating-model|Sony Life Lifeplanner / group-life operating model]] framework?
+- How do Prudential Japan / Gibraltar Life Lifeplanner productivity and persistency metrics compare with [[life-insurers/sony-life|Sony Life]] under the [[insurance/sony-life-group-life-operating-model|Sony Life Lifeplanner / group-life operating model]] framework?
 - How does parent-group capital pressure (US RBC for Prudential and MetLife, Solvency II for AXA and Allianz, OSFI for Manulife, FINMA for Zurich, HKIA for AIA) interact with capital availability for Japan-subsidiary growth and ESR resilience?
 - How does the FSA's role in foreign-IAIG supervisory colleges evolve under the [[insurance/global-solvency-framework-comparison-matrix|IAIS ICS 2.0]] post-finalization regime?
 - How is foreign-affiliate persistency holding up in foreign-currency annuity blocks as USD-JPY volatility and US interest rates fluctuate?

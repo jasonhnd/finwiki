@@ -42,10 +42,10 @@ translated_at: 2026-06-02T14:25:12.396Z
 ## 関連
 
 - [[insurance/natcat-reinsurance-japan]]
-- [[toa-reinsurance]]
-- [[tokio-marine-nichido-fire]]
-- [[mitsui-sumitomo-insurance]]
-- [[sompo-japan-insurance]]
+- [[non-life-insurers/toa-reinsurance]]
+- [[non-life-insurers/tokio-marine-nichido-fire]]
+- [[non-life-insurers/mitsui-sumitomo-insurance]]
+- [[non-life-insurers/sompo-japan-insurance]]
 
 ## 出典
 

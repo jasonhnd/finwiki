@@ -19,7 +19,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## Open questions
 
-- 親会社 [[JapanFG/gmo-financial-hd|GMO FHD]] 中計 2024-26 における暗号資産事業の収益目標・KPI は？
-- 競合 [[sbi-hd|SBI VC Trade]] の急成長（XRP 軸）に対する GMO の差別化戦略は？
+- 親会社 [[payment-firms/gmo-financial-hd|GMO FHD]] 中計 2024-26 における暗号資産事業の収益目標・KPI は？
+- 競合 [[megabanks/sbi-hd|SBI VC Trade]] の急成長（XRP 軸）に対する GMO の差別化戦略は？
 - 米国子会社 GMO トラスト（GYEN / ZUSD 発行）との国内事業統合は？
 - 金商法 ETF（暗号資産現物 ETF）解禁シナリオで GMO のポジションは？

@@ -25,7 +25,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## 推論 (from SBI 系列入りの戦略意義)
 
-- 住信 SBI ネット銀行（[[sbi-hd]] 連携）とは別系統（住信は三井住友信託 [[smfg]] 系資本の合弁）→ 役割分担あり ^[inferred]
+- 住信 SBI ネット銀行（[[megabanks/sbi-hd]] 連携）とは別系統（住信は三井住友信託 [[megabanks/smfg]] 系資本の合弁）→ 役割分担あり ^[inferred]
 
 ## Counterpoints
 

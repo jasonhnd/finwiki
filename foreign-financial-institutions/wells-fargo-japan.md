@@ -22,7 +22,7 @@ This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-i
 
 ## TL;DR
 
-米 4 大商業銀行の一角 **Wells Fargo & Company**（NYSE: WFC、G-SIB Bucket 1）の在日支店。**法人特化型**で、米国企業の日本進出サポートおよび邦銀・日系企業の米国業務支援が主軸。リテール（個人向け）は日本展開なし。トランザクション・バンキング、為替・トレード・ファイナンス、グローバルキャッシュマネジメントが 3 本柱。米国本体は 2016 年以降の偽口座事件で経営課題を抱えつつ、2024 年以降は連邦準備制度の資産上限解除を視野に再成長フェーズへ。在日プレゼンスはシティ [[citigroup-japan]] / JP モルガン [[jpmorgan-japan]] / バンク・オブ・アメリカと比し小規模、ホールセール特化型ニッチ。^[extracted]
+米 4 大商業銀行の一角 **Wells Fargo & Company**（NYSE: WFC、G-SIB Bucket 1）の在日支店。**法人特化型**で、米国企業の日本進出サポートおよび邦銀・日系企業の米国業務支援が主軸。リテール（個人向け）は日本展開なし。トランザクション・バンキング、為替・トレード・ファイナンス、グローバルキャッシュマネジメントが 3 本柱。米国本体は 2016 年以降の偽口座事件で経営課題を抱えつつ、2024 年以降は連邦準備制度の資産上限解除を視野に再成長フェーズへ。在日プレゼンスはシティ [[foreign-financial-institutions/citigroup-japan]] / JP モルガン [[foreign-financial-institutions/jpmorgan-japan]] / バンク・オブ・アメリカと比し小規模、ホールセール特化型ニッチ。^[extracted]
 
 ## 1. 会社概要
 
@@ -103,15 +103,15 @@ Wells Fargo & Company（持株会社・NYSE: WFC）
 
 - **法人特化型ニッチ**: 米国邦人企業（米国本社・日本子会社）+ 邦銀の米国業務サポートに特化
 - **競合**:
-  - [[citigroup-japan]]（シティ）: 同じく法人特化、より大規模・グローバル IB 強い
-  - [[jpmorgan-japan]]（JP モルガン）: グローバル IB・M&A・トレーディング最大手
+  - [[foreign-financial-institutions/citigroup-japan]]（シティ）: 同じく法人特化、より大規模・グローバル IB 強い
+  - [[foreign-financial-institutions/jpmorgan-japan]]（JP モルガン）: グローバル IB・M&A・トレーディング最大手
   - Bank of America 東京支店: 同じく米 4 大の在日支店、ホールセール特化
   - **Wells Fargo の差別化**: 米国内ネットワーク（小規模事業者・住宅ローン・西部顧客基盤）を活用、日米双方向ビジネス
 - **リテール不展開**: シティバンク銀行（旧）→ SMBC 信託に売却された経緯を踏まえ、Wells Fargo はそもそも日本リテール参入していない。米国メガバンクは日本リテール撤退が共通パターン
 
 ### 邦銀向けサービス
 
-- **米ドル決済コルレス**: [[mufg]] / [[smfg]] / [[mizuho-fg]] 等メガバンクの米ドルクリアリング・コルレスバックアップ
+- **米ドル決済コルレス**: [[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]] 等メガバンクの米ドルクリアリング・コルレスバックアップ
 - **米国市場アクセス**: 邦銀の米国進出時の現地サポート（vs MUFG Americas Holdings の逆方向業務）
 
 ## 5. 規制・政策
@@ -124,8 +124,8 @@ Wells Fargo & Company（持株会社・NYSE: WFC）
 
 ## Related
 
-- [[citigroup-japan]] · [[jpmorgan-japan]] · [[foreign-financial-institutions/bank-of-america-japan|bank-of-america-japan]]
-- [[mufg]] · [[smfg]] · [[mizuho-fg]]
+- [[foreign-financial-institutions/citigroup-japan]] · [[foreign-financial-institutions/jpmorgan-japan]] · [[foreign-financial-institutions/bank-of-america-japan|bank-of-america-japan]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]
 
 ## Sources
 

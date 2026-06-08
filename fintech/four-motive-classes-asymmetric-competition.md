@@ -60,7 +60,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it against [[fintech
 
 **圧力下行動**:**多元化を維持** + 一方的に打開しない + fragmentation persistent の結末を受け入れる。
 
-参照:[[portfolio-winner-structure-arm-analog|ポートフォリオ勝者構造 / ARM アナロジー]]
+参照:[[fintech/portfolio-winner-structure-arm-analog|ポートフォリオ勝者構造 / ARM アナロジー]]
 
 ### クラス 3:インフラ勝者(Infrastructure Winners)
 
@@ -131,9 +131,9 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it against [[fintech
 
 ## 関連
 
-- [[wall-street-crypto-network-neutrality|Wall Street ネットワーク中立性]]
-- [[portfolio-winner-structure-arm-analog|ポートフォリオ勝者構造]]
-- [[central-banking-function-unbundling|中央銀行機能の解体 5 層]]
+- [[fintech/wall-street-crypto-network-neutrality|Wall Street ネットワーク中立性]]
+- [[fintech/portfolio-winner-structure-arm-analog|ポートフォリオ勝者構造]]
+- [[fintech/central-banking-function-unbundling|中央銀行機能の解体 5 層]]
 
 ---
 

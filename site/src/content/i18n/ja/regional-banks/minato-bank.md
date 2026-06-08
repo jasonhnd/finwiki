@@ -15,9 +15,9 @@ translated_at: 2026-06-02T14:54:39.054Z
 
 ## 要約
 
-みなと銀行 は、兵庫県、神戸市、阪神間 を主な文脈として読む地域金融機関 である。[[resona-hd]] を手がかりに、ライセンス、グループ境界、営業地盤、比較対象を切り分ける。公開情報で確認できる範囲に限定し、非公開情報や個人情報は扱わない。
+みなと銀行 は、兵庫県、神戸市、阪神間 を主な文脈として読む地域金融機関 である。[[megabanks/resona-hd]] を手がかりに、ライセンス、グループ境界、営業地盤、比較対象を切り分ける。公開情報で確認できる範囲に限定し、非公開情報や個人情報は扱わない。
 
-## [[kansai-mirai-bank]]. ライセンス・グループ境界
+## [[regional-banks/kansai-mirai-bank]]. ライセンス・グループ境界
 
 | 項目 | メモ |
 |---|---|
@@ -26,12 +26,12 @@ translated_at: 2026-06-02T14:54:39.054Z
 | 主な市場 | 兵庫県、神戸市、阪神間 |
 | 確認方法 | 金融庁、公式会社情報、上場会社開示、業界団体資料などの公開情報を照合する。 |
 | 比較参照 | 1 |
-| 関連境界 | [[resona-hd]] |
+| 関連境界 | [[megabanks/resona-hd]] |
 
 ## 2. 事業モデル
 
 みなと銀行 の事業モデルは、顧客基盤、商品範囲、グループ内の役割、監督上の登録区分を分けて読む必要がある。銀行、信用金庫、信託銀行、証券会社、保険会社、資産運用会社、商社系金融会社では、同じ金融機関でも収益源と規制上の確認点が異なる。
-このページでは [[resona-hd]] を比較軸として、会社単位の公開情報と上位グループの説明を混同しないようにする。
+このページでは [[megabanks/resona-hd]] を比較軸として、会社単位の公開情報と上位グループの説明を混同しないようにする。
 
 | 観点 | 読み方 |
 |---|---|
@@ -44,19 +44,19 @@ translated_at: 2026-06-02T14:54:39.054Z
 
 - みなと銀行 を会社または制度単位で参照できる入口にする。
 - 上位グループ、同業他社、制度項目を混同せず、公開情報だけで説明する。
-- [[kansai-mirai-bank]] との比較により、営業地盤、規模、登録区分、監督境界の違いを確認できる。
-- [[resona-hd]] を読む際の補助線として、地域金融、資本市場、保険、資産運用、商社系金融の接点を整理できる。
+- [[regional-banks/kansai-mirai-bank]] との比較により、営業地盤、規模、登録区分、監督境界の違いを確認できる。
+- [[megabanks/resona-hd]] を読む際の補助線として、地域金融、資本市場、保険、資産運用、商社系金融の接点を整理できる。
 
 ## 関連
 
-- [[tajima-bank]]
-- [[ikeda-senshu-bank]]
-- [[kyoto-bank]]
-- [[resona-hd]]
-- [[resona-bank]]
-- [[kansai-mirai-bank]]
-- [[tajima-bank]]
-- [[ikeda-senshu-bank]]
+- [[regional-banks/tajima-bank]]
+- [[regional-banks/ikeda-senshu-bank]]
+- [[regional-banks/kyoto-bank]]
+- [[megabanks/resona-hd]]
+- [[megabanks/resona-bank]]
+- [[regional-banks/kansai-mirai-bank]]
+- [[regional-banks/tajima-bank]]
+- [[regional-banks/ikeda-senshu-bank]]
 
 ## 出典
 

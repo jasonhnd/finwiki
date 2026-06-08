@@ -49,30 +49,28 @@
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 6,
+    "wikilinks_count": 5,
     "wikilinks": [
       "banking/INDEX",
-      "concordia-fg",
-      "higashi-nippon-bank",
-      "kanagawa-bank",
       "regional-banks/INDEX",
-      "regional-banks/higashi-nippon-bank"
+      "regional-banks/concordia-fg",
+      "regional-banks/higashi-nippon-bank",
+      "regional-banks/kanagawa-bank"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/concordia-fg",
-      "https://finwiki.zksc.io/higashi-nippon-bank",
-      "https://finwiki.zksc.io/kanagawa-bank",
       "https://finwiki.zksc.io/regional-banks/INDEX",
-      "https://finwiki.zksc.io/regional-banks/higashi-nippon-bank"
+      "https://finwiki.zksc.io/regional-banks/concordia-fg",
+      "https://finwiki.zksc.io/regional-banks/higashi-nippon-bank",
+      "https://finwiki.zksc.io/regional-banks/kanagawa-bank"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1780,
-    "word_like_tokens": 283,
-    "inbound_wikilinks_count": 16,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 1915,
+    "word_like_tokens": 301,
+    "inbound_wikilinks_count": 22,
+    "last_modified": "2026-06-08"
   }
 }

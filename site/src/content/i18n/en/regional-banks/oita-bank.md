@@ -30,22 +30,22 @@ The Oita Bank, Ltd. is a regional bank headquartered in Oita Prefecture and list
 
 ## 2. Operating model
 
-Oita Bank is a regional bank centered on Oita Prefecture, handling retail deposits, SME finance, tourism / manufacturing support, and local relationship banking. As a standalone regional-bank peer in Kyushu, compare it with [[saga-bank]], [[miyazaki-bank]], and [[fukuoka-bank]].
+Oita Bank is a regional bank centered on Oita Prefecture, handling retail deposits, SME finance, tourism / manufacturing support, and local relationship banking. As a standalone regional-bank peer in Kyushu, compare it with [[regional-banks/saga-bank]], [[regional-banks/miyazaki-bank]], and [[regional-banks/fukuoka-bank]].
 
 ## 3. Why this page matters
 
 - Closes the FSA exact-name operating-company gap for Oita Bank.
 - Provides an Oita prefecture anchor for Kyushu regional-bank comparison.
-- Adds a peer page for second-regional-bank coverage such as [[howa-bank|豊和銀行]].
+- Adds a peer page for second-regional-bank coverage such as [[regional-banks/howa-bank|豊和銀行]].
 
 ## Related
 
-- [[saga-bank]]
-- [[miyazaki-bank]]
-- [[fukuoka-bank]]
-- [[higo-bank]]
+- [[regional-banks/saga-bank]]
+- [[regional-banks/miyazaki-bank]]
+- [[regional-banks/fukuoka-bank]]
+- [[regional-banks/higo-bank]]
 - [[banking/regional-bank-consolidation-pattern]]
-- [[howa-bank]]
+- [[regional-banks/howa-bank]]
 - [[banking/INDEX]]
 
 ## Sources

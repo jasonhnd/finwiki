@@ -50,40 +50,40 @@
   "body_links": {
     "wikilinks_count": 12,
     "wikilinks": [
-      "awa-bank",
       "banking/INDEX",
       "banking/regional-bank-consolidation-pattern",
-      "hyakujushi-bank",
-      "iyo-bank",
-      "iyogin-hd",
-      "kagawa-bank",
+      "megabanks/smfg",
       "regional-banks/INDEX",
+      "regional-banks/awa-bank",
       "regional-banks/fukuoka-fg",
-      "shikoku-bank",
-      "smfg",
-      "tokushima-taisho-bank"
+      "regional-banks/hyakujushi-bank",
+      "regional-banks/iyo-bank",
+      "regional-banks/iyogin-hd",
+      "regional-banks/kagawa-bank",
+      "regional-banks/shikoku-bank",
+      "regional-banks/tokushima-taisho-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/awa-bank",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
-      "https://finwiki.zksc.io/hyakujushi-bank",
-      "https://finwiki.zksc.io/iyo-bank",
-      "https://finwiki.zksc.io/iyogin-hd",
-      "https://finwiki.zksc.io/kagawa-bank",
+      "https://finwiki.zksc.io/megabanks/smfg",
       "https://finwiki.zksc.io/regional-banks/INDEX",
+      "https://finwiki.zksc.io/regional-banks/awa-bank",
       "https://finwiki.zksc.io/regional-banks/fukuoka-fg",
-      "https://finwiki.zksc.io/shikoku-bank",
-      "https://finwiki.zksc.io/smfg",
-      "https://finwiki.zksc.io/tokushima-taisho-bank"
+      "https://finwiki.zksc.io/regional-banks/hyakujushi-bank",
+      "https://finwiki.zksc.io/regional-banks/iyo-bank",
+      "https://finwiki.zksc.io/regional-banks/iyogin-hd",
+      "https://finwiki.zksc.io/regional-banks/kagawa-bank",
+      "https://finwiki.zksc.io/regional-banks/shikoku-bank",
+      "https://finwiki.zksc.io/regional-banks/tokushima-taisho-bank"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3521,
-    "word_like_tokens": 593,
-    "inbound_wikilinks_count": 3,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 3936,
+    "word_like_tokens": 648,
+    "inbound_wikilinks_count": 9,
+    "last_modified": "2026-06-08"
   }
 }

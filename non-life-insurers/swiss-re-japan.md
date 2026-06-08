@@ -48,16 +48,16 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 
 - Foreign reinsurer Japan branch の双璧 — [[non-life-insurers/munich-re-japan]] とともに「Big 2」グローバル再保険資本の日本入口
 - [[insurance/natcat-reinsurance-japan]] と元受メガ損保群を接続する system link
-- 国内 [[toa-reinsurance]] / [[japan-earthquake-reinsurance]] との市場役割の contrast 教材
+- 国内 [[non-life-insurers/toa-reinsurance]] / [[non-life-insurers/japan-earthquake-reinsurance]] との市場役割の contrast 教材
 
 ## Related
 
 - [[non-life-insurers/INDEX]]
-- [[munich-re-japan]]
-- [[toa-reinsurance]]
-- [[japan-earthquake-reinsurance]]
-- [[hannover-re-japan]]
-- [[rga-japan]]
+- [[non-life-insurers/munich-re-japan]]
+- [[non-life-insurers/toa-reinsurance]]
+- [[non-life-insurers/japan-earthquake-reinsurance]]
+- [[non-life-insurers/hannover-re-japan]]
+- [[life-insurers/rga-japan]]
 - [[insurance/natcat-reinsurance-japan]]
 - [[insurance/INDEX]]
 

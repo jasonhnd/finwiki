@@ -16,7 +16,7 @@ translated_at: 2026-06-02T14:01:20.926Z
 
 ## 要約
 
-株式会社筑邦銀行は、金融庁の銀行免許一覧に掲載される、福岡県久留米市に本店を置く地方銀行である。福岡県ローカル / 筑後地域の地方銀行事業会社アンカーであり、[[fukuoka-bank]] と [[nishi-nippon-city-bank]] とは別法人のピアとして扱う。
+株式会社筑邦銀行は、金融庁の銀行免許一覧に掲載される、福岡県久留米市に本店を置く地方銀行である。福岡県ローカル / 筑後地域の地方銀行事業会社アンカーであり、[[regional-banks/fukuoka-bank]] と [[regional-banks/nishi-nippon-city-bank]] とは別法人のピアとして扱う。
 
 ## 1. ライセンス / グループ境界
 
@@ -30,19 +30,19 @@ translated_at: 2026-06-02T14:01:20.926Z
 
 ## 2. 運営モデル
 
-筑邦銀行は、福岡県南部を中心にリテール預金、中小企業金融、地域密着型金融、筑後地域の事業支援を担う地方銀行である。福岡県内では、大手銀行ピアである [[fukuoka-bank]] / [[nishi-nippon-city-bank]] とは異なる地域銀行としての境界を持つ。九州地銀再編の文脈は [[banking/regional-bank-consolidation-pattern]] と [[banking/INDEX|banking index]] を参照する。
+筑邦銀行は、福岡県南部を中心にリテール預金、中小企業金融、地域密着型金融、筑後地域の事業支援を担う地方銀行である。福岡県内では、大手銀行ピアである [[regional-banks/fukuoka-bank]] / [[regional-banks/nishi-nippon-city-bank]] とは異なる地域銀行としての境界を持つ。九州地銀再編の文脈は [[banking/regional-bank-consolidation-pattern]] と [[banking/INDEX|banking index]] を参照する。
 
 ## 3. このページが重要な理由
 
 - 筑邦銀行について、FSA の正確な法人名に基づく事業会社ページの欠落を埋める。
 - 筑後地域の銀行カバレッジを、福岡市中心のグループから切り分ける。
-- [[sbi-regional-bank-hd]] の地方銀行投資文脈に対するピア・アンカーを提供する。
+- [[megabanks/sbi-regional-bank-hd]] の地方銀行投資文脈に対するピア・アンカーを提供する。
 
 ## 関連項目
 
-- [[fukuoka-bank]]
-- [[nishi-nippon-city-bank]]
-- [[sbi-regional-bank-hd]]
+- [[regional-banks/fukuoka-bank]]
+- [[regional-banks/nishi-nippon-city-bank]]
+- [[megabanks/sbi-regional-bank-hd]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 

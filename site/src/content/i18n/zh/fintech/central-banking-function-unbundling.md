@@ -38,7 +38,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it against [[fintech
 | 俄罗斯准备金 $300B+ 被冻结 | 打破 #1  的中立性假设 → 美元被理解为政治工具 → #3  多极化获得政治正当性 |
 | ChatGPT 公开发布 | 将 #4  从"人 vs 机构"的二元转变为"人 vs 机构 vs 智能体"的三元 → 协议层重构 |
 
-参照：[[2022-three-variable-cascade-thesis|2022 三変数カスケード]]
+参照：[[fintech/2022-three-variable-cascade-thesis|2022 三変数カスケード]]
 
 ## 层间网络效应
 
@@ -85,9 +85,9 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it against [[fintech
 
 ## 关联
 
-- [[stablecoin-chain-sovereign-currency-divide|5 極地政学対立]]
-- [[occ-trust-bank-charter-federal-stablecoin-arbitrage|OCC charter 裁定]]
-- [[three-circles-stablecoin-mra-framework|三円 MRA フレームワーク]]
-- [[2022-three-variable-cascade-thesis|2022 三変数カスケード]]
+- [[fintech/stablecoin-chain-sovereign-currency-divide|5 極地政学対立]]
+- [[fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage|OCC charter 裁定]]
+- [[fintech/three-circles-stablecoin-mra-framework|三円 MRA フレームワーク]]
+- [[fintech/2022-three-variable-cascade-thesis|2022 三変数カスケード]]
 
 ---

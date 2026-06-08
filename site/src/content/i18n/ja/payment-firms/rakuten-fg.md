@@ -16,7 +16,7 @@ translated_at: 2026-06-02T15:14:17.086Z
 
 ## 要約
 
-楽天グループ株式会社 (Rakuten Group, Inc., 東証 PRIME 4755) のフィナンシャルテック・セグメント。**EC 軸の独自モデル**: 楽天市場 + 楽天ポイント を中核 に、銀行 / 証券 / カード / 保険 / 決済 を「楽天経済圏」として束ねるクロスセル戦略。メガバンク系 ([[mufg]] / [[smfg]] / [[mizuho-fg]]) や通信系 FG ([[ndfg]] / au-FH / [[paypay-fg]]) と異なり、**コマース起点 → 金融** という独自の事業組み立て。2023-04 楽天銀行 IPO、2024 楽天証券へみずほ証券 49% 出資受入。**2024 期 FinTech セグメント Non-GAAP 営業利益 1,534 億円 (+37.9%)、グループ IFRS 営業利益 黒字転換 (530 億円)**。楽天モバイル赤字 (Non-GAAP 営業損失 2,163 億円) は依然 FinTech 利益を上回るが、改善傾向。創業者・三木谷浩史 (1965-) 会長兼社長は 1997 創業以来の代表者。
+楽天グループ株式会社 (Rakuten Group, Inc., 東証 PRIME 4755) のフィナンシャルテック・セグメント。**EC 軸の独自モデル**: 楽天市場 + 楽天ポイント を中核 に、銀行 / 証券 / カード / 保険 / 決済 を「楽天経済圏」として束ねるクロスセル戦略。メガバンク系 ([[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]]) や通信系 FG ([[megabanks/ndfg]] / au-FH / [[megabanks/paypay-fg]]) と異なり、**コマース起点 → 金融** という独自の事業組み立て。2023-04 楽天銀行 IPO、2024 楽天証券へみずほ証券 49% 出資受入。**2024 期 FinTech セグメント Non-GAAP 営業利益 1,534 億円 (+37.9%)、グループ IFRS 営業利益 黒字転換 (530 億円)**。楽天モバイル赤字 (Non-GAAP 営業損失 2,163 億円) は依然 FinTech 利益を上回るが、改善傾向。創業者・三木谷浩史 (1965-) 会長兼社長は 1997 創業以来の代表者。
 
 ## 1. 会社概要
 
@@ -126,9 +126,9 @@ translated_at: 2026-06-02T15:14:17.086Z
 | 競合カテゴリ | 軸 | 代表 |
 |---|---|---|
 | **EC 軸** | **コマース → 金融** | **Rakuten FG (本項)** |
-| 通信軸 | 通信回線 → 金融 | [[ndfg]] (docomo) / au-FH (KDDI) / [[paypay-fg]] (Yahoo/Z) |
-| 銀行軸 | 商業銀行 → デジタル化 | [[mufg]] / [[smfg]] / [[mizuho-fg]] |
-| 専業ネット軸 | ネット証券 → 拡張 | [[sbi-hd]] |
+| 通信軸 | 通信回線 → 金融 | [[megabanks/ndfg]] (docomo) / au-FH (KDDI) / [[megabanks/paypay-fg]] (Yahoo/Z) |
+| 銀行軸 | 商業銀行 → デジタル化 | [[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]] |
+| 専業ネット軸 | ネット証券 → 拡張 | [[megabanks/sbi-hd]] |
 
 ### モバイル赤字 × 金融補填構造
 
@@ -162,8 +162,8 @@ translated_at: 2026-06-02T15:14:17.086Z
 
 ## 関連
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]]（みずほ FG = 楽天証券 49% 出資）
-- [[ndfg]] · [[paypay-fg]] · [[sbi-hd]]（経済圏競合）
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]（みずほ FG = 楽天証券 49% 出資）
+- [[megabanks/ndfg]] · [[megabanks/paypay-fg]] · [[megabanks/sbi-hd]]（経済圏競合）
 - [[banking/mercari-bank-license-stack]] · [[banking/minna-bank-baas-model]]
 
 ## 出典

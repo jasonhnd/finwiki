@@ -49,16 +49,13 @@
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 12,
+    "wikilinks_count": 9,
     "wikilinks": [
       "INDEX",
       "banking/INDEX",
       "banking/regional-bank-consolidation-pattern",
       "financial-regulators/fsa",
       "financial-regulators/zenginkyo",
-      "kagoshima-bank",
-      "kyushu-fg",
-      "miyazaki-bank",
       "regional-banks/INDEX",
       "regional-banks/kagoshima-bank",
       "regional-banks/kyushu-fg",
@@ -70,9 +67,6 @@
       "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
       "https://finwiki.zksc.io/financial-regulators/fsa",
       "https://finwiki.zksc.io/financial-regulators/zenginkyo",
-      "https://finwiki.zksc.io/kagoshima-bank",
-      "https://finwiki.zksc.io/kyushu-fg",
-      "https://finwiki.zksc.io/miyazaki-bank",
       "https://finwiki.zksc.io/regional-banks/INDEX",
       "https://finwiki.zksc.io/regional-banks/kagoshima-bank",
       "https://finwiki.zksc.io/regional-banks/kyushu-fg",
@@ -82,9 +76,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2605,
-    "word_like_tokens": 372,
-    "inbound_wikilinks_count": 2,
-    "last_modified": "2026-06-05"
+    "nonspace_chars": 2650,
+    "word_like_tokens": 378,
+    "inbound_wikilinks_count": 3,
+    "last_modified": "2026-06-08"
   }
 }

@@ -15,7 +15,7 @@ translated_at: 2026-05-31T23:59:49.318Z
 
 ## TL;DR
 
-摩根士丹利日本是美国 Morgan Stanley（NYSE: MS）的日本据点。通过与 **MUFG [[mufg]] 的战略合作（2008-09）**，它建立了日本大型银行中最深入的全球投资银行合作之一。2010-05 整合日本证券业务后，现以 **2 社体制** 运作：三菱 UFJ 摩根士丹利证券 = MUMSS，摩根士丹利 MUFG 证券 = MSMS。MUMSS 负责面对面零售 + ECM / DCM，MSMS 负责 wholesale（M&A、机构投资者）。该集团占据日本 5  大证券公司之一，在全球投资银行业务上与野村 [[nomura-hd]] 并列具备存在感。
+摩根士丹利日本是美国 Morgan Stanley（NYSE: MS）的日本据点。通过与 **MUFG [[megabanks/mufg]] 的战略合作（2008-09）**，它建立了日本大型银行中最深入的全球投资银行合作之一。2010-05 整合日本证券业务后，现以 **2 社体制** 运作：三菱 UFJ 摩根士丹利证券 = MUMSS，摩根士丹利 MUFG 证券 = MSMS。MUMSS 负责面对面零售 + ECM / DCM，MSMS 负责 wholesale（M&A、机构投资者）。该集团占据日本 5  大证券公司之一，在全球投资银行业务上与野村 [[securities-firms/nomura-hd]] 并列具备存在感。
 
 ## 1. 公司概要
 
@@ -63,9 +63,9 @@ translated_at: 2026-05-31T23:59:49.318Z
 
 | 领域 | 主要竞争对手 |
 |---|---|
-| 全球 IB / M&A | [[goldman-sachs-japan]] · JP Morgan Securities · [[nomura-hd]] |
-| 国内零售证券 | [[nomura-hd]] · 大和证券 · SMBC 日兴 [[smfg]] · 瑞穗证券 [[mizuho-fg]] |
-| ECM / DCM 主承销 | [[nomura-hd]] · 大和 · SMBC 日兴 · 瑞穗 |
+| 全球 IB / M&A | [[securities-firms/goldman-sachs-japan]] · JP Morgan Securities · [[securities-firms/nomura-hd]] |
+| 国内零售证券 | [[securities-firms/nomura-hd]] · 大和证券 · SMBC 日兴 [[megabanks/smfg]] · 瑞穗证券 [[megabanks/mizuho-fg]] |
+| ECM / DCM 主承销 | [[securities-firms/nomura-hd]] · 大和 · SMBC 日兴 · 瑞穗 |
 | 机构投资者交易 | 高盛 · JP Morgan · BofA · Citi |
 
 ### 整合前阶段（1970s-2007）
@@ -116,7 +116,7 @@ translated_at: 2026-05-31T23:59:49.318Z
 - **双重牌照结构**：MUMSS（日本银行过半）+ MSMS（外资过半），用于监管与客户最优化。
 - **跨功能组合**：MUFG 的银行客户基础 × MS 的全球 IB 产品。
 - **资本效率**：MUFG 通过权益法投资收益纳入 Morgan Stanley 业绩，贡献年度数千亿日元规模利润。
-- **竞争差异化**：日本 megabank + 外资 IB 的组合几乎独一无二；[[smfg]] = 日兴独立，[[mizuho-fg]] = 瑞穗证券独立。
+- **竞争差异化**：日本 megabank + 外资 IB 的组合几乎独一无二；[[megabanks/smfg]] = 日兴独立，[[megabanks/mizuho-fg]] = 瑞穗证券独立。
 
 ### Wholesale 战略（MSMS）
 
@@ -139,12 +139,12 @@ translated_at: 2026-05-31T23:59:49.318Z
 
 | 竞争对手 | 性质 |
 |---|---|
-| [[goldman-sachs-japan]] | 纯外资 IB；无日本银行合作；集中 wholesale |
+| [[securities-firms/goldman-sachs-japan]] | 纯外资 IB；无日本银行合作；集中 wholesale |
 | JP Morgan Securities | 纯外资 IB，同时存在商业银行业务 |
-| [[nomura-hd]] | 最大的日资银行系证券集团，零售 + wholesale 两面 |
+| [[securities-firms/nomura-hd]] | 最大的日资银行系证券集团，零售 + wholesale 两面 |
 | 大和证券 | 独立日资证券集团，零售强 |
-| SMBC 日兴证券（[[smfg]]） | 日资银行系子公司，零售强 |
-| 瑞穗证券（[[mizuho-fg]]） | 日资银行系子公司，向 IB 转型中 |
+| SMBC 日兴证券（[[megabanks/smfg]]） | 日资银行系子公司，零售强 |
+| 瑞穗证券（[[megabanks/mizuho-fg]]） | 日资银行系子公司，向 IB 转型中 |
 
 ## 5. 监管与政策
 
@@ -156,10 +156,10 @@ translated_at: 2026-05-31T23:59:49.318Z
 
 ## Related
 
-- [[mufg]] — 母公司 / 资本合作对象
-- [[nomura-hd]] · [[goldman-sachs-japan]] — 主要竞争对手
-- [[smfg]] · [[mizuho-fg]] — Megabank 系证券竞争对手
-- [[sbi-hd]] — 零售证券竞争对手（网络系）
+- [[megabanks/mufg]] — 母公司 / 资本合作对象
+- [[securities-firms/nomura-hd]] · [[securities-firms/goldman-sachs-japan]] — 主要竞争对手
+- [[megabanks/smfg]] · [[megabanks/mizuho-fg]] — Megabank 系证券竞争对手
+- [[megabanks/sbi-hd]] — 零售证券竞争对手（网络系）
 
 ## Sources
 
@@ -168,7 +168,7 @@ translated_at: 2026-05-31T23:59:49.318Z
 - **Wikipedia: 摩根士丹利 MUFG 证券**（2026-05-19 抽出）
 - Morgan Stanley Annual Report（2024  / Form 10-K，公开资料）
 - MUFG IR 披露（Morgan Stanley 战略合作相关，2008-09 至 2024）
-- 相关：[[mufg]]（MUFG 沿革 / MS 合作详情）
+- 相关：[[megabanks/mufg]]（MUFG 沿革 / MS 合作详情）
 
 ---
 

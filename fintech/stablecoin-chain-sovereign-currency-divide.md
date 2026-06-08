@@ -35,7 +35,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it against [[fintech
 |---|---|---|---|---|
 | 🇺🇸 米国コンプライアンス | USDC / USD1 / PYUSD / EURC | Arc / Tempo / Base / Ethereum | [[fintech/genius-act-501-denylist-mandate|GENIUS Act §501]] | Circle / Stripe / Coinbase / PayPal |
 | 🇪🇺 EU | EURC / EUR-stable | MiCA-compliant chains | [[fintech/mica-overview|MiCA]] ART / EMT | Circle Ireland / Société Générale Forge / Mastercard MTN |
-| 🇯🇵 日本 | JPYC / XJPY / DCJPY | Progmat / Arc-channel / JPYC EPI | [[fintech/japan-epi-three-types-overview|改正資金決済法（EPI 三型）]] | [[megabanks/mufg|三菱 UFJ]] / SBI / [[payment-firms/jpyc|JPYC]]（[[stablecoin-channel-japan-sbi-jpyc-ring]]）|
+| 🇯🇵 日本 | JPYC / XJPY / DCJPY | Progmat / Arc-channel / JPYC EPI | [[fintech/japan-epi-three-types-overview|改正資金決済法（EPI 三型）]] | [[megabanks/mufg|三菱 UFJ]] / SBI / [[payment-firms/jpyc|JPYC]]（[[fintech/stablecoin-channel-japan-sbi-jpyc-ring]]）|
 | 🇨🇳🇭🇰 中港 | e-CNY（オフチェーン）+ HKD-stable | 香港 sandbox + 円幣科技 First Digital Trust | [[fintech/hkma-stablecoin-licensing-overview|HKMA 立法（2025-08）]] + PBoC | アント国際 / 京東 / スタンチャート香港 |
 | 🌍 グレー | USDT | Tron + Lightning + 新チャネル | 各国規制回避 | Tether（Lugano）/ Tron / グレー決済業者 |
 
@@ -50,15 +50,15 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it against [[fintech
 **キー含意**：
 
 1. **ゼロサム確率が顕著に低下**：各極が自身の「主戦場」を有し、極間競争のコストは高い
-2. **極間ブリッジングが新インフラに**：たとえば [[stablecoin-channel-japan-sbi-jpyc-ring|SBI × JPYC × Circle 環状持株]] が JPY ↔ USDC チャネルを提供
-3. **Visa 等大型機関のネットワーク中立戦略**（[[wall-street-crypto-network-neutrality]] 参照）により極を跨いで手数料徴収が可能
+2. **極間ブリッジングが新インフラに**：たとえば [[fintech/stablecoin-channel-japan-sbi-jpyc-ring|SBI × JPYC × Circle 環状持株]] が JPY ↔ USDC チャネルを提供
+3. **Visa 等大型機関のネットワーク中立戦略**（[[fintech/wall-street-crypto-network-neutrality]] 参照）により極を跨いで手数料徴収が可能
 4. **規制アービトラージの余地が継続的に縮小**：各極が厳格な立法を保有し、極を跨ぐコンプライアンス要求が累積
 
 **不確実要因**：
 
 - 中国本土が最終的に海外ステーブルコインを許可するか（HK パイロットを先行案件として）
 - インド / ブラジル / アフリカ市場が最終的にどの極に帰属するか（現状は米国陣営とグレー市場の間）
-- AI agent 経済の決済プロトコルが地政学分断を突破するか（[[protocol-hedge-strategy-stripe-pattern|マルチプロトコル hedge]] には極を跨ぐポテンシャル）
+- AI agent 経済の決済プロトコルが地政学分断を突破するか（[[fintech/protocol-hedge-strategy-stripe-pattern|マルチプロトコル hedge]] には極を跨ぐポテンシャル）
 
 **戦略的観察**：
 

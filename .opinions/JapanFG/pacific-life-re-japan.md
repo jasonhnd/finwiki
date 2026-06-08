@@ -13,7 +13,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 ## Counterpoints
 
 - Pacific Life Re's premium share in Japan reinsurance is modest vs. the largest global reinsurers; market is concentrated. ^[inferred]
-- Pacific Life Re is a subsidiary of a mutual parent (Pacific Life), so public financial disclosure is less granular than for listed reinsurers like [[JapanFG/swiss-re-japan|Swiss Re Japan]] (SIX: SREN) or [[JapanFG/hannover-re-japan|Hannover Re Japan]] (FWB: HNR1). ^[inferred]
+- Pacific Life Re is a subsidiary of a mutual parent (Pacific Life), so public financial disclosure is less granular than for listed reinsurers like [[non-life-insurers/swiss-re-japan|Swiss Re Japan]] (SIX: SREN) or [[non-life-insurers/hannover-re-japan|Hannover Re Japan]] (FWB: HNR1). ^[inferred]
 - Branch-level Japan financials are typically not separately publicly disclosed; group-level reporting is the primary public source. ^[inferred]
 
 ## Open questions

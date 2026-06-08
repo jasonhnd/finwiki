@@ -16,7 +16,7 @@ This entry sits under[[consumer-finance/INDEX|consumer-finance INDEX]]. Read it 
 
 ## TL;DR
 
-[[mufg]]A major consumer finance company under its umbrella. **1936 Founded by Masao Kinoshita as "Maruito Kimono Store" in Kobe.1978 Changed the trade name to “ACOM”**1996-10 Listed on the First Section of the Tokyo Stock Exchange. The business is mainly unsecured loans for individuals (card loans ``AC Master Card'' and ``Mujin-kun'' automatic contract machines) + credit guarantee + overseas (Thailand Easy Buy PCL). **Acom ([[mufg]]series) Promise ([[smfg]]SMBCCF) and Aiful ([[aiful]]Independent)3 MUFG series of major consumer finance companies**.2006-2008 In the wake of the Supreme Court ruling on gray zone interest rates, overpayment claims flooded**2008-10 MUFG TOB made it an equity method company (currently equity method company)37.6%+ trust2.0%=39.6%）**。^[extracted]
+[[megabanks/mufg]]A major consumer finance company under its umbrella. **1936 Founded by Masao Kinoshita as "Maruito Kimono Store" in Kobe.1978 Changed the trade name to “ACOM”**1996-10 Listed on the First Section of the Tokyo Stock Exchange. The business is mainly unsecured loans for individuals (card loans ``AC Master Card'' and ``Mujin-kun'' automatic contract machines) + credit guarantee + overseas (Thailand Easy Buy PCL). **Acom ([[megabanks/mufg]]series) Promise ([[megabanks/smfg]]SMBCCF) and Aiful ([[consumer-finance/aiful]]Independent)3 MUFG series of major consumer finance companies**.2006-2008 In the wake of the Supreme Court ruling on gray zone interest rates, overpayment claims flooded**2008-10 MUFG TOB made it an equity method company (currently equity method company)37.6%+ trust2.0%=39.6%）**。^[extracted]
 
 ## 1. Company Profile
 
@@ -26,15 +26,15 @@ This entry sits under[[consumer-finance/INDEX|consumer-finance INDEX]]. Read it 
 **Renamed**: **1978** (Transformed into consumer finance business and changed trade name to "ACOM")
 **Head office**: Marunouchi, Chiyoda-ku, Tokyo
 **Listed**:1993 店Head registration → **1996-10 Listed on the First Section of the Tokyo Stock Exchange** →2022-04 TSE STANDARD after market segmentation review^[extracted]
-**Parent company**: Mitsubishi UFJ Financial Group, Inc. ([[mufg]]）
+**Parent company**: Mitsubishi UFJ Financial Group, Inc. ([[megabanks/mufg]]）
 
 ### Business category/3 big consumer finance
 
 | company | series | Major shareholder | field distinction |
 |---|---|---|---|
-| **Acom** | **[[mufg]]Group** ★ | **Mitsubishi UFJ Equity Method37.6%+ trust2.0%=39.6%** | TSE STD8572 |
-| Promise (SMBC Consumer Finance)| [[smfg]]group | SMFG100%Wholly owned subsidiary | Not playing (2012 delisting)|
-| [[aiful]] | Independent (not affiliated with megabank)| Independent capital centered on the founding family, the Fukuda family | TSE PRIME8515 |
+| **Acom** | **[[megabanks/mufg]]Group** ★ | **Mitsubishi UFJ Equity Method37.6%+ trust2.0%=39.6%** | TSE STD8572 |
+| Promise (SMBC Consumer Finance)| [[megabanks/smfg]]group | SMFG100%Wholly owned subsidiary | Not playing (2012 delisting)|
+| [[consumer-finance/aiful]] | Independent (not affiliated with megabank)| Independent capital centered on the founding family, the Fukuda family | TSE PRIME8515 |
 
 ### Main group companies
 
@@ -72,7 +72,7 @@ Acom (listed)8572, MUFG equity method39.6%）
 
 ### Easy Buy PCL（タイ Easy Buy）★
 
-**Industry leading model of Thai consumer finance**. ACOM develops its business with a focus on motorcycle loans under the “Umay+” brand.71%A consolidated subsidiary in which we invest. Although it is linked to the Thai economy, baht, and regulatory risks, it is ahead of other companies in small-lot financing for individuals in ASEAN. MUFG's ASEAN Strategy ([[mufg]]Krungsri/Bank Danamon).^[extracted]
+**Industry leading model of Thai consumer finance**. ACOM develops its business with a focus on motorcycle loans under the “Umay+” brand.71%A consolidated subsidiary in which we invest. Although it is linked to the Thai economy, baht, and regulatory risks, it is ahead of other companies in small-lot financing for individuals in ASEAN. MUFG's ASEAN Strategy ([[megabanks/mufg]]Krungsri/Bank Danamon).^[extracted]
 
 ### Credit guarantee business (MUFG collaboration)
 
@@ -111,19 +111,19 @@ Acom guarantee (100%Subsidiary) was entrusted with guaranteeing Mitsubishi UFJ B
 ### Positioning as a member of the MUFG family ★
 
 - **Bank Card Loan Guarantee**: Core to MUFG Retail Strategy with Bank Quick Guarantee
-- **Financing**: Independent ([[aiful]]) lower cost
+- **Financing**: Independent ([[consumer-finance/aiful]]) lower cost
 - **Customer referral**: Improve customer attraction efficiency through collaboration with Mitsubishi UFJ Bank ATMs and stores
-- **Overseas**: Easy Buy (Thailand) supports MUFG ASEAN Strategy ([[mufg]]Krungsri) and complementarity
+- **Overseas**: Easy Buy (Thailand) supports MUFG ASEAN Strategy ([[megabanks/mufg]]Krungsri) and complementarity
 
 ### coopetition structure
 
 | competition | series | Difference with Acom |
 |---|---|---|
-| Promise (SMBCCF)| [[smfg]] 100%Wholly owned subsidiary | Integrated operation with parent bank/SMFG100%Subsidiary with high customer transfer efficiency, delisted |
-| [[aiful]] | independent department | Centered on founders, originated in Kyoto, not affiliated with megabanks, dependent on in-house credit data |
-| Rakuten Card/PayPay Card | [[rakuten-fg]]/[[paypay-fg]] | Integrated with EC/payment platform, leading among young people |
+| Promise (SMBCCF)| [[megabanks/smfg]] 100%Wholly owned subsidiary | Integrated operation with parent bank/SMFG100%Subsidiary with high customer transfer efficiency, delisted |
+| [[consumer-finance/aiful]] | independent department | Centered on founders, originated in Kyoto, not affiliated with megabanks, dependent on in-house credit data |
+| Rakuten Card/PayPay Card | [[payment-firms/rakuten-fg]]/[[megabanks/paypay-fg]] | Integrated with EC/payment platform, leading among young people |
 | Bank card loan (directly managed)| All mega banks/regional banks | There are many relationships with ``infrastructure providers, not enemies'' through Acom Guarantee. |
-| [[orico]]/[[credit-saison]]/[[jaccs]] | Credit sales system | Adjacent to consumer finance, which has a different installment axis for individual items. |
+| [[card-issuers/orico]]/[[card-issuers/credit-saison]]/[[card-issuers/jaccs]] | Credit sales system | Adjacent to consumer finance, which has a different installment axis for individual items. |
 
 ### Medium-term strategy (disclosed direction)
 
@@ -157,15 +157,15 @@ Acom guarantee (100%Subsidiary) was entrusted with guaranteeing Mitsubishi UFJ B
 
 ## Related
 
-- [[mufg]]— Parent company (equity method37.6%+ trust2.0%=39.6%）
-- [[smfg]]—3 Large consumer finance competition (Promise = SMBCCF)100%subsidiary)
-- [[aiful]]—3 Major consumer finance competitors (independent, TSE PRIME)8515）
-- [[jaccs]]— Major credit sales/adjacent businesses
-- [[orico]]— Major credit sales/adjacent businesses
-- [[credit-saison]]— Major credit sales/adjacent businesses
-- [[rakuten-fg]]— Erosion of young people by Rakuten Card
-- [[paypay-fg]]— Payment platform erosion by PayPay card
-- [[sbi-shinsei-bank]]— Competitors of Lake ALSA (formerly GE-affiliated, currently SBI Shinsei Bank)
+- [[megabanks/mufg]]— Parent company (equity method37.6%+ trust2.0%=39.6%）
+- [[megabanks/smfg]]—3 Large consumer finance competition (Promise = SMBCCF)100%subsidiary)
+- [[consumer-finance/aiful]]—3 Major consumer finance competitors (independent, TSE PRIME)8515）
+- [[card-issuers/jaccs]]— Major credit sales/adjacent businesses
+- [[card-issuers/orico]]— Major credit sales/adjacent businesses
+- [[card-issuers/credit-saison]]— Major credit sales/adjacent businesses
+- [[payment-firms/rakuten-fg]]— Erosion of young people by Rakuten Card
+- [[megabanks/paypay-fg]]— Payment platform erosion by PayPay card
+- [[regional-banks/sbi-shinsei-bank]]— Competitors of Lake ALSA (formerly GE-affiliated, currently SBI Shinsei Bank)
 
 ## Sources
 

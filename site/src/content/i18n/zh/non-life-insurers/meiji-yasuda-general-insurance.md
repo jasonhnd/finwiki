@@ -16,7 +16,7 @@ translated_at: 2026-05-31T23:59:49.425Z
 
 ## TL;DR
 
-明治安田损害保险株式会社是列入金融厅损害保险公司牌照列表、与 [[meiji-yasuda]] group adjacency 相关的 non-life insurance operating company。作为大型 life insurer group 旗下的 non-life arm，应将 life / non-life group boundaries 分开观察。
+明治安田损害保险株式会社是列入金融厅损害保险公司牌照列表、与 [[life-insurers/meiji-yasuda]] group adjacency 相关的 non-life insurance operating company。作为大型 life insurer group 旗下的 non-life arm，应将 life / non-life group boundaries 分开观察。
 
 ## 1. 牌照 / 集团边界
 
@@ -25,7 +25,7 @@ translated_at: 2026-05-31T23:59:49.425Z
 | Legal name | 明治安田损害保险株式会社 |
 | License route | Insurance Business Act non-life insurance company; FSA non-life insurer list |
 | Protection scheme | Non-Life Insurance Policyholders Protection Corporation member |
-| Group boundary | [[meiji-yasuda]] group adjacency |
+| Group boundary | [[life-insurers/meiji-yasuda]] group adjacency |
 | Wiki role | Life-insurer group non-life operating company |
 
 ## 2. 运营模式
@@ -40,10 +40,10 @@ Life-insurer groups 可以持有 non-life entities，以支持员工福利、团
 
 ## Related
 
-- [[meiji-yasuda]]
+- [[life-insurers/meiji-yasuda]]
 - [[insurance/mutual-vs-stock-life-insurer]]
 - [[insurance/INDEX]]
-- [[nisshin-fire]]
+- [[non-life-insurers/nisshin-fire]]
 
 ## Sources
 

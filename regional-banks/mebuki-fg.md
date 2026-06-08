@@ -23,7 +23,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-北関東 2 県（茨城 + 栃木）を地盤とする地銀 FG 大手（預金規模で地銀 FG 第 2-3 位クラス）。2016-10-01 **常陽銀行**（茨城地盤）+ **足利ホールディングス**（栃木地盤・足利銀行を傘下）の共同株式移転で発足。**「メガリージョナルバンクグループ」志向 + 首都圏進出 + デジタル / 地方創生**の 3 軸。足利銀行の **2003 年破綻 → 一時国有化 → 2008 年民間譲渡**という劇的歴史を経て統合に至った点が他地銀 FG と異なる。隣接首都圏では [[concordia-fg]]（横浜銀行 + 東日本銀行）/ [[regional-banks/chiba-bank|chiba-bank-fg]] と競合・連携模索。^[extracted]
+北関東 2 県（茨城 + 栃木）を地盤とする地銀 FG 大手（預金規模で地銀 FG 第 2-3 位クラス）。2016-10-01 **常陽銀行**（茨城地盤）+ **足利ホールディングス**（栃木地盤・足利銀行を傘下）の共同株式移転で発足。**「メガリージョナルバンクグループ」志向 + 首都圏進出 + デジタル / 地方創生**の 3 軸。足利銀行の **2003 年破綻 → 一時国有化 → 2008 年民間譲渡**という劇的歴史を経て統合に至った点が他地銀 FG と異なる。隣接首都圏では [[regional-banks/concordia-fg]]（横浜銀行 + 東日本銀行）/ [[regional-banks/chiba-bank|chiba-bank-fg]] と競合・連携模索。^[extracted]
 
 ## 1. 会社概要
 
@@ -85,7 +85,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 ### 「メガリージョナルバンクグループ」志向
 
 - 統合発足時から **「メガリージョナルバンクグループ」** をスローガン化：地銀の枠を超えた広域 + 規模を志向 ^[extracted]
-- 預金規模で地銀 FG 第 2-3 位クラス（[[concordia-fg]] / [[fukuoka-fg]] / [[regional-banks/chiba-bank|chiba-bank-fg]] と並ぶ最上位グループ）
+- 預金規模で地銀 FG 第 2-3 位クラス（[[regional-banks/concordia-fg]] / [[regional-banks/fukuoka-fg]] / [[regional-banks/chiba-bank|chiba-bank-fg]] と並ぶ最上位グループ）
 - 県内 main bank 地位（茨城 + 栃木）+ 首都圏進出の 2 軸で規模拡大
 
 ### 首都圏進出戦略
@@ -100,9 +100,9 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ### 競合・地銀再編における位置
 
-- **競合**：[[concordia-fg]]（横浜 + 東日本）/ [[regional-banks/chiba-bank|chiba-bank-fg]]（首都圏隣接広域 FG として直接競合）/ [[fukuoka-fg]]（広域 FG 規模競争）
-- **メガバンク**（[[mufg]] / [[smfg]] / [[mizuho-fg]]）に対しては地銀統合 + 県内シェアで差別化
-- **SBI 第 4 メガ構想**（[[sbi-hd]] 主導）に距離、独自広域路線
+- **競合**：[[regional-banks/concordia-fg]]（横浜 + 東日本）/ [[regional-banks/chiba-bank|chiba-bank-fg]]（首都圏隣接広域 FG として直接競合）/ [[regional-banks/fukuoka-fg]]（広域 FG 規模競争）
+- **メガバンク**（[[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]]）に対しては地銀統合 + 県内シェアで差別化
+- **SBI 第 4 メガ構想**（[[megabanks/sbi-hd]] 主導）に距離、独自広域路線
 
 ## 4. 規制・政策
 
@@ -116,9 +116,9 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## Related
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]]
-- [[concordia-fg]] · [[regional-banks/chiba-bank|chiba-bank-fg]] · [[fukuoka-fg]] · [[resona-hd]]
-- [[sbi-hd]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]
+- [[regional-banks/concordia-fg]] · [[regional-banks/chiba-bank|chiba-bank-fg]] · [[regional-banks/fukuoka-fg]] · [[megabanks/resona-hd]]
+- [[megabanks/sbi-hd]]
 
 ## Sources
 

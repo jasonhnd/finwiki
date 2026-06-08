@@ -35,7 +35,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 - しずおか FG 設立後の中計（2024〜）の進捗実績は？ 資本効率 / ROE 改善度
 - 持株会社化後の新規 M&A・新業態進出事例は？ 銀行本体では取得不可だった案件
-- 県内同業（[[suruga-bank|スルガ]] / [[shimizu-bank|清水銀行]] / [[shizuoka-chuo-bank|静岡中央銀行]] 等）との再編可能性は？
+- 県内同業（[[regional-banks/suruga-bank|スルガ]] / [[regional-banks/shimizu-bank|清水銀行]] / [[regional-banks/shizuoka-chuo-bank|静岡中央銀行]] 等）との再編可能性は？
 - モンゴル MFG 銀行 等の海外子会社の収益貢献度は？
-- デジタル戦略（[[fukuoka-fg|FFG]] みんなの銀行のような独自デジタルバンク構想等）の有無
+- デジタル戦略（[[regional-banks/fukuoka-fg|FFG]] みんなの銀行のような独自デジタルバンク構想等）の有無
 - 静岡県製造業の EV シフト・脱炭素転換に対する main bank としての対応戦略

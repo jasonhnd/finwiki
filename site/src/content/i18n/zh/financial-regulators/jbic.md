@@ -15,7 +15,7 @@ translated_at: 2026-05-31T23:59:49.371Z
 
 ## TL;DR
 
-日本面向海外的 **政策金融机构**（财务大臣为 100% 股东、特殊公司）。通过 **出口金融 + 海外投资金融 + 非约束性贷款 + 出资** 这 4  项业务，支持日本企业全球展开、资源能源确保和 GX。2012-04-01 从 [[jfc]]（日本政策金融公库）再次独立并特殊公司化。前身是 1950  设立的日本输出银行（后为日本输出入银行）和 1961  设立的海外经济协力基金（OECF）。1999-10  两者整合成立旧 JBIC，2008-10  一度并入 JFC，随后在 2012-04  再独立。与民间大型银行（[[mufg]] / [[smfg]] / [[mizuho-fg]]）的 **协同融资是核心模式**，与 [[policy-finance/jica|jica]] 的分工是“JBIC = 出口 / 投资，JICA = ODA”。^[extracted]
+日本面向海外的 **政策金融机构**（财务大臣为 100% 股东、特殊公司）。通过 **出口金融 + 海外投资金融 + 非约束性贷款 + 出资** 这 4  项业务，支持日本企业全球展开、资源能源确保和 GX。2012-04-01 从 [[financial-regulators/jfc]]（日本政策金融公库）再次独立并特殊公司化。前身是 1950  设立的日本输出银行（后为日本输出入银行）和 1961  设立的海外经济协力基金（OECF）。1999-10  两者整合成立旧 JBIC，2008-10  一度并入 JFC，随后在 2012-04  再独立。与民间大型银行（[[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]]）的 **协同融资是核心模式**，与 [[policy-finance/jica|jica]] 的分工是“JBIC = 出口 / 投资，JICA = ODA”。^[extracted]
 
 ## 1. 公司概要
 
@@ -67,7 +67,7 @@ translated_at: 2026-05-31T23:59:49.371Z
 
 ### 业务模式
 
-- **协同融资（cofinancing）是核心**：大型银行（[[mufg]] / [[smfg]] / [[mizuho-fg]]）+ 地方银行 + 海外金融机构与 JBIC 的组合是典型形式。
+- **协同融资（cofinancing）是核心**：大型银行（[[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]]）+ 地方银行 + 海外金融机构与 JBIC 的组合是典型形式。
 - **特别业务账户**（2016 起）：面向高风险案件和 GX 案件的风险资金供给框架。
 - **与日元贷款的分工**：ODA 日元贷款由 [[policy-finance/jica|jica]] 负责（2008-10  移交）-> JBIC 专注于具有商业性的海外投融资。
 
@@ -79,7 +79,7 @@ translated_at: 2026-05-31T23:59:49.371Z
 
 ### 合作和收购战略
 
-- **大型银行协同融资**：与 [[mufg]] / [[smfg]] / [[mizuho-fg]] 经常协同（成套设备出口案件等）。
+- **大型银行协同融资**：与 [[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]] 经常协同（成套设备出口案件等）。
 - **与 JICA 分工**：ODA = JICA，商业性海外投融资 = JBIC（2008-10 円 贷款部门移交以后）。
 - **NEXI 联动**：日本贸易保险（NEXI）的出口保险与 JBIC 融资组合。
 - **海外政策金融机构联动**：与美国 EXIM Bank、韩国 K-EXIM、法国 Bpifrance、德国 KfW IPEX 等协同融资。
@@ -119,7 +119,7 @@ translated_at: 2026-05-31T23:59:49.371Z
 
 ## Related
 
-- [[policy-finance/jica|jica]] · [[jfc]] · [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[policy-finance/nexi|nexi]] · [[policy-finance/jogmec|jogmec]]
+- [[policy-finance/jica|jica]] · [[financial-regulators/jfc]] · [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[policy-finance/nexi|nexi]] · [[policy-finance/jogmec|jogmec]]
 - [[policy-finance/japan-policy-finance-system]]
 - [[policy-finance/oecd-export-credit-arrangement]]
 

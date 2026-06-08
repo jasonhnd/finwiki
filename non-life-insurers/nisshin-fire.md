@@ -24,7 +24,7 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 
 ## TL;DR
 
-日新火災海上保険株式会社は、金融庁の損害保険会社免許一覧に掲載される non-life insurer。[[tokio-marine]] group adjacency を持つが、[[tokio-marine-nichido-fire]] and [[tokio-marine-direct]] とは別の legal entity and operating-company anchor として扱う。
+日新火災海上保険株式会社は、金融庁の損害保険会社免許一覧に掲載される non-life insurer。[[non-life-insurers/tokio-marine]] group adjacency を持つが、[[non-life-insurers/tokio-marine-nichido-fire]] and [[non-life-insurers/tokio-marine-direct]] とは別の legal entity and operating-company anchor として扱う。
 
 ## 1. License / group boundary
 
@@ -43,14 +43,14 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 ## 3. Why this page matters
 
 - Adds another Tokio Marine group non-life operating-company boundary.
-- Complements [[tokio-marine-nichido-fire]] and [[tokio-marine-direct]].
+- Complements [[non-life-insurers/tokio-marine-nichido-fire]] and [[non-life-insurers/tokio-marine-direct]].
 - Registry-backed D5 specialty non-life page.
 
 ## Related
 
-- [[tokio-marine]]
-- [[tokio-marine-nichido-fire]]
-- [[tokio-marine-direct]]
+- [[non-life-insurers/tokio-marine]]
+- [[non-life-insurers/tokio-marine-nichido-fire]]
+- [[non-life-insurers/tokio-marine-direct]]
 - [[insurance/INDEX]]
 
 ## Sources

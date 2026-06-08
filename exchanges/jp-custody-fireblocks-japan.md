@@ -84,7 +84,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 | BitGo | 信託 + MPC 併用、米国規制対応 | 機関向け老舗。直接 custody も |
 | Anchorage Digital | 連邦銀行 charter 保有（米国唯一） | 規制準拠型、米国中心 |
 | Ledger Enterprise | HSM + Vault、フランス発 | 大型銀行向け HW 重視 |
-| Komainu | 野村 + Ledger + CoinShares 系 | 機関向け、アジア展開（詳細は [[jp-custody-komainu]] 参照） |
+| Komainu | 野村 + Ledger + CoinShares 系 | 機関向け、アジア展開（詳細は [[exchanges/jp-custody-komainu]] 参照） |
 
 ### 日本国内競合・住み分け
 
@@ -145,8 +145,8 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 
 ## Related
 
-- [[jp-custody-komainu]] — Nomura 系機関向け custody 競合
-- [[jp-exchange-sbi-vc-trade]] — SBI VC Trade（Fireblocks 顧客候補）
+- [[exchanges/jp-custody-komainu]] — Nomura 系機関向け custody 競合
+- [[exchanges/jp-exchange-sbi-vc-trade]] — SBI VC Trade（Fireblocks 顧客候補）
 - [[agent-economy/embedded-wallet-network-effects-moat]] — embedded wallet 競争論
 - [[fintech/maina-wallet-kyc-permissionless-ux-bridge]] — ウォレット × KYC 設計
 - [[fintech/japan-stablecoin-regulatory-landscape]] — 日本 stablecoin 規制

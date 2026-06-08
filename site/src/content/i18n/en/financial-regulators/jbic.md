@@ -15,7 +15,7 @@ This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]].
 
 ## TL;DR
 
-Japan's overseas-facing **policy finance institution** (a special company with the Minister of Finance as 100% shareholder). Through its 4  businesses of **export loans + overseas investment loans + untied loans + equity participation**, it supports Japanese companies' global expansion, resource and energy security, and GX. On 2012-04-01 it separated again from [[jfc]] (Japan Finance Corporation) and became a special company. Its predecessors were the Export Bank of Japan, established in 1950  and later renamed the Export-Import Bank of Japan, and the Overseas Economic Cooperation Fund (OECF), established in 1961 . The old JBIC was launched by integrating the two in 1999-10 , was temporarily integrated into JFC in 2008-10 , and then separated again in 2012-04 . **Cofinancing with private megabanks ([[mufg]] / [[smfg]] / [[mizuho-fg]]) is the central scheme**, while the division with [[policy-finance/jica|jica]] is "JBIC = export / investment, JICA = ODA." ^[extracted]
+Japan's overseas-facing **policy finance institution** (a special company with the Minister of Finance as 100% shareholder). Through its 4  businesses of **export loans + overseas investment loans + untied loans + equity participation**, it supports Japanese companies' global expansion, resource and energy security, and GX. On 2012-04-01 it separated again from [[financial-regulators/jfc]] (Japan Finance Corporation) and became a special company. Its predecessors were the Export Bank of Japan, established in 1950  and later renamed the Export-Import Bank of Japan, and the Overseas Economic Cooperation Fund (OECF), established in 1961 . The old JBIC was launched by integrating the two in 1999-10 , was temporarily integrated into JFC in 2008-10 , and then separated again in 2012-04 . **Cofinancing with private megabanks ([[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]]) is the central scheme**, while the division with [[policy-finance/jica|jica]] is "JBIC = export / investment, JICA = ODA." ^[extracted]
 
 ## 1. Company Overview
 
@@ -67,7 +67,7 @@ Japan's overseas-facing **policy finance institution** (a special company with t
 
 ### Business Schemes
 
-- **Cofinancing is central**: the typical pattern combines JBIC with megabanks ([[mufg]] / [[smfg]] / [[mizuho-fg]]), regional banks, and overseas financial institutions.
+- **Cofinancing is central**: the typical pattern combines JBIC with megabanks ([[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]]), regional banks, and overseas financial institutions.
 - **Special operations account** (from 2016 onward): risk-money supply framework for high-risk projects and GX projects.
 - **Division of roles with yen loans**: ODA yen loans are handled by [[policy-finance/jica|jica]] (transferred in 2008-10 ) -> JBIC focuses on commercially oriented overseas loans and investments.
 
@@ -79,7 +79,7 @@ Japan's overseas-facing **policy finance institution** (a special company with t
 
 ### Partnership and Acquisition Strategy
 
-- **Megabank cofinancing**: recurring cooperation with [[mufg]] / [[smfg]] / [[mizuho-fg]], such as plant-export projects.
+- **Megabank cofinancing**: recurring cooperation with [[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]], such as plant-export projects.
 - **Division of roles with JICA**: ODA = JICA, commercially oriented overseas loans and investments = JBIC (after the transfer of the yen-loan unit in 2008-10 円).
 - **NEXI linkage**: combination of Nippon Export and Investment Insurance (NEXI) export insurance with JBIC loans.
 - **Cooperation with overseas policy finance institutions**: cofinancing with the U.S. EXIM Bank, Korea Eximbank, France's Bpifrance, Germany's KfW IPEX, and others.
@@ -119,7 +119,7 @@ METI ---- supervises ---- NEXI (trade insurance)
 
 ## Related
 
-- [[policy-finance/jica|jica]] · [[jfc]] · [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[policy-finance/nexi|nexi]] · [[policy-finance/jogmec|jogmec]]
+- [[policy-finance/jica|jica]] · [[financial-regulators/jfc]] · [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[policy-finance/nexi|nexi]] · [[policy-finance/jogmec|jogmec]]
 - [[policy-finance/japan-policy-finance-system]]
 - [[policy-finance/oecd-export-credit-arrangement]]
 

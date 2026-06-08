@@ -28,13 +28,13 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## 推論 (from 「東京特化地銀」モデル)
 
-- 競合は メガ 3 行（[[mufg]] / [[smfg]] / [[mizuho-fg]]）の東京リテール部門 + [[resona-hd]] 系（旧 埼玉りそな含む）+ [[ndfg]] 千葉銀行系 + 神奈川の横浜銀行 ^[inferred]
+- 競合は メガ 3 行（[[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]]）の東京リテール部門 + [[megabanks/resona-hd]] 系（旧 埼玉りそな含む）+ [[megabanks/ndfg]] 千葉銀行系 + 神奈川の横浜銀行 ^[inferred]
 - 東京都内中小企業数は全国最多 → 市場規模は十分大きい ^[inferred]
 
 ## 推論 (from デジタル戦略)
 
 - BaaS / iBank 提携試行：地銀型 BaaS の中での位置取り模索 ^[inferred]
-- メガの統合金融プラットフォーム（[[smfg]] Olive 等）と比べると規模劣後だが、東京特化ゆえの機動性を主張 ^[inferred]
+- メガの統合金融プラットフォーム（[[megabanks/smfg]] Olive 等）と比べると規模劣後だが、東京特化ゆえの機動性を主張 ^[inferred]
 
 ## 推論 (from 旧 新銀行東京レガシー処理)
 
@@ -43,7 +43,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## 推論 (from 提携・買収戦略)
 
-- **iBank マーケティング提携**（[[fukuoka-fg]] 系）^[inferred]：地銀デジタルの共通プラットフォーム活用
+- **iBank マーケティング提携**（[[regional-banks/fukuoka-fg]] 系）^[inferred]：地銀デジタルの共通プラットフォーム活用
 - **BaaS 試行**：法人パートナー向けに API / 口座機能提供 ^[inferred]
 
 ## 推論 (from 4. 規制・政策)
@@ -55,7 +55,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 - 「東京特化地銀の持続可能性」：東京は メガの本拠地でもあり、競争激烈。「東京で勝てる地銀」モデルが本当に成立するか ^[ambiguous]
 - 「旧 新銀行東京レガシーの完全処理」：2016-04 統合 + 2018-05 合併で表面上クリーンアップ済とされるが、隠れた不良債権リスクは ^[ambiguous]
-- 「UI 銀行の戦略的位置付け」：[[paypay-fg]] / [[rakuten-fg]] / [[au-fh]] のネット銀行・通信系 FG と競合する個人デジタル市場で、地銀発スマホバンクが優位性を持てるか ^[ambiguous]
+- 「UI 銀行の戦略的位置付け」：[[megabanks/paypay-fg]] / [[payment-firms/rakuten-fg]] / [[megabanks/au-fh]] のネット銀行・通信系 FG と競合する個人デジタル市場で、地銀発スマホバンクが優位性を持てるか ^[ambiguous]
 - 「中堅独立地銀モデル vs 系列入り」：将来的にメガ系列・他地銀との統合可能性は ^[ambiguous]
 
 ## Open questions

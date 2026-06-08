@@ -67,7 +67,7 @@ AXA SA (仏 Paris 本社)
 
 ### ポジショニング
 
-- **ハイブリッドチャネル戦略**：日系大手（[[dai-ichi-life]] / [[nippon-life]] / 住友生命 / 明治安田生命）が営業職員中心、ネット系専業（[[life-insurers/lifenet|lifenet-insurance]]）がオンライン一本足なのに対し、アクサは **営業職員 + 銀行窓販 + ネット直販** の 3 チャネルを並存
+- **ハイブリッドチャネル戦略**：日系大手（[[life-insurers/dai-ichi-life]] / [[life-insurers/nippon-life]] / 住友生命 / 明治安田生命）が営業職員中心、ネット系専業（[[life-insurers/lifenet|lifenet-insurance]]）がオンライン一本足なのに対し、アクサは **営業職員 + 銀行窓販 + ネット直販** の 3 チャネルを並存
 - **損保はあえてネット直販**：[[non-life-insurers/tokio-marine|tokio-marine-hd]] / [[non-life-insurers/sompo|sompo-hd]] / [[non-life-insurers/msad|ms-and-ad-insurance]] の代理店チャネル中心の国内 3 メガ損保と差別化、ソニー損保・セコム損保・SBI 損保と同じ「ダイレクト系損保」セグメント
 
 ### グローバルレバレッジ
@@ -79,11 +79,11 @@ AXA SA (仏 Paris 本社)
 
 | 競合タイプ | 主要競合 |
 |---|---|
-| 営業職員チャネル | [[dai-ichi-life]] / 日本生命 / 住友生命 / 明治安田生命 / プルデンシャル生命 |
+| 営業職員チャネル | [[life-insurers/dai-ichi-life]] / 日本生命 / 住友生命 / 明治安田生命 / プルデンシャル生命 |
 | 銀行窓販 | メットライフ生命 / マニュライフ生命 / 第一フロンティア生命 / [[life-insurers/td-hd|t&d-holdings]] 系 |
 | ネット直販生保 | [[life-insurers/lifenet|lifenet-insurance]] / SBI 生命 / オリックス生命 |
 | ネット直販損保 | ソニー損保 / セコム損保 / SBI 損保 / イーデザイン損保（東京海上系）|
-| 外資系プレミアム | プルデンシャル / メットライフ / マニュライフ / [[aflac-japan]] |
+| 外資系プレミアム | プルデンシャル / メットライフ / マニュライフ / [[life-insurers/aflac-japan]] |
 
 ## 4. 規制と政策
 
@@ -96,9 +96,9 @@ AXA SA (仏 Paris 本社)
 
 ## 関連項目
 
-- [[dai-ichi-life]] · [[nippon-life]] · [[aflac-japan]] · [[life-insurers/lifenet|lifenet-insurance]] · [[life-insurers/td-hd|t&d-holdings]]
+- [[life-insurers/dai-ichi-life]] · [[life-insurers/nippon-life]] · [[life-insurers/aflac-japan]] · [[life-insurers/lifenet|lifenet-insurance]] · [[life-insurers/td-hd|t&d-holdings]]
 - [[non-life-insurers/tokio-marine|tokio-marine-hd]] · [[non-life-insurers/sompo|sompo-hd]] · [[non-life-insurers/msad|ms-and-ad-insurance]]
-- [[mufg]] · [[smfg]] · [[mizuho-fg]]（銀行窓販提携先）
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]（銀行窓販提携先）
 
 ## 出典
 

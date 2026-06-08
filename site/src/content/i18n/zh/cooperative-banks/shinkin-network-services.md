@@ -65,7 +65,7 @@ translated_at: 2026-06-01T02:31:57.134Z
 
 ### 与 megabank / regional bank 的对比
 
-- **Megabanks（[[mufg]]、[[smfg]]、[[mizuho-fg]]）**：自有并运营勘定系、AML/CFT、移动银行基础，年度 IT 投资规模达数千亿日元级。
+- **Megabanks（[[megabanks/mufg]]、[[megabanks/smfg]]、[[megabanks/mizuho-fg]]）**：自有并运营勘定系、AML/CFT、移动银行基础，年度 IT 投资规模达数千亿日元级。
 - **Regional banks**：许多依赖 regional-bank joint center（NTT Data、Hitachi 等地银共同使用系统），但各地银仍有较大定制空间。
 - **信用金库**：对 SNS 这类行业整体共同基础设施的依赖度最高，个别定制余地有限。这体现了协同组织模型下的“行业一体运营”。
 
@@ -85,7 +85,7 @@ translated_at: 2026-06-01T02:31:57.134Z
 
 ### 集中风险
 
-行业的 254 行 依赖共同基础设施，意味着 SNS / 信金共同中心的系统故障可能波及整个行业。这是银行业共同问题（如 megabank [[mizuho-fg|みずほ FG]] 反复发生的系统故障所示），但在信用金库情形下，“整个行业同时停止”的可能性在结构上内含其中。
+行业的 254 行 依赖共同基础设施，意味着 SNS / 信金共同中心的系统故障可能波及整个行业。这是银行业共同问题（如 megabank [[megabanks/mizuho-fg|みずほ FG]] 反复发生的系统故障所示），但在信用金库情形下，“整个行业同时停止”的可能性在结构上内含其中。
 
 ### 适应无现金趋势
 

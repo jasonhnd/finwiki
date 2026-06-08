@@ -45,8 +45,8 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 ## Counterpoints
 
 - 「関西・東海境界の戦略困難性」：滋賀県は 4 府県境界に位置するため、県内完結型運営が困難で、関西経済圏 + 東海経済圏の双方の競合に巻き込まれる構造リスク ^[inferred]
-- 「単独銀行維持 vs 持株会社化」：[[kyoto-fg|京都 FG]]・[[ikeda-senshu-hd|池田泉州 HD]] 等の近隣関西地銀 FG 化トレンドに対し滋賀銀行は単独銀行維持、中長期の方針転換可能性 ^[ambiguous]
-- 「TSUBASA 依存リスク」：単独銀行のままシステム / 海外サポートを TSUBASA に依存、TSUBASA 主導行 [[chiba-bank|千葉銀行]] の方針転換時の追随リスク ^[inferred]
+- 「単独銀行維持 vs 持株会社化」：[[regional-banks/kyoto-fg|京都 FG]]・[[regional-banks/ikeda-senshu-hd|池田泉州 HD]] 等の近隣関西地銀 FG 化トレンドに対し滋賀銀行は単独銀行維持、中長期の方針転換可能性 ^[ambiguous]
+- 「TSUBASA 依存リスク」：単独銀行のままシステム / 海外サポートを TSUBASA に依存、TSUBASA 主導行 [[regional-banks/chiba-bank|千葉銀行]] の方針転換時の追随リスク ^[inferred]
 - 「ESG 先進性の収益貢献」：UN PRB 採択 / グリーンファイナンスは ブランド / 差別化として有効だが、直接的な収益貢献度は限定的との見方も ^[ambiguous]
 - 「製造業集中リスク」：滋賀県内の中堅製造業（自動車部品・電機・素材）への融資集中度が高い場合、製造業景気変動 / 円高 / 中国景気 に脆弱 ^[inferred]
 - 「京阪神ベッドタウン化リスク」：滋賀県南部（大津・草津・栗東）は京阪神ベッドタウン化が進み、住宅ローン依存度が高い場合、関西不動産市況に連動 ^[inferred]
@@ -56,10 +56,10 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 - 2024 中期経営計画 の具体的目標値（ROE / 純利益 / 県外融資比率 / ESG ファイナンス比率等）は？ ^[inferred]
 - 滋賀銀行 の持株会社化（FG 化）方針は？ 関西地銀再編の中での判断
-- TSUBASA アライアンス内での 滋賀銀行 の役割・連携深度は？ 隣県 [[kyoto-fg|京都銀行]] との二面性
+- TSUBASA アライアンス内での 滋賀銀行 の役割・連携深度は？ 隣県 [[regional-banks/kyoto-fg|京都銀行]] との二面性
 - UN PRB 採択（2019、地銀初）の戦略的位置付け・収益貢献度は？
 - 琵琶湖環境保全融資 / グリーンファイナンス の実績規模・収益性は？
 - 京都府北部・大阪府北摂・名古屋圏 への営業エリア拡張の進捗・収益貢献度は？
-- 関西地銀連携（[[kyoto-fg]] / [[resona-hd]] / [[ikeda-senshu-hd]] / [[nanto-bank]] 等との提携 / 再編可能性）は？
-- 東海地銀（[[ogaki-kyoritsu-bank]] / [[juroku-fg]] / [[san-jusan-fg]] 等）との米原・関ヶ原・鈴鹿エリア競合状況は？
+- 関西地銀連携（[[regional-banks/kyoto-fg]] / [[megabanks/resona-hd]] / [[regional-banks/ikeda-senshu-hd]] / [[regional-banks/nanto-bank]] 等との提携 / 再編可能性）は？
+- 東海地銀（[[regional-banks/ogaki-kyoritsu-bank]] / [[regional-banks/juroku-fg]] / [[regional-banks/san-jusan-fg]] 等）との米原・関ヶ原・鈴鹿エリア競合状況は？
 - 単独銀行のまま新業態進出（証券・リース等）の戦略は？

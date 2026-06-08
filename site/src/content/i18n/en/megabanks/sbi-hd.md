@@ -15,7 +15,7 @@ This entry sits under [[megabanks/INDEX|megabanks INDEX]]. Read it against [[meg
 
 ## TL;DR
 
-SBI is one of Japan's largest internet-based integrated financial groups. It was **established in 1999-07-08** as the former SoftBank Investment, later separated from the SoftBank Group line and redefined SBI as Strategic Business Innovator. It combines **SBI Securities (Japan's largest online brokerage, accounts over 1500 万 as of 2025-11 , exceeding Nomura's roughly 539 万) + SBI Shinsei Bank (former Shinsei Bank, wholly owned in 2023-09 ) + SBI Sumishin Net Bank (former 50% JV, transfer to NTT Docomo completed in 2025-10 ) + SBI Insurance / SBI Life / SBI Ikiiki SSI + SBI VC Trade (crypto assets)**. Founder Yoshitaka Kitao is chairman and president. **FY2024/3  period (2025-03  period) consolidated: revenue 1兆4437億円 / ordinary profit 2823億円 / net income 1621億円 / total assets 32.11 兆円 / net assets 1兆2614億円 / employees 19,156 名**. The **"4 th megabank concept"** (proposed in 2020 ) aims to build a wide-area financial base through regional-bank partnerships, exceeding 10 行 partners including Chikuho, Shimizu, Daito, Fukushima, Sendai, and others. Through the **"SMBC-SBI Alliance" from 2022**, [[smfg]] holds 8.91% of SBI HD shares and the Olive Consulting JV was established in 2025-09 . ^[extracted]
+SBI is one of Japan's largest internet-based integrated financial groups. It was **established in 1999-07-08** as the former SoftBank Investment, later separated from the SoftBank Group line and redefined SBI as Strategic Business Innovator. It combines **SBI Securities (Japan's largest online brokerage, accounts over 1500 万 as of 2025-11 , exceeding Nomura's roughly 539 万) + SBI Shinsei Bank (former Shinsei Bank, wholly owned in 2023-09 ) + SBI Sumishin Net Bank (former 50% JV, transfer to NTT Docomo completed in 2025-10 ) + SBI Insurance / SBI Life / SBI Ikiiki SSI + SBI VC Trade (crypto assets)**. Founder Yoshitaka Kitao is chairman and president. **FY2024/3  period (2025-03  period) consolidated: revenue 1兆4437億円 / ordinary profit 2823億円 / net income 1621億円 / total assets 32.11 兆円 / net assets 1兆2614億円 / employees 19,156 名**. The **"4 th megabank concept"** (proposed in 2020 ) aims to build a wide-area financial base through regional-bank partnerships, exceeding 10 行 partners including Chikuho, Shimizu, Daito, Fukushima, Sendai, and others. Through the **"SMBC-SBI Alliance" from 2022**, [[megabanks/smfg]] holds 8.91% of SBI HD shares and the Olive Consulting JV was established in 2025-09 . ^[extracted]
 
 ## 1. Company Overview
 
@@ -45,7 +45,7 @@ SBI is one of Japan's largest internet-based integrated financial groups. It was
 | Rank | Shareholder | Ownership ratio |
 |---|---|---|
 | 1  | The Master Trust Bank of Japan (trust account) | 14.72% |
-| 2  | **[[smfg]] Sumitomo Mitsui Financial Group** | **8.91%** ★ |
+| 2  | **[[megabanks/smfg]] Sumitomo Mitsui Financial Group** | **8.91%** ★ |
 | 3  | **NTT** | **8.18%** ★ |
 | 4  | Custody Bank of Japan (trust account) | 6.88% |
 | 5  | State Street Bank | 3.82% |
@@ -64,7 +64,7 @@ SBI Holdings（listed holding company 8473）
   │     ├── Re-listing application in 2025-07  (path to public-funds repayment) ^[extracted from smfg ref]
   │     └── Former Long-Term Credit Bank lineage (failure → Ripplewood ownership → listing → SBI wholly owned subsidiary)
   ├── SBI Sumishin Net Bank（former 50% / Sumitomo Mitsui Trust Bank 50% JV, TSE PRIME 7163）
-  │     └── ★ 2025-10-01 all shares transferred to NTT Docomo → became wholly owned NTT Docomo subsidiary ([[ndfg]] cross-ref) ^[extracted]
+  │     └── ★ 2025-10-01 all shares transferred to NTT Docomo → became wholly owned NTT Docomo subsidiary ([[megabanks/ndfg]] cross-ref) ^[extracted]
   ├── SBI Insurance（100%）── direct online auto insurance, etc.
   ├── SBI Life Insurance（100%）── acquired former PCA Life
   ├── SBI Ikiiki Small Amount & Short Term Insurance（100%）── medical and funeral insurance for seniors
@@ -80,12 +80,12 @@ Strategic alliance / regional-bank partners（over 10 行, 4 th megabank concept
   ├── Daito Bank（Fukushima, second-tier regional bank）
   ├── Fukushima Bank（Fukushima, second-tier regional bank）
   ├── Sendai Bank（Miyagi, under Jimoto Holdings, second-tier regional bank）
-  ├── [[shimane-bank|島根銀行]]（Shimane, second-tier regional bank）
+  ├── [[regional-banks/shimane-bank|島根銀行]]（Shimane, second-tier regional bank）
   ├── Tsukuba Bank / Senshu Ikeda HD, etc. ── gradually expanding
   └── Common structure: SBI investment + system commonization + joint product development
 
 ★ SMBC-SBI Alliance（from 2022）
-  ├── [[smfg]] holds 8.91% of SBI HD shares（as of 2025-07-17）
+  ├── [[megabanks/smfg]] holds 8.91% of SBI HD shares（as of 2025-07-17）
   ├── 2024-04  SMFG expanded holdings through TOB
   └── Olive Consulting JV（established 2025-09-05, 5 社 joint venture）
         ├── SMFG 10% / Sumitomo Mitsui Banking Corporation 20% / SMBC Nikko Securities 30%
@@ -105,17 +105,17 @@ Strategic alliance / regional-bank partners（over 10 行, 4 th megabank concept
 | 2011-01  | SBI Sumishin Net Bank began operations as an SBI Net Bank + Sumitomo Trust Bank-line JV |
 | 2015  | Acquired SBI Life Insurance (former PCA Life) |
 | **2020** | **Proposed the "4 th megabank concept"** to build a wide-area financial base through regional-bank partnerships |
-| 2020-09  | Announced capital and business alliances in stages with [[shimane-bank|島根銀行]] / Chikuho Bank / Shimizu Bank and others |
+| 2020-09  | Announced capital and business alliances in stages with [[regional-banks/shimane-bank|島根銀行]] / Chikuho Bank / Shimizu Bank and others |
 | **2021-09** | **TOB for Shinsei Bank started**, beginning staged acquisition including market purchases |
 | **2022-04** | **Shinsei Bank TOB succeeded → ownership ratio about 47%**, making SBI the largest shareholder with control |
-| **2022 (reported through 2022-06 )** | **Comprehensive capital and business alliance with [[smfg]], the "SMBC-SBI Alliance"** ★ |
+| **2022 (reported through 2022-06 )** | **Comprehensive capital and business alliance with [[megabanks/smfg]], the "SMBC-SBI Alliance"** ★ |
 | **2023-09** | **Shinsei Bank wholly owned → delisted** |
 | **2023-12** | **Renamed SBI Shinsei Bank** |
-| 2024-04  | [[smfg]] acquired 8.91% of SBI HD shares through TOB ★ |
+| 2024-04  | [[megabanks/smfg]] acquired 8.91% of SBI HD shares through TOB ★ |
 | **2025-03  results (FY2024/3)** | **Consolidated revenue 1兆4437億円 / net income 1621億円 / total assets 32.11 兆円** ^[extracted] |
 | **2025-07-17** | **SBI Shinsei Bank re-listing application** (path toward public-funds repayment) / updated major shareholder structure (SMFG 8.91% / NTT 8.18%) ^[extracted] |
 | **2025-09-05** | **Olive Consulting established** (SMBC Group × SBI HD 5 社 joint venture) ★ |
-| **2025-10-01** | **Transferred all SBI Sumishin Net Bank shares to NTT Docomo**, SBI HD exited, NTT Docomo made it a wholly owned subsidiary → [[ndfg]] cross-ref ★ |
+| **2025-10-01** | **Transferred all SBI Sumishin Net Bank shares to NTT Docomo**, SBI HD exited, NTT Docomo made it a wholly owned subsidiary → [[megabanks/ndfg]] cross-ref ★ |
 | **2025-11** | **SBI Securities accounts exceeded 1500 万**, surpassing Nomura's roughly 539 万 ^[extracted] |
 
 ## 2. Business Segment Map
@@ -138,7 +138,7 @@ Strategic alliance / regional-bank partners（over 10 行, 4 th megabank concept
 
 ### The "4 th Megabank Concept" (from 2020)
 
-A strategic framework proposed by Chairman Kitao. Against the 3  megabanks ([[mufg]] / [[smfg]] / [[mizuho-fg]]), **SBI HD builds a wide-area financial platform through capital / business alliances, system commonization, and joint product development with more than 10 行 regional banks**. ^[extracted]
+A strategic framework proposed by Chairman Kitao. Against the 3  megabanks ([[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]]), **SBI HD builds a wide-area financial platform through capital / business alliances, system commonization, and joint product development with more than 10 行 regional banks**. ^[extracted]
 
 - **Targets**: distressed second-tier regional banks (Chikuho / Daito / Fukushima / Sendai, etc.) plus regional banks willing to cooperate (Shimizu / Shimane / Tsukuba, etc.)
 - **Model**: SBI minority investment (about 10-20%), joint sales of SBI products (securities, insurance, crypto assets), and commonization through system subsidiaries
@@ -151,12 +151,12 @@ A strategic framework proposed by Chairman Kitao. Against the 3  megabanks ([[mu
 
 ### Alliance and Acquisition Strategy
 
-- **★ SMBC-SBI Alliance** (from 2022): [[smfg]] holds 8.91% of SBI HD shares
+- **★ SMBC-SBI Alliance** (from 2022): [[megabanks/smfg]] holds 8.91% of SBI HD shares
   - 2022  comprehensive capital and business alliance concluded
   - 2024-04  SMFG expanded holdings through TOB
   - **2025-09-05 Olive Consulting established** (5 社 JV: SMFG 10% / SMBC 20% / SMBC Nikko 30% / SBI HD 10% / SBI Securities 30%)
   - SBI Securities and SMBC cooperate while retaining competitive tension with SMBC Nikko Securities
-- **Transfer of SBI Sumishin to NTT Docomo** (2025-10-01) ★: SBI HD transferred all SBI Sumishin Net Bank shares to NTT Docomo → completed exit from the online bank 9  months before [[ndfg]] establishment
+- **Transfer of SBI Sumishin to NTT Docomo** (2025-10-01) ★: SBI HD transferred all SBI Sumishin Net Bank shares to NTT Docomo → completed exit from the online bank 9  months before [[megabanks/ndfg]] establishment
 - **Shinsei Bank TOB** (2021-09 to 2023-09): one of 1  rare successful hostile acquisitions in Japanese banking history
 - **More than 10 行 regional-bank alliances** (from 2020): core of the 4 th megabank concept
 
@@ -184,11 +184,11 @@ A strategic framework proposed by Chairman Kitao. Against the 3  megabanks ([[mu
   - From 2024, SBI Shinsei Bank public-funds repayment + re-listing process
   - From 2025, regulatory response for crypto-asset business (Payment Services Act + FIEA)
   - From 2025, stablecoin framework (Progmat membership trend ^[needs-verification])
-  - From 2025, antitrust handling in regional-bank consolidation (unlike [[mufg]] / [[smfg]], SBI uses a distributed network rather than a concentration model)
+  - From 2025, antitrust handling in regional-bank consolidation (unlike [[megabanks/mufg]] / [[megabanks/smfg]], SBI uses a distributed network rather than a concentration model)
 
 ## Related
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[ndfg]] · [[ssnb]] · [[rakuten-fg]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[megabanks/ndfg]] · [[regional-banks/ssnb]] · [[payment-firms/rakuten-fg]]
 - [[banking/minna-bank-baas-model]] · [[banking/mercari-bank-license-stack]]
 
 ## Sources

@@ -20,7 +20,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 - 信用金庫 / 信用組合 / 労金 / JA / JF の long-tail 個別 pages は、registry index / system page 以上に戦略的理由がある場合だけ追加する。
 - Fintech 独立創業系の追加 (NP 後払い / Liquid Group / Kyash / みんかぶ 等) はどうするか?
 - Foreign-bank branch P0 / P1 Korea-Taiwan-China / P2 strategic exceptions / P3 corridor anchors / P4 registry-only closure と 57-row registry index は完了し、57 / 57 rows が standalone / umbrella route を持つ。Trust-company priority A / B / C も standalone 化済みで、38 / 38 rows が standalone / existing group route を持つ。FIEA 1,945-row registry index, securities license stack, foreign-bank branch / agency / adjacent-license routes, prepaid 803-row registry index, funds-transfer 83-row registry index, METI credit / card registry index, Trust-company 38-row registry index, JA Bank system / JF Marine Bank system, and policy-finance public-credit adjacency も system route に分離済み。今後の standalone は strategic exception のみにする。
-- 大手証券: 三菱 UFJ モルガン・スタンレー証券 [[mufg]] 内 vs 独立 entry にする?
+- 大手証券: 三菱 UFJ モルガン・スタンレー証券 [[megabanks/mufg]] 内 vs 独立 entry にする?
 
 ---
 

@@ -24,7 +24,7 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 
 ## TL;DR
 
-太陽生命保険株式会社は、[[td-hd]] group の major life-insurance operating company。[[daido-life]] が SME / owner market に強いのに対し、太陽生命は household / individual protection market の operating arm として見ると T&D group の split strategy が読みやすい。
+太陽生命保険株式会社は、[[life-insurers/td-hd]] group の major life-insurance operating company。[[life-insurers/daido-life]] が SME / owner market に強いのに対し、太陽生命は household / individual protection market の operating arm として見ると T&D group の split strategy が読みやすい。
 
 ## 1. License / group boundary
 
@@ -33,14 +33,14 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 | Legal name | 太陽生命保険株式会社 |
 | License route | Insurance Business Act life-insurance company; FSA life insurer list |
 | Industry body | Life Insurance Association of Japan member |
-| Group boundary | [[td-hd]] operating company |
+| Group boundary | [[life-insurers/td-hd]] operating company |
 | Wiki role | T&D group's individual / household life-insurance arm |
 
 ## 2. Operating model
 
-太陽生命は、individual life-insurance products, health / medical protection, household-oriented sales channels を中心に見る insurer。T&D group の中で [[daido-life]] と並べることで、同じ holding company 内でも customer segment, channel economics, product risk profile が違うことを表現できる。
+太陽生命は、individual life-insurance products, health / medical protection, household-oriented sales channels を中心に見る insurer。T&D group の中で [[life-insurers/daido-life]] と並べることで、同じ holding company 内でも customer segment, channel economics, product risk profile が違うことを表現できる。
 
-FinWiki では [[td-hd]] group strategy, life-insurance channel mix, economic-value solvency regulation の議論から参照する operating-company anchor とする。
+FinWiki では [[life-insurers/td-hd]] group strategy, life-insurance channel mix, economic-value solvency regulation の議論から参照する operating-company anchor とする。
 
 ## 3. Why this page matters
 
@@ -50,8 +50,8 @@ FinWiki では [[td-hd]] group strategy, life-insurance channel mix, economic-va
 
 ## Related
 
-- [[td-hd]]
-- [[daido-life]]
+- [[life-insurers/td-hd]]
+- [[life-insurers/daido-life]]
 - [[insurance/life-insurance-channel-mix]]
 - [[insurance/economic-value-based-solvency]]
 - [[insurance/INDEX]]

@@ -30,22 +30,22 @@ translated_at: 2026-05-31T23:59:49.428Z
 
 ## 2. Operating model
 
-宫崎银行是以宫崎县为中心，承担 retail deposits, SME finance, agriculture / tourism support, and local relationship banking 的 regional bank。在南九州，可将其与 [[kyushu-fg]] 旗下的 [[higo-bank]] / [[kagoshima-bank]] 以及本地第二地方银行同业比较。
+宫崎银行是以宫崎县为中心，承担 retail deposits, SME finance, agriculture / tourism support, and local relationship banking 的 regional bank。在南九州，可将其与 [[regional-banks/kyushu-fg]] 旗下的 [[regional-banks/higo-bank]] / [[regional-banks/kagoshima-bank]] 以及本地第二地方银行同业比较。
 
 ## 3. Why this page matters
 
 - 补齐宫崎银行在 FSA 精确名称 operating-company 层面的缺口。
 - 为南九州地方银行比较提供宫崎县锚点。
-- 为 [[miyazaki-taiyo-bank|宮崎太陽銀行]] 等第二地方银行覆盖增加同业页面。
+- 为 [[regional-banks/miyazaki-taiyo-bank|宮崎太陽銀行]] 等第二地方银行覆盖增加同业页面。
 
 ## Related
 
-- [[higo-bank]]
-- [[kagoshima-bank]]
-- [[kyushu-fg]]
-- [[oita-bank]]
+- [[regional-banks/higo-bank]]
+- [[regional-banks/kagoshima-bank]]
+- [[regional-banks/kyushu-fg]]
+- [[regional-banks/oita-bank]]
 - [[banking/regional-bank-consolidation-pattern]]
-- [[miyazaki-taiyo-bank]]
+- [[regional-banks/miyazaki-taiyo-bank]]
 - [[banking/INDEX]]
 
 ## Sources

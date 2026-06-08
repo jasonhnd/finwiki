@@ -12,7 +12,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## 推論 (from TL;DR)
 
-丸紅 (東証 PRIME **8002**) は **5 大総合商社の一角**、**電力 IPP (独立系発電事業) 世界トップ級** + **穀物トレード 世界 5 大級 (Gavilon を旧買収・2022 米国農業部門 を Viterra に売却 / Helena 主力体制)** + **食品 (鶏肉 等、米国農業)** で知られる「**電力・食料商社**」。みずほグループ系列 (旧 富士銀行 → みずほ銀行) との歴史的近接性が強く、JapanFG 文脈での重要性は (i) [[JapanFG/marubeni-financial-services|丸紅フィナンス]] (内向け CMS)、(ii) **2024 年 [[JapanFG/mizuho-lease|みずほリース]] への戦略的株主入り** (持分約 20% 級、東証 PRIME **8425**、旧 興銀リース、3 大リースの一角級)、(iii) [[JapanFG/mizuho-fg|みずほ FG]] とのグループ系列クロス取引、にある。^[inferred]
+丸紅 (東証 PRIME **8002**) は **5 大総合商社の一角**、**電力 IPP (独立系発電事業) 世界トップ級** + **穀物トレード 世界 5 大級 (Gavilon を旧買収・2022 米国農業部門 を Viterra に売却 / Helena 主力体制)** + **食品 (鶏肉 等、米国農業)** で知られる「**電力・食料商社**」。みずほグループ系列 (旧 富士銀行 → みずほ銀行) との歴史的近接性が強く、JapanFG 文脈での重要性は (i) [[trading-company-finance/marubeni-financial-services|丸紅フィナンス]] (内向け CMS)、(ii) **2024 年 [[leasing-firms/mizuho-lease|みずほリース]] への戦略的株主入り** (持分約 20% 級、東証 PRIME **8425**、旧 興銀リース、3 大リースの一角級)、(iii) [[megabanks/mizuho-fg|みずほ FG]] とのグループ系列クロス取引、にある。^[inferred]
 
 ## 推論 (from 1. 会社概要)
 
@@ -22,8 +22,8 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## 推論 (from 3. Financial-services adjacency)
 
-- **[[JapanFG/mizuho-fg|みずほ FG]]** — 旧 富士銀行系の流れで丸紅と歴史的に最も近接。みずほ銀行 = 丸紅のメインバンク的位置付け ^[inferred]
-- **[[JapanFG/tokyo-century|東京センチュリー]]** — みずほ FG + 伊藤忠商事の 2 軸株主構造のリース。丸紅は別途みずほリースに張ったため、3 大リース ([[JapanFG/orix-corp|オリックス]] / [[JapanFG/mitsubishi-hc-capital|三菱HCキャピタル]] / 東京センチュリー) と並ぶ「**第 4 リース勢力**」(みずほリース) の主要株主としてポジショニング ^[inferred]
+- **[[megabanks/mizuho-fg|みずほ FG]]** — 旧 富士銀行系の流れで丸紅と歴史的に最も近接。みずほ銀行 = 丸紅のメインバンク的位置付け ^[inferred]
+- **[[leasing-firms/tokyo-century|東京センチュリー]]** — みずほ FG + 伊藤忠商事の 2 軸株主構造のリース。丸紅は別途みずほリースに張ったため、3 大リース ([[leasing-firms/orix-corp|オリックス]] / [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]] / 東京センチュリー) と並ぶ「**第 4 リース勢力**」(みずほリース) の主要株主としてポジショニング ^[inferred]
 
 ## 推論 (from 5 大商社内の identity)
 
@@ -40,7 +40,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 - **「電力 IPP の長期収益化」**: 再エネシフト局面で既存 IPP (火力主体) の座礁資産化リスク ^[inferred]
 - **「みずほリース 持分の戦略性」**: 約 20% 級 = 持分法、上場会社なので商社主導の戦略推進力は限定的、3 大リース対抗にどれだけ機能するか ^[inferred]
-- **「5 大商社中位ポジション」**: 純利益で 5 大の中下位、上位 ([[JapanFG/mitsubishi-corp|三菱]] / [[JapanFG/mitsui-co|三井]] / [[JapanFG/itochu-corp|伊藤忠]]) との収益格差拡大の懸念 ^[inferred]
+- **「5 大商社中位ポジション」**: 純利益で 5 大の中下位、上位 ([[financial-conglomerates/mitsubishi-corp|三菱]] / [[financial-conglomerates/mitsui-co|三井]] / [[financial-conglomerates/itochu-corp|伊藤忠]]) との収益格差拡大の懸念 ^[inferred]
 - **「Berkshire 効果」**: 5 大商社共通のリレーティング、外部依存 ^[inferred]
 
 <!-- Phase 1.5 追加抽出 (2026-05-29) -->

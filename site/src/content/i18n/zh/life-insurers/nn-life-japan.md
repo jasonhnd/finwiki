@@ -30,7 +30,7 @@ translated_at: 2026-06-01T00:41:50.431Z
 
 ## 2. 运营模式
 
-NN生命作为外资系 life insurer 的日本 operating company，具有面向法人和业主的保险、死亡保障、医疗和收入保障等 product / distribution boundary。FinWiki 将其与 [[aflac-japan]]、[[metlife-japan]]、[[manulife-japan]]、[[prudential-japan]] 等 foreign-affiliated life insurers 并列比较。
+NN生命作为外资系 life insurer 的日本 operating company，具有面向法人和业主的保险、死亡保障、医疗和收入保障等 product / distribution boundary。FinWiki 将其与 [[life-insurers/aflac-japan]]、[[life-insurers/metlife-japan]]、[[life-insurers/manulife-japan]]、[[life-insurers/prudential-japan]] 等 foreign-affiliated life insurers 并列比较。
 
 在外资系 insurer 页面中，优先看的不是母公司国籍，而是日本国内牌照、销售渠道、产品领域、代理店 / financial advisor network 的差异。
 
@@ -42,11 +42,11 @@ NN生命作为外资系 life insurer 的日本 operating company，具有面向�
 
 ## Related
 
-- [[aflac-japan]]
-- [[metlife-japan]]
-- [[manulife-japan]]
-- [[prudential-japan]]
-- [[axa-japan]]
+- [[life-insurers/aflac-japan]]
+- [[life-insurers/metlife-japan]]
+- [[life-insurers/manulife-japan]]
+- [[life-insurers/prudential-japan]]
+- [[life-insurers/axa-japan]]
 - [[insurance/life-insurance-channel-mix]]
 
 ## Sources

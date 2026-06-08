@@ -94,15 +94,15 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 |---|---|---|
 | 個人 | 預金・住宅ローン・カード・投信 | 道内シェア No.1、第二地銀最大級リテール網 |
 | 法人 | 北海道中堅・中小企業向け融資 | 旧拓銀法人取引承継、道内 main bank 多数 |
-| 公共 | 北海道庁・札幌市等 指定金融機関業務（一部）| 道銀（[[hokuhoku-fg]] 傘下）と分担 |
+| 公共 | 北海道庁・札幌市等 指定金融機関業務（一部）| 道銀（[[regional-banks/hokuhoku-fg]] 傘下）と分担 |
 | 証券 | 北洋証券（100%）| リテール証券 |
 | リース | 札幌北洋リース | グループ補完 |
 
 ### 競合環境
 
-- **道内 No.2**: **北海道銀行**（[[hokuhoku-fg]] = ほくほく FG 傘下、地銀協加盟）— 道内シェア争いは「**道銀 vs 北洋**」が長年の二極構造
+- **道内 No.2**: **北海道銀行**（[[regional-banks/hokuhoku-fg]] = ほくほく FG 傘下、地銀協加盟）— 道内シェア争いは「**道銀 vs 北洋**」が長年の二極構造
 - **きたしんブランド**: 北海道信金中金系、地域信金連合
-- **メガバンク道内拠点**: [[mufg]] / [[smfg]] / [[mizuho-fg]] — 都市部・大口法人で重なるが、リテール道内浸透度は北洋優位
+- **メガバンク道内拠点**: [[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]] — 都市部・大口法人で重なるが、リテール道内浸透度は北洋優位
 - **ゆうちょ・JA バンク**: 預金獲得競合
 
 ### 拓銀承継の歴史的意義 ★
@@ -127,9 +127,9 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## Related
 
-- [[hokuhoku-fg]]（道内 No.2・北海道銀行親会社）
-- [[mufg]] · [[smfg]] · [[mizuho-fg]]（メガバンク道内拠点）
-- [[ndfg]] · [[sbi-hd]]
+- [[regional-banks/hokuhoku-fg]]（道内 No.2・北海道銀行親会社）
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]（メガバンク道内拠点）
+- [[megabanks/ndfg]] · [[megabanks/sbi-hd]]
 
 ## Sources
 

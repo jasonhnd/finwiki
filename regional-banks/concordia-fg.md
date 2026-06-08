@@ -27,7 +27,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-国内地銀 FG **最大級**、預金 **19.7 兆円**・総資産 **24.8 兆円**（2025-03 末、地銀 FG 単独首位級）^[extracted]。2016-04-01 **横浜銀行 + 東日本銀行** が共同株式移転で経営統合、旧称「コンコルディア・フィナンシャルグループ」(ラテン語「調和」) として発足。**2025-10-01 商号変更 →「株式会社横浜フィナンシャルグループ」**（中核行ブランドを社名に冠し、国内外認知度向上が目的）^[extracted]。神奈川県（県内シェア圧倒的）+ 首都圏 中堅・中小企業のリテール集合体。証券コード **東証 PRIME 7186**。FY2024 (2025-03 期) 純利益 **828 億円**（前年比 +23.7%）、FY2025 (2026-03 期) 通期見通し **1,065 億円**（+28.6%）と日銀利上げ追い風で連続二桁増益。横浜銀行は **TSUBASA アライアンス非加盟**、千葉銀行と「千葉・横浜パートナーシップ」（2019〜、24-28 年度二期目 250 億円効果目標）。最大の競合は [[fukuoka-fg]] / 千葉銀行・[[resona-hd]]。^[extracted]
+国内地銀 FG **最大級**、預金 **19.7 兆円**・総資産 **24.8 兆円**（2025-03 末、地銀 FG 単独首位級）^[extracted]。2016-04-01 **横浜銀行 + 東日本銀行** が共同株式移転で経営統合、旧称「コンコルディア・フィナンシャルグループ」(ラテン語「調和」) として発足。**2025-10-01 商号変更 →「株式会社横浜フィナンシャルグループ」**（中核行ブランドを社名に冠し、国内外認知度向上が目的）^[extracted]。神奈川県（県内シェア圧倒的）+ 首都圏 中堅・中小企業のリテール集合体。証券コード **東証 PRIME 7186**。FY2024 (2025-03 期) 純利益 **828 億円**（前年比 +23.7%）、FY2025 (2026-03 期) 通期見通し **1,065 億円**（+28.6%）と日銀利上げ追い風で連続二桁増益。横浜銀行は **TSUBASA アライアンス非加盟**、千葉銀行と「千葉・横浜パートナーシップ」（2019〜、24-28 年度二期目 250 億円効果目標）。最大の競合は [[regional-banks/fukuoka-fg]] / 千葉銀行・[[megabanks/resona-hd]]。^[extracted]
 
 ## 1. 会社概要
 
@@ -141,7 +141,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 | 中堅・中小企業 | 横浜銀行 | 神奈川 + 首都圏の中堅企業 main bank |
 | 都内中小特化 | 東日本銀行 | 都心 中小企業融資・歴史的にニッチ層 |
 | 法人 IB / シ・ローン | 横浜銀行 | 地銀の中では IB 案件参画力上位 |
-| 信託・私募 | 横浜銀行（[[sumitomo-mitsui-trust]] 等との提携） | 単独信託免許なし → メガ信託に取次 |
+| 信託・私募 | 横浜銀行（[[trust-banks/sumitomo-mitsui-trust]] 等との提携） | 単独信託免許なし → メガ信託に取次 |
 | カード・信用保証 | はまぎんファイナンス + グループ | 銀行付随業務 |
 | リース | 横浜銀リース | 地銀系リース上位 |
 | シンクタンク | はまぎん総合研究所 | 神奈川経済データ・地域分析 |
@@ -168,10 +168,10 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 | 競合 | 地盤 | 構図 |
 |---|---|---|
 | 千葉銀行・千葉興業銀行 | 千葉県・首都圏 | パートナーシップ提携相手だが、首都圏中堅企業 main bank では競合関係 |
-| [[resona-hd]]（埼玉りそな・りそな銀）| 首都圏 | 旧都銀系・リテール強・首都圏個人金融 直接競合 |
-| [[fukuoka-fg]] | 福岡県・九州 | 地銀 FG 規模 No.1 級争い・全国地銀ランキング比較対象 |
-| [[smfg]] / [[mufg]] / [[mizuho-fg]] | 全国 | 中堅企業 main bank で部分競合（メガは大企業中心、地銀は中堅・中小）|
-| [[paypay-fg]] / 楽天銀行 | デジタル | 個人デジタル領域での新興競合 |
+| [[megabanks/resona-hd]]（埼玉りそな・りそな銀）| 首都圏 | 旧都銀系・リテール強・首都圏個人金融 直接競合 |
+| [[regional-banks/fukuoka-fg]] | 福岡県・九州 | 地銀 FG 規模 No.1 級争い・全国地銀ランキング比較対象 |
+| [[megabanks/smfg]] / [[megabanks/mufg]] / [[megabanks/mizuho-fg]] | 全国 | 中堅企業 main bank で部分競合（メガは大企業中心、地銀は中堅・中小）|
+| [[megabanks/paypay-fg]] / 楽天銀行 | デジタル | 個人デジタル領域での新興競合 |
 
 ### 統合シナジー・課題
 
@@ -201,8 +201,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## Related
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[fukuoka-fg]] · [[resona-hd]] · [[sumitomo-mitsui-trust]]
-- [[paypay-fg]] · [[rakuten-fg]] · [[sbi-hd]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[regional-banks/fukuoka-fg]] · [[megabanks/resona-hd]] · [[trust-banks/sumitomo-mitsui-trust]]
+- [[megabanks/paypay-fg]] · [[payment-firms/rakuten-fg]] · [[megabanks/sbi-hd]]
 
 ## Sources
 

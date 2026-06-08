@@ -30,8 +30,8 @@ translated_at: 2026-05-31T11:13:44.889Z
 ### 业态特点
 
 - **不要成为独立的银行或控股公司** ^[extracted]
-  - 即使在同一家东北地区银行 [[proclair-hd]]（青森/陆奥一体化） [[jimoto-hd]]在（仙台银行+基拉亚卡银行）重组为控股公司的同时，77银行维持其独立的银行体系
-  - 哪些主要区域银行还没有转变为控股公司？ [[chiba-bank]]・[[regional-banks/shizuoka-fg|shizuoka-bank]]・[[regional-banks/joyo-bank|joyo-bank]](→ 足利和 [[mebuki-fg]] 形成）・[[regional-banks/kyoto-fg|bank-of-kyoto]] 与领先的区域银行类似的路线，例如
+  - 即使在同一家东北地区银行 [[regional-banks/proclair-hd]]（青森/陆奥一体化） [[regional-banks/jimoto-hd]]在（仙台银行+基拉亚卡银行）重组为控股公司的同时，77银行维持其独立的银行体系
+  - 哪些主要区域银行还没有转变为控股公司？ [[regional-banks/chiba-bank]]・[[regional-banks/shizuoka-fg|shizuoka-bank]]・[[regional-banks/joyo-bank|joyo-bank]](→ 足利和 [[regional-banks/mebuki-fg]] 形成）・[[regional-banks/kyoto-fg|bank-of-kyoto]] 与领先的区域银行类似的路线，例如
 - 区域银行协会成员。不参加TSUBASA联盟，而是千叶银行主导的地区振兴振兴网络（千叶、北海道、77、82、静冈、京都、广岛、伊予、福冈）的成员。 9 行) 参加 ^[extracted]
 
 ### 主要关联公司（主要关联公司）^[extracted]
@@ -90,9 +90,9 @@ translated_at: 2026-05-31T11:13:44.889Z
 | **岩手银行** |盛冈|岩手县压倒性市场份额|
 | **山形银行** |山形|山形县压倒性市场份额|
 | **秋田银行** |秋田 |秋田县压倒性的市场份额|
-| **青森银行**（→ [[proclair-hd]] 陆奥综合）|青森 | 2022 控股公司整合 |
-| **即本控股** [[jimoto-hd]] |仙台/山形|仙台银行 + 宫城基拉亚卡银行 77 直接竞争|
-| **超级银行** ([[mufg]] / [[smfg]] / [[mizuho-fg]])|东京 |与大企业及都市圈交易、当地中小企业竞争 77 优势 |
+| **青森银行**（→ [[regional-banks/proclair-hd]] 陆奥综合）|青森 | 2022 控股公司整合 |
+| **即本控股** [[regional-banks/jimoto-hd]] |仙台/山形|仙台银行 + 宫城基拉亚卡银行 77 直接竞争|
+| **超级银行** ([[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]])|东京 |与大企业及都市圈交易、当地中小企业竞争 77 优势 |
 | **信用金库/信用合作社**（仙台银行、东北银行等） |不同地点 |本地小企业/个人 |
 
 ### 独立路线问题
@@ -128,8 +128,8 @@ translated_at: 2026-05-31T11:13:44.889Z
 
 ＃＃ 有关的
 
-- [[jimoto-hd]] · [[proclair-hd]] · [[chiba-bank]] · [[regional-banks/shizuoka-fg|shizuoka-bank]] · [[regional-banks/joyo-bank|joyo-bank]] · [[mebuki-fg]]
-- [[mufg]] · [[smfg]] · [[mizuho-fg]]
+- [[regional-banks/jimoto-hd]] · [[regional-banks/proclair-hd]] · [[regional-banks/chiba-bank]] · [[regional-banks/shizuoka-fg|shizuoka-bank]] · [[regional-banks/joyo-bank|joyo-bank]] · [[regional-banks/mebuki-fg]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]
 - [[regional-banks/18-shinwa-bank|18-shinwa-bank]]（地区银行数字银行名称参考）
 
 ## 来源

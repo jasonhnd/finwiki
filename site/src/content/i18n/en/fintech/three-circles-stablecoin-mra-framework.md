@@ -43,8 +43,8 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 1. **USD chain-level dominance is strengthened further**: through the three circles, USDC covers the developed-world sphere and far exceeds Tether in strategic position (Tether remains only in emerging markets and gray zones).
 2. **Second-tier camps are forced to choose**: the UK, Switzerland, Singapore, Hong Kong, etc. must decide whether to join the "USD camp" or some alternative camp.
-3. **BRICS camp counter-move**: in [[stablecoin-chain-sovereign-currency-divide|5 極地政学対立]], the direction of capital flows in the "gray" and "non-USD" circles shifts.
-4. **India / China challenge**: [[india-anti-dollar-dpi-alliance|インド UPI / MOSIP DPI 連合]] offers an alternative narrative.
+3. **BRICS camp counter-move**: in [[fintech/stablecoin-chain-sovereign-currency-divide|5 極地政学対立]], the direction of capital flows in the "gray" and "non-USD" circles shifts.
+4. **India / China challenge**: [[fintech/india-anti-dollar-dpi-alliance|インド UPI / MOSIP DPI 連合]] offers an alternative narrative.
 
 **Implications for market structure**:
 

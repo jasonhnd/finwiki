@@ -36,14 +36,14 @@ translated_at: 2026-06-02T14:54:39.096Z
 ## 3. このページが重要な理由
 
 - JapanFGに未収録だったFSA掲載の保険持株会社を追加する。
-- 接続する [[ndfg]] / NTT Docomo finance 拡張 with insurance regulation.
+- 接続する [[megabanks/ndfg]] / NTT Docomo finance 拡張 with insurance regulation.
 - 保険持株会社の認可と通常の保険事業会社ページを切り分ける助けになる。
 
 ## 関連
 
-- [[ndfg]]
-- [[au-fh]]
-- [[paypay-fg]]
+- [[megabanks/ndfg]]
+- [[megabanks/au-fh]]
+- [[megabanks/paypay-fg]]
 - [[insurance/INDEX]]
 - [[financial-regulators/missing-financial-institutions-backlog]]
 

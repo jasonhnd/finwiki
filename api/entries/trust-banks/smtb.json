@@ -80,7 +80,7 @@
   "metrics": {
     "nonspace_chars": 2700,
     "word_like_tokens": 405,
-    "inbound_wikilinks_count": 20,
+    "inbound_wikilinks_count": 21,
     "last_modified": "2026-06-05"
   }
 }

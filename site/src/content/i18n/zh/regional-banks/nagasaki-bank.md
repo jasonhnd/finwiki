@@ -37,7 +37,7 @@ translated_at: 2026-06-01T00:41:50.402Z
 
 ## ??????
 
-- [[regional-banks/INDEX|regional-banks INDEX]] [[regional-banks/kumamoto-bank|熊本銀行]] [[banking/INDEX|banking index]] [[nishi-nippon-fhd]] [[18-shinwa-bank]] 1 [[nishi-nippon-fhd]] 2 [[nishi-nippon-fhd]] 3 [[18-shinwa-bank]] [[nishi-nippon-city-bank]] [[fukuoka-fg]] [[nishi-nippon-fhd]] [[nishi-nippon-city-bank]] [[18-shinwa-bank]] [[fukuoka-fg]] [[banking/regional-bank-consolidation-pattern]]
+- [[regional-banks/INDEX|regional-banks INDEX]] [[regional-banks/kumamoto-bank|熊本銀行]] [[banking/INDEX|banking index]] [[regional-banks/nishi-nippon-fhd]] [[regional-banks/18-shinwa-bank]] 1 [[regional-banks/nishi-nippon-fhd]] 2 [[regional-banks/nishi-nippon-fhd]] 3 [[regional-banks/18-shinwa-bank]] [[regional-banks/nishi-nippon-city-bank]] [[regional-banks/fukuoka-fg]] [[regional-banks/nishi-nippon-fhd]] [[regional-banks/nishi-nippon-city-bank]] [[regional-banks/18-shinwa-bank]] [[regional-banks/fukuoka-fg]] [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]] 2026-05-02
 
 ## Related

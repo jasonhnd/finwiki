@@ -49,15 +49,15 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 ## 4. Why this page matters
 
 - Closes the FSA exact-name operating-company gap for 第四北越銀行.
-- Separates the bank license from [[dai-shi-hokuetsu-fg]] holding-company strategy.
-- Provides a peer anchor for [[taiko-bank]] and Hokuriku / Chubu regional-bank coverage.
+- Separates the bank license from [[regional-banks/dai-shi-hokuetsu-fg]] holding-company strategy.
+- Provides a peer anchor for [[regional-banks/taiko-bank]] and Hokuriku / Chubu regional-bank coverage.
 
 ## Related
 
 - [[regional-banks/INDEX|regional-banks INDEX]]
-- [[dai-shi-hokuetsu-fg]]
-- [[taiko-bank]]
-- [[hokuhoku-fg]]
+- [[regional-banks/dai-shi-hokuetsu-fg]]
+- [[regional-banks/taiko-bank]]
+- [[regional-banks/hokuhoku-fg]]
 - [[financial-regulators/fsa|FSA]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]

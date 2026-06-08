@@ -15,7 +15,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-Kyoto Financial Group is a **prestige Kansai regional-bank FG** based in Kyoto Prefecture. Securities code: **TSE PRIME 5844**. It was launched in **2023-10-02** when Bank of Kyoto became a holding-company group through a **sole-share-transfer** structure, a relatively late holding-company conversion among regional banks. **Bank of Kyoto maintains No. 1 share inside Kyoto Prefecture** and is known for transactions and **policy-shareholdings** with globally strong Kyoto-headquartered companies such as Nintendo, Kyocera, Murata Manufacturing, and Nippon Densan / Nidec. In Kansai it competes directly with [[resona-hd]] (Kansai Mirai Bank), [[ikeda-senshu-hd]], Shiga Bank, Nanto Bank, Kiyo Bank, and others. Against the megabank 3 行 cluster ([[mufg]] / [[smfg]] / [[mizuho-fg]]), it has a distinctive presence through its Kyoto base and the **financial strength** created by cross-shareholdings in listed companies. ^[extracted]
+Kyoto Financial Group is a **prestige Kansai regional-bank FG** based in Kyoto Prefecture. Securities code: **TSE PRIME 5844**. It was launched in **2023-10-02** when Bank of Kyoto became a holding-company group through a **sole-share-transfer** structure, a relatively late holding-company conversion among regional banks. **Bank of Kyoto maintains No. 1 share inside Kyoto Prefecture** and is known for transactions and **policy-shareholdings** with globally strong Kyoto-headquartered companies such as Nintendo, Kyocera, Murata Manufacturing, and Nippon Densan / Nidec. In Kansai it competes directly with [[megabanks/resona-hd]] (Kansai Mirai Bank), [[regional-banks/ikeda-senshu-hd]], Shiga Bank, Nanto Bank, Kiyo Bank, and others. Against the megabank 3 行 cluster ([[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]]), it has a distinctive presence through its Kyoto base and the **financial strength** created by cross-shareholdings in listed companies. ^[extracted]
 
 ## 1. Company Overview
 
@@ -107,13 +107,13 @@ Kyoto FG (holding company, TSE PRIME 5844)
 
 | Competitor | Base | Pattern |
 |---|---|---|
-| [[resona-hd]] (Kansai Mirai Bank) | Wide Kansai | Former Daiwa Bank + former Kinki Osaka Bank + former Minato Bank alliance; direct competitor in Kansai retail |
-| [[ikeda-senshu-hd]] (Ikeda Senshu Bank) | Osaka Hokusetu / Senshu | Partial competition with Bank of Kyoto's wide Kansai expansion in Osaka |
+| [[megabanks/resona-hd]] (Kansai Mirai Bank) | Wide Kansai | Former Daiwa Bank + former Kinki Osaka Bank + former Minato Bank alliance; direct competitor in Kansai retail |
+| [[regional-banks/ikeda-senshu-hd]] (Ikeda Senshu Bank) | Osaka Hokusetu / Senshu | Partial competition with Bank of Kyoto's wide Kansai expansion in Osaka |
 | Shiga Bank | Shiga / Kansai | Competes around the Kyoto-Shiga border and Keihan area; close in Kansai regional-bank ranking |
 | Nanto Bank | Nara | Competes in southern Kyoto and Nara-border areas |
 | Kiyo Bank | Wakayama | Same Kansai regional-bank cohort; indirect Kansai-wide competitor |
-| [[mufg]] / [[smfg]] / [[mizuho-fg]] | Nationwide | Compete in large-company main-bank areas; Bank of Kyoto has **independent relationships with some global companies through cross-shareholdings**, remaining a stable shareholder even where [[mufg]] / [[smfg]] are main banks, such as Nintendo and Kyocera ★ |
-| [[paypay-fg]] / Rakuten Bank / SBI Sumishin Net Bank | Digital | Emerging competition in retail digital |
+| [[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]] | Nationwide | Compete in large-company main-bank areas; Bank of Kyoto has **independent relationships with some global companies through cross-shareholdings**, remaining a stable shareholder even where [[megabanks/mufg]] / [[megabanks/smfg]] are main banks, such as Nintendo and Kyocera ★ |
+| [[megabanks/paypay-fg]] / Rakuten Bank / SBI Sumishin Net Bank | Digital | Emerging competition in retail digital |
 | Kyoto Shinkin Bank / Kyoto Chuo Shinkin Bank | Kyoto Prefecture | Compete on small-ticket and local transactions inside Kyoto |
 
 ### Relationship with Kyoto-Headquartered Global Companies ★
@@ -148,9 +148,9 @@ Kyoto FG (holding company, TSE PRIME 5844)
 
 ## Related
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[resona-hd]] · [[sumitomo-mitsui-trust]]
-- [[ikeda-senshu-hd]] · [[concordia-fg]] · [[fukuoka-fg]] · [[shizuoka-fg]] · [[hirogin-hd]]
-- [[paypay-fg]] · [[rakuten-fg]] · [[sbi-hd]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[megabanks/resona-hd]] · [[trust-banks/sumitomo-mitsui-trust]]
+- [[regional-banks/ikeda-senshu-hd]] · [[regional-banks/concordia-fg]] · [[regional-banks/fukuoka-fg]] · [[regional-banks/shizuoka-fg]] · [[regional-banks/hirogin-hd]]
+- [[megabanks/paypay-fg]] · [[payment-firms/rakuten-fg]] · [[megabanks/sbi-hd]]
 
 ## Sources
 

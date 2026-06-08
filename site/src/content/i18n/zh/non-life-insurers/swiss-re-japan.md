@@ -40,16 +40,16 @@ translated_at: 2026-06-01T02:31:57.137Z
 
 - 外国再保险公司日本支店的双璧之一；与 [[non-life-insurers/munich-re-japan]] 一起构成 “Big 2” 全球再保险资本进入日本的入口。
 - 是连接 [[insurance/natcat-reinsurance-japan]] 与元受 mega non-life groups 的 system link。
-- 是与国内 [[toa-reinsurance]] / [[japan-earthquake-reinsurance]] 市场角色对照的教材。
+- 是与国内 [[non-life-insurers/toa-reinsurance]] / [[non-life-insurers/japan-earthquake-reinsurance]] 市场角色对照的教材。
 
 ## Related
 
 - [[non-life-insurers/INDEX]]
-- [[munich-re-japan]]
-- [[toa-reinsurance]]
-- [[japan-earthquake-reinsurance]]
-- [[hannover-re-japan]]
-- [[rga-japan]]
+- [[non-life-insurers/munich-re-japan]]
+- [[non-life-insurers/toa-reinsurance]]
+- [[non-life-insurers/japan-earthquake-reinsurance]]
+- [[non-life-insurers/hannover-re-japan]]
+- [[life-insurers/rga-japan]]
 - [[insurance/natcat-reinsurance-japan]]
 - [[insurance/INDEX]]
 

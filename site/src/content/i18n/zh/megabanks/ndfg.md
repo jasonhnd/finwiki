@@ -15,7 +15,7 @@ translated_at: 2026-06-01T00:41:50.381Z
 
 ## TL;DR
 
-NTT DOCOMO 通过吸收分割承继金融领域业务和相关股份，设立并启动 **NTT DOCOMO Financial Group** 这一金融业务统括中间控股公司，业务开始日为 2026-07-01。它把证券、银行、卡、支付和相关金融业务放到 1  一个屋檐下重组，包括 Monex Group、住信 SBI 网络银行 / docomo Neobank、d Card、d Barai、d Smart Bank 等。其定位是与 [[megabanks/au-fh|au-fg]]、[[paypay-fg]]、[[rakuten-fg]] 并列的**通信系 FG 第 4  极**。母公司是 NTT DOCOMO，属于 NTT 100% 集团。^[extracted]
+NTT DOCOMO 通过吸收分割承继金融领域业务和相关股份，设立并启动 **NTT DOCOMO Financial Group** 这一金融业务统括中间控股公司，业务开始日为 2026-07-01。它把证券、银行、卡、支付和相关金融业务放到 1  一个屋檐下重组，包括 Monex Group、住信 SBI 网络银行 / docomo Neobank、d Card、d Barai、d Smart Bank 等。其定位是与 [[megabanks/au-fh|au-fg]]、[[megabanks/paypay-fg]]、[[payment-firms/rakuten-fg]] 并列的**通信系 FG 第 4  极**。母公司是 NTT DOCOMO，属于 NTT 100% 集团。^[extracted]
 
 ## 1. 公司概要
 
@@ -87,7 +87,7 @@ NDFG（中间控股，NTT DOCOMO 100%，业务开始 2026-07-01）
 
 ### 通信系 FG「第 4  极」定位
 
-- **既有 3  极**：[[megabanks/au-fh|au-fg]]（KDDI / au，au Jibun Bank 出售后再编期）、[[paypay-fg]]（SoftBank / Z Holdings 系，PayPay Bank + PayPay Securities + PayPay Card）、[[rakuten-fg]]（Rakuten Bank / Rakuten Securities / Rakuten Card / Rakuten Pay）。
+- **既有 3  极**：[[megabanks/au-fh|au-fg]]（KDDI / au，au Jibun Bank 出售后再编期）、[[megabanks/paypay-fg]]（SoftBank / Z Holdings 系，PayPay Bank + PayPay Securities + PayPay Card）、[[payment-firms/rakuten-fg]]（Rakuten Bank / Rakuten Securities / Rakuten Card / Rakuten Pay）。
 
 ### 金融服务整合的目标 / 公开发布旨趣 ^[extracted]
 
@@ -116,9 +116,9 @@ NDFG（中间控股，NTT DOCOMO 100%，业务开始 2026-07-01）
 
 ## Related
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] - megabank 3  极
-- [[megabanks/au-fh|au-fg]] · [[paypay-fg]] · [[rakuten-fg]] - 通信系 FG 同业
-- [[sbi-hd]] - 住信 SBI 网络银行母公司
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] - megabank 3  极
+- [[megabanks/au-fh|au-fg]] · [[megabanks/paypay-fg]] · [[payment-firms/rakuten-fg]] - 通信系 FG 同业
+- [[megabanks/sbi-hd]] - 住信 SBI 网络银行母公司
 
 ## Sources
 

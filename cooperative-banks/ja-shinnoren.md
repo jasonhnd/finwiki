@@ -55,7 +55,7 @@ JA Bank system (3 層構造)
                 ↓ 余資預け入れ
   Layer 2: 31 信連 (都道府県中間層) ★本ページ
                 ↓ 余資預け入れ
-  Layer 3: 1 農林中央金庫 (中央) → [[norinchukin]]
+  Layer 3: 1 農林中央金庫 (中央) → [[cooperative-banks/norinchukin]]
                 ↓ 機関投資・系統還元
 ```
 

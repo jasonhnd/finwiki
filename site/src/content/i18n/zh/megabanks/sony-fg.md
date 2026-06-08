@@ -99,7 +99,7 @@ Sony Financial Group（控股公司，计划东证 PRIME 重新上市 8729）
 
 ## Related
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[ndfg]] · [[sbi-hd]] · [[paypay-fg]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[megabanks/ndfg]] · [[megabanks/sbi-hd]] · [[megabanks/paypay-fg]]
 - [[banking/rakuten-bank]] · [[regional-banks/sbi-shinsei-bank|banking/sbi-shinsei-bank]] · [[banking/au-jibun-bank]] · [[banking/minna-bank-baas-model]]
 
 ## Sources

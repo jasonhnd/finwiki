@@ -12,11 +12,11 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## 推論 (from TL;DR)
 
-01銀行は FSA の銀行免許リスト上「０１銀行株式会社」として掲載される新興 digital-bank operating company。**[[JapanFG/fukuoka-fg|ふくおか FG (FFG)]] 傘下の SME 特化型デジタル銀行**として 2024-02 に開業し、公式会社概要では「データでビジネスを応援する」を掲げ、決算書だけでなく事業活動データ（クラウド会計・SaaS 利用実績等）を融資判断に活用する SME finance / data banking model を志向する ^[extracted]。FFG の「みんなの銀行」(リテール向けフルクラウドネオバンク) と並ぶ第二弾デジタルバンク子会社で、ターゲットを **法人 / SME / freelance** に絞った棲み分け戦略 ^[inferred]。
+01銀行は FSA の銀行免許リスト上「０１銀行株式会社」として掲載される新興 digital-bank operating company。**[[regional-banks/fukuoka-fg|ふくおか FG (FFG)]] 傘下の SME 特化型デジタル銀行**として 2024-02 に開業し、公式会社概要では「データでビジネスを応援する」を掲げ、決算書だけでなく事業活動データ（クラウド会計・SaaS 利用実績等）を融資判断に活用する SME finance / data banking model を志向する ^[extracted]。FFG の「みんなの銀行」(リテール向けフルクラウドネオバンク) と並ぶ第二弾デジタルバンク子会社で、ターゲットを **法人 / SME / freelance** に絞った棲み分け戦略 ^[inferred]。
 
 ## 推論 (from 1. 法人・ライセンス境界)
 
-| Parent | [[JapanFG/fukuoka-fg|ふくおか FG (FFG)]] 100% 子会社 ^[inferred] |
+| Parent | [[regional-banks/fukuoka-fg|ふくおか FG (FFG)]] 100% 子会社 ^[inferred] |
 
 ## 推論 (from 2. KPI 表（v1.0 公開ベース概算）^[inferred])
 
@@ -37,7 +37,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## 推論 (from 6. ピア比較 — 地銀デジタル子会社の系譜)
 
-| **01銀行** | **[[JapanFG/fukuoka-fg|FFG]]** | **2024-02** | **SME / 法人** | **データ与信特化** ^[inferred] |
+| **01銀行** | **[[regional-banks/fukuoka-fg|FFG]]** | **2024-02** | **SME / 法人** | **データ与信特化** ^[inferred] |
 
 ## 推論 (from 7. 監督・規制)
 

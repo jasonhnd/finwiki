@@ -206,7 +206,7 @@ DBJ's statutory privatization path has repeatedly stalled. The original post-200
 - [[financial-regulators/dbj]]
 - [[financial-regulators/jfc]]
 - [[financial-regulators/jbic]]
-- [[JapanFG/nexi]]
+- [[policy-finance/nexi]]
 - [[megabanks/mufg]]
 - [[megabanks/smfg]]
 - [[megabanks/mizuho-fg]]

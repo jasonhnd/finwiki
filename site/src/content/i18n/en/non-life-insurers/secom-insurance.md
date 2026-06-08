@@ -40,8 +40,8 @@ Secom General Insurance matters because insurance can be bundled with prevention
 ## Related
 
 - [[insurance/INDEX]]
-- [[sompo-japan-insurance]]
-- [[tokio-marine-nichido-fire]]
+- [[non-life-insurers/sompo-japan-insurance]]
+- [[non-life-insurers/tokio-marine-nichido-fire]]
 - [[insurance/natcat-reinsurance-japan]]
 
 ## Sources

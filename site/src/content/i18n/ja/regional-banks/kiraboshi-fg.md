@@ -111,11 +111,11 @@ translated_at: 2026-06-02T14:54:39.064Z
 
 ## 関連項目
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]]（メガ 3 行、東京リテール競合）
-- [[ndfg]]（千葉銀行系、首都圏地銀比較軸）
-- [[fukuoka-fg]]（iBank マーケティング、地銀デジタル先進例）
-- [[resona-hd]]（首都圏地銀・りそな系比較軸）
-- [[paypay-fg]] · [[rakuten-fg]] · [[au-fh]]（個人デジタル銀行競合）
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]（メガ 3 行、東京リテール競合）
+- [[megabanks/ndfg]]（千葉銀行系、首都圏地銀比較軸）
+- [[regional-banks/fukuoka-fg]]（iBank マーケティング、地銀デジタル先進例）
+- [[megabanks/resona-hd]]（首都圏地銀・りそな系比較軸）
+- [[megabanks/paypay-fg]] · [[payment-firms/rakuten-fg]] · [[megabanks/au-fh]]（個人デジタル銀行競合）
 
 ## 出典
 

@@ -31,18 +31,18 @@ translated_at: 2026-06-02T16:33:58.502Z
 
 ## 2. 事業モデル
 
-山梨中央銀行は、山梨県内の個人預金、中小企業金融、自治体・地域企業との取引、観光隣接金融、東京近接の法人支援を担う地方銀行である。首都圏に近いものの、wiki では関東ではなく中部地域銀行バッチの正式名称アンカーとして整理する。中部地域銀行の再編文脈は [[banking/regional-bank-consolidation-pattern]] を、近隣ピアは [[hachijuni-nagano-bank]] と [[shizuoka-bank]] を参照。
+山梨中央銀行は、山梨県内の個人預金、中小企業金融、自治体・地域企業との取引、観光隣接金融、東京近接の法人支援を担う地方銀行である。首都圏に近いものの、wiki では関東ではなく中部地域銀行バッチの正式名称アンカーとして整理する。中部地域銀行の再編文脈は [[banking/regional-bank-consolidation-pattern]] を、近隣ピアは [[regional-banks/hachijuni-nagano-bank]] と [[regional-banks/shizuoka-bank]] を参照。
 
 ## 3. このページが重要な理由
 
 - 金融庁の地方銀行一覧における山梨中央銀行の正式名称ページを埋める。
 - 山梨県の地域金融について、単独の基準点を提供する。
-- [[hachijuni-nagano-bank]]、[[shizuoka-bank]]、および中部日本の地域銀行マッピングにおける比較対象として有用である。
+- [[regional-banks/hachijuni-nagano-bank]]、[[regional-banks/shizuoka-bank]]、および中部日本の地域銀行マッピングにおける比較対象として有用である。
 
 ## 関連項目
 
-- [[hachijuni-nagano-bank]]
-- [[shizuoka-bank]]
+- [[regional-banks/hachijuni-nagano-bank]]
+- [[regional-banks/shizuoka-bank]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 

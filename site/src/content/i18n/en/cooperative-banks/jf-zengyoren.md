@@ -78,8 +78,8 @@ JF (fisheries cooperative) Group
   ├── JF Zengyoren (representation / economic business) ★ this page
   ├── JF Kyosuiren (mutual-aid business)
   ├── Prefectural fisheries federations (economic business / local layer)
-  ├── Prefectural credit fisheries federations (credit business / local layer) → [[jf-shingyoren]]
-  ├── Norinchukin Bank (credit / central layer) → [[norinchukin]]
+  ├── Prefectural credit fisheries federations (credit business / local layer) → [[cooperative-banks/jf-shingyoren]]
+  ├── Norinchukin Bank (credit / central layer) → [[cooperative-banks/norinchukin]]
   └── Nationwide 71  JFs (individual fisheries cooperatives) → [[banking/jf-marine-bank-system-japan]] target
 ```
 

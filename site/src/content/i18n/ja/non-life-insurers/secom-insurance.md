@@ -42,8 +42,8 @@ translated_at: 2026-06-02T15:14:17.127Z
 ## 関連項目
 
 - [[insurance/INDEX]]
-- [[sompo-japan-insurance]]
-- [[tokio-marine-nichido-fire]]
+- [[non-life-insurers/sompo-japan-insurance]]
+- [[non-life-insurers/tokio-marine-nichido-fire]]
 - [[insurance/natcat-reinsurance-japan]]
 
 ## 出典

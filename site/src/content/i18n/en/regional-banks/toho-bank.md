@@ -15,7 +15,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-**Fukushima Prefecture's only first regional bank, with prefectural share No. 1**, headquartered in Fukushima City and listed on TSE PRIME 8346. It was founded through 1941-11-21 wartime integration of 5 行 within Fukushima Prefecture and listed on the TSE in 1949 . It maintains a **standalone bank structure** and participates in the **TSUBASA Alliance led by 2015  [[chiba-bank]]**, advancing shared systems and wider-area collaboration. It experienced the dual disaster of the **2011-03-11 Great East Japan Earthquake + Fukushima Daiichi nuclear accident** and plays a core role in reconstruction finance and transactions related to difficult-to-return zones after the nuclear accident. ★ Its nickname is "Toho". ^[extracted]
+**Fukushima Prefecture's only first regional bank, with prefectural share No. 1**, headquartered in Fukushima City and listed on TSE PRIME 8346. It was founded through 1941-11-21 wartime integration of 5 行 within Fukushima Prefecture and listed on the TSE in 1949 . It maintains a **standalone bank structure** and participates in the **TSUBASA Alliance led by 2015  [[regional-banks/chiba-bank]]**, advancing shared systems and wider-area collaboration. It experienced the dual disaster of the **2011-03-11 Great East Japan Earthquake + Fukushima Daiichi nuclear accident** and plays a core role in reconstruction finance and transactions related to difficult-to-return zones after the nuclear accident. ★ Its nickname is "Toho". ^[extracted]
 
 ## 1. Company profile
 
@@ -30,10 +30,10 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 ### Business characteristics
 
 - **Standalone bank, not converted to a holding company** ^[extracted]
-  - Like [[77-bank]], [[chiba-bank]], and [[regional-banks/shizuoka-fg|shizuoka-bank]], it follows a standalone route without choosing holding-company conversion.
-  - It has maintained independence while neighboring Aomori Bank -> [[proclair-hd]], Ashikaga Bank -> [[mebuki-fg]], and Joyo Bank -> [[mebuki-fg]] moved into holding-company integrations.
+  - Like [[regional-banks/77-bank]], [[regional-banks/chiba-bank]], and [[regional-banks/shizuoka-fg|shizuoka-bank]], it follows a standalone route without choosing holding-company conversion.
+  - It has maintained independence while neighboring Aomori Bank -> [[regional-banks/proclair-hd]], Ashikaga Bank -> [[regional-banks/mebuki-fg]], and Joyo Bank -> [[regional-banks/mebuki-fg]] moved into holding-company integrations.
 - **TSUBASA Alliance member bank** ^[extracted]
-  - Regional-bank alliance established under the leadership of 2015  [[chiba-bank]], with 11 行 cooperation.
+  - Regional-bank alliance established under the leadership of 2015  [[regional-banks/chiba-bank]], with 11 行 cooperation.
   - Gains scale benefits through shared systems, overseas support, and common products while avoiding holding-company conversion.
   - Fukushima-prefecture deposit share No. 1 and the only prefectural first regional commercial bank.
 
@@ -78,7 +78,7 @@ Toho Bank (standalone / listed 8346)
 | **2011-03-12** | **TEPCO Fukushima Daiichi nuclear accident** ★ Branches in Futaba District and the northern Hamadori area were designated as difficult-to-return zones / evacuation-order zones and faced long-term closures ^[extracted] |
 | 2011-03-04 | Donations, emergency loans, and special measures for disaster victims to withdraw deposits without passbooks or seals ^[extracted] |
 | 2012-2015 | Intensive 5 -year reconstruction period: special lending program for Great East Japan Earthquake recovery, group subsidies, and financing related to nuclear-damage compensation |
-| **2015** | **Joined the TSUBASA Alliance** as a launch-time member of the 11 行 alliance led by [[chiba-bank]] ^[extracted] |
+| **2015** | **Joined the TSUBASA Alliance** as a launch-time member of the 11 行 alliance led by [[regional-banks/chiba-bank]] ^[extracted] |
 | **2022-04** | **Listed on TSE PRIME** after market-segment reform ^[extracted] |
 
 ### Geographic franchise
@@ -90,10 +90,10 @@ Toho Bank (standalone / listed 8346)
 | Competitor | Base | Relationship |
 |---|---|---|
 | **Daito Bank** | Koriyama, Fukushima Prefecture | Fukushima second regional bank; competitor in SME and small-business relationships |
-| **[[77-bank]]** | Sendai | Neighboring Miyagi's Tohoku No. 1  regional bank; competitor in Tokyo-metro and Tohoku corridor transactions |
-| **[[jimoto-hd]]** | Sendai / Yamagata | Sendai Bank + Kirayaka Bank, neighboring regional-bank group |
-| **[[mebuki-fg]]** | Ibaraki / Tochigi | Joyo Bank + Ashikaga Bank, neighboring integrated regional bank |
-| **Megabanks** ([[mufg]] / [[smfg]] / [[mizuho-fg]])| Tokyo | Compete in large-company and Tokyo-metro transactions; Toho has advantage with local SMEs |
+| **[[regional-banks/77-bank]]** | Sendai | Neighboring Miyagi's Tohoku No. 1  regional bank; competitor in Tokyo-metro and Tohoku corridor transactions |
+| **[[regional-banks/jimoto-hd]]** | Sendai / Yamagata | Sendai Bank + Kirayaka Bank, neighboring regional-bank group |
+| **[[regional-banks/mebuki-fg]]** | Ibaraki / Tochigi | Joyo Bank + Ashikaga Bank, neighboring integrated regional bank |
+| **Megabanks** ([[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]])| Tokyo | Compete in large-company and Tokyo-metro transactions; Toho has advantage with local SMEs |
 | **Shinkin / credit cooperatives** (Fukushima Shinkin, etc.)| Various local areas | Local microbusinesses and individuals |
 
 ### Scale (public-information basis)
@@ -125,10 +125,10 @@ Toho Bank (standalone / listed 8346)
 
 ## Related
 
-- [[77-bank]] · [[jimoto-hd]] · [[mebuki-fg]] · [[proclair-hd]]
-- [[chiba-bank]] (lead bank in the TSUBASA Alliance)
-- [[sbi-regional-bank-hd]] (adjacent competitor: Fukushima Bank group)
-- [[mufg]] · [[smfg]] · [[mizuho-fg]]
+- [[regional-banks/77-bank]] · [[regional-banks/jimoto-hd]] · [[regional-banks/mebuki-fg]] · [[regional-banks/proclair-hd]]
+- [[regional-banks/chiba-bank]] (lead bank in the TSUBASA Alliance)
+- [[megabanks/sbi-regional-bank-hd]] (adjacent competitor: Fukushima Bank group)
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]
 
 ## Sources
 

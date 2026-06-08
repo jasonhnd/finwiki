@@ -32,15 +32,15 @@ Credit Agricole Life Insurance Co., Ltd. is the Credit Agricole group’s Japan 
 ## 2. Why this page matters
 
 - FSA 41 life-insurer exact-name gap.
-- Useful peer for [[cardif-life]], [[dai-ichi-frontier-life]], and [[td-financial-life]] in bancassurance / financial-institution channels.
+- Useful peer for [[life-insurers/cardif-life]], [[life-insurers/dai-ichi-frontier-life]], and [[life-insurers/td-financial-life]] in bancassurance / financial-institution channels.
 - Adds Credit Agricole insurance surface to JapanFG without flattening it into banking.
 
 ## Related
 
-- [[cardif-life]]
-- [[credit-agricole-bank-japan]]
-- [[dai-ichi-frontier-life]]
-- [[td-financial-life]]
+- [[life-insurers/cardif-life]]
+- [[foreign-financial-institutions/credit-agricole-bank-japan]]
+- [[life-insurers/dai-ichi-frontier-life]]
+- [[life-insurers/td-financial-life]]
 - [[insurance/life-insurance-channel-mix]]
 
 ## Sources

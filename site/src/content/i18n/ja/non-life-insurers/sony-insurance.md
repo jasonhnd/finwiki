@@ -17,7 +17,7 @@ translated_at: 2026-06-02T15:14:17.105Z
 
 ## 要約
 
-ソニー損害保険株式会社は、[[sony-fg]]グループのダイレクト損害保険事業会社である。金融庁の損害保険会社免許一覧と損害保険契約者保護機構会員一覧に掲載される認可保険会社で、ダイレクト自動車保険 / オンライン保険モデルの代表例である。
+ソニー損害保険株式会社は、[[megabanks/sony-fg]]グループのダイレクト損害保険事業会社である。金融庁の損害保険会社免許一覧と損害保険契約者保護機構会員一覧に掲載される認可保険会社で、ダイレクト自動車保険 / オンライン保険モデルの代表例である。
 
 ## 1. ライセンスとグループ境界
 
@@ -27,23 +27,23 @@ translated_at: 2026-06-02T15:14:17.105Z
 | 英文名 | Sony Assurance Inc. |
 | ライセンス経路 | Insurance Business Act non-life insurance company; FSA non-life insurer list |
 | 保護制度 | Non-Life Insurance Policyholders Protection Corporation member |
-| グループ境界 | [[sony-fg]] direct non-life operating company |
+| グループ境界 | [[megabanks/sony-fg]] direct non-life operating company |
 
 ## 2. 運営モデル
 
-ソニー損保は、代理店主体の大手損保とは異なり、ダイレクトチャネル、コールセンター、Web / アプリ見積もり、ダイレクト自動車保険ブランドを軸に成長した保険会社。[[sony-life]] and [[sony-bank]] と合わせて、Sony Financial Group の consumer finance / insurance ecosystem を構成する。
+ソニー損保は、代理店主体の大手損保とは異なり、ダイレクトチャネル、コールセンター、Web / アプリ見積もり、ダイレクト自動車保険ブランドを軸に成長した保険会社。[[life-insurers/sony-life]] and [[regional-banks/sony-bank]] と合わせて、Sony Financial Group の consumer finance / insurance ecosystem を構成する。
 
 ## 3. この項目が存在する理由
 
 - ダイレクト自動車保険比較のアンカー。
-- Separates [[sony-fg]] 持株会社戦略と損害保険引受を切り分ける。
+- Separates [[megabanks/sony-fg]] 持株会社戦略と損害保険引受を切り分ける。
 - 登録簿で裏付けられた D4 ダイレクト・デジタル損保ページ。
 
 ## 関連項目
 
-- [[sony-fg]]
-- [[sony-life]]
-- [[sony-bank]]
+- [[megabanks/sony-fg]]
+- [[life-insurers/sony-life]]
+- [[regional-banks/sony-bank]]
 - [[insurance/saison-automobile-fire]]
 - [[insurance/INDEX]]
 

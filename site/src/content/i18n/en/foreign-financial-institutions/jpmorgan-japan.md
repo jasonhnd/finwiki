@@ -15,7 +15,7 @@ This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-i
 
 ## TL;DR
 
-The Japan operation of **JPMorgan Chase & Co.**, the largest U.S. bank (NYSE: JPM, total assets about 4.0 兆 dollars, G-SIB **Bucket 3** = +2.0% CET1  additional capital). **Guaranty Trust (later one of JP Morgan's predecessors) opened a Tokyo branch in 1924 年** -> re-entered after the war -> expanded mainly in IB and markets from the 2000 年s onward. In Japan it has a 4 -entity structure: **JP Morgan Securities (IB core) + JPMorgan Chase Bank, N.A. Tokyo Branch (corporate bank) + JP Morgan Asset Management + JP Morgan Trust Bank**. Retail banking (Chase Bank) has not launched in Japan and does not compete with Japanese bank retail franchises. It is one corner of the top three foreign IBs (vs [[goldman-sachs-japan]] / [[morgan-stanley-japan]]) in **M&A advisory / DCM / ECM / FX / institutional investor services**. ^[extracted]
+The Japan operation of **JPMorgan Chase & Co.**, the largest U.S. bank (NYSE: JPM, total assets about 4.0 兆 dollars, G-SIB **Bucket 3** = +2.0% CET1  additional capital). **Guaranty Trust (later one of JP Morgan's predecessors) opened a Tokyo branch in 1924 年** -> re-entered after the war -> expanded mainly in IB and markets from the 2000 年s onward. In Japan it has a 4 -entity structure: **JP Morgan Securities (IB core) + JPMorgan Chase Bank, N.A. Tokyo Branch (corporate bank) + JP Morgan Asset Management + JP Morgan Trust Bank**. Retail banking (Chase Bank) has not launched in Japan and does not compete with Japanese bank retail franchises. It is one corner of the top three foreign IBs (vs [[securities-firms/goldman-sachs-japan]] / [[securities-firms/morgan-stanley-japan]]) in **M&A advisory / DCM / ECM / FX / institutional investor services**. ^[extracted]
 
 ## 1. Parent company / global structure
 
@@ -71,7 +71,7 @@ Head office locations are generally around the Tokyo Building / Marunouchi Park 
 
 | Area | Main entity | Competition / features |
 |---|---|---|
-| **M&A advisory** | JP Morgan Securities | Competes with the top three foreign IBs ([[goldman-sachs-japan]] / [[morgan-stanley-japan]]) + Japanese bank-affiliated IBs (MUMSS / [[mufg]]・[[smfg]] Nikko / Daiwa / [[mizuho-fg]]) |
+| **M&A advisory** | JP Morgan Securities | Competes with the top three foreign IBs ([[securities-firms/goldman-sachs-japan]] / [[securities-firms/morgan-stanley-japan]]) + Japanese bank-affiliated IBs (MUMSS / [[megabanks/mufg]]・[[megabanks/smfg]] Nikko / Daiwa / [[megabanks/mizuho-fg]]) |
 | **DCM (bond underwriting)** | JP Morgan Securities | Yen bonds / foreign bonds, Samurai bonds |
 | **ECM (equity underwriting)** | JP Morgan Securities | IPOs / global offerings |
 | **Markets (FX / bonds / equities)** | JP Morgan Securities + Tokyo Branch | Asia-time-zone coverage from Tokyo desk |
@@ -83,7 +83,7 @@ Head office locations are generally around the Tokyo Building / Marunouchi Park 
 
 ### Competition and collaboration
 
-- **Competition**: [[goldman-sachs-japan]] / [[morgan-stanley-japan]] / [[citigroup-japan]] / [[ubs-japan]] (foreign IBs) / MUMSS ([[mufg]] x Morgan Stanley JV) / [[smfg]] Nikko / [[mizuho-fg]] / Daiwa Securities / Nomura
+- **Competition**: [[securities-firms/goldman-sachs-japan]] / [[securities-firms/morgan-stanley-japan]] / [[foreign-financial-institutions/citigroup-japan]] / [[foreign-financial-institutions/ubs-japan]] (foreign IBs) / MUMSS ([[megabanks/mufg]] x Morgan Stanley JV) / [[megabanks/smfg]] Nikko / [[megabanks/mizuho-fg]] / Daiwa Securities / Nomura
 - **Collaboration**: joint syndicated-loan arrangements with Japanese banks, co-advisory on cross-border M&A, mutual supply of products for institutional investors
 
 ### Strengths / characteristics
@@ -112,8 +112,8 @@ Head office locations are generally around the Tokyo Building / Marunouchi Park 
 
 ## Related
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[ndfg]]
-- [[goldman-sachs-japan]] · [[morgan-stanley-japan]] · [[citigroup-japan]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[megabanks/ndfg]]
+- [[securities-firms/goldman-sachs-japan]] · [[securities-firms/morgan-stanley-japan]] · [[foreign-financial-institutions/citigroup-japan]]
 
 ## Sources
 

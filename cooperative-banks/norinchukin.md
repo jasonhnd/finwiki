@@ -131,9 +131,9 @@ This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]]. Read 
 
 ### 競争ポジション
 
-- **メガバンク（[[mufg]] / [[smfg]] / [[mizuho-fg]]）との比較**：商業銀行業務は限定的、本業は系統金融 + 機関投資
-- **生保（[[nippon-life]] / [[dai-ichi-life]]）との比較**：機関投資家としては類似ポジション、運用残高で同じ序列
-- **政策金融機関（[[jfc]] / [[dbj]]）との比較**：農林水産業向け融資で部分的に競合 / 補完
+- **メガバンク（[[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]]）との比較**：商業銀行業務は限定的、本業は系統金融 + 機関投資
+- **生保（[[life-insurers/nippon-life]] / [[life-insurers/dai-ichi-life]]）との比較**：機関投資家としては類似ポジション、運用残高で同じ序列
+- **政策金融機関（[[financial-regulators/jfc]] / [[financial-regulators/dbj]]）との比較**：農林水産業向け融資で部分的に競合 / 補完
 
 ## 4. 規制・政策
 
@@ -151,9 +151,9 @@ This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]]. Read 
 
 ## Related
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[ndfg]] · [[resona-hd]]
-- [[jfc]] · [[dbj]] · [[sumitomo-mitsui-trust]]
-- [[nippon-life]] · [[dai-ichi-life]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[megabanks/ndfg]] · [[megabanks/resona-hd]]
+- [[financial-regulators/jfc]] · [[financial-regulators/dbj]] · [[trust-banks/sumitomo-mitsui-trust]]
+- [[life-insurers/nippon-life]] · [[life-insurers/dai-ichi-life]]
 - [[banking/ja-bank-system-japan]]
 - [[banking/jf-marine-bank-system-japan]]
 - [[banking/cooperative-banking-japan]]

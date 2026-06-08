@@ -40,9 +40,9 @@ translated_at: 2026-06-01T02:31:57.177Z
 ## Related
 
 - [[insurance/natcat-reinsurance-japan]]
-- [[japan-earthquake-reinsurance]]
-- [[tokio-marine-nichido-fire]]
-- [[sompo-japan-insurance]]
+- [[non-life-insurers/japan-earthquake-reinsurance]]
+- [[non-life-insurers/tokio-marine-nichido-fire]]
+- [[non-life-insurers/sompo-japan-insurance]]
 - [[insurance/INDEX]]
 
 ## Sources

@@ -15,7 +15,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-The Shimane Bank, Ltd. is a second regional bank headquartered in Shimane Prefecture and listed in the FSA bank-license list. It is the San-in second-regional-bank operating-company anchor, treated as a separate local peer from [[san-in-godo-bank]] and as a capital / business alliance partner of [[sbi-regional-bank-hd]].
+The Shimane Bank, Ltd. is a second regional bank headquartered in Shimane Prefecture and listed in the FSA bank-license list. It is the San-in second-regional-bank operating-company anchor, treated as a separate local peer from [[regional-banks/san-in-godo-bank]] and as a capital / business alliance partner of [[megabanks/sbi-regional-bank-hd]].
 
 ## 1. License / group boundary
 
@@ -29,20 +29,20 @@ The Shimane Bank, Ltd. is a second regional bank headquartered in Shimane Prefec
 
 ## 2. Operating model
 
-Shimane Bank is a second regional bank serving retail deposits, SME finance, local consumer banking, and regional relationship banking mainly in Shimane Prefecture. The [[san-in-godo-bank]] page covers the San-in first-regional-bank incumbent; this page covers the second-regional-bank license boundary.
+Shimane Bank is a second regional bank serving retail deposits, SME finance, local consumer banking, and regional relationship banking mainly in Shimane Prefecture. The [[regional-banks/san-in-godo-bank]] page covers the San-in first-regional-bank incumbent; this page covers the second-regional-bank license boundary.
 
 ## 3. Why this page matters
 
 - Closes the FSA exact-name page for Shimane Bank.
 - Gives the SBI regional-bank alliance map an exact operating-company anchor.
-- Provides a peer anchor for [[san-in-godo-bank]], [[tottori-bank]], and Chugoku regional-bank consolidation analysis.
+- Provides a peer anchor for [[regional-banks/san-in-godo-bank]], [[regional-banks/tottori-bank]], and Chugoku regional-bank consolidation analysis.
 
 ## Related
 
-- [[san-in-godo-bank]]
-- [[tottori-bank]]
-- [[sbi-regional-bank-hd]]
-- [[sbi-hd]]
+- [[regional-banks/san-in-godo-bank]]
+- [[regional-banks/tottori-bank]]
+- [[megabanks/sbi-regional-bank-hd]]
+- [[megabanks/sbi-hd]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 

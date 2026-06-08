@@ -25,7 +25,7 @@ translated_at: 2026-06-01T02:31:57.144Z
 | 项目 | 规模 |
 |---|---|
 | AUC/A（受托 / 管理资产 + 运用资产） | **约 49 兆 美元**（2025 2Q）→ **约 53.8 兆 美元**（2025 4Q，历史最高）^[extracted] |
-| 全球排名（托管） | **No. 2**（首位 [[bny-mellon-japan]] 约 59.3 兆 美元）^[extracted] |
+| 全球排名（托管） | **No. 2**（首位 [[foreign-financial-institutions/bny-mellon-japan]] 约 59.3 兆 美元）^[extracted] |
 | 近期新增受托净增 | 约 1.1 兆 美元（2025  期间，主要经由 Asset Owners / Asset Managers）^[extracted] |
 
 ### 日本主要法人（基于公开信息）
@@ -83,16 +83,16 @@ State Street Corporation（美国 NYSE: STT；受 FRB / OCC 监管）
 
 ### 在日本的定位
 
-- **GPIF、大型养老金和日系银行海外投资托管的主要承担方**：与日本 Master Trust [[master-trust-bank]] 并列，是 GPIF 资产管理机构之一 ^[extracted]
-- **[[mufg]] 股东构成 4.51%（2025-03-31）的含义**：这是**经由机构投资者海外保管账户的名义归集**（托管人名义集积），并非 State Street 自身的战略持有 ^[extracted]
+- **GPIF、大型养老金和日系银行海外投资托管的主要承担方**：与日本 Master Trust [[trust-banks/master-trust-bank]] 并列，是 GPIF 资产管理机构之一 ^[extracted]
+- **[[megabanks/mufg]] 股东构成 4.51%（2025-03-31）的含义**：这是**经由机构投资者海外保管账户的名义归集**（托管人名义集积），并非 State Street 自身的战略持有 ^[extracted]
 
 ### 主要竞争
 
 | 领域 | 主要竞争方 |
 |---|---|
-| **全球托管** | [[bny-mellon-japan]] / [[citigroup-japan]] / [[jpmorgan-japan]] / HSBC |
-| **国内信托（Master Trust 周边）** | [[master-trust-bank]] / [[custody-bank]] / [[sumitomo-mitsui-trust]] / 三菱 UFJ 信托 |
-| **ETF 运用** | BlackRock Japan（iShares）/ Vanguard Japan / [[nomura-hd]]・[[daiwa-sg]] 系 ETF / 野村 Asset / 三菱 UFJ Asset |
+| **全球托管** | [[foreign-financial-institutions/bny-mellon-japan]] / [[foreign-financial-institutions/citigroup-japan]] / [[foreign-financial-institutions/jpmorgan-japan]] / HSBC |
+| **国内信托（Master Trust 周边）** | [[trust-banks/master-trust-bank]] / [[trust-banks/custody-bank]] / [[trust-banks/sumitomo-mitsui-trust]] / 三菱 UFJ 信托 |
+| **ETF 运用** | BlackRock Japan（iShares）/ Vanguard Japan / [[securities-firms/nomura-hd]]・[[securities-firms/daiwa-sg]] 系 ETF / 野村 Asset / 三菱 UFJ Asset |
 | 运用系统 | Bloomberg AIM / SimCorp / FactSet（独立系）/ 日系 IT vendor |
 | ADR / 存托机构 | Citibank / JPMorgan / Deutsche Bank（美国 ADR 4  大行之一；State Street 的 ADR 业务有限） |
 
@@ -111,10 +111,10 @@ State Street Corporation（美国 NYSE: STT；受 FRB / OCC 监管）
 
 ## Related
 
-- **竞争外资托管**：[[bny-mellon-japan]] · [[citigroup-japan]] · [[jpmorgan-japan]]
-- **国内信托（分工对象）**：[[master-trust-bank]] · [[custody-bank]] · [[sumitomo-mitsui-trust]]
-- **日系大型银行（客户 + 股东名义）**：[[mufg]] · [[smfg]] · [[mizuho-fg]]
-- **外资 IB**：[[goldman-sachs-japan]] · [[morgan-stanley-japan]] · [[hsbc-japan]] · [[deutsche-japan]] · [[barclays-japan]] · [[bnp-paribas-japan]]
+- **竞争外资托管**：[[foreign-financial-institutions/bny-mellon-japan]] · [[foreign-financial-institutions/citigroup-japan]] · [[foreign-financial-institutions/jpmorgan-japan]]
+- **国内信托（分工对象）**：[[trust-banks/master-trust-bank]] · [[trust-banks/custody-bank]] · [[trust-banks/sumitomo-mitsui-trust]]
+- **日系大型银行（客户 + 股东名义）**：[[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]
+- **外资 IB**：[[securities-firms/goldman-sachs-japan]] · [[securities-firms/morgan-stanley-japan]] · [[foreign-financial-institutions/hsbc-japan]] · [[foreign-financial-institutions/deutsche-japan]] · [[foreign-financial-institutions/barclays-japan]] · [[foreign-financial-institutions/bnp-paribas-japan]]
 
 ## Sources
 

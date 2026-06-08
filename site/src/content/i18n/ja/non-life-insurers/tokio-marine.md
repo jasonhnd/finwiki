@@ -151,7 +151,7 @@ translated_at: 2026-06-02T16:33:58.493Z
 ## 関連項目
 
 - [[non-life-insurers/msad|ms-ad]] · [[non-life-insurers/sompo|sompo-hd]] ── 国内損保 3 メガ
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] ── 銀行系 FG(損保とは別カテゴリだが企業金融で連携・競合)
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] ── 銀行系 FG(損保とは別カテゴリだが企業金融で連携・競合)
 - [[non-life-insurers/INDEX]]
 
 ## 出典

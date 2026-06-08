@@ -17,7 +17,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-Hokuto Bank, Ltd. is a regional bank with its main branch in Akita Prefecture listed in the Financial Services Agency's list of bank licenses, and is an operating bank under the umbrella of [[fidea-hd]]. Official company information indicates that [[shonai-bank]] and 2027-01  are merging to form ``Fidea Bank''.
+Hokuto Bank, Ltd. is a regional bank with its main branch in Akita Prefecture listed in the Financial Services Agency's list of bank licenses, and is an operating bank under the umbrella of [[regional-banks/fidea-hd]]. Official company information indicates that [[regional-banks/shonai-bank]] and 2027-01  are merging to form ``Fidea Bank''.
 
 ## 1. License / group boundary
 
@@ -25,25 +25,25 @@ Hokuto Bank, Ltd. is a regional bank with its main branch in Akita Prefecture li
 |---|---|
 |Legal name|Hokuto Bank, Ltd.|
 |License route|Banking Act regional bank; FSA bank license list|
-|Group boundary|[[fidea-hd]] operating bank|
+|Group boundary|[[regional-banks/fidea-hd]] operating bank|
 |Home market|Akita|
 |Wiki role|Akita regional-bank operating-company page|
 
 ## 2. Operating model
 
-Hokuto Bank is a regional bank that provides retail, SME, public-sector, renewable-energy, tourism, and local-asset-management support mainly in Akita Prefecture. While [[akita-bank]], which is listed separately, will be targeting the Akita prefecture market, Hokuto Bank will become the operating company on the Akita side of [[fidea-hd]]'s Yamagata/Akita wide area model. Tohoku regional-bank consolidation context see [[banking/regional-bank-consolidation-pattern]].
+Hokuto Bank is a regional bank that provides retail, SME, public-sector, renewable-energy, tourism, and local-asset-management support mainly in Akita Prefecture. While [[regional-banks/akita-bank]], which is listed separately, will be targeting the Akita prefecture market, Hokuto Bank will become the operating company on the Akita side of [[regional-banks/fidea-hd]]'s Yamagata/Akita wide area model. Tohoku regional-bank consolidation context see [[banking/regional-bank-consolidation-pattern]].
 
 ## 3. Why this page matters
 
-- Parent [[fidea-hd]] coverage alone did not expose the licensed bank boundary.
+- Parent [[regional-banks/fidea-hd]] coverage alone did not expose the licensed bank boundary.
 - 2027-01 planned merger into Fidea Bank needs a bank-level watch anchor.
-- Useful peer for [[akita-bank]] and [[shonai-bank]].
+- Useful peer for [[regional-banks/akita-bank]] and [[regional-banks/shonai-bank]].
 
 ## Related
 
-- [[fidea-hd]]
-- [[shonai-bank]]
-- [[akita-bank]]
+- [[regional-banks/fidea-hd]]
+- [[regional-banks/shonai-bank]]
+- [[regional-banks/akita-bank]]
 - [[banking/INDEX]]
 
 ## Sources

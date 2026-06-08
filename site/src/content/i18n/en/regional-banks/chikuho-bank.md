@@ -17,7 +17,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ##TL;DR
 
-Chikuho Bank, Ltd. is a regional bank with its main branch in Kurume City, Fukuoka Prefecture, listed on the Financial Services Agency's list of bank licenses. Fukuoka prefecture local / Chikugo-area regional-bank operating-company anchor, and is treated as a peer of a separate corporation from [[fukuoka-bank]] and [[nishi-nippon-city-bank]].
+Chikuho Bank, Ltd. is a regional bank with its main branch in Kurume City, Fukuoka Prefecture, listed on the Financial Services Agency's list of bank licenses. Fukuoka prefecture local / Chikugo-area regional-bank operating-company anchor, and is treated as a peer of a separate corporation from [[regional-banks/fukuoka-bank]] and [[regional-banks/nishi-nippon-city-bank]].
 
 ## 1. License / group boundary
 
@@ -31,19 +31,19 @@ Chikuho Bank, Ltd. is a regional bank with its main branch in Kurume City, Fukuo
 
 ## 2. Operating model
 
-Chikuho Bank is a regional bank that handles retail deposits, SME finance, local relationship banking, and Chikugo-area business support mainly in southern Fukuoka Prefecture. Within Fukuoka Prefecture, it has a separate local-bank boundary from its large-bank peers [[fukuoka-bank]] / [[nishi-nippon-city-bank]]. Kyushu regional-bank consolidation context see [[banking/regional-bank-consolidation-pattern]] and [[banking/INDEX|banking index]].
+Chikuho Bank is a regional bank that handles retail deposits, SME finance, local relationship banking, and Chikugo-area business support mainly in southern Fukuoka Prefecture. Within Fukuoka Prefecture, it has a separate local-bank boundary from its large-bank peers [[regional-banks/fukuoka-bank]] / [[regional-banks/nishi-nippon-city-bank]]. Kyushu regional-bank consolidation context see [[banking/regional-bank-consolidation-pattern]] and [[banking/INDEX|banking index]].
 
 ## 3. Why this page matters
 
 - Closes the FSA exact-name operating-company gap for Chikuho Bank.
 - Separates Chikugo-area bank coverage from Fukuoka city-centered groups.
-- Provides a peer anchor for [[sbi-regional-bank-hd]] regional-bank investment context.
+- Provides a peer anchor for [[megabanks/sbi-regional-bank-hd]] regional-bank investment context.
 
 ## Related
 
-- [[fukuoka-bank]]
-- [[nishi-nippon-city-bank]]
-- [[sbi-regional-bank-hd]]
+- [[regional-banks/fukuoka-bank]]
+- [[regional-banks/nishi-nippon-city-bank]]
+- [[megabanks/sbi-regional-bank-hd]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 

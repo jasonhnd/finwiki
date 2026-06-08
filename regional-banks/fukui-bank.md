@@ -56,9 +56,9 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 ## Related
 
 - [[regional-banks/INDEX|regional-banks INDEX]]
-- [[hokuhoku-fg]]
-- [[hokkoku-fhd]]
-- [[daishi-hokuetsu-bank]]
+- [[regional-banks/hokuhoku-fg]]
+- [[regional-banks/hokkoku-fhd]]
+- [[regional-banks/daishi-hokuetsu-bank]]
 - [[financial-regulators/fsa|FSA]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]

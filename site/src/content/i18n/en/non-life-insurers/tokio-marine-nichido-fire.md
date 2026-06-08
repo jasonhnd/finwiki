@@ -15,7 +15,7 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 
 ## TL;DR
 
-Tokio Marine & Nichido Fire Insurance Co., Ltd. is the core non-life insurance operating company of the [[tokio-marine]] group. It is a separate licensed insurer listed in the FSA non-life insurer list and the member list of the Non-Life Insurance Policyholders Protection Corporation of Japan, and has underwriting / claims / agency-network boundaries distinct from the parent holding company.
+Tokio Marine & Nichido Fire Insurance Co., Ltd. is the core non-life insurance operating company of the [[non-life-insurers/tokio-marine]] group. It is a separate licensed insurer listed in the FSA non-life insurer list and the member list of the Non-Life Insurance Policyholders Protection Corporation of Japan, and has underwriting / claims / agency-network boundaries distinct from the parent holding company.
 
 ## 1. License / group boundary
 
@@ -24,7 +24,7 @@ Tokio Marine & Nichido Fire Insurance Co., Ltd. is the core non-life insurance o
 | Legal name | Tokio Marine & Nichido Fire Insurance Co., Ltd. |
 | License route | Insurance Business Act non-life insurance company; FSA non-life insurer list |
 | Protection scheme | Non-Life Insurance Policyholders Protection Corporation member |
-| Group boundary | [[tokio-marine]] core non-life operating company |
+| Group boundary | [[non-life-insurers/tokio-marine]] core non-life operating company |
 | Wiki role | Tokio Marine group's Japan non-life underwriting arm |
 
 ## 2. Operating model
@@ -33,14 +33,14 @@ Tokio Marine & Nichido is the Japan non-life core of Tokio Marine group: auto, f
 
 ## 3. Why this page matters
 
-- Parent [[tokio-marine]] page alone is not enough for product / claims / agency analysis.
-- Core comparison point for [[mitsui-sumitomo-insurance]], [[aioi-nissay-dowa-insurance]], and [[sompo-japan-insurance]].
+- Parent [[non-life-insurers/tokio-marine]] page alone is not enough for product / claims / agency analysis.
+- Core comparison point for [[non-life-insurers/mitsui-sumitomo-insurance]], [[non-life-insurers/aioi-nissay-dowa-insurance]], and [[non-life-insurers/sompo-japan-insurance]].
 - Registry-backed D3 non-life major page.
 
 ## Related
 
-- [[tokio-marine]]
-- [[tokio-marine-nichido-life]]
+- [[non-life-insurers/tokio-marine]]
+- [[life-insurers/tokio-marine-nichido-life]]
 - [[insurance/natcat-reinsurance-japan]]
 - [[insurance/INDEX]]
 

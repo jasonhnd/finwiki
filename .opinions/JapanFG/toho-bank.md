@@ -27,7 +27,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## 推論 (from 競合構図)
 
-| **福島銀行** | 福島県福島市 | 福島県第二地銀、SBI 系([[sbi-regional-bank-hd]] 関連)^[inferred] |
+| **福島銀行** | 福島県福島市 | 福島県第二地銀、SBI 系([[megabanks/sbi-regional-bank-hd]] 関連)^[inferred] |
 
 ## 推論 (from 戦略の柱(推定)^[inferred])
 
@@ -60,7 +60,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 - 「TSUBASA で代替可能」観: 持株会社化せずとも TSUBASA で実質的なグループ機能 → 千葉銀モデル踏襲 ^[ambiguous]
 - 「原発事故関連リスク」: 帰還困難区域・廃炉関連の貸出ポートフォリオは長期 unknowable リスクを内包 ^[inferred]
 - 「福島県人口減と復興出口の構造課題」: 復興期から人口減フェーズへの移行で、地元金融需要の構造変化 ^[inferred]
-- 「[[sbi-regional-bank-hd]] 系・福島銀行との競合」: 県第二地銀の SBI 連携で県内競争環境が変化 ^[ambiguous]
+- 「[[megabanks/sbi-regional-bank-hd]] 系・福島銀行との競合」: 県第二地銀の SBI 連携で県内競争環境が変化 ^[ambiguous]
 
 ## Open questions
 

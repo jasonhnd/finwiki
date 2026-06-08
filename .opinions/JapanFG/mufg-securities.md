@@ -16,4 +16,4 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 <!-- Phase 1.5 追加抽出 (2026-05-29) -->
 
-> confidence: **likely**（v1.0 公開情報ベース 2026-05-25）。MUSHD 設立（2010-04）・JV 構造（[[JapanFG/mufg-mums|MUMSS]] 60/40 + MSMS 51/49）・2008-09 Morgan Stanley 90 億ドル出資・海外 3 拠点（米欧アジア）は公式公開資料一致。Morgan Stanley 株式保有比率（20% 超）は時期により変動するため概数表記。直近 IB 連携の深化観測は `^[inferred]` 明示。
+> confidence: **likely**（v1.0 公開情報ベース 2026-05-25）。MUSHD 設立（2010-04）・JV 構造（[[securities-firms/mufg-mums|MUMSS]] 60/40 + MSMS 51/49）・2008-09 Morgan Stanley 90 億ドル出資・海外 3 拠点（米欧アジア）は公式公開資料一致。Morgan Stanley 株式保有比率（20% 超）は時期により変動するため概数表記。直近 IB 連携の深化観測は `^[inferred]` 明示。

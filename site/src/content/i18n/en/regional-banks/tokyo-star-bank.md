@@ -41,8 +41,8 @@ Tokyo Star Bank is a bank based in Tokyo that provides retail deposits, mortgage
 ## Related
 
 - [[banking/foreign-bank-japan-retreat]]
-- [[kiraboshi-bank]]
-- [[higashi-nippon-bank]]
+- [[regional-banks/kiraboshi-bank]]
+- [[regional-banks/higashi-nippon-bank]]
 - [[banking/INDEX]]
 
 ## Sources

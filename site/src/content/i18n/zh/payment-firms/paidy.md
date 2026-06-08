@@ -73,7 +73,7 @@ translated_at: 2026-06-01T00:41:50.424Z
 
 | 竞争方 | 母集团 | 定位 |
 |---|---|---|
-| **Merpay 后付** | [[mercari-hd]] | 跳蚤市场 app 内 BNPL，Mercari 生态强 |
+| **Merpay 后付** | [[payment-firms/mercari-hd]] | 跳蚤市场 app 内 BNPL，Mercari 生态强 |
 | **atone** | Net Protections HD（东证 PRIME 7383） | 老牌电商后付，加盟店以中型电商为中心 |
 | **NP 后付** | Net Protections HD | BtoC 后付最大公司（账单同梱型） |
 | **Kuroneko 后付** | Yamato HD | 配送系电商后付 |
@@ -90,7 +90,7 @@ translated_at: 2026-06-01T00:41:50.424Z
 - **Amazon Japan 官方 BNPL**：最大获客渠道，作为 Amazon 的“后付”选项常设
 - **SHEIN / 跨境电商**：面向 Z 世代的时尚电商
 - **Apple Store**：作为 iPhone / Mac 分期购买方式渗透年轻群体
-- **Mercari**：跳蚤市场 + BNPL 交叉（注：Mercari 自身也在 [[mercari-hd]] 内运营 Merpay 后付，既是竞争方也是加盟店）
+- **Mercari**：跳蚤市场 + BNPL 交叉（注：Mercari 自身也在 [[payment-firms/mercari-hd]] 内运营 Merpay 后付，既是竞争方也是加盟店）
 
 ## 4. 监管 / 政策
 
@@ -100,7 +100,7 @@ translated_at: 2026-06-01T00:41:50.424Z
 
 ## Related
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[mercari-hd]] · [[paypay-fg]] · [[sbi-hd]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[payment-firms/mercari-hd]] · [[megabanks/paypay-fg]] · [[megabanks/sbi-hd]]
 - [[payment-firms/bnpl-landscape]] · [[card-issuers/installment-sales-act-2020-amendment|JapanFG/割賦販売法-2020-改正]]
 
 ## Sources

@@ -17,7 +17,7 @@ translated_at: 2026-06-02T14:54:39.101Z
 
 ## 要約
 
-ニッセイ・ウェルス生命保険株式会社は、金融庁の生命保険会社一覧と生命保険協会会員一覧に掲載される [[nippon-life]] グループの生命保険運営会社。ウェルス / 金融機関チャネル向け商品を見るため、Nippon Life の親ページから分けて扱う。
+ニッセイ・ウェルス生命保険株式会社は、金融庁の生命保険会社一覧と生命保険協会会員一覧に掲載される [[life-insurers/nippon-life]] グループの生命保険運営会社。ウェルス / 金融機関チャネル向け商品を見るため、Nippon Life の親ページから分けて扱う。
 
 ## 1. 免許・グループ境界
 
@@ -26,7 +26,7 @@ translated_at: 2026-06-02T14:54:39.101Z
 | 法人名 | ニッセイ・ウェルス生命保険株式会社 |
 | 免許ルート | 保険業法上の生命保険会社。金融庁の生命保険会社一覧に掲載 |
 | 業界団体 | 生命保険協会会員 |
-| グループ境界 | [[nippon-life]] グループ |
+| グループ境界 | [[life-insurers/nippon-life]] グループ |
 | ウィキ上の役割 | Nippon Life グループのウェルス / 金融機関チャネル向け生命保険会社 |
 
 ## 2. 事業モデル
@@ -41,10 +41,10 @@ translated_at: 2026-06-02T14:54:39.101Z
 
 ## 関連
 
-- [[nippon-life]]
-- [[hanasaku-life]]
-- [[dai-ichi-frontier-life]]
-- [[td-financial-life]]
+- [[life-insurers/nippon-life]]
+- [[life-insurers/hanasaku-life]]
+- [[life-insurers/dai-ichi-frontier-life]]
+- [[life-insurers/td-financial-life]]
 - [[insurance/life-insurance-channel-mix]]
 
 ## 出典

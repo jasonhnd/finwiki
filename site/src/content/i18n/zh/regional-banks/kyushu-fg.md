@@ -15,7 +15,7 @@ translated_at: 2026-05-31T23:59:49.365Z
 
 ## TL;DR
 
-以九州南部为地盘的单体地方银行集团（熊本 + 鹿儿岛 2  县核心）。由 2015-10-01 年 [[higo-bank|肥後銀行]] + [[kagoshima-bank|鹿児島銀行]] 的经营整合而成立。它是**跨县“2 强联合”型整合**（不同于 [[fukuoka-fg]] 的广域地盘整合、[[mufg]] 等 mega 广域联结模式）。近期最大主题是**TSMC 进驻熊本（2022 起，菊阳町）带来的半导体集群相关融资需求激增**。在九州内部，它与 [[fukuoka-fg]]、[[nishi-nippon-fhd]] 并列为据点 FG，但通过聚焦九州**南部**形成分工结构。
+以九州南部为地盘的单体地方银行集团（熊本 + 鹿儿岛 2  县核心）。由 2015-10-01 年 [[regional-banks/higo-bank|肥後銀行]] + [[regional-banks/kagoshima-bank|鹿児島銀行]] 的经营整合而成立。它是**跨县“2 强联合”型整合**（不同于 [[regional-banks/fukuoka-fg]] 的广域地盘整合、[[megabanks/mufg]] 等 mega 广域联结模式）。近期最大主题是**TSMC 进驻熊本（2022 起，菊阳町）带来的半导体集群相关融资需求激增**。在九州内部，它与 [[regional-banks/fukuoka-fg]]、[[regional-banks/nishi-nippon-fhd]] 并列为据点 FG，但通过聚焦九州**南部**形成分工结构。
 
 ## 1. 公司概要
 
@@ -30,9 +30,9 @@ translated_at: 2026-05-31T23:59:49.365Z
 
 ```
 九州 FG（控股公司・上市 7180）
-  ├── 肥后银行（100%）-- [[higo-bank]] / 熊本县地盘，县内份额压倒性
+  ├── 肥后银行（100%）-- [[regional-banks/higo-bank]] / 熊本县地盘，县内份额压倒性
   │     └── 熊本县 main bank 位置，TSMC 菊阳町相关融资核心
-  ├── 鹿儿岛银行（100%）-- [[kagoshima-bank]] / 鹿儿岛县地盘，县内 2 强之一
+  ├── 鹿儿岛银行（100%）-- [[regional-banks/kagoshima-bank]] / 鹿儿岛县地盘，县内 2 强之一
   │     └── 鹿儿岛县 main bank，农林渔业与旅游融资
   ├── 九州 FG Securities（100%）-- 集团证券
   ├── 九州 FG Lease（100%）-- 租赁业务
@@ -51,7 +51,7 @@ translated_at: 2026-05-31T23:59:49.365Z
   - 战后成为以鹿儿岛县为地盘的地方银行
 - **九州 FG**：2015-10-01 通过共同控股公司化成立
 
-> 整合背景：九州南部人口减少、低利率下息差压力，以及邻县地盘整合需求。肥后银行（熊本）+ 鹿儿岛银行（鹿儿岛）地盘相邻且重叠较小，是“互补型”整合。不同于长崎县那种压缩县内竞争的类型（[[fukuoka-fg]] 的十八亲和银行整合 = 公取委审查延迟 3 年），反垄断门槛相对较低。
+> 整合背景：九州南部人口减少、低利率下息差压力，以及邻县地盘整合需求。肥后银行（熊本）+ 鹿儿岛银行（鹿儿岛）地盘相邻且重叠较小，是“互补型”整合。不同于长崎县那种压缩县内竞争的类型（[[regional-banks/fukuoka-fg]] 的十八亲和银行整合 = 公取委审查延迟 3 年），反垄断门槛相对较低。
 
 ### 重要年表
 
@@ -69,9 +69,9 @@ translated_at: 2026-05-31T23:59:49.365Z
 
 | 分部 | 主要经营者 | 特征 |
 |---|---|---|
-| 地盘核心（熊本） | [[higo-bank|肥後銀行]] | 熊本县 main bank、TSMC 相关融资核心、地震复兴融资经验 |
-| 地盘核心（鹿儿岛） | [[kagoshima-bank|鹿児島銀行]] | 鹿儿岛县 main bank、农林渔业和旅游金融 |
-| 周边（宫崎一部） | [[higo-bank|肥後銀行]] + [[kagoshima-bank|鹿児島銀行]] | 宫崎县主要由 [[miyazaki-bank|宮崎銀行]] 服务，九州 FG 是补充性存在 |
+| 地盘核心（熊本） | [[regional-banks/higo-bank|肥後銀行]] | 熊本县 main bank、TSMC 相关融资核心、地震复兴融资经验 |
+| 地盘核心（鹿儿岛） | [[regional-banks/kagoshima-bank|鹿児島銀行]] | 鹿儿岛县 main bank、农林渔业和旅游金融 |
+| 周边（宫崎一部） | [[regional-banks/higo-bank|肥後銀行]] + [[regional-banks/kagoshima-bank|鹿児島銀行]] | 宫崎县主要由 [[regional-banks/miyazaki-bank|宮崎銀行]] 服务，九州 FG 是补充性存在 |
 | 证券 | 九州 FG Securities | 集团证券 |
 | 租赁 | 九州 FG Lease | 租赁业务 |
 | 信用卡 | Higo Card / Kagoshima Card | 各银行系信用卡 |
@@ -79,7 +79,7 @@ translated_at: 2026-05-31T23:59:49.365Z
 ### TSMC 相关特需（2022〜2024 最大主题）★
 
 - **TSMC（台积电）进驻熊本菊阳町**：第 1  工厂（JASM，2024-02 开所）+ 第 2  工厂（预计 2027 投产）
-- [[higo-bank|肥後銀行]]作为**当地 main bank，是相关融资核心**：
+- [[regional-banks/higo-bank|肥後銀行]]作为**当地 main bank，是相关融资核心**：
   - 半导体供应链企业进驻融资（土地取得 / 设备投资）
   - 本地下包和相关企业设备更新融资
   - 菊阳町、大津町周边急剧扩张带来的房地产、宿舍、商业设施相关融资
@@ -87,14 +87,14 @@ translated_at: 2026-05-31T23:59:49.365Z
 ### 地盘战略
 
 - 聚焦**九州南部 2  县（熊本 + 鹿儿岛）+ 宫崎一部**
-- 与 [[fukuoka-fg]]（福冈 + 熊本 + 长崎）在熊本县有重叠 -> 肥后银行地盘更优，[[kumamoto-bank|熊本銀行]]（FFG）更接近第二地方银行位置
-- 鹿儿岛县是 **[[kagoshima-bank|鹿児島銀行]] + [[minami-nippon-bank|南日本銀行]] 的 2 强结构**（南日本银行为第二地方银行，规模上鹿儿岛银行压倒性更大）
+- 与 [[regional-banks/fukuoka-fg]]（福冈 + 熊本 + 长崎）在熊本县有重叠 -> 肥后银行地盘更优，[[regional-banks/kumamoto-bank|熊本銀行]]（FFG）更接近第二地方银行位置
+- 鹿儿岛县是 **[[regional-banks/kagoshima-bank|鹿児島銀行]] + [[regional-banks/minami-nippon-bank|南日本銀行]] 的 2 强结构**（南日本银行为第二地方银行，规模上鹿儿岛银行压倒性更大）
 - 旅游、农业、渔业金融：对南九州固有本地产业（烧酒、农产品、渔业、旅游）的融资经验
 
 ### 竞争与地方银行再编
 
-- **九州内竞争**：与 [[fukuoka-fg]]（FFG）和 Nishi-Nippon FHD（西日本 City 银行）并列为九州 3 大 FG，但地盘南北分工使直接竞争有限
-- **Megabanks**（[[mufg]] / [[smfg]] / [[mizuho-fg]]）：大企业和全国业务让给 megabanks，但本地中坚企业仍是地方银行优势领域
+- **九州内竞争**：与 [[regional-banks/fukuoka-fg]]（FFG）和 Nishi-Nippon FHD（西日本 City 银行）并列为九州 3 大 FG，但地盘南北分工使直接竞争有限
+- **Megabanks**（[[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]]）：大企业和全国业务让给 megabanks，但本地中坚企业仍是地方银行优势领域
 
 ## 4. 监管与政策
 
@@ -109,8 +109,8 @@ translated_at: 2026-05-31T23:59:49.365Z
 
 ## Related
 
-- [[fukuoka-fg]] · [[mufg]] · [[smfg]] · [[mizuho-fg]]
-- [[sbi-hd]] · [[regional-banks/chiba-bank|chiba-bank-fg]] · [[concordia-fg]] · [[mebuki-fg]]
+- [[regional-banks/fukuoka-fg]] · [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]
+- [[megabanks/sbi-hd]] · [[regional-banks/chiba-bank|chiba-bank-fg]] · [[regional-banks/concordia-fg]] · [[regional-banks/mebuki-fg]]
 
 ## Sources
 

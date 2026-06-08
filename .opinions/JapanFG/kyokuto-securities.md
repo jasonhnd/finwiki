@@ -19,7 +19,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## 推論 (from 中堅独立証券枠でのポジション)
 
-- 大手証券 ([[JapanFG/nomura-hd|野村]] / [[JapanFG/daiwa-sg|大和]]) の外債商品とは富裕層対面販売の信頼関係で差別化 ^[inferred]
+- 大手証券 ([[securities-firms/nomura-hd|野村]] / [[securities-firms/daiwa-sg|大和]]) の外債商品とは富裕層対面販売の信頼関係で差別化 ^[inferred]
 
 ## 推論 (from NISA 拡充の影響 ([[securities/nisa-2024-flow|nisa-2024-flow]] 文脈))
 

@@ -34,15 +34,15 @@ translated_at: 2026-06-01T02:31:57.099Z
 ## 3. 本页意义
 
 - 补齐金融厅第二地方银行法定名称口径下的静冈中央银行页面。
-- 与 [[shizuoka-bank]]、[[shimizu-bank]]、[[suruga-bank]] 分别建立独立锚点。
+- 与 [[regional-banks/shizuoka-bank]]、[[regional-banks/shimizu-bank]]、[[regional-banks/suruga-bank]] 分别建立独立锚点。
 - 帮助描绘静冈 / 神奈川相邻区域的地方银行覆盖。
 
 ## Related
 
-- [[shizuoka-bank]]
-- [[shimizu-bank]]
-- [[suruga-bank]]
-- [[kanagawa-bank]]
+- [[regional-banks/shizuoka-bank]]
+- [[regional-banks/shimizu-bank]]
+- [[regional-banks/suruga-bank]]
+- [[regional-banks/kanagawa-bank]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 

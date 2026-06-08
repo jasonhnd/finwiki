@@ -17,7 +17,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-The Bank of Nagoya, Ltd. is a second regional bank headquartered in Nagoya, Aichi Prefecture and listed in the FSA bank-license registry. In the Chukyo area, it should have a standalone operating-company page as a major local-bank peer alongside [[aichi-bank]].
+The Bank of Nagoya, Ltd. is a second regional bank headquartered in Nagoya, Aichi Prefecture and listed in the FSA bank-license registry. In the Chukyo area, it should have a standalone operating-company page as a major local-bank peer alongside [[regional-banks/aichi-bank]].
 
 ## 1. License / group boundary
 
@@ -31,7 +31,7 @@ The Bank of Nagoya, Ltd. is a second regional bank headquartered in Nagoya, Aich
 
 ## 2. Operating model
 
-Nagoya Bank is a second regional bank responsible for retail deposits, SME finance, manufacturing / services corporate relationships, and local consulting in Aichi Prefecture and the Nagoya area. It is a local-bank peer in the same prefecture as [[aichi-bank]], and has Chukyo economic-area adjacency with [[juroku-bank]] and [[ogaki-kyoritsu-bank]].
+Nagoya Bank is a second regional bank responsible for retail deposits, SME finance, manufacturing / services corporate relationships, and local consulting in Aichi Prefecture and the Nagoya area. It is a local-bank peer in the same prefecture as [[regional-banks/aichi-bank]], and has Chukyo economic-area adjacency with [[regional-banks/juroku-bank]] and [[regional-banks/ogaki-kyoritsu-bank]].
 
 ## 3. Why this page matters
 
@@ -41,10 +41,10 @@ Nagoya Bank is a second regional bank responsible for retail deposits, SME finan
 
 ## Related
 
-- [[aichi-bank]]
-- [[aichi-fg]]
-- [[juroku-bank]]
-- [[ogaki-kyoritsu-bank]]
+- [[regional-banks/aichi-bank]]
+- [[regional-banks/aichi-fg]]
+- [[regional-banks/juroku-bank]]
+- [[regional-banks/ogaki-kyoritsu-bank]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 

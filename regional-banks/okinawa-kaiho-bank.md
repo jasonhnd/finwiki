@@ -27,7 +27,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-沖縄県地盤の第二地方銀行（東証 STD **8554**、略称「**かいぎん**」/「海銀」）。**1949 國場相互銀行 として設立**（米軍政下・本土復帰前の B 円通貨時代）→ 1972-05 沖縄本土復帰で日本の銀行免許に転換 → **1989-04 普通銀行転換**（第二地方銀行協会加盟）。沖縄県内 No.3 金融機関で、上位 2 行（県内 No.1=沖縄銀行 [[okinawa-fg]] 傘下、No.2=琉球銀行 [[ryukyu-bank]]）の二強体制に対し、**中小企業融資 + 個人融資 + 観光業 + 米軍基地経済 + 離島網羅** の地域密着型ニッチ戦略で第三勢力を確保。預貸金シェアは県内約 10% 級。本店は那覇市久茂地（沖銀・琉銀と同一エリア・徒歩圏内）。
+沖縄県地盤の第二地方銀行（東証 STD **8554**、略称「**かいぎん**」/「海銀」）。**1949 國場相互銀行 として設立**（米軍政下・本土復帰前の B 円通貨時代）→ 1972-05 沖縄本土復帰で日本の銀行免許に転換 → **1989-04 普通銀行転換**（第二地方銀行協会加盟）。沖縄県内 No.3 金融機関で、上位 2 行（県内 No.1=沖縄銀行 [[regional-banks/okinawa-fg]] 傘下、No.2=琉球銀行 [[regional-banks/ryukyu-bank]]）の二強体制に対し、**中小企業融資 + 個人融資 + 観光業 + 米軍基地経済 + 離島網羅** の地域密着型ニッチ戦略で第三勢力を確保。預貸金シェアは県内約 10% 級。本店は那覇市久茂地（沖銀・琉銀と同一エリア・徒歩圏内）。
 
 ## 1. 会社概要
 
@@ -44,7 +44,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 - **1949** **國場相互銀行** 設立（資本金 B 円建て、米軍政下）
   - 創業母体: 沖縄県内財界、戦後沖縄経済復興期の中小企業・庶民金融ニーズに応える
-  - 商号「國場」は沖縄県内財閥 國場組（[[okinawa-fg]] 沖縄銀行創業時にも関与した國場幸太郎の系統）に由来する地縁的命名 ^[likely]
+  - 商号「國場」は沖縄県内財閥 國場組（[[regional-banks/okinawa-fg]] 沖縄銀行創業時にも関与した國場幸太郎の系統）に由来する地縁的命名 ^[likely]
 - **1972-05-15** **沖縄本土復帰**
   - 米軍政下の B 円・米ドル通貨建て業務 → 円建て業務に移行
   - 日本の銀行法・相互銀行法に基づく免許銀行へ移管
@@ -56,8 +56,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 | 行 | 県内地位 | 預貸金シェア | 設立 | 形態 | 上場 |
 |---|---|---|---|---|---|
-| **沖縄銀行**（[[okinawa-fg]] 傘下）| 県内 No.1 | 約 30% | 1956 | 信託併営 + 持株会社化（2021-10）| PRIME 7350（FG）|
-| **[[ryukyu-bank]]**（琉球銀行）| 県内 No.2 | 約 25% 級 | 1948（USCAR 布令）| 単独上場銀行 | PRIME 8399 |
+| **沖縄銀行**（[[regional-banks/okinawa-fg]] 傘下）| 県内 No.1 | 約 30% | 1956 | 信託併営 + 持株会社化（2021-10）| PRIME 7350（FG）|
+| **[[regional-banks/ryukyu-bank]]**（琉球銀行）| 県内 No.2 | 約 25% 級 | 1948（USCAR 布令）| 単独上場銀行 | PRIME 8399 |
 | **沖縄海邦銀行**（かいぎん）| **県内 No.3** | **約 10% 級** | **1949（國場相互銀行）** | **第二地方銀行・単独上場** | **STD 8554** |
 
 - 県内 No.1・No.2 が「沖銀・琉銀の二強」体制 → 海邦銀行は **第二地銀ゆえの規模差** がそのまま競争力差として残る構造
@@ -105,14 +105,14 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ### 競合・連携関係
 
-- **県内 3 行**: 沖銀（[[okinawa-fg]]）・[[ryukyu-bank]]・海邦銀行 で寡占。3 行とも本店が **那覇市久茂地** 周辺の至近距離に集中（県内金融街構造）
-- **[[okinawa-shinko]]**（沖縄振興開発金融公庫）: 政策金融補完関係。県内事業者は商工中金的ポジションの ODFC + 民間 3 行で資金調達するのが標準パターン
-- **メガバンク**: [[mufg]]・[[smfg]]・[[mizuho-fg]] 県内拠点とは大型法人案件で住み分け
-- **第二地銀協会 加盟**: 全国第二地銀ネットワーク（[[fidea-hd]]・[[jimoto-hd]] 等）との情報共有・相互 ATM 提携
+- **県内 3 行**: 沖銀（[[regional-banks/okinawa-fg]]）・[[regional-banks/ryukyu-bank]]・海邦銀行 で寡占。3 行とも本店が **那覇市久茂地** 周辺の至近距離に集中（県内金融街構造）
+- **[[financial-regulators/okinawa-shinko]]**（沖縄振興開発金融公庫）: 政策金融補完関係。県内事業者は商工中金的ポジションの ODFC + 民間 3 行で資金調達するのが標準パターン
+- **メガバンク**: [[megabanks/mufg]]・[[megabanks/smfg]]・[[megabanks/mizuho-fg]] 県内拠点とは大型法人案件で住み分け
+- **第二地銀協会 加盟**: 全国第二地銀ネットワーク（[[regional-banks/fidea-hd]]・[[regional-banks/jimoto-hd]] 等）との情報共有・相互 ATM 提携
 
 ### 再編シナリオ
 
-- 現状は均衡維持。本土第二地銀の統合事例（[[fidea-hd]]・北日本 FG 等）と異なり、**沖縄では 3 行寡占が長期安定**
+- 現状は均衡維持。本土第二地銀の統合事例（[[regional-banks/fidea-hd]]・北日本 FG 等）と異なり、**沖縄では 3 行寡占が長期安定**
 
 ## 4. 規制・政策
 
@@ -122,7 +122,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 - **沖縄特殊規制**:
   - 沖縄振興特別措置法に紐づく金融優遇制度
   - 沖縄県信用保証協会との連携
-  - 沖縄県振興公庫（[[okinawa-shinko]]）との協調融資
+  - 沖縄県振興公庫（[[financial-regulators/okinawa-shinko]]）との協調融資
 - **直近政策論点**:
   - 2024〜 日銀政策金利正常化 → 預貸マージン回復（第二地銀全体の追い風）
   - 観光業 V 字回復に伴う融資需要拡大
@@ -131,11 +131,11 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## Related
 
-- [[okinawa-fg]] — 県内 No.1（沖縄銀行 親会社、2021-10 持株会社化）
-- [[ryukyu-bank]] — 県内 No.2（1948 USCAR 布令設立・単独上場）
-- [[okinawa-shinko]] — 沖縄振興開発金融公庫（政策金融補完）
-- [[fidea-hd]] · [[jimoto-hd]] — 本土第二地銀統合事例（再編比較対象）
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] — メガ 3 行（県内大型案件競合・コルレス）
+- [[regional-banks/okinawa-fg]] — 県内 No.1（沖縄銀行 親会社、2021-10 持株会社化）
+- [[regional-banks/ryukyu-bank]] — 県内 No.2（1948 USCAR 布令設立・単独上場）
+- [[financial-regulators/okinawa-shinko]] — 沖縄振興開発金融公庫（政策金融補完）
+- [[regional-banks/fidea-hd]] · [[regional-banks/jimoto-hd]] — 本土第二地銀統合事例（再編比較対象）
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] — メガ 3 行（県内大型案件競合・コルレス）
 - [[regional-banks/INDEX|regional-banks INDEX]]
 
 ## Sources
@@ -145,7 +145,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 - **沖縄海邦銀行 ディスクロージャー誌**（公表分）
 - **第二地方銀行協会 加盟行一覧**（公開分）
 - 沖縄県金融業界一般公開情報・沖縄県統計
-- [[okinawa-fg]] / [[ryukyu-bank]] wiki 内クロスリファレンス
+- [[regional-banks/okinawa-fg]] / [[regional-banks/ryukyu-bank]] wiki 内クロスリファレンス
 
 ---
 

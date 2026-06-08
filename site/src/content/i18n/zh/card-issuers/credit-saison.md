@@ -16,7 +16,7 @@ This entry sits under [[card-issuers/INDEX|card-issuers INDEX]]. Read it against
 
 ## TL;DR
 
-国内クレジットカード大手。1951 年 緑屋クレジット 設立 → 1980 西武クレジット → 1989 クレディセゾン 改称。**累計会員 4000 万人超** の業界トップ級発行枚数を背景に、**米 American Express 提携プレミアム**、**永久不滅ポイント** エコシステム、**セゾン投信** クロスセル、**インド消費者金融**（Kisetsu Saison Finance）海外展開の 4 軸で稼ぐノンバンク。旧西武セゾングループ解体後はみずほ FG 系列の独立カード会社として再定位 ([[mizuho-fg]] 系)。証券コード 東証 PRIME 8253。
+国内クレジットカード大手。1951 年 緑屋クレジット 設立 → 1980 西武クレジット → 1989 クレディセゾン 改称。**累計会員 4000 万人超** の業界トップ級発行枚数を背景に、**米 American Express 提携プレミアム**、**永久不滅ポイント** エコシステム、**セゾン投信** クロスセル、**インド消費者金融**（Kisetsu Saison Finance）海外展開の 4 軸で稼ぐノンバンク。旧西武セゾングループ解体後はみずほ FG 系列の独立カード会社として再定位 ([[megabanks/mizuho-fg]] 系)。証券コード 東証 PRIME 8253。
 
 ## 1. 会社概要
 
@@ -31,7 +31,7 @@ This entry sits under [[card-issuers/INDEX|card-issuers INDEX]]. Read it against
 ### 関連・親会社の系譜
 
 - 旧 **西武セゾングループ**（堤清二 主導）の中核金融会社の一つ → グループ解体（1990 年代末〜2002）後、独立経営化
-- **みずほ FG ([[mizuho-fg]]) 系列**: 旧 第一勧業銀行 → みずほ銀行 のメインバンク関係を継承（みずほ FG は主要株主級）
+- **みずほ FG ([[megabanks/mizuho-fg]]) 系列**: 旧 第一勧業銀行 → みずほ銀行 のメインバンク関係を継承（みずほ FG は主要株主級）
 - **PARCO / 西武百貨店系**: 旧グループ縁戚の商流提携が継続（カード共通基盤、商業施設テナント）
 
 ### 主要子会社・グループ会社（公開情報ベース）
@@ -98,7 +98,7 @@ This entry sits under [[card-issuers/INDEX|card-issuers INDEX]]. Read it against
 
 ### 競合と差別化
 
-- 競合: [[mufg]] 三菱 UFJ ニコス・JCB・三井住友カード（[[smfg]]）・楽天カード・PayPay カード ([[paypay-fg]])
+- 競合: [[megabanks/mufg]] 三菱 UFJ ニコス・JCB・三井住友カード（[[megabanks/smfg]]）・楽天カード・PayPay カード ([[megabanks/paypay-fg]])
 - **流通系カードのリーディングプレイヤー** として、メガバンク系（JCB / NICOS / 三井住友）とも、テック系（楽天 / PayPay）とも異なるポジショニング
 - 西武・PARCO の商流レガシー + Amex プレミアム + 永久不滅ポイント の組み合わせは **独自**
 
@@ -131,10 +131,10 @@ This entry sits under [[card-issuers/INDEX|card-issuers INDEX]]. Read it against
 
 ## Related
 
-- [[mizuho-fg]]（主要株主・メインバンク系列）
-- [[mufg]] · [[smfg]]（競合カード会社の親会社）
-- [[paypay-fg]]（テック系カード競合）
-- [[jcb]]（国際ブランド競合・パートナー）
+- [[megabanks/mizuho-fg]]（主要株主・メインバンク系列）
+- [[megabanks/mufg]] · [[megabanks/smfg]]（競合カード会社の親会社）
+- [[megabanks/paypay-fg]]（テック系カード競合）
+- [[card-issuers/jcb]]（国際ブランド競合・パートナー）
 
 ## Sources
 

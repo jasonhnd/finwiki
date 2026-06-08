@@ -16,7 +16,7 @@ translated_at: 2026-05-31T23:59:49.365Z
 
 ## TL;DR
 
-**日本第一家独立系互联网专门生命保险公司**。2006-10  由出口治明（原日本生命）和岩瀬大輔（原 BCG）共同创立，2008-05-18 开业。不设营业职员渠道，**全部在线完成**，以“简单、透明、便宜”为卖点，面向 20-30  代年轻层。2012-03-15 在东证 Mothers 上市（战后首家网络寿险上市）。**KDDI [[au-fh]] 持有约 28%，是战略股东**，并与 au 经济圈联动。主力产品是定期死亡保险、医疗、癌症、就業不能保险。^[extracted]
+**日本第一家独立系互联网专门生命保险公司**。2006-10  由出口治明（原日本生命）和岩瀬大輔（原 BCG）共同创立，2008-05-18 开业。不设营业职员渠道，**全部在线完成**，以“简单、透明、便宜”为卖点，面向 20-30  代年轻层。2012-03-15 在东证 Mothers 上市（战后首家网络寿险上市）。**KDDI [[megabanks/au-fh]] 持有约 28%，是战略股东**，并与 au 经济圈联动。主力产品是定期死亡保险、医疗、癌症、就業不能保险。^[extracted]
 
 ## 1. 公司概要
 
@@ -32,11 +32,11 @@ translated_at: 2026-05-31T23:59:49.365Z
 
 | 股东 | 比率（公开信息） |
 |---|---|
-| **KDDI 株式会社** [[au-fh]] | 约 28% 级别（战略股东、准最大股东）^[extracted] |
+| **KDDI 株式会社** [[megabanks/au-fh]] | 约 28% 级别（战略股东、准最大股东）^[extracted] |
 | セコム集团 | 持有（战略股东）^[extracted] |
 | 其他机构投资者 / 个人 | 其余 |
 
-> KDDI 于 2015 年 进入出资，之后逐步提高持股，将其定位为 au 经济圈 / au Financial HD [[au-fh]] 的寿险拼图 ^[extracted]
+> KDDI 于 2015 年 进入出资，之后逐步提高持股，将其定位为 au 经济圈 / au Financial HD [[megabanks/au-fh]] 的寿险拼图 ^[extracted]
 
 ### 创始人 / 管理层（沿革）
 
@@ -69,7 +69,7 @@ translated_at: 2026-05-31T23:59:49.365Z
 2. **轻量成本结构**：不承担营业职员人工成本和门店租金 -> 增厚纯保费部分的模式  
 3. **以年轻层（20-30  代）为核心目标**：获取传统寿险覆盖不足的“第一份保险”人群  
 4. **数字 UX**：手机完成、缩短申请时间  
-5. **KDDI / au 经济圈联动** [[au-fh]]：从 au 客户基础导流、au PAY point 等路径联动 ^[extracted]
+5. **KDDI / au 经济圈联动** [[megabanks/au-fh]]：从 au 客户基础导流、au PAY point 等路径联动 ^[extracted]
 
 ### 沿革
 
@@ -88,10 +88,10 @@ translated_at: 2026-05-31T23:59:49.365Z
 |---|---|---|
 | **AXA Direct Life** | 外资系网络寿险 | 汽车保险品牌力 |
 | **Aflac（网络销售）** | 癌症保险大公司的 D2C 扩张 | 癌症 / 医疗领域强 |
-| **SBI Life** | SBI HD [[sbi-hd]] 旗下 | 与 SBI 证券、网络银行联动 |
+| **SBI Life** | SBI HD [[megabanks/sbi-hd]] 旗下 | 与 SBI 证券、网络银行联动 |
 | **Medicare Life** | 住友生命系 / 网络销售 | 母公司品牌 |
 | **Rakuten Life** | Rakuten G 旗下 | Rakuten 积分经济圈 |
-| **PayPay 保险**（小额短期） | SoftBank [[paypay-fg]] | Super-app 导线 |
+| **PayPay 保险**（小额短期） | SoftBank [[megabanks/paypay-fg]] | Super-app 导线 |
 
 ### Corporate Message
 
@@ -107,10 +107,10 @@ translated_at: 2026-05-31T23:59:49.365Z
 
 ## Related
 
-- [[au-fh]]（KDDI / au Financial HD，准最大战略股东）
-- [[sbi-hd]]（SBI Life 的母公司，竞争者）
-- [[paypay-fg]]（PayPay 保险，经济圈竞争者）
-- [[mufg]] · [[smfg]] · [[mizuho-fg]]（传统寿险 vs 网络寿险的对比）
+- [[megabanks/au-fh]]（KDDI / au Financial HD，准最大战略股东）
+- [[megabanks/sbi-hd]]（SBI Life 的母公司，竞争者）
+- [[megabanks/paypay-fg]]（PayPay 保险，经济圈竞争者）
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]（传统寿险 vs 网络寿险的对比）
 - [[insurance/internet-life-insurance-business-model]]（暂定 / 网络寿险商业模式论）
 
 ## Sources

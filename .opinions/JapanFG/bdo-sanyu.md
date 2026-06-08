@@ -12,7 +12,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## 推論 (from TL;DR)
 
-**BDO 三優監査法人**（英名：BDO Sanyu LLC）は **準大手（中堅）監査法人** の代表格で、グローバル **BDO International** の日本メンバーファーム。**中堅・中小上場会社、IPO 準備会社、Web3 スタートアップ、外資系日本子会社、FSA 登録 VASP の財務諸表監査** を中核とする ^[extracted]。前身は **三優監査法人** で、**BDO ブランド統合は 2010s 後半** ^[inferred]。**[[JapanFG/taiyo-grant-thornton|太陽グラントソントン]]** と並んで Big 4 以外の選択肢として中堅 FG / FinTech 上場準備会社を支える ^[inferred]。
+**BDO 三優監査法人**（英名：BDO Sanyu LLC）は **準大手（中堅）監査法人** の代表格で、グローバル **BDO International** の日本メンバーファーム。**中堅・中小上場会社、IPO 準備会社、Web3 スタートアップ、外資系日本子会社、FSA 登録 VASP の財務諸表監査** を中核とする ^[extracted]。前身は **三優監査法人** で、**BDO ブランド統合は 2010s 後半** ^[inferred]。**[[financial-regulators/taiyo-grant-thornton|太陽グラントソントン]]** と並んで Big 4 以外の選択肢として中堅 FG / FinTech 上場準備会社を支える ^[inferred]。
 
 ## 推論 (from 2. 沿革)
 

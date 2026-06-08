@@ -328,7 +328,7 @@ Main contributions of SMFG's consolidated net operating income of approximately 
 
 ## Related
 
-- [[mufg]] · [[mizuho-fg]] · [[ndfg]] · [[sbi-hd]] · [[ssnb]] · [[monex-group]]
+- [[megabanks/mufg]] · [[megabanks/mizuho-fg]] · [[megabanks/ndfg]] · [[megabanks/sbi-hd]] · [[regional-banks/ssnb]] · [[securities-firms/monex-group]]
 - [[banking/minna-bank-baas-model]] · [[banking/mercari-bank-license-stack]]
 
 ## Sources

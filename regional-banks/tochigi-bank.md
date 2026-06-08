@@ -23,7 +23,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-株式会社栃木銀行は、金融庁の銀行免許一覧に掲載される栃木県宇都宮市本店の第二地方銀行。栃木県では [[ashikaga-bank]] が first-regional bank anchor で、栃木銀行は second-regional-bank side の operating company として整理する。
+株式会社栃木銀行は、金融庁の銀行免許一覧に掲載される栃木県宇都宮市本店の第二地方銀行。栃木県では [[regional-banks/ashikaga-bank]] が first-regional bank anchor で、栃木銀行は second-regional-bank side の operating company として整理する。
 
 ## 1. License / group boundary
 
@@ -37,19 +37,19 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## 2. Operating model
 
-栃木銀行は、栃木県内の retail deposits, SME loans, community finance, and local consulting を担う second regional bank。[[ashikaga-bank]] and [[mebuki-fg]] coverage とは別に、地域金融の competitive layer を見るための bank-license anchor になる。Kanto second-regional-bank consolidation pressure は [[banking/regional-bank-consolidation-pattern]] を参照。
+栃木銀行は、栃木県内の retail deposits, SME loans, community finance, and local consulting を担う second regional bank。[[regional-banks/ashikaga-bank]] and [[regional-banks/mebuki-fg]] coverage とは別に、地域金融の competitive layer を見るための bank-license anchor になる。Kanto second-regional-bank consolidation pressure は [[banking/regional-bank-consolidation-pattern]] を参照。
 
 ## 3. Why this page matters
 
 - Closes a Tochigi second-regional-bank exact-name gap.
-- Useful peer for [[ashikaga-bank]] and [[towa-bank]] / North Kanto regional-bank analysis.
+- Useful peer for [[regional-banks/ashikaga-bank]] and [[regional-banks/towa-bank]] / North Kanto regional-bank analysis.
 - Separates operating bank coverage from securities-adjacent pages such as とちぎん TT 証券 references.
 
 ## Related
 
-- [[ashikaga-bank]]
-- [[mebuki-fg]]
-- [[towa-bank]]
+- [[regional-banks/ashikaga-bank]]
+- [[regional-banks/mebuki-fg]]
+- [[regional-banks/towa-bank]]
 - [[banking/INDEX]]
 
 ## Sources

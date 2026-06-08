@@ -65,14 +65,14 @@ BNY 日本官方页面说明，其于 2009 年 收购日本的信托银行业务
 
 ### 日本定位
 
-- **出现在 MUFG 等大股东名单中**：[[mufg]] 股东构成中出现 **The Bank of New York Mellon 3.61%**（2025-03-31），是机构投资者经海外托管账户进行名义汇总时伴随的一般结构 ^[extracted]
+- **出现在 MUFG 等大股东名单中**：[[megabanks/mufg]] 股东构成中出现 **The Bank of New York Mellon 3.61%**（2025-03-31），是机构投资者经海外托管账户进行名义汇总时伴随的一般结构 ^[extracted]
 
 ### 主要竞争对手
 
 | 领域 | 主要竞争对手 |
 |---|---|
-| **全球托管** | [[state-street-japan]] / [[citigroup-japan]] / [[jpmorgan-japan]] / HSBC |
-| 国内信托（master trust 周边）| [[master-trust-bank]]（日本 Master Trust）/ 日本 Custody 银行 / [[sumitomo-mitsui-trust]] / 三菱 UFJ 信托 |
+| **全球托管** | [[foreign-financial-institutions/state-street-japan]] / [[foreign-financial-institutions/citigroup-japan]] / [[foreign-financial-institutions/jpmorgan-japan]] / HSBC |
+| 国内信托（master trust 周边）| [[trust-banks/master-trust-bank]]（日本 Master Trust）/ 日本 Custody 银行 / [[trust-banks/sumitomo-mitsui-trust]] / 三菱 UFJ 信托 |
 | 面向机构投资者的资产管理 | BlackRock Japan / Vanguard Japan / Goldman Sachs Asset Management Japan / Fidelity Japan |
 | ADR / 存托机构 | Citibank / JPMorgan / Deutsche Bank（美国 ADR 大手 4 行之一）|
 
@@ -87,10 +87,10 @@ BNY 日本官方页面说明，其于 2009 年 收购日本的信托银行业务
 
 ## Related
 
-- **竞争外资托管**: [[state-street-japan]] · [[citigroup-japan]] · [[jpmorgan-japan]]
-- **国内信托（分工对象）**: [[master-trust-bank]]（日本 Master Trust）· [[sumitomo-mitsui-trust]]
-- **日本大型银行（客户 + 股东名义）**: [[mufg]] · [[smfg]] · [[mizuho-fg]]
-- **外资 IB**: [[goldman-sachs-japan]] · [[morgan-stanley-japan]] · [[hsbc-japan]] · [[deutsche-japan]] · [[barclays-japan]] · [[bnp-paribas-japan]]
+- **竞争外资托管**: [[foreign-financial-institutions/state-street-japan]] · [[foreign-financial-institutions/citigroup-japan]] · [[foreign-financial-institutions/jpmorgan-japan]]
+- **国内信托（分工对象）**: [[trust-banks/master-trust-bank]]（日本 Master Trust）· [[trust-banks/sumitomo-mitsui-trust]]
+- **日本大型银行（客户 + 股东名义）**: [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]
+- **外资 IB**: [[securities-firms/goldman-sachs-japan]] · [[securities-firms/morgan-stanley-japan]] · [[foreign-financial-institutions/hsbc-japan]] · [[foreign-financial-institutions/deutsche-japan]] · [[foreign-financial-institutions/barclays-japan]] · [[foreign-financial-institutions/bnp-paribas-japan]]
 
 ## Sources
 

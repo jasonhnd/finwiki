@@ -16,7 +16,7 @@ translated_at: 2026-05-31T15:29:03.869Z
 
 ## TL;DR
 
-岩井Cosmo Holdings 是以大阪为地盘的中坚独立证券控股公司，东京证券交易所 Prime 市场代码为 8707。其源流可追溯至岩井宇次郎 1918 年在大阪创办的岩井证券；2010-04，旧岩井证券与旧 Cosmo 证券经营整合，成立岩井Cosmo证券，并通过控股公司化形成岩井Cosmo Holdings。集团以面对面零售证券业务为核心，在关西客户基础上开展美国股票、新兴市场股票等海外证券中介、IPO 承销和顾问型销售。主要可比对象包括 [[aizawa-sg|Aizawa Securities Group]]、[[okasan-sg|Okasan Securities Group]]、[[tokai-tokyo-fh|Tokai Tokyo Financial Holdings]] 和 [[matsui-sec|Matsui Securities]] 等中坚独立证券集团。^[extracted]
+岩井Cosmo Holdings 是以大阪为地盘的中坚独立证券控股公司，东京证券交易所 Prime 市场代码为 8707。其源流可追溯至岩井宇次郎 1918 年在大阪创办的岩井证券；2010-04，旧岩井证券与旧 Cosmo 证券经营整合，成立岩井Cosmo证券，并通过控股公司化形成岩井Cosmo Holdings。集团以面对面零售证券业务为核心，在关西客户基础上开展美国股票、新兴市场股票等海外证券中介、IPO 承销和顾问型销售。主要可比对象包括 [[securities-firms/aizawa-sg|Aizawa Securities Group]]、[[securities-firms/okasan-sg|Okasan Securities Group]]、[[securities-firms/tokai-tokyo-fh|Tokai Tokyo Financial Holdings]] 和 [[securities-firms/matsui-sec|Matsui Securities]] 等中坚独立证券集团。^[extracted]
 
 ## 1. 公司概况
 
@@ -94,13 +94,13 @@ translated_at: 2026-05-31T15:29:03.869Z
 
 中坚独立证券集团通常各自拥有明确历史和地域基础：
 
-- [[aizawa-sg|Aizawa Securities Group]]：东京地盘，强调亚洲股票和新兴市场股票。
-- [[okasan-sg|Okasan Securities Group]]：名古屋发祥，东海地盘。
-- [[tokai-tokyo-fh|Tokai Tokyo Financial Holdings]]：东海地盘，与中部财界关系较深。
-- [[matsui-sec|Matsui Securities]]：独立系线上证券先驱。
+- [[securities-firms/aizawa-sg|Aizawa Securities Group]]：东京地盘，强调亚洲股票和新兴市场股票。
+- [[securities-firms/okasan-sg|Okasan Securities Group]]：名古屋发祥，东海地盘。
+- [[securities-firms/tokai-tokyo-fh|Tokai Tokyo Financial Holdings]]：东海地盘，与中部财界关系较深。
+- [[securities-firms/matsui-sec|Matsui Securities]]：独立系线上证券先驱。
 - 岩井Cosmo HD：关西地盘，面对面零售业务占据核心位置。
 
-与 megabank 系证券公司（[[mufg|MUFG]]、[[smfg|SMFG]]、[[mizuho-fg|Mizuho Financial Group]] 旗下证券）以及大型线上券商（[[sbi-hd|SBI Holdings]]、Rakuten Securities 等）相比，岩井Cosmo HD 在规模上较小，但以区域密着、面对面提案能力和独立系灵活性作为差异化轴。
+与 megabank 系证券公司（[[megabanks/mufg|MUFG]]、[[megabanks/smfg|SMFG]]、[[megabanks/mizuho-fg|Mizuho Financial Group]] 旗下证券）以及大型线上券商（[[megabanks/sbi-hd|SBI Holdings]]、Rakuten Securities 等）相比，岩井Cosmo HD 在规模上较小，但以区域密着、面对面提案能力和独立系灵活性作为差异化轴。
 
 ### 中期经营计划（2024）
 
@@ -118,9 +118,9 @@ translated_at: 2026-05-31T15:29:03.869Z
 
 ## Related
 
-- [[aizawa-sg|Aizawa Securities Group]] · [[okasan-sg|Okasan Securities Group]] · [[tokai-tokyo-fh|Tokai Tokyo Financial Holdings]] · [[matsui-sec|Matsui Securities]] -- 中坚独立证券集群。
-- [[mufg|MUFG]] · [[smfg|SMFG]] · [[mizuho-fg|Mizuho Financial Group]] -- 与 megabank 系证券业务对照。
-- [[sbi-hd|SBI Holdings]] -- 与大型线上证券集团对照。
+- [[securities-firms/aizawa-sg|Aizawa Securities Group]] · [[securities-firms/okasan-sg|Okasan Securities Group]] · [[securities-firms/tokai-tokyo-fh|Tokai Tokyo Financial Holdings]] · [[securities-firms/matsui-sec|Matsui Securities]] -- 中坚独立证券集群。
+- [[megabanks/mufg|MUFG]] · [[megabanks/smfg|SMFG]] · [[megabanks/mizuho-fg|Mizuho Financial Group]] -- 与 megabank 系证券业务对照。
+- [[megabanks/sbi-hd|SBI Holdings]] -- 与大型线上证券集团对照。
 
 ## Sources
 

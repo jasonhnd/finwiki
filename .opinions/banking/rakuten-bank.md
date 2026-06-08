@@ -20,4 +20,4 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 - 18.07 million accounts のうち、給与受取またはメイン口座化している割合はどれくらいか。
 - Money Bridge 経由の預金残高は全体預金に対してどれくらいか。
-- [[JapanFG/rakuten-fg|楽天金融]] 内で銀行・証券・カードの収益貢献はどう変化しているか。
+- [[payment-firms/rakuten-fg|楽天金融]] 内で銀行・証券・カードの収益貢献はどう変化しているか。

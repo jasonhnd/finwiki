@@ -17,7 +17,7 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 
 ## TL;DR
 
-Prudential Gibraltar Financial Life Insurance Co., Ltd. (PGF Life) is a life-insurance operating company in the [[prudential-japan]] cluster. It is separated from [[prudential-japan]] and [[gibraltar-life]] as a specialty insurer mainly handling financial-institution / bank-channel products.
+Prudential Gibraltar Financial Life Insurance Co., Ltd. (PGF Life) is a life-insurance operating company in the [[life-insurers/prudential-japan]] cluster. It is separated from [[life-insurers/prudential-japan]] and [[life-insurers/gibraltar-life]] as a specialty insurer mainly handling financial-institution / bank-channel products.
 
 ## 1. License / group boundary
 
@@ -27,20 +27,20 @@ Prudential Gibraltar Financial Life Insurance Co., Ltd. (PGF Life) is a life-ins
 | Short name | PGF Life |
 | License route | Insurance Business Act life-insurance company; FSA life insurer list |
 | Industry body | Life Insurance Association of Japan member |
-| Group boundary | [[prudential-japan]] cluster operating company |
+| Group boundary | [[life-insurers/prudential-japan]] cluster operating company |
 
 ## 2. Why this page matters
 
 - Closes a FSA 41 exact-name gap.
 - Separates Prudential Japan's bank / FI-channel insurer from advisor-led brands.
-- Useful peer for [[dai-ichi-frontier-life]] and [[ms-primary-life]].
+- Useful peer for [[life-insurers/dai-ichi-frontier-life]] and [[life-insurers/ms-primary-life]].
 
 ## Related
 
-- [[prudential-japan]]
-- [[gibraltar-life]]
-- [[dai-ichi-frontier-life]]
-- [[ms-primary-life]]
+- [[life-insurers/prudential-japan]]
+- [[life-insurers/gibraltar-life]]
+- [[life-insurers/dai-ichi-frontier-life]]
+- [[life-insurers/ms-primary-life]]
 - [[insurance/life-insurance-channel-mix]]
 
 ## Sources

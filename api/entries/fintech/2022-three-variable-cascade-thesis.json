@@ -52,34 +52,34 @@
     "wikilinks": [
       "agent-economy/ap2-overview",
       "agent-economy/x402-http-payment-overview",
-      "ai-payment-two-tracks",
-      "central-banking-function-unbundling",
       "fintech/INDEX",
+      "fintech/ai-payment-two-tracks",
+      "fintech/central-banking-function-unbundling",
       "fintech/japan-financial-regulation",
       "fintech/mbridge-bis-multi-cbdc-overview",
+      "fintech/stablecoin-chain-sovereign-currency-divide",
       "fintech/tether-business-model-short-treasury-yield",
-      "fintech/three-circles-stablecoin-mra-framework",
-      "stablecoin-chain-sovereign-currency-divide"
+      "fintech/three-circles-stablecoin-mra-framework"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/agent-economy/ap2-overview",
       "https://finwiki.zksc.io/agent-economy/x402-http-payment-overview",
-      "https://finwiki.zksc.io/ai-payment-two-tracks",
-      "https://finwiki.zksc.io/central-banking-function-unbundling",
       "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/fintech/ai-payment-two-tracks",
+      "https://finwiki.zksc.io/fintech/central-banking-function-unbundling",
       "https://finwiki.zksc.io/fintech/japan-financial-regulation",
       "https://finwiki.zksc.io/fintech/mbridge-bis-multi-cbdc-overview",
+      "https://finwiki.zksc.io/fintech/stablecoin-chain-sovereign-currency-divide",
       "https://finwiki.zksc.io/fintech/tether-business-model-short-treasury-yield",
-      "https://finwiki.zksc.io/fintech/three-circles-stablecoin-mra-framework",
-      "https://finwiki.zksc.io/stablecoin-chain-sovereign-currency-divide"
+      "https://finwiki.zksc.io/fintech/three-circles-stablecoin-mra-framework"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2663,
-    "word_like_tokens": 415,
-    "inbound_wikilinks_count": 2,
-    "last_modified": "2026-05-26"
+    "nonspace_chars": 2687,
+    "word_like_tokens": 418,
+    "inbound_wikilinks_count": 3,
+    "last_modified": "2026-06-08"
   }
 }

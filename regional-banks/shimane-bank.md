@@ -24,7 +24,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-株式会社島根銀行は、金融庁の銀行免許一覧に掲載される島根県本店の第二地方銀行。山陰の second-regional-bank operating-company anchor であり、[[san-in-godo-bank]] とは別法人の local peer、[[sbi-regional-bank-hd]] とは資本業務提携先として扱う。
+株式会社島根銀行は、金融庁の銀行免許一覧に掲載される島根県本店の第二地方銀行。山陰の second-regional-bank operating-company anchor であり、[[regional-banks/san-in-godo-bank]] とは別法人の local peer、[[megabanks/sbi-regional-bank-hd]] とは資本業務提携先として扱う。
 
 ## 1. License / group boundary
 
@@ -38,20 +38,20 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## 2. Operating model
 
-島根銀行は、島根県を中心に retail deposits, SME finance, local consumer banking, and regional relationship banking を担う second regional bank。[[san-in-godo-bank]] page は山陰 first-regional-bank incumbent を扱い、本ページは second-regional-bank license boundary を扱う。
+島根銀行は、島根県を中心に retail deposits, SME finance, local consumer banking, and regional relationship banking を担う second regional bank。[[regional-banks/san-in-godo-bank]] page は山陰 first-regional-bank incumbent を扱い、本ページは second-regional-bank license boundary を扱う。
 
 ## 3. Why this page matters
 
 - Closes the FSA exact-name page for 島根銀行.
 - Gives the SBI regional-bank alliance map an exact operating-company anchor.
-- Provides a peer anchor for [[san-in-godo-bank]], [[tottori-bank]], and Chugoku regional-bank consolidation analysis.
+- Provides a peer anchor for [[regional-banks/san-in-godo-bank]], [[regional-banks/tottori-bank]], and Chugoku regional-bank consolidation analysis.
 
 ## Related
 
-- [[san-in-godo-bank]]
-- [[tottori-bank]]
-- [[sbi-regional-bank-hd]]
-- [[sbi-hd]]
+- [[regional-banks/san-in-godo-bank]]
+- [[regional-banks/tottori-bank]]
+- [[megabanks/sbi-regional-bank-hd]]
+- [[megabanks/sbi-hd]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 

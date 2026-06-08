@@ -15,7 +15,7 @@ translated_at: 2026-06-02T14:25:12.421Z
 
 ## 要約
 
-**GMO インターネットグループ**の **金融セグメント中間持株会社**（東証 STD 7177）。**GMO クリック証券**（ネット証券・FX）を中核に、**GMO 外貨**（FX 専業）・**GMO クリック総研**・海外証券拠点（タイ・香港・英国等）を傘下に置く。**ネット完結・低手数料・FX/CFD 業界トップシェア**が GMO 金融経済圏の収益エンジン。**親会社 GMO インターネットグループの連結子会社**で、兄弟会社 [[gmo-payment-gateway|GMO ペイメントゲートウェイ]]（決済代行・東証 PRIME 3769）/ [[gmo-coin]]（暗号資産）/ [[gmo-aozora-net|GMO あおぞらネット銀行]]（法人 BaaS）と並ぶ「**インターネット金融経済圏**」の証券・FX レイヤー担当。競合は [[sbi-hd|SBI 証券]] / [[rakuten-fg|楽天証券]] / [[monex-group|マネックス]] / [[matsui-sec|松井証券]]。^[extracted]
+**GMO インターネットグループ**の **金融セグメント中間持株会社**（東証 STD 7177）。**GMO クリック証券**（ネット証券・FX）を中核に、**GMO 外貨**（FX 専業）・**GMO クリック総研**・海外証券拠点（タイ・香港・英国等）を傘下に置く。**ネット完結・低手数料・FX/CFD 業界トップシェア**が GMO 金融経済圏の収益エンジン。**親会社 GMO インターネットグループの連結子会社**で、兄弟会社 [[payment-firms/gmo-payment-gateway|GMO ペイメントゲートウェイ]]（決済代行・東証 PRIME 3769）/ [[payment-firms/gmo-coin]]（暗号資産）/ [[payment-firms/gmo-aozora-net|GMO あおぞらネット銀行]]（法人 BaaS）と並ぶ「**インターネット金融経済圏**」の証券・FX レイヤー担当。競合は [[megabanks/sbi-hd|SBI 証券]] / [[payment-firms/rakuten-fg|楽天証券]] / [[securities-firms/monex-group|マネックス]] / [[securities-firms/matsui-sec|松井証券]]。^[extracted]
 
 ## 1. 会社概要
 
@@ -35,11 +35,11 @@ GMO インターネットグループ（東証 PRIME 9449・熊谷正寿）
         ├── GMO クリック証券 ── ネット証券・FX 業界最大級
         ├── GMO 外貨 ── 旧 外貨ex byGMO（2023-07 社名変更、FX 専業）
         ├── GMO クリック総研 ── 投資情報・調査
-        ├── GMO Cryptonomics / [[gmo-coin|GMO コイン]] ── 暗号資産取引所
+        ├── GMO Cryptonomics / [[payment-firms/gmo-coin|GMO コイン]] ── 暗号資産取引所
         ├── 海外証券拠点 ── タイ / 香港 / 英国 等
-        └── 関連持分（[[gmo-aozora-net|GMO あおぞらネット銀行]] 等）
-  └── [[gmo-payment-gateway|GMO ペイメントゲートウェイ]]（東証 PRIME 3769）── 決済代行
-  └── [[gmo-aozora-net|GMO あおぞらネット銀行]] ── あおぞら銀行と JV（法人 BaaS）
+        └── 関連持分（[[payment-firms/gmo-aozora-net|GMO あおぞらネット銀行]] 等）
+  └── [[payment-firms/gmo-payment-gateway|GMO ペイメントゲートウェイ]]（東証 PRIME 3769）── 決済代行
+  └── [[payment-firms/gmo-aozora-net|GMO あおぞらネット銀行]] ── あおぞら銀行と JV（法人 BaaS）
 ```
 
 > **GMO 金融経済圏 4 レイヤー**：①証券・FX（GMO FHD）/ ②決済（GMO ペイメントゲートウェイ）/ ③銀行（GMO あおぞらネット銀行）/ ④暗号資産（GMO コイン）。^[extracted]
@@ -51,7 +51,7 @@ GMO インターネットグループ（東証 PRIME 9449・熊谷正寿）
 | ネット証券（現物株）| **GMO クリック証券** | 株式売買手数料 国内最低水準、信用取引・IPO 取扱 |
 | **FX / CFD** | **GMO クリック証券** | **FX 取引高 国内トップ級**、業界主力収益源 |
 | FX 専業 | **GMO 外貨**（旧 外貨ex byGMO、2023-07 社名変更）| 高機能 FX プラットフォーム、上級者向け |
-| 暗号資産 | [[gmo-coin|GMO コイン]] | 関東財務局長 第 00006 号（業界最古参の 1 つ）|
+| 暗号資産 | [[payment-firms/gmo-coin|GMO コイン]] | 関東財務局長 第 00006 号（業界最古参の 1 つ）|
 | 海外証券 | タイ / 香港 / 英国 等の現地拠点 | アジア展開・現地ライセンス |
 | 投資情報 | GMO クリック総研 | 調査・コンテンツ提供 |
 | 金融周辺サービス | バイナリーオプション・先物・オプション等 | GMO クリック証券経由 |
@@ -86,11 +86,11 @@ GMO インターネットグループ（東証 PRIME 9449・熊谷正寿）
 
 | 競合 | 親会社・特徴 | 強み |
 |---|---|---|
-| [[sbi-hd|SBI 証券]] | [[sbi-hd|SBI HD]] | 口座数国内首位・新 NISA 強化・楽天競合 |
-| [[rakuten-fg|楽天証券]] | [[rakuten-fg|楽天 FG]] | 楽天経済圏（ポイント・楽天銀行口座連動）|
-| [[monex-group|マネックス]] | [[monex-group|マネックスグループ]] | Coincheck 子会社（暗号資産）・米国株強み |
-| [[matsui-sec|松井証券]] | 独立系 | 老舗・1 日定額制・信用取引で根強い顧客 |
-| 三菱 UFJ eスマート証券（旧 auカブドットコム）| [[mufg]] | MUFG エコシステム連動 |
+| [[megabanks/sbi-hd|SBI 証券]] | [[megabanks/sbi-hd|SBI HD]] | 口座数国内首位・新 NISA 強化・楽天競合 |
+| [[payment-firms/rakuten-fg|楽天証券]] | [[payment-firms/rakuten-fg|楽天 FG]] | 楽天経済圏（ポイント・楽天銀行口座連動）|
+| [[securities-firms/monex-group|マネックス]] | [[securities-firms/monex-group|マネックスグループ]] | Coincheck 子会社（暗号資産）・米国株強み |
+| [[securities-firms/matsui-sec|松井証券]] | 独立系 | 老舗・1 日定額制・信用取引で根強い顧客 |
+| 三菱 UFJ eスマート証券（旧 auカブドットコム）| [[megabanks/mufg]] | MUFG エコシステム連動 |
 | **GMO クリック証券（本項目）** | GMO | **FX 取引高 国内トップ・低手数料モデル** |
 
 **GMO FHD の差別化**：①**FX/CFD 業界トップシェア**（GMO クリック証券）、②GMO 金融エコシステム連携（証券 + FX + 暗号資産 + 銀行 + ペイメント）、③ネット完結・低コスト構造、④暗号資産（GMO コイン）と銀行（GMO あおぞらネット銀行）を内包する稀少なポジション。
@@ -103,7 +103,7 @@ GMO インターネットグループ（東証 PRIME 9449・熊谷正寿）
 
 - **GMO コイン**（関東財務局長 第 00006 号）が GMO 金融経済圏の暗号資産レイヤー
 - 米国子会社 **GMO トラスト**（GYEN / ZUSD 等ステーブルコイン発行歴）も保有 ^[extracted]
-- 公式 IR「経営方針・戦略」で**暗号資産事業の顧客基盤・収益拡大を重点事業の一つ**に位置付け（暗号資産収益 75 億円・前期比 +124.6%、FY2024 ログミー報道ベース）。なお公式戦略上は「暗号資産事業」表記で、「Web3」の明示的注力は非記載。競合 [[sbi-hd|SBI VC Trade]] / [[bitflyer]] / [[monex-group|Coincheck]] と棲み分け
+- 公式 IR「経営方針・戦略」で**暗号資産事業の顧客基盤・収益拡大を重点事業の一つ**に位置付け（暗号資産収益 75 億円・前期比 +124.6%、FY2024 ログミー報道ベース）。なお公式戦略上は「暗号資産事業」表記で、「Web3」の明示的注力は非記載。競合 [[megabanks/sbi-hd|SBI VC Trade]] / [[payment-firms/bitflyer]] / [[securities-firms/monex-group|Coincheck]] と棲み分け
 
 ## 5. 規制・政策
 
@@ -124,11 +124,11 @@ GMO インターネットグループ（東証 PRIME 9449・熊谷正寿）
 
 ## 7. 関連項目
 
-- **GMO 金融経済圏**：[[gmo-payment-gateway]] · [[gmo-coin]] · [[gmo-aozora-net]]
-- **競合ネット証券**：[[sbi-hd]] · [[rakuten-fg]] · [[monex-group]] · [[matsui-sec]]
-- **大手証券**：[[nomura-hd]] · [[daiwa-sg]] · [[smbc-nikko]]
-- **メガ FG（証券子会社経由）**：[[mufg]]（三菱 UFJ モルガン・スタンレー証券・三菱 UFJ eスマート証券）· [[smfg]]（SMBC 日興証券）· [[mizuho-fg]]（みずほ証券）
-- **関連 fintech**：[[paypay-fg]] · [[money-forward]] · [[freee]]
+- **GMO 金融経済圏**：[[payment-firms/gmo-payment-gateway]] · [[payment-firms/gmo-coin]] · [[payment-firms/gmo-aozora-net]]
+- **競合ネット証券**：[[megabanks/sbi-hd]] · [[payment-firms/rakuten-fg]] · [[securities-firms/monex-group]] · [[securities-firms/matsui-sec]]
+- **大手証券**：[[securities-firms/nomura-hd]] · [[securities-firms/daiwa-sg]] · [[securities-firms/smbc-nikko]]
+- **メガ FG（証券子会社経由）**：[[megabanks/mufg]]（三菱 UFJ モルガン・スタンレー証券・三菱 UFJ eスマート証券）· [[megabanks/smfg]]（SMBC 日興証券）· [[megabanks/mizuho-fg]]（みずほ証券）
+- **関連 fintech**：[[megabanks/paypay-fg]] · [[payment-firms/money-forward]] · [[payment-firms/freee]]
 
 ## 出典
 

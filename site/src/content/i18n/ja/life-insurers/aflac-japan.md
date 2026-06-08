@@ -16,7 +16,7 @@ translated_at: 2026-06-02T14:01:20.915Z
 
 ## 要約
 
-米 Aflac Incorporated (NYSE: AFL、本社 米ジョージア州コロンバス) の日本子会社。1974-11 日本初のがん保険を発売、第三分野保険 (がん・医療) で国内 No.1 級の保有契約件数。**2018-04-02 旧日本支店から日本法人「アフラック生命保険株式会社」に転換**し子会社化、同年 **2018-07-12 第一生命 HD ([[dai-ichi-life]]) と戦略的業務・資本提携を締結 (第一生命が議決権ベース約 7%、長期保有目的で取得)**。営業職員 + 代理店 + 銀行窓販 + ネットの 4 チャネルで第三分野シェアを維持。^[extracted]
+米 Aflac Incorporated (NYSE: AFL、本社 米ジョージア州コロンバス) の日本子会社。1974-11 日本初のがん保険を発売、第三分野保険 (がん・医療) で国内 No.1 級の保有契約件数。**2018-04-02 旧日本支店から日本法人「アフラック生命保険株式会社」に転換**し子会社化、同年 **2018-07-12 第一生命 HD ([[life-insurers/dai-ichi-life]]) と戦略的業務・資本提携を締結 (第一生命が議決権ベース約 7%、長期保有目的で取得)**。営業職員 + 代理店 + 銀行窓販 + ネットの 4 チャネルで第三分野シェアを維持。^[extracted]
 
 ## 1. 会社概要
 
@@ -44,7 +44,7 @@ translated_at: 2026-06-02T14:01:20.915Z
 ### 主要株主・資本構造 ^[extracted]
 
 - **Aflac Incorporated (米親会社) が完全所有 (議決権ベース)**
-- ただし 2018-07-12 第一生命 HD ([[dai-ichi-life]]) との戦略的業務・資本提携に基づき、第一生命 HD が **議決権ベースで約 7%** に相当する米親会社 Aflac Incorporated 株を「長期保有目的」で取得 (二段階で取得、米親株ベース) ★
+- ただし 2018-07-12 第一生命 HD ([[life-insurers/dai-ichi-life]]) との戦略的業務・資本提携に基づき、第一生命 HD が **議決権ベースで約 7%** に相当する米親会社 Aflac Incorporated 株を「長期保有目的」で取得 (二段階で取得、米親株ベース) ★
 - 米親会社 Aflac Incorporated 自体の株主は機関投資家中心 (Vanguard / BlackRock / State Street 等のパッシブ運用が主、Wikipedia / 10-K)
 
 ### 主要子会社・グループ
@@ -81,7 +81,7 @@ Aflac Incorporated (米持株会社・NYSE: AFL)
 | 2009 | アフラックダック (Aflac Duck) を日本でも本格的に広告キャラクターに採用 |
 | 2013 | Aflac × 日本郵便 業務提携 (郵便局窓口でアフラックがん保険販売) — 第三分野クロスチャネル拡大 |
 | **2018-04-02** | **旧日本支店から「アフラック生命保険株式会社」へ転換 (新設会社方式で事業全部承継、米親会社 100% 子会社)** ★ ^[extracted] |
-| **2018-07-12** | **第一生命 HD ([[dai-ichi-life]]) と戦略的業務・資本提携を発表。第一生命 HD が米 Aflac Incorporated の議決権ベース約 7% を長期保有目的で取得 (二段階)** ★ ^[extracted] |
+| **2018-07-12** | **第一生命 HD ([[life-insurers/dai-ichi-life]]) と戦略的業務・資本提携を発表。第一生命 HD が米 Aflac Incorporated の議決権ベース約 7% を長期保有目的で取得 (二段階)** ★ ^[extracted] |
 | 2019〜 | 第一生命との提携深化 (営業職員クロスセル、商品共同開発、共同マーケティング) |
 | 2020〜2022 | コロナ禍下で医療保険・就業不能保険需要拡大 / 営業職員のリモート販売対応 |
 | 2024〜 | 中期経営戦略 (Aflac Japan 中計): デジタル直販強化・第一生命チャネル深掘り・高齢化対応商品 |
@@ -95,7 +95,7 @@ Aflac Incorporated (米持株会社・NYSE: AFL)
 
 ### 提携・買収戦略
 
-- **第一生命 HD ([[dai-ichi-life]]) 戦略的業務・資本提携 (2018-07-12)** ★ ^[extracted]
+- **第一生命 HD ([[life-insurers/dai-ichi-life]]) 戦略的業務・資本提携 (2018-07-12)** ★ ^[extracted]
   - 第一生命 HD が米 Aflac Incorporated の議決権ベース約 7% に相当する株を 長期保有目的 で取得 (公表時、二段階で取得計画)
   - 営業職員チャネルでのクロスセル (第一生命の営業職員が アフラックのがん保険を取り扱う)
   - 商品共同開発・共同マーケティング・情報システム協業
@@ -130,10 +130,10 @@ Aflac Incorporated (米持株会社・NYSE: AFL)
 
 ### 競合 (国内第三分野・医療保険)
 
-- **第一生命 [[dai-ichi-life]]**: 提携先かつ第三分野での競合 (がん保険・医療保険ラインアップ)
-- **日本生命 [[nippon-life]]**: 国内最大生保、第三分野シェア拡大中
-- **三井住友海上あいおい生命 [[msad]]**: MS&AD グループ、医療保険主力
-- **メットライフ生命 [[metlife-japan]]**: 外資系、医療保険・終身保険
+- **第一生命 [[life-insurers/dai-ichi-life]]**: 提携先かつ第三分野での競合 (がん保険・医療保険ラインアップ)
+- **日本生命 [[life-insurers/nippon-life]]**: 国内最大生保、第三分野シェア拡大中
+- **三井住友海上あいおい生命 [[non-life-insurers/msad]]**: MS&AD グループ、医療保険主力
+- **メットライフ生命 [[life-insurers/metlife-japan]]**: 外資系、医療保険・終身保険
 - **チューリッヒ生命**: 医療保険のネット直販強み
 - **オリックス生命**: 医療・終身に注力、ダイレクト + 代理店
 - **損保ジャパンひまわり生命** ([[non-life-insurers/sompo|sompo-hd]] 系)
@@ -143,8 +143,8 @@ Aflac Incorporated (米持株会社・NYSE: AFL)
 
 ## 関連
 
-- [[dai-ichi-life]] · [[nippon-life]] · [[life-insurers/meiji-yasuda|meiji-yasuda-life]] · [[sumitomo-life]] · [[kampo-life]]
-- [[metlife-japan]] · [[msad]] · [[non-life-insurers/sompo|sompo-hd]] · [[non-life-insurers/tokio-marine|tokio-marine-hd]]
+- [[life-insurers/dai-ichi-life]] · [[life-insurers/nippon-life]] · [[life-insurers/meiji-yasuda|meiji-yasuda-life]] · [[life-insurers/sumitomo-life]] · [[life-insurers/kampo-life]]
+- [[life-insurers/metlife-japan]] · [[non-life-insurers/msad]] · [[non-life-insurers/sompo|sompo-hd]] · [[non-life-insurers/tokio-marine|tokio-marine-hd]]
 - 第三分野保険・がん保険・医療保険 (wiki/insurance/third-sector-japan)
 
 ## 出典

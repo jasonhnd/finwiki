@@ -15,7 +15,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-Tokushima Taisho Bank, Ltd. is a second regional bank headquartered in Tokushima Prefecture and listed on the FSA bank license list. It is a Tokushima / Osaka cross-market operating bank under [[tomony-hd]] and is treated as a second-regional-bank peer legal entity separate from [[awa-bank|阿波銀行]].
+Tokushima Taisho Bank, Ltd. is a second regional bank headquartered in Tokushima Prefecture and listed on the FSA bank license list. It is a Tokushima / Osaka cross-market operating bank under [[regional-banks/tomony-hd]] and is treated as a second-regional-bank peer legal entity separate from [[regional-banks/awa-bank|阿波銀行]].
 
 ## 1. License / group boundary
 
@@ -23,26 +23,26 @@ Tokushima Taisho Bank, Ltd. is a second regional bank headquartered in Tokushima
 |---|---|
 | Legal name | Tokushima Taisho Bank, Ltd. |
 | License route | Banking Act second regional bank; FSA bank license list |
-| Group boundary | [[tomony-hd]] operating bank |
+| Group boundary | [[regional-banks/tomony-hd]] operating bank |
 | Home market | Tokushima / Tokushima City; Osaka legacy branch network |
 | Wiki role | Tokushima second-regional-bank operating-company page |
 
 ## 2. Operating model
 
-Tokushima Taisho Bank is a second regional bank providing retail deposits, SME finance, local relationship banking, and cross-regional business support around Tokushima Prefecture and the legacy Osaka branch network from the former Taisho Bank. The [[tomony-hd]] page covers group strategy and the two-bank structure; this page covers the bank-license entity. For Shikoku regional-bank consolidation context, see [[banking/regional-bank-consolidation-pattern]].
+Tokushima Taisho Bank is a second regional bank providing retail deposits, SME finance, local relationship banking, and cross-regional business support around Tokushima Prefecture and the legacy Osaka branch network from the former Taisho Bank. The [[regional-banks/tomony-hd]] page covers group strategy and the two-bank structure; this page covers the bank-license entity. For Shikoku regional-bank consolidation context, see [[banking/regional-bank-consolidation-pattern]].
 
 ## 3. Why this page matters
 
 - Closes the FSA exact-name page for Tokushima Taisho Bank.
-- Separates the bank license from [[tomony-hd]] holding-company coverage.
-- Provides a peer anchor for [[awa-bank]] and [[kagawa-bank]] in the Tomony / Shikoku map.
+- Separates the bank license from [[regional-banks/tomony-hd]] holding-company coverage.
+- Provides a peer anchor for [[regional-banks/awa-bank]] and [[regional-banks/kagawa-bank]] in the Tomony / Shikoku map.
 
 ## Related
 
-- [[tomony-hd]]
-- [[awa-bank]]
-- [[kagawa-bank]]
-- [[hyakujushi-bank]]
+- [[regional-banks/tomony-hd]]
+- [[regional-banks/awa-bank]]
+- [[regional-banks/kagawa-bank]]
+- [[regional-banks/hyakujushi-bank]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 

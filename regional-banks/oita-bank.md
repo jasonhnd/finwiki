@@ -54,11 +54,11 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 ## Related
 
 - [[regional-banks/INDEX|regional-banks INDEX]]
-- [[howa-bank]]
-- [[saga-bank]]
-- [[miyazaki-bank]]
-- [[fukuoka-bank]]
-- [[higo-bank]]
+- [[regional-banks/howa-bank]]
+- [[regional-banks/saga-bank]]
+- [[regional-banks/miyazaki-bank]]
+- [[regional-banks/fukuoka-bank]]
+- [[regional-banks/higo-bank]]
 - [[financial-regulators/fsa|FSA]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]

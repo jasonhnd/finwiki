@@ -30,7 +30,7 @@ NN Life Insurance Co., Ltd. is a foreign-affiliated Japan life insurer listed on
 
 ## 2. Operating model
 
-As the Japan operating company of a foreign-affiliated life insurer, NN Life has product / distribution boundaries around corporate and business-owner insurance, death protection, medical coverage, and income protection. FinWiki compares it alongside foreign-affiliated life insurers such as [[aflac-japan]], [[metlife-japan]], [[manulife-japan]], and [[prudential-japan]].
+As the Japan operating company of a foreign-affiliated life insurer, NN Life has product / distribution boundaries around corporate and business-owner insurance, death protection, medical coverage, and income protection. FinWiki compares it alongside foreign-affiliated life insurers such as [[life-insurers/aflac-japan]], [[life-insurers/metlife-japan]], [[life-insurers/manulife-japan]], and [[life-insurers/prudential-japan]].
 
 For foreign-affiliated insurer pages, the priority is not the nationality of the parent company, but the differences in Japan licenses, sales channels, product areas, and agency / financial advisor networks.
 
@@ -42,11 +42,11 @@ For foreign-affiliated insurer pages, the priority is not the nationality of the
 
 ## Related
 
-- [[aflac-japan]]
-- [[metlife-japan]]
-- [[manulife-japan]]
-- [[prudential-japan]]
-- [[axa-japan]]
+- [[life-insurers/aflac-japan]]
+- [[life-insurers/metlife-japan]]
+- [[life-insurers/manulife-japan]]
+- [[life-insurers/prudential-japan]]
+- [[life-insurers/axa-japan]]
 - [[insurance/life-insurance-channel-mix]]
 
 ## Sources

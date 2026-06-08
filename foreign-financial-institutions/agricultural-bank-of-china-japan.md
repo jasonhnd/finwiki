@@ -47,13 +47,13 @@ The customer base includes multinationals, Japanese large and medium-sized enter
 
 - Completes the four mainland China major-bank P1 pages in this batch.
 - Adds a 2013-era China branch expansion case to the Japan foreign-bank map.
-- Provides peer context with [[bank-of-china-japan]], [[icbc-japan]], and [[china-construction-bank-japan]].
+- Provides peer context with [[foreign-financial-institutions/bank-of-china-japan]], [[foreign-financial-institutions/icbc-japan]], and [[foreign-financial-institutions/china-construction-bank-japan]].
 
 ## Related
 
-- [[bank-of-china-japan]]
-- [[icbc-japan]]
-- [[china-construction-bank-japan]]
+- [[foreign-financial-institutions/bank-of-china-japan]]
+- [[foreign-financial-institutions/icbc-japan]]
+- [[foreign-financial-institutions/china-construction-bank-japan]]
 - [[banking/foreign-bank-japan-retreat]]
 - [[banking/INDEX]]
 

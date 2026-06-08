@@ -35,16 +35,16 @@ KB Kookmin Bank 的海外网点页面列出东京支店地址和联系方式。J
 ## 3. 本页意义
 
 - 补完金融厅韩国 P1  分行集合。
-- 将 KB 作为 [[woori-bank-japan]] 和 [[hana-bank-japan]] 的同类对象加入。
-- 明确韩国银行通道，而不把它并入 [[sbj-bank]]。
+- 将 KB 作为 [[foreign-financial-institutions/woori-bank-japan]] 和 [[foreign-financial-institutions/hana-bank-japan]] 的同类对象加入。
+- 明确韩国银行通道，而不把它并入 [[regional-banks/sbj-bank]]。
 
 ## Related
 
-- [[woori-bank-japan]]
-- [[hana-bank-japan]]
-- [[korea-development-bank-japan]]
-- [[industrial-bank-of-korea-japan]]
-- [[sbj-bank]]
+- [[foreign-financial-institutions/woori-bank-japan]]
+- [[foreign-financial-institutions/hana-bank-japan]]
+- [[foreign-financial-institutions/korea-development-bank-japan]]
+- [[foreign-financial-institutions/industrial-bank-of-korea-japan]]
+- [[regional-banks/sbj-bank]]
 - [[banking/foreign-bank-japan-retreat]]
 
 ## Sources

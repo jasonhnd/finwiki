@@ -83,7 +83,7 @@ This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]].
 
 | Competitors | Overlapping areas |
 |---|---|
-| Megabank ([[mufg]] / [[smfg]] / [[mizuho-fg]]) | Medium-sized business financing and overseas expansion support |
+| Megabank ([[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]]) | Medium-sized business financing and overseas expansion support |
 | Regional banks | Regional small and medium-sized enterprise financing and business succession |
 | Shinkin Central Bank / Shinkin Bank | Small and Medium Enterprise Association / Micro Business Loan |
 | Japan Finance Corporation | Crisis response financing/policy finance area |
@@ -100,8 +100,8 @@ This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]].
 
 ## Related
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] (Competitor in the small business loan market)
-- [[ndfg]] (close contact with local financial groups and small and medium-sized enterprises)
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] (Competitor in the small business loan market)
+- [[megabanks/ndfg]] (close contact with local financial groups and small and medium-sized enterprises)
 - *The Shinkin Central Bank and Japan Finance Corporation wikis are not yet developed.
 
 ## Sources

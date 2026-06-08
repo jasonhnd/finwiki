@@ -73,11 +73,11 @@ translated_at: 2026-05-31T23:59:49.346Z
 ```
 JA Group（全国 497  个 JA + 4  大全国联）
   ├── JA 全中（代表、经营咨询、农政）★本页
-  ├── JA 全农（采购、销售、经济事业）→ [[ja-zen-noh]]
-  ├── JA 共济连（共济事业）→ [[ja-kyosairen]]
-  ├── 农林中央金库（信用事业）→ [[norinchukin]]
+  ├── JA 全农（采购、销售、经济事业）→ [[cooperative-banks/ja-zen-noh]]
+  ├── JA 共济连（共济事业）→ [[non-life-insurers/ja-kyosairen]]
+  ├── 农林中央金库（信用事业）→ [[cooperative-banks/norinchukin]]
   ├── 都道府县 JA 中央会（重组推进中）
-  ├── 都道府县信连 → [[ja-shinnoren]]
+  ├── 都道府县信连 → [[cooperative-banks/ja-shinnoren]]
   └── 全国 497  个 JA（个别农业协同组合）
 ```
 

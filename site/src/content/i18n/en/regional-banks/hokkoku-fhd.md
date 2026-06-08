@@ -20,7 +20,7 @@ Current-name route: [[financial-regulators/cci-group|CCI Group]]. This page rema
 
 Hokkoku Financial Holdings was an Ishikawa-based regional bank holding company listed on the Tokyo Stock Exchange Prime Market under code 7381. It was established on 2021-10-01 through a sole-share transfer by Hokkoku Bank and changed its trade name to [[financial-regulators/cci-group|CCI Group]] on 2025-10-01. Although its asset scale sat in the mid-sized regional-bank tier, the group was widely treated as an exceptional digital leader among Japanese regional banks.
 
-Its strategic profile was shaped by an unusually early technology program: adoption of Microsoft Azure in 2008, migration of core banking systems to an open Windows Server and .NET-based architecture in 2010, and replacement of branch-counter terminals with Surface devices in 2017. In 2023, the group launched Digital Value as an ICT consulting subsidiary and introduced the Tonari BaaS platform, positioning itself as a regional-bank-origin digital platform provider. Together with [[fukuoka-fg|Fukuoka Financial Group's Minna Bank]], Hokkoku FHD is one of the reference cases for regional-bank digital transformation in Japan.
+Its strategic profile was shaped by an unusually early technology program: adoption of Microsoft Azure in 2008, migration of core banking systems to an open Windows Server and .NET-based architecture in 2010, and replacement of branch-counter terminals with Surface devices in 2017. In 2023, the group launched Digital Value as an ICT consulting subsidiary and introduced the Tonari BaaS platform, positioning itself as a regional-bank-origin digital platform provider. Together with [[regional-banks/fukuoka-fg|Fukuoka Financial Group's Minna Bank]], Hokkoku FHD is one of the reference cases for regional-bank digital transformation in Japan.
 
 ## 1. Company Profile
 
@@ -75,7 +75,7 @@ The Microsoft and Azure relationship that began in 2008 is one of the longest-ru
 
 ### Competitive Reference Points
 
-The closest digital-transformation reference point is [[fukuoka-fg|Fukuoka Financial Group]], which operates Minna Bank as a cloud-native digital bank. The contrast is important: FFG created a new nationwide digital brand, while Hokkoku FHD digitized the operating base of an existing regional bank and sought to sell that base to peer institutions. The revenue models and transformation routes are therefore materially different.
+The closest digital-transformation reference point is [[regional-banks/fukuoka-fg|Fukuoka Financial Group]], which operates Minna Bank as a cloud-native digital bank. The contrast is important: FFG created a new nationwide digital brand, while Hokkoku FHD digitized the operating base of an existing regional bank and sought to sell that base to peer institutions. The revenue models and transformation routes are therefore materially different.
 
 ### Noto Peninsula Earthquake (2024-01-01)
 
@@ -95,16 +95,16 @@ Because the earthquake affected Ishikawa and the Noto region, maintaining financ
 - How far can Tonari expand in adopted-bank count and revenue scale, and can it displace shared-core arrangements from NTT DATA or BIPROGY-related systems?
 - How material will non-performing-loan risk become in reconstruction lending after the Noto Peninsula earthquake, especially through the 2026-2027 allowance cycle?
 - Can Digital Value expand municipal DX services beyond Ishikawa?
-- Will Hokkoku FHD remain independent, or become involved in regional-bank consolidation initiatives such as SBI's "fourth megabank" concept or neighboring [[hokuhoku-fg|Hokuhoku Financial Group]]?
+- Will Hokkoku FHD remain independent, or become involved in regional-bank consolidation initiatives such as SBI's "fourth megabank" concept or neighboring [[regional-banks/hokuhoku-fg|Hokuhoku Financial Group]]?
 - How far will the Microsoft partnership deepen in generative AI and Copilot-related implementation?
 
 ## 8. Related
 
-- [[fukuoka-fg|Fukuoka Financial Group]] -- the other major regional-bank DX reference case through Minna Bank.
-- [[hokuhoku-fg|Hokuhoku Financial Group]] -- neighboring Hokuriku regional-bank group.
-- [[shizuoka-fg|Shizuoka Financial Group]] / [[concordia-fg|Concordia Financial Group]] / [[mebuki-fg|Mebuki Financial Group]] -- mid-sized to large regional-bank groups.
-- [[mufg|MUFG]] / [[smfg|SMFG]] / [[mizuho-fg|Mizuho Financial Group]] -- megabank references.
-- [[sbi-hd|SBI Holdings]] -- regional-bank alliance strategy under the "fourth megabank" concept.
+- [[regional-banks/fukuoka-fg|Fukuoka Financial Group]] -- the other major regional-bank DX reference case through Minna Bank.
+- [[regional-banks/hokuhoku-fg|Hokuhoku Financial Group]] -- neighboring Hokuriku regional-bank group.
+- [[regional-banks/shizuoka-fg|Shizuoka Financial Group]] / [[regional-banks/concordia-fg|Concordia Financial Group]] / [[regional-banks/mebuki-fg|Mebuki Financial Group]] -- mid-sized to large regional-bank groups.
+- [[megabanks/mufg|MUFG]] / [[megabanks/smfg|SMFG]] / [[megabanks/mizuho-fg|Mizuho Financial Group]] -- megabank references.
+- [[megabanks/sbi-hd|SBI Holdings]] -- regional-bank alliance strategy under the "fourth megabank" concept.
 - Related wiki: [[banking/minna-bank-baas-model|Minna Bank BaaS model comparison]].
 
 ## Sources

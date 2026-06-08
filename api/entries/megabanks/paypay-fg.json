@@ -62,13 +62,13 @@
       "banking/minna-bank-baas-model",
       "megabanks/INDEX",
       "megabanks/au-fh",
-      "mizuho-fg",
-      "mufg",
-      "ndfg",
+      "megabanks/mizuho-fg",
+      "megabanks/mufg",
+      "megabanks/ndfg",
+      "megabanks/sbi-hd",
+      "megabanks/smfg",
       "payment-firms/paypay",
-      "payment-firms/rakuten-fg",
-      "sbi-hd",
-      "smfg"
+      "payment-firms/rakuten-fg"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/banking/INDEX",
@@ -76,21 +76,21 @@
       "https://finwiki.zksc.io/banking/minna-bank-baas-model",
       "https://finwiki.zksc.io/megabanks/INDEX",
       "https://finwiki.zksc.io/megabanks/au-fh",
-      "https://finwiki.zksc.io/mizuho-fg",
-      "https://finwiki.zksc.io/mufg",
-      "https://finwiki.zksc.io/ndfg",
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/ndfg",
+      "https://finwiki.zksc.io/megabanks/sbi-hd",
+      "https://finwiki.zksc.io/megabanks/smfg",
       "https://finwiki.zksc.io/payment-firms/paypay",
-      "https://finwiki.zksc.io/payment-firms/rakuten-fg",
-      "https://finwiki.zksc.io/sbi-hd",
-      "https://finwiki.zksc.io/smfg"
+      "https://finwiki.zksc.io/payment-firms/rakuten-fg"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 8052,
-    "word_like_tokens": 1585,
-    "inbound_wikilinks_count": 45,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 8102,
+    "word_like_tokens": 1590,
+    "inbound_wikilinks_count": 75,
+    "last_modified": "2026-06-08"
   }
 }

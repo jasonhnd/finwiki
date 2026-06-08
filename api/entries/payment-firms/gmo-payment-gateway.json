@@ -54,39 +54,39 @@
     "wikilinks_count": 12,
     "wikilinks": [
       "business/gmo-internet-group",
+      "card-issuers/jcb",
       "fintech/japan-stablecoin-regulatory-landscape",
-      "freee",
-      "jcb",
-      "mercari-hd",
-      "money-forward",
-      "mufg",
-      "paidy",
+      "megabanks/mufg",
+      "megabanks/paypay-fg",
+      "megabanks/smfg",
       "payment-firms/INDEX",
       "payment-firms/famima-digital-one",
-      "paypay-fg",
-      "smfg"
+      "payment-firms/freee",
+      "payment-firms/mercari-hd",
+      "payment-firms/money-forward",
+      "payment-firms/paidy"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/business/gmo-internet-group",
+      "https://finwiki.zksc.io/card-issuers/jcb",
       "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
-      "https://finwiki.zksc.io/freee",
-      "https://finwiki.zksc.io/jcb",
-      "https://finwiki.zksc.io/mercari-hd",
-      "https://finwiki.zksc.io/money-forward",
-      "https://finwiki.zksc.io/mufg",
-      "https://finwiki.zksc.io/paidy",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/paypay-fg",
+      "https://finwiki.zksc.io/megabanks/smfg",
       "https://finwiki.zksc.io/payment-firms/INDEX",
       "https://finwiki.zksc.io/payment-firms/famima-digital-one",
-      "https://finwiki.zksc.io/paypay-fg",
-      "https://finwiki.zksc.io/smfg"
+      "https://finwiki.zksc.io/payment-firms/freee",
+      "https://finwiki.zksc.io/payment-firms/mercari-hd",
+      "https://finwiki.zksc.io/payment-firms/money-forward",
+      "https://finwiki.zksc.io/payment-firms/paidy"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3960,
-    "word_like_tokens": 726,
-    "inbound_wikilinks_count": 34,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 4089,
+    "word_like_tokens": 742,
+    "inbound_wikilinks_count": 36,
+    "last_modified": "2026-06-08"
   }
 }

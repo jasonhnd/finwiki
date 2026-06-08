@@ -53,27 +53,27 @@
       "insurance/INDEX",
       "life-insurers/INDEX",
       "life-insurers/dai-ichi-frontier-life",
-      "msad",
-      "sompo",
-      "tokio-marine",
-      "tokio-marine-nichido-life"
+      "life-insurers/tokio-marine-nichido-life",
+      "non-life-insurers/msad",
+      "non-life-insurers/sompo",
+      "non-life-insurers/tokio-marine"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/insurance/INDEX",
       "https://finwiki.zksc.io/life-insurers/INDEX",
       "https://finwiki.zksc.io/life-insurers/dai-ichi-frontier-life",
-      "https://finwiki.zksc.io/msad",
-      "https://finwiki.zksc.io/sompo",
-      "https://finwiki.zksc.io/tokio-marine",
-      "https://finwiki.zksc.io/tokio-marine-nichido-life"
+      "https://finwiki.zksc.io/life-insurers/tokio-marine-nichido-life",
+      "https://finwiki.zksc.io/non-life-insurers/msad",
+      "https://finwiki.zksc.io/non-life-insurers/sompo",
+      "https://finwiki.zksc.io/non-life-insurers/tokio-marine"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2032,
-    "word_like_tokens": 328,
-    "inbound_wikilinks_count": 5,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 2222,
+    "word_like_tokens": 359,
+    "inbound_wikilinks_count": 8,
+    "last_modified": "2026-06-08"
   }
 }

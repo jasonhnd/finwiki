@@ -141,7 +141,7 @@ The economic implication for the loyalty ecosystem is that **UQ Mobile + povo su
 | Strategic role | Core deposit / savings anchor for the au-economic-zone, integrated with au PAY, au PAY Card, Pontaポイント |
 | Lending products | Personal loan, housing loan, NISA / investment-trust distribution |
 
-au じぶん銀行 ranks among Japan's largest digital banks by deposit balance and account count alongside **[[JapanFG/rakuten-bank|楽天銀行]]**, **PayPay 銀行**, **住信SBI ネット銀行**, and **ソニー銀行** — the "ネット銀行" peer set. The integration with au PAY, au PAY Card, and Pontaポイント accrual makes it a structural component of the loyalty ecosystem rather than a standalone digital-bank product.
+au じぶん銀行 ranks among Japan's largest digital banks by deposit balance and account count alongside **[[banking/rakuten-bank|楽天銀行]]**, **PayPay 銀行**, **住信SBI ネット銀行**, and **ソニー銀行** — the "ネット銀行" peer set. The integration with au PAY, au PAY Card, and Pontaポイント accrual makes it a structural component of the loyalty ecosystem rather than a standalone digital-bank product.
 
 The 2026-05-12 KDDI announcement of **au Financial Holdings' Tokyo Stock Exchange listing preparation** brings au じぶん銀行 (within the au FH consolidation) into the IPO perimeter — the first such IPO candidate among Japanese telco-anchored financial-holding companies. See [[megabanks/au-fh|au Financial Holdings]] for the structural detail.
 

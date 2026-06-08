@@ -15,7 +15,7 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 
 ## TL;DR
 
-Sompo Japan Insurance Inc. is the core non-life insurance operating company of the [[sompo]] group. It is a licensed insurer listed in the FSA non-life insurance company license list and the Non-Life Insurance Policyholders Protection Corporation member list, and it carries the SOMPO group's Japan non-life underwriting, claims, agency, and commercial-risk surface.
+Sompo Japan Insurance Inc. is the core non-life insurance operating company of the [[non-life-insurers/sompo]] group. It is a licensed insurer listed in the FSA non-life insurance company license list and the Non-Life Insurance Policyholders Protection Corporation member list, and it carries the SOMPO group's Japan non-life underwriting, claims, agency, and commercial-risk surface.
 
 ## 1. License / group boundary
 
@@ -24,26 +24,26 @@ Sompo Japan Insurance Inc. is the core non-life insurance operating company of t
 | Legal name | Sompo Japan Insurance Inc. |
 | License route | Insurance Business Act non-life insurance company; FSA non-life insurer list |
 | Protection scheme | Non-Life Insurance Policyholders Protection Corporation member |
-| Group boundary | [[sompo]] core non-life operating company |
+| Group boundary | [[non-life-insurers/sompo]] core non-life operating company |
 | Wiki role | SOMPO group's Japan non-life underwriting arm |
 
 ## 2. Operating model
 
-SOMPO group includes non-life, life, nursing care, digital / health services, and overseas insurance businesses. Sompo Japan Insurance is the domestic non-life operating-company anchor; [[sompo-himawari-life]] is the life-insurance arm.
+SOMPO group includes non-life, life, nursing care, digital / health services, and overseas insurance businesses. Sompo Japan Insurance is the domestic non-life operating-company anchor; [[life-insurers/sompo-himawari-life]] is the life-insurance arm.
 
 ## 3. Why this page matters
 
-- Separates [[sompo]] holding-company strategy from non-life operating-company analysis.
+- Separates [[non-life-insurers/sompo]] holding-company strategy from non-life operating-company analysis.
 - Core peer for Tokio Marine and MS&AD operating-company pages.
 - Registry-backed D3  non-life major page.
 
 ## Related
 
-- [[sompo]]
-- [[sompo-himawari-life]]
-- [[tokio-marine-nichido-fire]]
-- [[mitsui-sumitomo-insurance]]
-- [[aioi-nissay-dowa-insurance]]
+- [[non-life-insurers/sompo]]
+- [[life-insurers/sompo-himawari-life]]
+- [[non-life-insurers/tokio-marine-nichido-fire]]
+- [[non-life-insurers/mitsui-sumitomo-insurance]]
+- [[non-life-insurers/aioi-nissay-dowa-insurance]]
 - [[insurance/natcat-reinsurance-japan]]
 
 ## Sources

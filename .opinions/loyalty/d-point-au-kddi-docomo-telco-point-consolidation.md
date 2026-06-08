@@ -19,7 +19,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## Open questions
 
-- Will [[JapanFG/ndfg|NDFG]] consolidation produce a single integrated telco-financial holding ahead of au FH's existing structure, or will the structures converge from opposite directions?
+- Will [[megabanks/ndfg|NDFG]] consolidation produce a single integrated telco-financial holding ahead of au FH's existing structure, or will the structures converge from opposite directions?
 - How does the [[loyalty/v-point-smbc-ccc-case|V Point]] finance-anchor model compete with the telco-anchor models when both reach the same end-state product set?
 - Will Lawson's KDDI ownership force d Point to lose retail surface at Lawson over time, and how does NTT replace that retail footprint?
 - How do the [[retail/aeon-group|Aeon (WAON)]] and [[retail/seven-and-i-hd|Seven & i (nanaco)]] retail-anchored point programmes interact with telco-anchored programmes, given they share retail surface but compete for daily-use frequency?

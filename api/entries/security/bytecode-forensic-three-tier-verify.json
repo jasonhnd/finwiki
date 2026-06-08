@@ -41,38 +41,36 @@
     "Provenance"
   ],
   "body_links": {
-    "wikilinks_count": 10,
+    "wikilinks_count": 9,
     "wikilinks": [
       "INDEX",
       "exchanges/bybit-lazarus-hack-detailed-analysis",
       "exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis",
       "exchanges/global-crypto-forensics-vendor-layer",
-      "forensic-identity-anchor-chain",
-      "fork-and-rebrand-5-layer-audit-framework",
+      "security/forensic-identity-anchor-chain",
       "security/fork-and-rebrand-5-layer-audit-framework",
+      "security/wayback-machine-as-forensic-tool",
       "systems/INDEX",
-      "systems/formal-spec-implementation-codesign",
-      "wayback-machine-as-forensic-tool"
+      "systems/formal-spec-implementation-codesign"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
       "https://finwiki.zksc.io/exchanges/bybit-lazarus-hack-detailed-analysis",
       "https://finwiki.zksc.io/exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis",
       "https://finwiki.zksc.io/exchanges/global-crypto-forensics-vendor-layer",
-      "https://finwiki.zksc.io/forensic-identity-anchor-chain",
-      "https://finwiki.zksc.io/fork-and-rebrand-5-layer-audit-framework",
+      "https://finwiki.zksc.io/security/forensic-identity-anchor-chain",
       "https://finwiki.zksc.io/security/fork-and-rebrand-5-layer-audit-framework",
+      "https://finwiki.zksc.io/security/wayback-machine-as-forensic-tool",
       "https://finwiki.zksc.io/systems/INDEX",
-      "https://finwiki.zksc.io/systems/formal-spec-implementation-codesign",
-      "https://finwiki.zksc.io/wayback-machine-as-forensic-tool"
+      "https://finwiki.zksc.io/systems/formal-spec-implementation-codesign"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2805,
-    "word_like_tokens": 449,
-    "inbound_wikilinks_count": 14,
-    "last_modified": "2026-05-29"
+    "nonspace_chars": 2832,
+    "word_like_tokens": 452,
+    "inbound_wikilinks_count": 15,
+    "last_modified": "2026-06-08"
   }
 }

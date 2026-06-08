@@ -15,7 +15,7 @@ translated_at: 2026-06-01T00:41:50.445Z
 
 ## TL;DR
 
-定位为继 3  大 megabank（[[mufg]] / [[smfg]] / [[mizuho-fg]]）之后的“**第 4 家 megabank**”。作为**拥有信托功能的商业银行 G**，其不分离信托银行，而是在银行兼业中运营信托功能，是日本首个正式的“**商银 + 信托**”模式。其重整史为 2003-05 公共资金 **1 兆 9600 億円**注入（实质国有化）→ 2015-06 全额偿还。地盘为**首都圈（埼玉）+ 关西**。2021-04 关西未来 FG 完全子公司化 → **2024-04 KMFG 吸收合并・关西未来银 + みなと银直接子公司化**，完成关西整合阶段。FY2024（2025-03 期）净利润 **2,133 億円** / 总资产 **77.4 兆円**。^[extracted]
+定位为继 3  大 megabank（[[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]]）之后的“**第 4 家 megabank**”。作为**拥有信托功能的商业银行 G**，其不分离信托银行，而是在银行兼业中运营信托功能，是日本首个正式的“**商银 + 信托**”模式。其重整史为 2003-05 公共资金 **1 兆 9600 億円**注入（实质国有化）→ 2015-06 全额偿还。地盘为**首都圈（埼玉）+ 关西**。2021-04 关西未来 FG 完全子公司化 → **2024-04 KMFG 吸收合并・关西未来银 + みなと银直接子公司化**，完成关西整合阶段。FY2024（2025-03 期）净利润 **2,133 億円** / 总资产 **77.4 兆円**。^[extracted]
 
 ## 1. 公司概要
 
@@ -43,7 +43,7 @@ Resona HD（持股公司・东证 PRIME 8308）
   │     └── “拥有信托功能的商业银行”模式本体
   ├── 埼玉 Resona 银行（100%）── 继承原朝日银行埼玉县内业务（2003-03 分拆设立）
   ├── 关西未来银行（100%，2024-04 直接子公司化）★ ── 原关西 Urban 银 + 近畿大阪银整合（2019-04）
-  ├── [[minato-bank|みなと銀行]]（100%，2024-04 直接子公司化）★ ── 原阪神银行系
+  ├── [[regional-banks/minato-bank|みなと銀行]]（100%，2024-04 直接子公司化）★ ── 原阪神银行系
   │     ※ 2021-04 关西未来 FG 完全子公司化 → 2024-04 KMFG 吸收合并，消除中间持股
   ├── Resona Asset Management ── 资产管理
   └── （信托功能在子银行内兼业 = 不拥有独立信托银行）
@@ -86,7 +86,7 @@ Resona HD（持股公司・东证 PRIME 8308）
 | 中小企业融资 | Resona 银行・关西未来银行 | 中坚市场特化，与 3 大 megabank 区分 |
 | 信托 / 年金（兼业）| Resona 银行（内置信托功能）| 不设独立信托银行，由银行本体提供 |
 | 资产管理 | Resona Asset Management | 面向个人的投信 / fund wrap |
-| 关西区域 | [[kansai-mirai-bank|関西みらい銀行]]・[[minato-bank|みなと銀行]]（2024-04 直接子公司化）| 关西 Urban + 近畿大阪 + みなと整合体 |
+| 关西区域 | [[regional-banks/kansai-mirai-bank|関西みらい銀行]]・[[regional-banks/minato-bank|みなと銀行]]（2024-04 直接子公司化）| 关西 Urban + 近畿大阪 + みなと整合体 |
 
 ### FY2024 合并决算（2025-03 期，IR 已确认）^[extracted]
 
@@ -110,7 +110,7 @@ Resona HD（持股公司・东证 PRIME 8308）
 
 ### “日本首个正式商业银行 + 信托”模式
 
-- 3 大 megabank（[[mufg]] / [[smfg]] / [[mizuho-fg]]）**将信托银行另设法人**（三菱 UFJ 信托・三井住友信托・Mizuho 信托）
+- 3 大 megabank（[[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]]）**将信托银行另设法人**（三菱 UFJ 信托・三井住友信托・Mizuho 信托）
 - Resona **在银行本体兼业信托功能** → 对中坚客户以“银行窗口一站式信托提供”形成差异化
 
 ### 个人 / 中小企业特化
@@ -133,8 +133,8 @@ Resona HD（持股公司・东证 PRIME 8308）
 
 ### 竞争 / 分工
 
-- vs 3 大 megabank：规模差大（[[mufg]] 总资产 413 兆 vs Resona 数十万亿）→ 在大型 IB / 全球法人融资上不竞争
-- vs 地银（[[ndfg]] 等）：以信托功能和首都圈 / 关西城市部地盘形成差异化
+- vs 3 大 megabank：规模差大（[[megabanks/mufg]] 总资产 413 兆 vs Resona 数十万亿）→ 在大型 IB / 全球法人融资上不竞争
+- vs 地银（[[megabanks/ndfg]] 等）：以信托功能和首都圈 / 关西城市部地盘形成差异化
 
 ## 4. 监管 / 政策
 
@@ -149,7 +149,7 @@ Resona HD（持股公司・东证 PRIME 8308）
 
 ## Related
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[ndfg]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[megabanks/ndfg]]
 - [[banking/post-megabank-positioning]]（定位论）
 
 ## Sources

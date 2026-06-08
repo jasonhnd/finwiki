@@ -19,5 +19,5 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 ## Open questions
 
 - Aviation と Logistics の採算は金利高止まり局面でどれだけ維持できるか。
-- [[JapanFG/mufg|MUFG]] 系取引基盤からの案件供給は、独立系 [[JapanFG/orix-corp|ORIX]] と比べてどれほど優位か。
+- [[megabanks/mufg|MUFG]] 系取引基盤からの案件供給は、独立系 [[leasing-firms/orix-corp|ORIX]] と比べてどれほど優位か。
 - 環境・エネルギー資産はリース会社の新しい成長柱になるか、それとも政策テーマ依存か。

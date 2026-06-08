@@ -53,8 +53,8 @@ translated_at: 2026-06-02T14:01:20.934Z
 - 24
 - 28
 - 250 億円
-- [[fukuoka-fg]]
-- [[resona-hd]]
+- [[regional-banks/fukuoka-fg]]
+- [[megabanks/resona-hd]]
 - ^[extracted]
 - 1
 - 2025-10-01
@@ -207,7 +207,7 @@ translated_at: 2026-06-02T14:01:20.934Z
 - 1,065 億円
 - 28.6%
 - 2
-- [[sumitomo-mitsui-trust]]
+- [[trust-banks/sumitomo-mitsui-trust]]
 - ^[extracted]
 - 2 社
 - ^[extracted]
@@ -223,13 +223,13 @@ translated_at: 2026-06-02T14:01:20.934Z
 - 10 行
 - ^[extracted]
 - ^[extracted]
-- [[resona-hd]]
-- [[fukuoka-fg]]
+- [[megabanks/resona-hd]]
+- [[regional-banks/fukuoka-fg]]
 - 1
-- [[smfg]]
-- [[mufg]]
-- [[mizuho-fg]]
-- [[paypay-fg]]
+- [[megabanks/smfg]]
+- [[megabanks/mufg]]
+- [[megabanks/mizuho-fg]]
+- [[megabanks/paypay-fg]]
 - 1
 - 2018
 - 08
@@ -265,15 +265,15 @@ translated_at: 2026-06-02T14:01:20.934Z
 - ^[extracted]
 - 2024
 - 2025
-- [[mufg]]
-- [[smfg]]
-- [[mizuho-fg]]
-- [[fukuoka-fg]]
-- [[resona-hd]]
-- [[sumitomo-mitsui-trust]]
-- [[paypay-fg]]
-- [[rakuten-fg]]
-- [[sbi-hd]]
+- [[megabanks/mufg]]
+- [[megabanks/smfg]]
+- [[megabanks/mizuho-fg]]
+- [[regional-banks/fukuoka-fg]]
+- [[megabanks/resona-hd]]
+- [[trust-banks/sumitomo-mitsui-trust]]
+- [[megabanks/paypay-fg]]
+- [[payment-firms/rakuten-fg]]
+- [[megabanks/sbi-hd]]
 - 301
 - 2026-05-19
 - 2025 年 3 月

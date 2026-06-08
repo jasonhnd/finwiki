@@ -24,7 +24,7 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 
 ## TL;DR
 
-第一フロンティア生命保険株式会社は、[[dai-ichi-life]] group の life-insurance operating company。金融庁 life-insurer list に載る separate legal entity で、bank / financial-institution channel と相性の高い savings-type / investment-style insurance products を扱う group specialist として見る。
+第一フロンティア生命保険株式会社は、[[life-insurers/dai-ichi-life]] group の life-insurance operating company。金融庁 life-insurer list に載る separate legal entity で、bank / financial-institution channel と相性の高い savings-type / investment-style insurance products を扱う group specialist として見る。
 
 ## 1. License / group boundary
 
@@ -33,12 +33,12 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 | Legal name | 第一フロンティア生命保険株式会社 |
 | License route | Insurance Business Act life-insurance company; FSA life insurer list |
 | Industry body | Life Insurance Association of Japan member |
-| Group boundary | [[dai-ichi-life]] group operating company |
+| Group boundary | [[life-insurers/dai-ichi-life]] group operating company |
 | Wiki role | Dai-ichi Life group specialist life insurer, especially financial-institution channel |
 
 ## 2. Operating model
 
-第一生命 group は holding-company / operating-company structure を持つ。[[dai-ichi-life]] parent page では group-wide capital and strategy を扱い、本ページでは 第一フロンティア生命の product / channel boundary を扱う。
+第一生命 group は holding-company / operating-company structure を持つ。[[life-insurers/dai-ichi-life]] parent page では group-wide capital and strategy を扱い、本ページでは 第一フロンティア生命の product / channel boundary を扱う。
 
 銀行窓販・金融機関代理店を通じる savings-type insurance は、traditional protection products と異なり、interest-rate environment, market risk, customer suitability, sales-conduct regulation の影響を受けやすい。FinWiki では [[insurance/life-insurance-channel-mix]] から参照する specialist page にする。
 
@@ -50,11 +50,11 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 
 ## Related
 
-- [[dai-ichi-life]]
+- [[life-insurers/dai-ichi-life]]
 - [[insurance/life-insurance-channel-mix]]
 - [[insurance/economic-value-based-solvency]]
-- [[mizuho-fg]]
-- [[smtb]]
+- [[megabanks/mizuho-fg]]
+- [[trust-banks/smtb]]
 
 ## Sources
 

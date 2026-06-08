@@ -49,46 +49,44 @@
     "県内地盤戦略"
   ],
   "body_links": {
-    "wikilinks_count": 14,
+    "wikilinks_count": 13,
     "wikilinks": [
       "banking/INDEX",
       "banking/minna-bank-baas-model",
-      "fukuoka-fg",
-      "hachijuni-bank",
-      "ikeda-senshu-hd",
-      "kyoto-fg",
-      "mizuho-fg",
-      "mufg",
+      "megabanks/mizuho-fg",
+      "megabanks/mufg",
+      "megabanks/resona-hd",
+      "megabanks/smfg",
       "regional-banks/INDEX",
+      "regional-banks/fukuoka-fg",
+      "regional-banks/hachijuni-bank",
       "regional-banks/ikeda-senshu-hd",
-      "resona-hd",
-      "shizuoka-fg",
-      "smfg",
-      "tomony-hd"
+      "regional-banks/kyoto-fg",
+      "regional-banks/shizuoka-fg",
+      "regional-banks/tomony-hd"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/minna-bank-baas-model",
-      "https://finwiki.zksc.io/fukuoka-fg",
-      "https://finwiki.zksc.io/hachijuni-bank",
-      "https://finwiki.zksc.io/ikeda-senshu-hd",
-      "https://finwiki.zksc.io/kyoto-fg",
-      "https://finwiki.zksc.io/mizuho-fg",
-      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/resona-hd",
+      "https://finwiki.zksc.io/megabanks/smfg",
       "https://finwiki.zksc.io/regional-banks/INDEX",
+      "https://finwiki.zksc.io/regional-banks/fukuoka-fg",
+      "https://finwiki.zksc.io/regional-banks/hachijuni-bank",
       "https://finwiki.zksc.io/regional-banks/ikeda-senshu-hd",
-      "https://finwiki.zksc.io/resona-hd",
-      "https://finwiki.zksc.io/shizuoka-fg",
-      "https://finwiki.zksc.io/smfg",
-      "https://finwiki.zksc.io/tomony-hd"
+      "https://finwiki.zksc.io/regional-banks/kyoto-fg",
+      "https://finwiki.zksc.io/regional-banks/shizuoka-fg",
+      "https://finwiki.zksc.io/regional-banks/tomony-hd"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4808,
-    "word_like_tokens": 758,
-    "inbound_wikilinks_count": 0,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 5183,
+    "word_like_tokens": 805,
+    "inbound_wikilinks_count": 3,
+    "last_modified": "2026-06-08"
   }
 }

@@ -17,7 +17,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## 推論 (from 4. KPI table (concept) ^[ambiguous])
 
-| 業績開示 | [[mebuki-fg]] 連結ベース ^[inferred] |
+| 業績開示 | [[regional-banks/mebuki-fg]] 連結ベース ^[inferred] |
 
 ## 推論 (from 強みと弱み)
 
@@ -27,12 +27,12 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 - 「地銀系証券 = 中途半端」論: 大手証券にもネット証券にも勝てない中間ポジション vs 銀証連携の優位性 ^[ambiguous]
 - 「単独存続困難」論: 預かり資産 / 手数料収益規模で大手 IB に劣後、統合 / 売却シナリオ ^[inferred]
-- 「FG 内利益相反」: [[mebuki-fg]] 銀行優先 vs 証券独立性のバランス ^[inferred]
+- 「FG 内利益相反」: [[regional-banks/mebuki-fg]] 銀行優先 vs 証券独立性のバランス ^[inferred]
 - 「デジタル投資余力」: 地銀系証券単独で対面 → デジタルへの transition 投資は限定的 ^[inferred]
 
 ## Open questions
 
-- 預かり資産・口座数の最新規模は ([[mebuki-fg]] セグメント情報で開示は限定的)
-- 大手証券 ([[smbc-nikko]] / [[nomura-hd]]) との将来統合・業務提携シナリオ
+- 預かり資産・口座数の最新規模は ([[regional-banks/mebuki-fg]] セグメント情報で開示は限定的)
+- 大手証券 ([[securities-firms/smbc-nikko]] / [[securities-firms/nomura-hd]]) との将来統合・業務提携シナリオ
 - 銀証連携深化策の具体的 KPI 目標
-- [[ffg-securities]] / [[okasan-sg]] 等の地銀系・中堅証券との broader アライアンス可能性
+- [[securities-firms/ffg-securities]] / [[securities-firms/okasan-sg]] 等の地銀系・中堅証券との broader アライアンス可能性

@@ -23,7 +23,7 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it
 
 ## TL;DR
 
-**日本初のネット証券** (1998-05 オンライン株式取引開始、対面店舗全廃の先駆け) として知られる中堅オンライン証券 (東証 PRIME 8628)。1918 年に松井房吉が創業した老舗証券で、1995-04 に 4 代目 **松井道夫** が社長就任後、対面リテール証券からネット専業へ業態転換した日本ネット証券パイオニア。**信用取引 1 日定額制**や個人投資家向け投資情報アプリで差別化し、顧客口座数約 150 万、ネット証券上位 5 行に次ぐ中堅ポジション。現在は **SBI 証券**（[[sbi-hd]] 内）/ **楽天証券**（[[rakuten-fg]] 内）/ **マネックス証券**（[[monex-group]] 内）等が大手として先行し、松井証券は独立系オンライン証券として独自路線を維持。
+**日本初のネット証券** (1998-05 オンライン株式取引開始、対面店舗全廃の先駆け) として知られる中堅オンライン証券 (東証 PRIME 8628)。1918 年に松井房吉が創業した老舗証券で、1995-04 に 4 代目 **松井道夫** が社長就任後、対面リテール証券からネット専業へ業態転換した日本ネット証券パイオニア。**信用取引 1 日定額制**や個人投資家向け投資情報アプリで差別化し、顧客口座数約 150 万、ネット証券上位 5 行に次ぐ中堅ポジション。現在は **SBI 証券**（[[megabanks/sbi-hd]] 内）/ **楽天証券**（[[payment-firms/rakuten-fg]] 内）/ **マネックス証券**（[[securities-firms/monex-group]] 内）等が大手として先行し、松井証券は独立系オンライン証券として独自路線を維持。
 
 ## 1. 会社概要
 
@@ -39,7 +39,7 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it
 
 ### 業態の特異性
 
-松井証券はメガバンク系・通信系・流通系のいずれにも属さない**独立系ネット証券**。グループ内に銀行・保険・暗号資産事業を持たず、**証券業（特にネット株式売買・信用取引・投資信託）に純粋特化**するシンプルな事業構造が特徴。これは [[monex-group]]（暗号資産・米国ブローカー併設）や [[sbi-hd]]（銀行・保険・地銀連合）といった「総合プラットフォーム型」ネット証券大手とは対極のモデル。
+松井証券はメガバンク系・通信系・流通系のいずれにも属さない**独立系ネット証券**。グループ内に銀行・保険・暗号資産事業を持たず、**証券業（特にネット株式売買・信用取引・投資信託）に純粋特化**するシンプルな事業構造が特徴。これは [[securities-firms/monex-group]]（暗号資産・米国ブローカー併設）や [[megabanks/sbi-hd]]（銀行・保険・地銀連合）といった「総合プラットフォーム型」ネット証券大手とは対極のモデル。
 
 ### 重要年表（公開情報ベース）
 
@@ -78,10 +78,10 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it
 
 ネット証券業界は 2020 年代後半までに以下の上位プレイヤーで集約が実施：
 
-- **SBI 証券**（[[sbi-hd]] 内）: 口座数最大、手数料無料化先導
-- **楽天証券**（[[rakuten-fg]] 内）: 楽天経済圏連携で急成長
-- **マネックス証券**（[[monex-group]] 内）: 米国株強み + NTT ドコモ系金融 [[ndfg]] への統合（2026 予定）
-- **auカブコム証券**（旧 auカブドットコム → 三菱 UFJ eスマート証券、[[mufg]] 傘下に再移管）
+- **SBI 証券**（[[megabanks/sbi-hd]] 内）: 口座数最大、手数料無料化先導
+- **楽天証券**（[[payment-firms/rakuten-fg]] 内）: 楽天経済圏連携で急成長
+- **マネックス証券**（[[securities-firms/monex-group]] 内）: 米国株強み + NTT ドコモ系金融 [[megabanks/ndfg]] への統合（2026 予定）
+- **auカブコム証券**（旧 auカブドットコム → 三菱 UFJ eスマート証券、[[megabanks/mufg]] 傘下に再移管）
 - **松井証券**: 独立系中堅、口座数約 150 万
 
 松井証券は上位 4 行（SBI / 楽天 / マネックス / au系）に次ぐ「上位 5 行に次ぐ中堅」ポジション。独立系を維持しつつ、信用取引 1 日定額制や投資情報アプリで差別化する戦略。
@@ -106,8 +106,8 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it
 
 ## Related
 
-- [[sbi-hd]] · [[rakuten-fg]] · [[monex-group]] · [[mufg]] · [[ndfg]]
-- [[nomura-hd]] · [[daiwa-sg]] · [[smbc-nikko]]
+- [[megabanks/sbi-hd]] · [[payment-firms/rakuten-fg]] · [[securities-firms/monex-group]] · [[megabanks/mufg]] · [[megabanks/ndfg]]
+- [[securities-firms/nomura-hd]] · [[securities-firms/daiwa-sg]] · [[securities-firms/smbc-nikko]]
 
 ## Sources
 

@@ -15,7 +15,7 @@ This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-i
 
 ## TL;DR
 
-A branch in Japan of **Wells Fargo & Company** (NYSE: WFC, G-SIB Bucket 1), a part of the large U.S. commercial bank 4 . **Corporate-specialized** Our main focus is to support US companies expanding into Japan and to support Japanese banks and Japanese companies in their US operations. Retail (for individuals) is not available in Japan. Transaction banking, foreign exchange/trade finance, and global cash management are the mainstays of 3 . The United States itself is facing management issues due to the fake account incident after 2016 年, but after 2024 年, it is entering a regrowth phase with a view to lifting the Federal Reserve's asset limit. Its presence in Japan is smaller than that of Citi [[citigroup-japan]] / JP Morgan [[jpmorgan-japan]] / Bank of America, and has a niche specialized in wholesale. ^[extracted]
+A branch in Japan of **Wells Fargo & Company** (NYSE: WFC, G-SIB Bucket 1), a part of the large U.S. commercial bank 4 . **Corporate-specialized** Our main focus is to support US companies expanding into Japan and to support Japanese banks and Japanese companies in their US operations. Retail (for individuals) is not available in Japan. Transaction banking, foreign exchange/trade finance, and global cash management are the mainstays of 3 . The United States itself is facing management issues due to the fake account incident after 2016 年, but after 2024 年, it is entering a regrowth phase with a view to lifting the Federal Reserve's asset limit. Its presence in Japan is smaller than that of Citi [[foreign-financial-institutions/citigroup-japan]] / JP Morgan [[foreign-financial-institutions/jpmorgan-japan]] / Bank of America, and has a niche specialized in wholesale. ^[extracted]
 
 ## 1. Company profile
 
@@ -96,15 +96,15 @@ It is definitely different from Japanese city banks and Citibank Japan (formerly
 
 - **Corporate specialized niche**: Specializing in US Japanese companies (US head office/Japanese subsidiary) + US business support for Japanese banks
 - **Conflict**:
-  - [[citigroup-japan]] (City): Also specialized in corporations, larger scale/global IB strong
-  - [[jpmorgan-japan]] (JP Morgan): Largest global IB/M&A/trading company
+  - [[foreign-financial-institutions/citigroup-japan]] (City): Also specialized in corporations, larger scale/global IB strong
+  - [[foreign-financial-institutions/jpmorgan-japan]] (JP Morgan): Largest global IB/M&A/trading company
   - Bank of America Tokyo Branch: Also a branch in Japan of the US 4 , specializing in wholesale.
   - **Wells Fargo's differentiation**: Utilizing the U.S. network (small businesses, mortgage loans, and Western customer base) to conduct bilateral business between Japan and the U.S.
 - **No retail expansion**: Wells Fargo has not entered the Japanese retail market in the first place, given the history of its sale from Citibank (formerly known as Citibank) to SMBC Trust. A common pattern among US megabanks is withdrawal from Japanese retail.
 
 ### Services for Japanese banks
 
-- **US dollar settlement correspondent**: US dollar clearing/correspondent backup for mega banks such as [[mufg]] / [[smfg]] / [[mizuho-fg]] etc.
+- **US dollar settlement correspondent**: US dollar clearing/correspondent backup for mega banks such as [[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]] etc.
 - **US market access**: Local support when Japanese banks expand into the US (vs. MUFG Americas Holdings' reverse operations)
 
 ## 5. Regulation/Policy
@@ -117,8 +117,8 @@ It is definitely different from Japanese city banks and Citibank Japan (formerly
 
 ## Related
 
-- [[citigroup-japan]] · [[jpmorgan-japan]] · [[foreign-financial-institutions/bank-of-america-japan|bank-of-america-japan]]
-- [[mufg]] · [[smfg]] · [[mizuho-fg]]
+- [[foreign-financial-institutions/citigroup-japan]] · [[foreign-financial-institutions/jpmorgan-japan]] · [[foreign-financial-institutions/bank-of-america-japan|bank-of-america-japan]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]
 
 ## Sources
 

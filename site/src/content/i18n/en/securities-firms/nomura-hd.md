@@ -15,7 +15,7 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it
 
 ## TL;DR
 
-Japan's largest independent securities group by net revenue. It originated from "Nomura Securities," which became independent from the securities department of Osaka Nomura Bank in 1925-12-25, and was launched as a holding company in 2001-10-01. **Domestic retail (about 130 branches) + wholesale (IB / Markets) + investment management (Nomura AM, domestic No.2  class) + Instinet (U.S. electronic trading) are the 4  axes**. In 2008-10  it acquired Lehman Brothers' Asia / Europe / Middle East operations for about 2 億 dollars and accelerated globalization, while maintaining an "independent" position different from megabank-affiliated securities firms ([[mufg]] MUMSS, [[smfg]] SMBC Nikko, [[mizuho-fg]] Mizuho Securities). ^[extracted]
+Japan's largest independent securities group by net revenue. It originated from "Nomura Securities," which became independent from the securities department of Osaka Nomura Bank in 1925-12-25, and was launched as a holding company in 2001-10-01. **Domestic retail (about 130 branches) + wholesale (IB / Markets) + investment management (Nomura AM, domestic No.2  class) + Instinet (U.S. electronic trading) are the 4  axes**. In 2008-10  it acquired Lehman Brothers' Asia / Europe / Middle East operations for about 2 億 dollars and accelerated globalization, while maintaining an "independent" position different from megabank-affiliated securities firms ([[megabanks/mufg]] MUMSS, [[megabanks/smfg]] SMBC Nikko, [[megabanks/mizuho-fg]] Mizuho Securities). ^[extracted]
 
 ## 1. Company overview
 
@@ -182,8 +182,8 @@ Nomura HD (listed holding company 8604)
 
 ## Related
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[sbi-hd]] · [[megabanks/resona-hd|rsh]]
-- [[ndfg]] · [[securities-firms/daiwa-sg|daiwa-securities]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[megabanks/sbi-hd]] · [[megabanks/resona-hd|rsh]]
+- [[megabanks/ndfg]] · [[securities-firms/daiwa-sg|daiwa-securities]]
 - [[securities/nisa-2024-flow]]
 
 ## Sources

@@ -101,7 +101,7 @@ For **NTT Corp parent**:
 |---|---|---|
 | Source of operating profit | Telco subscriber base | Card / Bank / Securities |
 | Destination of subsidy / capex | Finance product distribution | Mobile network buildout |
-| Bank balance sheet | Partner (SMBC) | Owned ([[JapanFG/rakuten-bank|Rakuten Bank]]) |
+| Bank balance sheet | Partner (SMBC) | Owned ([[banking/rakuten-bank|Rakuten Bank]]) |
 | Securities | Partner (limited build) | Owned ([[securities-firms/rakuten-securities|Rakuten Securities]], partial sold to Mizuho) |
 | Capex profile | Light (no network build for finance) | Heavy (mobile network) |
 | Conglomerate-discount risk | Low | High |

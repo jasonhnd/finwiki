@@ -16,7 +16,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ##TL;DR
 
-This page is a regional bank group based in the eastern part of the Chugoku region, whose head office is located in Marunouchi, Okayama City, Okayama Prefecture. The current bank-license operating-company boundary is [[chugoku-bank|中国銀行]] This page will remain as a route for Chugin FG / historical strategy / Bank of China confusion-control.1930-12-21 Founded through the merger of Daiichi Godo Bank + Sanyo Bank, its origins are 1878 It dates back to the establishment of the **86th National Bank** (Takahashi). **2022-10-03 Through stock transfer, a new holding company, Chugin Financial Group, was established, and the bank was listed solely (formerly known as Chugin Financial Group). 8382) to FG Listing (TSE PRIME 5832) to **.2025-03 Consolidated net income**274 億円** (+ compared to the previous year28.2%, the highest level ever). **TSUBASA Alliance (Chiba Bank Hub/10 行)**Founding member and core bank for regional bank wide-area cooperation 1 Two.^[extracted]
+This page is a regional bank group based in the eastern part of the Chugoku region, whose head office is located in Marunouchi, Okayama City, Okayama Prefecture. The current bank-license operating-company boundary is [[regional-banks/chugoku-bank|中国銀行]] This page will remain as a route for Chugin FG / historical strategy / Bank of China confusion-control.1930-12-21 Founded through the merger of Daiichi Godo Bank + Sanyo Bank, its origins are 1878 It dates back to the establishment of the **86th National Bank** (Takahashi). **2022-10-03 Through stock transfer, a new holding company, Chugin Financial Group, was established, and the bank was listed solely (formerly known as Chugin Financial Group). 8382) to FG Listing (TSE PRIME 5832) to **.2025-03 Consolidated net income**274 億円** (+ compared to the previous year28.2%, the highest level ever). **TSUBASA Alliance (Chiba Bank Hub/10 行)**Founding member and core bank for regional bank wide-area cooperation 1 Two.^[extracted]
 
 ## 1. Company Profile
 
@@ -105,9 +105,9 @@ Chugin FG (Holding company/Listed company) 5832）
 ### Competitive relationship
 
 - **Within the prefecture 2 位**: Tomato Bank (Second regional bank affiliated with former Sanyo Sogo Bank, Okayama City main branch)
-- **Western Chugoku Region**: [[hirogin-hd]](Hiroshima Bank),[[yamaguchi-fg]](Yamaguchi Bank, Momiji Bank, Kitakyushu Bank 3 行system)
-- **San'in**: [[san-in-godo-bank]](Sanin Godo Bank, Yonago/Matsue ground)
-- **Shikoku side**: 114 Bank (Takamatsu, Kagawa Prefecture), Iyo Bank ([[iyogin-hd]], Kagawa is overlapping competition/cooperation with TSUBASA alliance)
+- **Western Chugoku Region**: [[regional-banks/hirogin-hd]](Hiroshima Bank),[[regional-banks/yamaguchi-fg]](Yamaguchi Bank, Momiji Bank, Kitakyushu Bank 3 行system)
+- **San'in**: [[regional-banks/san-in-godo-bank]](Sanin Godo Bank, Yonago/Matsue ground)
+- **Shikoku side**: 114 Bank (Takamatsu, Kagawa Prefecture), Iyo Bank ([[regional-banks/iyogin-hd]], Kagawa is overlapping competition/cooperation with TSUBASA alliance)
 
 ### TSUBASA Alliance (2015-10 Inauguration, founding members)
 
@@ -147,9 +147,9 @@ Chugin FG (Holding company/Listed company) 5832）
 
 ## Related
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[resona-hd]]
-- Chugoku regional banks: [[hirogin-hd]] · [[yamaguchi-fg]] · [[san-in-godo-bank]]
-- TSUBASA alliance line: [[iyogin-hd]] (Iyo Bank) · Chiba Bank · Daishi Hokuetsu · Hokuyo Bank · Musashino Bank · Shiga Bank · Ryukyu Bank · Gunma Bank · Toho Bank
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[megabanks/resona-hd]]
+- Chugoku regional banks: [[regional-banks/hirogin-hd]] · [[regional-banks/yamaguchi-fg]] · [[regional-banks/san-in-godo-bank]]
+- TSUBASA alliance line: [[regional-banks/iyogin-hd]] (Iyo Bank) · Chiba Bank · Daishi Hokuetsu · Hokuyo Bank · Musashino Bank · Shiga Bank · Ryukyu Bank · Gunma Bank · Toho Bank
 - Competitor within the prefecture: Tomato Bank (Okayama prefecture second regional bank)
 
 ## Sources

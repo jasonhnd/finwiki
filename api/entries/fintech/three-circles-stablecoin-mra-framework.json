@@ -45,46 +45,44 @@
     "Related"
   ],
   "body_links": {
-    "wikilinks_count": 14,
+    "wikilinks_count": 13,
     "wikilinks": [
       "INDEX",
       "fintech/INDEX",
       "fintech/carf-1099da-end-of-crypto-anonymity",
       "fintech/genius-act-501-denylist-mandate",
+      "fintech/india-anti-dollar-dpi-alliance",
       "fintech/japan-epi-three-types-overview",
       "fintech/japan-financial-regulation",
       "fintech/japan-stablecoin-regulatory-landscape",
       "fintech/mica-overview",
       "fintech/stablecoin-chain-sovereign-currency-divide",
-      "india-anti-dollar-dpi-alliance",
       "megabanks/mufg",
       "payment-firms/jpyc",
-      "payment-firms/progmat",
-      "stablecoin-chain-sovereign-currency-divide"
+      "payment-firms/progmat"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
       "https://finwiki.zksc.io/fintech/INDEX",
       "https://finwiki.zksc.io/fintech/carf-1099da-end-of-crypto-anonymity",
       "https://finwiki.zksc.io/fintech/genius-act-501-denylist-mandate",
+      "https://finwiki.zksc.io/fintech/india-anti-dollar-dpi-alliance",
       "https://finwiki.zksc.io/fintech/japan-epi-three-types-overview",
       "https://finwiki.zksc.io/fintech/japan-financial-regulation",
       "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
       "https://finwiki.zksc.io/fintech/mica-overview",
       "https://finwiki.zksc.io/fintech/stablecoin-chain-sovereign-currency-divide",
-      "https://finwiki.zksc.io/india-anti-dollar-dpi-alliance",
       "https://finwiki.zksc.io/megabanks/mufg",
       "https://finwiki.zksc.io/payment-firms/jpyc",
-      "https://finwiki.zksc.io/payment-firms/progmat",
-      "https://finwiki.zksc.io/stablecoin-chain-sovereign-currency-divide"
+      "https://finwiki.zksc.io/payment-firms/progmat"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2908,
-    "word_like_tokens": 476,
+    "nonspace_chars": 2924,
+    "word_like_tokens": 478,
     "inbound_wikilinks_count": 59,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-08"
   }
 }

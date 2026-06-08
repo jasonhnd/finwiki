@@ -17,7 +17,7 @@ translated_at: 2026-06-02T14:25:12.414Z
 
 ## 要約
 
-株式会社豊和銀行は、金融庁の銀行免許一覧に掲載される大分県本店の第二地方銀行。大分県の第二地方銀行運営会社アンカーであり、[[oita-bank]] とは別法人の地域比較対象として扱う。
+株式会社豊和銀行は、金融庁の銀行免許一覧に掲載される大分県本店の第二地方銀行。大分県の第二地方銀行運営会社アンカーであり、[[regional-banks/oita-bank]] とは別法人の地域比較対象として扱う。
 
 ## 1. ライセンス・グループ境界
 
@@ -31,7 +31,7 @@ translated_at: 2026-06-02T14:25:12.414Z
 
 ## 2. 運営モデル
 
-豊和銀行は、大分県内の個人預金、中小企業金融、個人向け銀行業務、地域リレーションシップバンキングを担う第二地方銀行である。[[oita-bank]] ページは第一地方銀行の既存行を扱い、本ページは第二地方銀行のライセンス境界を扱う。九州の第二地方銀行の整理動向は [[banking/regional-bank-consolidation-pattern]] を参照。
+豊和銀行は、大分県内の個人預金、中小企業金融、個人向け銀行業務、地域リレーションシップバンキングを担う第二地方銀行である。[[regional-banks/oita-bank]] ページは第一地方銀行の既存行を扱い、本ページは第二地方銀行のライセンス境界を扱う。九州の第二地方銀行の整理動向は [[banking/regional-bank-consolidation-pattern]] を参照。
 
 ## 3. このページが重要な理由
 
@@ -41,9 +41,9 @@ translated_at: 2026-06-02T14:25:12.414Z
 
 ## 関連項目
 
-- [[oita-bank]]
-- [[fukuoka-fg]]
-- [[nishi-nippon-fhd]]
+- [[regional-banks/oita-bank]]
+- [[regional-banks/fukuoka-fg]]
+- [[regional-banks/nishi-nippon-fhd]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 

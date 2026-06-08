@@ -54,33 +54,33 @@
       "banking/INDEX",
       "banking/post-megabank-positioning",
       "foreign-financial-institutions/citigroup-japan",
-      "kansai-mirai-bank",
       "megabanks/INDEX",
-      "minato-bank",
-      "mizuho-fg",
-      "mufg",
-      "ndfg",
-      "smfg"
+      "megabanks/mizuho-fg",
+      "megabanks/mufg",
+      "megabanks/ndfg",
+      "megabanks/smfg",
+      "regional-banks/kansai-mirai-bank",
+      "regional-banks/minato-bank"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/post-megabank-positioning",
       "https://finwiki.zksc.io/foreign-financial-institutions/citigroup-japan",
-      "https://finwiki.zksc.io/kansai-mirai-bank",
       "https://finwiki.zksc.io/megabanks/INDEX",
-      "https://finwiki.zksc.io/minato-bank",
-      "https://finwiki.zksc.io/mizuho-fg",
-      "https://finwiki.zksc.io/mufg",
-      "https://finwiki.zksc.io/ndfg",
-      "https://finwiki.zksc.io/smfg"
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/ndfg",
+      "https://finwiki.zksc.io/megabanks/smfg",
+      "https://finwiki.zksc.io/regional-banks/kansai-mirai-bank",
+      "https://finwiki.zksc.io/regional-banks/minato-bank"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4410,
-    "word_like_tokens": 757,
-    "inbound_wikilinks_count": 17,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 4575,
+    "word_like_tokens": 775,
+    "inbound_wikilinks_count": 32,
+    "last_modified": "2026-06-08"
   }
 }

@@ -54,8 +54,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 ## Related
 
 - [[regional-banks/INDEX|regional-banks INDEX]]
-- [[yokohama-bank]]
-- [[concordia-fg]]
+- [[regional-banks/yokohama-bank]]
+- [[regional-banks/concordia-fg]]
 - [[financial-regulators/fsa|FSA]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]

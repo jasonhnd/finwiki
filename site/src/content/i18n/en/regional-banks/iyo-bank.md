@@ -17,7 +17,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-株式会社伊予銀行は、金融庁の銀行免許一覧に掲載される愛媛県本店の地方銀行。[[iyogin-hd]] の core operating bank であり、愛媛県内 No.1 regional-bank operating-company anchor として扱う。
+株式会社伊予銀行は、金融庁の銀行免許一覧に掲載される愛媛県本店の地方銀行。[[regional-banks/iyogin-hd]] の core operating bank であり、愛媛県内 No.1 regional-bank operating-company anchor として扱う。
 
 ## 1. License / group boundary
 
@@ -25,27 +25,27 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 |---|---|
 | Legal name | 株式会社伊予銀行 |
 | License route | Banking Act regional bank; FSA bank license list |
-| Group boundary | [[iyogin-hd]] core operating bank |
+| Group boundary | [[regional-banks/iyogin-hd]] core operating bank |
 | Home market | Ehime / Matsuyama |
 | Wiki role | Ehime first-regional-bank operating-company page |
 
 ## 2. Operating model
 
-伊予銀行は、愛媛県を中心に retail deposits, SME finance, maritime / shipbuilding cluster finance, and Shikoku-wide corporate support を担う regional bank。[[iyogin-hd]] page は holding-company strategy and capital policy を扱い、本ページは bank-license entity を扱う。Shikoku regional-bank consolidation context は [[banking/regional-bank-consolidation-pattern]] を参照。
+伊予銀行は、愛媛県を中心に retail deposits, SME finance, maritime / shipbuilding cluster finance, and Shikoku-wide corporate support を担う regional bank。[[regional-banks/iyogin-hd]] page は holding-company strategy and capital policy を扱い、本ページは bank-license entity を扱う。Shikoku regional-bank consolidation context は [[banking/regional-bank-consolidation-pattern]] を参照。
 
 ## 3. Why this page matters
 
 - Closes the FSA exact-name operating-company gap for 伊予銀行.
-- Separates the bank license from [[iyogin-hd]] holding-company strategy.
-- Provides a peer anchor for [[ehime-bank]], [[hyakujushi-bank]], [[awa-bank]], and [[shikoku-bank]].
+- Separates the bank license from [[regional-banks/iyogin-hd]] holding-company strategy.
+- Provides a peer anchor for [[regional-banks/ehime-bank]], [[regional-banks/hyakujushi-bank]], [[regional-banks/awa-bank]], and [[regional-banks/shikoku-bank]].
 
 ## Related
 
-- [[iyogin-hd]]
-- [[ehime-bank]]
-- [[hyakujushi-bank]]
-- [[awa-bank]]
-- [[shikoku-bank]]
+- [[regional-banks/iyogin-hd]]
+- [[regional-banks/ehime-bank]]
+- [[regional-banks/hyakujushi-bank]]
+- [[regional-banks/awa-bank]]
+- [[regional-banks/shikoku-bank]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 

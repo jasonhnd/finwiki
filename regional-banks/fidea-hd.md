@@ -26,7 +26,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-山形 + 秋田を地盤とする中堅地銀 FG。2009-10-01 **荘内銀行**（山形県地盤）+ **北都銀行**（秋田県地盤）の共同株式移転により発足し、東日本初の県境を越えた地銀統合事例として注目された。2026-05-21 現在の wiki boundary では、[[shonai-bank]] と [[hokuto-bank]] が operating banks、[[tohoku-bank]] は 2022-02 に経営統合基本合意が解除された別会社として扱う。北都銀行公式 profile は、北都銀行と荘内銀行が 2027-01 に合併し「フィデア銀行」として発足する予定を示している。社名 Fidea = ラテン語「信頼（fides）」+「理念（idea）」の造語。^[extracted]
+山形 + 秋田を地盤とする中堅地銀 FG。2009-10-01 **荘内銀行**（山形県地盤）+ **北都銀行**（秋田県地盤）の共同株式移転により発足し、東日本初の県境を越えた地銀統合事例として注目された。2026-05-21 現在の wiki boundary では、[[regional-banks/shonai-bank]] と [[regional-banks/hokuto-bank]] が operating banks、[[regional-banks/tohoku-bank]] は 2022-02 に経営統合基本合意が解除された別会社として扱う。北都銀行公式 profile は、北都銀行と荘内銀行が 2027-01 に合併し「フィデア銀行」として発足する予定を示している。社名 Fidea = ラテン語「信頼（fides）」+「理念（idea）」の造語。^[extracted]
 
 ## 1. 会社概要
 
@@ -48,7 +48,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
   ├── フィデアカード ── グループクレカ
   └── 荘内 / 北都 各キャピタル等 ── 地域投資・コンサル系
 
-東北銀行との経営統合基本合意は 2022-02 に解除済み。東北銀行は別ページ [[tohoku-bank]] で扱う。
+東北銀行との経営統合基本合意は 2022-02 に解除済み。東北銀行は別ページ [[regional-banks/tohoku-bank]] で扱う。
 ```
 
 ### 合併歴史・前身 ^[extracted]
@@ -100,8 +100,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ### 競合構造
 
-- **メガバンク**（[[mufg]]・[[smfg]]・[[mizuho-fg]]）：県内法人 main bank 取り合いは限定的、むしろ補完関係
-- **ゆうちょ**（[[yucho]]）：個人預金で競合
+- **メガバンク**（[[megabanks/mufg]]・[[megabanks/smfg]]・[[megabanks/mizuho-fg]]）：県内法人 main bank 取り合いは限定的、むしろ補完関係
+- **ゆうちょ**（[[regional-banks/yucho]]）：個人預金で競合
 - **県内単独地銀**（山形銀行・秋田銀行・岩手銀行）：直接競合、ただし統合により規模差拡大
 
 ## 4. 規制・政策 ^[extracted/inferred]
@@ -116,9 +116,9 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## Related
 
-- [[shonai-bank]] · [[hokuto-bank]] · [[tohoku-bank]]
-- [[hokuhoku-fg]] · [[regional-banks/proclair-hd|proCRD-hd]] · [[mebuki-fg]] · [[concordia-fg]] · [[dai-shi-hokuetsu-fg]]
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[yucho]]
+- [[regional-banks/shonai-bank]] · [[regional-banks/hokuto-bank]] · [[regional-banks/tohoku-bank]]
+- [[regional-banks/hokuhoku-fg]] · [[regional-banks/proclair-hd|proCRD-hd]] · [[regional-banks/mebuki-fg]] · [[regional-banks/concordia-fg]] · [[regional-banks/dai-shi-hokuetsu-fg]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[regional-banks/yucho]]
 
 ## Sources
 

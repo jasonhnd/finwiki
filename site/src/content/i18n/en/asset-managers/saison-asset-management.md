@@ -11,7 +11,7 @@ translated_at: 2026-06-01T00:41:50.446Z
 
 ## Wiki route
 
-This entry sits under [[asset-managers/INDEX|asset-managers INDEX]] as the operating-company anchor for the investment-trust subsidiary of the [[card-issuers/credit-saison|Credit Saison]] group. Read it against [[card-issuers/credit-saison|Credit Saison (parent company)]], peer long-term diversified investment names [[JapanFG/hifumi|Rheos Capital Works (Hifumi Investment Trust)]], [[JapanFG/sawakami-am|Sawakami Investment Trust]], [[JapanFG/commons-am|Commons Investment Trust]], the direct-sold investment trust group in distribution channel [[asset-managers/INDEX]], and broader context [[asset-management/INDEX|asset management index]] for the regulatory boundary.
+This entry sits under [[asset-managers/INDEX|asset-managers INDEX]] as the operating-company anchor for the investment-trust subsidiary of the [[card-issuers/credit-saison|Credit Saison]] group. Read it against [[card-issuers/credit-saison|Credit Saison (parent company)]], peer long-term diversified investment names [[JapanFG/hifumi|Rheos Capital Works (Hifumi Investment Trust)]], [[JapanFG/sawakami-am|Sawakami Investment Trust]], [[JapanFG/commons-am|Commons Investment Trust]], the direct-sold investment trust group in distribution channel [[asset-managers/INDEX]], and broader context [[asset-managers/INDEX|asset management index]] for the regulatory boundary.
 
 ## TL;DR
 
@@ -129,7 +129,7 @@ Credit Saison Co., Ltd. (TSE PRIME 8253)
 - [[JapanFG/commons-am]] — independent direct-sold investment trust peer
 - [[trust-banks/master-trust-bank]] — trustee trust bank
 - [[megabanks/mizuho-fg]] — parent-line main bank
-- [[asset-management/INDEX]] — asset management namespace index
+- [[asset-managers/INDEX]] — asset management namespace index
 - [[asset-managers/INDEX]] — JapanFG namespace index
 
 ## Sources

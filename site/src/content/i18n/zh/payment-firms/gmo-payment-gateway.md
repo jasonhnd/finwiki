@@ -16,7 +16,7 @@ translated_at: 2026-05-31T15:29:03.900Z
 
 ##TL;博士
 
-日本最大的支付服务提供商（PSP，Payment Service Provider）之一。我们为EC商户提供一站式服务：Visa/Master/JCB/Amex等卡支付+便利店支付+银行转账+电子货币。 1995-03-25 成立Card Commerce Co., Ltd.，更名为2000 、2005 TSE Mothers、2008 在东京证券交易所第一部上市（目前PRIME 3769）。 GMO Internet Group 合并子公司。与三井住友卡（[[smfg]]系列）的战略联盟以及在亚洲的扩张（越南NextPay/台湾ECPay等）是中期计划的支柱。 ^[extracted]
+日本最大的支付服务提供商（PSP，Payment Service Provider）之一。我们为EC商户提供一站式服务：Visa/Master/JCB/Amex等卡支付+便利店支付+银行转账+电子货币。 1995-03-25 成立Card Commerce Co., Ltd.，更名为2000 、2005 TSE Mothers、2008 在东京证券交易所第一部上市（目前PRIME 3769）。 GMO Internet Group 合并子公司。与三井住友卡（[[megabanks/smfg]]系列）的战略联盟以及在亚洲的扩张（越南NextPay/台湾ECPay等）是中期计划的支柱。 ^[extracted]
 
 ## 1。公司简介
 
@@ -53,7 +53,7 @@ translated_at: 2026-05-31T15:29:03.900Z
 ### 国内策略
 
 - **EC附属店铺基地**：运营店铺网络为171,257 店（2026-03 、829,062 店结尾，包括fincode byGMO等）
-- **与三井住友卡的战略联盟**：加深与[[smfg]]家族卡公司的关系，并开发SMBC GMO PAYMENT（与SMBC合资，成立2015 。2021 重组为三井住友卡50% / GMO-PG 40% /三井住友银行10%）
+- **与三井住友卡的战略联盟**：加深与[[megabanks/smfg]]家族卡公司的关系，并开发SMBC GMO PAYMENT（与SMBC合资，成立2015 。2021 重组为三井住友卡50% / GMO-PG 40% /三井住友银行10%）
 - **Pay.JP**：方便开发者与 Stripe 竞争的支付 SDK
 
 ### 海外战略
@@ -64,7 +64,7 @@ translated_at: 2026-05-31T15:29:03.900Z
 
 |竞赛|优势|站立姿势|
 |---|---|---|
-|SB支付服务|[[paypay-fg]] / 软银集团/PayPay 合作|国内最大级、QR 决済亲和性|
+|SB支付服务|[[megabanks/paypay-fg]] / 软银集团/PayPay 合作|国内最大级、QR 决済亲和性|
 |DG 金融科技（原 VeriTrans）|数字车库/老式 PSP|EC老牌会员店|
 |SMBC GMO 支付|SMBC × GMO-PG 合弁|银行渠道|
 |条纹/Adyen|全球开发者优先|跨境电商|
@@ -90,13 +90,13 @@ translated_at: 2026-05-31T15:29:03.900Z
 
 ## 8。有关的
 
-- [[smfg]]（三井住友卡合作伙伴/SMBC GMO PAYMENT 合资母公司）
-- [[paypay-fg]]（SB 支付服务竞争对手）
-- [[jcb]]（卡国际品牌）
-- [[mufg]]（卡行业，通过三菱 UFJ Nikos）
-- [[money-forward]] · [[freee]]（会计 SaaS 集成）
-- [[paidy]]（延期付款冲突/补充）
-- [[mercari-hd]] (EC 顾客层)
+- [[megabanks/smfg]]（三井住友卡合作伙伴/SMBC GMO PAYMENT 合资母公司）
+- [[megabanks/paypay-fg]]（SB 支付服务竞争对手）
+- [[card-issuers/jcb]]（卡国际品牌）
+- [[megabanks/mufg]]（卡行业，通过三菱 UFJ Nikos）
+- [[payment-firms/money-forward]] · [[payment-firms/freee]]（会计 SaaS 集成）
+- [[payment-firms/paidy]]（延期付款冲突/补充）
+- [[payment-firms/mercari-hd]] (EC 顾客层)
 
 ## 来源
 

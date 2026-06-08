@@ -39,9 +39,9 @@ Tajima Bank is a regional bank centered on northern Hyogo Prefecture, handling r
 
 ## Related
 
-- [[kansai-mirai-bank]]
-- [[ikeda-senshu-bank]]
-- [[minato-bank|みなと銀行]]
+- [[regional-banks/kansai-mirai-bank]]
+- [[regional-banks/ikeda-senshu-bank]]
+- [[regional-banks/minato-bank|みなと銀行]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 

@@ -21,7 +21,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 ## 推論 (from MUFG 子会社化（2024-12-12 発表）★)
 
 - **目的**: WealthNavi を MUFG グループの個人向け資産運用 DX エンジンに統合 ^[inferred]
-  - MUFG は個人デジタル領域で メガ 3 行中最弱と言われ（vs [[smfg]] Olive・[[rakuten-fg]]・PayPay）、ロボアド No.1 取得で巻き返しを狙う ^[inferred]
+  - MUFG は個人デジタル領域で メガ 3 行中最弱と言われ（vs [[megabanks/smfg]] Olive・[[payment-firms/rakuten-fg]]・PayPay）、ロボアド No.1 取得で巻き返しを狙う ^[inferred]
   - 2026-05-07 発表の MUFG × Google AI 提携と組み合わせ、AI 金融エコシステム化を加速 ^[inferred]
   - 三菱 UFJ eスマート証券（旧 auカブドットコム証券、2025-01 KDDI から取得）と組み合わせたデジタル証券・ロボアド連携シナリオ ^[inferred]
 
@@ -42,7 +42,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## Open questions
 
-- MUFG 完全子会社化後、SBI / マネックス / ソニー銀行 等のホワイトラベル提携は継続するか？ 特に [[sbi-hd]] とは競合関係（SBI ラップ）
+- MUFG 完全子会社化後、SBI / マネックス / ソニー銀行 等のホワイトラベル提携は継続するか？ 特に [[megabanks/sbi-hd]] とは競合関係（SBI ラップ）
 - 上場廃止後の柴山和久 CEO の処遇は？ MUFG 内での経営自律性
 - MUFG × Google AI 提携（2026-05-07）と WealthNavi の統合シナリオは？ AI エージェント × ロボアド
 - 三菱 UFJ eスマート証券（旧カブドットコム）との統合・分業整理は？
@@ -54,6 +54,6 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 ## MUFG 子会社化後の提携整理（推測 / 出典なし）— from MUFG 子会社化（2024-12-12 発表）
 
 - SBI / マネックス / ソニー銀行 等の既存ホワイトラベル提携の継続可否が論点（MUFG 完全子会社化後の帰結は未確定の推測）^[ambiguous]
-- 特に [[sbi-hd]] 提携（WealthNavi for SBI 証券）は競合 SBI ラップ と並列、MUFG 子会社化後の整理が不透明（将来の経営判断に関する推測、検証可能な一次情報なし）^[ambiguous]
+- 特に [[megabanks/sbi-hd]] 提携（WealthNavi for SBI 証券）は競合 SBI ラップ と並列、MUFG 子会社化後の整理が不透明（将来の経営判断に関する推測、検証可能な一次情報なし）^[ambiguous]
 
 <!-- forecast 整理 (2026-05-30) -->

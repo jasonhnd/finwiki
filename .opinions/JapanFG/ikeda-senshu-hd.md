@@ -16,7 +16,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## 推論 (from 2. 事業セグメント・マップ)
 
-| 信託 | 提携（自前免許なし）| メガ信託・[[sumitomo-mitsui-trust]] 等への取次 ^[inferred] |
+| 信託 | 提携（自前免許なし）| メガ信託・[[trust-banks/sumitomo-mitsui-trust]] 等への取次 ^[inferred] |
 | 証券 | 提携（自前なし）| 投信窓販・メガ系証券との連携 ^[inferred] |
 
 ## 推論 (from 戦略軸)
@@ -32,7 +32,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## 推論 (from B2C ブランディング)
 
-- **池田泉州銀行 = 「池田泉州」**: 大阪府民・特に北摂・泉州地区での認知度は高、ただし関西広域では [[resona-hd]]（関西みらい）・京都銀の方が認知度上位 ^[inferred]
+- **池田泉州銀行 = 「池田泉州」**: 大阪府民・特に北摂・泉州地区での認知度は高、ただし関西広域では [[megabanks/resona-hd]]（関西みらい）・京都銀の方が認知度上位 ^[inferred]
 - **池田泉州 HD**: 持株会社ブランドは個人客には浸透限定的、銀行ブランド一本化 ^[inferred]
 
 ## Counterpoints
@@ -46,9 +46,9 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 ## Open questions
 
 - 関西地銀 **再編** シナリオ（京都銀 / 滋賀銀 / 南都銀 / 紀陽銀 等との組み合わせ）の現実性は？
-- メガ FG（[[mufg]] / [[smfg]] / [[mizuho-fg]]）の中堅企業 main bank 染み出しへの対抗策は？
+- メガ FG（[[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]]）の中堅企業 main bank 染み出しへの対抗策は？
 - **デジタル投資**: PayPay 銀行 / 楽天銀行 / 住信 SBI ネット銀行 に対する個人デジタル領域の対抗策は？
-- 池田泉州銀行 単独子会社体制の継続効率 vs [[resona-hd]] 型グループ持株会社モデルとの比較
+- 池田泉州銀行 単独子会社体制の継続効率 vs [[megabanks/resona-hd]] 型グループ持株会社モデルとの比較
 - 大阪・関西万博（2025）後の関西経済圏の中長期成長見通しと貸出残高への影響
 - 中堅企業の事業承継・M&A 仲介市場での池田泉州キャピタルのポジションは？
 

@@ -49,42 +49,40 @@
     "関連"
   ],
   "body_links": {
-    "wikilinks_count": 12,
+    "wikilinks_count": 11,
     "wikilinks": [
-      "2022-three-variable-cascade-thesis",
+      "fintech/2022-three-variable-cascade-thesis",
       "fintech/INDEX",
       "fintech/cbbtc-institutional-btc-wrapper",
       "fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse",
       "fintech/issuer-distributor-incentive-realignment-arc-strategy",
       "fintech/japan-financial-regulation",
       "fintech/jpmorgan-jpmd-coin",
+      "fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage",
+      "fintech/stablecoin-chain-sovereign-currency-divide",
       "fintech/three-circles-stablecoin-mra-framework",
-      "occ-trust-bank-charter-federal-stablecoin-arbitrage",
-      "stablecoin-chain-sovereign-currency-divide",
-      "systems/canton-overview",
-      "three-circles-stablecoin-mra-framework"
+      "systems/canton-overview"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/2022-three-variable-cascade-thesis",
+      "https://finwiki.zksc.io/fintech/2022-three-variable-cascade-thesis",
       "https://finwiki.zksc.io/fintech/INDEX",
       "https://finwiki.zksc.io/fintech/cbbtc-institutional-btc-wrapper",
       "https://finwiki.zksc.io/fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse",
       "https://finwiki.zksc.io/fintech/issuer-distributor-incentive-realignment-arc-strategy",
       "https://finwiki.zksc.io/fintech/japan-financial-regulation",
       "https://finwiki.zksc.io/fintech/jpmorgan-jpmd-coin",
+      "https://finwiki.zksc.io/fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage",
+      "https://finwiki.zksc.io/fintech/stablecoin-chain-sovereign-currency-divide",
       "https://finwiki.zksc.io/fintech/three-circles-stablecoin-mra-framework",
-      "https://finwiki.zksc.io/occ-trust-bank-charter-federal-stablecoin-arbitrage",
-      "https://finwiki.zksc.io/stablecoin-chain-sovereign-currency-divide",
-      "https://finwiki.zksc.io/systems/canton-overview",
-      "https://finwiki.zksc.io/three-circles-stablecoin-mra-framework"
+      "https://finwiki.zksc.io/systems/canton-overview"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3324,
-    "word_like_tokens": 540,
-    "inbound_wikilinks_count": 22,
-    "last_modified": "2026-05-26"
+    "nonspace_chars": 3364,
+    "word_like_tokens": 545,
+    "inbound_wikilinks_count": 27,
+    "last_modified": "2026-06-08"
   }
 }

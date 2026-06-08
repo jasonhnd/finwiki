@@ -54,29 +54,29 @@
     "wikilinks_count": 7,
     "wikilinks": [
       "banking/INDEX",
-      "mizuho-fg",
-      "mufg",
+      "megabanks/mizuho-fg",
+      "megabanks/mufg",
+      "megabanks/smfg",
       "non-life-insurers/INDEX",
       "non-life-insurers/msad",
-      "non-life-insurers/sompo",
-      "smfg"
+      "non-life-insurers/sompo"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/mizuho-fg",
-      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/smfg",
       "https://finwiki.zksc.io/non-life-insurers/INDEX",
       "https://finwiki.zksc.io/non-life-insurers/msad",
-      "https://finwiki.zksc.io/non-life-insurers/sompo",
-      "https://finwiki.zksc.io/smfg"
+      "https://finwiki.zksc.io/non-life-insurers/sompo"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5202,
-    "word_like_tokens": 916,
-    "inbound_wikilinks_count": 29,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 5232,
+    "word_like_tokens": 919,
+    "inbound_wikilinks_count": 40,
+    "last_modified": "2026-06-08"
   }
 }

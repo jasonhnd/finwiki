@@ -57,36 +57,36 @@
   "body_links": {
     "wikilinks_count": 10,
     "wikilinks": [
-      "dai-ichi-life",
       "insurance/INDEX",
       "life-insurers/INDEX",
       "life-insurers/axa-japan",
-      "meiji-yasuda",
-      "mizuho-fg",
-      "mufg",
-      "ndfg",
-      "smfg",
-      "sony-fg"
+      "life-insurers/dai-ichi-life",
+      "life-insurers/meiji-yasuda",
+      "megabanks/mizuho-fg",
+      "megabanks/mufg",
+      "megabanks/ndfg",
+      "megabanks/smfg",
+      "megabanks/sony-fg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/dai-ichi-life",
       "https://finwiki.zksc.io/insurance/INDEX",
       "https://finwiki.zksc.io/life-insurers/INDEX",
       "https://finwiki.zksc.io/life-insurers/axa-japan",
-      "https://finwiki.zksc.io/meiji-yasuda",
-      "https://finwiki.zksc.io/mizuho-fg",
-      "https://finwiki.zksc.io/mufg",
-      "https://finwiki.zksc.io/ndfg",
-      "https://finwiki.zksc.io/smfg",
-      "https://finwiki.zksc.io/sony-fg"
+      "https://finwiki.zksc.io/life-insurers/dai-ichi-life",
+      "https://finwiki.zksc.io/life-insurers/meiji-yasuda",
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/ndfg",
+      "https://finwiki.zksc.io/megabanks/smfg",
+      "https://finwiki.zksc.io/megabanks/sony-fg"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5274,
-    "word_like_tokens": 773,
-    "inbound_wikilinks_count": 16,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 5414,
+    "word_like_tokens": 790,
+    "inbound_wikilinks_count": 23,
+    "last_modified": "2026-06-08"
   }
 }

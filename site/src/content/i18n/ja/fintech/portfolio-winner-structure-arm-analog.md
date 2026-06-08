@@ -96,8 +96,8 @@ translated_at: 2026-06-02T13:21:55.065Z
 
 ## 関連
 
-- [[wall-street-crypto-network-neutrality|ウォール街ネットワーク中立]]
-- [[protocol-hedge-strategy-stripe-pattern|プロトコル層マルチライン hedge]]
-- [[central-banking-function-unbundling|中央銀行機能の解体 5 層]]
+- [[fintech/wall-street-crypto-network-neutrality|ウォール街ネットワーク中立]]
+- [[fintech/protocol-hedge-strategy-stripe-pattern|プロトコル層マルチライン hedge]]
+- [[fintech/central-banking-function-unbundling|中央銀行機能の解体 5 層]]
 
 ---

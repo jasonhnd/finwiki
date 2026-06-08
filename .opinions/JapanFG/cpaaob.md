@@ -25,7 +25,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## 推論 (from 2.2 監査法人・公認会計士検査 (Audit Firm Inspection))
 
-- **準大手・中堅監査法人** ([[JapanFG/taiyo-grant-thornton|太陽 GT]] · [[JapanFG/bdo-sanyu|BDO 三優]] 等) — リスクベースで定期/特別検査 ^[inferred]
+- **準大手・中堅監査法人** ([[financial-regulators/taiyo-grant-thornton|太陽 GT]] · [[financial-regulators/bdo-sanyu|BDO 三優]] 等) — リスクベースで定期/特別検査 ^[inferred]
   - **中小監査事務所** — 業務管理体制および個別業務のリスクベース検査 ^[inferred]
 
 ## 推論 (from 2.3 監査品質管理レビュー (Quality Control Review))
@@ -42,7 +42,7 @@ CPAAOB は**公的監督 (public oversight)**、JICPA は**自主規制 (self-re
 
 ## 推論 (from 5. ガバナンス上の位置)
 
-- **FSA 総合政策局** ([[JapanFG/fsa-strategy-bureau|総合政策局]]) と**会計監査政策**について連携 ^[inferred]
+- **FSA 総合政策局** ([[financial-regulators/fsa-strategy-bureau|総合政策局]]) と**会計監査政策**について連携 ^[inferred]
 
 ## Counterpoints
 

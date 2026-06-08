@@ -16,7 +16,7 @@ translated_at: 2026-05-31T15:29:03.961Z
 
 ## 长话短说
 
-伊藤忠商事 → FamilyMart 100% **便利店支付/积分/金融子公司**。 2019-04-01成立（原全家旅游有限公司），推出2019-07-01 **FamiPay**（二维码+条码支付）。基于资金转账代理许可证，无银行许可证。便利店APP完成支付+BNPL（FamiPay下月支付）+个人贷款（FamiPay贷款）+FamiPay卡（原FamiMart T卡）。 **T点联动将从2024-04 开始解决 → Famipay Point将独立**，我们正在转换为“伊藤忠G-内部支付平台”。竞争对手是au PAY ([[au-fh]]) / PayPay ([[paypay-fg]]) / Rakuten Pay ([[rakuten-fg]]) / d Payment ([[ndfg]])。
+伊藤忠商事 → FamilyMart 100% **便利店支付/积分/金融子公司**。 2019-04-01成立（原全家旅游有限公司），推出2019-07-01 **FamiPay**（二维码+条码支付）。基于资金转账代理许可证，无银行许可证。便利店APP完成支付+BNPL（FamiPay下月支付）+个人贷款（FamiPay贷款）+FamiPay卡（原FamiMart T卡）。 **T点联动将从2024-04 开始解决 → Famipay Point将独立**，我们正在转换为“伊藤忠G-内部支付平台”。竞争对手是au PAY ([[megabanks/au-fh]]) / PayPay ([[megabanks/paypay-fg]]) / Rakuten Pay ([[payment-firms/rakuten-fg]]) / d Payment ([[megabanks/ndfg]])。
 
 ## 1。公司简介
 
@@ -77,10 +77,10 @@ translated_at: 2026-05-31T15:29:03.961Z
 
 |竞赛|经济区|便利店合作|
 |---|---|---|
-|**PayPay** ([[paypay-fg]])|软银 G + 雅虎 + LINE|罗森七号店及其他店铺有售|
-|**au 支付** ([[au-fh]])|KDDI经济区+罗森（KDDI母公司）|**劳森主战场**|
-|**乐天支付** ([[rakuten-fg]])|乐天经济区|所有便利店通用|
-|**付款** ([[ndfg]])|DOCOMO经济区+d积分|所有便利店通用|
+|**PayPay** ([[megabanks/paypay-fg]])|软银 G + 雅虎 + LINE|罗森七号店及其他店铺有售|
+|**au 支付** ([[megabanks/au-fh]])|KDDI经济区+罗森（KDDI母公司）|**劳森主战场**|
+|**乐天支付** ([[payment-firms/rakuten-fg]])|乐天经济区|所有便利店通用|
+|**付款** ([[megabanks/ndfg]])|DOCOMO经济区+d积分|所有便利店通用|
 |**nanaco/7iD** (七)|七与我高清|**专供七家商店 → 集成到 7iD 应用程序**|
 |**家庭支付**|伊藤忠商事株式会社 / FamilyMart|**全家主战场**|
 
@@ -113,8 +113,8 @@ translated_at: 2026-05-31T15:29:03.961Z
 
 ## 有关的
 
-- [[paypay-fg]] · [[au-fh]] · [[rakuten-fg]] · [[ndfg]]
-- [[mufg]] · [[smfg]] · [[mizuho-fg]]
+- [[megabanks/paypay-fg]] · [[megabanks/au-fh]] · [[payment-firms/rakuten-fg]] · [[megabanks/ndfg]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]
 
 ## 来源
 

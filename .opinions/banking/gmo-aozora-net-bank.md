@@ -24,7 +24,7 @@ This API depth is what enables embedded-finance product designs by GMO Aozora's 
 
 ## 推論 (from Why corporate/SME, not consumer)
 
-GMO Aozora's strategic logic is that the consumer net-bank market is saturated by ecosystem-points-led incumbents (Rakuten, PayPay, au-Jibun) and a meaningful asset-formation specialist ([[banking/sony-bank|Sony Bank]]). The corporate / SME / embedded-finance lane is structurally less crowded: the BaaS-architecture pole ([[JapanFG/ssnb|SSNB]] NEOBANK, [[banking/minna-bank-baas-model|Minna Bank]]) is positioned around partner-channel distribution rather than direct corporate-API banking. GMO Aozora carves out a third position — direct corporate API bank with own lending product set. ^[inferred]
+GMO Aozora's strategic logic is that the consumer net-bank market is saturated by ecosystem-points-led incumbents (Rakuten, PayPay, au-Jibun) and a meaningful asset-formation specialist ([[banking/sony-bank|Sony Bank]]). The corporate / SME / embedded-finance lane is structurally less crowded: the BaaS-architecture pole ([[regional-banks/ssnb|SSNB]] NEOBANK, [[banking/minna-bank-baas-model|Minna Bank]]) is positioned around partner-channel distribution rather than direct corporate-API banking. GMO Aozora carves out a third position — direct corporate API bank with own lending product set. ^[inferred]
 
 ## 推論 (from Why the BaaS boundary matters)
 
@@ -34,7 +34,7 @@ GMO Aozora's "corporate API bank" architecture is **not** the same legal model a
 
 - "GMO Aozora is just GMO's vehicle to compete with [[banking/rakuten-bank|Rakuten Bank]]." Wrong segment — Rakuten plays consumer-ecosystem-points; GMO Aozora plays corporate-API direct. ^[inferred]
 - "あおぞら銀行 still controls the bank." No — Aozora retains ~15% but GMO has operating control; the JV structure is for legacy continuity and capital, not joint management. ^[inferred]
-- "Corporate API banking is a fad." Hard to argue against given the strategic priority [[JapanFG/ssnb|SSNB]] / megabanks / regional groups are placing on embedded-finance and BaaS architectures. The architectures differ but the structural direction is clear. ^[inferred]
+- "Corporate API banking is a fad." Hard to argue against given the strategic priority [[regional-banks/ssnb|SSNB]] / megabanks / regional groups are placing on embedded-finance and BaaS architectures. The architectures differ but the structural direction is clear. ^[inferred]
 - "あんしんワイど will see Covid-vintage default issues." All SME-lending books have post-Covid amortisation-period vintage to watch; GMO Aozora's AI underwriting is partly an attempt to reduce vintage-risk concentration. The verdict will be in default-rate disclosure over the next credit cycle. ^[ambiguous]
 - "GMO Aozora IPO is imminent." Press speculation only; no formal company commitment. ^[ambiguous]
 - "GMO group culture is mismatched with bank risk management." A recurring concern, but six years of GMO-era operation without major regulatory incidents has reduced the salience of this critique. ^[ambiguous]
@@ -44,7 +44,7 @@ GMO Aozora's "corporate API bank" architecture is **not** the same legal model a
 - What is the current GMO Internet Group / Aozora Bank ownership ratio, and is the Aozora stake on a long-term sell-down path?
 - What is the あんしんワイど loan-book outstanding and non-performing-loan ratio, and how does that compare to traditional SME-loan books at regional banks?
 - How many partner API integrations are live, and what is the deposit-account-acquisition-cost per active partner?
-- What is the realistic IPO timeline if pursued, and how would valuation compare to [[JapanFG/gmo-payment-gateway|GMO Payment Gateway]] (TSE Prime 3769)?
+- What is the realistic IPO timeline if pursued, and how would valuation compare to [[payment-firms/gmo-payment-gateway|GMO Payment Gateway]] (TSE Prime 3769)?
 - How does GMO Aozora's corporate-API architecture coexist or compete with [[fintech/japan-stablecoin-regulatory-landscape|Japan stablecoin / EPI architectures]] as institutional digital-payment frameworks mature?
 - How does the bank navigate FATF / AML expectations on rapid online corporate-account opening relative to manual-screening peers?
 - What is the long-run strategic destination of the Aozora minority stake — full GMO buyout, perpetual minority, or eventual sell-down to a strategic third party?

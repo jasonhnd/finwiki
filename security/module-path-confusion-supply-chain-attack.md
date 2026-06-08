@@ -14,8 +14,8 @@ last_updated: 2026-05-26
 last_tended: 2026-05-26
 review_by: 2026-11-08
 related:
-  - "[[fork-and-rebrand-5-layer-audit-framework]]"
-  - "[[forensic-identity-anchor-chain]]"
+  - "[[security/fork-and-rebrand-5-layer-audit-framework]]"
+  - "[[security/forensic-identity-anchor-chain]]"
 tags: [security/supply-chain, security/dependency, security/dd]
 sources:
   - "https://go.dev/ref/mod"

@@ -54,34 +54,34 @@
       "insurance/internet-life-insurance-business-model",
       "life-insurers/INDEX",
       "life-insurers/dai-ichi-frontier-life",
-      "lifenet",
-      "rakuten-life",
-      "sbi-hd",
-      "sbi-insurance-group",
-      "sbi-securities",
-      "sbi-shinsei-bank",
-      "sony-life"
+      "life-insurers/lifenet",
+      "life-insurers/rakuten-life",
+      "life-insurers/sony-life",
+      "megabanks/sbi-hd",
+      "non-life-insurers/sbi-insurance-group",
+      "regional-banks/sbi-shinsei-bank",
+      "securities-firms/sbi-securities"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/insurance/INDEX",
       "https://finwiki.zksc.io/insurance/internet-life-insurance-business-model",
       "https://finwiki.zksc.io/life-insurers/INDEX",
       "https://finwiki.zksc.io/life-insurers/dai-ichi-frontier-life",
-      "https://finwiki.zksc.io/lifenet",
-      "https://finwiki.zksc.io/rakuten-life",
-      "https://finwiki.zksc.io/sbi-hd",
-      "https://finwiki.zksc.io/sbi-insurance-group",
-      "https://finwiki.zksc.io/sbi-securities",
-      "https://finwiki.zksc.io/sbi-shinsei-bank",
-      "https://finwiki.zksc.io/sony-life"
+      "https://finwiki.zksc.io/life-insurers/lifenet",
+      "https://finwiki.zksc.io/life-insurers/rakuten-life",
+      "https://finwiki.zksc.io/life-insurers/sony-life",
+      "https://finwiki.zksc.io/megabanks/sbi-hd",
+      "https://finwiki.zksc.io/non-life-insurers/sbi-insurance-group",
+      "https://finwiki.zksc.io/regional-banks/sbi-shinsei-bank",
+      "https://finwiki.zksc.io/securities-firms/sbi-securities"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1969,
-    "word_like_tokens": 314,
-    "inbound_wikilinks_count": 7,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 2151,
+    "word_like_tokens": 339,
+    "inbound_wikilinks_count": 10,
+    "last_modified": "2026-06-08"
   }
 }

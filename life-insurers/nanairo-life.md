@@ -24,7 +24,7 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 
 ## TL;DR
 
-なないろ生命保険株式会社は、金融庁 life-insurer list に掲載される [[asahi-life]] group の life-insurance operating company。朝日生命本体とは別に、乗合代理店 / modern product-channel oriented insurer として見る。
+なないろ生命保険株式会社は、金融庁 life-insurer list に掲載される [[life-insurers/asahi-life]] group の life-insurance operating company。朝日生命本体とは別に、乗合代理店 / modern product-channel oriented insurer として見る。
 
 ## 1. License / group boundary
 
@@ -33,24 +33,24 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 | Legal name | なないろ生命保険株式会社 |
 | License route | Insurance Business Act life-insurance company; FSA life insurer list |
 | Industry body | Life Insurance Association of Japan member |
-| Group boundary | [[asahi-life]] group |
+| Group boundary | [[life-insurers/asahi-life]] group |
 | Wiki role | Asahi Life group specialty / agency-channel life insurer |
 
 ## 2. Operating model
 
-なないろ生命は、traditional mutual-company insurer の [[asahi-life]] と違い、newer product / agency-channel surface を持つ specialist entity。大手 life insurer groups が separate subsidiaries を使って channel / product strategy を分ける例として扱う。Cross-frame solvency context は [[insurance/global-solvency-framework-comparison-matrix]] を参照。
+なないろ生命は、traditional mutual-company insurer の [[life-insurers/asahi-life]] と違い、newer product / agency-channel surface を持つ specialist entity。大手 life insurer groups が separate subsidiaries を使って channel / product strategy を分ける例として扱う。Cross-frame solvency context は [[insurance/global-solvency-framework-comparison-matrix]] を参照。
 
 ## 3. Why this page matters
 
 - Shows that mutual insurers can also run stock-company specialty subsidiaries.
-- Useful for channel comparison against [[hanasaku-life]] and [[medicare-life]].
+- Useful for channel comparison against [[life-insurers/hanasaku-life]] and [[life-insurers/medicare-life]].
 - Registry-backed D2 specialty insurer.
 
 ## Related
 
-- [[asahi-life]]
-- [[hanasaku-life]]
-- [[medicare-life]]
+- [[life-insurers/asahi-life]]
+- [[life-insurers/hanasaku-life]]
+- [[life-insurers/medicare-life]]
 - [[insurance/life-insurance-channel-mix]]
 
 ## Sources

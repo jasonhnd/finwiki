@@ -106,7 +106,7 @@ Jimoto Holdings (holding company; TSE STD 7161)
 |---|---|---|
 | Miyagi Prefecture No.1  regional bank | **77 Bank** (TSE PRIME 8341) | Sendai Bank is the 2  regional-bank player |
 | Yamagata Prefecture No.1  regional bank | **Yamagata Bank** (TSE PRIME 8344) | Kirayaka Bank is the 2  regional-bank player |
-| Northeastern Tohoku second-tier regional-bank FG | **Fidea HD** (TSE PRIME 8713; Yamagata + Akita) | Overlaps with [[fidea-hd]] in Yamagata and competes in operating base |
+| Northeastern Tohoku second-tier regional-bank FG | **Fidea HD** (TSE PRIME 8713; Yamagata + Akita) | Overlaps with [[regional-banks/fidea-hd]] in Yamagata and competes in operating base |
 | Adjacent first-tier regional banks | Bank of Iwate, Toho Bank (Fukushima) | Outer edge of operating area |
 | SBI 4  major-regional-bank frame | Fukushima Bank, Shimane Bank, Chikuho Bank | Other regional banks in SBI alliance group |
 
@@ -134,9 +134,9 @@ Jimoto Holdings (holding company; TSE STD 7161)
 
 ## Related
 
-- [[fidea-hd]] (Yamagata + Akita, northeastern Tohoku second-tier regional-bank competitor + overlapping operating area)
-- [[sbi-hd]] (2020-11  third-party allotment 35 億円; SBI 4  major-regional-bank concept)
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] (megabanks)
+- [[regional-banks/fidea-hd]] (Yamagata + Akita, northeastern Tohoku second-tier regional-bank competitor + overlapping operating area)
+- [[megabanks/sbi-hd]] (2020-11  third-party allotment 35 億円; SBI 4  major-regional-bank concept)
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] (megabanks)
 
 ## Sources
 

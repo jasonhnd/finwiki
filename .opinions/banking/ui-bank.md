@@ -13,7 +13,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 ## 推論 (from Why a separate license from きらぼし銀行)
 
 The parent-group decision to issue a new banking license rather than build a digital channel inside the existing きらぼし銀行 has three architectural rationales: ^[inferred]
-This mirrors the architectural choice [[JapanFG/fukuoka-fg|Fukuoka FG]] made with [[banking/minna-bank-baas-model|Minna Bank]] and [[JapanFG/saitama-resona-bank|Resona group]] made with [[JapanFG/01-bank|01 Bank]] — the three regional-group digital banks are convergent on "separate license, separate IT, separate UX layer". ^[inferred]
+This mirrors the architectural choice [[regional-banks/fukuoka-fg|Fukuoka FG]] made with [[banking/minna-bank-baas-model|Minna Bank]] and [[megabanks/saitama-resona-bank|Resona group]] made with [[regional-banks/01-bank|01 Bank]] — the three regional-group digital banks are convergent on "separate license, separate IT, separate UX layer". ^[inferred]
 
 ## 推論 (from API and external partner connectivity)
 
@@ -40,14 +40,14 @@ UI Bank does not have a captive megaplatform point partner. Without [[loyalty/ra
 
 - "UI Bank duplicates きらぼし銀行." It does not — the architectural separation is intentional to avoid legacy-IT and branch-cost contamination of a smartphone-first product. ^[inferred]
 - "UI Bank cannot scale without an ecosystem partner." Plausible but not yet decided — the bet is that lifestyle-partner UX and API connectivity can substitute for ecosystem-points gravity. The verdict depends on multi-year account-and-deposit KPI trajectory. ^[ambiguous]
-- "Regional-group digital banks are a passing fad." Three serious regional-group launches (UI Bank, [[banking/minna-bank-baas-model|Minna Bank]], [[JapanFG/01-bank|01 Bank]]) plus parallel megabank digital-channel investments suggest a durable structural arc, not a fad. ^[inferred]
+- "Regional-group digital banks are a passing fad." Three serious regional-group launches (UI Bank, [[banking/minna-bank-baas-model|Minna Bank]], [[regional-banks/01-bank|01 Bank]]) plus parallel megabank digital-channel investments suggest a durable structural arc, not a fad. ^[inferred]
 - "UI Bank is too small to matter." On account count, true; on the strategic-architecture demonstration value for regional-group digital strategy, it is one of the more-watched references. ^[inferred]
 - "Smartphone-first banks will displace branch banks." Premature — branch banks retain corporate-banking, mortgage-counsel, and elderly-customer service economics that smartphone-first banks do not address yet. ^[inferred]
 
 ## Open questions
 
 - What is the current account count, deposit balance, and loan-book size disclosed by UI Bank or きらぼし FG IR?
-- How does the primary-account conversion rate compare with [[banking/minna-bank-baas-model|Minna Bank]] / [[JapanFG/01-bank|01 Bank]] / ecosystem net banks?
+- How does the primary-account conversion rate compare with [[banking/minna-bank-baas-model|Minna Bank]] / [[regional-banks/01-bank|01 Bank]] / ecosystem net banks?
 - What is the cost-to-income ratio trajectory for a new digital-only bank built on cloud-native core?
 - Has UI Bank entered any meaningful BaaS or partner-bank distribution arrangement that would shift it closer to the Minna Bank architecture?
 - How does the parent group allocate capital between きらぼし銀行 and UI Bank as the digital franchise scales?

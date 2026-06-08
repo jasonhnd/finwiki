@@ -31,7 +31,7 @@ translated_at: 2026-05-31T15:29:03.941Z
 
 ## 2.操作模型
 
-福井银行是一家区域银行，主要负责福井县的零售存款、中小企业金融、区域企业关系、北陆制造业/服务支持以及当地咨询。在北陆方面，它与[[hokuhoku-fg]]和[[hokkoku-fhd]]进行比较，但法定名称边界是一个独立的银行实体。有关北陆地区银行合并的背景信息，请参阅 [[banking/regional-bank-consolidation-pattern]]。
+福井银行是一家区域银行，主要负责福井县的零售存款、中小企业金融、区域企业关系、北陆制造业/服务支持以及当地咨询。在北陆方面，它与[[regional-banks/hokuhoku-fg]]和[[regional-banks/hokkoku-fhd]]进行比较，但法定名称边界是一个独立的银行实体。有关北陆地区银行合并的背景信息，请参阅 [[banking/regional-bank-consolidation-pattern]]。
 
 ## 3 。为什么此页面很重要
 
@@ -41,10 +41,10 @@ translated_at: 2026-05-31T15:29:03.941Z
 
 ## 有关的
 
-- [[hokuhoku-fg]]
-- [[hokkoku-fhd]]
-- [[daishi-hokuetsu-bank]]
-- [[tokai-tokyo-fh]]
+- [[regional-banks/hokuhoku-fg]]
+- [[regional-banks/hokkoku-fhd]]
+- [[regional-banks/daishi-hokuetsu-bank]]
+- [[securities-firms/tokai-tokyo-fh]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 

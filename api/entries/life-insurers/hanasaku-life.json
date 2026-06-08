@@ -49,34 +49,32 @@
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 8,
+    "wikilinks_count": 7,
     "wikilinks": [
       "insurance/INDEX",
       "insurance/life-insurance-channel-mix",
       "life-insurers/INDEX",
+      "life-insurers/medicare-life",
       "life-insurers/nanairo-life",
-      "medicare-life",
-      "nanairo-life",
-      "nippon-life",
-      "nissay-wealth-life"
+      "life-insurers/nippon-life",
+      "life-insurers/nissay-wealth-life"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/insurance/INDEX",
       "https://finwiki.zksc.io/insurance/life-insurance-channel-mix",
       "https://finwiki.zksc.io/life-insurers/INDEX",
+      "https://finwiki.zksc.io/life-insurers/medicare-life",
       "https://finwiki.zksc.io/life-insurers/nanairo-life",
-      "https://finwiki.zksc.io/medicare-life",
-      "https://finwiki.zksc.io/nanairo-life",
-      "https://finwiki.zksc.io/nippon-life",
-      "https://finwiki.zksc.io/nissay-wealth-life"
+      "https://finwiki.zksc.io/life-insurers/nippon-life",
+      "https://finwiki.zksc.io/life-insurers/nissay-wealth-life"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1821,
-    "word_like_tokens": 284,
-    "inbound_wikilinks_count": 4,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 1933,
+    "word_like_tokens": 300,
+    "inbound_wikilinks_count": 6,
+    "last_modified": "2026-06-08"
   }
 }

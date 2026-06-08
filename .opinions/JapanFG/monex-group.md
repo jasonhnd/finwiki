@@ -21,7 +21,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 ## Open questions
 
 - NTT ドコモ連結子会社化後のグループ再編スキームの最終形は？ マネックス証券のドコモ系移管と Coincheck / TradeStation の位置付け
-- [[ndfg]] における証券コア事業としての具体的統合プラン（公開予定 2026 年）の詳細は？
+- [[megabanks/ndfg]] における証券コア事業としての具体的統合プラン（公開予定 2026 年）の詳細は？
 - Coincheck の長期的戦略: マネックス傘下で独立運営継続か、ドコモ系金融への統合か？
 - TradeStation の米国上場計画（過去に SPAC ルート検討の報道あり）の現状は？
-- d 経済圏統合後の競合構図: vs [[sbi-hd]]（SBI 新生銀行 / SBI 証券）・vs 楽天証券（楽天経済圏）・vs PayPay 証券（[[paypay-fg]] 系）
+- d 経済圏統合後の競合構図: vs [[megabanks/sbi-hd]]（SBI 新生銀行 / SBI 証券）・vs 楽天証券（楽天経済圏）・vs PayPay 証券（[[megabanks/paypay-fg]] 系）

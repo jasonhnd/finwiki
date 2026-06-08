@@ -75,12 +75,12 @@ translated_at: 2026-06-02T14:25:12.425Z
 - **新潟県内 一県一行に近い地盤**：県内競合が ほぼ存在しない地銀構造（第二地銀格の北越を統合済）
 - 県内人口 220 万を独占的にカバー → 安定的な預金基盤と中堅企業のメインバンク ポジション
 - 2021-01 銀行合併で **店舗・人員・システムの統合シナジー** 顕在化フェーズ
-- 県内競合は信用金庫 / JA バンク / 郵貯（[[yucho]]）/ メガ法人融資
+- 県内競合は信用金庫 / JA バンク / 郵貯（[[regional-banks/yucho]]）/ メガ法人融資
 
 ### 県外進出戦略
 
 - **首都圏営業店**：県内顧客の取引先随伴（製造業 + 商社）+ 新規法人開拓
-- **メガバンクとの法人融資競合**：[[mufg]] / [[smfg]] / [[mizuho-fg]] が県内大手法人を直接アプローチ → main bank 防衛戦
+- **メガバンクとの法人融資競合**：[[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]] が県内大手法人を直接アプローチ → main bank 防衛戦
 - 県外展開は規模拡大よりも県内顧客サービス拡充の意味合いが強い
 
 ### 地場産業特性
@@ -93,8 +93,8 @@ translated_at: 2026-06-02T14:25:12.425Z
 ### 地銀再編における位置
 
 - 単独 FG として中堅広域連合の典型事例（県内一行型）
-- メガ 3 行（[[mufg]] / [[smfg]] / [[mizuho-fg]]）に対して県内 メインバンクとしての位置で対抗
-- [[ndfg]] 等の他広域 FG / 隣県（東北・北陸）地銀との将来連合可能性は未確定
+- メガ 3 行（[[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]]）に対して県内 メインバンクとしての位置で対抗
+- [[megabanks/ndfg]] 等の他広域 FG / 隣県（東北・北陸）地銀との将来連合可能性は未確定
 
 ## 4. 規制・政策
 
@@ -108,9 +108,9 @@ translated_at: 2026-06-02T14:25:12.425Z
 
 ## 関連項目
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]]
-- [[fukuoka-fg]] · [[ndfg]] · [[regional-banks/chiba-bank|chiba-bank-fg]] · [[concordia-fg]] · [[mebuki-fg]]
-- [[sbi-hd]] · [[yucho]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]
+- [[regional-banks/fukuoka-fg]] · [[megabanks/ndfg]] · [[regional-banks/chiba-bank|chiba-bank-fg]] · [[regional-banks/concordia-fg]] · [[regional-banks/mebuki-fg]]
+- [[megabanks/sbi-hd]] · [[regional-banks/yucho]]
 
 ## 出典
 

@@ -109,7 +109,7 @@ Seven Bank（上市 8410, 第一大股东=Seven-Eleven Japan 39.93%）
 ### 竞争关系
 
 - **Aeon Bank**：另一家代表性流通系银行（Aeon group 门店网络 + ATM 战略）
-- **便利店系 ATM**：Lawson Bank（[[lawson-bank]]）、E-net（FamilyMart 系・母公司=[[smfg]]集团）
+- **便利店系 ATM**：Lawson Bank（[[regional-banks/lawson-bank]]）、E-net（FamilyMart 系・母公司=[[megabanks/smfg]]集团）
 
 ## 4. 监管 / 政策
 
@@ -122,8 +122,8 @@ Seven Bank（上市 8410, 第一大股东=Seven-Eleven Japan 39.93%）
 
 ## Related
 
-- [[retail/seven-and-i-hd|seven-and-i-hd]] · [[lawson-bank]] · [[aeon-bank]]
-- [[mufg]] · [[smfg]] · [[mizuho-fg]]
+- [[retail/seven-and-i-hd|seven-and-i-hd]] · [[regional-banks/lawson-bank]] · [[card-issuers/aeon-bank]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]
 - [[banking/minna-bank-baas-model]] · [[banking/mercari-bank-license-stack]]
 
 ## Sources

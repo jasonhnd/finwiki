@@ -97,7 +97,7 @@ Credit Saison's proprietary "non-expiring points" program created a retention lo
 
 ### Competition and differentiation
 
-- Competitors include MUFG NICOS under [[mufg]], JCB, Sumitomo Mitsui Card under [[smfg]], Rakuten Card, and PayPay Card under [[paypay-fg]].
+- Competitors include MUFG NICOS under [[megabanks/mufg]], JCB, Sumitomo Mitsui Card under [[megabanks/smfg]], Rakuten Card, and PayPay Card under [[megabanks/paypay-fg]].
 - Credit Saison is positioned as a leading retail-affiliated card issuer, distinct from both megabank card issuers and technology / e-commerce issuers.
 - The combination of Seibu / PARCO retail lineage, American Express premium issuance, and the Eikyufumetsu Point program remains distinctive.
 
@@ -130,10 +130,10 @@ Credit Saison's proprietary "non-expiring points" program created a retention lo
 
 ## Related
 
-- [[mizuho-fg]]: major-shareholder and main-bank lineage
-- [[mufg]] and [[smfg]]: parents of competing card issuers
-- [[paypay-fg]]: technology-affiliated card competitor
-- [[jcb]]: international-brand competitor and partner
+- [[megabanks/mizuho-fg]]: major-shareholder and main-bank lineage
+- [[megabanks/mufg]] and [[megabanks/smfg]]: parents of competing card issuers
+- [[megabanks/paypay-fg]]: technology-affiliated card competitor
+- [[card-issuers/jcb]]: international-brand competitor and partner
 
 ## Sources
 

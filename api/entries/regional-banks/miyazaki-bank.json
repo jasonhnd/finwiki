@@ -49,23 +49,19 @@
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 15,
+    "wikilinks_count": 11,
     "wikilinks": [
       "INDEX",
       "banking/INDEX",
       "banking/regional-bank-consolidation-pattern",
       "financial-regulators/fsa",
       "financial-regulators/zenginkyo",
-      "higo-bank",
-      "kagoshima-bank",
-      "kyushu-fg",
-      "miyazaki-taiyo-bank",
-      "oita-bank",
       "regional-banks/INDEX",
       "regional-banks/higo-bank",
       "regional-banks/kagoshima-bank",
       "regional-banks/kyushu-fg",
-      "regional-banks/miyazaki-taiyo-bank"
+      "regional-banks/miyazaki-taiyo-bank",
+      "regional-banks/oita-bank"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
@@ -73,24 +69,20 @@
       "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
       "https://finwiki.zksc.io/financial-regulators/fsa",
       "https://finwiki.zksc.io/financial-regulators/zenginkyo",
-      "https://finwiki.zksc.io/higo-bank",
-      "https://finwiki.zksc.io/kagoshima-bank",
-      "https://finwiki.zksc.io/kyushu-fg",
-      "https://finwiki.zksc.io/miyazaki-taiyo-bank",
-      "https://finwiki.zksc.io/oita-bank",
       "https://finwiki.zksc.io/regional-banks/INDEX",
       "https://finwiki.zksc.io/regional-banks/higo-bank",
       "https://finwiki.zksc.io/regional-banks/kagoshima-bank",
       "https://finwiki.zksc.io/regional-banks/kyushu-fg",
-      "https://finwiki.zksc.io/regional-banks/miyazaki-taiyo-bank"
+      "https://finwiki.zksc.io/regional-banks/miyazaki-taiyo-bank",
+      "https://finwiki.zksc.io/regional-banks/oita-bank"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2552,
-    "word_like_tokens": 363,
-    "inbound_wikilinks_count": 3,
-    "last_modified": "2026-06-05"
+    "nonspace_chars": 2627,
+    "word_like_tokens": 373,
+    "inbound_wikilinks_count": 6,
+    "last_modified": "2026-06-08"
   }
 }

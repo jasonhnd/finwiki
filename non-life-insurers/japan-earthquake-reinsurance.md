@@ -49,10 +49,10 @@ Japan's residential earthquake insurance is not a normal private-only catastroph
 ## Related
 
 - [[insurance/natcat-reinsurance-japan]]
-- [[toa-reinsurance]]
-- [[tokio-marine-nichido-fire]]
-- [[mitsui-sumitomo-insurance]]
-- [[sompo-japan-insurance]]
+- [[non-life-insurers/toa-reinsurance]]
+- [[non-life-insurers/tokio-marine-nichido-fire]]
+- [[non-life-insurers/mitsui-sumitomo-insurance]]
+- [[non-life-insurers/sompo-japan-insurance]]
 
 ## Sources
 

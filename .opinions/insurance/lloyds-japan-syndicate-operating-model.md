@@ -26,7 +26,7 @@ Lloyd's of London is not a single insurer — it is a society of underwriting me
 
 ## 推論 (from 2. Lloyd's Japan Inc. — what it is and what it isn't)
 
-[[JapanFG/lloyd-japan|Lloyd's Japan Inc. / ロイズ・ジャパン株式会社]] was licensed by the FSA as a non-life insurance underwriter in 2000 ^[inferred].
+[[non-life-insurers/lloyd-japan|Lloyd's Japan Inc. / ロイズ・ジャパン株式会社]] was licensed by the FSA as a non-life insurance underwriter in 2000 ^[inferred].
 | Legal form | Kabushiki kaisha (株式会社) in Japan ^[inferred] |
 | Role | Local platform through which Lloyd's syndicates write Japanese-located risks ^[inferred] |
 | Industry body | Member of the General Insurance Association of Japan (損保協会) ^[inferred] |

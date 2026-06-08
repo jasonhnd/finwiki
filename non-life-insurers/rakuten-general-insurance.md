@@ -24,7 +24,7 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 
 ## TL;DR
 
-楽天損害保険株式会社は、[[rakuten-fg]] / Rakuten insurance ecosystem の non-life insurance operating company。金融庁の損害保険会社免許一覧と損害保険契約者保護機構会員一覧に掲載される licensed insurer で、楽天カード・楽天銀行・楽天生命・楽天ポイント economic surface と接続しうる。
+楽天損害保険株式会社は、[[payment-firms/rakuten-fg]] / Rakuten insurance ecosystem の non-life insurance operating company。金融庁の損害保険会社免許一覧と損害保険契約者保護機構会員一覧に掲載される licensed insurer で、楽天カード・楽天銀行・楽天生命・楽天ポイント economic surface と接続しうる。
 
 ## 1. License / group boundary
 
@@ -34,11 +34,11 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 | English name | Rakuten General Insurance Co., Ltd. |
 | License route | Insurance Business Act non-life insurance company; FSA non-life insurer list |
 | Protection scheme | Non-Life Insurance Policyholders Protection Corporation member |
-| Group boundary | [[rakuten-fg]] / Rakuten insurance ecosystem |
+| Group boundary | [[payment-firms/rakuten-fg]] / Rakuten insurance ecosystem |
 
 ## 2. Operating model
 
-楽天損保 is strategically different from traditional agency-only non-life insurers because it can connect insurance distribution with Rakuten ID, points, card, bank, marketplace, and app traffic. It should be compared with [[rakuten-life]] and [[rakuten-insurance-hd]] coverage rather than hidden under a generic Rakuten group page.
+楽天損保 is strategically different from traditional agency-only non-life insurers because it can connect insurance distribution with Rakuten ID, points, card, bank, marketplace, and app traffic. It should be compared with [[life-insurers/rakuten-life]] and [[non-life-insurers/rakuten-insurance-hd]] coverage rather than hidden under a generic Rakuten group page.
 
 ## 3. Why this page matters
 
@@ -48,11 +48,11 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 
 ## Related
 
-- [[rakuten-fg]]
-- [[rakuten-insurance-hd]]
-- [[rakuten-life]]
-- [[rakuten-card]]
-- [[rakuten-edy]]
+- [[payment-firms/rakuten-fg]]
+- [[non-life-insurers/rakuten-insurance-hd]]
+- [[life-insurers/rakuten-life]]
+- [[card-issuers/rakuten-card]]
+- [[payment-firms/rakuten-edy]]
 - [[insurance/INDEX]]
 
 ## Sources

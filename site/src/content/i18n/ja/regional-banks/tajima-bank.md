@@ -40,9 +40,9 @@ translated_at: 2026-06-02T16:33:58.464Z
 
 ## 関連項目
 
-- [[kansai-mirai-bank]]
-- [[ikeda-senshu-bank]]
-- [[minato-bank|みなと銀行]]
+- [[regional-banks/kansai-mirai-bank]]
+- [[regional-banks/ikeda-senshu-bank]]
+- [[regional-banks/minato-bank|みなと銀行]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 

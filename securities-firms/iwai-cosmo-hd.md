@@ -22,7 +22,7 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it
 
 ## TL;DR
 
-**大阪地盤の中堅独立系証券持株会社**（東証 PRIME 8707）。1918 年 岩井宇次郎 が大阪で創業した岩井証券をルーツとし、2010-04 に旧 岩井証券と旧 コスモ証券が経営統合して**岩井コスモ証券**を発足、同月 持株会社化により 岩井コスモ HD が成立した。対面リテール中心の中堅独立証券として、関西基盤に米国株・新興国株などの海外仲介、IPO 引受、コンサルティング型営業を展開する。競合は [[aizawa-sg]] / [[okasan-sg]] / [[tokai-tokyo-fh]] / [[matsui-sec]] 等の中堅独立証券グループ。^[extracted]
+**大阪地盤の中堅独立系証券持株会社**（東証 PRIME 8707）。1918 年 岩井宇次郎 が大阪で創業した岩井証券をルーツとし、2010-04 に旧 岩井証券と旧 コスモ証券が経営統合して**岩井コスモ証券**を発足、同月 持株会社化により 岩井コスモ HD が成立した。対面リテール中心の中堅独立証券として、関西基盤に米国株・新興国株などの海外仲介、IPO 引受、コンサルティング型営業を展開する。競合は [[securities-firms/aizawa-sg]] / [[securities-firms/okasan-sg]] / [[securities-firms/tokai-tokyo-fh]] / [[securities-firms/matsui-sec]] 等の中堅独立証券グループ。^[extracted]
 
 ## 1. 会社概要
 
@@ -100,13 +100,13 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it
 
 中堅独立証券のクラスタは以下の通り（各社とも独自の歴史と地盤を持つ）：
 
-- [[aizawa-sg]] アイザワ証券 G — 東京地盤、アジア株・新興国株に強み
-- [[okasan-sg]] 岡三 G — 名古屋発祥、東海地盤
-- [[tokai-tokyo-fh]] 東海東京 FH — 東海地盤、中部財界系
-- [[matsui-sec]] 松井証券 — ネット証券独立系・先駆者
+- [[securities-firms/aizawa-sg]] アイザワ証券 G — 東京地盤、アジア株・新興国株に強み
+- [[securities-firms/okasan-sg]] 岡三 G — 名古屋発祥、東海地盤
+- [[securities-firms/tokai-tokyo-fh]] 東海東京 FH — 東海地盤、中部財界系
+- [[securities-firms/matsui-sec]] 松井証券 — ネット証券独立系・先駆者
 - 岩井コスモ HD — **関西地盤、対面リテール中心**
 
-メガバンク系（[[mufg]] / [[smfg]] / [[mizuho-fg]] 傘下証券）やネット系大手（[[sbi-hd]] / 楽天証券 等）と比較し、規模では劣るものの、地域密着・対面提案力・独立系の柔軟性を差別化軸とする。
+メガバンク系（[[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]] 傘下証券）やネット系大手（[[megabanks/sbi-hd]] / 楽天証券 等）と比較し、規模では劣るものの、地域密着・対面提案力・独立系の柔軟性を差別化軸とする。
 
 ### 中計（2024）
 
@@ -124,9 +124,9 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it
 
 ## Related
 
-- [[aizawa-sg]] · [[okasan-sg]] · [[tokai-tokyo-fh]] · [[matsui-sec]] — 中堅独立証券クラスタ
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] — メガバンク系証券との対比
-- [[sbi-hd]] — ネット系大手との対比
+- [[securities-firms/aizawa-sg]] · [[securities-firms/okasan-sg]] · [[securities-firms/tokai-tokyo-fh]] · [[securities-firms/matsui-sec]] — 中堅独立証券クラスタ
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] — メガバンク系証券との対比
+- [[megabanks/sbi-hd]] — ネット系大手との対比
 
 ## Sources
 

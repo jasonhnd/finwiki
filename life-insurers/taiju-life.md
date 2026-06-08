@@ -24,7 +24,7 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 
 ## TL;DR
 
-大樹生命保険株式会社は、金融庁の生命保険会社免許一覧に掲載される life-insurance operating company。旧三井生命として知られる lineage を持ち、現在は [[nippon-life]] group adjacency を意識して追うべき insurer だが、契約 underwriting entity としては standalone page が必要。
+大樹生命保険株式会社は、金融庁の生命保険会社免許一覧に掲載される life-insurance operating company。旧三井生命として知られる lineage を持ち、現在は [[life-insurers/nippon-life]] group adjacency を意識して追うべき insurer だが、契約 underwriting entity としては standalone page が必要。
 
 ## 1. License / group boundary
 
@@ -38,7 +38,7 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 
 ## 2. Operating model
 
-大樹生命は、traditional life-insurance products and sales channels を持つ operating insurer。FinWiki では [[nippon-life]]、[[meiji-yasuda]]、[[sumitomo-life]] などの large mutual insurers との関係性だけでなく、legacy brand / sales-force channel / product mix を分けて確認する。
+大樹生命は、traditional life-insurance products and sales channels を持つ operating insurer。FinWiki では [[life-insurers/nippon-life]]、[[life-insurers/meiji-yasuda]]、[[life-insurers/sumitomo-life]] などの large mutual insurers との関係性だけでなく、legacy brand / sales-force channel / product mix を分けて確認する。
 
 大手生保 group の再編や提携は、保険契約者保護、solvency, distribution productivity, capital allocation に影響するため、単独の legal-entity anchor を置く。
 
@@ -50,11 +50,11 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 
 ## Related
 
-- [[nippon-life]]
-- [[meiji-yasuda]]
-- [[sumitomo-life]]
-- [[asahi-life]]
-- [[fukoku-life]]
+- [[life-insurers/nippon-life]]
+- [[life-insurers/meiji-yasuda]]
+- [[life-insurers/sumitomo-life]]
+- [[life-insurers/asahi-life]]
+- [[life-insurers/fukoku-life]]
 - [[insurance/mutual-vs-stock-life-insurer]]
 
 ## Sources

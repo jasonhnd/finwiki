@@ -27,7 +27,7 @@ This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-i
 
 ## TL;DR
 
-仏 **BNP パリバ SA**（G-SIB Bucket 2 / 2025 FSB リスト、Mitsubishi UFJ FG と同列）の日本拠点群。**1867 年 横浜開設**（旧 Comptoir National d'Escompte de Paris = CEP）に遡る最古参の在日欧州銀行のひとつ。現在は **約 700 名規模**、銀行（東京支店）+ 証券（BNP パリバ証券）+ 資産運用（BNP パリバ AM ジャパン）+ 生損保（カーディフ生命・カーディフ損保）の 4 軸で、CIB（コーポレート・機関投資家銀行業務）+ IPS（投資・保護サービス）の 2 ドメインを担当。欧州系では [[hsbc-japan]] / [[deutsche-japan]] と並ぶ主要外資 IB プレゼンス。
+仏 **BNP パリバ SA**（G-SIB Bucket 2 / 2025 FSB リスト、Mitsubishi UFJ FG と同列）の日本拠点群。**1867 年 横浜開設**（旧 Comptoir National d'Escompte de Paris = CEP）に遡る最古参の在日欧州銀行のひとつ。現在は **約 700 名規模**、銀行（東京支店）+ 証券（BNP パリバ証券）+ 資産運用（BNP パリバ AM ジャパン）+ 生損保（カーディフ生命・カーディフ損保）の 4 軸で、CIB（コーポレート・機関投資家銀行業務）+ IPS（投資・保護サービス）の 2 ドメインを担当。欧州系では [[foreign-financial-institutions/hsbc-japan]] / [[foreign-financial-institutions/deutsche-japan]] と並ぶ主要外資 IB プレゼンス。
 
 ## 1. 会社概要
 
@@ -105,7 +105,7 @@ BNP Paribas SA（仏 G-SIB Bucket 2）
 
 ### 在日ポジショニング
 
-- **CIB 集中型**: リテール バンキング撤退（[[citigroup-japan]] と同様、邦銀の壁が厚い）、法人 / 機関投資家集中
+- **CIB 集中型**: リテール バンキング撤退（[[foreign-financial-institutions/citigroup-japan]] と同様、邦銀の壁が厚い）、法人 / 機関投資家集中
 - **団信ニッチ**: カーディフ生命のがん団信 + 銀行窓販モデルは独自地位 ── 邦銀との「敵ではない協業」モデル
 
 ### デジタル戦略
@@ -156,9 +156,9 @@ BNP Paribas SA（仏 G-SIB Bucket 2）
 
 ## Related
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[nomura-hd]] · [[daiwa-sg]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[securities-firms/nomura-hd]] · [[securities-firms/daiwa-sg]]
 - 同業外資系（未作成）: citigroup-japan · hsbc-japan · deutsche-japan
-- [[ndfg]]（日系 IB / 信託・証券との競合・協業）
+- [[megabanks/ndfg]]（日系 IB / 信託・証券との競合・協業）
 
 ## Sources
 

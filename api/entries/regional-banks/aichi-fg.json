@@ -52,40 +52,40 @@
   "body_links": {
     "wikilinks_count": 12,
     "wikilinks": [
-      "aichi-bank",
       "banking/INDEX",
-      "juroku-fg",
-      "mizuho-fg",
-      "mufg",
-      "nagoya-bank",
-      "ogaki-kyoritsu-bank",
+      "megabanks/mizuho-fg",
+      "megabanks/mufg",
+      "megabanks/smfg",
       "regional-banks/INDEX",
+      "regional-banks/aichi-bank",
       "regional-banks/hachijuni-nagano-bank",
-      "san-jusan-fg",
-      "shizuoka-fg",
-      "smfg"
+      "regional-banks/juroku-fg",
+      "regional-banks/nagoya-bank",
+      "regional-banks/ogaki-kyoritsu-bank",
+      "regional-banks/san-jusan-fg",
+      "regional-banks/shizuoka-fg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/aichi-bank",
       "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/juroku-fg",
-      "https://finwiki.zksc.io/mizuho-fg",
-      "https://finwiki.zksc.io/mufg",
-      "https://finwiki.zksc.io/nagoya-bank",
-      "https://finwiki.zksc.io/ogaki-kyoritsu-bank",
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/smfg",
       "https://finwiki.zksc.io/regional-banks/INDEX",
+      "https://finwiki.zksc.io/regional-banks/aichi-bank",
       "https://finwiki.zksc.io/regional-banks/hachijuni-nagano-bank",
-      "https://finwiki.zksc.io/san-jusan-fg",
-      "https://finwiki.zksc.io/shizuoka-fg",
-      "https://finwiki.zksc.io/smfg"
+      "https://finwiki.zksc.io/regional-banks/juroku-fg",
+      "https://finwiki.zksc.io/regional-banks/nagoya-bank",
+      "https://finwiki.zksc.io/regional-banks/ogaki-kyoritsu-bank",
+      "https://finwiki.zksc.io/regional-banks/san-jusan-fg",
+      "https://finwiki.zksc.io/regional-banks/shizuoka-fg"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3495,
-    "word_like_tokens": 575,
-    "inbound_wikilinks_count": 9,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 3885,
+    "word_like_tokens": 625,
+    "inbound_wikilinks_count": 12,
+    "last_modified": "2026-06-08"
   }
 }

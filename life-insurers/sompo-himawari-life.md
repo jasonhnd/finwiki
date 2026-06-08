@@ -24,7 +24,7 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 
 ## TL;DR
 
-SOMPOひまわり生命保険株式会社は、[[sompo]] group の life-insurance operating company。[[sompo]] 本体は non-life major として見られがちだが、SOMPOひまわり生命は金融庁 life-insurer list に載る separate underwriting entity で、health / life protection products を扱う。
+SOMPOひまわり生命保険株式会社は、[[non-life-insurers/sompo]] group の life-insurance operating company。[[non-life-insurers/sompo]] 本体は non-life major として見られがちだが、SOMPOひまわり生命は金融庁 life-insurer list に載る separate underwriting entity で、health / life protection products を扱う。
 
 ## 1. License / group boundary
 
@@ -33,14 +33,14 @@ SOMPOひまわり生命保険株式会社は、[[sompo]] group の life-insuranc
 | Legal name | ＳＯＭＰＯひまわり生命保険株式会社 |
 | License route | Insurance Business Act life-insurance company; FSA life insurer list |
 | Industry body | Life Insurance Association of Japan member |
-| Group boundary | [[sompo]] life-insurance operating company |
+| Group boundary | [[non-life-insurers/sompo]] life-insurance operating company |
 | Wiki role | Non-life-major group underwriter for life-insurance products |
 
 ## 2. Operating model
 
-SOMPO group は [[tokio-marine]]、[[msad]] と並ぶ non-life major だが、group strategy は non-life, life, nursing care, digital / health-support services をまたぐ。SOMPOひまわり生命はこのうち life-insurance underwriting boundary を担うため、[[sompo]] parent page とは切り分ける。
+SOMPO group は [[non-life-insurers/tokio-marine]]、[[non-life-insurers/msad]] と並ぶ non-life major だが、group strategy は non-life, life, nursing care, digital / health-support services をまたぐ。SOMPOひまわり生命はこのうち life-insurance underwriting boundary を担うため、[[non-life-insurers/sompo]] parent page とは切り分ける。
 
-FinWiki では、non-life group の life arm という観点で [[tokio-marine-nichido-life]] や今後追加予定の MS&AD group life arms と比較する。
+FinWiki では、non-life group の life arm という観点で [[life-insurers/tokio-marine-nichido-life]] や今後追加予定の MS&AD group life arms と比較する。
 
 ## 3. Why this page matters
 
@@ -50,10 +50,10 @@ FinWiki では、non-life group の life arm という観点で [[tokio-marine-n
 
 ## Related
 
-- [[sompo]]
-- [[tokio-marine]]
-- [[msad]]
-- [[tokio-marine-nichido-life]]
+- [[non-life-insurers/sompo]]
+- [[non-life-insurers/tokio-marine]]
+- [[non-life-insurers/msad]]
+- [[life-insurers/tokio-marine-nichido-life]]
 - [[insurance/INDEX]]
 
 ## Sources

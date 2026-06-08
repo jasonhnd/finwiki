@@ -15,7 +15,7 @@ translated_at: 2026-05-31T23:05:42.097Z
 
 ## TL;DR
 
-株式会社高知银行是列入金融厅银行许可名单、总部位于高知县的第二地方银行。它是高知县 second-regional-bank operating-company anchor，并作为与 [[shikoku-bank|四国銀行]] 分开的同业法人处理。
+株式会社高知银行是列入金融厅银行许可名单、总部位于高知县的第二地方银行。它是高知县 second-regional-bank operating-company anchor，并作为与 [[regional-banks/shikoku-bank|四国銀行]] 分开的同业法人处理。
 
 ## 1. 许可 / 集团边界
 
@@ -29,21 +29,21 @@ translated_at: 2026-05-31T23:05:42.097Z
 
 ## 2. 运营模式
 
-高知银行是以高知县为中心，提供 retail deposits, SME finance, local relationship banking, and regional customer support 的 second regional bank。在高知县内，它与 [[shikoku-bank]] 形成第一地方银行 / 第二地方银行的同业边界。关于四国第二地方银行的整合压力，参见 [[banking/regional-bank-consolidation-pattern]] 和 [[banking/INDEX|banking index]]。
+高知银行是以高知县为中心，提供 retail deposits, SME finance, local relationship banking, and regional customer support 的 second regional bank。在高知县内，它与 [[regional-banks/shikoku-bank]] 形成第一地方银行 / 第二地方银行的同业边界。关于四国第二地方银行的整合压力，参见 [[banking/regional-bank-consolidation-pattern]] 和 [[banking/INDEX|banking index]]。
 
 ## 3. 本页为何重要
 
 - 补齐 FSA 精确名称下的高知银行页面。
-- 将高知第二地方银行覆盖范围与 [[shikoku-bank]] 区分开。
+- 将高知第二地方银行覆盖范围与 [[regional-banks/shikoku-bank]] 区分开。
 - 为四国地区银行比较提供银行层级锚点。
 
 ## Related
 
-- [[shikoku-bank]]
-- [[awa-bank]]
-- [[hyakujushi-bank]]
-- [[iyo-bank]]
-- [[ehime-bank]]
+- [[regional-banks/shikoku-bank]]
+- [[regional-banks/awa-bank]]
+- [[regional-banks/hyakujushi-bank]]
+- [[regional-banks/iyo-bank]]
+- [[regional-banks/ehime-bank]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 

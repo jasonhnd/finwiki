@@ -54,8 +54,8 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 1. **USD のチェーン級覇権がさらに強化**：USDC は三円を通じて先進国世界をカバー、Tether の市場シェアを遥かに上回る（Tether は新興市場とグレーゾーンのみに存在）。
 2. **次級陣営が選択を迫られる**：英国、スイス、シンガポール、香港等は「USD 陣営」または「その他陣営」への参加選択が必要。
-3. **BRICS 陣営の反撃**：[[stablecoin-chain-sovereign-currency-divide|5 極地政学対立]] において、「グレー」および「非 USD」サークルの資本フロー方向が変化する。
-4. **インド / 中国の挑戦**：[[india-anti-dollar-dpi-alliance|インド UPI / MOSIP DPI 連合]] が代替ナラティブを提供する。
+3. **BRICS 陣営の反撃**：[[fintech/stablecoin-chain-sovereign-currency-divide|5 極地政学対立]] において、「グレー」および「非 USD」サークルの資本フロー方向が変化する。
+4. **インド / 中国の挑戦**：[[fintech/india-anti-dollar-dpi-alliance|インド UPI / MOSIP DPI 連合]] が代替ナラティブを提供する。
 
 **市場構造への含意**：
 

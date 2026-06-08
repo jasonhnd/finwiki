@@ -23,7 +23,7 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it
 
 ## TL;DR
 
-中堅独立証券持株会社（東証 STD **8708**）。1918-02 藍澤彌八が東京・日本橋兜町で 藍澤證券店 として創業 → 1948 株式会社化 → 1989 ジャスダック上場 → 2017-04 持株会社化。**「アジア新興国投資の専門証券」** として独自ポジション確立。日本の証券会社では最も広いアジア新興国カバレッジ（ベトナム・インドネシア・タイ・カンボジア・ミャンマー等）。リテール中心、法人 IB は限定的。競合は同じ独立中堅枠の [[okasan-sg]] / [[tokai-tokyo-fh]]、ネット系 [[matsui-sec]] / [[monex-group]]。^[extracted]
+中堅独立証券持株会社（東証 STD **8708**）。1918-02 藍澤彌八が東京・日本橋兜町で 藍澤證券店 として創業 → 1948 株式会社化 → 1989 ジャスダック上場 → 2017-04 持株会社化。**「アジア新興国投資の専門証券」** として独自ポジション確立。日本の証券会社では最も広いアジア新興国カバレッジ（ベトナム・インドネシア・タイ・カンボジア・ミャンマー等）。リテール中心、法人 IB は限定的。競合は同じ独立中堅枠の [[securities-firms/okasan-sg]] / [[securities-firms/tokai-tokyo-fh]]、ネット系 [[securities-firms/matsui-sec]] / [[securities-firms/monex-group]]。^[extracted]
 
 ## 1. 会社概要
 
@@ -76,11 +76,11 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it
 - 日本の証券会社では **アジア新興国カバレッジが最も広い**（フロンティア市場含む）^[extracted]
 - ベトナム・インドネシア・タイ・カンボジア・ミャンマー の現地ネットワーク
 - 個人投資家がアクセスしにくいフロンティア市場銘柄を、対面サービス込みで仲介
-- 大手証券（[[ndfg]] / 大和 / SMBC 日興）が扱わない地域への集中で隙間市場を確保
+- 大手証券（[[megabanks/ndfg]] / 大和 / SMBC 日興）が扱わない地域への集中で隙間市場を確保
 
 ### 国内ポジション
 
-- 中堅独立証券枠（[[okasan-sg]] / [[tokai-tokyo-fh]] / [[matsui-sec]] / [[monex-group]] / [[iwai-cosmo-hd]] と並ぶ）
+- 中堅独立証券枠（[[securities-firms/okasan-sg]] / [[securities-firms/tokai-tokyo-fh]] / [[securities-firms/matsui-sec]] / [[securities-firms/monex-group]] / [[securities-firms/iwai-cosmo-hd]] と並ぶ）
 - リテール（個人客）特化、法人 IB は手掛けず
 - 対面営業 + 一部オンライン取引のハイブリッド（ネット専業ではない）
 
@@ -93,12 +93,12 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it
 
 | 競合 | 軸 |
 |---|---|
-| [[iwai-cosmo-hd]]（岩井コスモ HD）| 同じ中堅独立証券、関西発祥、対面 + ネットのハイブリッド |
-| [[okasan-sg]]（岡三 SG）| 中京経済圏発祥の中堅独立証券、ネット証券 + 対面 |
-| [[tokai-tokyo-fh]]（東海東京 FH）| 中京 + 関東の中堅、地域金融機関と提携多数 |
-| [[matsui-sec]]（松井証券）| ネット専業、若年層中心 |
-| [[monex-group]]（マネックス G）| ネット専業、米国株 + 暗号資産で差別化 |
-| [[smbc-nikko]]（SMBC 日興）| 大手 5 大証券、メガバンク傘下 |
+| [[securities-firms/iwai-cosmo-hd]]（岩井コスモ HD）| 同じ中堅独立証券、関西発祥、対面 + ネットのハイブリッド |
+| [[securities-firms/okasan-sg]]（岡三 SG）| 中京経済圏発祥の中堅独立証券、ネット証券 + 対面 |
+| [[securities-firms/tokai-tokyo-fh]]（東海東京 FH）| 中京 + 関東の中堅、地域金融機関と提携多数 |
+| [[securities-firms/matsui-sec]]（松井証券）| ネット専業、若年層中心 |
+| [[securities-firms/monex-group]]（マネックス G）| ネット専業、米国株 + 暗号資産で差別化 |
+| [[securities-firms/smbc-nikko]]（SMBC 日興）| 大手 5 大証券、メガバンク傘下 |
 
 ## 4. 規制・政策
 
@@ -115,9 +115,9 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it
 
 ## Related
 
-- [[okasan-sg]] · [[tokai-tokyo-fh]] · [[matsui-sec]] · [[monex-group]] · [[iwai-cosmo-hd]]
-- [[ndfg]] · [[daiwa-sg]] · [[smbc-nikko]]
-- [[sbi-hd]]
+- [[securities-firms/okasan-sg]] · [[securities-firms/tokai-tokyo-fh]] · [[securities-firms/matsui-sec]] · [[securities-firms/monex-group]] · [[securities-firms/iwai-cosmo-hd]]
+- [[megabanks/ndfg]] · [[securities-firms/daiwa-sg]] · [[securities-firms/smbc-nikko]]
+- [[megabanks/sbi-hd]]
 
 ## Sources
 

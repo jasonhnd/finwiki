@@ -22,7 +22,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-静岡県地盤の単独地銀持株会社（地銀単体としては国内最大級の一角）。2022-10-03 静岡銀行が単独株式移転で持株会社化して発足。**静岡県内 No.1 地盤（県内シェア圧倒・製造業集積地）+ モンゴル等海外進出 + 県内同業 [[suruga-bank|スルガ銀行]]・[[shimizu-bank|清水銀行]] との並存**。単独地銀の持株会社化により資本効率改善と M&A 余地を確保する戦略。
+静岡県地盤の単独地銀持株会社（地銀単体としては国内最大級の一角）。2022-10-03 静岡銀行が単独株式移転で持株会社化して発足。**静岡県内 No.1 地盤（県内シェア圧倒・製造業集積地）+ モンゴル等海外進出 + 県内同業 [[regional-banks/suruga-bank|スルガ銀行]]・[[regional-banks/shimizu-bank|清水銀行]] との並存**。単独地銀の持株会社化により資本効率改善と M&A 余地を確保する戦略。
 
 ## 1. 会社概要
 
@@ -55,7 +55,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 - **静岡銀行 東証一部上場**（戦後の地銀コアとして長期上場、PRIME 移行は 2022-04 市場区分見直し）
 - **2022-10-03 しずおか FG 設立**：静岡銀行が単独株式移転で持株会社化（地銀単独持株会社化の典型ケース）
 
-> 統合背景：地銀単独持株会社化により、(1) 子会社化された証券・リース・信用保証等のグループ金融機能を持株会社直下に整理して資本効率改善、(2) 銀行本体に閉じない M&A・新業態進出の余地確保、(3) 県外進出・海外展開の機動性向上 — の 3 点を狙う。同様の単独 FG 化は [[fukuoka-fg|FFG]] 等の先行例と異なり「合併ではなく単独株式移転」が特徴。
+> 統合背景：地銀単独持株会社化により、(1) 子会社化された証券・リース・信用保証等のグループ金融機能を持株会社直下に整理して資本効率改善、(2) 銀行本体に閉じない M&A・新業態進出の余地確保、(3) 県外進出・海外展開の機動性向上 — の 3 点を狙う。同様の単独 FG 化は [[regional-banks/fukuoka-fg|FFG]] 等の先行例と異なり「合併ではなく単独株式移転」が特徴。
 
 ### 重要年表（抜粋）
 
@@ -82,8 +82,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 - **静岡県 = 製造業集積地**：人口約 360 万（全国 10 位前後）、自動車（スズキ・ヤマハ発動機・トヨタ系）、楽器（ヤマハ・ローランド・河合楽器）、食品・お茶等の有力中堅企業集積。これらの main bank ポジションが収益基盤
 - **県内同業との並存**：
-  - [[suruga-bank|スルガ銀行]]（静岡県沼津本店、第二地銀）── 県東部の競合、過去のかぼちゃの家投資問題で経営再建中
-  - [[shimizu-bank|清水銀行 等]] ── 県内中小地銀との競合・棲み分け
+  - [[regional-banks/suruga-bank|スルガ銀行]]（静岡県沼津本店、第二地銀）── 県東部の競合、過去のかぼちゃの家投資問題で経営再建中
+  - [[regional-banks/shimizu-bank|清水銀行 等]] ── 県内中小地銀との競合・棲み分け
 - **県内シェア圧倒**だが、人口減と若年層流出は中長期の構造課題
 
 ### 海外戦略
@@ -100,9 +100,9 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ### 地銀再編における位置
 
-- **単独地銀グループとしては国内最大級の一角**（[[fukuoka-fg|FFG]]・[[regional-banks/chiba-bank|千葉銀行 FG]]・[[concordia-fg|コンコルディア FG]] 等と並ぶ拠点）
+- **単独地銀グループとしては国内最大級の一角**（[[regional-banks/fukuoka-fg|FFG]]・[[regional-banks/chiba-bank|千葉銀行 FG]]・[[regional-banks/concordia-fg|コンコルディア FG]] 等と並ぶ拠点）
 - **SBI 第 4 メガ構想とは距離**を取る独立路線（地盤の強さと製造業 main bank ポジションがある）
-- **メガバンク（[[mufg]] / [[smfg]] / [[mizuho-fg]]）に対しては地域密着 + 製造業集積で対抗**
+- **メガバンク（[[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]]）に対しては地域密着 + 製造業集積で対抗**
 
 ## 4. 規制・政策
 
@@ -116,8 +116,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## Related
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]]（メガバンク 3 行）
-- [[fukuoka-fg]] · [[suruga-bank]] · [[shimizu-bank]] · [[shizuoka-chuo-bank]]（地銀・第二地銀群）
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]（メガバンク 3 行）
+- [[regional-banks/fukuoka-fg]] · [[regional-banks/suruga-bank]] · [[regional-banks/shimizu-bank]] · [[regional-banks/shizuoka-chuo-bank]]（地銀・第二地銀群）
 - [[banking/minna-bank-baas-model]]（地銀デジタル戦略比較）
 
 ## Sources

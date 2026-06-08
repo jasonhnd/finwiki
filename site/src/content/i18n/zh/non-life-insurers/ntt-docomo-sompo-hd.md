@@ -37,7 +37,7 @@ NTT DOCOMO ?????????????? DOCOMO ???????????????????????????????????????????????
 
 ## ??????
 
-- [[non-life-insurers/INDEX|non-life-insurers INDEX]] [[insurance/INDEX|insurance index]] [[financial-licenses/INDEX|JapanFG index]] 2024  1 2024-04-04 2 [[megabanks/ndfg|NDFG (NTT Docomo Financial Group)]] [[non-life-insurers/sompo|SOMPO HD]] [[megabanks/au-fh|au-FH]] [[non-life-insurers/au-insurance|au 損保]] 3 [[ndfg]] [[ndfg]] [[au-fh]] [[paypay-fg]] [[insurance/INDEX]] [[financial-regulators/missing-financial-institutions-backlog]]
+- [[non-life-insurers/INDEX|non-life-insurers INDEX]] [[insurance/INDEX|insurance index]] [[financial-licenses/INDEX|JapanFG index]] 2024  1 2024-04-04 2 [[megabanks/ndfg|NDFG (NTT Docomo Financial Group)]] [[non-life-insurers/sompo|SOMPO HD]] [[megabanks/au-fh|au-FH]] [[non-life-insurers/au-insurance|au 損保]] 3 [[megabanks/ndfg]] [[megabanks/ndfg]] [[megabanks/au-fh]] [[megabanks/paypay-fg]] [[insurance/INDEX]] [[financial-regulators/missing-financial-institutions-backlog]]
 - 2026-04-01 2024-04-04
 
 ## Related

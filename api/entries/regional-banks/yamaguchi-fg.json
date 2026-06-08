@@ -48,46 +48,44 @@
     "山陽・関門海峡経済圏"
   ],
   "body_links": {
-    "wikilinks_count": 14,
+    "wikilinks_count": 13,
     "wikilinks": [
-      "18-shinwa-bank",
       "banking/INDEX",
-      "fukuoka-bank",
-      "fukuoka-fg",
-      "kitakyushu-bank",
-      "kumamoto-bank",
-      "mizuho-fg",
-      "momiji-bank",
-      "mufg",
+      "megabanks/mizuho-fg",
+      "megabanks/mufg",
+      "megabanks/resona-hd",
+      "megabanks/smfg",
+      "regional-banks/18-shinwa-bank",
       "regional-banks/INDEX",
+      "regional-banks/fukuoka-bank",
       "regional-banks/fukuoka-fg",
-      "resona-hd",
-      "saikyo-bank",
-      "smfg"
+      "regional-banks/kitakyushu-bank",
+      "regional-banks/kumamoto-bank",
+      "regional-banks/momiji-bank",
+      "regional-banks/saikyo-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/18-shinwa-bank",
       "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/fukuoka-bank",
-      "https://finwiki.zksc.io/fukuoka-fg",
-      "https://finwiki.zksc.io/kitakyushu-bank",
-      "https://finwiki.zksc.io/kumamoto-bank",
-      "https://finwiki.zksc.io/mizuho-fg",
-      "https://finwiki.zksc.io/momiji-bank",
-      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/resona-hd",
+      "https://finwiki.zksc.io/megabanks/smfg",
+      "https://finwiki.zksc.io/regional-banks/18-shinwa-bank",
       "https://finwiki.zksc.io/regional-banks/INDEX",
+      "https://finwiki.zksc.io/regional-banks/fukuoka-bank",
       "https://finwiki.zksc.io/regional-banks/fukuoka-fg",
-      "https://finwiki.zksc.io/resona-hd",
-      "https://finwiki.zksc.io/saikyo-bank",
-      "https://finwiki.zksc.io/smfg"
+      "https://finwiki.zksc.io/regional-banks/kitakyushu-bank",
+      "https://finwiki.zksc.io/regional-banks/kumamoto-bank",
+      "https://finwiki.zksc.io/regional-banks/momiji-bank",
+      "https://finwiki.zksc.io/regional-banks/saikyo-bank"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3611,
-    "word_like_tokens": 561,
-    "inbound_wikilinks_count": 4,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 3846,
+    "word_like_tokens": 591,
+    "inbound_wikilinks_count": 13,
+    "last_modified": "2026-06-08"
   }
 }

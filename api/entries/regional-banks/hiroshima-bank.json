@@ -48,42 +48,38 @@
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 12,
+    "wikilinks_count": 10,
     "wikilinks": [
       "INDEX",
       "banking/INDEX",
       "banking/regional-bank-consolidation-pattern",
-      "chugoku-bank",
       "financial-regulators/fsa",
       "financial-regulators/zenginkyo",
-      "hirogin-hd",
-      "momiji-bank",
       "regional-banks/INDEX",
       "regional-banks/chugoku-bank",
       "regional-banks/hirogin-hd",
-      "yamaguchi-fg"
+      "regional-banks/momiji-bank",
+      "regional-banks/yamaguchi-fg"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
-      "https://finwiki.zksc.io/chugoku-bank",
       "https://finwiki.zksc.io/financial-regulators/fsa",
       "https://finwiki.zksc.io/financial-regulators/zenginkyo",
-      "https://finwiki.zksc.io/hirogin-hd",
-      "https://finwiki.zksc.io/momiji-bank",
       "https://finwiki.zksc.io/regional-banks/INDEX",
       "https://finwiki.zksc.io/regional-banks/chugoku-bank",
       "https://finwiki.zksc.io/regional-banks/hirogin-hd",
-      "https://finwiki.zksc.io/yamaguchi-fg"
+      "https://finwiki.zksc.io/regional-banks/momiji-bank",
+      "https://finwiki.zksc.io/regional-banks/yamaguchi-fg"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2749,
-    "word_like_tokens": 393,
-    "inbound_wikilinks_count": 7,
-    "last_modified": "2026-06-05"
+    "nonspace_chars": 2869,
+    "word_like_tokens": 409,
+    "inbound_wikilinks_count": 9,
+    "last_modified": "2026-06-08"
   }
 }

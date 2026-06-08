@@ -39,16 +39,16 @@ For detailed current product or disclosure analysis, prefer FSA/JBA plus IBK bra
 ## 3. Why this page matters
 
 - Adds the SME-finance Korean bank branch missing from the P1 list.
-- Provides a peer to [[korea-development-bank-japan]] for Korea policy / semi-policy finance in Japan.
-- Helps distinguish Korean branch banks from Japan-incorporated Korean-owned [[sbj-bank]].
+- Provides a peer to [[foreign-financial-institutions/korea-development-bank-japan]] for Korea policy / semi-policy finance in Japan.
+- Helps distinguish Korean branch banks from Japan-incorporated Korean-owned [[regional-banks/sbj-bank]].
 
 ## Related
 
-- [[woori-bank-japan]]
-- [[hana-bank-japan]]
-- [[korea-development-bank-japan]]
-- [[kb-kookmin-bank-japan]]
-- [[sbj-bank]]
+- [[foreign-financial-institutions/woori-bank-japan]]
+- [[foreign-financial-institutions/hana-bank-japan]]
+- [[foreign-financial-institutions/korea-development-bank-japan]]
+- [[foreign-financial-institutions/kb-kookmin-bank-japan]]
+- [[regional-banks/sbj-bank]]
 - [[banking/foreign-bank-japan-retreat]]
 
 ## Sources

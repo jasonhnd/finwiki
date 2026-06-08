@@ -90,7 +90,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 組合員 (都内農家 + 兼業農家 + 地域住民)
   → 預金 → 都内 8 JA
               → 余資預け入れ → JA バンク東京信連
-                                   → 余資預け入れ → [[JapanFG/norinchukin|農林中央金庫]]
+                                   → 余資預け入れ → [[cooperative-banks/norinchukin|農林中央金庫]]
                                                        → 機関投資 (国債/外債等)
                                                        → 系統還元 → 東信連 → JA → 組合員
 ```

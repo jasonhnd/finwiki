@@ -28,7 +28,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-株式会社沖縄銀行は、金融庁の銀行免許一覧に掲載される沖縄県本店の地方銀行。[[okinawa-fg]] の core operating bank であり、沖縄県内 No.1 regional-bank operating-company anchor として扱う。
+株式会社沖縄銀行は、金融庁の銀行免許一覧に掲載される沖縄県本店の地方銀行。[[regional-banks/okinawa-fg]] の core operating bank であり、沖縄県内 No.1 regional-bank operating-company anchor として扱う。
 
 ## 1. License / group boundary
 
@@ -36,25 +36,25 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 |---|---|
 | Legal name | 株式会社沖縄銀行 |
 | License route | Banking Act regional bank; FSA bank license list |
-| Group boundary | [[okinawa-fg]] core operating bank |
+| Group boundary | [[regional-banks/okinawa-fg]] core operating bank |
 | Home market | Okinawa / Naha |
 | Wiki role | Okinawa regional-bank operating-company page |
 
 ## 2. Operating model
 
-沖縄銀行は、沖縄県を中心に retail deposits, SME finance, tourism / construction finance, trust-agency-adjacent services, and island economy relationship banking を担う regional bank。[[okinawa-fg]] page は holding-company strategy and group financials を扱い、本ページは bank-license entity を扱う。Okinawa / Kyushu regional-bank consolidation context は [[banking/regional-bank-consolidation-pattern]] を参照。
+沖縄銀行は、沖縄県を中心に retail deposits, SME finance, tourism / construction finance, trust-agency-adjacent services, and island economy relationship banking を担う regional bank。[[regional-banks/okinawa-fg]] page は holding-company strategy and group financials を扱い、本ページは bank-license entity を扱う。Okinawa / Kyushu regional-bank consolidation context は [[banking/regional-bank-consolidation-pattern]] を参照。
 
 ## 3. Why this page matters
 
 - Closes the FSA exact-name operating-company gap for 沖縄銀行.
-- Separates the bank license from [[okinawa-fg]] holding-company coverage.
-- Provides a peer anchor for [[ryukyu-bank]] and [[okinawa-kaiho-bank]].
+- Separates the bank license from [[regional-banks/okinawa-fg]] holding-company coverage.
+- Provides a peer anchor for [[regional-banks/ryukyu-bank]] and [[regional-banks/okinawa-kaiho-bank]].
 
 ## Related
 
-- [[okinawa-fg]]
-- [[ryukyu-bank]]
-- [[okinawa-kaiho-bank]]
+- [[regional-banks/okinawa-fg]]
+- [[regional-banks/ryukyu-bank]]
+- [[regional-banks/okinawa-kaiho-bank]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 

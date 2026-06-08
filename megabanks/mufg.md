@@ -193,7 +193,7 @@ MUFG（持株会社・上場 8306）
 - **Japan Digital Design**（2017-10-02 設立）: フィンテック子会社
 - **Global Open Network Japan**（2019-04 Akamai と JV → 2022-02 廃業）: ブロックチェーン決済挫折歴
 - **MUFG × Google 戦略提携**（2026-05-07）★: 個人向け金融サービス AI エージェント、2026 年度中実用化目標 ^[extracted]
-- **Progmat Coin**: ステーブルコイン基盤（MUFG 主導、[[smfg]] 等加盟）
+- **Progmat Coin**: ステーブルコイン基盤（MUFG 主導、[[megabanks/smfg]] 等加盟）
 
 ### 提携・買収戦略
 
@@ -339,7 +339,7 @@ MUFG（持株会社・上場 8306）
 
 ## Related
 
-- [[smfg]] · [[mizuho-fg]] · [[ndfg]] · [[sbi-hd]] · [[paypay-fg]]
+- [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[megabanks/ndfg]] · [[megabanks/sbi-hd]] · [[megabanks/paypay-fg]]
 - [[banking/mercari-bank-license-stack]] · [[banking/minna-bank-baas-model]]
 
 ## Sources

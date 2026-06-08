@@ -54,10 +54,10 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 ## Related
 
 - [[regional-banks/INDEX|regional-banks INDEX]]
-- [[miyazaki-bank]]
-- [[minami-nippon-bank]]
-- [[kyushu-fg]]
-- [[kagoshima-bank]]
+- [[regional-banks/miyazaki-bank]]
+- [[regional-banks/minami-nippon-bank]]
+- [[regional-banks/kyushu-fg]]
+- [[regional-banks/kagoshima-bank]]
 - [[financial-regulators/fsa|FSA]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]

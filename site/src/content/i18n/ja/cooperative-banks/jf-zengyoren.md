@@ -78,8 +78,8 @@ JF (漁業協同組合) グループ
   ├── JF 全漁連 (代表・経済事業) ★本ページ
   ├── JF 共水連 (共済事業)
   ├── 都道府県漁連 (経済事業・地方層)
-  ├── 都道府県信漁連 (信用事業・地方層) → [[jf-shingyoren]]
-  ├── 農林中央金庫 (信用・中央層) → [[norinchukin]]
+  ├── 都道府県信漁連 (信用事業・地方層) → [[cooperative-banks/jf-shingyoren]]
+  ├── 農林中央金庫 (信用・中央層) → [[cooperative-banks/norinchukin]]
   └── 全国 71 JF (個別漁業協同組合) → [[banking/jf-marine-bank-system-japan]] 対象
 ```
 

@@ -27,7 +27,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-千葉県地盤の **第二地銀**（東証 PRIME 8337、略称「ちば興銀」）。1952-01-18 旧千葉商工信用組合として発足、信金転換 → 普通銀行転換 → 1973 現社名。**持株会社化していない単独銀行** で、千葉県内 No.2 ポジション（No.1 は [[chiba-bank]]）。1991 頃の経営悪化を契機に **旧第一勧銀・富士銀行系（現 [[mizuho-fg]]）** の戦略株主受け入れにより事実上のみずほ系第二地銀として再生。中小企業融資・地域密着営業に特化し、ホールセール領域では [[mizuho-fg]] とのリファラル/シナジーを活用。^[extracted]
+千葉県地盤の **第二地銀**（東証 PRIME 8337、略称「ちば興銀」）。1952-01-18 旧千葉商工信用組合として発足、信金転換 → 普通銀行転換 → 1973 現社名。**持株会社化していない単独銀行** で、千葉県内 No.2 ポジション（No.1 は [[regional-banks/chiba-bank]]）。1991 頃の経営悪化を契機に **旧第一勧銀・富士銀行系（現 [[megabanks/mizuho-fg]]）** の戦略株主受け入れにより事実上のみずほ系第二地銀として再生。中小企業融資・地域密着営業に特化し、ホールセール領域では [[megabanks/mizuho-fg]] とのリファラル/シナジーを活用。^[extracted]
 
 ## 1. 会社概要
 
@@ -48,21 +48,21 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 | 預金残高（単体）| 2兆8,795億円（2025-03 末）^[extracted] |
 | 貸出金残高（連結）| 2兆4,158億円（2025-03 末）^[extracted] |
 | 従業員（連結）| 1,313 名（2025-03 末）^[extracted] |
-| 千葉県内ポジション | No.2（No.1 は [[chiba-bank]]、預金シェアは大きく劣後）|
+| 千葉県内ポジション | No.2（No.1 は [[regional-banks/chiba-bank]]、預金シェアは大きく劣後）|
 | 上場市場 | 東証 PRIME（旧東証 1 部）|
 
-> 第二地銀の中堅クラスで、千葉県内 [[chiba-bank]] とはシェア差が大きい構造。計数は 2025年3月期 決算短信・ミニディスクロージャー誌ベース。
+> 第二地銀の中堅クラスで、千葉県内 [[regional-banks/chiba-bank]] とはシェア差が大きい構造。計数は 2025年3月期 決算短信・ミニディスクロージャー誌ベース。
 
 ### 主要株主（公開ベース）^[extracted]
 
 | 株主 | 比率（2025-03-28 / 03-31 時点）|
 |---|---|
-| [[chiba-bank]]（千葉銀行・筆頭株主）| 19.00%（11,812,000 株）^[extracted] |
+| [[regional-banks/chiba-bank]]（千葉銀行・筆頭株主）| 19.00%（11,812,000 株）^[extracted] |
 | 日本マスタートラスト信託銀行（信託口）| 15.27% ^[extracted] |
-| みずほ銀行 / [[mizuho-fg]] 関連 | 15.25% ^[extracted] |
+| みずほ銀行 / [[megabanks/mizuho-fg]] 関連 | 15.25% ^[extracted] |
 | 日本カストディ銀行（信託口）| 5.75% ^[extracted] |
 
-> 注: 2025-03-28 に [[chiba-bank]] が投資ファンド保有分を取得し筆頭株主化。旧来の「みずほ系戦略株主が筆頭」という構図は現状と異なり、みずほは 2023 に持分法適用を解消済み。
+> 注: 2025-03-28 に [[regional-banks/chiba-bank]] が投資ファンド保有分を取得し筆頭株主化。旧来の「みずほ系戦略株主が筆頭」という構図は現状と異なり、みずほは 2023 に持分法適用を解消済み。
 
 ### 主要子会社・関連会社（公開）
 
@@ -81,7 +81,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 - **1953** 千葉商工信用金庫 改称（信用金庫転換）
 - **1969** 普通銀行転換 → 千葉商工銀行
 - **1973** 千葉興業銀行 改称（現社名）
-- **2000** バブル後の経営悪化局面 → 富士銀行（現 [[mizuho-fg]]）が 2000-09 に 1,000 億円を出資、富士銀行・安田生命・安田火災による第三者割当増資、公的資金 約 600 億円注入。以後みずほ系の戦略株主体制へ ^[extracted]
+- **2000** バブル後の経営悪化局面 → 富士銀行（現 [[megabanks/mizuho-fg]]）が 2000-09 に 1,000 億円を出資、富士銀行・安田生命・安田火災による第三者割当増資、公的資金 約 600 億円注入。以後みずほ系の戦略株主体制へ ^[extracted]
 
 ### 重要年表（抜粋）^[extracted]
 
@@ -91,12 +91,12 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 | 1953 | 千葉商工信用金庫 改称 |
 | 1969 | 普通銀行転換 → 千葉商工銀行 |
 | **1973** | **千葉興業銀行 改称**（現社名）|
-| **2000** | **経営悪化 → 富士銀行（現 [[mizuho-fg]]）の出資・公的資金注入で再建、みずほ系戦略株主体制へ** ^[extracted] |
+| **2000** | **経営悪化 → 富士銀行（現 [[megabanks/mizuho-fg]]）の出資・公的資金注入で再建、みずほ系戦略株主体制へ** ^[extracted] |
 | 2000-09 | みずほ HD 発足（戦略株主の親会社化）|
-| 2003-01 | [[mizuho-fg]] 発足 |
+| 2003-01 | [[megabanks/mizuho-fg]] 発足 |
 | 2022-04 | 東証市場区分見直し → 東証 PRIME |
-| 2025-03-28 | [[chiba-bank]] が投資ファンド保有株を取得し筆頭株主化（19.00%）^[extracted] |
-| 2025-09-29 | [[chiba-bank]] と経営統合の基本合意 ^[extracted] |
+| 2025-03-28 | [[regional-banks/chiba-bank]] が投資ファンド保有株を取得し筆頭株主化（19.00%）^[extracted] |
+| 2025-09-29 | [[regional-banks/chiba-bank]] と経営統合の基本合意 ^[extracted] |
 | 2026-03-25 | 経営統合 最終合意（共同株式移転で持株会社「ちばフィナンシャルグループ」設立、2027-04-01 予定）^[extracted] |
 
 ## 2. 事業セグメント・マップ
@@ -110,7 +110,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ### 戦略ポジション
 
-- **千葉県地盤・県内 No.2**: No.1 [[chiba-bank]] とはシェア差が大きいが、第二地銀として中小企業層に密着
+- **千葉県地盤・県内 No.2**: No.1 [[regional-banks/chiba-bank]] とはシェア差が大きいが、第二地銀として中小企業層に密着
 
 ### デジタル戦略
 
@@ -120,16 +120,16 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 | 競合 | 関係 |
 |---|---|
-| [[chiba-bank]] | 千葉県内 No.1（同県内で圧倒的シェア、預金 16兆2,687億円・総資産 21兆6,312億円 / 2025-03 末）^[extracted] |
+| [[regional-banks/chiba-bank]] | 千葉県内 No.1（同県内で圧倒的シェア、預金 16兆2,687億円・総資産 21兆6,312億円 / 2025-03 末）^[extracted] |
 | 京葉銀行 | 千葉県の第二地銀（同県内競合・東葛地盤）|
-| [[musashino-bank]] | 埼玉地盤の第二地銀（[[chiba-bank]] 主導 TSUBASA 加盟、隣県競合）|
-| [[concordia-fg]] | 神奈川地盤の首都圏地銀 FG（広域競合）|
-| [[mebuki-fg]]（常陽 + 足利）| 茨城・栃木地盤の地銀 FG（首都圏東部広域競合）|
-| メガバンク（[[mizuho-fg]]・[[mufg]]・[[smfg]]）| 千葉県内法人取引で競合、但しみずほは戦略株主で部分的協調 |
+| [[regional-banks/musashino-bank]] | 埼玉地盤の第二地銀（[[regional-banks/chiba-bank]] 主導 TSUBASA 加盟、隣県競合）|
+| [[regional-banks/concordia-fg]] | 神奈川地盤の首都圏地銀 FG（広域競合）|
+| [[regional-banks/mebuki-fg]]（常陽 + 足利）| 茨城・栃木地盤の地銀 FG（首都圏東部広域競合）|
+| メガバンク（[[megabanks/mizuho-fg]]・[[megabanks/mufg]]・[[megabanks/smfg]]）| 千葉県内法人取引で競合、但しみずほは戦略株主で部分的協調 |
 
 ### ホールディング非実施戦略
 
-- **代替**: [[mizuho-fg]] 戦略株主との緩やかな提携で資本・ノウハウを補完
+- **代替**: [[megabanks/mizuho-fg]] 戦略株主との緩やかな提携で資本・ノウハウを補完
 
 ## 4. 規制・政策
 
@@ -142,7 +142,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## Related
 
-- [[mizuho-fg]] · [[chiba-bank]] · [[musashino-bank]] · [[concordia-fg]] · [[mebuki-fg]]
+- [[megabanks/mizuho-fg]] · [[regional-banks/chiba-bank]] · [[regional-banks/musashino-bank]] · [[regional-banks/concordia-fg]] · [[regional-banks/mebuki-fg]]
 - 第二地方銀行協会 加盟行
 
 ## Sources
@@ -160,4 +160,4 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 ---
 
 > [!info] 校核状态
-> confidence: **likely**（v1.0 公開情報ベース 2026-05-19、2026-05-29 計数校核）。総資産・預金・貸出金・従業員・本店所在地・子会社・大株主比率を 2025年3月期 決算短信／ミニディスクロージャー誌／公式適時開示で確定。**重要更新**: 旧稿の「みずほ系戦略株主下の単独銀行」という位置づけは現状と異なる — [[chiba-bank]] が 2025-03-28 に筆頭株主化（19.00%、みずほは 15.25%）し、2025-09-29 基本合意・2026-03-25 最終合意により 2027-04 に [[chiba-bank]] と共同持株会社「ちばフィナンシャルグループ」を設立予定。経営悪化・みずほ系列入りの契機は 2000 の富士銀行出資・公的資金注入（旧稿「1991 頃」は不正確のため修正）。
+> confidence: **likely**（v1.0 公開情報ベース 2026-05-19、2026-05-29 計数校核）。総資産・預金・貸出金・従業員・本店所在地・子会社・大株主比率を 2025年3月期 決算短信／ミニディスクロージャー誌／公式適時開示で確定。**重要更新**: 旧稿の「みずほ系戦略株主下の単独銀行」という位置づけは現状と異なる — [[regional-banks/chiba-bank]] が 2025-03-28 に筆頭株主化（19.00%、みずほは 15.25%）し、2025-09-29 基本合意・2026-03-25 最終合意により 2027-04 に [[regional-banks/chiba-bank]] と共同持株会社「ちばフィナンシャルグループ」を設立予定。経営悪化・みずほ系列入りの契機は 2000 の富士銀行出資・公的資金注入（旧稿「1991 頃」は不正確のため修正）。

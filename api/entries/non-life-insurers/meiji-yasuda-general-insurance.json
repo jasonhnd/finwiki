@@ -54,28 +54,28 @@
       "insurance/INDEX",
       "insurance/global-solvency-framework-comparison-matrix",
       "insurance/mutual-vs-stock-life-insurer",
-      "meiji-yasuda",
-      "nisshin-fire",
+      "life-insurers/meiji-yasuda",
       "non-life-insurers/INDEX",
-      "non-life-insurers/dai-ichi-ipet-insurance"
+      "non-life-insurers/dai-ichi-ipet-insurance",
+      "non-life-insurers/nisshin-fire"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/financial-licenses/INDEX",
       "https://finwiki.zksc.io/insurance/INDEX",
       "https://finwiki.zksc.io/insurance/global-solvency-framework-comparison-matrix",
       "https://finwiki.zksc.io/insurance/mutual-vs-stock-life-insurer",
-      "https://finwiki.zksc.io/meiji-yasuda",
-      "https://finwiki.zksc.io/nisshin-fire",
+      "https://finwiki.zksc.io/life-insurers/meiji-yasuda",
       "https://finwiki.zksc.io/non-life-insurers/INDEX",
-      "https://finwiki.zksc.io/non-life-insurers/dai-ichi-ipet-insurance"
+      "https://finwiki.zksc.io/non-life-insurers/dai-ichi-ipet-insurance",
+      "https://finwiki.zksc.io/non-life-insurers/nisshin-fire"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2094,
-    "word_like_tokens": 330,
+    "nonspace_chars": 2154,
+    "word_like_tokens": 339,
     "inbound_wikilinks_count": 3,
-    "last_modified": "2026-06-06"
+    "last_modified": "2026-06-08"
   }
 }

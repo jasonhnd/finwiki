@@ -39,14 +39,14 @@ translated_at: 2026-05-31T15:29:03.967Z
 ## 3。为什么此页面很重要
 
 - 将中国工商银行分行添加至中国大陆P1 set。
-- 补充 [[bank-of-china-japan]]、[[china-construction-bank-japan]] 和 [[agricultural-bank-of-china-japan]]。
+- 补充 [[foreign-financial-institutions/bank-of-china-japan]]、[[foreign-financial-institutions/china-construction-bank-japan]] 和 [[foreign-financial-institutions/agricultural-bank-of-china-japan]]。
 - 当每个分行都有不同的历史和日本足迹时，避免使用通用的“中国银行”存储桶。
 
 ## 有关的
 
-- [[bank-of-china-japan]]
-- [[china-construction-bank-japan]]
-- [[agricultural-bank-of-china-japan]]
+- [[foreign-financial-institutions/bank-of-china-japan]]
+- [[foreign-financial-institutions/china-construction-bank-japan]]
+- [[foreign-financial-institutions/agricultural-bank-of-china-japan]]
 - [[banking/foreign-bank-japan-retreat]]
 - [[banking/INDEX]]
 

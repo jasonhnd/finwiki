@@ -44,7 +44,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 - Fully decentralised stablecoins (DAI etc.) → Denylist cannot be executed; market share constrained
 - Grey stablecoins (USDT on Tron) → do not enter US market; circumvent the Act
 
-**Geopolitical implications**: The Act creates a structural opposition between the US stablecoin camp (USDC / USD1  / PYUSD) and non-US stablecoins (USDT grey route / sovereign stablecoins of various countries / algorithmic stablecoins). See [[stablecoin-chain-sovereign-currency-divide]] for details.
+**Geopolitical implications**: The Act creates a structural opposition between the US stablecoin camp (USDC / USD1  / PYUSD) and non-US stablecoins (USDT grey route / sovereign stablecoins of various countries / algorithmic stablecoins). See [[fintech/stablecoin-chain-sovereign-currency-divide]] for details.
 
 **Parallel relationship with Japan legislation**: The corresponding provision in Japan's Payment Services Act (Type I electronic payment instruments) also requires issuers to have similar capabilities (trust type / bank type / funds transfer service provider type; see [[fintech/japan-epi-three-types-overview|Japan EPI Three-type Architecture]]). The GENIUS Act and Japanese legislation belong to a **parallel legislative trend**, not an isolated phenomenon.
 

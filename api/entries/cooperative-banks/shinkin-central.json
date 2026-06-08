@@ -58,31 +58,31 @@
       "banking/INDEX",
       "banking/shinkin-bank-registry-japan",
       "cooperative-banks/INDEX",
+      "cooperative-banks/norinchukin",
       "cooperative-banks/zenshin-kumi",
-      "mizuho-fg",
-      "mufg",
-      "ndfg",
-      "norinchukin",
-      "smfg"
+      "megabanks/mizuho-fg",
+      "megabanks/mufg",
+      "megabanks/ndfg",
+      "megabanks/smfg"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/shinkin-bank-registry-japan",
       "https://finwiki.zksc.io/cooperative-banks/INDEX",
+      "https://finwiki.zksc.io/cooperative-banks/norinchukin",
       "https://finwiki.zksc.io/cooperative-banks/zenshin-kumi",
-      "https://finwiki.zksc.io/mizuho-fg",
-      "https://finwiki.zksc.io/mufg",
-      "https://finwiki.zksc.io/ndfg",
-      "https://finwiki.zksc.io/norinchukin",
-      "https://finwiki.zksc.io/smfg"
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/ndfg",
+      "https://finwiki.zksc.io/megabanks/smfg"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3598,
-    "word_like_tokens": 600,
-    "inbound_wikilinks_count": 36,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 3692,
+    "word_like_tokens": 610,
+    "inbound_wikilinks_count": 37,
+    "last_modified": "2026-06-08"
   }
 }

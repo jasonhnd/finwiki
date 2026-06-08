@@ -12,7 +12,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## 推論 (from 3. 出資・統治構造)
 
-- [[JapanFG/sumitomo-mitsui-trust|SuMi TRUST]] の信託銀行を経由した間接 100% 出資構造 (信託銀行直下の運用子会社) ^[inferred]
+- [[trust-banks/sumitomo-mitsui-trust|SuMi TRUST]] の信託銀行を経由した間接 100% 出資構造 (信託銀行直下の運用子会社) ^[inferred]
 
 ## 推論 (from 4. Why standalone page matters)
 

@@ -31,22 +31,22 @@ translated_at: 2026-06-02T15:14:17.106Z
 
 ## 2. 事業モデル
 
-大分銀行は、大分県を中心に、個人預金、中小企業金融、観光・製造業支援、地域密着型リレーションシップバンキングを担う地方銀行。九州の独立系地方銀行の比較対象として、[[saga-bank]]、[[miyazaki-bank]]、[[fukuoka-bank]] と比較する。
+大分銀行は、大分県を中心に、個人預金、中小企業金融、観光・製造業支援、地域密着型リレーションシップバンキングを担う地方銀行。九州の独立系地方銀行の比較対象として、[[regional-banks/saga-bank]]、[[regional-banks/miyazaki-bank]]、[[regional-banks/fukuoka-bank]] と比較する。
 
 ## 3. このページが重要な理由
 
 - 金融庁リスト上の正式名称に対応する大分銀行の事業会社ページの欠落を埋める。
 - 九州の地方銀行比較における大分県アンカーを提供する。
-- [[howa-bank|豊和銀行]] など第二地方銀行カバレッジとの比較対象ページを追加する。
+- [[regional-banks/howa-bank|豊和銀行]] など第二地方銀行カバレッジとの比較対象ページを追加する。
 
 ## 関連項目
 
-- [[saga-bank]]
-- [[miyazaki-bank]]
-- [[fukuoka-bank]]
-- [[higo-bank]]
+- [[regional-banks/saga-bank]]
+- [[regional-banks/miyazaki-bank]]
+- [[regional-banks/fukuoka-bank]]
+- [[regional-banks/higo-bank]]
 - [[banking/regional-bank-consolidation-pattern]]
-- [[howa-bank]]
+- [[regional-banks/howa-bank]]
 - [[banking/INDEX]]
 
 ## 出典

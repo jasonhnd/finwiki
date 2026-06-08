@@ -15,7 +15,7 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 
 ## TL;DR
 
-Mitsui Direct General Insurance Co., Ltd. is the direct non-life insurance operating company of the [[msad]] group. It is listed on the FSA non-life insurance company license list and provides the direct auto insurance channel separately from [[mitsui-sumitomo-insurance]] and [[aioi-nissay-dowa-insurance]].
+Mitsui Direct General Insurance Co., Ltd. is the direct non-life insurance operating company of the [[non-life-insurers/msad]] group. It is listed on the FSA non-life insurance company license list and provides the direct auto insurance channel separately from [[non-life-insurers/mitsui-sumitomo-insurance]] and [[non-life-insurers/aioi-nissay-dowa-insurance]].
 
 ## 1. License / group boundary
 
@@ -24,7 +24,7 @@ Mitsui Direct General Insurance Co., Ltd. is the direct non-life insurance opera
 | Legal name | Mitsui Direct General Insurance Co., Ltd. |
 | License route | Insurance Business Act non-life insurance company; FSA non-life insurer list |
 | Protection scheme | Non-Life Insurance Policyholders Protection Corporation member |
-| Group boundary | [[msad]] direct non-life operating company |
+| Group boundary | [[non-life-insurers/msad]] direct non-life operating company |
 | Wiki role | MS&AD direct-channel non-life insurer |
 
 ## 2. Operating model
@@ -39,10 +39,10 @@ MS&AD already has two large agency / corporate non-life operators. Mitsui Direct
 
 ## Related
 
-- [[msad]]
-- [[mitsui-sumitomo-insurance]]
-- [[aioi-nissay-dowa-insurance]]
-- [[sony-insurance]]
+- [[non-life-insurers/msad]]
+- [[non-life-insurers/mitsui-sumitomo-insurance]]
+- [[non-life-insurers/aioi-nissay-dowa-insurance]]
+- [[non-life-insurers/sony-insurance]]
 - [[insurance/INDEX]]
 
 ## Sources

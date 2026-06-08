@@ -15,7 +15,7 @@ translated_at: 2026-06-02T15:14:17.126Z
 
 ## 要約
 
-**山陰地方（島根県 + 鳥取県）唯一の上場地銀大手**。1941-07-01 戦時統合（松江銀行 + 米子銀行 等 7 行）で発足。略称「**ごうぎん**」。本店所在地は島根県松江市。持株会社化せず**単独銀行**で東証 PRIME 上場（証券コード 8381）。山陰両県でシェア 4 〜 5 割超、域外は広島・岡山・兵庫・大阪に営業店展開。観光（出雲大社・鳥取砂丘）+ 農漁業 + 製造業（島根原発関連含む）の地域経済を 1 行で抱える構造で、競合は鳥取銀行・[[shimane-bank|島根銀行]]（地元中堅）と、域外で [[chugin-okayama]] / [[hirogin-hd]] / [[yamaguchi-fg]]。^[extracted]
+**山陰地方（島根県 + 鳥取県）唯一の上場地銀大手**。1941-07-01 戦時統合（松江銀行 + 米子銀行 等 7 行）で発足。略称「**ごうぎん**」。本店所在地は島根県松江市。持株会社化せず**単独銀行**で東証 PRIME 上場（証券コード 8381）。山陰両県でシェア 4 〜 5 割超、域外は広島・岡山・兵庫・大阪に営業店展開。観光（出雲大社・鳥取砂丘）+ 農漁業 + 製造業（島根原発関連含む）の地域経済を 1 行で抱える構造で、競合は鳥取銀行・[[regional-banks/shimane-bank|島根銀行]]（地元中堅）と、域外で [[regional-banks/chugin-okayama]] / [[regional-banks/hirogin-hd]] / [[regional-banks/yamaguchi-fg]]。^[extracted]
 
 ## 1. 会社概要
 
@@ -79,10 +79,10 @@ translated_at: 2026-06-02T15:14:17.126Z
 | 競合 | 地盤 | 関係 |
 |---|---|---|
 | 鳥取銀行 | 鳥取県 | 同県内競合・規模差大（合銀優位）|
-| [[shimane-bank|島根銀行]] | 島根県 | 同上 |
-| [[chugin-okayama]] | 岡山・広島 | 域外進出時の競合・中四国地銀盟主 |
-| [[hirogin-hd]] | 広島 | 同上 |
-| [[yamaguchi-fg]] | 山口・北九州・福岡 | 隣接 FG・3 行統合体制（もみじ銀+山口銀+北九州銀）と対照的に単独路線 |
+| [[regional-banks/shimane-bank|島根銀行]] | 島根県 | 同上 |
+| [[regional-banks/chugin-okayama]] | 岡山・広島 | 域外進出時の競合・中四国地銀盟主 |
+| [[regional-banks/hirogin-hd]] | 広島 | 同上 |
+| [[regional-banks/yamaguchi-fg]] | 山口・北九州・福岡 | 隣接 FG・3 行統合体制（もみじ銀+山口銀+北九州銀）と対照的に単独路線 |
 | JA バンク・ゆうちょ | 全国 | リテール競合（特に高齢者層）|
 
 ### 提携・買収戦略
@@ -108,7 +108,7 @@ translated_at: 2026-06-02T15:14:17.126Z
 
 ## 関連項目
 
-- [[chugin-okayama]] · [[hirogin-hd]] · [[yamaguchi-fg]] · [[mufg]] · [[smfg]] · [[mizuho-fg]]
+- [[regional-banks/chugin-okayama]] · [[regional-banks/hirogin-hd]] · [[regional-banks/yamaguchi-fg]] · [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]
 - 中四国地銀ブロック / 山陰地方経済 / 一県一行主義（戦時統合）
 
 ## 出典

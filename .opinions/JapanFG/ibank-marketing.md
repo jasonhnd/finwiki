@@ -12,7 +12,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## 推論 (from 1. License / group boundary)
 
-| License route | アプリ運営事業会社 (銀行業免許ではなく、銀行代理業 / プリペイド発行者として [[fukuoka-bank]] 等と連携) ^[inferred] |
+| License route | アプリ運営事業会社 (銀行業免許ではなく、銀行代理業 / プリペイド発行者として [[regional-banks/fukuoka-bank]] 等と連携) ^[inferred] |
 
 ## 推論 (from グループ拡大)
 
@@ -21,7 +21,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## 推論 (from 4. KPI table (concept) ^[ambiguous])
 
-| 業績開示 | [[fukuoka-fg]] 連結ベース ^[inferred] |
+| 業績開示 | [[regional-banks/fukuoka-fg]] 連結ベース ^[inferred] |
 
 ## 推論 (from 強みと弱み)
 
@@ -30,7 +30,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 ## Counterpoints
 
 - 「地銀発フィンテック = スケール限界」論: 通信系・EC 系ウォレットに対して規模で大幅劣後 vs 地域密着 / 銀行連携の優位性 ^[ambiguous]
-- 「みんなの銀行との competition」: 同じ [[fukuoka-fg]] 内でデジタル銀行とウォレットアプリが顧客を奪い合うリスク ^[inferred]
+- 「みんなの銀行との competition」: 同じ [[regional-banks/fukuoka-fg]] 内でデジタル銀行とウォレットアプリが顧客を奪い合うリスク ^[inferred]
 - 「目的別貯金 = USP の持続性」: myCoin 機能を他社アプリが模倣する可能性 ^[inferred]
 - 「全国展開 vs 九州集中」: 全国展開コスト負担 vs 九州集中 ROI の戦略選択 ^[inferred]
 
@@ -38,7 +38,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 - アプリ DL 数・MAU・カード発行枚数の最新値
 - みんなの銀行・FFG 銀行アプリとの将来統合 / 機能分担の方針
-- 他地銀 ([[mebuki-fg]] / [[hokkoku-fhd]] 系) との BaaS / API 連携拡張余地
+- 他地銀 ([[regional-banks/mebuki-fg]] / [[regional-banks/hokkoku-fhd]] 系) との BaaS / API 連携拡張余地
 - 全国展開・パートナーシップ拡大の経済性
 
 <!-- ambiguous 整理 (2026-05-29) -->

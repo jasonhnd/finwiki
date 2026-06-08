@@ -88,8 +88,8 @@ These are consistent with the evaluation axes for §501(d) designation → For S
 - Any "cross-chain protocol selection for financial institutions" discussion
 - Technical stack evaluation for Project Pax / mBridge / Project Agorá
 - Cross-border channel design for tokenized deposits and stablecoins
-- Middleware selection when operating trust-type SC on multiple chains → [[jp-trust-type-sc-architecture|信託型 SC 架構]]
-- Foundation for SWIFT API + blockchain settlement patterns → [[cross-border-sc-via-swift-api|跨境 SC via SWIFT API]]
+- Middleware selection when operating trust-type SC on multiple chains → [[fintech/jp-trust-type-sc-architecture|信託型 SC 架構]]
+- Foundation for SWIFT API + blockchain settlement patterns → [[fintech/cross-border-sc-via-swift-api|跨境 SC via SWIFT API]]
 
 ---
 

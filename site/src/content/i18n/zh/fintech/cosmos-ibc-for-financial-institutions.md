@@ -88,8 +88,8 @@ LCP 中间件（基于 TEE 的轻客户端）
 - 任何"金融机构跨链协议选型"讨论
 - Project Pax / mBridge / Project Agorá 技术栈评估
 - 代币化存款与稳定币的跨境通道设计
-- 信托型稳定币在多链上运行时的中间件选型 → [[jp-trust-type-sc-architecture|信託型 SC 架構]]
-- SWIFT API + 区块链结算模式的基础设施 → [[cross-border-sc-via-swift-api|跨境 SC via SWIFT API]]
+- 信托型稳定币在多链上运行时的中间件选型 → [[fintech/jp-trust-type-sc-architecture|信託型 SC 架構]]
+- SWIFT API + 区块链结算模式的基础设施 → [[fintech/cross-border-sc-via-swift-api|跨境 SC via SWIFT API]]
 
 ---
 

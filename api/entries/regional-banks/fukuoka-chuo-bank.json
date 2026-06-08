@@ -48,36 +48,34 @@
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 9,
+    "wikilinks_count": 8,
     "wikilinks": [
       "banking/INDEX",
       "banking/minna-bank-baas-model",
       "banking/regional-bank-consolidation-pattern",
-      "chikuho-bank",
-      "fukuoka-bank",
-      "fukuoka-fg",
-      "nishi-nippon-city-bank",
       "regional-banks/INDEX",
-      "regional-banks/fukuoka-bank"
+      "regional-banks/chikuho-bank",
+      "regional-banks/fukuoka-bank",
+      "regional-banks/fukuoka-fg",
+      "regional-banks/nishi-nippon-city-bank"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/minna-bank-baas-model",
       "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
-      "https://finwiki.zksc.io/chikuho-bank",
-      "https://finwiki.zksc.io/fukuoka-bank",
-      "https://finwiki.zksc.io/fukuoka-fg",
-      "https://finwiki.zksc.io/nishi-nippon-city-bank",
       "https://finwiki.zksc.io/regional-banks/INDEX",
-      "https://finwiki.zksc.io/regional-banks/fukuoka-bank"
+      "https://finwiki.zksc.io/regional-banks/chikuho-bank",
+      "https://finwiki.zksc.io/regional-banks/fukuoka-bank",
+      "https://finwiki.zksc.io/regional-banks/fukuoka-fg",
+      "https://finwiki.zksc.io/regional-banks/nishi-nippon-city-bank"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1873,
-    "word_like_tokens": 298,
-    "inbound_wikilinks_count": 3,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 2053,
+    "word_like_tokens": 322,
+    "inbound_wikilinks_count": 4,
+    "last_modified": "2026-06-08"
   }
 }

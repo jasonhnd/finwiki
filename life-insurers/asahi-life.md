@@ -24,7 +24,7 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 
 ## TL;DR
 
-朝日生命保険相互会社は、金融庁の生命保険会社免許一覧と生命保険協会会員一覧に掲載される日本の生命保険 operating company。[[nippon-life]]、[[meiji-yasuda]]、[[sumitomo-life]]、[[fukoku-life]] と同じく相互会社形態をとるため、上場会社や銀行系子会社とは異なる governance / capital boundary を持つ。
+朝日生命保険相互会社は、金融庁の生命保険会社免許一覧と生命保険協会会員一覧に掲載される日本の生命保険 operating company。[[life-insurers/nippon-life]]、[[life-insurers/meiji-yasuda]]、[[life-insurers/sumitomo-life]]、[[life-insurers/fukoku-life]] と同じく相互会社形態をとるため、上場会社や銀行系子会社とは異なる governance / capital boundary を持つ。
 
 ## 1. License / group boundary
 
@@ -45,17 +45,17 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 ## 3. Why this page matters
 
 - Major traditional life insurer not previously represented as a standalone JapanFG entity.
-- Useful comparison point against listed / stock-company life insurers such as [[dai-ichi-life]] and [[sony-life]].
+- Useful comparison point against listed / stock-company life insurers such as [[life-insurers/dai-ichi-life]] and [[life-insurers/sony-life]].
 - Keeps the FSA registry count aligned with JapanFG's insurance coverage.
 
 ## Related
 
 - [[insurance/INDEX]]
 - [[insurance/mutual-vs-stock-life-insurer]]
-- [[nippon-life]]
-- [[meiji-yasuda]]
-- [[sumitomo-life]]
-- [[fukoku-life]]
+- [[life-insurers/nippon-life]]
+- [[life-insurers/meiji-yasuda]]
+- [[life-insurers/sumitomo-life]]
+- [[life-insurers/fukoku-life]]
 
 ## Sources
 

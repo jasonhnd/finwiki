@@ -106,7 +106,7 @@ Jimoto Holdings（控股公司、东证 STD 7161）
 |---|---|---|
 | 宫城县 No.1  地银 | **七十七银行**（东证 PRIME 8341） | 仙台银行是地银 2  番手 |
 | 山形县 No.1  地银 | **山形银行**（东证 PRIME 8344） | Kirayaka 银行是地银 2  番手 |
-| 东北北部第二地银 FG | **Fidea HD**（东证 PRIME 8713、山形 + 秋田） | 与 [[fidea-hd]] 在山形重叠、营业基础竞争 |
+| 东北北部第二地银 FG | **Fidea HD**（东证 PRIME 8713、山形 + 秋田） | 与 [[regional-banks/fidea-hd]] 在山形重叠、营业基础竞争 |
 | 邻接第一地银 | 岩手银行、东邦银行（福岛） | 营业圈外周 |
 | SBI 4  大地银框架 | 福岛银行、岛根银行、筑邦银行 | SBI 合作的其他地银群 |
 
@@ -134,9 +134,9 @@ Jimoto Holdings（控股公司、东证 STD 7161）
 
 ## Related
 
-- [[fidea-hd]]（山形 + 秋田，东北北部第二地银竞争方 + 营业圈重叠）
-- [[sbi-hd]]（2020-11  第三方配股 35 億円；SBI 4  大地银构想）
-- [[mufg]] · [[smfg]] · [[mizuho-fg]]（大型银行）
+- [[regional-banks/fidea-hd]]（山形 + 秋田，东北北部第二地银竞争方 + 营业圈重叠）
+- [[megabanks/sbi-hd]]（2020-11  第三方配股 35 億円；SBI 4  大地银构想）
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]（大型银行）
 
 ## Sources
 

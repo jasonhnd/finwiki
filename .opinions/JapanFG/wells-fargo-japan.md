@@ -21,7 +21,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 - 在日従業員規模・収益規模の公表データは存在するか？（外国銀行支店の決算開示範囲）
 - 親会社の資産上限解除が在日支店業務にどの程度波及するか？
-- 邦銀（特に [[mufg]] MUFG Americas Holdings）の米国業務と Wells Fargo の在日業務はどの程度競合 vs 協業関係にあるか？
+- 邦銀（特に [[megabanks/mufg]] MUFG Americas Holdings）の米国業務と Wells Fargo の在日業務はどの程度競合 vs 協業関係にあるか？
 - Charlie Scharf CEO 体制下のアジア戦略は具体的にどう推進されるか？
 - 2024 年以降のアジア戦略の具体的な日本向け施策は？
 

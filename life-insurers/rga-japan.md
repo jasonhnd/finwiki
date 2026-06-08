@@ -47,17 +47,17 @@ RGA Reinsurance Company（米 Reinsurance Group of America, Inc. の子会社、
 ## 4. Why this page matters
 
 - 日本の生保再保険市場の主要プレーヤーアンカー — P&C 再保険一辺倒だった JapanFG 再保険マップに「生保専業」軸を追加
-- 生保会社（[[nippon-life]] / [[dai-ichi-life]] / [[life-insurers/aflac-japan]] 等）と接続する system link
+- 生保会社（[[life-insurers/nippon-life]] / [[life-insurers/dai-ichi-life]] / [[life-insurers/aflac-japan]] 等）と接続する system link
 - [[non-life-insurers/gen-re-japan]] / [[non-life-insurers/swiss-re-japan]] とともに米欧系外資 reinsurer マップを構成
 
 ## Related
 
 - [[life-insurers/INDEX]]
-- [[gen-re-japan]]
-- [[swiss-re-japan]]
-- [[hannover-re-japan]]
-- [[scor-japan]]
-- [[toa-reinsurance]]
+- [[non-life-insurers/gen-re-japan]]
+- [[non-life-insurers/swiss-re-japan]]
+- [[non-life-insurers/hannover-re-japan]]
+- [[non-life-insurers/scor-japan]]
+- [[non-life-insurers/toa-reinsurance]]
 - [[insurance/INDEX]]
 
 ## Sources

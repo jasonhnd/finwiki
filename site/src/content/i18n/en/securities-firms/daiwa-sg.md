@@ -16,7 +16,7 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it
 
 ##TL;DR
 
-**Major securities group in Japan with 2 位 second only to Nomura**. A pure holding company structure with Daiwa Securities Group Inc. (TSE PRIME 8601) at the top. **1902 年Founded as ``Fujimoto Building Broker Bank'' → 1943 年trade name ``Daiwa Securities'' → 1999-04 Changed to holding company**, with a history of over 120 . The core business is 5  axis structure of **Retail (Daiwa Securities) + Wholesale (IB) + Asset Management (Daiwa AM) + Think Tank (Daiwa Institute of Research) + Online Banking (Daiwa Next Bank)**. Daiwa Securities SMBC was established as a joint venture with Sumitomo Group in 1999 年, but it was dissolved in 2009 年 (Sumitomo Mitsui FG separately acquired SMBC Nikko Securities under [[smfg]]) and re-established its position as a major independent company. The president is Seiji Nakata. Unlike Nomura HD, it adopts an independent strategy with the aim of "deeply cultivating retail and expanding into medium-sized businesses in Asia."
+**Major securities group in Japan with 2 位 second only to Nomura**. A pure holding company structure with Daiwa Securities Group Inc. (TSE PRIME 8601) at the top. **1902 年Founded as ``Fujimoto Building Broker Bank'' → 1943 年trade name ``Daiwa Securities'' → 1999-04 Changed to holding company**, with a history of over 120 . The core business is 5  axis structure of **Retail (Daiwa Securities) + Wholesale (IB) + Asset Management (Daiwa AM) + Think Tank (Daiwa Institute of Research) + Online Banking (Daiwa Next Bank)**. Daiwa Securities SMBC was established as a joint venture with Sumitomo Group in 1999 年, but it was dissolved in 2009 年 (Sumitomo Mitsui FG separately acquired SMBC Nikko Securities under [[megabanks/smfg]]) and re-established its position as a major independent company. The president is Seiji Nakata. Unlike Nomura HD, it adopts an independent strategy with the aim of "deeply cultivating retail and expanding into medium-sized businesses in Asia."
 
 ## 0. Latest performance (FY2024 = 2025-03  issue, link)
 
@@ -49,7 +49,7 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it
 
 ### Characteristics of business format
 
-Unlike general financial groups affiliated with megabanks, we are an independent financial group with a securities core that does not have a banking background. After the dissolution of 1999 年's Sumitomo joint venture (Daiwa Securities SMBC), we clarified our position as a "major independent company" and maintained 2 位 in Japan, second only to Nomura, with both a retail customer base and domestic IB. It differs from pure online securities ([[sbi-hd]] / [[monex-group]]) and megabank securities (SMBC Nikko / Mizuho Securities / Mitsubishi UFJ Morgan Stanley Securities) in that it has its own online bank within the group (Daiwa Next Bank, opened 2011-05 ) and has built a unique model of integrating salary deposit accounts and investment accounts.
+Unlike general financial groups affiliated with megabanks, we are an independent financial group with a securities core that does not have a banking background. After the dissolution of 1999 年's Sumitomo joint venture (Daiwa Securities SMBC), we clarified our position as a "major independent company" and maintained 2 位 in Japan, second only to Nomura, with both a retail customer base and domestic IB. It differs from pure online securities ([[megabanks/sbi-hd]] / [[securities-firms/monex-group]]) and megabank securities (SMBC Nikko / Mizuho Securities / Mitsubishi UFJ Morgan Stanley Securities) in that it has its own online bank within the group (Daiwa Next Bank, opened 2011-05 ) and has built a unique model of integrating salary deposit accounts and investment accounts.
 
 ### Major subsidiaries/equity
 
@@ -104,7 +104,7 @@ A continuing theme of the medium-term management plan. In retail, we aim to deep
 
 ### Bank-securities integrated model (Daiwa Next Bank collaboration)
 
-Daiwa Next Bank, which opened 2011-05 , offers a unique operating model of **combining salary transfer account (Daiwa Next Bank) + investment account (Daiwa Securities)**. While megabanks (Mitsubishi UFJ / SMBC / Mizuho) cross-sell from banking to securities, Daiwa is taking an approach in the opposite direction (from securities to in-house banking services). Some pure online securities companies ([[sbi-hd]] [[monex-group]]) do not have banks, and Daiwa aims to differentiate itself in this respect.
+Daiwa Next Bank, which opened 2011-05 , offers a unique operating model of **combining salary transfer account (Daiwa Next Bank) + investment account (Daiwa Securities)**. While megabanks (Mitsubishi UFJ / SMBC / Mizuho) cross-sell from banking to securities, Daiwa is taking an approach in the opposite direction (from securities to in-house banking services). Some pure online securities companies ([[megabanks/sbi-hd]] [[securities-firms/monex-group]]) do not have banks, and Daiwa aims to differentiate itself in this respect.
 
 ### Overseas strategy (medium scale)
 
@@ -121,10 +121,10 @@ Compared to Nomura HD's global IB (Lehman Asia/Europe acquisition), Daiwa's over
 |subject|Areas of competition and cooperation|Yamato's position|
 |---|---|---|
 |Nomura HD|Retail + Wholesale + Overseas IB|Domestic 2 位, inferior to Nomura on overseas scale|
-|SMBC Nikko Securities ([[smfg]])|Major megabank securities company|Differentiation through independent position|
-|Mizuho Securities ([[mizuho-fg]])|Megabank IB|Compete in the wholesale area|
-|Mitsubishi UFJ Morgan Stanley Securities ([[mufg]])|MS Strategic Alliance IB|Compete in wholesale|
-|[[sbi-hd]] / [[monex-group]] / Rakuten Securities|online securities|Retail face-to-face vs internet|
+|SMBC Nikko Securities ([[megabanks/smfg]])|Major megabank securities company|Differentiation through independent position|
+|Mizuho Securities ([[megabanks/mizuho-fg]])|Megabank IB|Compete in the wholesale area|
+|Mitsubishi UFJ Morgan Stanley Securities ([[megabanks/mufg]])|MS Strategic Alliance IB|Compete in wholesale|
+|[[megabanks/sbi-hd]] / [[securities-firms/monex-group]] / Rakuten Securities|online securities|Retail face-to-face vs internet|
 
 ## 4. Regulations and Policies
 
@@ -140,7 +140,7 @@ Compared to Nomura HD's global IB (Lehman Asia/Europe acquisition), Daiwa's over
 
 ## Related
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[ndfg]] · [[sbi-hd]] · [[monex-group]] · [[rakuten-fg]] · [[paypay-fg]] · [[fukuoka-fg]] · [[au-fh]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[megabanks/ndfg]] · [[megabanks/sbi-hd]] · [[securities-firms/monex-group]] · [[payment-firms/rakuten-fg]] · [[megabanks/paypay-fg]] · [[regional-banks/fukuoka-fg]] · [[megabanks/au-fh]]
 
 ## Sources
 

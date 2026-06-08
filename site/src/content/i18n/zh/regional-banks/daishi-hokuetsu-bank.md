@@ -17,7 +17,7 @@ translated_at: 2026-05-31T15:29:03.937Z
 
 ## 长话短说
 
-大师北越银行是一家地区银行，总部位于新泻县，并被列入金融厅的银行牌照名单。是[[dai-shi-hokuetsu-fg]]旗下的核心运营银行，原大石银行与原北越银行合并后被视为单一银行子公司。
+大师北越银行是一家地区银行，总部位于新泻县，并被列入金融厅的银行牌照名单。是[[regional-banks/dai-shi-hokuetsu-fg]]旗下的核心运营银行，原大石银行与原北越银行合并后被视为单一银行子公司。
 
 ## 1 。许可证/组边界
 
@@ -25,7 +25,7 @@ translated_at: 2026-05-31T15:29:03.937Z
 |---|---|
 |法定名称|第一北越银行|
 |许可途径|银行法地区银行； FSA 银行牌照清单|
-|组边界|[[dai-shi-hokuetsu-fg]]核心运营银行|
+|组边界|[[regional-banks/dai-shi-hokuetsu-fg]]核心运营银行|
 |国内市场|新泻/新泻市|
 |维基角色|新泻地方银行运营公司页面|
 
@@ -36,14 +36,14 @@ translated_at: 2026-05-31T15:29:03.937Z
 ## 3 。为什么此页面很重要
 
 - 缩小了 Daishi Hokuetsu Bank 的 FSA 确切名称运营公司差距。
-- 将银行牌照与[[dai-shi-hokuetsu-fg]]控股公司策略分开。
-- 为[[taiko-bank]]和北陆/中部地区银行覆盖范围提供对等锚点。
+- 将银行牌照与[[regional-banks/dai-shi-hokuetsu-fg]]控股公司策略分开。
+- 为[[regional-banks/taiko-bank]]和北陆/中部地区银行覆盖范围提供对等锚点。
 
 ## 有关的
 
-- [[dai-shi-hokuetsu-fg]]
-- [[taiko-bank]]
-- [[hokuhoku-fg]]
+- [[regional-banks/dai-shi-hokuetsu-fg]]
+- [[regional-banks/taiko-bank]]
+- [[regional-banks/hokuhoku-fg]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 

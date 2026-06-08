@@ -15,7 +15,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-Chiba Prefecture's No. 2  regional bank (prefectural share 2 位; No. 1  is [[chiba-bank]]). It emerged as one of the "latest-converting ordinary banks": 1943  Chiba Godo Mujin -> 1951  Chiba Sogo Bank -> **ordinary-bank conversion in 1989-04  and TSE 2  section listing in 9  of the same year**. It is abbreviated "Keiyo" and is listed on TSE PRIME under 8544. It maintains an independent route without joining TSUBASA, with a focus on **SMEs + personal loans and concentration in the Keiyo area (Chiba City, Ichihara, Kisarazu, Funabashi, Matsudo)**. It is a member of the Second Association of Regional Banks and sits in the upper group among second regional banks by both total assets and deposits.
+Chiba Prefecture's No. 2  regional bank (prefectural share 2 位; No. 1  is [[regional-banks/chiba-bank]]). It emerged as one of the "latest-converting ordinary banks": 1943  Chiba Godo Mujin -> 1951  Chiba Sogo Bank -> **ordinary-bank conversion in 1989-04  and TSE 2  section listing in 9  of the same year**. It is abbreviated "Keiyo" and is listed on TSE PRIME under 8544. It maintains an independent route without joining TSUBASA, with a focus on **SMEs + personal loans and concentration in the Keiyo area (Chiba City, Ichihara, Kisarazu, Funabashi, Matsudo)**. It is a member of the Second Association of Regional Banks and sits in the upper group among second regional banks by both total assets and deposits.
 
 ## 1. Company Overview
 
@@ -67,15 +67,15 @@ Chiba Prefecture's No. 2  regional bank (prefectural share 2 位; No. 1  is [[ch
 
 | Bank | Type | Positioning |
 |---|---|---|
-| [[chiba-bank]] (Chiba Bank 8331) | First regional bank | **Chiba Prefecture No. 1**, lead bank of the TSUBASA Alliance, leading regional bank in Kanto |
+| [[regional-banks/chiba-bank]] (Chiba Bank 8331) | First regional bank | **Chiba Prefecture No. 1**, lead bank of the TSUBASA Alliance, leading regional bank in Kanto |
 | **Keiyo Bank (8544)** | Second regional bank | **Chiba Prefecture No. 2**, member of the Second Association of Regional Banks, specialized in the Keiyo area |
-| [[chiba-kogyo-bank]] (Chiba Kogyo Bank 8337) | First regional bank | Chiba Prefecture 3 位, historically colored by the old Mizuho lineage (relationship with [[mizuho-fg]]) |
+| [[regional-banks/chiba-kogyo-bank]] (Chiba Kogyo Bank 8337) | First regional bank | Chiba Prefecture 3 位, historically colored by the old Mizuho lineage (relationship with [[megabanks/mizuho-fg]]) |
 
 Chiba Prefecture is a special market with **3 行 coexisting banks**: 2 行 first regional banks (Chiba Bank and Chiba Kogyo Bank) + 1 行 second regional bank (Keiyo). Keiyo Bank is smaller than Chiba Bank in scale, but it maintains a clear presence in the **SME and individual segments**.
 
 ### Independent Route — Not a TSUBASA Participant
 
-Keiyo Bank does **not participate** in the **TSUBASA Alliance** led by [[chiba-bank]] (a wide-area alliance of first regional banks including Chiba, Daishi Hokuetsu, Chugoku, Iyo, Toho, Hokuyo, Musashino, Shiga, and Ryukyu). This reflects:
+Keiyo Bank does **not participate** in the **TSUBASA Alliance** led by [[regional-banks/chiba-bank]] (a wide-area alliance of first regional banks including Chiba, Daishi Hokuetsu, Chugoku, Iyo, Toho, Hokuyo, Musashino, Shiga, and Ryukyu). This reflects:
 
 - the structural reason that it is a second regional bank directly competing with Chiba Bank inside Chiba Prefecture;
 - its distinct position as a member of the Second Association of Regional Banks;
@@ -94,11 +94,11 @@ Instead, it responds through joint back-office centers and joint systems provide
 
 | Competitive axis | Main competitors |
 |---|---|
-| Chiba Prefecture overall | [[chiba-bank]] (dominant No. 1), [[chiba-kogyo-bank]] |
-| Kanto regional banks | [[mebuki-fg]] (Joyo + Ashikaga, northern Kanto base), [[concordia-fg]] (Yokohama + Higashi-Nippon, Kanagawa base) |
+| Chiba Prefecture overall | [[regional-banks/chiba-bank]] (dominant No. 1), [[regional-banks/chiba-kogyo-bank]] |
+| Kanto regional banks | [[regional-banks/mebuki-fg]] (Joyo + Ashikaga, northern Kanto base), [[regional-banks/concordia-fg]] (Yokohama + Higashi-Nippon, Kanagawa base) |
 | Second regional banks | Kita-Nippon Bank, Higashi-Nippon Bank (former group), Momiji Bank, and others |
-| Megabank personal banking | Chiba Prefecture branches of [[smfg]], [[mufg]], and [[mizuho-fg]] |
-| Internet banks / retail-affiliated banks | Rakuten Bank, SBI Sumishin Net Bank, [[paypay-fg]], PayPay Bank — encroaching in the personal-loan field |
+| Megabank personal banking | Chiba Prefecture branches of [[megabanks/smfg]], [[megabanks/mufg]], and [[megabanks/mizuho-fg]] |
+| Internet banks / retail-affiliated banks | Rakuten Bank, SBI Sumishin Net Bank, [[megabanks/paypay-fg]], PayPay Bank — encroaching in the personal-loan field |
 
 ## 4. Regulation and Policy
 
@@ -108,12 +108,12 @@ Instead, it responds through joint back-office centers and joint systems provide
 - **Current policy topics**:
   - 2024 onward: BOJ policy-rate normalization -> improved domestic lending-rate margins (a bonus for regional banks overall)
   - 2025 onward: Chiba Prefecture demographics (Chiba City and Funabashi have net inflows, while Uchibo and Sotobo face outflows) -> branch restructuring pressure
-  - Encroachment in the personal-loan field by **internet banks and retail-affiliated banks ([[paypay-fg]], Rakuten Bank, SBI Sumishin)** -> retail DX challenge
+  - Encroachment in the personal-loan field by **internet banks and retail-affiliated banks ([[megabanks/paypay-fg]], Rakuten Bank, SBI Sumishin)** -> retail DX challenge
 
 ## Related
 
-- [[chiba-bank]] · [[chiba-kogyo-bank]] · [[mebuki-fg]] · [[concordia-fg]]
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[paypay-fg]]
+- [[regional-banks/chiba-bank]] · [[regional-banks/chiba-kogyo-bank]] · [[regional-banks/mebuki-fg]] · [[regional-banks/concordia-fg]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[megabanks/paypay-fg]]
 
 ## Sources
 

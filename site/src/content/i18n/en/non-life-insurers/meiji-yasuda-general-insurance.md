@@ -16,7 +16,7 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 
 ## TL;DR
 
-Meiji Yasuda General Insurance Co., Ltd. is a non-life insurance operating company with [[meiji-yasuda]] group adjacency and is listed in the FSA non-life insurance company license list. As the non-life arm held by a major life insurer group, it should be analyzed by separating life / non-life group boundaries.
+Meiji Yasuda General Insurance Co., Ltd. is a non-life insurance operating company with [[life-insurers/meiji-yasuda]] group adjacency and is listed in the FSA non-life insurance company license list. As the non-life arm held by a major life insurer group, it should be analyzed by separating life / non-life group boundaries.
 
 ## 1. License / group boundary
 
@@ -25,7 +25,7 @@ Meiji Yasuda General Insurance Co., Ltd. is a non-life insurance operating compa
 | Legal name | Meiji Yasuda General Insurance Co., Ltd. |
 | License route | Insurance Business Act non-life insurance company; FSA non-life insurer list |
 | Protection scheme | Non-Life Insurance Policyholders Protection Corporation member |
-| Group boundary | [[meiji-yasuda]] group adjacency |
+| Group boundary | [[life-insurers/meiji-yasuda]] group adjacency |
 | Wiki role | Life-insurer group non-life operating company |
 
 ## 2. Operating model
@@ -40,10 +40,10 @@ Life-insurer groups can hold non-life entities to support employee benefits, gro
 
 ## Related
 
-- [[meiji-yasuda]]
+- [[life-insurers/meiji-yasuda]]
 - [[insurance/mutual-vs-stock-life-insurer]]
 - [[insurance/INDEX]]
-- [[nisshin-fire]]
+- [[non-life-insurers/nisshin-fire]]
 
 ## Sources
 

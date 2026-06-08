@@ -15,7 +15,7 @@ translated_at: 2026-06-01T02:31:57.174Z
 
 ## TL;DR
 
-株式会社静冈银行是总部位于静冈县、列入金融厅银行牌照名单的地方银行。它是 [[shizuoka-fg]] 的核心运营银行，也是静冈县内 regional-bank 覆盖的基准锚点。
+株式会社静冈银行是总部位于静冈县、列入金融厅银行牌照名单的地方银行。它是 [[regional-banks/shizuoka-fg]] 的核心运营银行，也是静冈县内 regional-bank 覆盖的基准锚点。
 
 ## 1. 牌照 / 集团边界
 
@@ -23,7 +23,7 @@ translated_at: 2026-06-01T02:31:57.174Z
 |---|---|
 | 法定名称 | 株式会社静冈银行 |
 | 牌照路径 | 银行业法地方银行；金融厅银行牌照名单 |
-| 集团边界 | [[shizuoka-fg]] 核心运营银行 |
+| 集团边界 | [[regional-banks/shizuoka-fg]] 核心运营银行 |
 | 主场市场 | 静冈 / 静冈市 |
 | Wiki 角色 | 静冈地方银行运营公司页面 |
 
@@ -34,15 +34,15 @@ translated_at: 2026-06-01T02:31:57.174Z
 ## 3. 为什么本页重要
 
 - 补齐“静冈银行”精确名称的运营公司缺口。
-- 将 [[shizuoka-fg]] 与其银行牌照运营子公司分开。
-- 为 [[suruga-bank]]、[[shimizu-bank]]、[[shizuoka-chuo-bank]] 提供同业锚点。
+- 将 [[regional-banks/shizuoka-fg]] 与其银行牌照运营子公司分开。
+- 为 [[regional-banks/suruga-bank]]、[[regional-banks/shimizu-bank]]、[[regional-banks/shizuoka-chuo-bank]] 提供同业锚点。
 
 ## Related
 
-- [[shizuoka-fg]]
-- [[suruga-bank]]
-- [[shimizu-bank]]
-- [[shizuoka-chuo-bank]]
+- [[regional-banks/shizuoka-fg]]
+- [[regional-banks/suruga-bank]]
+- [[regional-banks/shimizu-bank]]
+- [[regional-banks/shizuoka-chuo-bank]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 

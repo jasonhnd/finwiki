@@ -37,14 +37,14 @@ translated_at: 2026-05-31T11:13:44.880Z
 ## 3。为什么此页面很重要
 
 - 新增台湾大众银行P1 分支锚。
-- 启动台湾分支集群[[mega-icbc-japan]], [[ctbc-bank-japan]]， 和[[esun-bank-japan]].
-- 帮助台湾银行区别于中国大陆银行分行和日本银行[[chugoku-bank]].
+- 启动台湾分支集群[[foreign-financial-institutions/mega-icbc-japan]], [[foreign-financial-institutions/ctbc-bank-japan]]， 和[[foreign-financial-institutions/esun-bank-japan]].
+- 帮助台湾银行区别于中国大陆银行分行和日本银行[[regional-banks/chugoku-bank]].
 
 ＃＃ 有关的
 
-- [[mega-icbc-japan]]
-- [[ctbc-bank-japan]]
-- [[esun-bank-japan]]
+- [[foreign-financial-institutions/mega-icbc-japan]]
+- [[foreign-financial-institutions/ctbc-bank-japan]]
+- [[foreign-financial-institutions/esun-bank-japan]]
 - [[banking/foreign-bank-japan-retreat]]
 - [[banking/INDEX]]
 

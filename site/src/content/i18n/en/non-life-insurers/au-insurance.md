@@ -16,7 +16,7 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 
 ## TL;DR
 
-au Insurance Company, Limited is a direct / mobile-friendly non-life insurance operating company adjacent to [[au-fh]] and [[aioi-nissay-dowa-insurance]]. It appears on the FSA list of licensed non-life insurers and sits at the intersection of the KDDI / au ecosystem and MS&AD insurance capabilities.
+au Insurance Company, Limited is a direct / mobile-friendly non-life insurance operating company adjacent to [[megabanks/au-fh]] and [[non-life-insurers/aioi-nissay-dowa-insurance]]. It appears on the FSA list of licensed non-life insurers and sits at the intersection of the KDDI / au ecosystem and MS&AD insurance capabilities.
 
 ## 1. License / group boundary
 
@@ -26,7 +26,7 @@ au Insurance Company, Limited is a direct / mobile-friendly non-life insurance o
 | English name | au Insurance Company, Limited |
 | License route | Insurance Business Act non-life insurance company; FSA non-life insurer list |
 | Protection scheme | Non-Life Insurance Policyholders Protection Corporation member |
-| Group boundary | [[au-fh]] + [[aioi-nissay-dowa-insurance]] shareholder / business adjacency |
+| Group boundary | [[megabanks/au-fh]] + [[non-life-insurers/aioi-nissay-dowa-insurance]] shareholder / business adjacency |
 
 ## 2. Operating model
 
@@ -35,14 +35,14 @@ au Insurance is an insurer with a mobile carrier ecosystem, app / web distributi
 ## 3. Why this page matters
 
 - Adds the KDDI / au non-life insurance operating-company boundary.
-- Useful for comparing telco-finance insurance with [[sony-insurance]], [[sbi-insurance]], and [[rakuten-general-insurance]].
+- Useful for comparing telco-finance insurance with [[non-life-insurers/sony-insurance]], [[non-life-insurers/sbi-insurance]], and [[non-life-insurers/rakuten-general-insurance]].
 - Registry-backed D4 direct / digital non-life page.
 
 ## Related
 
-- [[au-fh]]
-- [[aioi-nissay-dowa-insurance]]
-- [[lifenet]]
+- [[megabanks/au-fh]]
+- [[non-life-insurers/aioi-nissay-dowa-insurance]]
+- [[life-insurers/lifenet]]
 - [[insurance/INDEX]]
 - [[retail/INDEX]]
 

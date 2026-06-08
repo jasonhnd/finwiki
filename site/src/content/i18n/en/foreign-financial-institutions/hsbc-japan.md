@@ -16,7 +16,7 @@ This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-i
 
 ##TL;DR
 
-Japanese bases of British HSBC Holdings plc (LSE/HKEX listed, G-SIB Bucket 2). **1866 Opening of Yokohama branch, making it one of the oldest foreign banks**, **2012-03 Withdrawal from ``HSBC Premier'' retail → major shift to corporate exclusive use** is the turning point that defines the current business form. With Hong Kong and Shanghai Bank Tokyo Branch (Commercial/Wholesale Banking) + HSBC Securities (IB) + HSBC Global Asset Management as our 3  axis, we specialize in global expansion of Japanese banks via our Asia (Hong Kong) hub, transaction banking for multinational companies, and foreign exchange commodities. The competition is [[citigroup-japan]] / Standard Chartered / Deutsche. ^[extracted]
+Japanese bases of British HSBC Holdings plc (LSE/HKEX listed, G-SIB Bucket 2). **1866 Opening of Yokohama branch, making it one of the oldest foreign banks**, **2012-03 Withdrawal from ``HSBC Premier'' retail → major shift to corporate exclusive use** is the turning point that defines the current business form. With Hong Kong and Shanghai Bank Tokyo Branch (Commercial/Wholesale Banking) + HSBC Securities (IB) + HSBC Global Asset Management as our 3  axis, we specialize in global expansion of Japanese banks via our Asia (Hong Kong) hub, transaction banking for multinational companies, and foreign exchange commodities. The competition is [[foreign-financial-institutions/citigroup-japan]] / Standard Chartered / Deutsche. ^[extracted]
 
 ## 1. Company profile
 
@@ -79,15 +79,15 @@ HSBC Holdings plc (English, on)
 ### Strategic impact of retail withdrawal
 
 - **2012-03 Reason for withdrawal from “HSBC Premier”**: Japanese retail market does not match profit margin (public statement)^[extracted]
-- **Customer transfer**: Mainly transferred to SBI Trust Bank (currently [[sbi-shinsei-bank]] group), etc.
+- **Customer transfer**: Mainly transferred to SBI Trust Bank (currently [[regional-banks/sbi-shinsei-bank]] group), etc.
 - **Paradoxical effect**: Fixed costs are reduced by withdrawal → Capital efficiency is improved by specializing in corporations
-- **Control**: [[citigroup-japan]] withdrew from 2015  retail (sold to Sumitomo Mitsui [[smfg]]). Foreign IBs’ withdrawal from retail is a structural trend
+- **Control**: [[foreign-financial-institutions/citigroup-japan]] withdrew from 2015  retail (sold to Sumitomo Mitsui [[megabanks/smfg]]). Foreign IBs’ withdrawal from retail is a structural trend
 
 ### Competitive relationship
 
 |competition|position|Difference with HSBC|
 |---|---|---|
-|[[citigroup-japan]]|Citi Private Bank, the largest foreign investor in the United States, remains among the wealthy class|HSBC specializes in corporations, Citi has a private bank|
+|[[foreign-financial-institutions/citigroup-japan]]|Citi Private Bank, the largest foreign investor in the United States, remains among the wealthy class|HSBC specializes in corporations, Citi has a private bank|
 |Standard Chartered (Tokyo Branch)|UK emerging market specialization|HSBC has HK/China desk strengths|
 |Deutsche Bank Tokyo Branch|German IB, strength in derivatives|HSBC focuses on commercial banking|
 |JP Morgan / GS / Morgan Stanley Tokyo|rice bulge bracket IB|HSBC is more of a commercial bank than IB|
@@ -109,7 +109,7 @@ HSBC Holdings plc (English, on)
 
 ## Related
 
-- [[citigroup-japan]] · [[mufg]] · [[smfg]] · [[mizuho-fg]]
+- [[foreign-financial-institutions/citigroup-japan]] · [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]
 - [[banking/foreign-bank-japan-retreat]] (History of foreign banks withdrawing from Japanese retail)
 
 ## Sources

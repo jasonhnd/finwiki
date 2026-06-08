@@ -39,17 +39,17 @@ This is the Japan branch of RGA Reinsurance Company, a subsidiary of U.S.-based 
 ## 4. Why this page matters
 
 - Anchor for a major player in Japan's life-reinsurance market — adds a "life specialist" axis to the JapanFG reinsurance map, which had leaned toward P&C reinsurance
-- System link connecting with life insurers such as [[nippon-life]] / [[dai-ichi-life]] / [[life-insurers/aflac-japan]]
+- System link connecting with life insurers such as [[life-insurers/nippon-life]] / [[life-insurers/dai-ichi-life]] / [[life-insurers/aflac-japan]]
 - Together with [[non-life-insurers/gen-re-japan]] / [[non-life-insurers/swiss-re-japan]], forms the US / European foreign reinsurer map
 
 ## Related
 
 - [[life-insurers/INDEX]]
-- [[gen-re-japan]]
-- [[swiss-re-japan]]
-- [[hannover-re-japan]]
-- [[scor-japan]]
-- [[toa-reinsurance]]
+- [[non-life-insurers/gen-re-japan]]
+- [[non-life-insurers/swiss-re-japan]]
+- [[non-life-insurers/hannover-re-japan]]
+- [[non-life-insurers/scor-japan]]
+- [[non-life-insurers/toa-reinsurance]]
 - [[insurance/INDEX]]
 
 ## Sources

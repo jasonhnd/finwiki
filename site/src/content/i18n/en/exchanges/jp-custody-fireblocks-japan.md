@@ -66,7 +66,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 | BitGo | Combines trust + MPC, US-regulation-compliant | Institutional veteran. Also does direct custody |
 | Anchorage Digital | Holds a federal bank charter (the only one in the US) | Compliance-oriented, US-centric |
 | Ledger Enterprise | HSM + Vault, originated in France | HW-focused, for large banks |
-| Komainu | Nomura + Ledger + CoinShares lineage | Institutional, Asia expansion (for detail see [[jp-custody-komainu]]) |
+| Komainu | Nomura + Ledger + CoinShares lineage | Institutional, Asia expansion (for detail see [[exchanges/jp-custody-komainu]]) |
 
 ### Domestic Japan competitors · division of roles
 
@@ -127,8 +127,8 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 
 ## Related
 
-- [[jp-custody-komainu]] — Nomura-lineage institutional custody competitor
-- [[jp-exchange-sbi-vc-trade]] — SBI VC Trade (a Fireblocks customer candidate)
+- [[exchanges/jp-custody-komainu]] — Nomura-lineage institutional custody competitor
+- [[exchanges/jp-exchange-sbi-vc-trade]] — SBI VC Trade (a Fireblocks customer candidate)
 - [[agent-economy/embedded-wallet-network-effects-moat]] — the embedded-wallet competition debate
 - [[fintech/maina-wallet-kyc-permissionless-ux-bridge]] — wallet × KYC design
 - [[fintech/japan-stablecoin-regulatory-landscape]] — Japan stablecoin regulation

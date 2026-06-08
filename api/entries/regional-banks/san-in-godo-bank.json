@@ -54,35 +54,35 @@
     "wikilinks_count": 10,
     "wikilinks": [
       "banking/INDEX",
-      "chugin-okayama",
-      "hirogin-hd",
-      "mizuho-fg",
-      "mufg",
+      "megabanks/mizuho-fg",
+      "megabanks/mufg",
+      "megabanks/smfg",
       "regional-banks/INDEX",
+      "regional-banks/chugin-okayama",
+      "regional-banks/hirogin-hd",
+      "regional-banks/shimane-bank",
       "regional-banks/tottori-bank",
-      "shimane-bank",
-      "smfg",
-      "yamaguchi-fg"
+      "regional-banks/yamaguchi-fg"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/chugin-okayama",
-      "https://finwiki.zksc.io/hirogin-hd",
-      "https://finwiki.zksc.io/mizuho-fg",
-      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/smfg",
       "https://finwiki.zksc.io/regional-banks/INDEX",
+      "https://finwiki.zksc.io/regional-banks/chugin-okayama",
+      "https://finwiki.zksc.io/regional-banks/hirogin-hd",
+      "https://finwiki.zksc.io/regional-banks/shimane-bank",
       "https://finwiki.zksc.io/regional-banks/tottori-bank",
-      "https://finwiki.zksc.io/shimane-bank",
-      "https://finwiki.zksc.io/smfg",
-      "https://finwiki.zksc.io/yamaguchi-fg"
+      "https://finwiki.zksc.io/regional-banks/yamaguchi-fg"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3445,
-    "word_like_tokens": 533,
-    "inbound_wikilinks_count": 2,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 3640,
+    "word_like_tokens": 558,
+    "inbound_wikilinks_count": 5,
+    "last_modified": "2026-06-08"
   }
 }

@@ -50,34 +50,34 @@
   "body_links": {
     "wikilinks_count": 9,
     "wikilinks": [
-      "central-banking-function-unbundling",
       "fintech/INDEX",
+      "fintech/central-banking-function-unbundling",
       "fintech/genius-act-501-denylist-mandate",
       "fintech/issuer-distributor-incentive-realignment-arc-strategy",
       "fintech/japan-financial-regulation",
       "fintech/japan-stablecoin-regulatory-landscape",
       "fintech/protocol-hedge-strategy-stripe-pattern",
-      "protocol-renewal-trigger-as-event-anchor",
-      "regulatory-window-strategic-acquisition"
+      "fintech/protocol-renewal-trigger-as-event-anchor",
+      "fintech/regulatory-window-strategic-acquisition"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/central-banking-function-unbundling",
       "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/fintech/central-banking-function-unbundling",
       "https://finwiki.zksc.io/fintech/genius-act-501-denylist-mandate",
       "https://finwiki.zksc.io/fintech/issuer-distributor-incentive-realignment-arc-strategy",
       "https://finwiki.zksc.io/fintech/japan-financial-regulation",
       "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
       "https://finwiki.zksc.io/fintech/protocol-hedge-strategy-stripe-pattern",
-      "https://finwiki.zksc.io/protocol-renewal-trigger-as-event-anchor",
-      "https://finwiki.zksc.io/regulatory-window-strategic-acquisition"
+      "https://finwiki.zksc.io/fintech/protocol-renewal-trigger-as-event-anchor",
+      "https://finwiki.zksc.io/fintech/regulatory-window-strategic-acquisition"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2741,
-    "word_like_tokens": 463,
+    "nonspace_chars": 2765,
+    "word_like_tokens": 466,
     "inbound_wikilinks_count": 2,
-    "last_modified": "2026-05-26"
+    "last_modified": "2026-06-08"
   }
 }

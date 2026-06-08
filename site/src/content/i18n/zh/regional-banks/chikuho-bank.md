@@ -17,7 +17,7 @@ translated_at: 2026-05-31T11:13:44.844Z
 
 ## 要点摘要
 
-筑丰银行是一家地区性银行，其主要分行位于福冈县久留米市，并被列入金融厅的银行执照名单。福冈县当地/筑后地区区域银行运营公司的主力，与 [[fukuoka-bank]] 和 [[nishi-nippon-city-bank]] 被视为独立法人的同行。
+筑丰银行是一家地区性银行，其主要分行位于福冈县久留米市，并被列入金融厅的银行执照名单。福冈县当地/筑后地区区域银行运营公司的主力，与 [[regional-banks/fukuoka-bank]] 和 [[regional-banks/nishi-nippon-city-bank]] 被视为独立法人的同行。
 
 ## 1。许可证/组边界
 
@@ -31,19 +31,19 @@ translated_at: 2026-05-31T11:13:44.844Z
 
 ## 2。运营模式
 
-筑丰银行是一家地方银行，主要在福冈县南部处理零售存款、中小企业金融、地方关系银行和筑后地区业务支持业务。在福冈县内，它与大型银行同行 [[fukuoka-bank]] / [[nishi-nippon-city-bank]] 有着独立的本地银行边界。九州地区银行合并上下文请参阅 [[banking/regional-bank-consolidation-pattern]] 和 [[banking/INDEX|banking index]]。
+筑丰银行是一家地方银行，主要在福冈县南部处理零售存款、中小企业金融、地方关系银行和筑后地区业务支持业务。在福冈县内，它与大型银行同行 [[regional-banks/fukuoka-bank]] / [[regional-banks/nishi-nippon-city-bank]] 有着独立的本地银行边界。九州地区银行合并上下文请参阅 [[banking/regional-bank-consolidation-pattern]] 和 [[banking/INDEX|banking index]]。
 
 ## 3。为什么此页面很重要
 
 - 填补了筑丰银行 FSA 确切名称运营公司的空白。
 - 将筑后地区的银行覆盖范围与福冈市中心的银行业务范围分开。
-- 为 [[sbi-regional-bank-hd]] 区域银行投资环境提供同行锚定。
+- 为 [[megabanks/sbi-regional-bank-hd]] 区域银行投资环境提供同行锚定。
 
 ＃＃ 有关的
 
-- [[fukuoka-bank]]
-- [[nishi-nippon-city-bank]]
-- [[sbi-regional-bank-hd]]
+- [[regional-banks/fukuoka-bank]]
+- [[regional-banks/nishi-nippon-city-bank]]
+- [[megabanks/sbi-regional-bank-hd]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 

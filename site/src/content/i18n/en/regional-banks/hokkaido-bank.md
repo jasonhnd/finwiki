@@ -17,7 +17,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ##TL;DR
 
-The Hokkaido Bank, Ltd. is a regional bank based in Hokkaido listed on the Financial Services Agency's list of banking licenses, and is a banking operating company with a rating of [[hokuhoku-fg]]. [[hokuhoku-fg]] Apart from the parent page, it will be treated as a licensed bank that is responsible for the retail / SME / regional finance boundary in Hokkaido.
+The Hokkaido Bank, Ltd. is a regional bank based in Hokkaido listed on the Financial Services Agency's list of banking licenses, and is a banking operating company with a rating of [[regional-banks/hokuhoku-fg]]. [[regional-banks/hokuhoku-fg]] Apart from the parent page, it will be treated as a licensed bank that is responsible for the retail / SME / regional finance boundary in Hokkaido.
 
 ## 1. License / group boundary
 
@@ -25,25 +25,25 @@ The Hokkaido Bank, Ltd. is a regional bank based in Hokkaido listed on the Finan
 |---|---|
 |Legal name|Hokkaido Bank, Ltd.|
 |License route|Banking Act regional bank; FSA bank license list|
-|Group boundary|[[hokuhoku-fg]] operating bank|
+|Group boundary|[[regional-banks/hokuhoku-fg]] operating bank|
 |Home market|Hokkaido / Sapporo|
 |Wiki roles|Hokkaido regional-bank operating-company page|
 
 ## 2. Operating model
 
-Hokkaido Bank is a regional bank responsible for retail, SME, tourism, agriculture, fishery, logistics, and municipal finance in the Sapporo metropolitan area and all of Hokkaido. In the wide-area 2  ground model of [[hokuhoku-fg]], it becomes a single wing along with [[hokuriku-bank]] on the Hokuriku side. Cross-prefecture regional-bank pressure context see [[banking/regional-bank-consolidation-pattern]].
+Hokkaido Bank is a regional bank responsible for retail, SME, tourism, agriculture, fishery, logistics, and municipal finance in the Sapporo metropolitan area and all of Hokkaido. In the wide-area 2  ground model of [[regional-banks/hokuhoku-fg]], it becomes a single wing along with [[regional-banks/hokuriku-bank]] on the Hokuriku side. Cross-prefecture regional-bank pressure context see [[banking/regional-bank-consolidation-pattern]].
 
 ## 3. Why this page matters
 
 - Parent FG coverage alone did not expose the licensed bank boundary.
-- Useful peer for [[hokuyo-bank]] and other Hokkaido regional-bank pages.
+- Useful peer for [[regional-banks/hokuyo-bank]] and other Hokkaido regional-bank pages.
 - Registry-backed B2.1 regional-bank operating-company page.
 
 ## Related
 
-- [[hokuhoku-fg]]
-- [[hokuriku-bank]]
-- [[hokuyo-bank]]
+- [[regional-banks/hokuhoku-fg]]
+- [[regional-banks/hokuriku-bank]]
+- [[regional-banks/hokuyo-bank]]
 - [[banking/INDEX]]
 
 ## Sources

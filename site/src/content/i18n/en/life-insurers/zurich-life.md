@@ -17,7 +17,7 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 
 ## TL;DR
 
-Zurich Life Insurance Co., Ltd. is a Japan life-insurance operating company listed on the Financial Services Agency's life-insurer list and the Life Insurance Association member list. [[zurich-japan]] is handled separately as Zurich group's Nippon Insurance surface / non-life branch context, and this page is treated as a life-insurance underwriting entity.
+Zurich Life Insurance Co., Ltd. is a Japan life-insurance operating company listed on the Financial Services Agency's life-insurer list and the Life Insurance Association member list. [[non-life-insurers/zurich-japan]] is handled separately as Zurich group's Nippon Insurance surface / non-life branch context, and this page is treated as a life-insurance underwriting entity.
 
 ## 1. License / group boundary
 
@@ -26,25 +26,25 @@ Zurich Life Insurance Co., Ltd. is a Japan life-insurance operating company list
 | Legal name | Zurich Life Insurance Co., Ltd. |
 | License route | Insurance Business Act life-insurance company; FSA life insurer list |
 | Industry body | Life Insurance Association of Japan member |
-| Group adjacency | Zurich Insurance Group Japan surface; see [[zurich-japan]] |
+| Group adjacency | Zurich Insurance Group Japan surface; see [[non-life-insurers/zurich-japan]] |
 | Wiki role | Zurich's Japan life-insurance operating company |
 
 ## 2. Operating model
 
-As a foreign-affiliated direct / online-friendly life insurer, Zurich Life has analysis routes for medical, cancer, income-protection and protection products. The existing [[zurich-japan]] page includes the Sompo Japan Branch and Zurich group overview, so the life-insurance license boundary will be separated into this page.
+As a foreign-affiliated direct / online-friendly life insurer, Zurich Life has analysis routes for medical, cancer, income-protection and protection products. The existing [[non-life-insurers/zurich-japan]] page includes the Sompo Japan Branch and Zurich group overview, so the life-insurance license boundary will be separated into this page.
 
 ## 3. Why this page matters
 
 - Corrects the old mixed Zurich Japan / Zurich Life coverage boundary.
-- Supports direct life-insurance comparison against [[lifenet]], [[sbi-life]], and [[orix-life]].
+- Supports direct life-insurance comparison against [[life-insurers/lifenet]], [[life-insurers/sbi-life]], and [[life-insurers/orix-life]].
 - Adds a registry-confirmed standalone life-insurer page.
 
 ## Related
 
-- [[zurich-japan]]
-- [[lifenet]]
-- [[sbi-life]]
-- [[orix-life]]
+- [[non-life-insurers/zurich-japan]]
+- [[life-insurers/lifenet]]
+- [[life-insurers/sbi-life]]
+- [[life-insurers/orix-life]]
 - [[insurance/internet-life-insurance-business-model]]
 
 ## Sources

@@ -54,11 +54,11 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 ## Related
 
 - [[regional-banks/INDEX|regional-banks INDEX]]
-- [[nishi-nippon-fhd]]
-- [[fukuoka-bank]]
-- [[chikuho-bank]]
-- [[kitakyushu-bank]]
-- [[nagasaki-bank]]
+- [[regional-banks/nishi-nippon-fhd]]
+- [[regional-banks/fukuoka-bank]]
+- [[regional-banks/chikuho-bank]]
+- [[regional-banks/kitakyushu-bank]]
+- [[regional-banks/nagasaki-bank]]
 - [[financial-regulators/fsa|FSA]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]

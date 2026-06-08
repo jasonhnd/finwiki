@@ -16,7 +16,7 @@ translated_at: 2026-06-01T00:41:50.465Z
 
 ## TL;DR
 
-乐天生命保险株式会社是 [[rakuten-fg]] / Rakuten ecosystem 的 life-insurance operating company。它是列入金融厅 life-insurer list 的 separate underwriter，应被视为可与乐天卡、银行、证券、支付和积分经济圈连接的 insurance node。
+乐天生命保险株式会社是 [[payment-firms/rakuten-fg]] / Rakuten ecosystem 的 life-insurance operating company。它是列入金融厅 life-insurer list 的 separate underwriter，应被视为可与乐天卡、银行、证券、支付和积分经济圈连接的 insurance node。
 
 ## 1. 牌照 / 集团边界
 
@@ -25,29 +25,29 @@ translated_at: 2026-06-01T00:41:50.465Z
 | 法定名称 | 乐天生命保险株式会社 |
 | 牌照路径 | 《保险业法》生命保险公司；金融厅生命保险公司清单 |
 | 行业组织 | 日本生命保险协会会员 |
-| 集团边界 | [[rakuten-fg]] / 乐天保险生态 |
+| 集团边界 | [[payment-firms/rakuten-fg]] / 乐天保险生态 |
 | Wiki 角色 | 乐天生态系统的生命保险承保主体 |
 
 ## 2. 运营模式
 
-乐天生命是可与 Rakuten ID、points、card、bank、securities、payments、marketplace traffic 连接的 life insurer。在 FinWiki 中，它与 [[rakuten-card]]、[[rakuten-edy]]、[[rakuten-securities]]、[[rakuten-fg]] 放在同一个 ecosystem-finance cluster。
+乐天生命是可与 Rakuten ID、points、card、bank、securities、payments、marketplace traffic 连接的 life insurer。在 FinWiki 中，它与 [[card-issuers/rakuten-card]]、[[payment-firms/rakuten-edy]]、[[securities-firms/rakuten-securities]]、[[payment-firms/rakuten-fg]] 放在同一个 ecosystem-finance cluster。
 
 分析 Ecosystem insurer 时，不仅要看保险单体的商品收入，还需要看 customer acquisition cost、points economics、app / marketplace traffic、cross-sell rules、sales-conduct obligations。
 
 ## 3. 为什么本页重要
 
-- 母公司 [[rakuten-fg]] 页面没有揭示独立的生命保险承保实体。
-- 是与 [[sbi-life]]、[[lifenet]]、[[sony-life]] 比较的重要点。
+- 母公司 [[payment-firms/rakuten-fg]] 页面没有揭示独立的生命保险承保实体。
+- 是与 [[life-insurers/sbi-life]]、[[life-insurers/lifenet]]、[[life-insurers/sony-life]] 比较的重要点。
 - 支撑消费者生态金融地图。
 
 ## Related
 
-- [[rakuten-fg]]
-- [[rakuten-card]]
-- [[rakuten-edy]]
-- [[rakuten-securities]]
-- [[sbi-life]]
-- [[lifenet]]
+- [[payment-firms/rakuten-fg]]
+- [[card-issuers/rakuten-card]]
+- [[payment-firms/rakuten-edy]]
+- [[securities-firms/rakuten-securities]]
+- [[life-insurers/sbi-life]]
+- [[life-insurers/lifenet]]
 - [[insurance/internet-life-insurance-business-model]]
 
 ## Sources

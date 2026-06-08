@@ -15,7 +15,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-Juroku FG is a regional-bank financial group based in Gifu Prefecture. It was established by **turning Juroku Bank into a holding-company structure through a sole share transfer in 2021-10-01**. Its core banking subsidiary is **Juroku Bank, founded as the Sixteenth National Bank in 1877-10 **, and it has long maintained the No. 1  share in Gifu Prefecture. The name "Juroku" comes from the Meiji-era national-bank numbering system (Sixteenth National Bank), making it one of the few surviving megabanks / regional banks that still retains a "number bank" name. It sits on the **northern edge** of the Chukyo economic area and shares Gifu Prefecture with [[ogaki-kyoritsu-bank]] (Ogaki Kyoritsu Bank), forming a two-strong-bank structure in the prefecture. As a single regional bank's move into an HD structure, the launch came relatively late nationally (2021). ^[extracted]
+Juroku FG is a regional-bank financial group based in Gifu Prefecture. It was established by **turning Juroku Bank into a holding-company structure through a sole share transfer in 2021-10-01**. Its core banking subsidiary is **Juroku Bank, founded as the Sixteenth National Bank in 1877-10 **, and it has long maintained the No. 1  share in Gifu Prefecture. The name "Juroku" comes from the Meiji-era national-bank numbering system (Sixteenth National Bank), making it one of the few surviving megabanks / regional banks that still retains a "number bank" name. It sits on the **northern edge** of the Chukyo economic area and shares Gifu Prefecture with [[regional-banks/ogaki-kyoritsu-bank]] (Ogaki Kyoritsu Bank), forming a two-strong-bank structure in the prefecture. As a single regional bank's move into an HD structure, the launch came relatively late nationally (2021). ^[extracted]
 
 ## 1. Company overview
 
@@ -74,7 +74,7 @@ Juroku FG (holding company; TSE PRIME 7380)
 
 - **All of Gifu Prefecture**: branch network in major cities such as Gifu, Ogaki, Tajimi, and Takayama
 - **Expansion into western Aichi**: operating-base expansion into Ichinomiya, Bisai, and the northern edge of the Nagoya area
-- **Northern edge of the Chukyo economic area**: positioned on the periphery of the Nagoya-centered Chukyo area, competing and dividing territory with Aichi regional-bank players (former Tokai Bank line [[mufg]] + Bank of Nagoya + Aichi Bank)
+- **Northern edge of the Chukyo economic area**: positioned on the periphery of the Nagoya-centered Chukyo area, competing and dividing territory with Aichi regional-bank players (former Tokai Bank line [[megabanks/mufg]] + Bank of Nagoya + Aichi Bank)
 
 ### Competition in the Chukyo economic area
 
@@ -112,11 +112,11 @@ Juroku FG (holding company; TSE PRIME 7380)
 
 ### Related
 
-- [[ogaki-kyoritsu-bank]] (Ogaki Kyoritsu Bank, one wing of the two-strong-bank structure in Gifu)
-- [[san-jusan-fg]] (San ju San FG, adjacent Mie regional bank and Kansai-side boundary of the Chukyo area)
-- [[mufg]] (former Tokai Bank line, Chukyo-area megabank)
-- [[shizuoka-fg]] (Shizuoka FG, broad regional bank on the eastern edge of the Chukyo area)
-- [[hokuhoku-fg]] (Hokuriku economic area, geographically close to northern Gifu)
+- [[regional-banks/ogaki-kyoritsu-bank]] (Ogaki Kyoritsu Bank, one wing of the two-strong-bank structure in Gifu)
+- [[regional-banks/san-jusan-fg]] (San ju San FG, adjacent Mie regional bank and Kansai-side boundary of the Chukyo area)
+- [[megabanks/mufg]] (former Tokai Bank line, Chukyo-area megabank)
+- [[regional-banks/shizuoka-fg]] (Shizuoka FG, broad regional bank on the eastern edge of the Chukyo area)
+- [[regional-banks/hokuhoku-fg]] (Hokuriku economic area, geographically close to northern Gifu)
 
 ### Sources
 

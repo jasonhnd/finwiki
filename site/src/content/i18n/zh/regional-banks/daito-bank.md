@@ -17,7 +17,7 @@ translated_at: 2026-05-31T15:29:03.948Z
 
 ## TL;DR
 
-大东银行是总部位于福岛县郡山市的第二地方银行，列入金融厅银行牌照名单。在福岛县银行版图中，应将其与 [[toho-bank]] 和 [[fukushima-bank]] 一并阅读，以区分第一地方银行、第二地方银行以及集团整合语境。
+大东银行是总部位于福岛县郡山市的第二地方银行，列入金融厅银行牌照名单。在福岛县银行版图中，应将其与 [[regional-banks/toho-bank]] 和 [[regional-banks/fukushima-bank]] 一并阅读，以区分第一地方银行、第二地方银行以及集团整合语境。
 
 ## 1. 牌照 / 集团边界
 
@@ -36,14 +36,14 @@ translated_at: 2026-05-31T15:29:03.948Z
 ## 3. 本页为何重要
 
 - 补齐福岛第二地方银行在金融厅牌照名单中的精确实体页面。
-- 为 [[fukushima-bank]] 提供清晰的同业对照。
+- 为 [[regional-banks/fukushima-bank]] 提供清晰的同业对照。
 - 避免将 SBI 联盟或地方银行整合笔记误当作银行牌照页面。
 
 ## Related
 
-- [[toho-bank]]
-- [[fukushima-bank]]
-- [[sbi-regional-bank-hd]]
+- [[regional-banks/toho-bank]]
+- [[regional-banks/fukushima-bank]]
+- [[megabanks/sbi-regional-bank-hd]]
 - [[banking/INDEX]]
 
 ## Sources

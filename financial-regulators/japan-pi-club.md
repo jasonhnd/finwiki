@@ -51,11 +51,11 @@ This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]].
 ## Related
 
 - [[financial-regulators/INDEX]]
-- [[nippon-kaiji-kyokai]]
-- [[toa-reinsurance]]
-- [[tokio-marine-nichido-fire]]
-- [[mitsui-sumitomo-insurance]]
-- [[sompo-japan-insurance]]
+- [[financial-regulators/nippon-kaiji-kyokai]]
+- [[non-life-insurers/toa-reinsurance]]
+- [[non-life-insurers/tokio-marine-nichido-fire]]
+- [[non-life-insurers/mitsui-sumitomo-insurance]]
+- [[non-life-insurers/sompo-japan-insurance]]
 - [[insurance/INDEX]]
 
 ## Sources

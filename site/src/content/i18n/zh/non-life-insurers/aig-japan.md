@@ -34,7 +34,7 @@ American International Group, Inc.（NYSE: AIG）
      └─ 相关服务公司（assistance / 理赔调查等）
 ```
 
-> 注：寿险业务已于 2010-03 出售给美国 [[prudential-japan]] Prudential，因此 **AIG Edison Life** 与 **AIG Star Life** 已不再属于 AIG 集团，现归入 **Prudential Gibraltar Financial Life (PGF Life)** 体系。讨论 AIG 日本时最常见的误解之一，就是把 “AIG 的日本寿险业务” 与现行 AIG 日本财险体系混为一谈。
+> 注：寿险业务已于 2010-03 出售给美国 [[life-insurers/prudential-japan]] Prudential，因此 **AIG Edison Life** 与 **AIG Star Life** 已不再属于 AIG 集团，现归入 **Prudential Gibraltar Financial Life (PGF Life)** 体系。讨论 AIG 日本时最常见的误解之一，就是把 “AIG 的日本寿险业务” 与现行 AIG 日本财险体系混为一谈。
 
 ### 重要沿革
 
@@ -90,8 +90,8 @@ American International Group, Inc.（NYSE: AIG）
 
 ## Related
 
-- [[prudential-japan]]：承接前 AIG Edison Life 与 AIG Star Life 的体系。
-- [[aflac-japan]]：外资寿险 / 财险阵营对照。
+- [[life-insurers/prudential-japan]]：承接前 AIG Edison Life 与 AIG Star Life 的体系。
+- [[life-insurers/aflac-japan]]：外资寿险 / 财险阵营对照。
 - [[non-life-insurers/msad|ms-and-ad-insurance]] / [[non-life-insurers/sompo|sompo-hd]] / Tokio Marine：日本三大财险集团对照。
 - [[life-insurers/axa-japan|AXA Japan]]：中型外资财险对照对象。
 

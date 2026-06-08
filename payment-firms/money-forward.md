@@ -139,7 +139,7 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it again
 
 ## Related
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[sbi-hd]] · [[ndfg]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[megabanks/sbi-hd]] · [[megabanks/ndfg]]
 - [[payment-firms/INDEX|payment-firms INDEX]] (PRIME 上場 fintech カテゴリ)
 
 ## Sources

@@ -14,8 +14,8 @@ last_updated: 2026-05-26
 last_tended: 2026-05-26
 review_by: 2026-11-08
 related:
-  - "[[fork-and-rebrand-5-layer-audit-framework]]"
-  - "[[bytecode-forensic-three-tier-verify]]"
+  - "[[security/fork-and-rebrand-5-layer-audit-framework]]"
+  - "[[security/bytecode-forensic-three-tier-verify]]"
 tags: [security/forensic, web-archives, evidence-preservation]
 sources:
   - "https://web.archive.org/"

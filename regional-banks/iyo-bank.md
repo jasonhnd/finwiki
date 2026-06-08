@@ -49,17 +49,17 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 ## 4. Why this page matters
 
 - Closes the FSA exact-name operating-company gap for 伊予銀行.
-- Separates the bank license from [[iyogin-hd]] holding-company strategy.
-- Provides a peer anchor for [[ehime-bank]], [[hyakujushi-bank]], [[awa-bank]], and [[shikoku-bank]].
+- Separates the bank license from [[regional-banks/iyogin-hd]] holding-company strategy.
+- Provides a peer anchor for [[regional-banks/ehime-bank]], [[regional-banks/hyakujushi-bank]], [[regional-banks/awa-bank]], and [[regional-banks/shikoku-bank]].
 
 ## Related
 
 - [[regional-banks/INDEX|regional-banks INDEX]]
-- [[iyogin-hd]]
-- [[ehime-bank]]
-- [[hyakujushi-bank]]
-- [[awa-bank]]
-- [[shikoku-bank]]
+- [[regional-banks/iyogin-hd]]
+- [[regional-banks/ehime-bank]]
+- [[regional-banks/hyakujushi-bank]]
+- [[regional-banks/awa-bank]]
+- [[regional-banks/shikoku-bank]]
 - [[financial-regulators/fsa|FSA]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]

@@ -53,42 +53,40 @@
     "2. 事業セグメント・マップ"
   ],
   "body_links": {
-    "wikilinks_count": 12,
+    "wikilinks_count": 11,
     "wikilinks": [
       "banking/INDEX",
-      "fukuoka-fg",
-      "kyushu-fg",
-      "mizuho-fg",
-      "mufg",
-      "nishi-nippon-fhd",
-      "okinawa-bank",
-      "okinawa-kaiho-bank",
+      "megabanks/mizuho-fg",
+      "megabanks/mufg",
+      "megabanks/smfg",
       "regional-banks/INDEX",
-      "regional-banks/ryukyu-bank",
-      "ryukyu-bank",
-      "smfg"
+      "regional-banks/fukuoka-fg",
+      "regional-banks/kyushu-fg",
+      "regional-banks/nishi-nippon-fhd",
+      "regional-banks/okinawa-bank",
+      "regional-banks/okinawa-kaiho-bank",
+      "regional-banks/ryukyu-bank"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/fukuoka-fg",
-      "https://finwiki.zksc.io/kyushu-fg",
-      "https://finwiki.zksc.io/mizuho-fg",
-      "https://finwiki.zksc.io/mufg",
-      "https://finwiki.zksc.io/nishi-nippon-fhd",
-      "https://finwiki.zksc.io/okinawa-bank",
-      "https://finwiki.zksc.io/okinawa-kaiho-bank",
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/smfg",
       "https://finwiki.zksc.io/regional-banks/INDEX",
-      "https://finwiki.zksc.io/regional-banks/ryukyu-bank",
-      "https://finwiki.zksc.io/ryukyu-bank",
-      "https://finwiki.zksc.io/smfg"
+      "https://finwiki.zksc.io/regional-banks/fukuoka-fg",
+      "https://finwiki.zksc.io/regional-banks/kyushu-fg",
+      "https://finwiki.zksc.io/regional-banks/nishi-nippon-fhd",
+      "https://finwiki.zksc.io/regional-banks/okinawa-bank",
+      "https://finwiki.zksc.io/regional-banks/okinawa-kaiho-bank",
+      "https://finwiki.zksc.io/regional-banks/ryukyu-bank"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6187,
-    "word_like_tokens": 1159,
-    "inbound_wikilinks_count": 4,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 6487,
+    "word_like_tokens": 1198,
+    "inbound_wikilinks_count": 7,
+    "last_modified": "2026-06-08"
   }
 }

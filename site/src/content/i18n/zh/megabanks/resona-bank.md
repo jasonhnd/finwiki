@@ -31,7 +31,7 @@ translated_at: 2026-06-01T00:41:50.435Z
 ## 2. Business role
 
 - 以大阪和东京为中心承担 retail / SME / corporate banking，是りそな集团最大的 bank entity。
-- 是与 [[megabanks/saitama-resona-bank|埼玉りそな銀行]]、[[kansai-mirai-bank|関西みらい銀行]]、[[minato-bank|みなと銀行]] 并列的集团银行网络中心。
+- 是与 [[megabanks/saitama-resona-bank|埼玉りそな銀行]]、[[regional-banks/kansai-mirai-bank|関西みらい銀行]]、[[regional-banks/minato-bank|みなと銀行]] 并列的集团银行网络中心。
 - 相比 megabank 3 行，海外投资银行色彩不强，但在国内 retail / SME / trust-adjacent services 方面较强。
 
 ## 3. 为何需要独立页面

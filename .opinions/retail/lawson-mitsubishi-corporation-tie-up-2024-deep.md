@@ -17,11 +17,11 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 - **dポイント legacy at Lawson**: NTT docomo's dポイント retains scan-and-earn acceptance at Lawson as of mid-2026 based on public information. A full migration to Ponta-only would be customer-disruptive and is politically delicate.
 - **Take-private execution risk**: post-delisting reformatting (POS upgrades, store-format changes, supply-chain modernization) is capital-intensive and unproven at the KDDI / Mitsubishi joint-management level.
 - **Activist learning from 7&i**: if the 2024-2026 7&i activist reorganization ultimately produces shareholder-value gains comparable to Lawson's take-private route, comparison frameworks may revise which approach is "correct" — but the empirical answer will not be settled until 2027-2028.
-- **Lawson Bank under-investment risk**: a 50/50 JV may under-invest in [[JapanFG/lawson-bank|Lawson Bank]] because the bank's economics are minor relative to KDDI's au じぶん銀行 ambitions; medium-term Lawson Bank fate is open.
+- **Lawson Bank under-investment risk**: a 50/50 JV may under-invest in [[regional-banks/lawson-bank|Lawson Bank]] because the bank's economics are minor relative to KDDI's au じぶん銀行 ambitions; medium-term Lawson Bank fate is open.
 
 ## Open questions
 
-- Does **[[JapanFG/lawson-bank|Lawson Bank]] merge with or transfer to [[JapanFG/au-fh|au Financial Holdings]] / au じぶん銀行**, or stay an independent small ATM bank under the JV?
+- Does **[[regional-banks/lawson-bank|Lawson Bank]] merge with or transfer to [[megabanks/au-fh|au Financial Holdings]] / au じぶん銀行**, or stay an independent small ATM bank under the JV?
 - Does **dポイント** lose Lawson-scan acceptance over the medium term (2026-2028), and what is the negotiated transition pattern with NTT docomo?
 - How does the **2024 reform** affect **co-issued Lawson-Ponta payment cards** — is there a new "Lawson + au PAY Card" hybrid, or does the existing au PAY Card simply gain Lawson-channel distribution privilege?
 - Does the 50/50 JV survive **decade-scale strategic divergence**, or does one side eventually buy out the other (typical JV end-state)?

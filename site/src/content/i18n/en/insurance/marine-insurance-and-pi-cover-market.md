@@ -44,7 +44,7 @@ Cargo insurance covers goods in transit on the standard Institute Cargo Clauses 
 
 | Cargo line | Cedent | Notes |
 |---|---|---|
-| Exports from Japan | Japanese exporter (sōgō shōsha such as [[mitsui-co|Mitsui & Co.]], manufacturer, trading house) | Often placed via major 3社 head offices in Tokyo |
+| Exports from Japan | Japanese exporter (sōgō shōsha such as [[financial-conglomerates/mitsui-co|Mitsui & Co.]], manufacturer, trading house) | Often placed via major 3社 head offices in Tokyo |
 | Domestic transit | Logistics operator / consignor | Smaller premium per shipment, high frequency |
 
 ## 4. P&I cover — the mutual layer

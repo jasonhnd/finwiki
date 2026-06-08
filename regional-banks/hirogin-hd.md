@@ -22,7 +22,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-広島県地盤の中国地方最大級の地銀ホールディングス。**2020-10-01 広島銀行 単独株式移転で持株会社化**。傘下に **[[hiroshima-bank|広島銀行]]**（コア・1878 創業前身を持つ）、ひろぎん証券、ひろぎん信用保証、ひろぎん地域経済研究所 等。広島県内シェア **No.1**（預貸金とも県内首位）。マツダ自動車・地元自動車部品サプライチェーンへの融資基盤が強み。中国地方では [[regional-banks/chugin-okayama|chugin-fg]]（[[chugoku-bank|中国銀行]]・岡山）、[[san-in-godo-bank]]（山陰合同・松江）、[[yamaguchi-fg]]（山口 FG・下関）と並ぶ "中国 4 行" 構図。
+広島県地盤の中国地方最大級の地銀ホールディングス。**2020-10-01 広島銀行 単独株式移転で持株会社化**。傘下に **[[regional-banks/hiroshima-bank|広島銀行]]**（コア・1878 創業前身を持つ）、ひろぎん証券、ひろぎん信用保証、ひろぎん地域経済研究所 等。広島県内シェア **No.1**（預貸金とも県内首位）。マツダ自動車・地元自動車部品サプライチェーンへの融資基盤が強み。中国地方では [[regional-banks/chugin-okayama|chugin-fg]]（[[regional-banks/chugoku-bank|中国銀行]]・岡山）、[[regional-banks/san-in-godo-bank]]（山陰合同・松江）、[[regional-banks/yamaguchi-fg]]（山口 FG・下関）と並ぶ "中国 4 行" 構図。
 
 ## 1. 会社概要
 
@@ -93,15 +93,15 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 |---|---|---|---|
 | **広島銀行** | 広島市 | ひろぎん HD（7337）| 広島県 No.1・中国地方最大級 |
 | 中国銀行 | 岡山市 | [[regional-banks/chugin-okayama|chugin-fg]] | 岡山県 No.1・2024 持株会社化 |
-| 山陰合同銀行 | 松江市 | [[san-in-godo-bank]] | 島根・鳥取 No.1 |
-| 山口銀行・もみじ銀行・北九州銀行 | 下関 | [[yamaguchi-fg]] | 山口 + 広島（もみじ）+ 北九州 3 行体制 |
+| 山陰合同銀行 | 松江市 | [[regional-banks/san-in-godo-bank]] | 島根・鳥取 No.1 |
+| 山口銀行・もみじ銀行・北九州銀行 | 下関 | [[regional-banks/yamaguchi-fg]] | 山口 + 広島（もみじ）+ 北九州 3 行体制 |
 
-特に **広島県内では [[yamaguchi-fg]] 傘下「もみじ銀行」と直接競合**。山口 FG は 2006 山口銀行 + もみじ HD（旧 ひろぎん総合金融再編からの分離）統合経緯あり、地理的に広島銀行と最も近接。
+特に **広島県内では [[regional-banks/yamaguchi-fg]] 傘下「もみじ銀行」と直接競合**。山口 FG は 2006 山口銀行 + もみじ HD（旧 ひろぎん総合金融再編からの分離）統合経緯あり、地理的に広島銀行と最も近接。
 
 ### 持株会社化の戦略意義
 
 - **2020-10 ひろぎん HD 設立**: 単独株式移転（広島銀行のみ）で持株会社化。証券・保証・リース等の周辺事業を銀行本体から分離 → 専門子会社化 → グループシナジー狙い
-- 中国地方では 2022 [[yamaguchi-fg]]、2024 [[regional-banks/chugin-okayama|chugin-fg]] と並び持株会社化済み
+- 中国地方では 2022 [[regional-banks/yamaguchi-fg]]、2024 [[regional-banks/chugin-okayama|chugin-fg]] と並び持株会社化済み
 - 域外 M&A・地銀再編シナリオ向け持株会社プラットフォーム整備
 
 ### 中期経営計画（2024〜2026 年度）
@@ -121,9 +121,9 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## Related
 
-- [[regional-banks/chugin-okayama|chugin-fg]] · [[san-in-godo-bank]] · [[yamaguchi-fg]] — 中国地方 4 行
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] — メガバンク
-- [[ndfg]]
+- [[regional-banks/chugin-okayama|chugin-fg]] · [[regional-banks/san-in-godo-bank]] · [[regional-banks/yamaguchi-fg]] — 中国地方 4 行
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] — メガバンク
+- [[megabanks/ndfg]]
 
 ## Sources
 

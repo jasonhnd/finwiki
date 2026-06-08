@@ -16,7 +16,7 @@ This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-i
 
 ##TL;DR
 
-UK **Barclays PLC** (G-SIB Bucket 2)'s Japanese base. **1969 Resident office opened → 1972 Tokyo branch → 1986 First British bank listed on TSE → 1987 BZW Securities Office → 1990 TSE member → 2006 Barclays Capital Securitization → 2012 Changed trade name to Barclays Securities**. With the global reorganization after the Lehman Shock, **North America was acquired by Barclays, and Asia Pacific (including Japan) was acquired by Barclays. [[nomura-hd]] As a result of the Lehman acquisition, the Japanese base will not directly benefit from the Lehman integration and will pursue a self-reliant IB/markets concentration strategy.2016 Withdrew from Asian equity cash business due to global reorganization, currently ** Japan, Hong Kong, Singapore, and India 4 The base will remain as a core Asian market**. about 500 名Size, head office: Roppongi Hills Mori Tower 31F。^[extracted]
+UK **Barclays PLC** (G-SIB Bucket 2)'s Japanese base. **1969 Resident office opened → 1972 Tokyo branch → 1986 First British bank listed on TSE → 1987 BZW Securities Office → 1990 TSE member → 2006 Barclays Capital Securitization → 2012 Changed trade name to Barclays Securities**. With the global reorganization after the Lehman Shock, **North America was acquired by Barclays, and Asia Pacific (including Japan) was acquired by Barclays. [[securities-firms/nomura-hd]] As a result of the Lehman acquisition, the Japanese base will not directly benefit from the Lehman integration and will pursue a self-reliant IB/markets concentration strategy.2016 Withdrew from Asian equity cash business due to global reorganization, currently ** Japan, Hong Kong, Singapore, and India 4 The base will remain as a core Asian market**. about 500 名Size, head office: Roppongi Hills Mori Tower 31F。^[extracted]
 
 ## 1. Company Profile
 
@@ -32,7 +32,7 @@ UK **Barclays PLC** (G-SIB Bucket 2)'s Japanese base. **1969 Resident office ope
 
 - Formerly **Barclays Capital Securities** (2006-2012）→ 2012 Current name due to trade name change
 - Former **Barclays Investment Management** (Asset Management) — Past existence
-- Formerly **Barclays Global Investors Trust Bank** (BGI) → 2008 Sumitomo Trust Bank (currently [[sumitomo-mitsui-trust]]) merged with ^[extracted]
+- Formerly **Barclays Global Investors Trust Bank** (BGI) → 2008 Sumitomo Trust Bank (currently [[trust-banks/sumitomo-mitsui-trust]]) merged with ^[extracted]
 
 ### Barclays Securities (substantive information)^[extracted]
 
@@ -74,8 +74,8 @@ Japan base
 | 1998 | **Renamed to Barclays Capital Securities Co., Ltd.** Tokyo Branch ^[extracted] |
 | 2006 | Barclays Capital Securities Co., Ltd. → **Barclays Capital Securities Co., Ltd.** (incorporated in Japan)^[extracted] |
 | **2008-06-28** | TSE delisting ^[extracted] |
-| **2008-09** | ** Lehman Brothers Americas business approximately 17.5 億Acquired for USD** (strengthening global IB) — However, **Asia Pacific + Europe/Middle East [[nomura-hd]] Acquisition**, Japanese base has no direct integration effect ^[extracted] |
-| 2008 | **BGI Trust Bank → Sumitomo Trust Bank (currently [[sumitomo-mitsui-trust]]) Merger** ^[extracted] |
+| **2008-09** | ** Lehman Brothers Americas business approximately 17.5 億Acquired for USD** (strengthening global IB) — However, **Asia Pacific + Europe/Middle East [[securities-firms/nomura-hd]] Acquisition**, Japanese base has no direct integration effect ^[extracted] |
+| 2008 | **BGI Trust Bank → Sumitomo Trust Bank (currently [[trust-banks/sumitomo-mitsui-trust]]) Merger** ^[extracted] |
 | **2009-06** | Parent company Barclays sells entire BGI division to BlackRock 135 億Sold for dollars** → Japan also effectively withdraws from asset management ^[extracted] |
 | **2010-03** | **Otemachi ↔ Roppongi base exchange** (partial replacement with Nomura, which inherited the former Lehman base; Barclays moved to Roppongi Hills Mori Tower) 31aggregated to F)^[extracted] |
 | 2012 | Barclays Capital Securities → Changed trade name to **Barclays Securities Co., Ltd.** ^[extracted] |
@@ -85,7 +85,7 @@ Japan base
 | 2024-01 | Naohiko Baba appointed as **Chief Economist and Research Director** ^[extracted] |
 | 2025-01 | Yoichi Takemura hired as **Japan Macro Trading Headquarters** ^[extracted] |
 
-> **Misunderstandings**: Barclays' **Lehman North American acquisition (2008-09) has not brought about a direct increase in personnel or business in Japan**. Asia Pacific (including Japan) + Europe and the Middle East [[nomura-hd]] acquired it. Japan-based M&A/IB expansion was carried out on its own.
+> **Misunderstandings**: Barclays' **Lehman North American acquisition (2008-09) has not brought about a direct increase in personnel or business in Japan**. Asia Pacific (including Japan) + Europe and the Middle East [[securities-firms/nomura-hd]] acquired it. Japan-based M&A/IB expansion was carried out on its own.
 
 ## 3.Business segment map
 
@@ -106,9 +106,9 @@ Japan base
 ### Competitive position in Japan
 - **Strengths**: Global DCM (Bond Underwriting) — Top in global league table 10, Cross-border interest rates/FX markets ^[extracted]
 - **Weaknesses**: Domestic M&A / ECM outside league table — past 5 in years 2016 年 16 位(about 1.2 兆円) is the highest ^[extracted]
-- **Competition**: Backbone Foreign Investment IB — [[ubs-japan]] / [[deutsche-japan]] / [[bnp-paribas-japan]] / [[hsbc-japan]] / [[standard-chartered-japan]] / [[citigroup-japan]]
-- **Major US companies (higher)**: [[goldman-sachs-japan]] / [[morgan-stanley-japan]] / [[jpmorgan-japan]]
-- **Domestic**: [[nomura-hd]] / [[smbc-nikko]] / [[daiwa-sg]] / MUMSS（[[mufg]] × Morgan Stanley JV）
+- **Competition**: Backbone Foreign Investment IB — [[foreign-financial-institutions/ubs-japan]] / [[foreign-financial-institutions/deutsche-japan]] / [[foreign-financial-institutions/bnp-paribas-japan]] / [[foreign-financial-institutions/hsbc-japan]] / [[foreign-financial-institutions/standard-chartered-japan]] / [[foreign-financial-institutions/citigroup-japan]]
+- **Major US companies (higher)**: [[securities-firms/goldman-sachs-japan]] / [[securities-firms/morgan-stanley-japan]] / [[foreign-financial-institutions/jpmorgan-japan]]
+- **Domestic**: [[securities-firms/nomura-hd]] / [[securities-firms/smbc-nikko]] / [[securities-firms/daiwa-sg]] / MUMSS（[[megabanks/mufg]] × Morgan Stanley JV）
 
 ### Past major projects
 - 2016 **Asahi Group HD acquisition of Central and Eastern European Beer (approx. 8900 億円)** Buyer-side advisor
@@ -125,10 +125,10 @@ Japan base
 
 ## Related
 
-- **Backbone Foreign Investment IB**: [[ubs-japan]] · [[deutsche-japan]] · [[bnp-paribas-japan]] · [[hsbc-japan]] · [[standard-chartered-japan]] · [[citigroup-japan]]
-- **Big Foreign Investment IB**: [[goldman-sachs-japan]] · [[morgan-stanley-japan]] · [[jpmorgan-japan]]
-- **Japanese competitors**: [[nomura-hd]] · [[smbc-nikko]] · [[daiwa-sg]] · [[mufg]]
-- **Past relationship**: [[sumitomo-mitsui-trust]] (Former BGI Trust absorption)
+- **Backbone Foreign Investment IB**: [[foreign-financial-institutions/ubs-japan]] · [[foreign-financial-institutions/deutsche-japan]] · [[foreign-financial-institutions/bnp-paribas-japan]] · [[foreign-financial-institutions/hsbc-japan]] · [[foreign-financial-institutions/standard-chartered-japan]] · [[foreign-financial-institutions/citigroup-japan]]
+- **Big Foreign Investment IB**: [[securities-firms/goldman-sachs-japan]] · [[securities-firms/morgan-stanley-japan]] · [[foreign-financial-institutions/jpmorgan-japan]]
+- **Japanese competitors**: [[securities-firms/nomura-hd]] · [[securities-firms/smbc-nikko]] · [[securities-firms/daiwa-sg]] · [[megabanks/mufg]]
+- **Past relationship**: [[trust-banks/sumitomo-mitsui-trust]] (Former BGI Trust absorption)
 
 ## Sources
 

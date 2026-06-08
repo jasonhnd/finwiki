@@ -52,7 +52,7 @@
     "競合ポジション"
   ],
   "body_links": {
-    "wikilinks_count": 15,
+    "wikilinks_count": 14,
     "wikilinks": [
       "banking/INDEX",
       "banking/au-jibun-bank",
@@ -61,14 +61,13 @@
       "insurance/saison-automobile-fire",
       "life-insurers/sony-life",
       "megabanks/INDEX",
+      "megabanks/mizuho-fg",
+      "megabanks/mufg",
+      "megabanks/ndfg",
       "megabanks/paypay-fg",
-      "mizuho-fg",
-      "mufg",
-      "ndfg",
-      "paypay-fg",
-      "regional-banks/sbi-shinsei-bank",
-      "sbi-hd",
-      "smfg"
+      "megabanks/sbi-hd",
+      "megabanks/smfg",
+      "regional-banks/sbi-shinsei-bank"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/banking/INDEX",
@@ -78,22 +77,21 @@
       "https://finwiki.zksc.io/insurance/saison-automobile-fire",
       "https://finwiki.zksc.io/life-insurers/sony-life",
       "https://finwiki.zksc.io/megabanks/INDEX",
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/ndfg",
       "https://finwiki.zksc.io/megabanks/paypay-fg",
-      "https://finwiki.zksc.io/mizuho-fg",
-      "https://finwiki.zksc.io/mufg",
-      "https://finwiki.zksc.io/ndfg",
-      "https://finwiki.zksc.io/paypay-fg",
-      "https://finwiki.zksc.io/regional-banks/sbi-shinsei-bank",
-      "https://finwiki.zksc.io/sbi-hd",
-      "https://finwiki.zksc.io/smfg"
+      "https://finwiki.zksc.io/megabanks/sbi-hd",
+      "https://finwiki.zksc.io/megabanks/smfg",
+      "https://finwiki.zksc.io/regional-banks/sbi-shinsei-bank"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4931,
-    "word_like_tokens": 846,
-    "inbound_wikilinks_count": 27,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 4991,
+    "word_like_tokens": 852,
+    "inbound_wikilinks_count": 36,
+    "last_modified": "2026-06-08"
   }
 }

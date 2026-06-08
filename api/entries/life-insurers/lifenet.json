@@ -50,36 +50,36 @@
   "body_links": {
     "wikilinks_count": 10,
     "wikilinks": [
-      "au-fh",
       "insurance/INDEX",
       "insurance/internet-life-insurance-business-model",
       "life-insurers/INDEX",
       "life-insurers/dai-ichi-life",
-      "mizuho-fg",
-      "mufg",
-      "paypay-fg",
-      "sbi-hd",
-      "smfg"
+      "megabanks/au-fh",
+      "megabanks/mizuho-fg",
+      "megabanks/mufg",
+      "megabanks/paypay-fg",
+      "megabanks/sbi-hd",
+      "megabanks/smfg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/au-fh",
       "https://finwiki.zksc.io/insurance/INDEX",
       "https://finwiki.zksc.io/insurance/internet-life-insurance-business-model",
       "https://finwiki.zksc.io/life-insurers/INDEX",
       "https://finwiki.zksc.io/life-insurers/dai-ichi-life",
-      "https://finwiki.zksc.io/mizuho-fg",
-      "https://finwiki.zksc.io/mufg",
-      "https://finwiki.zksc.io/paypay-fg",
-      "https://finwiki.zksc.io/sbi-hd",
-      "https://finwiki.zksc.io/smfg"
+      "https://finwiki.zksc.io/megabanks/au-fh",
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/paypay-fg",
+      "https://finwiki.zksc.io/megabanks/sbi-hd",
+      "https://finwiki.zksc.io/megabanks/smfg"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3642,
-    "word_like_tokens": 545,
-    "inbound_wikilinks_count": 17,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 3762,
+    "word_like_tokens": 557,
+    "inbound_wikilinks_count": 25,
+    "last_modified": "2026-06-08"
   }
 }

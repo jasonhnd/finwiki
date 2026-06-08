@@ -12,7 +12,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## 推論 (from TL;DR)
 
-米 **American International Group, Inc.**（NYSE: AIG）の日本拠点群。コア事業会社は **AIG 損害保険株式会社**（2018-01-01 旧 AIU 損害保険 + 富士火災海上保険 合併で発足）。日本最古級の外資系損保で、ルーツは **1946 年 AIU 保険会社 日本支店** 開設に遡る。法人特殊リスク（D&O / プロフェッショナル・インデムニティ / サイバー / 環境）と海外旅行保険を強みとし、個人自動車・火災は縮小傾向 ^[inferred]。**生保事業（旧 AIG エジソン生命 + AIG スター生命）は 2010-03 米 Prudential に売却 → 現在 [[prudential-japan]] 内 PGF 生命** という重要な歴史的経緯あり。
+米 **American International Group, Inc.**（NYSE: AIG）の日本拠点群。コア事業会社は **AIG 損害保険株式会社**（2018-01-01 旧 AIU 損害保険 + 富士火災海上保険 合併で発足）。日本最古級の外資系損保で、ルーツは **1946 年 AIU 保険会社 日本支店** 開設に遡る。法人特殊リスク（D&O / プロフェッショナル・インデムニティ / サイバー / 環境）と海外旅行保険を強みとし、個人自動車・火災は縮小傾向 ^[inferred]。**生保事業（旧 AIG エジソン生命 + AIG スター生命）は 2010-03 米 Prudential に売却 → 現在 [[life-insurers/prudential-japan]] 内 PGF 生命** という重要な歴史的経緯あり。
 
 ## 推論 (from 1. グループ構造)
 
@@ -32,7 +32,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## 推論 (from ポジショニング)
 
-- **法人特殊リスク特化**：D&O・サイバー・E&O・環境賠償などは **国内 3 メガ損保** （[[tokio-marine]] / [[JapanFG/msad|ms-and-ad-insurance]] / [[JapanFG/sompo|sompo-hd]]）が後追いで参入してきた領域。AIG はグローバル本社の引受ノウハウを武器に先行優位 ^[inferred]
+- **法人特殊リスク特化**：D&O・サイバー・E&O・環境賠償などは **国内 3 メガ損保** （[[non-life-insurers/tokio-marine]] / [[non-life-insurers/msad|ms-and-ad-insurance]] / [[non-life-insurers/sompo|sompo-hd]]）が後追いで参入してきた領域。AIG はグローバル本社の引受ノウハウを武器に先行優位 ^[inferred]
 - **個人損保の戦略的縮退**：自動車・火災等の汎用個人損保は **代理店ネットワーク規模で国内 3 メガに劣後** するため、収益性の高い特殊・富裕層・海外旅行に絞る方向 ^[inferred]
 
 ## 推論 (from グローバルレバレッジ)
@@ -59,4 +59,4 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 - **サイバー保険市場の急拡大**（2025〜2030）で AIG がグローバル先行優位をどこまで日本で活用できるか？
 - **代理店ネットワーク** の再編は完了したか？（旧 AIU + 旧 富士火災の代理店融合進度）
 - 後継問題：日本トップ（プレジデント）人事は米 AIG 本社主導、現地化（日本人トップ vs 外国人トップ）の傾向は？
-- **2010 年生保売却時の代理店・契約者ベース** はどこまで AIG 損保 に引き継がれ、どこから [[prudential-japan]] / PGF 生命 に流れたか？
+- **2010 年生保売却時の代理店・契約者ベース** はどこまで AIG 損保 に引き継がれ、どこから [[life-insurers/prudential-japan]] / PGF 生命 に流れたか？

@@ -16,7 +16,7 @@ translated_at: 2026-06-01T02:31:57.116Z
 
 ## 长篇大论；博士
 
-Shimizu Bank, Ltd. is a regional bank with its head office in Shizuoka Prefecture listed on the Financial Services Agency's list of bank licenses.它不隶属于 [[shizuoka-fg]]，并在 wiki 上作为独立的区域银行运营公司页面进行组织。
+Shimizu Bank, Ltd. is a regional bank with its head office in Shizuoka Prefecture listed on the Financial Services Agency's list of bank licenses.它不隶属于 [[regional-banks/shizuoka-fg]]，并在 wiki 上作为独立的区域银行运营公司页面进行组织。
 
 ## 1。许可证/组边界
 
@@ -24,13 +24,13 @@ Shimizu Bank, Ltd. is a regional bank with its head office in Shizuoka Prefectur
 |---|---|
 |法定名称 |清水银行|
 |许可途径|银行法地区银行； FSA 银行牌照列表 |
-|组边界|独立区域银行； SBI 联盟上下文应使用 [[sbi-regional-bank-hd]] | 阅读
+|组边界|独立区域银行； SBI 联盟上下文应使用 [[megabanks/sbi-regional-bank-hd]] | 阅读
 |国内市场|静冈/静冈市清水地区|
 |维基角色 |静冈独立地区银行运营公司页面|
 
 ## 2。运营模式
 
-Shimizu Bank is a regional bank that is responsible for retail deposits, SME finance, local business support, and regional relationship banking, mainly in the central-eastern part of Shizuoka Prefecture.它与 [[shizuoka-bank]] 和 [[suruga-bank]] 共存于同一县市场，但许可证和治理边界是一个单独的公司。
+Shimizu Bank is a regional bank that is responsible for retail deposits, SME finance, local business support, and regional relationship banking, mainly in the central-eastern part of Shizuoka Prefecture.它与 [[regional-banks/shizuoka-bank]] 和 [[regional-banks/suruga-bank]] 共存于同一县市场，但许可证和治理边界是一个单独的公司。
 
 ## 3。为什么此页面很重要
 
@@ -40,11 +40,11 @@ Shimizu Bank is a regional bank that is responsible for retail deposits, SME fin
 
 ## 相关
 
--[[shizuoka-bank]]
--[[shizuoka-fg]]
--[[suruga-bank]]
--[[shizuoka-chuo-bank]]
--[[sbi-regional-bank-hd]]
+-[[regional-banks/shizuoka-bank]]
+-[[regional-banks/shizuoka-fg]]
+-[[regional-banks/suruga-bank]]
+-[[regional-banks/shizuoka-chuo-bank]]
+-[[megabanks/sbi-regional-bank-hd]]
 -[[banking/regional-bank-consolidation-pattern]]
 -[[banking/INDEX]]
 

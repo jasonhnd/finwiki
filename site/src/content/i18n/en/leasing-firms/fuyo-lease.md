@@ -15,7 +15,7 @@ This entry sits under [[leasing-firms/INDEX|leasing-firms INDEX]]. Read it again
 
 ## TL;DR
 
-Fuyo General Lease is a semi-major comprehensive leasing company affiliated with the former Fuji Bank group and listed on the TSE Prime Market under **8424**. It sits below the three mega leasing groups ([[orix-corp]] / Mitsubishi HC Capital / [[tokyo-century]]) and serves as a core financial function within the **Fuyo Group**, the former Fuji Bank community that includes [[mizuho-fg]], Marubeni, Nissan, Canon, Nisshin Seifun Group, and Tokio Marine [[tokio-marine]]. Established on 1969-09-04 under the former name Fuyo Factor, the company is organized around six axes: general equipment leasing, real estate, environment and renewable energy, medical and nursing care, aircraft and vessels, and overseas business centered on Asia. It has both sibling and competitive relationships with [[tokyo-century]], another former Fuji Bank-linked leasing company that moved earlier into quasi-mega leasing consolidation. ^[extracted]
+Fuyo General Lease is a semi-major comprehensive leasing company affiliated with the former Fuji Bank group and listed on the TSE Prime Market under **8424**. It sits below the three mega leasing groups ([[leasing-firms/orix-corp]] / Mitsubishi HC Capital / [[leasing-firms/tokyo-century]]) and serves as a core financial function within the **Fuyo Group**, the former Fuji Bank community that includes [[megabanks/mizuho-fg]], Marubeni, Nissan, Canon, Nisshin Seifun Group, and Tokio Marine [[non-life-insurers/tokio-marine]]. Established on 1969-09-04 under the former name Fuyo Factor, the company is organized around six axes: general equipment leasing, real estate, environment and renewable energy, medical and nursing care, aircraft and vessels, and overseas business centered on Asia. It has both sibling and competitive relationships with [[leasing-firms/tokyo-century]], another former Fuji Bank-linked leasing company that moved earlier into quasi-mega leasing consolidation. ^[extracted]
 
 ## 1. Company Overview
 
@@ -30,7 +30,7 @@ Fuyo General Lease is a semi-major comprehensive leasing company affiliated with
 
 | Tier | Representative companies | Lineage |
 |---|---|---|
-| Three mega leasing groups | [[orix-corp]] / Mitsubishi HC Capital / [[tokyo-century]] | Former Mitsubishi and Sanwa / former Fuji |
+| Three mega leasing groups | [[leasing-firms/orix-corp]] / Mitsubishi HC Capital / [[leasing-firms/tokyo-century]] | Former Mitsubishi and Sanwa / former Fuji |
 | Semi-major | **Fuyo General Lease** / NEC Capital Solutions / Ricoh Leasing, etc. | Former Fuji / NEC / Ricoh |
 | Mid-tier | Hitachi Capital (integrated into Mitsubishi HC) / BOT Lease, etc. | - |
 
@@ -40,9 +40,9 @@ The former Fuji Bank-linked **Fuyo Group** functions as the core stable-sharehol
 
 | Shareholder | Relationship |
 |---|---|
-| [[mizuho-fg]] (former Fuji Bank) | Main transaction bank and major shareholder |
+| [[megabanks/mizuho-fg]] (former Fuji Bank) | Main transaction bank and major shareholder |
 | Marubeni | Former Fuji Bank-linked trading company and major shareholder |
-| Tokio Marine & Nichido [[tokio-marine]] | Former Fuji Bank-linked non-life insurer |
+| Tokio Marine & Nichido [[non-life-insurers/tokio-marine]] | Former Fuji Bank-linked non-life insurer |
 | Nissan Motor | Former Fuji Bank-linked manufacturer; also partnered in auto leasing |
 | Canon | Former Fuji Bank-linked manufacturer |
 | Nisshin Seifun Group | Former Fuji Bank-linked food company |
@@ -87,15 +87,15 @@ Fuyo General Lease (8424)
 
 ### Intra-Fuyo Group Transactions
 
-- **[[mizuho-fg]]** (former Fuji Bank): main transaction bank and deal-referral route
+- **[[megabanks/mizuho-fg]]** (former Fuji Bank): main transaction bank and deal-referral route
 - **Marubeni**: trading-company transactions, including aircraft, vessels, and overseas projects
 - **Nissan**: cooperation in auto leasing
 - **Canon / Nisshin Seifun Group, etc.**: equipment-leasing customer base
-- **Tokio Marine [[tokio-marine]]**: standard insurance partner
+- **Tokio Marine [[non-life-insurers/tokio-marine]]**: standard insurance partner
 
 ### Competitive Structure
 
-| Dimension | Fuyo General Lease | [[tokyo-century]] |
+| Dimension | Fuyo General Lease | [[leasing-firms/tokyo-century]] |
 |---|---|---|
 | Lineage | Former Fuji Bank (Mizuho lineage) | Former Dai-Ichi Kangyo Bank (Mizuho lineage) |
 | Integration strategy | Maintains semi-major status independently | Became a major player through the merger of Tokyo Leasing and Century Leasing |
@@ -104,8 +104,8 @@ Fuyo General Lease (8424)
 
 Other competitors:
 
-- **[[orix-corp]]**: one of the three mega leasing groups; formerly Sanwa Bank-linked and later independent
-- **Mitsubishi HC Capital**: one of the three mega leasing groups, formed by Mitsubishi UFJ Lease and Hitachi Capital, with [[mufg]] and Mitsubishi Corporation lineage
+- **[[leasing-firms/orix-corp]]**: one of the three mega leasing groups; formerly Sanwa Bank-linked and later independent
+- **Mitsubishi HC Capital**: one of the three mega leasing groups, formed by Mitsubishi UFJ Lease and Hitachi Capital, with [[megabanks/mufg]] and Mitsubishi Corporation lineage
 - **NEC Capital Solutions / Ricoh Leasing** and other specialized semi-major leasing companies
 
 ## 5. Regulation and Policy
@@ -124,7 +124,7 @@ Other competitors:
 
 ## Related
 
-- [[mizuho-fg]] · [[tokyo-century]] · [[orix-corp]] · [[mufg]] · [[tokio-marine]]
+- [[megabanks/mizuho-fg]] · [[leasing-firms/tokyo-century]] · [[leasing-firms/orix-corp]] · [[megabanks/mufg]] · [[non-life-insurers/tokio-marine]]
 - Fuyo Group: Marubeni, Nissan, Canon, Nisshin Seifun Group, and Tokio Marine
 
 ## Sources

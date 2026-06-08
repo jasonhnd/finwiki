@@ -17,7 +17,7 @@ translated_at: 2026-06-02T14:54:39.074Z
 
 ## 要約
 
-株式会社宮崎太陽銀行は、金融庁の銀行免許一覧に掲載される宮崎県本店の第二地方銀行。宮崎県の第二地方銀行を運営する法人アンカーであり、[[miyazaki-bank]] とは別法人の地域比較対象として扱う。
+株式会社宮崎太陽銀行は、金融庁の銀行免許一覧に掲載される宮崎県本店の第二地方銀行。宮崎県の第二地方銀行を運営する法人アンカーであり、[[regional-banks/miyazaki-bank]] とは別法人の地域比較対象として扱う。
 
 ## 1. 免許・グループ境界
 
@@ -31,7 +31,7 @@ translated_at: 2026-06-02T14:54:39.074Z
 
 ## 2. 運営モデル
 
-宮崎太陽銀行は、宮崎県内の個人預金、中小企業金融、個人向け銀行業務、地域密着型金融を担う第二地方銀行。[[miyazaki-bank]] は第一地方銀行の既存勢力を扱い、本ページは第二地方銀行の免許境界を扱う。九州の第二地方銀行再編圧力は [[banking/regional-bank-consolidation-pattern]] を参照。
+宮崎太陽銀行は、宮崎県内の個人預金、中小企業金融、個人向け銀行業務、地域密着型金融を担う第二地方銀行。[[regional-banks/miyazaki-bank]] は第一地方銀行の既存勢力を扱い、本ページは第二地方銀行の免許境界を扱う。九州の第二地方銀行再編圧力は [[banking/regional-bank-consolidation-pattern]] を参照。
 
 ## 3. このページが重要な理由
 
@@ -41,9 +41,9 @@ translated_at: 2026-06-02T14:54:39.074Z
 
 ## 関連項目
 
-- [[miyazaki-bank]]
-- [[kyushu-fg]]
-- [[kagoshima-bank]]
+- [[regional-banks/miyazaki-bank]]
+- [[regional-banks/kyushu-fg]]
+- [[regional-banks/kagoshima-bank]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 

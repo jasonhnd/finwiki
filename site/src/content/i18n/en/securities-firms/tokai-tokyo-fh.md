@@ -15,7 +15,7 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it
 
 ## TL;DR
 
-A **midsize independent securities holding company** based in the Chukyo / Nagoya region. It converted to a holding-company structure in 2009-04-01, centered on Tokai Tokyo Securities. Its greatest strategic feature is its **joint-venture securities model with regional banks**. It has formed JVs with many regional banks, including Nishi-Nippon City TT Securities, Ikeda Senshu TT Securities, Fukui Bank TT Securities, Hamagin TT Securities, Tochigin TT Securities, Ehime Bank-related entities, and the Shikoku Alliance sphere, establishing a "regional-partnership hybrid securities" model that complements regional banks' securities functions. **Competitors** are [[okasan-sg]], Okasan Securities Group from the same Nagoya lineage, and the face-to-face 5  major securities firms. Listed on TSE PRIME 8616.
+A **midsize independent securities holding company** based in the Chukyo / Nagoya region. It converted to a holding-company structure in 2009-04-01, centered on Tokai Tokyo Securities. Its greatest strategic feature is its **joint-venture securities model with regional banks**. It has formed JVs with many regional banks, including Nishi-Nippon City TT Securities, Ikeda Senshu TT Securities, Fukui Bank TT Securities, Hamagin TT Securities, Tochigin TT Securities, Ehime Bank-related entities, and the Shikoku Alliance sphere, establishing a "regional-partnership hybrid securities" model that complements regional banks' securities functions. **Competitors** are [[securities-firms/okasan-sg]], Okasan Securities Group from the same Nagoya lineage, and the face-to-face 5  major securities firms. Listed on TSE PRIME 8616.
 
 ## 1. Company overview
 
@@ -36,8 +36,8 @@ Tokai Tokyo FH (listed holding company 8616)
   ├── Tokai Tokyo Asset Management -- investment-trust management
   ├── Tokai Tokyo Wealth Consulting -- high-net-worth PB
   ├── Regional-bank JV securities firms (major JVs)
-  │     ├── Nishi-Nippon City TT Securities (Nishi-Nippon City Bank = [[fukuoka-fg]])
-  │     ├── Hamagin TT Securities (Bank of Yokohama = [[concordia-fg]])
+  │     ├── Nishi-Nippon City TT Securities (Nishi-Nippon City Bank = [[regional-banks/fukuoka-fg]])
+  │     ├── Hamagin TT Securities (Bank of Yokohama = [[regional-banks/concordia-fg]])
   │     ├── Ikeda Senshu TT Securities (Ikeda Senshu HD)
   │     ├── Fukui Bank TT Securities (Fukui Bank)
   │     ├── Tochigin TT Securities (Tochigi Bank)
@@ -66,9 +66,9 @@ Tokai Tokyo FH (listed holding company 8616)
 
 ### Industry position
 
-- Below the **face-to-face 5  major securities firms** (Nomura / Daiwa / [[mufg]] MUMSS / SMBC Nikko / Mizuho), but **top-class among midsize independent securities groups**
+- Below the **face-to-face 5  major securities firms** (Nomura / Daiwa / [[megabanks/mufg]] MUMSS / SMBC Nikko / Mizuho), but **top-class among midsize independent securities groups**
 - The **largest local independent securities firm in the Chukyo economy** of Nagoya, Aichi, Mie, and Gifu
-- Same-Nagoya competitor = [[okasan-sg]], Okasan Securities Group. Together they are the "Chukyo 2 -strong" pair
+- Same-Nagoya competitor = [[securities-firms/okasan-sg]], Okasan Securities Group. Together they are the "Chukyo 2 -strong" pair
 
 ### Regional-bank JV model (largest differentiator)
 
@@ -100,13 +100,13 @@ Tokai Tokyo's strategic core is the **"regional-bank joint-venture securities JV
 
 | Competitor | Relationship |
 |---|---|
-| [[okasan-sg]], Okasan Securities Group | **Direct competitor**. Same Nagoya lineage, midsize independent group, and Chukyo 2  strength. Also competes in some regional-bank partnerships |
+| [[securities-firms/okasan-sg]], Okasan Securities Group | **Direct competitor**. Same Nagoya lineage, midsize independent group, and Chukyo 2  strength. Also competes in some regional-bank partnerships |
 | Nomura HD | Nationwide face-to-face No. 1, overwhelmingly larger scale |
 | Daiwa HD | Another 5  major face-to-face securities firm; competes in midsize-company IPOs |
-| [[mufg]] MUMSS | Megabank group / Morgan Stanley JV; also competes in regional-bank partnerships |
-| SMBC Nikko ([[smfg]]) | Megabank group; competes in regional-bank partnerships and face-to-face channels |
-| Mizuho Securities ([[mizuho-fg]]) | Megabank group |
-| [[sbi-hd]] / Rakuten Securities | Online players; retail-fee competition |
+| [[megabanks/mufg]] MUMSS | Megabank group / Morgan Stanley JV; also competes in regional-bank partnerships |
+| SMBC Nikko ([[megabanks/smfg]]) | Megabank group; competes in regional-bank partnerships and face-to-face channels |
+| Mizuho Securities ([[megabanks/mizuho-fg]]) | Megabank group |
+| [[megabanks/sbi-hd]] / Rakuten Securities | Online players; retail-fee competition |
 
 Positioning: "**not megabank securities, but not a regional-bank standalone either; a third 3  securities infrastructure**."
 
@@ -121,10 +121,10 @@ Positioning: "**not megabank securities, but not a regional-bank standalone eith
 
 ## Related
 
-- [[okasan-sg]], Okasan Securities Group and same-region Chukyo 2 -strong rival
-- [[mufg]] · [[smfg]] · [[mizuho-fg]], competing megabank securities subsidiaries
-- [[sbi-hd]], online-securities group
-- [[fukuoka-fg]] · [[concordia-fg]], some regional-bank JV partners
+- [[securities-firms/okasan-sg]], Okasan Securities Group and same-region Chukyo 2 -strong rival
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]], competing megabank securities subsidiaries
+- [[megabanks/sbi-hd]], online-securities group
+- [[regional-banks/fukuoka-fg]] · [[regional-banks/concordia-fg]], some regional-bank JV partners
 
 ## Sources
 

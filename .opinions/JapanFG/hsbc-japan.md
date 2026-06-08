@@ -15,7 +15,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 - **「リテール撤退は失敗ではない」**: 日本リテール市場の構造（メガ 3 行 + 地銀 + ゆうちょの規模優位、ネット銀行台頭）に対し外資の参入余地は限定的。むしろ早期撤退で資本効率改善 ^[inferred]
 - **「アジア ハブ戦略の日本軽視リスク」**: プロダクト機能の香港 / シンガポール集中で日本拠点は「セールス オフィス」化リスク ^[inferred]
 - **「HSBC グループ全体の地政学リスク」**: 親会社が英 / 香港 / 中国 三角構造に晒される → 米中対立・香港情勢の影響が日本拠点にも波及しうる ^[inferred]
-- **「邦銀のアジア自立化」**: MUFG（[[mufg]] Krungsri / Bank Danamon）・SMFG（[[smfg]] VPBank）・みずほ（[[mizuho-fg]] 東南アジア）が直接アジア展開を進める中、HSBC の仲介役割は徐々に低下 ^[inferred]
+- **「邦銀のアジア自立化」**: MUFG（[[megabanks/mufg]] Krungsri / Bank Danamon）・SMFG（[[megabanks/smfg]] VPBank）・みずほ（[[megabanks/mizuho-fg]] 東南アジア）が直接アジア展開を進める中、HSBC の仲介役割は徐々に低下 ^[inferred]
 
 ## Open questions
 

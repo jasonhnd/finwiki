@@ -15,7 +15,7 @@ This entry sits under [[card-issuers/INDEX|card-issuers INDEX]]. Read it against
 
 ## TL;DR
 
-A **major domestic consumer credit company affiliated with [[mizuho-fg]] and Itochu Corporation**. It was established in Hiroshima in 1954-12-22 as "Hiroshima Sogo Shinyo", changed its name to Orient Finance in 1962 , and to the current company name in 2001 . With **Japan's largest auto-loan business** as its backbone, it operates shopping credit, credit cards (various Orico Cards), card loans, corporate finance, and real estate secured loans. In the 2005-12  management rehabilitation, it received preferred-share injections from [[mizuho-fg]] (former IBJ line), Itochu Corporation, KDDI, and others. The current framework has **Mizuho FG as an equity-method affiliate + Itochu Corporation** as major shareholders. TSE PRIME 8585. Competitors include [[jaccs]] / Credit Saison / Sumitomo Mitsui Card ([[smfg]] line) / Mitsubishi UFJ NICOS ([[mufg]] line) / Aeon-line [[aeon-bank]]. ^[extracted]
+A **major domestic consumer credit company affiliated with [[megabanks/mizuho-fg]] and Itochu Corporation**. It was established in Hiroshima in 1954-12-22 as "Hiroshima Sogo Shinyo", changed its name to Orient Finance in 1962 , and to the current company name in 2001 . With **Japan's largest auto-loan business** as its backbone, it operates shopping credit, credit cards (various Orico Cards), card loans, corporate finance, and real estate secured loans. In the 2005-12  management rehabilitation, it received preferred-share injections from [[megabanks/mizuho-fg]] (former IBJ line), Itochu Corporation, KDDI, and others. The current framework has **Mizuho FG as an equity-method affiliate + Itochu Corporation** as major shareholders. TSE PRIME 8585. Competitors include [[card-issuers/jaccs]] / Credit Saison / Sumitomo Mitsui Card ([[megabanks/smfg]] line) / Mitsubishi UFJ NICOS ([[megabanks/mufg]] line) / Aeon-line [[card-issuers/aeon-bank]]. ^[extracted]
 
 ## 1. Company Overview
 
@@ -38,7 +38,7 @@ A **major domestic consumer credit company affiliated with [[mizuho-fg]] and Ito
 
 | Shareholder | Nature | Notes |
 |---|---|---|
-| **Mizuho Bank** ([[mizuho-fg]] line) | Largest shareholder / equity-method affiliate | Became an equity-method affiliate in 2010-09 . About 48.66% as of 2026-03  end, lowered to 33.79% in 2026-05  (see below) |
+| **Mizuho Bank** ([[megabanks/mizuho-fg]] line) | Largest shareholder / equity-method affiliate | Became an equity-method affiliate in 2010-09 . About 48.66% as of 2026-03  end, lowered to 33.79% in 2026-05  (see below) |
 | **Itochu Corporation** | Former major shareholder (outside equity-method scope) | Acquired 21% through third-party allotment, etc. in 2005  and became largest shareholder; after partial sale of holdings in 2024-11 , Orico moved outside Itochu's equity-method scope |
 | Trust banks and institutional investors | Free float | Normal disclosure as a listed company |
 
@@ -81,20 +81,20 @@ A **major domestic consumer credit company affiliated with [[mizuho-fg]] and Ito
 ### Core Differentiation
 
 - **Domestic auto-loan No. 1**: Long-term channel relationships with auto dealers are the largest entry barrier. Orico has **top industry share** in new- and used-car installment credit through dealers ^[extracted].
-- **Core Mizuho-line credit function**: core function for credit / consumer-credit business inside the [[mizuho-fg]] group (vs [[mufg]]'s Mitsubishi UFJ NICOS / [[smfg]]'s Sumitomo Mitsui Card)
+- **Core Mizuho-line credit function**: core function for credit / consumer-credit business inside the [[megabanks/mizuho-fg]] group (vs [[megabanks/mufg]]'s Mitsubishi UFJ NICOS / [[megabanks/smfg]]'s Sumitomo Mitsui Card)
 - **Itochu linkage**: compatibility with Itochu Corporation's distribution and auto-related networks (trading-company customer base and collaboration in overseas expansion)
 
 ### Domestic Competition Structure
 
 | Competitor | Group | Main business area | Notes |
 |---|---|---|---|
-| **JACCS [[jaccs]]** | [[mufg]] line (Mitsubishi UFJ Bank is a major shareholder) | Auto loans / consumer credit | Direct competitor to Orico in auto loans |
+| **JACCS [[card-issuers/jaccs]]** | [[megabanks/mufg]] line (Mitsubishi UFJ Bank is a major shareholder) | Auto loans / consumer credit | Direct competitor to Orico in auto loans |
 | **Credit Saison** | Independent (former Seibu → close to current Mizuho line) | Credit cards (Saison Card) | Card-centered business, Eikyufumetsu points |
-| **Sumitomo Mitsui Card** | [[smfg]] line | Credit cards (Visa) | Japan's largest Visa issuer, Olive linkage |
-| **Mitsubishi UFJ NICOS** | [[mufg]] line | Credit cards (DC / NICOS / MUFG Card) | One of the big three credit-card companies |
-| **Aeon Card** | [[aeon-bank]] line | Retail-group credit cards | Aeon group retail linkage |
+| **Sumitomo Mitsui Card** | [[megabanks/smfg]] line | Credit cards (Visa) | Japan's largest Visa issuer, Olive linkage |
+| **Mitsubishi UFJ NICOS** | [[megabanks/mufg]] line | Credit cards (DC / NICOS / MUFG Card) | One of the big three credit-card companies |
+| **Aeon Card** | [[card-issuers/aeon-bank]] line | Retail-group credit cards | Aeon group retail linkage |
 | **Epos Card** | Marui Group | Retail / younger customers | Marui sales-promotion linkage |
-| **Rakuten Card** | Rakuten FG ([[rakuten-fg]] line) | Domestic issuance count No. 1  class | Points ecosystem |
+| **Rakuten Card** | Rakuten FG ([[payment-firms/rakuten-fg]] line) | Domestic issuance count No. 1  class | Points ecosystem |
 
 ### Strategic Issues
 
@@ -121,10 +121,10 @@ A **major domestic consumer credit company affiliated with [[mizuho-fg]] and Ito
 
 ## Related
 
-- [[mizuho-fg]] (major shareholder / equity-method parent) · Itochu Corporation (major shareholder)
-- Domestic consumer-credit competitors: [[jaccs]] (direct auto-loan competitor / [[mufg]] line)
-- Card competitors: Sumitomo Mitsui Card ([[smfg]] line) · Mitsubishi UFJ NICOS ([[mufg]] line) · [[jcb]] · Credit Saison · [[aeon-bank]] (Aeon Card) · Epos Card · [[rakuten-fg]] (Rakuten Card)
-- Digital payment competitors: [[paypay-fg]] (PayPay) · [[paidy]] (BNPL) · Rakuten Pay · d Barai ([[ndfg]] line) · au PAY ([[au-fh]] line)
+- [[megabanks/mizuho-fg]] (major shareholder / equity-method parent) · Itochu Corporation (major shareholder)
+- Domestic consumer-credit competitors: [[card-issuers/jaccs]] (direct auto-loan competitor / [[megabanks/mufg]] line)
+- Card competitors: Sumitomo Mitsui Card ([[megabanks/smfg]] line) · Mitsubishi UFJ NICOS ([[megabanks/mufg]] line) · [[card-issuers/jcb]] · Credit Saison · [[card-issuers/aeon-bank]] (Aeon Card) · Epos Card · [[payment-firms/rakuten-fg]] (Rakuten Card)
+- Digital payment competitors: [[megabanks/paypay-fg]] (PayPay) · [[payment-firms/paidy]] (BNPL) · Rakuten Pay · d Barai ([[megabanks/ndfg]] line) · au PAY ([[megabanks/au-fh]] line)
 - Auto-finance periphery: Toyota Finance (Toyota line) · Honda Finance (Honda line)
 
 ## Sources

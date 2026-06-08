@@ -41,8 +41,8 @@ translated_at: 2026-06-01T02:31:57.139Z
 ## Related
 
 - [[banking/foreign-bank-japan-retreat]]
-- [[kiraboshi-bank]]
-- [[higashi-nippon-bank]]
+- [[regional-banks/kiraboshi-bank]]
+- [[regional-banks/higashi-nippon-bank]]
 - [[banking/INDEX]]
 
 ## Sources

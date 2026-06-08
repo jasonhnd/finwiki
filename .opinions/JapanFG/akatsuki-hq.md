@@ -24,9 +24,9 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## 推論 (from 競争ポジション)
 
-- **大手 5 大証券**（[[nomura-hd]] / [[JapanFG/daiwa-sg|daiwa-securities-group]] / [[smbc-nikko]] / [[JapanFG/mizuho-securities|mizuho-securities]] / [[JapanFG/mufg-mums|mufg-mums]]）には**規模で大幅劣後** ^[inferred]
-- **中堅独立系**（[[JapanFG/matsui-sec|matsui-securities]] / [[JapanFG/okasan-sg|okasan-securities]] / [[tokai-tokyo-fh]] 等）にも規模で劣後 ^[inferred]
-- **ネット専業**（[[sbi-hd]] / [[JapanFG/rakuten-securities|rakuten-securities]] / [[monex-group]]）とは事業モデル差 ^[inferred]
+- **大手 5 大証券**（[[securities-firms/nomura-hd]] / [[securities-firms/daiwa-sg|daiwa-securities-group]] / [[securities-firms/smbc-nikko]] / [[securities-firms/mizuho-securities|mizuho-securities]] / [[securities-firms/mufg-mums|mufg-mums]]）には**規模で大幅劣後** ^[inferred]
+- **中堅独立系**（[[securities-firms/matsui-sec|matsui-securities]] / [[securities-firms/okasan-sg|okasan-securities]] / [[securities-firms/tokai-tokyo-fh]] 等）にも規模で劣後 ^[inferred]
+- **ネット専業**（[[megabanks/sbi-hd]] / [[securities-firms/rakuten-securities|rakuten-securities]] / [[securities-firms/monex-group]]）とは事業モデル差 ^[inferred]
 
 ## 推論 (from 中計（2024）)
 
@@ -40,7 +40,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## Counterpoints
 
-- **規模劣後**: 大手 5 大証券・中堅 3 大独立系 [[JapanFG/okasan-sg|okasan-securities]] / [[tokai-tokyo-fh]] / [[JapanFG/matsui-sec|matsui-securities]] 等に対し、収益規模・店舗網・人員数すべてで大幅劣後 ^[inferred]
+- **規模劣後**: 大手 5 大証券・中堅 3 大独立系 [[securities-firms/okasan-sg|okasan-securities]] / [[securities-firms/tokai-tokyo-fh]] / [[securities-firms/matsui-sec|matsui-securities]] 等に対し、収益規模・店舗網・人員数すべてで大幅劣後 ^[inferred]
 - **ボラタイル収益構造**: 中小証券特有の市場環境依存度の高さ（株価変動・売買代金変動に直結）^[inferred]
 - **ガバナンス変動**: アライアンス・パートナーズ系資本入り以降の経営体制安定性 ^[ambiguous]
 - **戦略の中長期方向性**: 証券専業回帰 vs 多角化継続のミニコングロマリット路線、明確な戦略開示は限定的 ^[ambiguous]

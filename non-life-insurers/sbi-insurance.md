@@ -29,7 +29,7 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 
 ## TL;DR
 
-SBI損害保険株式会社は、[[sbi-insurance-group]] / [[sbi-hd]] group の direct non-life insurance operating company。金融庁の損害保険会社免許一覧に載る licensed insurer で、SBI の banking / securities / insurance ecosystem に接続する auto, cancer, fire and other non-life products の underwriting boundary。
+SBI損害保険株式会社は、[[non-life-insurers/sbi-insurance-group]] / [[megabanks/sbi-hd]] group の direct non-life insurance operating company。金融庁の損害保険会社免許一覧に載る licensed insurer で、SBI の banking / securities / insurance ecosystem に接続する auto, cancer, fire and other non-life products の underwriting boundary。
 
 ## 1. License / group boundary
 
@@ -39,24 +39,24 @@ SBI損害保険株式会社は、[[sbi-insurance-group]] / [[sbi-hd]] group の 
 | English name | SBI Insurance Co., Ltd. |
 | License route | Insurance Business Act non-life insurance company; FSA non-life insurer list |
 | Protection scheme | Non-Life Insurance Policyholders Protection Corporation member |
-| Group boundary | [[sbi-insurance-group]] / [[sbi-hd]] non-life operating company |
+| Group boundary | [[non-life-insurers/sbi-insurance-group]] / [[megabanks/sbi-hd]] non-life operating company |
 
 ## 2. Operating model
 
-SBI損保は、online financial customer base, price comparison, direct distribution, and SBI group cross-sell potential を持つ non-life insurer。[[sbi-life]] と並べることで、SBI の life / non-life operating-company split が見える。
+SBI損保は、online financial customer base, price comparison, direct distribution, and SBI group cross-sell potential を持つ non-life insurer。[[life-insurers/sbi-life]] と並べることで、SBI の life / non-life operating-company split が見える。
 
 ## 3. Why this page matters
 
-- Separates [[sbi-insurance-group]] holding-company coverage from operating-company underwriting.
-- Useful for direct non-life comparison against [[sony-insurance]], [[sompo-direct]], and [[tokio-marine-direct]].
+- Separates [[non-life-insurers/sbi-insurance-group]] holding-company coverage from operating-company underwriting.
+- Useful for direct non-life comparison against [[non-life-insurers/sony-insurance]], [[non-life-insurers/sompo-direct]], and [[non-life-insurers/tokio-marine-direct]].
 - Registry-backed D4 direct / digital non-life page.
 
 ## Related
 
-- [[sbi-hd]]
-- [[sbi-insurance-group]]
-- [[sbi-life]]
-- [[sbi-securities]]
+- [[megabanks/sbi-hd]]
+- [[non-life-insurers/sbi-insurance-group]]
+- [[life-insurers/sbi-life]]
+- [[securities-firms/sbi-securities]]
 - [[insurance/INDEX]]
 
 ## Sources

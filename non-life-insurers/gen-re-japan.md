@@ -53,12 +53,12 @@ General Reinsurance AG / General Re Corporation の日本支店。**バークシ
 ## Related
 
 - [[non-life-insurers/INDEX]]
-- [[rga-japan]]
-- [[munich-re-japan]]
-- [[swiss-re-japan]]
-- [[hannover-re-japan]]
-- [[toa-reinsurance]]
-- [[japan-earthquake-reinsurance]]
+- [[life-insurers/rga-japan]]
+- [[non-life-insurers/munich-re-japan]]
+- [[non-life-insurers/swiss-re-japan]]
+- [[non-life-insurers/hannover-re-japan]]
+- [[non-life-insurers/toa-reinsurance]]
+- [[non-life-insurers/japan-earthquake-reinsurance]]
 - [[insurance/natcat-reinsurance-japan]]
 - [[insurance/INDEX]]
 

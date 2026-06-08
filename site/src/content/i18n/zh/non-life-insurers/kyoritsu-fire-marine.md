@@ -15,7 +15,7 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 
 ## TL;DR
 
-共荣火灾海上保险是一家以 JA 共济连为第一大股东（**74.20%**）的中坚损害保险公司。1942-07-01 通过战时整合（大东海上 + 大福海上）创立，1946 年 **在损保行业中罕见地相互会社化**，并于 2003-04  转为股份公司。它不属于 3  大损保集团（[[tokio-marine]] / [[msad]] / [[sompo]]），而是走 **协同组合 / 协同组织系列** 的独立路线。在北海道、东北、北陆、九州具有相对较高份额，并定位为补完 JA 共济无法覆盖的领域（汽车、火灾等）。自 2025-04  起启动新中计 “**SHIFT〜迈向持续成长〜**”。^[extracted]
+共荣火灾海上保险是一家以 JA 共济连为第一大股东（**74.20%**）的中坚损害保险公司。1942-07-01 通过战时整合（大东海上 + 大福海上）创立，1946 年 **在损保行业中罕见地相互会社化**，并于 2003-04  转为股份公司。它不属于 3  大损保集团（[[non-life-insurers/tokio-marine]] / [[non-life-insurers/msad]] / [[non-life-insurers/sompo]]），而是走 **协同组合 / 协同组织系列** 的独立路线。在北海道、东北、北陆、九州具有相对较高份额，并定位为补完 JA 共济无法覆盖的领域（汽车、火灾等）。自 2025-04  起启动新中计 “**SHIFT〜迈向持续成长〜**”。^[extracted]
 
 ## 1. 公司概要
 
@@ -45,7 +45,7 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 | 信金中央金库 | 6.08% |
 | 其他协同组合系团体 / 交易企业 | 剩余 |
 
-> 注：最初 brief 中称 “三井住友海上约 14%” 为主要股东，但公开信息（Wikipedia “共荣火灾海上保险” 股东构成）**无法确认 MS&AD 系列持股**。第一大股东是 JA 共济连 74.20%，其次为农林中央金库 6.63%、信金中央金库 6.08%，均属协同组织系列。2001 年 曾决定加入 Millea Insurance Group（现 [[tokio-marine]] HD 前身），但在 2002-08  退出，并选择以 JA 共济连为第一大股东进行股份公司化；当前体制因此 **完全由 JA 共济连 / 协同组织系列构成**。
+> 注：最初 brief 中称 “三井住友海上约 14%” 为主要股东，但公开信息（Wikipedia “共荣火灾海上保险” 股东构成）**无法确认 MS&AD 系列持股**。第一大股东是 JA 共济连 74.20%，其次为农林中央金库 6.63%、信金中央金库 6.08%，均属协同组织系列。2001 年 曾决定加入 Millea Insurance Group（现 [[non-life-insurers/tokio-marine]] HD 前身），但在 2002-08  退出，并选择以 JA 共济连为第一大股东进行股份公司化；当前体制因此 **完全由 JA 共济连 / 协同组织系列构成**。
 
 ### 重要年表 ^[extracted]
 
@@ -106,7 +106,7 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 
 | 区分 | 竞争方 |
 |---|---|
-| 3  大损保 | [[tokio-marine]]、[[msad]]、[[sompo]] |
+| 3  大损保 | [[non-life-insurers/tokio-marine]]、[[non-life-insurers/msad]]、[[non-life-insurers/sompo]] |
 | 中坚专门损保 | 大同火灾海上、Secom 损害保险、Newindia / Cardif 等外资 |
 | 共济系 | JA 共济（母公司系）、Kokumin Kyosai coop、都道府县民共济 |
 | 数字损保 | 乐天损保、SBI 损保、AXA Direct 等 |
@@ -124,9 +124,9 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 
 ## Related
 
-- [[tokio-marine]] · [[msad]] · [[sompo]] — 3  大损保
-- [[axa-japan]] — 外资损保
-- [[kampo-life]] — 协同组织系金融相邻领域
+- [[non-life-insurers/tokio-marine]] · [[non-life-insurers/msad]] · [[non-life-insurers/sompo]] — 3  大损保
+- [[life-insurers/axa-japan]] — 外资损保
+- [[life-insurers/kampo-life]] — 协同组织系金融相邻领域
 - 母公司系：JA 共济连、农林中央金库、信金中央金库
 
 ## Sources

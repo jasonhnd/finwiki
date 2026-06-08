@@ -111,11 +111,11 @@ Tokyo Kiraboshi FG（控股公司・上市 7173）
 
 ## Related
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]]（mega 3 行、东京零售竞争）
-- [[ndfg]]（千叶银行系，首都圈地方银行比较轴）
-- [[fukuoka-fg]]（iBank Marketing，地方银行数字先进例）
-- [[resona-hd]]（首都圈地方银行 / Resona 系比较轴）
-- [[paypay-fg]] · [[rakuten-fg]] · [[au-fh]]（个人数字银行竞争）
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]（mega 3 行、东京零售竞争）
+- [[megabanks/ndfg]]（千叶银行系，首都圈地方银行比较轴）
+- [[regional-banks/fukuoka-fg]]（iBank Marketing，地方银行数字先进例）
+- [[megabanks/resona-hd]]（首都圈地方银行 / Resona 系比较轴）
+- [[megabanks/paypay-fg]] · [[payment-firms/rakuten-fg]] · [[megabanks/au-fh]]（个人数字银行竞争）
 
 ## Sources
 

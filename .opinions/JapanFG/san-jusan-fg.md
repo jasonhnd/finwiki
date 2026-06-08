@@ -16,8 +16,8 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## 推論 (from 県内競合)
 
-- **百五銀行** ([[hyakugo-bank]]) との県内 No.1 争い: 百五が県内シェアで先行、三十三 FG は両行統合で規模追随を図る ^[inferred]
-- **名古屋圏進出**: 中京経済圏で 大垣共立銀行・十六 FG ([[juroku-fg]]) 等とも競合 ^[inferred]
+- **百五銀行** ([[regional-banks/hyakugo-bank]]) との県内 No.1 争い: 百五が県内シェアで先行、三十三 FG は両行統合で規模追随を図る ^[inferred]
+- **名古屋圏進出**: 中京経済圏で 大垣共立銀行・十六 FG ([[regional-banks/juroku-fg]]) 等とも競合 ^[inferred]
 
 ## 推論 (from 統合効果)
 

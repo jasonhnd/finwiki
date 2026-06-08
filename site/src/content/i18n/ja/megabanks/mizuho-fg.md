@@ -176,7 +176,7 @@ translated_at: 2026-06-02T14:54:39.094Z
 
 ## 関連
 
-- [[mufg]] · [[smfg]] · [[ndfg]] · [[sbi-hd]] · [[paypay-fg]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/ndfg]] · [[megabanks/sbi-hd]] · [[megabanks/paypay-fg]]
 - [[banking/mercari-bank-license-stack]] · [[banking/minna-bank-baas-model]]
 
 ## 出典

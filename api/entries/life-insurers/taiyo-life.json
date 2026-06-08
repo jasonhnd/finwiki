@@ -48,32 +48,30 @@
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 7,
+    "wikilinks_count": 6,
     "wikilinks": [
-      "daido-life",
       "insurance/INDEX",
       "insurance/economic-value-based-solvency",
       "insurance/life-insurance-channel-mix",
       "life-insurers/INDEX",
       "life-insurers/daido-life",
-      "td-hd"
+      "life-insurers/td-hd"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/daido-life",
       "https://finwiki.zksc.io/insurance/INDEX",
       "https://finwiki.zksc.io/insurance/economic-value-based-solvency",
       "https://finwiki.zksc.io/insurance/life-insurance-channel-mix",
       "https://finwiki.zksc.io/life-insurers/INDEX",
       "https://finwiki.zksc.io/life-insurers/daido-life",
-      "https://finwiki.zksc.io/td-hd"
+      "https://finwiki.zksc.io/life-insurers/td-hd"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1981,
-    "word_like_tokens": 320,
-    "inbound_wikilinks_count": 5,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 2079,
+    "word_like_tokens": 334,
+    "inbound_wikilinks_count": 7,
+    "last_modified": "2026-06-08"
   }
 }

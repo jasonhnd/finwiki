@@ -17,7 +17,7 @@ translated_at: 2026-06-02T14:54:39.091Z
 
 ## 要約
 
-株式会社関西みらい銀行は、金融庁の銀行免許一覧に掲載される大阪府本店の地方銀行。[[resona-hd]] 傘下の Kansai 運営銀行 であり、旧関西アーバン銀行・近畿大阪銀行の統合後 銀行免許エンティティ として扱う。
+株式会社関西みらい銀行は、金融庁の銀行免許一覧に掲載される大阪府本店の地方銀行。[[megabanks/resona-hd]] 傘下の Kansai 運営銀行 であり、旧関西アーバン銀行・近畿大阪銀行の統合後 銀行免許エンティティ として扱う。
 
 ## 1. 免許・グループ境界
 
@@ -25,28 +25,28 @@ translated_at: 2026-06-02T14:54:39.091Z
 |---|---|
 | 正式名称 | 株式会社関西みらい銀行 |
 | 免許ルート | Banking Act regional bank; FSA bank license list |
-| グループ境界 | [[resona-hd]] Kansai 運営銀行 |
+| グループ境界 | [[megabanks/resona-hd]] Kansai 運営銀行 |
 | 地盤市場 | Osaka / Kansai |
 | ウィキ上の役割 | Kansai 地方銀行 運営会社ページ |
 
 ## 2. 事業モデル
 
-関西みらい銀行は、大阪府を中心に 個人預金, 中小企業金融, 住宅ローン・個人向け銀行業務, と Kansai-area 事業支援 を担う regional bank。[[resona-hd]] の retail / trust-銀行 platform と連携しつつ、関西地銀としての店舗・地域金融機能を持つ。
+関西みらい銀行は、大阪府を中心に 個人預金, 中小企業金融, 住宅ローン・個人向け銀行業務, と Kansai-area 事業支援 を担う regional bank。[[megabanks/resona-hd]] の retail / trust-銀行 platform と連携しつつ、関西地銀としての店舗・地域金融機能を持つ。
 
 ## 3. このページが重要な理由
 
 - FSAの正式名称ベースのページ欠落を埋める のために 関西みらい銀行.
-- 銀行エンティティを次のグループ戦略から分離する: [[resona-hd]] group-level strategy.
-- 次の比較対象の基点を提供する: [[ikeda-senshu-bank]], [[kyoto-bank]], と [[minato-bank|みなと銀行]] coverage.
+- 銀行エンティティを次のグループ戦略から分離する: [[megabanks/resona-hd]] group-level strategy.
+- 次の比較対象の基点を提供する: [[regional-banks/ikeda-senshu-bank]], [[regional-banks/kyoto-bank]], と [[regional-banks/minato-bank|みなと銀行]] coverage.
 
 ## 関連
 
-- [[resona-hd]]
-- [[resona-bank]]
-- [[saitama-resona-bank]]
-- [[minato-bank]]
-- [[ikeda-senshu-bank]]
-- [[kyoto-bank]]
+- [[megabanks/resona-hd]]
+- [[megabanks/resona-bank]]
+- [[megabanks/saitama-resona-bank]]
+- [[regional-banks/minato-bank]]
+- [[regional-banks/ikeda-senshu-bank]]
+- [[regional-banks/kyoto-bank]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 

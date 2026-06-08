@@ -23,7 +23,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it wit
 
 ## TL;DR
 
-株式会社佐賀共栄銀行は、金融庁の銀行免許一覧に掲載される佐賀県本店の第二地方銀行。佐賀県の second-regional-bank operating-company anchor であり、[[saga-bank]] とは別法人の local peer として扱う。
+株式会社佐賀共栄銀行は、金融庁の銀行免許一覧に掲載される佐賀県本店の第二地方銀行。佐賀県の second-regional-bank operating-company anchor であり、[[regional-banks/saga-bank]] とは別法人の local peer として扱う。
 
 ## 1. License / group boundary
 
@@ -37,7 +37,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it wit
 
 ## 2. Operating model
 
-佐賀共栄銀行は、佐賀県内の retail deposits, SME finance, small-business lending, and local consumer banking を担う second regional bank。[[saga-bank]] page は first-regional-bank incumbent を扱い、本ページは second-regional-bank license boundary を扱う。Kyushu second-regional-bank consolidation pressure は [[banking/regional-bank-consolidation-pattern]] を参照。
+佐賀共栄銀行は、佐賀県内の retail deposits, SME finance, small-business lending, and local consumer banking を担う second regional bank。[[regional-banks/saga-bank]] page は first-regional-bank incumbent を扱い、本ページは second-regional-bank license boundary を扱う。Kyushu second-regional-bank consolidation pressure は [[banking/regional-bank-consolidation-pattern]] を参照。
 
 ## 3. Why this page matters
 
@@ -47,9 +47,9 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it wit
 
 ## Related
 
-- [[saga-bank]]
-- [[fukuoka-bank]]
-- [[nishi-nippon-city-bank]]
+- [[regional-banks/saga-bank]]
+- [[regional-banks/fukuoka-bank]]
+- [[regional-banks/nishi-nippon-city-bank]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 

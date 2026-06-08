@@ -49,32 +49,30 @@
     "グローバル分散"
   ],
   "body_links": {
-    "wikilinks_count": 7,
+    "wikilinks_count": 6,
     "wikilinks": [
       "banking/INDEX",
       "leasing-firms/INDEX",
+      "leasing-firms/orix-corp",
+      "leasing-firms/tokyo-century",
       "manufacturer-finance/toyota-motor",
-      "megabanks/mufg",
-      "mufg",
-      "orix-corp",
-      "tokyo-century"
+      "megabanks/mufg"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/leasing-firms/INDEX",
+      "https://finwiki.zksc.io/leasing-firms/orix-corp",
+      "https://finwiki.zksc.io/leasing-firms/tokyo-century",
       "https://finwiki.zksc.io/manufacturer-finance/toyota-motor",
-      "https://finwiki.zksc.io/megabanks/mufg",
-      "https://finwiki.zksc.io/mufg",
-      "https://finwiki.zksc.io/orix-corp",
-      "https://finwiki.zksc.io/tokyo-century"
+      "https://finwiki.zksc.io/megabanks/mufg"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4407,
-    "word_like_tokens": 698,
+    "nonspace_chars": 4483,
+    "word_like_tokens": 708,
     "inbound_wikilinks_count": 16,
-    "last_modified": "2026-06-06"
+    "last_modified": "2026-06-08"
   }
 }

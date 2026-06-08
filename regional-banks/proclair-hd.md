@@ -138,7 +138,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## 8. Related
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[ndfg]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[megabanks/ndfg]]
 
 ## Sources
 

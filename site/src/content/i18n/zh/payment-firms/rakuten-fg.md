@@ -15,7 +15,7 @@ translated_at: 2026-06-01T00:41:50.434Z
 
 ## TL;DR
 
-楽天集团株式会社 (Rakuten Group, Inc., 东证 PRIME 4755) 的金融科技板块。其 **EC 轴独自模型** 以楽天市场 + 楽天积分为 core，将银行 / 证券 / 卡 / 保险 / 支付作为“楽天经济圈”捆绑，通过交叉销售展开。不同于巨型银行系 ([[mufg]] / [[smfg]] / [[mizuho-fg]]) 和通信系 FG ([[ndfg]] / au-FH / [[paypay-fg]])，它的业务组装方式是 **从 commerce 起点走向金融**。2023-04 楽天银行 IPO，2024 楽天证券接受みずほ证券 49% 出资。**2024 期 FinTech 板块 Non-GAAP 营业利润 1,534 億円 (+37.9%)，集团 IFRS 营业利润转正 (530 億円)**。楽天 Mobile 亏损 (Non-GAAP 营业损失 2,163 億円) 仍高于 FinTech 利润，但处于改善趋势。创始人三木谷浩史 (1965-) 自 1997 创立以来一直担任代表者。
+楽天集团株式会社 (Rakuten Group, Inc., 东证 PRIME 4755) 的金融科技板块。其 **EC 轴独自模型** 以楽天市场 + 楽天积分为 core，将银行 / 证券 / 卡 / 保险 / 支付作为“楽天经济圈”捆绑，通过交叉销售展开。不同于巨型银行系 ([[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]]) 和通信系 FG ([[megabanks/ndfg]] / au-FH / [[megabanks/paypay-fg]])，它的业务组装方式是 **从 commerce 起点走向金融**。2023-04 楽天银行 IPO，2024 楽天证券接受みずほ证券 49% 出资。**2024 期 FinTech 板块 Non-GAAP 营业利润 1,534 億円 (+37.9%)，集团 IFRS 营业利润转正 (530 億円)**。楽天 Mobile 亏损 (Non-GAAP 营业损失 2,163 億円) 仍高于 FinTech 利润，但处于改善趋势。创始人三木谷浩史 (1965-) 自 1997 创立以来一直担任代表者。
 
 ## 1. 公司概要
 
@@ -125,9 +125,9 @@ translated_at: 2026-06-01T00:41:50.434Z
 | 竞争类别 | 轴 | 代表 |
 |---|---|---|
 | **EC 轴** | **Commerce -> finance** | **Rakuten FG（本条目）** |
-| 通信轴 | 通信线路 -> 金融 | [[ndfg]] (docomo) / au-FH (KDDI) / [[paypay-fg]] (Yahoo/Z) |
-| 银行轴 | 商业银行 -> 数字化 | [[mufg]] / [[smfg]] / [[mizuho-fg]] |
-| 专业网络轴 | 网络证券 -> 扩张 | [[sbi-hd]] |
+| 通信轴 | 通信线路 -> 金融 | [[megabanks/ndfg]] (docomo) / au-FH (KDDI) / [[megabanks/paypay-fg]] (Yahoo/Z) |
+| 银行轴 | 商业银行 -> 数字化 | [[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]] |
+| 专业网络轴 | 网络证券 -> 扩张 | [[megabanks/sbi-hd]] |
 
 ### Mobile 亏损 x 金融补贴结构
 
@@ -161,8 +161,8 @@ translated_at: 2026-06-01T00:41:50.434Z
 
 ## Related
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]]（みずほ FG = 对楽天证券 49% 出资）
-- [[ndfg]] · [[paypay-fg]] · [[sbi-hd]]（经济圈竞争者）
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]（みずほ FG = 对楽天证券 49% 出资）
+- [[megabanks/ndfg]] · [[megabanks/paypay-fg]] · [[megabanks/sbi-hd]]（经济圈竞争者）
 - [[banking/mercari-bank-license-stack]] · [[banking/minna-bank-baas-model]]
 
 ## Sources

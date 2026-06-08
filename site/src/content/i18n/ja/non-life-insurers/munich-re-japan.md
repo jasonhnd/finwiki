@@ -16,7 +16,7 @@ translated_at: 2026-06-02T14:54:39.082Z
 
 ## 要約
 
-ミュンヘン再保険会社（Munich Reinsurance Company / Münchener Rückversicherungs-Gesellschaft, DAX 上場）の日本支店。**世界最大級の再保険会社** の日本支店として、金融庁の損害保険会社免許一覧（外国損害保険会社等）に掲載される。日本の元受損保（[[tokio-marine-nichido-fire]] / [[mitsui-sumitomo-insurance]] / [[sompo-japan-insurance]] 等）と生保のリスクをグローバル資本で吸収する役割を担い、特に巨大自然災害（地震・台風・水害）と生保長寿リスクの引受で重要。
+ミュンヘン再保険会社（Munich Reinsurance Company / Münchener Rückversicherungs-Gesellschaft, DAX 上場）の日本支店。**世界最大級の再保険会社** の日本支店として、金融庁の損害保険会社免許一覧（外国損害保険会社等）に掲載される。日本の元受損保（[[non-life-insurers/tokio-marine-nichido-fire]] / [[non-life-insurers/mitsui-sumitomo-insurance]] / [[non-life-insurers/sompo-japan-insurance]] 等）と生保のリスクをグローバル資本で吸収する役割を担い、特に巨大自然災害（地震・台風・水害）と生保長寿リスクの引受で重要。
 
 ## 1. 免許・グループ境界
 
@@ -40,16 +40,16 @@ translated_at: 2026-06-02T14:54:39.082Z
 ## 4. このページが重要な理由
 
 - Foreign reinsurer Japan branch の代表アンカー — グローバル再保険資本が日本市場にアクセスする主要ルート
-- [[insurance/natcat-reinsurance-japan]] の system page と元受損保各社（[[tokio-marine-nichido-fire]] / [[mitsui-sumitomo-insurance]] / [[sompo-japan-insurance]]）を接続
-- 国内専業 [[toa-reinsurance]] / [[japan-earthquake-reinsurance]] との contrast による日本の再保険市場構造の理解
+- [[insurance/natcat-reinsurance-japan]] の system page と元受損保各社（[[non-life-insurers/tokio-marine-nichido-fire]] / [[non-life-insurers/mitsui-sumitomo-insurance]] / [[non-life-insurers/sompo-japan-insurance]]）を接続
+- 国内専業 [[non-life-insurers/toa-reinsurance]] / [[non-life-insurers/japan-earthquake-reinsurance]] との contrast による日本の再保険市場構造の理解
 
 ## 関連項目
 
 - [[non-life-insurers/INDEX]]
-- [[toa-reinsurance]]
-- [[japan-earthquake-reinsurance]]
-- [[swiss-re-japan]]
-- [[hannover-re-japan]]
+- [[non-life-insurers/toa-reinsurance]]
+- [[non-life-insurers/japan-earthquake-reinsurance]]
+- [[non-life-insurers/swiss-re-japan]]
+- [[non-life-insurers/hannover-re-japan]]
 - [[insurance/natcat-reinsurance-japan]]
 - [[insurance/INDEX]]
 

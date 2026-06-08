@@ -16,7 +16,7 @@ translated_at: 2026-06-02T14:54:39.069Z
 
 ## 要約
 
-日本最大の独立系証券グループ（純営業収益ベース）。1925-12-25 大阪野村銀行証券部から独立した「野村証券」を起源とし、2001-10-01 持株会社化で発足。**国内リテール（営業店約 130）+ ホールセール（IB / Markets）+ 投資マネジメント（野村 AM、国内 No.2 クラス）+ Instinet（米電子取引）4 軸**。2008-10 リーマン・ブラザーズのアジア / 欧州 / 中東部門を約 2 億ドルで買収しグローバル化を加速、メガバンク系証券（[[mufg]] MUMSS、[[smfg]] SMBC 日興、[[mizuho-fg]] みずほ証券）と異なる「独立系」ポジションを維持。^[extracted]
+日本最大の独立系証券グループ（純営業収益ベース）。1925-12-25 大阪野村銀行証券部から独立した「野村証券」を起源とし、2001-10-01 持株会社化で発足。**国内リテール（営業店約 130）+ ホールセール（IB / Markets）+ 投資マネジメント（野村 AM、国内 No.2 クラス）+ Instinet（米電子取引）4 軸**。2008-10 リーマン・ブラザーズのアジア / 欧州 / 中東部門を約 2 億ドルで買収しグローバル化を加速、メガバンク系証券（[[megabanks/mufg]] MUMSS、[[megabanks/smfg]] SMBC 日興、[[megabanks/mizuho-fg]] みずほ証券）と異なる「独立系」ポジションを維持。^[extracted]
 
 ## 1. 会社概要
 
@@ -183,8 +183,8 @@ translated_at: 2026-06-02T14:54:39.069Z
 
 ## 関連項目
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[sbi-hd]] · [[megabanks/resona-hd|rsh]]
-- [[ndfg]] · [[securities-firms/daiwa-sg|daiwa-securities]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[megabanks/sbi-hd]] · [[megabanks/resona-hd|rsh]]
+- [[megabanks/ndfg]] · [[securities-firms/daiwa-sg|daiwa-securities]]
 - [[securities/nisa-2024-flow]]
 
 ## 出典

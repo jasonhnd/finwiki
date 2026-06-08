@@ -11,7 +11,7 @@ translated_at: 2026-05-31T15:29:03.856Z
 
 ## Wiki route
 
-This entry sits in the JapanFG route specified by the source file. Source-order context: [[life-insurers/INDEX|life-insurers INDEX]] [[life-insurers/dai-ichi-frontier-life|Dai-ichi Frontier Life]] [[insurance/INDEX|insurance index]] [[dai-ichi-life]] [[insurance/global-solvency-framework-comparison-matrix]] 1 [[dai-ichi-life]] 2 [[dai-ichi-life]] [[insurance/INDEX|insurance index]] [[dai-ichi-frontier-life]] [[dai-ichi-neo-life]] [[dai-ichi-life]] [[dai-ichi-frontier-life]] [[dai-ichi-neo-life]] [[insurance/life-insurance-channel-mix]] 2026-04-13 2026-04-13
+This entry sits in the JapanFG route specified by the source file. Source-order context: [[life-insurers/INDEX|life-insurers INDEX]] [[life-insurers/dai-ichi-frontier-life|Dai-ichi Frontier Life]] [[insurance/INDEX|insurance index]] [[life-insurers/dai-ichi-life]] [[insurance/global-solvency-framework-comparison-matrix]] 1 [[life-insurers/dai-ichi-life]] 2 [[life-insurers/dai-ichi-life]] [[insurance/INDEX|insurance index]] [[life-insurers/dai-ichi-frontier-life]] [[life-insurers/dai-ichi-neo-life]] [[life-insurers/dai-ichi-life]] [[life-insurers/dai-ichi-frontier-life]] [[life-insurers/dai-ichi-neo-life]] [[insurance/life-insurance-channel-mix]] 2026-04-13 2026-04-13
 
 ## TL;DR
 

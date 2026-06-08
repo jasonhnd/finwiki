@@ -12,16 +12,16 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## 推論 (from 1. Market structure)
 
-| Hull & Machinery (H&M) | Physical damage to the ship (collision, grounding, fire, sinking) | Non-life insurer | [[JapanFG/tokio-marine-nichido-fire|Tokio Marine & Nichido Fire]] historically; [[JapanFG/mitsui-sumitomo-insurance|MS]] and [[JapanFG/sompo-japan-insurance|Sompo Japan]] are the other two anchors ^[inferred] |
+| Hull & Machinery (H&M) | Physical damage to the ship (collision, grounding, fire, sinking) | Non-life insurer | [[non-life-insurers/tokio-marine-nichido-fire|Tokio Marine & Nichido Fire]] historically; [[non-life-insurers/mitsui-sumitomo-insurance|MS]] and [[non-life-insurers/sompo-japan-insurance|Sompo Japan]] are the other two anchors ^[inferred] |
 | War / strikes hull | War-risk extension to H&M | Non-life insurer + Lloyd's specialty | Lloyd's / London market primary; Japan carriers participate ^[inferred] |
 | Cargo / transit | Goods in transit by sea / air / land | Non-life insurer | All 大手3社 ^[inferred] |
-| Specialty marine (energy, offshore, yacht) | Niche risks | Lloyd's-led | [[JapanFG/lloyd-japan|Lloyd's Japan]] platform ^[inferred] |
+| Specialty marine (energy, offshore, yacht) | Niche risks | Lloyd's-led | [[non-life-insurers/lloyd-japan|Lloyd's Japan]] platform ^[inferred] |
 | Marine reinsurance | Cession of any of the above | Foreign reinsurer panel | Munich Re, Swiss Re, Hannover Re, Lloyd's ^[inferred] — see [[insurance/foreign-reinsurer-japan-landscape]] |
 
 ## 推論 (from 2. Hull and machinery (H&M))
 
-- classification society (overwhelmingly [[JapanFG/nippon-kaiji-kyokai|ClassNK]] for Japanese-managed fleet) ^[inferred];
-**Tokio Marine name lineage.** [[JapanFG/tokio-marine-nichido-fire|Tokio Marine & Nichido Fire]] still carries 東京海上 ("Tokyo Marine") in its name because the original predecessor — Tokio Marine Insurance, founded 1879 — was specifically a marine insurer for the Meiji-era shipping trade ^[inferred]. The non-life industry then broadened from marine into fire, auto, and casualty, but the name kept the marine origin. This historical anchor is part of why Tokio Marine carries the largest marine book among the 大手3社 ^[inferred].
+- classification society (overwhelmingly [[financial-regulators/nippon-kaiji-kyokai|ClassNK]] for Japanese-managed fleet) ^[inferred];
+**Tokio Marine name lineage.** [[non-life-insurers/tokio-marine-nichido-fire|Tokio Marine & Nichido Fire]] still carries 東京海上 ("Tokyo Marine") in its name because the original predecessor — Tokio Marine Insurance, founded 1879 — was specifically a marine insurer for the Meiji-era shipping trade ^[inferred]. The non-life industry then broadened from marine into fire, auto, and casualty, but the name kept the marine origin. This historical anchor is part of why Tokio Marine carries the largest marine book among the 大手3社 ^[inferred].
 
 ## 推論 (from 3. Cargo / transit)
 
@@ -75,7 +75,7 @@ The aggregate marine premium is small relative to auto and fire for each carrier
 
 ## 推論 (from 7. ClassNK and the survey infrastructure)
 
-[[JapanFG/nippon-kaiji-kyokai|Nippon Kaiji Kyokai (ClassNK)]] is the Japanese member of the **International Association of Classification Societies (IACS)**. ClassNK does *not* sell insurance — it surveys ships against published rules, issues class certificates, and sets the rule basis that H&M and P&I underwriters rely on to assess risk ^[inferred].
+[[financial-regulators/nippon-kaiji-kyokai|Nippon Kaiji Kyokai (ClassNK)]] is the Japanese member of the **International Association of Classification Societies (IACS)**. ClassNK does *not* sell insurance — it surveys ships against published rules, issues class certificates, and sets the rule basis that H&M and P&I underwriters rely on to assess risk ^[inferred].
 - H&M underwriters require a current class certificate before binding cover ^[inferred].
 - P&I clubs require continuous class as a condition of entry ^[inferred].
 - Suspension or withdrawal of class can trigger automatic cessation of cover ^[inferred].

@@ -23,14 +23,14 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exc
 
 - **IBIT (BlackRock)**:AUM $80-100B 规模 · 现货 ETF 最大份额 · 史上最快达到 $50B AUM
 - **美国现货 ETF 整体 AUM**:$200B+ (2026 推算) · 吸收全球 BTC 流通量的数 %
-- **Coinbase Custody**:11 件中 9 件由其托管(机构托管寡占)——与 [[global-institutional-custody-five-pillars]] 一致
+- **Coinbase Custody**:11 件中 9 件由其托管(机构托管寡占)——与 [[exchanges/global-institutional-custody-five-pillars]] 一致
 - **日净流入**:峰值时超 $1B/日(2024 春、2024 末 rally 时)
 
 ## 3. 对国内 CEX 的 3 条路径影响
 
-- **(a) 价格波及**:BTC 现货价格上涨 → 国内现货成交量增加 · 1 BTC 突破 1,500 万円(2024-03 首次达到)。[[jvcea-spot-volume-statistics-analysis]] 中也确认了 2024 现货月度成交量反弹
+- **(a) 价格波及**:BTC 现货价格上涨 → 国内现货成交量增加 · 1 BTC 突破 1,500 万円(2024-03 首次达到)。[[exchanges/jvcea-spot-volume-statistics-analysis]] 中也确认了 2024 现货月度成交量反弹
 - **(b) 机构化**:国内法人账户开设加速 · JVCEA 统计中也以 2024+ 显示法人账户净增。bitFlyer / SBI VC Trade / Coincheck 强化面向法人的服务
-- **(c) 国内 ETF 解禁讨论**:2025-2026 期间 FSA + 行业团体(JVCEA/JCBA)推进 BTC/ETH 现货 ETF 国内批准讨论 · 截至 2026-05 时点**未获批**(需法令修改)——参见 [[jp-vasp-regulatory-timeline]]
+- **(c) 国内 ETF 解禁讨论**:2025-2026 期间 FSA + 行业团体(JVCEA/JCBA)推进 BTC/ETH 现货 ETF 国内批准讨论 · 截至 2026-05 时点**未获批**(需法令修改)——参见 [[exchanges/jp-vasp-regulatory-timeline]]
 
 ## 4. 日本 ETF 解禁的制度性障碍
 
@@ -42,8 +42,8 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exc
 ## 5. 投资者含义
 
 - **经由美国 ETF 的间接敞口**:日本投资者可经野村证券 / SBI 证券 / 乐天证券 / Monex 证券购买美国现货 ETF(IBIT 等) · 无需等待国内批准即可对应特定账户(20% 申报分离)
-- **国内 CEX 竞争压力**:ETF 解禁时,国内现货交易份额下降风险。美国在现货 ETF 获批后,也观察到 Coinbase 零售现货成交量流向 ETF 的趋势 → 也影响 [[jp-cex-sales-vs-exchange-model-economics]] 的销售所模式收益
-- **机构玩家流入**:Monex / SBI / 野村 / 三井住友信托等大型金融 conglomerate 的战略意义增大 → [[jp-listed-cex-related-companies-matrix]]
+- **国内 CEX 竞争压力**:ETF 解禁时,国内现货交易份额下降风险。美国在现货 ETF 获批后,也观察到 Coinbase 零售现货成交量流向 ETF 的趋势 → 也影响 [[exchanges/jp-cex-sales-vs-exchange-model-economics]] 的销售所模式收益
+- **机构玩家流入**:Monex / SBI / 野村 / 三井住友信托等大型金融 conglomerate 的战略意义增大 → [[exchanges/jp-listed-cex-related-companies-matrix]]
 
 ## 相关
 

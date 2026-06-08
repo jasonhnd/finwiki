@@ -15,7 +15,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-A commercial bank that followed the path from the former **Long-Term Credit Bank of Japan (LTCB) → 1998-10  failure → temporary nationalization → 2000  sale to the Ripplewood consortium → renaming and rehabilitation as "Shinsei Bank"**, then became a wholly owned subsidiary and delisted after the completion of SBI HD [[sbi-hd]]'s TOB in **2023-09 **, and changed its trade name to **"SBI Shinsei Bank" in 2023-12 **. It is the banking core of SBI HD's "**4 th megabank concept**". The largest management issue is **unrepaid public funds from the former LTCB nationalization, about 3500 億円 in scale**. Its 3  axes are retail (Shinsei + APLUS Financial), corporate lending, and real estate / structured finance. ^[extracted]
+A commercial bank that followed the path from the former **Long-Term Credit Bank of Japan (LTCB) → 1998-10  failure → temporary nationalization → 2000  sale to the Ripplewood consortium → renaming and rehabilitation as "Shinsei Bank"**, then became a wholly owned subsidiary and delisted after the completion of SBI HD [[megabanks/sbi-hd]]'s TOB in **2023-09 **, and changed its trade name to **"SBI Shinsei Bank" in 2023-12 **. It is the banking core of SBI HD's "**4 th megabank concept**". The largest management issue is **unrepaid public funds from the former LTCB nationalization, about 3500 億円 in scale**. Its 3  axes are retail (Shinsei + APLUS Financial), corporate lending, and real estate / structured finance. ^[extracted]
 
 ## 1. Company Overview
 
@@ -24,18 +24,18 @@ A commercial bank that followed the path from the former **Long-Term Credit Bank
 **Securities code**: former TSE PRIME 8303 (2004-02  relisting → **2023-09  delisting**) ^[extracted]
 **Establishment**: 1952-12 (as Long-Term Credit Bank of Japan) ^[extracted]
 **Current corporate history**: 2000-06  renamed "Shinsei Bank" → 2023-12  trade name changed to "SBI Shinsei Bank" ^[extracted]
-**Parent company**: SBI Holdings [[sbi-hd]] (consolidated subsidiary, effectively 100%) ^[extracted]
+**Parent company**: SBI Holdings [[megabanks/sbi-hd]] (consolidated subsidiary, effectively 100%) ^[extracted]
 
 ### Special Nature of the Business Type ^[extracted]
 
 - A former **long-term credit bank** (a special bank under the Long-Term Credit Bank Act enacted in 1952 ) that converted into a **commercial bank**. It is now under the Banking Act as a "**commercial bank**".
-- Sibling line: [[aozora-bank]] (former Nippon Credit Bank, likewise nationalized and privately rehabilitated)
-- The "3 行 long-term credit banks": former Industrial Bank of Japan (→ Mizuho Corporate / [[mizuho-fg]]) / former LTCB (→ Shinsei) / former NCB (→ Aozora) — of these, 2 行 failed and were nationalized.
+- Sibling line: [[regional-banks/aozora-bank]] (former Nippon Credit Bank, likewise nationalized and privately rehabilitated)
+- The "3 行 long-term credit banks": former Industrial Bank of Japan (→ Mizuho Corporate / [[megabanks/mizuho-fg]]) / former LTCB (→ Shinsei) / former NCB (→ Aozora) — of these, 2 行 failed and were nationalized.
 
 ### Major Subsidiaries (Consolidated)
 
 ```
-SBI Holdings [[sbi-hd]] (listed 8473)
+SBI Holdings [[megabanks/sbi-hd]] (listed 8473)
   └── SBI Shinsei Bank (100%, former 8303; delisted 2023-09 )
         ├── APLUS Financial (consumer credit, former TSE STD 8589) ── credit sales, card loans, installments
         ├── Shinsei Financial (former GE Capital line, consumer finance) ── Lake ALSA brand
@@ -57,7 +57,7 @@ SBI Holdings [[sbi-hd]] (listed 8473)
 | 2004-02 | **Relisted** on the TSE First Section (President Masamoto Yashiro; Ripplewood exited most of its position) |
 | 2007 onward | Brought APLUS, Shinsei Financial, and others under the group (strengthening consumer finance and credit sales) |
 | 2010-2020 | Searched for a 3 -axis model of corporate lending + retail + consumer credit, while weak earnings continued |
-| **2021-09** | **SBI HD [[sbi-hd]] launched TOB** (led by Yoshitaka Kitao, positioned as the core bank of the "4 th megabank concept") |
+| **2021-09** | **SBI HD [[megabanks/sbi-hd]] launched TOB** (led by Yoshitaka Kitao, positioned as the core bank of the "4 th megabank concept") |
 | **2022-04** | As a result of the TOB, SBI HD's stake became **about 47%** (effective management control acquired) |
 | **2023-09** | **Became wholly owned subsidiary (SBI HD 100%) → delisted** ^[extracted] |
 | **2023-12** | **Trade name changed to "SBI Shinsei Bank"** ^[extracted] |
@@ -76,11 +76,11 @@ SBI Holdings [[sbi-hd]] (listed 8473)
 | Trust | Shinsei Trust & Banking | Trust function (mid-tier trust scale) |
 | Leasing | Showa Leasing | Leasing and finance |
 | Corporate lending | SBI Shinsei Bank parent bank | Mid-sized companies, real estate, structured finance |
-| Group linkage | SBI Securities / SBI Life / SBI Sumishin Net Bank, etc. | Cross-selling via SBI HD [[sbi-hd]] |
+| Group linkage | SBI Securities / SBI Life / SBI Sumishin Net Bank, etc. | Cross-selling via SBI HD [[megabanks/sbi-hd]] |
 
 ### "4 th Megabank Concept"
 
-- A concept led by SBI HD's Yoshitaka Kitao: after the megas 3 行 ([[mufg]] / [[smfg]] / [[mizuho-fg]]) + [[ndfg]], it aims to become the 4 th pole.
+- A concept led by SBI HD's Yoshitaka Kitao: after the megas 3 行 ([[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]]) + [[megabanks/ndfg]], it aims to become the 4 th pole.
 - **Core bank = SBI Shinsei Bank**, with satellites in a regional-bank investment network (minority stakes in Shimane Bank, Fukushima Bank, Chikuhou Bank, Shimizu Bank, etc.) ^[extracted]
 
 ### Strategic Meaning of Joining the SBI Group
@@ -90,8 +90,8 @@ SBI Holdings [[sbi-hd]] (listed 8473)
 
 ### Competitors / Reference Points
 
-- [[aozora-bank]]: same "former long-term credit bank → nationalization → private rehabilitation" path; closest in business type. MUFG [[mufg]] was a strategic holder for a period.
-- [[mizuho-fg]]: the only surviving long-term-credit-bank-line mega that inherits the former IBJ lineage
+- [[regional-banks/aozora-bank]]: same "former long-term credit bank → nationalization → private rehabilitation" path; closest in business type. MUFG [[megabanks/mufg]] was a strategic holder for a period.
+- [[megabanks/mizuho-fg]]: the only surviving long-term-credit-bank-line mega that inherits the former IBJ lineage
 - Mega 3 行 vs SBI Shinsei: 1  order-of-magnitude gap in total assets and earnings scale; retail network is also limited to urban areas
 
 ## 4. Regulation / Policy
@@ -107,7 +107,7 @@ SBI Holdings [[sbi-hd]] (listed 8473)
 
 ## Related
 
-- [[sbi-hd]] · [[aozora-bank]] · [[mizuho-fg]] · [[mufg]] · [[smfg]] · [[ndfg]]
+- [[megabanks/sbi-hd]] · [[regional-banks/aozora-bank]] · [[megabanks/mizuho-fg]] · [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/ndfg]]
 
 ## Sources
 

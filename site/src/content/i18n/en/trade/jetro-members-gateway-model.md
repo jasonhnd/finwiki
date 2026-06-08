@@ -26,7 +26,7 @@ Available after joining:
 
 Confirmed via METI's Trade Policy Bureau. If you respond with an intent to join, JETRO will introduce a point of contact. For resource-development projects, in addition to JETRO's market information, [[policy-finance/jogmec|JOGMEC]] is the primary party for equity / loan investment.
 
-The description in existing wiki [[jetro-organization-structure]] that it "has no member companies" is accurate as a legal fact, but it should be supplemented that, as a practical proposal channel, joining Members is a prerequisite. Note that export-credit terms are governed by the OECD system ([[policy-finance/oecd-export-credit-arrangement|OECD Export Credit Arrangement]]), and JETRO's sales-channel support is combined with NEXI insurance / JBIC financing within that framework.
+The description in existing wiki [[trade/jetro-organization-structure]] that it "has no member companies" is accurate as a legal fact, but it should be supplemented that, as a practical proposal channel, joining Members is a prerequisite. Note that export-credit terms are governed by the OECD system ([[policy-finance/oecd-export-credit-arrangement|OECD Export Credit Arrangement]]), and JETRO's sales-channel support is combined with NEXI insurance / JBIC financing within that framework.
 
 Reference: https://www.jetro.go.jp/members/
 Source: compilation of public information (JETRO official Members guide https://www.jetro.go.jp/members/, METI Trade Policy Bureau published materials, JETRO J-StarX program disclosure)

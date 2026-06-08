@@ -12,7 +12,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## 推論 (from TL;DR)
 
-信用組合愛知商銀は、愛知県名古屋市中村区亀島に本店を置く **在日韓国・朝鮮人系の事業者を母体とする民族系信用組合**。FSA registry No. 82 (東海財務局所管)、法人番号 1180005003442。中京 (愛知・岐阜・三重) 地区の **商銀系民族信組**の代表行で、[[JapanFG/osaka-shogin-shinkumi|大阪商銀信用組合]] (関西)・東京商銀信用組合 (関東) と並ぶ **商銀系三大代表**の一翼 ^[inferred]。[[JapanFG/zenshin-kumi|全国信用協同組合連合会 (全信組連)]] 会員、[[JapanFG/dic|預金保険機構]] 対象。組合員資格は **業域 (商工業) + 民族コミュニティ**の二重構造、名古屋・愛知県内 SME 融資・住宅ローン・跨境送金・コミュニティ金融が事業の中核。^[extracted]
+信用組合愛知商銀は、愛知県名古屋市中村区亀島に本店を置く **在日韓国・朝鮮人系の事業者を母体とする民族系信用組合**。FSA registry No. 82 (東海財務局所管)、法人番号 1180005003442。中京 (愛知・岐阜・三重) 地区の **商銀系民族信組**の代表行で、[[cooperative-banks/osaka-shogin-shinkumi|大阪商銀信用組合]] (関西)・東京商銀信用組合 (関東) と並ぶ **商銀系三大代表**の一翼 ^[inferred]。[[cooperative-banks/zenshin-kumi|全国信用協同組合連合会 (全信組連)]] 会員、[[financial-regulators/dic|預金保険機構]] 対象。組合員資格は **業域 (商工業) + 民族コミュニティ**の二重構造、名古屋・愛知県内 SME 融資・住宅ローン・跨境送金・コミュニティ金融が事業の中核。^[extracted]
 
 ## 推論 (from 営業地区 ^[inferred])
 
@@ -30,7 +30,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 ## Counterpoints
 
 - **民族系信組の存在意義論争**: 在日コミュニティの世代交代 + 一般日系金融機関のサービス充実で **民族系信組固有需要が縮小**するリスク vs **コミュニティ密着** の独自価値 ^[ambiguous]
-- **中京 SME 競合過密**: [[JapanFG/mufg|三菱UFJ銀行]] (旧東海銀行ホームマーケット)・[[JapanFG/smbc|SMBC]]・[[JapanFG/mizuho-fg|みずほ]]・[[JapanFG/aichi-bank|愛知銀行]]・[[JapanFG/nagoya-bank|名古屋銀行]] + 名古屋圏信金との直接競合で **規模デメリット** ^[inferred]
+- **中京 SME 競合過密**: [[megabanks/mufg|三菱UFJ銀行]] (旧東海銀行ホームマーケット)・[[megabanks/smbc|SMBC]]・[[megabanks/mizuho-fg|みずほ]]・[[regional-banks/aichi-bank|愛知銀行]]・[[regional-banks/nagoya-bank|名古屋銀行]] + 名古屋圏信金との直接競合で **規模デメリット** ^[inferred]
 - **2002〜2003 信組危機の長期影響**: 不良債権処理を経た再編体制ゆえ **慎重な経営姿勢** が成長機会の制約 ^[inferred]
 - **跨境送金規制対応コスト**: 民族系信組固有の韓国向け送金需要が AML/CFT 規制対応コストを増大、小規模信組には負担大 ^[inferred]
 
@@ -58,7 +58,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 |---|---|
 | **関東** | 東京商銀信用組合 (登記名は別途確認要) |
 | **中京** | **信用組合愛知商銀** ★本ページ |
-| **関西** | [[JapanFG/osaka-shogin-shinkumi|大阪商銀信用組合]] |
+| **関西** | [[cooperative-banks/osaka-shogin-shinkumi|大阪商銀信用組合]] |
 | **中国** | 信用組合広島商銀 (FSA registry No. 120) |
 | **四国** | 宿毛商銀信用組合 (FSA registry No. 125) |
 
@@ -68,6 +68,6 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 組合員 (在日商工人世帯 + 関連事業者)
   → 預金 → 信用組合愛知商銀
               → 名古屋・愛知 SME 融資 + 住宅ローン
-              → 余資預け入れ → [[JapanFG/zenshin-kumi|全信組連]]
+              → 余資預け入れ → [[cooperative-banks/zenshin-kumi|全信組連]]
                                   → 機関投資 + 系統還元
 ```

@@ -23,13 +23,13 @@ translated_at: 2026-06-01T02:31:57.169Z
 |---|---|
 | Legal name | 株式会社大光银行 |
 | License route | Banking Act second regional bank; FSA bank license list |
-| Group boundary | 独立第二地方银行；SBI alliance context 应与 [[sbi-regional-bank-hd]] 一起阅读 |
+| Group boundary | 独立第二地方银行；SBI alliance context 应与 [[megabanks/sbi-regional-bank-hd]] 一起阅读 |
 | Home market | Niigata / Nagaoka |
 | Wiki role | Niigata second-regional-bank operating-company page |
 
 ## 2. Operating model
 
-大光银行是以新潟县长冈市为总部的 second regional bank，承担 retail deposits、SME finance、local consulting、leasing / card-adjacent group services 和 regional development support。[[sbi-regional-bank-hd]] 页面可能提及联盟语境，但银行牌照和经营足迹放在本页。新潟区域银行同业参见 [[daishi-hokuetsu-bank]] 和 [[dai-shi-hokuetsu-fg]]。
+大光银行是以新潟县长冈市为总部的 second regional bank，承担 retail deposits、SME finance、local consulting、leasing / card-adjacent group services 和 regional development support。[[megabanks/sbi-regional-bank-hd]] 页面可能提及联盟语境，但银行牌照和经营足迹放在本页。新潟区域银行同业参见 [[regional-banks/daishi-hokuetsu-bank]] 和 [[regional-banks/dai-shi-hokuetsu-fg]]。
 
 ## 3. Why this page matters
 
@@ -39,7 +39,7 @@ translated_at: 2026-06-01T02:31:57.169Z
 
 ## Related
 
-- [[sbi-regional-bank-hd]]
+- [[megabanks/sbi-regional-bank-hd]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 

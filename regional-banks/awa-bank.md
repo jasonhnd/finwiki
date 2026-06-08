@@ -49,17 +49,17 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 ## 4. Why this page matters
 
 - Closes the FSA exact-name operating-company gap for 阿波銀行.
-- Separates Tokushima first-regional-bank coverage from [[tomony-hd]] / [[tokushima-taisho-bank]].
+- Separates Tokushima first-regional-bank coverage from [[regional-banks/tomony-hd]] / [[regional-banks/tokushima-taisho-bank]].
 - Provides a Shikoku peer anchor for regional-bank consolidation and second-regional-bank comparisons.
 
 ## Related
 
 - [[regional-banks/INDEX|regional-banks INDEX]]
-- [[tokushima-taisho-bank]]
-- [[tomony-hd]]
-- [[hyakujushi-bank]]
-- [[iyo-bank]]
-- [[shikoku-bank]]
+- [[regional-banks/tokushima-taisho-bank]]
+- [[regional-banks/tomony-hd]]
+- [[regional-banks/hyakujushi-bank]]
+- [[regional-banks/iyo-bank]]
+- [[regional-banks/shikoku-bank]]
 - [[financial-regulators/fsa|FSA]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]

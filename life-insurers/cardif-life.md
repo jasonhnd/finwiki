@@ -24,7 +24,7 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it along
 
 ## TL;DR
 
-カーディフ生命保険株式会社は、金融庁の life-insurer list と生命保険協会会員一覧に載る foreign-affiliated Japan life insurer。[[bnp-paribas-japan]] と同じ BNP Paribas / Cardif adjacency で見るが、FinWiki では bank / securities page ではなく、credit protection and bancassurance-oriented life-insurance operating company として扱う。
+カーディフ生命保険株式会社は、金融庁の life-insurer list と生命保険協会会員一覧に載る foreign-affiliated Japan life insurer。[[foreign-financial-institutions/bnp-paribas-japan]] と同じ BNP Paribas / Cardif adjacency で見るが、FinWiki では bank / securities page ではなく、credit protection and bancassurance-oriented life-insurance operating company として扱う。
 
 ## 1. License / group boundary
 
@@ -33,7 +33,7 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it along
 | Legal name | カーディフ生命保険株式会社 |
 | License route | Insurance Business Act life-insurance company; FSA life insurer list |
 | Industry body | Life Insurance Association of Japan member |
-| Group adjacency | BNP Paribas Cardif / [[bnp-paribas-japan]] |
+| Group adjacency | BNP Paribas Cardif / [[foreign-financial-institutions/bnp-paribas-japan]] |
 | Wiki role | Foreign-affiliated life insurer with bancassurance / creditor-insurance relevance |
 
 ## 2. Operating model
@@ -48,10 +48,10 @@ Cardif's Japan life-insurance surface is useful for mortgage / loan protection, 
 
 ## Related
 
-- [[bnp-paribas-japan]]
+- [[foreign-financial-institutions/bnp-paribas-japan]]
 - [[insurance/life-insurance-channel-mix]]
-- [[dai-ichi-frontier-life]]
-- [[td-financial-life]]
+- [[life-insurers/dai-ichi-frontier-life]]
+- [[life-insurers/td-financial-life]]
 
 ## Sources
 

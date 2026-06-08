@@ -16,7 +16,7 @@ This entry sits under [[megabanks/INDEX|megabanks INDEX]]. Read it against [[meg
 
 ## TL;DR
 
-**A regional-bank integration platform holding company under [[sbi-hd]].** As a legal entity, it was **established in 2015-08-25 as "ER6  Inc."**, renamed "SBI Bank Holdings Co., Ltd." in 2019-07-05, and **renamed again in 2020-05-01 to the current trade name, SBI Regional Bank Holdings, Inc.**, repurposing it as the execution vehicle for regional-bank integration (authorization as a bank holding company came in 2022-10-07). It is the core corporation behind the "**No. 4  Megabank Concept**" proposed by Yoshitaka Kitao in 2020 , and oversees capital / business alliances, management support, and system sharing for SBI-affiliated regional banks (partner regional banks). It holds [[sbi-shinsei-bank]] (made a wholly owned subsidiary in 2023-09 ) as its commercial-bank core, and has capital alliances with more than 10 行 medium-sized regional banks and related institutions including Chikuho Bank, Shimizu Bank, Daito Bank, Fukushima Bank, [[shimane-bank|島根銀行]], and Dai-Ichi Kangyo Credit Cooperative. The intended model is a "**loose federation model**" that shares SBI Group resources such as SBI Securities, crypto assets, and asset-management products through the regional-bank network. ^[extracted]
+**A regional-bank integration platform holding company under [[megabanks/sbi-hd]].** As a legal entity, it was **established in 2015-08-25 as "ER6  Inc."**, renamed "SBI Bank Holdings Co., Ltd." in 2019-07-05, and **renamed again in 2020-05-01 to the current trade name, SBI Regional Bank Holdings, Inc.**, repurposing it as the execution vehicle for regional-bank integration (authorization as a bank holding company came in 2022-10-07). It is the core corporation behind the "**No. 4  Megabank Concept**" proposed by Yoshitaka Kitao in 2020 , and oversees capital / business alliances, management support, and system sharing for SBI-affiliated regional banks (partner regional banks). It holds [[regional-banks/sbi-shinsei-bank]] (made a wholly owned subsidiary in 2023-09 ) as its commercial-bank core, and has capital alliances with more than 10 行 medium-sized regional banks and related institutions including Chikuho Bank, Shimizu Bank, Daito Bank, Fukushima Bank, [[regional-banks/shimane-bank|島根銀行]], and Dai-Ichi Kangyo Credit Cooperative. The intended model is a "**loose federation model**" that shares SBI Group resources such as SBI Securities, crypto assets, and asset-management products through the regional-bank network. ^[extracted]
 
 ## 1. Company overview
 
@@ -25,7 +25,7 @@ This entry sits under [[megabanks/INDEX|megabanks INDEX]]. Read it against [[meg
 **Established**: 2015-08-25 (established as "ER6  Inc.") ^[extracted]
 **Trade-name changes**: 2019-07-05 "SBI Bank Holdings Co., Ltd." -> 2020-05-01 "SBI Regional Bank Holdings, Inc." ^[extracted]
 **Bank holding company authorization**: 2022-10-07 (FSA)
-**Parent company**: [[sbi-hd]] (consolidated subsidiary, TSE PRIME 8473) ^[extracted]
+**Parent company**: [[megabanks/sbi-hd]] (consolidated subsidiary, TSE PRIME 8473) ^[extracted]
 **Business type**: Regional-bank integration platform holding company (a supervising company, not a bank)
 **Positioning**: Execution vehicle for SBI HD's "No. 4  Megabank Concept" (proposed in 2020 )
 **Head office / capital**: 6 -1 号 Roppongi 1-chome, Minato-ku, Tokyo / capital 1 億円
@@ -35,17 +35,17 @@ This entry sits under [[megabanks/INDEX|megabanks INDEX]]. Read it against [[meg
 ```
 SBI HD (TSE PRIME 8473, Yoshitaka Kitao Chairman and CEO)
   └── SBI Regional Bank Holdings (regional-bank integration platform)
-        ├── SBI Shinsei Bank (100%) ★commercial-bank core -- [[sbi-shinsei-bank]]
+        ├── SBI Shinsei Bank (100%) ★commercial-bank core -- [[regional-banks/sbi-shinsei-bank]]
         ├── Capital / business alliance partner regional banks (investment ratio varies greatly by bank, from several % to around 34%)
         │     ├── Chikuho Bank (Fukuoka)
         │     ├── Shimizu Bank (Shizuoka)
         │     ├── Daito Bank (Fukushima)
         │     ├── Fukushima Bank (Fukushima)
-        │     ├── [[shimane-bank|島根銀行]] (Shimane)
-        │     ├── Sendai Bank (under [[jimoto-hd]], Miyagi)
+        │     ├── [[regional-banks/shimane-bank|島根銀行]] (Shimane)
+        │     ├── Sendai Bank (under [[regional-banks/jimoto-hd]], Miyagi)
         │     ├── Tsukuba Bank (Ibaraki)
         │     ├── Towa Bank (Gunma)
-        │     ├── Kirayaka Bank (under [[jimoto-hd]], Yamagata)
+        │     ├── Kirayaka Bank (under [[regional-banks/jimoto-hd]], Yamagata)
         │     └── Dai-Ichi Kangyo Credit Cooperative (Tokyo), etc.
         └── Common functions for regional banks (DX, asset-management products, crypto assets, securities resources)
 ```
@@ -59,7 +59,7 @@ SBI HD had been making individual investments in regional banks since the late 2
 | Function | Content |
 |---|---|
 | Partner regional-bank supervision | Management support, director dispatch, and strategic advice for 10 行 or more capital / business alliance partners |
-| Commercial-bank core | [[sbi-shinsei-bank]] (former Shinsei Bank, made wholly owned in 2023-09 ) |
+| Commercial-bank core | [[regional-banks/sbi-shinsei-bank]] (former Shinsei Bank, made wholly owned in 2023-09 ) |
 | Regional-bank DX sharing | Shared system investment and cost sharing |
 | Asset-management product supply | Distribution of SBI Securities and SBI Asset Management products through regional-bank counters |
 | Crypto assets / new domains | Functions such as SBI VC Trade supplied to regional-bank customers |
@@ -67,12 +67,12 @@ SBI HD had been making individual investments in regional banks since the late 2
 
 ### Partner regional-bank network (major, in investment order) ^[extracted]
 
-- **[[shimane-bank|島根銀行]]** (investment in 2019-09 , about 34%) -- early case before the No. 4  Megabank Concept
+- **[[regional-banks/shimane-bank|島根銀行]]** (investment in 2019-09 , about 34%) -- early case before the No. 4  Megabank Concept
 - **Fukushima Bank** (investment in 2019-11 )
 - **Chikuho Bank** (investment in 2020-03 )
 - **Shimizu Bank** (business alliance in 2020-09 )
 - **Towa Bank** (business alliance in 2020-11 )
-- **Jimoto Holdings [[jimoto-hd]]** (2021, parent of Sendai Bank and Kirayaka Bank)
+- **Jimoto Holdings [[regional-banks/jimoto-hd]]** (2021, parent of Sendai Bank and Kirayaka Bank)
 - **Daito Bank** (2021, Fukushima)
 - **Tsukuba Bank** (2021, Ibaraki)
 - **Dai-Ichi Kangyo Credit Cooperative** (2021, Tokyo)
@@ -83,7 +83,7 @@ SBI HD had been making individual investments in regional banks since the late 2
 ### Prehistory of the concept (late 2010 年s)
 
 - **Yoshitaka Kitao** (SBI HD Chairman and CEO) recognized regional-bank management difficulty, population decline, and low profitability as an opportunity
-- 2019-09 : invested about 34% in **[[shimane-bank|島根銀行]]** -- the 第 1 号 of regional-bank capital alliances
+- 2019-09 : invested about 34% in **[[regional-banks/shimane-bank|島根銀行]]** -- the 第 1 号 of regional-bank capital alliances
 - 2019-11 : invested in **Fukushima Bank**
 - 2020-03 : invested in **Chikuho Bank**
 
@@ -99,7 +99,7 @@ SBI HD had been making individual investments in regional banks since the late 2
 | **2022-10-07** | FSA authorized it as a **bank holding company** ^[extracted] |
 | **2021-09** | **Tender offer for former Shinsei Bank launched** (led by SBI HD) |
 | 2021-12  | Former Shinsei Bank tender offer completed; SBI HD became largest shareholder |
-| **2023-09-25** | **Former Shinsei Bank made wholly owned and delisted**, renamed SBI Shinsei Bank -> positioned as the commercial-bank core [[sbi-shinsei-bank]] |
+| **2023-09-25** | **Former Shinsei Bank made wholly owned and delisted**, renamed SBI Shinsei Bank -> positioned as the commercial-bank core [[regional-banks/sbi-shinsei-bank]] |
 | 2024  | SBI HD medium-term management plan continued the policy of expanding the regional-bank consortium |
 
 ### Significance of the former Shinsei Bank tender offer
@@ -118,10 +118,10 @@ SBI HD had been making individual investments in regional banks since the late 2
 
 | Competitor | Positioning |
 |---|---|
-| [[ndfg]] | Eastern Japan alliance (Chiba Bank / Musashino Bank) and **TSUBASA Alliance** (led by [[chiba-bank]]) |
-| [[fukuoka-fg]] | Kyushu base and earlier regional-bank integration example (former Shinwa Bank / Juhachi Bank integration) |
-| [[concordia-fg]] | Former regional-bank integrated FG of Bank of Yokohama / Higashi-Nippon Bank |
-| 3  megabanks ([[mufg]] / [[smfg]] / [[mizuho-fg]]) | Large domestic corporate focus; regional-bank territory is outside direct competition |
+| [[megabanks/ndfg]] | Eastern Japan alliance (Chiba Bank / Musashino Bank) and **TSUBASA Alliance** (led by [[regional-banks/chiba-bank]]) |
+| [[regional-banks/fukuoka-fg]] | Kyushu base and earlier regional-bank integration example (former Shinwa Bank / Juhachi Bank integration) |
+| [[regional-banks/concordia-fg]] | Former regional-bank integrated FG of Bank of Yokohama / Higashi-Nippon Bank |
+| 3  megabanks ([[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]]) | Large domestic corporate focus; regional-bank territory is outside direct competition |
 | **TSUBASA Alliance** | System-sharing alliance of 10 行 or more regional banks including Chiba Bank, Hokuyo Bank, and Iyo Bank (counter-alliance among regional banks) |
 
 ### Core functions and aims
@@ -133,7 +133,7 @@ SBI HD had been making individual investments in regional banks since the late 2
 
 ### Commercial-bank core = SBI Shinsei Bank
 
-- Uses former Shinsei Bank as a kind of "**central bank of the regional-bank HD**" [[sbi-shinsei-bank]]
+- Uses former Shinsei Bank as a kind of "**central bank of the regional-bank HD**" [[regional-banks/sbi-shinsei-bank]]
 - Opens functions such as APLUS (credit cards), Showa Leasing, and Shinsei Financial (consumer finance) to the regional-bank network
 
 ## 5. Regulation / policy
@@ -144,9 +144,9 @@ SBI HD had been making individual investments in regional banks since the late 2
 
 ## Related
 
-- [[sbi-hd]] · [[sbi-shinsei-bank]] · [[jimoto-hd]]
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[ndfg]]
-- [[fukuoka-fg]] · [[concordia-fg]] · [[chiba-bank]]
+- [[megabanks/sbi-hd]] · [[regional-banks/sbi-shinsei-bank]] · [[regional-banks/jimoto-hd]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[megabanks/ndfg]]
+- [[regional-banks/fukuoka-fg]] · [[regional-banks/concordia-fg]] · [[regional-banks/chiba-bank]]
 
 ## Sources
 

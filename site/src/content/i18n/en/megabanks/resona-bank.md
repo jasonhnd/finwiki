@@ -31,7 +31,7 @@ Resona Bank is the core banking legal entity of [[megabanks/resona-hd|りそな 
 ## 2. Business role
 
 - The largest bank entity in the Resona Group, handling retail / SME / corporate banking centered on Osaka and Tokyo.
-- The center of the group banking network alongside [[megabanks/saitama-resona-bank|埼玉りそな銀行]], [[kansai-mirai-bank|関西みらい銀行]], and [[minato-bank|みなと銀行]].
+- The center of the group banking network alongside [[megabanks/saitama-resona-bank|埼玉りそな銀行]], [[regional-banks/kansai-mirai-bank|関西みらい銀行]], and [[regional-banks/minato-bank|みなと銀行]].
 - It has less overseas investment-banking color than the megabank 3 行, while being strong in domestic retail / SME / trust-adjacent services.
 
 ## 3. Why standalone page matters

@@ -49,44 +49,40 @@
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 13,
+    "wikilinks_count": 11,
     "wikilinks": [
       "INDEX",
-      "awa-bank",
       "banking/INDEX",
       "banking/regional-bank-consolidation-pattern",
       "financial-regulators/fsa",
       "financial-regulators/zenginkyo",
-      "hyakujushi-bank",
-      "iyo-bank",
-      "iyogin-hd",
       "regional-banks/INDEX",
+      "regional-banks/awa-bank",
+      "regional-banks/hyakujushi-bank",
       "regional-banks/iyo-bank",
       "regional-banks/iyogin-hd",
-      "shikoku-bank"
+      "regional-banks/shikoku-bank"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/awa-bank",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
       "https://finwiki.zksc.io/financial-regulators/fsa",
       "https://finwiki.zksc.io/financial-regulators/zenginkyo",
-      "https://finwiki.zksc.io/hyakujushi-bank",
-      "https://finwiki.zksc.io/iyo-bank",
-      "https://finwiki.zksc.io/iyogin-hd",
       "https://finwiki.zksc.io/regional-banks/INDEX",
+      "https://finwiki.zksc.io/regional-banks/awa-bank",
+      "https://finwiki.zksc.io/regional-banks/hyakujushi-bank",
       "https://finwiki.zksc.io/regional-banks/iyo-bank",
       "https://finwiki.zksc.io/regional-banks/iyogin-hd",
-      "https://finwiki.zksc.io/shikoku-bank"
+      "https://finwiki.zksc.io/regional-banks/shikoku-bank"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2498,
-    "word_like_tokens": 359,
-    "inbound_wikilinks_count": 4,
-    "last_modified": "2026-06-05"
+    "nonspace_chars": 2603,
+    "word_like_tokens": 373,
+    "inbound_wikilinks_count": 6,
+    "last_modified": "2026-06-08"
   }
 }

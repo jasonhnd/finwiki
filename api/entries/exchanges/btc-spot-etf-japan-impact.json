@@ -46,40 +46,38 @@
     "関連"
   ],
   "body_links": {
-    "wikilinks_count": 11,
+    "wikilinks_count": 10,
     "wikilinks": [
       "exchanges/INDEX",
       "exchanges/fsa-vasp-registration-system",
       "exchanges/global-cex-prime-brokerage-layer",
       "exchanges/global-institutional-custody-five-pillars",
+      "exchanges/jp-cex-sales-vs-exchange-model-economics",
       "exchanges/jp-institutional-custody-three-pillars",
-      "exchanges/rwa-tokenization-cex-integration",
-      "global-institutional-custody-five-pillars",
-      "jp-cex-sales-vs-exchange-model-economics",
-      "jp-listed-cex-related-companies-matrix",
-      "jp-vasp-regulatory-timeline",
-      "jvcea-spot-volume-statistics-analysis"
+      "exchanges/jp-listed-cex-related-companies-matrix",
+      "exchanges/jp-vasp-regulatory-timeline",
+      "exchanges/jvcea-spot-volume-statistics-analysis",
+      "exchanges/rwa-tokenization-cex-integration"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/exchanges/INDEX",
       "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
       "https://finwiki.zksc.io/exchanges/global-cex-prime-brokerage-layer",
       "https://finwiki.zksc.io/exchanges/global-institutional-custody-five-pillars",
+      "https://finwiki.zksc.io/exchanges/jp-cex-sales-vs-exchange-model-economics",
       "https://finwiki.zksc.io/exchanges/jp-institutional-custody-three-pillars",
-      "https://finwiki.zksc.io/exchanges/rwa-tokenization-cex-integration",
-      "https://finwiki.zksc.io/global-institutional-custody-five-pillars",
-      "https://finwiki.zksc.io/jp-cex-sales-vs-exchange-model-economics",
-      "https://finwiki.zksc.io/jp-listed-cex-related-companies-matrix",
-      "https://finwiki.zksc.io/jp-vasp-regulatory-timeline",
-      "https://finwiki.zksc.io/jvcea-spot-volume-statistics-analysis"
+      "https://finwiki.zksc.io/exchanges/jp-listed-cex-related-companies-matrix",
+      "https://finwiki.zksc.io/exchanges/jp-vasp-regulatory-timeline",
+      "https://finwiki.zksc.io/exchanges/jvcea-spot-volume-statistics-analysis",
+      "https://finwiki.zksc.io/exchanges/rwa-tokenization-cex-integration"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2639,
-    "word_like_tokens": 461,
+    "nonspace_chars": 2689,
+    "word_like_tokens": 466,
     "inbound_wikilinks_count": 8,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-06-08"
   }
 }

@@ -50,38 +50,36 @@
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 10,
+    "wikilinks_count": 9,
     "wikilinks": [
       "insurance/INDEX",
+      "life-insurers/sbi-life",
+      "megabanks/sbi-hd",
       "non-life-insurers/INDEX",
+      "non-life-insurers/sbi-insurance-group",
+      "non-life-insurers/sompo-direct",
       "non-life-insurers/sony-insurance",
-      "sbi-hd",
-      "sbi-insurance-group",
-      "sbi-life",
-      "sbi-securities",
-      "sompo-direct",
-      "sony-insurance",
-      "tokio-marine-direct"
+      "non-life-insurers/tokio-marine-direct",
+      "securities-firms/sbi-securities"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/insurance/INDEX",
+      "https://finwiki.zksc.io/life-insurers/sbi-life",
+      "https://finwiki.zksc.io/megabanks/sbi-hd",
       "https://finwiki.zksc.io/non-life-insurers/INDEX",
+      "https://finwiki.zksc.io/non-life-insurers/sbi-insurance-group",
+      "https://finwiki.zksc.io/non-life-insurers/sompo-direct",
       "https://finwiki.zksc.io/non-life-insurers/sony-insurance",
-      "https://finwiki.zksc.io/sbi-hd",
-      "https://finwiki.zksc.io/sbi-insurance-group",
-      "https://finwiki.zksc.io/sbi-life",
-      "https://finwiki.zksc.io/sbi-securities",
-      "https://finwiki.zksc.io/sompo-direct",
-      "https://finwiki.zksc.io/sony-insurance",
-      "https://finwiki.zksc.io/tokio-marine-direct"
+      "https://finwiki.zksc.io/non-life-insurers/tokio-marine-direct",
+      "https://finwiki.zksc.io/securities-firms/sbi-securities"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2047,
-    "word_like_tokens": 329,
-    "inbound_wikilinks_count": 7,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 2248,
+    "word_like_tokens": 359,
+    "inbound_wikilinks_count": 8,
+    "last_modified": "2026-06-08"
   }
 }

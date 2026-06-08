@@ -73,7 +73,7 @@ Japan's first full-scale **BNPL (Buy Now Pay Later)** provider. Established in 2
 
 | Competitor | Parent group | Position |
 |---|---|---|
-| **Merpay deferred payment** | [[mercari-hd]] | BNPL inside the flea-market app; strong Mercari ecosystem |
+| **Merpay deferred payment** | [[payment-firms/mercari-hd]] | BNPL inside the flea-market app; strong Mercari ecosystem |
 | **atone** | Net Protections HD (TSE PRIME 7383) | Long-established e-commerce deferred payment; focused on mid-sized e-commerce merchants |
 | **NP deferred payment** | Net Protections HD | Largest BtoC deferred payment player (invoice-enclosed model) |
 | **Kuroneko deferred payment** | Yamato HD | Delivery-linked e-commerce deferred payment |
@@ -90,7 +90,7 @@ Japan's first full-scale **BNPL (Buy Now Pay Later)** provider. Established in 2
 - **Amazon Japan official BNPL**: Largest customer-acquisition channel; permanently available as Amazon's "deferred payment" option
 - **SHEIN / cross-border e-commerce**: Fashion e-commerce for Gen Z
 - **Apple Store**: Spread among younger users as installment purchase option for iPhone / Mac
-- **Mercari**: Flea-market + BNPL cross-over (note: Mercari itself also operates Merpay deferred payment inside [[mercari-hd]], making it both competitor and merchant)
+- **Mercari**: Flea-market + BNPL cross-over (note: Mercari itself also operates Merpay deferred payment inside [[payment-firms/mercari-hd]], making it both competitor and merchant)
 
 ## 4. Regulation / Policy
 
@@ -100,7 +100,7 @@ Japan's first full-scale **BNPL (Buy Now Pay Later)** provider. Established in 2
 
 ## Related
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[mercari-hd]] · [[paypay-fg]] · [[sbi-hd]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[payment-firms/mercari-hd]] · [[megabanks/paypay-fg]] · [[megabanks/sbi-hd]]
 - [[payment-firms/bnpl-landscape]] · [[card-issuers/installment-sales-act-2020-amendment|JapanFG/割賦販売法-2020-改正]]
 
 ## Sources

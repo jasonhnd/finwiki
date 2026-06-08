@@ -29,7 +29,7 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 
 ## TL;DR
 
-ソニー損害保険株式会社は、[[sony-fg]] group の direct non-life insurance operating company。金融庁の損害保険会社免許一覧と損害保険契約者保護機構会員一覧に掲載される licensed insurer で、direct auto insurance / online insurance model の代表例。
+ソニー損害保険株式会社は、[[megabanks/sony-fg]] group の direct non-life insurance operating company。金融庁の損害保険会社免許一覧と損害保険契約者保護機構会員一覧に掲載される licensed insurer で、direct auto insurance / online insurance model の代表例。
 
 ## 1. License / group boundary
 
@@ -39,23 +39,23 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 | English name | Sony Assurance Inc. |
 | License route | Insurance Business Act non-life insurance company; FSA non-life insurer list |
 | Protection scheme | Non-Life Insurance Policyholders Protection Corporation member |
-| Group boundary | [[sony-fg]] direct non-life operating company |
+| Group boundary | [[megabanks/sony-fg]] direct non-life operating company |
 
 ## 2. Operating model
 
-ソニー損保は、代理店主体の大手損保とは異なり、direct channel, call center, web / app quotation, direct auto insurance branding を軸に成長した insurer。[[sony-life]] and [[sony-bank]] と合わせて、Sony Financial Group の consumer finance / insurance ecosystem を構成する。
+ソニー損保は、代理店主体の大手損保とは異なり、direct channel, call center, web / app quotation, direct auto insurance branding を軸に成長した insurer。[[life-insurers/sony-life]] and [[banking/sony-bank]] と合わせて、Sony Financial Group の consumer finance / insurance ecosystem を構成する。
 
 ## 3. Why this page matters
 
 - Anchor for direct auto insurance comparison.
-- Separates [[sony-fg]] holding-company strategy from non-life underwriting.
+- Separates [[megabanks/sony-fg]] holding-company strategy from non-life underwriting.
 - Registry-backed D4 direct / digital non-life page.
 
 ## Related
 
-- [[sony-fg]]
-- [[sony-life]]
-- [[sony-bank]]
+- [[megabanks/sony-fg]]
+- [[life-insurers/sony-life]]
+- [[banking/sony-bank]]
 - [[insurance/saison-automobile-fire]]
 - [[insurance/INDEX]]
 

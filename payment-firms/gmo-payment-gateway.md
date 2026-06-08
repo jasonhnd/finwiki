@@ -26,7 +26,7 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it again
 
 ## TL;DR
 
-国内最大級の決済代行 (PSP, Payment Service Provider)。EC 加盟店向けに Visa/Master/JCB/Amex 等のカード決済 + コンビニ決済 + 銀行振込 + 電子マネーをワンストップ提供。1995-03-25 「株式会社カードコマース」として設立、2000 改称、2005 東証マザーズ、2008 東証一部上場 (現 PRIME 3769)。GMO インターネットグループ連結子会社。三井住友カード ([[smfg]] 系) との戦略提携・アジア (ベトナム NextPay / 台湾 ECPay 等) 展開が中計の柱。^[extracted]
+国内最大級の決済代行 (PSP, Payment Service Provider)。EC 加盟店向けに Visa/Master/JCB/Amex 等のカード決済 + コンビニ決済 + 銀行振込 + 電子マネーをワンストップ提供。1995-03-25 「株式会社カードコマース」として設立、2000 改称、2005 東証マザーズ、2008 東証一部上場 (現 PRIME 3769)。GMO インターネットグループ連結子会社。三井住友カード ([[megabanks/smfg]] 系) との戦略提携・アジア (ベトナム NextPay / 台湾 ECPay 等) 展開が中計の柱。^[extracted]
 
 ## 1. 会社概要
 
@@ -63,7 +63,7 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it again
 ### 国内戦略
 
 - **EC 加盟店ベース**:稼働店舗 171,257 店（2026-03 末、fincode byGMO 等を含むと 829,062 店）の加盟店ネットワークが堀
-- **三井住友カード 戦略提携**:[[smfg]] 系のカード会社との関係深化、SMBC GMO PAYMENT（SMBC との合弁、2015 設立。2021 に三井住友カード 50% / GMO-PG 40% / 三井住友銀行 10% へ再編）も展開
+- **三井住友カード 戦略提携**:[[megabanks/smfg]] 系のカード会社との関係深化、SMBC GMO PAYMENT（SMBC との合弁、2015 設立。2021 に三井住友カード 50% / GMO-PG 40% / 三井住友銀行 10% へ再編）も展開
 - **Pay.JP**:Stripe 対抗の開発者向け簡易決済 SDK
 
 ### 海外戦略
@@ -74,7 +74,7 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it again
 
 | 競合 | 強み | 立ち位置 |
 |---|---|---|
-| SB ペイメントサービス | [[paypay-fg]] / SoftBank グループ・PayPay 連携 | 国内最大級、QR 決済親和性 |
+| SB ペイメントサービス | [[megabanks/paypay-fg]] / SoftBank グループ・PayPay 連携 | 国内最大級、QR 決済親和性 |
 | DG Financial Technology (旧 ベリトランス) | デジタルガレージ系・古参 PSP | EC 老舗加盟店 |
 | SMBC GMO PAYMENT | SMBC × GMO-PG 合弁 | 銀行系チャネル |
 | Stripe / Adyen | グローバル開発者ファースト | クロスボーダー EC |
@@ -100,13 +100,13 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it again
 
 ## 8. Related
 
-- [[smfg]] (三井住友カード 提携・SMBC GMO PAYMENT 合弁親)
-- [[paypay-fg]] (SB ペイメントサービス 競合)
-- [[jcb]] (カード国際ブランド)
-- [[mufg]] (三菱 UFJ ニコス 経由カード業界)
-- [[money-forward]] · [[freee]] (会計 SaaS 連携)
-- [[paidy]] (後払い競合・補完)
-- [[mercari-hd]] (EC 顧客層)
+- [[megabanks/smfg]] (三井住友カード 提携・SMBC GMO PAYMENT 合弁親)
+- [[megabanks/paypay-fg]] (SB ペイメントサービス 競合)
+- [[card-issuers/jcb]] (カード国際ブランド)
+- [[megabanks/mufg]] (三菱 UFJ ニコス 経由カード業界)
+- [[payment-firms/money-forward]] · [[payment-firms/freee]] (会計 SaaS 連携)
+- [[payment-firms/paidy]] (後払い競合・補完)
+- [[payment-firms/mercari-hd]] (EC 顧客層)
 
 ## Sources
 

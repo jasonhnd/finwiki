@@ -51,32 +51,32 @@
   "body_links": {
     "wikilinks_count": 8,
     "wikilinks": [
-      "dai-ichi-frontier-life",
       "financial-licenses/INDEX",
-      "hanasaku-life",
       "insurance/INDEX",
       "insurance/life-insurance-channel-mix",
       "life-insurers/INDEX",
-      "nippon-life",
-      "td-financial-life"
+      "life-insurers/dai-ichi-frontier-life",
+      "life-insurers/hanasaku-life",
+      "life-insurers/nippon-life",
+      "life-insurers/td-financial-life"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/dai-ichi-frontier-life",
       "https://finwiki.zksc.io/financial-licenses/INDEX",
-      "https://finwiki.zksc.io/hanasaku-life",
       "https://finwiki.zksc.io/insurance/INDEX",
       "https://finwiki.zksc.io/insurance/life-insurance-channel-mix",
       "https://finwiki.zksc.io/life-insurers/INDEX",
-      "https://finwiki.zksc.io/nippon-life",
-      "https://finwiki.zksc.io/td-financial-life"
+      "https://finwiki.zksc.io/life-insurers/dai-ichi-frontier-life",
+      "https://finwiki.zksc.io/life-insurers/hanasaku-life",
+      "https://finwiki.zksc.io/life-insurers/nippon-life",
+      "https://finwiki.zksc.io/life-insurers/td-financial-life"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1938,
-    "word_like_tokens": 293,
-    "inbound_wikilinks_count": 3,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 2022,
+    "word_like_tokens": 305,
+    "inbound_wikilinks_count": 4,
+    "last_modified": "2026-06-08"
   }
 }

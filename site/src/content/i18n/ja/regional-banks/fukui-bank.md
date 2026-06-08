@@ -30,7 +30,7 @@ translated_at: 2026-06-02T14:25:12.384Z
 
 ## 2. 運営モデル
 
-福井銀行は、福井県を中心に個人預金、中小企業金融、地域法人との取引、北陸の製造業・サービス業支援、地域コンサルティングを担う地方銀行。北陸側では [[hokuhoku-fg]] および [[hokkoku-fhd]] と比較されるが、正式名称上の境界は独立した銀行エンティティである。北陸の地方銀行再編文脈は [[banking/regional-bank-consolidation-pattern]] を参照。
+福井銀行は、福井県を中心に個人預金、中小企業金融、地域法人との取引、北陸の製造業・サービス業支援、地域コンサルティングを担う地方銀行。北陸側では [[regional-banks/hokuhoku-fg]] および [[regional-banks/hokkoku-fhd]] と比較されるが、正式名称上の境界は独立した銀行エンティティである。北陸の地方銀行再編文脈は [[banking/regional-bank-consolidation-pattern]] を参照。
 
 ## 3. このページが重要な理由
 
@@ -40,10 +40,10 @@ translated_at: 2026-06-02T14:25:12.384Z
 
 ## 関連項目
 
-- [[hokuhoku-fg]]
-- [[hokkoku-fhd]]
-- [[daishi-hokuetsu-bank]]
-- [[tokai-tokyo-fh]]
+- [[regional-banks/hokuhoku-fg]]
+- [[regional-banks/hokkoku-fhd]]
+- [[regional-banks/daishi-hokuetsu-bank]]
+- [[securities-firms/tokai-tokyo-fh]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 

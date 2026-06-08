@@ -59,14 +59,14 @@
       "exchanges/fsa-vasp-registration-system",
       "exchanges/global-institutional-custody-five-pillars",
       "exchanges/jp-custody-ginco",
+      "exchanges/jp-custody-komainu",
+      "exchanges/jp-exchange-sbi-vc-trade",
       "exchanges/jp-institutional-custody-three-pillars",
       "exchanges/jp-vasp-cold-storage-segregation-rules",
       "fintech/japan-financial-regulation",
       "fintech/japan-stablecoin-regulatory-landscape",
       "fintech/jp-trust-type-sc-architecture",
-      "fintech/maina-wallet-kyc-permissionless-ux-bridge",
-      "jp-custody-komainu",
-      "jp-exchange-sbi-vc-trade"
+      "fintech/maina-wallet-kyc-permissionless-ux-bridge"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/agent-economy/embedded-wallet-network-effects-moat",
@@ -74,14 +74,14 @@
       "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
       "https://finwiki.zksc.io/exchanges/global-institutional-custody-five-pillars",
       "https://finwiki.zksc.io/exchanges/jp-custody-ginco",
+      "https://finwiki.zksc.io/exchanges/jp-custody-komainu",
+      "https://finwiki.zksc.io/exchanges/jp-exchange-sbi-vc-trade",
       "https://finwiki.zksc.io/exchanges/jp-institutional-custody-three-pillars",
       "https://finwiki.zksc.io/exchanges/jp-vasp-cold-storage-segregation-rules",
       "https://finwiki.zksc.io/fintech/japan-financial-regulation",
       "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
       "https://finwiki.zksc.io/fintech/jp-trust-type-sc-architecture",
-      "https://finwiki.zksc.io/fintech/maina-wallet-kyc-permissionless-ux-bridge",
-      "https://finwiki.zksc.io/jp-custody-komainu",
-      "https://finwiki.zksc.io/jp-exchange-sbi-vc-trade"
+      "https://finwiki.zksc.io/fintech/maina-wallet-kyc-permissionless-ux-bridge"
     ],
     "external_links_count": 8,
     "external_links": [
@@ -96,9 +96,9 @@
     ]
   },
   "metrics": {
-    "nonspace_chars": 6310,
-    "word_like_tokens": 1036,
+    "nonspace_chars": 6340,
+    "word_like_tokens": 1039,
     "inbound_wikilinks_count": 11,
-    "last_modified": "2026-05-24"
+    "last_modified": "2026-06-08"
   }
 }

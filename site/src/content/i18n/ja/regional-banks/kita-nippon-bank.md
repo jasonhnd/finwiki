@@ -17,7 +17,7 @@ translated_at: 2026-06-02T14:54:39.084Z
 
 ## 要約
 
-株式会社北日本銀行は、金融庁の銀行免許一覧に掲載される岩手県盛岡市本店の第二地方銀行。岩手県内の 地域銀行の整理面 では [[iwate-bank]]、[[tohoku-bank]] と並ぶ 免許を受けた銀行運営会社 として扱う。
+株式会社北日本銀行は、金融庁の銀行免許一覧に掲載される岩手県盛岡市本店の第二地方銀行。岩手県内の 地域銀行の整理面 では [[regional-banks/iwate-bank]]、[[regional-banks/tohoku-bank]] と並ぶ 免許を受けた銀行運営会社 として扱う。
 
 ## 1. ライセンス / グループ境界
 
@@ -31,7 +31,7 @@ translated_at: 2026-06-02T14:54:39.084Z
 
 ## 2. 運営モデル
 
-北日本銀行は、岩手県を中心に 個人預金、中小企業向け貸出、決済サービス、地域コンサルティング、資産形成支援 を提供する 第二地方銀行。県内の メインバンク競争 を見る時は、[[iwate-bank]]、[[tohoku-bank]]、信用金庫・信用組合と合わせて読む。
+北日本銀行は、岩手県を中心に 個人預金、中小企業向け貸出、決済サービス、地域コンサルティング、資産形成支援 を提供する 第二地方銀行。県内の メインバンク競争 を見る時は、[[regional-banks/iwate-bank]]、[[regional-banks/tohoku-bank]]、信用金庫・信用組合と合わせて読む。
 
 ## 3. このページが重要な理由
 
@@ -41,8 +41,8 @@ translated_at: 2026-06-02T14:54:39.084Z
 
 ## 関連項目
 
-- [[iwate-bank]]
-- [[tohoku-bank]]
+- [[regional-banks/iwate-bank]]
+- [[regional-banks/tohoku-bank]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 

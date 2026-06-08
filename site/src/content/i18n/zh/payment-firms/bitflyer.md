@@ -92,9 +92,9 @@ bitFlyer Holdings, Inc.（控股，非上市）
 |竞赛|关系 |
 |---|---|
 | [[exchanges/jp-exchange-bitbank|bitbank]] | BTC现货交易量争夺日本第一名
-| [[exchanges/jp-exchange-coincheck|coincheck]] | [[ndfg]]组下处理的山寨币数量和用户数量对比 |
-| [[gmo-coin]] | GMO互联网体系，衍生品强势|
-| [[exchanges/jp-exchange-sbi-vc-trade|sbi-vc-trade]] | [[sbi-hd]]型，机构投资者|
+| [[exchanges/jp-exchange-coincheck|coincheck]] | [[megabanks/ndfg]]组下处理的山寨币数量和用户数量对比 |
+| [[payment-firms/gmo-coin]] | GMO互联网体系，衍生品强势|
+| [[exchanges/jp-exchange-sbi-vc-trade|sbi-vc-trade]] | [[megabanks/sbi-hd]]型，机构投资者|
 | [[exchanges/jp-exchange-rakuten-wallet|rakuten-wallet]] |乐天经济区一体化的对面|
 | Binance Japan / OKJ等海外公司| 2023〜2024  与海外交易所变身国内法人的竞争加剧 |
 
@@ -119,12 +119,12 @@ bitFlyer Holdings, Inc.（控股，非上市）
 
 ### 行业地位
 - **JVCEA类型1**（类型1）=加密资产交易业务（现货/衍生品）
-- 業界自主規制策定への積極関与（[[exchanges/jp-exchange-bitbank|bitbank]] [[exchanges/jp-exchange-coincheck|coincheck]] [[gmo-coin]] と並ぶ主要 4 社）
+- 業界自主規制策定への積極関与（[[exchanges/jp-exchange-bitbank|bitbank]] [[exchanges/jp-exchange-coincheck|coincheck]] [[payment-firms/gmo-coin]] と並ぶ主要 4 社）
 
 ＃＃ 有关的
 
-- [[exchanges/jp-exchange-coincheck|coincheck]]·[[exchanges/jp-exchange-bitbank|bitbank]]·[[gmo-coin]]·[[exchanges/jp-exchange-sbi-vc-trade|sbi-vc-trade]]·[[exchanges/jp-exchange-rakuten-wallet|rakuten-wallet]]
-- [[ndfg]]·[[sbi-hd]]·[[mufg]]
+- [[exchanges/jp-exchange-coincheck|coincheck]]·[[exchanges/jp-exchange-bitbank|bitbank]]·[[payment-firms/gmo-coin]]·[[exchanges/jp-exchange-sbi-vc-trade|sbi-vc-trade]]·[[exchanges/jp-exchange-rakuten-wallet|rakuten-wallet]]
+- [[megabanks/ndfg]]·[[megabanks/sbi-hd]]·[[megabanks/mufg]]
 - [[systems/bitflyer-blockchain|bitFlyer Blockchain]]
 
 ## 来源

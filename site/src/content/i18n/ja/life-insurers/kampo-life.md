@@ -83,7 +83,7 @@ translated_at: 2026-06-02T14:54:39.070Z
 ### 旧簡易保険ブランドと郵便局網
 
 - **1916 創業の簡易保険ブランド**は地方・高齢者層への浸透が極めて深く、民営化後も**全国約 2 万郵便局網**をリテール基盤として活用 → 他社生保にはない物理的アクセス優位
-- 銀行窓販・ネット販売は他社（[[dai-ichi-life]] フロンティア生命等）と比べ後発
+- 銀行窓販・ネット販売は他社（[[life-insurers/dai-ichi-life]] フロンティア生命等）と比べ後発
 
 ### 商品多様化と民営化後制約
 
@@ -122,9 +122,9 @@ translated_at: 2026-06-02T14:54:39.070Z
 
 ## 関連項目
 
-- [[dai-ichi-life]] · [[nippon-life]] — 国内大手生保ピア
-- [[tokio-marine]] · [[msad]] · [[sompo]] — 大手損保（保険業界全体）
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] — メガバンク（金融庁監督ピア）
+- [[life-insurers/dai-ichi-life]] · [[life-insurers/nippon-life]] — 国内大手生保ピア
+- [[non-life-insurers/tokio-marine]] · [[non-life-insurers/msad]] · [[non-life-insurers/sompo]] — 大手損保（保険業界全体）
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] — メガバンク（金融庁監督ピア）
 
 ## 出典
 

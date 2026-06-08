@@ -15,7 +15,7 @@ translated_at: 2026-05-31T23:59:49.420Z
 
 ## 摘要
 
-株式会社北日本银行是总部位于岩手县盛冈市、列入金融厅银行许可名单的第二地方银行。在岩手县内的 regional-bank 图谱中，应将其与 [[iwate-bank]]、[[tohoku-bank]] 并列为持牌银行运营公司来处理。
+株式会社北日本银行是总部位于岩手县盛冈市、列入金融厅银行许可名单的第二地方银行。在岩手县内的 regional-bank 图谱中，应将其与 [[regional-banks/iwate-bank]]、[[regional-banks/tohoku-bank]] 并列为持牌银行运营公司来处理。
 
 ## 1. 许可 / 集团边界
 
@@ -29,7 +29,7 @@ translated_at: 2026-05-31T23:59:49.420Z
 
 ## 2. 运营模式
 
-北日本银行是以岩手县为中心的第二地方银行，提供个人存款、中小企业贷款、支付服务、地方咨询和资产形成支持。阅读县内 main-bank 竞争时，应将其与 [[iwate-bank]]、[[tohoku-bank]] 以及当地信用金库 / 信用组合层一起比较。
+北日本银行是以岩手县为中心的第二地方银行，提供个人存款、中小企业贷款、支付服务、地方咨询和资产形成支持。阅读县内 main-bank 竞争时，应将其与 [[regional-banks/iwate-bank]]、[[regional-banks/tohoku-bank]] 以及当地信用金库 / 信用组合层一起比较。
 
 ## 3. 本页为何重要
 
@@ -39,8 +39,8 @@ translated_at: 2026-05-31T23:59:49.420Z
 
 ## 相关
 
-- [[iwate-bank]]
-- [[tohoku-bank]]
+- [[regional-banks/iwate-bank]]
+- [[regional-banks/tohoku-bank]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 

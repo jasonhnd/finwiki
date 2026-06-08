@@ -159,7 +159,7 @@ SOMPO HD（持株会社・上場 8630）
 
 ## 関連項目
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[ndfg]] · [[nomura-hd]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[megabanks/ndfg]] · [[securities-firms/nomura-hd]]
 - 国内 3 大損保：東京海上 HD（8766）/ MS&AD HD（8725）/ **SOMPO HD（8630）**
 
 ## 出典

@@ -15,7 +15,7 @@ translated_at: 2026-06-01T00:41:50.380Z
 
 ## TL;DR
 
-慕尼黑再保险公司日本分公司是 Munich Reinsurance Company / Munchener Ruckversicherungs-Gesellschaft 的日本分支。母公司是 DAX 上市的全球大型再保险集团，也是全球最大级别的再保险公司之一。该分公司列入日本金融厅的损害保险公司许可名单，归入外国损害保险公司等类别。它以全球再保险资本承接日本主要原保险公司，例如 [[tokio-marine-nichido-fire]]、[[mitsui-sumitomo-insurance]]、[[sompo-japan-insurance]]，以及寿险公司的风险；在地震、台风、洪水等大型自然灾害风险和寿险长寿风险承保中尤其重要。
+慕尼黑再保险公司日本分公司是 Munich Reinsurance Company / Munchener Ruckversicherungs-Gesellschaft 的日本分支。母公司是 DAX 上市的全球大型再保险集团，也是全球最大级别的再保险公司之一。该分公司列入日本金融厅的损害保险公司许可名单，归入外国损害保险公司等类别。它以全球再保险资本承接日本主要原保险公司，例如 [[non-life-insurers/tokio-marine-nichido-fire]]、[[non-life-insurers/mitsui-sumitomo-insurance]]、[[non-life-insurers/sompo-japan-insurance]]，以及寿险公司的风险；在地震、台风、洪水等大型自然灾害风险和寿险长寿风险承保中尤其重要。
 
 ## 1. 许可 / 集团边界
 
@@ -39,16 +39,16 @@ translated_at: 2026-06-01T00:41:50.380Z
 ## 4. 本页为何重要
 
 - 是外国再保险公司日本分支的代表性锚点，展示全球再保险资本进入日本市场的主要路径。
-- 将 [[insurance/natcat-reinsurance-japan]] 的系统页面与 [[tokio-marine-nichido-fire]]、[[mitsui-sumitomo-insurance]]、[[sompo-japan-insurance]] 等原损保公司连接起来。
-- 通过与国内专营机构 [[toa-reinsurance]]、[[japan-earthquake-reinsurance]] 对照，帮助理解日本再保险市场结构。
+- 将 [[insurance/natcat-reinsurance-japan]] 的系统页面与 [[non-life-insurers/tokio-marine-nichido-fire]]、[[non-life-insurers/mitsui-sumitomo-insurance]]、[[non-life-insurers/sompo-japan-insurance]] 等原损保公司连接起来。
+- 通过与国内专营机构 [[non-life-insurers/toa-reinsurance]]、[[non-life-insurers/japan-earthquake-reinsurance]] 对照，帮助理解日本再保险市场结构。
 
 ## Related
 
 - [[non-life-insurers/INDEX]]
-- [[toa-reinsurance]]
-- [[japan-earthquake-reinsurance]]
-- [[swiss-re-japan]]
-- [[hannover-re-japan]]
+- [[non-life-insurers/toa-reinsurance]]
+- [[non-life-insurers/japan-earthquake-reinsurance]]
+- [[non-life-insurers/swiss-re-japan]]
+- [[non-life-insurers/hannover-re-japan]]
 - [[insurance/natcat-reinsurance-japan]]
 - [[insurance/INDEX]]
 

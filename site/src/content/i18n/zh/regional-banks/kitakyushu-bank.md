@@ -15,7 +15,7 @@ translated_at: 2026-05-31T23:59:49.308Z
 
 ## TL;DR
 
-株式会社北九州銀行是金融厅银行牌照名单中列示、总部位于福冈县北九州市的地方银行。它是 [[yamaguchi-fg]] 旗下的 Kitakyushu-area operating bank，在福冈县内应作为与 [[fukuoka-bank]] / [[nishi-nippon-city-bank]] 不同法人的 regional-bank peer 处理。
+株式会社北九州銀行是金融厅银行牌照名单中列示、总部位于福冈县北九州市的地方银行。它是 [[regional-banks/yamaguchi-fg]] 旗下的 Kitakyushu-area operating bank，在福冈县内应作为与 [[regional-banks/fukuoka-bank]] / [[regional-banks/nishi-nippon-city-bank]] 不同法人的 regional-bank peer 处理。
 
 ## 1. 牌照 / 集团边界
 
@@ -23,26 +23,26 @@ translated_at: 2026-05-31T23:59:49.308Z
 |---|---|
 | 法定名称 | 株式会社北九州銀行 |
 | 牌照路径 | 《银行法》地方银行；FSA 银行牌照名单 |
-| 集团边界 | [[yamaguchi-fg]] Kitakyushu operating bank |
+| 集团边界 | [[regional-banks/yamaguchi-fg]] Kitakyushu operating bank |
 | 主市场 | 福冈 / 北九州 |
 | Wiki 角色 | 北九州 regional-bank operating-company 页面 |
 
 ## 2. 运营模式
 
-北九州银行是以北九州 / 关门地区为中心的 regional bank，承担 retail deposits、SME finance、local relationship banking 和跨县 business support。[[yamaguchi-fg]] 页面处理 YMFG three-bank model，本页处理 bank-license entity。
+北九州银行是以北九州 / 关门地区为中心的 regional bank，承担 retail deposits、SME finance、local relationship banking 和跨县 business support。[[regional-banks/yamaguchi-fg]] 页面处理 YMFG three-bank model，本页处理 bank-license entity。
 
 ## 3. 本页为何重要
 
 - 补齐 FSA 精确名称下北九州银行 operating-company 的缺口。
-- 将北九州 bank-license 覆盖与 [[yamaguchi-fg]] 的集团战略区分开。
-- 为 [[fukuoka-bank]]、[[nishi-nippon-city-bank]] 和 [[momiji-bank]] 提供同业锚点。
+- 将北九州 bank-license 覆盖与 [[regional-banks/yamaguchi-fg]] 的集团战略区分开。
+- 为 [[regional-banks/fukuoka-bank]]、[[regional-banks/nishi-nippon-city-bank]] 和 [[regional-banks/momiji-bank]] 提供同业锚点。
 
 ## Related
 
-- [[yamaguchi-fg]]
-- [[fukuoka-bank]]
-- [[nishi-nippon-city-bank]]
-- [[momiji-bank]]
+- [[regional-banks/yamaguchi-fg]]
+- [[regional-banks/fukuoka-bank]]
+- [[regional-banks/nishi-nippon-city-bank]]
+- [[regional-banks/momiji-bank]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 

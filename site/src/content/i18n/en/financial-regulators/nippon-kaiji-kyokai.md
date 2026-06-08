@@ -39,16 +39,16 @@ General Incorporated Foundation Nippon Kaiji Kyokai (commonly ClassNK) is one of
 
 - A **front-end infrastructure anchor** for marine insurance and ship finance. It is essential to understanding insurance activity, but falls outside traditional financial-institution classifications.
 - Completes the "two major maritime infrastructure" cluster with [[financial-regulators/japan-pi-club]]: classification society plus P&I club.
-- Creates a system link between primary non-life insurers ([[tokio-marine-nichido-fire]] / [[mitsui-sumitomo-insurance]] / [[sompo-japan-insurance]]) and the shipping industry.
+- Creates a system link between primary non-life insurers ([[non-life-insurers/tokio-marine-nichido-fire]] / [[non-life-insurers/mitsui-sumitomo-insurance]] / [[non-life-insurers/sompo-japan-insurance]]) and the shipping industry.
 - Acts as Japan's anchor point for global IACS, and its decarbonization-regulation role can influence future underwriting risk assessment.
 
 ## Related
 
 - [[financial-regulators/INDEX]]
-- [[japan-pi-club]]
-- [[tokio-marine-nichido-fire]]
-- [[mitsui-sumitomo-insurance]]
-- [[sompo-japan-insurance]]
+- [[financial-regulators/japan-pi-club]]
+- [[non-life-insurers/tokio-marine-nichido-fire]]
+- [[non-life-insurers/mitsui-sumitomo-insurance]]
+- [[non-life-insurers/sompo-japan-insurance]]
 - [[insurance/INDEX]]
 
 ## Sources

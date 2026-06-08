@@ -71,11 +71,11 @@
       "cooperative-banks/shinkin-network-services",
       "financial-regulators/yokin-hoken-kiko",
       "financial-regulators/zenshin-kyo",
-      "mizuho-fg",
-      "mufg",
+      "megabanks/mizuho-fg",
+      "megabanks/mufg",
+      "megabanks/smfg",
       "regional-banks/aichi-bank",
-      "regional-banks/nagoya-bank",
-      "smfg"
+      "regional-banks/nagoya-bank"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/banking/INDEX",
@@ -92,19 +92,19 @@
       "https://finwiki.zksc.io/cooperative-banks/shinkin-network-services",
       "https://finwiki.zksc.io/financial-regulators/yokin-hoken-kiko",
       "https://finwiki.zksc.io/financial-regulators/zenshin-kyo",
-      "https://finwiki.zksc.io/mizuho-fg",
-      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/smfg",
       "https://finwiki.zksc.io/regional-banks/aichi-bank",
-      "https://finwiki.zksc.io/regional-banks/nagoya-bank",
-      "https://finwiki.zksc.io/smfg"
+      "https://finwiki.zksc.io/regional-banks/nagoya-bank"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4983,
-    "word_like_tokens": 675,
+    "nonspace_chars": 5013,
+    "word_like_tokens": 678,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-06-06"
+    "last_modified": "2026-06-08"
   }
 }

@@ -49,38 +49,36 @@
     "4 軸戦略"
   ],
   "body_links": {
-    "wikilinks_count": 10,
+    "wikilinks_count": 9,
     "wikilinks": [
-      "concordia-fg",
-      "fukuoka-fg",
-      "mizuho-fg",
-      "mufg",
-      "okasan-sg",
-      "sbi-hd",
+      "megabanks/mizuho-fg",
+      "megabanks/mufg",
+      "megabanks/sbi-hd",
+      "megabanks/smfg",
+      "regional-banks/concordia-fg",
+      "regional-banks/fukuoka-fg",
       "securities-firms/INDEX",
       "securities-firms/okasan-sg",
-      "securities/INDEX",
-      "smfg"
+      "securities/INDEX"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/concordia-fg",
-      "https://finwiki.zksc.io/fukuoka-fg",
-      "https://finwiki.zksc.io/mizuho-fg",
-      "https://finwiki.zksc.io/mufg",
-      "https://finwiki.zksc.io/okasan-sg",
-      "https://finwiki.zksc.io/sbi-hd",
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/sbi-hd",
+      "https://finwiki.zksc.io/megabanks/smfg",
+      "https://finwiki.zksc.io/regional-banks/concordia-fg",
+      "https://finwiki.zksc.io/regional-banks/fukuoka-fg",
       "https://finwiki.zksc.io/securities-firms/INDEX",
       "https://finwiki.zksc.io/securities-firms/okasan-sg",
-      "https://finwiki.zksc.io/securities/INDEX",
-      "https://finwiki.zksc.io/smfg"
+      "https://finwiki.zksc.io/securities/INDEX"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3547,
-    "word_like_tokens": 588,
-    "inbound_wikilinks_count": 9,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 3765,
+    "word_like_tokens": 613,
+    "inbound_wikilinks_count": 12,
+    "last_modified": "2026-06-08"
   }
 }

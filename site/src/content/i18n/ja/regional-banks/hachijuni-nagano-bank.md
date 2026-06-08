@@ -17,7 +17,7 @@ translated_at: 2026-06-02T14:25:12.400Z
 
 ## 要約
 
-株式会社八十二長野銀行は、金融庁の銀行免許一覧に掲載される長野県本店の地方銀行。旧 [[hachijuni-bank|八十二銀行]] と旧長野銀行の統合後の正式名称エンティティとして、本ページが現在の事業会社境界を持つ。
+株式会社八十二長野銀行は、金融庁の銀行免許一覧に掲載される長野県本店の地方銀行。旧 [[regional-banks/hachijuni-bank|八十二銀行]] と旧長野銀行の統合後の正式名称エンティティとして、本ページが現在の事業会社境界を持つ。
 
 ## 1. 免許・グループ境界
 
@@ -37,14 +37,14 @@ translated_at: 2026-06-02T14:25:12.400Z
 
 - 八十二銀行・長野銀行統合をめぐる以前の予測境界を修正する。
 - 株式会社八十二長野銀行について、金融庁掲載名に対応するページの空白を埋める。
-- Provides a current peer anchor for [[yamanashi-chuo-bank]], [[daishi-hokuetsu-bank]], and [[fukui-bank]].
+- Provides a current peer anchor for [[regional-banks/yamanashi-chuo-bank]], [[regional-banks/daishi-hokuetsu-bank]], and [[regional-banks/fukui-bank]].
 
 ## 関連
 
-- [[hachijuni-bank]]
-- [[yamanashi-chuo-bank]]
-- [[daishi-hokuetsu-bank]]
-- [[fukui-bank]]
+- [[regional-banks/hachijuni-bank]]
+- [[regional-banks/yamanashi-chuo-bank]]
+- [[regional-banks/daishi-hokuetsu-bank]]
+- [[regional-banks/fukui-bank]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 

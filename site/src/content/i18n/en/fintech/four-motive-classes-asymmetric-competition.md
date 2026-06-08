@@ -49,7 +49,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it against [[fintech
 
 **Behaviour under pressure**: **Maintain diversification** + do not unilaterally break stalemates + accept a fragmentation-persistent outcome.
 
-Reference: [[portfolio-winner-structure-arm-analog|ポートフォリオ勝者構造 / ARM アナロジー]]
+Reference: [[fintech/portfolio-winner-structure-arm-analog|ポートフォリオ勝者構造 / ARM アナロジー]]
 
 ### Class 3: Infrastructure Winners
 
@@ -120,8 +120,8 @@ The "7  camps" classification from one financial group's deck: private vs centra
 
 ## Related
 
-- [[wall-street-crypto-network-neutrality|Wall Street ネットワーク中立性]]
-- [[portfolio-winner-structure-arm-analog|ポートフォリオ勝者構造]]
-- [[central-banking-function-unbundling|中央銀行機能の解体 5 層]]
+- [[fintech/wall-street-crypto-network-neutrality|Wall Street ネットワーク中立性]]
+- [[fintech/portfolio-winner-structure-arm-analog|ポートフォリオ勝者構造]]
+- [[fintech/central-banking-function-unbundling|中央銀行機能の解体 5 層]]
 
 ---

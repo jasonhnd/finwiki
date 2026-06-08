@@ -25,7 +25,7 @@ This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-i
 | Item | Scale |
 |---|---|
 | AUC/A (assets under custody / administration + assets under management) | **About 49 兆 dollars** (2025 2Q) → **about 53.8 兆 dollars** (2025 4Q, record high) ^[extracted] |
-| Global ranking (custody) | **No. 2** (leader [[bny-mellon-japan]] at about 59.3 兆 dollars) ^[extracted] |
+| Global ranking (custody) | **No. 2** (leader [[foreign-financial-institutions/bny-mellon-japan]] at about 59.3 兆 dollars) ^[extracted] |
 | Recent net new wins | About 1.1 兆 dollars (during 2025  period, mainly through Asset Owners / Asset Managers) ^[extracted] |
 
 ### Major Japanese Entities (public-information basis)
@@ -83,16 +83,16 @@ State Street Corporation (U.S. NYSE: STT; supervised by FRB / OCC)
 
 ### Positioning in Japan
 
-- **Major custodian for overseas investments by GPIF, large pension funds, and Japanese banks**: one of GPIF's asset-administration institutions alongside Japan Master Trust [[master-trust-bank]] ^[extracted]
-- **Meaning of [[mufg]] shareholder composition 4.51% (2025-03-31)**: this is **nominee aggregation through overseas custody accounts of institutional investors** (custodian-name concentration), not strategic holdings by State Street itself ^[extracted]
+- **Major custodian for overseas investments by GPIF, large pension funds, and Japanese banks**: one of GPIF's asset-administration institutions alongside Japan Master Trust [[trust-banks/master-trust-bank]] ^[extracted]
+- **Meaning of [[megabanks/mufg]] shareholder composition 4.51% (2025-03-31)**: this is **nominee aggregation through overseas custody accounts of institutional investors** (custodian-name concentration), not strategic holdings by State Street itself ^[extracted]
 
 ### Major Competitors
 
 | Area | Major competitors |
 |---|---|
-| **Global custody** | [[bny-mellon-japan]] / [[citigroup-japan]] / [[jpmorgan-japan]] / HSBC |
-| **Domestic trust (around master trust)** | [[master-trust-bank]] / [[custody-bank]] / [[sumitomo-mitsui-trust]] / Mitsubishi UFJ Trust |
-| **ETF management** | BlackRock Japan (iShares) / Vanguard Japan / [[nomura-hd]]・[[daiwa-sg]] lineage ETFs / Nomura Asset / Mitsubishi UFJ Asset |
+| **Global custody** | [[foreign-financial-institutions/bny-mellon-japan]] / [[foreign-financial-institutions/citigroup-japan]] / [[foreign-financial-institutions/jpmorgan-japan]] / HSBC |
+| **Domestic trust (around master trust)** | [[trust-banks/master-trust-bank]] / [[trust-banks/custody-bank]] / [[trust-banks/sumitomo-mitsui-trust]] / Mitsubishi UFJ Trust |
+| **ETF management** | BlackRock Japan (iShares) / Vanguard Japan / [[securities-firms/nomura-hd]]・[[securities-firms/daiwa-sg]] lineage ETFs / Nomura Asset / Mitsubishi UFJ Asset |
 | Investment systems | Bloomberg AIM / SimCorp / FactSet (independents) / Japanese IT vendors |
 | ADR / depositary institutions | Citibank / JPMorgan / Deutsche Bank (one of the major U.S. ADR 4  banks; State Street has limited ADR presence) |
 
@@ -111,10 +111,10 @@ State Street Corporation (U.S. NYSE: STT; supervised by FRB / OCC)
 
 ## Related
 
-- **Competing foreign custodians**: [[bny-mellon-japan]] · [[citigroup-japan]] · [[jpmorgan-japan]]
-- **Domestic trusts (division-of-labor partners)**: [[master-trust-bank]] · [[custody-bank]] · [[sumitomo-mitsui-trust]]
-- **Japanese megabanks (customers + shareholder-name surface)**: [[mufg]] · [[smfg]] · [[mizuho-fg]]
-- **Foreign IBs**: [[goldman-sachs-japan]] · [[morgan-stanley-japan]] · [[hsbc-japan]] · [[deutsche-japan]] · [[barclays-japan]] · [[bnp-paribas-japan]]
+- **Competing foreign custodians**: [[foreign-financial-institutions/bny-mellon-japan]] · [[foreign-financial-institutions/citigroup-japan]] · [[foreign-financial-institutions/jpmorgan-japan]]
+- **Domestic trusts (division-of-labor partners)**: [[trust-banks/master-trust-bank]] · [[trust-banks/custody-bank]] · [[trust-banks/sumitomo-mitsui-trust]]
+- **Japanese megabanks (customers + shareholder-name surface)**: [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]
+- **Foreign IBs**: [[securities-firms/goldman-sachs-japan]] · [[securities-firms/morgan-stanley-japan]] · [[foreign-financial-institutions/hsbc-japan]] · [[foreign-financial-institutions/deutsche-japan]] · [[foreign-financial-institutions/barclays-japan]] · [[foreign-financial-institutions/bnp-paribas-japan]]
 
 ## Sources
 

@@ -15,7 +15,7 @@ translated_at: 2026-05-31T23:59:49.351Z
 
 ## TL;DR
 
-京都金融集团是以京都府为地盘的 **关西名门地方银行 FG**。证券代码为 **东证 PRIME 5844**。集团于 **2023-10-02** 通过京都银行 **单独股份转移** 实现控股公司化而成立，是地方银行中较晚控股公司化的例子。**京都银行维持京都府内份额 No.1**，并因与总部位于京都的任天堂、京瓷、村田制作所、日本电产（现 Nidec）等 **全球优质企业** 的交易和 **政策持有股票** 而知名。在关西，它与 [[resona-hd]]（关西未来银行）、[[ikeda-senshu-hd]]、滋贺银行、南都银行、纪阳银行等直接竞争。相对于 megabank 3 行（[[mufg]] / [[smfg]] / [[mizuho-fg]]），京都 FG 依靠京都地盘和上市公司交叉持股带来的 **资金实力** 形成独自存在感。^[extracted]
+京都金融集团是以京都府为地盘的 **关西名门地方银行 FG**。证券代码为 **东证 PRIME 5844**。集团于 **2023-10-02** 通过京都银行 **单独股份转移** 实现控股公司化而成立，是地方银行中较晚控股公司化的例子。**京都银行维持京都府内份额 No.1**，并因与总部位于京都的任天堂、京瓷、村田制作所、日本电产（现 Nidec）等 **全球优质企业** 的交易和 **政策持有股票** 而知名。在关西，它与 [[megabanks/resona-hd]]（关西未来银行）、[[regional-banks/ikeda-senshu-hd]]、滋贺银行、南都银行、纪阳银行等直接竞争。相对于 megabank 3 行（[[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]]），京都 FG 依靠京都地盘和上市公司交叉持股带来的 **资金实力** 形成独自存在感。^[extracted]
 
 ## 1. 公司概要
 
@@ -107,13 +107,13 @@ translated_at: 2026-05-31T23:59:49.351Z
 
 | 竞争对手 | 地盘 | 格局 |
 |---|---|---|
-| [[resona-hd]]（关西未来银行）| 关西全域 | 旧大和银行 + 旧近畿大阪银行 + 旧港银行联盟 → 在关西零售直接竞争 |
-| [[ikeda-senshu-hd]]（池田泉州银行）| 大阪府北摄 / 泉州 | 在大阪府与京都银行的关西广域展开部分竞争 |
+| [[megabanks/resona-hd]]（关西未来银行）| 关西全域 | 旧大和银行 + 旧近畿大阪银行 + 旧港银行联盟 → 在关西零售直接竞争 |
+| [[regional-banks/ikeda-senshu-hd]]（池田泉州银行）| 大阪府北摄 / 泉州 | 在大阪府与京都银行的关西广域展开部分竞争 |
 | 滋贺银行 | 滋贺县 / 关西 | 在京都府与滋贺县县境、京阪地区竞争，关西地银排名接近 |
 | 南都银行 | 奈良县 | 在京都府南部、奈良县境竞争 |
 | 纪阳银行 | 和歌山县 | 关西地银同列，在关西广域间接竞争 |
-| [[mufg]] / [[smfg]] / [[mizuho-fg]] | 全国 | 大企业 main bank 领域竞争；京都银行通过 **股票交叉持有与部分世界企业形成独自关系**，即使 [[mufg]] / [[smfg]] 是任天堂、京瓷等 main bank，京都银行也作为稳定股东拥有独自地位 ★ |
-| [[paypay-fg]] / Rakuten Bank / SBI Sumishin Net Bank | 数字 | 个人数字领域的新兴竞争 |
+| [[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]] | 全国 | 大企业 main bank 领域竞争；京都银行通过 **股票交叉持有与部分世界企业形成独自关系**，即使 [[megabanks/mufg]] / [[megabanks/smfg]] 是任天堂、京瓷等 main bank，京都银行也作为稳定股东拥有独自地位 ★ |
+| [[megabanks/paypay-fg]] / Rakuten Bank / SBI Sumishin Net Bank | 数字 | 个人数字领域的新兴竞争 |
 | 京都信用金库・京都中央信用金库 | 京都府内 | 作为京都府内地域金融机构，在小额、本地案件上竞争 |
 
 ### 与京都总部世界企业的关系 ★
@@ -148,9 +148,9 @@ translated_at: 2026-05-31T23:59:49.351Z
 
 ## Related
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[resona-hd]] · [[sumitomo-mitsui-trust]]
-- [[ikeda-senshu-hd]] · [[concordia-fg]] · [[fukuoka-fg]] · [[shizuoka-fg]] · [[hirogin-hd]]
-- [[paypay-fg]] · [[rakuten-fg]] · [[sbi-hd]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[megabanks/resona-hd]] · [[trust-banks/sumitomo-mitsui-trust]]
+- [[regional-banks/ikeda-senshu-hd]] · [[regional-banks/concordia-fg]] · [[regional-banks/fukuoka-fg]] · [[regional-banks/shizuoka-fg]] · [[regional-banks/hirogin-hd]]
+- [[megabanks/paypay-fg]] · [[payment-firms/rakuten-fg]] · [[megabanks/sbi-hd]]
 
 ## Sources
 

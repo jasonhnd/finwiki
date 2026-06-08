@@ -58,36 +58,36 @@
   "body_links": {
     "wikilinks_count": 10,
     "wikilinks": [
-      "dai-ichi-life",
       "insurance/INDEX",
       "insurance/esr-economic-value-solvency",
       "insurance/mutual-vs-stock-life-insurer",
       "life-insurers/INDEX",
+      "life-insurers/dai-ichi-life",
       "life-insurers/meiji-yasuda",
+      "megabanks/mizuho-fg",
+      "megabanks/mufg",
       "megabanks/nippon-post",
-      "mizuho-fg",
-      "mufg",
-      "smfg"
+      "megabanks/smfg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/dai-ichi-life",
       "https://finwiki.zksc.io/insurance/INDEX",
       "https://finwiki.zksc.io/insurance/esr-economic-value-solvency",
       "https://finwiki.zksc.io/insurance/mutual-vs-stock-life-insurer",
       "https://finwiki.zksc.io/life-insurers/INDEX",
+      "https://finwiki.zksc.io/life-insurers/dai-ichi-life",
       "https://finwiki.zksc.io/life-insurers/meiji-yasuda",
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/mufg",
       "https://finwiki.zksc.io/megabanks/nippon-post",
-      "https://finwiki.zksc.io/mizuho-fg",
-      "https://finwiki.zksc.io/mufg",
-      "https://finwiki.zksc.io/smfg"
+      "https://finwiki.zksc.io/megabanks/smfg"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6836,
-    "word_like_tokens": 1200,
-    "inbound_wikilinks_count": 31,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 6908,
+    "word_like_tokens": 1209,
+    "inbound_wikilinks_count": 46,
+    "last_modified": "2026-06-08"
   }
 }

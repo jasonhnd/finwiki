@@ -13,7 +13,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 ## 推論 (from 2. 事業セグメント・マップ)
 
 | 資産運用 | 国債中心の保守的運用（旧簡保由来）| 国内最大級の機関投資家の一角 ^[inferred] |
-| 海外戦略 | 限定的 | 国内集中型（[[dai-ichi-life]] / [[nippon-life]] 等と対照的）^[inferred] |
+| 海外戦略 | 限定的 | 国内集中型（[[life-insurers/dai-ichi-life]] / [[life-insurers/nippon-life]] 等と対照的）^[inferred] |
 
 ## 推論 (from 旧簡易保険ブランドと郵便局網)
 
@@ -30,10 +30,10 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 ## Counterpoints
 
 - **2019-2020 不適切販売事件のレガシー影響**: 信頼回復には年単位の時間を要し、新規顧客獲得・営業ノルマ運営に長期的制約 ^[extracted]
-- **簡保ブランドの民営化後競争力**: 旧国営由来の安心感は地方・高齢者層に強いが、若年層・都市部・富裕層では他社（[[dai-ichi-life]] / [[nippon-life]] 等）に対し商品力で見劣り ^[ambiguous]
+- **簡保ブランドの民営化後競争力**: 旧国営由来の安心感は地方・高齢者層に強いが、若年層・都市部・富裕層では他社（[[life-insurers/dai-ichi-life]] / [[life-insurers/nippon-life]] 等）に対し商品力で見劣り ^[ambiguous]
 - **営業職員（旧簡保 OB）のチャネルコスト**: 旧国営由来の人員構成・コスト構造は他生保より硬直的 ^[inferred]
 - **二重監督（金融庁 + 総務省）のガバナンス効率**: 監督が複数省庁にまたがる構造が、事件発覚時の対応の遅延要因になったとの議論 ^[ambiguous]
-- **海外展開の弱さ**: [[dai-ichi-life]]（Protective / TAL）や [[nippon-life]]（MassMutual / 大樹生命）と比べ海外プレゼンスが極めて限定的 → 国内市場縮小局面でのリスク集中 ^[inferred]
+- **海外展開の弱さ**: [[life-insurers/dai-ichi-life]]（Protective / TAL）や [[life-insurers/nippon-life]]（MassMutual / 大樹生命）と比べ海外プレゼンスが極めて限定的 → 国内市場縮小局面でのリスク集中 ^[inferred]
 - **親会社（日本郵政）売却スキーム**: 政府保有比率低下に伴う「民営化進展」と「ユニバーサルサービス義務」のバランス論点 ^[ambiguous]
 
 ## Open questions

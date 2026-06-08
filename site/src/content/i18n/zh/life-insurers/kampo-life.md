@@ -84,7 +84,7 @@ translated_at: 2026-05-31T23:59:49.407Z
 ### 旧简易保险品牌与邮局网络
 
 - **1916  创业的简易保险品牌**在地方和高龄者群体中的渗透极深，民营化后仍使用**全国约 2 万 个邮局网络**作为零售基础 -> 具备其他寿险公司没有的物理访问优势
-- 银行窗口销售和网络销售相较其他公司（[[dai-ichi-life]] Frontier Life 等）起步较晚
+- 银行窗口销售和网络销售相较其他公司（[[life-insurers/dai-ichi-life]] Frontier Life 等）起步较晚
 
 ### 商品多样化与民营化后约束
 
@@ -123,9 +123,9 @@ translated_at: 2026-05-31T23:59:49.407Z
 
 ## Related
 
-- [[dai-ichi-life]] · [[nippon-life]] — 日本大型寿险 peer
-- [[tokio-marine]] · [[msad]] · [[sompo]] — 大型财险（保险行业整体）
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] — Megabank（金融厅监管 peer）
+- [[life-insurers/dai-ichi-life]] · [[life-insurers/nippon-life]] — 日本大型寿险 peer
+- [[non-life-insurers/tokio-marine]] · [[non-life-insurers/msad]] · [[non-life-insurers/sompo]] — 大型财险（保险行业整体）
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] — Megabank（金融厅监管 peer）
 
 ## Sources
 

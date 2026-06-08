@@ -15,7 +15,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-The Bank of Okinawa, Ltd. is an Okinawa-headquartered regional bank listed in the FSA bank-license registry. It is the core operating bank of [[okinawa-fg]] and is treated here as the No.1  Okinawa regional-bank operating-company anchor.
+The Bank of Okinawa, Ltd. is an Okinawa-headquartered regional bank listed in the FSA bank-license registry. It is the core operating bank of [[regional-banks/okinawa-fg]] and is treated here as the No.1  Okinawa regional-bank operating-company anchor.
 
 ## 1. License / group boundary
 
@@ -23,25 +23,25 @@ The Bank of Okinawa, Ltd. is an Okinawa-headquartered regional bank listed in th
 |---|---|
 | Legal name | The Bank of Okinawa, Ltd. |
 | License route | Banking Act regional bank; FSA bank license list |
-| Group boundary | Core operating bank of [[okinawa-fg]] |
+| Group boundary | Core operating bank of [[regional-banks/okinawa-fg]] |
 | Home market | Okinawa / Naha |
 | Wiki role | Okinawa regional-bank operating-company page |
 
 ## 2. Operating model
 
-Okinawa Bank is a regional bank centered on Okinawa. It handles retail deposits, SME finance, tourism and construction finance, trust-agency-adjacent services, and relationship banking for an island economy. The [[okinawa-fg]] page covers holding-company strategy and group financials; this page covers the bank-license entity. For Okinawa / Kyushu regional-bank consolidation context, see [[banking/regional-bank-consolidation-pattern]].
+Okinawa Bank is a regional bank centered on Okinawa. It handles retail deposits, SME finance, tourism and construction finance, trust-agency-adjacent services, and relationship banking for an island economy. The [[regional-banks/okinawa-fg]] page covers holding-company strategy and group financials; this page covers the bank-license entity. For Okinawa / Kyushu regional-bank consolidation context, see [[banking/regional-bank-consolidation-pattern]].
 
 ## 3. Why this page matters
 
 - Closes the FSA exact-name operating-company gap for Okinawa Bank.
-- Separates the bank license from [[okinawa-fg]] holding-company coverage.
-- Provides a peer anchor for [[ryukyu-bank]] and [[okinawa-kaiho-bank]].
+- Separates the bank license from [[regional-banks/okinawa-fg]] holding-company coverage.
+- Provides a peer anchor for [[regional-banks/ryukyu-bank]] and [[regional-banks/okinawa-kaiho-bank]].
 
 ## Related
 
-- [[okinawa-fg]]
-- [[ryukyu-bank]]
-- [[okinawa-kaiho-bank]]
+- [[regional-banks/okinawa-fg]]
+- [[regional-banks/ryukyu-bank]]
+- [[regional-banks/okinawa-kaiho-bank]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 

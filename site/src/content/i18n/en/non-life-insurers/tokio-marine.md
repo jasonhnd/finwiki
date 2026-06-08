@@ -151,7 +151,7 @@ Tokio Marine HD (holding company, listed 8766)
 ## Related
 
 - [[non-life-insurers/msad|ms-ad]] · [[non-life-insurers/sompo|sompo-hd]] -- domestic 3  mega non-life insurers
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] -- bank FGs (a different category from non-life insurance, but linked and competitive in corporate finance)
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] -- bank FGs (a different category from non-life insurance, but linked and competitive in corporate finance)
 - [[non-life-insurers/INDEX]]
 
 ## Sources

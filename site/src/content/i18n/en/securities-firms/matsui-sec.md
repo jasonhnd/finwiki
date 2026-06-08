@@ -15,7 +15,7 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it
 
 ## TL;DR
 
-A mid-sized online securities firm known as **Japan's first online broker** (online equity trading began in 1998-05 , and it pioneered the elimination of face-to-face branches) and listed on TSE Prime 8628. Founded by Fusayoshi Matsui in 1918 年, the long-established broker shifted from face-to-face retail brokerage to an online-only model after **Michio Matsui**, the 4 th-generation leader, became president in 1995-04 . It became a pioneer of Japanese online brokerage, differentiating with **1 -day fixed-fee margin trading** and investor-information apps for retail investors. With roughly 150 万 customer accounts, it sits in a mid-tier position behind the top 5 行 online brokers. Today **SBI Securities** (inside [[sbi-hd]]), **Rakuten Securities** (inside [[rakuten-fg]]), **Monex Securities** (inside [[monex-group]]), and others lead the large-player tier, while Matsui Securities keeps an independent online-broker strategy.
+A mid-sized online securities firm known as **Japan's first online broker** (online equity trading began in 1998-05 , and it pioneered the elimination of face-to-face branches) and listed on TSE Prime 8628. Founded by Fusayoshi Matsui in 1918 年, the long-established broker shifted from face-to-face retail brokerage to an online-only model after **Michio Matsui**, the 4 th-generation leader, became president in 1995-04 . It became a pioneer of Japanese online brokerage, differentiating with **1 -day fixed-fee margin trading** and investor-information apps for retail investors. With roughly 150 万 customer accounts, it sits in a mid-tier position behind the top 5 行 online brokers. Today **SBI Securities** (inside [[megabanks/sbi-hd]]), **Rakuten Securities** (inside [[payment-firms/rakuten-fg]]), **Monex Securities** (inside [[securities-firms/monex-group]]), and others lead the large-player tier, while Matsui Securities keeps an independent online-broker strategy.
 
 ## 1. Company overview
 
@@ -32,7 +32,7 @@ A mid-sized online securities firm known as **Japan's first online broker** (onl
 
 ### Distinctive business structure
 
-Matsui Securities is an **independent online broker** that does not belong to a megabank, telecom group, or retail group. It has no in-group banking, insurance, or crypto-asset business, and its simple structure focuses purely on securities brokerage, especially online equity trading, margin trading, and investment trusts. This is the opposite model from "integrated platform" online-broker majors such as [[monex-group]] (with crypto assets and a U.S. broker) or [[sbi-hd]] (with banking, insurance, and a regional-bank alliance).
+Matsui Securities is an **independent online broker** that does not belong to a megabank, telecom group, or retail group. It has no in-group banking, insurance, or crypto-asset business, and its simple structure focuses purely on securities brokerage, especially online equity trading, margin trading, and investment trusts. This is the opposite model from "integrated platform" online-broker majors such as [[securities-firms/monex-group]] (with crypto assets and a U.S. broker) or [[megabanks/sbi-hd]] (with banking, insurance, and a regional-bank alliance).
 
 ### Public-information timeline
 
@@ -71,10 +71,10 @@ Matsui Securities is the origin point of Japan's online brokerage industry, havi
 
 By the late 2020 年s, the online securities industry had consolidated around the following top players:
 
-- **SBI Securities** (inside [[sbi-hd]]): largest account base; led zero-commission moves.
-- **Rakuten Securities** (inside [[rakuten-fg]]): rapid growth through linkage with the Rakuten ecosystem.
-- **Monex Securities** (inside [[monex-group]]): strength in U.S. stocks + integration into NTT Docomo-linked finance [[ndfg]] (planned for 2026 ).
-- **au Kabucom Securities** (formerly au Kabu.com -> Mitsubishi UFJ eSmart Securities, moved back under [[mufg]]).
+- **SBI Securities** (inside [[megabanks/sbi-hd]]): largest account base; led zero-commission moves.
+- **Rakuten Securities** (inside [[payment-firms/rakuten-fg]]): rapid growth through linkage with the Rakuten ecosystem.
+- **Monex Securities** (inside [[securities-firms/monex-group]]): strength in U.S. stocks + integration into NTT Docomo-linked finance [[megabanks/ndfg]] (planned for 2026 ).
+- **au Kabucom Securities** (formerly au Kabu.com -> Mitsubishi UFJ eSmart Securities, moved back under [[megabanks/mufg]]).
 - **Matsui Securities**: independent mid-tier firm with roughly 150 万 accounts.
 
 Matsui Securities sits as a "mid-tier player below the top 5 行" after the leading 4 行 group (SBI / Rakuten / Monex / au-linked). Its strategy is to keep independence while differentiating through 1 -day fixed-fee margin trading and investment-information apps.
@@ -99,8 +99,8 @@ Matsui Securities sits as a "mid-tier player below the top 5 行" after the lead
 
 ## Related
 
-- [[sbi-hd]] · [[rakuten-fg]] · [[monex-group]] · [[mufg]] · [[ndfg]]
-- [[nomura-hd]] · [[daiwa-sg]] · [[smbc-nikko]]
+- [[megabanks/sbi-hd]] · [[payment-firms/rakuten-fg]] · [[securities-firms/monex-group]] · [[megabanks/mufg]] · [[megabanks/ndfg]]
+- [[securities-firms/nomura-hd]] · [[securities-firms/daiwa-sg]] · [[securities-firms/smbc-nikko]]
 
 ## Sources
 

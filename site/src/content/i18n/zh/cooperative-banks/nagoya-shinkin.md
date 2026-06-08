@@ -35,7 +35,7 @@ translated_at: 2026-06-01T00:41:50.420Z
 
 爱知县金融市场结构可整理如下：
 - **第一地方银行（主流地方银行）**：[[regional-banks/aichi-bank|あいち銀行]]（原爱知银行 + 中京银行经营整合）・[[regional-banks/nagoya-bank|名古屋銀行]]
-- **megabank / 其他县地方银行的名古屋市场**：[[mufg|MUFG]] 的爱知地盘、[[smfg|SMBC]]、[[mizuho-fg|みずほ FG]] 的名古屋据点
+- **megabank / 其他县地方银行的名古屋市场**：[[megabanks/mufg|MUFG]] 的爱知地盘、[[megabanks/smfg|SMBC]]、[[megabanks/mizuho-fg|みずほ FG]] 的名古屋据点
 - **信用金库层**：名古屋信用金库（名古屋都市部）+ [[cooperative-banks/okazaki-shinkin|岡崎信用金庫]]（西三河汽车供应链）+ [[cooperative-banks/hamamatsu-iwata-shinkin|浜松磐田信用金庫]]（东海西端、静冈西部）+ 爱知县内其他信用金库
 
 ### 名古屋信用金库 vs 冈崎信用金库（地理 / 产业分工）

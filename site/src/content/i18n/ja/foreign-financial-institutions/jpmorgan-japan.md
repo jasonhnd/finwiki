@@ -16,7 +16,7 @@ translated_at: 2026-06-02T14:54:39.063Z
 
 ## 要約
 
-米国最大の銀行 **JPMorgan Chase & Co.**（NYSE: JPM、総資産 約 4.0 兆ドル、G-SIB **Bucket 3** = +2.0% CET1 追加資本）の日本拠点。**1924 年に Guaranty Trust（後 JP モルガン前身の一つ）が東京支店設置** → 戦後再進出 → 2000 年代以降 IB・マーケッツ中心に拡大。日本では **JP モルガン証券（IB 主力）+ JP モルガン・チェース銀行東京支店（コーポレート銀行）+ JP モルガン・アセット・マネジメント + JP モルガン信託銀行** の 4 法人体制。リテール（Chase Bank）は日本未展開、邦銀リテール領域とは非競合。**M&A アドバイザリー / DCM / ECM / FX / 機関投資家サービス**で外資 IB 三強（vs [[goldman-sachs-japan]] / [[morgan-stanley-japan]]）の一角。^[extracted]
+米国最大の銀行 **JPMorgan Chase & Co.**（NYSE: JPM、総資産 約 4.0 兆ドル、G-SIB **Bucket 3** = +2.0% CET1 追加資本）の日本拠点。**1924 年に Guaranty Trust（後 JP モルガン前身の一つ）が東京支店設置** → 戦後再進出 → 2000 年代以降 IB・マーケッツ中心に拡大。日本では **JP モルガン証券（IB 主力）+ JP モルガン・チェース銀行東京支店（コーポレート銀行）+ JP モルガン・アセット・マネジメント + JP モルガン信託銀行** の 4 法人体制。リテール（Chase Bank）は日本未展開、邦銀リテール領域とは非競合。**M&A アドバイザリー / DCM / ECM / FX / 機関投資家サービス**で外資 IB 三強（vs [[securities-firms/goldman-sachs-japan]] / [[securities-firms/morgan-stanley-japan]]）の一角。^[extracted]
 
 ## 1. 親会社・グローバル構造
 
@@ -72,7 +72,7 @@ translated_at: 2026-06-02T14:54:39.063Z
 
 | 領域 | 主体 | 競合・特徴 |
 |---|---|---|
-| **M&A アドバイザリー** | JP モルガン証券 | 外資 IB 三強（[[goldman-sachs-japan]] / [[morgan-stanley-japan]]）+ 邦銀系 IB（MUMSS / [[mufg]]・[[smfg]] 日興・大和・[[mizuho-fg]]）と競合 |
+| **M&A アドバイザリー** | JP モルガン証券 | 外資 IB 三強（[[securities-firms/goldman-sachs-japan]] / [[securities-firms/morgan-stanley-japan]]）+ 邦銀系 IB（MUMSS / [[megabanks/mufg]]・[[megabanks/smfg]] 日興・大和・[[megabanks/mizuho-fg]]）と競合 |
 | **DCM（債券引受）** | JP モルガン証券 | 円債 / 外債、サムライ債 |
 | **ECM（株式引受）** | JP モルガン証券 | IPO / グローバル増資 |
 | **マーケッツ（FX / 債券 / 株式）** | JP モルガン証券 + 東京支店 | 東京デスクでアジア時間帯カバー |
@@ -84,7 +84,7 @@ translated_at: 2026-06-02T14:54:39.063Z
 
 ### 競合と協業
 
-- **競合**：[[goldman-sachs-japan]] / [[morgan-stanley-japan]] / [[citigroup-japan]] / [[ubs-japan]]（外資 IB） / MUMSS（[[mufg]] × Morgan Stanley JV）/ [[smfg]] 日興 / [[mizuho-fg]] / 大和証券 / 野村
+- **競合**：[[securities-firms/goldman-sachs-japan]] / [[securities-firms/morgan-stanley-japan]] / [[foreign-financial-institutions/citigroup-japan]] / [[foreign-financial-institutions/ubs-japan]]（外資 IB） / MUMSS（[[megabanks/mufg]] × Morgan Stanley JV）/ [[megabanks/smfg]] 日興 / [[megabanks/mizuho-fg]] / 大和証券 / 野村
 - **協業**：邦銀とのシンジケートローン共同アレンジ、クロスボーダー M&A での共同アドバイザリー、機関投資家向けプロダクト相互供給
 
 ### 強み・特徴
@@ -113,8 +113,8 @@ translated_at: 2026-06-02T14:54:39.063Z
 
 ## 関連項目
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[ndfg]]
-- [[goldman-sachs-japan]] · [[morgan-stanley-japan]] · [[citigroup-japan]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[megabanks/ndfg]]
+- [[securities-firms/goldman-sachs-japan]] · [[securities-firms/morgan-stanley-japan]] · [[foreign-financial-institutions/citigroup-japan]]
 
 ## 出典
 

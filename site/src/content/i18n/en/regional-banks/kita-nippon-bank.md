@@ -15,7 +15,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-Kita-Nippon Bank, Ltd. is a second regional bank headquartered in Morioka, Iwate Prefecture and listed in the FSA bank license list. Within Iwate Prefecture's regional-bank surface, treat it as a licensed bank operating company alongside [[iwate-bank]] and [[tohoku-bank]].
+Kita-Nippon Bank, Ltd. is a second regional bank headquartered in Morioka, Iwate Prefecture and listed in the FSA bank license list. Within Iwate Prefecture's regional-bank surface, treat it as a licensed bank operating company alongside [[regional-banks/iwate-bank]] and [[regional-banks/tohoku-bank]].
 
 ## 1. License / group boundary
 
@@ -29,7 +29,7 @@ Kita-Nippon Bank, Ltd. is a second regional bank headquartered in Morioka, Iwate
 
 ## 2. Operating model
 
-Kita-Nippon Bank is a second regional bank centered on Iwate Prefecture, providing retail deposits, SME loans, payment services, local consulting, and asset-formation support. When reading main-bank competition inside the prefecture, compare it with [[iwate-bank]], [[tohoku-bank]], and the local shinkin / credit-cooperative layer.
+Kita-Nippon Bank is a second regional bank centered on Iwate Prefecture, providing retail deposits, SME loans, payment services, local consulting, and asset-formation support. When reading main-bank competition inside the prefecture, compare it with [[regional-banks/iwate-bank]], [[regional-banks/tohoku-bank]], and the local shinkin / credit-cooperative layer.
 
 ## 3. Why this page matters
 
@@ -39,8 +39,8 @@ Kita-Nippon Bank is a second regional bank centered on Iwate Prefecture, providi
 
 ## Related
 
-- [[iwate-bank]]
-- [[tohoku-bank]]
+- [[regional-banks/iwate-bank]]
+- [[regional-banks/tohoku-bank]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 

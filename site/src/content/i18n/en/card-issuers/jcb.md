@@ -15,7 +15,7 @@ This entry sits under [[card-issuers/INDEX|card-issuers INDEX]]. Read it against
 
 ## TL;DR
 
-**Japan's only international card brand.** In 1961-01 , it was founded as Japan Credit Bureau through investment from the former Sanwa Bank, Japan Credit Bureau-related issuers, and others; the abbreviation "JCB" later became established as both the company name and brand name. It is one of the international 5  major card brands (**Visa / Mastercard / American Express / Discover / JCB**) and is strong in **Asia (Japan, China, Korea, Taiwan, and Southeast Asia)**. It is unlisted, with major shareholders centered on banking groups including [[mufg]] and [[smfg]]. Through mutual acceptance alliances with Discover in the United States and UnionPay in China, it covers more than 200  countries and regions worldwide. In Japan, it competes with Sumitomo Mitsui Card under the [[smfg]] group (Visa) and with Rakuten Card and others.
+**Japan's only international card brand.** In 1961-01 , it was founded as Japan Credit Bureau through investment from the former Sanwa Bank, Japan Credit Bureau-related issuers, and others; the abbreviation "JCB" later became established as both the company name and brand name. It is one of the international 5  major card brands (**Visa / Mastercard / American Express / Discover / JCB**) and is strong in **Asia (Japan, China, Korea, Taiwan, and Southeast Asia)**. It is unlisted, with major shareholders centered on banking groups including [[megabanks/mufg]] and [[megabanks/smfg]]. Through mutual acceptance alliances with Discover in the United States and UnionPay in China, it covers more than 200  countries and regions worldwide. In Japan, it competes with Sumitomo Mitsui Card under the [[megabanks/smfg]] group (Visa) and with Rakuten Card and others.
 
 ## 1. Company Overview
 
@@ -35,8 +35,8 @@ This entry sits under [[card-issuers/INDEX|card-issuers INDEX]]. Read it against
 
 | Shareholder | Notes |
 |---|---|
-| Mitsubishi UFJ Bank ([[mufg]] group) | Inherits the former Sanwa Bank lineage |
-| Sumitomo Mitsui FG ([[smfg]] group) | Lineage from former Taiyo Kobe, Mitsui, and Sumitomo banking groups |
+| Mitsubishi UFJ Bank ([[megabanks/mufg]] group) | Inherits the former Sanwa Bank lineage |
+| Sumitomo Mitsui FG ([[megabanks/smfg]] group) | Lineage from former Taiyo Kobe, Mitsui, and Sumitomo banking groups |
 | Sumitomo Mitsui Trust Bank | Trust-bank lineage |
 | Other bank-affiliated and related companies | Detailed ownership ratios are only partly disclosed because JCB is unlisted |
 
@@ -101,8 +101,8 @@ JCB Co., Ltd. (head office; unlisted)
 
 ### Domestic competitive structure
 
-- **Visa partner cards**: Sumitomo Mitsui Card ([[smfg]] group; largest share), Rakuten Card, Aeon Card, and others.
-- **Mastercard partners**: Rakuten Card, d Card ([[ndfg]] group), au PAY Card, and others.
+- **Visa partner cards**: Sumitomo Mitsui Card ([[megabanks/smfg]] group; largest share), Rakuten Card, Aeon Card, and others.
+- **Mastercard partners**: Rakuten Card, d Card ([[megabanks/ndfg]] group), au PAY Card, and others.
 - **JCB brand**: estimated around second place behind Visa in domestic share, though public numeric data is limited (2 位).
 - **Digital-payment competition**: code payments such as PayPay, Rakuten Pay, d払い, and au PAY are eroding part of the card + mobile-payment demand.
 
@@ -127,11 +127,11 @@ JCB Co., Ltd. (head office; unlisted)
 
 ## Related
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] (major shareholders / parent banking groups)
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] (major shareholders / parent banking groups)
 - International brand competitors: Visa / Mastercard / American Express / Discover
-- Domestic competitors: Sumitomo Mitsui Card ([[smfg]] group) / Mitsubishi UFJ NICOS ([[mufg]] group) / Rakuten Card / d Card ([[ndfg]] group)
+- Domestic competitors: Sumitomo Mitsui Card ([[megabanks/smfg]] group) / Mitsubishi UFJ NICOS ([[megabanks/mufg]] group) / Rakuten Card / d Card ([[megabanks/ndfg]] group)
 - Asian payments: UnionPay / Alipay / WeChat Pay
-- Digital payments: PayPay ([[paypay-fg]] group) / Rakuten Pay / d払い / au PAY
+- Digital payments: PayPay ([[megabanks/paypay-fg]] group) / Rakuten Pay / d払い / au PAY
 
 ## Sources
 

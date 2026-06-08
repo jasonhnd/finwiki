@@ -17,11 +17,11 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## 推論 (from 2. 事業セグメント・マップ)
 
-> [[mufg]] の MUMSS / [[smfg]] の SMBC 日興 / [[mizuho-fg]] のみずほ証券 は **銀行系証券**。野村は唯一の **独立系大手** ^[inferred]
+> [[megabanks/mufg]] の MUMSS / [[megabanks/smfg]] の SMBC 日興 / [[megabanks/mizuho-fg]] のみずほ証券 は **銀行系証券**。野村は唯一の **独立系大手** ^[inferred]
 
 ## 推論 (from リテール)
 
-- **富裕層・退職世代**: 対面チャネル強み、若年層は [[sbi-hd]] 楽天証券に劣後 ^[inferred]
+- **富裕層・退職世代**: 対面チャネル強み、若年層は [[megabanks/sbi-hd]] 楽天証券に劣後 ^[inferred]
 
 ## 推論 (from バンキング部門（2025-04 新設）)
 
@@ -36,7 +36,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 - **独立系の宿命**: 銀行系証券（MUMSS / SMBC 日興 / みずほ証券）は法人顧客プールを持つ。野村は純粋に証券業として競合 ^[inferred]
 - **欧米 IB 撤退論**: 2016 米欧 Equity 縮小・2021 Archegos 損失を踏まえ、「リーマン買収は失敗」評価も。一方で債券 / FX / Macro / アジアでは黒字定着 ^[ambiguous]
-- **若年層デジタル弱**: [[sbi-hd]] / 楽天証券 / マネックスの台頭、リテールの主戦場が変質。野村の対面 + ネット&コール ハイブリッドは中間世代向け ^[inferred]
+- **若年層デジタル弱**: [[megabanks/sbi-hd]] / 楽天証券 / マネックスの台頭、リテールの主戦場が変質。野村の対面 + ネット&コール ハイブリッドは中間世代向け ^[inferred]
 - **1997 不祥事 / 2012 インサイダー / 2021 Archegos**: 約 10 年周期の大型ガバナンス事案、構造的体質論の指摘 ^[ambiguous]
 - **NRI 持分** ^[ambiguous]: 持株比率は変動（資本提携継続中、独立上場グループ）
 
@@ -45,8 +45,8 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 - 米欧ホールセールの **構造黒字化** は持続可能か（Archegos 後のリスク削減と収益のバランス）
 - 中期経営計画 ROE 8〜10% 目標 → **FY2025 で 10.0% 到達**、次期中計の上方修正は？ ^[ambiguous]
 - 新 NISA 追風の **持続性**（流入は 2025〜2026 ピーク、その後は？）
-- 野村 AM の **ETF 競合**（[[mufg]] AM、[[mizuho-fg]] AM、米資産運用大手との価格競争）
+- 野村 AM の **ETF 競合**（[[megabanks/mufg]] AM、[[megabanks/mizuho-fg]] AM、米資産運用大手との価格競争）
 - **Macquarie 買収（18 億 USD）の統合シナジー** — のれん償却負担 vs 運用残高拡大、文化統合（豪系 AM × 日系 AM）^[ambiguous]
 - **新設バンキング部門の戦略明確化** — プライベート・バンキング深化か、法人融資拡大か、収益貢献の時間軸は？ ^[ambiguous]
-- ステーブルコイン / トークン化証券での野村ポジション（[[mufg]] Progmat、SBI Ripple との関係）
+- ステーブルコイン / トークン化証券での野村ポジション（[[megabanks/mufg]] Progmat、SBI Ripple との関係）
 - 奥田 CEO の任期延長 / 次世代経営者選定

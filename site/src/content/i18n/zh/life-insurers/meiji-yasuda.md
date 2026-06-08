@@ -24,7 +24,7 @@ translated_at: 2026-05-31T23:59:49.330Z
 **法人形态**：**相互会社**（不上市，契约者 = 社員拥有议决权）
 **设立**：2004-01-01（旧明治生命保险 + 旧安田生命保险合并）
 **总部**：东京都千代田区丸之内 2-1-1（明治安田生命大楼）
-**行业排名**：大型 4 寿险之一（[[nippon-life]] / [[dai-ichi-life]] / 住友生命 / 明治安田生命）
+**行业排名**：大型 4 寿险之一（[[life-insurers/nippon-life]] / [[life-insurers/dai-ichi-life]] / 住友生命 / 明治安田生命）
 
 ### 相互会社形态要点
 
@@ -32,7 +32,7 @@ translated_at: 2026-05-31T23:59:49.330Z
 - 不存在股东，保险契约者作为“社員”通过总代会参与经营
 - 分红返还给契约者而非股东（契约者分红）
 - 不能上市，因此无法从资本市场进行股票融资，主要依赖内部留存和次级债
-- 同形态同业：[[nippon-life]]、住友生命、富国生命、朝日生命
+- 同形态同业：[[life-insurers/nippon-life]]、住友生命、富国生命、朝日生命
 
 ### 前身 2 系统
 
@@ -97,7 +97,7 @@ translated_at: 2026-05-31T23:59:49.330Z
 ### 海外战略
 
 - **集中于 StanCorp**：美国团体保险平台，2016 完全子公司化投入约 5000 億円
-- 与同业（[[nippon-life]]、[[dai-ichi-life]]）相比，亚洲拓展较为克制
+- 与同业（[[life-insurers/nippon-life]]、[[life-insurers/dai-ichi-life]]）相比，亚洲拓展较为克制
 - 与集中于美国 1 轴的风险相对应，是专业特化
 
 ## 5. 监管与政策
@@ -122,12 +122,12 @@ translated_at: 2026-05-31T23:59:49.330Z
 - 除 StanCorp 之外的海外拓展（亚洲等）是否会正式推进，还是坚持美国 1 轴？
 - 在经济价值基础偿付能力监管（2025-04起）下，对余力和分红政策有何影响？
 - 营业职员渠道的数字整合（混合型）进展如何？
-- 在与 [[nippon-life]]、[[dai-ichi-life]] 的 4 社竞争中，相互会社优势能否持续？
+- 在与 [[life-insurers/nippon-life]]、[[life-insurers/dai-ichi-life]] 的 4 社竞争中，相互会社优势能否持续？
 
 ### Related
 
-- [[nippon-life]] · [[dai-ichi-life]]（同为大型 4 寿险）
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[ndfg]]（与 megabanks 的法人交易和银行窗口销售）
+- [[life-insurers/nippon-life]] · [[life-insurers/dai-ichi-life]]（同为大型 4 寿险）
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[megabanks/ndfg]]（与 megabanks 的法人交易和银行窗口销售）
 - 住友生命、富国生命、朝日生命（同为相互会社形态）
 
 ### Sources

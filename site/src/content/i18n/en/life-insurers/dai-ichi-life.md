@@ -16,7 +16,7 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 
 ## TL;DR
 
-Dai-ichi Life is one of Japan's four major domestic life-insurance groups (Dai-ichi Life / [[nippon-life]] / Sumitomo Life Insurance Company / Meiji Yasuda Life Insurance Company). **Founded in 1902-09 as Japan's first mutual insurance company**, it demutualized and listed in 2010-04, then established **Dai-ichi Life HD** as a holding company in 2016-10. On 2026-04-01 it changed its trade name to **Daiichi Life Group, Inc.** and remains listed on TSE PRIME under code 8750. Its strategy combines **three domestic channels (sales staff, bank counter sales, and shared agencies), overseas operations (U.S. Protective / Australia TAL / Asia), and asset management (Mizuho JV Asset Management One)**. For FY2024 (year ended 2025-03), net income was **¥429.6bn (+34%)** and overseas business profit exceeded **¥100bn for the first time (¥114.6bn)**, with Protective's profit about 3.4 times the prior level. The group is also promoting DX initiatives such as health-promotion services under the "Kenko Daiichi" brand and is implementing the “Re-connect2026” medium-term plan from 2024.
+Dai-ichi Life is one of Japan's four major domestic life-insurance groups (Dai-ichi Life / [[life-insurers/nippon-life]] / Sumitomo Life Insurance Company / Meiji Yasuda Life Insurance Company). **Founded in 1902-09 as Japan's first mutual insurance company**, it demutualized and listed in 2010-04, then established **Dai-ichi Life HD** as a holding company in 2016-10. On 2026-04-01 it changed its trade name to **Daiichi Life Group, Inc.** and remains listed on TSE PRIME under code 8750. Its strategy combines **three domestic channels (sales staff, bank counter sales, and shared agencies), overseas operations (U.S. Protective / Australia TAL / Asia), and asset management (Mizuho JV Asset Management One)**. For FY2024 (year ended 2025-03), net income was **¥429.6bn (+34%)** and overseas business profit exceeded **¥100bn for the first time (¥114.6bn)**, with Protective's profit about 3.4 times the prior level. The group is also promoting DX initiatives such as health-promotion services under the "Kenko Daiichi" brand and is implementing the “Re-connect2026” medium-term plan from 2024.
 
 ## 1. Company Profile
 
@@ -52,7 +52,7 @@ Dai-ichi Life is one of Japan's four major domestic life-insurance groups (Dai-i
 
 | Item | Overview |
 |---|---|
-| Business type | One of Japan's four major domestic life-insurance groups (Dai-ichi Life / [[nippon-life]] / Sumitomo Life Insurance Company / Meiji Yasuda Life Insurance Company) |
+| Business type | One of Japan's four major domestic life-insurance groups (Dai-ichi Life / [[life-insurers/nippon-life]] / Sumitomo Life Insurance Company / Meiji Yasuda Life Insurance Company) |
 | Listing | TSE PRIME 8750 (listed on 2010-04-01 after what was then the largest mutual-company demutualization) |
 | Main business | Domestic life insurance (Dai-ichi Life Insurance) + Overseas (Protective / TAL) + Asset management |
 | Overseas subsidiaries | Protective Life (U.S., consolidated subsidiary from 2015-02; approx. ¥580bn acquisition) / TAL (Australia) / Star Union Dai-ichi (India) |
@@ -106,13 +106,13 @@ Dai-ichi Life Group (former Dai-ichi Life HD; listed holding company, code 8750)
 | Australian life insurance | TAL Dai-ichi Life Australia | Major Australian life insurance company, strong in group insurance |
 | Indian Life Insurance | Star Union Dai-ichi Life | Indian Joint Venture |
 | Emerging Asia | Dai-ichi Life Vietnam/Myanmar, etc. | Growth market development |
-| Asset management | Asset Management One (49%) | JV with [[mizuho-fg]]; one of Japan's largest bank-based asset managers |
+| Asset management | Asset Management One (49%) | JV with [[megabanks/mizuho-fg]]; one of Japan's largest bank-based asset managers |
 | Think tank | Dai-ichi Life Economic Research Institute | Macro/market analysis |
 | DX / health promotion | “Kenko Daiichi” app / health-promotion insurance | Insurtech |
 
 ### Three-axis Domestic Channel Strategy
 
-- **Sales staff channel**: Dai-ichi Life Insurance “Life Plan Designer”, a traditional mainstay comparable to [[nippon-life]] among the two major sales-staff channels.
+- **Sales staff channel**: Dai-ichi Life Insurance “Life Plan Designer”, a traditional mainstay comparable to [[life-insurers/nippon-life]] among the two major sales-staff channels.
 - **Bank sales**: Dai-ichi Frontier Life specializes in savings-type lump-sum payment products (mega bank/regional bank channel)
 - **Shared agency / online channel**: Neo First Life, medical insurance, and third-sector products
 
@@ -126,7 +126,7 @@ Dai-ichi Life Group (former Dai-ichi Life HD; listed holding company, code 8750)
 
 ### Asset-management Joint Venture
 
-- **Asset Management One** (launched 2016-09): Dai-ichi Life HD 49% + [[mizuho-fg]] 51%. Formed through the integration of four Mizuho-affiliated companies (DIAM, Shinko Investment Trust, Mizuho Investment Trust, and Mizuho Trust Asset Management), it is one of Japan's largest bank-affiliated asset managers.
+- **Asset Management One** (launched 2016-09): Dai-ichi Life HD 49% + [[megabanks/mizuho-fg]] 51%. Formed through the integration of four Mizuho-affiliated companies (DIAM, Shinko Investment Trust, Mizuho Investment Trust, and Mizuho Trust Asset Management), it is one of Japan's largest bank-affiliated asset managers.
 
 ### DX / Insurtech
 
@@ -136,7 +136,7 @@ Dai-ichi Life Group (former Dai-ichi Life HD; listed holding company, code 8750)
 
 ### Competitive Structure
 
-- **Four major domestic life insurers**: Dai-ichi / [[nippon-life]] / Sumitomo / Meiji Yasuda. By total asset size, [[nippon-life]] remains the reference peer. Dai-ichi Life is the only listed stock company among the four; the other three are mutual companies.
+- **Four major domestic life insurers**: Dai-ichi / [[life-insurers/nippon-life]] / Sumitomo / Meiji Yasuda. By total asset size, [[life-insurers/nippon-life]] remains the reference peer. Dai-ichi Life is the only listed stock company among the four; the other three are mutual companies.
 - **Advantages of demutualization**: Flexible capital raising and M&A (including the Protective acquisition), governance transparency, and shareholder returns (FY2024 dividend of ¥137, +¥24; ¥100bn buyback)
 - **Disadvantages of demutualization**: Short-term stock price pressure vs. balance of long-term policyholder profits
 
@@ -154,7 +154,7 @@ Dai-ichi Life Group (former Dai-ichi Life HD; listed holding company, code 8750)
 
 ## Related
 
-- [[nippon-life]]·[[mizuho-fg]]·[[mufg]]·[[smfg]]
+- [[life-insurers/nippon-life]]·[[megabanks/mizuho-fg]]·[[megabanks/mufg]]·[[megabanks/smfg]]
 - [[insurance/life-insurance-channel-mix]]·[[insurance/economic-value-based-solvency]]
 
 ## Sources

@@ -15,7 +15,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-Mebuki FG is a major regional-bank financial group rooted in the north Kanto 2  prefectures, Ibaraki and Tochigi, and sits around the No. 2-3 位 class among regional-bank FGs by deposit scale. It was formed through the joint share transfer of 2016-10-01 **Joyo Bank** (Ibaraki base) and **Ashikaga Holdings** (Tochigi base, with Ashikaga Bank under it). Its 3  axes are a **"mega-regional bank group" ambition + Tokyo metropolitan expansion + digital / regional revitalization**. It differs from other regional-bank FGs because the integration followed Ashikaga Bank's dramatic history of **2003 年 failure -> temporary nationalization -> 2008 年 private-sector transfer**. In the adjacent metropolitan area, it competes with and explores cooperation with [[concordia-fg]] (Bank of Yokohama + Higashi-Nippon Bank) / [[regional-banks/chiba-bank|chiba-bank-fg]]. ^[extracted]
+Mebuki FG is a major regional-bank financial group rooted in the north Kanto 2  prefectures, Ibaraki and Tochigi, and sits around the No. 2-3 位 class among regional-bank FGs by deposit scale. It was formed through the joint share transfer of 2016-10-01 **Joyo Bank** (Ibaraki base) and **Ashikaga Holdings** (Tochigi base, with Ashikaga Bank under it). Its 3  axes are a **"mega-regional bank group" ambition + Tokyo metropolitan expansion + digital / regional revitalization**. It differs from other regional-bank FGs because the integration followed Ashikaga Bank's dramatic history of **2003 年 failure -> temporary nationalization -> 2008 年 private-sector transfer**. In the adjacent metropolitan area, it competes with and explores cooperation with [[regional-banks/concordia-fg]] (Bank of Yokohama + Higashi-Nippon Bank) / [[regional-banks/chiba-bank|chiba-bank-fg]]. ^[extracted]
 
 ## 1. Company overview
 
@@ -77,7 +77,7 @@ Mebuki FG (listed holding company 7167)
 ### "Mega-regional bank group" ambition
 
 - From launch, the integration used **"mega-regional bank group"** as a slogan, aiming for broad-area scale beyond the traditional regional-bank frame. ^[extracted]
-- By deposit scale it is in the No. 2-3 位 class among regional-bank FGs, one of the top-tier groups alongside [[concordia-fg]] / [[fukuoka-fg]] / [[regional-banks/chiba-bank|chiba-bank-fg]].
+- By deposit scale it is in the No. 2-3 位 class among regional-bank FGs, one of the top-tier groups alongside [[regional-banks/concordia-fg]] / [[regional-banks/fukuoka-fg]] / [[regional-banks/chiba-bank|chiba-bank-fg]].
 - Scale expansion rests on 2  axes: main-bank positions within Ibaraki + Tochigi and expansion into the Tokyo metropolitan area.
 
 ### Tokyo metropolitan expansion strategy
@@ -92,9 +92,9 @@ Mebuki FG (listed holding company 7167)
 
 ### Position in competition and regional-bank consolidation
 
-- **Competitors**: [[concordia-fg]] (Yokohama + Higashi-Nippon) / [[regional-banks/chiba-bank|chiba-bank-fg]] (direct competitor as an adjacent-metropolitan broad-area FG) / [[fukuoka-fg]] (broad-area FG scale competition).
-- Versus the **megabanks** ([[mufg]] / [[smfg]] / [[mizuho-fg]]), it differentiates through regional-bank integration and high prefectural share.
-- Keeps distance from the **SBI No. 4  mega concept** led by [[sbi-hd]], following its own broad-area route.
+- **Competitors**: [[regional-banks/concordia-fg]] (Yokohama + Higashi-Nippon) / [[regional-banks/chiba-bank|chiba-bank-fg]] (direct competitor as an adjacent-metropolitan broad-area FG) / [[regional-banks/fukuoka-fg]] (broad-area FG scale competition).
+- Versus the **megabanks** ([[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]]), it differentiates through regional-bank integration and high prefectural share.
+- Keeps distance from the **SBI No. 4  mega concept** led by [[megabanks/sbi-hd]], following its own broad-area route.
 
 ## 4. Regulation and policy
 
@@ -108,9 +108,9 @@ Mebuki FG (listed holding company 7167)
 
 ## Related
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]]
-- [[concordia-fg]] · [[regional-banks/chiba-bank|chiba-bank-fg]] · [[fukuoka-fg]] · [[resona-hd]]
-- [[sbi-hd]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]
+- [[regional-banks/concordia-fg]] · [[regional-banks/chiba-bank|chiba-bank-fg]] · [[regional-banks/fukuoka-fg]] · [[megabanks/resona-hd]]
+- [[megabanks/sbi-hd]]
 
 ## Sources
 

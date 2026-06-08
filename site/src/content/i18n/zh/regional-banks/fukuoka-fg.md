@@ -51,11 +51,11 @@ translated_at: 2026-05-31T15:29:03.863Z
 
 ```text
 FFG（上市持股公司，8354）
-  |-- 福冈银行（100%）-- [[fukuoka-bank]] / 九州最大地方银行，集团地盘核心
+  |-- 福冈银行（100%）-- [[regional-banks/fukuoka-bank]] / 九州最大地方银行，集团地盘核心
   |     |-- 以福冈县为中心，覆盖都市零售与中坚企业主办银行业务
-  |-- [[kumamoto-bank|熊本银行]]（100%）-- 旧熊本 Family Bank
+  |-- [[regional-banks/kumamoto-bank|熊本银行]]（100%）-- 旧熊本 Family Bank
   |     |-- 熊本县地盘
-  |-- 十八亲和银行（100%）-- [[18-shinwa-bank]] / 2020-10-01 由十八银行与亲和银行合并
+  |-- 十八亲和银行（100%）-- [[regional-banks/18-shinwa-bank]] / 2020-10-01 由十八银行与亲和银行合并
   |     |-- 长崎县地盘，县内份额突出
   |-- みんなの銀行（100%）-- 日本首家全云原生数字银行，2021-05-28 开业
   |     |-- 向外部伙伴提供 BaaS，包括支付 API、开户 API 与伙伴支店模型
@@ -66,7 +66,7 @@ FFG（上市持股公司，8354）
 ### 合并沿革与前身
 
 - **福冈银行**：1945 年设立，九州最大地方银行。
-- **熊本 Family Bank**：旧肥后 Family Bank 为前身，后更名为 [[kumamoto-bank|熊本银行]]。
+- **熊本 Family Bank**：旧肥后 Family Bank 为前身，后更名为 [[regional-banks/kumamoto-bank|熊本银行]]。
 - **十八银行**：1877 年创立，长崎县地盘，源自第十八国立银行。
 - **亲和银行**：1939 年设立，长崎县地盘。
 - **熊本银行的边界**：需区分 FFG 整合前的第二地方银行实体与熊本 Family Bank 改名后的现法人。
@@ -78,7 +78,7 @@ FFG（上市持股公司，8354）
 | 年月 | 事项 |
 |---|---|
 | 2007-04-02 | **FFG 设立**，福冈银行与熊本 Family Bank 共同持股公司化 |
-| 2007-10 | 熊本 Family Bank 更名为 [[kumamoto-bank|熊本银行]] |
+| 2007-10 | 熊本 Family Bank 更名为 [[regional-banks/kumamoto-bank|熊本银行]] |
 | 2007-10 | 亲和银行成为 FFG 全资子公司，FFG 进入长崎县 |
 | 2018-12 | **十八银行经营整合决定**，因反垄断审查延后 |
 | 2020-10-01 | **十八银行 + 亲和银行 → 十八亲和银行**，长崎县地盘整合完成 |
@@ -91,9 +91,9 @@ FFG（上市持股公司，8354）
 
 | 分部 | 主要实体 | 特征 |
 |---|---|---|
-| 福冈核心地盘 | [[fukuoka-bank|福冈银行]] | 九州最大地方银行，都市零售 + 中坚企业主办银行 |
-| 熊本地盘 | [[kumamoto-bank|熊本银行]] | 熊本县业务地盘 |
-| 长崎地盘 | [[18-shinwa-bank|十八亲和银行]] | 2020-10 合并完成，长崎县内份额突出 |
+| 福冈核心地盘 | [[regional-banks/fukuoka-bank|福冈银行]] | 九州最大地方银行，都市零售 + 中坚企业主办银行 |
+| 熊本地盘 | [[regional-banks/kumamoto-bank|熊本银行]] | 熊本县业务地盘 |
+| 长崎地盘 | [[regional-banks/18-shinwa-bank|十八亲和银行]] | 2020-10 合并完成，长崎县内份额突出 |
 | 全国数字业务 | みんなの銀行 | 日本首家全云原生银行，并向外部提供 BaaS |
 | 证券 | FFG 证券 | 集团证券业务 |
 | 地域 fintech | iBank Marketing | Wallet+ 应用运营 |
@@ -125,13 +125,13 @@ FFG（上市持股公司，8354）
 
 - 以福冈、熊本、长崎三县地盘整合 + 全国数字展开为双轴。
 - 2020-10 十八亲和银行整合完成后，长崎县内主办银行地位进一步加强。
-- 2007 年起通过 [[kumamoto-bank|熊本银行]] 子公司化进入熊本县。
+- 2007 年起通过 [[regional-banks/kumamoto-bank|熊本银行]] 子公司化进入熊本县。
 
 ### 地方银行再编中的位置
 
 - 以净利润 854 亿日元、总资产 33.56 兆日元计，属于日本最大级别的独立地方银行集团。
-- 在地方银行再编中与 SBI 第四大银行构想、[[regional-banks/chiba-bank|千叶银行集团]]、[[concordia-fg]]、[[mebuki-fg]] 等同属广域联合参照对象。
-- 面对 [[mufg]]、[[smfg]]、[[mizuho-fg]] 等大型银行集团，FFG 的差异化路径是地方银行整合与 BaaS。
+- 在地方银行再编中与 SBI 第四大银行构想、[[regional-banks/chiba-bank|千叶银行集团]]、[[regional-banks/concordia-fg]]、[[regional-banks/mebuki-fg]] 等同属广域联合参照对象。
+- 面对 [[megabanks/mufg]]、[[megabanks/smfg]]、[[megabanks/mizuho-fg]] 等大型银行集团，FFG 的差异化路径是地方银行整合与 BaaS。
 
 ## 4. 监管与政策
 
@@ -146,8 +146,8 @@ FFG（上市持股公司，8354）
 
 ## Related
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]]
-- [[regional-banks/chiba-bank|chiba-bank-fg]] · [[concordia-fg]] · [[mebuki-fg]] · [[sbi-hd]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]
+- [[regional-banks/chiba-bank|chiba-bank-fg]] · [[regional-banks/concordia-fg]] · [[regional-banks/mebuki-fg]] · [[megabanks/sbi-hd]]
 - [[banking/minna-bank-baas-model]] · [[banking/mercari-bank-license-stack]]
 
 ## Sources

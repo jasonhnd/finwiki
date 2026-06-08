@@ -15,7 +15,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-A midsize regional bank based in eastern Shizuoka Prefecture, around Numazu. It was **founded as Negata Bank in 1895 年 and has a 130 -year history**. From the 1990 年s to the 2010 年s it was highly regarded as an "honor student among regional banks" focused on personal loans and boasting high ROE, but its reputation changed completely after the **2018 年 fraudulent-loan case for the share-house project "Kabocha no Basha."** Document falsification and screening fraud were carried out organizationally in more than 1 兆円 of loans to individual investors, leading to an FSA business-improvement order and mass resignation of management. Since 2020 年, Suruga has been in a trust-recovery phase centered on a **capital and business alliance with [[megabanks/au-fh|ノジマ]]**. It structurally competes with [[shizuoka-fg]], the No. 1  bank in the prefecture. ^[extracted]
+A midsize regional bank based in eastern Shizuoka Prefecture, around Numazu. It was **founded as Negata Bank in 1895 年 and has a 130 -year history**. From the 1990 年s to the 2010 年s it was highly regarded as an "honor student among regional banks" focused on personal loans and boasting high ROE, but its reputation changed completely after the **2018 年 fraudulent-loan case for the share-house project "Kabocha no Basha."** Document falsification and screening fraud were carried out organizationally in more than 1 兆円 of loans to individual investors, leading to an FSA business-improvement order and mass resignation of management. Since 2020 年, Suruga has been in a trust-recovery phase centered on a **capital and business alliance with [[megabanks/au-fh|ノジマ]]**. It structurally competes with [[regional-banks/shizuoka-fg]], the No. 1  bank in the prefecture. ^[extracted]
 
 ## 1. Company overview
 
@@ -75,9 +75,9 @@ A midsize regional bank based in eastern Shizuoka Prefecture, around Numazu. It 
 
 ### Competitive relationships
 
-- **Inside the prefecture**: [[shizuoka-fg]] / [[shizuoka-bank]] are No. 1 across the prefecture. [[shimizu-bank]] and [[shizuoka-chuo-bank]] are separate local-bank peers; Suruga is weighted toward eastern Shizuoka.
-- **Out-of-prefecture expansion**: branches in western Kanagawa and western Tokyo put it in direct competition with large regional banks, megabanks, and [[concordia-fg]].
-- **Personal-loan residue**: as real-estate lending contracts, younger customers leak to online banks such as [[paypay-fg]] / [[au-fh]] / [[sony-fg]].
+- **Inside the prefecture**: [[regional-banks/shizuoka-fg]] / [[regional-banks/shizuoka-bank]] are No. 1 across the prefecture. [[regional-banks/shimizu-bank]] and [[regional-banks/shizuoka-chuo-bank]] are separate local-bank peers; Suruga is weighted toward eastern Shizuoka.
+- **Out-of-prefecture expansion**: branches in western Kanagawa and western Tokyo put it in direct competition with large regional banks, megabanks, and [[regional-banks/concordia-fg]].
+- **Personal-loan residue**: as real-estate lending contracts, younger customers leak to online banks such as [[megabanks/paypay-fg]] / [[megabanks/au-fh]] / [[megabanks/sony-fg]].
 
 ### Alliance / acquisition strategy
 
@@ -133,8 +133,8 @@ An organizational fraud case that shook the industry. It later triggered regiona
 
 ## Related
 
-- [[shizuoka-fg]] · [[concordia-fg]] · [[mufg]] · [[smfg]] · [[mizuho-fg]]
-- [[sbi-shinsei-bank]] · [[aozora-bank]], former personal-loan-focused peers
+- [[regional-banks/shizuoka-fg]] · [[regional-banks/concordia-fg]] · [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]
+- [[regional-banks/sbi-shinsei-bank]] · [[regional-banks/aozora-bank]], former personal-loan-focused peers
 
 ## Sources
 

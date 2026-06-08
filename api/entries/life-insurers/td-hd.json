@@ -49,38 +49,36 @@
     "3 セグメント差別化戦略（最大特徴）"
   ],
   "body_links": {
-    "wikilinks_count": 10,
+    "wikilinks_count": 9,
     "wikilinks": [
-      "dai-ichi-life",
       "insurance/INDEX",
-      "kampo-life",
       "life-insurers/INDEX",
       "life-insurers/dai-ichi-life",
-      "mizuho-fg",
-      "mufg",
-      "nippon-life",
-      "smfg",
-      "sony-fg"
+      "life-insurers/kampo-life",
+      "life-insurers/nippon-life",
+      "megabanks/mizuho-fg",
+      "megabanks/mufg",
+      "megabanks/smfg",
+      "megabanks/sony-fg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/dai-ichi-life",
       "https://finwiki.zksc.io/insurance/INDEX",
-      "https://finwiki.zksc.io/kampo-life",
       "https://finwiki.zksc.io/life-insurers/INDEX",
       "https://finwiki.zksc.io/life-insurers/dai-ichi-life",
-      "https://finwiki.zksc.io/mizuho-fg",
-      "https://finwiki.zksc.io/mufg",
-      "https://finwiki.zksc.io/nippon-life",
-      "https://finwiki.zksc.io/smfg",
-      "https://finwiki.zksc.io/sony-fg"
+      "https://finwiki.zksc.io/life-insurers/kampo-life",
+      "https://finwiki.zksc.io/life-insurers/nippon-life",
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/smfg",
+      "https://finwiki.zksc.io/megabanks/sony-fg"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3530,
-    "word_like_tokens": 623,
-    "inbound_wikilinks_count": 9,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 3668,
+    "word_like_tokens": 641,
+    "inbound_wikilinks_count": 12,
+    "last_modified": "2026-06-08"
   }
 }

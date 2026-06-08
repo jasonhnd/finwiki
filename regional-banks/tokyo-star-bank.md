@@ -48,8 +48,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 ## Related
 
 - [[banking/foreign-bank-japan-retreat]]
-- [[kiraboshi-bank]]
-- [[higashi-nippon-bank]]
+- [[regional-banks/kiraboshi-bank]]
+- [[regional-banks/higashi-nippon-bank]]
 - [[banking/INDEX]]
 
 ## Sources

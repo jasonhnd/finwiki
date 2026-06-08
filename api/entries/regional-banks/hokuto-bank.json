@@ -49,42 +49,36 @@
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 12,
+    "wikilinks_count": 9,
     "wikilinks": [
       "INDEX",
-      "akita-bank",
       "banking/INDEX",
       "banking/regional-bank-consolidation-pattern",
-      "fidea-hd",
       "financial-regulators/fsa",
       "financial-regulators/zenginkyo",
       "regional-banks/INDEX",
       "regional-banks/akita-bank",
       "regional-banks/fidea-hd",
-      "regional-banks/shonai-bank",
-      "shonai-bank"
+      "regional-banks/shonai-bank"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/akita-bank",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
-      "https://finwiki.zksc.io/fidea-hd",
       "https://finwiki.zksc.io/financial-regulators/fsa",
       "https://finwiki.zksc.io/financial-regulators/zenginkyo",
       "https://finwiki.zksc.io/regional-banks/INDEX",
       "https://finwiki.zksc.io/regional-banks/akita-bank",
       "https://finwiki.zksc.io/regional-banks/fidea-hd",
-      "https://finwiki.zksc.io/regional-banks/shonai-bank",
-      "https://finwiki.zksc.io/shonai-bank"
+      "https://finwiki.zksc.io/regional-banks/shonai-bank"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2856,
-    "word_like_tokens": 431,
-    "inbound_wikilinks_count": 3,
-    "last_modified": "2026-06-05"
+    "nonspace_chars": 2946,
+    "word_like_tokens": 443,
+    "inbound_wikilinks_count": 4,
+    "last_modified": "2026-06-08"
   }
 }

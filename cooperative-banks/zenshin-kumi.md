@@ -23,7 +23,7 @@ This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]]. Read 
 
 ## TL;DR
 
-日本の **信用組合 (信組) 業界の中央機関**。1954-04 設立、金融庁 registry では 2026-02-20 時点 **143 信用組合** を会員母集団とする協同組織金融機関。信金中央金庫 [[shinkin-central]] と並ぶ「中央 2 連」の一翼だが、規模は約 1/10。会員信組向け資金運用・余資運用・決済代行・システム共同センター・ATM 連携が四本柱。**信用組合 = 中小企業組合員 + 地域組合員 向け融資特化、信用金庫より会員制が厳格**で、その中央銀行に当たる。地域金融セーフティネット機能を持つ。^[extracted]
+日本の **信用組合 (信組) 業界の中央機関**。1954-04 設立、金融庁 registry では 2026-02-20 時点 **143 信用組合** を会員母集団とする協同組織金融機関。信金中央金庫 [[cooperative-banks/shinkin-central]] と並ぶ「中央 2 連」の一翼だが、規模は約 1/10。会員信組向け資金運用・余資運用・決済代行・システム共同センター・ATM 連携が四本柱。**信用組合 = 中小企業組合員 + 地域組合員 向け融資特化、信用金庫より会員制が厳格**で、その中央銀行に当たる。地域金融セーフティネット機能を持つ。^[extracted]
 
 ## 1. 会社概要
 
@@ -40,8 +40,8 @@ This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]]. Read 
 
 | 中央機関 | 業態 | 会員数 (2024) | 系統相対規模 |
 |---|---|---|---|
-| [[norinchukin]] (農林中金) | JA・JF・森組 | 約 5000+ | 最大 (総資産 100 兆円規模) |
-| [[shinkin-central]] (信金中央金庫) | 信用金庫 | 254 信金 | 中規模 (総資産 約 40 兆円) |
+| [[cooperative-banks/norinchukin]] (農林中金) | JA・JF・森組 | 約 5000+ | 最大 (総資産 100 兆円規模) |
+| [[cooperative-banks/shinkin-central]] (信金中央金庫) | 信用金庫 | 254 信金 | 中規模 (総資産 約 40 兆円) |
 | **全信組連** | **信用組合** | **143 信組** | **小規模 (信金中央金庫の約 1/10)** |
 | [[cooperative-banks/rokin-renraku|rokin-renraku]] (労働金庫連合会) | 労働金庫 | 13 労金 | 小規模 |
 
@@ -104,7 +104,7 @@ This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]]. Read 
 
 ### 信金中央金庫との対比
 
-| 項目 | [[shinkin-central]] | 全信組連 |
+| 項目 | [[cooperative-banks/shinkin-central]] | 全信組連 |
 |---|---|---|
 | 業態 | 信用金庫 (信用金庫法) | 信用組合 (協金法 + 中小協同法) |
 | 会員数 | 254 信金（2025-11 FSA registry） | **143 信組**（2026-02 FSA registry） |
@@ -135,9 +135,9 @@ This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]]. Read 
 
 ## Related
 
-- [[shinkin-central]] (信金中央金庫) — 信用金庫業界の中央機関、最近接同業態
-- [[norinchukin]] (農林中金) — 農林系の中央機関、業界規模最大
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] — メガバンク (信組組合員顧客の競合)
+- [[cooperative-banks/shinkin-central]] (信金中央金庫) — 信用金庫業界の中央機関、最近接同業態
+- [[cooperative-banks/norinchukin]] (農林中金) — 農林系の中央機関、業界規模最大
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] — メガバンク (信組組合員顧客の競合)
 - [[banking/cooperative-banking-japan]] — 協同組織金融機関全般
 - [[banking/credit-cooperative-registry-japan]] — 信用組合 143 組合の registry index
 

@@ -12,7 +12,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## Counterpoints
 
-- 「JRE BANK の BaaS モデル」: 自前銀行ライセンスを持たない設計は、[[JapanFG/rakuten-bank|楽天銀行]] 依存のシステム・規制リスク、長期的に自前化シナリオも残る ^[inferred]
+- 「JRE BANK の BaaS モデル」: 自前銀行ライセンスを持たない設計は、[[banking/rakuten-bank|楽天銀行]] 依存のシステム・規制リスク、長期的に自前化シナリオも残る ^[inferred]
 - 「Suica Pay の QR 競争」: PayPay の圧倒的シェアに対し Suica Pay の QR 勝負は不利、IC ベースに戻る選択もあり得る ^[ambiguous]
 - 「JRE POINT エコシステム」: V ポイント・dポイント・楽天ポイント等の **ポイント大連合戦略** の中で JRE POINT の独立性 vs 連携の経路は流動的 ^[inferred]
 - 「3 子会社並立」: 内部 IT 統合・顧客 ID 統合の遅れがコスト要因になるリスク ^[inferred]
@@ -20,10 +20,10 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## Open questions
 
-- JRE BANK の中期口座数目標（[[JapanFG/seven-bank|セブン銀行]] や [[JapanFG/aeon-bank|イオン銀行]] 並みの数百万口座規模を狙うか）?
+- JRE BANK の中期口座数目標（[[regional-banks/seven-bank|セブン銀行]] や [[card-issuers/aeon-bank|イオン銀行]] 並みの数百万口座規模を狙うか）?
 - ビューカード会員数 vs アクティブ会員数の乖離（業界共通課題）の実態?
 - Suica Pay の QR 普及率と PayPay 等との競合関係?
-- [[JapanFG/rakuten-bank|楽天銀行]] BaaS 契約の長期持続性 vs 自前銀行化シナリオ?
+- [[banking/rakuten-bank|楽天銀行]] BaaS 契約の長期持続性 vs 自前銀行化シナリオ?
 - 関西の JR 西日本（ICOCA + J-WEST カード）等との **JR グループ間連携 / 統合** の余地?
 - 「JRE 経済圏」のグループ KPI（決済額・カード稼働率・銀行残高）の定量化?
 
@@ -41,4 +41,4 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 本文 KPI 表「JRE BANK 口座数」から分離（開業実績の一次開示ではなく規模感の予測。^[forecast] タグ付きで本文に混入していた）:
 
-- 開業 1 年で **数十万口座規模**（[[JapanFG/rakuten-bank|楽天銀行]] BaaS 経由）と推定されていたが、JR 東日本の一次開示（有価証券報告書・FACT BOOK 等）で確認可能な公表口座数ではない将来予測値。確定値は公式 IR を要参照。
+- 開業 1 年で **数十万口座規模**（[[banking/rakuten-bank|楽天銀行]] BaaS 経由）と推定されていたが、JR 東日本の一次開示（有価証券報告書・FACT BOOK 等）で確認可能な公表口座数ではない将来予測値。確定値は公式 IR を要参照。

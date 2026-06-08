@@ -12,7 +12,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## 推論 (from TL;DR)
 
-三井物産フィナンシャルサービス は **三井物産 (8031)** 100% 子会社の **グループ内金融サービス会社**。三井物産グループの **CMS (キャッシュマネジメント) / 一括ファクタリング / グループファイナンス / 為替・金利リスクヘッジ仲介 / 海外送金** といった group-treasury 機能を担う。リース系 (外向け asset finance) は別途 [[JapanFG/ja-mitsui-leasing|JA三井リース]] (三井物産 + 農林中金系 JV) が担うため、本社は「外向けリース = JA三井リース / 内向け = 三井物産FS」の二層構造。^[inferred]
+三井物産フィナンシャルサービス は **三井物産 (8031)** 100% 子会社の **グループ内金融サービス会社**。三井物産グループの **CMS (キャッシュマネジメント) / 一括ファクタリング / グループファイナンス / 為替・金利リスクヘッジ仲介 / 海外送金** といった group-treasury 機能を担う。リース系 (外向け asset finance) は別途 [[cooperative-banks/ja-mitsui-leasing|JA三井リース]] (三井物産 + 農林中金系 JV) が担うため、本社は「外向けリース = JA三井リース / 内向け = 三井物産FS」の二層構造。^[inferred]
 
 ## 推論 (from 1. 会社概要)
 
@@ -27,7 +27,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 ## 推論 (from 三井物産の金融機能配置)
 
 三井物産グループの金融機能は以下のように分散している：^[inferred]
-注：三井物産は旧 三井財閥本流の伝統的に銀行・信託・生損保への直接出資が薄く、グループ金融は SMBC / SMTB / 三井住友海上 ([[JapanFG/mitsui-sumitomo-insurance|MSI]]) との合従連衡で構築する形が中心。住友商事との合弁である [[JapanFG/smfl|SMFL]] (SMFG + 住友商事) とは違い、三井物産自体は SMFG 系リース子会社の出資には参画していない。^[inferred]
+注：三井物産は旧 三井財閥本流の伝統的に銀行・信託・生損保への直接出資が薄く、グループ金融は SMBC / SMTB / 三井住友海上 ([[non-life-insurers/mitsui-sumitomo-insurance|MSI]]) との合従連衡で構築する形が中心。住友商事との合弁である [[leasing-firms/smfl|SMFL]] (SMFG + 住友商事) とは違い、三井物産自体は SMFG 系リース子会社の出資には参画していない。^[inferred]
 
 ## 推論 (from 三井物産の事業構造と金融機能)
 
@@ -52,6 +52,6 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 - 三井物産FS の最新の資本金 / 従業員数 / 取扱高 (三井物産 有価証券報告書 関係会社一覧で確認可能)
 - 海外子会社向け金融サービスの提供範囲 (各地域 Finance Subsidiary との重複)
-- [[JapanFG/ja-mitsui-leasing|JA三井リース]] とのグループ内取引規模
-- [[JapanFG/sumitomo-mitsui-banking-corp|SMBC]] / [[JapanFG/smtb|SMTB]] との競合 / 補完関係
+- [[cooperative-banks/ja-mitsui-leasing|JA三井リース]] とのグループ内取引規模
+- [[megabanks/sumitomo-mitsui-banking-corp|SMBC]] / [[trust-banks/smtb|SMTB]] との競合 / 補完関係
 - 三井物産の資源・エネルギー取引に紐づくグループ内与信の規模
