@@ -107,11 +107,16 @@ export function isPublicPage(relPath: string): boolean {
   return relPath.split("/").every((part) => !part.startsWith("."));
 }
 
+function frontmatterBounds(text: string): { bodyStart: number; block: string } | null {
+  const match = /^---\r?\n([\s\S]*?)\r?\n---(?:\r?\n|$)/.exec(text);
+  if (!match) return null;
+  return { bodyStart: match[0].length, block: match[1] };
+}
+
 export function stripFrontmatter(text: string): string {
-  if (!text.startsWith("---\n")) return text;
-  const end = text.indexOf("\n---", 4);
-  if (end === -1) return text;
-  return text.slice(end + 4).replace(/^\s+/, "");
+  const bounds = frontmatterBounds(text);
+  if (!bounds) return text;
+  return text.slice(bounds.bodyStart).replace(/^\s+/, "");
 }
 
 function stripEdgeQuotes(value: string): string {
@@ -119,10 +124,9 @@ function stripEdgeQuotes(value: string): string {
 }
 
 export function extractFrontmatter(text: string): Record<string, unknown> {
-  if (!text.startsWith("---\n")) return {};
-  const end = text.indexOf("\n---", 4);
-  if (end === -1) return {};
-  const block = text.slice(4, end);
+  const bounds = frontmatterBounds(text);
+  if (!bounds) return {};
+  const block = bounds.block;
   const result: Record<string, unknown> = {};
   let currentList: string[] | null = null;
 
@@ -261,6 +265,8 @@ export function extractMarkdownLinks(text: string): string[] {
   const links = new Set<string>();
   for (const match of text.matchAll(MARKDOWN_LINK_RE)) {
     const url = match[2].trim();
+    const normalized = url.replace(/^(\.\.\/)+/, "").replace(/^\/+/, "");
+    if (normalized.startsWith("docs/")) continue;
     if (url && !url.startsWith("#")) links.add(url);
   }
   return [...links].sort().slice(0, 40);

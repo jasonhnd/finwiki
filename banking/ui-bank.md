@@ -23,7 +23,7 @@ sources:
   - "https://www.tokyo-kiraboshifg.co.jp/"
   - "https://www.tokyo-kiraboshifg.co.jp/ir/"
   - "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx"
-canonical_anchor: JapanFG/ui-bank
+canonical_anchor: regional-banks/ui-bank
 ---
 
 # UI Bank operating profile (UI銀行 / きらぼし FG 系)

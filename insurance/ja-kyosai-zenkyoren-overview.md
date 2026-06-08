@@ -23,7 +23,7 @@ sources:
   - "https://www.maff.go.jp/j/keiei/sosiki/kyosoka/k_kinyu/"
   - "https://www.fsa.go.jp/policy/economic_value-based_solvency/index.html"
   - "https://www.zenchu-ja.or.jp/"
-canonical_anchor: JapanFG/ja-kyosairen
+canonical_anchor: non-life-insurers/ja-kyosairen
 ---
 
 # JA Kyosai / Zenkyoren overview

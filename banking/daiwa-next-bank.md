@@ -22,7 +22,7 @@ sources:
   - "https://www.daiwa-grp.jp/"
   - "https://www.daiwa-grp.jp/ir/"
   - "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx"
-canonical_anchor: JapanFG/daiwa-next-bank
+canonical_anchor: regional-banks/daiwa-next-bank
 ---
 
 # Daiwa Next Bank operating profile (大和ネクスト銀行)

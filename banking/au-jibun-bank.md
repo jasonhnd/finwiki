@@ -16,7 +16,7 @@ tags: [banking, net-bank, au, kddi, digital-bank]
 status: active
 sources:
   - "https://www.jibunbank.co.jp/corporate/outline/"
-canonical_anchor: JapanFG/au-jibun-bank
+canonical_anchor: regional-banks/au-jibun-bank
 ---
 
 # auじぶん銀行 (au Jibun Bank)

@@ -1,6 +1,6 @@
 #!/usr/bin/env bun
 
-import { mkdir, writeFile } from "node:fs/promises";
+import { mkdir, rm, writeFile } from "node:fs/promises";
 import { posix as pathPosix } from "node:path";
 import { escape } from "node:querystring";
 import {
@@ -404,6 +404,8 @@ async function writeAiIndex(model: Model, outDir: string): Promise<void> {
 }
 
 async function writeApiEntries(model: Model, options: CliOptions): Promise<number> {
+  await rm(pathPosix.join(options.outDir, "api/entries"), { recursive: true, force: true });
+
   const entries = model.entries;
   const inbound = new Map<string, number>();
   for (const entry of entries) {
