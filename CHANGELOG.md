@@ -31,6 +31,20 @@
 
 ## 2026-06-08 (In progress)
 
+### llms-full.txt の 404 ルート修正 (Issue #1 フォローアップ) / Fix 404 routes in llms-full.txt / 修复 llms-full.txt 中的 404 路由
+
+#### 日本語記録 / English / 中文
+
+- **JST 時刻**: 2026-06-08 JST。
+- **背景**: [Issue #1](https://github.com/jasonhnd/finwiki/issues/1) の `ai:audit`(`tools/txt_route_audit.ts`)が `llms-full.txt` に 125 件の壊れたルート参照を検出した。原因は wiki corpus ではなく生成器側にあった。
+- **根本原因**: `lib/markdown_helpers.ts` の `resolved_wikilinks` は `wikilinkToUrl(target)` を素のまま使っており、解決を一切行わない。`wiki_link_audit.ts` は alias / last-slug 解決でリンクを実在ファイルへ解決する(dead=0)が、生成器はリテラルなターゲットをそのまま URL 化していたため、移動/別名パス(旧 `JapanFG/<entity>`、別ドメインの `banking/aeon-bank` など)が 404 ルートとして出力されていた。
+- **修正**: `resolveWikilinkRoutes()` を追加し、各 body wikilink を実在する公開ルート集合に対して解決(basename フォールバックは `wiki_link_audit` の last-slug 解決を踏襲)。実在ページに解決できないターゲットは出力しない。`banking/aeon-bank` → `card-issuers/aeon-bank` のような誤ドメインリンクは訂正、真に存在しないものは除去。
+- **範囲**: `lib/markdown_helpers.ts`、`tools/generate_ai_discovery.ts`、および再生成された discovery surface(`llms-full.txt`、`ai-index.json`、`api/entries/**`、`index.html`)。wiki 本文は不変更。
+- **検証結果**: `bun tools/txt_route_audit.ts` PASS(`llms-full.txt` 1565 リンク / 0 broken、以前 125 broken)。`release.ts --check --strict`、`docs:audit`、`active_doc_stale_scan`、`git diff --check` すべて EXIT=0。
+- **残タスク**: なし。Issue #1 をクローズ。次は generated-surface drift scan (Issue #4)。
+- **EN**: `ai:audit` ([Issue #1](https://github.com/jasonhnd/finwiki/issues/1)) flagged 125 broken route references in `llms-full.txt`. Root cause was the generator, not the corpus: `resolved_wikilinks` in `lib/markdown_helpers.ts` used bare `wikilinkToUrl(target)` with no resolution, while `wiki_link_audit.ts` resolves links via alias/last-slug lookup (dead=0) — so moved/aliased targets (old `JapanFG/<entity>`, wrong-domain `banking/aeon-bank`) were emitted as 404 routes. Added `resolveWikilinkRoutes()`, which resolves each body wikilink against the real public-route set (with a basename fallback mirroring `wiki_link_audit`'s last-slug logic) and drops anything that cannot map to a real page; wrong-domain links are corrected, genuinely dead ones removed. Touched `lib/markdown_helpers.ts` + `tools/generate_ai_discovery.ts` and the regenerated discovery surface; no wiki body content changed. `ai:audit` now PASSES (1565 links, 0 broken).
+- **中文**: `ai:audit`（[Issue #1](https://github.com/jasonhnd/finwiki/issues/1)）在 `llms-full.txt` 中检出 125 个坏路由引用。根因在生成器而非语料：`lib/markdown_helpers.ts` 的 `resolved_wikilinks` 直接用 `wikilinkToUrl(target)` 而不做解析，而 `wiki_link_audit.ts` 会用别名 / 末段 slug 把链接解析到真实文件（dead=0）——于是移动过/带别名的目标（旧 `JapanFG/<实体>`、错域名 `banking/aeon-bank`）被原样输出成 404 路由。新增 `resolveWikilinkRoutes()`，将每个正文 wikilink 对照真实公开路由集合解析（basename 回退沿用 `wiki_link_audit` 的末段 slug 逻辑），无法解析到真实页面的目标不再输出；错域名链接被订正，真正不存在的被剔除。改动 `lib/markdown_helpers.ts` 与 `tools/generate_ai_discovery.ts` 及重新生成的发现层；wiki 正文未改。`ai:audit` 现已通过（1565 链接，0 坏链）。
+
 ### active-doc stale scan の追加 / Add active-doc stale scan / 增加活跃文档陈旧事实扫描
 
 #### 日本語記録 / English / 中文

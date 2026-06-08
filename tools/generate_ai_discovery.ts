@@ -17,6 +17,7 @@ import {
   parseDomainMap,
   publicUrlFor,
   readTextUtf8,
+  resolveWikilinkRoutes,
   SITE_URL,
   siteUrl,
   wikilinkToUrl,
@@ -190,6 +191,22 @@ async function buildModel(options: CliOptions): Promise<Model> {
   const entries: Entry[] = [];
   for (const relPath of publicRelPaths) {
     entries.push(await buildEntry(options.rootDir, relPath, textByRelPath.get(relPath) ?? ""));
+  }
+
+  // Resolve each entry's body wikilinks against the real public route set so the
+  // discovery surface never emits a 404 route (buildEntry leaves this empty).
+  const routeSet = new Set<string>();
+  const basenameToRoute = new Map<string, string>();
+  for (const entry of entries) {
+    const route = entry.url.replace(SITE_URL, "");
+    routeSet.add(route);
+    const base = pathPosix.basename(entry.source_path).replace(/\.md$/, "");
+    if (base && base !== "INDEX" && !basenameToRoute.has(base)) {
+      basenameToRoute.set(base, route);
+    }
+  }
+  for (const entry of entries) {
+    entry.resolved_wikilinks = resolveWikilinkRoutes(entry.wikilinks, routeSet, basenameToRoute).slice(0, 80);
   }
 
   const allText = relPaths.map((relPath) => textByRelPath.get(relPath) ?? "").join("\n");

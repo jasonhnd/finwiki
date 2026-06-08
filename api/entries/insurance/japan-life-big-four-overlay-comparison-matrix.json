@@ -103,8 +103,6 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/japanese-government-bonds",
-      "https://finwiki.zksc.io/JapanFG/mufg-life-japan",
       "https://finwiki.zksc.io/asset-managers/asset-management-one",
       "https://finwiki.zksc.io/asset-managers/nissay-asset-management",
       "https://finwiki.zksc.io/financial-licenses/insurance-license-and-solvency",
@@ -132,12 +130,9 @@
       "https://finwiki.zksc.io/life-insurers/manulife-japan",
       "https://finwiki.zksc.io/life-insurers/meiji-yasuda",
       "https://finwiki.zksc.io/life-insurers/metlife-japan",
-      "https://finwiki.zksc.io/life-insurers/neo-first-life",
       "https://finwiki.zksc.io/life-insurers/nippon-life",
-      "https://finwiki.zksc.io/life-insurers/prudential-life-japan",
       "https://finwiki.zksc.io/life-insurers/sony-life",
-      "https://finwiki.zksc.io/life-insurers/sumitomo-life",
-      "https://finwiki.zksc.io/non-life-insurers/aig-life-japan"
+      "https://finwiki.zksc.io/life-insurers/sumitomo-life"
     ],
     "external_links_count": 0,
     "external_links": []

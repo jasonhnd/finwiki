@@ -90,9 +90,7 @@
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/financial-regulators/dbj",
       "https://finwiki.zksc.io/financial-regulators/jbic",
-      "https://finwiki.zksc.io/financial-regulators/jbic\\",
       "https://finwiki.zksc.io/financial-regulators/jfc",
-      "https://finwiki.zksc.io/financial-regulators/jfc\\",
       "https://finwiki.zksc.io/megabanks/mizuho-fg",
       "https://finwiki.zksc.io/megabanks/mufg",
       "https://finwiki.zksc.io/megabanks/smfg",
@@ -105,8 +103,7 @@
       "https://finwiki.zksc.io/policy-finance/jogmec",
       "https://finwiki.zksc.io/policy-finance/jogmec-equity-and-offtake-mechanics",
       "https://finwiki.zksc.io/policy-finance/nexi",
-      "https://finwiki.zksc.io/policy-finance/nexi-export-credit-insurance-products",
-      "https://finwiki.zksc.io/policy-finance/nexi\\"
+      "https://finwiki.zksc.io/policy-finance/nexi-export-credit-insurance-products"
     ],
     "external_links_count": 0,
     "external_links": []

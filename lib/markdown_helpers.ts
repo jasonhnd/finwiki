@@ -78,6 +78,44 @@ export function wikilinkToUrl(target: string): string {
   return siteUrl(normalized.endsWith(".md") ? normalized.slice(0, -3) : normalized);
 }
 
+// Resolve raw body wikilink targets to public route URLs. wikilinkToUrl alone
+// trusts the literal target, so a wikilink whose target is a moved/aliased path
+// (still resolved by wiki_link_audit's alias map, but not itself a real route)
+// would emit a 404 URL into the discovery surface. Here we resolve against the
+// actual public route set with a basename fallback that mirrors wiki_link_audit's
+// last-slug lookup, and drop any target that cannot map to a real page.
+export function resolveWikilinkRoutes(
+  rawTargets: readonly string[],
+  routeSet: ReadonlySet<string>,
+  basenameToRoute: ReadonlyMap<string, string>,
+): string[] {
+  const urls: string[] = [];
+  const seen = new Set<string>();
+  for (const raw of rawTargets) {
+    const normalized = raw.split("|", 1)[0].split("#", 1)[0].trim().replace(/\.md$/, "");
+    if (!normalized) continue;
+    const route = resolveWikilinkRoute(normalized, routeSet, basenameToRoute);
+    if (!route) continue;
+    const url = siteUrl(route);
+    if (!seen.has(url)) {
+      seen.add(url);
+      urls.push(url);
+    }
+  }
+  return urls;
+}
+
+function resolveWikilinkRoute(
+  normalized: string,
+  routeSet: ReadonlySet<string>,
+  basenameToRoute: ReadonlyMap<string, string>,
+): string | null {
+  if (routeSet.has(normalized)) return normalized;
+  if (routeSet.has(`${normalized}/INDEX`)) return `${normalized}/INDEX`;
+  const slug = normalized.split("/").pop() ?? normalized;
+  return basenameToRoute.get(slug) ?? basenameToRoute.get(slug.toLowerCase()) ?? null;
+}
+
 export async function readTextUtf8(filePath: string): Promise<string> {
   return readFile(filePath, "utf8");
 }
@@ -325,7 +363,9 @@ export async function buildEntry(rootDir: string, relPath: string, text: string)
     summary: extractSummary(text),
     headings: extractHeadings(text),
     wikilinks,
-    resolved_wikilinks: wikilinks.slice(0, 80).map((item) => wikilinkToUrl(item)),
+    // Populated in buildModel, which resolves targets against the global public
+    // route set so emitted URLs never 404 (see resolveWikilinkRoutes).
+    resolved_wikilinks: [],
     markdown_links: extractMarkdownLinks(text),
     nonspace_chars: text.replace(/\s+/g, "").length,
     word_like_tokens: countWordLikeTokens(text),

@@ -106,15 +106,11 @@
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
       "https://finwiki.zksc.io/card-issuers/aeon-bank",
-      "https://finwiki.zksc.io/card-issuers/aeon-bank\\",
       "https://finwiki.zksc.io/card-issuers/aeon-financial-service",
-      "https://finwiki.zksc.io/card-issuers/aeon-financial-service\\",
       "https://finwiki.zksc.io/card-issuers/seven-card-service",
-      "https://finwiki.zksc.io/card-issuers/seven-card-service\\",
       "https://finwiki.zksc.io/financial-licenses/payment-license-stack",
       "https://finwiki.zksc.io/loyalty/japan-points-landscape",
       "https://finwiki.zksc.io/payment-firms/rakuten-edy",
-      "https://finwiki.zksc.io/payment-firms/rakuten-edy\\",
       "https://finwiki.zksc.io/payments/INDEX",
       "https://finwiki.zksc.io/payments/cashless-jp-landscape",
       "https://finwiki.zksc.io/payments/famipay-valucreate-strategy",
@@ -129,11 +125,8 @@
       "https://finwiki.zksc.io/payments/prepaid-payment-instrument-issuers-japan-index",
       "https://finwiki.zksc.io/payments/waon-nanaco-retail-prepaid-comparison",
       "https://finwiki.zksc.io/regional-banks/seven-bank",
-      "https://finwiki.zksc.io/regional-banks/seven-bank\\",
       "https://finwiki.zksc.io/retail/aeon-group",
-      "https://finwiki.zksc.io/retail/aeon-group\\",
-      "https://finwiki.zksc.io/retail/seven-and-i-hd",
-      "https://finwiki.zksc.io/retail/seven-and-i-hd\\"
+      "https://finwiki.zksc.io/retail/seven-and-i-hd"
     ],
     "external_links_count": 0,
     "external_links": []
