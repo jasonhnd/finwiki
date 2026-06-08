@@ -23,8 +23,8 @@
 - Canonical entity anchors: 12 (linking 12 mirror pages to their source-of-truth entry)
 - Link-audited entries: 1485
 - Unresolved link issues: 0
-- Non-space UTF-8 characters across Markdown: 11,043,373
-- Word-like tokens: 1,780,840
+- Non-space UTF-8 characters across Markdown: 11,046,192
+- Word-like tokens: 1,781,345
 
 ## URL Rules for AI Readers
 

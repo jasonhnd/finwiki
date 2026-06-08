@@ -31,6 +31,22 @@
 
 ## 2026-06-08 (In progress)
 
+### generated-surface drift scan の追加 / Add generated-surface drift scan / 增加生成面漂移扫描
+
+#### 日本語記録 / English / 中文
+
+- **JST 時刻**: 2026-06-09 JST。
+- **背景**: [Issue #4](https://github.com/jasonhnd/finwiki/issues/4) (Phase B) に基づき、生成された公開サーフェスが現行 corpus と整合し `docs/` を漏らさないことを検査する field-aware なドリフトスキャンを追加した。`test-plan.md` の一回限り docs-leakage / stale-residue grep を再利用可能なゲートに昇格。
+- **範囲**: `tools/generated_surface_drift_scan.ts` 新規、`package.json` への `surface:drift` 追加、`docs/07-quality/test-plan.md` / `qa-checklist.md` でのコマンド参照、`CHANGELOG.md` 更新。`release.ts --write` で日付・footer timestamp を同期。
+- **主要変更**:
+    - API 整合: corpus から期待 slug 集合を導出(`iterMarkdownFiles` + `isPublicPage` + domain-prefix、`releases/`・`.templates/` 除外 = `writeApiEntries` と一致)し、`api/entries/**.json` 実体・`index.json` manifest と照合。欠落・stale 残留・count drift を path 付きで報告。
+    - docs 漏洩: field-aware。`source_path`/`slug`/URL フィールド・`<loc>`・公開 docs ルート URL・docs への markdown link のみ検査。`summary` 等の prose と外部 URL(例 `docs.sourcify.dev/docs/`)は誤検知しない。
+    - 読み取り専用、drift 検出時は非ゼロ終了。
+- **検証結果**: 現行サーフェスで PASS(API 1478 entries 整合、6 面で docs 漏洩 0)。一時 fixture で stale-api-residue と docs-leak を path/field 付きで検出(EXIT=1)後撤去。`release.ts --check --strict`(date 同期後)・`wiki_link_audit --fail-on-issues`・`git diff --check` EXIT=0。
+- **残タスク**: なし。Issue #4 クローズ。次は i18n status command (Issue #5)。
+- **EN**: Added `tools/generated_surface_drift_scan.ts` per [Issue #4](https://github.com/jasonhnd/finwiki/issues/4) (Phase B), promoting the one-off docs-leakage / stale-residue greps in `test-plan.md` into a reusable, field-aware gate. **API alignment:** it derives the expected slug set from the corpus (`iterMarkdownFiles` + `isPublicPage` + domain-prefix, excluding `releases/` and `.templates/` — matching `writeApiEntries`) and reconciles it against the actual `api/entries/**.json` files and the `index.json` manifest, reporting missing files, stale residue, and count drift with paths. **Docs leakage:** field-aware — only `source_path`/`slug`/URL fields, sitemap `<loc>`, our public docs-route URLs, and markdown links to `docs/` are checked, so prose (`summary`) and external URLs that merely contain `/docs/` (e.g. `docs.sourcify.dev/docs/`) never false-fail. Read-only; exits non-zero on drift. Added `surface:drift` and referenced it from the test plan / QA checklist. Validated PASS on the current surface (1478 API entries aligned, 0 docs leakage); a temporary fixture proved both stale-api-residue and docs-leak are reported with path/field.
+- **中文**: 根据 [Issue #4](https://github.com/jasonhnd/finwiki/issues/4) (Phase B) 增加了 `tools/generated_surface_drift_scan.ts`，把 `test-plan.md` 里一次性的 docs 泄漏 / 残留 grep 升级为可重用、字段感知的门禁。**API 对齐**：从语料导出期望 slug 集合（`iterMarkdownFiles` + `isPublicPage` + 域前缀，排除 `releases/`、`.templates/`，与 `writeApiEntries` 一致），与实际 `api/entries/**.json` 文件及 `index.json` 清单核对，按路径报告缺失、残留与计数漂移。**docs 泄漏**：字段感知——只检查 `source_path`/`slug`/URL 字段、sitemap `<loc>`、本站 docs 路由 URL、以及指向 `docs/` 的 markdown 链接，因此正文（`summary`）与仅含 `/docs/` 的外部 URL（如 `docs.sourcify.dev/docs/`）不会误报。只读、发现漂移时非零退出。新增 `surface:drift` 并在测试计划 / QA 清单中引用。当前生成面验证通过（1478 个 API 条目对齐、0 docs 泄漏）；临时夹具证明 stale-api-residue 与 docs-leak 都能带路径/字段报告。
+
 ### llms-full.txt の 404 ルート修正 (Issue #1 フォローアップ) / Fix 404 routes in llms-full.txt / 修复 llms-full.txt 中的 404 路由
 
 #### 日本語記録 / English / 中文

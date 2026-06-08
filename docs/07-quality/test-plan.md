@@ -19,7 +19,7 @@ git diff --check
 | Change Type | Additional Checks |
 |---|---|
 | Site rendering change | Astro build and browser spot check. |
-| Discovery generator change | Inspect `ai-index.json`, `llms-full.txt`, API output, stale API residue, docs-link filtering. |
+| Discovery generator change | `bun tools/generated_surface_drift_scan.ts` (API alignment, stale residue, docs leakage), then diff-review `ai-index.json` / `llms-full.txt`. |
 | Domain move | Broad wikilink audit, i18n mirror path/source check. |
 | Translation pipeline change | Placeholder tests and sample mirror verify. |
 | Release tooling change | Positive and negative gate tests. |
