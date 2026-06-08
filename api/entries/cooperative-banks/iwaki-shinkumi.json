@@ -65,9 +65,9 @@
       "cooperative-banks/sapporo-chuo-shinkumi",
       "cooperative-banks/zenshin-kumi",
       "financial-regulators/dic",
+      "financial-regulators/financial-laws-stack",
       "financial-regulators/shoko-chukin",
-      "regional-banks/toho-bank",
-      "regulators-japan/financial-laws-stack"
+      "regional-banks/toho-bank"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/banking/cooperative-banking-japan",
@@ -77,9 +77,9 @@
       "https://finwiki.zksc.io/cooperative-banks/sapporo-chuo-shinkumi",
       "https://finwiki.zksc.io/cooperative-banks/zenshin-kumi",
       "https://finwiki.zksc.io/financial-regulators/dic",
+      "https://finwiki.zksc.io/financial-regulators/financial-laws-stack",
       "https://finwiki.zksc.io/financial-regulators/shoko-chukin",
-      "https://finwiki.zksc.io/regional-banks/toho-bank",
-      "https://finwiki.zksc.io/regulators-japan/financial-laws-stack"
+      "https://finwiki.zksc.io/regional-banks/toho-bank"
     ],
     "external_links_count": 1,
     "external_links": [
@@ -87,9 +87,9 @@
     ]
   },
   "metrics": {
-    "nonspace_chars": 4582,
+    "nonspace_chars": 4586,
     "word_like_tokens": 686,
     "inbound_wikilinks_count": 8,
-    "last_modified": "2026-06-06"
+    "last_modified": "2026-06-08"
   }
 }

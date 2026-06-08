@@ -1,6 +1,6 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-06-08T17:30:46+09:00",
+  "generated_at": "2026-06-08T22:48:48+09:00",
   "counts": {
     "markdown_files": 1566,
     "public_markdown_pages": 1565,
@@ -9,8 +9,8 @@
     "link_audited_entries": 1485,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 11039013,
-    "word_like_tokens": 1780073,
+    "nonspace_utf8_chars": 11038420,
+    "word_like_tokens": 1779969,
     "entity_anchors": 12,
     "entity_mirror_pages": 12
   },
@@ -4274,7 +4274,6 @@
         "JapanFG/commons-am",
         "JapanFG/hifumi",
         "JapanFG/sawakami-am",
-        "asset-management/INDEX",
         "asset-managers/INDEX",
         "asset-managers/daiwa-am",
         "asset-managers/mitsubishi-ufj-am",
@@ -4290,7 +4289,6 @@
         "https://finwiki.zksc.io/JapanFG/commons-am",
         "https://finwiki.zksc.io/JapanFG/hifumi",
         "https://finwiki.zksc.io/JapanFG/sawakami-am",
-        "https://finwiki.zksc.io/asset-management/INDEX",
         "https://finwiki.zksc.io/asset-managers/INDEX",
         "https://finwiki.zksc.io/asset-managers/daiwa-am",
         "https://finwiki.zksc.io/asset-managers/mitsubishi-ufj-am",
@@ -4303,9 +4301,9 @@
         "https://finwiki.zksc.io/trust-banks/master-trust-bank"
       ],
       "markdown_links": [],
-      "nonspace_chars": 6252,
+      "nonspace_chars": 6248,
       "word_like_tokens": 965,
-      "last_modified": "2026-06-06"
+      "last_modified": "2026-06-08"
     },
     {
       "source_path": "asset-managers/sbi-asset-management.md",
@@ -9225,7 +9223,7 @@
       "wikilinks": [
         "JapanFG/nissan-finance",
         "JapanFG/sony-finance",
-        "asset-management/cvc-japan-landscape",
+        "asset-managers/cvc-japan-landscape",
         "card-issuers/INDEX",
         "card-issuers/aeon-financial-service",
         "card-issuers/toyota-finance",
@@ -9237,7 +9235,7 @@
       "resolved_wikilinks": [
         "https://finwiki.zksc.io/JapanFG/nissan-finance",
         "https://finwiki.zksc.io/JapanFG/sony-finance",
-        "https://finwiki.zksc.io/asset-management/cvc-japan-landscape",
+        "https://finwiki.zksc.io/asset-managers/cvc-japan-landscape",
         "https://finwiki.zksc.io/card-issuers/INDEX",
         "https://finwiki.zksc.io/card-issuers/aeon-financial-service",
         "https://finwiki.zksc.io/card-issuers/toyota-finance",
@@ -9247,9 +9245,9 @@
         "https://finwiki.zksc.io/megabanks/sony-fg"
       ],
       "markdown_links": [],
-      "nonspace_chars": 6024,
+      "nonspace_chars": 6020,
       "word_like_tokens": 1031,
-      "last_modified": "2026-06-06"
+      "last_modified": "2026-06-08"
     },
     {
       "source_path": "card-issuers/aeon-financial-service.md",
@@ -11207,9 +11205,9 @@
         "cooperative-banks/sapporo-chuo-shinkumi",
         "cooperative-banks/zenshin-kumi",
         "financial-regulators/dic",
+        "financial-regulators/financial-laws-stack",
         "financial-regulators/shoko-chukin",
-        "regional-banks/toho-bank",
-        "regulators-japan/financial-laws-stack"
+        "regional-banks/toho-bank"
       ],
       "resolved_wikilinks": [
         "https://finwiki.zksc.io/banking/cooperative-banking-japan",
@@ -11219,16 +11217,16 @@
         "https://finwiki.zksc.io/cooperative-banks/sapporo-chuo-shinkumi",
         "https://finwiki.zksc.io/cooperative-banks/zenshin-kumi",
         "https://finwiki.zksc.io/financial-regulators/dic",
+        "https://finwiki.zksc.io/financial-regulators/financial-laws-stack",
         "https://finwiki.zksc.io/financial-regulators/shoko-chukin",
-        "https://finwiki.zksc.io/regional-banks/toho-bank",
-        "https://finwiki.zksc.io/regulators-japan/financial-laws-stack"
+        "https://finwiki.zksc.io/regional-banks/toho-bank"
       ],
       "markdown_links": [
         "https://www.iwaki-shinkumi.com/about-disk.html"
       ],
-      "nonspace_chars": 4582,
+      "nonspace_chars": 4586,
       "word_like_tokens": 686,
-      "last_modified": "2026-06-06"
+      "last_modified": "2026-06-08"
     },
     {
       "source_path": "cooperative-banks/ja-bank-tokyo-shinren.md",
@@ -26341,9 +26339,9 @@
         "https://finwiki.zksc.io/trust-banks/smtb"
       ],
       "markdown_links": [],
-      "nonspace_chars": 27894,
+      "nonspace_chars": 27892,
       "word_like_tokens": 4412,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-06-08"
     },
     {
       "source_path": "finance/japan-private-equity-operating-model.md",
@@ -36061,9 +36059,9 @@
         "https://finwiki.zksc.io/fintech/jp-trust-type-sc-architecture"
       ],
       "markdown_links": [],
-      "nonspace_chars": 1971,
+      "nonspace_chars": 1975,
       "word_like_tokens": 297,
-      "last_modified": "2026-06-02"
+      "last_modified": "2026-06-08"
     },
     {
       "source_path": "fintech/japan-listed-company-disclosure-monitoring.md",
@@ -91438,8 +91436,8 @@
         "https://finwiki.zksc.io/wikilink"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3971,
-      "word_like_tokens": 730,
+      "nonspace_chars": 3380,
+      "word_like_tokens": 626,
       "last_modified": "2026-06-08"
     }
   ]

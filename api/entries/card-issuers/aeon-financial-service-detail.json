@@ -63,7 +63,7 @@
     "wikilinks": [
       "JapanFG/nissan-finance",
       "JapanFG/sony-finance",
-      "asset-management/cvc-japan-landscape",
+      "asset-managers/cvc-japan-landscape",
       "card-issuers/INDEX",
       "card-issuers/aeon-financial-service",
       "card-issuers/toyota-finance",
@@ -75,7 +75,7 @@
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/JapanFG/nissan-finance",
       "https://finwiki.zksc.io/JapanFG/sony-finance",
-      "https://finwiki.zksc.io/asset-management/cvc-japan-landscape",
+      "https://finwiki.zksc.io/asset-managers/cvc-japan-landscape",
       "https://finwiki.zksc.io/card-issuers/INDEX",
       "https://finwiki.zksc.io/card-issuers/aeon-financial-service",
       "https://finwiki.zksc.io/card-issuers/toyota-finance",
@@ -88,9 +88,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6024,
+    "nonspace_chars": 6020,
     "word_like_tokens": 1031,
     "inbound_wikilinks_count": 1,
-    "last_modified": "2026-06-06"
+    "last_modified": "2026-06-08"
   }
 }

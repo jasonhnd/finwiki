@@ -1,6 +1,6 @@
 # FinWiki Full LLM Manifest
 
-Generated: 2026-06-08T17:30:46+09:00
+Generated: 2026-06-08T22:48:48+09:00
 Site: https://finwiki.zksc.io
 Markdown files: 1566
 Public pages listed: 1565
@@ -599,7 +599,7 @@ Public pages listed: 1565
 - Type: wiki_entry
 - Summary: This entry sits under asset-managers INDEX as the operating-company anchor for Credit Saison グループの投資信託子会社. Read it against クレディセゾン（親会社）, peer 長期分散投資のレオス・キャピタルワークス（ひふみ投信）・さわかみ投信・コモンズ投信、distribution channel asset-managers/INDEX の直販投信群、broader context asset management index for the regulatory boundary.
 - Headings: セゾン投信 (Saison Asset Management), Wiki route, TL;DR, 1. 法人概要, 2.1 主力ファンド 2 本柱, 2.2 投資哲学, 2.3 NISA / iDeCo 対応, 3. 親会社関係（Credit Saison 連結内）
-- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/commons-am, https://finwiki.zksc.io/JapanFG/hifumi, https://finwiki.zksc.io/JapanFG/sawakami-am, https://finwiki.zksc.io/asset-managers/INDEX, https://finwiki.zksc.io/asset-managers/INDEX, https://finwiki.zksc.io/asset-managers/daiwa-am, https://finwiki.zksc.io/asset-managers/mitsubishi-ufj-am, https://finwiki.zksc.io/asset-managers/nomura-am, https://finwiki.zksc.io/card-issuers/credit-saison, https://finwiki.zksc.io/card-issuers/jaccs, https://finwiki.zksc.io/card-issuers/jcb, https://finwiki.zksc.io/card-issuers/orico
+- First resolved wikilinks: https://finwiki.zksc.io/JapanFG/commons-am, https://finwiki.zksc.io/JapanFG/hifumi, https://finwiki.zksc.io/JapanFG/sawakami-am, https://finwiki.zksc.io/asset-managers/INDEX, https://finwiki.zksc.io/asset-managers/daiwa-am, https://finwiki.zksc.io/asset-managers/mitsubishi-ufj-am, https://finwiki.zksc.io/asset-managers/nomura-am, https://finwiki.zksc.io/card-issuers/credit-saison, https://finwiki.zksc.io/card-issuers/jaccs, https://finwiki.zksc.io/card-issuers/jcb, https://finwiki.zksc.io/card-issuers/orico, https://finwiki.zksc.io/megabanks/mizuho-fg
 
 ### SBIアセットマネジメント
 - URL: https://finwiki.zksc.io/asset-managers/sbi-asset-management
@@ -1704,7 +1704,7 @@ Public pages listed: 1565
 - Type: wiki_entry
 - Summary: This entry sits under cooperative-banks INDEX as a Tohoku regional shinkumi (地域信組) anchor within the 143-cooperative population catalogued in Japan credit cooperative registry. Read it against 大阪商銀信用組合 for the ethnic-business shinkumi contrast and 全信組連 / Zenshinkumiren for the cooperative-system par
 - Headings: いわき信用組合 (Iwaki Credit Cooperative), Wiki route, TL;DR, 1. 法人概要, 組合員資格 ^[extracted], 福島県内信組ブロック (registry比較), 全信組連内の位置付け, 地域型信組の事業特性
-- First resolved wikilinks: https://finwiki.zksc.io/banking/cooperative-banking-japan, https://finwiki.zksc.io/banking/credit-cooperative-registry-japan, https://finwiki.zksc.io/cooperative-banks/INDEX, https://finwiki.zksc.io/cooperative-banks/osaka-shogin-shinkumi, https://finwiki.zksc.io/cooperative-banks/sapporo-chuo-shinkumi, https://finwiki.zksc.io/cooperative-banks/zenshin-kumi, https://finwiki.zksc.io/financial-regulators/dic, https://finwiki.zksc.io/financial-regulators/shoko-chukin, https://finwiki.zksc.io/regional-banks/toho-bank, https://finwiki.zksc.io/financial-regulators/financial-laws-stack
+- First resolved wikilinks: https://finwiki.zksc.io/banking/cooperative-banking-japan, https://finwiki.zksc.io/banking/credit-cooperative-registry-japan, https://finwiki.zksc.io/cooperative-banks/INDEX, https://finwiki.zksc.io/cooperative-banks/osaka-shogin-shinkumi, https://finwiki.zksc.io/cooperative-banks/sapporo-chuo-shinkumi, https://finwiki.zksc.io/cooperative-banks/zenshin-kumi, https://finwiki.zksc.io/financial-regulators/dic, https://finwiki.zksc.io/financial-regulators/financial-laws-stack, https://finwiki.zksc.io/financial-regulators/shoko-chukin, https://finwiki.zksc.io/regional-banks/toho-bank
 
 ### JA バンク東京信連 (東京都信用農業協同組合連合会 / JA Tokyo Shinren)
 - URL: https://finwiki.zksc.io/cooperative-banks/ja-bank-tokyo-shinren
