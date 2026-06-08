@@ -18,7 +18,7 @@
       "Japan buyout growth secondaries infra credit",
       "Japan PE LP fund vehicle comparison",
       "日本プライベートエクイティファンドストラクチャー",
-      "asset-management/cvc-japan-landscape"
+      "asset-managers/cvc-japan-landscape"
     ],
     "domain": "finance",
     "created": "2026-05-25",
@@ -128,9 +128,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 27894,
+    "nonspace_chars": 27892,
     "word_like_tokens": 4412,
     "inbound_wikilinks_count": 8,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-08"
   }
 }
