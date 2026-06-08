@@ -7,6 +7,7 @@
     "ai:audit": "bun tools/txt_route_audit.ts",
     "docs:audit": "bun tools/docs_link_audit.ts",
     "docs:stale": "bun tools/active_doc_stale_scan.ts",
+    "surface:drift": "bun tools/generated_surface_drift_scan.ts",
     "footer:timestamp": "bun tools/update_footer_timestamp.ts",
     "html:check": "bun tools/check_duplicate_html_ids.ts site/dist",
     "release:check": "bun tools/release.ts --check --strict",
