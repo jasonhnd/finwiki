@@ -31,6 +31,23 @@
 
 ## 2026-06-08 (In progress)
 
+### active-doc stale scan の追加 / Add active-doc stale scan / 增加活跃文档陈旧事实扫描
+
+#### 日本語記録 / English / 中文
+
+- **JST 時刻**: 2026-06-08 JST。
+- **背景**: [Issue #3](https://github.com/jasonhnd/finwiki/issues/3) (Phase B) に基づき、活跃な開発ドキュメントに古い実装事実が再混入しないか検査するツールを追加した。`docs/07-quality/test-plan.md` と `documentation-drift-audit.md` にあった一回限りの `rg` を、allowlist 対応の再利用可能なゲートに昇格させた。
+- **範囲**: `tools/active_doc_stale_scan.ts` の新規追加、`package.json` への `docs:stale` スクリプト追加、`docs/07-quality/test-plan.md` と `docs/07-quality/qa-checklist.md` での再利用コマンド参照、`CHANGELOG.md` の更新。
+- **主要変更**:
+    - `docs/**/*.md`（`docs/99-archive/**` を除く活跃ドキュメント）を走査し、4 つの設定可能な stale パターンを検査：旧ドメイン数（23、現在 40）、削除済み `site/src/content/entries` mirror パス、Python/postbuild 前提、report-only canonical drift 主張。
+    - 古い事実が許される箇所（archive / ADR history / dated release history / drift 監査記録 / パターンを明示する spec 行）を、理由付きの reviewable な ALLOWLIST で除外。
+    - ファイルパスと行番号・理由・修復ヒントを出力。Markdown は書き換えず、stale 検出時は非ゼロ終了。
+- **実行手順**: ツール作成 → 現行 docs で clean (EXIT=0) を確認 → 一時 fixture で 4 パターンの失敗 (EXIT=1) を確認 → fixture 削除 → `bun tools/release.ts --check --strict` と `git diff --check` が EXIT=0。
+- **検証結果**: 現行 50 docs で stale=0、意図的 fixture で 4 件検出、release check PASS。
+- **残タスク**: なし。次は generated-surface drift scan (Issue #4) の実装。
+- **EN**: Added `tools/active_doc_stale_scan.ts` per [Issue #3](https://github.com/jasonhnd/finwiki/issues/3) (Phase B). It scans active docs (`docs/**/*.md` excluding `docs/99-archive/**`) for four configurable stale patterns — the pre-split 23-domain count (now 40), the removed `site/src/content/entries` mirror path, Python/postbuild build assumptions, and report-only canonical-drift claims — promoting the one-off `rg` in `test-plan.md` / `documentation-drift-audit.md` into a reusable, allowlist-aware gate. A reviewable `ALLOWLIST` (each entry with a reason) exempts archive, ADR history, dated release history, drift-audit evidence, and spec lines that legitimately name the patterns. The scan is read-only, reports file:line with reason and fix hint, and exits non-zero on stale matches. Added the `docs:stale` script and referenced the command from the test plan and QA checklist.
+- **中文**: 根据 [Issue #3](https://github.com/jasonhnd/finwiki/issues/3) (Phase B) 增加了 `tools/active_doc_stale_scan.ts`。它扫描活跃文档（`docs/**/*.md`，排除 `docs/99-archive/**`）中的四类可配置陈旧模式——拆分前的 23 域计数（现为 40）、已删除的 `site/src/content/entries` mirror 路径、Python/postbuild 构建假设、以及 report-only canonical drift 主张——把 `test-plan.md` / `documentation-drift-audit.md` 里一次性的 `rg` 升级为可重用、带 allowlist 的门禁。可审阅的 `ALLOWLIST`（每条都附理由）豁免归档、ADR 历史、带日期的发布历史、漂移审计记录，以及合法提及这些模式的规格行。扫描只读、按 文件:行号 输出原因与修复提示、发现陈旧引用时以非零退出。新增 `docs:stale` 脚本，并在测试计划与 QA 清单中引用该命令。
+
 ### 開発ドキュメント Markdown リンク監査ツールの追加 / Add docs Markdown link checker / 增加开发文档 Markdown 链接审计工具
 
 #### 日本語記録 / English / 中文

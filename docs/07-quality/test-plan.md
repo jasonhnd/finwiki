@@ -25,7 +25,7 @@ git diff --check
 | Release tooling change | Positive and negative gate tests. |
 | UI/CSS/theme/layout change | Visual QA checklist, Astro build, duplicate-id check, desktop/mobile spot checks. |
 | Delegated model-agent implementation | Review task packet, allowed-file diff, RTM rows and command report. |
-| Code/doc alignment change | Stale active-doc phrase scan, docs Markdown link check, docs leakage grep, [Documentation Drift Audit](documentation-drift-audit.md). |
+| Code/doc alignment change | `bun tools/active_doc_stale_scan.ts` (active-doc stale scan), docs Markdown link check, docs leakage grep, [Documentation Drift Audit](documentation-drift-audit.md). |
 
 ## Exit Criteria
 

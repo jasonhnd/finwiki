@@ -1,6 +1,6 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-06-08T22:48:48+09:00",
+  "generated_at": "2026-06-08T23:14:11+09:00",
   "counts": {
     "markdown_files": 1566,
     "public_markdown_pages": 1565,
@@ -9,8 +9,8 @@
     "link_audited_entries": 1485,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 11038420,
-    "word_like_tokens": 1779969,
+    "nonspace_utf8_chars": 11040790,
+    "word_like_tokens": 1780394,
     "entity_anchors": 12,
     "entity_mirror_pages": 12
   },
@@ -607,10 +607,10 @@
         "English",
         "中文",
         "2026-06-08 (In progress)",
+        "active-doc stale scan の追加 / Add active-doc stale scan / 增加活跃文档陈旧事实扫描",
         "開発ドキュメント Markdown リンク監査ツールの追加 / Add docs Markdown link checker / 增加开发文档 Markdown 链接审计工具",
         ".txt 公開入口のルート/リンク監査ツールの追加 / Add .txt route/link audit tool / 增加 .txt 公开入口路由/链接审计工具",
-        "2026-06-07",
-        "開発文書体系の要件・仕様階層化 / Developer documentation requirements and specification hierarchy / 开发文档需求与规格体系化"
+        "2026-06-07"
       ],
       "wikilinks": [
         "...",
@@ -850,10 +850,11 @@
         "governance/...",
         "https://github.com/jasonhnd/finwiki/issues/1",
         "https://github.com/jasonhnd/finwiki/issues/2",
+        "https://github.com/jasonhnd/finwiki/issues/3",
         "path"
       ],
-      "nonspace_chars": 560561,
-      "word_like_tokens": 99987,
+      "nonspace_chars": 562931,
+      "word_like_tokens": 100412,
       "last_modified": "2026-06-08"
     },
     {
