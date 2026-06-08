@@ -16,7 +16,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-Juroku Bank, Ltd. is a regional bank headquartered in Gifu Prefecture and listed in the FSA bank license list. It is the core operating bank of [[juroku-fg]], and this page organizes it as a bank-license entity separately from the FG page.
+Juroku Bank, Ltd. is a regional bank headquartered in Gifu Prefecture and listed in the FSA bank license list. It is the core operating bank of [[regional-banks/juroku-fg]], and this page organizes it as a bank-license entity separately from the FG page.
 
 ## 1. License / group boundary
 
@@ -24,26 +24,26 @@ Juroku Bank, Ltd. is a regional bank headquartered in Gifu Prefecture and listed
 |---|---|
 | Legal name | Juroku Bank, Ltd. |
 | License route | Banking Act regional bank; FSA bank license list |
-| Group boundary | [[juroku-fg]] core operating bank |
+| Group boundary | [[regional-banks/juroku-fg]] core operating bank |
 | Home market | Gifu / Gifu City |
 | Wiki role | Gifu regional-bank operating-company page |
 
 ## 2. Operating model
 
-Juroku Bank is a regional bank responsible for retail deposits, SME finance, corporate lending, wealth / securities referral, and Chukyo-area corporate support centered on Gifu Prefecture. The [[juroku-fg]] page covers holding-company strategy, while this page carries the banking-license operating boundary. For Chukyo-area regional-bank context, see [[banking/INDEX|banking index]] and [[regional-banks/INDEX|regional-banks INDEX]].
+Juroku Bank is a regional bank responsible for retail deposits, SME finance, corporate lending, wealth / securities referral, and Chukyo-area corporate support centered on Gifu Prefecture. The [[regional-banks/juroku-fg]] page covers holding-company strategy, while this page carries the banking-license operating boundary. For Chukyo-area regional-bank context, see [[banking/INDEX|banking index]] and [[regional-banks/INDEX|regional-banks INDEX]].
 
 ## 3. Why this page matters
 
 - Closes the exact-name operating-company gap for Juroku Bank.
 - Separates FG-level strategy from the bank-license entity.
-- Useful peer for [[ogaki-kyoritsu-bank]], [[aichi-bank]], and [[nagoya-bank]].
+- Useful peer for [[regional-banks/ogaki-kyoritsu-bank]], [[regional-banks/aichi-bank]], and [[regional-banks/nagoya-bank]].
 
 ## Related
 
-- [[juroku-fg]]
-- [[ogaki-kyoritsu-bank]]
-- [[aichi-bank]]
-- [[nagoya-bank]]
+- [[regional-banks/juroku-fg]]
+- [[regional-banks/ogaki-kyoritsu-bank]]
+- [[regional-banks/aichi-bank]]
+- [[regional-banks/nagoya-bank]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 

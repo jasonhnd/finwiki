@@ -59,7 +59,7 @@
     "SMBC-SBI アライアンス の詳細（2022〜）^[extracted from SBI HD Wikipedia]"
   ],
   "body_links": {
-    "wikilinks_count": 15,
+    "wikilinks_count": 14,
     "wikilinks": [
       "banking/INDEX",
       "banking/mercari-bank-license-stack",
@@ -67,15 +67,14 @@
       "card-issuers/smbc-card",
       "consumer-finance/smbc-consumer-finance",
       "megabanks/INDEX",
+      "megabanks/mizuho-fg",
+      "megabanks/mufg",
+      "megabanks/ndfg",
       "megabanks/sbi-hd",
-      "mizuho-fg",
-      "monex-group",
-      "mufg",
-      "ndfg",
-      "sbi-hd",
+      "regional-banks/ssnb",
+      "securities-firms/monex-group",
       "securities-firms/smbc-nikko",
-      "securities/INDEX",
-      "ssnb"
+      "securities/INDEX"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/banking/INDEX",
@@ -84,23 +83,22 @@
       "https://finwiki.zksc.io/card-issuers/smbc-card",
       "https://finwiki.zksc.io/consumer-finance/smbc-consumer-finance",
       "https://finwiki.zksc.io/megabanks/INDEX",
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/ndfg",
       "https://finwiki.zksc.io/megabanks/sbi-hd",
-      "https://finwiki.zksc.io/mizuho-fg",
-      "https://finwiki.zksc.io/monex-group",
-      "https://finwiki.zksc.io/mufg",
-      "https://finwiki.zksc.io/ndfg",
-      "https://finwiki.zksc.io/sbi-hd",
+      "https://finwiki.zksc.io/regional-banks/ssnb",
+      "https://finwiki.zksc.io/securities-firms/monex-group",
       "https://finwiki.zksc.io/securities-firms/smbc-nikko",
-      "https://finwiki.zksc.io/securities/INDEX",
-      "https://finwiki.zksc.io/ssnb"
+      "https://finwiki.zksc.io/securities/INDEX"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 13902,
-    "word_like_tokens": 2848,
-    "inbound_wikilinks_count": 119,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 13974,
+    "word_like_tokens": 2856,
+    "inbound_wikilinks_count": 243,
+    "last_modified": "2026-06-08"
   }
 }

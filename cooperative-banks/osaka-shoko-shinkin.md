@@ -40,7 +40,7 @@ This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]]. Read 
 
 ## 2. Operating model
 
-大阪商工信用金庫は、大阪都心部（中央区・本町周辺の問屋街・商業集積地）および周辺市の商工業者・中小企業（卸売・小売・製造業・サービス業・個人事業主）向けの SME 融資・運転資金・設備資金、住宅ローン、個人預金を中核業務とする。大阪の信用金庫レイヤーでは、府内最大手の [[cooperative-banks/osaka-shinkin|大阪信用金庫]] が広域・大規模に展開するのに対し、大阪商工信用金庫は都心商工業者特化の中堅信金として地理・顧客層を分担する。本町の商業中心地に密着し、メガバンク（[[smfg|三井住友 FG]] 系等）が店舗を縮小した地域でリレーションシップ型の地域金融を補完する役割を担う。
+大阪商工信用金庫は、大阪都心部（中央区・本町周辺の問屋街・商業集積地）および周辺市の商工業者・中小企業（卸売・小売・製造業・サービス業・個人事業主）向けの SME 融資・運転資金・設備資金、住宅ローン、個人預金を中核業務とする。大阪の信用金庫レイヤーでは、府内最大手の [[cooperative-banks/osaka-shinkin|大阪信用金庫]] が広域・大規模に展開するのに対し、大阪商工信用金庫は都心商工業者特化の中堅信金として地理・顧客層を分担する。本町の商業中心地に密着し、メガバンク（[[megabanks/smfg|三井住友 FG]] 系等）が店舗を縮小した地域でリレーションシップ型の地域金融を補完する役割を担う。
 
 ## 3. Why this page matters
 
@@ -54,7 +54,7 @@ This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]]. Read 
 - [[cooperative-banks/shinkin-central|信金中央金庫]]
 - [[cooperative-banks/osaka-shinkin|大阪信用金庫]]
 - [[cooperative-banks/kyoto-chuo-shinkin|京都中央信用金庫]]（Kansai 大手 shinkin peer）
-- [[smfg|三井住友 FG]]
+- [[megabanks/smfg|三井住友 FG]]
 - [[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]]
 - [[banking/cooperative-banking-japan|Cooperative banking in Japan]]
 - [[banking/INDEX|banking index]]

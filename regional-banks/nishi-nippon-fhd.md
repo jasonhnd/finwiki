@@ -30,7 +30,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-九州北部・福岡県を地盤とする上位地銀グループの持株会社。**2016-10-03 [[nishi-nippon-city-bank|西日本シティ銀行]] の単独株式移転で設立**、東証 PRIME 7189。**主要子会社は [[nishi-nippon-city-bank|西日本シティ銀行]] + [[nagasaki-bank|長崎銀行]] + NCB リサーチ&コンサルティング 等**。九州地銀では [[fukuoka-fg]] と並ぶ「福岡 2 大地銀」と称され、福岡県内の中堅・中小企業向け法人融資と個人リテールが中核。アジア向け国際業務は福岡空港・博多港の地の利を生かす。^[extracted]
+九州北部・福岡県を地盤とする上位地銀グループの持株会社。**2016-10-03 [[regional-banks/nishi-nippon-city-bank|西日本シティ銀行]] の単独株式移転で設立**、東証 PRIME 7189。**主要子会社は [[regional-banks/nishi-nippon-city-bank|西日本シティ銀行]] + [[regional-banks/nagasaki-bank|長崎銀行]] + NCB リサーチ&コンサルティング 等**。九州地銀では [[regional-banks/fukuoka-fg]] と並ぶ「福岡 2 大地銀」と称され、福岡県内の中堅・中小企業向け法人融資と個人リテールが中核。アジア向け国際業務は福岡空港・博多港の地の利を生かす。^[extracted]
 
 ## 1. 会社概要
 
@@ -44,9 +44,9 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ```
 西日本 FHD（持株会社・上場 7189）
-  ├── 西日本シティ銀行（100%）── [[nishi-nippon-city-bank]] / 福岡県地盤・九州 No.2 級地銀（中核子会社）
+  ├── 西日本シティ銀行（100%）── [[regional-banks/nishi-nippon-city-bank]] / 福岡県地盤・九州 No.2 級地銀（中核子会社）
   │     └── 福岡県・大分県・佐賀県・長崎県・熊本県・東京・大阪 等に支店網
-  ├── [[nagasaki-bank|長崎銀行]]（100%）── 長崎県地盤の第二地銀（2006-04 子会社化）
+  ├── [[regional-banks/nagasaki-bank|長崎銀行]]（100%）── 長崎県地盤の第二地銀（2006-04 子会社化）
   ├── NCB リサーチ&コンサルティング（100%）── 中堅・中小法人向けコンサル
   ├── 西日本シティ TT 証券（持分）── SMBC 日興証券との合弁証券
   ├── NCB キャピタル（100%）── ベンチャー投資・事業承継 PE
@@ -60,7 +60,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 - **1944**: 西日本相互銀行 創業（戦時統合）── 相互銀行スタートが現在の DNA
 - **1989-04**: 普通銀行転換 → **西日本銀行** 改称
 - **2004-10-01**: **福岡シティ銀行 + 西日本銀行 → 西日本シティ銀行 合併発足**（合併比率 1:1 級、福岡 2 行統合）
-- **2006-04**: **[[nagasaki-bank|長崎銀行]] 子会社化**（長崎県第二地銀の救済合併系列）
+- **2006-04**: **[[regional-banks/nagasaki-bank|長崎銀行]] 子会社化**（長崎県第二地銀の救済合併系列）
 - **2016-10-03**: **西日本 FHD 設立**（西日本シティ銀行 単独株式移転）
 
 ### 重要年表（抜粋）^[extracted]
@@ -70,7 +70,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 | 1944 | 西日本相互銀行 創業（戦時統合） |
 | 1989-04 | 普通銀行化 → 西日本銀行 改称 |
 | 2004-10-01 | 福岡シティ銀行 + 西日本銀行 → **西日本シティ銀行** |
-| 2006-04 | **[[nagasaki-bank|長崎銀行]] 子会社化** |
+| 2006-04 | **[[regional-banks/nagasaki-bank|長崎銀行]] 子会社化** |
 | 2016-10-03 | **西日本 FHD 設立**（持株会社化・東証 1 部 / 福証 上場） |
 | 2022-04 | 東証市場区分見直し → 東証 PRIME |
 | 2024 | 中期経営計画（2024〜）始動 |
@@ -79,18 +79,18 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
-| 国内法人（中核）| [[nishi-nippon-city-bank|西日本シティ銀行]] | 福岡県中堅・中小企業 main bank、九州広域営業 |
-| 国内個人 | [[nishi-nippon-city-bank|西日本シティ銀行]] | 福岡都市圏リテール・住宅ローン |
-| 長崎県カバー | [[nagasaki-bank|長崎銀行]] | 長崎県地盤の第二地銀（規模は小さい）|
+| 国内法人（中核）| [[regional-banks/nishi-nippon-city-bank|西日本シティ銀行]] | 福岡県中堅・中小企業 main bank、九州広域営業 |
+| 国内個人 | [[regional-banks/nishi-nippon-city-bank|西日本シティ銀行]] | 福岡都市圏リテール・住宅ローン |
+| 長崎県カバー | [[regional-banks/nagasaki-bank|長崎銀行]] | 長崎県地盤の第二地銀（規模は小さい）|
 | 証券 | 西日本シティ TT 証券 | SMBC 日興と合弁、リテール証券 |
-| 国際業務 | [[nishi-nippon-city-bank|西日本シティ銀行]] 国際部 | 福岡空港・博多港経由のアジア（韓国・中国・東南アジア）|
+| 国際業務 | [[regional-banks/nishi-nippon-city-bank|西日本シティ銀行]] 国際部 | 福岡空港・博多港経由のアジア（韓国・中国・東南アジア）|
 | カード | 西日本カード | 地域カード（VISA / JCB 提携）|
 | リース・PE | NCB リース&キャピタル / NCB キャピタル | 地域中堅向けリース・事業承継 |
 | シンクタンク | NCB リサーチ&コンサルティング | 法人向けコンサル・地域経済調査 |
 
 ### 福岡 2 大地銀構造
 
-九州地銀の地形は **[[fukuoka-fg]]（持株会社、[[fukuoka-bank|福岡銀行]] + [[kumamoto-bank|熊本銀行]] + 親和銀行 + [[18-shinwa-bank|十八親和銀行]] + [[fukuoka-chuo-bank|福岡中央銀行]]）vs 西日本 FHD（[[nishi-nippon-city-bank|西日本シティ銀行]] + [[nagasaki-bank|長崎銀行]]）** という 2 大持株会社の競合構造。^[extracted]
+九州地銀の地形は **[[regional-banks/fukuoka-fg]]（持株会社、[[regional-banks/fukuoka-bank|福岡銀行]] + [[regional-banks/kumamoto-bank|熊本銀行]] + 親和銀行 + [[regional-banks/18-shinwa-bank|十八親和銀行]] + [[regional-banks/fukuoka-chuo-bank|福岡中央銀行]]）vs 西日本 FHD（[[regional-banks/nishi-nippon-city-bank|西日本シティ銀行]] + [[regional-banks/nagasaki-bank|長崎銀行]]）** という 2 大持株会社の競合構造。^[extracted]
 
 ### 法人融資強化
 
@@ -102,10 +102,10 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ### 競合関係
 
-- **同県内**: [[fukuoka-fg]] / [[fukuoka-bank|福岡銀行]] ── 「福岡 2 大地銀」直接対決
-- **隣県**: [[saga-bank|佐賀銀行]] / [[oita-bank|大分銀行]] / [[higo-bank|肥後銀行]] ── 越境法人融資で競合
-- **メガバンク**: [[mufg]] / [[smfg]] / [[mizuho-fg]] の福岡支店 ── 大企業層では劣勢
-- **新興・デジタル**: [[paypay-fg]] / [[sbi-hd]] 系の地域金融・ネット銀行 ── デジタルチャネルで圧力
+- **同県内**: [[regional-banks/fukuoka-fg]] / [[regional-banks/fukuoka-bank|福岡銀行]] ── 「福岡 2 大地銀」直接対決
+- **隣県**: [[regional-banks/saga-bank|佐賀銀行]] / [[regional-banks/oita-bank|大分銀行]] / [[regional-banks/higo-bank|肥後銀行]] ── 越境法人融資で競合
+- **メガバンク**: [[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]] の福岡支店 ── 大企業層では劣勢
+- **新興・デジタル**: [[megabanks/paypay-fg]] / [[megabanks/sbi-hd]] 系の地域金融・ネット銀行 ── デジタルチャネルで圧力
 - **信金・信組**: 福岡ひびき信金・福岡信金 等 ── 零細零細層で競合
 
 ### 2024〜 中期経営計画
@@ -126,7 +126,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## Related
 
-- [[fukuoka-fg]] · [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[paypay-fg]] · [[sbi-hd]]
+- [[regional-banks/fukuoka-fg]] · [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[megabanks/paypay-fg]] · [[megabanks/sbi-hd]]
 
 ## Sources
 

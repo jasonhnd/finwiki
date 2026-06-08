@@ -42,13 +42,12 @@
     "Provenance"
   ],
   "body_links": {
-    "wikilinks_count": 8,
+    "wikilinks_count": 7,
     "wikilinks": [
       "INDEX",
       "exchanges/bybit-lazarus-hack-detailed-analysis",
       "exchanges/jp-vasp-security-audit-certification",
-      "forensic-identity-anchor-chain",
-      "fork-and-rebrand-5-layer-audit-framework",
+      "security/forensic-identity-anchor-chain",
       "security/fork-and-rebrand-5-layer-audit-framework",
       "systems/INDEX",
       "systems/canton-overview"
@@ -57,8 +56,7 @@
       "https://finwiki.zksc.io/INDEX",
       "https://finwiki.zksc.io/exchanges/bybit-lazarus-hack-detailed-analysis",
       "https://finwiki.zksc.io/exchanges/jp-vasp-security-audit-certification",
-      "https://finwiki.zksc.io/forensic-identity-anchor-chain",
-      "https://finwiki.zksc.io/fork-and-rebrand-5-layer-audit-framework",
+      "https://finwiki.zksc.io/security/forensic-identity-anchor-chain",
       "https://finwiki.zksc.io/security/fork-and-rebrand-5-layer-audit-framework",
       "https://finwiki.zksc.io/systems/INDEX",
       "https://finwiki.zksc.io/systems/canton-overview"
@@ -67,9 +65,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2540,
-    "word_like_tokens": 417,
-    "inbound_wikilinks_count": 7,
-    "last_modified": "2026-05-29"
+    "nonspace_chars": 2558,
+    "word_like_tokens": 419,
+    "inbound_wikilinks_count": 8,
+    "last_modified": "2026-06-08"
   }
 }

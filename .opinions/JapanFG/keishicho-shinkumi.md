@@ -74,7 +74,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 組合員 (警視庁職員・OB + 家族)
   → 預金 → 警視庁職員信用組合
               → 組合員向け住宅・生活ローン
-              → 余資預け入れ → [[JapanFG/zenshin-kumi|全信組連]]
+              → 余資預け入れ → [[cooperative-banks/zenshin-kumi|全信組連]]
                                   → 機関投資 + 系統還元
 ```
 

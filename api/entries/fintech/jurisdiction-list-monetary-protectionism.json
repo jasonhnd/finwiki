@@ -52,40 +52,38 @@
     "応用 / 転用"
   ],
   "body_links": {
-    "wikilinks_count": 11,
+    "wikilinks_count": 10,
     "wikilinks": [
-      "central-banking-function-unbundling",
       "fintech/INDEX",
+      "fintech/central-banking-function-unbundling",
       "fintech/fatf-travel-rule-cross-border-stack",
+      "fintech/genius-act-501-denylist-mandate",
       "fintech/japan-epi-four-camps-comparison",
       "fintech/japan-financial-regulation",
+      "fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage",
       "fintech/three-circles-stablecoin-mra-framework",
-      "genius-act-501-denylist-mandate",
-      "occ-trust-bank-charter-federal-stablecoin-arbitrage",
       "payment-firms/jpyc",
-      "payment-firms/progmat",
-      "three-circles-stablecoin-mra-framework"
+      "payment-firms/progmat"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/central-banking-function-unbundling",
       "https://finwiki.zksc.io/fintech/INDEX",
+      "https://finwiki.zksc.io/fintech/central-banking-function-unbundling",
       "https://finwiki.zksc.io/fintech/fatf-travel-rule-cross-border-stack",
+      "https://finwiki.zksc.io/fintech/genius-act-501-denylist-mandate",
       "https://finwiki.zksc.io/fintech/japan-epi-four-camps-comparison",
       "https://finwiki.zksc.io/fintech/japan-financial-regulation",
+      "https://finwiki.zksc.io/fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage",
       "https://finwiki.zksc.io/fintech/three-circles-stablecoin-mra-framework",
-      "https://finwiki.zksc.io/genius-act-501-denylist-mandate",
-      "https://finwiki.zksc.io/occ-trust-bank-charter-federal-stablecoin-arbitrage",
       "https://finwiki.zksc.io/payment-firms/jpyc",
-      "https://finwiki.zksc.io/payment-firms/progmat",
-      "https://finwiki.zksc.io/three-circles-stablecoin-mra-framework"
+      "https://finwiki.zksc.io/payment-firms/progmat"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3207,
-    "word_like_tokens": 555,
+    "nonspace_chars": 3239,
+    "word_like_tokens": 559,
     "inbound_wikilinks_count": 23,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-08"
   }
 }

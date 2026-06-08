@@ -15,7 +15,7 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 
 ## TL;DR
 
-SOMPO Himawari Life Insurance Inc. is the life-insurance operating company of the [[sompo]] group. [[sompo]] is usually seen as a non-life major, but SOMPO Himawari Life is a separate underwriting entity listed on the FSA life-insurer list and provides health / life protection products.
+SOMPO Himawari Life Insurance Inc. is the life-insurance operating company of the [[non-life-insurers/sompo]] group. [[non-life-insurers/sompo]] is usually seen as a non-life major, but SOMPO Himawari Life is a separate underwriting entity listed on the FSA life-insurer list and provides health / life protection products.
 
 ## 1. License / group boundary
 
@@ -24,14 +24,14 @@ SOMPO Himawari Life Insurance Inc. is the life-insurance operating company of th
 | Legal name | Sompo Himawari Life Insurance Inc. |
 | License route | Insurance Business Act life-insurance company; FSA life insurer list |
 | Industry body | Life Insurance Association of Japan member |
-| Group boundary | [[sompo]] life-insurance operating company |
+| Group boundary | [[non-life-insurers/sompo]] life-insurance operating company |
 | Wiki role | Non-life-major group underwriter for life-insurance products |
 
 ## 2. Operating model
 
-The SOMPO group is a non-life major alongside [[tokio-marine]] and [[msad]], but its group strategy also includes non-life, life, nursing care, digital, and health-support services. SOMPO Himawari Life carries the life-insurance underwriting boundary within that group, so it should be separated from the [[sompo]] parent page.
+The SOMPO group is a non-life major alongside [[non-life-insurers/tokio-marine]] and [[non-life-insurers/msad]], but its group strategy also includes non-life, life, nursing care, digital, and health-support services. SOMPO Himawari Life carries the life-insurance underwriting boundary within that group, so it should be separated from the [[non-life-insurers/sompo]] parent page.
 
-In FinWiki, use [[tokio-marine-nichido-life]] as the non-life group life arm and compare it with life-insurance arms in the MS&AD group when those pages are added later.
+In FinWiki, use [[life-insurers/tokio-marine-nichido-life]] as the non-life group life arm and compare it with life-insurance arms in the MS&AD group when those pages are added later.
 
 ## 3. Why this page matters
 
@@ -41,10 +41,10 @@ In FinWiki, use [[tokio-marine-nichido-life]] as the non-life group life arm and
 
 ## Related
 
-- [[sompo]]
-- [[tokio-marine]]
-- [[msad]]
-- [[tokio-marine-nichido-life]]
+- [[non-life-insurers/sompo]]
+- [[non-life-insurers/tokio-marine]]
+- [[non-life-insurers/msad]]
+- [[life-insurers/tokio-marine-nichido-life]]
 - [[insurance/INDEX]]
 
 ## Sources

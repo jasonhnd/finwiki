@@ -35,7 +35,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 - 親会社 Manulife Financial の日本拠点へのリソース配分優先度は？ アジア統括（香港）下でのポジション
 - 外貨建一時払保険の販売適合性規制強化（金融庁）への対応は？
 - 変額保険シフトで NISA / iDeCo 直接競合に対する差別化軸は？
-- 中堅外資生保の業界再編シナリオ（[[axa-japan]] [[prudential-japan]] 等との連携・統合可能性）は？
+- 中堅外資生保の業界再編シナリオ（[[life-insurers/axa-japan]] [[life-insurers/prudential-japan]] 等との連携・統合可能性）は？
 
 <!-- Phase 1.5 追加抽出 (2026-05-29) -->
 

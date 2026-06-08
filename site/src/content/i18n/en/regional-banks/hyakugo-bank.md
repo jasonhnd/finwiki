@@ -15,7 +15,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-Hyakugo Bank is an independent regional bank based in Mie Prefecture. It was founded in Tsu on 1878-12-12 as the 105th National Bank, and its name derives from that national-bank number. Listed on the TSE Prime Market under code 8368, it remains a standalone bank rather than a holding-company group and serves as a designated financial institution for Mie Prefecture. It maintains the leading prefectural position in deposits and lending, forming a two-bank structure with [[san-jusan-fg|San Ju San Financial Group]]. Its core base is northern and central Mie, including Tsu, Yokkaichi, and Matsusaka, with three principal business pillars: Yokkaichi petrochemical-complex finance, Ise Shrine tourism finance, and access to the Chukyo economic area. ^[extracted]
+Hyakugo Bank is an independent regional bank based in Mie Prefecture. It was founded in Tsu on 1878-12-12 as the 105th National Bank, and its name derives from that national-bank number. Listed on the TSE Prime Market under code 8368, it remains a standalone bank rather than a holding-company group and serves as a designated financial institution for Mie Prefecture. It maintains the leading prefectural position in deposits and lending, forming a two-bank structure with [[regional-banks/san-jusan-fg|San Ju San Financial Group]]. Its core base is northern and central Mie, including Tsu, Yokkaichi, and Matsusaka, with three principal business pillars: Yokkaichi petrochemical-complex finance, Ise Shrine tourism finance, and access to the Chukyo economic area. ^[extracted]
 
 ## 1. Company overview
 
@@ -64,7 +64,7 @@ Hyakugo Bank is an independent regional bank based in Mie Prefecture. It was fou
 
 ### Franchise and competitive structure
 
-- **Prefectural competitor**: a two-bank structure with [[san-jusan-fg|San Ju San Financial Group]]. San Ju San Bank was formed through the 2018-04 management integration of Mie Bank and Daisan Bank, completed the legal merger in 2021-05, and became the prefecture's No. 2 bank by combining the former Yokkaichi-based Mie Bank and Matsusaka-based Daisan Bank. ^[extracted]
+- **Prefectural competitor**: a two-bank structure with [[regional-banks/san-jusan-fg|San Ju San Financial Group]]. San Ju San Bank was formed through the 2018-04 management integration of Mie Bank and Daisan Bank, completed the legal merger in 2021-05, and became the prefecture's No. 2 bank by combining the former Yokkaichi-based Mie Bank and Matsusaka-based Daisan Bank. ^[extracted]
 
 ### Industrial characteristics
 
@@ -78,7 +78,7 @@ The loan portfolio reflects the structure of Mie's economy:
 ### Standalone management strategy
 
 - Hyakugo remains an independent Mie-based bank and has not moved into a holding-company conversion or merger with another bank. ^[extracted]
-- In contrast, [[san-jusan-fg]] proceeded with integration in 2018 and merger completion in 2021, while adjacent markets include active competition from [[mufg]]'s former Tokai Bank lineage and Nagoya-area regional banks. ^[extracted]
+- In contrast, [[regional-banks/san-jusan-fg]] proceeded with integration in 2018 and merger completion in 2021, while adjacent markets include active competition from [[megabanks/mufg]]'s former Tokai Bank lineage and Nagoya-area regional banks. ^[extracted]
 
 ### Out-of-area strategy
 
@@ -98,10 +98,10 @@ The loan portfolio reflects the structure of Mie's economy:
 
 ## Related
 
-- [[san-jusan-fg]] - No. 2 regional-bank group in Mie and the other side of the prefectural two-bank structure.
-- [[mufg]] - megabank with former Tokai Bank roots, coexisting in the Nagoya and Mie areas.
-- [[smfg]] and [[mizuho-fg]] - megabanks present in the prefecture.
-- [[hyakujushi-bank]] - another independent standalone regional bank named after a national-bank number, No. 114 in Kagawa.
+- [[regional-banks/san-jusan-fg]] - No. 2 regional-bank group in Mie and the other side of the prefectural two-bank structure.
+- [[megabanks/mufg]] - megabank with former Tokai Bank roots, coexisting in the Nagoya and Mie areas.
+- [[megabanks/smfg]] and [[megabanks/mizuho-fg]] - megabanks present in the prefecture.
+- [[regional-banks/hyakujushi-bank]] - another independent standalone regional bank named after a national-bank number, No. 114 in Kagawa.
 
 ## Sources
 

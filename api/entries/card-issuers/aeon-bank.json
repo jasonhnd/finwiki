@@ -55,48 +55,42 @@
     "流通系銀行モデル（差別化軸）"
   ],
   "body_links": {
-    "wikilinks_count": 15,
+    "wikilinks_count": 12,
     "wikilinks": [
       "banking/INDEX",
       "card-issuers/INDEX",
       "card-issuers/jcb",
-      "jcb",
-      "lawson-bank",
+      "megabanks/mizuho-fg",
+      "megabanks/mufg",
+      "megabanks/paypay-fg",
+      "megabanks/smfg",
       "megabanks/sony-fg",
-      "mizuho-fg",
-      "mufg",
-      "paypay-fg",
-      "rakuten-fg",
+      "payment-firms/rakuten-fg",
+      "regional-banks/lawson-bank",
       "regional-banks/seven-bank",
-      "retail/aeon-group",
-      "seven-bank",
-      "smfg",
-      "sony-fg"
+      "retail/aeon-group"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/card-issuers/INDEX",
       "https://finwiki.zksc.io/card-issuers/jcb",
-      "https://finwiki.zksc.io/jcb",
-      "https://finwiki.zksc.io/lawson-bank",
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/paypay-fg",
+      "https://finwiki.zksc.io/megabanks/smfg",
       "https://finwiki.zksc.io/megabanks/sony-fg",
-      "https://finwiki.zksc.io/mizuho-fg",
-      "https://finwiki.zksc.io/mufg",
-      "https://finwiki.zksc.io/paypay-fg",
-      "https://finwiki.zksc.io/rakuten-fg",
+      "https://finwiki.zksc.io/payment-firms/rakuten-fg",
+      "https://finwiki.zksc.io/regional-banks/lawson-bank",
       "https://finwiki.zksc.io/regional-banks/seven-bank",
-      "https://finwiki.zksc.io/retail/aeon-group",
-      "https://finwiki.zksc.io/seven-bank",
-      "https://finwiki.zksc.io/smfg",
-      "https://finwiki.zksc.io/sony-fg"
+      "https://finwiki.zksc.io/retail/aeon-group"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5282,
-    "word_like_tokens": 861,
-    "inbound_wikilinks_count": 23,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 5479,
+    "word_like_tokens": 886,
+    "inbound_wikilinks_count": 25,
+    "last_modified": "2026-06-08"
   }
 }

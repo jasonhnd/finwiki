@@ -24,7 +24,7 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 
 ## TL;DR
 
-明治安田損害保険株式会社は、金融庁の損害保険会社免許一覧に掲載される [[meiji-yasuda]] group adjacency の non-life insurance operating company。大手 life insurer group が持つ non-life arm として、life / non-life group boundaries を分けて見る。
+明治安田損害保険株式会社は、金融庁の損害保険会社免許一覧に掲載される [[life-insurers/meiji-yasuda]] group adjacency の non-life insurance operating company。大手 life insurer group が持つ non-life arm として、life / non-life group boundaries を分けて見る。
 
 ## 1. License / group boundary
 
@@ -33,7 +33,7 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 | Legal name | 明治安田損害保険株式会社 |
 | License route | Insurance Business Act non-life insurance company; FSA non-life insurer list |
 | Protection scheme | Non-Life Insurance Policyholders Protection Corporation member |
-| Group boundary | [[meiji-yasuda]] group adjacency |
+| Group boundary | [[life-insurers/meiji-yasuda]] group adjacency |
 | Wiki role | Life-insurer group non-life operating company |
 
 ## 2. Operating model
@@ -48,10 +48,10 @@ Life-insurer groups can hold non-life entities to support employee benefits, gro
 
 ## Related
 
-- [[meiji-yasuda]]
+- [[life-insurers/meiji-yasuda]]
 - [[insurance/mutual-vs-stock-life-insurer]]
 - [[insurance/INDEX]]
-- [[nisshin-fire]]
+- [[non-life-insurers/nisshin-fire]]
 
 ## Sources
 

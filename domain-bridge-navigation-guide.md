@@ -55,7 +55,7 @@ The journeys are not exhaustive. They are starting templates for the most common
 ## 4. Journey 3 — Foreign bank in Japan · bank to capital markets to product
 
 1. Start: [[foreign-financial-institutions/jpmorgan-japan|JPMorgan Japan]] (JapanFG anchor for foreign-bank Japan structure).
-2. Peer / contrast: [[JapanFG/INDEX|JapanFG index]] for [[goldman-sachs-japan]], [[morgan-stanley-japan]], and other foreign IB anchors.
+2. Peer / contrast: [[JapanFG/INDEX|JapanFG index]] for [[securities-firms/goldman-sachs-japan]], [[securities-firms/morgan-stanley-japan]], and other foreign IB anchors.
 3. Banking-system frame: [[banking/INDEX|banking index]] and [[banking/japan-banking-license-tier-comparison-matrix|Japan banking license tier comparison]] for the megabank / regional / foreign-branch / shinkin / rōkin perimeter.
 4. Tokenized-money product: [[fintech/jpmorgan-jpmd-coin|JPMD coin]] and [[fintech/jpm-onyx-wholesale-network|JPM Onyx wholesale network]] for the fintech-side product story.
 5. Strategic narrative: [[business/jamie-dimon-anti-crypto-pivot-case|Jamie Dimon anti-crypto pivot case]] for the public-figure / public-company arc.

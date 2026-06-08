@@ -58,10 +58,10 @@
       "financial-regulators/japan-policy-finance-map",
       "financial-regulators/jfc",
       "financial-regulators/local-bond-market",
-      "mizuho-fg",
-      "mufg",
-      "ndfg",
-      "smfg"
+      "megabanks/mizuho-fg",
+      "megabanks/mufg",
+      "megabanks/ndfg",
+      "megabanks/smfg"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/banking/INDEX",
@@ -69,18 +69,18 @@
       "https://finwiki.zksc.io/financial-regulators/japan-policy-finance-map",
       "https://finwiki.zksc.io/financial-regulators/jfc",
       "https://finwiki.zksc.io/financial-regulators/local-bond-market",
-      "https://finwiki.zksc.io/mizuho-fg",
-      "https://finwiki.zksc.io/mufg",
-      "https://finwiki.zksc.io/ndfg",
-      "https://finwiki.zksc.io/smfg"
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/ndfg",
+      "https://finwiki.zksc.io/megabanks/smfg"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4941,
-    "word_like_tokens": 698,
+    "nonspace_chars": 5071,
+    "word_like_tokens": 711,
     "inbound_wikilinks_count": 9,
-    "last_modified": "2026-06-06"
+    "last_modified": "2026-06-08"
   }
 }

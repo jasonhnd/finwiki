@@ -50,28 +50,28 @@
     "wikilinks": [
       "banking/INDEX",
       "banking/regional-bank-consolidation-pattern",
-      "kiraboshi-fg",
+      "banking/ui-bank",
       "regional-banks/INDEX",
-      "regional-banks/yokohama-bank",
-      "tokyo-star-bank",
-      "ui-bank"
+      "regional-banks/kiraboshi-fg",
+      "regional-banks/tokyo-star-bank",
+      "regional-banks/yokohama-bank"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
-      "https://finwiki.zksc.io/kiraboshi-fg",
+      "https://finwiki.zksc.io/banking/ui-bank",
       "https://finwiki.zksc.io/regional-banks/INDEX",
-      "https://finwiki.zksc.io/regional-banks/yokohama-bank",
-      "https://finwiki.zksc.io/tokyo-star-bank",
-      "https://finwiki.zksc.io/ui-bank"
+      "https://finwiki.zksc.io/regional-banks/kiraboshi-fg",
+      "https://finwiki.zksc.io/regional-banks/tokyo-star-bank",
+      "https://finwiki.zksc.io/regional-banks/yokohama-bank"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1817,
-    "word_like_tokens": 282,
+    "nonspace_chars": 1938,
+    "word_like_tokens": 298,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-06-06"
+    "last_modified": "2026-06-08"
   }
 }

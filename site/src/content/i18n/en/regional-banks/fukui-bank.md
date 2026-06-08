@@ -31,7 +31,7 @@ Fukui Bank, Ltd. is a regional bank with its head office in Fukui Prefecture lis
 
 ## 2 .Operating model
 
-Fukui Bank is a regional bank that is responsible for retail deposits, SME finance, regional corporate relationships, Hokuriku manufacturing / services support, and local consulting mainly in Fukui Prefecture. On the Hokuriku side, it is compared with[[hokuhoku-fg]]and [[hokkoku-fhd]], but the legal-name boundary is a standalone bank entity. For Hokuriku regional-bank consolidation context, see [[banking/regional-bank-consolidation-pattern]].
+Fukui Bank is a regional bank that is responsible for retail deposits, SME finance, regional corporate relationships, Hokuriku manufacturing / services support, and local consulting mainly in Fukui Prefecture. On the Hokuriku side, it is compared with[[regional-banks/hokuhoku-fg]]and [[regional-banks/hokkoku-fhd]], but the legal-name boundary is a standalone bank entity. For Hokuriku regional-bank consolidation context, see [[banking/regional-bank-consolidation-pattern]].
 
 ## 3 . Why this page matters
 
@@ -41,10 +41,10 @@ Fukui Bank is a regional bank that is responsible for retail deposits, SME finan
 
 ## Related
 
-- [[hokuhoku-fg]]
-- [[hokkoku-fhd]]
-- [[daishi-hokuetsu-bank]]
-- [[tokai-tokyo-fh]]
+- [[regional-banks/hokuhoku-fg]]
+- [[regional-banks/hokkoku-fhd]]
+- [[regional-banks/daishi-hokuetsu-bank]]
+- [[securities-firms/tokai-tokyo-fh]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 

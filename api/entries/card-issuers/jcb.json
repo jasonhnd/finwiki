@@ -53,29 +53,29 @@
       "banking/INDEX",
       "card-issuers/INDEX",
       "card-issuers/orico",
-      "mizuho-fg",
-      "mufg",
-      "ndfg",
-      "paypay-fg",
-      "smfg"
+      "megabanks/mizuho-fg",
+      "megabanks/mufg",
+      "megabanks/ndfg",
+      "megabanks/paypay-fg",
+      "megabanks/smfg"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/card-issuers/INDEX",
       "https://finwiki.zksc.io/card-issuers/orico",
-      "https://finwiki.zksc.io/mizuho-fg",
-      "https://finwiki.zksc.io/mufg",
-      "https://finwiki.zksc.io/ndfg",
-      "https://finwiki.zksc.io/paypay-fg",
-      "https://finwiki.zksc.io/smfg"
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/ndfg",
+      "https://finwiki.zksc.io/megabanks/paypay-fg",
+      "https://finwiki.zksc.io/megabanks/smfg"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4417,
-    "word_like_tokens": 724,
-    "inbound_wikilinks_count": 40,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 4557,
+    "word_like_tokens": 738,
+    "inbound_wikilinks_count": 43,
+    "last_modified": "2026-06-08"
   }
 }

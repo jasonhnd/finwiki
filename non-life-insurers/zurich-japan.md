@@ -24,7 +24,7 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 
 ## TL;DR
 
-スイス Zurich Insurance Group の日本拠点。**1986 年 日本支店開設** で本邦進出した外資系損保のパイオニアの一社。日本では「**海外旅行保険**」と「**ネット自動車保険（ダイレクト型）**」の 2 大プロダクトで認知を獲得し、2010 年には **チューリッヒ生命** を別法人として設立、医療保険・がん保険のネット直販へ事業領域を拡張。営業店舗を持たず、コールセンター + ウェブを中核とした **直販モデル** が一貫した特徴で、国内ダイレクト系損保では [[sony-fg]] のソニー損保、[[axa-japan]] のアクサ損保、セコム損保、[[sbi-hd]] の SBI 損保 と並ぶ主要プレイヤー。
+スイス Zurich Insurance Group の日本拠点。**1986 年 日本支店開設** で本邦進出した外資系損保のパイオニアの一社。日本では「**海外旅行保険**」と「**ネット自動車保険（ダイレクト型）**」の 2 大プロダクトで認知を獲得し、2010 年には **チューリッヒ生命** を別法人として設立、医療保険・がん保険のネット直販へ事業領域を拡張。営業店舗を持たず、コールセンター + ウェブを中核とした **直販モデル** が一貫した特徴で、国内ダイレクト系損保では [[megabanks/sony-fg]] のソニー損保、[[life-insurers/axa-japan]] のアクサ損保、セコム損保、[[megabanks/sbi-hd]] の SBI 損保 と並ぶ主要プレイヤー。
 
 ## 1. グループ構造
 
@@ -77,8 +77,8 @@ Zurich Insurance Group AG（スイス、SIX: ZURN）
 
 ### ポジショニング
 
-- **「直販一本足ではない」**：完全ネット専業の [[lifenet]]（ライフネット生命）と異なり、海外旅行保険では旅行代理店チャネルも活用するハイブリッド型
-- **生損保兼営型外資**：[[axa-japan]] が「生損保 + ネット直販生保」の 3 法人体制で営業職員チャネルも持つのに対し、Zurich は **対面営業職員チャネルを持たず、直販モデルに一貫**
+- **「直販一本足ではない」**：完全ネット専業の [[life-insurers/lifenet]]（ライフネット生命）と異なり、海外旅行保険では旅行代理店チャネルも活用するハイブリッド型
+- **生損保兼営型外資**：[[life-insurers/axa-japan]] が「生損保 + ネット直販生保」の 3 法人体制で営業職員チャネルも持つのに対し、Zurich は **対面営業職員チャネルを持たず、直販モデルに一貫**
 
 ### グローバルレバレッジ
 
@@ -89,10 +89,10 @@ Zurich Insurance Group AG（スイス、SIX: ZURN）
 
 | 競合タイプ | 主要競合 |
 |---|---|
-| 海外旅行保険 | [[tokio-marine]] 系・[[msad]] 系・[[sompo]] 系・JI 傷害火災（クレジットカード付帯保険含む競合）|
-| ネット自動車保険（ダイレクト型）| ソニー損保（[[sony-fg]]）/ アクサダイレクト損保（[[axa-japan]]）/ セコム損保 / SBI 損保（[[sbi-hd]]）/ イーデザイン損保（[[tokio-marine]] 系）|
-| ネット直販生保（医療・がん）| [[lifenet]] / オリックス生命 / SBI 生命 / メットライフ生命（医療領域）|
-| 外資系生損保（包括）| [[axa-japan]] / メットライフ生命 / マニュライフ生命 / [[prudential-japan]] / アフラック生命 |
+| 海外旅行保険 | [[non-life-insurers/tokio-marine]] 系・[[non-life-insurers/msad]] 系・[[non-life-insurers/sompo]] 系・JI 傷害火災（クレジットカード付帯保険含む競合）|
+| ネット自動車保険（ダイレクト型）| ソニー損保（[[megabanks/sony-fg]]）/ アクサダイレクト損保（[[life-insurers/axa-japan]]）/ セコム損保 / SBI 損保（[[megabanks/sbi-hd]]）/ イーデザイン損保（[[non-life-insurers/tokio-marine]] 系）|
+| ネット直販生保（医療・がん）| [[life-insurers/lifenet]] / オリックス生命 / SBI 生命 / メットライフ生命（医療領域）|
+| 外資系生損保（包括）| [[life-insurers/axa-japan]] / メットライフ生命 / マニュライフ生命 / [[life-insurers/prudential-japan]] / アフラック生命 |
 
 ## 4. 規制と政策
 
@@ -106,9 +106,9 @@ Zurich Insurance Group AG（スイス、SIX: ZURN）
 
 ## Related
 
-- [[axa-japan]] · [[prudential-japan]] · [[lifenet]] · [[sony-fg]]（ソニー損保）
-- [[tokio-marine]] · [[sompo]] · [[msad]]（国内損保 3 メガ・海外旅行保険競合）
-- [[sbi-hd]]（SBI 損保）
+- [[life-insurers/axa-japan]] · [[life-insurers/prudential-japan]] · [[life-insurers/lifenet]] · [[megabanks/sony-fg]]（ソニー損保）
+- [[non-life-insurers/tokio-marine]] · [[non-life-insurers/sompo]] · [[non-life-insurers/msad]]（国内損保 3 メガ・海外旅行保険競合）
+- [[megabanks/sbi-hd]]（SBI 損保）
 
 ## Sources
 

@@ -23,7 +23,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-株式会社鹿児島銀行は、金融庁の銀行免許一覧に掲載される鹿児島県本店の地方銀行。[[kyushu-fg]] の core operating bank であり、Kagoshima / South Kyushu regional-bank operating-company anchor として扱う。
+株式会社鹿児島銀行は、金融庁の銀行免許一覧に掲載される鹿児島県本店の地方銀行。[[regional-banks/kyushu-fg]] の core operating bank であり、Kagoshima / South Kyushu regional-bank operating-company anchor として扱う。
 
 ## 1. License / group boundary
 
@@ -31,26 +31,26 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 |---|---|
 | Legal name | 株式会社鹿児島銀行 |
 | License route | Banking Act regional bank; FSA bank license list |
-| Group boundary | [[kyushu-fg]] core operating bank |
+| Group boundary | [[regional-banks/kyushu-fg]] core operating bank |
 | Home market | Kagoshima / Kagoshima City |
 | Wiki role | Kagoshima regional-bank operating-company page |
 
 ## 2. Operating model
 
-鹿児島銀行は、鹿児島県を中心に retail deposits, SME finance, agriculture / fisheries / tourism support, and South Kyushu relationship banking を担う regional bank。[[kyushu-fg]] page は group strategy and Higo / Kagoshima two-bank structure を扱い、本ページは bank-license entity を扱う。Kyushu regional-bank consolidation context は [[banking/regional-bank-consolidation-pattern]] を参照。
+鹿児島銀行は、鹿児島県を中心に retail deposits, SME finance, agriculture / fisheries / tourism support, and South Kyushu relationship banking を担う regional bank。[[regional-banks/kyushu-fg]] page は group strategy and Higo / Kagoshima two-bank structure を扱い、本ページは bank-license entity を扱う。Kyushu regional-bank consolidation context は [[banking/regional-bank-consolidation-pattern]] を参照。
 
 ## 3. Why this page matters
 
 - Closes the FSA exact-name operating-company gap for 鹿児島銀行.
-- Separates the bank license from [[kyushu-fg]] holding-company coverage.
-- Provides a peer anchor for [[higo-bank]], [[miyazaki-bank]], and [[oita-bank]].
+- Separates the bank license from [[regional-banks/kyushu-fg]] holding-company coverage.
+- Provides a peer anchor for [[regional-banks/higo-bank]], [[regional-banks/miyazaki-bank]], and [[regional-banks/oita-bank]].
 
 ## Related
 
-- [[kyushu-fg]]
-- [[higo-bank]]
-- [[miyazaki-bank]]
-- [[oita-bank]]
+- [[regional-banks/kyushu-fg]]
+- [[regional-banks/higo-bank]]
+- [[regional-banks/miyazaki-bank]]
+- [[regional-banks/oita-bank]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 

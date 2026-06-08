@@ -57,9 +57,9 @@
   "body_links": {
     "wikilinks_count": 9,
     "wikilinks": [
-      "JapanFG/paypay-bank",
-      "JapanFG/rakuten-bank",
       "banking/INDEX",
+      "banking/paypay-bank",
+      "banking/rakuten-bank",
       "megabanks/mufg",
       "megabanks/mufg-bank",
       "regional-banks/INDEX",
@@ -68,9 +68,9 @@
       "trust-banks/orix-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/paypay-bank",
-      "https://finwiki.zksc.io/JapanFG/rakuten-bank",
       "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/banking/paypay-bank",
+      "https://finwiki.zksc.io/banking/rakuten-bank",
       "https://finwiki.zksc.io/megabanks/mufg",
       "https://finwiki.zksc.io/megabanks/mufg-bank",
       "https://finwiki.zksc.io/regional-banks/INDEX",
@@ -85,6 +85,6 @@
     "nonspace_chars": 4209,
     "word_like_tokens": 743,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-06-06"
+    "last_modified": "2026-06-08"
   }
 }

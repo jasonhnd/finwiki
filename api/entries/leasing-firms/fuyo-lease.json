@@ -50,34 +50,32 @@
     "芙蓉グループ内取引"
   ],
   "body_links": {
-    "wikilinks_count": 8,
+    "wikilinks_count": 7,
     "wikilinks": [
       "banking/INDEX",
       "leasing-firms/INDEX",
       "leasing-firms/orix-corp",
-      "mizuho-fg",
-      "mufg",
-      "orix-corp",
-      "tokio-marine",
-      "tokyo-century"
+      "leasing-firms/tokyo-century",
+      "megabanks/mizuho-fg",
+      "megabanks/mufg",
+      "non-life-insurers/tokio-marine"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/leasing-firms/INDEX",
       "https://finwiki.zksc.io/leasing-firms/orix-corp",
-      "https://finwiki.zksc.io/mizuho-fg",
-      "https://finwiki.zksc.io/mufg",
-      "https://finwiki.zksc.io/orix-corp",
-      "https://finwiki.zksc.io/tokio-marine",
-      "https://finwiki.zksc.io/tokyo-century"
+      "https://finwiki.zksc.io/leasing-firms/tokyo-century",
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/non-life-insurers/tokio-marine"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3368,
-    "word_like_tokens": 581,
-    "inbound_wikilinks_count": 15,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 3626,
+    "word_like_tokens": 617,
+    "inbound_wikilinks_count": 21,
+    "last_modified": "2026-06-08"
   }
 }

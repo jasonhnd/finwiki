@@ -15,7 +15,7 @@ translated_at: 2026-05-31T23:59:49.384Z
 
 ## TL;DR
 
-株式会社鹿儿岛银行是金融厅银行牌照名单中列明的、总部位于鹿儿岛县的地方银行。它是 [[kyushu-fg]] 的 core operating bank，本页将其作为 Kagoshima / South Kyushu regional-bank operating-company anchor 处理。
+株式会社鹿儿岛银行是金融厅银行牌照名单中列明的、总部位于鹿儿岛县的地方银行。它是 [[regional-banks/kyushu-fg]] 的 core operating bank，本页将其作为 Kagoshima / South Kyushu regional-bank operating-company anchor 处理。
 
 ## 1. 牌照 / 集团边界
 
@@ -23,26 +23,26 @@ translated_at: 2026-05-31T23:59:49.384Z
 |---|---|
 | 法定名称 | 株式会社鹿儿岛银行 |
 | 牌照路径 | 银行法下的地方银行；FSA 银行牌照名单 |
-| 集团边界 | [[kyushu-fg]] core operating bank |
+| 集团边界 | [[regional-banks/kyushu-fg]] core operating bank |
 | 本地市场 | 鹿儿岛 / 鹿儿岛市 |
 | Wiki 角色 | 鹿儿岛地方银行经营公司页面 |
 
 ## 2. 运营模式
 
-鹿儿岛银行是以鹿儿岛县为中心，承担 retail deposits、SME finance、agriculture / fisheries / tourism support，以及 South Kyushu relationship banking 的 regional bank。[[kyushu-fg]] 页面处理集团战略和肥后 / 鹿儿岛双银行结构，本页处理银行牌照实体。九州地方银行整合背景参见 [[banking/regional-bank-consolidation-pattern]]。
+鹿儿岛银行是以鹿儿岛县为中心，承担 retail deposits、SME finance、agriculture / fisheries / tourism support，以及 South Kyushu relationship banking 的 regional bank。[[regional-banks/kyushu-fg]] 页面处理集团战略和肥后 / 鹿儿岛双银行结构，本页处理银行牌照实体。九州地方银行整合背景参见 [[banking/regional-bank-consolidation-pattern]]。
 
 ## 3. 本页为何重要
 
 - 补齐金融厅精确名称层面的鹿儿岛银行经营公司空白。
-- 将银行牌照实体与 [[kyushu-fg]] 的控股公司覆盖分开。
-- 为 [[higo-bank]]、[[miyazaki-bank]]、[[oita-bank]] 提供同业 anchor。
+- 将银行牌照实体与 [[regional-banks/kyushu-fg]] 的控股公司覆盖分开。
+- 为 [[regional-banks/higo-bank]]、[[regional-banks/miyazaki-bank]]、[[regional-banks/oita-bank]] 提供同业 anchor。
 
 ## Related
 
-- [[kyushu-fg]]
-- [[higo-bank]]
-- [[miyazaki-bank]]
-- [[oita-bank]]
+- [[regional-banks/kyushu-fg]]
+- [[regional-banks/higo-bank]]
+- [[regional-banks/miyazaki-bank]]
+- [[regional-banks/oita-bank]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 

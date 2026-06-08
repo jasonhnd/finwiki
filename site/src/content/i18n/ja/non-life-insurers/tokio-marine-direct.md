@@ -16,7 +16,7 @@ translated_at: 2026-06-02T16:33:58.472Z
 
 ## 要約
 
-東京海上ダイレクト損害保険株式会社は、[[tokio-marine]] group のダイレクト型損害保険会社。旧イーデザイン損保の系譜を持ち、金融庁の損害保険会社免許一覧では現在の法人名で掲載される。[[tokio-marine-nichido-fire]] とは別のダイレクトチャネル運営会社。
+東京海上ダイレクト損害保険株式会社は、[[non-life-insurers/tokio-marine]] group のダイレクト型損害保険会社。旧イーデザイン損保の系譜を持ち、金融庁の損害保険会社免許一覧では現在の法人名で掲載される。[[non-life-insurers/tokio-marine-nichido-fire]] とは別のダイレクトチャネル運営会社。
 
 ## 1. 法人・グループ境界
 
@@ -26,11 +26,11 @@ translated_at: 2026-06-02T16:33:58.472Z
 | 旧ブランド | イーデザイン損保 |
 | 免許経路 | 保険業法上の損害保険会社；FSA 損害保険会社一覧 |
 | 保護制度 | 損害保険契約者保護機構の会員 |
-| グループ境界 | [[tokio-marine]] のダイレクト型損害保険運営会社 |
+| グループ境界 | [[non-life-insurers/tokio-marine]] のダイレクト型損害保険運営会社 |
 
 ## 2. 事業モデル
 
-東京海上ダイレクトは、同グループのダイレクト / デジタル型損害保険部門であり、従来型の代理店主導の [[tokio-marine-nichido-fire]] とは分けて運営される。この分担により、Tokio Marine はフルサービスの代理店チャネルと、デジタル直販の自動車保険を別ブランド・別システムで併走させている。
+東京海上ダイレクトは、同グループのダイレクト / デジタル型損害保険部門であり、従来型の代理店主導の [[non-life-insurers/tokio-marine-nichido-fire]] とは分けて運営される。この分担により、Tokio Marine はフルサービスの代理店チャネルと、デジタル直販の自動車保険を別ブランド・別システムで併走させている。
 
 ## 3. 独立ページとする理由
 
@@ -40,10 +40,10 @@ translated_at: 2026-06-02T16:33:58.472Z
 
 ## 関連項目
 
-- [[tokio-marine]]
-- [[tokio-marine-nichido-fire]]
-- [[sony-insurance]]
-- [[sompo-direct]]
+- [[non-life-insurers/tokio-marine]]
+- [[non-life-insurers/tokio-marine-nichido-fire]]
+- [[non-life-insurers/sony-insurance]]
+- [[non-life-insurers/sompo-direct]]
 - [[insurance/INDEX]]
 
 ## 出典

@@ -29,7 +29,7 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 
 ## TL;DR
 
-損害保険ジャパン株式会社は、[[sompo]] group の core non-life insurance operating company。金融庁の損害保険会社免許一覧と損害保険契約者保護機構会員一覧に掲載される licensed insurer で、SOMPO group の Japan non-life underwriting, claims, agency and commercial-risk surface を担う。
+損害保険ジャパン株式会社は、[[non-life-insurers/sompo]] group の core non-life insurance operating company。金融庁の損害保険会社免許一覧と損害保険契約者保護機構会員一覧に掲載される licensed insurer で、SOMPO group の Japan non-life underwriting, claims, agency and commercial-risk surface を担う。
 
 ## 1. License / group boundary
 
@@ -38,26 +38,26 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 | Legal name | 損害保険ジャパン株式会社 |
 | License route | Insurance Business Act non-life insurance company; FSA non-life insurer list |
 | Protection scheme | Non-Life Insurance Policyholders Protection Corporation member |
-| Group boundary | [[sompo]] core non-life operating company |
+| Group boundary | [[non-life-insurers/sompo]] core non-life operating company |
 | Wiki role | SOMPO group's Japan non-life underwriting arm |
 
 ## 2. Operating model
 
-SOMPO group includes non-life, life, nursing care, digital / health services, and overseas insurance businesses. 損害保険ジャパン is the domestic non-life operating-company anchor; [[sompo-himawari-life]] is the life-insurance arm.
+SOMPO group includes non-life, life, nursing care, digital / health services, and overseas insurance businesses. 損害保険ジャパン is the domestic non-life operating-company anchor; [[life-insurers/sompo-himawari-life]] is the life-insurance arm.
 
 ## 3. Why this page matters
 
-- Separates [[sompo]] holding-company strategy from non-life operating-company analysis.
+- Separates [[non-life-insurers/sompo]] holding-company strategy from non-life operating-company analysis.
 - Core peer for Tokio Marine and MS&AD operating-company pages.
 - Registry-backed D3 non-life major page.
 
 ## Related
 
-- [[sompo]]
-- [[sompo-himawari-life]]
-- [[tokio-marine-nichido-fire]]
-- [[mitsui-sumitomo-insurance]]
-- [[aioi-nissay-dowa-insurance]]
+- [[non-life-insurers/sompo]]
+- [[life-insurers/sompo-himawari-life]]
+- [[non-life-insurers/tokio-marine-nichido-fire]]
+- [[non-life-insurers/mitsui-sumitomo-insurance]]
+- [[non-life-insurers/aioi-nissay-dowa-insurance]]
 - [[insurance/natcat-reinsurance-japan]]
 
 ## Sources

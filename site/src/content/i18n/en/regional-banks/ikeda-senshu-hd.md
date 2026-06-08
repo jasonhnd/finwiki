@@ -16,7 +16,7 @@ This entry sits under[[regional-banks/INDEX|regional-banks INDEX]]Read it agains
 
 ## TL;DR
 
-**Kansai mid-sized regional bank FG** based in Osaka Prefecture. Securities code **TSE PRIME8714**.2009-10-01Established through the management integration of **Ikeda Bank + Senshu Bank**,2010-05-01Futago Bank merged to form **Ikeda Senshu Bank**. Osaka prefecture **Hokusetsu/Ikeda area (formerly Ikeda Gin)** + **Senshu area = southern Osaka prefecture (formerly Senshu Gin)** + **southeast Hyogo prefecture**3 We specialize in mid-sized and small business finance in the Keihanshin Mega Economic Area. In Kansai[[resona-hd]]Direct competition with (Kansai Mirai Bank), Kyoto FG, Shiga Bank, Nanto Bank, etc. mega3 banks([[mufg]]/[[smfg]]/[[mizuho-fg]]), they are divided into mid-sized and small-to-medium-sized layers.^[extracted]
+**Kansai mid-sized regional bank FG** based in Osaka Prefecture. Securities code **TSE PRIME8714**.2009-10-01Established through the management integration of **Ikeda Bank + Senshu Bank**,2010-05-01Futago Bank merged to form **Ikeda Senshu Bank**. Osaka prefecture **Hokusetsu/Ikeda area (formerly Ikeda Gin)** + **Senshu area = southern Osaka prefecture (formerly Senshu Gin)** + **southeast Hyogo prefecture**3 We specialize in mid-sized and small business finance in the Keihanshin Mega Economic Area. In Kansai[[megabanks/resona-hd]]Direct competition with (Kansai Mirai Bank), Kyoto FG, Shiga Bank, Nanto Bank, etc. mega3 banks([[megabanks/mufg]]/[[megabanks/smfg]]/[[megabanks/mizuho-fg]]), they are divided into mid-sized and small-to-medium-sized layers.^[extracted]
 
 ## 1. Company Profile
 
@@ -105,18 +105,18 @@ Ikeda Senshu HD (holding company, TSE PRIME 8714)
 
 | Competition | Ground | Composition |
 |---|---|---|
-|[[resona-hd]](Kansai Mirai Bank) | Kansai area | Former Yamato Bank + Former Kinki Osaka Bank + Former Minato Bank (Hyogo) Union → Direct competition in Kansai retail |
+|[[megabanks/resona-hd]](Kansai Mirai Bank) | Kansai area | Former Yamato Bank + Former Kinki Osaka Bank + Former Minato Bank (Hyogo) Union → Direct competition in Kansai retail |
 | Kyoto FG (Kyoto Bank) | Kyoto Prefecture/Kansai | Partial competition in the Keihanshin area (Kyoto Bank has ample funds due to cross-holdings in listed companies nationwide) |
 | Shiga Bank | Shiga Prefecture/Kansai | Close to Kansai regional bank ranking, competition for customers in Keihanshin |
 | Nanto Bank | Nara Prefecture | Kansai regional banks compete in Nara and southern Kyoto |
 | Kiyo Bank | Wakayama Prefecture | Competitors in Wakayama Prefecture |
-|[[mufg]]/[[smfg]]/[[mizuho-fg]]| Nationwide | There is no competition in the main bank area of ​​large companies, but partial competition in the main bank area of ​​medium-sized companies |
-|[[paypay-fg]]/ Rakuten Bank / Sumishin SBI Net Bank | Digital | Emerging competitors in the personal digital domain |
+|[[megabanks/mufg]]/[[megabanks/smfg]]/[[megabanks/mizuho-fg]]| Nationwide | There is no competition in the main bank area of ​​large companies, but partial competition in the main bank area of ​​medium-sized companies |
+|[[megabanks/paypay-fg]]/ Rakuten Bank / Sumishin SBI Net Bank | Digital | Emerging competitors in the personal digital domain |
 
 ### Integration synergies/issues
 
 - **Geographic complementarity between Ikeda Bank (Hokusetsu) + Senshu Bank (southern) High**: There is no other regional bank that controls both the northern and southern ends of Osaka Prefecture, and there will be great synergy from a single bank integration.^[extracted]
-- **Survival of "mid-sized regional banks" in the Keihanshin mega economic zone**: Mega3 banks+[[resona-hd]]+ Competition for customers with Kyoto Bank, etc.^[extracted]
+- **Survival of "mid-sized regional banks" in the Keihanshin mega economic zone**: Mega3 banks+[[megabanks/resona-hd]]+ Competition for customers with Kyoto Bank, etc.^[extracted]
 
 ## 4.Regulations/Policies
 
@@ -132,9 +132,9 @@ Ikeda Senshu HD (holding company, TSE PRIME 8714)
 
 ## Related
 
-- [[mufg]]·[[smfg]]·[[mizuho-fg]]·[[resona-hd]]·[[sumitomo-mitsui-trust]]
-- [[concordia-fg]]·[[fukuoka-fg]]·[[shizuoka-fg]]·[[hirogin-hd]]
-- [[paypay-fg]]·[[rakuten-fg]]·[[sbi-hd]]
+- [[megabanks/mufg]]·[[megabanks/smfg]]·[[megabanks/mizuho-fg]]·[[megabanks/resona-hd]]·[[trust-banks/sumitomo-mitsui-trust]]
+- [[regional-banks/concordia-fg]]·[[regional-banks/fukuoka-fg]]·[[regional-banks/shizuoka-fg]]·[[regional-banks/hirogin-hd]]
+- [[megabanks/paypay-fg]]·[[payment-firms/rakuten-fg]]·[[megabanks/sbi-hd]]
 
 ## Sources
 

@@ -15,7 +15,7 @@ translated_at: 2026-05-31T15:29:03.932Z
 
 ## TL;DR
 
-东日本银行是一家总部位于东京、列入 FSA 银行牌照名录的第二地方银行。它是 [[concordia-fg|Yokohama Financial Group]] 旗下的经营银行，前身语境中也与 Concordia Financial Group 相连。即使在 2016 年与横滨银行完成业务整合之后，它仍然是面向东京及大东京圈中小企业银行业务的独立法定银行牌照载体。
+东日本银行是一家总部位于东京、列入 FSA 银行牌照名录的第二地方银行。它是 [[regional-banks/concordia-fg|Yokohama Financial Group]] 旗下的经营银行，前身语境中也与 Concordia Financial Group 相连。即使在 2016 年与横滨银行完成业务整合之后，它仍然是面向东京及大东京圈中小企业银行业务的独立法定银行牌照载体。
 
 ## 1. 牌照 / 集团边界
 
@@ -23,7 +23,7 @@ translated_at: 2026-05-31T15:29:03.932Z
 |---|---|
 | 法定名称 | The Higashi-Nippon Bank, Limited |
 | 牌照路径 | 《银行法》项下第二地方银行；FSA 银行牌照名单 |
-| 集团边界 | [[concordia-fg|Yokohama Financial Group]] 旗下经营银行 |
+| 集团边界 | [[regional-banks/concordia-fg|Yokohama Financial Group]] 旗下经营银行 |
 | 主要市场 | 东京及大东京圈中小企业市场 |
 | Wiki 角色 | 东京第二地方银行经营公司条目 |
 
@@ -33,15 +33,15 @@ translated_at: 2026-05-31T15:29:03.932Z
 
 ## 3. 本页为何重要
 
-- 将东日本银行这一法定实体与 [[concordia-fg|Yokohama Financial Group]] 区分开来。
+- 将东日本银行这一法定实体与 [[regional-banks/concordia-fg|Yokohama Financial Group]] 区分开来。
 - 使 2018 年业务改善命令相关历史保留在母公司语境下，同时在此页维持精确的牌照覆盖。
-- 在关东经营公司地图中补充 [[yokohama-bank|Bank of Yokohama]] 与 [[tokyo-star-bank|Tokyo Star Bank]]。
+- 在关东经营公司地图中补充 [[regional-banks/yokohama-bank|Bank of Yokohama]] 与 [[regional-banks/tokyo-star-bank|Tokyo Star Bank]]。
 
 ## Related
 
-- [[concordia-fg]]
-- [[yokohama-bank]]
-- [[tokyo-star-bank]]
+- [[regional-banks/concordia-fg]]
+- [[regional-banks/yokohama-bank]]
+- [[regional-banks/tokyo-star-bank]]
 - [[banking/INDEX]]
 
 ## Sources

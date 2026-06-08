@@ -43,8 +43,8 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 
 1. **美元的链级霸权将进一步强化**：USDC 通过三大圆覆盖发达国家世界，在战略地位上远超 Tether（后者仅存在于新兴市场与灰色地带）。
 2. **次级阵营被迫做出选择**：英国、瑞士、新加坡、香港等必须决定加入“美元阵营”还是其他阵营。
-3. **BRICS 阵营的反击**：在 [[stablecoin-chain-sovereign-currency-divide|5 極地政学対立]] 中，“灰色”和“非美元”圆中的资本流向发生变化。
-4. **印度 / 中国的挑战**：[[india-anti-dollar-dpi-alliance|インド UPI / MOSIP DPI 連合]] 提供了替代性叙事。
+3. **BRICS 阵营的反击**：在 [[fintech/stablecoin-chain-sovereign-currency-divide|5 極地政学対立]] 中，“灰色”和“非美元”圆中的资本流向发生变化。
+4. **印度 / 中国的挑战**：[[fintech/india-anti-dollar-dpi-alliance|インド UPI / MOSIP DPI 連合]] 提供了替代性叙事。
 
 **对市场结构的含义**：
 

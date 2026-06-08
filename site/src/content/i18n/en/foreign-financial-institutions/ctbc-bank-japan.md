@@ -35,14 +35,14 @@ CTBC's Japan branch forms and public disclosure materials identify the Tokyo Bra
 ## 3. Why this page matters
 
 - Adds a leading Taiwan private-bank branch to the JapanFG map.
-- Complements Taiwan public-sector or government-adjacent routes such as [[bank-of-taiwan-japan]].
-- Provides a Taiwan peer to [[esun-bank-japan]] and [[mega-icbc-japan]].
+- Complements Taiwan public-sector or government-adjacent routes such as [[foreign-financial-institutions/bank-of-taiwan-japan]].
+- Provides a Taiwan peer to [[foreign-financial-institutions/esun-bank-japan]] and [[foreign-financial-institutions/mega-icbc-japan]].
 
 ## Related
 
-- [[bank-of-taiwan-japan]]
-- [[mega-icbc-japan]]
-- [[esun-bank-japan]]
+- [[foreign-financial-institutions/bank-of-taiwan-japan]]
+- [[foreign-financial-institutions/mega-icbc-japan]]
+- [[foreign-financial-institutions/esun-bank-japan]]
 - [[banking/foreign-bank-japan-retreat]]
 - [[banking/INDEX]]
 

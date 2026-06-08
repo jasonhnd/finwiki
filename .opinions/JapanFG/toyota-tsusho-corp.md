@@ -12,7 +12,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## 推論 (from TL;DR)
 
-豊田通商 (東証 PRIME **8015**) は **トヨタ自動車系の総合商社**、**Toyota Motor 持分約 22% 級主要株主** + **豊田自動織機 持分** という出資関係でトヨタグループ系列に組み込まれた **第 6 商社 / トヨタ系商社**。**自動車関連トレード (Toyota 海外ディーラー網、部品調達・物流)** + **アフリカ戦略 (CFAO 完全子会社化 2016 → アフリカ大陸最大級の流通網) で 5 大商社にない独自ポジション** + **モビリティ・新エネ (リチウム、レアアース)** が中核。JapanFG 文脈での重要性は (i) [[JapanFG/toyota-tsusho-finance|豊田通商フィナンス]] (内向け CMS)、(ii) [[JapanFG/toyota-financial|トヨタファイナンシャルサービス]] family (Toyota Motor 100% 子会社系、オートローン / リースプラットフォーム — 豊田通商とは別系列だが Toyota group ecosystem の中で隣接) との連携。^[inferred]
+豊田通商 (東証 PRIME **8015**) は **トヨタ自動車系の総合商社**、**Toyota Motor 持分約 22% 級主要株主** + **豊田自動織機 持分** という出資関係でトヨタグループ系列に組み込まれた **第 6 商社 / トヨタ系商社**。**自動車関連トレード (Toyota 海外ディーラー網、部品調達・物流)** + **アフリカ戦略 (CFAO 完全子会社化 2016 → アフリカ大陸最大級の流通網) で 5 大商社にない独自ポジション** + **モビリティ・新エネ (リチウム、レアアース)** が中核。JapanFG 文脈での重要性は (i) [[trading-company-finance/toyota-tsusho-finance|豊田通商フィナンス]] (内向け CMS)、(ii) [[leasing-firms/toyota-financial|トヨタファイナンシャルサービス]] family (Toyota Motor 100% 子会社系、オートローン / リースプラットフォーム — 豊田通商とは別系列だが Toyota group ecosystem の中で隣接) との連携。^[inferred]
 
 ## 推論 (from 1. 会社概要)
 
@@ -22,9 +22,9 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## 推論 (from 3. Financial-services adjacency)
 
-- **[[JapanFG/toyota-financial|TFS / トヨタファイナンス / トヨタファイナンシャルサービス]]** — Toyota Motor 100% 子会社、世界 30 ヶ国以上で auto loan / lease / insurance を展開する captive finance。豊田通商と直接資本関係はないが、Toyota group ecosystem の中で **「車両販売 = TFS」「ディーラー網 = 豊田通商 (海外)」** の役割分担で隣接 ^[inferred]
-- **三菱 UFJ 銀行 / [[JapanFG/mufg|MUFG]]** — Toyota Motor のメインバンク的位置、豊田通商も三菱グループ系列との取引が多い (旧 名古屋拠点 + 三菱グループ) ^[inferred]
-- **[[JapanFG/aichi-fg|あいち FG]] / 名古屋銀行 等の中京経済圏地銀** — トヨタサプライチェーン融資 ^[inferred]
+- **[[leasing-firms/toyota-financial|TFS / トヨタファイナンス / トヨタファイナンシャルサービス]]** — Toyota Motor 100% 子会社、世界 30 ヶ国以上で auto loan / lease / insurance を展開する captive finance。豊田通商と直接資本関係はないが、Toyota group ecosystem の中で **「車両販売 = TFS」「ディーラー網 = 豊田通商 (海外)」** の役割分担で隣接 ^[inferred]
+- **三菱 UFJ 銀行 / [[megabanks/mufg|MUFG]]** — Toyota Motor のメインバンク的位置、豊田通商も三菱グループ系列との取引が多い (旧 名古屋拠点 + 三菱グループ) ^[inferred]
+- **[[regional-banks/aichi-fg|あいち FG]] / 名古屋銀行 等の中京経済圏地銀** — トヨタサプライチェーン融資 ^[inferred]
 「**TFS = Toyota 車両販売 captive finance** (Toyota Motor 直系)」「**豊田通商 = ディーラー網・商社機能** (Toyota group 系商社)」「豊田通商フィナンス = 内向け CMS」の役割分担。商社系金融としては 5 大商社 (HCキャピタル / 東京センチュリー / SMFL / みずほリース / JA三井リース) のような **外向け総合リース捕捉** を持たないのが特徴 ^[inferred]
 
 ## 推論 (from 5. 規制・政策)

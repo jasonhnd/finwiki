@@ -49,42 +49,40 @@
     "競争マップ (四国 4 県)"
   ],
   "body_links": {
-    "wikilinks_count": 12,
+    "wikilinks_count": 11,
     "wikilinks": [
-      "awa-bank",
       "banking/INDEX",
-      "ehime-bank",
-      "hyakujushi-bank",
-      "iyo-bank",
-      "kagawa-bank",
-      "kochi-bank",
       "regional-banks/INDEX",
+      "regional-banks/awa-bank",
+      "regional-banks/ehime-bank",
+      "regional-banks/hyakujushi-bank",
       "regional-banks/iyo-bank",
-      "shikoku-bank",
-      "tokushima-taisho-bank",
-      "tomony-hd"
+      "regional-banks/kagawa-bank",
+      "regional-banks/kochi-bank",
+      "regional-banks/shikoku-bank",
+      "regional-banks/tokushima-taisho-bank",
+      "regional-banks/tomony-hd"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/awa-bank",
       "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/ehime-bank",
-      "https://finwiki.zksc.io/hyakujushi-bank",
-      "https://finwiki.zksc.io/iyo-bank",
-      "https://finwiki.zksc.io/kagawa-bank",
-      "https://finwiki.zksc.io/kochi-bank",
       "https://finwiki.zksc.io/regional-banks/INDEX",
+      "https://finwiki.zksc.io/regional-banks/awa-bank",
+      "https://finwiki.zksc.io/regional-banks/ehime-bank",
+      "https://finwiki.zksc.io/regional-banks/hyakujushi-bank",
       "https://finwiki.zksc.io/regional-banks/iyo-bank",
-      "https://finwiki.zksc.io/shikoku-bank",
-      "https://finwiki.zksc.io/tokushima-taisho-bank",
-      "https://finwiki.zksc.io/tomony-hd"
+      "https://finwiki.zksc.io/regional-banks/kagawa-bank",
+      "https://finwiki.zksc.io/regional-banks/kochi-bank",
+      "https://finwiki.zksc.io/regional-banks/shikoku-bank",
+      "https://finwiki.zksc.io/regional-banks/tokushima-taisho-bank",
+      "https://finwiki.zksc.io/regional-banks/tomony-hd"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2934,
-    "word_like_tokens": 454,
-    "inbound_wikilinks_count": 4,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 3294,
+    "word_like_tokens": 502,
+    "inbound_wikilinks_count": 12,
+    "last_modified": "2026-06-08"
   }
 }

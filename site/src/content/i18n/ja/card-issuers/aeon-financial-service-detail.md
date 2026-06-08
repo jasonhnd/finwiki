@@ -14,7 +14,7 @@ translated_at: 2026-06-02T14:01:20.898Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[card-issuers/INDEX|card-issuers INDEX]] の下にあり、株式会社電通グループ（東証 PRIME 4324、世界 5 大広告会社の一角）の **金融機能子会社群** の事業会社アンカーである。具体的には、**電通ベンチャーズ（CVC = Corporate Venture Capital）+ 電通キャピタル（M&A / 戦略投資）+ 広告主向け請求・決済機能 + 国際拠点ファイナンス機能** を扱う。メディア業界ピアの文脈では博報堂 DY HD や WPP Japan、産業系 captive-finance ピア群では [[card-issuers/INDEX]] のメーカー captive-finance 子会社群（[[card-issuers/toyota-finance|トヨタファイナンス]]・[[JapanFG/sony-finance|ソニーファイナンス]]・[[JapanFG/nissan-finance|日産フィナンシャル]] 等）、コーポレートベンチャーの文脈では [[asset-management/cvc-japan-landscape|日本 CVC ランドスケープ]] と対照して読む。
+この項目は [[card-issuers/INDEX|card-issuers INDEX]] の下にあり、株式会社電通グループ（東証 PRIME 4324、世界 5 大広告会社の一角）の **金融機能子会社群** の事業会社アンカーである。具体的には、**電通ベンチャーズ（CVC = Corporate Venture Capital）+ 電通キャピタル（M&A / 戦略投資）+ 広告主向け請求・決済機能 + 国際拠点ファイナンス機能** を扱う。メディア業界ピアの文脈では博報堂 DY HD や WPP Japan、産業系 captive-finance ピア群では [[card-issuers/INDEX]] のメーカー captive-finance 子会社群（[[card-issuers/toyota-finance|トヨタファイナンス]]・[[JapanFG/sony-finance|ソニーファイナンス]]・[[JapanFG/nissan-finance|日産フィナンシャル]] 等）、コーポレートベンチャーの文脈では [[asset-managers/cvc-japan-landscape|日本 CVC ランドスケープ]] と対照して読む。
 
 ## 要約
 
@@ -150,7 +150,7 @@ translated_at: 2026-06-02T14:01:20.898Z
 - [[JapanFG/sony-finance]] — メーカー captive-finance ピア
 - [[JapanFG/nissan-finance]] — メーカー captive-finance ピア
 - [[megabanks/sbi-hd]] — 大手 CVC / 投資グループピア
-- [[asset-management/cvc-japan-landscape]] — 日本 CVC ランドスケープ
+- [[asset-managers/cvc-japan-landscape]] — 日本 CVC ランドスケープ
 - [[card-issuers/INDEX]] — JapanFG namespace index
 
 ## 出典

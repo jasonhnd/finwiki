@@ -16,7 +16,7 @@ translated_at: 2026-06-02T16:33:58.509Z
 
 ## 要約
 
-株式会社富山銀行は、金融庁の銀行免許一覧に掲載される富山県高岡市本店の地方銀行。[[hokuriku-bank]] や [[toyama-first-bank]] と同じ富山県内の地域銀行競争セットに入るが、持株会社ページでは拾えない、単独で免許を持つ銀行である。
+株式会社富山銀行は、金融庁の銀行免許一覧に掲載される富山県高岡市本店の地方銀行。[[regional-banks/hokuriku-bank]] や [[regional-banks/toyama-first-bank]] と同じ富山県内の地域銀行競争セットに入るが、持株会社ページでは拾えない、単独で免許を持つ銀行である。
 
 ## 1. ライセンス / グループ境界
 
@@ -34,14 +34,14 @@ translated_at: 2026-06-02T16:33:58.509Z
 ## 3. このページが重要な理由
 
 - FSA に基づく正確な名称の地域銀行ページを追加する。
-- [[hokuriku-bank]] と [[toyama-first-bank]] を補完する。
+- [[regional-banks/hokuriku-bank]] と [[regional-banks/toyama-first-bank]] を補完する。
 - B2.1 地域銀行のオペレーティング会社ページとして、より広い [[regional-banks/INDEX|regional-banks INDEX]] の面の下で追跡する。
 
 ## 関連項目
 
-- [[hokuriku-bank]]
-- [[toyama-first-bank]]
-- [[hokuhoku-fg]]
+- [[regional-banks/hokuriku-bank]]
+- [[regional-banks/toyama-first-bank]]
+- [[regional-banks/hokuhoku-fg]]
 - [[banking/INDEX]]
 
 ## 出典

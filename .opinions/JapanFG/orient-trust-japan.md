@@ -12,7 +12,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## 推論 (from TL;DR)
 
-米 **Northern Trust Corporation**（NASDAQ: **NTRS**、シカゴ本社）の日本拠点群。親会社は **米国 3 大カストディ・アセット・サービシング銀行の 1 つ**（首位 [[JapanFG/bny-mellon-japan|BNY Mellon]] / 2 位 [[JapanFG/state-street-japan|State Street]] に次ぐ、世界 AUC/A 約 16 兆ドル規模、2024）で、機関投資家サービス（カストディ・アセット・サービシング・ファンドアドミ）と富裕層プライベートバンキングの両輪が特徴。日本では **ノーザン・トラスト・グローバル・サービシング・ジャパン**（信託業ライセンスを軸に GPIF・公的年金・運用会社向けバックオフィスサービスを提供）+ **東京支店** + **ノーザン・トラスト・セキュリティーズ・ジャパン**（FIEA 業者）の組み合わせで運営。**邦銀リテール非関与・純粋ホールセール B2B 機関投資家特化** の外資カストディ第 3 軸。^[inferred]
+米 **Northern Trust Corporation**（NASDAQ: **NTRS**、シカゴ本社）の日本拠点群。親会社は **米国 3 大カストディ・アセット・サービシング銀行の 1 つ**（首位 [[foreign-financial-institutions/bny-mellon-japan|BNY Mellon]] / 2 位 [[foreign-financial-institutions/state-street-japan|State Street]] に次ぐ、世界 AUC/A 約 16 兆ドル規模、2024）で、機関投資家サービス（カストディ・アセット・サービシング・ファンドアドミ）と富裕層プライベートバンキングの両輪が特徴。日本では **ノーザン・トラスト・グローバル・サービシング・ジャパン**（信託業ライセンスを軸に GPIF・公的年金・運用会社向けバックオフィスサービスを提供）+ **東京支店** + **ノーザン・トラスト・セキュリティーズ・ジャパン**（FIEA 業者）の組み合わせで運営。**邦銀リテール非関与・純粋ホールセール B2B 機関投資家特化** の外資カストディ第 3 軸。^[inferred]
 
 ## 推論 (from 2. 日本拠点法人構成（公開情報ベース）)
 
@@ -34,7 +34,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 - 日本拠点の正確な従業員数・AUC/A 受託額（公開情報では非開示）?
 - GPIF・公的年金カストディ受託機関の中での Northern Trust のシェア順位?
-- 「米 3 大カストディ」競合間でのシェア推移（[[JapanFG/state-street-japan|State Street]] の SSGA 強みとの違い）?
-- 邦銀信託（[[JapanFG/master-trust-bank|マスタートラスト]] / [[JapanFG/mitsubishi-ufj-trust-bank|三菱 UFJ 信託]]）の海外運用受託機能内製化進行度?
+- 「米 3 大カストディ」競合間でのシェア推移（[[foreign-financial-institutions/state-street-japan|State Street]] の SSGA 強みとの違い）?
+- 邦銀信託（[[trust-banks/master-trust-bank|マスタートラスト]] / [[trust-banks/mitsubishi-ufj-trust-bank|三菱 UFJ 信託]]）の海外運用受託機能内製化進行度?
 - 日本富裕層プライベートバンク展開シナリオ（UBS / LGT の競合に対抗するか）?
 - アジア統括拠点（香港・シンガポール）との分業構造?

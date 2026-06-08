@@ -16,7 +16,7 @@ translated_at: 2026-06-02T14:25:12.406Z
 
 ## 要約
 
-**GMO インターネットグループ** 傘下の暗号資産取引所。**関東財務局長 第 00006 号**（業界最初期登録の 1 つ）、JVCEA 第一種会員。**販売所 + 取引所 + レバレッジ取引** 3 軸 + **20 種以上の取扱通貨** で国内大手。親会社 [[gmo-payment-gateway|GMO ペイメントゲートウェイ]] / GMO クリック証券 / [[gmo-aozora-net|GMO あおぞらネット銀行]] と並ぶ GMO 金融エコシステムの **暗号資産担当**。競合は [[bitflyer]] / Coincheck（[[monex-group]] 内）/ SBI VC Trade（[[sbi-hd]] 内）/ DMM Bitcoin / bitbank / [[bittrade]]。
+**GMO インターネットグループ** 傘下の暗号資産取引所。**関東財務局長 第 00006 号**（業界最初期登録の 1 つ）、JVCEA 第一種会員。**販売所 + 取引所 + レバレッジ取引** 3 軸 + **20 種以上の取扱通貨** で国内大手。親会社 [[payment-firms/gmo-payment-gateway|GMO ペイメントゲートウェイ]] / GMO クリック証券 / [[payment-firms/gmo-aozora-net|GMO あおぞらネット銀行]] と並ぶ GMO 金融エコシステムの **暗号資産担当**。競合は [[payment-firms/bitflyer]] / Coincheck（[[securities-firms/monex-group]] 内）/ SBI VC Trade（[[megabanks/sbi-hd]] 内）/ DMM Bitcoin / bitbank / [[payment-firms/bittrade]]。
 
 ## 1. 会社概要
 
@@ -38,8 +38,8 @@ GMO インターネットグループ（9449 / 東証 PRIME）
         ├── GMO コイン ★ ── 本項目
         ├── GMO 外貨 ── 旧 FXプライム by GMO
         └── 海外 FX 拠点（タイ・香港・英国等）
-  └── [[gmo-payment-gateway|GMO ペイメントゲートウェイ]]（3769 / 東証 PRIME）── 決済代行業界最大手
-  └── [[gmo-aozora-net|GMO あおぞらネット銀行]] ── あおぞら銀行と JV
+  └── [[payment-firms/gmo-payment-gateway|GMO ペイメントゲートウェイ]]（3769 / 東証 PRIME）── 決済代行業界最大手
+  └── [[payment-firms/gmo-aozora-net|GMO あおぞらネット銀行]] ── あおぞら銀行と JV
 ```
 
 ## 2. 事業セグメント・マップ
@@ -76,21 +76,21 @@ GMO インターネットグループ（9449 / 東証 PRIME）
 
 ### GMO 金融エコシステム連携
 
-- **[[gmo-payment-gateway|GMO ペイメントゲートウェイ]]**（決済代行）→ 法人向け暗号資産決済への展開可能性
+- **[[payment-firms/gmo-payment-gateway|GMO ペイメントゲートウェイ]]**（決済代行）→ 法人向け暗号資産決済への展開可能性
 - **GMO クリック証券**（ネット証券・FX）→ 顧客クロスセル基盤
-- **[[gmo-aozora-net|GMO あおぞらネット銀行]]**（ネット銀行）→ 入出金導線
+- **[[payment-firms/gmo-aozora-net|GMO あおぞらネット銀行]]**（ネット銀行）→ 入出金導線
 - **GMO インターネット本体**（インフラ・サイバーセキュリティ）→ 取引所セキュリティ基盤
 
 ### 競合ポジション
 
 | 競合 | 親会社 | 強み |
 |---|---|---|
-| [[bitflyer]] | 独立系 | 国内最大手・[[mufg]] 等大手出資・bitFlyer Lightning |
-| Coincheck | [[monex-group]] | 取扱通貨数・NFT マーケット・米国 SPAC 上場計画 |
-| SBI VC Trade | [[sbi-hd]] | SBI 証券クロスセル・XRP（リップル提携）|
+| [[payment-firms/bitflyer]] | 独立系 | 国内最大手・[[megabanks/mufg]] 等大手出資・bitFlyer Lightning |
+| Coincheck | [[securities-firms/monex-group]] | 取扱通貨数・NFT マーケット・米国 SPAC 上場計画 |
+| SBI VC Trade | [[megabanks/sbi-hd]] | SBI 証券クロスセル・XRP（リップル提携）|
 | DMM Bitcoin | DMM.com | レバレッジ取引・取扱通貨数 |
 | bitbank | 独立系 | 取引所板の流動性 |
-| [[bittrade]] | フォビ系 → 国内資本 | 旧 Huobi Japan |
+| [[payment-firms/bittrade]] | フォビ系 → 国内資本 | 旧 Huobi Japan |
 
 **GMO コインの差別化**：①関東財務局長 **第 00006 号**（最古参の信頼性）、②**レバレッジ取引** の業界初期参入・主力収益、③GMO 金融グループのインフラ・KYC・カスタマーサポート基盤、④取扱通貨数の継続拡大。
 
@@ -114,9 +114,9 @@ GMO インターネットグループ（9449 / 東証 PRIME）
 
 ## 関連
 
-- [[payment-firms/gmo-financial-hd|gmo-fhd]] · [[gmo-payment-gateway]] · [[gmo-aozora-net]]
-- [[bitflyer]] · [[bittrade]] · [[monex-group]] · [[sbi-hd]]
-- [[mufg]] · [[smfg]] · [[mizuho-fg]]
+- [[payment-firms/gmo-financial-hd|gmo-fhd]] · [[payment-firms/gmo-payment-gateway]] · [[payment-firms/gmo-aozora-net]]
+- [[payment-firms/bitflyer]] · [[payment-firms/bittrade]] · [[securities-firms/monex-group]] · [[megabanks/sbi-hd]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]
 
 ## 出典
 

@@ -51,34 +51,32 @@
     "政府との関係"
   ],
   "body_links": {
-    "wikilinks_count": 8,
+    "wikilinks_count": 7,
     "wikilinks": [
       "banking/INDEX",
       "financial-regulators/INDEX",
       "financial-regulators/jfc",
+      "megabanks/mizuho-fg",
       "megabanks/mufg",
-      "mizuho-fg",
-      "mufg",
-      "ndfg",
-      "smfg"
+      "megabanks/ndfg",
+      "megabanks/smfg"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/financial-regulators/INDEX",
       "https://finwiki.zksc.io/financial-regulators/jfc",
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
       "https://finwiki.zksc.io/megabanks/mufg",
-      "https://finwiki.zksc.io/mizuho-fg",
-      "https://finwiki.zksc.io/mufg",
-      "https://finwiki.zksc.io/ndfg",
-      "https://finwiki.zksc.io/smfg"
+      "https://finwiki.zksc.io/megabanks/ndfg",
+      "https://finwiki.zksc.io/megabanks/smfg"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3460,
-    "word_like_tokens": 510,
-    "inbound_wikilinks_count": 15,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 3530,
+    "word_like_tokens": 517,
+    "inbound_wikilinks_count": 17,
+    "last_modified": "2026-06-08"
   }
 }

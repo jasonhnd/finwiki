@@ -15,7 +15,7 @@ translated_at: 2026-05-31T23:59:49.413Z
 
 ## TL;DR
 
-Monex Group 是东证 Prime 上市控股公司，证券代码 8698，把日本大型线上证券公司、通过 Coincheck 展开的加密资产业务，以及美国线上券商 TradeStation 组合为面向**个人投资者的全球金融平台**。它于 1999-05-19 作为旧 Monex Securities 创业，由 Sony 与松本大共同出资；创始人**松本大**曾任 Goldman Sachs 合伙人，现仍担任会长兼 CEO。其特征是由国内证券、美国业务和加密资产构成的 3  轴结构。与大型银行系综合金融不同，这是“专注个人投资者平台”的模式。2024 年，NTT Docomo 公布对 Monex Group 出资并纳入合并子公司；Monex Securities 预计将作为 [[ndfg]] 这一 Docomo 系金融集团的证券核心业务来定位，并计划在 2026 年 对外披露重组。
+Monex Group 是东证 Prime 上市控股公司，证券代码 8698，把日本大型线上证券公司、通过 Coincheck 展开的加密资产业务，以及美国线上券商 TradeStation 组合为面向**个人投资者的全球金融平台**。它于 1999-05-19 作为旧 Monex Securities 创业，由 Sony 与松本大共同出资；创始人**松本大**曾任 Goldman Sachs 合伙人，现仍担任会长兼 CEO。其特征是由国内证券、美国业务和加密资产构成的 3  轴结构。与大型银行系综合金融不同，这是“专注个人投资者平台”的模式。2024 年，NTT Docomo 公布对 Monex Group 出资并纳入合并子公司；Monex Securities 预计将作为 [[megabanks/ndfg]] 这一 Docomo 系金融集团的证券核心业务来定位，并计划在 2026 年 对外披露重组。
 
 ## 1. 公司概要
 
@@ -58,7 +58,7 @@ Monex Group（上市控股公司，8698）
 | **2018-04** | **Coincheck 完全子公司化**，金额约 36 億円，是 NEM 流出事件后的救济性收购。 |
 | 2020 年 年代前半 | Coincheck 曾计划通过与 Thunder Bridge Capital 合并在美国 SPAC 上市，后撤回。 |
 | **2024** | **NTT Docomo 公布对 Monex Group 出资并纳入合并子公司**；具体条件随时期变化。 |
-| 2026（计划） | **Monex Securities 预计作为 Docomo 系金融集团 [[ndfg]] 的证券核心业务重组并披露**，基于公开公告。 |
+| 2026（计划） | **Monex Securities 预计作为 Docomo 系金融集团 [[megabanks/ndfg]] 的证券核心业务重组并披露**，基于公开公告。 |
 
 > 注：上述年表基于 Wikipedia、IR、新闻稿等公开资料。具体持股比例和整合方案条件会随时期变化，最新数值应参照 IR 披露资料。
 
@@ -72,7 +72,7 @@ Monex Group（上市控股公司，8698）
 | 海外、澳大利亚 | Monex Securities Australia | 有限的区域展开。 |
 | 资产管理 | Monex Asset Management | 投资信托、智能投顾相关业务。 |
 | 风险投资 | Monex Ventures | 金融科技 / 加密资产相关 CVC。 |
-| 通信系金融合作 | NTT Docomo 系金融，关联 [[ndfg]] 和公开计划 | 基于 2024 年 公布内容，与 d 经济圈整合。 |
+| 通信系金融合作 | NTT Docomo 系金融，关联 [[megabanks/ndfg]] 和公开计划 | 基于 2024 年 公布内容，与 d 经济圈整合。 |
 
 ### 3  轴结构（Monex Group 的官方概念）
 
@@ -82,7 +82,7 @@ Monex Group（上市控股公司，8698）
 - **美国**：TradeStation，面向美国活跃交易者。
 - **加密资产**：Coincheck，日本国内交易所。
 
-3  条轴线覆盖不同地理范围和不同资产类别，设计思想是横向满足个人投资者的多样需求。与 [[mufg]] / [[smfg]] / [[mizuho-fg]] 等大型银行系“银行 + 信托 + 证券 + 海外”的综合模式相比，Monex 把板块收窄在**个人投资者平台专门化**上。
+3  条轴线覆盖不同地理范围和不同资产类别，设计思想是横向满足个人投资者的多样需求。与 [[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]] 等大型银行系“银行 + 信托 + 证券 + 海外”的综合模式相比，Monex 把板块收窄在**个人投资者平台专门化**上。
 
 ### NTT Docomo 合作（2024 年 公布）
 
@@ -120,7 +120,7 @@ Monex Group（上市控股公司，8698）
 
 ## Related
 
-- [[ndfg]] · [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[sbi-hd]] · [[paypay-fg]]
+- [[megabanks/ndfg]] · [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[megabanks/sbi-hd]] · [[megabanks/paypay-fg]]
 
 ## Sources
 

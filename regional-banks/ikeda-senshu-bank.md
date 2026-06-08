@@ -23,7 +23,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-株式会社池田泉州銀行は、金融庁の銀行免許一覧に掲載される大阪府本店の地方銀行。[[ikeda-senshu-hd]] の core operating bank であり、旧池田銀行・旧泉州銀行統合後の bank-license entity として扱う。
+株式会社池田泉州銀行は、金融庁の銀行免許一覧に掲載される大阪府本店の地方銀行。[[regional-banks/ikeda-senshu-hd]] の core operating bank であり、旧池田銀行・旧泉州銀行統合後の bank-license entity として扱う。
 
 ## 1. License / group boundary
 
@@ -31,7 +31,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 |---|---|
 | Legal name | 株式会社池田泉州銀行 |
 | License route | Banking Act regional bank; FSA bank license list |
-| Group boundary | [[ikeda-senshu-hd]] core operating bank |
+| Group boundary | [[regional-banks/ikeda-senshu-hd]] core operating bank |
 | Home market | Osaka / Hokusetu, Senshu, and southeastern Hyogo |
 | Wiki role | Osaka regional-bank operating-company page |
 
@@ -42,15 +42,15 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 ## 3. Why this page matters
 
 - Closes the FSA exact-name operating-company gap for 池田泉州銀行.
-- Separates the bank entity from [[ikeda-senshu-hd]] holding-company strategy.
-- Provides a peer anchor for [[kansai-mirai-bank]], [[kyoto-bank]], and [[kiyo-bank]].
+- Separates the bank entity from [[regional-banks/ikeda-senshu-hd]] holding-company strategy.
+- Provides a peer anchor for [[regional-banks/kansai-mirai-bank]], [[regional-banks/kyoto-bank]], and [[regional-banks/kiyo-bank]].
 
 ## Related
 
-- [[ikeda-senshu-hd]]
-- [[kansai-mirai-bank]]
-- [[kyoto-bank]]
-- [[kiyo-bank]]
+- [[regional-banks/ikeda-senshu-hd]]
+- [[regional-banks/kansai-mirai-bank]]
+- [[regional-banks/kyoto-bank]]
+- [[regional-banks/kiyo-bank]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 

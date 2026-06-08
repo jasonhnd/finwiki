@@ -53,40 +53,40 @@
   "body_links": {
     "wikilinks_count": 12,
     "wikilinks": [
-      "dai-ichi-life",
       "insurance/INDEX",
-      "kampo-life",
       "life-insurers/INDEX",
+      "life-insurers/dai-ichi-life",
+      "life-insurers/kampo-life",
       "life-insurers/meiji-yasuda",
+      "life-insurers/metlife-japan",
+      "life-insurers/nippon-life",
       "life-insurers/prudential-japan",
-      "metlife-japan",
-      "msad",
-      "nippon-life",
+      "life-insurers/sumitomo-life",
+      "non-life-insurers/msad",
       "non-life-insurers/sompo",
-      "non-life-insurers/tokio-marine",
-      "sumitomo-life"
+      "non-life-insurers/tokio-marine"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/dai-ichi-life",
       "https://finwiki.zksc.io/insurance/INDEX",
-      "https://finwiki.zksc.io/kampo-life",
       "https://finwiki.zksc.io/life-insurers/INDEX",
+      "https://finwiki.zksc.io/life-insurers/dai-ichi-life",
+      "https://finwiki.zksc.io/life-insurers/kampo-life",
       "https://finwiki.zksc.io/life-insurers/meiji-yasuda",
+      "https://finwiki.zksc.io/life-insurers/metlife-japan",
+      "https://finwiki.zksc.io/life-insurers/nippon-life",
       "https://finwiki.zksc.io/life-insurers/prudential-japan",
-      "https://finwiki.zksc.io/metlife-japan",
-      "https://finwiki.zksc.io/msad",
-      "https://finwiki.zksc.io/nippon-life",
+      "https://finwiki.zksc.io/life-insurers/sumitomo-life",
+      "https://finwiki.zksc.io/non-life-insurers/msad",
       "https://finwiki.zksc.io/non-life-insurers/sompo",
-      "https://finwiki.zksc.io/non-life-insurers/tokio-marine",
-      "https://finwiki.zksc.io/sumitomo-life"
+      "https://finwiki.zksc.io/non-life-insurers/tokio-marine"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6189,
-    "word_like_tokens": 901,
-    "inbound_wikilinks_count": 14,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 6393,
+    "word_like_tokens": 931,
+    "inbound_wikilinks_count": 20,
+    "last_modified": "2026-06-08"
   }
 }

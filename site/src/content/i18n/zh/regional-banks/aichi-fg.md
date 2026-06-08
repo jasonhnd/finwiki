@@ -16,7 +16,7 @@ translated_at: 2026-05-31T11:13:44.837Z
 
 ##TL;博士
 
-以爱知县为地盘的地方银行金融集团（东证 PRIME 7389）。通过 **2022-10-03 爱知银行 + 中京银行经营整合**成立，银行子公司已整合至 [[aichi-bank|あいち銀行]]。这是以中京经济圈（名古屋・丰田供应链）为基础的地方银行重组模式。县内竞争对手为 [[nagoya-bank]]（未控股公司化，县内 No.2），邻近同业为 [[juroku-fg]]（岐阜）/[[san-jusan-fg]]（三重）/[[ogaki-kyoritsu-bank]]（岐阜）。^[extracted]
+以爱知县为地盘的地方银行金融集团（东证 PRIME 7389）。通过 **2022-10-03 爱知银行 + 中京银行经营整合**成立，银行子公司已整合至 [[regional-banks/aichi-bank|あいち銀行]]。这是以中京经济圈（名古屋・丰田供应链）为基础的地方银行重组模式。县内竞争对手为 [[regional-banks/nagoya-bank]]（未控股公司化，县内 No.2），邻近同业为 [[regional-banks/juroku-fg]]（岐阜）/[[regional-banks/san-jusan-fg]]（三重）/[[regional-banks/ogaki-kyoritsu-bank]]（岐阜）。^[extracted]
 
 ## 1。公司简介
 
@@ -30,7 +30,7 @@ translated_at: 2026-05-31T11:13:44.837Z
 
 ```
 あいち FG（持株会社・上場 7389）
-  └── [[aichi-bank|あいち銀行]]（100%）── 旧愛知銀行 + 旧中京銀行の統合後 operating bank
+  └── [[regional-banks/aichi-bank|あいち銀行]]（100%）── 旧愛知銀行 + 旧中京銀行の統合後 operating bank
         └── 県内支店ネットワーク・中堅中小企業融資
 ```
 
@@ -48,7 +48,7 @@ translated_at: 2026-05-31T11:13:44.837Z
 #### 管理整合流程
 
 - **2022-10-03 爱知FG成立**（股份转让，两家银行100%成为子公司，新FG在TSE PRIME上市） ^[extracted]
-- **2025-01-01 爱知银行 + 中京银行合并**，当前运营银行为 [[aichi-bank|あいち銀行]]。
+- **2025-01-01 爱知银行 + 中京银行合并**，当前运营银行为 [[regional-banks/aichi-bank|あいち銀行]]。
 
 ### 重要年表 ^[extracted]
 
@@ -58,15 +58,15 @@ translated_at: 2026-05-31T11:13:44.837Z
 |1943 |因战时整合而成立的爱知银行|
 |1953 |中京银行成立（第3届Mugen+第17届Mugen）|
 |**2022-10-03**|**爱知FG成立**（爱知银行+中京银行股份转让）/在TSE PRIME上市|
-|**2025-01-01**|**爱知银行 + 中京银行合并**，运营公司边界组织为 [[aichi-bank|あいち銀行]]|
+|**2025-01-01**|**爱知银行 + 中京银行合并**，运营公司边界组织为 [[regional-banks/aichi-bank|あいち銀行]]|
 
 ## 2。业务板块图
 
 |部分|主要事业者|特征|
 |---|---|---|
-|中坚中小企业融资|[[aichi-bank|あいち銀行]]|爱知县的制造业/供应商金融|
-|中小零细企业融资|[[aichi-bank|あいち銀行]]|包括名古屋市原中京银行一侧的小型企业|
-|个人零售|[[aichi-bank|あいち銀行]]|抵押贷款/存款|
+|中坚中小企业融资|[[regional-banks/aichi-bank|あいち銀行]]|爱知县的制造业/供应商金融|
+|中小零细企业融资|[[regional-banks/aichi-bank|あいち銀行]]|包括名古屋市原中京银行一侧的小型企业|
+|个人零售|[[regional-banks/aichi-bank|あいち銀行]]|抵押贷款/存款|
 
 ### 中京经济区集中战略
 
@@ -84,10 +84,10 @@ translated_at: 2026-05-31T11:13:44.837Z
 |竞赛|业态|位置|
 |---|---|---|
 |名古屋银行 (TSE PRIME 8522)|第二家独立/无控股公司的区域银行|爱知县No.2 位置，独立路线^[extracted]|
-|[[juroku-fg]]（TSE PRIME 7380）|岐阜地方银行 FG（十六银行）|越过边界进入岐阜县和爱知县西北部|
-|[[san-jusan-fg]]（TSE PRIME 7322）|三重地方银行FG（三十三银行）|从三重县越过边境到爱知县南部|
-|[[ogaki-kyoritsu-bank]]（TSE PRIME 8361）|仅限岐阜地方银行|扩展到岐阜县和爱知县的一部分|
-|[[mufg]] / [[smfg]] / [[mizuho-fg]]|大型银行|大型银行在大企业贷款方面有优势，区域银行在中小企业贷款方面有优势。|
+|[[regional-banks/juroku-fg]]（TSE PRIME 7380）|岐阜地方银行 FG（十六银行）|越过边界进入岐阜县和爱知县西北部|
+|[[regional-banks/san-jusan-fg]]（TSE PRIME 7322）|三重地方银行FG（三十三银行）|从三重县越过边境到爱知县南部|
+|[[regional-banks/ogaki-kyoritsu-bank]]（TSE PRIME 8361）|仅限岐阜地方银行|扩展到岐阜县和爱知县的一部分|
+|[[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]]|大型银行|大型银行在大企业贷款方面有优势，区域银行在中小企业贷款方面有优势。|
 
 ### 中京经济区地方银行重组模式
 
@@ -96,8 +96,8 @@ translated_at: 2026-05-31T11:13:44.837Z
 - 阶段2（计划2025-01 ）：通过银行合并实现名实结合
 
 附近地区银行参考示例：
-- [[san-jusan-fg]]（2018  三重银行+大山银行合并 → 2021  三十三银行合并）= 爱知FG的前身型号
-- [[juroku-fg]]（2021  Juroku银行成为控股公司）
+- [[regional-banks/san-jusan-fg]]（2018  三重银行+大山银行合并 → 2021  三十三银行合并）= 爱知FG的前身型号
+- [[regional-banks/juroku-fg]]（2021  Juroku银行成为控股公司）
 
 ## 4. 规制・政策
 
@@ -108,9 +108,9 @@ translated_at: 2026-05-31T11:13:44.837Z
 
 ＃＃ 有关的
 
-- [[juroku-fg]] · [[san-jusan-fg]] · [[ogaki-kyoritsu-bank]] (中部地方银行附近)
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] （超级银行）
-- [[shizuoka-fg]] / [[juroku-fg]]（同期地区银行FG比较目标）
+- [[regional-banks/juroku-fg]] · [[regional-banks/san-jusan-fg]] · [[regional-banks/ogaki-kyoritsu-bank]] (中部地方银行附近)
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] （超级银行）
+- [[regional-banks/shizuoka-fg]] / [[regional-banks/juroku-fg]]（同期地区银行FG比较目标）
 
 ## 来源
 
@@ -122,4 +122,4 @@ translated_at: 2026-05-31T11:13:44.837Z
 ---
 
 > [!info] 校核状态
-> 置信度：**可能**（v1.1 公共源修正 2026-05-21）。 2025-01-01 删除了银行合并的预测表达式，并将当前运营公司边界分离为 [[aichi-bank|あいち銀行]]。持续确认最新披露/证券报告中的财务数据、门店数量等量化数据。
+> 置信度：**可能**（v1.1 公共源修正 2026-05-21）。 2025-01-01 删除了银行合并的预测表达式，并将当前运营公司边界分离为 [[regional-banks/aichi-bank|あいち銀行]]。持续确认最新披露/证券报告中的财务数据、门店数量等量化数据。

@@ -53,40 +53,38 @@
     "コアプラットフォーム戦略"
   ],
   "body_links": {
-    "wikilinks_count": 11,
+    "wikilinks_count": 10,
     "wikilinks": [
-      "aeon-bank",
       "banking/INDEX",
       "banking/mercari-bank-license-stack",
       "banking/minna-bank-baas-model",
-      "lawson-bank",
-      "mizuho-fg",
-      "mufg",
+      "card-issuers/aeon-bank",
+      "megabanks/mizuho-fg",
+      "megabanks/mufg",
+      "megabanks/smfg",
       "regional-banks/INDEX",
       "regional-banks/lawson-bank",
-      "retail/seven-and-i-hd",
-      "smfg"
+      "retail/seven-and-i-hd"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/aeon-bank",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/mercari-bank-license-stack",
       "https://finwiki.zksc.io/banking/minna-bank-baas-model",
-      "https://finwiki.zksc.io/lawson-bank",
-      "https://finwiki.zksc.io/mizuho-fg",
-      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/card-issuers/aeon-bank",
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/smfg",
       "https://finwiki.zksc.io/regional-banks/INDEX",
       "https://finwiki.zksc.io/regional-banks/lawson-bank",
-      "https://finwiki.zksc.io/retail/seven-and-i-hd",
-      "https://finwiki.zksc.io/smfg"
+      "https://finwiki.zksc.io/retail/seven-and-i-hd"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5369,
-    "word_like_tokens": 931,
+    "nonspace_chars": 5452,
+    "word_like_tokens": 941,
     "inbound_wikilinks_count": 23,
-    "last_modified": "2026-06-06"
+    "last_modified": "2026-06-08"
   }
 }

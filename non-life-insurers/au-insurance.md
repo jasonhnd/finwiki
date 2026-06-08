@@ -24,7 +24,7 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 
 ## TL;DR
 
-au損害保険株式会社は、[[au-fh]] and [[aioi-nissay-dowa-insurance]] adjacency を持つ direct / mobile-friendly non-life insurance operating company。金融庁の損害保険会社免許一覧に載り、KDDI / au ecosystem と MS&AD insurance capabilities の交差点にある。
+au損害保険株式会社は、[[megabanks/au-fh]] and [[non-life-insurers/aioi-nissay-dowa-insurance]] adjacency を持つ direct / mobile-friendly non-life insurance operating company。金融庁の損害保険会社免許一覧に載り、KDDI / au ecosystem と MS&AD insurance capabilities の交差点にある。
 
 ## 1. License / group boundary
 
@@ -34,7 +34,7 @@ au損害保険株式会社は、[[au-fh]] and [[aioi-nissay-dowa-insurance]] adj
 | English name | au Insurance Company, Limited |
 | License route | Insurance Business Act non-life insurance company; FSA non-life insurer list |
 | Protection scheme | Non-Life Insurance Policyholders Protection Corporation member |
-| Group boundary | [[au-fh]] + [[aioi-nissay-dowa-insurance]] shareholder / business adjacency |
+| Group boundary | [[megabanks/au-fh]] + [[non-life-insurers/aioi-nissay-dowa-insurance]] shareholder / business adjacency |
 
 ## 2. Operating model
 
@@ -43,14 +43,14 @@ au損保は、mobile carrier ecosystem, app / web distribution, travel / bicycle
 ## 3. Why this page matters
 
 - Adds KDDI / au non-life insurance operating-company boundary.
-- Useful for comparing telco-finance insurance with [[sony-insurance]], [[sbi-insurance]], and [[rakuten-general-insurance]].
+- Useful for comparing telco-finance insurance with [[non-life-insurers/sony-insurance]], [[non-life-insurers/sbi-insurance]], and [[non-life-insurers/rakuten-general-insurance]].
 - Registry-backed D4 direct / digital non-life page.
 
 ## Related
 
-- [[au-fh]]
-- [[aioi-nissay-dowa-insurance]]
-- [[lifenet]]
+- [[megabanks/au-fh]]
+- [[non-life-insurers/aioi-nissay-dowa-insurance]]
+- [[life-insurers/lifenet]]
 - [[insurance/INDEX]]
 - [[retail/INDEX]]
 

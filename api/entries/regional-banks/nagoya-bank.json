@@ -48,17 +48,13 @@
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 14,
+    "wikilinks_count": 10,
     "wikilinks": [
       "INDEX",
-      "aichi-bank",
-      "aichi-fg",
       "banking/INDEX",
       "banking/regional-bank-consolidation-pattern",
       "financial-regulators/fsa",
       "financial-regulators/zenginkyo",
-      "juroku-bank",
-      "ogaki-kyoritsu-bank",
       "regional-banks/INDEX",
       "regional-banks/aichi-bank",
       "regional-banks/aichi-fg",
@@ -67,14 +63,10 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/aichi-bank",
-      "https://finwiki.zksc.io/aichi-fg",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
       "https://finwiki.zksc.io/financial-regulators/fsa",
       "https://finwiki.zksc.io/financial-regulators/zenginkyo",
-      "https://finwiki.zksc.io/juroku-bank",
-      "https://finwiki.zksc.io/ogaki-kyoritsu-bank",
       "https://finwiki.zksc.io/regional-banks/INDEX",
       "https://finwiki.zksc.io/regional-banks/aichi-bank",
       "https://finwiki.zksc.io/regional-banks/aichi-fg",
@@ -85,9 +77,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2559,
-    "word_like_tokens": 371,
-    "inbound_wikilinks_count": 5,
-    "last_modified": "2026-06-05"
+    "nonspace_chars": 2619,
+    "word_like_tokens": 379,
+    "inbound_wikilinks_count": 7,
+    "last_modified": "2026-06-08"
   }
 }

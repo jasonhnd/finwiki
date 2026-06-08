@@ -15,7 +15,7 @@ translated_at: 2026-06-02T16:33:58.479Z
 
 ## 要約
 
-株式会社トマト銀行は、金融庁の銀行免許一覧に掲載される岡山県本店の第二地方銀行です。岡山県内では [[chugoku-bank]] の地域第二地銀の比較対象として扱います。
+株式会社トマト銀行は、金融庁の銀行免許一覧に掲載される岡山県本店の第二地方銀行です。岡山県内では [[regional-banks/chugoku-bank]] の地域第二地銀の比較対象として扱います。
 
 ## 1. ライセンス・グループ境界
 
@@ -29,19 +29,19 @@ translated_at: 2026-06-02T16:33:58.479Z
 
 ## 2. 事業モデル
 
-トマト銀行は、岡山県を中心に個人預金、中小企業金融、地域個人向け銀行サービス、地域リレーションサービスを担う第二地方銀行です。[[chugoku-bank]] が県内の第一地方銀行アンカーであるのに対し、トマト銀行は第二地方銀行の正式名称アンカーとして整理します。中国地方の地銀再編文脈は [[banking/regional-bank-consolidation-pattern]] を参照してください。
+トマト銀行は、岡山県を中心に個人預金、中小企業金融、地域個人向け銀行サービス、地域リレーションサービスを担う第二地方銀行です。[[regional-banks/chugoku-bank]] が県内の第一地方銀行アンカーであるのに対し、トマト銀行は第二地方銀行の正式名称アンカーとして整理します。中国地方の地銀再編文脈は [[banking/regional-bank-consolidation-pattern]] を参照してください。
 
 ## 3. このページが重要な理由
 
 - トマト銀行について、FSA 登録上の正式名称ページを閉じる。
 - 岡山県の第二地方銀行ルートを個別に追加する。
-- [[chugin-okayama]] / 中国銀行カバレッジにこの銀行が埋もれることを防ぐ。
+- [[regional-banks/chugin-okayama]] / 中国銀行カバレッジにこの銀行が埋もれることを防ぐ。
 
 ## 関連項目
 
-- [[chugoku-bank]]
-- [[chugin-okayama]]
-- [[tottori-bank]]
+- [[regional-banks/chugoku-bank]]
+- [[regional-banks/chugin-okayama]]
+- [[regional-banks/tottori-bank]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 

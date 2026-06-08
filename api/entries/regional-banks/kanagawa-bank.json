@@ -48,38 +48,34 @@
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 10,
+    "wikilinks_count": 8,
     "wikilinks": [
       "INDEX",
       "banking/INDEX",
       "banking/regional-bank-consolidation-pattern",
-      "concordia-fg",
       "financial-regulators/fsa",
       "financial-regulators/zenginkyo",
       "regional-banks/INDEX",
       "regional-banks/concordia-fg",
-      "regional-banks/yokohama-bank",
-      "yokohama-bank"
+      "regional-banks/yokohama-bank"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
-      "https://finwiki.zksc.io/concordia-fg",
       "https://finwiki.zksc.io/financial-regulators/fsa",
       "https://finwiki.zksc.io/financial-regulators/zenginkyo",
       "https://finwiki.zksc.io/regional-banks/INDEX",
       "https://finwiki.zksc.io/regional-banks/concordia-fg",
-      "https://finwiki.zksc.io/regional-banks/yokohama-bank",
-      "https://finwiki.zksc.io/yokohama-bank"
+      "https://finwiki.zksc.io/regional-banks/yokohama-bank"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2492,
-    "word_like_tokens": 353,
-    "inbound_wikilinks_count": 4,
-    "last_modified": "2026-06-05"
+    "nonspace_chars": 2522,
+    "word_like_tokens": 357,
+    "inbound_wikilinks_count": 5,
+    "last_modified": "2026-06-08"
   }
 }

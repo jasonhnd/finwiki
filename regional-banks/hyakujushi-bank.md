@@ -22,7 +22,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-香川県地盤の独立系地方銀行。**1878-12-23 第百十四国立銀行**として高松で創業、社名は旧国立銀行番号「114」由来。**持株会社化していない単独銀行**として東証 PRIME 上場 (8386)、香川県の指定金融機関を担う県内最大手行。県内では [[tomony-hd]] 傘下の [[kagawa-bank|香川銀行]] と二強体制、四国広域では [[iyogin-hd]] / [[iyo-bank|伊予銀行]] (愛媛)・[[awa-bank|阿波銀行]] (徳島)・[[shikoku-bank|四国銀行]] (高知) と競合する四国 4 大地銀の一角。2015 年 **TSUBASA アライアンス**準会員参加で千葉銀行系の広域ゆるやかな連携網に参画。^[extracted]
+香川県地盤の独立系地方銀行。**1878-12-23 第百十四国立銀行**として高松で創業、社名は旧国立銀行番号「114」由来。**持株会社化していない単独銀行**として東証 PRIME 上場 (8386)、香川県の指定金融機関を担う県内最大手行。県内では [[regional-banks/tomony-hd]] 傘下の [[regional-banks/kagawa-bank|香川銀行]] と二強体制、四国広域では [[regional-banks/iyogin-hd]] / [[regional-banks/iyo-bank|伊予銀行]] (愛媛)・[[regional-banks/awa-bank|阿波銀行]] (徳島)・[[regional-banks/shikoku-bank|四国銀行]] (高知) と競合する四国 4 大地銀の一角。2015 年 **TSUBASA アライアンス**準会員参加で千葉銀行系の広域ゆるやかな連携網に参画。^[extracted]
 
 ## 1. 会社概要
 
@@ -70,11 +70,11 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ### 地盤・競争構造
 
-- **県内競合**: [[tomony-hd]] 傘下の **[[kagawa-bank|香川銀行]]**との二強体制。香川銀行は徳島系トモニ HD 傘下の第二地銀で、住宅ローン・個人金融で激しい競合 ^[extracted]
+- **県内競合**: [[regional-banks/tomony-hd]] 傘下の **[[regional-banks/kagawa-bank|香川銀行]]**との二強体制。香川銀行は徳島系トモニ HD 傘下の第二地銀で、住宅ローン・個人金融で激しい競合 ^[extracted]
 - **四国広域競合**: 四国 4 大地銀の一角
-  - [[iyogin-hd]] / [[iyo-bank|伊予銀行]] (愛媛地盤、四国最大手)
-  - [[tomony-hd]] ([[tokushima-taisho-bank|徳島大正銀行]] + [[kagawa-bank|香川銀行]]、四国 + 大阪)
-  - [[shikoku-bank|四国銀行]] (高知地盤)
+  - [[regional-banks/iyogin-hd]] / [[regional-banks/iyo-bank|伊予銀行]] (愛媛地盤、四国最大手)
+  - [[regional-banks/tomony-hd]] ([[regional-banks/tokushima-taisho-bank|徳島大正銀行]] + [[regional-banks/kagawa-bank|香川銀行]]、四国 + 大阪)
+  - [[regional-banks/shikoku-bank|四国銀行]] (高知地盤)
   - 百十四銀行 (香川地盤)
 
 ### 産業特性
@@ -92,7 +92,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 ### 単独経営の戦略
 
 - 県内独立系として持株会社化や他行との経営統合に踏み切っていない ^[extracted]
-- 一方で四国の他地銀は [[iyogin-hd]] (2022 持株会社化)・[[tomony-hd]] (2010 統合) と再編進行 ^[extracted]
+- 一方で四国の他地銀は [[regional-banks/iyogin-hd]] (2022 持株会社化)・[[regional-banks/tomony-hd]] (2010 統合) と再編進行 ^[extracted]
 
 ## 4. 監督と政策
 
@@ -106,9 +106,9 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## Related
 
-- [[tomony-hd]] · [[kagawa-bank]] · [[iyogin-hd]] · [[iyo-bank]] · [[awa-bank]] · [[shikoku-bank]] — 四国地銀
-- [[chiba-bank]] — TSUBASA アライアンス主導行
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] — メガバンク（県内併存）
+- [[regional-banks/tomony-hd]] · [[regional-banks/kagawa-bank]] · [[regional-banks/iyogin-hd]] · [[regional-banks/iyo-bank]] · [[regional-banks/awa-bank]] · [[regional-banks/shikoku-bank]] — 四国地銀
+- [[regional-banks/chiba-bank]] — TSUBASA アライアンス主導行
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] — メガバンク（県内併存）
 
 ## Sources
 

@@ -16,7 +16,7 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it again
 
 ## TL;DR
 
-ITOCHU Corporation → FamilyMart 100% **Convenience store payment/point/finance subsidiary**. 2019-04-01 was established (previously known as FamilyMart Travel Co., Ltd.), and 2019-07-01 **FamiPay** (QR + barcode payment) was released. Based on a funds transfer agent license and no bank license. Convenience store app complete payment + BNPL (FamiPay next month payment) + Personal loan (FamiPay loan) + FamiPay card (formerly FamiMart T card). **T point linkage will be resolved from 2024-04  → Famipay Point will become independent** and we are converting to the "ITOCHU G-internal payment platform". The competitors are au PAY ([[au-fh]]) / PayPay ([[paypay-fg]]) / Rakuten Pay ([[rakuten-fg]]) / d Payment ([[ndfg]]).
+ITOCHU Corporation → FamilyMart 100% **Convenience store payment/point/finance subsidiary**. 2019-04-01 was established (previously known as FamilyMart Travel Co., Ltd.), and 2019-07-01 **FamiPay** (QR + barcode payment) was released. Based on a funds transfer agent license and no bank license. Convenience store app complete payment + BNPL (FamiPay next month payment) + Personal loan (FamiPay loan) + FamiPay card (formerly FamiMart T card). **T point linkage will be resolved from 2024-04  → Famipay Point will become independent** and we are converting to the "ITOCHU G-internal payment platform". The competitors are au PAY ([[megabanks/au-fh]]) / PayPay ([[megabanks/paypay-fg]]) / Rakuten Pay ([[payment-firms/rakuten-fg]]) / d Payment ([[megabanks/ndfg]]).
 
 ## 1. Company profile
 
@@ -77,10 +77,10 @@ Itochu Corporation (TSE PRIME 8001; trading company)
 
 |competition|economic zone|Convenience store partnership|
 |---|---|---|
-|**PayPay** ([[paypay-fg]])|Softbank G + Yahoo + LINE|Available at Lawson Seven and other stores|
-|**au PAY** ([[au-fh]])|KDDI Economic Zone + Lawson (KDDI parent company)|**Lawson main battlefield**|
-|**Rakuten Pay** ([[rakuten-fg]])|Rakuten Economic Zone|General purpose for all convenience stores|
-|**d payment** ([[ndfg]])|docomo economic zone + d points|General purpose for all convenience stores|
+|**PayPay** ([[megabanks/paypay-fg]])|Softbank G + Yahoo + LINE|Available at Lawson Seven and other stores|
+|**au PAY** ([[megabanks/au-fh]])|KDDI Economic Zone + Lawson (KDDI parent company)|**Lawson main battlefield**|
+|**Rakuten Pay** ([[payment-firms/rakuten-fg]])|Rakuten Economic Zone|General purpose for all convenience stores|
+|**d payment** ([[megabanks/ndfg]])|docomo economic zone + d points|General purpose for all convenience stores|
 |**nanaco/7iD** (Seven)|Seven & i HD|**Exclusively for Seven stores → Integrating into the 7iD app**|
 |**FamiPay**|ITOCHU Corporation / FamilyMart|**Family Mart main battlefield**|
 
@@ -113,8 +113,8 @@ Itochu Corporation (TSE PRIME 8001; trading company)
 
 ## Related
 
-- [[paypay-fg]] · [[au-fh]] · [[rakuten-fg]] · [[ndfg]]
-- [[mufg]] · [[smfg]] · [[mizuho-fg]]
+- [[megabanks/paypay-fg]] · [[megabanks/au-fh]] · [[payment-firms/rakuten-fg]] · [[megabanks/ndfg]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]
 
 ## Sources
 

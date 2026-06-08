@@ -26,11 +26,11 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 ## Counterpoints
 
 - 「白ラベル fintech の収益化限界」: プラットフォーマーの取り分は B2C ブランドより薄くなりやすい。スケールしないとフロー収益が伸びにくい構造。^[inferred]
-- 「[[JapanFG/freee|freee]] / [[JapanFG/money-forward|Money Forward]] / [[JapanFG/dg-financial-technology|DG Financial Technology]] との領域競合」: SaaS / 集金代行 / 決済代行 各社が embedded finance 領域に進出するにつれ、専業 white-label の差別化が問われる。^[inferred]
+- 「[[payment-firms/freee|freee]] / [[payment-firms/money-forward|Money Forward]] / [[payment-firms/dg-financial-technology|DG Financial Technology]] との領域競合」: SaaS / 集金代行 / 決済代行 各社が embedded finance 領域に進出するにつれ、専業 white-label の差別化が問われる。^[inferred]
 - 「公開情報の限定性」: 非上場企業ゆえ、案件数 / 収益 / 顧客名簿の開示が限定的で、規模把握が難しい。^[ambiguous]
 
 ## Open questions
 
 - 主要顧客（提携銀行・カード会社・流通）の名簿はどの程度公開されているか?
-- BNPL ([[JapanFG/atone|atone]] / [[JapanFG/paidy|Paidy]]) や ウォレット ([[JapanFG/merpay|メルペイ]]) のような直接プレイヤーとの提携領域 / 競合領域はどう線引きされているか?
+- BNPL ([[payment-firms/atone|atone]] / [[payment-firms/paidy|Paidy]]) や ウォレット ([[payment-firms/merpay|メルペイ]]) のような直接プレイヤーとの提携領域 / 競合領域はどう線引きされているか?
 - 海外 white-label fintech (Marqeta / Galileo / Stripe Issuing 等) の日本展開に対するポジショニングは?

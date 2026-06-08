@@ -15,7 +15,7 @@ translated_at: 2026-06-01T02:31:57.128Z
 
 ## 摘要
 
-スルガ銀行是以静冈县东部（沼津）为地盘的中坚地方银行。它**于 1895 年 作为根方银行创业，拥有 130  年历史**。1990 年 年代至 2010 年 年代，它曾以“个人贷款特化型地银的优等生”身份拥有高 ROE，但 **2018 年 面向共享住宅“Kabocha no Basha”的违规融资事件**使评价完全逆转。面向个人投资者的贷款超过 1 兆円，其中文件篡改和审查舞弊以组织形式进行，最终导致金融厅业务改善命令和经营层集体辞职。2020 年 以后，银行进入以**与 [[megabanks/au-fh|ノジマ]] 的资本业务合作**为轴的信赖恢复阶段。它与县内 No.1  的 [[shizuoka-fg]] 构成结构性竞争。^[extracted]
+スルガ銀行是以静冈县东部（沼津）为地盘的中坚地方银行。它**于 1895 年 作为根方银行创业，拥有 130  年历史**。1990 年 年代至 2010 年 年代，它曾以“个人贷款特化型地银的优等生”身份拥有高 ROE，但 **2018 年 面向共享住宅“Kabocha no Basha”的违规融资事件**使评价完全逆转。面向个人投资者的贷款超过 1 兆円，其中文件篡改和审查舞弊以组织形式进行，最终导致金融厅业务改善命令和经营层集体辞职。2020 年 以后，银行进入以**与 [[megabanks/au-fh|ノジマ]] 的资本业务合作**为轴的信赖恢复阶段。它与县内 No.1  的 [[regional-banks/shizuoka-fg]] 构成结构性竞争。^[extracted]
 
 ## 1. 公司概要
 
@@ -75,9 +75,9 @@ translated_at: 2026-06-01T02:31:57.128Z
 
 ### 竞争关系
 
-- **县内**：[[shizuoka-fg]] / [[shizuoka-bank]] 在全县范围为 No.1。[[shimizu-bank]] and [[shizuoka-chuo-bank]] 是另外的本地银行同业；スルガ偏重县东部。
-- **县外扩张**：在神奈川县西部和东京西部也有网点，直接与大型地银、大型银行和 [[concordia-fg]] 竞争。
-- **个人贷款残留**：在房地产贷款缩小阶段，年轻层流向 [[paypay-fg]] / [[au-fh]] / [[sony-fg]] 等网络银行。
+- **县内**：[[regional-banks/shizuoka-fg]] / [[regional-banks/shizuoka-bank]] 在全县范围为 No.1。[[regional-banks/shimizu-bank]] and [[regional-banks/shizuoka-chuo-bank]] 是另外的本地银行同业；スルガ偏重县东部。
+- **县外扩张**：在神奈川县西部和东京西部也有网点，直接与大型地银、大型银行和 [[regional-banks/concordia-fg]] 竞争。
+- **个人贷款残留**：在房地产贷款缩小阶段，年轻层流向 [[megabanks/paypay-fg]] / [[megabanks/au-fh]] / [[megabanks/sony-fg]] 等网络银行。
 
 ### 合作 / 收购战略
 
@@ -133,8 +133,8 @@ translated_at: 2026-06-01T02:31:57.128Z
 
 ## 相关
 
-- [[shizuoka-fg]] · [[concordia-fg]] · [[mufg]] · [[smfg]] · [[mizuho-fg]]
-- [[sbi-shinsei-bank]] · [[aozora-bank]]（旧个人贷款特化系）
+- [[regional-banks/shizuoka-fg]] · [[regional-banks/concordia-fg]] · [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]
+- [[regional-banks/sbi-shinsei-bank]] · [[regional-banks/aozora-bank]]（旧个人贷款特化系）
 
 ## 来源
 

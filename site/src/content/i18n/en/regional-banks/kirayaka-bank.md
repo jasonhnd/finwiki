@@ -16,7 +16,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-Kirayaka Bank, Ltd. is a second-tier regional bank headquartered in Yamagata Prefecture and listed on the FSA bank license list, and it is an operating bank under [[jimoto-hd]]. In the Yamagata market it competes with [[yamagata-bank]], and together with [[sendai-bank]] it forms the Jimoto group banking-license surface.
+Kirayaka Bank, Ltd. is a second-tier regional bank headquartered in Yamagata Prefecture and listed on the FSA bank license list, and it is an operating bank under [[regional-banks/jimoto-hd]]. In the Yamagata market it competes with [[regional-banks/yamagata-bank]], and together with [[regional-banks/sendai-bank]] it forms the Jimoto group banking-license surface.
 
 ## 1. License / Group Boundary
 
@@ -24,26 +24,26 @@ Kirayaka Bank, Ltd. is a second-tier regional bank headquartered in Yamagata Pre
 |---|---|
 | Legal name | Kirayaka Bank, Ltd. |
 | License route | Banking Act second regional bank; FSA bank license list |
-| Group boundary | [[jimoto-hd]] operating bank |
+| Group boundary | [[regional-banks/jimoto-hd]] operating bank |
 | Home market | Yamagata |
 | Wiki role | Yamagata second-regional-bank operating-company page |
 
 ## 2. Operating Model
 
-Kirayaka Bank is a second regional bank responsible for retail deposits, SME finance, business-support services, and local restructuring support in Yamagata Prefecture. The [[jimoto-hd]] page covers group-level public funds and shareholder structure; this page keeps the bank license and local branch footprint visible. For the Tohoku second-regional-bank consolidation context, see [[banking/regional-bank-consolidation-pattern]].
+Kirayaka Bank is a second regional bank responsible for retail deposits, SME finance, business-support services, and local restructuring support in Yamagata Prefecture. The [[regional-banks/jimoto-hd]] page covers group-level public funds and shareholder structure; this page keeps the bank license and local branch footprint visible. For the Tohoku second-regional-bank consolidation context, see [[banking/regional-bank-consolidation-pattern]].
 
 ## 3. Why This Page Matters
 
-- Closes a legal-name exact page that was previously only group-covered through [[jimoto-hd]].
-- Helps distinguish [[yamagata-bank]] first-regional-bank coverage from second-regional-bank coverage.
+- Closes a legal-name exact page that was previously only group-covered through [[regional-banks/jimoto-hd]].
+- Helps distinguish [[regional-banks/yamagata-bank]] first-regional-bank coverage from second-regional-bank coverage.
 - Provides a direct anchor for SBI / RCC / public-funds context without overloading the parent page.
 
 ## Related
 
-- [[jimoto-hd]]
-- [[sendai-bank]]
-- [[yamagata-bank]]
-- [[sbi-regional-bank-hd]]
+- [[regional-banks/jimoto-hd]]
+- [[regional-banks/sendai-bank]]
+- [[regional-banks/yamagata-bank]]
+- [[megabanks/sbi-regional-bank-hd]]
 
 ## Sources
 

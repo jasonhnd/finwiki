@@ -36,15 +36,15 @@ translated_at: 2026-06-02T15:14:17.127Z
 ## 3. この項目が存在する理由
 
 - 静岡中央銀行について、金融庁の第二地方銀行登録名に対応する不足を埋める。
-- [[shizuoka-bank]]、[[shimizu-bank]]、[[suruga-bank]] とは別のアンカーを追加する。
+- [[regional-banks/shizuoka-bank]]、[[regional-banks/shimizu-bank]]、[[regional-banks/suruga-bank]] とは別のアンカーを追加する。
 - 静岡 / 神奈川隣接地域の地域銀行カバレッジを整理しやすくする。
 
 ## 関連項目
 
-- [[shizuoka-bank]]
-- [[shimizu-bank]]
-- [[suruga-bank]]
-- [[kanagawa-bank]]
+- [[regional-banks/shizuoka-bank]]
+- [[regional-banks/shimizu-bank]]
+- [[regional-banks/suruga-bank]]
+- [[regional-banks/kanagawa-bank]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 

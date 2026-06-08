@@ -16,7 +16,7 @@ translated_at: 2026-06-01T03:31:12.280Z
 
 ## 长话短说
 
-瑞士苏黎世保险集团的日本基地。 **1986 年 日本分公司开业** 最早进入日本的外国非寿险公司之一。在日本，它凭借“**海外旅行保险**”和“**在线汽车保险（直接型）**”这 2  大主要产品获得了认可。在2010 年年，它成立了**苏黎世人寿**作为一家独立公司，并将业务领域扩展到医疗保险和癌症保险的线上直销。它具有以呼叫中心和网络为核心的**直销模式**这一一贯特征，不开设分支机构，与[[sony-fg]]的索尼保险公司、[[axa-japan]]的安盛财产保险公司、Secom Sompo保险公司和[[sbi-hd]]的SBI Sompo保险公司一起，是国内直接非寿险的主要参与者。
+瑞士苏黎世保险集团的日本基地。 **1986 年 日本分公司开业** 最早进入日本的外国非寿险公司之一。在日本，它凭借“**海外旅行保险**”和“**在线汽车保险（直接型）**”这 2  大主要产品获得了认可。在2010 年年，它成立了**苏黎世人寿**作为一家独立公司，并将业务领域扩展到医疗保险和癌症保险的线上直销。它具有以呼叫中心和网络为核心的**直销模式**这一一贯特征，不开设分支机构，与[[megabanks/sony-fg]]的索尼保险公司、[[life-insurers/axa-japan]]的安盛财产保险公司、Secom Sompo保险公司和[[megabanks/sbi-hd]]的SBI Sompo保险公司一起，是国内直接非寿险的主要参与者。
 
 ## 1。集团架构
 
@@ -69,8 +69,8 @@ Zurich Insurance Group AG（スイス、SIX: ZURN）
 
 ### 定位
 
-- **“不仅仅是直销”**：与完全在线销售的[[lifenet]]（Lifenet Life）不同，海外旅行保险是一种混合类型，也利用旅行社渠道。
-- **同时经营寿险和非寿险的外资**：[[axa-japan]]具有“寿险和非寿险+线上直销寿险”的 3  法人架构，也有销售人员渠道，而苏黎世**没有面对面的销售人员渠道，与直销模式一致**
+- **“不仅仅是直销”**：与完全在线销售的[[life-insurers/lifenet]]（Lifenet Life）不同，海外旅行保险是一种混合类型，也利用旅行社渠道。
+- **同时经营寿险和非寿险的外资**：[[life-insurers/axa-japan]]具有“寿险和非寿险+线上直销寿险”的 3  法人架构，也有销售人员渠道，而苏黎世**没有面对面的销售人员渠道，与直销模式一致**
 
 ### 全球杠杆
 
@@ -81,10 +81,10 @@ Zurich Insurance Group AG（スイス、SIX: ZURN）
 
 |冲突类型|主要冲突 |
 |---|---|
-|海外旅游保险 | [[tokio-marine]]系列、[[msad]]系列、[[sompo]]系列、JI意外火灾（比赛含信用卡险）|
-|网上车险（直营式）| Sony Assurance ([[sony-fg]]) / AXA Direct Assurance ([[axa-japan]]) / Secom Assurance / SBI Assurance ([[sbi-hd]]) / E-Design Assurance ([[tokio-marine]] 系列) |
-|网上直销人寿保险（医疗/癌症）| [[lifenet]] / ORIX Life / SBI Life / MetLife Life（医疗领域）|
-|外资人寿及非人寿保险（综合）| [[axa-japan]] / 大都会人寿 / 宏利人寿 / [[prudential-japan]] / Aflac 人寿 |
+|海外旅游保险 | [[non-life-insurers/tokio-marine]]系列、[[non-life-insurers/msad]]系列、[[non-life-insurers/sompo]]系列、JI意外火灾（比赛含信用卡险）|
+|网上车险（直营式）| Sony Assurance ([[megabanks/sony-fg]]) / AXA Direct Assurance ([[life-insurers/axa-japan]]) / Secom Assurance / SBI Assurance ([[megabanks/sbi-hd]]) / E-Design Assurance ([[non-life-insurers/tokio-marine]] 系列) |
+|网上直销人寿保险（医疗/癌症）| [[life-insurers/lifenet]] / ORIX Life / SBI Life / MetLife Life（医疗领域）|
+|外资人寿及非人寿保险（综合）| [[life-insurers/axa-japan]] / 大都会人寿 / 宏利人寿 / [[life-insurers/prudential-japan]] / Aflac 人寿 |
 
 ## 4。法规政策
 
@@ -98,9 +98,9 @@ Zurich Insurance Group AG（スイス、SIX: ZURN）
 
 ## 有关的
 
-- [[axa-japan]] · [[prudential-japan]] · [[lifenet]] · [[sony-fg]] （索尼保证）
-- [[tokio-marine]] · [[sompo]] · [[msad]] （国内非寿险3 大型/海外旅行保险竞争对手）
-- [[sbi-hd]]（SBI 财产保险公司）
+- [[life-insurers/axa-japan]] · [[life-insurers/prudential-japan]] · [[life-insurers/lifenet]] · [[megabanks/sony-fg]] （索尼保证）
+- [[non-life-insurers/tokio-marine]] · [[non-life-insurers/sompo]] · [[non-life-insurers/msad]] （国内非寿险3 大型/海外旅行保险竞争对手）
+- [[megabanks/sbi-hd]]（SBI 财产保险公司）
 
 ## 来源
 

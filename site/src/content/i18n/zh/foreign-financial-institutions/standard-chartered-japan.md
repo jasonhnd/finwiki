@@ -15,7 +15,7 @@ translated_at: 2026-06-01T02:31:57.110Z
 
 ## TL;DR
 
-这是英国 Standard Chartered PLC（总部伦敦，LSE: STAN / HKSE: 2888  / FTSE 100  成分股）的日本据点。由于**业务集中在亚洲、中东和非洲（AMEA）新兴市场**，其战略轴明显不同于 [[hsbc-japan]]、[[citigroup-japan]] 这类全球 universal bank。在日本，它拥有可追溯至 1880 年 年代的长期历史，但不开展零售业务，属于**法人专营**。其利基位置在于，为日本银行难以自建网点的新兴市场（南亚 / 东南亚 / 中东 / 非洲）提供 correspondent banking、transaction banking 和 trade finance 功能。^[extracted]
+这是英国 Standard Chartered PLC（总部伦敦，LSE: STAN / HKSE: 2888  / FTSE 100  成分股）的日本据点。由于**业务集中在亚洲、中东和非洲（AMEA）新兴市场**，其战略轴明显不同于 [[foreign-financial-institutions/hsbc-japan]]、[[foreign-financial-institutions/citigroup-japan]] 这类全球 universal bank。在日本，它拥有可追溯至 1880 年 年代的长期历史，但不开展零售业务，属于**法人专营**。其利基位置在于，为日本银行难以自建网点的新兴市场（南亚 / 东南亚 / 中东 / 非洲）提供 correspondent banking、transaction banking 和 trade finance 功能。^[extracted]
 
 ## 1. 公司概要
 
@@ -62,13 +62,13 @@ translated_at: 2026-06-01T02:31:57.110Z
 
 ### 母公司 PLC 的独特位置
 
-- 与其他大型外资银行（[[hsbc-japan]] 母 HSBC / [[citigroup-japan]] 母 Citigroup / JPMorgan / BNP Paribas）不同，其战略轴是“**专注亚洲、中东和非洲的全球银行**”^[extracted]。
+- 与其他大型外资银行（[[foreign-financial-institutions/hsbc-japan]] 母 HSBC / [[foreign-financial-institutions/citigroup-japan]] 母 Citigroup / JPMorgan / BNP Paribas）不同，其战略轴是“**专注亚洲、中东和非洲的全球银行**”^[extracted]。
 - 以旧大英帝国贸易网络（India / Hong Kong / Singapore / South Africa / UAE）为基础，拥有 170  年级别的当地存在。
 - 不在北美和西欧大陆开展零售扩张，而将资本和人才集中于 AMEA。
 
 ### 日本的竞争与分工
 
-- **竞争对手**: [[hsbc-japan]]（英国系、战略类似但 HSBC 更全球化）/ [[citigroup-japan]]（美国系，在日富裕层零售一部分）/ Deutsche Bank / BNP Paribas Tokyo / JPMorgan Tokyo 等外资法人银行。
+- **竞争对手**: [[foreign-financial-institutions/hsbc-japan]]（英国系、战略类似但 HSBC 更全球化）/ [[foreign-financial-institutions/citigroup-japan]]（美国系，在日富裕层零售一部分）/ Deutsche Bank / BNP Paribas Tokyo / JPMorgan Tokyo 等外资法人银行。
 - **差异化**: 集中 AMEA，尤其是**非洲和南亚存在感强于其他外资银行** ^[extracted]。
 - **与邦银的关系**: 不是竞争而是**互补**，向邦银提供基础设施。
 
@@ -78,9 +78,9 @@ translated_at: 2026-06-01T02:31:57.110Z
 
 ## Related
 
-- [[hsbc-japan]] · [[citigroup-japan]]（在日外资银行同业）
-- [[mufg]] · [[smfg]] · [[mizuho-fg]]（邦银 megabank、correspondent 交易对手）
-- [[ndfg]] · [[sbi-hd]]
+- [[foreign-financial-institutions/hsbc-japan]] · [[foreign-financial-institutions/citigroup-japan]]（在日外资银行同业）
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]（邦银 megabank、correspondent 交易对手）
+- [[megabanks/ndfg]] · [[megabanks/sbi-hd]]
 
 ## Sources
 

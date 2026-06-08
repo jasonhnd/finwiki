@@ -23,7 +23,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-群馬県前橋市に本店を置く**第二地方銀行**（東証 PRIME 8558）。**1917-11-01 群馬無尽株式会社**として創業、相互銀行転換（1951）を経て **1989 普通銀行転換に合わせて東和銀行 改称**。**持株会社化していない単独銀行体制**で、群馬県内では第 1 地銀 [[gunma-bank]] に次ぐ県内 No.2 ポジション。中小企業特化型営業基盤と **SUBARU 太田工場サプライチェーン金融**が法人ビジネスの中核。**2003 旧第一勧業銀行（現 [[mizuho-fg]]）系との戦略提携**で広域連携体制を構築。略称「とうわ」。^[extracted]
+群馬県前橋市に本店を置く**第二地方銀行**（東証 PRIME 8558）。**1917-11-01 群馬無尽株式会社**として創業、相互銀行転換（1951）を経て **1989 普通銀行転換に合わせて東和銀行 改称**。**持株会社化していない単独銀行体制**で、群馬県内では第 1 地銀 [[regional-banks/gunma-bank]] に次ぐ県内 No.2 ポジション。中小企業特化型営業基盤と **SUBARU 太田工場サプライチェーン金融**が法人ビジネスの中核。**2003 旧第一勧業銀行（現 [[megabanks/mizuho-fg]]）系との戦略提携**で広域連携体制を構築。略称「とうわ」。^[extracted]
 
 ## 1. 会社概要
 
@@ -38,11 +38,11 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ### 持株会社化していない論点
 
-群馬県内で競合する [[gunma-bank]]（第 1 地銀）も単独銀行体制を維持しており、群馬県の上場 2 行は共に **単独銀行 PRIME 上場**という珍しい構造 ^[extracted]。第二地銀全体としては **[[mebuki-fg]] / [[tomony-hd]] / [[fidea-hd]] / [[jimoto-hd]] / [[proclair-hd]]** 等で広域持株会社化が進む中、東和銀行は単独体制を維持。背景は:
+群馬県内で競合する [[regional-banks/gunma-bank]]（第 1 地銀）も単独銀行体制を維持しており、群馬県の上場 2 行は共に **単独銀行 PRIME 上場**という珍しい構造 ^[extracted]。第二地銀全体としては **[[regional-banks/mebuki-fg]] / [[regional-banks/tomony-hd]] / [[regional-banks/fidea-hd]] / [[regional-banks/jimoto-hd]] / [[regional-banks/proclair-hd]]** 等で広域持株会社化が進む中、東和銀行は単独体制を維持。背景は:
 
 - 県内集中・単一地盤で持株会社化の事業多角化メリット小
 - 関連会社（リース・保証等）は銀行直下子会社で管理可能
-- 旧第一勧業銀行系（現 [[mizuho-fg]]）との戦略提携で広域補完
+- 旧第一勧業銀行系（現 [[megabanks/mizuho-fg]]）との戦略提携で広域補完
 
 ### 関連事業・子会社 ^[likely]
 
@@ -66,7 +66,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 | 高度経済成長期 | 群馬県内・前橋・高崎・太田 営業基盤拡大、中小企業金融特化 |
 | **1989** | **普通銀行転換 + 東和銀行 改称**（相互銀行 → 第二地銀へ業態変更、平成元年第二地銀化の一斉転換組）|
 | 1990s | バブル崩壊後の地銀再編期も独立維持 |
-| **2003** | **旧第一勧業銀行系（現 [[mizuho-fg]]）戦略提携**（公的資金の前後関係を含む広域連携体制構築）^[extracted] |
+| **2003** | **旧第一勧業銀行系（現 [[megabanks/mizuho-fg]]）戦略提携**（公的資金の前後関係を含む広域連携体制構築）^[extracted] |
 | 2010s | 県内中小企業・SUBARU 関連サプライチェーン融資強化 |
 | 2022-04 | 東証市場区分見直し → 東証 PRIME 8558 継続 |
 | **2024** | **中期経営計画**（具体期間・名称・KPI 詳細は公表 IR を要参照）^[likely] |
@@ -88,9 +88,9 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 |---|---|
 | 県内中小企業法人 | 群馬県・前橋・高崎・太田・伊勢崎 等、中小企業特化が核 |
 | SUBARU サプライチェーン金融 | SUBARU 太田工場の部品サプライヤー融資、自動車関連製造業集中 |
-| 個人 | 県内住宅ローン・年金口座（[[gunma-bank]] に次ぐ県内 No.2 シェア）|
+| 個人 | 県内住宅ローン・年金口座（[[regional-banks/gunma-bank]] に次ぐ県内 No.2 シェア）|
 | 隣接県進出 | 埼玉県北部・栃木県西部・東京北部の一部 |
-| 銀証連携 | みずほ系証券との連携（[[mizuho-fg]] 戦略提携経由）|
+| 銀証連携 | みずほ系証券との連携（[[megabanks/mizuho-fg]] 戦略提携経由）|
 | カード・リース | 東和カードサービス / 東和リース 等 |
 
 ### 営業エリア地理
@@ -116,11 +116,11 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 | 競合 | 特徴 |
 |---|---|
-| **[[gunma-bank]] 群馬銀行** | 県内 No.1 第 1 地銀、PRIME 8334、単独銀行、東和銀行の最大競合 |
-| **[[mebuki-fg]] 足利銀行** | 栃木県地盤だが 群馬東部 で営業競合、めぶき FG 持株会社体制 |
+| **[[regional-banks/gunma-bank]] 群馬銀行** | 県内 No.1 第 1 地銀、PRIME 8334、単独銀行、東和銀行の最大競合 |
+| **[[regional-banks/mebuki-fg]] 足利銀行** | 栃木県地盤だが 群馬東部 で営業競合、めぶき FG 持株会社体制 |
 | **栃木銀行** | 栃木地盤の第二地銀、群馬東部で営業競合 |
 | **群馬みらいクレジット 等信金・信組** | 県内小口・地域密着で競合 |
-| **メガ 3 行** | 大口法人では [[mufg]] / [[smfg]] / [[mizuho-fg]] と競合（中堅以上）|
+| **メガ 3 行** | 大口法人では [[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]] と競合（中堅以上）|
 
 ### 中小企業金融の差別化
 
@@ -140,9 +140,9 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## Related
 
-- [[gunma-bank]] · [[mebuki-fg]] · [[mizuho-fg]] · [[tomony-hd]] · [[jimoto-hd]] · [[fidea-hd]]
-- メガ 3 行: [[mufg]] · [[smfg]] · [[mizuho-fg]]
-- 第二地銀比較: [[proclair-hd]] · [[fidea-hd]] · [[jimoto-hd]]
+- [[regional-banks/gunma-bank]] · [[regional-banks/mebuki-fg]] · [[megabanks/mizuho-fg]] · [[regional-banks/tomony-hd]] · [[regional-banks/jimoto-hd]] · [[regional-banks/fidea-hd]]
+- メガ 3 行: [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]
+- 第二地銀比較: [[regional-banks/proclair-hd]] · [[regional-banks/fidea-hd]] · [[regional-banks/jimoto-hd]]
 
 ## Sources
 
@@ -154,4 +154,4 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 ---
 
 > [!info] 検証状況
-> confidence: **likely**（v2.0 Wikipedia + 公開 IR 参照 2026-05-19）。創業（1917-11-01 群馬無尽）・改称沿革（1942 群馬殖産無尽 → 1951 群馬相互 → 1989 東和銀行）・上場（東証 PRIME 8558）・本店所在（前橋市）・第二地銀協加盟・[[mizuho-fg]] 系（旧第一勧銀）提携（2003）は公開情報ベース。中期経営計画 具体数値・子会社一覧・最新決算・株主構成は公式 IR を要参照。SUBARU 中小サプライヤー融資集中度は構造的特性として推定（公的開示なし）。
+> confidence: **likely**（v2.0 Wikipedia + 公開 IR 参照 2026-05-19）。創業（1917-11-01 群馬無尽）・改称沿革（1942 群馬殖産無尽 → 1951 群馬相互 → 1989 東和銀行）・上場（東証 PRIME 8558）・本店所在（前橋市）・第二地銀協加盟・[[megabanks/mizuho-fg]] 系（旧第一勧銀）提携（2003）は公開情報ベース。中期経営計画 具体数値・子会社一覧・最新決算・株主構成は公式 IR を要参照。SUBARU 中小サプライヤー融資集中度は構造的特性として推定（公的開示なし）。

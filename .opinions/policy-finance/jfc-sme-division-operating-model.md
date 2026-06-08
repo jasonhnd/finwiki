@@ -23,5 +23,5 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 - What share of the 2020–2022 Covid 特別貸付 vintage ultimately defaults or restructures, and how is loss absorbed between JFC retained earnings, 利子補給 reserves, and supplementary-budget transfers.
 - Whether the GX / DX 特別貸付 sub-programs will graduate from supplementary-budget-funded campaigns to a permanent baseline product set.
 - How the 経営者保証 elimination push interacts with default-recovery performance on direct-loan books over the next credit cycle.
-- The right institutional boundary between JFC SME, [[JapanFG/shoko-chukin|Shoko Chukin]], and [[JapanFG/dbj|DBJ]] mid-cap finance — whether the post-Koizumi-era structure persists, or whether further consolidation is on the table.
-- How JFC SME's overseas-expansion product set will evolve relative to the [[JapanFG/jbic|JBIC]] perimeter as friend-shoring policy intensifies.
+- The right institutional boundary between JFC SME, [[financial-regulators/shoko-chukin|Shoko Chukin]], and [[financial-regulators/dbj|DBJ]] mid-cap finance — whether the post-Koizumi-era structure persists, or whether further consolidation is on the table.
+- How JFC SME's overseas-expansion product set will evolve relative to the [[financial-regulators/jbic|JBIC]] perimeter as friend-shoring policy intensifies.

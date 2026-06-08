@@ -93,7 +93,7 @@ Ethereum / Polygon / Avalanche / Cosmos
 - 适用于任何"区块链 + 现有银行工作流"整合讨论
 - 解读 SWIFT 改革（ISO 20022  / GPI / GPI for Corporates）与 SC 的关系
 - 亚洲发起的跨境 SC 设计讨论（韩国 KRW1  · 泰国 Project Inthanon · 新加坡 Project Ubin）
-- 结合 [[cosmos-ibc-for-financial-institutions|Cosmos IBC for FI]] 进行多链 SC 转移设计
+- 结合 [[fintech/cosmos-ibc-for-financial-institutions|Cosmos IBC for FI]] 进行多链 SC 转移设计
 
 ---
 

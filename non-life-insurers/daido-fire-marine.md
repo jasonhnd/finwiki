@@ -21,7 +21,7 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 
 ## TL;DR
 
-**沖縄県唯一の地場損害保険会社**。1951-04 米軍政下の沖縄で「沖縄海上火災保険」として設立、戦後沖縄で日本籍の損保会社として唯一の存在。1972 年沖縄本土復帰により日本国内損保扱いに、1985 年現社名「大同火災海上保険」へ改称。2000 年代以降、損保ジャパン（現 [[sompo]]）との業務提携を通じて全国網カバー。**沖縄県内損保シェア No.1**、観光保険（旅行傷害・レンタカー・民宿賠償）と台風・離島再保険スキームに特化。大手 3 損保（[[tokio-marine]] / [[msad]] / [[sompo]]）の沖縄拠点との競合下で地場優位を維持。非上場。^[extracted]
+**沖縄県唯一の地場損害保険会社**。1951-04 米軍政下の沖縄で「沖縄海上火災保険」として設立、戦後沖縄で日本籍の損保会社として唯一の存在。1972 年沖縄本土復帰により日本国内損保扱いに、1985 年現社名「大同火災海上保険」へ改称。2000 年代以降、損保ジャパン（現 [[non-life-insurers/sompo]]）との業務提携を通じて全国網カバー。**沖縄県内損保シェア No.1**、観光保険（旅行傷害・レンタカー・民宿賠償）と台風・離島再保険スキームに特化。大手 3 損保（[[non-life-insurers/tokio-marine]] / [[non-life-insurers/msad]] / [[non-life-insurers/sompo]]）の沖縄拠点との競合下で地場優位を維持。非上場。^[extracted]
 
 ## 1. 会社概要
 
@@ -43,7 +43,7 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
   │     └── 県内代理店網（自動車ディーラー・不動産・地場金融）
   ├── 本土拠点（東京・大阪・福岡）
   │     └── 沖縄関連法人・観光客向け接点
-  └── 損保ジャパン（[[sompo]]）業務提携
+  └── 損保ジャパン（[[non-life-insurers/sompo]]）業務提携
         └── 全国網・再保険・商品ライセンス
 ```
 
@@ -58,7 +58,7 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 | 1970 年代後半 | 観光ブーム → 旅行傷害・レンタカー保険拡充 |
 | **1985** | **大同火災海上保険 改称**（業務範囲拡大反映）|
 | 1990 年代 | 大手損保の沖縄進出本格化 → 地場ブランド強化 |
-| **2000 年代** | **損保ジャパン（[[sompo]]）との業務提携**（商品・再保険・全国網連携）|
+| **2000 年代** | **損保ジャパン（[[non-life-insurers/sompo]]）との業務提携**（商品・再保険・全国網連携）|
 | 2010 年代 | 台風再保険スキーム高度化、離島カバー継続 |
 | 2010 年代 | サイバー保険・小規模事業者賠償の地場特化商品 |
 
@@ -85,9 +85,9 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 
 | 競合 | 沖縄での立ち位置 |
 |---|---|
-| [[tokio-marine]]（東京海上日動）| 全国大手・法人向け強い・大規模リスク |
-| [[msad]]（MS&AD）| あいおいニッセイ同和等で県内展開 |
-| [[sompo]]（損保ジャパン）| **大同火災と業務提携** → 競合ではなく補完関係 |
+| [[non-life-insurers/tokio-marine]]（東京海上日動）| 全国大手・法人向け強い・大規模リスク |
+| [[non-life-insurers/msad]]（MS&AD）| あいおいニッセイ同和等で県内展開 |
+| [[non-life-insurers/sompo]]（損保ジャパン）| **大同火災と業務提携** → 競合ではなく補完関係 |
 
 ### 災害リスク管理
 
@@ -120,9 +120,9 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 
 ## Related
 
-- [[sompo]]（業務提携先・大手 3 損保の 1 角）
-- [[tokio-marine]]（競合・大手 3 損保）
-- [[msad]]（競合・大手 3 損保）
+- [[non-life-insurers/sompo]]（業務提携先・大手 3 損保の 1 角）
+- [[non-life-insurers/tokio-marine]]（競合・大手 3 損保）
+- [[non-life-insurers/msad]]（競合・大手 3 損保）
 - 沖縄県内地銀（沖縄銀行・琉球銀行・沖縄海邦銀行）
 - [[insurance/natcat-reinsurance-japan]]（台風再保険スキーム、該当 wiki があれば）
 

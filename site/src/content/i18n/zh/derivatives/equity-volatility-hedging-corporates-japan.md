@@ -94,7 +94,7 @@ OTC 交易商通过**交易商的 [[derivatives/dealer-bank-derivatives-revenue-
 - 部分企业希望通过买入与 ESO 负债同向变动的对冲性期权来**锁定薪酬费用曲线**，平滑盈利波动；
 - 部分企业希望在预期的 ESO 行使**之前提前购入股票**，通过远期股票购入计划或带衍生品叠加的回购结构；
 - 对向大量员工发行 ESO 的上市集团而言，**合计名义本金**可能很可观 —— 尤其在超大市值科技、金融和消费类公司；
-- ESO 挂钩结构可嵌入**员工信托**载体，由信托对手方（例如一家 [[JapanFG/japan-master-trust-and-custody-bank-landscape|trust bank]]）持有底层股票，企业支付费用。
+- ESO 挂钩结构可嵌入**员工信托**载体，由信托对手方（例如一家 [[banking/japan-master-trust-and-custody-bank-landscape|trust bank]]）持有底层股票，企业支付费用。
 
 ### 工具集
 

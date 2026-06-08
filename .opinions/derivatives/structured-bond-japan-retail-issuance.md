@@ -24,6 +24,6 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 - Will retail structured-bond sales rebound as JSDA / FSA disclosure templates mature?
 - Will online brokerages (Rakuten Securities, SBI Securities, Monex) develop simplified structured-product offerings with better disclosure?
 - How will FSA scrutiny extend to FX margin, leveraged ETFs, and other complex retail products?
-- Will the megabank-affiliated securities firms ([[JapanFG/smbc-nikko|SMBC Nikko]], Mizuho Securities, MUMSS) restructure their retail wealth-management product mix away from structured products?
+- Will the megabank-affiliated securities firms ([[securities-firms/smbc-nikko|SMBC Nikko]], Mizuho Securities, MUMSS) restructure their retail wealth-management product mix away from structured products?
 - How will institutional structured-bond demand evolve under rising-rate / normalized BOJ policy?
 - Will the [[derivatives/structured-product-eb-knockin-japan-retail|EB knock-in product]] specifically return to mass distribution under tighter suitability rules?

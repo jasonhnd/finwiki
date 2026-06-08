@@ -32,8 +32,8 @@ translated_at: 2026-06-01T02:31:57.147Z
 
 | 公司名 | 简称 | 创业 | 特征 |
 |---|---|---|---|
-| [[central-tanshi]] | Central Tanshi | 1909 | 旧山根短资 + 上田短资系统，被认为是行业最大型 |
-| [[ueda-yagi-tanshi]] | Ueda Yagi Tanshi | 1956（合并） | 旧上田短资 + 八木短资合并，关西系资本 |
+| [[financial-regulators/central-tanshi]] | Central Tanshi | 1909 | 旧山根短资 + 上田短资系统，被认为是行业最大型 |
+| [[financial-regulators/ueda-yagi-tanshi]] | Ueda Yagi Tanshi | 1956（合并） | 旧上田短资 + 八木短资合并，关西系资本 |
 | **东京短资** | TT | **1908-09** | **最老牌，强化法人 FX 经纪** |
 
 ## 2. 业务板块地图
@@ -76,8 +76,8 @@ translated_at: 2026-06-01T02:31:57.147Z
 
 ## Related
 
-- [[central-tanshi]] · [[ueda-yagi-tanshi]] — 3  大短资中的其他 2 社
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] — 主要客户（大型银行）
+- [[financial-regulators/central-tanshi]] · [[financial-regulators/ueda-yagi-tanshi]] — 3  大短资中的其他 2 社
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] — 主要客户（大型银行）
 - [[financial-regulators/boj-monetary-policy]] — 与日本银行政策利率和 call 市场的关系
 - [[money-market/call-market-structure]] — call 市场制度
 

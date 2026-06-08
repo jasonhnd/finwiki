@@ -16,7 +16,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## 推論 (from 海外 2 軸プラットフォーム)
 
-- 日本生命（インドネシア・米国）・第一生命（Protective Life）・明治安田生命（[[meiji-yasuda]]、StanCorp）と同様、**大手 4 生保 海外 M&A 時代**の文脈 ^[inferred]
+- 日本生命（インドネシア・米国）・第一生命（Protective Life）・明治安田生命（[[life-insurers/meiji-yasuda]]、StanCorp）と同様、**大手 4 生保 海外 M&A 時代**の文脈 ^[inferred]
 
 ## 推論 (from 関西発の強み)
 

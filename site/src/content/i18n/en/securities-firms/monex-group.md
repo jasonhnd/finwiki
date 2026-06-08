@@ -15,7 +15,7 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it
 
 ## TL;DR
 
-Monex Group is a TSE Prime listed holding company, ticker 8698, that bundles a major Japanese online securities firm, crypto assets through Coincheck, and the U.S. online broker TradeStation into a **global financial platform for individual investors**. Founded in 1999-05-19 as the former Monex Securities through joint investment by Sony and Oki Matsumoto, it is still led by founder **Oki Matsumoto**, a former Goldman Sachs partner and current chairman and CEO. Its defining feature is a 3 -axis structure: domestic securities, the U.S. business, and crypto assets. This is a "retail-investor platform specialization" model that contrasts with megabank-style comprehensive finance. In 2024 年, NTT Docomo announced investment in and consolidation of Monex Group; Monex Securities is expected to be positioned as the securities core business of [[ndfg]], the Docomo-affiliated financial group, with public reorganization scheduled for 2026 年.
+Monex Group is a TSE Prime listed holding company, ticker 8698, that bundles a major Japanese online securities firm, crypto assets through Coincheck, and the U.S. online broker TradeStation into a **global financial platform for individual investors**. Founded in 1999-05-19 as the former Monex Securities through joint investment by Sony and Oki Matsumoto, it is still led by founder **Oki Matsumoto**, a former Goldman Sachs partner and current chairman and CEO. Its defining feature is a 3 -axis structure: domestic securities, the U.S. business, and crypto assets. This is a "retail-investor platform specialization" model that contrasts with megabank-style comprehensive finance. In 2024 年, NTT Docomo announced investment in and consolidation of Monex Group; Monex Securities is expected to be positioned as the securities core business of [[megabanks/ndfg]], the Docomo-affiliated financial group, with public reorganization scheduled for 2026 年.
 
 ## 1. Company overview
 
@@ -58,7 +58,7 @@ Monex Group (listed holding company, 8698)
 | **2018-04** | **Coincheck became a wholly owned subsidiary** for about 36 億円, a rescue acquisition after the NEM outflow incident. |
 | Early 2020 年s | Coincheck pursued a U.S. SPAC listing plan through a merger with Thunder Bridge Capital, later withdrawn. |
 | **2024** | **NTT Docomo announced investment in and consolidation of Monex Group**; concrete conditions vary by timing. |
-| 2026 (planned) | **Monex Securities is scheduled to be disclosed as reorganized into the securities core business of the Docomo-affiliated financial group [[ndfg]]**, based on public announcements. |
+| 2026 (planned) | **Monex Securities is scheduled to be disclosed as reorganized into the securities core business of the Docomo-affiliated financial group [[megabanks/ndfg]]**, based on public announcements. |
 
 > Note: This chronology is based on public materials such as Wikipedia, IR, and press releases. Concrete shareholding ratios and integration scheme conditions change by timing, so latest values should be checked in IR disclosures.
 
@@ -72,7 +72,7 @@ Monex Group (listed holding company, 8698)
 | Overseas, Australia | Monex Securities Australia | Limited regional expansion. |
 | Asset management | Monex Asset Management | Investment-trust and robo-adviser related business. |
 | Venture investment | Monex Ventures | Fintech / crypto-asset related CVC. |
-| Telecom-finance alliance | NTT Docomo-affiliated finance, related to [[ndfg]] and public plans | Integration with the d economic sphere, based on 2024 年 announcements. |
+| Telecom-finance alliance | NTT Docomo-affiliated finance, related to [[megabanks/ndfg]] and public plans | Integration with the d economic sphere, based on 2024 年 announcements. |
 
 ### 3 -axis structure (official Monex Group concept)
 
@@ -82,7 +82,7 @@ The strategy repeatedly described in public materials is a **global personal-inv
 - **United States**: TradeStation, for U.S. active traders.
 - **Crypto assets**: Coincheck, domestic exchange.
 
-The 3  axes cover different geographies and asset classes and are designed to respond horizontally to the full range of personal-investor needs. In contrast with megabank groups such as [[mufg]] / [[smfg]] / [[mizuho-fg]], whose model combines banking, trust, securities, and overseas operations, Monex narrows its segments around **personal-investor platform specialization**.
+The 3  axes cover different geographies and asset classes and are designed to respond horizontally to the full range of personal-investor needs. In contrast with megabank groups such as [[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]], whose model combines banking, trust, securities, and overseas operations, Monex narrows its segments around **personal-investor platform specialization**.
 
 ### NTT Docomo alliance (announced 2024 年)
 
@@ -120,7 +120,7 @@ Concrete integration schemes and capital ratios change by timing, so this page r
 
 ## Related
 
-- [[ndfg]] · [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[sbi-hd]] · [[paypay-fg]]
+- [[megabanks/ndfg]] · [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[megabanks/sbi-hd]] · [[megabanks/paypay-fg]]
 
 ## Sources
 

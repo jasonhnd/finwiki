@@ -15,7 +15,7 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 
 ## TL;DR
 
-Meiji Yasuda Trust Life Insurance Co., Ltd. is a life-insurance operating company in the [[meiji-yasuda]] group and appears on the FSA life-insurer list. Because it has a name-change / group-transfer boundary from the former AEON Allianz Life Insurance, it is kept as a standalone page.
+Meiji Yasuda Trust Life Insurance Co., Ltd. is a life-insurance operating company in the [[life-insurers/meiji-yasuda]] group and appears on the FSA life-insurer list. Because it has a name-change / group-transfer boundary from the former AEON Allianz Life Insurance, it is kept as a standalone page.
 
 ## 1. License / Group Boundary
 
@@ -25,18 +25,18 @@ Meiji Yasuda Trust Life Insurance Co., Ltd. is a life-insurance operating compan
 | Former name | AEON Allianz Life Insurance Co., Ltd. |
 | License route | Insurance Business Act life-insurance company; FSA life insurer list |
 | Industry body | Life Insurance Association of Japan member |
-| Group boundary | [[meiji-yasuda]] group |
+| Group boundary | [[life-insurers/meiji-yasuda]] group |
 
 ## 2. Why This Page Matters
 
 - Closes an FSA 41  exact-name gap.
 - Captures the 2025-2026  name-change / group-boundary movement.
-- Complements [[meiji-yasuda]] and [[meiji-yasuda-general-insurance]].
+- Complements [[life-insurers/meiji-yasuda]] and [[non-life-insurers/meiji-yasuda-general-insurance]].
 
 ## Related
 
-- [[meiji-yasuda]]
-- [[meiji-yasuda-general-insurance]]
+- [[life-insurers/meiji-yasuda]]
+- [[non-life-insurers/meiji-yasuda-general-insurance]]
 - [[insurance/life-insurance-channel-mix]]
 - [[insurance/INDEX]]
 

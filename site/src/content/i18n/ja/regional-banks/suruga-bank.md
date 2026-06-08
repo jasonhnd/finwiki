@@ -15,7 +15,7 @@ translated_at: 2026-06-02T15:14:17.154Z
 
 ## 要約
 
-静岡県東部（沼津）地盤の中堅地銀。**1895 年根方銀行として創業、130 年の歴史**。1990 年代～2010 年代は「個人ローン特化型地銀の優等生」として高 ROE を誇ったが、**2018 年シェアハウス『かぼちゃの馬車』向け不正融資事件**で評価が一変。1 兆円超の個人投資家向け融資で書類改竄・審査不正が組織的に行われ、金融庁業務改善命令・経営陣総辞任に至った。2020 年以降は **[[megabanks/au-fh|ノジマ]] との資本業務提携**を軸に信頼回復フェーズ。県内 No.1 の [[shizuoka-fg]] とは構造的に競合。^[extracted]
+静岡県東部（沼津）地盤の中堅地銀。**1895 年根方銀行として創業、130 年の歴史**。1990 年代～2010 年代は「個人ローン特化型地銀の優等生」として高 ROE を誇ったが、**2018 年シェアハウス『かぼちゃの馬車』向け不正融資事件**で評価が一変。1 兆円超の個人投資家向け融資で書類改竄・審査不正が組織的に行われ、金融庁業務改善命令・経営陣総辞任に至った。2020 年以降は **[[megabanks/au-fh|ノジマ]] との資本業務提携**を軸に信頼回復フェーズ。県内 No.1 の [[regional-banks/shizuoka-fg]] とは構造的に競合。^[extracted]
 
 ## 1. 会社概要
 
@@ -75,9 +75,9 @@ translated_at: 2026-06-02T15:14:17.154Z
 
 ### 競合関係
 
-- **県内**: [[shizuoka-fg]] / [[shizuoka-bank]] が県全域 No.1。[[shimizu-bank]] と [[shizuoka-chuo-bank]] は別の地元銀行の比較対象; スルガは県東部に偏在
-- **県外進出**: 神奈川県西部・東京西部にも店舗 → 大手地銀・メガバンク・[[concordia-fg]] と直接競合
-- **個人ローン残滓**: 不動産向け融資の縮小局面で、[[paypay-fg]] / [[au-fh]] / [[sony-fg]] 等ネット銀行に若年層流出
+- **県内**: [[regional-banks/shizuoka-fg]] / [[regional-banks/shizuoka-bank]] が県全域 No.1。[[regional-banks/shimizu-bank]] と [[regional-banks/shizuoka-chuo-bank]] は別の地元銀行の比較対象; スルガは県東部に偏在
+- **県外進出**: 神奈川県西部・東京西部にも店舗 → 大手地銀・メガバンク・[[regional-banks/concordia-fg]] と直接競合
+- **個人ローン残滓**: 不動産向け融資の縮小局面で、[[megabanks/paypay-fg]] / [[megabanks/au-fh]] / [[megabanks/sony-fg]] 等ネット銀行に若年層流出
 
 ### 提携・買収戦略
 
@@ -133,8 +133,8 @@ translated_at: 2026-06-02T15:14:17.154Z
 
 ## 関連項目
 
-- [[shizuoka-fg]] · [[concordia-fg]] · [[mufg]] · [[smfg]] · [[mizuho-fg]]
-- [[sbi-shinsei-bank]] · [[aozora-bank]]（旧個人ローン特化系）
+- [[regional-banks/shizuoka-fg]] · [[regional-banks/concordia-fg]] · [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]
+- [[regional-banks/sbi-shinsei-bank]] · [[regional-banks/aozora-bank]]（旧個人ローン特化系）
 
 ## 出典
 

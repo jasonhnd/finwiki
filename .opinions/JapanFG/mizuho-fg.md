@@ -20,11 +20,11 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## 推論 (from 海外戦略)
 
-- **vs [[mufg]] / [[smfg]]**: アジアの commercial bank 大型買収（Krungsri / Bank Danamon / SBI Sumishin Net 等）は持たず、自前拠点 + IBD 強化路線 ^[inferred]
+- **vs [[megabanks/mufg]] / [[megabanks/smfg]]**: アジアの commercial bank 大型買収（Krungsri / Bank Danamon / SBI Sumishin Net 等）は持たず、自前拠点 + IBD 強化路線 ^[inferred]
 
 ## 推論 (from B2C ブランディング)
 
-- **大型スポーツ命名権 / スタジアム命名権**: [[mufg]] のような目立つ B2C ブランディングは限定的 ^[inferred]
+- **大型スポーツ命名権 / スタジアム命名権**: [[megabanks/mufg]] のような目立つ B2C ブランディングは限定的 ^[inferred]
 - **楽天証券連携**: 楽天経済圏との接続が事実上の B2C 戦略 ^[inferred]
 
 ## 推論 (from 4. 規制・政策)
@@ -34,10 +34,10 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 ## Counterpoints
 
 - 「3 行統合疲労」観: 旧 DKB / 富士 / 興銀 のカルチャー統合が 20 年超でも未完。**システム障害連発（2002 / 2011 / 2021）はその構造的帰結**との指摘 ^[inferred]
-- 「自前リテール弱・パートナー依存」観: [[smfg]] の Olive / SBI / [[mufg]] の自前 eスマート証券に対し、楽天証券・PayPay 銀との連携が中核 → 楽天・SoftBank 経済圏の戦略変更リスクに連動 ^[inferred]
+- 「自前リテール弱・パートナー依存」観: [[megabanks/smfg]] の Olive / SBI / [[megabanks/mufg]] の自前 eスマート証券に対し、楽天証券・PayPay 銀との連携が中核 → 楽天・SoftBank 経済圏の戦略変更リスクに連動 ^[inferred]
 - 「Greenhill 買収の ROI」: 5.5 億ドル投資の回収可能性は M&A サイクル依存 ^[ambiguous]
 - 「MINORI システム再投資」: 4500 億円投資後も 2021 年に連発障害 → 大型 IT 投資の効果検証論争 ^[extracted]
-- 「アジア commercial bank 不在」: [[mufg]] Krungsri / Bank Danamon、[[smfg]] BTPN 等のような大型アジア銀行子会社を持たず、海外 retail エクスポージャー限定 ^[inferred]
+- 「アジア commercial bank 不在」: [[megabanks/mufg]] Krungsri / Bank Danamon、[[megabanks/smfg]] BTPN 等のような大型アジア銀行子会社を持たず、海外 retail エクスポージャー限定 ^[inferred]
 
 ## Open questions
 

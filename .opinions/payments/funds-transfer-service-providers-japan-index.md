@@ -14,4 +14,4 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 - Which long-tail remittance operators remains registry-only versus receive regional / cross-border payment pages?
 - How type I / type II / type III service-type distinctions be exposed without duplicating the FSA register?
-- Should the new NTT docomo financial group row be kept on [[JapanFG/ndfg]] or split into an operating-company page after the group launch stabilizes?
+- Should the new NTT docomo financial group row be kept on [[megabanks/ndfg]] or split into an operating-company page after the group launch stabilizes?

@@ -49,34 +49,32 @@
     "グローバル展開"
   ],
   "body_links": {
-    "wikilinks_count": 8,
+    "wikilinks_count": 7,
     "wikilinks": [
       "banking/INDEX",
-      "fuyo-lease",
       "leasing-firms/INDEX",
+      "leasing-firms/fuyo-lease",
       "leasing-firms/orix-corp",
-      "mizuho-fg",
-      "mufg",
-      "orix-corp",
-      "smfg"
+      "megabanks/mizuho-fg",
+      "megabanks/mufg",
+      "megabanks/smfg"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/fuyo-lease",
       "https://finwiki.zksc.io/leasing-firms/INDEX",
+      "https://finwiki.zksc.io/leasing-firms/fuyo-lease",
       "https://finwiki.zksc.io/leasing-firms/orix-corp",
-      "https://finwiki.zksc.io/mizuho-fg",
-      "https://finwiki.zksc.io/mufg",
-      "https://finwiki.zksc.io/orix-corp",
-      "https://finwiki.zksc.io/smfg"
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/smfg"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3569,
-    "word_like_tokens": 597,
-    "inbound_wikilinks_count": 39,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 3743,
+    "word_like_tokens": 618,
+    "inbound_wikilinks_count": 46,
+    "last_modified": "2026-06-08"
   }
 }

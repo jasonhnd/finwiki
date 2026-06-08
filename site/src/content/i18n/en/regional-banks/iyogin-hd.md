@@ -16,7 +16,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-Iyogin Holdings is one of Shikoku's largest regional banking groups, anchored in Ehime Prefecture. It became a holding company on 2022-10-03 through a sole-share-transfer by Iyo Bank and is listed on TSE PRIME 5830. Its core subsidiary, **[[iyo-bank|Iyo Bank]]**, was founded in 1878 in Matsuyama as the Twenty-Ninth National Bank and is among Shikoku's oldest banks, with the leading share in Ehime. A defining portfolio feature is lending to the maritime and shipbuilding cluster centered on Imabari Shipbuilding. Across Shikoku, it competes with [[tomony-hd]] in Tokushima / Kagawa, [[hyakujushi-bank|Hyakujushi Bank]] in Kagawa, and [[shikoku-bank|Shikoku Bank]] in Kochi.
+Iyogin Holdings is one of Shikoku's largest regional banking groups, anchored in Ehime Prefecture. It became a holding company on 2022-10-03 through a sole-share-transfer by Iyo Bank and is listed on TSE PRIME 5830. Its core subsidiary, **[[regional-banks/iyo-bank|Iyo Bank]]**, was founded in 1878 in Matsuyama as the Twenty-Ninth National Bank and is among Shikoku's oldest banks, with the leading share in Ehime. A defining portfolio feature is lending to the maritime and shipbuilding cluster centered on Imabari Shipbuilding. Across Shikoku, it competes with [[regional-banks/tomony-hd]] in Tokushima / Kagawa, [[regional-banks/hyakujushi-bank|Hyakujushi Bank]] in Kagawa, and [[regional-banks/shikoku-bank|Shikoku Bank]] in Kochi.
 
 ## 1. Company overview
 
@@ -31,7 +31,7 @@ Iyogin Holdings is one of Shikoku's largest regional banking groups, anchored in
 
 ```
 Iyogin Holdings (listed holding company, 5830)
-  +-- Iyo Bank, Ltd. (100%) -- [[iyo-bank]] / core subsidiary with leading Ehime share
+  +-- Iyo Bank, Ltd. (100%) -- [[regional-banks/iyo-bank]] / core subsidiary with leading Ehime share
   +-- Iyogin Leasing
   +-- Iyogin Business Service
   +-- Iyogin Computer Service
@@ -55,8 +55,8 @@ Iyogin Holdings (listed holding company, 5830)
 
 | Segment | Main operator | Characteristics |
 |---|---|---|
-| Commercial banking | [[iyo-bank|Iyo Bank]] | Dominant Ehime share and coverage across Shikoku. |
-| Maritime / shipbuilding finance | [[iyo-bank|Iyo Bank]] corporate division | Lending to Imabari Shipbuilding group and the broader maritime cluster. |
+| Commercial banking | [[regional-banks/iyo-bank|Iyo Bank]] | Dominant Ehime share and coverage across Shikoku. |
+| Maritime / shipbuilding finance | [[regional-banks/iyo-bank|Iyo Bank]] corporate division | Lending to Imabari Shipbuilding group and the broader maritime cluster. |
 | Leasing | Iyogin Leasing | Corporate equipment-investment finance. |
 | Cards | Iyogin DC Card | Retail payments. |
 | Think tank | Iyogin Regional Economy Research Center (IRC) | Ehime and Shikoku economic research. |
@@ -78,12 +78,12 @@ Iyogin Holdings (listed holding company, 5830)
 
 | Prefecture | Major regional banks | Holding-company status |
 |---|---|---|
-| Ehime | **[[iyo-bank|Iyo Bank]]** / [[ehime-bank|Ehime Bank]] | **Iyogin Holdings** / standalone second-tier regional bank |
-| 徳島 | [[awa-bank|阿波銀行]] / [[tokushima-taisho-bank|徳島大正銀行]] | standalone / [[tomony-hd]] |
-| 香川 | [[hyakujushi-bank|百十四銀行]] / [[kagawa-bank|香川銀行]] | standalone / [[tomony-hd]] |
-| 高知 | [[shikoku-bank|四国銀行]] / [[kochi-bank|高知銀行]] | standalone / standalone |
+| Ehime | **[[regional-banks/iyo-bank|Iyo Bank]]** / [[regional-banks/ehime-bank|Ehime Bank]] | **Iyogin Holdings** / standalone second-tier regional bank |
+| 徳島 | [[regional-banks/awa-bank|阿波銀行]] / [[regional-banks/tokushima-taisho-bank|徳島大正銀行]] | standalone / [[regional-banks/tomony-hd]] |
+| 香川 | [[regional-banks/hyakujushi-bank|百十四銀行]] / [[regional-banks/kagawa-bank|香川銀行]] | standalone / [[regional-banks/tomony-hd]] |
+| 高知 | [[regional-banks/shikoku-bank|四国銀行]] / [[regional-banks/kochi-bank|高知銀行]] | standalone / standalone |
 
-Shikoku regional-bank consolidation has advanced in other prefectures, including [[tomony-hd]] in Kagawa and Tokushima, but Iyo Bank chose an independent holding-company route.
+Shikoku regional-bank consolidation has advanced in other prefectures, including [[regional-banks/tomony-hd]] in Kagawa and Tokushima, but Iyo Bank chose an independent holding-company route.
 
 ## 5. Regulation and policy
 
@@ -96,7 +96,7 @@ Shikoku regional-bank consolidation has advanced in other prefectures, including
 
 ## Related
 
-- [[iyo-bank]] · [[ehime-bank]] · [[tomony-hd]] · [[awa-bank]] · [[hyakujushi-bank]] · [[shikoku-bank]]
+- [[regional-banks/iyo-bank]] · [[regional-banks/ehime-bank]] · [[regional-banks/tomony-hd]] · [[regional-banks/awa-bank]] · [[regional-banks/hyakujushi-bank]] · [[regional-banks/shikoku-bank]]
 
 ## Sources
 

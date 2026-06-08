@@ -47,17 +47,17 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 
 - 欧州系再保険「第三極」の日本支店アンカー — 「Big 2」だけでは不完全な Japan reinsurance market のパネル構造を補完
 - [[insurance/natcat-reinsurance-japan]] system page と元受メガ損保群を接続
-- 国内 [[toa-reinsurance]] / [[japan-earthquake-reinsurance]] / 外資 [[non-life-insurers/munich-re-japan]] / [[non-life-insurers/swiss-re-japan]] と並べた日本再保険市場の構造マップに不可欠
+- 国内 [[non-life-insurers/toa-reinsurance]] / [[non-life-insurers/japan-earthquake-reinsurance]] / 外資 [[non-life-insurers/munich-re-japan]] / [[non-life-insurers/swiss-re-japan]] と並べた日本再保険市場の構造マップに不可欠
 
 ## Related
 
 - [[non-life-insurers/INDEX]]
-- [[munich-re-japan]]
-- [[swiss-re-japan]]
-- [[toa-reinsurance]]
-- [[japan-earthquake-reinsurance]]
-- [[scor-japan]]
-- [[rga-japan]]
+- [[non-life-insurers/munich-re-japan]]
+- [[non-life-insurers/swiss-re-japan]]
+- [[non-life-insurers/toa-reinsurance]]
+- [[non-life-insurers/japan-earthquake-reinsurance]]
+- [[non-life-insurers/scor-japan]]
+- [[life-insurers/rga-japan]]
 - [[insurance/natcat-reinsurance-japan]]
 - [[insurance/INDEX]]
 

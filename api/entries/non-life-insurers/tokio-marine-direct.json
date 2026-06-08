@@ -50,32 +50,30 @@
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 7,
+    "wikilinks_count": 6,
     "wikilinks": [
       "insurance/INDEX",
       "non-life-insurers/INDEX",
-      "non-life-insurers/tokio-marine-nichido-fire",
-      "sompo-direct",
-      "sony-insurance",
-      "tokio-marine",
-      "tokio-marine-nichido-fire"
+      "non-life-insurers/sompo-direct",
+      "non-life-insurers/sony-insurance",
+      "non-life-insurers/tokio-marine",
+      "non-life-insurers/tokio-marine-nichido-fire"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/insurance/INDEX",
       "https://finwiki.zksc.io/non-life-insurers/INDEX",
-      "https://finwiki.zksc.io/non-life-insurers/tokio-marine-nichido-fire",
-      "https://finwiki.zksc.io/sompo-direct",
-      "https://finwiki.zksc.io/sony-insurance",
-      "https://finwiki.zksc.io/tokio-marine",
-      "https://finwiki.zksc.io/tokio-marine-nichido-fire"
+      "https://finwiki.zksc.io/non-life-insurers/sompo-direct",
+      "https://finwiki.zksc.io/non-life-insurers/sony-insurance",
+      "https://finwiki.zksc.io/non-life-insurers/tokio-marine",
+      "https://finwiki.zksc.io/non-life-insurers/tokio-marine-nichido-fire"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2038,
-    "word_like_tokens": 318,
-    "inbound_wikilinks_count": 6,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 2182,
+    "word_like_tokens": 342,
+    "inbound_wikilinks_count": 9,
+    "last_modified": "2026-06-08"
   }
 }

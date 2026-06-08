@@ -15,7 +15,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-The Shiga Bank is an independent bank rooted in Shiga Prefecture and one of the regional banks that has **not shifted into a holding-company structure**. It was launched in 1933-10-01 through the merger of Hachijusan Bank and Omi Bank, with roots going back to the **1879  Sixty-Fourth National Bank of Hikone**. Its short name is **Shigagin**. The revenue core is **No. 1  share inside Shiga Prefecture, area expansion into northern Kyoto, northern Osaka, and the Nagoya region, environmental finance around Lake Biwa, and advanced ESG / sustainability positioning**. It is also a **front-runner among regional banks in adopting the UN Principles for Responsible Banking (UN PRB)** 2019, establishing an ESG-leader frame. As a member bank of the **TSUBASA Alliance** led by [[chiba-bank]], it participates in system commonization and overseas support. Its area overlaps with adjacent Kansai regional banks [[kyoto-fg]] / [[resona-hd]], including Kansai Mirai Bank, and with [[ikeda-senshu-hd]] / [[nanto-bank]].
+The Shiga Bank is an independent bank rooted in Shiga Prefecture and one of the regional banks that has **not shifted into a holding-company structure**. It was launched in 1933-10-01 through the merger of Hachijusan Bank and Omi Bank, with roots going back to the **1879  Sixty-Fourth National Bank of Hikone**. Its short name is **Shigagin**. The revenue core is **No. 1  share inside Shiga Prefecture, area expansion into northern Kyoto, northern Osaka, and the Nagoya region, environmental finance around Lake Biwa, and advanced ESG / sustainability positioning**. It is also a **front-runner among regional banks in adopting the UN Principles for Responsible Banking (UN PRB)** 2019, establishing an ESG-leader frame. As a member bank of the **TSUBASA Alliance** led by [[regional-banks/chiba-bank]], it participates in system commonization and overseas support. Its area overlaps with adjacent Kansai regional banks [[regional-banks/kyoto-fg]] / [[megabanks/resona-hd]], including Kansai Mirai Bank, and with [[regional-banks/ikeda-senshu-hd]] / [[regional-banks/nanto-bank]].
 
 ## 1. Company Overview
 **Legal name**: The Shiga Bank, Ltd.
@@ -24,7 +24,7 @@ The Shiga Bank is an independent bank rooted in Shiga Prefecture and one of the 
 **Established**: 1933-10-01, through the merger of Hachijusan Bank and Omi Bank
 **Head office**: 1-38
  Hamamachi, Otsu, Shiga Prefecture
-**Business type**: Independent bank. The fact that it has not become a holding company contrasts with the Kansai regional-bank FG trend seen at nearby [[kyoto-fg|京都 FG]] and [[ikeda-senshu-hd|池田泉州 HD]].
+**Business type**: Independent bank. The fact that it has not become a holding company contrasts with the Kansai regional-bank FG trend seen at nearby [[regional-banks/kyoto-fg|京都 FG]] and [[regional-banks/ikeda-senshu-hd|池田泉州 HD]].
 
 ### Major Financials (138th period / FY2024, as of 2025-03-31)
 
@@ -55,7 +55,7 @@ The Shiga Bank (independent listed bank 8366)
 - Before the war, several regional banks operated inside Shiga Prefecture, including Hachijusan Bank in Otsu, Omi Bank, and the Sixty-Fourth Bank lineage.
 - **1933-10-01 The Shiga Bank launched** through the merger of Hachijusan Bank and Omi Bank under the wartime "one prefecture, one bank" policy. Together with Nanto Bank 1934-06-01, it is an early example of wartime bank consolidation.
 - After the war, Shiga Bank stayed listed for the long term as Shiga Prefecture's core bank, maintaining and expanding its prefectural share.
-- **2015  Joined the TSUBASA Alliance**, led by [[chiba-bank|千葉銀行]], for system commonization and overseas-support cooperation.
+- **2015  Joined the TSUBASA Alliance**, led by [[regional-banks/chiba-bank|千葉銀行]], for system commonization and overseas-support cooperation.
 - **2019  Adopted the UN Principles for Responsible Banking (UN PRB)** * as the first regional bank adopter, strengthening the ESG-leader frame.
 - **2022-04  TSE market-segment review** -> TSE PRIME 8366, moving from the former TSE First Section.
 
@@ -67,7 +67,7 @@ The Shiga Bank (independent listed bank 8366)
 | **1933-10-01** | **The Shiga Bank launched** through the merger of Hachijusan Bank and Omi Bank |
 | Postwar | Listed on TSE and established No. 1  regional-bank position in Shiga Prefecture |
 | 1990-2000 年 era | Expanded operating area into northern Kyoto, northern Osaka, and the Nagoya region; became an early mover in Lake Biwa environmental finance |
-| **2015** | **Joined the TSUBASA Alliance**, led by [[chiba-bank]] under an 11 行-bank framework; system commonization and overseas support |
+| **2015** | **Joined the TSUBASA Alliance**, led by [[regional-banks/chiba-bank]] under an 11 行-bank framework; system commonization and overseas support |
 | **2019** | **Adopted the UN Principles for Responsible Banking (UN PRB)** * as the first regional-bank adopter and established an ESG-leader frame |
 | 2022-04  | TSE market-segment review -> TSE PRIME 8366, moving from the former TSE First Section |
 
@@ -88,11 +88,11 @@ The Shiga Bank (independent listed bank 8366)
 - The ESG-leader frame may become a differentiating factor in regional-bank reorganization and alliance negotiations.
 
 ### TSUBASA Alliance Participation Strategy *
-**Joined in 2015 **. The alliance led by [[chiba-bank|千葉銀行]], with 11 行 participating banks, is an alternative model that avoids regional-bank holding-company conversion while capturing scale benefits.
+**Joined in 2015 **. The alliance led by [[regional-banks/chiba-bank|千葉銀行]], with 11 行 participating banks, is an alternative model that avoids regional-bank holding-company conversion while capturing scale benefits.
 
 | Member bank | Local base |
 |---|---|
-| [[chiba-bank|千葉銀行]] | Chiba Prefecture, lead bank |
+| [[regional-banks/chiba-bank|千葉銀行]] | Chiba Prefecture, lead bank |
 | Hokuyo Bank | Hokkaido |
 | Musashino Bank | Saitama Prefecture |
 | **The Shiga Bank** | **Shiga Prefecture** * |
@@ -101,14 +101,14 @@ The Shiga Bank (independent listed bank 8366)
 | Iyo Bank | Ehime Prefecture |
 | Toho Bank | Fukushima Prefecture |
 | Hokkoku Bank | Ishikawa Prefecture |
-| [[kyoto-fg|京都銀行]] | Kyoto Prefecture |
+| [[regional-banks/kyoto-fg|京都銀行]] | Kyoto Prefecture |
 | Gunma Bank | Gunma Prefecture |
 
 **Strategic meaning of TSUBASA**:
 - **System commonization**: reduces IT costs through common core and peripheral systems, addressing scale limitations for an independent regional bank.
 - **Overseas support**: mutual use of Singapore and other overseas support bases after joining, letting Shiga Bank avoid building its own overseas footprint.
 - **Business cooperation**: expands freedom to deploy trust, securities, leasing, and other adjacent businesses.
-- **Relationship with neighboring member [[kyoto-fg|京都銀行]]**: cooperation inside TSUBASA, but competition in the Shiga / Kyoto border area.
+- **Relationship with neighboring member [[regional-banks/kyoto-fg|京都銀行]]**: cooperation inside TSUBASA, but competition in the Shiga / Kyoto border area.
 
 ### Prefectural Franchise Strategy
 
@@ -120,20 +120,20 @@ The Shiga Bank (independent listed bank 8366)
 ### Competition Structure in the Kansai / Tokai Border Area
 
 - **Special geography of the Kansai / Tokai border area**: Shiga borders Kyoto to the west, Mie to the south across Suzuka, Gifu to the east, Fukui to the north, and Kyoto's Tango area to the northwest, placing it across 4  prefectural borders. It sits between the Keihanshin economy and the Tokai / Nagoya economy.
-- **Competition with megabanks ([[mufg]] / [[smfg]] / [[mizuho-fg]])**: large corporate deals in Keihanshin and Nagoya urban areas tend to flow to megabanks; Shiga Bank competes through its Shiga franchise plus neighboring mid-market manufacturing main-bank role.
+- **Competition with megabanks ([[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]])**: large corporate deals in Keihanshin and Nagoya urban areas tend to flow to megabanks; Shiga Bank competes through its Shiga franchise plus neighboring mid-market manufacturing main-bank role.
 - **Competition with Kansai regional banks**:
-  - [[kyoto-fg|京都 FG]]: Kyoto Bank, with a Kyoto base plus southern Shiga and northern Osaka; both a TSUBASA ally and neighboring competitor.
-  - [[resona-hd|りそな HD]]: former Daiwa Bank plus Asahi Bank, including Kansai Mirai Bank; largest Kansai regional-bank group and an indirect competitor in Osaka and Kyoto.
-  - [[ikeda-senshu-hd|池田泉州 HD]]: indirect competitor in northern Osaka.
-  - [[nanto-bank|南都銀行]]: Nara base, touches Shiga from the east around the Todaiji / Kasagi area.
+  - [[regional-banks/kyoto-fg|京都 FG]]: Kyoto Bank, with a Kyoto base plus southern Shiga and northern Osaka; both a TSUBASA ally and neighboring competitor.
+  - [[megabanks/resona-hd|りそな HD]]: former Daiwa Bank plus Asahi Bank, including Kansai Mirai Bank; largest Kansai regional-bank group and an indirect competitor in Osaka and Kyoto.
+  - [[regional-banks/ikeda-senshu-hd|池田泉州 HD]]: indirect competitor in northern Osaka.
+  - [[regional-banks/nanto-bank|南都銀行]]: Nara base, touches Shiga from the east around the Todaiji / Kasagi area.
 - **Competition with Tokai regional banks**:
-  - [[ogaki-kyoritsu-bank|大垣共立銀行]]: western Gifu, touching Shiga via Maibara.
-  - [[juroku-fg|十六 FG]]: Gifu / Sekigahara area, indirect competition.
-  - Mie Bank / [[san-jusan-fg|三十三 FG]]: Mie Prefecture, indirect competition across Suzuka.
+  - [[regional-banks/ogaki-kyoritsu-bank|大垣共立銀行]]: western Gifu, touching Shiga via Maibara.
+  - [[regional-banks/juroku-fg|十六 FG]]: Gifu / Sekigahara area, indirect competition.
+  - Mie Bank / [[regional-banks/san-jusan-fg|三十三 FG]]: Mie Prefecture, indirect competition across Suzuka.
 
 ### Strategic Meaning of Remaining an Independent Bank
 
-- **The point that it has not become a holding company** contrasts with the nearby Kansai regional-bank FG trend, such as [[kyoto-fg|京都 FG]] (2009  independent FG conversion) and [[ikeda-senshu-hd|池田泉州 HD]] (2009  integration). Shiga Bank continues as an independent listed bank with an audit-and-supervisory-board company structure.
+- **The point that it has not become a holding company** contrasts with the nearby Kansai regional-bank FG trend, such as [[regional-banks/kyoto-fg|京都 FG]] (2009  independent FG conversion) and [[regional-banks/ikeda-senshu-hd|池田泉州 HD]] (2009  integration). Shiga Bank continues as an independent listed bank with an audit-and-supervisory-board company structure.
 - Benefits of the independent-bank model: 1) simpler governance, 2) management resources concentrated in the bank itself, and 3) no additional cost for holding-company conversion.
 - **TSUBASA membership + UN PRB adoption** create a distinctive model for gaining scale and ESG differentiation while remaining an independent bank.
 
@@ -156,11 +156,11 @@ The Shiga Bank (independent listed bank 8366)
 
 ## Related
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] (three megabanks 3 行, competing on Keihanshin / Nagoya large-corporate deals)
-- [[resona-hd]] · [[kyoto-fg]] · [[ikeda-senshu-hd]] · [[nanto-bank]] (Kansai regional-bank group)
-- [[chiba-bank]] (lead bank of the TSUBASA Alliance)
-- [[ogaki-kyoritsu-bank]] · [[juroku-fg]] · [[san-jusan-fg]] (Tokai regional-bank group, prefectural-border competition)
-- [[hachijuni-bank]] (independent regional-bank comparison) · [[mebuki-fg]] · [[concordia-fg]] · [[fukuoka-fg]] (comparison with regional-bank FG conversion cases)
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] (three megabanks 3 行, competing on Keihanshin / Nagoya large-corporate deals)
+- [[megabanks/resona-hd]] · [[regional-banks/kyoto-fg]] · [[regional-banks/ikeda-senshu-hd]] · [[regional-banks/nanto-bank]] (Kansai regional-bank group)
+- [[regional-banks/chiba-bank]] (lead bank of the TSUBASA Alliance)
+- [[regional-banks/ogaki-kyoritsu-bank]] · [[regional-banks/juroku-fg]] · [[regional-banks/san-jusan-fg]] (Tokai regional-bank group, prefectural-border competition)
+- [[regional-banks/hachijuni-bank]] (independent regional-bank comparison) · [[regional-banks/mebuki-fg]] · [[regional-banks/concordia-fg]] · [[regional-banks/fukuoka-fg]] (comparison with regional-bank FG conversion cases)
 - [[banking/minna-bank-baas-model]] (regional-bank digital strategy comparison)
 
 ## Sources
@@ -173,4 +173,4 @@ The Shiga Bank (independent listed bank 8366)
 ---
 
 > [!info] Validation status
-> confidence: **likely**. Public-information base calibrated on 1.1  and ambiguous items rechecked on 2026-05-19 / 2026-05-29. History (established 1933-10-01, merger of Hachijusan and Omi, Sixty-Fourth National Bank 1879  Hikone root), market segment (TSE PRIME 8366), independent-bank structure, head-office location (1-38 Hamamachi, Otsu), TSUBASA Alliance membership (2015), and UN PRB adoption (2019, first regional bank) are confirmed from public information. **FY2024 / 138th period / 2025-03-31 financial figures** were collected from securities-report base: total assets 7.53 兆円, deposits 5.81 兆円, loans 4.56 兆円, consolidated employees 2,171 名, and offices 133. The point that it has not become a holding company was checked via Wikipedia, organized in parallel with other independent regional banks such as [[chiba-bank|千葉銀]], [[nanto-bank|南都銀]], and [[hachijuni-bank|八十二銀]]. Subsidiary ownership ratios, concrete targets in the 2024  medium-term management plan, exact locations of overseas representative offices, and the scale of ESG finance / Lake Biwa environmental finance results were not collected in this edition and require direct confirmation from Shiga Bank official IR. The strategic core is a distinctive model that reinforces independent-bank continuity with the two pillars of TSUBASA + UN PRB in the Kansai / Tokai border area of Shiga + northern Kyoto + northern Osaka + Nagoya.
+> confidence: **likely**. Public-information base calibrated on 1.1  and ambiguous items rechecked on 2026-05-19 / 2026-05-29. History (established 1933-10-01, merger of Hachijusan and Omi, Sixty-Fourth National Bank 1879  Hikone root), market segment (TSE PRIME 8366), independent-bank structure, head-office location (1-38 Hamamachi, Otsu), TSUBASA Alliance membership (2015), and UN PRB adoption (2019, first regional bank) are confirmed from public information. **FY2024 / 138th period / 2025-03-31 financial figures** were collected from securities-report base: total assets 7.53 兆円, deposits 5.81 兆円, loans 4.56 兆円, consolidated employees 2,171 名, and offices 133. The point that it has not become a holding company was checked via Wikipedia, organized in parallel with other independent regional banks such as [[regional-banks/chiba-bank|千葉銀]], [[regional-banks/nanto-bank|南都銀]], and [[regional-banks/hachijuni-bank|八十二銀]]. Subsidiary ownership ratios, concrete targets in the 2024  medium-term management plan, exact locations of overseas representative offices, and the scale of ESG finance / Lake Biwa environmental finance results were not collected in this edition and require direct confirmation from Shiga Bank official IR. The strategic core is a distinctive model that reinforces independent-bank continuity with the two pillars of TSUBASA + UN PRB in the Kansai / Tokai border area of Shiga + northern Kyoto + northern Osaka + Nagoya.

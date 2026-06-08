@@ -50,49 +50,47 @@
     "主要子会社・関連会社（公開情報ベース）",
     "重要年表（公開情報ベース）",
     "2. 事業セグメント・マップ",
-    "グループ内ポジション（smfg 内）",
+    "グループ内ポジション（megabanks/smfg 内）",
     "リテール戦略",
     "ホールセール / IB 戦略"
   ],
   "body_links": {
-    "wikilinks_count": 13,
+    "wikilinks_count": 12,
     "wikilinks": [
       "INDEX",
-      "daiwa-sg",
       "financial-regulators/jsda",
-      "mizuho-fg",
-      "monex-group",
-      "mufg",
-      "nomura-hd",
-      "rakuten-fg",
-      "sbi-hd",
+      "megabanks/mizuho-fg",
+      "megabanks/mufg",
+      "megabanks/sbi-hd",
+      "megabanks/smfg",
+      "payment-firms/rakuten-fg",
       "securities-firms/INDEX",
+      "securities-firms/daiwa-sg",
+      "securities-firms/monex-group",
       "securities-firms/nomura-hd",
-      "securities/INDEX",
-      "smfg"
+      "securities/INDEX"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/daiwa-sg",
       "https://finwiki.zksc.io/financial-regulators/jsda",
-      "https://finwiki.zksc.io/mizuho-fg",
-      "https://finwiki.zksc.io/monex-group",
-      "https://finwiki.zksc.io/mufg",
-      "https://finwiki.zksc.io/nomura-hd",
-      "https://finwiki.zksc.io/rakuten-fg",
-      "https://finwiki.zksc.io/sbi-hd",
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/sbi-hd",
+      "https://finwiki.zksc.io/megabanks/smfg",
+      "https://finwiki.zksc.io/payment-firms/rakuten-fg",
       "https://finwiki.zksc.io/securities-firms/INDEX",
+      "https://finwiki.zksc.io/securities-firms/daiwa-sg",
+      "https://finwiki.zksc.io/securities-firms/monex-group",
       "https://finwiki.zksc.io/securities-firms/nomura-hd",
-      "https://finwiki.zksc.io/securities/INDEX",
-      "https://finwiki.zksc.io/smfg"
+      "https://finwiki.zksc.io/securities/INDEX"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5972,
-    "word_like_tokens": 994,
-    "inbound_wikilinks_count": 59,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 6533,
+    "word_like_tokens": 1054,
+    "inbound_wikilinks_count": 67,
+    "last_modified": "2026-06-08"
   }
 }

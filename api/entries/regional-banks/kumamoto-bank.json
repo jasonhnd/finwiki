@@ -48,36 +48,34 @@
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 9,
+    "wikilinks_count": 8,
     "wikilinks": [
       "banking/INDEX",
       "banking/minna-bank-baas-model",
       "banking/regional-bank-consolidation-pattern",
-      "fukuoka-bank",
-      "fukuoka-fg",
-      "higo-bank",
-      "kyushu-fg",
       "regional-banks/INDEX",
-      "regional-banks/higo-bank"
+      "regional-banks/fukuoka-bank",
+      "regional-banks/fukuoka-fg",
+      "regional-banks/higo-bank",
+      "regional-banks/kyushu-fg"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/minna-bank-baas-model",
       "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
-      "https://finwiki.zksc.io/fukuoka-bank",
-      "https://finwiki.zksc.io/fukuoka-fg",
-      "https://finwiki.zksc.io/higo-bank",
-      "https://finwiki.zksc.io/kyushu-fg",
       "https://finwiki.zksc.io/regional-banks/INDEX",
-      "https://finwiki.zksc.io/regional-banks/higo-bank"
+      "https://finwiki.zksc.io/regional-banks/fukuoka-bank",
+      "https://finwiki.zksc.io/regional-banks/fukuoka-fg",
+      "https://finwiki.zksc.io/regional-banks/higo-bank",
+      "https://finwiki.zksc.io/regional-banks/kyushu-fg"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1859,
-    "word_like_tokens": 296,
-    "inbound_wikilinks_count": 2,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 2054,
+    "word_like_tokens": 322,
+    "inbound_wikilinks_count": 8,
+    "last_modified": "2026-06-08"
   }
 }

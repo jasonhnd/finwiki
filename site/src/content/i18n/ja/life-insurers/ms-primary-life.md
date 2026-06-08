@@ -17,7 +17,7 @@ translated_at: 2026-06-02T14:54:39.088Z
 
 ## 要約
 
-三井住友海上プライマリー生命保険株式会社は、[[msad]] グループの生命保険運営会社である。金融機関チャネルと年金 / 貯蓄性商品を扱う専門会社として、[[mitsui-sumitomo-aioi-life]] とは別に扱う。
+三井住友海上プライマリー生命保険株式会社は、[[non-life-insurers/msad]] グループの生命保険運営会社である。金融機関チャネルと年金 / 貯蓄性商品を扱う専門会社として、[[life-insurers/mitsui-sumitomo-aioi-life]] とは別に扱う。
 
 ## 1. ライセンス / グループ境界
 
@@ -26,21 +26,21 @@ translated_at: 2026-06-02T14:54:39.088Z
 | 法人名 | 三井住友海上プライマリー生命保険株式会社 |
 | ライセンスルート | 保険業法上の生命保険会社。FSA 生命保険会社一覧 |
 | 業界団体 | 生命保険協会会員 |
-| グループ境界 | [[msad]] life-insurance 専門会社 |
+| グループ境界 | [[non-life-insurers/msad]] life-insurance 専門会社 |
 | wiki 上の役割 | MS&AD の金融機関チャネル向け生命保険会社 |
 
 ## 2. このページが重要な理由
 
 - FSA 41  の正確名称の空白を埋める。
-- [[mitsui-sumitomo-aioi-life]] と合わせて MS&AD の生命保険会社の切り分けを補完する。
-- [[dai-ichi-frontier-life]]、[[pgf-life]]、[[td-financial-life]] の有用な比較対象になる。
+- [[life-insurers/mitsui-sumitomo-aioi-life]] と合わせて MS&AD の生命保険会社の切り分けを補完する。
+- [[life-insurers/dai-ichi-frontier-life]]、[[life-insurers/pgf-life]]、[[life-insurers/td-financial-life]] の有用な比較対象になる。
 
 ## 関連項目
 
-- [[msad]]
-- [[mitsui-sumitomo-aioi-life]]
-- [[dai-ichi-frontier-life]]
-- [[pgf-life]]
+- [[non-life-insurers/msad]]
+- [[life-insurers/mitsui-sumitomo-aioi-life]]
+- [[life-insurers/dai-ichi-frontier-life]]
+- [[life-insurers/pgf-life]]
 - [[insurance/life-insurance-channel-mix]]
 
 ## 出典

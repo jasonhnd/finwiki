@@ -41,8 +41,8 @@ translated_at: 2026-06-02T14:01:20.916Z
 ## 関連
 
 - [[insurance/INDEX]]
-- [[sony-insurance]]
-- [[sompo-direct]]
+- [[non-life-insurers/sony-insurance]]
+- [[non-life-insurers/sompo-direct]]
 - [[financial-regulators/missing-financial-institutions-backlog]]
 
 ## 出典

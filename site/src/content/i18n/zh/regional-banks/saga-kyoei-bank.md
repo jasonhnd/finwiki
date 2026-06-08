@@ -15,7 +15,7 @@ translated_at: 2026-06-01T00:41:50.427Z
 
 ## TL;DR
 
-株式会社佐贺共荣银行是总部位于佐贺县、列入金融厅银行牌照名单的第二地方银行。它是佐贺县的第二地方银行运营公司 anchor，并作为区别于 [[saga-bank]] 的本地同业处理。
+株式会社佐贺共荣银行是总部位于佐贺县、列入金融厅银行牌照名单的第二地方银行。它是佐贺县的第二地方银行运营公司 anchor，并作为区别于 [[regional-banks/saga-bank]] 的本地同业处理。
 
 ## 1. 牌照 / 集团边界
 
@@ -29,7 +29,7 @@ translated_at: 2026-06-01T00:41:50.427Z
 
 ## 2. 运营模式
 
-佐贺共荣银行是承担佐贺县内零售存款、SME 金融、小企业贷款和本地消费者银行业务的第二地方银行。[[saga-bank]] 页面覆盖第一地方银行既有主力，本页面覆盖第二地方银行牌照边界。九州第二地方银行整合压力见 [[banking/regional-bank-consolidation-pattern]]。
+佐贺共荣银行是承担佐贺县内零售存款、SME 金融、小企业贷款和本地消费者银行业务的第二地方银行。[[regional-banks/saga-bank]] 页面覆盖第一地方银行既有主力，本页面覆盖第二地方银行牌照边界。九州第二地方银行整合压力见 [[banking/regional-bank-consolidation-pattern]]。
 
 ## 3. 本页面为何重要
 
@@ -39,9 +39,9 @@ translated_at: 2026-06-01T00:41:50.427Z
 
 ## Related
 
-- [[saga-bank]]
-- [[fukuoka-bank]]
-- [[nishi-nippon-city-bank]]
+- [[regional-banks/saga-bank]]
+- [[regional-banks/fukuoka-bank]]
+- [[regional-banks/nishi-nippon-city-bank]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 

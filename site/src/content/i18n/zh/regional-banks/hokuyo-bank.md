@@ -52,12 +52,12 @@ translated_at: 2026-05-31T15:29:03.867Z
 
 ## Related
 
-- [[hokuhoku-fg]]
-- [[mufg]]
-- [[smfg]]
-- [[mizuho-fg]]
-- [[ndfg]]
-- [[sbi-hd]]
+- [[regional-banks/hokuhoku-fg]]
+- [[megabanks/mufg]]
+- [[megabanks/smfg]]
+- [[megabanks/mizuho-fg]]
+- [[megabanks/ndfg]]
+- [[megabanks/sbi-hd]]
 
 ## Sources
 

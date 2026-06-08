@@ -52,18 +52,17 @@
     "2. 事業セグメント・マップ"
   ],
   "body_links": {
-    "wikilinks_count": 10,
+    "wikilinks_count": 9,
     "wikilinks": [
       "banking/INDEX",
       "banking/mercari-bank-license-stack",
       "banking/minna-bank-baas-model",
       "megabanks/INDEX",
       "megabanks/mufg",
-      "mufg",
-      "ndfg",
-      "paypay-fg",
-      "sbi-hd",
-      "smfg"
+      "megabanks/ndfg",
+      "megabanks/paypay-fg",
+      "megabanks/sbi-hd",
+      "megabanks/smfg"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/banking/INDEX",
@@ -71,19 +70,18 @@
       "https://finwiki.zksc.io/banking/minna-bank-baas-model",
       "https://finwiki.zksc.io/megabanks/INDEX",
       "https://finwiki.zksc.io/megabanks/mufg",
-      "https://finwiki.zksc.io/mufg",
-      "https://finwiki.zksc.io/ndfg",
-      "https://finwiki.zksc.io/paypay-fg",
-      "https://finwiki.zksc.io/sbi-hd",
-      "https://finwiki.zksc.io/smfg"
+      "https://finwiki.zksc.io/megabanks/ndfg",
+      "https://finwiki.zksc.io/megabanks/paypay-fg",
+      "https://finwiki.zksc.io/megabanks/sbi-hd",
+      "https://finwiki.zksc.io/megabanks/smfg"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 7621,
-    "word_like_tokens": 1384,
-    "inbound_wikilinks_count": 103,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 7671,
+    "word_like_tokens": 1389,
+    "inbound_wikilinks_count": 225,
+    "last_modified": "2026-06-08"
   }
 }

@@ -22,7 +22,7 @@ This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-i
 
 ## TL;DR
 
-スイス UBS Group AG（G-SIB Bucket 1、世界最大級プライベートバンク）の日本拠点群。**2023-06 スイス政府主導で旧クレディ・スイス緊急買収完了**、2024 年に旧 CS 日本拠点との統合が進行 ★。日本では UBS 証券（法人 IB）+ **UBS SuMi TRUST ウェルス・マネジメント（[[sumitomo-mitsui-trust]] との JV）** + UBS 銀行東京支店 + UBS アセット・マネジメント の 4 軸体制。PB（プライベートバンキング）は世界トップクラスで、日本では富裕層向け資産運用を SuMi TRUST JV で展開。^[extracted]
+スイス UBS Group AG（G-SIB Bucket 1、世界最大級プライベートバンク）の日本拠点群。**2023-06 スイス政府主導で旧クレディ・スイス緊急買収完了**、2024 年に旧 CS 日本拠点との統合が進行 ★。日本では UBS 証券（法人 IB）+ **UBS SuMi TRUST ウェルス・マネジメント（[[trust-banks/sumitomo-mitsui-trust]] との JV）** + UBS 銀行東京支店 + UBS アセット・マネジメント の 4 軸体制。PB（プライベートバンキング）は世界トップクラスで、日本では富裕層向け資産運用を SuMi TRUST JV で展開。^[extracted]
 
 ## 1. 会社概要
 
@@ -41,7 +41,7 @@ This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-i
 - **1964**：スイス銀行コーポレーション（Swiss Bank Corporation、旧 UBS 前身の一つ）東京駐在員事務所開設 ^[extracted]
 - **1998**：Union Bank of Switzerland + Swiss Bank Corporation 合併 → UBS AG 発足
 - **2008〜2009**：リーマンショック後、サブプライム関連で巨額損失 → スイス政府救済 → 後経営再建
-- **2014**：[[sumitomo-mitsui-trust]] と PB JV 設立（旧称 UBS SuMi TRUST ウェルス・マネジメント）
+- **2014**：[[trust-banks/sumitomo-mitsui-trust]] と PB JV 設立（旧称 UBS SuMi TRUST ウェルス・マネジメント）
 - **2023-03-19**：クレディ・スイス経営危機（AT1 債 ~160 億スイス・フラン 無価値化を含む緊急救済スキーム）→ スイス政府・SNB・FINMA 主導で UBS による緊急買収合意 ^[extracted]
 - **2023-06-12**：**UBS による旧 クレディ・スイス 緊急買収完了**（取得対価 約 30 億スイス・フラン、CS 株 1 株: UBS 株 1/22.48）★ ^[extracted]
 - **2024**：旧 クレディ・スイス・ジャパン（旧 CS 証券・在日支店等）の UBS ジャパン拠点への統合完了 → コスト・リストラ進行
@@ -51,7 +51,7 @@ This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-i
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
 | 法人 IB | UBS 証券 | 日本企業 M&A / DCM / ECM / クロスボーダー助言 |
-| PB / WM | UBS SuMi TRUST WM（JV）| [[sumitomo-mitsui-trust]] 顧客基盤 + UBS グローバル PB プラットフォーム |
+| PB / WM | UBS SuMi TRUST WM（JV）| [[trust-banks/sumitomo-mitsui-trust]] 顧客基盤 + UBS グローバル PB プラットフォーム |
 | 在日銀行業務 | UBS 銀行東京支店 | 外国為替・大口預金・法人融資 |
 | アセマネ | UBS アセット・マネジメント | 機関投資家・年金向け |
 | 旧 CS 統合事業 | 旧 CS 証券（統合済）| 2024 統合完了、コスト・リストラ進行中 |
@@ -63,14 +63,14 @@ This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-i
 
 ### 日本戦略
 
-- **PB**：[[sumitomo-mitsui-trust]] JV で日本富裕層へリーチ。三井住友トラストの顧客基盤 + UBS のグローバル PB プラットフォームの組合せ
-- **IB**：旧 CS との統合で日本 IB 規模拡大 → 邦銀系（[[smfg]] SMBC 日興・[[mufg]] MUMSS）/ 米系（Morgan Stanley・Goldman Sachs・JPMorgan）と競合
+- **PB**：[[trust-banks/sumitomo-mitsui-trust]] JV で日本富裕層へリーチ。三井住友トラストの顧客基盤 + UBS のグローバル PB プラットフォームの組合せ
+- **IB**：旧 CS との統合で日本 IB 規模拡大 → 邦銀系（[[megabanks/smfg]] SMBC 日興・[[megabanks/mufg]] MUMSS）/ 米系（Morgan Stanley・Goldman Sachs・JPMorgan）と競合
 - **コスト・リストラ**：旧 CS 日本拠点との重複（部門・人員・営業店）解消で 2024〜2026 にかけて段階的に縮小調整
 
 ### 提携・買収戦略
 
 - **クレディ・スイス緊急買収**（2023-06）★: スイス政府・SNB・FINMA 主導の救済スキーム。AT1 債 無価値化が市場で物議
-- **[[sumitomo-mitsui-trust]] PB JV**（2014〜）: 日本 PB 共同展開、相互補完
+- **[[trust-banks/sumitomo-mitsui-trust]] PB JV**（2014〜）: 日本 PB 共同展開、相互補完
 - **旧 CS 日本拠点統合**（2024）: UBS 証券 + 旧 CS 証券、東京拠点・人員・業務統合
 
 ## 5. 規制・政策
@@ -96,7 +96,7 @@ This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-i
 
 ## 8. Related
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[sumitomo-mitsui-trust]] · [[ndfg]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[trust-banks/sumitomo-mitsui-trust]] · [[megabanks/ndfg]]
 - 海外大手 IB / PB 関連の wiki エントリ（将来追加）
 
 ## Sources

@@ -30,8 +30,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 ### Characteristics of business format
 
 - **Do not become a standalone bank or holding company** ^[extracted]
-  - Even at the same Tohoku regional bank [[proclair-hd]](Aomori/Michinoku integration) [[jimoto-hd]]While (Sendai Bank + Kirayaka Bank) is reorganizing to become a holding company, 77 Bank maintains its independent bank system
-  -Which major regional banks have not turned into a holding company? [[chiba-bank]]・[[regional-banks/shizuoka-fg|shizuoka-bank]]・[[regional-banks/joyo-bank|joyo-bank]](→ Ashikaga and [[mebuki-fg]] form)·[[regional-banks/kyoto-fg|bank-of-kyoto]] Similar routes to leading regional banks such as
+  - Even at the same Tohoku regional bank [[regional-banks/proclair-hd]](Aomori/Michinoku integration) [[regional-banks/jimoto-hd]]While (Sendai Bank + Kirayaka Bank) is reorganizing to become a holding company, 77 Bank maintains its independent bank system
+  -Which major regional banks have not turned into a holding company? [[regional-banks/chiba-bank]]・[[regional-banks/shizuoka-fg|shizuoka-bank]]・[[regional-banks/joyo-bank|joyo-bank]](→ Ashikaga and [[regional-banks/mebuki-fg]] form)·[[regional-banks/kyoto-fg|bank-of-kyoto]] Similar routes to leading regional banks such as
 - Member of the Regional Banks Association. It does not participate in the TSUBASA Alliance, but is a member of the Chiba Bank-led Regional Revitalization and Revitalization Network (Chiba, Hokkaido, 77, 82, Shizuoka, Kyoto, Hiroshima, Iyo, Fukuoka). 9 行) Participate in ^[extracted]
 
 ### Main affiliated companies (main affiliates)^[extracted]
@@ -90,9 +90,9 @@ The 77 Bank (solo/listed) 8341）
 | **Iwate Bank** | Morioka | Overwhelming market share in Iwate Prefecture |
 | **Yamagata Bank** | Yamagata | Overwhelming market share in Yamagata Prefecture |
 | **Akita Bank** | Akita | Overwhelming market share in Akita Prefecture |
-| **Aomori Bank** (→ [[proclair-hd]] Michinoku Integrated) | Aomori | 2022 Holding company integration |
-| **Jimoto Holdings** [[jimoto-hd]] | Sendai/Yamagata | Sendai Bank + Kirayaka Bank in Miyagi 77 Direct competition with |
-| **Mega Bank** ([[mufg]] / [[smfg]] / [[mizuho-fg]]) | Tokyo | Competing with large companies and metropolitan area transactions, local small and medium-sized corporations 77 Advantage |
+| **Aomori Bank** (→ [[regional-banks/proclair-hd]] Michinoku Integrated) | Aomori | 2022 Holding company integration |
+| **Jimoto Holdings** [[regional-banks/jimoto-hd]] | Sendai/Yamagata | Sendai Bank + Kirayaka Bank in Miyagi 77 Direct competition with |
+| **Mega Bank** ([[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]]) | Tokyo | Competing with large companies and metropolitan area transactions, local small and medium-sized corporations 77 Advantage |
 | **Shinkin banks/credit unions** (Sendai Bank, Tohoku KK, etc.) | Various locations | Local small corporations/individuals |
 
 ### Issues of independent route
@@ -128,8 +128,8 @@ The 77 Bank (solo/listed) 8341）
 
 ## Related
 
-- [[jimoto-hd]] · [[proclair-hd]] · [[chiba-bank]] · [[regional-banks/shizuoka-fg|shizuoka-bank]] · [[regional-banks/joyo-bank|joyo-bank]] · [[mebuki-fg]]
-- [[mufg]] · [[smfg]] · [[mizuho-fg]]
+- [[regional-banks/jimoto-hd]] · [[regional-banks/proclair-hd]] · [[regional-banks/chiba-bank]] · [[regional-banks/shizuoka-fg|shizuoka-bank]] · [[regional-banks/joyo-bank|joyo-bank]] · [[regional-banks/mebuki-fg]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]
 - [[regional-banks/18-shinwa-bank|18-shinwa-bank]](Reference for numerical bank name regional banks)
 
 ## Sources

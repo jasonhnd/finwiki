@@ -24,7 +24,7 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 
 ## TL;DR
 
-東京海上ダイレクト損害保険株式会社は、[[tokio-marine]] group の direct non-life insurer。旧イーデザイン損保の lineage を持ち、金融庁の損害保険会社免許一覧では current legal name として掲載される。[[tokio-marine-nichido-fire]] とは別の direct-channel operating company。
+東京海上ダイレクト損害保険株式会社は、[[non-life-insurers/tokio-marine]] group の direct non-life insurer。旧イーデザイン損保の lineage を持ち、金融庁の損害保険会社免許一覧では current legal name として掲載される。[[non-life-insurers/tokio-marine-nichido-fire]] とは別の direct-channel operating company。
 
 ## 1. License / group boundary
 
@@ -34,11 +34,11 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 | Former brand | イーデザイン損保 |
 | License route | Insurance Business Act non-life insurance company; FSA non-life insurer list |
 | Protection scheme | Non-Life Insurance Policyholders Protection Corporation member |
-| Group boundary | [[tokio-marine]] direct non-life operating company |
+| Group boundary | [[non-life-insurers/tokio-marine]] direct non-life operating company |
 
 ## 2. Operating model
 
-東京海上ダイレクト is the group's direct / digital non-life arm, separate from the traditional agency-led [[tokio-marine-nichido-fire]]. The split lets Tokio Marine operate both full-service agency channels and digital direct auto insurance under separate brands and systems.
+東京海上ダイレクト is the group's direct / digital non-life arm, separate from the traditional agency-led [[non-life-insurers/tokio-marine-nichido-fire]]. The split lets Tokio Marine operate both full-service agency channels and digital direct auto insurance under separate brands and systems.
 
 ## 3. Why this page matters
 
@@ -48,10 +48,10 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 
 ## Related
 
-- [[tokio-marine]]
-- [[tokio-marine-nichido-fire]]
-- [[sony-insurance]]
-- [[sompo-direct]]
+- [[non-life-insurers/tokio-marine]]
+- [[non-life-insurers/tokio-marine-nichido-fire]]
+- [[non-life-insurers/sony-insurance]]
+- [[non-life-insurers/sompo-direct]]
 - [[insurance/INDEX]]
 
 ## Sources

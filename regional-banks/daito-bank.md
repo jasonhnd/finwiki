@@ -49,14 +49,14 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 ## 4. Why this page matters
 
 - Closes an exact-name FSA bank-license gap for Fukushima second-regional banks.
-- Provides a clean peer page for [[fukushima-bank]].
+- Provides a clean peer page for [[regional-banks/fukushima-bank]].
 - Helps avoid treating SBI alliance / regional-bank consolidation notes as substitutes for a bank license page.
 
 ## Related
 
 - [[regional-banks/INDEX|regional-banks INDEX]]
-- [[toho-bank]]
-- [[fukushima-bank]]
+- [[regional-banks/toho-bank]]
+- [[regional-banks/fukushima-bank]]
 - [[megabanks/sbi-regional-bank-hd|SBI 地銀 HD]]
 - [[financial-regulators/fsa|FSA]]
 - [[banking/regional-bank-consolidation-pattern]]

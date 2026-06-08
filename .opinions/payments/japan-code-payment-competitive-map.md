@@ -21,5 +21,5 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 - Which code-payment operators can reduce point subsidies without losing frequency?
 - How much value migrates from card-funded code payment to direct bank-account or balance-funded payment?
-- Do QR gateways such as [[JapanFG/netstars|Netstars]] gain bargaining power as wallets multiply, or do dominant wallets force direct connections?
+- Do QR gateways such as [[payment-firms/netstars|Netstars]] gain bargaining power as wallets multiply, or do dominant wallets force direct connections?
 - How stablecoin / EPI pilots be reflected once real merchant payment volume exists?

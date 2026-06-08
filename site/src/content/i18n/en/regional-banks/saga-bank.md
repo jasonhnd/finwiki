@@ -37,14 +37,14 @@ Saga Bank is a regional bank centered on Saga Prefecture, responsible for retail
 
 - Closes the FSA exact-name operating-company gap for Saga Bank.
 - Provides a Saga prefecture anchor for Kyushu regional-bank comparison.
-- Adds a standalone peer against [[fukuoka-bank]], [[18-shinwa-bank]], and [[nishi-nippon-city-bank]].
+- Adds a standalone peer against [[regional-banks/fukuoka-bank]], [[regional-banks/18-shinwa-bank]], and [[regional-banks/nishi-nippon-city-bank]].
 
 ## Related
 
-- [[fukuoka-bank]]
-- [[18-shinwa-bank]]
-- [[nishi-nippon-city-bank]]
-- [[oita-bank]]
+- [[regional-banks/fukuoka-bank]]
+- [[regional-banks/18-shinwa-bank]]
+- [[regional-banks/nishi-nippon-city-bank]]
+- [[regional-banks/oita-bank]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 

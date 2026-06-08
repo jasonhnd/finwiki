@@ -13,11 +13,11 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 ## 推論 (from 2. Business role)
 
 - **生保責任準備金運用** (親会社向け、約 75 兆円超規模): 国内最大の保険準備金プール ^[inferred]
-- **ESG / サステナビリティ運用**: 親会社 [[JapanFG/nippon-life|日本生命]] のスチュワードシップ責任との連携 ^[inferred]
+- **ESG / サステナビリティ運用**: 親会社 [[life-insurers/nippon-life|日本生命]] のスチュワードシップ責任との連携 ^[inferred]
 
 ## 推論 (from 3. 出資・統治構造)
 
-- [[JapanFG/nippon-life|日本生命]] 100% 子会社、相互会社親会社のため **資本市場圧力を受けない長期運用** が可能 ^[inferred]
+- [[life-insurers/nippon-life|日本生命]] 100% 子会社、相互会社親会社のため **資本市場圧力を受けない長期運用** が可能 ^[inferred]
 
 ## 推論 (from 4. Why standalone page matters)
 

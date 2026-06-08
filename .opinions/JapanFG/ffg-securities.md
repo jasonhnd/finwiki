@@ -17,7 +17,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## 推論 (from 4. KPI table (concept) ^[ambiguous])
 
-| 業績開示 | [[fukuoka-fg]] 連結ベース ^[inferred] |
+| 業績開示 | [[regional-banks/fukuoka-fg]] 連結ベース ^[inferred] |
 
 ## 推論 (from FG 内ポジション)
 
@@ -31,12 +31,12 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 - 「地銀系証券 = 中途半端」論: 大手証券にもネット証券にも勝てない中間ポジション vs 銀証連携の優位性 ^[ambiguous]
 - 「みんなの銀行とのデジタル連携」: BaaS / API 経由の証券サービス連動の実効性 ^[inferred]
-- 「FG 内利益相反」: [[fukuoka-fg]] 銀行優先 vs 証券独立性のバランス ^[inferred]
-- 「九州統合圧力」: [[nishi-nippon-fhd]] 系・[[kyushu-fg]] 系証券との統合シナリオ ^[inferred]
+- 「FG 内利益相反」: [[regional-banks/fukuoka-fg]] 銀行優先 vs 証券独立性のバランス ^[inferred]
+- 「九州統合圧力」: [[regional-banks/nishi-nippon-fhd]] 系・[[regional-banks/kyushu-fg]] 系証券との統合シナリオ ^[inferred]
 
 ## Open questions
 
-- 預かり資産・口座数の最新規模は ([[fukuoka-fg]] セグメント情報で開示は限定的)
+- 預かり資産・口座数の最新規模は ([[regional-banks/fukuoka-fg]] セグメント情報で開示は限定的)
 - みんなの銀行デジタルバンクとの証券サービス連動具体策
 - 大手証券との将来統合・業務提携シナリオ
 - 九州 FG / 西日本 FHD 系証券との地域 broader アライアンス可能性

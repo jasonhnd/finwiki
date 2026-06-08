@@ -16,7 +16,7 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 
 ## TL;DR
 
-au损害保险株式会社是一家与 [[au-fh]] 和 [[aioi-nissay-dowa-insurance]] 相邻的 direct / mobile-friendly 非寿险运营公司。它列入金融厅的损害保险公司牌照名单，位于 KDDI / au ecosystem 与 MS&AD insurance capabilities 的交汇处。
+au损害保险株式会社是一家与 [[megabanks/au-fh]] 和 [[non-life-insurers/aioi-nissay-dowa-insurance]] 相邻的 direct / mobile-friendly 非寿险运营公司。它列入金融厅的损害保险公司牌照名单，位于 KDDI / au ecosystem 与 MS&AD insurance capabilities 的交汇处。
 
 ## 1. License / group boundary
 
@@ -26,7 +26,7 @@ au损害保险株式会社是一家与 [[au-fh]] 和 [[aioi-nissay-dowa-insuranc
 | English name | au Insurance Company, Limited |
 | License route | 《保险业法》下的损害保险公司；FSA 非寿险公司名单 |
 | Protection scheme | Non-Life Insurance Policyholders Protection Corporation member |
-| Group boundary | [[au-fh]] + [[aioi-nissay-dowa-insurance]] shareholder / business adjacency |
+| Group boundary | [[megabanks/au-fh]] + [[non-life-insurers/aioi-nissay-dowa-insurance]] shareholder / business adjacency |
 
 ## 2. Operating model
 
@@ -35,14 +35,14 @@ au损保是拥有 mobile carrier ecosystem、app / web distribution、travel / b
 ## 3. Why this page matters
 
 - 增加 KDDI / au 非寿险运营公司边界。
-- 可用于将电信金融保险与 [[sony-insurance]]、[[sbi-insurance]] 和 [[rakuten-general-insurance]] 比较。
+- 可用于将电信金融保险与 [[non-life-insurers/sony-insurance]]、[[non-life-insurers/sbi-insurance]] 和 [[non-life-insurers/rakuten-general-insurance]] 比较。
 - Registry-backed D4 direct / digital non-life page.
 
 ## Related
 
-- [[au-fh]]
-- [[aioi-nissay-dowa-insurance]]
-- [[lifenet]]
+- [[megabanks/au-fh]]
+- [[non-life-insurers/aioi-nissay-dowa-insurance]]
+- [[life-insurers/lifenet]]
 - [[insurance/INDEX]]
 - [[retail/INDEX]]
 

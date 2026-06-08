@@ -23,8 +23,8 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 - What share of Aichi CGC's guarantee balance is automotive-supply-chain SMEs (Tier-2/3/4) vs. non-automotive (services, retail, ceramics, agriculture)?
 - How are ICE-vs-EV supplier guarantee profiles diverging in subrogation rate and 経営革新保証 utilization?
 - What was the ultimate subrogation loss profile from Aichi's 2020-vintage ZeroZero loans through full payoff in 2026–2028?
-- How does Aichi CGC's 事業承継保証 product interact with [[JapanFG/jfc|JFC]] succession-finance products and private-equity-backed supplier M&A?
-- What share of [[JapanFG/aichi-bank|Aichi Bank]] and [[JapanFG/aichi-fg|Aichi FG]] SME book carries Aichi CGC guarantee backing?
+- How does Aichi CGC's 事業承継保証 product interact with [[financial-regulators/jfc|JFC]] succession-finance products and private-equity-backed supplier M&A?
+- What share of [[regional-banks/aichi-bank|Aichi Bank]] and [[regional-banks/aichi-fg|Aichi FG]] SME book carries Aichi CGC guarantee backing?
 - How are Aichi's ceramic-industry SMEs (Seto / Tokoname) tracked separately within the guarantee book given their distinct cycle from automotive?
 - What is the operational interaction between Aichi CGC and the federation reinsurance layer when subrogation spikes during Toyota production-cut quarters?
 - How does the Mikawa-vs-Owari geographic split show up in 創業保証 utilization (presumably skewed toward Nagoya / Owari urban-startup activity)?

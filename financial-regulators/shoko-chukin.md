@@ -91,7 +91,7 @@ This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]].
 
 | 競合先 | 重なる領域 |
 |---|---|
-| メガバンク ([[mufg]] / [[smfg]] / [[mizuho-fg]]) | 中堅企業融資・海外進出支援 |
+| メガバンク ([[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]]) | 中堅企業融資・海外進出支援 |
 | 地方銀行 | 地域中小企業融資・事業承継 |
 | 信金中央金庫・信用金庫 | 中小企業組合・零細企業融資 |
 | [[financial-regulators/jfc|日本政策金融公庫 (JFC)]] | 危機対応融資・政策金融領域 |
@@ -108,8 +108,8 @@ This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]].
 
 ## Related
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] (中小企業融資マーケットでの競合)
-- [[ndfg]] (地方系金融グループ・中小企業密着)
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] (中小企業融資マーケットでの競合)
+- [[megabanks/ndfg]] (地方系金融グループ・中小企業密着)
 - [[financial-regulators/jfc|日本政策金融公庫 (JFC)]] (政策金融・危機対応融資の指定金融機関ピア)
 - ※ 信金中央金庫の wiki は未整備
 

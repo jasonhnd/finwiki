@@ -12,7 +12,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## 推論 (from TL;DR)
 
-ハナ信用組合は、東京都渋谷区千駄ヶ谷に本店を置く **在日韓国・朝鮮人を組合員基盤とする民族系信用組合**で、**朝銀系信用組合の再編後の受け皿信組**として 2000 年代以降の信組危機後に発足した経緯を持つ ^[inferred]。FSA registry No. 53 (関東財務局所管)、法人番号 4011005001243。商号「ハナ (HANA)」は朝鮮語で「一つ・統合」を意味し、複数の旧朝銀信組の事業統合を象徴する命名 ^[inferred]。[[JapanFG/zenshin-kumi|全国信用協同組合連合会 (全信組連)]] 会員、[[JapanFG/dic|預金保険機構]] 対象。首都圏在日コリアンコミュニティの SME 融資・住宅ローン・跨境送金・コミュニティ金融が事業の中核。^[extracted]
+ハナ信用組合は、東京都渋谷区千駄ヶ谷に本店を置く **在日韓国・朝鮮人を組合員基盤とする民族系信用組合**で、**朝銀系信用組合の再編後の受け皿信組**として 2000 年代以降の信組危機後に発足した経緯を持つ ^[inferred]。FSA registry No. 53 (関東財務局所管)、法人番号 4011005001243。商号「ハナ (HANA)」は朝鮮語で「一つ・統合」を意味し、複数の旧朝銀信組の事業統合を象徴する命名 ^[inferred]。[[cooperative-banks/zenshin-kumi|全国信用協同組合連合会 (全信組連)]] 会員、[[financial-regulators/dic|預金保険機構]] 対象。首都圏在日コリアンコミュニティの SME 融資・住宅ローン・跨境送金・コミュニティ金融が事業の中核。^[extracted]
 
 ## 推論 (from 営業地区 ^[inferred])
 
@@ -73,8 +73,8 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 | 系統 | 主要信組 |
 |---|---|
-| **商銀系** | [[JapanFG/osaka-shogin-shinkumi|大阪商銀信用組合]]、[[JapanFG/aichi-shogin-shinkumi|信用組合愛知商銀]]、信用組合広島商銀、宿毛商銀信用組合、朝銀西信用組合等 |
-| **幸銀系** | [[JapanFG/yokohama-kogin-shinkumi|横浜幸銀信用組合]] |
+| **商銀系** | [[cooperative-banks/osaka-shogin-shinkumi|大阪商銀信用組合]]、[[cooperative-banks/aichi-shogin-shinkumi|信用組合愛知商銀]]、信用組合広島商銀、宿毛商銀信用組合、朝銀西信用組合等 |
+| **幸銀系** | [[cooperative-banks/yokohama-kogin-shinkumi|横浜幸銀信用組合]] |
 | **旧朝銀系** | **ハナ信用組合** ★本ページ、朝銀西信用組合 (岡山)、ウリ信用組合 (北海道)、ミレ信用組合 (大阪) ほか |
 
 ### 朝銀危機の規模 ^[inferred]
@@ -88,6 +88,6 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 組合員 (在日コリアン商工人・世帯 + 関連事業者)
   → 預金 → ハナ信用組合
               → 首都圏 SME 融資 + 住宅ローン
-              → 余資預け入れ → [[JapanFG/zenshin-kumi|全信組連]]
+              → 余資預け入れ → [[cooperative-banks/zenshin-kumi|全信組連]]
                                   → 機関投資 + 系統還元
 ```

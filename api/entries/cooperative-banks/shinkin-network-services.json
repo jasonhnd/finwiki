@@ -73,9 +73,9 @@
       "cooperative-banks/shinkin-central",
       "cooperative-banks/yokohama-shinkin",
       "financial-regulators/zenshin-kyo",
-      "mizuho-fg",
-      "mufg",
-      "smfg"
+      "megabanks/mizuho-fg",
+      "megabanks/mufg",
+      "megabanks/smfg"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/banking/INDEX",
@@ -91,17 +91,17 @@
       "https://finwiki.zksc.io/cooperative-banks/shinkin-central",
       "https://finwiki.zksc.io/cooperative-banks/yokohama-shinkin",
       "https://finwiki.zksc.io/financial-regulators/zenshin-kyo",
-      "https://finwiki.zksc.io/mizuho-fg",
-      "https://finwiki.zksc.io/mufg",
-      "https://finwiki.zksc.io/smfg"
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/smfg"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5363,
-    "word_like_tokens": 719,
+    "nonspace_chars": 5403,
+    "word_like_tokens": 723,
     "inbound_wikilinks_count": 6,
-    "last_modified": "2026-06-06"
+    "last_modified": "2026-06-08"
   }
 }

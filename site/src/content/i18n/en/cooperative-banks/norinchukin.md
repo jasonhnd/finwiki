@@ -114,9 +114,9 @@ Norinchukin Bank (head office: Yurakucho, Tokyo)
 
 ### Competitive position
 
-- **Compared with megabanks, [[mufg]] / [[smfg]] / [[mizuho-fg]]**: commercial banking operations are limited; the core is cooperative finance plus institutional investment.
-- **Compared with life insurers, [[nippon-life]] / [[dai-ichi-life]]**: similar as an institutional investor and comparable in asset-management scale.
-- **Compared with policy financial institutions, [[jfc]] / [[dbj]]**: partly competes with or complements lending to agriculture, forestry, and fisheries.
+- **Compared with megabanks, [[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]]**: commercial banking operations are limited; the core is cooperative finance plus institutional investment.
+- **Compared with life insurers, [[life-insurers/nippon-life]] / [[life-insurers/dai-ichi-life]]**: similar as an institutional investor and comparable in asset-management scale.
+- **Compared with policy financial institutions, [[financial-regulators/jfc]] / [[financial-regulators/dbj]]**: partly competes with or complements lending to agriculture, forestry, and fisheries.
 
 ## 4. Regulation / policy
 
@@ -134,9 +134,9 @@ Norinchukin Bank (head office: Yurakucho, Tokyo)
 
 ## Related
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[ndfg]] · [[resona-hd]]
-- [[jfc]] · [[dbj]] · [[sumitomo-mitsui-trust]]
-- [[nippon-life]] · [[dai-ichi-life]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[megabanks/ndfg]] · [[megabanks/resona-hd]]
+- [[financial-regulators/jfc]] · [[financial-regulators/dbj]] · [[trust-banks/sumitomo-mitsui-trust]]
+- [[life-insurers/nippon-life]] · [[life-insurers/dai-ichi-life]]
 - [[banking/ja-bank-system-japan]]
 - [[banking/jf-marine-bank-system-japan]]
 - [[banking/cooperative-banking-japan]]

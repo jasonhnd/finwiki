@@ -58,7 +58,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## 推論 — 銀行 / 保険 / 証券（旧 本文）
 
-- **大手証券・運用** — [[JapanFG/nomura-hd]] グループ周辺 / 大手証券会社の一部 ^[ambiguous]（具体的監査関与を示す一次ソース未確認）
+- **大手証券・運用** — [[securities-firms/nomura-hd]] グループ周辺 / 大手証券会社の一部 ^[ambiguous]（具体的監査関与を示す一次ソース未確認）
 
 ## 推論 — 主要 listed FG クライアント関係（旧 4 節）
 

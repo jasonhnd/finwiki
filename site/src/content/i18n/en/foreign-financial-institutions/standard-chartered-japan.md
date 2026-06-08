@@ -15,7 +15,7 @@ This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-i
 
 ## TL;DR
 
-This is the Japan base of the UK's Standard Chartered PLC, headquartered in London and listed on LSE: STAN / HKSE: 2888  / a FTSE 100  constituent. Its strategy differs sharply from global-universal-bank peers such as [[hsbc-japan]] and [[citigroup-japan]] because **its business is concentrated in Asia, the Middle East, and Africa (AMEA) emerging markets**. In Japan it has a long history dating back to the 1880 年s, but it does not operate retail banking and is **corporate-only**. Its niche position is to provide correspondent banking, transaction banking, and trade-finance functions for Japanese banks and companies headed to emerging markets where Japanese banks find it hard to maintain their own direct networks, especially South Asia, Southeast Asia, the Middle East, and Africa. ^[extracted]
+This is the Japan base of the UK's Standard Chartered PLC, headquartered in London and listed on LSE: STAN / HKSE: 2888  / a FTSE 100  constituent. Its strategy differs sharply from global-universal-bank peers such as [[foreign-financial-institutions/hsbc-japan]] and [[foreign-financial-institutions/citigroup-japan]] because **its business is concentrated in Asia, the Middle East, and Africa (AMEA) emerging markets**. In Japan it has a long history dating back to the 1880 年s, but it does not operate retail banking and is **corporate-only**. Its niche position is to provide correspondent banking, transaction banking, and trade-finance functions for Japanese banks and companies headed to emerging markets where Japanese banks find it hard to maintain their own direct networks, especially South Asia, Southeast Asia, the Middle East, and Africa. ^[extracted]
 
 ## 1. Company profile
 
@@ -62,13 +62,13 @@ This is the Japan base of the UK's Standard Chartered PLC, headquartered in Lond
 
 ### Unique position of the parent PLC
 
-- A strategy axis different from other large foreign megabanks, namely an "**Asia, Middle East, and Africa-focused global bank**", unlike peers whose parents are [[hsbc-japan]] HSBC / [[citigroup-japan]] Citigroup / JPMorgan / BNP Paribas ^[extracted].
+- A strategy axis different from other large foreign megabanks, namely an "**Asia, Middle East, and Africa-focused global bank**", unlike peers whose parents are [[foreign-financial-institutions/hsbc-japan]] HSBC / [[foreign-financial-institutions/citigroup-japan]] Citigroup / JPMorgan / BNP Paribas ^[extracted].
 - Local presence dating back roughly 170  years, rooted in the former British Empire trade network of India / Hong Kong / Singapore / South Africa / UAE.
 - No retail expansion in North America or continental Western Europe, concentrating capital and talent in AMEA.
 
 ### Competition and segmentation in Japan
 
-- **Competitors**: [[hsbc-japan]], a UK peer with a similar strategy but broader global reach; [[citigroup-japan]], a U.S. bank with some Japan wealth retail exposure; and foreign corporate banks such as Deutsche Bank, BNP Paribas Tokyo, and JPMorgan Tokyo.
+- **Competitors**: [[foreign-financial-institutions/hsbc-japan]], a UK peer with a similar strategy but broader global reach; [[foreign-financial-institutions/citigroup-japan]], a U.S. bank with some Japan wealth retail exposure; and foreign corporate banks such as Deutsche Bank, BNP Paribas Tokyo, and JPMorgan Tokyo.
 - **Differentiation**: AMEA concentration, especially a presence in **Africa and South Asia stronger than other foreign banks** ^[extracted].
 - **Relationship with Japanese banks**: Complementary rather than directly competitive, providing infrastructure to Japanese banks.
 
@@ -78,9 +78,9 @@ This is the Japan base of the UK's Standard Chartered PLC, headquartered in Lond
 
 ## Related
 
-- [[hsbc-japan]] · [[citigroup-japan]] (foreign-bank peers in Japan)
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] (Japanese megabanks and correspondent counterparties)
-- [[ndfg]] · [[sbi-hd]]
+- [[foreign-financial-institutions/hsbc-japan]] · [[foreign-financial-institutions/citigroup-japan]] (foreign-bank peers in Japan)
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] (Japanese megabanks and correspondent counterparties)
+- [[megabanks/ndfg]] · [[megabanks/sbi-hd]]
 
 ## Sources
 

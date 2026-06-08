@@ -46,16 +46,16 @@ The FSA list is the primary license source, while JBA's bank database provides t
 ## 3. Why this page matters
 
 - Adds one of the five Korean FSA foreign-bank branch rows to JapanFG.
-- Supports Korea-Japan banking corridor analysis beside [[hana-bank-japan]], [[korea-development-bank-japan]], [[industrial-bank-of-korea-japan]], and [[kb-kookmin-bank-japan]].
-- Keeps Korean branch banks separate from [[sbj-bank]], which is a Japan bank subsidiary route.
+- Supports Korea-Japan banking corridor analysis beside [[foreign-financial-institutions/hana-bank-japan]], [[foreign-financial-institutions/korea-development-bank-japan]], [[foreign-financial-institutions/industrial-bank-of-korea-japan]], and [[foreign-financial-institutions/kb-kookmin-bank-japan]].
+- Keeps Korean branch banks separate from [[regional-banks/sbj-bank]], which is a Japan bank subsidiary route.
 
 ## Related
 
-- [[hana-bank-japan]]
-- [[korea-development-bank-japan]]
-- [[industrial-bank-of-korea-japan]]
-- [[kb-kookmin-bank-japan]]
-- [[sbj-bank]]
+- [[foreign-financial-institutions/hana-bank-japan]]
+- [[foreign-financial-institutions/korea-development-bank-japan]]
+- [[foreign-financial-institutions/industrial-bank-of-korea-japan]]
+- [[foreign-financial-institutions/kb-kookmin-bank-japan]]
+- [[regional-banks/sbj-bank]]
 - [[banking/foreign-bank-japan-retreat]]
 
 ## Sources

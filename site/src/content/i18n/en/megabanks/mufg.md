@@ -174,7 +174,7 @@ MUFG (holding company / listed 8306)
 - **Japan Digital Design** (established 2017-10-02): fintech subsidiary.
 - **Global Open Network Japan** (JV with Akamai in 2019-04  -> closure in 2022-02 ): failed blockchain-settlement initiative.
 - **MUFG x Google strategic alliance** (2026-05-07) ★: personal financial-service AI agent, practical-use target during 2026 年 ^[extracted]
-- **Progmat Coin**: stablecoin infrastructure led by MUFG, with [[smfg]] and others participating.
+- **Progmat Coin**: stablecoin infrastructure led by MUFG, with [[megabanks/smfg]] and others participating.
 
 ### Alliance / acquisition strategy
 
@@ -326,7 +326,7 @@ List of public actions, fines, consent orders, and similar measures by major dom
 
 ## Related
 
-- [[smfg]] · [[mizuho-fg]] · [[ndfg]] · [[sbi-hd]] · [[paypay-fg]]
+- [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[megabanks/ndfg]] · [[megabanks/sbi-hd]] · [[megabanks/paypay-fg]]
 - [[banking/mercari-bank-license-stack]] · [[banking/minna-bank-baas-model]]
 
 ## Sources

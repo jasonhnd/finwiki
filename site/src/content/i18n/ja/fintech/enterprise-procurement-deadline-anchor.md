@@ -78,8 +78,8 @@ Q3-Q4 [年 N+1] = 評価 + [年 N+2] をロック
 
 ## 関連
 
-- [[regulatory-window-strategic-acquisition|規制ウィンドウ前の戦略的買収]]
-- [[protocol-renewal-trigger-as-event-anchor|契約更新トリガー]]
-- [[central-banking-function-unbundling|中央銀行機能の解体五層]]
+- [[fintech/regulatory-window-strategic-acquisition|規制ウィンドウ前の戦略的買収]]
+- [[fintech/protocol-renewal-trigger-as-event-anchor|契約更新トリガー]]
+- [[fintech/central-banking-function-unbundling|中央銀行機能の解体五層]]
 
 ---

@@ -54,38 +54,36 @@
     "4. 規制と政策"
   ],
   "body_links": {
-    "wikilinks_count": 10,
+    "wikilinks_count": 9,
     "wikilinks": [
-      "aflac-japan",
-      "axa-japan",
       "banking/INDEX",
-      "kyoritsu-fire-marine",
+      "life-insurers/aflac-japan",
       "life-insurers/axa-japan",
+      "life-insurers/prudential-japan",
       "non-life-insurers/INDEX",
+      "non-life-insurers/kyoritsu-fire-marine",
       "non-life-insurers/msad",
       "non-life-insurers/sompo",
-      "prudential-japan",
-      "tokio-marine"
+      "non-life-insurers/tokio-marine"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/aflac-japan",
-      "https://finwiki.zksc.io/axa-japan",
       "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/kyoritsu-fire-marine",
+      "https://finwiki.zksc.io/life-insurers/aflac-japan",
       "https://finwiki.zksc.io/life-insurers/axa-japan",
+      "https://finwiki.zksc.io/life-insurers/prudential-japan",
       "https://finwiki.zksc.io/non-life-insurers/INDEX",
+      "https://finwiki.zksc.io/non-life-insurers/kyoritsu-fire-marine",
       "https://finwiki.zksc.io/non-life-insurers/msad",
       "https://finwiki.zksc.io/non-life-insurers/sompo",
-      "https://finwiki.zksc.io/prudential-japan",
-      "https://finwiki.zksc.io/tokio-marine"
+      "https://finwiki.zksc.io/non-life-insurers/tokio-marine"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3762,
-    "word_like_tokens": 623,
+    "nonspace_chars": 3928,
+    "word_like_tokens": 648,
     "inbound_wikilinks_count": 16,
-    "last_modified": "2026-06-06"
+    "last_modified": "2026-06-08"
   }
 }

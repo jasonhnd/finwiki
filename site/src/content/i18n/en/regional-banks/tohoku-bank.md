@@ -16,7 +16,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-Tohoku Bank, Ltd. is a regional bank with its main branch in Morioka City, Iwate Prefecture, listed on the Financial Services Agency's list of bank licenses. Although it has the same Iwate base as [[iwate-bank]], Tohoku Bank treats it as an independent licensed regional bank operating company. The basic business integration agreement with [[fidea-hd]] was canceled in 2022-02 , so it is not a bank affiliated with Fidea.
+Tohoku Bank, Ltd. is a regional bank with its main branch in Morioka City, Iwate Prefecture, listed on the Financial Services Agency's list of bank licenses. Although it has the same Iwate base as [[regional-banks/iwate-bank]], Tohoku Bank treats it as an independent licensed regional bank operating company. The basic business integration agreement with [[regional-banks/fidea-hd]] was canceled in 2022-02 , so it is not a bank affiliated with Fidea.
 
 ## 1. License / group boundary
 
@@ -24,23 +24,23 @@ Tohoku Bank, Ltd. is a regional bank with its main branch in Morioka City, Iwate
 |---|---|
 | Legal name | Tohoku Bank, Ltd. |
 | License route | Banking Act regional bank; FSA bank license list |
-| Group boundary | Independent listed regional bank; not a [[fidea-hd]] operating bank |
+| Group boundary | Independent listed regional bank; not a [[regional-banks/fidea-hd]] operating bank |
 | Home market | Iwate / Morioka |
 | Wiki role | Iwate regional-bank operating-company page |
 
 ## 2. Operating model
 
-Tohoku Bank is a regional bank responsible for retail, SME, primary-industry finance, municipal finance, and local business succession support in Iwate Prefecture. In Iwate Prefecture, [[iwate-bank]] is strong as the prefecture's No. 1 regional bank, but Tohoku Bank will be a separate channel for prefecture SME finance and community-based finance. For Tohoku regional-bank consolidation context, see [[banking/regional-bank-consolidation-pattern]].
+Tohoku Bank is a regional bank responsible for retail, SME, primary-industry finance, municipal finance, and local business succession support in Iwate Prefecture. In Iwate Prefecture, [[regional-banks/iwate-bank]] is strong as the prefecture's No. 1 regional bank, but Tohoku Bank will be a separate channel for prefecture SME finance and community-based finance. For Tohoku regional-bank consolidation context, see [[banking/regional-bank-consolidation-pattern]].
 
 ## 3. Boundary note
 
-Business integration talks with [[fidea-hd]] were announced for 2021 年, but the basic agreement was canceled for 2022-02 . Therefore, this wiki distinguishes Tohoku Bank as an independent regional-bank operating company rather than a Fidea planned subsidiary.
+Business integration talks with [[regional-banks/fidea-hd]] were announced for 2021 年, but the basic agreement was canceled for 2022-02 . Therefore, this wiki distinguishes Tohoku Bank as an independent regional-bank operating company rather than a Fidea planned subsidiary.
 
 ## Related
 
--[[iwate-bank]]
--[[kita-nippon-bank]]
--[[fidea-hd]]
+-[[regional-banks/iwate-bank]]
+-[[regional-banks/kita-nippon-bank]]
+-[[regional-banks/fidea-hd]]
 -[[banking/INDEX]]
 
 ## Sources

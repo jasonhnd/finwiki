@@ -51,36 +51,36 @@
   "body_links": {
     "wikilinks_count": 10,
     "wikilinks": [
-      "au-fh",
       "fintech/japan-stablecoin-regulatory-landscape",
-      "gmo-aozora-net",
-      "mizuho-fg",
-      "mufg",
-      "ndfg",
+      "megabanks/au-fh",
+      "megabanks/mizuho-fg",
+      "megabanks/mufg",
+      "megabanks/ndfg",
+      "megabanks/paypay-fg",
+      "megabanks/smfg",
       "payment-firms/INDEX",
-      "payment-firms/money-forward",
-      "paypay-fg",
-      "smfg"
+      "payment-firms/gmo-aozora-net",
+      "payment-firms/money-forward"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/au-fh",
       "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
-      "https://finwiki.zksc.io/gmo-aozora-net",
-      "https://finwiki.zksc.io/mizuho-fg",
-      "https://finwiki.zksc.io/mufg",
-      "https://finwiki.zksc.io/ndfg",
+      "https://finwiki.zksc.io/megabanks/au-fh",
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/ndfg",
+      "https://finwiki.zksc.io/megabanks/paypay-fg",
+      "https://finwiki.zksc.io/megabanks/smfg",
       "https://finwiki.zksc.io/payment-firms/INDEX",
-      "https://finwiki.zksc.io/payment-firms/money-forward",
-      "https://finwiki.zksc.io/paypay-fg",
-      "https://finwiki.zksc.io/smfg"
+      "https://finwiki.zksc.io/payment-firms/gmo-aozora-net",
+      "https://finwiki.zksc.io/payment-firms/money-forward"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4544,
-    "word_like_tokens": 736,
-    "inbound_wikilinks_count": 9,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 4668,
+    "word_like_tokens": 749,
+    "inbound_wikilinks_count": 12,
+    "last_modified": "2026-06-08"
   }
 }

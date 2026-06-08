@@ -51,36 +51,32 @@
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 9,
+    "wikilinks_count": 7,
     "wikilinks": [
       "financial-regulators/INDEX",
       "financial-regulators/nippon-kaiji-kyokai",
       "insurance/INDEX",
-      "mitsui-sumitomo-insurance",
-      "nippon-kaiji-kyokai",
+      "non-life-insurers/mitsui-sumitomo-insurance",
+      "non-life-insurers/sompo-japan-insurance",
       "non-life-insurers/toa-reinsurance",
-      "sompo-japan-insurance",
-      "toa-reinsurance",
-      "tokio-marine-nichido-fire"
+      "non-life-insurers/tokio-marine-nichido-fire"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/financial-regulators/INDEX",
       "https://finwiki.zksc.io/financial-regulators/nippon-kaiji-kyokai",
       "https://finwiki.zksc.io/insurance/INDEX",
-      "https://finwiki.zksc.io/mitsui-sumitomo-insurance",
-      "https://finwiki.zksc.io/nippon-kaiji-kyokai",
+      "https://finwiki.zksc.io/non-life-insurers/mitsui-sumitomo-insurance",
+      "https://finwiki.zksc.io/non-life-insurers/sompo-japan-insurance",
       "https://finwiki.zksc.io/non-life-insurers/toa-reinsurance",
-      "https://finwiki.zksc.io/sompo-japan-insurance",
-      "https://finwiki.zksc.io/toa-reinsurance",
-      "https://finwiki.zksc.io/tokio-marine-nichido-fire"
+      "https://finwiki.zksc.io/non-life-insurers/tokio-marine-nichido-fire"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2521,
-    "word_like_tokens": 411,
+    "nonspace_chars": 2614,
+    "word_like_tokens": 425,
     "inbound_wikilinks_count": 9,
-    "last_modified": "2026-06-06"
+    "last_modified": "2026-06-08"
   }
 }

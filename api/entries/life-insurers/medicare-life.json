@@ -51,30 +51,30 @@
   "body_links": {
     "wikilinks_count": 7,
     "wikilinks": [
-      "hanasaku-life",
       "insurance/INDEX",
       "insurance/life-insurance-channel-mix",
       "life-insurers/INDEX",
       "life-insurers/dai-ichi-frontier-life",
-      "nanairo-life",
-      "sumitomo-life"
+      "life-insurers/hanasaku-life",
+      "life-insurers/nanairo-life",
+      "life-insurers/sumitomo-life"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/hanasaku-life",
       "https://finwiki.zksc.io/insurance/INDEX",
       "https://finwiki.zksc.io/insurance/life-insurance-channel-mix",
       "https://finwiki.zksc.io/life-insurers/INDEX",
       "https://finwiki.zksc.io/life-insurers/dai-ichi-frontier-life",
-      "https://finwiki.zksc.io/nanairo-life",
-      "https://finwiki.zksc.io/sumitomo-life"
+      "https://finwiki.zksc.io/life-insurers/hanasaku-life",
+      "https://finwiki.zksc.io/life-insurers/nanairo-life",
+      "https://finwiki.zksc.io/life-insurers/sumitomo-life"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1896,
-    "word_like_tokens": 285,
-    "inbound_wikilinks_count": 3,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 1994,
+    "word_like_tokens": 299,
+    "inbound_wikilinks_count": 5,
+    "last_modified": "2026-06-08"
   }
 }

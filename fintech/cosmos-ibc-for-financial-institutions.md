@@ -97,8 +97,8 @@ LCP middleware(TEE-based light client)
 - 任何 "金融機関向け cross-chain protocol 選定" 議論
 - Project Pax / mBridge / Project Agorá の技術 stack 評価
 - TD と SC の cross-border 通道設計
-- 信託型 SC を multi-chain で運用する場合の middleware 選択 → [[jp-trust-type-sc-architecture|信託型 SC 架構]]
-- SWIFT API + blockchain settlement パターンの基盤 → [[cross-border-sc-via-swift-api|跨境 SC via SWIFT API]]
+- 信託型 SC を multi-chain で運用する場合の middleware 選択 → [[fintech/jp-trust-type-sc-architecture|信託型 SC 架構]]
+- SWIFT API + blockchain settlement パターンの基盤 → [[fintech/cross-border-sc-via-swift-api|跨境 SC via SWIFT API]]
 
 ---
 

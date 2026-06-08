@@ -30,7 +30,7 @@ American International Group, Inc.（米 NYSE: AIG）
         └── 関連サービス会社（アシスタンス・アジャスター等）
 ```
 
-> 注：生保事業は **2010-03 米 Prudential に売却** されたため、**AIG エジソン生命**・**AIG スター生命** は現在 AIG グループにはなく、**プルデンシャル ジブラルタ ファイナンシャル生命（PGF 生命）** として [[prudential-japan]] 傘下にある。AIG ジャパンを論じるときの最頻出ミスは「AIG 生命」が現存すると誤認することである。
+> 注：生保事業は **2010-03 米 Prudential に売却** されたため、**AIG エジソン生命**・**AIG スター生命** は現在 AIG グループにはなく、**プルデンシャル ジブラルタ ファイナンシャル生命（PGF 生命）** として [[life-insurers/prudential-japan]] 傘下にある。AIG ジャパンを論じるときの最頻出ミスは「AIG 生命」が現存すると誤認することである。
 
 ### 重要な歴史（年表）
 
@@ -40,7 +40,7 @@ American International Group, Inc.（米 NYSE: AIG）
 | 1980 年代 | AIG ジャパン展開拡大（AIU + アリコ + AIG エジソン生命 + AIG スター生命 等の混成グループ形成）|
 | 2008-09 | **リーマンショック → 米 AIG 公的資金救済**（最大 1,820 億ドル規模の連邦支援、CDS エクスポージャー起因）|
 | 2008-2009 | グローバル AIG が非中核事業の売却方針へ転換（資産処分プログラム）|
-| **2010-03** | **米 Prudential Financial が AIG エジソン生命 + AIG スター生命 を買収** → 現在 PGF 生命（[[prudential-japan]] 傘下）|
+| **2010-03** | **米 Prudential Financial が AIG エジソン生命 + AIG スター生命 を買収** → 現在 PGF 生命（[[life-insurers/prudential-japan]] 傘下）|
 | 2010-2017 | 損保事業の段階的再編：旧 AIU 損害保険 + 旧 富士火災海上保険 の統合準備 |
 | **2018-01-01** | **AIU 損害保険 + 富士火災海上保険 合併 → AIG 損害保険株式会社 発足** |
 
@@ -56,7 +56,7 @@ American International Group, Inc.（米 NYSE: AIG）
 
 ### ポジショニング
 
-- **外資系損保の老舗**：1946 年 AIU 進出は **外資系損保で最も早期の本格進出組** の一つ。チャブ（旧エース）/ アクサ損保（[[axa-japan]]）/ アリアンツ等と並ぶ外資系損保陣営。
+- **外資系損保の老舗**：1946 年 AIU 進出は **外資系損保で最も早期の本格進出組** の一つ。チャブ（旧エース）/ アクサ損保（[[life-insurers/axa-japan]]）/ アリアンツ等と並ぶ外資系損保陣営。
 - **海外旅行保険ブランド**：旧 AIU 由来のブランド資産と空港カウンター流通網が依然として強い。
 
 ### グローバル活用
@@ -68,12 +68,12 @@ American International Group, Inc.（米 NYSE: AIG）
 
 | 競合タイプ | 主要競合 |
 |---|---|
-| 国内 3 メガ損保 | [[tokio-marine]] / [[non-life-insurers/msad|ms-and-ad-insurance]] / [[non-life-insurers/sompo|sompo-hd]] |
+| 国内 3 メガ損保 | [[non-life-insurers/tokio-marine]] / [[non-life-insurers/msad|ms-and-ad-insurance]] / [[non-life-insurers/sompo|sompo-hd]] |
 | 法人特殊リスク・D&O | チャブ（旧エース）/ 東京海上日動 / 三井住友海上 / 損保ジャパン |
 | サイバー保険 | チャブ / 東京海上日動 / 三井住友海上 / 損保ジャパン / Beazley 等の外資ロイズ系 |
 | 海外旅行保険 | ジェイアイ傷害火災 / 損保ジャパン / 東京海上日動 |
-| 富裕層特殊 | チャブ / [[axa-japan]] / アリアンツ |
-| 個人ダイレクト | ソニー損保 / セコム損保 / SBI 損保 / [[axa-japan]] アクサ損保 |
+| 富裕層特殊 | チャブ / [[life-insurers/axa-japan]] / アリアンツ |
+| 個人ダイレクト | ソニー損保 / セコム損保 / SBI 損保 / [[life-insurers/axa-japan]] アクサ損保 |
 
 ## 4. 規制と政策
 
@@ -86,10 +86,10 @@ American International Group, Inc.（米 NYSE: AIG）
 
 ## 関連
 
-- [[prudential-japan]]（旧 AIG エジソン生命 + AIG スター生命 の現所属先）
-- [[axa-japan]] · [[aflac-japan]]（外資系生損保陣営）
-- [[tokio-marine]] · [[non-life-insurers/msad|ms-and-ad-insurance]] · [[non-life-insurers/sompo|sompo-hd]]（国内 3 メガ損保競合）
-- [[kyoritsu-fire-marine]]（中堅損保比較対象）
+- [[life-insurers/prudential-japan]]（旧 AIG エジソン生命 + AIG スター生命 の現所属先）
+- [[life-insurers/axa-japan]] · [[life-insurers/aflac-japan]]（外資系生損保陣営）
+- [[non-life-insurers/tokio-marine]] · [[non-life-insurers/msad|ms-and-ad-insurance]] · [[non-life-insurers/sompo|sompo-hd]]（国内 3 メガ損保競合）
+- [[non-life-insurers/kyoritsu-fire-marine]]（中堅損保比較対象）
 
 ## 出典
 

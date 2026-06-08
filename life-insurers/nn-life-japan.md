@@ -38,7 +38,7 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 
 ## 2. Operating model
 
-NN生命は、外資系 life insurer の日本 operating company として、法人・事業主向け保険、死亡保障、医療・収入保障などの product / distribution boundary を持つ。FinWiki では、[[aflac-japan]]、[[metlife-japan]]、[[manulife-japan]]、[[prudential-japan]] などの foreign-affiliated life insurers と並べて比較する。
+NN生命は、外資系 life insurer の日本 operating company として、法人・事業主向け保険、死亡保障、医療・収入保障などの product / distribution boundary を持つ。FinWiki では、[[life-insurers/aflac-japan]]、[[life-insurers/metlife-japan]]、[[life-insurers/manulife-japan]]、[[life-insurers/prudential-japan]] などの foreign-affiliated life insurers と並べて比較する。
 
 外資系 insurer のページでは、親会社国籍よりも、日本国内での免許、販売チャネル、商品領域、代理店 / financial advisor network の違いを優先して見る。
 
@@ -50,11 +50,11 @@ NN生命は、外資系 life insurer の日本 operating company として、法
 
 ## Related
 
-- [[aflac-japan]]
-- [[metlife-japan]]
-- [[manulife-japan]]
-- [[prudential-japan]]
-- [[axa-japan]]
+- [[life-insurers/aflac-japan]]
+- [[life-insurers/metlife-japan]]
+- [[life-insurers/manulife-japan]]
+- [[life-insurers/prudential-japan]]
+- [[life-insurers/axa-japan]]
 - [[insurance/life-insurance-channel-mix]]
 
 ## Sources

@@ -21,7 +21,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 ## Open questions
 
 - Will the 2025 dポイントクラブ rank reform achieve its strategic goal of materially increasing d払い MAU and TPV share against PayPay?
-- How will the [[JapanFG/ndfg|NDFG]] consolidation announce dポイント's role as a cross-product loyalty currency — will the rank system extend to bank / securities / insurance / trust products inside NDFG?
+- How will the [[megabanks/ndfg|NDFG]] consolidation announce dポイント's role as a cross-product loyalty currency — will the rank system extend to bank / securities / insurance / trust products inside NDFG?
 - Does the partnership with **Lawson** survive at parity with Pontaポイント, or does dポイント lose retail surface progressively as KDDI integrates Ponta into Lawson's POS strategy?
 - How does d Card GOLD's economic break-even change if docomo mobile prices continue downward pressure from MVNO competition?
 - Will dスマートバンク (the digital-bank brand) merge into a renamed bank vehicle under NDFG, and does dポイント accrual extend to deposit / lending / NISA products?

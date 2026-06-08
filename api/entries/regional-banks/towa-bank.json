@@ -51,42 +51,40 @@
     "営業エリア地理"
   ],
   "body_links": {
-    "wikilinks_count": 12,
+    "wikilinks_count": 11,
     "wikilinks": [
       "banking/INDEX",
-      "fidea-hd",
-      "gunma-bank",
-      "jimoto-hd",
-      "mebuki-fg",
-      "mizuho-fg",
-      "mufg",
-      "proclair-hd",
+      "megabanks/mizuho-fg",
+      "megabanks/mufg",
+      "megabanks/smfg",
       "regional-banks/INDEX",
+      "regional-banks/fidea-hd",
+      "regional-banks/gunma-bank",
       "regional-banks/jimoto-hd",
-      "smfg",
-      "tomony-hd"
+      "regional-banks/mebuki-fg",
+      "regional-banks/proclair-hd",
+      "regional-banks/tomony-hd"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/fidea-hd",
-      "https://finwiki.zksc.io/gunma-bank",
-      "https://finwiki.zksc.io/jimoto-hd",
-      "https://finwiki.zksc.io/mebuki-fg",
-      "https://finwiki.zksc.io/mizuho-fg",
-      "https://finwiki.zksc.io/mufg",
-      "https://finwiki.zksc.io/proclair-hd",
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/smfg",
       "https://finwiki.zksc.io/regional-banks/INDEX",
+      "https://finwiki.zksc.io/regional-banks/fidea-hd",
+      "https://finwiki.zksc.io/regional-banks/gunma-bank",
       "https://finwiki.zksc.io/regional-banks/jimoto-hd",
-      "https://finwiki.zksc.io/smfg",
-      "https://finwiki.zksc.io/tomony-hd"
+      "https://finwiki.zksc.io/regional-banks/mebuki-fg",
+      "https://finwiki.zksc.io/regional-banks/proclair-hd",
+      "https://finwiki.zksc.io/regional-banks/tomony-hd"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4084,
-    "word_like_tokens": 607,
-    "inbound_wikilinks_count": 0,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 4474,
+    "word_like_tokens": 655,
+    "inbound_wikilinks_count": 2,
+    "last_modified": "2026-06-08"
   }
 }

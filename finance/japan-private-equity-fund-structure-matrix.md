@@ -8,7 +8,7 @@ aliases:
   - "Japan buyout growth secondaries infra credit"
   - "Japan PE LP fund vehicle comparison"
   - "日本プライベートエクイティファンドストラクチャー"
-  - "asset-management/cvc-japan-landscape"
+  - "asset-managers/cvc-japan-landscape"
 domain: finance
 created: 2026-05-25
 last_updated: 2026-05-25

@@ -16,7 +16,7 @@ The legal-form mapping replaces a previously messy practice where SC-like produc
 
 ## 推論 (from Why Progmat anchors the institutional rails)
 
-[[JapanFG/progmat|株式会社Progmat]] became an independent company on **2023-10-02**, separating from [[JapanFG/mitsubishi-ufj-trust-bank|MUFG Trust]] internal-project status. Its shareholder structure brings together MUFG-group institutions plus NTT Data, [[JapanFG/japan-exchange-group|JPX]], and others; participating banks include not only [[JapanFG/mufg|MUFG]] but also other megabanks and regionals. ^[inferred] The platform's role is technology and operating-rail provision, **not** issuer status — the issuer role sits with trust banks under the 信託型 EPI regime.
+[[payment-firms/progmat|株式会社Progmat]] became an independent company on **2023-10-02**, separating from [[trust-banks/mitsubishi-ufj-trust-bank|MUFG Trust]] internal-project status. Its shareholder structure brings together MUFG-group institutions plus NTT Data, [[financial-regulators/japan-exchange-group|JPX]], and others; participating banks include not only [[megabanks/mufg|MUFG]] but also other megabanks and regionals. ^[inferred] The platform's role is technology and operating-rail provision, **not** issuer status — the issuer role sits with trust banks under the 信託型 EPI regime.
 
 ## 推論 (from Why platform-provider ≠ issuer)
 

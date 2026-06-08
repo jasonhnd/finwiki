@@ -15,7 +15,7 @@ translated_at: 2026-06-02T15:14:17.120Z
 
 ## 要約
 
-株式会社静岡銀行は、金融庁の銀行免許一覧に掲載される静岡県本店の地方銀行。[[shizuoka-fg]] の中核事業銀行であり、静岡県内の地方銀行カバレッジの基準アンカーになる。
+株式会社静岡銀行は、金融庁の銀行免許一覧に掲載される静岡県本店の地方銀行。[[regional-banks/shizuoka-fg]] の中核事業銀行であり、静岡県内の地方銀行カバレッジの基準アンカーになる。
 
 ## 1. ライセンス・グループ境界
 
@@ -23,7 +23,7 @@ translated_at: 2026-06-02T15:14:17.120Z
 |---|---|
 | 正式名 | 株式会社静岡銀行 |
 | ライセンス経路 | 銀行法上の地方銀行。金融庁の銀行免許一覧に掲載 |
-| グループ境界 | [[shizuoka-fg]] の中核事業銀行 |
+| グループ境界 | [[regional-banks/shizuoka-fg]] の中核事業銀行 |
 | 地盤市場 | 静岡県 / 静岡市 |
 | ウィキ上の役割 | 静岡の地方銀行事業会社ページ |
 
@@ -34,15 +34,15 @@ translated_at: 2026-06-02T15:14:17.120Z
 ## 3. このページが重要な理由
 
 - 静岡銀行という正確な事業会社名の欠落を埋める。
-- [[shizuoka-fg]] と、その銀行免許を持つ事業子会社を切り分ける。
-- [[suruga-bank]]、[[shimizu-bank]]、[[shizuoka-chuo-bank]] の比較アンカーを提供する。
+- [[regional-banks/shizuoka-fg]] と、その銀行免許を持つ事業子会社を切り分ける。
+- [[regional-banks/suruga-bank]]、[[regional-banks/shimizu-bank]]、[[regional-banks/shizuoka-chuo-bank]] の比較アンカーを提供する。
 
 ## 関連項目
 
-- [[shizuoka-fg]]
-- [[suruga-bank]]
-- [[shimizu-bank]]
-- [[shizuoka-chuo-bank]]
+- [[regional-banks/shizuoka-fg]]
+- [[regional-banks/suruga-bank]]
+- [[regional-banks/shimizu-bank]]
+- [[regional-banks/shizuoka-chuo-bank]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 

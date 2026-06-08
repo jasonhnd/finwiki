@@ -53,27 +53,27 @@
       "insurance/INDEX",
       "insurance/life-insurance-channel-mix",
       "life-insurers/INDEX",
+      "life-insurers/nn-life-japan",
       "life-insurers/pgf-life",
-      "nn-life-japan",
-      "prudential-japan",
-      "sony-life"
+      "life-insurers/prudential-japan",
+      "life-insurers/sony-life"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/insurance/INDEX",
       "https://finwiki.zksc.io/insurance/life-insurance-channel-mix",
       "https://finwiki.zksc.io/life-insurers/INDEX",
+      "https://finwiki.zksc.io/life-insurers/nn-life-japan",
       "https://finwiki.zksc.io/life-insurers/pgf-life",
-      "https://finwiki.zksc.io/nn-life-japan",
-      "https://finwiki.zksc.io/prudential-japan",
-      "https://finwiki.zksc.io/sony-life"
+      "https://finwiki.zksc.io/life-insurers/prudential-japan",
+      "https://finwiki.zksc.io/life-insurers/sony-life"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1945,
-    "word_like_tokens": 300,
+    "nonspace_chars": 2029,
+    "word_like_tokens": 312,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-06-06"
+    "last_modified": "2026-06-08"
   }
 }

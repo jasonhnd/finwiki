@@ -17,7 +17,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-Fukuoka Bank, Ltd. is a regional bank with its head office in Fukuoka Prefecture listed on the Financial Services Agency's list of bank licenses. It is the core operating bank of [[fukuoka-fg]] and is treated as Kyushu largest-class regional-bank operating-company anchor.
+Fukuoka Bank, Ltd. is a regional bank with its head office in Fukuoka Prefecture listed on the Financial Services Agency's list of bank licenses. It is the core operating bank of [[regional-banks/fukuoka-fg]] and is treated as Kyushu largest-class regional-bank operating-company anchor.
 
 ## 1. License / group boundary
 
@@ -25,27 +25,27 @@ Fukuoka Bank, Ltd. is a regional bank with its head office in Fukuoka Prefecture
 |---|---|
 | Legal name | Fukuoka Bank, Ltd. |
 | License route | Banking Act regional bank; FSA bank license list |
-| Group boundary | [[fukuoka-fg]] core operating bank |
+| Group boundary | [[regional-banks/fukuoka-fg]] core operating bank |
 | Home market | Fukuoka / Fukuoka City |
 | Wiki role | Fukuoka regional-bank operating-company page |
 
 ## 2. Operating model
 
-Fukuoka Bank is a regional bank that handles retail deposits, SME finance, urban corporate banking, and Kyushu-wide relationship banking mainly in Fukuoka Prefecture. [[fukuoka-fg]] page deals with group strategy and digital-bank strategy, and this page deals with bank-license entity.
+Fukuoka Bank is a regional bank that handles retail deposits, SME finance, urban corporate banking, and Kyushu-wide relationship banking mainly in Fukuoka Prefecture. [[regional-banks/fukuoka-fg]] page deals with group strategy and digital-bank strategy, and this page deals with bank-license entity.
 
 ## 3. Why this page matters
 
 - Closes the FSA exact-name operating-company gap for Fukuoka Bank.
-- Separates the bank license from [[fukuoka-fg]] holding-company strategy.
-- Provides a peer anchor for [[nishi-nippon-city-bank]], [[chikuho-bank]], [[kitakyushu-bank]], and [[18-shinwa-bank]].
+- Separates the bank license from [[regional-banks/fukuoka-fg]] holding-company strategy.
+- Provides a peer anchor for [[regional-banks/nishi-nippon-city-bank]], [[regional-banks/chikuho-bank]], [[regional-banks/kitakyushu-bank]], and [[regional-banks/18-shinwa-bank]].
 
 ## Related
 
-- [[fukuoka-fg]]
-- [[nishi-nippon-city-bank]]
-- [[chikuho-bank]]
-- [[kitakyushu-bank]]
-- [[18-shinwa-bank]]
+- [[regional-banks/fukuoka-fg]]
+- [[regional-banks/nishi-nippon-city-bank]]
+- [[regional-banks/chikuho-bank]]
+- [[regional-banks/kitakyushu-bank]]
+- [[regional-banks/18-shinwa-bank]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 

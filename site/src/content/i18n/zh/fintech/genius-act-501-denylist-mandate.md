@@ -44,7 +44,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 - 完全去中心化稳定币（DAI 等）→ 无法执行黑名单，市场份额受限
 - 灰色稳定币（Tron 链上 USDT）→ 不进入美国市场，规避法案
 
-**地缘政治含义**：法案将使美国稳定币阵营（USDC / USD1  / PYUSD）与非美国稳定币（USDT 灰色路径/各国主权稳定币/算法稳定币）形成结构性对立。详见[[stablecoin-chain-sovereign-currency-divide]]。
+**地缘政治含义**：法案将使美国稳定币阵营（USDC / USD1  / PYUSD）与非美国稳定币（USDT 灰色路径/各国主权稳定币/算法稳定币）形成结构性对立。详见[[fintech/stablecoin-chain-sovereign-currency-divide]]。
 
 **与日本立法的并行关系**：日本《资金结算法》中的对应条款（第 1 号电子支付手段）同样要求发行方具备类似能力（信托型/银行型/资金转移业者型，详见[[fintech/japan-epi-three-types-overview|日本 EPI 三型アーキテクチャ]]）。GENIUS Act 与日本立法属于**并行立法趋势**，而非孤立现象。
 

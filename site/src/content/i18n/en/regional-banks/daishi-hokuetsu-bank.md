@@ -17,7 +17,7 @@ This entry sits under[[regional-banks/INDEX|regional-banks INDEX]]. Read it agai
 
 ## TL;DR
 
-The Daishi Hokuetsu Bank, Ltd. is a regional bank with its head office in Niigata Prefecture that is listed on the Financial Services Agency's list of bank licenses. It is a core operating bank under[[dai-shi-hokuetsu-fg]]and is treated as a single bank subsidiary after the merger of the former Daishi Bank and the former Hokuetsu Bank.
+The Daishi Hokuetsu Bank, Ltd. is a regional bank with its head office in Niigata Prefecture that is listed on the Financial Services Agency's list of bank licenses. It is a core operating bank under[[regional-banks/dai-shi-hokuetsu-fg]]and is treated as a single bank subsidiary after the merger of the former Daishi Bank and the former Hokuetsu Bank.
 
 ## 1 . License / group boundary
 
@@ -25,7 +25,7 @@ The Daishi Hokuetsu Bank, Ltd. is a regional bank with its head office in Niigat
 |---|---|
 |Legal name|The Daishi Hokuetsu Bank, Ltd.|
 |License route|Banking Act regional bank; FSA bank license list|
-|Group boundary|[[dai-shi-hokuetsu-fg]] core operating bank|
+|Group boundary|[[regional-banks/dai-shi-hokuetsu-fg]] core operating bank|
 |Home market|Niigata / Niigata City|
 |Wiki role|Niigata regional-bank operating-company page|
 
@@ -36,14 +36,14 @@ The Daishi Hokuetsu Bank is a regional bank mainly in Niigata Prefecture that is
 ## 3 . Why this page matters
 
 - Closes the FSA exact-name operating-company gap for Daishi Hokuetsu Bank.
-- Separates the bank license from[[dai-shi-hokuetsu-fg]]holding-company strategy.
-- Provides a peer anchor for[[taiko-bank]]and Hokuriku / Chubu regional-bank coverage.
+- Separates the bank license from[[regional-banks/dai-shi-hokuetsu-fg]]holding-company strategy.
+- Provides a peer anchor for[[regional-banks/taiko-bank]]and Hokuriku / Chubu regional-bank coverage.
 
 ## Related
 
-- [[dai-shi-hokuetsu-fg]]
-- [[taiko-bank]]
-- [[hokuhoku-fg]]
+- [[regional-banks/dai-shi-hokuetsu-fg]]
+- [[regional-banks/taiko-bank]]
+- [[regional-banks/hokuhoku-fg]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 

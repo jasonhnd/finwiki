@@ -15,7 +15,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-The Kitakyushu Bank, Ltd. is a regional bank headquartered in Kitakyushu, Fukuoka Prefecture and listed in the FSA bank-license list. It is the Kitakyushu-area operating bank under [[yamaguchi-fg]] and should be treated as a separate regional-bank peer to [[fukuoka-bank]] / [[nishi-nippon-city-bank]] within Fukuoka Prefecture.
+The Kitakyushu Bank, Ltd. is a regional bank headquartered in Kitakyushu, Fukuoka Prefecture and listed in the FSA bank-license list. It is the Kitakyushu-area operating bank under [[regional-banks/yamaguchi-fg]] and should be treated as a separate regional-bank peer to [[regional-banks/fukuoka-bank]] / [[regional-banks/nishi-nippon-city-bank]] within Fukuoka Prefecture.
 
 ## 1. License / Group Boundary
 
@@ -23,26 +23,26 @@ The Kitakyushu Bank, Ltd. is a regional bank headquartered in Kitakyushu, Fukuok
 |---|---|
 | Legal name | The Kitakyushu Bank, Ltd. |
 | License route | Banking Act regional bank; FSA bank license list |
-| Group boundary | [[yamaguchi-fg]] Kitakyushu operating bank |
+| Group boundary | [[regional-banks/yamaguchi-fg]] Kitakyushu operating bank |
 | Home market | Fukuoka / Kitakyushu |
 | Wiki role | Kitakyushu regional-bank operating-company page |
 
 ## 2. Operating Model
 
-Kitakyushu Bank is a regional bank centered on the Kitakyushu and Kanmon areas, covering retail deposits, SME finance, local relationship banking, and cross-prefecture business support. The [[yamaguchi-fg]] page covers the YMFG three-bank model; this page covers the bank-license entity.
+Kitakyushu Bank is a regional bank centered on the Kitakyushu and Kanmon areas, covering retail deposits, SME finance, local relationship banking, and cross-prefecture business support. The [[regional-banks/yamaguchi-fg]] page covers the YMFG three-bank model; this page covers the bank-license entity.
 
 ## 3. Why This Page Matters
 
 - Closes the FSA exact-name operating-company gap for Kitakyushu Bank.
-- Separates Kitakyushu bank-license coverage from [[yamaguchi-fg]] group strategy.
-- Provides a peer anchor for [[fukuoka-bank]], [[nishi-nippon-city-bank]], and [[momiji-bank]].
+- Separates Kitakyushu bank-license coverage from [[regional-banks/yamaguchi-fg]] group strategy.
+- Provides a peer anchor for [[regional-banks/fukuoka-bank]], [[regional-banks/nishi-nippon-city-bank]], and [[regional-banks/momiji-bank]].
 
 ## Related
 
-- [[yamaguchi-fg]]
-- [[fukuoka-bank]]
-- [[nishi-nippon-city-bank]]
-- [[momiji-bank]]
+- [[regional-banks/yamaguchi-fg]]
+- [[regional-banks/fukuoka-bank]]
+- [[regional-banks/nishi-nippon-city-bank]]
+- [[regional-banks/momiji-bank]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 

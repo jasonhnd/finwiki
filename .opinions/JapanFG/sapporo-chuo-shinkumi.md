@@ -59,10 +59,10 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 | ティア | 機関 | 位置 |
 |---|---|---|
-| メガバンク | [[JapanFG/mufg|MUFG]]・[[JapanFG/smbc|SMBC]]・[[JapanFG/mizuho-fg|みずほ]] | 全国行の道内拠点 |
-| 地銀第一行 | [[JapanFG/hokuyo-bank|北洋銀行]] | 道内最大・第二地銀 |
-| 地銀第二行 | [[JapanFG/hokkaido-bank|北海道銀行]] ([[JapanFG/hokuhoku-fg|ほくほくFG]]) | 道内第一地銀 |
-| 信金 | [[JapanFG/sapporo-shinkin|札幌信用金庫]]・北海道信用金庫等 | 道内信金ブロック |
+| メガバンク | [[megabanks/mufg|MUFG]]・[[megabanks/smbc|SMBC]]・[[megabanks/mizuho-fg|みずほ]] | 全国行の道内拠点 |
+| 地銀第一行 | [[regional-banks/hokuyo-bank|北洋銀行]] | 道内最大・第二地銀 |
+| 地銀第二行 | [[regional-banks/hokkaido-bank|北海道銀行]] ([[regional-banks/hokuhoku-fg|ほくほくFG]]) | 道内第一地銀 |
+| 信金 | [[cooperative-banks/sapporo-shinkin|札幌信用金庫]]・北海道信用金庫等 | 道内信金ブロック |
 | **信組** | **札幌中央信組** ★本ページ + 北央信組 + ウリ信組 + 道内 4 信組 | **本層** |
 
 ### ALM・資金フロー ^[inferred]
@@ -71,6 +71,6 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 組合員 (札幌都心 SME + 住民)
   → 預金 → 札幌中央信用組合
               → 札幌都心 SME 融資 + 住宅ローン
-              → 余資預け入れ → [[JapanFG/zenshin-kumi|全信組連]]
+              → 余資預け入れ → [[cooperative-banks/zenshin-kumi|全信組連]]
                                   → 機関投資 + 系統還元
 ```

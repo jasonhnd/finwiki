@@ -12,7 +12,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## 推論 (from SMBC covered bond program)
 
-[[JapanFG/mizuho-bank|Mizuho Bank]] has historically been a less active covered-bond issuer than MUFG and SMBC ^[inferred]; specifics vary by program activity.
+[[megabanks/mizuho-bank|Mizuho Bank]] has historically been a less active covered-bond issuer than MUFG and SMBC ^[inferred]; specifics vary by program activity.
 
 ## 推論 (from 5. Pricing vs senior unsecured)
 

@@ -68,19 +68,19 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 - **和歌山县 = 旅游业 + 第一产业大县**：
   - **旅游**：县内拥有众多旅游资源，包括高野山（真言宗总本山，空海于 1200 年 开山；世界遗产 “纪伊山地的灵场和参诣道”）、熊野古道（熊野三山、世界遗产）、南纪白滨温泉、Adventure World（熊猫）等
   - **第一产业**：蜜柑全国 1 位、梅（南高梅）全国 1 位、林业（吉野熊野系的和歌山部分）、渔业（纪州胜浦金枪鱼等）
-- **第一产业融资**：与 JA Bank（[[norinchukin]] 系统）的竞争 / 分工是结构性论点。支持蜜柑、梅农户的事业承继，并向加工食品业者（梅干、果汁等）融资
+- **第一产业融资**：与 JA Bank（[[cooperative-banks/norinchukin]] 系统）的竞争 / 分工是结构性论点。支持蜜柑、梅农户的事业承继，并向加工食品业者（梅干、果汁等）融资
 - **大阪府南部（泉州区域）扩张**：仅靠和歌山县内体量有限，因此 **强化向大阪府南部（岸和田、贝冢、泉佐野、泉南）的展开**。目标是获得关西国际机场（泉佐野市临空城）周边物流 / 旅游相关企业，以及泉州地区中小制造业的 main bank 位置
 
 ### 关西经济圈中的竞争结构
 
 - **纪伊半岛特殊性**：和歌山县占据纪伊半岛西半部，北接大阪府，东接奈良县和三重县，南临太平洋。人口规模使县内完结型地银运营困难，因此结构上必然卷入 **关西经济圈 + 纪伊半岛的竞争**
-- **与大型银行（[[mufg]] / [[smfg]] / [[mizuho-fg]]）竞争**：大阪都市部大企业案件流向大型银行，纪阳银行则以 **和歌山县内 + 大阪府南部（泉州区域）的中坚 / 中小企业 main bank 位置** 对抗
+- **与大型银行（[[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]]）竞争**：大阪都市部大企业案件流向大型银行，纪阳银行则以 **和歌山县内 + 大阪府南部（泉州区域）的中坚 / 中小企业 main bank 位置** 对抗
 - **与关西地银群竞争**：
-  - [[ikeda-senshu-hd|池田泉州 HD]]（池田泉州银行）：在大阪府全域（北摄 + 泉州）直接竞争，特别是在大阪府南部泉州区域，旧泉州银行 “泉州” 名称来源与纪阳大阪府南部展开发生碰撞
-  - [[nanto-bank|南都銀行]]（奈良县地盘）：在县境（和歌山县东北部 / 五条区域）接触
-  - [[kyoto-fg|京都 FG]]：直接接触较少，但作为关西经济圈整体同区间中坚地银并列
-  - [[resona-hd|りそな HD]]（含关西未来银行）：关西最大地银集团，在大阪府全域与纪阳直接竞争
-- **与三重县南部 / 纪伊半岛东岸接触**：三重县侧由 [[san-jusan-fg|三十三 FG]]（旧三重银行 + 第三银行）作为地盘，在纪伊半岛东岸（熊野市、尾鹫市）存在县境接触
+  - [[regional-banks/ikeda-senshu-hd|池田泉州 HD]]（池田泉州银行）：在大阪府全域（北摄 + 泉州）直接竞争，特别是在大阪府南部泉州区域，旧泉州银行 “泉州” 名称来源与纪阳大阪府南部展开发生碰撞
+  - [[regional-banks/nanto-bank|南都銀行]]（奈良县地盘）：在县境（和歌山县东北部 / 五条区域）接触
+  - [[regional-banks/kyoto-fg|京都 FG]]：直接接触较少，但作为关西经济圈整体同区间中坚地银并列
+  - [[megabanks/resona-hd|りそな HD]]（含关西未来银行）：关西最大地银集团，在大阪府全域与纪阳直接竞争
+- **与三重县南部 / 纪伊半岛东岸接触**：三重县侧由 [[regional-banks/san-jusan-fg|三十三 FG]]（旧三重银行 + 第三银行）作为地盘，在纪伊半岛东岸（熊野市、尾鹫市）存在县境接触
 
 ### 控股公司解散的战略意义
 
@@ -105,10 +105,10 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## Related
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]]（大型银行 3 行，在关西大企业案件上竞争）
-- [[ikeda-senshu-hd]] · [[nanto-bank]] · [[kyoto-fg]] · [[resona-hd]]（关西地银群）
-- [[san-jusan-fg]]（在三重县南部 / 纪伊半岛东岸的县境接触）
-- [[norinchukin]]（第一产业融资中与 JA Bank 系统的竞争 / 分工）
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]（大型银行 3 行，在关西大企业案件上竞争）
+- [[regional-banks/ikeda-senshu-hd]] · [[regional-banks/nanto-bank]] · [[regional-banks/kyoto-fg]] · [[megabanks/resona-hd]]（关西地银群）
+- [[regional-banks/san-jusan-fg]]（在三重县南部 / 纪伊半岛东岸的县境接触）
+- [[cooperative-banks/norinchukin]]（第一产业融资中与 JA Bank 系统的竞争 / 分工）
 - [[banking/minna-bank-baas-model]]（地银数字战略比较）
 
 ## Sources

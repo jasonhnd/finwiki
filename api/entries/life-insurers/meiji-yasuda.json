@@ -49,36 +49,34 @@
     "経営方針（中計「MY ミューチュアル Way Ⅱ」）"
   ],
   "body_links": {
-    "wikilinks_count": 9,
+    "wikilinks_count": 8,
     "wikilinks": [
-      "dai-ichi-life",
       "insurance/INDEX",
       "life-insurers/INDEX",
+      "life-insurers/dai-ichi-life",
       "life-insurers/nippon-life",
-      "mizuho-fg",
-      "mufg",
-      "ndfg",
-      "nippon-life",
-      "smfg"
+      "megabanks/mizuho-fg",
+      "megabanks/mufg",
+      "megabanks/ndfg",
+      "megabanks/smfg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/dai-ichi-life",
       "https://finwiki.zksc.io/insurance/INDEX",
       "https://finwiki.zksc.io/life-insurers/INDEX",
+      "https://finwiki.zksc.io/life-insurers/dai-ichi-life",
       "https://finwiki.zksc.io/life-insurers/nippon-life",
-      "https://finwiki.zksc.io/mizuho-fg",
-      "https://finwiki.zksc.io/mufg",
-      "https://finwiki.zksc.io/ndfg",
-      "https://finwiki.zksc.io/nippon-life",
-      "https://finwiki.zksc.io/smfg"
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/ndfg",
+      "https://finwiki.zksc.io/megabanks/smfg"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3835,
-    "word_like_tokens": 590,
-    "inbound_wikilinks_count": 21,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 4001,
+    "word_like_tokens": 612,
+    "inbound_wikilinks_count": 29,
+    "last_modified": "2026-06-08"
   }
 }

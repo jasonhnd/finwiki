@@ -53,30 +53,30 @@
     "wikilinks": [
       "banking/INDEX",
       "banking/regional-bank-consolidation-pattern",
+      "megabanks/sbi-hd",
+      "megabanks/sbi-regional-bank-hd",
       "regional-banks/INDEX",
       "regional-banks/momiji-bank",
-      "san-in-godo-bank",
-      "sbi-hd",
-      "sbi-regional-bank-hd",
-      "tottori-bank"
+      "regional-banks/san-in-godo-bank",
+      "regional-banks/tottori-bank"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
+      "https://finwiki.zksc.io/megabanks/sbi-hd",
+      "https://finwiki.zksc.io/megabanks/sbi-regional-bank-hd",
       "https://finwiki.zksc.io/regional-banks/INDEX",
       "https://finwiki.zksc.io/regional-banks/momiji-bank",
-      "https://finwiki.zksc.io/san-in-godo-bank",
-      "https://finwiki.zksc.io/sbi-hd",
-      "https://finwiki.zksc.io/sbi-regional-bank-hd",
-      "https://finwiki.zksc.io/tottori-bank"
+      "https://finwiki.zksc.io/regional-banks/san-in-godo-bank",
+      "https://finwiki.zksc.io/regional-banks/tottori-bank"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1908,
-    "word_like_tokens": 307,
-    "inbound_wikilinks_count": 1,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 2028,
+    "word_like_tokens": 322,
+    "inbound_wikilinks_count": 4,
+    "last_modified": "2026-06-08"
   }
 }

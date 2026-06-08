@@ -52,7 +52,7 @@ MTBJ holds a direct account in the BoJ JGB book-entry system, enabling DVP JGB s
 
 ## 推論 (from Tokenization / ST settlement)
 
-For tokenized securities issued via [[JapanFG/progmat|Progmat]] or similar 信託受益権 securitization platforms, the trust-bank acts as the underlying 受託銀行 for the 信託受益権. MTBJ's role in this segment is still emerging and the precise integration with JASDEC / non-JASDEC ledgers is an open question. ^[inferred]
+For tokenized securities issued via [[payment-firms/progmat|Progmat]] or similar 信託受益権 securitization platforms, the trust-bank acts as the underlying 受託銀行 for the 信託受益権. MTBJ's role in this segment is still emerging and the precise integration with JASDEC / non-JASDEC ledgers is an open question. ^[inferred]
 
 ## Counterpoints
 
@@ -69,5 +69,5 @@ For tokenized securities issued via [[JapanFG/progmat|Progmat]] or similar 信�
 - How does MTBJ's per-bp fee schedule compare to CBJ's at GPIF scale? Both are silent.
 - What is the post-2027 T+1 settlement roadmap and the IT-investment scale required for MTBJ?
 - Will MTBJ and CBJ ever merge into a single national custody utility, or will the two-pole structure be politically stabilized by their distinct shareholder camps?
-- How will MTBJ's role evolve for 信託受益権-based tokenized securities under [[JapanFG/progmat|Progmat]] and similar platforms?
+- How will MTBJ's role evolve for 信託受益権-based tokenized securities under [[payment-firms/progmat|Progmat]] and similar platforms?
 - What is MTBJ's exposure to non-ICJ electronic-voting routes (foreign-proxy platforms)? The ICJ integration is documented; the broader proxy-platform integration map is not.

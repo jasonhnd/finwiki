@@ -174,7 +174,7 @@ MUFG（控股公司 / 上市 8306）
 - **Japan Digital Design**（2017-10-02 成立）：fintech 子公司。
 - **Global Open Network Japan**（2019-04  与 Akamai 成立 JV -> 2022-02  停业）：区块链结算尝试失败的历史。
 - **MUFG x Google 战略合作**（2026-05-07）★：个人向金融服务 AI agent，目标 2026 年 年度内实用化 ^[extracted]
-- **Progmat Coin**：稳定币基础设施（MUFG 主导，[[smfg]] 等参与）。
+- **Progmat Coin**：稳定币基础设施（MUFG 主导，[[megabanks/smfg]] 等参与）。
 
 ### 合作 / 收购战略
 
@@ -326,7 +326,7 @@ MUFG（控股公司 / 上市 8306）
 
 ## 相关
 
-- [[smfg]] · [[mizuho-fg]] · [[ndfg]] · [[sbi-hd]] · [[paypay-fg]]
+- [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[megabanks/ndfg]] · [[megabanks/sbi-hd]] · [[megabanks/paypay-fg]]
 - [[banking/mercari-bank-license-stack]] · [[banking/minna-bank-baas-model]]
 
 ## 来源

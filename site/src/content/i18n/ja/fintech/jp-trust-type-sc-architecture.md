@@ -23,19 +23,19 @@ translated_at: 2026-06-02T13:21:55.102Z
 
 ## 構造的優位
 
-資金移動業者型は 1 回 100 万円の制約があり、信託型は B2B 大口決済（10 億円〜数百億円 1 件）が可能である。[[payment-firms/progmat|Progmat Coin]]の信託スキームでは [[megabanks/mufg|MUFG]]、[[megabanks/smfg|SMFG/SMBC]]、Mizuho が委託者、三菱 UFJ 信託 1 社が受託者となり、3 つの megabank 預金を共通 SC で支える。[[multi-megabank-consortium-governance|多巨行联合体治理]]が法的基盤である。
+資金移動業者型は 1 回 100 万円の制約があり、信託型は B2B 大口決済（10 億円〜数百億円 1 件）が可能である。[[payment-firms/progmat|Progmat Coin]]の信託スキームでは [[megabanks/mufg|MUFG]]、[[megabanks/smfg|SMFG/SMBC]]、Mizuho が委託者、三菱 UFJ 信託 1 社が受託者となり、3 つの megabank 預金を共通 SC で支える。[[fintech/multi-megabank-consortium-governance|多巨行联合体治理]]が法的基盤である。
 
 ## §(d) と市場分担
 
-GENIUS Act §501(d)、§501(d)、§501(d) tier、§501(d)チャネル、501経由、§[[cross-border-sc-via-swift-api|Project Pax via SWIFT API]](d) tier が論点。現状 501では 2026、B1 位B、§2(d) compat、501:1連動が市場分担を作る。
+GENIUS Act §501(d)、§501(d)、§501(d) tier、§501(d)チャネル、501経由、§[[fintech/cross-border-sc-via-swift-api|Project Pax via SWIFT API]](d) tier が論点。現状 501では 2026、B1 位B、§2(d) compat、501:1連動が市場分担を作る。
 
 ## 応用
 
-§1 (d) 評価、日本 501陣営比較、4 、[[cross-border-sc-via-swift-api|跨境 SC via SWIFT API]] の日本側実装解に使う。
+§1 (d) 評価、日本 501陣営比較、4 、[[fintech/cross-border-sc-via-swift-api|跨境 SC via SWIFT API]] の日本側実装解に使う。
 
 ## 関連
 
-- [[institutional-stablecoin-deposit-token-thesis|機関投資家市場 = 預金トークン唯一解]]
+- [[fintech/institutional-stablecoin-deposit-token-thesis|機関投資家市場 = 預金トークン唯一解]]
 - [[INDEX|Wiki Index]]
 - [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度三層構造]]
 - [[fintech/cross-border-sc-via-swift-api|跨境 SC via SWIFT API]]

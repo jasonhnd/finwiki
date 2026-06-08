@@ -56,35 +56,35 @@
     "wikilinks_count": 10,
     "wikilinks": [
       "banking/INDEX",
-      "citigroup-japan",
       "foreign-financial-institutions/INDEX",
       "foreign-financial-institutions/bny-mellon-japan",
-      "hsbc-japan",
-      "mizuho-fg",
-      "mufg",
-      "ndfg",
-      "sbi-hd",
-      "smfg"
+      "foreign-financial-institutions/citigroup-japan",
+      "foreign-financial-institutions/hsbc-japan",
+      "megabanks/mizuho-fg",
+      "megabanks/mufg",
+      "megabanks/ndfg",
+      "megabanks/sbi-hd",
+      "megabanks/smfg"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/citigroup-japan",
       "https://finwiki.zksc.io/foreign-financial-institutions/INDEX",
       "https://finwiki.zksc.io/foreign-financial-institutions/bny-mellon-japan",
-      "https://finwiki.zksc.io/hsbc-japan",
-      "https://finwiki.zksc.io/mizuho-fg",
-      "https://finwiki.zksc.io/mufg",
-      "https://finwiki.zksc.io/ndfg",
-      "https://finwiki.zksc.io/sbi-hd",
-      "https://finwiki.zksc.io/smfg"
+      "https://finwiki.zksc.io/foreign-financial-institutions/citigroup-japan",
+      "https://finwiki.zksc.io/foreign-financial-institutions/hsbc-japan",
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/ndfg",
+      "https://finwiki.zksc.io/megabanks/sbi-hd",
+      "https://finwiki.zksc.io/megabanks/smfg"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4117,
-    "word_like_tokens": 609,
-    "inbound_wikilinks_count": 10,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 4415,
+    "word_like_tokens": 638,
+    "inbound_wikilinks_count": 11,
+    "last_modified": "2026-06-08"
   }
 }

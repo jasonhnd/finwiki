@@ -15,7 +15,7 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it again
 
 ## TL;DR
 
-This is the financial-technology segment of Rakuten Group, Inc. (TSE PRIME 4755). Its **EC-centered independent model** uses Rakuten Ichiba + Rakuten Points as the core and bundles banking / securities / cards / insurance / payments into the "Rakuten ecosystem" through a cross-sell strategy. Unlike megabank groups ([[mufg]] / [[smfg]] / [[mizuho-fg]]) or telecom financial groups ([[ndfg]] / au-FH / [[paypay-fg]]), its business structure is distinctive: **commerce origin -> finance**. 2023-04  Rakuten Bank IPO; 2024  Rakuten Securities accepted 49% investment from Mizuho Securities. **2024  fiscal-year FinTech segment Non-GAAP operating profit was 1,534 億円 (+37.9%), and group IFRS operating profit turned positive (530 億円)**. Rakuten Mobile losses (Non-GAAP operating loss 2,163 億円) still exceed FinTech profit, but are improving. Founder Hiroshi Mikitani (1965-) has been chairman and president since the 1997  founding.
+This is the financial-technology segment of Rakuten Group, Inc. (TSE PRIME 4755). Its **EC-centered independent model** uses Rakuten Ichiba + Rakuten Points as the core and bundles banking / securities / cards / insurance / payments into the "Rakuten ecosystem" through a cross-sell strategy. Unlike megabank groups ([[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]]) or telecom financial groups ([[megabanks/ndfg]] / au-FH / [[megabanks/paypay-fg]]), its business structure is distinctive: **commerce origin -> finance**. 2023-04  Rakuten Bank IPO; 2024  Rakuten Securities accepted 49% investment from Mizuho Securities. **2024  fiscal-year FinTech segment Non-GAAP operating profit was 1,534 億円 (+37.9%), and group IFRS operating profit turned positive (530 億円)**. Rakuten Mobile losses (Non-GAAP operating loss 2,163 億円) still exceed FinTech profit, but are improving. Founder Hiroshi Mikitani (1965-) has been chairman and president since the 1997  founding.
 
 ## 1. Company overview
 
@@ -125,9 +125,9 @@ Rakuten Group, Inc. (TSE PRIME 4755)
 | Competitor category | Axis | Representative |
 |---|---|---|
 | **EC axis** | **Commerce -> finance** | **Rakuten FG (this entry)** |
-| Telecom axis | Telecom line -> finance | [[ndfg]] (docomo) / au-FH (KDDI) / [[paypay-fg]] (Yahoo/Z) |
-| Bank axis | Commercial bank -> digitization | [[mufg]] / [[smfg]] / [[mizuho-fg]] |
-| Dedicated online axis | Online securities -> expansion | [[sbi-hd]] |
+| Telecom axis | Telecom line -> finance | [[megabanks/ndfg]] (docomo) / au-FH (KDDI) / [[megabanks/paypay-fg]] (Yahoo/Z) |
+| Bank axis | Commercial bank -> digitization | [[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]] |
+| Dedicated online axis | Online securities -> expansion | [[megabanks/sbi-hd]] |
 
 ### Mobile losses x financial profit support structure
 
@@ -161,8 +161,8 @@ Rakuten Group, Inc. (TSE PRIME 4755)
 
 ## Related
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] (Mizuho FG = 49% stake in Rakuten Securities)
-- [[ndfg]] · [[paypay-fg]] · [[sbi-hd]] (ecosystem competitors)
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] (Mizuho FG = 49% stake in Rakuten Securities)
+- [[megabanks/ndfg]] · [[megabanks/paypay-fg]] · [[megabanks/sbi-hd]] (ecosystem competitors)
 - [[banking/mercari-bank-license-stack]] · [[banking/minna-bank-baas-model]]
 
 ## Sources

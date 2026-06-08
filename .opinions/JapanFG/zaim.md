@@ -12,11 +12,11 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## 推論 (from 1. 法人・ライセンス境界)
 
-| 規制ルート | 銀行 API 経由のデータ連携で **電子決済等代行業者** として金融庁登録（[[JapanFG/money-forward|Money Forward]] と同枠）。^[inferred] |
+| 規制ルート | 銀行 API 経由のデータ連携で **電子決済等代行業者** として金融庁登録（[[payment-firms/money-forward|Money Forward]] と同枠）。^[inferred] |
 
 ## 推論 (from 2. Business role)
 
-- KDDI 子会社化以降、au 経済圏 ([[JapanFG/au-fh|au FH]] / au PAY / au じぶん銀行) との連動が戦略軸に位置付けられる。^[inferred]
+- KDDI 子会社化以降、au 経済圏 ([[megabanks/au-fh|au FH]] / au PAY / au じぶん銀行) との連動が戦略軸に位置付けられる。^[inferred]
 
 ## 推論 (from 4. 規制・政策)
 
@@ -27,13 +27,13 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## Counterpoints
 
-- 「[[JapanFG/money-forward|Money Forward]] ME 一強構造」: PFM 市場は ME が 1500 万 UB 超の規模で先行しており、Zaim は KDDI バックアップを得てもギャップを縮めにくい。^[inferred]
+- 「[[payment-firms/money-forward|Money Forward]] ME 一強構造」: PFM 市場は ME が 1500 万 UB 超の規模で先行しており、Zaim は KDDI バックアップを得てもギャップを縮めにくい。^[inferred]
 - 「KDDI 子会社化のシナジー効果は限定的か」: 通信契約データと家計データの統合は理論上強力だが、個人情報保護法上の同意取得・データガバナンスでの摩擦は残る。^[ambiguous]
-- 「銀行アプリ内製 PFM との競合」: 各銀行が自社アプリで PFM 機能を強化中で、横断連携の付加価値が長期的に薄まる構造リスク（[[JapanFG/money-forward|Money Forward]] と共通）。^[inferred]
+- 「銀行アプリ内製 PFM との競合」: 各銀行が自社アプリで PFM 機能を強化中で、横断連携の付加価値が長期的に薄まる構造リスク（[[payment-firms/money-forward|Money Forward]] と共通）。^[inferred]
 
 ## Open questions
 
 - KDDI 子会社化（2022-04）以降の Zaim MAU / 有料転換率は公表されているか?
-- au 経済圏 ([[JapanFG/au-payment|au ペイメント]] / au じぶん銀行) との具体的データ連携・プロダクト統合の進度は?
-- [[JapanFG/money-forward|Money Forward]] ME との市場シェア差分は経年でどう推移しているか?
+- au 経済圏 ([[payment-firms/au-payment|au ペイメント]] / au じぶん銀行) との具体的データ連携・プロダクト統合の進度は?
+- [[payment-firms/money-forward|Money Forward]] ME との市場シェア差分は経年でどう推移しているか?
 - 自治体給付金検索機能のマイナンバー / 公金受取口座連携の今後の戦略は?

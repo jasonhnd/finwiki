@@ -17,7 +17,7 @@ This entry sits under[[regional-banks/INDEX|regional-banks INDEX]]. Read it agai
 
 ## TL;DR
 
-The Chugoku Bank, Ltd. is a regional bank with its main branch in Okayama Prefecture listed on the Financial Services Agency's list of bank licenses. It is not Bank of China in the People's Republic of China, but `The Chugoku Bank`, which originates from the Chugoku region of Japan.[[chugin-okayama]]/ Treated as the core operating bank of Chugin FG.
+The Chugoku Bank, Ltd. is a regional bank with its main branch in Okayama Prefecture listed on the Financial Services Agency's list of bank licenses. It is not Bank of China in the People's Republic of China, but `The Chugoku Bank`, which originates from the Chugoku region of Japan.[[regional-banks/chugin-okayama]]/ Treated as the core operating bank of Chugin FG.
 
 ## 1. License / group boundary
 
@@ -25,26 +25,26 @@ The Chugoku Bank, Ltd. is a regional bank with its main branch in Okayama Prefec
 |---|---|
 | Legal name | Chugoku Bank, Ltd. |
 | License route | Banking Act regional bank; FSA bank license list |
-| Group boundary | [[chugin-okayama]]/ Chugin FG core operating bank |
+| Group boundary | [[regional-banks/chugin-okayama]]/ Chugin FG core operating bank |
 | Home market | Okayama / Okayama City |
 | Wiki roles | Okayama regional-bank operating-company page |
 
 ## 2. Operating model
 
-Chugoku Bank is a regional bank that is responsible for retail deposits, SME finance, corporate lending, TSUBASA alliance collaboration, and Chugoku / Setouchi-area business support, mainly in Okayama Prefecture. FG/strategic history belongs in[[chugin-okayama]], while the current bank-license boundary sits here. Chugoku regional-bank consolidation context は[[banking/regional-bank-consolidation-pattern]]See.
+Chugoku Bank is a regional bank that is responsible for retail deposits, SME finance, corporate lending, TSUBASA alliance collaboration, and Chugoku / Setouchi-area business support, mainly in Okayama Prefecture. FG/strategic history belongs in[[regional-banks/chugin-okayama]], while the current bank-license boundary sits here. Chugoku regional-bank consolidation context は[[banking/regional-bank-consolidation-pattern]]See.
 
 ## 3. Why this page matters
 
 - Closes the FSA exact-name operating-company gap for Bank of China.
 - Prevents confusion with foreign-bank branch candidates named Bank of China.
-- Separates the bank license from[[chugin-okayama]]group and historical-strategy page.
+- Separates the bank license from[[regional-banks/chugin-okayama]]group and historical-strategy page.
 
 ## Related
 
-- [[chugin-okayama]]
-- [[tomato-bank]]
-- [[hiroshima-bank]]
-- [[tottori-bank]]
+- [[regional-banks/chugin-okayama]]
+- [[regional-banks/tomato-bank]]
+- [[regional-banks/hiroshima-bank]]
+- [[regional-banks/tottori-bank]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 

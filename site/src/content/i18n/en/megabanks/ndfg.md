@@ -15,7 +15,7 @@ This entry sits under [[megabanks/INDEX|megabanks INDEX]]. Read it against [[non
 
 ## TL;DR
 
-NTT DOCOMO created **NTT DOCOMO Financial Group** as a financial-business intermediate holding company, starting operations on 2026-07-01 through an absorption-type company split that transferred financial businesses and related shares. It reorganizes securities, banking, cards, payments, and related finance businesses under a 1  single roof: Monex Group, Sumishin SBI Net Bank / docomo Neobank, d Card, d Barai, and d Smart Bank. The entity is positioned as the **4 th pole of telco financial groups**, alongside [[megabanks/au-fh|au-fg]], [[paypay-fg]], and [[rakuten-fg]]. The parent is NTT DOCOMO, within the NTT 100% group. ^[extracted]
+NTT DOCOMO created **NTT DOCOMO Financial Group** as a financial-business intermediate holding company, starting operations on 2026-07-01 through an absorption-type company split that transferred financial businesses and related shares. It reorganizes securities, banking, cards, payments, and related finance businesses under a 1  single roof: Monex Group, Sumishin SBI Net Bank / docomo Neobank, d Card, d Barai, and d Smart Bank. The entity is positioned as the **4 th pole of telco financial groups**, alongside [[megabanks/au-fh|au-fg]], [[megabanks/paypay-fg]], and [[payment-firms/rakuten-fg]]. The parent is NTT DOCOMO, within the NTT 100% group. ^[extracted]
 
 ## 1. Company profile
 
@@ -87,7 +87,7 @@ NDFG (intermediate holding company, NTT DOCOMO 100%, business start 2026-07-01)
 
 ### Telco financial-group "4 th pole" positioning
 
-- **Existing 3  poles**: [[megabanks/au-fh|au-fg]] (KDDI / au, after au Jibun Bank sale and restructuring), [[paypay-fg]] (SoftBank / Z Holdings, PayPay Bank + PayPay Securities + PayPay Card), and [[rakuten-fg]] (Rakuten Bank / Rakuten Securities / Rakuten Card / Rakuten Pay).
+- **Existing 3  poles**: [[megabanks/au-fh|au-fg]] (KDDI / au, after au Jibun Bank sale and restructuring), [[megabanks/paypay-fg]] (SoftBank / Z Holdings, PayPay Bank + PayPay Securities + PayPay Card), and [[payment-firms/rakuten-fg]] (Rakuten Bank / Rakuten Securities / Rakuten Card / Rakuten Pay).
 
 ### Aims of financial-service integration / public-release intent ^[extracted]
 
@@ -116,9 +116,9 @@ NDFG (intermediate holding company, NTT DOCOMO 100%, business start 2026-07-01)
 
 ## Related
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] - megabank 3  poles
-- [[megabanks/au-fh|au-fg]] · [[paypay-fg]] · [[rakuten-fg]] - telco financial-group peers
-- [[sbi-hd]] - parent of Sumishin SBI Net Bank
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] - megabank 3  poles
+- [[megabanks/au-fh|au-fg]] · [[megabanks/paypay-fg]] · [[payment-firms/rakuten-fg]] - telco financial-group peers
+- [[megabanks/sbi-hd]] - parent of Sumishin SBI Net Bank
 
 ## Sources
 

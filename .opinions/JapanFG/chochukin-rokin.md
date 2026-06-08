@@ -49,7 +49,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ### 競合・対照組織 ^[inferred]
 
-| 軸 | 中央ろうきん | 関東地銀 (例: [[JapanFG/yokohama-bank|横浜銀行]]) | 関東信金 (例: [[JapanFG/yokohama-shinkin|横浜信金]]) |
+| 軸 | 中央ろうきん | 関東地銀 (例: [[regional-banks/yokohama-bank|横浜銀行]]) | 関東信金 (例: [[cooperative-banks/yokohama-shinkin|横浜信金]]) |
 |---|---|---|---|
 | 顧客層 | 勤労者 + 労組 + 生協 + NPO | 個人 + 法人 (広範) | 中小企業 + 個人 |
 | 中核商品 | 住宅ローン + 教育ローン + 財形 | 住宅 + 事業性 + 個人 | SME 融資 + 住宅 + 個人 |

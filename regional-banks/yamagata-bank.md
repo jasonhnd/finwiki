@@ -21,7 +21,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-山形県を地盤とする**東北地区の単独地銀**。1896 (明治 29) 年「両羽銀行」として創業、1965 年現商号に変更。**東証 PRIME 8344**(1949 年上場)、第二地銀ではない**第一地方銀行**で、山形県内預金シェア No.1 の県内最大金融機関。第二地銀の[[jimoto-hd]]傘下・きらやか銀行とは県内競合関係。隣県では[[fidea-hd]]傘下・荘内銀行 (鶴岡市) ・北都銀行 (秋田) とエリアが重なる。**持株会社化せず単独地銀のまま**経営する東北地区の独立系。観光 (蔵王・山寺・銀山温泉) ・農業 (さくらんぼ生産日本一・米沢牛・つや姫) ・製造業 (精密機械・電子部品) の地域経済を支える。^[extracted]
+山形県を地盤とする**東北地区の単独地銀**。1896 (明治 29) 年「両羽銀行」として創業、1965 年現商号に変更。**東証 PRIME 8344**(1949 年上場)、第二地銀ではない**第一地方銀行**で、山形県内預金シェア No.1 の県内最大金融機関。第二地銀の[[regional-banks/jimoto-hd]]傘下・きらやか銀行とは県内競合関係。隣県では[[regional-banks/fidea-hd]]傘下・荘内銀行 (鶴岡市) ・北都銀行 (秋田) とエリアが重なる。**持株会社化せず単独地銀のまま**経営する東北地区の独立系。観光 (蔵王・山寺・銀山温泉) ・農業 (さくらんぼ生産日本一・米沢牛・つや姫) ・製造業 (精密機械・電子部品) の地域経済を支える。^[extracted]
 
 ## 1. 会社概要
 
@@ -32,7 +32,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 **現商号**: 1965 (昭和 40) 年 4 月「株式会社山形銀行」へ商号変更 ^[extracted]
 **本店**: 山形県山形市七日町 3-1-2 ^[extracted]
 **機関設計**: 監査等委員会設置会社 (^[likely] 多くの地銀同様)
-**ホールディングス**: **未移行 (単独地銀のまま)**。[[jimoto-hd]] (きらやか・仙台銀)・[[fidea-hd]] (荘内・北都) と異なり、持株会社化していない ^[extracted]
+**ホールディングス**: **未移行 (単独地銀のまま)**。[[regional-banks/jimoto-hd]] (きらやか・仙台銀)・[[regional-banks/fidea-hd]] (荘内・北都) と異なり、持株会社化していない ^[extracted]
 
 ### FY2024 (2025-03 期) 決算 (公表ベース・連結) ^[likely]
 
@@ -78,8 +78,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 | **1965-04** | **株式会社山形銀行に商号変更** |
 | 戦後〜高度成長期 | 山形県内支店網構築・県内 No.1 地位確立 |
 | 2000 年代 | 東北地区他行 (荘内銀・きらやか銀) との競合激化 |
-| 2009 | きらやか銀行 + 仙台銀行 → [[jimoto-hd]]設立 (^[extracted]) |
-| 2009-10 | 荘内銀行 + 北都銀行 → [[fidea-hd]]設立 (^[extracted]) |
+| 2009 | きらやか銀行 + 仙台銀行 → [[regional-banks/jimoto-hd]]設立 (^[extracted]) |
+| 2009-10 | 荘内銀行 + 北都銀行 → [[regional-banks/fidea-hd]]設立 (^[extracted]) |
 | 2022-04 | 東証市場再編 → **PRIME 市場移行** |
 
 (2018 以降の中期経営計画名・最新の業務提携は公式 IR を要参照)
@@ -101,16 +101,16 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 | 競合 | 関係性 | エリア |
 |---|---|---|
-| **[[jimoto-hd]]・きらやか銀行**(山形市)| **県内最大の競合**・第二地銀 | 山形県全域 |
-| **[[fidea-hd]]・荘内銀行**(鶴岡市)| 庄内地方で競合・第二地銀 | 山形県庄内地方 |
-| [[fidea-hd]]・北都銀行 (秋田市) | 隣県・最上地方で部分競合 | 秋田県・山形県北部 |
+| **[[regional-banks/jimoto-hd]]・きらやか銀行**(山形市)| **県内最大の競合**・第二地銀 | 山形県全域 |
+| **[[regional-banks/fidea-hd]]・荘内銀行**(鶴岡市)| 庄内地方で競合・第二地銀 | 山形県庄内地方 |
+| [[regional-banks/fidea-hd]]・北都銀行 (秋田市) | 隣県・最上地方で部分競合 | 秋田県・山形県北部 |
 | 七十七銀行 (仙台) | 仙台支店で競合 | 宮城県・東北全域 |
 | 東邦銀行 (福島) | 米沢・置賜地方で部分競合 | 福島県・山形県南部 |
 | JA バンク山形 | 農業金融で重複 | 山形県農業地帯 |
 | ゆうちょ銀行 | 県内全域・個人預金 | 山形県全域 |
 | ネット銀行 (PayPay 銀・楽天銀等) | 若年層離れ要因 | 全国 |
 
-**戦略的ポジション**: 単独地銀のまま規模を維持。隣県他行が HD 統合 ([[jimoto-hd]]・[[fidea-hd]]) する中で、**独立路線**を選択している。^[extracted]
+**戦略的ポジション**: 単独地銀のまま規模を維持。隣県他行が HD 統合 ([[regional-banks/jimoto-hd]]・[[regional-banks/fidea-hd]]) する中で、**独立路線**を選択している。^[extracted]
 
 ### 地域戦略
 
@@ -137,10 +137,10 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## Related
 
-- [[jimoto-hd]] (きらやか銀・仙台銀 HD・山形県内最大の競合)
-- [[fidea-hd]] (荘内銀・北都銀 HD・庄内地方/秋田で部分競合)
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] (メガバンク・東京経由の取引関係)
-- [[ndfg]] · [[regional-banks/sbi-shinsei-bank|shinsei-bank]] (^[likely] 関連性低)
+- [[regional-banks/jimoto-hd]] (きらやか銀・仙台銀 HD・山形県内最大の競合)
+- [[regional-banks/fidea-hd]] (荘内銀・北都銀 HD・庄内地方/秋田で部分競合)
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] (メガバンク・東京経由の取引関係)
+- [[megabanks/ndfg]] · [[regional-banks/sbi-shinsei-bank|shinsei-bank]] (^[likely] 関連性低)
 
 ## Sources
 

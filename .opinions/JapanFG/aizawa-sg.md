@@ -46,7 +46,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## Counterpoints
 
-- 「アジア新興国差別化の持続性」：ネット証券（[[sbi-hd]] / [[monex-group]]）が外国株拡充するとフロンティア銘柄でも価格優位性侵食 ^[ambiguous]
+- 「アジア新興国差別化の持続性」：ネット証券（[[megabanks/sbi-hd]] / [[securities-firms/monex-group]]）が外国株拡充するとフロンティア銘柄でも価格優位性侵食 ^[ambiguous]
 - 「フロンティア市場リスク」：ベトナム・インドネシア偏重で現地通貨・政治リスクが集中。コロナ期のような流動性ショック耐性は限定的 ^[inferred]
 - 「規模の劣後」：単独 IB 案件・大型 ECM/DCM は手掛けず、収益源はリテール仲介手数料中心 → 株式市場低迷期のボラティリティが大 ^[inferred]
 - 「持株会社化（2017）の戦略意義」：グループ統治改善 vs 規模の小ささから複雑化のデメリット ^[ambiguous]
@@ -54,7 +54,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 ## Open questions
 
 - アジア新興国カバレッジを「銘柄数 / 取引量 / セミナー数」で定量化した競合比較は？
-- 大手ネット証券（[[sbi-hd]] / [[monex-group]]）のアジア株拡充に対する価格・サービス対抗策は？
+- 大手ネット証券（[[megabanks/sbi-hd]] / [[securities-firms/monex-group]]）のアジア株拡充に対する価格・サービス対抗策は？
 - 創業家（藍澤家）の経営関与度合いは現在どの程度か？
 - ベトナム・インドネシア の現地法人収益貢献度（連結比）は？
-- 中堅独立証券間の業界再編（[[okasan-sg]] / [[tokai-tokyo-fh]] 等との連携・統合）シナリオは？
+- 中堅独立証券間の業界再編（[[securities-firms/okasan-sg]] / [[securities-firms/tokai-tokyo-fh]] 等との連携・統合）シナリオは？

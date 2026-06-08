@@ -14,7 +14,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 - FM Global's market share by premium is small versus the domestic [[insurance/japan-nonlife-big-three|non-life big three]], but its share of large industrial property capacity is meaningful. ^[inferred]
 - Mutual structure means no public equity disclosure; financial metrics rely on Factory Mutual's group reports and Japan branch FSA filings rather than stock-market reporting. ^[inferred]
-- Engineering-led pricing model can lead to client churn when softer-market competitors (e.g., [[JapanFG/lloyd-japan|Lloyd's Japan]] syndicates) offer lower rates without loss-prevention conditions. ^[inferred]
+- Engineering-led pricing model can lead to client churn when softer-market competitors (e.g., [[non-life-insurers/lloyd-japan|Lloyd's Japan]] syndicates) offer lower rates without loss-prevention conditions. ^[inferred]
 
 ## Open questions
 

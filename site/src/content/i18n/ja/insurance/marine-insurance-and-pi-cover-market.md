@@ -45,7 +45,7 @@ translated_at: 2026-06-02T14:01:20.958Z
 
 | Cargo line | Cedent | Notes |
 |---|---|---|
-|日本語化済みの公開情報セル|[[mitsui-co|Mitsui & Co.]] 日本語化済みの公開情報セル|3社 日本語化済みの公開情報セル|
+|日本語化済みの公開情報セル|[[financial-conglomerates/mitsui-co|Mitsui & Co.]] 日本語化済みの公開情報セル|3社 日本語化済みの公開情報セル|
 |日本語化済みの公開情報セル|日本語化済みの公開情報セル|日本語化済みの公開情報セル|
 
 ## 4. P&I cover — the mutual layer

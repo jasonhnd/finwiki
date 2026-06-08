@@ -17,7 +17,7 @@ translated_at: 2026-06-02T14:25:12.391Z
 
 ## 要約
 
-株式会社大東銀行は、金融庁の銀行免許一覧に掲載される福島県郡山市本店の第二地方銀行である。福島県内では [[toho-bank]]、[[fukushima-bank]] と合わせて、第一地方銀行と第二地方銀行のカバレッジを分けて読む。
+株式会社大東銀行は、金融庁の銀行免許一覧に掲載される福島県郡山市本店の第二地方銀行である。福島県内では [[regional-banks/toho-bank]]、[[regional-banks/fukushima-bank]] と合わせて、第一地方銀行と第二地方銀行のカバレッジを分けて読む。
 
 ## 1. 免許・グループ境界
 
@@ -36,14 +36,14 @@ translated_at: 2026-06-02T14:25:12.391Z
 ## 3. このページが重要な理由
 
 - 福島県の第二地方銀行について、金融庁の銀行免許上の正確な名称の空白を埋める。
-- [[fukushima-bank]] の明確なピアページを提供する。
+- [[regional-banks/fukushima-bank]] の明確なピアページを提供する。
 - SBI 連携や地銀再編メモを銀行免許ページの代替として扱うことを避けられる。
 
 ## 関連
 
-- [[toho-bank]]
-- [[fukushima-bank]]
-- [[sbi-regional-bank-hd]]
+- [[regional-banks/toho-bank]]
+- [[regional-banks/fukushima-bank]]
+- [[megabanks/sbi-regional-bank-hd]]
 - [[banking/INDEX]]
 
 ## 出典

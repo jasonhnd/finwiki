@@ -13,7 +13,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 ## Counterpoints
 
 - **Geographic scope limit**: JRE POINT is bounded by JR-East serving area, which limits cross-merchant scale vs national common points. JR-East cannot easily extend JRE POINT acceptance to non-Tokyo regions where the JR-West / JR-Central / JR-Kyushu networks dominate.
-- **BaaS dependency risk**: JRE BANK relies on [[JapanFG/rakuten-bank|楽天銀行]] for the actual banking license, creating system-dependence and contract-renegotiation risk. The medium-term scenario of JR-East applying for its own banking license is open but capital-intensive.
+- **BaaS dependency risk**: JRE BANK relies on [[banking/rakuten-bank|楽天銀行]] for the actual banking license, creating system-dependence and contract-renegotiation risk. The medium-term scenario of JR-East applying for its own banking license is open but capital-intensive.
 - **Suica QR-payment lag**: JR-East's Suica Pay QR initiative competes with the much larger PayPay and is structurally behind on merchant acceptance. JRE POINT's QR-payment surface is weaker than national QR-anchored common points.
 - **Mobile Suica platform fees**: Apple Pay Suica is a major adoption driver but introduces Apple Pay fee economics that pressure Suica margin. Mobile Suica vs physical Suica economics is a JR-East-internal issue.
 - **JRE BANK leisure-traveler focus**: the long-distance-ticket discount benefit primarily attracts leisure travelers, not the larger commuter base. The deposit-scale ceiling may be lower than telco-anchored or EC-anchored peer banks.

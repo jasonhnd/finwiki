@@ -17,7 +17,7 @@ translated_at: 2026-06-02T14:25:12.441Z
 
 ## 要約
 
-株式会社北國銀行は、金融庁の銀行免許一覧に掲載される石川県地盤の地方銀行で、[[hokkoku-fhd]] の中核銀行事業会社である。[[hokkoku-fhd]] が持株会社・デジタルプラットフォーム戦略を扱うのに対し、本ページは銀行免許を持つ事業会社と地域融資の表面を扱う。
+株式会社北國銀行は、金融庁の銀行免許一覧に掲載される石川県地盤の地方銀行で、[[regional-banks/hokkoku-fhd]] の中核銀行事業会社である。[[regional-banks/hokkoku-fhd]] が持株会社・デジタルプラットフォーム戦略を扱うのに対し、本ページは銀行免許を持つ事業会社と地域融資の表面を扱う。
 
 ## 1. 免許・グループ境界
 
@@ -25,13 +25,13 @@ translated_at: 2026-06-02T14:25:12.441Z
 |---|---|
 | 法人名 | 株式会社北國銀行 |
 | 免許ルート | 銀行法上の地方銀行。FSA 銀行免許一覧に掲載 |
-| グループ境界 | [[hokkoku-fhd]] の銀行事業会社 |
+| グループ境界 | [[regional-banks/hokkoku-fhd]] の銀行事業会社 |
 | 地盤市場 | 石川 / 北陸 |
 | ウィキ上の役割 | 北國グループの銀行事業会社ページ |
 
 ## 2. 運営モデル
 
-北國銀行は、石川県・北陸地域の個人向け金融、中小企業向け金融、自治体金融を担いながら、[[hokkoku-fhd]] のデジタル / BaaS プラットフォーム戦略の実装母体にもなっている。持株会社と銀行事業会社を分けることで、IT プラットフォーム戦略と銀行免許業務を混同しない。北陸の地銀再編文脈は [[banking/regional-bank-consolidation-pattern]] を参照する。
+北國銀行は、石川県・北陸地域の個人向け金融、中小企業向け金融、自治体金融を担いながら、[[regional-banks/hokkoku-fhd]] のデジタル / BaaS プラットフォーム戦略の実装母体にもなっている。持株会社と銀行事業会社を分けることで、IT プラットフォーム戦略と銀行免許業務を混同しない。北陸の地銀再編文脈は [[banking/regional-bank-consolidation-pattern]] を参照する。
 
 ## 3. このページが重要な理由
 
@@ -41,10 +41,10 @@ translated_at: 2026-06-02T14:25:12.441Z
 
 ## 関連項目
 
-- [[hokkoku-fhd]]
-- [[hokuriku-bank]]
-- [[toyama-bank]]
-- [[toyama-first-bank]]
+- [[regional-banks/hokkoku-fhd]]
+- [[regional-banks/hokuriku-bank]]
+- [[regional-banks/toyama-bank]]
+- [[regional-banks/toyama-first-bank]]
 - [[banking/INDEX]]
 
 ## 出典

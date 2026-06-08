@@ -35,7 +35,7 @@ Nagoya Shinkin Bank's core business is SME lending, working capital, equipment f
 
 The structure of Aichi's financial market can be summarized as follows:
 - **First regional banks (mainstream regional banks)**: [[regional-banks/aichi-bank|Aichi Bank]] (former Aichi Bank + Chukyo Bank business integration) and [[regional-banks/nagoya-bank|Nagoya Bank]]
-- **Megabanks and other-prefecture regional banks in the Nagoya market**: [[mufg|MUFG]] Aichi base, plus [[smfg|SMBC]] and [[mizuho-fg|Mizuho FG]] Nagoya offices
+- **Megabanks and other-prefecture regional banks in the Nagoya market**: [[megabanks/mufg|MUFG]] Aichi base, plus [[megabanks/smfg|SMBC]] and [[megabanks/mizuho-fg|Mizuho FG]] Nagoya offices
 - **Shinkin layer**: Nagoya Shinkin Bank (urban Nagoya) + [[cooperative-banks/okazaki-shinkin|Okazaki Shinkin Bank]] (Nishimikawa automotive supply chain) + [[cooperative-banks/hamamatsu-iwata-shinkin|Hamamatsu Iwata Shinkin Bank]] (western Tokai edge, western Shizuoka) + other shinkin banks in Aichi Prefecture
 
 ### Nagoya Shinkin Bank vs Okazaki Shinkin Bank (Geographic / Industrial Split)

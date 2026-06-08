@@ -67,8 +67,8 @@
     "wikilinks_count": 22,
     "wikilinks": [
       "INDEX",
-      "JapanFG/rakuten-bank",
       "JapanFG/tokyu-card",
+      "banking/rakuten-bank",
       "card-issuers/aeon-bank",
       "card-issuers/jal-card",
       "card-issuers/jr-east-financial",
@@ -91,8 +91,8 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/rakuten-bank",
       "https://finwiki.zksc.io/JapanFG/tokyu-card",
+      "https://finwiki.zksc.io/banking/rakuten-bank",
       "https://finwiki.zksc.io/card-issuers/aeon-bank",
       "https://finwiki.zksc.io/card-issuers/jal-card",
       "https://finwiki.zksc.io/card-issuers/jr-east-financial",
@@ -120,6 +120,6 @@
     "nonspace_chars": 13051,
     "word_like_tokens": 2266,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-08"
   }
 }

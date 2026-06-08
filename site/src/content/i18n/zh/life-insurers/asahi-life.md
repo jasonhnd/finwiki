@@ -17,7 +17,7 @@ translated_at: 2026-05-31T11:13:44.891Z
 
 ##TL;博士
 
-朝日相互人寿保险公司是一家在金融厅人寿保险公司执照名单和人寿保险协会会员名单上上市的日本人寿保险运营公司。[[nippon-life]]、[[meiji-yasuda]]、[[sumitomo-life]]、[[fukoku-life]] 由于它采用互助公司的形式，因此与上市公司或银行子公司具有不同的治理/资本边界。
+朝日相互人寿保险公司是一家在金融厅人寿保险公司执照名单和人寿保险协会会员名单上上市的日本人寿保险运营公司。[[life-insurers/nippon-life]]、[[life-insurers/meiji-yasuda]]、[[life-insurers/sumitomo-life]]、[[life-insurers/fukoku-life]] 由于它采用互助公司的形式，因此与上市公司或银行子公司具有不同的治理/资本边界。
 
 ## 1。许可证/组边界
 
@@ -38,17 +38,17 @@ translated_at: 2026-05-31T11:13:44.891Z
 ## 3。为什么此页面很重要
 
 - 主要传统人寿保险公司之前并未作为独立的 JapanFG 实体代表。
-- 与上市/股份公司人寿保险公司的有用比较点，例如 [[dai-ichi-life]] 和 [[sony-life]]。
+- 与上市/股份公司人寿保险公司的有用比较点，例如 [[life-insurers/dai-ichi-life]] 和 [[life-insurers/sony-life]]。
 - 保持 FSA 登记数量与 JapanFG 的保险范围保持一致。
 
 ＃＃ 有关的
 
 - [[insurance/INDEX]]
 - [[insurance/mutual-vs-stock-life-insurer]]
-- [[nippon-life]]
-- [[meiji-yasuda]]
-- [[sumitomo-life]]
-- [[fukoku-life]]
+- [[life-insurers/nippon-life]]
+- [[life-insurers/meiji-yasuda]]
+- [[life-insurers/sumitomo-life]]
+- [[life-insurers/fukoku-life]]
 
 ## 来源
 

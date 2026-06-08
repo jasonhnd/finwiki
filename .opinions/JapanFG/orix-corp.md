@@ -28,8 +28,8 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## 推論 (from 競合・差別化)
 
-- **対 [[mufg]] / [[smfg]] / [[mizuho-fg]]**: メガバンク傘下リース会社（[[JapanFG/mitsubishi-hc-capital|三菱 HC キャピタル]]・[[JapanFG/smfl|smfl]]・[[JapanFG/mizuho-lease|みずほリース]]）に対し、**独立系・コングロマリット型**で多角化幅が広い ^[inferred]
-- **対 [[JapanFG/fuyo-lease|芙蓉総合リース]] / [[JapanFG/tokyo-century|東京センチュリー]] / [[JapanFG/ntt-tc-lease|NTT・TC リース]]**: リース単体ではなく **保険・銀行・不動産・米州 PE まで一気通貫** ^[inferred]
+- **対 [[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]]**: メガバンク傘下リース会社（[[leasing-firms/mitsubishi-hc-capital|三菱 HC キャピタル]]・[[leasing-firms/smfl|smfl]]・[[leasing-firms/mizuho-lease|みずほリース]]）に対し、**独立系・コングロマリット型**で多角化幅が広い ^[inferred]
+- **対 [[leasing-firms/fuyo-lease|芙蓉総合リース]] / [[leasing-firms/tokyo-century|東京センチュリー]] / [[leasing-firms/ntt-tc-lease|NTT・TC リース]]**: リース単体ではなく **保険・銀行・不動産・米州 PE まで一気通貫** ^[inferred]
 
 ## 推論 (from 4. 規制・政策)
 

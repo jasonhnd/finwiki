@@ -84,7 +84,7 @@ Fukushima Prefecture has four credit cooperatives in the FSA registry, Nos. 19-2
 ## 5. Supervision and Regulation
 
 - **Supervisor**: FSA and Tohoku Local Finance Bureau.
-- **Legal basis**: [[regulators-japan/financial-laws-stack|Small and Medium-Sized Enterprise Cooperatives Act]] and the Act on Financial Businesses by Cooperatives.
+- **Legal basis**: [[financial-regulators/financial-laws-stack|Small and Medium-Sized Enterprise Cooperatives Act]] and the Act on Financial Businesses by Cooperatives.
 - **Deposit insurance**: covered by [[financial-regulators/dic|Deposit Insurance Corporation of Japan]] under the ordinary financial-institution framework, up to ¥10M plus interest for protected deposits.
 - **Current policy issues**:
   - rebuilding regional finance demand after the completion of the disaster-reconstruction phase;

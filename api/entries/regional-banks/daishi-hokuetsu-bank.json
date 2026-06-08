@@ -48,40 +48,38 @@
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 11,
+    "wikilinks_count": 10,
     "wikilinks": [
       "INDEX",
       "banking/INDEX",
       "banking/regional-bank-consolidation-pattern",
-      "dai-shi-hokuetsu-fg",
       "financial-regulators/fsa",
       "financial-regulators/zenginkyo",
-      "hokuhoku-fg",
       "regional-banks/INDEX",
       "regional-banks/dai-shi-hokuetsu-fg",
       "regional-banks/hachijuni-nagano-bank",
-      "taiko-bank"
+      "regional-banks/hokuhoku-fg",
+      "regional-banks/taiko-bank"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
-      "https://finwiki.zksc.io/dai-shi-hokuetsu-fg",
       "https://finwiki.zksc.io/financial-regulators/fsa",
       "https://finwiki.zksc.io/financial-regulators/zenginkyo",
-      "https://finwiki.zksc.io/hokuhoku-fg",
       "https://finwiki.zksc.io/regional-banks/INDEX",
       "https://finwiki.zksc.io/regional-banks/dai-shi-hokuetsu-fg",
       "https://finwiki.zksc.io/regional-banks/hachijuni-nagano-bank",
-      "https://finwiki.zksc.io/taiko-bank"
+      "https://finwiki.zksc.io/regional-banks/hokuhoku-fg",
+      "https://finwiki.zksc.io/regional-banks/taiko-bank"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2663,
-    "word_like_tokens": 378,
-    "inbound_wikilinks_count": 3,
-    "last_modified": "2026-06-05"
+    "nonspace_chars": 2738,
+    "word_like_tokens": 388,
+    "inbound_wikilinks_count": 6,
+    "last_modified": "2026-06-08"
   }
 }

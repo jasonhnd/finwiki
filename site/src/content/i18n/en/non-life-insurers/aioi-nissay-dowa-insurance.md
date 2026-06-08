@@ -17,7 +17,7 @@ This entry sits under[[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read i
 
 ## TL;DR
 
-Aioi Nissay Dowa Insurance Co., Ltd.[[msad]]group's non-life insurance operating company. Listed on the Financial Services Agency's list of non-life insurance company licenses, and within the MS&AD group[[mitsui-sumitomo-insurance]]and a separate legal-entity and channel boundary.
+Aioi Nissay Dowa Insurance Co., Ltd.[[non-life-insurers/msad]]group's non-life insurance operating company. Listed on the Financial Services Agency's list of non-life insurance company licenses, and within the MS&AD group[[non-life-insurers/mitsui-sumitomo-insurance]]and a separate legal-entity and channel boundary.
 
 ## 1. License / group boundary
 
@@ -26,7 +26,7 @@ Aioi Nissay Dowa Insurance Co., Ltd.[[msad]]group's non-life insurance operating
 | Legal name | Aioi Nissay Dowa Insurance Co., Ltd. |
 | License route | Insurance Business Act non-life insurance company; FSA non-life insurer list |
 | Protection scheme | Non-Life Insurance Policyholders Protection Corporation member |
-| Group boundary |[[msad]]non-life operating company |
+| Group boundary |[[non-life-insurers/msad]]non-life operating company |
 | Wiki role | MS&AD domestic-retail / motor / regional-channel non-life arm |
 
 ## 2. Operating model
@@ -36,14 +36,14 @@ Aioi Nissay Dowa is important because MS&AD is not a one-operating-company group
 ## 3. Why this page matters
 
 - Completes the MS&AD domestic non-life operating-company split.
-- Key peer for[[tokio-marine-nichido-fire]]and[[sompo-japan-insurance]].
+- Key peer for[[non-life-insurers/tokio-marine-nichido-fire]]and[[non-life-insurers/sompo-japan-insurance]].
 - Registry-backed D3 non-life major page.
 
 ## Related
 
-- [[msad]]
-- [[mitsui-sumitomo-insurance]]
-- [[mitsui-sumitomo-aioi-life]]
+- [[non-life-insurers/msad]]
+- [[non-life-insurers/mitsui-sumitomo-insurance]]
+- [[life-insurers/mitsui-sumitomo-aioi-life]]
 - [[insurance/natcat-reinsurance-japan]]
 - [[insurance/INDEX]]
 

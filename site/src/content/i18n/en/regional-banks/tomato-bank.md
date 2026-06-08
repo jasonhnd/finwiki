@@ -15,7 +15,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-Tomato Bank, Ltd. is an Okayama-headquartered second regional bank listed in the FSA bank license list. Within Okayama Prefecture it is treated as the local second-regional-bank peer of [[chugoku-bank]].
+Tomato Bank, Ltd. is an Okayama-headquartered second regional bank listed in the FSA bank license list. Within Okayama Prefecture it is treated as the local second-regional-bank peer of [[regional-banks/chugoku-bank]].
 
 ## 1. License / group boundary
 
@@ -29,19 +29,19 @@ Tomato Bank, Ltd. is an Okayama-headquartered second regional bank listed in the
 
 ## 2. Operating model
 
-Tomato Bank is a second regional bank centered on Okayama Prefecture, providing retail deposits, SME finance, local consumer banking, and regional relationship services. Whereas [[chugoku-bank]] is the prefecture's primary regional bank anchor, Tomato Bank is organized here as the exact-name anchor for the second regional bank. For Chugoku regional-bank consolidation context, see [[banking/regional-bank-consolidation-pattern]].
+Tomato Bank is a second regional bank centered on Okayama Prefecture, providing retail deposits, SME finance, local consumer banking, and regional relationship services. Whereas [[regional-banks/chugoku-bank]] is the prefecture's primary regional bank anchor, Tomato Bank is organized here as the exact-name anchor for the second regional bank. For Chugoku regional-bank consolidation context, see [[banking/regional-bank-consolidation-pattern]].
 
 ## 3. Why this page matters
 
 - Closes the FSA exact-name page for Tomato Bank.
 - Adds a separate Okayama second-regional-bank route.
-- Prevents the bank from being swallowed by [[chugin-okayama]] / Chugoku Bank coverage.
+- Prevents the bank from being swallowed by [[regional-banks/chugin-okayama]] / Chugoku Bank coverage.
 
 ## Related
 
-- [[chugoku-bank]]
-- [[chugin-okayama]]
-- [[tottori-bank]]
+- [[regional-banks/chugoku-bank]]
+- [[regional-banks/chugin-okayama]]
+- [[regional-banks/tottori-bank]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 

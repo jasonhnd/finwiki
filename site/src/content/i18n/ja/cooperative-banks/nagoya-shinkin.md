@@ -36,7 +36,7 @@ translated_at: 2026-06-02T14:54:39.041Z
 
 愛知県金融市場の構造は以下のように整理される：
 - **第一地銀（主流地銀）**: [[regional-banks/aichi-bank|あいち銀行]]（旧 愛知銀行＋中京銀行が経営統合）・[[regional-banks/nagoya-bank|名古屋銀行]]
-- **メガ・他県地銀の名古屋市場**: [[mufg|MUFG]] の愛知地盤・[[smfg|SMBC]]・[[mizuho-fg|みずほ FG]] の名古屋拠点
+- **メガ・他県地銀の名古屋市場**: [[megabanks/mufg|MUFG]] の愛知地盤・[[megabanks/smfg|SMBC]]・[[megabanks/mizuho-fg|みずほ FG]] の名古屋拠点
 - **信用金庫レイヤー**: 名古屋信用金庫（名古屋都市部）+ [[cooperative-banks/okazaki-shinkin|岡崎信用金庫]]（西三河自動車サプライチェーン）+ [[cooperative-banks/hamamatsu-iwata-shinkin|浜松磐田信用金庫]]（東海西端、静岡西部）+ 愛知県内の他信用金庫
 
 ### 名古屋信用金庫 vs 岡崎信用金庫（地理・産業上の分担）

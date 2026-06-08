@@ -52,33 +52,33 @@
     "wikilinks_count": 9,
     "wikilinks": [
       "banking/INDEX",
-      "hokuhoku-fg",
-      "mufg",
-      "ogaki-kyoritsu-bank",
+      "megabanks/mufg",
       "regional-banks/INDEX",
       "regional-banks/aichi-fg",
       "regional-banks/fukuoka-fg",
-      "san-jusan-fg",
-      "shizuoka-fg"
+      "regional-banks/hokuhoku-fg",
+      "regional-banks/ogaki-kyoritsu-bank",
+      "regional-banks/san-jusan-fg",
+      "regional-banks/shizuoka-fg"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/hokuhoku-fg",
-      "https://finwiki.zksc.io/mufg",
-      "https://finwiki.zksc.io/ogaki-kyoritsu-bank",
+      "https://finwiki.zksc.io/megabanks/mufg",
       "https://finwiki.zksc.io/regional-banks/INDEX",
       "https://finwiki.zksc.io/regional-banks/aichi-fg",
       "https://finwiki.zksc.io/regional-banks/fukuoka-fg",
-      "https://finwiki.zksc.io/san-jusan-fg",
-      "https://finwiki.zksc.io/shizuoka-fg"
+      "https://finwiki.zksc.io/regional-banks/hokuhoku-fg",
+      "https://finwiki.zksc.io/regional-banks/ogaki-kyoritsu-bank",
+      "https://finwiki.zksc.io/regional-banks/san-jusan-fg",
+      "https://finwiki.zksc.io/regional-banks/shizuoka-fg"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3795,
-    "word_like_tokens": 558,
-    "inbound_wikilinks_count": 4,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 3890,
+    "word_like_tokens": 570,
+    "inbound_wikilinks_count": 10,
+    "last_modified": "2026-06-08"
   }
 }

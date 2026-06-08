@@ -62,7 +62,7 @@ Mid-sized crypto asset exchange company in Japan. **Formerly Huobi Japan2022-08 
 |---|---|
 |major spot|bitFlyer / Coincheck (under Monex) / GMO Coin / SBI VC Trade|
 |backbone spot|**BitTrade** / DMM Bitcoin (old) / bitbank / LINE Xenesis (old) etc.|
-|Bank system| [[mufg]]Stablecoin via Progmat /[[smfg]]etc. movement|
+|Bank system| [[megabanks/mufg]]Stablecoin via Progmat /[[megabanks/smfg]]etc. movement|
 |Major overseas domestic corporation|Binance Japan (formerly Sakura Exchange BitCoin acquisition), etc.|
 
 ### Strategy Theme
@@ -87,8 +87,8 @@ Mid-sized crypto asset exchange company in Japan. **Formerly Huobi Japan2022-08 
 
 ## Related
 
--[[mufg]]·[[smfg]]·[[mizuho-fg]]·[[sbi-hd]]
--[[bitflyer]]·[[exchanges/jp-exchange-coincheck|coincheck]]·[[gmo-coin]]·[[exchanges/jp-exchange-sbi-vc-trade|sbi-vc-trade]]
+-[[megabanks/mufg]]·[[megabanks/smfg]]·[[megabanks/mizuho-fg]]·[[megabanks/sbi-hd]]
+-[[payment-firms/bitflyer]]·[[exchanges/jp-exchange-coincheck|coincheck]]·[[payment-firms/gmo-coin]]·[[exchanges/jp-exchange-sbi-vc-trade|sbi-vc-trade]]
 
 ## Sources
 

@@ -71,7 +71,7 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it again
 |---|---|
 | 大手 spot | bitFlyer / Coincheck（マネックス傘下）/ GMO コイン / SBI VC Trade |
 | 中堅 spot | **BitTrade** / DMM Bitcoin（旧）/ bitbank / LINE Xenesis（旧）等 |
-| 銀行系 | [[mufg]] Progmat 経由ステーブルコイン / [[smfg]] 等の動き |
+| 銀行系 | [[megabanks/mufg]] Progmat 経由ステーブルコイン / [[megabanks/smfg]] 等の動き |
 | 海外大手の国内法人 | Binance Japan（旧 Sakura Exchange BitCoin 買収）等 |
 
 ### 戦略テーマ
@@ -96,8 +96,8 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it again
 
 ## Related
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[sbi-hd]]
-- [[bitflyer]] · [[exchanges/jp-exchange-coincheck|coincheck]] · [[gmo-coin]] · [[exchanges/jp-exchange-sbi-vc-trade|sbi-vc-trade]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[megabanks/sbi-hd]]
+- [[payment-firms/bitflyer]] · [[exchanges/jp-exchange-coincheck|coincheck]] · [[payment-firms/gmo-coin]] · [[exchanges/jp-exchange-sbi-vc-trade|sbi-vc-trade]]
 
 ## Sources
 

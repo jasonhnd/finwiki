@@ -16,7 +16,7 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 
 ## TL;DR
 
-Mitsui Sumitomo Aioi Life Insurance Co., Ltd. is the life-insurance operating company of the [[msad]] group. [[msad]] is primarily a non-life insurance group, but this entity is a separate FSA-listed life insurer and belongs in the same comparison set as [[sompo-himawari-life]] and [[tokio-marine-nichido-life]].
+Mitsui Sumitomo Aioi Life Insurance Co., Ltd. is the life-insurance operating company of the [[non-life-insurers/msad]] group. [[non-life-insurers/msad]] is primarily a non-life insurance group, but this entity is a separate FSA-listed life insurer and belongs in the same comparison set as [[life-insurers/sompo-himawari-life]] and [[life-insurers/tokio-marine-nichido-life]].
 
 ## 1. License / group boundary
 
@@ -25,7 +25,7 @@ Mitsui Sumitomo Aioi Life Insurance Co., Ltd. is the life-insurance operating co
 | Legal name | Mitsui Sumitomo Aioi Life Insurance Co., Ltd. |
 | License route | Insurance Business Act life-insurance company; FSA life insurer list |
 | Industry body | Life Insurance Association of Japan member |
-| Group boundary | [[msad]] life-insurance operating company |
+| Group boundary | [[non-life-insurers/msad]] life-insurance operating company |
 | Wiki role | MS&AD group's life-insurance underwriting arm |
 
 ## 2. Operating model
@@ -35,14 +35,14 @@ The MS&AD group's non-life distribution and customer relationships can support l
 ## 3. Why this page matters
 
 - Completes the big-three non-life group life-arm comparison.
-- Prevents MS&AD life-insurance exposure from being hidden inside [[msad]].
+- Prevents MS&AD life-insurance exposure from being hidden inside [[non-life-insurers/msad]].
 - Registry-backed D2 specialty / group-life operating-company page.
 
 ## Related
 
-- [[msad]]
-- [[sompo-himawari-life]]
-- [[tokio-marine-nichido-life]]
+- [[non-life-insurers/msad]]
+- [[life-insurers/sompo-himawari-life]]
+- [[life-insurers/tokio-marine-nichido-life]]
 - [[insurance/life-insurance-channel-mix]]
 - [[insurance/INDEX]]
 

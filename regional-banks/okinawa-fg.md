@@ -26,7 +26,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-沖縄県地盤の単独地銀 FG（連結総資産 **2 兆 8552 億円**、純利益 **79 億円** / 2025-03 期、純利益 **+27% 増**）。2021-10-01 [[okinawa-bank|沖縄銀行]] の単独株式移転で持株会社化、東証 PRIME 7350。県内 No.1 地銀 **[[okinawa-bank|沖縄銀行]]（1956 設立、県指定金融機関を [[ryukyu-bank]] と隔年受託）+ おきぎん証券・おきぎんリース・おきぎん JCB** 等の県内完結グループ構造。**観光業 V 字回復（那覇空港第 2 滑走路・JUNGLIA テーマパーク 2025〜開業）+ 法人融資強化 + 有価証券利回り改善 + 投信販売・事業承継手数料増**が直近の追い風。県内 3 行（[[okinawa-bank|沖縄銀行]]・[[ryukyu-bank]]・[[okinawa-kaiho-bank|沖縄海邦銀行]]）寡占構造で、**沖縄銀行が県内預貸金シェア約 30% で首位**を維持。
+沖縄県地盤の単独地銀 FG（連結総資産 **2 兆 8552 億円**、純利益 **79 億円** / 2025-03 期、純利益 **+27% 増**）。2021-10-01 [[regional-banks/okinawa-bank|沖縄銀行]] の単独株式移転で持株会社化、東証 PRIME 7350。県内 No.1 地銀 **[[regional-banks/okinawa-bank|沖縄銀行]]（1956 設立、県指定金融機関を [[regional-banks/ryukyu-bank]] と隔年受託）+ おきぎん証券・おきぎんリース・おきぎん JCB** 等の県内完結グループ構造。**観光業 V 字回復（那覇空港第 2 滑走路・JUNGLIA テーマパーク 2025〜開業）+ 法人融資強化 + 有価証券利回り改善 + 投信販売・事業承継手数料増**が直近の追い風。県内 3 行（[[regional-banks/okinawa-bank|沖縄銀行]]・[[regional-banks/ryukyu-bank]]・[[regional-banks/okinawa-kaiho-bank|沖縄海邦銀行]]）寡占構造で、**沖縄銀行が県内預貸金シェア約 30% で首位**を維持。
 
 ## 1. 会社概要
 
@@ -65,10 +65,10 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ```
 おきなわ FG（持株会社・上場 7350）
-  ├── 沖縄銀行（100%）── [[okinawa-bank]] / 県内 No.1 地銀・1956 設立・本店 那覇市久茂地
+  ├── 沖縄銀行（100%）── [[regional-banks/okinawa-bank]] / 県内 No.1 地銀・1956 設立・本店 那覇市久茂地
   │     ├── 県内 65 店（2015-03 末ベース・直近は再編進行中）
   │     ├── 連結総資産 2.8 兆円超・県内預貸金シェア約 30% 首位
-  │     ├── 沖縄県指定金融機関（[[ryukyu-bank]] と隔年で受託）
+  │     ├── 沖縄県指定金融機関（[[regional-banks/ryukyu-bank]] と隔年で受託）
   │     ├── 信託併営銀行（1959-05 信託業務開始）
   │     ├── 1989-09 東証 1 部上場（現 PRIME 8392→2021-10 上場廃止・FG 化）
   │     ├── OKIPay（2019-06〜 QR 決済）
@@ -166,12 +166,12 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 | 行 | 地位 | 預貸金シェア | 上場 | 持株会社化 |
 |---|---|---|---|---|
 | **沖縄銀行**（おきなわ FG）| **県内 No.1** | 約 30% | PRIME 7350（FG）| ◯（2021-10）|
-| **[[ryukyu-bank]]**（琉球銀行）| 県内 No.2 | 約 25% 級 | PRIME 8399 | × |
-| **[[okinawa-kaiho-bank|沖縄海邦銀行]]**（海銀）| 県内 No.3 | 約 10% 級 | 非上場（公開会社）| × |
+| **[[regional-banks/ryukyu-bank]]**（琉球銀行）| 県内 No.2 | 約 25% 級 | PRIME 8399 | × |
+| **[[regional-banks/okinawa-kaiho-bank|沖縄海邦銀行]]**（海銀）| 県内 No.3 | 約 10% 級 | 非上場（公開会社）| × |
 
-- **持株会社化の比較優位**: おきなわ FG は県内 3 行で唯一の持株会社化。証券・リース・JCB 等非銀行子会社を持株会社直下に並列配置 → 信託・証券・カード横断の総合金融サービス展開で [[ryukyu-bank]] 単独銀行モデルと差別化
-- **県指定金融機関**: 沖縄県の指定金融機関を [[ryukyu-bank]] と **隔年で受託**（両行均衡を保つ独特の慣行）
-- **本土地銀との差**: 県外進出は限定的・本土主要都市駐在事務所のみ。本土地銀の県外展開（[[kyushu-fg]]・[[fukuoka-fg]] 等）と異なり、**県内完結モデル**を維持
+- **持株会社化の比較優位**: おきなわ FG は県内 3 行で唯一の持株会社化。証券・リース・JCB 等非銀行子会社を持株会社直下に並列配置 → 信託・証券・カード横断の総合金融サービス展開で [[regional-banks/ryukyu-bank]] 単独銀行モデルと差別化
+- **県指定金融機関**: 沖縄県の指定金融機関を [[regional-banks/ryukyu-bank]] と **隔年で受託**（両行均衡を保つ独特の慣行）
+- **本土地銀との差**: 県外進出は限定的・本土主要都市駐在事務所のみ。本土地銀の県外展開（[[regional-banks/kyushu-fg]]・[[regional-banks/fukuoka-fg]] 等）と異なり、**県内完結モデル**を維持
 
 ### 役員（2022-03 時点 公開）
 
@@ -193,9 +193,9 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## Related
 
-- [[ryukyu-bank]] — 沖縄県内 No.2 地銀・1948 設立・PRIME 8399・単独銀行
-- [[kyushu-fg]] · [[fukuoka-fg]] · [[nishi-nippon-fhd]] — 九州地区競合・本土地銀
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] — メガバンク県内拠点・大企業向け競合
+- [[regional-banks/ryukyu-bank]] — 沖縄県内 No.2 地銀・1948 設立・PRIME 8399・単独銀行
+- [[regional-banks/kyushu-fg]] · [[regional-banks/fukuoka-fg]] · [[regional-banks/nishi-nippon-fhd]] — 九州地区競合・本土地銀
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] — メガバンク県内拠点・大企業向け競合
 - [[regional-banks/INDEX|regional-banks INDEX]]
 
 ## Sources

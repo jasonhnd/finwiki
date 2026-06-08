@@ -32,7 +32,7 @@ This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]].
 **設立**：2001-04（上田短資 + 八木短資 合併発足）^[extracted]
 **業態**：短資会社（日本独自の短期金融市場専業業態）
 **上場**：非上場（独立系）
-**業界ポジション**：日本 3 大短資会社の一角（[[central-tanshi]] / 上田八木短資 / [[tokyo-tanshi]]）
+**業界ポジション**：日本 3 大短資会社の一角（[[financial-regulators/central-tanshi]] / 上田八木短資 / [[financial-regulators/tokyo-tanshi]]）
 
 ### 前身・合併歴史
 
@@ -81,7 +81,7 @@ This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]].
 
 ### 競合関係
 
-- **直接競合**: [[central-tanshi]] / [[tokyo-tanshi]]（3 大短資相互競合）
+- **直接競合**: [[financial-regulators/central-tanshi]] / [[financial-regulators/tokyo-tanshi]]（3 大短資相互競合）
 - **間接競合**: 大手証券会社（短期国債 OTC 市場）・銀行間直接取引（コール直取）
 - **業界保護要因**: 日銀オペレーション対手としての制度的位置付け
 
@@ -102,7 +102,7 @@ This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]].
 
 ## Related
 
-- [[central-tanshi]] · [[tokyo-tanshi]] · [[mufg]] · [[smfg]] · [[mizuho-fg]]
+- [[financial-regulators/central-tanshi]] · [[financial-regulators/tokyo-tanshi]] · [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]
 - [[money-market/japan-money-market|japan-money-market]] · [[money-market/boj-open-market-operations|boj-open-market-operations]]
 
 ## Sources

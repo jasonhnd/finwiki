@@ -15,7 +15,7 @@ This entry sits under [[consumer-finance/INDEX|consumer-finance INDEX]]. Read it
 
 ## TL;DR
 
-A major consumer finance company originating in Kyoto. **1967-04 Yoshitaka Fukuda founded the personal business "Marusan" in Kyoto**, and it was renamed "Aiful" in 1978 . The business is centered on unsecured personal loans (card loans) + credit cards (Life Card subsidiary) + business loans. Alongside Acom (within [[mufg]]) and Promise (within [[smfg]]), it is one of the "3 major consumer finance companies" and is the only major independent company not belonging to a megabank group ★. The grey-zone interest-rate and overpayment-refund problem of 2006-2010  caused a management crisis, followed by rehabilitation through business turnaround ADR. Listed on TSE PRIME 8515 . ^[extracted]
+A major consumer finance company originating in Kyoto. **1967-04 Yoshitaka Fukuda founded the personal business "Marusan" in Kyoto**, and it was renamed "Aiful" in 1978 . The business is centered on unsecured personal loans (card loans) + credit cards (Life Card subsidiary) + business loans. Alongside Acom (within [[megabanks/mufg]]) and Promise (within [[megabanks/smfg]]), it is one of the "3 major consumer finance companies" and is the only major independent company not belonging to a megabank group ★. The grey-zone interest-rate and overpayment-refund problem of 2006-2010  caused a management crisis, followed by rehabilitation through business turnaround ADR. Listed on TSE PRIME 8515 . ^[extracted]
 
 ## 1. Company overview
 
@@ -33,8 +33,8 @@ Industry position among **3 major consumer finance companies** (including indepe
 
 | Company | Group | Major shareholder |
 |---|---|---|
-| Acom | [[mufg]] group | Mitsubishi UFJ Bank equity-method 39.6% |
-| Promise (SMBC Consumer Finance) | [[smfg]] group | Wholly owned subsidiary of SMFG 100% |
+| Acom | [[megabanks/mufg]] group | Mitsubishi UFJ Bank equity-method 39.6% |
+| Promise (SMBC Consumer Finance) | [[megabanks/smfg]] group | Wholly owned subsidiary of SMFG 100% |
 | **Aiful** | **Independent** (not affiliated with a megabank) ★ | **Independent capital centered on the founding Fukuda family** |
 
 ### Major group companies
@@ -51,7 +51,7 @@ Aiful (holding-company function + direct business / listed 8515)
 
 ### Founding family and independence
 
-The **independent capital structure centered on the founding Fukuda family** is the largest feature. Unlike Acom ([[mufg]] equity-method 39.6%) and Promise ([[smfg]] 100% wholly owned subsidiary), Aiful is the only major consumer finance company not incorporated into a megabank group. ^[extracted]
+The **independent capital structure centered on the founding Fukuda family** is the largest feature. Unlike Acom ([[megabanks/mufg]] equity-method 39.6%) and Promise ([[megabanks/smfg]] 100% wholly owned subsidiary), Aiful is the only major consumer finance company not incorporated into a megabank group. ^[extracted]
 
 ## 2. Business segment map
 
@@ -113,11 +113,11 @@ As an independent major consumer finance company outside megabank groups:
 
 | Competitor | Group | Difference from Aiful |
 |---|---|---|
-| Acom | [[mufg]] group (equity-method 39.6%) | Leads through parent-bank ATM and referral flow; overseas expansion such as Thailand Easy Buy |
-| Promise (SMBCCF) | [[smfg]] 100% wholly owned subsidiary | High referral efficiency through integrated operation with parent bank |
-| Rakuten Card / PayPay Card | [[rakuten-fg]] / [[paypay-fg]] | Integrated with EC / payment platforms and ahead among younger users |
+| Acom | [[megabanks/mufg]] group (equity-method 39.6%) | Leads through parent-bank ATM and referral flow; overseas expansion such as Thailand Easy Buy |
+| Promise (SMBCCF) | [[megabanks/smfg]] 100% wholly owned subsidiary | High referral efficiency through integrated operation with parent bank |
+| Rakuten Card / PayPay Card | [[payment-firms/rakuten-fg]] / [[megabanks/paypay-fg]] | Integrated with EC / payment platforms and ahead among younger users |
 | Bank card loans | All megabanks and regional banks | Lower-rate bank-operated card loans became substitutes |
-| [[orico]] / [[credit-saison]] / [[jaccs]] | Consumer-credit companies | Different axis around installment credit; adjacent to consumer finance |
+| [[card-issuers/orico]] / [[card-issuers/credit-saison]] / [[card-issuers/jaccs]] | Consumer-credit companies | Different axis around installment credit; adjacent to consumer finance |
 
 ### Medium-term strategy (publicly disclosed direction)
 
@@ -149,13 +149,13 @@ As an independent major consumer finance company outside megabank groups:
 
 ## Related
 
-- [[mufg]] — competitor among 3 major consumer finance companies (Acom equity-method 39.6%)
-- [[smfg]] — competitor among 3 major consumer finance companies (Promise = SMBCCF 100% subsidiary)
-- [[jaccs]] — major consumer-credit company / adjacent business
-- [[orico]] — major consumer-credit company / adjacent business
-- [[credit-saison]] — major consumer-credit company / adjacent business
-- [[rakuten-fg]] — youth-segment erosion by Rakuten Card
-- [[paypay-fg]] — payment-platform erosion by PayPay Card
+- [[megabanks/mufg]] — competitor among 3 major consumer finance companies (Acom equity-method 39.6%)
+- [[megabanks/smfg]] — competitor among 3 major consumer finance companies (Promise = SMBCCF 100% subsidiary)
+- [[card-issuers/jaccs]] — major consumer-credit company / adjacent business
+- [[card-issuers/orico]] — major consumer-credit company / adjacent business
+- [[card-issuers/credit-saison]] — major consumer-credit company / adjacent business
+- [[payment-firms/rakuten-fg]] — youth-segment erosion by Rakuten Card
+- [[megabanks/paypay-fg]] — payment-platform erosion by PayPay Card
 
 ## Sources
 

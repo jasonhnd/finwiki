@@ -99,7 +99,7 @@ translated_at: 2026-06-02T15:14:17.098Z
 
 ## 関連項目
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[ndfg]] · [[sbi-hd]] · [[paypay-fg]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[megabanks/ndfg]] · [[megabanks/sbi-hd]] · [[megabanks/paypay-fg]]
 - [[banking/rakuten-bank]] · [[regional-banks/sbi-shinsei-bank|banking/sbi-shinsei-bank]] · [[banking/au-jibun-bank]] · [[banking/minna-bank-baas-model]]
 
 ## 出典

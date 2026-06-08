@@ -29,7 +29,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[asset-managers/INDEX|asset-managers INDEX]] as the operating-company anchor for [[card-issuers/credit-saison|Credit Saison]] グループの投資信託子会社. Read it against [[card-issuers/credit-saison|クレディセゾン（親会社）]], peer 長期分散投資の[[JapanFG/hifumi|レオス・キャピタルワークス（ひふみ投信）]]・[[JapanFG/sawakami-am|さわかみ投信]]・[[JapanFG/commons-am|コモンズ投信]]、distribution channel [[asset-managers/INDEX]] の直販投信群、broader context [[asset-management/INDEX|asset management index]] for the regulatory boundary.
+This entry sits under [[asset-managers/INDEX|asset-managers INDEX]] as the operating-company anchor for [[card-issuers/credit-saison|Credit Saison]] グループの投資信託子会社. Read it against [[card-issuers/credit-saison|クレディセゾン（親会社）]], peer 長期分散投資の[[JapanFG/hifumi|レオス・キャピタルワークス（ひふみ投信）]]・[[JapanFG/sawakami-am|さわかみ投信]]・[[JapanFG/commons-am|コモンズ投信]]、distribution channel [[asset-managers/INDEX]] の直販投信群、broader context [[asset-managers/INDEX|asset management index]] for the regulatory boundary.
 
 ## TL;DR
 
@@ -147,7 +147,7 @@ This entry sits under [[asset-managers/INDEX|asset-managers INDEX]] as the opera
 - [[JapanFG/commons-am]] — 独立系直販投信ピア
 - [[trust-banks/master-trust-bank]] — 受託信託銀行
 - [[megabanks/mizuho-fg]] — 親会社系列メインバンク
-- [[asset-management/INDEX]] — asset management namespace index
+- [[asset-managers/INDEX]] — asset management namespace index
 - [[asset-managers/INDEX]] — JapanFG namespace index
 
 ## Sources

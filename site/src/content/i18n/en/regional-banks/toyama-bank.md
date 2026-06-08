@@ -15,7 +15,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-The Toyama Bank, Ltd. is a regional bank headquartered in Takaoka, Toyama Prefecture and listed in the FSA bank-license list. It belongs to the Toyama-prefecture regional-bank competitive set alongside [[hokuriku-bank]] and [[toyama-first-bank]], but it is a standalone licensed bank that a holding-company page would miss.
+The Toyama Bank, Ltd. is a regional bank headquartered in Takaoka, Toyama Prefecture and listed in the FSA bank-license list. It belongs to the Toyama-prefecture regional-bank competitive set alongside [[regional-banks/hokuriku-bank]] and [[regional-banks/toyama-first-bank]], but it is a standalone licensed bank that a holding-company page would miss.
 
 ## 1. License / group boundary
 
@@ -33,14 +33,14 @@ Toyama Bank is a smaller regional bank focused on Toyama prefecture retail, SME,
 ## 3. Why this page matters
 
 - Adds an exact-name FSA regional-bank page.
-- Complements [[hokuriku-bank]] and [[toyama-first-bank]].
+- Complements [[regional-banks/hokuriku-bank]] and [[regional-banks/toyama-first-bank]].
 - Registry-backed B2.1  regional-bank operating-company page, tracked under the wider [[regional-banks/INDEX|regional-banks INDEX]] surface.
 
 ## Related
 
-- [[hokuriku-bank]]
-- [[toyama-first-bank]]
-- [[hokuhoku-fg]]
+- [[regional-banks/hokuriku-bank]]
+- [[regional-banks/toyama-first-bank]]
+- [[regional-banks/hokuhoku-fg]]
 - [[banking/INDEX]]
 
 ## Sources

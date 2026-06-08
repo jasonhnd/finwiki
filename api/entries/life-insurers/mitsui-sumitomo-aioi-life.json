@@ -54,26 +54,26 @@
       "insurance/life-insurance-channel-mix",
       "life-insurers/INDEX",
       "life-insurers/ms-primary-life",
-      "msad",
-      "sompo-himawari-life",
-      "tokio-marine-nichido-life"
+      "life-insurers/sompo-himawari-life",
+      "life-insurers/tokio-marine-nichido-life",
+      "non-life-insurers/msad"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/insurance/INDEX",
       "https://finwiki.zksc.io/insurance/life-insurance-channel-mix",
       "https://finwiki.zksc.io/life-insurers/INDEX",
       "https://finwiki.zksc.io/life-insurers/ms-primary-life",
-      "https://finwiki.zksc.io/msad",
-      "https://finwiki.zksc.io/sompo-himawari-life",
-      "https://finwiki.zksc.io/tokio-marine-nichido-life"
+      "https://finwiki.zksc.io/life-insurers/sompo-himawari-life",
+      "https://finwiki.zksc.io/life-insurers/tokio-marine-nichido-life",
+      "https://finwiki.zksc.io/non-life-insurers/msad"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1961,
-    "word_like_tokens": 315,
-    "inbound_wikilinks_count": 4,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 2107,
+    "word_like_tokens": 338,
+    "inbound_wikilinks_count": 6,
+    "last_modified": "2026-06-08"
   }
 }

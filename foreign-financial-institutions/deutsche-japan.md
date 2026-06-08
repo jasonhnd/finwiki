@@ -23,7 +23,7 @@ This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-i
 
 ## TL;DR
 
-ドイツ銀行 (Deutsche Bank AG, フランクフルト本社、**G-SIB Bucket 2**) の日本拠点群の総称。**東京支店 (1972 開設) + ドイチェ証券 (法人 IB)** の 2 軸が中核。本国の経営難 (2016-2019) を経て 2019-07 グローバル投資銀行リストラ (世界 18,000 人削減) で日本オペレーションも縮小。現在は **IB + マーケッツ (債券・FX 強み) + アセマネ (DWS) + プライベートバンキング** に集中、リテール未展開。競合は [[citigroup-japan]] / [[hsbc-japan]] / UBS / バークレイズ。
+ドイツ銀行 (Deutsche Bank AG, フランクフルト本社、**G-SIB Bucket 2**) の日本拠点群の総称。**東京支店 (1972 開設) + ドイチェ証券 (法人 IB)** の 2 軸が中核。本国の経営難 (2016-2019) を経て 2019-07 グローバル投資銀行リストラ (世界 18,000 人削減) で日本オペレーションも縮小。現在は **IB + マーケッツ (債券・FX 強み) + アセマネ (DWS) + プライベートバンキング** に集中、リテール未展開。競合は [[foreign-financial-institutions/citigroup-japan]] / [[foreign-financial-institutions/hsbc-japan]] / UBS / バークレイズ。
 
 ## 1. 会社概要
 
@@ -90,11 +90,11 @@ This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-i
 
 | 競合 | 強み比較 |
 |---|---|
-| [[citigroup-japan]] | 米系、リテール撤退後の IB・マーケッツで近い領域 |
-| [[hsbc-japan]] | 英系、アジアネットワーク強み、リテール 2012 撤退 |
+| [[foreign-financial-institutions/citigroup-japan]] | 米系、リテール撤退後の IB・マーケッツで近い領域 |
+| [[foreign-financial-institutions/hsbc-japan]] | 英系、アジアネットワーク強み、リテール 2012 撤退 |
 | UBS 日本 | スイス系、PB で世界 1 位の存在感、IB は縮小傾向 |
 | バークレイズ 日本 | 英系、IB・マーケッツで類似ポジション |
-| 邦銀 IB ([[mufg]] MUMSS / [[smfg]] SMBC 日興 / [[mizuho-fg]]) | 国内顧客基盤で圧倒、クロスボーダーで欧米系と競合 |
+| 邦銀 IB ([[megabanks/mufg]] MUMSS / [[megabanks/smfg]] SMBC 日興 / [[megabanks/mizuho-fg]]) | 国内顧客基盤で圧倒、クロスボーダーで欧米系と競合 |
 
 ### 本国親会社との連動
 
@@ -114,17 +114,17 @@ This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-i
 ## 7. Open questions
 
 - 2019 グローバルリストラ後の日本における人員規模・収益貢献の最新値は？(公開情報限定)
-- DWS 日本拠点の AUM 規模、邦銀系運用 ([[mufg]] AM 等) との比較は？
+- DWS 日本拠点の AUM 規模、邦銀系運用 ([[megabanks/mufg]] AM 等) との比較は？
 - Deutsche Bank Wealth Management 日本における富裕層シェア・競合 (UBS / クレディ・スイス UBS 統合後) との位置関係は？
 - 円債プライマリーディーラー資格・国債入札参加度合い (公開ランキング外の機微部分)
 - 本国親会社の戦略再編 (2024-2025 中期計画) が日本拠点に及ぼす影響は？
-- 邦銀メガ [[mufg]] / [[smfg]] / [[mizuho-fg]] とのアライアンス・ジョイントベンチャーの過去・将来可能性?
+- 邦銀メガ [[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]] とのアライアンス・ジョイントベンチャーの過去・将来可能性?
 
 ## 8. Related
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[ndfg]]
-- [[citigroup-japan]] · [[hsbc-japan]]
-- (関連予定: [[ubs-japan]] · [[barclays-japan]] · [[foreign-financial-institutions/bnp-paribas-japan|bnp-japan]] · [[foreign-financial-institutions/socgen-japan|socgen-japan]])
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[megabanks/ndfg]]
+- [[foreign-financial-institutions/citigroup-japan]] · [[foreign-financial-institutions/hsbc-japan]]
+- (関連予定: [[foreign-financial-institutions/ubs-japan]] · [[foreign-financial-institutions/barclays-japan]] · [[foreign-financial-institutions/bnp-paribas-japan|bnp-japan]] · [[foreign-financial-institutions/socgen-japan|socgen-japan]])
 
 ## Sources
 

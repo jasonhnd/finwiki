@@ -16,7 +16,7 @@ translated_at: 2026-05-31T11:13:44.892Z
 
 ##TL;博士
 
-英国 **Barclays PLC**（G-SIB Bucket 2）的日本基地。 **1969 驻在员事务所开设 → 1972 东京分店 → 1986 第一家在东京证券交易所上市的英国银行 → 1987 BZW证券营业部 → 1990 东京证交所会员 → 2006 巴克莱资本证券化 → 2012 商号更改为巴克莱证券**。随着雷曼冲击后的全球重组，**北美被巴克莱收购，亚太地区（包括日本）被巴克莱收购。 [[nomura-hd]] 由于雷曼收购，日本基地将不会直接受益于雷曼整合，并将奉行自力更生的 IB/市场集中战略。2016 因全球重组退出亚洲股权现金业务，目前**日本、香港、新加坡和印度 4 该基地仍将作为亚洲核心市场**。关于 500 名规模、总公司：六本木新城森大厦 31F。^[extracted]
+英国 **Barclays PLC**（G-SIB Bucket 2）的日本基地。 **1969 驻在员事务所开设 → 1972 东京分店 → 1986 第一家在东京证券交易所上市的英国银行 → 1987 BZW证券营业部 → 1990 东京证交所会员 → 2006 巴克莱资本证券化 → 2012 商号更改为巴克莱证券**。随着雷曼冲击后的全球重组，**北美被巴克莱收购，亚太地区（包括日本）被巴克莱收购。 [[securities-firms/nomura-hd]] 由于雷曼收购，日本基地将不会直接受益于雷曼整合，并将奉行自力更生的 IB/市场集中战略。2016 因全球重组退出亚洲股权现金业务，目前**日本、香港、新加坡和印度 4 该基地仍将作为亚洲核心市场**。关于 500 名规模、总公司：六本木新城森大厦 31F。^[extracted]
 
 ## 1。公司简介
 
@@ -32,7 +32,7 @@ translated_at: 2026-05-31T11:13:44.892Z
 
 - 前 **巴克莱资本证券** (2006-2012）→ 2012 因商号变更而现用的名称
 - 前 **巴克莱投资管理**（资产管理）— 过去的存在
-- 前身为 **巴克莱全球投资者信托银行** (BGI) → 2008 住友信托银行（现 [[sumitomo-mitsui-trust]]）合并于 ^[extracted]
+- 前身为 **巴克莱全球投资者信托银行** (BGI) → 2008 住友信托银行（现 [[trust-banks/sumitomo-mitsui-trust]]）合并于 ^[extracted]
 
 ### 巴克莱证券（实质性信息）^[extracted]
 
@@ -74,8 +74,8 @@ Barclays PLC（英国上场、G-SIB Bucket 2）
 | 1998 | **更名为巴克莱资本证券有限公司** 东京分公司 ^[extracted] |
 | 2006 |巴克莱资本证券有限公司 → **巴克莱资本证券有限公司**（在日本注册成立）^[extracted] |
 | **2008-06-28** |东京证交所退市 ^[extracted] |
-| **2008-09** | ** 雷曼兄弟美洲业务约 17.5 億以美元收购**（加强全球 IB） — 然而，**亚太地区 + 欧洲/中东 [[nomura-hd]] 收购**，日本基地无直接整合效果 ^[extracted] |
-| 2008 | **华大信托银行 → 住友信托银行（目前 [[sumitomo-mitsui-trust]]) 合并** ^[extracted] |
+| **2008-09** | ** 雷曼兄弟美洲业务约 17.5 億以美元收购**（加强全球 IB） — 然而，**亚太地区 + 欧洲/中东 [[securities-firms/nomura-hd]] 收购**，日本基地无直接整合效果 ^[extracted] |
+| 2008 | **华大信托银行 → 住友信托银行（目前 [[trust-banks/sumitomo-mitsui-trust]]) 合并** ^[extracted] |
 | **2009-06** |母公司巴克莱银行将整个华大基因部门出售给贝莱德 135 億出售美元** → 日本也有效退出资产管理 ^[extracted] |
 | **2010-03** | **大手町↔六本木基地交换**（部分替换为继承了前雷曼基地的野村证券；巴克莱搬迁至六本木新城森大厦） 31聚合至 F)^[extracted] |
 | 2012 |巴克莱资本证券 → 商号变更为**巴克莱证券有限公司** ^[extracted] |
@@ -85,7 +85,7 @@ Barclays PLC（英国上场、G-SIB Bucket 2）
 | 2024-01 |马场直彦被任命为**首席经济学家兼研究总监** ^[extracted] |
 | 2025-01 |竹村洋一被任命为**日本宏观贸易总部** ^[extracted] |
 
-> **误解**：巴克莱银行 **雷曼北美收购 (2008-09）并没有带来日本人员或业务的直接增加**。亚太地区（包括日本）+欧洲和中东 [[nomura-hd]] 获得了它。日本的并购/IB扩张是自行进行的。
+> **误解**：巴克莱银行 **雷曼北美收购 (2008-09）并没有带来日本人员或业务的直接增加**。亚太地区（包括日本）+欧洲和中东 [[securities-firms/nomura-hd]] 获得了它。日本的并购/IB扩张是自行进行的。
 
 ## 3.业务板块图
 
@@ -106,9 +106,9 @@ Barclays PLC（英国上场、G-SIB Bucket 2）
 ### 在日本的竞争地位
 - **优势**：全球 DCM（债券承销）——全球排名第一 10, 跨境利率/外汇市场 ^[extracted]
 - **弱点**：国内并购/ECM 超出排名 - 过去 5 几年内 2016 年 16 位（约 1.2 兆円) 是最高的 ^[extracted]
-- **竞合**: 中坚外资 IB — [[ubs-japan]] / [[deutsche-japan]] / [[bnp-paribas-japan]] / [[hsbc-japan]] / [[standard-chartered-japan]] / [[citigroup-japan]]
-- **美国主要公司（较高）**： [[goldman-sachs-japan]] / [[morgan-stanley-japan]] / [[jpmorgan-japan]]
-- **国内的**： [[nomura-hd]] / [[smbc-nikko]] / [[daiwa-sg]] / 妈妈SS（[[mufg]] × 摩根士丹利合资公司）
+- **竞合**: 中坚外资 IB — [[foreign-financial-institutions/ubs-japan]] / [[foreign-financial-institutions/deutsche-japan]] / [[foreign-financial-institutions/bnp-paribas-japan]] / [[foreign-financial-institutions/hsbc-japan]] / [[foreign-financial-institutions/standard-chartered-japan]] / [[foreign-financial-institutions/citigroup-japan]]
+- **美国主要公司（较高）**： [[securities-firms/goldman-sachs-japan]] / [[securities-firms/morgan-stanley-japan]] / [[foreign-financial-institutions/jpmorgan-japan]]
+- **国内的**： [[securities-firms/nomura-hd]] / [[securities-firms/smbc-nikko]] / [[securities-firms/daiwa-sg]] / 妈妈SS（[[megabanks/mufg]] × 摩根士丹利合资公司）
 
 ### 过去的主要项目
 - 2016 **Asahi Group HD 收购中欧和东欧啤酒（约 2000 万美元） 8900 億円)** 买方顾问
@@ -125,10 +125,10 @@ Barclays PLC（英国上场、G-SIB Bucket 2）
 
 ＃＃ 有关的
 
-- **中坚外资 IB**: [[ubs-japan]] · [[deutsche-japan]] · [[bnp-paribas-japan]] · [[hsbc-japan]] · [[standard-chartered-japan]] · [[citigroup-japan]]
-- **大手外资 IB**: [[goldman-sachs-japan]] · [[morgan-stanley-japan]] · [[jpmorgan-japan]]
-- **日本竞争对手**： [[nomura-hd]] · [[smbc-nikko]] · [[daiwa-sg]] · [[mufg]]
-- **过去的关系**： [[sumitomo-mitsui-trust]] （原华大信托吸收）
+- **中坚外资 IB**: [[foreign-financial-institutions/ubs-japan]] · [[foreign-financial-institutions/deutsche-japan]] · [[foreign-financial-institutions/bnp-paribas-japan]] · [[foreign-financial-institutions/hsbc-japan]] · [[foreign-financial-institutions/standard-chartered-japan]] · [[foreign-financial-institutions/citigroup-japan]]
+- **大手外资 IB**: [[securities-firms/goldman-sachs-japan]] · [[securities-firms/morgan-stanley-japan]] · [[foreign-financial-institutions/jpmorgan-japan]]
+- **日本竞争对手**： [[securities-firms/nomura-hd]] · [[securities-firms/smbc-nikko]] · [[securities-firms/daiwa-sg]] · [[megabanks/mufg]]
+- **过去的关系**： [[trust-banks/sumitomo-mitsui-trust]] （原华大信托吸收）
 
 ## 来源
 

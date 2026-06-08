@@ -23,7 +23,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 - **地域経済縮小**: いわき市人口 (33 万人台) 漸減トレンドで組合員基盤の長期縮小リスク ^[inferred]
 - **被災地特殊性**: 震災・原発事故後の地域経済構造変化で従来の融資セグメントが縮小、復興需要終了後の事業ポートフォリオ転換が課題 ^[inferred]
-- **スケール劣位**: [[JapanFG/toho-bank|東邦銀行]] (福島地銀) や [[JapanFG/abukuma-shinkin|あぶくま信金]] 等の地域同業との競合で、より小規模な信組ならではの差別化が必要 ^[inferred]
+- **スケール劣位**: [[regional-banks/toho-bank|東邦銀行]] (福島地銀) や [[JapanFG/abukuma-shinkin|あぶくま信金]] 等の地域同業との競合で、より小規模な信組ならではの差別化が必要 ^[inferred]
 - **DX 対応コスト**: 系統 (全信組連) 経由のシステム共同化に依存、自前 DX 投資余力は限定的 ^[inferred]
 
 ## Open questions
@@ -45,6 +45,6 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 ### 東日本大震災・原発事故対応 (2011-) ^[inferred]
 
 - **被災地金融機関**として、震災後の継続営業 + 復興融資が事業の中核課題
-- 政府系金融機関 ([[JapanFG/dbj|日本政策投資銀行]]・[[JapanFG/shoko-chukin|商工中金]]・JFC) との連携による被災 SME 支援
+- 政府系金融機関 ([[financial-regulators/dbj|日本政策投資銀行]]・[[financial-regulators/shoko-chukin|商工中金]]・JFC) との連携による被災 SME 支援
 - **避難指示区域**の組合員対応 (双葉郡関連) と帰還ローン
-- [[JapanFG/dic|預金保険機構]] による震災対応スキームの活用 (該当範囲は限定的)
+- [[financial-regulators/dic|預金保険機構]] による震災対応スキームの活用 (該当範囲は限定的)

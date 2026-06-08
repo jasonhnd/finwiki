@@ -64,7 +64,7 @@
     "wikilinks_count": 31,
     "wikilinks": [
       "INDEX",
-      "JapanFG/japan-master-trust-and-custody-bank-landscape",
+      "banking/japan-master-trust-and-custody-bank-landscape",
       "derivatives/INDEX",
       "derivatives/dealer-bank-derivatives-revenue-mix",
       "derivatives/japan-interest-rate-derivatives-overview",
@@ -97,7 +97,7 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/japan-master-trust-and-custody-bank-landscape",
+      "https://finwiki.zksc.io/banking/japan-master-trust-and-custody-bank-landscape",
       "https://finwiki.zksc.io/derivatives/INDEX",
       "https://finwiki.zksc.io/derivatives/dealer-bank-derivatives-revenue-mix",
       "https://finwiki.zksc.io/derivatives/japan-interest-rate-derivatives-overview",
@@ -135,6 +135,6 @@
     "nonspace_chars": 18816,
     "word_like_tokens": 2905,
     "inbound_wikilinks_count": 8,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-08"
   }
 }

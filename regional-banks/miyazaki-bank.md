@@ -54,11 +54,11 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 ## Related
 
 - [[regional-banks/INDEX|regional-banks INDEX]]
-- [[miyazaki-taiyo-bank]]
-- [[higo-bank]]
-- [[kagoshima-bank]]
-- [[kyushu-fg]]
-- [[oita-bank]]
+- [[regional-banks/miyazaki-taiyo-bank]]
+- [[regional-banks/higo-bank]]
+- [[regional-banks/kagoshima-bank]]
+- [[regional-banks/kyushu-fg]]
+- [[regional-banks/oita-bank]]
 - [[financial-regulators/fsa|FSA]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]

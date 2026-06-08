@@ -16,7 +16,7 @@ This entry sits under[[regional-banks/INDEX|regional-banks INDEX]]. Read it agai
 
 ## TL;DR
 
-Hokuriku3 Prefecture (Toyama, Ishikawa, Fukui) + Hokkaido**2 Regional Bank FG**.2003-09-26Hokuriku Bank became a holding company through a sole stock transfer (formerly Hokugin FG),2004-09-01merged with Hokkaido Bank and established **Hokuhoku FG**. **Geographical long tail strategy** (Hokuriku + Hokkaido long-distance 2  base) is its biggest feature, and it is the first "wide-area alliance of regional banks in distant regions" model in the history of Japanese banks. Hokuriku Bank is affiliated with the former 12th National Bank (founded 1877 ) based in Toyama Prefecture, and Hokkaido Bank is affiliated with the postwar establishment (1951) based in Sapporo. In Hokkaido, we are in competition with **[[ndfg]] (North Pacific Bank)**, and in Hokuriku, we are in the main bank position within Toyama Prefecture. ^[extracted]
+Hokuriku3 Prefecture (Toyama, Ishikawa, Fukui) + Hokkaido**2 Regional Bank FG**.2003-09-26Hokuriku Bank became a holding company through a sole stock transfer (formerly Hokugin FG),2004-09-01merged with Hokkaido Bank and established **Hokuhoku FG**. **Geographical long tail strategy** (Hokuriku + Hokkaido long-distance 2  base) is its biggest feature, and it is the first "wide-area alliance of regional banks in distant regions" model in the history of Japanese banks. Hokuriku Bank is affiliated with the former 12th National Bank (founded 1877 ) based in Toyama Prefecture, and Hokkaido Bank is affiliated with the postwar establishment (1951) based in Sapporo. In Hokkaido, we are in competition with **[[megabanks/ndfg]] (North Pacific Bank)**, and in Hokuriku, we are in the main bank position within Toyama Prefecture. ^[extracted]
 
 ## 1 . Company profile
 
@@ -66,7 +66,7 @@ Hokuhoku FG (Holding company/Listed 8377)
 |segment|Main business operators|Features|
 |---|---|---|
 |Hokuriku ground|Hokuriku Bank|Toyama prefecture main bank, expanded to Ishikawa and Fukui|
-|Hokkaido ground|Hokkaido Bank|Mainly in the Sapporo metropolitan area, competing with[[ndfg]](Kokuyo Bank) in Hokkaido|
+|Hokkaido ground|Hokkaido Bank|Mainly in the Sapporo metropolitan area, competing with[[megabanks/ndfg]](Kokuyo Bank) in Hokkaido|
 |Out-of-prefecture network|Hokuriku Bank (Kanto, Kansai, Hokkaido)|Expanded outside the prefecture early after the war, with large stores in Tokyo and Osaka.|
 |Securities/Cards/Lease|Hokuhoku TT Securities / Hokuriku Card / Hokkaido Bank Card, etc.|Group peripheral finance|
 |Tourism/agricultural finance|both banks|Hokuriku Shinkansen opening (2015) + Hokkaido tourism / Agriculture / Fisheries|
@@ -80,7 +80,7 @@ Hokuhoku FG (Holding company/Listed 8377)
 
 ### competitive structure
 
-- **Hokkaido**: Strong competition with[[ndfg]](North Pacific Bank). Hokkaido Bank share2 位position
+- **Hokkaido**: Strong competition with[[megabanks/ndfg]](North Pacific Bank). Hokkaido Bank share2 位position
 - **Toyama Prefecture**: Main bank position within the prefecture (differentiated from second-tier regional banks such as Toyama Daiichi Bank)
 - **Ishikawa Prefecture**: Competes with Hokkoku Bank / Hokkoku FH
 - **Fukui Prefecture**: Competes with Fukui Bank / Fukuho Bank
@@ -103,8 +103,8 @@ Hokuhoku FG (Holding company/Listed 8377)
 
 ## Related
 
-- [[mufg]] ·[[smfg]]· [[mizuho-fg]]
-- [[ndfg]] ·[[fukuoka-fg]]·[[resona-hd]]· [[sbi-hd]]
+- [[megabanks/mufg]] ·[[megabanks/smfg]]· [[megabanks/mizuho-fg]]
+- [[megabanks/ndfg]] ·[[regional-banks/fukuoka-fg]]·[[megabanks/resona-hd]]· [[megabanks/sbi-hd]]
 
 ## Sources
 

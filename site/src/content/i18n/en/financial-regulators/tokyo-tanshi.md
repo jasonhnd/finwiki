@@ -32,8 +32,8 @@ The 3  major tanshi companies are the 3 社 that survived postwar tanshi-industr
 
 | Company | Short name | Founded | Features |
 |---|---|---|---|
-| [[central-tanshi]] | Central Tanshi | 1909 | Lineage of former Yamane Tanshi + Ueda Tanshi; regarded as the largest in the industry |
-| [[ueda-yagi-tanshi]] | Ueda Yagi Tanshi | 1956 (merger) | Merger of former Ueda Tanshi + Yagi Tanshi; Kansai-linked capital |
+| [[financial-regulators/central-tanshi]] | Central Tanshi | 1909 | Lineage of former Yamane Tanshi + Ueda Tanshi; regarded as the largest in the industry |
+| [[financial-regulators/ueda-yagi-tanshi]] | Ueda Yagi Tanshi | 1956 (merger) | Merger of former Ueda Tanshi + Yagi Tanshi; Kansai-linked capital |
 | **Tokyo Tanshi** | TT | **1908-09** | **Oldest player, strengthening corporate FX brokerage** |
 
 ## 2. Business Segment Map
@@ -76,8 +76,8 @@ Tanshi companies generally do not take large proprietary trading positions; **br
 
 ## Related
 
-- [[central-tanshi]] · [[ueda-yagi-tanshi]] — the other 2 社 among the 3  major tanshi companies
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] — major customers (megabanks)
+- [[financial-regulators/central-tanshi]] · [[financial-regulators/ueda-yagi-tanshi]] — the other 2 社 among the 3  major tanshi companies
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] — major customers (megabanks)
 - [[financial-regulators/boj-monetary-policy]] — relationship with BOJ policy rate and call market
 - [[money-market/call-market-structure]] — call-market system
 

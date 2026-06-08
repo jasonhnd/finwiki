@@ -22,7 +22,7 @@ This entry sits under [[card-issuers/INDEX|card-issuers INDEX]]. Read it against
 
 ## TL;DR
 
-**日本唯一の国際カードブランド**。1961-01 旧三和銀行 + 日本信販 等の出資で「日本クレジットビューロー (Japan Credit Bureau)」として発足、後に略称「JCB」が社名・ブランド名として定着。国際 5 大カードブランド (**Visa / Mastercard / American Express / Discover / JCB**) の一角を構成し、**アジア (日本・中国・韓国・台湾・東南アジア) で強み**。非上場 — 主要株主は [[mufg]] 系・[[smfg]] 系の銀行連合。米国は Discover、中国は銀聯 (UnionPay) との相互利用提携で世界 200 超の国・地域でカバー。国内は [[smfg]] 系三井住友カード (Visa) / 楽天カード等と競合。
+**日本唯一の国際カードブランド**。1961-01 旧三和銀行 + 日本信販 等の出資で「日本クレジットビューロー (Japan Credit Bureau)」として発足、後に略称「JCB」が社名・ブランド名として定着。国際 5 大カードブランド (**Visa / Mastercard / American Express / Discover / JCB**) の一角を構成し、**アジア (日本・中国・韓国・台湾・東南アジア) で強み**。非上場 — 主要株主は [[megabanks/mufg]] 系・[[megabanks/smfg]] 系の銀行連合。米国は Discover、中国は銀聯 (UnionPay) との相互利用提携で世界 200 超の国・地域でカバー。国内は [[megabanks/smfg]] 系三井住友カード (Visa) / 楽天カード等と競合。
 
 ## 1. 会社概要
 
@@ -42,8 +42,8 @@ This entry sits under [[card-issuers/INDEX|card-issuers INDEX]]. Read it against
 
 | 株主 | 備考 |
 |---|---|
-| 三菱 UFJ 銀行 ([[mufg]] 系) | 旧三和銀行系の流れを継承 |
-| 三井住友 FG ([[smfg]] 系) | 旧太陽神戸 + 三井 + 住友系銀行の流れ |
+| 三菱 UFJ 銀行 ([[megabanks/mufg]] 系) | 旧三和銀行系の流れを継承 |
+| 三井住友 FG ([[megabanks/smfg]] 系) | 旧太陽神戸 + 三井 + 住友系銀行の流れ |
 | 三井住友信託銀行 | 信託系 |
 | その他 銀行系・関係会社 | 詳細持株比率は非上場のため限定開示 |
 
@@ -108,8 +108,8 @@ This entry sits under [[card-issuers/INDEX|card-issuers INDEX]]. Read it against
 
 ### 国内競合構図
 
-- **Visa 提携カード**: 三井住友カード ([[smfg]] 系・最大シェア) / 楽天カード / イオンカード等
-- **Mastercard 提携**: 楽天カード / dカード ([[ndfg]] 系) / au PAY カード等
+- **Visa 提携カード**: 三井住友カード ([[megabanks/smfg]] 系・最大シェア) / 楽天カード / イオンカード等
+- **Mastercard 提携**: 楽天カード / dカード ([[megabanks/ndfg]] 系) / au PAY カード等
 - **JCB ブランド**: 国内シェアは Visa に次ぐ 2 位前後 (推定 / 公開数値は限定的)
 - **デジタル決済競合**: PayPay / 楽天ペイ / d 払い / au PAY 等のコード決済が「カード+モバイル決済」需要を侵食
 
@@ -134,11 +134,11 @@ This entry sits under [[card-issuers/INDEX|card-issuers INDEX]]. Read it against
 
 ## Related
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] (主要株主・親銀行系)
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] (主要株主・親銀行系)
 - 国際ブランド競合: Visa / Mastercard / American Express / Discover
-- 国内競合: 三井住友カード ([[smfg]] 系) / 三菱 UFJ ニコス ([[mufg]] 系) / 楽天カード / dカード ([[ndfg]] 系)
+- 国内競合: 三井住友カード ([[megabanks/smfg]] 系) / 三菱 UFJ ニコス ([[megabanks/mufg]] 系) / 楽天カード / dカード ([[megabanks/ndfg]] 系)
 - アジア決済: 銀聯 (UnionPay) / Alipay / WeChat Pay
-- デジタル決済: PayPay ([[paypay-fg]] 系) / 楽天ペイ / d 払い / au PAY
+- デジタル決済: PayPay ([[megabanks/paypay-fg]] 系) / 楽天ペイ / d 払い / au PAY
 
 ## Sources
 

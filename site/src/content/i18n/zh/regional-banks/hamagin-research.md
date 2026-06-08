@@ -12,7 +12,7 @@ translated_at: 2026-05-31T15:29:03.865Z
 
 ## Wiki 路线
 
-本条目位于 [[regional-banks/INDEX|regional-banks INDEX]]，作为 [[concordia-fg|横浜 Financial Group]] 旗下地方银行系智库页面。
+本条目位于 [[regional-banks/INDEX|regional-banks INDEX]]，作为 [[regional-banks/concordia-fg|横浜 Financial Group]] 旗下地方银行系智库页面。
 
 ## 概要
 

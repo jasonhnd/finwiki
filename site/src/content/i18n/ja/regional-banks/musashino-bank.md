@@ -16,7 +16,7 @@ translated_at: 2026-06-02T14:54:39.088Z
 
 ## 要約
 
-埼玉県地盤の単独・第一地銀（東証 PRIME **8336**、本店さいたま市大宮区）。1952-03-06 戦後の埼玉県中小企業金融補完目的で **戦後新設地銀** として設立、1973 東証上場。略称「**むさしの**」。県内競合は **埼玉りそな銀行**（[[resona-hd]] 子会社、シェア No.1）。**TSUBASA アライアンス**（[[chiba-bank]] 主導の地銀広域連合）参加で IT・海外・市場運用を共同化。持株会社化していない単独銀行体制が継続中。^[extracted]
+埼玉県地盤の単独・第一地銀（東証 PRIME **8336**、本店さいたま市大宮区）。1952-03-06 戦後の埼玉県中小企業金融補完目的で **戦後新設地銀** として設立、1973 東証上場。略称「**むさしの**」。県内競合は **埼玉りそな銀行**（[[megabanks/resona-hd]] 子会社、シェア No.1）。**TSUBASA アライアンス**（[[regional-banks/chiba-bank]] 主導の地銀広域連合）参加で IT・海外・市場運用を共同化。持株会社化していない単独銀行体制が継続中。^[extracted]
 
 ## 1. 会社概要
 
@@ -35,7 +35,7 @@ translated_at: 2026-06-02T14:54:39.088Z
 | **1952-03-06** | **武蔵野銀行 設立**（戦後の埼玉県内中小企業金融補完目的、戦後新設地銀）|
 | 1973 | **東証上場** |
 | 2003 | **千葉銀行と業務提携**（後の TSUBASA アライアンス前史）|
-| 2015 | **TSUBASA アライアンス 参加**（[[chiba-bank]] 主導の地銀広域連合）|
+| 2015 | **TSUBASA アライアンス 参加**（[[regional-banks/chiba-bank]] 主導の地銀広域連合）|
 | 2022-04 | 東証市場区分見直し → 東証 PRIME 移行 |
 | 2024 | 中期経営計画 始動 |
 
@@ -45,7 +45,7 @@ translated_at: 2026-06-02T14:54:39.088Z
 武蔵野銀行（単独・東証 PRIME 8336）
   ├── 関連子会社（リース・カード・保証・コンサル 等 県内営業支援系）
   └── TSUBASA アライアンス（持分なし・業務提携）
-        ├── 千葉銀行（幹事）[[chiba-bank]]
+        ├── 千葉銀行（幹事）[[regional-banks/chiba-bank]]
         ├── 第四北越銀行
         ├── 中国銀行
         ├── 伊予銀行
@@ -79,7 +79,7 @@ translated_at: 2026-06-02T14:54:39.088Z
 
 ### TSUBASA アライアンス参加（2015〜）
 
-**TSUBASA アライアンス** は [[chiba-bank]] 主導の地銀広域連合で、武蔵野銀行は 2015 年参加。前史として 2003 年から千葉銀との業務提携が存在。^[extracted]
+**TSUBASA アライアンス** は [[regional-banks/chiba-bank]] 主導の地銀広域連合で、武蔵野銀行は 2015 年参加。前史として 2003 年から千葉銀との業務提携が存在。^[extracted]
 
 主な共同領域:
 - **基幹システム共同化**（TSUBASA 基幹系）
@@ -90,7 +90,7 @@ translated_at: 2026-06-02T14:54:39.088Z
 
 ### 持株会社化していない
 
-メガバンク・[[fukuoka-fg]] [[concordia-fg]] [[hokuhoku-fg]] 等は持株会社体制を採用するが、武蔵野銀行は **単独銀行体制を継続**している。
+メガバンク・[[regional-banks/fukuoka-fg]] [[regional-banks/concordia-fg]] [[regional-banks/hokuhoku-fg]] 等は持株会社体制を採用するが、武蔵野銀行は **単独銀行体制を継続**している。
 
 ## 4. 規制・政策
 
@@ -104,9 +104,9 @@ translated_at: 2026-06-02T14:54:39.088Z
 
 ## 関連項目
 
-- [[chiba-bank]] · [[resona-hd]] · [[gunma-bank]] · [[concordia-fg]]
-- [[fukuoka-fg]] · [[hokuhoku-fg]]
-- [[mufg]] · [[smfg]] · [[mizuho-fg]]
+- [[regional-banks/chiba-bank]] · [[megabanks/resona-hd]] · [[regional-banks/gunma-bank]] · [[regional-banks/concordia-fg]]
+- [[regional-banks/fukuoka-fg]] · [[regional-banks/hokuhoku-fg]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]
 
 ## 出典
 

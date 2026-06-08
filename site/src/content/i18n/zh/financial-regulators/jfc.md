@@ -120,7 +120,7 @@ JFC 的存在意义在于“**覆盖民间金融机构无法放贷的风险**”
 
 - **协同融资主角**：与地方银行、信用金库、信用组合并用自有贷款，是国民生活事业、中小企业事业的标准形态
 - **指定金融机构 scheme**：危机应对业务由民间银行作窗口，JFC 提供损害担保和 two-step loan
-- **不是竞争而是补完**：与 [[mufg]] / [[smfg]] / [[mizuho-fg]] 等 megabank 分工（megabank 聚焦中坚以上，JFC 聚焦小规模、创业、农林渔业）
+- **不是竞争而是补完**：与 [[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]] 等 megabank 分工（megabank 聚焦中坚以上，JFC 聚焦小规模、创业、农林渔业）
 
 ### 与 JBIC 的分离（2012-04）
 
@@ -149,9 +149,9 @@ JFC 的存在意义在于“**覆盖民间金融机构无法放贷的风险**”
 
 ## Related
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[ndfg]]
-- [[jbic]]（国际协力银行，2012  分离）
-- [[shoko-chukin]]（商工组合中央金库）
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[megabanks/ndfg]]
+- [[financial-regulators/jbic]]（国际协力银行，2012  分离）
+- [[financial-regulators/shoko-chukin]]（商工组合中央金库）
 - [[policy-finance/okinawa-development-finance-corp|okinawa-development-finance-corp]]（冲绳振兴开发金融公库）
 
 ## Sources

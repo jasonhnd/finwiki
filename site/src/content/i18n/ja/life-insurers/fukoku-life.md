@@ -17,7 +17,7 @@ translated_at: 2026-06-02T14:25:12.439Z
 
 ## 要約
 
-富国生命保険相互会社は、金融庁の生命保険会社一覧と生命保険協会会員一覧に載る相互会社形態の生命保険事業会社である。大手 4 社ほどの規模感を示す見出しはないが、独立系の相互会社生命保険会社として、[[asahi-life]]、[[nippon-life]]、[[meiji-yasuda]]、[[sumitomo-life]] と同じガバナンス分類で扱う。
+富国生命保険相互会社は、金融庁の生命保険会社一覧と生命保険協会会員一覧に載る相互会社形態の生命保険事業会社である。大手 4 社ほどの規模感を示す見出しはないが、独立系の相互会社生命保険会社として、[[life-insurers/asahi-life]]、[[life-insurers/nippon-life]]、[[life-insurers/meiji-yasuda]]、[[life-insurers/sumitomo-life]] と同じガバナンス分類で扱う。
 
 ## 1. 免許・グループ境界
 
@@ -43,10 +43,10 @@ translated_at: 2026-06-02T14:25:12.439Z
 
 ## 関連項目
 
-- [[asahi-life]]
-- [[nippon-life]]
-- [[meiji-yasuda]]
-- [[sumitomo-life]]
+- [[life-insurers/asahi-life]]
+- [[life-insurers/nippon-life]]
+- [[life-insurers/meiji-yasuda]]
+- [[life-insurers/sumitomo-life]]
 - [[insurance/mutual-vs-stock-life-insurer]]
 - [[insurance/INDEX]]
 

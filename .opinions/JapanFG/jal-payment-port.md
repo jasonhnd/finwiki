@@ -12,7 +12,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## Counterpoints
 
-- Travel-wallet engagement may be episodic compared with daily payment apps such as [[JapanFG/paypay|PayPay]] or [[JapanFG/au-payment|au PAY]].
+- Travel-wallet engagement may be episodic compared with daily payment apps such as [[payment-firms/paypay|PayPay]] or [[payment-firms/au-payment|au PAY]].
 - Public sources show business lines and registrations, but not transaction volume, active users, or interchange / FX economics.
 - Bank agency and financial instruments intermediary roles require care: they indicate mediation routes, not necessarily balance-sheet ownership.
 

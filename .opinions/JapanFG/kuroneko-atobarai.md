@@ -16,7 +16,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## 推論 (from 2. Business role)
 
-- 加盟店リスクを ヤマトクレジットファイナンス が引き受ける **保証型 BNPL** 構造 ([[JapanFG/net-protections-hd|Net Protections HD]] と類似)。^[inferred]
+- 加盟店リスクを ヤマトクレジットファイナンス が引き受ける **保証型 BNPL** 構造 ([[payment-firms/net-protections-hd|Net Protections HD]] と類似)。^[inferred]
 - 物流ネットワークから取得できる **配送完了データ** が与信判断・督促効率の優位性を生む点で純粋 fintech の BNPL と差別化される。^[inferred]
 
 ## 推論 (from 4. 規制・政策)
@@ -27,12 +27,12 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## Counterpoints
 
-- 「物流統合の優位は永続するか」: 純粋 fintech BNPL ([[JapanFG/paidy|Paidy]] / [[JapanFG/atone|atone]]) が API ベースで配送業者と連携可能になれば、物流統合の独自性は相対化されうる。^[ambiguous]
+- 「物流統合の優位は永続するか」: 純粋 fintech BNPL ([[payment-firms/paidy|Paidy]] / [[payment-firms/atone|atone]]) が API ベースで配送業者と連携可能になれば、物流統合の独自性は相対化されうる。^[ambiguous]
 - 「ヤマト HD の本業との利益相反」: 物流コストと金融収益のトレードオフが顕在化した場合、金融事業への投資配分が劣後する可能性。^[inferred]
-- 「コード払い・カード時代に EC 後払いの占有率は減るか」: PayPay / 楽天ペイ / d 払い 等のコード払いと、Visa / Mastercard / JCB ([[JapanFG/jcb|JCB]]) のクレジット決済が EC で伸びる中、後払いの相対シェアは長期論点。^[inferred]
+- 「コード払い・カード時代に EC 後払いの占有率は減るか」: PayPay / 楽天ペイ / d 払い 等のコード払いと、Visa / Mastercard / JCB ([[card-issuers/jcb|JCB]]) のクレジット決済が EC で伸びる中、後払いの相対シェアは長期論点。^[inferred]
 
 ## Open questions
 
 - ヤマトクレジットファイナンス の最新取扱高 / 加盟店数の公表値は?
-- 同じ物流系の佐川急便 / 日本郵便 ([[JapanFG/nippon-post|日本郵政]]) の後払い事業との競合構図は?
-- [[JapanFG/net-protections-hd|Net Protections HD]] と物流系 BNPL の加盟店重複率 / 業種別シェアは?
+- 同じ物流系の佐川急便 / 日本郵便 ([[megabanks/nippon-post|日本郵政]]) の後払い事業との競合構図は?
+- [[payment-firms/net-protections-hd|Net Protections HD]] と物流系 BNPL の加盟店重複率 / 業種別シェアは?

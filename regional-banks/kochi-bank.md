@@ -54,11 +54,11 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 ## Related
 
 - [[regional-banks/INDEX|regional-banks INDEX]]
-- [[shikoku-bank]]
-- [[awa-bank]]
-- [[hyakujushi-bank]]
-- [[iyo-bank]]
-- [[ehime-bank]]
+- [[regional-banks/shikoku-bank]]
+- [[regional-banks/awa-bank]]
+- [[regional-banks/hyakujushi-bank]]
+- [[regional-banks/iyo-bank]]
+- [[regional-banks/ehime-bank]]
 - [[financial-regulators/fsa|FSA]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]

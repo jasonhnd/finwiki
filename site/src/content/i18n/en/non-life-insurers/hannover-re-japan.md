@@ -40,17 +40,17 @@ Hannover Re Japan Branch is the Japanese branch of Hannover Rueck SE, listed in 
 
 - It anchors the European "third pillar" reinsurer in Japan and prevents the Japan reinsurance panel from being reduced to only Munich Re and Swiss Re.
 - It connects the [[insurance/natcat-reinsurance-japan]] system page with the major Japanese primary non-life insurers.
-- It is necessary for a structural map that compares domestic [[toa-reinsurance]] / [[japan-earthquake-reinsurance]] capacity with foreign reinsurer branches such as [[non-life-insurers/munich-re-japan]] and [[non-life-insurers/swiss-re-japan]].
+- It is necessary for a structural map that compares domestic [[non-life-insurers/toa-reinsurance]] / [[non-life-insurers/japan-earthquake-reinsurance]] capacity with foreign reinsurer branches such as [[non-life-insurers/munich-re-japan]] and [[non-life-insurers/swiss-re-japan]].
 
 ## Related
 
 - [[non-life-insurers/INDEX]]
-- [[munich-re-japan]]
-- [[swiss-re-japan]]
-- [[toa-reinsurance]]
-- [[japan-earthquake-reinsurance]]
-- [[scor-japan]]
-- [[rga-japan]]
+- [[non-life-insurers/munich-re-japan]]
+- [[non-life-insurers/swiss-re-japan]]
+- [[non-life-insurers/toa-reinsurance]]
+- [[non-life-insurers/japan-earthquake-reinsurance]]
+- [[non-life-insurers/scor-japan]]
+- [[life-insurers/rga-japan]]
 - [[insurance/natcat-reinsurance-japan]]
 - [[insurance/INDEX]]
 

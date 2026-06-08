@@ -48,16 +48,16 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 
 ## 4. Why this page matters
 
-- Splits the Higashi-Nippon Bank legal entity from the parent [[concordia-fg]].
+- Splits the Higashi-Nippon Bank legal entity from the parent [[regional-banks/concordia-fg]].
 - Keeps a clean Tokyo second-regional-bank license surface distinct from the FG holding company.
-- Complements [[yokohama-bank]] and [[tokyo-star-bank]] in the Kanto operating-company map.
+- Complements [[regional-banks/yokohama-bank]] and [[regional-banks/tokyo-star-bank]] in the Kanto operating-company map.
 
 ## Related
 
 - [[regional-banks/INDEX|regional-banks INDEX]]
-- [[concordia-fg]]
-- [[yokohama-bank]]
-- [[tokyo-star-bank]]
+- [[regional-banks/concordia-fg]]
+- [[regional-banks/yokohama-bank]]
+- [[regional-banks/tokyo-star-bank]]
 - [[financial-regulators/fsa|FSA]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]

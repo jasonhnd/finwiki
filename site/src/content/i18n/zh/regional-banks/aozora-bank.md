@@ -105,7 +105,7 @@ translated_at: 2026-05-31T11:13:44.867Z
 ## 3. 监管与政策
 
 - **监管机关**：金融厅（FSA）。
-- **制度谱系**：是前长期信用银行体系中少数存续下来的独立银行之一。可与 [[mizuho-fg]]、前 Long-Term Credit Bank of Japan / 新生银行系、以及 NCB / 青空系对照理解。
+- **制度谱系**：是前长期信用银行体系中少数存续下来的独立银行之一。可与 [[megabanks/mizuho-fg]]、前 Long-Term Credit Bank of Japan / 新生银行系、以及 NCB / 青空系对照理解。
 - **存款保险机构角色**：1998-12 破产后的特别公的管理，是此行历史理解中的关键节点。
 - **当前政策议题**：
   - 日本银行利率正常化后，国内利差改善可能带来正面影响；
@@ -114,10 +114,10 @@ translated_at: 2026-05-31T11:13:44.867Z
 
 ## Related
 
-- [[sbi-hd]]：SBI 新生银行体系与整合讨论的旁支对照。
-- [[smfg]]
-- [[mizuho-fg]]
-- [[ndfg]]
+- [[megabanks/sbi-hd]]：SBI 新生银行体系与整合讨论的旁支对照。
+- [[megabanks/smfg]]
+- [[megabanks/mizuho-fg]]
+- [[megabanks/ndfg]]
 
 ## 来源
 

@@ -120,7 +120,7 @@ JFC exists to "**cover risks that private financial institutions cannot lend aga
 
 - **Co-financing as the main role**: combined use with regional banks, shinkin banks, and credit cooperatives is the standard form in the National Life Business and SME Business
 - **Designated financial institution scheme**: for crisis-response operations, private banks are the front offices while JFC provides damage guarantees and two-step loans
-- **Complement, not competition**: differentiated from [[mufg]] / [[smfg]] / [[mizuho-fg]] and other megabanks (megabanks focus on mid-sized and larger companies; JFC focuses on small businesses, startups, and agriculture / forestry / fisheries)
+- **Complement, not competition**: differentiated from [[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]] and other megabanks (megabanks focus on mid-sized and larger companies; JFC focuses on small businesses, startups, and agriculture / forestry / fisheries)
 
 ### Separation from JBIC (2012-04)
 
@@ -149,9 +149,9 @@ In 2012-04-01, Japan Bank for International Cooperation (JBIC) separated from JF
 
 ## Related
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[ndfg]]
-- [[jbic]] (Japan Bank for International Cooperation; separated in 2012 )
-- [[shoko-chukin]] (Shoko Chukin Bank)
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[megabanks/ndfg]]
+- [[financial-regulators/jbic]] (Japan Bank for International Cooperation; separated in 2012 )
+- [[financial-regulators/shoko-chukin]] (Shoko Chukin Bank)
 - [[policy-finance/okinawa-development-finance-corp|okinawa-development-finance-corp]] (Okinawa Development Finance Corporation)
 
 ## Sources

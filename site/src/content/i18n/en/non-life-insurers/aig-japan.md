@@ -31,7 +31,7 @@ American International Group, Inc. (US NYSE: AIG)
         └── Related service companies (assistance, adjusters, etc.)
 ```
 
-> Note: the life-insurance business was sold to **Prudential Financial of the United States in 2010-03**, so **AIG Edison Life** and **AIG Star Life** are no longer part of the AIG group. They now sit under [[prudential-japan]] as **Prudential Gibraltar Financial Life (PGF Life)**. The most common mistake when discussing AIG Japan is assuming that an "AIG Life Insurance" entity still exists.
+> Note: the life-insurance business was sold to **Prudential Financial of the United States in 2010-03**, so **AIG Edison Life** and **AIG Star Life** are no longer part of the AIG group. They now sit under [[life-insurers/prudential-japan]] as **Prudential Gibraltar Financial Life (PGF Life)**. The most common mistake when discussing AIG Japan is assuming that an "AIG Life Insurance" entity still exists.
 
 ### Important history
 
@@ -41,7 +41,7 @@ American International Group, Inc. (US NYSE: AIG)
 | 1980s | AIG Japan expanded, forming a mixed group around AIU, Alico, AIG Edison Life, AIG Star Life, and related businesses. |
 | 2008-09 | **Lehman shock -> US public rescue of AIG**, with federal support of up to USD 182.0 billion, driven by CDS exposure. |
 | 2008-2009 | Global AIG shifted toward non-core business sales through an asset-disposal program. |
-| **2010-03** | **Prudential Financial of the United States acquired AIG Edison Life + AIG Star Life**, now PGF Life under [[prudential-japan]]. |
+| **2010-03** | **Prudential Financial of the United States acquired AIG Edison Life + AIG Star Life**, now PGF Life under [[life-insurers/prudential-japan]]. |
 | 2010-2017 | Gradual non-life restructuring: preparation to integrate former AIU Insurance Company and former Fuji Fire and Marine Insurance. |
 | **2018-01-01** | **AIU Insurance Company + Fuji Fire and Marine Insurance merged**, launching AIG General Insurance Co., Ltd. |
 
@@ -57,7 +57,7 @@ American International Group, Inc. (US NYSE: AIG)
 
 ### Positioning
 
-- **Long-established foreign non-life insurer**: AIU's 1946 entry was among the earliest full-scale foreign non-life insurer entries into postwar Japan. AIG sits in the foreign non-life camp alongside Chubb (formerly ACE), AXA Direct General Insurance ([[axa-japan]]), Allianz, and others.
+- **Long-established foreign non-life insurer**: AIU's 1946 entry was among the earliest full-scale foreign non-life insurer entries into postwar Japan. AIG sits in the foreign non-life camp alongside Chubb (formerly ACE), AXA Direct General Insurance ([[life-insurers/axa-japan]]), Allianz, and others.
 - **Overseas travel insurance brand**: brand assets and airport-counter distribution inherited from the former AIU remain strong.
 
 ### Global leverage
@@ -69,12 +69,12 @@ American International Group, Inc. (US NYSE: AIG)
 
 | Competition type | Main competitors |
 |---|---|
-| Domestic three mega non-life insurers | [[tokio-marine]] / [[non-life-insurers/msad|ms-and-ad-insurance]] / [[non-life-insurers/sompo|sompo-hd]] |
+| Domestic three mega non-life insurers | [[non-life-insurers/tokio-marine]] / [[non-life-insurers/msad|ms-and-ad-insurance]] / [[non-life-insurers/sompo|sompo-hd]] |
 | Corporate special risks / D&O | Chubb (formerly ACE) / Tokio Marine & Nichido / Mitsui Sumitomo Insurance / Sompo Japan |
 | Cyber insurance | Chubb / Tokio Marine & Nichido / Mitsui Sumitomo Insurance / Sompo Japan / Lloyd's-linked foreign players such as Beazley |
 | Overseas travel insurance | JI Accident & Fire / Sompo Japan / Tokio Marine & Nichido |
-| High-net-worth specialty | Chubb / [[axa-japan]] / Allianz |
-| Personal direct | Sony Assurance / Secom General Insurance / SBI Insurance / [[axa-japan]] AXA Direct General Insurance |
+| High-net-worth specialty | Chubb / [[life-insurers/axa-japan]] / Allianz |
+| Personal direct | Sony Assurance / Secom General Insurance / SBI Insurance / [[life-insurers/axa-japan]] AXA Direct General Insurance |
 
 ## 4. Regulation and policy
 
@@ -87,10 +87,10 @@ American International Group, Inc. (US NYSE: AIG)
 
 ## Related
 
-- [[prudential-japan]] (current home of former AIG Edison Life + AIG Star Life)
-- [[axa-japan]] · [[aflac-japan]] (foreign-affiliated life and non-life insurance camp)
-- [[tokio-marine]] · [[non-life-insurers/msad|ms-and-ad-insurance]] · [[non-life-insurers/sompo|sompo-hd]] (domestic three mega non-life competitors)
-- [[kyoritsu-fire-marine]] (mid-sized non-life comparison target)
+- [[life-insurers/prudential-japan]] (current home of former AIG Edison Life + AIG Star Life)
+- [[life-insurers/axa-japan]] · [[life-insurers/aflac-japan]] (foreign-affiliated life and non-life insurance camp)
+- [[non-life-insurers/tokio-marine]] · [[non-life-insurers/msad|ms-and-ad-insurance]] · [[non-life-insurers/sompo|sompo-hd]] (domestic three mega non-life competitors)
+- [[non-life-insurers/kyoritsu-fire-marine]] (mid-sized non-life comparison target)
 
 ## Sources
 

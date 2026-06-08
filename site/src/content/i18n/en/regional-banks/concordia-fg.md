@@ -16,7 +16,7 @@ This entry sits under[[regional-banks/INDEX|regional-banks INDEX]]Read it agains
 
 ## TL;DR
 
-Domestic regional bank FG **Largest**, Deposits**19.7 trillion yen**Total assets **24.8 trillion yen**(2025-03 (Regional bank FG independent leader class)^[extracted].2016-04-01**Yokohama Bank + Higashi Nippon Bank** merged their businesses through a joint stock transfer and were established under the former name of ``Concordia Financial Group'' (Latin for ``harmony''). **2025-10-01Change of company name → “Yokohama Financial Group Co., Ltd.”** (The company name is based on the core bank brand, with the aim of improving domestic and international recognition)^[extracted]. Kanagawa Prefecture (overwhelming market share within the prefecture) + Metropolitan area Retail collection of small and medium-sized businesses. Securities code **TSE PRIME7186**. FY2024 (2025-03 (period) Net income **828 hundred-million yen**(YoY +23.7%), FY2025 (2026-03 Full-year outlook **1,065 hundred-million yen**(+28.6%) and the Bank of Japan's interest rate hike led to consecutive double-digit profit increases. Bank of Yokohama is **non-member of the TSUBASA Alliance** and has entered into the "Chiba-Yokohama Partnership" with Chiba Bank.2019~,24-28 Second term of the year250 hundred-million yeneffectiveness goals). The biggest competition is[[fukuoka-fg]]/ Chiba Bank[[resona-hd]].^[extracted]
+Domestic regional bank FG **Largest**, Deposits**19.7 trillion yen**Total assets **24.8 trillion yen**(2025-03 (Regional bank FG independent leader class)^[extracted].2016-04-01**Yokohama Bank + Higashi Nippon Bank** merged their businesses through a joint stock transfer and were established under the former name of ``Concordia Financial Group'' (Latin for ``harmony''). **2025-10-01Change of company name → “Yokohama Financial Group Co., Ltd.”** (The company name is based on the core bank brand, with the aim of improving domestic and international recognition)^[extracted]. Kanagawa Prefecture (overwhelming market share within the prefecture) + Metropolitan area Retail collection of small and medium-sized businesses. Securities code **TSE PRIME7186**. FY2024 (2025-03 (period) Net income **828 hundred-million yen**(YoY +23.7%), FY2025 (2026-03 Full-year outlook **1,065 hundred-million yen**(+28.6%) and the Bank of Japan's interest rate hike led to consecutive double-digit profit increases. Bank of Yokohama is **non-member of the TSUBASA Alliance** and has entered into the "Chiba-Yokohama Partnership" with Chiba Bank.2019~,24-28 Second term of the year250 hundred-million yeneffectiveness goals). The biggest competition is[[regional-banks/fukuoka-fg]]/ Chiba Bank[[megabanks/resona-hd]].^[extracted]
 
 ## 1. Company Profile
 
@@ -130,7 +130,7 @@ Yokohama Financial Group (holding company, TSE PRIME 7186; renamed on 2025-10-01
 | Medium-sized companies/SMEs | Bank of Yokohama | Medium-sized companies in Kanagawa + Tokyo area main bank |
 | Specializing in SMEs in Tokyo | Higashi Nippon Bank | Central SME financing/Historically niche segment |
 | Corporate IB / Ci Loan | Bank of Yokohama | Highest level of participation in IB projects among regional banks |
-| Trust/Private Placement | Bank of Yokohama ([[sumitomo-mitsui-trust]](Partnership with others) | No independent trust license → Brokerage with Mega Trust |
+| Trust/Private Placement | Bank of Yokohama ([[trust-banks/sumitomo-mitsui-trust]](Partnership with others) | No independent trust license → Brokerage with Mega Trust |
 | Card/Credit Guarantee | Hamagin Finance + Group | Bank-related business |
 | Lease | Yokohama Bank Lease | Top regional bank leases |
 | Think tank | Hamagin Research Institute | Kanagawa economic data and regional analysis |
@@ -157,10 +157,10 @@ Yokohama Financial Group (holding company, TSE PRIME 7186; renamed on 2025-10-01
 | Competition | Ground | Composition |
 |---|---|---|
 | Chiba Bank/Chiba Industrial Bank | Chiba Prefecture/Metropolitan area | Partnership partners, but competitors as main bank for medium-sized companies in the Tokyo metropolitan area |
-|[[resona-hd]](Saitama Resona/Resona Bank) | Tokyo metropolitan area | Former metropolitan bank affiliates, strong retail, metropolitan area personal finance Direct competitors |
-|[[fukuoka-fg]]| Fukuoka Prefecture/Kyushu | Regional Bank FG Size No.1 Comparison of class competition and national regional bank rankings |
-|[[smfg]]/[[mufg]]/[[mizuho-fg]]| Nationwide | Medium-sized companies Partial competition with main banks (Mega is mainly large companies, regional banks are small and medium-sized companies) |
-|[[paypay-fg]]/ Rakuten Bank | Digital | Emerging competitors in the personal digital domain |
+|[[megabanks/resona-hd]](Saitama Resona/Resona Bank) | Tokyo metropolitan area | Former metropolitan bank affiliates, strong retail, metropolitan area personal finance Direct competitors |
+|[[regional-banks/fukuoka-fg]]| Fukuoka Prefecture/Kyushu | Regional Bank FG Size No.1 Comparison of class competition and national regional bank rankings |
+|[[megabanks/smfg]]/[[megabanks/mufg]]/[[megabanks/mizuho-fg]]| Nationwide | Medium-sized companies Partial competition with main banks (Mega is mainly large companies, regional banks are small and medium-sized companies) |
+|[[megabanks/paypay-fg]]/ Rakuten Bank | Digital | Emerging competitors in the personal digital domain |
 
 ### Integration synergies/issues
 
@@ -190,8 +190,8 @@ Yokohama Financial Group (holding company, TSE PRIME 7186; renamed on 2025-10-01
 
 ## Related
 
-- [[mufg]]·[[smfg]]·[[mizuho-fg]]·[[fukuoka-fg]]·[[resona-hd]]·[[sumitomo-mitsui-trust]]
-- [[paypay-fg]]·[[rakuten-fg]]·[[sbi-hd]]
+- [[megabanks/mufg]]·[[megabanks/smfg]]·[[megabanks/mizuho-fg]]·[[regional-banks/fukuoka-fg]]·[[megabanks/resona-hd]]·[[trust-banks/sumitomo-mitsui-trust]]
+- [[megabanks/paypay-fg]]·[[payment-firms/rakuten-fg]]·[[megabanks/sbi-hd]]
 
 ## Sources
 

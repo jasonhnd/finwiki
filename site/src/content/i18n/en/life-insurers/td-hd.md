@@ -15,7 +15,7 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 
 ## TL;DR
 
-T&D Holdings is one of Japan's largest mid-tier life-insurance holding companies among **independent life insurers**. Its core feature is the **3 社-segment differentiation** among **Taiyo Life (founded 1893 ; household market), Daido Life (founded 1902 ; SME owner-manager market), and T&D Financial Life (bank counter sales)**. It was launched through the 2004-04  management integration and is listed on TSE PRIME 8795. It occupies a No. 5 -pole-style position after the major 4  life insurers ([[nippon-life]] / [[dai-ichi-life]] / Sumitomo Life / Meiji Yasuda Life). In 2020  it invested in Fortitude Group in the United States, moving toward a reinsurance platform, and its 2024  medium-term plan leaves room for overseas M&A expansion. The name "T&D" comes from **Taiyo + Daido**. ^[extracted]
+T&D Holdings is one of Japan's largest mid-tier life-insurance holding companies among **independent life insurers**. Its core feature is the **3 社-segment differentiation** among **Taiyo Life (founded 1893 ; household market), Daido Life (founded 1902 ; SME owner-manager market), and T&D Financial Life (bank counter sales)**. It was launched through the 2004-04  management integration and is listed on TSE PRIME 8795. It occupies a No. 5 -pole-style position after the major 4  life insurers ([[life-insurers/nippon-life]] / [[life-insurers/dai-ichi-life]] / Sumitomo Life / Meiji Yasuda Life). In 2020  it invested in Fortitude Group in the United States, moving toward a reinsurance platform, and its 2024  medium-term plan leaves room for overseas M&A expansion. The name "T&D" comes from **Taiyo + Daido**. ^[extracted]
 
 ## 1. Company overview
 
@@ -85,7 +85,7 @@ T&D HD (holding company, listed 8795)
 
 ### Largest-class independent position
 
-- A No. 5 -pole position after the major 4  life insurers ([[nippon-life]] / [[dai-ichi-life]] / Sumitomo Life / Meiji Yasuda Life)
+- A No. 5 -pole position after the major 4  life insurers ([[life-insurers/nippon-life]] / [[life-insurers/dai-ichi-life]] / Sumitomo Life / Meiji Yasuda Life)
 - Operates as a **fully independent** insurer, neither under a megabank nor under a trading-company group
 
 ### Overseas strategy
@@ -110,8 +110,8 @@ T&D HD (holding company, listed 8795)
 
 ## Related
 
-- [[nippon-life]] ? [[dai-ichi-life]] ? [[kampo-life]] ? [[sony-fg]]
-- [[mufg]] ? [[smfg]] ? [[mizuho-fg]] (bank counter sales partners)
+- [[life-insurers/nippon-life]] ? [[life-insurers/dai-ichi-life]] ? [[life-insurers/kampo-life]] ? [[megabanks/sony-fg]]
+- [[megabanks/mufg]] ? [[megabanks/smfg]] ? [[megabanks/mizuho-fg]] (bank counter sales partners)
 
 ## Sources
 

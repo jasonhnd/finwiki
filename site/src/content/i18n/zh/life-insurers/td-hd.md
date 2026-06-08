@@ -15,7 +15,7 @@ translated_at: 2026-06-01T02:31:57.170Z
 
 ## TL;DR
 
-T&D Holdings 是**独立系生命保险公司中日本国内最大级别**的中坚生命保险控股公司。其最大特征是 **太阳生命（1893 创立，家庭市场）+ 大同生命（1902 创立，中小企业经营者市场）+ T&D Financial Life（银行柜台销售）** 之间的 **3 社差异化**。公司通过 2004-04 经营整合成立，东证 PRIME 8795。它处于大型 4 生保（[[nippon-life]] / [[dai-ichi-life]] / 住友生命 / 明治安田生命）之后的第 5 极位置。2020  参股美国 Fortitude Group（再保险平台化），2024 中期计划也将海外 M&A 扩大纳入视野。公司名“T&D”源自 **Taiyo + Daido**。^[extracted]
+T&D Holdings 是**独立系生命保险公司中日本国内最大级别**的中坚生命保险控股公司。其最大特征是 **太阳生命（1893 创立，家庭市场）+ 大同生命（1902 创立，中小企业经营者市场）+ T&D Financial Life（银行柜台销售）** 之间的 **3 社差异化**。公司通过 2004-04 经营整合成立，东证 PRIME 8795。它处于大型 4 生保（[[life-insurers/nippon-life]] / [[life-insurers/dai-ichi-life]] / 住友生命 / 明治安田生命）之后的第 5 极位置。2020  参股美国 Fortitude Group（再保险平台化），2024 中期计划也将海外 M&A 扩大纳入视野。公司名“T&D”源自 **Taiyo + Daido**。^[extracted]
 
 ## 1. 公司概要
 
@@ -85,7 +85,7 @@ T&D HD（控股公司・上市 8795）
 
 ### 独立系最大级别位置
 
-- 位于大型 4 生保（[[nippon-life]] / [[dai-ichi-life]] / 住友生命 / 明治安田生命）之后的第 5 极
+- 位于大型 4 生保（[[life-insurers/nippon-life]] / [[life-insurers/dai-ichi-life]] / 住友生命 / 明治安田生命）之后的第 5 极
 - 作为既不属于 megabank，也不属于商社系的**完全独立系**运营
 
 ### 海外战略
@@ -110,8 +110,8 @@ T&D HD（控股公司・上市 8795）
 
 ## Related
 
-- [[nippon-life]] ? [[dai-ichi-life]] ? [[kampo-life]] ? [[sony-fg]]
-- [[mufg]] ? [[smfg]] ? [[mizuho-fg]]（银行柜台销售合作方）
+- [[life-insurers/nippon-life]] ? [[life-insurers/dai-ichi-life]] ? [[life-insurers/kampo-life]] ? [[megabanks/sony-fg]]
+- [[megabanks/mufg]] ? [[megabanks/smfg]] ? [[megabanks/mizuho-fg]]（银行柜台销售合作方）
 
 ## Sources
 

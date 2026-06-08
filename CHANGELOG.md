@@ -29,6 +29,46 @@
 - 如果某次提交只更新少量条目，也要写清楚为什么改、改了哪里、如何确认。
 - 本仓库正文内容只保留公开互联网信息、公文资料、公开披露或基于公开来源的分析；个人信息、本地路径、非公开对话、客户/相手方信息和内部案件细节必须删除。
 
+## 2026-06-08 (In progress)
+
+### 開発ドキュメント Markdown リンク監査ツールの追加 / Add docs Markdown link checker / 增加开发文档 Markdown 链接审计工具
+
+#### 日本語記録 / English / 中文
+
+- **JST 時刻**: 2026-06-08 JST。
+- **背景**: [Issue #2](https://github.com/jasonhnd/finwiki/issues/2) (Phase B) に基づき、`docs/` ディレクトリ内の内部開発文書およびルート制御文書（README, CHANGELOG 等）の Markdown リンクを検証するツールを追加した。
+- **範囲**: `tools/docs_link_audit.ts` の新規追加、`package.json` への `docs:audit` スクリプトの追加、`CHANGELOG.md` の更新。
+- **主要変更**: 
+    - `docs/` およびルートの `.md` ファイルをスキャンし、相対パス形式の Markdown リンク `[text](path)` を抽出。
+    - リンク先ファイルの実在性を検証。`.md` 拡張子の省略や、ディレクトリ（`INDEX.md` または `README.md` の存在）にも対応。
+    - インラインコード（バックticks）内のリンクを無視するヒューリスティックを実装。
+    - 説明用の例示パス（`path` 等）を無視するための `ALLOWLIST` 機能を追加。
+    - エラー発生時にファイルパスと行番号を明確にレポートし、非ゼロの終了コードを返す。
+- **実行手順**: `tools/docs_link_audit.ts` を作成 → 意図的なリンク切れによる失敗を確認 → `package.json` に `docs:audit` を追加 → `bun docs:audit` で動作確認。
+- **検証結果**: 正常に動作し、壊れたリンクを正確に検知することを確認した。
+- **残タスク**: なし。次は active-doc stale scan (Issue #3) の実装。
+- **EN**: Added `tools/docs_link_audit.ts` as per [Issue #2](https://github.com/jasonhnd/finwiki/issues/2) (Phase B). This tool validates relative Markdown links in the `docs/` directory and root control documents. It handles extension-less links, directory resolution (checking for `INDEX.md` or `README.md`), and ignores links inside inline code blocks. It also includes an `ALLOWLIST` for illustrative paths. Added `docs:audit` script to `package.json`.
+- **中文**: 根据 [Issue #2](https://github.com/jasonhnd/finwiki/issues/2) (Phase B) 增加了 `tools/docs_link_audit.ts`。该工具用于验证 `docs/` 目录和根目录控制文档中的 Markdown 相对链接。它支持无扩展名链接解析、目录解析（检查 `INDEX.md` 或 `README.md`），并能自动忽略行内代码块中的链接。此外还增加了针对演示路径的 `ALLOWLIST` 功能。在 `package.json` 中增加了 `docs:audit` 脚本。
+
+### .txt 公開入口のルート/リンク監査ツールの追加 / Add .txt route/link audit tool / 增加 .txt 公开入口路由/链接审计工具
+
+#### 日本語記録 / English / 中文
+
+- **JST 時刻**: 2026-06-08 JST。
+- **背景**: [Issue #1](https://github.com/jasonhnd/finwiki/issues/1) (Phase A) に基づき、AI エージェント向けの公開テキスト発見ファイル（llms.txt, llms-full.txt, llms-tasks.txt）に含まれる内部ルートおよびリンクの有効性を検証する監査ツールを追加した。
+- **範囲**: `tools/txt_route_audit.ts` の新規追加、`package.json` への `ai:audit` スクリプトの追加、`CHANGELOG.md` の更新。
+- **主要変更**: 
+    - 新規ツール `tools/txt_route_audit.ts` を実装。
+    - `https://finwiki.zksc.io/` プレフィックスを持つフル URL および Markdown 形式の相対リンク `[text](path)` を抽出。
+    - リンク先がリポジトリ内の `.md` ファイル（または `INDEX.md`）として実在するか、あるいは `.txt`, `.json` などの生成済みアセットとして実在するかを検証。
+    - 検出されたリンク切れを詳細にレポートし、エラーがある場合は非ゼロの終了コードで終了する。
+    - 初回実行により、既存の `llms-full.txt` 等に 400 件以上のリンク切れや古いパスが存在することを確認した（修復は別タスク）。
+- **実行手順**: `tools/txt_route_audit.ts` を作成 → `package.json` に `ai:audit` を追加 → `bun ai:audit` で動作確認。
+- **検証結果**: `bun tools/txt_route_audit.ts` が正常に動作し、リンク切れを正しく検出することを確認した。
+- **残タスク**: 検出された 450 件以上のリンク切れの修復（Issue #1 の範囲外だが、今後のフェーズで対応が必要）。次は docs Markdown link checker (Issue #2) の実装。
+- **EN**: Added a reusable audit tool `tools/txt_route_audit.ts` as per [Issue #1](https://github.com/jasonhnd/finwiki/issues/1) (Phase A). The tool validates internal routes and links in AI discovery files (`llms.txt`, `llms-full.txt`, `llms-tasks.txt`). It supports full URLs with the `https://finwiki.zksc.io/` prefix and Markdown-style relative links. It checks for the existence of corresponding `.md` files or generated assets (`.txt`, `.json`, etc.) in the repository. The initial run identified 450+ broken or stale links in the current discovery surfaces, which will be addressed in future phases. Added `ai:audit` script to `package.json`.
+- **中文**: 根据 [Issue #1](https://github.com/jasonhnd/finwiki/issues/1) (Phase A) 增加了可重复使用的审计工具 `tools/txt_route_audit.ts`。该工具用于验证 AI 发现文件（`llms.txt`, `llms-full.txt`, `llms-tasks.txt`）中的内部路由和链接。它支持带有 `https://finwiki.zksc.io/` 前缀的全路径 URL 以及 Markdown 格式的相对链接。工具会检查对应的 `.md` 文件或生成的资产文件（`.txt`, `.json` 等）在仓库中是否存在。首次运行发现了 450 多个坏链或陈旧路径，这些将在后续阶段修复。在 `package.json` 中增加了 `ai:audit` 脚本。
+
 ## 2026-06-07
 
 ### 開発文書体系の要件・仕様階層化 / Developer documentation requirements and specification hierarchy / 开发文档需求与规格体系化

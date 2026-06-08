@@ -13,7 +13,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 ## 推論 (from 1. 会社概要)
 
 **G-SIB**：FSB 認定 Bucket 1（+1.0% CET1 追加資本要件）^[inferred]
-| UBS SuMi TRUST ウェルス・マネジメント株式会社 | PB（富裕層向け WM）| UBS 51% / [[sumitomo-mitsui-trust]] 49%（JV）^[inferred] |
+| UBS SuMi TRUST ウェルス・マネジメント株式会社 | PB（富裕層向け WM）| UBS 51% / [[trust-banks/sumitomo-mitsui-trust]] 49%（JV）^[inferred] |
 
 ## 推論 (from グローバル戦略)
 

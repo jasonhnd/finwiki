@@ -15,7 +15,7 @@ This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]]. Read 
 
 ## TL;DR
 
-The **central institution** for Japan's nationwide shinkin-bank industry, which the FSA registry listed at 254  shinkin banks as of 2025-11-06. It was established as a cooperative financial institution, with two main pillars: investing surplus funds deposited by shinkin banks and lending to shinkin banks. It is one of Japan's leading institutional investors, with a balance-sheet scale of **47 兆円**: as of the end of 2025-03 , total funds invested were 46.9 兆円 and total funding was 45.6 兆円, while consolidated total assets were 46 兆 953 億円 at the end of 2023-03 . Together with [[norinchukin]] (Norinchukin Bank, the agricultural-cooperative central institution), it is one of the two pillars of Japan's "cooperative-organization central banks," and it holds a large investment portfolio spanning foreign bonds, corporate bonds, equities, and alternative investments. It is unlisted and funded by member capital from shinkin banks 254 行. ^[extracted]
+The **central institution** for Japan's nationwide shinkin-bank industry, which the FSA registry listed at 254  shinkin banks as of 2025-11-06. It was established as a cooperative financial institution, with two main pillars: investing surplus funds deposited by shinkin banks and lending to shinkin banks. It is one of Japan's leading institutional investors, with a balance-sheet scale of **47 兆円**: as of the end of 2025-03 , total funds invested were 46.9 兆円 and total funding was 45.6 兆円, while consolidated total assets were 46 兆 953 億円 at the end of 2023-03 . Together with [[cooperative-banks/norinchukin]] (Norinchukin Bank, the agricultural-cooperative central institution), it is one of the two pillars of Japan's "cooperative-organization central banks," and it holds a large investment portfolio spanning foreign bonds, corporate bonds, equities, and alternative investments. It is unlisted and funded by member capital from shinkin banks 254 行. ^[extracted]
 
 ## 1. Company overview
 
@@ -61,7 +61,7 @@ The **central institution** for Japan's nationwide shinkin-bank industry, which 
 | Member financial-institution business | Fund investment, lending, and liquidity supply for shinkin banks | Core central-institution function |
 | Settlement / ATM | Shinkin Cash Service (SCS) and shinkin-bank joint ATM center | Nationwide ATM network |
 | Overseas business | New York and London offices | Overseas investment and information gathering |
-| System-wide function | Liquidity adjustment and surplus-fund absorption for the shinkin-bank industry | Model similar to [[norinchukin]] |
+| System-wide function | Liquidity adjustment and surplus-fund absorption for the shinkin-bank industry | Model similar to [[cooperative-banks/norinchukin]] |
 
 ### Dual role as a central institution
 
@@ -87,9 +87,9 @@ The **central institution** for Japan's nationwide shinkin-bank industry, which 
 
 ## Related
 
-- [[norinchukin]] — Norinchukin Bank, a similar cooperative-organization central institution
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] — megabanks, stock-company banks contrasted with cooperative organizations
-- [[ndfg]] — regional-bank FG, another axis of regional financial institutions
+- [[cooperative-banks/norinchukin]] — Norinchukin Bank, a similar cooperative-organization central institution
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] — megabanks, stock-company banks contrasted with cooperative organizations
+- [[megabanks/ndfg]] — regional-bank FG, another axis of regional financial institutions
 - [[banking/shinkin-bank-registry-japan]] — registry index for 254  shinkin banks
 
 ## Sources

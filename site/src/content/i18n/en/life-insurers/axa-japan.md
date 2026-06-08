@@ -67,7 +67,7 @@ AXA SA (Paris, France)
 
 ### positioning
 
-- **Hybrid channel strategy**: Major Japanese company ([[dai-ichi-life]]/[[nippon-life]]/ Sumitomo Life Insurance Company / Meiji Yasuda Life Insurance Co., Ltd.) has mainly sales staff, and specialized in internet services ([[life-insurers/lifenet|lifenet-insurance]]) has only one online presence, whereas AXA has **sales staff + bank counter sales + online direct sales**.3 Channels coexist
+- **Hybrid channel strategy**: Major Japanese company ([[life-insurers/dai-ichi-life]]/[[life-insurers/nippon-life]]/ Sumitomo Life Insurance Company / Meiji Yasuda Life Insurance Co., Ltd.) has mainly sales staff, and specialized in internet services ([[life-insurers/lifenet|lifenet-insurance]]) has only one online presence, whereas AXA has **sales staff + bank counter sales + online direct sales**.3 Channels coexist
 - **Non-life insurance sells directly online**:[[non-life-insurers/tokio-marine|tokio-marine-hd]]/[[non-life-insurers/sompo|sompo-hd]]/[[non-life-insurers/msad|ms-and-ad-insurance]]Domestic distributor channel3 Differentiated from mega non-life insurance, “direct non-life insurance” segment is the same as Sony Assurance, Secom Assurance, and SBI Assurance
 
 ### global leverage
@@ -79,11 +79,11 @@ AXA SA (Paris, France)
 
 | Conflict type | Main competition |
 |---|---|
-| Sales staff channel | [[dai-ichi-life]]/ Nippon Life Insurance Company / Sumitomo Life Insurance Company / Meiji Yasuda Life Insurance Company / Prudential Life Insurance Company |
+| Sales staff channel | [[life-insurers/dai-ichi-life]]/ Nippon Life Insurance Company / Sumitomo Life Insurance Company / Meiji Yasuda Life Insurance Company / Prudential Life Insurance Company |
 | Bank sales | MetLife Life / Manulife Life / Dai-ichi Frontier Life /[[life-insurers/td-hd|t&d-holdings]]system |
 | Online direct sales life insurance | [[life-insurers/lifenet|lifenet-insurance]]/ SBI Life / ORIX Life |
 | Online direct sales non-life insurance | Sony Assurance / Secom Assurance / SBI Assurance / E-Design Assurance (Tokio Marine)|
-| Foreign premium | Prudential / Metlife / Manulife /[[aflac-japan]] |
+| Foreign premium | Prudential / Metlife / Manulife /[[life-insurers/aflac-japan]] |
 
 ## 4. Regulation and policy
 
@@ -96,9 +96,9 @@ AXA SA (Paris, France)
 
 ## Related
 
-- [[dai-ichi-life]]·[[nippon-life]]·[[aflac-japan]]·[[life-insurers/lifenet|lifenet-insurance]]·[[life-insurers/td-hd|t&d-holdings]]
+- [[life-insurers/dai-ichi-life]]·[[life-insurers/nippon-life]]·[[life-insurers/aflac-japan]]·[[life-insurers/lifenet|lifenet-insurance]]·[[life-insurers/td-hd|t&d-holdings]]
 - [[non-life-insurers/tokio-marine|tokio-marine-hd]]·[[non-life-insurers/sompo|sompo-hd]]·[[non-life-insurers/msad|ms-and-ad-insurance]]
-- [[mufg]]·[[smfg]]·[[mizuho-fg]](Bank sales partner)
+- [[megabanks/mufg]]·[[megabanks/smfg]]·[[megabanks/mizuho-fg]](Bank sales partner)
 
 ## Sources
 

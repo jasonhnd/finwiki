@@ -42,31 +42,31 @@
     "wikilinks_count": 8,
     "wikilinks": [
       "INDEX",
-      "bytecode-forensic-three-tier-verify",
       "exchanges/global-crypto-forensics-vendor-layer",
       "exchanges/jp-vasp-incident-history",
       "exchanges/mtgox-bankruptcy-processing-timeline",
-      "fork-and-rebrand-5-layer-audit-framework",
+      "security/bytecode-forensic-three-tier-verify",
       "security/forensic-identity-anchor-chain",
+      "security/fork-and-rebrand-5-layer-audit-framework",
       "systems/INDEX"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/bytecode-forensic-three-tier-verify",
       "https://finwiki.zksc.io/exchanges/global-crypto-forensics-vendor-layer",
       "https://finwiki.zksc.io/exchanges/jp-vasp-incident-history",
       "https://finwiki.zksc.io/exchanges/mtgox-bankruptcy-processing-timeline",
-      "https://finwiki.zksc.io/fork-and-rebrand-5-layer-audit-framework",
+      "https://finwiki.zksc.io/security/bytecode-forensic-three-tier-verify",
       "https://finwiki.zksc.io/security/forensic-identity-anchor-chain",
+      "https://finwiki.zksc.io/security/fork-and-rebrand-5-layer-audit-framework",
       "https://finwiki.zksc.io/systems/INDEX"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2158,
-    "word_like_tokens": 331,
-    "inbound_wikilinks_count": 4,
-    "last_modified": "2026-05-29"
+    "nonspace_chars": 2176,
+    "word_like_tokens": 333,
+    "inbound_wikilinks_count": 5,
+    "last_modified": "2026-06-08"
   }
 }

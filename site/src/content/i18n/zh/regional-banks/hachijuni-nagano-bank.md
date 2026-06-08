@@ -17,7 +17,7 @@ translated_at: 2026-05-31T15:29:03.965Z
 
 ## 长话短说
 
-八十二长野银行是一家地区性银行，总部位于长野县，被金融厅列入银行牌照名单。前[[hachijuni-bank|八十二銀行]] 与前长野银行合并后，此页面以当前运营公司边界作为法定名称实体。
+八十二长野银行是一家地区性银行，总部位于长野县，被金融厅列入银行牌照名单。前[[regional-banks/hachijuni-bank|八十二銀行]] 与前长野银行合并后，此页面以当前运营公司边界作为法定名称实体。
 
 ## 1。许可证/组边界
 
@@ -37,14 +37,14 @@ translated_at: 2026-05-31T15:29:03.965Z
 
 - 更正了之前关于八十二/长野银行整合的预测边界。
 - 关闭 Yajuni Nagano Bank, Ltd. 的 FSA 确切名称页面。
-- 为 [[yamanashi-chuo-bank]]、[[daishi-hokuetsu-bank]] 和 [[fukui-bank]] 提供当前对等锚点。
+- 为 [[regional-banks/yamanashi-chuo-bank]]、[[regional-banks/daishi-hokuetsu-bank]] 和 [[regional-banks/fukui-bank]] 提供当前对等锚点。
 
 ## 有关的
 
-- [[hachijuni-bank]]
-- [[yamanashi-chuo-bank]]
-- [[daishi-hokuetsu-bank]]
-- [[fukui-bank]]
+- [[regional-banks/hachijuni-bank]]
+- [[regional-banks/yamanashi-chuo-bank]]
+- [[regional-banks/daishi-hokuetsu-bank]]
+- [[regional-banks/fukui-bank]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 

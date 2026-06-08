@@ -75,12 +75,12 @@ translated_at: 2026-05-31T15:29:03.895Z
 - **新泻县，靠近一个县**：县内几乎没有竞争的区域银行结构（已经整合了北越，排名第二的区域银行）
 - 独家覆盖县内人口220 万 → 稳定的存款基础和中型企业的主要银行地位
 - 2021-01  通过银行合并 **网点、人员、系统整合协同** 实现阶段
-- 县内的竞争对手有信用金库 / JA 银行 / 邮政储蓄银行 ([[yucho]]) / 大型企业贷款
+- 县内的竞争对手有信用金库 / JA 银行 / 邮政储蓄银行 ([[regional-banks/yucho]]) / 大型企业贷款
 
 ### 向县外扩张的战略
 
 - **都市区营业所**：县内客户的伴随业务伙伴（制造业+商社）+新企业开发
-- **与大型银行的企业贷款竞争**：[[mufg]] / [[smfg]] / [[mizuho-fg]]直接接近县内的主要企业→主要银行防御战
+- **与大型银行的企业贷款竞争**：[[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]]直接接近县内的主要企业→主要银行防御战
 - 向县外扩张更多是为了扩大县内的客户服务，而不是扩大规模。
 
 ### 当地产业特色
@@ -93,8 +93,8 @@ translated_at: 2026-05-31T15:29:03.895Z
 ### 在区域银行重组中的地位
 
 - 作为单一FG（县内一人型）的中型广域联盟的典型例子
-- 与Mega 3 行 ([[mufg]] / [[smfg]] / [[mizuho-fg]])竞争县内主要银行地位
-- 未来与其他广域 FG 结盟的可能性尚未确定，例如 [[ndfg]]/邻近县（东北和北陆）的区域银行
+- 与Mega 3 行 ([[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]])竞争县内主要银行地位
+- 未来与其他广域 FG 结盟的可能性尚未确定，例如 [[megabanks/ndfg]]/邻近县（东北和北陆）的区域银行
 
 ## 4. 规制・政策
 
@@ -108,9 +108,9 @@ translated_at: 2026-05-31T15:29:03.895Z
 
 ＃＃ 有关的
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]]
-- [[fukuoka-fg]] · [[ndfg]] · [[regional-banks/chiba-bank|chiba-bank-fg]] · [[concordia-fg]] · [[mebuki-fg]]
-- [[sbi-hd]] · [[yucho]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]
+- [[regional-banks/fukuoka-fg]] · [[megabanks/ndfg]] · [[regional-banks/chiba-bank|chiba-bank-fg]] · [[regional-banks/concordia-fg]] · [[regional-banks/mebuki-fg]]
+- [[megabanks/sbi-hd]] · [[regional-banks/yucho]]
 
 ## 来源
 

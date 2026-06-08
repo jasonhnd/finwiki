@@ -58,44 +58,44 @@
   "body_links": {
     "wikilinks_count": 14,
     "wikilinks": [
-      "au-fh",
       "banking/INDEX",
       "banking/mercari-bank-license-stack",
       "banking/minna-bank-baas-model",
-      "mizuho-fg",
-      "mufg",
-      "ndfg",
+      "megabanks/au-fh",
+      "megabanks/mizuho-fg",
+      "megabanks/mufg",
+      "megabanks/ndfg",
+      "megabanks/paypay-fg",
+      "megabanks/sbi-hd",
+      "megabanks/smfg",
       "payment-firms/INDEX",
       "payment-firms/merpay",
-      "paypay-fg",
-      "rakuten-fg",
-      "sbi-hd",
-      "securities-firms/monex-group",
-      "smfg"
+      "payment-firms/rakuten-fg",
+      "securities-firms/monex-group"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/au-fh",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/mercari-bank-license-stack",
       "https://finwiki.zksc.io/banking/minna-bank-baas-model",
-      "https://finwiki.zksc.io/mizuho-fg",
-      "https://finwiki.zksc.io/mufg",
-      "https://finwiki.zksc.io/ndfg",
+      "https://finwiki.zksc.io/megabanks/au-fh",
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/ndfg",
+      "https://finwiki.zksc.io/megabanks/paypay-fg",
+      "https://finwiki.zksc.io/megabanks/sbi-hd",
+      "https://finwiki.zksc.io/megabanks/smfg",
       "https://finwiki.zksc.io/payment-firms/INDEX",
       "https://finwiki.zksc.io/payment-firms/merpay",
-      "https://finwiki.zksc.io/paypay-fg",
-      "https://finwiki.zksc.io/rakuten-fg",
-      "https://finwiki.zksc.io/sbi-hd",
-      "https://finwiki.zksc.io/securities-firms/monex-group",
-      "https://finwiki.zksc.io/smfg"
+      "https://finwiki.zksc.io/payment-firms/rakuten-fg",
+      "https://finwiki.zksc.io/securities-firms/monex-group"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6362,
-    "word_like_tokens": 1186,
-    "inbound_wikilinks_count": 10,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 6486,
+    "word_like_tokens": 1199,
+    "inbound_wikilinks_count": 13,
+    "last_modified": "2026-06-08"
   }
 }

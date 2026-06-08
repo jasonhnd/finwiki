@@ -24,7 +24,7 @@ translated_at: 2026-06-01T02:31:57.140Z
 **设立**：2001-04（上田短资 + 八木短资合并成立）^[extracted]
 **业态**：短资公司（日本独有的短期金融市场专门业态）
 **上市**：非上市（独立系）
-**行业位置**：日本 3  大短资公司之一（[[central-tanshi]] / 上田八木短资 / [[tokyo-tanshi]]）
+**行业位置**：日本 3  大短资公司之一（[[financial-regulators/central-tanshi]] / 上田八木短资 / [[financial-regulators/tokyo-tanshi]]）
 
 ### 前身 / 合并历史
 
@@ -73,7 +73,7 @@ translated_at: 2026-06-01T02:31:57.140Z
 
 ### 竞争关系
 
-- **直接竞争**：[[central-tanshi]] / [[tokyo-tanshi]]（3  大短资公司之间相互竞争）
+- **直接竞争**：[[financial-regulators/central-tanshi]] / [[financial-regulators/tokyo-tanshi]]（3  大短资公司之间相互竞争）
 - **间接竞争**：大型证券公司（短期国债 OTC 市场）、银行间直接交易（call direct）
 - **行业保护因素**：作为日本银行市场操作对手方的制度性位置
 
@@ -94,7 +94,7 @@ translated_at: 2026-06-01T02:31:57.140Z
 
 ## Related
 
-- [[central-tanshi]] · [[tokyo-tanshi]] · [[mufg]] · [[smfg]] · [[mizuho-fg]]
+- [[financial-regulators/central-tanshi]] · [[financial-regulators/tokyo-tanshi]] · [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]
 - [[money-market/japan-money-market|japan-money-market]] · [[money-market/boj-open-market-operations|boj-open-market-operations]]
 
 ## Sources

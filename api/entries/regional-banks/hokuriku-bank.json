@@ -48,21 +48,19 @@
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 13,
+    "wikilinks_count": 11,
     "wikilinks": [
       "INDEX",
       "banking/INDEX",
       "banking/regional-bank-consolidation-pattern",
       "financial-regulators/fsa",
       "financial-regulators/zenginkyo",
-      "hokkaido-bank",
-      "hokkoku-bank",
-      "hokuhoku-fg",
       "regional-banks/INDEX",
       "regional-banks/hokkaido-bank",
+      "regional-banks/hokkoku-bank",
       "regional-banks/hokuhoku-fg",
-      "toyama-bank",
-      "toyama-first-bank"
+      "regional-banks/toyama-bank",
+      "regional-banks/toyama-first-bank"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
@@ -70,22 +68,20 @@
       "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
       "https://finwiki.zksc.io/financial-regulators/fsa",
       "https://finwiki.zksc.io/financial-regulators/zenginkyo",
-      "https://finwiki.zksc.io/hokkaido-bank",
-      "https://finwiki.zksc.io/hokkoku-bank",
-      "https://finwiki.zksc.io/hokuhoku-fg",
       "https://finwiki.zksc.io/regional-banks/INDEX",
       "https://finwiki.zksc.io/regional-banks/hokkaido-bank",
+      "https://finwiki.zksc.io/regional-banks/hokkoku-bank",
       "https://finwiki.zksc.io/regional-banks/hokuhoku-fg",
-      "https://finwiki.zksc.io/toyama-bank",
-      "https://finwiki.zksc.io/toyama-first-bank"
+      "https://finwiki.zksc.io/regional-banks/toyama-bank",
+      "https://finwiki.zksc.io/regional-banks/toyama-first-bank"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2850,
-    "word_like_tokens": 403,
+    "nonspace_chars": 2985,
+    "word_like_tokens": 421,
     "inbound_wikilinks_count": 9,
-    "last_modified": "2026-06-05"
+    "last_modified": "2026-06-08"
   }
 }

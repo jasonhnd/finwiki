@@ -36,7 +36,7 @@ JA Bank system (3 -layer structure)
                 ↓ surplus-fund deposits
   Layer 2: 31  Shinnoren (prefectural middle layer) ★ this page
                 ↓ surplus-fund deposits
-  Layer 3: 1  Norinchukin Bank (central) → [[norinchukin]]
+  Layer 3: 1  Norinchukin Bank (central) → [[cooperative-banks/norinchukin]]
                 ↓ institutional investment / system return
 ```
 

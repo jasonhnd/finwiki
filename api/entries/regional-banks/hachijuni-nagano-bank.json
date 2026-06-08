@@ -52,30 +52,30 @@
     "wikilinks": [
       "banking/INDEX",
       "banking/regional-bank-consolidation-pattern",
-      "daishi-hokuetsu-bank",
-      "fukui-bank",
-      "hachijuni-bank",
       "regional-banks/INDEX",
+      "regional-banks/daishi-hokuetsu-bank",
+      "regional-banks/fukui-bank",
+      "regional-banks/hachijuni-bank",
       "regional-banks/shimizu-bank",
-      "yamanashi-chuo-bank"
+      "regional-banks/yamanashi-chuo-bank"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
-      "https://finwiki.zksc.io/daishi-hokuetsu-bank",
-      "https://finwiki.zksc.io/fukui-bank",
-      "https://finwiki.zksc.io/hachijuni-bank",
       "https://finwiki.zksc.io/regional-banks/INDEX",
+      "https://finwiki.zksc.io/regional-banks/daishi-hokuetsu-bank",
+      "https://finwiki.zksc.io/regional-banks/fukui-bank",
+      "https://finwiki.zksc.io/regional-banks/hachijuni-bank",
       "https://finwiki.zksc.io/regional-banks/shimizu-bank",
-      "https://finwiki.zksc.io/yamanashi-chuo-bank"
+      "https://finwiki.zksc.io/regional-banks/yamanashi-chuo-bank"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1869,
-    "word_like_tokens": 284,
-    "inbound_wikilinks_count": 5,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 1989,
+    "word_like_tokens": 300,
+    "inbound_wikilinks_count": 6,
+    "last_modified": "2026-06-08"
   }
 }

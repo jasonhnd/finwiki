@@ -12,11 +12,11 @@ translated_at: 2026-06-02T14:01:20.969Z
 
 ## ウィキ上の位置づけ
 
-この項目は [[regional-banks/INDEX|regional-banks INDEX]] 配下に位置づけ、現行運営銀行 [[aichi-bank|あいち銀行]]（[[aichi-fg|あいち FG]] 傘下）に対する **歴史的前身アンカー** として扱う。県内競合の [[nagoya-bank|名古屋銀行]]、中部圏ピアの [[san-jusan-bank|三十三銀行]] / [[juroku-bank|十六銀行]]、より広い制度 / 規制境界の [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]] とあわせて読む。
+この項目は [[regional-banks/INDEX|regional-banks INDEX]] 配下に位置づけ、現行運営銀行 [[regional-banks/aichi-bank|あいち銀行]]（[[regional-banks/aichi-fg|あいち FG]] 傘下）に対する **歴史的前身アンカー** として扱う。県内競合の [[regional-banks/nagoya-bank|名古屋銀行]]、中部圏ピアの [[regional-banks/san-jusan-bank|三十三銀行]] / [[regional-banks/juroku-bank|十六銀行]]、より広い制度 / 規制境界の [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]] とあわせて読む。
 
 ## 要約
 
-株式会社中京銀行は、愛知県名古屋市本店の第二地方銀行で、**2025-01-01 旧愛知銀行と合併し [[aichi-bank|あいち銀行]] に統合** (運営境界 移行完了)。1953 年「第三相互無尽 + 第十七相互無尽」統合で設立、相互銀行 → 第二地銀普銀転換を経た典型的な「相銀系第二地銀」。証券コード旧 **東証 8530** は [[aichi-fg|あいち FG]] 設立 (2022-10) 時に廃止、本ページは 現行の法的エンティティ ではなく、合併前 歴史的アンカー として位置づける。^[extracted]
+株式会社中京銀行は、愛知県名古屋市本店の第二地方銀行で、**2025-01-01 旧愛知銀行と合併し [[regional-banks/aichi-bank|あいち銀行]] に統合** (運営境界 移行完了)。1953 年「第三相互無尽 + 第十七相互無尽」統合で設立、相互銀行 → 第二地銀普銀転換を経た典型的な「相銀系第二地銀」。証券コード旧 **東証 8530** は [[regional-banks/aichi-fg|あいち FG]] 設立 (2022-10) 時に廃止、本ページは 現行の法的エンティティ ではなく、合併前 歴史的アンカー として位置づける。^[extracted]
 
 ## 1. 免許 / グループ境界
 
@@ -25,24 +25,24 @@ translated_at: 2026-06-02T14:01:20.969Z
 | 法的名称（歴史上） | 株式会社中京銀行 |
 | 英名 | The Chukyo Bank, Ltd. |
 | 免許ルート | 銀行法上の第二地方銀行、FSA 銀行免許一覧（2025-01-01登録抹消） |
-| グループ境界 | [[aichi-fg]] 100% 子会社（2025-01-01まで） |
-| 現行承継先 | [[aichi-bank|あいち銀行]]（2025-01 合併後の運営銀行） |
+| グループ境界 | [[regional-banks/aichi-fg]] 100% 子会社（2025-01-01まで） |
+| 現行承継先 | [[regional-banks/aichi-bank|あいち銀行]]（2025-01 合併後の運営銀行） |
 | 本店（歴史上） | 名古屋市中区栄 3-33-13 |
-| ウィキ上の役割 | 歴史的前身アンカー。現行の運営境界は [[aichi-bank]] へ移動済み |
+| ウィキ上の役割 | 歴史的前身アンカー。現行の運営境界は [[regional-banks/aichi-bank]] へ移動済み |
 
 ## 2. 統合・解散プロセス (持株ツリー)
 
 ```
 2022-10 以前: 独立第二地銀 (東証 PRIME 8530)
    ↓ 共同株式移転
-2022-10-03: [[aichi-fg|あいち FG]] 設立 (持株会社・東証 PRIME 7389)
+2022-10-03: [[regional-banks/aichi-fg|あいち FG]] 設立 (持株会社・東証 PRIME 7389)
    ├── 株式会社愛知銀行 (旧 8527、100% 子会社化)
    └── 株式会社中京銀行 (旧 8530、100% 子会社化) ← 本ページ
         ↓ 子銀行統合
-2025-01-01: 愛知銀行 + 中京銀行 → [[aichi-bank|あいち銀行]] 合併
+2025-01-01: 愛知銀行 + 中京銀行 → [[regional-banks/aichi-bank|あいち銀行]] 合併
    ↓
-[[aichi-fg|あいち FG]] (持株会社・PRIME 7389)
-  └── [[aichi-bank|あいち銀行]] (単一銀行運営子会社)
+[[regional-banks/aichi-fg|あいち FG]] (持株会社・PRIME 7389)
+  └── [[regional-banks/aichi-bank|あいち銀行]] (単一銀行運営子会社)
 ```
 
 ### 戦前・戦時源流
@@ -54,19 +54,19 @@ translated_at: 2026-06-02T14:01:20.969Z
 
 - **1953**: 中京相互銀行 設立 (旧 第三相互無尽 + 第十七相互無尽 統合)
 - 名古屋市内・中小零細地盤、相互銀行系第二地銀の典型
-- 第二地方銀行協会 ([[zenshin-kyo]] / 第二地銀協会) 加盟
+- 第二地方銀行協会 ([[financial-regulators/zenshin-kyo]] / 第二地銀協会) 加盟
 
 ### 普通銀行転換と上場
 
 - **1989**: 普通銀行転換 → 株式会社中京銀行 改称
 - 1990 年代: 名古屋市内・愛知県内 中小零細企業 メインバンク の地位確立
-- 2000-2010 年代: 愛知県内地銀過剰問題 (愛知銀行 + 中京銀行 + [[nagoya-bank|名古屋銀行]]) で再編圧力
+- 2000-2010 年代: 愛知県内地銀過剰問題 (愛知銀行 + 中京銀行 + [[regional-banks/nagoya-bank|名古屋銀行]]) で再編圧力
 
 ### 経営統合と消滅
 
 - **2022-04-21**: 愛知銀行 + 中京銀行 経営統合基本合意発表
-- **2022-10-03**: [[aichi-fg|あいち FG]] 設立、両行 100% 子会社化
-- **2025-01-01**: 愛知銀行 + 中京銀行 合併 → 商号 [[aichi-bank|あいち銀行]]、中京銀行は解散・消滅
+- **2022-10-03**: [[regional-banks/aichi-fg|あいち FG]] 設立、両行 100% 子会社化
+- **2025-01-01**: 愛知銀行 + 中京銀行 合併 → 商号 [[regional-banks/aichi-bank|あいち銀行]]、中京銀行は解散・消滅
 
 ## 4. KPI 表（歴史上, 2024-03 期最終決算ベース)
 
@@ -90,30 +90,30 @@ translated_at: 2026-06-02T14:01:20.969Z
 | トヨタサプライチェーン | 中京経済圏 (二次・三次サプライヤー) への融資参画 |
 | 不動産 | 名古屋圏不動産関連融資 |
 
-### [[aichi-fg]] による統合シナジー
+### [[regional-banks/aichi-fg]] による統合シナジー
 
 - 重複店舗統廃合 (名古屋市内・愛知県内 隣接店舗)
 - 基幹システム統合 (旧愛知銀行系へ集約と理解)
 - 営業ネットワーク再編・コスト構造改善
-- 中堅企業 メインバンク 取引集約 ([[aichi-bank]] 単一窓口化)
+- 中堅企業 メインバンク 取引集約 ([[regional-banks/aichi-bank]] 単一窓口化)
 
 ### 残存課題
 
-- 県内地銀過剰問題 ([[nagoya-bank]] 独立継続) の再編残存圧力
+- 県内地銀過剰問題 ([[regional-banks/nagoya-bank]] 独立継続) の再編残存圧力
 
 ## 7. 規制・政策
 
-- **免許状態**: 2025-01-01登録抹消（[[aichi-bank]]への合併）
-- **業界団体 (歴史的)**: 第二地方銀行協会 加盟 (合併で資格喪失、現 [[aichi-bank]] は第二地銀協会継続加盟)
+- **免許状態**: 2025-01-01登録抹消（[[regional-banks/aichi-bank]]への合併）
+- **業界団体 (歴史的)**: 第二地方銀行協会 加盟 (合併で資格喪失、現 [[regional-banks/aichi-bank]] は第二地銀協会継続加盟)
 - **主管 (歴史的)**: 金融庁 (FSA) / 銀行法 第 4 条免許
 - **直近政策論点 (合併直前)**:
   - 県内地銀過剰問題で再編圧力
-  - 2023〜 日銀利上げで利ざや改善期待は [[aichi-bank]] 合併後に集約
+  - 2023〜 日銀利上げで利ざや改善期待は [[regional-banks/aichi-bank]] 合併後に集約
 
 ## 関連
 
-- [[aichi-fg]] · [[aichi-bank]] · [[nagoya-bank]] · [[san-jusan-bank]] · [[juroku-bank]] · [[ogaki-kyoritsu-bank]]
-- [[hyakugo-bank]] · [[hyakujushi-bank]] · [[juroku-fg]] · [[san-jusan-fg]]
+- [[regional-banks/aichi-fg]] · [[regional-banks/aichi-bank]] · [[regional-banks/nagoya-bank]] · [[regional-banks/san-jusan-bank]] · [[regional-banks/juroku-bank]] · [[regional-banks/ogaki-kyoritsu-bank]]
+- [[regional-banks/hyakugo-bank]] · [[regional-banks/hyakujushi-bank]] · [[regional-banks/juroku-fg]] · [[regional-banks/san-jusan-fg]]
 - [[banking/regional-bank-consolidation-pattern]] · [[banking/INDEX]]
 - [[regional-banks/INDEX|regional-banks INDEX]]
 
@@ -129,4 +129,4 @@ translated_at: 2026-06-02T14:01:20.969Z
 ---
 
 > [!info] 校核状態
-> confidence: **likely** (歴史的前身アンカー 作成 2026-05-24)。現行 運営境界 は [[aichi-bank|あいち銀行]] に移管済み (2025-01-01)、本ページは合併前の独立第二地銀としての歴史・KPI・合併プロセスを扱う 曖昧さ回避用アンカー。最終財務 KPI は [[aichi-fg]] 有価証券報告書「中京銀行 単体情報」(2024-03-31) で確認済み (預金 1 兆 9,642 億円 / 貸出金 1 兆 5,617 億円 / 従業員 800 名)。
+> confidence: **likely** (歴史的前身アンカー 作成 2026-05-24)。現行 運営境界 は [[regional-banks/aichi-bank|あいち銀行]] に移管済み (2025-01-01)、本ページは合併前の独立第二地銀としての歴史・KPI・合併プロセスを扱う 曖昧さ回避用アンカー。最終財務 KPI は [[regional-banks/aichi-fg]] 有価証券報告書「中京銀行 単体情報」(2024-03-31) で確認済み (預金 1 兆 9,642 億円 / 貸出金 1 兆 5,617 億円 / 従業員 800 名)。

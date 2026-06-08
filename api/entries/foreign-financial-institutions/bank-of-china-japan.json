@@ -50,34 +50,32 @@
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 8,
+    "wikilinks_count": 7,
     "wikilinks": [
-      "agricultural-bank-of-china-japan",
       "banking/INDEX",
       "banking/foreign-bank-japan-retreat",
-      "china-construction-bank-japan",
-      "chugoku-bank",
       "foreign-financial-institutions/INDEX",
+      "foreign-financial-institutions/agricultural-bank-of-china-japan",
+      "foreign-financial-institutions/china-construction-bank-japan",
       "foreign-financial-institutions/icbc-japan",
-      "icbc-japan"
+      "regional-banks/chugoku-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/agricultural-bank-of-china-japan",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/foreign-bank-japan-retreat",
-      "https://finwiki.zksc.io/china-construction-bank-japan",
-      "https://finwiki.zksc.io/chugoku-bank",
       "https://finwiki.zksc.io/foreign-financial-institutions/INDEX",
+      "https://finwiki.zksc.io/foreign-financial-institutions/agricultural-bank-of-china-japan",
+      "https://finwiki.zksc.io/foreign-financial-institutions/china-construction-bank-japan",
       "https://finwiki.zksc.io/foreign-financial-institutions/icbc-japan",
-      "https://finwiki.zksc.io/icbc-japan"
+      "https://finwiki.zksc.io/regional-banks/chugoku-bank"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2238,
-    "word_like_tokens": 369,
-    "inbound_wikilinks_count": 7,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 2484,
+    "word_like_tokens": 395,
+    "inbound_wikilinks_count": 10,
+    "last_modified": "2026-06-08"
   }
 }

@@ -49,10 +49,10 @@ translated_at: 2026-06-02T14:54:39.052Z
 
 ## 関連
 
-- [[woori-bank-japan]]
-- [[hana-bank-japan]]
-- [[industrial-bank-of-korea-japan]]
-- [[kb-kookmin-bank-japan]]
+- [[foreign-financial-institutions/woori-bank-japan]]
+- [[foreign-financial-institutions/hana-bank-japan]]
+- [[foreign-financial-institutions/industrial-bank-of-korea-japan]]
+- [[foreign-financial-institutions/kb-kookmin-bank-japan]]
 - [[financial-regulators/jbic]]
 - [[financial-regulators/dbj]]
 - [[banking/foreign-bank-japan-retreat]]

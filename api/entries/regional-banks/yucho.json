@@ -55,35 +55,35 @@
     "wikilinks_count": 10,
     "wikilinks": [
       "banking/INDEX",
+      "megabanks/mizuho-fg",
+      "megabanks/mufg",
+      "megabanks/ndfg",
+      "megabanks/paypay-fg",
       "megabanks/resona-hd",
-      "mizuho-fg",
-      "mufg",
-      "ndfg",
-      "paypay-fg",
+      "megabanks/sbi-hd",
+      "megabanks/smfg",
       "regional-banks/INDEX",
-      "regional-banks/japan-post-bank",
-      "sbi-hd",
-      "smfg"
+      "regional-banks/japan-post-bank"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/ndfg",
+      "https://finwiki.zksc.io/megabanks/paypay-fg",
       "https://finwiki.zksc.io/megabanks/resona-hd",
-      "https://finwiki.zksc.io/mizuho-fg",
-      "https://finwiki.zksc.io/mufg",
-      "https://finwiki.zksc.io/ndfg",
-      "https://finwiki.zksc.io/paypay-fg",
+      "https://finwiki.zksc.io/megabanks/sbi-hd",
+      "https://finwiki.zksc.io/megabanks/smfg",
       "https://finwiki.zksc.io/regional-banks/INDEX",
-      "https://finwiki.zksc.io/regional-banks/japan-post-bank",
-      "https://finwiki.zksc.io/sbi-hd",
-      "https://finwiki.zksc.io/smfg"
+      "https://finwiki.zksc.io/regional-banks/japan-post-bank"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4450,
-    "word_like_tokens": 717,
-    "inbound_wikilinks_count": 5,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 4510,
+    "word_like_tokens": 723,
+    "inbound_wikilinks_count": 8,
+    "last_modified": "2026-06-08"
   }
 }

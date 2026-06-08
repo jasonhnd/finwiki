@@ -16,7 +16,7 @@ translated_at: 2026-06-02T14:54:39.058Z
 
 ## 要約
 
-京都府を地盤とする **関西の名門地銀 FG**。証券コード **東証 PRIME 5844**。**2023-10-02** に京都銀行の **単独株式移転** による持株会社化で発足（地銀の中では持株会社化が遅かった例）。**京都銀行は京都府内シェア No.1** を維持し、京都府本社の任天堂・京セラ・村田製作所・日本電産（現ニデック）等の **世界的優良企業** との取引・**政策保有株式** で著名。関西では [[resona-hd]]（関西みらい銀）・[[ikeda-senshu-hd]]・滋賀銀行・南都銀行・紀陽銀行 等と直接競合。メガ 3 行（[[mufg]] / [[smfg]] / [[mizuho-fg]]）に対しては京都地盤と上場企業株式持合いの **資金力** で独自の存在感。^[extracted]
+京都府を地盤とする **関西の名門地銀 FG**。証券コード **東証 PRIME 5844**。**2023-10-02** に京都銀行の **単独株式移転** による持株会社化で発足（地銀の中では持株会社化が遅かった例）。**京都銀行は京都府内シェア No.1** を維持し、京都府本社の任天堂・京セラ・村田製作所・日本電産（現ニデック）等の **世界的優良企業** との取引・**政策保有株式** で著名。関西では [[megabanks/resona-hd]]（関西みらい銀）・[[regional-banks/ikeda-senshu-hd]]・滋賀銀行・南都銀行・紀陽銀行 等と直接競合。メガ 3 行（[[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]]）に対しては京都地盤と上場企業株式持合いの **資金力** で独自の存在感。^[extracted]
 
 ## 1. 会社概要
 
@@ -108,13 +108,13 @@ translated_at: 2026-06-02T14:54:39.058Z
 
 | 競合 | 地盤 | 構図 |
 |---|---|---|
-| [[resona-hd]]（関西みらい銀）| 関西全域 | 旧大和銀 + 旧近畿大阪銀 + 旧みなと銀 連合 → 関西リテールで直接競合 |
-| [[ikeda-senshu-hd]]（池田泉州銀）| 大阪府北摂・泉州 | 大阪府で京都銀の関西広域展開と部分競合 |
+| [[megabanks/resona-hd]]（関西みらい銀）| 関西全域 | 旧大和銀 + 旧近畿大阪銀 + 旧みなと銀 連合 → 関西リテールで直接競合 |
+| [[regional-banks/ikeda-senshu-hd]]（池田泉州銀）| 大阪府北摂・泉州 | 大阪府で京都銀の関西広域展開と部分競合 |
 | 滋賀銀行 | 滋賀県・関西 | 京都府と滋賀県の県境・京阪エリアで競合、関西地銀ランキング近接 |
 | 南都銀行 | 奈良県 | 京都府南部・奈良県境で競合 |
 | 紀陽銀行 | 和歌山県 | 関西地銀同列、関西広域で間接競合 |
-| [[mufg]] / [[smfg]] / [[mizuho-fg]] | 全国 | 大企業 メインバンク 領域は競合、京都銀は **株式持合いで一部世界企業と独自関係**（[[mufg]] / [[smfg]] が メインバンク の任天堂・京セラ等でも京都銀は安定株主として独自地位）★ |
-| [[paypay-fg]] / 楽天銀行 / 住信 SBI ネット銀行 | デジタル | 個人デジタル領域での新興競合 |
+| [[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]] | 全国 | 大企業 メインバンク 領域は競合、京都銀は **株式持合いで一部世界企業と独自関係**（[[megabanks/mufg]] / [[megabanks/smfg]] が メインバンク の任天堂・京セラ等でも京都銀は安定株主として独自地位）★ |
+| [[megabanks/paypay-fg]] / 楽天銀行 / 住信 SBI ネット銀行 | デジタル | 個人デジタル領域での新興競合 |
 | 京都信用金庫・京都中央信用金庫 | 京都府内 | 京都府内の地域金融機関として小口・地場案件で競合 |
 
 ### 京都本社の世界企業との関係 ★
@@ -149,9 +149,9 @@ translated_at: 2026-06-02T14:54:39.058Z
 
 ## 関連項目
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[resona-hd]] · [[sumitomo-mitsui-trust]]
-- [[ikeda-senshu-hd]] · [[concordia-fg]] · [[fukuoka-fg]] · [[shizuoka-fg]] · [[hirogin-hd]]
-- [[paypay-fg]] · [[rakuten-fg]] · [[sbi-hd]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[megabanks/resona-hd]] · [[trust-banks/sumitomo-mitsui-trust]]
+- [[regional-banks/ikeda-senshu-hd]] · [[regional-banks/concordia-fg]] · [[regional-banks/fukuoka-fg]] · [[regional-banks/shizuoka-fg]] · [[regional-banks/hirogin-hd]]
+- [[megabanks/paypay-fg]] · [[payment-firms/rakuten-fg]] · [[megabanks/sbi-hd]]
 
 ## 出典
 

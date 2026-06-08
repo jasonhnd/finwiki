@@ -33,8 +33,8 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 ## Open questions
 
 - パートナー地銀網の最終形は何行・どの地域カバレッジを想定？
-- [[jimoto-hd]]（仙台銀・きらやか銀）の SBI 地銀 HD 内位置付けは？ 完全統合 vs 緩やか連合維持
+- [[regional-banks/jimoto-hd]]（仙台銀・きらやか銀）の SBI 地銀 HD 内位置付けは？ 完全統合 vs 緩やか連合維持
 - 旧新生銀行公的資金約 3500 億円の返済シナリオは？
 - 地銀 DX 共通化の具体的進捗（勘定系・モバイル統一）は？
 - 「第 4 のメガバンク構想」の KPI 設定と達成度は？
-- TSUBASA アライアンス（[[chiba-bank]] 主導）との競合構図の今後は？
+- TSUBASA アライアンス（[[regional-banks/chiba-bank]] 主導）との競合構図の今後は？

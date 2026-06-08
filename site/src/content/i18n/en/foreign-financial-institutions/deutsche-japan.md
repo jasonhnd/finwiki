@@ -16,7 +16,7 @@ This entry sits under[[foreign-financial-institutions/INDEX|foreign-financial-in
 
 ## TL;DR
 
-A collective name for the Japanese offices of Deutsche Bank AG (headquartered in Frankfurt, **G-SIB Bucket2**). **Tokyo branch (opened 1972 ) + Deutsche Securities (corporate IB)**2 axis is the core. After experiencing financial difficulties in the home country (2016 - 2019), operations in Japan were also reduced due to2019-07 global investment bank restructuring (reduction of18,000 personnel worldwide). Currently focused on **IB + Markets (bonds/FX strengths) + Asset Management (DWS) + Private Banking**, with no retail development. Competitors are[[citigroup-japan]]/[[hsbc-japan]]/ UBS / Barclays.
+A collective name for the Japanese offices of Deutsche Bank AG (headquartered in Frankfurt, **G-SIB Bucket2**). **Tokyo branch (opened 1972 ) + Deutsche Securities (corporate IB)**2 axis is the core. After experiencing financial difficulties in the home country (2016 - 2019), operations in Japan were also reduced due to2019-07 global investment bank restructuring (reduction of18,000 personnel worldwide). Currently focused on **IB + Markets (bonds/FX strengths) + Asset Management (DWS) + Private Banking**, with no retail development. Competitors are[[foreign-financial-institutions/citigroup-japan]]/[[foreign-financial-institutions/hsbc-japan]]/ UBS / Barclays.
 
 ## 1 . Company profile
 
@@ -83,11 +83,11 @@ A collective name for the Japanese offices of Deutsche Bank AG (headquartered in
 
 |competition|Strength comparison|
 |---|---|
-|[[citigroup-japan]]|Similar territory in IB/Markets after U.S. withdrawal from retail|
-|[[hsbc-japan]]|British, strong Asian network, retail2012 withdrawal|
+|[[foreign-financial-institutions/citigroup-japan]]|Similar territory in IB/Markets after U.S. withdrawal from retail|
+|[[foreign-financial-institutions/hsbc-japan]]|British, strong Asian network, retail2012 withdrawal|
 |UBS Japan|Swiss, PB presence of1 位in the world, IB is shrinking|
 |barclays japan|Similar position in English, IB/Markets|
-|Japanese Bank IB ([[mufg]]MUMSS /[[smfg]]SMBC Nikko /[[mizuho-fg]])|Overwhelming domestic customer base, competing with European and American companies cross-border|
+|Japanese Bank IB ([[megabanks/mufg]]MUMSS /[[megabanks/smfg]]SMBC Nikko /[[megabanks/mizuho-fg]])|Overwhelming domestic customer base, competing with European and American companies cross-border|
 
 ### Linkage with parent company in home country
 
@@ -107,17 +107,17 @@ A collective name for the Japanese offices of Deutsche Bank AG (headquartered in
 ## 7 .Open questions
 
 - 2019  What are the latest figures for personnel size and profit contribution in Japan after global restructuring? (Limited to public information)
-- How does the AUM scale of DWS Japan base compare with Japanese bank operations ([[mufg]] AM, etc.)?
+- How does the AUM scale of DWS Japan base compare with Japanese bank operations ([[megabanks/mufg]] AM, etc.)?
 - Deutsche Bank Wealth Management What is the market share for wealthy people in Japan and its position relative to competitors (after UBS/Credit Suisse UBS integration)?
 - Yen bond primary dealer qualification/degree of participation in government bond auctions (sensitive parts outside public rankings)
 - What impact will the strategic reorganization of the parent company in the home country (2024 -2025 medium-term plan) have on the Japanese base?
-- Past and future possibility of alliance/joint venture with Japanese bank mega[[mufg]]/[[smfg]]/ [[mizuho-fg]]?
+- Past and future possibility of alliance/joint venture with Japanese bank mega[[megabanks/mufg]]/[[megabanks/smfg]]/ [[megabanks/mizuho-fg]]?
 
 ## 8 . Related
 
-- [[mufg]] ·[[smfg]]·[[mizuho-fg]]· [[ndfg]]
-- [[citigroup-japan]] · [[hsbc-japan]]
-- (Related plans:[[ubs-japan]]·[[barclays-japan]]·[[foreign-financial-institutions/bnp-paribas-japan|bnp-japan]]·[[foreign-financial-institutions/socgen-japan|socgen-japan]])
+- [[megabanks/mufg]] ·[[megabanks/smfg]]·[[megabanks/mizuho-fg]]· [[megabanks/ndfg]]
+- [[foreign-financial-institutions/citigroup-japan]] · [[foreign-financial-institutions/hsbc-japan]]
+- (Related plans:[[foreign-financial-institutions/ubs-japan]]·[[foreign-financial-institutions/barclays-japan]]·[[foreign-financial-institutions/bnp-paribas-japan|bnp-japan]]·[[foreign-financial-institutions/socgen-japan|socgen-japan]])
 
 ## Sources
 

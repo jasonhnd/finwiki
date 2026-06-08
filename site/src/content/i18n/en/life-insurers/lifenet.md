@@ -16,7 +16,7 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 
 ## TL;DR
 
-**Japan's first independent internet-only life insurance company**. Founded in 2006-10  by Haruaki Deguchi (formerly Nippon Life) and Daisuke Iwase (formerly BCG), it opened in 2008-05-18. It has no sales-agent channel and is **fully online**, targeting younger customers in their 20-30 s with the selling points "simple, transparent, and inexpensive." It listed on TSE Mothers in 2012-03-15 (the first postwar internet life insurer listing). **KDDI [[au-fh]] is a strategic shareholder holding about 28%**, linking the company with the au economic zone. Main products are term death insurance, medical insurance, cancer insurance, and disability / income-protection insurance. ^[extracted]
+**Japan's first independent internet-only life insurance company**. Founded in 2006-10  by Haruaki Deguchi (formerly Nippon Life) and Daisuke Iwase (formerly BCG), it opened in 2008-05-18. It has no sales-agent channel and is **fully online**, targeting younger customers in their 20-30 s with the selling points "simple, transparent, and inexpensive." It listed on TSE Mothers in 2012-03-15 (the first postwar internet life insurer listing). **KDDI [[megabanks/au-fh]] is a strategic shareholder holding about 28%**, linking the company with the au economic zone. Main products are term death insurance, medical insurance, cancer insurance, and disability / income-protection insurance. ^[extracted]
 
 ## 1. Company Overview
 
@@ -32,11 +32,11 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 
 | Shareholder | Ratio (public information) |
 |---|---|
-| **KDDI Corporation** [[au-fh]] | About 28% level (strategic shareholder, among the largest) ^[extracted] |
+| **KDDI Corporation** [[megabanks/au-fh]] | About 28% level (strategic shareholder, among the largest) ^[extracted] |
 | Secom Group | Holds shares (strategic shareholder) ^[extracted] |
 | Other institutional investors / individuals | Remainder |
 
-> KDDI invested in 2015 年, then gradually raised its ownership, positioning LifeNet as the life-insurance piece of the au economic zone / au Financial HD [[au-fh]] ^[extracted]
+> KDDI invested in 2015 年, then gradually raised its ownership, positioning LifeNet as the life-insurance piece of the au economic zone / au Financial HD [[megabanks/au-fh]] ^[extracted]
 
 ### Founders / Management (History)
 
@@ -69,7 +69,7 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 2. **Lightweight cost structure**: No sales staff labor costs or store rent -> model that increases the pure-premium portion  
 3. **Main target: younger customers (20-30 s)**: Captures the "first insurance" layer that incumbent life insurers had undercovered  
 4. **Digital UX**: Smartphone completion and shortest possible application time  
-5. **KDDI / au economic-zone linkage** [[au-fh]]: customer referrals from the au customer base, au PAY point pathways, and related flows ^[extracted]
+5. **KDDI / au economic-zone linkage** [[megabanks/au-fh]]: customer referrals from the au customer base, au PAY point pathways, and related flows ^[extracted]
 
 ### History
 
@@ -88,10 +88,10 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 |---|---|---|
 | **AXA Direct Life** | Foreign-affiliated online life insurer | Strength of auto-insurance brand |
 | **Aflac (online sales)** | D2C expansion by major cancer-insurance player | Strong in cancer / medical |
-| **SBI Life** | Under SBI HD [[sbi-hd]] | Linkage with SBI Securities and online bank |
+| **SBI Life** | Under SBI HD [[megabanks/sbi-hd]] | Linkage with SBI Securities and online bank |
 | **Medicare Life** | Sumitomo Life line / online sales | Parent-company brand |
 | **Rakuten Life** | Under Rakuten Group | Rakuten points economic zone |
-| **PayPay Insurance** (small-amount short-term) | SoftBank [[paypay-fg]] | Super-app pathways |
+| **PayPay Insurance** (small-amount short-term) | SoftBank [[megabanks/paypay-fg]] | Super-app pathways |
 
 ### Corporate Message
 
@@ -107,10 +107,10 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 
 ## Related
 
-- [[au-fh]] (KDDI / au Financial HD, leading strategic shareholder)
-- [[sbi-hd]] (parent of SBI Life, competitor)
-- [[paypay-fg]] (PayPay Insurance, economic-zone competitor)
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] (traditional life insurers vs internet life insurers)
+- [[megabanks/au-fh]] (KDDI / au Financial HD, leading strategic shareholder)
+- [[megabanks/sbi-hd]] (parent of SBI Life, competitor)
+- [[megabanks/paypay-fg]] (PayPay Insurance, economic-zone competitor)
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] (traditional life insurers vs internet life insurers)
 - [[insurance/internet-life-insurance-business-model]] (provisional / internet life-insurance business-model discussion)
 
 ## Sources

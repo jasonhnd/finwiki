@@ -50,36 +50,34 @@
     "県内完結型の特殊性"
   ],
   "body_links": {
-    "wikilinks_count": 9,
+    "wikilinks_count": 8,
     "wikilinks": [
       "banking/INDEX",
-      "dbj",
       "financial-regulators/INDEX",
+      "financial-regulators/dbj",
+      "financial-regulators/jbic",
       "financial-regulators/jfc",
-      "jbic",
-      "jfc",
-      "okinawa-fg",
-      "ryukyu-bank",
-      "shoko-chukin"
+      "financial-regulators/shoko-chukin",
+      "regional-banks/okinawa-fg",
+      "regional-banks/ryukyu-bank"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/dbj",
       "https://finwiki.zksc.io/financial-regulators/INDEX",
+      "https://finwiki.zksc.io/financial-regulators/dbj",
+      "https://finwiki.zksc.io/financial-regulators/jbic",
       "https://finwiki.zksc.io/financial-regulators/jfc",
-      "https://finwiki.zksc.io/jbic",
-      "https://finwiki.zksc.io/jfc",
-      "https://finwiki.zksc.io/okinawa-fg",
-      "https://finwiki.zksc.io/ryukyu-bank",
-      "https://finwiki.zksc.io/shoko-chukin"
+      "https://finwiki.zksc.io/financial-regulators/shoko-chukin",
+      "https://finwiki.zksc.io/regional-banks/okinawa-fg",
+      "https://finwiki.zksc.io/regional-banks/ryukyu-bank"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5694,
-    "word_like_tokens": 761,
-    "inbound_wikilinks_count": 5,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 6078,
+    "word_like_tokens": 801,
+    "inbound_wikilinks_count": 6,
+    "last_modified": "2026-06-08"
   }
 }

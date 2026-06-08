@@ -16,12 +16,12 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## 推論 (from 信託口株主としての影響力)
 
-- パッシブ運用の拡大（[[nippon-life]] / [[dai-ichi-life]] / 各 GPIF 委託運用機関）に伴って信託口比率は構造的に上昇傾向 ^[inferred]
+- パッシブ運用の拡大（[[life-insurers/nippon-life]] / [[life-insurers/dai-ichi-life]] / 各 GPIF 委託運用機関）に伴って信託口比率は構造的に上昇傾向 ^[inferred]
 
 ## 推論 (from 4. 規制・政策)
 
 - **G-SIB 認定**：なし（カストディ専業のためエクスポージャー小）^[inferred]
-  - 2026〜 ステーブルコイン / トークン化証券（[[mufg]] Progmat 等）の保管モデル検討 ^[inferred]
+  - 2026〜 ステーブルコイン / トークン化証券（[[megabanks/mufg]] Progmat 等）の保管モデル検討 ^[inferred]
 
 ## 推論 (from 5. 重要年表)
 
@@ -29,17 +29,17 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## Counterpoints
 
-- 「2 強寡占の中立性」：CBJ + マスタートラスト [[master-trust-bank]] で日本の信託カストディを実質寡占 → 議決権集中の懸念（実態は運用機関指図に従う）^[inferred]
+- 「2 強寡占の中立性」：CBJ + マスタートラスト [[trust-banks/master-trust-bank]] で日本の信託カストディを実質寡占 → 議決権集中の懸念（実態は運用機関指図に従う）^[inferred]
 - 「合併シナジー実現度」：JTSB + TCSB 合併（2020-07）の統合シナジーは IR 非公開のため定量評価困難 ^[ambiguous]
 - 「専業モデルの限界」：商業銀行業務を持たないため**手数料ビジネス依存** → 信託報酬料率低下圧力に脆弱 ^[inferred]
-- 「親会社間の利害調整」：[[sumitomo-mitsui-trust]] 46.5% + [[mizuho-fg]] 27.0% + [[dai-ichi-life]] 8.0% の合弁構造 → 戦略意思決定の調整コスト ^[inferred]
+- 「親会社間の利害調整」：[[trust-banks/sumitomo-mitsui-trust]] 46.5% + [[megabanks/mizuho-fg]] 27.0% + [[life-insurers/dai-ichi-life]] 8.0% の合弁構造 → 戦略意思決定の調整コスト ^[inferred]
 
 ## Open questions
 
-- CBJ vs マスタートラスト [[master-trust-bank]] の受託資産シェア推移は？（具体数値は両者とも非公開）
+- CBJ vs マスタートラスト [[trust-banks/master-trust-bank]] の受託資産シェア推移は？（具体数値は両者とも非公開）
 - JTSB + TCSB 統合シナジー（コスト削減・システム統合効果）の定量実績は？
-- ステーブルコイン / トークン化証券（[[mufg]] Progmat 等）の保管モデル参入時期は？
-- 3 大親会社（[[sumitomo-mitsui-trust]] / [[mizuho-fg]] / [[dai-ichi-life]]）の出資比率は今後変動するか？
+- ステーブルコイン / トークン化証券（[[megabanks/mufg]] Progmat 等）の保管モデル参入時期は？
+- 3 大親会社（[[trust-banks/sumitomo-mitsui-trust]] / [[megabanks/mizuho-fg]] / [[life-insurers/dai-ichi-life]]）の出資比率は今後変動するか？
 - 確定拠出年金制度改革（2025〜）に伴う受託資産拡大幅は？
 
 <!-- ambiguous 整理 (2026-05-29) -->

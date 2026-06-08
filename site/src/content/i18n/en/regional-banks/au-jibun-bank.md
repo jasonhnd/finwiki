@@ -11,11 +11,11 @@ translated_at: 2026-05-31T11:13:44.868Z
 
 ## Wiki route
 
-This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it against [[regional-banks/sony-bank|Sony Bank]], [[trust-banks/orix-bank|ORIX Bank]], and [[JapanFG/rakuten-bank|Rakuten Bank]] for internet-bank peer context, against [[megabanks/mufg-bank|MUFG Bank]] as the co-investor parent-bank route, and against [[banking/INDEX|banking index]] for the broader banking and regulatory perimeter.
+This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it against [[regional-banks/sony-bank|Sony Bank]], [[trust-banks/orix-bank|ORIX Bank]], and [[banking/rakuten-bank|Rakuten Bank]] for internet-bank peer context, against [[megabanks/mufg-bank|MUFG Bank]] as the co-investor parent-bank route, and against [[banking/INDEX|banking index]] for the broader banking and regulatory perimeter.
 
 ## TL;DR
 
-au Jibun Bank Corporation is an internet bank jointly originated by **KDDI (au)** and [[megabanks/mufg|Mitsubishi UFJ Financial Group]]. It was established in 2008-06 as Jibun Bank by KDDI and [[megabanks/mufg-bank|MUFG Bank]] on a 50:50 basis, began operations in 2008-07, became a KDDI consolidated subsidiary after KDDI raised its stake in 2020-02, and changed its trade name to au Jibun Bank. The bank holds an ordinary-bank license from the Kanto Local Finance Bureau and operates as a branchless internet-only bank. Its distinctive position is the linkage of KDDI's telecom customer base, au subscribers, Ponta points, and au PAY with MUFG banking infrastructure. Core products include housing loans, card loans, foreign-currency deposits, FX, and investment trusts. Principal peers include [[JapanFG/rakuten-bank|Rakuten Bank]], [[regional-banks/sony-bank|Sony Bank]], [[regional-banks/sbi-sumishin-net-bank|SBI Sumishin Net Bank]], and [[JapanFG/paypay-bank|PayPay Bank]].
+au Jibun Bank Corporation is an internet bank jointly originated by **KDDI (au)** and [[megabanks/mufg|Mitsubishi UFJ Financial Group]]. It was established in 2008-06 as Jibun Bank by KDDI and [[megabanks/mufg-bank|MUFG Bank]] on a 50:50 basis, began operations in 2008-07, became a KDDI consolidated subsidiary after KDDI raised its stake in 2020-02, and changed its trade name to au Jibun Bank. The bank holds an ordinary-bank license from the Kanto Local Finance Bureau and operates as a branchless internet-only bank. Its distinctive position is the linkage of KDDI's telecom customer base, au subscribers, Ponta points, and au PAY with MUFG banking infrastructure. Core products include housing loans, card loans, foreign-currency deposits, FX, and investment trusts. Principal peers include [[banking/rakuten-bank|Rakuten Bank]], [[regional-banks/sony-bank|Sony Bank]], [[regional-banks/sbi-sumishin-net-bank|SBI Sumishin Net Bank]], and [[banking/paypay-bank|PayPay Bank]].
 
 ## 1. Corporation and shareholders
 
@@ -60,9 +60,9 @@ au Jibun Bank Corporation is an internet bank jointly originated by **KDDI (au)*
 |---|---|---|
 | au Jibun Bank | **KDDI + MUFG** | au economic zone, Ponta points, au PAY |
 | [[regional-banks/sbi-sumishin-net-bank|SBI Sumishin Net Bank]] | SBI + Sumitomo Mitsui Trust | Housing loans, corporate business, securities linkage |
-| [[JapanFG/rakuten-bank|Rakuten Bank]] | Rakuten Group | Rakuten economic zone and marketplace linkage |
+| [[banking/rakuten-bank|Rakuten Bank]] | Rakuten Group | Rakuten economic zone and marketplace linkage |
 | [[regional-banks/sony-bank|Sony Bank]] | Sony Group | Foreign currency and housing loans |
-| [[JapanFG/paypay-bank|PayPay Bank]] | Z Holdings + Sumitomo Mitsui | PayPay economic zone |
+| [[banking/paypay-bank|PayPay Bank]] | Z Holdings + Sumitomo Mitsui | PayPay economic zone |
 | [[trust-banks/orix-bank|ORIX Bank]] | ORIX | Real-estate investment loans |
 
 ## 6. Strategy and recent themes
@@ -97,10 +97,10 @@ For exact current figures, use KDDI / MUFG IR materials, securities reports, and
 
 - [[megabanks/mufg|Mitsubishi UFJ Financial Group]] - co-investor parent group
 - [[megabanks/mufg-bank|MUFG Bank]] - co-investor bank
-- [[JapanFG/rakuten-bank|Rakuten Bank]] - economic-zone online-bank peer
+- [[banking/rakuten-bank|Rakuten Bank]] - economic-zone online-bank peer
 - [[regional-banks/sony-bank|Sony Bank]] - online-bank peer
 - [[regional-banks/sbi-sumishin-net-bank|SBI Sumishin Net Bank]] - online-bank peer
-- [[JapanFG/paypay-bank|PayPay Bank]] - telecom / payment-zone online-bank peer
+- [[banking/paypay-bank|PayPay Bank]] - telecom / payment-zone online-bank peer
 - [[trust-banks/orix-bank|ORIX Bank]] - independent online-bank peer
 - [[regional-banks/INDEX|regional-banks INDEX]]
 - [[banking/INDEX|Banking domain index]]

@@ -15,7 +15,7 @@ This entry sits under [[leasing-firms/INDEX|leasing-firms INDEX]]. Read it again
 
 ## TL;DR
 
-Part of Japan's 3  general leasing and finance company ([[orix-corp]] / [[mufg]] Mitsubishi HC Capital / Tokyo Century). Unusual capital structure: **Mizuho FG ([[mizuho-fg]]) + Itochu Corporation's 2  axis major shareholder**. Diversified from automobile, IT, and industrial equipment leasing to real estate, **aircraft finance**, overseas (Americas and Asia), environment/renewable energy, concessions, and rental cars (formerly Nippon Rent-A-Car Service). TSE PRIME **8439**. 2019 年 Entered **Aircraft Leasing World Top 10** after becoming a wholly owned subsidiary of US Aviation Capital Group (ACG).
+Part of Japan's 3  general leasing and finance company ([[leasing-firms/orix-corp]] / [[megabanks/mufg]] Mitsubishi HC Capital / Tokyo Century). Unusual capital structure: **Mizuho FG ([[megabanks/mizuho-fg]]) + Itochu Corporation's 2  axis major shareholder**. Diversified from automobile, IT, and industrial equipment leasing to real estate, **aircraft finance**, overseas (Americas and Asia), environment/renewable energy, concessions, and rental cars (formerly Nippon Rent-A-Car Service). TSE PRIME **8439**. 2019 年 Entered **Aircraft Leasing World Top 10** after becoming a wholly owned subsidiary of US Aviation Capital Group (ACG).
 
 ## 1. Company Profile
 
@@ -24,7 +24,7 @@ Part of Japan's 3  general leasing and finance company ([[orix-corp]] / [[mufg]]
 **Stock code**: TSE PRIME **8439**
 **Business type**: Comprehensive lease/finance (3  Large Lease)
 **Major shareholders (total approximately 50% class)**:
-- **Mizuho FG ([[mizuho-fg]])** (former Dai-ichi Kangyo Bank lineage)
+- **Mizuho FG ([[megabanks/mizuho-fg]])** (former Dai-ichi Kangyo Bank lineage)
 - **ITOCHU Corporation**
 
 2  axis shareholder structure is unique among Japan's major general leasing companies. Mizuho is providing financial support, while Itochu is providing its trading company network (automobiles, industrial equipment, and overseas projects), supporting both lease funding and project supply.
@@ -45,11 +45,11 @@ Part of Japan's 3  general leasing and finance company ([[orix-corp]] / [[mufg]]
 
 3 Including major leases and semi-majors, the following:
 
-- **[[orix-corp]]** (ORIX) -- Originated in leasing, but now a financial complex
-- **Mitsubishi HC Capital** ([[mufg]], TSE PRIME 8593) ─ Former Mitsubishi UFJ Lease + Hitachi Capital
+- **[[leasing-firms/orix-corp]]** (ORIX) -- Originated in leasing, but now a financial complex
+- **Mitsubishi HC Capital** ([[megabanks/mufg]], TSE PRIME 8593) ─ Former Mitsubishi UFJ Lease + Hitachi Capital
 - **Tokyo Century** (this page)
-- **Fuyo General Lease ([[fuyo-lease]])** ── Separate axis of Mizuho group
-- **SMFL (Sumitomo Mitsui Finance & Lease)** ─ [[smfg]], a joint venture affiliated with Sumitomo Corporation
+- **Fuyo General Lease ([[leasing-firms/fuyo-lease]])** ── Separate axis of Mizuho group
+- **SMFL (Sumitomo Mitsui Finance & Lease)** ─ [[megabanks/smfg]], a joint venture affiliated with Sumitomo Corporation
 
 ### 2  two predecessors
 
@@ -98,8 +98,8 @@ The integration of 2009 年 was carried out in the context of **reorganization**
 
 | Major company | Differentiation axis |
 |---|---|
-| [[orix-corp]] | Turning into a **financial conglomerate** including real estate, PE, insurance, and banking |
-| Mitsubishi HC Capital | Mitsubishi Corporation + [[mufg]] affiliated **domestic corporate network + global industrial equipment** |
+| [[leasing-firms/orix-corp]] | Turning into a **financial conglomerate** including real estate, PE, insurance, and banking |
+| Mitsubishi HC Capital | Mitsubishi Corporation + [[megabanks/mufg]] affiliated **domestic corporate network + global industrial equipment** |
 | **Tokyo Century** | **Mizuho FG + ITOCHU Corporation's 2  axis**, aircraft leasing (ACG), overseas multi-currency finance |
 
 It is accurate to read the relationship with Itochu Corporation in parallel with trading company leases (Sumitomo Corporation ⇄ SMFL, Mitsubishi Corporation ⇄ Mitsubishi HC Capital).
@@ -119,7 +119,7 @@ It is accurate to read the relationship with Itochu Corporation in parallel with
 
 ## Related
 
-- [[mizuho-fg]] · [[mufg]] · [[smfg]] · [[orix-corp]] · [[fuyo-lease]]
+- [[megabanks/mizuho-fg]] · [[megabanks/mufg]] · [[megabanks/smfg]] · [[leasing-firms/orix-corp]] · [[leasing-firms/fuyo-lease]]
 
 ## Sources
 

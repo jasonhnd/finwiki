@@ -187,7 +187,7 @@ This entry sits under [[megabanks/INDEX|megabanks INDEX]]. Read it against [[meg
 
 ## Related
 
-- [[mufg]] · [[smfg]] · [[ndfg]] · [[sbi-hd]] · [[paypay-fg]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/ndfg]] · [[megabanks/sbi-hd]] · [[megabanks/paypay-fg]]
 - [[banking/mercari-bank-license-stack]] · [[banking/minna-bank-baas-model]]
 
 ## Sources

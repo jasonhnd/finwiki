@@ -68,19 +68,19 @@ Kiyo Bank is a standalone regional bank based in Wakayama Prefecture, with an un
 - **Wakayama Prefecture = tourism + primary-industry major prefecture**:
   - **Tourism**: many tourism assets in the prefecture, including Koyasan (head temple of Shingon Buddhism, founded by Kukai in 1200 年; World Heritage "Sacred Sites and Pilgrimage Routes in the Kii Mountain Range"), Kumano Kodo (Kumano Sanzan / World Heritage), Nanki-Shirahama Onsen, and Adventure World (pandas)
   - **Primary industry**: mandarin oranges national 1 位, plums (Nanko-ume) national 1 位, forestry (Wakayama part of the Yoshino-Kumano line), fisheries (Kishu-Katsuura tuna, etc.)
-- **Primary-industry finance**: competition / division of roles with JA Bank ([[norinchukin]] line) is a structural issue. Supports business succession for mandarin-orange / plum farmers and lending to processed-food businesses such as pickled plums and juice producers
+- **Primary-industry finance**: competition / division of roles with JA Bank ([[cooperative-banks/norinchukin]] line) is a structural issue. Supports business succession for mandarin-orange / plum farmers and lending to processed-food businesses such as pickled plums and juice producers
 - **Southern Osaka (Senshu area) expansion**: because volume is limited within Wakayama alone, the bank has **strengthened expansion into southern Osaka (Kishiwada, Kaizuka, Izumisano, Sennan)**. It aims to win main-bank positions for logistics and tourism-related businesses around Kansai International Airport (Rinku Town, Izumisano City) and SMEs in the Senshu manufacturing area
 
 ### Competitive structure in the Kansai economy
 
 - **Specificity of the Kii Peninsula**: Wakayama Prefecture occupies the western half of the Kii Peninsula, bordering Osaka to the north, Nara and Mie to the east, and the Pacific Ocean to the south. A prefecture-contained regional-bank operation is difficult given population scale, so it is structurally drawn into **competition across the Kansai economy + Kii Peninsula**
-- **Competition with megabanks ([[mufg]] / [[smfg]] / [[mizuho-fg]])**: large-company deals in urban Osaka tend to flow to megabanks; Kiyo Bank counters through **main-bank positions for mid-sized and smaller companies in Wakayama + southern Osaka (Senshu area)**
+- **Competition with megabanks ([[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]])**: large-company deals in urban Osaka tend to flow to megabanks; Kiyo Bank counters through **main-bank positions for mid-sized and smaller companies in Wakayama + southern Osaka (Senshu area)**
 - **Competition with Kansai regional banks**:
-  - [[ikeda-senshu-hd|池田泉州 HD]] (Senshu Ikeda Bank): direct competition across Osaka, especially in southern Osaka's Senshu area, where the former Senshu Bank origin of the name "Senshu" collides with Kiyo's southern Osaka expansion
-  - [[nanto-bank|南都銀行]] (Nara-based): contact at the prefectural border (northeastern Wakayama / Gojo area)
-  - [[kyoto-fg|京都 FG]]: less direct contact, but parallel as a mid-sized regional bank in the same broad Kansai economy
-  - [[resona-hd|りそな HD]] (including Kansai Mirai Bank): Kansai's largest regional-bank group, direct competition with Kiyo across Osaka
-- **Contact with southern Mie / east coast of the Kii Peninsula**: the Mie side is the home market of [[san-jusan-fg|三十三 FG]] (former Mie Bank + Daisan Bank); there is prefectural-border contact on the east coast of the Kii Peninsula (Kumano / Owase)
+  - [[regional-banks/ikeda-senshu-hd|池田泉州 HD]] (Senshu Ikeda Bank): direct competition across Osaka, especially in southern Osaka's Senshu area, where the former Senshu Bank origin of the name "Senshu" collides with Kiyo's southern Osaka expansion
+  - [[regional-banks/nanto-bank|南都銀行]] (Nara-based): contact at the prefectural border (northeastern Wakayama / Gojo area)
+  - [[regional-banks/kyoto-fg|京都 FG]]: less direct contact, but parallel as a mid-sized regional bank in the same broad Kansai economy
+  - [[megabanks/resona-hd|りそな HD]] (including Kansai Mirai Bank): Kansai's largest regional-bank group, direct competition with Kiyo across Osaka
+- **Contact with southern Mie / east coast of the Kii Peninsula**: the Mie side is the home market of [[regional-banks/san-jusan-fg|三十三 FG]] (former Mie Bank + Daisan Bank); there is prefectural-border contact on the east coast of the Kii Peninsula (Kumano / Owase)
 
 ### Strategic significance of dissolving the holding company
 
@@ -105,10 +105,10 @@ Kiyo Bank is a standalone regional bank based in Wakayama Prefecture, with an un
 
 ## Related
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] (megabank 3 行, competitors for Kansai large-company deals)
-- [[ikeda-senshu-hd]] · [[nanto-bank]] · [[kyoto-fg]] · [[resona-hd]] (Kansai regional-bank group)
-- [[san-jusan-fg]] (prefectural-border contact in southern Mie / east coast of the Kii Peninsula)
-- [[norinchukin]] (competition / division of roles with JA Bank line in primary-industry finance)
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] (megabank 3 行, competitors for Kansai large-company deals)
+- [[regional-banks/ikeda-senshu-hd]] · [[regional-banks/nanto-bank]] · [[regional-banks/kyoto-fg]] · [[megabanks/resona-hd]] (Kansai regional-bank group)
+- [[regional-banks/san-jusan-fg]] (prefectural-border contact in southern Mie / east coast of the Kii Peninsula)
+- [[cooperative-banks/norinchukin]] (competition / division of roles with JA Bank line in primary-industry finance)
 - [[banking/minna-bank-baas-model]] (regional-bank digital strategy comparison)
 
 ## Sources

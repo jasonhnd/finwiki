@@ -15,7 +15,7 @@ This entry sits under [[card-issuers/INDEX|card-issuers INDEX]] as the **operati
 
 ## TL;DR
 
-This is the set of JR East group financial functions. The core pieces are: (1) **View Card**, the VIEW card-issuing subsidiary responsible for JR East group credit issuance centered on Suica-integrated cards; (2) **JRE BANK**, opened in 2024-05  as a JR East-branded bank account operated through [[JapanFG/rakuten-bank|楽天銀行]] BaaS, with train-fare discounts and point benefits; and (3) **Suica e-money / JR East Payment Services**, the issuer / merchant network around the transit IC card Suica. JR East itself is **TSE Prime 9020**, one of the largest transportation / logistics stocks, and its financial functions are positioned as a pillar of a **customer life-infrastructure lock-in strategy** attached to the rail business. ^[extracted]
+This is the set of JR East group financial functions. The core pieces are: (1) **View Card**, the VIEW card-issuing subsidiary responsible for JR East group credit issuance centered on Suica-integrated cards; (2) **JRE BANK**, opened in 2024-05  as a JR East-branded bank account operated through [[banking/rakuten-bank|楽天銀行]] BaaS, with train-fare discounts and point benefits; and (3) **Suica e-money / JR East Payment Services**, the issuer / merchant network around the transit IC card Suica. JR East itself is **TSE Prime 9020**, one of the largest transportation / logistics stocks, and its financial functions are positioned as a pillar of a **customer life-infrastructure lock-in strategy** attached to the rail business. ^[extracted]
 
 ### 1.1  View Card Co., Ltd.
 
@@ -32,9 +32,9 @@ This is the set of JR East group financial functions. The core pieces are: (1) *
 
 | Item | Details |
 |---|---|
-| Trade name | JRE BANK (JR East-branded account, operated by [[JapanFG/rakuten-bank|楽天銀行]]) |
+| Trade name | JRE BANK (JR East-branded account, operated by [[banking/rakuten-bank|楽天銀行]]) |
 | Opening | **2024-05-09** ^[extracted] |
-| Bank license holder | **[[JapanFG/rakuten-bank|楽天銀行]]** (JR East does not hold a bank license; this is a BaaS "branded bank" format) |
+| Bank license holder | **[[banking/rakuten-bank|楽天銀行]]** (JR East does not hold a bank license; this is a BaaS "branded bank" format) |
 | Benefits | **JRE POINT grants + fare discounts on JR East long-distance tickets** based on deposit balance and transactions |
 | Strategic significance | Higher LTV by turning rail customers into **primary life-account** customers |
 
@@ -54,7 +54,7 @@ This is the set of JR East group financial functions. The core pieces are: (1) *
 | Credit-card issuance | **View Card** | Core is View Suica Card (Suica-integrated); partnerships include Lumine Card, BicCamera Suica Card, and JRE CARD |
 | Prepaid / transit IC | JR East itself + [[payments/suica-prepaid-jr-east|Suica]] | Integrated operation of transit fare media + e-money; more than 100 万 merchant locations |
 | QR code payment | **JR East Payment Services** (Suica Pay) | Full-scale rollout from 2023 onward; QR extension of the Suica economic zone |
-| Bank account | **JRE BANK** ([[JapanFG/rakuten-bank|楽天銀行]] BaaS) | Opened 2024-05 ; branded-bank model |
+| Bank account | **JRE BANK** ([[banking/rakuten-bank|楽天銀行]] BaaS) | Opened 2024-05 ; branded-bank model |
 | Point ecosystem | JRE POINT | Rewards from card usage, Suica charging, JR rides, and JRE BANK deposits |
 | Corporate EC / ticketing | Ekinet and related services | Payment infrastructure for group EC |
 
@@ -71,7 +71,7 @@ East Japan Railway Company (TSE Prime 9020)
   └── Financial group (this page)
         ├── View Card Co., Ltd. ── credit cards (VIEW Card)
         ├── JR East Payment Services Co., Ltd. ── Suica merchant acquiring / Suica Pay operation
-        ├── JRE BANK ── branded bank account ([[JapanFG/rakuten-bank|楽天銀行]] BaaS)
+        ├── JRE BANK ── branded bank account ([[banking/rakuten-bank|楽天銀行]] BaaS)
         └── Suica e-money infrastructure ── JR East-operated infrastructure inside the railway business
 ```
 
@@ -100,7 +100,7 @@ East Japan Railway Company (TSE Prime 9020)
 
 ### 5.2  JRE BANK BaaS model (from 2024 onward)
 
-- Uses [[JapanFG/rakuten-bank|楽天銀行]]'s BaaS (Banking as a Service) platform rather than obtaining its own bank license.
+- Uses [[banking/rakuten-bank|楽天銀行]]'s BaaS (Banking as a Service) platform rather than obtaining its own bank license.
 - The **"branded bank account"** model contrasts with self-owned banks such as [[regional-banks/seven-bank|セブン銀行]]; it is a tradeoff between license cost and use of brand assets.
 - Deposit benefits include **fare discounts on long-distance tickets**, creating a clear synergy with the rail business.
 - Competitors: [[regional-banks/seven-bank|セブン銀行]] and [[card-issuers/aeon-bank|イオン銀行]], which own their banks and take a different approach.
@@ -122,13 +122,13 @@ East Japan Railway Company (TSE Prime 9020)
 | View Card | Installment Sales Act (METI) and Money Lending Business Act (FSA) |
 | Suica (prepaid) | Payment Services Act (prepaid payment instruments / funds-transfer-adjacent supervision by FSA) |
 | Suica Pay / merchant acquiring | Payment Services Act (issuer of prepaid payment instruments) |
-| JRE BANK | [[JapanFG/rakuten-bank|楽天銀行]] holds the banking license -> FSA banking supervision |
+| JRE BANK | [[banking/rakuten-bank|楽天銀行]] holds the banking license -> FSA banking supervision |
 | Parent JR East | MLIT (railway business) + FSA (financial subsidiaries on consolidated basis) |
 
 ## Related
 
 - JR East (parent company, TSE Prime 9020)
-- [[JapanFG/rakuten-bank]] — BaaS partner for JRE BANK
+- [[banking/rakuten-bank]] — BaaS partner for JRE BANK
 - [[JapanFG/tokyu-card]] — private-railway financial-subsidiary peer
 - [[JapanFG/odakyu-cards]] — private-railway financial-subsidiary peer
 - [[regional-banks/seven-bank]] — retail-bank peer (self-owned bank model)
@@ -154,4 +154,4 @@ East Japan Railway Company (TSE Prime 9020)
 ---
 
 > [!info] Validation status
-> confidence: **likely** (v1.1  public-information basis, 2026-05-25 extraction / ambiguous recheck 2026-05-29). Public information confirms the JRE BANK opening date (2024-05-09), operation through [[JapanFG/rakuten-bank|楽天銀行]] BaaS, View Card subsidiary status, and JR East Payment Services subsidiary status. **Active View Card members (about 570 万 people, 2023 年 fiscal year) and JRE POINT members (about 1,417 万 people, 2023-07) are included with sources**. The old vague bands "millions" and "tens of millions of IDs" were replaced with actual figures; "tens of millions" is overstated, and JRE POINT is accurately in the roughly 1,400 万-person range. About 5,000 万 people is the 2027 年 fiscal-year integrated-ID target, not a current value. Suica cumulative issuance above 1 億 remains an estimate (^[likely]). JRE BANK account-count forecasts (previous "hundreds of thousands of accounts" scale) and forward-looking assumptions on Suica Pay QR strategy were isolated to `.opinions/JapanFG/jr-east-financial.md` because they are not primary-disclosure account numbers.
+> confidence: **likely** (v1.1  public-information basis, 2026-05-25 extraction / ambiguous recheck 2026-05-29). Public information confirms the JRE BANK opening date (2024-05-09), operation through [[banking/rakuten-bank|楽天銀行]] BaaS, View Card subsidiary status, and JR East Payment Services subsidiary status. **Active View Card members (about 570 万 people, 2023 年 fiscal year) and JRE POINT members (about 1,417 万 people, 2023-07) are included with sources**. The old vague bands "millions" and "tens of millions of IDs" were replaced with actual figures; "tens of millions" is overstated, and JRE POINT is accurately in the roughly 1,400 万-person range. About 5,000 万 people is the 2027 年 fiscal-year integrated-ID target, not a current value. Suica cumulative issuance above 1 億 remains an estimate (^[likely]). JRE BANK account-count forecasts (previous "hundreds of thousands of accounts" scale) and forward-looking assumptions on Suica Pay QR strategy were isolated to `.opinions/JapanFG/jr-east-financial.md` because they are not primary-disclosure account numbers.

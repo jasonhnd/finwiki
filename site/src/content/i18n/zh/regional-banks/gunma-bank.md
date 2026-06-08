@@ -31,7 +31,7 @@ translated_at: 2026-05-31T15:29:03.942Z
 
 ### 不成为控股公司的问题
 
-Megabank3 行・虽然领先的地区银行（[[mebuki-fg]] /[[concordia-fg]]/[[fukuoka-fg]]等）正在转变为控股公司，但**群马银行仍保留其独立的银行系统**。这是：
+Megabank3 行・虽然领先的地区银行（[[regional-banks/mebuki-fg]] /[[regional-banks/concordia-fg]]/[[regional-banks/fukuoka-fg]]等）正在转变为控股公司，但**群马银行仍保留其独立的银行系统**。这是：
 - 以区域为重点和单一县基地的控股公司的小型企业多元化优势
 - 子公司（租赁、卡、咨询）可作为银行直属子公司全面管理。
 - 无合并/管理整合合作伙伴（仅限县内 PRIME 地方银行）
@@ -101,11 +101,11 @@ Megabank3 行・虽然领先的地区银行（[[mebuki-fg]] /[[concordia-fg]]/[[
 
 |竞赛|特征|
 |---|---|
-|**[[towa-bank]]** 东和银行|群马县编号2  地区银行、前桥市总店、独立银行系统、群马银行县内最大竞争对手|
+|**[[regional-banks/towa-bank]]** 东和银行|群马县编号2  地区银行、前桥市总店、独立银行系统、群马银行县内最大竞争对手|
 |**群未来信用合作社**|信用社（2012～11 上附信用社+东群马信用社合并，高崎市总店），小批量，社区型|
-|**[[mebuki-fg]] 足利银行**|总部位于栃木县，但在群马东部/埼玉北部面临销售竞争，Mebuki FG 控股公司结构|
+|**[[regional-banks/mebuki-fg]] 足利银行**|总部位于栃木县，但在群马东部/埼玉北部面临销售竞争，Mebuki FG 控股公司结构|
 |**武藏野银行**|总部位于埼玉县，与群马银行向埼玉县北部的扩张竞争|
-|**巨型3 行**|与[[mufg]] /[[smfg]]/ [[mizuho-fg]]竞争大型企业和上市公司|
+|**巨型3 行**|与[[megabanks/mufg]] /[[megabanks/smfg]]/ [[megabanks/mizuho-fg]]竞争大型企业和上市公司|
 
 ## 4 。法规/政策
 
@@ -120,7 +120,7 @@ Megabank3 行・虽然领先的地区银行（[[mebuki-fg]] /[[concordia-fg]]/[[
 
 ## 有关的
 
-- [[towa-bank]] ·[[mebuki-fg]]·[[mufg]]·[[smfg]]· [[mizuho-fg]]
+- [[regional-banks/towa-bank]] ·[[regional-banks/mebuki-fg]]·[[megabanks/mufg]]·[[megabanks/smfg]]· [[megabanks/mizuho-fg]]
 - TSUBASA联盟：千叶银行/第一北越银行/中国银行/伊予银行/东丰银行等
 
 ## 来源

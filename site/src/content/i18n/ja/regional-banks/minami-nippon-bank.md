@@ -17,7 +17,7 @@ translated_at: 2026-06-02T14:54:39.048Z
 
 ## 要約
 
-株式会社南日本銀行は、金融庁の銀行免許一覧に掲載される鹿児島県本店の第二地方銀行。鹿児島県の 第二地方銀行運営会社アンカー であり、[[kagoshima-bank]] とは別法人の 地域ピア として扱う。
+株式会社南日本銀行は、金融庁の銀行免許一覧に掲載される鹿児島県本店の第二地方銀行。鹿児島県の 第二地方銀行運営会社アンカー であり、[[regional-banks/kagoshima-bank]] とは別法人の 地域ピア として扱う。
 
 ## 1. 免許・グループ境界
 
@@ -31,19 +31,19 @@ translated_at: 2026-06-02T14:54:39.048Z
 
 ## 2. 事業モデル
 
-南日本銀行は、鹿児島県内の 個人預金、中小企業金融、個人向け銀行業務、地域密着型金融 を担う 第二地方銀行。[[kagoshima-bank]] のページは [[kyushu-fg]] の中核銀行境界を扱い、本ページは独立系第二地方銀行の免許境界を扱う。九州の第二地方銀行再編圧力 は [[banking/regional-bank-consolidation-pattern]] を参照。
+南日本銀行は、鹿児島県内の 個人預金、中小企業金融、個人向け銀行業務、地域密着型金融 を担う 第二地方銀行。[[regional-banks/kagoshima-bank]] のページは [[regional-banks/kyushu-fg]] の中核銀行境界を扱い、本ページは独立系第二地方銀行の免許境界を扱う。九州の第二地方銀行再編圧力 は [[banking/regional-bank-consolidation-pattern]] を参照。
 
 ## 3. このページが重要な理由
 
 - 南日本銀行の FSA 正式名称ページを補完する。
 - 鹿児島県の第一・第二地方銀行のピア組み合わせを補完する。
-- [[kyushu-fg]] および地域再編分析のピア・アンカーを提供する。
+- [[regional-banks/kyushu-fg]] および地域再編分析のピア・アンカーを提供する。
 
 ## 関連項目
 
-- [[kagoshima-bank]]
-- [[kyushu-fg]]
-- [[miyazaki-bank]]
+- [[regional-banks/kagoshima-bank]]
+- [[regional-banks/kyushu-fg]]
+- [[regional-banks/miyazaki-bank]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 

@@ -17,7 +17,7 @@ This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-i
 
 ##TL;DR
 
-Chugoku Bank Tokyo Branch is a bank branch in Japan of Mainland China / Bank of China listed on the Financial Services Agency's list of foreign bank branches. It is a separate entity from Japan's [[chugoku-bank|中国銀行 / The Chugoku Bank]], and is treated as the main branch for deposits, loans, trade settlements, fund settlements, and foreign exchange transactions between Japan and Japan.
+Chugoku Bank Tokyo Branch is a bank branch in Japan of Mainland China / Bank of China listed on the Financial Services Agency's list of foreign bank branches. It is a separate entity from Japan's [[regional-banks/chugoku-bank|中国銀行 / The Chugoku Bank]], and is treated as the main branch for deposits, loans, trade settlements, fund settlements, and foreign exchange transactions between Japan and Japan.
 
 ## 1. License / branch boundary
 
@@ -28,7 +28,7 @@ Chugoku Bank Tokyo Branch is a bank branch in Japan of Mainland China / Bank of 
 |License route|Banking Act foreign bank branch; FSA bank license list|
 |Home jurisdiction|Mainland China|
 |Parent / group|Bank of China|
-|Wiki roles|China-Japan large-bank branch anchor; not [[chugoku-bank]]|
+|Wiki roles|China-Japan large-bank branch anchor; not [[regional-banks/chugoku-bank]]|
 
 ## 2. Operating model
 
@@ -38,16 +38,16 @@ This is one of the most important mainland China bank branches in Japan because 
 
 ## 3. Why this page matters
 
-- Resolves the name collision between Chinese Bank of China and Japanese [[chugoku-bank]].
+- Resolves the name collision between Chinese Bank of China and Japanese [[regional-banks/chugoku-bank]].
 - Adds a core mainland China P1 branch to the foreign-bank map.
-- Provides peer context for [[icbc-japan]], [[china-construction-bank-japan]], and [[agricultural-bank-of-china-japan]].
+- Provides peer context for [[foreign-financial-institutions/icbc-japan]], [[foreign-financial-institutions/china-construction-bank-japan]], and [[foreign-financial-institutions/agricultural-bank-of-china-japan]].
 
 ## Related
 
-- [[chugoku-bank]]
-- [[icbc-japan]]
-- [[china-construction-bank-japan]]
-- [[agricultural-bank-of-china-japan]]
+- [[regional-banks/chugoku-bank]]
+- [[foreign-financial-institutions/icbc-japan]]
+- [[foreign-financial-institutions/china-construction-bank-japan]]
+- [[foreign-financial-institutions/agricultural-bank-of-china-japan]]
 - [[banking/foreign-bank-japan-retreat]]
 
 ## Sources

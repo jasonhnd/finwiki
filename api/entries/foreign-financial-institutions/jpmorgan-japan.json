@@ -50,40 +50,38 @@
     "2020-2024：機関投資家サービス・FX・固定収益で日本シェア拡大"
   ],
   "body_links": {
-    "wikilinks_count": 11,
+    "wikilinks_count": 10,
     "wikilinks": [
       "banking/INDEX",
-      "citigroup-japan",
       "foreign-financial-institutions/INDEX",
       "foreign-financial-institutions/citigroup-japan",
-      "goldman-sachs-japan",
-      "mizuho-fg",
-      "morgan-stanley-japan",
-      "mufg",
-      "ndfg",
-      "smfg",
-      "ubs-japan"
+      "foreign-financial-institutions/ubs-japan",
+      "megabanks/mizuho-fg",
+      "megabanks/mufg",
+      "megabanks/ndfg",
+      "megabanks/smfg",
+      "securities-firms/goldman-sachs-japan",
+      "securities-firms/morgan-stanley-japan"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/citigroup-japan",
       "https://finwiki.zksc.io/foreign-financial-institutions/INDEX",
       "https://finwiki.zksc.io/foreign-financial-institutions/citigroup-japan",
-      "https://finwiki.zksc.io/goldman-sachs-japan",
-      "https://finwiki.zksc.io/mizuho-fg",
-      "https://finwiki.zksc.io/morgan-stanley-japan",
-      "https://finwiki.zksc.io/mufg",
-      "https://finwiki.zksc.io/ndfg",
-      "https://finwiki.zksc.io/smfg",
-      "https://finwiki.zksc.io/ubs-japan"
+      "https://finwiki.zksc.io/foreign-financial-institutions/ubs-japan",
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/ndfg",
+      "https://finwiki.zksc.io/megabanks/smfg",
+      "https://finwiki.zksc.io/securities-firms/goldman-sachs-japan",
+      "https://finwiki.zksc.io/securities-firms/morgan-stanley-japan"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4358,
-    "word_like_tokens": 740,
-    "inbound_wikilinks_count": 33,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 4687,
+    "word_like_tokens": 775,
+    "inbound_wikilinks_count": 37,
+    "last_modified": "2026-06-08"
   }
 }

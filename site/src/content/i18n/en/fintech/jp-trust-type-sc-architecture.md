@@ -38,14 +38,14 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it against [[fintech
 
 **(b) The disruptive force of having no transfer cap**: Funds-transfer-operator models such as JPYC are constrained by 1  transfers / 100 万円, which effectively limits them to **retail use**. The trust type can support **B2B large-value settlement (10 億円 to hundreds of billions of yen per 1  transfer)**. This is the core reason Progmat chose the trust-type route.
 
-**(c) Meaning of multi-bank joint entrustment**: In the trust scheme of [[payment-firms/progmat|Progmat Coin]], **multiple banks ([[megabanks/mufg|MUFG]], [[megabanks/smfg|SMFG/SMBC]], Mizuho)** act as joint settlors, and **Mitsubishi UFJ Trust 1 社 acts as trustee**. This makes it legally possible to **support customer deposits from 3  megabanks with one unified common stablecoin**, which is the legal foundation of [[multi-megabank-consortium-governance|多巨行联合体治理]].
+**(c) Meaning of multi-bank joint entrustment**: In the trust scheme of [[payment-firms/progmat|Progmat Coin]], **multiple banks ([[megabanks/mufg|MUFG]], [[megabanks/smfg|SMFG/SMBC]], Mizuho)** act as joint settlors, and **Mitsubishi UFJ Trust 1 社 acts as trustee**. This makes it legally possible to **support customer deposits from 3  megabanks with one unified common stablecoin**, which is the legal foundation of [[fintech/multi-megabank-consortium-governance|多巨行联合体治理]].
 
 ## Relationship with §501(d)
 
 GENIUS Act §501(d) requires both an "interoperable jurisdiction" and a "trusted issuer" for cross-border interoperability. The trust type's **legal bankruptcy remoteness + layered regulatory structure** fits well with §501(d) recognition. However:
 
 - Even for the trust type, **the §501(d) tier still has to be obtained separately**; it is not automatic.
-- Progmat Coin has not yet established a §501(d) channel, so [[cross-border-sc-via-swift-api|Project Pax via SWIFT API]] remains the mainstream route today for cross-border use.
+- Progmat Coin has not yet established a §501(d) channel, so [[fintech/cross-border-sc-via-swift-api|Project Pax via SWIFT API]] remains the mainstream route today for cross-border use.
 - If the trust type were to obtain a **§501(d) tier** in the future, its legal strength through the trust structure could give it a structural edge in interoperability with USDC.
 
 ## Market split among the three types (current 2026)
@@ -61,8 +61,8 @@ GENIUS Act §501(d) requires both an "interoperable jurisdiction" and a "trusted
 
 - Can instantly pull a structural comparison in any SC design discussion around "trust vs bank issuance"
 - Serves as the benchmark frame when evaluating Japan's 4  camp under §501(d) interoperability
-- Helps understand patterns where cross-border compliance channels (SWIFT API / IBC) are built on top of the trust type → [[cross-border-sc-via-swift-api|跨境 SC via SWIFT API]]
-- Functions as the Japan-side implementation answer for [[institutional-stablecoin-deposit-token-thesis|機関投資家市場 = 預金トークン唯一解]]
+- Helps understand patterns where cross-border compliance channels (SWIFT API / IBC) are built on top of the trust type → [[fintech/cross-border-sc-via-swift-api|跨境 SC via SWIFT API]]
+- Functions as the Japan-side implementation answer for [[fintech/institutional-stablecoin-deposit-token-thesis|機関投資家市場 = 預金トークン唯一解]]
 
 ---
 

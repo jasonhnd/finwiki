@@ -53,7 +53,6 @@
   "body_links": {
     "wikilinks_count": 11,
     "wikilinks": [
-      "aozora-bank",
       "banking/INDEX",
       "banking/au-jibun-bank",
       "banking/baas-japan-landscape",
@@ -61,12 +60,12 @@
       "banking/minna-bank-baas-model",
       "banking/paypay-bank",
       "banking/rakuten-bank",
-      "gmo-coin",
       "payment-firms/INDEX",
+      "payment-firms/gmo-coin",
+      "regional-banks/aozora-bank",
       "regional-banks/ssnb"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/aozora-bank",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/au-jibun-bank",
       "https://finwiki.zksc.io/banking/baas-japan-landscape",
@@ -74,17 +73,18 @@
       "https://finwiki.zksc.io/banking/minna-bank-baas-model",
       "https://finwiki.zksc.io/banking/paypay-bank",
       "https://finwiki.zksc.io/banking/rakuten-bank",
-      "https://finwiki.zksc.io/gmo-coin",
       "https://finwiki.zksc.io/payment-firms/INDEX",
+      "https://finwiki.zksc.io/payment-firms/gmo-coin",
+      "https://finwiki.zksc.io/regional-banks/aozora-bank",
       "https://finwiki.zksc.io/regional-banks/ssnb"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5252,
-    "word_like_tokens": 925,
-    "inbound_wikilinks_count": 15,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 5383,
+    "word_like_tokens": 943,
+    "inbound_wikilinks_count": 18,
+    "last_modified": "2026-06-08"
   }
 }

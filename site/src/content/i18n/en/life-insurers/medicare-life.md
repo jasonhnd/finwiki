@@ -15,7 +15,7 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 
 ## TL;DR
 
-Medicare Life Insurance Co., Ltd. is a life-insurance operating company in the [[sumitomo-life]] group, listed on the FSA life-insurer list and the Life Insurance Association of Japan member list. It is separated from the Sumitomo Life parent entity as a specialty insurer focused on medical / protection products and multi-channel distribution.
+Medicare Life Insurance Co., Ltd. is a life-insurance operating company in the [[life-insurers/sumitomo-life]] group, listed on the FSA life-insurer list and the Life Insurance Association of Japan member list. It is separated from the Sumitomo Life parent entity as a specialty insurer focused on medical / protection products and multi-channel distribution.
 
 ## 1. License / group boundary
 
@@ -24,12 +24,12 @@ Medicare Life Insurance Co., Ltd. is a life-insurance operating company in the [
 | Legal name | Medicare Life Insurance Co., Ltd. |
 | License route | Insurance Business Act life-insurance company; FSA life insurer list |
 | Industry body | Life Insurance Association of Japan member |
-| Group boundary | [[sumitomo-life]] group |
+| Group boundary | [[life-insurers/sumitomo-life]] group |
 | Wiki role | Sumitomo Life group medical / protection specialty insurer |
 
 ## 2. Operating model
 
-Medicare Life combines medical insurance and simple protection products with the parent insurer's brand / capital support and a more flexible product-channel strategy. Comparing it with [[hanasaku-life]] and [[nanairo-life]] makes visible the specialty-subsidiary strategy used by major life-insurer groups.
+Medicare Life combines medical insurance and simple protection products with the parent insurer's brand / capital support and a more flexible product-channel strategy. Comparing it with [[life-insurers/hanasaku-life]] and [[life-insurers/nanairo-life]] makes visible the specialty-subsidiary strategy used by major life-insurer groups.
 
 ## 3. Why this page matters
 
@@ -39,9 +39,9 @@ Medicare Life combines medical insurance and simple protection products with the
 
 ## Related
 
-- [[sumitomo-life]]
-- [[hanasaku-life]]
-- [[nanairo-life]]
+- [[life-insurers/sumitomo-life]]
+- [[life-insurers/hanasaku-life]]
+- [[life-insurers/nanairo-life]]
 - [[insurance/life-insurance-channel-mix]]
 - [[insurance/INDEX]]
 

@@ -19,6 +19,6 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 ## Open questions
 
 - What is QBE Japan's premium volume and product mix relative to QBE Asia's total?
-- How does QBE Japan position vs. [[JapanFG/lloyd-japan|Lloyd's Japan]] for Japan-originated specialty placements?
+- How does QBE Japan position vs. [[non-life-insurers/lloyd-japan|Lloyd's Japan]] for Japan-originated specialty placements?
 - What is QBE's earthquake and typhoon exposure management approach for Japan commercial property?
 - How has QBE Japan's headcount and footprint evolved through QBE Group's various Asia restructurings?

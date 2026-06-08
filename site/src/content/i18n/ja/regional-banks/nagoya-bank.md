@@ -17,7 +17,7 @@ translated_at: 2026-06-02T14:54:39.101Z
 
 ## 要約
 
-株式会社名古屋銀行は、金融庁の銀行免許一覧に掲載される愛知県名古屋市本店の第二地方銀行。中京圏では [[aichi-bank]] と並ぶ主要な地域銀行比較対象として、独立した運営会社ページを持たせる。
+株式会社名古屋銀行は、金融庁の銀行免許一覧に掲載される愛知県名古屋市本店の第二地方銀行。中京圏では [[regional-banks/aichi-bank]] と並ぶ主要な地域銀行比較対象として、独立した運営会社ページを持たせる。
 
 ## 1. 免許・グループ境界
 
@@ -31,7 +31,7 @@ translated_at: 2026-06-02T14:54:39.101Z
 
 ## 2. 事業モデル
 
-名古屋銀行は、愛知県・名古屋圏の個人預金、中小企業金融、製造業 / サービス業の法人取引、地域コンサルティングを担う第二地方銀行。[[aichi-bank]] とは同一県内の地域銀行比較対象であり、[[juroku-bank]] と [[ogaki-kyoritsu-bank]] とは中京経済圏で隣接する。
+名古屋銀行は、愛知県・名古屋圏の個人預金、中小企業金融、製造業 / サービス業の法人取引、地域コンサルティングを担う第二地方銀行。[[regional-banks/aichi-bank]] とは同一県内の地域銀行比較対象であり、[[regional-banks/juroku-bank]] と [[regional-banks/ogaki-kyoritsu-bank]] とは中京経済圏で隣接する。
 
 ## 3. このページが重要な理由
 
@@ -41,10 +41,10 @@ translated_at: 2026-06-02T14:54:39.101Z
 
 ## 関連
 
-- [[aichi-bank]]
-- [[aichi-fg]]
-- [[juroku-bank]]
-- [[ogaki-kyoritsu-bank]]
+- [[regional-banks/aichi-bank]]
+- [[regional-banks/aichi-fg]]
+- [[regional-banks/juroku-bank]]
+- [[regional-banks/ogaki-kyoritsu-bank]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 

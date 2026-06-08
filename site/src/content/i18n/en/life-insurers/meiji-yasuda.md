@@ -24,7 +24,7 @@ One of Japan's major 4  life insurers, formed in 2004-01-01 through the merger o
 **Legal form**: **mutual company** (not listed; policyholders = members hold voting rights)
 **Established**: 2004-01-01 (merger of former Meiji Life Insurance + former Yasuda Life Insurance)
 **Head office**: Marunouchi, Chiyoda-ku, Tokyo 2-1-1 (Meiji Yasuda Life Building)
-**Industry position**: one of the major 4  life insurers ([[nippon-life]] / [[dai-ichi-life]] / Sumitomo Life / Meiji Yasuda Life)
+**Industry position**: one of the major 4  life insurers ([[life-insurers/nippon-life]] / [[life-insurers/dai-ichi-life]] / Sumitomo Life / Meiji Yasuda Life)
 
 ### Points of the mutual-company form
 
@@ -32,7 +32,7 @@ One of Japan's major 4  life insurers, formed in 2004-01-01 through the merger o
 - No shareholders; insurance policyholders participate in management as "members" through the board of policyholder representatives
 - Dividends are returned to policyholders, not shareholders (policyholder dividends)
 - Cannot list, so equity fundraising from capital markets is unavailable; internal reserves and subordinated debt are central
-- Peers with the same form: [[nippon-life]], Sumitomo Life, Fukoku Life, Asahi Life
+- Peers with the same form: [[life-insurers/nippon-life]], Sumitomo Life, Fukoku Life, Asahi Life
 
 ### Predecessor 2  lines
 
@@ -97,7 +97,7 @@ One of Japan's major 4  life insurers, formed in 2004-01-01 through the merger o
 ### Overseas strategy
 
 - **StanCorp focus**: U.S. group insurance platform, about 5000 億円 invested through 2016  full acquisition
-- Asia expansion is more restrained compared with peers ([[nippon-life]] / [[dai-ichi-life]])
+- Asia expansion is more restrained compared with peers ([[life-insurers/nippon-life]] / [[life-insurers/dai-ichi-life]])
 - Concentrated risk on the U.S. 1  axis, paired with specialized focus
 
 ## 5. Regulation / policy
@@ -122,12 +122,12 @@ One of Japan's major 4  life insurers, formed in 2004-01-01 through the merger o
 - Will overseas expansion beyond StanCorp (Asia, etc.) become serious, or will the company maintain the U.S. 1 -axis focus?
 - Under economic value-based solvency regulation (from 2025-04 onward), what is the impact on surplus capacity and dividend policy?
 - What is the progress of digital integration of the sales-staff channel (hybrid model)?
-- In 4 社 competition with [[nippon-life]] and [[dai-ichi-life]], is the mutual-company advantage sustainable?
+- In 4 社 competition with [[life-insurers/nippon-life]] and [[life-insurers/dai-ichi-life]], is the mutual-company advantage sustainable?
 
 ### Related
 
-- [[nippon-life]] · [[dai-ichi-life]] (same major 4  life-insurer peers)
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[ndfg]] (corporate transactions and bancassurance with megabanks)
+- [[life-insurers/nippon-life]] · [[life-insurers/dai-ichi-life]] (same major 4  life-insurer peers)
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[megabanks/ndfg]] (corporate transactions and bancassurance with megabanks)
 - Sumitomo Life, Fukoku Life, Asahi Life (same mutual-company form)
 
 ### Sources

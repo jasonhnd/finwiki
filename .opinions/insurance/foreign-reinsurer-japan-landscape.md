@@ -80,7 +80,7 @@ The exact panel composition for each 大手3社 group is *not* publicly disclose
 
 - The "panel of seven foreign reinsurers" reading is editorial. The FSA register also lists smaller foreign reinsurer branches and changes over time; readers should re-pull songai.pdf and seimei.pdf for the current set. ^[inferred]
 - Branch-level Japan underwriting figures are not publicly broken out; group-level reporting is the primary public source, and Japan-specific market share is largely inferred from broker market commentary. ^[ambiguous]
-- Lloyd's Japan ([[JapanFG/lloyd-japan]]) and the syndicate model are *adjacent* to but not *part of* this foreign-reinsurer landscape; the marketplace structure is fundamentally different. See [[insurance/lloyds-japan-syndicate-operating-model]].
+- Lloyd's Japan ([[non-life-insurers/lloyd-japan]]) and the syndicate model are *adjacent* to but not *part of* this foreign-reinsurer landscape; the marketplace structure is fundamentally different. See [[insurance/lloyds-japan-syndicate-operating-model]].
 
 ## Open questions
 

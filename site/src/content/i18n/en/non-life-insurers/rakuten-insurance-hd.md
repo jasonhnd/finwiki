@@ -15,7 +15,7 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 
 ## TL;DR
 
-Rakuten Insurance Holdings Co., Ltd. is Rakuten's insurance holding company listed in the FSA's approved insurance holding-company list. Treat it as the group strategy anchor that brings together [[rakuten-life]], [[rakuten-general-insurance]], and insurance agency / planning functions.
+Rakuten Insurance Holdings Co., Ltd. is Rakuten's insurance holding company listed in the FSA's approved insurance holding-company list. Treat it as the group strategy anchor that brings together [[life-insurers/rakuten-life]], [[non-life-insurers/rakuten-general-insurance]], and insurance agency / planning functions.
 
 ## 1. License / group boundary
 
@@ -23,8 +23,8 @@ Rakuten Insurance Holdings Co., Ltd. is Rakuten's insurance holding company list
 |---|---|
 | Legal name | Rakuten Insurance Holdings Co., Ltd. |
 | License route | Insurance holding company; FSA insurance holding-company list |
-| Group boundary | Rakuten insurance group under [[rakuten-fg]] adjacency |
-| Core operating pages | [[rakuten-life]], [[rakuten-general-insurance]] |
+| Group boundary | Rakuten insurance group under [[payment-firms/rakuten-fg]] adjacency |
+| Core operating pages | [[life-insurers/rakuten-life]], [[non-life-insurers/rakuten-general-insurance]] |
 | Wiki role | Rakuten insurance ecosystem holding-company page |
 
 ## 2. Operating model
@@ -39,11 +39,11 @@ Rakuten insurance strategy is best understood at the holding-company level: life
 
 ## Related
 
-- [[rakuten-fg]]
-- [[rakuten-life]]
-- [[rakuten-general-insurance]]
-- [[rakuten-card]]
-- [[rakuten-edy]]
+- [[payment-firms/rakuten-fg]]
+- [[life-insurers/rakuten-life]]
+- [[non-life-insurers/rakuten-general-insurance]]
+- [[card-issuers/rakuten-card]]
+- [[payment-firms/rakuten-edy]]
 
 ## Sources
 

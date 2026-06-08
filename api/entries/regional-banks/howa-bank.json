@@ -48,7 +48,7 @@
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 11,
+    "wikilinks_count": 10,
     "wikilinks": [
       "INDEX",
       "banking/INDEX",
@@ -56,10 +56,9 @@
       "financial-licenses/INDEX",
       "financial-regulators/fsa",
       "financial-regulators/zenginkyo",
-      "fukuoka-fg",
-      "nishi-nippon-fhd",
-      "oita-bank",
       "regional-banks/INDEX",
+      "regional-banks/fukuoka-fg",
+      "regional-banks/nishi-nippon-fhd",
       "regional-banks/oita-bank"
     ],
     "resolved_wikilinks": [
@@ -69,19 +68,18 @@
       "https://finwiki.zksc.io/financial-licenses/INDEX",
       "https://finwiki.zksc.io/financial-regulators/fsa",
       "https://finwiki.zksc.io/financial-regulators/zenginkyo",
-      "https://finwiki.zksc.io/fukuoka-fg",
-      "https://finwiki.zksc.io/nishi-nippon-fhd",
-      "https://finwiki.zksc.io/oita-bank",
       "https://finwiki.zksc.io/regional-banks/INDEX",
+      "https://finwiki.zksc.io/regional-banks/fukuoka-fg",
+      "https://finwiki.zksc.io/regional-banks/nishi-nippon-fhd",
       "https://finwiki.zksc.io/regional-banks/oita-bank"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2571,
-    "word_like_tokens": 376,
+    "nonspace_chars": 2616,
+    "word_like_tokens": 382,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-06-05"
+    "last_modified": "2026-06-08"
   }
 }

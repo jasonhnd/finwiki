@@ -17,7 +17,7 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it with 
 
 ## TL;DR
 
-Nissay Wealth Life Insurance Co., Ltd. is a life-insurance operating company in the [[nippon-life]] group, listed in the FSA life-insurer list and the Life Insurance Association of Japan member list. It is handled separately from the Nippon Life parent page in order to analyze wealth / financial-institution channel products.
+Nissay Wealth Life Insurance Co., Ltd. is a life-insurance operating company in the [[life-insurers/nippon-life]] group, listed in the FSA life-insurer list and the Life Insurance Association of Japan member list. It is handled separately from the Nippon Life parent page in order to analyze wealth / financial-institution channel products.
 
 ## 1. License / group boundary
 
@@ -26,7 +26,7 @@ Nissay Wealth Life Insurance Co., Ltd. is a life-insurance operating company in 
 | Legal name | Nissay Wealth Life Insurance Co., Ltd. |
 | License route | Insurance Business Act life-insurance company; FSA life insurer list |
 | Industry body | Life Insurance Association of Japan member |
-| Group boundary | [[nippon-life]] group |
+| Group boundary | [[life-insurers/nippon-life]] group |
 | Wiki role | Nippon Life group wealth / financial-institution-channel life insurer |
 
 ## 2. Operating model
@@ -41,10 +41,10 @@ Nissay Wealth Life is treated less as a traditional life-protection / household 
 
 ## Related
 
-- [[nippon-life]]
-- [[hanasaku-life]]
-- [[dai-ichi-frontier-life]]
-- [[td-financial-life]]
+- [[life-insurers/nippon-life]]
+- [[life-insurers/hanasaku-life]]
+- [[life-insurers/dai-ichi-frontier-life]]
+- [[life-insurers/td-financial-life]]
 - [[insurance/life-insurance-channel-mix]]
 
 ## Sources

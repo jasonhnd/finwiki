@@ -37,14 +37,14 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exc
 
 - **IBIT (BlackRock)**: AUM $80-100B 規模 · spot ETF 最大シェア · 史上最速で $50B AUM 到達
 - **米 spot ETF 全体 AUM**: $200B+ (2026 推定) · 世界の BTC 流通量の数 % を吸収
-- **Coinbase Custody**: 11 件中 9 件で受託 (institutional custody 寡占) — [[global-institutional-custody-five-pillars]] と整合
+- **Coinbase Custody**: 11 件中 9 件で受託 (institutional custody 寡占) — [[exchanges/global-institutional-custody-five-pillars]] と整合
 - **日次 net inflow**: peak で $1B/日超 (2024 春・2024 末 rally 時)
 
 ## 3. 国内 CEX への 3 経路影響
 
-- **(a) 価格波及**: BTC spot 価格上昇 → 国内 spot 取引高増加 · 1 BTC 1,500 万円超え (2024-03 初到達)。[[jvcea-spot-volume-statistics-analysis]] でも 2024 spot 月間取引高反発を確認
+- **(a) 価格波及**: BTC spot 価格上昇 → 国内 spot 取引高増加 · 1 BTC 1,500 万円超え (2024-03 初到達)。[[exchanges/jvcea-spot-volume-statistics-analysis]] でも 2024 spot 月間取引高反発を確認
 - **(b) 機関化**: 国内法人口座開設加速 · JVCEA 統計でも 2024+ で法人口座純増。bitFlyer / SBI VC Trade / Coincheck の法人向けサービス強化
-- **(c) 国内 ETF 解禁議論**: 2025-2026 で FSA + 業界団体 (JVCEA/JCBA) で BTC/ETH spot ETF 国内承認議論進行 · 2026-05 時点で**未承認** (法令改正必要) — [[jp-vasp-regulatory-timeline]] 参照
+- **(c) 国内 ETF 解禁議論**: 2025-2026 で FSA + 業界団体 (JVCEA/JCBA) で BTC/ETH spot ETF 国内承認議論進行 · 2026-05 時点で**未承認** (法令改正必要) — [[exchanges/jp-vasp-regulatory-timeline]] 参照
 
 ## 4. 日本 ETF 解禁の制度的障壁
 
@@ -56,8 +56,8 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exc
 ## 5. 投資家含意
 
 - **米 ETF 経由間接 exposure**: 日本投資家は野村証券 / SBI 証券 / 楽天証券 / マネックス証券経由で米 spot ETF (IBIT 等) を購入可能 · 国内承認待たず特定口座対応 (20% 申告分離)
-- **国内 CEX 競合圧力**: ETF 解禁時、国内 spot 取引のシェア低下リスク。米国でも spot ETF 承認後、Coinbase retail spot 取引高は ETF へ流れる trend 観察 → [[jp-cex-sales-vs-exchange-model-economics]] の販売所モデル収益にも影響
-- **機関プレイヤー流入**: Monex / SBI / 野村 / 三井住友トラスト等の大手金融 conglomerate 戦略意義増大 → [[jp-listed-cex-related-companies-matrix]]
+- **国内 CEX 競合圧力**: ETF 解禁時、国内 spot 取引のシェア低下リスク。米国でも spot ETF 承認後、Coinbase retail spot 取引高は ETF へ流れる trend 観察 → [[exchanges/jp-cex-sales-vs-exchange-model-economics]] の販売所モデル収益にも影響
+- **機関プレイヤー流入**: Monex / SBI / 野村 / 三井住友トラスト等の大手金融 conglomerate 戦略意義増大 → [[exchanges/jp-listed-cex-related-companies-matrix]]
 
 ## 関連
 

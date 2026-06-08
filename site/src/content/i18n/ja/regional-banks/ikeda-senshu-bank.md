@@ -17,7 +17,7 @@ translated_at: 2026-06-02T14:25:12.408Z
 
 ## 要約
 
-株式会社池田泉州銀行は、金融庁の銀行免許一覧に掲載される大阪府本店の地方銀行。[[ikeda-senshu-hd]] の中核銀行であり、旧池田銀行・旧泉州銀行統合後の銀行免許エンティティとして扱う。
+株式会社池田泉州銀行は、金融庁の銀行免許一覧に掲載される大阪府本店の地方銀行。[[regional-banks/ikeda-senshu-hd]] の中核銀行であり、旧池田銀行・旧泉州銀行統合後の銀行免許エンティティとして扱う。
 
 ## 1. ライセンス・グループ境界
 
@@ -25,7 +25,7 @@ translated_at: 2026-06-02T14:25:12.408Z
 |---|---|
 | 法人名 | 株式会社池田泉州銀行 |
 | ライセンス経路 | 銀行法上の地方銀行。FSA 銀行免許一覧に掲載 |
-| グループ境界 | [[ikeda-senshu-hd]] の中核銀行 |
+| グループ境界 | [[regional-banks/ikeda-senshu-hd]] の中核銀行 |
 | 地盤市場 | 大阪 / 北摂・泉州・兵庫県南東部 |
 | ウィキ上の役割 | 大阪地盤の地域銀行事業会社ページ |
 
@@ -36,15 +36,15 @@ translated_at: 2026-06-02T14:25:12.408Z
 ## 3. このページが重要な理由
 
 - FSA 上の正式名称に対応する池田泉州銀行の事業会社ページの空白を埋める。
-- 銀行エンティティを [[ikeda-senshu-hd]] の持株会社戦略から切り分ける。
-- [[kansai-mirai-bank]]、[[kyoto-bank]]、[[kiyo-bank]] の同業アンカーを提供する。
+- 銀行エンティティを [[regional-banks/ikeda-senshu-hd]] の持株会社戦略から切り分ける。
+- [[regional-banks/kansai-mirai-bank]]、[[regional-banks/kyoto-bank]]、[[regional-banks/kiyo-bank]] の同業アンカーを提供する。
 
 ## 関連
 
-- [[ikeda-senshu-hd]]
-- [[kansai-mirai-bank]]
-- [[kyoto-bank]]
-- [[kiyo-bank]]
+- [[regional-banks/ikeda-senshu-hd]]
+- [[regional-banks/kansai-mirai-bank]]
+- [[regional-banks/kyoto-bank]]
+- [[regional-banks/kiyo-bank]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 

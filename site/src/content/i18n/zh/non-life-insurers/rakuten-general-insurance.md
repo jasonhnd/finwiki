@@ -16,7 +16,7 @@ translated_at: 2026-06-01T00:41:50.444Z
 
 ## TL;DR
 
-乐天损害保险株式会社是 [[rakuten-fg]] / Rakuten insurance ecosystem 的 non-life insurance operating company。它是列入金融厅损害保险公司牌照一览和损害保险契约者保护机构会员一览的 licensed insurer，并可能与乐天卡、乐天银行、乐天生命、乐天积分 economic surface 相连接。
+乐天损害保险株式会社是 [[payment-firms/rakuten-fg]] / Rakuten insurance ecosystem 的 non-life insurance operating company。它是列入金融厅损害保险公司牌照一览和损害保险契约者保护机构会员一览的 licensed insurer，并可能与乐天卡、乐天银行、乐天生命、乐天积分 economic surface 相连接。
 
 ## 1. License / group boundary
 
@@ -26,11 +26,11 @@ translated_at: 2026-06-01T00:41:50.444Z
 | English name | Rakuten General Insurance Co., Ltd. |
 | License route | Insurance Business Act non-life insurance company; FSA non-life insurer list |
 | Protection scheme | Non-Life Insurance Policyholders Protection Corporation member |
-| Group boundary | [[rakuten-fg]] / Rakuten insurance ecosystem |
+| Group boundary | [[payment-firms/rakuten-fg]] / Rakuten insurance ecosystem |
 
 ## 2. Operating model
 
-乐天损保在战略上不同于传统的纯代理店型损害保险公司，因为它可以把保险销售与 Rakuten ID、积分、卡、银行、marketplace 和 app 流量连接起来。它应与 [[rakuten-life]]、[[rakuten-insurance-hd]] 的 coverage 对比，而不是隐藏在泛 Rakuten group 页面之下。
+乐天损保在战略上不同于传统的纯代理店型损害保险公司，因为它可以把保险销售与 Rakuten ID、积分、卡、银行、marketplace 和 app 流量连接起来。它应与 [[life-insurers/rakuten-life]]、[[non-life-insurers/rakuten-insurance-hd]] 的 coverage 对比，而不是隐藏在泛 Rakuten group 页面之下。
 
 ## 3. Why this page matters
 
@@ -40,11 +40,11 @@ translated_at: 2026-06-01T00:41:50.444Z
 
 ## Related
 
-- [[rakuten-fg]]
-- [[rakuten-insurance-hd]]
-- [[rakuten-life]]
-- [[rakuten-card]]
-- [[rakuten-edy]]
+- [[payment-firms/rakuten-fg]]
+- [[non-life-insurers/rakuten-insurance-hd]]
+- [[life-insurers/rakuten-life]]
+- [[card-issuers/rakuten-card]]
+- [[payment-firms/rakuten-edy]]
 - [[insurance/INDEX]]
 
 ## Sources

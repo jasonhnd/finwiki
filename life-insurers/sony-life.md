@@ -24,7 +24,7 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 
 ## TL;DR
 
-ソニー生命保険株式会社は、[[sony-fg]] の中核 life-insurance operating company。金融庁の生命保険会社免許一覧に載る license-bearing insurer であり、Sony Financial Group の銀行・損保・介護 / financial services surface の中で、life-planner 型の生命保険 business を担う。
+ソニー生命保険株式会社は、[[megabanks/sony-fg]] の中核 life-insurance operating company。金融庁の生命保険会社免許一覧に載る license-bearing insurer であり、Sony Financial Group の銀行・損保・介護 / financial services surface の中で、life-planner 型の生命保険 business を担う。
 
 ## 1. License / group boundary
 
@@ -33,27 +33,27 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 | Legal name | ソニー生命保険株式会社 |
 | License route | Insurance Business Act life-insurance company; FSA life insurer list |
 | Industry body | Life Insurance Association of Japan member |
-| Group boundary | [[sony-fg]] life-insurance operating company |
+| Group boundary | [[megabanks/sony-fg]] life-insurance operating company |
 | Wiki role | Sony FG's life-insurance underwriting arm |
 
 ## 2. Operating model
 
-ソニー生命は、consultative / planner-led life-insurance distribution を強く打ち出す life insurer。JapanFG では、[[sony-bank]] の internet-bank model、Sony group の金融再編、保険・銀行・損保の cross-sell surface を分けて追うために、[[sony-fg]] とは別ページにする。
+ソニー生命は、consultative / planner-led life-insurance distribution を強く打ち出す life insurer。JapanFG では、[[banking/sony-bank]] の internet-bank model、Sony group の金融再編、保険・銀行・損保の cross-sell surface を分けて追うために、[[megabanks/sony-fg]] とは別ページにする。
 
-競合比較では、traditional mutual insurers、[[dai-ichi-life]] の stock-company insurer model、[[lifenet]] の online-direct model、[[rakuten-life]] の ecosystem model と並べると位置づけが明確になる。
+競合比較では、traditional mutual insurers、[[life-insurers/dai-ichi-life]] の stock-company insurer model、[[life-insurers/lifenet]] の online-direct model、[[life-insurers/rakuten-life]] の ecosystem model と並べると位置づけが明確になる。
 
 ## 3. Why this page matters
 
-- [[sony-fg]] parent page alone does not expose the life-insurance operating license.
+- [[megabanks/sony-fg]] parent page alone does not expose the life-insurance operating license.
 - Sony FG's 2025 listing / group-reorganization watch needs operating-company anchors.
 - Useful for channel-mix comparison in [[insurance/life-insurance-channel-mix]].
 
 ## Related
 
-- [[sony-fg]]
-- [[sony-bank]]
-- [[lifenet]]
-- [[rakuten-life]]
+- [[megabanks/sony-fg]]
+- [[banking/sony-bank]]
+- [[life-insurers/lifenet]]
+- [[life-insurers/rakuten-life]]
 - [[insurance/life-insurance-channel-mix]]
 - [[insurance/INDEX]]
 

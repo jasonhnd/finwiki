@@ -17,7 +17,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-Hokkoku Bank, Ltd. is an Ishikawa-based regional bank listed in the FSA bank-license list and serves as the core operating bank of [[hokkoku-fhd]]. While [[hokkoku-fhd]] covers the holding-company and digital-platform strategy, this page focuses on the licensed bank entity and its regional-lending surface.
+Hokkoku Bank, Ltd. is an Ishikawa-based regional bank listed in the FSA bank-license list and serves as the core operating bank of [[regional-banks/hokkoku-fhd]]. While [[regional-banks/hokkoku-fhd]] covers the holding-company and digital-platform strategy, this page focuses on the licensed bank entity and its regional-lending surface.
 
 ## 1. License / group boundary
 
@@ -25,13 +25,13 @@ Hokkoku Bank, Ltd. is an Ishikawa-based regional bank listed in the FSA bank-lic
 |---|---|
 | Legal name | Hokkoku Bank, Ltd. |
 | License route | Banking Act regional bank; FSA bank license list |
-| Group boundary | [[hokkoku-fhd]] operating bank |
+| Group boundary | [[regional-banks/hokkoku-fhd]] operating bank |
 | Home market | Ishikawa / Hokuriku |
 | Wiki role | Hokkoku group's bank operating-company page |
 
 ## 2. Operating model
 
-Hokkoku Bank provides retail, SME, and municipal-finance services in Ishikawa Prefecture and the broader Hokuriku region while also serving as the implementation vehicle for [[hokkoku-fhd]]'s digital / BaaS platform strategy. Separating the holding company from the bank operating company prevents the IT platform strategy from being conflated with licensed banking operations. For Hokuriku regional-bank consolidation context, see [[banking/regional-bank-consolidation-pattern]].
+Hokkoku Bank provides retail, SME, and municipal-finance services in Ishikawa Prefecture and the broader Hokuriku region while also serving as the implementation vehicle for [[regional-banks/hokkoku-fhd]]'s digital / BaaS platform strategy. Separating the holding company from the bank operating company prevents the IT platform strategy from being conflated with licensed banking operations. For Hokuriku regional-bank consolidation context, see [[banking/regional-bank-consolidation-pattern]].
 
 ## 3. Why this page matters
 
@@ -41,10 +41,10 @@ Hokkoku Bank provides retail, SME, and municipal-finance services in Ishikawa Pr
 
 ## Related
 
-- [[hokkoku-fhd]]
-- [[hokuriku-bank]]
-- [[toyama-bank]]
-- [[toyama-first-bank]]
+- [[regional-banks/hokkoku-fhd]]
+- [[regional-banks/hokuriku-bank]]
+- [[regional-banks/toyama-bank]]
+- [[regional-banks/toyama-first-bank]]
 - [[banking/INDEX]]
 
 ## Sources

@@ -50,40 +50,38 @@
     "競合関係"
   ],
   "body_links": {
-    "wikilinks_count": 11,
+    "wikilinks_count": 10,
     "wikilinks": [
-      "axa-japan",
       "banking/INDEX",
       "life-insurers/axa-japan",
-      "lifenet",
-      "msad",
+      "life-insurers/lifenet",
+      "life-insurers/prudential-japan",
+      "megabanks/sbi-hd",
+      "megabanks/sony-fg",
       "non-life-insurers/INDEX",
-      "prudential-japan",
-      "sbi-hd",
-      "sompo",
-      "sony-fg",
-      "tokio-marine"
+      "non-life-insurers/msad",
+      "non-life-insurers/sompo",
+      "non-life-insurers/tokio-marine"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/axa-japan",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/life-insurers/axa-japan",
-      "https://finwiki.zksc.io/lifenet",
-      "https://finwiki.zksc.io/msad",
+      "https://finwiki.zksc.io/life-insurers/lifenet",
+      "https://finwiki.zksc.io/life-insurers/prudential-japan",
+      "https://finwiki.zksc.io/megabanks/sbi-hd",
+      "https://finwiki.zksc.io/megabanks/sony-fg",
       "https://finwiki.zksc.io/non-life-insurers/INDEX",
-      "https://finwiki.zksc.io/prudential-japan",
-      "https://finwiki.zksc.io/sbi-hd",
-      "https://finwiki.zksc.io/sompo",
-      "https://finwiki.zksc.io/sony-fg",
-      "https://finwiki.zksc.io/tokio-marine"
+      "https://finwiki.zksc.io/non-life-insurers/msad",
+      "https://finwiki.zksc.io/non-life-insurers/sompo",
+      "https://finwiki.zksc.io/non-life-insurers/tokio-marine"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4001,
-    "word_like_tokens": 574,
-    "inbound_wikilinks_count": 3,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 4327,
+    "word_like_tokens": 621,
+    "inbound_wikilinks_count": 5,
+    "last_modified": "2026-06-08"
   }
 }

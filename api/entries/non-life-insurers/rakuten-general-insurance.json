@@ -49,34 +49,32 @@
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 8,
+    "wikilinks_count": 7,
     "wikilinks": [
+      "card-issuers/rakuten-card",
       "insurance/INDEX",
       "life-insurers/rakuten-life",
       "non-life-insurers/INDEX",
-      "rakuten-card",
-      "rakuten-edy",
-      "rakuten-fg",
-      "rakuten-insurance-hd",
-      "rakuten-life"
+      "non-life-insurers/rakuten-insurance-hd",
+      "payment-firms/rakuten-edy",
+      "payment-firms/rakuten-fg"
     ],
     "resolved_wikilinks": [
+      "https://finwiki.zksc.io/card-issuers/rakuten-card",
       "https://finwiki.zksc.io/insurance/INDEX",
       "https://finwiki.zksc.io/life-insurers/rakuten-life",
       "https://finwiki.zksc.io/non-life-insurers/INDEX",
-      "https://finwiki.zksc.io/rakuten-card",
-      "https://finwiki.zksc.io/rakuten-edy",
-      "https://finwiki.zksc.io/rakuten-fg",
-      "https://finwiki.zksc.io/rakuten-insurance-hd",
-      "https://finwiki.zksc.io/rakuten-life"
+      "https://finwiki.zksc.io/non-life-insurers/rakuten-insurance-hd",
+      "https://finwiki.zksc.io/payment-firms/rakuten-edy",
+      "https://finwiki.zksc.io/payment-firms/rakuten-fg"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2067,
-    "word_like_tokens": 318,
-    "inbound_wikilinks_count": 5,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 2200,
+    "word_like_tokens": 338,
+    "inbound_wikilinks_count": 7,
+    "last_modified": "2026-06-08"
   }
 }

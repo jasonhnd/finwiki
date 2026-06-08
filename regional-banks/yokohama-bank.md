@@ -23,7 +23,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-株式会社横浜銀行は、金融庁の銀行免許一覧に掲載される神奈川県本店の地方銀行で、[[concordia-fg]]（現 横浜フィナンシャルグループ）の core operating bank。神奈川県の retail / SME / public-sector finance では最大級の bank-license anchor として扱う。
+株式会社横浜銀行は、金融庁の銀行免許一覧に掲載される神奈川県本店の地方銀行で、[[regional-banks/concordia-fg]]（現 横浜フィナンシャルグループ）の core operating bank。神奈川県の retail / SME / public-sector finance では最大級の bank-license anchor として扱う。
 
 ## 1. License / group boundary
 
@@ -31,25 +31,25 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 |---|---|
 | Legal name | 株式会社横浜銀行 |
 | License route | Banking Act regional bank; FSA bank license list |
-| Group boundary | [[concordia-fg]] / Yokohama Financial Group operating bank |
+| Group boundary | [[regional-banks/concordia-fg]] / Yokohama Financial Group operating bank |
 | Home market | Kanagawa / Yokohama |
 | Wiki role | Kanagawa regional-bank operating-company page |
 
 ## 2. Operating model
 
-横浜銀行は、神奈川県を中心に retail deposits, mortgage, SME / mid-market finance, local government finance, and regional wealth services を担う regional bank。[[concordia-fg]] page covers the holding-company strategy and [[higashi-nippon-bank]] integration; this page keeps the Yokohama Bank license and local franchise separate.
+横浜銀行は、神奈川県を中心に retail deposits, mortgage, SME / mid-market finance, local government finance, and regional wealth services を担う regional bank。[[regional-banks/concordia-fg]] page covers the holding-company strategy and [[regional-banks/higashi-nippon-bank]] integration; this page keeps the Yokohama Bank license and local franchise separate.
 
 ## 3. Why this page matters
 
-- Parent [[concordia-fg]] coverage alone did not expose the licensed bank boundary.
-- Key comparison point for [[kanagawa-bank]] and other Kanagawa regional-finance pages.
+- Parent [[regional-banks/concordia-fg]] coverage alone did not expose the licensed bank boundary.
+- Key comparison point for [[regional-banks/kanagawa-bank]] and other Kanagawa regional-finance pages.
 - Needed for bank operating-company completeness in the Kanto slice.
 
 ## Related
 
-- [[concordia-fg]]
-- [[higashi-nippon-bank]]
-- [[kanagawa-bank]]
+- [[regional-banks/concordia-fg]]
+- [[regional-banks/higashi-nippon-bank]]
+- [[regional-banks/kanagawa-bank]]
 - [[banking/INDEX]]
 
 ## Sources

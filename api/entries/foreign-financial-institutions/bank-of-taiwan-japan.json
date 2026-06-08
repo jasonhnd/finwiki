@@ -48,34 +48,32 @@
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 8,
+    "wikilinks_count": 7,
     "wikilinks": [
       "banking/INDEX",
       "banking/foreign-bank-japan-retreat",
-      "chugoku-bank",
-      "ctbc-bank-japan",
-      "esun-bank-japan",
       "foreign-financial-institutions/INDEX",
+      "foreign-financial-institutions/ctbc-bank-japan",
+      "foreign-financial-institutions/esun-bank-japan",
       "foreign-financial-institutions/mega-icbc-japan",
-      "mega-icbc-japan"
+      "regional-banks/chugoku-bank"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/foreign-bank-japan-retreat",
-      "https://finwiki.zksc.io/chugoku-bank",
-      "https://finwiki.zksc.io/ctbc-bank-japan",
-      "https://finwiki.zksc.io/esun-bank-japan",
       "https://finwiki.zksc.io/foreign-financial-institutions/INDEX",
+      "https://finwiki.zksc.io/foreign-financial-institutions/ctbc-bank-japan",
+      "https://finwiki.zksc.io/foreign-financial-institutions/esun-bank-japan",
       "https://finwiki.zksc.io/foreign-financial-institutions/mega-icbc-japan",
-      "https://finwiki.zksc.io/mega-icbc-japan"
+      "https://finwiki.zksc.io/regional-banks/chugoku-bank"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1943,
-    "word_like_tokens": 320,
-    "inbound_wikilinks_count": 8,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 2144,
+    "word_like_tokens": 340,
+    "inbound_wikilinks_count": 11,
+    "last_modified": "2026-06-08"
   }
 }

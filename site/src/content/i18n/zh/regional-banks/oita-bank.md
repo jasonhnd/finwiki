@@ -30,22 +30,22 @@ translated_at: 2026-06-01T00:41:50.462Z
 
 ## 2. 运营模式
 
-大分银行是以大分县为中心，承担 retail deposits, SME finance, tourism / manufacturing support, and local relationship banking 的 regional bank。作为九州的 standalone regional-bank peer，可与 [[saga-bank]]、[[miyazaki-bank]] 和 [[fukuoka-bank]] 比较。
+大分银行是以大分县为中心，承担 retail deposits, SME finance, tourism / manufacturing support, and local relationship banking 的 regional bank。作为九州的 standalone regional-bank peer，可与 [[regional-banks/saga-bank]]、[[regional-banks/miyazaki-bank]] 和 [[regional-banks/fukuoka-bank]] 比较。
 
 ## 3. 为什么本页重要
 
 - 补齐金融厅精确名称运营公司层面的“大分银行”空白。
 - 为九州地方银行比较提供大分县锚点。
-- 为 [[howa-bank|豊和銀行]] 等第二地方银行覆盖增加同业页面。
+- 为 [[regional-banks/howa-bank|豊和銀行]] 等第二地方银行覆盖增加同业页面。
 
 ## Related
 
-- [[saga-bank]]
-- [[miyazaki-bank]]
-- [[fukuoka-bank]]
-- [[higo-bank]]
+- [[regional-banks/saga-bank]]
+- [[regional-banks/miyazaki-bank]]
+- [[regional-banks/fukuoka-bank]]
+- [[regional-banks/higo-bank]]
 - [[banking/regional-bank-consolidation-pattern]]
-- [[howa-bank]]
+- [[regional-banks/howa-bank]]
 - [[banking/INDEX]]
 
 ## Sources

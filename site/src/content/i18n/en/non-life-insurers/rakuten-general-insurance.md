@@ -16,7 +16,7 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 
 ## TL;DR
 
-Rakuten General Insurance Co., Ltd. is the non-life insurance operating company in [[rakuten-fg]] / the Rakuten insurance ecosystem. It is a licensed insurer listed in the FSA non-life insurance company license list and in the Non-Life Insurance Policyholders Protection Corporation member list, and can connect with the Rakuten Card, Rakuten Bank, Rakuten Life, and Rakuten Points economic surface.
+Rakuten General Insurance Co., Ltd. is the non-life insurance operating company in [[payment-firms/rakuten-fg]] / the Rakuten insurance ecosystem. It is a licensed insurer listed in the FSA non-life insurance company license list and in the Non-Life Insurance Policyholders Protection Corporation member list, and can connect with the Rakuten Card, Rakuten Bank, Rakuten Life, and Rakuten Points economic surface.
 
 ## 1. License / group boundary
 
@@ -26,11 +26,11 @@ Rakuten General Insurance Co., Ltd. is the non-life insurance operating company 
 | English name | Rakuten General Insurance Co., Ltd. |
 | License route | Insurance Business Act non-life insurance company; FSA non-life insurer list |
 | Protection scheme | Non-Life Insurance Policyholders Protection Corporation member |
-| Group boundary | [[rakuten-fg]] / Rakuten insurance ecosystem |
+| Group boundary | [[payment-firms/rakuten-fg]] / Rakuten insurance ecosystem |
 
 ## 2. Operating model
 
-Rakuten General Insurance is strategically different from traditional agency-only non-life insurers because it can connect insurance distribution with Rakuten ID, points, card, bank, marketplace, and app traffic. It should be compared with [[rakuten-life]] and [[rakuten-insurance-hd]] coverage rather than hidden under a generic Rakuten group page.
+Rakuten General Insurance is strategically different from traditional agency-only non-life insurers because it can connect insurance distribution with Rakuten ID, points, card, bank, marketplace, and app traffic. It should be compared with [[life-insurers/rakuten-life]] and [[non-life-insurers/rakuten-insurance-hd]] coverage rather than hidden under a generic Rakuten group page.
 
 ## 3. Why this page matters
 
@@ -40,11 +40,11 @@ Rakuten General Insurance is strategically different from traditional agency-onl
 
 ## Related
 
-- [[rakuten-fg]]
-- [[rakuten-insurance-hd]]
-- [[rakuten-life]]
-- [[rakuten-card]]
-- [[rakuten-edy]]
+- [[payment-firms/rakuten-fg]]
+- [[non-life-insurers/rakuten-insurance-hd]]
+- [[life-insurers/rakuten-life]]
+- [[card-issuers/rakuten-card]]
+- [[payment-firms/rakuten-edy]]
 - [[insurance/INDEX]]
 
 ## Sources

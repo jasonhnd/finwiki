@@ -58,7 +58,7 @@
     "wikilinks_count": 16,
     "wikilinks": [
       "INDEX",
-      "JapanFG/rakuten-bank",
+      "banking/rakuten-bank",
       "business/INDEX",
       "business/gmo-internet-group",
       "business/kitao-yoshitaka-sbi-independent-strategy-case",
@@ -76,7 +76,7 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/rakuten-bank",
+      "https://finwiki.zksc.io/banking/rakuten-bank",
       "https://finwiki.zksc.io/business/INDEX",
       "https://finwiki.zksc.io/business/gmo-internet-group",
       "https://finwiki.zksc.io/business/kitao-yoshitaka-sbi-independent-strategy-case",
@@ -99,6 +99,6 @@
     "nonspace_chars": 10495,
     "word_like_tokens": 1636,
     "inbound_wikilinks_count": 11,
-    "last_modified": "2026-06-06"
+    "last_modified": "2026-06-08"
   }
 }

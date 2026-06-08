@@ -22,7 +22,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-三重県地盤の地銀 FG。**2018-04-02 三重銀行 + 第三銀行 経営統合**で発足、**2021-05-01 両行合併 → 三十三銀行**誕生。社名「三十三」は「**三 (mie / 三重) + 三 (third / 第三)**」両行の「三」を取ったダブルミーニング (英名: San ju San = 33)。中京経済圏の関西寄り境界に位置し、県内 No.1 [[hyakugo-bank]] (百五銀行) と競合。^[extracted]
+三重県地盤の地銀 FG。**2018-04-02 三重銀行 + 第三銀行 経営統合**で発足、**2021-05-01 両行合併 → 三十三銀行**誕生。社名「三十三」は「**三 (mie / 三重) + 三 (third / 第三)**」両行の「三」を取ったダブルミーニング (英名: San ju San = 33)。中京経済圏の関西寄り境界に位置し、県内 No.1 [[regional-banks/hyakugo-bank]] (百五銀行) と競合。^[extracted]
 
 ## 1. 会社概要
 
@@ -102,15 +102,15 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 - 百五銀行との県内シェア差は縮小傾向か?
 - 名古屋圏 (愛知県) への融資拡大スピードは?
-- 中京圏 ([[juroku-fg]] / 大垣共立 等) との競合・連携の方向性?
+- 中京圏 ([[regional-banks/juroku-fg]] / 大垣共立 等) との競合・連携の方向性?
 - 次期中計 (2024 以降) でのデジタル戦略は?
 - 関西圏地銀との広域連携の可能性は?
 
 ### Related
 
-- [[hyakugo-bank]] (百五銀行、三重県内 No.1 競合)
-- [[juroku-fg]] (十六 FG、中京圏隣接競合)
-- [[mufg]] (中京地盤 旧東海銀行系統メガバンク)
+- [[regional-banks/hyakugo-bank]] (百五銀行、三重県内 No.1 競合)
+- [[regional-banks/juroku-fg]] (十六 FG、中京圏隣接競合)
+- [[megabanks/mufg]] (中京地盤 旧東海銀行系統メガバンク)
 
 ### Sources
 

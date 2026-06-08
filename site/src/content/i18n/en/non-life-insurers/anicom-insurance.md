@@ -41,8 +41,8 @@ Pet insurance is structurally different from auto / fire insurance: veterinary c
 ## Related
 
 - [[insurance/INDEX]]
-- [[sony-insurance]]
-- [[sompo-direct]]
+- [[non-life-insurers/sony-insurance]]
+- [[non-life-insurers/sompo-direct]]
 - [[financial-regulators/missing-financial-institutions-backlog]]
 
 ## Sources

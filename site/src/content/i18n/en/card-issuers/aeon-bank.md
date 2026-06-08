@@ -126,10 +126,10 @@ Aeon Co., Ltd. (8267; major Japanese retailer)
 
 ## 8. Related
 
-- [[seven-bank]] · [[lawson-bank]] -- retailer-affiliated bank peers
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] -- megabank comparison
-- [[sony-fg]] · [[rakuten-fg]] · [[paypay-fg]] -- retail digital bank and FG comparison
-- [[jcb]] -- domestic credit-card comparison
+- [[regional-banks/seven-bank]] · [[regional-banks/lawson-bank]] -- retailer-affiliated bank peers
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] -- megabank comparison
+- [[megabanks/sony-fg]] · [[payment-firms/rakuten-fg]] · [[megabanks/paypay-fg]] -- retail digital bank and FG comparison
+- [[card-issuers/jcb]] -- domestic credit-card comparison
 
 ## Sources
 

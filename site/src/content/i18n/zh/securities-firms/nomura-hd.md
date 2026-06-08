@@ -15,7 +15,7 @@ translated_at: 2026-06-01T00:41:50.461Z
 
 ## TL;DR
 
-日本最大的独立系证券集团（按纯营业收益）。其源自 1925-12-25 从大阪野村银行证券部独立出来的“野村证券”，并于 2001-10-01 通过控股公司化成立。**国内零售（营业网点约 130）+ 批发（IB / Markets）+ 投资管理（野村 AM，国内 No.2  级）+ Instinet（美国电子交易）为 4  轴**。2008-10  以约 2 億 美元收购雷曼兄弟亚洲 / 欧洲 / 中东部门，加速全球化，同时维持不同于大型银行系证券（[[mufg]] MUMSS、[[smfg]] SMBC 日兴、[[mizuho-fg]] 瑞穗证券）的“独立系”定位。^[extracted]
+日本最大的独立系证券集团（按纯营业收益）。其源自 1925-12-25 从大阪野村银行证券部独立出来的“野村证券”，并于 2001-10-01 通过控股公司化成立。**国内零售（营业网点约 130）+ 批发（IB / Markets）+ 投资管理（野村 AM，国内 No.2  级）+ Instinet（美国电子交易）为 4  轴**。2008-10  以约 2 億 美元收购雷曼兄弟亚洲 / 欧洲 / 中东部门，加速全球化，同时维持不同于大型银行系证券（[[megabanks/mufg]] MUMSS、[[megabanks/smfg]] SMBC 日兴、[[megabanks/mizuho-fg]] 瑞穗证券）的“独立系”定位。^[extracted]
 
 ## 1. 公司概要
 
@@ -182,8 +182,8 @@ translated_at: 2026-06-01T00:41:50.461Z
 
 ## Related
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[sbi-hd]] · [[megabanks/resona-hd|rsh]]
-- [[ndfg]] · [[securities-firms/daiwa-sg|daiwa-securities]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[megabanks/sbi-hd]] · [[megabanks/resona-hd|rsh]]
+- [[megabanks/ndfg]] · [[securities-firms/daiwa-sg|daiwa-securities]]
 - [[securities/nisa-2024-flow]]
 
 ## Sources

@@ -121,7 +121,7 @@ The economic implication for the loyalty ecosystem is that **UQ Mobile + povo su
 | Strategic role | Core deposit / savings anchor for the au-economic-zone, integrated with au PAY, au PAY Card, Ponta points |
 | Lending products | Personal loan, housing loan, NISA / investment-trust distribution |
 
-au Jibun Bank ranks among Japan's largest digital banks by deposit balance and account count alongside **[[JapanFG/rakuten-bank|Rakuten Bank]]**, **PayPay Bank**, **SBI Sumishin Net Bank**, and **Sony Bank** — the "internet bank" peer set. The integration with au PAY, au PAY Card, and Ponta points accrual makes it a structural component of the loyalty ecosystem rather than a standalone digital-bank product.
+au Jibun Bank ranks among Japan's largest digital banks by deposit balance and account count alongside **[[banking/rakuten-bank|Rakuten Bank]]**, **PayPay Bank**, **SBI Sumishin Net Bank**, and **Sony Bank** — the "internet bank" peer set. The integration with au PAY, au PAY Card, and Ponta points accrual makes it a structural component of the loyalty ecosystem rather than a standalone digital-bank product.
 
 The 2026-05-12 KDDI announcement of **au Financial Holdings' Tokyo Stock Exchange listing preparation** brings au Jibun Bank (within the au FH consolidation) into the IPO perimeter — the first such IPO candidate among Japanese telco-anchored financial-holding companies. See [[megabanks/au-fh|au Financial Holdings]] for the structural detail.
 

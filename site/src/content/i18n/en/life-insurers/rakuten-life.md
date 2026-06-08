@@ -16,7 +16,7 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 
 ## TL;DR
 
-Rakuten Life Insurance Co., Ltd. is the life-insurance operating company of [[rakuten-fg]] / the Rakuten ecosystem. It is a separate underwriter listed in the FSA life-insurer list and should be viewed as an insurance node that can connect with Rakuten's card, bank, securities, payments, and points ecosystem.
+Rakuten Life Insurance Co., Ltd. is the life-insurance operating company of [[payment-firms/rakuten-fg]] / the Rakuten ecosystem. It is a separate underwriter listed in the FSA life-insurer list and should be viewed as an insurance node that can connect with Rakuten's card, bank, securities, payments, and points ecosystem.
 
 ## 1. License / group boundary
 
@@ -25,29 +25,29 @@ Rakuten Life Insurance Co., Ltd. is the life-insurance operating company of [[ra
 | Legal name | Rakuten Life Insurance Co., Ltd. |
 | License route | Insurance Business Act life-insurance company; FSA life insurer list |
 | Industry body | Life Insurance Association of Japan member |
-| Group boundary | [[rakuten-fg]] / Rakuten insurance ecosystem |
+| Group boundary | [[payment-firms/rakuten-fg]] / Rakuten insurance ecosystem |
 | Wiki role | Rakuten ecosystem life-insurance underwriting arm |
 
 ## 2. Operating model
 
-Rakuten Life is a life insurer that can connect with Rakuten ID, points, card, bank, securities, payments, and marketplace traffic. In FinWiki it sits in the same ecosystem-finance cluster as [[rakuten-card]], [[rakuten-edy]], [[rakuten-securities]], and [[rakuten-fg]].
+Rakuten Life is a life insurer that can connect with Rakuten ID, points, card, bank, securities, payments, and marketplace traffic. In FinWiki it sits in the same ecosystem-finance cluster as [[card-issuers/rakuten-card]], [[payment-firms/rakuten-edy]], [[securities-firms/rakuten-securities]], and [[payment-firms/rakuten-fg]].
 
 Analysis of ecosystem insurers needs to look not only at standalone insurance product revenue, but also customer acquisition cost, points economics, app / marketplace traffic, cross-sell rules, and sales-conduct obligations.
 
 ## 3. Why this page matters
 
-- Parent [[rakuten-fg]] page did not expose the separate life-insurance underwriting entity.
-- Important comparison point against [[sbi-life]], [[lifenet]], and [[sony-life]].
+- Parent [[payment-firms/rakuten-fg]] page did not expose the separate life-insurance underwriting entity.
+- Important comparison point against [[life-insurers/sbi-life]], [[life-insurers/lifenet]], and [[life-insurers/sony-life]].
 - Supports consumer ecosystem finance mapping.
 
 ## Related
 
-- [[rakuten-fg]]
-- [[rakuten-card]]
-- [[rakuten-edy]]
-- [[rakuten-securities]]
-- [[sbi-life]]
-- [[lifenet]]
+- [[payment-firms/rakuten-fg]]
+- [[card-issuers/rakuten-card]]
+- [[payment-firms/rakuten-edy]]
+- [[securities-firms/rakuten-securities]]
+- [[life-insurers/sbi-life]]
+- [[life-insurers/lifenet]]
 - [[insurance/internet-life-insurance-business-model]]
 
 ## Sources

@@ -15,7 +15,7 @@ This entry sits under [[card-issuers/INDEX|card-issuers INDEX]]. Read it against
 
 ## TL;DR
 
-Jaccs is a major credit sales and consumer finance company that originated in Hokkaido. **It was established in Hakodate as Hokkaido Shinyo Hanbai Co., Ltd. in 1954-07 ** and renamed "Jaccs" in 1968 . Its business model is centered on credit sales, individual installment credit, card loans, collection agency services, rent guarantees, and auto loans. It is positioned as an **equity-method affiliate of the [[mufg]] Group** (Mitsubishi UFJ Bank is a major shareholder), and serves as a "**third credit sales axis**" alongside MUFG's credit card and consumer finance axis (Mitsubishi UFJ NICOS and Acom inside [[mufg]]). It is listed on TSE PRIME 8584 . Competitors include [[orico]] and [[credit-saison]]. Overseas, it operates finance businesses in Vietnam, Cambodia, and Indonesia.
+Jaccs is a major credit sales and consumer finance company that originated in Hokkaido. **It was established in Hakodate as Hokkaido Shinyo Hanbai Co., Ltd. in 1954-07 ** and renamed "Jaccs" in 1968 . Its business model is centered on credit sales, individual installment credit, card loans, collection agency services, rent guarantees, and auto loans. It is positioned as an **equity-method affiliate of the [[megabanks/mufg]] Group** (Mitsubishi UFJ Bank is a major shareholder), and serves as a "**third credit sales axis**" alongside MUFG's credit card and consumer finance axis (Mitsubishi UFJ NICOS and Acom inside [[megabanks/mufg]]). It is listed on TSE PRIME 8584 . Competitors include [[card-issuers/orico]] and [[card-issuers/credit-saison]]. Overseas, it operates finance businesses in Vietnam, Cambodia, and Indonesia.
 
 ## 1. Company Overview
 
@@ -25,12 +25,12 @@ Jaccs is a major credit sales and consumer finance company that originated in Ho
 **Renamed**: Changed name to "Jaccs" in 1968 年
 **Listing**: Listed on the First Section of the Tokyo Stock Exchange in 1971 
 **Head office**: Minato-ku, Tokyo (registered); major bases in Hakodate and Sapporo
-**Parent company**: **[[mufg]] (equity-method affiliate; Mitsubishi UFJ Bank is a major shareholder)**
+**Parent company**: **[[megabanks/mufg]] (equity-method affiliate; Mitsubishi UFJ Bank is a major shareholder)**
 
 ### Business Category
 
-In the credit sales and credit industry, Jaccs is in the group after **Orico ([[orico]]), around 2 to 3 位**.
-- Major 3 : [[orico]] / **Jaccs** / [[credit-saison]]
+In the credit sales and credit industry, Jaccs is in the group after **Orico ([[card-issuers/orico]]), around 2 to 3 位**.
+- Major 3 : [[card-issuers/orico]] / **Jaccs** / [[card-issuers/credit-saison]]
 - Industry axis: individual installment credit + credit cards + collection agency services + guarantees
 
 ### History of Capital Affiliation
@@ -41,9 +41,9 @@ In the credit sales and credit industry, Jaccs is in the group after **Orico ([[
 Jaccs
    ↓ 1971  listed on the TSE First Section
    ↓ 1990s financial distress → support from Sanwa Bank
-   ↓ 2005-10  MUFG established ([[mufg]] parent company)
-   ↓ 2007-04  entered the Mitsubishi UFJ Bank group ([[mufg]] equity-method treatment)
-Current: [[mufg]] Group, TSE PRIME 8584
+   ↓ 2005-10  MUFG established ([[megabanks/mufg]] parent company)
+   ↓ 2007-04  entered the Mitsubishi UFJ Bank group ([[megabanks/mufg]] equity-method treatment)
+Current: [[megabanks/mufg]] Group, TSE PRIME 8584
 
 ```
 
@@ -61,7 +61,7 @@ Current: [[mufg]] Group, TSE PRIME 8584
 
 ### Strength in the Auto Loan Axis
 
-Jaccs has a **merchant network of auto dealers, including used-car dealers**, and ranks among the upper tier of the credit sales industry in point-of-sale "loan proposal" flows. Education loans and home renovation loans use the same merchant-mediated model. This is the main battlefield where it directly competes with [[orico]].
+Jaccs has a **merchant network of auto dealers, including used-car dealers**, and ranks among the upper tier of the credit sales industry in point-of-sale "loan proposal" flows. Education loans and home renovation loans use the same merchant-mediated model. This is the main battlefield where it directly competes with [[card-issuers/orico]].
 
 ### Overseas Strategy (ASEAN)
 
@@ -69,7 +69,7 @@ Jaccs has a **merchant network of auto dealers, including used-car dealers**, an
 - **Cambodia**: Individual installment credit through a local subsidiary
 - **Indonesia**: Motorcycle and durable consumer goods loans
 
-ASEAN is aligned with MUFG's overall overseas strategy (Krungsri / Bank Danamon / VietinBank; see [[mufg]]). Jaccs covers the **consumer finance layer** that complements the parent company's banking network.
+ASEAN is aligned with MUFG's overall overseas strategy (Krungsri / Bank Danamon / VietinBank; see [[megabanks/mufg]]). Jaccs covers the **consumer finance layer** that complements the parent company's banking network.
 
 ## 3. History
 
@@ -79,9 +79,9 @@ ASEAN is aligned with MUFG's overall overseas strategy (Krungsri / Bank Danamon 
 | 1968 | Company name changed to "Jaccs" |
 | **1971** | **Listed on the First Section of the Tokyo Stock Exchange** |
 | 1980s | Nationwide expansion and relocation of head-office functions to Tokyo |
-| **1990s** | **Financial distress** → support from Sanwa Bank (later UFJ → [[mufg]]) |
+| **1990s** | **Financial distress** → support from Sanwa Bank (later UFJ → [[megabanks/mufg]]) |
 | 2001 | UFJ Holdings established; Jaccs entered the UFJ group |
-| **2005-10-01** | **[[mufg]] established**; Jaccs moved toward becoming an MUFG affiliate |
+| **2005-10-01** | **[[megabanks/mufg]] established**; Jaccs moved toward becoming an MUFG affiliate |
 | **2007-04** | **Entered the Mitsubishi UFJ Bank group** (equity-method affiliate) |
 | 2014〜 | **Overseas expansion accelerated** (ASEAN: Vietnam, Cambodia, Indonesia) |
 | 2022-04 | TSE market-segment revision → **TSE PRIME 8584** |
@@ -89,22 +89,22 @@ ASEAN is aligned with MUFG's overall overseas strategy (Krungsri / Bank Danamon 
 
 ### Positioning Within the Group
 
-Inside the [[mufg]] Group, the consumer finance, credit-card, and credit sales 3  axis:
+Inside the [[megabanks/mufg]] Group, the consumer finance, credit-card, and credit sales 3  axis:
 
-| Function | Company in charge | Positioning from [[mufg]] |
+| Function | Company in charge | Positioning from [[megabanks/mufg]] |
 |---|---|---|
 | Megabank and cards | Mitsubishi UFJ NICOS | 100% consolidated subsidiary; one of the three major credit-card companies |
 | Consumer finance (unsecured) | Acom | Equity-method 39.6%; TSE STD 8572 |
 | **Credit sales and individual installment credit** | **Jaccs** | **Equity-method affiliate; TSE PRIME 8584** |
 
-In other words, Jaccs is positioned to cover "**sales finance, meaning installment credit through merchants, that [[mufg]] cannot easily cover through direct bank lending**."
+In other words, Jaccs is positioned to cover "**sales finance, meaning installment credit through merchants, that [[megabanks/mufg]] cannot easily cover through direct bank lending**."
 
 ### Competitive Structure
 
 | Competitor | Strengths | Difference from Jaccs |
 |---|---|---|
-| [[orico]] | Industry leader; Itochu + Mizuho group | Ahead in scale; Jaccs counters in Hokkaido, auto, and education |
-| [[credit-saison]] | Card x recurring-revenue model; retail group | More card-heavy; Jaccs is thicker in installment credit |
+| [[card-issuers/orico]] | Industry leader; Itochu + Mizuho group | Ahead in scale; Jaccs counters in Hokkaido, auto, and education |
+| [[card-issuers/credit-saison]] | Card x recurring-revenue model; retail group | More card-heavy; Jaccs is thicker in installment credit |
 | Aeon Financial | Retail group, WAON | Relies on a retail base; Jaccs has more diverse merchants |
 | Rakuten Card | Digital and EC | Ahead on the digital axis; Jaccs competes through offline merchants |
 
@@ -114,7 +114,7 @@ In other words, Jaccs is positioned to cover "**sales finance, meaning installme
 - **Expanding the merchant network**: dealers, educational institutions, and home-renovation companies
 - **Expanding digital application flows**: from paper-based credit screening to web-complete processes
 - **ASEAN consumer finance**: motorcycle and durable-goods loans through local subsidiaries
-- **Complementary function as part of the MUFG group**: role-sharing with [[mufg]] Bank, NICOS, and Acom
+- **Complementary function as part of the MUFG group**: role-sharing with [[megabanks/mufg]] Bank, NICOS, and Acom
 
 ## 5. Regulation and Policy
 
@@ -132,16 +132,16 @@ In other words, Jaccs is positioned to cover "**sales finance, meaning installme
 
 ## Related
 
-- [[mufg]] — Parent company and the body of the equity-method affiliate relationship
-- [[orico]] — Industry's largest competitor (Mizuho + Itochu group)
-- [[credit-saison]] — Card x recurring-revenue competitor
-- [[smfg]] — Comparison axis for the overall industry
+- [[megabanks/mufg]] — Parent company and the body of the equity-method affiliate relationship
+- [[card-issuers/orico]] — Industry's largest competitor (Mizuho + Itochu group)
+- [[card-issuers/credit-saison]] — Card x recurring-revenue competitor
+- [[megabanks/smfg]] — Comparison axis for the overall industry
 
 ## Sources
 
 - **Wikipedia: 株式会社ジャックス** (https://ja.wikipedia.org/wiki/ジャックス, see 2026-05-19, public information only)
 - **Jaccs official IR** (TSE PRIME 8584  disclosure materials, public portion)
-- **[[mufg]] securities report for the 20  fiscal period (2025-03  period)** (list of equity-method affiliates)
+- **[[megabanks/mufg]] securities report for the 20  fiscal period (2025-03  period)** (list of equity-method affiliates)
 
 ---
 

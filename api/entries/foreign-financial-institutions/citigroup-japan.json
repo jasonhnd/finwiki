@@ -61,33 +61,33 @@
       "banking/INDEX",
       "foreign-financial-institutions/INDEX",
       "foreign-financial-institutions/hsbc-japan",
-      "goldman-sachs-japan",
-      "mizuho-fg",
-      "morgan-stanley-japan",
-      "mufg",
-      "smbc-nikko",
-      "smfg",
-      "sumitomo-mitsui-trust"
+      "megabanks/mizuho-fg",
+      "megabanks/mufg",
+      "megabanks/smfg",
+      "securities-firms/goldman-sachs-japan",
+      "securities-firms/morgan-stanley-japan",
+      "securities-firms/smbc-nikko",
+      "trust-banks/sumitomo-mitsui-trust"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/foreign-financial-institutions/INDEX",
       "https://finwiki.zksc.io/foreign-financial-institutions/hsbc-japan",
-      "https://finwiki.zksc.io/goldman-sachs-japan",
-      "https://finwiki.zksc.io/mizuho-fg",
-      "https://finwiki.zksc.io/morgan-stanley-japan",
-      "https://finwiki.zksc.io/mufg",
-      "https://finwiki.zksc.io/smbc-nikko",
-      "https://finwiki.zksc.io/smfg",
-      "https://finwiki.zksc.io/sumitomo-mitsui-trust"
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/smfg",
+      "https://finwiki.zksc.io/securities-firms/goldman-sachs-japan",
+      "https://finwiki.zksc.io/securities-firms/morgan-stanley-japan",
+      "https://finwiki.zksc.io/securities-firms/smbc-nikko",
+      "https://finwiki.zksc.io/trust-banks/sumitomo-mitsui-trust"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4081,
-    "word_like_tokens": 643,
-    "inbound_wikilinks_count": 30,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 4265,
+    "word_like_tokens": 664,
+    "inbound_wikilinks_count": 34,
+    "last_modified": "2026-06-08"
   }
 }

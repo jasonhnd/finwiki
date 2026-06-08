@@ -54,40 +54,40 @@
   "body_links": {
     "wikilinks_count": 12,
     "wikilinks": [
-      "central-banking-function-unbundling",
       "fintech/INDEX",
       "fintech/apollo-acred-private-credit-tokenization",
       "fintech/blackrock-buidl-tokenized-mmf-overview",
+      "fintech/central-banking-function-unbundling",
       "fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse",
       "fintech/japan-financial-regulation",
       "fintech/japan-stablecoin-regulatory-landscape",
       "fintech/paypal-pyusd-stablecoin",
+      "fintech/portfolio-winner-structure-arm-analog",
       "fintech/tether-business-model-short-treasury-yield",
-      "payment-firms/jpyc",
-      "portfolio-winner-structure-arm-analog",
-      "wall-street-crypto-network-neutrality"
+      "fintech/wall-street-crypto-network-neutrality",
+      "payment-firms/jpyc"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/central-banking-function-unbundling",
       "https://finwiki.zksc.io/fintech/INDEX",
       "https://finwiki.zksc.io/fintech/apollo-acred-private-credit-tokenization",
       "https://finwiki.zksc.io/fintech/blackrock-buidl-tokenized-mmf-overview",
+      "https://finwiki.zksc.io/fintech/central-banking-function-unbundling",
       "https://finwiki.zksc.io/fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse",
       "https://finwiki.zksc.io/fintech/japan-financial-regulation",
       "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
       "https://finwiki.zksc.io/fintech/paypal-pyusd-stablecoin",
+      "https://finwiki.zksc.io/fintech/portfolio-winner-structure-arm-analog",
       "https://finwiki.zksc.io/fintech/tether-business-model-short-treasury-yield",
-      "https://finwiki.zksc.io/payment-firms/jpyc",
-      "https://finwiki.zksc.io/portfolio-winner-structure-arm-analog",
-      "https://finwiki.zksc.io/wall-street-crypto-network-neutrality"
+      "https://finwiki.zksc.io/fintech/wall-street-crypto-network-neutrality",
+      "https://finwiki.zksc.io/payment-firms/jpyc"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3857,
-    "word_like_tokens": 648,
+    "nonspace_chars": 3889,
+    "word_like_tokens": 652,
     "inbound_wikilinks_count": 2,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-08"
   }
 }

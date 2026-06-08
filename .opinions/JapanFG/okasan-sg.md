@@ -17,7 +17,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 ## 推論 (from 主要競合)
 
 - **東海東京 FH**（同じ中京系中堅独立・東海地区競合）^[inferred]
-- メガ系（[[ndfg]] 野村 HD / MUMSS / SMBC 日興 / みずほ証券 / 大和証券 G）— 規模で劣後、独立性・地域密着で差別化 ^[inferred]
+- メガ系（[[megabanks/ndfg]] 野村 HD / MUMSS / SMBC 日興 / みずほ証券 / 大和証券 G）— 規模で劣後、独立性・地域密着で差別化 ^[inferred]
 
 ## Counterpoints
 

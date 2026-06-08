@@ -89,9 +89,9 @@ Funding for local governments and local public enterprises
   ├── Japan Finance Organization for Municipalities (JFM) -- long-term, low-rate, policy finance
   ├── Fiscal loan funds (Ministry of Finance) -- direct national-government lending, long-term and low-rate
   ├── Private financial institutions
-  │     ├── [[mufg]] -- major metropolitan local governments and large local public enterprises
-  │     ├── [[smfg]] -- major metropolitan local governments and Kansai-region local governments
-  │     ├── [[mizuho-fg]] -- major metropolitan local governments and traditional local-government lending
+  │     ├── [[megabanks/mufg]] -- major metropolitan local governments and large local public enterprises
+  │     ├── [[megabanks/smfg]] -- major metropolitan local governments and Kansai-region local governments
+  │     ├── [[megabanks/mizuho-fg]] -- major metropolitan local governments and traditional local-government lending
   │     └── Regional and second-tier regional banks -- main banks for local governments
   └── Capital markets (local bond issuance) -- major cities are increasingly using market funding
 ```
@@ -105,7 +105,7 @@ Funding for local governments and local public enterprises
 
 - **Complementarity**: Long-term lending to small local governments and public enterprises with low profitability, where private banks are less active
 - **Rate advantage**: Joint local-government investment plus high issuer ratings (Moody's A1 / S&P A+ / R&I AA+) create low funding costs, allowing JFM to provide lower rates than private banks
-- **Megabank strategy**: [[mufg]] [[smfg]] [[mizuho-fg]] handle major metropolitan local governments through syndicated loans and marketable local-bond underwriting
+- **Megabank strategy**: [[megabanks/mufg]] [[megabanks/smfg]] [[megabanks/mizuho-fg]] handle major metropolitan local governments through syndicated loans and marketable local-bond underwriting
 
 ### Special Role in Disaster-Recovery Lending
 
@@ -138,15 +138,15 @@ Subjective evaluation is isolated in `.opinions/JapanFG/local-govt-finance.md`.
 
 - What is the precise loan balance as of fiscal 2024? Official IR confirmation is still required.
 - What are the scale and targets of recovery lending for the Noto Peninsula Earthquake (2024-01)?
-- What are the lending shares for major metropolitan local governments versus private megabanks [[mufg]] [[smfg]] [[mizuho-fg]]?
+- What are the lending shares for major metropolitan local governments versus private megabanks [[megabanks/mufg]] [[megabanks/smfg]] [[megabanks/mizuho-fg]]?
 - What is the long-term strategy for aging local infrastructure, over a 10-20  year funding-supply horizon?
 - Will lending expand for municipal DX and smart-city investment?
 - What is the lending policy for depopulated municipalities and municipalities at risk of fiscal failure?
 
 ## 8. Related
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] -- competitors in major metropolitan local-government lending
-- [[ndfg]] -- comparison with private FG local-finance complementarity
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] -- competitors in major metropolitan local-government lending
+- [[megabanks/ndfg]] -- comparison with private FG local-finance complementarity
 - [[financial-regulators/japan-policy-finance-map]] -- overall map of public financial institutions ^[planned]
 - [[financial-regulators/local-bond-market]] -- overall structure of the local bond market ^[planned]
 

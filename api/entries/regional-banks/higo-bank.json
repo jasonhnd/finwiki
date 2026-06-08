@@ -47,34 +47,32 @@
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 8,
+    "wikilinks_count": 7,
     "wikilinks": [
       "banking/INDEX",
       "banking/regional-bank-consolidation-pattern",
-      "fukuoka-bank",
-      "kagoshima-bank",
-      "kyushu-fg",
-      "miyazaki-bank",
       "regional-banks/INDEX",
-      "regional-banks/fukuoka-bank"
+      "regional-banks/fukuoka-bank",
+      "regional-banks/kagoshima-bank",
+      "regional-banks/kyushu-fg",
+      "regional-banks/miyazaki-bank"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
-      "https://finwiki.zksc.io/fukuoka-bank",
-      "https://finwiki.zksc.io/kagoshima-bank",
-      "https://finwiki.zksc.io/kyushu-fg",
-      "https://finwiki.zksc.io/miyazaki-bank",
       "https://finwiki.zksc.io/regional-banks/INDEX",
-      "https://finwiki.zksc.io/regional-banks/fukuoka-bank"
+      "https://finwiki.zksc.io/regional-banks/fukuoka-bank",
+      "https://finwiki.zksc.io/regional-banks/kagoshima-bank",
+      "https://finwiki.zksc.io/regional-banks/kyushu-fg",
+      "https://finwiki.zksc.io/regional-banks/miyazaki-bank"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1822,
-    "word_like_tokens": 282,
-    "inbound_wikilinks_count": 4,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 1987,
+    "word_like_tokens": 304,
+    "inbound_wikilinks_count": 8,
+    "last_modified": "2026-06-08"
   }
 }

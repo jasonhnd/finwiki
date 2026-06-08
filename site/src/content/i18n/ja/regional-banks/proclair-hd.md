@@ -121,7 +121,7 @@ translated_at: 2026-06-02T15:14:17.108Z
 
 ## 8. Related
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[ndfg]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[megabanks/ndfg]]
 
 ## 出典
 

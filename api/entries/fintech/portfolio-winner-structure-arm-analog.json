@@ -53,40 +53,38 @@
     "応用 / 転用テンプレート"
   ],
   "body_links": {
-    "wikilinks_count": 11,
+    "wikilinks_count": 10,
     "wikilinks": [
       "agent-economy/privy-aws-agentcore-default-wallet",
       "agent-economy/x402-cloudflare-aws-edge-integration",
-      "central-banking-function-unbundling",
       "fintech/INDEX",
       "fintech/blackrock-buidl-sc-issuer-adoption",
+      "fintech/central-banking-function-unbundling",
       "fintech/japan-financial-regulation",
       "fintech/jpmorgan-jpmd-coin",
       "fintech/paypal-pyusd-stablecoin",
-      "fintech/wall-street-crypto-network-neutrality",
-      "protocol-hedge-strategy-stripe-pattern",
-      "wall-street-crypto-network-neutrality"
+      "fintech/protocol-hedge-strategy-stripe-pattern",
+      "fintech/wall-street-crypto-network-neutrality"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/agent-economy/privy-aws-agentcore-default-wallet",
       "https://finwiki.zksc.io/agent-economy/x402-cloudflare-aws-edge-integration",
-      "https://finwiki.zksc.io/central-banking-function-unbundling",
       "https://finwiki.zksc.io/fintech/INDEX",
       "https://finwiki.zksc.io/fintech/blackrock-buidl-sc-issuer-adoption",
+      "https://finwiki.zksc.io/fintech/central-banking-function-unbundling",
       "https://finwiki.zksc.io/fintech/japan-financial-regulation",
       "https://finwiki.zksc.io/fintech/jpmorgan-jpmd-coin",
       "https://finwiki.zksc.io/fintech/paypal-pyusd-stablecoin",
-      "https://finwiki.zksc.io/fintech/wall-street-crypto-network-neutrality",
-      "https://finwiki.zksc.io/protocol-hedge-strategy-stripe-pattern",
-      "https://finwiki.zksc.io/wall-street-crypto-network-neutrality"
+      "https://finwiki.zksc.io/fintech/protocol-hedge-strategy-stripe-pattern",
+      "https://finwiki.zksc.io/fintech/wall-street-crypto-network-neutrality"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3465,
-    "word_like_tokens": 552,
-    "inbound_wikilinks_count": 11,
-    "last_modified": "2026-05-26"
+    "nonspace_chars": 3489,
+    "word_like_tokens": 555,
+    "inbound_wikilinks_count": 12,
+    "last_modified": "2026-06-08"
   }
 }

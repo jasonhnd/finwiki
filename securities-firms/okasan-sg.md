@@ -23,7 +23,7 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it
 
 ## TL;DR
 
-中堅独立証券持株会社（東証 PRIME **8609**）。1923 年 加藤精一が名古屋で 岡三商店 として創業 → 1944 株式会社化 → 2009-04 持株会社化。**5 大証券（[[ndfg]] 野村 / 大和 / SMBC 日興 / みずほ証券 / MUMSS）に次ぐ独立中堅** ポジション。中京経済圏（名古屋・三重発祥）に強い対面リテール基盤 + ネット証券（岡三オンライン）のハイブリッド戦略。主要競合は同じ中京系 東海東京 FH、ネット系 [[monex-group]] / 松井証券。^[extracted]
+中堅独立証券持株会社（東証 PRIME **8609**）。1923 年 加藤精一が名古屋で 岡三商店 として創業 → 1944 株式会社化 → 2009-04 持株会社化。**5 大証券（[[megabanks/ndfg]] 野村 / 大和 / SMBC 日興 / みずほ証券 / MUMSS）に次ぐ独立中堅** ポジション。中京経済圏（名古屋・三重発祥）に強い対面リテール基盤 + ネット証券（岡三オンライン）のハイブリッド戦略。主要競合は同じ中京系 東海東京 FH、ネット系 [[securities-firms/monex-group]] / 松井証券。^[extracted]
 
 ## 1. 会社概要
 
@@ -78,7 +78,7 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it
 
 ### 中堅独立ポジショニング
 
-- 業界順位：**5 大証券（[[ndfg]] 野村 HD / 大和証券 G / SMBC 日興 / みずほ証券 / 三菱 UFJ モルガン・スタンレー証券）に次ぐ中堅独立証券** ^[extracted]
+- 業界順位：**5 大証券（[[megabanks/ndfg]] 野村 HD / 大和証券 G / SMBC 日興 / みずほ証券 / 三菱 UFJ モルガン・スタンレー証券）に次ぐ中堅独立証券** ^[extracted]
 - 「メガ銀グループに属さない独立系」が他の大手準ずる中堅証券との差別化軸
 
 ### 対面 × ネット ハイブリッド戦略
@@ -91,7 +91,7 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it
 ### 主要競合
 
 - **松井証券**（ネット証券先駆者）
-- **[[monex-group]] マネックスグループ**（ネット証券・グローバル）
+- **[[securities-firms/monex-group]] マネックスグループ**（ネット証券・グローバル）
 - **SBI HD** グループ系証券（オンライン最大手）
 
 ## 4. 規制・政策
@@ -106,7 +106,7 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it
 
 ## Related
 
-- [[ndfg]] · [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[monex-group]]
+- [[megabanks/ndfg]] · [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[securities-firms/monex-group]]
 
 ## Sources
 

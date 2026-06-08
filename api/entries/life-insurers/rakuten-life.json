@@ -51,38 +51,38 @@
   "body_links": {
     "wikilinks_count": 11,
     "wikilinks": [
+      "card-issuers/rakuten-card",
       "insurance/INDEX",
       "insurance/internet-life-insurance-business-model",
       "life-insurers/INDEX",
-      "lifenet",
+      "life-insurers/lifenet",
+      "life-insurers/sbi-life",
+      "life-insurers/sony-life",
       "non-life-insurers/rakuten-general-insurance",
-      "rakuten-card",
-      "rakuten-edy",
-      "rakuten-fg",
-      "rakuten-securities",
-      "sbi-life",
-      "sony-life"
+      "payment-firms/rakuten-edy",
+      "payment-firms/rakuten-fg",
+      "securities-firms/rakuten-securities"
     ],
     "resolved_wikilinks": [
+      "https://finwiki.zksc.io/card-issuers/rakuten-card",
       "https://finwiki.zksc.io/insurance/INDEX",
       "https://finwiki.zksc.io/insurance/internet-life-insurance-business-model",
       "https://finwiki.zksc.io/life-insurers/INDEX",
-      "https://finwiki.zksc.io/lifenet",
+      "https://finwiki.zksc.io/life-insurers/lifenet",
+      "https://finwiki.zksc.io/life-insurers/sbi-life",
+      "https://finwiki.zksc.io/life-insurers/sony-life",
       "https://finwiki.zksc.io/non-life-insurers/rakuten-general-insurance",
-      "https://finwiki.zksc.io/rakuten-card",
-      "https://finwiki.zksc.io/rakuten-edy",
-      "https://finwiki.zksc.io/rakuten-fg",
-      "https://finwiki.zksc.io/rakuten-securities",
-      "https://finwiki.zksc.io/sbi-life",
-      "https://finwiki.zksc.io/sony-life"
+      "https://finwiki.zksc.io/payment-firms/rakuten-edy",
+      "https://finwiki.zksc.io/payment-firms/rakuten-fg",
+      "https://finwiki.zksc.io/securities-firms/rakuten-securities"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2050,
-    "word_like_tokens": 305,
-    "inbound_wikilinks_count": 5,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 2278,
+    "word_like_tokens": 337,
+    "inbound_wikilinks_count": 7,
+    "last_modified": "2026-06-08"
   }
 }

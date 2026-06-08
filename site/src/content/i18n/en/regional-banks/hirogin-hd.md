@@ -16,7 +16,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-Hirogin Holdings is one of the largest regional-bank holding companies in the Chugoku region, anchored in Hiroshima Prefecture. It became a holding company on 2020-10-01 through a sole-share-transfer by Hiroshima Bank. Core subsidiaries include [[hiroshima-bank|Hiroshima Bank]], Hirogin Securities, Hirogin Credit Guarantee, and the Hirogin Economic Research Institute. The group has the No. 1 deposit and loan share in Hiroshima Prefecture and has a strong lending base around Mazda and the local automotive parts supply chain. In the Chugoku region it is commonly compared with [[regional-banks/chugin-okayama|Chugin FG]], [[san-in-godo-bank|San-in Godo Bank]], and [[yamaguchi-fg|Yamaguchi FG]].
+Hirogin Holdings is one of the largest regional-bank holding companies in the Chugoku region, anchored in Hiroshima Prefecture. It became a holding company on 2020-10-01 through a sole-share-transfer by Hiroshima Bank. Core subsidiaries include [[regional-banks/hiroshima-bank|Hiroshima Bank]], Hirogin Securities, Hirogin Credit Guarantee, and the Hirogin Economic Research Institute. The group has the No. 1 deposit and loan share in Hiroshima Prefecture and has a strong lending base around Mazda and the local automotive parts supply chain. In the Chugoku region it is commonly compared with [[regional-banks/chugin-okayama|Chugin FG]], [[regional-banks/san-in-godo-bank|San-in Godo Bank]], and [[regional-banks/yamaguchi-fg|Yamaguchi FG]].
 
 ## 1. Company profile
 
@@ -87,15 +87,15 @@ Hirogin HD (listed holding company, 7337)
 |---|---|---|---|
 | **Hiroshima Bank** | Hiroshima City | Hirogin HD (7337) | Hiroshima Prefecture No. 1; largest in the Chugoku region |
 | Chugoku Bank | Okayama City | [[regional-banks/chugin-okayama|Chugin FG]] | Okayama Prefecture No. 1; converted into a holding company in 2024 |
-| Sanin Godo Bank | Matsue City | [[san-in-godo-bank]] | Shimane/Tottori No. 1  |
-| Yamaguchi Bank, Momiji Bank, Kitakyushu Bank | Shimonoseki | [[yamaguchi-fg]] | Yamaguchi + Hiroshima (Momiji) + Kitakyushu 3 行 System |
+| Sanin Godo Bank | Matsue City | [[regional-banks/san-in-godo-bank]] | Shimane/Tottori No. 1  |
+| Yamaguchi Bank, Momiji Bank, Kitakyushu Bank | Shimonoseki | [[regional-banks/yamaguchi-fg]] | Yamaguchi + Hiroshima (Momiji) + Kitakyushu 3 行 System |
 
-Especially in Hiroshima Prefecture, it competes directly with Momiji Bank, which is affiliated with [[yamaguchi-fg]]**. Yamaguchi FG has a history of 2006  Yamaguchi Bank + Momiji HD (separated from the former Hirogin Financial Restructuring) and is geographically closest to Hiroshima Bank.
+Especially in Hiroshima Prefecture, it competes directly with Momiji Bank, which is affiliated with [[regional-banks/yamaguchi-fg]]**. Yamaguchi FG has a history of 2006  Yamaguchi Bank + Momiji HD (separated from the former Hirogin Financial Restructuring) and is geographically closest to Hiroshima Bank.
 
 ### Strategic significance of becoming a holding company
 
 - ** 2020 - 10  Establishment of Hirogin HD**: Became a holding company through sole share transfer (Hiroshima Bank only). Separate peripheral businesses such as securities, guarantees, and leases from the main bank → Make them specialized subsidiaries → Aim for group synergies
-- In the Chugoku region, it has been converted into a holding company along with 2022  [[yamaguchi-fg]], 2024  and [[regional-banks/chugin-okayama|chugin-fg]].
+- In the Chugoku region, it has been converted into a holding company along with 2022  [[regional-banks/yamaguchi-fg]], 2024  and [[regional-banks/chugin-okayama|chugin-fg]].
 - Developing a holding company platform for cross-regional M&A and regional bank restructuring scenarios
 
 ### Medium-term management plan (2024 ~ 2026 年 degrees)
@@ -115,9 +115,9 @@ Especially in Hiroshima Prefecture, it competes directly with Momiji Bank, which
 
 ## Related
 
-- [[regional-banks/chugin-okayama|chugin-fg]] · [[san-in-godo-bank]] · [[yamaguchi-fg]] — Chugoku region 4 行
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] — Megabank
-- [[ndfg]]
+- [[regional-banks/chugin-okayama|chugin-fg]] · [[regional-banks/san-in-godo-bank]] · [[regional-banks/yamaguchi-fg]] — Chugoku region 4 行
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] — Megabank
+- [[megabanks/ndfg]]
 
 ## Sources
 

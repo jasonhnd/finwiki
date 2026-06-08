@@ -15,7 +15,7 @@ This entry sits under [[trust-banks/INDEX|trust-banks INDEX]]. Read it against [
 
 ## TL;DR
 
-Japan's largest trust bank specialized in asset administration (assets under custody **770 兆円** / end of 2025-03 , 2024 年 fiscal-year results). Established in 2000-05  as a joint venture of the [[mufg]] group + a life / non-life insurance alliance ([[nippon-life]], [[meiji-yasuda]], [[norinchukin]]). It frequently appears as the top major shareholder in listed-company annual securities reports under the name **"The Master Trust Bank of Japan, Ltd. (Trust Account)"** -- but the actual beneficial owners are pension funds, institutional investors, and investment trust funds, and voting instructions belong to the settlors / investment managers. It specializes in **custody + pension trusts + securities administration**, and effectively does not handle lending or deposits. Together with competitor [[custody-bank]] (Custody Bank of Japan), it forms Japan's 2 -strong securities custody infrastructure. ^[extracted]
+Japan's largest trust bank specialized in asset administration (assets under custody **770 兆円** / end of 2025-03 , 2024 年 fiscal-year results). Established in 2000-05  as a joint venture of the [[megabanks/mufg]] group + a life / non-life insurance alliance ([[life-insurers/nippon-life]], [[life-insurers/meiji-yasuda]], [[cooperative-banks/norinchukin]]). It frequently appears as the top major shareholder in listed-company annual securities reports under the name **"The Master Trust Bank of Japan, Ltd. (Trust Account)"** -- but the actual beneficial owners are pension funds, institutional investors, and investment trust funds, and voting instructions belong to the settlors / investment managers. It specializes in **custody + pension trusts + securities administration**, and effectively does not handle lending or deposits. Together with competitor [[trust-banks/custody-bank]] (Custody Bank of Japan), it forms Japan's 2 -strong securities custody infrastructure. ^[extracted]
 
 ## 1. Company overview
 
@@ -30,10 +30,10 @@ Japan's largest trust bank specialized in asset administration (assets under cus
 
 | Shareholder | Ratio |
 |---|---|
-| Mitsubishi UFJ Trust and Banking Corporation ([[mufg]] 100% subsidiary) | **46.5%** |
-| Nippon Life Insurance ([[nippon-life]]) | **33.5%** |
-| Meiji Yasuda Life Insurance ([[meiji-yasuda]]) | **10.0%** |
-| Norinchukin Trust & Banking ([[norinchukin]] group) | **10.0%** |
+| Mitsubishi UFJ Trust and Banking Corporation ([[megabanks/mufg]] 100% subsidiary) | **46.5%** |
+| Nippon Life Insurance ([[life-insurers/nippon-life]]) | **33.5%** |
+| Meiji Yasuda Life Insurance ([[life-insurers/meiji-yasuda]]) | **10.0%** |
+| Norinchukin Trust & Banking ([[cooperative-banks/norinchukin]] group) | **10.0%** |
 
 ### Functional position
 
@@ -54,7 +54,7 @@ The Master Trust Bank of Japan (asset-administration specialist, unlisted)
 |---|---|
 | **2000-05** | **The Master Trust Bank of Japan established** -- JV of former Mitsubishi Trust Bank + Nippon Life + Meiji Life + Yasuda Life, etc., as a specialized asset-administration trust |
 | 2000-2005  | Pension trust mandates expanded (including response to return of substitutional portions by employees' pension funds) |
-| 2005-10  | Parent integration following launch of [[mufg]] (Mitsubishi Trust -> Mitsubishi UFJ Trust) |
+| 2005-10  | Parent integration following launch of [[megabanks/mufg]] (Mitsubishi Trust -> Mitsubishi UFJ Trust) |
 | 2010-04  | Merger of Meiji Yasuda Life (former Meiji Life + Yasuda Life) -> shareholder structure organized |
 | 2010 年s | Rapid increase in entrusted assets (pension assets including GPIF, expansion in foreign investors' Japanese equity holdings) |
 | 2020 年s | Custody DX / electronic corporate actions / electronic voting support |
@@ -76,10 +76,10 @@ Japan's specialized asset-administration trusts are an **2 -firm oligopoly**:
 
 | Institution | Group | Establishment | Major shareholders |
 |---|---|---|---|
-| **The Master Trust Bank of Japan** | [[mufg]] + life insurer alliance | 2000-05  | Mitsubishi UFJ Trust 46.5% / Nippon Life 33.5% / Meiji Yasuda 10% / Norinchukin Trust 10% |
-| **[[custody-bank]] (Custody Bank of Japan)** | [[sumitomo-mitsui-trust]] + [[mizuho-fg]] + Resona line | 2020-07  | Integration of former Japan Trustee Services Bank + Trust & Custody Services Bank |
+| **The Master Trust Bank of Japan** | [[megabanks/mufg]] + life insurer alliance | 2000-05  | Mitsubishi UFJ Trust 46.5% / Nippon Life 33.5% / Meiji Yasuda 10% / Norinchukin Trust 10% |
+| **[[trust-banks/custody-bank]] (Custody Bank of Japan)** | [[trust-banks/sumitomo-mitsui-trust]] + [[megabanks/mizuho-fg]] + Resona line | 2020-07  | Integration of former Japan Trustee Services Bank + Trust & Custody Services Bank |
 
-> [[custody-bank]] was launched in 2020-07  by integrating former JTSB (Japan Trustee Services Bank) + TCSB, the asset-administration services trust bank under the JTC HD line. It is a JV of Sumitomo Mitsui Trust, Mizuho Trust, Resona, etc. Alongside Master Trust, it is one of Japan's custody 2  strong players. ^[extracted]
+> [[trust-banks/custody-bank]] was launched in 2020-07  by integrating former JTSB (Japan Trustee Services Bank) + TCSB, the asset-administration services trust bank under the JTC HD line. It is a JV of Sumitomo Mitsui Trust, Mizuho Trust, Resona, etc. Alongside Master Trust, it is one of Japan's custody 2  strong players. ^[extracted]
 
 ### Meaning of the "trust account" name
 
@@ -112,12 +112,12 @@ Japan's specialized asset-administration trusts are an **2 -firm oligopoly**:
 
 ## Related
 
-- [[mufg]] -- parent-company group; Mitsubishi UFJ Trust Bank 100% subsidiary is a 46.5% shareholder
-- [[custody-bank]] -- major competitor (Custody Bank of Japan, launched 2020-07 )
-- [[nippon-life]] -- major shareholder 33.5%
-- [[meiji-yasuda]] -- major shareholder 10%
-- [[norinchukin]] -- via Norinchukin Trust Bank to 10%
-- [[sumitomo-mitsui-trust]] · [[mizuho-fg]] -- [[custody-bank]] group
+- [[megabanks/mufg]] -- parent-company group; Mitsubishi UFJ Trust Bank 100% subsidiary is a 46.5% shareholder
+- [[trust-banks/custody-bank]] -- major competitor (Custody Bank of Japan, launched 2020-07 )
+- [[life-insurers/nippon-life]] -- major shareholder 33.5%
+- [[life-insurers/meiji-yasuda]] -- major shareholder 10%
+- [[cooperative-banks/norinchukin]] -- via Norinchukin Trust Bank to 10%
+- [[trust-banks/sumitomo-mitsui-trust]] · [[megabanks/mizuho-fg]] -- [[trust-banks/custody-bank]] group
 
 ## Sources
 

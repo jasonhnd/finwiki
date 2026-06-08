@@ -15,7 +15,7 @@ translated_at: 2026-05-31T23:59:49.306Z
 
 ## 摘要
 
-本页覆盖 JR 东日本集团的金融功能群。核心为：① **View Card**（VIEW 卡发行子公司，以 Suica 一体型卡为轴，承担 JR 东日本集团整体信用卡发行）；② **JRE BANK**（2024-05  开业，使用 [[JapanFG/rakuten-bank|楽天銀行]] BaaS 运营的 JR 东日本品牌银行账户，提供列车票价折扣和积分权益）；③ **Suica 电子货币 / JR 东日本 Payment Services**（交通系 IC 卡 Suica 的发行和加盟店网络）。JR 东日本本体为**东证 PRIME 9020**（运输 / 物流中的最大级股票之一），金融功能被配置为铁路业务附带的**客户生活基础设施锁定战略**支柱。^[extracted]
+本页覆盖 JR 东日本集团的金融功能群。核心为：① **View Card**（VIEW 卡发行子公司，以 Suica 一体型卡为轴，承担 JR 东日本集团整体信用卡发行）；② **JRE BANK**（2024-05  开业，使用 [[banking/rakuten-bank|楽天銀行]] BaaS 运营的 JR 东日本品牌银行账户，提供列车票价折扣和积分权益）；③ **Suica 电子货币 / JR 东日本 Payment Services**（交通系 IC 卡 Suica 的发行和加盟店网络）。JR 东日本本体为**东证 PRIME 9020**（运输 / 物流中的最大级股票之一），金融功能被配置为铁路业务附带的**客户生活基础设施锁定战略**支柱。^[extracted]
 
 ### 1.1  株式会社ビューカード（View Card）
 
@@ -32,9 +32,9 @@ translated_at: 2026-05-31T23:59:49.306Z
 
 | 项目 | 内容 |
 |---|---|
-| 商号 | JRE BANK（JR 东日本品牌账户，由 [[JapanFG/rakuten-bank|楽天銀行]] 运营） |
+| 商号 | JRE BANK（JR 东日本品牌账户，由 [[banking/rakuten-bank|楽天銀行]] 运营） |
 | 开业 | **2024-05-09** ^[extracted] |
-| 银行牌照持有人 | **[[JapanFG/rakuten-bank|楽天銀行]]**（JR 东日本不持有银行牌照，采用 BaaS 的“品牌银行”形式） |
+| 银行牌照持有人 | **[[banking/rakuten-bank|楽天銀行]]**（JR 东日本不持有银行牌照，采用 BaaS 的“品牌银行”形式） |
 | 权益 | 根据存款余额和交易，提供 **JRE POINT 赋予 + JR 东日本长距离车票票价折扣** |
 | 战略意义 | 将铁路客户转化为**生活主账户**，提升 LTV |
 
@@ -54,7 +54,7 @@ translated_at: 2026-05-31T23:59:49.306Z
 | 信用卡发行 | **View Card** | 以 View Suica Card（Suica 一体型）为核心，并包括 Lumine Card、BicCamera Suica Card、JRE CARD 等合作卡 |
 | 预付 / 交通 IC | JR 东日本本体 + [[payments/suica-prepaid-jr-east|Suica]] | 交通乘车券 + 电子货币一体运营，加盟店超过 100 万 家 |
 | QR 码支付 | **JR 东日本 Payment Services**（Suica Pay） | 2023 起正式强化，作为 Suica 经济圈的 QR 扩展 |
-| 银行账户 | **JRE BANK**（[[JapanFG/rakuten-bank|楽天銀行]] BaaS） | 2024-05  开业，品牌银行模式 |
+| 银行账户 | **JRE BANK**（[[banking/rakuten-bank|楽天銀行]] BaaS） | 2024-05  开业，品牌银行模式 |
 | 积分生态 | JRE POINT | 通过刷卡、Suica 充值、JR 乘车、JRE BANK 存款返还 |
 | 法人 EC / 票务 | Ekinet 等 | 集团 EC 的支付基础设施 |
 
@@ -71,7 +71,7 @@ translated_at: 2026-05-31T23:59:49.306Z
   └── 金融集团（本页）
         ├── 株式会社ビューカード ── 信用卡（VIEW Card）
         ├── 株式会社 JR 東日本ペイメントサービス ── Suica 加盟店业务 / Suica Pay 运营
-        ├── JRE BANK ── 品牌银行账户（[[JapanFG/rakuten-bank|楽天銀行]] BaaS）
+        ├── JRE BANK ── 品牌银行账户（[[banking/rakuten-bank|楽天銀行]] BaaS）
         └── Suica 电子货币基础设施 ── JR 东日本本体直营的铁路事业内基础设施
 ```
 
@@ -100,7 +100,7 @@ translated_at: 2026-05-31T23:59:49.306Z
 
 ### 5.2  JRE BANK 的 BaaS 模式（2024 起）
 
-- 不自行取得银行牌照，而是使用 [[JapanFG/rakuten-bank|楽天銀行]] 的 BaaS（Banking as a Service）平台。
+- 不自行取得银行牌照，而是使用 [[banking/rakuten-bank|楽天銀行]] 的 BaaS（Banking as a Service）平台。
 - **“品牌银行账户”** 模式与 [[regional-banks/seven-bank|セブン銀行]] 等自有银行形成对比，是牌照成本与品牌资产利用之间的权衡。
 - 作为存款权益提供**长距离乘车券票价折扣**，与铁路业务形成明确协同。
 - 竞争者：拥有自有银行的 [[regional-banks/seven-bank|セブン銀行]]、[[card-issuers/aeon-bank|イオン銀行]]，二者采取不同路径。
@@ -122,13 +122,13 @@ translated_at: 2026-05-31T23:59:49.306Z
 | View Card | 《分期付款销售法》（经济产业省）和《贷金业法》（金融厅） |
 | Suica（预付） | 《资金结算法》（预付式支付工具 / 资金转移相邻监管，金融厅） |
 | Suica Pay / 加盟店业务 | 《资金结算法》（预付式支付工具发行者） |
-| JRE BANK | [[JapanFG/rakuten-bank|楽天銀行]] 持有银行业牌照 -> 金融厅银行业监管 |
+| JRE BANK | [[banking/rakuten-bank|楽天銀行]] 持有银行业牌照 -> 金融厅银行业监管 |
 | 母公司 JR 东日本 | 国土交通省（铁路事业）+ 金融厅（合并层面的金融子公司） |
 
 ## 相关
 
 - JR 东日本（母公司，东证 PRIME 9020）
-- [[JapanFG/rakuten-bank]] — JRE BANK 的 BaaS 合作方
+- [[banking/rakuten-bank]] — JRE BANK 的 BaaS 合作方
 - [[JapanFG/tokyu-card]] — 私铁系金融子公司同业
 - [[JapanFG/odakyu-cards]] — 私铁系金融子公司同业
 - [[regional-banks/seven-bank]] — 流通系银行同业（自有银行型）
@@ -154,4 +154,4 @@ translated_at: 2026-05-31T23:59:49.306Z
 ---
 
 > [!info] 校核状态
-> confidence: **likely**（v1.1  公开信息基础，2026-05-25 抽出 / ambiguous 再检查 2026-05-29）。JRE BANK 开业日（2024-05-09）、由 [[JapanFG/rakuten-bank|楽天銀行]] BaaS 运营、View Card 子公司、JR 东日本 Payment Services 子公司均由公开信息确认。**View Card 有效会员数（约 570 万 人，2023 年 年度）和 JRE POINT 会员数（约 1,417 万 人，2023-07）已附来源收录**（旧“数百万”“数千万 ID”的模糊带已实数化；“数千万”属夸大，JRE POINT 正确为约 1,400 万 人级。约 5,000 万 人是 2027 年 年度的统合 ID 目标，并非当前值）。Suica 发行张数超过 1 億 的表述仍为估计（^[likely]）。JRE BANK 账户数预测值（旧“数十万账户规模”）以及 Suica Pay QR 战略选择相关未来预测已隔离至 `.opinions/JapanFG/jr-east-financial.md`，因为它们不是一手披露的账户数。
+> confidence: **likely**（v1.1  公开信息基础，2026-05-25 抽出 / ambiguous 再检查 2026-05-29）。JRE BANK 开业日（2024-05-09）、由 [[banking/rakuten-bank|楽天銀行]] BaaS 运营、View Card 子公司、JR 东日本 Payment Services 子公司均由公开信息确认。**View Card 有效会员数（约 570 万 人，2023 年 年度）和 JRE POINT 会员数（约 1,417 万 人，2023-07）已附来源收录**（旧“数百万”“数千万 ID”的模糊带已实数化；“数千万”属夸大，JRE POINT 正确为约 1,400 万 人级。约 5,000 万 人是 2027 年 年度的统合 ID 目标，并非当前值）。Suica 发行张数超过 1 億 的表述仍为估计（^[likely]）。JRE BANK 账户数预测值（旧“数十万账户规模”）以及 Suica Pay QR 战略选择相关未来预测已隔离至 `.opinions/JapanFG/jr-east-financial.md`，因为它们不是一手披露的账户数。

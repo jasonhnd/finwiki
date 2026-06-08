@@ -16,7 +16,7 @@ translated_at: 2026-06-01T02:31:57.141Z
 
 ## TL;DR
 
-株式会社横滨银行是列入金融厅银行牌照名单、总行位于神奈川县的地方银行，也是 [[concordia-fg]]（现 Yokohama Financial Group）的 core operating bank。在神奈川县 retail / SME / public-sector finance 中，本页将其作为最大级别的 bank-license anchor 处理。
+株式会社横滨银行是列入金融厅银行牌照名单、总行位于神奈川县的地方银行，也是 [[regional-banks/concordia-fg]]（现 Yokohama Financial Group）的 core operating bank。在神奈川县 retail / SME / public-sector finance 中，本页将其作为最大级别的 bank-license anchor 处理。
 
 ## 1. 牌照 / 集团边界
 
@@ -24,25 +24,25 @@ translated_at: 2026-06-01T02:31:57.141Z
 |---|---|
 | 法定名称 | 株式会社横滨银行 |
 | 牌照路径 | Banking Act regional bank; FSA bank license list |
-| 集团边界 | [[concordia-fg]] / Yokohama Financial Group operating bank |
+| 集团边界 | [[regional-banks/concordia-fg]] / Yokohama Financial Group operating bank |
 | 本土市场 | Kanagawa / Yokohama |
 | Wiki 角色 | Kanagawa regional-bank operating-company page |
 
 ## 2. 运营模式
 
-横滨银行是以神奈川县为中心，承担 retail deposits, mortgage, SME / mid-market finance, local government finance, and regional wealth services 的 regional bank。[[concordia-fg]] page 覆盖 holding-company strategy 与 [[higashi-nippon-bank]] integration；本页则将 Yokohama Bank 的牌照和本地 franchise 独立出来。
+横滨银行是以神奈川县为中心，承担 retail deposits, mortgage, SME / mid-market finance, local government finance, and regional wealth services 的 regional bank。[[regional-banks/concordia-fg]] page 覆盖 holding-company strategy 与 [[regional-banks/higashi-nippon-bank]] integration；本页则将 Yokohama Bank 的牌照和本地 franchise 独立出来。
 
 ## 3. 本页为何重要
 
-- 仅靠 parent [[concordia-fg]] coverage 无法呈现持牌银行边界。
-- 是 [[kanagawa-bank]] 以及其他神奈川 regional-finance 页面的关键比较点。
+- 仅靠 parent [[regional-banks/concordia-fg]] coverage 无法呈现持牌银行边界。
+- 是 [[regional-banks/kanagawa-bank]] 以及其他神奈川 regional-finance 页面的关键比较点。
 - 对关东区域的银行 operating-company 完整性是必要补充。
 
 ## Related
 
-- [[concordia-fg]]
-- [[higashi-nippon-bank]]
-- [[kanagawa-bank]]
+- [[regional-banks/concordia-fg]]
+- [[regional-banks/higashi-nippon-bank]]
+- [[regional-banks/kanagawa-bank]]
 - [[banking/INDEX]]
 
 ## Sources

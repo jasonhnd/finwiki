@@ -26,7 +26,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 ## Counterpoints
 
 - **民族系信組の存在意義論争**: 在日コミュニティの世代交代 + 一般日系金融機関のサービス充実で **民族系信組固有需要が縮小**するリスク vs **コミュニティ密着** の独自価値 ^[ambiguous]
-- **スケール劣位**: [[JapanFG/yokohama-bank|横浜銀行 ([[JapanFG/concordia-fg|コンコルディアFG]])]] や [[JapanFG/yokohama-shinkin|横浜信用金庫]] 等の県下大手金融機関との直接競合で、規模デメリット ^[inferred]
+- **スケール劣位**: [[regional-banks/yokohama-bank|横浜銀行 ([[JapanFG/concordia-fg|コンコルディアFG]])]] や [[cooperative-banks/yokohama-shinkin|横浜信用金庫]] 等の県下大手金融機関との直接競合で、規模デメリット ^[inferred]
 - **跨境送金規制強化**: 民族系信組固有の韓国向け送金需要が AML/CFT 規制対応コストを増大、小規模信組には負担大 ^[inferred]
 - **2000 年代信組危機の長期影響**: 不良債権処理を経た再編体制ゆえ **慎重な経営姿勢** が成長機会の制約 ^[inferred]
 
@@ -53,7 +53,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 | 系統 | 主要信組 (推定) |
 |---|---|
-| **商銀系** | [[JapanFG/osaka-shogin-shinkumi|大阪商銀信用組合]]、信用組合愛知商銀、信用組合広島商銀、宿毛商銀信用組合、朝銀西信用組合等 |
+| **商銀系** | [[cooperative-banks/osaka-shogin-shinkumi|大阪商銀信用組合]]、信用組合愛知商銀、信用組合広島商銀、宿毛商銀信用組合、朝銀西信用組合等 |
 | **幸銀系** | **横浜幸銀信用組合** ★本ページ ほか系統内 |
 | その他民族系 | ハナ信用組合 (旧朝銀系統)、ミレ信用組合 (大阪)、ウリ信用組合 (北海道) |
 
@@ -67,6 +67,6 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 組合員 (在日韓国・朝鮮人商工人・世帯)
   → 預金 → 横浜幸銀信用組合
               → 域内 SME 融資 + 住宅ローン
-              → 余資預け入れ → [[JapanFG/zenshin-kumi|全信組連]]
+              → 余資預け入れ → [[cooperative-banks/zenshin-kumi|全信組連]]
                                   → 機関投資 + 系統還元
 ```

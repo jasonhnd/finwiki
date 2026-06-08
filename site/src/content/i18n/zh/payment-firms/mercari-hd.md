@@ -16,7 +16,7 @@ translated_at: 2026-05-31T23:59:49.342Z
 
 ## TL;DR
 
-日本最大级 **C2C 跳蚤市场 app + 支付 + 加密资产** 垂直整合生态系统。2013-02-01 由山田進太郎创立，2018-06-19 东证 Mothers IPO（2022  PRIME 迁移，东证 PRIME **4385**）。以 **Mercari（跳蚤市场）+ Merpay（支付 / 后払い）+ Mercoin（Bitcoin）+ Mercard（JCB 合作）** 为 4  轴。国内 MAU **2,304 万**（FY2025.6 4Q）、Marketplace GMV **1.12 兆円**（FY2025.6  全年）、Mercard 发行 **超过 300 万 张**、Mercoin 账户 **超过 200 万**。FY2025.6  全年销售收入 **1,926 億円**（YoY +3%）、当期利润 **261 億円**（YoY +94%、3  期连续最高利润），并实现**美国业务首次全年盈利**（US GMV 728 百万 美元 ≒ 1,091 億円）。未持有银行牌照（资金转移业者）。不同于 megabank 系 [[mufg]] / [[smfg]]，其特点是从 marketplace 起点走向金融平台化。
+日本最大级 **C2C 跳蚤市场 app + 支付 + 加密资产** 垂直整合生态系统。2013-02-01 由山田進太郎创立，2018-06-19 东证 Mothers IPO（2022  PRIME 迁移，东证 PRIME **4385**）。以 **Mercari（跳蚤市场）+ Merpay（支付 / 后払い）+ Mercoin（Bitcoin）+ Mercard（JCB 合作）** 为 4  轴。国内 MAU **2,304 万**（FY2025.6 4Q）、Marketplace GMV **1.12 兆円**（FY2025.6  全年）、Mercard 发行 **超过 300 万 张**、Mercoin 账户 **超过 200 万**。FY2025.6  全年销售收入 **1,926 億円**（YoY +3%）、当期利润 **261 億円**（YoY +94%、3  期连续最高利润），并实现**美国业务首次全年盈利**（US GMV 728 百万 美元 ≒ 1,091 億円）。未持有银行牌照（资金转移业者）。不同于 megabank 系 [[megabanks/mufg]] / [[megabanks/smfg]]，其特点是从 marketplace 起点走向金融平台化。
 
 ## 1. 公司概要
 
@@ -110,10 +110,10 @@ translated_at: 2026-05-31T23:59:49.342Z
 | 领域 | 主要竞争 |
 |---|---|
 | C2C 跳蚤市场 | Yahoo! Auctions（LY）、Rakuma（Rakuten）、PayPay Flea Market |
-| Code payment | [[paypay-fg]]（PayPay）、Rakuten Pay、d払い、au PAY |
+| Code payment | [[megabanks/paypay-fg]]（PayPay）、Rakuten Pay、d払い、au PAY |
 | BNPL / 后払い | Paidy（PayPal 旗下）、atone、NP 后払い |
 | 加密资产 | bitFlyer、Coincheck、bitbank、Rakuten Wallet、SBI VC Trade |
-| 信用卡 | JCB 系、三井住友 [[smfg]]、Rakuten Card |
+| 信用卡 | JCB 系、三井住友 [[megabanks/smfg]]、Rakuten Card |
 | Spot work | Timee、Sharefull、LINE Sukimani |
 
 ## 4. 监管 / 政策
@@ -151,8 +151,8 @@ translated_at: 2026-05-31T23:59:49.342Z
 
 ## Related
 
-- [[paypay-fg]] · [[rakuten-fg]] · [[au-fh]] · [[sbi-hd]]
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[ndfg]]
+- [[megabanks/paypay-fg]] · [[payment-firms/rakuten-fg]] · [[megabanks/au-fh]] · [[megabanks/sbi-hd]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[megabanks/ndfg]]
 - [[banking/mercari-bank-license-stack]] · [[banking/minna-bank-baas-model]]
 
 ## Sources

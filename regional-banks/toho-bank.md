@@ -24,7 +24,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-**福島県唯一の第一地方銀行・福島県内シェア No.1**、本店福島市、東証 PRIME 8346。1941-11-21 戦時統合で福島県内 5 行を統合して設立、1949 東証上場。**単独銀行体制**を維持し、2015 [[chiba-bank]] 主導の **TSUBASA アライアンスに参加**してシステム共同化と広域連携を進める。**2011-03-11 東日本大震災 + 福島第一原発事故の二重被災**を経験し、復興融資と原発事故関連帰還困難区域取引の中核を担う ★。略称「とうほう」。^[extracted]
+**福島県唯一の第一地方銀行・福島県内シェア No.1**、本店福島市、東証 PRIME 8346。1941-11-21 戦時統合で福島県内 5 行を統合して設立、1949 東証上場。**単独銀行体制**を維持し、2015 [[regional-banks/chiba-bank]] 主導の **TSUBASA アライアンスに参加**してシステム共同化と広域連携を進める。**2011-03-11 東日本大震災 + 福島第一原発事故の二重被災**を経験し、復興融資と原発事故関連帰還困難区域取引の中核を担う ★。略称「とうほう」。^[extracted]
 
 ## 1. 会社概要
 
@@ -39,10 +39,10 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 ### 業態の特徴
 
 - **単独銀行・持株会社化せず** ^[extracted]
-  - [[77-bank]]・[[chiba-bank]]・[[regional-banks/shizuoka-fg|shizuoka-bank]] と同様、持株会社化を選ばない単独路線
-  - 隣県の青森銀行→[[proclair-hd]]・足利銀行→[[mebuki-fg]]・常陽銀行→[[mebuki-fg]] が持株会社統合した中で独立を維持
+  - [[regional-banks/77-bank]]・[[regional-banks/chiba-bank]]・[[regional-banks/shizuoka-fg|shizuoka-bank]] と同様、持株会社化を選ばない単独路線
+  - 隣県の青森銀行→[[regional-banks/proclair-hd]]・足利銀行→[[regional-banks/mebuki-fg]]・常陽銀行→[[regional-banks/mebuki-fg]] が持株会社統合した中で独立を維持
 - **TSUBASA アライアンス加盟行** ^[extracted]
-  - 2015 [[chiba-bank]] 主導設立の地銀アライアンス、11 行協業
+  - 2015 [[regional-banks/chiba-bank]] 主導設立の地銀アライアンス、11 行協業
   - システム共同化・海外サポート・商品共通化で持株会社化を回避しつつスケールメリット獲得
   - 福島県内預金シェア No.1、商業銀行として唯一の県内第一地銀
 
@@ -87,7 +87,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 | **2011-03-12** | **東京電力福島第一原発事故** ★ 双葉郡・浜通り北部の支店が帰還困難区域・避難指示区域に指定、長期休業 ^[extracted] |
 | 2011-03〜04 | 義援金・緊急融資、被災者向け預金払戻し特例措置(通帳・印鑑なし対応)^[extracted] |
 | 2012-2015 | 復興 5 年集中期間: 東日本大震災復興特別貸出制度、グループ補助金、原子力損害賠償関連融資 |
-| **2015** | **TSUBASA アライアンス参加**([[chiba-bank]] 主導の 11 行アライアンス発足時メンバー)^[extracted] |
+| **2015** | **TSUBASA アライアンス参加**([[regional-banks/chiba-bank]] 主導の 11 行アライアンス発足時メンバー)^[extracted] |
 | **2022-04** | **東証 PRIME 上場**(市場区分見直し)^[extracted] |
 
 ### 地理的地盤
@@ -99,10 +99,10 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 | 競合 | 本拠 | 関係性 |
 |---|---|---|
 | **大東銀行** | 福島県郡山市 | 福島県第二地銀、中小・小規模法人で競合 |
-| **[[77-bank]]** | 仙台 | 隣県宮城の東北 No.1 地銀、首都圏・東北縦断取引で競合 |
-| **[[jimoto-hd]]** | 仙台・山形 | 仙台銀+きらやか銀、隣県地銀グループ |
-| **[[mebuki-fg]]** | 茨城・栃木 | 常陽銀行+足利銀行、隣県統合地銀 |
-| **メガバンク**([[mufg]] / [[smfg]] / [[mizuho-fg]])| 東京 | 大企業・首都圏取引で競合、地元中小では東邦優位 |
+| **[[regional-banks/77-bank]]** | 仙台 | 隣県宮城の東北 No.1 地銀、首都圏・東北縦断取引で競合 |
+| **[[regional-banks/jimoto-hd]]** | 仙台・山形 | 仙台銀+きらやか銀、隣県地銀グループ |
+| **[[regional-banks/mebuki-fg]]** | 茨城・栃木 | 常陽銀行+足利銀行、隣県統合地銀 |
+| **メガバンク**([[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]])| 東京 | 大企業・首都圏取引で競合、地元中小では東邦優位 |
 | **信金・信組**(福島信金等)| 各地 | 地元零細法人・個人 |
 
 ### 規模感(公開情報ベース)
@@ -134,10 +134,10 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## Related
 
-- [[77-bank]] · [[jimoto-hd]] · [[mebuki-fg]] · [[proclair-hd]]
-- [[chiba-bank]] (TSUBASA アライアンス主導行)
-- [[sbi-regional-bank-hd]] (隣接競合: 福島銀行系)
-- [[mufg]] · [[smfg]] · [[mizuho-fg]]
+- [[regional-banks/77-bank]] · [[regional-banks/jimoto-hd]] · [[regional-banks/mebuki-fg]] · [[regional-banks/proclair-hd]]
+- [[regional-banks/chiba-bank]] (TSUBASA アライアンス主導行)
+- [[megabanks/sbi-regional-bank-hd]] (隣接競合: 福島銀行系)
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]
 
 ## Sources
 

@@ -15,7 +15,7 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 
 ## TL;DR
 
-**Daido Fire and Marine Insurance is Okinawa's only locally rooted non-life insurer.** It was established in 1951-04 under U.S. military administration as Okinawa Marine and Fire Insurance, then became a domestic Japanese non-life insurer after Okinawa's reversion to Japan in 1972. It adopted the current name in 1985. Since the 2000s, a business alliance with Sompo Japan, now within [[sompo]], has provided national-network coverage. The company holds a leading Okinawa non-life share and specializes in tourism insurance, including travel accident, rental-car, and guesthouse liability coverage, plus typhoon / remote-island reinsurance structures. It remains unlisted and competes with the Okinawa offices of the three major non-life groups: [[tokio-marine]], [[msad]], and [[sompo]].^[extracted]
+**Daido Fire and Marine Insurance is Okinawa's only locally rooted non-life insurer.** It was established in 1951-04 under U.S. military administration as Okinawa Marine and Fire Insurance, then became a domestic Japanese non-life insurer after Okinawa's reversion to Japan in 1972. It adopted the current name in 1985. Since the 2000s, a business alliance with Sompo Japan, now within [[non-life-insurers/sompo]], has provided national-network coverage. The company holds a leading Okinawa non-life share and specializes in tourism insurance, including travel accident, rental-car, and guesthouse liability coverage, plus typhoon / remote-island reinsurance structures. It remains unlisted and competes with the Okinawa offices of the three major non-life groups: [[non-life-insurers/tokio-marine]], [[non-life-insurers/msad]], and [[non-life-insurers/sompo]].^[extracted]
 
 ## 1. Company overview
 
@@ -37,7 +37,7 @@ Daido Fire and Marine Insurance (head office: Naha)
   |     +-- Local agency network across auto dealers, real estate, and local finance
   +-- Mainland offices in Tokyo, Osaka, and Fukuoka
   |     +-- Contact points for Okinawa-related corporates and tourists
-  +-- Sompo Japan ([[sompo]]) business alliance
+  +-- Sompo Japan ([[non-life-insurers/sompo]]) business alliance
         +-- National network, reinsurance, and product-license support
 ```
 
@@ -52,7 +52,7 @@ Daido Fire and Marine Insurance (head office: Naha)
 | Late 1970s | Tourism boom led to expansion of travel accident and rental-car insurance. |
 | **1985** | **Renamed Daido Fire and Marine Insurance**, reflecting a broader business scope. |
 | 1990s | Major mainland non-life insurers expanded in Okinawa; Daido strengthened its local brand. |
-| **2000s** | **Business alliance with Sompo Japan ([[sompo]])** for products, reinsurance, and national-network support. |
+| **2000s** | **Business alliance with Sompo Japan ([[non-life-insurers/sompo]])** for products, reinsurance, and national-network support. |
 | 2010s | Advanced typhoon reinsurance structures and continued remote-island coverage. |
 | 2010s | Developed locally specialized cyber and small-business liability products. |
 
@@ -79,9 +79,9 @@ Daido Fire and Marine Insurance (head office: Naha)
 
 | Competitor | Okinawa position |
 |---|---|
-| [[tokio-marine]] (Tokio Marine & Nichido) | Nationwide major; strong with corporates and large-scale risks. |
-| [[msad]] (MS&AD) | Local presence through Aioi Nissay Dowa and related units. |
-| [[sompo]] (Sompo Japan) | Business alliance with Daido; complement as much as competitor. |
+| [[non-life-insurers/tokio-marine]] (Tokio Marine & Nichido) | Nationwide major; strong with corporates and large-scale risks. |
+| [[non-life-insurers/msad]] (MS&AD) | Local presence through Aioi Nissay Dowa and related units. |
+| [[non-life-insurers/sompo]] (Sompo Japan) | Business alliance with Daido; complement as much as competitor. |
 
 ### Disaster risk management
 
@@ -114,9 +114,9 @@ Daido Fire and Marine Insurance (head office: Naha)
 
 ## Related
 
-- [[sompo]] ? alliance partner and one of the three major non-life groups.
-- [[tokio-marine]] ? competitor and one of the three major non-life groups.
-- [[msad]] ? competitor and one of the three major non-life groups.
+- [[non-life-insurers/sompo]] ? alliance partner and one of the three major non-life groups.
+- [[non-life-insurers/tokio-marine]] ? competitor and one of the three major non-life groups.
+- [[non-life-insurers/msad]] ? competitor and one of the three major non-life groups.
 - Okinawa regional banks: Bank of Okinawa, Ryukyu Bank, and Okinawa Kaiho Bank.
 - [[insurance/natcat-reinsurance-japan]] ? typhoon reinsurance structure, if the wiki route exists.
 

@@ -15,7 +15,7 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 
 ## TL;DR
 
-The **insurance-business intermediate holding company** of [[sbi-hd]]. Established in **2017-04 **, it is a platform for direct online insurance businesses. Its subsidiaries include **SBI Insurance** (mainly auto insurance), **SBI Life Insurance** (former PCA Life; term death + medical), **SBI Ikiiki Small-Amount Short-Term Insurance** (for seniors), and **SBI Resta Small-Amount Short-Term Insurance** (earthquake-expense insurance). The group strategy is a "**Japan version of the US Geico / Progressive model**" = low-price direct model + **cross-selling** with SBI Securities, [[sbi-shinsei-bank]], and SBI Sumishin Net Bank. Listed on TSE Mothers in 2017-09  -> taken private again through full subsidiary conversion by SBI HD in 2023-09  (TOB squeeze-out). ^[extracted]
+The **insurance-business intermediate holding company** of [[megabanks/sbi-hd]]. Established in **2017-04 **, it is a platform for direct online insurance businesses. Its subsidiaries include **SBI Insurance** (mainly auto insurance), **SBI Life Insurance** (former PCA Life; term death + medical), **SBI Ikiiki Small-Amount Short-Term Insurance** (for seniors), and **SBI Resta Small-Amount Short-Term Insurance** (earthquake-expense insurance). The group strategy is a "**Japan version of the US Geico / Progressive model**" = low-price direct model + **cross-selling** with SBI Securities, [[regional-banks/sbi-shinsei-bank]], and SBI Sumishin Net Bank. Listed on TSE Mothers in 2017-09  -> taken private again through full subsidiary conversion by SBI HD in 2023-09  (TOB squeeze-out). ^[extracted]
 
 ## 1. Company profile
 
@@ -23,8 +23,8 @@ The **insurance-business intermediate holding company** of [[sbi-hd]]. Establish
 **English name**: SBI Insurance Group Co., Ltd.
 **Established**: 2017-04-03 (as SBI HD's insurance-business controlling company) ^[extracted]
 **Head office**: Izumi Garden Tower, 1-6-1 Roppongi, Minato-ku, Tokyo (same location as SBI HD) ^[extracted]
-**Parent company**: [[sbi-hd]] (100% wholly owned subsidiary) ^[extracted]
-**Listing history**: Listed on TSE Mothers in 2018-09-27 -> moved to the **TSE Growth Market** in the 2022-04  TSE market restructuring (securities code 7326, **still listed**). [[sbi-hd]] holds it as a consolidated subsidiary (voting-right ratio **59.67%** as of 2025-03-31; full subsidiary conversion has not been implemented)
+**Parent company**: [[megabanks/sbi-hd]] (100% wholly owned subsidiary) ^[extracted]
+**Listing history**: Listed on TSE Mothers in 2018-09-27 -> moved to the **TSE Growth Market** in the 2022-04  TSE market restructuring (securities code 7326, **still listed**). [[megabanks/sbi-hd]] holds it as a consolidated subsidiary (voting-right ratio **59.67%** as of 2025-03-31; full subsidiary conversion has not been implemented)
 **Business type**: Insurance holding company (holding small-amount short-term insurers + controlling non-life and life insurance subsidiaries)
 
 ### Main subsidiaries
@@ -71,23 +71,23 @@ SBI HD (holding company, listed 8473)
 
 - **Direct online insurance** (direct model) = eliminate agency costs -> low-price appeal
 - **US Geico / Progressive model**: use auto insurance as the starting point for multi-product cross-sell
-- **SBI economic-zone cross-sell**: share the customer base of SBI Securities 1300 万 accounts + SBI Sumishin Net Bank + [[sbi-shinsei-bank]]
+- **SBI economic-zone cross-sell**: share the customer base of SBI Securities 1300 万 accounts + SBI Sumishin Net Bank + [[regional-banks/sbi-shinsei-bank]]
 - Cover the full life cycle with 4  product groups (non-life + life + senior SSI + earthquake SSI)
 
 ### Alliance / acquisition strategy
 
-- **Full subsidiary conversion** (2023-09): reduce listing-maintenance costs + speed up management decisions + operate the [[sbi-hd]] economic zone as one unit
+- **Full subsidiary conversion** (2023-09): reduce listing-maintenance costs + speed up management decisions + operate the [[megabanks/sbi-hd]] economic zone as one unit
 - **Coordination within the SBI economic zone**: synergy design such as insurance proposals when opening securities accounts and bundled fire insurance with Shinsei Bank loan contracts
 
 ### Competitors
 
 | Category | Competitor | Notes |
 |---|---|---|
-| Direct online life | [[lifenet]] | Industry pioneer, SBI Life's largest rival |
-| Direct online non-life (auto) | [[axa-japan]] AXA Direct | One of the largest direct auto insurers |
-| Direct online non-life (auto) | [[sony-fg]] Sony Assurance | Largest direct non-life insurer |
-| Foreign direct non-life | [[zurich-japan]] Zurich | Direct auto / medical |
-| Cross-industry online non-life | [[rakuten-fg]] Rakuten General Insurance | Rakuten economic-zone base, similar structure |
+| Direct online life | [[life-insurers/lifenet]] | Industry pioneer, SBI Life's largest rival |
+| Direct online non-life (auto) | [[life-insurers/axa-japan]] AXA Direct | One of the largest direct auto insurers |
+| Direct online non-life (auto) | [[megabanks/sony-fg]] Sony Assurance | Largest direct non-life insurer |
+| Foreign direct non-life | [[non-life-insurers/zurich-japan]] Zurich | Direct auto / medical |
+| Cross-industry online non-life | [[payment-firms/rakuten-fg]] Rakuten General Insurance | Rakuten economic-zone base, similar structure |
 | Small-amount short-term (senior / earthquake) | Various SSI companies | Fragmented market |
 
 ## 4. Regulation / policy
@@ -101,7 +101,7 @@ SBI HD (holding company, listed 8473)
 
 ## Related
 
-- [[sbi-hd]] (parent company) · [[sbi-shinsei-bank]] · [[lifenet]] · [[axa-japan]] · [[sony-fg]] · [[zurich-japan]] · [[rakuten-fg]] · [[prudential-japan]]
+- [[megabanks/sbi-hd]] (parent company) · [[regional-banks/sbi-shinsei-bank]] · [[life-insurers/lifenet]] · [[life-insurers/axa-japan]] · [[megabanks/sony-fg]] · [[non-life-insurers/zurich-japan]] · [[payment-firms/rakuten-fg]] · [[life-insurers/prudential-japan]]
 
 ## Sources
 
@@ -109,7 +109,7 @@ SBI HD (holding company, listed 8473)
 - **Wikipedia: SBI Insurance** (extracted 2026-05-19)
 - **Wikipedia: SBI Life Insurance** (extracted 2026-05-19; former PCA Life renaming confirmed 2015-04 )
 - SBI HD official / insurance-business IR (extracted 2026-05-19)
-- **SBI Insurance Group IR stock information** (https://www.sbiig.co.jp/ir/stock/information.html, referenced 2026-05-29) -- confirmed securities code 7326, TSE Growth Market, and continuing listing (2018-09-27 Mothers listing -> 2022-04  Growth migration; [[sbi-hd]] voting rights 59.67% as of 2025-03-31)
+- **SBI Insurance Group IR stock information** (https://www.sbiig.co.jp/ir/stock/information.html, referenced 2026-05-29) -- confirmed securities code 7326, TSE Growth Market, and continuing listing (2018-09-27 Mothers listing -> 2022-04  Growth migration; [[megabanks/sbi-hd]] voting rights 59.67% as of 2025-03-31)
 
 ---
 

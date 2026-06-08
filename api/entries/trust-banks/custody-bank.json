@@ -52,36 +52,34 @@
     "競合・国内 2 強体制"
   ],
   "body_links": {
-    "wikilinks_count": 9,
+    "wikilinks_count": 8,
     "wikilinks": [
       "banking/INDEX",
-      "dai-ichi-life",
-      "master-trust-bank",
-      "mizuho-fg",
-      "mufg",
-      "nippon-life",
-      "sumitomo-mitsui-trust",
+      "life-insurers/dai-ichi-life",
+      "life-insurers/nippon-life",
+      "megabanks/mizuho-fg",
+      "megabanks/mufg",
       "trust-banks/INDEX",
-      "trust-banks/master-trust-bank"
+      "trust-banks/master-trust-bank",
+      "trust-banks/sumitomo-mitsui-trust"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/dai-ichi-life",
-      "https://finwiki.zksc.io/master-trust-bank",
-      "https://finwiki.zksc.io/mizuho-fg",
-      "https://finwiki.zksc.io/mufg",
-      "https://finwiki.zksc.io/nippon-life",
-      "https://finwiki.zksc.io/sumitomo-mitsui-trust",
+      "https://finwiki.zksc.io/life-insurers/dai-ichi-life",
+      "https://finwiki.zksc.io/life-insurers/nippon-life",
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/mufg",
       "https://finwiki.zksc.io/trust-banks/INDEX",
-      "https://finwiki.zksc.io/trust-banks/master-trust-bank"
+      "https://finwiki.zksc.io/trust-banks/master-trust-bank",
+      "https://finwiki.zksc.io/trust-banks/sumitomo-mitsui-trust"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5223,
-    "word_like_tokens": 902,
-    "inbound_wikilinks_count": 21,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 5605,
+    "word_like_tokens": 956,
+    "inbound_wikilinks_count": 22,
+    "last_modified": "2026-06-08"
   }
 }

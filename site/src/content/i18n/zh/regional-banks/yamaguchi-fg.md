@@ -15,7 +15,7 @@ translated_at: 2026-06-01T02:31:57.173Z
 
 ## TL;DR
 
-YMFG 是以中国地方西部 + 北九州为地盘的广域地方银行集团。2006-10-02 山口银行通过单独股份转移控股公司化而成立，之后加入 [[momiji-bank|もみじ銀行]]、[[kitakyushu-bank|北九州銀行]]，形成 **3 行体制**（山口银行 / 红叶银行 / 北九州银行），这是单一地银起源 FG 中少见的结构。它代表了山阳・关门海峡经济圈（山口 + 广岛 + 北九州）的广域联合，以及与横滨银行（Concordia）的域外合作 2  轴。也是跨县地银整合和“3 行 3 品牌”模式的代表例。
+YMFG 是以中国地方西部 + 北九州为地盘的广域地方银行集团。2006-10-02 山口银行通过单独股份转移控股公司化而成立，之后加入 [[regional-banks/momiji-bank|もみじ銀行]]、[[regional-banks/kitakyushu-bank|北九州銀行]]，形成 **3 行体制**（山口银行 / 红叶银行 / 北九州银行），这是单一地银起源 FG 中少见的结构。它代表了山阳・关门海峡经济圈（山口 + 广岛 + 北九州）的广域联合，以及与横滨银行（Concordia）的域外合作 2  轴。也是跨县地银整合和“3 行 3 品牌”模式的代表例。
 
 ## 1. 公司概要
 
@@ -31,12 +31,12 @@ YMFG 是以中国地方西部 + 北九州为地盘的广域地方银行集团。
 YMFG（控股公司・上市 8418）
   ├── 山口银行（100%）── 山口县地盘、集团母体、总部下关
   │     └── 山口县内份额压倒性，也在关门、福冈北部设有门店
-  ├── 红叶银行（100%）── [[momiji-bank]] / 广岛县地盘，2001 进入山口银行系列 → 2006 进入 FG
+  ├── 红叶银行（100%）── [[regional-banks/momiji-bank]] / 广岛县地盘，2001 进入山口银行系列 → 2006 进入 FG
   │     └── 旧广岛综合银行 + 濑户内银行整合形成的第二地银
-  ├── 北九州银行（100%）── [[kitakyushu-bank]] / 2011-10 设立，北九州市地盘（山口银行北九州支店分离独立）
+  ├── 北九州银行（100%）── [[regional-banks/kitakyushu-bank]] / 2011-10 设立，北九州市地盘（山口银行北九州支店分离独立）
   │     └── 以独立品牌经营福冈县北九州地区
   ├── YM Career（100%）── 人才介绍和派遣
-  ├── YM Securities（100%）── 集团证券（曾与 [[saikyo-bank|西京銀行]] 合资后解除）
+  ├── YM Securities（100%）── 集团证券（曾与 [[regional-banks/saikyo-bank|西京銀行]] 合资后解除）
   └── 数据和服务子公司等
 ```
 
@@ -66,8 +66,8 @@ YMFG（控股公司・上市 8418）
 | Segment | 主要运营方 | 特点 |
 |---|---|---|
 | 核心地盘（山口） | 山口银行 | 山口县内份额压倒性，也覆盖关门和福冈北部 |
-| 地盘（广岛） | [[momiji-bank|もみじ銀行]] | 广岛县第二地银位置，濑户内沿岸 |
-| 地盘（北九州） | [[kitakyushu-bank|北九州銀行]] | 福冈县北九州地区独立品牌，2011 新设 |
+| 地盘（广岛） | [[regional-banks/momiji-bank|もみじ銀行]] | 广岛县第二地银位置，濑户内沿岸 |
+| 地盘（北九州） | [[regional-banks/kitakyushu-bank|北九州銀行]] | 福冈县北九州地区独立品牌，2011 新设 |
 | 证券 | YM Securities | 集团证券 |
 | 人才 | YM Career | 人才介绍和派遣 |
 | 域外合作 | 横滨银行（Concordia） | 2021起业务合作提携 |
@@ -75,7 +75,7 @@ YMFG（控股公司・上市 8418）
 ### “YMFG ZONE Planning”3 行体制
 
 - 维持山口银行 / 红叶银行 / 北九州银行的 **3 品牌并立**。战略不是合并集约，而是保留各地区客户接点品牌
-- 是跨县地银整合的代表例，在福冈县内与 [[fukuoka-fg]]（[[fukuoka-bank|福岡銀行]]・[[kumamoto-bank|熊本銀行]]・[[18-shinwa-bank|十八親和銀行]]・Minna Bank）形成地域竞争关系
+- 是跨县地银整合的代表例，在福冈县内与 [[regional-banks/fukuoka-fg]]（[[regional-banks/fukuoka-bank|福岡銀行]]・[[regional-banks/kumamoto-bank|熊本銀行]]・[[regional-banks/18-shinwa-bank|十八親和銀行]]・Minna Bank）形成地域竞争关系
 - 由 1 个 FG 单独持有 3 行 的结构，与其他许多 2 行体制或县内单一型地银 FG 相比十分少见
 
 ### 山阳・关门海峡经济圈
@@ -106,8 +106,8 @@ YMFG（控股公司・上市 8418）
 
 ## Related
 
-- [[fukuoka-fg]] ? [[mufg]] ? [[smfg]] ? [[mizuho-fg]] ? [[resona-hd]]
-- 中国地方地银: 广岛银行（Hirogin HD）? 中国银行 ? [[saikyo-bank|西京銀行]]
+- [[regional-banks/fukuoka-fg]] ? [[megabanks/mufg]] ? [[megabanks/smfg]] ? [[megabanks/mizuho-fg]] ? [[megabanks/resona-hd]]
+- 中国地方地银: 广岛银行（Hirogin HD）? 中国银行 ? [[regional-banks/saikyo-bank|西京銀行]]
 - 地银重组・域外合作: 横滨银行（Concordia FG）
 
 ## Sources

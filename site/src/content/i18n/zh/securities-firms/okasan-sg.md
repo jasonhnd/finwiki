@@ -15,7 +15,7 @@ translated_at: 2026-06-01T00:41:50.472Z
 
 ## TL;DR
 
-冈三证券集团是中型独立证券控股公司（东证 PRIME **8609**）。1923 年 加藤精一在名古屋以冈三商店创业，1944  公司化，2009-04  转为控股公司。其定位是继 **5  大证券公司（[[ndfg]] 野村 / 大和 / SMBC 日兴 / Mizuho Securities / MUMSS）之后的独立中坚证券集团**。战略上结合中京经济圈（名古屋、三重起源）的强面对面零售基础与网络证券（Okasan Online）。主要竞争对手包括同为中京系的 Tokai Tokyo FH，以及网络系 [[monex-group]] / Matsui Securities。^[extracted]
+冈三证券集团是中型独立证券控股公司（东证 PRIME **8609**）。1923 年 加藤精一在名古屋以冈三商店创业，1944  公司化，2009-04  转为控股公司。其定位是继 **5  大证券公司（[[megabanks/ndfg]] 野村 / 大和 / SMBC 日兴 / Mizuho Securities / MUMSS）之后的独立中坚证券集团**。战略上结合中京经济圈（名古屋、三重起源）的强面对面零售基础与网络证券（Okasan Online）。主要竞争对手包括同为中京系的 Tokai Tokyo FH，以及网络系 [[securities-firms/monex-group]] / Matsui Securities。^[extracted]
 
 ## 1. 公司概要
 
@@ -70,7 +70,7 @@ translated_at: 2026-06-01T00:41:50.472Z
 
 ### 中坚独立定位
 
-- 行业位置：继 **5  大证券（[[ndfg]] Nomura HD / Daiwa Securities G / SMBC Nikko / Mizuho Securities / Mitsubishi UFJ Morgan Stanley Securities）之后的中坚独立证券** ^[extracted]
+- 行业位置：继 **5  大证券（[[megabanks/ndfg]] Nomura HD / Daiwa Securities G / SMBC Nikko / Mizuho Securities / Mitsubishi UFJ Morgan Stanley Securities）之后的中坚独立证券** ^[extracted]
 - “不属于 megabank 集团的独立系”是区别于其他准大型中坚证券的关键轴。
 
 ### 面对面 × 网络混合战略
@@ -83,7 +83,7 @@ translated_at: 2026-06-01T00:41:50.472Z
 ### 主要竞争对手
 
 - **Matsui Securities**（网络证券先驱）
-- **[[monex-group]] Monex Group**（网络证券 / 全球）
+- **[[securities-firms/monex-group]] Monex Group**（网络证券 / 全球）
 - **SBI HD** 集团系证券（线上最大）
 
 ## 4. 监管与政策
@@ -99,7 +99,7 @@ translated_at: 2026-06-01T00:41:50.472Z
 
 ## Related
 
-- [[ndfg]] · [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[monex-group]]
+- [[megabanks/ndfg]] · [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[securities-firms/monex-group]]
 
 ## Sources
 

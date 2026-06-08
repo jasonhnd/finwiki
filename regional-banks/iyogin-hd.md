@@ -23,7 +23,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-愛媛県を地盤とする四国最大級地銀グループ。2022-10-03 伊予銀行の単独株式移転で持株会社化、東証 PRIME 5830 で上場。中核子会社の**[[iyo-bank|伊予銀行]]**は 1878 年「第二十九国立銀行」(松山) として設立された四国で最古級の銀行で、愛媛県内シェア No.1。今治造船を中心とした**海運・造船クラスター向け融資**が特色。四国 4 県では [[tomony-hd]] (徳島・香川) / [[hyakujushi-bank|百十四銀]] (香川) / [[shikoku-bank|四国銀]] (高知) と競合する。
+愛媛県を地盤とする四国最大級地銀グループ。2022-10-03 伊予銀行の単独株式移転で持株会社化、東証 PRIME 5830 で上場。中核子会社の**[[regional-banks/iyo-bank|伊予銀行]]**は 1878 年「第二十九国立銀行」(松山) として設立された四国で最古級の銀行で、愛媛県内シェア No.1。今治造船を中心とした**海運・造船クラスター向け融資**が特色。四国 4 県では [[regional-banks/tomony-hd]] (徳島・香川) / [[regional-banks/hyakujushi-bank|百十四銀]] (香川) / [[regional-banks/shikoku-bank|四国銀]] (高知) と競合する。
 
 ## 1. 会社概要
 
@@ -38,7 +38,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ```
 いよぎん HD (持株会社・上場 5830)
-  ├── 株式会社伊予銀行 (100%) ── [[iyo-bank]] / 中核子会社・愛媛県シェア No.1
+  ├── 株式会社伊予銀行 (100%) ── [[regional-banks/iyo-bank]] / 中核子会社・愛媛県シェア No.1
   ├── いよぎんリース
   ├── いよぎんビジネスサービス
   ├── いよぎんコンピュータサービス
@@ -62,8 +62,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
-| 商業銀行 | [[iyo-bank|伊予銀行]] | 愛媛県内圧倒的シェア・四国全域展開 |
-| 海運・造船融資 | [[iyo-bank|伊予銀行]]法人部門 | **今治造船グループ**等への融資、海事クラスター金融 |
+| 商業銀行 | [[regional-banks/iyo-bank|伊予銀行]] | 愛媛県内圧倒的シェア・四国全域展開 |
+| 海運・造船融資 | [[regional-banks/iyo-bank|伊予銀行]]法人部門 | **今治造船グループ**等への融資、海事クラスター金融 |
 | リース | いよぎんリース | 法人設備投資ファイナンス |
 | カード | いよぎん DC カード | リテール決済 |
 | シンクタンク | いよぎん地域経済研究センター (IRC) | 愛媛・四国経済調査 |
@@ -85,12 +85,12 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 | 県 | 主要地銀 | 持株会社 |
 |---|---|---|
-| 愛媛 | **[[iyo-bank|伊予銀行]]** / [[ehime-bank|愛媛銀行]] | **いよぎん HD** / standalone second-regional |
-| 徳島 | [[awa-bank|阿波銀行]] / [[tokushima-taisho-bank|徳島大正銀行]] | standalone / [[tomony-hd]] |
-| 香川 | [[hyakujushi-bank|百十四銀行]] / [[kagawa-bank|香川銀行]] | standalone / [[tomony-hd]] |
-| 高知 | [[shikoku-bank|四国銀行]] / [[kochi-bank|高知銀行]] | standalone / standalone |
+| 愛媛 | **[[regional-banks/iyo-bank|伊予銀行]]** / [[regional-banks/ehime-bank|愛媛銀行]] | **いよぎん HD** / standalone second-regional |
+| 徳島 | [[regional-banks/awa-bank|阿波銀行]] / [[regional-banks/tokushima-taisho-bank|徳島大正銀行]] | standalone / [[regional-banks/tomony-hd]] |
+| 香川 | [[regional-banks/hyakujushi-bank|百十四銀行]] / [[regional-banks/kagawa-bank|香川銀行]] | standalone / [[regional-banks/tomony-hd]] |
+| 高知 | [[regional-banks/shikoku-bank|四国銀行]] / [[regional-banks/kochi-bank|高知銀行]] | standalone / standalone |
 
-四国地銀再編は他県で進行 ([[tomony-hd]] = トモニホールディングスは香川・徳島の連合) するが、伊予銀は単独 HD 化で独立路線を選択。
+四国地銀再編は他県で進行 ([[regional-banks/tomony-hd]] = トモニホールディングスは香川・徳島の連合) するが、伊予銀は単独 HD 化で独立路線を選択。
 
 ## 5. 規制・政策
 
@@ -103,7 +103,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## Related
 
-- [[iyo-bank]] · [[ehime-bank]] · [[tomony-hd]] · [[awa-bank]] · [[hyakujushi-bank]] · [[shikoku-bank]]
+- [[regional-banks/iyo-bank]] · [[regional-banks/ehime-bank]] · [[regional-banks/tomony-hd]] · [[regional-banks/awa-bank]] · [[regional-banks/hyakujushi-bank]] · [[regional-banks/shikoku-bank]]
 
 ## Sources
 

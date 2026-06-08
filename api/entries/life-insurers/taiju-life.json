@@ -51,34 +51,34 @@
   "body_links": {
     "wikilinks_count": 9,
     "wikilinks": [
-      "asahi-life",
-      "fukoku-life",
       "insurance/INDEX",
       "insurance/mutual-vs-stock-life-insurer",
       "life-insurers/INDEX",
+      "life-insurers/asahi-life",
+      "life-insurers/fukoku-life",
       "life-insurers/hanasaku-life",
-      "meiji-yasuda",
-      "nippon-life",
-      "sumitomo-life"
+      "life-insurers/meiji-yasuda",
+      "life-insurers/nippon-life",
+      "life-insurers/sumitomo-life"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/asahi-life",
-      "https://finwiki.zksc.io/fukoku-life",
       "https://finwiki.zksc.io/insurance/INDEX",
       "https://finwiki.zksc.io/insurance/mutual-vs-stock-life-insurer",
       "https://finwiki.zksc.io/life-insurers/INDEX",
+      "https://finwiki.zksc.io/life-insurers/asahi-life",
+      "https://finwiki.zksc.io/life-insurers/fukoku-life",
       "https://finwiki.zksc.io/life-insurers/hanasaku-life",
-      "https://finwiki.zksc.io/meiji-yasuda",
-      "https://finwiki.zksc.io/nippon-life",
-      "https://finwiki.zksc.io/sumitomo-life"
+      "https://finwiki.zksc.io/life-insurers/meiji-yasuda",
+      "https://finwiki.zksc.io/life-insurers/nippon-life",
+      "https://finwiki.zksc.io/life-insurers/sumitomo-life"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1970,
-    "word_like_tokens": 302,
+    "nonspace_chars": 2096,
+    "word_like_tokens": 320,
     "inbound_wikilinks_count": 2,
-    "last_modified": "2026-06-06"
+    "last_modified": "2026-06-08"
   }
 }

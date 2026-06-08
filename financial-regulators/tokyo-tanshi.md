@@ -40,8 +40,8 @@ This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]].
 
 | 社名 | 略称 | 創業 | 特徴 |
 |---|---|---|---|
-| [[central-tanshi]] | セントラル短資 | 1909 | 旧 山根短資 + 上田短資 系統、業界最大手とされる |
-| [[ueda-yagi-tanshi]] | 上田八木短資 | 1956（合併） | 旧 上田短資 + 八木短資 合併、関西系資本 |
+| [[financial-regulators/central-tanshi]] | セントラル短資 | 1909 | 旧 山根短資 + 上田短資 系統、業界最大手とされる |
+| [[financial-regulators/ueda-yagi-tanshi]] | 上田八木短資 | 1956（合併） | 旧 上田短資 + 八木短資 合併、関西系資本 |
 | **東京短資** | TT | **1908-09** | **最古参、法人 FX ブローカレッジ強化** |
 
 ## 2. 事業セグメント・マップ
@@ -84,8 +84,8 @@ This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]].
 
 ## Related
 
-- [[central-tanshi]] · [[ueda-yagi-tanshi]] — 3 大短資の他 2 社
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] — 主要顧客（メガバンク）
+- [[financial-regulators/central-tanshi]] · [[financial-regulators/ueda-yagi-tanshi]] — 3 大短資の他 2 社
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] — 主要顧客（メガバンク）
 - [[financial-regulators/boj-monetary-policy]] — 日銀政策金利・コール市場との関係
 - [[money-market/call-market-structure]] — コール市場制度
 

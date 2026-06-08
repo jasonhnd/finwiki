@@ -16,7 +16,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-Shimizu Bank, Ltd. is a regional bank with its head office in Shizuoka Prefecture listed on the Financial Services Agency's list of bank licenses. It is not affiliated with [[shizuoka-fg]], and is organized as an independent regional-bank operating-company page on the wiki.
+Shimizu Bank, Ltd. is a regional bank with its head office in Shizuoka Prefecture listed on the Financial Services Agency's list of bank licenses. It is not affiliated with [[regional-banks/shizuoka-fg]], and is organized as an independent regional-bank operating-company page on the wiki.
 
 ## 1. License / group boundary
 
@@ -24,13 +24,13 @@ Shimizu Bank, Ltd. is a regional bank with its head office in Shizuoka Prefectur
 |---|---|
 | Legal name | Shimizu Bank, Ltd. |
 | License route | Banking Act regional bank; FSA bank license list |
-| Group boundary | Independent regional bank; SBI alliance context should be read with [[sbi-regional-bank-hd]] |
+| Group boundary | Independent regional bank; SBI alliance context should be read with [[megabanks/sbi-regional-bank-hd]] |
 | Home market | Shizuoka / Shizuoka City, Shimizu area |
 | Wiki role | Shizuoka independent regional-bank operating-company page |
 
 ## 2. Operating model
 
-Shimizu Bank is a regional bank that is responsible for retail deposits, SME finance, local business support, and regional relationship banking, mainly in the central-eastern part of Shizuoka Prefecture. It coexists in the same prefectural market as [[shizuoka-bank]] and [[suruga-bank]], but the license and governance boundary is a separate corporation.
+Shimizu Bank is a regional bank that is responsible for retail deposits, SME finance, local business support, and regional relationship banking, mainly in the central-eastern part of Shizuoka Prefecture. It coexists in the same prefectural market as [[regional-banks/shizuoka-bank]] and [[regional-banks/suruga-bank]], but the license and governance boundary is a separate corporation.
 
 ## 3. Why this page matters
 
@@ -40,11 +40,11 @@ Shimizu Bank is a regional bank that is responsible for retail deposits, SME fin
 
 ## Related
 
--[[shizuoka-bank]]
--[[shizuoka-fg]]
--[[suruga-bank]]
--[[shizuoka-chuo-bank]]
--[[sbi-regional-bank-hd]]
+-[[regional-banks/shizuoka-bank]]
+-[[regional-banks/shizuoka-fg]]
+-[[regional-banks/suruga-bank]]
+-[[regional-banks/shizuoka-chuo-bank]]
+-[[megabanks/sbi-regional-bank-hd]]
 -[[banking/regional-bank-consolidation-pattern]]
 -[[banking/INDEX]]
 

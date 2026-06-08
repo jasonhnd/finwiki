@@ -37,12 +37,12 @@ This gap has been raised periodically in policy dialogue — including in METI /
 ## 推論 (from 3. Known and inferred Japanese-group captives)
 
 | Mitsubishi group ([[mitsubishi-corporation|Mitsubishi Corporation]], MUFG, etc.) | Bermuda / Singapore captive(s) ^[inferred] | Sōgō shōsha with global exposure; captive(s) for cargo, marine, property, liability |
-| Mitsui group ([[mitsui-co|Mitsui & Co.]], etc.) | Bermuda / Singapore captive(s) ^[inferred] | Sōgō shōsha; similar profile to Mitsubishi |
+| Mitsui group ([[financial-conglomerates/mitsui-co|Mitsui & Co.]], etc.) | Bermuda / Singapore captive(s) ^[inferred] | Sōgō shōsha; similar profile to Mitsubishi |
 | Toyota group ([[toyota-fs|Toyota Financial Services]], TMC) | Hawaii / Bermuda captive(s) ^[inferred] | Automotive, manufacturing, mobility risk; "Toyota Motor Insurance Services" Hawaii captive widely cited in captive-market commentary |
 | Hitachi group | Singapore / Bermuda captive(s) ^[inferred] | Diversified manufacturing, IT, energy infra |
 | Nissan group | Bermuda / Hawaii captive(s) ^[inferred] | Automotive (parallel to Toyota model) |
 | Sony group | Singapore / Bermuda captive(s) ^[inferred] | Electronics, entertainment, financial services |
-| NYK / MOL / "K" Line shipping ([[nippon-yusen|NYK]], [[mitsui-osk-lines|MOL]]) | Singapore / Bermuda captive(s) ^[inferred] | Marine and shipping risk financing in combination with [[JapanFG/japan-pi-club|Japan P&I Club]] cover |
+| NYK / MOL / "K" Line shipping ([[nippon-yusen|NYK]], [[mitsui-osk-lines|MOL]]) | Singapore / Bermuda captive(s) ^[inferred] | Marine and shipping risk financing in combination with [[financial-regulators/japan-pi-club|Japan P&I Club]] cover |
 | Itochu / Marubeni / Sumitomo Corporation (sōgō shōsha) | Bermuda / Singapore captive(s) ^[inferred] | Same shōsha pattern as Mitsubishi / Mitsui |
 | Major utility / energy groups | Singapore / Bermuda captive(s) ^[inferred] | Power generation, LNG, refinery property / liability |
 | Major construction groups | Bermuda / Singapore captive(s) ^[inferred] | Project / construction-all-risks |
@@ -75,7 +75,7 @@ The combination of CFC rules and Pillar Two means a Japanese-parented captive is
 | **Rent-a-captive (ROC)** | Rent a cell for entry-level captive | Some Japan mid-corporate use ^[inferred] |
 | **Reinsurance captive (RTC)** | Captive reinsures fronting insurer | Standard for Japan-located risk ^[inferred] |
 | **Finite reinsurance / structured reinsurance** | Multi-year smoothing of underwriting result | Used by Japanese insurers via Hannover Re, Swiss Re ^[inferred] — see [[insurance/foreign-reinsurer-japan-landscape]] |
-| **Insurance-Linked Securities (ILS) / catastrophe bonds** | Capital markets absorb peak Japan EQ / typhoon risk | Several Japan-peril cat bonds outstanding; sponsored by [[JapanFG/munich-re-japan|Munich Re]], [[JapanFG/swiss-re-japan|Swiss Re]], 大手3社 ^[inferred] |
+| **Insurance-Linked Securities (ILS) / catastrophe bonds** | Capital markets absorb peak Japan EQ / typhoon risk | Several Japan-peril cat bonds outstanding; sponsored by [[non-life-insurers/munich-re-japan|Munich Re]], [[non-life-insurers/swiss-re-japan|Swiss Re]], 大手3社 ^[inferred] |
 | **Industry-loss warranties (ILW)** | Trigger-based payment on industry-wide loss | Niche; Japan typhoon / EQ ILWs trade in London / Bermuda ^[inferred] |
 | **Parametric insurance** | Trigger-based payment on objective parameter (wind speed, magnitude) | Public-sector parametric (Swiss Re Public Sector Solutions) ^[inferred] |
 | **Sidecar** | Quota-share investment vehicle for reinsurer | Reinsurer-side instrument; some Japan exposure via parent reinsurers ^[inferred] |

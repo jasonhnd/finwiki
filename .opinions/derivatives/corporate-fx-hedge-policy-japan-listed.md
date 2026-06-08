@@ -15,7 +15,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 - **Hedge accounting noise**: even with hedge accounting designation, ineffective portions still flow through P&L. Aggressive structured hedges (e.g., knock-out forwards) often fail effectiveness tests and create unwanted P&L volatility.
 - **Carry vs protection trade-off**: forward points reflect interest-rate differentials, so hedging long-dollar exposure can mean accepting forward-implied JPY appreciation. In a steep [[derivatives/ois-tona-curve|OIS-TONA curve]] vs [[derivatives/cross-currency-basis-swap-japan|cross-currency basis]] environment, hedging cost can be material.
 - **Hedge ratio inertia**: many corporates anchor on past ratios rather than re-optimizing as exposures change. This is a recurring audit-committee question.
-- **Counterparty concentration**: a typical Japan listed corp runs most FX hedging through 2-4 banks, normally a mix of [[JapanFG/mufg-bank|MUFG Bank]], [[JapanFG/sumitomo-mitsui-banking-corp|Sumitomo Mitsui Banking Corp]], and [[JapanFG/mizuho-bank|Mizuho Bank]] plus possibly one foreign dealer. Concentration limits are usually set in policy.
+- **Counterparty concentration**: a typical Japan listed corp runs most FX hedging through 2-4 banks, normally a mix of [[megabanks/mufg-bank|MUFG Bank]], [[megabanks/sumitomo-mitsui-banking-corp|Sumitomo Mitsui Banking Corp]], and [[megabanks/mizuho-bank|Mizuho Bank]] plus possibly one foreign dealer. Concentration limits are usually set in policy.
 
 ## Open questions
 

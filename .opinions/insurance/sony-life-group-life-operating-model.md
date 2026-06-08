@@ -20,8 +20,8 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## Open questions
 
-- How does Lifeplanner per-producer productivity compare with [[JapanFG/prudential-japan|Prudential Japan / Gibraltar Life]] and [[JapanFG/metlife-japan|MetLife Japan]] foreign-affiliate Lifeplanner-style channels covered in [[insurance/foreign-life-affiliate-japan-positioning|foreign-life affiliates positioning]]?
+- How does Lifeplanner per-producer productivity compare with [[life-insurers/prudential-japan|Prudential Japan / Gibraltar Life]] and [[life-insurers/metlife-japan|MetLife Japan]] foreign-affiliate Lifeplanner-style channels covered in [[insurance/foreign-life-affiliate-japan-positioning|foreign-life affiliates positioning]]?
 - What share of Sony Life new-business APE comes from foreign-currency products, and how does that interact with ESR sensitivity under the [[insurance/economic-value-based-solvency|economic-value solvency]] regime?
-- How does the absence of a standalone listed equity for Sony FG affect the market-discipline pressure on Sony Life's capital and dividend up-streaming, relative to [[JapanFG/dai-ichi-life|Dai-ichi Life]] as a listed peer?
+- How does the absence of a standalone listed equity for Sony FG affect the market-discipline pressure on Sony Life's capital and dividend up-streaming, relative to [[life-insurers/dai-ichi-life|Dai-ichi Life]] as a listed peer?
 - How is the group-life channel performing as enterprise-HR buyers re-evaluate insurance benefits under wage-inflation and labour-mobility pressure?
 - How is Sony Life's ICS reporting positioned if Sony FG / Sony Life is treated as part of a designated IAIG perimeter? See [[insurance/japan-iaig-ics-mapping|Japan IAIG-ICS mapping]].

@@ -16,7 +16,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-Kumamoto Bank, Ltd. is a second-tier regional bank headquartered in Kumamoto Prefecture and listed on the FSA bank license list. It is the Kumamoto operating bank under [[fukuoka-fg]] and is treated as a separate corporate peer from [[higo-bank]].
+Kumamoto Bank, Ltd. is a second-tier regional bank headquartered in Kumamoto Prefecture and listed on the FSA bank license list. It is the Kumamoto operating bank under [[regional-banks/fukuoka-fg]] and is treated as a separate corporate peer from [[regional-banks/higo-bank]].
 
 ## 1. License / Group Boundary
 
@@ -24,26 +24,26 @@ Kumamoto Bank, Ltd. is a second-tier regional bank headquartered in Kumamoto Pre
 |---|---|
 | Legal name | Kumamoto Bank, Ltd. |
 | License route | Banking Act second regional bank; FSA bank license list |
-| Group boundary | [[fukuoka-fg]] group bank |
+| Group boundary | [[regional-banks/fukuoka-fg]] group bank |
 | Home market | Kumamoto / Kumamoto City |
 | Wiki role | Kumamoto second-regional-bank operating-company page |
 
 ## 2. Operating Model
 
-Kumamoto Bank is a second regional bank responsible for retail deposits, SME finance, consumer banking, and FFG group distribution in Kumamoto Prefecture. The [[higo-bank]] page covers the Kyushu FG core-bank boundary, while this page covers the FFG-side Kumamoto license boundary. For Kyushu regional-bank consolidation context, see [[banking/regional-bank-consolidation-pattern]].
+Kumamoto Bank is a second regional bank responsible for retail deposits, SME finance, consumer banking, and FFG group distribution in Kumamoto Prefecture. The [[regional-banks/higo-bank]] page covers the Kyushu FG core-bank boundary, while this page covers the FFG-side Kumamoto license boundary. For Kyushu regional-bank consolidation context, see [[banking/regional-bank-consolidation-pattern]].
 
 ## 3. Why This Page Matters
 
 - Closes the FSA exact-name page for Kumamoto Bank.
-- Separates FFG's Kumamoto operating bank from [[higo-bank]] and [[kyushu-fg]].
-- Provides a peer anchor for [[fukuoka-fg]], [[higo-bank]], and [[kyushu-fg]] analysis.
+- Separates FFG's Kumamoto operating bank from [[regional-banks/higo-bank]] and [[regional-banks/kyushu-fg]].
+- Provides a peer anchor for [[regional-banks/fukuoka-fg]], [[regional-banks/higo-bank]], and [[regional-banks/kyushu-fg]] analysis.
 
 ## Related
 
-- [[fukuoka-fg]]
-- [[fukuoka-bank]]
-- [[higo-bank]]
-- [[kyushu-fg]]
+- [[regional-banks/fukuoka-fg]]
+- [[regional-banks/fukuoka-bank]]
+- [[regional-banks/higo-bank]]
+- [[regional-banks/kyushu-fg]]
 - [[banking/minna-bank-baas-model]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]

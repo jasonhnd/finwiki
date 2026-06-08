@@ -121,7 +121,7 @@ ProCrea Holdings（控股公司、上市 7384）
 
 ## 8. Related
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[ndfg]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[megabanks/ndfg]]
 
 ## Sources
 

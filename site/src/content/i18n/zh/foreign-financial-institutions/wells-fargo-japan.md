@@ -15,7 +15,7 @@ translated_at: 2026-06-01T02:31:57.124Z
 
 ## 长篇大论；博士
 
-美国大型商业银行 4  旗下 **Wells Fargo & Company**（纽约证券交易所代码：WFC、G-SIB Bucket 1）在日本的分行。 **企业专业** 我们的主要重点是支持美国公司向日本扩张，并支持日本银行和日本公司在美国开展业务。日本不提供零售（针对个人）。交易银行、外汇/贸易融资和全球现金管理是3 的支柱。虽然美国本身因2016 年之后的假账户事件而面临管理问题，但2024 年之后美国已进入再生阶段，以期解除美联储的资产限制。它在日本的业务规模小于花旗 [[citigroup-japan]] / 摩根大通 [[jpmorgan-japan]] / 美国银行，并且拥有专门从事批发的利基市场。 ^[extracted]
+美国大型商业银行 4  旗下 **Wells Fargo & Company**（纽约证券交易所代码：WFC、G-SIB Bucket 1）在日本的分行。 **企业专业** 我们的主要重点是支持美国公司向日本扩张，并支持日本银行和日本公司在美国开展业务。日本不提供零售（针对个人）。交易银行、外汇/贸易融资和全球现金管理是3 的支柱。虽然美国本身因2016 年之后的假账户事件而面临管理问题，但2024 年之后美国已进入再生阶段，以期解除美联储的资产限制。它在日本的业务规模小于花旗 [[foreign-financial-institutions/citigroup-japan]] / 摩根大通 [[foreign-financial-institutions/jpmorgan-japan]] / 美国银行，并且拥有专门从事批发的利基市场。 ^[extracted]
 
 ## 1。公司简介
 
@@ -96,15 +96,15 @@ translated_at: 2026-06-01T02:31:57.124Z
 
 - **企业专业利基**：专门从事美国日本公司（美国总部/日本子公司）+对日本银行的美国业务支持
 - **冲突**：
-  - [[citigroup-japan]]（城市）：同样专注于企业，规模较大/全球IB实力雄厚
-  - [[jpmorgan-japan]]（摩根大通）：全球最大的IB/并购/贸易公司
+  - [[foreign-financial-institutions/citigroup-japan]]（城市）：同样专注于企业，规模较大/全球IB实力雄厚
+  - [[foreign-financial-institutions/jpmorgan-japan]]（摩根大通）：全球最大的IB/并购/贸易公司
   - 美国银行东京分行：也是美国4 在日本的分行，专门从事批发。
   - **富国银行的差异化**：利用美国网络（小企业、抵押贷款和西方客户群）开展日本和美国之间的双边业务。
 - **没有零售扩张**：考虑到富国银行从花旗银行（前身为花旗银行）出售给SMBC信托公司的历史，富国银行一开始就没有进入日本零售市场。美国大型银行的一个常见模式是从日本零售业撤资。
 
 ### 为日本银行提供的服务
 
-- **美元结算代理行**：[[mufg]] / [[smfg]] / [[mizuho-fg]]等大型银行的美元清算/代理行备份。
+- **美元结算代理行**：[[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]]等大型银行的美元清算/代理行备份。
 - **美国市场准入**：日本银行向美国扩张时的本地支持（相对于三菱日联美洲控股公司的反向操作）
 
 ## 5。法规/政策
@@ -117,8 +117,8 @@ translated_at: 2026-06-01T02:31:57.124Z
 
 ## 相关
 
-- [[citigroup-japan]] · [[jpmorgan-japan]] · [[foreign-financial-institutions/bank-of-america-japan|bank-of-america-japan]]
-- [[mufg]] · [[smfg]] · [[mizuho-fg]]
+- [[foreign-financial-institutions/citigroup-japan]] · [[foreign-financial-institutions/jpmorgan-japan]] · [[foreign-financial-institutions/bank-of-america-japan|bank-of-america-japan]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]
 
 ## 来源
 

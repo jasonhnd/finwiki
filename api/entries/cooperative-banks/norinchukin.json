@@ -55,7 +55,7 @@
     "国際分散投資戦略"
   ],
   "body_links": {
-    "wikilinks_count": 18,
+    "wikilinks_count": 17,
     "wikilinks": [
       "banking/INDEX",
       "banking/cooperative-banking-japan",
@@ -63,18 +63,17 @@
       "banking/jf-marine-bank-system-japan",
       "cooperative-banks/INDEX",
       "cooperative-banks/ja-shinnoren",
-      "dai-ichi-life",
-      "dbj",
-      "jfc",
+      "financial-regulators/dbj",
+      "financial-regulators/jfc",
+      "life-insurers/dai-ichi-life",
+      "life-insurers/nippon-life",
+      "megabanks/mizuho-fg",
       "megabanks/mufg",
-      "mizuho-fg",
-      "mufg",
-      "ndfg",
-      "nippon-life",
-      "resona-hd",
-      "smfg",
-      "sumitomo-mitsui-trust",
-      "trust-banks/nochu-trust-bank"
+      "megabanks/ndfg",
+      "megabanks/resona-hd",
+      "megabanks/smfg",
+      "trust-banks/nochu-trust-bank",
+      "trust-banks/sumitomo-mitsui-trust"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/banking/INDEX",
@@ -83,26 +82,25 @@
       "https://finwiki.zksc.io/banking/jf-marine-bank-system-japan",
       "https://finwiki.zksc.io/cooperative-banks/INDEX",
       "https://finwiki.zksc.io/cooperative-banks/ja-shinnoren",
-      "https://finwiki.zksc.io/dai-ichi-life",
-      "https://finwiki.zksc.io/dbj",
-      "https://finwiki.zksc.io/jfc",
+      "https://finwiki.zksc.io/financial-regulators/dbj",
+      "https://finwiki.zksc.io/financial-regulators/jfc",
+      "https://finwiki.zksc.io/life-insurers/dai-ichi-life",
+      "https://finwiki.zksc.io/life-insurers/nippon-life",
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
       "https://finwiki.zksc.io/megabanks/mufg",
-      "https://finwiki.zksc.io/mizuho-fg",
-      "https://finwiki.zksc.io/mufg",
-      "https://finwiki.zksc.io/ndfg",
-      "https://finwiki.zksc.io/nippon-life",
-      "https://finwiki.zksc.io/resona-hd",
-      "https://finwiki.zksc.io/smfg",
-      "https://finwiki.zksc.io/sumitomo-mitsui-trust",
-      "https://finwiki.zksc.io/trust-banks/nochu-trust-bank"
+      "https://finwiki.zksc.io/megabanks/ndfg",
+      "https://finwiki.zksc.io/megabanks/resona-hd",
+      "https://finwiki.zksc.io/megabanks/smfg",
+      "https://finwiki.zksc.io/trust-banks/nochu-trust-bank",
+      "https://finwiki.zksc.io/trust-banks/sumitomo-mitsui-trust"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5841,
-    "word_like_tokens": 925,
-    "inbound_wikilinks_count": 49,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 6073,
+    "word_like_tokens": 951,
+    "inbound_wikilinks_count": 54,
+    "last_modified": "2026-06-08"
   }
 }

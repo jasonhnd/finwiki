@@ -82,7 +82,7 @@ Prudential Financial, Inc. (US, NYSE: PRU)
 - **LP = Life Planner**: highly skilled, full-commission sales professionals. ^[extracted]
 - Unlike the broad "sales lady" recruitment model of major domestic insurers, the LP model focuses on mid-career and skilled hires plus specialist training.
 - Targets include owner-managers, wealthy clients, professionals, high-value whole life, and owner-manager insurance.
-- Comparable / competing model: [[sony-fg]] Sony Life, another representative LP-model insurer, plus foreign life insurers such as MetLife, AXA, and Manulife.
+- Comparable / competing model: [[megabanks/sony-fg]] Sony Life, another representative LP-model insurer, plus foreign life insurers such as MetLife, AXA, and Manulife.
 
 ### 3  brand-separation strategy
 
@@ -99,10 +99,10 @@ Prudential Financial, Inc. (US, NYSE: PRU)
 
 | Competitor category | Main peers |
 |---|---|
-| Domestic LP-model representative | [[sony-fg]] Sony Life, another high-skill advisor model |
+| Domestic LP-model representative | [[megabanks/sony-fg]] Sony Life, another high-skill advisor model |
 | Foreign-affiliated life insurers | MetLife, AXA Life, Manulife, Aflac |
-| Major domestic life insurers | [[dai-ichi-life]] Dai-ichi Life, [[meiji-yasuda]] Meiji Yasuda Life, Nippon Life, Sumitomo Life |
-| Bancassurance layer | Nippon Life single-premium products, Dai-ichi Frontier Life ([[dai-ichi-life]] subsidiary), Manulife |
+| Major domestic life insurers | [[life-insurers/dai-ichi-life]] Dai-ichi Life, [[life-insurers/meiji-yasuda]] Meiji Yasuda Life, Nippon Life, Sumitomo Life |
+| Bancassurance layer | Nippon Life single-premium products, Dai-ichi Frontier Life ([[life-insurers/dai-ichi-life]] subsidiary), Manulife |
 
 ### Japan's role within US Prudential Financial
 
@@ -136,9 +136,9 @@ Prudential Financial, Inc. (US, NYSE: PRU)
 
 ## Related
 
-- [[sony-fg]] - another representative LP-model insurer and major strategic peer
-- [[dai-ichi-life]] · [[meiji-yasuda]] - major domestic life insurers
-- [[ndfg]] · [[mufg]] · [[smfg]] · [[mizuho-fg]] - bank and bancassurance channel providers
+- [[megabanks/sony-fg]] - another representative LP-model insurer and major strategic peer
+- [[life-insurers/dai-ichi-life]] · [[life-insurers/meiji-yasuda]] - major domestic life insurers
+- [[megabanks/ndfg]] · [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] - bank and bancassurance channel providers
 
 ## Sources
 

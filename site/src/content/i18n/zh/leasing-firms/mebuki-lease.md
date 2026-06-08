@@ -11,11 +11,11 @@ translated_at: 2026-05-31T23:59:49.389Z
 
 ## Wiki 路径
 
-本条目位于 [[leasing-firms/INDEX|leasing-firms INDEX]] 下，是 [[mebuki-fg|めぶき FG]] 的 FG 子公司 leasing operating-company 锚点。可与母体 operating banks [[joyo-bank|常陽銀行]] / [[ashikaga-bank|足利銀行]] 以及兄弟子公司 [[mebuki-securities|めぶき証券]] 对读。同业比较包括 [[hokkaido-lease|北海道リース]]（北洋 / 北海道银行系）以及大型 leasing company [[mitsubishi-hc-capital|三菱 HC キャピタル]] / [[mizuho-lease|みずほリース]]。更广的系统路径见 [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]] 和 [[banking/INDEX|banking index]]。
+本条目位于 [[leasing-firms/INDEX|leasing-firms INDEX]] 下，是 [[regional-banks/mebuki-fg|めぶき FG]] 的 FG 子公司 leasing operating-company 锚点。可与母体 operating banks [[regional-banks/joyo-bank|常陽銀行]] / [[regional-banks/ashikaga-bank|足利銀行]] 以及兄弟子公司 [[securities-firms/mebuki-securities|めぶき証券]] 对读。同业比较包括 [[leasing-firms/hokkaido-lease|北海道リース]]（北洋 / 北海道银行系）以及大型 leasing company [[leasing-firms/mitsubishi-hc-capital|三菱 HC キャピタル]] / [[leasing-firms/mizuho-lease|みずほリース]]。更广的系统路径见 [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]] 和 [[banking/INDEX|banking index]]。
 
 ## TL;DR
 
-株式会社めぶきリース是 [[mebuki-fg|めぶき FG]]（东证 PRIME 7167）的 100% 子公司，也是一家地银系租赁公司。它以 [[joyo-bank|常陽銀行]] 于 1974-09  设立的“常阳リース”为母体，2017-04-03 由 Mebuki FG 取得全部股份并更名为“めぶきリース”后发足（已由官方沿革和法人登记确认）。同日，[[ashikaga-bank|足利銀行]] 子公司“足利信用保証”经营的租赁业务被一本化承继到 Mebuki Lease，并开设宇都宫、足利营业部，向栃木侧展开（日经 2017-03-07、官方沿革确认）。**从法人格看，这是常阳 Lease 的单独更名，并非“常阳 Lease + 足利 Lease 的对等合并”（“足利 Lease”这一独立公司并不存在，足利侧租赁业务由足利信用保证运营）。** 公司向茨城、栃木、首都圈的中坚企业 main bank 客户提供设备租赁、finance lease、operating lease、vendor lease 等服务，是地银系 leasing 上位玩家之一。^[extracted]
+株式会社めぶきリース是 [[regional-banks/mebuki-fg|めぶき FG]]（东证 PRIME 7167）的 100% 子公司，也是一家地银系租赁公司。它以 [[regional-banks/joyo-bank|常陽銀行]] 于 1974-09  设立的“常阳リース”为母体，2017-04-03 由 Mebuki FG 取得全部股份并更名为“めぶきリース”后发足（已由官方沿革和法人登记确认）。同日，[[regional-banks/ashikaga-bank|足利銀行]] 子公司“足利信用保証”经营的租赁业务被一本化承继到 Mebuki Lease，并开设宇都宫、足利营业部，向栃木侧展开（日经 2017-03-07、官方沿革确认）。**从法人格看，这是常阳 Lease 的单独更名，并非“常阳 Lease + 足利 Lease 的对等合并”（“足利 Lease”这一独立公司并不存在，足利侧租赁业务由足利信用保证运营）。** 公司向茨城、栃木、首都圈的中坚企业 main bank 客户提供设备租赁、finance lease、operating lease、vendor lease 等服务，是地银系 leasing 上位玩家之一。^[extracted]
 
 ## 1. 牌照 / 集团边界
 
@@ -23,19 +23,19 @@ translated_at: 2026-05-31T23:59:49.389Z
 |---|---|
 | 法定名称 | 株式会社めぶきリース |
 | 英文名称 | Mebuki Lease Co., Ltd. |
-| 集团边界 | [[mebuki-fg]] 100% 子公司；[[joyo-bank]] / [[ashikaga-bank]] 银行租赁协作对象 |
+| 集团边界 | [[regional-banks/mebuki-fg]] 100% 子公司；[[regional-banks/joyo-bank]] / [[regional-banks/ashikaga-bank]] 银行租赁协作对象 |
 | Wiki 角色 | 区域银行 FG leasing-subsidiary anchor（北关东地盘） |
 
 ## 2. 持股树
 
 ```
-[[mebuki-fg|めぶき FG]]（控股公司、东证 PRIME 7167）
-  ├── [[joyo-bank|常陽銀行]]（100%）── 茨城地盘
-  ├── [[ashikaga-bank|足利銀行]]（100%）── 栃木地盘
-  ├── [[mebuki-securities|めぶき証券]]（100%）── 集团证券
+[[regional-banks/mebuki-fg|めぶき FG]]（控股公司、东证 PRIME 7167）
+  ├── [[regional-banks/joyo-bank|常陽銀行]]（100%）── 茨城地盘
+  ├── [[regional-banks/ashikaga-bank|足利銀行]]（100%）── 栃木地盘
+  ├── [[securities-firms/mebuki-securities|めぶき証券]]（100%）── 集团证券
   ├── Mebuki Lease（100%，本页）── 集团租赁
-  │     ├── 将旧常阳 Lease（[[joyo-bank]] 系，1974-09 设立）于 2017-04-03 改称
-  │     ├── 同日一本化承继 Ashikaga Credit Guarantee（[[ashikaga-bank]] 系）的租赁业务
+  │     ├── 将旧常阳 Lease（[[regional-banks/joyo-bank]] 系，1974-09 设立）于 2017-04-03 改称
+  │     ├── 同日一本化承继 Ashikaga Credit Guarantee（[[regional-banks/ashikaga-bank]] 系）的租赁业务
   │     └── 面向北关东 + 首都圈中坚企业的设备租赁
   ├── Mebuki Card（100%）── 地银系信用卡
   └── Joyo Capital / Ashikaga Capital ── 区域投资与咨询业务
@@ -43,38 +43,38 @@ translated_at: 2026-05-31T23:59:49.389Z
 
 ### 旧常阳 Lease 系谱（母体）
 
-- **1974-09**：[[joyo-bank|常陽銀行]] 将“常陽リース株式会社”作为租赁 / 金融部门的补充业务设立（官方沿革确认）
-- 作为 [[joyo-bank|常陽銀行]] 系 leasing company，主营面向茨城县内中坚企业的设备租赁
+- **1974-09**：[[regional-banks/joyo-bank|常陽銀行]] 将“常陽リース株式会社”作为租赁 / 金融部门的补充业务设立（官方沿革确认）
+- 作为 [[regional-banks/joyo-bank|常陽銀行]] 系 leasing company，主营面向茨城县内中坚企业的设备租赁
 - 典型战后地银系 leasing：不是通过银行贷款，而是以设备租赁形式支持中小企业设备投资
 - **2017-04-03**：Mebuki FG 取得全部股份，并更名为“株式会社めぶきリース”（法人登记确认）
 
 ### 与足利银行系租赁功能的关系 - 已确认（2026-05-30 验证）
 
-- **不存在名为“足利 Lease”的独立公司。** [[ashikaga-bank|足利銀行]] 系租赁公司在历史上是“北関東リース株式会社”（金融厅 2003-03-11 事业再构筑计划认定，资本金 145 百万円），后年则由 **“足利信用保証株式会社”以行员出向形式运营租赁业务**（日经 2017-03-07）。旧版“常阳 Lease + 足利 Lease 对等合并”的 framing，在公司名称和整合形态两方面都错误。
+- **不存在名为“足利 Lease”的独立公司。** [[regional-banks/ashikaga-bank|足利銀行]] 系租赁公司在历史上是“北関東リース株式会社”（金融厅 2003-03-11 事业再构筑计划认定，资本金 145 百万円），后年则由 **“足利信用保証株式会社”以行员出向形式运营租赁业务**（日经 2017-03-07）。旧版“常阳 Lease + 足利 Lease 对等合并”的 framing，在公司名称和整合形态两方面都错误。
 - **足利侧租赁业务承继确实发生。** 自 2017-04-03 起，**足利信用保证的租赁业务被一本化到常阳 Lease（同日更名为 Mebuki Lease）**（日经 2017-03-07 与 Mebuki Lease 官方沿革确认）。因此 Mebuki Lease 开设宇都宫、足利营业部并向栃木侧展开，足利银行继续派出员工。也就是说，“承继足利信用保证的租赁业务”可以确认，但承继对象和形态不是“与足利 Lease 的对等合并”，而是业务一本化到常阳 Lease / Mebuki Lease。
 - 足利信用保证随后于 2020-10-01 由 Mebuki FG 取得全部股份并更名为“めぶき信用保証株式会社”，现在是信用保证专门公司（租赁业务已在 2017-04  转移至 Mebuki Lease）（日经 2020-07 和集团公司信息）。
-- [[ashikaga-bank|足利銀行]] 经历 2003-11  一时国有化阶段后，于 2016-10  整合进 Mebuki FG。上述 2017-04  leasing 一本化，是整合后集团功能重组的一部分。
+- [[regional-banks/ashikaga-bank|足利銀行]] 经历 2003-11  一时国有化阶段后，于 2016-10  整合进 Mebuki FG。上述 2017-04  leasing 一本化，是整合后集团功能重组的一部分。
 
 ### Mebuki FG 设立与集团整合
 
-- **2016-10-01**：[[mebuki-fg|めぶき FG]] 设立（[[joyo-bank]] + [[ashikaga-bank]] 共同股份转移）
+- **2016-10-01**：[[regional-banks/mebuki-fg|めぶき FG]] 设立（[[regional-banks/joyo-bank]] + [[regional-banks/ashikaga-bank]] 共同股份转移）
 - **2017-04-03**：Mebuki FG 取得常阳 Lease 全部股份并更名为 Mebuki Lease，将其重组为面向银行子公司 2 行 客户基础的集团共同 leasing 功能
 
 ## 4. KPI 表（概念）
 
 | 项目 | 概况 |
 |---|---|
-| 设立 | 1974-09（旧常阳 Lease。2017-04-03 [[mebuki-fg]] 取得全部股份并更名为 Mebuki Lease）。同日一本化承继足利信用保证的租赁业务（日经 2017-03-07 确认。承继元是“足利信用保证”，并不存在“足利 Lease”公司） |
+| 设立 | 1974-09（旧常阳 Lease。2017-04-03 [[regional-banks/mebuki-fg]] 取得全部股份并更名为 Mebuki Lease）。同日一本化承继足利信用保证的租赁业务（日经 2017-03-07 确认。承继元是“足利信用保证”，并不存在“足利 Lease”公司） |
 | 资本金 | 1 億円 |
 | 员工数 | 约 80 名 |
 | 总部 | 茨城县水户市南町 3-4-12  常阳海上大楼 |
-| 主要营业区域 | 茨城县、栃木县、首都圈（[[mebuki-fg]] 联动地盘） |
+| 主要营业区域 | 茨城县、栃木县、首都圈（[[regional-banks/mebuki-fg]] 联动地盘） |
 | 业务领域 | 设备租赁、finance lease、operating lease、vendor lease |
-| 银行租赁协作 | [[joyo-bank]] / [[ashikaga-bank]] 客户介绍 + 共同提案 |
+| 银行租赁协作 | [[regional-banks/joyo-bank]] / [[regional-banks/ashikaga-bank]] 客户介绍 + 共同提案 |
 | 主要客户层 | 北关东中坚企业 + 制造业、农业机械、医疗机构、自治体 |
-| 母公司 | [[mebuki-fg]] 100% 出资 |
+| 母公司 | [[regional-banks/mebuki-fg]] 100% 出资 |
 
-> 注：Mebuki Lease 是非上市全资子公司，因此不单独披露精细的单体财务 KPI，应参照 [[mebuki-fg]] 有价证券报告书分部信息。
+> 注：Mebuki Lease 是非上市全资子公司，因此不单独披露精细的单体财务 KPI，应参照 [[regional-banks/mebuki-fg]] 有价证券报告书分部信息。
 
 ## 5. 业务分部地图
 
@@ -89,20 +89,20 @@ translated_at: 2026-05-31T23:59:49.389Z
 
 ### FG 内部位置
 
-- **银行租赁协作核心**：承接 [[mebuki-fg]] 银行 2 行 中坚企业 main bank 客户的租赁需求
+- **银行租赁协作核心**：承接 [[regional-banks/mebuki-fg]] 银行 2 行 中坚企业 main bank 客户的租赁需求
 - **设备投资支持**：补充银行贷款，并应对表外处理需求
 - **县内自治体 / 公共部门协作**：面向茨城县、栃木县市町村的租赁案件
 
 ### 竞争结构
 
-- **大型 leasing company**：[[mitsubishi-hc-capital|三菱 HC キャピタル]] / [[smfl|SMFL]] / [[mizuho-lease|みずほリース]] / [[fuyo-lease|芙蓉リース]] / [[tokyo-century|東京センチュリー]] / [[ricoh-leasing|リコーリース]] - 在大型、全国、复杂案件中占优
-- **地银系 leasing**：[[hokkaido-lease|北海道リース]] / 千叶兴业 Lease / 群马 Lease 等 - 同型 model
-- **制造商系 leasing**：[[toyota-finance|トヨタファイナンス]] / [[nec-leasing|NEC キャピタルソリューション]] - 与产品联动
-- **县内竞争**：[[tsukuba-bank|筑波銀行]] 系、[[tochigi-bank|栃木銀行]] 系租赁
+- **大型 leasing company**：[[leasing-firms/mitsubishi-hc-capital|三菱 HC キャピタル]] / [[leasing-firms/smfl|SMFL]] / [[leasing-firms/mizuho-lease|みずほリース]] / [[leasing-firms/fuyo-lease|芙蓉リース]] / [[leasing-firms/tokyo-century|東京センチュリー]] / [[leasing-firms/ricoh-leasing|リコーリース]] - 在大型、全国、复杂案件中占优
+- **地银系 leasing**：[[leasing-firms/hokkaido-lease|北海道リース]] / 千叶兴业 Lease / 群马 Lease 等 - 同型 model
+- **制造商系 leasing**：[[card-issuers/toyota-finance|トヨタファイナンス]] / [[leasing-firms/nec-leasing|NEC キャピタルソリューション]] - 与产品联动
+- **县内竞争**：[[regional-banks/tsukuba-bank|筑波銀行]] 系、[[regional-banks/tochigi-bank|栃木銀行]] 系租赁
 
 ### 强项与弱项
 
-- 强项：[[joyo-bank]] / [[ashikaga-bank]] 客户基础（茨城、栃木中坚企业 main bank）+ 区域密着的现场响应
+- 强项：[[regional-banks/joyo-bank]] / [[regional-banks/ashikaga-bank]] 客户基础（茨城、栃木中坚企业 main bank）+ 区域密着的现场响应
 
 ## 7. 监管与政策
 
@@ -111,13 +111,13 @@ translated_at: 2026-05-31T23:59:49.389Z
   - 应对租赁会计准则变化（IFRS16  / 日本准则）
   - 活用面向中小企业的租赁税制（中小企业投资促进税制）
   - 环境租赁（可再生能源设备租赁）的脱碳税制应对
-  - 反社会势力检查、AML 对策（由 [[mebuki-fg]] 集团共同实施）
+  - 反社会势力检查、AML 对策（由 [[regional-banks/mebuki-fg]] 集团共同实施）
 
 ## Related
 
-- [[mebuki-fg]] · [[joyo-bank]] · [[ashikaga-bank]] · [[mebuki-securities]]
-- [[mitsubishi-hc-capital]] · [[smfl]] · [[mizuho-lease]] · [[fuyo-lease]] · [[tokyo-century]] · [[ricoh-leasing]] · [[hokkaido-lease]]
-- [[ja-mitsui-leasing]] · [[nec-leasing]] · [[showa-leasing]]
+- [[regional-banks/mebuki-fg]] · [[regional-banks/joyo-bank]] · [[regional-banks/ashikaga-bank]] · [[securities-firms/mebuki-securities]]
+- [[leasing-firms/mitsubishi-hc-capital]] · [[leasing-firms/smfl]] · [[leasing-firms/mizuho-lease]] · [[leasing-firms/fuyo-lease]] · [[leasing-firms/tokyo-century]] · [[leasing-firms/ricoh-leasing]] · [[leasing-firms/hokkaido-lease]]
+- [[cooperative-banks/ja-mitsui-leasing]] · [[leasing-firms/nec-leasing]] · [[leasing-firms/showa-leasing]]
 - [[banking/regional-bank-consolidation-pattern]] · [[banking/INDEX]]
 - [[leasing-firms/INDEX|leasing-firms INDEX]]
 
@@ -136,4 +136,4 @@ translated_at: 2026-05-31T23:59:49.389Z
 ---
 
 > [!info] 验证状况
-> confidence: **likely**（FG leasing-subsidiary anchor created 2026-05-24，2026-05-30 以官方网站、法人登记、日经、金融厅再次验证设立沿革和足利侧租赁整合）。[[mebuki-fg]] page = holding-company strategy，本页处理 leasing-subsidiary operating boundary。公司概要（设立 1974-09  / 资本金 1 億円 / 员工约 80 名 / 2017-04-03 从旧常阳 Lease 更名）已由官方网站、国税厅法人编号网站确认。**订正点（2026-05-30）：旧版“由常阳 Lease + 足利 Lease 对等合并发足”的 framing 错误。正确表述是：Mebuki FG 于 2017-04-03 取得 1974-09  设立的常阳 Lease 全部股份并改名，法人格连续。①“足利 Lease”这一独立公司不存在（足利银行系租赁公司是北关东 Lease，后年由足利信用保证以行员出向运营：金融厅 2003-03-11、日经 2017-03-07 确认）。②但 2017-04-03 起足利信用保证的租赁业务被一本化承继至 Mebuki Lease 的事实可以确认（日经 2017-03-07、官方沿革中的宇都宫 / 足利营业部开设佐证）。此前“足利信用保证租赁业务承继未确认”的待确认事项已解决。** 由于为非上市全资子公司，单体财务 KPI 精细值不单独披露，应参照母公司 [[mebuki-fg]] 有价证券报告书分部信息。
+> confidence: **likely**（FG leasing-subsidiary anchor created 2026-05-24，2026-05-30 以官方网站、法人登记、日经、金融厅再次验证设立沿革和足利侧租赁整合）。[[regional-banks/mebuki-fg]] page = holding-company strategy，本页处理 leasing-subsidiary operating boundary。公司概要（设立 1974-09  / 资本金 1 億円 / 员工约 80 名 / 2017-04-03 从旧常阳 Lease 更名）已由官方网站、国税厅法人编号网站确认。**订正点（2026-05-30）：旧版“由常阳 Lease + 足利 Lease 对等合并发足”的 framing 错误。正确表述是：Mebuki FG 于 2017-04-03 取得 1974-09  设立的常阳 Lease 全部股份并改名，法人格连续。①“足利 Lease”这一独立公司不存在（足利银行系租赁公司是北关东 Lease，后年由足利信用保证以行员出向运营：金融厅 2003-03-11、日经 2017-03-07 确认）。②但 2017-04-03 起足利信用保证的租赁业务被一本化承继至 Mebuki Lease 的事实可以确认（日经 2017-03-07、官方沿革中的宇都宫 / 足利营业部开设佐证）。此前“足利信用保证租赁业务承继未确认”的待确认事项已解决。** 由于为非上市全资子公司，单体财务 KPI 精细值不单独披露，应参照母公司 [[regional-banks/mebuki-fg]] 有价证券报告书分部信息。

@@ -15,8 +15,8 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 - 「一県一行型の安定性 vs 人口減少リスク」：新潟県人口 220 万の長期減少トレンドが直撃。県外展開で相殺できるか ^[inferred]
 - 「合併シナジー実現度」：2021-01 銀行合併から数年経過、店舗統合・人員削減・システム統合効果の定量検証段階 ^[ambiguous]
 - 「県外進出の戦略意義」：首都圏営業店はメガ競合エリア、規模拡大よりも県内顧客随伴ロジック中心と推察 ^[inferred]
-- 「デジタル戦略の存在感」：[[fukuoka-fg]] みんなの銀行 / [[ndfg]] 等と比べ独自デジタル基盤の発信は限定的 ^[inferred]
-- 「県内中堅企業へのメガ攻勢」：[[mufg]] / [[smfg]] / [[mizuho-fg]] 法人攻勢への main bank 防衛戦の継続性 ^[ambiguous]
+- 「デジタル戦略の存在感」：[[regional-banks/fukuoka-fg]] みんなの銀行 / [[megabanks/ndfg]] 等と比べ独自デジタル基盤の発信は限定的 ^[inferred]
+- 「県内中堅企業へのメガ攻勢」：[[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]] 法人攻勢への main bank 防衛戦の継続性 ^[ambiguous]
 
 ## Open questions
 

@@ -23,7 +23,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-株式会社肥後銀行は、金融庁の銀行免許一覧に掲載される熊本県本店の地方銀行。[[kyushu-fg]] の core operating bank であり、Kumamoto / TSMC-adjacent finance の regional-bank operating-company anchor として扱う。
+株式会社肥後銀行は、金融庁の銀行免許一覧に掲載される熊本県本店の地方銀行。[[regional-banks/kyushu-fg]] の core operating bank であり、Kumamoto / TSMC-adjacent finance の regional-bank operating-company anchor として扱う。
 
 ## 1. License / group boundary
 
@@ -31,26 +31,26 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 |---|---|
 | Legal name | 株式会社肥後銀行 |
 | License route | Banking Act regional bank; FSA bank license list |
-| Group boundary | [[kyushu-fg]] core operating bank |
+| Group boundary | [[regional-banks/kyushu-fg]] core operating bank |
 | Home market | Kumamoto / Kumamoto City |
 | Wiki role | Kumamoto regional-bank operating-company page |
 
 ## 2. Operating model
 
-肥後銀行は、熊本県を中心に retail deposits, SME finance, semiconductor cluster finance, agriculture / manufacturing support, and regional relationship banking を担う regional bank。[[kyushu-fg]] page は holding-company strategy and Higo / Kagoshima two-bank structure を扱い、本ページは bank-license entity を扱う。Kyushu regional-bank consolidation context は [[banking/regional-bank-consolidation-pattern]] を参照。
+肥後銀行は、熊本県を中心に retail deposits, SME finance, semiconductor cluster finance, agriculture / manufacturing support, and regional relationship banking を担う regional bank。[[regional-banks/kyushu-fg]] page は holding-company strategy and Higo / Kagoshima two-bank structure を扱い、本ページは bank-license entity を扱う。Kyushu regional-bank consolidation context は [[banking/regional-bank-consolidation-pattern]] を参照。
 
 ## 3. Why this page matters
 
 - Closes the FSA exact-name operating-company gap for 肥後銀行.
-- Separates the bank license from [[kyushu-fg]] holding-company coverage.
-- Provides a peer anchor for [[kagoshima-bank]], [[miyazaki-bank]], and [[fukuoka-bank]].
+- Separates the bank license from [[regional-banks/kyushu-fg]] holding-company coverage.
+- Provides a peer anchor for [[regional-banks/kagoshima-bank]], [[regional-banks/miyazaki-bank]], and [[regional-banks/fukuoka-bank]].
 
 ## Related
 
-- [[kyushu-fg]]
-- [[kagoshima-bank]]
-- [[miyazaki-bank]]
-- [[fukuoka-bank]]
+- [[regional-banks/kyushu-fg]]
+- [[regional-banks/kagoshima-bank]]
+- [[regional-banks/miyazaki-bank]]
+- [[regional-banks/fukuoka-bank]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 

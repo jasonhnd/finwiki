@@ -24,7 +24,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it against [[fintech
 |---|---|---|---|---|
 | 🇺🇸 US Compliance | USDC/USD1 / PYUSD / EURC | Arc / Tempo / Base / Ethereum |[[fintech/genius-act-501-denylist-mandate|GENIUS Act §501]]| Circle / Stripe / Coinbase / PayPal |
 | 🇪🇺 EU | EURC / EUR-stable | MiCA-compliant chains |[[fintech/mica-overview|MiCA]]ART/EMT | Circle Ireland / Société Générale Forge / Mastercard MTN |
-| 🇯🇵 Japan | JPYC / XJPY / DCJPY | Progmat / Arc-channel / JPYC EPI | [[fintech/japan-epi-three-types-overview|Amended Payment Services Act (three EPI categories)]] | [[megabanks/mufg|Mitsubishi UFJ]] / SBI / [[payment-firms/jpyc|JPYC]] ([[stablecoin-channel-japan-sbi-jpyc-ring]]) |
+| 🇯🇵 Japan | JPYC / XJPY / DCJPY | Progmat / Arc-channel / JPYC EPI | [[fintech/japan-epi-three-types-overview|Amended Payment Services Act (three EPI categories)]] | [[megabanks/mufg|Mitsubishi UFJ]] / SBI / [[payment-firms/jpyc|JPYC]] ([[fintech/stablecoin-channel-japan-sbi-jpyc-ring]]) |
 | 🇨🇳🇭🇰 China and Hong Kong | e-CNY (off-chain) + HKD-stable | Hong Kong sandbox + RMB Technology First Digital Trust | [[fintech/hkma-stablecoin-licensing-overview|HKMA stablecoin legislation (2025-08)]] + PBoC | Ant International / Jingdong / Stan Chart Hong Kong |
 | 🌍 Gray | USDT | Tron + Lightning + New Channel | Avoiding regulations in each country | Tether (Lugano) / Tron / Gray payment processor |
 
@@ -39,15 +39,15 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it against [[fintech
 **Key implication**:
 
 1**Zero-sum probability is significantly reduced**: Each pole has its own “main battlefield” and the cost of competition between poles is high.
-2**Interpole bridging becomes new infrastructure**: e.g. [[stablecoin-channel-japan-sbi-jpyc-ring|SBI-JPYC-Circle circular shareholding structure]] provides JPY ↔ USDC channel
-3**Network neutrality strategy of large institutions such as Visa** ([[wall-street-crypto-network-neutrality]]) allows for collection of fees across borders.
+2**Interpole bridging becomes new infrastructure**: e.g. [[fintech/stablecoin-channel-japan-sbi-jpyc-ring|SBI-JPYC-Circle circular shareholding structure]] provides JPY ↔ USDC channel
+3**Network neutrality strategy of large institutions such as Visa** ([[fintech/wall-street-crypto-network-neutrality]]) allows for collection of fees across borders.
 4**The scope for regulatory arbitrage continues to shrink**: Each region has strict legislation and cross-polar compliance requirements are accumulating.
 
 **Uncertainty factors**:
 
 - Will Mainland China finally allow overseas stablecoins (HK Pilot as a precedent project)?
 - Which pole will the Indian/Brazil/African market ultimately belong to (currently between the US camp and the gray market)
-- Will AI agent economic payment protocols break through the geopolitical divide? [[protocol-hedge-strategy-stripe-pattern|multi-protocol hedge]] (potential that straddles poles)
+- Will AI agent economic payment protocols break through the geopolitical divide? [[fintech/protocol-hedge-strategy-stripe-pattern|multi-protocol hedge]] (potential that straddles poles)
 
 **Strategic observations**:
 

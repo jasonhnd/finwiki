@@ -15,7 +15,7 @@ translated_at: 2026-06-01T00:41:50.394Z
 
 ## TL;DR
 
-西日本 Financial Holdings 是以九州北部和福冈县为地盘的上位地方银行集团控股公司。它通过 **2016-10-03 [[nishi-nippon-city-bank|西日本シティ銀行]] 的单独股份转移设立**，在东证 PRIME 上市，证券代码 7189。**主要子公司包括 [[nishi-nippon-city-bank|西日本シティ銀行]] + [[nagasaki-bank|長崎銀行]] + NCB Research & Consulting 等**。在九州地方银行中，它与 [[fukuoka-fg]] 并称为「福冈 2  大地方银行」。其核心是面向福冈县内中型和中小企业的法人贷款，以及个人零售银行业务。面向亚洲的国际业务利用福冈机场和博多港的地理优势。^[extracted]
+西日本 Financial Holdings 是以九州北部和福冈县为地盘的上位地方银行集团控股公司。它通过 **2016-10-03 [[regional-banks/nishi-nippon-city-bank|西日本シティ銀行]] 的单独股份转移设立**，在东证 PRIME 上市，证券代码 7189。**主要子公司包括 [[regional-banks/nishi-nippon-city-bank|西日本シティ銀行]] + [[regional-banks/nagasaki-bank|長崎銀行]] + NCB Research & Consulting 等**。在九州地方银行中，它与 [[regional-banks/fukuoka-fg]] 并称为「福冈 2  大地方银行」。其核心是面向福冈县内中型和中小企业的法人贷款，以及个人零售银行业务。面向亚洲的国际业务利用福冈机场和博多港的地理优势。^[extracted]
 
 ## 1. 公司概要
 
@@ -30,9 +30,9 @@ translated_at: 2026-06-01T00:41:50.394Z
 ```text
 西日本 FHD（上市控股公司 7189）
   ├── 西日本 City 银行（100%）
-  │     └── [[nishi-nippon-city-bank]] / 福冈县地盘、九州 No.2  级地方银行，核心子公司
+  │     └── [[regional-banks/nishi-nippon-city-bank]] / 福冈县地盘、九州 No.2  级地方银行，核心子公司
   │         └── 在福冈县、大分县、佐贺县、长崎县、熊本县、东京、大阪等地设网点
-  ├── [[nagasaki-bank|長崎銀行]]（100%）
+  ├── [[regional-banks/nagasaki-bank|長崎銀行]]（100%）
   │     └── 以长崎县为地盘的第二地方银行；2006-04  子公司化
   ├── NCB Research & Consulting（100%）：面向中型和中小企业的咨询
   ├── 西日本 City TT 证券：与 SMBC Nikko Securities 的证券合资公司
@@ -47,7 +47,7 @@ translated_at: 2026-06-01T00:41:50.394Z
 - **1944**：西日本相互银行通过战时整合创立，形成当前集团的相互银行 DNA。
 - **1989-04**：转为普通银行，并改称 **西日本银行**。
 - **2004-10-01**：**福冈 City 银行 + 西日本银行 -> 西日本 City 银行**，合并比例约 1:1 ，完成福冈 2 行 整合。
-- **2006-04**：**[[nagasaki-bank|長崎銀行]] 子公司化**，属于长崎县第二地方银行救济整合路线的一部分。
+- **2006-04**：**[[regional-banks/nagasaki-bank|長崎銀行]] 子公司化**，属于长崎县第二地方银行救济整合路线的一部分。
 - **2016-10-03**：**西日本 FHD 设立**，通过西日本 City 银行的单独股份转移实现控股公司化。
 
 ### 重要年表摘录 ^[extracted]
@@ -57,7 +57,7 @@ translated_at: 2026-06-01T00:41:50.394Z
 | 1944  | 西日本相互银行通过战时整合创立。 |
 | 1989-04  | 转为普通银行并改称西日本银行。 |
 | 2004-10-01 | 福冈 City 银行 + 西日本银行 -> **西日本 City 银行**。 |
-| 2006-04  | **[[nagasaki-bank|長崎銀行]] 子公司化**。 |
+| 2006-04  | **[[regional-banks/nagasaki-bank|長崎銀行]] 子公司化**。 |
 | 2016-10-03 | **西日本 FHD 设立**；转为控股公司并在东证 1  部 / 福冈证券交易所上市。 |
 | 2022-04  | 东证市场区分重组后转入 PRIME。 |
 | 2024  | 中期经营计划自 2024 起启动。 |
@@ -66,18 +66,18 @@ translated_at: 2026-06-01T00:41:50.394Z
 
 | 分部 | 主要运营主体 | 特征 |
 |---|---|---|
-| 国内法人，核心 | [[nishi-nippon-city-bank|西日本シティ銀行]] | 福冈县中型和中小企业的主办银行，九州广域营业 |
-| 国内个人 | [[nishi-nippon-city-bank|西日本シティ銀行]] | 福冈都市圈零售和住房贷款 |
-| 长崎县覆盖 | [[nagasaki-bank|長崎銀行]] | 以长崎县为地盘的第二地方银行，规模较小 |
+| 国内法人，核心 | [[regional-banks/nishi-nippon-city-bank|西日本シティ銀行]] | 福冈县中型和中小企业的主办银行，九州广域营业 |
+| 国内个人 | [[regional-banks/nishi-nippon-city-bank|西日本シティ銀行]] | 福冈都市圈零售和住房贷款 |
+| 长崎县覆盖 | [[regional-banks/nagasaki-bank|長崎銀行]] | 以长崎县为地盘的第二地方银行，规模较小 |
 | 证券 | 西日本 City TT 证券 | 与 SMBC Nikko 合资，零售证券 |
-| 国际业务 | [[nishi-nippon-city-bank|西日本シティ銀行]] 国际部 | 经由福冈机场和博多港面向亚洲，包括韩国、中国和东南亚 |
+| 国际业务 | [[regional-banks/nishi-nippon-city-bank|西日本シティ銀行]] 国际部 | 经由福冈机场和博多港面向亚洲，包括韩国、中国和东南亚 |
 | 卡 | 西日本 Card | 区域卡业务，与 VISA / JCB 合作 |
 | 租赁 / PE | NCB Lease & Capital / NCB Capital | 面向区域中型企业的租赁和事业承继 |
 | 智库 | NCB Research & Consulting | 企业咨询和区域经济研究 |
 
 ### 福冈 2  大地方银行结构
 
-九州地方银行格局是 **[[fukuoka-fg]]**（由 [[fukuoka-bank|福岡銀行]] + [[kumamoto-bank|熊本銀行]] + 亲和银行 + [[18-shinwa-bank|十八親和銀行]] + [[fukuoka-chuo-bank|福岡中央銀行]] 组合而成的控股公司）与西日本 FHD（[[nishi-nippon-city-bank|西日本シティ銀行]] + [[nagasaki-bank|長崎銀行]]）之间的竞争，也就是 2  大控股公司的竞争结构。^[extracted]
+九州地方银行格局是 **[[regional-banks/fukuoka-fg]]**（由 [[regional-banks/fukuoka-bank|福岡銀行]] + [[regional-banks/kumamoto-bank|熊本銀行]] + 亲和银行 + [[regional-banks/18-shinwa-bank|十八親和銀行]] + [[regional-banks/fukuoka-chuo-bank|福岡中央銀行]] 组合而成的控股公司）与西日本 FHD（[[regional-banks/nishi-nippon-city-bank|西日本シティ銀行]] + [[regional-banks/nagasaki-bank|長崎銀行]]）之间的竞争，也就是 2  大控股公司的竞争结构。^[extracted]
 
 ### 法人金融重点
 
@@ -89,10 +89,10 @@ translated_at: 2026-06-01T00:41:50.394Z
 
 ### 竞争关系
 
-- **同县内**：[[fukuoka-fg]] / [[fukuoka-bank|福岡銀行]]，即「福冈 2  大地方银行」直接对决。
-- **邻近县**：[[saga-bank|佐賀銀行]] / [[oita-bank|大分銀行]] / [[higo-bank|肥後銀行]]，在跨县法人金融上竞争。
-- **大型商业银行**：[[mufg]] / [[smfg]] / [[mizuho-fg]] 的福冈分行，在大企业客户层更强。
-- **新兴 / 数字玩家**：[[paypay-fg]] / [[sbi-hd]] 系的区域金融和互联网银行，对数字渠道形成压力。
+- **同县内**：[[regional-banks/fukuoka-fg]] / [[regional-banks/fukuoka-bank|福岡銀行]]，即「福冈 2  大地方银行」直接对决。
+- **邻近县**：[[regional-banks/saga-bank|佐賀銀行]] / [[regional-banks/oita-bank|大分銀行]] / [[regional-banks/higo-bank|肥後銀行]]，在跨县法人金融上竞争。
+- **大型商业银行**：[[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]] 的福冈分行，在大企业客户层更强。
+- **新兴 / 数字玩家**：[[megabanks/paypay-fg]] / [[megabanks/sbi-hd]] 系的区域金融和互联网银行，对数字渠道形成压力。
 - **信用金库 / 信用组合**：福冈 Hibiki 信用金库、福冈信用组合等，在微型和小企业层竞争。
 
 ### 2024 中期经营计划
@@ -114,7 +114,7 @@ translated_at: 2026-06-01T00:41:50.394Z
 
 ## Related
 
-- [[fukuoka-fg]] · [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[paypay-fg]] · [[sbi-hd]]
+- [[regional-banks/fukuoka-fg]] · [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[megabanks/paypay-fg]] · [[megabanks/sbi-hd]]
 
 ## Sources
 

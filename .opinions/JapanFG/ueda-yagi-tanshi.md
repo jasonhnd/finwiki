@@ -33,6 +33,6 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 - 上田八木短資の最新財務（売上・利益・自己資本）規模は？ 非上場のため公開情報限定
 - 2024-03 マイナス金利解除後の業績インパクトは具体的にどう出ているか？
-- 3 大短資会社（[[central-tanshi]] / 上田八木短資 / [[tokyo-tanshi]]）の市場シェア配分は？
+- 3 大短資会社（[[financial-regulators/central-tanshi]] / 上田八木短資 / [[financial-regulators/tokyo-tanshi]]）の市場シェア配分は？
 - 短期金融市場のデジタル化・トークン化（[[fintech/jp-stablecoin-progmat|Progmat]] 等）に対する短資業界の戦略は？
 - 株主構成（独立系か銀行系列か）の詳細は？

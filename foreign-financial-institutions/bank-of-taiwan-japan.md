@@ -43,14 +43,14 @@ Bank of Taiwan's overseas-service page provides the Tokyo branch route and publi
 ## 3. Why this page matters
 
 - Adds the Taiwan public-bank P1 branch anchor.
-- Starts the Taiwan branch cluster beside [[mega-icbc-japan]], [[ctbc-bank-japan]], and [[esun-bank-japan]].
-- Helps keep Taiwan banks distinct from mainland China bank branches and from Japanese [[chugoku-bank]].
+- Starts the Taiwan branch cluster beside [[foreign-financial-institutions/mega-icbc-japan]], [[foreign-financial-institutions/ctbc-bank-japan]], and [[foreign-financial-institutions/esun-bank-japan]].
+- Helps keep Taiwan banks distinct from mainland China bank branches and from Japanese [[regional-banks/chugoku-bank]].
 
 ## Related
 
-- [[mega-icbc-japan]]
-- [[ctbc-bank-japan]]
-- [[esun-bank-japan]]
+- [[foreign-financial-institutions/mega-icbc-japan]]
+- [[foreign-financial-institutions/ctbc-bank-japan]]
+- [[foreign-financial-institutions/esun-bank-japan]]
 - [[banking/foreign-bank-japan-retreat]]
 - [[banking/INDEX]]
 

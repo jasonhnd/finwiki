@@ -15,7 +15,7 @@ translated_at: 2026-06-01T02:31:57.108Z
 
 ## TL;DR
 
-Shizuoka Financial Group 是以静冈县为地盘的单独地方银行控股公司，也是日本最大级别单体地方银行集团之一。2022-10-03 静冈银行通过单独股份转移转为控股公司后成立。其特征是**静冈县内 No. 1  地盘（县内份额压倒性、制造业集聚地）+ 蒙古等海外布局 + 与县内同业 [[suruga-bank|スルガ銀行]]、[[shimizu-bank|清水銀行]] 并存**。通过单独地方银行控股公司化，集团试图改善资本效率并确保 M&A 空间。
+Shizuoka Financial Group 是以静冈县为地盘的单独地方银行控股公司，也是日本最大级别单体地方银行集团之一。2022-10-03 静冈银行通过单独股份转移转为控股公司后成立。其特征是**静冈县内 No. 1  地盘（县内份额压倒性、制造业集聚地）+ 蒙古等海外布局 + 与县内同业 [[regional-banks/suruga-bank|スルガ銀行]]、[[regional-banks/shimizu-bank|清水銀行]] 并存**。通过单独地方银行控股公司化，集团试图改善资本效率并确保 M&A 空间。
 
 ## 1. 公司概要
 
@@ -50,7 +50,7 @@ Shizuoka FG（控股公司・上市 5831）
 - **静冈银行东证一部上市**：作为战后地方银行核心长期上市；PRIME 迁移发生在 2022-04  市场区分重组
 - **2022-10-03 Shizuoka FG 设立**：静冈银行通过单独股份转移转为控股公司（地方银行单独控股公司化的典型案例）
 
-> 整合背景：地方银行单独控股公司化旨在实现以下 3  点：1 将已子公司化的证券、租赁、信用保证等集团金融功能整理至控股公司直属以改善资本效率，2 确保不局限于银行本体的 M&A 和新业态进入空间，3 提高县外和海外布局机动性。与 [[fukuoka-fg|FFG]] 等先行单独 FG 化不同，其特征是“不是合并，而是单独股份转移”。
+> 整合背景：地方银行单独控股公司化旨在实现以下 3  点：1 将已子公司化的证券、租赁、信用保证等集团金融功能整理至控股公司直属以改善资本效率，2 确保不局限于银行本体的 M&A 和新业态进入空间，3 提高县外和海外布局机动性。与 [[regional-banks/fukuoka-fg|FFG]] 等先行单独 FG 化不同，其特征是“不是合并，而是单独股份转移”。
 
 ### 重要年表（摘录）
 
@@ -77,8 +77,8 @@ Shizuoka FG（控股公司・上市 5831）
 
 - **静冈县 = 制造业集聚地**：人口约 360 万（全国 10 位 前后），聚集汽车（Suzuki、Yamaha Motor、Toyota 系）、乐器（Yamaha、Roland、Kawai）、食品、茶等有实力的中坚企业。与这些企业的 main bank 关系是收益基础。
 - **与县内同业并存**：
-  - [[suruga-bank|スルガ銀行]]（静冈县沼津总部、第二地方银行）-- 县东部竞争者，因过去“南瓜马车”投资问题处于经营重建中。
-  - [[shimizu-bank|清水銀行 等]] -- 与县内中小地方银行竞争并分工。
+  - [[regional-banks/suruga-bank|スルガ銀行]]（静冈县沼津总部、第二地方银行）-- 县东部竞争者，因过去“南瓜马车”投资问题处于经营重建中。
+  - [[regional-banks/shimizu-bank|清水銀行 等]] -- 与县内中小地方银行竞争并分工。
 - **县内份额压倒性**，但人口减少和年轻层流出是中长期结构性课题。
 
 ### 海外战略
@@ -95,9 +95,9 @@ Shizuoka FG（控股公司・上市 5831）
 
 ### 在地方银行重组中的位置
 
-- **作为单独地方银行集团，是日本国内最大级别之一**（与 [[fukuoka-fg|FFG]]、[[regional-banks/chiba-bank|千葉銀行 FG]]、[[concordia-fg|コンコルディア FG]] 等据点并列）。
+- **作为单独地方银行集团，是日本国内最大级别之一**（与 [[regional-banks/fukuoka-fg|FFG]]、[[regional-banks/chiba-bank|千葉銀行 FG]]、[[regional-banks/concordia-fg|コンコルディア FG]] 等据点并列）。
 - 与 SBI 第 4  megabank 构想保持距离，走独立路线（拥有强地盘和制造业 main bank 位置）。
-- 面对 megabank（[[mufg]] / [[smfg]] / [[mizuho-fg]]），以地域密着 + 制造业集聚进行对抗。
+- 面对 megabank（[[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]]），以地域密着 + 制造业集聚进行对抗。
 
 ## 4. 监管 / 政策
 
@@ -111,8 +111,8 @@ Shizuoka FG（控股公司・上市 5831）
 
 ## Related
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]]（megabank 3 行）
-- [[fukuoka-fg]] · [[suruga-bank]] · [[shimizu-bank]] · [[shizuoka-chuo-bank]]（地方银行 / 第二地方银行群）
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]（megabank 3 行）
+- [[regional-banks/fukuoka-fg]] · [[regional-banks/suruga-bank]] · [[regional-banks/shimizu-bank]] · [[regional-banks/shizuoka-chuo-bank]]（地方银行 / 第二地方银行群）
 - [[banking/minna-bank-baas-model]]（地方银行数字战略比较）
 
 ## Sources

@@ -15,7 +15,7 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 
 ## TL;DR
 
-Mitsui Sumitomo Insurance Co., Ltd. is the core non-life insurance operating company of the [[msad]] group. It is a licensed insurer on the FSA non-life insurance company license list and carries the MS&AD group's corporate / commercial risk, auto, fire, marine, and overseas insurance capabilities.
+Mitsui Sumitomo Insurance Co., Ltd. is the core non-life insurance operating company of the [[non-life-insurers/msad]] group. It is a licensed insurer on the FSA non-life insurance company license list and carries the MS&AD group's corporate / commercial risk, auto, fire, marine, and overseas insurance capabilities.
 
 ## 1. License / Group Boundary
 
@@ -24,24 +24,24 @@ Mitsui Sumitomo Insurance Co., Ltd. is the core non-life insurance operating com
 | Legal name | Mitsui Sumitomo Insurance Co., Ltd. |
 | License route | Insurance Business Act non-life insurance company; FSA non-life insurer list |
 | Protection scheme | Non-Life Insurance Policyholders Protection Corporation member |
-| Group boundary | [[msad]] core non-life operating company |
+| Group boundary | [[non-life-insurers/msad]] core non-life operating company |
 | Wiki role | MS&AD group's Mitsui / Sumitomo lineage non-life arm |
 
 ## 2. Operating Model
 
-MS&AD has more than one large domestic non-life operating company. Mitsui Sumitomo Insurance is the larger corporate / commercial and global-risk-facing arm, while [[aioi-nissay-dowa-insurance]] has a separate domestic-retail and Toyota / regional-channel adjacency. That split matters for competition, channel analysis, and any future merger / integration watch.
+MS&AD has more than one large domestic non-life operating company. Mitsui Sumitomo Insurance is the larger corporate / commercial and global-risk-facing arm, while [[non-life-insurers/aioi-nissay-dowa-insurance]] has a separate domestic-retail and Toyota / regional-channel adjacency. That split matters for competition, channel analysis, and any future merger / integration watch.
 
 ## 3. Why This Page Matters
 
-- Separates [[msad]] holding-company strategy from operating-company underwriting.
-- Necessary counterpart to [[aioi-nissay-dowa-insurance]] and [[mitsui-sumitomo-aioi-life]].
+- Separates [[non-life-insurers/msad]] holding-company strategy from operating-company underwriting.
+- Necessary counterpart to [[non-life-insurers/aioi-nissay-dowa-insurance]] and [[life-insurers/mitsui-sumitomo-aioi-life]].
 - Registry-backed D3  non-life major page.
 
 ## Related
 
-- [[msad]]
-- [[aioi-nissay-dowa-insurance]]
-- [[mitsui-sumitomo-aioi-life]]
+- [[non-life-insurers/msad]]
+- [[non-life-insurers/aioi-nissay-dowa-insurance]]
+- [[life-insurers/mitsui-sumitomo-aioi-life]]
 - [[insurance/natcat-reinsurance-japan]]
 - [[insurance/INDEX]]
 

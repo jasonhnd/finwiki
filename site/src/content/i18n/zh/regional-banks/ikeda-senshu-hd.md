@@ -16,7 +16,7 @@ translated_at: 2026-05-31T15:29:03.880Z
 
 ## 长话短说
 
-**关西中型区域银行 FG**，总部位于大阪府。证券代码 **TSE PRIME8714**。2009-10-01通过**池田银行+泉州银行**的管理整合而成立，2010-05-01二子银行合并成立**池田专修银行**。大阪府 **北雪/池田地区（以前的池田杜松子酒）** + **泉州地区 = 大阪府南部（以前的泉州杜松子酒）** + **兵库县东南部**3 我们专注于京阪神巨型经济区的中小型企业融资。在关西[[resona-hd]]与（关西未来银行）、京都FG、滋贺银行、南都银行等直接竞争3 行（[[mufg]]/[[smfg]]/[[mizuho-fg]]），分为中型层和中小型层。^[extracted]
+**关西中型区域银行 FG**，总部位于大阪府。证券代码 **TSE PRIME8714**。2009-10-01通过**池田银行+泉州银行**的管理整合而成立，2010-05-01二子银行合并成立**池田专修银行**。大阪府 **北雪/池田地区（以前的池田杜松子酒）** + **泉州地区 = 大阪府南部（以前的泉州杜松子酒）** + **兵库县东南部**3 我们专注于京阪神巨型经济区的中小型企业融资。在关西[[megabanks/resona-hd]]与（关西未来银行）、京都FG、滋贺银行、南都银行等直接竞争3 行（[[megabanks/mufg]]/[[megabanks/smfg]]/[[megabanks/mizuho-fg]]），分为中型层和中小型层。^[extracted]
 
 ## 1。公司简介
 
@@ -105,18 +105,18 @@ translated_at: 2026-05-31T15:29:03.880Z
 
 |竞赛|地面|成分|
 |---|---|---|
-|[[resona-hd]]（关西未来银行）|关西地区 |原大和银行+原近畿大阪银行+原港银行（兵库）联盟→关西零售业的直接竞争|
+|[[megabanks/resona-hd]]（关西未来银行）|关西地区 |原大和银行+原近畿大阪银行+原港银行（兵库）联盟→关西零售业的直接竞争|
 |京都 FG（京都银行）|京都府/关西|京阪神地区的部分竞争（京都银行因交叉持股全国上市公司而资金充裕）|
 |滋贺银行|滋贺县/关西|接近关西地区银行排名，京阪神客户争夺战
 |南都银行 |奈良县 |关西地区银行在奈良和京都南部展开竞争
 |清银行 |和歌山县 |和歌山县的竞争对手|
-|[[mufg]]/[[smfg]]/[[mizuho-fg]]|全国 |大企业主行区无竞争，中型企业主行区有部分竞争|
-|[[paypay-fg]]/ 乐天银行 / Sumishin SBI Net Bank |数码|个人数字领域的新兴竞争对手|
+|[[megabanks/mufg]]/[[megabanks/smfg]]/[[megabanks/mizuho-fg]]|全国 |大企业主行区无竞争，中型企业主行区有部分竞争|
+|[[megabanks/paypay-fg]]/ 乐天银行 / Sumishin SBI Net Bank |数码|个人数字领域的新兴竞争对手|
 
 ### 整合协同效应/问题
 
 - **池田银行（北摄）+泉州银行（南部）之间的地理互补性高**：没有其他区域银行同时控制大阪府的北端和南端，单一银行整合将产生巨大的协同效应。^[extracted]
-- **京阪神大型经济区“中型区域银行”的生存**：大型3 行+[[resona-hd]]+ 与京都银行等的客户竞争^[extracted]
+- **京阪神大型经济区“中型区域银行”的生存**：大型3 行+[[megabanks/resona-hd]]+ 与京都银行等的客户竞争^[extracted]
 
 ## 4.法规/政策
 
@@ -132,9 +132,9 @@ translated_at: 2026-05-31T15:29:03.880Z
 
 ## 有关的
 
-- [[mufg]]·[[smfg]]·[[mizuho-fg]]·[[resona-hd]]·[[sumitomo-mitsui-trust]]
-- [[concordia-fg]]·[[fukuoka-fg]]·[[shizuoka-fg]]·[[hirogin-hd]]
-- [[paypay-fg]]·[[rakuten-fg]]·[[sbi-hd]]
+- [[megabanks/mufg]]·[[megabanks/smfg]]·[[megabanks/mizuho-fg]]·[[megabanks/resona-hd]]·[[trust-banks/sumitomo-mitsui-trust]]
+- [[regional-banks/concordia-fg]]·[[regional-banks/fukuoka-fg]]·[[regional-banks/shizuoka-fg]]·[[regional-banks/hirogin-hd]]
+- [[megabanks/paypay-fg]]·[[payment-firms/rakuten-fg]]·[[megabanks/sbi-hd]]
 
 ## 来源
 

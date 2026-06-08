@@ -17,7 +17,7 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 
 ## TL;DR
 
-FWD Life Insurance Co., Ltd. is a foreign-affiliated life insurer in Japan listed in the FSA's life-insurance company license list. In JapanFG, it should be compared with [[nn-life-japan]], [[metlife-japan]], [[manulife-japan]], [[prudential-japan]], and other Japanese operating companies of foreign-affiliated insurance groups.
+FWD Life Insurance Co., Ltd. is a foreign-affiliated life insurer in Japan listed in the FSA's life-insurance company license list. In JapanFG, it should be compared with [[life-insurers/nn-life-japan]], [[life-insurers/metlife-japan]], [[life-insurers/manulife-japan]], [[life-insurers/prudential-japan]], and other Japanese operating companies of foreign-affiliated insurance groups.
 
 ## 1. License / group boundary
 
@@ -43,11 +43,11 @@ This page uses the legal name in the FSA registry as its anchor and connects the
 
 ## Related
 
-- [[nn-life-japan]]
-- [[metlife-japan]]
-- [[manulife-japan]]
-- [[prudential-japan]]
-- [[axa-japan]]
+- [[life-insurers/nn-life-japan]]
+- [[life-insurers/metlife-japan]]
+- [[life-insurers/manulife-japan]]
+- [[life-insurers/prudential-japan]]
+- [[life-insurers/axa-japan]]
 - [[insurance/INDEX]]
 
 ## Sources

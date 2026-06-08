@@ -15,7 +15,7 @@ translated_at: 2026-06-01T02:31:57.100Z
 
 ## TL;DR
 
-SOMPO 向日葵生命保险株式会社是 [[sompo]] 集团旗下的人寿保险经营公司。[[sompo]] 通常被视为大型损害保险集团，但 SOMPO 向日葵生命是列入金融厅寿险公司名单的独立承保主体，提供健康 / 生命保障产品。
+SOMPO 向日葵生命保险株式会社是 [[non-life-insurers/sompo]] 集团旗下的人寿保险经营公司。[[non-life-insurers/sompo]] 通常被视为大型损害保险集团，但 SOMPO 向日葵生命是列入金融厅寿险公司名单的独立承保主体，提供健康 / 生命保障产品。
 
 ## 1. 许可证 / 集团边界
 
@@ -24,14 +24,14 @@ SOMPO 向日葵生命保险株式会社是 [[sompo]] 集团旗下的人寿保险
 | 法定名称 | SOMPO 向日葵生命保险株式会社 |
 | 许可证路径 | 保险业法下的人寿保险公司；金融厅寿险公司名单 |
 | 行业团体 | 生命保险协会会员 |
-| 集团边界 | [[sompo]] 旗下人寿保险经营公司 |
+| 集团边界 | [[non-life-insurers/sompo]] 旗下人寿保险经营公司 |
 | Wiki 角色 | 大型损害保险集团旗下的人寿保险产品承保主体 |
 
 ## 2. 经营模式
 
-SOMPO 集团与 [[tokio-marine]]、[[msad]] 并列为大型损害保险集团，但集团战略还覆盖损害保险、人寿保险、护理、数字化和健康支持服务。SOMPO 向日葵生命承担该集团内的人寿保险承保边界，因此应与 [[sompo]] 母公司页面分开处理。
+SOMPO 集团与 [[non-life-insurers/tokio-marine]]、[[non-life-insurers/msad]] 并列为大型损害保险集团，但集团战略还覆盖损害保险、人寿保险、护理、数字化和健康支持服务。SOMPO 向日葵生命承担该集团内的人寿保险承保边界，因此应与 [[non-life-insurers/sompo]] 母公司页面分开处理。
 
-在 FinWiki 中，可将 [[tokio-marine-nichido-life]] 作为损害保险集团旗下寿险业务的锚点，并在后续补充 MS&AD 系寿险业务页面时进行比较。
+在 FinWiki 中，可将 [[life-insurers/tokio-marine-nichido-life]] 作为损害保险集团旗下寿险业务的锚点，并在后续补充 MS&AD 系寿险业务页面时进行比较。
 
 ## 3. 本页意义
 
@@ -41,10 +41,10 @@ SOMPO 集团与 [[tokio-marine]]、[[msad]] 并列为大型损害保险集团，
 
 ## Related
 
-- [[sompo]]
-- [[tokio-marine]]
-- [[msad]]
-- [[tokio-marine-nichido-life]]
+- [[non-life-insurers/sompo]]
+- [[non-life-insurers/tokio-marine]]
+- [[non-life-insurers/msad]]
+- [[life-insurers/tokio-marine-nichido-life]]
 - [[insurance/INDEX]]
 
 ## Sources

@@ -16,7 +16,7 @@ This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]].
 
 ##TL;DR
 
-Japan **3 A short-term money market intermediary that is part of Daitanshi Company**.2001-04 Formerly **Yamane Tanshi + Central Tanshi + Tanshi** 3 社An unlisted company established through a merger, its core business is **interbank intermediary** in call markets, bill trading markets, CD/CP trading, government bond trading, etc. It also functions as a countermeasure for Bank of Japan operations. The company is unique in the industry in that through its subsidiary **Central Tanshi FX**, it offers **FX services for individuals**, which is rare among tanshi companies. The competition is [[ueda-yagi-tanshi]](Ueda Yagi Tanshi) and Tokyo Tanshi,3 社to form an oligopoly.2024 年With the Bank of Japan's lifting of negative interest rates, expectations are rising for the revival of the money market industry, which has been on the decline for a long time.
+Japan **3 A short-term money market intermediary that is part of Daitanshi Company**.2001-04 Formerly **Yamane Tanshi + Central Tanshi + Tanshi** 3 社An unlisted company established through a merger, its core business is **interbank intermediary** in call markets, bill trading markets, CD/CP trading, government bond trading, etc. It also functions as a countermeasure for Bank of Japan operations. The company is unique in the industry in that through its subsidiary **Central Tanshi FX**, it offers **FX services for individuals**, which is rare among tanshi companies. The competition is [[financial-regulators/ueda-yagi-tanshi]](Ueda Yagi Tanshi) and Tokyo Tanshi,3 社to form an oligopoly.2024 年With the Bank of Japan's lifting of negative interest rates, expectations are rising for the revival of the money market industry, which has been on the decline for a long time.
 
 ## 1. Company Profile
 
@@ -34,7 +34,7 @@ Japan **3 A short-term money market intermediary that is part of Daitanshi Compa
 | Central Tanshi (old) | 1929 | Based on the former “Tanshi” |
 | Tanshi | 1932 | Tanshi broker established before the war |
 
-2001-04-01 Above due to industry reorganization 3 社merged and the current Central Tanshi Co., Ltd. was established. This was one of the largest reorganizations in the money market industry after the war.3 Daitanshi system (Central Tanshi / [[ueda-yagi-tanshi]] / Tokyo Tanshi).
+2001-04-01 Above due to industry reorganization 3 社merged and the current Central Tanshi Co., Ltd. was established. This was one of the largest reorganizations in the money market industry after the war.3 Daitanshi system (Central Tanshi / [[financial-regulators/ueda-yagi-tanshi]] / Tokyo Tanshi).
 
 ### Major subsidiaries
 
@@ -61,7 +61,7 @@ Tanshi companies are **specialized intermediaries in the interbank market** that
 | Tanshi companies | Affiliates/Characteristics |
 |---|---|
 | **Central Tanshi** | 2001 Yamane + Central + Tanshi merger, personal FX development |
-| [[ueda-yagi-tanshi]](Tanshi Ueda Yagi) | 2001 Ueda Tanshi + Yagi Tanshi merger and precious metals trading |
+| [[financial-regulators/ueda-yagi-tanshi]](Tanshi Ueda Yagi) | 2001 Ueda Tanshi + Yagi Tanshi merger and precious metals trading |
 | Tokyo Tanshi | Independent since before the war, focused on call brokerage |
 
 3 社Japan's short-term money market intermediation was dominated by the government. They compete closely with each other in terms of human resources and transaction flow.
@@ -111,10 +111,10 @@ Central Tanshi FX is a rare example of a tanshi company affiliated with retail F
 
 ## Related
 
-- [[ueda-yagi-tanshi]] — 3 Large tanshi competition (Ueda Yagi tanshi)
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] — Major megabanks
-- [[norinchukin]] — Interbank market major participants
-- [[shinkin-central]] — Shinkin Central Bank (short-term market participant)
+- [[financial-regulators/ueda-yagi-tanshi]] — 3 Large tanshi competition (Ueda Yagi tanshi)
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] — Major megabanks
+- [[cooperative-banks/norinchukin]] — Interbank market major participants
+- [[cooperative-banks/shinkin-central]] — Shinkin Central Bank (short-term market participant)
 
 ## Sources
 

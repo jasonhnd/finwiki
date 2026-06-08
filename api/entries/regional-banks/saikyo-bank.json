@@ -48,22 +48,18 @@
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 14,
+    "wikilinks_count": 10,
     "wikilinks": [
       "INDEX",
       "banking/INDEX",
       "banking/regional-bank-consolidation-pattern",
       "financial-regulators/fsa",
       "financial-regulators/zenginkyo",
-      "hiroshima-bank",
-      "kitakyushu-bank",
-      "momiji-bank",
       "regional-banks/INDEX",
       "regional-banks/hiroshima-bank",
       "regional-banks/kitakyushu-bank",
       "regional-banks/momiji-bank",
-      "regional-banks/yamaguchi-fg",
-      "yamaguchi-fg"
+      "regional-banks/yamaguchi-fg"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
@@ -71,23 +67,19 @@
       "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
       "https://finwiki.zksc.io/financial-regulators/fsa",
       "https://finwiki.zksc.io/financial-regulators/zenginkyo",
-      "https://finwiki.zksc.io/hiroshima-bank",
-      "https://finwiki.zksc.io/kitakyushu-bank",
-      "https://finwiki.zksc.io/momiji-bank",
       "https://finwiki.zksc.io/regional-banks/INDEX",
       "https://finwiki.zksc.io/regional-banks/hiroshima-bank",
       "https://finwiki.zksc.io/regional-banks/kitakyushu-bank",
       "https://finwiki.zksc.io/regional-banks/momiji-bank",
-      "https://finwiki.zksc.io/regional-banks/yamaguchi-fg",
-      "https://finwiki.zksc.io/yamaguchi-fg"
+      "https://finwiki.zksc.io/regional-banks/yamaguchi-fg"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2738,
-    "word_like_tokens": 395,
-    "inbound_wikilinks_count": 1,
-    "last_modified": "2026-06-05"
+    "nonspace_chars": 2798,
+    "word_like_tokens": 403,
+    "inbound_wikilinks_count": 2,
+    "last_modified": "2026-06-08"
   }
 }

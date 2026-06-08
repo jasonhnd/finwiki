@@ -49,27 +49,27 @@
     "wikilinks_count": 6,
     "wikilinks": [
       "banking/INDEX",
-      "hyakugo-bank",
-      "juroku-fg",
-      "mufg",
+      "megabanks/mufg",
       "regional-banks/INDEX",
-      "regional-banks/fukuoka-fg"
+      "regional-banks/fukuoka-fg",
+      "regional-banks/hyakugo-bank",
+      "regional-banks/juroku-fg"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/hyakugo-bank",
-      "https://finwiki.zksc.io/juroku-fg",
-      "https://finwiki.zksc.io/mufg",
+      "https://finwiki.zksc.io/megabanks/mufg",
       "https://finwiki.zksc.io/regional-banks/INDEX",
-      "https://finwiki.zksc.io/regional-banks/fukuoka-fg"
+      "https://finwiki.zksc.io/regional-banks/fukuoka-fg",
+      "https://finwiki.zksc.io/regional-banks/hyakugo-bank",
+      "https://finwiki.zksc.io/regional-banks/juroku-fg"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2557,
-    "word_like_tokens": 425,
-    "inbound_wikilinks_count": 0,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 2627,
+    "word_like_tokens": 434,
+    "inbound_wikilinks_count": 8,
+    "last_modified": "2026-06-08"
   }
 }

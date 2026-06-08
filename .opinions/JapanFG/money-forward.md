@@ -32,5 +32,5 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 - MUFG Biz Forward 単独化後のファクタリング事業戦略は? (3 メガバンク以外との提携可能性)
 - マネーフォワード PFP の大企業 BPaaS は売上柱に成長するか?
 - 個人 ME の有料転換率改善策と AI 機能 (家計助言エージェント) の収益化
-- [[smfg]] / [[mizuho-fg]] / [[ndfg]] / [[sbi-hd]] 等との新規提携余地
+- [[megabanks/smfg]] / [[megabanks/mizuho-fg]] / [[megabanks/ndfg]] / [[megabanks/sbi-hd]] 等との新規提携余地
 - 海外展開 (アジア PFM 市場) の本格化はあるか?

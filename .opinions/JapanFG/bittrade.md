@@ -26,5 +26,5 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 - BitTrade 日本法人の **現在の実質支配株主**と Huobi グローバル / PtokaPay / Justin Sun 系との資本関係の最新整理は？
 - 取扱通貨数 30+ のうち、**実取引高の集中度**（上位 5 銘柄シェア）は？
 - JVCEA 内での **新規上場審査スピード**（BitTrade vs bitFlyer 等）の差は？
-- ステーブルコイン制度下で [[mufg]] **Progmat Coin** 等を BitTrade が扱う可能性は？
+- ステーブルコイン制度下で [[megabanks/mufg]] **Progmat Coin** 等を BitTrade が扱う可能性は？
 - 中堅枠の **M&A 再編シナリオ**（メガバンク系 FG や海外大手による国内中堅買収）における立ち位置は？

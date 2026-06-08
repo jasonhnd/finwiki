@@ -48,38 +48,36 @@
     "中期戦略（2024 中計）"
   ],
   "body_links": {
-    "wikilinks_count": 10,
+    "wikilinks_count": 9,
     "wikilinks": [
       "banking/INDEX",
-      "central-tanshi",
       "financial-regulators/INDEX",
       "financial-regulators/central-tanshi",
-      "mizuho-fg",
+      "financial-regulators/tokyo-tanshi",
+      "megabanks/mizuho-fg",
+      "megabanks/mufg",
+      "megabanks/smfg",
       "money-market/boj-open-market-operations",
-      "money-market/japan-money-market",
-      "mufg",
-      "smfg",
-      "tokyo-tanshi"
+      "money-market/japan-money-market"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/central-tanshi",
       "https://finwiki.zksc.io/financial-regulators/INDEX",
       "https://finwiki.zksc.io/financial-regulators/central-tanshi",
-      "https://finwiki.zksc.io/mizuho-fg",
+      "https://finwiki.zksc.io/financial-regulators/tokyo-tanshi",
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/smfg",
       "https://finwiki.zksc.io/money-market/boj-open-market-operations",
-      "https://finwiki.zksc.io/money-market/japan-money-market",
-      "https://finwiki.zksc.io/mufg",
-      "https://finwiki.zksc.io/smfg",
-      "https://finwiki.zksc.io/tokyo-tanshi"
+      "https://finwiki.zksc.io/money-market/japan-money-market"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3005,
-    "word_like_tokens": 420,
-    "inbound_wikilinks_count": 20,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 3161,
+    "word_like_tokens": 435,
+    "inbound_wikilinks_count": 21,
+    "last_modified": "2026-06-08"
   }
 }

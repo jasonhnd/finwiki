@@ -37,10 +37,10 @@ Read this entry together with the related banks, insurers, leasing companies, as
 
 ## Protected source anchors
 
-- [[regional-banks/INDEX|regional-banks INDEX]] [[regional-banks/fukuoka-fg|ふくおか FG (FFG)]] [[banking/INDEX|banking index]] 2018-04-02 2021-05-01 33 1  [[hyakugo-bank]] ^[extracted] 1 7322
+- [[regional-banks/INDEX|regional-banks INDEX]] [[regional-banks/fukuoka-fg|ふくおか FG (FFG)]] [[banking/INDEX|banking index]] 2018-04-02 2021-05-01 33 1  [[regional-banks/hyakugo-bank]] ^[extracted] 1 7322
  2018-04-02 2021-05-01 ^[extracted] 7322 100% 2021-05-01 1895
 - 1928 2018-04-02 ^[extracted] 2021-05-01 2024 3 1000 万 5 52  17
- 2024 7 [[juroku-fg]] 2024  [[hyakugo-bank]] 1  [[juroku-fg]] [[mufg]]
+ 2024 7 [[regional-banks/juroku-fg]] 2024  [[regional-banks/hyakugo-bank]] 1  [[regional-banks/juroku-fg]] [[megabanks/mufg]]
 - 2026-05-19 2026-05-19 1.0  2026-05-19
 
 ## Related

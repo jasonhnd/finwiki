@@ -49,46 +49,44 @@
     "「第 4 のメガバンク構想」提唱と SBI 地銀 HD への商号変更"
   ],
   "body_links": {
-    "wikilinks_count": 14,
+    "wikilinks_count": 13,
     "wikilinks": [
       "banking/INDEX",
-      "chiba-bank",
-      "concordia-fg",
-      "fukuoka-fg",
-      "jimoto-hd",
       "megabanks/INDEX",
+      "megabanks/mizuho-fg",
       "megabanks/mufg",
-      "mizuho-fg",
-      "mufg",
-      "ndfg",
-      "sbi-hd",
-      "sbi-shinsei-bank",
-      "shimane-bank",
-      "smfg"
+      "megabanks/ndfg",
+      "megabanks/sbi-hd",
+      "megabanks/smfg",
+      "regional-banks/chiba-bank",
+      "regional-banks/concordia-fg",
+      "regional-banks/fukuoka-fg",
+      "regional-banks/jimoto-hd",
+      "regional-banks/sbi-shinsei-bank",
+      "regional-banks/shimane-bank"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/chiba-bank",
-      "https://finwiki.zksc.io/concordia-fg",
-      "https://finwiki.zksc.io/fukuoka-fg",
-      "https://finwiki.zksc.io/jimoto-hd",
       "https://finwiki.zksc.io/megabanks/INDEX",
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
       "https://finwiki.zksc.io/megabanks/mufg",
-      "https://finwiki.zksc.io/mizuho-fg",
-      "https://finwiki.zksc.io/mufg",
-      "https://finwiki.zksc.io/ndfg",
-      "https://finwiki.zksc.io/sbi-hd",
-      "https://finwiki.zksc.io/sbi-shinsei-bank",
-      "https://finwiki.zksc.io/shimane-bank",
-      "https://finwiki.zksc.io/smfg"
+      "https://finwiki.zksc.io/megabanks/ndfg",
+      "https://finwiki.zksc.io/megabanks/sbi-hd",
+      "https://finwiki.zksc.io/megabanks/smfg",
+      "https://finwiki.zksc.io/regional-banks/chiba-bank",
+      "https://finwiki.zksc.io/regional-banks/concordia-fg",
+      "https://finwiki.zksc.io/regional-banks/fukuoka-fg",
+      "https://finwiki.zksc.io/regional-banks/jimoto-hd",
+      "https://finwiki.zksc.io/regional-banks/sbi-shinsei-bank",
+      "https://finwiki.zksc.io/regional-banks/shimane-bank"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5427,
-    "word_like_tokens": 928,
-    "inbound_wikilinks_count": 8,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 5837,
+    "word_like_tokens": 979,
+    "inbound_wikilinks_count": 13,
+    "last_modified": "2026-06-08"
   }
 }

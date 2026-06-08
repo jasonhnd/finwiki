@@ -15,7 +15,7 @@ This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-i
 
 ## TL;DR
 
-Japan bases of Switzerland UBS Group AG (G-SIB Bucket 1, one of the world's largest private banks). **2023-06  emergency acquisition of former Credit Suisse completed under Swiss government initiative**, integration of former CS Japan base into 2024 年 is progressing ★. In Japan, the 4  axis structure includes UBS Securities (corporate IB) + **UBS SuMi TRUST Wealth Management (JV with [[sumitomo-mitsui-trust]])** + UBS Bank Tokyo Branch + UBS Asset Management. Our PB (private banking) is top-class in the world, and in Japan we are developing asset management for wealthy people through SuMi TRUST JV. ^[extracted]
+Japan bases of Switzerland UBS Group AG (G-SIB Bucket 1, one of the world's largest private banks). **2023-06  emergency acquisition of former Credit Suisse completed under Swiss government initiative**, integration of former CS Japan base into 2024 年 is progressing ★. In Japan, the 4  axis structure includes UBS Securities (corporate IB) + **UBS SuMi TRUST Wealth Management (JV with [[trust-banks/sumitomo-mitsui-trust]])** + UBS Bank Tokyo Branch + UBS Asset Management. Our PB (private banking) is top-class in the world, and in Japan we are developing asset management for wealthy people through SuMi TRUST JV. ^[extracted]
 
 ## 1. Company Profile
 
@@ -34,7 +34,7 @@ Japan bases of Switzerland UBS Group AG (G-SIB Bucket 1, one of the world's larg
 - **1964**: Swiss Bank Corporation (formerly UBS) opens Tokyo representative office ^[extracted]
 - **1998**: Union Bank of Switzerland + Swiss Bank Corporation merger → UBS AG established
 - **2008～2009**: After the Lehman Shock, huge losses related to subprime → Swiss government bailout → management restructuring
-- **2014**: Established PB JV with [[sumitomo-mitsui-trust]] (formerly known as UBS SuMi TRUST Wealth Management)
+- **2014**: Established PB JV with [[trust-banks/sumitomo-mitsui-trust]] (formerly known as UBS SuMi TRUST Wealth Management)
 - **2023-03-19**: Credit Suisse management crisis (Emergency relief scheme including AT1  bonds ~160 億 Swiss Franc valuelessness) → Emergency acquisition agreement by UBS led by the Swiss government, SNB, and FINMA ^[extracted]
 - **2023-06-12**: **Completion of emergency acquisition of former Credit Suisse by UBS** (Acquisition consideration approximately 30 億 Swiss francs, CS shares 1  shares: UBS shares 1/22.48) ★ ^[extracted]
 - **2024**: Completion of integration of former Credit Suisse Japan (formerly CS Securities, Japan branch, etc.) into UBS Japan base → Cost restructuring progress
@@ -44,7 +44,7 @@ Japan bases of Switzerland UBS Group AG (G-SIB Bucket 1, one of the world's larg
 | Segment | Main Operator | Features |
 |---|---|---|
 | Corporate IB | UBS Securities | Japanese company M&A / DCM / ECM / Cross-border advisory |
-| PB / WM | UBS SuMi TRUST WM (JV) | [[sumitomo-mitsui-trust]] Customer Base + UBS Global PB Platform |
+| PB / WM | UBS SuMi TRUST WM (JV) | [[trust-banks/sumitomo-mitsui-trust]] Customer Base + UBS Global PB Platform |
 | Banking operations in Japan | UBS Bank Tokyo Branch | Foreign exchange, large deposits, corporate loans |
 | Asset management | UBS Asset Management | For institutional investors and pensions |
 | Former CS Integrated Business | Former CS Securities (integrated) | 2024  integration completed, cost restructuring in progress |
@@ -56,14 +56,14 @@ Japan bases of Switzerland UBS Group AG (G-SIB Bucket 1, one of the world's larg
 
 ### Japan Strategy
 
-- **PB**: [[sumitomo-mitsui-trust]] Reaching wealthy people in Japan through JV. Combining Sumitomo Mitsui Trust’s customer base + UBS’s global PB platform
-- **IB**: Expanding the scale of Japanese IB through integration with former CS → Competing with Japanese banks ([[smfg]] SMBC Nikko, [[mufg]] MUMSS) / US banks (Morgan Stanley, Goldman Sachs, JPMorgan)
+- **PB**: [[trust-banks/sumitomo-mitsui-trust]] Reaching wealthy people in Japan through JV. Combining Sumitomo Mitsui Trust’s customer base + UBS’s global PB platform
+- **IB**: Expanding the scale of Japanese IB through integration with former CS → Competing with Japanese banks ([[megabanks/smfg]] SMBC Nikko, [[megabanks/mufg]] MUMSS) / US banks (Morgan Stanley, Goldman Sachs, JPMorgan)
 - **Cost restructuring**: Gradual downsizing from 2024 to 2026  by eliminating duplication (departments, personnel, sales offices) with the former CS Japan base
 
 ### Alliance/acquisition strategy
 
 - **Credit Suisse Emergency Takeover** (2023-06)★: A rescue scheme led by the Swiss government, SNB, and FINMA. AT1  bond valuelessness is controversial in the market
-- **[[sumitomo-mitsui-trust]] PB JV** (2014~): Japan PB joint development, mutual complementation
+- **[[trust-banks/sumitomo-mitsui-trust]] PB JV** (2014~): Japan PB joint development, mutual complementation
 - **Former CS Japan base integration** (2024): UBS Securities + former CS Securities, Tokyo base/personnel/business integration
 
 ## 5. Regulation/Policy
@@ -89,7 +89,7 @@ Japan bases of Switzerland UBS Group AG (G-SIB Bucket 1, one of the world's larg
 
 ## 8. Related
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[sumitomo-mitsui-trust]] · [[ndfg]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[trust-banks/sumitomo-mitsui-trust]] · [[megabanks/ndfg]]
 - Wiki entries related to major overseas IB/PB (to be added in the future)
 
 ## Sources

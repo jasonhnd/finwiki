@@ -35,14 +35,14 @@ CTBC 的日本分行申请资料和公开披露显示，其东京分行承担在
 ## 3. 为什么重要
 
 - 将台湾主要民营银行在日本的分行纳入 JapanFG 地图。
-- 与 [[bank-of-taiwan-japan]] 等公共或政府相关台湾路径形成互补。
-- 为 [[esun-bank-japan]] 和 [[mega-icbc-japan]] 提供台湾同业对照。
+- 与 [[foreign-financial-institutions/bank-of-taiwan-japan]] 等公共或政府相关台湾路径形成互补。
+- 为 [[foreign-financial-institutions/esun-bank-japan]] 和 [[foreign-financial-institutions/mega-icbc-japan]] 提供台湾同业对照。
 
 ## Related
 
-- [[bank-of-taiwan-japan]]
-- [[mega-icbc-japan]]
-- [[esun-bank-japan]]
+- [[foreign-financial-institutions/bank-of-taiwan-japan]]
+- [[foreign-financial-institutions/mega-icbc-japan]]
+- [[foreign-financial-institutions/esun-bank-japan]]
 - [[banking/foreign-bank-japan-retreat]]
 - [[banking/INDEX]]
 

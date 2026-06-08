@@ -24,7 +24,7 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 
 ## TL;DR
 
-SOMPOダイレクト損害保険株式会社は、[[sompo]] group の direct non-life insurance operating company。旧セゾン自動車火災 insurance surface を含み、金融庁の損害保険会社免許一覧に current legal name で掲載される。
+SOMPOダイレクト損害保険株式会社は、[[non-life-insurers/sompo]] group の direct non-life insurance operating company。旧セゾン自動車火災 insurance surface を含み、金融庁の損害保険会社免許一覧に current legal name で掲載される。
 
 ## 1. License / group boundary
 
@@ -34,11 +34,11 @@ SOMPOダイレクト損害保険株式会社は、[[sompo]] group の direct non
 | Former / product association | セゾン自動車火災 / おとなの自動車保険 |
 | License route | Insurance Business Act non-life insurance company; FSA non-life insurer list |
 | Protection scheme | Non-Life Insurance Policyholders Protection Corporation member |
-| Group boundary | [[sompo]] direct non-life operating company |
+| Group boundary | [[non-life-insurers/sompo]] direct non-life operating company |
 
 ## 2. Operating model
 
-SOMPOダイレクト gives SOMPO a digital / direct channel that differs from the agency-led [[sompo-japan-insurance]]. Direct auto insurance, web quotation, call-center operations, and lower-cost distribution are the key analytical axes.
+SOMPOダイレクト gives SOMPO a digital / direct channel that differs from the agency-led [[non-life-insurers/sompo-japan-insurance]]. Direct auto insurance, web quotation, call-center operations, and lower-cost distribution are the key analytical axes.
 
 ## 3. Why this page matters
 
@@ -48,11 +48,11 @@ SOMPOダイレクト gives SOMPO a digital / direct channel that differs from th
 
 ## Related
 
-- [[sompo]]
-- [[sompo-japan-insurance]]
+- [[non-life-insurers/sompo]]
+- [[non-life-insurers/sompo-japan-insurance]]
 - [[insurance/saison-automobile-fire]]
-- [[sony-insurance]]
-- [[tokio-marine-direct]]
+- [[non-life-insurers/sony-insurance]]
+- [[non-life-insurers/tokio-marine-direct]]
 
 ## Sources
 

@@ -55,10 +55,10 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 ## Related
 
 - [[regional-banks/INDEX|regional-banks INDEX]]
-- [[nishi-nippon-fhd]]
-- [[nishi-nippon-city-bank]]
-- [[18-shinwa-bank]]
-- [[fukuoka-fg]]
+- [[regional-banks/nishi-nippon-fhd]]
+- [[regional-banks/nishi-nippon-city-bank]]
+- [[regional-banks/18-shinwa-bank]]
+- [[regional-banks/fukuoka-fg]]
 - [[financial-regulators/fsa|FSA]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]

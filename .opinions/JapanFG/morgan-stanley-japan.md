@@ -27,5 +27,5 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 - MUFG の Morgan Stanley 持株比率は将来的に変動するか? (買増し or 売却シナリオ)
 - MUMSS / MSMS 2 社体制は永続的か? 1 社統合の可能性は?
 - 2024〜 Ted Pick CEO 体制下での日本戦略の変化は?
-- リテール (MUMSS) のデジタル化対応 (vs SBI [[sbi-hd]]・楽天・マネックス)
+- リテール (MUMSS) のデジタル化対応 (vs SBI [[megabanks/sbi-hd]]・楽天・マネックス)
 - WM 領域での E*TRADE / Eaton Vance プロダクト日本投入の進捗

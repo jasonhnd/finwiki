@@ -49,42 +49,40 @@
     "「第 4 のメガバンク構想」（2020〜）"
   ],
   "body_links": {
-    "wikilinks_count": 12,
+    "wikilinks_count": 11,
     "wikilinks": [
       "banking/INDEX",
       "banking/mercari-bank-license-stack",
       "banking/minna-bank-baas-model",
       "megabanks/INDEX",
+      "megabanks/mizuho-fg",
       "megabanks/mufg",
-      "mizuho-fg",
-      "mufg",
-      "ndfg",
-      "rakuten-fg",
-      "shimane-bank",
-      "smfg",
-      "ssnb"
+      "megabanks/ndfg",
+      "megabanks/smfg",
+      "payment-firms/rakuten-fg",
+      "regional-banks/shimane-bank",
+      "regional-banks/ssnb"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/mercari-bank-license-stack",
       "https://finwiki.zksc.io/banking/minna-bank-baas-model",
       "https://finwiki.zksc.io/megabanks/INDEX",
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
       "https://finwiki.zksc.io/megabanks/mufg",
-      "https://finwiki.zksc.io/mizuho-fg",
-      "https://finwiki.zksc.io/mufg",
-      "https://finwiki.zksc.io/ndfg",
-      "https://finwiki.zksc.io/rakuten-fg",
-      "https://finwiki.zksc.io/shimane-bank",
-      "https://finwiki.zksc.io/smfg",
-      "https://finwiki.zksc.io/ssnb"
+      "https://finwiki.zksc.io/megabanks/ndfg",
+      "https://finwiki.zksc.io/megabanks/smfg",
+      "https://finwiki.zksc.io/payment-firms/rakuten-fg",
+      "https://finwiki.zksc.io/regional-banks/shimane-bank",
+      "https://finwiki.zksc.io/regional-banks/ssnb"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 7385,
-    "word_like_tokens": 1435,
-    "inbound_wikilinks_count": 47,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 7624,
+    "word_like_tokens": 1461,
+    "inbound_wikilinks_count": 97,
+    "last_modified": "2026-06-08"
   }
 }

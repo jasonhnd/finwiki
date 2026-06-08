@@ -17,7 +17,7 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 
 ##TL;DR
 
-Asahi Mutual Life Insurance Company is a Japanese life insurance operating company listed on the Financial Services Agency's list of life insurance company licenses and the list of members of the Life Insurance Association.[[nippon-life]]、[[meiji-yasuda]]、[[sumitomo-life]]、[[fukoku-life]] Because it takes the form of a mutual company, it has a different governance/capital boundary than a listed company or banking subsidiary.
+Asahi Mutual Life Insurance Company is a Japanese life insurance operating company listed on the Financial Services Agency's list of life insurance company licenses and the list of members of the Life Insurance Association.[[life-insurers/nippon-life]]、[[life-insurers/meiji-yasuda]]、[[life-insurers/sumitomo-life]]、[[life-insurers/fukoku-life]] Because it takes the form of a mutual company, it has a different governance/capital boundary than a listed company or banking subsidiary.
 
 ## 1. License / group boundary
 
@@ -38,17 +38,17 @@ Mutual company type insurance companies differ in terms of policyholder governan
 ## 3. Why this page matters
 
 - Major traditional life insurer not previously represented as a standalone JapanFG entity.
-- Useful comparison point against listed / stock-company life insurers such as [[dai-ichi-life]] and [[sony-life]].
+- Useful comparison point against listed / stock-company life insurers such as [[life-insurers/dai-ichi-life]] and [[life-insurers/sony-life]].
 - Keeps the FSA registry count aligned with JapanFG's insurance coverage.
 
 ## Related
 
 - [[insurance/INDEX]]
 - [[insurance/mutual-vs-stock-life-insurer]]
-- [[nippon-life]]
-- [[meiji-yasuda]]
-- [[sumitomo-life]]
-- [[fukoku-life]]
+- [[life-insurers/nippon-life]]
+- [[life-insurers/meiji-yasuda]]
+- [[life-insurers/sumitomo-life]]
+- [[life-insurers/fukoku-life]]
 
 ## Sources
 

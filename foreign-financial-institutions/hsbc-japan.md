@@ -23,7 +23,7 @@ This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-i
 
 ## TL;DR
 
-英 HSBC Holdings plc（LSE / HKEX 上場、G-SIB Bucket 2）の日本拠点群。**1866 横浜支店開設で外資銀行最古級**、**2012-03 「HSBC プレミア」リテール撤退 → 法人専業へ大転換**が現在の事業形態を規定する転換点。香港上海銀行 東京支店（コマーシャル / ホールセール バンキング）+ HSBC 証券会社（IB）+ HSBC グローバルアセットマネジメント を 3 軸とし、アジア（香港）ハブ経由で邦銀グローバル展開・多国籍企業向けトランザクション バンキング・為替コモディティに特化。競合は [[citigroup-japan]] / スタンダード・チャータード / ドイチェ。^[extracted]
+英 HSBC Holdings plc（LSE / HKEX 上場、G-SIB Bucket 2）の日本拠点群。**1866 横浜支店開設で外資銀行最古級**、**2012-03 「HSBC プレミア」リテール撤退 → 法人専業へ大転換**が現在の事業形態を規定する転換点。香港上海銀行 東京支店（コマーシャル / ホールセール バンキング）+ HSBC 証券会社（IB）+ HSBC グローバルアセットマネジメント を 3 軸とし、アジア（香港）ハブ経由で邦銀グローバル展開・多国籍企業向けトランザクション バンキング・為替コモディティに特化。競合は [[foreign-financial-institutions/citigroup-japan]] / スタンダード・チャータード / ドイチェ。^[extracted]
 
 ## 1. 会社概要
 
@@ -86,15 +86,15 @@ HSBC Holdings plc（英、上場）
 ### リテール撤退の戦略インパクト
 
 - **2012-03 「HSBC プレミア」撤退理由**: 日本リテール市場が利益率に合わない（公開声明）^[extracted]
-- **顧客移管**: SBI 信託銀行（現 [[sbi-shinsei-bank]] 系）等に主に移管
+- **顧客移管**: SBI 信託銀行（現 [[regional-banks/sbi-shinsei-bank]] 系）等に主に移管
 - **逆説的効果**: 撤退で固定費削減 → 法人専業化で資本効率向上
-- **対照**: [[citigroup-japan]] は 2015 リテール撤退（三井住友 [[smfg]] に売却）。外資 IB のリテール撤退は構造的トレンド
+- **対照**: [[foreign-financial-institutions/citigroup-japan]] は 2015 リテール撤退（三井住友 [[megabanks/smfg]] に売却）。外資 IB のリテール撤退は構造的トレンド
 
 ### 競合関係
 
 | 競合 | ポジション | HSBC との差 |
 |---|---|---|
-| [[citigroup-japan]] | 米最大外資、Citi Private Bank で富裕層残存 | HSBC は法人特化、シティはプライベートバンクあり |
+| [[foreign-financial-institutions/citigroup-japan]] | 米最大外資、Citi Private Bank で富裕層残存 | HSBC は法人特化、シティはプライベートバンクあり |
 | スタンダード・チャータード（東京支店） | 英 emerging market 特化 | HSBC は HK / 中国デスク強み |
 | ドイチェ銀行 東京支店 | 独 IB、デリバティブ強み | HSBC はコマーシャル銀行重視 |
 | JP モルガン / GS / Morgan Stanley 東京 | 米バルジ ブラケット IB | HSBC は IB より商業銀行寄り |
@@ -116,7 +116,7 @@ HSBC Holdings plc（英、上場）
 
 ## Related
 
-- [[citigroup-japan]] · [[mufg]] · [[smfg]] · [[mizuho-fg]]
+- [[foreign-financial-institutions/citigroup-japan]] · [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]
 - [[banking/foreign-bank-japan-retreat]]（外資系銀行 日本リテール撤退史）
 
 ## Sources

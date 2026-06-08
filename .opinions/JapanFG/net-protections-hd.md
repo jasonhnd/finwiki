@@ -22,11 +22,11 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 ## Counterpoints
 
 - 「保証型 BNPL の損失耐性」: NP 後払い は加盟店リスクを丸抱えするモデルのため、景気後退局面での未回収率上昇が直接損益を直撃する構造。^[inferred]
-- 「PayPal / SoftBank 系経済圏に対する規模劣位」: [[JapanFG/paidy|Paidy]] が PayPal 後ろ盾、Merpay (= [[JapanFG/merpay|メルペイ]]) がメルカリ経済圏、d 払いがドコモ ([[ndfg]]) を後背に持つのに対し、Net Protections は独立上場ゆえに **資本コスト** で見劣りする可能性。^[inferred]
+- 「PayPal / SoftBank 系経済圏に対する規模劣位」: [[payment-firms/paidy|Paidy]] が PayPal 後ろ盾、Merpay (= [[payment-firms/merpay|メルペイ]]) がメルカリ経済圏、d 払いがドコモ ([[megabanks/ndfg]]) を後背に持つのに対し、Net Protections は独立上場ゆえに **資本コスト** で見劣りする可能性。^[inferred]
 - 「BNPL 規制強化への耐性」: 多重債務問題の国際的論調が日本 BNPL 規制にも波及した場合、与信モデル / 上限額 / 与信情報共有義務の追加コストが利益率を圧縮しうる ([[payments/japan-bnpl-credit-purchase-boundary|BNPL boundary]] 参照)。^[ambiguous]
 
 ## Open questions
 
 - AFTEE の海外取扱高は何年で国内 NP 後払い + atone の合計に並ぶか?
-- 上場 BNPL pure-play として、[[JapanFG/credit-saison|Credit Saison]] / [[JapanFG/jaccs|Jaccs]] / [[JapanFG/orico|Orico]] のような信販大手と M&A 圏内に入る可能性は?
-- atone と [[JapanFG/paidy|Paidy]] の消費者側 UX 競争で、加盟店共有率はどう推移しているか?
+- 上場 BNPL pure-play として、[[card-issuers/credit-saison|Credit Saison]] / [[card-issuers/jaccs|Jaccs]] / [[card-issuers/orico|Orico]] のような信販大手と M&A 圏内に入る可能性は?
+- atone と [[payment-firms/paidy|Paidy]] の消費者側 UX 競争で、加盟店共有率はどう推移しているか?

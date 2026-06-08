@@ -49,32 +49,30 @@
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 7,
+    "wikilinks_count": 6,
     "wikilinks": [
-      "aioi-nissay-dowa-insurance",
       "insurance/INDEX",
-      "mitsui-sumitomo-insurance",
-      "msad",
       "non-life-insurers/INDEX",
       "non-life-insurers/aioi-nissay-dowa-insurance",
-      "sony-insurance"
+      "non-life-insurers/mitsui-sumitomo-insurance",
+      "non-life-insurers/msad",
+      "non-life-insurers/sony-insurance"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/aioi-nissay-dowa-insurance",
       "https://finwiki.zksc.io/insurance/INDEX",
-      "https://finwiki.zksc.io/mitsui-sumitomo-insurance",
-      "https://finwiki.zksc.io/msad",
       "https://finwiki.zksc.io/non-life-insurers/INDEX",
       "https://finwiki.zksc.io/non-life-insurers/aioi-nissay-dowa-insurance",
-      "https://finwiki.zksc.io/sony-insurance"
+      "https://finwiki.zksc.io/non-life-insurers/mitsui-sumitomo-insurance",
+      "https://finwiki.zksc.io/non-life-insurers/msad",
+      "https://finwiki.zksc.io/non-life-insurers/sony-insurance"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1938,
-    "word_like_tokens": 301,
+    "nonspace_chars": 2082,
+    "word_like_tokens": 325,
     "inbound_wikilinks_count": 2,
-    "last_modified": "2026-06-06"
+    "last_modified": "2026-06-08"
   }
 }

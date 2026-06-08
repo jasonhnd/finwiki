@@ -15,7 +15,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it wit
 
 ## TL;DR
 
-Saga Kyoei Bank, Ltd. is a second regional bank headquartered in Saga Prefecture and listed on the FSA bank license list. It is Saga Prefecture's second-regional-bank operating-company anchor and is treated as a local peer separate from [[saga-bank]].
+Saga Kyoei Bank, Ltd. is a second regional bank headquartered in Saga Prefecture and listed on the FSA bank license list. It is Saga Prefecture's second-regional-bank operating-company anchor and is treated as a local peer separate from [[regional-banks/saga-bank]].
 
 ## 1. License / Group Boundary
 
@@ -29,7 +29,7 @@ Saga Kyoei Bank, Ltd. is a second regional bank headquartered in Saga Prefecture
 
 ## 2. Operating Model
 
-Saga Kyoei Bank is a second regional bank responsible for retail deposits, SME finance, small-business lending, and local consumer banking within Saga Prefecture. The [[saga-bank]] page covers the first-regional-bank incumbent, while this page covers the second-regional-bank license boundary. See [[banking/regional-bank-consolidation-pattern]] for Kyushu second-regional-bank consolidation pressure.
+Saga Kyoei Bank is a second regional bank responsible for retail deposits, SME finance, small-business lending, and local consumer banking within Saga Prefecture. The [[regional-banks/saga-bank]] page covers the first-regional-bank incumbent, while this page covers the second-regional-bank license boundary. See [[banking/regional-bank-consolidation-pattern]] for Kyushu second-regional-bank consolidation pressure.
 
 ## 3. Why This Page Matters
 
@@ -39,9 +39,9 @@ Saga Kyoei Bank is a second regional bank responsible for retail deposits, SME f
 
 ## Related
 
-- [[saga-bank]]
-- [[fukuoka-bank]]
-- [[nishi-nippon-city-bank]]
+- [[regional-banks/saga-bank]]
+- [[regional-banks/fukuoka-bank]]
+- [[regional-banks/nishi-nippon-city-bank]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 

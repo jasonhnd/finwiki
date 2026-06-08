@@ -49,17 +49,17 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 ## 4. Why this page matters
 
 - Closes the FSA exact-name page for 愛媛銀行.
-- Separates Ehime second-regional-bank coverage from [[iyo-bank]] and [[iyogin-hd]].
+- Separates Ehime second-regional-bank coverage from [[regional-banks/iyo-bank]] and [[regional-banks/iyogin-hd]].
 - Provides a bank-level anchor for Shikoku regional-bank comparison.
 
 ## Related
 
 - [[regional-banks/INDEX|regional-banks INDEX]]
-- [[iyo-bank]]
-- [[iyogin-hd]]
-- [[hyakujushi-bank]]
-- [[awa-bank]]
-- [[shikoku-bank]]
+- [[regional-banks/iyo-bank]]
+- [[regional-banks/iyogin-hd]]
+- [[regional-banks/hyakujushi-bank]]
+- [[regional-banks/awa-bank]]
+- [[regional-banks/shikoku-bank]]
 - [[financial-regulators/fsa|FSA]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]

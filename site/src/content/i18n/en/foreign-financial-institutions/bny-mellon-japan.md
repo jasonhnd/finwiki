@@ -65,14 +65,14 @@ For this reason, FinWiki treats this page as the umbrella route for [[foreign-fi
 
 ### Positioning in Japan
 
-- **Appears in major-shareholder lists for MUFG and others**: The appearance of **The Bank of New York Mellon 3.61%** (2025-03-31) in the [[mufg]] shareholder structure is a general structure accompanying name aggregation through overseas custody accounts for institutional investors ^[extracted]
+- **Appears in major-shareholder lists for MUFG and others**: The appearance of **The Bank of New York Mellon 3.61%** (2025-03-31) in the [[megabanks/mufg]] shareholder structure is a general structure accompanying name aggregation through overseas custody accounts for institutional investors ^[extracted]
 
 ### Major competitors
 
 | Area | Major competitors |
 |---|---|
-| **Global custody** | [[state-street-japan]] / [[citigroup-japan]] / [[jpmorgan-japan]] / HSBC |
-| Domestic trust (master-trust area) | [[master-trust-bank]] (Japan Master Trust) / Custody Bank of Japan / [[sumitomo-mitsui-trust]] / Mitsubishi UFJ Trust |
+| **Global custody** | [[foreign-financial-institutions/state-street-japan]] / [[foreign-financial-institutions/citigroup-japan]] / [[foreign-financial-institutions/jpmorgan-japan]] / HSBC |
+| Domestic trust (master-trust area) | [[trust-banks/master-trust-bank]] (Japan Master Trust) / Custody Bank of Japan / [[trust-banks/sumitomo-mitsui-trust]] / Mitsubishi UFJ Trust |
 | Asset management for institutional investors | BlackRock Japan / Vanguard Japan / Goldman Sachs Asset Management Japan / Fidelity Japan |
 | ADR / depositary institution | Citibank / JPMorgan / Deutsche Bank (one of the major US ADR firms 4 行) |
 
@@ -87,10 +87,10 @@ For this reason, FinWiki treats this page as the umbrella route for [[foreign-fi
 
 ## Related
 
-- **Competing foreign custody firms**: [[state-street-japan]] · [[citigroup-japan]] · [[jpmorgan-japan]]
-- **Domestic trust (division-of-labor partners)**: [[master-trust-bank]] (Japan Master Trust) · [[sumitomo-mitsui-trust]]
-- **Japanese megabanks (customers + shareholder names)**: [[mufg]] · [[smfg]] · [[mizuho-fg]]
-- **Foreign IBs**: [[goldman-sachs-japan]] · [[morgan-stanley-japan]] · [[hsbc-japan]] · [[deutsche-japan]] · [[barclays-japan]] · [[bnp-paribas-japan]]
+- **Competing foreign custody firms**: [[foreign-financial-institutions/state-street-japan]] · [[foreign-financial-institutions/citigroup-japan]] · [[foreign-financial-institutions/jpmorgan-japan]]
+- **Domestic trust (division-of-labor partners)**: [[trust-banks/master-trust-bank]] (Japan Master Trust) · [[trust-banks/sumitomo-mitsui-trust]]
+- **Japanese megabanks (customers + shareholder names)**: [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]
+- **Foreign IBs**: [[securities-firms/goldman-sachs-japan]] · [[securities-firms/morgan-stanley-japan]] · [[foreign-financial-institutions/hsbc-japan]] · [[foreign-financial-institutions/deutsche-japan]] · [[foreign-financial-institutions/barclays-japan]] · [[foreign-financial-institutions/bnp-paribas-japan]]
 
 ## Sources
 

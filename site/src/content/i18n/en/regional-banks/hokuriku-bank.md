@@ -17,7 +17,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-株式会社北陸銀行は、金融庁の銀行免許一覧に掲載される富山県本店の地方銀行で、[[hokuhoku-fg]] の core operating bank。北陸 3 県と広域店舗網を持つため、[[hokkaido-bank]] と並ぶ Hokuhoku group のもう一つの banking pillar。
+株式会社北陸銀行は、金融庁の銀行免許一覧に掲載される富山県本店の地方銀行で、[[regional-banks/hokuhoku-fg]] の core operating bank。北陸 3 県と広域店舗網を持つため、[[regional-banks/hokkaido-bank]] と並ぶ Hokuhoku group のもう一つの banking pillar。
 
 ## 1. License / group boundary
 
@@ -25,27 +25,27 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 |---|---|
 | Legal name | Hokuriku Bank, Ltd. |
 | License route | Banking Act regional bank; FSA bank license list |
-| Group boundary | [[hokuhoku-fg]] operating bank |
+| Group boundary | [[regional-banks/hokuhoku-fg]] operating bank |
 | Home market | Toyama / Hokuriku |
 | Wiki role | Hokuriku regional-bank operating-company page |
 
 ## 2. Operating model
 
-Hokuriku Bank is a regional bank that has expanded to include Ishikawa, Fukui, Hokkaido, Tokyo, and Osaka, centering on Toyama Prefecture. Parent [[hokuhoku-fg]] page covers the holding-company strategy; this page keeps the actual bank license, branch network, and local lending surface separate.
+Hokuriku Bank is a regional bank that has expanded to include Ishikawa, Fukui, Hokkaido, Tokyo, and Osaka, centering on Toyama Prefecture. Parent [[regional-banks/hokuhoku-fg]] page covers the holding-company strategy; this page keeps the actual bank license, branch network, and local lending surface separate.
 
 ## 3. Why this page matters
 
-- Separates the regional-bank legal entity from [[hokuhoku-fg]].
-- Key comparison point against [[hokkoku-bank]], [[toyama-bank]], and [[toyama-first-bank]].
+- Separates the regional-bank legal entity from [[regional-banks/hokuhoku-fg]].
+- Key comparison point against [[regional-banks/hokkoku-bank]], [[regional-banks/toyama-bank]], and [[regional-banks/toyama-first-bank]].
 - Registry-backed B2.1 regional-bank operating-company page; consolidation context lives at [[banking/regional-bank-consolidation-pattern]] under [[banking/INDEX|banking index]].
 
 ## Related
 
-- [[hokuhoku-fg]]
-- [[hokkaido-bank]]
-- [[hokkoku-bank]]
-- [[toyama-bank]]
-- [[toyama-first-bank]]
+- [[regional-banks/hokuhoku-fg]]
+- [[regional-banks/hokkaido-bank]]
+- [[regional-banks/hokkoku-bank]]
+- [[regional-banks/toyama-bank]]
+- [[regional-banks/toyama-first-bank]]
 
 ## Sources
 

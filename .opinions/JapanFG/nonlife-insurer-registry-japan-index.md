@@ -12,7 +12,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## 推論 (from Registry snapshot)
 
-| Specialist reinsurers (再保険専業) | 2 domestic ([[JapanFG/toa-reinsurance|Toa Re]], [[JapanFG/japan-earthquake-reinsurance|JER]]) + several foreign branches ^[inferred] |
+| Specialist reinsurers (再保険専業) | 2 domestic ([[non-life-insurers/toa-reinsurance|Toa Re]], [[non-life-insurers/japan-earthquake-reinsurance|JER]]) + several foreign branches ^[inferred] |
 | Total non-life-protection-corporation member companies | mirrors FSA register member set ^[inferred] |
 
 ## 推論 (from A. 大手3社 — domestic holding-company groups (元受))
@@ -21,11 +21,11 @@ The 大手3社 cluster collectively underwrites the vast majority of Japan's dom
 
 ## 推論 (from C. Specialty / niche / regional non-life insurers)
 
-| [[JapanFG/rescue-insurance|Rescue Insurance]] | Travel / assistance ^[inferred] | Specialty |
+| [[non-life-insurers/rescue-insurance|Rescue Insurance]] | Travel / assistance ^[inferred] | Specialty |
 
 ## 推論 (from E. Lloyd's Japan (marketplace platform))
 
-| [[JapanFG/lloyd-japan|Lloyd's Japan Inc. / ロイズ・ジャパン株式会社]] | Lloyd's of London's licensed Japan platform; licensed 2000 ^[inferred] |
+| [[non-life-insurers/lloyd-japan|Lloyd's Japan Inc. / ロイズ・ジャパン株式会社]] | Lloyd's of London's licensed Japan platform; licensed 2000 ^[inferred] |
 
 ## Counterpoints
 

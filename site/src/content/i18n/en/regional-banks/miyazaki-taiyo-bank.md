@@ -16,7 +16,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it wit
 
 ## TL;DR
 
-Miyazaki Taiyo Bank, Ltd. is a second-tier regional bank headquartered in Miyazaki Prefecture and listed on the FSA bank license list. It is Miyazaki Prefecture's second-regional-bank operating-company anchor and is treated as a local peer separate from [[miyazaki-bank]].
+Miyazaki Taiyo Bank, Ltd. is a second-tier regional bank headquartered in Miyazaki Prefecture and listed on the FSA bank license list. It is Miyazaki Prefecture's second-regional-bank operating-company anchor and is treated as a local peer separate from [[regional-banks/miyazaki-bank]].
 
 ## 1. License / Group Boundary
 
@@ -30,7 +30,7 @@ Miyazaki Taiyo Bank, Ltd. is a second-tier regional bank headquartered in Miyaza
 
 ## 2. Operating Model
 
-Miyazaki Taiyo Bank is a second regional bank responsible for retail deposits, SME finance, consumer banking, and local relationship banking in Miyazaki Prefecture. The [[miyazaki-bank]] page covers the first-regional-bank incumbent, while this page covers the second-regional-bank license boundary. For Kyushu second-regional-bank consolidation pressure, see [[banking/regional-bank-consolidation-pattern]].
+Miyazaki Taiyo Bank is a second regional bank responsible for retail deposits, SME finance, consumer banking, and local relationship banking in Miyazaki Prefecture. The [[regional-banks/miyazaki-bank]] page covers the first-regional-bank incumbent, while this page covers the second-regional-bank license boundary. For Kyushu second-regional-bank consolidation pressure, see [[banking/regional-bank-consolidation-pattern]].
 
 ## 3. Why This Page Matters
 
@@ -40,9 +40,9 @@ Miyazaki Taiyo Bank is a second regional bank responsible for retail deposits, S
 
 ## Related
 
-- [[miyazaki-bank]]
-- [[kyushu-fg]]
-- [[kagoshima-bank]]
+- [[regional-banks/miyazaki-bank]]
+- [[regional-banks/kyushu-fg]]
+- [[regional-banks/kagoshima-bank]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 

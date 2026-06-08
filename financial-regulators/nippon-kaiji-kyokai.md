@@ -47,16 +47,16 @@ This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]].
 
 - 海事保険・船舶ファイナンスの **「前段インフラ」アンカー** — 保険業の理解に不可欠だが伝統的金融機関分類では抜け落ちる隣接領域
 - [[financial-regulators/japan-pi-club]] と並ぶ「海事インフラ二強」（船級協会 + P&I クラブ）のクラスタ完成
-- 元受損保（[[tokio-marine-nichido-fire]] / [[mitsui-sumitomo-insurance]] / [[sompo-japan-insurance]]）と海運業の交点を可視化する system link
+- 元受損保（[[non-life-insurers/tokio-marine-nichido-fire]] / [[non-life-insurers/mitsui-sumitomo-insurance]] / [[non-life-insurers/sompo-japan-insurance]]）と海運業の交点を可視化する system link
 - グローバル IACS の日本接点アンカー、脱炭素規制対応で将来の引受リスク評価軸を左右する
 
 ## Related
 
 - [[financial-regulators/INDEX]]
-- [[japan-pi-club]]
-- [[tokio-marine-nichido-fire]]
-- [[mitsui-sumitomo-insurance]]
-- [[sompo-japan-insurance]]
+- [[financial-regulators/japan-pi-club]]
+- [[non-life-insurers/tokio-marine-nichido-fire]]
+- [[non-life-insurers/mitsui-sumitomo-insurance]]
+- [[non-life-insurers/sompo-japan-insurance]]
 - [[insurance/INDEX]]
 
 ## Sources

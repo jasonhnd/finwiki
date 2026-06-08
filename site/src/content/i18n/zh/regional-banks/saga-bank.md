@@ -37,14 +37,14 @@ translated_at: 2026-06-01T00:41:50.417Z
 
 - 补齐金融厅精确名称下的佐贺银行运营公司缺口。
 - 为九州地方银行比较提供佐贺县锚点。
-- 增加一个相对于 [[fukuoka-bank]]、[[18-shinwa-bank]] 和 [[nishi-nippon-city-bank]] 的独立同业页面。
+- 增加一个相对于 [[regional-banks/fukuoka-bank]]、[[regional-banks/18-shinwa-bank]] 和 [[regional-banks/nishi-nippon-city-bank]] 的独立同业页面。
 
 ## Related
 
-- [[fukuoka-bank]]
-- [[18-shinwa-bank]]
-- [[nishi-nippon-city-bank]]
-- [[oita-bank]]
+- [[regional-banks/fukuoka-bank]]
+- [[regional-banks/18-shinwa-bank]]
+- [[regional-banks/nishi-nippon-city-bank]]
+- [[regional-banks/oita-bank]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 

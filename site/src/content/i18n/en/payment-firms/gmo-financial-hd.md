@@ -15,7 +15,7 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it again
 
 ## TL;DR
 
-GMO Financial Holdings is the intermediate holding company for the financial segment of GMO Internet Group, listed on the TSE Standard Market under code 7177. Its core is GMO CLICK Securities, an online securities and FX platform, alongside GMO Gaika, GMO CLICK Research Institute, and overseas securities bases in Thailand, Hong Kong, the United Kingdom, and other markets. Online-only distribution, low fees, and leading FX / CFD trading share are the revenue engine of GMO's financial ecosystem. As a consolidated subsidiary of GMO Internet Group, it covers the securities and FX layer of the internet-finance ecosystem beside siblings such as [[gmo-payment-gateway|GMO Payment Gateway]], [[gmo-coin|GMO Coin]], and [[gmo-aozora-net|GMO Aozora Net Bank]]. Main competitors include [[sbi-hd|SBI Securities]], [[rakuten-fg|Rakuten Securities]], [[monex-group|Monex]], and [[matsui-sec|Matsui Securities]]. ^[extracted]
+GMO Financial Holdings is the intermediate holding company for the financial segment of GMO Internet Group, listed on the TSE Standard Market under code 7177. Its core is GMO CLICK Securities, an online securities and FX platform, alongside GMO Gaika, GMO CLICK Research Institute, and overseas securities bases in Thailand, Hong Kong, the United Kingdom, and other markets. Online-only distribution, low fees, and leading FX / CFD trading share are the revenue engine of GMO's financial ecosystem. As a consolidated subsidiary of GMO Internet Group, it covers the securities and FX layer of the internet-finance ecosystem beside siblings such as [[payment-firms/gmo-payment-gateway|GMO Payment Gateway]], [[payment-firms/gmo-coin|GMO Coin]], and [[payment-firms/gmo-aozora-net|GMO Aozora Net Bank]]. Main competitors include [[megabanks/sbi-hd|SBI Securities]], [[payment-firms/rakuten-fg|Rakuten Securities]], [[securities-firms/monex-group|Monex]], and [[securities-firms/matsui-sec|Matsui Securities]]. ^[extracted]
 
 ## 1. Company overview
 
@@ -34,11 +34,11 @@ GMO Internet Group (TSE Prime 9449; Masatoshi Kumagai)
   |     |-- GMO CLICK Securities: major online securities and FX platform
   |     |-- GMO Gaika: formerly Gaika ex byGMO; renamed in 2023-07; FX specialist
   |     |-- GMO CLICK Research Institute: investment information and research
-  |     |-- GMO Cryptonomics / [[gmo-coin|GMO Coin]]: crypto-asset exchange layer
+  |     |-- GMO Cryptonomics / [[payment-firms/gmo-coin|GMO Coin]]: crypto-asset exchange layer
   |     |-- Overseas securities bases: Thailand, Hong Kong, the United Kingdom, and others
-  |     `-- Related holdings, including links to [[gmo-aozora-net|GMO Aozora Net Bank]]
-  |-- [[gmo-payment-gateway|GMO Payment Gateway]] (TSE Prime 3769): payment processing
-  `-- [[gmo-aozora-net|GMO Aozora Net Bank]]: joint venture with Aozora Bank for corporate BaaS
+  |     `-- Related holdings, including links to [[payment-firms/gmo-aozora-net|GMO Aozora Net Bank]]
+  |-- [[payment-firms/gmo-payment-gateway|GMO Payment Gateway]] (TSE Prime 3769): payment processing
+  `-- [[payment-firms/gmo-aozora-net|GMO Aozora Net Bank]]: joint venture with Aozora Bank for corporate BaaS
 ```
 
 > **Four layers of the GMO financial ecosystem**: (1) securities and FX through GMO FHD, (2) payments through GMO Payment Gateway, (3) banking through GMO Aozora Net Bank, and (4) crypto assets through GMO Coin. ^[extracted]
@@ -50,7 +50,7 @@ GMO Internet Group (TSE Prime 9449; Masatoshi Kumagai)
 | Online securities and cash equities | **GMO CLICK Securities** | Very low domestic equity-commission levels, margin trading, and IPO handling |
 | **FX / CFD** | **GMO CLICK Securities** | Leading domestic FX trading volume and the group's principal profit engine |
 | FX specialist | **GMO Gaika**, formerly Gaika ex byGMO and renamed in 2023-07 | Advanced FX platform for experienced users |
-| Crypto assets | [[gmo-coin|GMO Coin]] | Kanto Local Finance Bureau registration No. 00006; among the older registered operators |
+| Crypto assets | [[payment-firms/gmo-coin|GMO Coin]] | Kanto Local Finance Bureau registration No. 00006; among the older registered operators |
 | Overseas securities | Local bases in Thailand, Hong Kong, the United Kingdom, and other markets | Asian expansion and local licenses |
 | Investment information | GMO CLICK Research Institute | Research and content provision |
 | Adjacent financial services | Binary options, futures, options, and related products | Distributed mainly through GMO CLICK Securities |
@@ -85,11 +85,11 @@ GMO Internet Group (TSE Prime 9449; Masatoshi Kumagai)
 
 | Competitor | Parent company / characteristics | Strength |
 |---|---|---|
-| [[sbi-hd|SBI Securities]] | [[sbi-hd|SBI HD]] | Largest domestic account base, new NISA emphasis, and direct competition with Rakuten |
-| [[rakuten-fg|Rakuten Securities]] | [[rakuten-fg|Rakuten FG]] | Rakuten economic zone, points, and Rakuten Bank account linkage |
-| [[monex-group|Monex]] | [[monex-group|Monex Group]] | Coincheck subsidiary and strong U.S. equity offering |
-| [[matsui-sec|Matsui Securities]] | Independent | Long-established operator with fixed daily-fee and margin-trading customer base |
-| Mitsubishi UFJ eSmart Securities, formerly au Kabucom | [[mufg]] | MUFG ecosystem linkage |
+| [[megabanks/sbi-hd|SBI Securities]] | [[megabanks/sbi-hd|SBI HD]] | Largest domestic account base, new NISA emphasis, and direct competition with Rakuten |
+| [[payment-firms/rakuten-fg|Rakuten Securities]] | [[payment-firms/rakuten-fg|Rakuten FG]] | Rakuten economic zone, points, and Rakuten Bank account linkage |
+| [[securities-firms/monex-group|Monex]] | [[securities-firms/monex-group|Monex Group]] | Coincheck subsidiary and strong U.S. equity offering |
+| [[securities-firms/matsui-sec|Matsui Securities]] | Independent | Long-established operator with fixed daily-fee and margin-trading customer base |
+| Mitsubishi UFJ eSmart Securities, formerly au Kabucom | [[megabanks/mufg]] | MUFG ecosystem linkage |
 | **GMO CLICK Securities, this entry** | GMO | Leading domestic FX trading volume and low-fee model |
 
 **GMO FHD differentiation**: (1) leading FX / CFD share through GMO CLICK Securities, (2) integration across the GMO financial ecosystem of securities, FX, crypto assets, banking, and payments, (3) online-only low-cost structure, and (4) a rare position adjacent to both crypto assets through GMO Coin and banking through GMO Aozora Net Bank.
@@ -102,7 +102,7 @@ GMO Internet Group (TSE Prime 9449; Masatoshi Kumagai)
 
 - **GMO Coin**, Kanto Local Finance Bureau No. 00006, forms the crypto-asset layer of the GMO financial ecosystem.
 - The group has also had a U.S. subsidiary, GMO Trust, associated with GYEN / ZUSD stablecoin issuance history. ^[extracted]
-- Official IR strategy materials identify expansion of the crypto-asset customer base and revenue as a priority business. FY2024 media reporting via Logmi cited crypto-asset revenue of JPY 7.5 billion, up 124.6% year on year. The official strategy uses "crypto-asset business" wording and does not explicitly state a Web3 priority. The competitive set includes [[sbi-hd|SBI VC Trade]], [[bitflyer|bitFlyer]], and [[monex-group|Coincheck]].
+- Official IR strategy materials identify expansion of the crypto-asset customer base and revenue as a priority business. FY2024 media reporting via Logmi cited crypto-asset revenue of JPY 7.5 billion, up 124.6% year on year. The official strategy uses "crypto-asset business" wording and does not explicitly state a Web3 priority. The competitive set includes [[megabanks/sbi-hd|SBI VC Trade]], [[payment-firms/bitflyer|bitFlyer]], and [[securities-firms/monex-group|Coincheck]].
 
 ## 5. Regulation and policy
 
@@ -123,11 +123,11 @@ GMO Internet Group (TSE Prime 9449; Masatoshi Kumagai)
 
 ## 7. Related
 
-- **GMO financial ecosystem**: [[gmo-payment-gateway]] · [[gmo-coin]] · [[gmo-aozora-net]]
-- **Competing online brokers**: [[sbi-hd]] · [[rakuten-fg]] · [[monex-group]] · [[matsui-sec]]
-- **Major securities groups**: [[nomura-hd]] · [[daiwa-sg]] · [[smbc-nikko]]
-- **Megabank financial groups through securities subsidiaries**: [[mufg]] for Mitsubishi UFJ Morgan Stanley Securities and Mitsubishi UFJ eSmart Securities; [[smfg]] for SMBC Nikko Securities; [[mizuho-fg]] for Mizuho Securities
-- **Adjacent fintech**: [[paypay-fg]] · [[money-forward]] · [[freee]]
+- **GMO financial ecosystem**: [[payment-firms/gmo-payment-gateway]] · [[payment-firms/gmo-coin]] · [[payment-firms/gmo-aozora-net]]
+- **Competing online brokers**: [[megabanks/sbi-hd]] · [[payment-firms/rakuten-fg]] · [[securities-firms/monex-group]] · [[securities-firms/matsui-sec]]
+- **Major securities groups**: [[securities-firms/nomura-hd]] · [[securities-firms/daiwa-sg]] · [[securities-firms/smbc-nikko]]
+- **Megabank financial groups through securities subsidiaries**: [[megabanks/mufg]] for Mitsubishi UFJ Morgan Stanley Securities and Mitsubishi UFJ eSmart Securities; [[megabanks/smfg]] for SMBC Nikko Securities; [[megabanks/mizuho-fg]] for Mizuho Securities
+- **Adjacent fintech**: [[megabanks/paypay-fg]] · [[payment-firms/money-forward]] · [[payment-firms/freee]]
 
 ## Sources
 

@@ -92,9 +92,9 @@ bitFlyer Holdings, Inc. (holding, unlisted)
 | Competition | Relationship |
 |---|---|
 | [[exchanges/jp-exchange-bitbank|bitbank]] | BTC spot trading volume battle for top spot in Japan |
-| [[exchanges/jp-exchange-coincheck|coincheck]] | Contrasting in the number of altcoins handled and users, under the [[ndfg]] group |
-| [[gmo-coin]] | GMO Internet system, strong in derivatives |
-| [[exchanges/jp-exchange-sbi-vc-trade|sbi-vc-trade]] | [[sbi-hd]] type, institutional investors |
+| [[exchanges/jp-exchange-coincheck|coincheck]] | Contrasting in the number of altcoins handled and users, under the [[megabanks/ndfg]] group |
+| [[payment-firms/gmo-coin]] | GMO Internet system, strong in derivatives |
+| [[exchanges/jp-exchange-sbi-vc-trade|sbi-vc-trade]] | [[megabanks/sbi-hd]] type, institutional investors |
 | [[exchanges/jp-exchange-rakuten-wallet|rakuten-wallet]] | Opposite position of Rakuten Economic Zone integration |
 | Overseas companies such as Binance Japan / OKJ | 2023〜2024  Intensifying competition with overseas exchanges that have become domestic corporations |
 
@@ -119,12 +119,12 @@ bitFlyer Holdings, Inc. (holding, unlisted)
 
 ### Industry position
 - **JVCEA Type 1** (Type 1) = Crypto asset exchange business (spot/derivatives)
-- 業界自主規制策定への積極関与（[[exchanges/jp-exchange-bitbank|bitbank]] [[exchanges/jp-exchange-coincheck|coincheck]] [[gmo-coin]] と並ぶ主要 4 社）
+- 業界自主規制策定への積極関与（[[exchanges/jp-exchange-bitbank|bitbank]] [[exchanges/jp-exchange-coincheck|coincheck]] [[payment-firms/gmo-coin]] と並ぶ主要 4 社）
 
 ## Related
 
-- [[exchanges/jp-exchange-coincheck|coincheck]] · [[exchanges/jp-exchange-bitbank|bitbank]] · [[gmo-coin]] · [[exchanges/jp-exchange-sbi-vc-trade|sbi-vc-trade]] · [[exchanges/jp-exchange-rakuten-wallet|rakuten-wallet]]
-- [[ndfg]] · [[sbi-hd]] · [[mufg]]
+- [[exchanges/jp-exchange-coincheck|coincheck]] · [[exchanges/jp-exchange-bitbank|bitbank]] · [[payment-firms/gmo-coin]] · [[exchanges/jp-exchange-sbi-vc-trade|sbi-vc-trade]] · [[exchanges/jp-exchange-rakuten-wallet|rakuten-wallet]]
+- [[megabanks/ndfg]] · [[megabanks/sbi-hd]] · [[megabanks/mufg]]
 - [[systems/bitflyer-blockchain|bitFlyer Blockchain]]
 
 ## Sources

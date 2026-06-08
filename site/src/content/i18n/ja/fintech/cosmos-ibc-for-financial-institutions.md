@@ -28,8 +28,8 @@ IBC は §501(d) の執行可能性、§501(d) 認定、§[[fintech/genius-act-5
 ## 関連
 
 - [[systems/cross-chain-five-pole-comparison-matrix|跨链 5 极比较矩阵]]
-- [[jp-trust-type-sc-architecture|信託型 SC 架構]]
-- [[cross-border-sc-via-swift-api|跨境 SC via SWIFT API]]
+- [[fintech/jp-trust-type-sc-architecture|信託型 SC 架構]]
+- [[fintech/cross-border-sc-via-swift-api|跨境 SC via SWIFT API]]
 - [[INDEX|Wiki Index]]
 - [[fintech/jp-trust-type-sc-architecture|日本信託型 SC 架構]]
 

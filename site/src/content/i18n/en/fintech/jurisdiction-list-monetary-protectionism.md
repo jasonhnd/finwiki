@@ -95,9 +95,9 @@ For a detailed four-faction comparison, see [[fintech/japan-epi-four-camps-compa
 
 ## Connections
 
-- [[three-circles-stablecoin-mra-framework|three-circle MRA framework]]
-- [[genius-act-501-denylist-mandate|GENIUS §501 Denylist]]
-- [[occ-trust-bank-charter-federal-stablecoin-arbitrage|OCC charter arbitrage]]
-- [[central-banking-function-unbundling|five-layer unbundling of central-bank functions]]
+- [[fintech/three-circles-stablecoin-mra-framework|three-circle MRA framework]]
+- [[fintech/genius-act-501-denylist-mandate|GENIUS §501 Denylist]]
+- [[fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage|OCC charter arbitrage]]
+- [[fintech/central-banking-function-unbundling|five-layer unbundling of central-bank functions]]
 
 ---

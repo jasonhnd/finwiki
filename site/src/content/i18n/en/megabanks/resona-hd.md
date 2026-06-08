@@ -15,7 +15,7 @@ This entry sits under [[megabanks/INDEX|megabanks INDEX]]. Read it against [[for
 
 ## TL;DR
 
-Positioned as the "**4 th megabank**" after the 3  major megabanks ([[mufg]] / [[smfg]] / [[mizuho-fg]]). As a **commercial banking G with trust functions**, it operates trust banking within the bank rather than separating a trust bank, making it Japan's first full-scale **"commercial bank + trust" model**. Its rehabilitation history runs from the 2003-05  public capital injection of **1 兆 9600 億円** (effective nationalization) to full repayment in 2015-06 . Its bases are **the Tokyo metropolitan area (Saitama) + Kansai**. The Kansai integration phase was completed through the 2021-04  full subsidiary conversion of Kansai Mirai FG, followed by the **2024-04  absorption merger of KMFG and direct-subsidiary conversion of Kansai Mirai Bank + Minato Bank**. FY2024 (2025-03  period) net income was **2,133 億円** / total assets **77.4 兆円**. ^[extracted]
+Positioned as the "**4 th megabank**" after the 3  major megabanks ([[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]]). As a **commercial banking G with trust functions**, it operates trust banking within the bank rather than separating a trust bank, making it Japan's first full-scale **"commercial bank + trust" model**. Its rehabilitation history runs from the 2003-05  public capital injection of **1 兆 9600 億円** (effective nationalization) to full repayment in 2015-06 . Its bases are **the Tokyo metropolitan area (Saitama) + Kansai**. The Kansai integration phase was completed through the 2021-04  full subsidiary conversion of Kansai Mirai FG, followed by the **2024-04  absorption merger of KMFG and direct-subsidiary conversion of Kansai Mirai Bank + Minato Bank**. FY2024 (2025-03  period) net income was **2,133 億円** / total assets **77.4 兆円**. ^[extracted]
 
 ## 1. Company Overview
 
@@ -43,7 +43,7 @@ Resona HD (holding company, TSE PRIME 8308)
   │     └── Core of the "commercial bank with trust functions" model
   ├── Saitama Resona Bank (100%) ── inherited former Asahi Bank's Saitama operations (split and established 2003-03 )
   ├── Kansai Mirai Bank (100%, direct subsidiary from 2024-04 ) ★ ── integration of former Kansai Urban Bank + Kinki Osaka Bank (2019-04)
-  ├── [[minato-bank|みなと銀行]] (100%, direct subsidiary from 2024-04 ) ★ ── former Hanshin Bank line
+  ├── [[regional-banks/minato-bank|みなと銀行]] (100%, direct subsidiary from 2024-04 ) ★ ── former Hanshin Bank line
   │     ※ 2021-04  Kansai Mirai FG full subsidiary conversion → 2024-04  KMFG absorption merger eliminated intermediate holding company
   ├── Resona Asset Management ── asset management
   └── (trust functions are combined within subsidiary banks = no independent trust bank)
@@ -86,7 +86,7 @@ Resona HD (holding company, TSE PRIME 8308)
 | SME lending | Resona Bank, Kansai Mirai Bank | Mid-market specialization, differentiated from the 3  big megas |
 | Trust / pensions (combined business) | Resona Bank (built-in trust functions) | No independent trust bank; provided within bank parent |
 | Asset management | Resona Asset Management | Retail investment trusts and fund wrap |
-| Kansai area | [[kansai-mirai-bank|関西みらい銀行]] / [[minato-bank|みなと銀行]] (direct subsidiaries from 2024-04 ) | Integrated body of Kansai Urban + Kinki Osaka + Minato |
+| Kansai area | [[regional-banks/kansai-mirai-bank|関西みらい銀行]] / [[regional-banks/minato-bank|みなと銀行]] (direct subsidiaries from 2024-04 ) | Integrated body of Kansai Urban + Kinki Osaka + Minato |
 
 ### FY2024  Consolidated Results (2025-03  period, IR confirmed) ^[extracted]
 
@@ -110,7 +110,7 @@ Resona HD (holding company, TSE PRIME 8308)
 
 ### "Japan's First Full-Scale Commercial Bank + Trust" Model
 
-- The 3  big megas ([[mufg]] / [[smfg]] / [[mizuho-fg]]) **separate trust banks into distinct legal entities** (Mitsubishi UFJ Trust, Sumitomo Mitsui Trust, Mizuho Trust)
+- The 3  big megas ([[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]]) **separate trust banks into distinct legal entities** (Mitsubishi UFJ Trust, Sumitomo Mitsui Trust, Mizuho Trust)
 - Resona **combines trust functions within the bank parent** → differentiated by offering "one-stop trust services at bank counters" to mid-market customers
 
 ### Focus on Individuals and SMEs
@@ -133,8 +133,8 @@ Resona HD (holding company, TSE PRIME 8308)
 
 ### Competition / Positioning
 
-- vs 3  big megas: large scale gap ([[mufg]] total assets 413 兆 vs Resona in the tens of trillions) → little competition in large IB / global corporate lending
-- vs regional banks ([[ndfg]], etc.): differentiated by trust functions and urban bases in the Tokyo metropolitan area / Kansai
+- vs 3  big megas: large scale gap ([[megabanks/mufg]] total assets 413 兆 vs Resona in the tens of trillions) → little competition in large IB / global corporate lending
+- vs regional banks ([[megabanks/ndfg]], etc.): differentiated by trust functions and urban bases in the Tokyo metropolitan area / Kansai
 
 ## 4. Regulation / Policy
 
@@ -149,7 +149,7 @@ Resona HD (holding company, TSE PRIME 8308)
 
 ## Related
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[ndfg]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[megabanks/ndfg]]
 - [[banking/post-megabank-positioning]] (positioning discussion)
 
 ## Sources

@@ -12,22 +12,22 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## 推論 (from TL;DR)
 
-三井物産 (東証 PRIME **8031**) は **5 大総合商社の一角**、三井グループの中核会社。**資源・エネルギー (LNG、石油上流、鉄鉱石・銅・ニッケル)** 比率が 5 大商社の中で高く、**ブラジル Vale との鉄鉱石 ジョイント** (旧 IBVN 等) や **モザンビーク LNG**、**米国 Cameron LNG**、**インドネシア Tangguh LNG** など global resource holdings が利益のコア。一方で **モビリティ (トヨタ系・東南アジア自動車流通)**、**機械インフラ (発電プラント、海水淡水化)**、**ヘルスケア (アジア病院チェーン IHH Healthcare 持分)** など非資源領域でも 5 大トップクラスの分散投資を行う。JapanFG 文脈での重要性は (i) [[JapanFG/mitsui-bussan-financial-services|MBFS]] 100% 子会社、(ii) [[JapanFG/ja-mitsui-leasing|JA三井リース]] への約 33% 級持分 (JA 全農と 旧 三井リース ベース)、(iii) [[JapanFG/smfg|SMFG]] / [[JapanFG/sumitomo-corp|住友商事]] 系金融機関とのクロス取引、にある。^[inferred]
+三井物産 (東証 PRIME **8031**) は **5 大総合商社の一角**、三井グループの中核会社。**資源・エネルギー (LNG、石油上流、鉄鉱石・銅・ニッケル)** 比率が 5 大商社の中で高く、**ブラジル Vale との鉄鉱石 ジョイント** (旧 IBVN 等) や **モザンビーク LNG**、**米国 Cameron LNG**、**インドネシア Tangguh LNG** など global resource holdings が利益のコア。一方で **モビリティ (トヨタ系・東南アジア自動車流通)**、**機械インフラ (発電プラント、海水淡水化)**、**ヘルスケア (アジア病院チェーン IHH Healthcare 持分)** など非資源領域でも 5 大トップクラスの分散投資を行う。JapanFG 文脈での重要性は (i) [[trading-company-finance/mitsui-bussan-financial-services|MBFS]] 100% 子会社、(ii) [[cooperative-banks/ja-mitsui-leasing|JA三井リース]] への約 33% 級持分 (JA 全農と 旧 三井リース ベース)、(iii) [[megabanks/smfg|SMFG]] / [[financial-conglomerates/sumitomo-corp|住友商事]] 系金融機関とのクロス取引、にある。^[inferred]
 
 ## 推論 (from 1. 会社概要)
 
 | 連結従業員 | 約 4〜5 万人 (連結) ^[inferred] |
-| FY 連結収益規模 (約) | 連結純利益 1 兆円級 (資源市況連動)、純利益で [[JapanFG/mitsubishi-corp|三菱商事]] と Top 2 を毎年競う ^[inferred] |
+| FY 連結収益規模 (約) | 連結純利益 1 兆円級 (資源市況連動)、純利益で [[financial-conglomerates/mitsubishi-corp|三菱商事]] と Top 2 を毎年競う ^[inferred] |
 | 格付 | A 格上位 (S&P / Moody's / R&I) ^[inferred] |
 
 ## 推論 (from 3. Financial-services adjacency)
 
-- [[JapanFG/sumitomo-mitsui-trust|三井住友信託銀行]] (信託業務連携) ^[inferred]
-- [[JapanFG/mitsui-sumitomo-insurance|三井住友海上 (MS&AD)]] (保険) ^[inferred]
+- [[trust-banks/sumitomo-mitsui-trust|三井住友信託銀行]] (信託業務連携) ^[inferred]
+- [[non-life-insurers/mitsui-sumitomo-insurance|三井住友海上 (MS&AD)]] (保険) ^[inferred]
 
 ## 推論 (from 5 大商社内の identity)
 
-- **資源寄り 5 大商社**: 三井物産は [[JapanFG/mitsubishi-corp|三菱商事]] と並んで **資源・エネルギー比率が高い** 5 大商社。純利益の振れ幅は 商社の中で最も大きい部類 ^[inferred]
+- **資源寄り 5 大商社**: 三井物産は [[financial-conglomerates/mitsubishi-corp|三菱商事]] と並んで **資源・エネルギー比率が高い** 5 大商社。純利益の振れ幅は 商社の中で最も大きい部類 ^[inferred]
 
 ## 推論 (from 5. 規制・政策)
 
@@ -42,7 +42,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 - **「ヘルスケア・モビリティ拡大の収益化」**: IHH / Penske 等の非資源投資は long-term だが、近年の利益寄与は資源比で限定的 ^[inferred]
 - **「三井グループ cross-shareholding」**: ガバナンス改革で政策保有株縮小圧力、商社サイドも例外ではない ^[inferred]
 - **「JA三井リースの戦略性」**: JA 全農との 50/50 JV 性格上、三井物産単独の戦略推進力は限定的 ^[inferred]
-- **「Berkshire 効果」**: [[JapanFG/mitsubishi-corp|三菱商事]] と同様、Berkshire 買い増しによるリレーティング効果に外部要因依存 ^[inferred]
+- **「Berkshire 効果」**: [[financial-conglomerates/mitsubishi-corp|三菱商事]] と同様、Berkshire 買い増しによるリレーティング効果に外部要因依存 ^[inferred]
 
 <!-- Phase 1.5 追加抽出 (2026-05-29) -->
 

@@ -15,7 +15,7 @@ translated_at: 2026-06-01T02:31:57.164Z
 
 ## TL;DR
 
-Yamagata Bank 是总部位于山形县的独立地方银行。它在1896 （明治29）以“两羽银行”创立，后于1965 年改为现商号，并在1949 年上市后以8344代码维持 TSE PRIME 上市。它不是第二地方银行，而是第一地方银行，也是山形县内按存款份额最大的金融机构，县内 No.1 。第二地方银行竞争者是[[jimoto-hd]]侧的 Kirayaka Bank，邻近的秋田 / 庄内地理则在[[fidea-hd]]中体现。与[[jimoto-hd]]、[[fidea-hd]]不同，Yamagata Bank 未转为控股公司，而是维持独立地方银行形态。其本地经济与旅游、农业和制造业紧密相连。^[extracted]
+Yamagata Bank 是总部位于山形县的独立地方银行。它在1896 （明治29）以“两羽银行”创立，后于1965 年改为现商号，并在1949 年上市后以8344代码维持 TSE PRIME 上市。它不是第二地方银行，而是第一地方银行，也是山形县内按存款份额最大的金融机构，县内 No.1 。第二地方银行竞争者是[[regional-banks/jimoto-hd]]侧的 Kirayaka Bank，邻近的秋田 / 庄内地理则在[[regional-banks/fidea-hd]]中体现。与[[regional-banks/jimoto-hd]]、[[regional-banks/fidea-hd]]不同，Yamagata Bank 未转为控股公司，而是维持独立地方银行形态。其本地经济与旅游、农业和制造业紧密相连。^[extracted]
 
 ## 1. 公司概要
 
@@ -68,8 +68,8 @@ Yamagata Bank（上市母体 8344）
 | **1965-04** | 商号变更为 The Yamagata Bank, Ltd. |
 | 战后高度增长期 | 建立山形县内支店网络，确立县内 No.1 地位 |
 | 2000 年年代 | 与 Shonai Bank、Kirayaka Bank 等邻近东北地方银行竞争激化 |
-| 2009  | Kirayaka Bank + Sendai Bank 设立[[jimoto-hd]]（^[extracted]） |
-| 2009-10  | Shonai Bank + Hokuto Bank 设立[[fidea-hd]]（^[extracted]） |
+| 2009  | Kirayaka Bank + Sendai Bank 设立[[regional-banks/jimoto-hd]]（^[extracted]） |
+| 2009-10  | Shonai Bank + Hokuto Bank 设立[[regional-banks/fidea-hd]]（^[extracted]） |
 | 2022-04  | 东证市场重组，迁移至 **PRIME 市场** |
 | 2018 以后 | 最新经营计划聚焦数字化和区域产业支持 |
 
@@ -90,16 +90,16 @@ Yamagata Bank（上市母体 8344）
 
 | 竞争者 | 关系 | 区域 |
 |---|---|---|
-| **[[jimoto-hd]] / Kirayaka Bank** | 县内最大竞争者，第二地方银行 | 山形县内 |
-| **[[fidea-hd]] / Shonai Bank** | 在庄内区域竞争的第二地方银行 | 山形县庄内区域 |
-| [[fidea-hd]] / Hokuto Bank | 邻县最大地方银行，部分重叠 | 秋田县和山形县北部 |
+| **[[regional-banks/jimoto-hd]] / Kirayaka Bank** | 县内最大竞争者，第二地方银行 | 山形县内 |
+| **[[regional-banks/fidea-hd]] / Shonai Bank** | 在庄内区域竞争的第二地方银行 | 山形县庄内区域 |
+| [[regional-banks/fidea-hd]] / Hokuto Bank | 邻县最大地方银行，部分重叠 | 秋田县和山形县北部 |
 | 77 Bank（仙台） | 通过仙台支店竞争 | 宫城 / 东北核心 |
 | Toho Bank（福岛） | 米泽 / 置赐地方存在部分竞争 | 福岛县和山形县南部 |
 | JA Bank Yamagata | 农业金融重叠 | 山形县农业地带 |
-| [[jimoto-hd]] | 县内全域个人存款 | 山形县内 |
+| [[regional-banks/jimoto-hd]] | 县内全域个人存款 | 山形县内 |
 | PayPay Bank / Rakuten Bank 等网络银行 | 年轻层流失风险 | 全国 |
 
-**战略位置**：在其他县内银行通过[[fidea-hd]]等 HD 整合的环境下，Yamagata Bank 选择独立路线，并维持 standalone 规模。^[extracted]
+**战略位置**：在其他县内银行通过[[regional-banks/fidea-hd]]等 HD 整合的环境下，Yamagata Bank 选择独立路线，并维持 standalone 规模。^[extracted]
 
 ### 区域战略
 
@@ -126,10 +126,10 @@ Yamagata Bank（上市母体 8344）
 
 ## Related
 
-- [[jimoto-hd]]（Kirayaka Bank / Sendai Bank HD，山形县内最大竞争者）
-- [[fidea-hd]]（Shonai Bank / Hokuto Bank HD，在庄内和秋田存在部分竞争）
-- [[mufg]] · [[smfg]] · [[mizuho-fg]]（megabank / 东京经济圈交易关系）
-- [[ndfg]] · [[regional-banks/sbi-shinsei-bank|shinsei-bank]]（^[likely]邻接）
+- [[regional-banks/jimoto-hd]]（Kirayaka Bank / Sendai Bank HD，山形县内最大竞争者）
+- [[regional-banks/fidea-hd]]（Shonai Bank / Hokuto Bank HD，在庄内和秋田存在部分竞争）
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]（megabank / 东京经济圈交易关系）
+- [[megabanks/ndfg]] · [[regional-banks/sbi-shinsei-bank|shinsei-bank]]（^[likely]邻接）
 
 ## Sources
 

@@ -15,7 +15,7 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 
 ## TL;DR
 
-Sony Assurance Inc. is the direct non-life insurance operating company of the [[sony-fg]] group. It is a licensed insurer listed in the FSA non-life insurer list and the member list of the Non-Life Insurance Policyholders Protection Corporation of Japan, and is a representative direct auto insurance / online insurance model.
+Sony Assurance Inc. is the direct non-life insurance operating company of the [[megabanks/sony-fg]] group. It is a licensed insurer listed in the FSA non-life insurer list and the member list of the Non-Life Insurance Policyholders Protection Corporation of Japan, and is a representative direct auto insurance / online insurance model.
 
 ## 1. License / group boundary
 
@@ -25,23 +25,23 @@ Sony Assurance Inc. is the direct non-life insurance operating company of the [[
 | English name | Sony Assurance Inc. |
 | License route | Insurance Business Act non-life insurance company; FSA non-life insurer list |
 | Protection scheme | Non-Life Insurance Policyholders Protection Corporation member |
-| Group boundary | [[sony-fg]] direct non-life operating company |
+| Group boundary | [[megabanks/sony-fg]] direct non-life operating company |
 
 ## 2. Operating model
 
-Sony Assurance is an insurer built around direct channels, call centers, web / app quotation, and direct auto insurance branding, unlike the large agency-led non-life insurers. Together with [[sony-life]] and [[sony-bank]], it forms Sony Financial Group's consumer finance / insurance ecosystem.
+Sony Assurance is an insurer built around direct channels, call centers, web / app quotation, and direct auto insurance branding, unlike the large agency-led non-life insurers. Together with [[life-insurers/sony-life]] and [[regional-banks/sony-bank]], it forms Sony Financial Group's consumer finance / insurance ecosystem.
 
 ## 3. Why this page matters
 
 - Anchor for direct auto insurance comparison.
-- Separates [[sony-fg]] holding-company strategy from non-life underwriting.
+- Separates [[megabanks/sony-fg]] holding-company strategy from non-life underwriting.
 - Registry-backed D4 direct / digital non-life page.
 
 ## Related
 
-- [[sony-fg]]
-- [[sony-life]]
-- [[sony-bank]]
+- [[megabanks/sony-fg]]
+- [[life-insurers/sony-life]]
+- [[regional-banks/sony-bank]]
 - [[insurance/saison-automobile-fire]]
 - [[insurance/INDEX]]
 

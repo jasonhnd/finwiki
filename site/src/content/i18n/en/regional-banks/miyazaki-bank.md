@@ -30,22 +30,22 @@ The Miyazaki Bank, Ltd. is a regional bank headquartered in Miyazaki Prefecture 
 
 ## 2. Operating model
 
-Miyazaki Bank is a regional bank centered on Miyazaki Prefecture, handling retail deposits, SME finance, agriculture / tourism support, and local relationship banking. In South Kyushu, compare it with [[higo-bank]] / [[kagoshima-bank]] under [[kyushu-fg]] and local second-regional peers.
+Miyazaki Bank is a regional bank centered on Miyazaki Prefecture, handling retail deposits, SME finance, agriculture / tourism support, and local relationship banking. In South Kyushu, compare it with [[regional-banks/higo-bank]] / [[regional-banks/kagoshima-bank]] under [[regional-banks/kyushu-fg]] and local second-regional peers.
 
 ## 3. Why this page matters
 
 - Closes the FSA exact-name operating-company gap for Miyazaki Bank.
 - Provides a Miyazaki prefecture anchor for South Kyushu regional-bank comparison.
-- Adds a peer page for second-regional-bank coverage such as [[miyazaki-taiyo-bank|宮崎太陽銀行]].
+- Adds a peer page for second-regional-bank coverage such as [[regional-banks/miyazaki-taiyo-bank|宮崎太陽銀行]].
 
 ## Related
 
-- [[higo-bank]]
-- [[kagoshima-bank]]
-- [[kyushu-fg]]
-- [[oita-bank]]
+- [[regional-banks/higo-bank]]
+- [[regional-banks/kagoshima-bank]]
+- [[regional-banks/kyushu-fg]]
+- [[regional-banks/oita-bank]]
 - [[banking/regional-bank-consolidation-pattern]]
-- [[miyazaki-taiyo-bank]]
+- [[regional-banks/miyazaki-taiyo-bank]]
 - [[banking/INDEX]]
 
 ## Sources

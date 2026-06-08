@@ -29,18 +29,18 @@ Yamanashi Chuo Bank, Ltd. is a regional bank headquartered in Yamanashi Prefectu
 
 ## 2. Operating model
 
-Yamanashi Chuo Bank is a regional bank providing retail deposits, SME finance, municipal / local-business relationships, tourism-adjacent finance, and Tokyo-neighboring corporate support inside Yamanashi Prefecture. Although it is close to the Tokyo area, the wiki treats it as a Chubu regional-bank batch legal-name anchor rather than as Kanto. For Chubu regional-bank consolidation context, see [[banking/regional-bank-consolidation-pattern]]; for nearby peers, see [[hachijuni-nagano-bank]] and [[shizuoka-bank]].
+Yamanashi Chuo Bank is a regional bank providing retail deposits, SME finance, municipal / local-business relationships, tourism-adjacent finance, and Tokyo-neighboring corporate support inside Yamanashi Prefecture. Although it is close to the Tokyo area, the wiki treats it as a Chubu regional-bank batch legal-name anchor rather than as Kanto. For Chubu regional-bank consolidation context, see [[banking/regional-bank-consolidation-pattern]]; for nearby peers, see [[regional-banks/hachijuni-nagano-bank]] and [[regional-banks/shizuoka-bank]].
 
 ## 3. Why this page matters
 
 - Closes the exact-name page for Yamanashi Chuo Bank in the FSA regional-bank list.
 - Provides a standalone anchor for Yamanashi regional finance.
-- Useful peer for [[hachijuni-nagano-bank]], [[shizuoka-bank]], and broader central-Japan regional-bank mapping.
+- Useful peer for [[regional-banks/hachijuni-nagano-bank]], [[regional-banks/shizuoka-bank]], and broader central-Japan regional-bank mapping.
 
 ## Related
 
-- [[hachijuni-nagano-bank]]
-- [[shizuoka-bank]]
+- [[regional-banks/hachijuni-nagano-bank]]
+- [[regional-banks/shizuoka-bank]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 

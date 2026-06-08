@@ -82,7 +82,7 @@ Prudential Financial, Inc.（美国，NYSE: PRU）
 - **LP = Life Planner**：具备高度专业能力的全佣金销售人员。^[extracted]
 - 与日本大型寿险的广泛「sales lady」招聘模式不同，LP 模式聚焦转职者和有资质人才，并提供专业教育。
 - 目标客户包括经营者、富裕层、专业人士、高额终身保险和经营者保险。
-- 类似 / 竞争模式：[[sony-fg]] Sony Life 也是 LP 模式代表；外资寿险包括 MetLife、AXA、Manulife 等。
+- 类似 / 竞争模式：[[megabanks/sony-fg]] Sony Life 也是 LP 模式代表；外资寿险包括 MetLife、AXA、Manulife 等。
 
 ### 3  品牌区分战略
 
@@ -99,10 +99,10 @@ Prudential Financial, Inc.（美国，NYSE: PRU）
 
 | 竞争类别 | 主要对手 |
 |---|---|
-| 国内 LP 模式代表 | [[sony-fg]] Sony Life，同样是高度顾问模式 |
+| 国内 LP 模式代表 | [[megabanks/sony-fg]] Sony Life，同样是高度顾问模式 |
 | 外资寿险 | MetLife、AXA Life、Manulife、Aflac |
-| 国内大型寿险 | [[dai-ichi-life]] Dai-ichi Life、[[meiji-yasuda]] Meiji Yasuda Life、日本生命、住友生命 |
-| 银行窗口销售层 | 日本生命一次缴产品、Dai-ichi Frontier Life（[[dai-ichi-life]] 子公司）、Manulife |
+| 国内大型寿险 | [[life-insurers/dai-ichi-life]] Dai-ichi Life、[[life-insurers/meiji-yasuda]] Meiji Yasuda Life、日本生命、住友生命 |
+| 银行窗口销售层 | 日本生命一次缴产品、Dai-ichi Frontier Life（[[life-insurers/dai-ichi-life]] 子公司）、Manulife |
 
 ### 日本在美国 Prudential Financial 中的位置
 
@@ -136,9 +136,9 @@ Prudential Financial, Inc.（美国，NYSE: PRU）
 
 ## Related
 
-- [[sony-fg]] - 同为 LP 模式代表，也是主要战略同业
-- [[dai-ichi-life]] · [[meiji-yasuda]] - 国内大型寿险
-- [[ndfg]] · [[mufg]] · [[smfg]] · [[mizuho-fg]] - 银行和银行窗口销售渠道提供方
+- [[megabanks/sony-fg]] - 同为 LP 模式代表，也是主要战略同业
+- [[life-insurers/dai-ichi-life]] · [[life-insurers/meiji-yasuda]] - 国内大型寿险
+- [[megabanks/ndfg]] · [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] - 银行和银行窗口销售渠道提供方
 
 ## Sources
 

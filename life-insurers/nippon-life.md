@@ -51,7 +51,7 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 
 ### 形態の特徴：相互会社
 
-- 株式会社ではなく**相互会社**（保険業法上の特別法人）。日本では生保大手の多くが採用してきた形態だが、近年は株式会社化が進み（[[dai-ichi-life]] 2010 / 大同生命 2002 等）、日生は**伝統的に相互会社形態を維持**。
+- 株式会社ではなく**相互会社**（保険業法上の特別法人）。日本では生保大手の多くが採用してきた形態だが、近年は株式会社化が進み（[[life-insurers/dai-ichi-life]] 2010 / 大同生命 2002 等）、日生は**伝統的に相互会社形態を維持**。
 - 株主が存在せず、**保険契約者 = 社員**が剰余金配当を受ける構造。
 - 上場義務がなく、外部資本調達は基金（kikin、株式に相当する社員勘定）と劣後債で実施。
 - 有価証券報告書は不存在、開示書類は「決算公告」「ディスクロージャー誌」「基礎数値」が主。
@@ -161,7 +161,7 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 
 ### 国内競合
 
-- 直接競合: [[dai-ichi-life]]（第一生命 HD、上場・株式会社、FY2024 純利益 4,296 億円）/ 明治安田生命（相互会社）/ 住友生命（相互会社）/ かんぽ生命（[[megabanks/nippon-post|japan-post]] 系上場）
+- 直接競合: [[life-insurers/dai-ichi-life]]（第一生命 HD、上場・株式会社、FY2024 純利益 4,296 億円）/ 明治安田生命（相互会社）/ 住友生命（相互会社）/ かんぽ生命（[[megabanks/nippon-post|japan-post]] 系上場）
 - **日生 vs 第一生命**: FY2024 で純剰余 / 純利益はほぼ同水準（日生 4,354 億円 vs 第一 HD 4,296 億円）、規模は日生が依然 1 位だが、第一生命は 2010 株式会社化 → M&A 機動性で先行、日生は相互会社のまま海外 M&A を急加速 → 戦略の対比が鮮明。
 - **「ニッセイのおばちゃん」モデル**は明治安田・住友生命と類似だが、規模で日生が首位。
 
@@ -183,7 +183,7 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 
 ## Related
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[dai-ichi-life]] · [[megabanks/nippon-post|japan-post]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[life-insurers/dai-ichi-life]] · [[megabanks/nippon-post|japan-post]]
 - [[insurance/mutual-vs-stock-life-insurer]] · [[insurance/esr-economic-value-solvency]]
 
 ## Sources

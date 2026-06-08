@@ -33,9 +33,9 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## 推論 (from 8. Related)
 
-- [[JapanFG/77-bank|七十七銀行]]（宮城ベース、東北の競合・提携先。旧 `ssjbank` 誤リンクを修正）^[inferred]
-- [[concordia-fg]]（地銀統合 FG 比較対象）^[inferred]
-- [[fukuoka-fg]]（地銀統合先行事例・十八親和銀行モデル比較）^[inferred]
+- [[regional-banks/77-bank|七十七銀行]]（宮城ベース、東北の競合・提携先。旧 `ssjbank` 誤リンクを修正）^[inferred]
+- [[regional-banks/concordia-fg]]（地銀統合 FG 比較対象）^[inferred]
+- [[regional-banks/fukuoka-fg]]（地銀統合先行事例・十八親和銀行モデル比較）^[inferred]
 
 <!-- ambiguous 整理 (2026-05-29) -->
 

@@ -25,7 +25,7 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it again
 
 ## TL;DR
 
-**法人特化 BaaS（Banking as a Service）軸**のネット銀行。旧 **あおぞら信託銀行**（[[aozora-bank]] 子会社）を母体に、2018-07 **GMO インターネットグループ**が議決権の過半を取得して改称・ネット銀行化。種類株式の再編後、株主構成は**普通株（持株）比率であおぞら銀行 50.00% / GMO インターネットグループ 25.00% / GMO フィナンシャルホールディングス 25.00%**、**議決権比率ではあおぞら銀行 85.12% / GMO 両社各 7.43%**（2026-02-20 時点、あおぞら保有分の一部が議決権制限付種類株式のため持株比率と議決権比率が乖離）。**個人重視の楽天銀行・PayPay 銀行・住信 SBI ネット銀行とは異なり、フリーランス・スタートアップ・fintech 連動の法人口座 + API 連携を主軸**に据える。代表サービスは「**あんしんワイド**」（法人向けビジネスローン）と「**銀行 API for Developers**」。freee・マネーフォワード・Square・Stripe 等の fintech との戦略提携でポジションを築いている。^[extracted]
+**法人特化 BaaS（Banking as a Service）軸**のネット銀行。旧 **あおぞら信託銀行**（[[regional-banks/aozora-bank]] 子会社）を母体に、2018-07 **GMO インターネットグループ**が議決権の過半を取得して改称・ネット銀行化。種類株式の再編後、株主構成は**普通株（持株）比率であおぞら銀行 50.00% / GMO インターネットグループ 25.00% / GMO フィナンシャルホールディングス 25.00%**、**議決権比率ではあおぞら銀行 85.12% / GMO 両社各 7.43%**（2026-02-20 時点、あおぞら保有分の一部が議決権制限付種類株式のため持株比率と議決権比率が乖離）。**個人重視の楽天銀行・PayPay 銀行・住信 SBI ネット銀行とは異なり、フリーランス・スタートアップ・fintech 連動の法人口座 + API 連携を主軸**に据える。代表サービスは「**あんしんワイド**」（法人向けビジネスローン）と「**銀行 API for Developers**」。freee・マネーフォワード・Square・Stripe 等の fintech との戦略提携でポジションを築いている。^[extracted]
 
 ## 1. 会社概要
 
@@ -40,7 +40,7 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it again
 
 | 株主 | 持株比率 | 議決権比率 |
 |---|---|---|
-| [[aozora-bank]]（東証 PRIME 8304）| 50.00% | 85.12% |
+| [[regional-banks/aozora-bank]]（東証 PRIME 8304）| 50.00% | 85.12% |
 | GMO インターネットグループ（東証 PRIME 9449）| 25.00% | 7.43% |
 | GMO フィナンシャルホールディングス | 25.00% | 7.43% |
 
@@ -56,7 +56,7 @@ GMO インターネットグループ（東証 PRIME 9449・熊谷正寿）
   ├── GMO クリック証券 ── ネット証券・FX
   ├── GMO クラウド / GMO ペパボ ── インフラ・ホスティング
   └── GMO リサーチ / GMO アドパートナーズ ── 広告・調査
-[[aozora-bank]]（東証 PRIME 8304）
+[[regional-banks/aozora-bank]]（東証 PRIME 8304）
   └── GMO あおぞらネット銀行（持株 50%・議決権 85.12%、種類株式中心）── 筆頭株主
 ```
 
@@ -64,7 +64,7 @@ GMO インターネットグループ（東証 PRIME 9449・熊谷正寿）
 
 | 年月 | 事象 |
 |---|---|
-| 2004-04 | **あおぞら信託銀行** 開業（[[aozora-bank]] 100% 子会社、信託業務中心） |
+| 2004-04 | **あおぞら信託銀行** 開業（[[regional-banks/aozora-bank]] 100% 子会社、信託業務中心） |
 | 2016-05 | GMO インターネット が あおぞら信託銀行に 15% 出資 → ネット銀行転換の合弁準備 |
 | 2018-07 | **GMO 過半数取得 → GMO あおぞらネット銀行 改称・営業開始**（個人・法人口座開設開始） |
 | 2019〜 | 法人 fintech 連動口座が成長軸に。freee / マネーフォワード等との API 連携拡大 |
@@ -81,7 +81,7 @@ GMO インターネットグループ（東証 PRIME 9449・熊谷正寿）
 | API / BaaS | **銀行 API for Developers** | 法人 / fintech 向け（残高照会・振込・口座開設等の API 開放） |
 | パートナー連携 | freee / マネーフォワード / Square / Stripe / Wise 等 | 会計・決済 SaaS との直結口座 |
 | 個人口座 | フリーランス層・副業層向け | 個人特化 net bank（楽天 / PayPay / 住信 SBI 等）との真っ向勝負は回避 |
-| 暗号資産連携 | [[gmo-coin]]（兄弟会社）| GMO グループ内シナジー |
+| 暗号資産連携 | [[payment-firms/gmo-coin]]（兄弟会社）| GMO グループ内シナジー |
 | 決済連携 | GMO ペイメントゲートウェイ（兄弟会社・東証 PRIME 3769）| 決済処理・加盟店データ連携 |
 
 ### 法人 BaaS 軸の差別化
@@ -92,7 +92,7 @@ GMO インターネットグループ（東証 PRIME 9449・熊谷正寿）
 
 ### 親 GMO とのシナジー
 
-- **GMO ペイメントゲートウェイ**（決済）/ **[[gmo-coin]]**（暗号資産）/ **GMO クリック証券**（証券・FX）と相互送客
+- **GMO ペイメントゲートウェイ**（決済）/ **[[payment-firms/gmo-coin]]**（暗号資産）/ **GMO クリック証券**（証券・FX）と相互送客
 - GMO グループ全体の「**インターネット金融経済圏**」の銀行レイヤー（決済 + 証券 + 暗号資産 + 銀行）
 - 楽天・PayPay・SBI の経済圏と比較すると規模は小さいが、**法人 / フリーランス層**に明確に振り切ったポジション
 
@@ -111,13 +111,13 @@ GMO インターネットグループ（東証 PRIME 9449・熊谷正寿）
 - **業態**：銀行法上の銀行（普通銀行）
 - **預金保険**：預金保険機構加入
 - **API 規制**：銀行法改正（2017）に基づく Open API 提供義務 → 「銀行 API for Developers」はその制度的延長
-- **資金移動業 / 仮想通貨業との接続**：GMO グループ内 [[gmo-coin]] や GMO ペイメントゲートウェイ との連携で複数業法ライセンスの統合が論点
+- **資金移動業 / 仮想通貨業との接続**：GMO グループ内 [[payment-firms/gmo-coin]] や GMO ペイメントゲートウェイ との連携で複数業法ライセンスの統合が論点
 - **マネーロンダリング規制**：法人口座開設の本人確認 / 実質的支配者確認の厳格化（2023〜 FATF 第 4 次審査対応）
 
 ## Related
 
-- [[aozora-bank]]（旧親会社・現 ~15% 株主）
-- [[gmo-coin]]（兄弟会社・暗号資産）
+- [[regional-banks/aozora-bank]]（旧親会社・現 ~15% 株主）
+- [[payment-firms/gmo-coin]]（兄弟会社・暗号資産）
 - [[regional-banks/ssnb|sbi-sumishin-net]]（住信 SBI ネット銀行・競合 BaaS）
 - [[banking/paypay-bank|paypay-bank]] · [[banking/rakuten-bank|rakuten-bank]] · [[banking/au-jibun-bank|au-jibun-bank]]（個人ネット銀行・別戦場）
 - [[banking/minna-bank-baas-model|minna-bank]] · [[banking/mercari-bank|mercari-bank]]（新型 BaaS / 地銀発デジタルバンク・競合）

@@ -16,7 +16,7 @@ translated_at: 2026-05-31T15:29:03.875Z
 
 ## 长话短说
 
-位于山形+秋田的中型区域银行 FG。2009-10-01它是通过**庄内银行**（山形县总部）+ **北东银行**（秋田县总部）的股份转让而设立的，作为日本东部首个跨县界的区域银行整合案例而受到关注。2026-05-21在当前的维基边界中，[[shonai-bank]]和[[hokuto-bank]]经营银行，[[tohoku-bank]]牙齿2022-02 将被视为基本业务整合协议已终止的独立公司。北斗银行的官方简介是：北斗银行和庄内银行2027-01 该计划是与 Fidea Bank 合并并更名为 Fidea Bank。公司名称 Fidea = 由拉丁语“fides”+“idea”创造的词。^[extracted]
+位于山形+秋田的中型区域银行 FG。2009-10-01它是通过**庄内银行**（山形县总部）+ **北东银行**（秋田县总部）的股份转让而设立的，作为日本东部首个跨县界的区域银行整合案例而受到关注。2026-05-21在当前的维基边界中，[[regional-banks/shonai-bank]]和[[regional-banks/hokuto-bank]]经营银行，[[regional-banks/tohoku-bank]]牙齿2022-02 将被视为基本业务整合协议已终止的独立公司。北斗银行的官方简介是：北斗银行和庄内银行2027-01 该计划是与 Fidea Bank 合并并更名为 Fidea Bank。公司名称 Fidea = 由拉丁语“fides”+“idea”创造的词。^[extracted]
 
 ## 1。公司简介
 
@@ -38,7 +38,7 @@ translated_at: 2026-05-31T15:29:03.875Z
   ├── フィデアカード ── グループクレカ
   └── 荘内 / 北都 各キャピタル等 ── 地域投資・コンサル系
 
-東北銀行との経営統合基本合意は 2022-02 に解除済み。東北銀行は別ページ [[tohoku-bank]] で扱う。
+東北銀行との経営統合基本合意は 2022-02 に解除済み。東北銀行は別ページ [[regional-banks/tohoku-bank]] で扱う。
 ```
 
 ### 合并历史/前身^[extracted]
@@ -90,8 +90,8 @@ translated_at: 2026-05-31T15:29:03.875Z
 
 ### 竞争结构
 
-- **超级银行** ([[mufg]]・[[smfg]]・[[mizuho-fg]]): 县法人主要银行 竞争有限，互补关系
-- **尤乔**([[yucho]]): 个人存款竞争
+- **超级银行** ([[megabanks/mufg]]・[[megabanks/smfg]]・[[megabanks/mizuho-fg]]): 县法人主要银行 竞争有限，互补关系
+- **尤乔**([[regional-banks/yucho]]): 个人存款竞争
 - **县内单一地区银行**（山形银行、秋田银行、岩手银行）：直接竞争，但由于整合，规模差异扩大
 
 ## 4.法规/政策^[extracted/inferred]
@@ -106,9 +106,9 @@ translated_at: 2026-05-31T15:29:03.875Z
 
 ## 有关的
 
-- [[shonai-bank]]·[[hokuto-bank]]·[[tohoku-bank]]
-- [[hokuhoku-fg]]·[[regional-banks/proclair-hd|proCRD-hd]]·[[mebuki-fg]]·[[concordia-fg]]·[[dai-shi-hokuetsu-fg]]
-- [[mufg]]·[[smfg]]·[[mizuho-fg]]·[[yucho]]
+- [[regional-banks/shonai-bank]]·[[regional-banks/hokuto-bank]]·[[regional-banks/tohoku-bank]]
+- [[regional-banks/hokuhoku-fg]]·[[regional-banks/proclair-hd|proCRD-hd]]·[[regional-banks/mebuki-fg]]·[[regional-banks/concordia-fg]]·[[regional-banks/dai-shi-hokuetsu-fg]]
+- [[megabanks/mufg]]·[[megabanks/smfg]]·[[megabanks/mizuho-fg]]·[[regional-banks/yucho]]
 
 ## 来源
 

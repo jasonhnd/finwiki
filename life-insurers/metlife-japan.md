@@ -76,12 +76,12 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 
 | 競合 | 業態 |
 |---|---|
-| [[aflac-japan]] | 外資系生保、ガン保険・第三分野で国内首位級 |
-| [[prudential-japan]] | 外資系生保、ライフプランナー（LP）専属営業職員モデル |
-| [[sony-fg]] / ソニー生命 | 国内系、ライフプランナーモデル |
-| [[axa-japan]] | 外資系生保、団体・個人マルチライン |
-| [[manulife-japan]] | 外資系生保、外貨建保険 |
-| [[nippon-life]] / [[dai-ichi-life]] / [[life-insurers/meiji-yasuda|meiji-yasuda-life]] / [[sumitomo-life]] | 日系 4 大、営業職員モデル |
+| [[life-insurers/aflac-japan]] | 外資系生保、ガン保険・第三分野で国内首位級 |
+| [[life-insurers/prudential-japan]] | 外資系生保、ライフプランナー（LP）専属営業職員モデル |
+| [[megabanks/sony-fg]] / ソニー生命 | 国内系、ライフプランナーモデル |
+| [[life-insurers/axa-japan]] | 外資系生保、団体・個人マルチライン |
+| [[life-insurers/manulife-japan]] | 外資系生保、外貨建保険 |
+| [[life-insurers/nippon-life]] / [[life-insurers/dai-ichi-life]] / [[life-insurers/meiji-yasuda|meiji-yasuda-life]] / [[life-insurers/sumitomo-life]] | 日系 4 大、営業職員モデル |
 | ネット系 | ライフネット生命 / アクサダイレクト生命 等、低価格・ダイレクト |
 
 ## 4. 規制・政策
@@ -94,9 +94,9 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 
 ## Related
 
-- [[aflac-japan]] · [[prudential-japan]] · [[sony-fg]] · [[axa-japan]] · [[manulife-japan]]
-- [[nippon-life]] · [[dai-ichi-life]] · [[life-insurers/meiji-yasuda|meiji-yasuda-life]] · [[sumitomo-life]]
-- [[mufg]]（銀行窓販提携）· [[smfg]] · [[mizuho-fg]]
+- [[life-insurers/aflac-japan]] · [[life-insurers/prudential-japan]] · [[megabanks/sony-fg]] · [[life-insurers/axa-japan]] · [[life-insurers/manulife-japan]]
+- [[life-insurers/nippon-life]] · [[life-insurers/dai-ichi-life]] · [[life-insurers/meiji-yasuda|meiji-yasuda-life]] · [[life-insurers/sumitomo-life]]
+- [[megabanks/mufg]]（銀行窓販提携）· [[megabanks/smfg]] · [[megabanks/mizuho-fg]]
 
 ## Sources
 

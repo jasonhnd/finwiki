@@ -23,13 +23,13 @@ Taiko Bank, Ltd. is a second regional bank headquartered in Nagaoka, Niigata Pre
 |---|---|
 | Legal name | Taiko Bank, Ltd. |
 | License route | Banking Act second regional bank; FSA bank license list |
-| Group boundary | Independent second-regional bank; SBI alliance context should be read with [[sbi-regional-bank-hd]] |
+| Group boundary | Independent second-regional bank; SBI alliance context should be read with [[megabanks/sbi-regional-bank-hd]] |
 | Home market | Niigata / Nagaoka |
 | Wiki role | Niigata second-regional-bank operating-company page |
 
 ## 2. Operating model
 
-Taiko Bank is a second regional bank headquartered in Nagaoka, Niigata Prefecture, handling retail deposits, SME finance, local consulting, leasing / card-adjacent group services, and regional development support. The [[sbi-regional-bank-hd]] page may reference alliance context, but the bank license and operating footprint sit here. See [[daishi-hokuetsu-bank]] and [[dai-shi-hokuetsu-fg]] for Niigata regional-bank peers.
+Taiko Bank is a second regional bank headquartered in Nagaoka, Niigata Prefecture, handling retail deposits, SME finance, local consulting, leasing / card-adjacent group services, and regional development support. The [[megabanks/sbi-regional-bank-hd]] page may reference alliance context, but the bank license and operating footprint sit here. See [[regional-banks/daishi-hokuetsu-bank]] and [[regional-banks/dai-shi-hokuetsu-fg]] for Niigata regional-bank peers.
 
 ## 3. Why this page matters
 
@@ -39,7 +39,7 @@ Taiko Bank is a second regional bank headquartered in Nagaoka, Niigata Prefectur
 
 ## Related
 
-- [[sbi-regional-bank-hd]]
+- [[megabanks/sbi-regional-bank-hd]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 

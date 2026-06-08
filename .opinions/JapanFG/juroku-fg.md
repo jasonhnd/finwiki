@@ -32,13 +32,13 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## 推論 (from 県内競合構図)
 
-- **大垣共立銀行** ([[ogaki-kyoritsu-bank]]) との県内二強構図: 大垣共立は岐阜西濃 (大垣) 地盤、十六は岐阜市中心とその他全域。両行で岐阜県内地銀シェアをほぼ二分 ^[inferred]
+- **大垣共立銀行** ([[regional-banks/ogaki-kyoritsu-bank]]) との県内二強構図: 大垣共立は岐阜西濃 (大垣) 地盤、十六は岐阜市中心とその他全域。両行で岐阜県内地銀シェアをほぼ二分 ^[inferred]
 - **二強体制の安定性**: 県内 2 行体制は再編圧力が比較的低く、合併シナリオは現時点で未浮上 ^[inferred]
 
 ## 推論 (from 中京経済圏での競合)
 
-- **大手地銀との連携可能性**: 中部地銀ネットワーク (DCM = Diversified Chubu Marketing 連携枠組み等) や [[nishi-nippon-fhd]] + [[ikeda-senshu-hd]] 等他広域地銀連携の参照軸 ^[inferred]
-- **メガバンク** ([[mufg]] 旧東海銀行系統): 名古屋圏大企業向けは MUFG 系が main bank ポジションを占め、十六 FG は中堅・中小に集中 ^[inferred]
+- **大手地銀との連携可能性**: 中部地銀ネットワーク (DCM = Diversified Chubu Marketing 連携枠組み等) や [[regional-banks/nishi-nippon-fhd]] + [[regional-banks/ikeda-senshu-hd]] 等他広域地銀連携の参照軸 ^[inferred]
+- **メガバンク** ([[megabanks/mufg]] 旧東海銀行系統): 名古屋圏大企業向けは MUFG 系が main bank ポジションを占め、十六 FG は中堅・中小に集中 ^[inferred]
 
 ## 推論 (from 産業基盤)
 

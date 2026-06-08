@@ -15,7 +15,7 @@ translated_at: 2026-06-01T00:41:50.389Z
 
 ## TL;DR
 
-山阴合同银行是以山阴地方（岛根县 + 鸟取县）为核心的唯一大型上市地方银行。它在 1941-07-01 的战时统合中成立，由松江银行、米子银行等前身于 7 行 整合而来。简称 **ごうぎん / Gogin**。总部位于岛根县松江市，未转为控股公司，维持单独银行体制，并以证券代码 8381 在东证 Prime 上市。它在山阴两县拥有较高份额，在重点本地市场约为 4 、超过 5 。域外也在广岛、冈山、兵库、大阪设有网点。其区域经济由旅游、农渔业、制造业、能源相关企业（含岛根核电关联）共同构成。当地竞争者包括 1 行 [[shimane-bank|島根銀行]]，域外竞争则涉及 [[chugin-okayama]]、[[hirogin-hd]]、[[yamaguchi-fg]]。^[extracted]
+山阴合同银行是以山阴地方（岛根县 + 鸟取县）为核心的唯一大型上市地方银行。它在 1941-07-01 的战时统合中成立，由松江银行、米子银行等前身于 7 行 整合而来。简称 **ごうぎん / Gogin**。总部位于岛根县松江市，未转为控股公司，维持单独银行体制，并以证券代码 8381 在东证 Prime 上市。它在山阴两县拥有较高份额，在重点本地市场约为 4 、超过 5 。域外也在广岛、冈山、兵库、大阪设有网点。其区域经济由旅游、农渔业、制造业、能源相关企业（含岛根核电关联）共同构成。当地竞争者包括 1 行 [[regional-banks/shimane-bank|島根銀行]]，域外竞争则涉及 [[regional-banks/chugin-okayama]]、[[regional-banks/hirogin-hd]]、[[regional-banks/yamaguchi-fg]]。^[extracted]
 
 ## 1. 公司概要
 
@@ -78,10 +78,10 @@ translated_at: 2026-06-01T00:41:50.389Z
 | 竞争者 | 地盘 | 关系 |
 |---|---|---|
 | 鸟取银行 | 鸟取县 | 同县内竞争，规模差距较大，Gogin 优势 |
-| [[shimane-bank|島根銀行]] | 岛根县 | 同一区域 |
-| [[chugin-okayama]] | 冈山 / 广岛 | 域外展开时竞争，中四国地方银行盟主级 |
-| [[hirogin-hd]] | 广岛 | 同样的域外竞争 |
-| [[yamaguchi-fg]] | 山口 / 北九州 / 福冈 | 邻接 FG 和 3 行 统合体制，与 Gogin 单独路线形成对照 |
+| [[regional-banks/shimane-bank|島根銀行]] | 岛根县 | 同一区域 |
+| [[regional-banks/chugin-okayama]] | 冈山 / 广岛 | 域外展开时竞争，中四国地方银行盟主级 |
+| [[regional-banks/hirogin-hd]] | 广岛 | 同样的域外竞争 |
+| [[regional-banks/yamaguchi-fg]] | 山口 / 北九州 / 福冈 | 邻接 FG 和 3 行 统合体制，与 Gogin 单独路线形成对照 |
 | JA Bank / Japan Post Bank | 全国 | 零售竞争者，尤其是高龄者存款 |
 
 ### 合作 / 收购战略
@@ -107,7 +107,7 @@ translated_at: 2026-06-01T00:41:50.389Z
 
 ## Related
 
-- [[chugin-okayama]] · [[hirogin-hd]] · [[yamaguchi-fg]] · [[mufg]] · [[smfg]] · [[mizuho-fg]]
+- [[regional-banks/chugin-okayama]] · [[regional-banks/hirogin-hd]] · [[regional-banks/yamaguchi-fg]] · [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]
 - 中四国地方银行板块 / 山阴地方经济 / 战时一县一行主义。
 
 ## Sources

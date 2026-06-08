@@ -55,10 +55,10 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 ## Related
 
 - [[regional-banks/INDEX|regional-banks INDEX]]
-- [[hokkoku-fhd]]
-- [[hokuriku-bank]]
-- [[toyama-bank]]
-- [[toyama-first-bank]]
+- [[regional-banks/hokkoku-fhd]]
+- [[regional-banks/hokuriku-bank]]
+- [[regional-banks/toyama-bank]]
+- [[regional-banks/toyama-first-bank]]
 - [[financial-regulators/fsa|FSA]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]

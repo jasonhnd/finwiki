@@ -65,6 +65,7 @@
     "wikilinks_count": 22,
     "wikilinks": [
       "INDEX",
+      "financial-conglomerates/mitsui-co",
       "financial-regulators/japan-pi-club",
       "financial-regulators/nippon-kaiji-kyokai",
       "insurance/INDEX",
@@ -74,7 +75,6 @@
       "insurance/japan-nonlife-big-three",
       "insurance/lloyds-japan-syndicate-operating-model",
       "insurance/natcat-reinsurance-japan",
-      "mitsui-co",
       "non-life-insurers/aig-japan",
       "non-life-insurers/aioi-nissay-dowa-insurance",
       "non-life-insurers/chubb-insurance-japan",
@@ -89,6 +89,7 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/financial-conglomerates/mitsui-co",
       "https://finwiki.zksc.io/financial-regulators/japan-pi-club",
       "https://finwiki.zksc.io/financial-regulators/nippon-kaiji-kyokai",
       "https://finwiki.zksc.io/insurance/INDEX",
@@ -98,7 +99,6 @@
       "https://finwiki.zksc.io/insurance/japan-nonlife-big-three",
       "https://finwiki.zksc.io/insurance/lloyds-japan-syndicate-operating-model",
       "https://finwiki.zksc.io/insurance/natcat-reinsurance-japan",
-      "https://finwiki.zksc.io/mitsui-co",
       "https://finwiki.zksc.io/non-life-insurers/aig-japan",
       "https://finwiki.zksc.io/non-life-insurers/aioi-nissay-dowa-insurance",
       "https://finwiki.zksc.io/non-life-insurers/chubb-insurance-japan",
@@ -115,9 +115,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 9377,
-    "word_like_tokens": 1565,
+    "nonspace_chars": 9401,
+    "word_like_tokens": 1567,
     "inbound_wikilinks_count": 12,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-08"
   }
 }

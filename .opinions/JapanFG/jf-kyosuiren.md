@@ -13,13 +13,13 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 ## 推論 (from 1. 組織構造)
 
 | 設立 | 1952 前後 (戦後漁協再編期 + 水協法施行を受けて) ^[inferred] |
-| 本部 | 東京都千代田区内幸町 ([[JapanFG/jf-zengyoren|JF 全漁連]] と同一エリア) ^[inferred] |
+| 本部 | 東京都千代田区内幸町 ([[cooperative-banks/jf-zengyoren|JF 全漁連]] と同一エリア) ^[inferred] |
 
 ## 推論 (from JA 共済連との対比 ^[extracted / inferred])
 
 | 設立 | 1951 | 1952 前後 ^[inferred] |
 | 比率 | 100% (基準) | **約 1/30〜1/50** ^[inferred] |
-| 損保子会社 | [[JapanFG/kyoritsu-fire-marine|共栄火災海上保険]] 74.20% 株主 | なし (規模制約) ^[inferred] |
+| 損保子会社 | [[non-life-insurers/kyoritsu-fire-marine|共栄火災海上保険]] 74.20% 株主 | なし (規模制約) ^[inferred] |
 | 政治影響力 | 強 (自民党農林族) | 中 (水産族議員) ^[inferred] |
 
 ## 推論 (from 重要年表 ^[extracted / inferred])
@@ -30,7 +30,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## 推論 (from ALM・資金フロー ^[inferred])
 
-→ 余資 → [[JapanFG/norinchukin|農林中央金庫]] 連携 (一部) ^[inferred]
+→ 余資 → [[cooperative-banks/norinchukin|農林中央金庫]] 連携 (一部) ^[inferred]
 
 ## 推論 (from JA 共済連との規模対比)
 
@@ -110,7 +110,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ### 共栄火災海上保険との関係 ^[inferred]
 
-- [[JapanFG/ja-kyosairen|JA 共済連]] が [[JapanFG/kyoritsu-fire-marine|共栄火災海上保険]] の 74.20% 株主
+- [[non-life-insurers/ja-kyosairen|JA 共済連]] が [[non-life-insurers/kyoritsu-fire-marine|共栄火災海上保険]] の 74.20% 株主
 
 ### デジタル戦略 ^[inferred]
 
@@ -121,9 +121,9 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 ### 競合構造 ^[inferred]
 
 - **生命保険業界**: 日本生命・第一生命・明治安田・住友生命 - 漁業者世帯のうち高所得層を巡る競合
-- **損保業界 3 大 ([[JapanFG/tokio-marine|東京海上]] / [[JapanFG/msad|MS&AD]] / [[JapanFG/sompo|SOMPO]])**: 自動車・漁船 (大型) で部分競合
+- **損保業界 3 大 ([[non-life-insurers/tokio-marine|東京海上]] / [[non-life-insurers/msad|MS&AD]] / [[non-life-insurers/sompo|SOMPO]])**: 自動車・漁船 (大型) で部分競合
 - **共栄火災**: JA 共済連子会社 → JF 共水連と一部協働
-- **[[JapanFG/ja-kyosairen|JA 共済連]]**: 農協系の peer (規模圧倒的)、地域競合は限定
-- **[[JapanFG/zenrosai|全労済]] / 都道府県民共済**: 部分競合
+- **[[non-life-insurers/ja-kyosairen|JA 共済連]]**: 農協系の peer (規模圧倒的)、地域競合は限定
+- **[[non-life-insurers/zenrosai|全労済]] / 都道府県民共済**: 部分競合
 
-> confidence: **likely**。本エントリは FinWiki 初の **JF 共水連 (漁協系共済中央) anchor**、[[JapanFG/ja-kyosairen|JA 共済連]] の漁協側 peer として配置。共水連は JA 共済連に比べ公開情報限定的のため、保有契約高 + 総資産等 ^[ambiguous] は概数推定、最新は共水連年次報告書 + JF グループ公開資料を要参照。漁船共済等の固有商品 ^[inferred] の正確な詳細は要追加検証。本エントリ作成により、JapanFG/JF group の代表 + 経済 + 共済 + 信用 (中間層) + 信用 (中央) の **5 機関 anchor 体制が完備**された。
+> confidence: **likely**。本エントリは FinWiki 初の **JF 共水連 (漁協系共済中央) anchor**、[[non-life-insurers/ja-kyosairen|JA 共済連]] の漁協側 peer として配置。共水連は JA 共済連に比べ公開情報限定的のため、保有契約高 + 総資産等 ^[ambiguous] は概数推定、最新は共水連年次報告書 + JF グループ公開資料を要参照。漁船共済等の固有商品 ^[inferred] の正確な詳細は要追加検証。本エントリ作成により、JapanFG/JF group の代表 + 経済 + 共済 + 信用 (中間層) + 信用 (中央) の **5 機関 anchor 体制が完備**された。

@@ -48,34 +48,32 @@
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 8,
+    "wikilinks_count": 7,
     "wikilinks": [
-      "aichi-fg",
       "banking/INDEX",
       "banking/regional-bank-consolidation-pattern",
-      "juroku-bank",
-      "nagoya-bank",
-      "ogaki-kyoritsu-bank",
       "regional-banks/INDEX",
-      "regional-banks/nagoya-bank"
+      "regional-banks/aichi-fg",
+      "regional-banks/juroku-bank",
+      "regional-banks/nagoya-bank",
+      "regional-banks/ogaki-kyoritsu-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/aichi-fg",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
-      "https://finwiki.zksc.io/juroku-bank",
-      "https://finwiki.zksc.io/nagoya-bank",
-      "https://finwiki.zksc.io/ogaki-kyoritsu-bank",
       "https://finwiki.zksc.io/regional-banks/INDEX",
-      "https://finwiki.zksc.io/regional-banks/nagoya-bank"
+      "https://finwiki.zksc.io/regional-banks/aichi-fg",
+      "https://finwiki.zksc.io/regional-banks/juroku-bank",
+      "https://finwiki.zksc.io/regional-banks/nagoya-bank",
+      "https://finwiki.zksc.io/regional-banks/ogaki-kyoritsu-bank"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1758,
-    "word_like_tokens": 278,
-    "inbound_wikilinks_count": 12,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 1893,
+    "word_like_tokens": 296,
+    "inbound_wikilinks_count": 15,
+    "last_modified": "2026-06-08"
   }
 }

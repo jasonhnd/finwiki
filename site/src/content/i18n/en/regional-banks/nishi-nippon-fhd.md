@@ -15,7 +15,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-Nishi-Nippon Financial Holdings is a higher-tier regional-bank holding company based in northern Kyushu and Fukuoka Prefecture. It was created through the standalone share transfer of **2016-10-03 [[nishi-nippon-city-bank|西日本シティ銀行]]**, is listed on TSE PRIME under 7189, and its main subsidiaries are **[[nishi-nippon-city-bank|西日本シティ銀行]] + [[nagasaki-bank|長崎銀行]] + NCB Research & Consulting and related companies**. Within Kyushu regional banking, it is described with [[fukuoka-fg]] as one of the "Fukuoka 2  major regional banks." Its core is corporate lending to mid-sized and SME customers in Fukuoka Prefecture plus retail banking. It also uses Fukuoka Airport and Hakata Port as a base for Asia-oriented international business. ^[extracted]
+Nishi-Nippon Financial Holdings is a higher-tier regional-bank holding company based in northern Kyushu and Fukuoka Prefecture. It was created through the standalone share transfer of **2016-10-03 [[regional-banks/nishi-nippon-city-bank|西日本シティ銀行]]**, is listed on TSE PRIME under 7189, and its main subsidiaries are **[[regional-banks/nishi-nippon-city-bank|西日本シティ銀行]] + [[regional-banks/nagasaki-bank|長崎銀行]] + NCB Research & Consulting and related companies**. Within Kyushu regional banking, it is described with [[regional-banks/fukuoka-fg]] as one of the "Fukuoka 2  major regional banks." Its core is corporate lending to mid-sized and SME customers in Fukuoka Prefecture plus retail banking. It also uses Fukuoka Airport and Hakata Port as a base for Asia-oriented international business. ^[extracted]
 
 ## 1. Company overview
 
@@ -30,9 +30,9 @@ Nishi-Nippon Financial Holdings is a higher-tier regional-bank holding company b
 ```text
 Nishi-Nippon FHD (listed holding company 7189)
   ├── Nishi-Nippon City Bank (100%)
-  │     └── [[nishi-nippon-city-bank]] / Fukuoka-based core subsidiary, a Kyushu No.2  class regional bank
+  │     └── [[regional-banks/nishi-nippon-city-bank]] / Fukuoka-based core subsidiary, a Kyushu No.2  class regional bank
   │         └── Branch network in Fukuoka, Oita, Saga, Nagasaki, Kumamoto, Tokyo, Osaka, and elsewhere
-  ├── [[nagasaki-bank|長崎銀行]] (100%)
+  ├── [[regional-banks/nagasaki-bank|長崎銀行]] (100%)
   │     └── Second-tier regional bank based in Nagasaki; became a subsidiary in 2006-04 
   ├── NCB Research & Consulting (100%): consulting for mid-sized and SME customers
   ├── Nishi-Nippon City TT Securities: securities joint venture with SMBC Nikko Securities
@@ -47,7 +47,7 @@ Nishi-Nippon FHD (listed holding company 7189)
 - **1944**: Nishi-Nippon Mutual Bank founded through wartime consolidation, giving the current group mutual-bank DNA.
 - **1989-04**: Converted into an ordinary bank and renamed **Nishi-Nippon Bank**.
 - **2004-10-01**: **Fukuoka City Bank + Nishi-Nippon Bank -> Nishi-Nippon City Bank**, with a merger ratio around 1:1  and Fukuoka 2 行 consolidation.
-- **2006-04**: **[[nagasaki-bank|長崎銀行]] made a subsidiary**, part of the rescue-consolidation line for a Nagasaki second-tier regional bank.
+- **2006-04**: **[[regional-banks/nagasaki-bank|長崎銀行]] made a subsidiary**, part of the rescue-consolidation line for a Nagasaki second-tier regional bank.
 - **2016-10-03**: **Nishi-Nippon FHD established** through the standalone share transfer of Nishi-Nippon City Bank.
 
 ### Key timeline excerpts ^[extracted]
@@ -57,7 +57,7 @@ Nishi-Nippon FHD (listed holding company 7189)
 | 1944  | Nishi-Nippon Mutual Bank founded through wartime consolidation. |
 | 1989-04  | Converted to an ordinary bank and renamed Nishi-Nippon Bank. |
 | 2004-10-01 | Fukuoka City Bank + Nishi-Nippon Bank -> **Nishi-Nippon City Bank**. |
-| 2006-04  | **[[nagasaki-bank|長崎銀行]] made a subsidiary**. |
+| 2006-04  | **[[regional-banks/nagasaki-bank|長崎銀行]] made a subsidiary**. |
 | 2016-10-03 | **Nishi-Nippon FHD established**; holding-company conversion and listing on TSE 1  Section / Fukuoka Stock Exchange. |
 | 2022-04  | Shifted to TSE PRIME after market-segment reorganization. |
 | 2024  | Medium-term management plan, from 2024, started. |
@@ -66,18 +66,18 @@ Nishi-Nippon FHD (listed holding company 7189)
 
 | Segment | Main operator | Features |
 |---|---|---|
-| Domestic corporate, core | [[nishi-nippon-city-bank|西日本シティ銀行]] | Main bank for mid-sized and SME customers in Fukuoka; Kyushu-wide sales |
-| Domestic retail | [[nishi-nippon-city-bank|西日本シティ銀行]] | Fukuoka metropolitan retail and mortgages |
-| Nagasaki coverage | [[nagasaki-bank|長崎銀行]] | Second-tier regional bank based in Nagasaki; smaller scale |
+| Domestic corporate, core | [[regional-banks/nishi-nippon-city-bank|西日本シティ銀行]] | Main bank for mid-sized and SME customers in Fukuoka; Kyushu-wide sales |
+| Domestic retail | [[regional-banks/nishi-nippon-city-bank|西日本シティ銀行]] | Fukuoka metropolitan retail and mortgages |
+| Nagasaki coverage | [[regional-banks/nagasaki-bank|長崎銀行]] | Second-tier regional bank based in Nagasaki; smaller scale |
 | Securities | Nishi-Nippon City TT Securities | Joint venture with SMBC Nikko; retail securities |
-| International business | [[nishi-nippon-city-bank|西日本シティ銀行]] international division | Asia route through Fukuoka Airport and Hakata Port, including Korea, China, and Southeast Asia |
+| International business | [[regional-banks/nishi-nippon-city-bank|西日本シティ銀行]] international division | Asia route through Fukuoka Airport and Hakata Port, including Korea, China, and Southeast Asia |
 | Cards | Nishi-Nippon Card | Regional card business with VISA / JCB partnerships |
 | Leasing / PE | NCB Lease & Capital / NCB Capital | Leasing and business succession for regional mid-sized companies |
 | Think tank | NCB Research & Consulting | Corporate consulting and regional economic research |
 
 ### Fukuoka 2  major regional-bank structure
 
-The Kyushu regional-bank landscape is a competition between **[[fukuoka-fg]]**, the holding company combining [[fukuoka-bank|福岡銀行]] + [[kumamoto-bank|熊本銀行]] + Shinwa Bank + [[18-shinwa-bank|十八親和銀行]] + [[fukuoka-chuo-bank|福岡中央銀行]], and Nishi-Nippon FHD, combining [[nishi-nippon-city-bank|西日本シティ銀行]] + [[nagasaki-bank|長崎銀行]]. It is a 2  major-holding-company competitive structure. ^[extracted]
+The Kyushu regional-bank landscape is a competition between **[[regional-banks/fukuoka-fg]]**, the holding company combining [[regional-banks/fukuoka-bank|福岡銀行]] + [[regional-banks/kumamoto-bank|熊本銀行]] + Shinwa Bank + [[regional-banks/18-shinwa-bank|十八親和銀行]] + [[regional-banks/fukuoka-chuo-bank|福岡中央銀行]], and Nishi-Nippon FHD, combining [[regional-banks/nishi-nippon-city-bank|西日本シティ銀行]] + [[regional-banks/nagasaki-bank|長崎銀行]]. It is a 2  major-holding-company competitive structure. ^[extracted]
 
 ### Corporate-finance emphasis
 
@@ -89,10 +89,10 @@ The Kyushu regional-bank landscape is a competition between **[[fukuoka-fg]]**, 
 
 ### Competitive relationships
 
-- **Same prefecture**: [[fukuoka-fg]] / [[fukuoka-bank|福岡銀行]], a direct "Fukuoka 2  major regional banks" rivalry.
-- **Neighboring prefectures**: [[saga-bank|佐賀銀行]] / [[oita-bank|大分銀行]] / [[higo-bank|肥後銀行]], competition for cross-border corporate finance.
-- **Megabanks**: Fukuoka branches of [[mufg]] / [[smfg]] / [[mizuho-fg]], stronger for large corporates.
-- **New digital players**: [[paypay-fg]] / [[sbi-hd]]-linked regional finance and internet banking pressure digital channels.
+- **Same prefecture**: [[regional-banks/fukuoka-fg]] / [[regional-banks/fukuoka-bank|福岡銀行]], a direct "Fukuoka 2  major regional banks" rivalry.
+- **Neighboring prefectures**: [[regional-banks/saga-bank|佐賀銀行]] / [[regional-banks/oita-bank|大分銀行]] / [[regional-banks/higo-bank|肥後銀行]], competition for cross-border corporate finance.
+- **Megabanks**: Fukuoka branches of [[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]], stronger for large corporates.
+- **New digital players**: [[megabanks/paypay-fg]] / [[megabanks/sbi-hd]]-linked regional finance and internet banking pressure digital channels.
 - **Shinkin / credit cooperatives**: Fukuoka Hibiki Shinkin, Fukuoka credit cooperatives, and similar institutions compete in micro and small-business layers.
 
 ### 2024 medium-term management plan
@@ -114,7 +114,7 @@ The Kyushu regional-bank landscape is a competition between **[[fukuoka-fg]]**, 
 
 ## Related
 
-- [[fukuoka-fg]] · [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[paypay-fg]] · [[sbi-hd]]
+- [[regional-banks/fukuoka-fg]] · [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[megabanks/paypay-fg]] · [[megabanks/sbi-hd]]
 
 ## Sources
 

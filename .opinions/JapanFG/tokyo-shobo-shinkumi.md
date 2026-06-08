@@ -79,7 +79,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 組合員 (東京消防庁職員・OB + 家族, 約 1.8 万人母集団)
   → 預金 → 東京消防信用組合
               → 組合員向け住宅・生活ローン (低リスク・高安定)
-              → 余資預け入れ → [[JapanFG/zenshin-kumi|全信組連]]
+              → 余資預け入れ → [[cooperative-banks/zenshin-kumi|全信組連]]
                                   → 機関投資 + 系統還元
 ```
 

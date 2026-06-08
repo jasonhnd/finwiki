@@ -34,15 +34,15 @@ Shizuoka Chuo Bank is a second regional bank centered on Numazu, providing retai
 ## 3. Why this page matters
 
 - Closes the FSA second-regional-bank exact-name gap for Shizuoka Chuo Bank.
-- Adds a separate anchor from [[shizuoka-bank]], [[shimizu-bank]], and [[suruga-bank]].
+- Adds a separate anchor from [[regional-banks/shizuoka-bank]], [[regional-banks/shimizu-bank]], and [[regional-banks/suruga-bank]].
 - Helps map Shizuoka / Kanagawa-adjacent regional banking coverage.
 
 ## Related
 
-- [[shizuoka-bank]]
-- [[shimizu-bank]]
-- [[suruga-bank]]
-- [[kanagawa-bank]]
+- [[regional-banks/shizuoka-bank]]
+- [[regional-banks/shimizu-bank]]
+- [[regional-banks/suruga-bank]]
+- [[regional-banks/kanagawa-bank]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 

@@ -15,7 +15,7 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it
 
 ## TL;DR
 
-Morgan Stanley Japan is the Japan base of U.S.-based Morgan Stanley (NYSE: MS). Through its **strategic alliance with MUFG [[mufg]] (2008-09)**, it built one of the deepest global investment-banking tie-ups with a Japanese megabank. In 2010-05 , the Japan securities businesses were integrated and now operate under a **2 社 structure**: Mitsubishi UFJ Morgan Stanley Securities = MUMSS, and Morgan Stanley MUFG Securities = MSMS. MUMSS covers face-to-face retail plus ECM / DCM, while MSMS covers wholesale, including M&A and institutional investors. The group is one of Japan's 5  major securities firms and has a presence in global investment banking comparable to Nomura [[nomura-hd]].
+Morgan Stanley Japan is the Japan base of U.S.-based Morgan Stanley (NYSE: MS). Through its **strategic alliance with MUFG [[megabanks/mufg]] (2008-09)**, it built one of the deepest global investment-banking tie-ups with a Japanese megabank. In 2010-05 , the Japan securities businesses were integrated and now operate under a **2 社 structure**: Mitsubishi UFJ Morgan Stanley Securities = MUMSS, and Morgan Stanley MUFG Securities = MSMS. MUMSS covers face-to-face retail plus ECM / DCM, while MSMS covers wholesale, including M&A and institutional investors. The group is one of Japan's 5  major securities firms and has a presence in global investment banking comparable to Nomura [[securities-firms/nomura-hd]].
 
 ## 1. Company Overview
 
@@ -63,9 +63,9 @@ Morgan Stanley Japan is the Japan base of U.S.-based Morgan Stanley (NYSE: MS). 
 
 | Area | Main Competitors |
 |---|---|
-| Global IB / M&A | [[goldman-sachs-japan]] · JP Morgan Securities · [[nomura-hd]] |
-| Domestic retail securities | [[nomura-hd]] · Daiwa Securities · SMBC Nikko [[smfg]] · Mizuho Securities [[mizuho-fg]] |
-| ECM / DCM lead manager | [[nomura-hd]] · Daiwa · SMBC Nikko · Mizuho |
+| Global IB / M&A | [[securities-firms/goldman-sachs-japan]] · JP Morgan Securities · [[securities-firms/nomura-hd]] |
+| Domestic retail securities | [[securities-firms/nomura-hd]] · Daiwa Securities · SMBC Nikko [[megabanks/smfg]] · Mizuho Securities [[megabanks/mizuho-fg]] |
+| ECM / DCM lead manager | [[securities-firms/nomura-hd]] · Daiwa · SMBC Nikko · Mizuho |
 | Institutional-investor trading | Goldman Sachs · JP Morgan · BofA · Citi |
 
 ### Before Integration (1970s-2007)
@@ -116,7 +116,7 @@ Morgan Stanley Japan is the Japan base of U.S.-based Morgan Stanley (NYSE: MS). 
 - **Dual-license structure**: MUMSS, with Japanese-bank majority control, plus MSMS, with foreign-capital majority control, optimize regulatory handling and customer segmentation.
 - **Cross-function model**: MUFG's bank-customer base multiplied by MS global IB products.
 - **Capital efficiency**: MUFG incorporates Morgan Stanley earnings through equity-method investment income, contributing profit on the scale of hundreds of billions of yen annually.
-- **Competitive differentiation**: The combination of a Japanese megabank and a foreign-capital IB is close to unique; [[smfg]] = Nikko independent, while [[mizuho-fg]] = Mizuho Securities independent.
+- **Competitive differentiation**: The combination of a Japanese megabank and a foreign-capital IB is close to unique; [[megabanks/smfg]] = Nikko independent, while [[megabanks/mizuho-fg]] = Mizuho Securities independent.
 
 ### Wholesale Strategy (MSMS)
 
@@ -139,12 +139,12 @@ Morgan Stanley Japan is the Japan base of U.S.-based Morgan Stanley (NYSE: MS). 
 
 | Competitor | Nature |
 |---|---|
-| [[goldman-sachs-japan]] | Pure foreign-capital IB; no Japanese-bank alliance; wholesale-focused |
+| [[securities-firms/goldman-sachs-japan]] | Pure foreign-capital IB; no Japanese-bank alliance; wholesale-focused |
 | JP Morgan Securities | Pure foreign-capital IB with commercial-banking coexistence |
-| [[nomura-hd]] | Largest Japanese-bank-lineage securities group; both retail and wholesale |
+| [[securities-firms/nomura-hd]] | Largest Japanese-bank-lineage securities group; both retail and wholesale |
 | Daiwa Securities | Independent Japanese securities group; strong retail |
-| SMBC Nikko Securities ([[smfg]]) | Japanese-bank subsidiary; strong retail |
-| Mizuho Securities ([[mizuho-fg]]) | Japanese-bank subsidiary; shifting toward IB |
+| SMBC Nikko Securities ([[megabanks/smfg]]) | Japanese-bank subsidiary; strong retail |
+| Mizuho Securities ([[megabanks/mizuho-fg]]) | Japanese-bank subsidiary; shifting toward IB |
 
 ## 5. Regulation and Policy
 
@@ -156,10 +156,10 @@ Morgan Stanley Japan is the Japan base of U.S.-based Morgan Stanley (NYSE: MS). 
 
 ## Related
 
-- [[mufg]] — parent-company and capital-alliance counterparty
-- [[nomura-hd]] · [[goldman-sachs-japan]] — main competitors
-- [[smfg]] · [[mizuho-fg]] — competitors among megabank-lineage securities firms
-- [[sbi-hd]] — retail securities competitor, online lineage
+- [[megabanks/mufg]] — parent-company and capital-alliance counterparty
+- [[securities-firms/nomura-hd]] · [[securities-firms/goldman-sachs-japan]] — main competitors
+- [[megabanks/smfg]] · [[megabanks/mizuho-fg]] — competitors among megabank-lineage securities firms
+- [[megabanks/sbi-hd]] — retail securities competitor, online lineage
 
 ## Sources
 
@@ -168,7 +168,7 @@ Morgan Stanley Japan is the Japan base of U.S.-based Morgan Stanley (NYSE: MS). 
 - **Wikipedia: Morgan Stanley MUFG Securities** (extracted 2026-05-19)
 - Morgan Stanley Annual Report (2024  / Form 10-K, public materials)
 - MUFG IR disclosures related to the Morgan Stanley strategic alliance, 2008-09 through 2024
-- Related: [[mufg]], MUFG history and MS alliance details
+- Related: [[megabanks/mufg]], MUFG history and MS alliance details
 
 ---
 

@@ -15,7 +15,7 @@ translated_at: 2026-06-01T00:41:50.442Z
 
 ## TL;DR
 
-**[[mizuho-fg]] 系、伊藤忠商事系的日本国内大型信贩公司**。1954-12-22 在广岛以“廣島综合信用”设立，1962 改称 Orient Finance，2001 改为现公司名。以**日本国内最大的汽车贷款（auto loan）**为骨干，开展 shopping credit、信用卡（各类 Orico Card）、card loan、法人 finance、不动产担保贷款。2005-12 经营重建时接受 [[mizuho-fg]]（原兴银系）+ 伊藤忠商事 + KDDI 等的优先股注入，目前是 **Mizuho FG 的权益法适用关联公司 + 伊藤忠商事**为主要股东的框架。东证 PRIME 8585。竞争对手包括 [[jaccs]] / Credit Saison / 三井住友 Card（[[smfg]] 系）/ 三菱 UFJ NICOS（[[mufg]] 系）/ Aeon 系 [[aeon-bank]]。^[extracted]
+**[[megabanks/mizuho-fg]] 系、伊藤忠商事系的日本国内大型信贩公司**。1954-12-22 在广岛以“廣島综合信用”设立，1962 改称 Orient Finance，2001 改为现公司名。以**日本国内最大的汽车贷款（auto loan）**为骨干，开展 shopping credit、信用卡（各类 Orico Card）、card loan、法人 finance、不动产担保贷款。2005-12 经营重建时接受 [[megabanks/mizuho-fg]]（原兴银系）+ 伊藤忠商事 + KDDI 等的优先股注入，目前是 **Mizuho FG 的权益法适用关联公司 + 伊藤忠商事**为主要股东的框架。东证 PRIME 8585。竞争对手包括 [[card-issuers/jaccs]] / Credit Saison / 三井住友 Card（[[megabanks/smfg]] 系）/ 三菱 UFJ NICOS（[[megabanks/mufg]] 系）/ Aeon 系 [[card-issuers/aeon-bank]]。^[extracted]
 
 ## 1. 公司概要
 
@@ -38,7 +38,7 @@ translated_at: 2026-06-01T00:41:50.442Z
 
 | 股东 | 性格 | 备注 |
 |---|---|---|
-| **Mizuho Bank**（[[mizuho-fg]] 系） | 第一大股东 / 权益法适用关联公司 | 2010-09 成为权益法适用关联公司。2026-03 末约 48.66%，2026-05 降至 33.79%（后述）|
+| **Mizuho Bank**（[[megabanks/mizuho-fg]] 系） | 第一大股东 / 权益法适用关联公司 | 2010-09 成为权益法适用关联公司。2026-03 末约 48.66%，2026-05 降至 33.79%（后述）|
 | **伊藤忠商事** | 原大股东（不再适用权益法） | 2005 通过第三方配股等取得 21% 并成为第一大股东，2024-11 出售部分持股后，不再属于伊藤忠侧权益法适用对象 |
 | 信托银行各社 / 机构投资者 | 流通股 | 作为上市公司通常披露 |
 
@@ -81,20 +81,20 @@ translated_at: 2026-06-01T00:41:50.442Z
 ### 核心差异化
 
 - **日本国内汽车贷款 No.1**：与汽车销售店的长期渠道关系是最大进入壁垒。在新车 / 二手车经销商分期中拥有 **行业 top share** ^[extracted]。
-- **Mizuho 系列 credit 核心**：[[mizuho-fg]] 集团内 credit / 信贩业务的核心功能（vs [[mufg]] 的三菱 UFJ NICOS / [[smfg]] 的三井住友 Card）
+- **Mizuho 系列 credit 核心**：[[megabanks/mizuho-fg]] 集团内 credit / 信贩业务的核心功能（vs [[megabanks/mufg]] 的三菱 UFJ NICOS / [[megabanks/smfg]] 的三井住友 Card）
 - **伊藤忠联动**：与伊藤忠商事的流通 / 汽车相关网络具有亲和性（商社系客户基础、海外展开时的协作）
 
 ### 国内竞争格局
 
 | 竞争方 | 系列 | 主要业务领域 | 备注 |
 |---|---|---|---|
-| **JACCS [[jaccs]]** | [[mufg]] 系（三菱 UFJ 银行是大股东） | 汽车贷款 / 信贩 | 在 auto loan 上与 Orico 直接竞争 |
+| **JACCS [[card-issuers/jaccs]]** | [[megabanks/mufg]] 系（三菱 UFJ 银行是大股东） | 汽车贷款 / 信贩 | 在 auto loan 上与 Orico 直接竞争 |
 | **Credit Saison** | 独立系（原西武 → 接近现 Mizuho 系列） | 信用卡（Saison Card） | 卡业务中心，永久不灭积分 |
-| **三井住友 Card** | [[smfg]] 系 | 信用卡（Visa） | 日本国内最大 Visa，Olive 联动 |
-| **三菱 UFJ NICOS** | [[mufg]] 系 | 信用卡（DC / NICOS / MUFG Card） | 三大 credit card 公司 |
-| **Aeon Card** | [[aeon-bank]] 系 | 流通系信用卡 | Aeon group 流通联动 |
+| **三井住友 Card** | [[megabanks/smfg]] 系 | 信用卡（Visa） | 日本国内最大 Visa，Olive 联动 |
+| **三菱 UFJ NICOS** | [[megabanks/mufg]] 系 | 信用卡（DC / NICOS / MUFG Card） | 三大 credit card 公司 |
+| **Aeon Card** | [[card-issuers/aeon-bank]] 系 | 流通系信用卡 | Aeon group 流通联动 |
 | **Epos Card** | 丸井集团 | 流通系 / 年轻层 | Marui 促销联动 |
-| **Rakuten Card** | Rakuten FG（[[rakuten-fg]] 系） | 日本国内发行张数 No.1 级 | 积分经济圈 |
+| **Rakuten Card** | Rakuten FG（[[payment-firms/rakuten-fg]] 系） | 日本国内发行张数 No.1 级 | 积分经济圈 |
 
 ### 战略课题
 
@@ -121,10 +121,10 @@ translated_at: 2026-06-01T00:41:50.442Z
 
 ## Related
 
-- [[mizuho-fg]]（主要股东 / 权益法适用母公司）· 伊藤忠商事（主要股东）
-- 国内信贩竞争：[[jaccs]]（auto loan 直接竞争 / [[mufg]] 系）
-- 卡竞争：三井住友 Card（[[smfg]] 系）· 三菱 UFJ NICOS（[[mufg]] 系）· [[jcb]] · Credit Saison · [[aeon-bank]]（Aeon Card）· Epos Card · [[rakuten-fg]]（Rakuten Card）
-- 数字支付竞争：[[paypay-fg]]（PayPay）· [[paidy]]（BNPL）· Rakuten Pay · d 払い（[[ndfg]] 系）· au PAY（[[au-fh]] 系）
+- [[megabanks/mizuho-fg]]（主要股东 / 权益法适用母公司）· 伊藤忠商事（主要股东）
+- 国内信贩竞争：[[card-issuers/jaccs]]（auto loan 直接竞争 / [[megabanks/mufg]] 系）
+- 卡竞争：三井住友 Card（[[megabanks/smfg]] 系）· 三菱 UFJ NICOS（[[megabanks/mufg]] 系）· [[card-issuers/jcb]] · Credit Saison · [[card-issuers/aeon-bank]]（Aeon Card）· Epos Card · [[payment-firms/rakuten-fg]]（Rakuten Card）
+- 数字支付竞争：[[megabanks/paypay-fg]]（PayPay）· [[payment-firms/paidy]]（BNPL）· Rakuten Pay · d 払い（[[megabanks/ndfg]] 系）· au PAY（[[megabanks/au-fh]] 系）
 - 汽车金融周边：Toyota Finance（Toyota 系）· Honda Finance（Honda 系）
 
 ## Sources

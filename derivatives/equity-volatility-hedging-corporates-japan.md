@@ -113,7 +113,7 @@ Public-source rationale for ESO hedging:
 - Some corporates want to **lock in the compensation-expense profile** by buying offsetting options that move in tandem with the ESO liability, smoothing earnings volatility;
 - Some corporates want to **acquire shares in advance** of expected ESO exercises, via forward share-purchase programs or repurchase-with-derivative-overlay structures;
 - For listed groups that issue ESOs to a large workforce, the **aggregate notional** can be material — particularly at megacap technology, financials, and consumer firms;
-- ESO-linked structures can be embedded in **employee-trust** vehicles where a trust counterparty (e.g. a [[JapanFG/japan-master-trust-and-custody-bank-landscape|trust bank]]) holds the underlying shares and the corporate pays a fee.
+- ESO-linked structures can be embedded in **employee-trust** vehicles where a trust counterparty (e.g. a [[banking/japan-master-trust-and-custody-bank-landscape|trust bank]]) holds the underlying shares and the corporate pays a fee.
 
 ### The instrument set
 

@@ -16,7 +16,7 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 
 ## TL;DR
 
-Taiyo Life Insurance Company is a major life-insurance operating company in the [[td-hd]] group. While [[daido-life]] is strong in the SME / owner market, Taiyo Life is easier to read as the operating arm for the household / individual protection market, making the T&D group split strategy clearer.
+Taiyo Life Insurance Company is a major life-insurance operating company in the [[life-insurers/td-hd]] group. While [[life-insurers/daido-life]] is strong in the SME / owner market, Taiyo Life is easier to read as the operating arm for the household / individual protection market, making the T&D group split strategy clearer.
 
 ## 1. License / group boundary
 
@@ -25,14 +25,14 @@ Taiyo Life Insurance Company is a major life-insurance operating company in the 
 | Legal name | Taiyo Life Insurance Company |
 | License route | Insurance Business Act life-insurance company; FSA life insurer list |
 | Industry body | Life Insurance Association of Japan member |
-| Group boundary | [[td-hd]] operating company |
+| Group boundary | [[life-insurers/td-hd]] operating company |
 | Wiki role | T&D group's individual / household life-insurance arm |
 
 ## 2. Operating model
 
-Taiyo Life is an insurer centered on individual life-insurance products, health / medical protection, and household-oriented sales channels. Placing it alongside [[daido-life]] within the T&D group shows that customer segment, channel economics, and product risk profile differ even inside the same holding company.
+Taiyo Life is an insurer centered on individual life-insurance products, health / medical protection, and household-oriented sales channels. Placing it alongside [[life-insurers/daido-life]] within the T&D group shows that customer segment, channel economics, and product risk profile differ even inside the same holding company.
 
-In FinWiki it serves as an operating-company anchor referenced from discussions of [[td-hd]] group strategy, life-insurance channel mix, and economic-value solvency regulation.
+In FinWiki it serves as an operating-company anchor referenced from discussions of [[life-insurers/td-hd]] group strategy, life-insurance channel mix, and economic-value solvency regulation.
 
 ## 3. Why this page matters
 
@@ -42,8 +42,8 @@ In FinWiki it serves as an operating-company anchor referenced from discussions 
 
 ## Related
 
-- [[td-hd]]
-- [[daido-life]]
+- [[life-insurers/td-hd]]
+- [[life-insurers/daido-life]]
 - [[insurance/life-insurance-channel-mix]]
 - [[insurance/economic-value-based-solvency]]
 - [[insurance/INDEX]]

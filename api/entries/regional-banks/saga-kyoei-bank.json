@@ -53,27 +53,27 @@
       "banking/INDEX",
       "banking/regional-bank-consolidation-pattern",
       "financial-licenses/INDEX",
-      "fukuoka-bank",
-      "nishi-nippon-city-bank",
       "regional-banks/INDEX",
-      "saga-bank"
+      "regional-banks/fukuoka-bank",
+      "regional-banks/nishi-nippon-city-bank",
+      "regional-banks/saga-bank"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
       "https://finwiki.zksc.io/financial-licenses/INDEX",
-      "https://finwiki.zksc.io/fukuoka-bank",
-      "https://finwiki.zksc.io/nishi-nippon-city-bank",
       "https://finwiki.zksc.io/regional-banks/INDEX",
-      "https://finwiki.zksc.io/saga-bank"
+      "https://finwiki.zksc.io/regional-banks/fukuoka-bank",
+      "https://finwiki.zksc.io/regional-banks/nishi-nippon-city-bank",
+      "https://finwiki.zksc.io/regional-banks/saga-bank"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1766,
-    "word_like_tokens": 280,
+    "nonspace_chars": 1841,
+    "word_like_tokens": 290,
     "inbound_wikilinks_count": 1,
-    "last_modified": "2026-06-06"
+    "last_modified": "2026-06-08"
   }
 }

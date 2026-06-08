@@ -38,13 +38,13 @@ ABC Tokyo 的分行简介称，其于 2013  年 4 月取得外国银行业务牌
 
 - 补齐本批次中中国大陆四大行 P1  页面。
 - 为日本外国银行地图增加一个 2013 年代的中国分行扩张案例。
-- 为 [[bank-of-china-japan]]、[[icbc-japan]] 和 [[china-construction-bank-japan]] 提供同业对照背景。
+- 为 [[foreign-financial-institutions/bank-of-china-japan]]、[[foreign-financial-institutions/icbc-japan]] 和 [[foreign-financial-institutions/china-construction-bank-japan]] 提供同业对照背景。
 
 ## Related
 
-- [[bank-of-china-japan]]
-- [[icbc-japan]]
-- [[china-construction-bank-japan]]
+- [[foreign-financial-institutions/bank-of-china-japan]]
+- [[foreign-financial-institutions/icbc-japan]]
+- [[foreign-financial-institutions/china-construction-bank-japan]]
 - [[banking/foreign-bank-japan-retreat]]
 - [[banking/INDEX]]
 

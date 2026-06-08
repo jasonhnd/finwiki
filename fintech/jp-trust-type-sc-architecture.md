@@ -47,14 +47,14 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it against [[fintech
 
 **(b) 送金上限なしの破壊力**:JPYC 等資金移動業者型は 1 回 100 万円という制約により **個人向け零售に限定**される。信託型は **B2B 大口決算(10 億円〜数百億円 1 笔)が可能** —— これが Progmat が信託型を選んだ根本理由。
 
-**(c) 多銀行共同委託の意味**:[[payment-firms/progmat|Progmat Coin]] の信託スキームでは **複数銀行([[megabanks/mufg|MUFG]], [[megabanks/smfg|SMFG/SMBC]], Mizuho)が共同委託者**となり、**三菱 UFJ 信託 1 社が受託者**となる。これにより 3 つの megabank 客户预金を **統一支持一種共同 SC** することが法律上可能になる —— [[multi-megabank-consortium-governance|多巨行联合体治理]] の法律的基盤。
+**(c) 多銀行共同委託の意味**:[[payment-firms/progmat|Progmat Coin]] の信託スキームでは **複数銀行([[megabanks/mufg|MUFG]], [[megabanks/smfg|SMFG/SMBC]], Mizuho)が共同委託者**となり、**三菱 UFJ 信託 1 社が受託者**となる。これにより 3 つの megabank 客户预金を **統一支持一種共同 SC** することが法律上可能になる —— [[fintech/multi-megabank-consortium-governance|多巨行联合体治理]] の法律的基盤。
 
 ## §501(d) との関係
 
 GENIUS Act §501(d) は跨境互操作のために「互操作司法管轄区」と「信認できる発行体」を要求する。信託型の **法的倒産隔離 + 規制重層性** は §501(d) 認定との親和性が高い。ただし:
 
 - 信託型でも **§501(d) tier 自体は別途取得が必要**(自動でない)
-- Progmat Coin は §501(d) 通道未確立 → cross-border 用には [[cross-border-sc-via-swift-api|Project Pax via SWIFT API]] 経由が現在の主流
+- Progmat Coin は §501(d) 通道未確立 → cross-border 用には [[fintech/cross-border-sc-via-swift-api|Project Pax via SWIFT API]] 経由が現在の主流
 - 将来的に信託型が **§501(d) tier 取得** すれば、信託機構の法律的強度を背景に USDC との互操作で構造的優位を持つ可能性
 
 ## 三型の市場分担(現状 2026)
@@ -70,8 +70,8 @@ GENIUS Act §501(d) は跨境互操作のために「互操作司法管轄区」
 
 - 任何 "信託 vs 銀行発行" の SC 設計議論で 構造比較を一発で引ける
 - §501(d) 互操作 評価で日本 4 陣営を比較するときの基準枠
-- 跨境合规通道(SWIFT API / IBC)を信託型上に乗せるパターン理解 → [[cross-border-sc-via-swift-api|跨境 SC via SWIFT API]]
-- [[institutional-stablecoin-deposit-token-thesis|機関投資家市場 = 預金トークン唯一解]] の日本側実装解として
+- 跨境合规通道(SWIFT API / IBC)を信託型上に乗せるパターン理解 → [[fintech/cross-border-sc-via-swift-api|跨境 SC via SWIFT API]]
+- [[fintech/institutional-stablecoin-deposit-token-thesis|機関投資家市場 = 預金トークン唯一解]] の日本側実装解として
 
 ---
 

@@ -60,37 +60,37 @@
       "banking/INDEX",
       "banking/regional-bank-api-digital-partnership-route",
       "banking/regional-bank-consolidation-pattern",
-      "concordia-fg",
-      "ffg-securities",
-      "higashi-nippon-bank",
-      "ibank-marketing",
-      "mebuki-lease",
-      "mebuki-securities",
+      "leasing-firms/mebuki-lease",
+      "leasing-firms/yokohama-bank-leasing",
+      "payment-firms/ibank-marketing",
       "regional-banks/INDEX",
-      "yokohama-bank",
-      "yokohama-bank-leasing"
+      "regional-banks/concordia-fg",
+      "regional-banks/higashi-nippon-bank",
+      "regional-banks/yokohama-bank",
+      "securities-firms/ffg-securities",
+      "securities-firms/mebuki-securities"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/regional-bank-api-digital-partnership-route",
       "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
-      "https://finwiki.zksc.io/concordia-fg",
-      "https://finwiki.zksc.io/ffg-securities",
-      "https://finwiki.zksc.io/higashi-nippon-bank",
-      "https://finwiki.zksc.io/ibank-marketing",
-      "https://finwiki.zksc.io/mebuki-lease",
-      "https://finwiki.zksc.io/mebuki-securities",
+      "https://finwiki.zksc.io/leasing-firms/mebuki-lease",
+      "https://finwiki.zksc.io/leasing-firms/yokohama-bank-leasing",
+      "https://finwiki.zksc.io/payment-firms/ibank-marketing",
       "https://finwiki.zksc.io/regional-banks/INDEX",
-      "https://finwiki.zksc.io/yokohama-bank",
-      "https://finwiki.zksc.io/yokohama-bank-leasing"
+      "https://finwiki.zksc.io/regional-banks/concordia-fg",
+      "https://finwiki.zksc.io/regional-banks/higashi-nippon-bank",
+      "https://finwiki.zksc.io/regional-banks/yokohama-bank",
+      "https://finwiki.zksc.io/securities-firms/ffg-securities",
+      "https://finwiki.zksc.io/securities-firms/mebuki-securities"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4880,
-    "word_like_tokens": 729,
+    "nonspace_chars": 5404,
+    "word_like_tokens": 799,
     "inbound_wikilinks_count": 1,
-    "last_modified": "2026-06-06"
+    "last_modified": "2026-06-08"
   }
 }

@@ -56,17 +56,16 @@
     "2. 事業セグメント・マップ"
   ],
   "body_links": {
-    "wikilinks_count": 9,
+    "wikilinks_count": 8,
     "wikilinks": [
       "insurance/INDEX",
       "insurance/economic-value-based-solvency",
       "insurance/life-insurance-channel-mix",
       "life-insurers/INDEX",
       "life-insurers/nippon-life",
-      "mizuho-fg",
-      "mufg",
-      "nippon-life",
-      "smfg"
+      "megabanks/mizuho-fg",
+      "megabanks/mufg",
+      "megabanks/smfg"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/insurance/INDEX",
@@ -74,18 +73,17 @@
       "https://finwiki.zksc.io/insurance/life-insurance-channel-mix",
       "https://finwiki.zksc.io/life-insurers/INDEX",
       "https://finwiki.zksc.io/life-insurers/nippon-life",
-      "https://finwiki.zksc.io/mizuho-fg",
-      "https://finwiki.zksc.io/mufg",
-      "https://finwiki.zksc.io/nippon-life",
-      "https://finwiki.zksc.io/smfg"
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/smfg"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6154,
-    "word_like_tokens": 1161,
-    "inbound_wikilinks_count": 42,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 6288,
+    "word_like_tokens": 1178,
+    "inbound_wikilinks_count": 54,
+    "last_modified": "2026-06-08"
   }
 }

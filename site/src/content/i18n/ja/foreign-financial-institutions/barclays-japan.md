@@ -16,7 +16,7 @@ translated_at: 2026-06-02T14:01:20.953Z
 
 ## 要約
 
-英国 **Barclays PLC**（G-SIB Bucket 2）の日本拠点。**1969 駐在員事務所開設 → 1972 東京支店 → 1986 英銀初の東証上場 → 1987 BZW 証券事務所 → 1990 東証会員 → 2006 バークレイズ・キャピタル証券化 → 2012 バークレイズ証券に商号変更**。リーマンショック後の世界再編で、**北米はバークレイズが買収、アジア太平洋（含む日本）は [[nomura-hd]] が買収**したため、**日本拠点は Lehman 統合の恩恵を直接受けず**、自力での IB / マーケッツ集中戦略を歩む。2016 グローバル再編でアジア株式キャッシュ事業撤退、現在は**日本・香港・シンガポール・インドの 4 拠点をコアアジア市場**として残す。約 500 名規模、本拠は六本木ヒルズ森タワー 31F。^[extracted]
+英国 **Barclays PLC**（G-SIB Bucket 2）の日本拠点。**1969 駐在員事務所開設 → 1972 東京支店 → 1986 英銀初の東証上場 → 1987 BZW 証券事務所 → 1990 東証会員 → 2006 バークレイズ・キャピタル証券化 → 2012 バークレイズ証券に商号変更**。リーマンショック後の世界再編で、**北米はバークレイズが買収、アジア太平洋（含む日本）は [[securities-firms/nomura-hd]] が買収**したため、**日本拠点は Lehman 統合の恩恵を直接受けず**、自力での IB / マーケッツ集中戦略を歩む。2016 グローバル再編でアジア株式キャッシュ事業撤退、現在は**日本・香港・シンガポール・インドの 4 拠点をコアアジア市場**として残す。約 500 名規模、本拠は六本木ヒルズ森タワー 31F。^[extracted]
 
 ## 1. 会社概要
 
@@ -32,7 +32,7 @@ translated_at: 2026-06-02T14:01:20.953Z
 
 - 旧 **バークレイズ・キャピタル証券**（2006-2012）→ 2012 商号変更で現名称
 - 旧 **バークレイズ投信投資顧問**（資産運用）— 過去存在
-- 旧 **バークレイズ・グローバル・インベスターズ信託銀行**（BGI）→ 2008 住友信託銀行（現 [[sumitomo-mitsui-trust]]）に吸収合併 ^[extracted]
+- 旧 **バークレイズ・グローバル・インベスターズ信託銀行**（BGI）→ 2008 住友信託銀行（現 [[trust-banks/sumitomo-mitsui-trust]]）に吸収合併 ^[extracted]
 
 ### バークレイズ証券（実体情報）^[extracted]
 
@@ -74,8 +74,8 @@ Barclays PLC（英国上場、G-SIB Bucket 2）
 | 1998 | **バークレイズ・キャピタル証券会社** 東京支店 に改名 ^[extracted] |
 | 2006 | バークレイズ・キャピタル証券会社 → **バークレイズ・キャピタル証券株式会社**（日本法人化）^[extracted] |
 | **2008-06-28** | 東証 上場廃止 ^[extracted] |
-| **2008-09** | **リーマン・ブラザーズ 米州事業 を 約 17.5 億ドルで買収**（グローバル IB 強化）— ただし **アジア太平洋 + 欧州・中東は [[nomura-hd]] 買収**、日本拠点は直接統合効果なし ^[extracted] |
-| 2008 | **BGI 信託銀行 → 住友信託銀行（現 [[sumitomo-mitsui-trust]]）吸収合併** ^[extracted] |
+| **2008-09** | **リーマン・ブラザーズ 米州事業 を 約 17.5 億ドルで買収**（グローバル IB 強化）— ただし **アジア太平洋 + 欧州・中東は [[securities-firms/nomura-hd]] 買収**、日本拠点は直接統合効果なし ^[extracted] |
+| 2008 | **BGI 信託銀行 → 住友信託銀行（現 [[trust-banks/sumitomo-mitsui-trust]]）吸収合併** ^[extracted] |
 | **2009-06** | 親会社 Barclays が **BGI 部門全体を BlackRock に約 135 億ドルで売却** → 日本も資産運用から事実上撤退 ^[extracted] |
 | **2010-03** | **大手町 ↔ 六本木 拠点交換**（旧 リーマン拠点を継承した 野村 と部分入替、バークレイズが六本木ヒルズ森タワー 31F へ集約）^[extracted] |
 | 2012 | バークレイズ・キャピタル証券 → **バークレイズ証券株式会社** に商号変更 ^[extracted] |
@@ -85,7 +85,7 @@ Barclays PLC（英国上場、G-SIB Bucket 2）
 | 2024-01 | 馬場 直彦 を **チーフ・エコノミスト兼調査部長** に任命 ^[extracted] |
 | 2025-01 | 竹村 陽一 を **日本のマクロ・トレーディング本部長** として採用 ^[extracted] |
 
-> **誤解しやすい点**: バークレイズの **Lehman 北米買収（2008-09）は日本に直接的な人員・業務拡大効果をもたらしていない**。アジア太平洋（含 日本）+ 欧州・中東は [[nomura-hd]] が買収した。日本拠点の M&A / IB 拡大は自力で行われた。
+> **誤解しやすい点**: バークレイズの **Lehman 北米買収（2008-09）は日本に直接的な人員・業務拡大効果をもたらしていない**。アジア太平洋（含 日本）+ 欧州・中東は [[securities-firms/nomura-hd]] が買収した。日本拠点の M&A / IB 拡大は自力で行われた。
 
 ## 3. 事業セグメント・マップ
 
@@ -106,9 +106,9 @@ Barclays PLC（英国上場、G-SIB Bucket 2）
 ### 日本での競争ポジション
 - **強み**: グローバル DCM（債券引受）— グローバルリーグテーブルでは Top 10、クロスボーダー金利・FX マーケッツ ^[extracted]
 - **弱み**: 国内 M&A / ECM リーグテーブル外 — 過去 5 年で 2016 年 16 位（約 1.2 兆円）が最高位 ^[extracted]
-- **競合**: 中堅外資 IB — [[ubs-japan]] / [[deutsche-japan]] / [[bnp-paribas-japan]] / [[hsbc-japan]] / [[standard-chartered-japan]] / [[citigroup-japan]]
-- **大手米系（より上位）**: [[goldman-sachs-japan]] / [[morgan-stanley-japan]] / [[jpmorgan-japan]]
-- **国内勢**: [[nomura-hd]] / [[smbc-nikko]] / [[daiwa-sg]] / MUMSS（[[mufg]] × Morgan Stanley JV）
+- **競合**: 中堅外資 IB — [[foreign-financial-institutions/ubs-japan]] / [[foreign-financial-institutions/deutsche-japan]] / [[foreign-financial-institutions/bnp-paribas-japan]] / [[foreign-financial-institutions/hsbc-japan]] / [[foreign-financial-institutions/standard-chartered-japan]] / [[foreign-financial-institutions/citigroup-japan]]
+- **大手米系（より上位）**: [[securities-firms/goldman-sachs-japan]] / [[securities-firms/morgan-stanley-japan]] / [[foreign-financial-institutions/jpmorgan-japan]]
+- **国内勢**: [[securities-firms/nomura-hd]] / [[securities-firms/smbc-nikko]] / [[securities-firms/daiwa-sg]] / MUMSS（[[megabanks/mufg]] × Morgan Stanley JV）
 
 ### 過去の主要案件
 - 2016 **アサヒグループ HD 中東欧ビール買収（約 8900 億円）** 買い手側アドバイザー
@@ -125,10 +125,10 @@ Barclays PLC（英国上場、G-SIB Bucket 2）
 
 ## 関連項目
 
-- **中堅外資 IB**: [[ubs-japan]] · [[deutsche-japan]] · [[bnp-paribas-japan]] · [[hsbc-japan]] · [[standard-chartered-japan]] · [[citigroup-japan]]
-- **大手外資 IB**: [[goldman-sachs-japan]] · [[morgan-stanley-japan]] · [[jpmorgan-japan]]
-- **日系競合**: [[nomura-hd]] · [[smbc-nikko]] · [[daiwa-sg]] · [[mufg]]
-- **過去関係**: [[sumitomo-mitsui-trust]] (旧 BGI 信託吸収)
+- **中堅外資 IB**: [[foreign-financial-institutions/ubs-japan]] · [[foreign-financial-institutions/deutsche-japan]] · [[foreign-financial-institutions/bnp-paribas-japan]] · [[foreign-financial-institutions/hsbc-japan]] · [[foreign-financial-institutions/standard-chartered-japan]] · [[foreign-financial-institutions/citigroup-japan]]
+- **大手外資 IB**: [[securities-firms/goldman-sachs-japan]] · [[securities-firms/morgan-stanley-japan]] · [[foreign-financial-institutions/jpmorgan-japan]]
+- **日系競合**: [[securities-firms/nomura-hd]] · [[securities-firms/smbc-nikko]] · [[securities-firms/daiwa-sg]] · [[megabanks/mufg]]
+- **過去関係**: [[trust-banks/sumitomo-mitsui-trust]] (旧 BGI 信託吸収)
 
 ## 出典
 

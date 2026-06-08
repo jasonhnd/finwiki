@@ -49,34 +49,32 @@
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 8,
+    "wikilinks_count": 7,
     "wikilinks": [
       "banking/INDEX",
       "banking/regional-bank-consolidation-pattern",
-      "chugin-okayama",
-      "hiroshima-bank",
       "regional-banks/INDEX",
+      "regional-banks/chugin-okayama",
       "regional-banks/hiroshima-bank",
-      "tomato-bank",
-      "tottori-bank"
+      "regional-banks/tomato-bank",
+      "regional-banks/tottori-bank"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
-      "https://finwiki.zksc.io/chugin-okayama",
-      "https://finwiki.zksc.io/hiroshima-bank",
       "https://finwiki.zksc.io/regional-banks/INDEX",
+      "https://finwiki.zksc.io/regional-banks/chugin-okayama",
       "https://finwiki.zksc.io/regional-banks/hiroshima-bank",
-      "https://finwiki.zksc.io/tomato-bank",
-      "https://finwiki.zksc.io/tottori-bank"
+      "https://finwiki.zksc.io/regional-banks/tomato-bank",
+      "https://finwiki.zksc.io/regional-banks/tottori-bank"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1849,
-    "word_like_tokens": 287,
-    "inbound_wikilinks_count": 7,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 1969,
+    "word_like_tokens": 303,
+    "inbound_wikilinks_count": 12,
+    "last_modified": "2026-06-08"
   }
 }

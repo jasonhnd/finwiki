@@ -12,7 +12,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## 推論 (from 6. Counterpoints)
 
-- 「相互会社の縛り」観: 上場できず M&A・資本調達自由度は株式会社系（[[dai-ichi-life]] 等）に劣る ^[inferred]
+- 「相互会社の縛り」観: 上場できず M&A・資本調達自由度は株式会社系（[[life-insurers/dai-ichi-life]] 等）に劣る ^[inferred]
 - 「StanCorp 集中リスク」: 米国 1 軸の海外戦略 → 為替・米景気・州規制連動 ^[inferred]
 - 「営業職員チャネル老朽化」: 対面型主力 vs ネット完結型新興（ライフネット・楽天生命等）の台頭 ^[inferred]
 

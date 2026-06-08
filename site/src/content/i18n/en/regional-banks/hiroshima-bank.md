@@ -17,7 +17,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-Hiroshima Bank, Ltd. is a regional bank with its head office in Hiroshima Prefecture listed on the Financial Services Agency's list of bank licenses. It is the core operating bank of [[hirogin-hd]] and is treated as No.1 regional-bank operating-company anchor within Hiroshima Prefecture.
+Hiroshima Bank, Ltd. is a regional bank with its head office in Hiroshima Prefecture listed on the Financial Services Agency's list of bank licenses. It is the core operating bank of [[regional-banks/hirogin-hd]] and is treated as No.1 regional-bank operating-company anchor within Hiroshima Prefecture.
 
 ## 1. License / group boundary
 
@@ -25,26 +25,26 @@ Hiroshima Bank, Ltd. is a regional bank with its head office in Hiroshima Prefec
 |---|---|
 |Legal name|Hiroshima Bank, Ltd.|
 |License route|Banking Act regional bank; FSA bank license list|
-|Group boundary|[[hirogin-hd]] core operating bank|
+|Group boundary|[[regional-banks/hirogin-hd]] core operating bank|
 |Home market|Hiroshima / Hiroshima City|
 |Wiki role|Hiroshima regional-bank operating-company page|
 
 ## 2. Operating model
 
-Hiroshima Bank is a regional bank responsible for retail deposits, SME finance, Mazda / automotive-supply-chain relationships, Setouchi-area corporate banking, and regional consulting in Hiroshima Prefecture. The [[hirogin-hd]] page deals with holding-company strategy, and this page deals with bank-license operating boundaries. Chugoku regional-bank consolidation context see [[banking/regional-bank-consolidation-pattern]].
+Hiroshima Bank is a regional bank responsible for retail deposits, SME finance, Mazda / automotive-supply-chain relationships, Setouchi-area corporate banking, and regional consulting in Hiroshima Prefecture. The [[regional-banks/hirogin-hd]] page deals with holding-company strategy, and this page deals with bank-license operating boundaries. Chugoku regional-bank consolidation context see [[banking/regional-bank-consolidation-pattern]].
 
 ## 3. Why this page matters
 
 - Closes the FSA exact-name operating-company gap for Hiroshima Bank.
-- Separates the bank entity from [[hirogin-hd]] holding-company strategy.
-- Provides a peer anchor for [[momiji-bank]], [[chugoku-bank]], and [[yamaguchi-fg]].
+- Separates the bank entity from [[regional-banks/hirogin-hd]] holding-company strategy.
+- Provides a peer anchor for [[regional-banks/momiji-bank]], [[regional-banks/chugoku-bank]], and [[regional-banks/yamaguchi-fg]].
 
 ## Related
 
-- [[hirogin-hd]]
-- [[momiji-bank]]
-- [[chugoku-bank]]
-- [[yamaguchi-fg]]
+- [[regional-banks/hirogin-hd]]
+- [[regional-banks/momiji-bank]]
+- [[regional-banks/chugoku-bank]]
+- [[regional-banks/yamaguchi-fg]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 

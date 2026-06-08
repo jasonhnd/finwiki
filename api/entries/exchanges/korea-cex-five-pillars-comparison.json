@@ -46,30 +46,28 @@
     "Related"
   ],
   "body_links": {
-    "wikilinks_count": 6,
+    "wikilinks_count": 5,
     "wikilinks": [
       "exchanges/fsa-vasp-registration-system",
       "exchanges/global-cex-top10-comparison",
       "exchanges/jp-vasp-regulatory-timeline",
       "exchanges/jvcea-self-regulatory-overview",
-      "fintech/japan-financial-regulation",
-      "jvcea-self-regulatory-overview"
+      "fintech/japan-financial-regulation"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
       "https://finwiki.zksc.io/exchanges/global-cex-top10-comparison",
       "https://finwiki.zksc.io/exchanges/jp-vasp-regulatory-timeline",
       "https://finwiki.zksc.io/exchanges/jvcea-self-regulatory-overview",
-      "https://finwiki.zksc.io/fintech/japan-financial-regulation",
-      "https://finwiki.zksc.io/jvcea-self-regulatory-overview"
+      "https://finwiki.zksc.io/fintech/japan-financial-regulation"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2250,
-    "word_like_tokens": 376,
+    "nonspace_chars": 2260,
+    "word_like_tokens": 377,
     "inbound_wikilinks_count": 12,
-    "last_modified": "2026-05-21"
+    "last_modified": "2026-06-08"
   }
 }

@@ -108,7 +108,7 @@ This entry sits under [[megabanks/INDEX|megabanks INDEX]]. Read it against [[lif
 
 ## Related
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[ndfg]] · [[sbi-hd]] · [[paypay-fg]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[megabanks/ndfg]] · [[megabanks/sbi-hd]] · [[megabanks/paypay-fg]]
 - [[banking/rakuten-bank]] · [[regional-banks/sbi-shinsei-bank|banking/sbi-shinsei-bank]] · [[banking/au-jibun-bank]] · [[banking/minna-bank-baas-model]]
 
 ## Sources

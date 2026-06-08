@@ -17,7 +17,7 @@ translated_at: 2026-05-31T15:29:03.883Z
 
 ## TL;DR
 
-第一ネオ生命保险株式会社は、[[dai-ichi-life]] group の specialty life-insurance operating company。旧ネオファースト生命から 2026-04 に第一ネオ生命へ社名変更したため、exact-name anchor を置く。Solvency / capital framework context は [[insurance/global-solvency-framework-comparison-matrix]] と [[insurance/INDEX]] を参照。
+第一ネオ生命保险株式会社は、[[life-insurers/dai-ichi-life]] group の specialty life-insurance operating company。旧ネオファースト生命から 2026-04 に第一ネオ生命へ社名変更したため、exact-name anchor を置く。Solvency / capital framework context は [[insurance/global-solvency-framework-comparison-matrix]] と [[insurance/INDEX]] を参照。
 
 ## 1. License / group boundary
 
@@ -27,19 +27,19 @@ translated_at: 2026-05-31T15:29:03.883Z
 | Former brand | ネオファースト生命 |
 | License route | Insurance Business Act life-insurance company; FSA life insurer list |
 | Industry body | Life Insurance Association of Japan member |
-| Group boundary | [[dai-ichi-life]] specialty operating company |
+| Group boundary | [[life-insurers/dai-ichi-life]] specialty operating company |
 
 ## 2. Why this page matters
 
 - Closes a FSA 41 life-insurer exact-name gap.
 - Captures the 2026 name-change boundary.
-- Complements [[dai-ichi-life-insurance]] and [[dai-ichi-frontier-life]].
+- Complements [[life-insurers/dai-ichi-life-insurance]] and [[life-insurers/dai-ichi-frontier-life]].
 
 ## 相关
 
-- [[dai-ichi-life]]
-- [[dai-ichi-life-insurance]]
-- [[dai-ichi-frontier-life]]
+- [[life-insurers/dai-ichi-life]]
+- [[life-insurers/dai-ichi-life-insurance]]
+- [[life-insurers/dai-ichi-frontier-life]]
 - [[insurance/life-insurance-channel-mix]]
 
 ## 来源

@@ -39,16 +39,16 @@ translated_at: 2026-06-02T14:25:12.429Z
 ## 3. この項目が存在する理由
 
 - P1 リストで不足していた、韓国の中小企業金融銀行支店を追加する。
-- 韓国の政策・準政策金融の在日拠点として、[[korea-development-bank-japan]] の比較対象を提供する。
-- 韓国銀行の在日支店と、日本法人化された韓国系 [[sbj-bank]] を区別しやすくする。
+- 韓国の政策・準政策金融の在日拠点として、[[foreign-financial-institutions/korea-development-bank-japan]] の比較対象を提供する。
+- 韓国銀行の在日支店と、日本法人化された韓国系 [[regional-banks/sbj-bank]] を区別しやすくする。
 
 ## 関連項目
 
-- [[woori-bank-japan]]
-- [[hana-bank-japan]]
-- [[korea-development-bank-japan]]
-- [[kb-kookmin-bank-japan]]
-- [[sbj-bank]]
+- [[foreign-financial-institutions/woori-bank-japan]]
+- [[foreign-financial-institutions/hana-bank-japan]]
+- [[foreign-financial-institutions/korea-development-bank-japan]]
+- [[foreign-financial-institutions/kb-kookmin-bank-japan]]
+- [[regional-banks/sbj-bank]]
 - [[banking/foreign-bank-japan-retreat]]
 
 ## 出典

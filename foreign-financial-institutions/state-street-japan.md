@@ -36,7 +36,7 @@ This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-i
 | 項目 | 規模 |
 |---|---|
 | AUC/A（受託資産 + 管理資産）| **約 49 兆ドル**（2025 2Q）→ **約 53.8 兆ドル**（2025 4Q、過去最高）^[extracted] |
-| 世界順位（カストディ）| **No.2**（首位 [[bny-mellon-japan]] 約 59.3 兆ドル）^[extracted] |
+| 世界順位（カストディ）| **No.2**（首位 [[foreign-financial-institutions/bny-mellon-japan]] 約 59.3 兆ドル）^[extracted] |
 | 直近新規受託純増 | 約 1.1 兆ドル（2025 期内、主に Asset Owners / Asset Managers 経由）^[extracted] |
 
 ### 日本の主要法人（公開情報ベース）
@@ -94,16 +94,16 @@ State Street Corporation（米 NYSE: STT・FRB / OCC 監督）
 
 ### 日本でのポジショニング
 
-- **GPIF・大手年金・邦銀の海外投資カストディ主要担い手**：日本マスタートラスト [[master-trust-bank]] と並ぶ GPIF 資産管理機関の一角 ^[extracted]
-- **[[mufg]] 株主構成 4.51%（2025-03-31）の意味**：これは **機関投資家の海外保管口座経由の名義集約**（カストディアン名義集積）であり、State Street 自身による戦略保有ではない ^[extracted]
+- **GPIF・大手年金・邦銀の海外投資カストディ主要担い手**：日本マスタートラスト [[trust-banks/master-trust-bank]] と並ぶ GPIF 資産管理機関の一角 ^[extracted]
+- **[[megabanks/mufg]] 株主構成 4.51%（2025-03-31）の意味**：これは **機関投資家の海外保管口座経由の名義集約**（カストディアン名義集積）であり、State Street 自身による戦略保有ではない ^[extracted]
 
 ### 主要競合
 
 | 領域 | 主要競合 |
 |---|---|
-| **グローバルカストディ** | [[bny-mellon-japan]] / [[citigroup-japan]] / [[jpmorgan-japan]] / HSBC |
-| **国内信託（マスタートラスト周辺）** | [[master-trust-bank]] / [[custody-bank]] / [[sumitomo-mitsui-trust]] / 三菱 UFJ 信託 |
-| **ETF 運用** | BlackRock Japan（iShares）/ Vanguard Japan / [[nomura-hd]]・[[daiwa-sg]] 系 ETF / 野村アセット / 三菱 UFJ アセット |
+| **グローバルカストディ** | [[foreign-financial-institutions/bny-mellon-japan]] / [[foreign-financial-institutions/citigroup-japan]] / [[foreign-financial-institutions/jpmorgan-japan]] / HSBC |
+| **国内信託（マスタートラスト周辺）** | [[trust-banks/master-trust-bank]] / [[trust-banks/custody-bank]] / [[trust-banks/sumitomo-mitsui-trust]] / 三菱 UFJ 信託 |
+| **ETF 運用** | BlackRock Japan（iShares）/ Vanguard Japan / [[securities-firms/nomura-hd]]・[[securities-firms/daiwa-sg]] 系 ETF / 野村アセット / 三菱 UFJ アセット |
 | 運用システム | Bloomberg AIM / SimCorp / FactSet（独立系）/ 邦勢 IT ベンダー |
 | ADR / 預託機関 | Citibank / JPMorgan / Deutsche Bank（米 ADR 4 大行の一角、State Street は ADR は限定的）|
 
@@ -122,10 +122,10 @@ State Street Corporation（米 NYSE: STT・FRB / OCC 監督）
 
 ## Related
 
-- **競合外資カストディ**: [[bny-mellon-japan]] · [[citigroup-japan]] · [[jpmorgan-japan]]
-- **国内信託（分業相手）**: [[master-trust-bank]] · [[custody-bank]] · [[sumitomo-mitsui-trust]]
-- **日系メガ（顧客 + 株主名義）**: [[mufg]] · [[smfg]] · [[mizuho-fg]]
-- **外資 IB**: [[goldman-sachs-japan]] · [[morgan-stanley-japan]] · [[hsbc-japan]] · [[deutsche-japan]] · [[barclays-japan]] · [[bnp-paribas-japan]]
+- **競合外資カストディ**: [[foreign-financial-institutions/bny-mellon-japan]] · [[foreign-financial-institutions/citigroup-japan]] · [[foreign-financial-institutions/jpmorgan-japan]]
+- **国内信託（分業相手）**: [[trust-banks/master-trust-bank]] · [[trust-banks/custody-bank]] · [[trust-banks/sumitomo-mitsui-trust]]
+- **日系メガ（顧客 + 株主名義）**: [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]
+- **外資 IB**: [[securities-firms/goldman-sachs-japan]] · [[securities-firms/morgan-stanley-japan]] · [[foreign-financial-institutions/hsbc-japan]] · [[foreign-financial-institutions/deutsche-japan]] · [[foreign-financial-institutions/barclays-japan]] · [[foreign-financial-institutions/bnp-paribas-japan]]
 
 ## Sources
 

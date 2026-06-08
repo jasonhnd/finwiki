@@ -37,8 +37,8 @@ Read this entry together with the related banks, insurers, leasing companies, as
 
 ## Protected source anchors
 
-- [[life-insurers/INDEX|life-insurers INDEX]] [[life-insurers/dai-ichi-frontier-life|第一フロンティア生命保険]] [[insurance/INDEX|insurance index]] [[sbi-insurance-group]] [[sbi-hd]] 1 [[sbi-insurance-group]] [[sbi-hd]] 2 [[sbi-hd]] [[lifenet]] [[rakuten-life]] [[sony-life]] 3 [[sbi-hd]] [[sbi-insurance-group]] [[sbi-securities]] [[sbi-shinsei-bank]]
-- [[lifenet]] [[insurance/internet-life-insurance-business-model]] 2026-04-13 2026-04-13
+- [[life-insurers/INDEX|life-insurers INDEX]] [[life-insurers/dai-ichi-frontier-life|第一フロンティア生命保険]] [[insurance/INDEX|insurance index]] [[non-life-insurers/sbi-insurance-group]] [[megabanks/sbi-hd]] 1 [[non-life-insurers/sbi-insurance-group]] [[megabanks/sbi-hd]] 2 [[megabanks/sbi-hd]] [[life-insurers/lifenet]] [[life-insurers/rakuten-life]] [[life-insurers/sony-life]] 3 [[megabanks/sbi-hd]] [[non-life-insurers/sbi-insurance-group]] [[securities-firms/sbi-securities]] [[regional-banks/sbi-shinsei-bank]]
+- [[life-insurers/lifenet]] [[insurance/internet-life-insurance-business-model]] 2026-04-13 2026-04-13
 
 ## Related
 

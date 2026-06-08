@@ -109,9 +109,9 @@ As EVs spread, **residual-value assessment models diverge from conventional ICE 
 |---|---|---|
 | Nissan NMA (NMAC) | Nissan Motor | North America-centered, Nissan dealer linkage |
 | Honda Finance | Honda | Japan + North America, Honda Cars lineage |
-| [[orix-corp]] | Independent, dispersed holding | Integrated corporate leasing / individual car leasing |
-| Mitsubishi HC Capital | [[mufg]] group | Former Mitsubishi UFJ Lease + Hitachi Capital merger, large corporates |
-| [[tokyo-century]] | Mizuho + Itochu | Leasing / mobility, Avis-related, etc. |
+| [[leasing-firms/orix-corp]] | Independent, dispersed holding | Integrated corporate leasing / individual car leasing |
+| Mitsubishi HC Capital | [[megabanks/mufg]] group | Former Mitsubishi UFJ Lease + Hitachi Capital merger, large corporates |
+| [[leasing-firms/tokyo-century]] | Mizuho + Itochu | Leasing / mobility, Avis-related, etc. |
 | Bank auto loans | Megabanks / regional banks | Low interest, but weaker dealer referral power |
 
 Through the combination of Toyota distributor channels and residual-credit product design, TFS maintains a **frontline sales advantage** over independent and bank-affiliated providers.
@@ -130,8 +130,8 @@ Through the combination of Toyota distributor channels and residual-credit produ
 ## Related
 
 - [[manufacturer-finance/toyota-motor|toyota-motor]] (parent company)
-- [[orix-corp]] · [[tokyo-century]] (independent leasing competitors)
-- [[mufg]] (leasing competitor through Mitsubishi HC Capital)
+- [[leasing-firms/orix-corp]] · [[leasing-firms/tokyo-century]] (independent leasing competitors)
+- [[megabanks/mufg]] (leasing competitor through Mitsubishi HC Capital)
 - Other auto finance: Nissan NMAC · Honda Finance
 
 ## Sources

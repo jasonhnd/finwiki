@@ -12,7 +12,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## Counterpoints
 
-- **Public exposure concentration.** Stacked JOGMEC equity + [[JapanFG/jbic|JBIC]] direct loans + [[policy-finance/nexi|NEXI]] insurance + Japanese sponsor equity on a single frontier-country project concentrates Japanese state and corporate exposure to a high degree. Single-project failure cascades widely.
+- **Public exposure concentration.** Stacked JOGMEC equity + [[financial-regulators/jbic|JBIC]] direct loans + [[policy-finance/nexi|NEXI]] insurance + Japanese sponsor equity on a single frontier-country project concentrates Japanese state and corporate exposure to a high degree. Single-project failure cascades widely.
 - **Exploration-loss recognition.** Failed exploration is by design a JOGMEC loss-absorption event; making this acceptable politically requires sustained mandate clarity through Diet appropriation cycles.
 - **Critical-minerals competition.** Japan is one of several developed economies (US, EU, UK, Korea, Australia) seeking critical-minerals supply security; competition for the same upstream assets has intensified. Chinese state finance (CDB, SAFE, Chinaco-state-owned mining firms) is often unconstrained relative to JOGMEC's appropriation-funded model.
 - **Domestic resource R&D yield.** Methane-hydrate R&D and similar long-running frontier programs have absorbed significant appropriation without yielding commercial-scale outcomes; political support reflects energy-security framing rather than economic-return logic.

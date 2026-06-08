@@ -30,7 +30,7 @@ translated_at: 2026-05-31T15:29:03.962Z
 
 ### 业务类型
 
-它是一家纯粹的SaaS供应商，不持有任何银行、证券或保险牌照。 **非银行金融科技平台**，通过附属金融机构、卡公司和电子合同提供商提供金融功能（发卡、融资、电子合同）。设计理念是使用 SaaS 作为枢纽，捆绑现有金融机构的 API、卡和贷款，而不是像大型银行 FG ([[mufg]] / [[smfg]] / [[mizuho-fg]]) 和 [[ndfg]] / [[paypay-fg]] 等包含银行、证券和卡的一般金融公司。
+它是一家纯粹的SaaS供应商，不持有任何银行、证券或保险牌照。 **非银行金融科技平台**，通过附属金融机构、卡公司和电子合同提供商提供金融功能（发卡、融资、电子合同）。设计理念是使用 SaaS 作为枢纽，捆绑现有金融机构的 API、卡和贷款，而不是像大型银行 FG ([[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]]) 和 [[megabanks/ndfg]] / [[megabanks/paypay-fg]] 等包含银行、证券和卡的一般金融公司。
 
 ### 重要年表（基于公开信息）^[extracted]
 
@@ -99,7 +99,7 @@ translated_at: 2026-05-31T15:29:03.962Z
 
 ## 有关的
 
-- [[payment-firms/money-forward|Money Forward]] · [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[ndfg]] · [[paypay-fg]] · [[au-fh]] · [[gmo-aozora-net]]
+- [[payment-firms/money-forward|Money Forward]] · [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[megabanks/ndfg]] · [[megabanks/paypay-fg]] · [[megabanks/au-fh]] · [[payment-firms/gmo-aozora-net]]
 
 ## 来源
 

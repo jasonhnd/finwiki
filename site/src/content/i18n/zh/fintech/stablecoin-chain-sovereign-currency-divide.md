@@ -24,7 +24,7 @@ translated_at: 2026-05-31T11:13:44.874Z
 |---|---|---|---|---|
 | 🇺🇸 美国合规 | USDC/美元1 / PYUSD / 欧元 | Arc / Tempo / Base / 以太坊 |[[fintech/genius-act-501-denylist-mandate|GENIUS Act §501]]|圆形/条纹/Coinbase/PayPal |
 | 🇪🇺 欧盟 |欧元/欧元稳定 |符合 MiCA 标准的链条 |[[fintech/mica-overview|MiCA]]艺术/急救 | Circle Ireland / 法国兴业银行 Forge / 万事达卡 MTN |
-| 🇯🇵 日本 | JPYC / XJPY / DCJPY | Progmat / 弧通道 / JPYC EPI |[[fintech/japan-epi-three-types-overview|改正資金決済法（EPI 三型）]] | [[megabanks/mufg|三菱 UFJ]]/ SBI /[[payment-firms/jpyc|JPYC]]（[[stablecoin-channel-japan-sbi-jpyc-ring]]）|
+| 🇯🇵 日本 | JPYC / XJPY / DCJPY | Progmat / 弧通道 / JPYC EPI |[[fintech/japan-epi-three-types-overview|改正資金決済法（EPI 三型）]] | [[megabanks/mufg|三菱 UFJ]]/ SBI /[[payment-firms/jpyc|JPYC]]（[[fintech/stablecoin-channel-japan-sbi-jpyc-ring]]）|
 | 🇨🇳🇭🇰 中港 | e-CNY（オフチェーン）+ HKD-stable | 香港 sandbox + 円币科技 First Digital Trust |[[fintech/hkma-stablecoin-licensing-overview|HKMA 立法（2025-08）]]+ 中国人民银行 |蚂蚁国际/京东/渣打香港 |
 | 🌍 灰色 |泰达币 | Tron + 闪电 + 新频道 |规避各国法规| Tether（卢加诺）/Tron/Grey 支付处理器 |
 
@@ -39,15 +39,15 @@ translated_at: 2026-05-31T11:13:44.874Z
 **关键含义**：
 
 1**零和概率显着降低**：每个极点都有自己的“主战场”，极点之间的竞争成本很高。
-2**极间桥接成为新的基础设施**：例如[[stablecoin-channel-japan-sbi-jpyc-ring|SBI × JPYC × Circle 環状持株]]提供 JPY ↔ USDC 通道
-3**Visa等大型机构的网络中立策略**（[[wall-street-crypto-network-neutrality]]）允许跨境收费。
+2**极间桥接成为新的基础设施**：例如[[fintech/stablecoin-channel-japan-sbi-jpyc-ring|SBI × JPYC × Circle 環状持株]]提供 JPY ↔ USDC 通道
+3**Visa等大型机构的网络中立策略**（[[fintech/wall-street-crypto-network-neutrality]]）允许跨境收费。
 4**监管套利的范围不断缩小**：各个地区都有严格的立法，跨极性的合规要求正在积累。
 
 **不确定因素**：
 
 - 中国大陆最终会允许海外稳定币（香港试点为先例）吗？
 - 印度/巴西/非洲市场最终属于哪一极（目前介于美国阵营和灰色市场之间）
-- AI代理经济支付协议能否突破地缘政治鸿沟？[[protocol-hedge-strategy-stripe-pattern|マルチプロトコル hedge]]（跨越两极的潜力）
+- AI代理经济支付协议能否突破地缘政治鸿沟？[[fintech/protocol-hedge-strategy-stripe-pattern|マルチプロトコル hedge]]（跨越两极的潜力）
 
 **战略观察**：
 

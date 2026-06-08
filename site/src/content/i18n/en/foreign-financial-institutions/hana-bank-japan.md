@@ -39,16 +39,16 @@ Because Hana's Japan site is hosted under the legacy KOEX domain, wiki aliases s
 ## 3. Why this page matters
 
 - Captures Hana's current Japan branch route after the legacy Korea Exchange Bank boundary.
-- Completes a core Korean commercial-bank peer next to [[woori-bank-japan]] and [[kb-kookmin-bank-japan]].
-- Separates Korean foreign branches from Japan-incorporated [[sbj-bank]].
+- Completes a core Korean commercial-bank peer next to [[foreign-financial-institutions/woori-bank-japan]] and [[foreign-financial-institutions/kb-kookmin-bank-japan]].
+- Separates Korean foreign branches from Japan-incorporated [[regional-banks/sbj-bank]].
 
 ## Related
 
-- [[woori-bank-japan]]
-- [[korea-development-bank-japan]]
-- [[industrial-bank-of-korea-japan]]
-- [[kb-kookmin-bank-japan]]
-- [[sbj-bank]]
+- [[foreign-financial-institutions/woori-bank-japan]]
+- [[foreign-financial-institutions/korea-development-bank-japan]]
+- [[foreign-financial-institutions/industrial-bank-of-korea-japan]]
+- [[foreign-financial-institutions/kb-kookmin-bank-japan]]
+- [[regional-banks/sbj-bank]]
 - [[banking/foreign-bank-japan-retreat]]
 
 ## Sources

@@ -16,7 +16,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-Kanagawa Bank, Ltd. is a second regional bank headquartered in Yokohama, Kanagawa Prefecture and listed in the FSA bank license list. [[yokohama-bank]] is the larger presence in Kanagawa Prefecture, but Kanagawa Bank should be treated as a separate licensed second-regional-bank operating company.
+Kanagawa Bank, Ltd. is a second regional bank headquartered in Yokohama, Kanagawa Prefecture and listed in the FSA bank license list. [[regional-banks/yokohama-bank]] is the larger presence in Kanagawa Prefecture, but Kanagawa Bank should be treated as a separate licensed second-regional-bank operating company.
 
 ## 1. License / group boundary
 
@@ -30,18 +30,18 @@ Kanagawa Bank, Ltd. is a second regional bank headquartered in Yokohama, Kanagaw
 
 ## 2. Operating model
 
-Kanagawa Bank is a second regional bank centered on Yokohama, handling local deposits, SME lending, retail loans, and community finance. In the prefectural market map, compare it with [[yokohama-bank]] and read it as a smaller community-based bank. For consolidation pressure among Kanto second regional banks, see [[banking/regional-bank-consolidation-pattern]].
+Kanagawa Bank is a second regional bank centered on Yokohama, handling local deposits, SME lending, retail loans, and community finance. In the prefectural market map, compare it with [[regional-banks/yokohama-bank]] and read it as a smaller community-based bank. For consolidation pressure among Kanto second regional banks, see [[banking/regional-bank-consolidation-pattern]].
 
 ## 3. Why this page matters
 
 - Closes a Kanagawa second-regional-bank exact-name gap.
-- Provides a peer for [[yokohama-bank]] without merging the second-regional bank into the parent FG story.
+- Provides a peer for [[regional-banks/yokohama-bank]] without merging the second-regional bank into the parent FG story.
 - Useful for regional-bank consolidation and local-bank market-structure notes.
 
 ## Related
 
-- [[yokohama-bank]]
-- [[concordia-fg]]
+- [[regional-banks/yokohama-bank]]
+- [[regional-banks/concordia-fg]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 

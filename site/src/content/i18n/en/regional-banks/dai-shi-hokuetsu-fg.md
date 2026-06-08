@@ -75,12 +75,12 @@ Fourth North Vietnam FG (Chi Co., Ltd., entry 7327)
 - **Niigata prefecture, close to one prefecture**: Regional bank structure with almost no competition within the prefecture (has already integrated Hokuetsu, the second-ranked regional bank)
 - Exclusively covers the prefecture's population 220 万 → Stable deposit base and main bank position for medium-sized companies
 - 2021-01  Through bank merger **Integration synergy of branches, personnel, and systems** Realization phase
-- Competitors within the prefecture are Shinkin Banks / JA Bank / Postal Savings ([[yucho]]) / Mega Corporate Loans
+- Competitors within the prefecture are Shinkin Banks / JA Bank / Postal Savings ([[regional-banks/yucho]]) / Mega Corporate Loans
 
 ### Strategy for expanding outside the prefecture
 
 - **Metropolitan area sales office**: Accompanying business partners for customers within the prefecture (manufacturing industry + trading company) + new corporate development
-- **Corporate loan competition with mega banks**: [[mufg]] / [[smfg]] / [[mizuho-fg]] directly approach major corporations in the prefecture → Main bank defense battle
+- **Corporate loan competition with mega banks**: [[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]] directly approach major corporations in the prefecture → Main bank defense battle
 - Expansion outside the prefecture is more about expanding customer service within the prefecture than expanding scale.
 
 ### Local industry characteristics
@@ -93,8 +93,8 @@ Fourth North Vietnam FG (Chi Co., Ltd., entry 7327)
 ### Position in regional bank reorganization
 
 - Typical example of a medium-sized wide-area alliance as a single FG (one-person type within the prefecture)
-- Compete against Mega 3 行 ([[mufg]] / [[smfg]] / [[mizuho-fg]]) in the prefecture's main bank position
-- Possibility of future alliances with other wide-area FGs such as [[ndfg]]/regional banks in neighboring prefectures (Tohoku and Hokuriku) is undetermined
+- Compete against Mega 3 行 ([[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]]) in the prefecture's main bank position
+- Possibility of future alliances with other wide-area FGs such as [[megabanks/ndfg]]/regional banks in neighboring prefectures (Tohoku and Hokuriku) is undetermined
 
 ## 4. Regulations and Policies
 
@@ -108,9 +108,9 @@ Fourth North Vietnam FG (Chi Co., Ltd., entry 7327)
 
 ## Related
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]]
-- [[fukuoka-fg]] · [[ndfg]] · [[regional-banks/chiba-bank|chiba-bank-fg]] · [[concordia-fg]] · [[mebuki-fg]]
-- [[sbi-hd]] · [[yucho]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]
+- [[regional-banks/fukuoka-fg]] · [[megabanks/ndfg]] · [[regional-banks/chiba-bank|chiba-bank-fg]] · [[regional-banks/concordia-fg]] · [[regional-banks/mebuki-fg]]
+- [[megabanks/sbi-hd]] · [[regional-banks/yucho]]
 
 ## Sources
 

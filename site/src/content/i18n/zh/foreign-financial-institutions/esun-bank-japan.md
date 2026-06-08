@@ -37,13 +37,13 @@ translated_at: 2026-05-31T15:29:03.929Z
 
 - 为 JapanFG 补上了一家较新的台湾银行日本分行，且其日本区域布局更完整。
 - 将东京 / 福冈 / 熊本走廊金融连接到 JapanFG 的地图中。
-- 与 [[bank-of-taiwan-japan]]、[[mega-icbc-japan]]、[[ctbc-bank-japan]] 形成补充关系。
+- 与 [[foreign-financial-institutions/bank-of-taiwan-japan]]、[[foreign-financial-institutions/mega-icbc-japan]]、[[foreign-financial-institutions/ctbc-bank-japan]] 形成补充关系。
 
 ## Related
 
-- [[bank-of-taiwan-japan]]
-- [[mega-icbc-japan]]
-- [[ctbc-bank-japan]]
+- [[foreign-financial-institutions/bank-of-taiwan-japan]]
+- [[foreign-financial-institutions/mega-icbc-japan]]
+- [[foreign-financial-institutions/ctbc-bank-japan]]
 - [[banking/foreign-bank-japan-retreat]]
 - [[banking/INDEX]]
 

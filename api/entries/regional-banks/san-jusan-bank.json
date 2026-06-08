@@ -57,40 +57,40 @@
   "body_links": {
     "wikilinks_count": 12,
     "wikilinks": [
-      "aichi-bank",
-      "aichi-fg",
       "banking/INDEX",
       "banking/regional-bank-consolidation-pattern",
-      "hyakugo-bank",
-      "juroku-bank",
-      "juroku-fg",
-      "kyoto-fg",
-      "ogaki-kyoritsu-bank",
+      "financial-regulators/zenchugin-kyo",
       "regional-banks/INDEX",
-      "san-jusan-fg",
-      "zenchugin-kyo"
+      "regional-banks/aichi-bank",
+      "regional-banks/aichi-fg",
+      "regional-banks/hyakugo-bank",
+      "regional-banks/juroku-bank",
+      "regional-banks/juroku-fg",
+      "regional-banks/kyoto-fg",
+      "regional-banks/ogaki-kyoritsu-bank",
+      "regional-banks/san-jusan-fg"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/aichi-bank",
-      "https://finwiki.zksc.io/aichi-fg",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
-      "https://finwiki.zksc.io/hyakugo-bank",
-      "https://finwiki.zksc.io/juroku-bank",
-      "https://finwiki.zksc.io/juroku-fg",
-      "https://finwiki.zksc.io/kyoto-fg",
-      "https://finwiki.zksc.io/ogaki-kyoritsu-bank",
+      "https://finwiki.zksc.io/financial-regulators/zenchugin-kyo",
       "https://finwiki.zksc.io/regional-banks/INDEX",
-      "https://finwiki.zksc.io/san-jusan-fg",
-      "https://finwiki.zksc.io/zenchugin-kyo"
+      "https://finwiki.zksc.io/regional-banks/aichi-bank",
+      "https://finwiki.zksc.io/regional-banks/aichi-fg",
+      "https://finwiki.zksc.io/regional-banks/hyakugo-bank",
+      "https://finwiki.zksc.io/regional-banks/juroku-bank",
+      "https://finwiki.zksc.io/regional-banks/juroku-fg",
+      "https://finwiki.zksc.io/regional-banks/kyoto-fg",
+      "https://finwiki.zksc.io/regional-banks/ogaki-kyoritsu-bank",
+      "https://finwiki.zksc.io/regional-banks/san-jusan-fg"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4698,
-    "word_like_tokens": 825,
-    "inbound_wikilinks_count": 0,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 5169,
+    "word_like_tokens": 887,
+    "inbound_wikilinks_count": 1,
+    "last_modified": "2026-06-08"
   }
 }

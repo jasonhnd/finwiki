@@ -16,7 +16,7 @@ translated_at: 2026-06-02T14:01:20.944Z
 
 ## 要約
 
-愛知県地盤の地銀フィナンシャルグループ（東証 PRIME 7389）。**2022-10-03 愛知銀行 + 中京銀行 経営統合**で発足し、銀行子会社は [[aichi-bank|あいち銀行]] に統合済み。中京経済圏（名古屋・トヨタサプライチェーン）地盤の地銀再編モデル。県内競合は [[nagoya-bank]]（持株会社化なし、県内 No.2）、近隣は [[juroku-fg]]（岐阜）/[[san-jusan-fg]]（三重）/[[ogaki-kyoritsu-bank]]（岐阜）。^[extracted]
+愛知県地盤の地銀フィナンシャルグループ（東証 PRIME 7389）。**2022-10-03 愛知銀行 + 中京銀行 経営統合**で発足し、銀行子会社は [[regional-banks/aichi-bank|あいち銀行]] に統合済み。中京経済圏（名古屋・トヨタサプライチェーン）地盤の地銀再編モデル。県内競合は [[regional-banks/nagoya-bank]]（持株会社化なし、県内 No.2）、近隣は [[regional-banks/juroku-fg]]（岐阜）/[[regional-banks/san-jusan-fg]]（三重）/[[regional-banks/ogaki-kyoritsu-bank]]（岐阜）。^[extracted]
 
 ## 1. 会社概要
 
@@ -30,7 +30,7 @@ translated_at: 2026-06-02T14:01:20.944Z
 
 ```
 あいち FG（持株会社・上場 7389）
-  └── [[aichi-bank|あいち銀行]]（100%）── 旧愛知銀行 + 旧中京銀行の統合後 事業銀行
+  └── [[regional-banks/aichi-bank|あいち銀行]]（100%）── 旧愛知銀行 + 旧中京銀行の統合後 事業銀行
         └── 県内支店ネットワーク・中堅中小企業融資
 ```
 
@@ -48,7 +48,7 @@ translated_at: 2026-06-02T14:01:20.944Z
 #### 経営統合プロセス
 
 - **2022-10-03 あいち FG 設立**（共同株式移転、両行 100% 子会社化、新 FG が東証 PRIME 上場）^[extracted]
-- **2025-01-01 愛知銀行 + 中京銀行 合併**、現在の事業銀行 は [[aichi-bank|あいち銀行]]。
+- **2025-01-01 愛知銀行 + 中京銀行 合併**、現在の事業銀行 は [[regional-banks/aichi-bank|あいち銀行]]。
 
 ### 重要年表 ^[extracted]
 
@@ -58,15 +58,15 @@ translated_at: 2026-06-02T14:01:20.944Z
 | 1943 | 愛知銀行 戦時統合により設立 |
 | 1953 | 中京銀行 設立（第三相互無尽 + 第十七相互無尽）|
 | **2022-10-03** | **あいち FG 設立**（愛知銀行 + 中京銀行 共同株式移転）/ 東証 PRIME 上場 |
-| **2025-01-01** | **愛知銀行 + 中京銀行 合併**、[[aichi-bank|あいち銀行]] に 事業会社境界 を整理 |
+| **2025-01-01** | **愛知銀行 + 中京銀行 合併**、[[regional-banks/aichi-bank|あいち銀行]] に 事業会社境界 を整理 |
 
 ## 2. 事業セグメント・マップ
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
-| 中堅中小企業融資 | [[aichi-bank|あいち銀行]] | 愛知県内製造業・サプライヤー金融 |
-| 中小零細企業融資 | [[aichi-bank|あいち銀行]] | 旧中京銀行側の名古屋市内・小規模事業者層を含む |
-| 個人リテール | [[aichi-bank|あいち銀行]] | 住宅ローン・預金 |
+| 中堅中小企業融資 | [[regional-banks/aichi-bank|あいち銀行]] | 愛知県内製造業・サプライヤー金融 |
+| 中小零細企業融資 | [[regional-banks/aichi-bank|あいち銀行]] | 旧中京銀行側の名古屋市内・小規模事業者層を含む |
+| 個人リテール | [[regional-banks/aichi-bank|あいち銀行]] | 住宅ローン・預金 |
 
 ### 中京経済圏集中戦略
 
@@ -84,10 +84,10 @@ translated_at: 2026-06-02T14:01:20.944Z
 | 競合 | 業態 | ポジション |
 |---|---|---|
 | 名古屋銀行（東証 PRIME 8522）| 第二地銀単独・持株会社化なし | 愛知県内 No.2 ポジション、独立路線 ^[extracted] |
-| [[juroku-fg]]（東証 PRIME 7380）| 岐阜地銀 FG（十六銀行）| 岐阜県地盤、愛知県 北西部に越境 |
-| [[san-jusan-fg]]（東証 PRIME 7322）| 三重地銀 FG（三十三銀行）| 三重県地盤、愛知県 南部に越境 |
-| [[ogaki-kyoritsu-bank]]（東証 PRIME 8361）| 岐阜地銀単独 | 岐阜県地盤、愛知県内一部に進出 |
-| [[mufg]] / [[smfg]] / [[mizuho-fg]] | メガバンク | 大企業融資ではメガが優位、中堅中小では地銀優位 |
+| [[regional-banks/juroku-fg]]（東証 PRIME 7380）| 岐阜地銀 FG（十六銀行）| 岐阜県地盤、愛知県 北西部に越境 |
+| [[regional-banks/san-jusan-fg]]（東証 PRIME 7322）| 三重地銀 FG（三十三銀行）| 三重県地盤、愛知県 南部に越境 |
+| [[regional-banks/ogaki-kyoritsu-bank]]（東証 PRIME 8361）| 岐阜地銀単独 | 岐阜県地盤、愛知県内一部に進出 |
+| [[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]] | メガバンク | 大企業融資ではメガが優位、中堅中小では地銀優位 |
 
 ### 中京経済圏地銀再編モデル
 
@@ -96,8 +96,8 @@ translated_at: 2026-06-02T14:01:20.944Z
 - 段階 2（2025-01 予定）: 銀行合併で名実共に一体化
 
 近隣地銀の参考事例:
-- [[san-jusan-fg]]（2018 三重銀 + 第三銀 統合 → 2021 三十三銀行合併）= あいち FG の先行モデル
-- [[juroku-fg]]（2021 十六銀行 持株会社化）
+- [[regional-banks/san-jusan-fg]]（2018 三重銀 + 第三銀 統合 → 2021 三十三銀行合併）= あいち FG の先行モデル
+- [[regional-banks/juroku-fg]]（2021 十六銀行 持株会社化）
 
 ## 4. 規制・政策
 
@@ -108,9 +108,9 @@ translated_at: 2026-06-02T14:01:20.944Z
 
 ## 関連
 
-- [[juroku-fg]] · [[san-jusan-fg]] · [[ogaki-kyoritsu-bank]]（近隣中部地銀）
-- [[mufg]] · [[smfg]] · [[mizuho-fg]]（メガバンク）
-- [[shizuoka-fg]] / [[juroku-fg]]（同時期地銀 FG 比較対象）
+- [[regional-banks/juroku-fg]] · [[regional-banks/san-jusan-fg]] · [[regional-banks/ogaki-kyoritsu-bank]]（近隣中部地銀）
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]（メガバンク）
+- [[regional-banks/shizuoka-fg]] / [[regional-banks/juroku-fg]]（同時期地銀 FG 比較対象）
 
 ## 出典s
 
@@ -122,4 +122,4 @@ translated_at: 2026-06-02T14:01:20.944Z
 ---
 
 > [!info] 校核状态
-> 確度: **高め**（v1.1 公開情報に基づく修正 2026-05-21）。2025-01-01 銀行合併の 予測表現を外し、現在の事業会社境界 を [[aichi-bank|あいち銀行]] に分離した。財務数値・店舗数等の定量データは最新開示 / 有価証券報告書で継続確認。
+> 確度: **高め**（v1.1 公開情報に基づく修正 2026-05-21）。2025-01-01 銀行合併の 予測表現を外し、現在の事業会社境界 を [[regional-banks/aichi-bank|あいち銀行]] に分離した。財務数値・店舗数等の定量データは最新開示 / 有価証券報告書で継続確認。

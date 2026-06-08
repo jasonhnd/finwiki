@@ -11,7 +11,7 @@ translated_at: 2026-05-31T15:29:03.861Z
 
 ## Wiki route
 
-This entry sits in the JapanFG route specified by the source file. Main extracted context: [[securities-firms/INDEX|securities-firms INDEX]] [[fukuoka-fg|ふくおか FG (FFG)]] [[fukuoka-bank|福岡銀行]] [[18-shinwa-bank|十八親和銀行]] [[kumamoto-bank|熊本銀行]] [[mebuki-securities|めぶき証券]] [[mebuki-fg]] [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]] [[fukuoka-fg|ふくおか FG (FFG, 東証 PRIME 8354)]] 100% [[fukuoka-bank|福岡銀行]] [[18-shinwa-bank|十八親和銀行]] [[kumamoto-bank|熊本銀行]] [[jsda|日本証券業協会]] ^[extracted] 1 第 5 号 [[fukuoka-fg]] 100% 2022
+This entry sits in the JapanFG route specified by the source file. Main extracted context: [[securities-firms/INDEX|securities-firms INDEX]] [[regional-banks/fukuoka-fg|ふくおか FG (FFG)]] [[regional-banks/fukuoka-bank|福岡銀行]] [[regional-banks/18-shinwa-bank|十八親和銀行]] [[regional-banks/kumamoto-bank|熊本銀行]] [[securities-firms/mebuki-securities|めぶき証券]] [[regional-banks/mebuki-fg]] [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]] [[regional-banks/fukuoka-fg|ふくおか FG (FFG, 東証 PRIME 8354)]] 100% [[regional-banks/fukuoka-bank|福岡銀行]] [[regional-banks/18-shinwa-bank|十八親和銀行]] [[regional-banks/kumamoto-bank|熊本銀行]] [[financial-regulators/jsda|日本証券業協会]] ^[extracted] 1 第 5 号 [[regional-banks/fukuoka-fg]] 100% 2022
 
 ## TL;DR
 
@@ -39,15 +39,15 @@ This page records the public-information boundary for FFG Securities in Japan's 
 
 ## Source-fragment continuation
 
-- 04 [[fukuoka-bank]] [[18-shinwa-bank]] [[kumamoto-bank]] 2022 04  100% 13  1 号 9  [[jsda|日本証券業協会]] 2 [[fukuoka-fg|ふくおか FG (FFG)]] 8354 [[fukuoka-bank|福岡銀行]] 100% [[kumamoto-bank|熊本銀行]] 100% [[18-shinwa-bank|十八親和銀行]] 100%
-- 100% 100% 2022 04 2022 04  100% 3  100% 2007-04-02 [[fukuoka-fg|FFG]] [[fukuoka-bank|福岡銀行]] 2007 10 2020-10-01 [[18-shinwa-bank|十八親和銀行]] 2021-05-28 1940-06-06 1944-07-07 2012
-- 04  2018 05  2022 04  100% 100% 3  [[fukuoka-fg]] 4 1940-06-06 1944-07-07 2012 04  2018 05  2022 04  30 億円 279 名
-- 2025-04-01 13  1 号 9  [[fukuoka-fg]] 3  [[fukuoka-bank]] [[18-shinwa-bank]] [[kumamoto-bank]] [[fukuoka-fg]] 100% 2022 04 100% [[fukuoka-fg]] 5 3  [[fukuoka-bank]] [[18-shinwa-bank]] [[kumamoto-bank]]
-- [[fukuoka-fg]] [[nomura-hd|野村]] [[daiwa-sg|大和]] [[smbc-nikko]] [[mizuho-securities]] [[sbi-securities]] [[rakuten-securities]] [[matsui-sec]] [[mebuki-securities]] [[okasan-sg]] [[nishi-nippon-fhd|西日本シティ銀]] [[kyushu-fg|九州 FG]] [[hirogin-hd|広島]] [[fukuoka-fg]] 3  21.9 兆円 2025 7 [[jsda|日本証券業協会]] 2022
-- [[fukuoka-fg]] [[fukuoka-bank]] [[18-shinwa-bank]] [[kumamoto-bank]] [[ibank-marketing]] [[mebuki-securities]] [[okasan-sg]] [[aizawa-sg]] [[iwai-cosmo-hd]] [[smbc-nikko]] [[mizuho-securities]] [[mufg-mums]] [[daiwa-sg]] [[nomura-hd]] [[nishi-nippon-fhd]] [[kyushu-fg]] [[hirogin-hd]] [[jsda]] [[banking/regional-bank-consolidation-pattern]] [[banking/INDEX]]
+- 04 [[regional-banks/fukuoka-bank]] [[regional-banks/18-shinwa-bank]] [[regional-banks/kumamoto-bank]] 2022 04  100% 13  1 号 9  [[financial-regulators/jsda|日本証券業協会]] 2 [[regional-banks/fukuoka-fg|ふくおか FG (FFG)]] 8354 [[regional-banks/fukuoka-bank|福岡銀行]] 100% [[regional-banks/kumamoto-bank|熊本銀行]] 100% [[regional-banks/18-shinwa-bank|十八親和銀行]] 100%
+- 100% 100% 2022 04 2022 04  100% 3  100% 2007-04-02 [[regional-banks/fukuoka-fg|FFG]] [[regional-banks/fukuoka-bank|福岡銀行]] 2007 10 2020-10-01 [[regional-banks/18-shinwa-bank|十八親和銀行]] 2021-05-28 1940-06-06 1944-07-07 2012
+- 04  2018 05  2022 04  100% 100% 3  [[regional-banks/fukuoka-fg]] 4 1940-06-06 1944-07-07 2012 04  2018 05  2022 04  30 億円 279 名
+- 2025-04-01 13  1 号 9  [[regional-banks/fukuoka-fg]] 3  [[regional-banks/fukuoka-bank]] [[regional-banks/18-shinwa-bank]] [[regional-banks/kumamoto-bank]] [[regional-banks/fukuoka-fg]] 100% 2022 04 100% [[regional-banks/fukuoka-fg]] 5 3  [[regional-banks/fukuoka-bank]] [[regional-banks/18-shinwa-bank]] [[regional-banks/kumamoto-bank]]
+- [[regional-banks/fukuoka-fg]] [[securities-firms/nomura-hd|野村]] [[securities-firms/daiwa-sg|大和]] [[securities-firms/smbc-nikko]] [[securities-firms/mizuho-securities]] [[securities-firms/sbi-securities]] [[securities-firms/rakuten-securities]] [[securities-firms/matsui-sec]] [[securities-firms/mebuki-securities]] [[securities-firms/okasan-sg]] [[regional-banks/nishi-nippon-fhd|西日本シティ銀]] [[regional-banks/kyushu-fg|九州 FG]] [[regional-banks/hirogin-hd|広島]] [[regional-banks/fukuoka-fg]] 3  21.9 兆円 2025 7 [[financial-regulators/jsda|日本証券業協会]] 2022
+- [[regional-banks/fukuoka-fg]] [[regional-banks/fukuoka-bank]] [[regional-banks/18-shinwa-bank]] [[regional-banks/kumamoto-bank]] [[payment-firms/ibank-marketing]] [[securities-firms/mebuki-securities]] [[securities-firms/okasan-sg]] [[securities-firms/aizawa-sg]] [[securities-firms/iwai-cosmo-hd]] [[securities-firms/smbc-nikko]] [[securities-firms/mizuho-securities]] [[securities-firms/mufg-mums]] [[securities-firms/daiwa-sg]] [[securities-firms/nomura-hd]] [[regional-banks/nishi-nippon-fhd]] [[regional-banks/kyushu-fg]] [[regional-banks/hirogin-hd]] [[financial-regulators/jsda]] [[banking/regional-bank-consolidation-pattern]] [[banking/INDEX]]
 - [[securities-firms/INDEX|securities-firms INDEX]] 1940-06-06 1944-07-07 30 億円 279 名 2025-04-01 13  1 号 9  2012 04  2018 05 2022年4月 100％ 100% 2026-05-30 100% 2022 04
-- 100% 2026-05-30 2026-05-24 2026-05-24 2026-05-30 [[fukuoka-fg]] 1940-06-06 1944-07-07 30 億円 279 名 2022 04  100% 2026-05-30 1 2 2 14 2  13
-- 1 号 3 2022 04  100% 100% 100% [[fukuoka-fg]]
+- 100% 2026-05-30 2026-05-24 2026-05-24 2026-05-30 [[regional-banks/fukuoka-fg]] 1940-06-06 1944-07-07 30 億円 279 名 2022 04  100% 2026-05-30 1 2 2 14 2  13
+- 1 号 3 2022 04  100% 100% 100% [[regional-banks/fukuoka-fg]]
 
 ## Related
 

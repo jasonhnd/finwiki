@@ -17,7 +17,7 @@ translated_at: 2026-06-02T14:25:12.399Z
 
 ## 要約
 
-株式会社福岡中央銀行は、金融庁の銀行免許一覧に掲載される福岡県本店の第二地方銀行。[[fukuoka-fg]] 傘下の福岡エリア事業銀行であり、[[fukuoka-bank]] や [[chikuho-bank]] とは別の銀行免許アンカーとして扱う。
+株式会社福岡中央銀行は、金融庁の銀行免許一覧に掲載される福岡県本店の第二地方銀行。[[regional-banks/fukuoka-fg]] 傘下の福岡エリア事業銀行であり、[[regional-banks/fukuoka-bank]] や [[regional-banks/chikuho-bank]] とは別の銀行免許アンカーとして扱う。
 
 ## 1. 免許・グループ境界
 
@@ -25,26 +25,26 @@ translated_at: 2026-06-02T14:25:12.399Z
 |---|---|
 | 正式名 | 株式会社福岡中央銀行 |
 | 免許上の位置づけ | 銀行法上の第二地方銀行。金融庁の銀行免許一覧 |
-| グループ境界 | [[fukuoka-fg]] group bank |
+| グループ境界 | [[regional-banks/fukuoka-fg]] group bank |
 | 本拠市場 | Fukuoka / Fukuoka City |
 | ウィキ上の役割 | Fukuoka second-地方銀行の事業会社ページ |
 
 ## 2. 事業モデル
 
-福岡中央銀行は、福岡県内の中小企業金融、個人預金、小規模事業者向けリレーションシップバンキング、地域与信支援を担う第二地方銀行である。[[fukuoka-fg]] ページはグループ戦略とデジタル銀行戦略を扱い、本ページは銀行免許エンティティを扱う。
+福岡中央銀行は、福岡県内の中小企業金融、個人預金、小規模事業者向けリレーションシップバンキング、地域与信支援を担う第二地方銀行である。[[regional-banks/fukuoka-fg]] ページはグループ戦略とデジタル銀行戦略を扱い、本ページは銀行免許エンティティを扱う。
 
 ## 3. このページが重要な理由
 
 - 福岡中央銀行について、金融庁掲載名に対応するページの空白を埋める。
 - 統合後の FFG 四行体制における事業会社マップを明示する。
-- [[fukuoka-bank]]、[[chikuho-bank]]、[[nishi-nippon-city-bank]] の比較アンカーになる。
+- [[regional-banks/fukuoka-bank]]、[[regional-banks/chikuho-bank]]、[[regional-banks/nishi-nippon-city-bank]] の比較アンカーになる。
 
 ## 関連
 
-- [[fukuoka-fg]]
-- [[fukuoka-bank]]
-- [[chikuho-bank]]
-- [[nishi-nippon-city-bank]]
+- [[regional-banks/fukuoka-fg]]
+- [[regional-banks/fukuoka-bank]]
+- [[regional-banks/chikuho-bank]]
+- [[regional-banks/nishi-nippon-city-bank]]
 - [[banking/minna-bank-baas-model]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]

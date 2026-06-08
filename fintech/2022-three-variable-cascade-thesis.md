@@ -87,9 +87,9 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it against [[fintech
 
 ## 関連
 
-- [[central-banking-function-unbundling|中央銀行機能のアンバンドリング 5 層]]
-- [[stablecoin-chain-sovereign-currency-divide|5 極地政学対立]]
-- [[ai-payment-two-tracks|AI 決済の二軌道]]
+- [[fintech/central-banking-function-unbundling|中央銀行機能のアンバンドリング 5 層]]
+- [[fintech/stablecoin-chain-sovereign-currency-divide|5 極地政学対立]]
+- [[fintech/ai-payment-two-tracks|AI 決済の二軌道]]
 
 ---
 

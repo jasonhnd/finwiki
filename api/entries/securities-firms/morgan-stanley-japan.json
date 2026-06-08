@@ -52,36 +52,34 @@
     "MUFG 資本提携と統合 (2008〜2010) ★ 核心"
   ],
   "body_links": {
-    "wikilinks_count": 9,
+    "wikilinks_count": 8,
     "wikilinks": [
-      "goldman-sachs-japan",
-      "mizuho-fg",
-      "mufg",
-      "nomura-hd",
-      "sbi-hd",
+      "megabanks/mizuho-fg",
+      "megabanks/mufg",
+      "megabanks/sbi-hd",
+      "megabanks/smfg",
       "securities-firms/INDEX",
       "securities-firms/goldman-sachs-japan",
-      "securities/INDEX",
-      "smfg"
+      "securities-firms/nomura-hd",
+      "securities/INDEX"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/goldman-sachs-japan",
-      "https://finwiki.zksc.io/mizuho-fg",
-      "https://finwiki.zksc.io/mufg",
-      "https://finwiki.zksc.io/nomura-hd",
-      "https://finwiki.zksc.io/sbi-hd",
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/sbi-hd",
+      "https://finwiki.zksc.io/megabanks/smfg",
       "https://finwiki.zksc.io/securities-firms/INDEX",
       "https://finwiki.zksc.io/securities-firms/goldman-sachs-japan",
-      "https://finwiki.zksc.io/securities/INDEX",
-      "https://finwiki.zksc.io/smfg"
+      "https://finwiki.zksc.io/securities-firms/nomura-hd",
+      "https://finwiki.zksc.io/securities/INDEX"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5410,
-    "word_like_tokens": 978,
-    "inbound_wikilinks_count": 26,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 5683,
+    "word_like_tokens": 1008,
+    "inbound_wikilinks_count": 31,
+    "last_modified": "2026-06-08"
   }
 }

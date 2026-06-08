@@ -24,7 +24,7 @@ The customer experience is that of a brokerage with bank-grade cash management e
 
 ## 推論 (from Channel architecture: securities-bank hybrid)
 
-This three-channel architecture is structurally distinct from the pure online channel of [[banking/sony-bank|Sony Bank]] / [[banking/rakuten-bank|Rakuten Bank]] / [[banking/paypay-bank|PayPay Bank]], and is the same as the brokerage-anchored channel model at [[JapanFG/ssnb|SSNB]] (via SBI face-to-face channels) and [[banking/au-jibun-bank|au Jibun Bank]] (via KDDI shops). ^[inferred]
+This three-channel architecture is structurally distinct from the pure online channel of [[banking/sony-bank|Sony Bank]] / [[banking/rakuten-bank|Rakuten Bank]] / [[banking/paypay-bank|PayPay Bank]], and is the same as the brokerage-anchored channel model at [[regional-banks/ssnb|SSNB]] (via SBI face-to-face channels) and [[banking/au-jibun-bank|au Jibun Bank]] (via KDDI shops). ^[inferred]
 
 ## 推論 (from Why the deal matters)
 
@@ -55,8 +55,8 @@ The Daiwa pole is **purely securities-anchored** without commerce or telecom eco
 - What is the exact size and integration architecture for Orix Bank after close — single merged bank, sister-bank structure, or franchise split?
 - How does the consolidated bank's deposit base, loan book, and ROE compare to standalone Daiwa Next and standalone Orix Bank pre-deal?
 - What is the deal valuation and how does it compare to recent bank-acquisition multiples in Japan?
-- How does the trust-bank dimension (via Orix Bank trust products and [[JapanFG/daiwa-living-trust|Daiwa Living Trust]]) play out — combined trust franchise, or specialised division?
+- How does the trust-bank dimension (via Orix Bank trust products and [[trust-banks/daiwa-living-trust|Daiwa Living Trust]]) play out — combined trust franchise, or specialised division?
 - What share of Daiwa Securities account-holders use Daiwa Next as primary bank vs payment bank vs deposit-park bank?
 - How will the sweep-deposit / MRF mechanics evolve as the BoJ rate-normalization cycle progresses through 2024–2026?
 - Does the consolidated bank pursue any meaningful BaaS / partner-bank distribution, or stay purely Daiwa-group internal?
-- How does the consolidated bank's mortgage-origination capacity compare to [[JapanFG/ssnb|SSNB]] · [[banking/au-jibun-bank|au Jibun Bank]] · [[banking/sony-bank|Sony Bank]]?
+- How does the consolidated bank's mortgage-origination capacity compare to [[regional-banks/ssnb|SSNB]] · [[banking/au-jibun-bank|au Jibun Bank]] · [[banking/sony-bank|Sony Bank]]?

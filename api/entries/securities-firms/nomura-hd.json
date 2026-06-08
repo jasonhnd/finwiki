@@ -51,36 +51,36 @@
   "body_links": {
     "wikilinks_count": 10,
     "wikilinks": [
+      "megabanks/mizuho-fg",
+      "megabanks/mufg",
+      "megabanks/ndfg",
       "megabanks/resona-hd",
-      "mizuho-fg",
-      "mufg",
-      "ndfg",
-      "sbi-hd",
+      "megabanks/sbi-hd",
+      "megabanks/smfg",
       "securities-firms/INDEX",
       "securities-firms/daiwa-sg",
       "securities/INDEX",
-      "securities/nisa-2024-flow",
-      "smfg"
+      "securities/nisa-2024-flow"
     ],
     "resolved_wikilinks": [
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/ndfg",
       "https://finwiki.zksc.io/megabanks/resona-hd",
-      "https://finwiki.zksc.io/mizuho-fg",
-      "https://finwiki.zksc.io/mufg",
-      "https://finwiki.zksc.io/ndfg",
-      "https://finwiki.zksc.io/sbi-hd",
+      "https://finwiki.zksc.io/megabanks/sbi-hd",
+      "https://finwiki.zksc.io/megabanks/smfg",
       "https://finwiki.zksc.io/securities-firms/INDEX",
       "https://finwiki.zksc.io/securities-firms/daiwa-sg",
       "https://finwiki.zksc.io/securities/INDEX",
-      "https://finwiki.zksc.io/securities/nisa-2024-flow",
-      "https://finwiki.zksc.io/smfg"
+      "https://finwiki.zksc.io/securities/nisa-2024-flow"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6905,
-    "word_like_tokens": 1254,
-    "inbound_wikilinks_count": 79,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 6985,
+    "word_like_tokens": 1262,
+    "inbound_wikilinks_count": 91,
+    "last_modified": "2026-06-08"
   }
 }

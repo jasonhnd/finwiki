@@ -94,7 +94,7 @@ BNP Paribas SA (French G-SIB Bucket 2)
 
 ### Japan positioning
 
-- **CIB concentration**: no broad retail-banking presence in Japan; the platform concentrates on corporates and institutional investors, similar to [[citigroup-japan|Citigroup Japan]].
+- **CIB concentration**: no broad retail-banking presence in Japan; the platform concentrates on corporates and institutional investors, similar to [[foreign-financial-institutions/citigroup-japan|Citigroup Japan]].
 - **Credit-life niche**: Cardif Life's cancer-credit life and bank-distribution model creates a distinctive non-adversarial cooperation model with Japanese banks.
 
 ### Digital strategy
@@ -145,9 +145,9 @@ BNP Paribas SA (French G-SIB Bucket 2)
 
 ## Related
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[nomura-hd]] · [[daiwa-sg]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[securities-firms/nomura-hd]] · [[securities-firms/daiwa-sg]]
 - Foreign-bank peers not yet created: citigroup-japan · hsbc-japan · deutsche-japan
-- [[ndfg]]: competition and cooperation with Japanese investment-bank, trust, and securities groups
+- [[megabanks/ndfg]]: competition and cooperation with Japanese investment-bank, trust, and securities groups
 
 ## Sources
 

@@ -15,7 +15,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-Yamagata Bank is an independent regional bank headquartered in Yamagata Prefecture. It was founded as Ryōu Bank in 1896  (Meiji 29), later changed to the current trade name in 1965 年, and is a TSE PRIME listed first regional bank with ticker 8344 after its 1949 年 listing. It is not a second regional bank; it is the prefecture's largest financial institution by deposit share, No.1  in the prefecture. The second-regional-bank competitor is the Kirayaka Bank side of [[jimoto-hd]], while [[fidea-hd]] contains nearby Akita / Shonai-bank geography. Yamagata Bank has remained independent without a holding-company conversion, unlike [[jimoto-hd]] and [[fidea-hd]]. Its local economy is tied to tourism, agriculture, and manufacturing. ^[extracted]
+Yamagata Bank is an independent regional bank headquartered in Yamagata Prefecture. It was founded as Ryōu Bank in 1896  (Meiji 29), later changed to the current trade name in 1965 年, and is a TSE PRIME listed first regional bank with ticker 8344 after its 1949 年 listing. It is not a second regional bank; it is the prefecture's largest financial institution by deposit share, No.1  in the prefecture. The second-regional-bank competitor is the Kirayaka Bank side of [[regional-banks/jimoto-hd]], while [[regional-banks/fidea-hd]] contains nearby Akita / Shonai-bank geography. Yamagata Bank has remained independent without a holding-company conversion, unlike [[regional-banks/jimoto-hd]] and [[regional-banks/fidea-hd]]. Its local economy is tied to tourism, agriculture, and manufacturing. ^[extracted]
 
 ## 1. Company overview
 
@@ -68,8 +68,8 @@ Exact subsidiary / affiliate structure should be checked against official IR.
 | **1965-04** | Trade name changed to The Yamagata Bank, Ltd. |
 | Postwar high-growth period | Built a prefecture-wide branch network and established No.1  local position |
 | 2000 年s | Competition intensified with neighboring Northeast regional banks such as Shonai Bank and Kirayaka Bank |
-| 2009  | Kirayaka Bank + Sendai Bank established [[jimoto-hd]] (^[extracted]) |
-| 2009-10  | Shonai Bank + Hokuto Bank established [[fidea-hd]] (^[extracted]) |
+| 2009  | Kirayaka Bank + Sendai Bank established [[regional-banks/jimoto-hd]] (^[extracted]) |
+| 2009-10  | Shonai Bank + Hokuto Bank established [[regional-banks/fidea-hd]] (^[extracted]) |
 | 2022-04  | TSE market restructuring; migrated to **PRIME market** |
 | After 2018  | Latest business plans focus on digitalization and regional-industry support |
 
@@ -90,16 +90,16 @@ Exact subsidiary / affiliate structure should be checked against official IR.
 
 | Competitor | Relationship | Area |
 |---|---|---|
-| **[[jimoto-hd]] / Kirayaka Bank** | Largest prefectural competitor and second regional bank | Yamagata Prefecture |
-| **[[fidea-hd]] / Shonai Bank** | Second regional bank competing in Shonai area | Wide Shonai area |
-| [[fidea-hd]] / Hokuto Bank | Neighboring-prefecture top regional bank with partial overlap | Akita and northern Yamagata |
+| **[[regional-banks/jimoto-hd]] / Kirayaka Bank** | Largest prefectural competitor and second regional bank | Yamagata Prefecture |
+| **[[regional-banks/fidea-hd]] / Shonai Bank** | Second regional bank competing in Shonai area | Wide Shonai area |
+| [[regional-banks/fidea-hd]] / Hokuto Bank | Neighboring-prefecture top regional bank with partial overlap | Akita and northern Yamagata |
 | 77 Bank (Sendai) | Competes through Sendai branch | Miyagi / Tohoku core |
 | Toho Bank (Fukushima) | Partial competition around Yonezawa / Okitama | Fukushima and southern Yamagata |
 | JA Bank Yamagata | Overlaps in agricultural finance | Yamagata agricultural belt |
-| [[jimoto-hd]] | Prefecture-wide retail deposits | Yamagata Prefecture |
+| [[regional-banks/jimoto-hd]] | Prefecture-wide retail deposits | Yamagata Prefecture |
 | Net banks such as PayPay Bank / Rakuten Bank | Younger-customer churn risk | Nationwide |
 
-**Strategic position**: Yamagata Bank has chosen the independent route while maintaining standalone scale, even as other prefectural peers are integrated through holding companies such as [[fidea-hd]]. ^[extracted]
+**Strategic position**: Yamagata Bank has chosen the independent route while maintaining standalone scale, even as other prefectural peers are integrated through holding companies such as [[regional-banks/fidea-hd]]. ^[extracted]
 
 ### Regional strategy
 
@@ -126,10 +126,10 @@ Exact subsidiary / affiliate structure should be checked against official IR.
 
 ## Related
 
-- [[jimoto-hd]] (Kirayaka Bank / Sendai Bank HD; largest local competitor in Yamagata Prefecture)
-- [[fidea-hd]] (Shonai Bank / Hokuto Bank HD; partial competition in Shonai and Akita)
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] (megabank / Tokyo corporate relationship routes)
-- [[ndfg]] · [[regional-banks/sbi-shinsei-bank|shinsei-bank]] (^[likely] adjacency)
+- [[regional-banks/jimoto-hd]] (Kirayaka Bank / Sendai Bank HD; largest local competitor in Yamagata Prefecture)
+- [[regional-banks/fidea-hd]] (Shonai Bank / Hokuto Bank HD; partial competition in Shonai and Akita)
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] (megabank / Tokyo corporate relationship routes)
+- [[megabanks/ndfg]] · [[regional-banks/sbi-shinsei-bank|shinsei-bank]] (^[likely] adjacency)
 
 ## Sources
 

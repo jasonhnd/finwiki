@@ -54,10 +54,10 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 ## Related
 
 - [[regional-banks/INDEX|regional-banks INDEX]]
-- [[juroku-fg]]
-- [[ogaki-kyoritsu-bank]]
-- [[aichi-bank]]
-- [[nagoya-bank]]
+- [[regional-banks/juroku-fg]]
+- [[regional-banks/ogaki-kyoritsu-bank]]
+- [[regional-banks/aichi-bank]]
+- [[regional-banks/nagoya-bank]]
 - [[financial-regulators/fsa|FSA]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]

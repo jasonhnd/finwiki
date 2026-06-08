@@ -17,7 +17,7 @@ translated_at: 2026-06-02T15:14:17.135Z
 
 ## 要約
 
-株式会社島根銀行は、金融庁の銀行免許一覧に掲載される島根県本店の第二地方銀行。山陰の second-regional-bank operating-company anchor であり、[[san-in-godo-bank]] とは別法人の local peer、[[sbi-regional-bank-hd]] とは資本業務提携先として扱う。
+株式会社島根銀行は、金融庁の銀行免許一覧に掲載される島根県本店の第二地方銀行。山陰の second-regional-bank operating-company anchor であり、[[regional-banks/san-in-godo-bank]] とは別法人の local peer、[[megabanks/sbi-regional-bank-hd]] とは資本業務提携先として扱う。
 
 ## 1. 免許・グループ境界
 
@@ -31,20 +31,20 @@ translated_at: 2026-06-02T15:14:17.135Z
 
 ## 2. 事業モデル
 
-島根銀行は、島根県を中心に、個人預金、中小企業金融、地域の個人向け銀行業務、地域密着型リレーションシップ・バンキングを担う第二地方銀行。[[san-in-godo-bank]] ページは山陰の第一地方銀行 incumbent を扱い、本ページは第二地方銀行の免許境界を扱う。
+島根銀行は、島根県を中心に、個人預金、中小企業金融、地域の個人向け銀行業務、地域密着型リレーションシップ・バンキングを担う第二地方銀行。[[regional-banks/san-in-godo-bank]] ページは山陰の第一地方銀行 incumbent を扱い、本ページは第二地方銀行の免許境界を扱う。
 
 ## 3. この項目が重要な理由
 
 - 島根銀行について、金融庁一覧上の正式名称に対応するページを埋める。
 - SBI の地域銀行アライアンス・マップに、正確な operating-company アンカーを与える。
-- [[san-in-godo-bank]]、[[tottori-bank]]、中国地方の地銀再編分析に向けたピア・アンカーを提供する。
+- [[regional-banks/san-in-godo-bank]]、[[regional-banks/tottori-bank]]、中国地方の地銀再編分析に向けたピア・アンカーを提供する。
 
 ## 関連
 
-- [[san-in-godo-bank]]
-- [[tottori-bank]]
-- [[sbi-regional-bank-hd]]
-- [[sbi-hd]]
+- [[regional-banks/san-in-godo-bank]]
+- [[regional-banks/tottori-bank]]
+- [[megabanks/sbi-regional-bank-hd]]
+- [[megabanks/sbi-hd]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 

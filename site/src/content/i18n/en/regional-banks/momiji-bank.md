@@ -16,7 +16,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-Momiji Bank, Ltd. is a second regional bank headquartered in Hiroshima Prefecture and listed on the FSA bank license list. It is a Hiroshima-area operating bank under [[yamaguchi-fg]] and should be treated as a second-regional-bank peer that is a separate legal entity from [[hiroshima-bank]].
+Momiji Bank, Ltd. is a second regional bank headquartered in Hiroshima Prefecture and listed on the FSA bank license list. It is a Hiroshima-area operating bank under [[regional-banks/yamaguchi-fg]] and should be treated as a second-regional-bank peer that is a separate legal entity from [[regional-banks/hiroshima-bank]].
 
 ## 1. License / Group Boundary
 
@@ -24,7 +24,7 @@ Momiji Bank, Ltd. is a second regional bank headquartered in Hiroshima Prefectur
 |---|---|
 | Legal name | Momiji Bank, Ltd. |
 | License route | Banking Act second regional bank; FSA bank license list |
-| Group boundary | [[yamaguchi-fg]] Hiroshima operating bank |
+| Group boundary | [[regional-banks/yamaguchi-fg]] Hiroshima operating bank |
 | Home market | Hiroshima / Hiroshima City |
 | Wiki role | Hiroshima second-regional-bank operating-company page |
 
@@ -35,14 +35,14 @@ Momiji Bank is a second regional bank responsible for retail deposits, SME finan
 ## 3. Why This Page Matters
 
 - Closes the FSA exact-name page for Momiji Bank.
-- Separates Hiroshima second-regional-bank coverage from [[hiroshima-bank]] and [[hirogin-hd]].
-- Provides a bank-level anchor for the [[yamaguchi-fg]] multi-bank structure.
+- Separates Hiroshima second-regional-bank coverage from [[regional-banks/hiroshima-bank]] and [[regional-banks/hirogin-hd]].
+- Provides a bank-level anchor for the [[regional-banks/yamaguchi-fg]] multi-bank structure.
 
 ## Related
 
-- [[yamaguchi-fg]]
-- [[hiroshima-bank]]
-- [[chugoku-bank]]
+- [[regional-banks/yamaguchi-fg]]
+- [[regional-banks/hiroshima-bank]]
+- [[regional-banks/chugoku-bank]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 

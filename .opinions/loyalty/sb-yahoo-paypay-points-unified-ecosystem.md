@@ -25,4 +25,4 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 - Does the 2025 LINEポイント migration achieve full conversion of LINE-side loyalty into PayPayポイント, or does residual LINE-side activity persist outside the unified currency?
 - How does the **LY data graph regulatory ceiling** (personal-information protection commission rulings) limit PayPayポイント's data-marketing monetisation vs Rakuten's pure-EC data graph?
 - Will PayPay 証券 grow investment-product attachment to a level comparable to Rakuten 証券 or au カブコム証券, raising the loyalty-currency's near-cash value?
-- How does the post-LY-integration ecosystem compete with [[JapanFG/ndfg|NDFG]] consolidation if NTT docomo unifies dポイント and dスマートバンク under a single financial-group umbrella?
+- How does the post-LY-integration ecosystem compete with [[megabanks/ndfg|NDFG]] consolidation if NTT docomo unifies dポイント and dスマートバンク under a single financial-group umbrella?

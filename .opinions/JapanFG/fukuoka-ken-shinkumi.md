@@ -34,7 +34,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 - **県内 3 信組の役割分担**: 福岡県信組 (地域) + 県庁信組 (職域) + 医師信組 (業域) の三類型棲み分けは明確だが、**統合シナジー余地**が業界再編議論で浮上する可能性 ^[inferred]
 - **DX 投資余力**: 系統共同化に依存、自前 DX 投資余力は限定的 ^[inferred]
 - **県内信金との競合**: [[JapanFG/fukuoka-shinkin|福岡信用金庫]]・福岡ひびき信金等の県内信金が同じ SME セグメントを争う ^[inferred]
-- **県外資本進出**: 鹿児島銀行 ([[JapanFG/kyushu-fg|九州FG]])・宮崎銀行 ([[JapanFG/miyazaki-bank|宮崎銀行]]) 等の他県地銀の福岡進出が組合員需要にも影響 ^[inferred]
+- **県外資本進出**: 鹿児島銀行 ([[regional-banks/kyushu-fg|九州FG]])・宮崎銀行 ([[regional-banks/miyazaki-bank|宮崎銀行]]) 等の他県地銀の福岡進出が組合員需要にも影響 ^[inferred]
 
 ## Open questions
 
@@ -55,10 +55,10 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 | ティア | 機関 | 位置 |
 |---|---|---|
-| メガバンク | [[JapanFG/mufg|MUFG]]・[[JapanFG/smbc|SMBC]]・[[JapanFG/mizuho-fg|みずほ]] | 福岡支店 |
-| 地銀第一行 | [[JapanFG/fukuoka-fg|福岡銀行 (ふくおかFG)]] | 九州最大地銀 |
+| メガバンク | [[megabanks/mufg|MUFG]]・[[megabanks/smbc|SMBC]]・[[megabanks/mizuho-fg|みずほ]] | 福岡支店 |
+| 地銀第一行 | [[regional-banks/fukuoka-fg|福岡銀行 (ふくおかFG)]] | 九州最大地銀 |
 | 地銀 (旧第二) | [[JapanFG/nnfh|西日本シティ銀行 (NNFH)]] | 第二地銀統合FG |
-| 地銀 | [[JapanFG/kitakyushu-bank|北九州銀行 (山口FG)]]・[[JapanFG/fukuoka-chuo-bank|福岡中央銀行]] | 県内地銀 |
+| 地銀 | [[regional-banks/kitakyushu-bank|北九州銀行 (山口FG)]]・[[regional-banks/fukuoka-chuo-bank|福岡中央銀行]] | 県内地銀 |
 | 信金 | [[JapanFG/fukuoka-shinkin|福岡信用金庫]]・福岡ひびき信金等 | 福岡県信金ブロック |
 | **信組** | **福岡県信組** ★本ページ + 福岡県医師信組 + 福岡県庁信組 | **本層** |
 
@@ -68,6 +68,6 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 組合員 (福岡県内 SME + 住民)
   → 預金 → 福岡県信用組合
               → 県内 SME 融資 + 住宅ローン
-              → 余資預け入れ → [[JapanFG/zenshin-kumi|全信組連]]
+              → 余資預け入れ → [[cooperative-banks/zenshin-kumi|全信組連]]
                                   → 機関投資 + 系統還元
 ```

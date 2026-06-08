@@ -22,11 +22,11 @@ sources:
 
 ## Wiki route
 
-This entry sits under the [[regional-banks/INDEX|regional-banks INDEX]] as the bank-license operating-company anchor for the [[san-jusan-fg|三十三 FG]] holding-company route. Read it against the [[hyakugo-bank|百五銀行]] in-prefecture rival and the [[juroku-bank|十六銀行]] / [[aichi-bank|あいち銀行]] Chubu peer banks, and against the [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]] for the broader system / regulatory boundary.
+This entry sits under the [[regional-banks/INDEX|regional-banks INDEX]] as the bank-license operating-company anchor for the [[regional-banks/san-jusan-fg|三十三 FG]] holding-company route. Read it against the [[regional-banks/hyakugo-bank|百五銀行]] in-prefecture rival and the [[regional-banks/juroku-bank|十六銀行]] / [[regional-banks/aichi-bank|あいち銀行]] Chubu peer banks, and against the [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
-株式会社三十三銀行は、三重県四日市市に本店を置く第一地方銀行で、[[san-jusan-fg|三十三 FG]] (東証 PRIME 7322) の100%子会社・single bank operating subsidiary。**2021-05-01 旧三重銀行 + 旧第三銀行の合併**で発足し、社名「三十三」は「**三 (mie / 三重) + 三 (third / 第三)**」両行の「三」を取ったダブルミーニング (英名: San ju San = 33)。県内シェア No.1 は [[hyakugo-bank|百五銀行]] が握り、本行は両行統合で2位に位置するが、中京経済圏 (名古屋圏) 関西寄り境界の独特ポジションを活かす。^[extracted]
+株式会社三十三銀行は、三重県四日市市に本店を置く第一地方銀行で、[[regional-banks/san-jusan-fg|三十三 FG]] (東証 PRIME 7322) の100%子会社・single bank operating subsidiary。**2021-05-01 旧三重銀行 + 旧第三銀行の合併**で発足し、社名「三十三」は「**三 (mie / 三重) + 三 (third / 第三)**」両行の「三」を取ったダブルミーニング (英名: San ju San = 33)。県内シェア No.1 は [[regional-banks/hyakugo-bank|百五銀行]] が握り、本行は両行統合で2位に位置するが、中京経済圏 (名古屋圏) 関西寄り境界の独特ポジションを活かす。^[extracted]
 
 ## 1. License / group boundary
 
@@ -35,7 +35,7 @@ This entry sits under the [[regional-banks/INDEX|regional-banks INDEX]] as the b
 | Legal name | 株式会社三十三銀行 |
 | English name | San ju San Bank, Ltd. |
 | License route | Banking Act regional bank; FSA bank license list |
-| Group boundary | [[san-jusan-fg]] 100% subsidiary core operating bank |
+| Group boundary | [[regional-banks/san-jusan-fg]] 100% subsidiary core operating bank |
 | Headquarters | 三重県四日市市西新地 7-8 |
 | Branch network | 三重県北部 (四日市・桑名・津・松阪・伊勢) + 名古屋・大阪・東京 |
 | Wiki role | Mie regional-bank operating-company anchor |
@@ -43,7 +43,7 @@ This entry sits under the [[regional-banks/INDEX|regional-banks INDEX]] as the b
 ## 2. 持株ツリー
 
 ```
-[[san-jusan-fg|三十三 FG]] (持株会社・東証 PRIME 7322、2018-04 設立)
+[[regional-banks/san-jusan-fg|三十三 FG]] (持株会社・東証 PRIME 7322、2018-04 設立)
   └── 株式会社三十三銀行 (100%、2021-05 合併発足)
         ├── 三重県内営業基盤
         │     ├── 四日市本店 + 県北 (旧三重銀地盤)
@@ -73,7 +73,7 @@ This entry sits under the [[regional-banks/INDEX|regional-banks INDEX]] as the b
 
 ### 経営統合プロセス
 
-- **2018-04-02**: 三重銀 + 第三銀 → [[san-jusan-fg|三十三 FG]] 設立 (共同株式移転、両行 100% 子会社化)
+- **2018-04-02**: 三重銀 + 第三銀 → [[regional-banks/san-jusan-fg|三十三 FG]] 設立 (共同株式移転、両行 100% 子会社化)
 - **2021-05-01**: 両行合併 → 三十三銀行 発足 (single bank operating subsidiary 化完了)
 - **2024**: 中期経営計画策定 (店舗網最適化・DX 投資・名古屋圏進出)
 
@@ -86,10 +86,10 @@ This entry sits under the [[regional-banks/INDEX|regional-banks INDEX]] as the b
 | 総資産 (FG 連結) | 4 兆 5,108 億円 |
 | 主要営業エリア | 三重県 (全域) + 名古屋圏・大阪・東京 |
 | 従業員 (FG 連結) | 約 2,400 人 |
-| 県内シェア | No.2 (No.1 は [[hyakugo-bank|百五銀行]]) |
-| FG 上場コード | [[san-jusan-fg|7322]] (PRIME) |
+| 県内シェア | No.2 (No.1 は [[regional-banks/hyakugo-bank|百五銀行]]) |
+| FG 上場コード | [[regional-banks/san-jusan-fg|7322]] (PRIME) |
 
-> 注: 上記は [[san-jusan-fg|三十三 FG]] FY2025.3 連結ベース (2025-05-09 決算短信 / 統合報告書 2025)。三十三銀行は同 FG の中核子会社で「銀行業」セグメントが大半を占める。単体精緻値は FG 有価証券報告書を参照。
+> 注: 上記は [[regional-banks/san-jusan-fg|三十三 FG]] FY2025.3 連結ベース (2025-05-09 決算短信 / 統合報告書 2025)。三十三銀行は同 FG の中核子会社で「銀行業」セグメントが大半を占める。単体精緻値は FG 有価証券報告書を参照。
 
 ## 5. 事業セグメント・マップ
 
@@ -110,10 +110,10 @@ This entry sits under the [[regional-banks/INDEX|regional-banks INDEX]] as the b
 
 ### 県内競合
 
-- [[hyakugo-bank|百五銀行]] (8368): 県内 No.1、津本店、三重県全域 + 中京圏進出
-- [[aichi-bank|あいち銀行]] ([[aichi-fg]] 系): 愛知県中心、桑名・北勢への波及競合
-- [[juroku-bank|十六銀行]] ([[juroku-fg]] 系): 岐阜本店、桑名・北勢で岐阜越境競合
-- [[ogaki-kyoritsu-bank|大垣共立銀行]]: 岐阜西濃、桑名地区競合
+- [[regional-banks/hyakugo-bank|百五銀行]] (8368): 県内 No.1、津本店、三重県全域 + 中京圏進出
+- [[regional-banks/aichi-bank|あいち銀行]] ([[regional-banks/aichi-fg]] 系): 愛知県中心、桑名・北勢への波及競合
+- [[regional-banks/juroku-bank|十六銀行]] ([[regional-banks/juroku-fg]] 系): 岐阜本店、桑名・北勢で岐阜越境競合
+- [[regional-banks/ogaki-kyoritsu-bank|大垣共立銀行]]: 岐阜西濃、桑名地区競合
 
 ### 統合効果 (2018→2021)
 
@@ -124,18 +124,18 @@ This entry sits under the [[regional-banks/INDEX|regional-banks INDEX]] as the b
 ## 7. 規制・政策
 
 - **主管**: 金融庁 (FSA) / 銀行法 第 4 条免許
-- **業界団体**: [[zenchugin-kyo|全国地方銀行協会]] 加盟
-- **持株会社規制**: 銀行法 第 52 条の 17 (持株会社 = [[san-jusan-fg]])
+- **業界団体**: [[financial-regulators/zenchugin-kyo|全国地方銀行協会]] 加盟
+- **持株会社規制**: 銀行法 第 52 条の 17 (持株会社 = [[regional-banks/san-jusan-fg]])
 - **直近政策論点**:
   - 2024〜 日銀利上げ → 国内貸出利ざや改善
-  - 2024〜 地銀再編期待 (県内 No.1 [[hyakugo-bank|百五]] との将来統合シナリオは公式否定)
+  - 2024〜 地銀再編期待 (県内 No.1 [[regional-banks/hyakugo-bank|百五]] との将来統合シナリオは公式否定)
   - 中小企業向け事業性評価融資推進
   - 三重県地方創生 + 観光復興融資
 
 ## Related
 
-- [[san-jusan-fg]] · [[hyakugo-bank]] · [[aichi-bank]] · [[juroku-bank]] · [[ogaki-kyoritsu-bank]]
-- [[aichi-fg]] · [[juroku-fg]] · [[kyoto-fg]]
+- [[regional-banks/san-jusan-fg]] · [[regional-banks/hyakugo-bank]] · [[regional-banks/aichi-bank]] · [[regional-banks/juroku-bank]] · [[regional-banks/ogaki-kyoritsu-bank]]
+- [[regional-banks/aichi-fg]] · [[regional-banks/juroku-fg]] · [[regional-banks/kyoto-fg]]
 - [[banking/regional-bank-consolidation-pattern]] · [[banking/INDEX]]
 - [[regional-banks/INDEX|regional-banks INDEX]]
 
@@ -152,4 +152,4 @@ This entry sits under the [[regional-banks/INDEX|regional-banks INDEX]] as the b
 ---
 
 > [!info] 検証状況
-> confidence: **likely** (operating-company anchor created 2026-05-24)。FG page = [[san-jusan-fg]] が strategy and group integration を扱い、本ページは bank-license entity boundary と県内競合構図を扱う。預金・貸出 KPI は [[san-jusan-fg|三十三 FG]] FY2025.3 連結 (2025-05-09 決算短信) ベースで更新済。単体精緻値は FG 有価証券報告書を参照。
+> confidence: **likely** (operating-company anchor created 2026-05-24)。FG page = [[regional-banks/san-jusan-fg]] が strategy and group integration を扱い、本ページは bank-license entity boundary と県内競合構図を扱う。預金・貸出 KPI は [[regional-banks/san-jusan-fg|三十三 FG]] FY2025.3 連結 (2025-05-09 決算短信) ベースで更新済。単体精緻値は FG 有価証券報告書を参照。

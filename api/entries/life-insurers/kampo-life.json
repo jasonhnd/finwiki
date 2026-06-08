@@ -52,40 +52,38 @@
     "商品多様化と民営化後制約"
   ],
   "body_links": {
-    "wikilinks_count": 11,
+    "wikilinks_count": 10,
     "wikilinks": [
-      "dai-ichi-life",
       "insurance/INDEX",
       "life-insurers/INDEX",
       "life-insurers/dai-ichi-life",
-      "mizuho-fg",
-      "msad",
-      "mufg",
-      "nippon-life",
-      "smfg",
-      "sompo",
-      "tokio-marine"
+      "life-insurers/nippon-life",
+      "megabanks/mizuho-fg",
+      "megabanks/mufg",
+      "megabanks/smfg",
+      "non-life-insurers/msad",
+      "non-life-insurers/sompo",
+      "non-life-insurers/tokio-marine"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/dai-ichi-life",
       "https://finwiki.zksc.io/insurance/INDEX",
       "https://finwiki.zksc.io/life-insurers/INDEX",
       "https://finwiki.zksc.io/life-insurers/dai-ichi-life",
-      "https://finwiki.zksc.io/mizuho-fg",
-      "https://finwiki.zksc.io/msad",
-      "https://finwiki.zksc.io/mufg",
-      "https://finwiki.zksc.io/nippon-life",
-      "https://finwiki.zksc.io/smfg",
-      "https://finwiki.zksc.io/sompo",
-      "https://finwiki.zksc.io/tokio-marine"
+      "https://finwiki.zksc.io/life-insurers/nippon-life",
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/smfg",
+      "https://finwiki.zksc.io/non-life-insurers/msad",
+      "https://finwiki.zksc.io/non-life-insurers/sompo",
+      "https://finwiki.zksc.io/non-life-insurers/tokio-marine"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4193,
-    "word_like_tokens": 638,
-    "inbound_wikilinks_count": 18,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 4319,
+    "word_like_tokens": 656,
+    "inbound_wikilinks_count": 22,
+    "last_modified": "2026-06-08"
   }
 }

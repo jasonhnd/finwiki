@@ -109,10 +109,10 @@ Manulife Financial Corporation (Toronto, Canada; listed TSX/NYSE/HKEX 945)
 
 | Competitor | Strengths | Difference from Manulife |
 |---|---|---|
-| [[metlife-japan]] | Among the largest sales employee forces; strong medical insurance | Smaller scale, competes through foreign-currency products |
-| [[aflac-japan]] | Dominant share in cancer and medical insurance | Product territory differs (Manulife focuses on whole-life / annuity) |
-| [[prudential-japan]] | High-quality Life Planner consulting | Similar channel strategy, smaller scale |
-| [[axa-japan]] | French group; strong unit-linked products | Direct competition in variable / foreign-currency products |
+| [[life-insurers/metlife-japan]] | Among the largest sales employee forces; strong medical insurance | Smaller scale, competes through foreign-currency products |
+| [[life-insurers/aflac-japan]] | Dominant share in cancer and medical insurance | Product territory differs (Manulife focuses on whole-life / annuity) |
+| [[life-insurers/prudential-japan]] | High-quality Life Planner consulting | Similar channel strategy, smaller scale |
+| [[life-insurers/axa-japan]] | French group; strong unit-linked products | Direct competition in variable / foreign-currency products |
 
 ## 5. Regulation / policy
 
@@ -127,7 +127,7 @@ Manulife Financial Corporation (Toronto, Canada; listed TSX/NYSE/HKEX 945)
 
 ## Related
 
-- [[metlife-japan]] · [[aflac-japan]] · [[prudential-japan]] · [[axa-japan]]
+- [[life-insurers/metlife-japan]] · [[life-insurers/aflac-japan]] · [[life-insurers/prudential-japan]] · [[life-insurers/axa-japan]]
 - Parent company: Manulife Financial Corporation (TSX/NYSE: MFC)
 - US sibling brand: John Hancock (US, acquired by Manulife in 2004 )
 

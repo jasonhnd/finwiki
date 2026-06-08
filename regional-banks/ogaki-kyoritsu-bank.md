@@ -24,7 +24,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-岐阜県大垣市に本店を置く東海地方の地方銀行。1896-03 創業、東証 PRIME 8361 上場、持株会社化していない**単独銀行体制**。岐阜県西濃地方を地盤に、愛知県北西部・三重県北部の**中京経済圏北辺**を主要営業圏とする。VI 略称「**OKB**」(1991 年導入)。「**楽しい銀行**」をコンセプトに、ドライブスルー店舗・ピンク基調の店内装飾・移動店舗車などユニーク施策で知られ、「**日本一の女性活躍銀行**」も掲げる。県内シェアでは [[juroku-fg]] と並ぶ二大銀行の一角。^[extracted]
+岐阜県大垣市に本店を置く東海地方の地方銀行。1896-03 創業、東証 PRIME 8361 上場、持株会社化していない**単独銀行体制**。岐阜県西濃地方を地盤に、愛知県北西部・三重県北部の**中京経済圏北辺**を主要営業圏とする。VI 略称「**OKB**」(1991 年導入)。「**楽しい銀行**」をコンセプトに、ドライブスルー店舗・ピンク基調の店内装飾・移動店舗車などユニーク施策で知られ、「**日本一の女性活躍銀行**」も掲げる。県内シェアでは [[regional-banks/juroku-fg]] と並ぶ二大銀行の一角。^[extracted]
 
 ## 1. 会社概要
 
@@ -103,10 +103,10 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ### 競合関係
 
-- **[[juroku-fg]] (十六 FG・岐阜本店)** ★最大競合: 岐阜県全域 + 愛知北部で重複。岐阜県内では十六が県北 / 岐阜市寄り、OKB が西濃寄りの棲み分けがあるが、預金・融資ともに直接競合 ^[extracted]
-- **[[san-jusan-fg]] (三十三 FG・三重)**: 三重県北部 (桑名・四日市) で重複
+- **[[regional-banks/juroku-fg]] (十六 FG・岐阜本店)** ★最大競合: 岐阜県全域 + 愛知北部で重複。岐阜県内では十六が県北 / 岐阜市寄り、OKB が西濃寄りの棲み分けがあるが、預金・融資ともに直接競合 ^[extracted]
+- **[[regional-banks/san-jusan-fg]] (三十三 FG・三重)**: 三重県北部 (桑名・四日市) で重複
 - **名古屋銀行 (愛知)**: 愛知県西北部で重複
-- **メガバンク ([[mufg]] / [[smfg]] / [[mizuho-fg]])**: 名古屋市内大企業向け融資で競合
+- **メガバンク ([[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]])**: 名古屋市内大企業向け融資で競合
 - **信金・JA**: 西濃地方の小規模事業者・農業金融
 
 ### 地理的ポジショニング
@@ -141,7 +141,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## Related
 
-- [[juroku-fg]] · [[san-jusan-fg]] · [[mufg]] · [[smfg]] · [[mizuho-fg]]
+- [[regional-banks/juroku-fg]] · [[regional-banks/san-jusan-fg]] · [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]
 
 ## Sources
 

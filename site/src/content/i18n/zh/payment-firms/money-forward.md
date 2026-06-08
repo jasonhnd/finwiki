@@ -133,7 +133,7 @@ Money Forward（控股 / 上市公司 3994）
 
 ## 相关
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[sbi-hd]] · [[ndfg]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[megabanks/sbi-hd]] · [[megabanks/ndfg]]
 - [[payment-firms/INDEX|payment-firms INDEX]]（东证 Prime fintech 类别）
 
 ## 来源

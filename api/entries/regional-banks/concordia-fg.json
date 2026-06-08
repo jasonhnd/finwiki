@@ -56,42 +56,40 @@
     "重要年表（抜粋）^[extracted]"
   ],
   "body_links": {
-    "wikilinks_count": 12,
+    "wikilinks_count": 11,
     "wikilinks": [
       "banking/INDEX",
-      "fukuoka-fg",
-      "mizuho-fg",
-      "mufg",
-      "paypay-fg",
-      "rakuten-fg",
+      "megabanks/mizuho-fg",
+      "megabanks/mufg",
+      "megabanks/paypay-fg",
+      "megabanks/resona-hd",
+      "megabanks/sbi-hd",
+      "megabanks/smfg",
+      "payment-firms/rakuten-fg",
       "regional-banks/INDEX",
       "regional-banks/fukuoka-fg",
-      "resona-hd",
-      "sbi-hd",
-      "smfg",
-      "sumitomo-mitsui-trust"
+      "trust-banks/sumitomo-mitsui-trust"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/fukuoka-fg",
-      "https://finwiki.zksc.io/mizuho-fg",
-      "https://finwiki.zksc.io/mufg",
-      "https://finwiki.zksc.io/paypay-fg",
-      "https://finwiki.zksc.io/rakuten-fg",
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/paypay-fg",
+      "https://finwiki.zksc.io/megabanks/resona-hd",
+      "https://finwiki.zksc.io/megabanks/sbi-hd",
+      "https://finwiki.zksc.io/megabanks/smfg",
+      "https://finwiki.zksc.io/payment-firms/rakuten-fg",
       "https://finwiki.zksc.io/regional-banks/INDEX",
       "https://finwiki.zksc.io/regional-banks/fukuoka-fg",
-      "https://finwiki.zksc.io/resona-hd",
-      "https://finwiki.zksc.io/sbi-hd",
-      "https://finwiki.zksc.io/smfg",
-      "https://finwiki.zksc.io/sumitomo-mitsui-trust"
+      "https://finwiki.zksc.io/trust-banks/sumitomo-mitsui-trust"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 7625,
-    "word_like_tokens": 1354,
-    "inbound_wikilinks_count": 9,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 7828,
+    "word_like_tokens": 1378,
+    "inbound_wikilinks_count": 35,
+    "last_modified": "2026-06-08"
   }
 }

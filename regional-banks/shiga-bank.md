@@ -24,7 +24,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-滋賀県地盤の単独銀行（**持株会社化していない地銀**の一つ）。1933-10-01 八十三銀行 + 近江銀行 統合により発足、ルーツは **1879 第六十四国立銀行（彦根）**。略称「**しがぎん**」。**滋賀県内シェア No.1 + 京都府北部 / 大阪府北摂 / 名古屋圏 への関西・東海境界エリア展開 + 琵琶湖周辺の環境ファイナンス + ESG / サステナビリティ先進性**が収益コア。**国連責任銀行原則（UN PRB）採択地銀の先駆け**（2019、地銀初）として ESG リーダー枠を確立。[[chiba-bank]] 主導の **TSUBASA アライアンス 加盟行**でシステム共同化・海外サポートに参画。隣接する関西地銀 [[kyoto-fg]] / [[resona-hd]]（関西みらい銀行含む）/ [[ikeda-senshu-hd]] / [[nanto-bank]] とエリアで接触。
+滋賀県地盤の単独銀行（**持株会社化していない地銀**の一つ）。1933-10-01 八十三銀行 + 近江銀行 統合により発足、ルーツは **1879 第六十四国立銀行（彦根）**。略称「**しがぎん**」。**滋賀県内シェア No.1 + 京都府北部 / 大阪府北摂 / 名古屋圏 への関西・東海境界エリア展開 + 琵琶湖周辺の環境ファイナンス + ESG / サステナビリティ先進性**が収益コア。**国連責任銀行原則（UN PRB）採択地銀の先駆け**（2019、地銀初）として ESG リーダー枠を確立。[[regional-banks/chiba-bank]] 主導の **TSUBASA アライアンス 加盟行**でシステム共同化・海外サポートに参画。隣接する関西地銀 [[regional-banks/kyoto-fg]] / [[megabanks/resona-hd]]（関西みらい銀行含む）/ [[regional-banks/ikeda-senshu-hd]] / [[regional-banks/nanto-bank]] とエリアで接触。
 
 ## 1. 会社概要
 
@@ -33,7 +33,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 **証券コード**：東証 PRIME 8366（旧東証一部から 2022-04 移行）
 **設立**：1933-10-01（八十三銀行 + 近江銀行 統合）
 **本店**：滋賀県大津市浜町 1-38
-**業態**：単独銀行（**持株会社化していない**点が、近隣の [[kyoto-fg|京都 FG]]・[[ikeda-senshu-hd|池田泉州 HD]] 等の関西地銀 FG 化トレンドと対照的）
+**業態**：単独銀行（**持株会社化していない**点が、近隣の [[regional-banks/kyoto-fg|京都 FG]]・[[regional-banks/ikeda-senshu-hd|池田泉州 HD]] 等の関西地銀 FG 化トレンドと対照的）
 
 ### 主要財務（第138期 / FY2024、2025-03-31 現在）
 
@@ -64,7 +64,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 - 戦前期、滋賀県内で 八十三銀行（大津）・近江銀行・第六十四銀行系などの地銀が並立
 - **1933-10-01 滋賀銀行 発足**：戦時下「一県一行主義」政策の流れの中で 八十三銀行 + 近江銀行 統合により発足（**南都銀行 1934-06-01 と並び戦時統合の先駆例**）
 - 戦後、滋賀県内のコアバンクとして長期上場、滋賀県内シェアを維持・拡大
-- **2015 TSUBASA アライアンス加盟**（[[chiba-bank|千葉銀行]] 主導）★ — システム共同化・海外サポート連携
+- **2015 TSUBASA アライアンス加盟**（[[regional-banks/chiba-bank|千葉銀行]] 主導）★ — システム共同化・海外サポート連携
 - **2019 国連責任銀行原則（UN PRB）採択** ★ — **地銀初の採択行**、ESG リーダー枠確立
 - **2022-04 東証市場区分見直し** → 東証 PRIME 8366（旧東証一部から移行）
 
@@ -76,7 +76,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 | **1933-10-01** | **滋賀銀行 発足**（八十三銀行 + 近江銀行 統合）|
 | 戦後 | 東証上場、滋賀県内 No.1 地銀ポジション確立 |
 | 1990〜2000 年代 | 京都府北部・大阪府北摂・名古屋圏への営業エリア拡大、琵琶湖環境保全融資の先駆け |
-| **2015** | **TSUBASA アライアンス 加盟**（[[chiba-bank]] 主導 11 行体制）★ — システム共同化・海外サポート |
+| **2015** | **TSUBASA アライアンス 加盟**（[[regional-banks/chiba-bank]] 主導 11 行体制）★ — システム共同化・海外サポート |
 | **2019** | **国連責任銀行原則（UN PRB）採択** ★ — **地銀初**、ESG リーダー枠確立 |
 | 2022-04 | 東証市場区分見直し → 東証 PRIME 8366（旧東証一部から移行）|
 
@@ -100,11 +100,11 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ### TSUBASA アライアンス参加戦略 ★
 
-**2015 加盟**（[[chiba-bank|千葉銀行]] 主導 11 行アライアンス）：**地銀ホールディング化を回避しつつスケールメリットを獲得**する代替モデル。
+**2015 加盟**（[[regional-banks/chiba-bank|千葉銀行]] 主導 11 行アライアンス）：**地銀ホールディング化を回避しつつスケールメリットを獲得**する代替モデル。
 
 | 加盟行 | 地盤 |
 |---|---|
-| [[chiba-bank|千葉銀行]] | 千葉県（主導行）|
+| [[regional-banks/chiba-bank|千葉銀行]] | 千葉県（主導行）|
 | 北洋銀行 | 北海道 |
 | 武蔵野銀行 | 埼玉県 |
 | **滋賀銀行** | **滋賀県** ★ |
@@ -113,14 +113,14 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 | 伊予銀行 | 愛媛県 |
 | 東邦銀行 | 福島県 |
 | 北國銀行 | 石川県 |
-| [[kyoto-fg|京都銀行]] | 京都府 |
+| [[regional-banks/kyoto-fg|京都銀行]] | 京都府 |
 | 群馬銀行 | 群馬県 |
 
 **TSUBASA の戦略意義**：
 - **システム共同化**：勘定系・周辺システムの共同化で IT コスト削減（単独地銀ではスケール不足）
 - **海外サポート**：加盟行のシンガポール / 海外拠点を相互利用、滋賀銀行は単独で海外拠点拡張せずに済む
 - **業務連携**：信託・証券・リース等の業務連携で異業種展開の自由度を確保
-- **隣県加盟行 [[kyoto-fg|京都銀行]] との関係**：TSUBASA 同盟内では協力、滋賀県・京都府境界エリアでは競合という二面性
+- **隣県加盟行 [[regional-banks/kyoto-fg|京都銀行]] との関係**：TSUBASA 同盟内では協力、滋賀県・京都府境界エリアでは競合という二面性
 
 ### 県内地盤戦略
 
@@ -132,20 +132,20 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 ### 関西・東海境界での競合構造
 
 - **関西・東海境界エリアの特殊性**：滋賀県は西で京都府・南で三重県（鈴鹿越え）・東で岐阜県・北で福井県・西北で京都府丹後と接し、4 府県境界に位置する。京阪神経済圏と東海経済圏（名古屋）の中間に位置する地理特殊性
-- **メガバンク（[[mufg]] / [[smfg]] / [[mizuho-fg]]）との競合**：京阪神 / 名古屋都市部の大企業案件は メガに流出する構造、滋賀銀行は滋賀県内 + 隣県中堅・中小製造業 main bank ポジションで対抗
+- **メガバンク（[[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]]）との競合**：京阪神 / 名古屋都市部の大企業案件は メガに流出する構造、滋賀銀行は滋賀県内 + 隣県中堅・中小製造業 main bank ポジションで対抗
 - **関西地銀群との競合**：
-  - [[kyoto-fg|京都 FG]]（京都銀行）：京都府全域 + 滋賀県南部 + 大阪府北部、TSUBASA 同盟兼隣県競合の二面性
-  - [[resona-hd|りそな HD]]（旧大和銀 + あさひ銀、関西みらい銀含む）：関西最大の地銀グループ、大阪府 / 京都府で間接競合
-  - [[ikeda-senshu-hd|池田泉州 HD]]：大阪府北摂エリアで間接競合
-  - [[nanto-bank|南都銀行]]：奈良県地盤、東で県境接触（東大寺・笠置エリア）
+  - [[regional-banks/kyoto-fg|京都 FG]]（京都銀行）：京都府全域 + 滋賀県南部 + 大阪府北部、TSUBASA 同盟兼隣県競合の二面性
+  - [[megabanks/resona-hd|りそな HD]]（旧大和銀 + あさひ銀、関西みらい銀含む）：関西最大の地銀グループ、大阪府 / 京都府で間接競合
+  - [[regional-banks/ikeda-senshu-hd|池田泉州 HD]]：大阪府北摂エリアで間接競合
+  - [[regional-banks/nanto-bank|南都銀行]]：奈良県地盤、東で県境接触（東大寺・笠置エリア）
 - **東海地銀群との競合**：
-  - [[ogaki-kyoritsu-bank|大垣共立銀行]]：岐阜県西部、米原経由で県境接触
-  - [[juroku-fg|十六 FG]]：岐阜県、関ヶ原エリアで間接競合
-  - 三重銀行 / [[san-jusan-fg|三十三 FG]]：三重県、鈴鹿越えで間接競合
+  - [[regional-banks/ogaki-kyoritsu-bank|大垣共立銀行]]：岐阜県西部、米原経由で県境接触
+  - [[regional-banks/juroku-fg|十六 FG]]：岐阜県、関ヶ原エリアで間接競合
+  - 三重銀行 / [[regional-banks/san-jusan-fg|三十三 FG]]：三重県、鈴鹿越えで間接競合
 
 ### 単独銀行の戦略意義
 
-- **持株会社化していない**点が、近隣 [[kyoto-fg|京都 FG]]（2009 単独 FG 化）・[[ikeda-senshu-hd|池田泉州 HD]]（2009 統合）等の関西地銀 FG 化トレンドと対照的（滋賀銀行は監査役会設置会社の単独上場銀行として存続）
+- **持株会社化していない**点が、近隣 [[regional-banks/kyoto-fg|京都 FG]]（2009 単独 FG 化）・[[regional-banks/ikeda-senshu-hd|池田泉州 HD]]（2009 統合）等の関西地銀 FG 化トレンドと対照的（滋賀銀行は監査役会設置会社の単独上場銀行として存続）
 - 単独銀行のメリット：(1) ガバナンス簡素、(2) 銀行本体に経営資源集中、(3) 持株会社化の追加コスト不要
 - **TSUBASA 加盟 + UN PRB 採択** で単独銀行のままスケール / ESG 差別化を獲得する独自モデル
 
@@ -169,11 +169,11 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## Related
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]]（メガバンク 3 行、京阪神・名古屋大企業案件で競合）
-- [[resona-hd]] · [[kyoto-fg]] · [[ikeda-senshu-hd]] · [[nanto-bank]]（関西地銀群）
-- [[chiba-bank]]（TSUBASA アライアンス 主導行）
-- [[ogaki-kyoritsu-bank]] · [[juroku-fg]] · [[san-jusan-fg]]（東海地銀群、県境競合）
-- [[hachijuni-bank]]（単独地銀比較）· [[mebuki-fg]] · [[concordia-fg]] · [[fukuoka-fg]]（地銀 FG 化先行例との比較）
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]（メガバンク 3 行、京阪神・名古屋大企業案件で競合）
+- [[megabanks/resona-hd]] · [[regional-banks/kyoto-fg]] · [[regional-banks/ikeda-senshu-hd]] · [[regional-banks/nanto-bank]]（関西地銀群）
+- [[regional-banks/chiba-bank]]（TSUBASA アライアンス 主導行）
+- [[regional-banks/ogaki-kyoritsu-bank]] · [[regional-banks/juroku-fg]] · [[regional-banks/san-jusan-fg]]（東海地銀群、県境競合）
+- [[regional-banks/hachijuni-bank]]（単独地銀比較）· [[regional-banks/mebuki-fg]] · [[regional-banks/concordia-fg]] · [[regional-banks/fukuoka-fg]]（地銀 FG 化先行例との比較）
 - [[banking/minna-bank-baas-model]]（地銀デジタル戦略比較）
 
 ## Sources
@@ -186,4 +186,4 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 ---
 
 > [!info] 検証状況
-> confidence: **likely**（v1.1 公開情報ベース校核 2026-05-19、ambiguous 再検査 2026-05-29）。沿革（1933-10-01 設立・八十三 + 近江 統合・第六十四国立銀行 1879 彦根 源流）と上場区分（東証 PRIME 8366）・単独銀行体制・本店所在地（大津市浜町 1-38）・TSUBASA アライアンス加盟（2015）・国連 PRB 採択（2019、地銀初）は公開情報で確定。**FY2024（第138期、2025-03-31）決算数値（総資産 7.53 兆円・預金 5.81 兆円・貸出金 4.56 兆円・従業員 2,171 名連結・店舗 133）を有価証券報告書ベースで収載**。「持株会社化していない」点は Wikipedia（監査役会設置会社の単独上場銀行）で確認、他の単独地銀（[[chiba-bank|千葉銀]]・[[nanto-bank|南都銀]]・[[hachijuni-bank|八十二銀]]等）と並列の整理。子会社の出資比率、2024 中期経営計画の具体目標値、海外駐在員事務所の正確な所在、ESG ファイナンス / 琵琶湖環境保全融資の実績規模は本版未収載 — 要 滋賀銀行 公式 IR 直接確認。関西・東海境界（滋賀 + 京都府北部 + 大阪府北摂 + 名古屋圏）戦略と、TSUBASA + UN PRB の二本柱で単独維持を補強する独自モデルが戦略上の核心。
+> confidence: **likely**（v1.1 公開情報ベース校核 2026-05-19、ambiguous 再検査 2026-05-29）。沿革（1933-10-01 設立・八十三 + 近江 統合・第六十四国立銀行 1879 彦根 源流）と上場区分（東証 PRIME 8366）・単独銀行体制・本店所在地（大津市浜町 1-38）・TSUBASA アライアンス加盟（2015）・国連 PRB 採択（2019、地銀初）は公開情報で確定。**FY2024（第138期、2025-03-31）決算数値（総資産 7.53 兆円・預金 5.81 兆円・貸出金 4.56 兆円・従業員 2,171 名連結・店舗 133）を有価証券報告書ベースで収載**。「持株会社化していない」点は Wikipedia（監査役会設置会社の単独上場銀行）で確認、他の単独地銀（[[regional-banks/chiba-bank|千葉銀]]・[[regional-banks/nanto-bank|南都銀]]・[[regional-banks/hachijuni-bank|八十二銀]]等）と並列の整理。子会社の出資比率、2024 中期経営計画の具体目標値、海外駐在員事務所の正確な所在、ESG ファイナンス / 琵琶湖環境保全融資の実績規模は本版未収載 — 要 滋賀銀行 公式 IR 直接確認。関西・東海境界（滋賀 + 京都府北部 + 大阪府北摂 + 名古屋圏）戦略と、TSUBASA + UN PRB の二本柱で単独維持を補強する独自モデルが戦略上の核心。

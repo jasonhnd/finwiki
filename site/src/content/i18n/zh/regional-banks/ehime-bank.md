@@ -17,7 +17,7 @@ translated_at: 2026-05-31T15:29:03.897Z
 
 ##TL;博士
 
-爱媛银行是第二家总部位于爱媛县的地方银行，被列入金融厅的银行牌照名单。它是爱媛县的第二家区域银行运营公司主力，并被视为与 [[iyo-bank|伊予銀行]] 不同的独立法人的同类公司。
+爱媛银行是第二家总部位于爱媛县的地方银行，被列入金融厅的银行牌照名单。它是爱媛县的第二家区域银行运营公司主力，并被视为与 [[regional-banks/iyo-bank|伊予銀行]] 不同的独立法人的同类公司。
 
 ## 1。许可证/组边界
 
@@ -31,21 +31,21 @@ translated_at: 2026-05-31T15:29:03.897Z
 
 ## 2。运营模式
 
-爱媛银行是第二家区域银行，负责零售存款、中小企业金融、本地关系银行业务和四国地区客户支持（主要位于爱媛县）。在爱媛县内，存在 [[iyo-bank]] / [[iyogin-hd]] 侧和第一/第二区域银行对等边界。有关四国第二地区银行整合压力，请参阅[[banking/regional-bank-consolidation-pattern]]。
+爱媛银行是第二家区域银行，负责零售存款、中小企业金融、本地关系银行业务和四国地区客户支持（主要位于爱媛县）。在爱媛县内，存在 [[regional-banks/iyo-bank]] / [[regional-banks/iyogin-hd]] 侧和第一/第二区域银行对等边界。有关四国第二地区银行整合压力，请参阅[[banking/regional-bank-consolidation-pattern]]。
 
 ## 3。为什么此页面很重要
 
 - 关闭爱媛银行的 FSA 确切名称页面。
-- 将爱媛县第二地区银行覆盖范围与 [[iyo-bank]] 和 [[iyogin-hd]] 分开。
+- 将爱媛县第二地区银行覆盖范围与 [[regional-banks/iyo-bank]] 和 [[regional-banks/iyogin-hd]] 分开。
 - 为四国地区银行比较提供银行级锚点。
 
 ＃＃ 有关的
 
-- [[iyo-bank]]
-- [[iyogin-hd]]
-- [[hyakujushi-bank]]
-- [[awa-bank]]
-- [[shikoku-bank]]
+- [[regional-banks/iyo-bank]]
+- [[regional-banks/iyogin-hd]]
+- [[regional-banks/hyakujushi-bank]]
+- [[regional-banks/awa-bank]]
+- [[regional-banks/shikoku-bank]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 

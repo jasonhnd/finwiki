@@ -38,7 +38,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 ## Open questions
 
 - 株式決済 T+1 化 (2027 想定) で国内信託銀行とグローバルカストディアンの sub-custody チェーンはどう再構成されるか?
-- トークン化証券 ([[JapanFG/mufg-bank|MUFG]] Progmat 等) のカストディは Master Trust / CBJ 経由か、それともグローバル custodian 直接接続か?
+- トークン化証券 ([[megabanks/mufg-bank|MUFG]] Progmat 等) のカストディは Master Trust / CBJ 経由か、それともグローバル custodian 直接接続か?
 - GPIF の海外運用比率上昇局面で BNY / State Street の Japan 受託資産は構造的に拡大するか?
 - 国内 2 強 (Master Trust + CBJ) の将来的な統合 (インフラ 1 社化) シナリオの蓋然性は?
 - Citi が個人 PB を SMBC に譲渡した (2015) のと同様、他のグローバル custodian も日本の周辺事業を邦銀に譲渡する戦術を取るか?

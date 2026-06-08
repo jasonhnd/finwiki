@@ -42,7 +42,7 @@ Information Security Management System certification audited by **KISA**.
 
 | Item | Korea | Japan | USA |
 |---|---|---|---|
-| Main regulator | **FSC/FIU single** | FSA + [[jvcea-self-regulatory-overview|JVCEA]] dual oversight | State + federal multiple (NYDFS / SEC / CFTC / FinCEN) |
+| Main regulator | **FSC/FIU single** | FSA + [[exchanges/jvcea-self-regulatory-overview|JVCEA]] dual oversight | State + federal multiple (NYDFS / SEC / CFTC / FinCEN) |
 | Registration regime | [[exchanges/jp-vasp-regulatory-timeline|VASP 登録]] (2021-) | [[exchanges/fsa-vasp-registration-system|FSA VASP 登録]] (2017-) | MSB + state BitLicense |
 | Certification | KISA ISMS | FSA inspection + JVCEA self-regulation | State-by-state |
 | Real-name account requirement | **Mandatory 1:1  bank contract** | Bank contract recommended but not mandatory | Bank contract at discretion |

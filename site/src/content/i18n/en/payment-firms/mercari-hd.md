@@ -16,7 +16,7 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it again
 
 ## TL;DR
 
-One of Japan's largest **C2C flea-market app + payments + crypto-asset** vertically integrated ecosystems. Founded by Shintaro Yamada in 2013-02-01, TSE Mothers IPO in 2018-06-19 (moved to 2022  PRIME, TSE PRIME **4385**). Its 4  axes are **Mercari (flea-market marketplace) + Merpay (payments / deferred payment) + Mercoin (Bitcoin) + Mercard (JCB partnership)**. Domestic MAU **2,304 万** (FY2025.6 4Q), Marketplace GMV **1.12 兆円** (FY2025.6  full year), more than **300 万 Mercard cards issued**, and more than **200 万 Mercoin accounts**. In FY2025.6  full year, revenue was **1,926 億円** (YoY +3%), net income was **261 億円** (YoY +94%, 3  consecutive record-profit periods), and the **U.S. business achieved its first full-year profitability** (US GMV of 728 百万 USD ≒ 1,091 億円). It does not hold a banking license (funds-transfer service provider). Unlike megabank-line [[mufg]] / [[smfg]], its distinctive feature is becoming a financial platform starting from a marketplace.
+One of Japan's largest **C2C flea-market app + payments + crypto-asset** vertically integrated ecosystems. Founded by Shintaro Yamada in 2013-02-01, TSE Mothers IPO in 2018-06-19 (moved to 2022  PRIME, TSE PRIME **4385**). Its 4  axes are **Mercari (flea-market marketplace) + Merpay (payments / deferred payment) + Mercoin (Bitcoin) + Mercard (JCB partnership)**. Domestic MAU **2,304 万** (FY2025.6 4Q), Marketplace GMV **1.12 兆円** (FY2025.6  full year), more than **300 万 Mercard cards issued**, and more than **200 万 Mercoin accounts**. In FY2025.6  full year, revenue was **1,926 億円** (YoY +3%), net income was **261 億円** (YoY +94%, 3  consecutive record-profit periods), and the **U.S. business achieved its first full-year profitability** (US GMV of 728 百万 USD ≒ 1,091 億円). It does not hold a banking license (funds-transfer service provider). Unlike megabank-line [[megabanks/mufg]] / [[megabanks/smfg]], its distinctive feature is becoming a financial platform starting from a marketplace.
 
 ## 1. Company Overview
 
@@ -110,10 +110,10 @@ Mercari, Inc. (holding function + flea-market operation / listed 4385)
 | Area | Main competitors |
 |---|---|
 | C2C flea market | Yahoo! Auctions (LY), Rakuma (Rakuten), PayPay Flea Market |
-| Code payments | [[paypay-fg]] (PayPay), Rakuten Pay, d Payment, au PAY |
+| Code payments | [[megabanks/paypay-fg]] (PayPay), Rakuten Pay, d Payment, au PAY |
 | BNPL / deferred payment | Paidy (under PayPal), atone, NP Atobarai |
 | Crypto assets | bitFlyer, Coincheck, bitbank, Rakuten Wallet, SBI VC Trade |
-| Credit cards | JCB line, Sumitomo Mitsui [[smfg]], Rakuten Card |
+| Credit cards | JCB line, Sumitomo Mitsui [[megabanks/smfg]], Rakuten Card |
 | Spot work | Timee, Sharefull, LINE Sukimani |
 
 ## 4. Regulation / Policy
@@ -151,8 +151,8 @@ Mercari, Inc. (holding function + flea-market operation / listed 4385)
 
 ## Related
 
-- [[paypay-fg]] · [[rakuten-fg]] · [[au-fh]] · [[sbi-hd]]
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[ndfg]]
+- [[megabanks/paypay-fg]] · [[payment-firms/rakuten-fg]] · [[megabanks/au-fh]] · [[megabanks/sbi-hd]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[megabanks/ndfg]]
 - [[banking/mercari-bank-license-stack]] · [[banking/minna-bank-baas-model]]
 
 ## Sources

@@ -89,9 +89,9 @@ translated_at: 2026-05-31T23:59:49.399Z
   ├── 地方公共团体金融机构 (JFM) -- 长期低利、政策金融
   ├── 财政融资资金（财务省）-- 国家直接融资、长期低利
   ├── 民间金融机构
-  │     ├── [[mufg]] -- 大都市自治体、大规模地方公营企业
-  │     ├── [[smfg]] -- 大都市自治体、关西圈自治体
-  │     ├── [[mizuho-fg]] -- 大都市自治体、传统地方自治体融资
+  │     ├── [[megabanks/mufg]] -- 大都市自治体、大规模地方公营企业
+  │     ├── [[megabanks/smfg]] -- 大都市自治体、关西圈自治体
+  │     ├── [[megabanks/mizuho-fg]] -- 大都市自治体、传统地方自治体融资
   │     └── 地银、第二地银 -- 当地自治体 main bank
   └── 资本市场（地方债发行）-- 大都市市场融资增加趋势
 ```
@@ -105,7 +105,7 @@ translated_at: 2026-05-31T23:59:49.399Z
 
 - **互补**：面向盈利性较低的小规模自治体、公营企业的长期融资（民间不积极的领域）
 - **利率优势**：地方共同出资 + 高发行体评级（Moody's A1 / S&P A+ / R&I AA+）带来的低筹资成本，使其能够提供低于民间的利率
-- **mega bank 侧战略**：[[mufg]] [[smfg]] [[mizuho-fg]] 通过银团贷款、市场性地方债承接服务大都市自治体
+- **mega bank 侧战略**：[[megabanks/mufg]] [[megabanks/smfg]] [[megabanks/mizuho-fg]] 通过银团贷款、市场性地方债承接服务大都市自治体
 
 ### 灾害复兴融资的特殊角色
 
@@ -138,15 +138,15 @@ translated_at: 2026-05-31T23:59:49.399Z
 
 - 2024 时点的准确贷款余额是多少？需要官方 IR 确认。
 - 能登半岛地震（2024-01）复兴融资的规模和对象是什么？
-- 与民间 mega bank [[mufg]] [[smfg]] [[mizuho-fg]] 相比，大都市自治体融资份额如何？
+- 与民间 mega bank [[megabanks/mufg]] [[megabanks/smfg]] [[megabanks/mizuho-fg]] 相比，大都市自治体融资份额如何？
 - 地方基础设施老化应对的长期战略是什么？（10-20 年跨度的资金供给计划）
 - 是否会扩大对自治体 DX、smart city 投资的融资？
 - 对过疏自治体、财政破产风险自治体的融资方针是什么？
 
 ## 8. Related
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] -- 大都市自治体融资中的竞争者
-- [[ndfg]] -- 与民间 FG 地方金融互补性的比较
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] -- 大都市自治体融资中的竞争者
+- [[megabanks/ndfg]] -- 与民间 FG 地方金融互补性的比较
 - [[financial-regulators/japan-policy-finance-map]] -- 公共金融机构整体地图 ^[planned]
 - [[financial-regulators/local-bond-market]] -- 地方债市场整体结构 ^[planned]
 

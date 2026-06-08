@@ -23,7 +23,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-株式会社京都銀行は、金融庁の銀行免許一覧に掲載される京都府本店の地方銀行。[[kyoto-fg]] の core operating bank であり、京都府内 No.1 regional-bank operating-company anchor として扱う。
+株式会社京都銀行は、金融庁の銀行免許一覧に掲載される京都府本店の地方銀行。[[regional-banks/kyoto-fg]] の core operating bank であり、京都府内 No.1 regional-bank operating-company anchor として扱う。
 
 ## 1. License / group boundary
 
@@ -31,27 +31,27 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 |---|---|
 | Legal name | 株式会社京都銀行 |
 | License route | Banking Act regional bank; FSA bank license list |
-| Group boundary | [[kyoto-fg]] core operating bank |
+| Group boundary | [[regional-banks/kyoto-fg]] core operating bank |
 | Home market | Kyoto / Kyoto City |
 | Wiki role | Kyoto regional-bank operating-company page |
 
 ## 2. Operating model
 
-京都銀行は、京都府の retail deposits, SME finance, listed-company relationships, tourism / traditional-industry finance, and Kansai-area corporate support を担う regional bank。[[kyoto-fg]] page は holding-company strategy and capital policy を扱い、本ページは bank-license entity を扱う。Kansai regional-bank consolidation context は [[banking/regional-bank-consolidation-pattern]] を参照。
+京都銀行は、京都府の retail deposits, SME finance, listed-company relationships, tourism / traditional-industry finance, and Kansai-area corporate support を担う regional bank。[[regional-banks/kyoto-fg]] page は holding-company strategy and capital policy を扱い、本ページは bank-license entity を扱う。Kansai regional-bank consolidation context は [[banking/regional-bank-consolidation-pattern]] を参照。
 
 ## 3. Why this page matters
 
 - Closes the FSA exact-name operating-company gap for 京都銀行.
-- Separates the bank license from [[kyoto-fg]] holding-company strategy.
-- Provides a peer anchor for [[shiga-bank]], [[nanto-bank]], [[ikeda-senshu-bank]], and [[kansai-mirai-bank]].
+- Separates the bank license from [[regional-banks/kyoto-fg]] holding-company strategy.
+- Provides a peer anchor for [[regional-banks/shiga-bank]], [[regional-banks/nanto-bank]], [[regional-banks/ikeda-senshu-bank]], and [[regional-banks/kansai-mirai-bank]].
 
 ## Related
 
-- [[kyoto-fg]]
-- [[shiga-bank]]
-- [[nanto-bank]]
-- [[ikeda-senshu-bank]]
-- [[kansai-mirai-bank]]
+- [[regional-banks/kyoto-fg]]
+- [[regional-banks/shiga-bank]]
+- [[regional-banks/nanto-bank]]
+- [[regional-banks/ikeda-senshu-bank]]
+- [[regional-banks/kansai-mirai-bank]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 

@@ -17,7 +17,7 @@ This entry sits under[[regional-banks/INDEX|regional-banks INDEX]]Read it with[[
 
 ## TL;DR
 
-Howa Bank, Ltd. is the second regional bank with its main branch in Oita Prefecture and is listed in the Financial Services Agency's list of bank licenses. It is a second-regional-bank operating-company anchor in Oita Prefecture,[[oita-bank]]It is treated as a local peer of a separate corporation.
+Howa Bank, Ltd. is the second regional bank with its main branch in Oita Prefecture and is listed in the Financial Services Agency's list of bank licenses. It is a second-regional-bank operating-company anchor in Oita Prefecture,[[regional-banks/oita-bank]]It is treated as a local peer of a separate corporation.
 
 ## 1.License/group boundary
 
@@ -31,7 +31,7 @@ Howa Bank, Ltd. is the second regional bank with its main branch in Oita Prefect
 
 ## 2.Operating model
 
-Howa Bank is a second regional bank responsible for retail deposits, SME finance, consumer banking, and local relationship banking in Oita Prefecture.[[oita-bank]]page handles first-regional-bank incumbent, and this page handles second-regional-bank license boundary. The restructuring trend of Kyushu second-regional-bank is[[banking/regional-bank-consolidation-pattern]]See.
+Howa Bank is a second regional bank responsible for retail deposits, SME finance, consumer banking, and local relationship banking in Oita Prefecture.[[regional-banks/oita-bank]]page handles first-regional-bank incumbent, and this page handles second-regional-bank license boundary. The restructuring trend of Kyushu second-regional-bank is[[banking/regional-bank-consolidation-pattern]]See.
 
 ## 3.Why this page matters
 
@@ -41,9 +41,9 @@ Howa Bank is a second regional bank responsible for retail deposits, SME finance
 
 ## Related
 
-- [[oita-bank]]
-- [[fukuoka-fg]]
-- [[nishi-nippon-fhd]]
+- [[regional-banks/oita-bank]]
+- [[regional-banks/fukuoka-fg]]
+- [[regional-banks/nishi-nippon-fhd]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 

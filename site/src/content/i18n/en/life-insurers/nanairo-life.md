@@ -16,7 +16,7 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 
 ## TL;DR
 
-Nanairo Life Insurance Co., Ltd. is a life-insurance operating company in the [[asahi-life]] group listed on the FSA life-insurer list. Separate from the main Asahi Life entity, it should be read as a tied-agency / modern product-channel oriented insurer.
+Nanairo Life Insurance Co., Ltd. is a life-insurance operating company in the [[life-insurers/asahi-life]] group listed on the FSA life-insurer list. Separate from the main Asahi Life entity, it should be read as a tied-agency / modern product-channel oriented insurer.
 
 ## 1. License / group boundary
 
@@ -25,24 +25,24 @@ Nanairo Life Insurance Co., Ltd. is a life-insurance operating company in the [[
 | Legal name | Nanairo Life Insurance Co., Ltd. |
 | License route | Insurance Business Act life-insurance company; FSA life insurer list |
 | Industry body | Life Insurance Association of Japan member |
-| Group boundary | [[asahi-life]] group |
+| Group boundary | [[life-insurers/asahi-life]] group |
 | Wiki role | Asahi Life group specialty / agency-channel life insurer |
 
 ## 2. Operating model
 
-Unlike [[asahi-life]], a traditional mutual-company insurer, Nanairo Life is a specialist entity with a newer product / agency-channel surface. It is treated as an example of a major life insurer group using separate subsidiaries to split channel / product strategy. For cross-frame solvency context, see [[insurance/global-solvency-framework-comparison-matrix]].
+Unlike [[life-insurers/asahi-life]], a traditional mutual-company insurer, Nanairo Life is a specialist entity with a newer product / agency-channel surface. It is treated as an example of a major life insurer group using separate subsidiaries to split channel / product strategy. For cross-frame solvency context, see [[insurance/global-solvency-framework-comparison-matrix]].
 
 ## 3. Why this page matters
 
 - Shows that mutual insurers can also run stock-company specialty subsidiaries.
-- Useful for channel comparison against [[hanasaku-life]] and [[medicare-life]].
+- Useful for channel comparison against [[life-insurers/hanasaku-life]] and [[life-insurers/medicare-life]].
 - Registry-backed D2 specialty insurer.
 
 ## Related
 
-- [[asahi-life]]
-- [[hanasaku-life]]
-- [[medicare-life]]
+- [[life-insurers/asahi-life]]
+- [[life-insurers/hanasaku-life]]
+- [[life-insurers/medicare-life]]
 - [[insurance/life-insurance-channel-mix]]
 
 ## Sources

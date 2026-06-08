@@ -11,7 +11,7 @@ translated_at: 2026-05-31T15:29:03.935Z
 
 ## Wiki Route
 
-This entry sits under the [[leasing-firms/INDEX|leasing-firms INDEX]] as the leasing-company anchor for the [[iyogin-hd|Iyogin Holdings]] group. Read it with the parent operating bank [[iyo-bank|Iyo Bank]], peer regional-bank leasing subsidiaries such as [[mebuki-lease|Mebuki Lease]], [[yokohama-bank-leasing|Yokohama Bank Leasing]], [[chibagin-leasing|Chibagin Leasing]], [[yamaguchi-leasing|Yamaguchi Leasing]], and [[hokkaido-lease|Hokkaido Lease]], and major listed leasing companies such as [[mitsubishi-hc-capital|Mitsubishi HC Capital]], [[mizuho-lease|Mizuho Leasing]], and [[tokyo-century|Tokyo Century]]. For broader system context, use [[banking/regional-bank-consolidation-pattern|regional-bank consolidation patterns]], [[banking/regional-bank-api-digital-partnership-route|regional-bank API and digital partnership routes]], and [[banking/INDEX|banking index]].
+This entry sits under the [[leasing-firms/INDEX|leasing-firms INDEX]] as the leasing-company anchor for the [[regional-banks/iyogin-hd|Iyogin Holdings]] group. Read it with the parent operating bank [[regional-banks/iyo-bank|Iyo Bank]], peer regional-bank leasing subsidiaries such as [[leasing-firms/mebuki-lease|Mebuki Lease]], [[leasing-firms/yokohama-bank-leasing|Yokohama Bank Leasing]], [[leasing-firms/chibagin-leasing|Chibagin Leasing]], [[leasing-firms/yamaguchi-leasing|Yamaguchi Leasing]], and [[leasing-firms/hokkaido-lease|Hokkaido Lease]], and major listed leasing companies such as [[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]], [[leasing-firms/mizuho-lease|Mizuho Leasing]], and [[leasing-firms/tokyo-century|Tokyo Century]]. For broader system context, use [[banking/regional-bank-consolidation-pattern|regional-bank consolidation patterns]], [[banking/regional-bank-api-digital-partnership-route|regional-bank API and digital partnership routes]], and [[banking/INDEX|banking index]].
 
 ## TL;DR
 
@@ -22,7 +22,7 @@ Iyogin Leasing Co., Ltd. is the regional-bank-affiliated leasing company of the 
 | Item | Notes |
 |---|---|
 | Legal name | Iyogin Leasing Co., Ltd. |
-| Parent | [[iyogin-hd|Iyogin Holdings]] 100%, consolidated with core subsidiary [[iyo-bank|Iyo Bank]] |
+| Parent | [[regional-banks/iyogin-hd|Iyogin Holdings]] 100%, consolidated with core subsidiary [[regional-banks/iyo-bank|Iyo Bank]] |
 | Established | 1974-09-26 as an Iyo Bank-related company; former name: Iyo Bank General Leasing. Capital: JPY 80 million. Became a directly held Iyogin Holdings subsidiary when Iyo Bank completed its sole-share-transfer holding-company formation on 2022-10-03. |
 | Main businesses | Equipment leasing, finance leasing, operating leasing, marine-cluster equipment leasing, municipal leasing, medical leasing, auto leasing, and factoring |
 | Regulatory frame | Leasing business. A banking license is not required; money-lending registration depends on the business line. |
@@ -32,8 +32,8 @@ Iyogin Leasing Co., Ltd. is the regional-bank-affiliated leasing company of the 
 ### Holding Structure
 
 ```text
-[[iyogin-hd|Iyogin Holdings]] (listed holding company, 5830; established 2022-10-03)
-  |-- [[iyo-bank|Iyo Bank]] (100%) -- core bank; No. 1 share in Ehime; one of Shikoku's oldest banks
+[[regional-banks/iyogin-hd|Iyogin Holdings]] (listed holding company, 5830; established 2022-10-03)
+  |-- [[regional-banks/iyo-bank|Iyo Bank]] (100%) -- core bank; No. 1 share in Ehime; one of Shikoku's oldest banks
   |-- Iyogin Leasing (100%; this page) -- group leasing company
   |-- Iyogin DC Card (100%) -- DC-brand credit cards
   |-- Iyogin Business Service (100%) -- BPO
@@ -55,25 +55,25 @@ Iyogin Leasing Co., Ltd. is the regional-bank-affiliated leasing company of the 
 
 | Group company | Linkage |
 |---|---|
-| [[iyo-bank|Iyo Bank]] | Corporate-customer referrals, combined marine-cluster lending and leasing proposals, and wide-area Shikoku sales coverage |
+| [[regional-banks/iyo-bank|Iyo Bank]] | Corporate-customer referrals, combined marine-cluster lending and leasing proposals, and wide-area Shikoku sales coverage |
 | Iyogin IRC | Industry research on Ehime and Shikoku sectors such as shipbuilding, paper manufacturing, and agriculture |
 
 ### Regional-Bank Leasing Peer Set
 
 | Leasing subsidiary | Parent bank / FG | Parent model | Core region | Listing exposure |
 |---|---|---|---|---|
-| **Iyogin Leasing** | [[iyogin-hd|Iyogin Holdings]] | Sibling subsidiary under a holding company since 2022-10 | Ehime and Shikoku | Parent 5830 |
-| [[mebuki-lease|Mebuki Lease]] | [[mebuki-fg|Mebuki FG]] | Sibling subsidiary under a holding company since 2016-10 | Ibaraki, Tochigi, northern Kanto | Parent 7167 |
-| [[yokohama-bank-leasing|Yokohama Bank Leasing]] | [[yokohama-bank|Bank of Yokohama]] / [[concordia-fg|Concordia FG]] | Bank-consolidated subsidiary | Kanagawa and the Tokyo metropolitan area | Parent 7186 |
-| [[chibagin-leasing|Chibagin Leasing]] | [[chiba-bank|Chiba Bank]] | Single-bank subsidiary without a holding-company layer | Chiba and eastern metropolitan area | Parent 8331 |
-| [[yamaguchi-leasing|Yamaguchi Leasing]] | [[yamaguchi-fg|YMFG]] | Three-bank holding-company structure | Yamaguchi, Hiroshima, and Kitakyushu | Parent 8418 |
-| [[hokkaido-lease|Hokkaido Lease]] | [[hokkaido-bank|Hokkaido Bank]] | Bank-affiliated leasing company | Hokkaido | Parent 8328 group |
-| Shizugin Leasing | [[shizuoka-fg|Shizuoka FG]] | Sibling subsidiary under a holding company since 2022-10 | Shizuoka | Parent 5831 |
+| **Iyogin Leasing** | [[regional-banks/iyogin-hd|Iyogin Holdings]] | Sibling subsidiary under a holding company since 2022-10 | Ehime and Shikoku | Parent 5830 |
+| [[leasing-firms/mebuki-lease|Mebuki Lease]] | [[regional-banks/mebuki-fg|Mebuki FG]] | Sibling subsidiary under a holding company since 2016-10 | Ibaraki, Tochigi, northern Kanto | Parent 7167 |
+| [[leasing-firms/yokohama-bank-leasing|Yokohama Bank Leasing]] | [[regional-banks/yokohama-bank|Bank of Yokohama]] / [[regional-banks/concordia-fg|Concordia FG]] | Bank-consolidated subsidiary | Kanagawa and the Tokyo metropolitan area | Parent 7186 |
+| [[leasing-firms/chibagin-leasing|Chibagin Leasing]] | [[regional-banks/chiba-bank|Chiba Bank]] | Single-bank subsidiary without a holding-company layer | Chiba and eastern metropolitan area | Parent 8331 |
+| [[leasing-firms/yamaguchi-leasing|Yamaguchi Leasing]] | [[regional-banks/yamaguchi-fg|YMFG]] | Three-bank holding-company structure | Yamaguchi, Hiroshima, and Kitakyushu | Parent 8418 |
+| [[leasing-firms/hokkaido-lease|Hokkaido Lease]] | [[regional-banks/hokkaido-bank|Hokkaido Bank]] | Bank-affiliated leasing company | Hokkaido | Parent 8328 group |
+| Shizugin Leasing | [[regional-banks/shizuoka-fg|Shizuoka FG]] | Sibling subsidiary under a holding company since 2022-10 | Shizuoka | Parent 5831 |
 
 ### Competition With Major and Specialist Lessors
 
-- **Major lessors**: [[mitsubishi-hc-capital|Mitsubishi HC Capital]], [[smfl|SMFL]], [[mizuho-lease|Mizuho Leasing]], [[fuyo-lease|Fuyo General Lease]], [[tokyo-century|Tokyo Century]], and [[ricoh-leasing|Ricoh Leasing]] have advantages in large-scale, nationwide, and complex transactions. Mitsubishi HC Capital is also relevant in marine leasing linked to Imabari shipbuilding.
-- **Manufacturer-affiliated lessors**: [[toyota-finance|Toyota Finance]], [[nec-leasing|NEC Capital Solutions]], [[showa-leasing|Showa Leasing]], and [[ja-mitsui-leasing|JA Mitsui Leasing]] are advantaged where leases are tightly connected to product sales.
+- **Major lessors**: [[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]], [[leasing-firms/smfl|SMFL]], [[leasing-firms/mizuho-lease|Mizuho Leasing]], [[leasing-firms/fuyo-lease|Fuyo General Lease]], [[leasing-firms/tokyo-century|Tokyo Century]], and [[leasing-firms/ricoh-leasing|Ricoh Leasing]] have advantages in large-scale, nationwide, and complex transactions. Mitsubishi HC Capital is also relevant in marine leasing linked to Imabari shipbuilding.
+- **Manufacturer-affiliated lessors**: [[card-issuers/toyota-finance|Toyota Finance]], [[leasing-firms/nec-leasing|NEC Capital Solutions]], [[leasing-firms/showa-leasing|Showa Leasing]], and [[cooperative-banks/ja-mitsui-leasing|JA Mitsui Leasing]] are advantaged where leases are tightly connected to product sales.
 - **Prefectural competition**: Ehime Bank-affiliated leasing and local branches of major leasing firms compete in Ehime.
 
 ### Strengths and Constraints
@@ -102,11 +102,11 @@ Iyogin Leasing Co., Ltd. is the regional-bank-affiliated leasing company of the 
 
 ## Related
 
-- [[iyogin-hd]] / [[iyo-bank]] / [[ehime-bank]]
-- [[mebuki-lease]] / [[yokohama-bank-leasing]] / [[chibagin-leasing]] / [[yamaguchi-leasing]] / [[hokkaido-lease]]
-- [[mebuki-fg]] / [[concordia-fg]] / [[yokohama-bank]] / [[yamaguchi-fg]] / [[chiba-bank]] / [[shizuoka-fg]] / [[fukuoka-fg]] / [[tomony-hd]]
-- [[mitsubishi-hc-capital]] / [[smfl]] / [[mizuho-lease]] / [[fuyo-lease]] / [[tokyo-century]] / [[ricoh-leasing]]
-- [[ja-mitsui-leasing]] / [[nec-leasing]] / [[showa-leasing]] / [[toyota-finance]] / [[ibj-leasing]] / [[kanematsu-leasing]]
+- [[regional-banks/iyogin-hd]] / [[regional-banks/iyo-bank]] / [[regional-banks/ehime-bank]]
+- [[leasing-firms/mebuki-lease]] / [[leasing-firms/yokohama-bank-leasing]] / [[leasing-firms/chibagin-leasing]] / [[leasing-firms/yamaguchi-leasing]] / [[leasing-firms/hokkaido-lease]]
+- [[regional-banks/mebuki-fg]] / [[regional-banks/concordia-fg]] / [[regional-banks/yokohama-bank]] / [[regional-banks/yamaguchi-fg]] / [[regional-banks/chiba-bank]] / [[regional-banks/shizuoka-fg]] / [[regional-banks/fukuoka-fg]] / [[regional-banks/tomony-hd]]
+- [[leasing-firms/mitsubishi-hc-capital]] / [[leasing-firms/smfl]] / [[leasing-firms/mizuho-lease]] / [[leasing-firms/fuyo-lease]] / [[leasing-firms/tokyo-century]] / [[leasing-firms/ricoh-leasing]]
+- [[cooperative-banks/ja-mitsui-leasing]] / [[leasing-firms/nec-leasing]] / [[leasing-firms/showa-leasing]] / [[card-issuers/toyota-finance]] / [[leasing-firms/ibj-leasing]] / [[leasing-firms/kanematsu-leasing]]
 - [[banking/regional-bank-consolidation-pattern]] / [[banking/regional-bank-api-digital-partnership-route]] / [[banking/INDEX]]
 - [[finance/japan-listed-financial-groups-investable-universe]] / [[finance/INDEX]]
 - [[leasing-firms/INDEX|leasing-firms INDEX]]

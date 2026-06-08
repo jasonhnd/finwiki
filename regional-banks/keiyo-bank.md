@@ -22,7 +22,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-千葉県 No.2 地方銀行（千葉県内シェア 2 位、No.1 は [[chiba-bank]]）。1943 千葉合同無尽 → 1951 千葉相互銀行 → **1989-04 普銀転換・同年 9 月東証 2 部上場**で誕生した「最後発の普銀」のひとつ。略称「けいよう」、東証 PRIME 8544。**中小企業 + 個人ローン特化・京葉地区（千葉市・市原・木更津・船橋・松戸）集中**、TSUBASA 未参加で独立路線を維持。第二地銀協加盟、第二地銀の中では総資産・預金とも上位グループ。
+千葉県 No.2 地方銀行（千葉県内シェア 2 位、No.1 は [[regional-banks/chiba-bank]]）。1943 千葉合同無尽 → 1951 千葉相互銀行 → **1989-04 普銀転換・同年 9 月東証 2 部上場**で誕生した「最後発の普銀」のひとつ。略称「けいよう」、東証 PRIME 8544。**中小企業 + 個人ローン特化・京葉地区（千葉市・市原・木更津・船橋・松戸）集中**、TSUBASA 未参加で独立路線を維持。第二地銀協加盟、第二地銀の中では総資産・預金とも上位グループ。
 
 ## 1. 会社概要
 
@@ -71,15 +71,15 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 | 銀行 | 種別 | 位置付け |
 |---|---|---|
-| [[chiba-bank]]（千葉銀行 8331）| 第一地銀 | **千葉県 No.1**、TSUBASA アライアンス主導行、関東地銀の雄 |
+| [[regional-banks/chiba-bank]]（千葉銀行 8331）| 第一地銀 | **千葉県 No.1**、TSUBASA アライアンス主導行、関東地銀の雄 |
 | **京葉銀行（8544）** | 第二地銀 | **千葉県 No.2**、第二地銀協、京葉地区特化 |
-| [[chiba-kogyo-bank]]（千葉興業銀行 8337）| 第一地銀 | 千葉県内 3 位、旧 みずほ系列色（[[mizuho-fg]] と歴史的関係） |
+| [[regional-banks/chiba-kogyo-bank]]（千葉興業銀行 8337）| 第一地銀 | 千葉県内 3 位、旧 みずほ系列色（[[megabanks/mizuho-fg]] と歴史的関係） |
 
 千葉県は **3 行併存** の特殊市場：第一地銀 2 行（千葉銀・千葉興業）+ 第二地銀 1 行（京葉）。京葉銀行は規模では千葉銀に劣るが、**中小・個人セグメントで存在感を維持**する立ち位置。
 
 ### 独立路線 — TSUBASA 未参加
 
-[[chiba-bank]] が主導する **TSUBASA アライアンス**（千葉・第四北越・中国・伊予・東邦・北洋・武蔵野・滋賀・琉球など第一地銀広域連合）には **京葉銀行は不参加**。これは：
+[[regional-banks/chiba-bank]] が主導する **TSUBASA アライアンス**（千葉・第四北越・中国・伊予・東邦・北洋・武蔵野・滋賀・琉球など第一地銀広域連合）には **京葉銀行は不参加**。これは：
 
 - 千葉県内で千葉銀と直接競合関係にある第二地銀という構造的理由
 - 第二地銀協加盟行としての独自ポジション
@@ -98,11 +98,11 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 | 競合軸 | 主要競合 |
 |---|---|
-| 千葉県内総合 | [[chiba-bank]]（圧倒的 No.1）、[[chiba-kogyo-bank]] |
-| 関東地銀 | [[mebuki-fg]]（常陽 + 足利、北関東地盤）、[[concordia-fg]]（横浜 + 東日本、神奈川地盤）|
+| 千葉県内総合 | [[regional-banks/chiba-bank]]（圧倒的 No.1）、[[regional-banks/chiba-kogyo-bank]] |
+| 関東地銀 | [[regional-banks/mebuki-fg]]（常陽 + 足利、北関東地盤）、[[regional-banks/concordia-fg]]（横浜 + 東日本、神奈川地盤）|
 | 第二地銀 | 北日本銀行・東日本銀行（旧グループ）、もみじ銀行 等 |
-| メガバンク 個人 | [[smfg]]・[[mufg]]・[[mizuho-fg]] の千葉県内支店 |
-| ネット銀・流通系 | 楽天銀・住信 SBI ネット銀・[[paypay-fg]]・PayPay 銀行 — 個人ローン領域で侵食 |
+| メガバンク 個人 | [[megabanks/smfg]]・[[megabanks/mufg]]・[[megabanks/mizuho-fg]] の千葉県内支店 |
+| ネット銀・流通系 | 楽天銀・住信 SBI ネット銀・[[megabanks/paypay-fg]]・PayPay 銀行 — 個人ローン領域で侵食 |
 
 ## 4. 規制・政策
 
@@ -112,12 +112,12 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 - **直近政策論点**：
   - 2024〜 日銀政策金利正常化 → 国内貸出金利マージン改善（地銀全体ボーナス）
   - 2025〜 千葉県内人口動態（千葉市・船橋市は流入超、内房・外房は流出）→ 店舗再編圧力
-  - 個人ローン領域での **ネット銀行・流通系銀行（[[paypay-fg]]・楽天銀・住信 SBI）からの侵食** → リテール DX 課題
+  - 個人ローン領域での **ネット銀行・流通系銀行（[[megabanks/paypay-fg]]・楽天銀・住信 SBI）からの侵食** → リテール DX 課題
 
 ## Related
 
-- [[chiba-bank]] · [[chiba-kogyo-bank]] · [[mebuki-fg]] · [[concordia-fg]]
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[paypay-fg]]
+- [[regional-banks/chiba-bank]] · [[regional-banks/chiba-kogyo-bank]] · [[regional-banks/mebuki-fg]] · [[regional-banks/concordia-fg]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[megabanks/paypay-fg]]
 
 ## Sources
 

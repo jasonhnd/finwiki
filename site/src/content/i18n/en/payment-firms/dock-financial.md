@@ -66,7 +66,7 @@ SoftBank Group Corp. (TSE PRIME 9984)
         +-- Yahoo / LINE integrated business through LY Corporation
         +-- PayPay Financial Group ([[megabanks/paypay-fg]])
         |     +-- [[payment-firms/paypay|PayPay Corp.]] -- QR-code payments
-        |     +-- [[JapanFG/paypay-bank|PayPay Bank]] -- internet bank
+        |     +-- [[banking/paypay-bank|PayPay Bank]] -- internet bank
         |     +-- [[card-issuers/paypay-card|PayPay Card]] -- card issuer
         |     +-- [[securities-firms/paypay-securities|PayPay Securities]] -- securities
         +-- **SB Payment Service** (this page; PSP)
@@ -138,7 +138,7 @@ SBPS differentiates through **SoftBank / Yahoo / LINE / PayPay group channels an
 - SoftBank Corp. (parent company; TSE PRIME 9434)
 - [[megabanks/paypay-fg]] ? group sibling and B2C financial group
 - [[payment-firms/paypay]] ? QR-payment merchant linkage
-- [[JapanFG/paypay-bank]] ? group bank
+- [[banking/paypay-bank]] ? group bank
 - [[card-issuers/paypay-card]] ? group card issuer
 - [[payment-firms/gmo-payment-gateway]] ? major PSP competitor within [[payment-firms/INDEX]]
 - [[payment-firms/digital-garage]] ? major PSP competitor

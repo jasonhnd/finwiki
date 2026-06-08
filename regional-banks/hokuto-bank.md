@@ -50,16 +50,16 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 
 ## 4. Why this page matters
 
-- Parent [[fidea-hd]] coverage alone did not expose the licensed bank boundary.
+- Parent [[regional-banks/fidea-hd]] coverage alone did not expose the licensed bank boundary.
 - 2027-01 planned merger into Fidea Bank needs a bank-level watch anchor.
-- Useful peer for [[akita-bank]] and [[shonai-bank]].
+- Useful peer for [[regional-banks/akita-bank]] and [[regional-banks/shonai-bank]].
 
 ## Related
 
 - [[regional-banks/INDEX|regional-banks INDEX]]
-- [[fidea-hd]]
-- [[shonai-bank]]
-- [[akita-bank]]
+- [[regional-banks/fidea-hd]]
+- [[regional-banks/shonai-bank]]
+- [[regional-banks/akita-bank]]
 - [[financial-regulators/fsa|FSA]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]

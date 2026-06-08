@@ -43,7 +43,7 @@ Citigroup Inc.（米 NYSE: C・連邦準備制度監督）
 | 1998 | 親 Citicorp + Travelers Group 合併 → **Citigroup 発足** |
 | 2007〜2008 | サブプライム危機 → Citi 大規模損失計上 |
 | **2008-11/2009** | リーマン・ショック余波で Citi **米政府公的資金注入**（TARP 経由 250 億ドル + 追加支援、ストレステスト対象）/ 実質国有化局面 |
-| **2009-10** | **日興コーディアル証券を SMFG に売却**（→ 後の [[smbc-nikko]]）。Citi 日本ホールセール再建の一環 |
+| **2009-10** | **日興コーディアル証券を SMFG に売却**（→ 後の [[securities-firms/smbc-nikko]]）。Citi 日本ホールセール再建の一環 |
 | 2010s 前半 | グローバル「Citi Holdings」非中核資産整理スキーム下で日本リテールも見直し対象に |
 | **2014-09** | **シティバンク銀行 リテール → SMBC 信託銀行へ売却 発表**（個人顧客・支店・PB 事業）|
 | **2015-11** | **リテール売却完了** → SMBC 信託銀行傘下で **「PRESTIA」ブランド** として継続。シティバンク銀行（法人格）は消滅 |
@@ -68,10 +68,10 @@ Citigroup Inc.（米 NYSE: C・連邦準備制度監督）
 
 | 領域 | 主要競合 |
 |---|---|
-| 外資系 IB / M&A | [[goldman-sachs-japan]] / [[morgan-stanley-japan]] / JP モルガン日本 / バークレイズ |
+| 外資系 IB / M&A | [[securities-firms/goldman-sachs-japan]] / [[securities-firms/morgan-stanley-japan]] / JP モルガン日本 / バークレイズ |
 | GTS / トランザクションバンク | JP モルガン / HSBC / Deutsche Bank / BNP Paribas |
 | カストディ | State Street / BNY Mellon / JP モルガン / HSBC |
-| 日系メガバンクのクロスボーダー | [[mufg]] / [[smfg]] / [[mizuho-fg]]（Morgan Stanley JV 含む）|
+| 日系メガバンクのクロスボーダー | [[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]]（Morgan Stanley JV 含む）|
 
 ### グローバル戦略との接続
 
@@ -88,9 +88,9 @@ Citigroup Inc.（米 NYSE: C・連邦準備制度監督）
 
 ## 関連
 
-- **競合外資 IB**：[[goldman-sachs-japan]] · [[morgan-stanley-japan]]
-- **売却先・歴史的関係**：[[smbc-nikko]]（旧日興コーディアル証券、2009-10 売却先）· [[smfg]]（PRESTIA 親会社 [[sumitomo-mitsui-trust]] とは別グループ、SMBC 信託銀行は SMFG 傘下）
-- **日系メガ**：[[mufg]] · [[smfg]] · [[mizuho-fg]]
+- **競合外資 IB**：[[securities-firms/goldman-sachs-japan]] · [[securities-firms/morgan-stanley-japan]]
+- **売却先・歴史的関係**：[[securities-firms/smbc-nikko]]（旧日興コーディアル証券、2009-10 売却先）· [[megabanks/smfg]]（PRESTIA 親会社 [[trust-banks/sumitomo-mitsui-trust]] とは別グループ、SMBC 信託銀行は SMFG 傘下）
+- **日系メガ**：[[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]
 
 ## 出典
 

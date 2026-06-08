@@ -16,7 +16,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-Mid-sized regional bank FG based in Yamagata + Akita.2009-10-01It was established through a joint stock transfer of **Shonai Bank** (based in Yamagata Prefecture) + **Hokuto Bank** (based in Akita Prefecture), and attracted attention as the first case of regional bank integration across prefectural borders in eastern Japan.2026-05-21In the current wiki boundary,[[shonai-bank]]and[[hokuto-bank]]are operating banks,[[tohoku-bank]]teeth2022-02 will be treated as a separate company whose basic business integration agreement has been terminated. The official profile of Hokuto Bank is that Hokuto Bank and Shonai Bank2027-01 The plan is to merge with Fidea Bank and launch it as Fidea Bank. Company name Fidea = A coined word from the Latin words "fides" + "idea".^[extracted]
+Mid-sized regional bank FG based in Yamagata + Akita.2009-10-01It was established through a joint stock transfer of **Shonai Bank** (based in Yamagata Prefecture) + **Hokuto Bank** (based in Akita Prefecture), and attracted attention as the first case of regional bank integration across prefectural borders in eastern Japan.2026-05-21In the current wiki boundary,[[regional-banks/shonai-bank]]and[[regional-banks/hokuto-bank]]are operating banks,[[regional-banks/tohoku-bank]]teeth2022-02 will be treated as a separate company whose basic business integration agreement has been terminated. The official profile of Hokuto Bank is that Hokuto Bank and Shonai Bank2027-01 The plan is to merge with Fidea Bank and launch it as Fidea Bank. Company name Fidea = A coined word from the Latin words "fides" + "idea".^[extracted]
 
 ## 1. Company Profile
 
@@ -38,7 +38,7 @@ Fidea HD (listed holding company, 8713)
   |-- Fidea Card -- group credit-card subsidiary
   `-- Shonai and Hokuto capital-related entities -- regional investment and consulting
 
-The basic agreement for management integration with Tohoku Bank was terminated in 2022-02. Tohoku Bank is covered separately at [[tohoku-bank]].
+The basic agreement for management integration with Tohoku Bank was terminated in 2022-02. Tohoku Bank is covered separately at [[regional-banks/tohoku-bank]].
 ```
 
 ### Merger history/predecessor^[extracted]
@@ -90,8 +90,8 @@ The basic agreement for management integration with Tohoku Bank was terminated i
 
 ### competitive structure
 
-- **Mega banks** ([[mufg]], [[smfg]], [[mizuho-fg]]): competition for prefectural corporate main-bank mandates is limited; the relationship is more complementary.
-- **Yucho**([[yucho]]): Compete in personal deposits
+- **Mega banks** ([[megabanks/mufg]], [[megabanks/smfg]], [[megabanks/mizuho-fg]]): competition for prefectural corporate main-bank mandates is limited; the relationship is more complementary.
+- **Yucho**([[regional-banks/yucho]]): Compete in personal deposits
 - **Single regional banks in the prefecture** (Yamagata Bank, Akita Bank, Iwate Bank): Direct competition, but scale difference has expanded due to integration
 
 ## 4.Regulations/Policies^[extracted/inferred]
@@ -106,9 +106,9 @@ The basic agreement for management integration with Tohoku Bank was terminated i
 
 ## Related
 
-- [[shonai-bank]]·[[hokuto-bank]]·[[tohoku-bank]]
-- [[hokuhoku-fg]]·[[regional-banks/proclair-hd|proCRD-hd]]·[[mebuki-fg]]·[[concordia-fg]]·[[dai-shi-hokuetsu-fg]]
-- [[mufg]]·[[smfg]]·[[mizuho-fg]]·[[yucho]]
+- [[regional-banks/shonai-bank]]·[[regional-banks/hokuto-bank]]·[[regional-banks/tohoku-bank]]
+- [[regional-banks/hokuhoku-fg]]·[[regional-banks/proclair-hd|proCRD-hd]]·[[regional-banks/mebuki-fg]]·[[regional-banks/concordia-fg]]·[[regional-banks/dai-shi-hokuetsu-fg]]
+- [[megabanks/mufg]]·[[megabanks/smfg]]·[[megabanks/mizuho-fg]]·[[regional-banks/yucho]]
 
 ## Sources
 

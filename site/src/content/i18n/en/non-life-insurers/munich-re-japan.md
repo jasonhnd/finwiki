@@ -15,7 +15,7 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 
 ## TL;DR
 
-Munich Reinsurance Company Japan Branch is the Japan branch of Munich Reinsurance Company / Munchener Ruckversicherungs-Gesellschaft, a DAX-listed global reinsurance group and one of the world's largest reinsurers. It appears on the FSA non-life insurer license list under the foreign non-life insurer category. In Japan it absorbs risk from major domestic non-life insurers such as [[tokio-marine-nichido-fire]], [[mitsui-sumitomo-insurance]], and [[sompo-japan-insurance]], as well as from life insurers, by using global reinsurance capital. It is especially important for large natural-catastrophe risks such as earthquakes, typhoons, and floods, and for life-insurance longevity risk.
+Munich Reinsurance Company Japan Branch is the Japan branch of Munich Reinsurance Company / Munchener Ruckversicherungs-Gesellschaft, a DAX-listed global reinsurance group and one of the world's largest reinsurers. It appears on the FSA non-life insurer license list under the foreign non-life insurer category. In Japan it absorbs risk from major domestic non-life insurers such as [[non-life-insurers/tokio-marine-nichido-fire]], [[non-life-insurers/mitsui-sumitomo-insurance]], and [[non-life-insurers/sompo-japan-insurance]], as well as from life insurers, by using global reinsurance capital. It is especially important for large natural-catastrophe risks such as earthquakes, typhoons, and floods, and for life-insurance longevity risk.
 
 ## 1. License / group boundary
 
@@ -39,16 +39,16 @@ Munich Reinsurance Company Japan Branch is the Japan branch of Munich Reinsuranc
 ## 4. Why this page matters
 
 - Representative anchor for a foreign reinsurer Japan branch, showing how global reinsurance capital reaches the Japanese market.
-- Connects the [[insurance/natcat-reinsurance-japan]] system page with primary non-life insurers such as [[tokio-marine-nichido-fire]], [[mitsui-sumitomo-insurance]], and [[sompo-japan-insurance]].
-- Provides contrast with domestic specialists [[toa-reinsurance]] and [[japan-earthquake-reinsurance]], clarifying the structure of Japan's reinsurance market.
+- Connects the [[insurance/natcat-reinsurance-japan]] system page with primary non-life insurers such as [[non-life-insurers/tokio-marine-nichido-fire]], [[non-life-insurers/mitsui-sumitomo-insurance]], and [[non-life-insurers/sompo-japan-insurance]].
+- Provides contrast with domestic specialists [[non-life-insurers/toa-reinsurance]] and [[non-life-insurers/japan-earthquake-reinsurance]], clarifying the structure of Japan's reinsurance market.
 
 ## Related
 
 - [[non-life-insurers/INDEX]]
-- [[toa-reinsurance]]
-- [[japan-earthquake-reinsurance]]
-- [[swiss-re-japan]]
-- [[hannover-re-japan]]
+- [[non-life-insurers/toa-reinsurance]]
+- [[non-life-insurers/japan-earthquake-reinsurance]]
+- [[non-life-insurers/swiss-re-japan]]
+- [[non-life-insurers/hannover-re-japan]]
 - [[insurance/natcat-reinsurance-japan]]
 - [[insurance/INDEX]]
 

@@ -46,14 +46,14 @@ The branch also has Osaka secondary-branch context, which makes CCB part of the 
 ## 3. Why this page matters
 
 - Adds CCB to the mainland China P1 branch set.
-- Supports comparison with [[bank-of-china-japan]], [[icbc-japan]], and [[agricultural-bank-of-china-japan]].
+- Supports comparison with [[foreign-financial-institutions/bank-of-china-japan]], [[foreign-financial-institutions/icbc-japan]], and [[foreign-financial-institutions/agricultural-bank-of-china-japan]].
 - Separates current branch operations from parent-bank global strategy.
 
 ## Related
 
-- [[bank-of-china-japan]]
-- [[icbc-japan]]
-- [[agricultural-bank-of-china-japan]]
+- [[foreign-financial-institutions/bank-of-china-japan]]
+- [[foreign-financial-institutions/icbc-japan]]
+- [[foreign-financial-institutions/agricultural-bank-of-china-japan]]
 - [[banking/foreign-bank-japan-retreat]]
 - [[banking/INDEX]]
 

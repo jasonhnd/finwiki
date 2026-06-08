@@ -23,7 +23,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## 推論 (from 10 信漁連の構成 ^[extracted / inferred])
 
-> 注: 個別信漁連の正確な区分・管轄 ^[inferred] は要追加検証 ([[JapanFG/jf-shingyoren|jf-shingyoren]] エントリ参照)
+> 注: 個別信漁連の正確な区分・管轄 ^[inferred] は要追加検証 ([[cooperative-banks/jf-shingyoren|jf-shingyoren]] エントリ参照)
 
 ## 推論 (from 規模感 (推定) ^[ambiguous])
 
@@ -46,7 +46,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## 推論 (from システム共同化)
 
-- **JF Marine Bank ATM ネットワーク** — 道内 JF + 道信漁連 + [[JapanFG/norinchukin|農林中金]] 共通利用 ^[inferred]
+- **JF Marine Bank ATM ネットワーク** — 道内 JF + 道信漁連 + [[cooperative-banks/norinchukin|農林中金]] 共通利用 ^[inferred]
 - 基幹系・勘定系の共同センター運営 (10 信漁連 + 農林中金共同) ^[inferred]
 
 ## 推論 (from 4. KPI (推定))
@@ -99,14 +99,14 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 組合員 (北海道沿岸・沖合漁業者 + 養殖業者)
   → 預金 → 北海道内 JF (数十組合)
               → 余資預け入れ → 北海道信漁連
-                                   → 余資預け入れ → [[JapanFG/norinchukin|農林中央金庫]]
+                                   → 余資預け入れ → [[cooperative-banks/norinchukin|農林中央金庫]]
                                                        → 機関投資 (国債/外債等)
                                                        → 系統還元 → 道信漁連 → JF → 漁業者
 ```
 
 ### 競合・対照組織 ^[inferred]
 
-| 軸 | 北海道信漁連 | [[JapanFG/hokkaido-bank|北海道銀行]] | 北海道内信金 (例: 札幌北洋銀行系) |
+| 軸 | 北海道信漁連 | [[regional-banks/hokkaido-bank|北海道銀行]] | 北海道内信金 (例: 札幌北洋銀行系) |
 |---|---|---|---|
 | 顧客層 | 漁業協同組合 + 漁業者 | 個人 + 法人 (広範) | 中小企業 + 個人 |
 | 中核商品 | 漁業者向け運転 + 設備融資 | 商業性 + 個人 + 事業性 | SME 融資 |

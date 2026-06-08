@@ -49,23 +49,20 @@
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 15,
+    "wikilinks_count": 12,
     "wikilinks": [
       "INDEX",
       "banking/INDEX",
       "banking/regional-bank-consolidation-pattern",
       "financial-regulators/fsa",
       "financial-regulators/zenginkyo",
-      "ikeda-senshu-bank",
-      "kyoto-bank",
-      "minato-bank",
+      "megabanks/resona-bank",
+      "megabanks/resona-hd",
+      "megabanks/saitama-resona-bank",
       "regional-banks/INDEX",
       "regional-banks/ikeda-senshu-bank",
       "regional-banks/kyoto-bank",
-      "regional-banks/minato-bank",
-      "resona-bank",
-      "resona-hd",
-      "saitama-resona-bank"
+      "regional-banks/minato-bank"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
@@ -73,24 +70,21 @@
       "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
       "https://finwiki.zksc.io/financial-regulators/fsa",
       "https://finwiki.zksc.io/financial-regulators/zenginkyo",
-      "https://finwiki.zksc.io/ikeda-senshu-bank",
-      "https://finwiki.zksc.io/kyoto-bank",
-      "https://finwiki.zksc.io/minato-bank",
+      "https://finwiki.zksc.io/megabanks/resona-bank",
+      "https://finwiki.zksc.io/megabanks/resona-hd",
+      "https://finwiki.zksc.io/megabanks/saitama-resona-bank",
       "https://finwiki.zksc.io/regional-banks/INDEX",
       "https://finwiki.zksc.io/regional-banks/ikeda-senshu-bank",
       "https://finwiki.zksc.io/regional-banks/kyoto-bank",
-      "https://finwiki.zksc.io/regional-banks/minato-bank",
-      "https://finwiki.zksc.io/resona-bank",
-      "https://finwiki.zksc.io/resona-hd",
-      "https://finwiki.zksc.io/saitama-resona-bank"
+      "https://finwiki.zksc.io/regional-banks/minato-bank"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2666,
-    "word_like_tokens": 383,
-    "inbound_wikilinks_count": 5,
-    "last_modified": "2026-06-05"
+    "nonspace_chars": 2781,
+    "word_like_tokens": 396,
+    "inbound_wikilinks_count": 7,
+    "last_modified": "2026-06-08"
   }
 }

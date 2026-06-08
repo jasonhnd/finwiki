@@ -50,42 +50,36 @@
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 12,
+    "wikilinks_count": 9,
     "wikilinks": [
       "insurance/INDEX",
       "insurance/natcat-reinsurance-japan",
-      "japan-earthquake-reinsurance",
-      "munich-re-japan",
+      "life-insurers/rga-japan",
       "non-life-insurers/INDEX",
+      "non-life-insurers/japan-earthquake-reinsurance",
       "non-life-insurers/munich-re-japan",
+      "non-life-insurers/scor-japan",
       "non-life-insurers/swiss-re-japan",
-      "non-life-insurers/toa-reinsurance",
-      "rga-japan",
-      "scor-japan",
-      "swiss-re-japan",
-      "toa-reinsurance"
+      "non-life-insurers/toa-reinsurance"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/insurance/INDEX",
       "https://finwiki.zksc.io/insurance/natcat-reinsurance-japan",
-      "https://finwiki.zksc.io/japan-earthquake-reinsurance",
-      "https://finwiki.zksc.io/munich-re-japan",
+      "https://finwiki.zksc.io/life-insurers/rga-japan",
       "https://finwiki.zksc.io/non-life-insurers/INDEX",
+      "https://finwiki.zksc.io/non-life-insurers/japan-earthquake-reinsurance",
       "https://finwiki.zksc.io/non-life-insurers/munich-re-japan",
+      "https://finwiki.zksc.io/non-life-insurers/scor-japan",
       "https://finwiki.zksc.io/non-life-insurers/swiss-re-japan",
-      "https://finwiki.zksc.io/non-life-insurers/toa-reinsurance",
-      "https://finwiki.zksc.io/rga-japan",
-      "https://finwiki.zksc.io/scor-japan",
-      "https://finwiki.zksc.io/swiss-re-japan",
-      "https://finwiki.zksc.io/toa-reinsurance"
+      "https://finwiki.zksc.io/non-life-insurers/toa-reinsurance"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2745,
-    "word_like_tokens": 423,
-    "inbound_wikilinks_count": 7,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 2885,
+    "word_like_tokens": 446,
+    "inbound_wikilinks_count": 10,
+    "last_modified": "2026-06-08"
   }
 }

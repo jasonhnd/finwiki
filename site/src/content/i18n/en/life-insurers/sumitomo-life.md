@@ -15,7 +15,7 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 
 ## TL;DR
 
-Sumitomo Life is one of Japan's major 4  life insurers and is organized as a **mutual insurance company** (members = policyholders). Founded in 1907-05-15 as the former Hinode Life in the Sumitomo lineage, it is headquartered in Chuo-ku, Osaka. It differentiates itself from other major 4  life insurers through **"Sumitomo Life Vitality," a health-promotion insurance product**, and owns 2  major overseas platforms: U.S.-based **Symetra Financial** (made a wholly owned subsidiary in 2016-02  for about 5000 億円) and Singapore-based **Singlife** (stepwise acquisition completed in 2017-2024 ). It competes for 4 位 after Nippon Life and Dai-ichi Life, alongside Meiji Yasuda Life ([[meiji-yasuda]]). ^[extracted]
+Sumitomo Life is one of Japan's major 4  life insurers and is organized as a **mutual insurance company** (members = policyholders). Founded in 1907-05-15 as the former Hinode Life in the Sumitomo lineage, it is headquartered in Chuo-ku, Osaka. It differentiates itself from other major 4  life insurers through **"Sumitomo Life Vitality," a health-promotion insurance product**, and owns 2  major overseas platforms: U.S.-based **Symetra Financial** (made a wholly owned subsidiary in 2016-02  for about 5000 億円) and Singapore-based **Singlife** (stepwise acquisition completed in 2017-2024 ). It competes for 4 位 after Nippon Life and Dai-ichi Life, alongside Meiji Yasuda Life ([[life-insurers/meiji-yasuda]]). ^[extracted]
 
 ## 1. Company overview
 
@@ -32,7 +32,7 @@ Sumitomo Life is one of Japan's major 4  life insurers and is organized as a **m
 | Category | Details |
 |---|---|
 | Industry rank | One of the major 4  life insurers, in the 3-4 位 range by premium and other income |
-| Competitors | [[meiji-yasuda]], Nippon Life, Dai-ichi Life HD |
+| Competitors | [[life-insurers/meiji-yasuda]], Nippon Life, Dai-ichi Life HD |
 | Form | Mutual company, the same unlisted form as Meiji Yasuda and Nippon Life |
 | Regional character | **Kansai-origin / Osaka-based** with strength in the Kansai economic region |
 
@@ -91,7 +91,7 @@ Sumitomo Life (mutual company, unlisted)
 
 - **Unlisted; members = policyholders**: no shareholder pressure, allowing long-term management (versus listed Dai-ichi Life HD).
 - **Representative policyholder meeting model**: governance is handled by representative members, who represent policyholders.
-- Same mutual-company form as Meiji Yasuda Life ([[meiji-yasuda]]) and Nippon Life; only Dai-ichi Life HD has completed 2010  stock-company conversion and listing ^[extracted].
+- Same mutual-company form as Meiji Yasuda Life ([[life-insurers/meiji-yasuda]]) and Nippon Life; only Dai-ichi Life HD has completed 2010  stock-company conversion and listing ^[extracted].
 
 ### Kansai-origin strengths
 
@@ -110,8 +110,8 @@ Sumitomo Life (mutual company, unlisted)
 
 ## Related
 
-- [[meiji-yasuda]] · Nippon Life · Dai-ichi Life HD (major 4  life insurers)
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] (horizontal Sumitomo group links)
+- [[life-insurers/meiji-yasuda]] · Nippon Life · Dai-ichi Life HD (major 4  life insurers)
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] (horizontal Sumitomo group links)
 
 ## Sources
 

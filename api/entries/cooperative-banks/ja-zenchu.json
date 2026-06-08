@@ -55,7 +55,7 @@
     "食料安全保障論議"
   ],
   "body_links": {
-    "wikilinks_count": 14,
+    "wikilinks_count": 10,
     "wikilinks": [
       "banking/cooperative-banking-japan",
       "banking/ja-bank-system-japan",
@@ -66,11 +66,7 @@
       "cooperative-banks/norinchukin",
       "financial-regulators/yokin-hoken-kiko",
       "financial-regulators/zenginkyo",
-      "ja-kyosairen",
-      "ja-shinnoren",
-      "ja-zen-noh",
-      "non-life-insurers/ja-kyosairen",
-      "norinchukin"
+      "non-life-insurers/ja-kyosairen"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/banking/cooperative-banking-japan",
@@ -82,19 +78,15 @@
       "https://finwiki.zksc.io/cooperative-banks/norinchukin",
       "https://finwiki.zksc.io/financial-regulators/yokin-hoken-kiko",
       "https://finwiki.zksc.io/financial-regulators/zenginkyo",
-      "https://finwiki.zksc.io/ja-kyosairen",
-      "https://finwiki.zksc.io/ja-shinnoren",
-      "https://finwiki.zksc.io/ja-zen-noh",
-      "https://finwiki.zksc.io/non-life-insurers/ja-kyosairen",
-      "https://finwiki.zksc.io/norinchukin"
+      "https://finwiki.zksc.io/non-life-insurers/ja-kyosairen"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5042,
-    "word_like_tokens": 758,
+    "nonspace_chars": 5114,
+    "word_like_tokens": 767,
     "inbound_wikilinks_count": 12,
-    "last_modified": "2026-06-06"
+    "last_modified": "2026-06-08"
   }
 }

@@ -69,7 +69,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 | **2001-01-04** | **「あおぞら銀行」に商号変更** ^[extracted] |
 | 2003-08 | 米 PE サーベラス・キャピタル・マネジメント が筆頭株主化（民間再生第 2 フェーズ）|
 | **2006-11** | **東京証券取引所第一部 再上場** ^[extracted] |
-| 2010 | **旧 新生銀行（現 [[sbi-hd]] 傘下 SBI 新生銀行）との統合検討 → 撤回** ^[extracted] |
+| 2010 | **旧 新生銀行（現 [[megabanks/sbi-hd]] 傘下 SBI 新生銀行）との統合検討 → 撤回** ^[extracted] |
 | 2010s 前半 | サーベラス 段階的売却開始 |
 | 2018〜2023 | 米国 CRE（商業用不動産）融資拡大 — 利回り追求戦略 ^[extracted] |
 | 2022〜2024 | 米国オフィス CRE 市況悪化（コロナ後リモート定着 + 金利急上昇）|
@@ -109,16 +109,16 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 - **2010 旧 新生銀行（現 SBI 新生）との統合検討 → 撤回** ^[extracted]
   - 両行とも公的資金注入歴 + 海外 PE 出口問題を共有 → シナジー期待されたが破談
-  - 旧 新生銀行は後に [[sbi-hd]] が TOB（2021-12〜2022-02）→ 完全子会社化（2023）
+  - 旧 新生銀行は後に [[megabanks/sbi-hd]] が TOB（2021-12〜2022-02）→ 完全子会社化（2023）
 
 ### 戦略的位置付け
 
-- [[sbi-hd]] の SBI 新生銀行モデル（PE 出口後の戦略パートナー化）との対比軸
+- [[megabanks/sbi-hd]] の SBI 新生銀行モデル（PE 出口後の戦略パートナー化）との対比軸
 
 ## 4. 規制・政策
 
 - **主管**：金融庁（FSA）
-- **業態の歴史**：旧長期信用銀行 3 行（日本興業銀行 → みずほ系 [[mizuho-fg]] / 日本長期信用銀行 → 旧新生銀行 → [[sbi-hd]] / 日本債券信用銀行 → あおぞら）の唯一の独立存続行
+- **業態の歴史**：旧長期信用銀行 3 行（日本興業銀行 → みずほ系 [[megabanks/mizuho-fg]] / 日本長期信用銀行 → 旧新生銀行 → [[megabanks/sbi-hd]] / 日本債券信用銀行 → あおぞら）の唯一の独立存続行
 - **預金保険機構**：1998-12 破綻時の特別公的管理執行主体
 - **直近政策論点**：
   - 日銀政策金利正常化（2024〜）→ 国内金利マージン改善ボーナス
@@ -126,8 +126,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## Related
 
-- [[sbi-hd]]（旧 新生銀行系譜 — 2010 統合検討撤回相手）
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[ndfg]]
+- [[megabanks/sbi-hd]]（旧 新生銀行系譜 — 2010 統合検討撤回相手）
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[megabanks/ndfg]]
 
 ## Sources
 

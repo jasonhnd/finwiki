@@ -119,7 +119,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it wit
 |---|---|---|
 | 宮城県 No.1 地銀 | **七十七銀行**（東証 PRIME 8341）| 仙台銀行は地銀 2 番手 |
 | 山形県 No.1 地銀 | **山形銀行**（東証 PRIME 8344）| きらやか銀行は地銀 2 番手 |
-| 北東北 第二地銀 FG | **フィデア HD**（東証 PRIME 8713・山形 + 秋田）| [[fidea-hd]] と山形重複・営業基盤競合 |
+| 北東北 第二地銀 FG | **フィデア HD**（東証 PRIME 8713・山形 + 秋田）| [[regional-banks/fidea-hd]] と山形重複・営業基盤競合 |
 | 隣接 第一地銀 | 岩手銀行・東邦銀行（福島）| 営業圏外周 |
 | SBI 4 大地銀枠 | 福島銀行・島根銀行・筑邦銀行 | SBI 提携の他地銀群 |
 
@@ -147,9 +147,9 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it wit
 
 ## Related
 
-- [[fidea-hd]]（山形 + 秋田・北東北第二地銀競合 + 営業圏重複）
-- [[sbi-hd]]（2020-11 第三者割当 35 億円・SBI 4 大地銀構想）
-- [[mufg]] · [[smfg]] · [[mizuho-fg]]（メガバンク）
+- [[regional-banks/fidea-hd]]（山形 + 秋田・北東北第二地銀競合 + 営業圏重複）
+- [[megabanks/sbi-hd]]（2020-11 第三者割当 35 億円・SBI 4 大地銀構想）
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]（メガバンク）
 
 ## Sources
 

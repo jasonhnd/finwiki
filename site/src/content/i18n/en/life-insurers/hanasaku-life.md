@@ -25,12 +25,12 @@ Hanasaku Life Insurance Co., Ltd. is a Nippon Life group life-insurance operatin
 | Legal name | はなさく生命保険株式会社 |
 | License route | Insurance Business Act life-insurance company; FSA life insurer list |
 | Industry body | Life Insurance Association of Japan member |
-| Group boundary | [[nippon-life]] group |
+| Group boundary | [[life-insurers/nippon-life]] group |
 | Wiki role | Nippon Life group newer specialty / agency-channel life insurer |
 
 ## 2. Operating model
 
-Hanasaku Life is an example of a major mutual insurer using a separate brand for agency- and direct-friendly products. As with [[nanairo-life]] and [[medicare-life]], the analytically important point is the separation of product design and channel strategy while still drawing on the parent insurer's scale and brand trust.
+Hanasaku Life is an example of a major mutual insurer using a separate brand for agency- and direct-friendly products. As with [[life-insurers/nanairo-life]] and [[life-insurers/medicare-life]], the analytically important point is the separation of product design and channel strategy while still drawing on the parent insurer's scale and brand trust.
 
 ## 3. Why this page matters
 
@@ -40,10 +40,10 @@ Hanasaku Life is an example of a major mutual insurer using a separate brand for
 
 ## Related
 
-- [[nippon-life]]
-- [[nissay-wealth-life]]
-- [[nanairo-life]]
-- [[medicare-life]]
+- [[life-insurers/nippon-life]]
+- [[life-insurers/nissay-wealth-life]]
+- [[life-insurers/nanairo-life]]
+- [[life-insurers/medicare-life]]
 - [[insurance/life-insurance-channel-mix]]
 
 ## Sources

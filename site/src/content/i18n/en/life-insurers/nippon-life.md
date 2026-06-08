@@ -31,7 +31,7 @@ Japan's largest life insurer. It is **domestic 1 位 in both premium income and 
 
 ### Form characteristics: mutual company
 
-- It is not a stock company but a **mutual company** (a special corporation under the Insurance Business Act). Many major Japanese life insurers historically adopted this form, but conversion to stock-company form has progressed in recent years ([[dai-ichi-life]] 2010  / Daido Life 2002 , etc.); Nippon Life has **traditionally maintained the mutual-company form**.
+- It is not a stock company but a **mutual company** (a special corporation under the Insurance Business Act). Many major Japanese life insurers historically adopted this form, but conversion to stock-company form has progressed in recent years ([[life-insurers/dai-ichi-life]] 2010  / Daido Life 2002 , etc.); Nippon Life has **traditionally maintained the mutual-company form**.
 - There are no shareholders, and **insurance policyholders = members** receive surplus dividends.
 - There is no listing obligation, and external capital is raised through foundation funds (kikin, member accounts equivalent to equity) and subordinated debt.
 - There is no securities report; disclosures are mainly "financial results announcements," "disclosure reports," and "basic figures."
@@ -141,7 +141,7 @@ Nippon Life Insurance Company (mutual company, unlisted)
 
 ### Domestic competitors
 
-- Direct competitors: [[dai-ichi-life]] (Dai-ichi Life HD, listed stock company, FY2024  net income 4,296 億円) / Meiji Yasuda Life (mutual company) / Sumitomo Life (mutual company) / Japan Post Insurance ([[megabanks/nippon-post|japan-post]]-group listed company)
+- Direct competitors: [[life-insurers/dai-ichi-life]] (Dai-ichi Life HD, listed stock company, FY2024  net income 4,296 億円) / Meiji Yasuda Life (mutual company) / Sumitomo Life (mutual company) / Japan Post Insurance ([[megabanks/nippon-post|japan-post]]-group listed company)
 - **Nippon Life vs Dai-ichi Life**: In FY2024 , net surplus / net income was at almost the same level (Nippon Life 4,354 億円 vs Dai-ichi HD 4,296 億円). Nippon Life still leads in scale at 1 位, but Dai-ichi Life converted to a stock company in 2010  and led in M&A flexibility, while Nippon Life remains a mutual company and rapidly accelerates overseas M&A, making the strategic contrast clear.
 - The **"Nissay auntie" model** resembles Meiji Yasuda and Sumitomo Life, but Nippon Life ranks first by scale.
 
@@ -163,7 +163,7 @@ Nippon Life Insurance Company (mutual company, unlisted)
 
 ## Related
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[dai-ichi-life]] · [[megabanks/nippon-post|japan-post]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[life-insurers/dai-ichi-life]] · [[megabanks/nippon-post|japan-post]]
 - [[insurance/mutual-vs-stock-life-insurer]] · [[insurance/esr-economic-value-solvency]]
 
 ## Sources

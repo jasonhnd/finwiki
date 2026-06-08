@@ -31,7 +31,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## 推論 (from 双日系金融機能の配置)
 
-| **外向けリース** | 専業大手子会社なし、外部リース会社 ([[JapanFG/mizuho-lease|みずほリース]] / [[JapanFG/mitsubishi-hc-capital|三菱HCキャピタル]] / [[JapanFG/tokyo-century|東京センチュリー]] / [[JapanFG/smfl|SMFL]] 等) との取引 ^[inferred] | リース・asset finance |
+| **外向けリース** | 専業大手子会社なし、外部リース会社 ([[leasing-firms/mizuho-lease|みずほリース]] / [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]] / [[leasing-firms/tokyo-century|東京センチュリー]] / [[leasing-firms/smfl|SMFL]] 等) との取引 ^[inferred] | リース・asset finance |
 | **海外金融子会社** | Sojitz (USA) / (Europe) / (Asia) の各 Finance 機能 ^[inferred] | 海外現地通貨資金調達 / treasury |
 
 ## 推論 (from 双日の事業構造と金融機能)
@@ -61,5 +61,5 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 - 双日フィナンス の最新の資本金 / 従業員数 / 取扱高 (双日 有価証券報告書 関係会社一覧で確認可能)
 - 海外子会社向け金融サービスの提供範囲 (ASEAN / 中央アジア / アフリカ の Sojitz 現法 finance 機能との重複)
 - 自動車セグメント (ASEAN・ロシア・中央アジア・中南米のディーラー網) でのサプライヤーファクタリング規模
-- 外部リース会社 (特に [[JapanFG/mizuho-lease|みずほリース]] / [[JapanFG/tokyo-century|東京センチュリー]] / [[JapanFG/mitsubishi-hc-capital|三菱HCキャピタル]]) との取引パターン
+- 外部リース会社 (特に [[leasing-firms/mizuho-lease|みずほリース]] / [[leasing-firms/tokyo-century|東京センチュリー]] / [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]]) との取引パターン
 - 「中堅商社系内部金融子会社」のスケール限界はどこか

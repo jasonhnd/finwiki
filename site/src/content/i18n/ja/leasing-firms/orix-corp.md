@@ -134,7 +134,7 @@ ORIX Corporation（持株機能 + 直接事業、上場 8591 / IX）
 
 ## 関連項目
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[ndfg]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[megabanks/ndfg]]
 - [[leasing-firms/mitsubishi-hc-capital|三菱 HC キャピタル]] · [[leasing-firms/tokyo-century|東京センチュリー]] · [[leasing-firms/fuyo-lease|芙蓉総合リース]] · [[leasing-firms/ntt-tc-lease|NTT・TC リース]]（同業リース）
 
 ## 出典

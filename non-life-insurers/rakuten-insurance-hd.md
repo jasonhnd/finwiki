@@ -23,7 +23,7 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 
 ## TL;DR
 
-楽天インシュアランスホールディングス株式会社は、金融庁の保険持株会社認可一覧に掲載される Rakuten insurance holding company。[[rakuten-life]]、[[rakuten-general-insurance]]、insurance agency / planning functions をまとめる group strategy anchor として扱う。
+楽天インシュアランスホールディングス株式会社は、金融庁の保険持株会社認可一覧に掲載される Rakuten insurance holding company。[[life-insurers/rakuten-life]]、[[non-life-insurers/rakuten-general-insurance]]、insurance agency / planning functions をまとめる group strategy anchor として扱う。
 
 ## 1. License / group boundary
 
@@ -31,8 +31,8 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 |---|---|
 | Legal name | 楽天インシュアランスホールディングス株式会社 |
 | License route | Insurance holding company; FSA insurance holding-company list |
-| Group boundary | Rakuten insurance group under [[rakuten-fg]] adjacency |
-| Core operating pages | [[rakuten-life]], [[rakuten-general-insurance]] |
+| Group boundary | Rakuten insurance group under [[payment-firms/rakuten-fg]] adjacency |
+| Core operating pages | [[life-insurers/rakuten-life]], [[non-life-insurers/rakuten-general-insurance]] |
 | Wiki role | Rakuten insurance ecosystem holding-company page |
 
 ## 2. Operating model
@@ -47,11 +47,11 @@ Rakuten insurance strategy is best understood at the holding-company level: life
 
 ## Related
 
-- [[rakuten-fg]]
-- [[rakuten-life]]
-- [[rakuten-general-insurance]]
-- [[rakuten-card]]
-- [[rakuten-edy]]
+- [[payment-firms/rakuten-fg]]
+- [[life-insurers/rakuten-life]]
+- [[non-life-insurers/rakuten-general-insurance]]
+- [[card-issuers/rakuten-card]]
+- [[payment-firms/rakuten-edy]]
 
 ## Sources
 

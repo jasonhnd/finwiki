@@ -56,44 +56,44 @@
   "body_links": {
     "wikilinks_count": 14,
     "wikilinks": [
-      "aflac-japan",
-      "dai-ichi-life",
       "insurance/INDEX",
       "life-insurers/INDEX",
+      "life-insurers/aflac-japan",
+      "life-insurers/dai-ichi-life",
       "life-insurers/lifenet",
+      "life-insurers/nippon-life",
       "life-insurers/prudential-japan",
       "life-insurers/td-hd",
-      "mizuho-fg",
-      "mufg",
-      "nippon-life",
+      "megabanks/mizuho-fg",
+      "megabanks/mufg",
+      "megabanks/smfg",
       "non-life-insurers/msad",
       "non-life-insurers/sompo",
-      "non-life-insurers/tokio-marine",
-      "smfg"
+      "non-life-insurers/tokio-marine"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/aflac-japan",
-      "https://finwiki.zksc.io/dai-ichi-life",
       "https://finwiki.zksc.io/insurance/INDEX",
       "https://finwiki.zksc.io/life-insurers/INDEX",
+      "https://finwiki.zksc.io/life-insurers/aflac-japan",
+      "https://finwiki.zksc.io/life-insurers/dai-ichi-life",
       "https://finwiki.zksc.io/life-insurers/lifenet",
+      "https://finwiki.zksc.io/life-insurers/nippon-life",
       "https://finwiki.zksc.io/life-insurers/prudential-japan",
       "https://finwiki.zksc.io/life-insurers/td-hd",
-      "https://finwiki.zksc.io/mizuho-fg",
-      "https://finwiki.zksc.io/mufg",
-      "https://finwiki.zksc.io/nippon-life",
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/smfg",
       "https://finwiki.zksc.io/non-life-insurers/msad",
       "https://finwiki.zksc.io/non-life-insurers/sompo",
-      "https://finwiki.zksc.io/non-life-insurers/tokio-marine",
-      "https://finwiki.zksc.io/smfg"
+      "https://finwiki.zksc.io/non-life-insurers/tokio-marine"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4164,
-    "word_like_tokens": 639,
-    "inbound_wikilinks_count": 13,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 4292,
+    "word_like_tokens": 656,
+    "inbound_wikilinks_count": 20,
+    "last_modified": "2026-06-08"
   }
 }

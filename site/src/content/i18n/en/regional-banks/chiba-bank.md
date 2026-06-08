@@ -98,7 +98,7 @@ Strategic functions include shared systems, mutual overseas support, and jointly
 
 ### Standalone-bank strategy
 
-Chiba Bank remains a standalone listed bank while using TSUBASA as a scale substitute. This makes it a useful counterexample to holding-company consolidation models such as [[concordia-fg]], [[fukuoka-fg]], [[hokuhoku-fg]], and [[mebuki-fg]].
+Chiba Bank remains a standalone listed bank while using TSUBASA as a scale substitute. This makes it a useful counterexample to holding-company consolidation models such as [[regional-banks/concordia-fg]], [[regional-banks/fukuoka-fg]], [[regional-banks/hokuhoku-fg]], and [[regional-banks/mebuki-fg]].
 
 ### Market footprint
 
@@ -116,11 +116,11 @@ Chiba Bank remains a standalone listed bank while using TSUBASA as a scale subst
 
 | Competitor | Relationship |
 |---|---|
-| [[concordia-fg|Concordia FG]] | Kanagawa-based regional-bank group and major Greater Tokyo peer |
+| [[regional-banks/concordia-fg|Concordia FG]] | Kanagawa-based regional-bank group and major Greater Tokyo peer |
 | Chiba Kogyo Bank | Second-tier regional-bank competitor within Chiba Prefecture |
 | Keiyo Bank | Second-tier regional-bank competitor within Chiba Prefecture |
 | Musashino Bank | Saitama-based TSUBASA member and neighboring-market competitor |
-| Joyo Bank, under [[mebuki-fg|Mebuki FG]] | Ibaraki-based and eastern Greater Tokyo competitor |
+| Joyo Bank, under [[regional-banks/mebuki-fg|Mebuki FG]] | Ibaraki-based and eastern Greater Tokyo competitor |
 
 ## 4. Regulation and policy
 
@@ -130,7 +130,7 @@ Chiba Bank remains a standalone listed bank while using TSUBASA as a scale subst
 
 ## Related
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[concordia-fg]] · [[fukuoka-fg]] · [[mebuki-fg]] · [[regional-banks/dai-shi-hokuetsu-fg|Daishi Hokuetsu FG]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[regional-banks/concordia-fg]] · [[regional-banks/fukuoka-fg]] · [[regional-banks/mebuki-fg]] · [[regional-banks/dai-shi-hokuetsu-fg|Daishi Hokuetsu FG]]
 - TSUBASA Alliance member banks
 
 ## Sources

@@ -74,8 +74,8 @@ translated_at: 2026-05-31T11:13:44.902Z
 
 ## 有关的
 
-- [[nomura-hd]]·[[securities-firms/daiwa-sg|daiwa-securities-group]]·[[securities-firms/okasan-sg|okasan-securities]]·[[tokai-tokyo-fh]]·[[securities-firms/matsui-sec|matsui-securities]]
-- [[mufg]]·[[smfg]]·[[mizuho-fg]]（与大公司比较）
+- [[securities-firms/nomura-hd]]·[[securities-firms/daiwa-sg|daiwa-securities-group]]·[[securities-firms/okasan-sg|okasan-securities]]·[[securities-firms/tokai-tokyo-fh]]·[[securities-firms/matsui-sec|matsui-securities]]
+- [[megabanks/mufg]]·[[megabanks/smfg]]·[[megabanks/mizuho-fg]]（与大公司比较）
 
 ## 来源
 

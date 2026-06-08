@@ -109,7 +109,7 @@ Seven Bank (listed 8410, , largest shareholder = Seven-Eleven Japan 39.93%)
 ### Competition
 
 - **Aeon Bank**: another representative retail-group bank (Aeon group store network + ATM strategy)
-- **Convenience-store ATMs**: Lawson Bank ([[lawson-bank]]), E-net (FamilyMart line; parent company = [[smfg]] group)
+- **Convenience-store ATMs**: Lawson Bank ([[regional-banks/lawson-bank]]), E-net (FamilyMart line; parent company = [[megabanks/smfg]] group)
 
 ## 4. Regulation / Policy
 
@@ -122,8 +122,8 @@ Seven Bank (listed 8410, , largest shareholder = Seven-Eleven Japan 39.93%)
 
 ## Related
 
-- [[retail/seven-and-i-hd|seven-and-i-hd]] · [[lawson-bank]] · [[aeon-bank]]
-- [[mufg]] · [[smfg]] · [[mizuho-fg]]
+- [[retail/seven-and-i-hd|seven-and-i-hd]] · [[regional-banks/lawson-bank]] · [[card-issuers/aeon-bank]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]
 - [[banking/minna-bank-baas-model]] · [[banking/mercari-bank-license-stack]]
 
 ## Sources

@@ -15,7 +15,7 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it
 
 ## TL;DR
 
-Okasan Securities Group is a mid-sized independent securities holding company listed on TSE PRIME **8609**. Seiichi Kato founded Okasan Shoten in Nagoya in 1923 年, the business incorporated in 1944 , and moved to a holding-company structure in 2009-04 . It occupies an **independent mid-tier position after the 5  major securities houses** ([[ndfg]] Nomura / Daiwa / SMBC Nikko / Mizuho Securities / MUMSS). Its strategy combines a strong face-to-face retail base in the Chukyo economic area, with origins in Nagoya / Mie, and an online securities arm, Okasan Online. Main competitors include Tokai Tokyo FH in the same Chukyo lineage and online players [[monex-group]] / Matsui Securities. ^[extracted]
+Okasan Securities Group is a mid-sized independent securities holding company listed on TSE PRIME **8609**. Seiichi Kato founded Okasan Shoten in Nagoya in 1923 年, the business incorporated in 1944 , and moved to a holding-company structure in 2009-04 . It occupies an **independent mid-tier position after the 5  major securities houses** ([[megabanks/ndfg]] Nomura / Daiwa / SMBC Nikko / Mizuho Securities / MUMSS). Its strategy combines a strong face-to-face retail base in the Chukyo economic area, with origins in Nagoya / Mie, and an online securities arm, Okasan Online. Main competitors include Tokai Tokyo FH in the same Chukyo lineage and online players [[securities-firms/monex-group]] / Matsui Securities. ^[extracted]
 
 ## 1. Company Overview
 
@@ -70,7 +70,7 @@ Okasan Securities Group（listed holding company 8609）
 
 ### Mid-Tier Independent Positioning
 
-- Industry position: **mid-sized independent securities group after the 5  major securities houses** ([[ndfg]] Nomura HD / Daiwa Securities G / SMBC Nikko / Mizuho Securities / Mitsubishi UFJ Morgan Stanley Securities) ^[extracted]
+- Industry position: **mid-sized independent securities group after the 5  major securities houses** ([[megabanks/ndfg]] Nomura HD / Daiwa Securities G / SMBC Nikko / Mizuho Securities / Mitsubishi UFJ Morgan Stanley Securities) ^[extracted]
 - Independence from megabank groups differentiates it from other large-adjacent mid-tier securities firms.
 
 ### Face-to-Face × Online Hybrid Strategy
@@ -83,7 +83,7 @@ Okasan Securities Group（listed holding company 8609）
 ### Main Competitors
 
 - **Matsui Securities** (online brokerage pioneer)
-- **[[monex-group]] Monex Group** (online brokerage / global)
+- **[[securities-firms/monex-group]] Monex Group** (online brokerage / global)
 - **SBI HD** group securities (largest online player)
 
 ## 4. Regulation and Policy
@@ -99,7 +99,7 @@ Okasan Securities Group（listed holding company 8609）
 
 ## Related
 
-- [[ndfg]] · [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[monex-group]]
+- [[megabanks/ndfg]] · [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[securities-firms/monex-group]]
 
 ## Sources
 

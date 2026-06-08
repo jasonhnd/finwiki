@@ -17,7 +17,7 @@ translated_at: 2026-05-31T15:29:03.923Z
 
 ## TL;DR
 
-北國银行株式会社是金融厅银行牌照列表中的石川县地方银行，也是 [[hokkoku-fhd]] 的核心运营银行。[[hokkoku-fhd]] 页面处理控股公司和数字平台战略，本页则聚焦持牌银行实体及其区域贷款业务面。
+北國银行株式会社是金融厅银行牌照列表中的石川县地方银行，也是 [[regional-banks/hokkoku-fhd]] 的核心运营银行。[[regional-banks/hokkoku-fhd]] 页面处理控股公司和数字平台战略，本页则聚焦持牌银行实体及其区域贷款业务面。
 
 ## 1. 牌照与集团边界
 
@@ -25,13 +25,13 @@ translated_at: 2026-05-31T15:29:03.923Z
 |---|---|
 | 法定名称 | 北國银行株式会社 |
 | 牌照路径 | 《银行法》下的地方银行；载于 FSA 银行牌照列表 |
-| 集团边界 | [[hokkoku-fhd]] 的运营银行 |
+| 集团边界 | [[regional-banks/hokkoku-fhd]] 的运营银行 |
 | 本土市场 | 石川县 / 北陆地区 |
 | Wiki 角色 | Hokkoku 集团的银行运营公司页面 |
 
 ## 2. 运营模型
 
-北國银行承担石川县和北陆地区的个人、SME 与地方政府金融，同时也是 [[hokkoku-fhd]] 数字化 / BaaS 平台战略的执行母体。区分控股公司与银行运营公司，有助于避免把 IT 平台战略和银行牌照业务混同。北陆地方银行整合背景见 [[banking/regional-bank-consolidation-pattern]]。
+北國银行承担石川县和北陆地区的个人、SME 与地方政府金融，同时也是 [[regional-banks/hokkoku-fhd]] 数字化 / BaaS 平台战略的执行母体。区分控股公司与银行运营公司，有助于避免把 IT 平台战略和银行牌照业务混同。北陆地方银行整合背景见 [[banking/regional-bank-consolidation-pattern]]。
 
 ## 3. 为什么需要单独页面
 
@@ -41,10 +41,10 @@ translated_at: 2026-05-31T15:29:03.923Z
 
 ## Related
 
-- [[hokkoku-fhd]]
-- [[hokuriku-bank]]
-- [[toyama-bank]]
-- [[toyama-first-bank]]
+- [[regional-banks/hokkoku-fhd]]
+- [[regional-banks/hokuriku-bank]]
+- [[regional-banks/toyama-bank]]
+- [[regional-banks/toyama-first-bank]]
 - [[banking/INDEX]]
 
 ## Sources

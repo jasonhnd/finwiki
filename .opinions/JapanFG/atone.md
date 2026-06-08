@@ -24,15 +24,15 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## Counterpoints
 
-- 「[[JapanFG/paidy|Paidy]] との UX 差別化」: 電話 + メール認証ベースの Paidy に対し、atone は伝統的アカウント登録型。**手軽さ** で見劣りする可能性は議論あり。^[ambiguous]
-- 「親会社の経済圏不在」: PayPal が後ろ盾の Paidy、メルカリ経済圏の [[JapanFG/merpay|メルペイ]] と比べ、Net Protections は独立純粋プレイヤーであり、流通経済圏との一体運営という強みを欠く。^[inferred]
-- 「カード型 (atone カード) と既存カード会社の競合」: Mastercard ブランドで実店舗利用可となった場合、[[JapanFG/credit-saison|Credit Saison]] / [[JapanFG/jaccs|Jaccs]] 等の既存信販と消費者財布の取り合い。^[inferred]
+- 「[[payment-firms/paidy|Paidy]] との UX 差別化」: 電話 + メール認証ベースの Paidy に対し、atone は伝統的アカウント登録型。**手軽さ** で見劣りする可能性は議論あり。^[ambiguous]
+- 「親会社の経済圏不在」: PayPal が後ろ盾の Paidy、メルカリ経済圏の [[payment-firms/merpay|メルペイ]] と比べ、Net Protections は独立純粋プレイヤーであり、流通経済圏との一体運営という強みを欠く。^[inferred]
+- 「カード型 (atone カード) と既存カード会社の競合」: Mastercard ブランドで実店舗利用可となった場合、[[card-issuers/credit-saison|Credit Saison]] / [[card-issuers/jaccs|Jaccs]] 等の既存信販と消費者財布の取り合い。^[inferred]
 
 ## Open questions
 
 - atone と NP 後払いの加盟店重複率と相互送客の効果は?
-- atone カードの発行枚数 / 流通額の最新公表値は ([[JapanFG/net-protections-hd|Net Protections HD]] IR の開示粒度待ち)?
-- [[JapanFG/paidy|Paidy]] と atone の MAU / GMV を直接比較できる公開資料は存在するか?
+- atone カードの発行枚数 / 流通額の最新公表値は ([[payment-firms/net-protections-hd|Net Protections HD]] IR の開示粒度待ち)?
+- [[payment-firms/paidy|Paidy]] と atone の MAU / GMV を直接比較できる公開資料は存在するか?
 
 <!-- ambiguous 整理 (2026-05-29) -->
 

@@ -54,10 +54,10 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 ## Related
 
 - [[regional-banks/INDEX|regional-banks INDEX]]
-- [[fukuoka-bank]]
-- [[18-shinwa-bank]]
-- [[nishi-nippon-city-bank]]
-- [[oita-bank]]
+- [[regional-banks/fukuoka-bank]]
+- [[regional-banks/18-shinwa-bank]]
+- [[regional-banks/nishi-nippon-city-bank]]
+- [[regional-banks/oita-bank]]
 - [[financial-regulators/fsa|FSA]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]

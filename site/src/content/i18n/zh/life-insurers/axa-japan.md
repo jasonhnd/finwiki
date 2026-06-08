@@ -67,7 +67,7 @@ AXA SA（法国巴黎）
 
 ### 定位
 
-- **混合渠道策略**：日本主要公司（[[dai-ichi-life]]/[[nippon-life]]/ 住友生命保险公司 / 明治安田生命保险公司）以销售人员为主，专门从事互联网服务（[[life-insurers/lifenet|lifenet-insurance]]）只有一个在线业务，而 AXA 有**销售人员+银行柜台销售+网上直销**。3 渠道共存
+- **混合渠道策略**：日本主要公司（[[life-insurers/dai-ichi-life]]/[[life-insurers/nippon-life]]/ 住友生命保险公司 / 明治安田生命保险公司）以销售人员为主，专门从事互联网服务（[[life-insurers/lifenet|lifenet-insurance]]）只有一个在线业务，而 AXA 有**销售人员+银行柜台销售+网上直销**。3 渠道共存
 - **非人寿保险直接在线销售**：[[non-life-insurers/tokio-marine|tokio-marine-hd]]/[[non-life-insurers/sompo|sompo-hd]]/[[non-life-insurers/msad|ms-and-ad-insurance]]国内经销商渠道3 与大型非人寿保险不同，“直接非人寿保险”部分与 Sony Assurance、Secom Assurance 和 SBI Assurance 相同
 
 ### 全球杠杆
@@ -79,11 +79,11 @@ AXA SA（法国巴黎）
 
 | 冲突类型 | 主要竞合 |
 |---|---|
-| 销售人员渠道 | [[dai-ichi-life]]/ 日本生命保险公司 / 住友生命保险公司 / 明治安田生命保险公司 / 英国保德信人寿保险公司 |
+| 销售人员渠道 | [[life-insurers/dai-ichi-life]]/ 日本生命保险公司 / 住友生命保险公司 / 明治安田生命保险公司 / 英国保德信人寿保险公司 |
 | 银行销售 | 大都会人寿 / 宏利人寿 / 第一前沿人寿 /[[life-insurers/td-hd|t&d-holdings]]系统 |
 | 网上直销人寿保险 | [[life-insurers/lifenet|lifenet-insurance]]/ SBI 人寿 / 欧力士人寿 |
 | 网上直销非寿险 | Sony Assurance / Secom Assurance / SBI Assurance / E-Design Assurance (Tokio Marine)|
-| 国外保费 | 保诚保险 / 大都会人寿 / 宏利 /[[aflac-japan]] |
+| 国外保费 | 保诚保险 / 大都会人寿 / 宏利 /[[life-insurers/aflac-japan]] |
 
 ## 4。法规政策
 
@@ -96,9 +96,9 @@ AXA SA（法国巴黎）
 
 ## 有关的
 
-- [[dai-ichi-life]]·[[nippon-life]]·[[aflac-japan]]·[[life-insurers/lifenet|lifenet-insurance]]·[[life-insurers/td-hd|t&d-holdings]]
+- [[life-insurers/dai-ichi-life]]·[[life-insurers/nippon-life]]·[[life-insurers/aflac-japan]]·[[life-insurers/lifenet|lifenet-insurance]]·[[life-insurers/td-hd|t&d-holdings]]
 - [[non-life-insurers/tokio-marine|tokio-marine-hd]]·[[non-life-insurers/sompo|sompo-hd]]·[[non-life-insurers/msad|ms-and-ad-insurance]]
-- [[mufg]]·[[smfg]]·[[mizuho-fg]]（银行销售合作伙伴）
+- [[megabanks/mufg]]·[[megabanks/smfg]]·[[megabanks/mizuho-fg]]（银行销售合作伙伴）
 
 ## 来源
 

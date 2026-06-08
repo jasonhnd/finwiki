@@ -68,7 +68,7 @@
     "wikilinks_count": 31,
     "wikilinks": [
       "INDEX",
-      "JapanFG/rakuten-bank",
+      "banking/rakuten-bank",
       "card-issuers/paypay-card",
       "financial-conglomerates/mitsubishi-corp",
       "loyalty/INDEX",
@@ -101,7 +101,7 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/rakuten-bank",
+      "https://finwiki.zksc.io/banking/rakuten-bank",
       "https://finwiki.zksc.io/card-issuers/paypay-card",
       "https://finwiki.zksc.io/financial-conglomerates/mitsubishi-corp",
       "https://finwiki.zksc.io/loyalty/INDEX",
@@ -139,6 +139,6 @@
     "nonspace_chars": 16703,
     "word_like_tokens": 2885,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-08"
   }
 }

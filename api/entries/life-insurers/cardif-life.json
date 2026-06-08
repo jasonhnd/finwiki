@@ -51,32 +51,32 @@
   "body_links": {
     "wikilinks_count": 8,
     "wikilinks": [
-      "bnp-paribas-japan",
-      "dai-ichi-frontier-life",
       "financial-licenses/INDEX",
+      "foreign-financial-institutions/bnp-paribas-japan",
       "insurance/INDEX",
       "insurance/life-insurance-channel-mix",
       "life-insurers/INDEX",
       "life-insurers/credit-agricole-life",
-      "td-financial-life"
+      "life-insurers/dai-ichi-frontier-life",
+      "life-insurers/td-financial-life"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/bnp-paribas-japan",
-      "https://finwiki.zksc.io/dai-ichi-frontier-life",
       "https://finwiki.zksc.io/financial-licenses/INDEX",
+      "https://finwiki.zksc.io/foreign-financial-institutions/bnp-paribas-japan",
       "https://finwiki.zksc.io/insurance/INDEX",
       "https://finwiki.zksc.io/insurance/life-insurance-channel-mix",
       "https://finwiki.zksc.io/life-insurers/INDEX",
       "https://finwiki.zksc.io/life-insurers/credit-agricole-life",
-      "https://finwiki.zksc.io/td-financial-life"
+      "https://finwiki.zksc.io/life-insurers/dai-ichi-frontier-life",
+      "https://finwiki.zksc.io/life-insurers/td-financial-life"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2145,
-    "word_like_tokens": 333,
+    "nonspace_chars": 2266,
+    "word_like_tokens": 346,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-06-06"
+    "last_modified": "2026-06-08"
   }
 }

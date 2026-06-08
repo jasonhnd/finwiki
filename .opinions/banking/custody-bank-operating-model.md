@@ -40,7 +40,7 @@ This sub-custody dependency means CBJ's foreign-asset processing economics are l
 
 ## 推論 (from ST / tokenized securities)
 
-CBJ's role in 信託受益権-based tokenized securities issued via [[JapanFG/progmat|Progmat]] or other ST platforms is still emerging. Its 信託業法 base supports underlying 受託銀行 ops for 信託受益権 structures, but settlement integration with non-JASDEC ledgers remains an open architectural question. ^[inferred]
+CBJ's role in 信託受益権-based tokenized securities issued via [[payment-firms/progmat|Progmat]] or other ST platforms is still emerging. Its 信託業法 base supports underlying 受託銀行 ops for 信託受益権 structures, but settlement integration with non-JASDEC ledgers remains an open architectural question. ^[inferred]
 
 ## Counterpoints
 
@@ -57,6 +57,6 @@ CBJ's role in 信託受益権-based tokenized securities issued via [[JapanFG/pr
 - What was the 2020-07 merger's actual IT cost recovery and headcount synergy outcome?
 - Will CBJ and MTBJ eventually merge into a single national custody utility, or will the two-pole structure remain stabilized by shareholder politics?
 - What is CBJ's post-2027 T+1 settlement-readiness roadmap?
-- How will CBJ's role evolve for tokenized securities under [[JapanFG/progmat|Progmat]] and similar 信託受益権 ST platforms?
+- How will CBJ's role evolve for tokenized securities under [[payment-firms/progmat|Progmat]] and similar 信託受益権 ST platforms?
 - Will Daiwa Securities-affiliated shareholders' stake change with future Daiwa-side trust-business restructuring?
 - How does CBJ's per-bp fee economics compare to MTBJ at GPIF scale? Both remain silent.

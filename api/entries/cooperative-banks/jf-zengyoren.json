@@ -57,7 +57,7 @@
     "漁業改革と漁協存在意義"
   ],
   "body_links": {
-    "wikilinks_count": 11,
+    "wikilinks_count": 9,
     "wikilinks": [
       "banking/cooperative-banking-japan",
       "banking/ja-bank-system-japan",
@@ -67,9 +67,7 @@
       "cooperative-banks/ja-zenchu",
       "cooperative-banks/jf-shingyoren",
       "cooperative-banks/norinchukin",
-      "jf-shingyoren",
-      "non-life-insurers/ja-kyosairen",
-      "norinchukin"
+      "non-life-insurers/ja-kyosairen"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/banking/cooperative-banking-japan",
@@ -80,17 +78,15 @@
       "https://finwiki.zksc.io/cooperative-banks/ja-zenchu",
       "https://finwiki.zksc.io/cooperative-banks/jf-shingyoren",
       "https://finwiki.zksc.io/cooperative-banks/norinchukin",
-      "https://finwiki.zksc.io/jf-shingyoren",
-      "https://finwiki.zksc.io/non-life-insurers/ja-kyosairen",
-      "https://finwiki.zksc.io/norinchukin"
+      "https://finwiki.zksc.io/non-life-insurers/ja-kyosairen"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5774,
-    "word_like_tokens": 911,
+    "nonspace_chars": 5810,
+    "word_like_tokens": 915,
     "inbound_wikilinks_count": 9,
-    "last_modified": "2026-06-06"
+    "last_modified": "2026-06-08"
   }
 }

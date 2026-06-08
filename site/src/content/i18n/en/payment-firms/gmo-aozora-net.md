@@ -16,7 +16,7 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it again
 
 ## TL;DR
 
-**Corporate specialized BaaS (Banking as a Service) based internet bank**. Based on the former **Aozora Trust Bank** ([[aozora-bank]] subsidiary), 2018 - 07  **GMO Internet Group** acquired the majority of voting rights and changed its name to become an online bank. After the reorganization of class shares, the shareholder composition will be **Common stock (shareholding) ratio: Aozora Bank 50.00% / GMO Internet Group 25.00% / GMO Financial Holdings 25.00%**, **Voting rights ratio: Aozora Bank 85.12% / GMO each 7.43% **( 2026-02-20 At the time, part of Aozora's holdings were classified shares with restricted voting rights, so there was a discrepancy between the shareholding ratio and the voting rights ratio. **Unlike Rakuten Bank, PayPay Bank, and SBI Sumishin Internet Banks, which focus on individuals, we focus on corporate accounts + API linkage for freelancers, startups, and fintech.** Representative services are "**Anshin Wide**" (business loans for corporations) and "**Bank API for Developers**". The company is building its position through strategic alliances with fintech companies such as freee, Money Forward, Square, and Stripe. ^[extracted]
+**Corporate specialized BaaS (Banking as a Service) based internet bank**. Based on the former **Aozora Trust Bank** ([[regional-banks/aozora-bank]] subsidiary), 2018 - 07  **GMO Internet Group** acquired the majority of voting rights and changed its name to become an online bank. After the reorganization of class shares, the shareholder composition will be **Common stock (shareholding) ratio: Aozora Bank 50.00% / GMO Internet Group 25.00% / GMO Financial Holdings 25.00%**, **Voting rights ratio: Aozora Bank 85.12% / GMO each 7.43% **( 2026-02-20 At the time, part of Aozora's holdings were classified shares with restricted voting rights, so there was a discrepancy between the shareholding ratio and the voting rights ratio. **Unlike Rakuten Bank, PayPay Bank, and SBI Sumishin Internet Banks, which focus on individuals, we focus on corporate accounts + API linkage for freelancers, startups, and fintech.** Representative services are "**Anshin Wide**" (business loans for corporations) and "**Bank API for Developers**". The company is building its position through strategic alliances with fintech companies such as freee, Money Forward, Square, and Stripe. ^[extracted]
 
 ## 1. Company profile
 
@@ -31,7 +31,7 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it again
 
 | Shareholders | Shareholding ratio | Voting rights ratio |
 |---|---|---|
-| [[aozora-bank]] (TSE PRIME 8304 ) | 50.00% | 85.12% |
+| [[regional-banks/aozora-bank]] (TSE PRIME 8304 ) | 50.00% | 85.12% |
 | GMO Internet Group (TSE PRIME 9449 ) | 25.00% | 7.43% |
 | GMO Financial Holdings | 25.00% | 7.43% |
 
@@ -47,7 +47,7 @@ GMO Internet Group (TSE PRIME 9449; Masatoshi Kumagai)
   +-- GMO Click Securities -- online securities and FX
   +-- GMO Cloud / GMO Pepabo -- infrastructure and hosting
   +-- GMO Research / GMO Ad Partners -- advertising and research
-[[aozora-bank]]（東証 PRIME 8304）
+[[regional-banks/aozora-bank]]（東証 PRIME 8304）
   +-- GMO Aozora Net Bank (50% shareholding, 85.12% voting rights, mainly class shares) -- largest shareholder
 ```
 
@@ -55,7 +55,7 @@ GMO Internet Group (TSE PRIME 9449; Masatoshi Kumagai)
 
 | Month | Event |
 |---|---|
-| 2004 - 04  | **Aozora Trust Bank** Opening ([[aozora-bank]] 100% Subsidiary, mainly trust business) |
+| 2004 - 04  | **Aozora Trust Bank** Opening ([[regional-banks/aozora-bank]] 100% Subsidiary, mainly trust business) |
 | 2016 - 05  | GMO Internet invests 15% in Aozora Trust Bank → Preparation for joint venture to convert to online banking |
 | 2018 - 07  | **GMO majority ownership → GMO Aozora Net Bank renamed and begins operations** (individual/corporate account opening begins) |
 | 2019 ~ | Corporate fintech linked accounts are the axis of growth. freee / Expanding API collaboration with Money Forward, etc. |
@@ -72,7 +72,7 @@ GMO Internet Group (TSE PRIME 9449; Masatoshi Kumagai)
 | API / BaaS | **Bank API for Developers** | For corporations/fintech (open API for balance inquiries, transfers, account opening, etc.) |
 | Partner collaboration | freee / Money Forward / Square / Stripe / Wise, etc. | Accounts directly linked to accounting/payment SaaS |
 | Personal account | For freelancers and side businesses | Avoid direct competition with personal-specific net banks (Rakuten / PayPay / Sumishin SBI, etc.) |
-| Crypto asset collaboration | [[gmo-coin]] (sister company) | Synergy within the GMO group |
+| Crypto asset collaboration | [[payment-firms/gmo-coin]] (sister company) | Synergy within the GMO group |
 | Payment linkage | GMO Payment Gateway (sister company/TSE PRIME 3769) | Payment processing/merchant data linkage |
 
 ### Differentiation of corporate BaaS axis
@@ -83,7 +83,7 @@ GMO Internet Group (TSE PRIME 9449; Masatoshi Kumagai)
 
 ### Synergy with parent GMO
 
-- **GMO Payment Gateway** (payment) / ** [[gmo-coin]] ** (crypto assets) / **GMO Click Securities** (securities/FX) and mutual referral
+- **GMO Payment Gateway** (payment) / ** [[payment-firms/gmo-coin]] ** (crypto assets) / **GMO Click Securities** (securities/FX) and mutual referral
 - Banking layer of the entire GMO Group's "**Internet Financial Economic Zone**" (payments + securities + crypto assets + banks)
 - Although it is small compared to the economic zone of Rakuten, PayPay, and SBI, it is a position that is clearly aimed at the corporate/freelance class.
 
@@ -102,13 +102,13 @@ GMO Internet Group (TSE PRIME 9449; Masatoshi Kumagai)
 - **Business type**: Bank under the Banking Act (ordinary bank)
 - **Deposit insurance**: Participated in Deposit Insurance Corporation
 - **API Regulation**: Obligation to provide Open API based on the Banking Act Amendment (2017) → “Bank API for Developers” is a systematic extension of this
-- **Connection with funds transfer industry/virtual currency industry**: Integration of multi-business licenses is an issue in collaboration with [[gmo-coin]] within the GMO Group and GMO Payment Gateway
+- **Connection with funds transfer industry/virtual currency industry**: Integration of multi-business licenses is an issue in collaboration with [[payment-firms/gmo-coin]] within the GMO Group and GMO Payment Gateway
 - **Money laundering regulations**: Stricter identification/substantive controller verification for opening corporate accounts (2023 ~ FATF 4 st screening compatible)
 
 ## Related
 
-- [[aozora-bank]] (Former parent company/current ~ 15% shareholder)
-- [[gmo-coin]] (Sister company/Crypto assets)
+- [[regional-banks/aozora-bank]] (Former parent company/current ~ 15% shareholder)
+- [[payment-firms/gmo-coin]] (Sister company/Crypto assets)
 - [[regional-banks/ssnb|sbi-sumishin-net]] (Sumishin SBI Internet Bank/Competitor BaaS)
 - [[banking/paypay-bank|paypay-bank]] · [[banking/rakuten-bank|rakuten-bank]] · [[banking/au-jibun-bank|au-jibun-bank]] (Personal online bank/separate battlefield)
 - [[banking/minna-bank-baas-model|minna-bank]] · [[banking/mercari-bank|mercari-bank]] (New BaaS/digital bank from regional banks/competitor)

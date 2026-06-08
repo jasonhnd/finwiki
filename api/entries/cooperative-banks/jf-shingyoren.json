@@ -58,7 +58,7 @@
     "JF Marine Bank system 内の位置付け"
   ],
   "body_links": {
-    "wikilinks_count": 13,
+    "wikilinks_count": 12,
     "wikilinks": [
       "banking/cooperative-banking-japan",
       "banking/ja-bank-system-japan",
@@ -71,8 +71,7 @@
       "cooperative-banks/norinchukin",
       "cooperative-banks/rokin-renraku",
       "cooperative-banks/shinkin-central",
-      "cooperative-banks/zenshin-kumi",
-      "norinchukin"
+      "cooperative-banks/zenshin-kumi"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/banking/cooperative-banking-japan",
@@ -86,16 +85,15 @@
       "https://finwiki.zksc.io/cooperative-banks/norinchukin",
       "https://finwiki.zksc.io/cooperative-banks/rokin-renraku",
       "https://finwiki.zksc.io/cooperative-banks/shinkin-central",
-      "https://finwiki.zksc.io/cooperative-banks/zenshin-kumi",
-      "https://finwiki.zksc.io/norinchukin"
+      "https://finwiki.zksc.io/cooperative-banks/zenshin-kumi"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5266,
-    "word_like_tokens": 856,
+    "nonspace_chars": 5284,
+    "word_like_tokens": 858,
     "inbound_wikilinks_count": 10,
-    "last_modified": "2026-06-06"
+    "last_modified": "2026-06-08"
   }
 }

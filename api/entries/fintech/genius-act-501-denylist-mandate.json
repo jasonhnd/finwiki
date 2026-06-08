@@ -57,7 +57,7 @@
       "fintech/japan-financial-regulation",
       "fintech/japan-stablecoin-regulatory-landscape",
       "fintech/onchain-finance-vs-crypto-bifurcation",
-      "stablecoin-chain-sovereign-currency-divide"
+      "fintech/stablecoin-chain-sovereign-currency-divide"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
@@ -71,15 +71,15 @@
       "https://finwiki.zksc.io/fintech/japan-financial-regulation",
       "https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape",
       "https://finwiki.zksc.io/fintech/onchain-finance-vs-crypto-bifurcation",
-      "https://finwiki.zksc.io/stablecoin-chain-sovereign-currency-divide"
+      "https://finwiki.zksc.io/fintech/stablecoin-chain-sovereign-currency-divide"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3372,
-    "word_like_tokens": 522,
-    "inbound_wikilinks_count": 73,
-    "last_modified": "2026-05-26"
+    "nonspace_chars": 3380,
+    "word_like_tokens": 523,
+    "inbound_wikilinks_count": 74,
+    "last_modified": "2026-06-08"
   }
 }

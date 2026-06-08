@@ -49,44 +49,40 @@
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 13,
+    "wikilinks_count": 11,
     "wikilinks": [
-      "18-shinwa-bank",
       "INDEX",
       "banking/INDEX",
       "banking/regional-bank-consolidation-pattern",
-      "chikuho-bank",
       "financial-regulators/fsa",
       "financial-regulators/zenginkyo",
-      "fukuoka-fg",
-      "kitakyushu-bank",
-      "nishi-nippon-city-bank",
+      "regional-banks/18-shinwa-bank",
       "regional-banks/INDEX",
+      "regional-banks/chikuho-bank",
       "regional-banks/fukuoka-fg",
+      "regional-banks/kitakyushu-bank",
       "regional-banks/nishi-nippon-city-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/18-shinwa-bank",
       "https://finwiki.zksc.io/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
-      "https://finwiki.zksc.io/chikuho-bank",
       "https://finwiki.zksc.io/financial-regulators/fsa",
       "https://finwiki.zksc.io/financial-regulators/zenginkyo",
-      "https://finwiki.zksc.io/fukuoka-fg",
-      "https://finwiki.zksc.io/kitakyushu-bank",
-      "https://finwiki.zksc.io/nishi-nippon-city-bank",
+      "https://finwiki.zksc.io/regional-banks/18-shinwa-bank",
       "https://finwiki.zksc.io/regional-banks/INDEX",
+      "https://finwiki.zksc.io/regional-banks/chikuho-bank",
       "https://finwiki.zksc.io/regional-banks/fukuoka-fg",
+      "https://finwiki.zksc.io/regional-banks/kitakyushu-bank",
       "https://finwiki.zksc.io/regional-banks/nishi-nippon-city-bank"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2970,
-    "word_like_tokens": 425,
-    "inbound_wikilinks_count": 14,
-    "last_modified": "2026-06-05"
+    "nonspace_chars": 3120,
+    "word_like_tokens": 445,
+    "inbound_wikilinks_count": 22,
+    "last_modified": "2026-06-08"
   }
 }

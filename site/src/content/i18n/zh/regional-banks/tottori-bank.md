@@ -15,7 +15,7 @@ translated_at: 2026-06-01T02:31:57.178Z
 
 ## TL;DR
 
-株式会社鸟取银行是总部位于鸟取县、列入金融厅银行牌照名单的地方银行。作为总部设在鸟取县的 standalone regional-bank operating company，它与 [[san-in-godo-bank]] 之间具有山阴市场同业边界。
+株式会社鸟取银行是总部位于鸟取县、列入金融厅银行牌照名单的地方银行。作为总部设在鸟取县的 standalone regional-bank operating company，它与 [[regional-banks/san-in-godo-bank]] 之间具有山阴市场同业边界。
 
 ## 1. 牌照 / 集团边界
 
@@ -28,19 +28,19 @@ translated_at: 2026-06-01T02:31:57.178Z
 
 ## 2. 运营模式
 
-鸟取银行覆盖鸟取县内的零售存款、中小企业融资、地方政府关系以及区域住户 / 企业金融。山阴地方银行轴可与 [[san-in-godo-bank]] 比较，更广泛的整合压力模式参见 [[banking/regional-bank-consolidation-pattern]]。
+鸟取银行覆盖鸟取县内的零售存款、中小企业融资、地方政府关系以及区域住户 / 企业金融。山阴地方银行轴可与 [[regional-banks/san-in-godo-bank]] 比较，更广泛的整合压力模式参见 [[banking/regional-bank-consolidation-pattern]]。
 
 ## 3. 为什么本页重要
 
 - 增加鸟取银行精确名称的运营公司页面。
-- 与 [[san-in-godo-bank]] 一起提供山阴地方银行同业锚点。
+- 与 [[regional-banks/san-in-godo-bank]] 一起提供山阴地方银行同业锚点。
 - 补齐 JapanFG 中 FSA 银行牌照名单的一行。
 
 ## Related
 
-- [[san-in-godo-bank]]
-- [[chugoku-bank]]
-- [[hiroshima-bank]]
+- [[regional-banks/san-in-godo-bank]]
+- [[regional-banks/chugoku-bank]]
+- [[regional-banks/hiroshima-bank]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 

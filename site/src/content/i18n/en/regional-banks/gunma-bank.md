@@ -31,7 +31,7 @@ A regional bank based in Gunma Prefecture (TSE PRIME 8334). **1932 -09 Establish
 
 ### Issues with not becoming a holding company
 
-Megabank3 行・While leading regional banks ([[mebuki-fg]] /[[concordia-fg]]/ [[fukuoka-fg]], etc.) are converting into holding companies, **Gunma Bank maintains its standalone banking system**. this is:
+Megabank3 行・While leading regional banks ([[regional-banks/mebuki-fg]] /[[regional-banks/concordia-fg]]/ [[regional-banks/fukuoka-fg]], etc.) are converting into holding companies, **Gunma Bank maintains its standalone banking system**. this is:
 - Small business diversification benefits of holding company with regional focus and single prefecture base
 - Subsidiaries (lease, card, consulting) can be fully managed as a subsidiary directly under the bank.
 - No merger/management integration partner (only PRIME regional bank in the prefecture)
@@ -101,11 +101,11 @@ Benefits of joining Gunma Bank:
 
 | Competition | Features |
 |---|---|
-| **[[towa-bank]]** Towa Bank | Gunma Prefecture No.2 Regional bank, Maebashi City main branch, independent banking system, Gunma Bank's biggest competitor in the prefecture |
+| **[[regional-banks/towa-bank]]** Towa Bank | Gunma Prefecture No.2 Regional bank, Maebashi City main branch, independent banking system, Gunma Bank's biggest competitor in the prefecture |
 | **Gunmamirai Credit Union** | Credit union (2012 -11 Kamitsuke Credit Union + Higashi Gunma Credit Union merged, Takasaki City main branch), small-lot, community-based |
-| **[[mebuki-fg]]Ashikaga Bank** | Base in Tochigi Prefecture, but business competition in eastern Gunma/northern Saitama, Mebuki FG holding company structure |
+| **[[regional-banks/mebuki-fg]]Ashikaga Bank** | Base in Tochigi Prefecture, but business competition in eastern Gunma/northern Saitama, Mebuki FG holding company structure |
 | **Musashino Bank** | Based in Saitama Prefecture, competing with Gunma Bank's expansion into northern Saitama |
-| **Mega3 行** | Competing with[[mufg]]/[[smfg]]/[[mizuho-fg]]for large corporations and listed companies |
+| **Mega3 行** | Competing with[[megabanks/mufg]]/[[megabanks/smfg]]/[[megabanks/mizuho-fg]]for large corporations and listed companies |
 
 ## 4 . Regulation/Policy
 
@@ -120,7 +120,7 @@ Benefits of joining Gunma Bank:
 
 ## Related
 
-- [[towa-bank]] ·[[mebuki-fg]]·[[mufg]]·[[smfg]]· [[mizuho-fg]]
+- [[regional-banks/towa-bank]] ·[[regional-banks/mebuki-fg]]·[[megabanks/mufg]]·[[megabanks/smfg]]· [[megabanks/mizuho-fg]]
 - TSUBASA Alliance: Chiba Bank / Daishi Hokuetsu Bank / Bank of China / Iyo Bank / Toho Bank, etc.
 
 ## Sources

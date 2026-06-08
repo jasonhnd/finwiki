@@ -120,7 +120,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 ### 競合関係
 
 - **イオン銀行**: 流通系銀行のもう一つの代表（イオングループの店舗網 + ATM 戦略）
-- **コンビニ系 ATM**: ローソン銀行（[[lawson-bank]]）、E-net（ファミリーマート系・親会社=[[smfg]] グループ）
+- **コンビニ系 ATM**: ローソン銀行（[[regional-banks/lawson-bank]]）、E-net（ファミリーマート系・親会社=[[megabanks/smfg]] グループ）
 
 ## 4. 規制・政策
 
@@ -133,8 +133,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## Related
 
-- [[retail/seven-and-i-hd|seven-and-i-hd]] · [[lawson-bank]] · [[aeon-bank]]
-- [[mufg]] · [[smfg]] · [[mizuho-fg]]
+- [[retail/seven-and-i-hd|seven-and-i-hd]] · [[regional-banks/lawson-bank]] · [[card-issuers/aeon-bank]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]
 - [[banking/minna-bank-baas-model]] · [[banking/mercari-bank-license-stack]]
 
 ## Sources

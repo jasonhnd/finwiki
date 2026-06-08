@@ -46,7 +46,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 ## Counterpoints
 
 - 「単独路線の限界論」: 人口減・IT 投資負担増の中で持株会社化や広域統合を選ばない選択の合理性 vs 規模の経済論 ^[inferred]
-- 「東北 No.1 だが全国比では中堅地銀」: 総資産で見ると [[chiba-bank]]・[[JapanFG/shizuoka-fg|shizuoka-bank]] 等の関東・東海地銀大手と比較すれば中位レンジ ^[ambiguous]
+- 「東北 No.1 だが全国比では中堅地銀」: 総資産で見ると [[regional-banks/chiba-bank]]・[[regional-banks/shizuoka-fg|shizuoka-bank]] 等の関東・東海地銀大手と比較すれば中位レンジ ^[ambiguous]
 - 「震災復興融資の出口戦略」: 復興期から人口減フェーズへの移行で、貸出ポートフォリオのリスク再配分が課題 ^[inferred]
 - 「TSUBASA アライアンス参加の有無」: 公式情報を要確認、参加していれば広域システム共同化で効率化 ^[ambiguous]
 
@@ -56,7 +56,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 - 持株会社化の戦略的検討状況（している/していない/将来 option）
 - TSUBASA アライアンス・地銀共同化センターへの参加状況
 - 海外駐在員事務所の現時点ラインナップ
-- 仙台銀（[[jimoto-hd]] 傘下）との宮城県内シェア構図の詳細
+- 仙台銀（[[regional-banks/jimoto-hd]] 傘下）との宮城県内シェア構図の詳細
 - 系列子会社の正確な現時点ラインナップ
 - 中期経営計画の具体目標値（ROE / 経費率 / 与信費用率）
 

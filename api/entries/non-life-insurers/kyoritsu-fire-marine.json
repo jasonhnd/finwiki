@@ -47,34 +47,32 @@
     "地域特性 ^[extracted]"
   ],
   "body_links": {
-    "wikilinks_count": 8,
+    "wikilinks_count": 7,
     "wikilinks": [
-      "axa-japan",
       "banking/INDEX",
-      "kampo-life",
-      "msad",
+      "life-insurers/axa-japan",
+      "life-insurers/kampo-life",
       "non-life-insurers/INDEX",
+      "non-life-insurers/msad",
       "non-life-insurers/sompo",
-      "sompo",
-      "tokio-marine"
+      "non-life-insurers/tokio-marine"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/axa-japan",
       "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/kampo-life",
-      "https://finwiki.zksc.io/msad",
+      "https://finwiki.zksc.io/life-insurers/axa-japan",
+      "https://finwiki.zksc.io/life-insurers/kampo-life",
       "https://finwiki.zksc.io/non-life-insurers/INDEX",
+      "https://finwiki.zksc.io/non-life-insurers/msad",
       "https://finwiki.zksc.io/non-life-insurers/sompo",
-      "https://finwiki.zksc.io/sompo",
-      "https://finwiki.zksc.io/tokio-marine"
+      "https://finwiki.zksc.io/non-life-insurers/tokio-marine"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3991,
-    "word_like_tokens": 640,
-    "inbound_wikilinks_count": 9,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 4199,
+    "word_like_tokens": 674,
+    "inbound_wikilinks_count": 10,
+    "last_modified": "2026-06-08"
   }
 }

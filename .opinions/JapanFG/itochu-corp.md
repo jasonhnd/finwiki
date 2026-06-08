@@ -12,22 +12,22 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## 推論 (from TL;DR)
 
-伊藤忠商事 (東証 PRIME **8001**) は **5 大総合商社の一角**、非資源 (繊維・食品・ICT・生活産業) 比率が 5 大商社の中で最も高い「**生活産業商社**」。**ファミリーマート (FamilyMart) 完全子会社化 (2020 年 TOB → 100% 化)** によるコンビニリテール統合、**CITIC (中国中信集団) との戦略提携 (2015 年〜)**、**Dole Food (米国 青果世界最大級)** など特色ある投資戦略で知られる。JapanFG 文脈での重要性は (i) [[JapanFG/itochu-finance|伊藤忠ファイナンス]] (内向け CMS)、(ii) **[[JapanFG/tokyo-century|東京センチュリー]] への約 25% 級戦略的持分** (3 大リースの一角、旧 東京リース、みずほ系 + 伊藤忠 2 軸株主構造)、(iii) **ファミマ経由のリテール金融プラットフォーム** (ファミペイ・ファミマ ATM 等) にある。^[inferred]
+伊藤忠商事 (東証 PRIME **8001**) は **5 大総合商社の一角**、非資源 (繊維・食品・ICT・生活産業) 比率が 5 大商社の中で最も高い「**生活産業商社**」。**ファミリーマート (FamilyMart) 完全子会社化 (2020 年 TOB → 100% 化)** によるコンビニリテール統合、**CITIC (中国中信集団) との戦略提携 (2015 年〜)**、**Dole Food (米国 青果世界最大級)** など特色ある投資戦略で知られる。JapanFG 文脈での重要性は (i) [[trading-company-finance/itochu-finance|伊藤忠ファイナンス]] (内向け CMS)、(ii) **[[leasing-firms/tokyo-century|東京センチュリー]] への約 25% 級戦略的持分** (3 大リースの一角、旧 東京リース、みずほ系 + 伊藤忠 2 軸株主構造)、(iii) **ファミマ経由のリテール金融プラットフォーム** (ファミペイ・ファミマ ATM 等) にある。^[inferred]
 
 ## 推論 (from 1. 会社概要)
 
-| FY 連結収益規模 (約) | 連結純利益 8,000〜9,000 億円〜1 兆円級、純利益で [[JapanFG/mitsubishi-corp|三菱商事]] / [[JapanFG/mitsui-co|三井物産]] と Top 3 を毎年競う ^[inferred] |
+| FY 連結収益規模 (約) | 連結純利益 8,000〜9,000 億円〜1 兆円級、純利益で [[financial-conglomerates/mitsubishi-corp|三菱商事]] / [[financial-conglomerates/mitsui-co|三井物産]] と Top 3 を毎年競う ^[inferred] |
 | 格付 | A 格上位 (S&P / Moody's / R&I) ^[inferred] |
 
 ## 推論 (from 3. Financial-services adjacency)
 
-- **[[JapanFG/mizuho-fg|みずほ FG]]** — [[JapanFG/tokyo-century|東京センチュリー]] を介した 2 軸株主関係。みずほは旧 第一勧業銀行系の系譜で、東京センチュリーの大株主としての歴史的経緯あり ^[inferred]
-- **[[JapanFG/famima-digital-one|ファミマ]] 関連**: ファミペイ (キャッシュレス決済)、ファミマ ATM、保険販売、年金窓販 ([[JapanFG/famima-digital-one]] のリテール金融プラットフォーム機能) ^[inferred]
+- **[[megabanks/mizuho-fg|みずほ FG]]** — [[leasing-firms/tokyo-century|東京センチュリー]] を介した 2 軸株主関係。みずほは旧 第一勧業銀行系の系譜で、東京センチュリーの大株主としての歴史的経緯あり ^[inferred]
+- **[[payment-firms/famima-digital-one|ファミマ]] 関連**: ファミペイ (キャッシュレス決済)、ファミマ ATM、保険販売、年金窓販 ([[payment-firms/famima-digital-one]] のリテール金融プラットフォーム機能) ^[inferred]
 - CITIC (中国中信集団) — 中国系金融機関とのアクセス ^[inferred]
 
 ## 推論 (from 5 大商社内の identity)
 
-- **純利益首位争い**: 2020 年代に純利益で 5 大首位に到達した時期あり、[[JapanFG/mitsubishi-corp|三菱商事]] / [[JapanFG/mitsui-co|三井物産]] と Top 3 を争う ^[inferred]
+- **純利益首位争い**: 2020 年代に純利益で 5 大首位に到達した時期あり、[[financial-conglomerates/mitsubishi-corp|三菱商事]] / [[financial-conglomerates/mitsui-co|三井物産]] と Top 3 を争う ^[inferred]
 
 ## 推論 (from 5. 規制・政策)
 
@@ -39,7 +39,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 ## 推論 (from 6. Counterpoints)
 
 - **「東京センチュリー との戦略性」**: 約 25% 級持分の戦略軸 (商社としての asset finance プラットフォーム vs 単なる持分法投資) の境界 ^[inferred]
-- **「非資源商社モデルの持続性」**: 資源市況が下落局面では純利益で 5 大首位に立ちやすいが、資源高サイクルでは [[JapanFG/mitsubishi-corp|三菱商事]] / [[JapanFG/mitsui-co|三井物産]] に後れを取る構造 ^[inferred]
+- **「非資源商社モデルの持続性」**: 資源市況が下落局面では純利益で 5 大首位に立ちやすいが、資源高サイクルでは [[financial-conglomerates/mitsubishi-corp|三菱商事]] / [[financial-conglomerates/mitsui-co|三井物産]] に後れを取る構造 ^[inferred]
 - **「CITIC 連携の地政学的リスク」**: 米中対立、台湾有事リスクで CITIC 持分の評価減リスク ^[inferred]
 - **「Berkshire 効果」**: 5 大商社共通のリレーティング要因、外部依存 ^[inferred]
 

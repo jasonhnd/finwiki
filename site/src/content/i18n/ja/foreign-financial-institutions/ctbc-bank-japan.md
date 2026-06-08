@@ -37,14 +37,14 @@ CTBC の日本支店様式と開示資料は、東京支店ルートを示して
 ## 3. このページが重要な理由
 
 - JapanFG マップに台湾の主要民間銀行支店を追加する。
-- [[bank-of-taiwan-japan]] のような公的 / 政府隣接の台湾ルートを補完する。
-- [[esun-bank-japan]] と [[mega-icbc-japan]] に対する台湾ピアを提供する。
+- [[foreign-financial-institutions/bank-of-taiwan-japan]] のような公的 / 政府隣接の台湾ルートを補完する。
+- [[foreign-financial-institutions/esun-bank-japan]] と [[foreign-financial-institutions/mega-icbc-japan]] に対する台湾ピアを提供する。
 
 ## 関連
 
-- [[bank-of-taiwan-japan]]
-- [[mega-icbc-japan]]
-- [[esun-bank-japan]]
+- [[foreign-financial-institutions/bank-of-taiwan-japan]]
+- [[foreign-financial-institutions/mega-icbc-japan]]
+- [[foreign-financial-institutions/esun-bank-japan]]
 - [[banking/foreign-bank-japan-retreat]]
 - [[banking/INDEX]]
 

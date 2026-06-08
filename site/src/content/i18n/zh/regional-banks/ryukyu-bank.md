@@ -37,11 +37,11 @@ translated_at: 2026-06-01T00:41:50.408Z
 
 ## ??????
 
-- [[regional-banks/INDEX|regional-banks INDEX]] [[regional-banks/okinawa-fg|おきなわ FG (Okinawa FG)]] [[banking/INDEX|banking index]] 2  [[okinawa-fg]] 1948-05-01 1972 05  8399 1 8399
+- [[regional-banks/INDEX|regional-banks INDEX]] [[regional-banks/okinawa-fg|おきなわ FG (Okinawa FG)]] [[banking/INDEX|banking index]] 2  [[regional-banks/okinawa-fg]] 1948-05-01 1972 05  8399 1 8399
  1948-05-01 第 1 号 1 11 1
  1948  1972-05-15
-- 8399 2 2 2024  2024  8369 [[okinawa-fg]] 1  2021 10  8399 2 [[okinawa-kaiho-bank|沖縄海邦銀行]] 8390 3  1 2 3
-- 4 5 3 行 [[mufg]] [[smfg]] [[mizuho-fg]] 4 2024 50  [[okinawa-fg]] [[okinawa-kaiho-bank|沖縄海邦銀行]] [[mufg]] [[smfg]] [[mizuho-fg]] 3 行
+- 8399 2 2 2024  2024  8369 [[regional-banks/okinawa-fg]] 1  2021 10  8399 2 [[regional-banks/okinawa-kaiho-bank|沖縄海邦銀行]] 8390 3  1 2 3
+- 4 5 3 行 [[megabanks/mufg]] [[megabanks/smfg]] [[megabanks/mizuho-fg]] 4 2024 50  [[regional-banks/okinawa-fg]] [[regional-banks/okinawa-kaiho-bank|沖縄海邦銀行]] [[megabanks/mufg]] [[megabanks/smfg]] [[megabanks/mizuho-fg]] 3 行
 
 ## Related
 

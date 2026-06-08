@@ -21,5 +21,5 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 - Which JapanFG securities pages should record their exact JSDA membership category and FSA registration category in a common table?
 - Should [[JapanFG/legal-financial-licenses/INDEX]] get a dedicated securities-license-stack child page covering Type I / Type II / investment advisory / investment management / registered financial institution boundaries?
-- For online brokers such as [[JapanFG/rakuten-securities]], which current JSDA rules are most relevant to app UX, advertising, suitability, and customer transaction monitoring?
+- For online brokers such as [[securities-firms/rakuten-securities]], which current JSDA rules are most relevant to app UX, advertising, suitability, and customer transaction monitoring?
 - Should FINMAC / ADR be mapped as a separate dispute-resolution page, or kept inside JSDA and securities-license coverage?

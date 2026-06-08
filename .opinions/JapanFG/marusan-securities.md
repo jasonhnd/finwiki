@@ -34,7 +34,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 - 「対面リテール特化の持続性」：ネット証券の手数料無料化と若年層流入が進む中、対面コンサル型の収益モデルが中長期的に維持できるかは継続論点 ^[ambiguous]
 - 「規模の劣後」：大手 5 大証券 + 上位ネット 4-5 行と比較して資本・人員・システム投資規模で不利 ^[inferred]
-- 「中堅独立証券業界の再編リスク」：同枠の競合 ([[JapanFG/aizawa-sg|アイザワ]] / [[JapanFG/okasan-sg|岡三]] / [[JapanFG/iwai-cosmo-hd|岩井コスモ]]) との統合・連携シナリオは公開情報からは確定できない ^[ambiguous]
+- 「中堅独立証券業界の再編リスク」：同枠の競合 ([[securities-firms/aizawa-sg|アイザワ]] / [[securities-firms/okasan-sg|岡三]] / [[securities-firms/iwai-cosmo-hd|岩井コスモ]]) との統合・連携シナリオは公開情報からは確定できない ^[ambiguous]
 
 ## Open questions
 

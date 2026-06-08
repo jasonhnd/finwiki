@@ -54,10 +54,9 @@
     "Related"
   ],
   "body_links": {
-    "wikilinks_count": 13,
+    "wikilinks_count": 12,
     "wikilinks": [
       "INDEX",
-      "cosmos-ibc-for-financial-institutions",
       "fintech/INDEX",
       "fintech/central-banking-function-unbundling",
       "fintech/cosmos-ibc-for-financial-institutions",
@@ -72,7 +71,6 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/cosmos-ibc-for-financial-institutions",
       "https://finwiki.zksc.io/fintech/INDEX",
       "https://finwiki.zksc.io/fintech/central-banking-function-unbundling",
       "https://finwiki.zksc.io/fintech/cosmos-ibc-for-financial-institutions",
@@ -89,9 +87,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3803,
-    "word_like_tokens": 671,
+    "nonspace_chars": 3811,
+    "word_like_tokens": 672,
     "inbound_wikilinks_count": 17,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-08"
   }
 }

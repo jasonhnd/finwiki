@@ -16,7 +16,7 @@ translated_at: 2026-06-01T00:41:50.430Z
 
 ## TL;DR
 
-なないろ生命保险株式会社是列入金融厅 life-insurer list 的 [[asahi-life]] group 旗下 life-insurance operating company。它不同于朝日生命本体，应作为面向共乘代理店 / 现代产品渠道的保险公司来看。
+なないろ生命保险株式会社是列入金融厅 life-insurer list 的 [[life-insurers/asahi-life]] group 旗下 life-insurance operating company。它不同于朝日生命本体，应作为面向共乘代理店 / 现代产品渠道的保险公司来看。
 
 ## 1. 牌照 / 集团边界
 
@@ -25,24 +25,24 @@ translated_at: 2026-06-01T00:41:50.430Z
 | Legal name | なないろ生命保险株式会社 |
 | License route | 《保险业法》下的人寿保险公司；FSA life insurer list |
 | Industry body | 生命保险协会会员 |
-| Group boundary | [[asahi-life]] group |
+| Group boundary | [[life-insurers/asahi-life]] group |
 | Wiki role | 朝日生命集团的专门型 / 代理渠道人寿保险公司 |
 
 ## 2. 运营模式
 
-なないろ生命不同于 traditional mutual-company insurer [[asahi-life]]，是具有较新产品 / 代理渠道界面的 specialist entity。这里将其作为大型 life insurer groups 通过 separate subsidiaries 区分 channel / product strategy 的案例处理。Cross-frame solvency context 参见 [[insurance/global-solvency-framework-comparison-matrix]]。
+なないろ生命不同于 traditional mutual-company insurer [[life-insurers/asahi-life]]，是具有较新产品 / 代理渠道界面的 specialist entity。这里将其作为大型 life insurer groups 通过 separate subsidiaries 区分 channel / product strategy 的案例处理。Cross-frame solvency context 参见 [[insurance/global-solvency-framework-comparison-matrix]]。
 
 ## 3. 本页为何重要
 
 - 说明相互会社型保险公司也可以运营股份公司形态的专门子公司。
-- 可用于与 [[hanasaku-life]] 和 [[medicare-life]] 进行渠道比较。
+- 可用于与 [[life-insurers/hanasaku-life]] 和 [[life-insurers/medicare-life]] 进行渠道比较。
 - 有登记依据的 D2 specialty insurer。
 
 ## Related
 
-- [[asahi-life]]
-- [[hanasaku-life]]
-- [[medicare-life]]
+- [[life-insurers/asahi-life]]
+- [[life-insurers/hanasaku-life]]
+- [[life-insurers/medicare-life]]
 - [[insurance/life-insurance-channel-mix]]
 
 ## Sources

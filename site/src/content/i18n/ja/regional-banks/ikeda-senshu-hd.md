@@ -16,7 +16,7 @@ translated_at: 2026-06-02T14:25:12.415Z
 
 ## 要約
 
-大阪府を地盤とする **関西中堅地銀 FG**。証券コード **東証 PRIME 8714**。2009-10-01 **池田銀行 + 泉州銀行** の経営統合により発足し、翌 2010-05-01 に両子銀行が合併して **池田泉州銀行** が成立。大阪府 **北摂・池田エリア（旧池田銀）** + **泉州エリア = 大阪府南部（旧泉州銀）** + **兵庫県南東部** を 3 つの主軸地盤とし、京阪神メガ経済圏の中堅・中小企業金融に特化。関西では [[resona-hd]]（関西みらい銀）・京都 FG・滋賀銀行・南都銀行 等と直接競合。メガ 3 行（[[mufg]] / [[smfg]] / [[mizuho-fg]]）に対しては中堅・中小レイヤーで棲み分け。^[extracted]
+大阪府を地盤とする **関西中堅地銀 FG**。証券コード **東証 PRIME 8714**。2009-10-01 **池田銀行 + 泉州銀行** の経営統合により発足し、翌 2010-05-01 に両子銀行が合併して **池田泉州銀行** が成立。大阪府 **北摂・池田エリア（旧池田銀）** + **泉州エリア = 大阪府南部（旧泉州銀）** + **兵庫県南東部** を 3 つの主軸地盤とし、京阪神メガ経済圏の中堅・中小企業金融に特化。関西では [[megabanks/resona-hd]]（関西みらい銀）・京都 FG・滋賀銀行・南都銀行 等と直接競合。メガ 3 行（[[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]]）に対しては中堅・中小レイヤーで棲み分け。^[extracted]
 
 ## 1. 会社概要
 
@@ -105,18 +105,18 @@ translated_at: 2026-06-02T14:25:12.415Z
 
 | 競合 | 地盤 | 構図 |
 |---|---|---|
-| [[resona-hd]]（関西みらい銀）| 関西全域 | 旧大和銀 + 旧近畿大阪銀 + 旧みなと銀（兵庫）連合 → 関西リテールで直接競合 |
+| [[megabanks/resona-hd]]（関西みらい銀）| 関西全域 | 旧大和銀 + 旧近畿大阪銀 + 旧みなと銀（兵庫）連合 → 関西リテールで直接競合 |
 | 京都 FG（京都銀行）| 京都府・関西 | 京阪神エリアで部分競合（京都銀は全国上場企業株式持合いで資金潤沢）|
 | 滋賀銀行 | 滋賀県・関西 | 関西地銀ランキング近接、京阪神での顧客取り合い |
 | 南都銀行 | 奈良県 | 関西地銀同列、奈良・京都南部で競合 |
 | 紀陽銀行 | 和歌山県 | 和歌山県で競合 |
-| [[mufg]] / [[smfg]] / [[mizuho-fg]] | 全国 | 大企業 メインバンク 領域は競合せず、中堅企業 メインバンク で部分競合 |
-| [[paypay-fg]] / 楽天銀行 / 住信 SBI ネット銀行 | デジタル | 個人デジタル領域での新興競合 |
+| [[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]] | 全国 | 大企業 メインバンク 領域は競合せず、中堅企業 メインバンク で部分競合 |
+| [[megabanks/paypay-fg]] / 楽天銀行 / 住信 SBI ネット銀行 | デジタル | 個人デジタル領域での新興競合 |
 
 ### 統合シナジー・課題
 
 - **池田銀（北摂）+ 泉州銀（南部）の地理的補完性 高**: 大阪府を北部・南部両端で押さえる地銀は他になく、単一行統合のシナジー大 ^[extracted]
-- **京阪神メガ経済圏での「中堅地銀」生残**: メガ 3 行 + [[resona-hd]] + 京都銀 等との顧客争奪 ^[extracted]
+- **京阪神メガ経済圏での「中堅地銀」生残**: メガ 3 行 + [[megabanks/resona-hd]] + 京都銀 等との顧客争奪 ^[extracted]
 
 ## 4. 規制・政策
 
@@ -132,9 +132,9 @@ translated_at: 2026-06-02T14:25:12.415Z
 
 ## 関連項目
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[resona-hd]] · [[sumitomo-mitsui-trust]]
-- [[concordia-fg]] · [[fukuoka-fg]] · [[shizuoka-fg]] · [[hirogin-hd]]
-- [[paypay-fg]] · [[rakuten-fg]] · [[sbi-hd]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[megabanks/resona-hd]] · [[trust-banks/sumitomo-mitsui-trust]]
+- [[regional-banks/concordia-fg]] · [[regional-banks/fukuoka-fg]] · [[regional-banks/shizuoka-fg]] · [[regional-banks/hirogin-hd]]
+- [[megabanks/paypay-fg]] · [[payment-firms/rakuten-fg]] · [[megabanks/sbi-hd]]
 
 ## 出典
 

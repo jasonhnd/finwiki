@@ -16,7 +16,7 @@ translated_at: 2026-06-02T15:14:17.137Z
 
 ## 要約
 
-英 Standard Chartered PLC（HQ ロンドン、LSE: STAN / HKSE: 2888 / FTSE 100 構成）の日本拠点。**業務は アジア・中東・アフリカ（AMEA）新興国に集中**する点で、グローバル・ユニバーサル銀行型の [[hsbc-japan]] や [[citigroup-japan]] とは戦略軸が一線を画す。日本では 1880 年代から長い歴史を持つが、リテール非展開・**法人専業**。邦銀の「自前で拠点を持ちにくい新興国」（南アジア / 東南アジア / 中東 / アフリカ）向けコルレス・トランザクション・バンキング・トレード・ファイナンス機能を担うニッチ・ポジション。^[extracted]
+英 Standard Chartered PLC（HQ ロンドン、LSE: STAN / HKSE: 2888 / FTSE 100 構成）の日本拠点。**業務は アジア・中東・アフリカ（AMEA）新興国に集中**する点で、グローバル・ユニバーサル銀行型の [[foreign-financial-institutions/hsbc-japan]] や [[foreign-financial-institutions/citigroup-japan]] とは戦略軸が一線を画す。日本では 1880 年代から長い歴史を持つが、リテール非展開・**法人専業**。邦銀の「自前で拠点を持ちにくい新興国」（南アジア / 東南アジア / 中東 / アフリカ）向けコルレス・トランザクション・バンキング・トレード・ファイナンス機能を担うニッチ・ポジション。^[extracted]
 
 ## 1. 会社概要
 
@@ -63,13 +63,13 @@ translated_at: 2026-06-02T15:14:17.137Z
 
 ### 親会社 PLC のユニーク・ポジション
 
-- 「**アジア・中東・アフリカ専門のグローバル銀行**」という他のメガ外資（[[hsbc-japan]] 親 HSBC / [[citigroup-japan]] 親 Citigroup / JPMorgan / BNP Paribas）とは異なる戦略軸 ^[extracted]
+- 「**アジア・中東・アフリカ専門のグローバル銀行**」という他のメガ外資（[[foreign-financial-institutions/hsbc-japan]] 親 HSBC / [[foreign-financial-institutions/citigroup-japan]] 親 Citigroup / JPMorgan / BNP Paribas）とは異なる戦略軸 ^[extracted]
 - 旧大英帝国の貿易ネットワーク（India / Hong Kong / Singapore / South Africa / UAE）を母体とする 170 年級の現地プレゼンス
 - 北米・西欧大陸ではリテール展開しない → AMEA に資本・人材集中
 
 ### 日本での競争・棲み分け
 
-- **競合**: [[hsbc-japan]]（英国系・類似戦略、ただし HSBC はよりグローバル）/ [[citigroup-japan]]（米系・在日富裕層リテール一部）/ Deutsche Bank / BNP Paribas Tokyo / JPMorgan Tokyo 等の外資法人銀行
+- **競合**: [[foreign-financial-institutions/hsbc-japan]]（英国系・類似戦略、ただし HSBC はよりグローバル）/ [[foreign-financial-institutions/citigroup-japan]]（米系・在日富裕層リテール一部）/ Deutsche Bank / BNP Paribas Tokyo / JPMorgan Tokyo 等の外資法人銀行
 - **差別化**: AMEA 集中、特に **アフリカ・南アジアでのプレゼンスは他外資を凌駕** ^[extracted]
 - **邦銀との関係**: 競合ではなく**補完**（邦銀向けインフラ提供）
 
@@ -79,9 +79,9 @@ translated_at: 2026-06-02T15:14:17.137Z
 
 ## 関連
 
-- [[hsbc-japan]] · [[citigroup-japan]]（在日外資銀行ピア）
-- [[mufg]] · [[smfg]] · [[mizuho-fg]]（邦銀メガバンク、コルレス取引先）
-- [[ndfg]] · [[sbi-hd]]
+- [[foreign-financial-institutions/hsbc-japan]] · [[foreign-financial-institutions/citigroup-japan]]（在日外資銀行ピア）
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]（邦銀メガバンク、コルレス取引先）
+- [[megabanks/ndfg]] · [[megabanks/sbi-hd]]
 
 ## 出典
 

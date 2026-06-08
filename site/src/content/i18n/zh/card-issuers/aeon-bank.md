@@ -15,7 +15,7 @@ translated_at: 2026-05-31T11:13:44.913Z
 
 ## TL;DR
 
-**流通系銀行の代表格**。総合スーパー [[retail/aeon-group]] イオン株式会社が頂点に立ち、中間持株会社 **イオンフィナンシャルサービス（AFS、東証 PRIME 8570）** が **イオン銀行 100%** と **アジア消費者金融 7 ヶ国網** を束ねる構造。**店舗 = イオンモール内ブランチ + 駅前 ATM 約 6,500 台級**、**プロダクト = イオンカード（国内発行枚数上位）+ WAON 電子マネー + イオン住宅ローン**、**海外 = タイ・マレーシア・香港等のアジア消費者金融子会社群**。[[seven-bank]] / [[lawson-bank]] と並ぶ流通 3 兄弟だが、ATM 単機能の 7 銀 / L 銀と異なり「総合銀行 + クレカ + アジア」の **3 階建てモデル**。^[extracted]
+**流通系銀行の代表格**。総合スーパー [[retail/aeon-group]] イオン株式会社が頂点に立ち、中間持株会社 **イオンフィナンシャルサービス（AFS、東証 PRIME 8570）** が **イオン銀行 100%** と **アジア消費者金融 7 ヶ国網** を束ねる構造。**店舗 = イオンモール内ブランチ + 駅前 ATM 約 6,500 台級**、**プロダクト = イオンカード（国内発行枚数上位）+ WAON 電子マネー + イオン住宅ローン**、**海外 = タイ・マレーシア・香港等のアジア消費者金融子会社群**。[[regional-banks/seven-bank]] / [[regional-banks/lawson-bank]] と並ぶ流通 3 兄弟だが、ATM 単機能の 7 銀 / L 銀と異なり「総合銀行 + クレカ + アジア」の **3 階建てモデル**。^[extracted]
 
 ## 1. 会社概要
 
@@ -84,7 +84,7 @@ translated_at: 2026-05-31T11:13:44.913Z
 ### 流通系銀行モデル（差別化軸）
 
 - **イオンモール = 店舗網**：全国数百拠点のイオンモール内に有人ブランチ + ATM、買い物動線と一体化 ^[extracted]
-- **ATM 6,855 台（2025-03-31）**：イオン店舗・ミニストップ等を含む流通系 ATM 網（[[seven-bank]] 約 27,000 台、[[lawson-bank]] 約 13,000 台と比較すれば中規模だが、自社モール内集中型）
+- **ATM 6,855 台（2025-03-31）**：イオン店舗・ミニストップ等を含む流通系 ATM 網（[[regional-banks/seven-bank]] 約 27,000 台、[[regional-banks/lawson-bank]] 約 13,000 台と比較すれば中規模だが、自社モール内集中型）
 - **住宅ローン強化**：イオン住宅 + 直販。店舗動線で来店誘導
 
 ### アジア消費者金融という第 2 軸
@@ -94,7 +94,7 @@ translated_at: 2026-05-31T11:13:44.913Z
 
 ### 競争環境
 
-- **流通系銀行 3 兄弟**：[[seven-bank]]（7&i / ATM 単機能特化）/ [[lawson-bank]]（KDDI 提携 / ATM + 後発 retail）/ イオン銀行（総合銀行 + クレカ + アジア）— **イオン銀行のみ「総合銀行 + 国際展開」フル装備**
+- **流通系銀行 3 兄弟**：[[regional-banks/seven-bank]]（7&i / ATM 単機能特化）/ [[regional-banks/lawson-bank]]（KDDI 提携 / ATM + 後発 retail）/ イオン銀行（総合銀行 + クレカ + アジア）— **イオン銀行のみ「総合銀行 + 国際展開」フル装備**
 - **ネット銀行**：[[megabanks/sony-fg]] / 楽天銀行 / 住信 SBI ネット銀行 — 住宅ローン金利競争で対抗
 - **流通系電子マネー**：WAON vs nanaco（7&i）vs 楽天 Edy vs PayPay
 - **クレカ**：イオンカード vs 楽天カード vs PayPay カード vs [[card-issuers/jcb]]
@@ -126,10 +126,10 @@ translated_at: 2026-05-31T11:13:44.913Z
 
 ## 8. Related
 
-- [[seven-bank]] · [[lawson-bank]] ── 流通系銀行 3 兄弟
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] ── メガバンク比較
-- [[sony-fg]] · [[rakuten-fg]] · [[paypay-fg]] ── 個人向けデジタル銀行・FG 比較
-- [[jcb]] ── 国内クレカ比較
+- [[regional-banks/seven-bank]] · [[regional-banks/lawson-bank]] ── 流通系銀行 3 兄弟
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] ── メガバンク比較
+- [[megabanks/sony-fg]] · [[payment-firms/rakuten-fg]] · [[megabanks/paypay-fg]] ── 個人向けデジタル銀行・FG 比較
+- [[card-issuers/jcb]] ── 国内クレカ比較
 
 ## ??
 

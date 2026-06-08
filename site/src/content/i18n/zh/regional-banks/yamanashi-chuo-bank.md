@@ -29,18 +29,18 @@ translated_at: 2026-06-01T02:31:57.106Z
 
 ## 2. 经营模式
 
-山梨中央银行是在山梨县内提供零售存款、中小企业融资、地方政府 / 本地企业关系、旅游相关金融以及面向东京近邻企业支持的地方银行。虽然其靠近东京圈，wiki 中仍将其作为中部地方银行批次的法定名称锚点，而不是关东银行处理。关于中部地方银行整合背景，参见 [[banking/regional-bank-consolidation-pattern]]；关于邻近同业，参见 [[hachijuni-nagano-bank]] 和 [[shizuoka-bank]]。
+山梨中央银行是在山梨县内提供零售存款、中小企业融资、地方政府 / 本地企业关系、旅游相关金融以及面向东京近邻企业支持的地方银行。虽然其靠近东京圈，wiki 中仍将其作为中部地方银行批次的法定名称锚点，而不是关东银行处理。关于中部地方银行整合背景，参见 [[banking/regional-bank-consolidation-pattern]]；关于邻近同业，参见 [[regional-banks/hachijuni-nagano-bank]] 和 [[regional-banks/shizuoka-bank]]。
 
 ## 3. 本页意义
 
 - 补齐金融厅地方银行名单中山梨中央银行的法定名称页面。
 - 为山梨地方金融提供独立锚点。
-- 可作为 [[hachijuni-nagano-bank]]、[[shizuoka-bank]] 以及更广中部日本地方银行地图的同业参照。
+- 可作为 [[regional-banks/hachijuni-nagano-bank]]、[[regional-banks/shizuoka-bank]] 以及更广中部日本地方银行地图的同业参照。
 
 ## Related
 
-- [[hachijuni-nagano-bank]]
-- [[shizuoka-bank]]
+- [[regional-banks/hachijuni-nagano-bank]]
+- [[regional-banks/shizuoka-bank]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 

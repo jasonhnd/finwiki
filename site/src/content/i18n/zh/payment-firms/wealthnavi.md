@@ -15,7 +15,7 @@ translated_at: 2026-06-01T02:31:57.114Z
 
 ## TL;DR
 
-日本国内最大 robo-advisory 型资产管理服务。**资产管理规模突破 2 兆円（2026-05-12 公布）**，运营用户数约 41.6 万 人（2024-09  末）。2015-04-28 由柴山和久（原 McKinsey、财务省出身）创立，2016-07  开始服务。2020-12-22 在东证 Mothers 上市（证券代码 **7342**，现 Growth）。**2024-12-12 Mitsubishi UFJ Bank [[mufg]] 宣布通过公开买付（TOB）完全子公司化 ★** -- 日本 robo-ad 先驱被整合进 megabank AI 金融生态系统的转折点。^[extracted]
+日本国内最大 robo-advisory 型资产管理服务。**资产管理规模突破 2 兆円（2026-05-12 公布）**，运营用户数约 41.6 万 人（2024-09  末）。2015-04-28 由柴山和久（原 McKinsey、财务省出身）创立，2016-07  开始服务。2020-12-22 在东证 Mothers 上市（证券代码 **7342**，现 Growth）。**2024-12-12 Mitsubishi UFJ Bank [[megabanks/mufg]] 宣布通过公开买付（TOB）完全子公司化 ★** -- 日本 robo-ad 先驱被整合进 megabank AI 金融生态系统的转折点。^[extracted]
 
 ## 1. 公司概要
 
@@ -51,8 +51,8 @@ translated_at: 2026-06-01T02:31:57.114Z
 ```
 WealthNavi株式会社
   ├── WealthNavi（自有直营）-- 主力品牌
-  ├── WealthNavi for SBI Securities -- 与 [[sbi-hd]] 合作
-  ├── WealthNavi for Monex -- 与 [[monex-group]] 合作
+  ├── WealthNavi for SBI Securities -- 与 [[megabanks/sbi-hd]] 合作
+  ├── WealthNavi for Monex -- 与 [[securities-firms/monex-group]] 合作
   ├── WealthNavi for SBI Sumishin Net Bank
   ├── WealthNavi for Sony Bank -- Sony FG 系
   ├── WealthNavi for Bank of Yokohama -- Concordia FG 系
@@ -75,7 +75,7 @@ WealthNavi株式会社
 | 2022-04 | 随东证市场区分重组迁移至 Growth Market |
 | **2024-01-11** | **资产管理规模突破 1 兆円（日本国内 robo-ad 首次）** -- 自 2016-07  发布起约 7  年 5  个月 |
 | 2024 | 对应新 NISA 制度（同时支持积立投资额度和成长投资额度）|
-| **2024-12-12** | **Mitsubishi UFJ Bank [[mufg]] 宣布通过公开买付（TOB）完全子公司化** ★ |
+| **2024-12-12** | **Mitsubishi UFJ Bank [[megabanks/mufg]] 宣布通过公开买付（TOB）完全子公司化** ★ |
 | **2025-01-20** | **Mitsubishi UFJ Bank TOB 成立**（买付价格 1,950 円，总额约 997 億円）-> 2025-03  squeeze-out，并从东证 Growth 退市 |
 
 ## 2. 业务分部图
@@ -101,15 +101,15 @@ WealthNavi株式会社
 |---|---|---|---|
 | **WealthNavi** | -> MUFG 子公司化（2024-12  公布）| 突破 2 兆円（2026-05）| 国内 robo-ad No. 1  |
 | THEO | Money Design | 数千亿日元规模 | docomo 合作（THEO+ docomo）|
-| SBI Wrap | [[sbi-hd]] 内 | 扩大中 | 吸收集团客户 |
-| Rakuten Securities Wrap | [[rakuten-fg]] 内 | - | 集团整合运用 |
-| Monex Asset Management | [[monex-group]] | - | ON COMPASS 等 |
-| Daiwa Fund Wrap | [[daiwa-sg]] | 大型面对面 wrap | 面向富裕层 |
-| Nomura Fund Wrap | [[nomura-hd]] | 行业最大 wrap 规模 | 以面对面富裕层为中心 |
+| SBI Wrap | [[megabanks/sbi-hd]] 内 | 扩大中 | 吸收集团客户 |
+| Rakuten Securities Wrap | [[payment-firms/rakuten-fg]] 内 | - | 集团整合运用 |
+| Monex Asset Management | [[securities-firms/monex-group]] | - | ON COMPASS 等 |
+| Daiwa Fund Wrap | [[securities-firms/daiwa-sg]] | 大型面对面 wrap | 面向富裕层 |
+| Nomura Fund Wrap | [[securities-firms/nomura-hd]] | 行业最大 wrap 规模 | 以面对面富裕层为中心 |
 
 ### MUFG 子公司化（2024-12-12 公布）★
 
-- **公开买付者**: Mitsubishi UFJ Bank（MUFG Bank，[[mufg]] 100% 子公司）
+- **公开买付者**: Mitsubishi UFJ Bank（MUFG Bank，[[megabanks/mufg]] 100% 子公司）
 
 > 注：MUFG 完全子公司化后，SBI / Monex / Sony Bank 等白标合作是否继续及其战略意义，因没有可验证的一手信息，隔离在 `.opinions/JapanFG/wealthnavi.md`。
 
@@ -131,7 +131,7 @@ WealthNavi株式会社
 
 ## Related
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[sbi-hd]] · [[monex-group]] · [[rakuten-fg]] · [[daiwa-sg]] · [[nomura-hd]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[megabanks/sbi-hd]] · [[securities-firms/monex-group]] · [[payment-firms/rakuten-fg]] · [[securities-firms/daiwa-sg]] · [[securities-firms/nomura-hd]]
 
 ## Sources
 

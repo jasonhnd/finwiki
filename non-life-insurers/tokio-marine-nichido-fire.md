@@ -30,7 +30,7 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 
 ## TL;DR
 
-東京海上日動火災保険株式会社は、[[tokio-marine]] group の core non-life insurance operating company。金融庁の損害保険会社免許一覧と損害保険契約者保護機構会員一覧に掲載される separate insurer で、parent holding company とは別に underwriting / claims / agency network boundary を持つ。
+東京海上日動火災保険株式会社は、[[non-life-insurers/tokio-marine]] group の core non-life insurance operating company。金融庁の損害保険会社免許一覧と損害保険契約者保護機構会員一覧に掲載される separate insurer で、parent holding company とは別に underwriting / claims / agency network boundary を持つ。
 
 ## 1. License / group boundary
 
@@ -39,7 +39,7 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 | Legal name | 東京海上日動火災保険株式会社 |
 | License route | Insurance Business Act non-life insurance company; FSA non-life insurer list |
 | Protection scheme | Non-Life Insurance Policyholders Protection Corporation member |
-| Group boundary | [[tokio-marine]] core non-life operating company |
+| Group boundary | [[non-life-insurers/tokio-marine]] core non-life operating company |
 | Wiki role | Tokio Marine group's Japan non-life underwriting arm |
 
 ## 2. Operating model
@@ -48,14 +48,14 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 
 ## 3. Why this page matters
 
-- Parent [[tokio-marine]] page alone is not enough for product / claims / agency analysis.
-- Core comparison point for [[mitsui-sumitomo-insurance]], [[aioi-nissay-dowa-insurance]], and [[sompo-japan-insurance]].
+- Parent [[non-life-insurers/tokio-marine]] page alone is not enough for product / claims / agency analysis.
+- Core comparison point for [[non-life-insurers/mitsui-sumitomo-insurance]], [[non-life-insurers/aioi-nissay-dowa-insurance]], and [[non-life-insurers/sompo-japan-insurance]].
 - Registry-backed D3 non-life major page.
 
 ## Related
 
-- [[tokio-marine]]
-- [[tokio-marine-nichido-life]]
+- [[non-life-insurers/tokio-marine]]
+- [[life-insurers/tokio-marine-nichido-life]]
 - [[insurance/natcat-reinsurance-japan]]
 - [[insurance/INDEX]]
 

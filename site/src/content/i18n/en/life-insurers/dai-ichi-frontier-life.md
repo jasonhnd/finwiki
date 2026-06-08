@@ -17,7 +17,7 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 
 ## TL;DR
 
-Dai-ichi Frontier Life Insurance Co., Ltd. is a life-insurance operating company of the [[dai-ichi-life]] group. We are a separate legal entity on the Financial Services Agency's life-insurer list, and are seen as a group specialist that handles savings-type/investment-style insurance products that are highly compatible with the bank/financial-institution channel.
+Dai-ichi Frontier Life Insurance Co., Ltd. is a life-insurance operating company of the [[life-insurers/dai-ichi-life]] group. We are a separate legal entity on the Financial Services Agency's life-insurer list, and are seen as a group specialist that handles savings-type/investment-style insurance products that are highly compatible with the bank/financial-institution channel.
 
 ## 1. License / group boundary
 
@@ -26,12 +26,12 @@ Dai-ichi Frontier Life Insurance Co., Ltd. is a life-insurance operating company
 | Legal name | Daiichi Frontier Life Insurance Co., Ltd. |
 | License route | Insurance Business Act life-insurance company; FSA life insurer list |
 | Industry body | Life Insurance Association of Japan member |
-| Group boundary | [[dai-ichi-life]] group operating company |
+| Group boundary | [[life-insurers/dai-ichi-life]] group operating company |
 | Wiki role | Dai-ichi Life group specialist life insurer, especially financial-institution channel |
 
 ## 2. Operating model
 
-The Dai-ichi Life group has a holding-company / operating-company structure. The [[dai-ichi-life]] parent page deals with group-wide capital and strategy, and this page deals with Dai-ichi Frontier Life's product / channel boundary.
+The Dai-ichi Life group has a holding-company / operating-company structure. The [[life-insurers/dai-ichi-life]] parent page deals with group-wide capital and strategy, and this page deals with Dai-ichi Frontier Life's product / channel boundary.
 
 Unlike traditional protection products, savings-type insurance sold through bank counter sales and financial institution agents is susceptible to interest-rate environment, market risk, customer suitability, and sales-conduct regulation. In FinWiki, make it the specialist page referenced from [[insurance/life-insurance-channel-mix]].
 
@@ -43,11 +43,11 @@ Unlike traditional protection products, savings-type insurance sold through bank
 
 ## Related
 
-- [[dai-ichi-life]]
+- [[life-insurers/dai-ichi-life]]
 - [[insurance/life-insurance-channel-mix]]
 - [[insurance/economic-value-based-solvency]]
-- [[mizuho-fg]]
-- [[smtb]]
+- [[megabanks/mizuho-fg]]
+- [[trust-banks/smtb]]
 
 ## Sources
 

@@ -23,7 +23,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 ## Open questions
 
 - Will JFTC pressure force Visa / Mastercard Japan to disclose per-acquirer fee splits comparable to JCB's 2023 disclosure?
-- Will AMEX-Saison Persona JV restructure given the 2024-2026 evolution of [[JapanFG/credit-saison|Credit Saison]]'s wider strategy and Saison Realty / Saison Asset Management adjacencies?
+- Will AMEX-Saison Persona JV restructure given the 2024-2026 evolution of [[card-issuers/credit-saison|Credit Saison]]'s wider strategy and Saison Realty / Saison Asset Management adjacencies?
 - Will JCB consolidate its 30+ partner-issuers given Capital One's 2024 announcement to acquire Discover (the US side of JCB's principal alliance)?
 - Will Visa Direct vs Mastercard Send compete for the principal push-to-card rail in Japan wallets (PayPay, Rakuten Pay, au PAY, Merpay), or will both maintain dual integration?
 - Will Visa Agentic Commerce / Mastercard Agent Pay successfully insert into Japan's wallet-anchored payment flows, or will Japan-domestic agentic flows route over wallet rails (PayPay, Rakuten, d-Barai) instead of card rails?

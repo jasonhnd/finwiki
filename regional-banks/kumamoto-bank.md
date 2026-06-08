@@ -24,7 +24,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-株式会社熊本銀行は、金融庁の銀行免許一覧に掲載される熊本県本店の第二地方銀行。[[fukuoka-fg]] 傘下の Kumamoto operating bank であり、[[higo-bank]] とは別法人の peer として扱う。
+株式会社熊本銀行は、金融庁の銀行免許一覧に掲載される熊本県本店の第二地方銀行。[[regional-banks/fukuoka-fg]] 傘下の Kumamoto operating bank であり、[[regional-banks/higo-bank]] とは別法人の peer として扱う。
 
 ## 1. License / group boundary
 
@@ -32,26 +32,26 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 |---|---|
 | Legal name | 株式会社熊本銀行 |
 | License route | Banking Act second regional bank; FSA bank license list |
-| Group boundary | [[fukuoka-fg]] group bank |
+| Group boundary | [[regional-banks/fukuoka-fg]] group bank |
 | Home market | Kumamoto / Kumamoto City |
 | Wiki role | Kumamoto second-regional-bank operating-company page |
 
 ## 2. Operating model
 
-熊本銀行は、熊本県内の retail deposits, SME finance, consumer banking, and FFG group distribution を担う second regional bank。[[higo-bank]] page は Kyushu FG core-bank boundary を扱い、本ページは FFG-side Kumamoto license boundary を扱う。Kyushu regional-bank consolidation context は [[banking/regional-bank-consolidation-pattern]] を参照。
+熊本銀行は、熊本県内の retail deposits, SME finance, consumer banking, and FFG group distribution を担う second regional bank。[[regional-banks/higo-bank]] page は Kyushu FG core-bank boundary を扱い、本ページは FFG-side Kumamoto license boundary を扱う。Kyushu regional-bank consolidation context は [[banking/regional-bank-consolidation-pattern]] を参照。
 
 ## 3. Why this page matters
 
 - Closes the FSA exact-name page for 熊本銀行.
-- Separates FFG's Kumamoto operating bank from [[higo-bank]] and [[kyushu-fg]].
-- Provides a peer anchor for [[fukuoka-fg]], [[higo-bank]], and [[kyushu-fg]] analysis.
+- Separates FFG's Kumamoto operating bank from [[regional-banks/higo-bank]] and [[regional-banks/kyushu-fg]].
+- Provides a peer anchor for [[regional-banks/fukuoka-fg]], [[regional-banks/higo-bank]], and [[regional-banks/kyushu-fg]] analysis.
 
 ## Related
 
-- [[fukuoka-fg]]
-- [[fukuoka-bank]]
-- [[higo-bank]]
-- [[kyushu-fg]]
+- [[regional-banks/fukuoka-fg]]
+- [[regional-banks/fukuoka-bank]]
+- [[regional-banks/higo-bank]]
+- [[regional-banks/kyushu-fg]]
 - [[banking/minna-bank-baas-model]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]

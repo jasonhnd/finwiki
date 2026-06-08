@@ -44,16 +44,16 @@ KB Kookmin Bank's overseas-office page lists the Tokyo branch address and contac
 ## 3. Why this page matters
 
 - Completes the FSA Korean P1 branch set.
-- Adds KB as a peer to [[woori-bank-japan]] and [[hana-bank-japan]].
-- Makes the Korean bank corridor explicit without merging it into [[sbj-bank]].
+- Adds KB as a peer to [[foreign-financial-institutions/woori-bank-japan]] and [[foreign-financial-institutions/hana-bank-japan]].
+- Makes the Korean bank corridor explicit without merging it into [[regional-banks/sbj-bank]].
 
 ## Related
 
-- [[woori-bank-japan]]
-- [[hana-bank-japan]]
-- [[korea-development-bank-japan]]
-- [[industrial-bank-of-korea-japan]]
-- [[sbj-bank]]
+- [[foreign-financial-institutions/woori-bank-japan]]
+- [[foreign-financial-institutions/hana-bank-japan]]
+- [[foreign-financial-institutions/korea-development-bank-japan]]
+- [[foreign-financial-institutions/industrial-bank-of-korea-japan]]
+- [[regional-banks/sbj-bank]]
 - [[banking/foreign-bank-japan-retreat]]
 
 ## Sources

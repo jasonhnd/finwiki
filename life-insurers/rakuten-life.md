@@ -24,7 +24,7 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 
 ## TL;DR
 
-楽天生命保険株式会社は、[[rakuten-fg]] / Rakuten ecosystem の life-insurance operating company。金融庁 life-insurer list に載る separate underwriter で、楽天カード・銀行・証券・決済・ポイント経済圏と接続しうる insurance node として見る。
+楽天生命保険株式会社は、[[payment-firms/rakuten-fg]] / Rakuten ecosystem の life-insurance operating company。金融庁 life-insurer list に載る separate underwriter で、楽天カード・銀行・証券・決済・ポイント経済圏と接続しうる insurance node として見る。
 
 ## 1. License / group boundary
 
@@ -33,29 +33,29 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 | Legal name | 楽天生命保険株式会社 |
 | License route | Insurance Business Act life-insurance company; FSA life insurer list |
 | Industry body | Life Insurance Association of Japan member |
-| Group boundary | [[rakuten-fg]] / Rakuten insurance ecosystem |
+| Group boundary | [[payment-firms/rakuten-fg]] / Rakuten insurance ecosystem |
 | Wiki role | Rakuten ecosystem life-insurance underwriting arm |
 
 ## 2. Operating model
 
-楽天生命は、Rakuten ID, points, card, bank, securities, payments, marketplace traffic と接続しうる life insurer。FinWiki では [[rakuten-card]]、[[rakuten-edy]]、[[rakuten-securities]]、[[rakuten-fg]] と同じ ecosystem-finance cluster に置く。
+楽天生命は、Rakuten ID, points, card, bank, securities, payments, marketplace traffic と接続しうる life insurer。FinWiki では [[card-issuers/rakuten-card]]、[[payment-firms/rakuten-edy]]、[[securities-firms/rakuten-securities]]、[[payment-firms/rakuten-fg]] と同じ ecosystem-finance cluster に置く。
 
 Ecosystem insurer の分析では、保険単体の商品収益だけでなく、customer acquisition cost, points economics, app / marketplace traffic, cross-sell rules, sales-conduct obligations を見る必要がある。
 
 ## 3. Why this page matters
 
-- Parent [[rakuten-fg]] page did not expose the separate life-insurance underwriting entity.
-- Important comparison point against [[sbi-life]], [[lifenet]], and [[sony-life]].
+- Parent [[payment-firms/rakuten-fg]] page did not expose the separate life-insurance underwriting entity.
+- Important comparison point against [[life-insurers/sbi-life]], [[life-insurers/lifenet]], and [[life-insurers/sony-life]].
 - Supports consumer ecosystem finance mapping.
 
 ## Related
 
-- [[rakuten-fg]]
-- [[rakuten-card]]
-- [[rakuten-edy]]
-- [[rakuten-securities]]
-- [[sbi-life]]
-- [[lifenet]]
+- [[payment-firms/rakuten-fg]]
+- [[card-issuers/rakuten-card]]
+- [[payment-firms/rakuten-edy]]
+- [[securities-firms/rakuten-securities]]
+- [[life-insurers/sbi-life]]
+- [[life-insurers/lifenet]]
 - [[insurance/internet-life-insurance-business-model]]
 
 ## Sources

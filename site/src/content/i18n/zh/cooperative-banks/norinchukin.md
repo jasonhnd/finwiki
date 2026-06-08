@@ -114,9 +114,9 @@ translated_at: 2026-06-01T00:41:50.395Z
 
 ### 竞争位置
 
-- **与大型商业银行 [[mufg]] / [[smfg]] / [[mizuho-fg]] 相比**：商业银行业务有限，核心是系统金融 + 机构投资。
-- **与寿险公司 [[nippon-life]] / [[dai-ichi-life]] 相比**：作为机构投资者处于类似位置，资产运用规模可比较。
-- **与政策金融机构 [[jfc]] / [[dbj]] 相比**：在农林水产业融资中部分竞争 / 互补。
+- **与大型商业银行 [[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]] 相比**：商业银行业务有限，核心是系统金融 + 机构投资。
+- **与寿险公司 [[life-insurers/nippon-life]] / [[life-insurers/dai-ichi-life]] 相比**：作为机构投资者处于类似位置，资产运用规模可比较。
+- **与政策金融机构 [[financial-regulators/jfc]] / [[financial-regulators/dbj]] 相比**：在农林水产业融资中部分竞争 / 互补。
 
 ## 4. 监管 / 政策
 
@@ -134,9 +134,9 @@ translated_at: 2026-06-01T00:41:50.395Z
 
 ## Related
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[ndfg]] · [[resona-hd]]
-- [[jfc]] · [[dbj]] · [[sumitomo-mitsui-trust]]
-- [[nippon-life]] · [[dai-ichi-life]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[megabanks/ndfg]] · [[megabanks/resona-hd]]
+- [[financial-regulators/jfc]] · [[financial-regulators/dbj]] · [[trust-banks/sumitomo-mitsui-trust]]
+- [[life-insurers/nippon-life]] · [[life-insurers/dai-ichi-life]]
 - [[banking/ja-bank-system-japan]]
 - [[banking/jf-marine-bank-system-japan]]
 - [[banking/cooperative-banking-japan]]

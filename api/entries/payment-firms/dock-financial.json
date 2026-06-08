@@ -62,7 +62,7 @@
   "body_links": {
     "wikilinks_count": 14,
     "wikilinks": [
-      "JapanFG/paypay-bank",
+      "banking/paypay-bank",
       "card-issuers/paypay-card",
       "megabanks/au-fh",
       "megabanks/ndfg",
@@ -78,7 +78,7 @@
       "securities-firms/paypay-securities"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/JapanFG/paypay-bank",
+      "https://finwiki.zksc.io/banking/paypay-bank",
       "https://finwiki.zksc.io/card-issuers/paypay-card",
       "https://finwiki.zksc.io/megabanks/au-fh",
       "https://finwiki.zksc.io/megabanks/ndfg",
@@ -100,6 +100,6 @@
     "nonspace_chars": 5939,
     "word_like_tokens": 988,
     "inbound_wikilinks_count": 1,
-    "last_modified": "2026-06-06"
+    "last_modified": "2026-06-08"
   }
 }

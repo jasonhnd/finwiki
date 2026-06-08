@@ -12,7 +12,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## 推論 (from デジタル戦略)
 
-- **Progmat 加盟**: ステーブルコイン基盤、[[mufg]] 主導枠組みに加盟 ^[inferred]
+- **Progmat 加盟**: ステーブルコイン基盤、[[megabanks/mufg]] 主導枠組みに加盟 ^[inferred]
 
 ## 推論 (from 4. 規制・政策)
 

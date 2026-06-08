@@ -15,7 +15,7 @@ translated_at: 2026-06-01T00:41:50.391Z
 
 ## TL;DR
 
-武藏野银行是以埼玉县为地盘的独立第一地方银行，东证 PRIME 上市，证券代码 **8336**，总行位于埼玉市大宫区。它于 1952-03-06 作为战后新设地方银行成立，目的在于补充埼玉县中小企业金融，并于 1973  在东京证券交易所上市。简称 **Musashino / むさしの**。县内竞争对手是 **埼玉理索纳银行**（[[resona-hd]] 子公司，份额 No.1）。通过加入 **TSUBASA Alliance**（由 [[chiba-bank]] 主导的地方银行广域联盟），该行共同化 IT、海外和市场运用能力。它未转为控股公司结构，仍维持独立银行体制。^[extracted]
+武藏野银行是以埼玉县为地盘的独立第一地方银行，东证 PRIME 上市，证券代码 **8336**，总行位于埼玉市大宫区。它于 1952-03-06 作为战后新设地方银行成立，目的在于补充埼玉县中小企业金融，并于 1973  在东京证券交易所上市。简称 **Musashino / むさしの**。县内竞争对手是 **埼玉理索纳银行**（[[megabanks/resona-hd]] 子公司，份额 No.1）。通过加入 **TSUBASA Alliance**（由 [[regional-banks/chiba-bank]] 主导的地方银行广域联盟），该行共同化 IT、海外和市场运用能力。它未转为控股公司结构，仍维持独立银行体制。^[extracted]
 
 ## 1. 公司概要
 
@@ -34,7 +34,7 @@ translated_at: 2026-06-01T00:41:50.391Z
 | **1952-03-06** | **武藏野银行设立**，作为战后新设地方银行，补充埼玉县中小企业金融。 |
 | 1973  | **在东京证券交易所上市**。 |
 | 2003  | **与千叶银行开展业务合作**，后来成为 TSUBASA Alliance 的前史。 |
-| 2015  | **加入 TSUBASA Alliance**，即由 [[chiba-bank]] 主导的地方银行广域联盟。 |
+| 2015  | **加入 TSUBASA Alliance**，即由 [[regional-banks/chiba-bank]] 主导的地方银行广域联盟。 |
 | 2022-04  | 东证市场区分重组后转入 PRIME。 |
 | 2024  | 中期经营计划启动。 |
 
@@ -44,7 +44,7 @@ translated_at: 2026-06-01T00:41:50.391Z
 武藏野银行（独立 / 东证 PRIME 8336）
   ├── 相关子公司：租赁、卡、保证、咨询等县内营业支援业务
   └── TSUBASA Alliance（无持股控制的业务联盟）
-        ├── 千叶银行（牵头行）[[chiba-bank]]
+        ├── 千叶银行（牵头行）[[regional-banks/chiba-bank]]
         ├── 第四北越银行
         ├── 中国银行
         ├── 伊予银行
@@ -79,7 +79,7 @@ translated_at: 2026-06-01T00:41:50.391Z
 
 ### 加入 TSUBASA Alliance（2015 以后）
 
-**TSUBASA Alliance** 是由 [[chiba-bank]] 主导的地方银行联盟。武藏野银行于 2015 年 加入，在此之前自 2003 年 起已与千叶银行存在业务合作前史。^[extracted]
+**TSUBASA Alliance** 是由 [[regional-banks/chiba-bank]] 主导的地方银行联盟。武藏野银行于 2015 年 加入，在此之前自 2003 年 起已与千叶银行存在业务合作前史。^[extracted]
 
 主要合作领域：
 
@@ -91,7 +91,7 @@ translated_at: 2026-06-01T00:41:50.391Z
 
 ### 未转为控股公司
 
-大型商业银行以及 [[fukuoka-fg]]、[[concordia-fg]]、[[hokuhoku-fg]] 等集团采用控股公司体制，但武藏野银行继续作为 **独立银行** 运营。
+大型商业银行以及 [[regional-banks/fukuoka-fg]]、[[regional-banks/concordia-fg]]、[[regional-banks/hokuhoku-fg]] 等集团采用控股公司体制，但武藏野银行继续作为 **独立银行** 运营。
 
 ## 4. 监管 / 政策
 
@@ -105,9 +105,9 @@ translated_at: 2026-06-01T00:41:50.391Z
 
 ## Related
 
-- [[chiba-bank]] · [[resona-hd]] · [[gunma-bank]] · [[concordia-fg]]
-- [[fukuoka-fg]] · [[hokuhoku-fg]]
-- [[mufg]] · [[smfg]] · [[mizuho-fg]]
+- [[regional-banks/chiba-bank]] · [[megabanks/resona-hd]] · [[regional-banks/gunma-bank]] · [[regional-banks/concordia-fg]]
+- [[regional-banks/fukuoka-fg]] · [[regional-banks/hokuhoku-fg]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]
 
 ## Sources
 

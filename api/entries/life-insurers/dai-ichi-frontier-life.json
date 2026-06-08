@@ -51,32 +51,32 @@
   "body_links": {
     "wikilinks_count": 8,
     "wikilinks": [
-      "dai-ichi-life",
       "insurance/INDEX",
       "insurance/economic-value-based-solvency",
       "insurance/life-insurance-channel-mix",
       "life-insurers/INDEX",
+      "life-insurers/dai-ichi-life",
       "life-insurers/td-financial-life",
-      "mizuho-fg",
-      "smtb"
+      "megabanks/mizuho-fg",
+      "trust-banks/smtb"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/dai-ichi-life",
       "https://finwiki.zksc.io/insurance/INDEX",
       "https://finwiki.zksc.io/insurance/economic-value-based-solvency",
       "https://finwiki.zksc.io/insurance/life-insurance-channel-mix",
       "https://finwiki.zksc.io/life-insurers/INDEX",
+      "https://finwiki.zksc.io/life-insurers/dai-ichi-life",
       "https://finwiki.zksc.io/life-insurers/td-financial-life",
-      "https://finwiki.zksc.io/mizuho-fg",
-      "https://finwiki.zksc.io/smtb"
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/trust-banks/smtb"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2224,
-    "word_like_tokens": 344,
-    "inbound_wikilinks_count": 20,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 2302,
+    "word_like_tokens": 355,
+    "inbound_wikilinks_count": 22,
+    "last_modified": "2026-06-08"
   }
 }

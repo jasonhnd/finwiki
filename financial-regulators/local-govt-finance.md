@@ -99,9 +99,9 @@ This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]].
   ├── 地方公共団体金融機構 (JFM) ── 長期低利、政策金融
   ├── 財政融資資金 (財務省) ── 国が直接融資、長期低利
   ├── 民間金融機関
-  │     ├── [[mufg]] ── 大都市自治体・大規模地方公営企業
-  │     ├── [[smfg]] ── 大都市自治体・関西圏自治体
-  │     ├── [[mizuho-fg]] ── 大都市自治体・伝統的地方自治体融資
+  │     ├── [[megabanks/mufg]] ── 大都市自治体・大規模地方公営企業
+  │     ├── [[megabanks/smfg]] ── 大都市自治体・関西圏自治体
+  │     ├── [[megabanks/mizuho-fg]] ── 大都市自治体・伝統的地方自治体融資
   │     └── 地銀・第二地銀 ── 地元自治体メインバンク
   └── 資本市場 (地方債発行) ── 大都市は市場調達増加傾向
 ```
@@ -115,7 +115,7 @@ This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]].
 
 - **補完**: 採算性低い小規模自治体・公営企業向け長期融資 (民間が積極的でない領域)
 - **金利優位**: 地方共同出資 + 高位の発行体格付 (Moody's A1 / S&P A+ / R&I AA+) による低い調達コストで民間より低金利を提供可能
-- **メガバンク側の戦略**: [[mufg]] [[smfg]] [[mizuho-fg]] は大都市自治体向けにシンジケートローン・市場性地方債引受で対応
+- **メガバンク側の戦略**: [[megabanks/mufg]] [[megabanks/smfg]] [[megabanks/mizuho-fg]] は大都市自治体向けにシンジケートローン・市場性地方債引受で対応
 
 ### 災害復興融資の特殊役割
 
@@ -148,15 +148,15 @@ This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]].
 
 - 2024 時点の正確な融資残高は? (公式 IR 要確認)
 - 能登半島地震 (2024-01) 復興融資の規模・対象は?
-- 民間メガバンク [[mufg]] [[smfg]] [[mizuho-fg]] との大都市自治体融資シェアは?
+- 民間メガバンク [[megabanks/mufg]] [[megabanks/smfg]] [[megabanks/mizuho-fg]] との大都市自治体融資シェアは?
 - 地方インフラ老朽化対応の長期戦略は? (10-20 年スパンの資金供に計画)
 - 自治体 DX・スマートシティ投資への融資拡大はあるか?
 - 過疎自治体・財政破綻リスク自治体への融資方針は?
 
 ## 8. Related
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] ── 大都市自治体融資で競合
-- [[ndfg]] ── 民間 FG の地方金融補完比較
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] ── 大都市自治体融資で競合
+- [[megabanks/ndfg]] ── 民間 FG の地方金融補完比較
 - [[financial-regulators/japan-policy-finance-map]] ── 公的金融機関全体マップ ^[planned]
 - [[financial-regulators/local-bond-market]] ── 地方債市場全体構造 ^[planned]
 

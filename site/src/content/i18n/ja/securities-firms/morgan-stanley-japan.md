@@ -16,7 +16,7 @@ translated_at: 2026-06-02T14:54:39.081Z
 
 ## 要約
 
-米 Morgan Stanley (NYSE: MS) の日本拠点。**MUFG [[mufg]] との戦略提携 (2008-09)** により、邦銀最深いグローバル IB タイアップを構築。2010-05 日本証券事業を統合し **2 社体制**(三菱 UFJ モルガン・スタンレー証券 = MUMSS / モルガン・スタンレー MUFG 証券 = MSMS) で運営。MUMSS は対面リテール + ECM/DCM、MSMS はホールセール (M&A・機関投資家)。5 大証券の一角を占め、グローバル投資銀行業務で野村 [[nomura-hd]] と並ぶ存在感。
+米 Morgan Stanley (NYSE: MS) の日本拠点。**MUFG [[megabanks/mufg]] との戦略提携 (2008-09)** により、邦銀最深いグローバル IB タイアップを構築。2010-05 日本証券事業を統合し **2 社体制**(三菱 UFJ モルガン・スタンレー証券 = MUMSS / モルガン・スタンレー MUFG 証券 = MSMS) で運営。MUMSS は対面リテール + ECM/DCM、MSMS はホールセール (M&A・機関投資家)。5 大証券の一角を占め、グローバル投資銀行業務で野村 [[securities-firms/nomura-hd]] と並ぶ存在感。
 
 ## 1. 会社概要
 
@@ -64,9 +64,9 @@ translated_at: 2026-06-02T14:54:39.081Z
 
 | 領域 | 主競合 |
 |---|---|
-| グローバル IB / M&A | [[goldman-sachs-japan]] · JP モルガン証券 · [[nomura-hd]] |
-| 国内リテール証券 | [[nomura-hd]] · 大和証券 · SMBC 日興 [[smfg]] · みずほ証券 [[mizuho-fg]] |
-| ECM/DCM 主幹事 | [[nomura-hd]] · 大和 · SMBC 日興 · みずほ |
+| グローバル IB / M&A | [[securities-firms/goldman-sachs-japan]] · JP モルガン証券 · [[securities-firms/nomura-hd]] |
+| 国内リテール証券 | [[securities-firms/nomura-hd]] · 大和証券 · SMBC 日興 [[megabanks/smfg]] · みずほ証券 [[megabanks/mizuho-fg]] |
+| ECM/DCM 主幹事 | [[securities-firms/nomura-hd]] · 大和 · SMBC 日興 · みずほ |
 | 機関投資家トレーディング | ゴールドマン · JP モルガン · BofA · Citi |
 
 ### 戦前〜統合前 (1970s〜2007)
@@ -117,7 +117,7 @@ translated_at: 2026-06-02T14:54:39.081Z
 - **二重免許構造**: MUMSS (邦銀過半) + MSMS (外資過半) で規制・顧客最適化
 - **クロスファンクション**: MUFG の銀行顧客基盤 × MS のグローバル IB プロダクト
 - **資本効率**: MUFG は持分法投資利益で Morgan Stanley 業績取込 (年間数千億円規模の利益寄与)
-- **競合差別化**: 邦銀メガ + 外資 IB の組合せは唯一無二 ([[smfg]] = 日興独立、[[mizuho-fg]] = みずほ証券独立)
+- **競合差別化**: 邦銀メガ + 外資 IB の組合せは唯一無二 ([[megabanks/smfg]] = 日興独立、[[megabanks/mizuho-fg]] = みずほ証券独立)
 
 ### ホールセール戦略 (MSMS)
 
@@ -140,12 +140,12 @@ translated_at: 2026-06-02T14:54:39.081Z
 
 | 競合 | 性質 |
 |---|---|
-| [[goldman-sachs-japan]] | 純粋外資 IB、邦銀提携なし、ホールセール集中 |
+| [[securities-firms/goldman-sachs-japan]] | 純粋外資 IB、邦銀提携なし、ホールセール集中 |
 | JP モルガン証券 | 純粋外資 IB、商業銀行併存 |
-| [[nomura-hd]] | 邦銀系最大、リテール + ホールセール両面 |
+| [[securities-firms/nomura-hd]] | 邦銀系最大、リテール + ホールセール両面 |
 | 大和証券 | 邦銀系独立、リテール強 |
-| SMBC 日興証券 ([[smfg]]) | 邦銀系傘下、リテール強 |
-| みずほ証券 ([[mizuho-fg]]) | 邦銀系傘下、IB シフト中 |
+| SMBC 日興証券 ([[megabanks/smfg]]) | 邦銀系傘下、リテール強 |
+| みずほ証券 ([[megabanks/mizuho-fg]]) | 邦銀系傘下、IB シフト中 |
 
 ## 5. 規制・政策
 
@@ -157,10 +157,10 @@ translated_at: 2026-06-02T14:54:39.081Z
 
 ## 関連項目
 
-- [[mufg]] — 親会社・資本提携先
-- [[nomura-hd]] · [[goldman-sachs-japan]] — 主競合
-- [[smfg]] · [[mizuho-fg]] — メガバンク系証券の競合
-- [[sbi-hd]] — リテール証券競合 (ネット系)
+- [[megabanks/mufg]] — 親会社・資本提携先
+- [[securities-firms/nomura-hd]] · [[securities-firms/goldman-sachs-japan]] — 主競合
+- [[megabanks/smfg]] · [[megabanks/mizuho-fg]] — メガバンク系証券の競合
+- [[megabanks/sbi-hd]] — リテール証券競合 (ネット系)
 
 ## 出典
 
@@ -169,7 +169,7 @@ translated_at: 2026-06-02T14:54:39.081Z
 - **Wikipedia: モルガン・スタンレー MUFG 証券** (2026-05-19 抽出)
 - Morgan Stanley 年次報告書 (2024 / Form 10-K, 公開資料)
 - MUFG IR 開示 (Morgan Stanley 戦略提携関連、2008-09〜2024)
-- 関連: [[mufg]] (MUFG 沿革・MS 提携詳細)
+- 関連: [[megabanks/mufg]] (MUFG 沿革・MS 提携詳細)
 
 ---
 

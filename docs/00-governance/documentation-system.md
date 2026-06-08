@@ -46,6 +46,7 @@ FinWiki 的默认开发顺序是先规格、后代码：
 
 具体分工、任务包模板和并行上限见 [Model-Agent Workflow](../06-implementation/model-agent-workflow.md)。
 
+
 ## Update Triggers
 
 | 触发 | 必须更新 |

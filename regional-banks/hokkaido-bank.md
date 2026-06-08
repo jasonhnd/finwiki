@@ -49,15 +49,15 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 ## 4. Why this page matters
 
 - Parent FG coverage alone did not expose the licensed bank boundary.
-- Useful peer for [[hokuyo-bank]] and other Hokkaido regional-bank pages.
+- Useful peer for [[regional-banks/hokuyo-bank]] and other Hokkaido regional-bank pages.
 - Registry-backed B2.1 regional-bank operating-company page.
 
 ## Related
 
 - [[regional-banks/INDEX|regional-banks INDEX]]
-- [[hokuhoku-fg]]
-- [[hokuriku-bank]]
-- [[hokuyo-bank]]
+- [[regional-banks/hokuhoku-fg]]
+- [[regional-banks/hokuriku-bank]]
+- [[regional-banks/hokuyo-bank]]
 - [[financial-regulators/fsa|FSA]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]

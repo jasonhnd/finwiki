@@ -16,7 +16,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-広島県地盤の中国地方最大級の地銀ホールディングス。**2020-10-01 広島銀行 単独株式移転で持株会社化**。傘下に **[[hiroshima-bank|広島銀行]]**（コア・1878 創業前身を持つ）、ひろぎん証券、ひろぎん信用保証、ひろぎん地域経済研究所 等。広島県内シェア **No.1**（預貸金とも県内首位）。マツダ自動車・地元自動車部品サプライチェーンへの融資基盤が強み。中国地方では [[regional-banks/chugin-okayama|chugin-fg]]（[[chugoku-bank|中国銀行]]・岡山）、[[san-in-godo-bank]]（山陰合同・松江）、[[yamaguchi-fg]]（山口 FG・下関）と並ぶ "中国 4 行" 構図。
+広島県地盤の中国地方最大級の地銀ホールディングス。**2020-10-01 広島銀行 単独株式移転で持株会社化**。傘下に **[[regional-banks/hiroshima-bank|広島銀行]]**（コア・1878 創業前身を持つ）、ひろぎん証券、ひろぎん信用保証、ひろぎん地域経済研究所 等。広島県内シェア **No.1**（預貸金とも県内首位）。マツダ自動車・地元自動車部品サプライチェーンへの融資基盤が強み。中国地方では [[regional-banks/chugin-okayama|chugin-fg]]（[[regional-banks/chugoku-bank|中国銀行]]・岡山）、[[regional-banks/san-in-godo-bank]]（山陰合同・松江）、[[regional-banks/yamaguchi-fg]]（山口 FG・下関）と並ぶ "中国 4 行" 構図。
 
 ## 1 。公司简介
 
@@ -87,15 +87,15 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 |---|---|---|---|
 | **广岛银行** |广岛市 | Hirogin HD (7337) |广岛县 No. 1 ・中国地区最大 |
 |中国银行|冈山市 | [[regional-banks/chugin-okayama|chugin-fg]] |冈山县第 1 ・ 2024  转变为控股公司 |
-|山阴神户银行 |松江市 | [[san-in-godo-bank]] |岛根/鸟取编号 1  |
-|山口银行、红叶银行、北九州银行 |下关 | [[yamaguchi-fg]] |山口 + 广岛（红叶）+ 北九州 3 行 系统 |
+|山阴神户银行 |松江市 | [[regional-banks/san-in-godo-bank]] |岛根/鸟取编号 1  |
+|山口银行、红叶银行、北九州银行 |下关 | [[regional-banks/yamaguchi-fg]] |山口 + 广岛（红叶）+ 北九州 3 行 系统 |
 
-特别是在广岛县，它与附属于 [[yamaguchi-fg]]** 的 Momiji 银行直接竞争。 Yamaguchi FG 的历史是 2006  Yamaguchi Bank + Momiji HD（与之前的 Hirogin Financial Restructuring 分离），并且在地理位置上距离广岛银行最近。
+特别是在广岛县，它与附属于 [[regional-banks/yamaguchi-fg]]** 的 Momiji 银行直接竞争。 Yamaguchi FG 的历史是 2006  Yamaguchi Bank + Momiji HD（与之前的 Hirogin Financial Restructuring 分离），并且在地理位置上距离广岛银行最近。
 
 ### 成为控股公司的战略意义
 
 - ** 2020 - 10  Hirogin HD 成立**：通过独家股权转让成为控股公司（仅限广岛银行）。将证券、担保、租赁等外围业务从主银行分离出来 → 使其成为专业子公司 → 争取集团协同效应
-- 在中国地区，它已与 2022 、[[yamaguchi-fg]]、2024  和 [[regional-banks/chugin-okayama|chugin-fg]] 一起转换为控股公司。
+- 在中国地区，它已与 2022 、[[regional-banks/yamaguchi-fg]]、2024  和 [[regional-banks/chugin-okayama|chugin-fg]] 一起转换为控股公司。
 - 开发跨区域并购和区域银行重组场景的控股公司平台
 
 ### 中期管理计划（2024 ~ 2026 年 度）
@@ -115,9 +115,9 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## Related
 
-- [[regional-banks/chugin-okayama|chugin-fg]] · [[san-in-godo-bank]] · [[yamaguchi-fg]] — 中国地区 4 行
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] — Megabank
-- [[ndfg]]
+- [[regional-banks/chugin-okayama|chugin-fg]] · [[regional-banks/san-in-godo-bank]] · [[regional-banks/yamaguchi-fg]] — 中国地区 4 行
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] — Megabank
+- [[megabanks/ndfg]]
 
 ## Sources
 

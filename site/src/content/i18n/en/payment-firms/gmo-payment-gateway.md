@@ -16,7 +16,7 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it again
 
 ##TL;DR
 
-One of the largest payment service providers (PSP, Payment Service Provider) in Japan. We provide a one-stop service for EC merchants: card payments such as Visa/Master/JCB/Amex + convenience store payments + bank transfers + electronic money. 1995-03-25 Established as Card Commerce Co., Ltd., renamed 2000 , 2005 TSE Mothers, 2008 Listed on the First Section of the Tokyo Stock Exchange (currently PRIME 3769). GMO Internet Group consolidated subsidiary. Strategic alliance with Sumitomo Mitsui Card ([[smfg]] series) and expansion in Asia (Vietnam NextPay / Taiwan ECPay, etc.) are the pillars of the medium-term plan. ^[extracted]
+One of the largest payment service providers (PSP, Payment Service Provider) in Japan. We provide a one-stop service for EC merchants: card payments such as Visa/Master/JCB/Amex + convenience store payments + bank transfers + electronic money. 1995-03-25 Established as Card Commerce Co., Ltd., renamed 2000 , 2005 TSE Mothers, 2008 Listed on the First Section of the Tokyo Stock Exchange (currently PRIME 3769). GMO Internet Group consolidated subsidiary. Strategic alliance with Sumitomo Mitsui Card ([[megabanks/smfg]] series) and expansion in Asia (Vietnam NextPay / Taiwan ECPay, etc.) are the pillars of the medium-term plan. ^[extracted]
 
 ## 1. Company profile
 
@@ -53,7 +53,7 @@ One of the largest payment service providers (PSP, Payment Service Provider) in 
 ### Domestic Strategy
 
 - **EC affiliated store base**: The operating store network is 171,257 店 (end of 2026-03 , 829,062 店 including fincode byGMO, etc.)
-- **Strategic alliance with Sumitomo Mitsui Card**: Deepening relationships with [[smfg]] family card companies, and also developing SMBC GMO PAYMENT (joint venture with SMBC, 2015  established. 2021  reorganized into Sumitomo Mitsui Card 50% / GMO-PG 40% / Sumitomo Mitsui Banking Corporation 10%)
+- **Strategic alliance with Sumitomo Mitsui Card**: Deepening relationships with [[megabanks/smfg]] family card companies, and also developing SMBC GMO PAYMENT (joint venture with SMBC, 2015  established. 2021  reorganized into Sumitomo Mitsui Card 50% / GMO-PG 40% / Sumitomo Mitsui Banking Corporation 10%)
 - **Pay.JP**: Easy payment SDK for developers to compete with Stripe
 
 ### Overseas strategy
@@ -64,7 +64,7 @@ One of the largest payment service providers (PSP, Payment Service Provider) in 
 
 |competition|Strengths|standing position|
 |---|---|---|
-|SB Payment Service|[[paypay-fg]] / SoftBank Group/PayPay collaboration|The country’s largest level, QR decision affinity|
+|SB Payment Service|[[megabanks/paypay-fg]] / SoftBank Group/PayPay collaboration|The country’s largest level, QR decision affinity|
 |DG Financial Technology (formerly VeriTrans)|Digital garage/old timer PSP|EC long-established member store|
 |SMBC GMO PAYMENT|SMBC × GMO-PG 合弁|Banking channel|
 |Stripe/Adyen|Global Developer First|Cross-border EC|
@@ -90,13 +90,13 @@ One of the largest payment service providers (PSP, Payment Service Provider) in 
 
 ## 8. Related
 
-- [[smfg]] (Sumitomo Mitsui Card partnership/SMBC GMO PAYMENT joint venture parent)
-- [[paypay-fg]] (SB Payment Service Competitor)
-- [[jcb]] (Card International Brand)
-- [[mufg]] (Card industry via Mitsubishi UFJ Nikos)
-- [[money-forward]] · [[freee]] (Accounting SaaS integration)
-- [[paidy]] (deferred payment conflict/complement)
-- [[mercari-hd]] (EC customer level)
+- [[megabanks/smfg]] (Sumitomo Mitsui Card partnership/SMBC GMO PAYMENT joint venture parent)
+- [[megabanks/paypay-fg]] (SB Payment Service Competitor)
+- [[card-issuers/jcb]] (Card International Brand)
+- [[megabanks/mufg]] (Card industry via Mitsubishi UFJ Nikos)
+- [[payment-firms/money-forward]] · [[payment-firms/freee]] (Accounting SaaS integration)
+- [[payment-firms/paidy]] (deferred payment conflict/complement)
+- [[payment-firms/mercari-hd]] (EC customer level)
 
 ## Sources
 

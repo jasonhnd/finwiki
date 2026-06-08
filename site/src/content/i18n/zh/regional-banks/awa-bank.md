@@ -17,7 +17,7 @@ translated_at: 2026-05-31T11:13:44.892Z
 
 ##TL;博士
 
-安波银行是一家地区性银行，其主要分行位于德岛县，并被列入金融厅的银行牌照名单中。德岛县第一家地方银行运营公司主力，[[tomony-hd]] 伞下 [[tokushima-taisho-bank|徳島大正銀行]] 它将被视为地区银行同行，是一个独立的法人实体。
+安波银行是一家地区性银行，其主要分行位于德岛县，并被列入金融厅的银行牌照名单中。德岛县第一家地方银行运营公司主力，[[regional-banks/tomony-hd]] 伞下 [[regional-banks/tokushima-taisho-bank|徳島大正銀行]] 它将被视为地区银行同行，是一个独立的法人实体。
 
 ## 1。许可证/组边界
 
@@ -31,21 +31,21 @@ translated_at: 2026-05-31T11:13:44.892Z
 
 ## 2。运营模式
 
-安波银行是一家区域银行，负责零售存款、中小企业融资、地方企业贷款和区域关系银行业务，主要位于德岛县。位于德岛县 [[tokushima-taisho-bank]] 在四国广阔的地区，与 [[hyakujushi-bank]], [[iyo-bank]]， 和 [[shikoku-bank]] 和对等边界。
+安波银行是一家区域银行，负责零售存款、中小企业融资、地方企业贷款和区域关系银行业务，主要位于德岛县。位于德岛县 [[regional-banks/tokushima-taisho-bank]] 在四国广阔的地区，与 [[regional-banks/hyakujushi-bank]], [[regional-banks/iyo-bank]]， 和 [[regional-banks/shikoku-bank]] 和对等边界。
 
 ## 3。为什么此页面很重要
 
 - 缩小了 Awa 银行在 FSA 中的确切名称运营公司的差距。
-- 将德岛第一地区银行的覆盖范围与 [[tomony-hd]] / [[tokushima-taisho-bank]]。
+- 将德岛第一地区银行的覆盖范围与 [[regional-banks/tomony-hd]] / [[regional-banks/tokushima-taisho-bank]]。
 - 为地区银行整合和第二地区银行比较提供四国同行锚点。
 
 ＃＃ 有关的
 
-- [[tokushima-taisho-bank]]
-- [[tomony-hd]]
-- [[hyakujushi-bank]]
-- [[iyo-bank]]
-- [[shikoku-bank]]
+- [[regional-banks/tokushima-taisho-bank]]
+- [[regional-banks/tomony-hd]]
+- [[regional-banks/hyakujushi-bank]]
+- [[regional-banks/iyo-bank]]
+- [[regional-banks/shikoku-bank]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 

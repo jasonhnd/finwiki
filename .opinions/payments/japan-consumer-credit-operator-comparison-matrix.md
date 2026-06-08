@@ -20,10 +20,10 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## Open questions
 
-- Will MUFG consolidate its 3-line consumer-credit footprint (NICOS + ACOM + JACCS) into a unified subsidiary, or keep the equity-method structure for [[JapanFG/acom|ACOM]] and [[JapanFG/jaccs|JACCS]] indefinitely?
+- Will MUFG consolidate its 3-line consumer-credit footprint (NICOS + ACOM + JACCS) into a unified subsidiary, or keep the equity-method structure for [[consumer-finance/acom|ACOM]] and [[card-issuers/jaccs|JACCS]] indefinitely?
 - Does the 2024 BNPL clarification under 改正割賦販売法 close the regulatory ambiguity for pure-play BNPL, or do new wallet-linked checkout-credit products generate new boundary cases?
 - Will フラット 35 不正利用 enforcement reshape JHF participating-bank due-diligence to the point that bank-FG mortgage underwriting cost rises materially?
-- Can independent [[JapanFG/aiful|AIFUL]] sustain its non-bank-FG position long-term against ACOM (MUFG-backed funding) and Promise (SMFG-backed funding), or does eventual bank-FG affiliation become inevitable?
+- Can independent [[consumer-finance/aiful|AIFUL]] sustain its non-bank-FG position long-term against ACOM (MUFG-backed funding) and Promise (SMFG-backed funding), or does eventual bank-FG affiliation become inevitable?
 - Will PSP-adjacent credit (Merpay / PayPay / EC-platform embedded) get a dedicated regulatory category, or does it remain a per-product license-stack analysis under the existing METI + FSA boundary?
 - Does the EV / KINTO subscription / car-sharing trend compress the dealership-credit channel enough to force shinpan-fronted auto-loan and OEM-captive auto-loan into structural consolidation?
 - Will Japan develop a national microcredit framework, or does microcredit remain a small 貸金業 segment plus 社会福祉協議会 channels indefinitely?

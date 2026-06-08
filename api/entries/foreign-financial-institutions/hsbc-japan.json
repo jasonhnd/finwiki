@@ -49,36 +49,34 @@
     "競合関係"
   ],
   "body_links": {
-    "wikilinks_count": 9,
+    "wikilinks_count": 8,
     "wikilinks": [
       "banking/INDEX",
       "banking/foreign-bank-japan-retreat",
-      "citigroup-japan",
       "foreign-financial-institutions/INDEX",
       "foreign-financial-institutions/citigroup-japan",
-      "mizuho-fg",
-      "mufg",
-      "sbi-shinsei-bank",
-      "smfg"
+      "megabanks/mizuho-fg",
+      "megabanks/mufg",
+      "megabanks/smfg",
+      "regional-banks/sbi-shinsei-bank"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/foreign-bank-japan-retreat",
-      "https://finwiki.zksc.io/citigroup-japan",
       "https://finwiki.zksc.io/foreign-financial-institutions/INDEX",
       "https://finwiki.zksc.io/foreign-financial-institutions/citigroup-japan",
-      "https://finwiki.zksc.io/mizuho-fg",
-      "https://finwiki.zksc.io/mufg",
-      "https://finwiki.zksc.io/sbi-shinsei-bank",
-      "https://finwiki.zksc.io/smfg"
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/smfg",
+      "https://finwiki.zksc.io/regional-banks/sbi-shinsei-bank"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3937,
-    "word_like_tokens": 649,
-    "inbound_wikilinks_count": 10,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 4116,
+    "word_like_tokens": 667,
+    "inbound_wikilinks_count": 16,
+    "last_modified": "2026-06-08"
   }
 }

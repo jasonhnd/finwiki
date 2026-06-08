@@ -23,7 +23,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-株式会社徳島大正銀行は、金融庁の銀行免許一覧に掲載される徳島県本店の第二地方銀行。[[tomony-hd]] 傘下の Tokushima / Osaka cross-market operating bank であり、[[awa-bank|阿波銀行]] とは別法人の second-regional-bank peer として扱う。
+株式会社徳島大正銀行は、金融庁の銀行免許一覧に掲載される徳島県本店の第二地方銀行。[[regional-banks/tomony-hd]] 傘下の Tokushima / Osaka cross-market operating bank であり、[[regional-banks/awa-bank|阿波銀行]] とは別法人の second-regional-bank peer として扱う。
 
 ## 1. License / group boundary
 
@@ -31,26 +31,26 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 |---|---|
 | Legal name | 株式会社徳島大正銀行 |
 | License route | Banking Act second regional bank; FSA bank license list |
-| Group boundary | [[tomony-hd]] operating bank |
+| Group boundary | [[regional-banks/tomony-hd]] operating bank |
 | Home market | Tokushima / Tokushima City; Osaka legacy branch network |
 | Wiki role | Tokushima second-regional-bank operating-company page |
 
 ## 2. Operating model
 
-徳島大正銀行は、徳島県と旧大正銀行由来の Osaka branch network を軸に retail deposits, SME finance, local relationship banking, and cross-regional business support を担う second regional bank。[[tomony-hd]] page は group strategy and two-bank structure を扱い、本ページは bank-license entity を扱う。Shikoku regional-bank consolidation context は [[banking/regional-bank-consolidation-pattern]] を参照。
+徳島大正銀行は、徳島県と旧大正銀行由来の Osaka branch network を軸に retail deposits, SME finance, local relationship banking, and cross-regional business support を担う second regional bank。[[regional-banks/tomony-hd]] page は group strategy and two-bank structure を扱い、本ページは bank-license entity を扱う。Shikoku regional-bank consolidation context は [[banking/regional-bank-consolidation-pattern]] を参照。
 
 ## 3. Why this page matters
 
 - Closes the FSA exact-name page for 徳島大正銀行.
-- Separates the bank license from [[tomony-hd]] holding-company coverage.
-- Provides a peer anchor for [[awa-bank]] and [[kagawa-bank]] in the Tomony / Shikoku map.
+- Separates the bank license from [[regional-banks/tomony-hd]] holding-company coverage.
+- Provides a peer anchor for [[regional-banks/awa-bank]] and [[regional-banks/kagawa-bank]] in the Tomony / Shikoku map.
 
 ## Related
 
-- [[tomony-hd]]
-- [[awa-bank]]
-- [[kagawa-bank]]
-- [[hyakujushi-bank]]
+- [[regional-banks/tomony-hd]]
+- [[regional-banks/awa-bank]]
+- [[regional-banks/kagawa-bank]]
+- [[regional-banks/hyakujushi-bank]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 

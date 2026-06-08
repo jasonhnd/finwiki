@@ -84,7 +84,7 @@ Japan Post Holdings (holding company / listed 6178)
 ### Former Postal Life Insurance Brand and Post-Office Network
 
 - The **postal life insurance brand founded in 1916 ** has extremely deep penetration among regional and elderly customers, and even after privatization the **nationwide network of about 2 万 post offices** is used as the retail base -> a physical-access advantage other life insurers do not have
-- Bancassurance and internet sales are late compared with peers (such as [[dai-ichi-life]] Frontier Life)
+- Bancassurance and internet sales are late compared with peers (such as [[life-insurers/dai-ichi-life]] Frontier Life)
 
 ### Product Diversification and Post-Privatization Constraints
 
@@ -123,9 +123,9 @@ Japan Post Holdings (holding company / listed 6178)
 
 ## Related
 
-- [[dai-ichi-life]] · [[nippon-life]] — Major domestic life-insurance peers
-- [[tokio-marine]] · [[msad]] · [[sompo]] — Major non-life insurers (insurance industry overall)
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] — Megabanks (FSA-supervised peers)
+- [[life-insurers/dai-ichi-life]] · [[life-insurers/nippon-life]] — Major domestic life-insurance peers
+- [[non-life-insurers/tokio-marine]] · [[non-life-insurers/msad]] · [[non-life-insurers/sompo]] — Major non-life insurers (insurance industry overall)
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] — Megabanks (FSA-supervised peers)
 
 ## Sources
 

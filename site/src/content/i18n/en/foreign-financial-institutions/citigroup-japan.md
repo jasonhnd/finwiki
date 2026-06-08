@@ -44,7 +44,7 @@ Citigroup Inc. (NYSE: C・Lianbang Preparation System Supervision)
 | 1998 | Parent Citicorp + Travelers Group merger → **Citigroup launched** |
 | 2007〜2008 | Subprime crisis → Citi posting large-scale losses |
 | **2008-11/2009** | In the aftermath of the Lehman Shock, Citi **U.S. government public funding injection** (250 億 dollars + additional support via TARP, subject to stress test) / Effective nationalization phase |
-| **2009-10** | **Sold Nikko Cordial Securities to SMFG** (→ [[smbc-nikko]] after). Part of Citi Japan Wholesale Reconstruction |
+| **2009-10** | **Sold Nikko Cordial Securities to SMFG** (→ [[securities-firms/smbc-nikko]] after). Part of Citi Japan Wholesale Reconstruction |
 | 2010s First half | Japan Retail to be subject to review under global "Citi Holdings" non-core asset restructuring scheme |
 | **2014-09** | **Citibank Retail → Announcement of sale to SMBC Trust Bank** (individual customers, branches, PB business) |
 | **2015-11** | **Retail sale completed** → Continued under the ``PRESTIA'' brand** under SMBC Trust Bank. Citibank (corporate personality) disappears |
@@ -69,10 +69,10 @@ Citigroup Inc. (NYSE: C・Lianbang Preparation System Supervision)
 
 | Field | Main competition |
 |---|---|
-| Foreign IB / M&A | [[goldman-sachs-japan]] / [[morgan-stanley-japan]] / JP Morgan Japan / Barclays |
+| Foreign IB / M&A | [[securities-firms/goldman-sachs-japan]] / [[securities-firms/morgan-stanley-japan]] / JP Morgan Japan / Barclays |
 | GTS / Transaction Bank | JP Morgan / HSBC / Deutsche Bank / BNP Paribas |
 | Custody | State Street / BNY Mellon / JP Morgan / HSBC |
-| Cross-border of Japanese megabanks | [[mufg]] / [[smfg]] / [[mizuho-fg]] (including Morgan Stanley JV) |
+| Cross-border of Japanese megabanks | [[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]] (including Morgan Stanley JV) |
 
 ### Connection with global strategy
 
@@ -89,9 +89,9 @@ Citigroup Inc. (NYSE: C・Lianbang Preparation System Supervision)
 
 ## Related
 
-- **Competing foreign investment IB**: [[goldman-sachs-japan]] · [[morgan-stanley-japan]]
-- **Seller/Historical Relationship**: [[smbc-nikko]] (former Nikko Cordial Securities, 2009-10  seller) [[smfg]] (separate group from PRESTIA parent company [[sumitomo-mitsui-trust]], SMBC Trust Bank is affiliated with SMFG)
-- **Japanese Mega**: [[mufg]] · [[smfg]] · [[mizuho-fg]]
+- **Competing foreign investment IB**: [[securities-firms/goldman-sachs-japan]] · [[securities-firms/morgan-stanley-japan]]
+- **Seller/Historical Relationship**: [[securities-firms/smbc-nikko]] (former Nikko Cordial Securities, 2009-10  seller) [[megabanks/smfg]] (separate group from PRESTIA parent company [[trust-banks/sumitomo-mitsui-trust]], SMBC Trust Bank is affiliated with SMFG)
+- **Japanese Mega**: [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]
 
 ## Sources
 

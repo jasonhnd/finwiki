@@ -15,7 +15,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-A former internet bank that went through a dramatic parent-company replacement: **2025-09-25 TSE Standard delisting -> 2025-10-01 consolidation as an NTT Docomo subsidiary -> 2025-10-02 full dissolution of the SBI HD capital relationship -> scheduled renaming to "Docomo SMTB Net Bank" on 2026-08-03**. As a Sumitomo Mitsui Trust + SBI HD 50:50  JV, it opened on 2007-09-24, listed on PRIME on 2023-03-29, and after only 2  and a half years NTT Docomo acquired SBI HD's stake. With **FY2024 (period 2025-03 ) consolidated net income of 281 億円, ordinary revenue of 1,465 億円, deposits of 9 兆 8,216 億円, and 825 万 accounts**, it is second in scale in the internet-bank industry after [[banking/rakuten-bank|rakuten-bank]]. **Internet-bank No.1 -class home-loan handling volume** and **one of Japan's largest BaaS (NEOBANK) providers** are its 2  core axes. It is a rare case where the bank that had been the backend for "docomo NEOBANK / d Smart Bank" was absorbed by its partner [[ndfg]] itself.
+A former internet bank that went through a dramatic parent-company replacement: **2025-09-25 TSE Standard delisting -> 2025-10-01 consolidation as an NTT Docomo subsidiary -> 2025-10-02 full dissolution of the SBI HD capital relationship -> scheduled renaming to "Docomo SMTB Net Bank" on 2026-08-03**. As a Sumitomo Mitsui Trust + SBI HD 50:50  JV, it opened on 2007-09-24, listed on PRIME on 2023-03-29, and after only 2  and a half years NTT Docomo acquired SBI HD's stake. With **FY2024 (period 2025-03 ) consolidated net income of 281 億円, ordinary revenue of 1,465 億円, deposits of 9 兆 8,216 億円, and 825 万 accounts**, it is second in scale in the internet-bank industry after [[banking/rakuten-bank|rakuten-bank]]. **Internet-bank No.1 -class home-loan handling volume** and **one of Japan's largest BaaS (NEOBANK) providers** are its 2  core axes. It is a rare case where the bank that had been the backend for "docomo NEOBANK / d Smart Bank" was absorbed by its partner [[megabanks/ndfg]] itself.
 
 ## 1. Company Overview
 
@@ -24,7 +24,7 @@ A former internet bank that went through a dramatic parent-company replacement: 
 **Securities code**: Former TSE STANDARD 7163 (**delisted on 2025-09-25**; the former PRIME listing moved in the 2024  Standard Market reclassification)
 **Established**: 2007-09-24 (opened the same day)
 **Current parent companies** (from 2025-10-02):
-  - **NTT Docomo**: ownership ratio **55.37%** (consolidated subsidiary under [[ndfg]])
+  - **NTT Docomo**: ownership ratio **55.37%** (consolidated subsidiary under [[megabanks/ndfg]])
   - **Sumitomo Mitsui Trust Bank**: ownership ratio **44.63%** (voting rights are 50:50)
 **Business type**: Internet bank (ordinary bank license) + BaaS provider
 **Head office**: Minato-ku, Tokyo
@@ -62,7 +62,7 @@ At PRIME listing on 2023-03-29:
   NTT Docomo 55.37% + Sumitomo Mitsui Trust 44.63% (NTT Docomo sells 10.44% to Sumitomo Mitsui Trust)
   Voting-rights ratio 50:50
   名; name: "Docomo SMTB Net Bank, Ltd."
-  Positioning: under [[ndfg]], among the 4 社 companies, 1 社 (scheduled to be established on 2026-07-01)
+  Positioning: under [[megabanks/ndfg]], among the 4 社 companies, 1 社 (scheduled to be established on 2026-07-01)
 ```
 
 ### Key Timeline
@@ -80,7 +80,7 @@ At PRIME listing on 2023-03-29:
 | **2025-09-25** | **Delisted from the TSE Standard Market** |
 | **2025-10-01** | **Consolidated as an NTT Docomo subsidiary** (ownership ratio about 65.81%) |
 | **2025-10-02** | **SBI HD capital relationship fully dissolved** |
-| 2026-07-01 (scheduled) | [[ndfg]] (NTT Docomo Financial Group) established to oversee 4 社 financial companies including SBI Sumishin |
+| 2026-07-01 (scheduled) | [[megabanks/ndfg]] (NTT Docomo Financial Group) established to oversee 4 社 financial companies including SBI Sumishin |
 | 2026-08-03 (scheduled) | **Renamed "Docomo SMTB Net Bank"**, with NTT Docomo 55.37% / Sumitomo Mitsui Trust 44.63% |
 
 ## 2. Business Segment Map
@@ -106,7 +106,7 @@ SBI Sumishin Net Bank provides banking functions to other companies through APIs
 | **Yamada NEOBANK** | Yamada HD | 2021 |
 | **Ouchi Direct NEOBANK** | Nomura Real Estate | 2021 |
 | **Dai-ichi Life NEOBANK** | Dai-ichi Life | 2022 |
-| **docomo NEOBANK / d Smart Bank** ★ | [[ndfg]] / NTT Docomo | 2022  -> 2025-10  parent-company conversion |
+| **docomo NEOBANK / d Smart Bank** ★ | [[megabanks/ndfg]] / NTT Docomo | 2022  -> 2025-10  parent-company conversion |
 | **Takashimaya NEOBANK** | Takashimaya | 2022 |
 | **Open House NEOBANK** | Open House Group | 2023 |
 | **Keio NEOBANK** | Keio Group | - |
@@ -130,7 +130,7 @@ SBI Sumishin Net Bank provides banking functions to other companies through APIs
 
 ### Partnership / Acquisition Strategy (from 2025-10  onward)
 
-- **NTT Docomo (new largest shareholder)**: From 2025-10-01 onward, a consolidated subsidiary and core financial function under [[ndfg]]. docomo NEOBANK is promoted from a "BaaS partnership" to an "in-house bank service."
+- **NTT Docomo (new largest shareholder)**: From 2025-10-01 onward, a consolidated subsidiary and core financial function under [[megabanks/ndfg]]. docomo NEOBANK is promoted from a "BaaS partnership" to an "in-house bank service."
 - **Sumitomo Mitsui Trust Bank (joint parent company)**: The JV partner since establishment; provision of trust and pension infrastructure continues.
 - **SBI HD (capital relationship dissolved)**: Fully dissolved on 2025-10-02. The future of "Hybrid Deposit" with SBI Securities and crypto-asset linkage APIs with SBI VC Trade is not yet fixed.
 - **Past links with the former parent SBI line**: How existing API links with SBI Securities / SBI VC Trade continue or shrink is the issue.
@@ -160,8 +160,8 @@ SBI Sumishin Net Bank provides banking functions to other companies through APIs
 
 ## Related
 
-- [[ndfg]] · [[trust-banks/sumitomo-mitsui-trust|smtb-hd]] · [[sbi-hd]] · [[banking/rakuten-bank|rakuten-bank]] · [[banking/paypay-bank|paypay-bank]]
-- [[mufg]] · [[smfg]] · [[mizuho-fg]]
+- [[megabanks/ndfg]] · [[trust-banks/sumitomo-mitsui-trust|smtb-hd]] · [[megabanks/sbi-hd]] · [[banking/rakuten-bank|rakuten-bank]] · [[banking/paypay-bank|paypay-bank]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]
 - [[banking/minna-bank-baas-model]] · [[banking/mercari-bank-license-stack]]
 - [[exchanges/jp-crypto-exchange-overview|jp-crypto-exchange-overview]]
 

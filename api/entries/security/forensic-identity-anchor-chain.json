@@ -41,40 +41,38 @@
     "Provenance"
   ],
   "body_links": {
-    "wikilinks_count": 11,
+    "wikilinks_count": 10,
     "wikilinks": [
       "INDEX",
-      "bytecode-forensic-three-tier-verify",
       "exchanges/coincheck-nem-hack-detailed-analysis",
       "exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis",
       "exchanges/global-crypto-forensics-vendor-layer",
       "exchanges/jp-vasp-incident-history",
       "fintech/chain-level-ofac-freeze-precedent",
-      "fork-and-rebrand-5-layer-audit-framework",
-      "module-path-confusion-supply-chain-attack",
       "security/bytecode-forensic-three-tier-verify",
+      "security/fork-and-rebrand-5-layer-audit-framework",
+      "security/module-path-confusion-supply-chain-attack",
       "systems/INDEX"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/bytecode-forensic-three-tier-verify",
       "https://finwiki.zksc.io/exchanges/coincheck-nem-hack-detailed-analysis",
       "https://finwiki.zksc.io/exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis",
       "https://finwiki.zksc.io/exchanges/global-crypto-forensics-vendor-layer",
       "https://finwiki.zksc.io/exchanges/jp-vasp-incident-history",
       "https://finwiki.zksc.io/fintech/chain-level-ofac-freeze-precedent",
-      "https://finwiki.zksc.io/fork-and-rebrand-5-layer-audit-framework",
-      "https://finwiki.zksc.io/module-path-confusion-supply-chain-attack",
       "https://finwiki.zksc.io/security/bytecode-forensic-three-tier-verify",
+      "https://finwiki.zksc.io/security/fork-and-rebrand-5-layer-audit-framework",
+      "https://finwiki.zksc.io/security/module-path-confusion-supply-chain-attack",
       "https://finwiki.zksc.io/systems/INDEX"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2657,
-    "word_like_tokens": 421,
-    "inbound_wikilinks_count": 14,
-    "last_modified": "2026-05-29"
+    "nonspace_chars": 2684,
+    "word_like_tokens": 424,
+    "inbound_wikilinks_count": 16,
+    "last_modified": "2026-06-08"
   }
 }

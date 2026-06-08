@@ -62,7 +62,7 @@ translated_at: 2026-05-31T11:13:44.942Z
 |---|---|
 |主要地点|bitFlyer / Coincheck（Monex 旗下）/GMO Coin / SBI VC Trade|
 |职业生涯中期位置|**BitTrade** / DMM 比特币（旧）/bitbank / LINE Xenesis（旧）等。|
-|银行系统|通过 [[mufg]] Progmat 移动稳定币 / [[smfg]] 等|
+|银行系统|通过 [[megabanks/mufg]] Progmat 移动稳定币 / [[megabanks/smfg]] 等|
 |主要海外国内法人|Binance Japan（原樱花交易所比特币收购）等|
 
 ### 策略主题
@@ -87,8 +87,8 @@ translated_at: 2026-05-31T11:13:44.942Z
 
 ＃＃ 有关的
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[sbi-hd]]
-- [[bitflyer]] · [[exchanges/jp-exchange-coincheck|coincheck]] · [[gmo-coin]] · [[exchanges/jp-exchange-sbi-vc-trade|sbi-vc-trade]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[megabanks/sbi-hd]]
+- [[payment-firms/bitflyer]] · [[exchanges/jp-exchange-coincheck|coincheck]] · [[payment-firms/gmo-coin]] · [[exchanges/jp-exchange-sbi-vc-trade|sbi-vc-trade]]
 
 ## 来源
 

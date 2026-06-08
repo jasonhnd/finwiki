@@ -39,16 +39,16 @@ translated_at: 2026-06-01T00:41:50.450Z
 
 - 它是海事保险和船舶金融的**前置基础设施锚点**，对理解保险业务不可或缺，但在传统金融机构分类中容易遗漏。
 - 与 [[financial-regulators/japan-pi-club]] 一起完成“海事基础设施双核心”（船级协会 + P&I 俱乐部）集群。
-- 可视化原保险损保（[[tokio-marine-nichido-fire]] / [[mitsui-sumitomo-insurance]] / [[sompo-japan-insurance]]）与航运业之间的系统连接。
+- 可视化原保险损保（[[non-life-insurers/tokio-marine-nichido-fire]] / [[non-life-insurers/mitsui-sumitomo-insurance]] / [[non-life-insurers/sompo-japan-insurance]]）与航运业之间的系统连接。
 - 作为全球 IACS 的日本接点，脱碳监管对应也会影响未来承保风险评估轴。
 
 ## Related
 
 - [[financial-regulators/INDEX]]
-- [[japan-pi-club]]
-- [[tokio-marine-nichido-fire]]
-- [[mitsui-sumitomo-insurance]]
-- [[sompo-japan-insurance]]
+- [[financial-regulators/japan-pi-club]]
+- [[non-life-insurers/tokio-marine-nichido-fire]]
+- [[non-life-insurers/mitsui-sumitomo-insurance]]
+- [[non-life-insurers/sompo-japan-insurance]]
 - [[insurance/INDEX]]
 
 ## Sources

@@ -49,18 +49,16 @@
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 10,
+    "wikilinks_count": 8,
     "wikilinks": [
       "INDEX",
       "banking/INDEX",
       "banking/regional-bank-consolidation-pattern",
       "financial-regulators/fsa",
       "financial-regulators/zenginkyo",
-      "iwate-bank",
       "regional-banks/INDEX",
       "regional-banks/iwate-bank",
-      "regional-banks/tohoku-bank",
-      "tohoku-bank"
+      "regional-banks/tohoku-bank"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
@@ -68,19 +66,17 @@
       "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
       "https://finwiki.zksc.io/financial-regulators/fsa",
       "https://finwiki.zksc.io/financial-regulators/zenginkyo",
-      "https://finwiki.zksc.io/iwate-bank",
       "https://finwiki.zksc.io/regional-banks/INDEX",
       "https://finwiki.zksc.io/regional-banks/iwate-bank",
-      "https://finwiki.zksc.io/regional-banks/tohoku-bank",
-      "https://finwiki.zksc.io/tohoku-bank"
+      "https://finwiki.zksc.io/regional-banks/tohoku-bank"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2522,
-    "word_like_tokens": 361,
+    "nonspace_chars": 2552,
+    "word_like_tokens": 365,
     "inbound_wikilinks_count": 3,
-    "last_modified": "2026-06-05"
+    "last_modified": "2026-06-08"
   }
 }

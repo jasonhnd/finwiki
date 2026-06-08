@@ -49,7 +49,7 @@ translated_at: 2026-05-31T06:16:15.685Z
 
 **压力下行为**：**维持多元化** + 不单方面打破僵局 + 接受碎片化持续的结局。
 
-参考：[[portfolio-winner-structure-arm-analog|ポートフォリオ勝者構造 / ARM アナロジー]]
+参考：[[fintech/portfolio-winner-structure-arm-analog|ポートフォリオ勝者構造 / ARM アナロジー]]
 
 ### 类别 3：基础设施赢家（Infrastructure Winners）
 
@@ -120,8 +120,8 @@ translated_at: 2026-05-31T06:16:15.685Z
 
 ## 相关
 
-- [[wall-street-crypto-network-neutrality|Wall Street ネットワーク中立性]]
-- [[portfolio-winner-structure-arm-analog|ポートフォリオ勝者構造]]
-- [[central-banking-function-unbundling|中央銀行機能の解体 5 層]]
+- [[fintech/wall-street-crypto-network-neutrality|Wall Street ネットワーク中立性]]
+- [[fintech/portfolio-winner-structure-arm-analog|ポートフォリオ勝者構造]]
+- [[fintech/central-banking-function-unbundling|中央銀行機能の解体 5 層]]
 
 ---

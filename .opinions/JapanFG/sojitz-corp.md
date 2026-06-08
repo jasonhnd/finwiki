@@ -12,7 +12,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## 推論 (from TL;DR)
 
-双日 (東証 PRIME **2768**) は **7 大総合商社の一角**、5 大商社の次のレイヤーである **中堅商社の中で 7 大の上位**。**2004 年に ニチメン + 日商岩井 が経営統合して発足** した相対的に若い商社 (ただし両社の歴史は明治期から)。**金属・化学品・エネルギー・インフラ・食料・リテール・航空** で 5 大商社にない独自ニッチを取りつつ、規模は 5 大の 1/3〜1/4 程度。JapanFG 文脈での重要性は (i) [[JapanFG/sojitz-finance|双日フィナンス]] (内向け CMS)、(ii) 5 大商社のような大手 captive リース・asset finance 子会社は持たず、外部リース ([[JapanFG/orix-corp|オリックス]] / [[JapanFG/mitsubishi-hc-capital|三菱HCキャピタル]] / [[JapanFG/tokyo-century|東京センチュリー]] / [[JapanFG/smfl|SMFL]] 等) との取引が中心、にある。^[inferred]
+双日 (東証 PRIME **2768**) は **7 大総合商社の一角**、5 大商社の次のレイヤーである **中堅商社の中で 7 大の上位**。**2004 年に ニチメン + 日商岩井 が経営統合して発足** した相対的に若い商社 (ただし両社の歴史は明治期から)。**金属・化学品・エネルギー・インフラ・食料・リテール・航空** で 5 大商社にない独自ニッチを取りつつ、規模は 5 大の 1/3〜1/4 程度。JapanFG 文脈での重要性は (i) [[trading-company-finance/sojitz-finance|双日フィナンス]] (内向け CMS)、(ii) 5 大商社のような大手 captive リース・asset finance 子会社は持たず、外部リース ([[leasing-firms/orix-corp|オリックス]] / [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]] / [[leasing-firms/tokyo-century|東京センチュリー]] / [[leasing-firms/smfl|SMFL]] 等) との取引が中心、にある。^[inferred]
 
 ## 推論 (from 1. 会社概要)
 
@@ -22,7 +22,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## 推論 (from 3. Financial-services adjacency)
 
-- 双日: **外向け captive リース不在**、外部リース ([[JapanFG/orix-corp|オリックス]] / [[JapanFG/mitsubishi-hc-capital|HCキャピタル]] / [[JapanFG/tokyo-century|東京センチュリー]] / [[JapanFG/smfl|SMFL]]) との取引で資金繰り・資産入替を行う「資産持たない商社」モデル ^[inferred]
+- 双日: **外向け captive リース不在**、外部リース ([[leasing-firms/orix-corp|オリックス]] / [[leasing-firms/mitsubishi-hc-capital|HCキャピタル]] / [[leasing-firms/tokyo-century|東京センチュリー]] / [[leasing-firms/smfl|SMFL]]) との取引で資金繰り・資産入替を行う「資産持たない商社」モデル ^[inferred]
 これは双日の規模 (5 大の 1/3〜1/4) では大手リース子会社を持つ資本効率がペイしないため、敢えて持たない戦略とも解釈できる ^[inferred]
 - 統合後 双日 = みずほ寄り、MUFG / SMFG とも取引 ^[inferred]
 

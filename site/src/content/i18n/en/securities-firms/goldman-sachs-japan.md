@@ -55,7 +55,7 @@ The Goldman Sachs Group, Inc. (NYSE: GS)
 | 1990s | Expanded presence in Japanese real-estate-related investment and distressed-asset transactions |
 | 1999-05 | Parent Goldman Sachs Group listed on NYSE |
 | 2002 | Goldman Sachs Bank Tokyo Branch obtained a banking license |
-| 2003-04 | Invested roughly 150.0 billion yen in preferred shares of [[smfg|SMFG]], later redeemed |
+| 2003-04 | Invested roughly 150.0 billion yen in preferred shares of [[megabanks/smfg|SMFG]], later redeemed |
 | 2008-09 | Parent converted into a bank holding company under Federal Reserve supervision after the global financial crisis |
 | 2010s-2020s | Reinforced Tokyo as an Asia strategy hub and remained active in cross-border Japanese M&A |
 | 2018 onward | Global strategy reorganized under David Solomon |
@@ -81,7 +81,7 @@ The Goldman Sachs Group, Inc. (NYSE: GS)
 
 ### Competitive set
 
-Foreign-investment-bank competitors include [[morgan-stanley-japan|Morgan Stanley Japan]], J.P. Morgan Securities Japan, Citigroup Global Markets Japan, Merrill Lynch Japan / BofA Securities, UBS / Credit Suisse integration lines, Deutsche Securities, BNP Paribas Securities, and Barclays Securities.
+Foreign-investment-bank competitors include [[securities-firms/morgan-stanley-japan|Morgan Stanley Japan]], J.P. Morgan Securities Japan, Citigroup Global Markets Japan, Merrill Lynch Japan / BofA Securities, UBS / Credit Suisse integration lines, Deutsche Securities, BNP Paribas Securities, and Barclays Securities.
 
 Megabank-affiliated domestic competitors include MUMSS, Morgan Stanley MUFG Securities, SMBC Nikko Securities, Mizuho Securities, and Daiwa Securities Group. Goldman Sachs competes with these firms in Japanese M&A, ECM, DCM, and strategic advisory league tables.
 
@@ -89,7 +89,7 @@ Megabank-affiliated domestic competitors include MUMSS, Morgan Stanley MUFG Secu
 
 - **Investment-banking concentration**: strongest in cross-border advisory and large corporate capital markets. ^[extracted]
 - **Institutional orientation**: Japan business is centered on corporates, institutional investors, and affluent clients rather than mass retail. ^[extracted]
-- **Bank relationship boundary**: the 2003 preferred-share investment in [[smfg|SMFG]] was a capital relationship that was later redeemed; Goldman Sachs did not pursue the permanent Japan JV model used by Morgan Stanley with [[mufg|MUFG]]. ^[extracted]
+- **Bank relationship boundary**: the 2003 preferred-share investment in [[megabanks/smfg|SMFG]] was a capital relationship that was later redeemed; Goldman Sachs did not pursue the permanent Japan JV model used by Morgan Stanley with [[megabanks/mufg|MUFG]]. ^[extracted]
 
 ## 4. Regulation and policy
 
@@ -106,7 +106,7 @@ Megabank-affiliated domestic competitors include MUMSS, Morgan Stanley MUFG Secu
 
 ## Related
 
-- [[morgan-stanley-japan]] · [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[ndfg]] · [[nomura-hd]]
+- [[securities-firms/morgan-stanley-japan]] · [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[megabanks/ndfg]] · [[securities-firms/nomura-hd]]
 - [[finance/japan-ib-league-table]] · [[finance/cross-border-m-a-japan]]
 
 ## Sources

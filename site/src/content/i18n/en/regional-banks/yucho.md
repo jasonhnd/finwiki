@@ -108,8 +108,8 @@ Japan Post Holdings (listed 6178)
 
 ## Related
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[ndfg]]
-- [[sbi-hd]] · [[paypay-fg]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[megabanks/ndfg]]
+- [[megabanks/sbi-hd]] · [[megabanks/paypay-fg]]
 
 ## Sources
 

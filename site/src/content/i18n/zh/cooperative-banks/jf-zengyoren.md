@@ -78,8 +78,8 @@ JF（渔业协同组合）Group
   ├── JF 全渔联（代表 / 经济事业）★本页
   ├── JF 共水连（共济事业）
   ├── 都道府县渔联（经济事业 / 地方层）
-  ├── 都道府县信渔联（信用事业 / 地方层）→ [[jf-shingyoren]]
-  ├── 农林中央金库（信用 / 中央层）→ [[norinchukin]]
+  ├── 都道府县信渔联（信用事业 / 地方层）→ [[cooperative-banks/jf-shingyoren]]
+  ├── 农林中央金库（信用 / 中央层）→ [[cooperative-banks/norinchukin]]
   └── 全国 71  个 JF（个别渔业协同组合）→ [[banking/jf-marine-bank-system-japan]] 对象
 ```
 

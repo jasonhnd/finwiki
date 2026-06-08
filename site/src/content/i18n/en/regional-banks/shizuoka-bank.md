@@ -15,7 +15,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-Shizuoka Bank, Ltd. is a regional bank headquartered in Shizuoka Prefecture and listed in the FSA bank license list. It is the core operating bank of [[shizuoka-fg]] and serves as the baseline anchor for Shizuoka regional-bank coverage.
+Shizuoka Bank, Ltd. is a regional bank headquartered in Shizuoka Prefecture and listed in the FSA bank license list. It is the core operating bank of [[regional-banks/shizuoka-fg]] and serves as the baseline anchor for Shizuoka regional-bank coverage.
 
 ## 1. License / group boundary
 
@@ -23,7 +23,7 @@ Shizuoka Bank, Ltd. is a regional bank headquartered in Shizuoka Prefecture and 
 |---|---|
 | Legal name | Shizuoka Bank, Ltd. |
 | License route | Banking Act regional bank; FSA bank license list |
-| Group boundary | [[shizuoka-fg]] core operating bank |
+| Group boundary | [[regional-banks/shizuoka-fg]] core operating bank |
 | Home market | Shizuoka / Shizuoka City |
 | Wiki role | Shizuoka regional-bank operating-company page |
 
@@ -34,15 +34,15 @@ Shizuoka Bank is the regional bank responsible for retail deposits, SME finance,
 ## 3. Why this page matters
 
 - Closes the exact-name operating-company gap for Shizuoka Bank.
-- Separates [[shizuoka-fg]] from its bank-license operating subsidiary.
-- Provides a peer anchor for [[suruga-bank]], [[shimizu-bank]], and [[shizuoka-chuo-bank]].
+- Separates [[regional-banks/shizuoka-fg]] from its bank-license operating subsidiary.
+- Provides a peer anchor for [[regional-banks/suruga-bank]], [[regional-banks/shimizu-bank]], and [[regional-banks/shizuoka-chuo-bank]].
 
 ## Related
 
-- [[shizuoka-fg]]
-- [[suruga-bank]]
-- [[shimizu-bank]]
-- [[shizuoka-chuo-bank]]
+- [[regional-banks/shizuoka-fg]]
+- [[regional-banks/suruga-bank]]
+- [[regional-banks/shimizu-bank]]
+- [[regional-banks/shizuoka-chuo-bank]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 

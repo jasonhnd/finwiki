@@ -48,30 +48,28 @@
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 6,
+    "wikilinks_count": 5,
     "wikilinks": [
       "insurance/INDEX",
       "non-life-insurers/INDEX",
-      "non-life-insurers/tokio-marine-nichido-fire",
-      "tokio-marine",
-      "tokio-marine-direct",
-      "tokio-marine-nichido-fire"
+      "non-life-insurers/tokio-marine",
+      "non-life-insurers/tokio-marine-direct",
+      "non-life-insurers/tokio-marine-nichido-fire"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/insurance/INDEX",
       "https://finwiki.zksc.io/non-life-insurers/INDEX",
-      "https://finwiki.zksc.io/non-life-insurers/tokio-marine-nichido-fire",
-      "https://finwiki.zksc.io/tokio-marine",
-      "https://finwiki.zksc.io/tokio-marine-direct",
-      "https://finwiki.zksc.io/tokio-marine-nichido-fire"
+      "https://finwiki.zksc.io/non-life-insurers/tokio-marine",
+      "https://finwiki.zksc.io/non-life-insurers/tokio-marine-direct",
+      "https://finwiki.zksc.io/non-life-insurers/tokio-marine-nichido-fire"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1897,
-    "word_like_tokens": 295,
-    "inbound_wikilinks_count": 2,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 2041,
+    "word_like_tokens": 319,
+    "inbound_wikilinks_count": 3,
+    "last_modified": "2026-06-08"
   }
 }

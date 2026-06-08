@@ -49,14 +49,14 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 ## 4. Why this page matters
 
 - B2.2 closes a licensed-bank exact-name gap in the Fukushima banking cluster.
-- Separates the bank from parentless / alliance-only references in [[sbi-regional-bank-hd]].
-- Provides a peer for [[daito-bank]] and [[toho-bank]].
+- Separates the bank from parentless / alliance-only references in [[megabanks/sbi-regional-bank-hd]].
+- Provides a peer for [[regional-banks/daito-bank]] and [[regional-banks/toho-bank]].
 
 ## Related
 
 - [[regional-banks/INDEX|regional-banks INDEX]]
-- [[toho-bank]]
-- [[daito-bank]]
+- [[regional-banks/toho-bank]]
+- [[regional-banks/daito-bank]]
 - [[megabanks/sbi-regional-bank-hd|SBI 地銀 HD]]
 - [[financial-regulators/fsa|FSA]]
 - [[banking/regional-bank-consolidation-pattern]]

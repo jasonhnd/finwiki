@@ -15,7 +15,7 @@ translated_at: 2026-05-31T23:59:49.341Z
 
 ## TL;DR
 
-日本最大的资产管理专门信托银行（托管资产余额 **770 兆円** / 2025-03 末・2024 年年度决算）。2000-05 设立，由 [[mufg]] 系 + 寿险 / 财险联盟（[[nippon-life]]、[[meiji-yasuda]]、[[norinchukin]]）合资成立。它经常以 **“日本 Master Trust 信托银行（信托口）”**名义出现在上市公司有价证券报告书主要股东首位；但实际受益人是养老金基金、机构投资者和投信基金，议决权行使指示由委托人一侧作出。它专注于**托管 + 年金信托 + 有价证券管理**，事实上不处理贷款和存款。与竞争对手 [[custody-bank]]（日本 Custody 银行）一起构成日本证券保管基础设施的 2 强体制。^[extracted]
+日本最大的资产管理专门信托银行（托管资产余额 **770 兆円** / 2025-03 末・2024 年年度决算）。2000-05 设立，由 [[megabanks/mufg]] 系 + 寿险 / 财险联盟（[[life-insurers/nippon-life]]、[[life-insurers/meiji-yasuda]]、[[cooperative-banks/norinchukin]]）合资成立。它经常以 **“日本 Master Trust 信托银行（信托口）”**名义出现在上市公司有价证券报告书主要股东首位；但实际受益人是养老金基金、机构投资者和投信基金，议决权行使指示由委托人一侧作出。它专注于**托管 + 年金信托 + 有价证券管理**，事实上不处理贷款和存款。与竞争对手 [[trust-banks/custody-bank]]（日本 Custody 银行）一起构成日本证券保管基础设施的 2 强体制。^[extracted]
 
 ## 1. 公司概要
 
@@ -30,10 +30,10 @@ translated_at: 2026-05-31T23:59:49.341Z
 
 | 股东 | 比率 |
 |---|---|
-| 三菱 UFJ 信托银行（[[mufg]] 100% 子公司） | **46.5%** |
-| 日本生命保险（[[nippon-life]]） | **33.5%** |
-| 明治安田生命保险（[[meiji-yasuda]]） | **10.0%** |
-| 农中信托银行（[[norinchukin]] 系） | **10.0%** |
+| 三菱 UFJ 信托银行（[[megabanks/mufg]] 100% 子公司） | **46.5%** |
+| 日本生命保险（[[life-insurers/nippon-life]]） | **33.5%** |
+| 明治安田生命保险（[[life-insurers/meiji-yasuda]]） | **10.0%** |
+| 农中信托银行（[[cooperative-banks/norinchukin]] 系） | **10.0%** |
 
 ### 功能定位
 
@@ -54,7 +54,7 @@ translated_at: 2026-05-31T23:59:49.341Z
 |---|---|
 | **2000-05** | **日本 Master Trust 信托银行设立** -- 旧三菱信托银行 + 日本生命 + 明治生命 + 安田生命等合资，作为资产管理专门信托 |
 | 2000〜2005  | 年金信托受托扩大（包括应对厚生年金基金代行返上） |
-| 2005-10  | 随 [[mufg]] 成立（三菱信托 -> 三菱 UFJ 信托）而整合母公司 |
+| 2005-10  | 随 [[megabanks/mufg]] 成立（三菱信托 -> 三菱 UFJ 信托）而整合母公司 |
 | 2010-04  | 明治安田生命合并（旧明治生命 + 安田生命）-> 股东结构整理 |
 | 2010 年年代 | 受托资产急增（包括 GPIF 的年金资产、经外国投资者持有日本股票扩大） |
 | 2020 年年代 | 托管 DX / corporate actions 电子化 / 议决权电子行使应对 |
@@ -76,10 +76,10 @@ translated_at: 2026-05-31T23:59:49.341Z
 
 | 机构 | 系列 | 设立 | 主要股东 |
 |---|---|---|---|
-| **日本 Master Trust 信托银行** | [[mufg]] + 寿险联盟 | 2000-05  | 三菱 UFJ 信托 46.5% / 日本生命 33.5% / 明治安田 10% / 农中信托 10% |
-| **[[custody-bank]]（日本 Custody 银行）** | [[sumitomo-mitsui-trust]] + [[mizuho-fg]] + Resona 系 | 2020-07  | 旧日本 Trustee Services 信托 + 资产管理服务信托整合 |
+| **日本 Master Trust 信托银行** | [[megabanks/mufg]] + 寿险联盟 | 2000-05  | 三菱 UFJ 信托 46.5% / 日本生命 33.5% / 明治安田 10% / 农中信托 10% |
+| **[[trust-banks/custody-bank]]（日本 Custody 银行）** | [[trust-banks/sumitomo-mitsui-trust]] + [[megabanks/mizuho-fg]] + Resona 系 | 2020-07  | 旧日本 Trustee Services 信托 + 资产管理服务信托整合 |
 
-> [[custody-bank]] 于 2020-07 整合旧 JTSB（日本 Trustee Services 信托）+ JTC HD 系资产管理服务信托银行（TCSB）后成立。它是三井住友信托 + 瑞穗信托 + Resona 等的合资公司，与 Master Trust 并列为日本托管 2 强。^[extracted]
+> [[trust-banks/custody-bank]] 于 2020-07 整合旧 JTSB（日本 Trustee Services 信托）+ JTC HD 系资产管理服务信托银行（TCSB）后成立。它是三井住友信托 + 瑞穗信托 + Resona 等的合资公司，与 Master Trust 并列为日本托管 2 强。^[extracted]
 
 ### “信托口”名义的含义
 
@@ -112,12 +112,12 @@ translated_at: 2026-05-31T23:59:49.341Z
 
 ## Related
 
-- [[mufg]] -- 母公司系列，三菱 UFJ 信托银行 100% 子公司为 46.5% 股东
-- [[custody-bank]] -- 主要竞争对手（日本 Custody 银行，2020-07 成立）
-- [[nippon-life]] -- 主要股东 33.5%
-- [[meiji-yasuda]] -- 主要股东 10%
-- [[norinchukin]] -- 经农中信托银行连接 10%
-- [[sumitomo-mitsui-trust]] · [[mizuho-fg]] -- [[custody-bank]] 系列
+- [[megabanks/mufg]] -- 母公司系列，三菱 UFJ 信托银行 100% 子公司为 46.5% 股东
+- [[trust-banks/custody-bank]] -- 主要竞争对手（日本 Custody 银行，2020-07 成立）
+- [[life-insurers/nippon-life]] -- 主要股东 33.5%
+- [[life-insurers/meiji-yasuda]] -- 主要股东 10%
+- [[cooperative-banks/norinchukin]] -- 经农中信托银行连接 10%
+- [[trust-banks/sumitomo-mitsui-trust]] · [[megabanks/mizuho-fg]] -- [[trust-banks/custody-bank]] 系列
 
 ## Sources
 

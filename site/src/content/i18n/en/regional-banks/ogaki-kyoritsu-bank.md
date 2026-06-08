@@ -15,7 +15,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-The Ogaki Kyoritsu Bank is a regional bank in the Tokai region headquartered in Ogaki, Gifu Prefecture. Founded in 1896-03  and listed on TSE PRIME 8361 , it remains a **standalone bank structure** without conversion into a holding company. Its home ground is the Seino area of Gifu Prefecture, and its main operating area is the **northern edge of the Chukyo economic zone**, including northwestern Aichi and northern Mie. The visual identity abbreviation "**OKB**" was introduced in 1991 年. The bank is known for distinctive initiatives such as drive-through branches, pink-toned branch interiors, and mobile branch vehicles under a "**fun bank**" concept, and it also promotes itself as "**Japan's leading bank for women's advancement**". In Gifu market share, it is one of the two major banks alongside [[juroku-fg]]. ^[extracted]
+The Ogaki Kyoritsu Bank is a regional bank in the Tokai region headquartered in Ogaki, Gifu Prefecture. Founded in 1896-03  and listed on TSE PRIME 8361 , it remains a **standalone bank structure** without conversion into a holding company. Its home ground is the Seino area of Gifu Prefecture, and its main operating area is the **northern edge of the Chukyo economic zone**, including northwestern Aichi and northern Mie. The visual identity abbreviation "**OKB**" was introduced in 1991 年. The bank is known for distinctive initiatives such as drive-through branches, pink-toned branch interiors, and mobile branch vehicles under a "**fun bank**" concept, and it also promotes itself as "**Japan's leading bank for women's advancement**". In Gifu market share, it is one of the two major banks alongside [[regional-banks/juroku-fg]]. ^[extracted]
 
 ## 1. Company overview
 
@@ -94,10 +94,10 @@ Ogaki Kyoritsu Bank (standalone listed bank 8361)
 
 ### Competitive relationships
 
-- **[[juroku-fg]] (Juroku FG, Gifu head office)** ★ largest competitor: overlaps across Gifu Prefecture and northern Aichi. Within Gifu, Juroku leans toward northern Gifu / Gifu City, while OKB is more Seino-oriented, but they directly compete in both deposits and lending. ^[extracted]
-- **[[san-jusan-fg]] (San ju San FG, Mie)**: overlaps in northern Mie, including Kuwana and Yokkaichi.
+- **[[regional-banks/juroku-fg]] (Juroku FG, Gifu head office)** ★ largest competitor: overlaps across Gifu Prefecture and northern Aichi. Within Gifu, Juroku leans toward northern Gifu / Gifu City, while OKB is more Seino-oriented, but they directly compete in both deposits and lending. ^[extracted]
+- **[[regional-banks/san-jusan-fg]] (San ju San FG, Mie)**: overlaps in northern Mie, including Kuwana and Yokkaichi.
 - **Bank of Nagoya (Aichi)**: overlaps in northwestern Aichi.
-- **Megabanks ([[mufg]] / [[smfg]] / [[mizuho-fg]])**: compete in lending to large companies in Nagoya.
+- **Megabanks ([[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]])**: compete in lending to large companies in Nagoya.
 - **Shinkin banks and JA**: small businesses and agricultural finance in the Seino area.
 
 ### Geographic positioning
@@ -132,7 +132,7 @@ Ogaki Kyoritsu Bank (standalone listed bank 8361)
 
 ## Related
 
-- [[juroku-fg]] · [[san-jusan-fg]] · [[mufg]] · [[smfg]] · [[mizuho-fg]]
+- [[regional-banks/juroku-fg]] · [[regional-banks/san-jusan-fg]] · [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]
 
 ## Sources
 

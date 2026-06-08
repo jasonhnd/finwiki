@@ -109,9 +109,9 @@ translated_at: 2026-06-01T02:31:57.139Z
 |---|---|---|
 | Nissan NMA（NMAC） | 日产汽车 | 以北美为中心，与 Nissan dealer 联动 |
 | Honda Finance | Honda | 日本国内 + 北美，Honda Cars 系 |
-| [[orix-corp]] | 独立系（持股分散） | 法人租赁 / 个人汽车租赁综合 |
-| Mitsubishi HC Capital | [[mufg]] group | 旧 Mitsubishi UFJ Lease + Hitachi Capital 合并，大型法人 |
-| [[tokyo-century]] | Mizuho + Itochu | 租赁 / mobility，Avis 相关等 |
+| [[leasing-firms/orix-corp]] | 独立系（持股分散） | 法人租赁 / 个人汽车租赁综合 |
+| Mitsubishi HC Capital | [[megabanks/mufg]] group | 旧 Mitsubishi UFJ Lease + Hitachi Capital 合并，大型法人 |
+| [[leasing-firms/tokyo-century]] | Mizuho + Itochu | 租赁 / mobility，Avis 相关等 |
 | 银行系汽车贷款 | Megabanks / regional banks | 低利率，但 dealer 送客力较弱 |
 
 凭借 Toyota 销售公司渠道 × 残クレ产品设计的组合，TFS 相对独立系和银行系维持**销售现场优势**。
@@ -130,8 +130,8 @@ translated_at: 2026-06-01T02:31:57.139Z
 ## Related
 
 - [[manufacturer-finance/toyota-motor|toyota-motor]]（母公司）
-- [[orix-corp]] · [[tokyo-century]]（独立系租赁竞争对手）
-- [[mufg]]（经 Mitsubishi HC Capital 形成租赁竞争）
+- [[leasing-firms/orix-corp]] · [[leasing-firms/tokyo-century]]（独立系租赁竞争对手）
+- [[megabanks/mufg]]（经 Mitsubishi HC Capital 形成租赁竞争）
 - 其他汽车系金融：Nissan NMAC · Honda Finance
 
 ## Sources

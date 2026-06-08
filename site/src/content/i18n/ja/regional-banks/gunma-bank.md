@@ -31,7 +31,7 @@ translated_at: 2026-06-02T14:25:12.386Z
 
 ### 持株会社化していない論点
 
-メガバンク 3 行・有力地銀（[[mebuki-fg]] / [[concordia-fg]] / [[fukuoka-fg]] 等）が持株会社化に進む中、**群馬銀行は単独銀行体制を維持**。これは:
+メガバンク 3 行・有力地銀（[[regional-banks/mebuki-fg]] / [[regional-banks/concordia-fg]] / [[regional-banks/fukuoka-fg]] 等）が持株会社化に進む中、**群馬銀行は単独銀行体制を維持**。これは:
 - 地域専業・単一県地盤で持株会社化の事業多角化メリット小
 - 子会社（リース・カード・コンサル）は銀行直下子会社で十分管理可能
 - 統合・経営統合相手不在（県内で唯一の PRIME 地銀）
@@ -101,11 +101,11 @@ translated_at: 2026-06-02T14:25:12.386Z
 
 | 競合 | 特徴 |
 |---|---|
-| **[[towa-bank]]** 東和銀行 | 群馬県内 第 2 地銀・前橋市本店、単独銀行体制、群馬銀行の県内最大競合 |
+| **[[regional-banks/towa-bank]]** 東和銀行 | 群馬県内 第 2 地銀・前橋市本店、単独銀行体制、群馬銀行の県内最大競合 |
 | **ぐんまみらい信用組合** | 信用組合（2012-11 かみつけ信用組合 + 東群馬信用組合 合併で発足、高崎市本店）、小口・地域密着 |
-| **[[mebuki-fg]] 足利銀行** | 栃木県地盤だが 群馬東部 / 埼玉北部で 営業競合、めぶき FG 持株会社体制 |
+| **[[regional-banks/mebuki-fg]] 足利銀行** | 栃木県地盤だが 群馬東部 / 埼玉北部で 営業競合、めぶき FG 持株会社体制 |
 | **武蔵野銀行** | 埼玉県地盤、群馬銀行の埼玉北部進出と競合 |
-| **メガ 3 行** | 大口法人・上場企業向けでは [[mufg]] / [[smfg]] / [[mizuho-fg]] と競合 |
+| **メガ 3 行** | 大口法人・上場企業向けでは [[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]] と競合 |
 
 ## 4. 規制・政策
 
@@ -120,7 +120,7 @@ translated_at: 2026-06-02T14:25:12.386Z
 
 ## 関連項目
 
-- [[towa-bank]] · [[mebuki-fg]] · [[mufg]] · [[smfg]] · [[mizuho-fg]]
+- [[regional-banks/towa-bank]] · [[regional-banks/mebuki-fg]] · [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]
 - TSUBASA アライアンス: 千葉銀行 / 第四北越銀行 / 中国銀行 / 伊予銀行 / 東邦銀行 等
 
 ## 出典

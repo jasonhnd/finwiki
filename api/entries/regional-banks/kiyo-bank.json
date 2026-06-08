@@ -49,44 +49,42 @@
     "持株会社解散の戦略意義"
   ],
   "body_links": {
-    "wikilinks_count": 13,
+    "wikilinks_count": 12,
     "wikilinks": [
       "banking/INDEX",
       "banking/minna-bank-baas-model",
-      "ikeda-senshu-hd",
-      "kyoto-fg",
-      "mizuho-fg",
-      "mufg",
-      "nanto-bank",
-      "norinchukin",
+      "cooperative-banks/norinchukin",
+      "megabanks/mizuho-fg",
+      "megabanks/mufg",
+      "megabanks/resona-hd",
+      "megabanks/smfg",
       "regional-banks/INDEX",
       "regional-banks/ikeda-senshu-hd",
-      "resona-hd",
-      "san-jusan-fg",
-      "smfg"
+      "regional-banks/kyoto-fg",
+      "regional-banks/nanto-bank",
+      "regional-banks/san-jusan-fg"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/minna-bank-baas-model",
-      "https://finwiki.zksc.io/ikeda-senshu-hd",
-      "https://finwiki.zksc.io/kyoto-fg",
-      "https://finwiki.zksc.io/mizuho-fg",
-      "https://finwiki.zksc.io/mufg",
-      "https://finwiki.zksc.io/nanto-bank",
-      "https://finwiki.zksc.io/norinchukin",
+      "https://finwiki.zksc.io/cooperative-banks/norinchukin",
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/resona-hd",
+      "https://finwiki.zksc.io/megabanks/smfg",
       "https://finwiki.zksc.io/regional-banks/INDEX",
       "https://finwiki.zksc.io/regional-banks/ikeda-senshu-hd",
-      "https://finwiki.zksc.io/resona-hd",
-      "https://finwiki.zksc.io/san-jusan-fg",
-      "https://finwiki.zksc.io/smfg"
+      "https://finwiki.zksc.io/regional-banks/kyoto-fg",
+      "https://finwiki.zksc.io/regional-banks/nanto-bank",
+      "https://finwiki.zksc.io/regional-banks/san-jusan-fg"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4959,
-    "word_like_tokens": 778,
-    "inbound_wikilinks_count": 1,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 5195,
+    "word_like_tokens": 806,
+    "inbound_wikilinks_count": 2,
+    "last_modified": "2026-06-08"
   }
 }

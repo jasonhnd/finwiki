@@ -48,18 +48,18 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 
 ## 4. Why this page matters
 
-- Separates the regional-bank legal entity from [[hokuhoku-fg]].
-- Key comparison point against [[hokkoku-bank]], [[toyama-bank]], and [[toyama-first-bank]].
+- Separates the regional-bank legal entity from [[regional-banks/hokuhoku-fg]].
+- Key comparison point against [[regional-banks/hokkoku-bank]], [[regional-banks/toyama-bank]], and [[regional-banks/toyama-first-bank]].
 - Registry-backed B2.1 regional-bank operating-company page; consolidation context lives at [[banking/regional-bank-consolidation-pattern]] under [[banking/INDEX|banking index]].
 
 ## Related
 
 - [[regional-banks/INDEX|regional-banks INDEX]]
-- [[hokuhoku-fg]]
-- [[hokkaido-bank]]
-- [[hokkoku-bank]]
-- [[toyama-bank]]
-- [[toyama-first-bank]]
+- [[regional-banks/hokuhoku-fg]]
+- [[regional-banks/hokkaido-bank]]
+- [[regional-banks/hokkoku-bank]]
+- [[regional-banks/toyama-bank]]
+- [[regional-banks/toyama-first-bank]]
 - [[financial-regulators/fsa|FSA]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]

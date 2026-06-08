@@ -49,16 +49,16 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 ## 4. Why this page matters
 
 - Closes the FSA exact-name operating-company gap for 広島銀行.
-- Separates the bank entity from [[hirogin-hd]] holding-company strategy.
-- Provides a peer anchor for [[momiji-bank]], [[chugoku-bank]], and [[yamaguchi-fg]].
+- Separates the bank entity from [[regional-banks/hirogin-hd]] holding-company strategy.
+- Provides a peer anchor for [[regional-banks/momiji-bank]], [[regional-banks/chugoku-bank]], and [[regional-banks/yamaguchi-fg]].
 
 ## Related
 
 - [[regional-banks/INDEX|regional-banks INDEX]]
-- [[hirogin-hd]]
-- [[momiji-bank]]
-- [[chugoku-bank]]
-- [[yamaguchi-fg]]
+- [[regional-banks/hirogin-hd]]
+- [[regional-banks/momiji-bank]]
+- [[regional-banks/chugoku-bank]]
+- [[regional-banks/yamaguchi-fg]]
 - [[financial-regulators/fsa|FSA]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]

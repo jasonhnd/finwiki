@@ -22,7 +22,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 
 ## TL;DR
 
-株式会社関西みらい銀行 (Kansai Mirai Bank) は、銀行法上の銀行免許を持ち金融庁の銀行免許一覧に掲載される大阪府大阪市本店の地方銀行。[[resona-hd|りそなホールディングス]] 傘下の関西みらいフィナンシャルグループに属する Kansai operating bank であり、旧関西アーバン銀行・近畿大阪銀行の統合後 bank-license entity として扱う。事業の中身は大阪・関西での預金受入と中小企業・個人向け貸出。
+株式会社関西みらい銀行 (Kansai Mirai Bank) は、銀行法上の銀行免許を持ち金融庁の銀行免許一覧に掲載される大阪府大阪市本店の地方銀行。[[megabanks/resona-hd|りそなホールディングス]] 傘下の関西みらいフィナンシャルグループに属する Kansai operating bank であり、旧関西アーバン銀行・近畿大阪銀行の統合後 bank-license entity として扱う。事業の中身は大阪・関西での預金受入と中小企業・個人向け貸出。
 
 ## 1. License / group boundary
 
@@ -30,13 +30,13 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 |---|---|
 | Legal name | 株式会社関西みらい銀行 / Kansai Mirai Bank, Limited |
 | License route | 銀行法上の銀行免許 (regional bank / 地銀); FSA bank license list |
-| Group boundary | [[resona-hd|りそなHD]] Kansai operating bank（関西みらいFG） |
+| Group boundary | [[megabanks/resona-hd|りそなHD]] Kansai operating bank（関西みらいFG） |
 | Home market | Osaka / Kansai（大阪府本店） |
 | Wiki role | Kansai regional-bank operating-company page |
 
 ## 2. Operating model
 
-関西みらい銀行は、大阪府を中心に retail deposits, SME finance, mortgage / consumer banking, and Kansai-area business support を担う regional bank。[[resona-hd|りそなHD]] の retail / trust-banking platform と連携しつつ、関西地銀としての店舗・地域金融機能を持つ。関西圏では [[regional-banks/ikeda-senshu-bank|池田泉州銀行]]、[[regional-banks/minato-bank|みなと銀行]]、[[regional-banks/kyoto-bank|京都銀行]] と peer boundary を持つ。
+関西みらい銀行は、大阪府を中心に retail deposits, SME finance, mortgage / consumer banking, and Kansai-area business support を担う regional bank。[[megabanks/resona-hd|りそなHD]] の retail / trust-banking platform と連携しつつ、関西地銀としての店舗・地域金融機能を持つ。関西圏では [[regional-banks/ikeda-senshu-bank|池田泉州銀行]]、[[regional-banks/minato-bank|みなと銀行]]、[[regional-banks/kyoto-bank|京都銀行]] と peer boundary を持つ。
 
 ## 3. Regulatory & system positioning
 
@@ -48,18 +48,18 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 ## 4. Why this page matters
 
 - Closes the FSA exact-name operating-company gap for 関西みらい銀行.
-- Separates the bank entity from [[resona-hd|りそなHD]] group-level strategy.
+- Separates the bank entity from [[megabanks/resona-hd|りそなHD]] group-level strategy.
 - Provides a peer anchor for [[regional-banks/ikeda-senshu-bank|池田泉州銀行]], [[regional-banks/kyoto-bank|京都銀行]], and [[regional-banks/minato-bank|みなと銀行]] coverage.
 
 ## Related
 
 - [[regional-banks/INDEX|regional-banks INDEX]]
-- [[resona-hd]]
-- [[resona-bank]]
-- [[saitama-resona-bank]]
-- [[minato-bank]]
-- [[ikeda-senshu-bank]]
-- [[kyoto-bank]]
+- [[megabanks/resona-hd]]
+- [[megabanks/resona-bank]]
+- [[megabanks/saitama-resona-bank]]
+- [[regional-banks/minato-bank]]
+- [[regional-banks/ikeda-senshu-bank]]
+- [[regional-banks/kyoto-bank]]
 - [[financial-regulators/fsa|FSA]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]

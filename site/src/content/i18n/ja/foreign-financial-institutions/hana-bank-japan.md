@@ -38,16 +38,16 @@ Hana の日本サイトは旧 KOEX ドメイン配下で運用されているた
 ## 3. このページが重要な理由
 
 - 旧 Korea Exchange Bank 境界後の Hana の現在の在日支店ルートを記録する。
-- [[woori-bank-japan]]、[[kb-kookmin-bank-japan]] と並ぶ韓国系主要商業銀行の比較対象を補完する。
-- 韓国系外国銀行支店を、日本法人化された [[sbj-bank]] から切り分ける。
+- [[foreign-financial-institutions/woori-bank-japan]]、[[foreign-financial-institutions/kb-kookmin-bank-japan]] と並ぶ韓国系主要商業銀行の比較対象を補完する。
+- 韓国系外国銀行支店を、日本法人化された [[regional-banks/sbj-bank]] から切り分ける。
 
 ## 関連項目
 
-- [[woori-bank-japan]]
-- [[korea-development-bank-japan]]
-- [[industrial-bank-of-korea-japan]]
-- [[kb-kookmin-bank-japan]]
-- [[sbj-bank]]
+- [[foreign-financial-institutions/woori-bank-japan]]
+- [[foreign-financial-institutions/korea-development-bank-japan]]
+- [[foreign-financial-institutions/industrial-bank-of-korea-japan]]
+- [[foreign-financial-institutions/kb-kookmin-bank-japan]]
+- [[regional-banks/sbj-bank]]
 - [[banking/foreign-bank-japan-retreat]]
 
 ## 出典

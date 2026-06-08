@@ -23,7 +23,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-株式会社きらぼし銀行は、金融庁の銀行免許一覧に掲載される東京都本店の地方銀行で、[[kiraboshi-fg]] 傘下の core operating bank。2018 年に東京都民銀行、八千代銀行、新銀行東京の 3 行合併で発足し、東京都内・首都圏の SME / retail / wealth / startup-support surface を担う。
+株式会社きらぼし銀行は、金融庁の銀行免許一覧に掲載される東京都本店の地方銀行で、[[regional-banks/kiraboshi-fg]] 傘下の core operating bank。2018 年に東京都民銀行、八千代銀行、新銀行東京の 3 行合併で発足し、東京都内・首都圏の SME / retail / wealth / startup-support surface を担う。
 
 ## 1. License / group boundary
 
@@ -31,25 +31,25 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 |---|---|
 | Legal name | 株式会社きらぼし銀行 |
 | License route | Banking Act regional bank; FSA bank license list |
-| Group boundary | [[kiraboshi-fg]] operating bank |
+| Group boundary | [[regional-banks/kiraboshi-fg]] operating bank |
 | Home market | Tokyo / wider metropolitan area |
 | Wiki role | Tokyo regional-bank operating-company page |
 
 ## 2. Operating model
 
-きらぼし銀行は、東京都内と首都圏を中心に SME finance, retail deposits, wealth / securities intermediation, business succession, and digital-bank adjacency を担う regional bank。[[kiraboshi-fg]] page covers the holding-company and group strategy; this page separates the actual bank license and branch / customer surface. Tokyo / Kanto regional-bank consolidation context は [[banking/regional-bank-consolidation-pattern]] を参照。
+きらぼし銀行は、東京都内と首都圏を中心に SME finance, retail deposits, wealth / securities intermediation, business succession, and digital-bank adjacency を担う regional bank。[[regional-banks/kiraboshi-fg]] page covers the holding-company and group strategy; this page separates the actual bank license and branch / customer surface. Tokyo / Kanto regional-bank consolidation context は [[banking/regional-bank-consolidation-pattern]] を参照。
 
 ## 3. Why this page matters
 
-- Splits the bank exact-name anchor from [[kiraboshi-fg]].
-- Provides a clean parent-child relationship with [[ui-bank]] and Tokyo Kiraboshi group pages.
-- Useful peer for [[tokyo-star-bank]] and Tokyo metropolitan regional-bank coverage.
+- Splits the bank exact-name anchor from [[regional-banks/kiraboshi-fg]].
+- Provides a clean parent-child relationship with [[banking/ui-bank]] and Tokyo Kiraboshi group pages.
+- Useful peer for [[regional-banks/tokyo-star-bank]] and Tokyo metropolitan regional-bank coverage.
 
 ## Related
 
-- [[kiraboshi-fg]]
-- [[ui-bank]]
-- [[tokyo-star-bank]]
+- [[regional-banks/kiraboshi-fg]]
+- [[banking/ui-bank]]
+- [[regional-banks/tokyo-star-bank]]
 - [[banking/INDEX]]
 
 ## Sources

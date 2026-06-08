@@ -40,16 +40,16 @@ This is the Japan branch of Swiss Reinsurance Company Ltd. / Schweizerische Rüc
 
 - One of the two main foreign reinsurer Japan branches; together with [[non-life-insurers/munich-re-japan]] it is a Japan entry point for "Big 2" global reinsurance capital.
 - A system link connecting [[insurance/natcat-reinsurance-japan]] with the primary megagroup non-life insurers.
-- A contrast lesson against domestic [[toa-reinsurance]] / [[japan-earthquake-reinsurance]] market roles.
+- A contrast lesson against domestic [[non-life-insurers/toa-reinsurance]] / [[non-life-insurers/japan-earthquake-reinsurance]] market roles.
 
 ## Related
 
 - [[non-life-insurers/INDEX]]
-- [[munich-re-japan]]
-- [[toa-reinsurance]]
-- [[japan-earthquake-reinsurance]]
-- [[hannover-re-japan]]
-- [[rga-japan]]
+- [[non-life-insurers/munich-re-japan]]
+- [[non-life-insurers/toa-reinsurance]]
+- [[non-life-insurers/japan-earthquake-reinsurance]]
+- [[non-life-insurers/hannover-re-japan]]
+- [[life-insurers/rga-japan]]
 - [[insurance/natcat-reinsurance-japan]]
 - [[insurance/INDEX]]
 

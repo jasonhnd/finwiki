@@ -16,7 +16,7 @@ translated_at: 2026-06-02T14:25:12.382Z
 
 ## 要約
 
-株式会社第四北越銀行は、金融庁の銀行免許一覧に掲載される新潟県本店の地方銀行。[[dai-shi-hokuetsu-fg]] 傘下の中核事業銀行であり、旧第四銀行と旧北越銀行の合併後の単一銀行子会社として扱う。
+株式会社第四北越銀行は、金融庁の銀行免許一覧に掲載される新潟県本店の地方銀行。[[regional-banks/dai-shi-hokuetsu-fg]] 傘下の中核事業銀行であり、旧第四銀行と旧北越銀行の合併後の単一銀行子会社として扱う。
 
 ## 1. ライセンス / グループ境界
 
@@ -24,7 +24,7 @@ translated_at: 2026-06-02T14:25:12.382Z
 |---|---|
 | 正式名 | 株式会社第四北越銀行 |
 | ライセンス経路 | 銀行法上の地方銀行、金融庁銀行免許一覧 |
-| グループ境界 | [[dai-shi-hokuetsu-fg]] の中核事業銀行 |
+| グループ境界 | [[regional-banks/dai-shi-hokuetsu-fg]] の中核事業銀行 |
 | ホーム市場 | 新潟県 / 新潟市 |
 | ウィキ上の役割 | 新潟県の地方銀行事業会社ページ |
 
@@ -35,14 +35,14 @@ translated_at: 2026-06-02T14:25:12.382Z
 ## 3. このページが重要な理由
 
 - 金融庁一覧の正式名称に対応する第四北越銀行の事業会社ページの空白を埋める。
-- 銀行免許を [[dai-shi-hokuetsu-fg]] の持株会社戦略から切り分ける。
-- [[taiko-bank]] および北陸 / 中部の地方銀行カバレッジに対する比較アンカーを提供する。
+- 銀行免許を [[regional-banks/dai-shi-hokuetsu-fg]] の持株会社戦略から切り分ける。
+- [[regional-banks/taiko-bank]] および北陸 / 中部の地方銀行カバレッジに対する比較アンカーを提供する。
 
 ## 関連項目
 
-- [[dai-shi-hokuetsu-fg]]
-- [[taiko-bank]]
-- [[hokuhoku-fg]]
+- [[regional-banks/dai-shi-hokuetsu-fg]]
+- [[regional-banks/taiko-bank]]
+- [[regional-banks/hokuhoku-fg]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 

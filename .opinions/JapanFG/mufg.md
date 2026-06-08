@@ -16,7 +16,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## Counterpoints
 
-- 「海外集中＝個人デジタル弱」観: メガ 3 行で個人デジタル統合が最弱（vs [[smfg]] Olive・楽天・PayPay）。GO 戦略は法人寄り ^[inferred]
+- 「海外集中＝個人デジタル弱」観: メガ 3 行で個人デジタル統合が最弱（vs [[megabanks/smfg]] Olive・楽天・PayPay）。GO 戦略は法人寄り ^[inferred]
 - 「Krungsri 集中リスク」: タイ向け資産集中 → タイ景気 / バーツ / 政治リスク連動 ^[inferred]
 - 「Union Bank 売却の戦略意義」: 米 retail 撤退 vs 「IB に集中」両論。U.S. Bancorp 株 4.39% で関係維持 ^[ambiguous]
 - 「Global Open Network Japan 撤退」: Akamai 提携ブロックチェーン決済は 3 年弱で廃業 → ブロックチェーン挫折歴 ^[extracted]
@@ -24,7 +24,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## Open questions
 
-- Progmat の他 FG（[[smfg]] / [[mizuho-fg]] / 通信系 FG）採用範囲は？ 単独主導 vs 共同インフラ化?
+- Progmat の他 FG（[[megabanks/smfg]] / [[megabanks/mizuho-fg]] / 通信系 FG）採用範囲は？ 単独主導 vs 共同インフラ化?
 - アコム持分法（39.6%）→ 完全子会社化シナリオは？
 - 6 代半沢社長（2026-04 就任）の戦略方向性は？ Google AI 提携の戦略的位置付け
 - 「MUFG スタジアム」命名権（2026-01〜2030-01）の B2C ブランド効果は？

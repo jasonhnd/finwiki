@@ -133,7 +133,7 @@ translated_at: 2026-06-02T14:54:39.074Z
 
 ## 関連項目
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[sbi-hd]] · [[ndfg]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[megabanks/sbi-hd]] · [[megabanks/ndfg]]
 - [[payment-firms/INDEX|payment-firms INDEX]] (PRIME 上場 fintech カテゴリ)
 
 ## 出典

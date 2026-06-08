@@ -15,7 +15,7 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it
 
 ## TL;DR
 
-中坚独立证券控股公司（东证 Standard **8708**）。由 1918-02  蓝泽弥八在东京日本桥兜町创立“藍澤證券店” → 1948  公司化 → 1989  在 JASDAQ 上市 → 2017-04  转为控股公司。其作为**“亚洲新兴国家投资专业证券公司”**确立了独特定位。在日本证券公司中，其对亚洲新兴市场的覆盖面最广之一（越南、印尼、泰国、柬埔寨、缅甸等）。以零售为中心，法人 IB 有限。竞争对手包括同属独立中坚梯队的 [[okasan-sg]] / [[tokai-tokyo-fh]]，以及网络系 [[matsui-sec]] / [[monex-group]]。^[extracted]
+中坚独立证券控股公司（东证 Standard **8708**）。由 1918-02  蓝泽弥八在东京日本桥兜町创立“藍澤證券店” → 1948  公司化 → 1989  在 JASDAQ 上市 → 2017-04  转为控股公司。其作为**“亚洲新兴国家投资专业证券公司”**确立了独特定位。在日本证券公司中，其对亚洲新兴市场的覆盖面最广之一（越南、印尼、泰国、柬埔寨、缅甸等）。以零售为中心，法人 IB 有限。竞争对手包括同属独立中坚梯队的 [[securities-firms/okasan-sg]] / [[securities-firms/tokai-tokyo-fh]]，以及网络系 [[securities-firms/matsui-sec]] / [[securities-firms/monex-group]]。^[extracted]
 
 ## 1. 公司概要
 
@@ -68,11 +68,11 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it
 - 在日本证券公司中，**对亚洲新兴市场的覆盖面最广之一**（包括前沿市场）^[extracted]
 - 拥有越南、印尼、泰国、柬埔寨、缅甸的当地网络
 - 以包含面对面服务的方式，为个人投资者提供原本难以接触的前沿市场股票中介服务
-- 通过聚焦大型券商（[[ndfg]] / 大和 / SMBC 日兴）不重点经营的地区，获得缝隙市场
+- 通过聚焦大型券商（[[megabanks/ndfg]] / 大和 / SMBC 日兴）不重点经营的地区，获得缝隙市场
 
 ### 日本国内定位
 
-- 属于中坚独立证券梯队（与 [[okasan-sg]] / [[tokai-tokyo-fh]] / [[matsui-sec]] / [[monex-group]] / [[iwai-cosmo-hd]] 并列）
+- 属于中坚独立证券梯队（与 [[securities-firms/okasan-sg]] / [[securities-firms/tokai-tokyo-fh]] / [[securities-firms/matsui-sec]] / [[securities-firms/monex-group]] / [[securities-firms/iwai-cosmo-hd]] 并列）
 - 专注零售（个人客户），不主打法人 IB
 - 采用面对面营业 + 部分线上交易的混合模式（并非纯网证券）
 
@@ -85,12 +85,12 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it
 
 | 竞争对手 | 维度 |
 |---|---|
-| [[iwai-cosmo-hd]]（岩井 Cosmo HD） | 同属中坚独立证券，关西起家，面对面 + 网络混合 |
-| [[okasan-sg]]（冈三 SG） | 中京经济圈起家的中坚独立证券，网络证券 + 面对面 |
-| [[tokai-tokyo-fh]]（东海东京 FH） | 中京 + 关东中坚券商，与地方金融机构合作较多 |
-| [[matsui-sec]]（松井证券） | 纯网证券，以年轻层为中心 |
-| [[monex-group]]（Monex G） | 纯网证券，以美股 + 加密资产差异化 |
-| [[smbc-nikko]]（SMBC 日兴） | 隶属大型 5 大证券、处于超级银行集团旗下 |
+| [[securities-firms/iwai-cosmo-hd]]（岩井 Cosmo HD） | 同属中坚独立证券，关西起家，面对面 + 网络混合 |
+| [[securities-firms/okasan-sg]]（冈三 SG） | 中京经济圈起家的中坚独立证券，网络证券 + 面对面 |
+| [[securities-firms/tokai-tokyo-fh]]（东海东京 FH） | 中京 + 关东中坚券商，与地方金融机构合作较多 |
+| [[securities-firms/matsui-sec]]（松井证券） | 纯网证券，以年轻层为中心 |
+| [[securities-firms/monex-group]]（Monex G） | 纯网证券，以美股 + 加密资产差异化 |
+| [[securities-firms/smbc-nikko]]（SMBC 日兴） | 隶属大型 5 大证券、处于超级银行集团旗下 |
 
 ## 4. 监管 / 政策
 
@@ -107,9 +107,9 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it
 
 ## Related
 
-- [[okasan-sg]] · [[tokai-tokyo-fh]] · [[matsui-sec]] · [[monex-group]] · [[iwai-cosmo-hd]]
-- [[ndfg]] · [[daiwa-sg]] · [[smbc-nikko]]
-- [[sbi-hd]]
+- [[securities-firms/okasan-sg]] · [[securities-firms/tokai-tokyo-fh]] · [[securities-firms/matsui-sec]] · [[securities-firms/monex-group]] · [[securities-firms/iwai-cosmo-hd]]
+- [[megabanks/ndfg]] · [[securities-firms/daiwa-sg]] · [[securities-firms/smbc-nikko]]
+- [[megabanks/sbi-hd]]
 
 ## Sources
 

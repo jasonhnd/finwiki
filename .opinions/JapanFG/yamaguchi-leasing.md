@@ -17,7 +17,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## 推論 (from 持株ツリー (YMFG グループ簡略図))
 
-> [[yamaguchi-fg]] は地銀単独 FG では珍しい「3 行 3 ブランド」(山口 / もみじ / 北九州) 構造を取るため、山口リースは 3 行の顧客基盤すべてに対するリース業務窓口として位置づけられる。これは [[mebuki-fg]] (2 行: 常陽 + 足利) や [[concordia-fg]] (2 行: 横浜 + 東日本) よりも地理的範囲が広い ^[inferred]。
+> [[regional-banks/yamaguchi-fg]] は地銀単独 FG では珍しい「3 行 3 ブランド」(山口 / もみじ / 北九州) 構造を取るため、山口リースは 3 行の顧客基盤すべてに対するリース業務窓口として位置づけられる。これは [[regional-banks/mebuki-fg]] (2 行: 常陽 + 足利) や [[regional-banks/concordia-fg]] (2 行: 横浜 + 東日本) よりも地理的範囲が広い ^[inferred]。
 
 ## 推論 (from 主要業務ライン)
 
@@ -28,7 +28,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## 推論 (from 3. 親会社・グループ内ポジション)
 
-YMFG グループ内では、銀行 3 行 (山口 / もみじ / 北九州) の **県境を越える広域中堅企業 main bank 顧客基盤に対するリース業務窓口** という位置づけ。山口リースは [[yamaguchi-fg]] 「3 行 3 ブランド」戦略下で 3 県 (山口 + 広島 + 福岡北九州) の広域営業ネットワークを背景とする。**横浜銀行 ([[concordia-fg]]) との域外協力提携 (2021-)** によりリース領域での連携可能性も存在 ^[inferred]。
+YMFG グループ内では、銀行 3 行 (山口 / もみじ / 北九州) の **県境を越える広域中堅企業 main bank 顧客基盤に対するリース業務窓口** という位置づけ。山口リースは [[regional-banks/yamaguchi-fg]] 「3 行 3 ブランド」戦略下で 3 県 (山口 + 広島 + 福岡北九州) の広域営業ネットワークを背景とする。**横浜銀行 ([[regional-banks/concordia-fg]]) との域外協力提携 (2021-)** によりリース領域での連携可能性も存在 ^[inferred]。
 
 ## 推論 (from グループ内クロスリンク)
 
@@ -36,11 +36,11 @@ YMFG グループ内では、銀行 3 行 (山口 / もみじ / 北九州) の *
 
 ## 推論 (from 域外協力提携 (2021-))
 
-[[yamaguchi-fg]] が 2021 [[concordia-fg|横浜 FG (旧 CFG)]] と営業協力提携を締結。これにより山口リースと [[yokohama-bank-leasing]] (横浜銀リース) との情報共有・共同案件組成余地が存在 ^[inferred]。地銀系リースとしては珍しい「域外連携」model。
+[[regional-banks/yamaguchi-fg]] が 2021 [[regional-banks/concordia-fg|横浜 FG (旧 CFG)]] と営業協力提携を締結。これにより山口リースと [[leasing-firms/yokohama-bank-leasing]] (横浜銀リース) との情報共有・共同案件組成余地が存在 ^[inferred]。地銀系リースとしては珍しい「域外連携」model。
 
 ## 推論 (from 地銀系リース peer 比較)
 
-| ふくぎんリース ^[inferred] | [[fukuoka-fg|FFG]] | 持株会社下兄弟会社 | 九州 (福岡・熊本・長崎) | 親 8354 |
+| ふくぎんリース ^[inferred] | [[regional-banks/fukuoka-fg|FFG]] | 持株会社下兄弟会社 | 九州 (福岡・熊本・長崎) | 親 8354 |
 | ひろぎんリース ^[inferred] | ひろぎん HD | 持株会社下兄弟会社 | 広島・中国地方 ^[inferred] | 親 7337 ^[inferred] |
 
 ## 推論 (from 強み・弱み)
@@ -54,7 +54,7 @@ YMFG グループ内では、銀行 3 行 (山口 / もみじ / 北九州) の *
 
 ## 推論 (from 会計上の取扱い)
 
-- **連結対象**: [[yamaguchi-fg]] 100% 子会社として連結対象、銀行業セグメント以外の「その他」セグメントに集約されるのが典型 ^[inferred]
+- **連結対象**: [[regional-banks/yamaguchi-fg]] 100% 子会社として連結対象、銀行業セグメント以外の「その他」セグメントに集約されるのが典型 ^[inferred]
 - **リース債権**: 連結 BS 上「リース債権及びリース投資資産」勘定で表示 ^[inferred]
 - **報告通貨**: 円建て、日本基準 (リース会計基準) 適用 ^[inferred]
 
@@ -62,26 +62,26 @@ YMFG グループ内では、銀行 3 行 (山口 / もみじ / 北九州) の *
 
 - 「地銀系リース = 中途半端」論: 大手リースに規模で劣後 vs 銀リース連携の優位性 ^[ambiguous]
 - 「3 行 3 ブランド = 経営非効率」論: 山口リース内部で 3 行 (山口 / もみじ / 北九州) 顧客の営業ルート二重化リスク vs 県域カバーのメリット ^[inferred]
-- 「単独存続困難」論: リース業界寡占化進展 ([[mitsubishi-hc-capital]] / [[smfl]] / [[mizuho-lease]] の上位 3 強)、地銀系リース統合・売却シナリオ ^[inferred]
+- 「単独存続困難」論: リース業界寡占化進展 ([[leasing-firms/mitsubishi-hc-capital]] / [[leasing-firms/smfl]] / [[leasing-firms/mizuho-lease]] の上位 3 強)、地銀系リース統合・売却シナリオ ^[inferred]
 - 「FG 内利益相反」: 銀行 3 行融資 vs 山口リース提案の使い分け基準 ^[inferred]
 - 「中国地方西部 = 人口減少リスク」: 山口県は全国でも人口減少先行地域、リース需要長期縮小懸念 ^[inferred]
-- 「[[concordia-fg]] 提携 = 形だけ」論: 2021 域外協力提携の実効性 (リース領域での具体的成果) ^[ambiguous]
+- 「[[regional-banks/concordia-fg]] 提携 = 形だけ」論: 2021 域外協力提携の実効性 (リース領域での具体的成果) ^[ambiguous]
 
 ## Open questions
 
-- リース契約残高・新規取扱高の最新規模 ([[yamaguchi-fg]] セグメント情報で開示限定)
+- リース契約残高・新規取扱高の最新規模 ([[regional-banks/yamaguchi-fg]] セグメント情報で開示限定)
 - 山口リース設立年・歴史的合併経緯の正確な年月 ^[ambiguous]
-- 大手リース ([[mitsubishi-hc-capital]] / [[smfl]] / [[mizuho-lease]]) との将来統合・業務提携シナリオ
+- 大手リース ([[leasing-firms/mitsubishi-hc-capital]] / [[leasing-firms/smfl]] / [[leasing-firms/mizuho-lease]]) との将来統合・業務提携シナリオ
 - 再エネリース・EV リース・データセンター等の新領域参入計画
-- [[concordia-fg]] / [[yokohama-bank-leasing]] との具体的リース業務連携策
+- [[regional-banks/concordia-fg]] / [[leasing-firms/yokohama-bank-leasing]] との具体的リース業務連携策
 - ワイエム証券・ワイエムキャリアとの cross-sell KPI 目標
-- 広島県内 [[hiroshima-bank|広島銀行]] / ひろぎん HD 系リースとの直接競合関係
+- 広島県内 [[regional-banks/hiroshima-bank|広島銀行]] / ひろぎん HD 系リースとの直接競合関係
 
 <!-- Phase 1.5 追加抽出 (2026-05-29) -->
 
 ### 収益構造の特徴 ^[inferred]
 
 - 主要収益源は **リース料収入 - 減価償却費 - リース債権取得コスト**
-- 3 行体制 (山口銀 / [[momiji-bank]] / [[kitakyushu-bank]]) の中堅企業 main bank ネットワークが受託入口
+- 3 行体制 (山口銀 / [[regional-banks/momiji-bank]] / [[regional-banks/kitakyushu-bank]]) の中堅企業 main bank ネットワークが受託入口
 - 山陽工業地帯・北九州工業地帯の製造業集積でリース需要厚い
-- 業績は親 [[yamaguchi-fg]] 連結セグメント情報経由で部分開示 ^[ambiguous]
+- 業績は親 [[regional-banks/yamaguchi-fg]] 連結セグメント情報経由で部分開示 ^[ambiguous]

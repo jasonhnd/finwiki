@@ -16,7 +16,7 @@ This entry sits under[[trust-banks/INDEX|trust-banks INDEX]]. Read it against[[t
 
 ## TL;DR
 
-One of Japan's largest banks specializing in trust custody (total trust assets approximately 476 兆円, total assets under custody including account management operations approximately 696 兆円, both as of the end of2025- 03 ). **2020-07-27 Japan Trustee Services Bank (JTSB) + Trust and Custody Services Bank (TCSB) merger launched**.[[sumitomo-mitsui-trust]](Sumitomo Mitsui Trust Group)33.3%+[[mizuho-fg]]27.0% + Resona Bank16.7%+[[dai-ichi-life]]Dai-ichi Life8.0%+ Asahi Life5.0%+ Meiji Yasuda Life4.5%+ Japan Post Insurance Joint venture of3.5%+ Fukoku Life2.0%(currently 2020-07-27). **Regularly appears as "Japan Custody Bank (trust account)" in the major shareholder column of listed companies ★**. Japan Master Trust Trust[[master-trust-bank]](MUFG[[mufg]]+[[nippon-life]]series) and the domestic2 strong trust account shareholder (securities storage2 strong structure). ^[extracted]
+One of Japan's largest banks specializing in trust custody (total trust assets approximately 476 兆円, total assets under custody including account management operations approximately 696 兆円, both as of the end of2025- 03 ). **2020-07-27 Japan Trustee Services Bank (JTSB) + Trust and Custody Services Bank (TCSB) merger launched**.[[trust-banks/sumitomo-mitsui-trust]](Sumitomo Mitsui Trust Group)33.3%+[[megabanks/mizuho-fg]]27.0% + Resona Bank16.7%+[[life-insurers/dai-ichi-life]]Dai-ichi Life8.0%+ Asahi Life5.0%+ Meiji Yasuda Life4.5%+ Japan Post Insurance Joint venture of3.5%+ Fukoku Life2.0%(currently 2020-07-27). **Regularly appears as "Japan Custody Bank (trust account)" in the major shareholder column of listed companies ★**. Japan Master Trust Trust[[trust-banks/master-trust-bank]](MUFG[[megabanks/mufg]]+[[life-insurers/nippon-life]]series) and the domestic2 strong trust account shareholder (securities storage2 strong structure). ^[extracted]
 
 ## 1 . Company profile
 
@@ -31,10 +31,10 @@ One of Japan's largest banks specializing in trust custody (total trust assets a
 
 |shareholder|ratio|
 |---|---|
-|[[sumitomo-mitsui-trust]] (Sumitomo Mitsui Trust Group)|**33.3%**|
-|[[mizuho-fg]] (Mizuho Financial Group)|**27.0%**|
+|[[trust-banks/sumitomo-mitsui-trust]] (Sumitomo Mitsui Trust Group)|**33.3%**|
+|[[megabanks/mizuho-fg]] (Mizuho Financial Group)|**27.0%**|
 |Resona Bank|**16.7%**|
-|[[dai-ichi-life]] Dai-ichi Life Insurance|**8.0%**|
+|[[life-insurers/dai-ichi-life]] Dai-ichi Life Insurance|**8.0%**|
 |Asahi Life Insurance|**5.0%**|
 |Meiji Yasuda Life Insurance|**4.5%**|
 |Japan Post Insurance|**3.5%**|
@@ -43,7 +43,7 @@ One of Japan's largest banks specializing in trust custody (total trust assets a
 ### Importance ★
 
 - Regularly appears in the major shareholder column of almost all listed Japanese companies as **``Japan Custody Bank (Trust Account)''**
-- [[master-trust-bank]], a “trust account shareholder” along with Japan Master Trust Trust 2
+- [[trust-banks/master-trust-bank]], a “trust account shareholder” along with Japan Master Trust Trust 2
 - Total trust assets: approximately **476 兆円**, including account management services, etc. ** Total assets under custody: approximately696 兆円** (all as of the end of2025- 03 , CBJ Disclosure Magazine 2025)
 - Part of the central custodian and management organization for domestic pensions (employee pensions, private pensions, defined contribution pensions, etc.)
 
@@ -52,13 +52,13 @@ One of Japan's largest banks specializing in trust custody (total trust assets a
 ````
 JTSB series (formerly SuMi TRUST series)
   Japan Trustee Services Bank (2000  established)
-    ├── Former Chuo Mitsui Trust and Banking Corporation (→ SuMi TRUST [[sumitomo-mitsui-trust]])
-    ├── Former Sumitomo Trust Bank (→ SuMi TRUST [[sumitomo-mitsui-trust]])
-    └── Dai-ichi Life[[dai-ichi-life]]etc.
+    ├── Former Chuo Mitsui Trust and Banking Corporation (→ SuMi TRUST [[trust-banks/sumitomo-mitsui-trust]])
+    ├── Former Sumitomo Trust Bank (→ SuMi TRUST [[trust-banks/sumitomo-mitsui-trust]])
+    └── Dai-ichi Life[[life-insurers/dai-ichi-life]]etc.
 
 TCSB series (formerly Mizuho + Resona series)
   Asset Management Services Trust Bank (2004  established)
-    ├── Mizuho Trust and Banking ([[mizuho-fg]])
+    ├── Mizuho Trust and Banking ([[megabanks/mizuho-fg]])
     ├── Resona Bank (formerly Daiwa/Asahi Trust)
     ├── Asahi Life Insurance, Meiji Yasuda Life Insurance, Japan Post Insurance, Fukoku Life Insurance, etc.
     └── Former Dai-ichi Kangyo Fuji Trust/Yasuda Trust system
@@ -66,10 +66,10 @@ TCSB series (formerly Mizuho + Resona series)
   ↓2020-07-27Merger
 
 Custody Bank of Japan (CBJ)
-  ├── Sumitomo Mitsui Trust Group[[sumitomo-mitsui-trust]]33.3%
-  ├── Mizuho FG[[mizuho-fg]]27.0%
+  ├── Sumitomo Mitsui Trust Group[[trust-banks/sumitomo-mitsui-trust]]33.3%
+  ├── Mizuho FG[[megabanks/mizuho-fg]]27.0%
   ├── Resona Bank 16.7%
-  ├── Dai-ichi Life[[dai-ichi-life]]8.0%
+  ├── Dai-ichi Life[[life-insurers/dai-ichi-life]]8.0%
   └── Asahi Life Insurance5.0%/ Meiji Yasuda Life Insurance4.5%/ Japan Post Insurance3.5%/ Fukoku Life Insurance 2.0%
 ````
 
@@ -86,11 +86,11 @@ Custody Bank of Japan (CBJ)
 ### Full-time position
 
 - Trust custody + pension trust **Specialized**: No commercial banking, securities, or retail operations
-- Parent company SuMi TRUST[[sumitomo-mitsui-trust]]/ Mizuho Trust[[mizuho-fg]]is the **front office** (operation and sales), and CBJ is the **back office** (storage, calculation, administration).
+- Parent company SuMi TRUST[[trust-banks/sumitomo-mitsui-trust]]/ Mizuho Trust[[megabanks/mizuho-fg]]is the **front office** (operation and sales), and CBJ is the **back office** (storage, calculation, administration).
 
 ### Competitors/Domestic2 Strong structure
 
-- **Master Trust Bank[[master-trust-bank]]**(MUFG[[mufg]]+[[nippon-life]]Nippon Life Insurance): Biggest competitor
+- **Master Trust Bank[[trust-banks/master-trust-bank]]**(MUFG[[megabanks/mufg]]+[[life-insurers/nippon-life]]Nippon Life Insurance): Biggest competitor
 - Japanese securities custodian/trust account shareholder is CBJ + Master Trust **2 Strong structure** ^[extracted]
 - Both parties have a virtual monopoly over the back office for storing Japanese institutional investors and pension assets.
 
@@ -120,15 +120,15 @@ Custody Bank of Japan (CBJ)
 |---|---|
 |2000 |Japan Trustee Services Bank (JTSB) established (formerly Chuo Mitsui Trust + Sumitomo Trust + Dai-ichi Life, etc.)|
 |2004 |Trust and Custody Services Bank (TCSB) established (Mizuho + Asahi Life + Fukoku Life, etc.)|
-|2011 - 04 |Chuo Mitsui Trust + Sumitomo Trust → Sumitomo Mitsui Trust HD[[sumitomo-mitsui-trust]]launched → JTSB parent company integration|
+|2011 - 04 |Chuo Mitsui Trust + Sumitomo Trust → Sumitomo Mitsui Trust HD[[trust-banks/sumitomo-mitsui-trust]]launched → JTSB parent company integration|
 |**2020-07-27**|**JTSB + TCSB merger → Custody Bank of Japan (CBJ) established** ★|
 |2024 |Medium-term plan (specific details not disclosed to IR)|
 
 ## Related
 
-- [[master-trust-bank]] ·[[sumitomo-mitsui-trust]]·[[mizuho-fg]]· [[dai-ichi-life]]
+- [[trust-banks/master-trust-bank]] ·[[trust-banks/sumitomo-mitsui-trust]]·[[megabanks/mizuho-fg]]· [[life-insurers/dai-ichi-life]]
 - Resona Bank (CBJ No.3 位shareholder 16.7%)
-- [[mufg]] ·[[nippon-life]](Master trust side)
+- [[megabanks/mufg]] ·[[life-insurers/nippon-life]](Master trust side)
 - Related wiki: Trust banking business / Custody / Trust account shareholders / Voting rights exercise
 
 ## Sources
@@ -138,7 +138,7 @@ Custody Bank of Japan (CBJ)
 - **Wikipedia: Trust and Custody Services Bank (TCSB)** (extracted from 2026-05-19)
 - **Sumitomo Mitsui Trust Bank: Pursuing economies of scale** (Total trust assets of Japan Custody Bank476 兆円・Total assets under custody including account management etc.696 兆円,2025-03 As of the end of the year) https://www.smtb.jp/business/instrument/management/scale
 - **Custody Bank of Japan: Disclosure magazine2025**(Total trust assets 476 兆円,2025- End of 03 ) https://www.custody.jp/data/disclosure/pdf/disclosure202507.pdf
-- Parent company IR disclosure ([[sumitomo-mitsui-trust]] /[[mizuho-fg]]/ [[dai-ichi-life]])
+- Parent company IR disclosure ([[trust-banks/sumitomo-mitsui-trust]] /[[megabanks/mizuho-fg]]/ [[life-insurers/dai-ichi-life]])
 
 ---
 

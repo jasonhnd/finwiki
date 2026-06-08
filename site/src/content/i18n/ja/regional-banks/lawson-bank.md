@@ -16,7 +16,7 @@ translated_at: 2026-06-02T14:54:39.071Z
 
 ## 要約
 
-コンビニ ATM 特化型の新興リテール銀行。**2017-11-15 設立 / 2018-10-15 開業** ^[extracted]。親会社 株式会社ローソンが 2024-09 に **三菱商事 + KDDI 50:50 共同保有 JV** 体制へ移行し上場廃止 → ローソン銀行も間接的に **三菱商事系列 + KDDI au 経済圏** 二重所属の様相に。先行する [[seven-bank]]（セブン銀行モデル）を追随する後発組で、ATM 設置数は**13,889 台**（2025-03 末、公式「数字でわかるローソン銀行」）。コンビニ ATM 三強（[[seven-bank]] / Lawson Bank / E-net）の一角。 ^[extracted]
+コンビニ ATM 特化型の新興リテール銀行。**2017-11-15 設立 / 2018-10-15 開業** ^[extracted]。親会社 株式会社ローソンが 2024-09 に **三菱商事 + KDDI 50:50 共同保有 JV** 体制へ移行し上場廃止 → ローソン銀行も間接的に **三菱商事系列 + KDDI au 経済圏** 二重所属の様相に。先行する [[regional-banks/seven-bank]]（セブン銀行モデル）を追随する後発組で、ATM 設置数は**13,889 台**（2025-03 末、公式「数字でわかるローソン銀行」）。コンビニ ATM 三強（[[regional-banks/seven-bank]] / Lawson Bank / E-net）の一角。 ^[extracted]
 
 ## 1. 会社概要
 
@@ -40,23 +40,23 @@ translated_at: 2026-06-02T14:54:39.071Z
 
 | セグメント | 主力プロダクト | 特徴 |
 |---|---|---|
-| **ATM 業務（コア）** | 全国ローソン店舗 ATM 13,889 台（2025-03 末）| コンビニ ATM 手数料収入が収益源（[[seven-bank]] モデル踏襲）|
+| **ATM 業務（コア）** | 全国ローソン店舗 ATM 13,889 台（2025-03 末）| コンビニ ATM 手数料収入が収益源（[[regional-banks/seven-bank]] モデル踏襲）|
 | 提携金融機関 | 邦銀大手・地銀・ネット銀行多数 | ATM 提携手数料モデル |
 
 ### コンビニ ATM 三強構造
 
-- **[[seven-bank]]**（セブン銀行、東証 PRIME 8410）— ATM 設置数最大・先行者・収益性最強モデル
+- **[[regional-banks/seven-bank]]**（セブン銀行、東証 PRIME 8410）— ATM 設置数最大・先行者・収益性最強モデル
 - **Lawson Bank** — ATM 13,889 台（2025-03 末）、後発で追随戦略
 
 ### KDDI au 経済圏統合可能性
 
 2024-09 の親会社 ローソン JV 化（三菱商事 + KDDI 50:50）以降の戦略軸が論点。
 
-> 注：[[mufg]] との間接連携余地など将来の連携シナリオに関する推測は `.opinions/JapanFG/lawson-bank.md` に隔離（検証可能な一次情報なし）。
+> 注：[[megabanks/mufg]] との間接連携余地など将来の連携シナリオに関する推測は `.opinions/JapanFG/lawson-bank.md` に隔離（検証可能な一次情報なし）。
 
-### vs セブン銀行（[[seven-bank]]）
+### vs セブン銀行（[[regional-banks/seven-bank]]）
 
-| 軸 | [[seven-bank]] | ローソン銀行 |
+| 軸 | [[regional-banks/seven-bank]] | ローソン銀行 |
 |---|---|---|
 | 設立 | 2001-04 | 2017-11 |
 | 開業 | 2001-05 | 2018-10 |
@@ -73,10 +73,10 @@ translated_at: 2026-06-02T14:54:39.071Z
 
 ## 関連項目
 
-- [[seven-bank]]（ATM 三強最大手・先行モデル）
-- [[au-fh]]（KDDI 系列・auじぶん銀行の親会社）
-- [[mufg]]（auじぶん銀行旧親 + 旧ローソン ATM 委託先・三菱グループ）
-- [[ndfg]] · [[smfg]] · [[mizuho-fg]]
+- [[regional-banks/seven-bank]]（ATM 三強最大手・先行モデル）
+- [[megabanks/au-fh]]（KDDI 系列・auじぶん銀行の親会社）
+- [[megabanks/mufg]]（auじぶん銀行旧親 + 旧ローソン ATM 委託先・三菱グループ）
+- [[megabanks/ndfg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]
 - [[banking/minna-bank-baas-model]] · [[banking/mercari-bank-license-stack]]
 
 ## 出典

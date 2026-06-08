@@ -12,7 +12,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## 推論 (from 主要数値（公開）^[extracted])
 
-> 預金規模は地銀単独で No.1 級。**持株会社化していない地銀** の中では最大規模。[[concordia-fg]]（横浜銀＋東日本銀の持株会社）と比較すると、千葉銀単独で同水準の預金規模を保持する点が特徴。^[inferred]
+> 預金規模は地銀単独で No.1 級。**持株会社化していない地銀** の中では最大規模。[[regional-banks/concordia-fg]]（横浜銀＋東日本銀の持株会社）と比較すると、千葉銀単独で同水準の預金規模を保持する点が特徴。^[inferred]
 
 ## 推論 (from 主要子会社・関連会社（公開）)
 
@@ -25,7 +25,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 ## 推論 (from ホールディング非実施戦略)
 
 - **メリット**: 経営の柔軟性・意思決定の速さ・コスト低減（持株会社オーバーヘッド回避）^[inferred]
-- **デメリット**: 資本効率・グループ全体最適化が地銀 FG（[[concordia-fg]]・[[fukuoka-fg]] 等）に劣る可能性 ^[inferred]
+- **デメリット**: 資本効率・グループ全体最適化が地銀 FG（[[regional-banks/concordia-fg]]・[[regional-banks/fukuoka-fg]] 等）に劣る可能性 ^[inferred]
 
 ## 推論 (from 4. 規制・政策)
 
@@ -33,7 +33,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## Counterpoints
 
-- 「持株会社化未実施 = 資本効率劣後」観: 地銀 FG（[[concordia-fg]]・[[fukuoka-fg]] 等）と比較して資本効率・グループガバナンスで劣後する可能性 ^[inferred]
+- 「持株会社化未実施 = 資本効率劣後」観: 地銀 FG（[[regional-banks/concordia-fg]]・[[regional-banks/fukuoka-fg]] 等）と比較して資本効率・グループガバナンスで劣後する可能性 ^[inferred]
 - 「TSUBASA で代替可能」観: 持株会社化せずとも TSUBASA で実質的なグループ機能を持つ → 千葉銀モデルの妥当性 ^[ambiguous]
 - 「単独路線の限界」: 地銀再編圧力（金融庁政策・人口減）下で単独維持は中長期的に困難という見方 ^[inferred]
 - 「シンガポール支店 ROI」: 2023-12 開設のアジア海外戦略は地銀単独としては野心的、ROI 検証は数年後 ^[ambiguous]

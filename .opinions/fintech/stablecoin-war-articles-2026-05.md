@@ -14,7 +14,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 - 長文は publication 級のアウトプットであり、**wiki アトムエントリとして再利用できない** —— 1 篇あたり 6-8K 字は staging 8 KB 上限の 5-10 倍を超える
 - 本エントリは reference として入口を案内するのみ、内容をコピーしない
-- 論点の再利用可能部分は対応するフレームワークエントリから取得すべき（例：5 層分解 → [[central-banking-function-unbundling]]、Visa → [[portfolio-winner-structure-arm-analog]]）
+- 論点の再利用可能部分は対応するフレームワークエントリから取得すべき（例：5 層分解 → [[fintech/central-banking-function-unbundling]]、Visa → [[fintech/portfolio-winner-structure-arm-analog]]）
 - タイムスタンプ依存 —— 2026-05 基準日、一部予測（HK 5/21 ライセンス · GENIUS Q3 細則）は本エントリ review_by の前に必ず実現 / 失効するため、その時点で記事が古くなっているか再判断が必要
 
 ## Open questions

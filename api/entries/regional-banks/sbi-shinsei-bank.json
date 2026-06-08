@@ -52,36 +52,34 @@
     "「第 4 のメガバンク構想」"
   ],
   "body_links": {
-    "wikilinks_count": 9,
+    "wikilinks_count": 8,
     "wikilinks": [
-      "aozora-bank",
       "banking/INDEX",
-      "mizuho-fg",
-      "mufg",
-      "ndfg",
+      "megabanks/mizuho-fg",
+      "megabanks/mufg",
+      "megabanks/ndfg",
+      "megabanks/sbi-hd",
+      "megabanks/smfg",
       "regional-banks/INDEX",
-      "regional-banks/aozora-bank",
-      "sbi-hd",
-      "smfg"
+      "regional-banks/aozora-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/aozora-bank",
       "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/mizuho-fg",
-      "https://finwiki.zksc.io/mufg",
-      "https://finwiki.zksc.io/ndfg",
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/ndfg",
+      "https://finwiki.zksc.io/megabanks/sbi-hd",
+      "https://finwiki.zksc.io/megabanks/smfg",
       "https://finwiki.zksc.io/regional-banks/INDEX",
-      "https://finwiki.zksc.io/regional-banks/aozora-bank",
-      "https://finwiki.zksc.io/sbi-hd",
-      "https://finwiki.zksc.io/smfg"
+      "https://finwiki.zksc.io/regional-banks/aozora-bank"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3842,
-    "word_like_tokens": 651,
-    "inbound_wikilinks_count": 25,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 4057,
+    "word_like_tokens": 674,
+    "inbound_wikilinks_count": 31,
+    "last_modified": "2026-06-08"
   }
 }

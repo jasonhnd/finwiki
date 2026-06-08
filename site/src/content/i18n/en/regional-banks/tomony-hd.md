@@ -15,7 +15,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-Tomony Holdings is a regional-bank FG with a cross-footprint across Shikoku (Tokushima and Kagawa) and Osaka (the former Taisho Bank lineage). It was launched in 2010-04-01 through the **management integration of Tokushima Bank and Kagawa Bank**, made 2017 Taisho Bank (former Hokuto Shoji lineage, Osaka) a rescue subsidiary, and in 2020-01  merged Tokushima and Taisho to create **[[tokushima-taisho-bank|徳島大正銀行]]**. Its current main subsidiaries are [[tokushima-taisho-bank|徳島大正銀行]] and [[kagawa-bank|香川銀行]], a 2 行-bank structure. ^[extracted]
+Tomony Holdings is a regional-bank FG with a cross-footprint across Shikoku (Tokushima and Kagawa) and Osaka (the former Taisho Bank lineage). It was launched in 2010-04-01 through the **management integration of Tokushima Bank and Kagawa Bank**, made 2017 Taisho Bank (former Hokuto Shoji lineage, Osaka) a rescue subsidiary, and in 2020-01  merged Tokushima and Taisho to create **[[regional-banks/tokushima-taisho-bank|徳島大正銀行]]**. Its current main subsidiaries are [[regional-banks/tokushima-taisho-bank|徳島大正銀行]] and [[regional-banks/kagawa-bank|香川銀行]], a 2 行-bank structure. ^[extracted]
 
 ## 1. Company overview
 
@@ -29,10 +29,10 @@ Tomony Holdings is a regional-bank FG with a cross-footprint across Shikoku (Tok
 
 ```
 Tomony HD (holding company, listed 8600)
-  ├── Tokushima Taisho Bank (100%, head office: Tokushima City) -- [[tokushima-taisho-bank]] / regional bank with a Shikoku + Osaka cross-footprint
+  ├── Tokushima Taisho Bank (100%, head office: Tokushima City) -- [[regional-banks/tokushima-taisho-bank]] / regional bank with a Shikoku + Osaka cross-footprint
   │     ├── Former Tokushima Bank (founded 1944 , former Tokushima Godo Bank lineage)
   │     └── Former Taisho Bank (founded 1922  in Osaka, made subsidiary in 2017  -> merged in 2020-01 )
-  ├── Kagawa Bank (100%, head office: Takamatsu) -- [[kagawa-bank]] / 1943  Kagawa Mujin -> 1989  ordinary-bank conversion
+  ├── Kagawa Bank (100%, head office: Takamatsu) -- [[regional-banks/kagawa-bank]] / 1943  Kagawa Mujin -> 1989  ordinary-bank conversion
   └── Group function subsidiaries including Tomony Information Systems
 ```
 
@@ -63,9 +63,9 @@ Tomony HD (holding company, listed 8600)
 
 | Segment | Main operators | Characteristics |
 |---|---|---|
-| Shikoku regional banks | [[tokushima-taisho-bank|徳島大正銀行]] and [[kagawa-bank|香川銀行]] | Footprint centered on Tokushima and Kagawa |
-| Kansai expansion | [[tokushima-taisho-bank|徳島大正銀行]] (former Taisho Bank branch network) | Stores in Osaka Prefecture and access to the Kansai economic zone |
-| SME finance | [[tokushima-taisho-bank|徳島大正銀行]] and [[kagawa-bank|香川銀行]] | Manufacturing (Toyo shipbuilding and Shikoku paper), agriculture (mikan, udon flour), tourism (Shikoku pilgrimage) |
+| Shikoku regional banks | [[regional-banks/tokushima-taisho-bank|徳島大正銀行]] and [[regional-banks/kagawa-bank|香川銀行]] | Footprint centered on Tokushima and Kagawa |
+| Kansai expansion | [[regional-banks/tokushima-taisho-bank|徳島大正銀行]] (former Taisho Bank branch network) | Stores in Osaka Prefecture and access to the Kansai economic zone |
+| SME finance | [[regional-banks/tokushima-taisho-bank|徳島大正銀行]] and [[regional-banks/kagawa-bank|香川銀行]] | Manufacturing (Toyo shipbuilding and Shikoku paper), agriculture (mikan, udon flour), tourism (Shikoku pilgrimage) |
 | Consumer loans | Each subsidiary bank | Mainly housing, auto, and education loans |
 
 ### Cross-footprint strategy
@@ -89,10 +89,10 @@ Tomony HD (holding company, listed 8600)
 
 ### Position in regional-bank consolidation
 
-- Shikoku regional banks: Tomony HD ([[tokushima-taisho-bank|徳島大正]] + [[kagawa-bank|香川]]) / [[iyogin-hd]] ([[iyo-bank|伊予銀行]]) / [[awa-bank|阿波銀行]] (Tokushima) / [[hyakujushi-bank|百十四銀行]] (Kagawa) / [[shikoku-bank|四国銀行]] (Kochi), etc.
-- In Tokushima Prefecture: [[tokushima-taisho-bank|徳島大正銀行]] vs [[awa-bank|阿波銀行]] in a 2 行-bank structure
-- In Kagawa Prefecture: [[kagawa-bank|香川銀行]] vs [[hyakujushi-bank|百十四銀行]] in a 2 行-bank structure
-- In Osaka Prefecture: [[tokushima-taisho-bank|徳島大正銀行]] (former Taisho Bank branches) vs megabanks + [[smfg]] lineage + Kansai Mirai FG, etc.
+- Shikoku regional banks: Tomony HD ([[regional-banks/tokushima-taisho-bank|徳島大正]] + [[regional-banks/kagawa-bank|香川]]) / [[regional-banks/iyogin-hd]] ([[regional-banks/iyo-bank|伊予銀行]]) / [[regional-banks/awa-bank|阿波銀行]] (Tokushima) / [[regional-banks/hyakujushi-bank|百十四銀行]] (Kagawa) / [[regional-banks/shikoku-bank|四国銀行]] (Kochi), etc.
+- In Tokushima Prefecture: [[regional-banks/tokushima-taisho-bank|徳島大正銀行]] vs [[regional-banks/awa-bank|阿波銀行]] in a 2 行-bank structure
+- In Kagawa Prefecture: [[regional-banks/kagawa-bank|香川銀行]] vs [[regional-banks/hyakujushi-bank|百十四銀行]] in a 2 行-bank structure
+- In Osaka Prefecture: [[regional-banks/tokushima-taisho-bank|徳島大正銀行]] (former Taisho Bank branches) vs megabanks + [[megabanks/smfg]] lineage + Kansai Mirai FG, etc.
 
 ## 4. Regulation and policy
 
@@ -105,7 +105,7 @@ Tomony HD (holding company, listed 8600)
 
 ## Related
 
-- [[tokushima-taisho-bank]] ? [[kagawa-bank]] ? [[awa-bank]] ? [[hyakujushi-bank]] ? [[iyogin-hd]]
+- [[regional-banks/tokushima-taisho-bank]] ? [[regional-banks/kagawa-bank]] ? [[regional-banks/awa-bank]] ? [[regional-banks/hyakujushi-bank]] ? [[regional-banks/iyogin-hd]]
 - [[banking/regional-bank-consolidation-pattern]]
 
 ## Sources

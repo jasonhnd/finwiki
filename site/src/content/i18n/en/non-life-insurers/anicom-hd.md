@@ -17,7 +17,7 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 
 ## TL;DR
 
-Anicom Holdings Co., Ltd. is a pet-insurance group holding company listed on the Financial Services Agency's list of insurance holding company approvals. See pet insurance, animal-health data, veterinary network, and specialty-insurance growth as parent / group strategy anchors for [[anicom-insurance]].
+Anicom Holdings Co., Ltd. is a pet-insurance group holding company listed on the Financial Services Agency's list of insurance holding company approvals. See pet insurance, animal-health data, veterinary network, and specialty-insurance growth as parent / group strategy anchors for [[non-life-insurers/anicom-insurance]].
 
 ## 1. License / group boundary
 
@@ -25,7 +25,7 @@ Anicom Holdings Co., Ltd. is a pet-insurance group holding company listed on the
 |---|---|
 |Legal name|Anicom Holdings Co., Ltd. / Anicom Holdings Co., Ltd.|
 |License route|Insurance holding company; FSA insurance holding-company list|
-|Core operating company|[[anicom-insurance]]|
+|Core operating company|[[non-life-insurers/anicom-insurance]]|
 |Wiki role|Pet-insurance holding-company / group strategy page|
 
 ## 2. Operating model
@@ -40,7 +40,7 @@ Anicom is not only a non-life insurer. The group surface includes pet insurance,
 
 ## Related
 
-- [[anicom-insurance]]
+- [[non-life-insurers/anicom-insurance]]
 - [[insurance/INDEX]]
 - [[financial-regulators/missing-financial-institutions-backlog]]
 

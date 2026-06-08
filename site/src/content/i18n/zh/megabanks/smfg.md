@@ -328,7 +328,7 @@ SMFG合并净利润约2 兆 6,779 億円（YoY+4,213 億）的主要贡献：
 
 ## 相关
 
-- [[mufg]] · [[mizuho-fg]] · [[ndfg]] · [[sbi-hd]] · [[ssnb]] · [[monex-group]]
+- [[megabanks/mufg]] · [[megabanks/mizuho-fg]] · [[megabanks/ndfg]] · [[megabanks/sbi-hd]] · [[regional-banks/ssnb]] · [[securities-firms/monex-group]]
 - [[banking/minna-bank-baas-model]] · [[banking/mercari-bank-license-stack]]
 
 ## 来源

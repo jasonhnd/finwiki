@@ -49,36 +49,34 @@
     "マイナス金利時代の苦境"
   ],
   "body_links": {
-    "wikilinks_count": 9,
+    "wikilinks_count": 8,
     "wikilinks": [
       "banking/INDEX",
+      "cooperative-banks/norinchukin",
+      "cooperative-banks/shinkin-central",
       "financial-regulators/INDEX",
       "financial-regulators/ueda-yagi-tanshi",
-      "mizuho-fg",
-      "mufg",
-      "norinchukin",
-      "shinkin-central",
-      "smfg",
-      "ueda-yagi-tanshi"
+      "megabanks/mizuho-fg",
+      "megabanks/mufg",
+      "megabanks/smfg"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/banking/INDEX",
+      "https://finwiki.zksc.io/cooperative-banks/norinchukin",
+      "https://finwiki.zksc.io/cooperative-banks/shinkin-central",
       "https://finwiki.zksc.io/financial-regulators/INDEX",
       "https://finwiki.zksc.io/financial-regulators/ueda-yagi-tanshi",
-      "https://finwiki.zksc.io/mizuho-fg",
-      "https://finwiki.zksc.io/mufg",
-      "https://finwiki.zksc.io/norinchukin",
-      "https://finwiki.zksc.io/shinkin-central",
-      "https://finwiki.zksc.io/smfg",
-      "https://finwiki.zksc.io/ueda-yagi-tanshi"
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/smfg"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3453,
-    "word_like_tokens": 508,
+    "nonspace_chars": 3603,
+    "word_like_tokens": 523,
     "inbound_wikilinks_count": 22,
-    "last_modified": "2026-06-06"
+    "last_modified": "2026-06-08"
   }
 }

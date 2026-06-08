@@ -41,6 +41,6 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 - 東京短資の現在の主要株主構成（邦銀・地銀・信託・生損保の出資比率）は？
 - マイナス金利解除後（2024-03〜2026-05）の業績回復軌道は実際にどの程度進んだか？
-- 法人 FX ブローカレッジでの 3 大短資の差別化要因（東京短資 vs [[central-tanshi]] vs [[ueda-yagi-tanshi]]）
+- 法人 FX ブローカレッジでの 3 大短資の差別化要因（東京短資 vs [[financial-regulators/central-tanshi]] vs [[financial-regulators/ueda-yagi-tanshi]]）
 - 電子取引プラットフォーム化への対応戦略（自社プラットフォーム vs 提携 vs 人手継続）
 - 3 大短資の合併・再編シナリオの可能性（マイナス金利期に議論されたか？）

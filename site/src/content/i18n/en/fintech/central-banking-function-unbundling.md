@@ -38,7 +38,7 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it against [[fintech
 | Russian reserves $300B+ frozen | Broke the neutrality assumption of #1  → USD understood as a political tool → political legitimacy for #3  multipolarisation |
 | ChatGPT public release | Transformed #4  from "person vs institution" binary to "person vs institution vs Agent" ternary → protocol layer rebuilt |
 
-Reference: [[2022-three-variable-cascade-thesis|2022 三変数カスケード]]
+Reference: [[fintech/2022-three-variable-cascade-thesis|2022 三変数カスケード]]
 
 ## Inter-layer network effects
 
@@ -85,9 +85,9 @@ Useful for the following analyses:
 
 ## Related
 
-- [[stablecoin-chain-sovereign-currency-divide|5 極地政学対立]]
-- [[occ-trust-bank-charter-federal-stablecoin-arbitrage|OCC charter 裁定]]
-- [[three-circles-stablecoin-mra-framework|三円 MRA フレームワーク]]
-- [[2022-three-variable-cascade-thesis|2022 三変数カスケード]]
+- [[fintech/stablecoin-chain-sovereign-currency-divide|5 極地政学対立]]
+- [[fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage|OCC charter 裁定]]
+- [[fintech/three-circles-stablecoin-mra-framework|三円 MRA フレームワーク]]
+- [[fintech/2022-three-variable-cascade-thesis|2022 三変数カスケード]]
 
 ---

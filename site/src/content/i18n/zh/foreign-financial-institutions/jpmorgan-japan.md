@@ -15,7 +15,7 @@ translated_at: 2026-05-31T23:59:49.406Z
 
 ## TL;DR
 
-美国最大银行 **JPMorgan Chase & Co.**（NYSE: JPM，总资产约 4.0 兆美元，G-SIB **Bucket 3** = +2.0% CET1  附加资本）的日本据点。**1924 年 Guaranty Trust（后为 JP Morgan 前身之一）设立东京支店** -> 战后再次进入日本 -> 2000 年年代以后以 IB 和 markets 为中心扩张。在日本形成 **JP Morgan Securities（IB 主力）+ JPMorgan Chase Bank, N.A. 东京支店（企业银行）+ JP Morgan Asset Management + JP Morgan Trust Bank** 的 4 法人体系。零售（Chase Bank）尚未在日本开展，不与日本银行零售领域竞争。在 **M&A advisory / DCM / ECM / FX / 机构投资者服务**方面，是外资 IB 三强之一（vs [[goldman-sachs-japan]] / [[morgan-stanley-japan]]）。^[extracted]
+美国最大银行 **JPMorgan Chase & Co.**（NYSE: JPM，总资产约 4.0 兆美元，G-SIB **Bucket 3** = +2.0% CET1  附加资本）的日本据点。**1924 年 Guaranty Trust（后为 JP Morgan 前身之一）设立东京支店** -> 战后再次进入日本 -> 2000 年年代以后以 IB 和 markets 为中心扩张。在日本形成 **JP Morgan Securities（IB 主力）+ JPMorgan Chase Bank, N.A. 东京支店（企业银行）+ JP Morgan Asset Management + JP Morgan Trust Bank** 的 4 法人体系。零售（Chase Bank）尚未在日本开展，不与日本银行零售领域竞争。在 **M&A advisory / DCM / ECM / FX / 机构投资者服务**方面，是外资 IB 三强之一（vs [[securities-firms/goldman-sachs-japan]] / [[securities-firms/morgan-stanley-japan]]）。^[extracted]
 
 ## 1. 母公司与全球结构
 
@@ -71,7 +71,7 @@ translated_at: 2026-05-31T23:59:49.406Z
 
 | 领域 | 主体 | 竞争与特征 |
 |---|---|---|
-| **M&A advisory** | JP Morgan Securities | 与外资 IB 三强（[[goldman-sachs-japan]] / [[morgan-stanley-japan]]）+ 日本银行系 IB（MUMSS / [[mufg]]・[[smfg]] Nikko / Daiwa / [[mizuho-fg]]）竞争 |
+| **M&A advisory** | JP Morgan Securities | 与外资 IB 三强（[[securities-firms/goldman-sachs-japan]] / [[securities-firms/morgan-stanley-japan]]）+ 日本银行系 IB（MUMSS / [[megabanks/mufg]]・[[megabanks/smfg]] Nikko / Daiwa / [[megabanks/mizuho-fg]]）竞争 |
 | **DCM（债券承销）** | JP Morgan Securities | 日元债 / 外债、武士债 |
 | **ECM（股票承销）** | JP Morgan Securities | IPO / 全球增资 |
 | **Markets（FX / 债券 / 股票）** | JP Morgan Securities + 东京支店 | 由东京 desk 覆盖亚洲时段 |
@@ -83,7 +83,7 @@ translated_at: 2026-05-31T23:59:49.406Z
 
 ### 竞争与协作
 
-- **竞争**：[[goldman-sachs-japan]] / [[morgan-stanley-japan]] / [[citigroup-japan]] / [[ubs-japan]]（外资 IB）/ MUMSS（[[mufg]] x Morgan Stanley JV）/ [[smfg]] Nikko / [[mizuho-fg]] / Daiwa Securities / Nomura
+- **竞争**：[[securities-firms/goldman-sachs-japan]] / [[securities-firms/morgan-stanley-japan]] / [[foreign-financial-institutions/citigroup-japan]] / [[foreign-financial-institutions/ubs-japan]]（外资 IB）/ MUMSS（[[megabanks/mufg]] x Morgan Stanley JV）/ [[megabanks/smfg]] Nikko / [[megabanks/mizuho-fg]] / Daiwa Securities / Nomura
 - **协作**：与日本银行共同安排银团贷款、跨境 M&A 共同 advisory、面向机构投资者的产品相互供给
 
 ### 强项与特征
@@ -112,8 +112,8 @@ translated_at: 2026-05-31T23:59:49.406Z
 
 ## Related
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[ndfg]]
-- [[goldman-sachs-japan]] · [[morgan-stanley-japan]] · [[citigroup-japan]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[megabanks/ndfg]]
+- [[securities-firms/goldman-sachs-japan]] · [[securities-firms/morgan-stanley-japan]] · [[foreign-financial-institutions/citigroup-japan]]
 
 ## Sources
 

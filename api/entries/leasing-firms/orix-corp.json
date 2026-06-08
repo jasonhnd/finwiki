@@ -57,10 +57,10 @@
       "leasing-firms/mitsubishi-hc-capital",
       "leasing-firms/ntt-tc-lease",
       "leasing-firms/tokyo-century",
-      "mizuho-fg",
-      "mufg",
-      "ndfg",
-      "smfg"
+      "megabanks/mizuho-fg",
+      "megabanks/mufg",
+      "megabanks/ndfg",
+      "megabanks/smfg"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/banking/INDEX",
@@ -69,18 +69,18 @@
       "https://finwiki.zksc.io/leasing-firms/mitsubishi-hc-capital",
       "https://finwiki.zksc.io/leasing-firms/ntt-tc-lease",
       "https://finwiki.zksc.io/leasing-firms/tokyo-century",
-      "https://finwiki.zksc.io/mizuho-fg",
-      "https://finwiki.zksc.io/mufg",
-      "https://finwiki.zksc.io/ndfg",
-      "https://finwiki.zksc.io/smfg"
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/ndfg",
+      "https://finwiki.zksc.io/megabanks/smfg"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4640,
-    "word_like_tokens": 784,
-    "inbound_wikilinks_count": 32,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 4680,
+    "word_like_tokens": 788,
+    "inbound_wikilinks_count": 34,
+    "last_modified": "2026-06-08"
   }
 }

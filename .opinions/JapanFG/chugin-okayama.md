@@ -20,7 +20,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## 推論 (from 競合関係)
 
-- **メガ**: [[mufg]]・[[smfg]]・[[mizuho-fg]] が大企業 main bank で侵食 ^[inferred]
+- **メガ**: [[megabanks/mufg]]・[[megabanks/smfg]]・[[megabanks/mizuho-fg]] が大企業 main bank で侵食 ^[inferred]
 
 ## 推論 (from 4. 規制・政策)
 

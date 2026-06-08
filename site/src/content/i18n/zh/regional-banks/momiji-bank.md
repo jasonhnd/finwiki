@@ -16,7 +16,7 @@ translated_at: 2026-05-31T23:59:49.403Z
 
 ## TL;DR
 
-株式会社もみじ銀行是总部位于广岛县、列入金融厅银行牌照名单的第二地方银行。它是 [[yamaguchi-fg]] 旗下的 Hiroshima-area operating bank，应作为与 [[hiroshima-bank]] 不同法人的 second-regional-bank peer 来处理。
+株式会社もみじ銀行是总部位于广岛县、列入金融厅银行牌照名单的第二地方银行。它是 [[regional-banks/yamaguchi-fg]] 旗下的 Hiroshima-area operating bank，应作为与 [[regional-banks/hiroshima-bank]] 不同法人的 second-regional-bank peer 来处理。
 
 ## 1. 牌照 / 集团边界
 
@@ -24,7 +24,7 @@ translated_at: 2026-05-31T23:59:49.403Z
 |---|---|
 | 法定名称 | 株式会社もみじ銀行 |
 | 牌照路径 | 《银行法》下的第二地方银行；FSA 银行牌照名单 |
-| 集团边界 | [[yamaguchi-fg]] Hiroshima operating bank |
+| 集团边界 | [[regional-banks/yamaguchi-fg]] Hiroshima operating bank |
 | 主场市场 | 广岛 / 广岛市 |
 | Wiki 角色 | 广岛第二地方银行运营公司页面 |
 
@@ -35,14 +35,14 @@ translated_at: 2026-05-31T23:59:49.403Z
 ## 3. 本页意义
 
 - 补齐金融厅中 もみじ银行 的法定名称精确页面。
-- 将广岛第二地方银行覆盖与 [[hiroshima-bank]]、[[hirogin-hd]] 区分开。
-- 为 [[yamaguchi-fg]] multi-bank structure 提供银行层面的锚点。
+- 将广岛第二地方银行覆盖与 [[regional-banks/hiroshima-bank]]、[[regional-banks/hirogin-hd]] 区分开。
+- 为 [[regional-banks/yamaguchi-fg]] multi-bank structure 提供银行层面的锚点。
 
 ## Related
 
-- [[yamaguchi-fg]]
-- [[hiroshima-bank]]
-- [[chugoku-bank]]
+- [[regional-banks/yamaguchi-fg]]
+- [[regional-banks/hiroshima-bank]]
+- [[regional-banks/chugoku-bank]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 

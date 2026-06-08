@@ -24,7 +24,7 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 
 ## TL;DR
 
-大同生命保険株式会社は、[[td-hd]] group の core life-insurance operating company。金融庁 life-insurer list に掲載され、T&D group 内では中小企業・経営者向け保険に強い specialist として位置付けるべき entity。
+大同生命保険株式会社は、[[life-insurers/td-hd]] group の core life-insurance operating company。金融庁 life-insurer list に掲載され、T&D group 内では中小企業・経営者向け保険に強い specialist として位置付けるべき entity。
 
 ## 1. License / group boundary
 
@@ -33,27 +33,27 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 | Legal name | 大同生命保険株式会社 |
 | License route | Insurance Business Act life-insurance company; FSA life insurer list |
 | Industry body | Life Insurance Association of Japan member |
-| Group boundary | [[td-hd]] operating company |
+| Group boundary | [[life-insurers/td-hd]] operating company |
 | Wiki role | SME / owner-oriented life-insurance specialist within T&D group |
 
 ## 2. Operating model
 
-T&D group は [[taiyo-life]]、大同生命、T&Dフィナンシャル生命を中心に構成される。大同生命は、mass household market というより、中小企業・法人 owner protection, succession, employee benefit, tax / accounting advisor channel の観点で見ると理解しやすい。
+T&D group は [[life-insurers/taiyo-life]]、大同生命、T&Dフィナンシャル生命を中心に構成される。大同生命は、mass household market というより、中小企業・法人 owner protection, succession, employee benefit, tax / accounting advisor channel の観点で見ると理解しやすい。
 
 FinWiki では SME finance と insurance distribution の交差点として、bank lending, credit guarantee, SME owner risk management と接続できる page にする。
 
 ## 3. Why this page matters
 
-- Parent [[td-hd]] page alone does not explain the SME / owner-insurance operating model.
+- Parent [[life-insurers/td-hd]] page alone does not explain the SME / owner-insurance operating model.
 - Useful for comparing corporate-owner channels with traditional household life-insurance channels.
 - Completes one of the major D1 life-insurer gaps.
 
 ## Related
 
-- [[td-hd]]
-- [[taiyo-life]]
+- [[life-insurers/td-hd]]
+- [[life-insurers/taiyo-life]]
 - [[insurance/life-insurance-channel-mix]]
-- [[jfc]]
+- [[financial-regulators/jfc]]
 - [[policy-finance/INDEX]]
 
 ## Sources

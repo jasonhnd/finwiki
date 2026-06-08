@@ -52,38 +52,36 @@
     "「信託口」名義の意味"
   ],
   "body_links": {
-    "wikilinks_count": 10,
+    "wikilinks_count": 9,
     "wikilinks": [
       "banking/INDEX",
-      "custody-bank",
-      "meiji-yasuda",
-      "mizuho-fg",
-      "mufg",
-      "nippon-life",
-      "norinchukin",
-      "sumitomo-mitsui-trust",
+      "cooperative-banks/norinchukin",
+      "life-insurers/meiji-yasuda",
+      "life-insurers/nippon-life",
+      "megabanks/mizuho-fg",
+      "megabanks/mufg",
       "trust-banks/INDEX",
-      "trust-banks/custody-bank"
+      "trust-banks/custody-bank",
+      "trust-banks/sumitomo-mitsui-trust"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/banking/INDEX",
-      "https://finwiki.zksc.io/custody-bank",
-      "https://finwiki.zksc.io/meiji-yasuda",
-      "https://finwiki.zksc.io/mizuho-fg",
-      "https://finwiki.zksc.io/mufg",
-      "https://finwiki.zksc.io/nippon-life",
-      "https://finwiki.zksc.io/norinchukin",
-      "https://finwiki.zksc.io/sumitomo-mitsui-trust",
+      "https://finwiki.zksc.io/cooperative-banks/norinchukin",
+      "https://finwiki.zksc.io/life-insurers/meiji-yasuda",
+      "https://finwiki.zksc.io/life-insurers/nippon-life",
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/mufg",
       "https://finwiki.zksc.io/trust-banks/INDEX",
-      "https://finwiki.zksc.io/trust-banks/custody-bank"
+      "https://finwiki.zksc.io/trust-banks/custody-bank",
+      "https://finwiki.zksc.io/trust-banks/sumitomo-mitsui-trust"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4547,
-    "word_like_tokens": 694,
-    "inbound_wikilinks_count": 25,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 4839,
+    "word_like_tokens": 733,
+    "inbound_wikilinks_count": 26,
+    "last_modified": "2026-06-08"
   }
 }

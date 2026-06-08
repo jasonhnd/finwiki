@@ -15,7 +15,7 @@ This entry sits under [[trust-banks/INDEX|trust-banks INDEX]]. Read it against [
 
 ## TL;DR
 
-The only holding company specializing in trusts independent of megabanks, **Part of 3  Large Trust** (Mitsubishi UFJ Trust / Sumitomo Mitsui Trust / Mizuho Trust). 2002-02  Chuo Mitsui Trust HD established → 2011-04  merged with Sumitomo Trust Bank → Sumitomo Mitsui Trust Holdings established → **2024-10-01 Trade name changed to Sumitomo Mitsui Trust Group**. Specializing in pensions, real estate, stock transfer agency, and testamentary trusts. FY2024  Net income **2,576 億円** (3.3  times the previous quarter, record high), Total assets **78.2 兆円**, **Trust asset balance 263.3 兆円 (industry leader)**. **Note: [[smfg]] (Sumitomo Mitsui FG) is a separate corporation** — Although they share the name "Sumitomo Mitsui," SuMi TRUST has **trust** roots from the former Mitsui family + former Sumitomo family, while SMFG has **bank** roots from the former Taiyo Kobe + former Sumitomo Bank, so they have no capital relationship. JV operation of SBI HD and [[ssnb]] (SBI Sumishin Net Bank).
+The only holding company specializing in trusts independent of megabanks, **Part of 3  Large Trust** (Mitsubishi UFJ Trust / Sumitomo Mitsui Trust / Mizuho Trust). 2002-02  Chuo Mitsui Trust HD established → 2011-04  merged with Sumitomo Trust Bank → Sumitomo Mitsui Trust Holdings established → **2024-10-01 Trade name changed to Sumitomo Mitsui Trust Group**. Specializing in pensions, real estate, stock transfer agency, and testamentary trusts. FY2024  Net income **2,576 億円** (3.3  times the previous quarter, record high), Total assets **78.2 兆円**, **Trust asset balance 263.3 兆円 (industry leader)**. **Note: [[megabanks/smfg]] (Sumitomo Mitsui FG) is a separate corporation** — Although they share the name "Sumitomo Mitsui," SuMi TRUST has **trust** roots from the former Mitsui family + former Sumitomo family, while SMFG has **bank** roots from the former Taiyo Kobe + former Sumitomo Bank, so they have no capital relationship. JV operation of SBI HD and [[regional-banks/ssnb]] (SBI Sumishin Net Bank).
 
 ## 1. Company profile
 
@@ -52,7 +52,7 @@ Sumitomo Mitsui Trust Group (Holding company/Listed 8309)
   ├── Sumitomo Mitsui Trust Real Estate ── Real estate brokerage
   ├── Sumitomo Mitsui Trust Card ── Credit card
   └── Equity method/JV
-        └── SBI Sumishin Net Bank (Invested by 50%, JV with SBI HD) ── [[ssnb]]
+        └── SBI Sumishin Net Bank (Invested by 50%, JV with SBI HD) ── [[regional-banks/ssnb]]
 ````
 
 ### Merger history/predecessor
@@ -92,13 +92,13 @@ Sumitomo Mitsui Trust Group (Holding company/Listed 8309)
 | Will trusts and asset succession | SuMi TRUST Bank | Wealthy and inheritance related |
 | Investment trust management | Nikko Asset Management + Sumitomo Mitsui Trust AM | Investment trust/institutional investor management |
 | Lease Finance | Sumitomo Mitsui Trust Panasonic Finance | Panasonic Group JV |
-| Internet banking (JV) | SBI Sumishin Net Bank (50%) | BaaS / Internet only, [[ssnb]] |
+| Internet banking (JV) | SBI Sumishin Net Bank (50%) | BaaS / Internet only, [[regional-banks/ssnb]] |
 | Credit Card | Sumitomo Mitsui Trust Card | - |
 
 ### Trust specialist independent route
 
-- **Independent from Mega**: Of the 3  large trusts, Mitsubishi UFJ Trust is under [[mufg]], and Mizuho Trust is under [[mizuho-fg]]. **SuMi TRUST is a holding company independent from Mega and specializes in trusts**. This is the axis of identity and differentiation.
-- **Risk of confusion with the "Sumitomo Mitsui" name**: The name is the same as [[smfg]] (Sumitomo Mitsui FG = SMBC), but it is a separate corporation and capital. SMFG is a bank affiliate of the former Taiyo Kobe Bank + former Sumitomo Bank, and SuMi TRUST is a trust affiliate of the former Mitsui Trust + former Sumitomo Trust.
+- **Independent from Mega**: Of the 3  large trusts, Mitsubishi UFJ Trust is under [[megabanks/mufg]], and Mizuho Trust is under [[megabanks/mizuho-fg]]. **SuMi TRUST is a holding company independent from Mega and specializes in trusts**. This is the axis of identity and differentiation.
+- **Risk of confusion with the "Sumitomo Mitsui" name**: The name is the same as [[megabanks/smfg]] (Sumitomo Mitsui FG = SMBC), but it is a separate corporation and capital. SMFG is a bank affiliate of the former Taiyo Kobe Bank + former Sumitomo Bank, and SuMi TRUST is a trust affiliate of the former Mitsui Trust + former Sumitomo Trust.
 
 ### Wealthy class/corporate investment shift
 
@@ -108,7 +108,7 @@ Sumitomo Mitsui Trust Group (Holding company/Listed 8309)
 
 ### Alliance/acquisition strategy
 
-- **JV with SBI HD** ([[ssnb]] / SBI Sumishin Net Bank): 50% investment, JV with SBI HD, main channel for entry into BaaS / Internet banking field
+- **JV with SBI HD** ([[regional-banks/ssnb]] / SBI Sumishin Net Bank): 50% investment, JV with SBI HD, main channel for entry into BaaS / Internet banking field
 - **JV with Panasonic** (Sumitomo Mitsui Trust Panasonic Finance): Lease finance
 - **Nikko Asset Management acquisition** (gradual from 2009  City): Strengthen investment trust management field
 ### Medium-term management plan “Trust 2030” (2024)
@@ -124,13 +124,13 @@ Sumitomo Mitsui Trust Group (Holding company/Listed 8309)
 - **G-SIB**: Unlike MUFG, no G-SIB designation (relatively small scale and global relevance) ^[likely]
 - **Current policy issues**:
   - 2024 ~ Normalization of Bank of Japan policy interest rate → Changes in trust fee and investment yield environment
-  - 2025 ~ Trends in Sumishin SBI Internet Bank ([[ssnb]]) in the BaaS / Internet banking field
+  - 2025 ~ Trends in Sumishin SBI Internet Bank ([[regional-banks/ssnb]]) in the BaaS / Internet banking field
   - 2025 ~ 2026  Changes in the regulatory environment for asset succession and inheritance-related services
 
 ## Related
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[ndfg]] · [[sbi-hd]]
-- [[ssnb]] (JV with SBI Sumishin Net Bank and SBI HD)
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[megabanks/ndfg]] · [[megabanks/sbi-hd]]
+- [[regional-banks/ssnb]] (JV with SBI Sumishin Net Bank and SBI HD)
 
 ## Sources
 
@@ -141,4 +141,4 @@ Sumitomo Mitsui Trust Group (Holding company/Listed 8309)
 ---
 
 > [!info] Verification status
-> confidence: **confirmed** (official IR + Wikipedia base, 2026-05-19). **2024-10-01 Trade name change** (Sumitomo Mitsui Trust Holdings → Sumitomo Mitsui Trust Group) reflected. FY2024  full-year financial results (ordinary income 2.92 兆円 / net income 2,576 億円 = record high / total assets 78.2 兆円 / trust assets 263.3 兆円 = industry leader / employees 23,125 名 / largest shareholder master trust 15.41%). The duplication of the "Sumitomo Mitsui" name (vs. [[smfg]]) is emphasized as an important point of confusion.
+> confidence: **confirmed** (official IR + Wikipedia base, 2026-05-19). **2024-10-01 Trade name change** (Sumitomo Mitsui Trust Holdings → Sumitomo Mitsui Trust Group) reflected. FY2024  full-year financial results (ordinary income 2.92 兆円 / net income 2,576 億円 = record high / total assets 78.2 兆円 / trust assets 263.3 兆円 = industry leader / employees 23,125 名 / largest shareholder master trust 15.41%). The duplication of the "Sumitomo Mitsui" name (vs. [[megabanks/smfg]]) is emphasized as an important point of confusion.

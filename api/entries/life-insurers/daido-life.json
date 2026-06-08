@@ -51,32 +51,32 @@
   "body_links": {
     "wikilinks_count": 8,
     "wikilinks": [
+      "financial-regulators/jfc",
       "insurance/INDEX",
       "insurance/life-insurance-channel-mix",
-      "jfc",
       "life-insurers/INDEX",
+      "life-insurers/taiyo-life",
       "life-insurers/td-financial-life",
-      "policy-finance/INDEX",
-      "taiyo-life",
-      "td-hd"
+      "life-insurers/td-hd",
+      "policy-finance/INDEX"
     ],
     "resolved_wikilinks": [
+      "https://finwiki.zksc.io/financial-regulators/jfc",
       "https://finwiki.zksc.io/insurance/INDEX",
       "https://finwiki.zksc.io/insurance/life-insurance-channel-mix",
-      "https://finwiki.zksc.io/jfc",
       "https://finwiki.zksc.io/life-insurers/INDEX",
+      "https://finwiki.zksc.io/life-insurers/taiyo-life",
       "https://finwiki.zksc.io/life-insurers/td-financial-life",
-      "https://finwiki.zksc.io/policy-finance/INDEX",
-      "https://finwiki.zksc.io/taiyo-life",
-      "https://finwiki.zksc.io/td-hd"
+      "https://finwiki.zksc.io/life-insurers/td-hd",
+      "https://finwiki.zksc.io/policy-finance/INDEX"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 1893,
-    "word_like_tokens": 309,
-    "inbound_wikilinks_count": 9,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 1998,
+    "word_like_tokens": 323,
+    "inbound_wikilinks_count": 10,
+    "last_modified": "2026-06-08"
   }
 }

@@ -20,7 +20,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## Open questions
 
-- How quickly do big-four mutual insurers and [[JapanFG/sony-life|Sony Life]] rebalance toward super-long JGBs as the yen yield curve normalizes from BoJ policy adjustments?
+- How quickly do big-four mutual insurers and [[life-insurers/sony-life|Sony Life]] rebalance toward super-long JGBs as the yen yield curve normalizes from BoJ policy adjustments?
 - What is the optimal split between hedged and unhedged foreign-bond sleeves under the current cross-currency basis regime, given each insurer's ESR sensitivity tolerance?
 - How does the credit-asset substitution interact with the [[insurance/economic-value-based-solvency|economic-value solvency]] credit-risk capital charge over the medium term?
 - How are foreign-currency life products (USD-denominated whole-life sold through Lifeplanner-style channels) affecting the matching pair on Sony Life and on big-four foreign-currency franchises?

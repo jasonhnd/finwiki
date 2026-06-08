@@ -16,7 +16,7 @@ translated_at: 2026-06-02T14:01:20.969Z
 
 ## 要約
 
-千葉県地盤の地銀単独最大手級（連結預金 **16.3 兆円規模**・連結総資産 **約 21.6 兆円**（2025-03 期）/ 千葉県シェア No.1）。1943-03 千葉合同銀行・小見川農商銀行・第九十八銀行の合併で発足、同月千葉銀行に改称。1949 東証上場。**持株会社化していない単独銀行** で経営の柔軟性を確保しつつ、地銀 FG（[[concordia-fg]]・[[fukuoka-fg]]・[[hokuhoku-fg]] 等）に並ぶ規模で重要。**2015 TSUBASA アライアンス主導設立** ★ により 11 行協業（システム共同化・海外サポート）でホールディング化を回避しつつスケールメリット獲得。2023-12 シンガポール支店開設で海外戦略本格化。^[extracted]
+千葉県地盤の地銀単独最大手級（連結預金 **16.3 兆円規模**・連結総資産 **約 21.6 兆円**（2025-03 期）/ 千葉県シェア No.1）。1943-03 千葉合同銀行・小見川農商銀行・第九十八銀行の合併で発足、同月千葉銀行に改称。1949 東証上場。**持株会社化していない単独銀行** で経営の柔軟性を確保しつつ、地銀 FG（[[regional-banks/concordia-fg]]・[[regional-banks/fukuoka-fg]]・[[regional-banks/hokuhoku-fg]] 等）に並ぶ規模で重要。**2015 TSUBASA アライアンス主導設立** ★ により 11 行協業（システム共同化・海外サポート）でホールディング化を回避しつつスケールメリット獲得。2023-12 シンガポール支店開設で海外戦略本格化。^[extracted]
 
 ## 1. 会社概要
 
@@ -132,11 +132,11 @@ translated_at: 2026-06-02T14:01:20.969Z
 
 | 競合 | 関係 |
 |---|---|
-| [[concordia-fg]] | 神奈川地盤の地銀 FG（横浜銀＋東日本銀）— 首都圏地銀 No.1 競合 |
+| [[regional-banks/concordia-fg]] | 神奈川地盤の地銀 FG（横浜銀＋東日本銀）— 首都圏地銀 No.1 競合 |
 | 千葉興業銀行 | 千葉県第 2 地銀（同県内競合）|
 | 京葉銀行 | 千葉県第 2 地銀（同県内競合）|
 | 武蔵野銀行 | 埼玉地盤・**TSUBASA 加盟行**（同盟兼隣県競合）|
-| 常陽銀行（[[mebuki-fg]] 傘下）| 茨城地盤・首都圏東部競合 |
+| 常陽銀行（[[regional-banks/mebuki-fg]] 傘下）| 茨城地盤・首都圏東部競合 |
 
 ## 4. 規制・政策
 
@@ -149,7 +149,7 @@ translated_at: 2026-06-02T14:01:20.969Z
 
 ## 関連
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[concordia-fg]] · [[fukuoka-fg]] · [[mebuki-fg]] · [[regional-banks/dai-shi-hokuetsu-fg|hokuetsu-fg]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[regional-banks/concordia-fg]] · [[regional-banks/fukuoka-fg]] · [[regional-banks/mebuki-fg]] · [[regional-banks/dai-shi-hokuetsu-fg|hokuetsu-fg]]
 - TSUBASA アライアンス加盟行（千葉銀主導）
 
 ## 出典

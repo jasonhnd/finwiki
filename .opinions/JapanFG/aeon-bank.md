@@ -37,7 +37,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## 推論 (from アジア消費者金融という第 2 軸)
 
-- 邦銀の海外消費者金融（vs [[JapanFG/mufg]] アコム経由の Easy Buy 等）と比較しても、AFS は **小口リテール特化 + 現地上場維持** が独自モデル ^[inferred]
+- 邦銀の海外消費者金融（vs [[megabanks/mufg]] アコム経由の Easy Buy 等）と比較しても、AFS は **小口リテール特化 + 現地上場維持** が独自モデル ^[inferred]
 - アジア中間層の信用拡大を捉える戦略 — 親会社イオンの流通網（イオンモール マレーシア・タイ・ベトナム・カンボジア）と一体化 ^[inferred]
 
 ## 推論 (from 5. 規制・政策)
@@ -73,7 +73,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 主観的な競合評価。一次資料による定量裏付けがないため隔離。^[ambiguous]
 
-- **「ATM 規模で [[seven-bank]] に劣後」観**：流通系 ATM 機数では 7 銀（約 27,000 台）に大差。イオン銀行 ATM はモール集中型でリーチが偏る ^[ambiguous]（注：イオン銀行 ATM は 2025-03-31 時点 6,855 台。出典 https://www.aeonbank.co.jp/company/release/data/2025/pdf/disclosure/aeonbank202507_p2.pdf）
+- **「ATM 規模で [[regional-banks/seven-bank]] に劣後」観**：流通系 ATM 機数では 7 銀（約 27,000 台）に大差。イオン銀行 ATM はモール集中型でリーチが偏る ^[ambiguous]（注：イオン銀行 ATM は 2025-03-31 時点 6,855 台。出典 https://www.aeonbank.co.jp/company/release/data/2025/pdf/disclosure/aeonbank202507_p2.pdf）
 - **「住宅ローン直販の収益性」**：ネット銀行（住信 SBI / 楽天）と金利競争すれば利鞘は薄く、イオン店舗動線アドバンテージがどこまで効くか議論余地 ^[ambiguous]
 - （本文「流通系銀行モデル」住宅ローン項より移設）店舗動線で来店誘導、ネット銀行金利水準で勝負 ^[ambiguous]
 

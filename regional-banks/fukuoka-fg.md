@@ -28,7 +28,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-国内最大級の単独地銀グループ（九州 3 県地盤 + 全国デジタル展開）。2007-04-02 [[fukuoka-bank|福岡銀行]] + 熊本ファミリー銀行（現・[[kumamoto-bank|熊本銀行]]）の共同持株会社化で発足。**地盤統合（福岡 / 熊本 / 長崎）+ デジタル全国展開（みんなの銀行 BaaS）2 軸**。2021-05 開業の **みんなの銀行** は日本初のフルクラウドネイティブ・スマホ完結デジタルバンクで、親 FFG にとってデジタル戦略の中核。地銀再編における主導役の一角（SBI 第 4 メガ構想 / 千葉・横浜・コンコルディア等と並ぶ拠点）。
+国内最大級の単独地銀グループ（九州 3 県地盤 + 全国デジタル展開）。2007-04-02 [[regional-banks/fukuoka-bank|福岡銀行]] + 熊本ファミリー銀行（現・[[regional-banks/kumamoto-bank|熊本銀行]]）の共同持株会社化で発足。**地盤統合（福岡 / 熊本 / 長崎）+ デジタル全国展開（みんなの銀行 BaaS）2 軸**。2021-05 開業の **みんなの銀行** は日本初のフルクラウドネイティブ・スマホ完結デジタルバンクで、親 FFG にとってデジタル戦略の中核。地銀再編における主導役の一角（SBI 第 4 メガ構想 / 千葉・横浜・コンコルディア等と並ぶ拠点）。
 
 ## 0. 直近決算サマリー（FY2025 / 2026 年 3 月期 実績、2026-05-13 開示）
 
@@ -64,11 +64,11 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ```
 FFG（持株会社・上場 8354）
-  ├── 福岡銀行（100%）── [[fukuoka-bank]] / 九州最大地銀・地盤コア
+  ├── 福岡銀行（100%）── [[regional-banks/fukuoka-bank]] / 九州最大地銀・地盤コア
   │     └── 福岡県中心、大都市 retail + 中堅企業 main bank
-  ├── [[kumamoto-bank|熊本銀行]]（100%）── 旧 熊本ファミリー銀行（旧 肥後ファミリー銀行）
+  ├── [[regional-banks/kumamoto-bank|熊本銀行]]（100%）── 旧 熊本ファミリー銀行（旧 肥後ファミリー銀行）
   │     └── 熊本県地盤
-  ├── 十八親和銀行（100%）── [[18-shinwa-bank]] / 2020-10-01 十八銀行 + 親和銀行 合併
+  ├── 十八親和銀行（100%）── [[regional-banks/18-shinwa-bank]] / 2020-10-01 十八銀行 + 親和銀行 合併
   │     └── 長崎県地盤（県内シェア圧倒）
   ├── みんなの銀行（100%）── 日本初フルクラウドネイティブ・デジタルバンク（2021-05-28 開業）
   │     └── BaaS 機能を他社提供（決済 API / 口座開設 API / パートナー支店モデル）
@@ -79,10 +79,10 @@ FFG（持株会社・上場 8354）
 ### 合併経緯・前身
 
 - 旧 **福岡銀行**：1945 設立、九州最大地銀（旧 富士銀行系・旧三和銀行系等の遺産含む）
-- 旧 **熊本ファミリー銀行**：旧 肥後ファミリー銀行（地方銀行）が前身、後に [[kumamoto-bank|熊本銀行]] に改称
+- 旧 **熊本ファミリー銀行**：旧 肥後ファミリー銀行（地方銀行）が前身、後に [[regional-banks/kumamoto-bank|熊本銀行]] に改称
 - 旧 **十八銀行**：1877 創立、長崎県地盤（旧 第十八国立銀行）
 - 旧 **親和銀行**：1939 設立、長崎県地盤（旧 三和銀行系含む）
-- 旧 **熊本銀行**（第二地銀）：FFG 統合前から存在、熊本ファミリー改称後の現法人 [[kumamoto-bank|熊本銀行]] と区別が必要
+- 旧 **熊本銀行**（第二地銀）：FFG 統合前から存在、熊本ファミリー改称後の現法人 [[regional-banks/kumamoto-bank|熊本銀行]] と区別が必要
 
 > 統合背景：地銀の人口減少 / 低金利マージン圧迫 → 県をまたぐ広域連合と全国デジタル展開の 2 軸。十八銀行 + 親和銀行 合併は独禁法対応で 3 年遅延（長崎県内シェアが過半超のため公取委審査）。
 
@@ -91,7 +91,7 @@ FFG（持株会社・上場 8354）
 | 年月 | 事象 |
 |---|---|
 | 2007-04-02 | **FFG 設立**（福岡銀行 + 熊本ファミリー銀行 共同持株会社化）|
-| 2007-10 | 熊本ファミリー銀行 → [[kumamoto-bank|熊本銀行]] 改称 |
+| 2007-10 | 熊本ファミリー銀行 → [[regional-banks/kumamoto-bank|熊本銀行]] 改称 |
 | 2007-10 | 親和銀行 を FFG 完全子会社化（長崎県進出）|
 | 2018-12 | **十八銀行 経営統合決定**（独禁法対応で 3 年遅延、公取委審査）|
 | 2020-10-01 | **十八銀行 + 親和銀行 → 十八親和銀行**（長崎県地盤統合完了）|
@@ -104,9 +104,9 @@ FFG（持株会社・上場 8354）
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
-| 地盤コア（福岡）| [[fukuoka-bank|福岡銀行]] | 九州最大地銀、大都市 retail + 中堅企業 main bank |
-| 地盤（熊本）| [[kumamoto-bank|熊本銀行]] | 熊本県地盤 |
-| 地盤（長崎）| [[18-shinwa-bank|十八親和銀行]] | 長崎県内シェア圧倒、2020-10 合併完了 |
+| 地盤コア（福岡）| [[regional-banks/fukuoka-bank|福岡銀行]] | 九州最大地銀、大都市 retail + 中堅企業 main bank |
+| 地盤（熊本）| [[regional-banks/kumamoto-bank|熊本銀行]] | 熊本県地盤 |
+| 地盤（長崎）| [[regional-banks/18-shinwa-bank|十八親和銀行]] | 長崎県内シェア圧倒、2020-10 合併完了 |
 | デジタル全国 | みんなの銀行 | 日本初フルクラウドネイティブ・BaaS 提供 |
 | 証券 | FFG 証券 | グループ証券 |
 | 地域 Fintech | iBank マーケティング | Wallet+ アプリ運営（地銀発フィンテック）|
@@ -142,13 +142,13 @@ FFG（持株会社・上場 8354）
 
 - **九州 3 県（福岡 / 熊本 / 長崎）地盤統合 + デジタル全国展開**の 2 軸
 - 十八親和銀行 統合（2020-10）で長崎県内シェア圧倒 → 県内 main bank ポジション確立
-- [[kumamoto-bank|熊本銀行]] 子会社化（2007〜）で熊本県進出
+- [[regional-banks/kumamoto-bank|熊本銀行]] 子会社化（2007〜）で熊本県進出
 
 ### 地銀再編における位置
 
 - 単独地銀グループで国内最大級（純利益 854 億円・総資産 33.56 兆円）
-- 地銀再編の主導役（SBI 第 4 メガ構想 / [[regional-banks/chiba-bank|chiba-bank-fg]] / [[concordia-fg]] / [[mebuki-fg]] 等と並ぶ広域連合拠点）
-- メガバンク（[[mufg]] / [[smfg]] / [[mizuho-fg]]）に対して地銀統合 + BaaS で対抗
+- 地銀再編の主導役（SBI 第 4 メガ構想 / [[regional-banks/chiba-bank|chiba-bank-fg]] / [[regional-banks/concordia-fg]] / [[regional-banks/mebuki-fg]] 等と並ぶ広域連合拠点）
+- メガバンク（[[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]]）に対して地銀統合 + BaaS で対抗
 
 ## 4. 規制・政策
 
@@ -163,8 +163,8 @@ FFG（持株会社・上場 8354）
 
 ## Related
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]]
-- [[regional-banks/chiba-bank|chiba-bank-fg]] · [[concordia-fg]] · [[mebuki-fg]] · [[sbi-hd]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]
+- [[regional-banks/chiba-bank|chiba-bank-fg]] · [[regional-banks/concordia-fg]] · [[regional-banks/mebuki-fg]] · [[megabanks/sbi-hd]]
 - [[banking/minna-bank-baas-model]] · [[banking/mercari-bank-license-stack]]
 
 ## Sources

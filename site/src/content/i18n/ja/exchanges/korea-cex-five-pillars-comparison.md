@@ -42,7 +42,7 @@ translated_at: 2026-06-02T12:19:04.237Z
 
 | 項目 | 韓国 | 日本 | 米国 |
 |---|---|---|---|
-| 主規制機関 | **FSC/FIU 単一** | FSA + [[jvcea-self-regulatory-overview|JVCEA]] 二重監督 | 州+連邦多重 (NYDFS / SEC / CFTC / FinCEN) |
+| 主規制機関 | **FSC/FIU 単一** | FSA + [[exchanges/jvcea-self-regulatory-overview|JVCEA]] 二重監督 | 州+連邦多重 (NYDFS / SEC / CFTC / FinCEN) |
 | 登録制度 | [[exchanges/jp-vasp-regulatory-timeline|VASP 登録]] (2021-) | [[exchanges/fsa-vasp-registration-system|FSA VASP 登録]] (2017-) | MSB + 州 BitLicense |
 | 認証 | KISA ISMS | 金融庁検査 + JVCEA 自主規制 | 州別 |
 | 実名口座要件 | **強制 1:1 銀行契約** | 銀行契約推奨だが必須でない | 銀行契約自由 |

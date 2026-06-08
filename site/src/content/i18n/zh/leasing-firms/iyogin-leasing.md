@@ -11,11 +11,11 @@ translated_at: 2026-05-31T15:29:03.935Z
 
 ## Wiki 路由
 
-本条目位于 [[leasing-firms/INDEX|leasing-firms INDEX]]，作为 [[iyogin-hd|伊予银 HD]] 集团旗下租赁运营子公司的锚点。阅读时可与母银行 [[iyo-bank|伊予银行]]、集团内的 いよぎん DC カード、いよぎん地域経済研究センター（IRC）和 いよぎんキャピタル对照；同业比较可参照 [[mebuki-lease|めぶきリース]]、[[yokohama-bank-leasing|横浜銀リース]]、[[chibagin-leasing|ちばぎんリース]]、[[yamaguchi-leasing|山口リース]]、[[hokkaido-lease|北海道リース]]，以及 [[mitsubishi-hc-capital|三菱 HC キャピタル]]、[[mizuho-lease|みずほリース]]、[[tokyo-century|東京センチュリー]]。
+本条目位于 [[leasing-firms/INDEX|leasing-firms INDEX]]，作为 [[regional-banks/iyogin-hd|伊予银 HD]] 集团旗下租赁运营子公司的锚点。阅读时可与母银行 [[regional-banks/iyo-bank|伊予银行]]、集团内的 いよぎん DC カード、いよぎん地域経済研究センター（IRC）和 いよぎんキャピタル对照；同业比较可参照 [[leasing-firms/mebuki-lease|めぶきリース]]、[[leasing-firms/yokohama-bank-leasing|横浜銀リース]]、[[leasing-firms/chibagin-leasing|ちばぎんリース]]、[[leasing-firms/yamaguchi-leasing|山口リース]]、[[leasing-firms/hokkaido-lease|北海道リース]]，以及 [[leasing-firms/mitsubishi-hc-capital|三菱 HC キャピタル]]、[[leasing-firms/mizuho-lease|みずほリース]]、[[leasing-firms/tokyo-century|東京センチュリー]]。
 
 ## 要点摘要
 
-株式会社いよぎんリース是 [[iyogin-hd|伊予银 HD（东证 PRIME 5830）]] 集团的地银系租赁公司。公司依托核心子公司 [[iyo-bank|伊予银行]] 的中坚企业主办银行客户基础，在爱媛县、四国全域以及大阪、东京、广岛等本州据点提供设备租赁、融资租赁、经营租赁、自治体租赁、医疗租赁、海事产业集群设备租赁、农业机械租赁和汽车租赁等服务。2022-10-03 伊予银行控股公司化后，いよぎんリース被重新定位为集团并列子公司的一部分。^[extracted]
+株式会社いよぎんリース是 [[regional-banks/iyogin-hd|伊予银 HD（东证 PRIME 5830）]] 集团的地银系租赁公司。公司依托核心子公司 [[regional-banks/iyo-bank|伊予银行]] 的中坚企业主办银行客户基础，在爱媛县、四国全域以及大阪、东京、广岛等本州据点提供设备租赁、融资租赁、经营租赁、自治体租赁、医疗租赁、海事产业集群设备租赁、农业机械租赁和汽车租赁等服务。2022-10-03 伊予银行控股公司化后，いよぎんリース被重新定位为集团并列子公司的一部分。^[extracted]
 
 ## 1. 公司概要
 
@@ -23,19 +23,19 @@ translated_at: 2026-05-31T15:29:03.935Z
 |---|---|
 | 正式名称 | 株式会社いよぎんリース |
 | 英文名称 | Iyogin Leasing Co., Ltd. |
-| 母公司 | [[iyogin-hd|いよぎん HD]] 100%（核心子公司 [[iyo-bank|伊予银行]] 合并范围） |
-| 设立 | 1974-09-26，作为 [[iyo-bank|伊予银行]] 相关公司设立；旧称“伊豫銀総合リース” |
+| 母公司 | [[regional-banks/iyogin-hd|いよぎん HD]] 100%（核心子公司 [[regional-banks/iyo-bank|伊予银行]] 合并范围） |
+| 设立 | 1974-09-26，作为 [[regional-banks/iyo-bank|伊予银行]] 相关公司设立；旧称“伊豫銀総合リース” |
 | 资本金 | 8,000 万日元 |
 | 主要业务 | 设备租赁、融资租赁、经营租赁、海事产业集群设备租赁、自治体租赁、医疗租赁、汽车租赁、保理 |
 | 监管定位 | 租赁业；银行业牌照通常不适用，贷款业登记按业务领域判断 |
-| 上市状态 | 非上市（[[iyogin-hd]] 集团） |
+| 上市状态 | 非上市（[[regional-banks/iyogin-hd]] 集团） |
 | Wiki 角色 | いよぎん HD 系租赁子公司锚点，体现四国和海事产业集群联动模式 |
 
 ## 2. 集团位置
 
 ```text
-[[iyogin-hd|いよぎん HD]]（上市持股公司，5830，2022-10-03 设立）
-  ├── [[iyo-bank|伊予银行]]（100%）-- 核心银行子公司
+[[regional-banks/iyogin-hd|いよぎん HD]]（上市持股公司，5830，2022-10-03 设立）
+  ├── [[regional-banks/iyo-bank|伊予银行]]（100%）-- 核心银行子公司
   ├── いよぎんリース（100%，本页）-- 集团租赁公司
   ├── いよぎん DC カード -- 信用卡
   ├── いよぎんビジネスサービス -- BPO
@@ -58,14 +58,14 @@ translated_at: 2026-05-31T15:29:03.935Z
 
 | 租赁子公司 | 母银行 / FG | 地域基础 |
 |---|---|---|
-| **いよぎんリース** | [[iyogin-hd|いよぎん HD]] | 爱媛、四国、本州据点 |
-| [[mebuki-lease|めぶきリース]] | [[mebuki-fg|めぶき FG]] | 北关东 |
-| [[yokohama-bank-leasing|横浜銀リース]] | [[concordia-fg|コンコルディア FG]] / [[yokohama-bank|横浜银行]] | 神奈川、首都圈 |
-| [[chibagin-leasing|ちばぎんリース]] | [[chiba-bank|千叶银行]] | 千叶、首都圈东部 |
-| [[yamaguchi-leasing|山口リース]] | [[yamaguchi-fg|山口 FG]] | 山口、广岛、北九州 |
-| [[hokkaido-lease|北海道リース]] | 北海道银行系 | 北海道 |
+| **いよぎんリース** | [[regional-banks/iyogin-hd|いよぎん HD]] | 爱媛、四国、本州据点 |
+| [[leasing-firms/mebuki-lease|めぶきリース]] | [[regional-banks/mebuki-fg|めぶき FG]] | 北关东 |
+| [[leasing-firms/yokohama-bank-leasing|横浜銀リース]] | [[regional-banks/concordia-fg|コンコルディア FG]] / [[regional-banks/yokohama-bank|横浜银行]] | 神奈川、首都圈 |
+| [[leasing-firms/chibagin-leasing|ちばぎんリース]] | [[regional-banks/chiba-bank|千叶银行]] | 千叶、首都圈东部 |
+| [[leasing-firms/yamaguchi-leasing|山口リース]] | [[regional-banks/yamaguchi-fg|山口 FG]] | 山口、广岛、北九州 |
+| [[leasing-firms/hokkaido-lease|北海道リース]] | 北海道银行系 | 北海道 |
 
-大型租赁公司（[[mitsubishi-hc-capital|三菱 HC キャピタル]]、[[mizuho-lease|みずほリース]]、[[tokyo-century|東京センチュリー]]）在全国性和大型复合项目上更具规模优势；いよぎんリース的差异化在于伊予银行客户基础、四国广域覆盖和海事产业集群知识。
+大型租赁公司（[[leasing-firms/mitsubishi-hc-capital|三菱 HC キャピタル]]、[[leasing-firms/mizuho-lease|みずほリース]]、[[leasing-firms/tokyo-century|東京センチュリー]]）在全国性和大型复合项目上更具规模优势；いよぎんリース的差异化在于伊予银行客户基础、四国广域覆盖和海事产业集群知识。
 
 ## 5. 监管与会计论点
 
@@ -73,13 +73,13 @@ translated_at: 2026-05-31T15:29:03.935Z
 - 中小企业投资促进税制、经营强化税制等政策工具会影响租赁需求。
 - 环境租赁、再生能源设备和 EV 相关租赁可成为增长主题。
 - 保理或分期销售相关业务需按适用范围整理贷款业法和割赋销售法边界。
-- 单体财务 KPI 公开有限，通常需通过 [[iyogin-hd|いよぎん HD]] 的连结分部信息和有价证券报告书读取。
+- 单体财务 KPI 公开有限，通常需通过 [[regional-banks/iyogin-hd|いよぎん HD]] 的连结分部信息和有价证券报告书读取。
 
 ## Related
 
-- [[iyogin-hd]] · [[iyo-bank]] · [[finance/japan-listed-financial-groups-investable-universe]]
-- [[mebuki-lease]] · [[yokohama-bank-leasing]] · [[chibagin-leasing]] · [[yamaguchi-leasing]] · [[hokkaido-lease]]
-- [[mitsubishi-hc-capital]] · [[mizuho-lease]] · [[tokyo-century]]
+- [[regional-banks/iyogin-hd]] · [[regional-banks/iyo-bank]] · [[finance/japan-listed-financial-groups-investable-universe]]
+- [[leasing-firms/mebuki-lease]] · [[leasing-firms/yokohama-bank-leasing]] · [[leasing-firms/chibagin-leasing]] · [[leasing-firms/yamaguchi-leasing]] · [[leasing-firms/hokkaido-lease]]
+- [[leasing-firms/mitsubishi-hc-capital]] · [[leasing-firms/mizuho-lease]] · [[leasing-firms/tokyo-century]]
 - [[banking/regional-bank-consolidation-pattern]] · [[banking/regional-bank-api-digital-partnership-route]] · [[banking/INDEX]]
 
 ## Sources

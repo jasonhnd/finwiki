@@ -15,7 +15,7 @@ translated_at: 2026-05-31T23:59:49.378Z
 
 ## TL;DR
 
-Mebuki FG 是以北关东 2  县（茨城 + 栃木）为地盘的大型地方银行 FG，按存款规模约位于地方银行 FG 第 2-3 位 档。它由 2016-10-01 **常阳银行**（茨城地盘）+ **足利控股**（栃木地盘，旗下有足利银行）共同股份转移而成立。其 3  条主轴是 **“mega-regional bank group” 志向 + 首都圈扩张 + 数字化 / 地方创生**。足利银行曾经历 **2003 年 破产 -> 临时国有化 -> 2008 年 民间转让** 的剧烈历史，之后才走向整合，这一点不同于其他地方银行 FG。在相邻首都圈市场，它与 [[concordia-fg]]（横滨银行 + 东日本银行）/ [[regional-banks/chiba-bank|chiba-bank-fg]] 竞争并探索合作。^[extracted]
+Mebuki FG 是以北关东 2  县（茨城 + 栃木）为地盘的大型地方银行 FG，按存款规模约位于地方银行 FG 第 2-3 位 档。它由 2016-10-01 **常阳银行**（茨城地盘）+ **足利控股**（栃木地盘，旗下有足利银行）共同股份转移而成立。其 3  条主轴是 **“mega-regional bank group” 志向 + 首都圈扩张 + 数字化 / 地方创生**。足利银行曾经历 **2003 年 破产 -> 临时国有化 -> 2008 年 民间转让** 的剧烈历史，之后才走向整合，这一点不同于其他地方银行 FG。在相邻首都圈市场，它与 [[regional-banks/concordia-fg]]（横滨银行 + 东日本银行）/ [[regional-banks/chiba-bank|chiba-bank-fg]] 竞争并探索合作。^[extracted]
 
 ## 1. 公司概要
 
@@ -77,7 +77,7 @@ Mebuki FG（控股公司・上市 7167）
 ### “Mega-regional bank group” 志向
 
 - 自整合成立时起即将 **“mega-regional bank group”** 作为口号，志在超越传统地方银行框架，追求广域 + 规模。^[extracted]
-- 按存款规模位于地方银行 FG 第 2-3 位 档，是与 [[concordia-fg]] / [[fukuoka-fg]] / [[regional-banks/chiba-bank|chiba-bank-fg]] 并列的最上位集团之一。
+- 按存款规模位于地方银行 FG 第 2-3 位 档，是与 [[regional-banks/concordia-fg]] / [[regional-banks/fukuoka-fg]] / [[regional-banks/chiba-bank|chiba-bank-fg]] 并列的最上位集团之一。
 - 规模扩张依托 2  条轴线：茨城 + 栃木县内 main bank 地位，以及向首都圈扩张。
 
 ### 首都圈扩张战略
@@ -92,9 +92,9 @@ Mebuki FG（控股公司・上市 7167）
 
 ### 在竞争与地方银行重组中的位置
 
-- **竞争对手**：[[concordia-fg]]（横滨 + 东日本）/ [[regional-banks/chiba-bank|chiba-bank-fg]]（作为首都圈邻接广域 FG 的直接竞争者）/ [[fukuoka-fg]]（广域 FG 规模竞争）。
-- 相对于 **megabank**（[[mufg]] / [[smfg]] / [[mizuho-fg]]），它通过地方银行整合 + 县内份额进行差异化。
-- 与 [[sbi-hd]] 主导的 **SBI 第 4  mega 构想** 保持距离，走自身广域路线。
+- **竞争对手**：[[regional-banks/concordia-fg]]（横滨 + 东日本）/ [[regional-banks/chiba-bank|chiba-bank-fg]]（作为首都圈邻接广域 FG 的直接竞争者）/ [[regional-banks/fukuoka-fg]]（广域 FG 规模竞争）。
+- 相对于 **megabank**（[[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]]），它通过地方银行整合 + 县内份额进行差异化。
+- 与 [[megabanks/sbi-hd]] 主导的 **SBI 第 4  mega 构想** 保持距离，走自身广域路线。
 
 ## 4. 监管与政策
 
@@ -108,9 +108,9 @@ Mebuki FG（控股公司・上市 7167）
 
 ## Related
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]]
-- [[concordia-fg]] · [[regional-banks/chiba-bank|chiba-bank-fg]] · [[fukuoka-fg]] · [[resona-hd]]
-- [[sbi-hd]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]
+- [[regional-banks/concordia-fg]] · [[regional-banks/chiba-bank|chiba-bank-fg]] · [[regional-banks/fukuoka-fg]] · [[megabanks/resona-hd]]
+- [[megabanks/sbi-hd]]
 
 ## Sources
 

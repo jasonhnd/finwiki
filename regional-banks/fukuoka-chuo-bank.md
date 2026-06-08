@@ -24,7 +24,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-株式会社福岡中央銀行は、金融庁の銀行免許一覧に掲載される福岡県本店の第二地方銀行。[[fukuoka-fg]] 傘下の Fukuoka-area operating bank であり、[[fukuoka-bank]] and [[chikuho-bank]] とは別の licensed-bank anchor として扱う。
+株式会社福岡中央銀行は、金融庁の銀行免許一覧に掲載される福岡県本店の第二地方銀行。[[regional-banks/fukuoka-fg]] 傘下の Fukuoka-area operating bank であり、[[regional-banks/fukuoka-bank]] and [[regional-banks/chikuho-bank]] とは別の licensed-bank anchor として扱う。
 
 ## 1. License / group boundary
 
@@ -32,26 +32,26 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 |---|---|
 | Legal name | 株式会社福岡中央銀行 |
 | License route | Banking Act second regional bank; FSA bank license list |
-| Group boundary | [[fukuoka-fg]] group bank |
+| Group boundary | [[regional-banks/fukuoka-fg]] group bank |
 | Home market | Fukuoka / Fukuoka City |
 | Wiki role | Fukuoka second-regional-bank operating-company page |
 
 ## 2. Operating model
 
-福岡中央銀行は、福岡県内の SME finance, retail deposits, small-business relationship banking, and local credit support を担う second regional bank。[[fukuoka-fg]] page は group strategy and digital-bank strategy を扱い、本ページは bank-license entity を扱う。
+福岡中央銀行は、福岡県内の SME finance, retail deposits, small-business relationship banking, and local credit support を担う second regional bank。[[regional-banks/fukuoka-fg]] page は group strategy and digital-bank strategy を扱い、本ページは bank-license entity を扱う。
 
 ## 3. Why this page matters
 
 - Closes the FSA exact-name page for 福岡中央銀行.
 - Makes the post-integration FFG four-bank operating-company map explicit.
-- Provides a peer anchor for [[fukuoka-bank]], [[chikuho-bank]], and [[nishi-nippon-city-bank]].
+- Provides a peer anchor for [[regional-banks/fukuoka-bank]], [[regional-banks/chikuho-bank]], and [[regional-banks/nishi-nippon-city-bank]].
 
 ## Related
 
-- [[fukuoka-fg]]
-- [[fukuoka-bank]]
-- [[chikuho-bank]]
-- [[nishi-nippon-city-bank]]
+- [[regional-banks/fukuoka-fg]]
+- [[regional-banks/fukuoka-bank]]
+- [[regional-banks/chikuho-bank]]
+- [[regional-banks/nishi-nippon-city-bank]]
 - [[banking/minna-bank-baas-model]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]

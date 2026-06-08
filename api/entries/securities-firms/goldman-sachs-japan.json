@@ -54,40 +54,38 @@
     "顧客セグメント"
   ],
   "body_links": {
-    "wikilinks_count": 11,
+    "wikilinks_count": 10,
     "wikilinks": [
       "finance/cross-border-m-a-japan",
       "finance/japan-ib-league-table",
-      "mizuho-fg",
-      "morgan-stanley-japan",
-      "mufg",
-      "ndfg",
-      "nomura-hd",
+      "megabanks/mizuho-fg",
+      "megabanks/mufg",
+      "megabanks/ndfg",
+      "megabanks/smfg",
       "securities-firms/INDEX",
       "securities-firms/morgan-stanley-japan",
-      "securities/INDEX",
-      "smfg"
+      "securities-firms/nomura-hd",
+      "securities/INDEX"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/finance/cross-border-m-a-japan",
       "https://finwiki.zksc.io/finance/japan-ib-league-table",
-      "https://finwiki.zksc.io/mizuho-fg",
-      "https://finwiki.zksc.io/morgan-stanley-japan",
-      "https://finwiki.zksc.io/mufg",
-      "https://finwiki.zksc.io/ndfg",
-      "https://finwiki.zksc.io/nomura-hd",
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/ndfg",
+      "https://finwiki.zksc.io/megabanks/smfg",
       "https://finwiki.zksc.io/securities-firms/INDEX",
       "https://finwiki.zksc.io/securities-firms/morgan-stanley-japan",
-      "https://finwiki.zksc.io/securities/INDEX",
-      "https://finwiki.zksc.io/smfg"
+      "https://finwiki.zksc.io/securities-firms/nomura-hd",
+      "https://finwiki.zksc.io/securities/INDEX"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5472,
-    "word_like_tokens": 872,
-    "inbound_wikilinks_count": 34,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 5690,
+    "word_like_tokens": 895,
+    "inbound_wikilinks_count": 39,
+    "last_modified": "2026-06-08"
   }
 }

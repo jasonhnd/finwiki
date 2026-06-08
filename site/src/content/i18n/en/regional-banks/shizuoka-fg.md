@@ -15,7 +15,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-Shizuoka Financial Group is a standalone regional-bank holding company based in Shizuoka Prefecture and one of Japan's largest single regional-bank groups. It was launched in 2022-10-03 when Shizuoka Bank converted to a holding-company structure through a sole-share-transfer. **A No. 1  Shizuoka-prefecture franchise with dominant local share and a manufacturing cluster, overseas expansion including Mongolia, and coexistence with local peers [[suruga-bank|スルガ銀行]] and [[shimizu-bank|清水銀行]]** define the group. Its strategy is to improve capital efficiency and preserve room for M&A through standalone regional-bank holding-company conversion.
+Shizuoka Financial Group is a standalone regional-bank holding company based in Shizuoka Prefecture and one of Japan's largest single regional-bank groups. It was launched in 2022-10-03 when Shizuoka Bank converted to a holding-company structure through a sole-share-transfer. **A No. 1  Shizuoka-prefecture franchise with dominant local share and a manufacturing cluster, overseas expansion including Mongolia, and coexistence with local peers [[regional-banks/suruga-bank|スルガ銀行]] and [[regional-banks/shimizu-bank|清水銀行]]** define the group. Its strategy is to improve capital efficiency and preserve room for M&A through standalone regional-bank holding-company conversion.
 
 ## 1. Company profile
 
@@ -50,7 +50,7 @@ Shizuoka FG (listed holding company 5831)
 - **Shizuoka Bank listed on the TSE First Section**: long listed as a postwar regional-bank core; PRIME migration came with the 2022-04  market-segment reform
 - **2022-10-03 Shizuoka FG established**: Shizuoka Bank converted into a holding company through a sole-share-transfer, a typical standalone regional-bank holding-company case
 
-> Integration background: the standalone regional-bank holding-company conversion aimed at the following 3  points: 1 organizing group financial functions such as securities, leasing, and credit guarantee directly under the holding company to improve capital efficiency, 2 securing room for M&A and new-business expansion outside the bank entity, and 3 increasing agility for out-of-prefecture and overseas expansion. Unlike earlier standalone FG cases such as [[fukuoka-fg|FFG]], its defining feature is a "sole-share-transfer" rather than a merger.
+> Integration background: the standalone regional-bank holding-company conversion aimed at the following 3  points: 1 organizing group financial functions such as securities, leasing, and credit guarantee directly under the holding company to improve capital efficiency, 2 securing room for M&A and new-business expansion outside the bank entity, and 3 increasing agility for out-of-prefecture and overseas expansion. Unlike earlier standalone FG cases such as [[regional-banks/fukuoka-fg|FFG]], its defining feature is a "sole-share-transfer" rather than a merger.
 
 ### Key timeline (excerpt)
 
@@ -77,8 +77,8 @@ Shizuoka FG (listed holding company 5831)
 
 - **Shizuoka Prefecture = manufacturing cluster**: population around 360 万 (roughly 10 位 nationally), with powerful mid-sized companies in automobiles (Suzuki, Yamaha Motor, Toyota affiliates), musical instruments (Yamaha, Roland, Kawai), food, tea, and related fields. Main-bank positions with these companies are the earnings base.
 - **Coexistence with local peers**:
-  - [[suruga-bank|スルガ銀行]], a second regional bank headquartered in Numazu, Shizuoka Prefecture, competing in the eastern prefecture and rebuilding after the past Kabocha no Basha investment problem.
-  - [[shimizu-bank|清水銀行 等]], a smaller in-prefecture regional bank with a competitive and segmented relationship.
+  - [[regional-banks/suruga-bank|スルガ銀行]], a second regional bank headquartered in Numazu, Shizuoka Prefecture, competing in the eastern prefecture and rebuilding after the past Kabocha no Basha investment problem.
+  - [[regional-banks/shimizu-bank|清水銀行 等]], a smaller in-prefecture regional bank with a competitive and segmented relationship.
 - **Dominant local share**, but population decline and youth outmigration are medium- to long-term structural issues.
 
 ### Overseas strategy
@@ -95,9 +95,9 @@ Shizuoka FG (listed holding company 5831)
 
 ### Position in regional-bank consolidation
 
-- **One of Japan's largest standalone regional-bank groups** (alongside bases such as [[fukuoka-fg|FFG]], [[regional-banks/chiba-bank|千葉銀行 FG]], and [[concordia-fg|コンコルディア FG]]).
+- **One of Japan's largest standalone regional-bank groups** (alongside bases such as [[regional-banks/fukuoka-fg|FFG]], [[regional-banks/chiba-bank|千葉銀行 FG]], and [[regional-banks/concordia-fg|コンコルディア FG]]).
 - Takes an independent path at a distance from the SBI No. 4  mega concept because of its strong franchise and manufacturing main-bank position.
-- Against megabanks ([[mufg]] / [[smfg]] / [[mizuho-fg]]), it competes through local rootedness plus manufacturing-cluster concentration.
+- Against megabanks ([[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]]), it competes through local rootedness plus manufacturing-cluster concentration.
 
 ## 4. Regulation / policy
 
@@ -111,8 +111,8 @@ Shizuoka FG (listed holding company 5831)
 
 ## Related
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] (megabanks 3 行)
-- [[fukuoka-fg]] · [[suruga-bank]] · [[shimizu-bank]] · [[shizuoka-chuo-bank]] (regional and second-regional banks)
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] (megabanks 3 行)
+- [[regional-banks/fukuoka-fg]] · [[regional-banks/suruga-bank]] · [[regional-banks/shimizu-bank]] · [[regional-banks/shizuoka-chuo-bank]] (regional and second-regional banks)
 - [[banking/minna-bank-baas-model]] (regional-bank digital strategy comparison)
 
 ## Sources

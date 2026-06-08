@@ -15,7 +15,7 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 
 ## TL;DR
 
-Kyoei Fire & Marine is a mid-sized non-life insurer whose largest shareholder is JA Kyosairen (**74.20%**). It was founded through a wartime merger in 1942-07-01 (Daito Marine + Daifuku Marine), became a **mutual company in 1946 年, an unusual case in the non-life insurance industry**, and converted to a stock company in 2003-04 . It does not belong to the 3  major non-life groups ([[tokio-marine]] / [[msad]] / [[sompo]]), instead following an independent route in the **cooperative / cooperative-organization line**. It has relatively strong share in Hokkaido, Tohoku, Hokuriku, and Kyushu, and is positioned as a complement to areas JA Kyosai cannot cover, such as auto and fire insurance. From 2025-04  it began the new medium-term plan "**SHIFT: toward sustainable growth**." ^[extracted]
+Kyoei Fire & Marine is a mid-sized non-life insurer whose largest shareholder is JA Kyosairen (**74.20%**). It was founded through a wartime merger in 1942-07-01 (Daito Marine + Daifuku Marine), became a **mutual company in 1946 年, an unusual case in the non-life insurance industry**, and converted to a stock company in 2003-04 . It does not belong to the 3  major non-life groups ([[non-life-insurers/tokio-marine]] / [[non-life-insurers/msad]] / [[non-life-insurers/sompo]]), instead following an independent route in the **cooperative / cooperative-organization line**. It has relatively strong share in Hokkaido, Tohoku, Hokuriku, and Kyushu, and is positioned as a complement to areas JA Kyosai cannot cover, such as auto and fire insurance. From 2025-04  it began the new medium-term plan "**SHIFT: toward sustainable growth**." ^[extracted]
 
 ## 1. Company overview
 
@@ -45,7 +45,7 @@ Kyoei Fire & Marine is a mid-sized non-life insurer whose largest shareholder is
 | Shinkin Central Bank | 6.08% |
 | Other cooperative-organization bodies and trading companies | Remainder |
 
-> Note: the original brief said "Mitsui Sumitomo Insurance about 14%" was a major shareholder, but public information (Wikipedia "Kyoei Fire & Marine Insurance" shareholder structure) does **not confirm MS&AD-line shareholding**. The largest shareholder is JA Kyosairen 74.20%, followed by Norinchukin Bank 6.63% and Shinkin Central Bank 6.08%, all cooperative-organization line entities. In 2001 年 it once decided to join the Millea Insurance Group (predecessor of current [[tokio-marine]] HD), but in 2002-08  it withdrew and chose conversion to a stock company with JA Kyosairen as the largest shareholder. The current structure is therefore **complete within the JA Kyosairen / cooperative-organization line**.
+> Note: the original brief said "Mitsui Sumitomo Insurance about 14%" was a major shareholder, but public information (Wikipedia "Kyoei Fire & Marine Insurance" shareholder structure) does **not confirm MS&AD-line shareholding**. The largest shareholder is JA Kyosairen 74.20%, followed by Norinchukin Bank 6.63% and Shinkin Central Bank 6.08%, all cooperative-organization line entities. In 2001 年 it once decided to join the Millea Insurance Group (predecessor of current [[non-life-insurers/tokio-marine]] HD), but in 2002-08  it withdrew and chose conversion to a stock company with JA Kyosairen as the largest shareholder. The current structure is therefore **complete within the JA Kyosairen / cooperative-organization line**.
 
 ### Key timeline ^[extracted]
 
@@ -106,7 +106,7 @@ Kyoei Fire & Marine is a mid-sized non-life insurer whose largest shareholder is
 
 | Category | Competitors |
 |---|---|
-| 3  major non-life insurers | [[tokio-marine]], [[msad]], [[sompo]] |
+| 3  major non-life insurers | [[non-life-insurers/tokio-marine]], [[non-life-insurers/msad]], [[non-life-insurers/sompo]] |
 | Mid-sized specialty non-life insurers | Daido Fire & Marine, Secom General Insurance, foreign insurers such as Newindia / Cardif |
 | Mutual / cooperative line | JA Kyosai (parent line), Kokumin Kyosai coop, prefectural citizens' mutuals |
 | Digital non-life insurers | Rakuten General Insurance, SBI Insurance, AXA Direct, etc. |
@@ -124,9 +124,9 @@ Kyoei Fire & Marine is a mid-sized non-life insurer whose largest shareholder is
 
 ## Related
 
-- [[tokio-marine]] · [[msad]] · [[sompo]] — 3  major non-life insurers
-- [[axa-japan]] — foreign non-life insurer
-- [[kampo-life]] — cooperative-organization finance adjacency
+- [[non-life-insurers/tokio-marine]] · [[non-life-insurers/msad]] · [[non-life-insurers/sompo]] — 3  major non-life insurers
+- [[life-insurers/axa-japan]] — foreign non-life insurer
+- [[life-insurers/kampo-life]] — cooperative-organization finance adjacency
 - Parent-line entities: JA Kyosairen, Norinchukin Bank, Shinkin Central Bank
 
 ## Sources

@@ -17,7 +17,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-Daito Bank, Ltd. is a No. 2 regional bank with its main branch in Koriyama City, Fukushima Prefecture, and is listed on the Financial Services Agency's list of bank licenses. In Fukushima Prefecture, first-regional / second-regional bank coverage is read separately along with [[toho-bank]] and [[fukushima-bank]].
+Daito Bank, Ltd. is a No. 2 regional bank with its main branch in Koriyama City, Fukushima Prefecture, and is listed on the Financial Services Agency's list of bank licenses. In Fukushima Prefecture, first-regional / second-regional bank coverage is read separately along with [[regional-banks/toho-bank]] and [[regional-banks/fukushima-bank]].
 
 ## 1. License / group boundary
 
@@ -36,14 +36,14 @@ Daito Bank is a second regional bank that handles retail, SME lending, local dep
 ## 3. Why this page matters
 
 - Closes an exact-name FSA bank-license gap for Fukushima second-regional banks.
-- Provides a clean peer page for [[fukushima-bank]].
+- Provides a clean peer page for [[regional-banks/fukushima-bank]].
 - Helps avoid treating SBI alliance / regional-bank consolidation notes as substitutes for a bank license page.
 
 ## Related
 
-- [[toho-bank]]
-- [[fukushima-bank]]
-- [[sbi-regional-bank-hd]]
+- [[regional-banks/toho-bank]]
+- [[regional-banks/fukushima-bank]]
+- [[megabanks/sbi-regional-bank-hd]]
 - [[banking/INDEX]]
 
 ## Sources

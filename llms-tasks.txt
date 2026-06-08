@@ -30,8 +30,8 @@
 ## TASK: Research Japan banking license tiers + BaaS perimeter
 
 - **Start**: [banking/japan-banking-license-tier-comparison-matrix](banking/japan-banking-license-tier-comparison-matrix)
-- **Bedrock**: [banking/japan-baas-operating-models](banking/japan-baas-operating-models), [JapanFG/legal-financial-licenses/INDEX](JapanFG/legal-financial-licenses/INDEX), [banking/japan-stablecoin-bank-perimeter-2025](banking/japan-stablecoin-bank-perimeter-2025)
-- **Operating-company anchors**: [JapanFG/INDEX](JapanFG/INDEX) (megabank / regional / second / trust / net / foreign branch / shinkin / credit cooperative / rōkin / Norinchukin-JA-JF rows)
+- **Bedrock**: [banking/japan-baas-operating-models](banking/japan-baas-operating-models), [financial-licenses/INDEX](financial-licenses/INDEX), [banking/japan-stablecoin-bank-perimeter-2025](banking/japan-stablecoin-bank-perimeter-2025)
+- **Operating-company anchors**: [megabanks/INDEX](megabanks/INDEX) (megabank / regional / second / trust / net / foreign branch / shinkin / credit cooperative / rōkin / Norinchukin-JA-JF rows)
 - **Net banks**: [banking/japan-net-bank-deposit-feature-matrix-2026](banking/japan-net-bank-deposit-feature-matrix-2026)
 - **System / regulator**: [fintech/japan-financial-regulation](fintech/japan-financial-regulation)
 
@@ -95,7 +95,7 @@
 
 - **Start**: [policy-finance/INDEX](policy-finance/INDEX)
 - **System overview**: [policy-finance/japan-policy-finance-system](policy-finance/japan-policy-finance-system)
-- **Each institution deep**: [policy-finance/jbic-overseas-investment-underwriting-process](policy-finance/jbic-overseas-investment-underwriting-process), [policy-finance/jica](policy-finance/jica), [policy-finance/nexi](policy-finance/nexi), [policy-finance/jogmec](policy-finance/jogmec), [policy-finance/jfc-sme-division-operating-model](policy-finance/jfc-sme-division-operating-model), [JapanFG/dbj](JapanFG/dbj), [policy-finance/dbj-mandate-deep-dive](policy-finance/dbj-mandate-deep-dive)
+- **Each institution deep**: [policy-finance/jbic-overseas-investment-underwriting-process](policy-finance/jbic-overseas-investment-underwriting-process), [policy-finance/jica](policy-finance/jica), [policy-finance/nexi](policy-finance/nexi), [policy-finance/jogmec](policy-finance/jogmec), [policy-finance/jfc-sme-division-operating-model](policy-finance/jfc-sme-division-operating-model), [JapanFG/dbj](financial-regulators/dbj), [policy-finance/dbj-mandate-deep-dive](policy-finance/dbj-mandate-deep-dive)
 - **Credit guarantee**: [policy-finance/japan-credit-guarantee-system](policy-finance/japan-credit-guarantee-system), [policy-finance/hokkaido-credit-guarantee-corp](policy-finance/hokkaido-credit-guarantee-corp)
 
 ## TASK: Compare derivatives products (rates / equity / FX / credit)
@@ -146,7 +146,7 @@
 
 ## TASK: Find a specific entity (Japanese bank / insurer / securities firm / regulator)
 
-- **Registry indexes**: [JapanFG/foreign-bank-branches-japan-index](JapanFG/foreign-bank-branches-japan-index), [JapanFG/trust-companies-japan-index](JapanFG/trust-companies-japan-index), [JapanFG/nonlife-insurer-registry-japan-index](JapanFG/nonlife-insurer-registry-japan-index), [banking/shinkin-bank-registry-japan](banking/shinkin-bank-registry-japan), [banking/credit-cooperative-registry-japan](banking/credit-cooperative-registry-japan), [banking/rokin-bank-registry-japan](banking/rokin-bank-registry-japan)
+- **Registry indexes**: [JapanFG/foreign-bank-branches-japan-index](foreign-financial-institutions/foreign-bank-branches-japan-index), [JapanFG/trust-companies-japan-index](trust-banks/trust-companies-japan-index), [JapanFG/nonlife-insurer-registry-japan-index](non-life-insurers/nonlife-insurer-registry-japan-index), [banking/shinkin-bank-registry-japan](banking/shinkin-bank-registry-japan), [banking/credit-cooperative-registry-japan](banking/credit-cooperative-registry-japan), [banking/rokin-bank-registry-japan](banking/rokin-bank-registry-japan)
 - **Pattern**: Use `JapanFG/<slug>.md` for operating-company anchors. Examples: `JapanFG/mufg.md`, `JapanFG/smbc.md`, `JapanFG/mizuho-fg.md`, `JapanFG/japan-post-bank.md`, `JapanFG/kampo-life.md`, `JapanFG/nomura-hd.md`, `JapanFG/daiwa-securities.md`, `JapanFG/fsa.md`, `JapanFG/boj.md`, `JapanFG/dic.md`, `JapanFG/jcr.md`, `JapanFG/rating-and-investment.md`.
 
 ---

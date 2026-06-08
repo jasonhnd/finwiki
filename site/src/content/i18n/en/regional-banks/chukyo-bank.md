@@ -11,11 +11,11 @@ translated_at: 2026-05-31T11:13:44.920Z
 
 ## Wiki Route
 
-This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] as the historical predecessor anchor for current operating bank [[aichi-bank|Aichi Bank]] under [[aichi-fg|Aichi FG]]. Read it against [[nagoya-bank|Nagoya Bank]] for the remaining independent Nagoya regional-bank peer.
+This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] as the historical predecessor anchor for current operating bank [[regional-banks/aichi-bank|Aichi Bank]] under [[regional-banks/aichi-fg|Aichi FG]]. Read it against [[regional-banks/nagoya-bank|Nagoya Bank]] for the remaining independent Nagoya regional-bank peer.
 
 ## TL;DR
 
-Chukyo Bank was a Nagoya-headquartered second regional bank in Aichi Prefecture. On 2025-01-01 it merged with the former Aichi Bank and was integrated into [[aichi-bank|Aichi Bank]], completing the operating-bank transition under [[aichi-fg|Aichi FG]]. Its former TSE code 8530 ceased to be relevant after Aichi FG was established in 2022-10.
+Chukyo Bank was a Nagoya-headquartered second regional bank in Aichi Prefecture. On 2025-01-01 it merged with the former Aichi Bank and was integrated into [[regional-banks/aichi-bank|Aichi Bank]], completing the operating-bank transition under [[regional-banks/aichi-fg|Aichi FG]]. Its former TSE code 8530 ceased to be relevant after Aichi FG was established in 2022-10.
 
 ## 1. Entity Boundary
 
@@ -24,17 +24,17 @@ Chukyo Bank was a Nagoya-headquartered second regional bank in Aichi Prefecture.
 | Historical legal entity | Chukyo Bank, Ltd. |
 | Former listed code | TSE 8530, delisted after the Aichi FG integration process |
 | Home market | Nagoya and the broader Aichi SME market |
-| Current successor | [[aichi-bank|Aichi Bank]], following the 2025-01 merger |
+| Current successor | [[regional-banks/aichi-bank|Aichi Bank]], following the 2025-01 merger |
 | Wiki role | Historical predecessor page; current operating facts belong on the Aichi Bank page |
 
 ## 2. Integration Process
 
 ```text
-2022-10-03: [[aichi-fg|Aichi FG]] established as holding company, TSE PRIME 7389
+2022-10-03: [[regional-banks/aichi-fg|Aichi FG]] established as holding company, TSE PRIME 7389
  |-- former Aichi Bank
  `-- former Chukyo Bank, made a wholly owned subsidiary
 
-2025-01-01: former Aichi Bank + Chukyo Bank -> [[aichi-bank|Aichi Bank]]
+2025-01-01: former Aichi Bank + Chukyo Bank -> [[regional-banks/aichi-bank|Aichi Bank]]
 ```
 
 ## 3. Historical Reading
@@ -51,7 +51,7 @@ The strategic driver of the final merger was the overbanked Aichi regional-bank 
 | Branch footprint | Primarily Aichi, especially Nagoya and nearby SME districts |
 | Customer base | Small and middle-market companies, retail deposits, and mortgage customers |
 | Integration benefit | Branch overlap reduction, system integration, and operating-cost rationalization |
-| Current boundary | Use [[aichi-bank|Aichi Bank]] for post-2025 operating data |
+| Current boundary | Use [[regional-banks/aichi-bank|Aichi Bank]] for post-2025 operating data |
 
 ## 5. Policy And Regulatory Context
 
@@ -61,9 +61,9 @@ The strategic driver of the final merger was the overbanked Aichi regional-bank 
 
 ## Related
 
-- [[aichi-fg]]
-- [[aichi-bank]]
-- [[nagoya-bank]]
+- [[regional-banks/aichi-fg]]
+- [[regional-banks/aichi-bank]]
+- [[regional-banks/nagoya-bank]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 

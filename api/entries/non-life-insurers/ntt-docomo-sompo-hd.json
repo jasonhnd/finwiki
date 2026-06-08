@@ -49,40 +49,36 @@
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 11,
+    "wikilinks_count": 9,
     "wikilinks": [
-      "au-fh",
       "financial-licenses/INDEX",
       "financial-regulators/missing-financial-institutions-backlog",
       "insurance/INDEX",
       "megabanks/au-fh",
       "megabanks/ndfg",
-      "ndfg",
+      "megabanks/paypay-fg",
       "non-life-insurers/INDEX",
       "non-life-insurers/au-insurance",
-      "non-life-insurers/sompo",
-      "paypay-fg"
+      "non-life-insurers/sompo"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/au-fh",
       "https://finwiki.zksc.io/financial-licenses/INDEX",
       "https://finwiki.zksc.io/financial-regulators/missing-financial-institutions-backlog",
       "https://finwiki.zksc.io/insurance/INDEX",
       "https://finwiki.zksc.io/megabanks/au-fh",
       "https://finwiki.zksc.io/megabanks/ndfg",
-      "https://finwiki.zksc.io/ndfg",
+      "https://finwiki.zksc.io/megabanks/paypay-fg",
       "https://finwiki.zksc.io/non-life-insurers/INDEX",
       "https://finwiki.zksc.io/non-life-insurers/au-insurance",
-      "https://finwiki.zksc.io/non-life-insurers/sompo",
-      "https://finwiki.zksc.io/paypay-fg"
+      "https://finwiki.zksc.io/non-life-insurers/sompo"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2371,
-    "word_like_tokens": 378,
+    "nonspace_chars": 2411,
+    "word_like_tokens": 382,
     "inbound_wikilinks_count": 3,
-    "last_modified": "2026-06-06"
+    "last_modified": "2026-06-08"
   }
 }

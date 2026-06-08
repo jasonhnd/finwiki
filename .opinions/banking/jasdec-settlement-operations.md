@@ -12,7 +12,7 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 ## 推論 (from 3. 競合構造)
 
-| Tokenized / DLT-based securities | Pilot / under study | ST platforms ([[JapanFG/progmat|Progmat]] etc.) using parallel ledgers; integration with JASDEC remains an open design question ^[inferred] |
+| Tokenized / DLT-based securities | Pilot / under study | ST platforms ([[payment-firms/progmat|Progmat]] etc.) using parallel ledgers; integration with JASDEC remains an open design question ^[inferred] |
 
 ## 推論 (from Pricing principle)
 
@@ -46,7 +46,7 @@ Both routes are operational realities for any large pension or 投信 mandate; t
 ## Open questions
 
 - What is the timing and design of Japan's T+1 cash-equity settlement migration (~2027 target), and what is JASDEC's infrastructure-investment cost?
-- How will JASDEC integrate with tokenized-security ST platforms ([[JapanFG/progmat|Progmat]] etc.) under 振替法?
+- How will JASDEC integrate with tokenized-security ST platforms ([[payment-firms/progmat|Progmat]] etc.) under 振替法?
 - Will JASDEC and JSCC eventually consolidate operations (single CSD-CCP entity) as some other markets have done?
 - How will JASDEC's beneficial-owner-disclosure service evolve as institutional investors push for higher governance-disclosure frequency?
 - What is the post-T+1 sub-custody chain design for foreign-investor holdings of JP securities — will it remain trust-bank-anchored or shift toward more direct global-custodian / ICSD links?

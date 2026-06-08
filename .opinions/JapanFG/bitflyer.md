@@ -28,9 +28,9 @@ BTC / ETH / ETC / LTC / BCH / MONA / LSK / XRP / BAT / XLM / XEM / XTZ / DOT / L
 - 2024〜 IPO 検討の具体的進捗は？ 引受証券・想定時価総額・上場市場
 - 創業者 加納裕三 の復帰可能性と現経営陣との関係調整は？
 - bitFlyer USA / EUROPE の連結業績比率は？ グローバル戦略の実態
-- miyabi（[[systems/bitflyer-blockchain|bitFlyer Blockchain]]）の B2B 採用実績は？ Progmat / [[mufg]] 主導ステーブルコインとの競合 / 補完関係
+- miyabi（[[systems/bitflyer-blockchain|bitFlyer Blockchain]]）の B2B 採用実績は？ Progmat / [[megabanks/mufg]] 主導ステーブルコインとの競合 / 補完関係
 - JVCEA 内部での bitFlyer の役割（理事 / 規制策定主導度）は？
-- [[ndfg]] [[sbi-hd]] [[gmo-coin]] 等 既存 FG 傘下取引所 vs 独立系（bitFlyer / bitbank）のシェア構造変化
+- [[megabanks/ndfg]] [[megabanks/sbi-hd]] [[payment-firms/gmo-coin]] 等 既存 FG 傘下取引所 vs 独立系（bitFlyer / bitbank）のシェア構造変化
 
 <!-- Phase 1.5 追加抽出 (2026-05-29) -->
 

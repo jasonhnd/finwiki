@@ -15,7 +15,7 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 
 ## TL;DR
 
-Mitsui Sumitomo Primary Life Insurance Co., Ltd. is a life-insurance operating company in the [[msad]] group. Treat it separately from [[mitsui-sumitomo-aioi-life]] as a specialist handling financial-institution channels and annuity / savings-type products.
+Mitsui Sumitomo Primary Life Insurance Co., Ltd. is a life-insurance operating company in the [[non-life-insurers/msad]] group. Treat it separately from [[life-insurers/mitsui-sumitomo-aioi-life]] as a specialist handling financial-institution channels and annuity / savings-type products.
 
 ## 1. License / group boundary
 
@@ -24,21 +24,21 @@ Mitsui Sumitomo Primary Life Insurance Co., Ltd. is a life-insurance operating c
 | Legal name | Mitsui Sumitomo Primary Life Insurance Co., Ltd. |
 | License route | Insurance Business Act life-insurance company; FSA life insurer list |
 | Industry body | Life Insurance Association of Japan member |
-| Group boundary | [[msad]] life-insurance specialist |
+| Group boundary | [[non-life-insurers/msad]] life-insurance specialist |
 | Wiki role | MS&AD financial-institution-channel life insurer |
 
 ## 2. Why this page matters
 
 - Closes an FSA 41 exact-name gap.
-- Completes the MS&AD life-insurance split with [[mitsui-sumitomo-aioi-life]].
-- Useful peer for [[dai-ichi-frontier-life]], [[pgf-life]], and [[td-financial-life]].
+- Completes the MS&AD life-insurance split with [[life-insurers/mitsui-sumitomo-aioi-life]].
+- Useful peer for [[life-insurers/dai-ichi-frontier-life]], [[life-insurers/pgf-life]], and [[life-insurers/td-financial-life]].
 
 ## Related
 
-- [[msad]]
-- [[mitsui-sumitomo-aioi-life]]
-- [[dai-ichi-frontier-life]]
-- [[pgf-life]]
+- [[non-life-insurers/msad]]
+- [[life-insurers/mitsui-sumitomo-aioi-life]]
+- [[life-insurers/dai-ichi-frontier-life]]
+- [[life-insurers/pgf-life]]
 - [[insurance/life-insurance-channel-mix]]
 
 ## Sources

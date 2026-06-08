@@ -50,36 +50,34 @@
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 9,
+    "wikilinks_count": 8,
     "wikilinks": [
       "banking/INDEX",
       "banking/foreign-bank-japan-retreat",
       "foreign-financial-institutions/INDEX",
+      "foreign-financial-institutions/industrial-bank-of-korea-japan",
+      "foreign-financial-institutions/kb-kookmin-bank-japan",
+      "foreign-financial-institutions/korea-development-bank-japan",
       "foreign-financial-institutions/woori-bank-japan",
-      "industrial-bank-of-korea-japan",
-      "kb-kookmin-bank-japan",
-      "korea-development-bank-japan",
-      "sbj-bank",
-      "woori-bank-japan"
+      "regional-banks/sbj-bank"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/foreign-bank-japan-retreat",
       "https://finwiki.zksc.io/foreign-financial-institutions/INDEX",
+      "https://finwiki.zksc.io/foreign-financial-institutions/industrial-bank-of-korea-japan",
+      "https://finwiki.zksc.io/foreign-financial-institutions/kb-kookmin-bank-japan",
+      "https://finwiki.zksc.io/foreign-financial-institutions/korea-development-bank-japan",
       "https://finwiki.zksc.io/foreign-financial-institutions/woori-bank-japan",
-      "https://finwiki.zksc.io/industrial-bank-of-korea-japan",
-      "https://finwiki.zksc.io/kb-kookmin-bank-japan",
-      "https://finwiki.zksc.io/korea-development-bank-japan",
-      "https://finwiki.zksc.io/sbj-bank",
-      "https://finwiki.zksc.io/woori-bank-japan"
+      "https://finwiki.zksc.io/regional-banks/sbj-bank"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2204,
-    "word_like_tokens": 364,
-    "inbound_wikilinks_count": 5,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 2420,
+    "word_like_tokens": 386,
+    "inbound_wikilinks_count": 9,
+    "last_modified": "2026-06-08"
   }
 }

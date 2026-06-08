@@ -16,7 +16,7 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 
 ## TL;DR
 
-The Japanese base of the Swiss Zurich Insurance Group. **1986 年 Opening of Japanese branch** One of the pioneer foreign non-life insurance companies that entered Japan. In Japan, it gained recognition with its 2  major products, ``**Overseas Travel Insurance**'' and ``**Online Auto Insurance (Direct Type)**''. In 2010 年, it established **Zurich Life** as a separate corporation and expanded its business area to direct online sales of medical insurance and cancer insurance. It has a consistent feature of a **direct sales model** with call centers and the web at its core, without operating branches, and is a major player in domestic direct non-life insurance along with Sony Assurance in [[sony-fg]], AXA Sompo Insurance in [[axa-japan]], Secom Sompo Insurance, and SBI Sompo Insurance in [[sbi-hd]].
+The Japanese base of the Swiss Zurich Insurance Group. **1986 年 Opening of Japanese branch** One of the pioneer foreign non-life insurance companies that entered Japan. In Japan, it gained recognition with its 2  major products, ``**Overseas Travel Insurance**'' and ``**Online Auto Insurance (Direct Type)**''. In 2010 年, it established **Zurich Life** as a separate corporation and expanded its business area to direct online sales of medical insurance and cancer insurance. It has a consistent feature of a **direct sales model** with call centers and the web at its core, without operating branches, and is a major player in domestic direct non-life insurance along with Sony Assurance in [[megabanks/sony-fg]], AXA Sompo Insurance in [[life-insurers/axa-japan]], Secom Sompo Insurance, and SBI Sompo Insurance in [[megabanks/sbi-hd]].
 
 ## 1. Group structure
 
@@ -69,8 +69,8 @@ Zurich Insurance Group AG（スイス、SIX: ZURN）
 
 ### positioning
 
-- **"Not just direct sales"**: Unlike [[lifenet]] (Lifenet Life), which is completely online-only, overseas travel insurance is a hybrid type that also utilizes travel agency channels.
-- **Foreign capital that also manages life and non-life insurance**: [[axa-japan]] has a 3 -company structure of "life and non-life insurance + online direct sales life insurance" and also has a sales staff channel, whereas Zurich **does not have a face-to-face sales staff channel and is consistent with a direct sales model**
+- **"Not just direct sales"**: Unlike [[life-insurers/lifenet]] (Lifenet Life), which is completely online-only, overseas travel insurance is a hybrid type that also utilizes travel agency channels.
+- **Foreign capital that also manages life and non-life insurance**: [[life-insurers/axa-japan]] has a 3 -company structure of "life and non-life insurance + online direct sales life insurance" and also has a sales staff channel, whereas Zurich **does not have a face-to-face sales staff channel and is consistent with a direct sales model**
 
 ### global leverage
 
@@ -81,10 +81,10 @@ Zurich Insurance Group AG（スイス、SIX: ZURN）
 
 | Conflict Type | Main Conflict |
 |---|---|
-| Overseas travel insurance | [[tokio-marine]] series, [[msad]] series, [[sompo]] series, JI accident and fire (competition including credit card insurance) |
-| Online car insurance (direct type) | Sony Assurance ([[sony-fg]]) / AXA Direct Assurance ([[axa-japan]]) / Secom Assurance / SBI Assurance ([[sbi-hd]]) / E-Design Assurance ([[tokio-marine]] series) |
-| Online direct sales life insurance (medical/cancer) | [[lifenet]] / ORIX Life / SBI Life / MetLife Life (medical field) |
-| Foreign-affiliated life and non-life insurance (comprehensive) | [[axa-japan]] / MetLife Life / Manulife Life / [[prudential-japan]] / Aflac Life |
+| Overseas travel insurance | [[non-life-insurers/tokio-marine]] series, [[non-life-insurers/msad]] series, [[non-life-insurers/sompo]] series, JI accident and fire (competition including credit card insurance) |
+| Online car insurance (direct type) | Sony Assurance ([[megabanks/sony-fg]]) / AXA Direct Assurance ([[life-insurers/axa-japan]]) / Secom Assurance / SBI Assurance ([[megabanks/sbi-hd]]) / E-Design Assurance ([[non-life-insurers/tokio-marine]] series) |
+| Online direct sales life insurance (medical/cancer) | [[life-insurers/lifenet]] / ORIX Life / SBI Life / MetLife Life (medical field) |
+| Foreign-affiliated life and non-life insurance (comprehensive) | [[life-insurers/axa-japan]] / MetLife Life / Manulife Life / [[life-insurers/prudential-japan]] / Aflac Life |
 
 ## 4. Regulation and policy
 
@@ -98,9 +98,9 @@ Zurich Insurance Group AG（スイス、SIX: ZURN）
 
 ## Related
 
-- [[axa-japan]] · [[prudential-japan]] · [[lifenet]] · [[sony-fg]] (Sony Assurance)
-- [[tokio-marine]] · [[sompo]] · [[msad]] (Domestic non-life insurance 3 Mega/overseas travel insurance competitors)
-- [[sbi-hd]] (SBI Sompo Insurance)
+- [[life-insurers/axa-japan]] · [[life-insurers/prudential-japan]] · [[life-insurers/lifenet]] · [[megabanks/sony-fg]] (Sony Assurance)
+- [[non-life-insurers/tokio-marine]] · [[non-life-insurers/sompo]] · [[non-life-insurers/msad]] (Domestic non-life insurance 3 Mega/overseas travel insurance competitors)
+- [[megabanks/sbi-hd]] (SBI Sompo Insurance)
 
 ## Sources
 

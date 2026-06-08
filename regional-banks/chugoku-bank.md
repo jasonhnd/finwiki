@@ -23,7 +23,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-株式会社中国銀行は、金融庁の銀行免許一覧に掲載される岡山県本店の地方銀行。中華人民共和国の Bank of China ではなく、日本の中国地方に由来する `The Chugoku Bank` であり、[[chugin-okayama]] / ちゅうぎん FG の core operating bank として扱う。
+株式会社中国銀行は、金融庁の銀行免許一覧に掲載される岡山県本店の地方銀行。中華人民共和国の Bank of China ではなく、日本の中国地方に由来する `The Chugoku Bank` であり、[[regional-banks/chugin-okayama]] / ちゅうぎん FG の core operating bank として扱う。
 
 ## 1. License / group boundary
 
@@ -31,26 +31,26 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 |---|---|
 | Legal name | 株式会社中国銀行 |
 | License route | Banking Act regional bank; FSA bank license list |
-| Group boundary | [[chugin-okayama]] / ちゅうぎん FG core operating bank |
+| Group boundary | [[regional-banks/chugin-okayama]] / ちゅうぎん FG core operating bank |
 | Home market | Okayama / Okayama City |
 | Wiki role | Okayama regional-bank operating-company page |
 
 ## 2. Operating model
 
-中国銀行は、岡山県を中心に retail deposits, SME finance, corporate lending, TSUBASA alliance collaboration, and Chugoku / Setouchi-area business support を担う regional bank。FG / strategic history belongs in [[chugin-okayama]], while the current bank-license boundary sits here. Chugoku regional-bank consolidation context は [[banking/regional-bank-consolidation-pattern]] を参照。
+中国銀行は、岡山県を中心に retail deposits, SME finance, corporate lending, TSUBASA alliance collaboration, and Chugoku / Setouchi-area business support を担う regional bank。FG / strategic history belongs in [[regional-banks/chugin-okayama]], while the current bank-license boundary sits here. Chugoku regional-bank consolidation context は [[banking/regional-bank-consolidation-pattern]] を参照。
 
 ## 3. Why this page matters
 
 - Closes the FSA exact-name operating-company gap for 中国銀行.
 - Prevents confusion with foreign-bank branch candidates named 中国銀行 / Bank of China.
-- Separates the bank license from [[chugin-okayama]] group and historical-strategy page.
+- Separates the bank license from [[regional-banks/chugin-okayama]] group and historical-strategy page.
 
 ## Related
 
-- [[chugin-okayama]]
-- [[tomato-bank]]
-- [[hiroshima-bank]]
-- [[tottori-bank]]
+- [[regional-banks/chugin-okayama]]
+- [[regional-banks/tomato-bank]]
+- [[regional-banks/hiroshima-bank]]
+- [[regional-banks/tottori-bank]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 

@@ -16,7 +16,7 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## TL;DR
 
-Lawson Bank is an emerging retail bank specialized in convenience-store ATMs. It was established in 2017-11-15 and opened in 2018-10-15 ^[extracted]. Its parent, Lawson, Inc., shifted in 2024-09  into a Mitsubishi Corporation + KDDI 50:50  jointly held JV structure and was delisted. As a result, Lawson Bank also indirectly shows a dual affiliation with the Mitsubishi Corporation line and the KDDI au economic zone. It is a later entrant following the earlier [[seven-bank]] Seven Bank model, with **13,889  ATMs** (end of 2025-03 , official "Lawson Bank in Numbers"). It is one of the three major convenience-store ATM operators ([[seven-bank]] / Lawson Bank / E-net). ^[extracted]
+Lawson Bank is an emerging retail bank specialized in convenience-store ATMs. It was established in 2017-11-15 and opened in 2018-10-15 ^[extracted]. Its parent, Lawson, Inc., shifted in 2024-09  into a Mitsubishi Corporation + KDDI 50:50  jointly held JV structure and was delisted. As a result, Lawson Bank also indirectly shows a dual affiliation with the Mitsubishi Corporation line and the KDDI au economic zone. It is a later entrant following the earlier [[regional-banks/seven-bank]] Seven Bank model, with **13,889  ATMs** (end of 2025-03 , official "Lawson Bank in Numbers"). It is one of the three major convenience-store ATM operators ([[regional-banks/seven-bank]] / Lawson Bank / E-net). ^[extracted]
 
 ## 1. Company Overview
 
@@ -40,23 +40,23 @@ Lawson Bank is an emerging retail bank specialized in convenience-store ATMs. It
 
 | Segment | Main product | Features |
 |---|---|---|
-| **ATM operations (core)** | Nationwide Lawson-store ATMs, 13,889  units (end of 2025-03 ) | Convenience-store ATM fee income is the revenue source, following the [[seven-bank]] model |
+| **ATM operations (core)** | Nationwide Lawson-store ATMs, 13,889  units (end of 2025-03 ) | Convenience-store ATM fee income is the revenue source, following the [[regional-banks/seven-bank]] model |
 | Partner financial institutions | Major banks, regional banks, and many online banks | ATM partnership fee model |
 
 ### Three Major Convenience-Store ATM Structure
 
-- **[[seven-bank]]** (Seven Bank, TSE PRIME 8410) — largest ATM installation count, first mover, strongest profitability model
+- **[[regional-banks/seven-bank]]** (Seven Bank, TSE PRIME 8410) — largest ATM installation count, first mover, strongest profitability model
 - **Lawson Bank** — 13,889  ATMs (end of 2025-03 ), later entrant with a follower strategy
 
 ### KDDI au Economic-Zone Integration Possibility
 
 The strategy axis after the 2024-09  parent Lawson JV conversion (Mitsubishi Corporation + KDDI 50:50) is a key issue.
 
-> Note: Speculation about future linkage scenarios, including indirect collaboration possibilities with [[mufg]], is isolated in `.opinions/JapanFG/lawson-bank.md` because there is no verifiable primary information.
+> Note: Speculation about future linkage scenarios, including indirect collaboration possibilities with [[megabanks/mufg]], is isolated in `.opinions/JapanFG/lawson-bank.md` because there is no verifiable primary information.
 
-### vs Seven Bank ([[seven-bank]])
+### vs Seven Bank ([[regional-banks/seven-bank]])
 
-| Axis | [[seven-bank]] | Lawson Bank |
+| Axis | [[regional-banks/seven-bank]] | Lawson Bank |
 |---|---|---|
 | Established | 2001-04  | 2017-11  |
 | Opened | 2001-05  | 2018-10  |
@@ -73,10 +73,10 @@ The strategy axis after the 2024-09  parent Lawson JV conversion (Mitsubishi Cor
 
 ## Related
 
-- [[seven-bank]] (largest of the three major ATM operators / first-mover model)
-- [[au-fh]] (KDDI line / parent of au Jibun Bank)
-- [[mufg]] (former au Jibun Bank parent + former Lawson ATM outsourcing counterparty / Mitsubishi group)
-- [[ndfg]] · [[smfg]] · [[mizuho-fg]]
+- [[regional-banks/seven-bank]] (largest of the three major ATM operators / first-mover model)
+- [[megabanks/au-fh]] (KDDI line / parent of au Jibun Bank)
+- [[megabanks/mufg]] (former au Jibun Bank parent + former Lawson ATM outsourcing counterparty / Mitsubishi group)
+- [[megabanks/ndfg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]
 - [[banking/minna-bank-baas-model]] · [[banking/mercari-bank-license-stack]]
 
 ## Sources

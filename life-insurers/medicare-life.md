@@ -24,7 +24,7 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 
 ## TL;DR
 
-メディケア生命保険株式会社は、金融庁 life-insurer list と生命保険協会会員一覧に掲載される [[sumitomo-life]] group の life-insurance operating company。medical / protection product focus and multi-channel distribution を見る specialty insurer として、住友生命本体から切り分ける。
+メディケア生命保険株式会社は、金融庁 life-insurer list と生命保険協会会員一覧に掲載される [[life-insurers/sumitomo-life]] group の life-insurance operating company。medical / protection product focus and multi-channel distribution を見る specialty insurer として、住友生命本体から切り分ける。
 
 ## 1. License / group boundary
 
@@ -33,12 +33,12 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 | Legal name | メディケア生命保険株式会社 |
 | License route | Insurance Business Act life-insurance company; FSA life insurer list |
 | Industry body | Life Insurance Association of Japan member |
-| Group boundary | [[sumitomo-life]] group |
+| Group boundary | [[life-insurers/sumitomo-life]] group |
 | Wiki role | Sumitomo Life group medical / protection specialty insurer |
 
 ## 2. Operating model
 
-メディケア生命は、medical insurance and simple protection products を中心に、parent insurer の brand / capital support と more flexible product-channel strategy を組み合わせる insurer。[[hanasaku-life]]、[[nanairo-life]] と並べると、大手 life-insurer groups の specialty-subsidiary strategy が見える。
+メディケア生命は、medical insurance and simple protection products を中心に、parent insurer の brand / capital support と more flexible product-channel strategy を組み合わせる insurer。[[life-insurers/hanasaku-life]]、[[life-insurers/nanairo-life]] と並べると、大手 life-insurer groups の specialty-subsidiary strategy が見える。
 
 ## 3. Why this page matters
 
@@ -48,9 +48,9 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 
 ## Related
 
-- [[sumitomo-life]]
-- [[hanasaku-life]]
-- [[nanairo-life]]
+- [[life-insurers/sumitomo-life]]
+- [[life-insurers/hanasaku-life]]
+- [[life-insurers/nanairo-life]]
 - [[insurance/life-insurance-channel-mix]]
 - [[insurance/INDEX]]
 

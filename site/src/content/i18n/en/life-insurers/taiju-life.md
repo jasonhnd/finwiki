@@ -15,7 +15,7 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 
 ## TL;DR
 
-Taiju Life Insurance Co., Ltd. is a life-insurance operating company listed in the FSA life-insurer license list. It carries the lineage known as Mitsui Life and is now read through its [[nippon-life]] group adjacency, but it still needs a standalone page as an underwriting legal entity.
+Taiju Life Insurance Co., Ltd. is a life-insurance operating company listed in the FSA life-insurer license list. It carries the lineage known as Mitsui Life and is now read through its [[life-insurers/nippon-life]] group adjacency, but it still needs a standalone page as an underwriting legal entity.
 
 ## 1. License / group boundary
 
@@ -29,7 +29,7 @@ Taiju Life Insurance Co., Ltd. is a life-insurance operating company listed in t
 
 ## 2. Operating model
 
-Taiju Life is an operating insurer with traditional life-insurance products and sales channels. In FinWiki it is not only about its relationship to large mutual insurers such as [[nippon-life]], [[meiji-yasuda]], and [[sumitomo-life]]; the page also separates legacy brand, sales-force channel, and product mix.
+Taiju Life is an operating insurer with traditional life-insurance products and sales channels. In FinWiki it is not only about its relationship to large mutual insurers such as [[life-insurers/nippon-life]], [[life-insurers/meiji-yasuda]], and [[life-insurers/sumitomo-life]]; the page also separates legacy brand, sales-force channel, and product mix.
 
 Group restructuring and alliance moves around the large life insurers affect policyholder protection, solvency, distribution productivity, and capital allocation, so this page keeps an independent legal-entity anchor.
 
@@ -41,11 +41,11 @@ Group restructuring and alliance moves around the large life insurers affect pol
 
 ## Related
 
-- [[nippon-life]]
-- [[meiji-yasuda]]
-- [[sumitomo-life]]
-- [[asahi-life]]
-- [[fukoku-life]]
+- [[life-insurers/nippon-life]]
+- [[life-insurers/meiji-yasuda]]
+- [[life-insurers/sumitomo-life]]
+- [[life-insurers/asahi-life]]
+- [[life-insurers/fukoku-life]]
 - [[insurance/mutual-vs-stock-life-insurer]]
 
 ## Sources

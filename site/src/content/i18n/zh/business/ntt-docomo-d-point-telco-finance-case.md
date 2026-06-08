@@ -101,7 +101,7 @@ Docomo 的区别:最大的电信用户基础、最晚完全正式确立银行合
 |---|---|---|
 | 经营利润来源 | 电信用户基础 | Card / Bank / Securities |
 | 补贴 / 资本支出去向 | 金融产品分发 | 移动网络建设 |
-| 银行资产负债表 | 伙伴(SMBC) | 自有([[JapanFG/rakuten-bank|Rakuten Bank]]) |
+| 银行资产负债表 | 伙伴(SMBC) | 自有([[banking/rakuten-bank|Rakuten Bank]]) |
 | 证券 | 伙伴(有限自建) | 自有([[securities-firms/rakuten-securities|Rakuten Securities]],部分出售给 Mizuho) |
 | 资本支出概况 | 轻(无为金融的网络建设) | 重(移动网络) |
 | 集团折价风险 | 低 | 高 |

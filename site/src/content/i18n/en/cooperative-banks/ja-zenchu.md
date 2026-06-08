@@ -73,11 +73,11 @@ This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as the
 ```
 JA Group (nationwide 497  JAs + 4  major national federations)
   ├── JA-Zenchu (representation, management consultation, agricultural policy) ★ this page
-  ├── JA Zen-Noh (purchasing, sales, economic business) → [[ja-zen-noh]]
-  ├── JA Kyosairen (mutual-aid business) → [[ja-kyosairen]]
-  ├── Norinchukin Bank (credit business) → [[norinchukin]]
+  ├── JA Zen-Noh (purchasing, sales, economic business) → [[cooperative-banks/ja-zen-noh]]
+  ├── JA Kyosairen (mutual-aid business) → [[non-life-insurers/ja-kyosairen]]
+  ├── Norinchukin Bank (credit business) → [[cooperative-banks/norinchukin]]
   ├── Prefectural JA central unions (reorganization in progress)
-  ├── Prefectural credit federations → [[ja-shinnoren]]
+  ├── Prefectural credit federations → [[cooperative-banks/ja-shinnoren]]
   └── Nationwide 497  JAs (individual agricultural cooperatives)
 ```
 

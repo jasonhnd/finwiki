@@ -37,16 +37,16 @@ FSA 名单是主要牌照来源，JBA 银行数据库则为公开用户提供日
 ## 3. 为什么需要本页
 
 - 将 FSA 五个韩国外国银行分行条目之一加入 JapanFG。
-- 支撑与 [[hana-bank-japan]]、[[korea-development-bank-japan]]、[[industrial-bank-of-korea-japan]]、[[kb-kookmin-bank-japan]] 并列的韩日银行走廊分析。
-- 将韩国分行银行与作为日本银行子公司路径的 [[sbj-bank]] 区分开。
+- 支撑与 [[foreign-financial-institutions/hana-bank-japan]]、[[foreign-financial-institutions/korea-development-bank-japan]]、[[foreign-financial-institutions/industrial-bank-of-korea-japan]]、[[foreign-financial-institutions/kb-kookmin-bank-japan]] 并列的韩日银行走廊分析。
+- 将韩国分行银行与作为日本银行子公司路径的 [[regional-banks/sbj-bank]] 区分开。
 
 ## Related
 
-- [[hana-bank-japan]]
-- [[korea-development-bank-japan]]
-- [[industrial-bank-of-korea-japan]]
-- [[kb-kookmin-bank-japan]]
-- [[sbj-bank]]
+- [[foreign-financial-institutions/hana-bank-japan]]
+- [[foreign-financial-institutions/korea-development-bank-japan]]
+- [[foreign-financial-institutions/industrial-bank-of-korea-japan]]
+- [[foreign-financial-institutions/kb-kookmin-bank-japan]]
+- [[regional-banks/sbj-bank]]
 - [[banking/foreign-bank-japan-retreat]]
 
 ## Sources

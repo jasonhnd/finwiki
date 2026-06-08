@@ -38,11 +38,11 @@ General Reinsurance AG / General Re Corporation 的日本支店是 Berkshire Hat
 ## Related
 
 - [[non-life-insurers/INDEX]]
-- [[rga-japan]]
-- [[munich-re-japan]]
-- [[swiss-re-japan]]
-- [[hannover-re-japan]]
-- [[toa-reinsurance]]
+- [[life-insurers/rga-japan]]
+- [[non-life-insurers/munich-re-japan]]
+- [[non-life-insurers/swiss-re-japan]]
+- [[non-life-insurers/hannover-re-japan]]
+- [[non-life-insurers/toa-reinsurance]]
 - [[insurance/natcat-reinsurance-japan]]
 - [[insurance/INDEX]]
 

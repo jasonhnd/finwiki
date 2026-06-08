@@ -51,28 +51,28 @@
     "wikilinks": [
       "insurance/INDEX",
       "life-insurers/INDEX",
+      "life-insurers/meiji-yasuda",
       "life-insurers/nippon-life",
-      "meiji-yasuda",
-      "mizuho-fg",
-      "mufg",
-      "smfg"
+      "megabanks/mizuho-fg",
+      "megabanks/mufg",
+      "megabanks/smfg"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/insurance/INDEX",
       "https://finwiki.zksc.io/life-insurers/INDEX",
+      "https://finwiki.zksc.io/life-insurers/meiji-yasuda",
       "https://finwiki.zksc.io/life-insurers/nippon-life",
-      "https://finwiki.zksc.io/meiji-yasuda",
-      "https://finwiki.zksc.io/mizuho-fg",
-      "https://finwiki.zksc.io/mufg",
-      "https://finwiki.zksc.io/smfg"
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/smfg"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3604,
-    "word_like_tokens": 556,
-    "inbound_wikilinks_count": 23,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 3690,
+    "word_like_tokens": 567,
+    "inbound_wikilinks_count": 30,
+    "last_modified": "2026-06-08"
   }
 }

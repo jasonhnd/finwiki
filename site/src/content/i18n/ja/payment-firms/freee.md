@@ -30,7 +30,7 @@ translated_at: 2026-06-02T14:25:12.399Z
 
 ### 業態
 
-純粋な SaaS ベンダーであり、銀行業・証券業・保険業のいずれの免許も持たない。金融機能（カード発行・融資・電子契約）は提携金融機関・カード会社・電子契約事業者を介して提供する**ノンバンク型フィンテック・プラットフォーマー**。メガバンク FG（[[mufg]] / [[smfg]] / [[mizuho-fg]]）や [[ndfg]] / [[paypay-fg]] のような銀行・証券・カードを抱える総合金融とは対極で、**SaaS をハブにして既存金融機関の API・カード・融資を束ねる**設計思想。
+純粋な SaaS ベンダーであり、銀行業・証券業・保険業のいずれの免許も持たない。金融機能（カード発行・融資・電子契約）は提携金融機関・カード会社・電子契約事業者を介して提供する**ノンバンク型フィンテック・プラットフォーマー**。メガバンク FG（[[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]]）や [[megabanks/ndfg]] / [[megabanks/paypay-fg]] のような銀行・証券・カードを抱える総合金融とは対極で、**SaaS をハブにして既存金融機関の API・カード・融資を束ねる**設計思想。
 
 ### 重要年表（公開情報ベース）^[extracted]
 
@@ -99,7 +99,7 @@ translated_at: 2026-06-02T14:25:12.399Z
 
 ## 関連
 
-- [[payment-firms/money-forward|Money Forward]] · [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[ndfg]] · [[paypay-fg]] · [[au-fh]] · [[gmo-aozora-net]]
+- [[payment-firms/money-forward|Money Forward]] · [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[megabanks/ndfg]] · [[megabanks/paypay-fg]] · [[megabanks/au-fh]] · [[payment-firms/gmo-aozora-net]]
 
 ## 出典
 

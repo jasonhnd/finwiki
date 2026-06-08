@@ -47,44 +47,42 @@
     "2. 事業セグメント・マップ",
     "コンビニ ATM 三強構造",
     "KDDI au 経済圏統合可能性",
-    "vs セブン銀行（seven-bank）",
+    "vs セブン銀行（regional-banks/seven-bank）",
     "4. 規制・政策"
   ],
   "body_links": {
-    "wikilinks_count": 11,
+    "wikilinks_count": 10,
     "wikilinks": [
-      "au-fh",
       "banking/INDEX",
       "banking/mercari-bank-license-stack",
       "banking/minna-bank-baas-model",
-      "mizuho-fg",
-      "mufg",
-      "ndfg",
+      "megabanks/au-fh",
+      "megabanks/mizuho-fg",
+      "megabanks/mufg",
+      "megabanks/ndfg",
+      "megabanks/smfg",
       "regional-banks/INDEX",
-      "regional-banks/seven-bank",
-      "seven-bank",
-      "smfg"
+      "regional-banks/seven-bank"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/au-fh",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/mercari-bank-license-stack",
       "https://finwiki.zksc.io/banking/minna-bank-baas-model",
-      "https://finwiki.zksc.io/mizuho-fg",
-      "https://finwiki.zksc.io/mufg",
-      "https://finwiki.zksc.io/ndfg",
+      "https://finwiki.zksc.io/megabanks/au-fh",
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/ndfg",
+      "https://finwiki.zksc.io/megabanks/smfg",
       "https://finwiki.zksc.io/regional-banks/INDEX",
-      "https://finwiki.zksc.io/regional-banks/seven-bank",
-      "https://finwiki.zksc.io/seven-bank",
-      "https://finwiki.zksc.io/smfg"
+      "https://finwiki.zksc.io/regional-banks/seven-bank"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3182,
-    "word_like_tokens": 589,
-    "inbound_wikilinks_count": 8,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 3347,
+    "word_like_tokens": 609,
+    "inbound_wikilinks_count": 9,
+    "last_modified": "2026-06-08"
   }
 }

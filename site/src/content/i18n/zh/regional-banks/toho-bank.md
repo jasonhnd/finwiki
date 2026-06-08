@@ -15,7 +15,7 @@ translated_at: 2026-06-01T02:31:57.112Z
 
 ## TL;DR
 
-**福岛县唯一的第一地方银行、县内份额 No. 1**，总部位于福岛市，东证 PRIME 8346。它通过 1941-11-21 战时整合福岛县内 5 行 而设立，并于 1949  在东证上市。维持**单独银行体制**，并参加由 2015  [[chiba-bank]] 主导的 **TSUBASA Alliance**，推进系统共同化和广域合作。它经历了 **2011-03-11 东日本大震灾 + 福岛第一核电站事故的双重灾害**，并在复兴融资和核事故相关返乡困难区域交易中发挥核心作用 ★。简称“とうほう / Toho”。^[extracted]
+**福岛县唯一的第一地方银行、县内份额 No. 1**，总部位于福岛市，东证 PRIME 8346。它通过 1941-11-21 战时整合福岛县内 5 行 而设立，并于 1949  在东证上市。维持**单独银行体制**，并参加由 2015  [[regional-banks/chiba-bank]] 主导的 **TSUBASA Alliance**，推进系统共同化和广域合作。它经历了 **2011-03-11 东日本大震灾 + 福岛第一核电站事故的双重灾害**，并在复兴融资和核事故相关返乡困难区域交易中发挥核心作用 ★。简称“とうほう / Toho”。^[extracted]
 
 ## 1. 公司概要
 
@@ -30,10 +30,10 @@ translated_at: 2026-06-01T02:31:57.112Z
 ### 业态特征
 
 - **单独银行，未控股公司化** ^[extracted]
-  - 与 [[77-bank]]、[[chiba-bank]]、[[regional-banks/shizuoka-fg|shizuoka-bank]] 一样，选择不控股公司化的单独路线。
-  - 在邻县青森银行 -> [[proclair-hd]]、足利银行 -> [[mebuki-fg]]、常阳银行 -> [[mebuki-fg]] 进入控股公司整合的背景下维持独立。
+  - 与 [[regional-banks/77-bank]]、[[regional-banks/chiba-bank]]、[[regional-banks/shizuoka-fg|shizuoka-bank]] 一样，选择不控股公司化的单独路线。
+  - 在邻县青森银行 -> [[regional-banks/proclair-hd]]、足利银行 -> [[regional-banks/mebuki-fg]]、常阳银行 -> [[regional-banks/mebuki-fg]] 进入控股公司整合的背景下维持独立。
 - **TSUBASA Alliance 成员行** ^[extracted]
-  - 由 2015  [[chiba-bank]] 主导设立的地方银行联盟，11 行 协作。
+  - 由 2015  [[regional-banks/chiba-bank]] 主导设立的地方银行联盟，11 行 协作。
   - 通过系统共同化、海外支持和商品共通化，在避免控股公司化的同时获得规模效应。
   - 福岛县内存款份额 No. 1，也是县内唯一第一地方商业银行。
 
@@ -78,7 +78,7 @@ translated_at: 2026-06-01T02:31:57.112Z
 | **2011-03-12** | **东京电力福岛第一核电站事故** ★ 双叶郡和滨通北部网点被指定为返乡困难区域 / 避难指示区域，长期停业 ^[extracted] |
 | 2011-03-04 | 义援金、紧急融资，以及面向灾民的无存折 / 无印章存款取款特别措施 ^[extracted] |
 | 2012-2015 | 复兴 5  年集中期：东日本大震灾复兴特别贷款制度、集团补助金、原子力损害赔偿相关融资 |
-| **2015** | **参加 TSUBASA Alliance**（由 [[chiba-bank]] 主导的 11 行 alliance 发足时成员）^[extracted] |
+| **2015** | **参加 TSUBASA Alliance**（由 [[regional-banks/chiba-bank]] 主导的 11 行 alliance 发足时成员）^[extracted] |
 | **2022-04** | **东证 PRIME 上市**（市场区分重组）^[extracted] |
 
 ### 地理地盘
@@ -90,10 +90,10 @@ translated_at: 2026-06-01T02:31:57.112Z
 | 竞争者 | 本部 | 关系 |
 |---|---|---|
 | **大东银行** | 福岛县郡山市 | 福岛县第二地方银行，在中小 / 小规模法人领域竞争 |
-| **[[77-bank]]** | 仙台 | 邻县宫城的东北 No. 1  地方银行，在首都圈和东北纵向交易中竞争 |
-| **[[jimoto-hd]]** | 仙台 / 山形 | 仙台银行 + Kirayaka Bank，邻县地方银行集团 |
-| **[[mebuki-fg]]** | 茨城 / 栃木 | 常阳银行 + 足利银行，邻县整合地方银行 |
-| **Megabanks**（[[mufg]] / [[smfg]] / [[mizuho-fg]]）| 东京 | 在大企业和首都圈交易中竞争；本地中小企业方面东邦占优 |
+| **[[regional-banks/77-bank]]** | 仙台 | 邻县宫城的东北 No. 1  地方银行，在首都圈和东北纵向交易中竞争 |
+| **[[regional-banks/jimoto-hd]]** | 仙台 / 山形 | 仙台银行 + Kirayaka Bank，邻县地方银行集团 |
+| **[[regional-banks/mebuki-fg]]** | 茨城 / 栃木 | 常阳银行 + 足利银行，邻县整合地方银行 |
+| **Megabanks**（[[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]]）| 东京 | 在大企业和首都圈交易中竞争；本地中小企业方面东邦占优 |
 | **信用金库 / 信用组合**（福岛信金等）| 各地 | 本地小微法人和个人 |
 
 ### 规模感（公开信息基准）
@@ -125,10 +125,10 @@ translated_at: 2026-06-01T02:31:57.112Z
 
 ## Related
 
-- [[77-bank]] · [[jimoto-hd]] · [[mebuki-fg]] · [[proclair-hd]]
-- [[chiba-bank]]（TSUBASA Alliance 主导行）
-- [[sbi-regional-bank-hd]]（邻接竞争者：福岛银行系）
-- [[mufg]] · [[smfg]] · [[mizuho-fg]]
+- [[regional-banks/77-bank]] · [[regional-banks/jimoto-hd]] · [[regional-banks/mebuki-fg]] · [[regional-banks/proclair-hd]]
+- [[regional-banks/chiba-bank]]（TSUBASA Alliance 主导行）
+- [[megabanks/sbi-regional-bank-hd]]（邻接竞争者：福岛银行系）
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]
 
 ## Sources
 

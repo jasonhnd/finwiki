@@ -37,15 +37,15 @@ note: 客観 wiki 本文から分離した主観的内容（推論 / Counterpoin
 
 - 「単独銀行のままで持続可能か」: 四国他行が再編進行する中、人口減少県の単独地銀として規模の経済を確保できるかは構造的懸念 ^[ambiguous]
 - 「TSUBASA 参加で十分か」: ゆるやかな連携が再編代替になるか、最終的に経営統合が必要かは将来の論点 ^[ambiguous]
-- 「[[kagawa-bank|香川銀行]]との関係」: 同一県内で第一・第二地銀が並立する構造は全国でも珍しくないが、人口減少下での非効率は将来課題 ^[inferred]
+- 「[[regional-banks/kagawa-bank|香川銀行]]との関係」: 同一県内で第一・第二地銀が並立する構造は全国でも珍しくないが、人口減少下での非効率は将来課題 ^[inferred]
 - 「観光業集中リスク」: 観光・うどん・直島アートに依存する経済構造は、コロナ・天災・観光トレンド変化に弱い ^[inferred]
 
 ## Open questions
 
 - 中期経営計画 (2024〜) のデジタル化・域外展開の数値目標は？
 - TSUBASA アライアンスでの具体的なシステム共同化進捗（勘定系基盤統合の有無）は？
-- [[kagawa-bank|香川銀行]]・[[tomony-hd]] との将来的な再編可能性は？（県内 1 行化シナリオ）
-- 四国 4 行（百十四・[[iyogin-hd]] / [[iyo-bank|伊予]]・[[awa-bank|阿波]]・[[shikoku-bank|四国銀行]]）の将来的な再編構想は？
+- [[regional-banks/kagawa-bank|香川銀行]]・[[regional-banks/tomony-hd]] との将来的な再編可能性は？（県内 1 行化シナリオ）
+- 四国 4 行（百十四・[[regional-banks/iyogin-hd]] / [[regional-banks/iyo-bank|伊予]]・[[regional-banks/awa-bank|阿波]]・[[regional-banks/shikoku-bank|四国銀行]]）の将来的な再編構想は？
 - 域外（大阪・岡山）支店の収益貢献度は？
 
 <!-- Phase 1.5 追加抽出 (2026-05-29) -->

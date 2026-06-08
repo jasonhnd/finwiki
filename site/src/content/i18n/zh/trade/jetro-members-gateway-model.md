@@ -26,7 +26,7 @@ This entry sits under [[trade/jetro-organization-structure|JETRO は会員組織
 
 已经由经产省通商政策局确认。回复入会意向后，可由 JETRO 一侧介绍负责窗口。资源开发类案件的话，除了 JETRO 的市场信息外，由 [[policy-finance/jogmec|JOGMEC]] 担任出资・出融资的主负责方。
 
-既有 wiki [[jetro-organization-structure]] 的「不持有会员企业」记述作为法律事实是准确的，但应补充：作为实务上的提案渠道，加入 Members 是前提这一点。另外，出口信用条件由 OECD 体系（[[policy-finance/oecd-export-credit-arrangement|OECD Export Credit Arrangement]]）规律，JETRO 的销路支援与 NEXI 保险・JBIC 融资在该框架内组合。
+既有 wiki [[trade/jetro-organization-structure]] 的「不持有会员企业」记述作为法律事实是准确的，但应补充：作为实务上的提案渠道，加入 Members 是前提这一点。另外，出口信用条件由 OECD 体系（[[policy-finance/oecd-export-credit-arrangement|OECD Export Credit Arrangement]]）规律，JETRO 的销路支援与 NEXI 保险・JBIC 融资在该框架内组合。
 
 参考: https://www.jetro.go.jp/members/
 来源: 公开信息整理 (JETRO 官方 Members 介绍 https://www.jetro.go.jp/members/, 经产省通商政策局公开资料, JETRO J-StarX 项目公开)

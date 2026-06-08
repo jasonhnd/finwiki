@@ -16,7 +16,7 @@ translated_at: 2026-06-02T14:54:39.082Z
 
 ## 要約
 
-NTT ドコモが **2026-07-01 事業開始**（吸収分割により金融領域の事業・関連株式を承継）する **金融事業統括中間持株会社「株式会社 NTT ドコモ・フィナンシャルグループ」（ドコモ FG）**。証券（マネックスグループ）+ 銀行（住信 SBI ネット銀行 / docomo Neobank ブランド）+ カード・決済（dカード / d 払い / dスマートバンク）を 1 枚屋根下に再編。位置付けは [[megabanks/au-fh|au-fg]] / [[paypay-fg]] / [[rakuten-fg]] と並ぶ **「通信系 FG」第 4 極**。親会社は NTT ドコモ（NTT 100%）。^[extracted]
+NTT ドコモが **2026-07-01 事業開始**（吸収分割により金融領域の事業・関連株式を承継）する **金融事業統括中間持株会社「株式会社 NTT ドコモ・フィナンシャルグループ」（ドコモ FG）**。証券（マネックスグループ）+ 銀行（住信 SBI ネット銀行 / docomo Neobank ブランド）+ カード・決済（dカード / d 払い / dスマートバンク）を 1 枚屋根下に再編。位置付けは [[megabanks/au-fh|au-fg]] / [[megabanks/paypay-fg]] / [[payment-firms/rakuten-fg]] と並ぶ **「通信系 FG」第 4 極**。親会社は NTT ドコモ（NTT 100%）。^[extracted]
 
 ## 1. 会社概要
 
@@ -88,7 +88,7 @@ NDFG（中間持株、NTT ドコモ 100%、事業開始 2026-07-01）
 
 ### 通信系 FG「第 4 極」の位置付け
 
-- **既存 3 極**: [[megabanks/au-fh|au-fg]]（KDDI / auじぶん銀行売却後の再編期）、[[paypay-fg]]（SoftBank / Z Holdings 系列、PayPay 銀行 + PayPay 証券 + PayPay カード）、[[rakuten-fg]]（楽天銀行 / 楽天証券 / 楽天カード / 楽天ペイ）
+- **既存 3 極**: [[megabanks/au-fh|au-fg]]（KDDI / auじぶん銀行売却後の再編期）、[[megabanks/paypay-fg]]（SoftBank / Z Holdings 系列、PayPay 銀行 + PayPay 証券 + PayPay カード）、[[payment-firms/rakuten-fg]]（楽天銀行 / 楽天証券 / 楽天カード / 楽天ペイ）
 
 ### 金融サービス統合の狙い（公開発表趣旨）^[extracted]
 
@@ -118,9 +118,9 @@ NDFG（中間持株、NTT ドコモ 100%、事業開始 2026-07-01）
 
 ## 関連項目
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] — メガバンク 3 極
-- [[megabanks/au-fh|au-fg]] · [[paypay-fg]] · [[rakuten-fg]] — 通信系 FG 同業
-- [[sbi-hd]] — 住信 SBI ネット銀行 親会社
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] — メガバンク 3 極
+- [[megabanks/au-fh|au-fg]] · [[megabanks/paypay-fg]] · [[payment-firms/rakuten-fg]] — 通信系 FG 同業
+- [[megabanks/sbi-hd]] — 住信 SBI ネット銀行 親会社
 
 ## 出典
 

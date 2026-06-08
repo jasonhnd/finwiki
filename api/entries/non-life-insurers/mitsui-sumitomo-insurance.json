@@ -50,32 +50,30 @@
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 7,
+    "wikilinks_count": 6,
     "wikilinks": [
-      "aioi-nissay-dowa-insurance",
       "insurance/INDEX",
       "insurance/natcat-reinsurance-japan",
-      "mitsui-sumitomo-aioi-life",
-      "msad",
+      "life-insurers/mitsui-sumitomo-aioi-life",
       "non-life-insurers/INDEX",
-      "non-life-insurers/aioi-nissay-dowa-insurance"
+      "non-life-insurers/aioi-nissay-dowa-insurance",
+      "non-life-insurers/msad"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/aioi-nissay-dowa-insurance",
       "https://finwiki.zksc.io/insurance/INDEX",
       "https://finwiki.zksc.io/insurance/natcat-reinsurance-japan",
-      "https://finwiki.zksc.io/mitsui-sumitomo-aioi-life",
-      "https://finwiki.zksc.io/msad",
+      "https://finwiki.zksc.io/life-insurers/mitsui-sumitomo-aioi-life",
       "https://finwiki.zksc.io/non-life-insurers/INDEX",
-      "https://finwiki.zksc.io/non-life-insurers/aioi-nissay-dowa-insurance"
+      "https://finwiki.zksc.io/non-life-insurers/aioi-nissay-dowa-insurance",
+      "https://finwiki.zksc.io/non-life-insurers/msad"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2162,
-    "word_like_tokens": 337,
-    "inbound_wikilinks_count": 18,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 2316,
+    "word_like_tokens": 362,
+    "inbound_wikilinks_count": 24,
+    "last_modified": "2026-06-08"
   }
 }

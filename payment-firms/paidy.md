@@ -81,7 +81,7 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it again
 
 | 競合 | 親グループ | ポジション |
 |---|---|---|
-| **メルペイあと払い** | [[mercari-hd]] | フリマアプリ内 BNPL、メルカリ生態系強い |
+| **メルペイあと払い** | [[payment-firms/mercari-hd]] | フリマアプリ内 BNPL、メルカリ生態系強い |
 | **atone** | ネットプロテクションズ HD（東証 PRIME 7383）| EC 後払い老舗、加盟店中堅 EC 中心 |
 | **NP 後払い** | ネットプロテクションズ HD | BtoC 後払いの最大手（請求書同梱型）|
 | **クロネコ後払い** | ヤマト HD | 配送系 EC 後払い |
@@ -98,7 +98,7 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it again
 - **Amazon Japan 公式 BNPL**: 最大の集客チャネル、Amazon の「あと払い」選択肢として常設
 - **SHEIN / 越境 EC**: Z 世代向けファッション EC
 - **Apple Store**: iPhone / Mac の分割購入として若年層に浸透
-- **メルカリ**: フリマ + BNPL のクロス（注: メルカリ自身も [[mercari-hd]] 内でメルペイあと払いを運営、競合かつ加盟店）
+- **メルカリ**: フリマ + BNPL のクロス（注: メルカリ自身も [[payment-firms/mercari-hd]] 内でメルペイあと払いを運営、競合かつ加盟店）
 
 ## 4. 規制・政策
 
@@ -108,7 +108,7 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it again
 
 ## Related
 
-- [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[mercari-hd]] · [[paypay-fg]] · [[sbi-hd]]
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[payment-firms/mercari-hd]] · [[megabanks/paypay-fg]] · [[megabanks/sbi-hd]]
 - [[payment-firms/bnpl-landscape]] · [[card-issuers/installment-sales-act-2020-amendment|JapanFG/割賦販売法-2020-改正]]
 
 ## Sources

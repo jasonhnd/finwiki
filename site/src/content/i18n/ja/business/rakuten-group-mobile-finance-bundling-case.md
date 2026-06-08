@@ -16,7 +16,7 @@ translated_at: 2026-06-02T11:47:37.282Z
 
 ## 要約
 
-楽天グループ(TSE 4755)は、**収益性の高い金融子会社が、深刻な赤字のモバイルネットワーク事業者を内部補助する**コングロマリットとして運営されている。中核エンジン — [[card-issuers/rakuten-card|Rakuten Card]](取扱高で日本最大のクレジットカード発行体)、[[JapanFG/rakuten-bank|Rakuten Bank]](日本最大のインターネット銀行、2023-04に IPO)、[[securities-firms/rakuten-securities|Rakuten Securities]](上位 3 のオンライン証券)、楽天保険 / 楽天 Edy — が、楽天モバイルのネットワーク展開に資金を供給する営業キャッシュを生み出す(2019以降の累積損失は ¥1兆超と推定)。
+楽天グループ(TSE 4755)は、**収益性の高い金融子会社が、深刻な赤字のモバイルネットワーク事業者を内部補助する**コングロマリットとして運営されている。中核エンジン — [[card-issuers/rakuten-card|Rakuten Card]](取扱高で日本最大のクレジットカード発行体)、[[banking/rakuten-bank|Rakuten Bank]](日本最大のインターネット銀行、2023-04に IPO)、[[securities-firms/rakuten-securities|Rakuten Securities]](上位 3 のオンライン証券)、楽天保険 / 楽天 Edy — が、楽天モバイルのネットワーク展開に資金を供給する営業キャッシュを生み出す(2019以降の累積損失は ¥1兆超と推定)。
 
 2023-2025 の資本再編の動き — 楽天銀行 IPO、楽天証券のみずほへの一部売却、複数の普通社債 / 転換社債の発行 — は、モバイル / EC / 決済 / 金融のスーパーアプリが単独の競合には得られないネットワーク効果を複利化できる、というコングロマリットの論理を依然として維持しようとしつつ、スローモーションでデレバレッジを進める親会社を浮き彫りにする。
 
@@ -26,7 +26,7 @@ translated_at: 2026-06-02T11:47:37.282Z
 |---|---|---|
 | インターネットサービス | 楽天市場(EC)、楽天トラベル | 収益性が高く、成熟した成長 |
 | モバイル | 楽天モバイル(RMK)、楽天 Symphony | 大幅な営業損失、インフラ設備投資 |
-| 金融 | [[card-issuers/rakuten-card|Rakuten Card]]、[[JapanFG/rakuten-bank|Rakuten Bank]]、[[securities-firms/rakuten-securities|Rakuten Securities]]、楽天ペイ | 高収益;成長 + クロスセルエンジン |
+| 金融 | [[card-issuers/rakuten-card|Rakuten Card]]、[[banking/rakuten-bank|Rakuten Bank]]、[[securities-firms/rakuten-securities|Rakuten Securities]]、楽天ペイ | 高収益;成長 + クロスセルエンジン |
 | 保険 | 楽天生命、楽天損保、楽天インシュアランス HD | わずかに黒字 |
 | ロイヤルティ | 楽天ポイント(~120百万会員) | セグメント横断の接着剤 |
 
@@ -47,7 +47,7 @@ translated_at: 2026-06-02T11:47:37.282Z
 | 子会社 | 役割 | 内部補助への寄与 |
 |---|---|---|
 | **[[card-issuers/rakuten-card|Rakuten Card]]** | 日本で取引高第 1 位の発行体 | 加盟店インターチェンジ + リボ払い金利 + 楽天ポイントエンジン;年間取扱高は ¥20兆超と推定 |
-| **[[JapanFG/rakuten-bank|Rakuten Bank]]** | 第 1 位のインターネット銀行、2023-04 に IPO(TSE 5838) | 純金利収入、手数料収入;IPO 時の一部売却で現金を調達 |
+| **[[banking/rakuten-bank|Rakuten Bank]]** | 第 1 位のインターネット銀行、2023-04 に IPO(TSE 5838) | 純金利収入、手数料収入;IPO 時の一部売却で現金を調達 |
 | **[[securities-firms/rakuten-securities|Rakuten Securities]]** | 上位 3 のオンライン証券(SBI、松井に対して) | 売買手数料、信用貸付;みずほへの一部売却 |
 | 楽天ペイ / 楽天 Edy | QR コード + プリペイド電子マネー | キャッシュレスエコシステムの連携、[[payments/cashless-jp-landscape|cashless landscape]] 参照 |
 | 楽天インシュアランス HD | 生保 + 損保 | より小さな内部補助への寄与 |
@@ -132,7 +132,7 @@ translated_at: 2026-06-02T11:47:37.282Z
 - [[business/softbank-vision-fund-arm-ipo-template|SoftBank Vision Fund Arm IPO template]]
 - [[payment-firms/rakuten-fg|Rakuten FG]]
 - [[card-issuers/rakuten-card|Rakuten Card]]
-- [[JapanFG/rakuten-bank|Rakuten Bank]]
+- [[banking/rakuten-bank|Rakuten Bank]]
 - [[securities-firms/rakuten-securities|Rakuten Securities]]
 - [[megabanks/paypay-fg|PayPay FG]]
 - [[payments/cashless-jp-landscape|Japan cashless payment landscape]]

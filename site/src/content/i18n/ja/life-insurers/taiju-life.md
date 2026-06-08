@@ -16,7 +16,7 @@ translated_at: 2026-06-02T16:33:58.477Z
 
 ## 要約
 
-大樹生命保険株式会社は、金融庁の生命保険会社免許一覧に掲載される生命保険の事業会社です。旧三井生命として知られる系譜を持ち、現在は [[nippon-life]] グループとの隣接性を意識して追うべき保険会社ですが、契約の引受主体としては独立ページが必要です。
+大樹生命保険株式会社は、金融庁の生命保険会社免許一覧に掲載される生命保険の事業会社です。旧三井生命として知られる系譜を持ち、現在は [[life-insurers/nippon-life]] グループとの隣接性を意識して追うべき保険会社ですが、契約の引受主体としては独立ページが必要です。
 
 ## 1. ライセンス・グループ境界
 
@@ -30,7 +30,7 @@ translated_at: 2026-06-02T16:33:58.477Z
 
 ## 2. 事業モデル
 
-大樹生命は、伝統的な生命保険商品と販売チャネルを持つ事業保険会社です。FinWiki では [[nippon-life]]、[[meiji-yasuda]]、[[sumitomo-life]] などの大手相互会社との関係性だけでなく、旧ブランド、営業職員チャネル、商品構成を分けて確認します。
+大樹生命は、伝統的な生命保険商品と販売チャネルを持つ事業保険会社です。FinWiki では [[life-insurers/nippon-life]]、[[life-insurers/meiji-yasuda]]、[[life-insurers/sumitomo-life]] などの大手相互会社との関係性だけでなく、旧ブランド、営業職員チャネル、商品構成を分けて確認します。
 
 大手生保グループの再編や提携は、保険契約者保護、ソルベンシー、販売生産性、資本配分に影響するため、単独の法人アンカーを置きます。
 
@@ -42,11 +42,11 @@ translated_at: 2026-06-02T16:33:58.477Z
 
 ## 関連項目
 
-- [[nippon-life]]
-- [[meiji-yasuda]]
-- [[sumitomo-life]]
-- [[asahi-life]]
-- [[fukoku-life]]
+- [[life-insurers/nippon-life]]
+- [[life-insurers/meiji-yasuda]]
+- [[life-insurers/sumitomo-life]]
+- [[life-insurers/asahi-life]]
+- [[life-insurers/fukoku-life]]
 - [[insurance/mutual-vs-stock-life-insurer]]
 
 ## 出典

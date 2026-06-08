@@ -15,7 +15,7 @@ translated_at: 2026-06-01T02:31:57.097Z
 
 ## TL;DR
 
-株式会社四国银行是一家总部位于高知县、列入金融厅银行许可名单的地方银行。它是高知第一地方银行的经营公司锚点，并作为独立于 [[kochi-bank|高知銀行]] 的地方银行同业法人处理。
+株式会社四国银行是一家总部位于高知县、列入金融厅银行许可名单的地方银行。它是高知第一地方银行的经营公司锚点，并作为独立于 [[regional-banks/kochi-bank|高知銀行]] 的地方银行同业法人处理。
 
 ## 1. 许可证 / 集团边界
 
@@ -29,20 +29,20 @@ translated_at: 2026-06-01T02:31:57.097Z
 
 ## 2. 经营模式
 
-四国银行是以高知县为中心的地方银行，提供零售存款、中小企业融资、本地企业贷款以及四国区域关系型银行服务。在高知县内，它与 [[kochi-bank]] 形成第一 / 第二地方银行的同业边界。关于四国地方银行整合背景，参见 [[banking/INDEX|banking index]] 和 [[regional-banks/INDEX|regional-banks INDEX]]。
+四国银行是以高知县为中心的地方银行，提供零售存款、中小企业融资、本地企业贷款以及四国区域关系型银行服务。在高知县内，它与 [[regional-banks/kochi-bank]] 形成第一 / 第二地方银行的同业边界。关于四国地方银行整合背景，参见 [[banking/INDEX|banking index]] 和 [[regional-banks/INDEX|regional-banks INDEX]]。
 
 ## 3. 本页意义
 
 - 补齐金融厅法定名称口径下的四国银行经营公司页面。
-- 将高知第一地方银行覆盖与 [[kochi-bank]] 区分开。
-- 为 [[awa-bank]]、[[hyakujushi-bank]] 和 [[iyo-bank]] 提供四国同业锚点。
+- 将高知第一地方银行覆盖与 [[regional-banks/kochi-bank]] 区分开。
+- 为 [[regional-banks/awa-bank]]、[[regional-banks/hyakujushi-bank]] 和 [[regional-banks/iyo-bank]] 提供四国同业锚点。
 
 ## Related
 
-- [[kochi-bank]]
-- [[awa-bank]]
-- [[hyakujushi-bank]]
-- [[iyo-bank]]
+- [[regional-banks/kochi-bank]]
+- [[regional-banks/awa-bank]]
+- [[regional-banks/hyakujushi-bank]]
+- [[regional-banks/iyo-bank]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
 

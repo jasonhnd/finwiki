@@ -55,29 +55,29 @@
       "banking/INDEX",
       "foreign-financial-institutions/INDEX",
       "foreign-financial-institutions/citigroup-japan",
-      "mizuho-fg",
-      "mufg",
-      "ndfg",
-      "smfg",
-      "sumitomo-mitsui-trust"
+      "megabanks/mizuho-fg",
+      "megabanks/mufg",
+      "megabanks/ndfg",
+      "megabanks/smfg",
+      "trust-banks/sumitomo-mitsui-trust"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/foreign-financial-institutions/INDEX",
       "https://finwiki.zksc.io/foreign-financial-institutions/citigroup-japan",
-      "https://finwiki.zksc.io/mizuho-fg",
-      "https://finwiki.zksc.io/mufg",
-      "https://finwiki.zksc.io/ndfg",
-      "https://finwiki.zksc.io/smfg",
-      "https://finwiki.zksc.io/sumitomo-mitsui-trust"
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/ndfg",
+      "https://finwiki.zksc.io/megabanks/smfg",
+      "https://finwiki.zksc.io/trust-banks/sumitomo-mitsui-trust"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3706,
-    "word_like_tokens": 671,
-    "inbound_wikilinks_count": 12,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 3838,
+    "word_like_tokens": 689,
+    "inbound_wikilinks_count": 15,
+    "last_modified": "2026-06-08"
   }
 }

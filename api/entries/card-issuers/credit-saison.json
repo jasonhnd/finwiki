@@ -55,29 +55,29 @@
       "banking/INDEX",
       "card-issuers/INDEX",
       "card-issuers/jaccs",
-      "jcb",
-      "mizuho-fg",
-      "mufg",
-      "paypay-fg",
-      "smfg"
+      "card-issuers/jcb",
+      "megabanks/mizuho-fg",
+      "megabanks/mufg",
+      "megabanks/paypay-fg",
+      "megabanks/smfg"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/card-issuers/INDEX",
       "https://finwiki.zksc.io/card-issuers/jaccs",
-      "https://finwiki.zksc.io/jcb",
-      "https://finwiki.zksc.io/mizuho-fg",
-      "https://finwiki.zksc.io/mufg",
-      "https://finwiki.zksc.io/paypay-fg",
-      "https://finwiki.zksc.io/smfg"
+      "https://finwiki.zksc.io/card-issuers/jcb",
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/paypay-fg",
+      "https://finwiki.zksc.io/megabanks/smfg"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4122,
-    "word_like_tokens": 661,
-    "inbound_wikilinks_count": 26,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 4225,
+    "word_like_tokens": 672,
+    "inbound_wikilinks_count": 30,
+    "last_modified": "2026-06-08"
   }
 }

@@ -49,18 +49,13 @@
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 17,
+    "wikilinks_count": 12,
     "wikilinks": [
       "INDEX",
       "banking/INDEX",
       "banking/regional-bank-consolidation-pattern",
-      "chikuho-bank",
       "financial-regulators/fsa",
       "financial-regulators/zenginkyo",
-      "fukuoka-bank",
-      "kitakyushu-bank",
-      "nagasaki-bank",
-      "nishi-nippon-fhd",
       "regional-banks/INDEX",
       "regional-banks/chikuho-bank",
       "regional-banks/fukuoka-bank",
@@ -73,13 +68,8 @@
       "https://finwiki.zksc.io/INDEX",
       "https://finwiki.zksc.io/banking/INDEX",
       "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
-      "https://finwiki.zksc.io/chikuho-bank",
       "https://finwiki.zksc.io/financial-regulators/fsa",
       "https://finwiki.zksc.io/financial-regulators/zenginkyo",
-      "https://finwiki.zksc.io/fukuoka-bank",
-      "https://finwiki.zksc.io/kitakyushu-bank",
-      "https://finwiki.zksc.io/nagasaki-bank",
-      "https://finwiki.zksc.io/nishi-nippon-fhd",
       "https://finwiki.zksc.io/regional-banks/INDEX",
       "https://finwiki.zksc.io/regional-banks/chikuho-bank",
       "https://finwiki.zksc.io/regional-banks/fukuoka-bank",
@@ -92,9 +82,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2943,
-    "word_like_tokens": 426,
-    "inbound_wikilinks_count": 8,
-    "last_modified": "2026-06-05"
+    "nonspace_chars": 3018,
+    "word_like_tokens": 436,
+    "inbound_wikilinks_count": 12,
+    "last_modified": "2026-06-08"
   }
 }

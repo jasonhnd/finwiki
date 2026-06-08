@@ -65,7 +65,7 @@ The shinkin-bank industry has continued consolidating from more than 400 行 ins
 
 ### Contrast with megabanks / regional banks
 
-- **Megabanks ([[mufg]], [[smfg]], [[mizuho-fg]])**: own and operate core-banking, AML/CFT, and mobile-banking platforms internally; annual IT investment is on the order of several hundred billion yen.
+- **Megabanks ([[megabanks/mufg]], [[megabanks/smfg]], [[megabanks/mizuho-fg]])**: own and operate core-banking, AML/CFT, and mobile-banking platforms internally; annual IT investment is on the order of several hundred billion yen.
 - **Regional banks**: many depend on regional-bank joint centers such as NTT Data / Hitachi shared regional-bank systems, but individual regional banks retain considerable customization room.
 - **Shinkin banks**: dependence on industry-wide shared infrastructure such as SNS is highest, while room for individual customization is limited. This embodies "industry-integrated operations" arising from the cooperative-organization model.
 
@@ -85,7 +85,7 @@ The shinkin-bank industry has continued consolidating from more than 400 行 ins
 
 ### Concentration risk
 
-The fact that the industry's 254 行 depends on shared infrastructure means that a system failure at SNS / the shinkin joint center could propagate across the whole industry. This is a common issue in banking, as repeated system failures at megabank [[mizuho-fg|みずほ FG]] show, but for shinkin banks the possibility that the **whole industry stops at the same time** is structurally embedded.
+The fact that the industry's 254 行 depends on shared infrastructure means that a system failure at SNS / the shinkin joint center could propagate across the whole industry. This is a common issue in banking, as repeated system failures at megabank [[megabanks/mizuho-fg|みずほ FG]] show, but for shinkin banks the possibility that the **whole industry stops at the same time** is structurally embedded.
 
 ### Adaptation to cashless trends
 

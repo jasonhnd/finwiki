@@ -15,7 +15,7 @@ translated_at: 2026-06-02T14:25:12.440Z
 
 ## 要約
 
-米 Goldman Sachs Group (NYSE: GS) の日本拠点。1974 年東京支店開設、現在は六本木ヒルズ森タワー本社。中核法人は **ゴールドマン・サックス証券株式会社** で、外資系投資銀行として日本企業の **M&A・ECM・DCM アドバイザリーで外資 No.1 級**。法人取引中心、リテール業務は限定。主要競合は [[morgan-stanley-japan]] / JP モルガン証券 / シティグループ証券。邦銀メガバンク IB（[[mufg]] MUMSS / [[smfg]] SMBC 日興 / [[mizuho-fg]] みずほ証券）とは IB リーグテーブルで毎期競合。^[extracted]
+米 Goldman Sachs Group (NYSE: GS) の日本拠点。1974 年東京支店開設、現在は六本木ヒルズ森タワー本社。中核法人は **ゴールドマン・サックス証券株式会社** で、外資系投資銀行として日本企業の **M&A・ECM・DCM アドバイザリーで外資 No.1 級**。法人取引中心、リテール業務は限定。主要競合は [[securities-firms/morgan-stanley-japan]] / JP モルガン証券 / シティグループ証券。邦銀メガバンク IB（[[megabanks/mufg]] MUMSS / [[megabanks/smfg]] SMBC 日興 / [[megabanks/mizuho-fg]] みずほ証券）とは IB リーグテーブルで毎期競合。^[extracted]
 
 ## 1. 会社概要
 
@@ -57,7 +57,7 @@ The Goldman Sachs Group, Inc.（NYSE: GS、上場持株会社）
 | 1990s | 不動産関連投資（バルクセール・債権回収）で日本市場存在感拡大 |
 | 1999-05 | 親会社 Goldman Sachs Group, Inc. NYSE 上場（IPO）|
 | **2002** | **銀行ライセンス取得（ゴールドマン・サックス銀行東京支店）** |
-| 2003-04 | 三井住友フィナンシャルグループ（[[smfg]]）に約 1500 億円の優先株出資（後に償還）|
+| 2003-04 | 三井住友フィナンシャルグループ（[[megabanks/smfg]]）に約 1500 億円の優先株出資（後に償還）|
 | 2007-2008 | サブプライム関連で日本でも住宅債権ビジネス調整 |
 | 2008-09 | リーマン・ショック後、米親会社が銀行持株会社化・FRB 監督下移行 |
 | 2008-2009 | リーマン・ショック後の業界再編期にも日本での存在感維持 |
@@ -90,7 +90,7 @@ The Goldman Sachs Group, Inc.（NYSE: GS、上場持株会社）
 
 #### 外資系投資銀行（直接競合）
 
-- **モルガン・スタンレー証券**（[[morgan-stanley-japan]]）── MUFG との JV（[[mufg]] MUMSS / モルガン・スタンレー MUFG 証券）で日本市場深掘り
+- **モルガン・スタンレー証券**（[[securities-firms/morgan-stanley-japan]]）── MUFG との JV（[[megabanks/mufg]] MUMSS / モルガン・スタンレー MUFG 証券）で日本市場深掘り
 - **JP モルガン証券**（J.P. Morgan Securities Japan）── 米系大手、銀行業務併設
 - **シティグループ証券**（Citigroup Global Markets Japan）── 旧 日興シティ撤退後の再構築期
 - **メリルリンチ日本証券 / BofA 証券**── Bank of America 傘下
@@ -99,10 +99,10 @@ The Goldman Sachs Group, Inc.（NYSE: GS、上場持株会社）
 
 #### 邦銀メガバンク系証券（IB リーグテーブル競合）
 
-- **MUMSS（三菱 UFJ モルガン・スタンレー証券）**── [[mufg]] 60% / Morgan Stanley 40% の JV
-- **モルガン・スタンレー MUFG 証券**── [[mufg]] 49% / MS 51% のホールセール JV
-- **SMBC 日興証券**── [[smfg]] 100%
-- **みずほ証券**── [[mizuho-fg]] 100%
+- **MUMSS（三菱 UFJ モルガン・スタンレー証券）**── [[megabanks/mufg]] 60% / Morgan Stanley 40% の JV
+- **モルガン・スタンレー MUFG 証券**── [[megabanks/mufg]] 49% / MS 51% のホールセール JV
+- **SMBC 日興証券**── [[megabanks/smfg]] 100%
+- **みずほ証券**── [[megabanks/mizuho-fg]] 100%
 - **大和証券グループ本社**── 独立系 大手
 
 ### 戦略ポジション
@@ -112,8 +112,8 @@ The Goldman Sachs Group, Inc.（NYSE: GS、上場持株会社）
 
 ### 邦銀との関係
 
-- 2003-04 [[smfg]]（三井住友 FG）に約 1500 億円優先株出資（資本提携、後に償還）── 邦銀との資本関係歴 ^[extracted]
-- 邦銀との恒常的な業務提携（業務統合・JV）は **なし**（モルガン・スタンレーが [[mufg]] と統合戦略を採ったのと対照的）^[extracted]
+- 2003-04 [[megabanks/smfg]]（三井住友 FG）に約 1500 億円優先株出資（資本提携、後に償還）── 邦銀との資本関係歴 ^[extracted]
+- 邦銀との恒常的な業務提携（業務統合・JV）は **なし**（モルガン・スタンレーが [[megabanks/mufg]] と統合戦略を採ったのと対照的）^[extracted]
 
 ## 4. 規制・政策
 
@@ -133,7 +133,7 @@ The Goldman Sachs Group, Inc.（NYSE: GS、上場持株会社）
 
 ## 関連項目
 
-- [[morgan-stanley-japan]] · [[mufg]] · [[smfg]] · [[mizuho-fg]] · [[ndfg]] · [[nomura-hd]]
+- [[securities-firms/morgan-stanley-japan]] · [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[megabanks/ndfg]] · [[securities-firms/nomura-hd]]
 - [[finance/japan-ib-league-table]] · [[finance/cross-border-m-a-japan]]
 
 ## 出典

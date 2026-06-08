@@ -17,7 +17,7 @@ translated_at: 2026-06-02T15:14:17.112Z
 
 ## 要約
 
-ソニー生命保険株式会社は、[[sony-fg]] の中核生命保険事業会社。金融庁の生命保険会社免許一覧に載る免許を持つ保険会社であり、Sony Financial Group の銀行・損保・介護 / 金融サービス面の中で、ライフプランナー型の生命保険事業を担う。
+ソニー生命保険株式会社は、[[megabanks/sony-fg]] の中核生命保険事業会社。金融庁の生命保険会社免許一覧に載る免許を持つ保険会社であり、Sony Financial Group の銀行・損保・介護 / 金融サービス面の中で、ライフプランナー型の生命保険事業を担う。
 
 ## 1. ライセンス・グループ境界
 
@@ -26,27 +26,27 @@ translated_at: 2026-06-02T15:14:17.112Z
 | 正式名 | ソニー生命保険株式会社 |
 | 免許ルート | 保険業法上の生命保険会社。金融庁の生命保険会社一覧 |
 | 業界団体 | 生命保険協会加盟会社 |
-| グループ境界 | [[sony-fg]] 生命保険 事業会社 |
+| グループ境界 | [[megabanks/sony-fg]] 生命保険 事業会社 |
 | ウィキ上の役割 | Sony FG の生命保険引受部門 |
 
 ## 2. 事業モデル
 
-ソニー生命は、コンサルティング型・ライフプランナー主導の生命保険販売を強く打ち出す生命保険会社。JapanFG では、[[sony-bank]] の インターネット銀行モデル、Sony グループの金融再編、保険・銀行・損保の クロスセル接点 を分けて追うために、[[sony-fg]] とは別ページにする。
+ソニー生命は、コンサルティング型・ライフプランナー主導の生命保険販売を強く打ち出す生命保険会社。JapanFG では、[[regional-banks/sony-bank]] の インターネット銀行モデル、Sony グループの金融再編、保険・銀行・損保の クロスセル接点 を分けて追うために、[[megabanks/sony-fg]] とは別ページにする。
 
-競合比較では、伝統的な相互会社型保険会社、[[dai-ichi-life]] の 株式会社型保険会社モデル、[[lifenet]] の オンライン直販モデル、[[rakuten-life]] の エコシステム型モデル と並べると位置づけが明確になる。
+競合比較では、伝統的な相互会社型保険会社、[[life-insurers/dai-ichi-life]] の 株式会社型保険会社モデル、[[life-insurers/lifenet]] の オンライン直販モデル、[[life-insurers/rakuten-life]] の エコシステム型モデル と並べると位置づけが明確になる。
 
 ## 3. このページが重要な理由
 
-- [[sony-fg]] の親会社ページだけでは、生命保険事業免許が見えない。
+- [[megabanks/sony-fg]] の親会社ページだけでは、生命保険事業免許が見えない。
 - Sony FG の 2025  上場 / グループ再編の注視には、事業会社単位のアンカーが必要になる。
 - [[insurance/life-insurance-channel-mix]] におけるチャネル構成比較に有用。
 
 ## 関連項目
 
-- [[sony-fg]]
-- [[sony-bank]]
-- [[lifenet]]
-- [[rakuten-life]]
+- [[megabanks/sony-fg]]
+- [[regional-banks/sony-bank]]
+- [[life-insurers/lifenet]]
+- [[life-insurers/rakuten-life]]
 - [[insurance/life-insurance-channel-mix]]
 - [[insurance/INDEX]]
 
