@@ -1,9 +1,9 @@
 # FinWiki Full LLM Manifest
 
-Generated: 2026-06-06T08:27:27+09:00
+Generated: 2026-06-08T10:30:31+09:00
 Site: https://finwiki.zksc.io
-Markdown files: 1565
-Public pages listed: 1564
+Markdown files: 1566
+Public pages listed: 1565
 
 ## Reading Rules
 
@@ -28,7 +28,7 @@ Public pages listed: 1564
 - Domain: root
 - Type: control_doc
 - Summary: 1. matt-huang-triple-role-coi-template — Stripe 取締役就任「2024」→ 2021-11(Stripe newsroom: 2021年11月5日)。 2. christine-moy-talent-signal-jpm-apollo — Apollo 移籍「2024」→ 2022-04(CoinDesk 2022-04-28 / Apollo 公式)。併せて整合しない「回収サイクル 6-18ヶ月」を「数年規模」へ修正。 3. jamie-dimon-anti-crypto-pivot-case — 「2022 ペットロック」を分離・修正:2022
-- Headings: CHANGELOG, 運用原則 / Maintenance Principles / 维护原则, 日本語, English, 中文, 2026-06-06, JapanFG split-leftover route の一括修復 — entity 页の旧 JapanFG/INDEX を各域 INDEX へ / JapanFG route batch fix / JapanFG 旧路由批量修复, 2026-06-05
+- Headings: CHANGELOG, 運用原則 / Maintenance Principles / 维护原则, 日本語, English, 中文, 2026-06-07, 開発文書体系の要件・仕様階層化 / Developer documentation requirements and specification hierarchy / 开发文档需求与规格体系化, 2026-06-06
 - First resolved wikilinks: https://finwiki.zksc.io/..., https://finwiki.zksc.io/JapanFG, https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/JapanFG/…, https://finwiki.zksc.io/asset-managers/mitsubishi-corp-asset-management, https://finwiki.zksc.io/asset-managers/nissay-asset-management, https://finwiki.zksc.io/asset-managers/principal-japan, https://finwiki.zksc.io/asset-managers/smt-am, https://finwiki.zksc.io/asset-managers/t-and-d-asset-management, https://finwiki.zksc.io/asset-managers/tokio-marine-asset-management, https://finwiki.zksc.io/banking/japan-banking-license-tier-comparison-matrix, https://finwiki.zksc.io/banking/japan-trust-bank-vs-global-custodian-comparison-matrix
 
 ### How to navigate FinWiki — reader profile guide
@@ -667,7 +667,7 @@ Public pages listed: 1564
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/banking/au-jibun-bank.md
 - Domain: banking
 - Type: wiki_entry
-- Canonical anchor: JapanFG/au-jibun-bank -> https://finwiki.zksc.io/JapanFG/au-jibun-bank
+- Canonical anchor: regional-banks/au-jibun-bank -> https://finwiki.zksc.io/regional-banks/au-jibun-bank
 - Summary: This entry sits under banking index as the operating-profile companion to the entity anchor at auじぶん銀行 (au Jibun Bank) entity anchor; this banking-domain page is the net-bank operating view of that same entity. Read it against 楽天銀行 (Rakuten Bank) for peer / contrast context and Cooperative banking i
 - Headings: auじぶん銀行 (au Jibun Bank), Wiki route, TL;DR, Structure, Strategic read, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/cooperative-banking-japan, https://finwiki.zksc.io/banking/paypay-bank, https://finwiki.zksc.io/banking/rakuten-bank, https://finwiki.zksc.io/megabanks/au-fh, https://finwiki.zksc.io/megabanks/sony-fg, https://finwiki.zksc.io/regional-banks/au-jibun-bank, https://finwiki.zksc.io/regional-banks/ssnb
@@ -718,7 +718,7 @@ Public pages listed: 1564
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/banking/daiwa-next-bank.md
 - Domain: banking
 - Type: wiki_entry
-- Canonical anchor: JapanFG/daiwa-next-bank -> https://finwiki.zksc.io/JapanFG/daiwa-next-bank
+- Canonical anchor: regional-banks/daiwa-next-bank -> https://finwiki.zksc.io/regional-banks/daiwa-next-bank
 - Summary: This entry sits under banking index as the operating-profile companion to the entity anchor at 大和ネクスト銀行 entity anchor. Read it within the segment map at Japan net bank competition map, with parent context at Daiwa Securities Group and the to-be-consolidated Orix Bank page, against the securities-adj
 - Headings: Daiwa Next Bank operating profile (大和ネクスト銀行), Wiki route, TL;DR, 1. Identity and group position, Why a securities group built a bank, Group structure (post-Orix Bank acquisition completion), Brokerage-linked deposit core (MRF / sweep mechanics), Yen and foreign-currency deposit
 - First resolved wikilinks: https://finwiki.zksc.io/asset-managers/daiwa-asset-management, https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/au-jibun-bank, https://finwiki.zksc.io/banking/gmo-aozora-net-bank, https://finwiki.zksc.io/banking/japan-banking-license-tier-comparison-matrix, https://finwiki.zksc.io/banking/japan-net-bank-competition-map, https://finwiki.zksc.io/banking/paypay-bank, https://finwiki.zksc.io/banking/post-megabank-positioning, https://finwiki.zksc.io/banking/rakuten-bank, https://finwiki.zksc.io/banking/sony-bank, https://finwiki.zksc.io/banking/ui-bank, https://finwiki.zksc.io/regional-banks/daiwa-next-bank
@@ -739,7 +739,7 @@ Public pages listed: 1564
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/banking/gmo-aozora-net-bank.md
 - Domain: banking
 - Type: wiki_entry
-- Canonical anchor: JapanFG/gmo-aozora-net -> https://finwiki.zksc.io/JapanFG/gmo-aozora-net
+- Canonical anchor: payment-firms/gmo-aozora-net -> https://finwiki.zksc.io/payment-firms/gmo-aozora-net
 - Summary: This entry sits under banking index as the operating-profile companion to the entity anchor at GMO あおぞらネット銀行 entity anchor. Read it within the segment map at Japan net bank competition map, against the corporate-API peer 住信SBIネット銀行 / NEOBANK and the consumer-led net-bank cohort Rakuten Bank · PayPay
 - Headings: GMO Aozora Net Bank operating profile (GMO あおぞらネット銀行), Wiki route, TL;DR, 1. Identity and ownership, How the JV came together, Group-context positioning, Corporate / SME / freelancer account franchise, Business-loan flagship: あんしんワイド
 - First resolved wikilinks: https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/au-jibun-bank, https://finwiki.zksc.io/banking/baas-japan-landscape, https://finwiki.zksc.io/banking/daiwa-next-bank, https://finwiki.zksc.io/banking/japan-baas-operating-models, https://finwiki.zksc.io/banking/japan-banking-license-tier-comparison-matrix, https://finwiki.zksc.io/banking/japan-net-bank-competition-map, https://finwiki.zksc.io/banking/minna-bank-baas-model, https://finwiki.zksc.io/banking/paypay-bank, https://finwiki.zksc.io/banking/post-megabank-positioning, https://finwiki.zksc.io/banking/rakuten-bank, https://finwiki.zksc.io/banking/regional-bank-api-digital-partnership-route
@@ -1020,7 +1020,7 @@ Public pages listed: 1564
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/banking/sony-bank.md
 - Domain: banking
 - Type: wiki_entry
-- Canonical anchor: JapanFG/sony-bank -> https://finwiki.zksc.io/JapanFG/sony-bank
+- Canonical anchor: regional-banks/sony-bank -> https://finwiki.zksc.io/regional-banks/sony-bank
 - Summary: This entry sits under banking index as the operating-profile companion to the entity anchor at ソニー銀行 (Sony Bank) entity anchor. Read it inside the net-bank-segment map at Japan net bank competition map, with the parent-group context at Sony Financial Group, and against peers Rakuten Bank · PayPay Ba
 - Headings: Sony Bank operating profile (ソニー銀行), Wiki route, 1. Identity and ownership, Where Sony Bank sits inside the parent, Multi-currency deposit + FX core, Investment-product distribution, Card and payment adjacencies, Where Sony Bank competes
 - First resolved wikilinks: https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/au-jibun-bank, https://finwiki.zksc.io/banking/daiwa-next-bank, https://finwiki.zksc.io/banking/japan-banking-license-tier-comparison-matrix, https://finwiki.zksc.io/banking/japan-net-bank-competition-map, https://finwiki.zksc.io/banking/paypay-bank, https://finwiki.zksc.io/banking/post-megabank-positioning, https://finwiki.zksc.io/banking/quick-deposit-four-methods, https://finwiki.zksc.io/banking/rakuten-bank, https://finwiki.zksc.io/financial-licenses/bank-license-and-baas-boundary, https://finwiki.zksc.io/fintech/japan-stablecoin-regulatory-landscape, https://finwiki.zksc.io/life-insurers/sony-life
@@ -1051,7 +1051,7 @@ Public pages listed: 1564
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/banking/ui-bank.md
 - Domain: banking
 - Type: wiki_entry
-- Canonical anchor: JapanFG/ui-bank -> https://finwiki.zksc.io/JapanFG/ui-bank
+- Canonical anchor: regional-banks/ui-bank -> https://finwiki.zksc.io/regional-banks/ui-bank
 - Summary: This entry sits under banking index as the operating-profile companion to the entity anchor at UI銀行 entity anchor. Read it within the segment map at Japan net bank competition map, next to the regional-digital-bank peers Minna Bank BaaS model · 01 Bank, with the parent context at 東京きらぼし FG and きらぼし銀
 - Headings: UI Bank operating profile (UI銀行 / きらぼし FG 系), Wiki route, TL;DR, 1. Identity and group position, Why a separate license from きらぼし銀行, Group structure, Account, deposit, payment, Loans and credit
 - First resolved wikilinks: https://finwiki.zksc.io/banking/INDEX, https://finwiki.zksc.io/banking/au-jibun-bank, https://finwiki.zksc.io/banking/baas-japan-landscape, https://finwiki.zksc.io/banking/daiwa-next-bank, https://finwiki.zksc.io/banking/gmo-aozora-net-bank, https://finwiki.zksc.io/banking/japan-baas-operating-models, https://finwiki.zksc.io/banking/japan-banking-license-tier-comparison-matrix, https://finwiki.zksc.io/banking/japan-net-bank-competition-map, https://finwiki.zksc.io/banking/minna-bank-baas-model, https://finwiki.zksc.io/banking/paypay-bank, https://finwiki.zksc.io/banking/rakuten-bank, https://finwiki.zksc.io/banking/regional-bank-api-digital-partnership-route
@@ -7131,7 +7131,7 @@ Public pages listed: 1564
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/insurance/ja-kyosai-zenkyoren-overview.md
 - Domain: insurance
 - Type: wiki_entry
-- Canonical anchor: JapanFG/ja-kyosairen -> https://finwiki.zksc.io/JapanFG/ja-kyosairen
+- Canonical anchor: non-life-insurers/ja-kyosairen -> https://finwiki.zksc.io/non-life-insurers/ja-kyosairen
 - Summary: JA共済 / 全共連 (Zenkyoren — 全国共済農業協同組合連合会) is the federated cooperative insurance underwriter of Japan's agricultural cooperative (JA / 農協) movement, and by reserve / asset scale is the largest non-FSA-supervised insurance entity in Japan. It writes a full kyosai (共済) product line — life-equivalent (who
 - Headings: JA Kyosai / Zenkyoren overview, TL;DR, Wiki route, What Zenkyoren is and is not, Product perimeter, Scale and balance sheet, Regulator: MAFF, not FSA, Distribution: JA channel
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/japanese-government-bonds, https://finwiki.zksc.io/financial-licenses/insurance-license-and-solvency, https://finwiki.zksc.io/financial-regulators/fsa, https://finwiki.zksc.io/insurance/INDEX, https://finwiki.zksc.io/insurance/cooperative-insurance-system-japan, https://finwiki.zksc.io/insurance/earthquake-insurance-public-private-scheme, https://finwiki.zksc.io/insurance/economic-value-based-solvency, https://finwiki.zksc.io/insurance/esr-economic-value-solvency, https://finwiki.zksc.io/insurance/global-solvency-framework-comparison-matrix, https://finwiki.zksc.io/insurance/insurance-agency-and-brokerage-japan, https://finwiki.zksc.io/insurance/internet-life-insurance-business-model
@@ -7252,7 +7252,7 @@ Public pages listed: 1564
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/insurance/kampo-japan-post-insurance.md
 - Domain: insurance
 - Type: wiki_entry
-- Canonical anchor: JapanFG/kampo-life -> https://finwiki.zksc.io/JapanFG/kampo-life
+- Canonical anchor: life-insurers/kampo-life -> https://finwiki.zksc.io/life-insurers/kampo-life
 - Summary: かんぽ生命保険 (Japan Post Insurance Co., Ltd.; TSE Prime 7181) is one of the largest life-insurance balance sheets in Japan by reserve and asset scale, originated as the postal-savings-era national insurance scheme (郵便貯金 / 簡易保険 / "Kanpo") and now a publicly listed subsidiary inside the Japan Post Holdings
 - Headings: Kampo / Japan Post Insurance, TL;DR, Wiki route, Identity and group structure, Balance sheet and scale, Distribution: postal channel, The 2019 fraudulent-sales scandal, ALM in the low-rate era
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/JapanFG/japanese-government-bonds, https://finwiki.zksc.io/financial-licenses/insurance-license-and-solvency, https://finwiki.zksc.io/financial-regulators/fsa, https://finwiki.zksc.io/insurance/INDEX, https://finwiki.zksc.io/insurance/bancassurance-economics-japan, https://finwiki.zksc.io/insurance/economic-value-based-solvency, https://finwiki.zksc.io/insurance/esr-economic-value-solvency, https://finwiki.zksc.io/insurance/insurance-agency-and-brokerage-japan, https://finwiki.zksc.io/insurance/japan-life-big-four-overlay-comparison-matrix, https://finwiki.zksc.io/insurance/japan-life-insurance-alm-overview, https://finwiki.zksc.io/insurance/japan-life-insurance-big-four
@@ -7323,8 +7323,8 @@ Public pages listed: 1564
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/insurance/saison-automobile-fire.md
 - Domain: insurance
 - Type: wiki_entry
-- Canonical anchor: JapanFG/saison-automobile-fire-insurance -> https://finwiki.zksc.io/JapanFG/saison-automobile-fire-insurance
-- Summary: This entry sits under insurance index. The canonical entity anchor for this insurer is its JapanFG entity page; this insurance-domain page is the direct non-life / auto-insurance view of that same entity. Read it against Nat-cat reinsurance in Japan for peer / contrast context and insurance INDEX fo
+- Canonical anchor: non-life-insurers/saison-automobile-fire-insurance -> https://finwiki.zksc.io/non-life-insurers/saison-automobile-fire-insurance
+- Summary: This entry sits under insurance index. The canonical entity anchor for this insurer is its non-life-insurers entity page; this insurance-domain page is the direct non-life / auto-insurance view of that same entity. Read it against Nat-cat reinsurance in Japan for peer / contrast context and insuranc
 - Headings: Saison Automobile & Fire / SOMPO Direct, Wiki route, TL;DR, Company Identity, Strategic Meaning, Comparison Points, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/financial-licenses/INDEX, https://finwiki.zksc.io/insurance/INDEX, https://finwiki.zksc.io/insurance/life-insurance-channel-mix, https://finwiki.zksc.io/insurance/natcat-reinsurance-japan, https://finwiki.zksc.io/megabanks/sony-fg, https://finwiki.zksc.io/non-life-insurers/saison-automobile-fire-insurance, https://finwiki.zksc.io/non-life-insurers/sompo
 
@@ -7334,7 +7334,7 @@ Public pages listed: 1564
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/insurance/sony-life-group-life-operating-model.md
 - Domain: insurance
 - Type: wiki_entry
-- Canonical anchor: JapanFG/sony-life -> https://finwiki.zksc.io/JapanFG/sony-life
+- Canonical anchor: life-insurers/sony-life -> https://finwiki.zksc.io/life-insurers/sony-life
 - Summary: This entry sits under insurance index and is the channel / operating-model deep dive for Sony Life. Read it together with life insurance channel mix for the macro framing of agent vs bancassurance vs direct, with Japan life big four for the traditional sales-agency contrast, with internet life busin
 - Headings: Sony Life group-life and Lifeplanner operating model, Wiki route, TL;DR, Lifeplanner channel (tied, consultative, individual life), Group life (集団保険) channel, What is explicitly not in the channel, Foreign-tech parent governance, Sony FG re-buyout and capital architecture
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/finance/japan-listed-financial-groups-investable-universe, https://finwiki.zksc.io/financial-licenses/insurance-license-and-solvency, https://finwiki.zksc.io/insurance/INDEX, https://finwiki.zksc.io/insurance/economic-value-based-solvency, https://finwiki.zksc.io/insurance/esr-economic-value-solvency, https://finwiki.zksc.io/insurance/foreign-life-affiliate-japan-positioning, https://finwiki.zksc.io/insurance/global-solvency-framework-comparison-matrix, https://finwiki.zksc.io/insurance/insurance-agency-and-brokerage-japan, https://finwiki.zksc.io/insurance/internet-life-insurance-business-model, https://finwiki.zksc.io/insurance/japan-iaig-ics-mapping, https://finwiki.zksc.io/insurance/japan-life-insurance-alm-overview
@@ -8335,7 +8335,7 @@ Public pages listed: 1564
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/manufacturer-finance/sony-group-finance-arm.md
 - Domain: manufacturer-finance
 - Type: wiki_entry
-- Canonical anchor: JapanFG/sony-fg -> https://finwiki.zksc.io/JapanFG/sony-fg
+- Canonical anchor: megabanks/sony-fg -> https://finwiki.zksc.io/megabanks/sony-fg
 - Summary: This entry sits under manufacturing index. Read it against Hitachi industrial finance, Panasonic captive finance, Toyota Financial Services, and MHI 輸出金融 for peer industrial-conglomerate finance arms. Pair with ソニーフィナンシャルグループ (SFG) for the entity profile, Sony FG partial spinoff case for the 2025 ca
 - Headings: Sony Group Finance Arm (ソニーグループ 金融事業アーム), Wiki route, TL;DR, 1. ソニーグループにおける金融部門の位置, 主要子会社 (FY2025 想定), 2. 製品 / 事業ライン (グループ全体マップ), 3. KPI (FY2024 連結 + SFG セグメント), 4. 戦略 (金融分離と再上場)
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/business/sony-fg-partial-spinoff-case, https://finwiki.zksc.io/corporate-strategy/partial-spinoff-tax-deferral, https://finwiki.zksc.io/life-insurers/sony-life, https://finwiki.zksc.io/manufacturer-finance/INDEX, https://finwiki.zksc.io/manufacturer-finance/hitachi-industrial-finance-platform, https://finwiki.zksc.io/manufacturer-finance/mitsubishi-heavy-export-finance, https://finwiki.zksc.io/manufacturer-finance/panasonic-captive-finance, https://finwiki.zksc.io/manufacturer-finance/toyota-financial-services, https://finwiki.zksc.io/megabanks/sony-fg, https://finwiki.zksc.io/non-life-insurers/sony-insurance, https://finwiki.zksc.io/regional-banks/sony-bank
@@ -8346,7 +8346,7 @@ Public pages listed: 1564
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/manufacturer-finance/toyota-financial-services.md
 - Domain: manufacturer-finance
 - Type: wiki_entry
-- Canonical anchor: JapanFG/toyota-financial -> https://finwiki.zksc.io/JapanFG/toyota-financial
+- Canonical anchor: leasing-firms/toyota-financial -> https://finwiki.zksc.io/leasing-firms/toyota-financial
 - Summary: This entry sits under manufacturing index and complements Toyota Financial Services (JapanFG entity profile) and トヨタファイナンス (国内オペレーティング会社). The manufacturing entry exists to look at TFS from the parent OEM's manufacturing/strategy perspective: how Toyota uses the largest auto captive finance in the w
 - Headings: Toyota Financial Services (トヨタファイナンシャルサービス 製造業視点アンカー), Wiki route, TL;DR, 1. 会社構造と製造業視点, 製造業視点のグループ構造, Toyota Motor 本体との関係, 2. 製品 / 事業ライン × 製造業視点での意義, 自動車 ABS との接続
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/card-issuers/toyota-finance, https://finwiki.zksc.io/leasing-firms/mitsubishi-hc-capital, https://finwiki.zksc.io/leasing-firms/orix-corp, https://finwiki.zksc.io/leasing-firms/tokyo-century, https://finwiki.zksc.io/leasing-firms/toyota-financial, https://finwiki.zksc.io/manufacturer-finance/INDEX, https://finwiki.zksc.io/manufacturer-finance/hitachi-industrial-finance-platform, https://finwiki.zksc.io/manufacturer-finance/mitsubishi-heavy-export-finance, https://finwiki.zksc.io/manufacturer-finance/panasonic-captive-finance, https://finwiki.zksc.io/manufacturer-finance/sony-group-finance-arm, https://finwiki.zksc.io/manufacturer-finance/toyota-motor
@@ -13044,6 +13044,14 @@ Public pages listed: 1564
 - Type: release_note
 - Headings: JapanFG split-leftover route の一括修復 — entity 页の旧 JapanFG/INDEX route を各域 INDEX へ（source + i18n mirror）, 日本語, 公開範囲, 主要変更, 検証結果, 既知の注意点 / 次の作業, English, Release Scope
 - First resolved wikilinks: https://finwiki.zksc.io/<domain>/INDEX, https://finwiki.zksc.io/JapanFG/INDEX
+
+### 開発文書体系の要件・仕様階層化
+- URL: https://finwiki.zksc.io/releases/v2026.06.07
+- Source path: releases/v2026.06.07.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.06.07.md
+- Domain: releases
+- Type: release_note
+- Headings: 開発文書体系の要件・仕様階層化, 日本語, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業, English
 
 ### retail domain
 - URL: https://finwiki.zksc.io/retail/INDEX

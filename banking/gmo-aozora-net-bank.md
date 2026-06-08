@@ -24,7 +24,7 @@ sources:
   - "https://www.aozorabank.co.jp/"
   - "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx"
   - "Wikipedia: GMOあおぞらネット銀行 (株主構成・沿革, 2026-05-29 確認, https://ja.wikipedia.org/wiki/GMOあおぞらネット銀行)"
-canonical_anchor: JapanFG/gmo-aozora-net
+canonical_anchor: payment-firms/gmo-aozora-net
 ---
 
 # GMO Aozora Net Bank operating profile (GMO あおぞらネット銀行)

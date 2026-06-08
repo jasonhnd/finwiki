@@ -1,6 +1,6 @@
 import type { Lang } from './ui';
 
-// Super-groups give the 23 domains an information architecture instead of a
+// Super-groups give the current domain set an information architecture instead of a
 // flat list. Order is editorial: institutions first, then markets, payments,
 // frontier, corporate, governance.
 export interface DomainGroup {

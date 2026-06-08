@@ -23,7 +23,7 @@ sources:
   - "https://www.japanpost.jp/group/"
   - "https://www.fsa.go.jp/news/r1/hoken/20191227-1/01.pdf"
   - "https://www.fsa.go.jp/policy/economic_value-based_solvency/index.html"
-canonical_anchor: JapanFG/kampo-life
+canonical_anchor: life-insurers/kampo-life
 ---
 
 # Kampo / Japan Post Insurance

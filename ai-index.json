@@ -1,16 +1,16 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-06-06T08:27:27+09:00",
+  "generated_at": "2026-06-08T10:30:31+09:00",
   "counts": {
-    "markdown_files": 1565,
-    "public_markdown_pages": 1564,
-    "site_urls_in_sitemap": 1565,
+    "markdown_files": 1566,
+    "public_markdown_pages": 1565,
+    "site_urls_in_sitemap": 1566,
     "topical_domains": 40,
     "link_audited_entries": 1485,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 10965131,
-    "word_like_tokens": 1769926,
+    "nonspace_utf8_chars": 10977396,
+    "word_like_tokens": 1772119,
     "entity_anchors": 12,
     "entity_mirror_pages": 12
   },
@@ -315,147 +315,18 @@
   ],
   "entities": [
     {
-      "anchor": "JapanFG/au-jibun-bank",
-      "anchor_url": "https://finwiki.zksc.io/JapanFG/au-jibun-bank",
-      "anchor_resolves": false,
-      "member_count": 1,
+      "anchor": "leasing-firms/toyota-financial",
+      "anchor_url": "https://finwiki.zksc.io/leasing-firms/toyota-financial",
+      "anchor_resolves": true,
+      "member_count": 2,
       "mirror_count": 1,
       "members": [
         {
-          "source_path": "banking/au-jibun-bank.md",
-          "url": "https://finwiki.zksc.io/banking/au-jibun-bank",
-          "domain": "banking",
-          "relation": "mirror"
-        }
-      ]
-    },
-    {
-      "anchor": "JapanFG/daiwa-next-bank",
-      "anchor_url": "https://finwiki.zksc.io/JapanFG/daiwa-next-bank",
-      "anchor_resolves": false,
-      "member_count": 1,
-      "mirror_count": 1,
-      "members": [
-        {
-          "source_path": "banking/daiwa-next-bank.md",
-          "url": "https://finwiki.zksc.io/banking/daiwa-next-bank",
-          "domain": "banking",
-          "relation": "mirror"
-        }
-      ]
-    },
-    {
-      "anchor": "JapanFG/gmo-aozora-net",
-      "anchor_url": "https://finwiki.zksc.io/JapanFG/gmo-aozora-net",
-      "anchor_resolves": false,
-      "member_count": 1,
-      "mirror_count": 1,
-      "members": [
-        {
-          "source_path": "banking/gmo-aozora-net-bank.md",
-          "url": "https://finwiki.zksc.io/banking/gmo-aozora-net-bank",
-          "domain": "banking",
-          "relation": "mirror"
-        }
-      ]
-    },
-    {
-      "anchor": "JapanFG/ja-kyosairen",
-      "anchor_url": "https://finwiki.zksc.io/JapanFG/ja-kyosairen",
-      "anchor_resolves": false,
-      "member_count": 1,
-      "mirror_count": 1,
-      "members": [
-        {
-          "source_path": "insurance/ja-kyosai-zenkyoren-overview.md",
-          "url": "https://finwiki.zksc.io/insurance/ja-kyosai-zenkyoren-overview",
-          "domain": "insurance",
-          "relation": "mirror"
-        }
-      ]
-    },
-    {
-      "anchor": "JapanFG/kampo-life",
-      "anchor_url": "https://finwiki.zksc.io/JapanFG/kampo-life",
-      "anchor_resolves": false,
-      "member_count": 1,
-      "mirror_count": 1,
-      "members": [
-        {
-          "source_path": "insurance/kampo-japan-post-insurance.md",
-          "url": "https://finwiki.zksc.io/insurance/kampo-japan-post-insurance",
-          "domain": "insurance",
-          "relation": "mirror"
-        }
-      ]
-    },
-    {
-      "anchor": "JapanFG/saison-automobile-fire-insurance",
-      "anchor_url": "https://finwiki.zksc.io/JapanFG/saison-automobile-fire-insurance",
-      "anchor_resolves": false,
-      "member_count": 1,
-      "mirror_count": 1,
-      "members": [
-        {
-          "source_path": "insurance/saison-automobile-fire.md",
-          "url": "https://finwiki.zksc.io/insurance/saison-automobile-fire",
-          "domain": "insurance",
-          "relation": "mirror"
-        }
-      ]
-    },
-    {
-      "anchor": "JapanFG/sony-bank",
-      "anchor_url": "https://finwiki.zksc.io/JapanFG/sony-bank",
-      "anchor_resolves": false,
-      "member_count": 1,
-      "mirror_count": 1,
-      "members": [
-        {
-          "source_path": "banking/sony-bank.md",
-          "url": "https://finwiki.zksc.io/banking/sony-bank",
-          "domain": "banking",
-          "relation": "mirror"
-        }
-      ]
-    },
-    {
-      "anchor": "JapanFG/sony-fg",
-      "anchor_url": "https://finwiki.zksc.io/JapanFG/sony-fg",
-      "anchor_resolves": false,
-      "member_count": 1,
-      "mirror_count": 1,
-      "members": [
-        {
-          "source_path": "manufacturer-finance/sony-group-finance-arm.md",
-          "url": "https://finwiki.zksc.io/manufacturer-finance/sony-group-finance-arm",
-          "domain": "manufacturer-finance",
-          "relation": "mirror"
-        }
-      ]
-    },
-    {
-      "anchor": "JapanFG/sony-life",
-      "anchor_url": "https://finwiki.zksc.io/JapanFG/sony-life",
-      "anchor_resolves": false,
-      "member_count": 1,
-      "mirror_count": 1,
-      "members": [
-        {
-          "source_path": "insurance/sony-life-group-life-operating-model.md",
-          "url": "https://finwiki.zksc.io/insurance/sony-life-group-life-operating-model",
-          "domain": "insurance",
-          "relation": "mirror"
-        }
-      ]
-    },
-    {
-      "anchor": "JapanFG/toyota-financial",
-      "anchor_url": "https://finwiki.zksc.io/JapanFG/toyota-financial",
-      "anchor_resolves": false,
-      "member_count": 1,
-      "mirror_count": 1,
-      "members": [
+          "source_path": "leasing-firms/toyota-financial.md",
+          "url": "https://finwiki.zksc.io/leasing-firms/toyota-financial",
+          "domain": "leasing-firms",
+          "relation": "canonical"
+        },
         {
           "source_path": "manufacturer-finance/toyota-financial-services.md",
           "url": "https://finwiki.zksc.io/manufacturer-finance/toyota-financial-services",
@@ -465,12 +336,207 @@
       ]
     },
     {
-      "anchor": "JapanFG/ui-bank",
-      "anchor_url": "https://finwiki.zksc.io/JapanFG/ui-bank",
-      "anchor_resolves": false,
-      "member_count": 1,
+      "anchor": "life-insurers/kampo-life",
+      "anchor_url": "https://finwiki.zksc.io/life-insurers/kampo-life",
+      "anchor_resolves": true,
+      "member_count": 2,
       "mirror_count": 1,
       "members": [
+        {
+          "source_path": "life-insurers/kampo-life.md",
+          "url": "https://finwiki.zksc.io/life-insurers/kampo-life",
+          "domain": "life-insurers",
+          "relation": "canonical"
+        },
+        {
+          "source_path": "insurance/kampo-japan-post-insurance.md",
+          "url": "https://finwiki.zksc.io/insurance/kampo-japan-post-insurance",
+          "domain": "insurance",
+          "relation": "mirror"
+        }
+      ]
+    },
+    {
+      "anchor": "life-insurers/sony-life",
+      "anchor_url": "https://finwiki.zksc.io/life-insurers/sony-life",
+      "anchor_resolves": true,
+      "member_count": 2,
+      "mirror_count": 1,
+      "members": [
+        {
+          "source_path": "life-insurers/sony-life.md",
+          "url": "https://finwiki.zksc.io/life-insurers/sony-life",
+          "domain": "life-insurers",
+          "relation": "canonical"
+        },
+        {
+          "source_path": "insurance/sony-life-group-life-operating-model.md",
+          "url": "https://finwiki.zksc.io/insurance/sony-life-group-life-operating-model",
+          "domain": "insurance",
+          "relation": "mirror"
+        }
+      ]
+    },
+    {
+      "anchor": "megabanks/sony-fg",
+      "anchor_url": "https://finwiki.zksc.io/megabanks/sony-fg",
+      "anchor_resolves": true,
+      "member_count": 2,
+      "mirror_count": 1,
+      "members": [
+        {
+          "source_path": "megabanks/sony-fg.md",
+          "url": "https://finwiki.zksc.io/megabanks/sony-fg",
+          "domain": "megabanks",
+          "relation": "canonical"
+        },
+        {
+          "source_path": "manufacturer-finance/sony-group-finance-arm.md",
+          "url": "https://finwiki.zksc.io/manufacturer-finance/sony-group-finance-arm",
+          "domain": "manufacturer-finance",
+          "relation": "mirror"
+        }
+      ]
+    },
+    {
+      "anchor": "non-life-insurers/ja-kyosairen",
+      "anchor_url": "https://finwiki.zksc.io/non-life-insurers/ja-kyosairen",
+      "anchor_resolves": true,
+      "member_count": 2,
+      "mirror_count": 1,
+      "members": [
+        {
+          "source_path": "non-life-insurers/ja-kyosairen.md",
+          "url": "https://finwiki.zksc.io/non-life-insurers/ja-kyosairen",
+          "domain": "non-life-insurers",
+          "relation": "canonical"
+        },
+        {
+          "source_path": "insurance/ja-kyosai-zenkyoren-overview.md",
+          "url": "https://finwiki.zksc.io/insurance/ja-kyosai-zenkyoren-overview",
+          "domain": "insurance",
+          "relation": "mirror"
+        }
+      ]
+    },
+    {
+      "anchor": "non-life-insurers/saison-automobile-fire-insurance",
+      "anchor_url": "https://finwiki.zksc.io/non-life-insurers/saison-automobile-fire-insurance",
+      "anchor_resolves": true,
+      "member_count": 2,
+      "mirror_count": 1,
+      "members": [
+        {
+          "source_path": "non-life-insurers/saison-automobile-fire-insurance.md",
+          "url": "https://finwiki.zksc.io/non-life-insurers/saison-automobile-fire-insurance",
+          "domain": "non-life-insurers",
+          "relation": "canonical"
+        },
+        {
+          "source_path": "insurance/saison-automobile-fire.md",
+          "url": "https://finwiki.zksc.io/insurance/saison-automobile-fire",
+          "domain": "insurance",
+          "relation": "mirror"
+        }
+      ]
+    },
+    {
+      "anchor": "payment-firms/gmo-aozora-net",
+      "anchor_url": "https://finwiki.zksc.io/payment-firms/gmo-aozora-net",
+      "anchor_resolves": true,
+      "member_count": 2,
+      "mirror_count": 1,
+      "members": [
+        {
+          "source_path": "payment-firms/gmo-aozora-net.md",
+          "url": "https://finwiki.zksc.io/payment-firms/gmo-aozora-net",
+          "domain": "payment-firms",
+          "relation": "canonical"
+        },
+        {
+          "source_path": "banking/gmo-aozora-net-bank.md",
+          "url": "https://finwiki.zksc.io/banking/gmo-aozora-net-bank",
+          "domain": "banking",
+          "relation": "mirror"
+        }
+      ]
+    },
+    {
+      "anchor": "regional-banks/au-jibun-bank",
+      "anchor_url": "https://finwiki.zksc.io/regional-banks/au-jibun-bank",
+      "anchor_resolves": true,
+      "member_count": 2,
+      "mirror_count": 1,
+      "members": [
+        {
+          "source_path": "regional-banks/au-jibun-bank.md",
+          "url": "https://finwiki.zksc.io/regional-banks/au-jibun-bank",
+          "domain": "regional-banks",
+          "relation": "canonical"
+        },
+        {
+          "source_path": "banking/au-jibun-bank.md",
+          "url": "https://finwiki.zksc.io/banking/au-jibun-bank",
+          "domain": "banking",
+          "relation": "mirror"
+        }
+      ]
+    },
+    {
+      "anchor": "regional-banks/daiwa-next-bank",
+      "anchor_url": "https://finwiki.zksc.io/regional-banks/daiwa-next-bank",
+      "anchor_resolves": true,
+      "member_count": 2,
+      "mirror_count": 1,
+      "members": [
+        {
+          "source_path": "regional-banks/daiwa-next-bank.md",
+          "url": "https://finwiki.zksc.io/regional-banks/daiwa-next-bank",
+          "domain": "regional-banks",
+          "relation": "canonical"
+        },
+        {
+          "source_path": "banking/daiwa-next-bank.md",
+          "url": "https://finwiki.zksc.io/banking/daiwa-next-bank",
+          "domain": "banking",
+          "relation": "mirror"
+        }
+      ]
+    },
+    {
+      "anchor": "regional-banks/sony-bank",
+      "anchor_url": "https://finwiki.zksc.io/regional-banks/sony-bank",
+      "anchor_resolves": true,
+      "member_count": 2,
+      "mirror_count": 1,
+      "members": [
+        {
+          "source_path": "regional-banks/sony-bank.md",
+          "url": "https://finwiki.zksc.io/regional-banks/sony-bank",
+          "domain": "regional-banks",
+          "relation": "canonical"
+        },
+        {
+          "source_path": "banking/sony-bank.md",
+          "url": "https://finwiki.zksc.io/banking/sony-bank",
+          "domain": "banking",
+          "relation": "mirror"
+        }
+      ]
+    },
+    {
+      "anchor": "regional-banks/ui-bank",
+      "anchor_url": "https://finwiki.zksc.io/regional-banks/ui-bank",
+      "anchor_resolves": true,
+      "member_count": 2,
+      "mirror_count": 1,
+      "members": [
+        {
+          "source_path": "regional-banks/ui-bank.md",
+          "url": "https://finwiki.zksc.io/regional-banks/ui-bank",
+          "domain": "regional-banks",
+          "relation": "canonical"
+        },
         {
           "source_path": "banking/ui-bank.md",
           "url": "https://finwiki.zksc.io/banking/ui-bank",
@@ -521,9 +587,9 @@
       "wikilinks": [],
       "resolved_wikilinks": [],
       "markdown_links": [],
-      "nonspace_chars": 5541,
-      "word_like_tokens": 894,
-      "last_modified": "2026-06-03"
+      "nonspace_chars": 6772,
+      "word_like_tokens": 1096,
+      "last_modified": "2026-06-08"
     },
     {
       "source_path": "CHANGELOG.md",
@@ -540,11 +606,11 @@
         "日本語",
         "English",
         "中文",
+        "2026-06-07",
+        "開発文書体系の要件・仕様階層化 / Developer documentation requirements and specification hierarchy / 开发文档需求与规格体系化",
         "2026-06-06",
         "JapanFG split-leftover route の一括修復 — entity 页の旧 JapanFG/INDEX を各域 INDEX へ / JapanFG route batch fix / JapanFG 旧路由批量修复",
-        "2026-06-05",
-        "P2 深化（第 2 批・完）— JapanFG 拆分域の残り存根 50 件を実体ページへ深化 / P2 deepening batch 2 (final) / P2 深化第 2 批（完）",
-        "INDEX 件数校正 — root content map の domain 件数を disk 実数へ同期 / INDEX count calibration / INDEX 数量校准"
+        "2026-06-05"
       ],
       "wikilinks": [
         "...",
@@ -781,13 +847,11 @@
         "https://finwiki.zksc.io/leasing-firms/kanematsu-leasing"
       ],
       "markdown_links": [
-        "governance/...",
-        "japanfg-split-design 参照",
-        "origin repository"
+        "governance/..."
       ],
-      "nonspace_chars": 548418,
-      "word_like_tokens": 97881,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 557152,
+      "word_like_tokens": 99418,
+      "last_modified": "2026-06-08"
     },
     {
       "source_path": "HOW-TO-NAVIGATE.md",
@@ -1356,9 +1420,9 @@
         "vercel.json",
         "wiki-link-improvement-plan.md"
       ],
-      "nonspace_chars": 67904,
-      "word_like_tokens": 11967,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 70156,
+      "word_like_tokens": 12351,
+      "last_modified": "2026-06-08"
     },
     {
       "source_path": "SCHEMA.md",
@@ -4773,7 +4837,7 @@
       "title": "auじぶん銀行 (au Jibun Bank)",
       "domain": "banking",
       "entry_type": "wiki_entry",
-      "canonical_anchor": "JapanFG/au-jibun-bank",
+      "canonical_anchor": "regional-banks/au-jibun-bank",
       "summary": "This entry sits under banking index as the operating-profile companion to the entity anchor at auじぶん銀行 (au Jibun Bank) entity anchor; this banking-domain page is the net-bank operating view of that same entity. Read it against 楽天銀行 (Rakuten Bank) for peer / contrast context and Cooperative banking i",
       "headings": [
         "auじぶん銀行 (au Jibun Bank)",
@@ -4805,9 +4869,9 @@
         "https://finwiki.zksc.io/regional-banks/ssnb"
       ],
       "markdown_links": [],
-      "nonspace_chars": 1689,
-      "word_like_tokens": 284,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 1696,
+      "word_like_tokens": 285,
+      "last_modified": "2026-06-08"
     },
     {
       "source_path": "banking/baas-japan-landscape.md",
@@ -5047,7 +5111,7 @@
       "title": "Daiwa Next Bank operating profile (大和ネクスト銀行)",
       "domain": "banking",
       "entry_type": "wiki_entry",
-      "canonical_anchor": "JapanFG/daiwa-next-bank",
+      "canonical_anchor": "regional-banks/daiwa-next-bank",
       "summary": "This entry sits under banking index as the operating-profile companion to the entity anchor at 大和ネクスト銀行 entity anchor. Read it within the segment map at Japan net bank competition map, with parent context at Daiwa Securities Group and the to-be-consolidated Orix Bank page, against the securities-adj",
       "headings": [
         "Daiwa Next Bank operating profile (大和ネクスト銀行)",
@@ -5110,9 +5174,9 @@
         "https://finwiki.zksc.io/trust-banks/orix-bank"
       ],
       "markdown_links": [],
-      "nonspace_chars": 11359,
-      "word_like_tokens": 1793,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 11366,
+      "word_like_tokens": 1794,
+      "last_modified": "2026-06-08"
     },
     {
       "source_path": "banking/foreign-bank-japan-retreat.md",
@@ -5233,7 +5297,7 @@
       "title": "GMO Aozora Net Bank operating profile (GMO あおぞらネット銀行)",
       "domain": "banking",
       "entry_type": "wiki_entry",
-      "canonical_anchor": "JapanFG/gmo-aozora-net",
+      "canonical_anchor": "payment-firms/gmo-aozora-net",
       "summary": "This entry sits under banking index as the operating-profile companion to the entity anchor at GMO あおぞらネット銀行 entity anchor. Read it within the segment map at Japan net bank competition map, against the corporate-API peer 住信SBIネット銀行 / NEOBANK and the consumer-led net-bank cohort Rakuten Bank · PayPay",
       "headings": [
         "GMO Aozora Net Bank operating profile (GMO あおぞらネット銀行)",
@@ -5302,9 +5366,9 @@
         "https://finwiki.zksc.io/securities-firms/gmo-click-securities"
       ],
       "markdown_links": [],
-      "nonspace_chars": 11631,
-      "word_like_tokens": 1849,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 11637,
+      "word_like_tokens": 1850,
+      "last_modified": "2026-06-08"
     },
     {
       "source_path": "banking/ja-bank-system-japan.md",
@@ -7260,7 +7324,7 @@
       "title": "Sony Bank operating profile (ソニー銀行)",
       "domain": "banking",
       "entry_type": "wiki_entry",
-      "canonical_anchor": "JapanFG/sony-bank",
+      "canonical_anchor": "regional-banks/sony-bank",
       "summary": "This entry sits under banking index as the operating-profile companion to the entity anchor at ソニー銀行 (Sony Bank) entity anchor. Read it inside the net-bank-segment map at Japan net bank competition map, with the parent-group context at Sony Financial Group, and against peers Rakuten Bank · PayPay Ba",
       "headings": [
         "Sony Bank operating profile (ソニー銀行)",
@@ -7315,9 +7379,9 @@
         "https://finwiki.zksc.io/securities-firms/sbi-securities"
       ],
       "markdown_links": [],
-      "nonspace_chars": 8311,
-      "word_like_tokens": 1368,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 8318,
+      "word_like_tokens": 1369,
+      "last_modified": "2026-06-08"
     },
     {
       "source_path": "banking/trust-bank-custody-operating-comparison.md",
@@ -7474,7 +7538,7 @@
       "title": "UI Bank operating profile (UI銀行 / きらぼし FG 系)",
       "domain": "banking",
       "entry_type": "wiki_entry",
-      "canonical_anchor": "JapanFG/ui-bank",
+      "canonical_anchor": "regional-banks/ui-bank",
       "summary": "This entry sits under banking index as the operating-profile companion to the entity anchor at UI銀行 entity anchor. Read it within the segment map at Japan net bank competition map, next to the regional-digital-bank peers Minna Bank BaaS model · 01 Bank, with the parent context at 東京きらぼし FG and きらぼし銀",
       "headings": [
         "UI Bank operating profile (UI銀行 / きらぼし FG 系)",
@@ -7537,9 +7601,9 @@
         "https://finwiki.zksc.io/regional-banks/ui-bank"
       ],
       "markdown_links": [],
-      "nonspace_chars": 9069,
-      "word_like_tokens": 1532,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 9076,
+      "word_like_tokens": 1533,
+      "last_modified": "2026-06-08"
     },
     {
       "source_path": "business/INDEX.md",
@@ -42723,9 +42787,9 @@
         "https://finwiki.zksc.io/wiki-link-improvement-plan"
       ],
       "markdown_links": [],
-      "nonspace_chars": 13282,
-      "word_like_tokens": 2294,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 13412,
+      "word_like_tokens": 2309,
+      "last_modified": "2026-06-08"
     },
     {
       "source_path": "insurance/INDEX.md",
@@ -43675,7 +43739,7 @@
       "title": "JA Kyosai / Zenkyoren overview",
       "domain": "insurance",
       "entry_type": "wiki_entry",
-      "canonical_anchor": "JapanFG/ja-kyosairen",
+      "canonical_anchor": "non-life-insurers/ja-kyosairen",
       "summary": "JA共済 / 全共連 (Zenkyoren — 全国共済農業協同組合連合会) is the federated cooperative insurance underwriter of Japan's agricultural cooperative (JA / 農協) movement, and by reserve / asset scale is the largest non-FSA-supervised insurance entity in Japan. It writes a full kyosai (共済) product line — life-equivalent (who",
       "headings": [
         "JA Kyosai / Zenkyoren overview",
@@ -43732,9 +43796,9 @@
         "https://finwiki.zksc.io/non-life-insurers/ja-kyosairen"
       ],
       "markdown_links": [],
-      "nonspace_chars": 13371,
-      "word_like_tokens": 2115,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 13381,
+      "word_like_tokens": 2117,
+      "last_modified": "2026-06-08"
     },
     {
       "source_path": "insurance/japan-bancassurance-distribution-overlay-matrix.md",
@@ -44814,7 +44878,7 @@
       "title": "Kampo / Japan Post Insurance",
       "domain": "insurance",
       "entry_type": "wiki_entry",
-      "canonical_anchor": "JapanFG/kampo-life",
+      "canonical_anchor": "life-insurers/kampo-life",
       "summary": "かんぽ生命保険 (Japan Post Insurance Co., Ltd.; TSE Prime 7181) is one of the largest life-insurance balance sheets in Japan by reserve and asset scale, originated as the postal-savings-era national insurance scheme (郵便貯金 / 簡易保険 / \"Kanpo\") and now a publicly listed subsidiary inside the Japan Post Holdings",
       "headings": [
         "Kampo / Japan Post Insurance",
@@ -44875,9 +44939,9 @@
         "https://finwiki.zksc.io/regional-banks/japan-post-bank"
       ],
       "markdown_links": [],
-      "nonspace_chars": 13377,
-      "word_like_tokens": 2203,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 13383,
+      "word_like_tokens": 2204,
+      "last_modified": "2026-06-08"
     },
     {
       "source_path": "insurance/life-insurance-channel-mix.md",
@@ -45267,8 +45331,8 @@
       "title": "Saison Automobile & Fire / SOMPO Direct",
       "domain": "insurance",
       "entry_type": "wiki_entry",
-      "canonical_anchor": "JapanFG/saison-automobile-fire-insurance",
-      "summary": "This entry sits under insurance index. The canonical entity anchor for this insurer is its JapanFG entity page; this insurance-domain page is the direct non-life / auto-insurance view of that same entity. Read it against Nat-cat reinsurance in Japan for peer / contrast context and insurance INDEX fo",
+      "canonical_anchor": "non-life-insurers/saison-automobile-fire-insurance",
+      "summary": "This entry sits under insurance index. The canonical entity anchor for this insurer is its non-life-insurers entity page; this insurance-domain page is the direct non-life / auto-insurance view of that same entity. Read it against Nat-cat reinsurance in Japan for peer / contrast context and insuranc",
       "headings": [
         "Saison Automobile & Fire / SOMPO Direct",
         "Wiki route",
@@ -45300,9 +45364,9 @@
         "https://finwiki.zksc.io/non-life-insurers/sompo"
       ],
       "markdown_links": [],
-      "nonspace_chars": 3094,
-      "word_like_tokens": 494,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 3114,
+      "word_like_tokens": 498,
+      "last_modified": "2026-06-08"
     },
     {
       "source_path": "insurance/sony-life-group-life-operating-model.md",
@@ -45311,7 +45375,7 @@
       "title": "Sony Life group-life and Lifeplanner operating model",
       "domain": "insurance",
       "entry_type": "wiki_entry",
-      "canonical_anchor": "JapanFG/sony-life",
+      "canonical_anchor": "life-insurers/sony-life",
       "summary": "This entry sits under insurance index and is the channel / operating-model deep dive for Sony Life. Read it together with life insurance channel mix for the macro framing of agent vs bancassurance vs direct, with Japan life big four for the traditional sales-agency contrast, with internet life busin",
       "headings": [
         "Sony Life group-life and Lifeplanner operating model",
@@ -45378,9 +45442,9 @@
         "https://finwiki.zksc.io/megabanks/sony-fg"
       ],
       "markdown_links": [],
-      "nonspace_chars": 19050,
-      "word_like_tokens": 3006,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 19056,
+      "word_like_tokens": 3007,
+      "last_modified": "2026-06-08"
     },
     {
       "source_path": "leasing-firms/INDEX.md",
@@ -50936,7 +51000,7 @@
       "title": "Sony Group Finance Arm (ソニーグループ 金融事業アーム)",
       "domain": "manufacturer-finance",
       "entry_type": "wiki_entry",
-      "canonical_anchor": "JapanFG/sony-fg",
+      "canonical_anchor": "megabanks/sony-fg",
       "summary": "This entry sits under manufacturing index. Read it against Hitachi industrial finance, Panasonic captive finance, Toyota Financial Services, and MHI 輸出金融 for peer industrial-conglomerate finance arms. Pair with ソニーフィナンシャルグループ (SFG) for the entity profile, Sony FG partial spinoff case for the 2025 ca",
       "headings": [
         "Sony Group Finance Arm (ソニーグループ 金融事業アーム)",
@@ -50979,9 +51043,9 @@
         "https://finwiki.zksc.io/regional-banks/sony-bank"
       ],
       "markdown_links": [],
-      "nonspace_chars": 5471,
+      "nonspace_chars": 5473,
       "word_like_tokens": 896,
-      "last_modified": "2026-06-06"
+      "last_modified": "2026-06-08"
     },
     {
       "source_path": "manufacturer-finance/toyota-financial-services.md",
@@ -50990,7 +51054,7 @@
       "title": "Toyota Financial Services (トヨタファイナンシャルサービス 製造業視点アンカー)",
       "domain": "manufacturer-finance",
       "entry_type": "wiki_entry",
-      "canonical_anchor": "JapanFG/toyota-financial",
+      "canonical_anchor": "leasing-firms/toyota-financial",
       "summary": "This entry sits under manufacturing index and complements Toyota Financial Services (JapanFG entity profile) and トヨタファイナンス (国内オペレーティング会社). The manufacturing entry exists to look at TFS from the parent OEM's manufacturing/strategy perspective: how Toyota uses the largest auto captive finance in the w",
       "headings": [
         "Toyota Financial Services (トヨタファイナンシャルサービス 製造業視点アンカー)",
@@ -51043,9 +51107,9 @@
         "https://finwiki.zksc.io/trading-company-finance/toyota-tsusho-finance"
       ],
       "markdown_links": [],
-      "nonspace_chars": 7282,
-      "word_like_tokens": 1130,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 7288,
+      "word_like_tokens": 1131,
+      "last_modified": "2026-06-08"
     },
     {
       "source_path": "manufacturer-finance/toyota-motor.md",
@@ -76219,9 +76283,9 @@
       "wikilinks": [],
       "resolved_wikilinks": [],
       "markdown_links": [],
-      "nonspace_chars": 4510,
-      "word_like_tokens": 814,
-      "last_modified": "2026-06-03"
+      "nonspace_chars": 4582,
+      "word_like_tokens": 826,
+      "last_modified": "2026-06-07"
     },
     {
       "source_path": "releases/v2026.06.03-12.md",
@@ -76247,9 +76311,9 @@
       "wikilinks": [],
       "resolved_wikilinks": [],
       "markdown_links": [],
-      "nonspace_chars": 4973,
-      "word_like_tokens": 918,
-      "last_modified": "2026-06-03"
+      "nonspace_chars": 5009,
+      "word_like_tokens": 924,
+      "last_modified": "2026-06-07"
     },
     {
       "source_path": "releases/v2026.06.03-13.md",
@@ -76275,9 +76339,9 @@
       "wikilinks": [],
       "resolved_wikilinks": [],
       "markdown_links": [],
-      "nonspace_chars": 4492,
-      "word_like_tokens": 794,
-      "last_modified": "2026-06-03"
+      "nonspace_chars": 4528,
+      "word_like_tokens": 800,
+      "last_modified": "2026-06-07"
     },
     {
       "source_path": "releases/v2026.06.03-2.md",
@@ -76561,9 +76625,9 @@
       "wikilinks": [],
       "resolved_wikilinks": [],
       "markdown_links": [],
-      "nonspace_chars": 4063,
-      "word_like_tokens": 723,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 4099,
+      "word_like_tokens": 729,
+      "last_modified": "2026-06-07"
     },
     {
       "source_path": "releases/v2026.06.04-2.md",
@@ -76589,9 +76653,9 @@
       "wikilinks": [],
       "resolved_wikilinks": [],
       "markdown_links": [],
-      "nonspace_chars": 7360,
-      "word_like_tokens": 1307,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 7396,
+      "word_like_tokens": 1313,
+      "last_modified": "2026-06-07"
     },
     {
       "source_path": "releases/v2026.06.04-3.md",
@@ -76617,9 +76681,9 @@
       "wikilinks": [],
       "resolved_wikilinks": [],
       "markdown_links": [],
-      "nonspace_chars": 7215,
-      "word_like_tokens": 1315,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 7461,
+      "word_like_tokens": 1351,
+      "last_modified": "2026-06-07"
     },
     {
       "source_path": "releases/v2026.06.04-4.md",
@@ -76655,9 +76719,9 @@
         "https://finwiki.zksc.io/JapanFG/…"
       ],
       "markdown_links": [],
-      "nonspace_chars": 7147,
-      "word_like_tokens": 1304,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 7195,
+      "word_like_tokens": 1310,
+      "last_modified": "2026-06-07"
     },
     {
       "source_path": "releases/v2026.06.04-5.md",
@@ -76807,9 +76871,9 @@
       "wikilinks": [],
       "resolved_wikilinks": [],
       "markdown_links": [],
-      "nonspace_chars": 2846,
-      "word_like_tokens": 504,
-      "last_modified": "2026-06-05"
+      "nonspace_chars": 2918,
+      "word_like_tokens": 516,
+      "last_modified": "2026-06-07"
     },
     {
       "source_path": "releases/v2026.06.05-5.md",
@@ -76880,6 +76944,34 @@
       "nonspace_chars": 5805,
       "word_like_tokens": 1040,
       "last_modified": "2026-06-06"
+    },
+    {
+      "source_path": "releases/v2026.06.07.md",
+      "url": "https://finwiki.zksc.io/releases/v2026.06.07",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.06.07.md",
+      "title": "開発文書体系の要件・仕様階層化",
+      "domain": "releases",
+      "entry_type": "release_note",
+      "canonical_anchor": "",
+      "summary": "",
+      "headings": [
+        "開発文書体系の要件・仕様階層化",
+        "日本語",
+        "公開範囲",
+        "主要変更",
+        "検証結果",
+        "既知の注意点",
+        "次の作業",
+        "English",
+        "Release Scope",
+        "Major Changes"
+      ],
+      "wikilinks": [],
+      "resolved_wikilinks": [],
+      "markdown_links": [],
+      "nonspace_chars": 11960,
+      "word_like_tokens": 2027,
+      "last_modified": "2026-06-08"
     },
     {
       "source_path": "retail/INDEX.md",
@@ -91899,9 +91991,9 @@
         "https://finwiki.zksc.io/wikilink"
       ],
       "markdown_links": [],
-      "nonspace_chars": 16679,
-      "word_like_tokens": 2806,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 3971,
+      "word_like_tokens": 730,
+      "last_modified": "2026-06-08"
     }
   ]
 }

@@ -17,7 +17,8 @@
 - `CHANGELOG.md` は詳細なタイムラインと作業記録を残します。短い要約だけで済ませてはいけません。最低限、JST 時刻、背景、範囲、主要ファイルまたはディレクトリ、実行手順、検証結果、残タスクを記録します。
 - 明示的に要求されない限り、既存 Markdown の大規模なフォーマット整理は行いません。同期作業では原文の形を優先して保持します。
 - コミット前に `git status --short --branch` を確認し、コミット後は `origin/main` に push してリモート HEAD を確認します。
-- `docs/` ディレクトリは内部開発文書（アーキテクチャ、ツールチェーン、リリース手順、落とし穴集）であり、公開しません。`lib/markdown_helpers.ts` の `EXCLUDED_WALK_DIRS` と `tools/wiki_link_audit.ts` の `IGNORED_DIRS` に登録済みで、corpus（md / entries 計数）、`sitemap.xml` / `llms.txt` / `ai-index.json` / `api/`、Astro サイト、死リンク監査のいずれにも含まれません。この排除を解除してはいけません。`docs/` に wiki 本文を置かず、wiki 本文に開発文書を置きません。
+- `docs/` ディレクトリは内部開発文書（BRD / PRD / ARD / FSD / NFR / RTM、アーキテクチャ、実装、品質、運用）であり、公開 wiki corpus ではありません。`lib/markdown_helpers.ts` の `EXCLUDED_WALK_DIRS` と `tools/wiki_link_audit.ts` の `IGNORED_DIRS` に登録済みで、corpus（md / entries 計数）、`sitemap.xml` / `llms.txt` / `ai-index.json` / `api/`、Astro サイト、死リンク監査のいずれにも含まれません。この排除を解除してはいけません。`docs/` に wiki 本文を置かず、wiki 本文に開発文書を置きません。公開 GitHub repo 上の内部文書なので、密钥、個人情報、顧客情報、非公開会話、内部案件詳細も禁止です。
+- モデル分担は [docs/06-implementation/model-agent-workflow.md](docs/06-implementation/model-agent-workflow.md) に従います。高推論の仕様モデルは要求・仕様・アーキテクチャ・検収・RTM と task packet を担当し、高速コード実装モデルは承認済み task packet の許可ファイルだけを実装します。同時 active subagent は最大 10、完了した subagent は閉じてから次 batch を開始します。
 
 ### English
 
@@ -34,7 +35,8 @@
 - `CHANGELOG.md` must preserve a detailed timeline and work log. A single-sentence summary is not acceptable. At minimum, record JST time, context, scope, primary files or directories, execution steps, validation results, and follow-up tasks.
 - Unless explicitly requested, do not perform large-scale formatting cleanups on existing Markdown. For sync-class commits, preserve original formatting.
 - Before committing, check `git status --short --branch`. After committing, push to `origin/main` and verify the remote HEAD.
-- The `docs/` directory holds internal developer documentation (architecture, toolchain, release process, gotchas) and is NOT published. It is registered in `EXCLUDED_WALK_DIRS` (`lib/markdown_helpers.ts`) and `IGNORED_DIRS` (`tools/wiki_link_audit.ts`), so it is excluded from the corpus (md / entries counts), `sitemap.xml` / `llms.txt` / `ai-index.json` / `api/`, the Astro site, and the dead-link audit. Do not remove this exclusion. Do not place wiki body content under `docs/`, and do not place developer docs in the wiki body.
+- The `docs/` directory holds internal developer documentation (BRD / PRD / ARD / FSD / NFR / RTM, architecture, implementation, quality, and operations) and is NOT part of the public wiki corpus. It is registered in `EXCLUDED_WALK_DIRS` (`lib/markdown_helpers.ts`) and `IGNORED_DIRS` (`tools/wiki_link_audit.ts`), so it is excluded from the corpus (md / entries counts), `sitemap.xml` / `llms.txt` / `ai-index.json` / `api/`, the Astro site, and the dead-link audit. Do not remove this exclusion. Do not place wiki body content under `docs/`, and do not place developer docs in the wiki body. Because this is still a public GitHub repo, `docs/` must not contain secrets, personal information, customer information, non-public conversations, or internal case details.
+- Model role assignment follows [docs/06-implementation/model-agent-workflow.md](docs/06-implementation/model-agent-workflow.md). High-reasoning specification models own requirements, specifications, architecture, acceptance, RTM, and task packets; fast code-implementation models implement only the allowed files in approved task packets. Keep active subagents at 10 or fewer, and close/retire finished subagents before starting the next batch.
 
 ### 中文
 
@@ -51,4 +53,5 @@
 - `CHANGELOG.md` 必须保留详细时间线和工作记录，不允许只写一句概括。至少记录 JST 时间、背景、范围、主要文件或目录、执行步骤、验证结果、后续事项。
 - 除非任务明确要求，不要对既有 Markdown 做大规模格式清理。同步类提交优先保持原文形态。
 - 提交前检查 `git status --short --branch`，提交后推送到 `origin/main`，并确认远端 HEAD。
-- `docs/` 目录是内部开发文档（架构、工具链、发布流程、陷阱集），不对外发布。它已注册进 `lib/markdown_helpers.ts` 的 `EXCLUDED_WALK_DIRS` 与 `tools/wiki_link_audit.ts` 的 `IGNORED_DIRS`，因此不计入 corpus（md / entries 计数），也不进 `sitemap.xml` / `llms.txt` / `ai-index.json` / `api/`、Astro 站点或死链审计。不要移除这个排除。不要把 wiki 正文放进 `docs/`，也不要把开发文档放进 wiki 正文。
+- `docs/` 目录是内部开发文档（BRD / PRD / ARD / FSD / NFR / RTM、架构、实施、质量、运维），不是公开 wiki corpus。它已注册进 `lib/markdown_helpers.ts` 的 `EXCLUDED_WALK_DIRS` 与 `tools/wiki_link_audit.ts` 的 `IGNORED_DIRS`，因此不计入 corpus（md / entries 计数），也不进 `sitemap.xml` / `llms.txt` / `ai-index.json` / `api/`、Astro 站点或死链审计。不要移除这个排除。不要把 wiki 正文放进 `docs/`，也不要把开发文档放进 wiki 正文。由于仓库仍是公开 GitHub repo，`docs/` 也禁止写入密钥、个人信息、客户信息、非公开对话或内部案件细节。
+- 模型分工遵循 [docs/06-implementation/model-agent-workflow.md](docs/06-implementation/model-agent-workflow.md)。高推理规格模型负责需求、规格、架构、验收、RTM 和 task packet；快速代码实现模型只实现已批准 task packet 里的允许文件。active subagent 同时最多 10 个，用完的 subagent 必须关闭/retire 后才能开下一批。

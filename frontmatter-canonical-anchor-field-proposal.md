@@ -59,7 +59,7 @@ canonical_anchor: <domain/slug>
 Semantics:
 
 - **On a mirror page:** `canonical_anchor:` points at the canonical anchor in the **other** domain. The two mirror siblings either both point at one of them (the designated canonical), or both leave the field empty if the mirror pair is symmetric and neither is primary.
-- **On a cross-reference-heavy page:** if a page repeatedly references the same entity that has a canonical anchor elsewhere (for example, [[business/jamie-dimon-anti-crypto-pivot-case]] references JPM extensively), the page may set `canonical_anchor: JapanFG/jpmorgan-japan` to declare that JPMorgan Japan is the canonical anchor for JPM-the-entity. Whether to use the field this way is a stylistic choice.
+- **On a cross-reference-heavy page:** if a page repeatedly references the same entity that has a canonical anchor elsewhere (for example, [[business/jamie-dimon-anti-crypto-pivot-case]] references JPM extensively), the page may set `canonical_anchor: foreign-financial-institutions/jpmorgan-japan` to declare that JPMorgan Japan is the canonical anchor for JPM-the-entity. Whether to use the field this way is a stylistic choice.
 - **On the canonical anchor itself:** `canonical_anchor:` is either omitted or set to the page's own `domain/slug` (self-pointing) to signal "this is the canonical anchor for the entity".
 
 The field is **recommended, not required**. Existing entries do not need to be back-filled in a single sweep.
@@ -72,11 +72,11 @@ The field is **recommended, not required**. Existing entries do not need to be b
 title: Saison Automobile & Fire / SOMPO Direct
 aliases: [saison-automobile-fire, Saison Automobile & Fire, セゾン自動車火災保険, SOMPO Direct]
 domain: insurance
-canonical_anchor: JapanFG/saison-automobile-fire-insurance
+canonical_anchor: non-life-insurers/saison-automobile-fire-insurance
 ...
 ```
 
-`JapanFG/saison-automobile-fire-insurance.md` (the canonical anchor — self-pointing field optional, omitted in the Phase 0 pilot):
+`non-life-insurers/saison-automobile-fire-insurance.md` (the canonical anchor — self-pointing field optional, omitted in the Phase 0 pilot):
 
 ```yaml
 title: セゾン自動車火災保険 / SOMPOダイレクト (Saison Automobile & Fire / SOMPO Direct)
@@ -91,10 +91,10 @@ The choice of which page is canonical is editorial. The Phase 0 adoption designa
 
 | Page | `canonical_anchor:` |
 |---|---|
-| [[foreign-financial-institutions/jpmorgan-japan]] | self (JapanFG/jpmorgan-japan) — this is the canonical anchor for JPM-the-Japan-operating-entity |
+| [[foreign-financial-institutions/jpmorgan-japan]] | self (`foreign-financial-institutions/jpmorgan-japan`) — this is the canonical anchor for JPM-the-Japan-operating-entity |
 | [[fintech/jpmorgan-jpmd-coin]] | self — JPMD is its own entity (a tokenized deposit product) |
 | [[fintech/jpm-onyx-wholesale-network]] | self — Onyx is its own entity |
-| [[business/jamie-dimon-anti-crypto-pivot-case]] | optional `JapanFG/jpmorgan-japan` to note the related-entity backbone |
+| [[business/jamie-dimon-anti-crypto-pivot-case]] | optional `foreign-financial-institutions/jpmorgan-japan` to note the related-entity backbone |
 
 The field is **not** a duplicate-detection mechanism. It declares entity identity, not page equivalence.
 
@@ -111,7 +111,7 @@ The field is **not** a duplicate-detection mechanism. It declares entity identit
 
 - **Maintenance cost.** Every new mirror or cross-product page is one more field to set. Misconfiguration (pointing at a non-existent anchor) becomes a new audit failure mode.
 - **Tooling change required.** `tools/wiki_link_audit.ts` and `tools/generate_ai_discovery.ts` both need extensions. The audit script currently checks body-link density only; entity-edge checks are a new layer of logic.
-- **Ambiguity in cross-product splits.** When JPM-the-group is the entity but each product has its own canonical anchor, the field becomes editorial. Different reviewers may disagree on whether [[fintech/jpmorgan-jpmd-coin]] should set `canonical_anchor: JapanFG/jpmorgan-japan` or leave it self-pointing.
+- **Ambiguity in cross-product splits.** When JPM-the-group is the entity but each product has its own canonical anchor, the field becomes editorial. Different reviewers may disagree on whether [[fintech/jpmorgan-jpmd-coin]] should set `canonical_anchor: foreign-financial-institutions/jpmorgan-japan` or leave it self-pointing.
 - **Risk of overuse.** If reviewers start filling in `canonical_anchor:` on every cross-referenced page, the field stops being a signal for mirror / cross-product pairs and becomes noise.
 
 ### Net assessment
@@ -123,8 +123,8 @@ Tooling cost is modest because both existing tools already parse frontmatter. Ed
 If adopted, migration would be **incremental and opt-in**:
 
 1. **Phase 0 (preparatory). — ADOPTED 2026-06-03.** [[SCHEMA]] now documents `canonical_anchor:` as an optional field: a row in the §"Optional / Legacy Fields" table (Type: string; vault-root path to the single source-of-truth anchor entry for a multi-domain entity or mirror page) plus an entry in the §"Canonical Key Order" block immediately after `related`. The field has been set as a manual pilot on two confirmed mirror pairs, with the **JapanFG operating-company page** designated as the canonical anchor in each case and the other-domain page (the secondary/mirror "view") pointing at it:
-   - [[insurance/saison-automobile-fire]] → `canonical_anchor: JapanFG/saison-automobile-fire-insurance` (the insurance page is the product/channel deep-dive; [[non-life-insurers/saison-automobile-fire-insurance]] is the operating-company anchor).
-   - [[manufacturer-finance/toyota-financial-services]] → `canonical_anchor: JapanFG/toyota-financial` (the manufacturing page is the parent-OEM strategy view; [[leasing-firms/toyota-financial]] is the entity profile / operating-company anchor).
+   - [[insurance/saison-automobile-fire]] → `canonical_anchor: non-life-insurers/saison-automobile-fire-insurance` (the insurance page is the product/channel deep-dive; [[non-life-insurers/saison-automobile-fire-insurance]] is the operating-company anchor).
+   - [[manufacturer-finance/toyota-financial-services]] → `canonical_anchor: leasing-firms/toyota-financial` (the manufacturing page is the parent-OEM strategy view; [[leasing-firms/toyota-financial]] is the entity profile / operating-company anchor).
 
    Still outstanding from this phase: updating [[entity-mirror-page-policy]] §7 to recommend setting the field on every confirmed mirror pair, and [[cross-domain-anchor-convention]] §6 to mention the field. No code changes were made (`tools/*` untouched).
 2. **Phase 1 (audit-only).** Extend `tools/wiki_link_audit.ts` to:
