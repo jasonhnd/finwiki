@@ -87,8 +87,6 @@
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/consumer-finance/acom",
       "https://finwiki.zksc.io/consumer-finance/aiful",
-      "https://finwiki.zksc.io/finance/issb",
-      "https://finwiki.zksc.io/finance/ssbj",
       "https://finwiki.zksc.io/financial-regulators/INDEX",
       "https://finwiki.zksc.io/financial-regulators/boj",
       "https://finwiki.zksc.io/financial-regulators/dic",
@@ -102,14 +100,11 @@
       "https://finwiki.zksc.io/financial-regulators/rating-and-investment",
       "https://finwiki.zksc.io/financial-regulators/seimei-hokensha-hogo-kiko",
       "https://finwiki.zksc.io/financial-regulators/sonpo-hosho-kiko",
-      "https://finwiki.zksc.io/life-insurers/dai-ichi-life-hd",
       "https://finwiki.zksc.io/life-insurers/kampo-life",
-      "https://finwiki.zksc.io/megabanks/line-pay",
       "https://finwiki.zksc.io/megabanks/mizuho-bank",
       "https://finwiki.zksc.io/megabanks/mufg-bank",
       "https://finwiki.zksc.io/megabanks/resona-hd",
       "https://finwiki.zksc.io/megabanks/smbc",
-      "https://finwiki.zksc.io/non-life-insurers/tokio-marine-hd",
       "https://finwiki.zksc.io/payment-firms/bitflyer",
       "https://finwiki.zksc.io/payment-firms/gmo-coin",
       "https://finwiki.zksc.io/payment-firms/paypay",
@@ -123,7 +118,7 @@
   "metrics": {
     "nonspace_chars": 4694,
     "word_like_tokens": 682,
-    "inbound_wikilinks_count": 142,
+    "inbound_wikilinks_count": 143,
     "last_modified": "2026-06-06"
   }
 }

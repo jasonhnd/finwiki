@@ -76,16 +76,12 @@
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/card-issuers/credit-saison",
       "https://finwiki.zksc.io/insurance/INDEX",
-      "https://finwiki.zksc.io/insurance/axa-direct",
-      "https://finwiki.zksc.io/insurance/mitsui-direct",
-      "https://finwiki.zksc.io/insurance/saa",
+      "https://finwiki.zksc.io/non-life-insurers/mitsui-direct",
       "https://finwiki.zksc.io/insurance/saison-automobile-fire",
-      "https://finwiki.zksc.io/insurance/sompo-himawari-life",
-      "https://finwiki.zksc.io/insurance/sony-assurance",
+      "https://finwiki.zksc.io/life-insurers/sompo-himawari-life",
       "https://finwiki.zksc.io/megabanks/sony-fg",
       "https://finwiki.zksc.io/non-life-insurers/INDEX",
-      "https://finwiki.zksc.io/non-life-insurers/sompo",
-      "https://finwiki.zksc.io/non-life-insurers/sompo-japan"
+      "https://finwiki.zksc.io/non-life-insurers/sompo"
     ],
     "external_links_count": 0,
     "external_links": []

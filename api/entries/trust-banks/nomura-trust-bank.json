@@ -85,15 +85,10 @@
       "https://finwiki.zksc.io/megabanks/mufg",
       "https://finwiki.zksc.io/regional-banks/daiwa-next-bank",
       "https://finwiki.zksc.io/regional-banks/sbi-shinsei-bank",
-      "https://finwiki.zksc.io/securities-firms/daiwa-securities-group",
       "https://finwiki.zksc.io/securities-firms/nomura-hd",
-      "https://finwiki.zksc.io/securities-firms/nomura-securities",
       "https://finwiki.zksc.io/securities/INDEX",
       "https://finwiki.zksc.io/trust-banks/INDEX",
-      "https://finwiki.zksc.io/trust-banks/japan-trustee-services-bank",
-      "https://finwiki.zksc.io/trust-banks/master-trust-bank-of-japan",
       "https://finwiki.zksc.io/trust-banks/mitsubishi-ufj-trust-bank",
-      "https://finwiki.zksc.io/trust-banks/mizuho-trust-banking",
       "https://finwiki.zksc.io/trust-banks/sbi-shinsei-trust-bank",
       "https://finwiki.zksc.io/trust-banks/sumitomo-mitsui-trust"
     ],
@@ -103,7 +98,7 @@
   "metrics": {
     "nonspace_chars": 4725,
     "word_like_tokens": 763,
-    "inbound_wikilinks_count": 5,
+    "inbound_wikilinks_count": 6,
     "last_modified": "2026-06-06"
   }
 }

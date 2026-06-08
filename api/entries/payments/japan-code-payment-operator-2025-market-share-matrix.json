@@ -130,36 +130,23 @@
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
       "https://finwiki.zksc.io/card-issuers/mufg-nicos",
-      "https://finwiki.zksc.io/card-issuers/mufg-nicos\\",
       "https://finwiki.zksc.io/card-issuers/paypay-card",
-      "https://finwiki.zksc.io/card-issuers/paypay-card\\",
       "https://finwiki.zksc.io/card-issuers/rakuten-card",
-      "https://finwiki.zksc.io/card-issuers/rakuten-card\\",
       "https://finwiki.zksc.io/loyalty/japan-points-landscape",
       "https://finwiki.zksc.io/megabanks/au-fh",
-      "https://finwiki.zksc.io/megabanks/au-fh\\",
       "https://finwiki.zksc.io/megabanks/mizuho-fg",
-      "https://finwiki.zksc.io/megabanks/mizuho-fg\\",
       "https://finwiki.zksc.io/megabanks/ndfg",
-      "https://finwiki.zksc.io/megabanks/ndfg\\",
       "https://finwiki.zksc.io/megabanks/paypay-fg",
-      "https://finwiki.zksc.io/megabanks/paypay-fg\\",
       "https://finwiki.zksc.io/payment-firms/au-payment",
-      "https://finwiki.zksc.io/payment-firms/au-payment\\",
       "https://finwiki.zksc.io/payment-firms/dg-financial-technology",
       "https://finwiki.zksc.io/payment-firms/famima-digital-one",
-      "https://finwiki.zksc.io/payment-firms/famima-digital-one\\",
       "https://finwiki.zksc.io/payment-firms/gmo-payment-gateway",
       "https://finwiki.zksc.io/payment-firms/mercari-hd",
-      "https://finwiki.zksc.io/payment-firms/mercari-hd\\",
       "https://finwiki.zksc.io/payment-firms/merpay",
-      "https://finwiki.zksc.io/payment-firms/merpay\\",
       "https://finwiki.zksc.io/payment-firms/netstars",
       "https://finwiki.zksc.io/payment-firms/paypay",
-      "https://finwiki.zksc.io/payment-firms/paypay\\",
       "https://finwiki.zksc.io/payment-firms/rakuten-edy",
       "https://finwiki.zksc.io/payment-firms/rakuten-fg",
-      "https://finwiki.zksc.io/payment-firms/rakuten-fg\\",
       "https://finwiki.zksc.io/payment-firms/sb-payment-service",
       "https://finwiki.zksc.io/payment-firms/seven-payment-service",
       "https://finwiki.zksc.io/payments/INDEX",
@@ -174,8 +161,7 @@
       "https://finwiki.zksc.io/payments/japan-prepaid-electronic-money-operator-matrix",
       "https://finwiki.zksc.io/payments/prepaid-payment-instrument-issuers-japan-index",
       "https://finwiki.zksc.io/payments/visa-mastercard-amex-jcb-japan-operating-comparison",
-      "https://finwiki.zksc.io/regional-banks/yucho",
-      "https://finwiki.zksc.io/regional-banks/yucho\\"
+      "https://finwiki.zksc.io/regional-banks/yucho"
     ],
     "external_links_count": 0,
     "external_links": []
@@ -183,7 +169,7 @@
   "metrics": {
     "nonspace_chars": 28189,
     "word_like_tokens": 4809,
-    "inbound_wikilinks_count": 10,
+    "inbound_wikilinks_count": 11,
     "last_modified": "2026-06-04"
   }
 }

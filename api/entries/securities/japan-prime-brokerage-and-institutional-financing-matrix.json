@@ -160,19 +160,14 @@
       "https://finwiki.zksc.io/life-insurers/dai-ichi-life",
       "https://finwiki.zksc.io/life-insurers/sumitomo-life",
       "https://finwiki.zksc.io/megabanks/mizuho-fg",
-      "https://finwiki.zksc.io/megabanks/mizuho-fg\\",
       "https://finwiki.zksc.io/megabanks/mufg",
-      "https://finwiki.zksc.io/megabanks/sbi-hd\\",
       "https://finwiki.zksc.io/megabanks/smfg",
-      "https://finwiki.zksc.io/megabanks/smfg\\",
       "https://finwiki.zksc.io/securities-firms/daiwa-sg",
-      "https://finwiki.zksc.io/securities-firms/daiwa-sg\\",
       "https://finwiki.zksc.io/securities-firms/goldman-sachs-japan",
       "https://finwiki.zksc.io/securities-firms/mizuho-securities",
       "https://finwiki.zksc.io/securities-firms/morgan-stanley-japan",
       "https://finwiki.zksc.io/securities-firms/mufg-mums",
       "https://finwiki.zksc.io/securities-firms/nomura-hd",
-      "https://finwiki.zksc.io/securities-firms/nomura-hd\\",
       "https://finwiki.zksc.io/securities-firms/sbi-securities",
       "https://finwiki.zksc.io/securities-firms/smbc-nikko",
       "https://finwiki.zksc.io/securities/INDEX",
@@ -202,7 +197,7 @@
   "metrics": {
     "nonspace_chars": 38567,
     "word_like_tokens": 5992,
-    "inbound_wikilinks_count": 7,
+    "inbound_wikilinks_count": 8,
     "last_modified": "2026-06-04"
   }
 }

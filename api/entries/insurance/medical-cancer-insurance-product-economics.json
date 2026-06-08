@@ -93,7 +93,6 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
-      "https://finwiki.zksc.io/JapanFG/aflac",
       "https://finwiki.zksc.io/financial-regulators/fsa",
       "https://finwiki.zksc.io/insurance/INDEX",
       "https://finwiki.zksc.io/insurance/bancassurance-economics-japan",
@@ -106,17 +105,14 @@
       "https://finwiki.zksc.io/insurance/japan-nonlife-big-three",
       "https://finwiki.zksc.io/insurance/life-insurance-channel-mix",
       "https://finwiki.zksc.io/life-insurers/aflac-japan",
-      "https://finwiki.zksc.io/life-insurers/aia",
       "https://finwiki.zksc.io/life-insurers/aia-life-japan",
       "https://finwiki.zksc.io/life-insurers/lifenet",
       "https://finwiki.zksc.io/life-insurers/metlife-japan",
       "https://finwiki.zksc.io/life-insurers/prudential-japan",
       "https://finwiki.zksc.io/life-insurers/sompo-himawari-life",
       "https://finwiki.zksc.io/life-insurers/tokio-marine-nichido-life",
-      "https://finwiki.zksc.io/non-life-insurers/ms-ad",
       "https://finwiki.zksc.io/non-life-insurers/sompo",
-      "https://finwiki.zksc.io/non-life-insurers/tokio-marine-direct",
-      "https://finwiki.zksc.io/non-life-insurers/tokio-marine-holdings"
+      "https://finwiki.zksc.io/non-life-insurers/tokio-marine-direct"
     ],
     "external_links_count": 0,
     "external_links": []

@@ -124,19 +124,13 @@
       "https://finwiki.zksc.io/financial-licenses/securities-license-stack",
       "https://finwiki.zksc.io/fintech/blackrock-buidl-tokenized-mmf-overview",
       "https://finwiki.zksc.io/life-insurers/dai-ichi-life",
-      "https://finwiki.zksc.io/life-insurers/meiji-yasuda-life",
-      "https://finwiki.zksc.io/life-insurers/nippon-life-insurance",
       "https://finwiki.zksc.io/life-insurers/sumitomo-life",
-      "https://finwiki.zksc.io/life-insurers/t-and-d-hd",
       "https://finwiki.zksc.io/megabanks/mizuho-fg",
       "https://finwiki.zksc.io/megabanks/mufg",
       "https://finwiki.zksc.io/megabanks/sbi-hd",
       "https://finwiki.zksc.io/megabanks/smfg",
-      "https://finwiki.zksc.io/payment-firms/rakuten-group",
       "https://finwiki.zksc.io/securities-firms/daiwa-sg",
-      "https://finwiki.zksc.io/securities-firms/monex-asset-management",
       "https://finwiki.zksc.io/securities-firms/monex-group",
-      "https://finwiki.zksc.io/securities-firms/monex-securities",
       "https://finwiki.zksc.io/securities-firms/nomura-hd",
       "https://finwiki.zksc.io/securities-firms/rakuten-securities",
       "https://finwiki.zksc.io/securities-firms/sbi-securities",
@@ -155,7 +149,7 @@
   "metrics": {
     "nonspace_chars": 19477,
     "word_like_tokens": 3121,
-    "inbound_wikilinks_count": 17,
+    "inbound_wikilinks_count": 18,
     "last_modified": "2026-06-04"
   }
 }
