@@ -8,6 +8,7 @@ const ROOT = path.resolve(import.meta.dir, "..");
 
 const IGNORED_DIRS = new Set([
   ".git",
+  ".github",
   ".templates",
   ".opinions",
   "docs",

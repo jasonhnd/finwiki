@@ -31,6 +31,21 @@
 
 ## 2026-06-08 (In progress)
 
+### GitHub-Issue 運用モデル + issue テンプレート (#12 / #11) / GitHub-Issue operating model + templates / GitHub-Issue 运营模型与模板
+
+#### 日本語記録 / English / 中文
+
+- **JST 時刻**: 2026-06-09 JST。
+- **背景**: [Issue #12](https://github.com/jasonhnd/finwiki/issues/12) (p0) + [Issue #11](https://github.com/jasonhnd/finwiki/issues/11)(GitHub-Issue Operating Model milestone)。開発を GitHub Issues 駆動として正式化し、再利用可能な issue テンプレートを追加した。
+- **範囲**: `docs/06-implementation/model-agent-workflow.md`(GitHub-Issue Operating Model 節)、`AGENTS.md`(三語ルール 1 条)、`docs/00-governance/documentation-system.md` / `docs/07-quality/qa-checklist.md`(pointer / closeout 項目)、`.github/ISSUE_TEMPLATE/{implementation,docs-spec,uiux,content,release-incident}.md` + `config.yml`、`lib/markdown_helpers.ts` + `tools/wiki_link_audit.ts`(`.github` を dual-exclusion へ追加)、`CHANGELOG.md`。
+- **#12 主要変更**: いつ issue を立てるか / どう scope するか(goal・scope・allowed-files・acceptance・validation・release-note-impact) / issue 種別(planning・implementation・content・UI/UX・release-incident) / evidence 付きで close する手順 / 緊急ローカル診断は issue 不要、を明文化。
+- **#11 主要変更**: 5 種の issue テンプレート(各 scope・allowed-files・acceptance・validation・release-note-impact を要求)+ `config.yml`(operating model への contact link)。
+- **注意点**: テンプレートは `.md` だが `.github` は corpus / 監査対象外であるべき。追加直後 entries が 1485→1490・link audit issues=5 に汚染されたため、`EXCLUDED_WALK_DIRS` と `IGNORED_DIRS` に `.github` を追加(dual-exclusion、gotchas #5)。これで entries=1485 / issues=0 を回復。
+- **検証結果**: `release.ts --check --strict` EXIT=0、`wiki_link_audit --fail-on-issues` issues=0、`docs:stale` / `docs:audit` EXIT=0、`git diff --check` EXIT=0。
+- **残タスク**: なし。Issue #12 / #11 クローズ。Phase A–D + GitHub-Issue Operating Model の agent-ready issue が一通り完了。
+- **EN**: Formalized GitHub-Issue-driven development ([#12](https://github.com/jasonhnd/finwiki/issues/12), p0) and added reusable issue templates ([#11](https://github.com/jasonhnd/finwiki/issues/11)). **#12**: added a "GitHub-Issue Operating Model" section to `model-agent-workflow.md` (when to create an issue, how to scope it — goal/scope/allowed-files/acceptance/validation/release-note-impact —, issue types planning/implementation/content/UI-UX/release-incident, how agents close with evidence, and the emergency-local-diagnostics exception); a trilingual rule in `AGENTS.md`; a pointer in `documentation-system.md`; and a closeout item in `qa-checklist.md`. **#11**: five `.github/ISSUE_TEMPLATE/*.md` templates (each requiring scope, allowed files, acceptance criteria, validation commands, release-note impact) plus `config.yml`. **Note**: the templates are `.md` but `.github` must stay out of the corpus/audit — adding them polluted entries (1485→1490) and link-audit issues (0→5), so `.github` was added to `EXCLUDED_WALK_DIRS` and `IGNORED_DIRS` (dual-exclusion, gotchas #5), restoring entries=1485 / issues=0. Validated: `release.ts --check --strict`, `wiki_link_audit`, `docs:stale`, `docs:audit`, `git diff --check` all EXIT 0.
+- **中文**: 把"开发由 GitHub Issues 驱动"正式化（[#12](https://github.com/jasonhnd/finwiki/issues/12)，p0）并新增可重用 issue 模板（[#11](https://github.com/jasonhnd/finwiki/issues/11)）。**#12**：在 `model-agent-workflow.md` 增加 "GitHub-Issue Operating Model" 节（何时建 issue、如何 scope——goal/scope/allowed-files/acceptance/validation/release-note-impact、issue 类型 planning/implementation/content/UI-UX/release-incident、如何带证据关闭、紧急本地诊断豁免）；在 `AGENTS.md` 增加三语规则；在 `documentation-system.md` 加指针；在 `qa-checklist.md` 加关闭项。**#11**：五个 `.github/ISSUE_TEMPLATE/*.md` 模板（各要求 scope、允许文件、验收标准、验证命令、release-note 影响）加 `config.yml`。**注意**：模板是 `.md`，但 `.github` 必须排除在 corpus/审计之外——加入后 entries 被污染（1485→1490）、链接审计 issues（0→5），因此把 `.github` 加进 `EXCLUDED_WALK_DIRS` 与 `IGNORED_DIRS`（双重排除，gotchas #5），恢复 entries=1485 / issues=0。已验证：`release.ts --check --strict`、`wiki_link_audit`、`docs:stale`、`docs:audit`、`git diff --check` 均 EXIT 0。
+
 ### Phase D 運用ドキュメント整備 (#6 / #7) / Phase D deployment runbook + incident playbooks / Phase D 运维文档完善
 
 #### 日本語記録 / English / 中文

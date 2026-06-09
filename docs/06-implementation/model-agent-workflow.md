@@ -18,6 +18,47 @@
 - 用户明确要求人工主会话直接完成小修，且不需要拆分给代码 agent。
 - 紧急修复中没有时间拆分任务包；这种情况事后仍要补齐 changelog / release note / RTM。
 
+## GitHub-Issue Operating Model
+
+FinWiki development is driven by GitHub Issues. Each non-trivial change starts as an issue and is closed with evidence; the issue — not chat history — is the source of truth for what was in scope and how it was validated.
+
+### When to create an issue
+
+- Any planned change to tooling, the site, the release gate, the i18n pipeline, search, the wikilink audit, generated surfaces, or developer docs.
+- Any content batch (new entries, dedup, domain expansion) or UI/UX change.
+- Any release or incident that needs a recorded scope and closeout.
+- Not required for a single read-only check, a trivial maintainer-only fix the user asked for directly, or emergency local diagnostics — unless the user wants an issue. Emergency fixes still backfill `CHANGELOG.md` / release note / RTM afterward.
+
+### How to scope an issue
+
+Every issue states, before work starts:
+
+- **Goal** — one concrete outcome.
+- **Scope and non-goals**.
+- **Allowed files / areas** (and forbidden ones where useful).
+- **Acceptance criteria** — observable and checkable.
+- **Validation** — the exact repo commands that must pass.
+- **Release-note impact** — whether `README.md` / `CHANGELOG.md` / `releases/` must change.
+
+### Issue types
+
+| Type | Drives | Typical allowed files |
+|---|---|---|
+| Planning / governance | Operating rules, specs, roadmap | `docs/**`, `AGENTS.md` |
+| Implementation (tooling/site) | Code + config | `tools/**`, `lib/**`, `site/**`, `package.json` |
+| Content | Wiki corpus entries | `<domain>/**`, `INDEX.md`, release surface |
+| UI/UX | Site theme / layout / tokens | `site/src/**`, theme tokens |
+| Release / incident | Publish + recovery | `docs/08-operations/**`, runbooks |
+
+### How agents close an issue
+
+- Reference the implementing commit(s).
+- Map each acceptance criterion to evidence (command + exit status, or the diff).
+- Record the validation bundle that passed (`bun tools/release.ts --check --strict`, the relevant scans, `git diff --check`).
+- Close only after the work is pushed and the gate is green; never close on intent alone.
+
+The issue's scope feeds the [Task Packet Template](#task-packet-template); the role contract below governs who writes the spec, who implements, and who reviews within that issue.
+
 ## Role Contract
 
 | Role | Preferred model class | Owns | May edit | Must not do |

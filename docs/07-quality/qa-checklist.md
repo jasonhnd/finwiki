@@ -37,3 +37,4 @@
 - [ ] Verify remote HEAD.
 - [ ] Watch GitHub Actions.
 - [ ] Update/verify GitHub Release.
+- [ ] If the work came from a GitHub Issue, close it with the implementing commit, acceptance-criteria evidence, and the validation commands that passed.
