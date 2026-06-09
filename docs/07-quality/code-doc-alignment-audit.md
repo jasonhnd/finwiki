@@ -8,6 +8,7 @@ Reviewed surfaces:
 
 - Root tooling: `tools/release.ts`, `tools/wiki_link_audit.ts`, `tools/generate_ai_discovery.ts`, `lib/markdown_helpers.ts`.
 - Site configuration and translation scripts: `site/src/content.config.ts`, `site/scripts/prep-parallel.mjs`, `site/scripts/commit-translate.mjs`, `site/package.json`.
+- Human-site UI implementation: `site/src/styles/global.css`, `site/src/layouts/Base.astro`, `site/src/layouts/EntryLayout.astro`, `site/src/pages/[lang]/**`, `site/src/components/*.astro`, `site/src/i18n/ui.ts`.
 - Developer docs: BRD / PRD / NFR / RTM / ARD / FSD, architecture docs, functional specs, implementation docs, quality docs, operations runbooks.
 - Public generated surfaces: `README.md`, `index.html`, `ai-index.json`, `llms.txt`, `llms-full.txt`, `sitemap.xml`, `api/entries/index.json`.
 
@@ -24,7 +25,7 @@ This audit checks implementation/documentation fit. It does not re-verify financ
 | Domain documentation | Previously stale, now corrected | `domains.md` still carried a 23-domain historical table; root `INDEX.md` and code now use 40 domains. | Replaced `domains.md` with current 40-domain planning table. |
 | Astro site architecture | Previously stale, now corrected | Old doc included 23 domains, 4140-page estimates, old `site/src/content/entries` mirror and Python/postbuild assumptions. | Rewritten as current site architecture. |
 | Toolchain docs | Partially stale, now corrected | `toolchain.md` described canonical anchor audit as report-only, while `release.ts` gates drift with `--fail-on-canonical-drift`. | Updated toolchain and wikilink spec. |
-| UI/UX docs | Previously scattered, now connected | UI/UX existed only as site rendering/search snippets and README theme notes. | Added product principles, theme architecture, FSD entry, visual QA, and RTM links. |
+| UI/UX docs | Strong after current-code baseline pass | UI/UX existed only as site rendering/search snippets and README theme notes; it now records the accepted current implementation. | Product principles, theme architecture, FSD entry, visual QA, PRD and RTM all point to the current CSS/layout/component baseline. |
 | i18n pipeline | Adequate but under-instrumented | Prep/commit support `--langs`; placeholder checks exist; global freshness/report command is not formalized. | Add i18n freshness/audit command to next plan. |
 | Docs link health | Adequate but ad hoc | Current docs link check passed via one-off Node script; no first-class tool/script exists. | Add docs link checker to next plan. |
 | Deployment operations | Stronger after audit | Deployment runbook covers site dependency install, local build, duplicate-id check, Vercel shadow build, GitHub Actions watch and public URL spot-checks. | Keep synchronized with future deployment tooling. |
@@ -72,6 +73,8 @@ Old release notes and README history naturally mention old counts, old 23-domain
 ### ALIGN-006: UI/UX Is A Cross-Layer Spec, Not A New Top-Level Tree
 
 UI/UX now has a product principle document, a theme architecture document, an FSD execution document, and a visual QA checklist. This keeps the current docs structure intact while making UI/CSS/theme/localization changes traceable through PRD, ARD, FSD, NFR and RTM.
+
+The current human-site UI is explicitly documented as the approved baseline, not as a pending redesign request. The baseline maps to the actual implementation surfaces: `global.css` tokens and shared classes, `Base.astro` shell/Pagefind wiring, `EntryLayout.astro` rails/factbar/TOC/prose layout, `[lang]/index.astro` home entry experience, domain/browse page filters and scan lists, `ThemeToggle.astro`, `LangSwitcher.astro`, and `site/src/i18n/ui.ts`.
 
 ## Current Readiness
 
