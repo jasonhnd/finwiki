@@ -31,6 +31,19 @@
 
 ## 2026-06-08 (In progress)
 
+### index.html og/meta + 本文計数を release.ts に同期 (#18) / Sync index.html og/meta + body counts via release.ts / 通过 release.ts 同步 index.html og/正文计数
+
+#### 日本語記録 / English / 中文
+
+- **JST 時刻**: 2026-06-09 JST。
+- **背景**: [Issue #18](https://github.com/jasonhnd/finwiki/issues/18)。#10 検証中に、`index.html` の `og:image:alt` / `og:description` / `twitter:description` と本文の三語統計が旧計数(23 領域 / 1,465 ファイル / 1,411 エントリー / 約993万字)のまま漂移していた。`release.ts` の count-sync は英語の "files / link-audited entries / domains" 表現しか拾わず、日本語の「ファイル / エントリー / 件 / 領域 / 万字」・中国語の「个条目 / 个领域」・素の "entries" を同期していなかった。
+- **範囲**: `tools/release.ts`(`syncIndexHtmlText` に三語の計数表現を追加)、`index.html`(再生成で現計数へ)、`README.md` / `ai-index.json` / `llms*.txt` / `api/entries/index.json`(`--write` 再生成)、`CHANGELOG.md`。
+- **主要変更**: og/meta + 本文の三語計数(JP ファイル/エントリー/件/領域/万字、ZH 个条目/个领域、EN bare entries)を `release.ts --write` が同期するよう拡張。これで `index.html` の SEO/OGP 計数が今後ドリフトせず、`--check` で検出できる。
+- **検証結果**: `index.html` の旧計数(1,411 / 23 領域 / 約993万字)が 0 件、`release.ts --check --strict` EXIT=0、再 `--write` でも安定(idempotent)、`git diff --check` EXIT=0。
+- **残タスク**: なし。Issue #18 クローズ。#18 は #13(UI/UX baseline 文書化)とは別コミットに分離。
+- **EN**: During #10 verification, `index.html`'s `og:image:alt` / `og:description` / `twitter:description` and the trilingual body stats were still drifted to pre-split counts (23 domains / 1,465 files / 1,411 entries / ~9.93M chars). `release.ts`'s count-sync only matched the English "files / link-audited entries / domains" phrasing, not the Japanese (ファイル/エントリー/件/領域/万字), Chinese (个条目/个领域), or bare English "entries". Extended `syncIndexHtmlText` to sync all three languages so `release.ts --write` keeps `index.html` SEO/OGP counts current and `--check` flags future drift. Verified: zero stale counts remain, `release.ts --check --strict` EXIT 0, idempotent, `git diff --check` EXIT 0. Separated from #13 into its own commit.
+- **中文**: 在 #10 验证时发现 `index.html` 的 `og:image:alt` / `og:description` / `twitter:description` 及正文三语统计仍停留在拆分前旧计数(23 领域 / 1,465 文件 / 1,411 条目 / 约993万字)。`release.ts` 的计数同步只匹配英文 "files / link-audited entries / domains"，没同步日文（ファイル/エントリー/件/領域/万字）、中文（个条目/个领域）和裸 "entries"。扩展 `syncIndexHtmlText` 同步三语,使 `release.ts --write` 保持 `index.html` SEO/OGP 计数最新、`--check` 能检出未来漂移。验证:旧计数清零、`release.ts --check --strict` EXIT 0、幂等、`git diff --check` EXIT 0。已与 #13 拆成独立提交。
+
 ### UI/UX 現行実装ベースライン文書化 / Document current UI/UX implementation baseline / 文档化当前 UI/UX 实现基线
 
 #### 日本語記録 / English / 中文

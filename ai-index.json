@@ -1,6 +1,6 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-06-09T11:01:59+09:00",
+  "generated_at": "2026-06-09T23:21:11+09:00",
   "counts": {
     "markdown_files": 1566,
     "public_markdown_pages": 1565,
@@ -9,8 +9,8 @@
     "link_audited_entries": 1485,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 11056568,
-    "word_like_tokens": 1783165,
+    "nonspace_utf8_chars": 11061218,
+    "word_like_tokens": 1784009,
     "entity_anchors": 12,
     "entity_mirror_pages": 12
   },
@@ -607,10 +607,10 @@
         "English",
         "中文",
         "2026-06-08 (In progress)",
+        "index.html og/meta + 本文計数を release.ts に同期 (#18) / Sync index.html og/meta + body counts via release.ts / 通过 release.ts 同步 index.html og/正文计数",
+        "UI/UX 現行実装ベースライン文書化 / Document current UI/UX implementation baseline / 文档化当前 UI/UX 实现基线",
         "GitHub-Issue 運用モデル + issue テンプレート (#12 / #11) / GitHub-Issue operating model + templates / GitHub-Issue 运营模型与模板",
-        "Phase D 運用ドキュメント整備 (#6 / #7) / Phase D deployment runbook + incident playbooks / Phase D 运维文档完善",
-        "read-only i18n status command の追加 / Add read-only i18n status command / 增加只读 i18n 状态命令",
-        "generated-surface drift scan の追加 / Add generated-surface drift scan / 增加生成面漂移扫描"
+        "Phase D 運用ドキュメント整備 (#6 / #7) / Phase D deployment runbook + incident playbooks / Phase D 运维文档完善"
       ],
       "wikilinks": [
         "...",
@@ -849,8 +849,10 @@
       "markdown_links": [
         "governance/...",
         "https://github.com/jasonhnd/finwiki/issues/1",
+        "https://github.com/jasonhnd/finwiki/issues/10",
         "https://github.com/jasonhnd/finwiki/issues/11",
         "https://github.com/jasonhnd/finwiki/issues/12",
+        "https://github.com/jasonhnd/finwiki/issues/18",
         "https://github.com/jasonhnd/finwiki/issues/2",
         "https://github.com/jasonhnd/finwiki/issues/3",
         "https://github.com/jasonhnd/finwiki/issues/4",
@@ -859,8 +861,8 @@
         "https://github.com/jasonhnd/finwiki/issues/7",
         "path"
       ],
-      "nonspace_chars": 577771,
-      "word_like_tokens": 103038,
+      "nonspace_chars": 582421,
+      "word_like_tokens": 103882,
       "last_modified": "2026-06-09"
     },
     {
