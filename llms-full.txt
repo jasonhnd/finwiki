@@ -1,6 +1,6 @@
 # FinWiki Full LLM Manifest
 
-Generated: 2026-06-09T23:21:11+09:00
+Generated: 2026-06-09T23:33:20+09:00
 Site: https://finwiki.zksc.io
 Markdown files: 1566
 Public pages listed: 1565
@@ -28,7 +28,7 @@ Public pages listed: 1565
 - Domain: root
 - Type: control_doc
 - Summary: 1. matt-huang-triple-role-coi-template — Stripe 取締役就任「2024」→ 2021-11(Stripe newsroom: 2021年11月5日)。 2. christine-moy-talent-signal-jpm-apollo — Apollo 移籍「2024」→ 2022-04(CoinDesk 2022-04-28 / Apollo 公式)。併せて整合しない「回収サイクル 6-18ヶ月」を「数年規模」へ修正。 3. jamie-dimon-anti-crypto-pivot-case — 「2022 ペットロック」を分離・修正:2022
-- Headings: CHANGELOG, 運用原則 / Maintenance Principles / 维护原则, 日本語, English, 中文, 2026-06-08 (In progress), index.html og/meta + 本文計数を release.ts に同期 (#18) / Sync index.html og/meta + body counts via release.ts / 通过 release.ts 同步 index.html og/正文计数, UI/UX 現行実装ベースライン文書化 / Document current UI/UX implementation baseline / 文档化当前 UI/UX 实现基线
+- Headings: CHANGELOG, 運用原則 / Maintenance Principles / 维护原则, 日本語, English, 中文, 2026-06-08 (In progress), backlog / roadmap を GitHub issue 状態へ校正 (#14) / Reconcile backlog & roadmap with issue state / 按 issue 状态校正 backlog 与 roadmap, index.html og/meta + 本文計数を release.ts に同期 (#18) / Sync index.html og/meta + body counts via release.ts / 通过 release.ts 同步 index.html og/正文计数
 - First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/asset-managers/mitsubishi-corp-asset-management, https://finwiki.zksc.io/asset-managers/nissay-asset-management, https://finwiki.zksc.io/asset-managers/principal-japan, https://finwiki.zksc.io/asset-managers/smt-am, https://finwiki.zksc.io/asset-managers/t-and-d-asset-management, https://finwiki.zksc.io/asset-managers/tokio-marine-asset-management, https://finwiki.zksc.io/banking/japan-banking-license-tier-comparison-matrix, https://finwiki.zksc.io/banking/japan-trust-bank-vs-global-custodian-comparison-matrix, https://finwiki.zksc.io/cooperative-banks/asahi-shinkin, https://finwiki.zksc.io/cooperative-banks/hamamatsu-iwata-shinkin, https://finwiki.zksc.io/cooperative-banks/ja-mitsui-leasing
 
 ### How to navigate FinWiki — reader profile guide

@@ -31,6 +31,19 @@
 
 ## 2026-06-08 (In progress)
 
+### backlog / roadmap を GitHub issue 状態へ校正 (#14) / Reconcile backlog & roadmap with issue state / 按 issue 状态校正 backlog 与 roadmap
+
+#### 日本語記録 / English / 中文
+
+- **JST 時刻**: 2026-06-09 JST。
+- **背景**: [Issue #14](https://github.com/jasonhnd/finwiki/issues/14)。`backlog.md` が Phase A–D の tooling 項目を 🔴 未着手のまま表示していたが、対応する GitHub issue（#1–#7）は既に close 済み。GitHub issue 駆動へ移行したため、planning 文書が issue 状態と矛盾しないよう校正した。
+- **範囲**: `docs/01-strategy/backlog.md`、`docs/01-strategy/roadmap.md`、`CHANGELOG.md`(+ `--write` 計数同期)。
+- **主要変更**: backlog「当前优先级」を GitHub-Issue 駆動の表へ書き換え（#1–#7/#10–#12/#18 完了、#13 needs-review、#14/#15/#16/#17 規劃、#8/#9 blocked 内容、各行に issue 番号）。historical 小節の v12 去重・工具化チェックを #8/#15・#1–#7 へ紐付け。roadmap「已完成」へ 2026-06-08~09 の issue 駆動マイルストーン 3 行を追加し、「当前下一阶段」「中长期/候选」「P3」を現状（tooling 完了・GitHub issue 駆動）へ更新。
+- **検証結果**: `docs:audit` / `docs:stale` EXIT=0、`release.ts --check --strict` EXIT=0、`git diff --check` EXIT=0。
+- **残タスク**: なし。Issue #14 クローズ。残る open は #13(needs-review)、#15/#16/#17(規劃)、#8/#9(blocked 内容)。
+- **EN**: `backlog.md` still showed the Phase A–D tooling items as 🔴 not-started while their GitHub issues (#1–#7) were closed. Reconciled the planning docs with issue state: rewrote backlog's priority table as a GitHub-issue-driven table (#1–#7/#10–#12/#18 done, #13 needs-review, #14/#15/#16/#17 planning, #8/#9 blocked content, each row carrying its issue number); linked the historical v12-dedup and tooling notes to #8/#15 and #1–#7; added the 2026-06-08~09 issue-driven milestones to roadmap's completed list and updated its "next phase", "candidates", and P3 notes to reflect tooling completion + GitHub-issue-driven development. Validated: `docs:audit`, `docs:stale`, `release.ts --check --strict`, `git diff --check` all EXIT 0.
+- **中文**: `backlog.md` 仍把 Phase A–D 工具项标为 🔴 未开始，而对应 GitHub issue（#1–#7）已关闭。把规划文档与 issue 状态校正一致：将 backlog「当前优先级」改写为 GitHub-issue 驱动表（#1–#7/#10–#12/#18 完成、#13 needs-review、#14/#15/#16/#17 规划、#8/#9 blocked 内容，每行带 issue 号）；把历史小节的 v12 去重与工具化检查链接到 #8/#15 与 #1–#7；在 roadmap「已完成」加入 2026-06-08~09 的 issue 驱动里程碑，并更新「当前下一阶段」「中长期/候选」「P3」为当前状态（工具已完成、GitHub issue 驱动）。已验证：`docs:audit`、`docs:stale`、`release.ts --check --strict`、`git diff --check` 均 EXIT 0。
+
 ### index.html og/meta + 本文計数を release.ts に同期 (#18) / Sync index.html og/meta + body counts via release.ts / 通过 release.ts 同步 index.html og/正文计数
 
 #### 日本語記録 / English / 中文

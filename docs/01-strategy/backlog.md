@@ -2,17 +2,20 @@
 
 > 一站式 open-items，沉淀自历史 CHANGELOG 的「次の作業 / 既知の注意点」。状态：🔴 未开始 / 🟡 进行中 / 🟢 近期完成可移除。完成后移到 [roadmap.md](roadmap.md) 的「已完成」并从此处删。
 
-## 当前优先级（见 next-development-plan）
+## 当前优先级（GitHub Issues 驱动）
 
-| 状态 | 项目 | 备注 |
-|---|---|---|
-| 🔴 | `.txt` 入口纳入 audit | `llms-tasks.txt` 等 `.txt` 不在 `wiki_link_audit`（只审 `.md`）→ entry 改名时 `.txt` link 易留死链。下一阶段 Phase A。 |
-| 🔴 | docs Markdown link checker | `docs/` 已排除出 public audit，需独立检查相对链接。下一阶段 Phase B。 |
-| 🔴 | active-doc stale scan | 防止 23-domain、旧 site mirror、旧 postbuild/Python 假设重新进入活文档。下一阶段 Phase B。 |
-| 🔴 | generated-surface drift scan | 防止 stale API residue、docs markdown links、旧 domain API 文件残留进入发布面。下一阶段 Phase B3。 |
-| 🔴 | i18n freshness report | 先做 read-only 状态报告，再做翻译批次。下一阶段 Phase C。 |
-| 🟢 | 部署 runbook 扩写 | 2026-06-08 文档漂移审计已补 site 依赖安装、本地 build、root publish wrapper、GitHub Actions watch、Vercel shadow 与 public URL spot-check。后续只做随工具维护。 |
-| 🔴 | v12 双批近重复主题评估/合并 | 工具补齐后再做，优先 loyalty / money-market。下一阶段 Phase E。 |
+> 2026-06-09 起，开发由 GitHub Issues 驱动（见 [Model-Agent Workflow](../06-implementation/model-agent-workflow.md) 的 GitHub-Issue Operating Model）。**GitHub issue 状态是真相源**；下表只反映当前 open issue，已完成项见 [roadmap.md](roadmap.md)「已完成」。Phase A–D 的 tooling/ops 门禁已全部完成并关闭，下方历史小节保留作记录。
+
+| 状态 | GitHub | 项目 | 备注 |
+|---|---|---|---|
+| 🟢 | #1–#7 | Phase A–D tooling/ops 门禁 | `.txt` route audit / docs link checker / active-doc stale scan / generated-surface drift scan / read-only i18n status / 部署 runbook + 事故 playbook。命令见 `package.json`（`ai:audit` / `docs:audit` / `docs:stale` / `surface:drift` / `i18n:status`）。已关闭，详见 roadmap 已完成。 |
+| 🟢 | #10 / #11 / #12 / #18 | UI baseline + 运营模型 + 模板 + 计数同步 | #10 现行 UI/UX 保留为 baseline；#11/#12 GitHub-Issue 运营模型 + issue 模板；#18 index.html og/正文三语计数纳入 `release.ts` 同步。 |
+| 🟡 | #13 | UI/UX 现行 baseline 文档化 | 已提交（`57069281`），`needs-review`，待 review 后关闭。 |
+| 🔴 | #14 | backlog / roadmap 校正 | 本条（让规划文档与 issue 状态一致）。 |
+| 🔴 | #17 | i18n 刷新批次规划 | 据 `i18n:status`（约 7 成 mirror stale）拟定刷新批次任务包。 |
+| 🔴 | #15 | v12 双批去重任务包规划 | 完成后解锁 #8。 |
+| 🔴 | #16 | 小域扩充候选清单 | 完成后解锁 #9。 |
+| 🔵 blocked | #8 / #9 | Phase E 内容（v12 去重 / 小域扩充） | 前置 tooling 已就绪；待 #15 / #16 规划落地后开做。 |
 
 ## historical canonical_anchor（P1）
 
@@ -32,7 +35,7 @@
 | 🟢 | 薄领域补内容 | **v12 + v2026.06.05-1 完成**。v12 +46 entry；v05-1 并行 2 agent 把最薄的 `non-profit` 6→12、`trade` 6→12（+12）。现无「最薄」域。 |
 | 🟢 | i18n 翻译（v12 的 43 + v05-1 的 12）| **v2026.06.05-2 完成**。55 个 content entry × ja/zh/en = 165 个镜像，由 8 个并行 subagent 直接翻译（**不需要密钥**——`translate.mjs` 需密钥只因它是独立程序调另一个 Haiku；subagent 自己就能译）。镜像复刻流水线格式（`source_hash=sha256(body).slice(0,16)`、`.passthrough()` schema）。全局 link-integrity 检查 `checked=165 link_mismatches=0`。17 个新域 INDEX 不需镜像（landing 由 config 生成）。教训：i18n 不在 link audit 内，须自行验证 `[[link]]`/数字 byte 一致（已记入做法）。 |
 | 🟢 | 各领域 INDEX count 常态校准 | **v2026.06.05-4 完成一轮**。root `INDEX.md` 中 13 个 thematic domain Entries 值各 +1，已按 non-INDEX `.md` disk 实数校正。今后内容增删仍需 Phase 2 手动对账（见维护提醒）。 |
-| 🔴 | 评估/合并 v12 双批近重复主题 | v12 中 5 领域（loyalty / money-market 等）因 rate-limit + 重试得到双量（6）entry，主题互补但 loyalty & money-market 出现多个 benchmark / point-economics 类页，人工核对是否近重复并按需合并。 |
+| 🔵 | 评估/合并 v12 双批近重复主题 | **GitHub #8（内容）/ #15（规划任务包）**。v12 中 5 领域（loyalty / money-market 等）因 rate-limit + 重试得到双量（6）entry，主题互补但 loyalty & money-market 出现多个 benchmark / point-economics 类页，人工核对是否近重复并按需合并。 |
 
 ## historical JapanFG（P2）
 
@@ -46,7 +49,7 @@
 
 | 状态 | 项目 | 备注 |
 |---|---|---|
-| 🟢 | docs 主干/UIUX/漂移审计 | BRD/PRD/ARD/FSD/NFR/RTM、UI/UX 横切文档、deployment/incident/maintenance runbook、documentation drift audit 已建立。剩余为工具化检查：docs link checker、active-doc stale scan、generated-surface drift scan、i18n freshness report。 |
+| 🟢 | docs 主干/UIUX/漂移审计 | BRD/PRD/ARD/FSD/NFR/RTM、UI/UX 横切文档、deployment/incident/maintenance runbook、documentation drift audit 已建立。工具化检查已全部完成（**GitHub #1–#7**：`ai:audit` / `docs:audit` / `docs:stale` / `surface:drift` / `i18n:status`）。 |
 
 ## 维护提醒（非待办，长期注意）
 
