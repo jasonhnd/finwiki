@@ -31,6 +31,20 @@
 
 ## 2026-06-08 (In progress)
 
+### Phase D 運用ドキュメント整備 (#6 / #7) / Phase D deployment runbook + incident playbooks / Phase D 运维文档完善
+
+#### 日本語記録 / English / 中文
+
+- **JST 時刻**: 2026-06-09 JST。
+- **背景**: [Issue #6](https://github.com/jasonhnd/finwiki/issues/6) + [Issue #7](https://github.com/jasonhnd/finwiki/issues/7) (Phase D)。デプロイ runbook と障害 playbook を、現行の local コマンド・GitHub Actions(`deploy.yml`)・今回追加したチェックツール(#1–#5)と整合させた。文書のみ。
+- **範囲**: `docs/08-operations/{deployment-runbook,incident-runbook,maintenance-runbook}.md`、`docs/07-quality/gotchas.md`、`CHANGELOG.md`。コード・wiki 本文・生成面は不変更。
+- **#6 主要変更**: deployment-runbook の「What To Inspect Locally」を新チェックコマンド(`docs:audit`/`docs:stale`/`surface:drift`/`ai:audit`/`i18n:status`)へ更新。「Pre-Push Gate」節(pre-push hook が `release.ts --check --strict` を走らせる/`bun` を PATH か `FINWIKI_BUN` で解決/`--no-verify` 禁止)と「GitHub Actions (Deploy FinWiki)」節(`deploy.yml` の実ステップ列挙)を追加し、local 検証 → pre-push gate → push → Actions → 公開 URL → GitHub Release の段階を明確化。
+- **#7 主要変更**: incident-runbook を symptom → likely causes → inspect → repair → exit の playbook 形式に拡張(count drift / docs leakage / stale API residue / canonical drift / active-doc stale / build failure / Actions deploy failure)。各クラスを実在の repo コマンド(新ツール含む)に紐付け。gotchas に #12(pre-push が `bun` を要求、内部 `spawnSync` も含め PATH 必須)を追加。maintenance-runbook の routine 表を新コマンドへ更新。
+- **検証結果**: `release.ts --check --strict` EXIT=0、`git diff --check` EXIT=0、`surface:drift`/`docs:stale`/`docs:audit`/`ai:audit` regression なし。`docs/` は計数対象外なので corpus count は不変(CHANGELOG 追記分のみ `--write` で同期)。
+- **残タスク**: なし。Issue #6 / #7 クローズ。Phase A–D の tooling/ops gate が一通り完成。
+- **EN**: Aligned the deployment runbook and incident playbooks with current local commands, the real GitHub Actions workflow (`deploy.yml`), and the check tools added this session (#1–#5). Docs only — no code, wiki body, or generated-surface changes. **#6**: updated "What To Inspect Locally" to cite `docs:audit` / `docs:stale` / `surface:drift` / `ai:audit` / `i18n:status`; added a "Pre-Push Gate" section (the hook runs `release.ts --check --strict`; resolve `bun` via PATH or `FINWIKI_BUN`; never `--no-verify`) and a "GitHub Actions (Deploy FinWiki)" section enumerating the real `deploy.yml` steps, making the local-verify → pre-push → push → Actions → public-URL → Release stages explicit. **#7**: expanded incident-runbook into symptom → likely causes → inspect → repair → exit playbooks (count drift, docs leakage, stale API residue, canonical drift, active-doc stale, build failure, Actions deploy failure), each tied to exact repo commands incl. the new tools; added gotchas #12 (pre-push needs `bun` on PATH, including the internal `spawnSync`); updated the maintenance routine table to the new commands.
+- **中文**: 把部署 runbook 与事故 playbook 对齐到当前的 local 命令、真实 GitHub Actions（`deploy.yml`）以及本次新增的检查工具（#1–#5）。仅文档，未改代码 / wiki 正文 / 生成面。**#6**：将「What To Inspect Locally」更新为引用 `docs:audit` / `docs:stale` / `surface:drift` / `ai:audit` / `i18n:status`；新增「Pre-Push Gate」节（hook 运行 `release.ts --check --strict`；用 PATH 或 `FINWIKI_BUN` 让 `bun` 可解析；禁用 `--no-verify`）与「GitHub Actions (Deploy FinWiki)」节（列出 `deploy.yml` 实际步骤），明确 local 校验 → pre-push gate → push → Actions → 公开 URL → Release 各阶段。**#7**：把 incident-runbook 扩展为 症状 → 可能原因 → 检查 → 修复 → 退出 的 playbook（计数漂移、docs 泄漏、stale API 残留、canonical 漂移、活跃文档陈旧、构建失败、Actions 部署失败），每类绑定到真实 repo 命令（含新工具）；gotchas 增加 #12（pre-push 需要 `bun` 在 PATH，含内部 `spawnSync`）；更新 maintenance routine 表到新命令。
+
 ### read-only i18n status command の追加 / Add read-only i18n status command / 增加只读 i18n 状态命令
 
 #### 日本語記録 / English / 中文

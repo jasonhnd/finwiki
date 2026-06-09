@@ -1,6 +1,6 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-06-09T09:23:56+09:00",
+  "generated_at": "2026-06-09T09:33:00+09:00",
   "counts": {
     "markdown_files": 1566,
     "public_markdown_pages": 1565,
@@ -9,8 +9,8 @@
     "link_audited_entries": 1485,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 11049138,
-    "word_like_tokens": 1781868,
+    "nonspace_utf8_chars": 11052148,
+    "word_like_tokens": 1782411,
     "entity_anchors": 12,
     "entity_mirror_pages": 12
   },
@@ -607,10 +607,10 @@
         "English",
         "中文",
         "2026-06-08 (In progress)",
+        "Phase D 運用ドキュメント整備 (#6 / #7) / Phase D deployment runbook + incident playbooks / Phase D 运维文档完善",
         "read-only i18n status command の追加 / Add read-only i18n status command / 增加只读 i18n 状态命令",
         "generated-surface drift scan の追加 / Add generated-surface drift scan / 增加生成面漂移扫描",
-        "llms-full.txt の 404 ルート修正 (Issue #1 フォローアップ) / Fix 404 routes in llms-full.txt / 修复 llms-full.txt 中的 404 路由",
-        "active-doc stale scan の追加 / Add active-doc stale scan / 增加活跃文档陈旧事实扫描"
+        "llms-full.txt の 404 ルート修正 (Issue #1 フォローアップ) / Fix 404 routes in llms-full.txt / 修复 llms-full.txt 中的 404 路由"
       ],
       "wikilinks": [
         "...",
@@ -853,10 +853,12 @@
         "https://github.com/jasonhnd/finwiki/issues/3",
         "https://github.com/jasonhnd/finwiki/issues/4",
         "https://github.com/jasonhnd/finwiki/issues/5",
+        "https://github.com/jasonhnd/finwiki/issues/6",
+        "https://github.com/jasonhnd/finwiki/issues/7",
         "path"
       ],
-      "nonspace_chars": 571279,
-      "word_like_tokens": 101886,
+      "nonspace_chars": 574289,
+      "word_like_tokens": 102429,
       "last_modified": "2026-06-09"
     },
     {

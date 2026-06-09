@@ -49,3 +49,7 @@ repo 既有 commit 惯例**不带 `Co-Authored-By` 尾注**。提交前看一眼
 ## 11. 并行 agent 的 rate-limit 与双批 entry（中危）
 
 一次派太多（v12 一次 9 个含 WebSearch 的 agent）会撞 API rate-limit（`Server is temporarily limiting requests · not your usage limit`）。**rate-limited 的 agent 失败前可能已写好文件**（`tool_uses` 高、`subagent_tokens=0` 是统计假象）→ 盲目重试会得到双批 entry。**对策**：并发 ≤5-6、分批；重试前 `git status` 看是否已有产出；收尾按各领域 **disk 实数**（`ls`）对账 root INDEX，别信 agent 报告的数字。详见 [parallel-development.md](../06-implementation/parallel-development.md)。
+
+## 12. pre-push 门禁需要 bun 在 PATH（中危）
+
+`.git/hooks/pre-push` 会跑 `bun tools/release.ts --check --strict`。若 `bun` 不在该 hook（sh）能看到的 `PATH` 上，push 会被拦（`Bun was not found for the FinWiki release check`）。**对策**：把 `bun` 加进 `PATH`，或 `export FINWIKI_BUN=<bun 路径>`（hook 两者都认）。`release.ts` 内部还会 `spawnSync("bun", ...)`，所以光给 hook 指路不够——`bun` 必须在 PATH 上内部子进程才找得到。**别用 `git push --no-verify` 绕过**：门禁红就先 `release.ts --write` 修好再 push。
