@@ -7,11 +7,11 @@
 | Domain count calibration | After content batch | Compare root `INDEX.md` counts with disk reality. |
 | Link audit | Every release | `bun tools/wiki_link_audit.ts --fail-on-issues` |
 | Release surface sync | Every release | `bun tools/release.ts --write` then strict check. |
-| Docs structure review | After docs changes | `docs/README.md`, docs link checker or manual link scan, stale path scan. |
+| Docs structure review | After docs changes | `bun run docs:audit` (links), `bun run docs:stale` (stale facts), `docs/README.md` entry check. |
 | Documentation drift audit | Before next development phase and after large docs/code moves | [Documentation Drift Audit](../07-quality/documentation-drift-audit.md) command bundle. |
 | Model-agent workflow review | After delegated development | Task packet, allowed-file diff, RTM row and subagent closeout. |
-| i18n freshness review | After source content batch | Translation prep/commit or stale report. |
-| Generated API residue check | After domain move or route generator change | Search `api/entries/**` for old domains/slugs after release write. |
+| i18n freshness review | After source content batch | `bun tools/i18n_status.ts` (read-only), then translation prep/commit if needed. |
+| Generated API residue check | After domain move or route generator change | `bun run surface:drift` (API alignment + stale residue + docs leakage). |
 | Visual QA | After UI/CSS/theme/localization chrome change | [Visual QA Checklist](../07-quality/visual-qa-checklist.md), site build and representative route screenshots. |
 
 ## Standard Flow
