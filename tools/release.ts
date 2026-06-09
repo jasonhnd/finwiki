@@ -213,7 +213,21 @@ function syncIndexHtmlText(text: string, counts: Counts, snapshotDate: string): 
     )
     .replace(/(\b)\d[\d,]*(?= files \/)/g, `${formatInt(counts.markdownFiles)}`)
     .replace(/(\b)\d[\d,]*(?= link-audited entries)/g, `${formatInt(counts.linkAuditedEntries)}`)
-    .replace(/(\b)\d+(?= domains)/g, `${counts.topicalDomains}`);
+    .replace(/(\b)\d+(?= domains)/g, `${counts.topicalDomains}`)
+    // Japanese og/meta count phrasing (og:description, og:image:alt, twitter:*).
+    .replace(/[\d,]+(?=\s*ファイル)/g, `${formatInt(counts.markdownFiles)}`)
+    .replace(/[\d,]+(?=\s*リンク監査済エントリー)/g, `${formatInt(counts.linkAuditedEntries)}`)
+    .replace(/[\d,]+(?=\s*エントリー)/g, `${formatInt(counts.linkAuditedEntries)}`)
+    .replace(/[\d,]+(?=\s*領域)/g, `${counts.topicalDomains}`)
+    .replace(/約[\d,]+\s*万字/g, `約${charsMan}万字`)
+    .replace(/约[\d,]+\s*万字/g, `约${charsMan}万字`)
+    // Entry counters that are not "link-audited entries": JP 件 / EN bare entries / ZH 个条目.
+    .replace(/[\d,]+(?=\s*件のエントリー)/g, `${formatInt(counts.linkAuditedEntries)}`)
+    .replace(/[\d,]+(?=件\s*\/)/g, `${formatInt(counts.linkAuditedEntries)}`)
+    .replace(/[\d,]+(?=\s*entries)/g, `${formatInt(counts.linkAuditedEntries)}`)
+    .replace(/[\d,]+(?=\s*个条目)/g, `${formatInt(counts.linkAuditedEntries)}`)
+    // ZH domain counter (simplified): 个领域.
+    .replace(/[\d,]+(?=\s*个领域)/g, `${counts.topicalDomains}`);
   next = replaceMetricStrong(next, "Markdown files", String(counts.markdownFiles));
   next = replaceMetricStrong(next, "Topical domains", String(counts.topicalDomains));
   next = replaceMetricStrong(next, "Audited entries", String(counts.linkAuditedEntries));
