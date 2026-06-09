@@ -31,6 +31,23 @@
 
 ## 2026-06-08 (In progress)
 
+### read-only i18n status command の追加 / Add read-only i18n status command / 增加只读 i18n 状态命令
+
+#### 日本語記録 / English / 中文
+
+- **JST 時刻**: 2026-06-09 JST。
+- **背景**: [Issue #5](https://github.com/jasonhnd/finwiki/issues/5) (Phase C) に基づき、翻訳を一切書き換えずに i18n 層の鮮度を一覧できる read-only ステータスコマンドを追加した。翻訳バッチ前・ドメイン移動後の現状把握用。
+- **範囲**: `tools/i18n_status.ts` 新規、`package.json` への `i18n:status` 追加、`docs/07-quality/test-plan.md`(Domain move 行)と `docs/05-functional-specs/i18n-pipeline.md` でのコマンド参照、`CHANGELOG.md` 更新。書き込みは一切なし(`site/` 不変更)。
+- **主要変更**:
+    - corpus の翻訳対象 source entry(public・domain-prefix・`INDEX.md`/`releases/`/`.templates/` 除外)を分母とし、`site/src/content/i18n/{ja,zh,en}/` の mirror を locale 別に集計。
+    - source_hash 契約(`sha256(frontmatter 除去 body).slice(0,16)` = site/scripts と一致)で current / stale を判定。source が消えた mirror は orphaned、`source` frontmatter が mirror パスと不一致なら source-pointer drift として計上。
+    - missing(mirror 無し source)・status / fidelity 分布(`needs_review` 含む)・missing by domain・サンプル行を出力。human-readable + `--json`。report-only なので EXIT=0。
+- **検証結果**: 現行 repo で実行 PASS(source entries=1438。各 locale mirror=1435、stale≈1024–1044、orphaned=7、missing=10、source-pointer drift=10、en に needs_review=1)。`card-issuers/aeon-bank` と `asset-managers/asset-management-one` で source_hash を手計算し stale 判定が正しいことを確認。`release.ts --check --strict` EXIT=0、`site/` への書き込み無しを確認。
+- **所見**: 直近の wikilink 正規化で source body が変わったため、現状 mirror の約 7 割が stale。次の翻訳バッチのスコープが可視化された(ドメイン移動後 `ENTRY_DOMAIN_DIRS` 未更新の影響も missing/orphaned で表面化)。
+- **残タスク**: なし。Issue #5 クローズ。
+- **EN**: Added `tools/i18n_status.ts` (`i18n:status`) per [Issue #5](https://github.com/jasonhnd/finwiki/issues/5) (Phase C): a read-only report of i18n freshness for use before a translation batch or after a domain move. It takes the translatable corpus source entries (public, domain-prefixed, excluding `INDEX.md` / `releases/` / `.templates/`) as the denominator and, per locale, classifies `site/src/content/i18n/{ja,zh,en}/` mirrors as current vs stale using the `source_hash` contract (`sha256(body-without-frontmatter).slice(0,16)`, matching site/scripts), plus orphaned (source gone), missing (no mirror), source-pointer drift, and status/fidelity distribution (incl. `needs_review`). Human-readable + `--json`; report-only (EXIT 0); writes nothing. Validated on the current repo (1438 source entries; per locale mirrors=1435, stale≈1024–1044, orphaned=7, missing=10, drift=10, en needs_review=1); spot-checked two entries' source_hash by hand. Finding: ~70% of mirrors are currently stale after the recent wikilink normalization.
+- **中文**: 根据 [Issue #5](https://github.com/jasonhnd/finwiki/issues/5) (Phase C) 增加 `tools/i18n_status.ts`（`i18n:status`）：一个只读的 i18n 新鲜度报告，供翻译批次前 / 域迁移后查看现状。它以可翻译语料 source entry（公开、带域前缀，排除 `INDEX.md`/`releases/`/`.templates/`）为分母，按语言把 `site/src/content/i18n/{ja,zh,en}/` 的 mirror 用 source_hash 契约（`sha256(去除 frontmatter 的 body).slice(0,16)`，与 site/scripts 一致）判定 current / stale，并统计 orphaned（源已消失）、missing（无 mirror）、source-pointer drift、以及 status/fidelity 分布（含 `needs_review`）。human-readable + `--json`；只读（EXIT 0），不写任何文件。已在当前仓库验证（source entries=1438；各语言 mirror=1435、stale≈1024–1044、orphaned=7、missing=10、drift=10、en needs_review=1），并手算两个条目的 source_hash 核对。结论：经最近 wikilink 规范化后，约七成 mirror 当前为 stale。
+
 ### generated-surface drift scan の追加 / Add generated-surface drift scan / 增加生成面漂移扫描
 
 #### 日本語記録 / English / 中文

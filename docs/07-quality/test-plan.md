@@ -20,7 +20,7 @@ git diff --check
 |---|---|
 | Site rendering change | Astro build and browser spot check. |
 | Discovery generator change | `bun tools/generated_surface_drift_scan.ts` (API alignment, stale residue, docs leakage), then diff-review `ai-index.json` / `llms-full.txt`. |
-| Domain move | Broad wikilink audit, i18n mirror path/source check. |
+| Domain move | Broad wikilink audit, `bun tools/i18n_status.ts` (i18n mirror path / source / freshness). |
 | Translation pipeline change | Placeholder tests and sample mirror verify. |
 | Release tooling change | Positive and negative gate tests. |
 | UI/CSS/theme/layout change | Visual QA checklist, Astro build, duplicate-id check, desktop/mobile spot checks. |

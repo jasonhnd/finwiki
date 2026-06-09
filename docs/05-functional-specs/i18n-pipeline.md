@@ -23,3 +23,7 @@
 - Commit script reports no missing translations for the batch.
 - `fidelity` is `ok` unless review is required.
 - Site build or release check passes after mirror updates.
+
+## Status (read-only)
+
+`bun tools/i18n_status.ts` (`i18n:status`) reports, per locale: mirror counts, current vs stale (via `source_hash`), missing source entries, orphaned mirrors, source-pointer drift, and status / fidelity distribution (including `needs_review`). It never writes mirrors, `source_hash`, or generated surfaces — run it before a translation batch and after domain moves. `--json` emits machine output.
