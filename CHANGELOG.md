@@ -31,6 +31,19 @@
 
 ## 2026-06-08 (In progress)
 
+### UI/UX 現行実装ベースライン文書化 / Document current UI/UX implementation baseline / 文档化当前 UI/UX 实现基线
+
+#### 日本語記録 / English / 中文
+
+- **JST 時刻**: 2026-06-09 11:11 JST。
+- **背景**: ユーザーが現在の FinWiki UI/UX に満足しており、UI/UX/CSS は再設計対象ではなく「現在のコードに基づく承認済み baseline」として文書化する必要があると確認した。
+- **範囲**: `docs/02-product/ui-ux-principles.md`、`docs/02-product/prd.md`、`docs/04-architecture/theme-system.md`、`docs/05-functional-specs/ui-ux.md`、`docs/03-requirements/rtm.md`、`docs/07-quality/visual-qa-checklist.md`、`docs/07-quality/code-doc-alignment-audit.md`、`CHANGELOG.md`。サイト実装・CSS・wiki 本文・生成面は変更しない。
+- **主要変更**: UI/UX Principles に「Current Approved Baseline」を追加し、`global.css` / `Base.astro` / `EntryLayout.astro` / `[lang]` pages / `ThemeToggle` / `LangSwitcher` / `site/src/i18n/ui.ts` へ実体を対応付けた。PRD-009 を現行 UI/UX baseline として明文化した。Theme System では `global.css` を現在の reusable CSS template とし、token-first light/dark、cool-neutral + teal-blue、Pagefind 変数、言語 chrome、style ownership rule を固定した。UI/UX FSD では current implementation baseline、CSS class contract、breakpoint contract を追加した。Visual QA は「現行体験を保持する」観点に更新した。RTM と code/docs audit は現行コード面との追跡を補強した。
+- **検証結果**: `bun run docs:audit` PASS、`bun run docs:stale` PASS、`bun tools/release.ts --write` 実行後 `bun tools/release.ts --check --strict` PASS、`bun tools/wiki_link_audit.ts --fail-on-issues` PASS、`git diff --check` PASS。UI/CSS 実装は不変更のため Astro build は必須対象外。
+- **残タスク**: なし。GitHub Issue [#10](https://github.com/jasonhnd/finwiki/issues/10) は「UI を再設計する」issue ではなく、現行 baseline を守る記録 issue へ更新して close した。
+- **EN**: The user confirmed they are satisfied with the current FinWiki UI/UX. This session documents UI/UX/CSS as the approved current-code baseline rather than a redesign request. Updated the UI/UX principles, PRD, theme system, UI/UX FSD, RTM, visual QA checklist, and code/docs alignment audit to map the baseline to `global.css`, `Base.astro`, `EntryLayout.astro`, `[lang]` pages, `ThemeToggle`, `LangSwitcher`, and `site/src/i18n/ui.ts`. The theme contract now treats `global.css` as the reusable CSS template, with token-first light/dark styling, cool-neutral surfaces, teal-blue actions, Pagefind variable usage, localized UI chrome, style ownership rules, CSS class contracts, breakpoint contracts, and visual QA that preserves the current experience. No site implementation, CSS, wiki body, or generated surface was changed.
+- **中文**: 用户确认目前对 FinWiki 的 UI/UX 比较满意，因此本轮把 UI/UX/CSS 作为“基于当前代码的已认可基线”写入文档，而不是提出重新设计。已更新 UI/UX principles、PRD、theme system、UI/UX FSD、RTM、visual QA checklist 和 code/docs alignment audit，把基线对应到 `global.css`、`Base.astro`、`EntryLayout.astro`、`[lang]` 页面、`ThemeToggle`、`LangSwitcher`、`site/src/i18n/ui.ts`。Theme contract 明确 `global.css` 是可复用 CSS 模板，保留 token-first light/dark、冷中性色、青蓝 action、Pagefind 变量、本地化 UI chrome、style ownership、CSS class contract、breakpoint contract，以及以保留当前体验为目标的 visual QA。本轮不改站点实现、不改 CSS、不改 wiki 正文、不改生成面。
+
 ### GitHub-Issue 運用モデル + issue テンプレート (#12 / #11) / GitHub-Issue operating model + templates / GitHub-Issue 运营模型与模板
 
 #### 日本語記録 / English / 中文

@@ -18,6 +18,19 @@ FinWiki 是一个公开金融知识 wiki，提供 Markdown corpus、Astro 人类
 | PRD-008 | Model-agent workflow | 高推理规格模型负责需求/规格/验收，快速代码实现模型只按限定任务包写代码。 |
 | PRD-009 | Human-site UI/UX | 人类站应服务日语金融读者的快速查阅，保持低噪音、可扫描、三语一致、来源和翻译状态可见。 |
 
+## Current UI/UX Product Baseline
+
+PRD-009 is satisfied by the current human-site implementation and should be treated as the baseline for future work:
+
+- The site is a financial reference surface, not a marketing homepage.
+- The approved visual direction is cool-neutral, teal-blue, compact, information-dense and source-forward.
+- The first screen prioritizes search, corpus shape and domain navigation.
+- Entry pages prioritize reading, domain context, TOC, freshness/provenance chips and translation status.
+- Browse/domain pages prioritize scanning, counts, route visibility and localized filtering.
+- Japanese UI chrome quality is part of the product requirement, not a cosmetic follow-up.
+
+Future UI/CSS tasks should preserve this baseline unless the GitHub Issue explicitly asks for a scoped visual change.
+
 ## User Journeys
 
 - Reader journey: 进入公开站点 -> 选择语言 -> 浏览 domain -> 阅读 entry -> 通过 wikilink 跳转。

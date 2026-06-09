@@ -6,6 +6,25 @@ This document defines the product-level experience principles for the FinWiki hu
 
 Implementation details live in [UI/UX Functional Spec](../05-functional-specs/ui-ux.md). Theme and CSS token rules live in [Theme System](../04-architecture/theme-system.md). Visual acceptance lives in [Visual QA Checklist](../07-quality/visual-qa-checklist.md).
 
+## Current Approved Baseline
+
+The current human-site UI is the approved baseline. Future UI/CSS work should preserve the current experience unless a new issue explicitly asks for a scoped change.
+
+Current baseline characteristics:
+
+| Surface | Current Product Intent | Code Owner |
+|---|---|---|
+| Global visual system | Cool ledger-neutral surfaces, teal-blue action color, restrained support colors, serif display type, sans body type, compact radii and hairline structure. | `site/src/styles/global.css` |
+| Site shell | Compact sticky header with brand, domain navigation, browse navigation, AI surface link, Pagefind trigger, theme toggle, language switcher, skip link and footer. | `site/src/layouts/Base.astro` |
+| Home page | Reader entry page, not a marketing landing page: first screen shows site identity, tagline, search, corpus stats, recent entries, domain map and AI/crawler links. | `site/src/pages/[lang]/index.astro` |
+| Domain navigation | Grouped domain maps and compact count-bearing domain cards/pills prioritize scanning over visual decoration. | `site/src/pages/[lang]/domains/**`, `site/src/i18n/domains.ts`, `site/src/i18n/groups.ts` |
+| Browse | Sticky filter, domain jump chips and multi-column scan lists support fast corpus inspection. | `site/src/pages/[lang]/browse/index.astro` |
+| Entry page | Three-column desktop reference layout: left domain rail, central article, right TOC; mobile collapses rails into a single reading column with inline TOC. | `site/src/layouts/EntryLayout.astro` |
+| Prose | Financial-reference Markdown supports headings, wikilinks, provenance marks, callouts/blockquotes, code and horizontally scrolling tables. | `.prose` rules in `site/src/styles/global.css` |
+| Localization chrome | Visible UI labels are centralized in `site/src/i18n/ui.ts` and should remain natural in Japanese, English and Chinese. | `site/src/i18n/ui.ts` |
+
+Do not treat UI/UX documentation as a request to redesign the site. It is a contract that records the current satisfactory design and constrains future changes.
+
 ## Audience
 
 | Audience | Primary Need | UI Consequence |

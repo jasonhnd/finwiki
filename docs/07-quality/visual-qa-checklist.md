@@ -13,6 +13,20 @@ Use this checklist for any change to:
 
 Related specs: [UI/UX Principles](../02-product/ui-ux-principles.md), [Theme System](../04-architecture/theme-system.md), [UI/UX Functional Spec](../05-functional-specs/ui-ux.md), [Site Rendering](../05-functional-specs/site-rendering.md), [Search](../05-functional-specs/search.md).
 
+## Baseline To Preserve
+
+The current UI/UX is accepted. Visual QA should first confirm that a change preserves the existing reference-site behavior unless the issue explicitly requests a scoped visual change.
+
+Baseline traits to preserve:
+
+- Cool neutral page/surface palette with teal-blue primary action and low-saturation support colors.
+- Compact sticky header with visible navigation, search, theme toggle and language switcher.
+- Home page as reader entry: search, corpus stats, recent entries, domain map and AI/crawler links visible early.
+- Entry page as financial reference layout: domain rail, article column, TOC, provenance/freshness chips, machine-translation badge and readable prose.
+- Browse/domain pages as dense scan surfaces with counts, route visibility and localized filters.
+- Japanese UI chrome as the primary quality signal for `/ja/`.
+- No marketing-landing redesign, decorative gradients, purple/purple-blue brand drift or card-heavy visual noise.
+
 ## Required Viewports
 
 | Viewport | Purpose |
@@ -39,6 +53,7 @@ Related specs: [UI/UX Principles](../02-product/ui-ux-principles.md), [Theme Sys
 
 - [ ] Light theme uses cool neutral surfaces and teal-blue action color.
 - [ ] Dark theme preserves contrast for text, links, chips, tables, and code.
+- [ ] `:root` and `[data-theme="dark"]` token values in `global.css` still match the approved theme direction unless a scoped issue changed them.
 - [ ] No dominant purple/purple-blue, warm ochre, beige, brown/orange, or single-hue palette drift.
 - [ ] No decorative gradients, blobs, or marketing-style atmospheric backgrounds.
 - [ ] Focus rings remain visible in both themes.
@@ -47,6 +62,7 @@ Related specs: [UI/UX Principles](../02-product/ui-ux-principles.md), [Theme Sys
 
 - [ ] Header stays compact and sticky.
 - [ ] Brand, domain nav, browse nav, AI link, search, theme toggle, and language switcher do not overlap.
+- [ ] Header search still opens the Pagefind modal through the shared shell, not a separate search UI.
 - [ ] Skip link works and is visible on focus.
 - [ ] Footer links remain readable and do not dominate the page.
 
@@ -70,6 +86,7 @@ Related specs: [UI/UX Principles](../02-product/ui-ux-principles.md), [Theme Sys
 - [ ] Factbar chips wrap cleanly and preserve confidence, updated date, review date, source count, machine translation badge, and original-language link when present.
 - [ ] Left domain rail is visible on desktop and hidden on mobile.
 - [ ] Right TOC is visible on desktop and replaced by inline TOC on smaller screens.
+- [ ] Central article measure remains close to the current reading width; long Japanese titles do not force rails or chips out of view.
 - [ ] `.prose` headings, body text, wikilinks, blockquotes, code, and tables are readable.
 - [ ] Wide tables scroll horizontally inside the table area, not the whole page.
 
