@@ -19,6 +19,7 @@
 - コミット前に `git status --short --branch` を確認し、コミット後は `origin/main` に push してリモート HEAD を確認します。
 - `docs/` ディレクトリは内部開発文書（BRD / PRD / ARD / FSD / NFR / RTM、アーキテクチャ、実装、品質、運用）であり、公開 wiki corpus ではありません。`lib/markdown_helpers.ts` の `EXCLUDED_WALK_DIRS` と `tools/wiki_link_audit.ts` の `IGNORED_DIRS` に登録済みで、corpus（md / entries 計数）、`sitemap.xml` / `llms.txt` / `ai-index.json` / `api/`、Astro サイト、死リンク監査のいずれにも含まれません。この排除を解除してはいけません。`docs/` に wiki 本文を置かず、wiki 本文に開発文書を置きません。公開 GitHub repo 上の内部文書なので、密钥、個人情報、顧客情報、非公開会話、内部案件詳細も禁止です。
 - モデル分担は [docs/06-implementation/model-agent-workflow.md](docs/06-implementation/model-agent-workflow.md) に従います。高推論の仕様モデルは要求・仕様・アーキテクチャ・検収・RTM と task packet を担当し、高速コード実装モデルは承認済み task packet の許可ファイルだけを実装します。同時 active subagent は最大 10、完了した subagent は閉じてから次 batch を開始します。
+- プロジェクト開発は GitHub Issues で駆動します。非自明な変更は scope / acceptance criteria / validation / closeout evidence を持つ issue として起票し、実装コミットと通過した検証を紐付けてから close します。運用モデルは [docs/06-implementation/model-agent-workflow.md](docs/06-implementation/model-agent-workflow.md) の GitHub-Issue Operating Model に従います。読み取り専用チェックと緊急ローカル診断は issue を必須としません。
 
 ### English
 
@@ -37,6 +38,7 @@
 - Before committing, check `git status --short --branch`. After committing, push to `origin/main` and verify the remote HEAD.
 - The `docs/` directory holds internal developer documentation (BRD / PRD / ARD / FSD / NFR / RTM, architecture, implementation, quality, and operations) and is NOT part of the public wiki corpus. It is registered in `EXCLUDED_WALK_DIRS` (`lib/markdown_helpers.ts`) and `IGNORED_DIRS` (`tools/wiki_link_audit.ts`), so it is excluded from the corpus (md / entries counts), `sitemap.xml` / `llms.txt` / `ai-index.json` / `api/`, the Astro site, and the dead-link audit. Do not remove this exclusion. Do not place wiki body content under `docs/`, and do not place developer docs in the wiki body. Because this is still a public GitHub repo, `docs/` must not contain secrets, personal information, customer information, non-public conversations, or internal case details.
 - Model role assignment follows [docs/06-implementation/model-agent-workflow.md](docs/06-implementation/model-agent-workflow.md). High-reasoning specification models own requirements, specifications, architecture, acceptance, RTM, and task packets; fast code-implementation models implement only the allowed files in approved task packets. Keep active subagents at 10 or fewer, and close/retire finished subagents before starting the next batch.
+- Project development is driven by GitHub Issues. Non-trivial changes start as an issue carrying scope, acceptance criteria, validation, and closeout evidence, and are closed only after the implementing commit(s) and passing validation are linked. Follow the GitHub-Issue Operating Model in [docs/06-implementation/model-agent-workflow.md](docs/06-implementation/model-agent-workflow.md). Read-only checks and emergency local diagnostics do not require an issue.
 
 ### 中文
 
@@ -55,3 +57,4 @@
 - 提交前检查 `git status --short --branch`，提交后推送到 `origin/main`，并确认远端 HEAD。
 - `docs/` 目录是内部开发文档（BRD / PRD / ARD / FSD / NFR / RTM、架构、实施、质量、运维），不是公开 wiki corpus。它已注册进 `lib/markdown_helpers.ts` 的 `EXCLUDED_WALK_DIRS` 与 `tools/wiki_link_audit.ts` 的 `IGNORED_DIRS`，因此不计入 corpus（md / entries 计数），也不进 `sitemap.xml` / `llms.txt` / `ai-index.json` / `api/`、Astro 站点或死链审计。不要移除这个排除。不要把 wiki 正文放进 `docs/`，也不要把开发文档放进 wiki 正文。由于仓库仍是公开 GitHub repo，`docs/` 也禁止写入密钥、个人信息、客户信息、非公开对话或内部案件细节。
 - 模型分工遵循 [docs/06-implementation/model-agent-workflow.md](docs/06-implementation/model-agent-workflow.md)。高推理规格模型负责需求、规格、架构、验收、RTM 和 task packet；快速代码实现模型只实现已批准 task packet 里的允许文件。active subagent 同时最多 10 个，用完的 subagent 必须关闭/retire 后才能开下一批。
+- 项目开发由 GitHub Issues 驱动。非琐碎改动先以带 scope / 验收标准 / 验证 / 关闭证据的 issue 起票，并在关联实现提交与通过的验证后才关闭。运营模型遵循 [docs/06-implementation/model-agent-workflow.md](docs/06-implementation/model-agent-workflow.md) 的 GitHub-Issue Operating Model。只读检查与紧急本地诊断不强制要求 issue。

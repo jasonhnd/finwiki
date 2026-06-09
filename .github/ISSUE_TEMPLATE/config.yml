@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: GitHub-Issue Operating Model
+    url: https://github.com/jasonhnd/finwiki/blob/main/docs/06-implementation/model-agent-workflow.md
+    about: How FinWiki issues are scoped, executed, and closed with evidence. Issues are the source of truth for next development work.

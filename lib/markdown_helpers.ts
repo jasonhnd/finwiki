@@ -16,6 +16,7 @@ export const CONTROL_DOCS = new Set([
 
 export const EXCLUDED_WALK_DIRS = new Set([
   ".git",
+  ".github",
   ".cache",
   ".opinions",
   "docs",

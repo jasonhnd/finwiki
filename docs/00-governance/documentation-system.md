@@ -46,6 +46,8 @@ FinWiki 的默认开发顺序是先规格、后代码：
 
 具体分工、任务包模板和并行上限见 [Model-Agent Workflow](../06-implementation/model-agent-workflow.md)。
 
+GitHub Issues 是开发的驱动单位：每个非琐碎变更先以带 scope / 验收标准 / 验证 / 关闭证据的 issue 起票，并在关联实现提交与通过的验证后关闭。运营模型见 [Model-Agent Workflow](../06-implementation/model-agent-workflow.md) 的 GitHub-Issue Operating Model。
+
 
 ## Update Triggers
 
