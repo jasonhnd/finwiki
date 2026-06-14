@@ -3,7 +3,7 @@ source: foreign-financial-institutions/esun-bank-japan
 source_hash: 361227b6de013702
 lang: en
 status: machine
-fidelity: needs_review
+fidelity: ok
 title: E.SUN Bank Tokyo Branch
 translated_at: 2026-05-31T15:29:03.929Z
 ---

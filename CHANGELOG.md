@@ -31,6 +31,22 @@
 
 ## 2026-06-08 (In progress)
 
+### i18n Batch B — cooperative-banks 3 件を翻訳 + en needs_review を解消 (#20) / Translate 3 missing cooperative-banks mirrors + clear 1 en needs_review / 翻译 3 个缺失 cooperative-banks 镜像 + 清除 1 条 en needs_review
+
+#### 日本語記録 / English / 中文
+
+- **JST 時刻**: 2026-06-15 JST。
+- **背景**: [Issue #20](https://github.com/jasonhnd/finwiki/issues/20)(#17 で計画した Batch B)。cooperative-banks の `gifu-shinkin` / `kyoto-shinkin` / `osaka-shoko-shinkin` が三語とも mirror 欠如(source は存在)、加えて en の `foreign-financial-institutions/esun-bank-japan` が `fidelity: needs_review` だった。
+- **範囲**: `site/src/content/i18n/{ja,zh,en}/cooperative-banks/{gifu,kyoto,osaka-shoko}-shinkin.md`(新規 9)、`site/.../i18n/en/foreign-financial-institutions/esun-bank-japan.md`(fidelity 訂正)、`CHANGELOG.md`(+ `--write` 計数同期)。
+- **主要変更**:
+    - 3 source を `protect.mjs` で mask → 対話内 opus subagent 3 体が masked body を ja/zh/en へ翻訳(占位符保持・見出し localize・捏造なし)→ `commit-translate.mjs` が verify + unmask + frontmatter 付きで 9 mirror 書込。**ok=9 / needs_review=0**、占位符は source と byte 一致(32/28/23)。
+    - `prep-parallel` は `ENTRY_DOMAIN_DIRS`(拆分前 23 域)に cooperative-banks を含まず到達不可 → 当該 3 件だけを対象にした一時 prep で mask、commit 後に一時物を削除。
+    - `esun-bank-japan` の en mirror を QA(source と突合: 完全・忠実・link/数字健全・junk/占位符なし)→ `fidelity: needs_review → ok`。
+- **検証結果**: `i18n:status` で cooperative-banks missing 3→0、en needs_review 1→0(全 locale missing=0 / orphaned=0)。新 mirror に stray placeholder なし。`release.ts --check --strict` EXIT=0、`git diff --check` EXIT=0。
+- **残タスク**: なし。#20 クローズ。残る i18n は #21(stale 大宗の分類・重刷)。
+- **EN**: Batch B from the #17 plan. `cooperative-banks/{gifu,kyoto,osaka-shoko}-shinkin` had no mirror in any locale, and `en/foreign-financial-institutions/esun-bank-japan` was `fidelity: needs_review`. Masked the 3 sources with `protect.mjs`, had 3 in-conversation opus subagents translate the masked bodies to ja/zh/en (placeholders preserved, headings localized, no fabrication), then `commit-translate.mjs` verified + unmasked + wrote 9 mirrors with frontmatter (ok=9, needs_review=0; placeholder multiset byte-identical to source: 32/28/23). Because `prep-parallel` walks `ENTRY_DOMAIN_DIRS` (the pre-split 23-domain list) and can't reach cooperative-banks, a one-off targeted prep masked just these 3, removed afterward. QA'd the `esun-bank-japan` en mirror against its source (complete, faithful, links/numbers intact, no junk/placeholders) and set `fidelity: ok`. Result: `i18n:status` cooperative-banks missing 3→0, en needs_review 1→0 (all locales missing=0 / orphaned=0). `release.ts --check --strict` and `git diff --check` EXIT 0.
+- **中文**: #17 计划里的 Batch B。`cooperative-banks/{gifu,kyoto,osaka-shoko}-shinkin` 三语都缺镜像，且 `en/foreign-financial-institutions/esun-bank-japan` 为 `fidelity: needs_review`。用 `protect.mjs` 对 3 个 source 做 mask → 3 个对话内 opus subagent 把 masked body 翻成 ja/zh/en（保留占位符、本地化标题、无捏造）→ `commit-translate.mjs` 校验 + unmask + 写入带 frontmatter 的 9 个镜像（ok=9，needs_review=0；占位符多重集与源逐字一致：32/28/23）。由于 `prep-parallel` 走 `ENTRY_DOMAIN_DIRS`（拆分前 23 域）无法触达 cooperative-banks，用一次性定向 prep 只 mask 这 3 个，提交后删除临时物。对 `esun-bank-japan` en 镜像对照源做 QA（完整、忠实、链接/数字健全、无 junk/占位符）后置 `fidelity: ok`。结果：`i18n:status` 中 cooperative-banks missing 3→0、en needs_review 1→0（各 locale missing=0 / orphaned=0）。`release.ts --check --strict` 与 `git diff --check` EXIT 0。
+
 ### i18n Batch A — financial-licenses mirror をフラット化パスへ移設 (#19) / Relocate financial-licenses mirrors after path flatten / 迁移 financial-licenses 镜像到扁平化路径
 
 #### 日本語記録 / English / 中文
