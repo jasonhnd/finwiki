@@ -31,6 +31,19 @@
 
 ## 2026-06-08 (In progress)
 
+### i18n Batch A — financial-licenses mirror をフラット化パスへ移設 (#19) / Relocate financial-licenses mirrors after path flatten / 迁移 financial-licenses 镜像到扁平化路径
+
+#### 日本語記録 / English / 中文
+
+- **JST 時刻**: 2026-06-15 JST。
+- **背景**: [Issue #19](https://github.com/jasonhnd/finwiki/issues/19)(#17 で計画した Batch A)。source の `financial-licenses/legal-financial-licenses/*`(7 ファイル)が `financial-licenses/*` へフラット化されたが、i18n mirror は旧ネストパスのまま → `i18n:status` が orphaned（旧パス）+ missing（新パス）+ source-pointer drift を報告していた。確定的な移設、LLM なし。
+- **範囲**: `site/src/content/i18n/{ja,zh,en}/financial-licenses/**`、`CHANGELOG.md`(+ `--write` 計数同期)。
+- **主要変更**: 7 実体 × 3 語 = 21 mirror を `legal-financial-licenses/` から `financial-licenses/` へ `git mv`、各 mirror の `source:` を `financial-licenses/<slug>` へ訂正、空ディレクトリ削除。
+- **検証結果**: `i18n:status` で orphaned 7→0、financial-licenses の missing 解消(missing 10→3、残り cooperative-banks=Batch B #20)。移設後の 7 件は本文も正規化済のため stale 扱い(Batch C #21 の対象)。`release.ts --check --strict` EXIT=0、`git diff --check` EXIT=0。
+- **残タスク**: なし。#19 クローズ。次は #20(缺失翻訳)/ #21(stale 重刷)。
+- **EN**: Batch A from the #17 plan. The source `financial-licenses/legal-financial-licenses/*` (7 files) was flattened to `financial-licenses/*`, but the i18n mirrors stayed at the old nested path, so `i18n:status` reported them orphaned (old path) + missing (new path) + source-pointer drift. `git mv`'d the 7 entities × 3 locales (21 mirrors) from `legal-financial-licenses/` to `financial-licenses/`, fixed each mirror's `source:` to `financial-licenses/<slug>`, and removed the empty dirs. Deterministic, no LLM. Result: orphaned 7→0, financial-licenses no longer missing (missing 10→3, remainder = cooperative-banks for Batch B #20); the 7 relocated mirrors now read as stale because their bodies were also normalized (Batch C #21). `release.ts --check --strict` and `git diff --check` EXIT 0.
+- **中文**: #17 计划里的 Batch A。源把 `financial-licenses/legal-financial-licenses/*`（7 个）扁平化到 `financial-licenses/*`，但 i18n 镜像还在旧嵌套路径，导致 `i18n:status` 报 orphaned（旧路）+ missing（新路）+ source-pointer drift。把 7 实体 × 3 语（21 镜像）从 `legal-financial-licenses/` `git mv` 到 `financial-licenses/`，订正每个镜像的 `source:` 为 `financial-licenses/<slug>`，删除空目录。确定性、无 LLM。结果：orphaned 7→0，financial-licenses 不再 missing（missing 10→3，余下 cooperative-banks 归 Batch B #20）；迁移后的 7 个因正文也已规范化而显示为 stale（归 Batch C #21）。`release.ts --check --strict` 与 `git diff --check` EXIT 0。
+
 ### backlog / roadmap を GitHub issue 状態へ校正 (#14) / Reconcile backlog & roadmap with issue state / 按 issue 状态校正 backlog 与 roadmap
 
 #### 日本語記録 / English / 中文
