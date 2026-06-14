@@ -1,5 +1,5 @@
 ---
-source: financial-licenses/legal-financial-licenses/foreign-bank-branch-license-route
+source: financial-licenses/foreign-bank-branch-license-route
 source_hash: 6c7e16d3f997dbb7
 lang: ja
 status: machine

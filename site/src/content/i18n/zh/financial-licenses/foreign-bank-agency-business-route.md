@@ -1,5 +1,5 @@
 ---
-source: financial-licenses/legal-financial-licenses/foreign-bank-agency-business-route
+source: financial-licenses/foreign-bank-agency-business-route
 source_hash: 63a4d333d2768250
 lang: zh
 status: machine

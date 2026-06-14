@@ -1,5 +1,5 @@
 ---
-source: financial-licenses/legal-financial-licenses/bank-license-and-baas-boundary
+source: financial-licenses/bank-license-and-baas-boundary
 source_hash: 4e96ba905ac9d912
 lang: zh
 status: machine

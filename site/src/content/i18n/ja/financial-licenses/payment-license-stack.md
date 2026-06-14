@@ -1,5 +1,5 @@
 ---
-source: financial-licenses/legal-financial-licenses/payment-license-stack
+source: financial-licenses/payment-license-stack
 source_hash: 06a5abe22155e7d2
 lang: ja
 status: machine

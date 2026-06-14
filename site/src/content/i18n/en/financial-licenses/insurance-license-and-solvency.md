@@ -1,5 +1,5 @@
 ---
-source: financial-licenses/legal-financial-licenses/insurance-license-and-solvency
+source: financial-licenses/insurance-license-and-solvency
 source_hash: d24fec4b17cee6d7
 lang: en
 status: machine
