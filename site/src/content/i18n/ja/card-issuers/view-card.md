@@ -1,6 +1,6 @@
 ---
 source: card-issuers/view-card
-source_hash: 6463adeea69ce84e
+source_hash: ecb2a4d70802bfde
 lang: ja
 status: machine
 fidelity: ok

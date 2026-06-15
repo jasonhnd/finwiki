@@ -1,6 +1,6 @@
 ---
 source: megabanks/sbi-hd
-source_hash: 4d550861d9b136c2
+source_hash: f1b29fb9ec6620bc
 lang: ja
 status: machine
 fidelity: ok

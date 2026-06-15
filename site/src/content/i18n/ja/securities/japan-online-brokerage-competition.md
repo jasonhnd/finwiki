@@ -1,6 +1,6 @@
 ---
 source: securities/japan-online-brokerage-competition
-source_hash: 8a707f967aafcc17
+source_hash: e59e79568c36abba
 lang: ja
 status: machine
 fidelity: ok

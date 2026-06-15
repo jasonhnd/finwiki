@@ -1,6 +1,6 @@
 ---
 source: insurance/insurance-agency-and-brokerage-japan
-source_hash: dd5a7fc67e3b00ec
+source_hash: c4b656c9e3bc4af3
 lang: zh
 status: machine
 fidelity: ok

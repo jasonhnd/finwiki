@@ -1,6 +1,6 @@
 ---
 source: foreign-financial-institutions/first-commercial-bank-japan
-source_hash: 53df0976117286e9
+source_hash: 175ebe9e7a1f6fff
 lang: en
 status: machine
 fidelity: ok

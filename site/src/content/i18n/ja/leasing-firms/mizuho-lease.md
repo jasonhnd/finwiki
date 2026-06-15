@@ -1,6 +1,6 @@
 ---
 source: leasing-firms/mizuho-lease
-source_hash: 92652b6ea356ad2c
+source_hash: 8e52cee4aa69413c
 lang: ja
 status: machine
 fidelity: ok

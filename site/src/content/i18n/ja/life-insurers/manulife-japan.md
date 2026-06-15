@@ -1,6 +1,6 @@
 ---
 source: life-insurers/manulife-japan
-source_hash: 4e6ed653153e396c
+source_hash: 50b21c17a8f44505
 lang: ja
 status: machine
 fidelity: ok

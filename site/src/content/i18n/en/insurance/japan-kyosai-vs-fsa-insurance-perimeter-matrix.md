@@ -1,6 +1,6 @@
 ---
 source: insurance/japan-kyosai-vs-fsa-insurance-perimeter-matrix
-source_hash: f12eff403c5145a1
+source_hash: b4539749a7c7ecaf
 lang: en
 status: machine
 fidelity: ok

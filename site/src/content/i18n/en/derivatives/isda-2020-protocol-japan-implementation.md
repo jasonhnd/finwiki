@@ -1,6 +1,6 @@
 ---
 source: derivatives/isda-2020-protocol-japan-implementation
-source_hash: 5f6805e07b1bfd59
+source_hash: 364d17fdaaa6aa2b
 lang: en
 status: machine
 fidelity: ok

@@ -1,6 +1,6 @@
 ---
 source: payment-firms/mastercard-japan
-source_hash: 3f2d2a120c1d660b
+source_hash: e53b854586f8a448
 lang: en
 status: machine
 fidelity: ok

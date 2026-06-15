@@ -1,6 +1,6 @@
 ---
 source: financial-regulators/cpaaob
-source_hash: 15957f4e40f48a4e
+source_hash: 1d64284f111ebfdd
 lang: ja
 status: machine
 fidelity: ok

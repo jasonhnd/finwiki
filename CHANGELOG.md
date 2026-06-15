@@ -31,6 +31,20 @@
 
 ## 2026-06-08 (In progress)
 
+### i18n Batch C-1 — link-only stale mirror の source_hash 再同期 + classifier (#21 進行中) / Re-sync content-current link-only mirrors / 重新同步 link-only 陈旧镜像
+
+#### 日本語記録 / English / 中文
+
+- **JST 時刻**: 2026-06-15 JST。
+- **背景**: [Issue #21](https://github.com/jasonhnd/finwiki/issues/21) の C-1。stale mirror 3103 を分類器(`tools/i18n_stale_classify.ts`、`98a1fd3d`)で link_only ≈2517(本文不変・masked token のみ変化)/ prose_changed ≈547 / unknown ≈39 に分類。link_only のうち「mirror の masked token 集合が現行 source と完全一致」する 1210 件は内容的に最新で source_hash だけが古い。
+- **範囲**: `tools/i18n_resync_linkonly.ts` 新規、`site/src/content/i18n/**` の 1210 mirror(`source_hash` 行のみ)、`CHANGELOG.md`(+ `--write` 計数同期)。
+- **主要変更**: 各 link_only mirror で `mask(mirror).masks` と `mask(current source).masks` の多重集合を比較し、一致時のみ `source_hash` を現行値へ更新(**body は一切変更せず、LLM 不使用**)。token が現行 source と異なる 1307 件(旧 `[[JapanFG/<entity>]]` 等を保持)は安全側で skip し Batch C-2 へ回す。
+- **安全性(検出した bug)**: 当初の diff ベース版は「source の最近差分のみ」を適用したため、より古い stale リンクを持つ 55 mirror を未修正のまま `source_hash` を更新する bug があった。検証で検出し全 mutation を `git restore` で巻き戻し、保守版(token 完全一致時のみハッシュ更新・body 不変)に置換。
+- **検証結果**: `i18n:status` stale ja 1031→526 / zh 1051→763 / en 1051→634(re-synced 1210、orphaned/missing=0)。`wiki_link_audit` dead=0、`release.ts --check --strict` EXIT 0、`git diff --check` EXIT 0。変更 mirror の diff は全て `source_hash` 1 行のみ。
+- **残タスク**: #21 継続。残 stale(token 差分 1307 + prose_changed 547 + unknown 39 ≈ 1893)は C-2(リンク再マップ / 重訳)。
+- **EN**: #21 Batch C-1. Classified the 3103 stale mirrors (`tools/i18n_stale_classify.ts`, `98a1fd3d`) into link_only ≈2517 (prose unchanged; only masked tokens differ) / prose_changed ≈547 / unknown ≈39. Of the link_only set, 1210 mirrors whose full masked-token multiset already equals the current source are content-current with only a stale `source_hash`. `tools/i18n_resync_linkonly.ts` compares `mask(mirror).masks` vs `mask(current source).masks` and, only when they match, rewrites the `source_hash` line (body never touched, no LLM). The 1307 link_only mirrors whose tokens differ (still hold old `[[JapanFG/<entity>]]` links, etc.) are skipped for Batch C-2. **Bug caught**: an initial diff-based version applied only the source's recent diff, which bumped `source_hash` on 55 mirrors that still held older stale links; detected in verification, reverted all mutations with `git restore`, replaced with the conservative token-match approach. Validated: `i18n:status` stale ja 1031→526 / zh 1051→763 / en 1051→634; `wiki_link_audit` dead=0; `release.ts --check --strict` and `git diff --check` EXIT 0; every changed mirror diff is the single `source_hash` line.
+- **中文**: #21 的 C-1。用分类器（`tools/i18n_stale_classify.ts`，`98a1fd3d`）把 3103 个陈旧镜像分为 link_only ≈2517（正文未变、仅 masked token 变化）/ prose_changed ≈547 / unknown ≈39。link_only 中有 1210 个镜像的 masked token 多重集合与当前源完全一致，属于内容已最新、仅 `source_hash` 过时。`tools/i18n_resync_linkonly.ts` 比较 `mask(mirror).masks` 与 `mask(当前源).masks`，仅在一致时改写 `source_hash` 行（**正文一律不动、不用 LLM**）。token 与当前源不同的 1307 个（仍持有旧 `[[JapanFG/<entity>]]` 等链接）安全跳过，留给 Batch C-2。**捕获的 bug**：最初的 diff 版只套用源的近期差分，导致对仍持有更早陈旧链接的 55 个镜像误更新 `source_hash`；验证时发现并用 `git restore` 全部回滚，改为保守的 token 完全匹配方案。已验证：`i18n:status` stale ja 1031→526 / zh 1051→763 / en 1051→634；`wiki_link_audit` dead=0；`release.ts --check --strict` 与 `git diff --check` EXIT 0；每个被改镜像的 diff 仅 `source_hash` 一行。
+
 ### i18n Batch B — cooperative-banks 3 件を翻訳 + en needs_review を解消 (#20) / Translate 3 missing cooperative-banks mirrors + clear 1 en needs_review / 翻译 3 个缺失 cooperative-banks 镜像 + 清除 1 条 en needs_review
 
 #### 日本語記録 / English / 中文

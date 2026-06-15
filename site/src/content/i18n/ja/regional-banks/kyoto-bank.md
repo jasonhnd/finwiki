@@ -1,6 +1,6 @@
 ---
 source: regional-banks/kyoto-bank
-source_hash: 9528591d75a93c99
+source_hash: a13145b7beacf1b7
 lang: ja
 status: machine
 fidelity: ok

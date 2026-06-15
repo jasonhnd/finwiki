@@ -1,6 +1,6 @@
 ---
 source: insurance/cooperative-insurance-system-japan
-source_hash: acbcdb3e4cd87567
+source_hash: d16d82a064c8464b
 lang: zh
 status: machine
 fidelity: ok

@@ -1,6 +1,6 @@
 ---
 source: foreign-financial-institutions/standard-chartered-japan
-source_hash: 873b9b72a9dc486a
+source_hash: dcb5d31ee4dd4c8f
 lang: ja
 status: machine
 fidelity: ok

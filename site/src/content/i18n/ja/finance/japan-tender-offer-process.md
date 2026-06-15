@@ -1,6 +1,6 @@
 ---
 source: finance/japan-tender-offer-process
-source_hash: 1d1e7b740fc5602d
+source_hash: 57d0e6c34608c064
 lang: ja
 status: machine
 fidelity: ok

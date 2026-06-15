@@ -1,6 +1,6 @@
 ---
 source: securities-firms/morgan-stanley-japan
-source_hash: 5b33785b62d72277
+source_hash: 1323f8b94f578a98
 lang: ja
 status: machine
 fidelity: ok

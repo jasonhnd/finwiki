@@ -1,6 +1,6 @@
 ---
 source: regional-banks/dai-shi-hokuetsu-fg
-source_hash: 20f00da1740754fb
+source_hash: bb3fcf3fa3706b43
 lang: ja
 status: machine
 fidelity: ok

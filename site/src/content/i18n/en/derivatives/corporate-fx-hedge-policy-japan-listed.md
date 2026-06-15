@@ -1,6 +1,6 @@
 ---
 source: derivatives/corporate-fx-hedge-policy-japan-listed
-source_hash: caf77e09a6eb4259
+source_hash: 89d291bc7d4a6062
 lang: en
 status: machine
 fidelity: ok

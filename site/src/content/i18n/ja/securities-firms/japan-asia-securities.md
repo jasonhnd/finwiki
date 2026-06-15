@@ -1,6 +1,6 @@
 ---
 source: securities-firms/japan-asia-securities
-source_hash: 87d7cebfe40e47b1
+source_hash: 46f829f0881c5916
 lang: ja
 status: machine
 fidelity: ok

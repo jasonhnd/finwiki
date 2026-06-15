@@ -1,6 +1,6 @@
 ---
 source: trust-banks/lombard-odier-trust
-source_hash: a4ea50d48e4ddfc3
+source_hash: 148070d65455a07d
 lang: ja
 status: machine
 fidelity: ok

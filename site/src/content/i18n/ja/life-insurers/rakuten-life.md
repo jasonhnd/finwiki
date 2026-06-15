@@ -1,6 +1,6 @@
 ---
 source: life-insurers/rakuten-life
-source_hash: 372eb3c1648ca842
+source_hash: 3f0dbd258faa471e
 lang: ja
 status: machine
 fidelity: ok

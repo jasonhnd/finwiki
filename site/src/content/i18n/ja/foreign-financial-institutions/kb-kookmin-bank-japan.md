@@ -1,6 +1,6 @@
 ---
 source: foreign-financial-institutions/kb-kookmin-bank-japan
-source_hash: f19da07929faa73a
+source_hash: a3c82b225881b146
 lang: ja
 status: machine
 fidelity: ok

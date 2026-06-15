@@ -1,6 +1,6 @@
 ---
 source: payments/jcb-three-party-operating-model
-source_hash: 1a79013f46f90bb1
+source_hash: 72539030f3ed28da
 lang: en
 status: machine
 fidelity: ok

@@ -1,6 +1,6 @@
 ---
 source: foreign-financial-institutions/bank-of-america-japan
-source_hash: 839afef56a405984
+source_hash: 59513b491f613ac0
 lang: ja
 status: machine
 fidelity: ok

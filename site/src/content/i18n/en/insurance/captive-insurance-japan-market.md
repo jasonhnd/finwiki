@@ -1,6 +1,6 @@
 ---
 source: insurance/captive-insurance-japan-market
-source_hash: 6fe9b4c3e77c7b3d
+source_hash: 764a142c4979df7b
 lang: en
 status: machine
 fidelity: ok

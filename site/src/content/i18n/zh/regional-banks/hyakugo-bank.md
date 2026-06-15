@@ -1,6 +1,6 @@
 ---
 source: regional-banks/hyakugo-bank
-source_hash: e4f024ea239c516b
+source_hash: 233fc8701016ef1d
 lang: zh
 status: machine
 fidelity: ok

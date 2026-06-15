@@ -1,6 +1,6 @@
 ---
 source: life-insurers/nn-life-japan
-source_hash: 9f1f4b93fda5f6c5
+source_hash: 2c494cf2f4f21e15
 lang: ja
 status: machine
 fidelity: ok

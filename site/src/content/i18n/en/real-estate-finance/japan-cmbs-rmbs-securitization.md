@@ -1,6 +1,6 @@
 ---
 source: real-estate-finance/japan-cmbs-rmbs-securitization
-source_hash: e88cf1e0c06a9456
+source_hash: 369b1796602442cc
 lang: en
 status: machine
 fidelity: ok

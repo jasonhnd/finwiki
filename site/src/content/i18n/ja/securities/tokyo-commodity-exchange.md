@@ -1,6 +1,6 @@
 ---
 source: securities/tokyo-commodity-exchange
-source_hash: d2e7b444333f96c6
+source_hash: 00e3b0ea36056073
 lang: ja
 status: machine
 fidelity: ok

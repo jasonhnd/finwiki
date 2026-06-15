@@ -1,6 +1,6 @@
 ---
 source: structured-finance/repackaging-note-japan
-source_hash: eb11f1726543d0fa
+source_hash: 862d8e011c740306
 lang: en
 status: machine
 fidelity: ok

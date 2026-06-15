@@ -1,6 +1,6 @@
 ---
 source: life-insurers/dai-ichi-life
-source_hash: b0f7f138f202d270
+source_hash: 28f55d1e0c52cbcd
 lang: zh
 status: machine
 fidelity: ok

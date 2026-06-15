@@ -1,6 +1,6 @@
 ---
 source: non-life-insurers/sakura-insurance
-source_hash: 29f4b496edc135cf
+source_hash: 4bb2bbfdf2212f5b
 lang: ja
 status: machine
 fidelity: ok

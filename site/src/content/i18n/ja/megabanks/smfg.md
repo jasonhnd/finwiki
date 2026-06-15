@@ -1,6 +1,6 @@
 ---
 source: megabanks/smfg
-source_hash: 9482726f9d345afa
+source_hash: 8ba9ca40fa6f72ed
 lang: ja
 status: machine
 fidelity: ok

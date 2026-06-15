@@ -1,6 +1,6 @@
 ---
 source: exchanges/jp-exchange-sbi-securities
-source_hash: c3ca58582ce79f5d
+source_hash: 42316da1e0bd2783
 lang: ja
 status: machine
 fidelity: ok

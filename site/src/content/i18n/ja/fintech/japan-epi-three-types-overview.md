@@ -1,6 +1,6 @@
 ---
 source: fintech/japan-epi-three-types-overview
-source_hash: 7703d8b0fe48a969
+source_hash: 42e6cb14861f6157
 lang: ja
 status: machine
 fidelity: ok

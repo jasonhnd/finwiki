@@ -1,6 +1,6 @@
 ---
 source: cooperative-banks/zenshin-kumi
-source_hash: 9e7cf75728a1b4e9
+source_hash: d1f253889563ed04
 lang: ja
 status: machine
 fidelity: ok

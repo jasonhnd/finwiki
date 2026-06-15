@@ -1,6 +1,6 @@
 ---
 source: trust-banks/nichizei-trust
-source_hash: 93b21d02931eb6d1
+source_hash: 459ddacbfbb60af4
 lang: ja
 status: machine
 fidelity: ok

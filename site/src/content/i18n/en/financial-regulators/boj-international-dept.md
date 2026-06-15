@@ -1,6 +1,6 @@
 ---
 source: financial-regulators/boj-international-dept
-source_hash: a8af91109f28c734
+source_hash: aeb55f0c5ac522b1
 lang: en
 status: machine
 fidelity: ok

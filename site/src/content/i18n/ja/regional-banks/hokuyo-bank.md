@@ -1,6 +1,6 @@
 ---
 source: regional-banks/hokuyo-bank
-source_hash: 684d164a3f078bd8
+source_hash: 0b9ba9265f06a240
 lang: ja
 status: machine
 fidelity: ok

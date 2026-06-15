@@ -1,6 +1,6 @@
 ---
 source: securities-firms/okasan-sg
-source_hash: cd863ec4dcb98623
+source_hash: 29adf0967d277e29
 lang: ja
 status: machine
 fidelity: ok

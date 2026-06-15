@@ -1,6 +1,6 @@
 ---
 source: structured-finance/consumer-loan-abs-japan-card-issuer
-source_hash: cbbad183721ba81d
+source_hash: 9caa44b6f699195f
 lang: en
 status: machine
 fidelity: ok

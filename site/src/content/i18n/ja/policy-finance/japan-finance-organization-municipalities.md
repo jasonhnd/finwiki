@@ -1,6 +1,6 @@
 ---
 source: policy-finance/japan-finance-organization-municipalities
-source_hash: 3e28754140db27a5
+source_hash: 2100c9f1aff1c318
 lang: ja
 status: machine
 fidelity: ok

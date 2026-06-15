@@ -1,6 +1,6 @@
 ---
 source: trust-banks/kyodo-trust
-source_hash: 443e405ef5f39b7b
+source_hash: e23c02e60a63f690
 lang: en
 status: machine
 fidelity: ok

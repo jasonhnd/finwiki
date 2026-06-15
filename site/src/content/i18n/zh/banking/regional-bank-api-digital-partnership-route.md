@@ -1,6 +1,6 @@
 ---
 source: banking/regional-bank-api-digital-partnership-route
-source_hash: 3c92735c9cbf1e8e
+source_hash: ffdf1c48bc294668
 lang: zh
 status: machine
 fidelity: ok

@@ -1,6 +1,6 @@
 ---
 source: foreign-financial-institutions/bank-of-communications-japan
-source_hash: 6e9503aaff292cf8
+source_hash: 07457002f74d8efe
 lang: en
 status: machine
 fidelity: ok

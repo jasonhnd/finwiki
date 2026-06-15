@@ -1,6 +1,6 @@
 ---
 source: regional-banks/tokyo-star-bank
-source_hash: a699eaded09cbabc
+source_hash: dbe31bedb806e2bf
 lang: en
 status: machine
 fidelity: ok

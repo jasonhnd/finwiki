@@ -1,6 +1,6 @@
 ---
 source: insurance/global-solvency-framework-comparison-matrix
-source_hash: 95247b04ea1026e2
+source_hash: 7f4473fe916378e2
 lang: en
 status: machine
 fidelity: ok

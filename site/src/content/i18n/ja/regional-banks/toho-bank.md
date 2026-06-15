@@ -1,6 +1,6 @@
 ---
 source: regional-banks/toho-bank
-source_hash: ba386d30e537a206
+source_hash: 5af1f465664b2356
 lang: ja
 status: machine
 fidelity: ok

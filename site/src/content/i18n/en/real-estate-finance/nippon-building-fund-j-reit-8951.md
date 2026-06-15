@@ -1,6 +1,6 @@
 ---
 source: real-estate-finance/nippon-building-fund-j-reit-8951
-source_hash: 925d5e711aee0a8b
+source_hash: 66976e224d579c8b
 lang: en
 status: machine
 fidelity: ok

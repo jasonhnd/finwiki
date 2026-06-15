@@ -1,6 +1,6 @@
 ---
 source: fintech/jurisdiction-list-monetary-protectionism
-source_hash: 6f9ec21959f3b6c2
+source_hash: 28ee59609c5a11b1
 lang: zh
 status: machine
 fidelity: ok

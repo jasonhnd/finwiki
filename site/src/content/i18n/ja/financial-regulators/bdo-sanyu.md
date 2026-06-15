@@ -1,6 +1,6 @@
 ---
 source: financial-regulators/bdo-sanyu
-source_hash: 12a2d666c8ef0cd7
+source_hash: 86f0fa4aee5e439d
 lang: ja
 status: machine
 fidelity: ok

@@ -1,6 +1,6 @@
 ---
 source: payment-firms/money-forward
-source_hash: 275674e19e722bd7
+source_hash: 64fa0848ee70cb02
 lang: ja
 status: machine
 fidelity: ok

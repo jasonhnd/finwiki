@@ -1,6 +1,6 @@
 ---
 source: cooperative-banks/iwaki-shinkumi
-source_hash: 976bc0e407a2c282
+source_hash: a96c6795781be863
 lang: ja
 status: machine
 fidelity: ok

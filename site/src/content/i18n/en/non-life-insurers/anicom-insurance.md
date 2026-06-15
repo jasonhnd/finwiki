@@ -1,6 +1,6 @@
 ---
 source: non-life-insurers/anicom-insurance
-source_hash: 4134c6ef773e5052
+source_hash: 45782db01d15412d
 lang: en
 status: machine
 fidelity: ok

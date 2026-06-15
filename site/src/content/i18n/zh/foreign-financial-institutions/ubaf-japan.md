@@ -1,6 +1,6 @@
 ---
 source: foreign-financial-institutions/ubaf-japan
-source_hash: d3e4b9e8bfd8f389
+source_hash: 416c526f2d3d488f
 lang: zh
 status: machine
 fidelity: ok

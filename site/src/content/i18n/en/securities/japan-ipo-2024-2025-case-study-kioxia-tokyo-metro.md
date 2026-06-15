@@ -1,6 +1,6 @@
 ---
 source: securities/japan-ipo-2024-2025-case-study-kioxia-tokyo-metro
-source_hash: 3b726ca1648c6f78
+source_hash: eb21d0feb49d9fb5
 lang: en
 status: machine
 fidelity: ok

@@ -1,6 +1,6 @@
 ---
 source: card-issuers/installment-sales-act-2020-amendment
-source_hash: 232696e3708817d9
+source_hash: 04e6be00f953cc71
 lang: ja
 status: machine
 fidelity: ok

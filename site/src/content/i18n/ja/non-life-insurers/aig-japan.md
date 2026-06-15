@@ -1,6 +1,6 @@
 ---
 source: non-life-insurers/aig-japan
-source_hash: 9285a9f4c9c3106a
+source_hash: 1cc93224c945b12b
 lang: ja
 status: machine
 fidelity: ok

@@ -1,6 +1,6 @@
 ---
 source: insurance/mutual-vs-stock-life-insurer
-source_hash: a384d073356da943
+source_hash: c92463128a59fbca
 lang: ja
 status: machine
 fidelity: ok

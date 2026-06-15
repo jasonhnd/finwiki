@@ -1,6 +1,6 @@
 ---
 source: payments/japan-card-issuer-acquirer-processor-split
-source_hash: d0156df45dc02ebb
+source_hash: 6747ff79dacb1070
 lang: en
 status: machine
 fidelity: ok

@@ -1,6 +1,6 @@
 ---
 source: payment-firms/netstars
-source_hash: 69637c2dc665f2ab
+source_hash: 6573d0607f1bf435
 lang: zh
 status: machine
 fidelity: ok

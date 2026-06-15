@@ -1,6 +1,6 @@
 ---
 source: regional-banks/hachijuni-nagano-bank
-source_hash: 3e0d703a0ec5a15a
+source_hash: 7ce8e3ca45c9f159
 lang: ja
 status: machine
 fidelity: ok

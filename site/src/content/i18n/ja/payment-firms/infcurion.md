@@ -1,6 +1,6 @@
 ---
 source: payment-firms/infcurion
-source_hash: 749142c8c73a8e0c
+source_hash: d985ff786e196cea
 lang: ja
 status: machine
 fidelity: ok

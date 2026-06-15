@@ -1,6 +1,6 @@
 ---
 source: foreign-financial-institutions/hana-bank-japan
-source_hash: 1afb14d344258c4e
+source_hash: e58e76d94df6db79
 lang: ja
 status: machine
 fidelity: ok

@@ -1,6 +1,6 @@
 ---
 source: financial-regulators/ey-shinnihon
-source_hash: 9af619ab9cf1a564
+source_hash: 2d09d739d7840752
 lang: ja
 status: machine
 fidelity: ok

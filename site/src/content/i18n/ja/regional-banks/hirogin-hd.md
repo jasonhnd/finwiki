@@ -1,6 +1,6 @@
 ---
 source: regional-banks/hirogin-hd
-source_hash: a382a657aecdc9fe
+source_hash: ce70ec3d3d2bf6a9
 lang: ja
 status: machine
 fidelity: ok

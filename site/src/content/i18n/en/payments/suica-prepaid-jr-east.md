@@ -1,6 +1,6 @@
 ---
 source: payments/suica-prepaid-jr-east
-source_hash: e078df1293c47ca3
+source_hash: 4f9dc7bb8b1dba9b
 lang: en
 status: machine
 fidelity: ok

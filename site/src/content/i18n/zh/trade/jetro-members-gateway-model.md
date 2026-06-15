@@ -1,6 +1,6 @@
 ---
 source: trade/jetro-members-gateway-model
-source_hash: a16067da727d6e9d
+source_hash: d2278e08b830791a
 lang: zh
 status: machine
 fidelity: ok

@@ -1,6 +1,6 @@
 ---
 source: exchanges/jp-exchange-mercoin
-source_hash: ddba203f7e98e196
+source_hash: 352e6c2470ccbe96
 lang: ja
 status: machine
 fidelity: ok

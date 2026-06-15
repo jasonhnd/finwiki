@@ -1,6 +1,6 @@
 ---
 source: trust-banks/greif-trust
-source_hash: de33f641697b836d
+source_hash: 854d27b526706917
 lang: ja
 status: machine
 fidelity: ok

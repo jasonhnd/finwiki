@@ -1,6 +1,6 @@
 ---
 source: regional-banks/okinawa-fg
-source_hash: d585c2eab38684b7
+source_hash: 290e88f7869e3b30
 lang: ja
 status: machine
 fidelity: ok

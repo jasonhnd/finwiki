@@ -1,6 +1,6 @@
 ---
 source: real-estate-finance/j-reit-market-overview
-source_hash: d1161e55126e9d59
+source_hash: 314ea9d76231c8f4
 lang: en
 status: machine
 fidelity: ok

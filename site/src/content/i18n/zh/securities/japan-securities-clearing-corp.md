@@ -1,6 +1,6 @@
 ---
 source: securities/japan-securities-clearing-corp
-source_hash: d6ea2e0b045f3835
+source_hash: 27559425266365f6
 lang: zh
 status: machine
 fidelity: ok

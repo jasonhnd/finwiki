@@ -1,6 +1,6 @@
 ---
 source: non-life-insurers/kyoritsu-fire-marine
-source_hash: 8bb35023ef76330d
+source_hash: 1d6e1ce2d061e0a3
 lang: ja
 status: machine
 fidelity: ok

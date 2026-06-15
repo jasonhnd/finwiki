@@ -1,6 +1,6 @@
 ---
 source: policy-finance/japan-local-government-bond-market-issuance-matrix
-source_hash: 25229eb88db0493b
+source_hash: 694a6bb3ae585d6a
 lang: en
 status: machine
 fidelity: ok

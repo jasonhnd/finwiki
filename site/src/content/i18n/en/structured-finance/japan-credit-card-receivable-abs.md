@@ -1,6 +1,6 @@
 ---
 source: structured-finance/japan-credit-card-receivable-abs
-source_hash: f0b293d7a71fd4ed
+source_hash: ce83a1bc5667e0c8
 lang: en
 status: machine
 fidelity: ok

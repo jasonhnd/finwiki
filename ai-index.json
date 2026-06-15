@@ -1,6 +1,6 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-06-15T08:05:37+09:00",
+  "generated_at": "2026-06-15T10:30:49+09:00",
   "counts": {
     "markdown_files": 1566,
     "public_markdown_pages": 1565,
@@ -9,8 +9,8 @@
     "link_audited_entries": 1485,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 11068184,
-    "word_like_tokens": 1785340,
+    "nonspace_utf8_chars": 11071106,
+    "word_like_tokens": 1785898,
     "entity_anchors": 12,
     "entity_mirror_pages": 12
   },
@@ -607,14 +607,15 @@
         "English",
         "中文",
         "2026-06-08 (In progress)",
+        "i18n Batch C-1 — link-only stale mirror の source_hash 再同期 + classifier (#21 進行中) / Re-sync content-current link-only mirrors / 重新同步 link-only 陈旧镜像",
         "i18n Batch B — cooperative-banks 3 件を翻訳 + en needsreview を解消 (#20) / Translate 3 missing cooperative-banks mirrors + clear 1 en needsreview / 翻译 3 个缺失 cooperative-banks 镜像 + 清除 1 条 en needs_review",
         "i18n Batch A — financial-licenses mirror をフラット化パスへ移設 (#19) / Relocate financial-licenses mirrors after path flatten / 迁移 financial-licenses 镜像到扁平化路径",
-        "backlog / roadmap を GitHub issue 状態へ校正 (#14) / Reconcile backlog & roadmap with issue state / 按 issue 状态校正 backlog 与 roadmap",
-        "index.html og/meta + 本文計数を release.ts に同期 (#18) / Sync index.html og/meta + body counts via release.ts / 通过 release.ts 同步 index.html og/正文计数"
+        "backlog / roadmap を GitHub issue 状態へ校正 (#14) / Reconcile backlog & roadmap with issue state / 按 issue 状态校正 backlog 与 roadmap"
       ],
       "wikilinks": [
         "...",
         "JapanFG",
+        "JapanFG/<entity>",
         "JapanFG/INDEX",
         "JapanFG/…",
         "asset-managers/mitsubishi-corp-asset-management",
@@ -857,6 +858,7 @@
         "https://github.com/jasonhnd/finwiki/issues/19",
         "https://github.com/jasonhnd/finwiki/issues/2",
         "https://github.com/jasonhnd/finwiki/issues/20",
+        "https://github.com/jasonhnd/finwiki/issues/21",
         "https://github.com/jasonhnd/finwiki/issues/3",
         "https://github.com/jasonhnd/finwiki/issues/4",
         "https://github.com/jasonhnd/finwiki/issues/5",
@@ -864,8 +866,8 @@
         "https://github.com/jasonhnd/finwiki/issues/7",
         "path"
       ],
-      "nonspace_chars": 589387,
-      "word_like_tokens": 105213,
+      "nonspace_chars": 592309,
+      "word_like_tokens": 105771,
       "last_modified": "2026-06-15"
     },
     {

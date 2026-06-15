@@ -1,6 +1,6 @@
 ---
 source: manufacturer-finance/nissan-financial-services
-source_hash: c23b8db8ceb7a6d1
+source_hash: e3e301bd88df2b19
 lang: en
 model: claude-opus-4-8
 status: machine

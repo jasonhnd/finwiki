@@ -1,6 +1,6 @@
 ---
 source: securities-firms/mufg-securities
-source_hash: 057e1001642df3af
+source_hash: 130984fcb45c5043
 lang: ja
 status: machine
 fidelity: ok

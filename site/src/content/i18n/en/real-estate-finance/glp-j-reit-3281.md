@@ -1,6 +1,6 @@
 ---
 source: real-estate-finance/glp-j-reit-3281
-source_hash: b6dd5fae69f95045
+source_hash: f16c305ae1eb3c2f
 lang: en
 status: machine
 fidelity: ok

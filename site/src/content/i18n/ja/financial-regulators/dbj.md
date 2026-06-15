@@ -1,6 +1,6 @@
 ---
 source: financial-regulators/dbj
-source_hash: e8be03721211979b
+source_hash: a36aa6ee75099467
 lang: ja
 status: machine
 fidelity: ok

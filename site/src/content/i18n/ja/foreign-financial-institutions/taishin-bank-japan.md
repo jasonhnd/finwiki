@@ -1,6 +1,6 @@
 ---
 source: foreign-financial-institutions/taishin-bank-japan
-source_hash: 497d908a61fd90fa
+source_hash: 840e745a2b24fd2f
 lang: ja
 status: machine
 fidelity: ok

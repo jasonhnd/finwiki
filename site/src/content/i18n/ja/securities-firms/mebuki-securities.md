@@ -1,6 +1,6 @@
 ---
 source: securities-firms/mebuki-securities
-source_hash: e835c7315e480666
+source_hash: c573356781bec155
 lang: ja
 status: machine
 fidelity: ok

@@ -1,6 +1,6 @@
 ---
 source: financial-regulators/ueda-yagi-tanshi
-source_hash: e555492910b38e70
+source_hash: b8b4584c00da19f6
 lang: ja
 status: machine
 fidelity: ok

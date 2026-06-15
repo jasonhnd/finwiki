@@ -1,6 +1,6 @@
 ---
 source: regional-banks/yamagata-bank
-source_hash: e37d6f063ef0500e
+source_hash: 123ee7afbbf534b1
 lang: ja
 status: machine
 fidelity: ok

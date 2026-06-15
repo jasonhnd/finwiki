@@ -1,6 +1,6 @@
 ---
 source: insurance/internet-life-insurance-business-model
-source_hash: 766ec111bd30f7bb
+source_hash: c608a1cf073989a9
 lang: ja
 status: machine
 fidelity: ok

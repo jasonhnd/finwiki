@@ -1,6 +1,6 @@
 ---
 source: non-life-insurers/pet-and-family-insurance
-source_hash: 3446df45b60f768d
+source_hash: eeb9439542a10bd9
 lang: ja
 status: machine
 fidelity: ok

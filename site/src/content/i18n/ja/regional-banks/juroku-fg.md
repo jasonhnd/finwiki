@@ -1,6 +1,6 @@
 ---
 source: regional-banks/juroku-fg
-source_hash: c911ee5b589f0bfa
+source_hash: 73af20ed9bcfd9f3
 lang: ja
 status: machine
 fidelity: ok

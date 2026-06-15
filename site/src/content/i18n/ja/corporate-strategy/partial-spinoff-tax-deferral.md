@@ -1,6 +1,6 @@
 ---
 source: corporate-strategy/partial-spinoff-tax-deferral
-source_hash: dc4c6c27812098cc
+source_hash: 4426225d029da84d
 lang: ja
 status: machine
 fidelity: ok

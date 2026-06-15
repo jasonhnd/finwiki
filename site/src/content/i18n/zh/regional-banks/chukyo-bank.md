@@ -1,6 +1,6 @@
 ---
 source: regional-banks/chukyo-bank
-source_hash: 0c709c1c67d18f4a
+source_hash: 0edba55de968e138
 lang: zh
 status: machine
 fidelity: ok

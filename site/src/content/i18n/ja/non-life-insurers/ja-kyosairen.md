@@ -1,6 +1,6 @@
 ---
 source: non-life-insurers/ja-kyosairen
-source_hash: 00a545c6f340d64d
+source_hash: 2a7d1470059bdaa4
 lang: ja
 status: machine
 fidelity: ok

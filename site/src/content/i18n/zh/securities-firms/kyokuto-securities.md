@@ -1,6 +1,6 @@
 ---
 source: securities-firms/kyokuto-securities
-source_hash: 9aafa097d2d0055f
+source_hash: 1e5b46155c512e7e
 lang: zh
 status: machine
 fidelity: ok

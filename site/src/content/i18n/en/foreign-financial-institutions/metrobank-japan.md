@@ -1,6 +1,6 @@
 ---
 source: foreign-financial-institutions/metrobank-japan
-source_hash: 55546db8be0283dc
+source_hash: e6acba6e3d6b72d5
 lang: en
 status: machine
 fidelity: ok

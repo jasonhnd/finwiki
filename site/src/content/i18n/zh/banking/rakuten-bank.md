@@ -1,6 +1,6 @@
 ---
 source: banking/rakuten-bank
-source_hash: f24722f3a56274b1
+source_hash: 4b5aff48ac713538
 lang: zh
 status: machine
 fidelity: ok

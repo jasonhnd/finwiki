@@ -1,6 +1,6 @@
 ---
 source: payment-firms/bnpl-landscape
-source_hash: 72f658c26d821a6e
+source_hash: 99b6c4d9ee1c40e2
 lang: en
 status: machine
 fidelity: ok

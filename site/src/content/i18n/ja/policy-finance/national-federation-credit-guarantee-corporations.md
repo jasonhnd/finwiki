@@ -1,6 +1,6 @@
 ---
 source: policy-finance/national-federation-credit-guarantee-corporations
-source_hash: 12f3d58932ed906c
+source_hash: 7e23d0532a4fb296
 lang: ja
 status: machine
 fidelity: ok

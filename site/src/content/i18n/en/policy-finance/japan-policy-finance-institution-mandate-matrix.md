@@ -1,6 +1,6 @@
 ---
 source: policy-finance/japan-policy-finance-institution-mandate-matrix
-source_hash: 97b759171cca7aa9
+source_hash: e79c82098d957de5
 lang: en
 status: machine
 fidelity: ok

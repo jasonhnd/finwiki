@@ -1,6 +1,6 @@
 ---
 source: financial-regulators/jbic
-source_hash: 7d79a584c5c5fc07
+source_hash: ca6df8e1fc846933
 lang: ja
 status: machine
 fidelity: ok

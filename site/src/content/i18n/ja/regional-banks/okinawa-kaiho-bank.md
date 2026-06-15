@@ -1,6 +1,6 @@
 ---
 source: regional-banks/okinawa-kaiho-bank
-source_hash: 889c6151448b8ba6
+source_hash: 2f4f41c469235878
 lang: ja
 status: machine
 fidelity: ok

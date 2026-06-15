@@ -1,6 +1,6 @@
 ---
 source: trading-company-finance/mitsubishi-corp-finance
-source_hash: 396a0db0b996a787
+source_hash: 3dd448e3abdc4205
 lang: ja
 status: machine
 fidelity: ok

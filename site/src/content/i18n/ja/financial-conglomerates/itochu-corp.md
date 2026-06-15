@@ -1,6 +1,6 @@
 ---
 source: financial-conglomerates/itochu-corp
-source_hash: 04e09ca021a5fe0f
+source_hash: f0c3b12da3d4afe9
 lang: ja
 status: machine
 fidelity: ok

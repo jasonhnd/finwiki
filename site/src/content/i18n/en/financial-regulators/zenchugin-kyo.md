@@ -1,6 +1,6 @@
 ---
 source: financial-regulators/zenchugin-kyo
-source_hash: 5f8d207d894586bf
+source_hash: 219a377d4c881129
 lang: en
 status: machine
 fidelity: ok

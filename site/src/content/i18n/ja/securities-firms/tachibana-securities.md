@@ -1,6 +1,6 @@
 ---
 source: securities-firms/tachibana-securities
-source_hash: 6ed5b8be0ad79ab5
+source_hash: f7dd212a3659602f
 lang: ja
 status: machine
 fidelity: ok

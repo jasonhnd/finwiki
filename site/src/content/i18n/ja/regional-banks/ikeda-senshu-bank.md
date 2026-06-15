@@ -1,6 +1,6 @@
 ---
 source: regional-banks/ikeda-senshu-bank
-source_hash: e92013ce9f1c65c4
+source_hash: 6ec6c7f75ace3015
 lang: ja
 status: machine
 fidelity: ok

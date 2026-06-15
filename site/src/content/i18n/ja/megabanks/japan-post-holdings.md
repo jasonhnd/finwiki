@@ -1,6 +1,6 @@
 ---
 source: megabanks/japan-post-holdings
-source_hash: 962882d769f90356
+source_hash: 263426b4b978e24e
 lang: ja
 status: machine
 fidelity: ok

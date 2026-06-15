@@ -1,6 +1,6 @@
 ---
 source: regional-banks/shizuoka-fg
-source_hash: 93c3b0b94d21b881
+source_hash: 2351ba9b7a756e86
 lang: ja
 status: machine
 fidelity: ok

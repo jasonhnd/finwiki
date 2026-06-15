@@ -1,6 +1,6 @@
 ---
 source: financial-regulators/zenginkyo
-source_hash: bfd2780c0081b3cb
+source_hash: 1bfe74f8746b6889
 lang: ja
 status: machine
 fidelity: ok

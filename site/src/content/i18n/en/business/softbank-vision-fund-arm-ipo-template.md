@@ -1,6 +1,6 @@
 ---
 source: business/softbank-vision-fund-arm-ipo-template
-source_hash: 0de583a402ba36a9
+source_hash: 38cf0b9fe1bc5caf
 lang: en
 status: machine
 fidelity: ok

@@ -1,6 +1,6 @@
 ---
 source: leasing-firms/showa-leasing
-source_hash: eaf462590dfd22e4
+source_hash: 40b15e7e63112729
 lang: ja
 status: machine
 fidelity: ok

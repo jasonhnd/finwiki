@@ -1,6 +1,6 @@
 ---
 source: fintech/2022-three-variable-cascade-thesis
-source_hash: a2b5b9b998218093
+source_hash: 94edf037b672e8ba
 lang: ja
 status: machine
 fidelity: ok

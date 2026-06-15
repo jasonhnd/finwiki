@@ -1,6 +1,6 @@
 ---
 source: foreign-financial-institutions/bnp-paribas-japan
-source_hash: 7d7337f0855f7881
+source_hash: d96600322c617302
 lang: ja
 status: machine
 fidelity: ok

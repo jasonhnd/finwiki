@@ -1,6 +1,6 @@
 ---
 source: cooperative-banks/ja-kyosairen-fukushima
-source_hash: 9c16f7dd8fe5d348
+source_hash: cf20b3ecdfc83626
 lang: ja
 status: machine
 fidelity: ok

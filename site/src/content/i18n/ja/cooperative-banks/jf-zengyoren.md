@@ -1,6 +1,6 @@
 ---
 source: cooperative-banks/jf-zengyoren
-source_hash: e1c28b381f7eb1cc
+source_hash: a89009651daebb3e
 lang: ja
 status: machine
 fidelity: ok

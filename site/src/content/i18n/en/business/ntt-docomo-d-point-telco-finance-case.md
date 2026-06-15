@@ -1,6 +1,6 @@
 ---
 source: business/ntt-docomo-d-point-telco-finance-case
-source_hash: f7d0d2ca097cd72f
+source_hash: 78ef5ec466ed7337
 lang: en
 status: machine
 fidelity: ok

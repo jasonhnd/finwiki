@@ -1,6 +1,6 @@
 ---
 source: non-life-insurers/au-insurance
-source_hash: 3c4614021c27a7ac
+source_hash: 59476d753c13fef5
 lang: en
 status: machine
 fidelity: ok

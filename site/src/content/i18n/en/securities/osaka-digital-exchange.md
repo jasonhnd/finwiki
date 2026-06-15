@@ -1,6 +1,6 @@
 ---
 source: securities/osaka-digital-exchange
-source_hash: c09c8f8c9d1323b6
+source_hash: 2b0f5f35c01627c9
 lang: en
 status: machine
 fidelity: ok

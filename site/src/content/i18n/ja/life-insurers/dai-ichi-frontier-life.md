@@ -1,6 +1,6 @@
 ---
 source: life-insurers/dai-ichi-frontier-life
-source_hash: 7e834d05e24071e5
+source_hash: 320758693d43d407
 lang: ja
 status: machine
 fidelity: ok

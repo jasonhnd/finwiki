@@ -1,6 +1,6 @@
 ---
 source: regional-banks/aichi-bank
-source_hash: bc062171d69014cd
+source_hash: e30fff579634cc31
 lang: zh
 status: machine
 fidelity: ok

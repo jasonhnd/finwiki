@@ -1,6 +1,6 @@
 ---
 source: exchanges/global-vasp-regulatory-comparison-matrix
-source_hash: 370cd647df37bb14
+source_hash: 20430bae936c0172
 lang: ja
 status: machine
 fidelity: ok

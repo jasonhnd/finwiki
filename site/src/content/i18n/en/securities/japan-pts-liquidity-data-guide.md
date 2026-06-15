@@ -1,6 +1,6 @@
 ---
 source: securities/japan-pts-liquidity-data-guide
-source_hash: 6619b265e1dbd58f
+source_hash: 7f5a21c0f3b10acf
 lang: en
 status: machine
 fidelity: ok

@@ -1,6 +1,6 @@
 ---
 source: fintech/maina-wallet-kyc-permissionless-ux-bridge
-source_hash: 31b098766004fe7a
+source_hash: c7e67b76feb58b13
 lang: ja
 status: machine
 fidelity: ok

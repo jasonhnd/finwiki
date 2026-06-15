@@ -1,6 +1,6 @@
 ---
 source: foreign-financial-institutions/commonwealth-bank-japan
-source_hash: 495784c3f417e727
+source_hash: bd312184f4c7da0f
 lang: ja
 status: machine
 fidelity: ok

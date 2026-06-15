@@ -1,6 +1,6 @@
 ---
 source: financial-regulators/seimei-hokensha-hogo-kiko
-source_hash: 8d87a0b6880d457b
+source_hash: c94e9f508413df27
 lang: ja
 status: machine
 fidelity: ok

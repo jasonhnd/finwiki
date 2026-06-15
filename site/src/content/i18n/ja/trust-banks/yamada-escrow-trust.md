@@ -1,6 +1,6 @@
 ---
 source: trust-banks/yamada-escrow-trust
-source_hash: 5291191b273f7916
+source_hash: ba3bb8d9e786d672
 lang: ja
 status: machine
 fidelity: ok

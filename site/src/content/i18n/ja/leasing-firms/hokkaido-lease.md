@@ -1,6 +1,6 @@
 ---
 source: leasing-firms/hokkaido-lease
-source_hash: 52e2e7afc49ffe5f
+source_hash: cd9cbab00ce7191f
 lang: ja
 status: machine
 fidelity: ok

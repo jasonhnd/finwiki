@@ -1,6 +1,6 @@
 ---
 source: payment-firms/paidy
-source_hash: fc53edb7a8218f16
+source_hash: f7f69b28b32e18d8
 lang: ja
 status: machine
 fidelity: ok

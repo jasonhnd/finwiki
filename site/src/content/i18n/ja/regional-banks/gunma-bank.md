@@ -1,6 +1,6 @@
 ---
 source: regional-banks/gunma-bank
-source_hash: 76c21209eedb8e13
+source_hash: 4b982d0b191a5ca5
 lang: ja
 status: machine
 fidelity: ok

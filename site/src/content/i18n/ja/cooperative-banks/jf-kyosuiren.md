@@ -1,6 +1,6 @@
 ---
 source: cooperative-banks/jf-kyosuiren
-source_hash: 6f394661f29a011a
+source_hash: 2d9e9dbbfab4b561
 lang: ja
 status: machine
 fidelity: ok

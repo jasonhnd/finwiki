@@ -1,6 +1,6 @@
 ---
 source: non-life-insurers/allianz-fire-marine-japan
-source_hash: 50b7cbfb708d061f
+source_hash: 69e11b4f5b8fec6c
 lang: ja
 status: machine
 fidelity: ok

@@ -1,6 +1,6 @@
 ---
 source: non-life-insurers/qbe-japan
-source_hash: e79940598b832b70
+source_hash: 19cba8105ee04388
 lang: ja
 status: machine
 fidelity: ok

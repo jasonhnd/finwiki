@@ -1,6 +1,6 @@
 ---
 source: leasing-firms/tokyo-century-detail
-source_hash: b61acd6394d5d9f9
+source_hash: 1672310aabd54c53
 lang: ja
 status: machine
 fidelity: ok

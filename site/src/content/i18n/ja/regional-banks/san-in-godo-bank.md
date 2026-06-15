@@ -1,6 +1,6 @@
 ---
 source: regional-banks/san-in-godo-bank
-source_hash: 9640cb9463b1c932
+source_hash: a0b560a629632ad5
 lang: ja
 status: machine
 fidelity: ok

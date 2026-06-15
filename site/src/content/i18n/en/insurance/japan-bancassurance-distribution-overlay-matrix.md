@@ -1,6 +1,6 @@
 ---
 source: insurance/japan-bancassurance-distribution-overlay-matrix
-source_hash: 42ac18ff3f5086d1
+source_hash: 287e6701185ff57f
 lang: en
 status: machine
 fidelity: ok

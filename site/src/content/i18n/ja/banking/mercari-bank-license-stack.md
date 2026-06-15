@@ -1,6 +1,6 @@
 ---
 source: banking/mercari-bank-license-stack
-source_hash: 5a3337e280ef9ed3
+source_hash: 2a2686c6a3dc6811
 lang: ja
 status: machine
 fidelity: ok

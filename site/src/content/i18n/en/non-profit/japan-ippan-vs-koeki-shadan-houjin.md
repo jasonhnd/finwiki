@@ -1,6 +1,6 @@
 ---
 source: non-profit/japan-ippan-vs-koeki-shadan-houjin
-source_hash: 490ae0e508beb16c
+source_hash: 3f91b44451fafe6f
 lang: en
 model: claude-opus-4-8
 status: machine

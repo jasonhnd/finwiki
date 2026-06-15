@@ -1,6 +1,6 @@
 ---
 source: regional-banks/chiba-bank
-source_hash: ec2d4cc9267cbe3c
+source_hash: bd1dab7241aa23c4
 lang: ja
 status: machine
 fidelity: ok

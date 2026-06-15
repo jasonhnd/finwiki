@@ -1,6 +1,6 @@
 ---
 source: trading-company-finance/mitsui-bussan-financial-services
-source_hash: f57d11a436a91c90
+source_hash: 0f92e8902aeb5662
 lang: ja
 status: machine
 fidelity: ok

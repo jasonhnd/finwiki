@@ -1,6 +1,6 @@
 ---
 source: banking/japan-trust-bank-custody-map
-source_hash: 5514219ea9694740
+source_hash: 0102eb37e5bd1684
 lang: zh
 status: machine
 fidelity: ok

@@ -1,6 +1,6 @@
 ---
 source: card-issuers/shizugin-card
-source_hash: 4be9aec204738d2d
+source_hash: ec9f7089a1327738
 lang: ja
 status: machine
 fidelity: ok

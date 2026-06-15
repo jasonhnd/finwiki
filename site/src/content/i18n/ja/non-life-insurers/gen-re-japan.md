@@ -1,6 +1,6 @@
 ---
 source: non-life-insurers/gen-re-japan
-source_hash: d97c9a22ec5000ee
+source_hash: 22756b8bb5dc9b80
 lang: ja
 status: machine
 fidelity: ok

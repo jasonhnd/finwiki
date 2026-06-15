@@ -1,6 +1,6 @@
 ---
 source: derivatives/equity-volatility-hedging-corporates-japan
-source_hash: 86fc8298e036be81
+source_hash: 21d5c779778f2634
 lang: en
 status: machine
 fidelity: ok

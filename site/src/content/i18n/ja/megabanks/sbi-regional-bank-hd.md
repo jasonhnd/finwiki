@@ -1,6 +1,6 @@
 ---
 source: megabanks/sbi-regional-bank-hd
-source_hash: 9fe53aa3c842f991
+source_hash: 6cc1228deaa98f5d
 lang: ja
 status: machine
 fidelity: ok

@@ -1,6 +1,6 @@
 ---
 source: finance/real-options-valuation-japan-applications
-source_hash: 1e41cf9080ad1b2b
+source_hash: 0325276298cf3ead
 lang: en
 status: machine
 fidelity: ok

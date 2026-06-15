@@ -1,6 +1,6 @@
 ---
 source: regional-banks/kiyo-bank
-source_hash: 0b1c1d794edd2cb3
+source_hash: 85ed20c3d634067b
 lang: ja
 status: machine
 fidelity: ok

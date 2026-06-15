@@ -1,6 +1,6 @@
 ---
 source: exchanges/jp-listed-cex-related-companies-matrix
-source_hash: 631e046190ff5c23
+source_hash: 1d362e8aecdda2fe
 lang: ja
 status: machine
 fidelity: ok

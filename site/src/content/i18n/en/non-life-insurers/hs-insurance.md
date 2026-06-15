@@ -1,6 +1,6 @@
 ---
 source: non-life-insurers/hs-insurance
-source_hash: a3fbb65a371d0f91
+source_hash: 843270cd7ca89ab9
 lang: en
 status: machine
 fidelity: ok

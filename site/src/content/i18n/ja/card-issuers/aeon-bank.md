@@ -1,6 +1,6 @@
 ---
 source: card-issuers/aeon-bank
-source_hash: 1552bc3f7d44337c
+source_hash: c082123a745510f9
 lang: ja
 status: machine
 fidelity: ok

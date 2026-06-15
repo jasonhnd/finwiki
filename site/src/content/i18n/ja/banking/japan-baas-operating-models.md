@@ -1,6 +1,6 @@
 ---
 source: banking/japan-baas-operating-models
-source_hash: ce3a3f7251fa53ce
+source_hash: 049f4c58eae75d8f
 lang: ja
 status: machine
 fidelity: ok

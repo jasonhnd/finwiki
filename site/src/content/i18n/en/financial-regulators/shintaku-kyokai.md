@@ -1,6 +1,6 @@
 ---
 source: financial-regulators/shintaku-kyokai
-source_hash: e2ecf780af3721f4
+source_hash: dff6da704fa4aebe
 lang: en
 status: machine
 fidelity: ok

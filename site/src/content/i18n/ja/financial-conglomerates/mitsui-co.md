@@ -1,6 +1,6 @@
 ---
 source: financial-conglomerates/mitsui-co
-source_hash: 27a7b35b99fe77b7
+source_hash: 2b67e695583592ea
 lang: ja
 status: machine
 fidelity: ok

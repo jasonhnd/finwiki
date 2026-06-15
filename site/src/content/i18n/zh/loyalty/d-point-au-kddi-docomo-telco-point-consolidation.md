@@ -1,6 +1,6 @@
 ---
 source: loyalty/d-point-au-kddi-docomo-telco-point-consolidation
-source_hash: e787578a033e7318
+source_hash: 66b30eea4589ecf4
 lang: zh
 status: machine
 fidelity: ok

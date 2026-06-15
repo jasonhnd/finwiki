@@ -1,6 +1,6 @@
 ---
 source: regional-banks/jimoto-hd
-source_hash: 1165535985db1bb6
+source_hash: a749fb9e95870377
 lang: ja
 status: machine
 fidelity: ok

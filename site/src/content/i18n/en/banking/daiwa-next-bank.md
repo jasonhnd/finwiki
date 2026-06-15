@@ -1,6 +1,6 @@
 ---
 source: banking/daiwa-next-bank
-source_hash: 21c66b09d7db169c
+source_hash: 01ed015f5641aef8
 lang: en
 status: machine
 fidelity: ok

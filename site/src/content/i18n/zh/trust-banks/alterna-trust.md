@@ -1,6 +1,6 @@
 ---
 source: trust-banks/alterna-trust
-source_hash: ec4339e9581f4e75
+source_hash: 013dc51450b1a5a7
 lang: zh
 status: machine
 fidelity: ok

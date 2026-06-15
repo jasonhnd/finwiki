@@ -1,6 +1,6 @@
 ---
 source: trade/jetro-vs-nexi-vs-jbic-comparison
-source_hash: c8d7b9389c8cd491
+source_hash: e585cfba692639d2
 lang: ja
 status: machine
 fidelity: ok

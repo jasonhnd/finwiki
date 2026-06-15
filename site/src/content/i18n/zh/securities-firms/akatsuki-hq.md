@@ -1,6 +1,6 @@
 ---
 source: securities-firms/akatsuki-hq
-source_hash: 0be163d16c08e2de
+source_hash: 05168adf1358f00b
 lang: zh
 status: machine
 fidelity: ok

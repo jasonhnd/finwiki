@@ -1,6 +1,6 @@
 ---
 source: money-market/japan-short-term-funding-instrument-matrix
-source_hash: 58d08fd3f538bd6b
+source_hash: 0fea42c9d4c38bf2
 lang: en
 status: machine
 fidelity: ok

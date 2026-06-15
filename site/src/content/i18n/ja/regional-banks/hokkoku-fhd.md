@@ -1,6 +1,6 @@
 ---
 source: regional-banks/hokkoku-fhd
-source_hash: e8f0c64f835e4c32
+source_hash: c96b91813039ecb9
 lang: ja
 status: machine
 fidelity: ok

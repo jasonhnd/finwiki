@@ -1,6 +1,6 @@
 ---
 source: securities-firms/ffg-securities
-source_hash: cfdc9d9b4ce13027
+source_hash: f65bcfdf817d0d5c
 lang: ja
 status: machine
 fidelity: ok

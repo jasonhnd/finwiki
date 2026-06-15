@@ -1,6 +1,6 @@
 ---
 source: regional-banks/saga-kyoei-bank
-source_hash: e12de23234a3e1a6
+source_hash: d540e76063c129bb
 lang: ja
 status: machine
 fidelity: ok

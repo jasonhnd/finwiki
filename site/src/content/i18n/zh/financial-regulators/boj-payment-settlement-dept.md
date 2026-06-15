@@ -1,6 +1,6 @@
 ---
 source: financial-regulators/boj-payment-settlement-dept
-source_hash: 9e37873cb25b2d42
+source_hash: e35fcfe6936048b7
 lang: zh
 status: machine
 fidelity: ok

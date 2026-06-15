@@ -1,6 +1,6 @@
 ---
 source: cooperative-banks/fukuoka-ken-shinkumi
-source_hash: 9ccc92d5bd7e84a4
+source_hash: 4bb4624c11cb068b
 lang: zh
 status: machine
 fidelity: ok

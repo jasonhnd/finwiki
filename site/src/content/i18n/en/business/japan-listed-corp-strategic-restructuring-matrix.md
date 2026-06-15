@@ -1,6 +1,6 @@
 ---
 source: business/japan-listed-corp-strategic-restructuring-matrix
-source_hash: 213eace45020cbf5
+source_hash: 9aa874390dffbcd9
 lang: en
 status: machine
 fidelity: ok

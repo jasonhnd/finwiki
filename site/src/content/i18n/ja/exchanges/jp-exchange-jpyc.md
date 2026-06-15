@@ -1,6 +1,6 @@
 ---
 source: exchanges/jp-exchange-jpyc
-source_hash: 4f9ad2272c6bf98d
+source_hash: 572712ecf2c9b4cb
 lang: ja
 status: machine
 fidelity: ok

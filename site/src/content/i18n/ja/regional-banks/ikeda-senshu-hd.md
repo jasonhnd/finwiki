@@ -1,6 +1,6 @@
 ---
 source: regional-banks/ikeda-senshu-hd
-source_hash: 6a83b6e8ade9f865
+source_hash: 2e9006eaa91cc7e8
 lang: ja
 status: machine
 fidelity: ok

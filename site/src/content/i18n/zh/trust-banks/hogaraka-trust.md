@@ -1,6 +1,6 @@
 ---
 source: trust-banks/hogaraka-trust
-source_hash: cf93a2096b2b39a3
+source_hash: 56b9506ffdf481e3
 lang: zh
 status: machine
 fidelity: ok

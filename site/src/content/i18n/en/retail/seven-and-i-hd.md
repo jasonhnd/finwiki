@@ -1,6 +1,6 @@
 ---
 source: retail/seven-and-i-hd
-source_hash: 47c19888393f4f60
+source_hash: 6a6eb5d9150839bf
 lang: en
 status: machine
 fidelity: ok

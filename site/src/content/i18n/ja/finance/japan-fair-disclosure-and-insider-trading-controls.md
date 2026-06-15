@@ -1,6 +1,6 @@
 ---
 source: finance/japan-fair-disclosure-and-insider-trading-controls
-source_hash: 0f231a720b146b26
+source_hash: 6ed852d0d9b06ac4
 lang: ja
 status: machine
 fidelity: ok

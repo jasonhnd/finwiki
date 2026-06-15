@@ -1,6 +1,6 @@
 ---
 source: regional-banks/chugin-okayama
-source_hash: 713e904ff29c3e15
+source_hash: cdd38392e973c3fb
 lang: ja
 status: machine
 fidelity: ok

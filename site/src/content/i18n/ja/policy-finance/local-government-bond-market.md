@@ -1,6 +1,6 @@
 ---
 source: policy-finance/local-government-bond-market
-source_hash: 4f0a9f303ce35bc5
+source_hash: 7a5c3b5cfcaa0592
 lang: ja
 status: machine
 fidelity: ok

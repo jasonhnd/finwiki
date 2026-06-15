@@ -1,6 +1,6 @@
 ---
 source: regional-banks/ryukyu-bank
-source_hash: 119cd07925f30f56
+source_hash: 937d04c275307914
 lang: ja
 status: machine
 fidelity: ok

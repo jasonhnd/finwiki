@@ -1,6 +1,6 @@
 ---
 source: financial-conglomerates/mitsubishi-corp
-source_hash: 7e3eb18701b272a1
+source_hash: 5e8e90000e7241f5
 lang: ja
 status: machine
 fidelity: ok

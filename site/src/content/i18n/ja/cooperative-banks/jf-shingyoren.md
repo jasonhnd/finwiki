@@ -1,6 +1,6 @@
 ---
 source: cooperative-banks/jf-shingyoren
-source_hash: ae34d9785a9b9663
+source_hash: 69a66905a4ca9504
 lang: ja
 status: machine
 fidelity: ok

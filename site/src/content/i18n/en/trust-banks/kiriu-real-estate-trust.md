@@ -1,6 +1,6 @@
 ---
 source: trust-banks/kiriu-real-estate-trust
-source_hash: ccef5d71b9dc25e5
+source_hash: 5ed9ab5ac4224e4b
 lang: en
 status: machine
 fidelity: ok

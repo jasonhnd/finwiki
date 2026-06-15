@@ -1,6 +1,6 @@
 ---
 source: securities/japan-security-token-secondary-market-route
-source_hash: 0219c0c14a8b06fb
+source_hash: 6cf03985180be745
 lang: en
 status: machine
 fidelity: ok

@@ -1,6 +1,6 @@
 ---
 source: cooperative-banks/shinkin-shoken
-source_hash: a8a47f1ff9052272
+source_hash: a97174e739c1dc88
 lang: zh
 status: machine
 fidelity: ok

@@ -1,6 +1,6 @@
 ---
 source: payment-firms/olta
-source_hash: 319ef49816d12391
+source_hash: 5443da49deaf7cc2
 lang: ja
 status: machine
 fidelity: ok

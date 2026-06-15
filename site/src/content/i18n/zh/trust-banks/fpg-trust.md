@@ -1,6 +1,6 @@
 ---
 source: trust-banks/fpg-trust
-source_hash: c8ccaf3a67340794
+source_hash: 33a6d0f98b9c20b6
 lang: zh
 status: machine
 fidelity: ok

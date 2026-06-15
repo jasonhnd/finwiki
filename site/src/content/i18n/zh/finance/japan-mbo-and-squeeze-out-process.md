@@ -1,6 +1,6 @@
 ---
 source: finance/japan-mbo-and-squeeze-out-process
-source_hash: 81c0f52231e35cb1
+source_hash: 80048e28af160590
 lang: zh
 status: machine
 fidelity: ok

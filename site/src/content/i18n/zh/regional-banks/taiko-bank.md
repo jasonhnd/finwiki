@@ -1,6 +1,6 @@
 ---
 source: regional-banks/taiko-bank
-source_hash: 9571be2595372054
+source_hash: 4cd3054e4b633c78
 lang: zh
 status: machine
 fidelity: ok

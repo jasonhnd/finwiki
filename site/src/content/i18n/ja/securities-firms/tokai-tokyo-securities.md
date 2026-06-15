@@ -1,6 +1,6 @@
 ---
 source: securities-firms/tokai-tokyo-securities
-source_hash: c694e30923819287
+source_hash: 87a595c0ad458187
 lang: ja
 status: machine
 fidelity: ok

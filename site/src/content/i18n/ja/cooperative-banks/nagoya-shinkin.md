@@ -1,6 +1,6 @@
 ---
 source: cooperative-banks/nagoya-shinkin
-source_hash: 024a60d9b5216c32
+source_hash: d00f732991db11ee
 lang: ja
 status: machine
 fidelity: ok

@@ -1,6 +1,6 @@
 ---
 source: banking/mercari-bank
-source_hash: 1eb4016940a0cfb4
+source_hash: 385edc86a2548249
 lang: ja
 status: machine
 fidelity: ok

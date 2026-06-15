@@ -1,6 +1,6 @@
 ---
 source: regional-banks/higo-bank
-source_hash: be8f79bf6873eed3
+source_hash: 6a730af59a31a2aa
 lang: ja
 status: machine
 fidelity: ok

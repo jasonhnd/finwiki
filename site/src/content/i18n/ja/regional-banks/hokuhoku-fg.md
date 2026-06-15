@@ -1,6 +1,6 @@
 ---
 source: regional-banks/hokuhoku-fg
-source_hash: 92233eef46869281
+source_hash: 8b4044c942af1571
 lang: ja
 status: machine
 fidelity: ok

@@ -1,6 +1,6 @@
 ---
 source: non-life-insurers/starr-insurance-japan
-source_hash: 416573e5df177d3e
+source_hash: a6c49bc063643a7d
 lang: en
 status: machine
 fidelity: ok

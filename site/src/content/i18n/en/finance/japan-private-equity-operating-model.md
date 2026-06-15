@@ -1,6 +1,6 @@
 ---
 source: finance/japan-private-equity-operating-model
-source_hash: 374af7ddefd0e69f
+source_hash: 7d38413a1800cdf3
 lang: en
 status: machine
 fidelity: ok

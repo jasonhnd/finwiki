@@ -1,6 +1,6 @@
 ---
 source: structured-finance/japan-rmbs-issuance-structure
-source_hash: 45b1daf9335df64d
+source_hash: 32452d89f45d5fad
 lang: en
 status: machine
 fidelity: ok

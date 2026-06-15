@@ -1,6 +1,6 @@
 ---
 source: regional-banks/au-jibun-bank
-source_hash: 103789f826a93c41
+source_hash: 8243fa17f965021b
 lang: ja
 status: machine
 fidelity: ok

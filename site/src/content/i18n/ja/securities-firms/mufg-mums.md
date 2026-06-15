@@ -1,6 +1,6 @@
 ---
 source: securities-firms/mufg-mums
-source_hash: d106a9851ba46310
+source_hash: e91d9d0c57a7cefd
 lang: ja
 status: machine
 fidelity: ok

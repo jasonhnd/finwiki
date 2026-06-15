@@ -1,6 +1,6 @@
 ---
 source: life-insurers/nissay-wealth-life
-source_hash: a5172eee6aad61e1
+source_hash: bce8c31f686df260
 lang: zh
 status: machine
 fidelity: ok

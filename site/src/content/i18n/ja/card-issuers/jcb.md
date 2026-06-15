@@ -1,6 +1,6 @@
 ---
 source: card-issuers/jcb
-source_hash: f3da014d83e80d70
+source_hash: 756b7cc1754a7241
 lang: ja
 status: machine
 fidelity: ok

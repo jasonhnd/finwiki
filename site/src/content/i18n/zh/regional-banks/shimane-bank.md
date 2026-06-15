@@ -1,6 +1,6 @@
 ---
 source: regional-banks/shimane-bank
-source_hash: b72bb27979398a3e
+source_hash: 567dd9fc0f991159
 lang: zh
 status: machine
 fidelity: ok

@@ -1,6 +1,6 @@
 ---
 source: financial-regulators/local-govt-finance
-source_hash: cd4203f58748cbc3
+source_hash: 8d4c4a3c5a567622
 lang: ja
 status: machine
 fidelity: ok

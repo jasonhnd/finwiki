@@ -1,6 +1,6 @@
 ---
 source: trust-banks/midori-trust
-source_hash: 33dc200e3aeaa938
+source_hash: 94d3b9420d1a8f63
 lang: ja
 status: machine
 fidelity: ok

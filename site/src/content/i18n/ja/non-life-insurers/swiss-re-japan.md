@@ -1,6 +1,6 @@
 ---
 source: non-life-insurers/swiss-re-japan
-source_hash: 26d8eca0389bb6b3
+source_hash: e64c31066eee5f00
 lang: ja
 status: machine
 fidelity: ok

@@ -1,6 +1,6 @@
 ---
 source: structured-finance/jcr-ri-japan-securitization-rating-methodology-operating-playbook
-source_hash: eff0c20e6c53284c
+source_hash: 39d5fbabe9356eed
 lang: en
 status: machine
 fidelity: ok

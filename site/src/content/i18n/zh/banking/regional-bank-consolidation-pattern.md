@@ -1,6 +1,6 @@
 ---
 source: banking/regional-bank-consolidation-pattern
-source_hash: f7c807af0f1e3e8b
+source_hash: f38565736fc8ab24
 lang: zh
 status: machine
 fidelity: ok

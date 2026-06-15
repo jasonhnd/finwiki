@@ -1,6 +1,6 @@
 ---
 source: securities-firms/marusan-securities
-source_hash: 6051246d36944a74
+source_hash: 6135f0e29056a4fb
 lang: ja
 status: machine
 fidelity: ok

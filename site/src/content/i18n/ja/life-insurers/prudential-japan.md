@@ -1,6 +1,6 @@
 ---
 source: life-insurers/prudential-japan
-source_hash: fed936f081eb3bb8
+source_hash: 5646bf99578c6951
 lang: ja
 status: machine
 fidelity: ok

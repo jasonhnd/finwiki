@@ -1,6 +1,6 @@
 ---
 source: exchanges/jp-exchange-coincheck
-source_hash: 524023ddef819ee7
+source_hash: 7e21bf0374c5fbe1
 lang: ja
 status: machine
 fidelity: ok

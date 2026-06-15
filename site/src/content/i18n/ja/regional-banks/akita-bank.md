@@ -1,6 +1,6 @@
 ---
 source: regional-banks/akita-bank
-source_hash: 2f59aba54289930c
+source_hash: 257ac3704e46daad
 lang: ja
 status: machine
 fidelity: ok

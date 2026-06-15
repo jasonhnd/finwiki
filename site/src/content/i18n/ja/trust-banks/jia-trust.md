@@ -1,6 +1,6 @@
 ---
 source: trust-banks/jia-trust
-source_hash: 3f6dc724c3c9708a
+source_hash: 182e341975dce53c
 lang: ja
 status: machine
 fidelity: ok

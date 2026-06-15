@@ -1,6 +1,6 @@
 ---
 source: cooperative-banks/ja-shinnoren
-source_hash: 68220c94967c30ff
+source_hash: 8eb36497552bbd47
 lang: ja
 status: machine
 fidelity: ok

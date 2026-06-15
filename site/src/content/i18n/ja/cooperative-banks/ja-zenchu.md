@@ -1,6 +1,6 @@
 ---
 source: cooperative-banks/ja-zenchu
-source_hash: ec4e10099a138f64
+source_hash: 71bc47938ebb3238
 lang: ja
 status: machine
 fidelity: ok

@@ -1,6 +1,6 @@
 ---
 source: real-estate-finance/j-reit-sponsor-structure-conflict
-source_hash: 41a26badd5c63205
+source_hash: a47c7dc1442da267
 lang: zh
 status: machine
 fidelity: ok

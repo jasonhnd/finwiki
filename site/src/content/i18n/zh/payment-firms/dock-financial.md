@@ -1,6 +1,6 @@
 ---
 source: payment-firms/dock-financial
-source_hash: 30d0e0946679c698
+source_hash: be94c7c757f4ed9d
 lang: zh
 status: machine
 fidelity: ok

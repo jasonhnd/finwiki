@@ -1,6 +1,6 @@
 ---
 source: structured-finance/abcp-conduit-japan-megabank
-source_hash: fac280f5b1c9977c
+source_hash: 016c254e3b74bb60
 lang: en
 status: machine
 fidelity: ok

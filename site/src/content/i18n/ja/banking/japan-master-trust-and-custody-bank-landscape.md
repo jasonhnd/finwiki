@@ -1,6 +1,6 @@
 ---
 source: banking/japan-master-trust-and-custody-bank-landscape
-source_hash: 6b2756a797635b30
+source_hash: c6a8b40acd246201
 lang: ja
 status: machine
 fidelity: ok

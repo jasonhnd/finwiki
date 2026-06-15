@@ -1,6 +1,6 @@
 ---
 source: regional-banks/chugoku-bank
-source_hash: c323c13e54a966f0
+source_hash: f10debd2f3f56f2e
 lang: zh
 status: machine
 fidelity: ok

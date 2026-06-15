@@ -1,6 +1,6 @@
 ---
 source: payments/japan-payment-clearing-and-settlement-infrastructure
-source_hash: be2defa929cfa7db
+source_hash: 21d8d902c60b350a
 lang: en
 status: machine
 fidelity: ok

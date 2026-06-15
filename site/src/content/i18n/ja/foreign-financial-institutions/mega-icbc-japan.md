@@ -1,6 +1,6 @@
 ---
 source: foreign-financial-institutions/mega-icbc-japan
-source_hash: d8be33c2895f728e
+source_hash: 18146e7e3959c77a
 lang: ja
 status: machine
 fidelity: ok

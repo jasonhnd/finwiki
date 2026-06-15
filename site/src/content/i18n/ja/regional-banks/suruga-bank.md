@@ -1,6 +1,6 @@
 ---
 source: regional-banks/suruga-bank
-source_hash: 20e63ffad4da2c85
+source_hash: 19cec5f52f7493c6
 lang: ja
 status: machine
 fidelity: ok

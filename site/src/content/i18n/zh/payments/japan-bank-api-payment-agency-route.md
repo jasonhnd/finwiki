@@ -1,6 +1,6 @@
 ---
 source: payments/japan-bank-api-payment-agency-route
-source_hash: fcdb8e57b056a50b
+source_hash: 69c0717ae1eba5c2
 lang: zh
 status: machine
 fidelity: ok

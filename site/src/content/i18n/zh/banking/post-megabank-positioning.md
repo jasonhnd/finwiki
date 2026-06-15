@@ -1,6 +1,6 @@
 ---
 source: banking/post-megabank-positioning
-source_hash: 7c15177f758a0807
+source_hash: 44716a0efe55f6c1
 lang: zh
 status: machine
 fidelity: ok

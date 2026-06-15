@@ -1,6 +1,6 @@
 ---
 source: regional-banks/towa-bank
-source_hash: 926f4a86743f3242
+source_hash: 849036392a9ed59e
 lang: ja
 status: machine
 fidelity: ok

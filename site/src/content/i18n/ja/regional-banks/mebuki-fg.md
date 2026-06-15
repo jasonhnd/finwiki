@@ -1,6 +1,6 @@
 ---
 source: regional-banks/mebuki-fg
-source_hash: 2a95b5ef488f697f
+source_hash: ca13a969dd8a5ce0
 lang: ja
 status: machine
 fidelity: ok

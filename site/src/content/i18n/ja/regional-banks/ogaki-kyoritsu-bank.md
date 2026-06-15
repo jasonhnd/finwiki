@@ -1,6 +1,6 @@
 ---
 source: regional-banks/ogaki-kyoritsu-bank
-source_hash: fac55df416c5df6d
+source_hash: 189e59aaa0d72381
 lang: ja
 status: machine
 fidelity: ok

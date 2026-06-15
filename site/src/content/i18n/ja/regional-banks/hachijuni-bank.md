@@ -1,6 +1,6 @@
 ---
 source: regional-banks/hachijuni-bank
-source_hash: fdd8171dbd1cb4d7
+source_hash: 50e5fbe69de0aa48
 lang: ja
 status: machine
 fidelity: ok

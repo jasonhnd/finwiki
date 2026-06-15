@@ -1,6 +1,6 @@
 ---
 source: regional-banks/yokohama-bank
-source_hash: 41681eadb7d0b1e2
+source_hash: 158819325e4a9753
 lang: zh
 status: machine
 fidelity: ok

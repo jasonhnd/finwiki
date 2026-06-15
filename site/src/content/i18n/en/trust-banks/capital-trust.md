@@ -1,6 +1,6 @@
 ---
 source: trust-banks/capital-trust
-source_hash: aeb430e8a253bfd4
+source_hash: f3110a3ffdec580f
 lang: en
 status: machine
 fidelity: ok

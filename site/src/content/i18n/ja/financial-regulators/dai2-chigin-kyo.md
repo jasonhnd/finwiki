@@ -1,6 +1,6 @@
 ---
 source: financial-regulators/dai2-chigin-kyo
-source_hash: be20005980618851
+source_hash: 5dddc91245d53572
 lang: ja
 status: machine
 fidelity: ok

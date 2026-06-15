@@ -1,6 +1,6 @@
 ---
 source: non-life-insurers/sbi-insurance-group
-source_hash: 565cdc49b7fd2b7c
+source_hash: c29406866aef0474
 lang: ja
 status: machine
 fidelity: ok

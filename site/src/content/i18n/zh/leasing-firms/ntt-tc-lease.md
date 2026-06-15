@@ -1,6 +1,6 @@
 ---
 source: leasing-firms/ntt-tc-lease
-source_hash: 705ce88b575675ba
+source_hash: 56b004d639dbf505
 lang: zh
 status: machine
 fidelity: ok

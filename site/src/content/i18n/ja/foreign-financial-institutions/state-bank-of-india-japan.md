@@ -1,6 +1,6 @@
 ---
 source: foreign-financial-institutions/state-bank-of-india-japan
-source_hash: 437b91a8af75f0ae
+source_hash: fc0c622d621e12d8
 lang: ja
 status: machine
 fidelity: ok

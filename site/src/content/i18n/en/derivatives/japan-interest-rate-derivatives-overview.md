@@ -1,6 +1,6 @@
 ---
 source: derivatives/japan-interest-rate-derivatives-overview
-source_hash: 99be9f18fa81aa4d
+source_hash: e8cb30cec69ce737
 lang: en
 status: machine
 fidelity: ok

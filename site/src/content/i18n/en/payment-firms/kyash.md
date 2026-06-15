@@ -1,6 +1,6 @@
 ---
 source: payment-firms/kyash
-source_hash: 02e23a5efee1155b
+source_hash: 3c70f4ad5c6a3887
 lang: en
 status: machine
 fidelity: ok

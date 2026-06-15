@@ -1,6 +1,6 @@
 ---
 source: regional-banks/kagoshima-bank
-source_hash: 989c06231d7b4820
+source_hash: 9eb53f15b000b987
 lang: ja
 status: machine
 fidelity: ok

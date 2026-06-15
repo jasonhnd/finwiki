@@ -1,6 +1,6 @@
 ---
 source: money-market/japan-ncd-negotiable-cd-market
-source_hash: 8b911165afd2509c
+source_hash: 19610ed46cdc559a
 lang: en
 status: machine
 fidelity: ok

@@ -1,6 +1,6 @@
 ---
 source: structured-finance/synthetic-securitization-japan-bank-rwa-relief
-source_hash: b48f54355b9c15fc
+source_hash: ef9fdf96289a71b8
 lang: zh
 status: machine
 fidelity: ok

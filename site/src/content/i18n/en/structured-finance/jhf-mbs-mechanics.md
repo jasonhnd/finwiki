@@ -1,6 +1,6 @@
 ---
 source: structured-finance/jhf-mbs-mechanics
-source_hash: c97bd0b72bd45300
+source_hash: 09617454035c6952
 lang: en
 status: machine
 fidelity: ok

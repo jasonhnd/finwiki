@@ -1,6 +1,6 @@
 ---
 source: insurance/esr-economic-value-solvency
-source_hash: e5844ebaa6967e1f
+source_hash: 0a77ee3b90c0c822
 lang: zh
 status: machine
 fidelity: ok

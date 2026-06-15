@@ -1,6 +1,6 @@
 ---
 source: regional-banks/kyushu-fg
-source_hash: 046247fbd932bc90
+source_hash: 6e32b00b53a43476
 lang: ja
 status: machine
 fidelity: ok

@@ -1,6 +1,6 @@
 ---
 source: real-estate-finance/mitsui-fudosan-financing-model
-source_hash: 95fd6df9f302d26d
+source_hash: 1a62239ea1ba889b
 lang: zh
 status: machine
 fidelity: ok

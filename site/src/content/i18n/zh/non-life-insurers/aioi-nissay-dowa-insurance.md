@@ -1,6 +1,6 @@
 ---
 source: non-life-insurers/aioi-nissay-dowa-insurance
-source_hash: 5ed64342393347b5
+source_hash: 38195dfdd6a15050
 lang: zh
 status: machine
 fidelity: ok

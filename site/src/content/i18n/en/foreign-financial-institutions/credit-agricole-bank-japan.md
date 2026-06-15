@@ -1,6 +1,6 @@
 ---
 source: foreign-financial-institutions/credit-agricole-bank-japan
-source_hash: 306b497ac723b9ee
+source_hash: dcc971d842f9ce9a
 lang: en
 status: machine
 fidelity: ok

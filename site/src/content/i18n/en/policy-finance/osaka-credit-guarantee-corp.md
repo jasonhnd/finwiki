@@ -1,6 +1,6 @@
 ---
 source: policy-finance/osaka-credit-guarantee-corp
-source_hash: 804c7167ff828789
+source_hash: ba36cfd2a714e04c
 lang: en
 status: machine
 fidelity: ok

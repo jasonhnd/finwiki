@@ -1,6 +1,6 @@
 ---
 source: megabanks/mizuho-fg
-source_hash: 73ee657ed46f570a
+source_hash: bfa284e24d0d8399
 lang: ja
 status: machine
 fidelity: ok

@@ -1,6 +1,6 @@
 ---
 source: life-insurers/nanairo-life
-source_hash: 068193d7e24226d9
+source_hash: cd421a2323f5aeab
 lang: zh
 status: machine
 fidelity: ok

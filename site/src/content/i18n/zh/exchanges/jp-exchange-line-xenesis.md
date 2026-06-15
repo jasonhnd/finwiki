@@ -1,6 +1,6 @@
 ---
 source: exchanges/jp-exchange-line-xenesis
-source_hash: 7039ca79e32bd657
+source_hash: c08eab792ed73a19
 lang: zh
 status: machine
 fidelity: ok

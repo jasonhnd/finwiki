@@ -1,6 +1,6 @@
 ---
 source: financial-regulators/boj-financial-system-dept
-source_hash: 0855d72073427a4c
+source_hash: 683b74ab60c75b1a
 lang: en
 status: machine
 fidelity: ok

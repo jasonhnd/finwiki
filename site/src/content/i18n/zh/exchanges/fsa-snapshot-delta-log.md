@@ -1,6 +1,6 @@
 ---
 source: exchanges/fsa-snapshot-delta-log
-source_hash: ee8dd412b6b9e3a3
+source_hash: 59a89034df2d8c2a
 lang: zh
 status: machine
 fidelity: ok

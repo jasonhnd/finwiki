@@ -1,6 +1,6 @@
 ---
 source: trust-banks/orient-trust-japan
-source_hash: 97d2e6c0e5292331
+source_hash: 0a11e81a206e571d
 lang: zh
 status: machine
 fidelity: ok

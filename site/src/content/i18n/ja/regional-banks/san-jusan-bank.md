@@ -1,6 +1,6 @@
 ---
 source: regional-banks/san-jusan-bank
-source_hash: 40ab911f087580c3
+source_hash: 41ec6cf40cc4988e
 lang: ja
 status: machine
 fidelity: ok

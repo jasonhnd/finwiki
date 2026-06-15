@@ -1,6 +1,6 @@
 ---
 source: insurance/japan-life-big-four-overlay-comparison-matrix
-source_hash: c1bae75179a3a788
+source_hash: 8cbb2d5e5ff13f39
 lang: en
 status: machine
 fidelity: ok

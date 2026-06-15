@@ -1,6 +1,6 @@
 ---
 source: payment-firms/revolut-technologies-japan
-source_hash: c33d874ba217b4ab
+source_hash: fab0cf777b7da011
 lang: zh
 status: machine
 fidelity: ok

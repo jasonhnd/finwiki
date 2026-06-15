@@ -1,6 +1,6 @@
 ---
 source: trading-company-finance/sumitomo-corp-financial-management
-source_hash: 97573e348a1fb2ec
+source_hash: e19a7e42fc28795f
 lang: ja
 status: machine
 fidelity: ok

@@ -1,6 +1,6 @@
 ---
 source: regional-banks/fidea-hd
-source_hash: 9edce4ba51207a83
+source_hash: fad619c729cc965d
 lang: ja
 status: machine
 fidelity: ok

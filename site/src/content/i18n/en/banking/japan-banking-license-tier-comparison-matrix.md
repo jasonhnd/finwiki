@@ -1,6 +1,6 @@
 ---
 source: banking/japan-banking-license-tier-comparison-matrix
-source_hash: ca442539bd8a0557
+source_hash: 44d5a10ed135ef78
 lang: en
 status: machine
 fidelity: ok

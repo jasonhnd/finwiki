@@ -1,6 +1,6 @@
 ---
 source: non-life-insurers/tokio-marine-nichido-fire
-source_hash: 9e654c318e28d0c0
+source_hash: 1ef21d59fcfd796b
 lang: en
 status: machine
 fidelity: ok

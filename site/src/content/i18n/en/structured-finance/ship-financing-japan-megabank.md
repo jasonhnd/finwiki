@@ -1,6 +1,6 @@
 ---
 source: structured-finance/ship-financing-japan-megabank
-source_hash: f05a45736e17f513
+source_hash: 650d04426d6c379e
 lang: en
 status: machine
 fidelity: ok

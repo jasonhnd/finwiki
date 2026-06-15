@@ -1,6 +1,6 @@
 ---
 source: non-life-insurers/munich-re-japan
-source_hash: d364fc6a92945763
+source_hash: e69166e142a5a977
 lang: zh
 status: machine
 fidelity: ok

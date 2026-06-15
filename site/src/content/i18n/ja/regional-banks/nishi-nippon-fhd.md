@@ -1,6 +1,6 @@
 ---
 source: regional-banks/nishi-nippon-fhd
-source_hash: 9a5c7c7b269d0ff0
+source_hash: 2217722aada98b8c
 lang: ja
 status: machine
 fidelity: ok

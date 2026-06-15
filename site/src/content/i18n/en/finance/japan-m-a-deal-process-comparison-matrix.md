@@ -1,6 +1,6 @@
 ---
 source: finance/japan-m-a-deal-process-comparison-matrix
-source_hash: 52e38a0984b4f845
+source_hash: 516831cd5f4035c8
 lang: en
 status: machine
 fidelity: ok

@@ -1,6 +1,6 @@
 ---
 source: derivatives/jgb-futures-curve
-source_hash: 89a91cb256a441ee
+source_hash: 75ef386e0cbb1bc3
 lang: en
 status: machine
 fidelity: ok

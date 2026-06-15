@@ -1,6 +1,6 @@
 ---
 source: regional-banks/iyogin-hd
-source_hash: 9db5d5d7cdcb80e5
+source_hash: 7f7a1b40d645db30
 lang: ja
 status: machine
 fidelity: ok

@@ -1,6 +1,6 @@
 ---
 source: financial-licenses/foreign-financial-group-adjacent-licenses
-source_hash: 0c8a0dbd0818fbce
+source_hash: 2ff5c80a2dc12891
 lang: zh
 status: machine
 fidelity: ok

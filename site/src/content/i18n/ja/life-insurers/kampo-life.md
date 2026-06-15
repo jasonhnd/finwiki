@@ -1,6 +1,6 @@
 ---
 source: life-insurers/kampo-life
-source_hash: d67fbaf4af5b5979
+source_hash: fe344aa657815460
 lang: ja
 status: machine
 fidelity: ok

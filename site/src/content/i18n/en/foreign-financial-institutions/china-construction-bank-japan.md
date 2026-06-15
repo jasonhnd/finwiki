@@ -1,6 +1,6 @@
 ---
 source: foreign-financial-institutions/china-construction-bank-japan
-source_hash: a9167db6b04cfe36
+source_hash: 60ab2537a16bc8a3
 lang: en
 status: machine
 fidelity: ok

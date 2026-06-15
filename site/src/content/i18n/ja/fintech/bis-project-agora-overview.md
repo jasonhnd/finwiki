@@ -1,6 +1,6 @@
 ---
 source: fintech/bis-project-agora-overview
-source_hash: e031c34ab57a839c
+source_hash: c346c135ed3b00ec
 lang: ja
 status: machine
 fidelity: ok

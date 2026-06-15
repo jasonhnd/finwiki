@@ -1,6 +1,6 @@
 ---
 source: fintech/tether-business-model-short-treasury-yield
-source_hash: 5a86c092b399ba07
+source_hash: e689a5eaad009b38
 lang: ja
 status: machine
 fidelity: ok

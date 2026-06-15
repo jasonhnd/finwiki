@@ -1,6 +1,6 @@
 ---
 source: non-life-insurers/fm-global-japan
-source_hash: b5ab1cac2a4da3b6
+source_hash: e6878ca29adc04e2
 lang: en
 status: machine
 fidelity: ok

@@ -1,6 +1,6 @@
 ---
 source: payments/japan-code-payment-competitive-map
-source_hash: e3cdd6c74dfc41e0
+source_hash: 12c89faffbd71346
 lang: en
 status: machine
 fidelity: ok

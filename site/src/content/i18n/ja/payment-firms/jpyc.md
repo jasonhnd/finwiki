@@ -1,6 +1,6 @@
 ---
 source: payment-firms/jpyc
-source_hash: 0408b114162a53fa
+source_hash: fe5481d67eb46d8e
 lang: ja
 status: machine
 fidelity: ok

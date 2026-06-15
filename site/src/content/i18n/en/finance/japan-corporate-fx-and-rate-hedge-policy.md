@@ -1,6 +1,6 @@
 ---
 source: finance/japan-corporate-fx-and-rate-hedge-policy
-source_hash: 5a15dddeaf488b0c
+source_hash: fcfbc40e9c76741d
 lang: en
 status: machine
 fidelity: ok

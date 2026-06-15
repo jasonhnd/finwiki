@@ -1,6 +1,6 @@
 ---
 source: fintech/fx-onchain-as-stablecoin-final-boss
-source_hash: 2e3ffb35677cee29
+source_hash: 27af5a7483001174
 lang: ja
 status: machine
 fidelity: ok

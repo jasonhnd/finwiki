@@ -1,6 +1,6 @@
 ---
 source: trust-banks/daito-mirai-trust
-source_hash: ae3a15f0c3fa1a64
+source_hash: 3cb790d3fe2d6765
 lang: ja
 status: machine
 fidelity: ok

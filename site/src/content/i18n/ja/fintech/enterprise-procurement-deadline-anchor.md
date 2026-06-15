@@ -1,6 +1,6 @@
 ---
 source: fintech/enterprise-procurement-deadline-anchor
-source_hash: 09cd1aea9b48ddb6
+source_hash: b7009faf7275a310
 lang: ja
 status: machine
 fidelity: ok

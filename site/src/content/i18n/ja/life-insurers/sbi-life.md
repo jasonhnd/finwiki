@@ -1,6 +1,6 @@
 ---
 source: life-insurers/sbi-life
-source_hash: 1d7c64d60c3e1c62
+source_hash: 0bd16f1e52abfb65
 lang: ja
 status: machine
 fidelity: ok

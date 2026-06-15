@@ -1,6 +1,6 @@
 ---
 source: banking/japan-net-bank-competition-map
-source_hash: 2096eaaa0cf9fbe9
+source_hash: 7bd69fed49f99759
 lang: en
 status: machine
 fidelity: ok

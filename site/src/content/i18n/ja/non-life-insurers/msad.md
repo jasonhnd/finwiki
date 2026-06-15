@@ -1,6 +1,6 @@
 ---
 source: non-life-insurers/msad
-source_hash: 68d7aeddf3e769e7
+source_hash: 6ae7131c5d9f9782
 lang: ja
 status: machine
 fidelity: ok

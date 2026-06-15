@@ -1,6 +1,6 @@
 ---
 source: trust-banks/mizuho-trust-bank-detail
-source_hash: 29c023efd6855892
+source_hash: 04ec75fa24762977
 lang: ja
 status: machine
 fidelity: ok

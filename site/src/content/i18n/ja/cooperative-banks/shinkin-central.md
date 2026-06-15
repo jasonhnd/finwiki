@@ -1,6 +1,6 @@
 ---
 source: cooperative-banks/shinkin-central
-source_hash: ce7f6771384b6345
+source_hash: 64f181db87be5e3b
 lang: ja
 status: machine
 fidelity: ok

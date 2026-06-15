@@ -1,6 +1,6 @@
 ---
 source: payment-firms/gmo-aozora-net
-source_hash: ecc9ba5ced5fec7a
+source_hash: 9bb0e217ef0f7e63
 lang: ja
 status: machine
 fidelity: ok

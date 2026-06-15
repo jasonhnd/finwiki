@@ -1,6 +1,6 @@
 ---
 source: non-life-insurers/chubb-insurance-japan
-source_hash: 16b41a12e22fef6f
+source_hash: f29e2c2681bb10dd
 lang: zh
 status: machine
 fidelity: ok

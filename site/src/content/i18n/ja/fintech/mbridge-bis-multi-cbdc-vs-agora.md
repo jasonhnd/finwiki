@@ -1,6 +1,6 @@
 ---
 source: fintech/mbridge-bis-multi-cbdc-vs-agora
-source_hash: fb578f7fc60cf1c8
+source_hash: d82f8ecab24db590
 lang: ja
 status: machine
 fidelity: ok

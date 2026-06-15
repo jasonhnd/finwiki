@@ -1,6 +1,6 @@
 ---
 source: securities/japannext-securities
-source_hash: e9ef34527bd4912f
+source_hash: 0fc571c7ee5d8e5f
 lang: zh
 status: machine
 fidelity: ok

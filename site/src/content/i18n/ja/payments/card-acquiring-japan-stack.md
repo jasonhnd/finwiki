@@ -1,6 +1,6 @@
 ---
 source: payments/card-acquiring-japan-stack
-source_hash: c05ae058bf631eb8
+source_hash: fa6d9eb91fafe14d
 lang: ja
 status: machine
 fidelity: ok

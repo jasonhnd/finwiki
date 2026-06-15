@@ -1,6 +1,6 @@
 ---
 source: foreign-financial-institutions/national-bank-of-pakistan-japan
-source_hash: f1902f37f7763f0b
+source_hash: 368b5e4b81742e6c
 lang: en
 status: machine
 fidelity: ok

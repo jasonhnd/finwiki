@@ -1,6 +1,6 @@
 ---
 source: real-estate-finance/nippon-prologis-reit-3283
-source_hash: 49b9f45c3399de1c
+source_hash: d6477807a80320f1
 lang: en
 status: machine
 fidelity: ok

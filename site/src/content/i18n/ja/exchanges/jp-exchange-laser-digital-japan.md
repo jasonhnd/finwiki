@@ -1,6 +1,6 @@
 ---
 source: exchanges/jp-exchange-laser-digital-japan
-source_hash: f54495a27980cd37
+source_hash: a4d3e2f96431c41e
 lang: ja
 status: machine
 fidelity: ok

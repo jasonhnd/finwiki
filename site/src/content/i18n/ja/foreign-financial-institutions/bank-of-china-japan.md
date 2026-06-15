@@ -1,6 +1,6 @@
 ---
 source: foreign-financial-institutions/bank-of-china-japan
-source_hash: 4524c9268cc207c2
+source_hash: e08b7f246588d0b9
 lang: ja
 status: machine
 fidelity: ok

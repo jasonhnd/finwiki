@@ -1,6 +1,6 @@
 ---
 source: finance/cross-border-m-a-japan
-source_hash: 135762c1b2c8253b
+source_hash: 84838b7f56977120
 lang: zh
 status: machine
 fidelity: ok

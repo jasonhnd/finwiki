@@ -1,6 +1,6 @@
 ---
 source: foreign-financial-institutions/citigroup-japan
-source_hash: 4ee1bbedfa56053a
+source_hash: b38351be248d88d8
 lang: ja
 status: machine
 fidelity: ok

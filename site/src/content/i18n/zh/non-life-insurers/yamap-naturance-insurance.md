@@ -1,6 +1,6 @@
 ---
 source: non-life-insurers/yamap-naturance-insurance
-source_hash: f9b5eb30a34f5648
+source_hash: 36a113e206c3fcae
 lang: zh
 status: machine
 fidelity: ok

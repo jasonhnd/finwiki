@@ -1,6 +1,6 @@
 ---
 source: fintech/japan-ecisb-license
-source_hash: 0b05b363585f9afc
+source_hash: 289d320f91401278
 lang: ja
 status: machine
 fidelity: ok

@@ -1,6 +1,6 @@
 ---
 source: regional-banks/sbi-shinsei-bank
-source_hash: 37005101da6ce053
+source_hash: ee5b05fc6c3e572b
 lang: ja
 status: machine
 fidelity: ok

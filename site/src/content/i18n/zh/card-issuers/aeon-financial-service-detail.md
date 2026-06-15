@@ -1,6 +1,6 @@
 ---
 source: card-issuers/aeon-financial-service-detail
-source_hash: 3fb50625048a46ca
+source_hash: 7e616064393f783e
 lang: zh
 status: machine
 fidelity: ok

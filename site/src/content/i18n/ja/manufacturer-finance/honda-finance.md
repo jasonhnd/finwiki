@@ -1,6 +1,6 @@
 ---
 source: manufacturer-finance/honda-finance
-source_hash: d462fdf7edbef00b
+source_hash: 094818aad831f776
 lang: ja
 model: claude-opus-4-8
 status: machine

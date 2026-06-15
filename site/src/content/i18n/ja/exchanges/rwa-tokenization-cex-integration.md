@@ -1,6 +1,6 @@
 ---
 source: exchanges/rwa-tokenization-cex-integration
-source_hash: f37aeb554ff01eb9
+source_hash: 223b48cdb2a2c1a0
 lang: ja
 status: machine
 fidelity: ok

@@ -1,6 +1,6 @@
 ---
 source: insurance/sony-life-group-life-operating-model
-source_hash: 4d0c6c2224ce33f2
+source_hash: 881a88fceb40e948
 lang: en
 status: machine
 fidelity: ok

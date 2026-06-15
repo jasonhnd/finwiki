@@ -1,6 +1,6 @@
 ---
 source: banking/jasdec-settlement-operations
-source_hash: a756047ead15dc4b
+source_hash: ca7e958cea3103af
 lang: en
 status: machine
 fidelity: ok

@@ -1,6 +1,6 @@
 ---
 source: financial-regulators/dic
-source_hash: b320c756093196a6
+source_hash: 0449d346c6afec89
 lang: ja
 status: machine
 fidelity: ok

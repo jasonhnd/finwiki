@@ -1,6 +1,6 @@
 ---
 source: structured-finance/japan-green-securitization
-source_hash: 481aee56ee8d3b9a
+source_hash: e703290c63bef882
 lang: en
 status: machine
 fidelity: ok

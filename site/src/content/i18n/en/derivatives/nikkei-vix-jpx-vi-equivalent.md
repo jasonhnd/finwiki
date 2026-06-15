@@ -1,6 +1,6 @@
 ---
 source: derivatives/nikkei-vix-jpx-vi-equivalent
-source_hash: a476e4592d8e27cd
+source_hash: 82beb9fa508535cb
 lang: en
 status: machine
 fidelity: ok

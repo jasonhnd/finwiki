@@ -1,6 +1,6 @@
 ---
 source: cooperative-banks/rokin-renraku
-source_hash: 9ef361651e26c0e6
+source_hash: 44e90e38b292171e
 lang: ja
 status: machine
 fidelity: ok

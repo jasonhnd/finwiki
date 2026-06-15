@@ -1,6 +1,6 @@
 ---
 source: policy-finance/agriculture-credit-guarantee-system
-source_hash: baf96cf605875992
+source_hash: d2d35d7965974b7c
 lang: en
 status: machine
 fidelity: ok

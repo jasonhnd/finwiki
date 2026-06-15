@@ -1,6 +1,6 @@
 ---
 source: megabanks/resona-hd
-source_hash: f3e62e90a721f678
+source_hash: 3f38a5326433d658
 lang: ja
 status: machine
 fidelity: ok

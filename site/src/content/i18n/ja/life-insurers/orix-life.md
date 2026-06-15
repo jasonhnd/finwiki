@@ -1,6 +1,6 @@
 ---
 source: life-insurers/orix-life
-source_hash: ff193c2dc941b121
+source_hash: 6c37bd25cfb94486
 lang: ja
 status: machine
 fidelity: ok

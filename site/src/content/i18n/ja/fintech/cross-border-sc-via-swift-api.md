@@ -1,6 +1,6 @@
 ---
 source: fintech/cross-border-sc-via-swift-api
-source_hash: cf5b9261a5c5fe23
+source_hash: a23088cf7d6f53ae
 lang: ja
 status: machine
 fidelity: ok

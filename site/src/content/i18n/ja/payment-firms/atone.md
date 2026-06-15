@@ -1,6 +1,6 @@
 ---
 source: payment-firms/atone
-source_hash: 62ed8ed5c6e66882
+source_hash: 96e60a34d736c7b5
 lang: ja
 status: machine
 fidelity: ok

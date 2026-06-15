@@ -1,6 +1,6 @@
 ---
 source: foreign-financial-institutions/agricultural-bank-of-china-japan
-source_hash: 533c115da6743d43
+source_hash: a4662002201a11fe
 lang: en
 status: machine
 fidelity: ok

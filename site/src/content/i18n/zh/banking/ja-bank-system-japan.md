@@ -1,6 +1,6 @@
 ---
 source: banking/ja-bank-system-japan
-source_hash: c26183e59d4519d8
+source_hash: 869fb9b54008e175
 lang: zh
 status: machine
 fidelity: ok

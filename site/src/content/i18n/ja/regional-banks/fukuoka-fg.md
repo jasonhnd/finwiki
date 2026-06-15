@@ -1,6 +1,6 @@
 ---
 source: regional-banks/fukuoka-fg
-source_hash: 39f2e1e2bc6f6700
+source_hash: da6427f53e0835a6
 lang: ja
 status: machine
 fidelity: ok

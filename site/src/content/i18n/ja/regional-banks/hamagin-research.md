@@ -1,6 +1,6 @@
 ---
 source: regional-banks/hamagin-research
-source_hash: 9245b687c1e2d20c
+source_hash: 1b7488c23d0700b6
 lang: ja
 status: machine
 fidelity: ok

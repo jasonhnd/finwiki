@@ -1,6 +1,6 @@
 ---
 source: life-insurers/aflac-japan
-source_hash: f3e6e6d6c28de091
+source_hash: 2441b2401058b007
 lang: ja
 status: machine
 fidelity: ok

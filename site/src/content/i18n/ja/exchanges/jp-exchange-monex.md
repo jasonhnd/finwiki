@@ -1,6 +1,6 @@
 ---
 source: exchanges/jp-exchange-monex
-source_hash: 88adb400b425b26d
+source_hash: f219c632231cc132
 lang: ja
 status: machine
 fidelity: ok

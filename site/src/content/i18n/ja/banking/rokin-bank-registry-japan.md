@@ -1,6 +1,6 @@
 ---
 source: banking/rokin-bank-registry-japan
-source_hash: b60a5ab743ef3f0b
+source_hash: 524d86204055aac3
 lang: ja
 status: machine
 fidelity: ok

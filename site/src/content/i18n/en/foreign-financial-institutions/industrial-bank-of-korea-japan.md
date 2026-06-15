@@ -1,6 +1,6 @@
 ---
 source: foreign-financial-institutions/industrial-bank-of-korea-japan
-source_hash: 41a1bf994ad65bf5
+source_hash: 462c4be06471bc06
 lang: en
 status: machine
 fidelity: ok

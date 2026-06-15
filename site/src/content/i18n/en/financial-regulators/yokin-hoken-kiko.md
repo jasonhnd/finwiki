@@ -1,6 +1,6 @@
 ---
 source: financial-regulators/yokin-hoken-kiko
-source_hash: db429518fb212b99
+source_hash: 25683d58df11f46b
 lang: en
 status: machine
 fidelity: ok

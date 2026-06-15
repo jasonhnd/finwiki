@@ -1,6 +1,6 @@
 ---
 source: life-insurers/hanasaku-life
-source_hash: cf12761edaaa55da
+source_hash: 343c19f53eb32fd5
 lang: ja
 status: machine
 fidelity: ok

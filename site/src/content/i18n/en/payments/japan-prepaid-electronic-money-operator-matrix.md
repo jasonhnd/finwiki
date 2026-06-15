@@ -1,6 +1,6 @@
 ---
 source: payments/japan-prepaid-electronic-money-operator-matrix
-source_hash: 49a848dac84c8502
+source_hash: 26932cc78e14e231
 lang: en
 status: machine
 fidelity: ok

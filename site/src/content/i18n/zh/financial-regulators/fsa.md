@@ -1,6 +1,6 @@
 ---
 source: financial-regulators/fsa
-source_hash: 4e1b655f9ca3571b
+source_hash: 442516a61393dea1
 lang: zh
 status: machine
 fidelity: ok

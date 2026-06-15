@@ -1,6 +1,6 @@
 ---
 source: trust-banks/miyoshi-smile-trust
-source_hash: 0bd1efdf1edec5ea
+source_hash: a2f480ebd45c0981
 lang: ja
 status: machine
 fidelity: ok

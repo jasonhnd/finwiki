@@ -1,6 +1,6 @@
 ---
 source: policy-finance/aichi-credit-guarantee-corp
-source_hash: 0eeedc13343a2d3d
+source_hash: 9ab453d755262688
 lang: en
 status: machine
 fidelity: ok

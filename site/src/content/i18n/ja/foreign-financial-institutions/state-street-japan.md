@@ -1,6 +1,6 @@
 ---
 source: foreign-financial-institutions/state-street-japan
-source_hash: 7f373e9514752115
+source_hash: 4bcd251c06a1e701
 lang: ja
 status: machine
 fidelity: ok

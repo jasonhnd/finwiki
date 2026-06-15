@@ -1,6 +1,6 @@
 ---
 source: finance/japan-large-shareholding-disclosure
-source_hash: b0a208fea8839e80
+source_hash: 6c385d176a279d46
 lang: en
 status: machine
 fidelity: ok

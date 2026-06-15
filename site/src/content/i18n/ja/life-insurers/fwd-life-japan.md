@@ -1,6 +1,6 @@
 ---
 source: life-insurers/fwd-life-japan
-source_hash: 4ee762abbe7b6efc
+source_hash: 87cbd13b223fc59b
 lang: ja
 status: machine
 fidelity: ok

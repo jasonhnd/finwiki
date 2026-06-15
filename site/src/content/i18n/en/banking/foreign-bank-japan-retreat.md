@@ -1,6 +1,6 @@
 ---
 source: banking/foreign-bank-japan-retreat
-source_hash: 1f2c99cfb6ae456e
+source_hash: 700891ba5ff7b797
 lang: en
 status: machine
 fidelity: ok

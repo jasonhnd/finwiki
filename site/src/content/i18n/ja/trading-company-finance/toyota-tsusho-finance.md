@@ -1,6 +1,6 @@
 ---
 source: trading-company-finance/toyota-tsusho-finance
-source_hash: b38a8fec431de266
+source_hash: 903e4d44a8f40a6d
 lang: ja
 status: machine
 fidelity: ok

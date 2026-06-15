@@ -1,6 +1,6 @@
 ---
 source: loyalty/v-point-smbc-ccc-case
-source_hash: 728325f8f3b8edfa
+source_hash: 76125fbe074acae1
 lang: en
 status: machine
 fidelity: ok

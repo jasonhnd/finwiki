@@ -1,6 +1,6 @@
 ---
 source: non-life-insurers/saison-automobile-fire-insurance
-source_hash: cd532720e5961ed1
+source_hash: e281081a2e86175c
 lang: ja
 status: machine
 fidelity: ok

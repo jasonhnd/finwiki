@@ -1,6 +1,6 @@
 ---
 source: trust-banks/sumire-regional-trust
-source_hash: ff51f6b116660635
+source_hash: c4cf925119a9d175
 lang: en
 status: machine
 fidelity: ok

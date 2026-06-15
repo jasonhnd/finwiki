@@ -1,6 +1,6 @@
 ---
 source: banking/shinkin-bank-registry-japan
-source_hash: 7ac56f179a5c0b15
+source_hash: e4f488b2b4f4beef
 lang: zh
 status: machine
 fidelity: ok

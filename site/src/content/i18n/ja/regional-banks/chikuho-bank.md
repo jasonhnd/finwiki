@@ -1,6 +1,6 @@
 ---
 source: regional-banks/chikuho-bank
-source_hash: a2c589d3c24e114b
+source_hash: 7f4df9d6d26b7435
 lang: ja
 status: machine
 fidelity: ok

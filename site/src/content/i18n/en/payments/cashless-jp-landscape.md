@@ -1,6 +1,6 @@
 ---
 source: payments/cashless-jp-landscape
-source_hash: 5aa93f96471e5259
+source_hash: afc46eac83ae193f
 lang: en
 status: machine
 fidelity: ok

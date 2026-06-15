@@ -1,6 +1,6 @@
 ---
 source: payments/psp-merchant-settlement-risk
-source_hash: 524c378f13b20d54
+source_hash: a10e0427754465dd
 lang: zh
 status: machine
 fidelity: ok

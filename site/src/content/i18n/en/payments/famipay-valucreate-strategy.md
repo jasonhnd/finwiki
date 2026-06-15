@@ -1,6 +1,6 @@
 ---
 source: payments/famipay-valucreate-strategy
-source_hash: 301d4fcbc38bef7b
+source_hash: 48bf4d113e9805ea
 lang: en
 status: machine
 fidelity: ok

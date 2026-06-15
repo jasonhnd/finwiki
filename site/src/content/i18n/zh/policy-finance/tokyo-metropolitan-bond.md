@@ -1,6 +1,6 @@
 ---
 source: policy-finance/tokyo-metropolitan-bond
-source_hash: 33d0664a2de24724
+source_hash: 2a081f32cafeda9e
 lang: zh
 status: machine
 fidelity: ok

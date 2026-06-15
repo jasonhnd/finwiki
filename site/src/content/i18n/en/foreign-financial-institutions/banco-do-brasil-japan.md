@@ -1,6 +1,6 @@
 ---
 source: foreign-financial-institutions/banco-do-brasil-japan
-source_hash: 013cc2fae429006d
+source_hash: ef6c4222c33ad7a2
 lang: en
 status: machine
 fidelity: ok

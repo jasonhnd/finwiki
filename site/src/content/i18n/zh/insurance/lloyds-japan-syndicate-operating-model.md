@@ -1,6 +1,6 @@
 ---
 source: insurance/lloyds-japan-syndicate-operating-model
-source_hash: 0b5bed0446860127
+source_hash: 9c0b7a699b6b2764
 lang: zh
 status: machine
 fidelity: ok

@@ -1,6 +1,6 @@
 ---
 source: finance/japan-activist-investor-playbook
-source_hash: 3cc9daebefd55124
+source_hash: 52e94840008cd874
 lang: en
 status: machine
 fidelity: ok

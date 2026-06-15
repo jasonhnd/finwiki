@@ -1,6 +1,6 @@
 ---
 source: real-estate-finance/j-reit-top-20-detailed-matrix
-source_hash: 873cf2cb282b773d
+source_hash: 2d12ae7217f20190
 lang: en
 status: machine
 fidelity: ok

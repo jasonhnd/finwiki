@@ -1,6 +1,6 @@
 ---
 source: life-insurers/tokio-marine-nichido-life
-source_hash: 2becf6186b2812f9
+source_hash: f955acee195a76eb
 lang: ja
 status: machine
 fidelity: ok

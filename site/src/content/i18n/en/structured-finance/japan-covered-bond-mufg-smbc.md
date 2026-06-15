@@ -1,6 +1,6 @@
 ---
 source: structured-finance/japan-covered-bond-mufg-smbc
-source_hash: 2e2e05e88cfbc8fe
+source_hash: e6d4b27570e64ed5
 lang: en
 status: machine
 fidelity: ok

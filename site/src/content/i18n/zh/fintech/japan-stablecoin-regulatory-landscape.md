@@ -1,6 +1,6 @@
 ---
 source: fintech/japan-stablecoin-regulatory-landscape
-source_hash: db6813d841884540
+source_hash: ad06c97be66ba246
 lang: zh
 status: machine
 fidelity: ok

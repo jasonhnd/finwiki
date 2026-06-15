@@ -1,6 +1,6 @@
 ---
 source: insurance/japan-nonlife-big-three
-source_hash: 173afb065d9ba430
+source_hash: 35f00ff99f97820a
 lang: zh
 status: machine
 fidelity: ok

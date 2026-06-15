@@ -1,6 +1,6 @@
 ---
 source: finance/jftc-merger-control-process
-source_hash: 6ccbff4d58ea0ebc
+source_hash: 2f26627679677f5e
 lang: en
 status: machine
 fidelity: ok

@@ -1,6 +1,6 @@
 ---
 source: non-life-insurers/rakuten-insurance-hd
-source_hash: ed0bba87f846c7cb
+source_hash: 1abf46df67f1ea83
 lang: en
 status: machine
 fidelity: ok

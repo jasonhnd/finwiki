@@ -1,6 +1,6 @@
 ---
 source: regional-banks/sendai-bank
-source_hash: 04b1d0e2172bd63d
+source_hash: 68e1b8f2e3d7dea1
 lang: en
 status: machine
 fidelity: ok

@@ -1,6 +1,6 @@
 ---
 source: life-insurers/sumitomo-life
-source_hash: 0026157d767a3213
+source_hash: de55c483c87f824a
 lang: ja
 status: machine
 fidelity: ok

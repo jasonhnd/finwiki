@@ -1,6 +1,6 @@
 ---
 source: payment-firms/paypal-pte-ltd-japan
-source_hash: 20ae76fcce77ed1f
+source_hash: 85aca538dfb0c1a8
 lang: zh
 status: machine
 fidelity: ok

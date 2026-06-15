@@ -1,6 +1,6 @@
 ---
 source: payment-firms/merpay
-source_hash: f5611a7604f9809e
+source_hash: 6aac5dfc8a17377a
 lang: ja
 status: machine
 fidelity: ok

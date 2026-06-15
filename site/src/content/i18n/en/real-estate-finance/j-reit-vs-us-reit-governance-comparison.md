@@ -1,6 +1,6 @@
 ---
 source: real-estate-finance/j-reit-vs-us-reit-governance-comparison
-source_hash: 5c2a3b38e18ee68a
+source_hash: 8b90fe1a83286561
 lang: en
 status: machine
 fidelity: ok
