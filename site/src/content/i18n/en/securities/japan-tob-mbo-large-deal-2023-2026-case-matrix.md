@@ -1,13 +1,14 @@
 ---
 source: securities/japan-tob-mbo-large-deal-2023-2026-case-matrix
-source_hash: eaa114a66ce1a441
+source_hash: 15eebfef07626ea7
 lang: en
 status: machine
 fidelity: ok
-title: "Japan TOB / MBO large-deal 2023-2026  case matrix"
-translated_at: 2026-06-01T04:15:40.140Z
+title: "Japan TOB / MBO large-deal 2023-2026 case matrix"
+translated_at: 2026-06-15T04:09:41.178Z
 ---
-# Japan TOB / MBO large-deal 2023-2026  case matrix
+
+# Japan TOB / MBO large-deal 2023-2026 case matrix
 
 ## TL;DR
 
@@ -44,7 +45,7 @@ The set is mixed-completion: some deals are completed and settled, some are stil
 
 | Case | Target (ticker / market) | Acquirer | Deal value | Premium % | Offer mechanism | Defense response | METI Fair M&A alignment | JFTC review | Special committee role | Outcome |
 |---|---|---|---|---|---|---|---|---|---|---|
-| **Toshiba ← JIP** | Toshiba (6502, TSE Prime) | **Domestic PE consortium led by JIP** (with [[JapanFG/orix|ORIX]], [[JapanFG/chubu-electric-power|Chubu Electric Power]], CDPQ-aligned LPs etc.) | ~¥2tn | ~10-12% over pre-process market | [[finance/japan-tender-offer-process|TOB]] then [[finance/japan-mbo-and-squeeze-out-process|squeeze-out]] via share consolidation | None (cooperative process post strategic-review committee) | Full alignment — multi-year strategic-review committee, MoM consideration, fairness opinion | JFTC Phase I cleared (no Phase II) | Independent special committee centrally drove process | **Success — TOB and squeeze-out completed; delisting 2024-Q1** |
+| **Toshiba ← JIP** | Toshiba (6502, TSE Prime) | **Domestic PE consortium led by JIP** (with [[JapanFG/orix|ORIX]], Chubu Electric Power, CDPQ-aligned LPs etc.) | ~¥2tn | ~10-12% over pre-process market | [[finance/japan-tender-offer-process|TOB]] then [[finance/japan-mbo-and-squeeze-out-process|squeeze-out]] via share consolidation | None (cooperative process post strategic-review committee) | Full alignment — multi-year strategic-review committee, MoM consideration, fairness opinion | JFTC Phase I cleared (no Phase II) | Independent special committee centrally drove process | **Success — TOB and squeeze-out completed; delisting 2024-Q1** |
 | **Outsourcing Inc. ← Bain Capital** | Outsourcing Inc. (2427, TSE Prime) | Bain Capital | ~¥390bn range | Revised premium (raised after initial bid critique) | TOB with revised offer history | None — minority shareholders / market pressure forced price revision | Mixed — initial price drew minority-shareholder criticism; revised offer addressed | JFTC Phase I cleared | Special committee active; reviewed revised offer | **Success — completed after revised offer** |
 | **Sapporo HD — 3D Investment Partners pressure** | Sapporo Holdings (2501, TSE Prime) | **Activist (3D Investment Partners)** — not an acquirer, pressure for real-estate carve-out | n/a (activist pressure, not acquisition) | n/a | n/a — activist proposal / engagement | Defense response includes engagement, alternative-plan presentation | Activist case under [[finance/japan-activist-investor-playbook|playbook]] | n/a | Activist engagement with board / special committee | **Ongoing / pending** — value reform under negotiation |
 | **Itochu / Descente** | Descente (8114, TSE Prime; later delisted) | Itochu Corporation | 2019 initial TOB ~¥21bn for additional stake; 2024 follow-on rounds raise Itochu stake further | 2019: ~50% premium (notable hostile-tender precedent in Japan) | TOB | 2019: target board initially opposed | 2019 case was pre-Fair-Guideline tightening; 2024 follow-on rounds adhered to current guidelines | JFTC cleared | Special committee in 2024 follow-on rounds | **Success — Itochu majority and subsequent consolidation** |
@@ -71,7 +72,7 @@ Several rows above are reference cases included to scaffold the comparison; the 
 The mechanism choice signals the **intent** of the transaction:
 
 - **TOB + squeeze-out via share consolidation** — Toshiba / JIP. Standard path for going-private at scale.
-- **TOB + squeeze-out via demand-for-sale (share sale demand)** — common variant once acquirer holds 90%+.
+- **TOB + squeeze-out via demand-for-sale (株式売渡請求)** — common variant once acquirer holds 90%+.
 - **Tender with revised offer history** — Outsourcing / Bain. Reflects market / minority pressure on initial price.
 - **Activist engagement (no TOB)** — Sapporo / 3D. Uses [[finance/japan-shareholder-proposal-and-agm-voting-route|shareholder proposal route]] and engagement rather than tender.
 

@@ -1,20 +1,20 @@
 ---
 source: regional-banks/ssnb
-source_hash: eacebace55bc4ac2
+source_hash: bce3c1665759e5e2
 lang: ja
 status: machine
 fidelity: ok
-title: "住信SBIネット銀行 → ドコモSMTBネット銀行"
-translated_at: 2026-06-02T15:14:17.129Z
+title: "住信 SBI ネット銀行 (SBI Sumishin Net Bank) → ドコモ SMTB ネット銀行"
+translated_at: 2026-06-15T04:09:41.140Z
 ---
 
-# 住信SBIネット銀行 → ドコモSMTBネット銀行
+# 住信 SBI ネット銀行 (SBI Sumishin Net Bank) → ドコモ SMTB ネット銀行
 
-## ウィキ上の位置づけ
+## Wiki 内の位置づけ
 
-この項目は [[regional-banks/INDEX|regional-banks INDEX]] の配下に位置づける。同業・比較対象の文脈は [[payment-firms/gmo-aozora-net|GMO あおぞらネット銀行]] と照らし、より広い制度・規制上の境界は [[banking/INDEX|banking index]] を参照する。
+本項目は[[regional-banks/INDEX|regional-banks INDEX]]の下に位置する。ピア／対比の文脈としては[[payment-firms/gmo-aozora-net|GMO あおぞらネット銀行]]と、より広いシステム／規制境界としては[[banking/INDEX|banking index]]と併せて読むこと。
 
-## 要約
+## TL;DR
 
 **2025-09-25 東証スタンダード上場廃止 → 2025-10-01 NTT ドコモ連結子会社化 → 2025-10-02 SBI HD 資本関係完全解消 → 2026-08-03 「ドコモ SMTB ネット銀行」改称予定**という劇的な親会社入替を経た元ネット銀行。三井住友信託 + SBI HD 50:50 JV として 2007-09-24 開業し、2023-03-29 PRIME 上場した後、わずか 2 年半で SBI HD 持分を NTT ドコモが買収。**FY2024（2025-03 期）連結純利益 281 億円・経常収益 1,465 億円・預金残高 9 兆 8,216 億円・口座数 825 万件**で、ネット銀行業界 [[banking/rakuten-bank|rakuten-bank]] に次ぐ規模。**住宅ローン取扱高ネット銀行 No.1 級** + **日本最大級の BaaS（NEOBANK）プロバイダー** の 2 軸が中核。「docomo NEOBANK / d スマートバンク」のバックエンドだった同行が、提携先 [[megabanks/ndfg]] そのものに吸収された珍しい事例。
 
@@ -119,7 +119,7 @@ translated_at: 2026-06-02T15:14:17.129Z
 ### 親会社入替の戦略含意（2025）
 
 - **NTT ドコモ側**: 「銀行業における他社通信キャリアとの遅れを取り戻す為」が買収の動機。au じぶん銀行（KDDI 系）/ PayPay 銀行（SoftBank 系）に対抗する自前金融基盤確立
-- **SBI HD 側**: 住信 SBI 持分売却で資金回収、SBI 新生銀行（旧新生銀行）にリテール戦略を集約
+- **SBI HD 側**: 住信 SBI 持分売却で資金回収、[[regional-banks/sbi-shinsei-bank|SBI 新生銀行]]（旧新生銀行）にリテール戦略を集約
 - **三井住友信託側**: パートナーは SBI HD から NTT ドコモへ。議決権 50:50 維持で経営影響力は不変
 
 ### 差別化の中核
@@ -145,7 +145,7 @@ translated_at: 2026-06-02T15:14:17.129Z
 | [[banking/paypay-bank|paypay-bank]] | LY Corp + SBI | PayPay 連携 | 住宅ローン弱い |
 | auじぶん銀行 | KDDI（旧 MUFG 共同） | au 経済圏 | BaaS 弱い |
 | ソニー銀行 | ソニー G | 外貨預金 | スケール小 |
-| 新生銀行系（aozora / SBI 新生）| SBI G | 法人融資 | リテールデジタルで後追い |
+| 新生銀行系（aozora / SBI 新生）| SBI G | 法人融資 | retail デジタル後追い |
 
 ## 4. 規制・政策
 
@@ -159,7 +159,7 @@ translated_at: 2026-06-02T15:14:17.129Z
   - 2024〜 NISA 拡充 → ネット証券連携で資金流入加速
   - 2025〜 ステーブルコイン制度（メガバンク Progmat 中心）への ネット銀行対応
 
-## 関連項目
+## 関連
 
 - [[megabanks/ndfg]] · [[trust-banks/sumitomo-mitsui-trust|smtb-hd]] · [[megabanks/sbi-hd]] · [[banking/rakuten-bank|rakuten-bank]] · [[banking/paypay-bank|paypay-bank]]
 - [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]]
@@ -177,7 +177,7 @@ translated_at: 2026-06-02T15:14:17.129Z
 ---
 
 > [!info] 検証状況
-> confidence: **概ね確度あり**（v2.0 親会社入替反映 2026-05-19）。
+> confidence: **likely**（v2.0 親会社入替反映 2026-05-19）。
 > **FY2024（2025-03 期）連結**: 経常収益 1,465 億円・純利益 281 億円・預金残高 9.8 兆円・口座数 825 万件・貸出金 8.7 兆円 は Wikipedia 経由の決算開示ベース、原典の決算短信 PDF 直接参照は未実施。
 > **資本構成変遷**: 2025-09-25 上場廃止・2025-10-01 NTT ドコモ連結子会社化（65.81%）・2025-10-02 SBI HD 完全解消・2026-08-03 改称予定（NTT ドコモ 55.37% / 三井住友信託 44.63%）は Wikipedia 記述に依拠、TOB 結果報告書原典の確認は未実施。
 > NEOBANK パートナー一覧は 2025 時点公開分、件数は 10 社超で「日本最大級」表現を維持。

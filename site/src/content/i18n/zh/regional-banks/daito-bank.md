@@ -1,52 +1,63 @@
 ---
 source: regional-banks/daito-bank
-source_hash: ff3e54c6045a60eb
+source_hash: 1d0cd475073aba88
 lang: zh
 status: machine
 fidelity: ok
-title: "大东银行"
-translated_at: 2026-05-31T15:29:03.948Z
+title: "大東银行"
+translated_at: 2026-06-15T04:09:41.161Z
 ---
 
-# 大东银行
+# 大東银行
 
 
 ## Wiki 路径
 
-本条目位于 [[regional-banks/INDEX|regional-banks INDEX]]下。请与 [[regional-banks/fukushima-bank|福岛银行]] 对照阅读，以理解福岛县第二地方银行的牌照格局；更广义的制度边界见 [[banking/INDEX|银行业索引]]。
+本词条位于 [[regional-banks/INDEX|regional-banks INDEX]]（其领域路径）之下。与 [[regional-banks/fukushima-bank|福島銀行]] 对照阅读以了解同县的第二地方银行同业 / 对比，并与 [[financial-regulators/fsa|the FSA]] 及 [[banking/INDEX|banking]] 对照以了解监管 / 系统边界。福岛县第一地方银行的锚点是 [[regional-banks/toho-bank|東邦銀行]]。
 
-## TL;DR
+## 摘要
 
-大东银行是总部位于福岛县郡山市的第二地方银行，列入金融厅银行牌照名单。在福岛县银行版图中，应将其与 [[regional-banks/toho-bank]] 和 [[regional-banks/fukushima-bank]] 一并阅读，以区分第一地方银行、第二地方银行以及集团整合语境。
+株式会社大東银行 (The Daito Bank) 是依《银行法》持有银行牌照、并列入金融厅银行牌照一览、总行设于福岛县郡山市的第二地方银行。在福岛县内，与第一地方银行 [[regional-banks/toho-bank|東邦銀行]]、第二地方银行 [[regional-banks/fukushima-bank|福島銀行]] 一并，将第一地方银行 / 第二地方银行的双层结构分开阅读。其业务内容为以县中通地区的存款受理与面向中小企业、个人的放贷为主的地方银行标准模式。
 
 ## 1. 牌照 / 集团边界
 
-| 项目 | 说明 |
+| 项目 | 备注 |
 |---|---|
-| 法定名称 | 大东银行 |
-| 牌照路径 | 《银行法》下的第二地方银行；金融厅银行牌照名单 |
-| 集团边界 | 独立第二地方银行 |
-| 主市场 | 福岛 / 郡山 |
-| Wiki 角色 | 福岛第二地方银行经营公司页面 |
+| 法人名称 | 株式会社大東银行 / The Daito Bank, Ltd. |
+| 牌照路径 | 《银行法》上的银行牌照 (第二地方银行 / 第二地银); 金融厅银行牌照一览 |
+| 集团边界 | 独立系第二地方银行（独立系・非 FG 旗下） |
+| 主场市场 | 福岛 / 郡山（福岛县郡山市总行） |
+| Wiki 角色 | 福岛县第二地方银行运营公司页面 |
 
 ## 2. 运营模式
 
-大东银行作为第二地方银行，主要在福岛县中通地区经营零售金融、中小企业贷款、本地存款、银行卡 / 信贷相关服务以及社区金融业务。官方公司概要记载其总部位于郡山市中町、1942 年设立，并说明其转制为普通银行的历史。东北地区第二地方银行整合背景见 [[banking/regional-bank-consolidation-pattern]]。
+大東银行是以福岛县中通为中心，承担零售、中小企业放贷、本地存款、卡 / 信用相关集团服务以及社区金融的第二地方银行。官方公司概要中可确认其郡山市中町的总行，以及向普通银行转换的沿革。福岛县在震灾、核电站事故后的复兴金融、事业承继、人口减少的语境较为沉重，需要与东邦银行、福岛银行一并审视地域金融的多层结构。
 
-## 3. 本页为何重要
+## 3. 监管与系统定位
 
-- 补齐福岛第二地方银行在金融厅牌照名单中的精确实体页面。
-- 为 [[regional-banks/fukushima-bank]] 提供清晰的同业对照。
-- 避免将 SBI 联盟或地方银行整合笔记误当作银行牌照页面。
+- **监管**: 在《银行法》之下由金融厅 ([[financial-regulators/fsa|FSA]]) 与东北财务局监管。通过自有资本比率监管（国内基准）等对稳健性加以规范。
+- **行业团体**: 第二地方银行协会（第二地银协）系列的第二地方银行。参加全国银行资金清算网络（全银系统），作为行业团体连入 [[financial-regulators/zenginkyo|全国銀行協会（全銀協）]] 的框架。
+- **存款人保护**: 存款为存款保险机构（DIC）的承保对象。
+- **整合背景**: 东北・福岛第二地方银行重组（包括 SBI 系在内的联盟动向）的一般背景请参阅 [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]]。
 
-## Related
+## 4. 本页的意义
 
+- 为福岛县的第二地方银行填补金融厅银行牌照上确切名称的缺口。
+- 为 [[regional-banks/fukushima-bank]] 提供一个清晰的同业页面。
+- 有助于避免将 SBI 联盟 / 地域银行整合的备注当作银行牌照页面的替代品。
+
+## 相关
+
+- [[regional-banks/INDEX|regional-banks INDEX]]
 - [[regional-banks/toho-bank]]
 - [[regional-banks/fukushima-bank]]
-- [[megabanks/sbi-regional-bank-hd]]
+- [[megabanks/sbi-regional-bank-hd|SBI 地銀 HD]]
+- [[financial-regulators/fsa|FSA]]
+- [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
+- [[INDEX|FinWiki index]]
 
-## Sources
+## 来源
 
-- 金融厅：第二地方银行牌照名单，截至 2026-05-02。
-- 大东银行官方公司概要。
+- 金融厅 (金融庁): 银行牌照一览 (`ginkou.xlsx`), 第二地方银行。
+- 大東银行官方公司概要 (会社概要), `https://www.daitobank.co.jp/investor/outline/outline03.html`。

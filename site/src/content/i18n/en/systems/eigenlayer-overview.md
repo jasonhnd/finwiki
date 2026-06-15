@@ -1,13 +1,14 @@
 ---
 source: systems/eigenlayer-overview
-source_hash: 16b200ca9a060572
+source_hash: 926585c9820a3680
 lang: en
 status: machine
 fidelity: ok
-title: "EigenLayer Overview · Restaking and Leasing Ethereum Crypto-Economic Security"
-translated_at: 2026-06-01T04:15:40.110Z
+title: "EigenLayer Overview · Restaking and the Leasing of Ethereum Cryptoeconomic Security"
+translated_at: 2026-06-15T04:09:41.215Z
 ---
-# EigenLayer Overview · Restaking and Leasing Ethereum Crypto-Economic Security
+
+# EigenLayer Overview · Restaking and the Leasing of Ethereum Cryptoeconomic Security
 
 ## Wiki route
 
@@ -15,31 +16,31 @@ This entry sits under [[systems/INDEX|systems index]]. Read it against [[systems
 
 ## Key facts
 
-- Mainnet launch in 2023-06  ^[extracted]
-- TVL above 150 億+ USD (as of 2025 ) ^[extracted]
-- More than 40 AVSs are live (EigenDA / Hyperlane / AltLayer / Espresso / Lagrange, etc.) ^[extracted]
-- EIGEN token launched in 2024-10  and is used for inter-subjective dispute resolution ^[extracted]
-- Slashing mechanism launched in 2025 ; AVSs can custom-define slashing conditions ^[extracted]
+- 2023-06  mainnet launch ^[extracted]
+- TVL 150 億+ USD (as of 2025 ) ^[extracted]
+- 40+ AVS in operation (EigenDA / Hyperlane / AltLayer / Espresso / Lagrange, etc.) ^[extracted]
+- EIGEN token launched 2024-10  · used for inter-subjective dispute resolution ^[extracted]
+- Slashing mechanism activated 2025  —— AVS can custom-define slashing conditions ^[extracted]
 
-## Mechanism / How it works
+## Restaking Mechanism and AVS Workflow
 
-Traditional crypto-economic security has a **bootstrapping problem**: a new L1  must launch BFT through staking its native token, but at launch the token market capitalization is low → attack cost is low → no one is willing to use it. "Middleware" such as cross-chain bridges / oracles / DA layers also needs independent validator sets, and each must attract staking capital, which is extremely inefficient.
+Traditional cryptoeconomic security has a **bootstrapping problem**: a new L1  must launch BFT through staking of its native token, but in the early launch phase the token's market cap is low → the cost of attack is low → no one dares to use it. "Middleware" such as cross-chain bridges / oracles / DA layers also requires its own independent validator set, and each must gather staking capital, which is extremely inefficient.
 
-EigenLayer's solution: **lend out the deepest staking pool, ETH, to any service that needs BFT-style validation**. Stakers earn additional yield, new services obtain immediate security, and Ethereum L1  is not harmed (double-slashing guarantee) (see [[exchanges/liquid-staking-restaking-cex-exposure|liquid staking · restaking · CEX エクスポージャ]]).
+EigenLayer's solution: **"lease out" ETH, the deepest staking pool, to any service that needs BFT-style verification**. Stakers earn additional yield, new services gain immediate security, and Ethereum L1  takes no damage (dual slashing guarantee) (see [[exchanges/liquid-staking-restaking-cex-exposure|liquid staking · restaking · CEX エクスポージャ]]).
 
-Analogy: it is like SWIFT lending its existing KYC bank network to a new payments company, rather than each company building its own network separately.
+Analogy: SWIFT "lends" the KYC banking network it already has to a new payment company, rather than having each one build it individually.
 
 **Core components**:
-- **Operators**: node operators that stake ETH (their own or delegated by others) and selectively opt in to each AVS
-- **AVS**: services requiring external validation, defining their own slashing conditions
-- **EigenPods**: contracts that receive ETH staking rewards and allow native restaking
+- **Operators**: node operators who stake ETH (their own or as proxy for others) and selectively opt in to each AVS
+- **AVS**: services that need external verification, defining their own slashing conditions
+- **EigenPods**: contracts that receive ETH staking rewards, allowing native restaking
 - **Strategies**: support restaking of LSTs (stETH, rETH, cbETH, etc.)
 
 ## Origin & evolution
 
-EigenLayer was proposed as a restaking paper in 2021 年 by Sreeram Kannan's team (former UW professor) and launched mainnet in 2023-06 . Its initial positioning was the "security layer for the modular blockchain era," targeting customers such as Celestia competitors (EigenDA), cross-chain bridges (Hyperlane), and shared sequencers (Espresso).
+EigenLayer was proposed in a restaking paper by Sreeram Kannan's team (a former UW professor) in 2021 年, and launched its mainnet in 2023-06 . Its initial positioning was as "the security layer for the modular-blockchain era," with target customers being Celestia competitors (EigenDA), cross-chain bridges (Hyperlane), and shared sequencers (Espresso).
 
-In 2024-10 , it launched the EIGEN token and introduced the concept of inter-subjective dispute resolution: if an AVS has a "subjective" violation (for example, an oracle quote deviating from the market, something that cannot be cryptographically disproven), EIGEN holders vote on whether to slash. After slashing launched in 2025 , EigenLayer moved from a "commitment mechanism" to an "actual economic-security market" (contrast with the evolution on the crypto-native side in [[fintech/onchain-finance-vs-crypto-bifurcation|onchain finance vs crypto 二分]]).
+In 2024-10  it launched the EIGEN token and introduced the concept of inter-subjective dispute resolution —— when there is a "subjective" violation in an AVS (such as an oracle quote diverging from the market, which cannot be cryptographically disproven), EIGEN holders vote on whether to slash. After activating slashing in 2025 , EigenLayer shifted from a "commitment mechanism" to an "actual economic-security market" (contrasted with the evolution on the crypto-native side in [[fintech/onchain-finance-vs-crypto-bifurcation|onchain finance vs crypto 二分]]).
 
 ## Related
 <!-- wiki-links:managed -->
@@ -51,5 +52,5 @@ In 2024-10 , it launched the EIGEN token and introduced the concept of inter-sub
 
 ## Sources
 
-- EigenLayer Whitepaper(Sreeram Kannan et al.)
+- EigenLayer Whitepaper (Sreeram Kannan et al.)
 - EigenLayer docs — https://docs.eigenlayer.xyz/

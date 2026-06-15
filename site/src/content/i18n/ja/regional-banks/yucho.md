@@ -1,19 +1,19 @@
 ---
 source: regional-banks/yucho
-source_hash: e3664b4b99ca62ee
+source_hash: 95c9e8884a37bd62
 lang: ja
 status: machine
 fidelity: ok
 title: "ゆうちょ銀行 (Japan Post Bank)"
-translated_at: 2026-06-02T16:33:58.480Z
+translated_at: 2026-06-15T04:09:41.141Z
 ---
 # ゆうちょ銀行 (Japan Post Bank)
 
-## ウィキ上の位置づけ
+## Wiki 内の位置づけ
 
-この項目は [[regional-banks/INDEX|regional-banks INDEX]] 配下にあります。比較・対照の文脈では [[megabanks/resona-hd|りそなホールディングス (Resona Holdings)]] を、より広い制度・規制境界の文脈では [[banking/INDEX|banking index]] をあわせて参照してください。
+本項目は[[regional-banks/INDEX|regional-banks INDEX]]の下に位置する。ピア／対比の文脈としては[[megabanks/resona-hd|りそなホールディングス (Resona Holdings)]]と、より広いシステム／規制境界としては[[banking/INDEX|banking index]]と併せて読むこと。
 
-## 要約
+## TL;DR
 
 日本最大級の預貯金規模（**約 190 兆円**規模、貯金残高 190.5 兆円〔2025-03-31〕、国内銀行で最大級）を持つ商業銀行。郵政民営化（2007-10-01）と同日に開業し、全国 **約 24,000 局**の郵便局網（日本郵便への業務委託）をリテール基盤とする。融資業務は限定的で、運用資産の大部分は**国債を中心とした有価証券運用**に依存してきたが、近年は**海外債券・オルタナティブ・私募ファンドへの多様化**を中計の柱に据える。親会社は日本郵政（議決権保有比率は段階的売却で **2025-03-31 時点 50.04%**、2025 年に 50% 以下まで低下）。2015-11-04 に日本郵政・かんぽ生命と **3 社同時 IPO**。^[extracted]
 
@@ -38,6 +38,8 @@ translated_at: 2026-06-02T16:33:58.480Z
 | 直営店（営業所）| **235**（2025-03-31 会社概要）|
 
 ### 親会社・グループ構造
+
+> 預金量・拠点数・運用ポートフォリオを軸にした operating profile は companion ページ [[regional-banks/japan-post-bank|Japan Post Bank (operating profile)]] に分離して整理している。
 
 ```
 日本郵政（持株会社・上場 6178）
@@ -105,7 +107,7 @@ translated_at: 2026-06-02T16:33:58.480Z
 - 2024〜 日銀政策金利正常化 → **国債保有銘柄の評価損益・運用利回り改善**両面
 - かんぽ販売問題後のガバナンス強化（グループ全体）
 
-## 関連項目
+## 関連
 
 - [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[megabanks/ndfg]]
 - [[megabanks/sbi-hd]] · [[megabanks/paypay-fg]]

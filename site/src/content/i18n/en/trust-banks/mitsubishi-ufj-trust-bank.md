@@ -1,53 +1,61 @@
 ---
 source: trust-banks/mitsubishi-ufj-trust-bank
-source_hash: fb83b277d5f022b6
+source_hash: 9b6ab834d1ed258f
 lang: en
 status: machine
 fidelity: ok
 title: "Mitsubishi UFJ Trust and Banking (MUTB)"
-translated_at: 2026-05-31T23:59:49.368Z
+translated_at: 2026-06-15T04:09:41.171Z
 ---
-# Mitsubishi UFJ Trust and Banking (MUTB)
 
+# Mitsubishi UFJ Trust and Banking (MUTB)
 
 ## Wiki route
 
-This entry sits under [[trust-banks/INDEX|trust-banks INDEX]]. Read it against [[trust-banks/smbc-trust-bank|SMBC信託銀行 (SMBC Trust Bank)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+This entry sits under [[trust-banks/INDEX|trust-banks INDEX]] (its domain route). Read it against [[trust-banks/smtb|三井住友信託銀行 (SMTB)]] and [[trust-banks/mizuho-trust-bank|みずほ信託銀行]] for peer / contrast (the other megabank-group trust banks), and against [[financial-regulators/fsa|the FSA]] plus [[banking/INDEX|banking]] for the supervisory / system boundary. The commercial-bank sibling in the same group is [[megabanks/mufg-bank|三菱UFJ銀行]].
 
 ## TL;DR
 
-Mitsubishi UFJ Trust and Banking is [[megabanks/mufg|MUFG]]'s trust-bank operating company. It is a banking entity separate from the commercial bank [[megabanks/mufg-bank|三菱UFJ銀行]], and handles trust property, pensions, real estate, securities agency services, and entrusted-asset domains.
+Mitsubishi UFJ Trust and Banking Corporation (三菱UFJ信託銀行, MUTB) is the core trust-bank operating company of [[megabanks/mufg|MUFG]]. It is a "trust-business-concurrent financial institution" that, **in addition to a bank license under the Banking Act, holds a license to concurrently conduct trust business under the Concurrent Operation Act (the Act on Concurrent Operation of Trust Business by Financial Institutions)**, conducting banking business such as deposits and lending together with trust assets, pensions, real estate, transfer agency, and entrusted-asset administration as an integrated whole. It is a separate banking legal entity from the commercial bank [[megabanks/mufg-bank|三菱UFJ銀行]], and is distinguished from the megabank entity itself by the combination of a bank license + concurrent trust operation.
 
-## 1. Corporate and license boundary
+## 1. License / group boundary
 
-| Item | Reading |
+| Item | Notes |
 |---|---|
-| Legal name | Mitsubishi UFJ Trust and Banking Corporation |
-| English name | Mitsubishi UFJ Trust and Banking Corporation |
+| Legal name | 三菱UFJ信託銀行株式会社 / Mitsubishi UFJ Trust and Banking Corporation |
+| License route | Bank license under the Banking Act + license to concurrently conduct trust business under the Concurrent Operation Act (trust-business-concurrent financial institution) |
 | FSA category | Trust bank |
 | Bank code | 0288 |
 | Parent boundary | [[megabanks/mufg|MUFG]] trust-bank operating company |
+| Commercial-bank sibling | [[megabanks/mufg-bank|三菱UFJ銀行]] (the ordinary bank of the same group) |
 
-## 2. Business role
+## 2. Operating model
 
-- MUFG's trust platform handling trust property, pensions, asset management, real estate, and securities agency services.
-- Serves as the reference point when looking at relationships with asset-administration institutions such as [[trust-banks/master-trust-bank|日本マスタートラスト信託銀行]].
-- [[megabanks/mufg-bank|三菱UFJ銀行]] handles deposits / lending, foreign exchange, and the commercial banking network, while MUTB handles trust, fiduciary, real estate, and pension functions.
+As a trust-business-concurrent financial institution, MUTB carries out the following functions:
 
-## 3. Why standalone page matters
+- **Asset administration / entrusted assets**: It handles asset administration and securities administration for institutional investors and pension funds, connecting with the group's asset-administration platform [[trust-banks/master-trust-bank|日本マスタートラスト信託銀行]].
+- **Pension trusts, real estate, transfer agency**: Defined-benefit / defined-contribution pension trusts, real-estate trusts, and transfer-agency business as a shareholder-registry administrator.
+- **Securitization / liquidation**: Acting as trustee for securitization schemes using trusts of monetary claims and real estate.
 
-In analysis of stablecoin / security token / trust beneficiary right / asset administration, the license difference between commercial banks and trust banks is important. Keeping MUTB as a standalone page makes it easier to link from [[fintech/jp-stablecoin-progmat|Progmat]] and EPI / tokenized deposit topics.
+Whereas [[megabanks/mufg-bank|三菱UFJ銀行]] handles deposits / lending, foreign exchange, and the commercial-banking network, MUTB handles trusts, entrusted assets, real estate, pensions, and transfer agency — a division of functions. Supervision is conducted by [[financial-regulators/fsa|金融庁]] on both the banking and trust sides.
+
+## 3. Why this page matters
+
+- An anchor that fixes the license difference between a commercial bank (ordinary bank) and a trust-business-concurrent financial institution. In analyses of stablecoins / security tokens / trust beneficiary rights / asset administration, this difference becomes the point at issue.
+- A base point when linking to [[trust-banks/master-trust-bank|日本マスタートラスト信託銀行]] or [[trust-banks/custody-bank|資産管理サービス信託系の custody 機関]].
+- Kept as an independent page that is easy to link from trust-scheme topics such as [[fintech/jp-stablecoin-progmat|Progmat]] or tokenized deposits.
 
 ## Related
 
-- [[megabanks/mufg]]
-- [[megabanks/mufg-bank]]
-- [[trust-banks/master-trust-bank]]
-- [[fintech/jp-stablecoin-progmat]]
-- [[securities/japan-securities-depository-center]]
+- [[trust-banks/INDEX|trust-banks INDEX]]
+- [[megabanks/mufg|MUFG]]
+- [[megabanks/mufg-bank|三菱UFJ銀行]]
+- [[trust-banks/master-trust-bank|日本マスタートラスト信託銀行]]
+- [[financial-regulators/fsa|FSA]]
+- [[fintech/jp-stablecoin-progmat|Progmat]]
+- [[INDEX|FinWiki index]]
 
 ## Sources
 
-- FSA, "Bank license list", `ginkou.xlsx`.
-- Mitsubishi UFJ Trust and Banking, "Company Profile".
-- Mitsubishi UFJ Trust and Banking, "Company Information".
+- FSA: bank license list (`ginkou.xlsx`).
+- Mitsubishi UFJ Trust and Banking: 会社概要 / 会社情報.

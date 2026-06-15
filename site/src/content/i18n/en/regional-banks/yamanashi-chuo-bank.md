@@ -1,50 +1,54 @@
 ---
 source: regional-banks/yamanashi-chuo-bank
-source_hash: fb7bdaf4145bf4ea
+source_hash: 83ca650122e68a97
 lang: en
 status: machine
 fidelity: ok
-title: ""
-translated_at: 2026-06-01T02:31:57.107Z
+title: "The Yamanashi Chuo Bank"
+translated_at: 2026-06-15T04:09:41.213Z
 ---
-﻿# Yamanashi Chuo Bank
+
+# The Yamanashi Chuo Bank
 
 ## Wiki route
 
-This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it with [[banking/INDEX|banking index]] for adjacent context and [[financial-licenses/INDEX|JapanFG index]] for the broader system boundary.
+This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain route). Read it against [[regional-banks/hachijuni-nagano-bank|八十二銀行]] and [[regional-banks/shizuoka-bank|静岡銀行]] for neighbouring central-Japan peer / contrast, and against [[financial-regulators/fsa|the FSA]] plus [[banking/INDEX|banking]] for the supervisory / system boundary.
 
 ## TL;DR
 
-Yamanashi Chuo Bank, Ltd. is a regional bank headquartered in Yamanashi Prefecture and listed on the FSA bank license list. It is the main regional bank in Yamanashi Prefecture and is treated in the wiki as a standalone operating-company anchor.
+The Yamanashi Chuo Bank, Ltd. (株式会社山梨中央銀行, commonly called "Yamanaka") is a regional bank (first regional bank) headquartered in Kofu, Yamanashi Prefecture, that holds a banking license under the Banking Act and is listed on the FSA's bank license list. Per its official company outline, it is Yamanashi Prefecture's main regional bank, founded 1941 年 12 月 1 日 through the merger of Daiju Bank and Yushin Bank. On the wiki it is treated as a standalone operating-company anchor. Its business overlays corporate support adjacent to the Greater Tokyo area onto the standard regional-bank model of taking deposits and lending to SMEs and individuals within Yamanashi Prefecture.
 
 ## 1. License / group boundary
 
 | Item | Notes |
 |---|---|
-| Legal name | Yamanashi Chuo Bank, Ltd. |
-| License route | Banking Act regional bank; FSA bank license list |
-| Group boundary | Independent regional bank |
-| Home market | Yamanashi / Kofu |
+| Legal name | 株式会社山梨中央銀行 / The Yamanashi Chuo Bank, Ltd. |
+| License route | Banking license under the Banking Act (regional bank / first regional bank); FSA bank license list |
+| Group boundary | Independent regional bank (independent; Yamanashi Prefecture's main regional bank) |
+| Established | 1941-12-01 (merger of Daiju Bank + Yushin Bank) |
+| Home market | Yamanashi / Kofu (head office in Marunouchi, Kofu) |
 | Wiki role | Yamanashi regional-bank operating-company page |
 
 ## 2. Operating model
 
-Yamanashi Chuo Bank is a regional bank providing retail deposits, SME finance, municipal / local-business relationships, tourism-adjacent finance, and Tokyo-neighboring corporate support inside Yamanashi Prefecture. Although it is close to the Tokyo area, the wiki treats it as a Chubu regional-bank batch legal-name anchor rather than as Kanto. For Chubu regional-bank consolidation context, see [[banking/regional-bank-consolidation-pattern]]; for nearby peers, see [[regional-banks/hachijuni-nagano-bank]] and [[regional-banks/shizuoka-bank]].
+The Yamanashi Chuo Bank is a regional bank that handles retail deposits, SME finance, municipal / local-business relationships, tourism-adjacent finance, and Tokyo-neighboring corporate support within Yamanashi Prefecture. Although it is close to the Greater Tokyo area, on the wiki it is organized not as Kanto but as the legal-name anchor of the Chubu regional-bank batch. For the Chubu regional-bank consolidation context see [[banking/regional-bank-consolidation-pattern|地域銀行統合パターン]], and for neighbouring peers see [[regional-banks/hachijuni-nagano-bank|八十二銀行]] and [[regional-banks/shizuoka-bank|静岡銀行]].
 
 ## 3. Why this page matters
 
-- Closes the exact-name page for Yamanashi Chuo Bank in the FSA regional-bank list.
-- Provides a standalone anchor for Yamanashi regional finance.
-- Useful peer for [[regional-banks/hachijuni-nagano-bank]], [[regional-banks/shizuoka-bank]], and broader central-Japan regional-bank mapping.
+- Fixes the exact-name page on the FSA's bank license list (Banking Act).
+- Provides a standalone anchor for Yamanashi's regional finance.
+- Becomes a useful peer for mapping the Chubu region's regional banks together with [[regional-banks/hachijuni-nagano-bank|八十二銀行]] and [[regional-banks/shizuoka-bank|静岡銀行]].
 
 ## Related
 
-- [[regional-banks/hachijuni-nagano-bank]]
-- [[regional-banks/shizuoka-bank]]
-- [[banking/regional-bank-consolidation-pattern]]
-- [[banking/INDEX]]
+- [[regional-banks/hachijuni-nagano-bank|八十二銀行]]
+- [[regional-banks/shizuoka-bank|静岡銀行]]
+- [[banking/regional-bank-consolidation-pattern|地域銀行統合パターン]]
+- [[regional-banks/INDEX|regional-banks INDEX]]
+- [[INDEX|FinWiki index]]
 
 ## Sources
 
-- FSA: bank license list, regional banks, as of 2026-01-01.
+- FSA: bank license list (`ginkou.xlsx`), regional banks.
 - Yamanashi Chuo Bank official company profile.
+- 山梨中央銀行 (Wikipedia): established 1941-12-01 (merger of 第十銀行 + 有信銀行); HQ Kofu, Marunouchi.

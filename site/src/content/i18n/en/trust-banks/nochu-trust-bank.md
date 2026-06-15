@@ -1,53 +1,60 @@
 ---
 source: trust-banks/nochu-trust-bank
-source_hash: 7c12fa2b38ade4ea
+source_hash: 4b85c5dce9ca4e36
 lang: en
 status: machine
 fidelity: ok
-title: "Norinchukin Trust & Banking"
-translated_at: 2026-06-01T00:41:50.441Z
+title: "Norinchukin Trust & Banking (農中信託銀行)"
+translated_at: 2026-06-15T04:09:41.186Z
 ---
-# Norinchukin Trust & Banking
 
+# Norinchukin Trust & Banking (農中信託銀行)
 
 ## Wiki route
 
-This entry sits under [[trust-banks/INDEX|trust-banks INDEX]]. Read it against [[trust-banks/mitsubishi-ufj-trust-bank|三菱UFJ信託銀行 (MUTB)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+This entry sits under [[trust-banks/INDEX|trust-banks INDEX]] (its domain route). Read it against [[trust-banks/mitsubishi-ufj-trust-bank|三菱UFJ信託銀行 (MUTB)]] for megabank-group peer / contrast, and against [[financial-regulators/fsa|the FSA]] plus [[banking/INDEX|banking]] for the supervisory / system boundary. Its parent — the cooperative central bank — is [[cooperative-banks/norinchukin|農林中央金庫]].
 
 ## TL;DR
 
-Norinchukin Trust & Banking is the trust-bank operating company funded by [[cooperative-banks/norinchukin|農林中央金庫]] 100%. Within the Norinchukin Bank group, the central institution for JA Bank / cooperative financial institutions, it handles trust, asset administration, and investment-related functions.
+The Norinchukin Trust & Banking Co., Ltd. (農中信託銀行) is a trust-bank operating company 100% funded by [[cooperative-banks/norinchukin|農林中央金庫]]. It is a trust-business-concurrent financial institution that holds **a bank license under the Banking Act plus authorization for concurrent trust business under the Concurrent Trust Business Act**, and within the Norinchukin Bank group — the central institution of the JA Bank / cooperative-system financial institutions — it handles trust, asset-administration, and asset-management-related functions. Its distinguishing feature is that it is the only trust bank tied to the central institution of cooperative finance.
 
-## 1. Legal Entity / License Boundary
+## 1. License / group boundary
 
-| Item | Reading |
+| Item | Notes |
 |---|---|
-| Legal name | The Norinchukin Trust & Banking Co., Ltd. |
-| English name | The Norinchukin Trust & Banking Co., Ltd. |
+| Legal name | 農中信託銀行株式会社 / The Norinchukin Trust & Banking Co., Ltd. |
+| License route | Bank license under the Banking Act + authorization for concurrent trust business under the Concurrent Trust Business Act (trust-business-concurrent financial institution) |
 | FSA category | Trust bank |
 | Parent boundary | [[cooperative-banks/norinchukin|農林中央金庫]] 100% subsidiary |
-| Core constituency | JA Bank / cooperative financial institutions / pension funds / institutional investors |
+| Core constituency | JA Bank / cooperative-system financial institutions / pension funds / institutional investors |
 
-## 2. Business role
+## 2. Operating model
 
-- As the only trust bank in the Norinchukin Bank group, it provides trust services to cooperative financial institutions and institutional investors.
-- It handles trust mandates from prefectural credit federations and others, public-interest trusts, specified gift trusts, securitization of monetary claims, syndicated loans, and brokerage of beneficial interests in real estate trusts.
-- It connects the central institution of cooperative finance with capital-market / trust products.
+As a trust-business-concurrent financial institution, Norinchukin Trust & Banking handles the following:
 
-## 3. Why standalone page matters
+- **Trust trusteeship for the cooperative system**: trust services for cooperative-system financial institutions, including trust trusteeship from prefectural Shinren and the like.
+- **Charitable / specified-gift trusts**: the civil-trust domain such as charitable trusts and specified-gift trusts.
+- **Monetary-claim securitization / real estate**: securitization of monetary claims, syndicated loans, and brokerage of real-estate trust beneficial interests.
 
-[[cooperative-banks/norinchukin|農林中央金庫]] is a huge cooperative central bank, but Norinchukin Trust & Banking is a separate legal entity responsible for its trust-bank function. It is separated to clarify the boundaries among the JA Bank system, institutional-investor asset management, and trust productization.
+Whereas [[cooperative-banks/norinchukin|農林中央金庫]] runs a huge balance sheet as the central institution of [[banking/cooperative-banking-japan|協同組織金融]], Norinchukin Trust & Banking is a separate legal entity that handles its trust functions. It connects [[banking/ja-bank-system-japan|JA バンクシステム]] and [[banking/jf-marine-bank-system-japan|JF マリンバンクシステム]] with capital-market / trust products. Supervision is by [[financial-regulators/fsa|金融庁]].
+
+## 3. Why this page matters
+
+- Separates the huge cooperative central bank, Norinchukin Bank, from the separate legal entity that handles its trust-bank function.
+- Establishes the special positioning of "subsidiary of a cooperative central institution × concurrent trust business" rather than an ordinary bank.
+- An anchor for viewing the boundaries of the JA Bank system, institutional-investor asset management, and trust productization.
 
 ## Related
 
-- [[cooperative-banks/norinchukin]]
-- [[banking/cooperative-banking-japan]]
+- [[trust-banks/INDEX|trust-banks INDEX]]
+- [[cooperative-banks/norinchukin|農林中央金庫]]
+- [[banking/cooperative-banking-japan|協同組織金融]]
 - [[banking/ja-bank-system-japan|JA Bank system / prefectural Shinren]]
 - [[banking/jf-marine-bank-system-japan|JF Marine Bank system / JF Shingyoren]]
-- [[securities/japan-securities-depository-center]]
+- [[financial-regulators/fsa|FSA]]
+- [[INDEX|FinWiki index]]
 
 ## Sources
 
-- FSA, "Bank License List", `ginkou.xlsx`.
-- Norinchukin Trust & Banking, "Company Profile".
-- Norinchukin Trust & Banking, "Business Introduction".
+- FSA: bank license list (`ginkou.xlsx`).
+- Norinchukin Trust & Banking: company outline / business overview (会社概要 / 業務紹介).

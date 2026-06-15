@@ -1,11 +1,11 @@
 ---
 source: securities/financial-instruments-business-operators-japan-index
-source_hash: ce4cd8a9761f8c8a
+source_hash: 086ee055b52ebea8
 lang: en
 status: machine
 fidelity: ok
 title: "Japan financial instruments business operators registry index"
-translated_at: 2026-06-01T03:31:12.289Z
+translated_at: 2026-06-15T04:09:41.150Z
 ---
 
 # Japan financial instruments business operators registry index
@@ -49,18 +49,18 @@ FSA notes that one operator may have multiple registrations, so category subtota
 
 | Jurisdiction | Operators |
 |---|---:|
-| 金融庁 | 413 |
-| 北海道財務局 | 21 |
-| 東北財務局 | 14 |
-| 関東財務局 | 1,192 |
-| 東海財務局 | 56 |
-| 北陸財務局 | 10 |
-| 近畿財務局 | 152 |
-| 中国財務局 | 22 |
-| 四国財務局 | 14 |
-| 九州財務局 | 8 |
-| 福岡財務支局 | 41 |
-| 沖縄総合事務局 | 2 |
+| FSA (Financial Services Agency) | 413 |
+| Hokkaido Local Finance Bureau | 21 |
+| Tohoku Local Finance Bureau | 14 |
+| Kanto Local Finance Bureau | 1,192 |
+| Tokai Local Finance Bureau | 56 |
+| Hokuriku Local Finance Bureau | 10 |
+| Kinki Local Finance Bureau | 152 |
+| Chugoku Local Finance Bureau | 22 |
+| Shikoku Local Finance Bureau | 14 |
+| Kyushu Local Finance Bureau | 8 |
+| Fukuoka Local Finance Branch Bureau | 41 |
+| Okinawa General Bureau | 2 |
 | **Total** | **1,945** |
 
 ## Existing Material Wiki Routes

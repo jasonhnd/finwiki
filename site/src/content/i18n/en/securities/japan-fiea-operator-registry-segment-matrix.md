@@ -1,18 +1,18 @@
 ---
 source: securities/japan-fiea-operator-registry-segment-matrix
-source_hash: 081e02fb413cdd54
+source_hash: a0256b53cee7ac10
 lang: en
 status: machine
 fidelity: ok
 title: "Japan FIEA operator registry segment matrix"
-translated_at: 2026-06-01T03:31:12.236Z
+translated_at: 2026-06-15T04:09:41.169Z
 ---
 
 # Japan FIEA operator registry segment matrix
 
 ## TL;DR
 
-Japan's Financial Instruments and Exchange Act (FIEA) administers a single registry of **1,945 financial instruments business operators as of 2026-04-30**, but that registry hides nine functionally distinct segments with very different capital floors, permitted-activity envelopes, supervisory bureau routing, self-regulatory-organization membership, and operator profiles. This matrix decomposes the FIBO registry into the nine working segments: Type I financial instruments business operators, Type II operators, investment advisory and agency businesses, investment management businesses, Type I small-amount electronic public offering businesses, electronic trading platform operators, Article 63 specially permitted businesses for qualified institutional investors, crypto-asset-related businesses, and PTS approvals, plus the qualified institutional investor notification-only counterparty layer. The purpose is to route any wiki entry mentioning a "financial instruments business operator" to the correct segment before strategy, capital, or governance questions get asked.
+Japan's Financial Instruments and Exchange Act (FIEA / 金融商品取引法) administers a single registry of **1,945 financial instruments business operators (金融商品取引業者) as of 2026-04-30**, but that single registry hides nine functionally distinct segments with very different capital floors, permitted-activity envelopes, supervisory bureau routing, self-regulatory-organization membership, and operator profiles. This matrix decomposes the FIBO registry into the nine working segments — **Type I 金商業者, Type II 金商業者, 投資助言・代理業, 投資運用業, 第一種少額電子募集取扱業, 電子取引基盤運営業, 適格機関投資家等特例業務 (Article 63), 暗号資産関連業務, PTS approvals**, plus the **適格機関投資家 (QII)** notification-only counterparty layer — so that a wiki entry mentioning "金融商品取引業者" can be routed to the correct segment before strategy, capital, or governance questions get asked.
 
 ## Wiki route
 
@@ -30,7 +30,7 @@ A blanket reference to "FSA-registered financial instruments business operator" 
 - whether the operator can solicit retail investors, only 適格機関投資家, or only specified-investor counterparties;
 - whether the operator can hold customer assets, only intermediate, or only advise.
 
-Without segment-level decomposition, a 10-person investment advisory and agency shop and a 5,000-person Type I megabank securities arm look like the same FIBO registry row. They are not the same business.
+Without segment-level decomposition, a 10-person 投資助言・代理業 shop and a 5,000-person Type I megabank securities arm look like the same FIBO registry row. They are not the same business.
 
 ## Registry-wide snapshot
 
@@ -39,7 +39,7 @@ Without segment-level decomposition, a 10-person investment advisory and agency 
 | Total FIBO operators | 1,945 |
 | Type I 金商業者 (第一種金融商品取引業) | 291 |
 | Type II 金商業者 (第二種金融商品取引業) | 1,223 |
-| Investment advisory / agency business | 994 |
+| 投資助言・代理業 (investment advisory / agency) | 994 |
 | 投資運用業 (investment management) | 463 |
 | 第一種少額電子募集取扱業 (Type I small e-offering) | 70 |
 | 電子取引基盤運営業 (PTS-equivalent electronic trading) | 6 |
@@ -48,7 +48,7 @@ Without segment-level decomposition, a 10-person investment advisory and agency 
 | PTS approval rows (separate authorization) | 11 |
 | 適格機関投資家 (QII) | special notification-only counterparty layer |
 
-FSA explicitly notes that one operator may carry multiple registrations, so segment subtotals do not add up to the total operator count. A megabank securities arm typically carries Type I + Type II + investment advisory / agency + investment management registrations inside one legal entity, for example.
+FSA explicitly notes that one operator may carry multiple registrations, so segment subtotals do not add up to the total operator count. A megabank securities arm typically carries Type I + Type II + 投資助言・代理業 + 投資運用業 inside one legal entity, for example.
 
 Jurisdiction routing (1,945 total): **金融庁 413, 北海道財務局 21, 東北財務局 14, 関東財務局 1,192, 東海財務局 56, 北陸財務局 10, 近畿財務局 152, 中国財務局 22, 四国財務局 14, 九州財務局 8, 福岡財務支局 41, 沖縄総合事務局 2**. The 関東財務局 concentration is the structural Tokyo / Kanto-headquarters bias of the financial-services population.
 
@@ -78,12 +78,12 @@ Type I is the broadest envelope — the gate to listed-market brokerage, underwr
 
 The 1,223 Type II population is the **long tail of Japanese private-securities activity** — small GP / fund-management shops, real-estate AM affiliates, and specialty distribution platforms.
 
-## Segment 3 — Investment Advisory / Agency Business
+## Segment 3 — 投資助言・代理業 (Investment Advisory / Agency Business)
 
 - **Statute.** FIEA Article 28 paragraph 3; registered under Article 29; conduct rules in FIEA Chapter III sub-section on investment advice / agency.
-- **Operator count.** 994 investment advisory / agency operators.
+- **Operator count.** 994 投資助言・代理業 operators.
 - **Capital floor.** ¥5 million minimum paid-in capital — the **lowest capital floor in the FIEA universe** because the operator never holds customer assets.
-- **Permitted activities.** Investment advice: paid advice on securities, derivatives, and investment decisions delivered through reports, newsletters, model portfolios, or one-on-one consultation; and agency / intermediation on behalf of investment management operators, such as acting as an IFA-equivalent introducer for discretionary investment management contracts. **Cannot manage customer assets or hold customer money / securities**; those activities require investment management registration (segment 4) or Type I registration (segment 1).
+- **Permitted activities.** Investment advice (投資助言業) — paid advice on securities, derivatives, and investment decisions delivered through reports, newsletters, model portfolios, or one-on-one consultation; **and** agency / intermediation (代理・媒介) on behalf of 投資運用業 operators (i.e. acting as IFA-equivalent introducer for discretionary investment management contracts). **Cannot manage customer assets or hold customer money / securities** — those activities require 投資運用業 (segment 4) or Type I (segment 1).
 - **Supervisory bureau.** Local Finance Bureau by head-office; small operators are widely distributed across regional LFBs but Tokyo remains dominant.
 - **Self-regulatory membership.** [[JapanFG/jiaa-advisory|Japan Investment Advisers Association (日本投資顧問業協会, JIAA)]] — note the same JIAA abbreviation can be confused with the Type II SRO; the advisory JIAA covers 投資助言業 and 投資一任 / 投資運用業 advisory and agency. Membership is the operating norm for material advisers.
 - **Investor protection.** No JIPF coverage — the operator does not hold customer assets so there are no assets to segregate. Risk is misadvice / suitability / fiduciary-duty risk.
@@ -96,11 +96,11 @@ This is the **regulatory entry-point segment** — many securities entrepreneurs
 - **Statute.** FIEA Article 28 paragraph 4; registered under Article 29 with additional Article 29-4-2 prudential requirements; conduct rules in FIEA Chapter III sub-section on investment management.
 - **Operator count.** 463 投資運用業 operators.
 - **Capital floor.** ¥50 million minimum paid-in capital baseline under FIEA cabinet office order; with net asset requirements layered on top. Larger 投資運用業 operators managing mass-market 公募投信 carry additional disclosure and risk-management requirements.
-- **Permitted activities.** Discretionary investment management, investment trust management, and fund-asset management; the operator **takes investment discretion** over customer money / securities. Asset custody is generally separated to a trust bank.
+- **Permitted activities.** Discretionary investment management (投資一任業), investment trust management (投資信託委託業), and management of fund assets (ファンド運用業) — the operator **takes investment discretion** over customer money / securities. Asset custody is generally separated to a trust bank (信託受託).
 - **Supervisory bureau.** Larger AMs (the Lane 1 megabank-AM cluster — [[asset-managers/nomura-asset-management|Nomura AM]], [[asset-managers/asset-management-one|AM-One]], [[asset-managers/mufg-asset-management|MUFG AM]], [[asset-managers/smd-am|SMD AM]], [[asset-managers/daiwa-asset-management|Daiwa AM]], [[asset-managers/nikko-asset-management|Nikko AM]]) and global parents (BlackRock Japan, JPMAM Japan, Fidelity Japan) tend toward direct FSA supervision; smaller domestic AMs sit under 関東財務局.
 - **Self-regulatory membership.** [[JapanFG/jita|Japan Investment Trusts Association (投資信託協会, JITA)]] for AMs running 公募投信 / 私募投信; JIAA for 投資一任業. Membership is mandatory in practice for retail public-fund AMs.
 - **Investor protection.** No JIPF — customer assets sit at the trust-bank custodian rather than the AM, so segregation flows through trust-banking law (信託業法) rather than securities investor protection.
-- **Typical operator profile.** Asset managers: megabank-affiliated AMs, insurance-affiliated AMs (Lane 2 in [[securities/japan-asset-manager-landscape-matrix|Japan asset manager landscape matrix]]), independent / online AMs such as [[asset-managers/sbi-asset-management|SBI AM]], Rakuten Investment Management, and SPARX Group, foreign-affiliated AMs such as BlackRock Japan, JPMAM Japan, Fidelity Japan, Schroders Japan, T. Rowe Price Japan, and Pictet Japan, pension / endowment discretionary managers, and hedge-fund GPs running discretionary investment mandates inside Japan.
+- **Typical operator profile.** Asset managers — megabank-affiliated AMs, insurance-affiliated AMs (Lane 2 in [[securities/japan-asset-manager-landscape-matrix|Japan asset manager landscape matrix]]), independent / online AMs ([[asset-managers/sbi-asset-management|SBI AM]], 楽天投信投資顧問, スパークス・グループ), foreign-affiliated AMs (BlackRock Japan, JPMAM Japan, Fidelity Japan, Schroders Japan, T. Rowe Price Japan, Pictet Japan), pension / endowment discretionary managers, hedge-fund GPs running 投資一任 mandates inside Japan.
 
 Reflects the full 463-operator population that runs the Japanese investment-management book.
 
@@ -113,7 +113,7 @@ Reflects the full 463-operator population that runs the Japanese investment-mana
 - **Supervisory bureau.** 関東財務局 dominance; FSA direct supervision rare.
 - **Self-regulatory membership.** [[financial-regulators/jsda|JSDA]] equity-crowdfunding sub-SRO regime; Type I rules apply to the relevant slice of activity.
 - **Investor protection.** JIPF coverage applies to the extent the operator is a Type I registrant; customer-asset segregation rules apply.
-- **Typical operator profile.** Equity-crowdfunding platforms: [[JapanFG/funds-incorporated|FUNDINNO]], [[JapanFG/securite-crowdfunding|Securite]] when within equity-crowdfunding scope, the legacy Japan Cloud Capital entity, [[securities-firms/sbi-securities|SBI Securities]] equity-crowdfunding desk (SBI Issuance Market), CAMPFIRE Angels, Ichigon Cloud Funding, FUEL Online, and similar issuer-funding intermediaries. Distinct from non-FIEA donation or perks-based crowdfunding, which is not securities activity.
+- **Typical operator profile.** Equity-crowdfunding platforms — [[JapanFG/funds-incorporated|FUNDINNO]], [[JapanFG/securite-crowdfunding|Securite]] (when within equity-crowdfunding scope), 日本クラウドキャピタル legacy entity, [[securities-firms/sbi-securities|SBI Securities]] equity-crowdfunding desk (SBI Issuance Market), CAMPFIRE Angels, Ichigon Cloud Funding, FUEL Online and similar issuer-funding intermediaries. Distinct from non-FIEA "donation" / "perks" reward crowdfunding which is not securities activity.
 
 A small but strategically important segment — it is the legal scaffolding for the Japanese equity-crowdfunding industry.
 
@@ -170,7 +170,7 @@ A small but strategically watched segment — sits at the interface between FIEA
 
 ## Cross-segment comparison table
 
-| Dimension | Type I operator | Type II operator | Investment advisory / agency | Investment management | Type I small-amount electronic offering | Electronic trading platform operation | Article 63 specially permitted business | Crypto-asset overlay | PTS approval (sub-license) | Qualified institutional investor notification |
+| Dimension | Type I 金商業者 | Type II 金商業者 | 投資助言・代理業 | 投資運用業 | 第一種少額電子募集取扱業 | 電子取引基盤運営業 | 適格機関投資家等特例業務 (Art. 63) | 暗号資産関連 (overlay) | PTS approval (sub-license) | 適格機関投資家 (QII notification) |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **FIEA clause** | Art. 28 ¶1 / Art. 29 | Art. 28 ¶2 / Art. 29 | Art. 28 ¶3 / Art. 29 | Art. 28 ¶4 / Art. 29 + Art. 29-4-2 | Art. 29-4-2 sub-paragraph | Art. 28 ¶8-4 | Art. 63 (notification) | FIEA derivatives + crypto sub-rules | Art. 30 sub-authorization | Art. 2 ¶3 item 1 (notification) |
 | **Operator count** | 291 | 1,223 | 994 | 463 | 70 | 6 | Thousands (notifications) | Overlay; varies | 11 | Thousands (notifications) |
@@ -198,11 +198,11 @@ This is a public-anchor list — institution names that materially anchor each s
 | **Type I — foreign IB** | [[securities-firms/goldman-sachs-japan\|GS Japan]], [[securities-firms/morgan-stanley-japan\|MS Japan]], [[foreign-financial-institutions/jpmorgan-japan\|JPM Japan]], [[foreign-financial-institutions/citigroup-japan\|Citi Japan]], [[foreign-financial-institutions/bank-of-america-japan\|BofA Japan]], [[foreign-financial-institutions/ubs-japan\|UBS Japan]], [[foreign-financial-institutions/barclays-japan\|Barclays Japan]], [[foreign-financial-institutions/bnp-paribas-japan\|BNP Paribas Japan]], [[foreign-financial-institutions/deutsche-japan\|Deutsche Japan]], [[foreign-financial-institutions/socgen-japan\|SocGen Japan]] |
 | **Type I — FX / derivatives broker** | [[securities-firms/traders-securities\|Traders Securities]], [[securities-firms/saxo-bank-securities\|Saxo Bank Securities]], [[securities-firms/sbi-fx-trade\|SBI FX Trade]] |
 | **Type II — fund GPs / RE-AM** | Real-estate fund GPs, infrastructure fund GPs, anime / content fund GPs, agricultural fund GPs, renewable-energy fund GPs (long tail of 1,223) |
-| **Investment advisory / agency — IFA / advisory** | IFA platform operators ([[securities-firms/sbi-securities\|SBI Securities]]-IFA tie-ups, [[securities-firms/rakuten-securities\|Rakuten Securities]]-IFA tie-ups), investment-advisory newsletter publishers, foreign-AM Japan introducer offices |
+| **投資助言・代理業 — IFA / advisory** | IFA platform operators ([[securities-firms/sbi-securities\|SBI Securities]]-IFA tie-ups, [[securities-firms/rakuten-securities\|Rakuten Securities]]-IFA tie-ups), 投資助言 newsletter publishers, foreign-AM Japan introducer offices |
 | **投資運用業 — megabank-AM** | [[asset-managers/nomura-asset-management\|Nomura AM]], [[asset-managers/asset-management-one\|AM-One]], [[asset-managers/mufg-asset-management\|MUFG AM]], [[asset-managers/smd-am\|SMD AM]], [[asset-managers/daiwa-asset-management\|Daiwa AM]], [[asset-managers/nikko-asset-management\|Nikko AM]] |
-| **Investment management — independent / online** | [[asset-managers/sbi-asset-management\|SBI AM]], Rakuten Investment Management, SPARX Group |
+| **投資運用業 — independent / online** | [[asset-managers/sbi-asset-management\|SBI AM]], 楽天投信投資顧問, スパークス・グループ |
 | **投資運用業 — foreign-affiliated** | BlackRock Japan, JPMorgan AM Japan, Fidelity Investments Japan, Schroders Japan, T. Rowe Price Japan, Pictet AM Japan |
-| **Type I small-amount electronic offering business** | [[JapanFG/funds-incorporated\|FUNDINNO / Funds]], Japan Cloud Capital legacy entity, equity-crowdfunding-platform operators |
+| **第一種少額電子募集取扱業** | [[JapanFG/funds-incorporated\|FUNDINNO / Funds]], 日本クラウドキャピタル legacy entity, equity-crowdfunding-platform operators |
 | **電子取引基盤運営業** | Wholesale OTC e-trading platform operators (≈6 rows) |
 | **適格機関投資家等特例業務** | Thousands of single-mandate PE / HF / RE / family-office GP vehicles |
 | **暗号資産関連 (overlay)** | [[securities-firms/sbi-securities\|SBI Securities]] (crypto-derivative sleeve), [[securities-firms/gmo-click-securities\|GMO Click Securities]] (crypto-CFD), [[securities-firms/dmm-com-securities\|DMM.com Securities]] (DMM Bitcoin adjacency) |
@@ -217,11 +217,11 @@ A material share of large FIBO operators carry **multiple registrations inside o
 
 | Operator type | Typical stack |
 |---|---|
-| Megabank securities arm ([[securities-firms/smbc-nikko\|SMBC Nikko]], [[securities-firms/mizuho-securities\|Mizuho Securities]], [[securities-firms/mufg-mums\|MUMSS]]) | Type I + Type II + investment advisory / agency + investment management |
-| Independent IB ([[securities-firms/nomura-hd\|Nomura]], [[securities-firms/daiwa-sg\|Daiwa SG]]) | Type I + Type II + investment advisory / agency + investment management, often in subsidiary AMs |
-| Online broker ([[securities-firms/sbi-securities\|SBI Securities]], [[securities-firms/rakuten-securities\|Rakuten Securities]], [[securities-firms/monex-group\|Monex]]) | Type I + Type II + investment advisory / agency, with some investment management registration in subsidiary AMs |
+| Megabank securities arm ([[securities-firms/smbc-nikko\|SMBC Nikko]], [[securities-firms/mizuho-securities\|Mizuho Securities]], [[securities-firms/mufg-mums\|MUMSS]]) | Type I + Type II + 投資助言・代理業 + 投資運用業 |
+| Independent IB ([[securities-firms/nomura-hd\|Nomura]], [[securities-firms/daiwa-sg\|Daiwa SG]]) | Type I + Type II + 投資助言・代理業 + 投資運用業 (often in subsidiary AMs) |
+| Online broker ([[securities-firms/sbi-securities\|SBI Securities]], [[securities-firms/rakuten-securities\|Rakuten Securities]], [[securities-firms/monex-group\|Monex]]) | Type I + Type II + 投資助言・代理業 (some hold 投資運用業 in subsidiary AMs) |
 | Foreign IB ([[securities-firms/goldman-sachs-japan\|GS Japan]], [[foreign-financial-institutions/jpmorgan-japan\|JPM Japan]], [[securities-firms/morgan-stanley-japan\|MS Japan]]) | Type I + Type II + 投資運用業 (in subsidiary AM); separate FX / commodity entities |
-| Standalone AM ([[asset-managers/nomura-asset-management\|Nomura AM]], [[asset-managers/asset-management-one\|AM-One]]) | Investment management + investment advisory / agency + Type II for fund self-offering |
+| Standalone AM ([[asset-managers/nomura-asset-management\|Nomura AM]], [[asset-managers/asset-management-one\|AM-One]]) | 投資運用業 + 投資助言・代理業 + Type II (for fund self-offering) |
 | Equity-crowdfunding platform | 第一種少額電子募集取扱業 + Type I (for narrow brokerage segment) |
 | PTS operator | Type I + PTS sub-authorization |
 | Crypto-derivatives operator | Underlying Type I + 暗号資産関連 sub-line |
@@ -234,23 +234,23 @@ This multi-license stacking is why the segment subtotals (291 + 1,223 + 994 + 46
 |---|---|
 | [[financial-regulators/jsda\|JSDA (日本証券業協会)]] | Type I 金商業者 (mandatory in practice); PTS-operator parents; equity-crowdfunding sub-SRO |
 | [[JapanFG/jiaa\|JIAA Type II (第二種金融商品取引業協会)]] | Type II 金商業者 (effectively mandatory for self-offering and crowdfunding-adjacent activity) |
-| [[JapanFG/jiaa-advisory\|JIAA advisory (Japan Investment Advisers Association)]] | Investment advisory / agency plus discretionary investment management advisory and agency |
+| [[JapanFG/jiaa-advisory\|JIAA advisory (日本投資顧問業協会)]] | 投資助言・代理業 + 投資一任 / 投資運用業 advisory and agency |
 | [[JapanFG/jita\|JITA (投資信託協会)]] | 投資運用業 operators running 公募投信 / 私募投信 |
 | FFAJ (金融先物取引業協会) | Type I operators in FX-margin and listed-financial-futures |
 | [[JapanFG/jvcea\|JVCEA (Japan Virtual and Crypto-Assets Exchange Association)]] | PSA-side crypto-exchange operators; FIEA crypto-derivatives operators interact on overlap |
 
 ## Boundary cases and caveats
 
-- **Multi-license overcount.** The 1,945 unique operators carry far more than 1,945 registrations. A single megabank securities arm can hold Type I + Type II + investment advisory / agency + investment management registrations inside one entity. Never sum segment subtotals to estimate operator population.
+- **Multi-license overcount.** The 1,945 unique operators carry far more than 1,945 registrations. A single megabank securities arm can hold Type I + Type II + 投資助言・代理業 + 投資運用業 inside one entity. Never sum segment subtotals to estimate operator population.
 - **Type I vs Type II.** The split is by **product type** (Type I = highly liquid listed-market; Type II = paragraph 2 fund-interest / unlisted), not by operator size. A large unlisted-fund AM can be Type II only; a small online-broker can be Type I.
-- **Investment advisory / agency vs investment management.** Advice and intermediation only (segment 3) is not discretionary management (segment 4). Many regulatory enforcement actions hinge on whether an operator crossed the line into de facto discretionary management without segment-4 registration.
+- **投資助言・代理業 vs 投資運用業.** Advice and intermediation only (segment 3) ≠ discretionary management (segment 4). Many regulatory enforcement actions hinge on whether an operator crossed the line into de-facto discretionary management without segment-4 registration.
 - **第一種少額電子募集取扱業 vs ordinary Type I.** Lower capital floor in exchange for narrow activity envelope; not a "lighter Type I" — the activity boundary (¥100m issuer cap, ¥500k investor cap) is hard.
 - **電子取引基盤運営業 vs PTS approval.** PTS (Article 30, segment 9) handles **listed equities and bonds** under exchange-like price-formation rules; 電子取引基盤運営業 (Article 28 paragraph 8 item 4, segment 6) handles **OTC derivatives** under different transparency rules. Not interchangeable.
 - **適格機関投資家等特例業務 (Article 63) ≠ registration.** The Article 63 regime is a **notification**, not registration; operator does not appear in the 1,945 FIBO registrant count. FSA tightened the regime after 2015 retail-investor-loss cases — current rules limit non-QII investors to ≤49 specified persons.
 - **暗号資産 spot vs derivatives.** Crypto-asset **spot trading** is regulated under the [[fintech/japan-stablecoin-and-crypto-regulation|PSA 暗号資産交換業]] license (not FIEA). Crypto-asset **derivatives** sit under FIEA Article 2 paragraph 24-style derivative rules (this segment 8). A single corporate group can hold both licenses in separate legal entities.
 - **STO / security-token activity.** When a token represents a security under FIEA Article 2 paragraph 3 (e.g. paragraph 3 "tokenized rights"), the activity is regulated under **Type I (segment 1)** with cabinet-office-order security-token rules. Not a separate segment.
 - **QII notification ≠ FIBO registration.** QII status (Article 2 paragraph 3 item 1) is a counterparty status, not a license to operate financial-instruments business. A QII can be a financial-instruments business operator and frequently is (insurers, banks, AMs, pension funds), but the two registrations are independent.
-- **Investor protection asymmetry.** [[JapanFG/jiipf|JIPF]] coverage is structurally Type I; Type II, investment advisory / agency, investment management, and Article 63 businesses do not have the same protection floor. This asymmetry is one of the most important distinctions for a retail investor to understand about FIEA-segment classification.
+- **Investor protection asymmetry.** [[JapanFG/jiipf|JIPF]] coverage is structurally Type I; Type II / 投資助言・代理業 / 投資運用業 / Article 63 do not have the same protection floor. This asymmetry is one of the most important distinctions for a retail investor to understand about FIEA-segment classification.
 - **Registry as-of-date drift.** The 1,945 number is from the FSA workbook as of 2026-04-30. Monthly updates can shift segment subtotals by ±1–2% from new registrations, deregistrations, and license-status changes. Always re-verify against the current `kinyushohin.xlsx` for any operator-level claim.
 
 ## Related
@@ -298,10 +298,10 @@ This multi-license stacking is why the segment subtotals (291 + 1,223 + 994 + 46
 
 - FSA, 金融商品取引業者登録一覧, `kinyushohin.xlsx`, as of 2026-04-30.
 - FSA English, "Financial Instruments Business Operators (FIBO)" registry `fibo.xlsx` / `fibo.pdf`.
-- FSA, FIEA outline and English FIEA translation.
+- FSA, "金融商品取引法のあらまし" (FIEA outline) and English FIEA translation.
 - FSA, FAQ on FIEA section 06 (financial instruments business operators).
 - FSA, 金融商品取引業者登録規則 cabinet office order (registration rules).
-- FSA comprehensive supervisory guidelines for major banks and for financial instruments business operators.
+- FSA, 主要行等向けの総合的な監督指針, 金融商品取引業者等向けの総合的な監督指針.
 - JSDA (日本証券業協会), member-firm directory and self-regulatory rule pages.
 - JIAA (第二種金融商品取引業協会), member directory.
 - JIAA-advisory (日本投資顧問業協会), member directory and 投資一任 / 投資助言 statistical aggregates.

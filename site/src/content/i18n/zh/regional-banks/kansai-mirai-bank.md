@@ -1,54 +1,65 @@
 ---
 source: regional-banks/kansai-mirai-bank
-source_hash: 89ef52bf1a38d3ef
+source_hash: 3cbc515eea13eea8
 lang: zh
 status: machine
 fidelity: ok
 title: "关西未来银行"
-translated_at: 2026-05-31T23:59:49.324Z
+translated_at: 2026-06-15T04:09:41.138Z
 ---
+
 # 关西未来银行
 
-## Wiki 路径
+## Wiki 路由
 
-本条目位于 [[regional-banks/INDEX|regional-banks INDEX]] 下。可与 [[regional-banks/ikeda-senshu-bank|池田泉州銀行]] 对读，作为同业 / 对照语境；也可与 [[banking/INDEX|banking index]] 对读，理解更广的系统与监管边界。
+本条目归属于[[regional-banks/INDEX|regional-banks INDEX]]（其领域路由）。请将其与[[regional-banks/ikeda-senshu-bank|池田泉州銀行]]（同处大阪 / 关西的同业 / 对比）一并阅读，并与[[financial-regulators/fsa|the FSA]]及[[banking/INDEX|banking]]（监管 / 系统边界）一并阅读。
 
 ## TL;DR
 
-株式会社関西みらい銀行是金融厅银行牌照名单中列示、总部位于大阪府的地方银行。它是 [[megabanks/resona-hd]] 旗下的关西 operating bank，应作为旧关西 Urban Bank 与近畿大阪银行整合后的 bank-license entity 处理。
+株式会社関西みらい銀行（Kansai Mirai Bank）是持有银行法上的银行牌照、并列入金融厅银行牌照名录、总行位于大阪府大阪市的地方银行。它隶属于[[megabanks/resona-hd|りそなホールディングス]]旗下的关西未来金融集团，是关西的营业银行，作为旧关西都市银行（関西アーバン銀行）与近畿大阪银行整合后的银行牌照实体来对待。其业务内容为大阪、关西的存款吸收以及面向中小企业、个人的贷款。
 
 ## 1. 牌照 / 集团边界
 
-| 项目 | 注释 |
+| 项目 | 备注 |
 |---|---|
-| 法定名称 | 株式会社関西みらい銀行 |
-| 牌照路径 | 《银行法》地方银行；FSA 银行牌照名单 |
-| 集团边界 | [[megabanks/resona-hd]] Kansai operating bank |
-| 主市场 | 大阪 / 关西 |
-| Wiki 角色 | 关西地方银行 operating-company 页面 |
+| 法定名称 | 株式会社関西みらい銀行 / Kansai Mirai Bank, Limited |
+| 牌照路径 | 银行法上的银行牌照（regional bank / 地方银行）；金融厅银行牌照名录 |
+| 集团边界 | [[megabanks/resona-hd|りそなHD]] 关西营业银行（关西未来 FG） |
+| 本土市场 | 大阪 / 关西（大阪府总行） |
+| Wiki 角色 | 关西地方银行营业公司页面 |
 
-## 2. 运营模式
+## 2. 营业模式
 
-关西未来银行是以大阪府为中心的 regional bank，承担 retail deposits、SME finance、mortgage / consumer banking 和关西地区 business support。它与 [[megabanks/resona-hd]] 的 retail / trust-banking platform 协作，同时保有关西地银的网点和区域金融功能。
+关西未来银行是以大阪府为中心、承担个人存款、中小企业金融、住房贷款 / 消费者银行业务以及关西地区商务支持的地方银行。它在与[[megabanks/resona-hd|りそなHD]]的零售 / 信托银行平台联动的同时，拥有作为关西地方银行的网点与区域金融功能。在关西圈，它与[[regional-banks/ikeda-senshu-bank|池田泉州銀行]]、[[regional-banks/minato-bank|みなと銀行]]、[[regional-banks/kyoto-bank|京都銀行]]形成同业边界。
 
-## 3. 本页为何重要
+## 3. 监管与系统定位
 
-- 补齐 FSA 精确名称下的关西未来银行页面。
-- 将银行实体与 [[megabanks/resona-hd]] 的集团层战略区分开。
-- 为 [[regional-banks/ikeda-senshu-bank]]、[[regional-banks/kyoto-bank]] 和 [[regional-banks/minato-bank|みなと銀行]] 覆盖提供同业锚点。
+- **监管**：在银行法之下由金融厅（[[financial-regulators/fsa|FSA]]）与近畿财务局监管。通过自有资本比率规制（国内基准）等对稳健性加以约束。
+- **行业团体**：隶属于全国地方银行协会（地银协）的地方银行。参加全国银行资金清算网络（全银系统），作为行业团体连入[[financial-regulators/zenginkyo|全国銀行協会（全銀協）]]的框架。
+- **存款人保护**：存款为存款保险机构（DIC）的承保对象。
+- **整合语境**：关西地方银行重组与整合的一般语境，参见[[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]]。
 
-## Related
+## 4. 本页面的意义
 
+- 弥合关西未来银行在 FSA 精确名称营业公司方面的空白。
+- 将该银行实体与[[megabanks/resona-hd|りそなHD]]集团层面战略加以区分。
+- 为[[regional-banks/ikeda-senshu-bank|池田泉州銀行]]、[[regional-banks/kyoto-bank|京都銀行]]、[[regional-banks/minato-bank|みなと銀行]]的覆盖提供同业锚点。
+
+## 相关
+
+- [[regional-banks/INDEX|regional-banks INDEX]]
 - [[megabanks/resona-hd]]
 - [[megabanks/resona-bank]]
 - [[megabanks/saitama-resona-bank]]
 - [[regional-banks/minato-bank]]
 - [[regional-banks/ikeda-senshu-bank]]
 - [[regional-banks/kyoto-bank]]
+- [[financial-regulators/fsa|FSA]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
+- [[INDEX|FinWiki index]]
 
-## Sources
+## 来源
 
-- FSA: bank license list, regional banks, as of 2026-01-01.
-- Kansai Mirai Bank official company profile.
+- FSA（金融厅）：银行牌照名录（`ginkou.xlsx`），regional banks。
+- 关西未来银行 官方公司概要。

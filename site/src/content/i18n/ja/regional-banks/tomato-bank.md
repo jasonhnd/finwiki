@@ -1,51 +1,55 @@
 ---
 source: regional-banks/tomato-bank
-source_hash: aaf95bb9b89fcf34
+source_hash: b06b658cad8e477f
 lang: ja
 status: machine
 fidelity: ok
 title: "トマト銀行"
-translated_at: 2026-06-02T16:33:58.479Z
+translated_at: 2026-06-15T04:09:41.165Z
 ---
+
 # トマト銀行
 
-## ウィキ上の位置づけ
+## Wiki 経路
 
-この項目は [[regional-banks/INDEX|regional-banks INDEX]] 配下にあります。比較・対照の文脈では [[regional-banks/chugoku-bank|中国銀行]] を、より広い制度・規制境界の文脈では [[banking/INDEX|banking index]] をあわせて参照してください。
+この項目は [[regional-banks/INDEX|regional-banks INDEX]]（そのドメイン経路）の下に位置する。同一県内の peer / 対比（岡山の第一地銀 vs 第二地銀）としては [[regional-banks/chugoku-bank|中国銀行]] と、監督・システム境界としては [[financial-regulators/fsa|the FSA]] および [[banking/INDEX|banking]] と併せて読む。
 
-## 要約
+## 要点
 
-株式会社トマト銀行は、金融庁の銀行免許一覧に掲載される岡山県本店の第二地方銀行です。岡山県内では [[regional-banks/chugoku-bank]] の地域第二地銀の比較対象として扱います。
+株式会社トマト銀行 (Tomato Bank) は、銀行法上の銀行免許を持ち金融庁の銀行免許一覧に掲載される岡山県岡山市本店の第二地方銀行。系譜は 1931 年創業の倉敷無尽で、1989 年に山陽相互銀行から普通銀行へ転換して現商号となった岡山県内唯一の第二地銀。事業は岡山県を中心とした預金受入・中小企業/個人向け貸出という第二地銀の標準モデルで、第一地銀の [[regional-banks/chugoku-bank|中国銀行]] の地域 peer として扱う。
 
-## 1. ライセンス・グループ境界
+## 1. 免許 / グループ境界
 
-| 項目 | メモ |
+| 項目 | 備考 |
 |---|---|
-| 法人名 | 株式会社トマト銀行 |
-| 免許ルート | 銀行法上の第二地方銀行、FSA 銀行免許一覧 |
-| グループ境界 | 独立系第二地方銀行 |
-| 本拠市場 | 岡山県 / 岡山市 |
-| ウィキ上の役割 | 岡山県の第二地方銀行事業会社ページ |
+| 法人名 | 株式会社トマト銀行 / Tomato Bank, Ltd. |
+| 免許経路 | 銀行法上の銀行免許 (第二地方銀行); 金融庁 銀行免許一覧 |
+| グループ境界 | 独立系の第二地方銀行（独立系・岡山県唯一の第二地銀） |
+| 系譜 | 倉敷無尽 (1931) → 山陽相互銀行 → トマト銀行 (1989 普通銀行転換) |
+| 地盤市場 | 岡山 / 岡山市（岡山市本店） |
+| Wiki 上の役割 | 岡山県第二地方銀行の事業会社ページ |
 
 ## 2. 事業モデル
 
-トマト銀行は、岡山県を中心に個人預金、中小企業金融、地域個人向け銀行サービス、地域リレーションサービスを担う第二地方銀行です。[[regional-banks/chugoku-bank]] が県内の第一地方銀行アンカーであるのに対し、トマト銀行は第二地方銀行の正式名称アンカーとして整理します。中国地方の地銀再編文脈は [[banking/regional-bank-consolidation-pattern]] を参照してください。
+トマト銀行は、岡山県を中心にリテール預金、中小企業金融、地域の個人向けバンキング、地域のリレーションシップサービスを担う第二地方銀行。第一地銀の [[regional-banks/chugoku-bank|中国銀行]] が県内の主要な地方銀行アンカーであるのに対し、トマト銀行は第二地方銀行の正確な名称のアンカーとして整理する。隣県では [[regional-banks/tottori-bank|鳥取銀行]] や [[regional-banks/hiroshima-bank|広島銀行]] と中国地方の peer set を成す。中国地方の地方銀行再編の文脈は [[banking/regional-bank-consolidation-pattern|地域銀行統合パターン]] を参照。
 
-## 3. このページが重要な理由
+## 3. このページの意義
 
-- トマト銀行について、FSA 登録上の正式名称ページを閉じる。
-- 岡山県の第二地方銀行ルートを個別に追加する。
-- [[regional-banks/chugin-okayama]] / 中国銀行カバレッジにこの銀行が埋もれることを防ぐ。
+- 金融庁の銀行免許一覧 (銀行法) 上の正確な名称ページを確定する。
+- 岡山の第二地銀ルートを [[regional-banks/chugoku-bank|中国銀行]] とは別に立てる。
+- 中国銀行の地域視点ページ [[regional-banks/chugin-okayama|中国銀行 (岡山)]] にトマト銀行が吸収されるのを防ぐ。
 
-## 関連項目
+## 関連
 
-- [[regional-banks/chugoku-bank]]
-- [[regional-banks/chugin-okayama]]
-- [[regional-banks/tottori-bank]]
-- [[banking/regional-bank-consolidation-pattern]]
-- [[banking/INDEX]]
+- [[regional-banks/chugoku-bank|中国銀行]]
+- [[regional-banks/chugin-okayama|中国銀行 (岡山)]]
+- [[regional-banks/tottori-bank|鳥取銀行]]
+- [[banking/regional-bank-consolidation-pattern|地域銀行統合パターン]]
+- [[regional-banks/INDEX|regional-banks INDEX]]
+- [[INDEX|FinWiki index]]
 
 ## 出典
 
-- FSA: 2026-05-02 時点の銀行免許一覧、第二地方銀行。
-- Tomato Bank 公式会社概要。
+- 金融庁: 銀行免許一覧 (`ginkou.xlsx`), 第二地方銀行。
+- トマト銀行 公式会社概要。
+- トマト銀行 (Wikipedia): 系譜 倉敷無尽 (1931) → 山陽相互銀行 → トマト銀行 (1989 普通銀行転換); 本店 岡山市; 岡山県唯一の第二地方銀行。

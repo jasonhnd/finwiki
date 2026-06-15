@@ -1,11 +1,11 @@
 ---
 source: retail/seven-i-holdings-finance-deep-dive
-source_hash: e5a038891a09b6bd
+source_hash: 9f806f4535d87494
 lang: en
 status: machine
 fidelity: ok
 title: "Seven & i Holdings finance deep dive — 7-Bank, ATM platform, nanaco, EC acquiring, 2024 York reorganization"
-translated_at: 2026-06-01T03:31:12.279Z
+translated_at: 2026-06-15T04:09:41.157Z
 ---
 
 # Seven & i Holdings finance deep dive — 7-Bank, ATM platform, nanaco, EC acquiring, 2024 York reorganization

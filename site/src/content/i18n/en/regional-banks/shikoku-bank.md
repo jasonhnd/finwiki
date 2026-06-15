@@ -1,52 +1,55 @@
 ---
 source: regional-banks/shikoku-bank
-source_hash: 493bc2b470a7b174
+source_hash: 535413b57eeee990
 lang: en
 status: machine
 fidelity: ok
-title: ""
-translated_at: 2026-06-01T02:31:57.098Z
+title: "The Shikoku Bank (四国銀行)"
+translated_at: 2026-06-15T04:09:41.174Z
 ---
-﻿# Shikoku Bank
+
+# The Shikoku Bank (四国銀行)
 
 ## Wiki route
 
-This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it against [[regional-banks/iyo-bank|伊予銀行]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain route). Read it against [[regional-banks/kochi-bank|高知銀行]] for the same-prefecture peer / contrast (first vs second regional bank), and against [[financial-regulators/fsa|the FSA]] plus [[banking/INDEX|banking]] for the supervisory / system boundary.
 
 ## TL;DR
 
-The Shikoku Bank, Ltd. is a regional bank headquartered in Kochi Prefecture and listed on the FSA bank license list. It is the Kochi first-regional-bank operating-company anchor and is treated as a regional-bank peer legal entity separate from [[regional-banks/kochi-bank|高知銀行]].
+The Shikoku Bank, Ltd. (株式会社四国銀行) is a regional bank (first regional bank) headquartered in Kochi City, Kochi Prefecture, holding a bank license under the Banking Act and listed in the FSA's bank license list. It is the first-regional-bank operating-company anchor of Kochi Prefecture with a founding history dating to 1897 年, a listed regional bank traded on the TSE. It is treated as a peer that is a separate legal entity from the second regional bank [[regional-banks/kochi-bank|高知銀行]]. The substance of its business is the standard regional-bank model of deposit-taking within the prefecture and across Shikoku and lending to SMEs / individuals.
 
 ## 1. License / group boundary
 
 | Item | Notes |
 |---|---|
-| Legal name | The Shikoku Bank, Ltd. |
-| License route | Banking Act regional bank; FSA bank license list |
-| Group boundary | Standalone listed regional-bank operating company |
-| Home market | Kochi / Kochi City |
+| Legal name | 株式会社四国銀行 / The Shikoku Bank, Ltd. |
+| License route | Bank license under the Banking Act (regional bank / first regional bank); FSA bank license list |
+| Group boundary | Standalone listed regional-bank operating company（上場・独立系） |
+| Founded | 1897（四国銀行のあゆみ） |
+| Home market | Kochi / Kochi City（高知県本店） |
 | Wiki role | Kochi first-regional-bank operating-company page |
 
 ## 2. Operating model
 
-Shikoku Bank is a regional bank centered on Kochi Prefecture, providing retail deposits, SME finance, local corporate lending, and Shikoku-area relationship banking. Within Kochi Prefecture it has a first / second-regional-bank peer boundary with [[regional-banks/kochi-bank]]. For Shikoku regional-bank consolidation context, see [[banking/INDEX|banking index]] and [[regional-banks/INDEX|regional-banks INDEX]].
+The Shikoku Bank is a regional bank that, centered on Kochi Prefecture, handles retail deposits, SME finance, local corporate lending, and Shikoku-area relationship banking. Within Kochi Prefecture it has a first / second-regional-bank peer boundary with the second regional bank [[regional-banks/kochi-bank|高知銀行]], and across the wider Shikoku area it is compared with [[regional-banks/iyo-bank|伊予銀行]], [[regional-banks/awa-bank|阿波銀行]], and [[regional-banks/hyakujushi-bank|百十四銀行]]. For the Shikoku regional-bank consolidation context, see [[banking/regional-bank-consolidation-pattern|地域銀行統合パターン]].
 
 ## 3. Why this page matters
 
-- Closes the FSA exact-name operating-company gap for Shikoku Bank.
-- Separates Kochi first-regional-bank coverage from [[regional-banks/kochi-bank]].
-- Provides a Shikoku peer anchor for [[regional-banks/awa-bank]], [[regional-banks/hyakujushi-bank]], and [[regional-banks/iyo-bank]].
+- Establishes the exact-name operating-company gap on the FSA's bank license list (Banking Act).
+- Separates Kochi first-regional-bank coverage from the second regional bank [[regional-banks/kochi-bank|高知銀行]].
+- Provides the Shikoku peer anchor for [[regional-banks/awa-bank|阿波銀行]], [[regional-banks/hyakujushi-bank|百十四銀行]], and [[regional-banks/iyo-bank|伊予銀行]].
 
 ## Related
 
-- [[regional-banks/kochi-bank]]
-- [[regional-banks/awa-bank]]
-- [[regional-banks/hyakujushi-bank]]
-- [[regional-banks/iyo-bank]]
-- [[banking/regional-bank-consolidation-pattern]]
-- [[banking/INDEX]]
+- [[regional-banks/kochi-bank|高知銀行]]
+- [[regional-banks/awa-bank|阿波銀行]]
+- [[regional-banks/hyakujushi-bank|百十四銀行]]
+- [[regional-banks/iyo-bank|伊予銀行]]
+- [[banking/regional-bank-consolidation-pattern|地域銀行統合パターン]]
+- [[regional-banks/INDEX|regional-banks INDEX]]
+- [[INDEX|FinWiki index]]
 
 ## Sources
 
-- FSA: bank license list, regional banks, as of 2026-01-01.
-- Shikoku Bank official overview.
+- FSA: bank license list (`ginkou.xlsx`), regional banks.
+- Shikoku Bank official profile / history (founded 1897; HQ Kochi City; TSE-listed).

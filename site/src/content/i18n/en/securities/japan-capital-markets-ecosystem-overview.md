@@ -1,11 +1,11 @@
 ---
 source: securities/japan-capital-markets-ecosystem-overview
-source_hash: 7d98a4215695448b
+source_hash: 295d18ea8342be12
 lang: en
 status: machine
 fidelity: ok
 title: "Japan capital markets ecosystem overview"
-translated_at: 2026-06-01T03:31:12.321Z
+translated_at: 2026-06-15T04:09:41.158Z
 ---
 
 # Japan capital markets ecosystem overview

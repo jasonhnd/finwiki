@@ -1,53 +1,63 @@
 ---
 source: regional-banks/howa-bank
-source_hash: 9146621489ccd607
+source_hash: a576f8f11a9e3229
 lang: zh
 status: machine
 fidelity: ok
 title: "丰和银行"
-translated_at: 2026-05-31T15:29:03.879Z
+translated_at: 2026-06-15T04:09:41.180Z
 ---
 
 # 丰和银行
 
 
-## 维基路线
+## Wiki 路径
 
-该条目位于[[regional-banks/INDEX|regional-banks INDEX]]阅读它与[[banking/INDEX|banking index]]对于相邻的上下文和[[financial-licenses/INDEX|JapanFG index]]为更广泛的系统边界。
+本条目位于 [[regional-banks/INDEX|regional-banks INDEX]]（其领域路径）之下。请将其与 [[regional-banks/oita-bank|大分銀行]] 对照阅读，以了解同一县内第一地方银行／第二地方银行的同类对比，并与 [[financial-regulators/fsa|the FSA]] 及 [[banking/INDEX|banking]] 对照阅读，以了解监管／系统边界。免许类型的背景见 [[financial-licenses/INDEX|financial licenses]]。
 
-## 长话短说
+## 摘要
 
-丰和银行是第二家主要分行位于大分县的地方银行，并被列入金融厅的银行牌照名单。它是大分县第二家区域银行运营公司主力，[[regional-banks/oita-bank]]它被视为独立公司的本地同行。
+株式会社丰和银行 (The Howa Bank) 是持有银行法上的银行免许、并列入金融厅银行免许一览的大分县大分市本店第二地方银行。它是大分县第二地方银行运营公司的锚点，与第一地银 [[regional-banks/oita-bank|大分銀行]] 是分属不同法人的本地同类银行。其业务实质是县内的存款受理与面向中小企业、个人的放贷，属于地方银行的标准模式。
 
-## 1.许可证/组边界
+## 1. 免许／集团边界
 
-|项目 |笔记|
+| 项目 | 备注 |
 |---|---|
-|法定名称 |丰和银行|
-|许可途径|银行法第二区域银行； FSA 银行牌照列表 |
-|组边界|独立第二区域银行|
-|国内市场|大分 / 大分市 |
-|维基角色 |大分第二地方银行运营公司页面|
+| 法人名称 | 株式会社丰和银行 / The Howa Bank, Ltd. |
+| 免许路径 | 银行法上的银行免许 (第二地方银行／第二地银); 金融厅银行免许一览 |
+| 集团边界 | 独立的第二地方银行（非 FG 旗下的独立系） |
+| 主场市场 | 大分县／大分市（大分县本店） |
+| Wiki 角色 | 大分县第二地方银行运营公司页面 |
 
-## 2.运营模式
+## 2. 经营模式
 
-丰和银行是大分县第二家负责零售存款、中小企业金融、消费银行和地方关系银行业务的区域银行。[[regional-banks/oita-bank]]页面处理第一区域银行现任者，此页面处理第二区域银行许可证边界。九州第二地方银行的重组趋势是[[banking/regional-bank-consolidation-pattern]]看。
+丰和银行是承担大分县内零售存款、中小企业金融、消费者银行业务以及地方关系型银行业务的第二地方银行。[[regional-banks/oita-bank|大分銀行]] 页面处理的是第一地方银行的在位者，而本页处理的是第二地方银行的免许边界。大分县呈现第一地银（大分银行）与第二地银（丰和银行）并立的多层结构。
 
-## 3.为什么此页面很重要
+## 3. 监管与系统定位
 
-- 关闭丰和银行的 FSA 确切名称页面。
-- 完成大分第一/第二区域银行同行对，索引通过[[regional-banks/INDEX|regional-banks INDEX]]。
-- 为共享系统和整合分析提供九州第二地区银行锚点。
+- **监管**: 在银行法之下由金融厅 ([[financial-regulators/fsa|FSA]]) 与九州财务局监管。通过自有资本比率规制（国内基准）等对其稳健性加以约束。
+- **行业团体**: 隶属于第二地方银行协会（第二地银协）系列的第二地方银行。参加全国银行资金结算网络（全银系统），在行业团体层面归入 [[financial-regulators/zenginkyo|全国銀行協会（全銀協）]] 的框架。
+- **存款人保护**: 存款为存款保险机构（DIC）的承保对象。
+- **整合背景**: 九州第二地银整理与整合的一般背景，参见 [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]]。
 
-## 有关的
+## 4. 本页的意义
 
+- 完结丰和银行在金融厅的精确名称页面。
+- 完成经由 [[regional-banks/INDEX|regional-banks INDEX]] 编入索引的大分县第一地方银行／第二地方银行同类对。
+- 为共享系统与整合分析提供一个九州第二地方银行锚点。
+
+## 相关
+
+- [[regional-banks/INDEX|regional-banks INDEX]]
 - [[regional-banks/oita-bank]]
 - [[regional-banks/fukuoka-fg]]
 - [[regional-banks/nishi-nippon-fhd]]
+- [[financial-regulators/fsa|FSA]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/INDEX]]
+- [[INDEX|FinWiki index]]
 
 ## 来源
 
-- FSA：银行牌照清单，第二区域银行/其他，截至2026-05-02。
-- 丰和银行官方公司信息页面。
+- 金融厅: 银行免许一览 (`ginkou.xlsx`), 第二地方银行。
+- 丰和银行官方 会社案内, `https://www.howabank.co.jp/aboutus/`。
