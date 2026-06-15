@@ -1,51 +1,52 @@
 ---
 source: payment-firms/dg-financial-technology
-source_hash: 22098fe575369cad
+source_hash: 9f867b67070ef7ed
 lang: zh
 status: machine
 fidelity: ok
-title: "DG Financial Technology（DGFT）"
-translated_at: 2026-05-31T15:29:03.949Z
+title: "DG 金融科技 (DGFT)"
+translated_at: 2026-06-15T04:20:20.009Z
 ---
 
-# DG Financial Technology（DGFT）
+# DG 金融科技 (DGFT)
+
 
 ## Wiki 路径
 
-本条目位于 [[payment-firms/INDEX|payment-firms INDEX]] 下。可与 [[payment-firms/sb-payment-service|SB Payment Service]] 和 [[payments/INDEX|支付索引]] 对照阅读，以理解日本非银行商户支付基础设施的竞争格局。
+This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it against [[payment-firms/sb-payment-service|SBペイメントサービス (SB Payment Service)]] for peer / contrast context and [[payments/INDEX|payments index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
-DG Financial Technology（DGFT）是 Digital Garage 集团旗下的支付和金融科技基础设施运营公司。本页承接旧 VeriTrans 的支付处理脉络，重点观察面向线上商户和平台型企业的支付网关、商户 PSP 与金融科技基础设施之间的边界。
+DG 金融科技是 Digital Garage group 的 payment / fintech infrastructure operator。承接旧 VeriTrans 的支付代理脉络，是解读 online / store-facing payment gateway 与 merchant technology 之间边界的页面。
 
-## 1. 公司与许可边界
+## 1. 法人・牌照边界
 
-| 项目 | 解读 |
+| Item | Reading |
 |---|---|
-| 法人实体 | DG Financial Technology, Inc. |
-| 集团 | Digital Garage group |
-| 主要业务线 | 支付网关、商户 PSP、金融科技基础设施 |
-| 监管路径 | 经济产业省相关登记名册，以及 DGFT 官方公司简介和服务页面 |
+| Legal entity | 株式会社DG金融科技 |
+| Group | Digital Garage group |
+| Main lanes | Payment gateway, merchant PSP, fintech infrastructure |
+| Regulatory route | METI registered-operator lists and official DGFT company profile / service pages. |
 
-## 2. 业务角色
+## 2. Business role
 
-- 为商户和平台型企业提供支付处理基础设施。
-- 与 [[payment-firms/gmo-payment-gateway|GMO Payment Gateway]]、[[payment-firms/gmo-epsilon|GMO Epsilon]] 和 [[payment-firms/sb-payment-service|SB Payment Service]] 处于相近分析维度，但同时带有 Digital Garage 的电商和营销科技背景。
-- 对绘制日本非银行商户支付基础设施版图具有重要意义。
+- Provides payment-processing infrastructure for merchants and platform businesses.
+- Sits in the same analytical lane as [[payment-firms/gmo-payment-gateway|GMO-PG]] / [[payment-firms/gmo-epsilon|GMO Epsilon]] / [[payment-firms/sb-payment-service|SBPS]], but with Digital Garage's commerce and marketing-tech context.
+- Important for mapping Japan's non-bank merchant payment infrastructure.
 
-## 3. 单独成页的意义
+## 3. Why this standalone page matters
 
-支付网关运营商常被母集团页面遮蔽，但 DGFT 是直接承接商户合同、安全控制和结算流的经营实体。在分析日本商户收单、平台支付和金融科技基础设施时，经营实体本身往往比母品牌更重要。
+Payment gateway operators are often invisible inside group pages. DGFT is an operating company whose merchant contracts, security controls, and settlement flows can matter more than the parent brand.
 
 ## Related
 
-- [[payments/card-acquiring-japan-stack|日本银行卡收单栈]]
-- [[payments/cashless-jp-landscape|日本无现金支付格局]]
-- [[payment-firms/gmo-payment-gateway|GMO Payment Gateway]]
-- [[payment-firms/sb-payment-service|SB Payment Service]]
+- [[payments/card-acquiring-japan-stack]]
+- [[payments/cashless-jp-landscape]]
+- [[payment-firms/gmo-payment-gateway]]
+- [[payment-firms/sb-payment-service]]
 
 ## Sources
 
 - DGFT company profile: https://www.dgft.jp/company/about/profile.html
-- DGFT service and company-position page: https://company.dgft.jp/
+- DGFT service / company position page: https://company.dgft.jp/
 - METI registered operators under the Installment Sales Act: https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html

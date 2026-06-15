@@ -1,58 +1,58 @@
 ---
 source: financial-regulators/boj-financial-markets-dept
-source_hash: 8d741ed0f614de58
+source_hash: 4aacca001a8d0bc2
 lang: en
 status: machine
 fidelity: ok
-title: "BoJ Financial Markets Department"
-translated_at: 2026-05-31T11:13:44.869Z
+title: "Financial Markets Department (BoJ Financial Markets Department)"
+translated_at: 2026-06-15T04:20:20.011Z
 ---
 
-# BoJ Financial Markets Department
+# Financial Markets Department (BoJ Financial Markets Department)
 
 ## Wiki route
-This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]]. Read it against [[financial-regulators/boj-payment-settlement-dept|BoJ Payment and Settlement Systems Department]] for peer-bureau context inside the Bank of Japan, and against [[financial-regulators/boj-monetary-policy|BoJ monetary policy]] for the policy-to-operations boundary. For market-mechanics anchoring, route through [[money-market/japan-money-market|Japan money market]] and [[money-market/boj-open-market-operations|BoJ open market operations]].
+This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]]. Read it against [[financial-regulators/boj-payment-settlement-dept|決済機構局]] for peer-bureau context inside the Bank of Japan, and against [[financial-regulators/boj-monetary-policy|BoJ monetary policy]] for the policy-to-operations boundary. For market-mechanics anchoring, route through [[money-market/japan-money-market|Japan money market]] and [[money-market/boj-open-market-operations|BoJ open market operations]].
 
 ## TL;DR
 
-The Financial Markets Department (Financial Markets Department, abbreviated FMD) is the Bank of Japan's internal bureau responsible for executing money-market and JGB-market operations decided by the Policy Board and for gathering market intelligence used as policy input. It is the operating arm that converts Monetary Policy Meeting guidance into day-to-day market operations.
+The Financial Markets Department (金融市場局, Financial Markets Department, abbreviated FMD) is the Bank of Japan's internal bureau in charge of executing money-market and JGB-market operations decided by the Policy Board, and of gathering market intelligence used as input to policy. It is the operational arm that turns the Monetary Policy Meeting guideline into daily open-market activity.
 
-For JapanFG, this bureau is the public anchor for pages that depend on BoJ market operations: tanshi brokerage flow, JGB repo, T-Bill outright transactions, securities-lending facility usage, and CP / corporate-bond operations during stress periods.
+For JapanFG, this bureau is the official counterpart of every page that depends on BoJ operations: tanshi brokerage flow, JGB repo, T-Bill outright transactions, securities-lending facility usage, and CP / corporate-bond operations during stress periods.
 
 ## 1. Function / scope
 
-The Bank of Japan's English organization chart lists the Financial Markets Department as one of the head-office departments reporting through the Executive Directors and Deputy Governors. Its public responsibilities include:
+The Bank of Japan's English organization chart lists the Financial Markets Department as one of the headquarters departments reporting up through the Executive Directors and Deputy Governors. Its public-facing responsibilities cover:
 
-- Executing open market operations under the MPM guideline: pooled-collateral funds-supplying operations, JGS repo (gensaki) operations, outright purchases and sales of Treasury Discount Bills, outright JGB purchases, bill sales, the securities lending facility, and foreign-currency funds-supplying operations.
-- Publishing operation offers and results on a daily basis, and the monthly *Market Operations by the Bank of Japan* release.
-- Monitoring the money market and JGB market: uncollateralized overnight call rates, repo rates, the JGB curve, dealer positioning, and primary-market conditions.
-- Maintaining operational continuity for funding facilities such as the Loan Support Program and special operations introduced during stress periods, although those measures are decided by the Policy Board.
+- Execution of open market operations under the MPM guideline: funds-supplying operations against pooled collateral, JGS repo (gensaki) operations, outright purchases and sales of Treasury Discount Bills, outright JGB purchases, sale of bills, the securities lending facility, and foreign-currency funds-supplying operations.
+- Daily publication of operation offers and results, and the monthly *Market Operations by the Bank of Japan* release.
+- Money-market and JGB-market intelligence: monitoring the uncollateralized overnight call rate, repo rates, JGB curve, dealer positioning, and primary-market dynamics.
+- Operational continuity for funding facilities such as the Loan Support Program and the special operations introduced during stress episodes (these are decided by the Policy Board but executed through this department).
 
-This department is the natural home of the BoJ's day-to-day relationships with eligible market counterparties. It does not itself decide the policy rate or the volume of asset purchases.
+The bureau is the natural home of the BoJ's day-to-day market-counterparty relationships, including eligibility lists for each operation. It does not itself decide the policy rate or the asset-purchase volumes.
 
 ## 2. Counterparty / interaction
 
-Day-to-day interaction is with eligible counterparties for each operation. The BoJ's own framework recognizes tanshi firms as central to short-end intermediation, which is why FMD activity directly shapes the business flow of [[financial-regulators/tokyo-tanshi|Tokyo Tanshi]], [[financial-regulators/central-tanshi|Central Tanshi]], and [[financial-regulators/ueda-yagi-tanshi|Ueda Yagi Tanshi]].
+Day-to-day interaction is with eligible counterparties for each operation. The BoJ's own framework recognises tanshi (money-market brokerage) firms as central to short-end intermediation, which is why FMD activity directly conditions the revenue base of [[financial-regulators/tokyo-tanshi|Tokyo Tanshi]], [[financial-regulators/central-tanshi|Central Tanshi]], and [[financial-regulators/ueda-yagi-tanshi|Ueda Yagi Tanshi]].
 
 Other counterparty layers include:
 
 - JGB primary dealers and major securities firms for outright JGB / T-Bill operations.
-- Banks and other depository institutions that hold BoJ current accounts; see [[financial-regulators/boj-payment-settlement-dept|BoJ Payment and Settlement Systems Department]] for the account-infrastructure side.
-- Foreign central banks for FX-related funds-supplying operations; cross-border coordination is shared with [[financial-regulators/boj-international-dept|BoJ International Department]].
-- Internal coordination with the Monetary Affairs Department on policy framing and with the Financial System and Bank Examination Department on counterparty-credit matters, via [[financial-regulators/boj-financial-system-dept|BoJ Financial System and Bank Examination Department]].
+- Banks and other depository institutions holding BoJ current accounts (see [[financial-regulators/boj-payment-settlement-dept|決済機構局]] for the account-infrastructure side).
+- Foreign central banks for FX-related funds-supplying operations (cross-border coordination is shared with [[financial-regulators/boj-international-dept|国際局]]).
+- Internal liaison with the Monetary Affairs Department for policy framing and with the Financial System and Bank Examination Department on counterparty-credit issues, via [[financial-regulators/boj-financial-system-dept|金融機構局]].
 
 ## 3. Why this page matters
 
-- It is the cleanest public anchor for who actually runs the BoJ open-market desk whenever a JapanFG page refers to the operating arm rather than the policy decision-maker.
-- It separates execution (this department) from policy direction ([[financial-regulators/boj-monetary-policy|MPM guideline]]), a boundary that is often blurred in commentary.
-- It explains why tanshi-company business volume cannot be inferred from the policy rate alone: the operation mix, eligibility lists, and collateral terms set here translate the rate into market flow.
-- It provides the correct anchor for repo and JGB-curve commentary in [[money-market/jgb-repo-market-japan|JGB repo market]] and [[money-market/call-market-structure|call market structure]].
+- It is the cleanest public anchor for "who actually runs the BoJ open-market desk" — needed any time a JapanFG page references the operating arm rather than the policy decision.
+- It distinguishes execution (this bureau) from policy direction ([[financial-regulators/boj-monetary-policy|MPM guideline]]), which is a routinely confused boundary in commentary.
+- It explains why tanshi-company business volume cannot be read off the policy rate alone: the operation mix, eligibility list, and collateral terms set here translate the rate into market flow.
+- It gives the right anchor for repo / JGB-curve commentary in [[money-market/jgb-repo-market-japan|JGB repo market]] and [[money-market/call-market-structure|call market structure]] pages.
 
 ## Related
 - [[financial-regulators/boj-monetary-policy|BoJ monetary policy]]
-- [[financial-regulators/boj-payment-settlement-dept|BoJ Payment and Settlement Systems Department]]
-- [[financial-regulators/boj-financial-system-dept|BoJ Financial System and Bank Examination Department]]
-- [[financial-regulators/boj-international-dept|BoJ International Department]]
+- [[financial-regulators/boj-payment-settlement-dept|決済機構局 (Payment and Settlement Systems Department)]]
+- [[financial-regulators/boj-financial-system-dept|金融機構局 (Financial System and Bank Examination Department)]]
+- [[financial-regulators/boj-international-dept|国際局 (International Department)]]
 - [[money-market/japan-money-market|Japan money market]]
 - [[money-market/boj-open-market-operations|BoJ open market operations]]
 - [[money-market/jgb-repo-market-japan|JGB repo market]]
@@ -60,13 +60,13 @@ Other counterparty layers include:
 
 ## Sources
 
-- Bank of Japan, "Organization" - https://www.boj.or.jp/en/about/organization/index.htm
-- Bank of Japan, "Market Operations" - https://www.boj.or.jp/en/mopo/measures/mkt_ope/index.htm
-- Bank of Japan, "Money Market" - https://www.boj.or.jp/en/paym/market/
-- Bank of Japan, "Market Operations by the Bank of Japan" (monthly release) - https://www.boj.or.jp/en/statistics/boj/fm/ope/index.htm
-- Bank of Japan, "Publications" (Annual Review) - https://www.boj.or.jp/en/about/publication/
+- Bank of Japan, "Organization" (English) — https://www.boj.or.jp/en/about/organization/index.htm
+- Bank of Japan, "Market Operations" — https://www.boj.or.jp/en/mopo/measures/mkt_ope/index.htm
+- Bank of Japan, "Money Market" — https://www.boj.or.jp/en/paym/market/
+- Bank of Japan, "Market Operations by the Bank of Japan" (monthly release) — https://www.boj.or.jp/en/statistics/boj/fm/ope/index.htm
+- Bank of Japan, "Publications" (Annual Review) — https://www.boj.or.jp/en/about/publication/
 
 ---
 
-> [!info] source confidence
-> confidence: **likely**. Public BoJ organization and market-operations pages support the core description. Internal sub-division structure is not consistently published in English.
+> [!info] Verification status
+> confidence: **likely**. Public BoJ org chart + market-operations pages. Bureau internal division structure (head-of-department, division names) is not consistently published in English; English/Japanese romanisation of the bureau name is the official "Financial Markets Department".

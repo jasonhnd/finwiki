@@ -1,21 +1,23 @@
 ---
 source: foreign-financial-institutions/ctbc-bank-japan
-source_hash: 17a8643575453579
+source_hash: afc2c1a9690848de
 lang: en
 status: machine
 fidelity: ok
 title: "CTBC Bank Tokyo Branch"
-translated_at: 2026-05-31T15:29:03.927Z
+translated_at: 2026-06-15T04:20:20.009Z
 ---
+
 # CTBC Bank Tokyo Branch
+
 
 ## Wiki route
 
-This entry sits under the [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]]. Read it against [[foreign-financial-institutions/mega-icbc-japan|Mega International Commercial Bank Tokyo Branch]] for Taiwan-bank peer context and [[banking/INDEX|banking index]] for the broader system and regulatory boundary.
+This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]]. Read it against [[foreign-financial-institutions/mega-icbc-japan|兆豐國際商業銀行 東京支店]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
-CTBC Bank Tokyo Branch is the Japan branch of Taiwan-based CTBC Bank and appears on the FSA list of foreign bank branches. This page should be read as a foreign-bank corporate and cross-border banking branch, not as a Japan-incorporated retail bank. Its public-facing role is to support Taiwan-Japan corporate banking, internet banking, account services, remittance procedures, and financing-related administration.
+CTBC Bank Tokyo Branch is the Japan banking branch of Taiwan / CTBC Bank, listed in the FSA's foreign bank branch list. As the Japan corporate branch of a Taiwan private banking group, it supports corporate transactions between Taiwan and Japan, internet banking, and account / remittance / lending-related procedures.
 
 ## 1. License / branch boundary
 
@@ -30,12 +32,12 @@ CTBC Bank Tokyo Branch is the Japan branch of Taiwan-based CTBC Bank and appears
 
 ## 2. Operating model
 
-CTBC's Japan branch forms and public disclosure materials identify the Tokyo Branch route. The Japanese Bankers Association lists CTBC Bank among foreign-bank associate members. The wiki should therefore treat CTBC Japan as a foreign-bank branch rather than a Japan-incorporated retail bank.
+CTBC's Japan branch forms and disclosure materials identify the Tokyo Branch route. JBA lists CTBC Bank in the foreign-bank associate-member surface. The wiki should treat CTBC Japan as a foreign-bank branch rather than a Japan-incorporated retail bank.
 
 ## 3. Why this page matters
 
 - Adds a leading Taiwan private-bank branch to the JapanFG map.
-- Complements Taiwan public-sector or government-adjacent routes such as [[foreign-financial-institutions/bank-of-taiwan-japan]].
+- Complements public / government-adjacent Taiwan routes such as [[foreign-financial-institutions/bank-of-taiwan-japan]].
 - Provides a Taiwan peer to [[foreign-financial-institutions/esun-bank-japan]] and [[foreign-financial-institutions/mega-icbc-japan]].
 
 ## Related

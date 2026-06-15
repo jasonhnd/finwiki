@@ -1,13 +1,14 @@
 ---
 source: payment-firms/infcurion
-source_hash: 749142c8c73a8e0c
+source_hash: d985ff786e196cea
 lang: en
 status: machine
 fidelity: ok
-title: "Infcurion"
-translated_at: 2026-05-31T15:29:03.914Z
+title: "Infcurion (インフキュリオン)"
+translated_at: 2026-06-15T04:20:20.012Z
 ---
-# Infcurion
+
+# Infcurion (インフキュリオン)
 
 ## Wiki route
 
@@ -15,29 +16,29 @@ This entry sits under the [[payment-firms/INDEX|payment-firms INDEX]] as a **whi
 
 ## TL;DR
 
-Infcurion is a **white-label fintech infrastructure** vendor. It provides consulting, processing, card, and wallet products to enterprise clients on an OEM basis, enabling banks, retailers, telecom operators, and local governments to launch payment services under their own brands. Unlike consumer-facing BNPL providers such as [[payment-firms/paidy|Paidy]] / [[payment-firms/net-protections-hd|Net Protections HD]] or wallet providers such as [[payment-firms/merpay|Merpay]] / [[payment-firms/kyash|Kyash]] / [[payment-firms/smartbank|SmartBank]], Infcurion should be read as an infrastructure platform operating behind the visible fintech brands.
+Infcurion is a **white-label fintech platform** vendor. By providing consulting + processing + card / wallet products **OEM to enterprises**, it enables banks / retail / telecom / municipalities to launch payment services under their own brand. Unlike consumer BNPL ([[payment-firms/paidy|Paidy]] / [[payment-firms/net-protections-hd|Net Protections HD]]) or wallets ([[payment-firms/merpay|メルペイ]] / [[payment-firms/kyash|Kyash]] / [[payment-firms/smartbank|SmartBank]]), it is positioned within the fintech stack as a **behind-the-scenes platform operator** that does not appear on the front stage.
 
-## 1. Legal entity and license boundary
+## 1. Legal entity / license boundary
 
 | Item | Reading |
 |---|---|
-| Legal entity | Infcurion, Inc. |
-| Group | Independent privately held fintech specialist |
-| Main lanes | Payment consulting / card-issuing processing / white-label wallet provision / e-commerce-adjacent payment SaaS |
+| Legal entity | 株式会社インフキュリオン (Infcurion, Inc.) |
+| Group | Independent fintech specialist (private company) |
+| Main lanes | Payment consulting / card-issuing processing / white-label wallet provision / EC-adjacent payment SaaS |
 
 ## 2. Business role
 
-- Infcurion supplies processing, consulting, and product infrastructure behind bank, retail, telecom, and municipal "pay," "card," and "wallet" products.^[extracted]
-- It is not primarily a direct consumer brand; it sits in the infrastructure layer as a **B2B2C payment platformer**.
+- As the behind-the-scenes party for banks / retail / telecom / municipalities to launch a "**Pay**," "**card**," or "**wallet**" under their own brand, it provides processing, consulting, and products. ^[extracted]
+- Rather than being a direct consumer brand, it sits in the fintech infrastructure layer as a **B2B2C payment platform operator**.
 
 ## 3. Why this standalone page matters
 
-Unlike SaaS providers such as [[payment-firms/freee|freee]] and [[payment-firms/money-forward|Money Forward]], Infcurion occupies a distinct JapanFG category: a fintech infrastructure operator without a primarily end-user product. Because it is a common dependency across BNPL, wallets, and payment PSP ecosystems, it deserves a standalone infrastructure page rather than being buried inside a consumer-wallet profile.
+Unlike SaaS such as [[payment-firms/freee|freee]] / [[payment-firms/money-forward|Money Forward]], Infcurion is a **fintech platform operator that has no end-user-facing products** — a distinct JapanFG category. It needs to be treated as a standalone common dependency referenced across the BNPL / wallet / payment-PSP ecosystems.
 
-## 4. Regulation and policy
+## 4. Regulation / policy
 
-- **Act on the Protection of Personal Information**: because the model is B2B2C, contracts must clearly allocate responsibility for end-user data and data-subject rights.
-- **Installment Sales Act / Payment Services Act**: the license position depends largely on the registration status of the client partner; Infcurion's own direct registration footprint is more limited.
+- **Act on the Protection of Personal Information**: Because of the B2B2C model, "who is the data subject" for end-user data is contractually important.
+- **Installment Sales Act / Payment Services Act**: A structure that follows the registration requirements of the partner being served (direct self-registration is limited).
 
 ## Related
 
