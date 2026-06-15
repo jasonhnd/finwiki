@@ -1,56 +1,56 @@
 ---
 source: life-insurers/daido-life
-source_hash: 1d6de5cd3860ad14
+source_hash: 64bcae1b6478cc4d
 lang: en
 status: machine
 fidelity: ok
 title: "Daido Life Insurance"
-translated_at: 2026-05-31T15:29:03.927Z
+translated_at: 2026-06-15T04:20:20.009Z
 ---
 
 # Daido Life Insurance
 
-## Wiki Route
 
-This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it with [[life-insurers/td-financial-life|T&D Financial Life Insurance]] for peer comparison and with the [[insurance/INDEX|insurance index]] for the broader insurance and regulatory context.
+## Wiki route
+
+This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it against [[life-insurers/td-financial-life|T&Dフィナンシャル生命保険]] for peer / contrast context and [[insurance/INDEX|insurance index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
-Daido Life Insurance Company is a core life-insurance operating company within the [[life-insurers/td-hd|T&D Holdings]] group. It appears on the Financial Services Agency life-insurer list and is best analyzed as T&D's specialist in SME, owner-manager, and corporate-benefit insurance, rather than as a mass-market household insurer.
+Daido Life Insurance Company, Limited is the core life-insurance operating company of the [[life-insurers/td-hd]] group. Listed in the FSA's life-insurer list, it is an entity that should be positioned within the T&D group as a specialist strong in insurance for SMEs and business owners.
 
-## 1. License and Group Boundary
+## 1. License / group boundary
 
 | Item | Notes |
 |---|---|
-| Legal name | Daido Life Insurance Company |
-| Japanese legal name | 大同生命保険株式会社 |
-| License route | Life-insurance company under the Insurance Business Act; listed by the FSA |
-| Industry body | Member of the Life Insurance Association of Japan |
-| Group boundary | Operating company of [[life-insurers/td-hd|T&D Holdings]] |
-| Wiki role | SME- and owner-oriented life-insurance specialist within the T&D group |
+| Legal name | Daido Life Insurance Company, Limited |
+| License route | Insurance Business Act life-insurance company; FSA life insurer list |
+| Industry body | Life Insurance Association of Japan member |
+| Group boundary | [[life-insurers/td-hd]] operating company |
+| Wiki role | SME / owner-oriented life-insurance specialist within T&D group |
 
-## 2. Operating Model
+## 2. Operating model
 
-The T&D group is centered on [[life-insurers/taiyo-life|Taiyo Life]], Daido Life, and T&D Financial Life. Daido Life is most usefully understood through the lens of SME owner protection, business succession, employee benefits, and tax or accounting-adviser channels, rather than through the conventional household life-insurance market.
+The T&D group is structured mainly around [[life-insurers/taiyo-life]], Daido Life, and T&D Financial Life. Daido Life is easier to understand when viewed through the lens of SME / corporate owner protection, succession, employee benefits, and tax / accounting advisor channels, rather than the mass household market.
 
-For FinWiki, the page functions as a bridge between SME finance and insurance distribution. It connects naturally to bank lending, credit guarantees, and owner-manager risk management.
+In FinWiki, it should be made into a page that, as the intersection of SME finance and insurance distribution, can connect with bank lending, credit guarantee, and SME owner risk management.
 
-## 3. Why This Page Matters
+## 3. Why this page matters
 
-- The parent [[life-insurers/td-hd|T&D Holdings]] page alone does not explain the SME and owner-insurance operating model.
-- Daido Life provides a useful contrast with traditional household life-insurance channels.
-- The page closes one of the major D1 life-insurer gaps in the JapanFG coverage map.
+- Parent [[life-insurers/td-hd]] page alone does not explain the SME / owner-insurance operating model.
+- Useful for comparing corporate-owner channels with traditional household life-insurance channels.
+- Completes one of the major D1 life-insurer gaps.
 
 ## Related
 
-- [[life-insurers/td-hd|T&D Holdings]]
-- [[life-insurers/taiyo-life|Taiyo Life]]
-- [[insurance/life-insurance-channel-mix|Life-insurance channel mix]]
-- [[financial-regulators/jfc|Japan Finance Corporation]]
-- [[policy-finance/INDEX|Policy finance index]]
+- [[life-insurers/td-hd]]
+- [[life-insurers/taiyo-life]]
+- [[insurance/life-insurance-channel-mix]]
+- [[financial-regulators/jfc]]
+- [[policy-finance/INDEX]]
 
 ## Sources
 
-- FSA life-insurance company license list, as of 2026-04-13.
-- Life Insurance Association of Japan member-company list, as of 2026-04-13.
+- FSA: life-insurance company license list, as of 2026-04-13.
+- Life Insurance Association of Japan: member-company list, as of 2026-04-13.
 - Daido Life official website.

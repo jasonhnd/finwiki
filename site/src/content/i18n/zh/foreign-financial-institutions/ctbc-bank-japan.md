@@ -1,42 +1,44 @@
 ---
 source: foreign-financial-institutions/ctbc-bank-japan
-source_hash: 17a8643575453579
+source_hash: afc2c1a9690848de
 lang: zh
 status: machine
 fidelity: ok
-title: "中国信托商业银行东京分行"
-translated_at: 2026-05-31T15:29:03.892Z
+title: "中国信托商业银行 东京支店"
+translated_at: 2026-06-15T04:20:20.009Z
 ---
-# 中国信托商业银行东京分行
+
+# 中国信托商业银行 东京支店
+
 
 ## Wiki 路径
 
-本条目位于 [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]]。可与 [[foreign-financial-institutions/mega-icbc-japan|兆丰国际商业银行东京分行]] 对照阅读，并结合 [[banking/INDEX|银行索引]] 理解外国银行在日本的分行牌照边界。
+This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]]. Read it against [[foreign-financial-institutions/mega-icbc-japan|兆豐國際商業銀行 東京支店]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
-中国信托商业银行东京分行是台湾 CTBC Bank 在日本的外国银行分行，列入日本金融厅的外国银行分行清单。FinWiki 将其定位为台湾民营银行集团在日本的企业银行和跨境金融接口，而不是日本本地注册的零售银行。
+中国信托商业银行 东京支店是登载于金融厅外国银行支店一览的 Taiwan / CTBC Bank 在日银行支店。作为 Taiwan private banking group 的 Japan corporate branch，支撑台湾・日本之间的企业交易、网络银行、开户・汇款・融资相关手续。
 
-## 1. 牌照与分行边界
+## 1. License / branch boundary
 
-| 项目 | 内容 |
+| Item | Notes |
 |---|---|
-| 金融厅登记名称 | 中国信托商业银行 |
-| 法定 / 分行名称 | CTBC Bank Co., Ltd. Tokyo Branch |
-| 牌照路径 | 《银行法》下的外国银行分行；列入金融厅银行牌照清单 |
-| 母国 / 地区 | 台湾 |
-| 母公司 / 集团 | CTBC Bank / CTBC Financial Holding |
-| Wiki 角色 | 台湾民营银行在日分行锚点 |
+| FSA listed name | 中国信托商业银行 |
+| Legal / branch name | CTBC Bank Co., Ltd. Tokyo Branch |
+| License route | Banking Act foreign bank branch; FSA bank license list |
+| Home jurisdiction | Taiwan |
+| Parent / group | CTBC Bank / CTBC Financial Holding |
+| Wiki role | Taiwan private-bank Japan branch anchor |
 
-## 2. 经营模式
+## 2. Operating model
 
-CTBC 的日本分行申请资料和公开披露显示，其东京分行承担在日企业交易、台湾与日本之间的跨境客户服务、互联网银行、存款、汇款和融资相关手续。日本银行协会也将 CTBC Bank 纳入外国银行准会员相关范围。因此，本页应按外国银行分行处理，而不是按日本法人银行或面向大众的零售银行处理。
+CTBC's Japan branch forms and disclosure materials identify the Tokyo Branch route. JBA lists CTBC Bank in the foreign-bank associate-member surface. The wiki should treat CTBC Japan as a foreign-bank branch rather than a Japan-incorporated retail bank.
 
-## 3. 为什么重要
+## 3. Why this page matters
 
-- 将台湾主要民营银行在日本的分行纳入 JapanFG 地图。
-- 与 [[foreign-financial-institutions/bank-of-taiwan-japan]] 等公共或政府相关台湾路径形成互补。
-- 为 [[foreign-financial-institutions/esun-bank-japan]] 和 [[foreign-financial-institutions/mega-icbc-japan]] 提供台湾同业对照。
+- Adds a leading Taiwan private-bank branch to the JapanFG map.
+- Complements public / government-adjacent Taiwan routes such as [[foreign-financial-institutions/bank-of-taiwan-japan]].
+- Provides a Taiwan peer to [[foreign-financial-institutions/esun-bank-japan]] and [[foreign-financial-institutions/mega-icbc-japan]].
 
 ## Related
 

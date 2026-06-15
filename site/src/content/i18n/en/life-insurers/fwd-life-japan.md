@@ -1,23 +1,22 @@
 ---
 source: life-insurers/fwd-life-japan
-source_hash: 4ee762abbe7b6efc
+source_hash: 87cbd13b223fc59b
 lang: en
 status: machine
 fidelity: ok
 title: "FWD Life Insurance"
-translated_at: 2026-05-31T15:29:03.920Z
+translated_at: 2026-06-15T04:20:20.012Z
 ---
 
 # FWD Life Insurance
 
-
 ## Wiki route
 
-This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it against [[life-insurers/credit-agricole-life|Credit Agricole Life Insurance]] for peer / contrast context and [[insurance/INDEX|insurance index]] for the broader system / regulatory boundary.
+This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it against [[life-insurers/credit-agricole-life|クレディ・アグリコル生命保険]] for peer / contrast context and [[insurance/INDEX|insurance index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
-FWD Life Insurance Co., Ltd. is a foreign-affiliated life insurer in Japan listed in the FSA's life-insurance company license list. In JapanFG, it should be compared with [[life-insurers/nn-life-japan]], [[life-insurers/metlife-japan]], [[life-insurers/manulife-japan]], [[life-insurers/prudential-japan]], and other Japanese operating companies of foreign-affiliated insurance groups.
+FWD Life Insurance Company, Limited (FWD生命保険株式会社) is a foreign-affiliated Japan life insurer listed on the FSA's life-insurance company license list. In JapanFG, as the Japan operating company of a foreign insurance group, it is compared with [[life-insurers/nn-life-japan]], [[life-insurers/metlife-japan]], [[life-insurers/manulife-japan]], [[life-insurers/prudential-japan]], and others.
 
 ## 1. License / group boundary
 
@@ -31,13 +30,13 @@ FWD Life Insurance Co., Ltd. is a foreign-affiliated life insurer in Japan liste
 
 ## 2. Operating model
 
-FWD Life operates in Japan as a licensed life-insurance company handling death protection, medical protection, savings-oriented products, and investment-style insurance products. For foreign-affiliated life insurers, the Japanese legal entity's license, product filings, distribution channels, and solvency disclosures must be examined separately from the global brand.
+FWD Life, as a domestic Japanese life insurer, is an operating entity handling death protection, medical protection, and savings / investment-style insurance products. For foreign-affiliated life insurers, rather than the global brand, one must separately verify the Japan entity's license, product filing, distribution channel, and solvency disclosure.
 
-This page uses the legal name in the FSA registry as its anchor and connects the existing foreign-financial-institution pages with insurance-specific pages.
+This page serves the role of connecting existing foreign financial institution pages with insurance-specific pages, anchored on the legal name in the FSA registry.
 
 ## 3. Why this page matters
 
-- FSA list has FWD Life as a separate licensed life insurer; parent-level insurance coverage was not enough.
+- The FSA list has FWD Life as a separate licensed life insurer; parent-level insurance coverage was not enough.
 - Helps prevent foreign-affiliated life insurers from being hidden under generic foreign-finance pages.
 - Provides a route for future disclosure, solvency, and channel analysis.
 

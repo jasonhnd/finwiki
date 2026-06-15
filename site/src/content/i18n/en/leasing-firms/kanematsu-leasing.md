@@ -1,79 +1,80 @@
 ---
 source: leasing-firms/kanematsu-leasing
-source_hash: e14b38acb838201c
+source_hash: 2e89d10f9dd212be
 lang: en
 status: machine
 fidelity: ok
-title: "Kanematsu Lease"
-translated_at: 2026-05-31T23:59:49.308Z
+title: "Kanematsu Leasing"
+translated_at: 2026-06-15T04:20:20.006Z
 ---
-# Kanematsu Lease
 
-## Wiki Route
+# Kanematsu Leasing
 
-This entry sits under [[leasing-firms/INDEX|leasing-firms INDEX]]. Read it against [[cooperative-banks/ja-mitsui-leasing|JA Mitsui Leasing]] for peer and contrast context, as both are trading-house-linked leasing entities, and against [[banking/INDEX|banking index]] for the broader system and regulatory boundary. Read it with [[leasing-firms/tokyo-century|Tokyo Century]], an Itochu-lineage case, for the broader trading-house x leasing pattern.
+## Wiki route
+
+This entry sits under [[leasing-firms/INDEX|leasing-firms INDEX]]. Read it against [[cooperative-banks/ja-mitsui-leasing|JA三井リース]] for peer / contrast context (both are trading-house-linked leasing entities) and [[banking/INDEX|banking index]] for the broader system / regulatory boundary. Read it with [[leasing-firms/tokyo-century|東京センチュリー]] (Itochu group) for the broader trading-house x leasing pattern.
 
 ## TL;DR
 
-Kanematsu Lease is a mid-sized leasing company that carries the captive / affiliated leasing function for Kanematsu, the former Kanematsu-Gosho and a mid-tier general trading company. Unlike large trading-house x leasing platforms such as the three major leasing groups or SMFL, its center of gravity is capture-oriented / industry-specialized leasing tied to Kanematsu's own business domains, including electronics and devices, food, steel, textiles, and related areas. Although small among trading-house-linked leasing companies, it has a visible role in cross-border deals that use Kanematsu's overseas network in Southeast Asia, China, and the Americas.
+Kanematsu Leasing is a mid-sized leasing company that carries out the captive / affiliated leasing function of Kanematsu (formerly Kanematsu-Gosho, a mid-tier general trading house). Unlike the large-scale trading-house x leasing platforms such as the three major leasing companies or SMFL, it is mainly driven by captive / industry-specialized leasing tied to Kanematsu's own business domains (electronics, devices, food, steel, textiles, etc.). Although small as a trading-house-linked leasing firm, it has a presence in cross-border deals that leverage Kanematsu's overseas network (Southeast Asia, China, the Americas).
 
-## 1. License / Group Boundary
+## 1. License / group boundary
 
 | Item | Notes |
 |---|---|
-| Legal name | Kanematsu Lease Corp. |
-| Listing | Unlisted; held inside the Kanematsu Group structure |
-| Headquarters | Minato-ku, Tokyo, near Kanematsu headquarters |
-| Founded | 1970 年代; established as an in-group leasing company for Kanematsu |
-| Parent / group | Kanematsu Corporation (8020, TSE Prime listing) |
-| License route | No banking license. Money-lending registration is limited to related business scope. The core model is leasing attached to trading-house commercial transactions. |
-| Wiki role | Captive leasing function for the mid-tier trading company Kanematsu. It sits on the smaller-company side of the trading-house leasing peer set: [[leasing-firms/smfl|SMFL]] = Sumitomo Corporation lineage / [[leasing-firms/tokyo-century|Tokyo Century]] = Itochu lineage / [[cooperative-banks/ja-mitsui-leasing|JA Mitsui Leasing]] = Mitsui & Co. lineage. |
+| Legal name | Kanematsu Lease Corp. (兼松リース株式会社) |
+| Listing | Unlisted (within the Kanematsu group holding structure) |
+| Headquarters | Minato-ku, Tokyo (close to Kanematsu's head office) |
+| Founded | The 1970 年s (established as a leasing company within the Kanematsu group) |
+| Parent / group | Kanematsu Corporation (listed on the TSE PRIME 8020, ) |
+| License route | No banking license. Money-lending registration only within the scope of related operations. As a trading-house-linked leasing firm, centered on commerce-incidental leasing |
+| Wiki role | The captive leasing function of a mid-tier trading house (Kanematsu). The small-scale side of the trading-house-linked leasing ([[leasing-firms/smfl|SMFL]] = Sumitomo Corporation group / [[leasing-firms/tokyo-century|東京センチュリー]] = Itochu group / [[cooperative-banks/ja-mitsui-leasing|JA三井リース]] = Mitsui & Co. group) peer set |
 
-## 2. Business Lines
+## 2. Business lines
 
-- **Commercial-transaction-linked leasing**: equipment leasing and transportation-equipment leasing tied to Kanematsu's import / export trading transactions.
-- **Electronic devices / IT equipment leasing**: linked with Kanematsu's electronic devices business units.
-- **Food-related leasing**: facilities and equipment leasing tied to Kanematsu's food businesses, including meat and seafood.
-- **Steel / industrial equipment leasing**: linked with Kanematsu's steel business.
-- **Overseas leasing**: coordination with Kanematsu's overseas bases in Southeast Asia, China, and the Americas.
-- **Environment-related leasing**: renewable-energy equipment and energy-saving facilities.
-- **Real-estate-related leasing**: limited scope.
+- **Commerce-incidental leasing**: equipment leasing and transport-equipment leasing tied to Kanematsu's own import/export commerce
+- **Electronic devices / IT equipment leasing**: linked with Kanematsu's electronic devices business division
+- **Food-related leasing**: equipment leasing related to Kanematsu's food business (meat, marine products, etc.)
+- **Steel / industrial equipment leasing**: linked with Kanematsu's steel business
+- **Overseas leasing**: in coordination with Kanematsu's overseas bases (Southeast Asia, China, the Americas)
+- **Environment-related**: renewable-energy equipment and energy-saving facilities
+- **Real-estate-related leasing**: limited
 
-## 3. Strategy & Competitive Position
+## 3. Strategy & competitive position
 
-Kanematsu Lease is a compact version of the "general trading company x leasing" model. Unlike major trading-house-linked leasing companies such as [[leasing-firms/smfl|SMFL]] = Sumitomo Corporation + SMFG, [[leasing-firms/tokyo-century|Tokyo Century]] = Itochu-lineage history, and [[cooperative-banks/ja-mitsui-leasing|JA Mitsui Leasing]] = Mitsui & Co. lineage, it is not a bank x trading-house joint venture. Its profile is strongly Kanematsu Group captive.
+Kanematsu Leasing is a small-scale version of the "general trading house x leasing" model. Unlike the major trading-house-linked leasing firms ([[leasing-firms/smfl|SMFL]] = Sumitomo Corporation + SMFG, [[leasing-firms/tokyo-century|東京センチュリー]] = the history of the Itochu group, [[cooperative-banks/ja-mitsui-leasing|JA三井リース]] = Mitsui & Co. group), which are bank x trading-house joint ventures, it has a strong standalone captive character within the Kanematsu group.
 
-Its strength is specialization tied to Kanematsu's own business portfolio, including electronics and devices, food, steel, and textiles. Its ability to access cross-border leasing opportunities through the trading company's overseas network, especially Southeast Asia and the Americas, is a differentiating axis for a mid-sized leasing company.
+Its strength is the specialization tied to Kanematsu's own business scope (electronics, devices, food, steel, textiles). Being able to access cross-border leasing deals through coordination with the trading house's overseas network (especially Southeast Asia and the Americas) is its differentiation axis as a mid-sized leasing firm.
 
-By business scale, it does not reach the quasi-major leasing tier, such as [[leasing-firms/fuyo-lease|Fuyo General Lease]], Ricoh Leasing, or NEC Capital Solutions. Even within the independent and mid-sized leasing layer, its internal Kanematsu Group captive character is strong.
+In terms of business scale, it does not reach the second-tier majors ([[leasing-firms/fuyo-lease|芙蓉総合リース]] / Ricoh Leasing / NEC Capital Solutions, etc.), and even among the independent / mid-sized leasing tier, its internal captive character within the Kanematsu group is strong.
 
-In the context of [[finance/japan-acquisition-finance|Japan acquisition finance]], it may play a supporting role in Kanematsu-related business succession and cross-border M&A.
+In the context of [[finance/japan-acquisition-finance|日本アクイジションファイナンス]], it plays a supplementary role in Kanematsu-related business succession / cross-border M&A.
 
-## 4. Why This Page Matters
+## 4. Why this page matters
 
-- Helps explain a smaller version of the classic trading-house x finance pattern through a representative mid-tier trading-house captive leasing company.
-- Provides a contrast point against major trading-house leasing companies: [[leasing-firms/smfl|SMFL]] / [[leasing-firms/tokyo-century|Tokyo Century]] / [[cooperative-banks/ja-mitsui-leasing|JA Mitsui Leasing]].
-- Captures the "industry specialization + overseas channel" strategy pattern within the mid-sized leasing layer.
-- Serves as a supporting node for understanding Kanematsu's business portfolio.
+- As a representative example of mid-tier trading-house-linked captive leasing, it helps understand the small-scale version of the typical trading-house x finance pattern
+- A point of contrast with the major trading-house-linked leasing firms ([[leasing-firms/smfl|SMFL]] / [[leasing-firms/tokyo-century|東京センチュリー]] / [[cooperative-banks/ja-mitsui-leasing|JA三井リース]])
+- A strategic pattern of the "industry specialization + overseas channel" type in the mid-sized leasing tier
+- An auxiliary node for understanding Kanematsu's own business portfolio
 
 ## Related
 
-- [[cooperative-banks/ja-mitsui-leasing|JA Mitsui Leasing]]
+- [[cooperative-banks/ja-mitsui-leasing|JA三井リース]]
 - [[leasing-firms/smfl|SMFL]]
-- [[leasing-firms/tokyo-century|Tokyo Century]]
-- [[leasing-firms/fuyo-lease|Fuyo General Lease]]
+- [[leasing-firms/tokyo-century|東京センチュリー]]
+- [[leasing-firms/fuyo-lease|芙蓉総合リース]]
 - [[leasing-firms/mizuho-lease|Mizuho Leasing]]
-- [[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]]
+- [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]]
 - [[banking/INDEX|banking index]]
-- [[finance/japan-acquisition-finance|Japan acquisition finance]]
+- [[finance/japan-acquisition-finance|日本アクイジションファイナンス]]
 
 ## Sources
 
 - Kanematsu Corporation (8020) corporate site
-- Kanematsu securities report, affiliates list
+- Kanematsu securities report (list of affiliated companies)
 - Japan Leasing Association (JLA) statistics (https://www.leasing.or.jp/)
 
 ---
 
-> [!info] Validation Status
-> confidence: **tentative** (public-information basis as of 2026-05-24). Kanematsu Lease is unlisted and detailed financial disclosure is limited. This entry depends on affiliate information in Kanematsu's securities reports. Organization names and business scope may change over time.
+> [!info] Verification status
+> confidence: **tentative** (based on public information 2026-05-24). Kanematsu Leasing is unlisted and its detailed financial disclosure is limited. It relies on the affiliated-company information in Kanematsu's own securities report. The organization name and business scope may change over time.

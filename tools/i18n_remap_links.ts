@@ -41,6 +41,7 @@ const MANIFEST = flag("manifest", "site/.cache/i18n_stale_manifest.json");
 const ONLY_LANG = flag("lang", "all");
 const LIMIT = Number(flag("limit", "0")) || Infinity;
 const DRY = process.argv.includes("--dry-run");
+const EMIT_DEFERRED = flag("emit-deferred", ""); // write ambiguous-pairing mirrors as a manifest for C-2b
 
 const stripFm = (t: string): string => {
   const m = t.match(/^---\r?\n[\s\S]*?\r?\n---\r?\n/);
@@ -86,6 +87,7 @@ interface Entry {
 
 const skips: Record<string, number> = {};
 const skipSamples: Record<string, string[]> = {};
+const deferred: Array<{ mirror: string; lang: string; source: string; klass: string }> = [];
 function skip(reason: string, mirror: string): void {
   skips[reason] = (skips[reason] ?? 0) + 1;
   const s = (skipSamples[reason] ??= []);
@@ -187,6 +189,7 @@ function main(): void {
     }
     if (ambiguous || remap.size === 0) {
       skip("ambiguous-pairing", entry.mirror);
+      deferred.push({ mirror: entry.mirror, lang: entry.lang, source: entry.source, klass: "ambiguous" });
       continue;
     }
 
@@ -215,6 +218,10 @@ function main(): void {
   for (const [reason, samples] of Object.entries(skipSamples)) {
     if (reason === "already-current") continue;
     console.log(`  ${reason} e.g.: ${samples.join(", ")}`);
+  }
+  if (EMIT_DEFERRED) {
+    writeFileSync(path.join(ROOT, EMIT_DEFERRED), `${JSON.stringify(deferred, null, 2)}\n`, "utf8");
+    console.log(`emitted ${deferred.length} deferred (ambiguous) entries -> ${EMIT_DEFERRED}`);
   }
   if (!DRY) console.log(`\nUn-remapped mirrors (non-wikilink/ambiguous/post-verify) remain stale for Batch C-2b retranslation.`);
 }

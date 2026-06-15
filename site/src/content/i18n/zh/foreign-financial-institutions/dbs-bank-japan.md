@@ -1,56 +1,55 @@
 ---
 source: foreign-financial-institutions/dbs-bank-japan
-source_hash: 6f59ee08cc7e471a
+source_hash: ad887255783b11c5
 lang: zh
 status: machine
 fidelity: ok
-title: "DBS 银行东京支店"
-translated_at: 2026-05-31T15:29:03.917Z
+title: "星展银行 东京支店"
+translated_at: 2026-06-15T04:20:20.011Z
 ---
 
-# DBS 银行东京支店
-
+# 星展银行 东京支店
 
 ## Wiki 路径
 
-本条目位于 [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]]。可与 [[banking/INDEX|银行索引]] 和 [[financial-licenses/INDEX|金融牌照索引]] 配套阅读。
+本词条归属于 [[foreign-financial-institutions/INDEX|foreign-financial-institutions INDEX]]。请结合 [[banking/INDEX|banking index]] 以了解相邻背景，并结合 [[financial-licenses/INDEX|JapanFG index]] 以了解更广泛的系统边界。
 
 ## TL;DR
 
-DBS 银行东京支店是 FSA 外国银行支店列表中的在日银行分支，母行为新加坡 DBS Bank Limited。该支店 1977 年开始营业，是亚洲 wholesale branch；在日本主要处理企业与机构银行业务，而不是面向个人的日本零售银行业务。
+星展银行东京支店是新加坡 / DBS Bank Limited 在日本的银行支店，列于金融厅的外国银行支店名单。它是 1977 年 开始营业的亚洲批发业务支店（Asia wholesale branch），DBS Japan 主要经营企业 / 机构银行业务（corporate / institutional banking），而非面向个人的日本零售业务。
 
-## 1. 牌照与支店边界
+## 1. 牌照 / 支店边界
 
-| 项目 | 内容 |
+| Item | Notes |
 |---|---|
-| FSA 登记名称 | DBS 银行 |
+| FSA listed name | ＤＢＳ銀行 |
 | Legal / branch name | DBS Bank Limited Tokyo Branch |
-| 牌照路径 | 《银行法》下的外国银行支店；载于 FSA 银行牌照列表 |
-| 母国司法辖区 | 新加坡 |
-| 母公司 / 集团 | DBS Bank Limited / DBS Group |
-| 日本支店边界 | 银行支店；与 DBS Securities Japan 分开 |
-| Wiki 角色 | 新加坡系 wholesale bank branch 在日本的锚点 |
+| License route | Banking Act foreign bank branch; FSA bank license list |
+| Home jurisdiction | Singapore |
+| Parent / group | DBS Bank Limited / DBS Group |
+| Japan branch boundary | Banking branch; separate from DBS Securities Japan |
+| Wiki role | Singapore-based wholesale bank branch anchor in Japan |
 
-## 2. 运营模型
+## 2. 运营模式
 
-DBS Japan 官方东京支店页面列示营业开始日为 1977-04-21、日本银行协会会员资格以及大手町办公室。页面明确说明 DBS Bank Tokyo Branch 在日本不办理个人客户业务，因此该支店是 wholesale / institutional presence，而非零售银行。
+DBS Japan 的官方东京支店页面列出了营业开始日期为 1977-04-21、JBA 会员资格以及大手町（Otemachi）办公室。该页面明确指出，DBS Bank 东京支店在日本不办理个人客户业务，这使得该支店成为批发 / 机构性的存在，而非零售银行。
 
-其实务角色是连接日本、新加坡与亚洲：企业银行、机构关系、跨境财资、汇款 / 交易服务，以及通过 DBS 亚洲网络支持集团客户。
+其实际职能是日本—新加坡 / 亚洲的连通：企业银行业务、机构关系、跨境资金管理、汇款 / 交易服务，以及通过 DBS 的亚洲网络提供集团客户支持。
 
-## 3. 为什么需要单独页面
+## 3. 本页为何重要
 
-- 将新加坡主要银行支店纳入外国银行 P0 集合。
-- 区分 DBS Bank Tokyo Branch 与 DBS Securities Japan。
-- 为 [[foreign-financial-institutions/ocbc-bank-japan]] 和 [[foreign-financial-institutions/uob-bank-japan]] 提供东南亚同业参照。
+- 为外国银行 P0 集（子集）增添了一家主要的新加坡银行支店。
+- 将 DBS Bank 东京支店与 DBS Securities Japan 区分开来。
+- 为 [[foreign-financial-institutions/ocbc-bank-japan]] 和 [[foreign-financial-institutions/uob-bank-japan]] 提供了一个东南亚同业对照。
 
-## Related
+## 相关
 
 - [[foreign-financial-institutions/ocbc-bank-japan]]
 - [[foreign-financial-institutions/uob-bank-japan]]
 - [[banking/foreign-bank-japan-retreat]]
 - [[banking/INDEX]]
 
-## Sources
+## 来源
 
-- FSA 银行牌照列表：外国银行支店，截至 2026-05-13。
-- DBS Japan：DBS Bank Tokyo Branch profile。
+- FSA：银行牌照名单、外国银行支店，截至 2026-05-13。
+- DBS Japan：DBS Bank 东京支店简介。

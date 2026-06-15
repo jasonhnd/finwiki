@@ -1,24 +1,24 @@
 ---
 source: non-life-insurers/ntt-docomo-sonpo
-source_hash: 2605464bb1e58320
+source_hash: 3cf4189714203ebc
 lang: en
 status: machine
 fidelity: ok
-title: "NTT DOCOMO General Insurance"
-translated_at: 2026-06-01T00:41:50.413Z
+title: "NTTドコモ損害保険"
+translated_at: 2026-06-15T04:20:20.007Z
 ---
 
-# NTT DOCOMO General Insurance
+# NTTドコモ損害保険
 
 ## Wiki route
 
-This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read it with [[non-life-insurers/ntt-docomo-sompo-hd|NTT DOCOMO Non-Life Insurance Holdings]], [[non-life-insurers/sompo|SOMPO]], [[non-life-insurers/sompo-japan-insurance|Sompo Japan Insurance]], [[non-life-insurers/yamap-naturance-insurance|YAMAP Naturance General Insurance]], and [[insurance/INDEX|insurance index]].
+This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read it with [[non-life-insurers/ntt-docomo-sompo-hd|NTTドコモ損害保険ホールディングス]], [[non-life-insurers/sompo|SOMPO]], [[non-life-insurers/sompo-japan-insurance|損害保険ジャパン]], [[non-life-insurers/yamap-naturance-insurance|ヤマップネイチャランス損害保険]], and [[insurance/INDEX|insurance index]].
 
-Use this page for the licensed operating company. Use [[non-life-insurers/ntt-docomo-sompo-hd|NTT DOCOMO Non-Life Insurance Holdings]] for the holding-company authorization route.
+Use this page for the licensed operating company. Use [[non-life-insurers/ntt-docomo-sompo-hd|NTTドコモ損害保険ホールディングス]] for the holding-company authorization route.
 
 ## Overview
 
-NTT DOCOMO General Insurance, Inc. is an FSA-listed non-life insurer under NTT DOCOMO General Insurance Holdings, Inc. The official company profile states that it was established on 2024-04-01 as a preparation company and is headquartered in Nago, Okinawa.
+株式会社NTTドコモ損害保険 is a FSA-listed non-life insurer under 株式会社NTTドコモ損害保険ホールディングス. The official company profile states that it was established on 2024-04-01 as a preparation company and is headquartered in Nago, Okinawa.
 
 The company matters because it makes the NTT Docomo insurance route more concrete: the holding company is not only a regulatory shell, and the operating insurer is tied to non-life / reinsurance business around device and smart-life protection services.
 
@@ -26,23 +26,23 @@ The company matters because it makes the NTT Docomo insurance route more concret
 
 | Item | Notes |
 |---|---|
-| Legal name | NTT DOCOMO General Insurance, Inc. |
+| Legal name | 株式会社NTTドコモ損害保険 |
 | English name | NTT DOCOMO General Insurance, Inc. |
 | License route | Insurance Business Act non-life insurance company; FSA non-life insurer list |
-| Shareholder | [[non-life-insurers/ntt-docomo-sompo-hd|NTT DOCOMO Non-Life Insurance Holdings]] |
+| Shareholder | [[non-life-insurers/ntt-docomo-sompo-hd|NTTドコモ損害保険ホールディングス]] |
 | Parent / strategic context | NTT Docomo and SOMPO insurance / reinsurance adjacency |
 | Wiki role | Telco-linked non-life operating-company page |
 
 ## 2. Operating model
 
-The 2023 NTT Docomo announcement described the planned company as a reinsurance business connected to mobile-device compensation services such as Mobile Phone Protection Service and smart Anshin Protection. That makes it different from a broad consumer direct insurer such as [[non-life-insurers/sony-insurance|Sony Insurance]] or [[non-life-insurers/sompo-direct|SOMPO Direct]].
+The 2023 NTT Docomo announcement described the planned company as a reinsurance business connected to mobile-device compensation services such as ケータイ補償サービス and smartあんしん補償. That makes it different from a broad consumer direct insurer such as [[non-life-insurers/sony-insurance|Sony Insurance]] or [[non-life-insurers/sompo-direct|SOMPO Direct]].
 
 For FinWiki, the operating-company page clarifies the chain:
 
 ```
 NTT Docomo / SOMPO strategic context
-  -> [[non-life-insurers/ntt-docomo-sompo-hd|NTT DOCOMO Non-Life Insurance Holdings]]
-     -> NTT DOCOMO General Insurance
+  -> [[non-life-insurers/ntt-docomo-sompo-hd|NTTドコモ損害保険ホールディングス]]
+     -> NTTドコモ損害保険
         -> non-life / reinsurance route around device and protection-service risk
 ```
 
@@ -55,7 +55,7 @@ NTT Docomo / SOMPO strategic context
 
 ## 4. Boundary notes
 
-Keep this page separate from [[non-life-insurers/ntt-docomo-sompo-hd|NTT DOCOMO Non-Life Insurance Holdings]]. The holding company is the authorization / capital-control route; this page is the licensed operating insurer.
+Keep this page separate from [[non-life-insurers/ntt-docomo-sompo-hd|NTTドコモ損害保険ホールディングス]]. The holding company is the authorization / capital-control route; this page is the licensed operating insurer.
 
 Also keep it separate from [[non-life-insurers/sompo|SOMPO]] and [[non-life-insurers/sompo-japan-insurance|Sompo Japan]]. The strategic relationship matters, but the operating boundary is not the same as SOMPO's core non-life carrier.
 
@@ -72,5 +72,5 @@ Also keep it separate from [[non-life-insurers/sompo|SOMPO]] and [[non-life-insu
 ## Sources
 
 - FSA: non-life insurance company license list, as of 2026-04-01.
-- NTT DOCOMO General Insurance: official company profile.
+- NTTドコモ損害保険: official company profile.
 - NTT Docomo: 2023-10-06 announcement on establishing the reinsurance business company.

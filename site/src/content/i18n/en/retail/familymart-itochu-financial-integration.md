@@ -1,11 +1,11 @@
 ---
 source: retail/familymart-itochu-financial-integration
-source_hash: c9a56e1d086e8a83
+source_hash: 3460451f83b3f4a1
 lang: en
 status: machine
 fidelity: ok
 title: "FamilyMart + Itochu financial integration — post-2020 take-private, FamiPay, Itochu Money, Yamada Cycle"
-translated_at: 2026-06-01T03:31:12.332Z
+translated_at: 2026-06-15T04:20:20.013Z
 ---
 
 # FamilyMart + Itochu financial integration — post-2020 take-private, FamiPay, Itochu Money, Yamada Cycle
@@ -16,17 +16,17 @@ This entry sits under [[retail/INDEX|retail index]] as the **third major CVS-fin
 
 ## TL;DR
 
-**FamilyMart** was take-privated by **[[financial-conglomerates/itochu-corp|Itochu Corporation]]** in a joint TOB completed in **November 2020**, with Itochu acquiring approximately 50% directly (plus co-investor structures) and delisting FamilyMart from the Tokyo Stock Exchange. The financial-services arm restructured around the **FamiPay** mobile wallet (a third-party prepaid payment instrument under the Payment Services Act) and the **FamiPay Card** credit-card co-brand line. The Itochu group's broader **Itochu Money** consumer-finance initiative — including consumer-credit and small-loan integration — and the **Yamada Cycle** household-finance cross-sell (via Itochu's Yamada Holdings investment relationship) form the cross-group consumer-finance perimeter around FamilyMart. The structural contrast with the **2024 Lawson + KDDI + Mitsubishi Corp 50/50 JV** is that FamilyMart has **no telco anchor**: Itochu owns FamilyMart without a co-controlling telco shareholder, which means **FamiPay is the proprietary wallet rather than a tie-up to au PAY**, and the loyalty layer relies on a **multi-acceptance pattern** (d Point, Rakuten Points, historically T Point / V Point, now V Point post-2024 merger) rather than a single-alliance partner like Ponta. The contrast with **[[retail/seven-i-holdings-finance-deep-dive|Seven & i Holdings]]** is that FamilyMart has no ATM-bank subsidiary equivalent to Seven Bank, and its finance arm is **wallet-and-card-led** rather than ATM-led. The contrast with **[[retail/aeon-group|AEON Group]]** is that FamilyMart has no captive bank, no large consumer-finance subsidiary in Asia, and a much narrower finance footprint overall.
+**FamilyMart** was take-privated by **[[financial-conglomerates/itochu-corp|Itochu Corporation]]** in a joint TOB completed in **November 2020**, with Itochu acquiring approximately 50% directly (plus co-investor structures) and delisting FamilyMart from the Tokyo Stock Exchange. The financial-services arm restructured around the **FamiPay** mobile wallet (a 第三者型前払式支払手段 prepaid e-money under 資金決済法) and the **FamiPay Card** credit-card co-brand line. The Itochu group's broader **Itochu Money** consumer-finance initiative — including consumer-credit and small-loan integration — and the **Yamada Cycle** household-finance cross-sell (via Itochu's Yamada Holdings investment relationship) form the cross-group consumer-finance perimeter around FamilyMart. The structural contrast with the **2024 Lawson + KDDI + Mitsubishi Corp 50/50 JV** is that FamilyMart has **no telco anchor**: Itochu owns FamilyMart without a co-controlling telco shareholder, which means **FamiPay is the proprietary wallet rather than a tie-up to au PAY**, and the loyalty layer relies on a **multi-acceptance pattern** (dポイント, Rakuten Points, historically Tポイント / V Point, now V Point post-2024 merger) rather than a single-alliance partner like Ponta. The contrast with **[[retail/seven-i-holdings-finance-deep-dive|Seven & i Holdings]]** is that FamilyMart has no ATM-bank subsidiary equivalent to Seven Bank, and its finance arm is **wallet-and-card-led** rather than ATM-led. The contrast with **[[retail/aeon-group|AEON Group]]** is that FamilyMart has no captive bank, no large consumer-finance subsidiary in Asia, and a much narrower finance footprint overall.
 
 ## Take-private mechanics (November 2020)
 
 | Item | Detail |
 |---|---|
-| Acquirer | **[[financial-conglomerates/itochu-corp|Itochu Corporation]]** — already a long-standing major shareholder pre-deal |
-| Vehicle | Joint tender offer (TOB) led by Itochu, with co-investor structures (Itochu-led SPV plus group-affiliated co-investors) |
+| Acquirer | **[[financial-conglomerates/itochu-corp|伊藤忠商事株式会社 (Itochu Corporation)]]** — already a long-standing major shareholder pre-deal |
+| Vehicle | Joint tender offer (公開買付け / TOB) led by Itochu, with co-investor structures (Itochu-led SPV plus group-affiliated co-investors) |
 | Pre-deal Itochu stake | ~50% (Itochu had been a controlling shareholder since the 2018 announcement of FamilyMart-UNY merger and subsequent reorganizations) |
 | TOB completion date | **November 2020** |
-| Delisting | FamilyMart delisted from the Tokyo Stock Exchange First Section in 2020-11 |
+| Delisting | FamilyMart delisted from 東証 一部 in 2020-11 |
 | Post-private ownership | Itochu Corporation as anchor (~50%+) plus co-investors |
 | Key historical context | FamilyMart had previously absorbed UNY (UNY Holdings → Don Quijote Holdings / [[retail/INDEX|retail INDEX]] structure), so the take-private also affected the parent-subsidiary relationship with the Don Quijote / UNY business line |
 | Listing-era ticker | 8028 (delisted) |
@@ -39,15 +39,15 @@ The strategic rationale for Itochu was **direct control of the CVS retail channe
 
 | Item | Detail |
 |---|---|
-| Operator | FamilyMart Digital One Corporation — a FamilyMart subsidiary |
-| Registration | Third-party prepaid payment instrument under the Payment Services Act / FSA |
+| Operator | 株式会社ファミマデジタルワン (FamilyMart Digital One Corporation) — a FamilyMart subsidiary |
+| Registration | 第三者型前払式支払手段 (third-party prepaid payment instrument) under 資金決済法 / FSA |
 | Funding | Cash charge at FamilyMart register, bank-account charge, credit-card charge, FamiPay Card auto-charge |
 | Acceptance | FamilyMart stores (primary) + external merchant network (expanding) |
-| Loyalty | **FamiPay Bonus** points accrued on FamiPay payment; bonus campaigns common |
+| Loyalty | **FamiPay ボーナス** points accrued on FamiPay payment; bonus campaigns common |
 | Bill payment | Public utility, tax, and government-payment acceptance at FamilyMart register via FamiPay |
 | Integration | FamiPay app integrates with FamilyMart loyalty points, online order pickup, lottery, and merchant promotions |
 
-FamiPay is the **wallet-layer equivalent of [[loyalty/d-point-detailed-ecosystem|d Payment]], [[loyalty/au-pay-loyalty-ecosystem-deep|au PAY]], Rakuten Pay, and PayPay** for FamilyMart's group ecosystem. Strategically, it sits **between a closed-loop e-money** (like nanaco / WAON) and **an open code-payment wallet** (like PayPay) — its acceptance is centered on FamilyMart but extends into bill-payment and an expanding external-merchant network.
+FamiPay is the **wallet-layer equivalent of [[loyalty/d-point-detailed-ecosystem|d払い]], [[loyalty/au-pay-loyalty-ecosystem-deep|au PAY]], 楽天ペイ, and PayPay** for FamilyMart's group ecosystem. Strategically, it sits **between a closed-loop e-money** (like nanaco / WAON) and **an open code-payment wallet** (like PayPay) — its acceptance is centered on FamilyMart but extends into bill-payment and an expanding external-merchant network.
 
 ## FamiPay Card — the credit-card co-brand
 
@@ -57,7 +57,7 @@ FamiPay is the **wallet-layer equivalent of [[loyalty/d-point-detailed-ecosystem
 |---|---|
 | Issuer | Co-brand credit card (issued under FamilyMart Digital One brand with partner credit-card-issuing company) |
 | International brand | JCB / Mastercard variants |
-| Accrual | FamiPay Bonus + JCB / Mastercard partner-merchant accrual |
+| Accrual | FamiPay ボーナス + JCB / Mastercard partner-merchant accrual |
 | Auto-charge | Auto-charges FamiPay balance, providing a "credit-card → prepaid → POS" rail |
 | Annual fee | Tiered (entry-tier with conditional waivers, gold-tier with annual fee) |
 
@@ -69,7 +69,7 @@ The **Itochu Money** consumer-finance theme refers to the Itochu group's broader
 
 | Itochu-side consumer-finance asset | Role |
 |---|---|
-| **[[trading-company-finance/itochu-finance|Itochu Finance]]** | Itochu's captive finance-and-lease subsidiary, with consumer-side products |
+| **[[trading-company-finance/itochu-finance|Itochu Finance (伊藤忠ファイナンス)]]** | Itochu's captive finance-and-lease subsidiary, with consumer-side products |
 | **OG Capital / various consumer-finance investments** | Itochu portfolio of consumer-credit-adjacent businesses |
 | **Yamada Holdings investment** | Itochu's strategic stake in Yamada Holdings (the parent of [[JapanFG/yamada-financial-services|Yamada Financial Services]] / Yamada Cycle home-electronics-anchored retail-finance group) provides cross-channel home-electronics finance distribution |
 | **Don Quijote / PPIH relationship** | Historical UNY transfer relationship; cross-group consumer-data implications |
@@ -99,10 +99,10 @@ The Itochu group's strategic frame is **"daily-frequency × big-ticket cross-cha
 | Telco anchor | **None** | KDDI (au) | None |
 | Captive ATM bank | None | [[regional-banks/lawson-bank|Lawson Bank]] (small) | [[regional-banks/seven-bank|Seven Bank]] (PRIME 8410, large) |
 | Captive credit card | FamiPay Card (co-brand) | au PAY Card (KDDI-side distribution) | Seven Card / Seven Card Plus |
-| Captive prepaid e-money | **FamiPay** (proprietary) | None proprietary; relies on transit IC + Ponta Points | nanaco (closed loop) |
+| Captive prepaid e-money | **FamiPay** (proprietary) | None proprietary; relies on transit IC + Pontaポイント | nanaco (closed loop) |
 | Captive QR-payment wallet | **FamiPay app** (proprietary, expanding external) | None proprietary; au PAY distributed via Lawson | None proprietary; multi-wallet acceptance at POS |
-| Anchor common point | Multi-acceptance (d Point, Rakuten Points, V Point, etc.) | **Ponta Points** (anchor, single-alliance) | nanaco point (closed loop) |
-| Loyalty model | Multi-acceptance + proprietary FamiPay Bonus | Single-alliance Ponta + KDDI au PAY Points | Closed-loop nanaco point |
+| Anchor common point | Multi-acceptance (dポイント, Rakuten Points, V Point, etc.) | **Pontaポイント** (anchor, single-alliance) | nanaco point (closed loop) |
+| Loyalty model | Multi-acceptance + proprietary FamiPay ボーナス | Single-alliance Ponta + KDDI au PAY ポイント | Closed-loop nanaco point |
 | Consumer-finance cross-leverage | Itochu group (Yamada, Itochu Finance, etc.) | KDDI au stack ([[megabanks/au-fh|au Financial Holdings]]) + Mitsubishi Corp food / supply chain | Internal (7&iHD) + York Holdings post-2024 carve-out |
 | Strategic frame | "CVS × Trading House × FamiPay wallet" | "CVS × Telco × Trading House" | "CVS × ATM Bank × Global CVS" |
 
