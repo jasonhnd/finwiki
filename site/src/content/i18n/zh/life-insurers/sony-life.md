@@ -1,6 +1,6 @@
 ---
 source: life-insurers/sony-life
-source_hash: 68e0df74f64ad7ed
+source_hash: 43021b2f0b4cab1a
 lang: zh
 status: machine
 fidelity: ok
@@ -29,7 +29,7 @@ translated_at: 2026-06-01T02:31:57.168Z
 
 ## 2. Operating model
 
-索尼生命强烈突出 consultative / planner-led life-insurance distribution。在 JapanFG 中，为了分别追踪 [[regional-banks/sony-bank]] 的 internet-bank model、Sony group 的金融重组，以及保险、银行、损保之间的 cross-sell surface，本页与 [[megabanks/sony-fg]] 分开。
+索尼生命强烈突出 consultative / planner-led life-insurance distribution。在 JapanFG 中，为了分别追踪 [[banking/sony-bank]] 的 internet-bank model、Sony group 的金融重组，以及保险、银行、损保之间的 cross-sell surface，本页与 [[megabanks/sony-fg]] 分开。
 
 在同业比较中，将其与 traditional mutual insurers、[[life-insurers/dai-ichi-life]] 的 stock-company insurer model、[[life-insurers/lifenet]] 的 online-direct model、[[life-insurers/rakuten-life]] 的 ecosystem model 并列，可以更清楚地定位。
 
@@ -42,7 +42,7 @@ translated_at: 2026-06-01T02:31:57.168Z
 ## Related
 
 - [[megabanks/sony-fg]]
-- [[regional-banks/sony-bank]]
+- [[banking/sony-bank]]
 - [[life-insurers/lifenet]]
 - [[life-insurers/rakuten-life]]
 - [[insurance/life-insurance-channel-mix]]

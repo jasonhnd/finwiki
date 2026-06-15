@@ -1,6 +1,6 @@
 ---
 source: regional-banks/kiraboshi-bank
-source_hash: d8bc5428cb3535ef
+source_hash: f240787ded5e6811
 lang: ja
 status: machine
 fidelity: ok
@@ -34,13 +34,13 @@ translated_at: 2026-06-02T14:54:39.057Z
 ## 3. このページが重要な理由
 
 - [[regional-banks/kiraboshi-fg]] から銀行の正式名称ベースの基準点を切り出す。
-- [[regional-banks/ui-bank]] および東京きらぼしグループ各ページとの親子関係を明確にする。
+- [[banking/ui-bank]] および東京きらぼしグループ各ページとの親子関係を明確にする。
 - [[regional-banks/tokyo-star-bank]] や東京都市圏の地域銀行カバレッジとの比較に有用。
 
 ## 関連項目
 
 - [[regional-banks/kiraboshi-fg]]
-- [[regional-banks/ui-bank]]
+- [[banking/ui-bank]]
 - [[regional-banks/tokyo-star-bank]]
 - [[banking/INDEX]]
 

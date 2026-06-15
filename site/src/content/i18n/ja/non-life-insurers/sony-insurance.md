@@ -1,6 +1,6 @@
 ---
 source: non-life-insurers/sony-insurance
-source_hash: 893562b91cc60970
+source_hash: 9b9c34fd897573d7
 lang: ja
 status: machine
 fidelity: ok
@@ -31,7 +31,7 @@ translated_at: 2026-06-02T15:14:17.105Z
 
 ## 2. 運営モデル
 
-ソニー損保は、代理店主体の大手損保とは異なり、ダイレクトチャネル、コールセンター、Web / アプリ見積もり、ダイレクト自動車保険ブランドを軸に成長した保険会社。[[life-insurers/sony-life]] and [[regional-banks/sony-bank]] と合わせて、Sony Financial Group の consumer finance / insurance ecosystem を構成する。
+ソニー損保は、代理店主体の大手損保とは異なり、ダイレクトチャネル、コールセンター、Web / アプリ見積もり、ダイレクト自動車保険ブランドを軸に成長した保険会社。[[life-insurers/sony-life]] and [[banking/sony-bank]] と合わせて、Sony Financial Group の consumer finance / insurance ecosystem を構成する。
 
 ## 3. この項目が存在する理由
 
@@ -43,7 +43,7 @@ translated_at: 2026-06-02T15:14:17.105Z
 
 - [[megabanks/sony-fg]]
 - [[life-insurers/sony-life]]
-- [[regional-banks/sony-bank]]
+- [[banking/sony-bank]]
 - [[insurance/saison-automobile-fire]]
 - [[insurance/INDEX]]
 

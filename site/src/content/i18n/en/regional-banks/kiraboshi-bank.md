@@ -1,6 +1,6 @@
 ---
 source: regional-banks/kiraboshi-bank
-source_hash: d8bc5428cb3535ef
+source_hash: f240787ded5e6811
 lang: en
 status: machine
 fidelity: ok
@@ -34,13 +34,13 @@ Kiraboshi Bank is a regional bank centered on Tokyo and the wider metropolitan a
 ## 3. Why This Page Matters
 
 - Splits the bank exact-name anchor from [[regional-banks/kiraboshi-fg]].
-- Provides a clean parent-child relationship with [[regional-banks/ui-bank]] and Tokyo Kiraboshi group pages.
+- Provides a clean parent-child relationship with [[banking/ui-bank]] and Tokyo Kiraboshi group pages.
 - Useful peer for [[regional-banks/tokyo-star-bank]] and Tokyo metropolitan regional-bank coverage.
 
 ## Related
 
 - [[regional-banks/kiraboshi-fg]]
-- [[regional-banks/ui-bank]]
+- [[banking/ui-bank]]
 - [[regional-banks/tokyo-star-bank]]
 - [[banking/INDEX]]
 

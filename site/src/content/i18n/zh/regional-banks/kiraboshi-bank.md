@@ -1,6 +1,6 @@
 ---
 source: regional-banks/kiraboshi-bank
-source_hash: d8bc5428cb3535ef
+source_hash: f240787ded5e6811
 lang: zh
 status: machine
 fidelity: ok
@@ -34,13 +34,13 @@ Kiraboshi银行是以东京都内和首都圈为中心，承担 SME finance、re
 ## 3. 本页为何重要
 
 - 将银行精确名称 anchor 与 [[regional-banks/kiraboshi-fg]] 分离。
-- 与 [[regional-banks/ui-bank]] 及 Tokyo Kiraboshi 集团页面建立清晰的母子关系。
+- 与 [[banking/ui-bank]] 及 Tokyo Kiraboshi 集团页面建立清晰的母子关系。
 - 对 [[regional-banks/tokyo-star-bank]] 以及东京都市圈地方银行覆盖具有同业参考价值。
 
 ## Related
 
 - [[regional-banks/kiraboshi-fg]]
-- [[regional-banks/ui-bank]]
+- [[banking/ui-bank]]
 - [[regional-banks/tokyo-star-bank]]
 - [[banking/INDEX]]
 

@@ -1,6 +1,6 @@
 ---
 source: non-life-insurers/sony-insurance
-source_hash: 893562b91cc60970
+source_hash: 9b9c34fd897573d7
 lang: en
 status: machine
 fidelity: ok
@@ -29,7 +29,7 @@ Sony Assurance Inc. is the direct non-life insurance operating company of the [[
 
 ## 2. Operating model
 
-Sony Assurance is an insurer built around direct channels, call centers, web / app quotation, and direct auto insurance branding, unlike the large agency-led non-life insurers. Together with [[life-insurers/sony-life]] and [[regional-banks/sony-bank]], it forms Sony Financial Group's consumer finance / insurance ecosystem.
+Sony Assurance is an insurer built around direct channels, call centers, web / app quotation, and direct auto insurance branding, unlike the large agency-led non-life insurers. Together with [[life-insurers/sony-life]] and [[banking/sony-bank]], it forms Sony Financial Group's consumer finance / insurance ecosystem.
 
 ## 3. Why this page matters
 
@@ -41,7 +41,7 @@ Sony Assurance is an insurer built around direct channels, call centers, web / a
 
 - [[megabanks/sony-fg]]
 - [[life-insurers/sony-life]]
-- [[regional-banks/sony-bank]]
+- [[banking/sony-bank]]
 - [[insurance/saison-automobile-fire]]
 - [[insurance/INDEX]]
 
