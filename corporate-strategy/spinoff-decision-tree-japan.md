@@ -25,14 +25,14 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[corporate-strategy/INDEX|corporate-strategy INDEX]] and routes into [[finance/INDEX|finance INDEX]] for transaction context. Read with [[corporate-strategy/partial-spinoff-tax-deferral|partial spinoff tax deferral]] for the partial-spinoff regime detail, [[corporate-strategy/japan-kaisha-bunkatsu-tax-regime|会社分割 tax regime]] for the underlying split mechanics, [[corporate-strategy/kabushiki-koufu-stock-distribution-regime|株式交付 regime]] for the acquisition-side parallel, and [[business/sony-fg-partial-spinoff-case|Sony FG partial spinoff case]] / [[business/softbank-vision-fund-arm-ipo-template|Arm IPO template]] for live case applications.
+This entry sits under [[corporate-strategy/INDEX|corporate-strategy INDEX]] and routes into [[finance/INDEX|finance INDEX]] for transaction context. Read with [[corporate-strategy/japan-kabushiki-bunpai-spinoff-regime|partial spinoff tax deferral]] for the partial-spinoff regime detail, [[corporate-strategy/japan-kaisha-bunkatsu-tax-regime|会社分割 tax regime]] for the underlying split mechanics, [[corporate-strategy/kabushiki-koufu-stock-distribution-regime|株式交付 regime]] for the acquisition-side parallel, and [[business/sony-fg-partial-spinoff-case|Sony FG partial spinoff case]] / [[business/softbank-vision-fund-arm-ipo-template|Arm IPO template]] for live case applications.
 
 ## TL;DR
 
 A Japanese parent company seeking to separate or partially divest a subsidiary faces a layered option set with very different tax, control, and shareholder-experience profiles. The five live paths in current Japanese practice:
 
 1. **株式分配 — full spinoff (kabushiki bunpai, 100% distribution, 0% retained)** — tax-deferred under qualified-spinoff regime; parent walks away entirely
-2. **パーシャルスピンオフ — partial spinoff (株式分配 with up to ~20% parent retention)** — tax-deferred under [[corporate-strategy/partial-spinoff-tax-deferral|2023 regime]]; parent retains brand/cooperation
+2. **パーシャルスピンオフ — partial spinoff (株式分配 with up to ~20% parent retention)** — tax-deferred under [[corporate-strategy/japan-kabushiki-bunpai-spinoff-regime|2023 regime]]; parent retains brand/cooperation
 3. **IPO partial sell-down** — taxable gain on sold portion; parent retains majority; flexible future sell-down
 4. **TOB take-private then re-IPO** — multi-step path that delays separation while reshaping the entity (see [[business/toshiba-tob-squeeze-out-2023-2024-case|Toshiba TOB case]])
 5. **株式譲渡 outright cash sale** — full divestiture; taxable gain; clean exit
@@ -218,7 +218,7 @@ The choice depends on how much of the standalone value depends on parent-subsidi
 ## Related
 
 - [[corporate-strategy/INDEX|corporate-strategy INDEX]]
-- [[corporate-strategy/partial-spinoff-tax-deferral|partial spinoff tax deferral regime]]
+- [[corporate-strategy/japan-kabushiki-bunpai-spinoff-regime|partial spinoff tax deferral regime]]
 - [[corporate-strategy/japan-kaisha-bunkatsu-tax-regime|会社分割 tax regime]]
 - [[corporate-strategy/kabushiki-koufu-stock-distribution-regime|株式交付 regime]]
 - [[business/sony-fg-partial-spinoff-case|Sony FG partial spinoff case]]

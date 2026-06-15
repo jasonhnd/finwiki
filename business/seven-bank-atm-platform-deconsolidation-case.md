@@ -75,7 +75,7 @@ Crossing below ~40% with the buyback structure is what flips the accounting from
 | Route | Mechanism | Tax / accounting | Example |
 |---|---|---|---|
 | **Buyback-driven deconsolidation** (this case) | Subsidiary buys back shares; parent falls below consolidation threshold | Moves to equity method; cash returned via buyback | Seven Bank ← Seven & i 2025 |
-| **Partial spinoff (株式分配)** | In-kind distribution of shares to parent shareholders, sub-20% retained | Tax-deferred under the [[corporate-strategy/partial-spinoff-tax-deferral|partial-spinoff regime]] | [[business/sony-fg-partial-spinoff-case|Sony FG]] |
+| **Partial spinoff (株式分配)** | In-kind distribution of shares to parent shareholders, sub-20% retained | Tax-deferred under the [[corporate-strategy/japan-kabushiki-bunpai-spinoff-regime|partial-spinoff regime]] | [[business/sony-fg-partial-spinoff-case|Sony FG]] |
 | **IPO sell-down** | List the subsidiary and sell a tranche | Capital gain on the sold portion; cash to parent | [[banking/rakuten-bank|Rakuten Bank]] 2023 — see [[business/rakuten-group-mobile-finance-bundling-case|Rakuten case]] |
 
 Seven & i chose deconsolidation-via-buyback for Seven Bank rather than a spinoff or fresh IPO (Seven Bank was already listed). The choice reflects an *already-public* subsidiary where the goal was **portfolio simplification and balance-sheet removal**, not value crystallisation through a new listing.
@@ -138,7 +138,7 @@ For **Seven Bank**:
 - [[retail/familymart-itochu-financial-integration|FamilyMart × Itochu financial integration]]
 - [[payments/nanaco-prepaid-seven-i|nanaco prepaid]]
 - [[payments/cashless-jp-landscape|Japan cashless payment landscape]]
-- [[corporate-strategy/partial-spinoff-tax-deferral|partial spinoff tax deferral]]
+- [[corporate-strategy/japan-kabushiki-bunpai-spinoff-regime|partial spinoff tax deferral]]
 - [[retail/INDEX|retail INDEX]]
 - [[INDEX|FinWiki index]]
 

@@ -32,7 +32,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[money-market/INDEX|money-market index]]. Read it against [[money-market/jgb-repo-market-japan|JGB repo market in Japan]] for the market-level overview it drills into, [[money-market/japan-uncollateralized-vs-collateralized-call-market|uncollateralized vs collateralized call market]] for the secured-vs-unsecured boundary, and route securities-lending overlap to [[securities/japan-stock-lending-market-route|the stock-lending market route]]. The clearing layer is [[securities/japan-securities-clearing-corp|JSCC]].
+This entry sits under [[money-market/INDEX|money-market index]]. Read it against [[money-market/jgb-repo-market-japan|JGB repo market in Japan]] for the market-level overview it drills into, [[money-market/call-market-structure|uncollateralized vs collateralized call market]] for the secured-vs-unsecured boundary, and route securities-lending overlap to [[securities/japan-stock-lending-market-route|the stock-lending market route]]. The clearing layer is [[securities/japan-securities-clearing-corp|JSCC]].
 
 ## TL;DR
 
@@ -112,7 +112,7 @@ Reading stress therefore requires checking *which axis* moved: a GC-wide funding
 ## Boundary Cases
 
 - **Gensaki vs cash-collateralized lending**: sale-and-repurchase vs cash-secured securities loan; same economics, different legal structure and pricing convention.
-- **Repo vs collateralized call**: both secured, but repo is a securities-financing transaction (sale-repurchase or cash-secured loan) while collateralized call is secured interbank lending pledging collateral; see [[money-market/japan-uncollateralized-vs-collateralized-call-market|the call segmentation page]].
+- **Repo vs collateralized call**: both secured, but repo is a securities-financing transaction (sale-repurchase or cash-secured loan) while collateralized call is secured interbank lending pledging collateral; see [[money-market/call-market-structure|the call segmentation page]].
 - **GC vs SC**: funding-driven vs issue-driven; an overlay on top of either legal form.
 - **Repo vs equity stock loan**: JGB repo and equity securities lending are different markets; equity stock loan routes to [[securities/japan-stock-lending-market-route|the stock-lending route]].
 
@@ -121,7 +121,6 @@ Reading stress therefore requires checking *which axis* moved: a GC-wide funding
 - [[money-market/INDEX|money-market INDEX]]
 - [[money-market/japan-money-market]]
 - [[money-market/jgb-repo-market-japan]]
-- [[money-market/japan-uncollateralized-vs-collateralized-call-market]]
 - [[money-market/call-market-structure]]
 - [[money-market/boj-open-market-operations]]
 - [[money-market/tanshi-company-business-model]]

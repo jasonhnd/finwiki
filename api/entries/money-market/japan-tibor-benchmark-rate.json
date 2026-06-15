@@ -58,7 +58,7 @@
     "JapanFG Relevance"
   ],
   "body_links": {
-    "wikilinks_count": 17,
+    "wikilinks_count": 16,
     "wikilinks": [
       "INDEX",
       "derivatives/japan-interest-rate-derivatives-overview",
@@ -75,8 +75,7 @@
       "money-market/call-market-structure",
       "money-market/japan-money-market",
       "money-market/japan-money-market-benchmark-reform-tona",
-      "money-market/japan-ncd-negotiable-cd-market",
-      "money-market/japan-uncollateralized-vs-collateralized-call-market"
+      "money-market/japan-ncd-negotiable-cd-market"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
@@ -94,16 +93,15 @@
       "https://finwiki.zksc.io/money-market/call-market-structure",
       "https://finwiki.zksc.io/money-market/japan-money-market",
       "https://finwiki.zksc.io/money-market/japan-money-market-benchmark-reform-tona",
-      "https://finwiki.zksc.io/money-market/japan-ncd-negotiable-cd-market",
-      "https://finwiki.zksc.io/money-market/japan-uncollateralized-vs-collateralized-call-market"
+      "https://finwiki.zksc.io/money-market/japan-ncd-negotiable-cd-market"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 8526,
-    "word_like_tokens": 1375,
+    "nonspace_chars": 8456,
+    "word_like_tokens": 1367,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-15"
   }
 }

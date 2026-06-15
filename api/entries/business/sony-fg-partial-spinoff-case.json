@@ -62,9 +62,9 @@
       "business/softbank-vision-fund-arm-ipo-template",
       "business/toshiba-tob-squeeze-out-2023-2024-case",
       "corporate-strategy/INDEX",
+      "corporate-strategy/japan-kabushiki-bunpai-spinoff-regime",
       "corporate-strategy/japan-kaisha-bunkatsu-tax-regime",
       "corporate-strategy/kabushiki-koufu-stock-distribution-regime",
-      "corporate-strategy/partial-spinoff-tax-deferral",
       "corporate-strategy/spinoff-decision-tree-japan",
       "finance/INDEX",
       "finance/japan-listed-financial-groups-investable-universe",
@@ -86,9 +86,9 @@
       "https://finwiki.zksc.io/business/softbank-vision-fund-arm-ipo-template",
       "https://finwiki.zksc.io/corporate-strategy/toshiba-tob-squeeze-out-2023-2024-case",
       "https://finwiki.zksc.io/corporate-strategy/INDEX",
+      "https://finwiki.zksc.io/corporate-strategy/japan-kabushiki-bunpai-spinoff-regime",
       "https://finwiki.zksc.io/corporate-strategy/japan-kaisha-bunkatsu-tax-regime",
       "https://finwiki.zksc.io/corporate-strategy/kabushiki-koufu-stock-distribution-regime",
-      "https://finwiki.zksc.io/corporate-strategy/partial-spinoff-tax-deferral",
       "https://finwiki.zksc.io/corporate-strategy/spinoff-decision-tree-japan",
       "https://finwiki.zksc.io/finance/INDEX",
       "https://finwiki.zksc.io/finance/japan-listed-financial-groups-investable-universe",
@@ -107,9 +107,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 9352,
-    "word_like_tokens": 1504,
-    "inbound_wikilinks_count": 13,
-    "last_modified": "2026-06-04"
+    "nonspace_chars": 9388,
+    "word_like_tokens": 1508,
+    "inbound_wikilinks_count": 14,
+    "last_modified": "2026-06-15"
   }
 }

@@ -46,7 +46,7 @@
     "Related"
   ],
   "body_links": {
-    "wikilinks_count": 30,
+    "wikilinks_count": 29,
     "wikilinks": [
       "INDEX",
       "JapanFG/INDEX",
@@ -60,7 +60,6 @@
       "loyalty/jal-mileage-bank-vs-ana-mileage-club-comparison",
       "loyalty/japan-points-landscape",
       "loyalty/jre-point-and-jre-bank-ecosystem",
-      "loyalty/loyalty-liability-customer-funded-float",
       "loyalty/point-economy-funding-source-comparison",
       "loyalty/point-exchange-network-risk",
       "loyalty/point-liability-accounting-boundary",
@@ -91,7 +90,6 @@
       "https://finwiki.zksc.io/loyalty/jal-mileage-bank-vs-ana-mileage-club-comparison",
       "https://finwiki.zksc.io/loyalty/japan-points-landscape",
       "https://finwiki.zksc.io/loyalty/jre-point-and-jre-bank-ecosystem",
-      "https://finwiki.zksc.io/loyalty/loyalty-liability-customer-funded-float",
       "https://finwiki.zksc.io/loyalty/point-economy-funding-source-comparison",
       "https://finwiki.zksc.io/loyalty/point-exchange-network-risk",
       "https://finwiki.zksc.io/loyalty/point-liability-accounting-boundary",
@@ -114,9 +112,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 8016,
-    "word_like_tokens": 1236,
-    "inbound_wikilinks_count": 25,
-    "last_modified": "2026-06-04"
+    "nonspace_chars": 7447,
+    "word_like_tokens": 1155,
+    "inbound_wikilinks_count": 24,
+    "last_modified": "2026-06-15"
   }
 }

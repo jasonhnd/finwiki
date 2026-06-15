@@ -96,7 +96,7 @@ Issuers applying legacy JGAAP without full FV-OCI alignment should be read in co
 | ToSTNeT block trade | JPX off-auction block | Same tax treatment, lower market-impact |
 | Share buyback by issuer | Issuer repurchases own shares from holder | Treated as deemed dividend + capital gain split; can be tax-efficient for holder |
 | Exchangeable bond | Issuer monetises holding via exchangeable bond — see [[finance/japan-convertible-bond-mechanics|convertible bond mechanics]] | Defers disposition to conversion; bondholders bear equity risk |
-| Spin-off / partial spinoff | Distribute holding shares to own shareholders | Possible tax-deferral routes — see [[corporate-strategy/partial-spinoff-tax-deferral|partial spinoff tax deferral]] |
+| Spin-off / partial spinoff | Distribute holding shares to own shareholders | Possible tax-deferral routes — see [[corporate-strategy/japan-kabushiki-bunpai-spinoff-regime|partial spinoff tax deferral]] |
 | In-kind dividend | Distribute holding shares to own shareholders | Treated as dividend in kind; tax treatment depends on structure |
 | Cross-trade | Coordinated sale between counter-holders | Symmetric unwind |
 | Auction / secondary equity offering | Large block placed via secondary equity offering | Often used for very large stakes |
@@ -214,7 +214,7 @@ TSE Prime market introduced explicit pressure on listed companies with persisten
 - [[finance/cross-border-m-a-japan]]
 - [[finance/multi-jurisdiction-identity-tax-leverage]]
 - [[banking/regional-bank-consolidation-pattern]]
-- [[corporate-strategy/partial-spinoff-tax-deferral]]
+- [[corporate-strategy/japan-kabushiki-bunpai-spinoff-regime]]
 - [[securities/japan-underwriting-market-structure]]
 - [[megabanks/mufg]]
 - [[megabanks/smfg]]

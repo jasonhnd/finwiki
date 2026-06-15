@@ -10,6 +10,10 @@ aliases:
   - "qualified stock distribution japan"
   - "現物分配 スピンオフ"
   - "単独新設分割型分割"
+  - "corporate-strategy/partial-spinoff-tax-deferral"
+  - "partial-spinoff-tax-deferral"
+  - "パーシャルスピンオフ税制"
+  - "partial spin-off tax deferral"
 domain: "corporate-strategy"
 created: 2026-06-03
 last_updated: 2026-06-03
@@ -24,13 +28,18 @@ sources:
   - "https://laws.e-gov.go.jp/document?lawid=417AC0000000086"
   - "https://www.meti.go.jp/policy/economy/keiei_innovation/keizaihousei/pdf/20250714-spinoff.pdf"
   - "https://www.fsa.go.jp/en/"
+  - "https://www.meti.go.jp/policy/economy/keiei_innovation/keizaihousei/saihenzeisei/spin-off.html"
+  - "https://www.meti.go.jp/policy/jigyou_saisei/kyousouryoku_kyouka/2306spinoff_QA.pdf"
+  - "https://www.mof.go.jp/public_relations/finance/202402/202402e.html"
+  - "https://www.sony.com/en/SonyInfo/IR/library/SFG_pso/"
+  - "https://www.meti.go.jp/press/2023/02/20240214006/20240214006.html"
 ---
 
 # 株式分配 (kabushiki bunpai) — Japan share-distribution / pure spin-off regime (適格株式分配) and how it differs from パーシャルスピンオフ
 
 ## Wiki route
 
-This entry sits under [[corporate-strategy/INDEX|corporate-strategy INDEX]] and routes into [[finance/INDEX|finance INDEX]] for the capital-markets overlay. It is the **distribution-side** spin-off mechanism — the in-kind dividend that delivers subsidiary shares to a parent's own shareholders. Read it directly against [[corporate-strategy/partial-spinoff-tax-deferral|partial spinoff tax deferral]] (the *retained-stake* variant of the same idea), [[corporate-strategy/japan-kaisha-bunkatsu-tax-regime|会社分割 tax regime]] (the *carve-out plumbing* that usually precedes a distribution), and [[corporate-strategy/spinoff-decision-tree-japan|the spinoff decision tree]] for placement against every other divestiture route.
+This entry sits under [[corporate-strategy/INDEX|corporate-strategy INDEX]] and routes into [[finance/INDEX|finance INDEX]] for the capital-markets overlay. It is the **distribution-side** spin-off mechanism — the in-kind dividend that delivers subsidiary shares to a parent's own shareholders. It now also absorbs the **パーシャルスピンオフ (partial spin-off, retained-stake)** regime, covered in [§6](#6-パーシャルスピンオフ--partial-spin-off-2023-special-measure) below. Read it alongside [[corporate-strategy/japan-kaisha-bunkatsu-tax-regime|会社分割 tax regime]] (the *carve-out plumbing* that usually precedes a distribution) and [[corporate-strategy/spinoff-decision-tree-japan|the spinoff decision tree]] for placement against every other divestiture route.
 
 ## TL;DR
 
@@ -39,7 +48,7 @@ This entry sits under [[corporate-strategy/INDEX|corporate-strategy INDEX]] and 
 The key distinction this entry settles — the one the [[corporate-strategy/INDEX|domain index]] flags as "commonly confused":
 
 - **株式分配 (full spin-off)** — parent distributes **100%** of the subsidiary and retains **0%**. The qualified form is **適格株式分配**, created by the 2017 spin-off tax reform.
-- **パーシャルスピンオフ (partial spin-off)** — parent distributes most of the subsidiary but **retains up to 20%**. This is the 2023 special measure documented in [[corporate-strategy/partial-spinoff-tax-deferral|partial spinoff tax deferral]] — a relaxation built *on top of* the 株式分配 framework.
+- **パーシャルスピンオフ (partial spin-off)** — parent distributes most of the subsidiary but **retains up to 20%**. This is the 2023 special measure — a relaxation built *on top of* the 株式分配 framework — detailed in [§6](#6-パーシャルスピンオフ--partial-spin-off-2023-special-measure) below.
 - **会社分割 (company split)** — the *asset-level* mechanism that moves a **business** into a subsidiary; it is the **plumbing** often used to create the wholly-owned subsidiary that is then distributed. See [[corporate-strategy/japan-kaisha-bunkatsu-tax-regime|the 会社分割 tax regime]].
 
 In short: **会社分割 creates the box, 株式分配 hands the box to shareholders.** A "spinoff" in the everyday sense is usually 新設分割 (to form the subsidiary) followed by 適格株式分配 (to distribute it), executed as one planned sequence.
@@ -69,7 +78,7 @@ Three features are essential:
 
 1. **It is a dividend, not a sale.** No cash changes hands at the shareholder level; shareholders receive subsidiary stock instead of (or as) a distribution out of the parent.
 2. **It must be pro rata.** Every shareholder receives subsidiary shares strictly in line with their existing parent stake. A non-pro-rata or selective distribution breaks the regime.
-3. **The subsidiary must be 100%-owned immediately before.** 株式分配 distributes a 完全子法人; partial subsidiaries do not qualify (that is precisely the gap the [[corporate-strategy/partial-spinoff-tax-deferral|パーシャルスピンオフ]] regime later addressed from the *retention* side).
+3. **The subsidiary must be 100%-owned immediately before.** 株式分配 distributes a 完全子法人; partial subsidiaries do not qualify (that is precisely the gap the パーシャルスピンオフ regime — [§6](#6-パーシャルスピンオフ--partial-spin-off-2023-special-measure) — later addressed from the *retention* side).
 
 ## 3. 適格株式分配 — the Qualified Tests
 
@@ -105,31 +114,64 @@ This is the comparison the domain index singles out. The three are different lay
 | Parent's residual stake | **0%** | **Up to 20%** retained | N/A (no distribution by itself) |
 | Reaches shareholders directly? | Yes — they hold the subsidiary | Yes — minus the retained slice | No — shares go to a successor company |
 | Role | Hands an existing subsidiary to shareholders | Same, but keeps a minority alliance stake | **Creates** the subsidiary to be distributed |
-| Regime | 適格株式分配 (2017) | Special measure (2023) — see [[corporate-strategy/partial-spinoff-tax-deferral|partial spinoff tax deferral]] | 適格分割 — see [[corporate-strategy/japan-kaisha-bunkatsu-tax-regime|会社分割 tax regime]] |
+| Regime | 適格株式分配 (2017) | Special measure (2023) — see [§6](#6-パーシャルスピンオフ--partial-spin-off-2023-special-measure) | 適格分割 — see [[corporate-strategy/japan-kaisha-bunkatsu-tax-regime|会社分割 tax regime]] |
 
 The decisive mental model: **会社分割 is the verb that builds the subsidiary; 株式分配 is the verb that gives it away; パーシャルスピンオフ is 株式分配 with a 20% leash.** A complete classic spin-off is usually **新設分割 → 適格株式分配** run as a single plan. The full option set sits in [[corporate-strategy/spinoff-decision-tree-japan|the spinoff decision tree]].
 
-## 6. Why a Parent Runs a Full Spin-off
+## 6. パーシャルスピンオフ — partial spin-off (2023 special measure)
+
+The **パーシャルスピンオフ** regime is the *retained-stake* sibling of 適格株式分配. Created by the **2023年度 (令和5年度) 税制改正**, it relaxes the strict "distribute 100%, retain 0%" rule of 適格株式分配 so that a parent can hand most of a wholly-owned subsidiary to its shareholders **while keeping a minority stake** and still obtain tax-deferred treatment.
+
+### 6.1 制度構造 (regime essentials)
+
+| 項目 | 内容 |
+|---|---|
+| 対象 | 完全子会社を切り出す株式分配型スピンオフ (a 株式分配 of a 100%-owned subsidiary) |
+| 特徴 | 親会社が切り出し後も一部持分を残せる — the parent may keep a residual stake |
+| 持分上限 | 親会社保有割合 **20% 未満** が基本条件 (parent's retained share below ~20%) |
+| 税務効果 | 再編時の譲渡損益課税繰延、株主のみなし配当課税対象外 (parent gain deferred; shareholder みなし配当 turned off) |
+| 政策目的 | 企業グループの事業ポートフォリオ再編促進 |
+| 認定要件 | **産業競争力強化法の事業再編計画**の認定 (METI certification of a business-restructuring plan under the Industrial Competitiveness Enhancement Act) |
+
+The decisive parameter versus full 株式分配 is the **retained stake**: a full spin-off retains **0%**, the partial regime allows **up to ~20%**, letting the parent keep a strategic alliance, brand, or cooperation link rather than severing the subsidiary entirely. Unlike a plain 適格株式分配, the partial measure is gated on **産業競争力強化法** certification — it is a policy-conditioned relaxation, not an automatic carve-out, and applies only to a 株式分配 of a 完全子会社, not to arbitrary 会社分割 / 事業譲渡.
+
+### 6.2 Typical transaction flow
+
+| Step | 処理 | 実務論点 |
+|---|---|---|
+| 1 | 切り出し対象事業を完全子会社に整理 | 事業・資産・負債・人員移管 (often via a [[corporate-strategy/japan-kaisha-bunkatsu-tax-regime|会社分割]]) |
+| 2 | 事業再編計画・上場準備 | METI 認定 (産業競争力強化法)、TSE 審査、監査 |
+| 3 | 親会社が子会社株式を現物分配 | 配当財源、会社法手続 (Companies Act art. 454 in-kind dividend) |
+| 4 | 親会社が一部持分を保有継続 | **20% 未満**要件、ブランド・提携維持 |
+| 5 | 子会社が独立上場 | 株主は親会社株式と子会社株式を併有 |
+
+### 6.3 Worked example and policy status
+
+The first high-profile domestic application is the **Sony Group → Sony Financial Group** partial spin-off — METI certified Sony Group's 産業競争力強化法 business-restructuring plan on **2024-02-14**. The full worked example (distribution ratio, retained slice, record date, listing mechanics) lives in [[business/sony-fg-partial-spinoff-case|Sony FG partial spinoff case]]; treat that page as the canonical case study rather than duplicating the transaction detail here.
+
+Policy detail is still moving: the **2024年度 (令和6年度) 税制改正** revised the regime's certification requirements and extended its application deadline, and METI's スピンオフ手引き was revised again in **2025年7月 (令和7年7月)** to reflect the 令和7年度税制改正 and TSE listing-rule changes. Treat regime parameters as needing re-confirmation against current METI / MOF / NTA materials per transaction.
+
+## 7. Why a Parent Runs a Full Spin-off
 
 - **Pure-play focus / conglomerate discount**: separating an unrelated business lets each company be valued on its own multiple — the classic argument that also drives the cases in [[business/japan-listed-corp-strategic-restructuring-matrix|the listed-corp strategic-restructuring matrix]].
 - **No-cash separation**: unlike a sale, a spin-off needs **no buyer and no financing** — value passes to existing shareholders rather than to a third party, contrasting with the cash routes in [[finance/japan-mbo-and-squeeze-out-process|the MBO / squeeze-out process]].
 - **Management incentive alignment**: the spun-off company gets its own equity currency and an independent board.
 - **Tax neutrality**: 適格株式分配 makes the separation tax-free at both levels — the feature that distinguishes a spin-off from an outright [[finance/japan-acquisition-finance|financed]] disposal, which is taxable to the seller.
 
-The trade-off versus パーシャルスピンオフ is alliance retention: a **full** 株式分配 severs the parent entirely, whereas the partial regime lets the parent keep a strategic minority — the reason the 2023 measure was added.
+The trade-off versus パーシャルスピンオフ is alliance retention: a **full** 株式分配 severs the parent entirely, whereas the partial regime ([§6](#6-パーシャルスピンオフ--partial-spin-off-2023-special-measure)) lets the parent keep a strategic minority — the reason the 2023 measure was added.
 
-## 7. Counterpoints and Caveats
+## 8. Counterpoints and Caveats
 
 - **適格 is the load-bearing requirement.** A spin-off that fails the qualified tests inflicts a double tax hit (corporate gain + shareholder deemed dividend) and is rarely worth doing. Confirm 適格 status per transaction against NTA guidance.
 - **株式分配 ≠ パーシャルスピンオフ.** They share machinery but differ on the single most important parameter — retained stake (0% vs up to 20%). Do not treat them as interchangeable.
 - **It needs a 100% subsidiary first.** If the business is still inside the parent, a [[corporate-strategy/japan-kaisha-bunkatsu-tax-regime|会社分割]] (or the 分割型分割 one-step variant) must precede the distribution.
 - **Listing mechanics apply.** Spinning off a business as an independently listed company invokes exchange listing and disclosure rules — see [[securities/japan-ipo-listing-disclosure-route|the IPO listing / disclosure route]] — and FSA disclosure obligations referenced in [[finance/japan-large-shareholding-disclosure|large-shareholding disclosure]].
-- **Policy guidance evolves.** METI refreshes its spin-off手引 periodically (latest editions 2024–2025); treat regime detail as needing re-confirmation against the current METI / NTA materials.
+- **Policy guidance evolves.** METI refreshes its spin-off手引 periodically (latest editions 2024–2025, see [§6.3](#63-worked-example-and-policy-status)); treat regime detail as needing re-confirmation against the current METI / NTA materials.
 
 ## Related
 
 - [[corporate-strategy/INDEX|corporate-strategy INDEX]]
-- [[corporate-strategy/partial-spinoff-tax-deferral|partial spinoff tax deferral]]
+- [[business/sony-fg-partial-spinoff-case|Sony FG partial spinoff case]]
 - [[corporate-strategy/japan-kaisha-bunkatsu-tax-regime|会社分割 tax regime]]
 - [[corporate-strategy/spinoff-decision-tree-japan|spinoff decision tree Japan]]
 - [[corporate-strategy/japan-kabushiki-koukan-iten-regime|株式交換 / 株式移転 regime]]
@@ -149,6 +191,11 @@ The trade-off versus パーシャルスピンオフ is alliance retention: a **f
 - 国税庁 法人税法基本通達 1-4-5 (組織再編成): https://www.nta.go.jp/law/tsutatsu/kihon/hojin/01/01_04_05.htm
 - Companies Act (会社法) — 剰余金の配当 / 現物配当 (art. 454 et seq.): https://laws.e-gov.go.jp/document?lawid=417AC0000000086
 - FSA English portal (disclosure rules interacting with spin-offs): https://www.fsa.go.jp/en/
+- METI「スピンオフの活用に向けた取組」(パーシャルスピンオフ税制): https://www.meti.go.jp/policy/economy/keiei_innovation/keizaihousei/saihenzeisei/spin-off.html
+- METI「パーシャルスピンオフ税制 Q&A」: https://www.meti.go.jp/policy/jigyou_saisei/kyousouryoku_kyouka/2306spinoff_QA.pdf
+- 財務省「令和6年度税制改正」解説 (要件見直し・適用期限延長): https://www.mof.go.jp/public_relations/finance/202402/202402e.html
+- METI「ソニーグループ株式会社の事業再編計画を認定」(2024-02-14): https://www.meti.go.jp/press/2023/02/20240214006/20240214006.html
+- Sony Group「Regarding the Partial Spin-off of the Financial Services Business」: https://www.sony.com/en/SonyInfo/IR/library/SFG_pso/
 
 ---
 

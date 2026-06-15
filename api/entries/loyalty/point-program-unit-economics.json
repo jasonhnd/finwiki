@@ -16,7 +16,11 @@
       "ポイントプログラム ユニットエコノミクス",
       "ポイント原資 ブレッカジ 経済",
       "loyalty point unit economics",
-      "point funding float breakage CPA"
+      "point funding float breakage CPA",
+      "loyalty/loyalty-liability-customer-funded-float",
+      "loyalty-liability-customer-funded-float",
+      "ポイント引当金 フロート",
+      "ポイント負債 資金調達"
     ],
     "domain": "loyalty",
     "created": "2026-06-03",
@@ -52,12 +56,12 @@
     "Funding: who actually pays for the point",
     "Breakage: the margin engine",
     "Float: the interest-free funding balance",
-    "Monetisation: where thin programs turn profitable",
-    "Why this matters for JapanFG / financial analysis",
-    "Related"
+    "Balance-sheet view: the liability as customer-funded float",
+    "How it differs from prepaid stored value",
+    "The risk side of the float"
   ],
   "body_links": {
-    "wikilinks_count": 16,
+    "wikilinks_count": 18,
     "wikilinks": [
       "INDEX",
       "fintech/INDEX",
@@ -66,6 +70,7 @@
       "loyalty/japan-points-landscape",
       "loyalty/point-exchange-network-risk",
       "loyalty/point-liability-accounting-boundary",
+      "loyalty/point-program-unit-economics",
       "loyalty/retail-media-points-data-loop",
       "loyalty/sb-yahoo-paypay-points-unified-ecosystem",
       "loyalty/v-point-smbc-ccc-case",
@@ -74,6 +79,7 @@
       "megabanks/smfg",
       "payment-firms/rakuten-fg",
       "payments/INDEX",
+      "payments/funds-transfer-vs-prepaid-boundary",
       "payments/japan-prepaid-electronic-money-operator-matrix"
     ],
     "resolved_wikilinks": [
@@ -84,6 +90,7 @@
       "https://finwiki.zksc.io/loyalty/japan-points-landscape",
       "https://finwiki.zksc.io/loyalty/point-exchange-network-risk",
       "https://finwiki.zksc.io/loyalty/point-liability-accounting-boundary",
+      "https://finwiki.zksc.io/loyalty/point-program-unit-economics",
       "https://finwiki.zksc.io/loyalty/retail-media-points-data-loop",
       "https://finwiki.zksc.io/loyalty/sb-yahoo-paypay-points-unified-ecosystem",
       "https://finwiki.zksc.io/loyalty/v-point-smbc-ccc-case",
@@ -92,15 +99,16 @@
       "https://finwiki.zksc.io/megabanks/smfg",
       "https://finwiki.zksc.io/payment-firms/rakuten-fg",
       "https://finwiki.zksc.io/payments/INDEX",
+      "https://finwiki.zksc.io/payments/funds-transfer-vs-prepaid-boundary",
       "https://finwiki.zksc.io/payments/japan-prepaid-electronic-money-operator-matrix"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 8923,
-    "word_like_tokens": 1485,
+    "nonspace_chars": 11401,
+    "word_like_tokens": 1877,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-15"
   }
 }

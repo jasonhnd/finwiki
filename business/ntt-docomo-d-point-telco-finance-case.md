@@ -134,7 +134,7 @@ The Docomo model is structurally more defensible because no subsidiary is loss-m
 
 - Will the SMBC tie-up extend to deeper integration (e.g., joint-branded deposit accounts, lending products)?
 - Can d-Barai close the gap with PayPay before QR-payment market consolidates further?
-- Will NTT spin out a unified financial-services entity using [[corporate-strategy/partial-spinoff-tax-deferral|partial-spinoff regime]] in future?
+- Will NTT spin out a unified financial-services entity using [[corporate-strategy/japan-kabushiki-bunpai-spinoff-regime|partial-spinoff regime]] in future?
 - How does the Docomo + SMBC alliance interact with [[business/rakuten-group-mobile-finance-bundling-case|Rakuten Securities × Mizuho]] and au + MUFG (au Jibun Bank)?
 - What is the AI-agent-payment angle (per [[fintech/ai-payment-two-tracks|AI payment two tracks]]) for the Docomo + SMBC stack?
 
@@ -151,7 +151,7 @@ The Docomo model is structurally more defensible because no subsidiary is loss-m
 - [[payment-firms/rakuten-fg|Rakuten FG]]
 - [[payments/cashless-jp-landscape|Japan cashless payment landscape]]
 - [[fintech/ai-payment-two-tracks|AI payment two tracks]]
-- [[corporate-strategy/partial-spinoff-tax-deferral|partial spinoff tax deferral]]
+- [[corporate-strategy/japan-kabushiki-bunpai-spinoff-regime|partial spinoff tax deferral]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

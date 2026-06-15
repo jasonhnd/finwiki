@@ -19,7 +19,11 @@
       "japan share distribution spinoff",
       "qualified stock distribution japan",
       "現物分配 スピンオフ",
-      "単独新設分割型分割"
+      "単独新設分割型分割",
+      "corporate-strategy/partial-spinoff-tax-deferral",
+      "partial-spinoff-tax-deferral",
+      "パーシャルスピンオフ税制",
+      "partial spin-off tax deferral"
     ],
     "domain": "corporate-strategy",
     "created": "2026-06-03",
@@ -42,10 +46,15 @@
       "https://www.nta.go.jp/law/tsutatsu/kihon/hojin/01/01_04_05.htm",
       "https://laws.e-gov.go.jp/document?lawid=417AC0000000086",
       "https://www.meti.go.jp/policy/economy/keiei_innovation/keizaihousei/pdf/20250714-spinoff.pdf",
-      "https://www.fsa.go.jp/en/"
+      "https://www.fsa.go.jp/en/",
+      "https://www.meti.go.jp/policy/economy/keiei_innovation/keizaihousei/saihenzeisei/spin-off.html",
+      "https://www.meti.go.jp/policy/jigyou_saisei/kyousouryoku_kyouka/2306spinoff_QA.pdf",
+      "https://www.mof.go.jp/public_relations/finance/202402/202402e.html",
+      "https://www.sony.com/en/SonyInfo/IR/library/SFG_pso/",
+      "https://www.meti.go.jp/press/2023/02/20240214006/20240214006.html"
     ]
   },
-  "summary": "This entry sits under corporate-strategy INDEX and routes into finance INDEX for the capital-markets overlay. It is the distribution-side spin-off mechanism — the in-kind dividend that delivers subsidiary shares to a parent's own shareholders. Read it directly against partial spinoff tax deferral (t",
+  "summary": "This entry sits under corporate-strategy INDEX and routes into finance INDEX for the capital-markets overlay. It is the distribution-side spin-off mechanism — the in-kind dividend that delivers subsidiary shares to a parent's own shareholders. It now also absorbs the パーシャルスピンオフ (partial spin-off, re",
   "headings": [
     "株式分配 (kabushiki bunpai) — Japan share-distribution / pure spin-off regime (適格株式分配) and how it differs from パーシャルスピンオフ",
     "Wiki route",
@@ -55,19 +64,19 @@
     "3. 適格株式分配 — the Qualified Tests",
     "4. Tax Consequences — Qualified vs Non-Qualified",
     "5. 株式分配 vs パーシャルスピンオフ vs 会社分割 — the Confusion Settled",
-    "6. Why a Parent Runs a Full Spin-off",
-    "7. Counterpoints and Caveats"
+    "6. パーシャルスピンオフ — partial spin-off (2023 special measure)",
+    "6.1 制度構造 (regime essentials)"
   ],
   "body_links": {
     "wikilinks_count": 13,
     "wikilinks": [
       "INDEX",
       "business/japan-listed-corp-strategic-restructuring-matrix",
+      "business/sony-fg-partial-spinoff-case",
       "corporate-strategy/INDEX",
       "corporate-strategy/japan-business-succession-jigyou-shoukei",
       "corporate-strategy/japan-kabushiki-koukan-iten-regime",
       "corporate-strategy/japan-kaisha-bunkatsu-tax-regime",
-      "corporate-strategy/partial-spinoff-tax-deferral",
       "corporate-strategy/spinoff-decision-tree-japan",
       "finance/INDEX",
       "finance/japan-acquisition-finance",
@@ -78,11 +87,11 @@
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
       "https://finwiki.zksc.io/business/japan-listed-corp-strategic-restructuring-matrix",
+      "https://finwiki.zksc.io/business/sony-fg-partial-spinoff-case",
       "https://finwiki.zksc.io/corporate-strategy/INDEX",
       "https://finwiki.zksc.io/corporate-strategy/japan-business-succession-jigyou-shoukei",
       "https://finwiki.zksc.io/corporate-strategy/japan-kabushiki-koukan-iten-regime",
       "https://finwiki.zksc.io/corporate-strategy/japan-kaisha-bunkatsu-tax-regime",
-      "https://finwiki.zksc.io/corporate-strategy/partial-spinoff-tax-deferral",
       "https://finwiki.zksc.io/corporate-strategy/spinoff-decision-tree-japan",
       "https://finwiki.zksc.io/finance/INDEX",
       "https://finwiki.zksc.io/finance/japan-acquisition-finance",
@@ -94,9 +103,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 12602,
-    "word_like_tokens": 2114,
-    "inbound_wikilinks_count": 2,
-    "last_modified": "2026-06-03"
+    "nonspace_chars": 16026,
+    "word_like_tokens": 2716,
+    "inbound_wikilinks_count": 17,
+    "last_modified": "2026-06-15"
   }
 }

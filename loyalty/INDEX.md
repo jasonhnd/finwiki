@@ -39,7 +39,7 @@ Use this domain when a product's real moat is **repeat purchase, app opening fre
 | Retail points | [[retail/aeon-group|AEON Group]], [[retail/seven-and-i-hd|Seven & i]] | [[retail/INDEX|retail INDEX]] |
 | Finance distribution | [[payment-firms/rakuten-fg|Rakuten FG]], [[megabanks/paypay-fg|PayPay FG]], [[megabanks/ndfg|NDFG]] | [[JapanFG/INDEX|JapanFG INDEX]] |
 | Legal boundary | Points vs prepaid vs funds-transfer value | [[financial-licenses/INDEX|legal / financial licenses]] |
-| Program economics | [[loyalty/point-program-unit-economics|Point program unit economics]], [[loyalty/point-liability-accounting-boundary|Point liability accounting boundary]], [[loyalty/loyalty-liability-customer-funded-float|Loyalty liability as customer-funded float]] | [[fintech/INDEX|fintech INDEX]] |
+| Program economics | [[loyalty/point-program-unit-economics|Point program unit economics]], [[loyalty/point-liability-accounting-boundary|Point liability accounting boundary]] | [[fintech/INDEX|fintech INDEX]] |
 | Data / ID-graph loop | [[loyalty/retail-media-points-data-loop|Retail-media points data loop]] | [[retail/INDEX|retail INDEX]] |
 | Cross-program exchange | [[loyalty/point-exchange-network-risk|Point exchange network risk]] | [[payments/INDEX|payments INDEX]] |
 
@@ -60,7 +60,6 @@ Use this domain when a product's real moat is **repeat purchase, app opening fre
 | likely | [[loyalty/jal-mileage-bank-vs-ana-mileage-club-comparison|JAL Mileage Bank vs ANA Mileage Club]] | FFP / mileage archetype: accrual, redemption, partner network, status tier, standalone-selling-price deferred-revenue accounting |
 | likely | [[loyalty/jre-point-and-jre-bank-ecosystem|JRE Point + JRE Bank ecosystem]] | Transit-anchored loyalty: Mobile Suica + ViewCard + JRE BANK (楽天銀行 BaaS), "ride → eat → shop → spend → save" LTV ladder |
 | likely | [[loyalty/point-program-unit-economics|Point program unit economics]] | Funding source (merchant / operator / issuer / self) × breakage margin × interest-free float × ID-graph monetisation — why "reward rate" is the wrong headline |
-| likely | [[loyalty/loyalty-liability-customer-funded-float|Loyalty liability as customer-funded float]] | Outstanding point balance read as an interest-free, customer-funded float instrument: float vs breakage, prepaid-crossover, redemption-surge / estimate / reclassification risk, quality-of-earnings signal |
 | likely | [[loyalty/point-economy-funding-source-comparison|Japan point economy funding-source comparison]] | Cross-system compare of V / Rakuten / d / PayPay / Ponta by anchor (bank / EC / telco / wallet / coalition) → funding mix, cross-sell gradient, data shape; why reward rates are noise |
 | likely | [[loyalty/retail-media-points-data-loop|Retail-media points data loop]] | Points as customer ID-graph infrastructure: acquire-ID → observe data → monetise as retail media + finance cross-sell → recycle; APPI / PPC as the binding constraint |
 | likely | [[loyalty/point-exchange-network-risk|Point exchange network risk]] | Cross-program conversion as an inter-operator network: consumer ratio vs bilateral settlement rate, non-additive liability, FX-like / arbitrage / cash-equivalence-drift risk surfaces |
@@ -77,7 +76,6 @@ Use this domain when a product's real moat is **repeat purchase, app opening fre
 | Done | [[loyalty/point-program-unit-economics|Point program unit economics]] | Created (2026-06): funding / breakage / float / monetisation equation behind loyalty-liability profitability |
 | Done | [[loyalty/rakuten-point-ecosystem-deep|Rakuten Point ecosystem deep]] | Created (2026-06): standalone EC-anchored operator deep dive (SPU flywheel + 楽天経済圏 cross-sell), completing the big-five operator set |
 | Done | [[loyalty/point-economy-funding-source-comparison|Funding-source comparison]] | Created (2026-06): side-by-side anchor / funding comparison of the five major common points |
-| Done | [[loyalty/loyalty-liability-customer-funded-float|Loyalty liability as customer-funded float]] | Created (2026-06): balance-sheet / financing view of the point liability as interest-free customer-funded float |
 
 ## Related
 

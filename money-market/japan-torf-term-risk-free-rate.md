@@ -120,7 +120,6 @@ This governance is what lets TORF function as a usable reference rate rather tha
 - [[money-market/japan-money-market]]
 - [[money-market/japan-tibor-benchmark-rate]]
 - [[money-market/japan-money-market-benchmark-reform-tona]]
-- [[money-market/japan-uncollateralized-vs-collateralized-call-market]]
 - [[money-market/call-market-structure]]
 - [[derivatives/ois-tona-curve]]
 - [[derivatives/japan-irs-market]]

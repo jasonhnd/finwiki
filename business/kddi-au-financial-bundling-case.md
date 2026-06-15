@@ -128,7 +128,7 @@ The pattern most likely to replicate: a telco that owns the deposit + payments r
 - Will KDDI use full ownership of [[regional-banks/au-jibun-bank|au Jibun Bank]] to push deeper into lending and embedded finance for au subscribers?
 - Does au PAY have a path to close the user-base gap with [[megabanks/paypay-fg|PayPay]] now that SoftBank is consolidating and listing PayPay?
 - Will the Ponta loyalty alignment (KDDI / Mitsubishi Corp / Lawson) deepen into a finance-distribution moat, paralleling Docomo's d-Point engine?
-- Could KDDI ever pursue a [[corporate-strategy/partial-spinoff-tax-deferral|partial-spinoff]] or separate listing of au-FH the way SoftBank is doing with PayPay?
+- Could KDDI ever pursue a [[corporate-strategy/japan-kabushiki-bunpai-spinoff-regime|partial-spinoff]] or separate listing of au-FH the way SoftBank is doing with PayPay?
 - How does the au × MUFG division of labour interact with Docomo × SMBC and Rakuten × Mizuho as the three megabanks each anchor a different telco's finance stack?
 
 ## Related

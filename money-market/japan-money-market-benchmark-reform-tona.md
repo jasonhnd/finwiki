@@ -56,7 +56,7 @@ The committee structure is why "benchmark reform" in Japan was a coordinated pub
 
 TONA is not a survey rate; it is the volume-weighted average of real uncollateralized overnight call transactions reported by tanshi companies to the BoJ. That design choice is the heart of the reform:
 
-- **Transaction-based robustness**: anchoring the benchmark to actual trades (the market in [[money-market/japan-uncollateralized-vs-collateralized-call-market|the uncollateralized call segment]]) removes the submission-based manipulation vulnerability that ended LIBOR.
+- **Transaction-based robustness**: anchoring the benchmark to actual trades (the market in [[money-market/call-market-structure|the uncollateralized call segment]]) removes the submission-based manipulation vulnerability that ended LIBOR.
 - **Overnight, near risk-free**: because it is an overnight rate close to the policy target, it strips out most bank-credit and term-premium content, making it a clean discounting / RFR building block.
 - **Policy linkage**: TONA tracks the BoJ operating guideline closely, so it transmits [[money-market/boj-open-market-operations|BoJ operations]] into the benchmark complex day by day.
 
@@ -119,7 +119,6 @@ This contrasts with currencies that moved almost entirely to an RFR. Keeping a r
 - [[money-market/japan-money-market]]
 - [[money-market/call-market-structure]]
 - [[money-market/japan-tibor-benchmark-rate]]
-- [[money-market/japan-uncollateralized-vs-collateralized-call-market]]
 - [[money-market/boj-open-market-operations]]
 - [[derivatives/ois-tona-curve]]
 - [[derivatives/japan-irs-market]]

@@ -14,7 +14,11 @@
       "money-market/call-market-structure",
       "call-market-structure",
       "uncollateralized overnight call market",
-      "無担保コール市場"
+      "無担保コール市場",
+      "money-market/japan-uncollateralized-vs-collateralized-call-market",
+      "japan-uncollateralized-vs-collateralized-call-market",
+      "有担保コール市場",
+      "コール市場 担保"
     ],
     "domain": "money-market",
     "created": "2026-05-19",
@@ -34,7 +38,11 @@
       "https://www.boj.or.jp/en/statistics/market/short/mutan/index.htm",
       "https://www.boj.or.jp/en/about/education/oshiete/seisaku/b42.htm",
       "https://www.boj.or.jp/about/education/oshiete/seisaku/b31.htm",
-      "https://www.boj.or.jp/research/wps_rev/wps_2000/kwp0003a.htm"
+      "https://www.boj.or.jp/research/wps_rev/wps_2000/kwp0003a.htm",
+      "https://www.boj.or.jp/en/statistics/outline/exp/exmenu_m.pdf",
+      "https://www.boj.or.jp/en/announcements/education/oshiete/seisaku/b32.htm/",
+      "https://www.boj.or.jp/en/paym/market/",
+      "https://www.boj.or.jp/en/research/brp/ron_2024/data/ron241106a.pdf"
     ]
   },
   "summary": "This entry sits under money-market index. Read it against Japan money market for peer / contrast context and BoJ open market operations for the broader system / regulatory boundary.",
@@ -44,15 +52,17 @@
     "TL;DR",
     "Core Mechanics",
     "How To Read The Rate",
+    "Uncollateralized vs collateralized segments",
+    "Relationship to other front-end markets",
+    "Reading checklist",
     "JapanFG Relevance",
-    "Boundary Cases",
-    "Related",
-    "Sources"
+    "Boundary Cases"
   ],
   "body_links": {
-    "wikilinks_count": 13,
+    "wikilinks_count": 20,
     "wikilinks": [
       "INDEX",
+      "derivatives/ois-tona-curve",
       "financial-regulators/boj-monetary-policy",
       "financial-regulators/central-tanshi",
       "financial-regulators/tokyo-tanshi",
@@ -62,12 +72,19 @@
       "megabanks/smfg",
       "money-market/INDEX",
       "money-market/boj-open-market-operations",
+      "money-market/japan-cp-commercial-paper-market",
       "money-market/japan-money-market",
+      "money-market/japan-money-market-benchmark-reform-tona",
+      "money-market/japan-ncd-negotiable-cd-market",
+      "money-market/japan-tibor-benchmark-rate",
+      "money-market/jgb-repo-market-japan",
+      "money-market/tanshi-company-business-model",
       "securities-firms/mizuho-securities",
       "securities-firms/mufg-mums"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/derivatives/ois-tona-curve",
       "https://finwiki.zksc.io/financial-regulators/boj-monetary-policy",
       "https://finwiki.zksc.io/financial-regulators/central-tanshi",
       "https://finwiki.zksc.io/financial-regulators/tokyo-tanshi",
@@ -77,7 +94,13 @@
       "https://finwiki.zksc.io/megabanks/smfg",
       "https://finwiki.zksc.io/money-market/INDEX",
       "https://finwiki.zksc.io/money-market/boj-open-market-operations",
+      "https://finwiki.zksc.io/money-market/japan-cp-commercial-paper-market",
       "https://finwiki.zksc.io/money-market/japan-money-market",
+      "https://finwiki.zksc.io/money-market/japan-money-market-benchmark-reform-tona",
+      "https://finwiki.zksc.io/money-market/japan-ncd-negotiable-cd-market",
+      "https://finwiki.zksc.io/money-market/japan-tibor-benchmark-rate",
+      "https://finwiki.zksc.io/money-market/jgb-repo-market-japan",
+      "https://finwiki.zksc.io/money-market/tanshi-company-business-model",
       "https://finwiki.zksc.io/securities-firms/mizuho-securities",
       "https://finwiki.zksc.io/securities-firms/mufg-mums"
     ],
@@ -85,9 +108,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3697,
-    "word_like_tokens": 590,
-    "inbound_wikilinks_count": 24,
-    "last_modified": "2026-06-04"
+    "nonspace_chars": 8745,
+    "word_like_tokens": 1399,
+    "inbound_wikilinks_count": 23,
+    "last_modified": "2026-06-15"
   }
 }

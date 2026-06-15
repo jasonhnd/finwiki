@@ -62,9 +62,9 @@
       "business/sony-fg-partial-spinoff-case",
       "business/toshiba-tob-squeeze-out-2023-2024-case",
       "corporate-strategy/INDEX",
+      "corporate-strategy/japan-kabushiki-bunpai-spinoff-regime",
       "corporate-strategy/japan-kaisha-bunkatsu-tax-regime",
       "corporate-strategy/kabushiki-koufu-stock-distribution-regime",
-      "corporate-strategy/partial-spinoff-tax-deferral",
       "finance/INDEX",
       "finance/cross-border-m-a-japan",
       "finance/japan-m-a-deal-process-comparison-matrix",
@@ -78,9 +78,9 @@
       "https://finwiki.zksc.io/business/sony-fg-partial-spinoff-case",
       "https://finwiki.zksc.io/corporate-strategy/toshiba-tob-squeeze-out-2023-2024-case",
       "https://finwiki.zksc.io/corporate-strategy/INDEX",
+      "https://finwiki.zksc.io/corporate-strategy/japan-kabushiki-bunpai-spinoff-regime",
       "https://finwiki.zksc.io/corporate-strategy/japan-kaisha-bunkatsu-tax-regime",
       "https://finwiki.zksc.io/corporate-strategy/kabushiki-koufu-stock-distribution-regime",
-      "https://finwiki.zksc.io/corporate-strategy/partial-spinoff-tax-deferral",
       "https://finwiki.zksc.io/finance/INDEX",
       "https://finwiki.zksc.io/finance/cross-border-m-a-japan",
       "https://finwiki.zksc.io/finance/japan-m-a-deal-process-comparison-matrix",
@@ -91,9 +91,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 11226,
-    "word_like_tokens": 1813,
+    "nonspace_chars": 11253,
+    "word_like_tokens": 1816,
     "inbound_wikilinks_count": 14,
-    "last_modified": "2026-06-02"
+    "last_modified": "2026-06-15"
   }
 }
