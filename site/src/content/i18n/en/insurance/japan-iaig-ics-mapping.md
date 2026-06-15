@@ -1,6 +1,6 @@
 ---
 source: insurance/japan-iaig-ics-mapping
-source_hash: e509c11f8603b112
+source_hash: 358bfb5b16c8798f
 lang: en
 status: machine
 fidelity: ok

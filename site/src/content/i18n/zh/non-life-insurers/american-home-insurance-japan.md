@@ -1,6 +1,6 @@
 ---
 source: non-life-insurers/american-home-insurance-japan
-source_hash: d54475b5bff0af04
+source_hash: 56937bfb7c8b26f5
 lang: zh
 status: machine
 fidelity: ok

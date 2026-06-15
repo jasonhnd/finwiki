@@ -1,6 +1,6 @@
 ---
 source: fintech/stablecoin-chain-sovereign-currency-divide
-source_hash: 1d85305c00d4401f
+source_hash: 9af2f775b6adbaa7
 lang: ja
 status: machine
 fidelity: ok

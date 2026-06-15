@@ -1,6 +1,6 @@
 ---
 source: financial-licenses/foreign-bank-branch-license-route
-source_hash: 6c7e16d3f997dbb7
+source_hash: 6bc3ed845eb86a22
 lang: ja
 status: machine
 fidelity: ok

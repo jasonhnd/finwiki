@@ -1,6 +1,6 @@
 ---
 source: card-issuers/ucs-card
-source_hash: 5f8ef272100aad4c
+source_hash: 16a7accf84b864ab
 lang: ja
 status: machine
 fidelity: ok

@@ -1,6 +1,6 @@
 ---
 source: payment-firms/freee
-source_hash: 1c805cbd45f68270
+source_hash: dde818f366fd75b8
 lang: ja
 status: machine
 fidelity: ok

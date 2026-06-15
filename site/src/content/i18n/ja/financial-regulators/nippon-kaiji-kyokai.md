@@ -1,6 +1,6 @@
 ---
 source: financial-regulators/nippon-kaiji-kyokai
-source_hash: 9304522eeb7d575d
+source_hash: 85d9c9eb4e98f491
 lang: ja
 status: machine
 fidelity: ok

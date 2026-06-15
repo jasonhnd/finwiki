@@ -1,6 +1,6 @@
 ---
 source: non-life-insurers/secom-insurance
-source_hash: 5efc757c4b3bc9ca
+source_hash: f6eef986e7e4aed8
 lang: ja
 status: machine
 fidelity: ok

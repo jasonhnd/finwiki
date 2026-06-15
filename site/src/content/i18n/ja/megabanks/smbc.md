@@ -1,6 +1,6 @@
 ---
 source: megabanks/smbc
-source_hash: ea96e805b787987f
+source_hash: decaacc465e1fd3f
 lang: ja
 status: machine
 fidelity: ok

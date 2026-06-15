@@ -1,6 +1,6 @@
 ---
 source: insurance/foreign-reinsurer-japan-landscape
-source_hash: 63b4a843f0272c88
+source_hash: a2cc3d63d0610a9e
 lang: zh
 status: machine
 fidelity: ok

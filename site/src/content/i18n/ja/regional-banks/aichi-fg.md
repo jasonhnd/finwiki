@@ -1,6 +1,6 @@
 ---
 source: regional-banks/aichi-fg
-source_hash: b48a56cb3ba0d8d1
+source_hash: a89c9d04287d15b6
 lang: ja
 status: machine
 fidelity: ok

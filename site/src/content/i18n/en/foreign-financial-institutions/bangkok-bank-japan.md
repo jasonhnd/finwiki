@@ -1,6 +1,6 @@
 ---
 source: foreign-financial-institutions/bangkok-bank-japan
-source_hash: 5915a65a4e4684f0
+source_hash: 71e08f7953db51cf
 lang: en
 status: machine
 fidelity: ok

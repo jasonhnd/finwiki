@@ -1,6 +1,6 @@
 ---
 source: financial-regulators/seiho-kyokai
-source_hash: 2b368630df500710
+source_hash: 9033545d859286be
 lang: ja
 status: machine
 fidelity: ok

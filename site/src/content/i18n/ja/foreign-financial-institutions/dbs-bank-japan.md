@@ -1,6 +1,6 @@
 ---
 source: foreign-financial-institutions/dbs-bank-japan
-source_hash: 6f59ee08cc7e471a
+source_hash: ad887255783b11c5
 lang: ja
 status: machine
 fidelity: ok

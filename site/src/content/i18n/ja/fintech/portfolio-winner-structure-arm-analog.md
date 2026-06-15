@@ -1,6 +1,6 @@
 ---
 source: fintech/portfolio-winner-structure-arm-analog
-source_hash: 7caba5355746ecd4
+source_hash: f5613e3af15d4cd6
 lang: ja
 status: machine
 fidelity: ok

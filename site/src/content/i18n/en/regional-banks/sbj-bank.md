@@ -1,6 +1,6 @@
 ---
 source: regional-banks/sbj-bank
-source_hash: d084fe6b05f1e268
+source_hash: 5884e0978d7a3681
 lang: en
 status: machine
 fidelity: ok

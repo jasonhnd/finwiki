@@ -1,6 +1,6 @@
 ---
 source: foreign-financial-institutions/bank-negara-indonesia-japan
-source_hash: 0236566f5c54306c
+source_hash: 807294d37b05a226
 lang: en
 status: machine
 fidelity: ok

@@ -1,6 +1,6 @@
 ---
 source: payment-firms/rakuten-fg
-source_hash: b5bd3ddfd02e60f7
+source_hash: 68ae8d87ab692f41
 lang: ja
 status: machine
 fidelity: ok

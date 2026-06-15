@@ -1,6 +1,6 @@
 ---
 source: trust-banks/first-trust
-source_hash: 3c6395010345fa11
+source_hash: 1db23f085962891e
 lang: ja
 status: machine
 fidelity: ok

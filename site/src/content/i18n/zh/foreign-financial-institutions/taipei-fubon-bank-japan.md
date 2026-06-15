@@ -1,6 +1,6 @@
 ---
 source: foreign-financial-institutions/taipei-fubon-bank-japan
-source_hash: afe2ce18f3fccae8
+source_hash: 056c62995a78b4b4
 lang: zh
 status: machine
 fidelity: ok

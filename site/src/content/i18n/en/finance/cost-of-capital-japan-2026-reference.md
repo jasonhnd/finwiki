@@ -1,6 +1,6 @@
 ---
 source: finance/cost-of-capital-japan-2026-reference
-source_hash: 116989d16e686c58
+source_hash: c6deaeab754f1ff6
 lang: en
 status: machine
 fidelity: ok

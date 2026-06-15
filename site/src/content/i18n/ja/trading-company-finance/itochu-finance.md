@@ -1,6 +1,6 @@
 ---
 source: trading-company-finance/itochu-finance
-source_hash: 91d3c5e7a2edbe0e
+source_hash: 2f40a64a3e029d99
 lang: ja
 status: machine
 fidelity: ok

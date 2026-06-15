@@ -1,6 +1,6 @@
 ---
 source: foreign-financial-institutions/bbva-bank-japan
-source_hash: e6dc9ccba912358d
+source_hash: 6a989c92d7ec7524
 lang: en
 status: machine
 fidelity: ok

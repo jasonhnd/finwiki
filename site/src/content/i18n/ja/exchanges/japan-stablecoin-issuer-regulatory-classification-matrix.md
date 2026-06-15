@@ -1,6 +1,6 @@
 ---
 source: exchanges/japan-stablecoin-issuer-regulatory-classification-matrix
-source_hash: e15510fbafd4044d
+source_hash: a5fd5a4a814f2073
 lang: ja
 status: machine
 fidelity: ok

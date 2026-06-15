@@ -1,6 +1,6 @@
 ---
 source: payment-firms/dg-financial-technology
-source_hash: 22098fe575369cad
+source_hash: 9f867b67070ef7ed
 lang: ja
 status: machine
 fidelity: ok

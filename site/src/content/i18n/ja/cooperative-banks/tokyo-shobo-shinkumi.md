@@ -1,6 +1,6 @@
 ---
 source: cooperative-banks/tokyo-shobo-shinkumi
-source_hash: fbb0101ff62600a5
+source_hash: 2e2d737d43691eeb
 lang: ja
 status: machine
 fidelity: ok

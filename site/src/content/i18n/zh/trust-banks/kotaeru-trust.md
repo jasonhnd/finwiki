@@ -1,6 +1,6 @@
 ---
 source: trust-banks/kotaeru-trust
-source_hash: c945b005fa73c306
+source_hash: 45cb0010fcdba3be
 lang: zh
 status: machine
 fidelity: ok

@@ -1,6 +1,6 @@
 ---
 source: regional-banks/kirayaka-bank
-source_hash: a2f0d75f5474d7a7
+source_hash: 80a4bcea577737f3
 lang: zh
 status: machine
 fidelity: ok

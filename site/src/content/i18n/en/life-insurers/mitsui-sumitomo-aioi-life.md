@@ -1,6 +1,6 @@
 ---
 source: life-insurers/mitsui-sumitomo-aioi-life
-source_hash: 744f6ee923d28935
+source_hash: 05e0a504cea58993
 lang: en
 status: machine
 fidelity: ok

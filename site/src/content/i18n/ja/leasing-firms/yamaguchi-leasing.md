@@ -1,6 +1,6 @@
 ---
 source: leasing-firms/yamaguchi-leasing
-source_hash: 709372a3a85705e6
+source_hash: d5cb492a520b1880
 lang: ja
 status: machine
 fidelity: ok

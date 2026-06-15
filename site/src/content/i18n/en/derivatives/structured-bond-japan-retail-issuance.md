@@ -1,6 +1,6 @@
 ---
 source: derivatives/structured-bond-japan-retail-issuance
-source_hash: 6a3f258877ffbea2
+source_hash: 642523bec383e99a
 lang: en
 status: machine
 fidelity: ok

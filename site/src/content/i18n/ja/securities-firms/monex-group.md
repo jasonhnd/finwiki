@@ -1,6 +1,6 @@
 ---
 source: securities-firms/monex-group
-source_hash: 87b85712ea1d994a
+source_hash: 5de5b62a7adbeaa8
 lang: ja
 status: machine
 fidelity: ok

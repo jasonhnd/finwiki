@@ -1,6 +1,6 @@
 ---
 source: trust-banks/asahi-trust
-source_hash: 562976f35feabeb7
+source_hash: eb98944b8abf8ffb
 lang: en
 status: machine
 fidelity: ok

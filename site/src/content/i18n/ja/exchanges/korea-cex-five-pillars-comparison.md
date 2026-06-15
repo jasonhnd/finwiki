@@ -1,6 +1,6 @@
 ---
 source: exchanges/korea-cex-five-pillars-comparison
-source_hash: 370eab60b01cc621
+source_hash: a2557d583b9505f2
 lang: ja
 status: machine
 fidelity: ok

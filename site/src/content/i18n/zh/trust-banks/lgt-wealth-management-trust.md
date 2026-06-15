@@ -1,6 +1,6 @@
 ---
 source: trust-banks/lgt-wealth-management-trust
-source_hash: 9f0922d031518309
+source_hash: d800ffd806a0a01b
 lang: zh
 status: machine
 fidelity: ok

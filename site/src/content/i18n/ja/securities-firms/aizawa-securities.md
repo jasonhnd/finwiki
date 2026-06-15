@@ -1,6 +1,6 @@
 ---
 source: securities-firms/aizawa-securities
-source_hash: b3331733f41ec478
+source_hash: 804b08bf794a59d4
 lang: ja
 status: machine
 fidelity: ok

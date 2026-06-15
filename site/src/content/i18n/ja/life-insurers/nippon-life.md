@@ -1,6 +1,6 @@
 ---
 source: life-insurers/nippon-life
-source_hash: 10c29fbc68aa0cfd
+source_hash: 873f178d2d7379e3
 lang: ja
 status: machine
 fidelity: ok

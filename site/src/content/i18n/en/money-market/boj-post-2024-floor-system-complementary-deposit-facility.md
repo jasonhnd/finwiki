@@ -1,6 +1,6 @@
 ---
 source: money-market/boj-post-2024-floor-system-complementary-deposit-facility
-source_hash: 2182fec9cda02b0b
+source_hash: 72f03f3f62832028
 lang: en
 status: machine
 fidelity: ok

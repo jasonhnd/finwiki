@@ -1,6 +1,6 @@
 ---
 source: exchanges/jp-crypto-exchange-overview
-source_hash: 1816a627fbb86d2f
+source_hash: 6cbedeba6ca63680
 lang: ja
 status: machine
 fidelity: ok

@@ -1,6 +1,6 @@
 ---
 source: trust-banks/jvalue-trust
-source_hash: 75400b1ced507fc1
+source_hash: 8503ebcfc774fa8a
 lang: zh
 status: machine
 fidelity: ok

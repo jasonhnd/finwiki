@@ -1,6 +1,6 @@
 ---
 source: non-life-insurers/nisshin-fire
-source_hash: ea3f2339160dbe1f
+source_hash: e7645b833cd0b957
 lang: en
 status: machine
 fidelity: ok

@@ -1,6 +1,6 @@
 ---
 source: cooperative-banks/ja-zen-noh
-source_hash: b62491426b1c9741
+source_hash: 9a79c025edb0ac2f
 lang: ja
 status: machine
 fidelity: ok

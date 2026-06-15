@@ -1,6 +1,6 @@
 ---
 source: fintech/three-circles-stablecoin-mra-framework
-source_hash: 8626d68bd10afcd1
+source_hash: 4164752b7da02b83
 lang: ja
 status: machine
 fidelity: ok

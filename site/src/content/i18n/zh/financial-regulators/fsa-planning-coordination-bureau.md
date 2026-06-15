@@ -1,6 +1,6 @@
 ---
 source: financial-regulators/fsa-planning-coordination-bureau
-source_hash: 8c849ea52781187a
+source_hash: 77a559cfe879fc20
 lang: zh
 status: machine
 fidelity: ok

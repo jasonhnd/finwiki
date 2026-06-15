@@ -1,6 +1,6 @@
 ---
 source: foreign-financial-institutions/ctbc-bank-japan
-source_hash: 17a8643575453579
+source_hash: afc2c1a9690848de
 lang: ja
 status: machine
 fidelity: ok

@@ -1,6 +1,6 @@
 ---
 source: trust-banks/nomura-trust-bank
-source_hash: 1d76ab8f6bbe6fc0
+source_hash: 767d5bf3a69c7591
 lang: ja
 status: machine
 fidelity: ok

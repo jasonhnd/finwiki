@@ -1,6 +1,6 @@
 ---
 source: fintech/japan-stablecoin-2026-event-tracker
-source_hash: 49ad69ff450cb0cc
+source_hash: e38f809c8d4d18a6
 lang: ja
 status: machine
 fidelity: ok

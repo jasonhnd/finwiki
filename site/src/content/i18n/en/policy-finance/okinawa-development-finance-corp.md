@@ -1,6 +1,6 @@
 ---
 source: policy-finance/okinawa-development-finance-corp
-source_hash: a1c1841954e990ef
+source_hash: 6d22648b6e63a893
 lang: en
 status: machine
 fidelity: ok

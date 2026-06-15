@@ -1,6 +1,6 @@
 ---
 source: securities-firms/chibagin-securities
-source_hash: 8184ad07e1ec311b
+source_hash: 2a13f69e066fd450
 lang: ja
 status: machine
 fidelity: ok

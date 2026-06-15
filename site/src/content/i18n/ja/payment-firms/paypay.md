@@ -1,6 +1,6 @@
 ---
 source: payment-firms/paypay
-source_hash: c363be403622a86f
+source_hash: 9d48e15f965f9b0c
 lang: ja
 status: machine
 fidelity: ok

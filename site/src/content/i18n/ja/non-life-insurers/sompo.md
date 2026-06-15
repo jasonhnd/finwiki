@@ -1,6 +1,6 @@
 ---
 source: non-life-insurers/sompo
-source_hash: 131ee9bb9bec9b55
+source_hash: 26913cc459e64842
 lang: ja
 status: machine
 fidelity: ok

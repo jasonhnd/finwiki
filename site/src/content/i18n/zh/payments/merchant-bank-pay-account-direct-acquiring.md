@@ -1,6 +1,6 @@
 ---
 source: payments/merchant-bank-pay-account-direct-acquiring
-source_hash: cf95d821def01a8c
+source_hash: 27983ae81278b5c9
 lang: zh
 status: machine
 fidelity: ok

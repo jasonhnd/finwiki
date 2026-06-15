@@ -1,6 +1,6 @@
 ---
 source: trust-banks/jsf-trust-bank
-source_hash: 8470b3a40a11b149
+source_hash: b66cb24e3d865934
 lang: zh
 status: machine
 fidelity: ok

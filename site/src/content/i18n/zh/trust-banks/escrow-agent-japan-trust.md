@@ -1,6 +1,6 @@
 ---
 source: trust-banks/escrow-agent-japan-trust
-source_hash: 62f94b80224aebd7
+source_hash: eb11934ec15e232c
 lang: zh
 status: machine
 fidelity: ok

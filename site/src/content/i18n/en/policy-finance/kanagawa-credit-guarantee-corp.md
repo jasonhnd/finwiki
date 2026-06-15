@@ -1,6 +1,6 @@
 ---
 source: policy-finance/kanagawa-credit-guarantee-corp
-source_hash: d8613af514ab2345
+source_hash: 05e9297e276b56e0
 lang: en
 status: machine
 fidelity: ok

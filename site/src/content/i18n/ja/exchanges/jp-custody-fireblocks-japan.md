@@ -1,6 +1,6 @@
 ---
 source: exchanges/jp-custody-fireblocks-japan
-source_hash: 96aa07b66a264ace
+source_hash: 01cf73e2747511b3
 lang: ja
 status: machine
 fidelity: ok

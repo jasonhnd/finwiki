@@ -1,6 +1,6 @@
 ---
 source: non-life-insurers/rescue-insurance
-source_hash: d0a0ff58ba62a421
+source_hash: 6363507d38d4efec
 lang: ja
 status: machine
 fidelity: ok

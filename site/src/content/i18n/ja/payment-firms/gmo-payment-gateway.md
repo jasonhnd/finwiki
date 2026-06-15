@@ -1,6 +1,6 @@
 ---
 source: payment-firms/gmo-payment-gateway
-source_hash: 108f0578b7e47522
+source_hash: ac10b6c103dd93b4
 lang: ja
 status: machine
 fidelity: ok

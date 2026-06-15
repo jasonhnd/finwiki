@@ -1,6 +1,6 @@
 ---
 source: exchanges/jp-cex-points-economy-integration
-source_hash: 10eacf3f88af9b2e
+source_hash: 21fa4dff658faddf
 lang: ja
 status: machine
 fidelity: ok

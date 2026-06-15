@@ -1,6 +1,6 @@
 ---
 source: payments/edy-rakuten-prepaid
-source_hash: 818accbddde52b11
+source_hash: baf73cd415770c05
 lang: en
 status: machine
 fidelity: ok

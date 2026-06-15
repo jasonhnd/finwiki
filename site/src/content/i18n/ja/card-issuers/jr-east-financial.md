@@ -1,6 +1,6 @@
 ---
 source: card-issuers/jr-east-financial
-source_hash: a6a312b8a3a7c0a3
+source_hash: c8d40555242971db
 lang: ja
 status: machine
 fidelity: ok

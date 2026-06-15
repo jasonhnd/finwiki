@@ -1,6 +1,6 @@
 ---
 source: payment-firms/wealthnavi
-source_hash: 8f0e3f2d21964572
+source_hash: 7343b6423d2a3b09
 lang: ja
 status: machine
 fidelity: ok

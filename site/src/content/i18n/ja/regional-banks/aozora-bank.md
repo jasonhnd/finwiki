@@ -1,6 +1,6 @@
 ---
 source: regional-banks/aozora-bank
-source_hash: 9086c349b6dc429b
+source_hash: 03ace4f934cad710
 lang: ja
 status: machine
 fidelity: ok

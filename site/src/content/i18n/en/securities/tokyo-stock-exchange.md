@@ -1,6 +1,6 @@
 ---
 source: securities/tokyo-stock-exchange
-source_hash: 2f93f1478202a911
+source_hash: 59838f179deac4e1
 lang: en
 status: machine
 fidelity: ok

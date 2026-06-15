@@ -1,6 +1,6 @@
 ---
 source: loyalty/t-point-v-point-post-2024-merger
-source_hash: ee40ec5aa9517b24
+source_hash: 1ea1746c9be437f5
 lang: en
 status: machine
 fidelity: ok

@@ -1,6 +1,6 @@
 ---
 source: life-insurers/fukoku-life
-source_hash: 185d0c09e9d9888e
+source_hash: 3187c8b3c526c768
 lang: en
 status: machine
 fidelity: ok

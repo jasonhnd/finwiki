@@ -1,6 +1,6 @@
 ---
 source: regional-banks/hyakujushi-bank
-source_hash: 25d79f3f546252ca
+source_hash: 28fbe0eefdcce095
 lang: ja
 status: machine
 fidelity: ok

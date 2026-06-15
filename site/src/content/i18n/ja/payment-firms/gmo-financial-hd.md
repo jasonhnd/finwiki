@@ -1,6 +1,6 @@
 ---
 source: payment-firms/gmo-financial-hd
-source_hash: c5bd3a4a46e4ede0
+source_hash: 42f37856778f6185
 lang: ja
 status: machine
 fidelity: ok

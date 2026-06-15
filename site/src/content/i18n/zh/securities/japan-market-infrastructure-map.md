@@ -1,6 +1,6 @@
 ---
 source: securities/japan-market-infrastructure-map
-source_hash: 2c9adb0ba441c455
+source_hash: 3f63ff70b78f9ee6
 lang: zh
 status: machine
 fidelity: ok

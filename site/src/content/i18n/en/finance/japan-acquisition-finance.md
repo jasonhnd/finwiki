@@ -1,6 +1,6 @@
 ---
 source: finance/japan-acquisition-finance
-source_hash: 48fede176cbb7e87
+source_hash: 7bfc94ba8fd303c0
 lang: en
 status: machine
 fidelity: ok

@@ -1,6 +1,6 @@
 ---
 source: money-market/boj-open-market-operations
-source_hash: 0429ed0489b37f58
+source_hash: 6be35ab9d42bb6e3
 lang: ja
 status: machine
 fidelity: ok

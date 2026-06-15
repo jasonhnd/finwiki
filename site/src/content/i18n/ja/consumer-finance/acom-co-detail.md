@@ -1,6 +1,6 @@
 ---
 source: consumer-finance/acom-co-detail
-source_hash: a831aad37c8bf471
+source_hash: 8c9cc5e2eaf07058
 lang: ja
 status: machine
 fidelity: ok

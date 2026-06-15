@@ -1,6 +1,6 @@
 ---
 source: payments/japan-bnpl-credit-purchase-boundary
-source_hash: 840d95fbdec143bd
+source_hash: 39e2fd462fc30fa4
 lang: zh
 status: machine
 fidelity: ok

@@ -1,6 +1,6 @@
 ---
 source: fintech/multi-megabank-consortium-governance
-source_hash: 7082c4f387c11adc
+source_hash: c84c96ff0fe92057
 lang: ja
 status: machine
 fidelity: ok

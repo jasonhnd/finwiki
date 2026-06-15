@@ -1,6 +1,6 @@
 ---
 source: life-insurers/sompo-himawari-life
-source_hash: 120f91d609ebe4b8
+source_hash: dbcffd141924d01d
 lang: en
 status: machine
 fidelity: ok

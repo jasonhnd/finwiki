@@ -1,6 +1,6 @@
 ---
 source: securities-firms/matsui-sec
-source_hash: 2f77612dc69b166b
+source_hash: fbc3eb642ea704be
 lang: ja
 status: machine
 fidelity: ok

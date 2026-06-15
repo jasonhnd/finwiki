@@ -1,6 +1,6 @@
 ---
 source: derivatives/swap-execution-facility-japan
-source_hash: 53185cae1e01d293
+source_hash: fb88c5223ed8a1f4
 lang: en
 status: machine
 fidelity: ok

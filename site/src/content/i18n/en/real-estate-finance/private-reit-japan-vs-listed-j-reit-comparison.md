@@ -1,6 +1,6 @@
 ---
 source: real-estate-finance/private-reit-japan-vs-listed-j-reit-comparison
-source_hash: c60e2a46791aa1d3
+source_hash: 1d30cb014ef1f641
 lang: en
 status: machine
 fidelity: ok

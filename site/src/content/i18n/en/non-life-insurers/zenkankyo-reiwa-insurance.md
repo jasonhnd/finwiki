@@ -1,6 +1,6 @@
 ---
 source: non-life-insurers/zenkankyo-reiwa-insurance
-source_hash: 4bb44cf7659c9ef7
+source_hash: 44ee581fd9fced4f
 lang: en
 status: machine
 fidelity: ok

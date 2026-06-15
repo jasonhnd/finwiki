@@ -1,6 +1,6 @@
 ---
 source: manufacturer-finance/floorplan-finance-mechanism
-source_hash: dfab25e1e3afc968
+source_hash: 8e95169052f1063a
 lang: zh
 model: claude-opus-4-8
 status: machine

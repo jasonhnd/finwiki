@@ -1,6 +1,6 @@
 ---
 source: securities/japan-margin-trading-and-securities-finance
-source_hash: 072e33366117b5f0
+source_hash: ccaa5cd761a08c3a
 lang: zh
 status: machine
 fidelity: ok

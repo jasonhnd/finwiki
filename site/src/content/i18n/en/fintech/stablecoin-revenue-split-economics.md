@@ -1,6 +1,6 @@
 ---
 source: fintech/stablecoin-revenue-split-economics
-source_hash: 2d235a8d647c385a
+source_hash: 95639487d1ad23da
 lang: en
 status: machine
 fidelity: ok

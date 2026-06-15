@@ -1,6 +1,6 @@
 ---
 source: foreign-financial-institutions/ocbc-bank-japan
-source_hash: c29c723abfe9e0e1
+source_hash: 86163e956b97b980
 lang: en
 status: machine
 fidelity: ok

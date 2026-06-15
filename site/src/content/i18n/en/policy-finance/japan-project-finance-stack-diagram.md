@@ -1,6 +1,6 @@
 ---
 source: policy-finance/japan-project-finance-stack-diagram
-source_hash: 27c1b1e0ac79de9f
+source_hash: 8654ee6cf4aa61f1
 lang: en
 status: machine
 fidelity: ok

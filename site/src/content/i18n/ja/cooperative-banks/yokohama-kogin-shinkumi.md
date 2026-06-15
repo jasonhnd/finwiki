@@ -1,6 +1,6 @@
 ---
 source: cooperative-banks/yokohama-kogin-shinkumi
-source_hash: 2de5354ea51dcc29
+source_hash: 06fdc7ab5b7c425e
 lang: ja
 status: machine
 fidelity: ok

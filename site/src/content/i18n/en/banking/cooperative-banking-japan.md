@@ -1,6 +1,6 @@
 ---
 source: banking/cooperative-banking-japan
-source_hash: af4e27db47786a69
+source_hash: ba1eb23041f32ea8
 lang: en
 status: machine
 fidelity: ok

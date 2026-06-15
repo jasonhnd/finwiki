@@ -1,6 +1,6 @@
 ---
 source: regional-banks/joyo-bank
-source_hash: 187d9c5414c2eb9b
+source_hash: 1dd6f7a6b22920c9
 lang: ja
 status: machine
 fidelity: ok

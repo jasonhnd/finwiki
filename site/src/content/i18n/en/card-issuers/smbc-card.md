@@ -1,6 +1,6 @@
 ---
 source: card-issuers/smbc-card
-source_hash: fb1e2f7529496be9
+source_hash: a93ea0e4b664b6e6
 lang: en
 status: machine
 fidelity: ok

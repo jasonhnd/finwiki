@@ -1,6 +1,6 @@
 ---
 source: securities/japan-ipo-listing-disclosure-route
-source_hash: 1419594bf90b45ff
+source_hash: 18d3cdbca6909e40
 lang: en
 status: machine
 fidelity: ok

@@ -1,6 +1,6 @@
 ---
 source: exchanges/jp-exchange-bitflyer
-source_hash: 71117195adf3bee1
+source_hash: a34662a8c80c39b1
 lang: ja
 status: machine
 fidelity: ok

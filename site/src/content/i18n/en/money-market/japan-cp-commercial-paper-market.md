@@ -1,6 +1,6 @@
 ---
 source: money-market/japan-cp-commercial-paper-market
-source_hash: b67a46f694dbba93
+source_hash: e9ecbe2b0f0da38d
 lang: en
 status: machine
 fidelity: ok

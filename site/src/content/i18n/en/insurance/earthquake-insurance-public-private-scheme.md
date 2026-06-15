@@ -1,6 +1,6 @@
 ---
 source: insurance/earthquake-insurance-public-private-scheme
-source_hash: 39818276a3aa8313
+source_hash: 8cf250c35e518d9c
 lang: en
 status: machine
 fidelity: ok

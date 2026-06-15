@@ -1,6 +1,6 @@
 ---
 source: banking/minna-bank-baas-model
-source_hash: 880413d9d93549b4
+source_hash: e10f75fa56437b80
 lang: en
 status: machine
 fidelity: ok

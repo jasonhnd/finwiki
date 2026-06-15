@@ -1,6 +1,6 @@
 ---
 source: foreign-financial-institutions/woori-bank-japan
-source_hash: bb1e61882b70dfd2
+source_hash: 05fc6cf3e419736f
 lang: ja
 status: machine
 fidelity: ok

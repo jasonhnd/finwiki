@@ -1,6 +1,6 @@
 ---
 source: securities/japan-short-selling-and-stock-loan-controls
-source_hash: d764b7bd2fb3612a
+source_hash: e209041853fc68c8
 lang: en
 status: machine
 fidelity: ok

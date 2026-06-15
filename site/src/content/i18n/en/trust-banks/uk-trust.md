@@ -1,6 +1,6 @@
 ---
 source: trust-banks/uk-trust
-source_hash: 9b50761ae9fe53a4
+source_hash: 5a3e16c0ef3de247
 lang: en
 status: machine
 fidelity: ok

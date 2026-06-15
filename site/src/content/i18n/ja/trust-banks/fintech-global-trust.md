@@ -1,6 +1,6 @@
 ---
 source: trust-banks/fintech-global-trust
-source_hash: a7bbc2ab91c31a5e
+source_hash: a9d9a9c2a56d2646
 lang: ja
 status: machine
 fidelity: ok

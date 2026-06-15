@@ -1,6 +1,6 @@
 ---
 source: real-estate-finance/j-reit-foreign-investor-ownership
-source_hash: e4940ffde146c243
+source_hash: 4996d1e0d9dab599
 lang: en
 status: machine
 fidelity: ok

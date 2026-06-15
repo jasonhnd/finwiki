@@ -1,6 +1,6 @@
 ---
 source: real-estate-finance/logistics-j-reit-vs-office-j-reit-asset-class-comparison
-source_hash: 8d0da96dc75553b9
+source_hash: 2d11bd66f5e300f8
 lang: en
 status: machine
 fidelity: ok

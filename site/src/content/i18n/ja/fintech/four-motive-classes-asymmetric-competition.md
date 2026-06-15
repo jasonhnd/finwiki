@@ -1,6 +1,6 @@
 ---
 source: fintech/four-motive-classes-asymmetric-competition
-source_hash: 9a00498d81298ac6
+source_hash: 44ef2ac1396245f2
 lang: ja
 status: machine
 fidelity: ok

@@ -1,6 +1,6 @@
 ---
 source: derivatives/cross-currency-basis-swap-japan
-source_hash: 92146f249046753c
+source_hash: dca35ba5aaeece95
 lang: en
 status: machine
 fidelity: ok

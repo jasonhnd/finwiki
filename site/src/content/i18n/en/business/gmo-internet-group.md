@@ -1,6 +1,6 @@
 ---
 source: business/gmo-internet-group
-source_hash: 20ec7fb35f511224
+source_hash: 07e9d17691010605
 lang: en
 status: machine
 fidelity: ok

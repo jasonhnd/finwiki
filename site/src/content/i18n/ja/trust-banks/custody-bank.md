@@ -1,6 +1,6 @@
 ---
 source: trust-banks/custody-bank
-source_hash: f8ee68ff4bce2ea4
+source_hash: 4a0c6785c098d2a6
 lang: ja
 status: machine
 fidelity: ok

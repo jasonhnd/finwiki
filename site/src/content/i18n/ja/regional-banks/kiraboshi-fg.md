@@ -1,6 +1,6 @@
 ---
 source: regional-banks/kiraboshi-fg
-source_hash: fed5078462be92c2
+source_hash: 0fb35cf365098109
 lang: ja
 status: machine
 fidelity: ok

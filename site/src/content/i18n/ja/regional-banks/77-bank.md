@@ -1,6 +1,6 @@
 ---
 source: regional-banks/77-bank
-source_hash: de41857c51ab60b2
+source_hash: c55794e8bfc060c1
 lang: ja
 status: machine
 fidelity: ok

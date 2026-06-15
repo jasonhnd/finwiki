@@ -1,6 +1,6 @@
 ---
 source: payments/japan-card-security-authentication-controls
-source_hash: ddc68a139781a901
+source_hash: 726a81f3eecdaee7
 lang: en
 status: machine
 fidelity: ok

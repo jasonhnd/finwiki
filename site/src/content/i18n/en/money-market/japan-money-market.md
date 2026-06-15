@@ -1,6 +1,6 @@
 ---
 source: money-market/japan-money-market
-source_hash: 0457b8cb23f34878
+source_hash: 90a8356680a2f50d
 lang: en
 status: machine
 fidelity: ok

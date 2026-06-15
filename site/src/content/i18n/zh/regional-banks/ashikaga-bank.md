@@ -1,6 +1,6 @@
 ---
 source: regional-banks/ashikaga-bank
-source_hash: 797deb99226084e5
+source_hash: 56df8297881507fd
 lang: zh
 status: machine
 fidelity: ok

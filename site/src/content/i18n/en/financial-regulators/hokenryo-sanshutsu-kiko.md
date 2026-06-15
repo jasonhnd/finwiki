@@ -1,6 +1,6 @@
 ---
 source: financial-regulators/hokenryo-sanshutsu-kiko
-source_hash: a730db428a74a8e7
+source_hash: 70f509cd59df419c
 lang: en
 status: machine
 fidelity: ok

@@ -1,6 +1,6 @@
 ---
 source: policy-finance/japan-housing-finance-agency
-source_hash: 79385baa06b7957f
+source_hash: 19876f923f884943
 lang: en
 status: machine
 fidelity: ok

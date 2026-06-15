@@ -1,6 +1,6 @@
 ---
 source: life-insurers/lifenet
-source_hash: fa842a1a0a9ef245
+source_hash: fdc0bd7f149663fe
 lang: ja
 status: machine
 fidelity: ok

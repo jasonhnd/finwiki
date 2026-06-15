@@ -1,6 +1,6 @@
 ---
 source: finance/japan-convertible-bond-mechanics
-source_hash: ad123e3128027510
+source_hash: fb3b125eddbde36a
 lang: en
 status: machine
 fidelity: ok

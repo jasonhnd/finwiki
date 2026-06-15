@@ -1,6 +1,6 @@
 ---
 source: non-life-insurers/lloyd-japan
-source_hash: 87b8f79fffdf9658
+source_hash: f6c8dccfa52fd00b
 lang: ja
 status: machine
 fidelity: ok

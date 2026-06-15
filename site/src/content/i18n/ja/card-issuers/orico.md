@@ -1,6 +1,6 @@
 ---
 source: card-issuers/orico
-source_hash: 56ed6d6f6e797f22
+source_hash: 5b74384c05822228
 lang: ja
 status: machine
 fidelity: ok

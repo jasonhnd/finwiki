@@ -1,6 +1,6 @@
 ---
 source: securities-firms/nomura-hd
-source_hash: 2232be608a2f42b1
+source_hash: 7618e7ce193856a6
 lang: ja
 status: machine
 fidelity: ok

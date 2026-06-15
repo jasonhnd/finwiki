@@ -1,6 +1,6 @@
 ---
 source: regional-banks/musashino-bank
-source_hash: 5a044c81013f610a
+source_hash: b88754813aa0beed
 lang: ja
 status: machine
 fidelity: ok

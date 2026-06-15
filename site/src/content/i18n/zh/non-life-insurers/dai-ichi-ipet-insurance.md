@@ -1,6 +1,6 @@
 ---
 source: non-life-insurers/dai-ichi-ipet-insurance
-source_hash: ed85480b699ac26a
+source_hash: 1645dc8f77c31ce2
 lang: zh
 status: machine
 fidelity: ok

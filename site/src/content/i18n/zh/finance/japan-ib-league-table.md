@@ -1,6 +1,6 @@
 ---
 source: finance/japan-ib-league-table
-source_hash: d78c46551c281f90
+source_hash: a2dbdfd6ef807a75
 lang: zh
 status: machine
 fidelity: ok

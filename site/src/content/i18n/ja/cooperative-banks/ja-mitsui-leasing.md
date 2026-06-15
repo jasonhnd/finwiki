@@ -1,6 +1,6 @@
 ---
 source: cooperative-banks/ja-mitsui-leasing
-source_hash: e09268a40e2e4ce5
+source_hash: cca762fef30a24d1
 lang: ja
 status: machine
 fidelity: ok

@@ -1,6 +1,6 @@
 ---
 source: payments/japan-interchange-and-merchant-fee-stack
-source_hash: 82b80ae7aa9d5f2f
+source_hash: 96c290f4de43a8da
 lang: zh
 status: machine
 fidelity: ok

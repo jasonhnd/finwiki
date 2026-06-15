@@ -1,6 +1,6 @@
 ---
 source: regional-banks/18-shinwa-bank
-source_hash: a6c15ccc06d52adc
+source_hash: f4aff57047e4d596
 lang: ja
 status: machine
 fidelity: ok

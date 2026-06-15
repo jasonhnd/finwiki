@@ -1,6 +1,6 @@
 ---
 source: real-estate-finance/real-estate-bridge-fund-japan
-source_hash: fd5fcd19f7e042c4
+source_hash: 749471a845985cea
 lang: ja
 status: machine
 fidelity: ok

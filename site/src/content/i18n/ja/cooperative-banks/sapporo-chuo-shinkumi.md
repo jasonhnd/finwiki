@@ -1,6 +1,6 @@
 ---
 source: cooperative-banks/sapporo-chuo-shinkumi
-source_hash: c5f7b7cb047e698f
+source_hash: 1838e1095a5c545b
 lang: ja
 status: machine
 fidelity: ok

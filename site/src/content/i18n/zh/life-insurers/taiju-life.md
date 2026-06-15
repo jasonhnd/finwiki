@@ -1,6 +1,6 @@
 ---
 source: life-insurers/taiju-life
-source_hash: bbef09cec8bd4e29
+source_hash: 286094205b3c33b9
 lang: zh
 status: machine
 fidelity: ok

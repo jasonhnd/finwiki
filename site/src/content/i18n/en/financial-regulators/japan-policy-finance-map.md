@@ -1,6 +1,6 @@
 ---
 source: financial-regulators/japan-policy-finance-map
-source_hash: 6e77ae2ae9262aa3
+source_hash: 27ae54ac65611541
 lang: en
 status: machine
 fidelity: ok

@@ -1,6 +1,6 @@
 ---
 source: regional-banks/shiga-bank
-source_hash: 44ad3f245c832b47
+source_hash: d9df5969ebfd7497
 lang: ja
 status: machine
 fidelity: ok

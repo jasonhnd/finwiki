@@ -1,6 +1,6 @@
 ---
 source: regional-banks/kyoto-fg
-source_hash: 9d7656da382c684c
+source_hash: 1d938031ee03d443
 lang: ja
 status: machine
 fidelity: ok

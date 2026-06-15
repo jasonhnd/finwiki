@@ -1,6 +1,6 @@
 ---
 source: insurance/medical-cancer-insurance-product-economics
-source_hash: b444af86e4311a71
+source_hash: 0577921b70447f70
 lang: zh
 status: machine
 fidelity: ok

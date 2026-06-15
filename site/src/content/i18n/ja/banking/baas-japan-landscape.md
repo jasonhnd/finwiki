@@ -1,6 +1,6 @@
 ---
 source: banking/baas-japan-landscape
-source_hash: 59004eaed7a6ecaf
+source_hash: 5483848c42f6a179
 lang: ja
 status: machine
 fidelity: ok

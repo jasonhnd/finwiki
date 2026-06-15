@@ -1,6 +1,6 @@
 ---
 source: regional-banks/tokushima-taisho-bank
-source_hash: 0fa2d1d988fc5733
+source_hash: 3f95c13f8a3951c6
 lang: ja
 status: machine
 fidelity: ok

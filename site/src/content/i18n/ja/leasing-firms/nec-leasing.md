@@ -1,6 +1,6 @@
 ---
 source: leasing-firms/nec-leasing
-source_hash: 6661db581eac7f04
+source_hash: eb00f81df00ae2ba
 lang: ja
 status: machine
 fidelity: ok

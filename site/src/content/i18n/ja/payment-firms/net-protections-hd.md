@@ -1,6 +1,6 @@
 ---
 source: payment-firms/net-protections-hd
-source_hash: 2239116bdb84d047
+source_hash: 89acfa7df7d5f896
 lang: ja
 status: machine
 fidelity: ok

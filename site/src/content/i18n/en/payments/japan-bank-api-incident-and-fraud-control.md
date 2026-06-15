@@ -1,6 +1,6 @@
 ---
 source: payments/japan-bank-api-incident-and-fraud-control
-source_hash: 0687dee20b12eea6
+source_hash: 0bf16dee83164eb7
 lang: en
 status: machine
 fidelity: ok

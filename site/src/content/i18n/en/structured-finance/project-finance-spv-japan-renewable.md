@@ -1,6 +1,6 @@
 ---
 source: structured-finance/project-finance-spv-japan-renewable
-source_hash: 82d60f4a5b13d9ec
+source_hash: 0de05c20b39cb9ca
 lang: en
 status: machine
 fidelity: ok

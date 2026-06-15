@@ -1,6 +1,6 @@
 ---
 source: leasing-firms/orix-corp
-source_hash: 70fffad576d76c9d
+source_hash: cc00c969aa6fc607
 lang: ja
 status: machine
 fidelity: ok

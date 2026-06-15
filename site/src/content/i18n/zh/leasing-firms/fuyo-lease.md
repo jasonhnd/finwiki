@@ -1,6 +1,6 @@
 ---
 source: leasing-firms/fuyo-lease
-source_hash: f5671f88fc25fb9f
+source_hash: aa64fdc8af33a41e
 lang: zh
 status: machine
 fidelity: ok

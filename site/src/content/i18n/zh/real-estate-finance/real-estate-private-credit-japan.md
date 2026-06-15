@@ -1,6 +1,6 @@
 ---
 source: real-estate-finance/real-estate-private-credit-japan
-source_hash: 1f34f940f9d288e9
+source_hash: 24e3d2a17abc589e
 lang: zh
 status: machine
 fidelity: ok

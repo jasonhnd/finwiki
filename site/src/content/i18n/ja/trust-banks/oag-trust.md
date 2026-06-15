@@ -1,6 +1,6 @@
 ---
 source: trust-banks/oag-trust
-source_hash: a927f39328d44063
+source_hash: 4fb50db746ead816
 lang: ja
 status: machine
 fidelity: ok

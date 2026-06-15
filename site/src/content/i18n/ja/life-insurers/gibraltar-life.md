@@ -1,6 +1,6 @@
 ---
 source: life-insurers/gibraltar-life
-source_hash: 0b6ffa2940d830a5
+source_hash: fc91bfb044a882a3
 lang: ja
 status: machine
 fidelity: ok

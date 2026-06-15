@@ -1,6 +1,6 @@
 ---
 source: foreign-financial-institutions/taiwan-cooperative-bank-japan
-source_hash: 079c7f512088edcc
+source_hash: ca0d2b221d21cb5d
 lang: zh
 status: machine
 fidelity: ok

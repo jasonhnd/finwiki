@@ -1,6 +1,6 @@
 ---
 source: fintech/jp-stablecoin-dcjpy
-source_hash: 2f7c87a9bf1c1f5e
+source_hash: 5388de1115bba4b1
 lang: ja
 status: machine
 fidelity: ok

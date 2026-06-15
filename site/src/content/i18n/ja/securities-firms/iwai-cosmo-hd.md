@@ -1,6 +1,6 @@
 ---
 source: securities-firms/iwai-cosmo-hd
-source_hash: a1fe444a0496cd77
+source_hash: 408160a683563976
 lang: ja
 status: machine
 fidelity: ok

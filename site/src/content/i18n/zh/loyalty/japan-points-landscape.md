@@ -1,6 +1,6 @@
 ---
 source: loyalty/japan-points-landscape
-source_hash: a7e1c10fb71768c3
+source_hash: 58c6574957e51359
 lang: zh
 status: machine
 fidelity: ok

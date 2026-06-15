@@ -1,6 +1,6 @@
 ---
 source: payments/funds-transfer-service-providers-japan-index
-source_hash: 4f5cf344ee7b1162
+source_hash: 2e70677bbf51158e
 lang: en
 status: machine
 fidelity: ok

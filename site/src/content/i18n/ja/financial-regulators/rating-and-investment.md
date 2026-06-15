@@ -1,6 +1,6 @@
 ---
 source: financial-regulators/rating-and-investment
-source_hash: c1c97db5b6c6a2d5
+source_hash: 73a0d482012617d1
 lang: ja
 status: machine
 fidelity: ok

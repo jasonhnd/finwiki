@@ -1,6 +1,6 @@
 ---
 source: securities-firms/daiwa-sg
-source_hash: b94e1c696e877472
+source_hash: 00f61321f5f70001
 lang: ja
 status: machine
 fidelity: ok

@@ -1,6 +1,6 @@
 ---
 source: financial-regulators/fsa-supervision-bureau
-source_hash: 0c98d49f6e8ec61f
+source_hash: 51ba50c4ab79a631
 lang: en
 status: machine
 fidelity: ok

@@ -1,6 +1,6 @@
 ---
 source: regional-banks/proclair-hd
-source_hash: 2ba266a2f3ecf699
+source_hash: 69bb715c73bc14b3
 lang: ja
 status: machine
 fidelity: ok

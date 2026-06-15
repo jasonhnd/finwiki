@@ -1,6 +1,6 @@
 ---
 source: foreign-financial-institutions/uob-bank-japan
-source_hash: f242da9d03ff9458
+source_hash: d5c0a4f39d05e541
 lang: en
 status: machine
 fidelity: ok

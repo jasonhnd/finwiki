@@ -1,6 +1,6 @@
 ---
 source: cooperative-banks/osaka-shogin-shinkumi
-source_hash: 4f1f5b4153369d95
+source_hash: b4cb10ea97b039f5
 lang: ja
 status: machine
 fidelity: ok

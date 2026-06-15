@@ -1,6 +1,6 @@
 ---
 source: corporate-strategy/japan-kaisha-bunkatsu-tax-regime
-source_hash: 06259aa1c0c61bd4
+source_hash: 706ede0691b6d26b
 lang: en
 status: machine
 fidelity: ok

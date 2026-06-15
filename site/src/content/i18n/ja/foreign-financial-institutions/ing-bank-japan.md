@@ -1,6 +1,6 @@
 ---
 source: foreign-financial-institutions/ing-bank-japan
-source_hash: 28e10448dab56308
+source_hash: d1a3dcabdaa8af2e
 lang: ja
 status: machine
 fidelity: ok

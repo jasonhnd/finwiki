@@ -1,6 +1,6 @@
 ---
 source: securities/odx-start-stb-secondary-market
-source_hash: 3d8d4b22d2c1f436
+source_hash: 9c6a5b205cb2d7b1
 lang: ja
 status: machine
 fidelity: ok

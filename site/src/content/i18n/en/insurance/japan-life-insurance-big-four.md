@@ -1,6 +1,6 @@
 ---
 source: insurance/japan-life-insurance-big-four
-source_hash: 8389fe8cc196b0cd
+source_hash: 25903deec54119d9
 lang: en
 status: machine
 fidelity: ok

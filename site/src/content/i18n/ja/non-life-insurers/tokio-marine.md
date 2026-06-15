@@ -1,6 +1,6 @@
 ---
 source: non-life-insurers/tokio-marine
-source_hash: 52fb10d2c1579f5e
+source_hash: de38b359d2e24421
 lang: ja
 status: machine
 fidelity: ok

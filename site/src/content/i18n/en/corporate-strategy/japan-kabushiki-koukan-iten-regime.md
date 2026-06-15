@@ -1,6 +1,6 @@
 ---
 source: corporate-strategy/japan-kabushiki-koukan-iten-regime
-source_hash: e1a8c06bb5ed26a3
+source_hash: 79f5012292a23d1b
 lang: en
 model: claude-opus-4-8
 status: machine

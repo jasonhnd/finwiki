@@ -1,6 +1,6 @@
 ---
 source: trust-banks/castglobal-trust
-source_hash: 992cb7c0fa79dca2
+source_hash: 10dd6486fcba19a3
 lang: en
 status: machine
 fidelity: ok

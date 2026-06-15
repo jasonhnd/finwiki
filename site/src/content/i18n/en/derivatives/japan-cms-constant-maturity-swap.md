@@ -1,6 +1,6 @@
 ---
 source: derivatives/japan-cms-constant-maturity-swap
-source_hash: a66f8d7ebe020145
+source_hash: 9b3a21384c19d0d6
 lang: en
 status: machine
 fidelity: ok

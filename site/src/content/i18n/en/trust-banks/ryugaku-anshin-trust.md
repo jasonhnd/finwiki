@@ -1,6 +1,6 @@
 ---
 source: trust-banks/ryugaku-anshin-trust
-source_hash: d519b6b5dae26c30
+source_hash: cb896060b8e5ed50
 lang: en
 status: machine
 fidelity: ok

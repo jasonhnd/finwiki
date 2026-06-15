@@ -1,6 +1,6 @@
 ---
 source: real-estate-finance/gk-tk-bond-real-estate-spv
-source_hash: 278a0642ab0a926f
+source_hash: 52ca78a5289a6837
 lang: en
 status: machine
 fidelity: ok

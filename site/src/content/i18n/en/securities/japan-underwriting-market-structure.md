@@ -1,6 +1,6 @@
 ---
 source: securities/japan-underwriting-market-structure
-source_hash: ab4dbd4c8c333729
+source_hash: 15a05a0c8e290982
 lang: en
 status: machine
 fidelity: ok

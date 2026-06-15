@@ -1,6 +1,6 @@
 ---
 source: leasing-firms/chibagin-leasing
-source_hash: 91cd04ff7cc77902
+source_hash: b8c525f20fba9c38
 lang: zh
 status: machine
 fidelity: ok

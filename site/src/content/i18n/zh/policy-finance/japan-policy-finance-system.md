@@ -1,6 +1,6 @@
 ---
 source: policy-finance/japan-policy-finance-system
-source_hash: 1457afd6b8191ec0
+source_hash: 1f68876491073308
 lang: zh
 status: machine
 fidelity: ok

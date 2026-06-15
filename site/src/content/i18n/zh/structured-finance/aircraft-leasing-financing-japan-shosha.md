@@ -1,6 +1,6 @@
 ---
 source: structured-finance/aircraft-leasing-financing-japan-shosha
-source_hash: 9c1a6d87410ce84c
+source_hash: 1d02435c97fd814d
 lang: zh
 status: machine
 fidelity: ok

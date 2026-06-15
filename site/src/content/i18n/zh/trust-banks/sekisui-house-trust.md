@@ -1,6 +1,6 @@
 ---
 source: trust-banks/sekisui-house-trust
-source_hash: f6989566c4a0e7a1
+source_hash: 4397f79efa007f60
 lang: zh
 status: machine
 fidelity: ok

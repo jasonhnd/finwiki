@@ -1,6 +1,6 @@
 ---
 source: financial-conglomerates/sojitz-corp
-source_hash: 068acbbc607d7766
+source_hash: 662d1eea77af88f9
 lang: ja
 status: machine
 fidelity: ok

@@ -1,6 +1,6 @@
 ---
 source: financial-regulators/japan-exchange-group
-source_hash: fa273acd3fff9e13
+source_hash: 328a67d88dc61cad
 lang: zh
 status: machine
 fidelity: ok

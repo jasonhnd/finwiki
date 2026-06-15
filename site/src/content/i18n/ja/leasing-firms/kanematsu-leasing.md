@@ -1,6 +1,6 @@
 ---
 source: leasing-firms/kanematsu-leasing
-source_hash: e14b38acb838201c
+source_hash: 2e89d10f9dd212be
 lang: ja
 status: machine
 fidelity: ok

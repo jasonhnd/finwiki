@@ -1,6 +1,6 @@
 ---
 source: payments/japan-payment-scheme-economics-matrix
-source_hash: 4f18f84cf77d9029
+source_hash: ba7a2ece0be052ca
 lang: en
 status: machine
 fidelity: ok

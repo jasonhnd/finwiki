@@ -1,6 +1,6 @@
 ---
 source: financial-regulators/japan-pi-club
-source_hash: d53bfb7d4f8421f2
+source_hash: 7403a7a8dbfdabdb
 lang: ja
 status: machine
 fidelity: ok

@@ -1,6 +1,6 @@
 ---
 source: money-market/japan-tbill-treasury-discount-bill
-source_hash: b50356a5d713d84f
+source_hash: 1d17427fbf914936
 lang: en
 status: machine
 fidelity: ok

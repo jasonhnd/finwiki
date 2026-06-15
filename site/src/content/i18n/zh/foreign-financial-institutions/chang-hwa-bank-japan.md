@@ -1,6 +1,6 @@
 ---
 source: foreign-financial-institutions/chang-hwa-bank-japan
-source_hash: 1537aae264fa19ad
+source_hash: 5c9a2b21bb50c1e5
 lang: zh
 status: machine
 fidelity: ok

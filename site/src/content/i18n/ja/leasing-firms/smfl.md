@@ -1,6 +1,6 @@
 ---
 source: leasing-firms/smfl
-source_hash: d87e229ac97f1bbe
+source_hash: 8de8c774ab87a610
 lang: ja
 status: machine
 fidelity: ok

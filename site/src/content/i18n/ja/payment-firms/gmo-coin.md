@@ -1,6 +1,6 @@
 ---
 source: payment-firms/gmo-coin
-source_hash: 345227176bc44182
+source_hash: 40d15092f8f9b3e6
 lang: ja
 status: machine
 fidelity: ok

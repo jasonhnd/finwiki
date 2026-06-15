@@ -1,6 +1,6 @@
 ---
 source: business/rakuten-group-mobile-finance-bundling-case
-source_hash: c0d5e2c325b5463f
+source_hash: 3558f5d8c7020d36
 lang: en
 status: machine
 fidelity: ok

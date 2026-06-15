@@ -1,6 +1,6 @@
 ---
 source: business/sony-fg-partial-spinoff-case
-source_hash: 4679ecdf49d7c393
+source_hash: 3cf5377bf02ebe63
 lang: zh
 status: machine
 fidelity: ok

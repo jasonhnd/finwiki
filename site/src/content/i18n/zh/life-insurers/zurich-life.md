@@ -1,6 +1,6 @@
 ---
 source: life-insurers/zurich-life
-source_hash: bb0985c276b47564
+source_hash: 93fb4449b28de1a8
 lang: zh
 status: machine
 fidelity: ok

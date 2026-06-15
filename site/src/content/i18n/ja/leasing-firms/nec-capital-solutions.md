@@ -1,6 +1,6 @@
 ---
 source: leasing-firms/nec-capital-solutions
-source_hash: c9333a9a24ecba06
+source_hash: ddf1ef8ab2ad52c0
 lang: ja
 status: machine
 fidelity: ok

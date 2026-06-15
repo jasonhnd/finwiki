@@ -1,6 +1,6 @@
 ---
 source: foreign-financial-institutions/ubs-japan
-source_hash: 05cf316fd3cb2324
+source_hash: ba9864d52a317056
 lang: ja
 status: machine
 fidelity: ok

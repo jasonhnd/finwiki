@@ -1,6 +1,6 @@
 ---
 source: leasing-firms/mebuki-lease
-source_hash: 79973862e4aebd5b
+source_hash: 0fdc9f1fb8ce9bd4
 lang: ja
 status: machine
 fidelity: ok

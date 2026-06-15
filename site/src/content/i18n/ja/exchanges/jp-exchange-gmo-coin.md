@@ -1,6 +1,6 @@
 ---
 source: exchanges/jp-exchange-gmo-coin
-source_hash: b6a2f7ead6384596
+source_hash: 1c82a9c556877dcd
 lang: ja
 status: machine
 fidelity: ok

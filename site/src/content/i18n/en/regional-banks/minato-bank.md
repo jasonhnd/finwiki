@@ -1,6 +1,6 @@
 ---
 source: regional-banks/minato-bank
-source_hash: c3da6d94010f0596
+source_hash: 1370dcc60815857c
 lang: en
 status: machine
 fidelity: ok

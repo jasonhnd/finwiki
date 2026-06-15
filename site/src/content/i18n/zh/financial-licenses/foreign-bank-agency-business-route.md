@@ -1,6 +1,6 @@
 ---
 source: financial-licenses/foreign-bank-agency-business-route
-source_hash: 63a4d333d2768250
+source_hash: aa40211842e0053d
 lang: zh
 status: machine
 fidelity: ok

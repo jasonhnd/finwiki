@@ -1,6 +1,6 @@
 ---
 source: leasing-firms/sumitomo-mitsui-auto-service
-source_hash: 1bc5653f341c7ebb
+source_hash: f59dbaf7ce1be4cd
 lang: ja
 status: machine
 fidelity: ok

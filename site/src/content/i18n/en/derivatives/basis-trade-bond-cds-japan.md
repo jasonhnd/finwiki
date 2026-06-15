@@ -1,6 +1,6 @@
 ---
 source: derivatives/basis-trade-bond-cds-japan
-source_hash: f8d10062ecb83659
+source_hash: 54304e00452a6d3d
 lang: en
 status: machine
 fidelity: ok

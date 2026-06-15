@@ -1,6 +1,6 @@
 ---
 source: foreign-financial-institutions/bank-of-india-japan
-source_hash: b17f5a3bdc0cdba3
+source_hash: b92a37c82578f6db
 lang: ja
 status: machine
 fidelity: ok

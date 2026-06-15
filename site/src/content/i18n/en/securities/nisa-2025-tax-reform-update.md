@@ -1,6 +1,6 @@
 ---
 source: securities/nisa-2025-tax-reform-update
-source_hash: 869008874306d080
+source_hash: 722d7fa2f5dd2306
 lang: en
 status: machine
 fidelity: ok

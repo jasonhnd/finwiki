@@ -1,6 +1,6 @@
 ---
 source: exchanges/jp-exchange-dmm-com-securities
-source_hash: 1f8dc54981fc5a24
+source_hash: aa690a88f36c6612
 lang: ja
 status: machine
 fidelity: ok

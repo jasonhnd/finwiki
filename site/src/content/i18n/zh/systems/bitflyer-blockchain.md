@@ -1,6 +1,6 @@
 ---
 source: systems/bitflyer-blockchain
-source_hash: edb4416adfd38a1f
+source_hash: 0bfae0113b6a51fb
 lang: zh
 status: machine
 fidelity: ok

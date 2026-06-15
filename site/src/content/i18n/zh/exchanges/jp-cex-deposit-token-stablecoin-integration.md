@@ -1,6 +1,6 @@
 ---
 source: exchanges/jp-cex-deposit-token-stablecoin-integration
-source_hash: 71b911f813fcfe25
+source_hash: a5342c9fdf36a131
 lang: zh
 status: machine
 fidelity: ok

@@ -1,6 +1,6 @@
 ---
 source: manufacturer-finance/export-finance-mechanism
-source_hash: 975ebc84f2626f37
+source_hash: 5854cd873c4393cd
 lang: ja
 model: claude-opus-4-8
 status: machine

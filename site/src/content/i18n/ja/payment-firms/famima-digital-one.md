@@ -1,6 +1,6 @@
 ---
 source: payment-firms/famima-digital-one
-source_hash: 6f839dfb0fd6528a
+source_hash: 313194440dbea807
 lang: ja
 status: machine
 fidelity: ok

@@ -1,6 +1,6 @@
 ---
 source: real-estate-finance/bank-commercial-real-estate-lending-japan
-source_hash: 5fd4f989ed0789bd
+source_hash: 0f74bf3e3f948e30
 lang: en
 status: machine
 fidelity: ok

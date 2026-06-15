@@ -1,6 +1,6 @@
 ---
 source: life-insurers/rga-japan
-source_hash: 16a4f23923416c63
+source_hash: 43de985f16d42cc8
 lang: en
 status: machine
 fidelity: ok

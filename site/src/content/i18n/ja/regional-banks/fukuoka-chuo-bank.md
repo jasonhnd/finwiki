@@ -1,6 +1,6 @@
 ---
 source: regional-banks/fukuoka-chuo-bank
-source_hash: 4143e5e8f74568a7
+source_hash: 9eca22490640d114
 lang: ja
 status: machine
 fidelity: ok

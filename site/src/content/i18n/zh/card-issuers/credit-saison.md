@@ -1,6 +1,6 @@
 ---
 source: card-issuers/credit-saison
-source_hash: 9b0af9045a65b9bd
+source_hash: 3028b16ea5c32458
 lang: zh
 status: machine
 fidelity: ok

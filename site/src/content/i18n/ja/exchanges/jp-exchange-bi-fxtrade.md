@@ -1,6 +1,6 @@
 ---
 source: exchanges/jp-exchange-bi-fxtrade
-source_hash: 8b6e1892beb7c8a3
+source_hash: 0b030c939669d821
 lang: ja
 status: machine
 fidelity: ok

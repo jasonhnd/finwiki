@@ -1,6 +1,6 @@
 ---
 source: real-estate-finance/nomura-real-estate-master-fund-nmf
-source_hash: 006e067abe435057
+source_hash: ca7f6b1f61ca4220
 lang: en
 status: machine
 fidelity: ok

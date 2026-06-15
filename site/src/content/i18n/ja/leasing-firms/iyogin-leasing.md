@@ -1,6 +1,6 @@
 ---
 source: leasing-firms/iyogin-leasing
-source_hash: 4059ac30cfb6879d
+source_hash: 54798dbaa81013f6
 lang: ja
 status: machine
 fidelity: ok

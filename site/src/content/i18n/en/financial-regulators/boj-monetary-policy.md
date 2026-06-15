@@ -1,6 +1,6 @@
 ---
 source: financial-regulators/boj-monetary-policy
-source_hash: 8926d65047c6be38
+source_hash: be07603680c14728
 lang: en
 status: machine
 fidelity: ok

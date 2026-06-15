@@ -1,6 +1,6 @@
 ---
 source: payments/account-to-account-payment-japan
-source_hash: 36cad5cc1aee1693
+source_hash: 3f3af38bae18064d
 lang: en
 status: machine
 fidelity: ok

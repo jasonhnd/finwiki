@@ -1,6 +1,6 @@
 ---
 source: life-insurers/medicare-life
-source_hash: ab4d5cec652d6c07
+source_hash: 1328ddf50cc2b04b
 lang: ja
 status: machine
 fidelity: ok

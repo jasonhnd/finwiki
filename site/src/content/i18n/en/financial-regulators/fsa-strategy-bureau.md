@@ -1,6 +1,6 @@
 ---
 source: financial-regulators/fsa-strategy-bureau
-source_hash: d1ac3c4c4ea67193
+source_hash: 32e20154b17abfbb
 lang: en
 status: machine
 fidelity: ok

@@ -1,6 +1,6 @@
 ---
 source: manufacturer-finance/vendor-finance-mechanism
-source_hash: bbf3279f1db374eb
+source_hash: a73fdf3db2a09c99
 lang: ja
 model: claude-opus-4-8
 status: machine

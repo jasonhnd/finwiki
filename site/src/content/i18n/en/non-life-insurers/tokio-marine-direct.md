@@ -1,6 +1,6 @@
 ---
 source: non-life-insurers/tokio-marine-direct
-source_hash: 0aa4206ca6933630
+source_hash: 4ac4b2b267329e10
 lang: en
 status: machine
 fidelity: ok

@@ -1,6 +1,6 @@
 ---
 source: money-market/tanshi-company-business-model
-source_hash: 1f6731edfacb6e83
+source_hash: 96aa2bde55c14e70
 lang: en
 status: machine
 fidelity: ok

@@ -1,6 +1,6 @@
 ---
 source: business/kitao-yoshitaka-sbi-independent-strategy-case
-source_hash: f525668ca77f4ee1
+source_hash: a52d23a8d896bc54
 lang: ja
 status: machine
 fidelity: ok

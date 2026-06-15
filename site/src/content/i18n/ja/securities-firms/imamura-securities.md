@@ -1,6 +1,6 @@
 ---
 source: securities-firms/imamura-securities
-source_hash: aa95bf836d076e19
+source_hash: cf465e38c9ee3dd9
 lang: ja
 status: machine
 fidelity: ok

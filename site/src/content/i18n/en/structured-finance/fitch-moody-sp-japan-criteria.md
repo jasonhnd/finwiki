@@ -1,6 +1,6 @@
 ---
 source: structured-finance/fitch-moody-sp-japan-criteria
-source_hash: 8573a8e5af040dab
+source_hash: b30514a0576fdf52
 lang: en
 status: machine
 fidelity: ok

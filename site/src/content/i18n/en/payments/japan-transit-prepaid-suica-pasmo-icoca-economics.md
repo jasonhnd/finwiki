@@ -1,6 +1,6 @@
 ---
 source: payments/japan-transit-prepaid-suica-pasmo-icoca-economics
-source_hash: 5d37a4ae9275e2b6
+source_hash: ee4c4213c64ed479
 lang: en
 status: machine
 fidelity: ok

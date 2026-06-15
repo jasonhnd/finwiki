@@ -1,6 +1,6 @@
 ---
 source: life-insurers/metlife-japan
-source_hash: 0acb1cf2c48c9431
+source_hash: 69722d6aa13a681c
 lang: ja
 status: machine
 fidelity: ok

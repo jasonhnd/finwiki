@@ -1,6 +1,6 @@
 ---
 source: leasing-firms/yokohama-bank-leasing
-source_hash: 48657a6d6c645de3
+source_hash: 8447f9d20cfdfe42
 lang: ja
 status: machine
 fidelity: ok

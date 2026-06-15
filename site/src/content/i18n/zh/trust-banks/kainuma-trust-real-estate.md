@@ -1,6 +1,6 @@
 ---
 source: trust-banks/kainuma-trust-real-estate
-source_hash: 8b2d73fb43e4272f
+source_hash: 40647d4534bcd466
 lang: zh
 status: machine
 fidelity: ok

@@ -1,6 +1,6 @@
 ---
 source: exchanges/jp-exchange-sbi-vc-trade
-source_hash: 3e43e1a025aa2946
+source_hash: cfb57185fa232f74
 lang: zh
 status: machine
 fidelity: ok

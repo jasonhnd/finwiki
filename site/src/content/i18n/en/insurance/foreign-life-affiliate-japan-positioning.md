@@ -1,6 +1,6 @@
 ---
 source: insurance/foreign-life-affiliate-japan-positioning
-source_hash: a80d1fb9d94536d8
+source_hash: a713628902639ff8
 lang: en
 status: machine
 fidelity: ok

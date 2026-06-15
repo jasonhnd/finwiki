@@ -1,6 +1,6 @@
 ---
 source: structured-finance/tmk-special-purpose-company-mechanics
-source_hash: 821e30ec68589e3c
+source_hash: 28041f30b57616ff
 lang: en
 status: machine
 fidelity: ok

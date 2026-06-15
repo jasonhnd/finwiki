@@ -1,6 +1,6 @@
 ---
 source: policy-finance/japan-local-bond-association
-source_hash: 67720e50ae91abd1
+source_hash: dad4f4eb19198304
 lang: zh
 status: machine
 fidelity: ok

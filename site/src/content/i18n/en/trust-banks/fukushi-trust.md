@@ -1,6 +1,6 @@
 ---
 source: trust-banks/fukushi-trust
-source_hash: 107cb0308815d3b7
+source_hash: 0bd309315a7a0517
 lang: en
 status: machine
 fidelity: ok

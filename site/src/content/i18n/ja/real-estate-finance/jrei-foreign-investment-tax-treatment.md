@@ -1,6 +1,6 @@
 ---
 source: real-estate-finance/jrei-foreign-investment-tax-treatment
-source_hash: 523ef4cf5b507e7f
+source_hash: 18533317a531ff5d
 lang: ja
 status: machine
 fidelity: ok

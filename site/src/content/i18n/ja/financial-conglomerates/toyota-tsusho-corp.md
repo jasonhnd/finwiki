@@ -1,6 +1,6 @@
 ---
 source: financial-conglomerates/toyota-tsusho-corp
-source_hash: 0afd221f49db1775
+source_hash: 765b339b900e0672
 lang: ja
 status: machine
 fidelity: ok

@@ -1,6 +1,6 @@
 ---
 source: policy-finance/tokyo-credit-guarantee-corp
-source_hash: a54b4060ca175939
+source_hash: a0d4237a8fe2f288
 lang: en
 status: machine
 fidelity: ok

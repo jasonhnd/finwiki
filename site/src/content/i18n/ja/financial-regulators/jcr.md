@@ -1,6 +1,6 @@
 ---
 source: financial-regulators/jcr
-source_hash: b08ae72d8492101e
+source_hash: 3cd5409a965981f6
 lang: ja
 status: machine
 fidelity: ok

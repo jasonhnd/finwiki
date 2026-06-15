@@ -1,6 +1,6 @@
 ---
 source: megabanks/mufg
-source_hash: f1a8ea5317b8f289
+source_hash: 528b151757a05ab0
 lang: ja
 status: machine
 fidelity: ok

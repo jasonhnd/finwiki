@@ -1,6 +1,6 @@
 ---
 source: real-estate-finance/japan-real-estate-j-reit-8952
-source_hash: 7f00215a0f0a8b15
+source_hash: ea4ece59bdf9941e
 lang: en
 status: machine
 fidelity: ok

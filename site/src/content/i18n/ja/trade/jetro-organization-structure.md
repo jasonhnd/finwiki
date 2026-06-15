@@ -1,6 +1,6 @@
 ---
 source: trade/jetro-organization-structure
-source_hash: 43d80d803a9838c5
+source_hash: 34aa732560aba723
 lang: ja
 status: machine
 fidelity: ok

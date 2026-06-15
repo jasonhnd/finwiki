@@ -1,6 +1,6 @@
 ---
 source: securities-firms/goldman-sachs-japan
-source_hash: a34002feefccb2ea
+source_hash: 83d06cd20d7b28e9
 lang: zh
 status: machine
 fidelity: ok

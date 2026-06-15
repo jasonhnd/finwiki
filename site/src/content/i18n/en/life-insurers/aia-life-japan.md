@@ -1,6 +1,6 @@
 ---
 source: life-insurers/aia-life-japan
-source_hash: 916e241aa853814e
+source_hash: fcaeb7f654c2115b
 lang: en
 status: machine
 fidelity: ok

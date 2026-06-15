@@ -1,6 +1,6 @@
 ---
 source: regional-banks/kumamoto-bank
-source_hash: 44f96dba7aef8394
+source_hash: a826c65cbb666d7b
 lang: ja
 status: machine
 fidelity: ok

@@ -1,6 +1,6 @@
 ---
 source: megabanks/au-fh
-source_hash: 548119cd84bdad36
+source_hash: e0107ea1bd27f8e4
 lang: ja
 status: machine
 fidelity: ok

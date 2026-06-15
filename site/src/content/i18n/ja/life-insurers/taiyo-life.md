@@ -1,6 +1,6 @@
 ---
 source: life-insurers/taiyo-life
-source_hash: 7d1c35e3af531801
+source_hash: aae5bb1b2781103d
 lang: ja
 status: machine
 fidelity: ok

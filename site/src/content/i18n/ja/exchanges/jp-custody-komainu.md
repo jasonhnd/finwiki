@@ -1,6 +1,6 @@
 ---
 source: exchanges/jp-custody-komainu
-source_hash: cc7a86ad5aa65847
+source_hash: 524ad71d02b058e5
 lang: ja
 status: machine
 fidelity: ok

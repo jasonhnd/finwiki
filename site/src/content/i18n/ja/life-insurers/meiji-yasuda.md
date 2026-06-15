@@ -1,6 +1,6 @@
 ---
 source: life-insurers/meiji-yasuda
-source_hash: 75a37e4297f811af
+source_hash: c02e5d4a2e15f856
 lang: ja
 status: machine
 fidelity: ok

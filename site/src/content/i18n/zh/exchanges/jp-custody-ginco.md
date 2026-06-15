@@ -1,6 +1,6 @@
 ---
 source: exchanges/jp-custody-ginco
-source_hash: a8fe18b25ce97ff4
+source_hash: ba42d5a211a423db
 lang: zh
 status: machine
 fidelity: ok

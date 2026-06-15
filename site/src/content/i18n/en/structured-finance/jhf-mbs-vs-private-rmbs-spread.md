@@ -1,6 +1,6 @@
 ---
 source: structured-finance/jhf-mbs-vs-private-rmbs-spread
-source_hash: 3126f1597d6a2056
+source_hash: 4b167c1b8dcbe9d7
 lang: en
 status: machine
 fidelity: ok

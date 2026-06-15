@@ -1,6 +1,6 @@
 ---
 source: foreign-financial-institutions/hsbc-japan
-source_hash: 30223cf24a093d83
+source_hash: c0f25590068c6623
 lang: ja
 status: machine
 fidelity: ok

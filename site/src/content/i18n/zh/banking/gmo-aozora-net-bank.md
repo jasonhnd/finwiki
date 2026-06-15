@@ -1,6 +1,6 @@
 ---
 source: banking/gmo-aozora-net-bank
-source_hash: c816ab6a50282de2
+source_hash: 22531a3e69b5ed9d
 lang: zh
 status: machine
 fidelity: ok

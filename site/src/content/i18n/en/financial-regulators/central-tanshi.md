@@ -1,6 +1,6 @@
 ---
 source: financial-regulators/central-tanshi
-source_hash: a82b7d5b4a570287
+source_hash: c3f3795f4fa379d9
 lang: en
 status: machine
 fidelity: ok

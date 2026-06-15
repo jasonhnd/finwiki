@@ -1,6 +1,6 @@
 ---
 source: finance/japan-leveraged-buyout-economics
-source_hash: 6afb5323e8cc0131
+source_hash: ec52e2f4f3d3e941
 lang: en
 status: machine
 fidelity: ok

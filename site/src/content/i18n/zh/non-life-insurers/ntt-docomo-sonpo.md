@@ -1,6 +1,6 @@
 ---
 source: non-life-insurers/ntt-docomo-sonpo
-source_hash: 2605464bb1e58320
+source_hash: 3cf4189714203ebc
 lang: zh
 status: machine
 fidelity: ok

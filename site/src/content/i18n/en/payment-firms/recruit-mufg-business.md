@@ -1,6 +1,6 @@
 ---
 source: payment-firms/recruit-mufg-business
-source_hash: b79693d5f35d1561
+source_hash: 41682f8ab3f75127
 lang: en
 status: machine
 fidelity: ok

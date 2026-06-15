@@ -1,6 +1,6 @@
 ---
 source: payments/credit-purchase-card-operators-japan-index
-source_hash: 823daef870391414
+source_hash: 07b1fbcddfe020a0
 lang: en
 status: machine
 fidelity: ok

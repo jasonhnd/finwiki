@@ -1,6 +1,6 @@
 ---
 source: securities/progmat-tokenized-securities-infrastructure
-source_hash: 58e98ac0ea18bcfc
+source_hash: 8b44c43aee6ec1e0
 lang: zh
 status: machine
 fidelity: ok

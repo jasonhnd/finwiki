@@ -1,6 +1,6 @@
 ---
 source: regional-banks/lawson-bank
-source_hash: 0a46791c4c9238bc
+source_hash: 6418752cee2de6d0
 lang: ja
 status: machine
 fidelity: ok

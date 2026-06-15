@@ -1,6 +1,6 @@
 ---
 source: banking/jf-marine-bank-system-japan
-source_hash: d9140a31126dd4d4
+source_hash: 09e6103c6e111c2b
 lang: en
 status: machine
 fidelity: ok

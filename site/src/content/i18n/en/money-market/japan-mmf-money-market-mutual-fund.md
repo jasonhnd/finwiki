@@ -1,6 +1,6 @@
 ---
 source: money-market/japan-mmf-money-market-mutual-fund
-source_hash: e55c256ef56908a5
+source_hash: e8e689b9dc96a5ae
 lang: en
 status: machine
 fidelity: ok

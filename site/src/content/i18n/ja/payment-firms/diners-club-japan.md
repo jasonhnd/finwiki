@@ -1,6 +1,6 @@
 ---
 source: payment-firms/diners-club-japan
-source_hash: 8a9a79531f276d38
+source_hash: 96e8fcb9c23bf901
 lang: ja
 status: machine
 fidelity: ok

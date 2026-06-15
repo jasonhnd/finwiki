@@ -1,6 +1,6 @@
 ---
 source: financial-regulators/sonpo-hosho-kiko
-source_hash: bf77b2ef80e31ac0
+source_hash: 7fefd5b13f9a9e22
 lang: ja
 status: machine
 fidelity: ok

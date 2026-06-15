@@ -1,6 +1,6 @@
 ---
 source: payments/visa-mastercard-amex-jcb-japan-operating-comparison
-source_hash: 1c001bab672eff70
+source_hash: 42288ade60cedf39
 lang: en
 status: machine
 fidelity: ok

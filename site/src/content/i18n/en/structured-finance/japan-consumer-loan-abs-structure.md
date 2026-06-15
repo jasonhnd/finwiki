@@ -1,6 +1,6 @@
 ---
 source: structured-finance/japan-consumer-loan-abs-structure
-source_hash: 2a989270c26d17e0
+source_hash: 8c3e13aa5bc363f3
 lang: en
 status: machine
 fidelity: ok

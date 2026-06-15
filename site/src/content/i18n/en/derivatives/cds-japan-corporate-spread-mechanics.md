@@ -1,6 +1,6 @@
 ---
 source: derivatives/cds-japan-corporate-spread-mechanics
-source_hash: 614fb0d191a9118c
+source_hash: fcca7c1d98f0bfbc
 lang: en
 status: machine
 fidelity: ok

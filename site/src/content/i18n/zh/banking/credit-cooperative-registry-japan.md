@@ -1,6 +1,6 @@
 ---
 source: banking/credit-cooperative-registry-japan
-source_hash: 6cf80b8ee82b414a
+source_hash: 788abf6c3219bd0d
 lang: zh
 status: machine
 fidelity: ok

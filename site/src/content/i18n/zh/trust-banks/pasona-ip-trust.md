@@ -1,6 +1,6 @@
 ---
 source: trust-banks/pasona-ip-trust
-source_hash: 2da3ce8dff93fffb
+source_hash: 06f14babc971c28a
 lang: zh
 status: machine
 fidelity: ok

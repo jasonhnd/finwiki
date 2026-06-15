@@ -1,6 +1,6 @@
 ---
 source: regional-banks/san-jusan-fg
-source_hash: 5d8e15ebc6f7d703
+source_hash: 6644ba58ca09ac35
 lang: ja
 status: machine
 fidelity: ok

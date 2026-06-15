@@ -1,6 +1,6 @@
 ---
 source: payment-firms/kuroneko-atobarai
-source_hash: 38cac22717755d2c
+source_hash: 70bef8f675796498
 lang: en
 status: machine
 fidelity: ok

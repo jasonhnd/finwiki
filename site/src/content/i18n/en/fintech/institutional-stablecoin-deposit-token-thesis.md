@@ -1,6 +1,6 @@
 ---
 source: fintech/institutional-stablecoin-deposit-token-thesis
-source_hash: 6d160073086b09c7
+source_hash: 4ace66ef05647d92
 lang: en
 status: machine
 fidelity: ok

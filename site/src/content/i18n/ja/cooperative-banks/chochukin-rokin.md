@@ -1,6 +1,6 @@
 ---
 source: cooperative-banks/chochukin-rokin
-source_hash: 773879af268cf26b
+source_hash: 0e845f4f1df1b775
 lang: ja
 status: machine
 fidelity: ok

@@ -1,6 +1,6 @@
 ---
 source: regional-banks/ssjbank
-source_hash: c65a6ebb77a52cbb
+source_hash: 82489dff8c61e7a2
 lang: zh
 status: machine
 fidelity: ok

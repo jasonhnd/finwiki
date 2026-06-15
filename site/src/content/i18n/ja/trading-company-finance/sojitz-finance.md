@@ -1,6 +1,6 @@
 ---
 source: trading-company-finance/sojitz-finance
-source_hash: a184f180218a6107
+source_hash: 679634382f9aeb29
 lang: ja
 status: machine
 fidelity: ok

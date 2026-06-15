@@ -1,6 +1,6 @@
 ---
 source: derivatives/japan-cds-market-overview
-source_hash: a8c738c681427923
+source_hash: 13454e3cba9010d1
 lang: en
 status: machine
 fidelity: ok

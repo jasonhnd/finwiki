@@ -1,6 +1,6 @@
 ---
 source: life-insurers/asahi-life
-source_hash: 577ae3264d727f99
+source_hash: 90a8279c60bb4ef6
 lang: zh
 status: machine
 fidelity: ok

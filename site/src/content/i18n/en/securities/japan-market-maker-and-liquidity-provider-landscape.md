@@ -1,6 +1,6 @@
 ---
 source: securities/japan-market-maker-and-liquidity-provider-landscape
-source_hash: ed3274178592258a
+source_hash: 479035c983b5e4e4
 lang: en
 status: machine
 fidelity: ok

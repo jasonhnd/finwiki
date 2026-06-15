@@ -1,6 +1,6 @@
 ---
 source: financial-regulators/japan-securities-finance
-source_hash: 9e5c38133dc1f147
+source_hash: e2d505fb0dfaf153
 lang: zh
 status: machine
 fidelity: ok

@@ -1,6 +1,6 @@
 ---
 source: structured-finance/japan-auto-loan-abs-waterfall-mechanics
-source_hash: 477762aea3d272ce
+source_hash: 6ff8571aab394ff2
 lang: en
 status: machine
 fidelity: ok

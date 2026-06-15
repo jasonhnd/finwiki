@@ -1,6 +1,6 @@
 ---
 source: derivatives/dealer-bank-derivatives-revenue-mix
-source_hash: 43a2ce1d350cc22e
+source_hash: b83a2669ce10205a
 lang: en
 status: machine
 fidelity: ok

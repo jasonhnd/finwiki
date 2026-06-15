@@ -1,6 +1,6 @@
 ---
 source: foreign-financial-institutions/socgen-japan
-source_hash: caf05fd8b84d7888
+source_hash: 9c01c97c82be10d0
 lang: zh
 status: machine
 fidelity: ok

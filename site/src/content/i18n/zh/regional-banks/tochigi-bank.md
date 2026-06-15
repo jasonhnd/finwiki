@@ -1,6 +1,6 @@
 ---
 source: regional-banks/tochigi-bank
-source_hash: 4a8b728b701bca01
+source_hash: a4031d7e21a2f596
 lang: zh
 status: machine
 fidelity: ok

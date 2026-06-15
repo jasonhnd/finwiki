@@ -1,6 +1,6 @@
 ---
 source: real-estate-finance/japan-real-estate-appraisal-methodology
-source_hash: 4ea2c57bca9bbe90
+source_hash: a7148639c66ba54b
 lang: en
 status: machine
 fidelity: ok

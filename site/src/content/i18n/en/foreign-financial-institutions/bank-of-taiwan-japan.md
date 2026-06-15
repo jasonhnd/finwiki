@@ -1,6 +1,6 @@
 ---
 source: foreign-financial-institutions/bank-of-taiwan-japan
-source_hash: f74583d3fb89bc0c
+source_hash: 2e263a34bc43fed7
 lang: en
 status: machine
 fidelity: ok

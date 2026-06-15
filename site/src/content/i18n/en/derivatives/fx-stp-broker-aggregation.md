@@ -1,6 +1,6 @@
 ---
 source: derivatives/fx-stp-broker-aggregation
-source_hash: 0eff266f9e840e6d
+source_hash: 77324e4b5cd20de8
 lang: en
 status: machine
 fidelity: ok

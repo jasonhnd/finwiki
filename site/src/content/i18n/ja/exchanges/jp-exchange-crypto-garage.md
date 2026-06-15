@@ -1,6 +1,6 @@
 ---
 source: exchanges/jp-exchange-crypto-garage
-source_hash: c25addc1be5fc798
+source_hash: ab8fe9fc25c3c4f8
 lang: ja
 status: machine
 fidelity: ok

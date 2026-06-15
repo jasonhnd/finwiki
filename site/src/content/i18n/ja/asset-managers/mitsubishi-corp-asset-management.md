@@ -1,6 +1,6 @@
 ---
 source: asset-managers/mitsubishi-corp-asset-management
-source_hash: a3860ef0fcf61002
+source_hash: 28d1c03258821915
 lang: ja
 status: machine
 fidelity: ok

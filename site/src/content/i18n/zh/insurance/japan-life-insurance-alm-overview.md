@@ -1,6 +1,6 @@
 ---
 source: insurance/japan-life-insurance-alm-overview
-source_hash: c6e0016bcac74ab4
+source_hash: d67240f0595dec20
 lang: zh
 status: machine
 fidelity: ok

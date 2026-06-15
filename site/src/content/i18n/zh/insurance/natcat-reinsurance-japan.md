@@ -1,6 +1,6 @@
 ---
 source: insurance/natcat-reinsurance-japan
-source_hash: 8893de910387be6b
+source_hash: 91245bbc0b87dda5
 lang: zh
 status: machine
 fidelity: ok

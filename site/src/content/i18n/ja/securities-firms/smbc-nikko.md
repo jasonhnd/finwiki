@@ -1,6 +1,6 @@
 ---
 source: securities-firms/smbc-nikko
-source_hash: a210e4583200e645
+source_hash: d8a5097363d4d662
 lang: ja
 status: machine
 fidelity: ok

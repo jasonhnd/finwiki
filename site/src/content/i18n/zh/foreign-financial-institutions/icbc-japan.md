@@ -1,6 +1,6 @@
 ---
 source: foreign-financial-institutions/icbc-japan
-source_hash: ac3ffdf728b70243
+source_hash: 5a218a059e40c5a7
 lang: zh
 status: machine
 fidelity: ok

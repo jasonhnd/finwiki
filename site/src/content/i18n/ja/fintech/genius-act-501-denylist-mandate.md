@@ -1,6 +1,6 @@
 ---
 source: fintech/genius-act-501-denylist-mandate
-source_hash: 22b16508f124ab05
+source_hash: 8a11d3489b548b67
 lang: ja
 status: machine
 fidelity: ok

@@ -1,6 +1,6 @@
 ---
 source: card-issuers/jal-card
-source_hash: f26765e392ab51af
+source_hash: 805f834e862c1319
 lang: ja
 status: machine
 fidelity: ok

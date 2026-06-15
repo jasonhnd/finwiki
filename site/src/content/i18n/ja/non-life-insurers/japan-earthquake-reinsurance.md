@@ -1,6 +1,6 @@
 ---
 source: non-life-insurers/japan-earthquake-reinsurance
-source_hash: c745fc5083481267
+source_hash: e0222680c8340c18
 lang: ja
 status: machine
 fidelity: ok

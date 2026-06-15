@@ -1,6 +1,6 @@
 ---
 source: cooperative-banks/hana-shinkumi
-source_hash: 527868c0a57b2e4a
+source_hash: de7d71e157cfbf87
 lang: ja
 status: machine
 fidelity: ok

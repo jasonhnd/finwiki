@@ -1,6 +1,6 @@
 ---
 source: securities/japan-securities-depository-center
-source_hash: e281ff17c24116f7
+source_hash: 1fdf52ff0960299c
 lang: ja
 status: machine
 fidelity: ok

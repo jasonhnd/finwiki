@@ -1,6 +1,6 @@
 ---
 source: structured-finance/japan-cmbs-issuance-structure
-source_hash: 7053d17b450c25e4
+source_hash: 76b907d5fd890e4e
 lang: en
 status: machine
 fidelity: ok

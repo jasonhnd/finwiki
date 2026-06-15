@@ -1,6 +1,6 @@
 ---
 source: exchanges/btc-spot-etf-japan-impact
-source_hash: ff625d7d432f5bf0
+source_hash: f2a01ed547394ad1
 lang: zh
 status: machine
 fidelity: ok

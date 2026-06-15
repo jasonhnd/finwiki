@@ -1,6 +1,6 @@
 ---
 source: fintech/central-banking-function-unbundling
-source_hash: 6f615ed61d2234ba
+source_hash: f01c443ba9affafe
 lang: ja
 status: machine
 fidelity: ok

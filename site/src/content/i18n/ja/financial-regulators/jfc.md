@@ -1,6 +1,6 @@
 ---
 source: financial-regulators/jfc
-source_hash: 0b3a875703c20971
+source_hash: e35c5716a9362cef
 lang: ja
 status: machine
 fidelity: ok

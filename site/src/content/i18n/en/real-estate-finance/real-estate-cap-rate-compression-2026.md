@@ -1,6 +1,6 @@
 ---
 source: real-estate-finance/real-estate-cap-rate-compression-2026
-source_hash: f6012ae4f6ee8989
+source_hash: 7aa63625e703f4a4
 lang: en
 status: machine
 fidelity: ok

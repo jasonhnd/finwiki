@@ -1,6 +1,6 @@
 ---
 source: structured-finance/japan-trust-beneficial-interest-vs-spv
-source_hash: 482ca36dbfa467b4
+source_hash: 17b28a9a18011659
 lang: en
 status: machine
 fidelity: ok

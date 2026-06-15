@@ -1,6 +1,6 @@
 ---
 source: trust-banks/sbi-shinsei-trust-bank
-source_hash: edd66e69d6dc3d50
+source_hash: 9629d32ea59df5ee
 lang: en
 status: machine
 fidelity: ok

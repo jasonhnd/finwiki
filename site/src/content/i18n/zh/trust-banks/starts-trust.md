@@ -1,6 +1,6 @@
 ---
 source: trust-banks/starts-trust
-source_hash: 2914742a29b08583
+source_hash: dc6d6781c5ef55e7
 lang: zh
 status: machine
 fidelity: ok

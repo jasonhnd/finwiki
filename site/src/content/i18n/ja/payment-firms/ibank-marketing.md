@@ -1,6 +1,6 @@
 ---
 source: payment-firms/ibank-marketing
-source_hash: e0e045dec3172ceb
+source_hash: 0fb26e7b5b457d96
 lang: ja
 status: machine
 fidelity: ok

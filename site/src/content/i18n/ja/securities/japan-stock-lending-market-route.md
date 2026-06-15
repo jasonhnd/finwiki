@@ -1,6 +1,6 @@
 ---
 source: securities/japan-stock-lending-market-route
-source_hash: f90a7ecb0938e173
+source_hash: 041c74af30c284e1
 lang: ja
 status: machine
 fidelity: ok

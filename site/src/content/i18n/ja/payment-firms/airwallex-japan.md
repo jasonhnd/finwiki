@@ -1,6 +1,6 @@
 ---
 source: payment-firms/airwallex-japan
-source_hash: 473e9407c4849a17
+source_hash: 975d75506fc19ccd
 lang: ja
 status: machine
 fidelity: ok

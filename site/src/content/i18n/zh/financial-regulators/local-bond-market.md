@@ -1,6 +1,6 @@
 ---
 source: financial-regulators/local-bond-market
-source_hash: 6cc6eddbb3cd971e
+source_hash: dd55dddc01a05cde
 lang: zh
 status: machine
 fidelity: ok

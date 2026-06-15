@@ -1,6 +1,6 @@
 ---
 source: manufacturer-finance/komatsu-captive-finance
-source_hash: e723b5c4c43b0c9f
+source_hash: 0f446cbbf8bd5770
 lang: ja
 model: claude-opus-4-8
 status: machine

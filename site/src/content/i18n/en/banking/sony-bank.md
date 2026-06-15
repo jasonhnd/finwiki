@@ -1,6 +1,6 @@
 ---
 source: banking/sony-bank
-source_hash: 15c9669a525f00c0
+source_hash: 3283d667337f1928
 lang: en
 status: machine
 fidelity: ok

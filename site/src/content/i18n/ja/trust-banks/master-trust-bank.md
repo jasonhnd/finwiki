@@ -1,6 +1,6 @@
 ---
 source: trust-banks/master-trust-bank
-source_hash: 31e2ee76fb70bfd7
+source_hash: 2ca2b333a1a5584f
 lang: ja
 status: machine
 fidelity: ok

@@ -1,6 +1,6 @@
 ---
 source: insurance/japan-nonlife-big-three-reinsurance-cat-matrix
-source_hash: 81eca24ada057085
+source_hash: 1fa1bad71f839540
 lang: en
 status: machine
 fidelity: ok

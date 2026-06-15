@@ -1,6 +1,6 @@
 ---
 source: payment-firms/sb-payment-service
-source_hash: e63a5ec045a10d0a
+source_hash: 5d3efdd0fe4c1f98
 lang: ja
 status: machine
 fidelity: ok

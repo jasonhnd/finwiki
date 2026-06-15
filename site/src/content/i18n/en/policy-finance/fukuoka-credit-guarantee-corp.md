@@ -1,6 +1,6 @@
 ---
 source: policy-finance/fukuoka-credit-guarantee-corp
-source_hash: 5ee3b3d95b32bc1c
+source_hash: 13b2932288f1086d
 lang: en
 status: machine
 fidelity: ok

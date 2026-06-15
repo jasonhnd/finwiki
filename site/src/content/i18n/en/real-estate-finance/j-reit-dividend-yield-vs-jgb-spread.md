@@ -1,6 +1,6 @@
 ---
 source: real-estate-finance/j-reit-dividend-yield-vs-jgb-spread
-source_hash: fe1fc38ce7e9bf5c
+source_hash: 8a9dc15419b8ea29
 lang: en
 status: machine
 fidelity: ok

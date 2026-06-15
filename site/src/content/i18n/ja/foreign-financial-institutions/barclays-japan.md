@@ -1,6 +1,6 @@
 ---
 source: foreign-financial-institutions/barclays-japan
-source_hash: ccf484a60c76c53e
+source_hash: 7fc654e290b192b8
 lang: ja
 status: machine
 fidelity: ok

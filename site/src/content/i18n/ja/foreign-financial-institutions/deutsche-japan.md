@@ -1,6 +1,6 @@
 ---
 source: foreign-financial-institutions/deutsche-japan
-source_hash: ec64eda744add451
+source_hash: 79dd72437cf5438a
 lang: ja
 status: machine
 fidelity: ok

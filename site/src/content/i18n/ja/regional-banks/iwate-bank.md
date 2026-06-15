@@ -1,6 +1,6 @@
 ---
 source: regional-banks/iwate-bank
-source_hash: 2896cf231d78a771
+source_hash: 5a410b99b2724386
 lang: ja
 status: machine
 fidelity: ok

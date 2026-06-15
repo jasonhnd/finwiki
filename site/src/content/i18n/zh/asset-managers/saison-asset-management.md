@@ -1,6 +1,6 @@
 ---
 source: asset-managers/saison-asset-management
-source_hash: e76cd69c5556bf5d
+source_hash: 66a45f8ebbaf88f9
 lang: zh
 status: machine
 fidelity: ok

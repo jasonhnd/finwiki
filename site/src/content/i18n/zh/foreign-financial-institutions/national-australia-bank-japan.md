@@ -1,6 +1,6 @@
 ---
 source: foreign-financial-institutions/national-australia-bank-japan
-source_hash: b2955e91f0098e19
+source_hash: 05152e530654dca8
 lang: zh
 status: machine
 fidelity: ok

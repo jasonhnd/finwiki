@@ -1,6 +1,6 @@
 ---
 source: cooperative-banks/sendai-shinkin
-source_hash: bc1bd6bbb38983e6
+source_hash: d0a191dc0caebd8d
 lang: ja
 status: machine
 fidelity: ok

@@ -1,6 +1,6 @@
 ---
 source: card-issuers/jaccs
-source_hash: c9d92dbb9d4c35f0
+source_hash: 917df2d4a3256942
 lang: ja
 status: machine
 fidelity: ok

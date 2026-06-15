@@ -1,6 +1,6 @@
 ---
 source: regional-banks/seven-bank
-source_hash: efbf9cab130bc899
+source_hash: ec80bb6986622b9e
 lang: ja
 status: machine
 fidelity: ok

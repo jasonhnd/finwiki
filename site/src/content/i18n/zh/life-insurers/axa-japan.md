@@ -1,6 +1,6 @@
 ---
 source: life-insurers/axa-japan
-source_hash: 604573cfd8d56b39
+source_hash: fa31393f340e1e71
 lang: zh
 status: machine
 fidelity: ok

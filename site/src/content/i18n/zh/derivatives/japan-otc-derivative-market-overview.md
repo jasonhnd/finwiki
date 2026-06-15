@@ -1,6 +1,6 @@
 ---
 source: derivatives/japan-otc-derivative-market-overview
-source_hash: d3d97f040b545510
+source_hash: a3a0b502fc85b9c2
 lang: zh
 status: machine
 fidelity: ok

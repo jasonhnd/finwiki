@@ -1,6 +1,6 @@
 ---
 source: megabanks/ndfg
-source_hash: 85c19dbe4b8feba6
+source_hash: c21a834977f693df
 lang: ja
 status: machine
 fidelity: ok

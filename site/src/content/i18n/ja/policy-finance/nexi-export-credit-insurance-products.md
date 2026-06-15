@@ -1,6 +1,6 @@
 ---
 source: policy-finance/nexi-export-credit-insurance-products
-source_hash: 5c93170f55d0fab4
+source_hash: 9775a3a2bb402924
 lang: ja
 status: machine
 fidelity: ok

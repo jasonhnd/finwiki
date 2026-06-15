@@ -1,6 +1,6 @@
 ---
 source: payment-firms/bitflyer
-source_hash: 9db6c7bc20410838
+source_hash: e35937a865d956af
 lang: ja
 status: machine
 fidelity: ok

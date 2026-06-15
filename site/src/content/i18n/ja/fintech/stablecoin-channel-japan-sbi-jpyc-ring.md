@@ -1,6 +1,6 @@
 ---
 source: fintech/stablecoin-channel-japan-sbi-jpyc-ring
-source_hash: 04b94973ef4d3248
+source_hash: 6e1f091b435a3e8f
 lang: ja
 status: machine
 fidelity: ok

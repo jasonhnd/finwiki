@@ -1,6 +1,6 @@
 ---
 source: cooperative-banks/sapporo-shinkin
-source_hash: 13b85f611a1055b8
+source_hash: 4b6c48726938fe03
 lang: zh
 status: machine
 fidelity: ok

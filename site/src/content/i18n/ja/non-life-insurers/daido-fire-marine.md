@@ -1,6 +1,6 @@
 ---
 source: non-life-insurers/daido-fire-marine
-source_hash: 3fdfd734f4c81d7f
+source_hash: 56c1c0f782c3a9f2
 lang: ja
 status: machine
 fidelity: ok

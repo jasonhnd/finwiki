@@ -1,6 +1,6 @@
 ---
 source: derivatives/structured-product-eb-knockin-japan-retail
-source_hash: 9b099456ccc311db
+source_hash: 664d30fd60c1dcd6
 lang: en
 status: machine
 fidelity: ok

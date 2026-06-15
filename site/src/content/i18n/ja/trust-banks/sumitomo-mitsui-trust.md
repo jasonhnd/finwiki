@@ -1,6 +1,6 @@
 ---
 source: trust-banks/sumitomo-mitsui-trust
-source_hash: 5380370120c2bc4f
+source_hash: 03613d6fd5cd1173
 lang: ja
 status: machine
 fidelity: ok

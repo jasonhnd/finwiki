@@ -1,6 +1,6 @@
 ---
 source: insurance/life-insurance-channel-mix
-source_hash: e61206ced71885d5
+source_hash: 1b0aa4f735dd3e79
 lang: en
 status: machine
 fidelity: ok

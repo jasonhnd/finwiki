@@ -1,6 +1,6 @@
 ---
 source: money-market/call-market-structure
-source_hash: c39e2c9b484c41ee
+source_hash: 02f720df1c1d77fd
 lang: ja
 status: machine
 fidelity: ok

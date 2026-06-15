@@ -1,6 +1,6 @@
 ---
 source: life-insurers/daido-life
-source_hash: 1d6de5cd3860ad14
+source_hash: 64bcae1b6478cc4d
 lang: ja
 status: machine
 fidelity: ok

@@ -1,6 +1,6 @@
 ---
 source: non-life-insurers/ji-accident-fire-insurance
-source_hash: c64e785e936ecdc4
+source_hash: 943138d7b805ddba
 lang: ja
 status: machine
 fidelity: ok

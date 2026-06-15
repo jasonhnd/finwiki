@@ -1,6 +1,6 @@
 ---
 source: foreign-financial-institutions/philippine-national-bank-japan
-source_hash: cd22ae9b3631b3ff
+source_hash: fb03cfdf862fc1bc
 lang: ja
 status: machine
 fidelity: ok

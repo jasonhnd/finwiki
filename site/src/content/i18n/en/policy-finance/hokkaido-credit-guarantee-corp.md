@@ -1,6 +1,6 @@
 ---
 source: policy-finance/hokkaido-credit-guarantee-corp
-source_hash: 31a6e87350844a7d
+source_hash: 58cc59e40d3e213b
 lang: en
 status: machine
 fidelity: ok

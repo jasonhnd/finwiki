@@ -1,6 +1,6 @@
 ---
 source: trust-banks/daiwa-living-trust
-source_hash: cb335cfc450de5b7
+source_hash: f99a6b25362ba025
 lang: en
 status: machine
 fidelity: ok
