@@ -1,13 +1,13 @@
 ---
 source: loyalty/point-economy-funding-source-comparison
-source_hash: ef8aca12f6c35ce2
+source_hash: c34c69ec900df8b5
 lang: en
-model: claude-opus-4-8
 status: machine
 fidelity: ok
 title: "Japan point economy funding-source comparison (V / Rakuten / d / PayPay / Ponta anchors)"
-translated_at: 2026-06-05T00:00:00.000Z
+translated_at: 2026-06-15T03:48:21.857Z
 ---
+
 # Japan point economy funding-source comparison (V / Rakuten / d / PayPay / Ponta anchors)
 
 ## Wiki route

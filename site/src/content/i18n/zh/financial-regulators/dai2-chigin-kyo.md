@@ -1,67 +1,71 @@
 ---
 source: financial-regulators/dai2-chigin-kyo
-source_hash: 5e9b9658d63d65ad
+source_hash: 5dddc91245d53572
 lang: zh
 status: machine
 fidelity: ok
-title: "第二地方银行协会 (Dai-ni Chigin-kyo)"
-translated_at: 2026-05-31T15:29:03.917Z
+title: "第二地方银行协会 (Dai-ni Chigin-kyō / 第二地方銀行協会)"
+translated_at: 2026-06-15T03:48:21.866Z
 ---
 
-# 第二地方银行协会 (Dai-ni Chigin-kyo / 第二地方銀行協会)
+# 第二地方银行协会 (Dai-ni Chigin-kyō / 第二地方銀行協会)
 
-## TL;DR
+## 摘要
 
-第二地方银行协会（Dai-ni Chigin-kyo，第二地銀協）是日本第二地方银行的行业团体。该群体源自原相互银行（相互銀行 / sogō ginkō）在 1989-1992 年前后转换为普通银行后的谱系。经历长期并购后，会员数量已降至三十多家。协会本身是一般社团法人，不是监管机关；其行业协调职能与 [[financial-regulators/zenginkyo|全国银行协会]]、[[financial-regulators/zenchugin-kyo|全国地方银行协会]] 并列。
+第二地银协（第二地方银行协会）是日本第二梯队地方银行的行业团体——即在 1989-1992 重组中从原相互储蓄银行（相互銀行 / sogō ginkō）转制为普通商业银行的那一脉。经过数十年的整合，会员数现已降至 30 出头的高位。与其同业一样，它是一般社团法人而非监管机构，在银行行业团体体系中与 [[financial-regulators/zenginkyo|Zenginkyō]] 和 [[financial-regulators/zenchugin-kyo|Zenchūgin-kyō]] 并列。
 
 ## Wiki 路径
 
-本条目位于 [[financial-regulators/INDEX|financial-regulators INDEX]] 之下。可与 [[financial-regulators/zenchugin-kyo|全国地方银行协会]] 对照，理解第一地方银行与第二地方银行的历史分层；也可与 [[financial-regulators/zenginkyo|全国银行协会]]、[[financial-regulators/zenshin-kyo|全国信用金库协会]]、[[financial-licenses/INDEX|金融牌照索引]]、[[financial-regulators/yokin-hoken-kiko|存款保险机构]] 及 [[banking/INDEX|银行索引]] 一并阅读。
+本词条位于 [[financial-regulators/INDEX|financial-regulators INDEX]] 之下。请与 [[financial-regulators/zenchugin-kyo|Regional Banks Association of Japan]] 一并阅读以了解第一梯队脉络，与 [[financial-regulators/zenginkyo|Japanese Bankers Association]] 一并阅读以了解跨行业协调，与 [[financial-regulators/zenshin-kyo|Zenshin-kyō]] 一并阅读以了解信金合作金融的相邻轨道。法定背景见 [[financial-licenses/INDEX]] 和 [[financial-licenses/bank-license-and-baas-boundary]]；处置失败的兜底机制为 [[financial-regulators/yokin-hoken-kiko|Deposit Insurance Corporation of Japan]]；更广的经营者全集见 [[banking/INDEX]]。
 
-## 1. 法律地位与功能
+## 法律路径／法定地位 (法令の根拠)
 
-第二地方银行协会是一般社团法人，会员为依据银行法取得银行牌照的第二地方银行。协会不拥有法定规则制定权；具有拘束力的监管边界由金融厅依据银行法及监督指针设定。协会的实际影响力来自会员契约、行业标准、共同培训、模板化规则和共同基础设施。
+第二地银协是一般社团法人（一般社団法人），其会员为依《银行法》取得牌照的银行。[^dainichi-about] 该协会本身没有法定制定规则的权力——依《银行法》的 FSA 监督设定具有约束力的监管边界，[^fsa-bank-guideline] 而获授权的 FIEA 自律监管协会由 FSA 单独列出。[^fsa-licensed] 第二地银协的实际权限属于会员合同性质：会员自愿采用的示范规则、共同操作标准、培训管线和共享基础设施。
 
-历史上，该组织的前身是全国相互银行协会。相互银行在 1989 年以后转换为普通银行时，原团体改组为第二地方银行协会，以保留这些转换银行区别于较早第一地方银行的行业代表性。
+历史上该团体曾是全国相互银行协会（全国相互銀行協会）。当相互储蓄银行自 1989, 起转制为普通银行（普通銀行転換）时，该联合会重组为第二地方银行协会，以将这些转制实体作为有别于 [[financial-regulators/zenchugin-kyo|Zenchūgin-kyō]] 那些更古老的第一梯队地方银行的独立行业群体而聚拢在一起。
 
-## 2. 主要工作
+## 职能／范围
 
-协会公开说明中的职能可概括为四类：
+该协会公布的纲要将其工作归为以下几类：[^dainichi-about]
 
-1. **政策倡议**：围绕银行法修订、税制、资本监管、会计和披露规则提出行业意见；在共同议题上与全国银行协会和全国地方银行协会协作，在第二地方银行特有议题上单独发声。
-2. **共同运营基础设施**：协调共同系统、支付与清算标准、与全银网络相关的运营规则，以及 AML/CFT、客户保护和内部控制模板。
-3. **会员服务**：提供培训、基准调查、分行业务和信贷管理模板、共同采购及运营效率化项目。
-4. **公共沟通**：通过协会网站发布会员银行信息、统计资料、地区振兴和中小企业金融相关声明。
+1. **政策倡导**——在立场一致处与 [[financial-regulators/zenginkyo|JBA]] 和 [[financial-regulators/zenchugin-kyo|Zenchūgin-kyō]] 协同、在第二梯队议题有别处单独行动，就银行法修订、税收政策、资本监管、会计和披露规则形成共同立场。
+2. **共同操作基础设施**——共享的计算机系统合作组织、接入 Zengin-Net（在 [[financial-regulators/zenginkyo|Zenginkyō]] 框架下运营）的支付／清算标准、共同的 AML/CFT 与客户保护示范框架。
+3. **会员服务**——培训、对标调查、分行运营和信贷管理流程的示范模板，以及联合采购举措。
+4. **公共传播**——dainichiginkyo.or.jp 门户、会员银行统计数据，以及就区域振兴和中小企业金融主题发表的联合声明。
 
-协会也会在必要时与 [[financial-regulators/yokin-hoken-kiko|日本存款保险机构]] 协调会员银行破产处置准备，包括数据质量、联络银行指定和系统准备。
+在适用情形下，该协会还就会员银行的失败处置预先布局（数据质量、对口银行指定、系统就绪演练）与 [[financial-regulators/yokin-hoken-kiko|Deposit Insurance Corporation of Japan]] 进行协调。
 
-## 3. 会员边界
+## 会员／治理
 
-会员原则上限于第二地方银行，即原相互银行谱系及加入该轨道的银行。FinWiki 已覆盖的相关银行包括 [[regional-banks/howa-bank|Howa Bank]]、[[regional-banks/taiko-bank|Taiko Bank]]、[[regional-banks/shimane-bank|Shimane Bank]]、[[regional-banks/saga-kyoei-bank|Saga Kyoei Bank]]、[[regional-banks/saikyo-bank|Saikyo Bank]]、[[regional-banks/shizuoka-chuo-bank|Shizuoka Chuo Bank]]、[[regional-banks/chiba-kogyo-bank|Chiba Kogyo Bank]]、[[regional-banks/aichi-bank|Aichi Bank]]、[[regional-banks/daito-bank|Daito Bank]]、[[regional-banks/sendai-bank|Sendai Bank]]、[[regional-banks/miyazaki-taiyo-bank|Miyazaki Taiyo Bank]] 和 [[regional-banks/shimizu-bank|Shimizu Bank]] 等。由于并购持续推进，部分原第二地方银行已进入第一地方银行控股集团或更大区域金融集团，如 [[regional-banks/aichi-fg|Aichi FG]] 和 [[regional-banks/jimoto-hd|Jimoto Holdings]]。
+会员资格限于第二梯队地方银行（原相互銀行 一脉，以及任何加入第二梯队轨道的较新进入者）。[^dainichi-members] 本资料库收录的会员包括（其中）[[regional-banks/howa-bank|Howa Bank]]、[[regional-banks/taiko-bank|Taiko Bank]]、[[regional-banks/shimane-bank|Shimane Bank]]、[[regional-banks/saga-kyoei-bank|Saga Kyoei Bank]]、[[regional-banks/saikyo-bank|Saikyo Bank]]、[[regional-banks/shizuoka-chuo-bank|Shizuoka Chuo Bank]]、[[regional-banks/chiba-kogyo-bank|Chiba Kogyo Bank]]、[[regional-banks/aichi-bank|Aichi Bank]]、[[regional-banks/daito-bank|Daito Bank]]、[[regional-banks/sendai-bank|Sendai Bank]]、[[regional-banks/miyazaki-taiyo-bank|Miyazaki Taiyo Bank]] 和 [[regional-banks/shimizu-bank|Shimizu Bank]]。在册会员名单随时间因合并而缩减（最近十年规模级的合并已将原第二地方银行并入第一梯队的控股结构，或并入诸如 [[regional-banks/aichi-fg|Aichi FG]] 和 [[regional-banks/jimoto-hd|Jimoto Holdings]] 这类更广的区域集团）。
 
-治理上，协会遵循一般社团法人规则，由主要会员银行高层轮值参与会长和常设委员会运作，委员会结构与全国银行协会、全国地方银行协会相似。
+治理遵循一般社团法人的规则：由主要会员的高级管理人员轮值担任主席，常设委员会的结构镜像 [[financial-regulators/zenginkyo|JBA]] 和 [[financial-regulators/zenchugin-kyo|Zenchūgin-kyō]]。
 
-## 4. 行业邻接
+## 相关行业相邻关系
 
-在区域银行体系中，第二地方银行协会与全国地方银行协会构成两条平行行业轨道。支付、AML/CFT、金融 ADR 和统计报告标准等跨行业议题通常与全国银行协会共享协调。合作金融体系则由全国信用金库协会、信用组合中央团体、劳动金库联络机构和农林中央金库等承担。其他垂直行业团体包括 [[financial-regulators/jsda|日本证券业协会]]、[[financial-regulators/seiho-kyokai|生命保险协会]]、[[financial-regulators/sonpo-kyokai|日本损害保险协会]] 和 [[financial-regulators/shintaku-kyokai|信托协会]]。
+在区域银行业这一条线中，第二地银协是与 [[financial-regulators/zenchugin-kyo|Zenchūgin-kyō]] 并列的两个平行总会中的第二个。在支付、AML/CFT、ADR 和统计报告标准方面的跨行业协调与 [[financial-regulators/zenginkyo|JBA]] 共享。合作金融这一条线（信金与信组）归属 [[financial-regulators/zenshin-kyo|Zenshin-kyō]] 和信用合作社中央机构。其他垂直领域：证券为 [[financial-regulators/jsda|JSDA]]，保险为 [[financial-regulators/seiho-kyokai|Life Insurance Association of Japan]] 和 [[financial-regulators/sonpo-kyokai|General Insurance Association of Japan]]，信托业务为 [[financial-regulators/shintaku-kyokai|Trust Companies Association of Japan]]。
 
-## 5. 为什么本页重要
+在实体一侧，本资料库中已有的会员银行页面包括上述第二地方锚点，以及更广的 [[banking/INDEX|banking index]]。
 
-“第一地方银行”与“第二地方银行”的区别会反复出现在 JapanFG 条目中，影响资本实力、存款基础、县域集中度、并购压力和行业倡议的解释。第二地方银行协会是第二地方银行轨道的公开标识，也是理解日本区域银行并购、人口下降和低利率时期经营压力的核心入口。
+## 本页为何重要
 
-## 相关
+「第一梯队」与「第二梯队」地方银行之间的区别，是 JapanFG 词条中反复出现的脚注（资本实力、存款基础、辖区集中度、整合压力）。第二地银协是第二梯队轨道的公开标记，也是整合叙事的实务界面——会员数稳步缩减，反映出由人口下降和日银低利率时代驱动的区域银行 M&A 浪潮。回链至此可厘清某家会员银行实际归属哪个总会，并在某词条提及「第二地方银行标准」规则或联合声明时提供单一锚点。
 
-- [[financial-regulators/zenginkyo|全国银行协会]]
-- [[financial-regulators/zenchugin-kyo|全国地方银行协会]]
-- [[financial-regulators/zenshin-kyo|全国信用金库协会]]
-- [[financial-regulators/shintaku-kyokai|信托协会]]
-- [[financial-regulators/yokin-hoken-kiko|日本存款保险机构]]
-- [[banking/INDEX|银行索引]]
-- [[financial-licenses/INDEX|金融牌照索引]]
-- [[financial-licenses/bank-license-and-baas-boundary|银行牌照与 BaaS 边界]]
+## 相关条目
+
+- [[financial-regulators/INDEX|financial-regulators INDEX]]
+- [[financial-regulators/zenginkyo|Japanese Bankers Association]]
+- [[financial-regulators/zenchugin-kyo|Regional Banks Association of Japan]]
+- [[financial-regulators/zenshin-kyo|National Association of Shinkin Banks]]
+- [[financial-regulators/shintaku-kyokai|Trust Companies Association of Japan]]
+- [[financial-regulators/yokin-hoken-kiko|Deposit Insurance Corporation of Japan]]
+- [[financial-regulators/fsa|FSA]]
+- [[financial-licenses/INDEX]]
+- [[financial-licenses/bank-license-and-baas-boundary]]
 - [[regional-banks/howa-bank|Howa Bank]]
 - [[regional-banks/taiko-bank|Taiko Bank]]
 - [[regional-banks/aichi-bank|Aichi Bank]]
+- [[banking/INDEX]]
 
 ## 来源
 
@@ -72,4 +76,5 @@ translated_at: 2026-05-31T15:29:03.917Z
 
 ---
 
-> confidence: **likely**。本页依据协会公开说明、会员名单和金融厅银行法监督框架整理。引用实时会员数量前应重新核对协会官方会员名单。
+> [!info] Confidence note
+> confidence: **likely**。源自原相互银行联合会的脉络、会员边界以及职能分类，取自该协会自身的纲要与会员名单页面，外加 FSA《银行法》监督框架，核对于 2026-05-24。在引用前应从官方会员名单页面重新核实实时会员数。

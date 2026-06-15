@@ -1,11 +1,11 @@
 ---
 source: finance/japan-listed-financial-groups-investable-universe
-source_hash: 017e6f6bc0ee8d09
+source_hash: 4e9e307637f0d117
 lang: en
 status: machine
 fidelity: ok
 title: "Japan listed financial groups investable universe"
-translated_at: 2026-05-31T06:16:15.722Z
+translated_at: 2026-06-15T03:48:21.922Z
 ---
 
 # Japan listed financial groups investable universe

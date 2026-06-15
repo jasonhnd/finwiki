@@ -1,17 +1,18 @@
 ---
 source: financial-regulators/jsda
-source_hash: d93223bddc8804df
+source_hash: 11f950cdc9e44631
 lang: en
 status: machine
 fidelity: ok
 title: "Japan Securities Dealers Association (JSDA)"
-translated_at: 2026-05-31T23:59:49.324Z
+translated_at: 2026-06-15T03:48:21.909Z
 ---
+
 # Japan Securities Dealers Association (JSDA)
 
 ## TL;DR
 
-JSDA / Japan Securities Dealers Association is the core self-regulatory organization for Japan's securities-dealer layer. It is not a securities firm and not the statutory regulator itself. Its legal position is a Financial Instruments Firms Association authorized by the Prime Minister under the Financial Instruments and Exchange Act (FIEA), and its operational role sits between FSA supervision and member-firm compliance.[^jsda-profile]
+JSDA / 日本証券業協会 is the core self-regulatory organization for Japan's securities-dealer layer. It is not a securities firm and not the statutory regulator itself. Its legal position is a Financial Instruments Firms Association authorized by the Prime Minister under the Financial Instruments and Exchange Act (FIEA), and its operational role sits between FSA supervision and member-firm compliance.[^jsda-profile]
 
 For JapanFG mapping, JSDA is the cross-cutting rule and membership layer behind pages such as [[securities-firms/smbc-nikko]], [[securities-firms/nomura-hd]], [[securities-firms/daiwa-sg]], [[securities-firms/mizuho-securities]], and [[securities-firms/rakuten-securities]]. Use it with [[financial-licenses/INDEX]] when the question is: "what self-regulatory regime applies to securities brokerage, underwriting, sales representatives, customer solicitation, off-exchange transactions, and securities complaints?"
 
@@ -29,7 +30,7 @@ JSDA's own English profile describes it as both an SRO and an industry interlocu
 
 ## Legal Position
 
-JSDA's legal status is not merely "industry association." JSDA states that it is a Financial Instruments Firms Association authorized by the Prime Minister pursuant to FIEA Article 67-2, Paragraph 2.[^jsda-profile] FSA's official list of authorized Financial Instruments Firms Associations identifies the Japan Securities Dealers Association and gives its corporate number, address, establishment date, purpose, and business lines.[^fsa-authorized]
+JSDA's legal status is not merely "industry association." JSDA states that it is a Financial Instruments Firms Association authorized by the Prime Minister pursuant to FIEA Article 67-2, Paragraph 2.[^jsda-profile] FSA's official list of authorized Financial Instruments Firms Associations identifies 日本証券業協会, gives its corporate number, address, establishment date, purpose, and business lines.[^fsa-authorized]
 
 Key boundary:
 
@@ -68,7 +69,7 @@ As of JSDA's May 7, 2026 member-list page, JSDA reported 259 Regular Members, 14
 
 - **JSDA vs FSA**: JSDA is an authorized self-regulatory association, not the FSA. Administrative licensing and public enforcement remain public-regulator functions.
 - **Securities firm vs registered financial institution**: A bank may be a registered financial institution and JSDA Special Member for securities business, while a securities company conducting Type I business is generally in the Regular Member lane.[^jsda-members]
-- **JSDA vs exchange self-regulation**: JSDA covers dealer / member conduct and OTC / off-exchange areas. Exchange listing, trading, and exchange-market self-regulation may involve exchange or exchange-group rules as well.
+- **JSDA vs exchange self-regulation**: JSDA covers dealer / member conduct and OTC / off-exchange areas. Exchange listing, trading, and exchange-market self-regulation may involve exchange or exchange-group rules as well, routed through [[financial-regulators/japan-exchange-group|Japan Exchange Group (JPX)]] and its self-regulatory body.
 - **JSDA vs crypto self-regulation**: Crypto-asset exchange and crypto derivatives questions usually route first to FSA registration and the crypto self-regulatory lane, not JSDA, unless the product is legally a FIEA securities / derivatives business.
 - **Member count vs active product scope**: JSDA membership does not prove that a firm currently offers a specific product. Confirm product scope in the firm disclosure and FSA registration category.
 - **Registration list latency**: FSA list pages are official but may have as-of dates and update intervals. Treat a checked registration as "found in the checked list as of X" rather than timeless status.
@@ -88,10 +89,10 @@ As of JSDA's May 7, 2026 member-list page, JSDA reported 259 Regular Members, 14
 [^jsda-profile]: JSDA, "Profile", https://www.jsda.or.jp/en/about/profile/index.html
 [^jsda-activities]: JSDA, "Major Activities", https://www.jsda.or.jp/en/about/major-activities/index.html
 [^jsda-members]: JSDA, "Members List", https://www.jsda.or.jp/en/about/members-list/index.html
-[^fsa-authorized]: FSA, "List of authorized Financial Instruments Firms Associations", https://www.fsa.go.jp/koueki/koueki10a.html
-[^fsa-salesrep]: FSA, "Registration and deletion of sales representatives under the Financial Instruments and Exchange Act" PDF, https://www.fsa.go.jp/koueki/s_houjin/05.pdf
-[^fsa-licensed]: FSA, "List of business operators licensed, permitted, registered, etc.", https://www.fsa.go.jp/menkyo/menkyo.html
-[^fsa-guideline]: FSA, "Comprehensive supervisory guidelines for financial instruments business operators, etc. IV", https://www.fsa.go.jp/common/law/guide/kinyushohin/04a.html
+[^fsa-authorized]: FSA, "認可金融商品取引業協会一覧", https://www.fsa.go.jp/koueki/koueki10a.html
+[^fsa-salesrep]: FSA, "金融商品取引法に基づく外務員の登録及び抹消" PDF, https://www.fsa.go.jp/koueki/s_houjin/05.pdf
+[^fsa-licensed]: FSA, "免許・許可・登録等を受けている事業者一覧", https://www.fsa.go.jp/menkyo/menkyo.html
+[^fsa-guideline]: FSA, "金融商品取引業者等向けの総合的な監督指針 IV", https://www.fsa.go.jp/common/law/guide/kinyushohin/04a.html
 
 ---
 

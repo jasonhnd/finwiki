@@ -1,11 +1,11 @@
 ---
 source: derivatives/japan-rates-derivative-product-matrix
-source_hash: 1a3f7c520c54919b
+source_hash: 4066057b3ccbd6aa
 lang: en
 status: machine
 fidelity: ok
 title: "Japan rates derivative product matrix"
-translated_at: 2026-05-31T03:19:56.361Z
+translated_at: 2026-06-15T03:48:21.841Z
 ---
 
 # Japan rates derivative product matrix
@@ -30,9 +30,9 @@ A single phrase like "Japan rates derivative" hides the fact that the clearing v
 
 The matrix puts each product in its place so that any single derivative page can be read against its alternative hedge route or its cash-market underlying.
 
-## Product 1 — Yen IRS (TIBOR-floating)
+## Product 1  — Yen IRS (TIBOR-floating)
 
-- **Instrument type.** OTC fixed-for-floating swap with TIBOR (1M, 3M, or 6M) as the floating reference; standard JPY ACT/365 day-count. See [[derivatives/japan-irs-market|Japan yen IRS market]].
+- **Instrument type.** OTC fixed-for-floating swap with TIBOR (1M, 3M, or 6M) as the floating reference; standard JPY ACT/365  day-count. See [[derivatives/japan-irs-market|Japan yen IRS market]].
 - **Notional outstanding.** Reported as a component of total JPY single-currency IRS gross notional in BIS semi-annual OTC derivatives statistics; JPY IRS notional aggregates to tens of trillions of USD-equivalent gross at semi-annual cutoff. TIBOR vs TONA share split is operational rather than separately published.
 - **CCP clearing.** Cleared at JSCC for domestic dealer-to-dealer flow under the FIEA clearing mandate; cleared at LCH SwapClear for cross-border flow involving major global dealers.
 - **Tenor depth.** 1Y, 2Y, 3Y, 5Y, 7Y, 10Y, 15Y, 20Y, 30Y the most-liquid points; out to 40Y for life-insurer hedging.
@@ -40,7 +40,7 @@ The matrix puts each product in its place so that any single derivative page can
 - **Life-insurer hedging use.** Heavy — long-end TIBOR / mixed-reference IRS is one of the canonical life-insurer ALM hedges for fixed-rate liability cash flows.
 - **Dealer-bank revenue contribution.** Among the top rates-business contributors for megabank securities subsidiaries (MUFG MUMS, SMBC Nikko, Mizuho Securities, plus Nomura and Daiwa).
 
-## Product 2 — Yen OIS (TONA)
+## Product 2  — Yen OIS (TONA)
 
 - **Instrument type.** OTC fixed-for-floating swap with TONA (Tokyo Overnight Average Rate) compounded-in-arrears as the floating reference; the canonical post-LIBOR yen overnight RFR. See [[derivatives/ois-tona-curve|OIS / TONA curve]].
 - **Notional outstanding.** Subset of total JPY IRS notional in BIS semi-annual OTC derivatives statistics; TONA OIS share has grown materially post-LIBOR transition and continues to expand as the new-issue standard.
@@ -50,7 +50,7 @@ The matrix puts each product in its place so that any single derivative page can
 - **Life-insurer hedging use.** Indirect — OIS sets the discount curve used for life-insurer ALM and IRS valuation; direct OIS hedging is more common at the short end.
 - **Dealer-bank revenue contribution.** Material; the OIS lane underpins the cleared-IRS market with the post-LIBOR discount-curve role.
 
-## Product 3 — JGB futures (10Y standard)
+## Product 3  — JGB futures (10Y standard)
 
 - **Instrument type.** Exchange-listed physically settled futures on the 10-year notional JGB; the most-traded yen rates derivative on a price basis. See [[derivatives/jgb-futures-curve|JGB futures curve]].
 - **Notional outstanding.** Open interest measured in hundreds of thousands of contracts at the front contract; contract notional value is ¥100 million face per contract. Daily turnover concentrates at the 10Y standard.
@@ -60,7 +60,7 @@ The matrix puts each product in its place so that any single derivative page can
 - **Life-insurer hedging use.** Moderate — futures used for short-horizon duration adjustment; long-end hedging tilts to swaps and JGB cash given JGB futures' 10Y CTD anchor.
 - **Dealer-bank revenue contribution.** Significant via market-making, cash-futures basis trading, and CTD-roll positioning.
 
-## Product 4 — JGB futures (5Y, 20Y super-long, 10Y mini)
+## Product 4  — JGB futures (5Y, 20Y super-long, 10Y mini)
 
 - **Instrument type.** Companion exchange-listed JGB futures on shorter and longer notional tenors plus the one-tenth-size 10Y mini.
 - **Notional outstanding.** Open interest materially smaller than 10Y standard; 20Y super-long open interest grew in the late-QE / post-YCC era as long-end risk reappeared.
@@ -70,17 +70,17 @@ The matrix puts each product in its place so that any single derivative page can
 - **Life-insurer hedging use.** 20Y super-long JGB futures are a meaningful insurer hedge instrument for medium-long duration overlay alongside cash JGBs and IRS.
 - **Dealer-bank revenue contribution.** Lower than 10Y standard; 20Y / 5Y contracts carry niche but real franchise for dealer ALM and arb.
 
-## Product 5 — JGB inflation-linked bond (JGBi)
+## Product 5  — JGB inflation-linked bond (JGBi)
 
 - **Instrument type.** Cash-bond market — the underlying for inflation derivatives rather than a derivative itself, included here as the inflation-rates intersection. JGBi is an MOF-issued inflation-indexed JGB linked to the all-Japan CPI ex-fresh-food index. See [[derivatives/jgb-inflation-linked-bond-jgbi|JGBi]].
-- **Notional outstanding.** Subset of total JGB outstanding; small compared with nominal JGBs but reactivated since 2013 reissuance.
+- **Notional outstanding.** Subset of total JGB outstanding; small compared with nominal JGBs but reactivated since 2013  reissuance.
 - **CCP clearing.** JGB cash settlement via BoJ-NET; JGB OTC clearing at JSCC where applicable.
 - **Tenor depth.** 10-year typical issuance tenor.
 - **Market participants.** Life insurers, pension funds, asset managers, BoJ (historical and selective ongoing purchases), foreign reserve managers, hedge funds.
 - **Life-insurer hedging use.** Direct — insurers use JGBi to hedge real-yield exposure on inflation-linked or inflation-sensitive liabilities.
 - **Dealer-bank revenue contribution.** Specialist rates desks; dealer franchise concentrated in JGB primary-dealer firms.
 
-## Product 6 — Swaption (option on yen IRS)
+## Product 6  — Swaption (option on yen IRS)
 
 - **Instrument type.** OTC option granting the right to enter into an underlying yen IRS at a future date (European or Bermudan style); payer / receiver swaption distinction. See [[derivatives/japan-swaption-market|Japan swaption market]].
 - **Notional outstanding.** Yen swaption notional reported as a component of JPY interest-rate options in BIS OTC derivatives statistics.
@@ -90,7 +90,7 @@ The matrix puts each product in its place so that any single derivative page can
 - **Life-insurer hedging use.** Heavy — Japanese life insurers are among the largest buyers of long-end yen receiver swaptions globally, hedging guaranteed-rate policies and ALM convexity.
 - **Dealer-bank revenue contribution.** Material for rates-vol desks at megabank securities subsidiaries and global dealers; the long-end vol surface is a meaningful franchise.
 
-## Product 7 — CMS (constant-maturity swap)
+## Product 7  — CMS (constant-maturity swap)
 
 - **Instrument type.** OTC swap where one leg pays a periodically reset rate corresponding to a constant-maturity swap rate (e.g. 10Y CMS); the other leg pays a fixed or floating reference. See [[derivatives/japan-cms-constant-maturity-swap|Japan CMS]].
 - **Notional outstanding.** Specialist subset of total JPY IRS notional; not separately published in headline BIS aggregates.
@@ -100,7 +100,7 @@ The matrix puts each product in its place so that any single derivative page can
 - **Life-insurer hedging use.** Moderate — used in curve-slope and convexity overlay alongside swaptions and IRS.
 - **Dealer-bank revenue contribution.** Niche; CMS spread products (CMS-spread option, CMS swap) sit in the structured-rates franchise.
 
-## Product 8 — Inflation swap (CPI-linked)
+## Product 8  — Inflation swap (CPI-linked)
 
 - **Instrument type.** OTC swap exchanging a fixed inflation rate for the realized CPI index (zero-coupon inflation swap dominant in Japan, referencing all-Japan CPI ex-fresh-food). See [[derivatives/japan-inflation-swap|Japan inflation swap]].
 - **Notional outstanding.** Smaller than nominal IRS; the yen inflation derivative market is materially less liquid than yen IRS or OIS.
@@ -110,7 +110,7 @@ The matrix puts each product in its place so that any single derivative page can
 - **Life-insurer hedging use.** Specialist — insurers with inflation-linked policies or pension obligations use inflation swaps alongside JGBi.
 - **Dealer-bank revenue contribution.** Niche; the inflation-derivative franchise is much smaller in yen than in USD or EUR.
 
-## Product 9 — Yen-USD cross-currency basis swap (CCBS)
+## Product 9  — Yen-USD cross-currency basis swap (CCBS)
 
 - **Instrument type.** OTC swap exchanging principal and floating-rate cash flows in two currencies (yen and USD), with the basis spread (additional bp on the yen leg) as the price; the canonical yen-funding-vs-USD-funding arbitrage instrument. See [[derivatives/cross-currency-basis-swap-japan|yen-USD CCBS]] and [[derivatives/yen-basis-swap-market|yen basis swap market]].
 - **Notional outstanding.** Material component of total yen-cross-currency OTC derivatives in BIS statistics; quarter-end CCBS activity expands as Japanese institutions roll USD funding.
@@ -184,7 +184,7 @@ The rates-derivative product matrix is a public-surface tool. When reading any s
 
 - Bank of Japan: BIS-coordinated OTC derivatives statistics for Japan (statistics/bis/yoshi).
 - Bank for International Settlements: OTC derivatives statistics semi-annual release (derstats).
-- Bank for International Settlements: OTC derivatives H2 2024 statistical release (otc_hy2502).
+- Bank for International Settlements: OTC derivatives H2 2024  statistical release (otc_hy2502).
 - Japan Securities Clearing Corporation (JSCC): IRS clearing services and JGB OTC clearing rules.
 - LCH SwapClear: yen IRS clearing service description.
 - Japan Exchange Group: JGB futures contract specifications.

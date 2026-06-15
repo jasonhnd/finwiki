@@ -1,47 +1,57 @@
 ---
 source: life-insurers/meiji-yasuda-trust-life
-source_hash: 5d51f6855524f29f
+source_hash: 61f78f7270c41be4
 lang: zh
 status: machine
 fidelity: ok
 title: "明治安田信托生命保险"
-translated_at: 2026-05-31T23:59:49.312Z
+translated_at: 2026-06-15T03:48:21.911Z
 ---
+
 # 明治安田信托生命保险
 
 ## Wiki 路径
 
-本条目位于 [[life-insurers/INDEX|life-insurers INDEX]] 之下。可与 [[life-insurers/dai-ichi-frontier-life|第一フロンティア生命保険]] 对读以理解同业和对比关系，并与 [[insurance/INDEX|insurance index]] 对读以把握更广的制度 / 监管边界。
+本条目位于 [[life-insurers/INDEX|life-insurers INDEX]] (其领域路径) 之下。其控股母公司是相互会社大型机构 [[life-insurers/meiji-yasuda|明治安田生命]]；集团的财险部门是 [[non-life-insurers/meiji-yasuda-general-insurance|明治安田損害保険]]。请结合 [[life-insurers/credit-agricole-life|クレディ・アグリコル生命]] 阅读以获取专业／单一产品的同业/对照，并结合 [[financial-regulators/fsa|the FSA]] 及 [[financial-regulators/seiho-kyokai|生命保険協会]] 了解监管／行业团体边界。
 
 ## TL;DR
 
-明治安田信托生命保险株式会社是金融厅 life-insurer list 中列明的 [[life-insurers/meiji-yasuda]] group 生命保险经营公司。由于它存在从原 AEON Allianz Life Insurance 变更名称 / 转移集团边界的问题，因此作为 standalone page 保留。
+明治安田信托生命保险株式会社是一家持有保险业法上的人寿保险公司牌照、列入金融厅人寿保险公司免许一览的 [[life-insurers/meiji-yasuda|明治安田生命]] 集团人寿保险事业公司。前身为安联生命 → 永旺安联生命，**于 2025 年 7 月 1 日 由明治安田生命取得约 85% 股份将其子公司化，并于 2025 年 10 月 1 日 更名为「明治安田信托生命保险」**。旧永旺安联生命曾专注于团体信用人寿保险 (团信)，因具有 name-change / group-transfer 的边界，故作为 standalone page 设立。
 
-## 1. 牌照 / 集团边界
+## 1. 牌照・集团边界
 
-| 项目 | 说明 |
+| 项目 | 备注 |
 |---|---|
-| 法定名称 | 明治安田信托生命保险株式会社 |
-| 原名称 | AEON Allianz Life Insurance Co., Ltd. |
-| 牌照路径 | 保险业法下的生命保险公司；FSA life insurer list |
-| 行业组织 | 日本生命保险协会会员 |
-| 集团边界 | [[life-insurers/meiji-yasuda]] group |
+| 法定名称 | 明治安田トラスト生命保険株式会社 |
+| 旧名称 | アリアンツ生命保険 → イオン・アリアンツ生命保険（〜2025-09） |
+| 收购 | 2025-07-01（明治安田生命取得约 85%・子公司化） |
+| 更名 | 2025-10-01（变更为现商号） |
+| 牌照路径 | 保险业法 上的人寿保险公司牌照; FSA 生命保険会社免許一覧 |
+| 监管者 | [[financial-regulators/fsa|金融庁 (FSA)]] |
+| 行业团体 | [[financial-regulators/seiho-kyokai|生命保険協会]] member |
+| 集团边界 | [[life-insurers/meiji-yasuda|明治安田生命]] group |
 
-## 2. 本页为何重要
+## 2. 运营模式
 
-- 补齐 FSA 41  精确名称空白。
-- 捕捉 2025-2026  名称变更 / 集团边界移动。
-- 补充 [[life-insurers/meiji-yasuda]] 和 [[non-life-insurers/meiji-yasuda-general-insurance]]。
+明治安田信托生命是运营人寿保险标准模式——保费承保、责任准备金积累、长期 ALM、保险金支付——的明治安田集团子公司寿险。在旧永旺安联生命时代，曾从事**团体信用人寿保险 (团信)** 等特定领域的专门承保，进入明治安田集团后仍继续这些存量合同的管理与服务。与以面对面营业职员渠道为中心的大型相互会社母公司 [[life-insurers/meiji-yasuda|明治安田生命]] 在业务形态・渠道上有所分别。相互会社系与株式会社系的结构差异参见 [[insurance/mutual-vs-stock-life-insurer|mutual vs stock life insurer]]。
 
-## Related
+## 3. 本页面为何重要
 
-- [[life-insurers/meiji-yasuda]]
-- [[non-life-insurers/meiji-yasuda-general-insurance]]
-- [[insurance/life-insurance-channel-mix]]
-- [[insurance/INDEX]]
+- 确定金融厅人寿保险公司免许一览上的 exact-name anchor。
+- 记录 2025 年 由安联系 → 明治安田集团的**控股股东迁移・更名**边界。
+- 在母公司 [[life-insurers/meiji-yasuda|明治安田生命]] 与集团 P&C 的 [[non-life-insurers/meiji-yasuda-general-insurance|明治安田損害保険]] 之间架起桥梁。
 
-## Sources
+## 相关
 
-- FSA: life-insurance company license list, as of 2026-04-13.
-- Life Insurance Association of Japan: member-company list, as of 2026-04-13.
-- Meiji Yasuda Trust Life official company profile.
+- [[life-insurers/INDEX|life-insurers INDEX]]
+- [[life-insurers/meiji-yasuda|明治安田生命]]
+- [[non-life-insurers/meiji-yasuda-general-insurance|明治安田損害保険]]
+- [[life-insurers/credit-agricole-life|クレディ・アグリコル生命]]
+- [[financial-regulators/fsa|FSA]]
+- [[INDEX|FinWiki index]]
+
+## 来源
+
+- FSA: 生命保険会社免許一覧 (life-insurance company license list).
+- Life Insurance Association of Japan (生命保険協会): member-company list.
+- 明治安田トラスト生命 / 明治安田生命 official releases (ex-Allianz → Aeon Allianz Life; Meiji Yasuda acquired ~85% on 2025-07-01; renamed Meiji Yasuda Trust Life on 2025-10-01; group-credit-life heritage).

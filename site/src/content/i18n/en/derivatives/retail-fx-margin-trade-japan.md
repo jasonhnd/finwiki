@@ -1,11 +1,11 @@
 ---
 source: derivatives/retail-fx-margin-trade-japan
-source_hash: e7e6b76016aa5f8e
+source_hash: 73942daa5d1e4a53
 lang: en
 status: machine
 fidelity: ok
 title: "Retail FX margin trading in Japan"
-translated_at: 2026-05-31T03:19:56.362Z
+translated_at: 2026-06-15T03:48:21.853Z
 ---
 
 # Retail FX margin trading in Japan
@@ -149,7 +149,7 @@ Beyond simple spot-FX-margin trading, Japan retail FX brokers offer a wider prod
 | Product | Description | Typical broker offering |
 |---|---|---|
 | Spot FX margin | Day-trading / swing-trading in major and cross pairs | Universal; the core product. |
-| Mini / micro lots | Smaller notional ticks (1,000-unit lots vs 10,000-unit standard) | Most brokers offer this format; it targets smaller-account retail users. |
+| Mini / micro lots | Smaller notional ticks (1,000-unit lots vs 10,000-unit standard) | Most brokers offer; appeals to retail users testing smaller position sizes. |
 | Automated / system trade | Pre-built EAs / strategy marketplaces | MetaTrader-based brokers (Hirose, OANDA Japan); proprietary equivalents at GMO Click etc. |
 | CFD on indices / commodities | Stock-index CFDs (Nikkei 225 CFD, S&P 500 CFD), oil, gold | Most brokers offer; FFAJ separate stats. |
 | Binary options | Fixed-payout on direction within timeframe | Tightly restricted by JFSA since 2013; only a few licensed providers, with strict time / payout limits. |

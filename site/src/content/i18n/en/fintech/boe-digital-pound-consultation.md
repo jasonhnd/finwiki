@@ -1,18 +1,18 @@
 ---
 source: fintech/boe-digital-pound-consultation
-source_hash: a552039232a45dd2
+source_hash: 1e1dc5dbeebe0932
 lang: en
 status: machine
 fidelity: ok
 title: "Bank of England digital pound consultation — 2023-2026 design phase, private-sector wallets, comparison with ECB"
-translated_at: 2026-05-31T06:16:15.683Z
+translated_at: 2026-06-15T03:48:21.817Z
 ---
 
 # Bank of England digital pound consultation — 2023-2026 design phase, private-sector wallets, comparison with ECB
 
 ## Wiki route
 
-This entry sits under [[fintech/INDEX|fintech index]] as the per-jurisdiction deep dive on the **Bank of England (BoE) and HM Treasury (HMT) digital pound** consultation and design phase — the UK retail-CBDC track. Read it against [[fintech/e-euro-retail-rollout|ECB digital euro retail rollout]] (the parallel EU programme with similar design choices), [[fintech/cbdc-adoption-curve-china-japan-eu-india-2026|CBDC adoption curve 2026]] for cross-jurisdiction positioning, [[fintech/bahamas-sand-dollar-cbdc|Bahamas Sand Dollar]] / [[fintech/jamaica-jam-dex-cbdc|Jamaica JAM-DEX]] / [[fintech/nigeria-enaira-retail-cbdc|Nigeria eNaira]] for live small-economy retail CBDC peer cases, and [[fintech/cbdc-multi-tier-architecture-three-paradigms|CBDC 三大现役范式]] for the three-paradigm classification. For private-rail UK competitive context see [[fintech/hkma-stablecoin-licensing-overview|HKMA stablecoin licensing]] (peer regime) and [[fintech/mica-overview|MiCA overview]] (EU regulatory adjacency).
+This entry sits under [[fintech/INDEX|fintech index]] as the per-jurisdiction deep dive on the **Bank of England (BoE) and HM Treasury (HMT) digital pound** consultation and design phase — the UK retail-CBDC track. Read it against [[fintech/e-euro-retail-rollout|ECB digital euro retail rollout]] (the parallel EU programme with similar design choices), [[fintech/cbdc-adoption-curve-china-japan-eu-india-2026|CBDC adoption curve 2026]] for cross-jurisdiction positioning, [[fintech/bahamas-sand-dollar-cbdc|Bahamas Sand Dollar]] / [[fintech/jamaica-jam-dex-cbdc|Jamaica JAM-DEX]] / [[fintech/nigeria-enaira-retail-cbdc|Nigeria eNaira]] for live small-economy retail CBDC peer cases, and [[fintech/cbdc-multi-tier-architecture-three-paradigms|CBDC three active paradigms]] for the three-paradigm classification. For private-rail UK competitive context see [[fintech/hkma-stablecoin-licensing-overview|HKMA stablecoin licensing]] (peer regime) and [[fintech/mica-overview|MiCA overview]] (EU regulatory adjacency).
 
 > [!info] TL;DR
 > The BoE and HMT issued a joint consultation paper on the **digital pound** on **2023-02-07**, ran the public consultation through **2023-06**, and published the **consultation response on 2024-01-25**. The conclusion: **"It is too early to decide whether to introduce a digital pound. We are therefore going to undertake a design phase."** The design phase has run through 2024-2026 and is now in **Phase 2** of multi-year preparatory work. As of 2026-05 **no decision has been made to launch**; the BoE has explicitly framed the design phase as preparatory and **not** a commitment to issuance. The design choices preferred by the BoE / HMT mirror the ECB digital euro very closely: **two-tier intermediated**, **private-sector wallets** (with explicit BoE non-distribution to consumers), a **per-person holding limit between £10,000-£20,000** (proposed; not finalised), **zero interest**, and **strong privacy protections** that go beyond the digital euro on the privacy axis. The structural comparison with the ECB is the clearest peer-comparison case: same architectural family, materially higher proposed holding cap, and a more openly cautious political posture in the UK case.
@@ -40,7 +40,7 @@ This entry sits under [[fintech/INDEX|fintech index]] as the per-jurisdiction de
                                                 consensus
                                                        │
                                                        ▼
-                                                 Live issuance (not publicly committed;
+                                                 Live issuance (not yet specified;
                                                  earliest realistic
                                                  late 2020s)
 ```
@@ -131,7 +131,7 @@ Why this matters:
 
 The PIP/ESIP terminology and structure is a UK innovation in the public CBDC vocabulary. Functionally it is similar to the ECB's "supervised PSP" model but cleaner in separating consumer-facing layer (PIP) from value-add services (ESIP).
 
-## Matrix E · Holding limit debate — £10,000-£20,000  vs €3,000-€4,000
+## Matrix E · Holding limit debate — £10,000-£20,000 vs €3,000-€4,000
 
 The proposed UK holding cap range is **materially higher** than the EU's. Why:
 
@@ -207,9 +207,9 @@ The wholesale digital-pound track is **further advanced** than the retail track 
 - [[fintech/INDEX|Fintech Index]]
 - [[fintech/e-euro-retail-rollout|ECB digital euro retail rollout]]
 - [[fintech/cbdc-adoption-curve-china-japan-eu-india-2026|CBDC adoption curve 2026]]
-- [[fintech/cbdc-multi-tier-architecture-overview|CBDC 多层架构概览]]
-- [[fintech/cbdc-multi-tier-architecture-three-paradigms|CBDC 三大现役范式]]
-- [[fintech/cbdc-multi-tier-architecture-tradeoffs|CBDC 架构选择 4 核心权衡]]
+- [[fintech/cbdc-multi-tier-architecture-overview|CBDC multi-tier architecture overview]]
+- [[fintech/cbdc-multi-tier-architecture-three-paradigms|CBDC three active paradigms]]
+- [[fintech/cbdc-multi-tier-architecture-tradeoffs|Four core trade-offs in CBDC architecture selection]]
 - [[fintech/bahamas-sand-dollar-cbdc|Bahamas Sand Dollar]]
 - [[fintech/nigeria-enaira-retail-cbdc|Nigeria eNaira]]
 - [[fintech/jamaica-jam-dex-cbdc|Jamaica JAM-DEX]]

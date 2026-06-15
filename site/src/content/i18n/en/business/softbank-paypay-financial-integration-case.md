@@ -1,12 +1,11 @@
 ---
 source: business/softbank-paypay-financial-integration-case
-source_hash: df4de14a0192801c
+source_hash: 6655ad3910555606
 lang: en
-model: claude-opus-4-8
 status: machine
 fidelity: ok
 title: "SoftBank / PayPay financial integration case — super-app folds card / bank / securities under PayPay, then files for a US listing"
-translated_at: 2026-06-05T00:00:00.000Z
+translated_at: 2026-06-15T03:48:21.850Z
 ---
 
 # SoftBank / PayPay financial integration case — super-app folds card / bank / securities under PayPay, then files for a US listing
@@ -144,4 +143,4 @@ The pattern most likely to replicate elsewhere: a dominant payment app that abso
 ---
 
 > [!info] Verification status
-> confidence: **likely**. PayPay user base, the 2022-2025 consolidation of PayPay Card / Bank / Securities, the LINE Pay merger target, and the confidential Nasdaq filing with SoftBank retaining majority are publicly disclosed in SoftBank / PayPay / LY Corporation releases and IPO filings. Offering size, valuation, ticker, and pricing/timing are filed intent subject to SEC review and market conditions — not settled facts.
+> confidence: **likely**. PayPay's user base, the 2022-2025 consolidation of PayPay Card / Bank / Securities, the LINE Pay merger target, and the confidential Nasdaq filing with SoftBank retaining majority are publicly disclosed in SoftBank / PayPay / LY Corporation releases and IPO filings. Offering size, valuation, ticker, and pricing/timing are filed intent subject to SEC review and market conditions — not settled facts.

@@ -1,44 +1,44 @@
 ---
 source: card-issuers/paypay-card
-source_hash: 87e513fbfc316c1d
+source_hash: 068d22ea83d16bf9
 lang: ja
 status: machine
 fidelity: ok
 title: "PayPayカード (PayPay Card)"
-translated_at: 2026-06-02T15:14:17.107Z
+translated_at: 2026-06-15T03:48:21.931Z
 ---
 
 # PayPayカード (PayPay Card)
 
 
-## ウィキ上の位置づけ
+## Wiki ルート
 
-この項目は [[card-issuers/INDEX|card-issuers INDEX]] の配下に置く。隣接領域の文脈では [[payments/INDEX|payments index]]、より広い制度境界では [[payments/funds-transfer-vs-prepaid-boundary|Funds transfer vs prepaid boundary in Japan]] とあわせて読む。
+本項目は [[card-issuers/INDEX|card-issuers INDEX]] に属する。隣接する文脈については [[payments/INDEX|payments index]] を、より広い体系の境界については [[payments/funds-transfer-vs-prepaid-boundary|Funds transfer vs prepaid boundary in Japan]] を併せて参照のこと。
 
-## 要約
+## TL;DR
 
-PayPayカードは [[megabanks/paypay-fg|PayPay金融グループ]] のクレジットカード / PayPayクレジット運営会社。PayPayウォレットの支払い体験に与信枠を組み込む役割を持つため、ウォレットとカード発行会社を分けて管理する必要がある。
+PayPayカードは [[megabanks/paypay-fg|PayPay金融グループ]] のクレジットカード / PayPayクレジット operator。PayPay wallet の支払い体験に credit line を組み込む役割を持つため、wallet と card issuer を分けて管理する必要がある。
 
 ## 1. 法人・ライセンス境界
 
-| 項目 | 読み方 |
+| 項目 | 内容 |
 |---|---|
 | 法人 | PayPayカード株式会社 |
-| グループ | [[megabanks/paypay-fg|PayPay FG]] / SoftBank-LY 決済エコシステム |
-| 主なレーン | PayPay Card、PayPay Card Gold、PayPayクレジット商品、融資関連開示 |
-| 規制ルート | 公式会社告知、クレジットカード・割賦販売法管理に関する経済産業省の登録事業者一覧。 |
+| グループ | [[megabanks/paypay-fg|PayPay FG]] / SoftBank-LY payment ecosystem |
+| 主要レーン | PayPay Card, PayPay Card Gold, PayPay credit products, lending disclosures |
+| 規制ルート | 公式会社告知; 割賦販売法に基づくクレジットカード規制について METI 登録事業者一覧。 |
 
 ## 2. 事業上の役割
 
-- PayPay のコード決済とアプリ配布基盤に、リボ・クレジットカードの経済性を加える。
-- ポイント、アプリ決済、カード加盟店契約パートナー、消費者信用を一つの小売金融ファネルにつなぐ。イシュアー / アクワイアラー / プロセッサーのマップは [[payments/japan-card-issuer-acquirer-processor-split]] を参照する。
-- PayPay を楽天、au PAY、d払い、従来型カード発行会社と比較するうえで重要。スキーム経済性は [[payments/japan-payment-scheme-economics-matrix]] で扱う。
+- PayPay のコード決済・アプリ流通基盤に、リボ / クレジットカードの経済性を加える。
+- ポイント、アプリ決済、カードアクワイアリングのパートナー、消費者信用を一つのリテールファイナンスのファネルに結び付ける; issuer / acquirer / processor のマップについては [[payments/japan-card-issuer-acquirer-processor-split]] を参照。
+- PayPay を、最も近いエコシステム金融のピアである [[card-issuers/rakuten-card|楽天カード]]、さらに au PAY、d払い、伝統的なカード発行会社と比較するうえで重要 — スキームの経済性は [[payments/japan-payment-scheme-economics-matrix]] にある。
 
-## 3. この独立ページが重要な理由
+## 3. なぜこの独立ページが重要か
 
-ウォレットとしての PayPay と、与信運営会社としての PayPayカードでは、免許、バランスシート、消費者保護上の論点が異なる。このページはその境界を見える形で残す。
+ウォレットとしての PayPay と、クレジット operator としての PayPay Card は、ライセンス、バランスシート、消費者保護の論点が異なる。本ページはその境界を可視化し続ける。
 
-## 関連項目
+## 関連
 
 - [[megabanks/paypay-fg]]
 - [[securities-firms/paypay-securities]]
@@ -48,4 +48,4 @@ PayPayカードは [[megabanks/paypay-fg|PayPay金融グループ]] のクレジ
 ## 出典
 
 - PayPay Card 会社ページ: https://www.paypay-card.co.jp/company/
-- METI registered operators under the Installment Sales Act: https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html
+- 割賦販売法に基づく METI 登録事業者: https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html

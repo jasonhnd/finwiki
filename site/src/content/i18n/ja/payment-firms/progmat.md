@@ -1,42 +1,44 @@
 ---
 source: payment-firms/progmat
-source_hash: 79f1b32dc3223e3e
+source_hash: 4a9a629df8fdacd1
 lang: ja
 status: machine
 fidelity: ok
-title: "Progmat株式会社"
-translated_at: 2026-06-02T15:14:17.115Z
+title: "株式会社Progmat"
+translated_at: 2026-06-15T03:48:21.914Z
 ---
-# Progmat株式会社
 
-## ウィキ上の位置づけ
+# 株式会社Progmat
 
-この項目は [[payment-firms/INDEX|payment-firms INDEX]] の下に位置づけます。隣接する文脈では [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]]、より広い制度上の境界では [[payments/INDEX|payments index]] とあわせて読んでください。
 
-## 要約
+## ウィキ経路
 
-株式会社Progmatは、デジタルアセットの発行・管理プラットフォームを運営する会社。ステーブルコイン領域では、信託型の Progmat Coin / Project Pax 系基盤として重要だが、同社自身が銀行・信託会社・電子決済手段等取引業者になるわけではない。発行体の役割は [[trust-banks/mitsubishi-ufj-trust-bank|三菱UFJ信託銀行]] など、規制対象となる信託銀行側に残る。
+本項目は [[payment-firms/INDEX|payment-firms INDEX]] の配下に位置する。隣接する文脈として [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] を、より広範なシステム境界として [[payments/INDEX|payments index]] を併せて読むこと。
+
+## TL;DR
+
+株式会社Progmatは digital asset issuance / management platform operator。Stablecoin では信託型の Progmat Coin / Project Pax 系の基盤として重要だが、同社自身が銀行・信託会社・電子決済手段等取引業者になるわけではなく、発行体は [[trust-banks/mitsubishi-ufj-trust-bank|三菱UFJ信託銀行]] などの regulated trust-bank side に残る。
 
 ## 1. 法人・ライセンス境界
 
-| 項目 | 読み方 |
+| 項目 | 内容 |
 |---|---|
 | 法人 | 株式会社Progmat |
-| 起源 | 三菱UFJ信託銀行の社内プロジェクトを起源とし、2023-10-02 から独立会社化 |
-| 主な領域 | ST / UT / SC プラットフォーム、Progmat Coin、DCC コンソーシアム運営 |
-| 規制上の境界 | プラットフォーム提供者。トークン発行者・受託者・販売者の役割は、参加する規制対象事業者が担う。 |
+| 起源 | 三菱UFJ信託銀行の社内プロジェクト、2023-10-02 から独立した会社 |
+| 主要レーン | ST / UT / SC プラットフォーム、Progmat Coin、DCC コンソーシアム運営 |
+| 規制境界 | プラットフォーム提供者；トークン発行体／受託者／販売者の役割は参加する regulated entities が担う。 |
 
 ## 2. 事業上の役割
 
-- セキュリティトークン、ユーティリティトークン、ステーブルコイン基盤向けのトークン化プラットフォームを提供する。
-- [[megabanks/mufg|MUFG]] の信託銀行ノウハウ、他のメガバンク参加者、NTT Data、[[financial-regulators/japan-exchange-group|JPX]]、Datachain 型の相互運用性の取り組みを接続する。
-- [[exchanges/jp-exchange-jpyc|JPYC]] の資金移動業者発行モデルに対する、機関投資家向けステーブルコイン / トークン化資産プラットフォームとして機能し、[[exchanges/INDEX|exchanges index]] で追跡するノンバンク交換面とは異なる。
+- セキュリティトークン、ユーティリティトークン、stablecoin インフラ向けのトークン化プラットフォームレールを提供する。
+- [[megabanks/mufg|MUFG]] の信託銀行ノウハウ、その他のメガバンク参加者、NTT データ、[[financial-regulators/japan-exchange-group|JPX]]、Datachain 系の相互運用性の取り組みを接続する。
+- 姉妹オペレーター [[payment-firms/jpyc|JPYC株式会社]] が運営する資金移動型発行の EPI モデルに対する、機関向け・信託型 stablecoin / トークン化資産プラットフォームの対応物として機能し、[[exchanges/INDEX|exchanges index]] で追跡される非銀行の取引所サーフェスとは区別される。
 
-## 3. この単独ページが重要な理由
+## 3. この独立ページが重要な理由
 
-既存の詳細ページは `fintech/` にあるが、JapanFG では会社アンカーが必要になる。Progmat は大手銀行株主を持ち、ステーブルコインとの関連性が高い、日本の金融インフラ事業者として名指しされる会社だからである。
+既存の詳細ページは `fintech/` に存在するが、Progmat が大手銀行株主を持ち stablecoin 関連性のある named Japanese financial-infrastructure operator であるため、JapanFG には company anchor が必要となる。
 
-## 関連項目
+## 関連
 
 - [[fintech/jp-stablecoin-progmat]]
 - [[fintech/japan-stablecoin-regulatory-landscape]]
@@ -46,6 +48,6 @@ translated_at: 2026-06-02T15:14:17.115Z
 
 ## 出典
 
-- Progmat 会社情報: https://progmat.co.jp/about/
-- Progmat コンセプト: https://progmat.co.jp/concept/
-- Progmat Coin 共同検討プレスリリース: https://progmat.co.jp/en/news/2023-09-11-press/
+- Progmat About Us: https://progmat.co.jp/about/
+- Progmat Concept: https://progmat.co.jp/concept/
+- Progmat Coin joint study press release: https://progmat.co.jp/en/news/2023-09-11-press/

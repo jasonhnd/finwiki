@@ -1,35 +1,35 @@
 ---
 source: asset-managers/smt-am
-source_hash: 8110062bb5fbe309
+source_hash: 6f20ec5c65c73ea9
 lang: ja
 status: machine
 fidelity: ok
-title: "三井住友トラスト・アセットマネジメント（SMT-AM）"
-translated_at: 2026-06-02T15:14:17.082Z
+title: "三井住友トラスト・アセットマネジメント (SMT-AM)"
+translated_at: 2026-06-15T03:48:21.836Z
 ---
 
-# 三井住友トラスト・アセットマネジメント（SMT-AM）
+# 三井住友トラスト・アセットマネジメント (SMT-AM)
 
-## ウィキ上の位置づけ
+## Wiki 上の位置
 
-この項目は [[asset-managers/INDEX|asset-managers INDEX]] の配下に置かれる。比較文脈として [[asset-managers/asset-management-one|アセットマネジメントOne]]、FIEA上の免許境界として [[financial-licenses/securities-license-stack|securities license stack]]、登録レイヤーとして [[securities/financial-instruments-business-operators-japan-index|FSA 金商業者 index]] とあわせて読む。
+本項目は [[asset-managers/INDEX|asset-managers INDEX]] に属する。ピア / 対比の文脈として [[asset-managers/asset-management-one|アセットマネジメントOne]] を、FIEA ライセンス境界として [[financial-licenses/securities-license-stack|securities license stack]] を、レジストリ層として [[securities/financial-instruments-business-operators-japan-index|FSA 金商業者 index]] を参照のこと。
 
-## 要約
+## 要点
 
-三井住友トラスト・アセットマネジメント (SMT-AM) は [[trust-banks/sumitomo-mitsui-trust|三井住友トラストグループ (SuMi TRUST)]] の資産運用事業会社である。FSA 金融商品取引業者一覧では「三井住友トラスト・アセットマネジメント株式会社」、関東財務局長(金商)第347号として掲載される。**メガバンク傘下ではない独立信託 FG の運用会社**として、年金運用・公募投信・信託銀行販売チャネルを軸とする。同じ信託系運用会社の [[asset-managers/mufg-asset-management|三菱UFJアセットマネジメント]] と並び、[[asset-managers/asset-management-one|アセットマネジメントOne]] (みずほ + 第一生命 JV) とは出自が異なる「**信託専業独立系の運用会社**」モデルである。
+三井住友トラスト・アセットマネジメント (SMT-AM) は [[trust-banks/sumitomo-mitsui-trust|三井住友トラストグループ (SuMi TRUST)]] の asset-management operating company。FSA 金融商品取引業者一覧では「三井住友トラスト・アセットマネジメント株式会社」、関東財務局長(金商)第347号として掲載される。**メガバンク傘下ではない独立信託 FG の運用会社**として、年金運用・公募投信・信託銀行販売チャネルを軸とする。同じ信託系運用会社の [[asset-managers/mufg-asset-management|三菱UFJアセットマネジメント]] と並び、[[asset-managers/asset-management-one|アセットマネジメントOne]] (みずほ + 第一生命 JV) とは出自が異なる「**信託専業独立系の運用会社**」モデル。
 
 ## 1. 法人・ライセンス境界
 
-| 項目 | 読み方 |
+| Item | Reading |
 |---|---|
-| 正式名称 | 三井住友トラスト・アセットマネジメント株式会社 |
+| Legal name | 三井住友トラスト・アセットマネジメント株式会社 |
 | 英名 | Sumitomo Mitsui Trust Asset Management Co., Ltd. |
-| FSA登録 | 関東財務局長(金商)第347号 |
+| FSA registration | 関東財務局長(金商)第347号 |
 | FIEA scope | 第二種金融商品取引業、投資助言・代理業、投資運用業 |
-| 親会社境界 | [[trust-banks/sumitomo-mitsui-trust|SuMi TRUST]] 100% の資産運用子会社 |
+| Parent boundary | [[trust-banks/sumitomo-mitsui-trust|SuMi TRUST]] 100% asset-management 子会社 |
 | 本社 | 東京都港区 |
 
-## 2. 事業上の役割
+## 2. Business role
 
 - **公募投資信託**、**投資一任**、**投資助言** を担う SuMi TRUST の運用会社。
 - メガバンク系運用会社 ([[asset-managers/mufg-asset-management|三菱UFJ AM]] / [[asset-managers/asset-management-one|アセマネOne]] / [[asset-managers/smd-am|三井住友DS AM]]) と異なり、**信託専業独立系**親会社の運用機能を担う。
@@ -49,7 +49,7 @@ translated_at: 2026-06-02T15:14:17.082Z
 
 - メガバンク系運用会社のような JV 構造ではない (独立信託 FG 100% モデル)
 
-## 4. 単独ページが重要な理由
+## 4. 独立ページが重要である理由
 
 [[trust-banks/sumitomo-mitsui-trust|SuMi TRUST]] は「**メガバンクから独立した唯一の信託専業持株会社**」で 3 大信託の一角だが、その運用機能を担う **SMT-AM** は独立分析単位として重要：
 
@@ -59,7 +59,7 @@ translated_at: 2026-06-02T15:14:17.082Z
 
 ## 5. 競合・peer
 
-| 比較対象 | 系譜 | 差別化軸 |
+| Peer | 系譜 | 差別化軸 |
 |---|---|---|
 | [[asset-managers/mufg-asset-management|三菱UFJ AM]] | MUFG 100% | メガバンク + 信託の総合運用 |
 | [[asset-managers/asset-management-one|アセマネOne]] | みずほ + 第一生命 JV | 銀行・信託・保険の JV プラットフォーム |

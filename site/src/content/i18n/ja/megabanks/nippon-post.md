@@ -1,19 +1,19 @@
 ---
 source: megabanks/nippon-post
-source_hash: 9bbccaf2498d98f2
+source_hash: 79fbd6744661e256
 lang: ja
 status: machine
 fidelity: ok
-title: "日本郵政"
-translated_at: 2026-06-02T14:54:39.076Z
+title: "日本郵政 (Japan Post Holdings)"
+translated_at: 2026-06-15T03:48:21.896Z
 ---
-# 日本郵政
+# 日本郵政 (Japan Post Holdings)
 
-## ウィキ上の位置づけ
+## Wiki 上の位置づけ
 
-この項目は [[megabanks/INDEX|megabanks INDEX]] 配下に置かれる。[[life-insurers/kampo-life|かんぽ生命保険 (Japan Post Insurance)]] を同業・対照の文脈として、[[banking/INDEX|banking index]] をより広い制度・規制境界として読む。
+本項は [[megabanks/INDEX|megabanks INDEX]] の下に置かれる。ピア／対比の文脈として [[life-insurers/kampo-life|かんぽ生命保険 (Japan Post Insurance)]] と、より広いシステム／規制の境界として [[banking/INDEX|banking index]] と照らし合わせて読むこと。
 
-## 要約
+## 要点
 
 旧 日本郵政公社 を改組した「郵便 + 金融 [銀行 + 保険]」3 本柱の上場持株会社。**国内最大級の金融グループ**（連結ベースでグループ運用資産規模 250 兆円超の領域）。2015-11-04 に持株会社 / [[regional-banks/yucho]] / [[life-insurers/kampo-life]] **3 社同時 IPO** ★。筆頭株主は財務大臣（郵政民営化法により**当面 1/3 超**保有義務）。2019-2020 [[life-insurers/kampo-life]] 不適切販売事件で経営陣交代・業務改善命令を受け、信頼回復と運用利回り改善が中期テーマ。^[extracted]
 
@@ -35,6 +35,8 @@ translated_at: 2026-06-02T14:54:39.076Z
 > 日本郵政株式会社法および郵政民営化法により、政府は**当面 3 分の 1 超を保有する義務**を負う。さらに 日本郵政 自身も [[regional-banks/yucho]] / [[life-insurers/kampo-life]] 各社株式の処分について段階目標が課されており、金融 2 社の政府関与は二重構造で残る。^[extracted]
 
 ### 主要子会社・持分
+
+> 上場持株会社としての沿革・市場区分・政府保有スキームの詳細は companion ページ [[megabanks/japan-post-holdings|日本郵政株式会社 (operating profile)]] に分離して整理している。
 
 ```
 日本郵政株式会社（持株会社・上場 6178）
@@ -108,7 +110,7 @@ translated_at: 2026-06-02T14:54:39.076Z
   - 2024 〜 郵便料金値上げ（25 g 84 円 → 110 円 等）と郵便事業赤字化
   - 2025 〜 デジタル郵便・電子私書箱・MyPost 構想
 
-## 関連項目
+## 関連
 
 - [[regional-banks/yucho]] · [[life-insurers/kampo-life]]
 - [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[megabanks/ndfg]] · [[megabanks/sbi-hd]] · [[megabanks/paypay-fg]]
@@ -126,4 +128,4 @@ translated_at: 2026-06-02T14:54:39.076Z
 ---
 
 > [!info] 検証状況
-> 信頼度: **概ね確からしい**（v1.0 Wikipedia + 公開法令ベース 2026-05-19）。総資産・運用残高・株主比率の精緻な時点値は 日本郵政グループ 統合報告書 / 有価証券報告書での再確認が必要。とくに政府保有比率と金融 2 社株の処分進捗は政令改正で動くため、再確認期限 までに 2026-09 期決算と中期経営計画アップデートで再校核すること。
+> confidence: **likely**（v1.0 Wikipedia + 公開法令ベース 2026-05-19）。総資産・運用残高・株主比率の精緻な時点値は 日本郵政グループ 統合報告書 / 有価証券報告書での再確認が必要。とくに政府保有比率と金融 2 社株の処分進捗は政令改正で動くため、review_by までに 2026-09 期決算と中期経営計画アップデートで再校核すること。

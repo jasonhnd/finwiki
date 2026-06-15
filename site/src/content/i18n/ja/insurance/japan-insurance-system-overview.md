@@ -1,137 +1,137 @@
 ---
 source: insurance/japan-insurance-system-overview
-source_hash: 6bdc2650c40b1612
+source_hash: 6fe7a20ab6307049
 lang: ja
 status: machine
 fidelity: ok
-title: "日本の保険制度の全体像"
-translated_at: 2026-06-02T14:01:20.943Z
+title: "日本の保険システム概観"
+translated_at: 2026-06-15T03:48:21.936Z
 ---
 
-# 日本の保険制度の全体像
+# 日本の保険システム概観
 
-## 要約
+## TL;DR
 
-日本の**保険制度**は、**生命保険**、**損害保険**、**共済**、**再保険**、および**官民地震保険制度**という五つの大きなセグメントにまたがる。保険会社は保険業法の下で営業し、金融庁（FSA）が監督する。資本十分性は、IAIS の Insurance Capital Standard（ICS）と整合する形で段階導入される経済価値ベースのソルベンシー比率（ESR）制度で測られる。
+日本の **保険システム** は五つの主要セグメントにまたがる：**生命保険** (生命保険)、**損害保険** (損害保険)、**共済 (mutual aid / kyosai)** (共済)、**再保険** (再保険)、および **官民の地震保険スキーム** (地震保険)。保険会社は保険業法 (Insurance Business Act) の下で事業を行い、金融庁 (FSA) の監督を受け、資本十分性は IAIS 保険資本基準 (ICS) との整合に向けて段階的に導入が始まった経済価値ベースのソルベンシー比率 (ESR) 制度の下で測定される。
 
-市場は集中している。生命保険では Nippon Life、Dai-ichi、Sumitomo、Meiji Yasuda の大手四社が保険料を主導し、損害保険では Tokio Marine、MS&AD、Sompo の大手三グループが中心で、共済では JA Kyosai が最大の協同組合系保険者である。地震保険制度は、Japan Earthquake Reinsurance（JER）が運営し政府の裏付けを持つ、日本特有の官民パートナーシップである。
+市場は集中している。四社の生命保険会社（日本生命、第一生命、住友生命、明治安田）が生保保険料を支配し、三つの損保グループ（東京海上、MS&AD、Sompo）が損保保険料を支配し、JA 共済が最大の協同組合保険者である。地震保険スキームは、日本地震再保険 (JER) が政府の裏付けの下で運営する、独自の官民パートナーシップである。
 
-この項目は [[insurance/INDEX|insurance domain]] を横断的につなぎ、エンティティページである [[insurance/INDEX|insurance INDEX]] への橋渡しをするエコシステム上のアンカーである。
+本項目は、[[insurance/INDEX|insurance domain]] を結び付け、各エンティティページの [[insurance/INDEX|insurance INDEX]] へと橋渡しするセグメント横断のエコシステムアンカーである。
 
-## ウィキ上の位置づけ
+## Wiki ルート
 
-この項目は [[insurance/INDEX|insurance index]] の下で制度全体のアンカーになる。生命保険大手四社の詳細は [[insurance/japan-life-insurance-big-four]]、損害保険大手三グループは [[insurance/japan-nonlife-big-three]]、共済側は [[insurance/cooperative-insurance-system-japan]]、グローバルなソルベンシー比較は [[insurance/global-solvency-framework-comparison-matrix]]、地震保険制度は [[insurance/earthquake-insurance-public-private-scheme]] と組み合わせて読む。
+本項目は [[insurance/INDEX|insurance index]] の下に、システム概観のアンカーとして位置する。生保ビッグ4の詳細については [[insurance/japan-life-insurance-big-four]] と、損保ビッグ3の詳細については [[insurance/japan-nonlife-big-three]] と、共済保険側については [[insurance/cooperative-insurance-system-japan]] と、グローバルなソルベンシー比較については [[insurance/global-solvency-framework-comparison-matrix]] と、地震保険スキームについては [[insurance/earthquake-insurance-public-private-scheme]] と組み合わせること。
 
-### 1. 生命保険
-
-| サブセグメント | 例 | アンカー |
-|---|---|---|
-| 大手四生保（相互会社 / 株式会社） | [[life-insurers/nippon-life|Nippon Life]] (mutual), [[life-insurers/dai-ichi-life|Dai-ichi Life]] (stock), [[life-insurers/sumitomo-life|Sumitomo Life]] (mutual), Meiji Yasuda Life (mutual) | [[insurance/japan-life-insurance-big-four]], [[insurance/japan-life-big-four-overlay-comparison-matrix]] |
-| 郵政系生命保険 | [[life-insurers/kampo-life|Kampo Life (Japan Post Insurance)]] | [[insurance/kampo-japan-post-insurance]] |
-| オンライン直販生命保険 | Lifenet Life (Lifenet Insurance) | [[insurance/internet-life-insurance-business-model]] |
-| 団体・スペシャルティ生命保険 | [[life-insurers/sony-life|Sony Life]], SBI Life, Rakuten Life, Daido Life, Taiyo Life, Dai-ichi Frontier | [[insurance/sony-life-group-life-operating-model]] |
-| 外資系生命保険 | [[life-insurers/aflac-japan|Aflac]], [[life-insurers/aia-life-japan|AIA Japan]], Prudential of Japan, MetLife Japan, AXA Japan, Manulife Japan | [[insurance/foreign-life-affiliate-japan-positioning]] |
-| 銀行系・子会社生命保険 | Cardif Life, TD Financial Life, Credit Agricole Life | [[insurance/foreign-life-affiliate-japan-positioning]] |
-
-生命保険の販売チャネルは、代理店・営業職員型、銀行窓販、オンライン直販、組み込み型・団体チャネルの組み合わせで成り立つ。
-
-### 2. 損害保険
+### 1. 生命保険 (生命保険)
 
 | サブセグメント | 例 | アンカー |
 |---|---|---|
-| 大手三損保グループ | [[non-life-insurers/tokio-marine|Tokio Marine HD]] / Tokio Marine & Nichido Fire, [[non-life-insurers/msad|MS&AD]] / Mitsui Sumitomo Insurance + Aioi Nissay Dowa, [[non-life-insurers/sompo|SOMPO HD]] / SOMPO Japan Insurance | [[insurance/japan-nonlife-big-three]], [[insurance/japan-nonlife-big-three-reinsurance-cat-matrix]] |
-| 直販損保 | Saison Automobile & Fire, SOMPO Direct, Sony Assurance | [[insurance/saison-automobile-fire]] |
-| スペシャルティ損保 | Anicom (pet), au Insurance, PayPay Insurance, Rakuten Non-life | [[non-life-insurers/anicom-insurance]], [[non-life-insurers/au-insurance]] |
-| 外資系損保 | Allianz Fire and Marine, AIG Japan, AXA Japan, Chubb Japan, Zurich Japan | [[non-life-insurers/aig-japan]], [[non-life-insurers/chubb-insurance-japan]] |
-| 海上 / P&I | 日本の海運を支える海上保険と P&I クラブ | [[insurance/marine-insurance-and-pi-cover-market]], [[financial-regulators/japan-pi-club]] |
+| ビッグ4生保（相互 / 株式） | [[life-insurers/nippon-life|Nippon Life]] (相互), [[life-insurers/dai-ichi-life|Dai-ichi Life]] (株式), [[life-insurers/sumitomo-life|Sumitomo Life]] (相互), 明治安田生命 (相互) | [[insurance/japan-life-insurance-big-four]], [[insurance/japan-life-big-four-overlay-comparison-matrix]] |
+| 郵政系生保 | [[life-insurers/kampo-life|Kampo Life (Japan Post Insurance)]] | [[insurance/kampo-japan-post-insurance]] |
+| オンライン直販生保 | Lifenet Life (ライフネット生命) | [[insurance/internet-life-insurance-business-model]] |
+| グループ / スペシャルティ生保 | [[life-insurers/sony-life|Sony Life]], SBI 生命, 楽天生命, 大同生命, 太陽生命, 第一フロンティア | [[insurance/sony-life-group-life-operating-model]] |
+| 外資系生保 | [[life-insurers/aflac-japan|Aflac]], [[life-insurers/aia-life-japan|AIA Japan]], プルデンシャル生命, メットライフ生命, アクサ生命, マニュライフ生命 | [[insurance/foreign-life-affiliate-japan-positioning]] |
+| 銀行系 / 子会社生保 | カーディフ生命, TD フィナンシャル生命, クレディ・アグリコル生命 | [[insurance/foreign-life-affiliate-japan-positioning]] |
 
-損害保険の種目は、自動車（保険料で最大）、火災・不動産、海上、傷害、賠償責任、農業・漁業、スペシャルティ（ペット、アウトドア、通信連動、旅行、賃貸住宅）などである。
+生命保険の販売チャネルミックス：代理店ベース（営業職員 / コンサルタント）、バンカシュランス（銀行窓口）、オンライン直販、組み込み型 / グループチャネル。
 
-### 3. 共済
-
-| サブセグメント | 例 | アンカー |
-|---|---|---|
-| JA共済（農業協同組合） | 全共連（全国連合会） | [[insurance/ja-kyosai-zenkyoren-overview]], [[non-life-insurers/ja-kyosairen]] |
-| 生協系共済 | こくみん共済 coop（旧 zenrosai）、コープ共済 | [[insurance/cooperative-insurance-system-japan]] |
-| 公務員共済 | 各種の国家・地方公務員共済 | [[insurance/cooperative-insurance-system-japan]] |
-| 職域共済 | 教職員・医療職など各種専門職団体の共済 | [[insurance/cooperative-insurance-system-japan]] |
-
-共済は保険業法ではなく協同組合系の法制度の下で運営され、JA-Kyosai は通常 MAFF、生活協同組合系共済は MHLW など、別の監督体系に置かれる。外縁の重なりは [[insurance/japan-kyosai-vs-fsa-insurance-perimeter-matrix]] を参照する。
-
-### 4. 再保険
+### 2. 損害保険 (損害保険)
 
 | サブセグメント | 例 | アンカー |
 |---|---|---|
-| 国内専業再保険会社 | Toa Re | [[insurance/foreign-reinsurer-japan-landscape]] |
-| 外国再保険会社の日本拠点 | Munich Re, Swiss Re, SCOR, Hannover Re, RGA | [[insurance/foreign-reinsurer-japan-landscape]] |
-| Lloyd's シンジケート | Lloyd's Japan | [[insurance/lloyds-japan-syndicate-operating-model]] |
-| キャプティブ保険 | Japan captive-insurance market | [[insurance/captive-insurance-japan-market]] |
-| 自然災害再保険 | Foreign nat-cat reinsurers + Lloyd's シンジケートs | [[insurance/natcat-reinsurance-japan]] |
+| ビッグ3損保グループ | [[non-life-insurers/tokio-marine|Tokio Marine HD]] / 東京海上日動火災, [[non-life-insurers/msad|MS&AD]] / 三井住友海上 + あいおいニッセイ同和, [[non-life-insurers/sompo|SOMPO HD]] / SOMPO ジャパン | [[insurance/japan-nonlife-big-three]], [[insurance/japan-nonlife-big-three-reinsurance-cat-matrix]] |
+| ダイレクト損保 | セゾン自動車火災, SOMPO ダイレクト, ソニー損保 | [[insurance/saison-automobile-fire]] |
+| スペシャルティ損保 | アニコム（ペット）, au 保険, PayPay 保険, 楽天損保 | [[non-life-insurers/anicom-insurance]], [[non-life-insurers/au-insurance]] |
+| 外資系損保 | アリアンツ火災海上, AIG 損保, アクサ損保, チャブ損保, チューリッヒ損保 | [[non-life-insurers/aig-japan]], [[non-life-insurers/chubb-insurance-japan]] |
+| マリン / P&I | 日本の海運に役立つ海上保険および P&I クラブ | [[insurance/marine-insurance-and-pi-cover-market]], [[financial-regulators/japan-pi-club]] |
 
-再保険は元受保険会社が集中リスク、とくに地震、台風、洪水のリスクを移転する仕組みである。大規模な自然災害キャパシティの多くは外国再保険会社と Lloyd's から供給される。
+損保の種目：自動車（保険料で最大）、火災 / 財物、海上、傷害、賠償責任、農業 / 漁業、およびスペシャルティ（ペット、アウトドア、通信連動、旅行、賃貸住宅）。
 
-### 5. 地震保険の官民制度
+### 3. 共済 (Mutual aid / Kyosai) (共済)
 
-地震保険の官民制度は、日本の保険制度を特徴づける独自の構造である。
+| サブセグメント | 例 | アンカー |
+|---|---|---|
+| JA 共済（農業協同組合） | 全共連（全国連合会） | [[insurance/ja-kyosai-zenkyoren-overview]], [[non-life-insurers/ja-kyosairen]] |
+| 生協系共済（消費生活協同組合） | こくみん共済 coop（旧 全労済）, コープ共済 | [[insurance/cooperative-insurance-system-japan]] |
+| 公務員共済 | 各種の国家 / 地方公務員共済 | [[insurance/cooperative-insurance-system-japan]] |
+| 職業別共済 | 各種の職業団体共済（例：教職員、医療従事者） | [[insurance/cooperative-insurance-system-japan]] |
+
+共済は保険業法ではなく協同組合法の法令の下で運営され、別個の監督（典型的には JA 共済については MAFF、生協系共済については MHLW）を受ける。境界のオーバーレイについては [[insurance/japan-kyosai-vs-fsa-insurance-perimeter-matrix]] を参照。
+
+### 4. 再保険 (再保険)
+
+| サブセグメント | 例 | アンカー |
+|---|---|---|
+| 国内専業再保険者 | トーア再保険 | [[insurance/foreign-reinsurer-japan-landscape]] |
+| 外国再保険者の日本支店 | ミュンヘン再保険, スイス再保険, SCOR, ハノーバー再保険, RGA | [[insurance/foreign-reinsurer-japan-landscape]] |
+| ロイズシンジケート | ロイズ・ジャパン | [[insurance/lloyds-japan-syndicate-operating-model]] |
+| キャプティブ保険 | 日本のキャプティブ保険市場 | [[insurance/captive-insurance-japan-market]] |
+| 自然災害再保険 | 外国の自然災害再保険者 + ロイズシンジケート | [[insurance/natcat-reinsurance-japan]] |
+
+再保険は、元受保険者が集中したリスク（特に地震、台風、洪水）を移転することを可能にする。大規模な自然災害の引受キャパシティのほとんどは、外国の再保険者とロイズから来る。
+
+### 5. 地震保険の官民スキーム
+
+地震保険の官民スキームは独自の構造的特徴である：
 
 | レイヤー | 機能 |
 |---|---|
-| 家計地震保険 | 住宅向け火災保険に付帯して加入する必要がある。 |
-| 元受保険会社 | 損害保険会社が契約を引き受ける。 |
-| 日本地震再保険（JER） | 家計地震保険の法定独占再保険者で、すべての元受エクスポージャーを再保険する。 |
-| 政府バックストップ | 法律上定められた損害閾値を超える部分を政府が JER の背後で支える。 |
+| 家計地震保険 | 住宅用物件について火災保険とのバンドルが求められる。 |
+| 元受保険者 | 損害保険者が保険契約を引き受ける。 |
+| 日本地震再保険 (JER) | 家計地震についての法定独占再保険者；元受保険者のエクスポージャー全てを再保険する。 |
+| 政府のバックストップ | 政府は、法令の下で定められた損失閾値を超えて JER を裏付ける。 |
 
-詳細は [[insurance/earthquake-insurance-public-private-scheme]] と [[non-life-insurers/japan-earthquake-reinsurance]] を参照する。
+詳細については [[insurance/earthquake-insurance-public-private-scheme]] と [[non-life-insurers/japan-earthquake-reinsurance]] を参照。
 
-## 規制フレームワーク
+## 規制の枠組み
 
-| レイヤー | 内容 |
+| レイヤー | 詳細 |
 |---|---|
-| 保険業法 | 保険会社の免許、販売、資本、ガバナンス、行為規制の法定枠組み。 |
-| 金融庁監督 | 免許、監督上の検査、市場行為レビュー。 |
-| 経済価値ベースのソルベンシー比率（ESR） | IAIS ICS の原則と整合する資本十分性制度。 [[insurance/economic-value-based-solvency]]、[[insurance/esr-economic-value-solvency]] を参照。 |
-| グローバルなソルベンシー比較 | FSA ESR / IAIS ICS / EU Solvency II / US NAIC RBC. [[insurance/global-solvency-framework-comparison-matrix]] を参照。 |
-| IAIS / IAIG | 国際的に活動する保険グループ（IAIG）の指定と ICS 2.0  報告。 [[insurance/japan-iaig-ics-mapping]] を参照。 |
-| 募集・販売の登録 | 金融庁下の保険代理店・ブローカー登録と、JIIA（損保）・JLIA（生保）の自主規制。 [[insurance/insurance-agency-and-brokerage-japan]] を参照。 |
-| 銀行窓販 | Bank-counter sale of insurance under 金融庁監督. [[insurance/bancassurance-economics-japan]]、[[insurance/japan-bancassurance-distribution-overlay-matrix]] を参照。 |
-| 共済の外縁 | MAFF / MHLW などの協同組合法制下にあり、保険会社とは別の監督体系を持つ。 [[insurance/japan-kyosai-vs-fsa-insurance-perimeter-matrix]] を参照。 |
-| 保険契約者保護 | 生命保険契約者保護機構（LIPPC）と損害保険契約者保護機構（GIPPC）。 |
+| 保険業法 (Insurance Business Act) | 保険者の免許、販売、資本、ガバナンス、行為についての法定枠組み。 |
+| FSA 監督 | 免許、監督検査、市場行為レビュー。 |
+| 経済価値ベースのソルベンシー比率 (ESR) | IAIS ICS の原則と整合した資本十分性制度。[[insurance/economic-value-based-solvency]], [[insurance/esr-economic-value-solvency]] を参照。 |
+| グローバルなソルベンシー比較 | FSA ESR / IAIS ICS / EU ソルベンシー II / 米 NAIC RBC。[[insurance/global-solvency-framework-comparison-matrix]] を参照。 |
+| IAIS / IAIG | 国際的に活動する保険グループ (IAIG) 指定；ICS 2.0 報告。[[insurance/japan-iaig-ics-mapping]] を参照。 |
+| 販売の免許 | FSA の下での保険代理店 / ブローカー登録、JIIA（損害保険）と JLIA（生命保険）の自主規制を伴う。[[insurance/insurance-agency-and-brokerage-japan]] を参照。 |
+| バンカシュランス | FSA 監督の下での保険の銀行窓口販売。[[insurance/bancassurance-economics-japan]], [[insurance/japan-bancassurance-distribution-overlay-matrix]] を参照。 |
+| 共済の境界 | MAFF / MHLW の下の協同組合法の法令、別個の監督制度を伴う。[[insurance/japan-kyosai-vs-fsa-insurance-perimeter-matrix]] を参照。 |
+| 契約者保護 | 生命保険契約者保護機構 (LIPPC) + 損害保険契約者保護機構 (GIPPC)。 |
 
 ## 市場参加者
 
-| 区分 | 例 |
+| カテゴリー | 例 |
 |---|---|
-| 生命保険会社（金融庁免許） | 大手四社、郵政系、オンライン、団体系、外資系を含む約 40  の免許生命保険会社。 |
-| 損害保険会社（金融庁免許） | 大手三社、直販、スペシャルティ、外資系、海上 / P&I を含む約 30 超の免許損害保険会社。 |
-| 共済運営者 | JA-Kyosai、Kokumin Kyosai Coop、Coop Kyosai、公務員共済、職域共済。 |
-| 再保険会社 | Toa Re（国内）、Munich Re、Swiss Re、SCOR、Hannover Re、RGA、Lloyd's Japan、キャプティブ。 |
-| 販売チャネル | 代理店型営業職員、銀行（銀行窓販）、ブローカー、オンライン直販、組み込み型 / 団体チャネル。 |
-| 業界団体 | 生命保険協会 (生保協会), 日本損害保険協会 (損保協会). |
-| 自主規制機関 | JIIA (general insurance), JLIA (life insurance). |
-| 監督当局 | FSA under Insurance Business Act. |
-| 保険契約者保護 | LIPPC (life), GIPPC (general). |
+| 生命保険者（FSA 免許） | ビッグ4、郵政、オンライン、グループ、外資系にまたがる約 40 社の免許を受けた生命保険者。 |
+| 損害保険者（FSA 免許） | ビッグ3、ダイレクト、スペシャルティ、外資系、マリン / P&I にまたがる約 30社超の免許を受けた損害保険者。 |
+| 共済事業者 | JA 共済, こくみん共済 coop, コープ共済, 公務員共済, 職業別共済。 |
+| 再保険者 | トーア再保険（国内）, ミュンヘン再保険, スイス再保険, SCOR, ハノーバー再保険, RGA, ロイズ・ジャパン, キャプティブ。 |
+| 販売チャネル | 代理店ベースの営業職員、銀行（バンカシュランス）、ブローカー、オンライン直販、組み込み型 / グループチャネル。 |
+| 業界団体 | 生命保険協会 (生保協会), 日本損害保険協会 (損保協会)。 |
+| 自主規制機関 | JIIA（損害保険）, JLIA（生命保険）。 |
+| 規制当局 | 保険業法の下の FSA。 |
+| 契約者保護 | LIPPC（生命）, GIPPC（損害）。 |
 
-## セグメント横断のつながり
+## セグメント横断のリンケージ
 
-| つながり | 仕組み |
+| リンケージ | メカニズム |
 |---|---|
-| 生命保険会社の金利デリバティブヘッジ | 大手生命保険会社は円 IRS の固定受け手として最大級の参加者である。 See [[derivatives/japan-interest-rate-derivatives-overview]], [[insurance/japan-life-insurance-alm-overview]]. |
-| 損害保険の自然災害再保険 | 大手三損保は自然災害再保険契約で外国再保険会社へリスクを出再する。 See [[insurance/natcat-reinsurance-japan]]. |
-| 銀行窓販 | 銀行は金融庁監督下のチャネルで生命保険・損害保険を販売する。 See [[insurance/bancassurance-economics-japan]]. |
-| FG 系生命保険子会社 | メガバンク / FG グループは Dai-ichi Frontier や Mitsui Sumitomo Aioi Life などのグループ内生命保険子会社を運営する。 |
-| 保険 / 資産運用 | 大手生命保険会社は大規模な資産運用事業を持ち、大手三損保もグローバルな資産運用機能を運営する。 |
-| 保険 / グローバル FG | 大手三損保グループは、Tokio Marine HCC、MSI USA、Sompo Internazionale などのグローバル保険子会社を運営する。 |
+| 生命保険者の金利デリバティブヘッジ | 大手生命保険者は円 IRS の最大級の固定受け（receive-fixed）利用者の一角である。[[derivatives/japan-interest-rate-derivatives-overview]], [[insurance/japan-life-insurance-alm-overview]] を参照。 |
+| 損保の自然災害再保険 | ビッグ3損保は自然災害特約プログラムの下で外国再保険者に出再する。[[insurance/natcat-reinsurance-japan]] を参照。 |
+| バンカシュランス | 銀行が FSA 監督下のチャネルで生保 / 損保を販売する。[[insurance/bancassurance-economics-japan]] を参照。 |
+| FG 系生保子会社 | メガバンク / FG グループはキャプティブ生保子会社を運営する（例：第一フロンティア、三井住友海上あいおい生命）。 |
+| 保険 / 資産運用 | 大手生命保険者は大規模な資産運用ビジネスを運営する；損保ビッグ3はグローバルな資産運用アーム（特に Sompo は投資子会社経由）を運営する。 |
+| 保険 / グローバル FG | ビッグ3損保グループはグローバルな保険子会社を運営する（東京海上 HCC, MSI USA, Sompo Internazionale）。 |
 
 ## 公開データソース
 
-| 出典 | 確認できること |
+| ソース | 示すもの |
 |---|---|
-| 金融庁の保険会社開示 | 会社別の ESR、ソルベンシー・マージン比率、保険料収入、運用資産。 |
-| 生命保険協会 | 生命保険料、AUM、販売チャネルミックスの集計。 |
-| 日本損害保険協会 | 損害保険料、保険金、種目別内訳の集計。 |
-| 日本地震再保険（JER） | 地震再保険プールの規模と政府バックストップの発動条件。 |
-| 保険会社 IR | グループ別の財務開示、エンベディッド・バリュー、MCEV、グループレベルのソルベンシー。 |
-| IAIS 公開データ | IAIG リストと、開示されている場合の ICS 2.0  モニタリングデータ。 |
+| FSA 保険者開示 | 保険者ごとの ESR、ソルベンシー・マージン比率、保険料収入、運用資産。 |
+| 生命保険協会 | 生保保険料の合計、AUM、販売チャネルミックス。 |
+| 日本損害保険協会 | 損保保険料の合計、保険金、種目別内訳。 |
+| 日本地震再保険 (JER) | 地震再保険プールの規模、政府バックストップのトリガー。 |
+| 保険者 IR | グループごとの財務開示、エンベディッドバリュー、MCEV、グループレベルのソルベンシー。 |
+| IAIS 公開データ | IAIG リスト、ICS 2.0 モニタリングデータ（開示されている場合）。 |
 
 ## 関連
 
@@ -179,12 +179,12 @@ translated_at: 2026-06-02T14:01:20.943Z
 - [[derivatives/japan-interest-rate-derivatives-overview]]
 - [[INDEX|FinWiki index]]
 
-## 出典s
+## 出典
 
-- Financial Services Agency (FSA): 保険業法、ESR フレームワーク、保険会社開示、監督指針。
-- 生命保険協会: 生命保険業界の集計統計。
-- 日本損害保険協会: 損害保険業界の集計統計。
-- International Association of Insurance Supervisors (IAIS): ICS 2.0  フレームワーク、IAIG リスト。
-- 日本地震再保険（JER）: 地震保険再保険プール資料。
-- 大手四生保と大手三損保の IR リリース: グループレベルの財務開示。
-- JA-Kyosai / Zenkyoren 開示: 協同組合系保険。
+- 金融庁 (FSA)：保険業法、ESR 枠組み、保険者開示、監督指針。
+- 生命保険協会：生命保険業界の合計統計。
+- 日本損害保険協会：損害保険業界の合計統計。
+- 国際保険監督者機構 (IAIS)：ICS 2.0 枠組み、IAIG リスト。
+- 日本地震再保険 (JER)：地震保険の再保険プール文書。
+- グループレベルの財務開示についてのビッグ4生保およびビッグ3損保の IR リリース。
+- 共済保険についての JA 共済 / 全共連の開示。

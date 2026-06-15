@@ -1,51 +1,58 @@
 ---
 source: payment-firms/western-union-japan
-source_hash: d9434c45e4f71c3d
+source_hash: 13b387e989cd2dd1
 lang: ja
 status: machine
 fidelity: ok
 title: "ウエスタンユニオンジャパン (Western Union Japan)"
-translated_at: 2026-06-02T16:33:58.524Z
+translated_at: 2026-06-15T03:48:21.872Z
 ---
+
 # ウエスタンユニオンジャパン (Western Union Japan)
 
+## Wiki 上の位置づけ
 
-## ウィキ上の位置づけ
-
-このエントリは [[payment-firms/INDEX|payment-firms INDEX]] 配下に位置する。ピア比較・対比の文脈では [[payment-firms/wise-payments-japan|Wise Payments Japan]]、より広い制度・規制境界では [[payments/INDEX|payments index]] と照らして読む。
+本項目は [[payment-firms/INDEX|payment-firms INDEX]]（そのドメインルート）の下に位置する。ピア／対比（クロスボーダー送金／資金移動）としては [[payment-firms/sbi-remit|SBIレミット]] および [[payment-firms/travelex-japan|トラベレックスジャパン]] と併せて読み、監督／システムの境界については [[financial-regulators/fsa|the FSA]] および [[payments/funds-transfer-vs-prepaid-boundary|the funds-transfer vs prepaid boundary]] と併せて読むこと。
 
 ## 要約
 
-ウエスタンユニオンジャパン株式会社は、Western Union の日本における資金移動事業者である。FSA 登録一覧では関東財務局長第00039号として掲載され、現金受取 / 代理店ネットワーク型送金の代表例になる。
+ウエスタンユニオンジャパン株式会社は、Western Union グループの日本 **資金移動業者**（funds-transfer operator under 資金決済法; 関東財務局長 第00039号、平成27年8月18日登録）。本社は東京・港区虎ノ門。cash pickup / agent network 型 remittance の代表例で、移民・旅行・越境家計フロー向けの国際送金を提供する。
 
-## 1. 法人・ライセンス境界
+## 1. ライセンス／グループ境界
 
-| 項目 | 読み方 |
+| 項目 | 備考 |
 |---|---|
-| 法人 | ウエスタンユニオンジャパン株式会社 |
-| グループ | Western Union group |
-| 主要領域 | 国際送金、代理店ネットワーク、現金受取 / 支払 |
-| FSA 登録ルート | FSA 資金移動業者一覧: 関東財務局長 第00039号, ウエスタンユニオンジャパン株式会社. |
+| 法人名 | ウエスタンユニオンジャパン株式会社 |
+| ライセンス区分 | 資金移動業者（funds-transfer, 資金決済法）; FSA 関東財務局長 第00039号（2015-08 登録） |
+| 親会社／グループ | Western Union group（foreign parent） |
+| 主要レーン | 国際送金、エージェント網、cash receipt / payout |
+| 本社 | 東京・港区虎ノ門 |
+| Wiki 上の役割 | Western Union の日本 funds-transfer 実体ページ |
 
-## 2. 事業上の役割
+## 2. 事業モデル
 
-- 移民、旅行、国境をまたぐ家計資金フロー向けに国際送金を提供する。
-- 代理店 / 現金受取インフラが中核である点で、アプリ先行型 fintech と異なる。
-- [[payment-firms/sbi-remit|SBI Remit]]、[[payment-firms/travelex-japan|Travelex]]、[[payment-firms/wise-payments-japan|Wise]]、[[payment-firms/paypal-pte-ltd-japan|PayPal]] との比較対象になる。
+- 移民・旅行・越境家計フロー向けの国際送金を提供する。
+- エージェント／現金受取（cash-pickup）インフラが中心である点で、app-first fintech と異なる。
+- [[payment-firms/sbi-remit|SBI Remit]]、[[payment-firms/travelex-japan|Travelex]]、[[payment-firms/wise-payments-japan|Wise]]、[[payment-firms/paypal-pte-ltd-japan|PayPal]] の comparator。
 
-## 3. 独立ページとする理由
+## 3. このページが重要な理由
 
-Western Union のグローバルブランドはよく知られているが、実際のサービス境界を定めるのは日本法人と国内条件である。
+Western Union のグローバルブランドは馴染み深いが、実際のサービス境界を規律するのは **日本法人と現地約款**。foreign parent の日本 subsidiary が資金移動業 license で agent-network 型送金を operating する例を固定する。
 
 ## 関連項目
 
-- [[payment-firms/sbi-remit]]
-- [[payment-firms/travelex-japan]]
-- [[payment-firms/wise-payments-japan]]
-- [[payments/funds-transfer-vs-prepaid-boundary]]
+- [[payment-firms/INDEX|payment-firms INDEX]]
+- [[payment-firms/sbi-remit|SBI Remit]]
+- [[payment-firms/travelex-japan|Travelex Japan]]
+- [[payment-firms/wise-payments-japan|Wise Payments Japan]]
+- [[payments/funds-transfer-vs-prepaid-boundary|funds-transfer vs prepaid boundary]]
+- [[INDEX|FinWiki index]]
 
 ## 出典
 
-- Western Union Japan 送金ページ: https://www.westernunion.com/jp/en/register-and-send-money.html
-- Western Union Japan 日本語規約: https://www.westernunion.com/content/dam/wu/APAC/other/pdf/WU-terms-conditions-Japan-jp.pdf
-- FSA 資金移動業者一覧: https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf
+- Western Union Japan send-money page: https://www.westernunion.com/jp/en/register-and-send-money.html
+- Western Union Japan terms (Japanese): https://www.westernunion.com/content/dam/wu/APAC/other/pdf/WU-terms-conditions-Japan-jp.pdf
+- FSA funds-transfer service provider list (`shikin_idou.pdf`): https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf
+
+> [!info] 校核状态
+> confidence: likely。資金移動業（関東財務局長 第00039号、2015-08 登録）・Western Union グループ・虎ノ門所在は公開事実。

@@ -1,20 +1,20 @@
 ---
 source: payment-firms/bittrade
-source_hash: 9fecb8e890e512c2
+source_hash: 3f2dc25e0e444a28
 lang: ja
 status: machine
 fidelity: ok
 title: "ビットトレード (BitTrade)"
-translated_at: 2026-06-02T14:01:20.910Z
+translated_at: 2026-06-15T03:48:21.820Z
 ---
 
 # ビットトレード (BitTrade)
 
-## ウィキ上の位置づけ
+## Wiki 内の位置づけ
 
-この項目は [[payment-firms/INDEX|payment-firms INDEX]] の配下にある。ピア比較・対照の文脈では [[securities-firms/monex-group|マネックスグループ (Monex Group)]] とあわせて読み、より広い制度・規制境界については [[banking/INDEX|banking index]] とあわせて読む。
+本項目は [[payment-firms/INDEX|payment-firms INDEX]] の下に位置する。同業 / 対比の文脈については [[securities-firms/monex-group|マネックスグループ (Monex Group)]] と、より広いシステム / 規制上の境界については [[banking/INDEX|banking index]] と照らし合わせて読むこと。
 
-## 要約
+## 要点
 
 日本国内の暗号資産交換業者中堅枠。**旧 Huobi Japan が 2022-08 に「BitTrade」へ再改称**し、グローバル Huobi 本体（Justin Sun 関連）からの分離印象を打ち出した。**関東財務局長 第 00007 号**登録、JVCEA 第一種会員。取扱通貨数は国内最多級（2024 時点で 30+ 通貨）でロングテール戦略を取る。bitFlyer / Coincheck / GMO コイン / SBI VC Trade の次の中堅ポジション。^[extracted]
 
@@ -34,7 +34,7 @@ translated_at: 2026-06-02T14:01:20.910Z
 | 2016 | 旧 BitTrade 体制で創業（独立系暗号資産取引所）|
 | 2017 | 改正資金決済法施行 → 暗号資産交換業 登録制スタート |
 | 2018 | Huobi グループが買収 → 「**Huobi Japan / フォビジャパン**」に改称 |
-| 2019〜 | Huobi Japan として国内 スポット 取引運営（取扱通貨拡充）|
+| 2019〜 | Huobi Japan として国内 spot 取引運営（取扱通貨拡充）|
 | **2022-08** | **Huobi Japan → BitTrade に再改称**。グローバル Huobi 本体（Justin Sun 関連と報じられる）との分離印象を打ち出し |
 | 2023〜 | 「BitTrade」ブランドで取扱通貨ロングテール戦略を継続 |
 | 2024 | 取扱通貨数 30+（国内最多級）|
@@ -45,11 +45,11 @@ translated_at: 2026-06-02T14:01:20.910Z
 
 | セグメント | 内容 | 特徴 |
 |---|---|---|
-| 国内 スポット 取引 | 暗号資産現物売買（Type 1 / JVCEA 第一種）| 中堅枠・取扱通貨数で国内最多級 |
+| 国内 spot 取引 | 暗号資産現物売買（Type 1 / JVCEA 第一種）| 中堅枠・取扱通貨数で国内最多級 |
 | 取扱通貨 | 30+ 通貨（2024 時点）| BTC / ETH / 主要アルト + 国内取扱がレアな銘柄を含むロングテール |
 | 暗号資産レンディング | 預入 → 利息相当の付与 | 国内取扱業者で展開する付随サービス |
 | 法人向け | OTC / 法人口座等 | 中堅枠としての差別化領域 |
-| デリバティブ | 国内では限定的 | デリバティブは bitFlyer / GMO 等が主軸 |
+| デリバティブ | 国内では限定的 | デリバティブは [[payment-firms/bitflyer|bitFlyer]] / GMO 等が主軸 |
 
 ### ポジショニング
 
@@ -60,8 +60,8 @@ translated_at: 2026-06-02T14:01:20.910Z
 
 | カテゴリ | 主要プレイヤー |
 |---|---|
-| 大手 スポット | bitFlyer / Coincheck（マネックス傘下）/ GMO コイン / SBI VC Trade |
-| 中堅 スポット | **BitTrade** / DMM Bitcoin（旧）/ bitbank / LINE Xenesis（旧）等 |
+| 大手 spot | bitFlyer / Coincheck（マネックス傘下）/ GMO コイン / SBI VC Trade |
+| 中堅 spot | **BitTrade** / DMM Bitcoin（旧）/ bitbank / LINE Xenesis（旧）等 |
 | 銀行系 | [[megabanks/mufg]] Progmat 経由ステーブルコイン / [[megabanks/smfg]] 等の動き |
 | 海外大手の国内法人 | Binance Japan（旧 Sakura Exchange BitCoin 買収）等 |
 
@@ -69,14 +69,14 @@ translated_at: 2026-06-02T14:01:20.910Z
 
 - **再ブランディング後の独立イメージ確立**：Huobi グローバル（Justin Sun 関連）からの距離取り
 - **取扱通貨数の維持**：ロングテール戦略は審査・上場フローの体力勝負
-- **JVCEA / 金融庁監督下での コンプライアンス 強化**：トラベルルール / AML / 顧客資産分別管理
+- **JVCEA / 金融庁監督下での compliance 強化**：トラベルルール / AML / 顧客資産分別管理
 
 ## 4. 規制・政策
 
 - **主管**：金融庁 / 関東財務局（登録：第 00007 号）^[extracted]
 - **根拠法**：改正資金決済法（暗号資産交換業）
 - **業界団体**：**JVCEA**（日本暗号資産取引業協会）第一種会員、自主規制
-- **主要 コンプライアンス 領域**：
+- **主要 compliance 領域**：
   - 顧客資産の **分別管理**（信託・コールドウォレット）
   - **トラベルルール**対応
   - **AML / CFT**（取引時確認・疑わしい取引届出）
@@ -100,5 +100,5 @@ translated_at: 2026-06-02T14:01:20.910Z
 
 ---
 
-> [!info] 校核状態
+> [!info] 校核状态
 > confidence: **likely**（公開情報ベース）。再改称（2022-08 Huobi Japan → BitTrade）・登録番号（第 00007 号）・JVCEA 加盟は公開情報で確認可能。主要株主（Sinohope Technology Holdings〔旧 Huobi Technology〕系・東海東京 FH・FPG）は公式会社概要で開示。取扱通貨数（30+）と「国内最多級」表現は 2024 時点の業界比較ベース。

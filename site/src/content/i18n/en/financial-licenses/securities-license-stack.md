@@ -1,19 +1,20 @@
 ---
 source: financial-licenses/securities-license-stack
-source_hash: a57653de86a1cac5
+source_hash: 78a48826b9016dd6
 lang: en
 status: machine
 fidelity: ok
 title: "Japan securities license stack"
-translated_at: 2026-05-31T23:59:49.329Z
+translated_at: 2026-06-15T03:48:21.829Z
 ---
+
 # Japan securities license stack
 
 ## Overview
 
 Japan securities activity is not controlled by one generic "broker license." The practical stack is built from the Financial Instruments and Exchange Act (FIEA), FSA / Local Finance Bureau registration lists, JSDA self-regulation, exchange / PTS participation rules, clearing and settlement access, and customer-protection obligations.
 
-Use this page with [[financial-licenses/INDEX|JapanFG legal / financial licenses]], [[securities/INDEX|securities domain]], [[securities/financial-instruments-business-operators-japan-index|FIEA operator registry index]], and [[financial-regulators/jsda|JSDA]] when a company page needs to say what kind of regulated securities role it is actually playing.
+Use this page with [[financial-licenses/INDEX|JapanFG legal / financial licenses]], the sibling [[financial-licenses/payment-license-stack|payment license stack]] and [[financial-licenses/bank-license-and-baas-boundary|bank-license / BaaS boundary]], [[securities/INDEX|securities domain]], [[securities/financial-instruments-business-operators-japan-index|FIEA operator registry index]], and [[financial-regulators/jsda|JSDA]] when a company page needs to say what kind of regulated securities role it is actually playing.
 
 This page is a public-source research route, not legal advice. A live product or transaction still be checked against the latest FSA list, e-Gov law text, JSDA rules, supervisory guidelines, and counsel / regulator confirmation.
 
@@ -22,7 +23,7 @@ This page is a public-source research route, not legal advice. A live product or
 | Layer | Primary source | What it proves | What it does not prove |
 |---|---|---|---|
 | Statute | e-Gov law text for FIEA and related ordinances | The current legal category and defined terms. | Whether a named company is registered today. |
-| Registration | FSA "Lists of businesses that have received licenses, permits, registrations, etc." | Whether a firm appears in the checked official registry category and the registry as-of date. | Full product scope or commercial scale. |
+| Registration | FSA "免許・許可・登録等を受けている事業者一覧" | Whether a firm appears in the checked official registry category and the registry as-of date. | Full product scope or commercial scale. |
 | Supervisory view | FSA supervisory guidelines for financial instruments business operators | Public supervisory expectations for conduct, internal control, monitoring, customer protection, and market-intermediary behavior. | A private regulator opinion on a specific product. |
 | Self-regulation | [[financial-regulators/jsda|JSDA]] member lists and rules | Whether the firm is in the dealer self-regulatory route and which conduct / underwriting / solicitation rules may be relevant. | Statutory licensing by itself. |
 | Venue / infrastructure | [[securities/tokyo-stock-exchange|TSE]], [[securities/japannext-securities|Japannext]], [[securities/osaka-digital-exchange|ODX]], [[securities/japan-securities-clearing-corp|JSCC]], [[securities/japan-securities-depository-center|JASDEC]] | Trading, clearing, settlement, and PTS route. | Broker registration or suitability. |
@@ -76,7 +77,7 @@ The same customer journey can contain multiple regulated roles:
 | Bank vs securities subsidiary | A group brand may show both bank and securities services. | Link the group page, bank page, and securities page separately. |
 | Advice vs execution | Robo / advisory UX can blur advice, agency, and discretionary management. | Check advisory / agency and investment-management registration separately. |
 | PTS vs broker SOR | Customer sees one order ticket, but execution may route to TSE, PTS, or internalized OTC flow. | Link to [[securities/japan-market-infrastructure-map|Japan market infrastructure map]] and venue pages. |
-| Securities token vs crypto asset | A token can be marketed as digital, but legal classification changes the regime. | Route to FIEA first when it represents securities rights; route to [[exchanges/INDEX|exchanges]] for crypto-asset exchange status. |
+| Securities token vs crypto asset | A token can be marketed as digital, but legal classification changes the regime. | Route to FIEA first when it represents securities rights; route to [[exchanges/INDEX|exchanges]] for crypto-asset exchange status, and to the [[financial-licenses/payment-license-stack|Japan payment license stack]] when it is an electronic payment instrument or stablecoin rather than a security. |
 | "Unlisted" vs "unlicensed" | Not finding a firm in one list may mean wrong category or stale spelling. | Record "not found in checked source as of date" rather than asserting unlicensed status. |
 
 ## Research Checklist
@@ -106,8 +107,8 @@ The same customer journey can contain multiple regulated roles:
 
 ## Sources
 
-- FSA: "Lists of businesses that have received licenses, permits, registrations, etc."
-- FSA: "Financial Instruments Business Operator Registration List", as of 2026-04-30 on the checked FSA portal.
+- FSA: "免許・許可・登録等を受けている事業者一覧".
+- FSA: "金融商品取引業者登録一覧", as of 2026-04-30 on the checked FSA portal.
 - FSA: comprehensive supervisory guidelines for financial instruments business operators.
 - JSDA: organization overview, member list, and rules pages.
 - e-Gov law search.

@@ -1,41 +1,53 @@
 ---
 source: cooperative-banks/johoku-shinkin
-source_hash: 9ce05bab2e7f49e6
+source_hash: 8d86b8e7889ed3ec
 lang: en
 status: machine
 fidelity: ok
-title: "Johoku Shinkin Bank"
-translated_at: 2026-05-31T23:05:42.093Z
+title: "城北信用金庫"
+translated_at: 2026-06-15T03:48:21.932Z
 ---
-# Johoku Shinkin Bank
+
+# 城北信用金庫
 
 ## Wiki route
 
-This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]]. Read it against [[cooperative-banks/jonan-shinkin|城南信用金庫]] for peer / contrast context (southwestern Tokyo vs northern Tokyo) inside the Tokyo shinkin block, and [[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]] for the broader system / regulatory boundary maintained by [[cooperative-banks/shinkin-central|信金中央金庫]].
+This entry sits under [[cooperative-banks/INDEX|cooperative-banks index]]. Read it against [[cooperative-banks/jonan-shinkin|城南信用金庫]] for peer / contrast context (Tokyo 南西部 vs 北部) inside the Tokyo shinkin block, [[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]] for the system landscape, [[cooperative-banks/shinkin-central|信金中央金庫]] for the cooperative central institution above it, and [[financial-regulators/fsa|the FSA]] for the supervisory / licensing boundary over 信用金庫.
 
 ## TL;DR
 
-Johoku Shinkin Bank is a mid-sized shinkin bank headquartered in Arakawa-ku, Tokyo. Its main business base is northern Tokyo, including Arakawa, Adachi, Kita, Taito, Katsushika, and Itabashi, plus southern Saitama. It is a cooperative financial institution centered on lending to downtown SMEs, small manufacturers, shops, and sole proprietors.
+城北信用金庫 is a mid-sized shinkin bank headquartered in Arakawa Ward, Tokyo, whose principal business base is northern Tokyo (Arakawa, Adachi, Kita, Taito, Katsushika, Itabashi, etc.) and southern Saitama Prefecture. It is a cooperative financial institution whose core is lending to the downtown (shitamachi) small and medium-sized manufacturers, shops, and sole proprietors.
 
 ## 1. License / group boundary
 
 | Item | Notes |
 |---|---|
-| Legal name | Johoku Shinkin Bank |
-| License route | Shinkin Bank Act / FSA shinkin bank license list |
-| Group boundary | Member of the [[cooperative-banks/shinkin-central|信金中央金庫]] cooperative system |
-| Home market | Northern Tokyo + southern Saitama |
-| Wiki role | Northern Tokyo shinkin operating-company anchor page |
+| Legal name | 城北信用金庫 |
+| Institution type | 信用金庫 (shinkin bank) — member-based cooperative under 信用金庫法 |
+| License route | 信用金庫法 / FSA 信用金庫免許一覧 |
+| Supervisor | [[financial-regulators/fsa|金融庁 (FSA)]] + 関東財務局 (regional 財務局 delegated supervision) |
+| Group boundary | Member of [[cooperative-banks/shinkin-central|信金中央金庫]] cooperative system |
+| Deposit protection | [[financial-regulators/dic|預金保険機構 (DIC)]] — shinkin deposits are DIC-insured |
+| Home market | 東京都北部 + 埼玉県南部 |
+| Wiki role | Tokyo 北部 shinkin operating-company anchor page |
 
-## 2. Operating model
+## 2. Institution-type business model
 
-Johoku Shinkin Bank focuses on SME lending, working capital, and housing loans for small manufacturers, workshops, and retail shops in northern Tokyo's downtown districts, including Arakawa, Adachi, and Katsushika. Its characteristic role is relationship-based lending to concentrated local SME clusters such as metal processing, printing, and leather goods. In Tokyo's shinkin landscape, it shares regional coverage with [[cooperative-banks/jonan-shinkin|城南信用金庫]] in the southwest and [[cooperative-banks/asahi-shinkin|朝日信用金庫]] in the central area.
+As a **信用金庫 (shinkin bank)**, 城北信用金庫 is a *member-based cooperative deposit-taking institution* chartered under 信用金庫法, not a joint-stock bank. Membership and lending are confined to a defined 営業地区 — here Tokyo's 下町 (荒川・足立・葛飾 etc.) and 埼玉県南部 — and credit is statutorily oriented to member SMEs (町工場・金属加工・印刷・革製品 などの中小製造業) and retail households rather than the open corporate market. Surplus is returned to members and reserves, the defining feature of the 協同組織金融 (cooperative finance) tier it shares with [[cooperative-banks/jonan-shinkin|城南信用金庫]] and [[cooperative-banks/asahi-shinkin|朝日信用金庫]].
 
-## 3. Why this page matters
+城北信用金庫 has as its core business SME lending, working-capital finance, and home loans for the small and medium-sized manufacturers, machine workshops, and retail shops of the downtown areas of northern Tokyo (Arakawa, Adachi, Katsushika, etc.). Its distinctive feature is close-contact lending to the downtown clusters of small enterprises (metalworking, printing, leather goods, etc.). In Tokyo's shinkin landscape, it carries one wing of the regional division of labor alongside [[cooperative-banks/jonan-shinkin|城南信用金庫]] (southwest) and [[cooperative-banks/asahi-shinkin|朝日信用金庫]] (central city).
 
-- Operating-company entry for a key lender to downtown Tokyo SMEs and small manufacturers.
-- Geographic anchor for Tokyo shinkin coverage: Jonan vs Johoku vs Asahi.
-- Case study in the cooperative-finance model for dense downtown SME clusters.
+## 3. System & regulatory positioning
+
+- **Central institution**: sits beneath [[cooperative-banks/shinkin-central|信金中央金庫 (Shinkin Central Bank)]] for liquidity, surplus-fund investment, and settlement — the shinkin analogue of [[cooperative-banks/norinchukin|農林中央金庫]] for the JA system.
+- **Supervision**: licensed under 信用金庫法 by [[financial-regulators/fsa|the FSA]] with day-to-day oversight delegated to the regional 財務局; deposits are insured by [[financial-regulators/dic|the Deposit Insurance Corporation (DIC)]].
+- **System context**: see [[banking/cooperative-banking-japan|cooperative banking in Japan]] for the shinkin tier's place within 協同組織金融 and [[banking/shinkin-bank-registry-japan|the shinkin registry]] for the national 信用金庫 population.
+
+## 4. Why this page matters
+
+- An operating-company entry for a key player in downtown-Tokyo SME-manufacturing finance.
+- An anchor for Tokyo's shinkin geographic division of labor (城南 vs 城北 vs 朝日).
+- A case of the cooperative-finance model for downtown SME clusters.
 
 ## Related
 
@@ -49,6 +61,6 @@ Johoku Shinkin Bank focuses on SME lending, working capital, and housing loans f
 
 ## Sources
 
-- FSA: shinkin bank license list (latest snapshot per FSA registry).
-- Johoku Shinkin Bank official company profile.
-- Shinkin Central Bank cooperative-system context.
+- FSA: 信用金庫免許一覧 (latest snapshot per FSA registry)
+- 城北信用金庫 公式 会社概要 (per official 城北信用金庫 corporate site)
+- 信金中央金庫 cooperative system context

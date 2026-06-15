@@ -1,13 +1,15 @@
 ---
 source: card-issuers/seven-card-service
-source_hash: 54174640074807c2
+source_hash: 6dfa93ffac4ade8a
 lang: en
 status: machine
 fidelity: ok
-title: "Seven Card Service"
-translated_at: 2026-06-01T00:41:50.458Z
+title: "Seven Card Service (セブン・カードサービス)"
+translated_at: 2026-06-15T03:48:21.839Z
 ---
-# Seven Card Service
+
+# Seven Card Service (セブン・カードサービス)
+
 
 ## Wiki route
 
@@ -15,9 +17,9 @@ This entry sits under [[card-issuers/INDEX|card-issuers INDEX]]. Read it with [[
 
 ## TL;DR
 
-Seven Card Service is a card and retail-payment operator around [[retail/seven-and-i-hd|Seven & i]] / [[regional-banks/seven-bank|Seven Bank]]. This legal-entity boundary page helps separate stores, nanaco / points, cards, bank ATMs, and retail apps.
+Seven Card Service is a card and retail-payment operator around [[retail/seven-and-i-hd|Seven & i]] / [[regional-banks/seven-bank|Seven Bank]]. A corporate-boundary page for reading stores, nanaco / point, card, bank ATM, and retail app separately.
 
-## 1. Legal entity / license boundary
+## 1. Corporate / license boundary
 
 | Item | Reading |
 |---|---|
@@ -34,7 +36,7 @@ Seven Card Service is a card and retail-payment operator around [[retail/seven-a
 
 ## 3. Why this standalone page matters
 
-Seven Bank is not the whole Seven payment stack. This page keeps the card-service layer visible for comparisons with AEON, UCS, and FamilyMart.
+Seven Bank is not the whole Seven payment stack. This page keeps the card-service layer visible for comparisons with retail-affinity peers such as [[card-issuers/aeon-financial-service|イオンフィナンシャルサービス]] and [[card-issuers/ucs-card|UCSカード]], plus FamilyMart.
 
 ## Related
 

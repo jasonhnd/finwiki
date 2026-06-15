@@ -1,52 +1,58 @@
 ---
 source: asset-managers/daiwa-asset-management
-source_hash: 963f90e051afa149
+source_hash: b876b776aa78b1e7
 lang: en
 status: machine
 fidelity: ok
 title: "Daiwa Asset Management"
-translated_at: 2026-05-31T15:29:03.858Z
+translated_at: 2026-06-15T03:48:21.861Z
 ---
+
 # Daiwa Asset Management
 
 ## Wiki route
 
-This entry sits in the JapanFG route specified by the source file. Main source-context links: [[asset-managers/INDEX|asset-managers INDEX]] [[asset-managers/asset-management-one|Asset Management One]] [[securities/INDEX|securities index]] [[securities-firms/daiwa-sg|Daiwa Securities Group]] registration No. 352 1 registration No. 352 [[securities-firms/daiwa-sg|Daiwa Securities Group]] 80% [[life-insurers/kampo-life|Kampo Life]] 20% 2 [[regional-banks/daiwa-next-bank|Daiwa Next Bank]] 3 [[securities-firms/daiwa-sg]] [[regional-banks/daiwa-next-bank]] [[life-insurers/kampo-life]] [[asset-managers/smd-am]] [[securities/nisa-2024-flow]]
+This entry sits under [[asset-managers/INDEX|asset-managers INDEX]] (its domain route). Read it against [[asset-managers/nomura-asset-management|野村アセットマネジメント]] for the securities-affiliated 運用会社 peer / contrast, and against [[financial-regulators/fsa|the FSA]] plus [[securities/financial-instruments-business-operators-japan-index|FSA 金商業者 index]] for the supervisory / registry boundary over 投資運用業 operators.
 
 ## TL;DR
 
-This page records the public-information boundary for Daiwa Asset Management in Japan's financial system, separating license status, group relationship, business role, peer contrast, and historical / current status. The translation adds no new facts; protected source-context links are retained in source order.
+Daiwa Asset Management Co., Ltd. is an asset manager holding **investment-management business (投資運用業)** registration under the Financial Instruments and Exchange Act, and is the asset-management arm of [[securities-firms/daiwa-sg|大和証券グループ]]. On the FSA's list of financial instruments business operators it is listed as "大和アセットマネジメント株式会社", as Director-General of the Kanto Local Finance Bureau (Kinsho) No. 第352号. It handles publicly offered investment trusts, discretionary investment, and ETF / index products, and carries the fee-based asset-management function of the Daiwa group.
 
-## License / group boundary
+## 1. License / group boundary
 
 | Item | Notes |
 |---|---|
-| Entity | Daiwa Asset Management |
-| Page role | Separates the operating company, holding company, historical entity, subsidiary, or regulatory function. |
-| Reading boundary | License, group, succession, and business-scope details follow the public sources listed in the source file. |
+| Legal name | 大和アセットマネジメント株式会社 / Daiwa Asset Management Co., Ltd. |
+| License route | **Investment-management business (投資運用業)**, **investment advisory and agency business (投資助言・代理業)**, and Type II under the Financial Instruments and Exchange Act; Director-General of the Kanto Local Finance Bureau (Kinsho) No. 第352号 |
+| Parent boundary | [[securities-firms/daiwa-sg|Daiwa Securities Group]] majority; [[life-insurers/kampo-life|Kampo Life]] minority (per public disclosure) |
+| Supervision | [[financial-regulators/fsa|FSA]] + Investment Trusts Association, Japan / Japan Investment Advisers Association |
+| Wiki role | Daiwa Securities Group-affiliated 運用会社 anchor |
 
-## Business role
+## 2. Operating model
 
-- Explains the entity's main business, institutional position, or historical function in Japan's financial system.
-- Keeps banking, securities, insurance, asset management, payments, crypto-assets, leasing, research / consulting, and regulatory-supervision boundaries separate.
-- For mergers, renamings, integrations, transfers, or historical bodies, avoids treating an old name as a current standalone entity.
+As an investment-management operator, it handles (1) **investment-trust management (投資信託委託)** of publicly offered investment trusts (structuring and management), (2) **discretionary investment (投資一任)** (institutional-investor and pension discretionary mandates), (3) investment advisory, and (4) ETF / index products. Distribution is anchored on Daiwa Securities' broker sales channel, and it also connects to peripheral asset-management businesses such as its capital relationship with Japan Post Insurance and Global X Japan. It is an **asset-management fee pillar** separated from the securities group's brokerage / IB. Supervision is a two-layer structure of the FSA + self-regulatory organizations. It collides directly with the similarly securities-affiliated [[asset-managers/nomura-asset-management|野村アセット]].
 
-## Peer / contrast
+## 3. Why this page matters
 
-- Read together with the related pages and peer clusters represented in the source file.
-- Keep group-strategy pages, operating-company pages, subsidiary pages, historical-entity pages, and regulatory pages distinct.
-- For transactions, reorganizations, regulatory changes, or business-boundary issues, preserve the transition explanation and public-source basis.
-
-## Related context
-
-This entry should be read with [[securities-firms/daiwa-sg|Daiwa Securities Group]], [[asset-managers/asset-management-one|Asset Management One]], and [[securities/INDEX|securities index]] for the asset-management license boundary, shareholder context, and broader securities-market infrastructure.
-
-
+- It carves out the **ETF / index / discretionary mandate as an asset manager** that is hard to see when viewing Daiwa Securities Group through brokerage / IB alone.
+- It tracks the NISA investment-trust / ETF market, the capital relationship with Japan Post Insurance, and the securities sales channel separately.
+- It provides a starting point for comparison with securities-affiliated peers ([[asset-managers/nomura-asset-management|野村アセット]] / [[asset-managers/nikko-asset-management|日興→Amova]]).
 
 ## Related
 
-- Related entries are represented by the protected source-context links above.
+- [[asset-managers/INDEX|asset-managers INDEX]]
+- [[securities-firms/daiwa-sg|大和証券グループ]]
+- [[regional-banks/daiwa-next-bank|大和ネクスト銀行]]
+- [[life-insurers/kampo-life|かんぽ生命]]
+- [[asset-managers/nomura-asset-management|野村アセット]]
+- [[securities/nisa-2024-flow|NISA 2024 flow]]
+- [[INDEX|FinWiki index]]
 
 ## Sources
 
-- FSA, industry-association, company-site, IR, public-disclosure, Wikipedia, or other public sources listed in the source file.
+- FSA, "金融商品取引業者登録一覧", `kinyushohin.xlsx`.
+- Daiwa Asset Management, "会社概要".
+- Daiwa Asset Management, "会社情報".
+
+> [!info] Verification status
+> confidence: likely. The legal name, registration number, and Daiwa Securities Group affiliation are public information. The capital structure (Daiwa SG majority + Kampo Life minority) is a **shape** based on public disclosure. Specific AUM / number of funds are not recorded.

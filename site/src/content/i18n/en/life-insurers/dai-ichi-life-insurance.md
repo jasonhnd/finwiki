@@ -1,50 +1,56 @@
 ---
 source: life-insurers/dai-ichi-life-insurance
-source_hash: 2b46d0c61183fa58
+source_hash: 4a3015572ce8962e
 lang: en
 status: machine
 fidelity: ok
-title: "Dai-ichi Life Insurance"
-translated_at: 2026-05-31T15:29:03.856Z
+title: "第一生命保険"
+translated_at: 2026-06-15T03:48:21.869Z
 ---
-# Dai-ichi Life Insurance
+
+# 第一生命保険
 
 ## Wiki route
 
-This entry sits in the JapanFG route specified by the source file. Source-order context: [[life-insurers/INDEX|life-insurers INDEX]] [[life-insurers/dai-ichi-frontier-life|Dai-ichi Frontier Life]] [[insurance/INDEX|insurance index]] [[life-insurers/dai-ichi-life]] [[insurance/global-solvency-framework-comparison-matrix]] 1 [[life-insurers/dai-ichi-life]] 2 [[life-insurers/dai-ichi-life]] [[insurance/INDEX|insurance index]] [[life-insurers/dai-ichi-frontier-life]] [[life-insurers/dai-ichi-neo-life]] [[life-insurers/dai-ichi-life]] [[life-insurers/dai-ichi-frontier-life]] [[life-insurers/dai-ichi-neo-life]] [[insurance/life-insurance-channel-mix]] 2026-04-13 2026-04-13
+This entry sits under [[life-insurers/INDEX|life-insurers INDEX]] (its domain route). It is the licensed operating company beneath the listed holding page [[life-insurers/dai-ichi-life|第一ライフグループ / 旧第一生命HD]]. Read it against [[life-insurers/dai-ichi-frontier-life|第一フロンティア生命]] and [[life-insurers/dai-ichi-neo-life|第一ネオ生命]] for the in-group peer / contrast, and against [[financial-regulators/fsa|the FSA]] plus [[financial-regulators/seiho-kyokai|生命保険協会]] for the supervisory / industry-body boundary. As one of the big-four domestic carriers it appears in [[insurance/japan-life-insurance-big-four|Japan life-insurance big four]].
 
 ## TL;DR
 
-This page records the public-information boundary for Dai-ichi Life Insurance in Japan's financial system, separating license status, group relationship, business role, peer contrast, and historical / current status. The translation adds no new facts; protected source tokens are retained in source order.
+The Dai-ichi Life Insurance Company, Limited holds a life-insurance company license under the Insurance Business Act and is listed on the FSA's list of life-insurance company licenses; it is the core domestic life-insurance operating company of [[life-insurers/dai-ichi-life|第一ライフグループ]] (formerly Dai-ichi Life Holdings). Even after the holding company changed its trade name to "株式会社第一ライフグループ" in 2026 年 4 月 and the group brand became "Daiichi Life", the listed holding company / group strategy page ([[life-insurers/dai-ichi-life|第一ライフグループ]]) and the licensed insurance underwriter with a sales-rep channel (this page) are treated separately. It is one corner of the domestic big four alongside Nippon Life, Sumitomo Life, and Meiji Yasuda Life.
 
-## License / group boundary
+## 1. License / group boundary
 
 | Item | Notes |
 |---|---|
-| Entity | Dai-ichi Life Insurance |
-| Page role | Separates the operating company, holding company, historical entity, subsidiary, or regulatory function. |
-| Reading boundary | License, group, succession, and business-scope details follow the public sources listed in the source file. |
+| Legal name | 第一生命保険株式会社 / The Dai-ichi Life Insurance Company, Limited |
+| License route | Life-insurance company license under the Insurance Business Act; FSA life-insurance company license list |
+| Supervisor | [[financial-regulators/fsa|金融庁 (FSA)]] |
+| Industry body | [[financial-regulators/seiho-kyokai|生命保険協会]] member |
+| Group boundary | [[life-insurers/dai-ichi-life|第一ライフグループ]] core domestic operating company |
+| Wiki role | Daiichi Life Group's domestic life-insurance underwriter (big four) |
 
-## Business role
+## 2. Operating model
 
-- Explains the entity's main business, institutional position, or historical function in Japan's financial system.
-- Keeps banking, securities, insurance, asset management, payments, crypto-assets, leasing, research / consulting, and regulatory-supervision boundaries separate.
-- For mergers, renamings, integrations, transfers, or historical bodies, avoids treating an old name as a current standalone entity.
+Dai-ichi Life Insurance is a major mutual-company-derived listed group life insurer that deploys the standard life-insurance model—premium underwriting, accumulation of policy reserves, asset management matched to long-term liabilities (ALM), and benefit payments—centered on a nationwide **sales-rep channel**. It provides flagship products such as death protection, medical/cancer protection, and annuities primarily through face-to-face sales, and within the group it divides channels with [[life-insurers/dai-ichi-frontier-life|第一フロンティア生命]], specialized in over-the-counter bank sales, and [[life-insurers/dai-ichi-neo-life|第一ネオ生命]], specialized in agency / specific channels. For the structural difference between mutual-company and stock-company types see [[insurance/mutual-vs-stock-life-insurer|mutual vs stock life insurer]]; for asset-liability management see [[insurance/japan-life-insurance-alm-overview|Japan life-insurance ALM overview]].
 
-## Peer / contrast
+## 3. Why this page matters
 
-- Read together with the related pages and peer clusters represented in the source file.
-- Keep group-strategy pages, operating-company pages, subsidiary pages, historical-entity pages, and regulatory pages distinct.
-- For transactions, reorganizations, regulatory changes, or business-boundary issues, preserve the transition explanation and public-source basis.
-
-## Source-order continuation
-
-
+- It separates the listed holding company [[life-insurers/dai-ichi-life|第一ライフグループ]] (capital policy / group strategy) from the **licensed insurance underwriter** equivalent to a bank license (this page, at the insurance-business level).
+- It establishes the exact-name operating-company anchor on the FSA's list of life-insurance company licenses.
+- It provides a comparison baseline for the in-group channel division of [[life-insurers/dai-ichi-frontier-life|第一フロンティア生命]] / [[life-insurers/dai-ichi-neo-life|第一ネオ生命]].
 
 ## Related
 
-- Related entries are represented by the protected source tokens above.
+- [[life-insurers/INDEX|life-insurers INDEX]]
+- [[life-insurers/dai-ichi-life|第一ライフグループ]]
+- [[life-insurers/dai-ichi-frontier-life|第一フロンティア生命保険]]
+- [[life-insurers/dai-ichi-neo-life|第一ネオ生命保険]]
+- [[financial-regulators/fsa|FSA]]
+- [[insurance/japan-life-insurance-big-four|Japan life-insurance big four]]
+- [[INDEX|FinWiki index]]
 
 ## Sources
 
-- FSA, industry-association, company-site, IR, public-disclosure, Wikipedia, or other public sources listed in the source file.
+- FSA: 生命保険会社免許一覧 (life-insurance company license list).
+- Life Insurance Association of Japan (生命保険協会): member-company list.
+- 第一生命保険 official company profile (Daiichi Life Group core domestic underwriter; 2026-04 group rebrand to 第一ライフグループ / "Daiichi Life").

@@ -1,50 +1,58 @@
 ---
 source: card-issuers/pocket-card
-source_hash: a5414dba971a3aa8
+source_hash: 8c1c677e9aa454f3
 lang: zh
 status: machine
 fidelity: ok
-title: "Pocket Card（ポケットカード）"
-translated_at: 2026-06-01T00:41:50.434Z
+title: "口袋卡 (Pocket Card)"
+translated_at: 2026-06-15T03:48:21.812Z
 ---
-# Pocket Card（ポケットカード）
 
+# 口袋卡 (Pocket Card)
 
-## Wiki route
+## Wiki 路径
 
-本条目位于 [[card-issuers/INDEX|card-issuers INDEX]] 之下。可与 [[card-issuers/epos-card|エポスカード (EPOS Card)]] 对照阅读同业 / 对比语境，并与 [[payments/INDEX|payments index]] 一起理解更广泛的制度 / 监管边界。
+本条目位于 [[card-issuers/INDEX|card-issuers INDEX]]（其领域路径）之下。可对照 [[card-issuers/epos-card|エポスカード]] 与 [[card-issuers/credit-saison|クレディセゾン]] 了解非megabank联名卡的同业 / 对比，并对照 [[financial-regulators/fsa|the FSA]] 与 [[payments/INDEX|payments]] 了解监管 / 系统边界。规范该 acquiring 业务的法令是 [[card-issuers/installment-sales-act-2020-amendment|割賦販売法 2020 改正]]。
 
 ## TL;DR
 
-Pocket Card 是 retail / co-brand credit-card 领域的重要 operator。它带有 P-one / FamilyMart / 旧流通系卡片的语境，是理解不同于银行系、EC 系、通信系卡片的联名卡策略的页面。
+ポケットカード株式会社是以 P-one 卡及联名 (co-brand) 卡为轴心的独立系 credit-card issuer。公开信息显示其股东构成以伊藤忠商事・FamilyMart 为核心（伊藤忠集团系），具有流通・便利店联名卡的语境。发卡・分期作为割賦販売法上的 **包括信用購入あっせん** 进行，本页用于解读区别于银行系・EC系・通信系卡的联名卡战略。
 
-## 1. 法人 / 牌照边界
+## 1. License / group boundary
 
-| Item | Reading |
+| Item | Notes |
 |---|---|
-| Legal entity | ポケットカード株式会社 |
-| Main lanes | 信用卡发行、联名卡、消费信贷 |
-| Comparable pages | [[card-issuers/credit-saison|Credit Saison]], [[payment-firms/famima-digital-one|Famima Digital One]], [[card-issuers/jcb|JCB]] |
-| Regulatory route | METI Installment Sales Act lists and official company profile. |
+| Legal entity | ポケットカード株式会社 / Pocket Card Co., Ltd. |
+| Ownership | 以伊藤忠商事・FamilyMart 为核心的股东构成（伊藤忠集团系；持股以公开披露为准） |
+| Card / credit lane | 割賦販売法上の包括信用購入あっせん（P-one／提携カード割賦・分割払い／リボ） |
+| Cash-advance lane | カードのキャッシング枠は貸金業法の枠組み |
+| Supervision | 金融庁（贷金）＋ 经济产业省（割賦販売法），自主规制为 [[card-issuers/installment-sales-act-2020-amendment|日本クレジット協会]] |
+| Wiki role | non-megabank co-brand / 提携カード issuer anchor |
 
-## 2. Business role
+## 2. Business model
 
-- 联名卡把零售关系转化为循环信用和支付数据。
-- 该公司是非巨型银行系卡片竞争的有用案例。
-- 在绘制零售支付联盟和积分经济学时，其边界很重要。
+口袋卡以 retail / 便利店联名作为入会・使用渠道，通过联名 (co-brand) 卡将 retail relationship 转化为 revolving credit 与 payment data。分期内容包括一次付清・分期付款 (分割払い)・循环 (リボルビング)。与 [[payment-firms/famima-digital-one|Famima Digital One]] 的码支付一道形成 FamilyMart／伊藤忠系的 payment 接点，成为解读非 megabank 卡竞争的 good case。在 mapping retail payment alliance 与 loyalty 经济时，其 boundary 会起作用。
 
-## 3. 为何需要独立页面
+## 3. Why this page matters
 
-如果 wiki 只跟踪金融控股公司，这家公司很容易被漏掉。它是有自身公开资料、且零售卡策略独特的实名发卡机构。
+- 若只追踪金融控股公司容易遗漏，但口袋卡是拥有独立公开公司概要的 named card issuer，具备联名卡战略这一独特的 retail-card moat。
+- 确定母公司（以伊藤忠商事・FamilyMart 为核心），将其作为有别于 megabank 系・流通系（[[card-issuers/aeon-financial-service|AEON]]・[[card-issuers/epos-card|エポス]]）的另一系统——伊藤忠／FamilyMart 系 payment alliance 的 anchor。
+- 将其定位为包括信用購入あっせん（割賦販売法）的登记制业务。
 
-## Related
+## 关联
 
-- [[card-issuers/credit-saison]]
-- [[payment-firms/famima-digital-one]]
-- [[payments/cashless-jp-landscape]]
-- [[loyalty/japan-points-landscape]]
+- [[card-issuers/epos-card|エポスカード]]
+- [[card-issuers/credit-saison|クレディセゾン]]
+- [[payment-firms/famima-digital-one|Famima Digital One]]
+- [[card-issuers/installment-sales-act-2020-amendment|割賦販売法 2020 改正]]
+- [[card-issuers/INDEX|card-issuers INDEX]]
+- [[INDEX|FinWiki index]]
 
-## Sources
+## 来源
 
-- Pocket Card company profile: https://www.pocketcard.co.jp/ir/profile/profile_031.html
-- METI registered operators under the Installment Sales Act: https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html
+- Pocket Card company profile.
+- METI: registered operators under the Installment Sales Act (包括信用購入あっせん).
+- 日本クレジット協会 (Japan Consumer Credit Association): industry self-regulation reference.
+
+> [!info] 校核状态
+> confidence: likely。口袋卡为 P-one／联名卡的独立系 issuer，且股东构成以伊藤忠商事・FamilyMart 为核心（伊藤忠集团系），此点基于公开信息・公开报道。准确持股比例（公开披露中报道为由伊藤忠商事・FamilyMart・三井住友银行构成）会随时点变动，故本页不对比例下定论，仅记载构成主体。2025 年时点亦有关于对 FamilyMart 系卡引入第三方出资的报道，ownership 今后可能变化 — spot-check 对象。

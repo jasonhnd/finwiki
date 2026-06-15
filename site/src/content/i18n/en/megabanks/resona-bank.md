@@ -1,52 +1,55 @@
 ---
 source: megabanks/resona-bank
-source_hash: cbb6f1953787d9b0
+source_hash: 865fdc43debe0d35
 lang: en
 status: machine
 fidelity: ok
-title: "Resona Bank"
-translated_at: 2026-06-01T00:41:50.436Z
+title: "Resona Bank (りそな銀行)"
+translated_at: 2026-06-15T03:48:21.912Z
 ---
-# Resona Bank
 
+# Resona Bank (りそな銀行)
 
 ## Wiki route
 
-This entry sits under [[megabanks/INDEX|megabanks INDEX]]. Read it against [[megabanks/saitama-resona-bank|埼玉りそな銀行 (Saitama Resona Bank)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
+This entry sits under [[megabanks/INDEX|megabanks INDEX]] (its domain route). Read it against [[megabanks/saitama-resona-bank|埼玉りそな銀行 (Saitama Resona Bank)]] for peer / contrast (its separately licensed Saitama-market sibling), and against [[financial-regulators/fsa|the FSA]] for the supervisory / regulatory boundary. The group / parent view lives on [[megabanks/resona-hd|りそな HD]].
 
 ## TL;DR
 
-Resona Bank is the core banking legal entity of [[megabanks/resona-hd|りそな HD]]. It is a regional and trust-adjacent bank franchise often read as a "No. 4  mega-class" bank outside the megabank 3 行, and appears on the FSA bank license list as Resona Bank, Limited.
+Resona Bank, Limited (りそな銀行) is the core banking entity of [[megabanks/resona-hd|りそな HD]]. It is a regional / trust-combining bank franchise distinct from the mega 3 行, and on the FSA bank license list it is listed as "Resona Bank, Limited" (株式会社りそな銀行) (city bank), with bank code 0010.
 
-## 1. Legal entity / license boundary
+## 1. License / group boundary
 
-| Item | Reading |
+| Item | Notes |
 |---|---|
-| Legal name | Resona Bank, Limited |
+| Legal name | Resona Bank, Limited (株式会社りそな銀行) |
 | English name | Resona Bank, Limited |
-| FSA category | City banks / other |
-| Parent boundary | [[megabanks/resona-hd|りそな HD]] 100% bank operating company |
-| Distinctive point | City-bank model with trust and pension-related functions in addition to commercial banking functions |
+| License route | Bank license under the Banking Act (city bank); FSA bank license list |
+| Bank code | 0010 |
+| Parent boundary | Bank operating company under [[megabanks/resona-hd|りそな HD]] |
+| Distinctive point | A city-bank-type model that combines trust and pension-related functions in addition to commercial-banking functions |
 
-## 2. Business role
+## 2. Operating model
 
-- The largest bank entity in the Resona Group, handling retail / SME / corporate banking centered on Osaka and Tokyo.
-- The center of the group banking network alongside [[megabanks/saitama-resona-bank|埼玉りそな銀行]], [[regional-banks/kansai-mirai-bank|関西みらい銀行]], and [[regional-banks/minato-bank|みなと銀行]].
-- It has less overseas investment-banking color than the megabank 3 行, while being strong in domestic retail / SME / trust-adjacent services.
+- Centered on Osaka and Tokyo, it handles retail / SME / corporate banking and domestic settlement / foreign exchange, and is the largest banking entity in the Resona group.
+- Through its trust-combining license, it handles trust and pension-related services within a single bank in addition to the commercial-banking license for deposits, loans, and settlement — in contrast to the mega 3 行 (which separate trust into a distinct legal entity).
+- Within the group it is a core bank alongside the separately licensed [[megabanks/saitama-resona-bank|埼玉りそな銀行]]. Its overseas investment-banking character is not strong, and it is weighted toward domestic retail / SME / trust-adjacent services.
 
 ## 3. Why standalone page matters
 
-Analysis of the listed holding company Resona HD alone makes it hard to track Resona Bank's standalone banking license, branch count, trust-business integration, and division of roles with regional banks inside the group. Separating it as a bank operating company makes it possible to distinguish the Kansai / Tokyo metropolitan retail franchise from Resona group strategy.
+Analysis of [[megabanks/resona-hd|りそな HD]]'s listed holding company alone makes it hard to track Resona Bank's own bank license, branch network, trust-combining function, and division of roles with regional banks inside the group. Separating it as a banking operating company makes it possible to distinguish the Kansai / metropolitan-area retail franchise from the Resona group strategy. For the regional-bank consolidation curve, see [[banking/regional-bank-consolidation-pattern|地域銀行統合パターン]].
 
 ## Related
 
+- [[megabanks/INDEX|megabanks INDEX]]
 - [[megabanks/resona-hd]]
 - [[megabanks/saitama-resona-bank]]
 - [[banking/regional-bank-consolidation-pattern]]
 - [[banking/post-megabank-positioning]]
+- [[INDEX|FinWiki index]]
 
 ## Sources
 
-- FSA, "銀行免許一覧", `ginkou.xlsx`.
+- FSA, "銀行免許一覧", `ginkou.xlsx` (city bank; Resona Bank, Limited; bank code 0010).
 - Resona Bank, "会社概要".
 - Resona Holdings, "グループ会社".

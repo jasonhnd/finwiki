@@ -1,104 +1,104 @@
 ---
 source: payment-firms/bittrade
-source_hash: 9fecb8e890e512c2
+source_hash: 3f2dc25e0e444a28
 lang: zh
 status: machine
 fidelity: ok
-title: "比特币交易"
-translated_at: 2026-05-31T11:13:44.942Z
+title: "BitTrade (ビットトレード)"
+translated_at: 2026-06-15T03:48:21.820Z
 ---
 
-# 比特币交易
+# BitTrade (ビットトレード)
 
-## 维基路线
+## Wiki 路径
 
-该条目位于 [[payment-firms/INDEX|payment-firms INDEX]] 下。针对同行/对比背景阅读 [[securities-firms/monex-group|マネックスグループ (Monex Group)]]，针对更广泛的系统/监管边界阅读 [[banking/INDEX|banking index]]。
+本条目位于 [[payment-firms/INDEX|payment-firms INDEX]] 之下。可对照 [[securities-firms/monex-group|マネックスグループ (Monex Group)]] 了解同业 / 对比语境，并对照 [[banking/INDEX|banking index]] 了解更广的系统 / 监管边界。
 
-## 长篇大论；博士
+## TL;DR
 
-日本中型加密资产交易公司。 **原火币日本从2022-08 **更名为“BitTrade”，造成与全球火币主体（与孙宇晨有关）分离的印象。 **关东地方财政局第 00007 号**注册，JVCEA 1 级会员。它处理日本数量最多的货币之一（从 2024  起为 30+ 货币），并采用长尾策略。以下为 bitFlyer / Coincheck / GMO Coin / SBI VC Trade 的中型仓位。 ^[extracted]
+日本国内加密资产交易业者的中坚梯队。**原 Huobi Japan 于 2022-08 再次改名为「BitTrade」**，打出与全球 Huobi 本体（与 Justin Sun 相关）相分离的印象。**关东财务局长 第 00007 号**登记，JVCEA 第一种会员。可交易币种数量为国内最多之列（截至 2024 为 30+ 种），采取长尾战略。位居 bitFlyer / Coincheck / GMO Coin / SBI VC Trade 之后的中坚位置。^[extracted]
 
-## 1。公司简介
+## 1. 公司概要
 
-**正式名称**：BitTrade Co., Ltd.^[extracted]
-**原名**：Huobi Japan Co., Ltd. → 更名为2022-08 BitTrade ^[extracted]
-**业务类型**：加密资产兑换业务^[extracted]
-**登记**：关东地方财政局第 00007 号 ^[extracted]
-**行业组织**：JVCEA（日本加密资产交易协会）1级会员^[extracted]
-**主要股东（基于官方公司简介）**：SINOHOPE SG PTE。有限公司/ 中鸿科技控股有限公司（港交所：01611，原火币科技/新火科技） / 东海东京金融控股 / FPG 有限公司 背景：前 BitTrade（独立） → 被2018 火币集团收购 → 归入中鸿（香港上市），继承火币家族 → 更名为“BitTrade”
+**正式名**：株式会社ビットトレード（BitTrade Co., Ltd.）^[extracted]
+**旧称**：株式会社フォビジャパン（Huobi Japan Co., Ltd.）→ 2022-08 再次改名为 BitTrade ^[extracted]
+**业态**：加密资产交易业 ^[extracted]
+**登记**：关东财务局长 第 00007 号 ^[extracted]
+**行业团体**：JVCEA（日本加密资产交易业协会）第一种会员 ^[extracted]
+**主要股东（以官方公司概要为准）**：SINOHOPE SG PTE. LTD. / Sinohope Technology Holdings Limited（HKEX: 01611、旧 Huobi Technology / 新火科技）/ 东海东京金融控股 / 株式会社 FPG。沿革：原 BitTrade（独立系）→ 2018 Huobi 集团收购 → 转入继承 Huobi 系的 Sinohope（香港上市）旗下 → 以「BitTrade」重新品牌化
 
-### 历史（公共信息库）^[extracted]
+### 沿革（以公开信息为准）^[extracted]
 
-|年和月|现象|
+| 年月 | 事件 |
 |---|---|
-|2016 |成立于原BitTrade系统（独立加密资产交易所）|
-|2017 |资金结算法修订实施→加密资产交易业务登记制度启动|
-|2018 |被火币集团收购→更名为“**火币日本”|
-|2019～|火币日本国内现货交易业务（扩大支持币种）|
-|**2022-08**|**火币日本 → 更名为 BitTrade**。造成与全球火币主要单位分离的印象（据称与孙宇晨有关）|
-|2023～|继续以“BitTrade”品牌处理货币的长尾策略|
-|2024 |处理货币数量：30+（日本最多）|
+| 2016 | 以原 BitTrade 体制创业（独立系加密资产交易所）|
+| 2017 | 修订后的资金结算法施行 → 加密资产交易业 登记制启动 |
+| 2018 | Huobi 集团收购 → 改名为「**Huobi Japan / フォビジャパン**」|
+| 2019〜 | 以 Huobi Japan 运营国内 spot 交易（扩充可交易币种）|
+| **2022-08** | **Huobi Japan → 再次改名为 BitTrade**。打出与全球 Huobi 本体（据报道与 Justin Sun 相关）相分离的印象 |
+| 2023〜 | 以「BitTrade」品牌延续可交易币种长尾战略 |
+| 2024 | 可交易币种数 30+（国内最多之列）|
 
-> 管理权变更：火币全球所有权围绕2022 年发生变化，与日本子公司更名为“BitTrade”同时发生。目前的主要股东已在公司官方简介中披露，其中包括香港上市公司中望科技控股（香港交易所代码：01611，原火币科技）和Tokai Tokyo FH/FPG。
+> 经营权变动：2022 年前后 Huobi 全球侧的所有者变动，与日本法人「BitTrade」再次改名在时间上重合。现任主要股东已在官方公司概要中披露，香港上市的 Sinohope Technology Holdings（HKEX: 01611、旧 Huobi Technology）系及东海东京 FH・FPG 名列其中。
 
-## 2。业务板块图
+## 2. 业务分部图
 
-|部分|内容|特征|
+| 分部 | 内容 | 特征 |
 |---|---|---|
-|国内现货交易|加密资产现货买卖（类型 1 / JVCEA 类型 1）|就中型老虎机数量和处理的货币数量而言，是日本最大的之一|
-|处理的货币|30+ 货币（截至 2024 ）|BTC / ETH / 主要山寨币+长尾，包括国内处理的稀有股票|
-|加密资产借贷|存款→赠与等额利息|国内经销商提供的配套服务|
-|对于企业|OTC/公司账户等|作为中层职位的差异化领域|
-|衍生品|日本限定|衍生品主要有bitFlyer/GMO等。|
+| 国内 spot 交易 | 加密资产现货买卖（Type 1 / JVCEA 第一种）| 中坚梯队・可交易币种数为国内最多之列 |
+| 可交易币种 | 30+ 种（截至 2024 ）| BTC / ETH / 主要山寨 + 含国内罕见品种的长尾 |
+| 加密资产借贷 | 存入 → 给付相当于利息 | 国内交易业者开展的附随服务 |
+| 法人向 | OTC / 法人账户等 | 作为中坚梯队的差异化领域 |
+| 衍生品 | 国内有限 | 衍生品以 [[payment-firms/bitflyer|bitFlyer]] / GMO 等为主轴 |
 
 ### 定位
 
-- **长尾货币策略**：通过30+货币的“股票数量”进行区分，包括大公司不处理的替代货币^[extracted]
-- 从全球（火币起源）传统品牌重塑为“**日本独立**”形象 (2022-08)^[extracted]
+- **可交易币种长尾战略**：以含大手不经营山寨在内的 30+ 种，以「币种数」实现差异化 ^[extracted]
+- 从全球系（Huobi 起源）遗产向「**日本独立系**」形象的重新品牌化（2022-08）^[extracted]
 
-### 冲突地图
+### 竞争图谱
 
-|类别|主要参与者|
+| 类别 | 主要参与者 |
 |---|---|
-|主要地点|bitFlyer / Coincheck（Monex 旗下）/GMO Coin / SBI VC Trade|
-|职业生涯中期位置|**BitTrade** / DMM 比特币（旧）/bitbank / LINE Xenesis（旧）等。|
-|银行系统|通过 [[megabanks/mufg]] Progmat 移动稳定币 / [[megabanks/smfg]] 等|
-|主要海外国内法人|Binance Japan（原樱花交易所比特币收购）等|
+| 大手 spot | bitFlyer / Coincheck（Monex 旗下）/ GMO Coin / SBI VC Trade |
+| 中坚 spot | **BitTrade** / DMM Bitcoin（原）/ bitbank / LINE Xenesis（原）等 |
+| 银行系 | [[megabanks/mufg]] 经由 Progmat 的稳定币 / [[megabanks/smfg]] 等动向 |
+| 海外大手的国内法人 | Binance Japan（原 Sakura Exchange BitCoin 收购）等 |
 
-### 策略主题
+### 战略主题
 
-- **品牌重塑后树立独立形象**：与火币全球站的距离（与孙宇晨有关）
-- **维持处理币种数量**：长尾策略考验上币流量的体力
-- **加强 JVCEA/金融服务机构监管下的合规**：旅行规则/反洗钱/客户资产的单独管理
+- **再次品牌化后确立独立形象**：与 Huobi 全球（与 Justin Sun 相关）拉开距离
+- **维持可交易币种数**：长尾战略是审查・上币流程的体力比拼
+- **JVCEA / 金融厅监督下的 compliance 强化**：旅行规则 / AML / 客户资产分别管理
 
-## 4。法规/政策
+## 4. 监管・政策
 
-- **监督**：金融厅/关东地方财政局（注册：第 00007 号）^[extracted]
-- **基本法**：修订后的资金结算法（加密资产交易业务）
-- **行业组织**：**JVCEA**（日本加密资产交易协会）1级会员，自律
-- **关键合规领域**：
-- **客户资产单独管理**（信托/冷钱包）
-- 符合**旅行规则**
-- **AML/CFT**（交易时验证/可疑交易通知）
-- 上市股票筛选（JVCEA Green List/个人筛选）
-- **当前政策问题**：
-- 2024~ 兼容稳定币系统（修改资金结算法）
-- 与海外未注册交易者关系警告（**BitTrade 是注册交易者**，不是警告的对象）^[extracted]
+- **主管**：金融厅 / 关东财务局（登记：第 00007 号）^[extracted]
+- **依据法**：修订后的资金结算法（加密资产交易业）
+- **行业团体**：**JVCEA**（日本加密资产交易业协会）第一种会员，自主规制
+- **主要 compliance 领域**：
+  - 客户资产的 **分别管理**（信托・冷钱包）
+  - **旅行规则**对应
+  - **AML / CFT**（交易时核实・可疑交易申报）
+  - 上币审查（JVCEA 绿名单/个别审查）
+- **近期政策论点**：
+  - 2024〜 稳定币制度（资金结算法修订）下的处理对应
+  - 与海外无登记业者警告的关系（**BitTrade 为登记业者**，并非警告对象方）^[extracted]
 
-＃＃ 有关的
+## 关联
 
 - [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[megabanks/sbi-hd]]
 - [[payment-firms/bitflyer]] · [[exchanges/jp-exchange-coincheck|coincheck]] · [[payment-firms/gmo-coin]] · [[exchanges/jp-exchange-sbi-vc-trade|sbi-vc-trade]]
 
 ## 来源
 
-- **维基百科：BitTrade / Huobi Japan**（2026-05-19 摘录）
-- **金融厅** 加密资产交易所业务登记清单（关东地方财政局第 00007 号）
-- **JVCEA**（日本加密资产交易协会）成员名单/出版物材料
-- **BitTrade官方公司简介**（大股东SINOHOPE SG PTE. LTD./Sinohope Technology Holdings/Tokai Tokyo FH/FPG，注册号，机构2016-09，资本1 億円）：https://www.bittrade.co.jp/ja-jp/profile/
-- **中望科技控股**（香港交易所代码：01611，原火币科技/新火科技，BitTrade母公司）：https://www.sinohope.com/en/company
+- **Wikipedia: ビットトレード / Huobi Japan**（2026-05-19 抽出）
+- **金融庁** 暗号資産交換業者登録一覧（関東財務局長 第 00007 号）
+- **JVCEA**（日本暗号資産取引業協会）会員名簿・公表資料
+- **BitTrade 公式 会社概要**（主要株主 SINOHOPE SG PTE. LTD. / Sinohope Technology Holdings / 東海東京 FH / FPG、登録番号、設立 2016-09、資本金 1 億円）：https://www.bittrade.co.jp/ja-jp/profile/
+- **Sinohope Technology Holdings**（HKEX: 01611、旧 Huobi Technology / 新火科技、BitTrade 親会社）：https://www.sinohope.com/en/company
 
 ---
 
-> [!info] 学校核心状况
-> 信心：**可能**（基于公开信息）。更名变更（2022-08 Huobi Japan→BitTrade）、注册号（第 00007 号）、JVCEA会员资格可从公开信息中确认。主要股东（中望科技控股[原火币科技]、Tokai Tokyo FH、FPG）已在官方公司简介中披露。所处理的货币数量 (30+) 和“日本最大​​的货币之一”的表述基于截至 2024  的行业比较。
+> [!info] 校核状态
+> confidence: **likely**（以公开信息为准）。再次改名（2022-08 Huobi Japan → BitTrade）・登记号（第 00007 号）・JVCEA 加盟可经公开信息确认。主要股东（Sinohope Technology Holdings〔旧 Huobi Technology〕系・东海东京 FH・FPG）已在官方公司概要中披露。可交易币种数（30+）与「国内最多之列」的表述以 2024 时点的行业比较为准。

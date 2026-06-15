@@ -1,13 +1,14 @@
 ---
 source: card-issuers/paypay-card
-source_hash: 87e513fbfc316c1d
+source_hash: 068d22ea83d16bf9
 lang: en
 status: machine
 fidelity: ok
-title: "PayPay Card"
-translated_at: 2026-06-01T00:41:50.464Z
+title: "PayPayカード (PayPay Card)"
+translated_at: 2026-06-15T03:48:21.931Z
 ---
-# PayPay Card
+
+# PayPayカード (PayPay Card)
 
 
 ## Wiki route
@@ -16,13 +17,13 @@ This entry sits under [[card-issuers/INDEX|card-issuers INDEX]]. Read it with [[
 
 ## TL;DR
 
-PayPay Card is the credit card / PayPay Credit operator of [[megabanks/paypay-fg|PayPay金融グループ]]. Because it embeds a credit line into the PayPay wallet payment experience, the wallet and card issuer need to be managed separately.
+PayPay Card is the credit card / PayPay Credit operator of [[megabanks/paypay-fg|PayPay金融グループ]]. Because it plays the role of embedding a credit line into the PayPay wallet payment experience, the wallet and the card issuer must be managed separately.
 
-## 1. Entity / license boundary
+## 1. Corporate / license boundary
 
 | Item | Reading |
 |---|---|
-| Legal entity | PayPay Card Corporation |
+| Legal entity | PayPayカード株式会社 |
 | Group | [[megabanks/paypay-fg|PayPay FG]] / SoftBank-LY payment ecosystem |
 | Main lanes | PayPay Card, PayPay Card Gold, PayPay credit products, lending disclosures |
 | Regulatory route | Official company notices; METI registered-operator lists for credit-card / Installment Sales Act control. |
@@ -31,7 +32,7 @@ PayPay Card is the credit card / PayPay Credit operator of [[megabanks/paypay-fg
 
 - Adds revolving / credit-card economics to PayPay's code-payment and app distribution base.
 - Links points, app checkout, card acquiring partners, and consumer credit into one retail finance funnel; see [[payments/japan-card-issuer-acquirer-processor-split]] for the issuer / acquirer / processor map.
-- Important for comparing PayPay with Rakuten, au PAY, d払い, and traditional card issuers — scheme economics live at [[payments/japan-payment-scheme-economics-matrix]].
+- Important for comparing PayPay with its closest ecosystem-finance peer [[card-issuers/rakuten-card|楽天カード]], plus au PAY, d払い, and traditional card issuers — scheme economics live at [[payments/japan-payment-scheme-economics-matrix]].
 
 ## 3. Why this standalone page matters
 

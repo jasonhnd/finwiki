@@ -1,186 +1,186 @@
 ---
 source: fintech/regulatory-reset-2025-usa-crypto-policy
-source_hash: 0c87686c3ffba23f
+source_hash: bc6a0b3e5c2f8961
 lang: zh
 status: machine
 fidelity: ok
-title: ""
-translated_at: 2026-05-31T11:13:44.935Z
+title: "美国 2025 加密监管重置 · 特朗普时代政策转向"
+translated_at: 2026-06-15T03:48:21.894Z
 ---
 
-＃ 我们2025 加密货币监管重置·特朗普时代的政策支点
+# 美国 2025 加密监管重置 · 特朗普时代政策转向
 
-##TL;博士
+## TL;DR
 
-**一月之间2025 和 Q 的结尾1 2026**，美国联邦对加密货币的态度在大约十二个月内在**七个独立的表面**发生了逆转：（1) SEC 会计公告 **SAB121 已被 SAB 撤销**122 （一月23 2025），消除了使银行不受监管的资产负债表内负债； （2) 行政命令14178 （一月23 2025）撤销了拜登时代的行政命令14067 并在新成立的**白宫人工智能和加密货币沙皇（大卫·萨克斯）**的领导下成立了**数字资产市场总统工作组**； （3) 环氧乙烷14233 （行进6 2025）利用没收的资产建立了**战略比特币储备**和**美国数字资产库存**； （4) **Paul Atkins** 被确认为 SEC 主席（4 月2025）和 **Hester Peirce** 获得了机构授权，担任 **加密货币工作组** 主席； （5) **SEC 针对 Coinbase、Kraken、Robinhood、Uniswap Labs、Consensys 的执法行动**，以及 Ripple 上诉在 2 月至 4 月期间被撤销、暂停或和解2025; （6）银行监管机构（OCC、FDIC、美联储）联合**废除了2023 反加密货币指南**实施了业界所说的**“阻塞点行动”2.0“**; 和 （7) **GENIUS Act 支付稳定币法规于 7 月签署18 2025**，与**清晰法案市场结构法案**同步推进。此次重置同时是**法定+行政+强制执行**——这是自该资产类别存在以来美国最深刻的加密货币政策转向。
+在 **2025 年 1 月至 2026年第 1 季度末** 之间，美国联邦对加密的姿态在约十二个月内于 **七个独立层面** 发生逆转：(1) SEC 会计公告 **SAB 121 被 SAB 122 废止**（23 年 2025月），消除了使银行远离托管业务的资产负债表内负债；(2) 第 14178 号行政命令（EO，23 年 2025月）撤销了拜登时代的 EO 14067 ，并在新设的 **白宫 AI 与加密事务沙皇（David Sacks）** 之下设立了 **总统数字资产市场工作组**；(3) EO 14233 （6 年 2025月）以没收资产设立了 **战略比特币储备** 与 **美国数字资产储备库**；(4) **Paul Atkins** 获确认为 SEC 主席（2025年 4 月），且 **Hester Peirce** 获得作为 **加密工作组** 主席的机构性授权；(5) 针对 Coinbase、Kraken、Robinhood、Uniswap Labs、Consensys 的 **SEC 执法行动** 以及 Ripple 上诉案在 2025年 2 月至 4 月被撤销、暂停或和解；(6) 银行监管机构（OCC、FDIC、联邦储备）共同 **废止了 2023 年的反加密指引**，该指引曾将业界所称的 **「Operation Choke Point 2.0」（扼喉行动）** 付诸实施；以及 (7) **GENIUS 法案支付稳定币法规于 2025年 18 月签署**，**CLARITY 法案市场结构法案** 同步推进。该次重置是 **立法 + 行政 + 执法** 同时进行 — 是自该资产类别存在以来美国最深刻的加密政策转向。
 
-## 维基路线
+## Wiki route
 
-该条目位于[[fintech/INDEX|fintech index]]作为**锚页面2025 美国重置**。阅读它与[[fintech/genius-act-501-denylist-mandate|GENIUS Act §501]]对于法定骨干网来说，[[fintech/cftc-sec-crypto-jurisdiction|CFTC vs SEC jurisdiction]]对于强制回滚机制，以及[[fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage|OCC trust-bank charter]]重置重新打开了联邦银行业的通道。全局比较请参见[[fintech/global-stablecoin-regulatory-five-pole-matrix|five-pole regulatory matrix]]和[[fintech/mica-overview|EU MiCA]]。有关支点的人方案例研究，请参阅[[business/hester-peirce-sec-regulatory-pivot-case|Hester Peirce pivot case]]和[[business/larry-fink-blackrock-digital-asset-template|Larry Fink BlackRock template]]。
+本条目位于 [[fintech/INDEX|fintech index]] 之下，作为 **2025 年美国重置的锚点页面**。请与 [[fintech/genius-act-501-denylist-mandate|GENIUS Act §501]] 一并阅读以了解立法骨干，与 [[fintech/cftc-sec-crypto-jurisdiction|CFTC vs SEC jurisdiction]] 一并阅读以了解执法回退机制，并与 [[fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage|OCC trust-bank charter]] 一并阅读以了解该重置重新打开的联邦银行路径。全球比较参见 [[fintech/global-stablecoin-regulatory-five-pole-matrix|five-pole regulatory matrix]] 与 [[fintech/mica-overview|EU MiCA]]。该转向的人物侧案例研究参见 [[business/hester-peirce-sec-regulatory-pivot-case|Hester Peirce pivot case]] 与 [[business/larry-fink-blackrock-digital-asset-template|Larry Fink BlackRock template]]。
 
-## 为什么这个条目存在
+## 为什么有此条目
 
-美国一月份加密货币改革2025 和Q1 2026 **不是单一法律**。这是**三个不同政策体系的同时逆转**：(a) SEC 的2021–2024 加里·詹斯勒 (Gary Gensler) 领导下的诉讼强制执行战略； (b) 财政部/FDIC/OCC/美联储的机构间立场限制了银行加密货币托管和稳定币发行； (c) 数字资产市场缺乏任何积极的法定框架。每个堆栈单独移动，每个堆栈都有自己的法律权限，但日历从一月到七月重叠2025 导致市场条件发生单一转变。该条目将七个活动部分收集在一页上，以便分析师可以将重置视为一个系统而不是七个新闻稿。
+2025 年 1 月至 2026 年第 1 季度之间的美国加密改革 **并非单一法律**。它是 **三个不同政策栈的同时逆转**：(a) 在 Gary Gensler 之下、SEC 于 2021–2024 年的以诉讼执法策略；(b) 限制银行加密托管与稳定币发行的财政部／FDIC／OCC／联邦储备跨机构姿态；以及 (c) 数字资产市场缺乏任何正向立法框架。各栈分别推进、各凭其自身的法律权限，但从 2025 年 1 月至 7 月的日历重叠产生了市场条件上的单一转变。本条目将这七个活动部件汇集于一页，使分析者能将该重置作为一个系统来阅读，而非作为七份新闻稿。
 
-## 时间表·一月2025 通过Q1 2026
+## 时间线 · 2025 年 1 月至 2026
 
-|日期 |行动|权威|发生了什么变化|
+年第 1 季度| Date | Action | Authority | What changed |
 |---|---|---|---|
-| 2025-01-20 |特朗普就职典礼 · SEC 代理主席 Mark Uyeda|管理人员|代理主席一职有待阿特金斯确认|
-| 2025-01-21 |海丝特·皮尔斯 (Hester Peirce) 领导下的 SEC 加密货币工作组|美国证券交易委员会新闻稿|将加密货币政策从执行部门重新定位为专门工作组|
-| 2025-01-23 |**SAB122 发布、撤销SAB121**|SEC 员工会计公告|银行不再需要将托管加密货币视为资产负债表上的负债|
-| 2025-01-23 |**环氧乙烷14178** 加强美国在数字金融技术领域的领导地位|白宫|撤销行政命令14067, 创建工作组，禁止美国零售 CBDC，任命白宫人工智能和加密货币沙皇|
-| 2025-01-23 |大卫·萨克斯 (David Sacks) 被任命为白宫人工智能和加密货币沙皇|白宫|史无前例的专门白宫角色|
-| 2025-02-27 |SEC 诉 Coinbase 驳回案|美国证券交易委员会诉讼|詹斯勒时代首例重大案件被撤销|
-| 2025-03-03 |SEC 诉 Kraken 案被驳回|美国证券交易委员会诉讼|质押作为证券的理论实际上已经被抛弃|
-| 2025-03-06 |**环氧乙烷14233** 建立比特币战略储备和美国数字资产储备|白宫|财政部指示无限期持有没收的比特币；非BTC数字资产单独集合|
-| 2025-03-15 |SEC 诉 Binance.US 部分驳回|美国证券交易委员会诉讼|全行业解读：放弃诉讼执行理论|
-| 2025-03-27 |OCC 解释信1183 重申国家银行的加密货币托管和稳定币权力|OCC|删除 IL 的“无异议”预清关要求1179 （2021）|
-| 2025-04-09 |**保罗·阿特金斯**宣誓就职34SEC 主席|参议院确认|SEC 永久对加密货币友好的领导地位|
-| 2025-04 |FDIC FIL 提款系列开始|联邦存款保险公司|提款2022 实施“阻塞点”的金融机构信件2.0 |
-| 2025-04 |SEC 诉 Consensys 驳回|美国证券交易委员会诉讼|MetaMask 钱包/质押案例已被删除|
-| 2025-05 |SEC 诉 Robinhood Crypto 调查未受到指控而结束|美国证券交易委员会|威尔斯通知走回来|
-| 2025-05 |美联储撤销 SR22-6 关于加密货币活动的监管信|美联储|国家成员银行不再需要提前通知才能从事加密货币业务|
-| 2025-06 |SEC 与币安全球和解 / SEC 与 Ripple 就剩余上诉达成和解|美国证券交易委员会诉讼|遗留案件日历已基本清除|
-| 2025-07-18 |**天才法案签署成为法律**|国会+白宫|联邦支付稳定币法规，包括 §501 拒绝名单授权（[[fintech/genius-act-501-denylist-mandate|GENIUS §501]]）|
-| 2025-Q3 |多次 Wells 通知提款（Uniswap Labs、OpenSea、Yuga Labs、Crypto.com）|美国证券交易委员会执法|诉讼前调查已结束|
-| 2025-Q4 |清晰法案/市场结构法案移出众议院委员会|国会|与 GENIUS 一起进行现货市场管辖|
-| 2026-Q1 |OCC、财政部和美联储根据 GENIUS 联合制定规则|联邦公报|第一条实施细则|
+| 2025-01-20 | 特朗普就职 · 代理 SEC 主席 Mark Uyeda | 行政 | 代理主席职位待 Atkins 确认 |
+| 2025-01-21 | 在 Hester Peirce 之下宣布 SEC 加密工作组 | SEC 新闻稿 | 加密政策从执法部门重新定向至专门工作组 |
+| 2025-01-23 | **发布 SAB 122 ，废止 SAB 121** | SEC 员工会计公告 | 银行不再被要求将托管的加密确认为资产负债表上的负债 |
+| 2025-01-23 | **EO 14178** 强化美国在数字金融技术上的领导地位 | 白宫 | 撤销 EO 14067, ，设立工作组，禁止美国零售 CBDC，任命白宫 AI 与加密事务沙皇 |
+| 2025-01-23 | David Sacks 获任命为白宫 AI 与加密事务沙皇 | 白宫 | 史无前例的专门白宫职位 |
+| 2025-02-27 | 提交 SEC 诉 Coinbase 案的撤诉 | SEC 诉讼 | 首个被撤销的 Gensler 时代重大案件 |
+| 2025-03-03 | SEC 诉 Kraken 案撤诉 | SEC 诉讼 | 质押即证券的理论实际上被放弃 |
+| 2025-03-06 | **EO 14233** 设立战略比特币储备与美国数字资产储备库 | 白宫 | 指示财政部无限期持有被没收的 BTC；非 BTC 数字资产单独汇集 |
+| 2025-03-15 | SEC 诉 Binance.US 案部分撤诉 | SEC 诉讼 | 业界普遍解读：以诉讼执法的理论被放弃 |
+| 2025-03-27 | OCC 解释函 1183 重申国家银行的加密托管与稳定币权能 | OCC | 移除 IL 1179 （2021）的「无异议」预先核准要求 |
+| 2025-04-09 | **Paul Atkins** 宣誓就任第 34任 SEC 主席 | 参议院确认 | SEC 永久性的对加密友好领导层 |
+| 2025-04 | FDIC FIL 撤回系列开始 | FDIC | 撤回将扼喉行动 2.0 付诸实施的 2022 份金融机构函 |
+| 2025-04 | SEC 诉 Consensys 案撤诉 | SEC 诉讼 | MetaMask 钱包／质押案被撤销 |
+| 2025-05 | SEC 诉 Robinhood Crypto 调查无指控结案 | SEC | Wells 通知被撤回 |
+| 2025-05 | 联邦储备废止关于加密活动的 SR 22-6 监管函 | 联邦储备 | 州成员银行从事加密不再需要事先通知 |
+| 2025-06 | SEC 与 Binance 全球和解／SEC 与 Ripple 就剩余上诉和解 | SEC 诉讼 | 历史遗留案件的日程基本清空 |
+| 2025-07-18 | **GENIUS 法案签署成为法律** | 国会 + 白宫 | 联邦支付稳定币法规，含第 501 条拒绝清单（denylist）授权（[[fintech/genius-act-501-denylist-mandate|GENIUS §501]]）|
+| 2025-第 3 季度| 多份 Wells 通知撤回（Uniswap Labs、OpenSea、Yuga Labs、Crypto.com）| SEC 执法 | 诉讼前调查结案 |
+| 2025-第 4 季度| CLARITY 法案／市场结构法案走出众议院委员会 | 国会 | 与 GENIUS 配套的现货市场管辖权 |
+| 2026-第 1 季度| OCC、财政部、联邦储备在 GENIUS 下的联合规则制定发布 | 《联邦公报》| 首批实施性法规 |
 
-日历的形式很重要：每项高管和 SEC 工作人员**不需要国会**的行动都已在四月份完成2025; **法定腿**（GENIUS）于七月关闭2025; **实施规则腿**开始于2026。这是相同的阶段模式可见[[fintech/cftc-sec-crypto-jurisdiction|CFTC vs SEC jurisdiction]]并在[[fintech/global-stablecoin-regulatory-five-pole-matrix|five-pole matrix]]测序。
+日历的形态很重要：所有 **不需要国会** 的行政与 SEC 员工行动均在 2025年 4 月前完成；**立法部分**（GENIUS）在 2025年 7 月前完结；而 **实施性规则部分** 在 2026年开始。这与 [[fintech/cftc-sec-crypto-jurisdiction|CFTC vs SEC jurisdiction]] 中以及 [[fintech/global-stablecoin-regulatory-five-pole-matrix|five-pole matrix]] 的排序中所见的分阶段模式相同。
 
-＃＃ 机制1 · 南非安全局121 废除（SAB122）
+## 机制 1 · SAB 121 的废止（SAB 122）
 
-员工会计公告121, SEC 工作人员于 3 月份发布2022, 要求加密资产托管人（明确包括银行）在资产负债表上确认相当于托管资产公允价值的负债，并具有抵消资产。实际效果是，任何托管有意义的加密货币头寸的银行都将吸收巴塞尔协议 III 规定的资本费用，因为抵消头寸会吸引传统托管证券所不会的风险权重。再加上缺乏通行框架，SAB121 有效地阻止了纽约梅隆银行、道富银行和摩根大通提供任何规模的托管服务。
+SEC 员工于 2022, 年 3 月发布的员工会计公告 121, 要求加密资产的托管方 — 明确包括银行 — 确认一项 **与所托管资产公允价值相等的资产负债表负债**，并对应一项资产。其实际效果是，任何托管有意义规模加密头寸的银行都将在 Basel III 下承受资本计提，因为该对应头寸会吸引传统托管证券所不会吸引的风险权重。再加上缺乏护照通行框架，SAB 121 实际上阻止了纽约梅隆银行、道富银行及摩根大通以任何规模提供托管。
 
-**SAB122 （一月23 2025)** 撤回 SAB121 并指示实体应用现有的 **ASC450**（或有损失）和**IAS37**（规定）相反，即仅在可能且可估计的情况下确认损失，而不是默认确认总托管金额。逆转：
+**SAB 122 （2025年 23 月）** 撤回了 SAB 121 ，并指示各实体改为适用既有的 **ASC 450**（损失或有事项）与 **IAS 37**（准备金）指引 — 即仅在损失很可能且可估计时确认损失，而非默认就所托管的总额确认。该次逆转：
 
-- 取消了使 G-SIB 托管人远离加密货币的监管限制；
-- 将美国的待遇与按照国际财务报告准则运营的欧洲和亚洲同行相一致；
-- 启用产品发布，例如扩大纽约梅隆银行托管（已宣布2025-Q2）、更广泛的国家银行加密货币托管产品，以及 **OCC 监督的扩张**，下游进入[[fintech/blackrock-buidl-tokenized-mmf-overview|BlackRock BUIDL]]监护选择。
+- 移除了将 G-SIB 托管方挡在加密之外的监管闸门；
+- 使美国处理方式与在 IFRS 下运营的欧洲及亚洲同业一致；
+- 促成了若干产品推出，如扩大的 BNY Mellon 托管（于 2025-第 2季度宣布）、更广泛的州立银行加密托管供给，以及向下传导至 [[fintech/blackrock-buidl-tokenized-mmf-overview|BlackRock BUIDL]] 托管选择的 **OCC 监管下扩张**。
 
-这是重置所拉动的**单一最大杠杆**，因为它既不需要立法，也不需要制定规则——只需要修改工作人员公告。它还暴露了前政权的脆弱性：2022 员工公告是美国银行加密货币缺失五年的主导因素。
+这是该重置所拉动的 **单一最大杠杆**，因为它既不需要立法也不需要规则制定 — 仅需修订一份员工公告。它也暴露了先前体制的脆弱性：一份 2022 年的员工公告曾是美国银行五年缺席加密的主导因素。
 
-＃＃ 机制2 · 环氧乙烷14178 和主席工作组
+## 机制 2 · EO 14178 与总统工作组
 
-环氧乙烷14178 （加强美国在数字金融技术领域的领导地位，一月23 2025）做了五件事：
+EO 14178 （强化美国在数字金融技术上的领导地位，2025年 23 月）列出五项政策举措：
 
-1。 **撤销行政命令14067**（拜登，三月2022）关于“确保数字资产负责任的发展”，并撤销财政部主导的数字资产国际参与框架。
-2。 **禁止任何联邦机构发行、建立或推广零售美国 CBDC**。
-3。 **建立总统数字资产市场工作组** (PWG-DAM)，由白宫 AI 和加密货币沙皇担任主席，法定成员包括财政部、SEC、CFTC、OCC、美联储和其他几个机构。
-4。 **任务组在以下时间内提供联邦监管框架**180 日，包括稳定币政策、市场结构建议以及国家数字资产储备的评估。
-5。 **在行政办公室内明确指定人工智能和加密货币沙皇角色**，这是首次为这些问题正式设立专门的白宫办公室。
+1. **撤销 EO 14067**（拜登，2022年 3 月）关于「确保数字资产的负责任发展」，并撤销由财政部主导的数字资产国际接触框架。
+2. **禁止任何联邦机构发行、设立或推广零售型美国 CBDC**。
+3. **设立总统数字资产市场工作组**（PWG-DAM），由白宫 AI 与加密事务沙皇主持，法定成员遍及财政部、SEC、CFTC、OCC、联邦储备及若干其他机构。
+4. **责成工作组在 180 天内交付一套联邦监管框架**，包括稳定币政策、市场结构建议以及对国家数字资产储备的评估。
+5. **在 EO 内部明确命名 AI 与加密事务沙皇这一职位**，这是首次为这些议题正式设立专门的白宫办公室。
 
-CBDC 禁令在管辖范围上很狭窄——它约束行政分支机构，但不约束作为独立机构的美联储——但在操作上，美联储已表示在现任政府领导下不会寻求零售 CBDC。国外CBDC路径对比分析参见[[fintech/cbdc-multi-tier-architecture-overview|CBDC multi-tier overview]]。
+CBDC 禁令在管辖上是狭窄的 — 它约束行政部门机构，但不约束作为独立机构的联邦储备 — 但在运作上，联邦储备已表明在本届政府之下不会推进零售型 CBDC。关于海外 CBDC 路径的比较分析参见 [[fintech/cbdc-multi-tier-architecture-overview|CBDC multi-tier overview]]。
 
-＃＃ 机制3 · 大卫·萨克斯 (David Sacks) 担任白宫人工智能和加密货币沙皇
+## 机制 3 · David Sacks 作为白宫 AI 与加密事务沙皇
 
-沙皇角色在结构上很新颖：
+沙皇这一职位在结构上是新颖的：
 
-- **直接向总统报告**，不通过财政部、SEC 或 NEC。
-- **担任 PWG-DAM** 主席，赋予白宫先前由财政部国内金融办公室负责的协调权力。
-- **没有直接的规则制定权** - 所有具有约束力的规则仍然通过 SEC、CFTC、OCC、财政部、FinCEN 或美联储 - 但 **控制政策议程**、机构间叙述和人员管道。
-- **不是参议院确认的立场**，这意味着连续性受总统任期的约束。
+- **直接向总统汇报**，而非经由财政部、SEC 或 NEC。
+- **主持 PWG-DAM**，赋予白宫一项此前位于财政部国内金融办公室的协调权限。
+- **没有直接的规则制定权** — 所有具约束力的规则仍须经由 SEC、CFTC、OCC、财政部、FinCEN 或联邦储备 — 但 **掌控政策议程**、跨机构叙事以及人事流转。
+- **并非需参议院确认的职位**，意味着其延续性与总统任期绑定。
 
-沙皇模式类似于国家网络总监的现有职位（创建2021）以及现已解散的总统气候特使。其长期意义在于，**数字资产政策现在是白宫级别的协调职能**，这是从财政部下属机构的类别转变（2017–2024）或单一机构 SEC 关注的问题（2021–2024）。
+沙皇模式类似于既有的国家网络主任职位（设立于 2021年）以及现已废止的总统气候特使。其更长期的意义在于 **数字资产政策如今是一项白宫层级的协调职能**，这相较于作为财政部子办公室（2017–2024年）或单一机构 SEC 关切（2021–2024年）是一种类别上的改变。
 
-＃＃ 机制4 · 比特币战略储备（EO14233）
+## 机制 4 · 战略比特币储备（EO 14233）
 
-环氧乙烷14233 （行进6 2025) 做了三件事：
+EO 14233 （2025年 6 月）列出三项政策举措：
 
-1。 **建立战略比特币储备（SBR）**，最初以联邦机构因刑事或民事没收而持有的比特币作为资本；财政部长被指示**维持该职位而不出售**。
-2。 **建立美国数字资产库存**，以同样被没收的非比特币数字资产为资本，并有权**谨慎管理**而不是无限期持有。
-3。 **授权财政部长和商务部长**为额外的比特币收购制定**预算中性策略**，而不会给纳税人带来增量成本。
+1. **设立战略比特币储备（SBR）**，初始以联邦机构因刑事或民事没收而持有的 BTC 注资；财政部长被指示 **维持该头寸而不出售**。
+2. **设立美国数字资产储备库**，以同样被没收的非 BTC 数字资产注资，并 **授以审慎管理而非无限期持有的职责**。
+3. **授权财政部长与商务部长** 制定不对纳税人施加增量成本的、用于额外取得 BTC 的 **预算中性策略**。
 
-有两个设计选择值得注意：
+有两项设计选择值得注意：
 
-- **比特币被视为与所有其他数字资产不同的资产类别**。这是美国政府首次正式将“BTC”与“其他加密货币”分开——这一认识与 CFTC 先前将 BTC 作为商品的分类一致（参见[[fintech/cftc-sec-crypto-jurisdiction|CFTC vs SEC jurisdiction]]）。
-- **授权是持有，而不是交易**。 SBR 不是主权财富基金式的交易平台；它的姿态更接近战略石油储备——长期持有的被没收的资产被重新定义为战略库存。
+- **比特币被视为与所有其他数字资产相分离的资产类别**。这是美国政府首次将「BTC」与「其余加密」正式二分 — 这一认定与 CFTC 既有的将 BTC 归类为商品相一致（参见 [[fintech/cftc-sec-crypto-jurisdiction|CFTC vs SEC jurisdiction]]）。
+- **职责是持有，而非交易**。SBR 并非主权财富基金式的交易台；它在姿态上更接近战略石油储备 — 将被没收资产作为长期持有、重新框定为战略库存。
 
-对于比较主权配置模式，请参见[[fintech/sovereign-fund-crypto-allocation-pattern|sovereign fund crypto allocation]]和[[fintech/sovereign-capital-pool-aramco-anchor|sovereign capital pool]]。
+关于主权配置模式的比较参见 [[fintech/sovereign-fund-crypto-allocation-pattern|sovereign fund crypto allocation]] 与 [[fintech/sovereign-capital-pool-aramco-anchor|sovereign capital pool]]。
 
-＃＃ 机制5 · Paul Atkins SEC 和加密货币工作组
+## 机制 5 · Paul Atkins SEC 与加密工作组
 
-一月份宣布成立由 Hester Peirce 主持的加密货币工作组21 2025 在阿特金斯 4 月份确认之前，在代理主席 Uyeda 的领导下运作，已发布了**公开声明和工作人员指南**：
+由 Hester Peirce 主持、于 2025 年 21 月宣布、并在 Atkins 4 月获确认前于代理主席 Uyeda 之下运作的加密工作组，已就以下事项发布 **公开声明与员工指引**：
 
-- meme 币（如果没有企业，则不是传统 Howey 下的证券）；
+- meme 币（若无企业，则在传统 Howey 标准下不构成证券）；
 - 工作量证明挖矿奖励（非证券）；
-- 验证者的协议质押（本身不是证券发行）；
-- 根据§规定为代币发行者计划制定“安全港规则制定”3(b) 《证券法》；
-- 审查适用于 DeFi 前端的“交易所”、“交易商”和“经纪人”定义；
-- 与以下内容一致的代币化证券（现实世界资产）的前瞻性框架[[fintech/blackrock-buidl-tokenized-mmf-overview|BUIDL]]和[[fintech/apollo-acred-private-credit-tokenization|Apollo ACRED]]。
+- 验证者的协议质押（本身不构成证券发行）；
+- 一项计划中的、依《证券法》第 3(b) 条进行的面向代币发行方的「安全港规则制定」；
+- 对适用于 DeFi 前端的「交易所」「交易商」与「经纪商」定义的审查；
+- 一套与 [[fintech/blackrock-buidl-tokenized-mmf-overview|BUIDL]] 及 [[fintech/apollo-acred-private-credit-tokenization|Apollo ACRED]] 相一致的、面向代币化证券（真实世界资产）的前瞻性框架。
 
-有关该工作组的排序方式的人员分析，请参阅[[business/hester-peirce-sec-regulatory-pivot-case|Hester Peirce pivot case]]以及与的对比[[business/jamie-dimon-anti-crypto-pivot-case|Jamie Dimon anti-crypto pivot]]镜盒。
+关于该工作组如何排序的人物侧分析参见 [[business/hester-peirce-sec-regulatory-pivot-case|Hester Peirce pivot case]]，以及与 [[business/jamie-dimon-anti-crypto-pivot-case|Jamie Dimon anti-crypto pivot]] 镜像案例的对照。
 
-＃＃ 机制6 · 执行回滚和操作瓶颈2.0
+## 机制 6 · 执法回退与扼喉行动 2.0
 
-“阻塞点行动2.0“是该行业的标签2022–2024 OCC、FDIC 和美联储的指导、监管信函和非正式压力使得银行在操作上难以向加密公司提供银行服务或接受加密公司存款。回滚包括：
+「Operation Choke Point 2.0」是业界对 2022–2024 年那种模式的标签，在该模式下 OCC、FDIC 与联邦储备的指引、监管函及非正式压力，使银行在为加密企业提供银行服务或接受加密企业存款方面在运作上变得困难。该回退包括：
 
-- **OCC 解释信1183** （行进27 2025) 重申 IL1170/1172/1174 国家银行的加密货币托管、稳定币储备和节点运营商权力——并明确删除 IL1179 （2021) 要求主管提前书面表示不反对。国家银行现在可以参与加密货币活动**作为商业判断的问题**，而不是每次参与的监管批准。
-- **FDIC 提款**2022–2024 金融机构函件（FIL）实际上要求国家特许的受保机构对任何加密活动必须获得事先批准。
-- **美联储废除 SR**22-6 以及一月份的联合机构间声明2023 （“关于银行组织加密资产风险的联合声明”）和二月2023 （“关于加密资产市场漏洞导致的流动性风险的联合声明”）。
-- **SEC 执法案件清理**：时间表中列出的解雇，以及针对 Robinhood Crypto、Uniswap Labs、OpenSea、Yuga Labs 等公司的调查悄然结束。
+- **OCC 解释函 1183**（27 年 2025月）重申 IL 1170/1172/1174 关于国家银行的加密托管、稳定币储备及节点运营方权能 — 并明确移除 IL 1179 （2021）关于事先取得监管方书面无异议的要求。国家银行如今可 **作为商业判断事项** 从事加密活动，而非逐项接受监管核准。
+- **FDIC 撤回** 2022–2024 份金融机构函（FIL），这些函曾实际上要求州立受保机构就任何加密活动取得事先批准。
+- **联邦储备废止** SR 22-6 以及 2023 年 1 月（「关于加密资产对银行组织风险的联合声明」）与 2023 年 2 月（「关于加密资产市场脆弱性所致流动性风险的联合声明」）的跨机构联合声明。
+- **SEC 执法案件清空**：时间线中所列的撤诉，外加对 Robinhood Crypto、Uniswap Labs、OpenSea、Yuga Labs 等调查的悄然结案。
 
-总体效应——从周围新的银行活动中可见一斑[[fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage|OCC trust-bank charter]]Bridge、Circle、Paxos 和其他公司的申请——是**联邦银行途径在结构上首次开放**2021。
+其总体效果 — 在围绕 Bridge、Circle、Paxos 等的 [[fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage|OCC trust-bank charter]] 申请所见的银行业活动复苏中可见 — 是 **联邦银行路径** 自 2021年以来首次在结构上被打开。
 
-＃＃ 机制7 · 法定腿（天才+清晰）
+## 机制 7 · 立法部分（GENIUS + CLARITY）
 
-此次重置的行政和执法部门需要一个**法定的后盾**，以承受未来任何行政变化的影响。 **天才法案**（7 月签署）18 2025）提供了支付稳定币切片的支持，以及 **澄清法案**（众议院通过2025-Q4, 参议院路径不确定）旨在提供平行的市场结构框架。
+该重置的行政与执法部分需要一个 **立法兜底**，以延续超越未来任何政府更迭。**GENIUS 法案**（于 2025年 18 月签署）为支付稳定币这一切片提供了该兜底，而 **CLARITY 法案**（众议院通过于 2025-第 4, 季度，参议院路径不确定）旨在提供配套的市场结构框架。
 
-天才法案：
+GENIUS 法案：
 
-- 创建由 OCC、美联储或州监管机构在双轨基础上许可的**联邦支付稳定币发行人类别**；
-- 授权**100%现金储备、受保存款机构的活期存款，≤93当日国库券或国库券支持的逆回购**；
-- 实行**每月证明、隔离保管和 T+1 通过赎回**；
-- 禁止**算法稳定币**和**提供零售服务的计息稳定币**；
-- 包括 **§501 拒绝名单机构** 通过 OFAC 路由以获取受制裁的地址（请参阅[[fintech/genius-act-501-denylist-mandate|GENIUS §501]]和独立实现条目[[fintech/genius-act-501-actual-implementation|§501 actual implementation]]）。
+- 设立一个由 OCC、联邦储备或州监管机构以双轨方式发牌的 **联邦支付稳定币发行方类别**；
+- 强制要求 **以现金、受保存款机构的活期存款、≤93天国库券或以国债担保的逆回购作为 100% 储备**；
+- 施加 **每月鉴证、隔离托管及 T+1 平价赎回**；
+- 禁止 **算法稳定币** 与 **向零售提供的计息稳定币**；
+- 包含 **第 501 条拒绝清单授权**，针对受制裁地址经由 OFAC 路由（参见 [[fintech/genius-act-501-denylist-mandate|GENIUS §501]] 及独立的实施条目 [[fintech/genius-act-501-actual-implementation|§501 actual implementation]]）。
 
-《清晰法案》（正式名称为“金融创新与技术”）21世纪法案，FIT21 继任者）将：
+CLARITY 法案（正式名称为《21世纪金融创新与技术法案》，即 FIT21 的继任法案）将：
 
-- 定义**数字商品**和**投资合约资产**类别；
-- 赋予 **CFTC 对数字商品现货市场的主要权力**；
-- 保留 **SEC 对投资合同资产的权威**，但具有更清晰的功能性去中心化出口；
-- 创建可供代币发行者使用的**去中心化路径**测试；和
-- 正式确定与皮尔斯协议一致的**安全港期**2020 提议。
+- 界定 **数字商品** 与 **投资合同资产** 类别；
+- 赋予 **CFTC 对数字商品现货市场的主要权限**；
+- 保留 **SEC 对投资合同资产的权限**，但带有一条更清晰的功能性去中心化退出通道；
+- 设立一项供代币发行方使用的 **去中心化路径** 检验；以及
+- 将与 Peirce 2020 年提案相一致的 **安全港期间** 正式化。
 
-有关欧盟同等内容的比较阅读，请参阅[[fintech/mica-overview|MiCA overview]]和[[fintech/mica-cross-border-implications|MiCA cross-border]]，对于更广泛的矩阵，请参见[[fintech/global-stablecoin-regulatory-five-pole-matrix|five-pole matrix]]。
+关于欧盟对应物的比较阅读参见 [[fintech/mica-overview|MiCA overview]] 与 [[fintech/mica-cross-border-implications|MiCA cross-border]]，更广泛的矩阵参见 [[fintech/global-stablecoin-regulatory-five-pole-matrix|five-pole matrix]]。
 
 ## 市场影响
 
-11 月期间市场反应**提前2024 和三月2025** 当日历可见时：
+随着日历变得可见，市场反应 **在 2024 年 11 月至 2025年 3 月之间前置**：
 
-|表面|预重置基线|复位后状态|
+| Surface | Pre-reset baseline | Post-reset state |
 |---|---|---|
-|银行加密货币托管（美国）|仅限于少数国家特许信托银行（安克雷奇、托管银行）|国民银行（纽约梅隆银行、道富银行、摩根大通）重新进入或扩张|
-|现货比特币ETF流入|稳定，以 IBIT 和 FBTC 为主|加速； SBR 实际上是价格下限信号|
-|Coinbase、Robinhood、Galaxy 上市股票|以压缩倍数交易反映执行风险|重新评级更高（参见[[business/brian-armstrong-coinbase-public-company-template|Coinbase public-company template]]）|
-|稳定币发行方格局|Tether 占主导地位，USDC 其次，美国发行人的监管模糊|清晰的联邦道路为[[fintech/paypal-pyusd-stablecoin|PYUSD]]、Circle USDC、Paxos USDG 以及新的银行发行代币|
-|RWA / 代币化资产|SAT 前的利基122 由于监护摩擦|积极构建[[fintech/blackrock-buidl-tokenized-mmf-overview|BlackRock BUIDL]]和同行发行人|
-|联邦CBDC|理论（汉密尔顿计划）|明确禁止（EO14178）|
-|威尔斯通知未完成|高的|大部分已清空或悄然关闭|
+| 银行加密托管（美国）| 局限于少数州立信托银行（Anchorage、Custodia）| 国家银行（BNY Mellon、State Street、JPMorgan）重新进入或扩张 |
+| 现货比特币 ETF 流入 | 稳定，由 IBIT 与 FBTC 主导 | 加速；SBR 实际上是一个价格底部信号 |
+| Coinbase、Robinhood、Galaxy 上市股票 | 以反映执法风险的压缩倍数交易 | 估值上调（参见 [[business/brian-armstrong-coinbase-public-company-template|Coinbase public-company template]]）|
+| 稳定币发行方格局 | Tether 主导，USDC 居次，美国发行方存在监管模糊 | 为 [[fintech/paypal-pyusd-stablecoin|PYUSD]]、Circle USDC、Paxos USDG 及新的银行发行代币打开清晰的联邦路径 |
+| RWA／代币化资产 | 因托管摩擦在 SAB 122 前属利基 | 由 [[fintech/blackrock-buidl-tokenized-mmf-overview|BlackRock BUIDL]] 及同业发行方积极建设 |
+| 联邦 CBDC | 理论层面（Project Hamilton）| 被明确禁止（EO 14178）|
+| 未决 Wells 通知 | 高 | 大多已清空或悄然结案 |
 
-**网络中立的机构定位**的更广泛的战略投资者模式（可见于[[fintech/wall-street-crypto-network-neutrality|Wall Street network neutrality]]）加速，正如**立法前战略收购模式**（可见于[[fintech/regulatory-window-strategic-acquisition|regulatory window M&A]]— Stripe/Bridge 交易是典型案例）。
+更广泛的 **网络中立机构定位** 的战略投资者模式（在 [[fintech/wall-street-crypto-network-neutrality|Wall Street network neutrality]] 中可见）加速，**立法前战略收购模式**（在 [[fintech/regulatory-window-strategic-acquisition|regulatory window M&A]] 中可见 — 以 Stripe／Bridge 交易为典型案例）亦然。
 
-## 比较·美国2025 对比欧盟 MiCA 对比英国 FCA
+## 比较 · 美国 2025  对 欧盟 MiCA 对 英国 FCA
 
-|方面|我们2025 重置|欧盟云母|英国FCA的做法|
+| Dimension | 美国 2025  重置 | 欧盟 MiCA | 英国 FCA 路径 |
 |---|---|---|---|
-|车辆|EO + SEC 员工公告 + GENIUS Act + CLARITY Act|单一法规（欧盟2023/1114）|食品安全管理局2023 + 二次调节|
-|枢轴速度| 12 月| 4-年起草+18月过渡|推出缓慢2024–2027 |
-|法定锚|GENIUS（稳定币）+ CLARITY（市场结构）|MiCA 涵盖了两者|部门性的，没有单一的法规|
-|银行托管|通过 SAB 重新开放122 + OCC 伊利诺伊州1183 |始终根据 CRD V 允许|获得 FCA 注册许可|
-|CBDC姿态|禁止零售 CBDC|设计中的数字欧元|数字英镑咨询|
-|加密货币沙皇/协调员|白宫沙皇（萨克斯）|金融服务专员 + ESMA + EBA|财政部+FCA+英格兰银行|
+| 载体 | EO + SEC 员工公告 + GENIUS 法案 + CLARITY 法案 | 单一法规（EU 2023/1114）| FSMA 2023 + 次级法规 |
+| 转向速度 | 12 个月 | 4年起草 + 18个月过渡 | 缓慢推出 2024–2027 |
+| 立法锚 | GENIUS（稳定币）+ CLARITY（市场结构）| MiCA 两者兼涵 | 分部门，无单一法规 |
+| 银行托管 | 经由 SAB 122 + OCC IL 1183 重新打开 | 在 CRD V 下一直允许 | 经 FCA 注册后允许 |
+| CBDC 姿态 | 零售型 CBDC 被禁止 | 数字欧元设计中 | 数字英镑征询中 |
+| 加密沙皇／协调者 | 白宫沙皇（Sacks）| 金融服务委员 + ESMA + EBA | 财政部 + FCA + 英格兰银行 |
 
-对于全球矩阵的其余部分以及日本、香港和新加坡，请参见[[fintech/global-stablecoin-regulatory-five-pole-matrix|five-pole matrix]]和区域指数。
+关于全球矩阵的其余部分以及日本、香港与新加坡，参见 [[fintech/global-stablecoin-regulatory-five-pole-matrix|five-pole matrix]] 及各地区索引。
 
-## 为什么重置在结构上与之前的枢轴不同
+## 为什么该重置在结构上不同于先前的转向
 
-这2017–2018 ICO 时代的执法和2021–2024 Gensler 的执法都是**同一个机构内部的起诉姿态**。这2025 重置是美国第一次同时移动**执行官（EO和沙皇）、行政（SEC、OCC、FDIC、美联储）、立法（GENIUS + CLARITY）和会计（SAB）122)** 杠杆以相同方向相同12-月窗口。协调的深度本身就是一个信号，表明重置意味着**改变政权而不是周期性**。
+2017–2018 年的 ICO 时代执法与 2021–2024 年的 Gensler 执法都是 **单一机构内部的检控姿态**。2025 年的重置是美国首次在同一 12个月窗口内、同时向同一方向推动 **行政（EO 与沙皇）、行政管理（SEC、OCC、FDIC、联邦储备）、立法（GENIUS + CLARITY）以及会计（SAB 122）** 杠杆。协调之深本身就是一个信号，表明该重置意在 **改变体制，而非周期性的**。
 
-一个有用的单页对比：[[business/larry-fink-blackrock-digital-asset-template|Larry Fink template]]“建立在美国法律确定性之上”只有在**所有四个杠杆**都移动后才可行，这就是贝莱德的原因[[fintech/blackrock-buidl-tokenized-mmf-overview|BUIDL]]产品、现货 BTC ETF 的主导地位以及代币化资产的推动都在同一时期加速18 几个月。
+一个有用的单页对照：「在美国法律确定性之上构建」的 [[business/larry-fink-blackrock-digital-asset-template|Larry Fink template]] 只有在 **四个杠杆全部** 移动后才可行，这正是 BlackRock 的 [[fintech/blackrock-buidl-tokenized-mmf-overview|BUIDL]] 产品、其现货 BTC ETF 主导地位及其代币化资产推进全部在同一 18 个月内加速的原因。
 
-＃＃ 有关的
+## Related
 
 - [[fintech/INDEX|fintech index]]
 - [[fintech/genius-act-501-denylist-mandate|GENIUS Act §501 denylist]]
@@ -199,15 +199,15 @@ CBDC 禁令在管辖范围上很狭窄——它约束行政分支机构，但不
 - [[business/brian-armstrong-coinbase-public-company-template|Brian Armstrong Coinbase template]]
 - [[exchanges/us-crypto-licensing-multi-layer-system|US crypto licensing multi-layer]]
 
-## 来源
+## Sources
 
-- 白宫总统行动档案：https://www.whitehouse.gov/presidential-actions/
-- 美国证券交易委员会新闻稿2025：https://www.sec.gov/news/press-release/
-- SAB122 （废除SAB121)：SEC 总会计师办公室，1 月23 2025
-- SEC 加密工作组：https://www.sec.gov/securities-topics/crypto-assets
-- OCC 解释信1183：https://occ.treas.gov/topics/charters-and-licensing/interpretations-and-actions/
-- 财政部数字资产政策：https://home.treasury.gov/policy-issues/financial-markets-financial-institutions-and-fiscal-service/digital-assets
-- 美联储新闻稿：https://www.federalreserve.gov/newsevents/pressreleases.htm
-- 联邦公报备案：https://www.federalregister.gov/
-- GENIUS 法案法定文本（7 月颁布的公法2025）
-- FDIC FIL提款系列2025
+- White House Presidential Actions archive: https://www.whitehouse.gov/presidential-actions/
+- SEC press releases 2025: https://www.sec.gov/news/press-release/
+- SAB 122 (rescinding SAB 121): SEC Office of the Chief Accountant, January 23 2025
+- SEC Crypto Task Force: https://www.sec.gov/securities-topics/crypto-assets
+- OCC Interpretive Letter 1183: https://occ.treas.gov/topics/charters-and-licensing/interpretations-and-actions/
+- Treasury Digital Assets policy: https://home.treasury.gov/policy-issues/financial-markets-financial-institutions-and-fiscal-service/digital-assets
+- Federal Reserve press releases: https://www.federalreserve.gov/newsevents/pressreleases.htm
+- Federal Register filings: https://www.federalregister.gov/
+- GENIUS Act statutory text (Public Law as enacted July 2025)
+- FDIC FIL withdrawal series 2025

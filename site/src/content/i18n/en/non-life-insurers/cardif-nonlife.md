@@ -1,13 +1,14 @@
 ---
 source: non-life-insurers/cardif-nonlife
-source_hash: b0737a58c150f879
+source_hash: d3f43ccfe8bf6ca3
 lang: en
 status: machine
 fidelity: ok
-title: ""
-translated_at: 2026-05-31T11:13:44.858Z
+title: "Cardif Non-Life Japan / カーディフ損害保険"
+translated_at: 2026-06-15T03:48:21.870Z
 ---
-﻿# Cardif Non-Life Japan / Cardif Non-Life Insurance
+
+# Cardif Non-Life Japan / カーディフ損害保険
 
 Wiki route: [[non-life-insurers/INDEX]] -> [[insurance/INDEX]] -> [[non-life-insurers/cardif-nonlife]]
 
@@ -17,7 +18,7 @@ Cardif Non-Life Japan is the BNP Paribas Cardif non-life insurance entity in Jap
 
 ## Entity Boundary
 
-This page covers Cardif Non-Life Insurance Co., Ltd. Keep it separate from [[life-insurers/cardif-life]] and from [[foreign-financial-institutions/bnp-paribas-japan]], while linking all three where the public group boundary is relevant.
+This page covers カーディフ損害保険株式会社. Keep it separate from [[life-insurers/cardif-life]] and from [[foreign-financial-institutions/bnp-paribas-japan]], while linking all three where the public group boundary is relevant.
 
 ## Business Role Map
 
@@ -30,7 +31,7 @@ This page covers Cardif Non-Life Insurance Co., Ltd. Keep it separate from [[lif
 
 ## Public Context
 
-Cardif Non-Life is important because it shows the non-life side of foreign bancassurance in Japan, especially products sold through financial-institution partners rather than general agency networks.
+Cardif Non-Life is important because it shows the non-life side of foreign bancassurance in Japan, especially products sold through financial-institution partners rather than general agency networks. Within the specialty / protection non-life cluster it sits alongside accident-and-fire specialists such as [[non-life-insurers/ji-accident-fire-insurance|ジェイアイ傷害火災保険]] rather than the direct-auto carriers.
 
 ## Research Checklist
 

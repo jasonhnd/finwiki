@@ -1,11 +1,11 @@
 ---
 source: payments/prepaid-payment-instrument-issuers-japan-index
-source_hash: a841889493016b76
+source_hash: 4d443bc782307451
 lang: en
 status: machine
 fidelity: ok
 title: "Japan third-party prepaid payment instrument issuers registry index"
-translated_at: 2026-06-01T03:31:12.325Z
+translated_at: 2026-06-15T03:48:21.915Z
 ---
 
 # Japan third-party prepaid payment instrument issuers registry index

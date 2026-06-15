@@ -1,11 +1,11 @@
 ---
 source: policy-finance/nexi
-source_hash: 30260e0cccdc9c95
+source_hash: 2f2cf25f4742ad54
 lang: en
 status: machine
 fidelity: ok
 title: "NEXI (Nippon Export and Investment Insurance)"
-translated_at: 2026-06-01T03:31:12.286Z
+translated_at: 2026-06-15T03:48:21.941Z
 ---
 
 # NEXI (Nippon Export and Investment Insurance)

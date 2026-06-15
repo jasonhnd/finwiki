@@ -1,31 +1,31 @@
 ---
 source: insurance/saison-automobile-fire
-source_hash: 344ef5cf595edb01
+source_hash: d619eee34b8c1746
 lang: en
 status: machine
 fidelity: ok
 title: "Saison Automobile & Fire / SOMPO Direct"
-translated_at: 2026-05-31T07:28:06.129Z
+translated_at: 2026-06-15T03:48:21.818Z
 ---
 
 # Saison Automobile & Fire / SOMPO Direct
 
 ## Wiki route
 
-This entry sits under [[insurance/INDEX|insurance index]]. Read it against [[insurance/natcat-reinsurance-japan|Nat-cat reinsurance in Japan]] for peer / contrast context and [[insurance/INDEX|insurance INDEX]] for the broader system / regulatory boundary.
+This entry sits under [[insurance/INDEX|insurance index]]. The canonical entity anchor for this insurer is [[non-life-insurers/saison-automobile-fire-insurance|its non-life-insurers entity page]]; this insurance-domain page is the direct non-life / auto-insurance view of that same entity. Read it against [[insurance/natcat-reinsurance-japan|Nat-cat reinsurance in Japan]] for peer / contrast context and [[insurance/INDEX|insurance INDEX]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
-Saison Automobile & Fire is the historical name of the direct non-life insurer now operating as SOMPO Direct General Insurance. The official company history says it changed name to Saison Automobile & Fire Insurance Co., Ltd. in 1998  and to SOMPO Direct General Insurance Inc. in October 2024.
+Saison Automobile & Fire is the historical name of the direct non-life insurer now operating as SOMPO Direct General Insurance. The official company history says it changed name to セゾン自動車火災保険株式会社 in 1998 and to ＳＯＭＰＯダイレクト損害保険株式会社 in October 2024.
 
-This page should be read as the direct non-life / auto-insurance case inside the [[non-life-insurers/sompo|SOMPO]] cluster. The original P3  inbound link came from [[megabanks/sony-fg]] because Sony FG's non-life business is also a direct-insurance comparison case, but the entity itself belongs in the SOMPO route.
+This page should be read as the direct non-life / auto-insurance case inside the [[non-life-insurers/sompo|SOMPO]] cluster. The original P3 inbound link came from [[megabanks/sony-fg]] because Sony FG's non-life business is also a direct-insurance comparison case, but the entity itself belongs in the SOMPO route.
 
 ## Company Identity
 
 | Item | Current reading |
 |---|---|
-| Current name | SOMPO Direct General Insurance Inc. |
-| Former name | Saison Automobile & Fire Insurance Co., Ltd. |
+| Current name | ＳＯＭＰＯダイレクト損害保険株式会社 |
+| Former name | セゾン自動車火災保険株式会社 |
 | Group route | [[non-life-insurers/sompo]] |
 | Product lane | Direct auto insurance and direct non-life products |
 | Comparison lane | [[megabanks/sony-fg]] for Sony Assurance / Sony non-life direct model |
@@ -59,7 +59,7 @@ That makes it a bridge between [[insurance/life-insurance-channel-mix|channel mi
 
 ## Sources
 
-- SOMPO Direct: Company history.
-- SOMPO Direct: Company overview.
+- SOMPO Direct: 会社沿革.
+- SOMPO Direct: 会社概要.
 - SOMPO Direct: official site.
 - SOMPO Direct: disclosure page.

@@ -1,12 +1,11 @@
 ---
 source: business/aeon-financial-service-retail-bank-case
-source_hash: 9c29460abf52259b
+source_hash: a263aebef5d75b7f
 lang: en
-model: claude-opus-4-8
 status: machine
 fidelity: ok
 title: "Aeon Financial Service retail-bank case — a supermarket group's full financial holding: Aeon Bank + Aeon credit card + pan-Asia consumer finance"
-translated_at: 2026-06-05T00:00:00.000Z
+translated_at: 2026-06-15T03:48:21.812Z
 ---
 
 # Aeon Financial Service retail-bank case — a supermarket group's full financial holding: Aeon Bank + Aeon credit card + pan-Asia consumer finance
@@ -137,5 +136,5 @@ For **AFS as a listed FG (8570)**:
 
 ---
 
-> [!info] Verification status
+> [!info] 校核状态
 > confidence: **likely**. AFS as the Aeon Group's listed financial holding (Aeon Bank + Aeon card + consumer credit + insurance), the WAON loyalty tie-in, the broad pan-Asia consumer-finance footprint, and Aeon Bank (M) Berhad's 2024-05-26 launch as Malaysia's first digital Islamic bank are disclosed in Aeon Financial Service / Aeon Credit (Asia) public materials and credible press. Specific stakes, entity structures, and financial figures vary by market and date; forward-looking Asia-scaling and cross-cycle economics are forecast.

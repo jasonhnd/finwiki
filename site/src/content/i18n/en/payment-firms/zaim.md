@@ -1,13 +1,14 @@
 ---
 source: payment-firms/zaim
-source_hash: 7f0983ee221a0109
+source_hash: 7eba481b01f8970d
 lang: en
 status: machine
 fidelity: ok
-title: "Zaim"
-translated_at: 2026-06-01T02:31:57.173Z
+title: "Zaim (ザイム)"
+translated_at: 2026-06-15T03:48:21.885Z
 ---
-# Zaim
+
+# Zaim (ザイム)
 
 ## Wiki route
 
@@ -15,24 +16,24 @@ This entry sits under the [[payment-firms/INDEX|payment-firms INDEX]] as a **PFM
 
 ## TL;DR
 
-Zaim is one of Japan's longest-running **household-account-book apps**, publicly launched in 2011 年. Alongside [[payment-firms/money-forward|Money Forward]] ME, it helped form the consumer PFM category as part of the fintech landscape, and in 2022-04  it became a **KDDI subsidiary** and was repositioned as a data-origin asset inside the au economic zone ([[megabanks/au-fh|au フィナンシャル HD]]). Its feature set centers on receipt OCR, bank and card API connections, and searches for municipal benefit programs.
+Zaim is one of Japan's most senior-class **household-budgeting apps**, released in 2011 年. As a fintech remnant that, alongside [[payment-firms/money-forward|Money Forward]] ME, has formed the consumer-facing PFM category, it was **made a KDDI subsidiary** in 2022-04  and repositioned as a data-origin asset of the au economic sphere ([[megabanks/au-fh|au フィナンシャル HD]]). Its distinguishing feature set is receipt OCR + bank/card API linkage + municipal-benefit search.
 
-## 1. Legal-entity and license boundary
+## 1. Legal entity / license boundary
 
 | Item | Reading |
 |---|---|
-| Legal entity | Zaim Inc. |
-| Group | **KDDI 100% subsidiary** (made a wholly owned subsidiary in 2022-04 ), inside the [[megabanks/au-fh|au フィナンシャル HD]] economic zone |
-| Product | Zaim household-account-book app (iOS / Android / Web) |
+| Legal entity | 株式会社 Zaim |
+| Group | **KDDI 100% subsidiary** (wholly-owned subsidiary as of 2022-04 ), within the [[megabanks/au-fh|au フィナンシャル HD]] economic sphere |
+| Product | Zaim household-budgeting app (iOS / Android / Web) |
 
 ## 2. Business role
 
-- PFM app that visualizes household finances through receipt photography, OCR, automatic category classification, and automatic bank / card-statement linkage. ^[extracted]
-- Differentiated from [[payment-firms/money-forward|Money Forward]] ME by also having a **life-information layer** around household-finance adjacencies such as municipal benefits and public-support-service searches. ^[extracted]
+- A PFM app that visualizes household finances through receipt photography + OCR + automatic category classification + automatic linkage of bank/card statements. ^[extracted]
+- Its differentiation axis from [[payment-firms/money-forward|Money Forward]] ME is that it has a **living-information layer** extending beyond household finances, such as municipal-benefit / public-support service search. ^[extracted]
 
 ## 3. Why this standalone page matters
 
-The PFM category is often seen as dominated by [[payment-firms/money-forward|Money Forward]] ME, but Zaim followed the unusual path of **independent founding to full KDDI subsidiary**, making it a representative case of fintech assets inside a telecom-carrier economic zone and warranting its own page.
+The PFM category tends to be seen as dominated by [[payment-firms/money-forward|Money Forward]] ME alone, but Zaim followed the rare exit route of **independent founding → becoming a wholly-owned KDDI subsidiary**, and warrants a standalone page as a typical example of a fintech remnant within a telecom-carrier economic sphere.
 
 ## Related
 

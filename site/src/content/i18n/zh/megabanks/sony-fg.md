@@ -1,117 +1,117 @@
 ---
 source: megabanks/sony-fg
-source_hash: 03ca707c17d626b6
+source_hash: 660c32bc97cb4b14
 lang: zh
 status: machine
 fidelity: ok
 title: "索尼金融集团 (Sony FG)"
-translated_at: 2026-06-01T02:31:57.152Z
+translated_at: 2026-06-15T03:48:21.938Z
 ---
 
 # 索尼金融集团 (Sony FG)
 
-## Wiki route
+## Wiki 路径
 
-本条目位于 [[megabanks/INDEX|megabanks INDEX]] 之下。可与 [[life-insurers/sony-life|ソニー生命保険]] 对照阅读，以理解同业 / 对比背景；也可与 [[banking/INDEX|banking index]] 一起阅读，以理解更广义的系统和监管边界。
+本词条归属于 [[megabanks/INDEX|megabanks INDEX]]。请对照 [[life-insurers/sony-life|ソニー生命保険]] 阅读以获取同业 / 对比背景，并对照 [[banking/INDEX|banking index]] 了解更广泛的体系 / 监管边界。
 
 ## TL;DR
 
-这是一家专注于 Sony brand × 个人金融的综合金融控股公司。3  大支柱为生命保险（Sony Life，Lifeplanner 营业）、损害保险（Sony Assurance，网络汽车保险）和网络银行（Sony Bank，外币 / 住宅贷款强）。2007  上市（旧称 SFH）-> **2020-09  由母公司 Sony Group 通过 TOB 完全子公司化并退市** -> 2024-05  发表“金融业务分离 / 重新上市” -> **通过 2025-10-01 生效的 partial spin-off（日本首例），以 Sony Financial Group 身份在东证 PRIME 重新上市**（证券代码 8729，重新上市日 2025-09-29）。与 megabank 系不同，这是制造业出身 conglomerate 的金融部门独立重新上市的稀有案例。
+以索尼品牌 × 个人金融为特色的综合金融控股公司。由寿险（索尼生命、寿险规划师 Life Planner 营销）+ 财险（索尼损保、网络车险）+ 网络银行（索尼银行，外币 / 住房贷款见长）构成 3 大支柱。2007 上市（旧称 SFH）→ **经 2020-09 母公司索尼集团的 TOB 全资子公司化、退市** → 2024-05 发布「金融业务分离、再上市」→ **以 2025-10-01 生效的部分分拆（partial spin-off，日本首例）作为索尼金融集团在东证 PRIME 再上市**（证券代码 8729，再上市日 2025-09-29）。与大型银行系不同，这是制造业出身的综合企业其金融部门独立再上市的罕见案例。
 
 ## 1. 公司概要
 
-**正式名称**：Sony Financial Group Inc. ^[extracted]
+**正式名称**：ソニーフィナンシャルグループ株式会社 ^[extracted]
 **英文名**：Sony Financial Group, Inc.（旧称 Sony Financial Holdings, Inc. = SFH）
-**证券代码**：东证 PRIME **8729**（2007-10-11 上市 -> 2020-09-29 退市 -> **2025-09-29 重新上市**，基于 2025-10-01 生效的 partial spin-off）^[extracted]
-**设立**：2004-04-01（作为 Sony Financial Holdings 设立，2007-10  上市）^[extracted]
-**总部**：东京都千代田区大手町 1-9-2  Otemachi Financial City Grand Cube ^[extracted]
-**母公司**：Sony Group Corporation（2020-09 起为完全母公司，2025-10  以后计划降低持股比例并独立）^[extracted]
+**证券代码**：东证 PRIME **8729**（2007-10-11 上市 → 2020-09-29 退市 → **2025-09-29 再上市**，经 2025-10-01 生效的部分分拆）^[extracted]
+**设立**：2004-04-01（作为索尼金融控股设立，2007-10 上市）^[extracted]
+**总部**：东京都千代田区大手町 1-9-2 大手町金融城 Grand Cube ^[extracted]
+**母公司**：ソニーグループ株式会社（自 2020-09起为完全母公司，2025-10 以后持股比例下降、预定独立）^[extracted]
 
-### 主要子公司 / 集团结构（重新上市后设想）
+### 主要子公司 / 集团结构（再上市后设想）
 
 ```
-Sony Financial Group（控股公司，计划东证 PRIME 重新上市 8729）
-  ├── Sony Life Insurance（100%）-- 1981  创业（起源于与美国 Prudential 的合资），Lifeplanner 营业
-  ├── Sony Assurance（100%）-- 1998  创业，网络汽车保险大手
-  ├── Sony Bank（100%）-- 2001  开业，网络银行、外币存款、住宅贷款
-  ├── Sony Financial Ventures（100%）-- CVC / fintech 投资
-  └── Sony Life Communications 等周边公司
+索尼金融集团（控股公司、预定于东证 PRIME 再上市 8729）
+  ├── 索尼生命保险（100%）── 1981 创业（源于与美国 Prudential 的合资）、寿险规划师营销
+  ├── 索尼损害保险（100%）── 1998 创业，网络车险大手
+  ├── 索尼银行（100%）── 2001 开业，网络银行 / 外币存款 / 住房贷款
+  ├── 索尼金融创投（100%）── CVC / 金融科技投资
+  └── 索尼人寿通讯（Sony Life Communications）等周边公司
 ```
 
-### 主要股东（partial spin-off 后结构，基于披露方案）
+### 主要股东（部分分拆后的结构，基于披露方案）
 
-- **Sony Group**：partial spin-off 后，表决权降至 20% 以下（排除合并要求）— 披露方案 ^[extracted]
-- 向 Sony Group 既有股东按比例交付（现物分红方式，每 1  股 Sony Group 股票交付 1  股 Sony FG 股票）^[extracted]
-- 一般股东：重新上市后确保流动性
+- **索尼集团**：部分分拆后，将表决权降至 20% 以下（脱离并表的要件）— 披露方案 ^[extracted]
+- 向索尼集团既有股东按比例交付（实物分红方式，每 1 股索尼集团股票分配 1 股索尼 FG 股票）^[extracted]
+- 一般股东：再上市后确保流动性
 
 ### 重要年表 ^[extracted]
 
-| 年月 | 事项 |
+| 年月 | 事件 |
 |---|---|
-| 1979 | Sony Prudential Life Insurance 设立（与美国 Prudential Insurance Co. of America 合资） |
-| 1991-04 | Sony Prudential -> **Sony Life Insurance** 商号变更（Prudential 退出，Sony 单独持有） |
-| 1998-06 | **Sony Assurance** 设立（网络损保黎明期） |
-| **2001-04** | **Sony Bank** 设立（同年 6  月开业，网络银行） |
-| 2004-04 | **Sony Financial Holdings (SFH)** 设立（金融 3 社 控股公司化） |
-| **2007-10-11** | **SFH 东证 1  部上市（证券代码 8729）** |
-| 2010 | Sony Bank 进入住宅贷款并强化外币存款 |
-| 2017 | Sony Life 发布「LIPLA」，Sony Assurance 发布「安全驾驶 cash-back 型」产品 |
-| **2020-05-19** | **Sony Group 公布对 SFH 的 TOB**（金融业务完全子公司化方针） |
-| **2020-09-29** | **TOB 成立 -> 完全子公司化 -> 东证退市** |
-| **2024-05-22** | **Sony Group 在经营方针说明会上公布“金融业务 partial spin-off / 重新上市”** ★ |
-| **2025-09-29** | **以 Sony Financial Group 身份在东证 PRIME 重新上市**（证券代码 8729  复活，基于 2025-10-01 生效的日本首例 partial spin-off）★ |
+| 1979 | 索尼·普天寿生命保险 设立（与美国 Prudential Insurance Co. of America 的合资）|
+| 1991-04 | 索尼·普天寿 → 更名为 **索尼生命保险**（Prudential 撤出、索尼单独）|
+| 1998-06 | **索尼损害保险** 设立（网络财险黎明期）|
+| **2001-04** | **索尼银行** 设立（同年 6 月开业，网络银行）|
+| 2004-04 | **索尼金融控股（SFH）** 设立（金融 3 社的控股公司化）|
+| **2007-10-11** | **SFH 在东证 1 部上市（证券代码 8729）** |
+| 2010 | 索尼银行进入住房贷款、强化外币存款 |
+| 2017 | 索尼生命推出「LIPLA」，索尼损保推出「温和驾驶现金返还型」|
+| **2020-05-19** | **索尼集团宣布对 SFH 的 TOB**（金融全资子公司化方针）|
+| **2020-09-29** | **TOB 成立 → 全资子公司化 → 东证退市** |
+| **2024-05-22** | **索尼集团在经营方针说明会上发布「金融业务部分分拆、再上市」** ★ |
+| **2025-09-29** | **作为索尼金融集团在东证 PRIME 再上市**（证券代码 8729 恢复，经 2025-10-01 生效的部分分拆、日本首例）★ |
 
 ## 2. 业务分部地图
 
-| Segment | 主要运营方 | 特征 |
+| 分部 | 主要经营者 | 特点 |
 |---|---|---|
-| 生命保险 | Sony Life | 专注 **Lifeplanner（营业职员）渠道**；富裕层和定制型寿险 |
-| 损害保险 | Sony Assurance | **网络汽车保险** 国内最大级；走行距离联动型先驱 |
-| 网络银行 | Sony Bank | **外币存款 / 住宅贷款** 强；MoneyKit brand |
-| CVC / fintech | Sony Financial Ventures | 集团内 venture 投资 |
+| 寿险 | 索尼生命 | 专注 **寿险规划师（营销职员）渠道** / 高净值客户 / 定制型寿险 |
+| 财险 | 索尼损保 | **网络车险** 国内最大级、按行驶里程联动型先驱 |
+| 网络银行 | 索尼银行 | **外币存款 / 住房贷款** 见长、MoneyKit 品牌 |
+| CVC / 金融科技 | 索尼金融创投 | 集团内创投投资 |
 
 ### B2C 品牌战略
 
-- **Sony brand × 金融产品**：将制造业（电子）来源的可信度和创新性直接转用为金融产品品牌。
-- **渠道分离**：寿险为线下营业（Lifeplanner），损保和银行则线上完结 -> 按客户层和购买动机明确区分。
-- **Cross-sell**：集团内 3 社 间客户介绍和共同销售 -> 覆盖个人金融生命周期整体（保险、存款、贷款）。
+- **索尼品牌 × 金融产品**：将源自制造业（电子）的可信赖性、创新性原样转用于金融产品品牌
+- **渠道分离**：寿险走线下营销（寿险规划师），财险、银行则线上完结 → 按客户层、购买动机明确区分使用
+- **交叉销售**：在集团内 3 社之间进行客户转介、共同销售 → 覆盖个人金融全生命周期（保险、存款、贷款）
 
 ### 竞争定位
 
-- **寿险**：不同于日本生命 / 第一生命 / 明治安田等大型 mega life insurer，专注于 **Lifeplanner（full commission 制）专属渠道**，面向富裕层和咨询型销售（类似 Prudential Life 模型）。
-- **损保**：不同于东京海上日动、MS&AD、SOMPO 等 3  mega non-life group，集中于 **网络直销**（vs Sony Assurance、[[insurance/saison-automobile-fire]] 等 direct 型）。
-- **银行**：与 [[banking/rakuten-bank]] / [[regional-banks/sbi-shinsei-bank|banking/sbi-shinsei-bank]] / [[banking/au-jibun-bank]] / [[banking/minna-bank-baas-model]] 等网络银行群竞争。**外币存款 / 住宅贷款** 是差异化轴。
+- **寿险**：与日本生命 / 第一生命 / 明治安田 等大型寿险巨头不同，以 **寿险规划师（全佣金制）专属渠道** 专注高净值客户、咨询型销售（与普天寿生命类似模式）
+- **财险**：与东京海上日动、MS&AD、SOMPO 等财险 3 大巨头不同，集中于 **网络直销**（对比索尼损保、[[insurance/saison-automobile-fire]] 等的 direct 型）
+- **银行**：与 [[banking/rakuten-bank]] / [[regional-banks/sbi-shinsei-bank|banking/sbi-shinsei-bank]] / [[banking/au-jibun-bank]] / [[banking/minna-bank-baas-model]] 等网络银行群竞争。**外币存款 / 住房贷款** 为差异化轴
 
-### 重新上市的战略意义
+### 再上市的战略意义
 
-- Partial spin-off 方式：通过向母公司股东现物分红实现课税递延 -> 既有 Sony Group 股东自动取得 Sony FG 股票（可选择卖出或继续持有）^[extracted]
+- 部分分拆方式：经由向母公司股东实物分红实现课税递延 → 既有索尼集团股东自动取得 Sony FG 股票（可选择出售或继续持有）^[extracted]
 
 ## 4. 监管 / 政策
 
 - **主管**：金融厅（FSA）
-  - 寿险：保险业法（Sony Life）
-  - 损保：保险业法（Sony Assurance）
-  - 银行：银行法（Sony Bank）
-- **新上市审查**：Japan Exchange Group（JPX）上市审查标准
+  - 寿险：保险业法（索尼生命）
+  - 财险：保险业法（索尼损保）
+  - 银行：银行法（索尼银行）
+- **新规上市审查**：日本交易所集团（JPX）上市审查标准
 - **近期政策论点**：
-  - 2024 起日银政策利率正常化 -> Sony Bank 存贷利差改善、Sony Life 运用收益率改善
-  - 应对个人金融市场竞争加剧（Rakuten / SBI / PayPay / au 等 platformer finance）的战略
+  - 2024〜 日银政策利率正常化 → 索尼银行存贷利差改善、索尼生命运用收益率改善红利
+  - 应对个人金融市场竞争加剧（乐天 / SBI / [[megabanks/paypay-fg|PayPay FG]] / au 等平台型金融）的对抗战略
 
-## Related
+## 相关条目
 
 - [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[megabanks/ndfg]] · [[megabanks/sbi-hd]] · [[megabanks/paypay-fg]]
 - [[banking/rakuten-bank]] · [[regional-banks/sbi-shinsei-bank|banking/sbi-shinsei-bank]] · [[banking/au-jibun-bank]] · [[banking/minna-bank-baas-model]]
 
-## Sources
+## 来源
 
-- **Wikipedia: Sony Financial Group / Sony Financial Holdings**（https://ja.wikipedia.org/wiki/ソニーフィナンシャルグループ, 2026-05-19 extracted）
-- Sony Group「经营方针说明会」资料（2024-05-22，金融业务 partial spin-off / 重新上市发表）
-- Sony Life Insurance、Sony Assurance、Sony Bank 各公司官方沿革
-- TOB 相关：Sony Group 2020-05-19 公开买付届出书
-- **NLI Research Institute「Sony 的 partial spin-off - Sony Financial 的分离 / 上市」**（说明方案细节、母公司持股比例下降、日本首例 partial spin-off）https://www.nli-research.co.jp/report/detail/id=83393?site=nli
-- **SMBC Nikko Securities「Sony Group（6758）partial spin-off 通知」**（确认 2025-09-17、2025-10-01 生效、2025-09-29 Sony FG 重新上市、证券代码 8729、每 1  股 SonyG 股票交付 1  股 Sony FG 股票）https://www.smbcnikko.co.jp/news/customer/2025/n_20250917_01.html
+- **Wikipedia: ソニーフィナンシャルグループ / ソニーフィナンシャルホールディングス**（https://ja.wikipedia.org/wiki/ソニーフィナンシャルグループ, 2026-05-19 抽出）
+- 索尼集团「经营方针说明会」资料（2024-05-22，金融业务部分分拆、再上市发布）
+- 索尼生命保险、索尼损害保险、索尼银行 各公司官方沿革
+- TOB 相关：索尼集团 2020-05-19 公开收购申报书
+- **日生基础研究所「索尼的部分分拆——索尼金融的分离、上市」**（详解方案细节、母公司持股比例下降、日本首例部分分拆）https://www.nli-research.co.jp/report/detail/id=83393?site=nli
+- **SMBC 日兴证券「关于索尼集团（6758）部分分拆的通知」**（2025-09-17，确认 2025-10-01 生效、2025-09-29 索尼 FG 再上市、证券代码 8729、每 1 股索尼 G 股票分配 1 股索尼 FG 股票）https://www.smbcnikko.co.jp/news/customer/2025/n_20250917_01.html
 
 ---
 
-> [!info] 验证状态
-> confidence: **likely**（基于 Wikipedia + 官方发表，2026-05-19 校核 / 2026-05-30 spin-off 实施已由一次信息确定）。重要数值（重新上市日 **2025-09-29**、partial spin-off 生效日 **2025-10-01**、TOB 完全子公司化 2020-09-29、各公司设立年）基于官方发表和证券公司通知。**旧「forecast」标注（重新上市、spin-off、母公司持股比例下降、现物分红）已因实施确认而移除**（由 NLI Research Institute / SMBC Nikko 通知确定）。重新上市后的确定持股比例和主要股东结构，需要基于有价证券报告书更新。
+> [!info] 校核状态
+> confidence: **likely**（基于 Wikipedia + 官方发布，2026-05-19 校核 / 2026-05-30 以一手信息确定分拆已实施）。重要数值（再上市日 **2025-09-29**、部分分拆生效 **2025-10-01**、TOB 全资子公司化 2020-09-29、各公司设立年份）基于官方发布及各证券公司告知。**旧「预测（forecast）」标注（再上市、分拆、母公司持股比例下降、实物分红）已因实施确认而移除**（由 NLI 基础研、SMBC 日兴告知确定）。再上市后确定的持股比例、主要股东结构需以有价证券报告书为基础更新数值。

@@ -1,14 +1,14 @@
 ---
 source: card-issuers/rakuten-card
-source_hash: bae553d3c82f69b2
+source_hash: a78d22131119c5bf
 lang: en
 status: machine
 fidelity: ok
-title: "Rakuten Card"
-translated_at: 2026-06-01T00:41:50.416Z
+title: "楽天カード (Rakuten Card)"
+translated_at: 2026-06-15T03:48:21.826Z
 ---
 
-# Rakuten Card
+# 楽天カード (Rakuten Card)
 
 
 ## Wiki route
@@ -17,13 +17,13 @@ This entry sits under [[card-issuers/INDEX|card-issuers INDEX]]. Read it with [[
 
 ## TL;DR
 
-Rakuten Card is the card issuer / payment touchpoint of [[payment-firms/rakuten-fg|楽天グループ金融]]. Because it connects with Rakuten Ichiba, Rakuten Points, Rakuten Pay, Rakuten Bank, and Rakuten Securities, it needs to be read not as a standalone card company but as a core component of ecosystem finance.
+Rakuten Card is a card issuer / payment touchpoint of [[payment-firms/rakuten-fg|楽天グループ金融]]. Through its connections with 楽天市場, 楽天ポイント, 楽天ペイ, 楽天銀行, and 楽天証券, it needs to be read as a core of ecosystem finance rather than as a standalone card.
 
-## 1. Entity / license boundary
+## 1. Legal entity / license boundary
 
 | Item | Reading |
 |---|---|
-| Legal entity | Rakuten Card Co., Ltd. |
+| Legal entity | 楽天カード株式会社 |
 | Group | [[payment-firms/rakuten-fg|Rakuten financial ecosystem]] |
 | Main lanes | Credit card issuing, card loan, bank-agency / payment-app adjacency |
 | Regulatory route | METI Installment Sales Act registered-operator lists; official company profile and lending / bank-agency notices. |
@@ -33,6 +33,7 @@ Rakuten Card is the card issuer / payment touchpoint of [[payment-firms/rakuten-
 - Converts Rakuten commerce and point activity into card usage and recurring account relationships.
 - Serves as a major data and rewards interface across the Rakuten ecosystem; scheme economics live at [[payments/japan-payment-scheme-economics-matrix]].
 - Anchors credit risk, fraud-control, and point-liability analysis for Rakuten's consumer finance surface — see [[payments/japan-card-issuer-acquirer-processor-split]] for the issuer / acquirer / processor split.
+- Reads as the direct ecosystem-finance counterpart to [[card-issuers/paypay-card|PayPayカード]]: both bolt a credit line onto a commerce / wallet base rather than a deposit base.
 
 ## 3. Why this standalone page matters
 

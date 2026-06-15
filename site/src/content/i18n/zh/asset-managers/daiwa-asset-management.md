@@ -1,52 +1,58 @@
 ---
 source: asset-managers/daiwa-asset-management
-source_hash: 963f90e051afa149
+source_hash: b876b776aa78b1e7
 lang: zh
 status: machine
 fidelity: ok
-title: "大和资产管理 (Daiwa Asset Management)"
-translated_at: 2026-05-31T11:13:44.000Z
+title: "大和资产管理"
+translated_at: 2026-06-15T03:48:21.861Z
 ---
 
-# 大和资产管理 (Daiwa Asset Management)
+# 大和资产管理
 
-## Wiki 路由
+## Wiki 路径
 
-本条目属于 [[asset-managers/INDEX|asset-managers INDEX]]。可与 [[asset-managers/asset-management-one|Asset Management One]] 对照阅读，并与 [[securities/INDEX|securities index]] 共同理解更广泛的投资信托、ETF 和资产管理制度边界。
+本词条位于 [[asset-managers/INDEX|asset-managers INDEX]]（其领域路径）之下。请对照 [[asset-managers/nomura-asset-management|野村アセットマネジメント]] 阅读，以了解证券系 运用会社 同业／对比；并对照 [[financial-regulators/fsa|the FSA]] 及 [[securities/financial-instruments-business-operators-japan-index|FSA 金商業者 index]] 阅读，以了解针对 投资运用业 经营者的监管／登记边界。
 
-## TL;DR
+## 摘要
 
-大和资产管理是 [[securities-firms/daiwa-sg|大和证券集团]] 的资产管理运营公司。FSA 金融商品交易业者名录列示其注册信息；公开资料显示该公司承担大和集团的投资信托、投资顾问、ETF / 基金业务。
+大和资产管理股份有限公司是依《金融商品交易法》取得 **投资运用业** 登记的运用会社，是 [[securities-firms/daiwa-sg|大和証券グループ]] 的资产管理部门。在 FSA 金融商品交易业者一览中以「大和アセットマネジメント株式会社」、关东财务局长(金商)第352号号刊载。经营公募投资信托、投资全权委托、ETF／指数产品，承担大和集团基于费用（fee-based）的运用职能。
 
-## 1. 法人 / 许可边界
+## 1. 牌照／集团边界
 
-| 项目 | 解读 |
+| 项目 | 备注 |
 |---|---|
-| 法定名称 | 大和资产管理株式会社 |
-| FSA 登记 | 关东财务局长（金商）第352号 |
-| FIEA 范围 | 第二种金融商品交易业、投资助言 / 代理业、投资运用业等公开登记范围。 |
-| 母公司边界 | [[securities-firms/daiwa-sg|Daiwa Securities Group]] 80%，[[life-insurers/kampo-life|Kampo Life]] 20%。 |
+| 法人名 | 大和アセットマネジメント株式会社 / Daiwa Asset Management Co., Ltd. |
+| 牌照路径 | 《金融商品交易法》上的 **投资运用业**・**投资咨询・代理业**・第二种; 关东财务局长(金商)第352号号 |
+| 母公司边界 | [[securities-firms/daiwa-sg|Daiwa Securities Group]] 持多数; [[life-insurers/kampo-life|Kampo Life]] 持少数（依公开披露） |
+| 监管 | [[financial-regulators/fsa|FSA]] + 投资信托协会 / 日本投资顾问业协会 |
+| Wiki 角色 | 大和证券集团系 运用会社 锚点 |
 
-## 2. 业务角色
+## 2. 经营模式
 
-- 覆盖投资信托、投资一任、投资助言、ETF / 指数产品等资产管理业务。
-- 与大和证券的销售渠道、Kampo Life 的资本关系，以及 Global X Japan 等周边运营业务相邻。
-- 与 [[regional-banks/daiwa-next-bank|Daiwa Next Bank]] 不同，本页关注资产管理费业务。
+作为投资运用业者，经营 (1) 公募投信的 **投资信托委托**（组建・运用）、(2) **投资全权委托**（机构投资者・养老金 discretionary mandate）、(3) 投资咨询、(4) ETF／指数产品。销售以大和证券的经纪销售渠道为轴，并与同简保人寿（かんぽ生命）的资本关系以及 Global X Japan 等周边运用业务相衔接。这是与证券集团的 brokerage / IB 相分离的 **资产管理费用支柱**。监管为 FSA + 自律监管机构的双层结构。与同为证券系的 [[asset-managers/nomura-asset-management|野村アセット]] 直接竞争。
 
-## 3. 独立页面的意义
+## 3. 本页为何重要
 
-大和证券集团不仅有经纪和投行业务，也拥有资产管理平台。将大和资产管理独立成页，有助于拆分 NISA 投信、ETF、Kampo Life 资本关系和证券销售渠道等分析主题。
+- 切分出仅以 brokerage / IB 视角看大和证券集团时难以看清的 **作为运用会社的 ETF / 指数 / discretionary mandate**。
+- 将 NISA 投信・ETF 市场・与简保人寿的资本关系・证券销售渠道分离追踪。
+- 提供与证券系同业（[[asset-managers/nomura-asset-management|野村アセット]] / [[asset-managers/nikko-asset-management|日興→Amova]]）比较的起点。
 
-## 相关
+## 相关条目
 
-- [[securities-firms/daiwa-sg]]
-- [[regional-banks/daiwa-next-bank]]
-- [[life-insurers/kampo-life]]
-- [[asset-managers/smd-am]]
-- [[securities/nisa-2024-flow]]
+- [[asset-managers/INDEX|asset-managers INDEX]]
+- [[securities-firms/daiwa-sg|大和証券グループ]]
+- [[regional-banks/daiwa-next-bank|大和ネクスト銀行]]
+- [[life-insurers/kampo-life|かんぽ生命]]
+- [[asset-managers/nomura-asset-management|野村アセット]]
+- [[securities/nisa-2024-flow|NISA 2024 flow]]
+- [[INDEX|FinWiki index]]
 
 ## 来源
 
-- FSA, 金融商品取引業者等一覧, `kinyushohin.xlsx`.
-- Daiwa Asset Management, company profile.
-- Daiwa Asset Management, company information.
+- FSA, "金融商品取引業者登録一覧", `kinyushohin.xlsx`.
+- Daiwa Asset Management, "会社概要".
+- Daiwa Asset Management, "会社情報".
+
+> [!info] 校核状态
+> confidence: likely. 法人名・登记编号・大和证券集团系列均为公开信息。资本结构（Daiwa SG majority + Kampo Life minority）是基于公开披露的 **shape**。不记载具体 AUM / 基金只数。

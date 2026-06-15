@@ -1,54 +1,59 @@
 ---
 source: cooperative-banks/jonan-shinkin
-source_hash: 2609a64e7368ac77
+source_hash: 36eab768e97f966d
 lang: ja
 status: machine
 fidelity: ok
 title: "城南信用金庫"
-translated_at: 2026-06-02T14:54:39.051Z
+translated_at: 2026-06-15T03:48:21.813Z
 ---
+
 # 城南信用金庫
 
-## ウィキ上の位置づけ
+## Wiki 内の位置づけ
 
-この項目は [[cooperative-banks/INDEX|cooperative-banks INDEX]] の配下に置かれる。[[cooperative-banks/asahi-shinkin|朝日信用金庫]] は同業・隣接項目との比較先であり、[[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]] は制度、登録、監督上の境界を確認するための参照先である。本文は公開情報に基づき、会社または制度項目の位置づけを日本語で整理する。
+本項目は [[cooperative-banks/INDEX|cooperative-banks index]] の下に位置する。東京の信用金庫ブロック内の同業 / 対比の文脈については [[cooperative-banks/asahi-shinkin|朝日信用金庫]] と、システム全体の展望については [[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]] と、その上位にある協同組織の中央機関については [[cooperative-banks/shinkin-central|信金中央金庫]] と、信用金庫に対する監督 / 免許の境界については [[financial-regulators/fsa|the FSA]] と照らし合わせて読むこと。
 
-## 要約
+## 要点
 
-城南信用金庫 は、東京都南西部と神奈川県東部 を主な文脈として読む地域密着型の信用金庫 である。[[cooperative-banks/shinkin-central|信金中央金庫]] を手がかりに、ライセンス、グループ境界、営業地盤、比較対象を切り分ける。公開情報で確認できる範囲に限定し、非公開情報や個人情報は扱わない。
+城南信用金庫は、東京都品川区に本店を置く、東京都南西部・神奈川県東部を主たる営業地盤とする大手都市型信用金庫。預金量で全国トップクラスの規模を持ち、脱原発宣言など独自の社会的メッセージ発信でも知られる協同組織金融機関。
 
-## 1. ライセンス・グループ境界
+## 1. 免許 / グループ境界
 
-| 項目 | メモ |
+| Item | Notes |
 |---|---|
-| 正式名称 | 城南信用金庫 |
-| 種別 | 地域密着型の信用金庫 |
-| 主な市場 | 東京都南西部と神奈川県東部 |
-| 確認方法 | 金融庁、公式会社情報、上場会社開示、業界団体資料などの公開情報を照合する。 |
-| 比較参照 | [[cooperative-banks/shinkin-central|信金中央金庫]] |
-| 関連境界 | 2 |
+| Legal name | 城南信用金庫 |
+| Institution type | 信用金庫 (shinkin bank) — member-based cooperative under 信用金庫法 |
+| License route | 信用金庫法 / FSA 信用金庫免許一覧 |
+| Supervisor | [[financial-regulators/fsa|金融庁 (FSA)]] + 関東財務局 (regional 財務局 delegated supervision) |
+| Group boundary | Member of [[cooperative-banks/shinkin-central|信金中央金庫]] cooperative system |
+| Deposit protection | [[financial-regulators/dic|預金保険機構 (DIC)]] — shinkin deposits are DIC-insured |
+| Home market | 東京都南西部 + 神奈川県東部 |
+| Wiki role | Tokyo 大手 shinkin operating-company anchor page |
 
-## 2011 年. 事業モデル
+## 2. 機関種別の事業モデル
 
-城南信用金庫 の事業モデルは、顧客基盤、商品範囲、グループ内の役割、監督上の登録区分を分けて読む必要がある。銀行、信用金庫、信託銀行、証券会社、保険会社、資産運用会社、商社系金融会社では、同じ金融機関でも収益源と規制上の確認点が異なる。
-このページでは 3 を比較軸として、会社単位の公開情報と上位グループの説明を混同しないようにする。
+**信用金庫 (shinkin bank)** として、城南信用金庫は、株式会社形態の銀行ではなく、信用金庫法に基づいて設立された *member-based cooperative deposit-taking institution* である。会員 (membership) 資格は、定められた 営業地区 (membership/business district) 内の中小企業、住民、勤労者に開かれており、貸出は法的に会員——主として地域の中小企業と個人世帯——に向けられる点で、同じ地域で競合する shareholder-owned な [[regional-banks/yokohama-bank|地方銀行]] モデルとは区別される。剰余は外部株主の利益最大化ではなく会員還元と準備金に充てられ、これが [[cooperative-banks/asahi-shinkin|朝日信用金庫]] や他の信用金庫と並ぶ日本の 協同組織金融 (cooperative finance) 層を定義づける特徴である。
 
-| 観点 | 読み方 |
-|---|---|
-| 営業地盤 | 東京都南西部と神奈川県東部 での顧客接点、店舗網、法人取引、個人向けサービスを確認する。 |
-| ライセンス | 免許、登録、業務区分、監督当局を公開一覧で確認する。 |
-| グループ | 親会社、持株会社、提携先、協同組織との関係を切り分ける。 |
-| 比較 | 同じ地域、同じ業態、同じグループ階層の項目と横並びで読む。 |
+城南信用金庫は、東京南西部（品川・大田・目黒・世田谷など）と川崎・横浜の一部を地盤とし、中小企業融資・住宅ローン・個人預金・相続/事業承継相談を中核業務とする。預金規模で信用金庫業界の上位常連で、メガバンク・地銀との都市部競合下で協同組織の独自性を打ち出すマーケティングで知られる。脱原発宣言（2011 年以降）など、経営トップ発信による社会的メッセージング戦略は他金庫と一線を画す。
 
-## [[cooperative-banks/shinkin-central]]. このページが重要な理由
+## 3. システム & 規制上の位置づけ
 
-- 城南信用金庫 を会社または制度単位で参照できる入口にする。
-- 上位グループ、同業他社、制度項目を混同せず、公開情報だけで説明する。
-- [[cooperative-banks/asahi-shinkin]] との比較により、営業地盤、規模、登録区分、監督境界の違いを確認できる。
-- [[cooperative-banks/johoku-shinkin]] を読む際の補助線として、地域金融、資本市場、保険、資産運用、商社系金融の接点を整理できる。
+- **中央機関**: 信用金庫として、流動性・剰余資金運用・決済のためのシステムの中央銀行である [[cooperative-banks/shinkin-central|信金中央金庫 (Shinkin Central Bank)]] の下に位置する——これは JA における [[cooperative-banks/norinchukin|農林中央金庫]]、労金における [[cooperative-banks/rokin-renraku|労働金庫連合会]] に相当する信用金庫の対応物である。
+- **監督**: 信用金庫法に基づき [[financial-regulators/fsa|the FSA]] により免許・監督され、日常的な監督は地域の 財務局 に委任されている。預金は他の預金受入銀行と同様に [[financial-regulators/dic|the Deposit Insurance Corporation (DIC)]] により保護される。
+- **システム上の文脈**: 信用金庫層がより広い 協同組織金融 構造にどう適合するかについては [[banking/cooperative-banking-japan|cooperative banking in Japan]] を、全国の 信用金庫 の母集団については [[banking/shinkin-bank-registry-japan|the shinkin registry]] を参照のこと。
+
+## 4. なぜこのページが重要か
+
+- 預金量で業界トップクラスの東京都心型信用金庫の operating-company anchor。
+- メガバンク本拠地で協同組織モデルがどう生き残るかのケース。
+- 経営トップの社会的メッセージ発信（脱原発など）は信用金庫業界の中で異色の事例。
 
 ## 関連
 
+- [[cooperative-banks/shinkin-central]]
+- [[cooperative-banks/asahi-shinkin]]
+- [[cooperative-banks/johoku-shinkin]]
 - [[cooperative-banks/kawasaki-shinkin]]
 - [[banking/shinkin-bank-registry-japan]]
 - [[banking/cooperative-banking-japan]]
@@ -56,4 +61,6 @@ translated_at: 2026-06-02T14:54:39.051Z
 
 ## 出典
 
-- 金融庁、公式会社情報、業界団体資料など、城南信用金庫 に関する公開情報。
+- FSA: 信用金庫免許一覧 (latest snapshot per FSA registry)
+- 城南信用金庫 公式 会社概要 (https://www.jsbank.co.jp/about/)
+- 信金中央金庫 cooperative system context

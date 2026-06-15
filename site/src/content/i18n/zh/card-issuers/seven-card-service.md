@@ -1,40 +1,42 @@
 ---
 source: card-issuers/seven-card-service
-source_hash: 54174640074807c2
+source_hash: 6dfa93ffac4ade8a
 lang: zh
 status: machine
 fidelity: ok
-title: "Seven Card Service（セブン・カードサービス）"
-translated_at: 2026-06-01T00:41:50.458Z
+title: "七卡服务 (Seven Card Service)"
+translated_at: 2026-06-15T03:48:21.839Z
 ---
-# Seven Card Service（セブン・カードサービス）
 
-## Wiki 路径
+# 七卡服务 (Seven Card Service)
 
-本条目位于 [[card-issuers/INDEX|card-issuers INDEX]] 之下。可与 [[payments/INDEX|payments index]] 一并阅读以获得邻接语境，也可与 [[payments/funds-transfer-vs-prepaid-boundary|Funds transfer vs prepaid boundary in Japan]] 一并理解更广义的系统边界。
+
+## Wiki route
+
+本词条归属于 [[card-issuers/INDEX|card-issuers INDEX]]。可对照 [[payments/INDEX|payments index]] 阅读以获取邻近语境，并对照 [[payments/funds-transfer-vs-prepaid-boundary|Funds transfer vs prepaid boundary in Japan]] 了解更宏观的体系边界。
 
 ## TL;DR
 
-Seven Card Service 是 [[retail/seven-and-i-hd|Seven & i]] / [[regional-banks/seven-bank|Seven Bank]] 周边的卡与零售支付运营商。本法人边界页面用于区分门店、nanaco / points、卡、银行 ATM 和 retail app。
+七卡服务是 [[retail/seven-and-i-hd|Seven & i]] / [[regional-banks/seven-bank|Seven Bank]] 周边的 card and retail-payment operator。是一个用于将门店、nanaco / point, card, bank ATM, retail app 分开阅读的法人边界页面。
 
-## 1. 法人 / 牌照边界
+## 1. 法人・牌照边界
 
-| 项目 | 解读 |
+| Item | Reading |
 |---|---|
-| 法定实体 | 株式会社セブン・カードサービス |
-| 集团语境 | Seven & i / Seven Bank retail payment ecosystem |
-| 主要业务线 | 信用卡、nanaco 电子货币、零售支付服务 |
-| 监管路径 | 分期付款销售法 / 卡信用管制及官方公司资料。 |
+| Legal entity | 株式会社セブン・カードサービス |
+| Group context | Seven & i / Seven Bank retail payment ecosystem |
+| Main lanes | Credit card, nanaco electronic money, retail payment services |
+| Regulatory route | Installment Sales Act / card-credit control and official company profile. |
 
-## 2. 业务角色
+## 2. Business role
 
-- 将卡使用与便利店和零售客户关系连接起来。
-- 以卡 / 支付服务补充 Seven Bank 的 ATM 与账户基础设施。
-- 是将零售支付战略与银行战略分开阅读的有用案例。
+- 将刷卡使用与便利店及零售客户关系连接起来。
+- 以 card / payment services 补充七银行的 ATM 与账户基础设施。
+- 一个将零售支付战略与银行战略分开阅读的有用案例。
 
-## 3. 独立页面的意义
+## 3. Why this standalone page matters
 
-Seven Bank 并不等同于整个 Seven payment stack。本页让 card-service layer 在与 AEON、UCS、FamilyMart 比较时保持可见。
+七银行并非整个七支付栈。本页面让 card-service 层保持可见，以便与诸如 [[card-issuers/aeon-financial-service|イオンフィナンシャルサービス]] 和 [[card-issuers/ucs-card|UCSカード]] 这类 retail-affinity peers 以及 FamilyMart 进行比较。
 
 ## Related
 

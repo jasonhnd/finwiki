@@ -1,11 +1,11 @@
 ---
 source: banking/japan-net-bank-deposit-feature-matrix-2026
-source_hash: 6f2405a47c80e62f
+source_hash: a66f9ca3fc29225a
 lang: en
 status: machine
 fidelity: ok
 title: "Japan net bank deposit & feature matrix 2026"
-translated_at: 2026-05-30T18:52:47.777Z
+translated_at: 2026-06-15T03:48:21.887Z
 ---
 
 # Japan net bank deposit & feature matrix 2026
@@ -89,7 +89,7 @@ Deposit-base values are public-source approximations from bank IR pages, group a
 | [[banking/gmo-aozora-net-bank|GMO Aozora Net Bank]] | Steady SME / corporate | Corporate-focused fee schedule | Highly competitive for corporates | Tight on corporate FX | Corporate deposit rate tiers | freee, MoneyForward, accounting SaaS, payroll, payment platforms |
 | [[banking/ui-bank|UI Bank]] | Slow growth — niche | Limited (app-only) | Standard tier | n/a | Promotional high-yield deposit launches | Tokyo Kiraboshi FG regional partners |
 | [[banking/minna-bank-baas-model|Minna Bank]] | Mobile / BaaS growth | App-only — no own ATM | App-anchored | n/a | Standard | Recruit, Trust Bank GW, partner brand BaaS |
-| [[banking/mercari-bank|Mercari Bank]] | Early ramp via Mercari user base | Not publicly specified in available launch materials | Not publicly specified in available launch materials | n/a | Not publicly specified in available launch materials | Mercari Marketplace, Mercari Card linkage |
+| [[banking/mercari-bank|Mercari Bank]] | Early ramp via Mercari user base | Current public materials do not yet support a ranked ATM-footprint comparison | Current public materials do not yet support a fee-tier comparison | n/a | Public product conditions still require confirmation at launch scale | Mercari Marketplace, Mercari Card linkage |
 | [[regional-banks/japan-post-bank|Japan Post Bank]] | Slight outflow as customers diversify | Free at Japan Post ATMs nationwide | ¥146-330 | Limited retail FX | Standard low | Yucho Pay (own wallet), connection with regional banks |
 
 The growth trajectory line is qualitative because deposit growth is highly seasonal and promotional. Use the bank's IR site for quarterly disclosure of deposit balance.

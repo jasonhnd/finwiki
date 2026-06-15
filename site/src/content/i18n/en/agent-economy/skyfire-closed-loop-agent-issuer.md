@@ -1,11 +1,11 @@
 ---
 source: agent-economy/skyfire-closed-loop-agent-issuer
-source_hash: a8d1ad7ce96cd18d
+source_hash: 7753cc75d717bba9
 lang: en
 status: machine
 fidelity: ok
 title: "Skyfire · closed-loop card-network agent payment issuer"
-translated_at: 2026-05-30T17:31:02.644Z
+translated_at: 2026-06-15T03:48:21.809Z
 ---
 
 # Skyfire · closed-loop card-network agent payment issuer

@@ -1,44 +1,45 @@
 ---
 source: card-issuers/aplus
-source_hash: f3f9059229cfb656
+source_hash: 012b0ac6ad7b659e
 lang: zh
 status: machine
 fidelity: ok
-title: "APLUS"
-translated_at: 2026-05-31T11:13:44.879Z
+title: "アプラス (APLUS)"
+translated_at: 2026-06-15T03:48:21.875Z
 ---
 
-# APLUS
+# アプラス (APLUS)
 
 
-## 维基路线
+## Wiki 路径
 
-该条目位于[[card-issuers/INDEX|card-issuers INDEX]]。阅读它与[[banking/INDEX|banking index]]对于相邻的上下文和[[securities/INDEX|securities index]]为更广泛的系统边界。
+本条目位于 [[card-issuers/INDEX|card-issuers INDEX]] 之下。就邻接的语境，请与 [[banking/INDEX|banking index]] 一并阅读；就更广的系统边界，请与 [[securities/INDEX|securities index]] 一并阅读。
 
-##TL;博士
+## TL;DR
 
-阿普拉斯是[[regional-banks/sbi-shinsei-bank|SBI新生銀行]]集团总赊销经营者。它将成为银行集团与消费信贷/分期信贷之间的连接点，重点关注购物信贷、卡和支付业务。
+アプラス是 [[regional-banks/sbi-shinsei-bank|SBI新生銀行]] 集团的综合信贩 operator。以购物信贷、卡、支付业务为中心，成为 banking group 与 consumer-credit / installment-credit 的连接点。
 
-## 1.公司/许可证边界
+## 1. 法人・牌照边界
 
-|项目 |阅读|
+| Item | Reading |
 |---|---|
-|法人实体| APLUS有限公司|
-|集团|[[regional-banks/sbi-shinsei-bank|SBI Shinsei Bank]]/ SBI集团|
-|主干道|购物信用卡、银行卡、支付服务、分期金融|
-|监管路线| METI 分期付款销售法列表和官方 SBI Shinsei 集团公司页面。 |
+| Legal entity | 株式会社アプラス |
+| Group | [[regional-banks/sbi-shinsei-bank|SBI Shinsei Bank]] / SBI group |
+| Main lanes | 购物信贷、卡、支付服务、分期金融 |
+| Regulatory route | 经济产业省（METI）依据《分期付款销售法》的登记经营者一览，以及 SBI 新生集团官方公司页面。 |
 
-## 2。业务角色
+## 2. 业务角色
 
-- 在 SBI Shinsei 消费金融堆栈内提供分期信用卡和信用卡功能。
-- 通过销售金融关系补充银行贷款、担保和支付服务；计划经济学住在[[payments/japan-payment-scheme-economics-matrix]].
-- 对于了解银行集团如何在 SBI 整合后保持传统消费信贷资产活跃 — 请参阅[[payments/japan-card-issuer-acquirer-processor-split]]对于发行人/收单人/处理者的分割。
+- 在 SBI 新生消费金融 stack 内提供分期信用与卡功能。
+- 以销售金融关系补充银行贷款、担保和支付服务; 计划方案的经济性见 [[payments/japan-payment-scheme-economics-matrix]]。
+- 用于读懂银行集团在 SBI 整合后如何让遗留的消费者信用资产保持活跃 — issuer / acquirer / processor 的分工见 [[payments/japan-card-issuer-acquirer-processor-split]]。
+- 将其购物信贷／分期模式与从非银行基础运营相同汽车贷款和个人分期业务的独立信贩龙头 [[card-issuers/orico|オリコ]] 和 [[card-issuers/jaccs|ジャックス]] 进行比较。
 
-## 3。为什么这个独立页面很重要
+## 3. 为何需要这个独立页面
 
-APLUS不仅仅是一个品牌标签。它是购物信贷和支付产品的运营公司，其行为与存款银行和证券不同。
+APLUS 不只是一个品牌标签。它是购物信贷与支付产品的运营公司，其行为方式不同于存款银行业务和证券。
 
-＃＃ 有关的
+## 相关
 
 - [[regional-banks/sbi-shinsei-bank]]
 - [[megabanks/sbi-hd]]
@@ -47,5 +48,5 @@ APLUS不仅仅是一个品牌标签。它是购物信贷和支付产品的运营
 
 ## 来源
 
-- SBI集团、APLUS公司简介：https://www.sbigroup.co.jp/english/company/group/aplus.html/
-- METI 根据《分期付款销售法》注册的运营商：https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html
+- SBI Group, APLUS corporate profile: https://www.sbigroup.co.jp/english/company/group/aplus.html/
+- METI registered operators under the Installment Sales Act: https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html

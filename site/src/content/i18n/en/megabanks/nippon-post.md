@@ -1,112 +1,114 @@
 ---
 source: megabanks/nippon-post
-source_hash: 9bbccaf2498d98f2
+source_hash: 79fbd6744661e256
 lang: en
 status: machine
 fidelity: ok
 title: "Japan Post Holdings"
-translated_at: 2026-06-01T00:41:50.471Z
+translated_at: 2026-06-15T03:48:21.897Z
 ---
 # Japan Post Holdings
 
-## Wiki Route
+## Wiki route
 
 This entry sits under [[megabanks/INDEX|megabanks INDEX]]. Read it against [[life-insurers/kampo-life|かんぽ生命保険 (Japan Post Insurance)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
-Japan Post Holdings is the listed holding company reorganized from the former Japan Post public corporation, with 3  pillars: postal services plus finance [banking + insurance]. It is **one of Japan's largest financial groups** (with group managed assets over 250 兆円 on a consolidated basis). In 2015-11-04 the holding company / [[regional-banks/yucho]] / [[life-insurers/kampo-life]] completed a **3 社 simultaneous IPO**. The largest shareholder is the Minister of Finance, which is required under the postal privatization law to hold **more than 1/3  for the time being**. After the 2019-2020  [[life-insurers/kampo-life]] improper sales scandal, the group received management changes and business-improvement orders; restoring trust and improving investment yield are medium-term themes. ^[extracted]
+A listed holding company with 3  pillars — "postal + finance [banking + insurance]" — reorganized from the former Japan Post Public Corporation. **One of Japan's largest financial groups** (on a consolidated basis, group assets under management in the territory above 250 兆円). The holding company / [[regional-banks/yucho]] / [[life-insurers/kampo-life]] underwent a **simultaneous 3 社 IPO** in 2015-11-04 ★. Its largest shareholder is the Minister of Finance (under the Postal Privatization Act, with an obligation to hold **more than 1/3  for the time being**). 2019-2020 , following the [[life-insurers/kampo-life]] improper-sales incident, it received a management change and business-improvement orders, making restoration of trust and improvement of investment yield mid-term themes. ^[extracted]
 
-## 1. Company Overview
+## 1. Company overview
 
 **Legal name**: Japan Post Holdings Co., Ltd. ^[extracted]
 **English name**: Japan Post Holdings Co., Ltd.
-**Ticker**: TSE PRIME 6178 (listed 2015-11-04) ^[extracted]
-**Established**: 2006-01-23, as the postal-privatization preparation company "Japan Post Holdings Co., Ltd." ^[extracted]
-**Privatization launch**: 2007-10-01, when the Postal Privatization Act took effect and the 4 社-company structure began
+**Securities code**: TSE PRIME 6178 (listed on 2015-11-04) ^[extracted]
+**Established**: 2006-01-23 (as the postal-privatization preparatory company "Japan Post Holdings Co., Ltd.") ^[extracted]
+**Privatization launch**: 2007-10-01 (Postal Privatization Act enforced; 4 社 structure launched)
 
-### Shareholder Structure (Special Rules Under Privatization Law) ^[extracted]
+### Shareholder structure (special provision under the Privatization Act) ^[extracted]
 
 | Shareholder | Ratio | Notes |
 |---|---|---|
-| Minister of Finance (Government of Japan) | **more than 1/3 ** (maintenance obligation for the time being) | Postal Privatization Act / Japan Post Holdings Co., Ltd. Act |
-| General shareholders and institutional investors | Remainder | Staged sell-downs (2015-11  / 2017-09  / 2021-10 , etc.) |
+| Minister of Finance (Government of Japan) | **more than 1/3 ** (obligation to maintain for the time being) | Postal Privatization Act / Japan Post Holdings Co., Ltd. Act |
+| General shareholders / institutional investors | Remainder | Phased secondary offerings (2015-11  / 2017-09  / 2021-10 , etc.) |
 
-> Under the Japan Post Holdings Co., Ltd. Act and the Postal Privatization Act, the government is obligated to hold **more than 1  of 3  for the time being**. Japan Post itself also has staged targets for disposing of shares in [[regional-banks/yucho]] / [[life-insurers/kampo-life]], so government involvement in the financial 2 社 remains in a two-layer structure. ^[extracted]
+> Under the Japan Post Holdings Co., Ltd. Act and the Postal Privatization Act, the government bears an **obligation to hold more than 1  of 3  for the time being**. In addition, Japan Post Holdings itself is subject to phased targets for the disposal of shares in [[regional-banks/yucho]] / [[life-insurers/kampo-life]], so government involvement in the financial 2 社 remains in a dual structure. ^[extracted]
 
-### Major Subsidiaries and Interests
+### Major subsidiaries / equity stakes
+
+> The history as a listed holding company, the market segment, and the details of the government-holding scheme are separated out and organized on the companion page [[megabanks/japan-post-holdings|日本郵政株式会社 (operating profile)]].
 
 ```
-Japan Post Holdings（listed holding company 6178）
-  ├── Japan Post Co., Ltd.（100%）── postal, logistics, and post-office network operations
+Japan Post Holdings Co., Ltd. (holding company; listed 6178)
+  ├── Japan Post Co., Ltd. (100%) ── postal / logistics / post-office network operation
   │     ├── Yu-Pack / Yu-Mail / international mail EMS
-  │     ├── nationwide network of about 24,000  post offices (largest private-sector store network)
-  │     └── retail sales and convenience-store operations (Lawson / FamilyMart tie-ups, etc.)
-  ├── Japan Post Bank Co., Ltd.（listed 7182）── among Japan's largest by deposit scale [[regional-banks/yucho]]
-  ├── Japan Post Insurance Co., Ltd.（listed 7181）── based on postal life insurance [[life-insurers/kampo-life]]
-  ├── Japan Post Capital Co., Ltd.（100%）── group CVC / investment function
-  ├── JP Biz Mail Co., Ltd. ── direct-mail and mailing BPO
-  └── Former investment in Rakuten Group（about 1,500 億円 in 2021-03  → mostly sold in 2024-03 ）
+  │     ├── nationwide ~24,000  post-office network (the largest private retail network)
+  │     └── merchandise sales / convenience-store operation (Lawson / FamilyMart tie-ups, etc.)
+  ├── Japan Post Bank Co., Ltd. (listed 7182) ── among the largest domestically by deposit scale [[regional-banks/yucho]]
+  ├── Japan Post Insurance Co., Ltd. (listed 7181) ── based on simplified life insurance [[life-insurers/kampo-life]]
+  ├── Japan Post Capital Co., Ltd. (100%) ── group CVC / investment function
+  ├── JP Bizmail Co., Ltd. ── DM / mailing BPO
+  └── (former) Rakuten Group investment (2021-03  approx. 1,500 億円 → 2024-03  mostly sold)
 ```
 
-### Key Timeline (Excerpt) ^[extracted]
+### Key chronology (excerpt) ^[extracted]
 
 | Date | Event |
 |---|---|
-| 2003-04-01 | Japan Post public corporation launched, reorganized from the Postal Services Agency into an independent administrative organization |
-| 2005-10-14 | Postal Privatization Act enacted after the Koizumi postal-election dissolution |
-| **2006-01-23** | **Japan Post Holdings Co., Ltd. established** as the privatization preparation company |
-| **2007-10-01** | **Postal privatization / 4 社-company structure launched**: holding company + postal business + post offices + Japan Post Bank + Japan Post Insurance |
-| 2012-10-01 | Integration: **Postal Business Co., Ltd. + Post Office Co., Ltd. → Japan Post Co., Ltd.** (4 社 to 3 社 structure) |
-| **2015-11-04** | **Japan Post Holdings + [[regional-banks/yucho]] + [[life-insurers/kampo-life]] completed 3 社 simultaneous IPOs** on TSE First Section, with 3 社 combined market capitalization around 14 兆円, one of the largest ever ★ |
-| 2017-09  | Government-held shares, 2 th sell-down |
-| **2019-06-27** | **[[life-insurers/kampo-life]] improper sales / replacement-contract issue disclosed**, with more than 18 万 customer-disadvantageous replacements |
-| 2019-12-27 | FSA and Ministry of Internal Affairs and Communications issued **business suspension order + business-improvement order** to [[life-insurers/kampo-life]] / Japan Post, and a business-improvement order to Japan Post Holdings |
+| 2003-04-01 | Japan Post Public Corporation established (made an independent administrative organization from the Postal Services Agency) |
+| 2005-10-14 | Postal Privatization Act enacted (after the Koizumi administration's postal-dissolution election) |
+| **2006-01-23** | **Japan Post Holdings Co., Ltd. established** (privatization preparatory company) |
+| **2007-10-01** | **Postal privatization / 4 社 structure launched** (holding + postal business + post offices + Yu-cho + Kampo) |
+| 2012-10-01 | Integration / reorganization: **Japan Post Service Co., Ltd. + Japan Post Network Co., Ltd. → merged into Japan Post Co., Ltd.** (4 社 → 3 社 structure) |
+| **2015-11-04** | **Japan Post Holdings + [[regional-banks/yucho]] + [[life-insurers/kampo-life]] simultaneous 3 社 IPO** (TSE First Section, 3 社 combined market cap on the order of 14 兆円, among the largest in history) ★ |
+| 2017-09  | 2  government secondary offering of held shares |
+| **2019-06-27** | **[[life-insurers/kampo-life]] improper-sales (switching-contract) case disclosed** (over 18 万 switches disadvantageous to customers) |
+| 2019-12-27 | FSA / MIC issued a **business-suspension order + business-improvement order** to [[life-insurers/kampo-life]] / Japan Post, and a business-improvement order to Japan Post Holdings |
 | 2020-01  | President Masatsugu Nagato resigned → Hiroya Masuda became president |
-| **2021-03-12** | **Invested about 1,500 億円 in Rakuten Group** through capital and business alliance covering logistics, mobile, EC, and finance |
-| 2021-10  | Government-held shares, 3 th sell-down; holding ratio reduced to around more than 1/3  |
+| **2021-03-12** | **Approx. 1,500 億円 invested in Rakuten Group** (capital and business alliance; logistics, mobile, EC, finance) |
+| 2021-10  | 3  government secondary offering of held shares (holding ratio fell to ~more than 1/3 ) |
 | 2022-04  | TSE market-segment review → TSE PRIME |
-| 2024  | Medium-term management plan update: financial 2 社 cooperation + real estate + DX |
+| 2024  | Medium-term management plan update (financial 2 社 coordination + real estate + DX) |
 
-## 2. Business Segment Map
+## 2. Business segment map
 
-| Segment | Main operator | Features |
+| Segment | Main operators | Characteristics |
 |---|---|---|
-| Postal and logistics | Japan Post | Domestic universal service obligation and about 24,000  post-office network |
-| EC and delivery | Japan Post (Yu-Pack) | Delivery BPO for Amazon, Rakuten, Mercari, and others |
-| Retail banking | [[regional-banks/yucho]] (listed 7182) | Among Japan's largest deposit bases; account sales through post-office counters |
-| Life insurance | [[life-insurers/kampo-life]] (listed 7181) | Postal life insurance base, major by premium income |
-| Real estate | Japan Post Real Estate, including JP Tower | Otemachi and former post-office site redevelopment |
-| Group CVC | Japan Post Capital | Startup and logistics-tech investments |
-| Seniors / regions | Japan Post "Mimamori Service" etc. | Turns the post-office network into a care / municipal cooperation platform |
+| Postal / logistics | Japan Post | Domestic universal-service obligation, ~24,000  post-office network |
+| EC / delivery | Japan Post (Yu-Pack) | Contracted parcel-delivery BPO for Amazon, Rakuten, Mercari, etc. |
+| Retail banking | [[regional-banks/yucho]] (listed 7182) | Among the largest domestically by deposit scale; account business at post-office counters |
+| Life insurance | [[life-insurers/kampo-life]] (listed 7181) | Based on simplified life insurance; a major player by premium income |
+| Real estate | Japan Post Real Estate (incl. JP Tower) | Otemachi / former post-office-site development |
+| Group CVC | Japan Post Capital | Investments in startups / logistics tech |
+| Senior / regional | Japan Post "Mimamori (watch-over) Service," etc. | Turning the post-office network into a care / local-government collaboration platform |
 
-### Group Integration Synergy
+### Group integration synergies
 
-- **Post-office network × finance**: Uses about 24,000 局 offices nationwide as sales counters for [[regional-banks/yucho]] / [[life-insurers/kampo-life]]. Counter fees (financial 2 社 → Japan Post) are the core intra-group transfer ^[extracted]
-- **Logistics × EC**: Links Japan Post's last-mile network with EC platforms. The former Rakuten Group alliance was positioned in this context ^[extracted]
+- **Post-office network × finance**: Using the nationwide ~24,000 局 as sales counters for [[regional-banks/yucho]] / [[life-insurers/kampo-life]]. Counter fees (financial 2 社 → Japan Post) are the main axis of intra-group transfer ^[extracted]
+- **Logistics × EC**: Coordination between Japan Post's last-one-mile network and EC platforms. The former Rakuten G alliance was positioned in this context ^[extracted]
 
-### Alliance and Acquisition Strategy
+### Alliance / acquisition strategy
 
-- **Rakuten Group capital and business alliance** (2021-03-12): Japan Post subscribed to Rakuten Group's (4755) third-party allotment and invested about 1,500 億円 (ownership ratio 8.32%, 4 位 largest shareholder), cooperating in logistics, mobile, finance, and EC. Later, after Rakuten Group's share price fell due to weakness in the Rakuten Mobile business, Japan Post recorded special impairment losses of about 800-850 億円 in the 2023 年 4-6  period
-- **Staged disposal of financial 2 社 shares**: Under privatization law, Japan Post has targets to dispose of [[regional-banks/yucho]] / [[life-insurers/kampo-life]] shares in stages. Full separation faces political resistance because post-office networks and financial sales are deeply intertwined ^[extracted]
-- **Additional government share sell-downs**: Government-held share sales have been conducted repeatedly as reconstruction and government-bond redemption funding sources
+- **Rakuten Group capital and business alliance** (2021-03-12): Japan Post Holdings subscribed to a third-party allotment of new shares of Rakuten Group (4755), investing approx. 1,500 億円 (investment ratio 8.32%, the 4 位 shareholder). Coordination in logistics, mobile, finance, and EC. Subsequently, following the decline in Rakuten G's share price due to the underperformance of the Rakuten Mobile business, Japan Post Holdings recorded an extraordinary loss (impairment) of approx. 800-850 億円 in the 2023 年 4-6  period
+- **Phased disposal of financial 2 社 shares**: Under the Privatization Act, Japan Post Holdings targets a phased disposal of [[regional-banks/yucho]] / [[life-insurers/kampo-life]] shares. On the other hand, due to the inseparability of the post-office network and financial sales, there is political resistance to complete separation ^[extracted]
+- **Additional secondary offerings of government-held shares**: Secondary offerings of government-held shares have been carried out successively as reconstruction funding / national-bond redemption funding
 
-### Overseas Strategy
+### Overseas strategy
 
-- Former Toll Holdings (major Australian logistics company, acquired for about 6,200 億円 in 2015-05 ) → **sold in 2021-04 ** after large goodwill impairments. Overseas logistics M&A is effectively in retreat mode ^[extracted]
-- [[regional-banks/yucho]] / [[life-insurers/kampo-life]] expand global exposure in asset management through foreign bonds and alternatives
+- The former Toll Holdings (a major Australian logistics player, acquired 2015-05  ~6,200 億円) → **sold 2021-04 ** (after recording a large goodwill impairment). Overseas logistics M&A is effectively in withdrawal mode ^[extracted]
+- [[regional-banks/yucho]] / [[life-insurers/kampo-life]] expand global exposure on the investment side through overseas bonds and alternatives
 
-## 4. Regulation and Policy
+## 4. Regulation / policy
 
-- **Primary authorities**: Ministry of Internal Affairs and Communications (postal administration / universal service) + FSA ([[regional-banks/yucho]] banking / [[life-insurers/kampo-life]] insurance)
-- **Legal basis**: Postal Privatization Act / Japan Post Holdings Co., Ltd. Act / Japan Post Co., Ltd. Act / respective basis laws for Japan Post Bank and Japan Post Insurance
-- **Government holding obligation**: The Minister of Finance must hold **more than 1/3 ** of Japan Post Holdings shares for the time being ^[extracted]
-- **Disposal targets for financial 2 社**: Japan Post is to dispose of [[regional-banks/yucho]] / [[life-insurers/kampo-life]] shares in stages, with timing and ratios operated through cabinet orders and cabinet decisions
-- **Universal service obligation**: Japan Post must provide postal services at uniform nationwide rates
+- **Supervision**: MIC (postal administration / universal service) + FSA ([[regional-banks/yucho]] banking business / [[life-insurers/kampo-life]] insurance business)
+- **Governing laws**: Postal Privatization Act / Japan Post Holdings Co., Ltd. Act / Japan Post Co., Ltd. Act / the respective governing laws of Japan Post Bank Co., Ltd. and Japan Post Insurance Co., Ltd.
+- **Government-holding obligation**: The Minister of Finance holds **more than 1/3  of Japan Post Holdings shares for the time being** ^[extracted]
+- **Disposal target for the financial 2 社**: Japan Post Holdings disposes of [[regional-banks/yucho]] / [[life-insurers/kampo-life]] shares in phases (timing and ratio operated by cabinet order / cabinet decision)
+- **Universal-service obligation**: Japan Post bears the obligation to provide nationwide flat-rate postal service
 - **Recent policy issues**:
-  - 2019-2020  [[life-insurers/kampo-life]] improper sales scandal → governance and sales-system reform
-  - 2024  onward postal-rate increases (25 g 84 円 → 110 円, etc.) and postal-business losses
-  - 2025  onward digital postal services, electronic mailbox, and MyPost concept
+  - 2019-2020  [[life-insurers/kampo-life]] improper-sales incident → governance / sales-structure reform
+  - 2024 ~ postal-rate increases (25 g 84 円 → 110 円, etc.) and the postal business turning loss-making
+  - 2025 ~ digital post / electronic mailbox / MyPost concepts
 
 ## Related
 
@@ -115,15 +117,15 @@ Japan Post Holdings（listed holding company 6178）
 
 ## Sources
 
-- **Wikipedia: Japan Post Holdings**（https://ja.wikipedia.org/wiki/日本郵政, 2026-05-19 extracted）
-- **Wikipedia: Japan Post Bank / Japan Post Insurance**（2026-05-19 extracted, for reinforcement）
-- Postal Privatization Act / Japan Post Holdings Co., Ltd. Act (e-Gov public statute text)
+- **Wikipedia: 日本郵政** (https://ja.wikipedia.org/wiki/日本郵政, 2026-05-19 extracted)
+- **Wikipedia: ゆうちょ銀行 / かんぽ生命保険** (2026-05-19 extracted, for reinforcement)
+- Postal Privatization Act / Japan Post Holdings Co., Ltd. Act (e-Gov Law Search public articles)
 - Japan Post Group medium-term management plan (official IR public materials)
-- Rakuten Group official press release, "Japan Post Group and Rakuten Group agree on capital and business alliance" (2021-03-12) — https://corp.rakuten.co.jp/news/press/2021/0312_02.html
-- Bloomberg, "Japan Post invests 1500億円 in Rakuten; capital and business alliance to extend beyond logistics" (2021-03-12) — https://www.bloomberg.co.jp/news/articles/2021-03-12/QPUBBVDWX2PS01
-- Nikkei, "Japan Post records 850億円 special loss on Rakuten G shares, 23 year 4-6 month" — https://www.nikkei.com/article/DGXZQOUA308QV0Q3A630C2000000/
+- Rakuten Group official press release "Japan Post Group and Rakuten Group agree on capital and business alliance" (2021-03-12) — https://corp.rakuten.co.jp/news/press/2021/0312_02.html
+- Bloomberg "Japan Post invests 1500億円 in Rakuten, capital and business alliance — coordinating beyond logistics" (2021-03-12) — https://www.bloomberg.co.jp/news/articles/2021-03-12/QPUBBVDWX2PS01
+- Nikkei "Japan Post records an extraordinary loss of 850億円 on Rakuten G shares, 23 4-6" — https://www.nikkei.com/article/DGXZQOUA308QV0Q3A630C2000000/
 
 ---
 
-> [!info] Validation Status
-> confidence: **likely** (v1.0  Wikipedia + public statute base 2026-05-19). Precise point-in-time figures for total assets, managed assets, and shareholder ratios require reconfirmation in Japan Post Group's integrated report / annual securities report. Government holding ratios and the disposal progress for financial 2 社 shares are especially sensitive to cabinet-order revisions, so the 2026-09  period results and medium-term plan update should be rechecked before review_by.
+> [!info] Verification status
+> confidence: **likely** (v1.0  Wikipedia + public-law basis 2026-05-19). Precise point-in-time values for total assets, AUM balance, and shareholder ratio need re-confirmation in the Japan Post Group integrated report / securities report. In particular, the government-holding ratio and the disposal progress of the financial 2 社 shares move with cabinet-order amendments, so re-verify against the 2026-09  period results and the medium-term management plan update before review_by.

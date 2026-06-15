@@ -1,44 +1,55 @@
 ---
 source: cooperative-banks/hamamatsu-iwata-shinkin
-source_hash: 427d893c8fb2df53
+source_hash: af8bdb858c5348d2
 lang: zh
 status: machine
 fidelity: ok
-title: "滨松岩田信用金库"
-translated_at: 2026-05-31T15:29:03.878Z
+title: "滨松磐田信用金库"
+translated_at: 2026-06-15T03:48:21.919Z
 ---
 
-# 滨松岩田信用金库
+# 滨松磐田信用金库
 
-## 维基路线
+## Wiki 路径
 
-该条目位于[[cooperative-banks/INDEX|cooperative-banks INDEX]]阅读它反对[[cooperative-banks/okazaki-shinkin|岡崎信用金庫]]对于中部制造带信金块内的同行/对比环境和[[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]]对于更广泛的系统/监管边界[[cooperative-banks/shinkin-central|信金中央金庫]]。
+本条目位于 [[cooperative-banks/INDEX|cooperative-banks index]] 之下。请将其与 [[cooperative-banks/okazaki-shinkin|岡崎信用金庫]] 对照阅读，以了解中部制造业地带信用金库板块内的同业／对比语境，与 [[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]] 对照了解系统全貌，与 [[cooperative-banks/shinkin-central|信金中央金庫]] 对照了解其上位的协同组织中央机构，并与 [[financial-regulators/fsa|the FSA]] 对照了解对信用金库的监管／发牌边界。
 
-## 长话短说
+## TL;DR
 
-滨松岩田信用银行（Hamashin）是一家大型地方信用合作社，总行位于静冈县滨松市中央区，主要业务据点为静冈县西部地区（滨松、岩田、小西、袋井等）。是一家合作金融机构，擅长向滨松地区交通设备、乐器、光学技术制造供应链的中小企业提供贷款，包括铃木、雅马哈、雅马哈汽车、罗兰等。
+滨松磐田信用金库（はましん）是总店设于静冈县滨松市中央区、以静冈县西部（滨松・磐田・湖西・袋井等）为主要营业地盘的大型地方信用金库。它是在滨松地区的运输机械・乐器・光技术制造业供应链中小企业融资方面具有优势的协同组织金融机构，相关企业包括铃木・雅马哈・雅马哈发动机・罗兰等。
 
-## 1.许可证/组边界
+## 1. 牌照／集团边界
 
-|项目 |笔记|
+| Item | Notes |
 |---|---|
-|法定名称 |滨松岩田信用金库 |
-|许可途径|信用金库法 / FSA 信用金库执照列表 |
-|组边界|成员[[cooperative-banks/shinkin-central|信金中央金庫]]合作系统|
-|国内市场|静冈县西部（滨松、岩田、湖西等）|
-|维基角色 |静冈西部/中部主要信用金运营公司锚页面|
+| Legal name | 浜松磐田信用金庫 |
+| Institution type | 信用金庫 (shinkin bank) — 信用金库法下的会员制协同组织 |
+| License route | 信用金庫法 / FSA 信用金庫免許一覧 |
+| Supervisor | [[financial-regulators/fsa|金融庁 (FSA)]] + 东海财务局 (委派给地区 财务局 的监管) |
+| Group boundary | [[cooperative-banks/shinkin-central|信金中央金庫]] 协同组织系统的成员 |
+| Deposit protection | [[financial-regulators/dic|預金保険機構 (DIC)]] — 信用金库的存款属于 DIC 承保对象 |
+| Home market | 静冈县西部（滨松・磐田・湖西等） |
+| Wiki role | 静冈西部 / 中部 大型 信用金库 operating-company anchor page |
 
-## 2.运营模式
+## 2. 机构类型的业务模式
 
-滨松岩田信用银行的核心业务是为制造业供应链中的中小企业提供中小企业融资、营运​​资金和设备融资，主要集中在滨松地区，包括交通设备（铃木和雅马哈汽车）、乐器（雅马哈和河合乐器）和光学技术（滨松光子学）。住房贷款、个人存款和当地企业继承支持也是支柱。现在的据点是由原滨松信用金库和原岩田信用金库合并而成，中部信用金景观[[cooperative-banks/okazaki-shinkin|岡崎信用金庫]]信金与（西三河汽车供应链）一起是制造业集聚区的代表。
+作为 **信用金庫 (shinkin bank)**，滨松磐田信用金库是信用金库法下的 *会员制协同组织存款受理机构*，而非股份制银行，由原滨松信用金库与原磐田信用金库合并而成。会员资格与放贷与既定的 营业地区（静冈县西部）相挂钩，并依法面向作为会员的中小企业——这里是 运输机械・乐器・光技术 制造业供应链——而非开放的法人市场。剩余金用于会员回报与准备金，这是它在整个中部制造业地带与 [[cooperative-banks/okazaki-shinkin|岡崎信用金庫]] 共享的 协同组织金融 (cooperative finance) 层级的定义性特征。
 
-## 3.为什么此页面很重要
+滨松磐田信用金库以面向滨松地区运输机械（铃木・雅马哈发动机）、乐器（雅马哈・河合乐器）、光技术（滨松光子学）等为中心的制造业供应链中小企业的 SME 融资・周转资金・设备资金为核心业务。住房贷款・个人存款、本地事业承继支援也是支柱。它通过原滨松信用金库与原磐田信用金库的合并形成现在的地盘，在 Chubu shinkin landscape 中是与 [[cooperative-banks/okazaki-shinkin|岡崎信用金庫]]（西三河汽车供应链）并列的制造业集聚区代表性 shinkin。
 
-- 支持滨松交通、乐器和光学技术制造集群的合作组织方面的主要参与者运营公司的加入。
-- [[cooperative-banks/okazaki-shinkin|岡崎信用金庫]]中部制造信金一对的一侧。
-- 合并型信用金的典型案例（滨松+岩田）。
+## 3. 系统与监管定位
 
-## 有关的
+- **中央机构**: 在流动性・余剩资金运用・结算方面位于 [[cooperative-banks/shinkin-central|信金中央金庫 (Shinkin Central Bank)]] 之下——相当于 JA 系统中 [[cooperative-banks/norinchukin|農林中央金庫]] 的信用金库版。
+- **监管**: 依信用金库法由 [[financial-regulators/fsa|the FSA]] 发牌，日常监督委派给地区的 财务局; 存款由 [[financial-regulators/dic|the Deposit Insurance Corporation (DIC)]] 承保。
+- **系统语境**: 关于信用金库层级在 协同组织金融 中的位置请参见 [[banking/cooperative-banking-japan|cooperative banking in Japan]]，关于全国 信用金库 总体请参见 [[banking/shinkin-bank-registry-japan|the shinkin registry]]。
+
+## 4. 本页为何重要
+
+- 支撑滨松运输机械・乐器・光技术制造业集聚的协同组织一侧关键参与者的 operating-company entry。
+- 与 [[cooperative-banks/okazaki-shinkin|岡崎信用金庫]] 并列的 Chubu 制造业 shinkin 配对中的一方。
+- 合并型 shinkin（滨松＋磐田）的代表性案例。
+
+## 相关
 
 - [[cooperative-banks/shinkin-central]]
 - [[cooperative-banks/okazaki-shinkin]]
@@ -49,6 +60,6 @@ translated_at: 2026-05-31T15:29:03.878Z
 
 ## 来源
 
-- FSA：信用银行许可证列表（每个 FSA 注册表的最新快照）
-- 滨松岩田信用金库官方公司简介 (https://www.hamashin.com/profile/)
-- 信用金中央银行合作系统背景
+- FSA: 信用金庫免許一覧 (latest snapshot per FSA registry)
+- 浜松磐田信用金庫 公式 会社概要 (https://www.hamashin.com/profile/)
+- 信金中央金庫 cooperative system context

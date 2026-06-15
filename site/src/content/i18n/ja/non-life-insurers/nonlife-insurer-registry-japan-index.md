@@ -1,154 +1,154 @@
 ---
 source: non-life-insurers/nonlife-insurer-registry-japan-index
-source_hash: a3f488b602f6d86f
+source_hash: 706c8d2a9bc3f8e7
 lang: ja
 status: machine
 fidelity: ok
-title: "日本の損害保険会社レジストリ索引"
-translated_at: 2026-06-02T14:54:39.083Z
+title: "日本 損害保険会社 レジストリ index"
+translated_at: 2026-06-15T03:48:21.913Z
 ---
 
-# 日本の損害保険会社レジストリ索引
+# 日本 損害保険会社 レジストリ index
 
-## 要約
+## TL;DR
 
-FSA の損害保険会社免許一覧（損害保険会社免許一覧、songai.pdf）は、日本の保険業法に基づいて損害保険を引き受ける免許を持つ全主体の単一レジストリ面である。このページはそのレジストリのルーティング面であり、読者に FSA ワークブックの生データ解釈を強いるのではなく、所有クラスター（3社 / ダイレクト / 専門 / 外資系 / 再保険）別に整理する。構造は [[trust-banks/trust-companies-japan-index]] と [[foreign-financial-institutions/foreign-bank-branches-japan-index]] を反映する。
+FSA の損害保険会社免許一覧 (損害保険会社免許一覧, songai.pdf) は、日本の保険業法 (保険業法) に基づき損害 (損害) 保険を引き受ける免許を持つすべての主体についての単一のレジストリ・サーフェスである。本ページはそのレジストリのルーティング・サーフェスであり—すべての読者に FSA 生のワークブックを解釈させる代わりに、所有クラスター (大手3社／direct／specialty／外資系／再保険会社) ごとに一覧を整理する。[[trust-banks/trust-companies-japan-index]] および [[foreign-financial-institutions/foreign-bank-branches-japan-index]] の構造に対応している。
 
-単独の保険会社ページは [[non-life-insurers/INDEX|non-life-insurers INDEX]] に置く。概念ページ（巨大災害リスク、代理店チャネル、ソルベンシー）は [[insurance/INDEX|insurance]] に置く。この索引はその中間にあり、双方へルーティングする。
+個別の保険会社ページは [[non-life-insurers/INDEX|non-life-insurers INDEX]] に残る。コンセプト・ページ (巨大災害リスク、代理店チャネル、ソルベンシー) は [[insurance/INDEX|insurance]] に残る。この index は両者の間に位置し、双方向にルーティングする。
 
-## ウィキ上の位置づけ
+## ウィキ経路
 
-この項目は [[non-life-insurers/INDEX|non-life-insurers INDEX]] の下にあり、[[trust-banks/trust-companies-japan-index|trust companies registry index]] と [[foreign-financial-institutions/foreign-bank-branches-japan-index|foreign bank branches registry index]] に対応する損害保険側の索引である。持株会社比較レイヤーとして [[insurance/japan-nonlife-big-three|Japan non-life big three]]、リスク出再レイヤーとして [[insurance/natcat-reinsurance-japan|nat-cat reinsurance in Japan]]、広い運営モデルマップとして [[insurance/INDEX|insurance index]] を併読する。資本十分性の読み替えは [[insurance/economic-value-based-solvency|economic value-based solvency]] と [[insurance/global-solvency-framework-comparison-matrix|global solvency framework comparison matrix]] を通す。外国再保険会社のみの項目は、姉妹ページの [[insurance/foreign-reinsurer-japan-landscape|foreign reinsurer Japan landscape]] と [[insurance/lloyds-japan-syndicate-operating-model|Lloyd's Japan syndicate operating model]] にまとめる。
+本項目は [[non-life-insurers/INDEX|non-life-insurers INDEX]] の配下に、[[trust-banks/trust-companies-japan-index|trust companies registry index]] および [[foreign-financial-institutions/foreign-bank-branches-japan-index|foreign bank branches registry index]] の損害保険版として位置する。持株会社の比較層として [[insurance/japan-nonlife-big-three|Japan non-life big three]] を、リスク出再層として [[insurance/natcat-reinsurance-japan|nat-cat reinsurance in Japan]] を、より広範な事業モデルマップとして [[insurance/INDEX|insurance index]] を併せて読むこと。資本充実度の換算は [[insurance/economic-value-based-solvency|economic value-based solvency]] と [[insurance/global-solvency-framework-comparison-matrix|global solvency framework comparison matrix]] を経由する。外国再保険会社のみの項目は [[insurance/foreign-reinsurer-japan-landscape|foreign reinsurer Japan landscape]] および [[insurance/lloyds-japan-syndicate-operating-model|Lloyd's Japan syndicate operating model]] の姉妹ページにまとめられている。
 
-## 対象範囲
+## 境界
 
-| 境界 | 扱い |
+| 境界 | 取扱い |
 |---|---|
-| 元受損害保険会社（元受損保） | この索引に掲載する。明確な戦略、チャネル、資本のストーリーがある場合は単独の JapanFG ページへ昇格させる。 |
-| 再保険会社（再保険専業） | ここでは「再保険」クラスターに掲載し、出再フロー分析は [[insurance/foreign-reinsurer-japan-landscape]] に置く。 |
-| Lloyd's シンジケート市場 | Lloyd's Japan の一行として掲載する。マーケットプレイス構造の詳細は [[insurance/lloyds-japan-syndicate-operating-model]] とエンティティページ [[non-life-insurers/lloyd-japan]] に置く。 |
-| キャプティブ保険会社 | この一覧には載せない。日本にはオンショアのキャプティブ免許がないため、キャプティブは [[insurance/captive-insurance-japan-market]] に置く。 |
-| P&I 相互保険（船主相互保険組合） | FSA の損害保険一覧には載らず、船主相互保険組合法に基づく。[[financial-regulators/japan-pi-club|Japan P&I Club]] と [[insurance/marine-insurance-and-pi-cover-market]] を参照する。 |
-| 持株会社 | この一覧には載せない。[[non-life-insurers/tokio-marine|Tokio Marine Holdings]]、[[non-life-insurers/msad|MS&AD Holdings]]、[[non-life-insurers/sompo|Sompo Holdings]] などを参照する。 |
-| 生命保険会社 | この一覧には載せない。別の FSA 登録簿（seimei.pdf）を使う。[[insurance/japan-life-insurance-big-four]] を参照する。 |
-| 保険代理店 / ブローカー | 別の免許・登録（募集人 / 仲立人）を使う。[[insurance/insurance-agency-and-brokerage-japan]] を参照する。 |
+| 損害直接保険会社 (元受損保) | 本 index に掲載。明確な戦略・チャネル・資本のストーリーがある場合に standalone JapanFG ページへ昇格する。 |
+| 再保険会社 (再保険専業) | ここでは「再保険会社」クラスターに掲載するが、出再フロー分析は [[insurance/foreign-reinsurer-japan-landscape]] に存在する。 |
+| ロイズ・シンジケート市場 | Lloyd's Japan の一行として掲載。市場構造の詳細は [[insurance/lloyds-japan-syndicate-operating-model]] に、主体ページは [[non-life-insurers/lloyd-japan]] に存在する。 |
+| キャプティブ保険会社 | 本一覧には載らない。日本にはオンショアのキャプティブ免許がないため、キャプティブは [[insurance/captive-insurance-japan-market]] に存在する。 |
+| P&I 相互保険 (船主相互保険組合) | FSA 損害保険一覧には載らない；船主相互保険組合法に基づき免許される。[[financial-regulators/japan-pi-club|Japan P&I Club]] および [[insurance/marine-insurance-and-pi-cover-market]] を参照。 |
+| 持株会社 (持株会社) | 本一覧には載らない。[[non-life-insurers/tokio-marine|Tokio Marine Holdings]]、[[non-life-insurers/msad|MS&AD Holdings]]、[[non-life-insurers/sompo|Sompo Holdings]] 等を参照。 |
+| 生命保険会社 (生命保険会社) | 本一覧には載らない—別の FSA 登録簿 (seimei.pdf)。[[insurance/japan-life-insurance-big-four]] を参照。 |
+| 保険代理店／ブローカー | 別の免許 (募集人 / 仲立人)。[[insurance/insurance-agency-and-brokerage-japan]] を参照。 |
 
-## レジストリのスナップショット
+## レジストリ・スナップショット
 
-| 指標 | 読み方 |
+| 指標 | 内容 |
 |---|---:|
-| FSA as-of date | 2026-04-01 ^[extracted] |
-| Domestic non-life insurance companies (内国損害保険会社) | ~30 ^[ambiguous — number shifts as direct / specialty / holding-company subsidiaries are added or merged] |
-| Foreign non-life insurance companies (外国損害保険会社等) | ~20 ^[ambiguous — list expands with foreign reinsurer branches] |
-| Lloyd's Japan platform | 1 entry, separate from foreign-insurer-branch rows ^[extracted] |
+| FSA 基準日 | 2026-04-01 ^[extracted] |
+| 内国損害保険会社 (内国損害保険会社) | 約 30 ^[ambiguous — number shifts as direct / specialty / holding-company subsidiaries are added or merged] |
+| 外国損害保険会社等 (外国損害保険会社等) | 約 20 ^[ambiguous — list expands with foreign reinsurer branches] |
+| Lloyd's Japan プラットフォーム | 1 項目、外国保険会社支店行 ^[extracted] とは別 |
 
-FSA ファイルは不定期に更新される。特定の行数を確定値として扱う前に、読者は常に最新の songai.pdf / songai.xlsx を再取得すべきである。
+FSA ファイルは不定期の頻度で更新される；読者は、特定の行数を最終とみなす前に、常に最新の songai.pdf / songai.xlsx を再取得すべきである。
 
-### A. 大手3社 — 国内持株会社グループ (元受)
+### A. 大手3社 — 内国持株会社グループ (元受)
 
-| 持株会社 | 国内損害保険の運営会社 | ダイレクト子会社 | 専門子会社 |
+| 持株会社 | 内国損害保険オペレーティング会社 | 直接子会社 | 専門子会社 |
 |---|---|---|---|
 | [[non-life-insurers/tokio-marine|Tokio Marine Holdings]] | [[non-life-insurers/tokio-marine-nichido-fire|Tokio Marine & Nichido Fire]] ^[extracted] | [[non-life-insurers/tokio-marine-direct|Tokio Marine Direct]] (旧 e-design) ^[extracted] | [[non-life-insurers/nisshin-fire|Nisshin Fire & Marine]] ^[extracted] |
 | [[non-life-insurers/msad|MS&AD Holdings]] | [[non-life-insurers/mitsui-sumitomo-insurance|Mitsui Sumitomo Insurance]] + [[non-life-insurers/aioi-nissay-dowa-insurance|Aioi Nissay Dowa Insurance]] ^[extracted] | [[non-life-insurers/mitsui-direct|Mitsui Direct General]] ^[extracted] | — |
 | [[non-life-insurers/sompo|Sompo Holdings]] | [[non-life-insurers/sompo-japan-insurance|Sompo Japan Insurance]] ^[extracted] | [[non-life-insurers/sompo-direct|Sompo Direct]] (旧 Saison Automobile & Fire) ^[extracted] | — |
 
-### B. ダイレクト系（デジタル・通信・EC）損害保険会社
+### B. Direct (digital / telco / EC) 損害保険会社
 
-| 運営会社 | 販売チャネルの軸 | クラスター |
+| オペレーティング会社 | 販売アンカー | クラスター |
 |---|---|---|
-| [[non-life-insurers/sony-insurance|Sony Insurance]] | [[megabanks/sony-fg|Sony Financial Group]] direct auto ^[extracted] | 個人向けダイレクトの自動車・火災・医療 |
-| [[non-life-insurers/sbi-insurance|SBI Insurance]] | [[megabanks/sbi-hd|SBI Group]] platform ^[extracted] | ダイレクト自動車・火災・がん |
-| [[non-life-insurers/au-insurance|au Insurance]] | [[megabanks/au-fh|au Financial Holdings]] / KDDI ^[extracted] | 通信バンドル型損害保険 |
-| [[non-life-insurers/rakuten-general-insurance|Rakuten General Insurance]] | [[payment-firms/rakuten-fg|Rakuten Group]] / [[non-life-insurers/rakuten-insurance-hd|Rakuten Insurance HD]] ^[extracted] | EC プラットフォーム連動型損害保険 |
-| [[non-life-insurers/tokio-marine-direct]] | Tokio Marine HD ^[extracted] | 大手三社傘下のダイレクト自動車保険 |
-| [[non-life-insurers/sompo-direct]] | Sompo HD ^[extracted] | 大手三社傘下のダイレクト自動車保険 |
-| [[non-life-insurers/mitsui-direct]] | MS&AD HD ^[extracted] | 大手三社傘下のダイレクト自動車保険 |
+| [[non-life-insurers/sony-insurance|Sony Insurance]] | [[megabanks/sony-fg|Sony Financial Group]] direct auto ^[extracted] | Direct-to-consumer の自動車・火災・医療 |
+| [[non-life-insurers/sbi-insurance|SBI Insurance]] | [[megabanks/sbi-hd|SBI Group]] platform ^[extracted] | Direct の自動車／火災／がん |
+| [[non-life-insurers/au-insurance|au Insurance]] | [[megabanks/au-fh|au Financial Holdings]] / KDDI ^[extracted] | 通信バンドル型損保 |
+| [[non-life-insurers/rakuten-general-insurance|Rakuten General Insurance]] | [[payment-firms/rakuten-fg|Rakuten Group]] / [[non-life-insurers/rakuten-insurance-hd|Rakuten Insurance HD]] ^[extracted] | EC プラットフォームバンドル型損保 |
+| [[non-life-insurers/tokio-marine-direct]] | Tokio Marine HD ^[extracted] | ビッグ・スリー傘下の direct auto |
+| [[non-life-insurers/sompo-direct]] | Sompo HD ^[extracted] | ビッグ・スリー傘下の direct auto |
+| [[non-life-insurers/mitsui-direct]] | MS&AD HD ^[extracted] | ビッグ・スリー傘下の direct auto |
 
-ダイレクト損害保険会社は、専属代理店網の密度ではなく、コストと顧客獲得チャネルで競争する。それでも FSA の損害保険免許と、[[insurance/natcat-reinsurance-japan]] で説明される巨大災害リスクの経済性の対象である。
+Direct の保険会社は、専属代理店の密度ではなくコストと顧客獲得チャネルで競争する。依然として FSA 損害保険免許と、[[insurance/natcat-reinsurance-japan]] に記述された巨大災害リスクの経済性の対象である。
 
-### C. 専門領域 / niche / regional non-life insurers
+### C. 専門／ニッチ／地域 損害保険会社
 
-| 運営会社 | 専門領域 | メモ |
+| オペレーティング会社 | 専門 | 備考 |
 |---|---|---|
-| [[non-life-insurers/anicom-insurance|Anicom Insurance]] | ペット保険 ^[extracted] | Holding [[non-life-insurers/anicom-hd]]; among largest Japan pet insurers |
-| [[non-life-insurers/dai-ichi-ipet-insurance|Dai-ichi iPet Insurance]] | ペット保険 ^[extracted] | iPet brand under [[life-insurers/dai-ichi-life]] group |
-| [[non-life-insurers/pet-and-family-insurance|Pet & Family Insurance]] | ペット保険 ^[extracted] | Pet specialty |
-| [[non-life-insurers/yamap-naturance-insurance|YAMAP Naturance Insurance]] | アウトドア・登山特化 ^[extracted] | YAMAP outdoor-app affiliated |
-| [[non-life-insurers/ntt-docomo-sonpo|NTT Docomo Insurance]] | Telco-bundled mobile / travel ^[extracted] | Under [[non-life-insurers/ntt-docomo-sompo-hd]] |
-| [[non-life-insurers/secom-insurance|SECOM Insurance]] | セキュリティ・住宅・医療 ^[extracted] | Tied to SECOM physical security |
-| [[non-life-insurers/daido-fire-marine|Daido Fire & Marine]] | 地域・商業 ^[extracted] | Long-standing mid-size non-life |
-| [[non-life-insurers/kyoritsu-fire-marine|Kyoritsu Fire & Marine]] | 地域・商業 ^[extracted] | Long-standing mid-size non-life |
-| [[non-life-insurers/nisshin-fire|Nisshin Fire & Marine]] | 自動車・火災 (Tokio Marine group) ^[extracted] | Tokio Marine subsidiary |
-| [[non-life-insurers/meiji-yasuda-general-insurance|Meiji Yasuda General Insurance]] | Group-life-affiliated non-life ^[extracted] | Under [[life-insurers/meiji-yasuda]] |
-| [[non-life-insurers/cardif-nonlife|Cardif Non-Life]] | 信用・ローン保護 ^[extracted] | BNP Paribas Cardif group |
-| [[non-life-insurers/capital-insurance|Capital Insurance]] | 専門領域 ^[extracted] | ニッチ |
-| [[non-life-insurers/sakura-insurance|Sakura Insurance]] | 専門領域 ^[extracted] | ニッチ |
-| [[non-life-insurers/sbi-insurance-group|SBI Insurance Group]] | Group holding ^[extracted] | SBI group |
-| [[non-life-insurers/ji-accident-fire-insurance|JI Accident & Fire]] | 専門領域 accident / fire ^[extracted] | 専門領域 |
-| [[non-life-insurers/zenkankyo-reiwa-insurance|Zenkankyo Reiwa Insurance]] | 専門領域 ^[extracted] | 専門領域 |
-| [[non-life-insurers/hs-insurance|HS Insurance]] | 旅行 ^[extracted] | H.I.S. travel-affiliated |
+| [[non-life-insurers/anicom-insurance|Anicom Insurance]] | ペット保険 ^[extracted] | 持株 [[non-life-insurers/anicom-hd]]；日本最大級のペット保険会社の一つ |
+| [[non-life-insurers/dai-ichi-ipet-insurance|Dai-ichi iPet Insurance]] | ペット保険 ^[extracted] | [[life-insurers/dai-ichi-life]] グループ傘下の iPet ブランド |
+| [[non-life-insurers/pet-and-family-insurance|Pet & Family Insurance]] | ペット保険 ^[extracted] | ペット専門 |
+| [[non-life-insurers/yamap-naturance-insurance|YAMAP Naturance Insurance]] | アウトドア／登山専門 ^[extracted] | YAMAP アウトドアアプリ系列 |
+| [[non-life-insurers/ntt-docomo-sonpo|NTT Docomo Insurance]] | 通信バンドル型モバイル／旅行 ^[extracted] | [[non-life-insurers/ntt-docomo-sompo-hd]] 傘下 |
+| [[non-life-insurers/secom-insurance|SECOM Insurance]] | セキュリティ／ホーム／医療 ^[extracted] | SECOM の物理セキュリティに紐づく |
+| [[non-life-insurers/daido-fire-marine|Daido Fire & Marine]] | 地域／商業 ^[extracted] | 長年存続する中規模損保 |
+| [[non-life-insurers/kyoritsu-fire-marine|Kyoritsu Fire & Marine]] | 地域／商業 ^[extracted] | 長年存続する中規模損保 |
+| [[non-life-insurers/nisshin-fire|Nisshin Fire & Marine]] | 自動車／火災 (Tokio Marine グループ) ^[extracted] | Tokio Marine 子会社 |
+| [[non-life-insurers/meiji-yasuda-general-insurance|Meiji Yasuda General Insurance]] | 団体生保系の損保 ^[extracted] | [[life-insurers/meiji-yasuda]] 傘下 |
+| [[non-life-insurers/cardif-nonlife|Cardif Non-Life]] | クレジット／ローン保障 ^[extracted] | BNP Paribas Cardif グループ |
+| [[non-life-insurers/capital-insurance|Capital Insurance]] | 専門 ^[extracted] | ニッチ |
+| [[non-life-insurers/sakura-insurance|Sakura Insurance]] | 専門 ^[extracted] | ニッチ |
+| [[non-life-insurers/sbi-insurance-group|SBI Insurance Group]] | グループ持株 ^[extracted] | SBI グループ |
+| [[non-life-insurers/ji-accident-fire-insurance|JI Accident & Fire]] | 専門 傷害／火災 ^[extracted] | 専門 |
+| [[non-life-insurers/zenkankyo-reiwa-insurance|Zenkankyo Reiwa Insurance]] | 専門 ^[extracted] | 専門 |
+| [[non-life-insurers/hs-insurance|HS Insurance]] | 旅行 ^[extracted] | H.I.S. 旅行系列 |
 
-専門クラスターは、2010年代から2020年代にかけての構造変化を反映する。日本の損害保険料は、ペット、アウトドア、旅行、モビリティ、通信バンドル、EC バンドルのニッチへ広がっており、大手3社 が既存の単位コスト基盤では容易に対応しにくい領域を作っている。
+専門クラスターは 2010s-2020s の構造的シフトを反映する：日本の損害保険料は、大手3社 がその単位コスト基盤では容易に対応できない、ペット・アウトドア・旅行・モビリティ・通信バンドル・EC バンドルといったニッチへと拡大してきた。
 
-### D. 外資系ダイレクト損害保険会社 (外国損害保険会社等)
+### D. 外資系 direct 損害保険会社 (外国損害保険会社等)
 
-| FSA 掲載名 | 親会社 | クラスター |
+| FSA 一覧上の名称 | 親会社 | クラスター |
 |---|---|---|
-| [[non-life-insurers/aig-japan|AIG Japan]] | AIG (NYSE: AIG) ^[extracted] | US-affiliated multi-line |
-| [[life-insurers/axa-japan|AXA Japan]] | AXA SA (Euronext: CS) ^[extracted] | French multi-line |
-| [[non-life-insurers/allianz-fire-marine-japan|Allianz Fire & Marine Insurance Japan]] | Allianz SE (DAX: ALV) ^[extracted] | German multi-line |
-| [[non-life-insurers/chubb-insurance-japan|Chubb Insurance Japan]] | Chubb Limited (NYSE: CB) ^[extracted] | US-Swiss specialty/multi-line |
-| [[non-life-insurers/hyundai-marine-fire-japan|Hyundai Marine & Fire Japan]] | Hyundai M&F (KOSPI) ^[extracted] | Korean multi-line |
-| [[non-life-insurers/american-home-insurance-japan|American Home Insurance Japan]] | AIG group ^[extracted] | US-affiliated specialty |
-| [[non-life-insurers/starr-insurance-japan|Starr Insurance Japan]] | Starr Companies (US) ^[extracted] | US specialty |
+| [[non-life-insurers/aig-japan|AIG Japan]] | AIG (NYSE: AIG) ^[extracted] | 米系 multi-line |
+| [[life-insurers/axa-japan|AXA Japan]] | AXA SA (Euronext: CS) ^[extracted] | 仏系 multi-line |
+| [[non-life-insurers/allianz-fire-marine-japan|Allianz Fire & Marine Insurance Japan]] | Allianz SE (DAX: ALV) ^[extracted] | 独系 multi-line |
+| [[non-life-insurers/chubb-insurance-japan|Chubb Insurance Japan]] | Chubb Limited (NYSE: CB) ^[extracted] | 米・スイス系 specialty/multi-line |
+| [[non-life-insurers/hyundai-marine-fire-japan|Hyundai Marine & Fire Japan]] | Hyundai M&F (KOSPI) ^[extracted] | 韓国系 multi-line |
+| [[non-life-insurers/american-home-insurance-japan|American Home Insurance Japan]] | AIG group ^[extracted] | 米系 specialty |
+| [[non-life-insurers/starr-insurance-japan|Starr Insurance Japan]] | Starr Companies (US) ^[extracted] | 米系 specialty |
 
-外資系ダイレクト損害保険会社は、FSA の免許カテゴリに応じて、支店（外国損害保険会社）または 100% 保有の日本子会社（外資親会社を持つ株式会社）のいずれかとして運営される。詳細は [[financial-licenses/insurance-license-and-solvency]] を参照する。Lloyd's Japan は単一の保険会社ではなくマーケットプレイスであるため、別枠で扱う。
+外資系 direct の保険会社は、FSA の免許区分に応じて、支店 (外国損害保険会社) として、または 100% 所有の日本子会社 (外国親会社を持つ 株式会社) として運営する—[[financial-licenses/insurance-license-and-solvency]] を参照。Lloyd's Japan プラットフォームは、ロイズが単一の引受会社ではなくマーケットプレイスであるため、別に扱われる。
 
-### E. Lloyd's Japan (marketplace platform)
+### E. Lloyd's Japan (マーケットプレイス・プラットフォーム)
 
-| エンティティ | メモ |
+| 主体 | 備考 |
 |---|---|
 
-Lloyd's Japan は、この一覧の他の行とは構造的に異なる。単一のリスク引受会社ではなく、Lloyd's のシンジケートが日本所在リスクを引き受けるための FSA 登録済みローカルチャネルである。シンジケートの引受余力モデル、海上 / 航空 / サイバー / 政治リスク種目、再保険と元受の境界については [[insurance/lloyds-japan-syndicate-operating-model]] を参照する。
+Lloyd's Japan は本一覧上の他のすべての行と構造的に異なる：それは単一のリスクを引き受ける引受会社ではなく、ロイズのシンジケートが日本所在のリスクを引き受けるための FSA 登録のローカルチャネルである。シンジケート・キャパシティ・モデル、海上／航空／サイバー／政治リスクの種目、再保険 vs 直接引受の境界については [[insurance/lloyds-japan-syndicate-operating-model]] を参照。
 
-### F. 日本の再保険会社
+### F. 日本における再保険会社
 
-| 運営会社 | 親会社・構造 | クラスター |
+| オペレーティング会社 | 親会社／構造 | クラスター |
 |---|---|---|
-| [[non-life-insurers/toa-reinsurance|Toa Reinsurance]] | 国内上場（TSE） ^[extracted] | 日本の専門再保険会社 |
-| [[non-life-insurers/japan-earthquake-reinsurance|Japan Earthquake Reinsurance (JER)]] | 官民地震保険スキームの運営主体 ^[extracted] | 地震保険専業 |
-| [[non-life-insurers/munich-re-japan|Munich Re Japan]] | Munich Re AG (DAX: MUV2) ^[extracted] | 外国支店 — グローバル大手 2 |
-| [[non-life-insurers/swiss-re-japan|Swiss Re Japan]] | Swiss Re Ltd. (SIX: SREN) ^[extracted] | 外国支店 — グローバル大手 2 |
-| [[non-life-insurers/hannover-re-japan|Hannover Re Japan]] | Hannover Rück SE (FWB: HNR1) / Talanx ^[extracted] | 外国支店 — 欧州 3番目の柱 |
-| [[non-life-insurers/scor-japan|SCOR Japan]] | SCOR SE (Euronext: SCR) ^[extracted] | 外国支店 — 欧州 4番目の柱 |
-| [[non-life-insurers/gen-re-japan|Gen Re Japan]] | General Re Corp. → Berkshire Hathaway (NYSE: BRK) ^[extracted] | 外国支店 — 米国 Berkshire 傘下 |
-| [[life-insurers/rga-japan|RGA Japan]] | RGA Inc. (NYSE: RGA) ^[extracted] | 外国支店 — 米国の生命再保険専門 |
-| [[life-insurers/pacific-life-re-japan|Pacific Life Re Japan]] | Pacific Life Insurance Co. (US mutual) ^[extracted] | 外国支店 — 米国の生命再保険専門 |
+| [[non-life-insurers/toa-reinsurance|Toa Reinsurance]] | 内国上場 (TSE) ^[extracted] | 日本の専門再保険会社 |
+| [[non-life-insurers/japan-earthquake-reinsurance|Japan Earthquake Reinsurance (JER)]] | 官民地震スキームの運営者 ^[extracted] | 地震専門 |
+| [[non-life-insurers/munich-re-japan|Munich Re Japan]] | Munich Re AG (DAX: MUV2) ^[extracted] | 外国支店 — グローバル Big 2 |
+| [[non-life-insurers/swiss-re-japan|Swiss Re Japan]] | Swiss Re Ltd. (SIX: SREN) ^[extracted] | 外国支店 — グローバル Big 2 |
+| [[non-life-insurers/hannover-re-japan|Hannover Re Japan]] | Hannover Rück SE (FWB: HNR1) / Talanx ^[extracted] | 外国支店 — 欧州第 3 の柱 |
+| [[non-life-insurers/scor-japan|SCOR Japan]] | SCOR SE (Euronext: SCR) ^[extracted] | 外国支店 — 欧州第 4 の柱 |
+| [[non-life-insurers/gen-re-japan|Gen Re Japan]] | General Re Corp. → Berkshire Hathaway (NYSE: BRK) ^[extracted] | 外国支店 — 米系 Berkshire 所有 |
+| [[life-insurers/rga-japan|RGA Japan]] | RGA Inc. (NYSE: RGA) ^[extracted] | 外国支店 — 米系 生保専門 |
+| [[life-insurers/pacific-life-re-japan|Pacific Life Re Japan]] | Pacific Life Insurance Co. (US mutual) ^[extracted] | 外国支店 — 米系 生保専門 |
 
-再保険会社は、元受保険会社と同じ FSA 登録簿の下で、外国損害保険会社等（foreign branch）または内国損害保険会社（domestic）として免許を受ける。ただし契約者向けリテール事業を直接引き受けないため、原則として損害保険契約者保護機構の会員集合からは外れる（会員である例外は [[non-life-insurers/toa-reinsurance]] を参照）。再保険市場構造は [[insurance/foreign-reinsurer-japan-landscape]] で分析する。
+再保険会社は、直接保険会社と同じ FSA 登録簿の下で 外国損害保険会社等 (外国支店) または 内国損害保険会社 (内国) として免許されるが、保険契約者向けのリテール業務を直接引き受けないため、損害保険契約者保護機構 (Non-Life Insurance Policyholders Protection Corporation) の会員集合からは除外される (会員である例外として [[non-life-insurers/toa-reinsurance]] を参照)。再保険市場の構造は [[insurance/foreign-reinsurer-japan-landscape]] で分析される。
 
-## 単独ページ化の基準
+## 昇格／standalone ルール
 
-損害保険会社は、少なくとも次のいずれかに該当する場合に専用の JapanFG ページに値する。
+損害保険会社は、以下のうち少なくとも一つに該当する場合、専用の JapanFG ページに値する：
 
-- it sits in the 大手3社 holding-company or operating-company layer;
-- 公開 IR または重要なブランド上の存在感を持つ、登録済みのダイレクト系（デジタル / 通信 / EC）損害保険会社である。
-- 明確な日本戦略、親会社の規制上の接続、または専門性を持つ外資系保険会社である。
-- 公開グループ開示を持つ再保険会社である。
-- ペット、アウトドア、サイバー、パラメトリックなど新しい商品カテゴリを作り、保険 / フィンテック / 消費者金融分析で継続的に参照される専門保険会社である。
+- 大手3社 の持株会社またはオペレーティング会社層に位置する；
+- 公開 IR または相応のブランド・プレゼンスを持つ登録 direct (digital / telco / EC) 損害保険会社である；
+- 独自の日本戦略、親会社の規制上の連関、または専門性を持つ外資系保険会社である；
+- 公開のグループ開示を持つ再保険会社である；
+- 新たな商品カテゴリ (ペット、アウトドア、サイバー、パラメトリック) を創出し、保険／fintech／消費者金融の分析で繰り返し参照される専門保険会社である。
 
-ここに収録された FSA 行のすべてに単独ページが必要なわけではない。ロングテールの専門行は、調査上の問いがより広い分析へ引き込むまで、レジストリ限定のままにできる。
+ここに収録されたすべての FSA 行に standalone ページが*必要なわけではない*。ロングテールの専門行は、ある調査上の問いがより広い分析に引き込むまで、registry-only のままでよい。
 
 ## このレジストリの読み方
 
-1. 問いが「このグループは誰か」である場合は、**持株会社レイヤーから始める**。[[insurance/japan-nonlife-big-three]] を使う。
-2. 問いが引受主体、代理店チャネル、国内合併の系譜に関する場合は、**運営会社レイヤーへ下りる**。
-3. 販売経済性や新商品カテゴリを比較する場合は、**ダイレクト / 専門クラスターを使う**。
-4. 流入資本、国境を越える専門リスク配置、親グループ戦略を分析する場合は、**外資系クラスターを使う**。
-5. 問いがリスク移転、海上 / 航空 / サイバーの引受余力、巨大災害出再に関する場合は、**Lloyd's / 再保険クラスターを使う**。
-6. **資本フレームワークと照合する**: 制度をまたいで比較する場合は [[insurance/global-solvency-framework-comparison-matrix]] を通す。日本免許支店とその親会社は、異なるソルベンシーの見方に置かれる場合がある。
+1. 問いが「これはどのグループか？」であるとき、**持株会社層から始める**—[[insurance/japan-nonlife-big-three]] を用いる。
+2. 問いが引受主体、代理店チャネル、または内国の合併系譜に関するものであるとき、**オペレーティング会社層に下りる**。
+3. 販売の経済性または新たな商品カテゴリを比較するとき、**direct／専門クラスターを用いる**。
+4. 対内資本、クロスボーダーの専門引受配置、または親グループ戦略を分析するとき、**外資系クラスターを用いる**。
+5. 問いがリスク移転、海上／航空／サイバーのキャパシティ、または巨大災害の出再に関するものであるとき、**Lloyd's／再保険会社クラスターを用いる**。
+6. 諸制度をまたいで比較するとき、[[insurance/global-solvency-framework-comparison-matrix]] を経由して**資本フレームワークと相互確認する**—日本で免許された支店とその親会社は、異なるソルベンシーのレンズに位置することがある。
 
-## 関連項目
+## 関連
 
 - [[non-life-insurers/INDEX]]
 - [[trust-banks/trust-companies-japan-index]]
@@ -189,5 +189,5 @@ Lloyd's Japan は、この一覧の他の行とは構造的に異なる。単一
 - FSA: 損害保険会社免許一覧 (songai.pdf / songai.xlsx), as of 2026-04-01.
 - FSA: 保険会社免許一覧 (hoken.pdf), all-insurer master register.
 - General Insurance Association of Japan (損保協会): 業界概要.
-- Non-Life Insurance Policyholders Protection Corporation of Japan: 会員会社一覧, as of 2026-04.
-- Tokio Marine Holdings / MS&AD Holdings / Sompo Holdings: 統合報告書・年次報告書 (operating-company subsidiaries disclosure).
+- Non-Life Insurance Policyholders Protection Corporation of Japan: member-company list, as of 2026-04.
+- Tokio Marine Holdings / MS&AD Holdings / Sompo Holdings: integrated / annual reports (operating-company subsidiaries disclosure).
