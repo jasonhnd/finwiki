@@ -1,16 +1,16 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-06-15T22:13:19+09:00",
+  "generated_at": "2026-06-15T22:29:45+09:00",
   "counts": {
-    "markdown_files": 1563,
-    "public_markdown_pages": 1562,
-    "site_urls_in_sitemap": 1563,
+    "markdown_files": 1564,
+    "public_markdown_pages": 1563,
+    "site_urls_in_sitemap": 1564,
     "topical_domains": 40,
-    "link_audited_entries": 1482,
+    "link_audited_entries": 1483,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 11074119,
-    "word_like_tokens": 1786793,
+    "nonspace_utf8_chars": 11087767,
+    "word_like_tokens": 1789074,
     "entity_anchors": 12,
     "entity_mirror_pages": 12
   },
@@ -607,10 +607,10 @@
         "English",
         "中文",
         "2026-06-08 (In progress)",
+        "Phase E2 — create the Japan trust business license stack page (#9) / Create the trust-license-stack page / 新建信托业 license stack 页",
         "Phase E2 expansion shortlist — small-domain read-only review (#16) / Select small-domain expansion shortlist / 圈定小域扩展候选",
         "Phase E1 v12 double-batch dedup — execute 3 merges + retire 3 pages (#8) / Execute the accepted dedup merges / 执行已接受的去重合并",
-        "Phase E1 dedup task packet — v12 double-batch read-only review (#15) / Scope v12 double-batch dedup packet / 圈定 v12 双批去重任务包",
-        "i18n Batch C-1 — link-only stale mirror の source_hash 再同期 + classifier (#21 進行中) / Re-sync content-current link-only mirrors / 重新同步 link-only 陈旧镜像"
+        "Phase E1 dedup task packet — v12 double-batch read-only review (#15) / Scope v12 double-batch dedup packet / 圈定 v12 双批去重任务包"
       ],
       "wikilinks": [
         "...",
@@ -868,8 +868,8 @@
         "https://github.com/jasonhnd/finwiki/issues/7",
         "path"
       ],
-      "nonspace_chars": 607456,
-      "word_like_tokens": 108504,
+      "nonspace_chars": 609950,
+      "word_like_tokens": 108946,
       "last_modified": "2026-06-15"
     },
     {
@@ -27092,6 +27092,7 @@
         "financial-licenses/foreign-bank-branch-license-route",
         "financial-licenses/foreign-financial-group-adjacent-licenses",
         "financial-licenses/insurance-license-and-solvency",
+        "financial-licenses/japan-trust-business-license-stack",
         "financial-licenses/payment-license-stack",
         "financial-licenses/securities-license-stack",
         "financial-regulators/INDEX",
@@ -27188,6 +27189,7 @@
         "https://finwiki.zksc.io/financial-licenses/foreign-bank-branch-license-route",
         "https://finwiki.zksc.io/financial-licenses/foreign-financial-group-adjacent-licenses",
         "https://finwiki.zksc.io/financial-licenses/insurance-license-and-solvency",
+        "https://finwiki.zksc.io/financial-licenses/japan-trust-business-license-stack",
         "https://finwiki.zksc.io/financial-licenses/payment-license-stack",
         "https://finwiki.zksc.io/financial-licenses/securities-license-stack",
         "https://finwiki.zksc.io/financial-regulators/INDEX",
@@ -27242,13 +27244,12 @@
         "https://finwiki.zksc.io/payments/account-to-account-payment-japan",
         "https://finwiki.zksc.io/payments/cashless-jp-landscape",
         "https://finwiki.zksc.io/payments/japan-bank-api-payment-agency-route",
-        "https://finwiki.zksc.io/payments/merchant-bank-pay-account-direct-acquiring",
-        "https://finwiki.zksc.io/policy-finance/INDEX"
+        "https://finwiki.zksc.io/payments/merchant-bank-pay-account-direct-acquiring"
       ],
       "markdown_links": [],
-      "nonspace_chars": 25825,
-      "word_like_tokens": 3696,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 26382,
+      "word_like_tokens": 3783,
+      "last_modified": "2026-06-15"
     },
     {
       "source_path": "financial-licenses/bank-license-and-baas-boundary.md",
@@ -27629,6 +27630,64 @@
       "nonspace_chars": 8656,
       "word_like_tokens": 1304,
       "last_modified": "2026-06-04"
+    },
+    {
+      "source_path": "financial-licenses/japan-trust-business-license-stack.md",
+      "url": "https://finwiki.zksc.io/financial-licenses/japan-trust-business-license-stack",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/financial-licenses/japan-trust-business-license-stack.md",
+      "title": "Japan trust business license stack",
+      "domain": "financial-licenses",
+      "entry_type": "wiki_entry",
+      "canonical_anchor": "",
+      "summary": "Japanese trust activity is not controlled by one generic \"trust license.\" The practical stack is assembled from three statutes and several registration routes: the Trust Act (信託法) sets the private-law relationship; the Trust Business Act (信託業法, Act No. 154 of 2004) governs who may act as a trustee a",
+      "headings": [
+        "Japan trust business license stack",
+        "Overview",
+        "The three-statute foundation",
+        "Regime Map",
+        "The operating-type vs management-type split",
+        "Source-of-Truth Stack",
+        "Practical Decision Tree",
+        "JapanFG Relevance",
+        "Boundary Cases",
+        "Research Checklist"
+      ],
+      "wikilinks": [
+        "INDEX",
+        "financial-licenses/INDEX",
+        "financial-licenses/bank-license-and-baas-boundary",
+        "financial-licenses/insurance-license-and-solvency",
+        "financial-licenses/payment-license-stack",
+        "financial-licenses/securities-license-stack",
+        "financial-regulators/INDEX",
+        "megabanks/mizuho-fg",
+        "megabanks/mufg",
+        "megabanks/smfg",
+        "securities/INDEX",
+        "trust-banks/custody-bank",
+        "trust-banks/master-trust-bank",
+        "trust-banks/sumitomo-mitsui-trust"
+      ],
+      "resolved_wikilinks": [
+        "https://finwiki.zksc.io/INDEX",
+        "https://finwiki.zksc.io/financial-licenses/INDEX",
+        "https://finwiki.zksc.io/financial-licenses/bank-license-and-baas-boundary",
+        "https://finwiki.zksc.io/financial-licenses/insurance-license-and-solvency",
+        "https://finwiki.zksc.io/financial-licenses/payment-license-stack",
+        "https://finwiki.zksc.io/financial-licenses/securities-license-stack",
+        "https://finwiki.zksc.io/financial-regulators/INDEX",
+        "https://finwiki.zksc.io/megabanks/mizuho-fg",
+        "https://finwiki.zksc.io/megabanks/mufg",
+        "https://finwiki.zksc.io/megabanks/smfg",
+        "https://finwiki.zksc.io/securities/INDEX",
+        "https://finwiki.zksc.io/trust-banks/custody-bank",
+        "https://finwiki.zksc.io/trust-banks/master-trust-bank",
+        "https://finwiki.zksc.io/trust-banks/sumitomo-mitsui-trust"
+      ],
+      "markdown_links": [],
+      "nonspace_chars": 10484,
+      "word_like_tokens": 1735,
+      "last_modified": "2026-06-15"
     },
     {
       "source_path": "financial-licenses/payment-license-stack.md",
@@ -90513,8 +90572,8 @@
       ],
       "resolved_wikilinks": [],
       "markdown_links": [],
-      "nonspace_chars": 3380,
-      "word_like_tokens": 626,
+      "nonspace_chars": 3493,
+      "word_like_tokens": 643,
       "last_modified": "2026-06-15"
     }
   ]

@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-06-15T22:13:20+09:00",
+  "generated_at": "2026-06-15T22:29:46+09:00",
   "site_url": "https://finwiki.zksc.io/",
-  "total_entries": 1475,
+  "total_entries": 1476,
   "entries": [
     {
       "slug": "JapanFG/INDEX",
@@ -3013,6 +3013,13 @@
       "title": "Japan insurance license and solvency route",
       "api_url": "https://finwiki.zksc.io/api/entries/financial-licenses/insurance-license-and-solvency.json",
       "html_url": "https://finwiki.zksc.io/financial-licenses/insurance-license-and-solvency"
+    },
+    {
+      "slug": "financial-licenses/japan-trust-business-license-stack",
+      "domain": "financial-licenses",
+      "title": "Japan trust business license stack",
+      "api_url": "https://finwiki.zksc.io/api/entries/financial-licenses/japan-trust-business-license-stack.json",
+      "html_url": "https://finwiki.zksc.io/financial-licenses/japan-trust-business-license-stack"
     },
     {
       "slug": "financial-licenses/payment-license-stack",

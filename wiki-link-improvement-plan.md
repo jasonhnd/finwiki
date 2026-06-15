@@ -6,7 +6,7 @@
 
 | Metric | Count |
 |---|---:|
-| Entries checked | 1482 |
+| Entries checked | 1483 |
 | Entries with any issue | 0 |
 | Dead wikilink references | 0 |
 | Unique dead wikilink targets | 0 |
@@ -15,7 +15,7 @@
 | Missing route link | 0 |
 | Missing peer link | 0 |
 | Missing system / regulatory link | 0 |
-| Changed or new entries in current worktree | 0 |
+| Changed or new entries in current worktree | 2 |
 | canonical_anchor declarations checked (informational) | 12 |
 | canonical_anchor drift (informational, non-gating) | 0 |
 
@@ -41,6 +41,8 @@
 
 | Path | State | Body | Issues |
 |---|---:|---:|---|
+| `financial-licenses/japan-trust-business-license-stack.md` | `??` | 13 | ok |
+| `financial-licenses/INDEX.md` | `M` | 180 | ok |
 
 ## Domain Snapshot
 
@@ -66,7 +68,7 @@
 | `exchanges` | 147 | 0 | 12.9 |
 | `finance` | 27 | 0 | 23.0 |
 | `financial-conglomerates` | 8 | 0 | 25.6 |
-| `financial-licenses` | 8 | 0 | 47.3 |
+| `financial-licenses` | 9 | 0 | 43.7 |
 | `financial-regulators` | 53 | 0 | 21.9 |
 | `fintech` | 144 | 0 | 10.9 |
 | `foreign-financial-institutions` | 58 | 0 | 12.2 |

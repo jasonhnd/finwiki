@@ -31,6 +31,18 @@
 
 ## 2026-06-08 (In progress)
 
+### Phase E2 — create the Japan trust business license stack page (#9) / Create the trust-license-stack page / 新建信托业 license stack 页
+
+#### 日本語記録 / English / 中文
+
+- **JST 時刻**: 2026-06-15 JST。
+- **背景**: #16 で受理した E2 ショートリストの唯一の推奨ページを #9 として作成。`financial-licenses` は bank / securities / payment / insurance の横断 license-stack を持つが **trust だけ欠落**していた。
+- **作成**: `financial-licenses/japan-trust-business-license-stack`(信託業法ベース: 運用型 **免許** / 管理型 **登録** 信託会社、兼営法 信託兼営金融機関、信託契約代理業 **登録**、信託受益権販売 = FIEA Type II 境界、3 法 [信託法 / 信託業法 / 兼営法] の整理)。FSA 監督指針・信託協会・e-Gov を出典に web 調査で事実確認(Source-of-Truth Checklist 準拠、confidence: likely)。`financial-licenses/INDEX` に Domain Member(7→8)・Core License Matrix の trust 行・Active Expansion Backlog を反映。ja/zh/en mirror も生成。
+- **範囲**: `financial-licenses/japan-trust-business-license-stack.md` 新規、`financial-licenses/INDEX.md`、3 i18n mirror、生成サーフェス(`--write`)、`CHANGELOG.md`。
+- **検証**: `wiki_link_audit` dead=0 / issues=0 / drift=0、`release --check --strict` PASS(entries 1482→1483、counts in sync)、`i18n:status` missing=0 / orphaned=0、占位符 leak 0、`git diff --check` clean。
+- **EN**: Created the single recommended page from the #16 E2 shortlist. `financial-licenses` held horizontal license stacks for bank / securities / payment / insurance but **not trust**. New page `financial-licenses/japan-trust-business-license-stack` covers the Trust Business Act (operating-type **免許** vs management-type **登録** trust companies), the 兼営法 trust-bank route, trust contract agency registration, and the FIEA Type II beneficiary-right boundary, framed by the 信託法 / 信託業法 / 兼営法 trichotomy. Facts web-verified against FSA supervisory guidelines, the Trust Companies Association, and e-Gov (Source-of-Truth Checklist; `confidence: likely`). `financial-licenses/INDEX` updated: Domain Members 7→8, the Core-License-Matrix trust row, and an Active Expansion Backlog "Done" row. ja/zh/en mirrors generated. Verified: `wiki_link_audit` dead=0/issues=0/drift=0; `release --check --strict` PASS (entries 1482→1483, counts in sync); `i18n:status` missing=0/orphaned=0; zero placeholder leaks; `git diff --check` clean.
+- **中文**: 创建 #16 E2 候选清单中唯一推荐的页面。`financial-licenses` 已有 bank/securities/payment/insurance 的横向 license stack,**唯独缺 trust**。新页 `financial-licenses/japan-trust-business-license-stack` 覆盖信托业法(运用型**免许** vs 管理型**登录**信托会社)、兼营法信托银行路线、信托契约代理业登录、以及信托受益权销售 = FIEA Type II 边界,并以 信托法/信托业法/兼营法 三法框架梳理。事实通过 web 调研核实(FSA 监督指针、信托协会、e-Gov;遵循 Source-of-Truth Checklist;`confidence: likely`)。`financial-licenses/INDEX` 更新:Domain Members 7→8、Core License Matrix 的 trust 行、Active Expansion Backlog 的 Done 行。已生成 ja/zh/en 镜像。已验证:`wiki_link_audit` dead=0/issues=0/drift=0;`release --check --strict` PASS(entries 1482→1483,counts in sync);`i18n:status` missing=0/orphaned=0;零占位符泄漏;`git diff --check` clean。
+
 ### Phase E2 expansion shortlist — small-domain read-only review (#16) / Select small-domain expansion shortlist / 圈定小域扩展候选
 
 #### 日本語記録 / English / 中文

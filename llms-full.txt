@@ -1,9 +1,9 @@
 # FinWiki Full LLM Manifest
 
-Generated: 2026-06-15T22:13:19+09:00
+Generated: 2026-06-15T22:29:45+09:00
 Site: https://finwiki.zksc.io
-Markdown files: 1563
-Public pages listed: 1562
+Markdown files: 1564
+Public pages listed: 1563
 
 ## Reading Rules
 
@@ -28,7 +28,7 @@ Public pages listed: 1562
 - Domain: root
 - Type: control_doc
 - Summary: 1. money-market/japan-uncollateralized-vs-collateralized-call-market → call-market-structure(segment 比較表・「2016-04 以降 有担保コール rate 未算出(tanshi 取引なし)」・repo が secured funding を吸収・front-end 関係表・reading checklist を canonical に統合。inbound 5 file 更新) 2. loyalty/loyalty-liability-customer-funded-float → point-
-- Headings: CHANGELOG, 運用原則 / Maintenance Principles / 维护原则, 日本語, English, 中文, 2026-06-08 (In progress), Phase E2 expansion shortlist — small-domain read-only review (#16) / Select small-domain expansion shortlist / 圈定小域扩展候选, Phase E1 v12 double-batch dedup — execute 3 merges + retire 3 pages (#8) / Execute the accepted dedup merges / 执行已接受的去重合并
+- Headings: CHANGELOG, 運用原則 / Maintenance Principles / 维护原则, 日本語, English, 中文, 2026-06-08 (In progress), Phase E2 — create the Japan trust business license stack page (#9) / Create the trust-license-stack page / 新建信托业 license stack 页, Phase E2 expansion shortlist — small-domain read-only review (#16) / Select small-domain expansion shortlist / 圈定小域扩展候选
 - First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/asset-managers/mitsubishi-corp-asset-management, https://finwiki.zksc.io/asset-managers/nissay-asset-management, https://finwiki.zksc.io/asset-managers/principal-japan, https://finwiki.zksc.io/asset-managers/smt-am, https://finwiki.zksc.io/asset-managers/t-and-d-asset-management, https://finwiki.zksc.io/asset-managers/tokio-marine-asset-management, https://finwiki.zksc.io/banking/japan-banking-license-tier-comparison-matrix, https://finwiki.zksc.io/banking/japan-trust-bank-vs-global-custodian-comparison-matrix, https://finwiki.zksc.io/cooperative-banks/asahi-shinkin, https://finwiki.zksc.io/cooperative-banks/hamamatsu-iwata-shinkin, https://finwiki.zksc.io/cooperative-banks/ja-mitsui-leasing
 
 ### How to navigate FinWiki — reader profile guide
@@ -4415,6 +4415,16 @@ Public pages listed: 1562
 - Summary: Japan insurance regulation separates risk-bearing insurers from distribution intermediaries. Life insurers, non-life insurers, insurance holding companies, small-amount short-term insurers, insurance agents, and insurance brokers are separate public-regulatory categories. The underwriting entity car
 - Headings: Japan insurance license and solvency route, Overview, Regime Map, Underwriting And Distribution, Solvency Route, Entity Crosswalk, JapanFG Relevance, Source Fields
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/banking/japan-baas-operating-models, https://finwiki.zksc.io/financial-licenses/INDEX, https://finwiki.zksc.io/financial-licenses/payment-license-stack, https://finwiki.zksc.io/insurance/INDEX, https://finwiki.zksc.io/insurance/earthquake-insurance-public-private-scheme, https://finwiki.zksc.io/insurance/economic-value-based-solvency, https://finwiki.zksc.io/insurance/esr-economic-value-solvency, https://finwiki.zksc.io/insurance/insurance-agency-and-brokerage-japan, https://finwiki.zksc.io/insurance/japan-life-insurance-big-four, https://finwiki.zksc.io/insurance/japan-nonlife-big-three, https://finwiki.zksc.io/insurance/life-insurance-channel-mix
+
+### Japan trust business license stack
+- URL: https://finwiki.zksc.io/financial-licenses/japan-trust-business-license-stack
+- Source path: financial-licenses/japan-trust-business-license-stack.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/financial-licenses/japan-trust-business-license-stack.md
+- Domain: financial-licenses
+- Type: wiki_entry
+- Summary: Japanese trust activity is not controlled by one generic "trust license." The practical stack is assembled from three statutes and several registration routes: the Trust Act (信託法) sets the private-law relationship; the Trust Business Act (信託業法, Act No. 154 of 2004) governs who may act as a trustee a
+- Headings: Japan trust business license stack, Overview, The three-statute foundation, Regime Map, The operating-type vs management-type split, Source-of-Truth Stack, Practical Decision Tree, JapanFG Relevance
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX, https://finwiki.zksc.io/financial-licenses/INDEX, https://finwiki.zksc.io/financial-licenses/bank-license-and-baas-boundary, https://finwiki.zksc.io/financial-licenses/insurance-license-and-solvency, https://finwiki.zksc.io/financial-licenses/payment-license-stack, https://finwiki.zksc.io/financial-licenses/securities-license-stack, https://finwiki.zksc.io/financial-regulators/INDEX, https://finwiki.zksc.io/megabanks/mizuho-fg, https://finwiki.zksc.io/megabanks/mufg, https://finwiki.zksc.io/megabanks/smfg, https://finwiki.zksc.io/securities/INDEX, https://finwiki.zksc.io/trust-banks/custody-bank
 
 ### Japan payment license stack
 - URL: https://finwiki.zksc.io/financial-licenses/payment-license-stack
