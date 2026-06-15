@@ -114,7 +114,7 @@ Rakuten is unique in the direction of subsidy: financial profits subsidize a los
 | Deal | Vehicle | Parent retained | Tax treatment |
 |---|---|---|---|
 | **Rakuten Bank 2023** | IPO partial sell-down | ~63% post-IPO (lockup gradual release) | Capital gain on sold portion |
-| [[business/sony-fg-partial-spinoff-case|Sony FG 2025 (planned)]] | Partial spinoff (株式分配) | <20% | Deferred under [[corporate-strategy/partial-spinoff-tax-deferral|partial-spinoff regime]] |
+| [[business/sony-fg-partial-spinoff-case|Sony FG 2025 (planned)]] | Partial spinoff (株式分配) | <20% | Deferred under [[corporate-strategy/japan-kabushiki-bunpai-spinoff-regime|partial-spinoff regime]] |
 | [[business/softbank-vision-fund-arm-ipo-template|Arm 2023]] | IPO partial sell-down | ~90% | Capital gain on sold portion |
 
 Rakuten chose IPO over partial spinoff because the cash-raise was central to the parent's recapitalization needs, not just valuation crystallization. See [[corporate-strategy/spinoff-decision-tree-japan|spinoff decision tree Japan]] for full option set.

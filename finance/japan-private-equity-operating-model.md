@@ -239,7 +239,7 @@ LP base composition affects fund governance, side-letter terms, ESG reporting, a
 - [[securities/japan-ipo-listing-disclosure-route]]
 - [[securities/japan-underwriting-market-structure]]
 - [[banking/regional-bank-consolidation-pattern]]
-- [[corporate-strategy/partial-spinoff-tax-deferral]]
+- [[corporate-strategy/japan-kabushiki-bunpai-spinoff-regime]]
 - [[megabanks/mufg]]
 - [[megabanks/smfg]]
 - [[megabanks/mizuho-fg]]

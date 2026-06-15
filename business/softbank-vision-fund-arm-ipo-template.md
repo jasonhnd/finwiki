@@ -110,7 +110,7 @@ The SBG-Arm template differs from [[business/sony-fg-partial-spinoff-case|Sony F
 | Tax treatment | Capital gain on sale portion | Tax-deferred (regime-qualified) |
 | Shareholder receives | Cash via market, indirectly | Newco shares directly |
 | Primary use case | Crystallize mark, preserve optionality | Separate businesses, end conglomerate discount |
-| Regulatory route | Foreign-issuer IPO (Arm UK / Nasdaq US) | Japan partial-spinoff regime ([[corporate-strategy/partial-spinoff-tax-deferral|see regime]]) |
+| Regulatory route | Foreign-issuer IPO (Arm UK / Nasdaq US) | Japan partial-spinoff regime ([[corporate-strategy/japan-kabushiki-bunpai-spinoff-regime|see regime]]) |
 
 Both deliver valuation crystallization but for very different parent-company purposes. SBG retained for optionality and AI thesis; Sony divests to streamline portfolio.
 
@@ -141,7 +141,7 @@ Both deliver valuation crystallization but for very different parent-company pur
 - [[finance/japan-tender-offer-process|Japan tender offer process]]
 - [[finance/japan-leveraged-buyout-economics|Japan leveraged buyout economics]]
 - [[corporate-strategy/INDEX|corporate-strategy INDEX]]
-- [[corporate-strategy/partial-spinoff-tax-deferral|partial spinoff tax deferral]]
+- [[corporate-strategy/japan-kabushiki-bunpai-spinoff-regime|partial spinoff tax deferral]]
 - [[INDEX|FinWiki index]]
 
 ## Sources

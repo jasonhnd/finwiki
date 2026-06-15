@@ -31,8 +31,7 @@ Use [[financial-regulators/boj-monetary-policy]] for the central-bank policy pag
 | Lane | Start page | Use when asking |
 |---|---|---|
 | Domain overview | [[money-market/japan-money-market|Japan money market]] | How Japan's short-term funding layer fits into BoJ policy and JapanFG entities. |
-| Call-rate mechanism | [[money-market/call-market-structure|Call market structure]] | How the uncollateralized overnight call rate is formed and why it matters. |
-| Secured vs unsecured call | [[money-market/japan-uncollateralized-vs-collateralized-call-market|Uncollateralized vs collateralized call market]] | Why "the call rate" means the uncollateralized overnight rate and where the collateralized segment went. |
+| Call-rate mechanism | [[money-market/call-market-structure|Call market structure]] | How the uncollateralized overnight call rate is formed, why "the call rate" means the uncollateralized overnight rate, and where the collateralized segment went. |
 | JGB repo / secured funding | [[money-market/jgb-repo-market-japan|JGB repo market in Japan]] | How secured JGB funding, collateral scarcity, GC / SC repo, and securities lending affect market functioning. |
 | Repo contract structures | [[money-market/japan-repo-transaction-structures-gensaki-cash-collateralized-securities-lending|Repo transaction structures: gensaki vs cash-collateralized securities lending]] | The two legal forms (現先 gensaki vs 現金担保付債券貸借) underneath the repo market and how GC / SC overlays them. |
 | BoJ implementation | [[money-market/boj-open-market-operations|BoJ open market operations]] | What operation tools the BoJ uses to supply or absorb funds. |
@@ -59,7 +58,7 @@ These pages cover how Japan's money-market reference rates are formed, governed,
 
 | Topic | Page | Use when asking |
 |---|---|---|
-| Call-market segmentation | [[money-market/japan-uncollateralized-vs-collateralized-call-market|Uncollateralized vs collateralized call market]] | The difference between 無担保コール and 有担保コール, and why the collateralized call rate is no longer calculated. |
+| Call-market segmentation | [[money-market/call-market-structure|Call market structure]] | The difference between 無担保コール and 有担保コール, and why the collateralized call rate is no longer calculated. |
 | Term benchmark (credit-sensitive) | [[money-market/japan-tibor-benchmark-rate|TIBOR (Tokyo Interbank Offered Rate)]] | How JBATA-administered Japanese Yen / Euroyen TIBOR works and why Euroyen TIBOR ended in 2024. |
 | Term benchmark (risk-free) | [[money-market/japan-torf-term-risk-free-rate|TORF (Tokyo Term Risk Free Rate)]] | How QUICK Benchmarks' forward-looking term RFR is derived from TONA-referencing OIS data and contrasts with credit-sensitive TIBOR. |
 | Benchmark reform | [[money-market/japan-money-market-benchmark-reform-tona|Japan money-market benchmark reform (TONA)]] | How JPY LIBOR was replaced by TONA, why TIBOR survives, and the resulting multi-rate world. |

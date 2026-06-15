@@ -127,7 +127,6 @@ This governance is what allowed TIBOR to survive the global IBOR transition that
 - [[money-market/japan-money-market]]
 - [[money-market/call-market-structure]]
 - [[money-market/japan-money-market-benchmark-reform-tona]]
-- [[money-market/japan-uncollateralized-vs-collateralized-call-market]]
 - [[money-market/japan-ncd-negotiable-cd-market]]
 - [[money-market/boj-open-market-operations]]
 - [[derivatives/ois-tona-curve]]

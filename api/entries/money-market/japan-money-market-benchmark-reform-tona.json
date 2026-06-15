@@ -56,7 +56,7 @@
     "JapanFG Relevance"
   ],
   "body_links": {
-    "wikilinks_count": 19,
+    "wikilinks_count": 18,
     "wikilinks": [
       "INDEX",
       "derivatives/isda-2020-protocol-japan-implementation",
@@ -74,7 +74,6 @@
       "money-market/call-market-structure",
       "money-market/japan-money-market",
       "money-market/japan-tibor-benchmark-rate",
-      "money-market/japan-uncollateralized-vs-collateralized-call-market",
       "securities-firms/mizuho-securities",
       "securities-firms/mufg-mums"
     ],
@@ -95,7 +94,6 @@
       "https://finwiki.zksc.io/money-market/call-market-structure",
       "https://finwiki.zksc.io/money-market/japan-money-market",
       "https://finwiki.zksc.io/money-market/japan-tibor-benchmark-rate",
-      "https://finwiki.zksc.io/money-market/japan-uncollateralized-vs-collateralized-call-market",
       "https://finwiki.zksc.io/securities-firms/mizuho-securities",
       "https://finwiki.zksc.io/securities-firms/mufg-mums"
     ],
@@ -103,9 +101,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 8402,
-    "word_like_tokens": 1392,
+    "nonspace_chars": 8301,
+    "word_like_tokens": 1381,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-15"
   }
 }

@@ -6,7 +6,7 @@
 
 | Metric | Count |
 |---|---:|
-| Entries checked | 1485 |
+| Entries checked | 1482 |
 | Entries with any issue | 0 |
 | Dead wikilink references | 0 |
 | Unique dead wikilink targets | 0 |
@@ -15,7 +15,7 @@
 | Missing route link | 0 |
 | Missing peer link | 0 |
 | Missing system / regulatory link | 0 |
-| Changed or new entries in current worktree | 0 |
+| Changed or new entries in current worktree | 25 |
 | canonical_anchor declarations checked (informational) | 12 |
 | canonical_anchor drift (informational, non-gating) | 0 |
 
@@ -41,6 +41,31 @@
 
 | Path | State | Body | Issues |
 |---|---:|---:|---|
+| `business/japan-listed-corp-strategic-restructuring-matrix.md` | `M` | 54 | ok |
+| `business/kddi-au-financial-bundling-case.md` | `M` | 31 | ok |
+| `business/ntt-docomo-d-point-telco-finance-case.md` | `M` | 19 | ok |
+| `business/rakuten-group-mobile-finance-bundling-case.md` | `M` | 26 | ok |
+| `business/seven-bank-atm-platform-deconsolidation-case.md` | `M` | 26 | ok |
+| `business/softbank-vision-fund-arm-ipo-template.md` | `M` | 10 | ok |
+| `business/sony-fg-partial-spinoff-case.md` | `M` | 21 | ok |
+| `corporate-strategy/INDEX.md` | `M` | 27 | ok |
+| `corporate-strategy/japan-kabushiki-bunpai-spinoff-regime.md` | `M` | 19 | ok |
+| `corporate-strategy/japan-kaisha-bunkatsu-tax-regime.md` | `M` | 15 | ok |
+| `corporate-strategy/kabushiki-koufu-stock-distribution-regime.md` | `M` | 14 | ok |
+| `corporate-strategy/spinoff-decision-tree-japan.md` | `M` | 19 | ok |
+| `corporate-strategy/toshiba-tob-squeeze-out-2023-2024-case.md` | `M` | 12 | ok |
+| `finance/japan-cross-shareholding-unwinding-economics.md` | `M` | 25 | ok |
+| `finance/japan-m-a-deal-process-comparison-matrix.md` | `M` | 83 | ok |
+| `finance/japan-private-equity-operating-model.md` | `M` | 36 | ok |
+| `loyalty/INDEX.md` | `M` | 55 | ok |
+| `loyalty/point-program-unit-economics.md` | `M` | 23 | ok |
+| `manufacturer-finance/sony-group-finance-arm.md` | `M` | 10 | ok |
+| `money-market/call-market-structure.md` | `M` | 19 | ok |
+| `money-market/INDEX.md` | `M` | 36 | ok |
+| `money-market/japan-money-market-benchmark-reform-tona.md` | `M` | 23 | ok |
+| `money-market/japan-repo-transaction-structures-gensaki-cash-collateralized-securities-lending.md` | `M` | 28 | ok |
+| `money-market/japan-tibor-benchmark-rate.md` | `M` | 20 | ok |
+| `money-market/japan-torf-term-risk-free-rate.md` | `M` | 23 | ok |
 
 ## Domain Snapshot
 
@@ -61,7 +86,7 @@
 | `control-mirror` | 1 | 0 | 25.0 |
 | `control-proposal` | 1 | 0 | 28.0 |
 | `cooperative-banks` | 46 | 0 | 15.6 |
-| `corporate-strategy` | 12 | 0 | 18.7 |
+| `corporate-strategy` | 11 | 0 | 19.2 |
 | `derivatives` | 33 | 0 | 20.8 |
 | `exchanges` | 147 | 0 | 12.9 |
 | `finance` | 27 | 0 | 23.0 |
@@ -74,10 +99,10 @@
 | `insurance` | 33 | 0 | 42.7 |
 | `leasing-firms` | 24 | 0 | 22.3 |
 | `life-insurers` | 47 | 0 | 11.5 |
-| `loyalty` | 18 | 0 | 22.6 |
+| `loyalty` | 17 | 0 | 22.4 |
 | `manufacturer-finance` | 14 | 0 | 17.4 |
 | `megabanks` | 20 | 0 | 15.9 |
-| `money-market` | 18 | 0 | 23.0 |
+| `money-market` | 17 | 0 | 23.4 |
 | `non-life-insurers` | 57 | 0 | 12.4 |
 | `non-profit` | 12 | 0 | 8.9 |
 | `payment-firms` | 54 | 0 | 11.8 |

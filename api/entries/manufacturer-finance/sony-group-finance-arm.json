@@ -59,7 +59,7 @@
     "wikilinks": [
       "INDEX",
       "business/sony-fg-partial-spinoff-case",
-      "corporate-strategy/partial-spinoff-tax-deferral",
+      "corporate-strategy/japan-kabushiki-bunpai-spinoff-regime",
       "life-insurers/sony-life",
       "manufacturer-finance/INDEX",
       "manufacturer-finance/hitachi-industrial-finance-platform",
@@ -73,7 +73,7 @@
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
       "https://finwiki.zksc.io/business/sony-fg-partial-spinoff-case",
-      "https://finwiki.zksc.io/corporate-strategy/partial-spinoff-tax-deferral",
+      "https://finwiki.zksc.io/corporate-strategy/japan-kabushiki-bunpai-spinoff-regime",
       "https://finwiki.zksc.io/life-insurers/sony-life",
       "https://finwiki.zksc.io/manufacturer-finance/INDEX",
       "https://finwiki.zksc.io/manufacturer-finance/hitachi-industrial-finance-platform",
@@ -88,9 +88,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5473,
-    "word_like_tokens": 896,
+    "nonspace_chars": 5491,
+    "word_like_tokens": 898,
     "inbound_wikilinks_count": 8,
-    "last_modified": "2026-06-08"
+    "last_modified": "2026-06-15"
   }
 }

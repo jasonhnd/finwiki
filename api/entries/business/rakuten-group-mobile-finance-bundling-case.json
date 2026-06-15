@@ -66,7 +66,7 @@
       "business/softbank-vision-fund-arm-ipo-template",
       "business/sony-fg-partial-spinoff-case",
       "card-issuers/rakuten-card",
-      "corporate-strategy/partial-spinoff-tax-deferral",
+      "corporate-strategy/japan-kabushiki-bunpai-spinoff-regime",
       "corporate-strategy/spinoff-decision-tree-japan",
       "exchanges/fsa-vasp-registration-system",
       "megabanks/paypay-fg",
@@ -84,7 +84,7 @@
       "https://finwiki.zksc.io/business/softbank-vision-fund-arm-ipo-template",
       "https://finwiki.zksc.io/business/sony-fg-partial-spinoff-case",
       "https://finwiki.zksc.io/card-issuers/rakuten-card",
-      "https://finwiki.zksc.io/corporate-strategy/partial-spinoff-tax-deferral",
+      "https://finwiki.zksc.io/corporate-strategy/japan-kabushiki-bunpai-spinoff-regime",
       "https://finwiki.zksc.io/corporate-strategy/spinoff-decision-tree-japan",
       "https://finwiki.zksc.io/exchanges/fsa-vasp-registration-system",
       "https://finwiki.zksc.io/megabanks/paypay-fg",
@@ -96,9 +96,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 10495,
-    "word_like_tokens": 1636,
+    "nonspace_chars": 10504,
+    "word_like_tokens": 1637,
     "inbound_wikilinks_count": 11,
-    "last_modified": "2026-06-08"
+    "last_modified": "2026-06-15"
   }
 }

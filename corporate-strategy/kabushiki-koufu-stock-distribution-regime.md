@@ -26,7 +26,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[corporate-strategy/INDEX|corporate-strategy INDEX]] and routes into [[finance/INDEX|finance INDEX]] for transaction-finance context. Read with [[corporate-strategy/japan-kaisha-bunkatsu-tax-regime|会社分割 tax regime]] for the contrast against split-mechanism reorganizations, [[corporate-strategy/partial-spinoff-tax-deferral|partial spinoff tax deferral]] for the distribution-side parallel, [[corporate-strategy/spinoff-decision-tree-japan|spinoff decision tree Japan]] for option-set context, and [[finance/japan-tender-offer-process|Japan tender offer process]] for the public-bid alternative.
+This entry sits under [[corporate-strategy/INDEX|corporate-strategy INDEX]] and routes into [[finance/INDEX|finance INDEX]] for transaction-finance context. Read with [[corporate-strategy/japan-kaisha-bunkatsu-tax-regime|会社分割 tax regime]] for the contrast against split-mechanism reorganizations, [[corporate-strategy/japan-kabushiki-bunpai-spinoff-regime|partial spinoff tax deferral]] for the distribution-side parallel, [[corporate-strategy/spinoff-decision-tree-japan|spinoff decision tree Japan]] for option-set context, and [[finance/japan-tender-offer-process|Japan tender offer process]] for the public-bid alternative.
 
 ## TL;DR
 
@@ -142,7 +142,7 @@ See [[finance/japan-tender-offer-process|Japan tender offer process]] for the TO
 
 ## 8. Comparison With 会社分割 + 株式分配 (Spinoff Path)
 
-株式交付 is an **acquisition** mechanism (buying into a target). 会社分割 + 株式分配 (the [[corporate-strategy/japan-kaisha-bunkatsu-tax-regime|kaisha bunkatsu]] + [[corporate-strategy/partial-spinoff-tax-deferral|partial spinoff]] path) is a **divestiture** mechanism (separating an existing business). They occupy opposite sides of the corporate-reorganization map.
+株式交付 is an **acquisition** mechanism (buying into a target). 会社分割 + 株式分配 (the [[corporate-strategy/japan-kaisha-bunkatsu-tax-regime|kaisha bunkatsu]] + [[corporate-strategy/japan-kabushiki-bunpai-spinoff-regime|partial spinoff]] path) is a **divestiture** mechanism (separating an existing business). They occupy opposite sides of the corporate-reorganization map.
 
 | Direction | Mechanism |
 |---|---|
@@ -173,7 +173,7 @@ See [[finance/japan-tender-offer-process|Japan tender offer process]] for the TO
 ## Related
 
 - [[corporate-strategy/INDEX|corporate-strategy INDEX]]
-- [[corporate-strategy/partial-spinoff-tax-deferral|partial spinoff tax deferral]]
+- [[corporate-strategy/japan-kabushiki-bunpai-spinoff-regime|partial spinoff tax deferral]]
 - [[corporate-strategy/japan-kaisha-bunkatsu-tax-regime|会社分割 tax regime]]
 - [[corporate-strategy/spinoff-decision-tree-japan|spinoff decision tree Japan]]
 - [[finance/japan-tender-offer-process|Japan tender offer process]]

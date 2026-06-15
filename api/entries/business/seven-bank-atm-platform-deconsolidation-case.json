@@ -67,7 +67,7 @@
       "business/sony-fg-partial-spinoff-case",
       "business/toyota-financial-services-captive-finance-case",
       "card-issuers/seven-card-service",
-      "corporate-strategy/partial-spinoff-tax-deferral",
+      "corporate-strategy/japan-kabushiki-bunpai-spinoff-regime",
       "payment-firms/seven-payment-service",
       "payments/cashless-jp-landscape",
       "payments/nanaco-prepaid-seven-i",
@@ -88,7 +88,7 @@
       "https://finwiki.zksc.io/business/sony-fg-partial-spinoff-case",
       "https://finwiki.zksc.io/business/toyota-financial-services-captive-finance-case",
       "https://finwiki.zksc.io/card-issuers/seven-card-service",
-      "https://finwiki.zksc.io/corporate-strategy/partial-spinoff-tax-deferral",
+      "https://finwiki.zksc.io/corporate-strategy/japan-kabushiki-bunpai-spinoff-regime",
       "https://finwiki.zksc.io/payment-firms/seven-payment-service",
       "https://finwiki.zksc.io/payments/cashless-jp-landscape",
       "https://finwiki.zksc.io/payments/nanaco-prepaid-seven-i",
@@ -104,9 +104,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 12719,
-    "word_like_tokens": 2131,
+    "nonspace_chars": 12737,
+    "word_like_tokens": 2133,
     "inbound_wikilinks_count": 2,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-15"
   }
 }

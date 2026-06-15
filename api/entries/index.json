@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-06-15T21:46:43+09:00",
+  "generated_at": "2026-06-15T22:04:44+09:00",
   "site_url": "https://finwiki.zksc.io/",
-  "total_entries": 1478,
+  "total_entries": 1475,
   "entries": [
     {
       "slug": "JapanFG/INDEX",
@@ -1452,13 +1452,6 @@
       "title": "株式交付 (kabushiki koufu) — share-for-share acquisition regime under Japanese Companies Act 2021 revision",
       "api_url": "https://finwiki.zksc.io/api/entries/corporate-strategy/kabushiki-koufu-stock-distribution-regime.json",
       "html_url": "https://finwiki.zksc.io/corporate-strategy/kabushiki-koufu-stock-distribution-regime"
-    },
-    {
-      "slug": "corporate-strategy/partial-spinoff-tax-deferral",
-      "domain": "corporate-strategy",
-      "title": "パーシャルスピンオフ税制 — partial spin-off tax deferral",
-      "api_url": "https://finwiki.zksc.io/api/entries/corporate-strategy/partial-spinoff-tax-deferral.json",
-      "html_url": "https://finwiki.zksc.io/corporate-strategy/partial-spinoff-tax-deferral"
     },
     {
       "slug": "corporate-strategy/spinoff-decision-tree-japan",
@@ -5598,13 +5591,6 @@
       "html_url": "https://finwiki.zksc.io/loyalty/jre-point-and-jre-bank-ecosystem"
     },
     {
-      "slug": "loyalty/loyalty-liability-customer-funded-float",
-      "domain": "loyalty",
-      "title": "Loyalty liability as customer-funded float (point balance as a financing instrument)",
-      "api_url": "https://finwiki.zksc.io/api/entries/loyalty/loyalty-liability-customer-funded-float.json",
-      "html_url": "https://finwiki.zksc.io/loyalty/loyalty-liability-customer-funded-float"
-    },
-    {
       "slug": "loyalty/point-economy-funding-source-comparison",
       "domain": "loyalty",
       "title": "Japan point economy funding-source comparison (V / Rakuten / d / PayPay / Ponta anchors)",
@@ -6016,13 +6002,6 @@
       "title": "TORF (Tokyo Term Risk Free Rate)",
       "api_url": "https://finwiki.zksc.io/api/entries/money-market/japan-torf-term-risk-free-rate.json",
       "html_url": "https://finwiki.zksc.io/money-market/japan-torf-term-risk-free-rate"
-    },
-    {
-      "slug": "money-market/japan-uncollateralized-vs-collateralized-call-market",
-      "domain": "money-market",
-      "title": "Uncollateralized vs collateralized call market (Japan)",
-      "api_url": "https://finwiki.zksc.io/api/entries/money-market/japan-uncollateralized-vs-collateralized-call-market.json",
-      "html_url": "https://finwiki.zksc.io/money-market/japan-uncollateralized-vs-collateralized-call-market"
     },
     {
       "slug": "money-market/jgb-repo-market-japan",

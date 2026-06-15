@@ -28,7 +28,7 @@ canonical_anchor: megabanks/sony-fg
 
 ## Wiki route
 
-This entry sits under [[manufacturer-finance/INDEX|manufacturing index]]. Read it against [[manufacturer-finance/hitachi-industrial-finance-platform|Hitachi industrial finance]], [[manufacturer-finance/panasonic-captive-finance|Panasonic captive finance]], [[manufacturer-finance/toyota-financial-services|Toyota Financial Services]], and [[manufacturer-finance/mitsubishi-heavy-export-finance|MHI 輸出金融]] for peer industrial-conglomerate finance arms. Pair with [[megabanks/sony-fg|ソニーフィナンシャルグループ (SFG)]] for the entity profile, [[business/sony-fg-partial-spinoff-case|Sony FG partial spinoff case]] for the 2025 carve-out mechanics, and [[corporate-strategy/partial-spinoff-tax-deferral|partial spinoff tax deferral]] for the tax-regime backbone.
+This entry sits under [[manufacturer-finance/INDEX|manufacturing index]]. Read it against [[manufacturer-finance/hitachi-industrial-finance-platform|Hitachi industrial finance]], [[manufacturer-finance/panasonic-captive-finance|Panasonic captive finance]], [[manufacturer-finance/toyota-financial-services|Toyota Financial Services]], and [[manufacturer-finance/mitsubishi-heavy-export-finance|MHI 輸出金融]] for peer industrial-conglomerate finance arms. Pair with [[megabanks/sony-fg|ソニーフィナンシャルグループ (SFG)]] for the entity profile, [[business/sony-fg-partial-spinoff-case|Sony FG partial spinoff case]] for the 2025 carve-out mechanics, and [[corporate-strategy/japan-kabushiki-bunpai-spinoff-regime|partial spinoff tax deferral]] for the tax-regime backbone.
 
 ## TL;DR
 
@@ -106,7 +106,7 @@ This entry sits under [[manufacturer-finance/INDEX|manufacturing index]]. Read i
 ## Related
 
 - [[megabanks/sony-fg|ソニーフィナンシャルグループ]] · [[regional-banks/sony-bank|ソニー銀行]] · [[life-insurers/sony-life|ソニー生命]] · [[non-life-insurers/sony-insurance|ソニー損保]]
-- [[business/sony-fg-partial-spinoff-case|Sony FG partial spinoff case]] · [[corporate-strategy/partial-spinoff-tax-deferral|partial spinoff tax deferral]]
+- [[business/sony-fg-partial-spinoff-case|Sony FG partial spinoff case]] · [[corporate-strategy/japan-kabushiki-bunpai-spinoff-regime|partial spinoff tax deferral]]
 - [[manufacturer-finance/hitachi-industrial-finance-platform|Hitachi 産業金融]] · [[manufacturer-finance/panasonic-captive-finance|Panasonic 顧客金融]] · [[manufacturer-finance/toyota-financial-services|Toyota Financial Services]] · [[manufacturer-finance/mitsubishi-heavy-export-finance|MHI 輸出金融]]
 - [[manufacturer-finance/INDEX|manufacturing INDEX]] · [[manufacturer-finance/INDEX|manufacturer-finance INDEX]] · [[INDEX|FinWiki index]]
 

@@ -64,7 +64,7 @@
     "wikilinks": [
       "INDEX",
       "banking/regional-bank-consolidation-pattern",
-      "corporate-strategy/partial-spinoff-tax-deferral",
+      "corporate-strategy/japan-kabushiki-bunpai-spinoff-regime",
       "finance/INDEX",
       "finance/cross-border-m-a-japan",
       "finance/japan-acquisition-finance",
@@ -90,7 +90,7 @@
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
       "https://finwiki.zksc.io/banking/regional-bank-consolidation-pattern",
-      "https://finwiki.zksc.io/corporate-strategy/partial-spinoff-tax-deferral",
+      "https://finwiki.zksc.io/corporate-strategy/japan-kabushiki-bunpai-spinoff-regime",
       "https://finwiki.zksc.io/finance/INDEX",
       "https://finwiki.zksc.io/finance/cross-border-m-a-japan",
       "https://finwiki.zksc.io/finance/japan-acquisition-finance",
@@ -117,9 +117,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 12815,
-    "word_like_tokens": 1910,
+    "nonspace_chars": 12833,
+    "word_like_tokens": 1912,
     "inbound_wikilinks_count": 19,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-06-15"
   }
 }

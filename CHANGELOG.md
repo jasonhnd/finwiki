@@ -31,6 +31,22 @@
 
 ## 2026-06-08 (In progress)
 
+### Phase E1 v12 double-batch dedup — execute 3 merges + retire 3 pages (#8) / Execute the accepted dedup merges / 执行已接受的去重合并
+
+#### 日本語記録 / English / 中文
+
+- **JST 時刻**: 2026-06-15 JST。
+- **背景**: #15 で受理した task packet に基づく #8 の実行。editorial integration は opus subagent 3 並列、機械的な削除・再生成・検証は中央集約。
+- **実施した merge(source 廃止 → canonical 存続)**:
+  1. `money-market/japan-uncollateralized-vs-collateralized-call-market` → `call-market-structure`(segment 比較表・「2016-04 以降 有担保コール rate 未算出(tanshi 取引なし)」・repo が secured funding を吸収・front-end 関係表・reading checklist を canonical に統合。inbound 5 file 更新)
+  2. `loyalty/loyalty-liability-customer-funded-float` → `point-program-unit-economics`(float の 4 属性表・prepaid 対比表・4 リスク表を「Balance-sheet view」節として統合。inbound INDEX 更新)
+  3. `corporate-strategy/partial-spinoff-tax-deferral` → `japan-kabushiki-bunpai-spinoff-regime`(§6 パーシャルスピンオフ節を新設し制度構造・取引フロー・METI 2024-02-14 Sony 認定/2024 税制改正/2025-07 手引き citation を保全。Sony FG 詳細は `business/sony-fg-partial-spinoff-case` へ誘導。inbound 17 file 更新)
+- **公開 URL 除去(3 件・不可逆)**: 上記 3 source page を削除し、各々の ja/zh/en i18n mirror 計 9 件も削除。
+- **範囲**: 3 canonical 加筆 + ~23 inbound corpus page の link 再ポイント + source 3 + mirror 9 削除 + 生成サーフェス(`release --write`)+ `CHANGELOG.md`。本文事実は source から保全(捏造なし)、wiki body 変更は merge 対象に限定。
+- **検証**: `wiki_link_audit --fail-on-issues` dead=0 / issues=0 / drift=0、`i18n:status` orphaned=0 / missing=0(mirror 1438→1435)、`release --check --strict` PASS、`git diff --check` clean。entries 1485→1482。
+- **EN**: Executed #8 from the #15-accepted packet. 3 opus sub-agents did the editorial integration; deletions/regeneration/validation were centralized. Merges (source retired → canonical kept): (1) `money-market/japan-uncollateralized-vs-collateralized-call-market` → `call-market-structure` (segment table, "collateralized call rate not calculated since 2016-04", repo-absorbed-secured-funding, front-end relationship table, reading checklist; 5 inbound files); (2) `loyalty/loyalty-liability-customer-funded-float` → `point-program-unit-economics` (float 4-property / prepaid-contrast / 4-risk tables as a "Balance-sheet view" section; INDEX); (3) `corporate-strategy/partial-spinoff-tax-deferral` → `japan-kabushiki-bunpai-spinoff-regime` (new §6 partial-spinoff with 制度構造 / flow / METI 2024-02-14 Sony 認定 + 2024 税制改正 + 2025-07 手引き citations; Sony FG detail routed to `business/sony-fg-partial-spinoff-case`; 17 inbound files). **3 public URLs removed (irreversible)** — the 3 source pages + their 9 ja/zh/en mirrors deleted. Facts preserved from source (no fabrication). Verified: `wiki_link_audit --fail-on-issues` dead=0/issues=0/drift=0; `i18n:status` orphaned=0/missing=0 (mirrors 1438→1435); `release --check --strict` PASS; `git diff --check` clean; entries 1485→1482.
+- **中文**: 执行 #15 接受的 #8 任务包。3 个 opus 子代理做编辑整合,删除/重生成/校验集中处理。合并(源页退役 → canonical 保留):(1) `money-market/japan-uncollateralized-vs-collateralized-call-market` → `call-market-structure`(段比较表、"2016-04 起有担保 call 利率不再计算"、repo 吸收担保融资、前端关系表、阅读清单;5 个 inbound 文件);(2) `loyalty/loyalty-liability-customer-funded-float` → `point-program-unit-economics`(float 四属性表 / 预付对比表 / 四风险表并入"Balance-sheet view"节;INDEX);(3) `corporate-strategy/partial-spinoff-tax-deferral` → `japan-kabushiki-bunpai-spinoff-regime`(新增 §6 部分分拆节,保全制度结构 / 流程 / METI 2024-02-14 索尼认定 + 2024 税改 + 2025-07 手引 引用;索尼 FG 细节引导到 `business/sony-fg-partial-spinoff-case`;17 个 inbound 文件)。**移除 3 个公开 URL(不可逆)**——删除 3 个源页 + 各自 ja/zh/en 共 9 个镜像。事实从源页保全(无捏造)。已验证:`wiki_link_audit --fail-on-issues` dead=0/issues=0/drift=0;`i18n:status` orphaned=0/missing=0(镜像 1438→1435);`release --check --strict` PASS;`git diff --check` clean;entries 1485→1482。
+
 ### Phase E1 dedup task packet — v12 double-batch read-only review (#15) / Scope v12 double-batch dedup packet / 圈定 v12 双批去重任务包
 
 #### 日本語記録 / English / 中文
