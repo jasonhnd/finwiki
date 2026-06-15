@@ -31,6 +31,18 @@
 
 ## 2026-06-08 (In progress)
 
+### Phase E2 expansion shortlist — small-domain read-only review (#16) / Select small-domain expansion shortlist / 圈定小域扩展候选
+
+#### 日本語記録 / English / 中文
+
+- **JST 時刻**: 2026-06-15 JST。
+- **背景**: [Issue #16](https://github.com/jasonhnd/finwiki/issues/16)(#9 の planning child)。6 候補ドメイン(`security`, `retail`, `consumer-finance`, `financial-licenses`, `trading-company-finance`, `financial-conglomerates`)を INDEX backlog + 現行カバレッジで読み取り専用レビュー。volume 増を抑える Planning Principle に従い保守的に選定。
+- **結論**: 推奨は **1 ページのみ** — `financial-licenses/japan-trust-business-license-stack`(bank / securities / payment / insurance の横断 license-stack は揃うが **trust だけ欠落**。信託業法ベースで parallel set を補完。trust-banks/* は entity ページで代替不可)。`security` の 2 方向(timelock-governance / non-EVM forensics)と 貸金業+割賦 stack は **defer**。`consumer-finance`(3 大 + レイク)/ `retail`(backlog Done)/ `trading-company-finance` ・ `financial-conglomerates`(7 商社完備)は健全カバレッジで **no-expansion** と明記。
+- **範囲(planning のみ・corpus 不変)**: `docs/01-strategy/next-development-plan.md` の E2 をショートリストに差し替え、`CHANGELOG.md`。実装 handoff は #9。
+- **検証**: `docs:audit` / `docs:stale` clean、`wiki_link_audit` dead=0、`git diff --check` clean。新規 corpus entry の作成なし。
+- **EN**: #16 (planning child of #9). Read-only review of the six candidate domains against INDEX backlogs and current coverage, biased against volume growth. Result: **only 1 recommended page** — `financial-licenses/japan-trust-business-license-stack` (the domain has horizontal license-stack pages for bank/securities/payment/insurance but **none for trust**; a 信託業法-based stack completes the parallel set, and `trust-banks/*` entity pages can't serve it). `security`'s two maintainer-noted directions and a 貸金業/割賦 stack are **deferred**. `consumer-finance` (3 majors + レイク), `retail` (backlog Done), and `trading-company-finance` / `financial-conglomerates` (all seven sōgō-shōsha) are documented as **no-expansion** at healthy coverage. Planning-only: `next-development-plan.md` E2 replaced with the shortlist, `CHANGELOG.md`; implementation handed to #9. Verified: `docs:audit`/`docs:stale` clean, `wiki_link_audit` dead=0, `git diff --check` clean; no new corpus entry created.
+- **中文**: #16(#9 的规划子任务)。对 6 个候选域按 INDEX backlog + 现有覆盖做只读审查,遵循"不增量"原则保守选定。结论:**仅推荐 1 个页面**——`financial-licenses/japan-trust-business-license-stack`(该域已有 bank/securities/payment/insurance 的横向 license-stack,**唯独缺 trust**;基于信托业法补齐平行集合,trust-banks/* 实体页无法替代)。`security` 的 2 个方向与 贷金业/分期 stack **暂缓**。`consumer-finance`(3 大 + レイク)、`retail`(backlog 已 Done)、`trading-company-finance` 与 `financial-conglomerates`(7 大商社齐全)记为**当前不扩展**。仅规划、不改 corpus:`next-development-plan.md` E2 换成候选清单、`CHANGELOG.md`;实现交接到 #9。已验证:`docs:audit`/`docs:stale` clean、`wiki_link_audit` dead=0、`git diff --check` clean;未新建任何 corpus 条目。
+
 ### Phase E1 v12 double-batch dedup — execute 3 merges + retire 3 pages (#8) / Execute the accepted dedup merges / 执行已接受的去重合并
 
 #### 日本語記録 / English / 中文

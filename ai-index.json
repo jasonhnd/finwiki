@@ -1,6 +1,6 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-06-15T22:04:43+09:00",
+  "generated_at": "2026-06-15T22:13:19+09:00",
   "counts": {
     "markdown_files": 1563,
     "public_markdown_pages": 1562,
@@ -9,8 +9,8 @@
     "link_audited_entries": 1482,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 11073198,
-    "word_like_tokens": 1786641,
+    "nonspace_utf8_chars": 11074119,
+    "word_like_tokens": 1786793,
     "entity_anchors": 12,
     "entity_mirror_pages": 12
   },
@@ -607,10 +607,10 @@
         "English",
         "中文",
         "2026-06-08 (In progress)",
+        "Phase E2 expansion shortlist — small-domain read-only review (#16) / Select small-domain expansion shortlist / 圈定小域扩展候选",
         "Phase E1 v12 double-batch dedup — execute 3 merges + retire 3 pages (#8) / Execute the accepted dedup merges / 执行已接受的去重合并",
         "Phase E1 dedup task packet — v12 double-batch read-only review (#15) / Scope v12 double-batch dedup packet / 圈定 v12 双批去重任务包",
-        "i18n Batch C-1 — link-only stale mirror の source_hash 再同期 + classifier (#21 進行中) / Re-sync content-current link-only mirrors / 重新同步 link-only 陈旧镜像",
-        "i18n Batch C-2a — link-only mirror の確定的 wikilink リターゲット (#21 進行中) / Deterministic wikilink retarget for link-only mirrors / link-only 镜像的确定性 wikilink 重映射"
+        "i18n Batch C-1 — link-only stale mirror の source_hash 再同期 + classifier (#21 進行中) / Re-sync content-current link-only mirrors / 重新同步 link-only 陈旧镜像"
       ],
       "wikilinks": [
         "...",
@@ -855,6 +855,7 @@
         "https://github.com/jasonhnd/finwiki/issues/12",
         "https://github.com/jasonhnd/finwiki/issues/14",
         "https://github.com/jasonhnd/finwiki/issues/15",
+        "https://github.com/jasonhnd/finwiki/issues/16",
         "https://github.com/jasonhnd/finwiki/issues/18",
         "https://github.com/jasonhnd/finwiki/issues/19",
         "https://github.com/jasonhnd/finwiki/issues/2",
@@ -867,8 +868,8 @@
         "https://github.com/jasonhnd/finwiki/issues/7",
         "path"
       ],
-      "nonspace_chars": 604969,
-      "word_like_tokens": 108091,
+      "nonspace_chars": 607456,
+      "word_like_tokens": 108504,
       "last_modified": "2026-06-15"
     },
     {
@@ -90512,8 +90513,8 @@
       ],
       "resolved_wikilinks": [],
       "markdown_links": [],
-      "nonspace_chars": 4946,
-      "word_like_tokens": 887,
+      "nonspace_chars": 3380,
+      "word_like_tokens": 626,
       "last_modified": "2026-06-15"
     }
   ]
