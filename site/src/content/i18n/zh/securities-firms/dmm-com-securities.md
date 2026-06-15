@@ -1,53 +1,55 @@
 ---
 source: securities-firms/dmm-com-securities
-source_hash: 7ab6522b841a5466
+source_hash: 6b201041c76e7a50
 lang: zh
 status: machine
 fidelity: ok
-title: "DMM.com 证券"
-translated_at: 2026-05-31T15:29:03.874Z
+title: "DMM.com证券"
+translated_at: 2026-06-15T04:09:41.167Z
 ---
 
-# DMM.com 证券
+# DMM.com证券
 
+## Wiki 路径
 
-## 维基路线
+本词条位于 [[securities-firms/INDEX|securities-firms INDEX]]（其领域路径）之下。与 [[securities-firms/gmo-click-securities|GMOクリック証券]] 对照阅读以了解最接近的零售 FX / CFD 同业 / 对比，并与 [[financial-regulators/fsa|the FSA]] 及 [[financial-regulators/jsda|JSDA]] 对照以了解 FIEA 监管 / 自律边界。暗号资产（加密资产）事业者的视角另见 [[exchanges/jp-exchange-dmm-com-securities|the DMM exchange page]]。
 
-该条目位于[[securities-firms/INDEX|securities-firms INDEX]]阅读它反对[[securities-firms/gmo-click-securities|GMOクリック証券]]对于同行/对比上下文和[[securities/INDEX|securities index]]适用于更广泛的系统/监管边界。
+## 摘要
 
-## 长话短说
+株式会社DMM.com证券是 DMM 集团的证券 / 场外 FX / CFD 事业者。作为《金融商品交易法》上的 **第一种金融商品交易业者**，以「株式会社DMM.com证券」（关东财务局长(金商)第1629号）列入金融厅的金融商品交易业者一览。同一法人的加密资产语境由 [[exchanges/jp-exchange-dmm-com-securities|exchanges 側のページ]] 处理，本页则以 FIEA 事业者切出。
 
-DMM.com Securities 是DMM 集团的证券/外汇/差价合约运营商。 FSA金融工具经营者名单中的“DMM.com证券有限公司”、关东地方财政局（Kinsho）第1629号发布为。加密资产交换上下文[[exchanges/jp-exchange-dmm-com-securities|DMM.com証券 exchange page]]单独将其提取为 FIEA 操作员。
+## 1. 牌照 / 集团边界
 
-## 1.公司/许可证边界
-
-|项目 |阅读|
+| 项目 | 备注 |
 |---|---|
-|法定名称 | DMM网证券有限公司|
-| FSA注册|关东地方财政局（金商）第1629号|
-| FIEA 范围 | 1 级、2 级 |
-|核心产品|股票、外汇、差价合约、商品期货相关|
-|命名空间边界 | JapanFG 页面=证券/外汇；交易所页面 = 加密资产运营商上下文 |
+| 法人名称 | 株式会社DMM.com证券 |
+| 牌照路径 | 《金融商品交易法》第一种金融商品交易业（金融厅 金商业者一览） |
+| 金融厅登记 | 关东财务局长(金商)第1629号 |
+| FIEA 范围 | 第一种・第二种 |
+| 自律机构 | [[financial-regulators/jsda|JSDA]] / 金融期货交易业协会 |
+| 核心产品 | 股票 (DMM 股), 场外 FX (DMM FX), CFD |
+| 命名空间边界 | securities-firms 页面 = 证券 / FX; exchanges 页面 = 加密资产事业者 |
 
-## 2.业务角色
+## 2. 运营模式
 
-- 它提供DMM股票、DMM FX和差价合约等零售交易服务。
-- 命名空间分离很重要，因为作为 FIEA 运营商的注册和作为加密资产运营商的注册是交叉的。
-- 在零售外汇/差价合约市场[[securities-firms/gmo-click-securities|GMOクリック証券]],[[securities-firms/sbi-fx-trade|SBI FXトレード]],[[securities-firms/traders-securities|トレイダーズ証券]],[[securities-firms/saxo-bank-securities|サクソバンク証券]]就成为了比较的对象。
+DMM.com证券提供 DMM 股、DMM FX、CFD 等零售交易服务。由于作为 FIEA 事业者的登记与作为加密资产事业者的登记相互交叉，命名空间的分离至关重要。在零售 FX / CFD 市场，与 [[securities-firms/gmo-click-securities|GMOクリック証券]]・[[securities-firms/sbi-fx-trade|SBI FXトレード]]・[[securities-firms/traders-securities|トレイダーズ証券]]・[[securities-firms/saxo-bank-securities|サクソバンク証券]] 等成为比较对象。
 
-## 3.为什么独立页面很重要
+## 3. 本页的意义
 
-由于同一家公司横跨证券、外汇、差价合约和加密资产领域，1 当在一页上进行总结时，监管问题就会变得复杂起来。 JapanFG 将其视为 FIEA/证券运营​​商，而交易所则将其视为加密资产交易所。
+- 由于同一法人横跨证券・FX・CFD・加密资产周边，若汇总到 1 页面则会混淆监管论点。在 securities-firms 一侧作为 FIEA / 证券事业者处理，在 exchanges 一侧作为加密资产交换业者处理。
+- 确定 [[financial-regulators/fsa|FSA]] 监管之下的第一种事业者锚点，并提供与场外 FX 竞争对手的比较基点。
 
-## 有关的
+## 相关
 
-- [[exchanges/jp-exchange-dmm-com-securities]]
-- [[securities-firms/gmo-click-securities]]
-- [[securities-firms/traders-securities]]
-- [[securities-firms/sbi-fx-trade]]
+- [[exchanges/jp-exchange-dmm-com-securities|DMM.com証券 (exchange page)]]
+- [[securities-firms/gmo-click-securities|GMOクリック証券]]
+- [[securities-firms/traders-securities|トレイダーズ証券]]
+- [[securities-firms/sbi-fx-trade|SBI FXトレード]]
+- [[securities-firms/INDEX|securities-firms INDEX]]
+- [[INDEX|FinWiki index]]
 
 ## 来源
 
-- FSA，“金融工具业务经营者注册清单”，`kinyushohin.xlsx`。
-- DMM.com 证券，“公司简介”。
-- DMM.com 证券，“以客户为导向的业务运营政策”。
+- 金融厅, "金融商品交易业者登记一览", `kinyushohin.xlsx`。
+- DMM.com证券, "会社概要"。
+- DMM.com证券, "お客様本位の業務運営に関する方針"。

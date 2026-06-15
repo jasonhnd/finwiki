@@ -1,11 +1,11 @@
 ---
 source: structured-finance/japan-abs-market-overview
-source_hash: 2433adf2a6dee3a6
+source_hash: 1fa7619ba899d505
 lang: en
 status: machine
 fidelity: ok
 title: "Japan ABS market overview"
-translated_at: 2026-06-01T04:15:40.133Z
+translated_at: 2026-06-15T04:09:41.185Z
 ---
 
 # Japan ABS market overview

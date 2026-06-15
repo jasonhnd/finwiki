@@ -1,49 +1,55 @@
 ---
 source: regional-banks/toyama-bank
-source_hash: cf7b35ec800fdbc6
+source_hash: 2eb60c9060f466f8
 lang: zh
 status: machine
 fidelity: ok
 title: "富山银行"
-translated_at: 2026-06-01T02:31:57.113Z
+translated_at: 2026-06-15T04:09:41.183Z
 ---
+
 # 富山银行
 
-## Wiki route
+## Wiki 路径
 
-本条目位于 [[regional-banks/INDEX|regional-banks INDEX]] 下。可与 [[regional-banks/fukuoka-bank|福岡銀行]] 对照阅读，以理解同业和差异；更广泛的制度和监管边界见 [[banking/INDEX|banking index]]。
+本条目位于 [[regional-banks/INDEX|regional-banks INDEX]]（其领域路径）之下。请将其与 [[regional-banks/hokuriku-bank|北陸銀行]] 对照阅读，以了解县内占主导地位的同类对比，与 [[regional-banks/toyama-first-bank|富山第一銀行]] 对照阅读以了解同一县的第二地方银行，并与 [[financial-regulators/fsa|the FSA]] 及 [[banking/INDEX|banking]] 对照阅读，以了解监管／系统边界。
 
-## TL;DR
+## 摘要
 
-株式会社富山银行是列入金融厅银行许可名单、总部位于富山县高冈市的地方银行。它与 [[regional-banks/hokuriku-bank]]、[[regional-banks/toyama-first-bank]] 同属富山县内 regional-bank competitive set，但也是控股公司页面无法覆盖的 standalone licensed bank。
+株式会社富山银行 (The Toyama Bank) 是持有银行法上的银行免许、并列入金融厅银行免许一览的富山县高冈市本店地方银行 (第一地银)。其系谱为 1954 年 2 月开业的富山产业银行，于 1967 年 8 月改称为现名。东证标准市场上市的小规模第一地银。其业务是富山县 (以高冈为中心) 的存款受理与面向中小企业/个人的放贷这一地银标准模式，是控股公司页面无法收录的单独持牌银行。
 
-## 1. 许可 / 集团边界
+## 1. 免许／集团边界
 
-| 项目 | 说明 |
+| 项目 | 备注 |
 |---|---|
-| 法定名称 | 株式会社富山银行 |
-| 许可路径 | 《银行法》地方银行；FSA 银行许可名单 |
-| 本土地盘 | Toyama / Takaoka |
-| Wiki 角色 | Toyama regional-bank operating-company page |
+| 法人名称 | 株式会社富山银行 / The Toyama Bank, Ltd. |
+| 免许路径 | 银行法上的银行免许 (地方银行／第一地银); 金融厅银行免许一览 |
+| 集团边界 | 独立系地方银行（独立系・东证标准市场上市） |
+| 系谱 | 富山产业银行 (1954-02 开业) → 富山银行 (1967-08 改称) |
+| 主场市场 | 富山县／高冈（高冈市本店） |
+| Wiki 角色 | 富山县地方银行运营公司页面 |
 
-## 2. 运营模式
+## 2. 经营模式
 
-Toyama Bank 是一家规模较小的地方银行，重点服务富山县内零售、中小企业、地方法人和地方政府关系。它之所以重要，是因为富山并非只有一个主导银行页面，而是存在多个银行竞争者；关于这类小型地方银行面临的合并压力，见 [[banking/regional-bank-consolidation-pattern]]。
+富山银行是以富山县高冈为根据地，承担零售、中小企业、地区法人以及地方公共团体往来业务的小规模地方银行。富山县并无单一占主导地位的银行，而是根据地较大的 [[regional-banks/hokuriku-bank|北陸銀行]] 与第二地银 [[regional-banks/toyama-first-bank|富山第一銀行]] 等多家银行并存的竞争格局，本行为其中一员。北陆的系列重组动向参见 [[regional-banks/hokuhoku-fg|ほくほくフィナンシャルグループ]] 与 [[banking/regional-bank-consolidation-pattern|地域銀行統合パターン]]。
 
-## 3. 本页为何重要
+## 3. 本页的意义
 
-- 新增 FSA 精确名称下的地方银行页面。
-- 补充 [[regional-banks/hokuriku-bank]] 和 [[regional-banks/toyama-first-bank]]。
-- 基于登记名册的 B2.1  regional-bank operating-company page，并归入更广泛的 [[regional-banks/INDEX|regional-banks INDEX]] surface 跟踪。
+- 确定金融厅银行免许一览 (银行法) 上的精确名称地方银行页面。
+- 成为补充 [[regional-banks/hokuriku-bank|北陸銀行]] 与 [[regional-banks/toyama-first-bank|富山第一銀行]] 的富山独立锚点。
+- 作为有登记簿支撑的地方银行运营公司页面，在 [[regional-banks/INDEX|regional-banks INDEX]] 的界面上被追踪。
 
-## Related
+## 相关
 
-- [[regional-banks/hokuriku-bank]]
-- [[regional-banks/toyama-first-bank]]
-- [[regional-banks/hokuhoku-fg]]
-- [[banking/INDEX]]
+- [[regional-banks/hokuriku-bank|北陸銀行]]
+- [[regional-banks/toyama-first-bank|富山第一銀行]]
+- [[regional-banks/hokuhoku-fg|ほくほくフィナンシャルグループ]]
+- [[banking/regional-bank-consolidation-pattern|地域銀行統合パターン]]
+- [[regional-banks/INDEX|regional-banks INDEX]]
+- [[INDEX|FinWiki index]]
 
-## Sources
+## 来源
 
-- FSA: bank license list, regional banks, as of 2026-04-01.
-- 富山银行官方公司概要。
+- 金融厅: 银行免许一览 (`ginkou.xlsx`), 地方银行。
+- 富山银行官方 会社概要。
+- 富山银行 (Wikipedia): 系谱 富山产业银行 (1954-02) → 富山银行 (1967-08); 本店 高冈; 东证标准市场上市的第一地方银行。

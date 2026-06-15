@@ -1,53 +1,55 @@
 ---
 source: securities-firms/traders-securities
-source_hash: 8f2582cfaaeab39b
+source_hash: 04cf88af57456afb
 lang: ja
 status: machine
 fidelity: ok
 title: "トレイダーズ証券"
-translated_at: 2026-06-02T16:33:58.479Z
+translated_at: 2026-06-15T04:09:41.142Z
 ---
+
 # トレイダーズ証券
 
+## Wiki 内の位置づけ
 
-## ウィキ上の位置づけ
+本項目は[[securities-firms/INDEX|securities-firms INDEX]]（その領域ルート）の下に位置する。最も近い FX 専業のピア／対比としては[[securities-firms/sbi-fx-trade|SBI FXトレード]]と、FIEA の監督／自主規制境界としては[[financial-regulators/fsa|the FSA]]および[[financial-regulators/jsda|JSDA]]と併せて読むこと。より広いリテール FX 領域には[[securities-firms/gmo-click-securities|GMOクリック証券]]と[[securities-firms/dmm-com-securities|DMM.com証券]]が含まれる。
 
-この項目は [[securities-firms/INDEX|securities-firms INDEX]] 配下にあります。比較・対照の文脈では [[securities-firms/sbi-fx-trade|SBI FXトレード]] を、より広い制度・規制境界の文脈では [[securities/INDEX|securities index]] をあわせて参照してください。
+## TL;DR
 
-## 要約
+トレイダーズ証券株式会社は、上場持株会社トレイダーズホールディングス（東証スタンダード 8704）の 100% 子会社で、金融デリバティブ特化型のオンライン証券。金融商品取引法上の **第一種金融商品取引業者** として金融庁の金融商品取引業者一覧に「トレイダーズ証券株式会社」（関東財務局長(金商)第123号）で掲載される。主力ブランドは店頭FX の「みんなのFX」「LIGHT FX」。
 
-トレイダーズ証券は、トレイダーズ HD グループの FX / 証券事業者です。FSA の金融商品取引業者一覧では「トレイダーズ証券株式会社」、関東財務局長（金商）第123号として掲載されています。主力ブランドは「みんなのFX」などです。
+## 1. 免許／グループ境界
 
-## 1. 法人・ライセンス境界
-
-| 項目 | 読み方 |
+| 項目 | 備考 |
 |---|---|
-| 法人名 | トレイダーズ証券株式会社 |
-| FSA 登録 | 関東財務局長（金商）第123号 |
-| 金商法上の範囲 | 第一種、第二種、投資助言・代理業 |
-| 親会社境界 | トレイダーズホールディングス group |
-| 中核商品 | FX、デリバティブ、証券サービス |
+| 正式名称 | トレイダーズ証券株式会社 |
+| 免許ルート | 金融商品取引法 第一種金融商品取引業（FSA 金商業者一覧） |
+| FSA 登録 | 関東財務局長(金商)第123号 |
+| FIEA の範囲 | 第一種・第二種・投資助言・代理業 |
+| 自主規制機関 | [[financial-regulators/jsda|JSDA]] / 金融先物取引業協会 |
+| 親会社境界 | トレイダーズホールディングス（東証スタンダード 8704）100% 子会社 |
+| 中核商品 | 店頭FX（みんなのFX / LIGHT FX）, derivatives, securities services |
 
-## 2. 事業上の役割
+## 2. 事業モデル
 
-- 個人投資家向け FX / デリバティブサービスを中心に展開する。
-- 個人向け FX 市場マップでは [[securities-firms/gmo-click-securities|GMOクリック証券]]、[[securities-firms/dmm-com-securities|DMM.com 証券]]、[[securities-firms/sbi-fx-trade|SBI FXトレード]]、[[securities-firms/saxo-bank-securities|サクソバンク証券]] と比較対象になる。
-- 上場持株会社の収益源として、FX / 金融デリバティブの景気循環性を見る必要がある。
+トレイダーズ証券は、個人投資家向けの店頭FX / デリバティブサービスを中核に展開する。リテール FX マーケットマップでは [[securities-firms/gmo-click-securities|GMOクリック証券]]・[[securities-firms/dmm-com-securities|DMM.com証券]]・[[securities-firms/sbi-fx-trade|SBI FXトレード]]・[[securities-firms/saxo-bank-securities|サクソバンク証券]] と比較対象になる。上場持株会社の収益源として、FX / 金融デリバティブの景気循環性が分析上の中心。
 
-## 3. 独立ページとする理由
+## 3. このページの意義
 
-トレイダーズ証券はメガバンク系でもネット証券最大手でもありませんが、日本の個人向け FX / デリバティブ市場における重要な事業者です。FSA 登録、商品構成、グループ収益上の位置づけを個別に追う価値があります。
+- トレイダーズ証券はメガバンク系でもネット証券最大手でもないが、日本のリテール FX / デリバティブ市場の重要なオペレーター。[[financial-regulators/fsa|FSA]] 登録・商品構成・上場グループ収益における位置づけを個別に追う価値がある。
+- 上場持株会社 100% 子会社という法人境界のアンカーを確定する。
 
-## 関連項目
+## 関連
 
-- [[securities-firms/gmo-click-securities]]
-- [[securities-firms/dmm-com-securities]]
-- [[securities-firms/sbi-fx-trade]]
-- [[securities-firms/saxo-bank-securities]]
-- [[securities/INDEX]]
+- [[securities-firms/gmo-click-securities|GMOクリック証券]]
+- [[securities-firms/dmm-com-securities|DMM.com証券]]
+- [[securities-firms/sbi-fx-trade|SBI FXトレード]]
+- [[securities-firms/saxo-bank-securities|サクソバンク証券]]
+- [[securities-firms/INDEX|securities-firms INDEX]]
+- [[INDEX|FinWiki index]]
 
 ## 出典
 
-- FSA「金融商品取引業者登録一覧」`kinyushohin.xlsx`。
-- Traders Holdings「トレイダーズ証券株式会社」。
-- Traders Holdings「会社概要」。
+- FSA, "金融商品取引業者登録一覧", `kinyushohin.xlsx`.
+- Traders Holdings, "トレイダーズ証券株式会社".
+- みんなのFX, "会社概要".

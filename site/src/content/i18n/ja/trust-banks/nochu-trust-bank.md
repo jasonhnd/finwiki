@@ -1,59 +1,60 @@
 ---
 source: trust-banks/nochu-trust-bank
-source_hash: 7c12fa2b38ade4ea
+source_hash: 4b85c5dce9ca4e36
 lang: ja
 status: machine
 fidelity: ok
-title: "農中信託銀行"
-translated_at: 2026-06-02T14:54:39.056Z
+title: "農中信託銀行 (Norinchukin Trust & Banking)"
+translated_at: 2026-06-15T04:09:41.186Z
 ---
-# 農中信託銀行
 
-## ウィキ上の位置づけ
+# 農中信託銀行 (Norinchukin Trust & Banking)
 
-この項目は [[trust-banks/INDEX|trust-banks INDEX]] の配下に置かれる。[[trust-banks/mitsubishi-ufj-trust-bank|三菱UFJ信託銀行 (MUTB)]] は同業・隣接項目との比較先であり、[[banking/INDEX|banking index]] は制度、登録、監督上の境界を確認するための参照先である。本文は公開情報に基づき、会社または制度項目の位置づけを日本語で整理する。
+## Wiki 経路
+
+本項目は [[trust-banks/INDEX|trust-banks INDEX]]（そのドメイン経路）の下に位置する。メガバンクグループのピア・対比としては [[trust-banks/mitsubishi-ufj-trust-bank|三菱UFJ信託銀行 (MUTB)]] と、監督・システム上の境界としては [[financial-regulators/fsa|the FSA]] および [[banking/INDEX|banking]] と併読すること。その親会社 — 協同組織の中央機関 — は [[cooperative-banks/norinchukin|農林中央金庫]] である。
 
 ## 要約
 
-農中信託銀行 は、農中信託銀行 の公開情報で確認できる事業領域 を主な文脈として読む農林中央金庫グループの信託銀行 である。[[cooperative-banks/norinchukin|農林中央金庫]] を手がかりに、ライセンス、グループ境界、営業地盤、比較対象を切り分ける。公開情報で確認できる範囲に限定し、非公開情報や個人情報は扱わない。
+農中信託銀行 (The Norinchukin Trust & Banking Co., Ltd.) は [[cooperative-banks/norinchukin|農林中央金庫]] 100% 出資の信託銀行オペレーティングカンパニー。**銀行法の銀行免許に加え兼営法に基づく信託業務の兼営認可**を持つ信託兼営金融機関で、JA バンク／系統金融機関の中央機関である農林中央金庫グループ内で信託・資産管理・運用関連機能を担う。協同組織金融の中央機関に紐づく唯一の信託銀行という点が特徴。
 
-## 100%. ライセンス・グループ境界
+## 1. 免許／グループ境界
 
-| 項目 | メモ |
+| 項目 | 備考 |
 |---|---|
-| 正式名称 | 農中信託銀行 |
-| 種別 | 農林中央金庫グループの信託銀行 |
-| 主な市場 | 農中信託銀行 の公開情報で確認できる事業領域 |
-| 確認方法 | 金融庁、公式会社情報、上場会社開示、業界団体資料などの公開情報を照合する。 |
-| 比較参照 | 1 |
-| 関連境界 | [[cooperative-banks/norinchukin|農林中央金庫]] |
+| 法人名 | 農中信託銀行株式会社 / The Norinchukin Trust & Banking Co., Ltd. |
+| 免許経路 | 銀行法の銀行免許 + 兼営法に基づく信託業務の兼営認可（信託兼営金融機関） |
+| FSA カテゴリー | 信託銀行 |
+| 親会社境界 | [[cooperative-banks/norinchukin|農林中央金庫]] 100% 子会社 |
+| 中核的な顧客層 | JA バンク／系統金融機関／年金基金／機関投資家 |
 
-## 100%. 事業モデル
+## 2. 事業モデル
 
-農中信託銀行 の事業モデルは、顧客基盤、商品範囲、グループ内の役割、監督上の登録区分を分けて読む必要がある。銀行、信用金庫、信託銀行、証券会社、保険会社、資産運用会社、商社系金融会社では、同じ金融機関でも収益源と規制上の確認点が異なる。
-このページでは 2 を比較軸として、会社単位の公開情報と上位グループの説明を混同しないようにする。
+信託兼営金融機関として、農中信託銀行は次を担う：
 
-| 観点 | 読み方 |
-|---|---|
-| 営業地盤 | 農中信託銀行 の公開情報で確認できる事業領域 での顧客接点、店舗網、法人取引、個人向けサービスを確認する。 |
-| ライセンス | 免許、登録、業務区分、監督当局を公開一覧で確認する。 |
-| グループ | 親会社、持株会社、提携先、協同組織との関係を切り分ける。 |
-| 比較 | 同じ地域、同じ業態、同じグループ階層の項目と横並びで読む。 |
+- **系統向け信託受託**：信連等からの信託受託を含む、系統金融機関向け信託サービス。
+- **公益・特定贈与信託**：公益信託、特定贈与信託などの民事信託領域。
+- **金銭債権流動化・不動産**：金銭債権の流動化（securitization）、シンジケートローン、不動産信託受益権の媒介。
 
-## 3. このページが重要な理由
+[[cooperative-banks/norinchukin|農林中央金庫]] が [[banking/cooperative-banking-japan|協同組織金融]] の中央機関として巨大なバランスシートを運用するのに対し、農中信託銀行はその信託機能を担う別法人。[[banking/ja-bank-system-japan|JA バンクシステム]] や [[banking/jf-marine-bank-system-japan|JF マリンバンクシステム]] と資本市場／信託商品をつなぐ。監督は [[financial-regulators/fsa|金融庁]]。
 
-- 農中信託銀行 を会社または制度単位で参照できる入口にする。
-- 上位グループ、同業他社、制度項目を混同せず、公開情報だけで説明する。
-- [[cooperative-banks/norinchukin|農林中央金庫]] との比較により、営業地盤、規模、登録区分、監督境界の違いを確認できる。
-- [[cooperative-banks/norinchukin]] を読む際の補助線として、地域金融、資本市場、保険、資産運用、商社系金融の接点を整理できる。
+## 3. このページの意義
+
+- 巨大な協同組織の中央機関である農林中央金庫と、その信託銀行機能を担う別法人を分離する。
+- 普通銀行ではなく「協同組織中央機関の子会社 × 信託兼営」という特殊な位置づけを確定する。
+- JA バンクシステム、機関投資家運用、信託商品化の境界を見る際の anchor。
 
 ## 関連
 
-- [[banking/cooperative-banking-japan]]
+- [[trust-banks/INDEX|trust-banks INDEX]]
+- [[cooperative-banks/norinchukin|農林中央金庫]]
+- [[banking/cooperative-banking-japan|協同組織金融]]
 - [[banking/ja-bank-system-japan|JA Bank system / prefectural Shinren]]
 - [[banking/jf-marine-bank-system-japan|JF Marine Bank system / JF Shingyoren]]
-- [[securities/japan-securities-depository-center]]
+- [[financial-regulators/fsa|FSA]]
+- [[INDEX|FinWiki index]]
 
 ## 出典
 
-- 金融庁、公式会社情報、業界団体資料など、農中信託銀行 に関する公開情報。
+- 金融庁: 銀行免許一覧 (`ginkou.xlsx`)。
+- 農中信託銀行: 会社概要／業務紹介。

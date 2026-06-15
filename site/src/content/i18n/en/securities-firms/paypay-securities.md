@@ -1,51 +1,58 @@
 ---
 source: securities-firms/paypay-securities
-source_hash: 441e54a525659c59
+source_hash: 33a5deb3bc30a227
 lang: en
 status: machine
 fidelity: ok
 title: "PayPay Securities"
-translated_at: 2026-06-01T00:41:50.386Z
+translated_at: 2026-06-15T04:09:41.191Z
 ---
+
 # PayPay Securities
 
 ## Wiki route
 
-This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it with [[securities/INDEX|securities index]] for adjacent context and [[financial-licenses/INDEX|JapanFG index]] for the broader system boundary.
+This entry sits under [[securities-firms/INDEX|securities-firms INDEX]] (its domain route). Read it against [[securities-firms/rakuten-securities|楽天証券]] for the closest loyalty-point-economy-linked online-broker peer / contrast, and against [[financial-regulators/fsa|the FSA]] plus [[financial-regulators/jsda|JSDA]] for the FIEA supervisory / self-regulatory boundary. The embedded-finance funnel runs through [[banking/paypay-bank|PayPay銀行]] and [[payments/cashless-jp-landscape|cashless Japan landscape]].
 
 ## TL;DR
 
-PayPay Securities is a smartphone securities operator belonging to [[megabanks/paypay-fg|PayPay financial ecosystem]]. On the FSA financial instruments business operator list it appears as PayPay Securities Corporation, registered with the Kanto Local Finance Bureau under Financial Instruments Business Operator No. 第2883号. Its distinctive feature is that investment and asset-management flows are embedded inside the PayPay app, unlike a traditional online broker.
+PayPay Securities Corporation (PayPay証券株式会社; formerly One Tap BUY) is a smartphone-brokerage operator belonging to the PayPay economic sphere. As a **Type I Financial Instruments Business Operator** under the Financial Instruments and Exchange Act, it is listed on the FSA's list of financial instruments business operators as "PayPay証券株式会社" (Director-General of the Kanto Local Finance Bureau (Kinsho) 第2883号). On a public-announcement basis, PayPay Corporation became its parent company as of 2025 年, and unlike a conventional online broker, it handles the asset-management funnel inside the PayPay app.
 
-## 1. Entity / license boundary
+## 1. License / group boundary
 
-| Item | Reading |
+| Item | Notes |
 |---|---|
-| Legal name | PayPay Securities Corporation |
+| Legal name | PayPay証券株式会社 |
 | Former name | One Tap BUY |
-| FSA registration | Director-General of the Kanto Local Finance Bureau (Financial Instruments Business Operator) No. 第2883号 |
+| License route | Type I Financial Instruments Business under the Financial Instruments and Exchange Act (FSA list of financial instruments business operators) |
+| FSA registration | Director-General of the Kanto Local Finance Bureau (Kinsho) 第2883号 |
 | FIEA scope | Type I Financial Instruments Business |
-| Parent / ecosystem boundary | [[megabanks/paypay-fg|PayPay / SoftBank / LY ecosystem]] |
+| Self-regulatory body | [[financial-regulators/jsda|JSDA]] |
+| Parent / ecosystem boundary | PayPay Corporation (became parent as of 2025 年, publicly announced) / [[megabanks/paypay-fg|SoftBank / LY 系金融エコシステム]] |
 
-## 2. Business role
+> [!info] Verification status
+> The statement that the parent company moved to PayPay Corporation is a shape based on SoftBank's public press release. The specific equity stake is not asserted definitively from public information alone; here it is recorded as a "shape."
 
-- Smartphone securities brokerage with small-lot investing and asset-management flows embedded in the PayPay app.
-- Embedded brokerage model connecting payments, points, and securities.
-- The funnel with PayPay Bank, PayPay Card, and the PayPay app is central to analysis.
+## 2. Operating model
 
-## 3. Why standalone page matters
+PayPay Securities is an embedded brokerage handling smartphone brokerage, small-lot investing, and the asset-management funnel inside the PayPay app. With a model that connects payments, points, and securities, its like-for-like comparison set on fees and product lineup is loyalty-point-economy-linked online brokers such as [[securities-firms/rakuten-securities|楽天証券]]. The funnel with [[banking/paypay-bank|PayPay銀行]], the PayPay Card, and the PayPay app is the analytical center of gravity. For smartphone-brokerage / FIEA license comparison, see [[securities/financial-instruments-business-operators-japan-index|FIBO index]].
 
-PayPay Securities is not only a securities company; it is also an experiment in embedding securities functionality into a payment super-app. Analysis needs to look beyond fees and product lineup to the conversion path from PayPay balance, points, and app usage into investment behavior. See [[securities/financial-instruments-business-operators-japan-index]] for smartphone broker / FIBO license comparison and [[securities/japan-asset-manager-landscape-matrix]] for comparison across the asset-management industry.
+## 3. Why this page matters
+
+- PayPay Securities is not only a "securities company" but also an experiment in embedding securities functionality into a payment super-app. The conversion from PayPay balance, points, and the payment app into investing behavior needs to be tracked independently.
+- It establishes the Type I operator anchor under [[financial-regulators/fsa|FSA]] supervision and provides a comparison baseline for embedded-finance brokers.
 
 ## Related
 
-- [[megabanks/paypay-fg]]
-- [[banking/paypay-bank]]
-- [[payments/cashless-jp-landscape]]
-- [[securities/nisa-2024-flow]]
+- [[megabanks/paypay-fg|PayPay / SoftBank / LY 系金融エコシステム]]
+- [[banking/paypay-bank|PayPay銀行]]
+- [[payments/cashless-jp-landscape|cashless Japan landscape]]
+- [[securities/nisa-2024-flow|NISA 2024 フロー]]
+- [[securities-firms/INDEX|securities-firms INDEX]]
+- [[INDEX|FinWiki index]]
 
 ## Sources
 
-- FSA, "Financial Instruments Business Operators, etc. registration list", `kinyushohin.xlsx`.
-- PayPay Securities, "About PayPay Securities".
-- PayPay Securities public disclosure materials.
+- FSA, "金融商品取引業者登録一覧", `kinyushohin.xlsx`.
+- PayPay Securities, "PayPay証券について".
+- SoftBank, press release on PayPay acquiring PayPay Securities (2025).

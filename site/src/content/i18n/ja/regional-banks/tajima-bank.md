@@ -1,52 +1,55 @@
 ---
 source: regional-banks/tajima-bank
-source_hash: ed90e6ff8ac8f39a
+source_hash: 831e174ddcf24108
 lang: ja
 status: machine
 fidelity: ok
 title: "但馬銀行"
-translated_at: 2026-06-02T16:33:58.464Z
+translated_at: 2026-06-15T04:09:41.147Z
 ---
+
 # 但馬銀行
 
+## Wiki 経路
 
-## ウィキ上の位置づけ
+本項は [[regional-banks/INDEX|regional-banks INDEX]]（そのドメイン経路）の下に位置する。同一県内の peer／対比（兵庫の第一地銀 vs 第二地銀）としては [[regional-banks/minato-bank|みなと銀行]] と、より大規模な関西系のライバルとしては [[regional-banks/kansai-mirai-bank|関西みらい銀行]] と、監督・システム上の境界については [[financial-regulators/fsa|the FSA]] および [[banking/INDEX|banking]] と併せて読むこと。
 
-この項目は [[regional-banks/INDEX|regional-banks INDEX]] 配下に置く。競合・比較対象の文脈は [[regional-banks/kansai-mirai-bank|関西みらい銀行]]、より広い制度・規制境界は [[banking/INDEX|banking index]] と照合して読む。
+## 要点
 
-## 要約
+株式会社但馬銀行 (The Tajima Bank) は、銀行法上の銀行免許を持ち金融庁の銀行免許一覧に掲載される兵庫県豊岡市本店の地方銀行 (第一地銀)。系譜は 1897 年設立の美含銀行で、1956 年に現商号へ。兵庫県内に本店を置く唯一の第一地方銀行として、関西の主要銀行グループとは別の独立系アンカーを持つ。事業は兵庫県北部 (但馬地域) の預金受入・中小企業/個人向け貸出という地銀の標準モデル。
 
-株式会社但馬銀行は、金融庁の銀行免許一覧に掲載される兵庫県豊岡市本店の地方銀行。兵庫県・但馬地域の地域銀行事業会社として、関西の主要銀行グループとは別に独立した地域アンカーを持たせる。
+## 1. 免許／グループ境界
 
-## 1. ライセンス・グループ境界
-
-| 項目 | 注記 |
+| 項目 | 備考 |
 |---|---|
-| 正式名 | 株式会社但馬銀行 |
-| ライセンス経路 | 銀行法上の地方銀行、FSA 銀行免許一覧 |
-| グループ境界 | 独立系地方銀行 |
-| ホームマーケット | 兵庫県 / 豊岡市、但馬地域 |
-| ウィキ上の役割 | 兵庫県の地域銀行事業会社ページ |
+| 法人名 | 株式会社但馬銀行 / The Tajima Bank, Ltd. |
+| 免許経路 | 銀行法上の銀行免許 (地方銀行 / 第一地銀); 金融庁銀行免許一覧 |
+| グループ境界 | 独立系地方銀行（独立系；兵庫県唯一の第一地銀） |
+| 系譜 | 美含銀行 (1897) → 但馬銀行 (1956 商号変更) |
+| 地盤市場 | 兵庫／豊岡、但馬地域（豊岡市本店） |
+| Wiki 上の役割 | 兵庫の地方銀行（事業会社）ページ |
 
 ## 2. 事業モデル
 
-但馬銀行は、兵庫県北部を中心に個人預金、中小企業金融、地域の観光・農業金融、地域密着型リレーションシップバンキングを担う地方銀行。[[regional-banks/kansai-mirai-bank|関西みらい銀行]] や [[regional-banks/minato-bank|みなと銀行]] とは異なり、関西主要銀行市場から距離のある地域コミュニティの銀行アンカーとして整理する ([[banking/regional-bank-consolidation-pattern|地域銀行統合パターン]] 経由で系列再編動向を参照可能)。
+但馬銀行は、兵庫県北部 (但馬地域) を中心にリテール預金、中小企業金融、地域の観光／農業金融、および地域リレーションシップバンキングを担う地方銀行。第二地銀の [[regional-banks/minato-bank|みなと銀行]] や [[regional-banks/kansai-mirai-bank|関西みらい銀行]]、[[regional-banks/ikeda-senshu-bank|池田泉州銀行]] とは異なり、大阪・京都の大手銀行市場から距離のある地域コミュニティバンキングのアンカーとして整理する。関西地銀の系列再編動向は [[banking/regional-bank-consolidation-pattern|地域銀行統合パターン]] 経由で参照可能。
 
-## 3. 独立ページとする理由
+## 3. このページの意義
 
-- FSA の正式名称に対応する但馬銀行ページを補完する。
-- 兵庫県北部・但馬金融のローカル銀行アンカーを提供する。
-- 関西地域銀行を大阪 / 京都 FG ページに過度に集約してしまうことを避ける。
+- 金融庁の銀行免許一覧 (銀行法) 上の正式名称ページを確定する。
+- 北部兵庫 / 但馬の地域金融アンカーを提供する。
+- 関西の地域銀行業務を大阪・京都の FG ページへ過度に集約しないための独立アンカーになる。
 
-## 関連項目
+## 関連
 
-- [[regional-banks/kansai-mirai-bank]]
-- [[regional-banks/ikeda-senshu-bank]]
 - [[regional-banks/minato-bank|みなと銀行]]
-- [[banking/regional-bank-consolidation-pattern]]
-- [[banking/INDEX]]
+- [[regional-banks/kansai-mirai-bank|関西みらい銀行]]
+- [[regional-banks/ikeda-senshu-bank|池田泉州銀行]]
+- [[banking/regional-bank-consolidation-pattern|地域銀行統合パターン]]
+- [[regional-banks/INDEX|regional-banks INDEX]]
+- [[INDEX|FinWiki index]]
 
 ## 出典
 
-- FSA: 2026-01-01時点の銀行免許一覧、地方銀行。
+- 金融庁: 銀行免許一覧 (`ginkou.xlsx`), 地方銀行。
 - 但馬銀行 公式会社概要。
+- 但馬銀行 (Wikipedia): 系譜は美含銀行 (1897) → 但馬銀行 (1956); 本店は豊岡; 兵庫県唯一の第一地方銀行。

@@ -1,53 +1,55 @@
 ---
 source: securities-firms/sbi-fx-trade
-source_hash: cfbe1cd5c14224d6
+source_hash: 9ac79f075a732ab8
 lang: en
 status: machine
 fidelity: ok
-title: "SBI FXTRADE"
-translated_at: 2026-06-01T00:41:50.468Z
+title: "SBI FXトレード"
+translated_at: 2026-06-15T04:09:41.207Z
 ---
-# SBI FXTRADE
 
+# SBI FXトレード
 
 ## Wiki route
 
-This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it against [[securities-firms/traders-securities|トレイダーズ証券]] for peer / contrast context and [[securities/INDEX|securities index]] for the broader system / regulatory boundary.
+This entry sits under [[securities-firms/INDEX|securities-firms INDEX]] (its domain route). Read it against [[securities-firms/traders-securities|トレイダーズ証券]] for the closest FX-specialist peer / contrast, and against [[financial-regulators/fsa|the FSA]] plus [[financial-regulators/jsda|JSDA]] for the FIEA supervisory / self-regulatory boundary. The comprehensive-broker sibling is [[securities-firms/sbi-securities|SBI証券]].
 
 ## TL;DR
 
-SBI FXTRADE is the FX-specialist FIEA operator of [[megabanks/sbi-hd|SBI group]]. In the FSA financial instruments business operator list it is listed as "SBI FXTRADE Co., Ltd.", Kanto Local Finance Bureau Director-General (Kinsho) 第2635号. It is a separate corporation from SBI Securities and handles FX / regular FX accumulation / option FX / crypto CFD adjacency.
+SBI FXトレード株式会社 is the FX-specialist FIEA operator of [[megabanks/sbi-hd|SBI group]]. As a **Type I Financial Instruments Business Operator** under the Financial Instruments and Exchange Act, it is listed in the FSA's list of financial instruments business operators as "SBI FXトレード株式会社" (Director-General of the Kanto Local Finance Bureau (Kinsho) 第2635号). According to its public company profile, it is a 100% subsidiary of SBI Liquidity Market Co., Ltd., and as a separate legal entity from [[securities-firms/sbi-securities|SBI証券]] it handles OTC FX / accumulation FX / option FX / crypto CFD adjacency.
 
-## 1. Entity / license boundary
+## 1. License / group boundary
 
-| Item | Reading |
+| Item | Notes |
 |---|---|
-| Legal name | SBI FXTRADE Co., Ltd. |
-| FSA registration | Kanto Local Finance Bureau Director-General (Kinsho) 第2635号 |
-| FIEA scope | Type I financial instruments business |
-| Parent boundary | SBI Liquidity Market 100% subsidiary |
-| Core products | FX, regular FX accumulation, option FX, crypto CFD-adjacent services |
+| Legal name | SBI FXトレード株式会社 |
+| License route | Type I Financial Instruments Business under the Financial Instruments and Exchange Act (FSA list of financial instruments business operators) |
+| FSA registration | Director-General of the Kanto Local Finance Bureau (Kinsho) 第2635号 |
+| FIEA scope | Type I Financial Instruments Business |
+| Self-regulatory body | [[financial-regulators/jsda|JSDA]] / Financial Futures Association of Japan |
+| Parent boundary | SBI Liquidity Market 100% subsidiary (under [[megabanks/sbi-hd|SBI HD]]) |
+| Core products | OTC FX, accumulation FX, option FX, crypto CFD-adjacent services |
 
-## 2. Business role
+## 2. Operating model
 
-- As an FX specialist, it emphasizes small-lot trading, transparency, and SBI group linkage.
-- Separate from [[securities-firms/sbi-securities|SBI証券]]'s comprehensive broker function, it handles FX execution / retail FX products.
-- It is adjacent to [[exchanges/jp-exchange-sbi-vc-trade|SBI VC Trade]] around crypto / CFD / EPI.
+SBI FXトレード positions itself, as an FX-specialist company, around small lot sizes, transparency, and SBI group integration. Separate from the comprehensive broker function of [[securities-firms/sbi-securities|SBI証券]], it handles FX execution / retail FX products. In the crypto / CFD periphery it is adjacent to [[exchanges/jp-exchange-sbi-vc-trade|SBI VC Trade]]. In the retail OTC FX market it is compared side by side with [[securities-firms/dmm-com-securities|DMM.com証券]], [[securities-firms/gmo-click-securities|GMOクリック証券]], and [[securities-firms/traders-securities|トレイダーズ証券]].
 
-## 3. Why standalone page matters
+## 3. Why this page matters
 
-In the SBI group, securities, banking, crypto assets, and FX are closely intertwined. Separating SBI FXTRADE makes it possible to track an FX-specialist company, Type I FIEA status, crypto CFD adjacency, and NEOBANK linkage without conflating them.
+- In the SBI group, securities, banking, crypto assets, and FX are closely intertwined. By making SBI FXトレード standalone, one can track the FX-specialist company, FIEA Type I, crypto CFD adjacency, and NEOBANK integration without conflating them.
+- Establishes the FX-specialist Type I operator anchor under [[financial-regulators/fsa|FSA]] supervision, and records the parent-company (SBI Liquidity Market) boundary.
 
 ## Related
 
-- [[megabanks/sbi-hd]]
-- [[securities-firms/sbi-securities]]
-- [[exchanges/jp-exchange-sbi-vc-trade]]
-- [[securities-firms/dmm-com-securities]]
-- [[securities-firms/gmo-click-securities]]
+- [[megabanks/sbi-hd|SBI HD]]
+- [[securities-firms/sbi-securities|SBI証券]]
+- [[exchanges/jp-exchange-sbi-vc-trade|SBI VC Trade]]
+- [[securities-firms/traders-securities|トレイダーズ証券]]
+- [[securities-firms/INDEX|securities-firms INDEX]]
+- [[INDEX|FinWiki index]]
 
 ## Sources
 
-- FSA, "Financial Instruments Business Operators Registration List", `kinyushohin.xlsx`.
-- SBI FXTRADE, "Company Overview".
-- SBI Holdings, "SBI FXTRADE - SBI Group Company List".
+- FSA, "金融商品取引業者登録一覧", `kinyushohin.xlsx`.
+- SBI FXTRADE, "会社概要".
+- SBI Holdings, "SBI FXトレード - SBIグループ企業一覧".

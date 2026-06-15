@@ -1,53 +1,56 @@
 ---
 source: securities-firms/mufg-esmart-securities
-source_hash: a659cc849fcc5368
+source_hash: 84779fb04dc5573a
 lang: zh
 status: machine
 fidelity: ok
-title: "三菱UFJ eSmart 证券"
-translated_at: 2026-05-31T23:59:49.381Z
+title: "三菱UFJ eSmart证券"
+translated_at: 2026-06-15T04:09:41.184Z
 ---
-# 三菱UFJ eSmart 证券
 
+# 三菱UFJ eSmart证券
 
 ## Wiki 路径
 
-本条目位于 [[securities-firms/INDEX|securities-firms INDEX]] 之下。可结合 [[securities-firms/sbi-securities|SBI証券 (SBI Securities)]] 阅读，以获得同业 / 对比语境；也可结合 [[securities/INDEX|securities index]] 阅读，以理解更大的系统 / 监管边界。
+本条目位于 [[securities-firms/INDEX|securities-firms INDEX]]（其领域路径）之下。请将其与 [[securities-firms/sbi-securities|SBI証券]] 对照阅读，以了解最接近的在线券商同类对比，并与 [[financial-regulators/fsa|the FSA]] 及 [[financial-regulators/jsda|JSDA]] 对照阅读，以了解金商法（FIEA）上的监管／自主规制边界。集团战略视角与 [[megabanks/mufg|MUFG]] 以及批发证券的兄弟公司 [[securities-firms/mufg-mums|三菱UFJモルガン・スタンレー証券]] 相关。
 
-## TL;DR
+## 摘要
 
-三菱UFJ eSmart 证券是 [[megabanks/mufg|MUFG]] 集团的线上证券运营主体。它承接原 au Kabucom 证券的脉络，在金融厅金融商品交易业者名单中以“三菱UFJ eSmart 证券株式会社”列示，登记为关东财务局长（金商）第61号。
+三菱UFJ eSmart证券株式会社是 [[megabanks/mufg|MUFG]] 集团的在线证券运营商。它承袭旧 auKabucom证券的系谱，据公开新闻稿，于 2025 年 1 月末成为 [[megabanks/mufg-bank|三菱UFJ銀行]] 的 100% 子公司，并于 2025 年 2 月改称为「三菱UFJ eSmart证券」。作为金融商品交易法上的 **第一种金融商品交易业者** 列入金融厅的金融商品交易业者一览（关东财务局长(金商)第61号）。
 
-## 1. 法人 / 牌照边界
+## 1. 免许／集团边界
 
-| Item | Reading |
+| 项目 | 备注 |
 |---|---|
-| Legal name | 三菱UFJ eSmart 证券株式会社 |
-| Former brand | au Kabucom 证券 |
-| FSA registration | 关东财务局长（金商）第61号 |
-| FIEA scope | 第一种、第二种、投资顾问 / 代理业 |
-| Parent boundary | [[megabanks/mufg|MUFG]] / 三菱UFJ证券HD group |
+| 法人名称 | 三菱UFJ eSmart证券株式会社 |
+| 旧品牌 | auKabucom证券 |
+| 免许路径 | 金融商品交易法 第一种金融商品交易业（FSA 金商业者一览） |
+| FSA 登记 | 关东财务局长(金商)第61号 |
+| 金商法范围 | 第一种・第二种・投资咨询・代理业 |
+| 自主规制机构 | [[financial-regulators/jsda|JSDA]] |
+| 母公司边界 | [[megabanks/mufg-bank|三菱UFJ銀行]] 100% 子公司（2025-01，公开发布）／[[megabanks/mufg|MUFG]] 集团 |
 
-## 2. 业务角色
+## 2. 经营模式
 
-- 作为 MUFG 的 online brokerage channel，经营股票、投信、信用交易、期货、FX 等业务。
-- 由 2025 年 的 au Kabucom 证券更名后，品牌重心从 KDDI 色彩转向 MUFG 品牌。
-- 它是不同于 [[megabanks/mufg-bank|三菱UFJ銀行]]、[[securities-firms/mufg-mums|三菱UFJモルガン・スタンレー証券]] 的 retail online broker layer。
+三菱UFJ eSmart证券作为 MUFG 的在线券商渠道，经营股票、投信、信用交易、期货、外汇等。由于 2025 年的母公司变动（三菱UFJ证券HD → 三菱UFJ银行）以及自 auKabucom证券的更名，其从 KDDI 色彩转向 MUFG 品牌。它与以批发、法人为主的 [[securities-firms/mufg-mums|三菱UFJモルガン・スタンレー証券]] 不同，处于零售在线券商层，与旧 au 经济圈的联动背景则留在 [[megabanks/au-fh|au フィナンシャル]] 一侧。
 
-## 3. Why standalone page matters
+## 3. 本页的意义
 
-MUFG 是大型 commercial bank / trust / wholesale securities group，但 retail digital brokerage 属于另一条竞争轴。需要独立页面来比较 SBI 证券、乐天证券、PayPay 证券，并跟踪银行 app 联动与 NISA 账户获取。
+- MUFG 虽是庞大的商业银行／信托／批发证券集团，但零售数字券商是另一条竞争轴线。为追踪与 [[securities-firms/sbi-securities|SBI証券]]・乐天证券・PayPay证券的比较、银行 app 联动以及 NISA 账户获取，需要独立页面。
+- 记录 [[financial-regulators/fsa|FSA]] 监管之下第一种运营商的锚点，以及 2025 年的母公司与更名。
 
-## Related
+## 相关
 
-- [[megabanks/mufg]]
-- [[megabanks/mufg-bank]]
-- [[securities-firms/mufg-mums]]
-- [[megabanks/au-fh]]
-- [[securities/nisa-2024-flow]]
+- [[megabanks/mufg|MUFG]]
+- [[megabanks/mufg-bank|三菱UFJ銀行]]
+- [[securities-firms/mufg-mums|三菱UFJモルガン・スタンレー証券]]
+- [[megabanks/au-fh|au フィナンシャル]]
+- [[securities/nisa-2024-flow|NISA 2024 フロー]]
+- [[securities-firms/INDEX|securities-firms INDEX]]
+- [[INDEX|FinWiki index]]
 
-## Sources
+## 来源
 
-- FSA, "金融商品交易业者登记名单", `kinyushohin.xlsx`.
-- MUFG Securities Holdings, "三菱UFJ eSmart 证券株式会社".
-- MUFG, public release on new entity / MUFG digital financial service brand.
+- 金融厅, “金融商品交易业者登记一览”, `kinyushohin.xlsx`。
+- 三菱UFJ eSmart证券 (旧 auKabucom证券), 新闻稿: 三菱UFJ银行完全子公司化・更名 (2025-01-31)。
+- 三菱UFJ eSmart证券, 新闻稿: 关于母公司变动的通知 (2025-01-24)。
