@@ -1,63 +1,64 @@
 ---
 source: payment-firms/jcb-international
-source_hash: 37765abe1b531ccd
+source_hash: c4b942ff3097e23a
 lang: en
 status: machine
 fidelity: ok
 title: "JCB International"
-translated_at: 2026-05-31T23:59:49.383Z
+translated_at: 2026-06-15T03:48:21.859Z
 ---
+
 # JCB International
 
 ## Wiki route
 
-This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it against [[card-issuers/jcb|JCB]] for peer / contrast context (parent / scheme operator relationship) and [[payments/japan-card-issuer-acquirer-processor-split|Japan card issuer / acquirer / processor split]] for the broader system / regulatory boundary.
+This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it against [[card-issuers/jcb|JCB]] for peer / contrast context (the parent / scheme-operator relationship) and [[payments/japan-card-issuer-acquirer-processor-split|Japan card issuer / acquirer / processor split]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
-JCB International Co., Ltd. (JCBI) is the **100% subsidiary responsible for overseas business** of [[card-issuers/jcb|JCB]]. It centrally handles the 3  functions for the international "JCB" brand: **overseas issuance, overseas merchant acquiring, and brand licensing**. Domestic issuance in Japan is handled directly by the parent company JCB, while alliances with overseas licensee banks (Asia, the Americas, Europe) and operation of the overseas merchant network, including reciprocal acceptance with Discover / UnionPay, all run through JCBI.
+JCB International Co., Ltd. (JCBI) is the **100% subsidiary that handles the overseas business** of [[card-issuers/jcb|JCB]]. It single-handedly carries the 3  functions for the international brand "JCB": **overseas issuance / overseas merchant acquiring / brand licensing**. Whereas domestic Japan issuance is handled directly by the parent JCB, partnerships with overseas licensee banks (Asia / Americas / Europe) and operation of the overseas merchant network (including mutual use with Discover / UnionPay) all go through JCBI.
 
 ## 1. License / group boundary
 
 | Item | Notes |
 |---|---|
-| Legal name | JCB International Co., Ltd. |
-| Brand role | Brand licensor + overseas acquirer + overseas issuer support (overseas expansion part of the 3-party scheme) |
-| Group boundary | 100% subsidiary of [[card-issuers/jcb|JCB]] — domestic JCB handles domestic issuance, while JCBI handles overseas business |
-| Wiki role | Entity page for JCB's "global brand expansion" side. Domestic issuance and domestic merchants are handled on the parent JCB page. |
+| Legal name | 株式会社ジェーシービー・インターナショナル (JCB International Co., Ltd.) |
+| Brand role | Brand licensor + overseas acquirer + overseas issuer support (the overseas-expansion part of the 3-party scheme) |
+| Group boundary | 100% subsidiary of [[card-issuers/jcb|JCB]] — domestic JCB handles domestic issuance, JCBI handles overseas |
+| Wiki role | The entity page for JCB's "global brand expansion" side. Domestic issuance and domestic merchants are handled on the parent JCB page. |
 
 ## 2. Business lines in Japan
 
-JCBI itself has **overseas-facing functions, but its corporate head office is in Tokyo (Minami-Aoyama, Minato-ku)**, and personnel and head-office functions are concentrated in Japan. Its activities in Japan are mainly:
+JCBI itself **has overseas-oriented functions but its corporate head office is in Tokyo (Minami-Aoyama, Minato-ku)**, with personnel and headquarters functions concentrated in Japan. Its activities within Japan are mainly the following:
 
-- **Overseas merchant network operation**: merchant contracts and support in Asia (China, Korea, Taiwan, Southeast Asia), the Americas via Discover alliance, and major European tourism areas.
-- **Support for merchants serving inbound foreign visitors**: processing support when domestic merchants accept payments from overseas-issued JCB cardholders visiting Japan.
-- **Brand contracts with overseas licensee banks**: provision of JCB brand licenses to partner banks in Asia, such as Bangkok Bank and Bank of Communications.
-- **Reciprocal acceptance contracts with other brands such as Discover / UnionPay**: management of operating contracts that allow JCB cards to be used overseas at Discover / UnionPay merchants and vice versa.
+- **Overseas merchant-network operation**: merchant contracts and support in Asia (China / Korea / Taiwan / Southeast Asia), the Americas (via the Discover partnership), and major European tourist destinations.
+- **Support for inbound (foreign-visitor) merchants**: handling the processing when domestic merchants accept payments by overseas-issued JCB cardholders visiting Japan.
+- **Brand contracts with overseas licensee banks**: granting JCB brand licenses to Asian partner banks (Bangkok Bank / Bank of Communications, etc.).
+- **Mutual-use contracts with other brands such as Discover / UnionPay**: managing the operational contracts that let JCB cards be used overseas at Discover merchants / UnionPay merchants, and vice versa.
 
-Because domestic consumer issuance is handled by the parent [[card-issuers/jcb|JCB]], JCBI has almost no direct contact point with general consumers in Japan.
+Because issuance for domestic consumers is handled by the parent [[card-issuers/jcb|JCB]], JCBI has almost no direct contact with general domestic consumers.
 
 ## 3. Strategy & competitive position vs JCB / domestic schemes
 
-JCB has a structure close to a **3-party scheme** (Amex-type: the company combines issuance, merchant contracts, and brand operation), but overseas it uses a hybrid model through **4-party scheme** licensee banks. JCBI is the operating entity for this overseas expansion model. While Visa / Mastercard are pure scheme operators with a fully 4-party model, JCB uses both direct in-house issuance and licensing. Overseas merchant coverage trails Visa / Mastercard by a wide margin, so JCB fills gaps through **reciprocal acceptance alliances with Discover (US) and UnionPay (China)**, and JCBI is the contact point for those alliance contracts and operations. From the perspective of domestic issuers, unlike Visa / Mastercard-led issuers such as [[card-issuers/smbc-card|三井住友カード]] and [[card-issuers/mufg-nicos|三菱UFJニコス]], JCB-brand issuers (Rakuten Card JCB versions, JCB proprietary cards, etc.) share the overseas merchant network through JCBI.
+JCB has a structure close to a **3-party scheme** (the [[payment-firms/american-express-international-japan|American Express]] type, where the company itself combines issuing + merchant contracting + brand), but overseas it adopts a **4-party scheme hybrid via licensee banks** — and the entity that executes this overseas-expansion model is JCBI. Whereas Visa / Mastercard are pure scheme operators of a complete 4-party model, JCB uses both "in-house direct issuance + license granting" selectively. Its overseas merchant coverage trails Visa / Mastercard by a wide margin, but it takes a strategy of filling the gap through **mutual-use partnerships with Discover (US) / UnionPay (China)**, with JCBI serving as the window for those partnership contracts and operations. From a domestic-issuer perspective, unlike Visa / Mastercard-centric issuers such as [[card-issuers/smbc-card|三井住友カード]] or [[card-issuers/mufg-nicos|三菱UFJニコス]], JCB-brand issuers (the JCB versions of Rakuten Card etc., and JCB proper) share the overseas merchant network via JCBI.
 
 ## 4. Why this page matters
 
-- Boundary page for **separating JCB's overseas brand business and domestic issuance business at the legal-entity level**
-- Identifies the **contracting entity** for Discover / UnionPay reciprocal acceptance contracts (JCBI, not JCB)
-- Clarifies the ambiguity in international-brand comparison over whether JCB is a 3-party or 4-party scheme
+- A boundary page to **separate and organise, at the entity level**, JCB's "overseas brand business" and its "domestic issuance business"
+- To make explicit the **contracting entity** for the Discover / UnionPay mutual-use contracts (JCBI, not JCB)
+- To clear up the ambiguity in international-brand comparisons of whether "JCB is a 3-party or a 4-party"
 
 ## Related
 
-- [[card-issuers/jcb|JCB]] (parent company / domestic issuer)
+- [[card-issuers/jcb|JCB]] (parent company, handles domestic issuance)
 - [[payment-firms/mastercard-japan|Mastercard Japan]] / [[payment-firms/visa-worldwide-japan|Visa Worldwide Japan]] (4-party competing schemes)
 - [[payment-firms/american-express-international-japan|American Express International Japan]] (3-party competitor)
-- [[payment-firms/unionpay-international-japan|UnionPay International Japan]] (reciprocal acceptance partner)
-- [[card-issuers/smbc-card]] / [[card-issuers/rakuten-card]] (domestic issuers of the JCB brand)
+- [[payment-firms/unionpay-international-japan|UnionPay International Japan]] (mutual-use partner)
+- [[card-issuers/smbc-card]] / [[card-issuers/rakuten-card]] (domestic issuers issuing the JCB brand)
 - [[payments/japan-card-issuer-acquirer-processor-split]]
 
 ## Sources
 
-- JCB Global (English corporate site): https://www.global.jcb/en/
-- JCB company overview (Japanese): https://www.global.jcb/ja/about-us/
-- JCB International overseas expansion introduction: https://www.global.jcb/ja/about-us/global-network.html
+- JCB Global (英文コーポレートサイト): https://www.global.jcb/en/
+- JCB 会社概要 (日本語): https://www.global.jcb/ja/about-us/
+- JCB International 海外展開紹介: https://www.global.jcb/ja/about-us/global-network.html

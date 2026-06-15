@@ -1,12 +1,13 @@
 ---
 source: payment-firms/seven-payment-service
-source_hash: 97c9ea60a2958dc6
+source_hash: c28be85083602c53
 lang: en
 status: machine
 fidelity: ok
 title: "Seven Payment Service"
-translated_at: 2026-06-01T00:41:50.469Z
+translated_at: 2026-06-15T03:48:21.822Z
 ---
+
 # Seven Payment Service
 
 
@@ -16,22 +17,22 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it with 
 
 ## TL;DR
 
-Seven Payment Service is a BtoC payout and ATM cash-receipt operator around [[regional-banks/seven-bank|Seven Bank]] / [[retail/seven-and-i-hd|Seven & i]]. It provides corporate services such as cash receipt, refunds, and reward payments through Seven Bank ATMs.
+Seven Payment Service is a BtoC payout and ATM cash-receipt operator around [[regional-banks/seven-bank|Seven Bank]] / [[retail/seven-and-i-hd|Seven & i]]. It provides corporate clients with cash receipt, refunds, reward payouts, and similar services using Seven Bank ATMs.
 
-## 1. Entity / license boundary
+## 1. Legal-entity / license boundary
 
 | Item | Reading |
 |---|---|
-| Legal entity | Seven Payment Service Co., Ltd. |
+| Legal entity | 株式会社セブン・ペイメントサービス |
 | Group context | Seven Bank / Seven & i retail ATM ecosystem |
 | Main lanes | ATM receipt, BtoC payout, refunds, cash pickup, funds transfer |
-| FSA registry route | FSA funds-transfer list: Kanto Local Finance Bureau Director-General 第00058号, Seven Payment Service Co., Ltd. |
+| FSA registry route | FSA funds-transfer list: 関東財務局長 第00058号, 株式会社セブン・ペイメントサービス. |
 
 ## 2. Business role
 
 - Turns the Seven Bank ATM network into a payout and cash-receipt rail for companies and municipalities.
 - Complements Seven Card Service and Seven Bank by adding non-account payout workflows.
-- A useful case for cash-digital bridge infrastructure in Japan.
+- A useful case for cash-digital bridge infrastructure in Japan, sharing the 資金移動業 payout / wallet bracket with loyalty-led operators such as [[payment-firms/jal-payment-port|JALペイメント・ポート]] while staying ATM / cash-receipt focused.
 
 ## 3. Why this standalone page matters
 

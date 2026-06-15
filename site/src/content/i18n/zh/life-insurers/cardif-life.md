@@ -1,53 +1,53 @@
 ---
 source: life-insurers/cardif-life
-source_hash: ab028c02626b694e
+source_hash: 0ba963b0056f2d1f
 lang: zh
 status: machine
 fidelity: ok
-title: "卡迪夫人寿保险"
-translated_at: 2026-05-31T11:13:44.842Z
+title: "嘉迪夫生命保险 (Cardif Life)"
+translated_at: 2026-06-15T03:48:21.844Z
 ---
 
-# 卡迪夫人寿保险
+# 嘉迪夫生命保险 (Cardif Life)
 
 
-## 维基路线
+## Wiki route
 
-该条目位于 [[life-insurers/INDEX|life-insurers INDEX]] 下。使用 [[insurance/INDEX|insurance index]] 来读取相邻上下文，使用 [[financial-licenses/INDEX|JapanFG index]] 来读取更广泛的系统边界。
+本词条归属于 [[life-insurers/INDEX|life-insurers INDEX]]。可与 [[life-insurers/credit-agricole-life|クレディ・アグリコル生命]] 这一最接近的同域同业并列阅读——两者均为法资银行关联、面向 bancassurance 的日本寿险公司——并对照 [[insurance/INDEX|insurance index]] 了解邻近语境、对照 [[financial-licenses/INDEX|JapanFG index]] 了解更宏观的体系边界。
 
-##TL;博士
+## TL;DR
 
-卡迪夫人寿保险株式会社是一家被列入金融厅人寿保险公司名单和人寿保险协会会员名单的外资日本人寿保险公司。它与 [[foreign-financial-institutions/bnp-paribas-japan]] 处于相同的法国巴黎银行/卡迪夫邻接关系下，但 FinWiki 将其视为信用保护和面向银行保险的人寿保险运营公司，而不是银行/证券页面。
+嘉迪夫生命保险株式会社是一家载于金融厅 life-insurer list 与生命保险协会会员一览的 foreign-affiliated Japan life insurer。以与 [[foreign-financial-institutions/bnp-paribas-japan]] 相同的 BNP Paribas / Cardif adjacency 来审视，但在 FinWiki 中并不作为 bank / securities page，而是作为 credit protection and bancassurance-oriented life-insurance operating company 来处理。
 
-## 1。许可证/组边界
+## 1. License / group boundary
 
-|物品|笔记|
+| Item | Notes |
 |---|---|
-|法定名称|卡迪夫人寿保险有限公司|
-|许可途径|保险业法——人寿保险公司； FSA 人寿保险公司名单|
-|行业机构|日本人寿保险协会会员|
-|组邻接|法国巴黎银行卡迪夫 / [[foreign-financial-institutions/bnp-paribas-japan]]|
-|维基角色|与银行保险/债权人保险相关的外资人寿保险公司|
+| Legal name | カーディフ生命保険株式会社 |
+| License route | Insurance Business Act life-insurance company; FSA life insurer list |
+| Industry body | Life Insurance Association of Japan member |
+| Group adjacency | BNP Paribas Cardif / [[foreign-financial-institutions/bnp-paribas-japan]] |
+| Wiki role | Foreign-affiliated life insurer with bancassurance / creditor-insurance relevance |
 
-## 2。运营模式
+## 2. Operating model
 
-Cardif 的日本人寿保险界面对于抵押/贷款保护、信用保护和银行渠道保险分析非常有用。它更接近产品嵌入的银行保险，而不是销售人员驱动的传统人寿保险分销。
+嘉迪夫在日本的寿险业务面，对于 mortgage / loan protection、credit protection 以及 bank-channel insurance 分析很有用。它更接近于产品内嵌式的 bancassurance，而非以营销队伍驱动的传统寿险分销。
 
-## 3。为什么此页面很重要
+## 3. Why this page matters
 
-- 增加一家经登记确认的外资人寿保险运营公司。
-- 将保险与银行贷款和信用保护产品联系起来。
-- 将法国巴黎银行/证券业务与保险承保分开。
+- 增加一家经登记簿确认的 foreign-affiliated life-insurance operating company。
+- 将保险与银行放贷及 credit-protection products 连接起来。
+- 将 BNP Paribas 的银行 / 证券语境与保险承保分离开来。
 
-＃＃ 有关的
+## Related
 
 - [[foreign-financial-institutions/bnp-paribas-japan]]
 - [[insurance/life-insurance-channel-mix]]
 - [[life-insurers/dai-ichi-frontier-life]]
 - [[life-insurers/td-financial-life]]
 
-## 来源
+## Sources
 
-- FSA：人寿保险公司许可证列表，截至 2026-04-13。
-- 日本人寿保险协会：会员公司列表，截至 2026-04-13。
-- 卡迪夫生活官方网站。
+- FSA: life-insurance company license list, as of 2026-04-13。
+- Life Insurance Association of Japan: member-company list, as of 2026-04-13。
+- カーディフ生命 official website。

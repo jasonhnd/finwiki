@@ -1,13 +1,14 @@
 ---
 source: financial-regulators/shoko-chukin
-source_hash: 9bb0d146db3aa019
+source_hash: da0ecb9c80032428
 lang: en
 status: machine
 fidelity: ok
-title: "Shoko Chukin Bank"
-translated_at: 2026-06-01T02:31:57.117Z
+title: "商工中金 (Shoko Chukin Bank)"
+translated_at: 2026-06-15T03:48:21.935Z
 ---
-# Shoko Chukin Bank
+
+# 商工中金 (Shoko Chukin Bank)
 
 ## Wiki route
 
@@ -15,103 +16,104 @@ This entry sits under [[financial-regulators/INDEX|financial-regulators INDEX]].
 
 ## TL;DR
 
-**Private commercial bank version** of the former policy financial institution. 1936  (昭和 11 年) Established as a special company based on the Shoko Chukin Bank Act, 2008-10  demutualized, **Sale of 2023-10  government-held shares completed → Completely privatized**. Specializing in loans for small and medium-sized business associations and members + general small and medium-sized enterprises loans. 2016-2017 ** Crisis response loan fraud case** (approximately 4,800 件 scale), received a business improvement order of 2  degree from the Financial Services Agency, and privatization was completed after a total management change and governance reform. Under the three-way competition in the small and medium-sized business market with megabanks, regional banks, and credit unions, the post-privatization phase seeks to differentiate itself through "membership ties + business succession/M&A" despite being inferior in scale. ^[extracted]
+The **privatized-into-a-private-commercial-bank version** of a former policy-finance institution. Established as a special company under the Shoko Chukin Bank Act in 1936 (昭和 11 年), converted into a joint-stock company in 2008-10 , **completion of the sale of government-held shares in 2023-10  → full privatization**. Specialized in lending to SME cooperatives and their members + general SME lending. Following the 2016-2017  **crisis-response-lending fraud scandal** (on the order of 4,800 件), it received 2  business-improvement orders from the FSA, and reached the completion of privatization after a complete replacement of management and governance reform. In a three-way competition with megabanks, regional banks, and shinkin in the SME market, it is in a post-privatization phase of seeking "member-closeness + business succession / M&A" differentiation while being inferior in scale. ^[extracted]
 
 ## 1. Company profile
 
-**Official name**: Shoko Chukin Bank Co., Ltd. ^[extracted]
+**Legal name**: 株式会社商工組合中央金庫 ^[extracted]
 **English name**: The Shoko Chukin Bank, Ltd. ^[extracted]
-**Abbreviation**: Shoko Chukin Bank / SCB
-**Established**: 1936-11-30 (Special company under Shoko Chukin Bank Act) ^[extracted]
-**Corporatization**: 2008-10-01 (Abolition of Shoko Chukin Bank Act + Enforcement of Shoko Chukin Bank Act) ^[extracted]
-**Complete privatization**: **2023-10  sale of government-held shares completed** ^[extracted]
+**Abbreviation**: 商工中金 / SCB
+**Established**: 1936-11-30 (special company under the Shoko Chukin Bank Act) ^[extracted]
+**Conversion to joint-stock company**: 2008-10-01 (repeal of the Shoko Chukin Bank Act + enforcement of the Shoko Chukin Bank Co., Ltd. Act) ^[extracted]
+**Full privatization**: **completion of the sale of government-held shares in 2023-10 ** ^[extracted]
 **Head office**: Yaesu, Chuo-ku, Tokyo 2-10-17 ^[extracted]
-**Listed**: Unlisted (Shareholders are small business associations, etc. + private sector)
+**Listing**: unlisted (shareholders are SME cooperatives etc. + private)
 
-### Major shareholders (after privatization)
+### Major shareholders (post-privatization)
 
-- Small and medium enterprise association + member companies (Historically, the Shoko Chukin Bank has invested in it)
-- Private financial institutions/business companies (underwriters after 2023-10  is sold by the government)
-- *The government held a certain percentage of 2023-10 , but upon completion of the sale, ^[extracted] became **Government-held 0%**
+- SME cooperatives + member companies (historically the equity base of Shoko Chukin)
+- private financial institutions / operating companies (acquirers after the 2023-10  government sale)
+- ※ The government held a certain ratio until 2023-10 , but upon completion of the sale it became **government holding 0%** ^[extracted]
 
-### Important Chronology ^[extracted]
+### Key chronology ^[extracted]
 
-| Month | Event |
+| Year / Month | Event |
 |---|---|
-| 1936-11-30 | Shoko Chukin Bank Law enacted → Established as a special company |
-| After the war ~1990s | Positioned as one of the three major public financial institutions (Shoko Chukin Bank, Chuko Chukin Corporation, and National Corporation Corporation) for small and medium-sized enterprises financing |
-| 2002-04  | Policy finance reform debate in full swing |
-| **2008-10-01** | **Corporatization** — Abolition of the Shoko Chukin Bank Act + enforcement of new law, reorganization of policy finance (in parallel with policy investment banks, Japan Finance Corporation, etc.) |
-| 2008-2016 | Execution of crisis response financing (post-Lehman, post-earthquake, financial crisis, etc.) outsourced by the government |
-| **2016-10** | **Crisis response loan fraud case discovered** — Whistleblowing at the Kagoshima branch |
-| **2017-05-09** | **Financial Services Agency No. 1  Next Business Improvement Order** — As of confirmation of fraudulent handling 760 件 |
-| 2017-10-25 | **Financial Services Agency No. 2  Next Business Improvement Order** — Results of all investigations **About 4,800 件 and employee 444 名 involved** Found |
-| 2017-10 | Kensuke Adachi, President (Former Vice-Minister of Economy, Trade and Industry) Resigns with responsibility |
-| 2018-06  | Masahiro Sekine appointed as new president (from the private sector) and governance reform in full swing |
-| 2020-04 | Medium-term management plan “Value co-creation phase I” |
-| 2022-04  | Medium-term management plan “Value co-creation phase II” — Business model transformation with an eye on privatization |
-| **2023-10** | **Sale of government-held shares completed → complete privatization** ^[extracted] |
-| 2024-04  | New medium-term management plan after privatization — Expand general loan ratio and strengthen business succession/M&A |
+| 1936-11-30 | Shoko Chukin Bank Act enacted → established as a special company |
+| postwar〜1990s | positioned as one of the three major public financial institutions for SME finance (Shoko Chukin, the SME Finance Corporation, the National Life Finance Corporation) |
+| 2002-04 | policy-finance reform debate in full swing |
+| **2008-10-01** | **conversion to joint-stock company** — repeal of the Shoko Chukin Bank Act + enforcement of the new Act, policy-finance reorganization (in parallel with the Development Bank of Japan, the Japan Finance Corporation, etc.) |
+| 2008-2016 | executed crisis-response lending (post-Lehman, post-earthquake, financial crises, etc.) under government commission |
+| **2016-10** | **crisis-response-lending fraud scandal uncovered** — whistleblowing originating from the Kagoshima branch |
+| **2017-05-09** | **FSA No. 1  business-improvement order** — at the point of confirming 760 件 fraudulent handlings |
+| 2017-10-25 | **FSA No. 2  business-improvement order** — full investigation found **approximately 4,800 件, with 444 名 staff involved** |
+| 2017-10 | President Kensuke Adachi (former METI vice-minister) resigned to take responsibility |
+| 2018-06 | Masahiro Sekine appointed as new president (from the private sector); governance reform in full swing |
+| 2020-04 | medium-term management plan "Value Co-Creation Phase I" |
+| 2022-04 | medium-term management plan "Value Co-Creation Phase II" — business-model transformation in anticipation of privatization |
+| **2023-10** | **completion of the sale of government-held shares → full privatization** ^[extracted] |
+| 2024-04 | post-privatization new medium-term management plan — expanding the general-lending ratio, strengthening business succession / M&A |
 
-## 2. Business segment map
+## 2. Business-segment map
 
 | Segment | Content | Positioning |
 |---|---|---|
-| **Member loans** | Small and Medium Enterprise Association + Loans for member companies | Core and historical identity since its founding |
-| **General small and medium-sized business loans** | Loans for small and medium-sized enterprises other than association members | Expansion policy after privatization |
-| **Business succession/M&A support** | SME M&A intermediary/successor support | Areas of differentiation after privatization |
-| **Deposits/settlements** | Member deposits + general corporate payments | Complementary services |
+| **Member lending** | lending to SME cooperatives + member companies | core since founding, a historical identity |
+| **General SME lending** | lending to SMEs outside the membership | post-privatization expansion policy |
+| **Business succession / M&A support** | SME M&A brokerage, successor support | post-privatization differentiation area |
+| **Deposits / settlement** | member deposits + general-corporate settlement | complementary business |
 
-### Business model transformation after privatization
+### Post-privatization business-model transformation
 
-- Transition from the **government entrusted model** of the old policy financial institution era to the **independent commercial bank model**
-- In the small and medium-sized business market, there are three sides: mega banks (corporate transaction base), regional banks (community-based), and Shinkin Shinkin Kumiai (small business-based).
+- migration from the **government-commission model** of the former policy-finance-institution era → to a **self-standing commercial-bank model**
+- a three-way competition in the SME market with megabanks (corporate-transaction base) / regional banks (regional closeness) / shinkin and credit cooperatives (micro-enterprise closeness)
 
-### Governance Reform (2017-2018)
+### Governance reform (2017-2018)
 
-- Total management team replacement (replacement of president + renewal of executives)
-- Restructuring of internal control and compliance system
-- Stricter handling procedures for crisis response loans
-- Business improvement plan → Financial Services Agency periodic report
+- complete replacement of management (president change + board renewal)
+- rebuilding of internal control / compliance systems
+- tightening of crisis-response-lending handling procedures
+- business-improvement plan → periodic reporting to the FSA
 
-### 政府との関係
+### Relationship with the government
 
-- Capital relationship ended due to sale of 2023-10  government-held shares
-- Dual structure of complete privatization and “quasi-public role”
+- the capital relationship ended with the 2023-10  sale of government-held shares
+- a dual structure of full privatization and a "quasi-public role"
 
-### Competitive composition
+### Competitive landscape
 
-| Competitors | Overlapping areas |
+| Competitor | Overlapping area |
 |---|---|
-| Megabank ([[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]]) | Medium-sized business financing and overseas expansion support |
-| Regional banks | Regional small and medium-sized enterprise financing and business succession |
-| Shinkin Central Bank / Shinkin Bank | Small and Medium Enterprise Association / Micro Business Loan |
-| Japan Finance Corporation | Crisis response financing/policy finance area |
+| megabanks ([[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]]) | mid-cap corporate lending, overseas-expansion support |
+| regional banks | regional SME lending, business succession |
+| Shinkin Central Bank, shinkin banks | SME cooperatives, micro-enterprise lending |
+| [[financial-regulators/jfc|日本政策金融公庫 (JFC)]] | crisis-response lending, the policy-finance domain |
 
-## 4. Regulation/Policy
+## 4. Regulation / policy
 
-- **Supervising**: Financial Services Agency (FSA) — Supervision based on the Banking Act as a general bank
-- **Speciality**: Even after the abolition of the former Shoko Chukin Bank Act, **Shoko Chukin Bank Co., Ltd. Act** will continue to be applied as a designated financial institution for crisis response loans ^[extracted]
-- **Background of business improvement order**:
-  - 2017-05-09 No. 1  Next Business Improvement Order (760 件)
-  - 2017-10-25 No. 2  Next Business Improvement Order (approx. 4,800 件)
-  - Obligation to continuously report on business improvement plans
-- **G-SIB / D-SIB designation**: None (below mega/major regional banks)
+- **Supervisor**: FSA — supervised as a general bank under the Banking Act
+- **Special character**: even after the repeal of the old Shoko Chukin Bank Act, the **Shoko Chukin Bank Co., Ltd. Act** continues to apply as a designated financial institution for crisis-response lending ^[extracted]
+- **Background of the business-improvement orders**:
+  - 2017-05-09 No. 1  business-improvement order (760 件)
+  - 2017-10-25 No. 2  business-improvement order (approximately 4,800 件)
+  - continuing reporting obligation for the business-improvement plan
+- **G-SIB / D-SIB designation**: none (by scale, below the megabanks and major regional banks)
 
 ## Related
 
-- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] (Competitor in the small business loan market)
-- [[megabanks/ndfg]] (close contact with local financial groups and small and medium-sized enterprises)
-- *The Shinkin Central Bank and Japan Finance Corporation wikis are not yet developed.
+- [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] (competition in the SME-lending market)
+- [[megabanks/ndfg]] (regional financial groups, SME closeness)
+- [[financial-regulators/jfc|日本政策金融公庫 (JFC)]] (peer designated financial institution for policy finance / crisis-response lending)
+- ※ The wiki for the Shinkin Central Bank is not yet developed
 
 ## Sources
 
-- **Wikipedia: Shoko Chukin Bank Co., Ltd.** (https://ja.wikipedia.org/wiki/Shoko Chukin Bank Co., Ltd., extracted from 2026-05-19)
-- Shoko Chukin Official Corporate Site History (https://www.shokochukin.co.jp/)
-- Financial Services Agency Business Improvement Order (2017-05-09 / 2017-10-25) Publications
-- “Shoko Chukin Crisis Response Loan Fraud Case Investigation Committee Report” (published by 2017-10 )
+- **Wikipedia: 株式会社商工組合中央金庫** (https://ja.wikipedia.org/wiki/株式会社商工組合中央金庫, extracted 2026-05-19)
+- Shoko Chukin official corporate site, history (https://www.shokochukin.co.jp/)
+- FSA business-improvement orders (2017-05-09 / 2017-10-25) published materials
+- "Shoko Chukin Crisis-Response-Lending Fraud Scandal Investigation Committee Report" (published 2017-10 )
 
 ---
 
 > [!info] Verification status
-> confidence: **likely** (Wikipedia + official history + Financial Services Agency publication data base, extracted from 2026-05-19). Important facts (1936  establishment / 2008  demutualized / 2016-2017  fraud incident / 2023-10  privatization completed) have been cross-confirmed with public information. Details of the major shareholder composition after privatization and numerical targets of the new medium-term management plan are limited in public information, and IR disclosure needs to be followed up.
+> confidence: **likely** (based on Wikipedia + official history + FSA published materials, extracted 2026-05-19). Key facts (1936  establishment / 2008  conversion to joint-stock company / 2016-2017  fraud scandal / 2023-10  completion of privatization) are cross-confirmed against public information. Details of the post-privatization major-shareholder composition and the numerical targets of the new medium-term management plan are limited in public information, and IR disclosure should be tracked.

@@ -1,42 +1,42 @@
 ---
 source: non-life-insurers/meiji-yasuda-general-insurance
-source_hash: c20153827bb73120
+source_hash: 45a4ffaf97c325fa
 lang: zh
 status: machine
 fidelity: ok
 title: "明治安田损害保险"
-translated_at: 2026-05-31T23:59:49.425Z
+translated_at: 2026-06-15T03:48:21.898Z
 ---
+
 # 明治安田损害保险
 
+## Wiki route
 
-## Wiki 路径
-
-本条目位于 [[non-life-insurers/INDEX|non-life-insurers INDEX]] 之下。可结合 [[insurance/INDEX|insurance index]] 阅读邻接语境，并结合 [[financial-licenses/INDEX|JapanFG index]] 理解更大的系统边界。
+本条目位于 [[non-life-insurers/INDEX|non-life-insurers INDEX]] 之下。请与 [[insurance/INDEX|insurance index]] 对照阅读以了解相邻背景，并与 [[financial-licenses/INDEX|JapanFG index]] 对照以了解更广泛的系统边界。
 
 ## TL;DR
 
-明治安田损害保险株式会社是列入金融厅损害保险公司牌照列表、与 [[life-insurers/meiji-yasuda]] group adjacency 相关的 non-life insurance operating company。作为大型 life insurer group 旗下的 non-life arm，应将 life / non-life group boundaries 分开观察。
+明治安田损害保险株式会社是登载于金融厅损害保险公司许可一览的 [[life-insurers/meiji-yasuda]] group adjacency 财险（non-life insurance）事业公司。作为大型 life insurer group 所持有的 non-life arm，将 life／non-life 的集团边界分开来看。
 
-## 1. 牌照 / 集团边界
+## 1. License / group boundary
 
 | Item | Notes |
 |---|---|
-| Legal name | 明治安田损害保险株式会社 |
+| Legal name | 明治安田損害保険株式会社 |
 | License route | Insurance Business Act non-life insurance company; FSA non-life insurer list |
 | Protection scheme | Non-Life Insurance Policyholders Protection Corporation member |
 | Group boundary | [[life-insurers/meiji-yasuda]] group adjacency |
 | Wiki role | Life-insurer group non-life operating company |
 
-## 2. 运营模式
+## 2. Operating model
 
-Life-insurer groups 可以持有 non-life entities，以支持员工福利、团体保险、affinity products 和补充保障产品。明治安田损保是一个有用案例，因为母集团的核心身份仍是 mutual life insurance。Capital / solvency framework comparison 参见 [[insurance/global-solvency-framework-comparison-matrix]]。
+Life-insurer groups can hold non-life entities to support employee benefits, group insurance, affinity products, and complementary protection products. 明治安田损保 is a useful example because the parent group's core identity remains mutual life insurance. 作为类似的 life-group non-life arm，可与 [[non-life-insurers/dai-ichi-ipet-insurance|第一アイペット損害保険]]（第一生命集团）比较。资本／偿付能力框架比较参见 [[insurance/global-solvency-framework-comparison-matrix]]。
 
 ## 3. Why this page matters
 
-- 增加 Meiji Yasuda group 的 non-life operating-company boundary。
-- 对 life-insurer group diversification 分析有用。
-- Registry-backed D5 specialty non-life page。
+- Adds the non-life operating-company boundary for Meiji Yasuda group.
+- Useful for life-insurer group diversification analysis.
+- Registry-backed D5 specialty non-life page.
 
 ## Related
 
@@ -49,4 +49,4 @@ Life-insurer groups 可以持有 non-life entities，以支持员工福利、团
 
 - FSA: non-life insurance company license list, as of 2026-04-01.
 - Non-Life Insurance Policyholders Protection Corporation of Japan: member-company list, as of 2026-04.
-- 明治安田损保 official website.
+- 明治安田損保 official website.

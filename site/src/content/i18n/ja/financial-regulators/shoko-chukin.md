@@ -1,20 +1,20 @@
 ---
 source: financial-regulators/shoko-chukin
-source_hash: 9bb0d146db3aa019
+source_hash: da0ecb9c80032428
 lang: ja
 status: machine
 fidelity: ok
 title: "商工中金 (Shoko Chukin Bank)"
-translated_at: 2026-06-02T15:14:17.143Z
+translated_at: 2026-06-15T03:48:21.935Z
 ---
 
 # 商工中金 (Shoko Chukin Bank)
 
-## ウィキ上の位置づけ
+## Wiki ルート
 
-この項目は [[financial-regulators/INDEX|financial-regulators INDEX]] の配下に位置する。比較・対照の文脈では [[megabanks/mufg|三菱 UFJ FG (MUFG)]]、より広い制度上・規制上の境界については [[banking/INDEX|banking index]] とあわせて読む。
+本項目は [[financial-regulators/INDEX|financial-regulators INDEX]] に属する。同業 / 対比の文脈については [[megabanks/mufg|三菱 UFJ FG (MUFG)]] を、より広い体系 / 規制の境界については [[banking/INDEX|banking index]] を併せて参照のこと。
 
-## 要約
+## TL;DR
 
 旧 政策金融機関の **民間商業銀行化版**。1936 (昭和 11 年) 商工組合中央金庫法に基づく特殊会社として設立、2008-10 株式会社化、**2023-10 政府保有株式売却完了 → 完全民営化**。中小企業組合・組合員向け融資 + 一般中小企業融資に特化。2016-2017 **危機対応融資不正事件** (約 4,800 件規模) で金融庁から 2 度の業務改善命令を受け、経営陣総入れ替え・ガバナンス改革を経て民営化完了に至る。メガバンク・地銀・信金との中小企業マーケットでの三つ巴競合下、規模で劣る中で「組合員密着 + 事業承継/M&A」差別化を模索する民営化後フェーズ。^[extracted]
 
@@ -87,7 +87,7 @@ translated_at: 2026-06-02T15:14:17.143Z
 | メガバンク ([[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]]) | 中堅企業融資・海外進出支援 |
 | 地方銀行 | 地域中小企業融資・事業承継 |
 | 信金中央金庫・信用金庫 | 中小企業組合・零細企業融資 |
-| 日本政策金融公庫 | 危機対応融資・政策金融領域 |
+| [[financial-regulators/jfc|日本政策金融公庫 (JFC)]] | 危機対応融資・政策金融領域 |
 
 ## 4. 規制・政策
 
@@ -99,11 +99,12 @@ translated_at: 2026-06-02T15:14:17.143Z
   - 業務改善計画の継続報告義務
 - **G-SIB / D-SIB 指定**: なし (規模ではメガ・大手地銀以下)
 
-## 関連項目
+## 関連
 
 - [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] (中小企業融資マーケットでの競合)
 - [[megabanks/ndfg]] (地方系金融グループ・中小企業密着)
-- ※ 信金中央金庫・日本政策金融公庫の wiki は未整備
+- [[financial-regulators/jfc|日本政策金融公庫 (JFC)]] (政策金融・危機対応融資の指定金融機関ピア)
+- ※ 信金中央金庫の wiki は未整備
 
 ## 出典
 

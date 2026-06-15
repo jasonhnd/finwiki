@@ -1,18 +1,18 @@
 ---
 source: life-insurers/pacific-life-re-japan
-source_hash: eb722d9a61ef42a5
+source_hash: f067f0a6354af0d5
 lang: en
 status: machine
 fidelity: ok
-title: "Pacific Life Re Japan"
-translated_at: 2026-06-01T00:41:50.414Z
+title: "Pacific Life Re Japan / パシフィック・ライフ・リー・ジャパン"
+translated_at: 2026-06-15T03:48:21.819Z
 ---
 
-# Pacific Life Re Japan
+# Pacific Life Re Japan / パシフィック・ライフ・リー・ジャパン
 
 ## Wiki route
 
-This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it against [[non-life-insurers/swiss-re-japan|Swiss Re Japan]] and [[non-life-insurers/hannover-re-japan|Hannover Re Japan]] for life-reinsurer peer context, and [[insurance/INDEX|insurance index]] for the broader Japan life insurance / reinsurance market system / regulatory boundary.
+This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it against its closest same-domain peer [[life-insurers/rga-japan|RGA Japan]] — the other foreign life / health reinsurer registered on the FSA life-insurer list — as well as [[non-life-insurers/swiss-re-japan|Swiss Re Japan]] and [[non-life-insurers/hannover-re-japan|Hannover Re Japan]] for multi-line reinsurer peer context, and [[insurance/INDEX|insurance index]] for the broader Japan life insurance / reinsurance market system / regulatory boundary.
 
 ## TL;DR
 
@@ -27,7 +27,7 @@ Pacific Life Re is the global life and health reinsurance arm of **Pacific Life 
 | License route | FSA life insurer / reinsurer registration |
 | Industry body | Life Insurance Association of Japan participation as applicable to reinsurer |
 | Wiki role | Foreign-affiliated Japan life / health reinsurance entity |
-| Parent / structure | Pacific Life Insurance Company (mutual, USA) -> Pacific Life Re Limited and global subsidiaries |
+| Parent / structure | Pacific Life Insurance Company (mutual, USA) → Pacific Life Re Limited and global subsidiaries |
 
 License route detail belongs to [[financial-licenses/insurance-license-and-solvency|insurance license and solvency]].
 
@@ -68,9 +68,9 @@ In the Japan life reinsurance market, Pacific Life Re Japan supports ceding insu
 - FSA life insurer / reinsurer license list: https://www.fsa.go.jp/menkyo/hoken.pdf
 - Pacific Life Re official site: https://www.pacificlifere.com
 - Pacific Life Insurance Company group financial disclosures
-- Life Insurance Association of Japan member directory
+- Life Insurance Association of Japan member directory (生命保険協会)
 
 ---
 
 > [!info] Verification status
-> confidence: **likely** (built only from public information from the FSA life insurer / reinsurer list, Pacific Life Re official information, and Pacific Life Insurance Company public disclosures, 2026-05-24 checked). Pacific Life Re's Japan entity legal name and current FSA license status should be verified against the latest FSA registry. As a subsidiary of a mutual parent, granular Japan-entity-level financial disclosure is limited.
+> confidence: **likely** (composed only of public information from the FSA life insurer / reinsurer list + Pacific Life Re official + Pacific Life Insurance Company public disclosures; 2026-05-24 checked). Pacific Life Re's Japan entity legal name and current FSA license status should be verified against the latest FSA registry. As a subsidiary of a mutual parent, granular Japan-entity-level financial disclosure is limited.

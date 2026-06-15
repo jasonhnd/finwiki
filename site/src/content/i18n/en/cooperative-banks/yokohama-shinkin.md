@@ -1,42 +1,53 @@
 ---
 source: cooperative-banks/yokohama-shinkin
-source_hash: 82b15d832a6415b9
+source_hash: 0bc3b7ddccc36ce3
 lang: en
 status: machine
 fidelity: ok
 title: "Yokohama Shinkin Bank"
-translated_at: 2026-06-01T02:31:57.157Z
+translated_at: 2026-06-15T03:48:21.920Z
 ---
 
 # Yokohama Shinkin Bank
 
 ## Wiki route
 
-This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]]. Read it against [[cooperative-banks/kawasaki-shinkin|川崎信用金庫]] for peer / contrast context inside the Kanagawa shinkin block and [[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]] for the broader system / regulatory boundary maintained by [[cooperative-banks/shinkin-central|信金中央金庫]].
+This entry sits under [[cooperative-banks/INDEX|cooperative-banks index]]. Read it against [[cooperative-banks/kawasaki-shinkin|川崎信用金庫]] for peer / contrast context inside the Kanagawa shinkin block, [[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]] for the system landscape, [[cooperative-banks/shinkin-central|信金中央金庫]] for the cooperative central institution above it, and [[financial-regulators/fsa|the FSA]] for the supervisory / licensing boundary over shinkin banks.
 
 ## TL;DR
 
-Yokohama Shinkin Bank ("Yokoshin") is a major regional shinkin bank headquartered in Naka-ku, Yokohama, Kanagawa Prefecture, with Yokohama City, Yokosuka, and the Miura area as its main operating base. It is a cooperative financial institution centered on loans to SMEs related to Yokohama port, logistics, and tourism, as well as housing loans and retail deposits.
+Yokohama Shinkin Bank (Yokoshin) is a major regional shinkin bank headquartered in Naka-ku, Yokohama City, Kanagawa Prefecture, with its main operating base in the Yokohama City, Yokosuka, and Miura areas. It is a cooperative financial institution whose core business is lending to SMEs related to Yokohama's port, logistics, and tourism, along with mortgage loans and retail deposits.
 
 ## 1. License / group boundary
 
 | Item | Notes |
 |---|---|
 | Legal name | Yokohama Shinkin Bank |
-| License route | Shinkin Bank Act / FSA shinkin bank license list |
-| Group boundary | Member of [[cooperative-banks/shinkin-central|信金中央金庫]] cooperative system |
-| Home market | Yokohama City, Yokosuka, and Miura Peninsula |
-| Wiki role | Major Kanagawa / Yokohama shinkin operating-company anchor page |
+| Institution type | shinkin bank — member-based cooperative under the Shinkin Bank Act |
+| License route | Shinkin Bank Act / FSA shinkin-bank license list |
+| Supervisor | [[financial-regulators/fsa|金融庁 (FSA)]] + Kanto Local Finance Bureau (regional Local Finance Bureau delegated supervision) |
+| Group boundary | Member of the [[cooperative-banks/shinkin-central|信金中央金庫]] cooperative system |
+| Deposit protection | [[financial-regulators/dic|預金保険機構 (DIC)]] — shinkin deposits are DIC-insured |
+| Home market | Yokohama City, Yokosuka, Miura Peninsula |
+| Wiki role | Kanagawa Yokohama major shinkin operating-company anchor page |
 
-## 2. Operating model
+## 2. Institution-type business model
 
-Yokohama Shinkin Bank's core businesses are SME lending, working-capital and equipment-finance loans, housing loans, and retail deposits for SMEs in Yokohama City, including shops, services, port logistics, tourism, and manufacturing. In the Yokohama SME finance market, it is the cooperative-organization anchor that runs alongside regional banks ([[regional-banks/yokohama-bank|横浜銀行]]). Within the Kanagawa shinkin landscape, it has a geographic role split with [[cooperative-banks/kawasaki-shinkin|川崎信用金庫]].
+As a **shinkin bank**, Yokohama Shinkin Bank is a *member-based cooperative deposit-taking institution* under the Shinkin Bank Act, not a joint-stock bank. Membership and lending are tied to a defined operating district — Yokohama City, Yokosuka, and the Miura Peninsula — and credit is statutorily oriented to member SMEs (port logistics, tourism, small and mid-sized manufacturing) and retail households, running in parallel to the shareholder-owned [[regional-banks/yokohama-bank|横浜銀行]] in the same market. Surplus serves member return and reserves rather than external-shareholder profit, the defining feature of the cooperative finance tier it shares with [[cooperative-banks/kawasaki-shinkin|川崎信用金庫]].
 
-## 3. Why this page matters
+Yokohama Shinkin Bank's core business is SME lending, working capital, and capital-expenditure financing, mortgage loans, and retail deposits for SMEs in Yokohama City (retailers, services, port logistics, tourism, manufacturing). In the Yokohama SME-finance market it is the cooperative-side anchor running in parallel with the regional bank ([[regional-banks/yokohama-bank|横浜銀行]]). Within the shinkin landscape in Kanagawa Prefecture it is in a geographic division-of-labor relationship with [[cooperative-banks/kawasaki-shinkin|川崎信用金庫]].
 
-- Operating-company entry for a key cooperative-organization player in Yokohama SME finance.
-- Anchor for market segmentation with [[regional-banks/yokohama-bank|横浜銀行]]: joint-stock regional bank vs cooperative shinkin bank.
-- One side of the geographic split page for Kanagawa shinkin banks: Kawasaki vs Yokohama.
+## 3. System & regulatory positioning
+
+- **Central institution**: sits beneath [[cooperative-banks/shinkin-central|信金中央金庫 (Shinkin Central Bank)]] for liquidity, surplus-fund investment, and settlement — the shinkin analogue of [[cooperative-banks/norinchukin|農林中央金庫]] for the JA system.
+- **Supervision**: licensed under the Shinkin Bank Act by [[financial-regulators/fsa|the FSA]] with day-to-day oversight delegated to the regional Local Finance Bureau; deposits are insured by [[financial-regulators/dic|the Deposit Insurance Corporation (DIC)]].
+- **System context**: see [[banking/cooperative-banking-japan|cooperative banking in Japan]] for the shinkin tier's place within cooperative finance and [[banking/shinkin-bank-registry-japan|the shinkin registry]] for the national shinkin-bank population.
+
+## 4. Why this page matters
+
+- An operating-company entry for a cooperative-side key player in Yokohama SME finance.
+- An anchor for the market division of labor with [[regional-banks/yokohama-bank|横浜銀行]] (joint-stock regional bank vs cooperative shinkin bank).
+- One half of the Kanagawa shinkin (Kawasaki vs Yokohama) geographic division-of-labor page.
 
 ## Related
 
@@ -49,6 +60,6 @@ Yokohama Shinkin Bank's core businesses are SME lending, working-capital and equ
 
 ## Sources
 
-- FSA: shinkin bank license list (latest snapshot per FSA registry)
-- Yokohama Shinkin Bank official company profile (https://www.yokoshin.co.jp/profile/)
-- Shinkin Central Bank cooperative system context
+- FSA: 信用金庫免許一覧 (latest snapshot per FSA registry)
+- 横浜信用金庫 公式 会社概要 (https://www.yokoshin.co.jp/profile/)
+- 信金中央金庫 cooperative system context

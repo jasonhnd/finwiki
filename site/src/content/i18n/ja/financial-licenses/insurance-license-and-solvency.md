@@ -1,88 +1,88 @@
 ---
 source: financial-licenses/insurance-license-and-solvency
-source_hash: d24fec4b17cee6d7
+source_hash: 7723f65c094783cb
 lang: ja
 status: machine
 fidelity: ok
 title: "日本の保険免許とソルベンシーのルート"
-translated_at: 2026-06-02T14:54:39.038Z
+translated_at: 2026-06-15T03:48:21.815Z
 ---
 
 # 日本の保険免許とソルベンシーのルート
 
 ## 概要
 
-日本の保険規制は、**リスクを引き受ける保険会社** と **販売仲介者** を分けて扱う。生命保険会社、損害保険会社、保険持株会社、少額短期保険業者、保険代理店、保険仲立人は、それぞれ公開規制上の別カテゴリである。引受主体は保険負債とソルベンシー監督を負い、代理店・仲立人のルートは募集、媒介、顧客説明、行為規制を扱う。
+日本の保険規制は、**リスクを引き受ける保険会社 (risk-bearing insurers)** と **販売仲介者 (distribution intermediaries)** を区別する。生命保険会社、損害保険会社、保険持株会社、少額短期保険業者、保険代理店、保険ブローカーは、それぞれ別個の公的規制カテゴリーである。引受主体は保険負債とソルベンシー監督を担い、代理店 / ブローカーのルートは募集・媒介・顧客説明・行為を規律する。
 
-このページは、[[insurance/INDEX|insurance domain]] 関連ページの法的コントロールレイヤーとして使う。[[insurance/economic-value-based-solvency|economic value-based solvency regulation]]、[[insurance/esr-economic-value-solvency|ESR]]、[[insurance/insurance-agency-and-brokerage-japan|insurance agency and brokerage Japan]]、[[insurance/japan-life-insurance-big-four|Japan life insurance big four]]、[[insurance/japan-nonlife-big-three|Japan non-life big three]]、および [[life-insurers/nippon-life|Nippon Life]]、[[life-insurers/dai-ichi-life|Dai-ichi Life]]、[[non-life-insurers/tokio-marine|Tokio Marine]]、[[non-life-insurers/msad|MS&AD]]、[[non-life-insurers/sompo|Sompo]] のような保険会社ページと合わせて読む。
+このページは [[insurance/INDEX|insurance domain]] ページの legal-control layer として用いること。[[insurance/economic-value-based-solvency|economic value-based solvency regulation]]、[[insurance/esr-economic-value-solvency|ESR]]、[[insurance/insurance-agency-and-brokerage-japan|insurance agency and brokerage Japan]]、[[insurance/japan-life-insurance-big-four|Japan life insurance big four]]、[[insurance/japan-nonlife-big-three|Japan non-life big three]]、および [[life-insurers/nippon-life|Nippon Life]]、[[life-insurers/dai-ichi-life|Dai-ichi Life]]、[[non-life-insurers/tokio-marine|Tokio Marine]]、[[non-life-insurers/msad|MS&AD]]、[[non-life-insurers/sompo|Sompo]] のような保険会社エンティティのページと併せて読むこと。
 
-出典階層としては、FSA の免許一覧が法的カテゴリを特定し、保険業法と FSA 監督指針が制度上の用語を与え、各保険会社の開示が会社別の資本・ESR 事実を与える。
+出典の階層: FSA の免許リストが法的カテゴリーを特定し、保険業法と FSA 監督指針が規制の文言を提供し、保険会社の開示が会社レベルの資本 / ESR の事実を提供する。
 
-## 制度マップ
+## 規制マップ (Regime Map)
 
-| レイヤー | 公開上の基準出典 | 確認できること | 典型的なページ連携 |
+| Layer | Public source of truth | What it answers | Typical page linkage |
 |---|---|---|---|
-| 生命保険会社 | FSA 生命保険会社免許一覧 | どの法人が生命保険を引き受ける免許を持つか | [[life-insurers/nippon-life]]、[[life-insurers/dai-ichi-life]]、[[life-insurers/meiji-yasuda]]、[[life-insurers/sumitomo-life]] |
-| 損害保険会社 | FSA 損害保険会社免許一覧 | どの法人が損害保険を引き受ける免許を持つか | [[non-life-insurers/tokio-marine-nichido-fire]]、[[non-life-insurers/mitsui-sumitomo-insurance]]、[[non-life-insurers/aioi-nissay-dowa-insurance]]、[[non-life-insurers/sompo-japan-insurance]] |
-| 保険持株会社 | FSA 保険持株会社一覧 | どのグループが持株会社レイヤーで規制されるか | [[life-insurers/dai-ichi-life]]、[[non-life-insurers/tokio-marine]]、[[non-life-insurers/msad]]、[[non-life-insurers/sompo]] |
-| 少額短期保険業者 | FSA 登録業者一覧 | 少額・短期商品のための、より限定された引受ルート | 専門・組込保険との隣接領域 |
-| 保険代理店・募集人 | 保険業法 / FSA 監督指針 / 会社開示 | 保険会社のために誰が募集または説明を行うか | [[insurance/life-insurance-channel-mix]]、銀行 / 小売 / ダイレクトチャネル |
-| 保険仲立人 | FSA 保険仲立人一覧および FSA 監督指針 | 保険会社側の代理店ではなく、仲立人として誰が保険契約を媒介するか | [[insurance/insurance-agency-and-brokerage-japan]] |
-| ソルベンシー / ESR | FSA の経済価値ベースのソルベンシー関連情報と会社開示 | 保険会社の資本十分性がどのように測定・開示されるか | [[insurance/economic-value-based-solvency]]、[[insurance/esr-economic-value-solvency]] |
+| Life insurer | FSA licensed operator list for life insurance companies | Which legal entity is licensed to underwrite life insurance | [[life-insurers/nippon-life]], [[life-insurers/dai-ichi-life]], [[life-insurers/meiji-yasuda]], [[life-insurers/sumitomo-life]] |
+| Non-life insurer | FSA licensed operator list for non-life insurance companies | Which legal entity is licensed to underwrite property / casualty insurance | [[non-life-insurers/tokio-marine-nichido-fire]], [[non-life-insurers/mitsui-sumitomo-insurance]], [[non-life-insurers/aioi-nissay-dowa-insurance]], [[non-life-insurers/sompo-japan-insurance]] |
+| Insurance holding company | FSA insurance holding-company list | Which group is regulated at the holding-company layer | [[life-insurers/dai-ichi-life]], [[non-life-insurers/tokio-marine]], [[non-life-insurers/msad]], [[non-life-insurers/sompo]] |
+| Small-amount short-term insurer | FSA registered operator list | Narrower underwriting route for small-ticket, short-term products | Specialty / embedded-insurance adjacency |
+| Insurance agent / solicitor | Insurance Business Act / FSA guideline / company disclosures | Who solicits or explains insurance for an insurer | [[insurance/life-insurance-channel-mix]], bank / retailer / direct channels |
+| Insurance broker | FSA insurance broker list and FSA guideline | Who mediates insurance contracts as a broker rather than acting as insurer-side agency | [[insurance/insurance-agency-and-brokerage-japan]] |
+| Solvency / ESR | FSA economic-value solvency hub plus company disclosure | How insurer capital adequacy is measured and disclosed | [[insurance/economic-value-based-solvency]], [[insurance/esr-economic-value-solvency]] |
 
-## 引受と販売
+## 引受と販売 (Underwriting And Distribution)
 
-日本では、銀行窓口、オンラインブローカー、小売事業者、通信グループ、決済アプリ、旅行プラットフォームが保険を販売していても、保険リスクは免許を持つ保険会社のバランスシートに残る場合がある。
+日本では、銀行の窓口、オンラインブローカー、小売業者、通信グループ、決済アプリ、旅行プラットフォームが保険を販売しつつ、保険リスクは免許を受けた保険会社のバランスシートに残ることがある。
 
-リスクを引き受ける保険会社は、契約者に対する負債、引受リスク、ALM、保険金支払い、責任準備金、ソルベンシー・マージン / ESR 監督、商品認可・数理管理を担う。販売者は顧客接点やブランド体験を持つことがあるが、法的契約と資本リスクは別法人に残り得る。
+リスクを引き受ける保険会社は、契約者負債、引受リスク、資産負債管理、保険金支払い、責任準備金、ソルベンシー・マージン / ESR 監督、商品認可 / 保険数理の統制を担う。販売者は顧客接点とブランド体験を保有し得るが、法的契約と資本リスクは依然として別のエンティティに置かれ得る。
 
-同じバランスシートと販売の分離は [[banking/japan-baas-operating-models|BaaS operating models]] にも現れる。組込金融や組込保険では、顧客インターフェースがプラットフォーム側に置かれても、規制対象のバランスシートは銀行または保険会社に属することがある。公開された商品マッピングでは、契約主体、保険料の受領者、保険金支払いを負う主体、免許カテゴリ、募集主体を、開示されている範囲で記録する。
+同じバランスシート / 販売の分離は、[[banking/japan-baas-operating-models|BaaS operating models]] および [[financial-licenses/payment-license-stack|Japan payment license stack]] にも現れ、そこでは指図 / 販売の層が、規制対象のバランスシート保有者から切り離されている。Embedded finance と embedded insurance は、顧客インターフェースをプラットフォームに置きつつ、規制対象のバランスシートを銀行や保険会社に帰属させ得る。公の商品マッピングは、開示されている場合、契約主体、保険料受領者、保険金負担主体、免許カテゴリー、募集主体を記録する。
 
-## ソルベンシー上の位置づけ
+## ソルベンシーのルート (Solvency Route)
 
-日本の保険会社の資本フレームワークは、現在は二つの読み方が必要である。
+日本の保険会社の資本枠組みは、今や二通りの読み方を要する:
 
-| 論点 | 読み方 |
+| Topic | Reading rule |
 |---|---|
-| ソルベンシー・マージン | 開示や規制資料に残る、従来型・法定ベースの資本十分性の語彙。 |
-| 経済価値ベースのソルベンシー | 経済価値評価、契約者保護、リスク管理、開示を中心に構成される FSA の枠組み。 |
-| ESR | 各保険会社が自社の報告日と定義に基づいて開示する、会社別の経済価値ベースのソルベンシー比率。 |
-| 柱立て | FSA は経済価値ベースの制度を、ソルベンシー規制、内部管理・監督上のレビュー、開示を軸に整理している。 |
-| 出典日 | FSA の告知、フィールドテスト資料、会社開示、実施関連資料は日付に依存する。 |
+| Solvency margin | Legacy / statutory capital adequacy vocabulary that still appears in disclosures and regulatory materials. |
+| Economic value-based solvency | FSA framework built around economic valuation, policyholder protection, risk management, and disclosure. |
+| ESR | Company-level economic solvency ratio disclosed by insurers under their own reporting dates and definitions. |
+| Pillar structure | FSA frames the economic-value regime around solvency regulation, internal management / supervisory review, and disclosure. |
+| Source date | FSA notices, field-test materials, company disclosures, and implementation materials are date-specific. |
 
-会社別の資本に関する記述は、指標名と出典日に紐づける。[[life-insurers/dai-ichi-life|Dai-ichi Life]] や [[non-life-insurers/tokio-marine|Tokio Marine]] のような上場グループは統合報告書や決算開示資料を公表する。[[life-insurers/nippon-life|Nippon Life]]、[[life-insurers/meiji-yasuda|Meiji Yasuda]]、[[life-insurers/sumitomo-life|Sumitomo Life]] のような相互会社は、自社の開示ルートを通じてソルベンシー、ガバナンス形態、剰余還元の情報を公表する。
+会社レベルの資本に関する記述は、名指しされた指標と出典日付に紐づく。[[life-insurers/dai-ichi-life|Dai-ichi Life]] や [[non-life-insurers/tokio-marine|Tokio Marine]] のような上場グループは、統合報告書 / 決算開示資料を公表する。[[life-insurers/nippon-life|Nippon Life]]、[[life-insurers/meiji-yasuda|Meiji Yasuda]]、[[life-insurers/sumitomo-life|Sumitomo Life]] のような相互会社は、ソルベンシー、ガバナンス形態、剰余金還元の情報を、それぞれ独自の開示ルートを通じて公表する。
 
-## 法人確認の早見表
+## エンティティ・クロスウォーク (Entity Crosswalk)
 
-| 問い | 避ける回答 | よりよい確認ルート |
+| Question | Do not answer with | Better route |
 |---|---|---|
-| 「これは保険会社か」 | ブランド名だけで判断する | FSA の生命保険 / 損害保険 / 少額短期保険リストと法人開示を確認する。 |
-| 「これは保険グループか」 | 商品サイトだけで判断する | 保険持株会社レイヤーがあるか、保険会社子会社だけなのかを確認する。 |
-| 「このプラットフォームは保険を売れるか」 | アプリ画面だけで判断する | 代理店 / 仲立人 / 金融サービス仲介業 / 提携保険会社の構造を確認する。 |
-| 「ESR は高いか低いか」 | 日付のない単一比率をコピーする | 出典日、商品構成、市場感応度、開示された目標レンジを比較する。 |
-| 「これはブローカーか」 | 英語の一般的な broker 表現だけで判断する | 日本法上の地位、すなわち代理店 / 募集人 / 保険仲立人 / 仲介業者を確認する。 |
+| "Is this an insurer?" | Brand name alone | Check FSA life / non-life / small-amount short-term lists and entity disclosure. |
+| "Is this an insurance group?" | Product website alone | Check whether the group has an insurance holding-company layer or only insurer subsidiaries. |
+| "Can this platform sell insurance?" | App UI alone | Check agency / broker / financial-service intermediary / partner insurer structure. |
+| "Is ESR high or low?" | A single ratio copied without date | Compare source date, product mix, market sensitivity, and disclosed target range. |
+| "Is this a broker?" | Colloquial English "broker" wording | Check Japanese legal status: agent / solicitor / insurance broker / intermediary. |
 
-## JapanFG での重要性
+## JapanFG との関連 (JapanFG Relevance)
 
-このページは、免許面を会社ページと接続したままにするためのものである。
+このページは、免許の表層を会社ページと接続し続ける:
 
 - 大手生命保険会社: [[life-insurers/nippon-life]]、[[life-insurers/dai-ichi-life]]、[[life-insurers/meiji-yasuda]]、[[life-insurers/sumitomo-life]]、[[life-insurers/kampo-life]]。
 - 主要損害保険グループ: [[non-life-insurers/tokio-marine]]、[[non-life-insurers/msad]]、[[non-life-insurers/sompo]]。
-- 損害保険の事業会社: [[non-life-insurers/tokio-marine-nichido-fire]]、[[non-life-insurers/mitsui-sumitomo-insurance]]、[[non-life-insurers/aioi-nissay-dowa-insurance]]、[[non-life-insurers/sompo-japan-insurance]]。
-- ダイレクト / プラットフォーム型保険会社: [[non-life-insurers/sony-insurance]]、[[non-life-insurers/sbi-insurance]]、[[non-life-insurers/au-insurance]]、[[life-insurers/lifenet]]、[[non-life-insurers/rakuten-general-insurance]]。
-- 再保険 / 官民の災害スキーム: [[non-life-insurers/toa-reinsurance]]、[[non-life-insurers/japan-earthquake-reinsurance]]、[[insurance/earthquake-insurance-public-private-scheme]]。
+- 営業中の損害保険会社: [[non-life-insurers/tokio-marine-nichido-fire]]、[[non-life-insurers/mitsui-sumitomo-insurance]]、[[non-life-insurers/aioi-nissay-dowa-insurance]]、[[non-life-insurers/sompo-japan-insurance]]。
+- ダイレクト / プラットフォーム保険会社: [[non-life-insurers/sony-insurance]]、[[non-life-insurers/sbi-insurance]]、[[non-life-insurers/au-insurance]]、[[life-insurers/lifenet]]、[[non-life-insurers/rakuten-general-insurance]]。
+- 再保険 / 官民の巨大災害スキーム: [[non-life-insurers/toa-reinsurance]]、[[non-life-insurers/japan-earthquake-reinsurance]]、[[insurance/earthquake-insurance-public-private-scheme]]。
 
-## 確認すべき出典項目
+## 出典フィールド (Source Fields)
 
-1. 正確な法人と日本語の登録名称を特定する。
-2. FSA の免許・登録業者一覧を確認する。
-3. ページの対象が、引受、持株会社管理、代理店販売、仲立人による媒介、資本十分性のどれかを判断する。
-4. ソルベンシー事実について、FSA の経済価値ベースのソルベンシー資料と会社開示日を確認する。
-5. チャネル事実については [[insurance/life-insurance-channel-mix|Life-insurance channel mix]] または [[insurance/insurance-agency-and-brokerage-japan|insurance agency and brokerage Japan]] を確認する。
-6. 官民災害スキームの事実については [[insurance/earthquake-insurance-public-private-scheme|Earthquake insurance public-private scheme]] と [[insurance/natcat-reinsurance-japan|nat-cat reinsurance Japan]] を確認する。
-7. 登録簿確認が否定的で、規制当局の明示的な記述を引用していない場合は、「確認した公開リストでは当該日現在見つからない」という表現を使う。
+1. 正確な法的エンティティと日本語の登録名を特定する。
+2. FSA の免許 / 登録業者リスト。
+3. そのページが引受、持株会社による支配、代理店販売、ブローカー媒介、資本充足性のいずれに関するものかを決定する。
+4. ソルベンシーの事実については、FSA の経済価値ベース・ソルベンシー資料と会社の開示日付。
+5. チャネルの事実については [[insurance/life-insurance-channel-mix|Life-insurance channel mix]] または [[insurance/insurance-agency-and-brokerage-japan|insurance agency and brokerage Japan]]。
+6. 官民の巨大災害の事実については [[insurance/earthquake-insurance-public-private-scheme|Earthquake insurance public-private scheme]] と [[insurance/natcat-reinsurance-japan|nat-cat reinsurance Japan]]。
+7. registry の確認が否定的だが規制当局の言明が引用されていない場合は「Not found in checked public list as of date」の文言。
 
-## 関連項目
+## 関連
 
 - [[financial-licenses/INDEX]]
 - [[insurance/INDEX]]
@@ -95,8 +95,8 @@ translated_at: 2026-06-02T14:54:39.038Z
 
 ## 出典
 
-- FSA: 免許・登録業者一覧。
-- FSA: 経済価値ベースのソルベンシー規制関連情報。
-- FSA: 保険会社向けの総合的な監督指針。
-- e-Gov: 保険業法。
-- FSA: 保険仲立人に関する監督指針セクション。
+- FSA: licensed / registered operator lists.
+- FSA: economic value-based solvency regulation hub.
+- FSA: comprehensive supervision guideline for insurance companies.
+- e-Gov: Insurance Business Act.
+- FSA: insurance broker supervision-guideline section.

@@ -1,15 +1,14 @@
 ---
 source: corporate-strategy/japan-holding-company-conversion
-source_hash: 03e07dff28605a38
+source_hash: 8deddb19a63e60de
 lang: en
-model: claude-opus-4-8
 status: machine
 fidelity: ok
-title: "持株会社化 (Japan holding-company conversion) — 株式移転 / 株式交換 / 会社分割 (抜け殻方式) routes to pure and operating HoldCo structures"
-translated_at: 2026-06-05T00:00:00.000Z
+title: "Holding-company conversion (持株会社化) — 株式移転 / 株式交換 / 会社分割 (抜け殻方式) routes to pure and operating HoldCo structures"
+translated_at: 2026-06-15T03:48:21.815Z
 ---
 
-# 持株会社化 (Japan holding-company conversion) — 株式移転 / 株式交換 / 会社分割 (抜け殻方式) routes to pure and operating HoldCo structures
+# Holding-company conversion (持株会社化) — 株式移転 / 株式交換 / 会社分割 (抜け殻方式) routes to pure and operating HoldCo structures
 
 ## Wiki route
 

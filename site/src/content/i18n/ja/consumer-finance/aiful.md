@@ -1,18 +1,18 @@
 ---
 source: consumer-finance/aiful
-source_hash: 31d94d38387f0df3
+source_hash: ca7287d638c5c6b6
 lang: ja
 status: machine
 fidelity: ok
 title: "アイフル株式会社 (Aiful)"
-translated_at: 2026-06-02T14:01:20.966Z
+translated_at: 2026-06-15T03:48:21.863Z
 ---
 
 # アイフル株式会社 (Aiful)
 
-## ウィキ上の位置づけ
+## Wiki 上の位置づけ
 
-この項目は [[consumer-finance/INDEX|consumer-finance INDEX]] 配下に位置づける。ピア比較・対照の文脈では [[card-issuers/jaccs|株式会社ジャックス (Jaccs)]]、より広い制度・規制境界については [[banking/INDEX|banking index]] とあわせて読む。
+本項目は [[consumer-finance/INDEX|consumer-finance INDEX]] の下に位置する。ピア／対比のコンテキストとしては [[card-issuers/jaccs|株式会社ジャックス (Jaccs)]] と、より広いシステム／規制の境界については [[banking/INDEX|banking index]] と併せて読むこと。
 
 ## 要約
 
@@ -115,7 +115,7 @@ translated_at: 2026-06-02T14:01:20.966Z
 | 競合 | 系列 | アイフルとの差 |
 |---|---|---|
 | アコム | [[megabanks/mufg]] 系列（持分法 39.6%）| 親会社の銀行 ATM・送客で先行、海外（タイ Easy Buy 等）展開 |
-| プロミス（SMBCCF）| [[megabanks/smfg]] 100% 完全子会社 | 親会社銀行との一体運営で送客効率高い |
+| [[consumer-finance/smbc-consumer-finance|プロミス（SMBCコンシューマーファイナンス）]]| [[megabanks/smfg]] 100% 完全子会社 | 親会社銀行との一体運営で送客効率高い |
 | 楽天カード・PayPay カード | [[payment-firms/rakuten-fg]] / [[megabanks/paypay-fg]] | EC・決済プラットフォームと一体、若年層で先行 |
 | 銀行カードローン | 全メガバンク・地銀 | 銀行直営の低金利カードローンが代替商品化 |
 | [[card-issuers/orico]] / [[card-issuers/credit-saison]] / [[card-issuers/jaccs]] | 信販系 | 個品割賦軸が異なる、消費者金融とは隣接 |
@@ -148,7 +148,7 @@ translated_at: 2026-06-02T14:01:20.966Z
   - 過払い金請求は減少基調だが完全消滅していない
   - 銀行カードローンの「実質総量規制超過」問題（業界自主規制）
 
-## 関連
+## 関連項目
 
 - [[megabanks/mufg]] — 3 大消費者金融の競合（アコム持分法 39.6%）
 - [[megabanks/smfg]] — 3 大消費者金融の競合（プロミス＝SMBCCF 100% 子会社）

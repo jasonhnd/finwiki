@@ -1,11 +1,11 @@
 ---
 source: fintech/wholesale-settlement-network-matrix
-source_hash: c590fa755e5b9206
+source_hash: aaac3db83459d433
 lang: en
 status: machine
 fidelity: ok
 title: "Wholesale settlement network comparison matrix — Fnality / Partior / JPM Kinexys / mBridge / Agorá / Mariana"
-translated_at: 2026-05-31T11:13:44.887Z
+translated_at: 2026-06-15T03:48:21.910Z
 ---
 
 # Wholesale settlement network comparison matrix — Fnality / Partior / JPM Kinexys / mBridge / Agorá / Mariana
@@ -15,7 +15,7 @@ translated_at: 2026-05-31T11:13:44.887Z
 This entry sits under [[fintech/INDEX|fintech index]] as the six-way side-by-side comparison matrix for the most-cited wholesale settlement networks. It complements the per-network deep dives at [[fintech/fnality-wholesale-settlement|Fnality fnPS]], [[fintech/partior-jpm-dbs-temasek-consortium|Partior]], [[fintech/jpm-onyx-wholesale-network|JPM Onyx / Kinexys]], [[fintech/mbridge-bis-multi-cbdc-overview|mBridge]], and [[fintech/bis-project-agora-overview|BIS Project Agorá]]. For the governance pattern see [[fintech/multi-megabank-consortium-governance|多大银行联邦治理]]; for the central-banking-unbundling context see [[fintech/central-banking-function-unbundling|央行职能解体]]; for the interoperability story with stablecoins see [[fintech/circle-usdc-stablecoin|Circle USDC]] and [[fintech/jpmorgan-jpmd-coin|JPMorgan JPMD]].
 
 > [!info] TL;DR
-> Six wholesale-settlement networks anchor the 2026-05 public dataset: **Fnality fnPS** (BoE-licensed central-bank-reserve token, GBP live 2024-Q2, 20+ shareholder banks), **Partior** (4-bank Singapore-MAS-licensed consortium, USD/SGD/EUR/GBP/JPY live, $1.5T cumulative), **JPM Kinexys** (single-bank-owned $5B/day, $1.5T cumulative, JPM Coin + Liink + Onyx Digital Assets), **mBridge** (BIS multi-CBDC bridge — PBoC/HKMA/BoT/CBUAE/SAMA after BIS exit 2025-10), **Project Agora** (7 G10 central banks + 40 commercial banks, design-phase since 2024-04), and **Project Mariana** (BIS multi-CBDC FX swap PoC with BdF/MAS/SNB, completed 2023). Read across the matrix the structural pattern: **settlement asset (central-bank reserve vs commercial-bank deposit vs synthetic) is the binding regulatory variable**, **consortium membership shape (single-bank vs multi-bank vs central-bank-only) dictates governance speed**, and **only Fnality has 100% central-bank-reserve backing with full BoE approval as a systemic payment system**.
+> Six wholesale-settlement networks anchor the 2026-05 public dataset: **Fnality fnPS** (BoE-licensed central-bank-reserve token, GBP live 2024-Q2, 20+ shareholder banks), **Partior** (4-bank Singapore-MAS-licensed consortium, USD/SGD/EUR/GBP/JPY live, $1.5T cumulative), **JPM Kinexys** (single-bank-owned $5B/day, $1.5T cumulative, JPM Coin + Liink + Onyx Digital Assets), **mBridge** (BIS multi-CBDC bridge — PBoC/HKMA/BoT/CBUAE/SAMA after BIS exit 2025-10), **Project Agorá** (7 G10 central banks + 40 commercial banks, design-phase since 2024-04), and **Project Mariana** (BIS multi-CBDC FX swap PoC with BdF/MAS/SNB, completed 2023). Read across the matrix the structural pattern: **settlement asset (central-bank reserve vs commercial-bank deposit vs synthetic) is the binding regulatory variable**, **consortium membership shape (single-bank vs multi-bank vs central-bank-only) dictates governance speed**, and **only Fnality has 100% central-bank-reserve backing with full BoE approval as a systemic payment system**.
 
 ## Why a six-way comparison
 
@@ -39,10 +39,10 @@ Single-network narratives ("Fnality is the consortium model," "Kinexys is the si
 | Network | Membership shape | Member count | Governance model |
 |---|---|---|---|
 | Fnality fnPS | **Multi-bank consortium + infrastructure** | **20+ shareholders**: Lloyds, Santander, UBS, BNY Mellon, Barclays, Goldman, MUFG, ING, Sumitomo Mitsui, State Street, Nasdaq Ventures, DTCC, Euroclear | Multi-shareholder governance; slow decision speed (£ fnPS took 9 years from USC concept to launch) |
-| Partier | **4 main shareholders + 30+ network members** | **JPMorgan + DBS + Temasek + Standard Chartered (2024)** | Singapore-anchored; faster than Fnality but slower than Kinexys |
+| Partior | **4 main shareholders + 30+ network members** | **JPMorgan + DBS + Temasek + Standard Chartered (2024)** | Singapore-anchored; faster than Fnality but slower than Kinexys |
 | JPM Kinexys | **Single bank** | **JPM only** | Fastest decision speed; 180+ institutional clients via Liink |
-| mBridge | **Central-bank consortium** | **5 active central banks** post-BIS exit: PBoC + HKMA + BoT + CBUAE + SAMA | Multi-central-bank with PBoC operational lead post-2025-10 UNTIL exit |
-| Project Agora | **G10 central banks + global commercial banks** | **7 G10 central banks** (FRBNY, BoE, BdF, BoJ, BoK, Banxico, SNB) + **40+ commercial banks** | BIS-coordinated; design phase |
+| mBridge | **Central-bank consortium** | **5 active central banks** post-BIS exit: PBoC + HKMA + BoT + CBUAE + SAMA | Multi-central-bank with PBoC operational lead post-2025-10 BIS exit |
+| Project Agorá | **G10 central banks + global commercial banks** | **7 G10 central banks** (FRBNY, BoE, BdF, BoJ, BoK, Banxico, SNB) + **40+ commercial banks** | BIS-coordinated; design phase |
 | Project Mariana | **3 central banks** (PoC) | BdF + MAS + SNB | Time-limited research PoC (2022-2023) |
 
 **Decision-speed scaling**: **Kinexys (1 bank) > Partior (4 banks) > mBridge (5 central banks) > Fnality (20+ banks) > Agorá (47+ institutions)**. The Fnality 9-year-to-launch vs Kinexys' 4-year-to-$1.5T comparison is the canonical case for "multi-shareholder governance is slow." But Fnality has central-bank-reserve backing that Kinexys structurally cannot match (a commercial bank cannot tokenise other banks' reserves), making the comparison about **scope of legitimacy** rather than pure speed.
@@ -94,7 +94,7 @@ The regulatory category split is binary: **Fnality is the only system that is bo
 | Partior | **Hyperledger Fabric** derivative | Permissioned BFT | Bilateral bridges with member banks' internal systems |
 | JPM Kinexys | **Quorum** (JPM-developed Ethereum fork; donated to ConsenSys) | Permissioned BFT | JPMD extension to public chains: Base (2025-11) → **Canton** (2026-01) |
 | mBridge | Custom permissioned DLT | **HotStuff BFT** | None planned beyond participating CB networks |
-| Project Agorá | Not finalised; design phase exploring multiple platforms | Not publicly specified in current design-phase materials | Designed to be platform-agnostic |
+| Project Agorá | Not finalised; design phase exploring multiple platforms | Not publicly specified in the cited design materials | Designed to be platform-agnostic |
 | Project Mariana | Distributed ledger with AMM module | PoC ledger | n/a (research) |
 
 The technology stack pattern: **all production systems use permissioned BFT consensus** (no public-chain consensus); **Quorum / Besu / Fabric** dominate; **Canton emerges in 2026** as JPM's chosen privacy-and-composability target for JPMD; **HotStuff BFT** is unique to mBridge. The platform-agnosticism of Agorá is a deliberate design choice — BIS coordination across 7 G10 central banks cannot mandate a single stack.
@@ -104,7 +104,7 @@ The technology stack pattern: **all production systems use permissioned BFT cons
 | Network | PvP across currencies | DvP for securities | Atomic FX swap |
 |---|---|---|---|
 | Fnality fnPS | **Cross-currency PvP via fnPS GBP × fnPS USD** (planned 2026-2027 when $ fnPS live) | DvP modules in development | Designed as Herstatt-risk-killer |
-| Partier | **24×7 atomic FX swap** (live 2024-Q3) | DvP for tokenised securities | **Direct competitor to Fnality cross-currency PvP** |
+| Partior | **24×7 atomic FX swap** (live 2024-Q3) | DvP for tokenised securities | **Direct competitor to Fnality cross-currency PvP** |
 | JPM Kinexys | Cross-currency within Kinexys via Onyx Digital Assets | DvP for intraday repo + tokenised treasuries ($700B+ cumulative) | Within JPM customer base |
 | mBridge | **PvP atomic settlement** between participating CBDCs | Securities DvP not primary scope | Across mBridge participants |
 | Project Agorá | **Cross-border PvP + DvP** are explicit design goals for Phase 2 | DvP design phase | Cross-currency atomic swap is design goal |
@@ -193,7 +193,7 @@ These nine dimensions together explain why **Fnality is the only system that can
 - JPMorgan Kinexys public site: https://www.jpmorgan.com/kinexys
 - JPMorgan Onyx legacy page: https://www.jpmorgan.com/onyx
 - BIS Innovation Hub CBDC topic landing: https://www.bis.org/about/bisih/topics/cbdc.htm
-- BIS Agorá Project page: https://www.bis.org/about/bisih/topics/cbdc/agora.htm
+- BIS Project Agorá page: https://www.bis.org/about/bisih/topics/cbdc/agora.htm
 - BIS Working Paper No. 1116 — "The next-generation monetary system — a blueprint" (2024): https://www.bis.org/publ/work1116.htm
 - BIS Project Mariana — published research report (2023)
 - SWIFT × Fnality collaboration announcement (2024-Q4): https://www.swift.com/news-events/news/swift-fnality-collaboration

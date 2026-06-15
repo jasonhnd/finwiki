@@ -1,253 +1,253 @@
 ---
 source: finance/japan-listed-financial-groups-investable-universe
-source_hash: 017e6f6bc0ee8d09
+source_hash: 4e9e307637f0d117
 lang: ja
 status: machine
 fidelity: ok
-title: "日本上場金融グループの投資対象ユニバース"
-translated_at: 2026-06-02T13:21:55.067Z
+title: "日本上場金融グループ investable universe"
+translated_at: 2026-06-15T03:48:21.921Z
 ---
 
-# 日本上場金融グループの投資対象ユニバース
+# 日本上場金融グループ investable universe
 
-## ウィキ上の位置づけ
+## Wiki 経路
 
-このページは[[finance/INDEX|finance index]]の配下に位置づけられる。 これは日本上場金融グループに関する公開情報ベースの参照ユニバースであり、 併読対象は [[finance/japan-ib-league-table]] アドバイザー側のピア・マッピング, [[finance/japan-activist-investor-playbook]] エンゲージメント / 支配権の読み取り, [[finance/japan-large-shareholding-disclosure]] 持分開示の仕組み, [[finance/japan-shareholder-proposal-and-agm-voting-route]] 株主総会 / スチュワードシップの経路, and [[finance/INDEX|finance INDEX]] 個別法人ページ. システム側の文脈は [[securities/tokyo-stock-exchange]] and [[securities/japan-market-infrastructure-map]].
+このページは [[finance/INDEX|finance index]] の下に位置する。これは日本上場金融グループの public-source reference universe であり、アドバイザー側のピアマッピングとしては [[finance/japan-ib-league-table]] と、エンゲージメント / 支配の読み解きとしては [[finance/japan-activist-investor-playbook]] と、保有開示メカニクスとしては [[finance/japan-large-shareholding-disclosure]] と、AGM / スチュワードシップ経路としては [[finance/japan-shareholder-proposal-and-agm-voting-route]] と、エンティティレベルのページとしては [[finance/INDEX|finance INDEX]] と併せて読むこと。システム側の文脈は [[securities/tokyo-stock-exchange]] と [[securities/japan-market-infrastructure-map]] にある。
 
-## 要約
+## 要点（TL;DR）
 
-これは日本上場金融グループをサブセクター別に整理した参照ユニバース・マップである。 これは買い / 売りリストではなく、投資助言でも、推奨でも、モデルポートフォリオでもない。 すべてのKPIレンジ (market-cap class, ROEクラス, yield class, foreign ownership class, index inclusion, capital-action class) は公開情報上の記述子であり that 読者が現実の意思決定に使う前に、各発行体の最新IR資料、JPX適時開示、EDINET提出書類で再確認する必要がある。 データ検証は読者の責任であり、 古くなった項目や入れ替わった項目は発行体の原典と照合する必要がある。
+これは日本上場金融グループのリファレンス・ユニバース・マップであり、サブセクター別に整理されている。これは買い / 売りリストではなく、投資助言でもなく、推奨でもなく、モデルポートフォリオでもない。すべての KPI レンジ (時価総額クラス、ROE クラス、利回りクラス、外国人保有クラス、指数組入、資本アクションクラス) は public-surface descriptors であり、読者が実世界の判断に用いる前に、各発行体の最新の IR 資料、JPX 適時開示、EDINET 提出書類に照らして再確認しなければならない。データの検証は読者の責任であり、古くなった、あるいはローテーションされたエントリは元の発行体ソースと照合して整合させるべきである。
 
-## ユニバースの範囲
+## ユニバースのスコープ
 
-| サブセクター | このページでの対象範囲 |
+| Sub-sector | Coverage in this page |
 |---|---|
-| メガバンク金融グループ | 中核となる4つのメガバンク / 大手銀行FGアンカー。 |
-| Trust FG | 単一の上場大手信託FGアンカー。 |
-| Regional bank FGs | 地域と規模を横断する代表的な上場地方FG。網羅的ではない。 |
-| Net banks / digital banks | 近年上場したデジタル / オンライン銀行アンカーと隣接するフィンテック銀行系上場銘柄。 |
-| Major life and non-life insurers | 指数ウェイトの大きい上場生保・損保グループ。 |
-| Major securities | 上場独立系およびオンライン証券グループ。メガバンク系証券部門は親FGの下に置く。 |
-| Card / consumer finance | 上場カード発行会社および消費者金融会社。 |
-| Leasing | 上場総合 / 設備 / 銀行系リースグループ。 |
-| Telco-finance hybrid | 意味のある規模の金融グループを保有する上場通信会社。 |
-| Fintech / crypto-adjacent | 金融事業がフィンテック主導または暗号資産隣接の上場グループ。 |
+| Megabank financial groups | The four core megabank / large-bank FG anchors. |
+| Trust FG | The single listed large trust FG anchor. |
+| Regional bank FGs | Representative listed regional FGs across geography and size; not exhaustive. |
+| Net banks / digital banks | Recently-listed digital / online bank anchors and adjacent fintech-banking listed names. |
+| Major life and non-life insurers | The listed life and non-life groups with significant index weight. |
+| Major securities | Listed independent and online securities groups; megabank-affiliated securities arms sit under their parent FG. |
+| Card / consumer finance | Listed card issuers and consumer finance lenders. |
+| Leasing | Listed general / equipment / bank-affiliated leasing groups. |
+| Telco-finance hybrid | Listed telcos that hold a financial group of meaningful scale. |
+| Fintech / crypto-adjacent | Listed groups whose financial business is fintech-led or crypto-adjacent. |
 
-The universe is 併読対象は [[finance/INDEX|finance INDEX]], これは個別発行体の法人レベル索引である。
+このユニバースは [[finance/INDEX|finance INDEX]] に照らして読むこと。これは個別発行体のためのエンティティレベルのインデックスである。
 
-## 投資対象ユニバース・マトリクスの項目
+## Investable-Universe マトリクスのフィールド
 
-以下の各法人について、マトリクスは次の公開情報上の項目を用いる。
+以下の各エンティティについて、マトリクスは次の public-surface フィールドを用いる:
 
-| 項目 | 把握する内容 |
+| Field | What it captures |
 |---|---|
-| ティッカー | 東証4桁の発行体コード（主要上場）。 |
-| 時価総額クラス | 大型 / 中型 / 小型という記述子。点推定ではない。 |
-| サブセクター | 銀行 / 保険 / 証券 / 消費者金融 / リース / フィンテック / 通信金融。 |
-| 主要株主の形状 | ソブリン / 戦略保有 / 親会社 / 浮動株中心といった記述子のみ。 |
-| ROEクラス | レンジ記述子 (low single-digit / mid single-digit / high single-digit / double-digit) 最新IRから読み取る。陳腐化リスクの注意が適用される。 |
-| 利回りクラス | レンジ記述子 (low / mid / high) 最新IRから読み取る。予測ではない。 |
-| 自社株買い / 資本還元方針 | 「開示済み自社株買いプログラムあり」「累進配当」「方針見直し中」など、存在のみを示す記述子。 |
-| 指数採用 | Nikkei 225 / TOPIX Core 30 / TOPIX Large 70 / FTSE Russell Japan presence. |
-| 外国人保有クラス | 低 / 中 / 高の帯 最新IRから読み取る。陳腐化リスクの注意が適用される。 |
-| 最近の資本アクション | 公開開示されているTOB対象 / アクティビスト対象 / ライツ・オファリング / 転換証券発行 / 資本業務提携。 |
-| スチュワードシップ・アンカー | 発行体が既知のスチュワードシップ / エンゲージメント対象かどうか。経由でルーティングする。 [[finance/japan-shareholder-proposal-and-agm-voting-route]]. |
-| 主要リスク | 当該サブセクターにおける主要なバランスシート / 収益リスクのクラス。 |
+| Ticker | TSE 4-digit issuer code (primary listing). |
+| Market-cap class | 大型 / 中型 / 小型 descriptor; not a point estimate. |
+| Sub-sector | banking / insurance / securities / consumer finance / leasing / fintech / telco-finance. |
+| Major shareholder shape | Sovereign / strategic / parent / public-float-heavy descriptor only. |
+| ROE class | Range descriptor (low single-digit / mid single-digit / high single-digit / double-digit) read from latest IR; stale-risk warning applies. |
+| Yield class | Range descriptor (low / mid / high) read from latest IR; not a forecast. |
+| Buyback / capital-return policy | "Disclosed buyback programme present", "progressive dividend", "policy under review", etc. - presence-only descriptor. |
+| Index inclusion | Nikkei 225 / TOPIX Core 30 / TOPIX Large 70 / FTSE Russell Japan presence. |
+| Foreign-ownership class | Low / mid / high band read from latest IR; stale-risk warning applies. |
+| Recent capital action | TOB-target / activist-target / rights-offering / convertible issuance / capital-and-business alliance, where publicly disclosed. |
+| Stewardship anchor | Whether the issuer is a known stewardship / engagement target, routed via [[finance/japan-shareholder-proposal-and-agm-voting-route]]. |
+| Key risks | The dominant balance-sheet / earnings risk class for the sub-sector. |
 
-以下の値はすべて、公開IR / 開示文脈から導いたカテゴリ記述子である。 点推定ではなく、急速に陳腐化する。 使用前に、発行体の最新決算短信、有価証券報告書、ガバナンス報告書、IR資料で再確認すること。
+以下のすべての値は public-surface IR / 開示の文脈から導出されたカテゴリカルな記述子である。これらは point estimates ではなく、すぐに古くなる。利用前に発行体の最新の決算短信、有価証券報告書、ガバナンス報告書、IR デックに照らして再確認すること。
 
-## メガバンクFG
+## Megabank FGs
 
-| 法人 | ティッカー | 時価総額クラス | 主要株主の形状 | ROEクラス | 利回りクラス | 自社株買い方針の有無 | 指数採用 | 外国人保有クラス | 主要リスク |
+| Entity | Ticker | Market-cap class | Major shareholder shape | ROE class | Yield class | Buyback policy presence | Index inclusion | Foreign-ownership class | Key risks |
 |---|---|---|---|---|---|---|---|---|---|
-| [[megabanks/mufg]] | 8306 | 大型 | 浮動株中心 信託 / 保険会社の持合いを伴う | 過去実績は一桁台半ばから一桁台後半レンジ | 中位利回りクラス | 過去に自社株買いプログラムを開示 | Nikkei 225, TOPIX Core 30, FTSE Russell Japan | 外国人保有比率は高位 | NIM圧縮, JGB金利パス, 米国 / 海外信用コスト, 為替換算. |
-| [[megabanks/smfg]] | 8316 | 大型 | 浮動株中心 戦略的持合いを伴う | 過去実績は一桁台半ばから一桁台後半レンジ | 中位利回りクラス | 過去に自社株買いプログラムを開示 | Nikkei 225, TOPIX Core 30, FTSE Russell Japan | 外国人保有比率は高位 | NIM圧縮, 海外信用, 政策保有株解消ペース, 資本政策の執行. |
-| [[megabanks/mizuho-fg]] | 8411 | 大型 | 浮動株中心 戦略的持合いを伴う | 過去実績は一桁台前半から一桁台半ばレンジ | 中位利回りクラス | 自社株買い方針の有無 varies by period | Nikkei 225, TOPIX Core 30, FTSE Russell Japan | 外国人保有比率は高位 | NIM圧縮, システム / オペレーショナルリスクのレガシー, 海外信用, 資本政策の執行. |
-| Resona HD | 8308 | 中型 to 大型 | 浮動株中心 地域 / 中小企業向け銀行フランチャイズ | 過去実績は一桁台半ばレンジ | 中位利回りクラス | 過去に累進配当姿勢を開示 | TOPIX, FTSE Russell Japan | 外国人保有比率は中位 | 国内中心の NIM, 中小企業信用サイクル, 地域金利感応度, 店舗網コスト. |
+| [[megabanks/mufg]] | 8306 | 大型 | Public-float-heavy with trust / insurer cross-holdings | Mid single-digit to high single-digit historical range | Mid yield class | Buyback programme historically disclosed | Nikkei 225, TOPIX Core 30, FTSE Russell Japan | High foreign ownership | NIM compression, JGB rate path, US / overseas credit cost, FX translation. |
+| [[megabanks/smfg]] | 8316 | 大型 | Public-float-heavy with strategic cross-holdings | Mid single-digit to high single-digit historical range | Mid yield class | Buyback programme historically disclosed | Nikkei 225, TOPIX Core 30, FTSE Russell Japan | High foreign ownership | NIM compression, overseas credit, equity holdings unwind pace, capital-policy execution. |
+| [[megabanks/mizuho-fg]] | 8411 | 大型 | Public-float-heavy with strategic cross-holdings | Low single-digit to mid single-digit historical range | Mid yield class | Buyback policy presence varies by period | Nikkei 225, TOPIX Core 30, FTSE Russell Japan | High foreign ownership | NIM compression, system / operational risk legacy, overseas credit, capital-policy execution. |
+| Resona HD | 8308 | 中型 to 大型 | Public-float-heavy regional / SME-bank franchise | Mid single-digit historical range | Mid yield class | Progressive dividend stance historically disclosed | TOPIX, FTSE Russell Japan | Mid foreign ownership | Domestic-focused NIM, SME credit cycle, regional rate sensitivity, branch-network cost. |
 
-Read these against [[finance/japan-ib-league-table]] for adviser-side franchise depth and [[finance/INDEX|finance INDEX]] 個別法人ページ.
+これらは、アドバイザー側のフランチャイズの厚みについては [[finance/japan-ib-league-table]] と、エンティティレベルのページについては [[finance/INDEX|finance INDEX]] と照らして読むこと。
 
-## 信託FG
+## Trust FG
 
-| 法人 | ティッカー | 時価総額クラス | 主要株主の形状 | ROEクラス | 利回りクラス | 自社株買い方針の有無 | 指数採用 | 外国人保有クラス | 主要リスク |
+| Entity | Ticker | Market-cap class | Major shareholder shape | ROE class | Yield class | Buyback policy presence | Index inclusion | Foreign-ownership class | Key risks |
 |---|---|---|---|---|---|---|---|---|---|
-| Sumitomo Mitsui Trust HD | 8309 | 大型 | 浮動株中心 with strategic / corporate 政策保有株s | 過去実績は一桁台半ばレンジ | 中位利回りクラス | 過去に自社株買いプログラムを開示 | Nikkei 225, TOPIX, FTSE Russell Japan | 外国人保有比率は中位から高位 | 信託銀行手数料の圧縮, 資産運用フロー, JGB金利パス, 不動産エクスポージャー, 受託者責任 / ガバナンス・イベントリスク. |
+| Sumitomo Mitsui Trust HD | 8309 | 大型 | Public-float-heavy with strategic / corporate cross-holdings | Mid single-digit historical range | Mid yield class | Buyback programme historically disclosed | Nikkei 225, TOPIX, FTSE Russell Japan | Mid to high foreign ownership | Trust-banking fee compression, asset-management flow, JGB rate path, real-estate exposure, fiduciary / governance event risk. |
 
-## 地方銀行FG（代表例）
+## Regional FGs (representative)
 
-このリストは代表例であり、網羅的ではない。 地方FGの合併・再編によりユニバースは頻繁に入れ替わる。使用前に各ティッカーを最新のJPX上場会社検索で確認すること。
+このリストは代表的なものであり、網羅的ではない。地域 FG の合併・再編はユニバースを頻繁にローテーションさせる; 利用前に各ティッカーを最新の JPX 発行体検索に照らして検証すること。
 
-| 法人 | ティッカー | 時価総額クラス | サブセクター | 主要株主の形状 | 利回りクラス | 指数採用 | 主要リスク |
+| Entity | Ticker | Market-cap class | Sub-sector | Major shareholder shape | Yield class | Index inclusion | Key risks |
 |---|---|---|---|---|---|---|---|
-| Concordia FG | 7186 | 中型 | 関東地方銀行FG | 浮動株中心 | 中位利回りクラス | TOPIX | NIM, 地域信用サイクル, 預金コスト. |
-| Mebuki FG | 7167 | 中型 | 関東 / 東北地方FG | 浮動株中心 | 中位から高位の利回りクラス | TOPIX | NIM, 人口縮小, SME credit. |
-| Fukuoka FG | 8354 | 中型 to 大型 | 九州地方FG | 浮動株中心 with parent-of digital-bank franchise | 中位利回りクラス | Nikkei 225 historically, TOPIX | デジタル銀行の執行, NIM, Kyushu regional credit. |
-| Yamaguchi FG | 8418 | 中型 | 中国地方FG | 浮動株中心 | 中位から高位の利回りクラス | TOPIX | Governance event risk, NIM, regional credit. |
-| Shizuoka FG | 5831 | 中型 | 東海地方FG | 浮動株中心 | 中位利回りクラス | TOPIX | NIM, regional credit, 有価証券ポートフォリオリスク. |
-| Kyushu FG | 7180 | 中型 | 九州地方FG | 浮動株中心 | 中位から高位の利回りクラス | TOPIX | Regional credit cycle, NIM, 店舗コスト構造. |
-| Hokuhoku FG | 8377 | 中型 | 北海道 / 北陸地方FG | 浮動株中心 | 中位から高位の利回りクラス | TOPIX | Demographic shrinkage, NIM, regional credit. |
-| Hirogin HD | 7337 | 中型 | 中国地方FG | 浮動株中心 | 中位利回りクラス | TOPIX | NIM, 有価証券ポートフォリオリスク, SME credit. |
-| Tokyo Kiraboshi FG | 7173 | 小型 to 中型 | 東京都域FG | 浮動株と戦略保有 | 中位利回りクラス | TOPIX | SME credit, NIM, 預金コスト, governance. |
-| Nishi-Nippon FH | 7189 | 中型 | 九州地方FG | 浮動株中心 | 中位から高位の利回りクラス | TOPIX | Regional credit, NIM, 不動産エクスポージャー. |
-| Dai-shi Hokuetsu FG | 7327 | 中型 | 新潟地方FG | 浮動株中心 | 中位から高位の利回りクラス | TOPIX | Demographic shrinkage, NIM, regional credit. |
-| Hokkoku FH | 7381 | 小型 to 中型 | 北陸地方FG | 浮動株中心 with テック / デジタル施策 | 中位利回りクラス | TOPIX | デジタル施策の執行, NIM, regional credit. |
+| Concordia FG | 7186 | 中型 | Kanto regional bank FG | Public-float-heavy | Mid yield class | TOPIX | NIM, regional credit cycle, deposit cost. |
+| Mebuki FG | 7167 | 中型 | Kanto / Tohoku regional FG | Public-float-heavy | Mid to high yield class | TOPIX | NIM, demographic shrinkage, SME credit. |
+| Fukuoka FG | 8354 | 中型 to 大型 | Kyushu regional FG | Public-float-heavy with parent-of digital-bank franchise | Mid yield class | Nikkei 225 historically, TOPIX | Digital-bank execution, NIM, Kyushu regional credit. |
+| Yamaguchi FG | 8418 | 中型 | Chugoku regional FG | Public-float-heavy | Mid to high yield class | TOPIX | Governance event risk, NIM, regional credit. |
+| Shizuoka FG | 5831 | 中型 | Tokai regional FG | Public-float-heavy | Mid yield class | TOPIX | NIM, regional credit, securities portfolio risk. |
+| Kyushu FG | 7180 | 中型 | Kyushu regional FG | Public-float-heavy | Mid to high yield class | TOPIX | Regional credit cycle, NIM, branch-cost structure. |
+| Hokuhoku FG | 8377 | 中型 | Hokkaido / Hokuriku regional FG | Public-float-heavy | Mid to high yield class | TOPIX | Demographic shrinkage, NIM, regional credit. |
+| Hirogin HD | 7337 | 中型 | Chugoku regional FG | Public-float-heavy | Mid yield class | TOPIX | NIM, securities portfolio risk, SME credit. |
+| Tokyo Kiraboshi FG | 7173 | 小型 to 中型 | Tokyo metropolitan FG | Public-float with strategic stakes | Mid yield class | TOPIX | SME credit, NIM, deposit cost, governance. |
+| Nishi-Nippon FH | 7189 | 中型 | Kyushu regional FG | Public-float-heavy | Mid to high yield class | TOPIX | Regional credit, NIM, real-estate exposure. |
+| Dai-shi Hokuetsu FG | 7327 | 中型 | Niigata regional FG | Public-float-heavy | Mid to high yield class | TOPIX | Demographic shrinkage, NIM, regional credit. |
+| Hokkoku FH | 7381 | 小型 to 中型 | Hokuriku regional FG | Public-float-heavy with tech / digital initiative | Mid yield class | TOPIX | Digital-initiative execution, NIM, regional credit. |
 
-Regional FGs are read with [[finance/japan-activist-investor-playbook]] because they have been a recurring stewardship and capital-policy engagement universe.
+地域 FG は [[finance/japan-activist-investor-playbook]] と併せて読むこと。なぜなら、それらは繰り返しスチュワードシップおよび資本政策のエンゲージメント・ユニバースであったからである。
 
-## ネット銀行 / デジタル銀行および銀行隣接上場銘柄
+## Net banks / digital banks and bank-adjacent listed names
 
-| 法人 | ティッカー | 時価総額クラス | サブセクター | 主要株主の形状 | 指数採用 | 主要リスク |
+| Entity | Ticker | Market-cap class | Sub-sector | Major shareholder shape | Index inclusion | Key risks |
 |---|---|---|---|---|---|---|
-| Rakuten Bank | 5838 | 中型 | ネット銀行、上場デジタル銀行 | 親会社楽天グループが過半 / 戦略保有 | TOPIX | 親会社資金調達との連動, 預金コスト競争, 信用成長の質, 規制境界. |
-| Mercari | 4385 | 中型 to 大型 | C2C 金融 / 決済 / 融資部門を持つマーケットプレイス（隣接） | 浮動株中心 | TOPIX | 金融サービス部門の損失, 規制境界, マーケットプレイスGMV, 信用の質. |
+| Rakuten Bank | 5838 | 中型 | Net bank, listed digital bank | Parent Rakuten group majority / strategic | TOPIX | Parent-funding linkage, deposit-cost competition, credit growth quality, regulatory perimeter. |
+| Mercari | 4385 | 中型 to 大型 | C2C marketplace with finance / payment / lending arm (adjacent) | Public-float-heavy | TOPIX | Financial-service unit losses, regulatory perimeter, marketplace GMV, credit quality. |
 
-注: 日本の多くのデジタル銀行ブランド (e.g. SBI Sumishin Net Bank, au Jibun Bank, PayPay Bank) は単独上場ではなく上場親FGの内部にある。親子関係の整理は [[finance/INDEX|finance INDEX]] を参照。
+注: 日本の多くのデジタルバンクのブランド (例: SBI 住信ネット銀行、au じぶん銀行、PayPay 銀行) は、単独上場ではなく上場親会社 FG の内側に位置する; parent-of マッピングについては [[finance/INDEX|finance INDEX]] を参照。
 
-## 大手保険会社（上場）
+## Major insurers (listed)
 
-| 法人 | ティッカー | 時価総額クラス | サブセクター | 主要株主の形状 | 利回りクラス | 自社株買い方針の有無 | 指数採用 | 外国人保有クラス | 主要リスク |
+| Entity | Ticker | Market-cap class | Sub-sector | Major shareholder shape | Yield class | Buyback policy presence | Index inclusion | Foreign-ownership class | Key risks |
 |---|---|---|---|---|---|---|---|---|---|
-| [[life-insurers/dai-ichi-life]] HD | 8750 | 大型 | 生命保険 | 浮動株中心 戦略的持合いを伴う | 中位利回りクラス | 過去に自社株買いプログラムを開示 | Nikkei 225, TOPIX Core 30 / Large 70, FTSE Russell Japan | 外国人保有比率は高位 | NIRPレガシー / 金利感応度, 株式市場感応度, FX, 海外生命保険引受. |
-| [[non-life-insurers/sompo]] HD | 8630 | 大型 | 損害保険 + nursing / overseas | 浮動株中心 戦略的持合いを伴う | 中位利回りクラス | Buyback / 政策保有株 unwind policy historically disclosed | Nikkei 225, TOPIX, FTSE Russell Japan | 外国人保有比率は中位から高位 | 自然災害サイクル, 海外引受, governance / 代理店チャネル・イベントリスク, 政策保有株 unwind pace. |
-| Tokio Marine HD | 8766 | 大型 | 損害保険 + overseas | 浮動株中心 戦略的持合いを伴う | 中位利回りクラス | 過去に自社株買いプログラムを開示 | Nikkei 225, TOPIX Core 30, FTSE Russell Japan | 外国人保有比率は高位 | 自然災害サイクル, 海外P&C引受, FX, 資本政策の執行. |
-| MS&AD Insurance Group HD | 8725 | 大型 | 損害保険 + life + overseas | 浮動株中心 戦略的持合いを伴う | 中位利回りクラス | 過去に自社株買いプログラムを開示 | Nikkei 225, TOPIX, FTSE Russell Japan | 外国人保有比率は中位から高位 | 自然災害サイクル, 海外引受, 政策保有株 unwind pace, ガバナンス・イベントリスク. |
+| [[life-insurers/dai-ichi-life]] HD | 8750 | 大型 | Life insurance | Public-float-heavy with strategic cross-holdings | Mid yield class | Buyback programme historically disclosed | Nikkei 225, TOPIX Core 30 / Large 70, FTSE Russell Japan | High foreign ownership | NIRP legacy / rate sensitivity, equity-market sensitivity, FX, overseas life-insurance underwriting. |
+| [[non-life-insurers/sompo]] HD | 8630 | 大型 | Non-life insurance + nursing / overseas | Public-float-heavy with strategic cross-holdings | Mid yield class | Buyback / cross-holding unwind policy historically disclosed | Nikkei 225, TOPIX, FTSE Russell Japan | Mid to high foreign ownership | NatCat cycle, overseas underwriting, governance / agency-channel event risk, cross-holding unwind pace. |
+| Tokio Marine HD | 8766 | 大型 | Non-life insurance + overseas | Public-float-heavy with strategic cross-holdings | Mid yield class | Buyback programme historically disclosed | Nikkei 225, TOPIX Core 30, FTSE Russell Japan | High foreign ownership | NatCat cycle, overseas P&C underwriting, FX, capital-policy execution. |
+| MS&AD Insurance Group HD | 8725 | 大型 | Non-life insurance + life + overseas | Public-float-heavy with strategic cross-holdings | Mid yield class | Buyback programme historically disclosed | Nikkei 225, TOPIX, FTSE Russell Japan | Mid to high foreign ownership | NatCat cycle, overseas underwriting, cross-holding unwind pace, governance event risk. |
 
-生命保険会社は [[finance/japan-large-shareholding-disclosure]] 政策保有株解消が開示面に表れる場合はと併読する。
+生保は、クロスホールディングの解消が開示サーフェスに現れたときには [[finance/japan-large-shareholding-disclosure]] と併せて読むこと。
 
-## 大手証券会社
+## Major securities
 
-| 法人 | ティッカー | 時価総額クラス | サブセクター | 主要株主の形状 | 利回りクラス | 指数採用 | 主要リスク |
+| Entity | Ticker | Market-cap class | Sub-sector | Major shareholder shape | Yield class | Index inclusion | Key risks |
 |---|---|---|---|---|---|---|---|
-| [[securities-firms/nomura-hd]] | 8604 | 大型 | 独立系証券 / ホールセール + リテール + AM | 浮動株中心 | 中位利回りクラス | Nikkei 225, TOPIX, FTSE Russell Japan | ホールセール収益の変動性, 米国 / 海外訴訟, リテール・フローサイクル, 資本・コスト規律. |
-| Daiwa Securities Group | 8601 | 大型 | 独立系証券 / ホールセール + リテール + AM | 浮動株中心 | 中位利回りクラス | Nikkei 225, TOPIX, FTSE Russell Japan | トレーディング収益の変動性, リテール・フローサイクル, ホールセール能力とコストのバランス. |
-| Monex Group | 8698 | 小型 to 中型 | オンライン証券 + 暗号資産 (Coincheck) + US (TradeStation legacy / disposed) | Public-float with founder / strategic stake | 低位から中位の利回りクラス | TOPIX | 暗号資産サイクル依存, リテール取引サイクル, 規制境界. |
-| Matsui Securities | 8628 | 中型 | オンライン証券、リテール・フロー集中 | 創業家 / 戦略保有が大きい | 中位から高位の利回りクラス | TOPIX | Retail-trading cycle, 手数料圧縮, 顧客層の年齢偏り. |
-| SBI HD | 8473 | 大型 | 金融コングロマリット (securities + bank + insurance + AM + VC) | 戦略保有 / 創業者寄りと浮動株 | 中位から高位の利回りクラス | TOPIX, FTSE Russell Japan | コングロマリット・ディスカウント, 子会社間の資本配分, 新生銀行統合, 暗号資産 / フィンテックサイクル. |
+| [[securities-firms/nomura-hd]] | 8604 | 大型 | Independent securities / wholesale + retail + AM | Public-float-heavy | Mid yield class | Nikkei 225, TOPIX, FTSE Russell Japan | Wholesale earnings volatility, US / overseas litigation, retail-flow cycle, capital-and-cost discipline. |
+| Daiwa Securities Group | 8601 | 大型 | Independent securities / wholesale + retail + AM | Public-float-heavy | Mid yield class | Nikkei 225, TOPIX, FTSE Russell Japan | Trading earnings volatility, retail-flow cycle, wholesale capacity vs cost. |
+| Monex Group | 8698 | 小型 to 中型 | Online broker + crypto (Coincheck) + US (TradeStation legacy / disposed) | Public-float with founder / strategic stake | Low to mid yield class | TOPIX | Crypto-cycle dependency, retail-trading cycle, regulatory perimeter. |
+| Matsui Securities | 8628 | 中型 | Online broker, retail-flow concentrated | Founder-family / strategic stake significant | Mid to high yield class | TOPIX | Retail-trading cycle, fee compression, demographic skew. |
+| SBI HD | 8473 | 大型 | Financial conglomerate (securities + bank + insurance + AM + VC) | Strategic / founder-aligned with public float | Mid to high yield class | TOPIX, FTSE Russell Japan | Conglomerate-discount, capital allocation across subsidiaries, Shinsei-bank integration, crypto / fintech cycle. |
 
-これらは [[finance/japan-ib-league-table]] アドバイザリー・フランチャイズの深さを見るためにと併読する; メガバンク系証券部門 (SMBC Nikko, Mizuho Securities, MUFG / MUMS) は上記の親FG項目およびの中に位置づけられる [[finance/INDEX|finance INDEX]].
+これらは、アドバイザリーのフランチャイズの厚みについては [[finance/japan-ib-league-table]] と併せて読むこと; メガバンク系列の証券部門 (SMBC 日興、みずほ証券、MUFG / MUMS) は上記の親 FG エントリの内側および [[finance/INDEX|finance INDEX]] の内側に位置する。
 
-## カード / 消費者金融
+## Card / consumer finance
 
-| 法人 | ティッカー | 時価総額クラス | サブセクター | 主要株主の形状 | 利回りクラス | 指数採用 | 主要リスク |
+| Entity | Ticker | Market-cap class | Sub-sector | Major shareholder shape | Yield class | Index inclusion | Key risks |
 |---|---|---|---|---|---|---|---|
-| Aeon Financial Service | 8570 | 中型 | カード + リテール金融 + ASEAN消費者金融 | イオングループ親会社持分が大きい | 中位から高位の利回りクラス | TOPIX | ASEAN信用サイクル, 親会社チャネル依存, FX, 規制 / 金利上限リスク. |
-| Credit Saison | 8253 | 中型 | カード + 資産形成ローン + 海外金融 | 浮動株と戦略保有 | 中位利回りクラス | TOPIX, Nikkei 225 historically | 信用コストサイクル, 海外金融資産の質, カード会社からバランスシート貸出業者への移行. |
-| Acom | 8572 | 中型 | 消費者金融、MUFG系 | MUFG-affiliated majority stake | 中位利回りクラス | TOPIX | 金利上限規制のレガシー, 過払金返還請求サイクル, credit cycle, parent-group capital policy. |
-| Aiful | 8515 | 小型 to 中型 | 消費者金融、独立系 | 創業者 / 戦略保有が大きい | 低位から中位の利回りクラス | TOPIX | Interest-rate cap legacy, 過払金返還請求のテールリスク, credit cycle, 資金調達コスト. |
-| JACCS | 8584 | 小型 to 中型 | Card + installment + auto loans, MUFG-affiliated | MUFG-affiliated stake significant | 中位から高位の利回りクラス | TOPIX | 自動車ローン信用サイクル, 割賦事業の収益性, NIM. |
-| Orient (Orico) | 8585 | 小型 to 中型 | Card + installment + guarantee, Mizuho-aligned | Mizuho-aligned stake significant | 低位から中位の利回りクラス | TOPIX | 保証事業リスク, カード事業の収益性, NIM. |
-| Pocket Card | 8519 | 小型 | カード発行会社 | Strategic / parent stake significant | 中位利回りクラス | TOPIX | Card-business profitability, 親会社チャネル依存, credit cycle. |
+| Aeon Financial Service | 8570 | 中型 | Card + retail-finance + ASEAN consumer finance | Aeon group parent stake significant | Mid to high yield class | TOPIX | ASEAN credit cycle, parent-channel dependency, FX, regulatory / interest-rate cap risk. |
+| Credit Saison | 8253 | 中型 | Card + asset-formation lending + overseas finance | Public-float with strategic stakes | Mid yield class | TOPIX, Nikkei 225 historically | Credit cost cycle, overseas finance asset quality, transition from card to balance-sheet lender. |
+| Acom | 8572 | 中型 | Consumer finance, MUFG-affiliated | MUFG-affiliated majority stake | Mid yield class | TOPIX | Interest-rate cap regulatory legacy, claims-for-refund cycle, credit cycle, parent-group capital policy. |
+| Aiful | 8515 | 小型 to 中型 | Consumer finance, independent | Founder / strategic stake significant | Low to mid yield class | TOPIX | Interest-rate cap legacy, refund-claims tail risk, credit cycle, funding cost. |
+| JACCS | 8584 | 小型 to 中型 | Card + installment + auto loans, MUFG-affiliated | MUFG-affiliated stake significant | Mid to high yield class | TOPIX | Auto-loan credit cycle, installment business profitability, NIM. |
+| Orient (Orico) | 8585 | 小型 to 中型 | Card + installment + guarantee, Mizuho-aligned | Mizuho-aligned stake significant | Low to mid yield class | TOPIX | Guarantee-business risk, card-business profitability, NIM. |
+| Pocket Card | 8519 | 小型 | Card issuer | Strategic / parent stake significant | Mid yield class | TOPIX | Card-business profitability, parent-channel dependency, credit cycle. |
 
-消費者金融発行体には interest-rate cap regulatory and refund-claim legacy があり、各発行体の最新IRと有価証券報告書で確認すべきである。
+消費者金融の発行体は、各発行体の最新の IR と有価証券報告書に照らして確認すべき金利上限規制および過払金返還請求のレガシーを抱える。
 
-## リース
+## Leasing
 
-| 法人 | ティッカー | 時価総額クラス | サブセクター | 主要株主の形状 | 利回りクラス | 指数採用 | 主要リスク |
+| Entity | Ticker | Market-cap class | Sub-sector | Major shareholder shape | Yield class | Index inclusion | Key risks |
 |---|---|---|---|---|---|---|---|
-| ORIX | 8591 | 大型 | 多角的金融サービス (leasing + corporate finance + real estate + AM + overseas) | 浮動株中心 | 中位利回りクラス | Nikkei 225, TOPIX Core 30, FTSE Russell Japan | コングロマリット・ディスカウント, 海外事業サイクル, aircraft / 不動産エクスポージャー. |
-| Tokyo Century | 8439 | 中型 | リース + 専門金融 + 航空 | 伊藤忠の戦略保有 / 浮動株 | 中位利回りクラス | TOPIX | 航空金融サイクル, 海外金融資産の質, NIM. |
-| Mitsubishi HC Capital | 8593 | 中型 to 大型 | リース + コーポレートファイナンス | MUFG / 三菱系の戦略保有 | 中位利回りクラス | TOPIX | リースマージン圧力, 海外金融資産の質. |
-| Fuyo General Lease | 8424 | 中型 | リース + コーポレートファイナンス | みずほ系の戦略保有 | 中位利回りクラス | TOPIX | リースマージン圧力, NIM, 不動産エクスポージャー. |
-| Mizuho Leasing | 8425 | 中型 | リース + コーポレートファイナンス | みずほの戦略保有が大きい | 中位利回りクラス | TOPIX | リースマージン圧力, 親会社方針依存. |
+| ORIX | 8591 | 大型 | Diversified financial services (leasing + corporate finance + real estate + AM + overseas) | Public-float-heavy | Mid yield class | Nikkei 225, TOPIX Core 30, FTSE Russell Japan | Conglomerate-discount, overseas business cycle, aircraft / real-estate exposure. |
+| Tokyo Century | 8439 | 中型 | Leasing + specialty finance + aviation | Itochu strategic stake / public float | Mid yield class | TOPIX | Aviation finance cycle, overseas finance asset quality, NIM. |
+| Mitsubishi HC Capital | 8593 | 中型 to 大型 | Leasing + corporate finance | MUFG / Mitsubishi-aligned strategic stake | Mid yield class | TOPIX | Leasing-margin pressure, overseas finance asset quality. |
+| Fuyo General Lease | 8424 | 中型 | Leasing + corporate finance | Mizuho-aligned strategic stake | Mid yield class | TOPIX | Leasing-margin pressure, NIM, real-estate exposure. |
+| Mizuho Leasing | 8425 | 中型 | Leasing + corporate finance | Mizuho strategic stake significant | Mid yield class | TOPIX | Leasing-margin pressure, parent-policy dependency. |
 
-Note: JA Mitsui Leasing は共同保有されている by JA group and Mitsui & Co; 上場していないため本ユニバースの対象外である ただし同業比較でシェア比較対象となるため、サブセクター注記として含めている。
+注: JA 三井リースは JA グループと三井物産が共同保有している; これは上場しておらず、したがってこのユニバースの外側に位置するが、ピアがそれに対してシェアを比較するため、サブセクター注記として含めている。
 
-## 通信・金融 / 決済ハイブリッド
+## Telco-finance / payment hybrid
 
-| 法人 | ティッカー | 時価総額クラス | サブセクター | 主要株主の形状 | 指数採用 | 主要リスク |
+| Entity | Ticker | Market-cap class | Sub-sector | Major shareholder shape | Index inclusion | Key risks |
 |---|---|---|---|---|---|---|
-| KDDI | 9433 | 大型 | 保有する通信会社: au Financial Holdings | 浮動株中心 戦略的持合いを伴う | Nikkei 225, TOPIX Core 30, FTSE Russell Japan | 通信設備投資サイクル, financial-arm 信用成長の質, 規制境界, 決済手数料競争. |
-| SoftBank Corp | 9434 | 大型 | 保有する通信会社: PayPay FG (PayPay, PayPay Bank, PayPay Card, PayPay Securities) | SoftBank Group parent majority | Nikkei 225, TOPIX Core 30, FTSE Russell Japan | 通信設備投資サイクル, parent-funding linkage, payment-business credit / 規制境界. |
+| KDDI | 9433 | 大型 | Telco that holds au Financial Holdings | Public-float-heavy with strategic cross-holdings | Nikkei 225, TOPIX Core 30, FTSE Russell Japan | Telco capex cycle, financial-arm credit growth quality, regulatory perimeter, payment-fee competition. |
+| SoftBank Corp | 9434 | 大型 | Telco that holds PayPay FG (PayPay, PayPay Bank, PayPay Card, PayPay Securities) | SoftBank Group parent majority | Nikkei 225, TOPIX Core 30, FTSE Russell Japan | Telco capex cycle, parent-funding linkage, payment-business credit / regulatory perimeter. |
 
-これらのハイブリッド項目は [[finance/INDEX|finance INDEX]] 金融子会社のバランスシートが通信親会社内で開示されるためと併読すると有用である。
+これらのハイブリッドのエントリは [[finance/INDEX|finance INDEX]] と並べて読むのが有用である。なぜなら、金融子会社のバランスシートが通信親会社の内側に開示されているからである。
 
-## フィンテック / 暗号資産
+## Fintech / crypto
 
-| 法人 | ティッカー | 時価総額クラス | サブセクター | 主要株主の形状 | 指数採用 | 主要リスク |
+| Entity | Ticker | Market-cap class | Sub-sector | Major shareholder shape | Index inclusion | Key risks |
 |---|---|---|---|---|---|---|
-| Monex Group | 8698 | 小型 to 中型 | オンライン証券 + 暗号資産 (Coincheck) | Founder / strategic stake | TOPIX | 暗号資産サイクル依存, 証券手数料の圧縮. |
-| Remixpoint | 3825 | 小型 | エネルギー + 暗号資産隣接のトレジャリー保有 | 浮動株、トレジャリー変動性 | TOPIX小型株セグメント | 暗号資産トレジャリーの時価評価, 継続企業 / 開示イベントリスクに関する過去の注意. |
+| Monex Group | 8698 | 小型 to 中型 | Online broker + crypto (Coincheck) | Founder / strategic stake | TOPIX | Crypto-cycle dependency, broker fee compression. |
+| Remixpoint | 3825 | 小型 | Energy + crypto-adjacent treasury holdings | Public-float, treasury volatility | TOPIX small-cap segment | Crypto-treasury mark-to-market, going-concern / disclosure event risk historical caution. |
 
-Monexは the "Securities" matrix and here, フィンテック・サブセクターが上場証券サブセクターと交差するため、両方に登場する。
+Monex は「Securities」マトリクスとここの両方に現れる。なぜなら、フィンテックのサブセクターが上場証券のサブセクターと交差するからである。
 
-## 指数採用レイヤー
+## Index Inclusion Layer
 
-| Index | 読み方 |
+| Index | Reading rule |
 |---|---|
-| Nikkei 225 | 価格加重で対象は狭い; megabank FGs, large insurers, ORIX, Nomura, Daiwa, KDDI, and SoftBank Corp 過去に採用実績がある. |
-| TOPIX | 東証プライム / スタンダード / グロースを広く反映するウェイト; 上記項目のほぼすべてがTOPIXに含まれる。 |
-| TOPIX Core 30 / Large 70 | 大型株サブセット; megabank FGs, Tokio Marine, ORIX, KDDI, SoftBank Corp, and Dai-ichi Life 過去に対象範囲に含まれる. |
-| FTSE Russell Japan | グローバル投資家向け参照指数; megabank FGs, large insurers, large securities, large telco-finance hybrids 過去に採用適格だった. |
+| Nikkei 225 | Price-weighted, narrow; megabank FGs, large insurers, ORIX, Nomura, Daiwa, KDDI, and SoftBank Corp historically present. |
+| TOPIX | Broad TSE Prime / Standard / Growth weight; almost every entry above is in TOPIX. |
+| TOPIX Core 30 / Large 70 | Large-cap subset; megabank FGs, Tokio Marine, ORIX, KDDI, SoftBank Corp, and Dai-ichi Life historically in scope. |
+| FTSE Russell Japan | Global investor reference; megabank FGs, large insurers, large securities, large telco-finance hybrids historically eligible. |
 
-指数採用 rotates; 必ずおよびJPX TOPIX methodology pageで再確認すること [[securities/tokyo-stock-exchange]] and the JPX TOPIX methodology page before relying on a name's index status.
+指数組入はローテーションする; 名柄の指数ステータスに依拠する前に、常に [[securities/tokyo-stock-exchange]] と JPX TOPIX メソドロジーページに照らして再確認すること。
 
-## スチュワードシップ / エンゲージメント・アンカー層
+## Stewardship / Engagement Anchor Layer
 
-上記法人の多くはスチュワードシップ・エンゲージメント対象である 日本上場金融グループのユニバースにおいて。 エンゲージメント経路はおよび [[finance/japan-shareholder-proposal-and-agm-voting-route]] and in [[finance/japan-activist-investor-playbook]]. このユニバースで繰り返し現れるエンゲージメント・テーマは次のとおり。
+上記のエンティティの多くは、日本の上場金融グループ・ユニバースにおけるスチュワードシップ・エンゲージメントの対象である。エンゲージメント経路は [[finance/japan-shareholder-proposal-and-agm-voting-route]] と [[finance/japan-activist-investor-playbook]] に文書化されている。このユニバースを横断する繰り返しのエンゲージメントテーマには次が含まれる:
 
-- 資本コスト, PBR < 1.0 圧力, and 資本政策開示 (TSE cost-of-capital request);
-- 政策保有株 (政策保有株) unwind pace and disclosure;
-- 配当性向, 自社株買い方針, and 総株主還元方針;
-- 取締役会の独立性, 指名, 報酬, and スキルマトリクス;
-- コングロマリット・ディスカウント and セグメント開示 (for SBI HD, ORIX, KDDI, SoftBank Corp, Mercari);
-- ガバナンス・イベント対応 (Mizuho FG system events, Sompo HD agency-channel governance events, regional FG-specific events).
+- 資本コスト、PBR < 1.0 への圧力、資本政策の開示 (TSE の資本コスト要請);
+- クロスホールディング (政策保有株) の解消ペースと開示;
+- 配当性向、自社株買い政策、総株主還元政策;
+- 取締役会の独立性、指名、報酬、スキルマトリクス;
+- コングロマリット・ディスカウントとセグメント開示 (SBI HD、ORIX、KDDI、SoftBank Corp、Mercari について);
+- ガバナンス・イベントへの対応 (みずほ FG のシステム障害、損保 HD の代理店チャネル・ガバナンス事案、地域 FG 固有の事案)。
 
-保険会社とメガバンクの政策保有株解消は面に表れる [[finance/japan-large-shareholding-disclosure]] ブロックが移動する場合; アクティビストまたは戦略的ポジション in regional FGs and consumer finance issuers もそこで表面化する。
+保険会社とメガバンクのクロスホールディング解消は、ブロックが動くときに [[finance/japan-large-shareholding-disclosure]] サーフェスに現れる; 地域 FG や消費者金融の発行体におけるアクティビストまたは戦略的ポジションもそこに現れる。
 
-## 資本アクション層
+## Capital-Action Layer
 
-最近の資本アクションs across this universe (presence-only descriptor; verify before use):
+このユニバースを横断する最近の資本アクション (presence-only descriptor; 利用前に検証すること):
 
-| アクションクラス | ユニバース内での存在 |
+| Action class | Presence in universe |
 |---|---|
-| Buyback programme | 過去に開示した主体: megabank FGs, Tokio Marine, MS&AD, ORIX, Nomura, SBI HD, など。 |
-| Cross-holding unwind | メガバンクFGおよび大手損保3社がプログラム・コミットメントとして開示。 |
-| Capital-and-business alliance | SBI HD - Shinsei Bank ケース, Aeon group consumer-finance reorganisation, regional-FG capital alliance ケースs. |
-| TOB target | 一部の地方FGで発生 and for SBI HD's Shinsei Bank acquisition; verify the specific ケース in TDnet / EDINET. |
-| Activist or large-shareholding target | 複数の地方FGおよび消費者金融発行体 大量保有報告書で開示されている; 各提出者 / 目的はEDINET記録で確認すること。 |
-| Convertible / equity-linked issuance | 一部の消費者金融、リース、フィンテック発行体で選択的に使われる。推測せず、最新TDnetリリースを確認すること。 |
+| Buyback programme | Disclosed historically by megabank FGs, Tokio Marine, MS&AD, ORIX, Nomura, SBI HD, and others. |
+| Cross-holding unwind | Disclosed by megabank FGs and the three non-life insurers as a programme commitment. |
+| Capital-and-business alliance | SBI HD - Shinsei Bank case, Aeon group consumer-finance reorganisation, regional-FG capital alliance cases. |
+| TOB target | Has occurred for some regional FGs and for SBI HD's Shinsei Bank acquisition; verify the specific case in TDnet / EDINET. |
+| Activist or large-shareholding target | Several regional FGs and consumer finance issuers have been disclosed in large-shareholding filings; verify each filer / purpose against the EDINET record. |
+| Convertible / equity-linked issuance | Used selectively by some consumer finance, leasing, and fintech issuers; never assume - check the most recent TDnet release. |
 
-個別の資本アクションについては, 一次記録は the 発行体のTDnetリリース, EDINET有価証券報告書または臨時報告書, and the 発行体IRページ. 上記はいずれも投資助言ではない。
+いかなる特定の資本アクションについても、一次的な記録は発行体の TDnet リリース、EDINET の有価証券報告書または臨時報告書、および発行体の IR ページである。上記のいずれも投資助言ではない。
 
-## サブセクター別の主要リスク層
+## Key Risk Layer by Sub-Sector
 
-| サブセクター | 主要リスククラス |
+| Sub-sector | Dominant risk class |
 |---|---|
-| Megabank FG | NIM圧縮 / JGB金利パス, 海外信用 cost, 為替換算, 資本政策の執行, governance / system events. |
-| Trust FG | Trust-手数料圧縮, 資産運用フロー, 不動産エクスポージャー, 受託者責任 / ガバナンス・イベントリスク. |
-| Regional FG | NIM, 人口縮小, 中小企業信用サイクル, 預金コスト, 店舗コスト構造, 有価証券ポートフォリオリスク. |
-| Net bank | 親会社資金調達との連動, 預金コスト競争, 信用成長の質, 規制境界. |
-| 生命保険 | NIRPレガシー / 金利感応度, 株式市場感応度, FX, overseas life underwriting. |
-| 損害保険 | 自然災害サイクル, 海外P&C引受, FX, 政策保有株 unwind pace, governance / 代理店チャネル・イベントリスク. |
-| Securities | ホールセール / トレーディング収益の変動性, 米国 / 海外訴訟, リテール・フローサイクル, 資本・コスト規律. |
-| Card / consumer finance | 金利上限規制のレガシー, 過払金返還請求のテール, credit cycle, 親会社チャネル依存. |
-| Leasing | リースマージン圧力, NIM, aviation / 不動産エクスポージャー, 海外金融資産の質. |
-| Telco-finance hybrid | 通信設備投資サイクル, financial-arm 信用成長の質, 決済手数料競争, 規制境界. |
-| Fintech / crypto | 暗号資産サイクル依存, 規制境界, 小型発行体の継続企業 / 開示イベントリスク. |
+| Megabank FG | NIM compression / JGB rate path, overseas credit cost, FX translation, capital-policy execution, governance / system events. |
+| Trust FG | Trust-fee compression, asset-management flow, real-estate exposure, fiduciary / governance event risk. |
+| Regional FG | NIM, demographic shrinkage, SME credit cycle, deposit cost, branch-cost structure, securities portfolio risk. |
+| Net bank | Parent-funding linkage, deposit-cost competition, credit growth quality, regulatory perimeter. |
+| Life insurance | NIRP legacy / rate sensitivity, equity-market sensitivity, FX, overseas life underwriting. |
+| Non-life insurance | NatCat cycle, overseas P&C underwriting, FX, cross-holding unwind pace, governance / agency-channel event risk. |
+| Securities | Wholesale / trading earnings volatility, US / overseas litigation, retail-flow cycle, capital-and-cost discipline. |
+| Card / consumer finance | Interest-rate cap regulatory legacy, refund-claim tail, credit cycle, parent-channel dependency. |
+| Leasing | Leasing-margin pressure, NIM, aviation / real-estate exposure, overseas finance asset quality. |
+| Telco-finance hybrid | Telco capex cycle, financial-arm credit growth quality, payment-fee competition, regulatory perimeter. |
+| Fintech / crypto | Crypto-cycle dependency, regulatory perimeter, going-concern / disclosure event risk for smaller issuers. |
 
-## 読者向け検証チェックリスト
+## 読者の検証チェックリスト
 
-このページのどの行であれ現実の意思決定に用いる前に、読者は次を行うべきである。
+このページのいずれかの行を実世界の判断に用いる前に、読者は次を行うべきである:
 
-1. 発行体のTDnet最新開示フィードを [JPX TDnet](https://www.jpx.co.jp/equities/listing/disclosure/tdnet/index.html).
-2. 最新の有価証券報告書および臨時報告書を [EDINET](https://disclosure.edinet-fsa.go.jp/).
-3. 指数採用を照合する (Nikkei 225 / TOPIX / TOPIX Core 30 / FTSE Russell) 対象は [JPX TOPIX methodology page](https://www.jpx.co.jp/markets/indices/topix/) および該当する指数プロバイダー。
-4. 発行体IRページで最新決算短信とIR資料を再確認する。
-5. スチュワードシップ / エンゲージメントの読み取りではおよび [[finance/japan-shareholder-proposal-and-agm-voting-route]] and [[finance/japan-activist-investor-playbook]].
-6. 大量保有持分については、に従いEDINETの大量保有報告書 / 変更報告書の束を取得する。 [[finance/japan-large-shareholding-disclosure]].
-7. 読者自身のメモに検証日のタイムスタンプを付す; このページのマトリクス記述子は公開情報面のみに基づき、陳腐化する。
+1. [JPX TDnet](https://www.jpx.co.jp/equities/listing/disclosure/tdnet/index.html) 経由で発行体の TDnet 最新開示フィードを開く。
+2. [EDINET](https://disclosure.edinet-fsa.go.jp/) から最新の有価証券報告書および臨時報告書を取得する。
+3. 指数組入 (Nikkei 225 / TOPIX / TOPIX Core 30 / FTSE Russell) を [JPX TOPIX メソドロジーページ](https://www.jpx.co.jp/markets/indices/topix/) および当該指数プロバイダーに照らしてクロスチェックする。
+4. 発行体の IR ページで最新の決算短信と IR デックを再確認する。
+5. スチュワードシップ / エンゲージメントの読み解きについては、[[finance/japan-shareholder-proposal-and-agm-voting-route]] と [[finance/japan-activist-investor-playbook]] をクロスリファレンスする。
+6. 大量保有のステークについては、[[finance/japan-large-shareholding-disclosure]] に従って EDINET の 大量保有報告書 / 変更報告書 のスタックを取得する。
+7. 読者自身のノートに検証ステップの日付を記録する; このページのマトリクス記述子は public-surface-only であり、古くなる。
 
-## 注意点
+## 留意事項
 
-- これは公開情報面の参照ユニバースページであり、モデルポートフォリオ、推奨、投資助言、税務助言、法務助言ではない。
-- ティッカーs, sub-sector classifications, and major shareholder shapes change as a result of mergers, alliances, TOBs, reorganisations, and corporate actions.
-- ROE、配当利回り、外国人保有、資本政策の記述子はレンジ / クラス・ラベルにすぎない。 they are NOT point estimates and they go stale fast.
-- 指数採用 and FTSE Russell eligibility rotate periodically; the index methodology pages override anything stated here.
-- 一部の名称付き法人は単独上場ではなく上場親会社の内部にある (e.g. PayPay Bank inside SoftBank Corp; SBI Sumishin Net Bank historically inside SBI HD); see [[finance/INDEX|finance INDEX]] for the parent-of mapping.
-- 非公開金融グループ (e.g. JA Mitsui Leasing, mutual life insurers) は上場していないため「投資対象ユニバース」ページの対象外である。
-- データ検証は読者の責任である。 FinWikiの公開情報面の慣行はルーティングとリンクであり、シグナル生成ではない。
+- これは public-surface reference universe ページであり、モデルポートフォリオではなく、推奨でもなく、投資助言でもなく、税務助言でもなく、法律助言でもない。
+- ティッカー、サブセクター分類、主要株主の形状は、合併、提携、TOB、再編、コーポレートアクションの結果として変化する。
+- ROE、配当利回り、外国人保有、資本政策の記述子はレンジ / クラスのラベルにすぎない; これらは point estimates ではなく、すぐに古くなる。
+- 指数組入と FTSE Russell の適格性は定期的にローテーションする; 指数メソドロジーページがここに記載されたいかなる内容にも優先する。
+- 一部の named entities は単独上場ではなく上場親会社の内側に位置する (例: SoftBank Corp 内の PayPay 銀行; 歴史的に SBI HD 内にあった SBI 住信ネット銀行); parent-of マッピングについては [[finance/INDEX|finance INDEX]] を参照。
+- プライベートな金融グループ (例: JA 三井リース、相互会社形態の生保) は、上場していないため「investable universe」ページのスコープから明示的に外している。
+- データの検証は読者の責任である。FinWiki の public-surface 規約は route-and-link であり、シグナル生成ではない。
 
-## 関連項目
+## 関連
 
 - [[finance/INDEX|finance INDEX]]
 - [[finance/japan-ib-league-table]]

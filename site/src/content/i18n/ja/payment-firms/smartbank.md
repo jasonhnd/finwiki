@@ -1,51 +1,57 @@
 ---
 source: payment-firms/smartbank
-source_hash: 98b1067834ebfab8
+source_hash: 67c6fa9daab60900
 lang: ja
 status: machine
 fidelity: ok
-title: "スマートバンク"
-translated_at: 2026-06-02T15:14:17.089Z
+title: "スマートバンク (SmartBank)"
+translated_at: 2026-06-15T03:48:21.834Z
 ---
 
-# スマートバンク
+# スマートバンク (SmartBank)
 
+## ウィキ経路
 
-## ウィキ上の位置づけ
-
-本項目は[[payment-firms/INDEX|payment-firms INDEX]]配下に置く。[[payment-firms/au-payment|auペイメント (au Payment)]]とは同業・対比の文脈で、[[payments/INDEX|payments index]]とはより広い制度・規制上の境界を読むために参照する。
+本項目は [[payment-firms/INDEX|payment-firms INDEX]]（そのドメイン経路）の下に位置する。ピア / 対比（プリペイド + アプリ主導の fintech）として [[payment-firms/kyash|Kyash]] と、監督 / システムの境界として [[financial-regulators/fsa|the FSA]] および [[payments/funds-transfer-vs-prepaid-boundary|the funds-transfer vs prepaid boundary]] と対照して読むこと。
 
 ## 要約
 
-スマートバンクは B/43 / ワンバンクを運営する 家計金融・プリペイドウォレット系fintech。公式会社概要は資金移動業者登録と第三者型前払式支払手段発行者登録を明示しており、家計管理 UX と 決済口座 を組み合わせる事例。
+株式会社スマートバンクは、家計管理プリカ「B/43（ビーヨンサン、現「ワンバンク」へ改称）」を運営する household-finance / prepaid wallet fintech。公開情報では **二つの license** を保有する稀な構成 ——**資金移動業者**（関東財務局長 第00084号）と、2024 年取得の **第三者型前払式支払手段発行者**（関東財務局長 第00782号）。チャージ式 Visa プリペイドカードと家計簿アプリをセットにし、家計管理 UX に payment account を組み合わせる事例。
 
-## 1. 法人・ライセンス境界
+## 1. ライセンス / グループ境界
 
-| 項目 | 読み方 |
+| 項目 | 注記 |
 |---|---|
-| 法人 | 株式会社スマートバンク |
-| 商品面 | B/43 / ワンバンク 家計金融アプリ |
-| 主要領域 | プリペイド口座、家計管理、共同支出、資金移動 |
-| FSA登録ルート | FSA資金移動業者一覧: 関東財務局長 第00084号, 株式会社スマートバンク. |
+| 法人名 | 株式会社スマートバンク |
+| ライセンス経路 | 資金移動業者（関東財務局長 第00084号）＋ 第三者型前払式支払手段（関東財務局長 第00782号） |
+| 親会社 / グループ | 独立系 fintech（スタートアップ） |
+| 商品サーフェス | B/43 →「ワンバンク」家計管理アプリ＋ Visa プリカ |
+| 主要レーン | 前払式アカウント、家計予算管理、共有支出、funds transfer |
+| ウィキ上の役割 | 家計管理起点の prepaid / funds-transfer fintech ページ |
 
-## 2. 事業上の役割
+## 2. 運営モデル
 
-- 家計管理上の課題を起点に、決済と口座に近いUXを構築する。
-- プリペイド / 資金移動のライセンスを用いて、共同支出とウォレットフローを支える。
-- [[payment-firms/kyash|Kyash]]、[[payment-firms/merpay|Merpay]]、[[payment-firms/paypay|PayPay]]のスーパーアプリ範囲に含まれる銀行アプリ体験との比較対象として有用である。
+スマートバンクは、家計予算管理という課題から payment / account-like UX を組み立てる。prepaid・資金移動業の双方の licensing を使い、共有支出やウォレットのフローを支える。メガバンクや通信系ウォレットに比べ小規模だが、銀行・コマースではなく「家計簿（budgeting）」から金融 UX を立ち上げる設計を示す点で、[[payment-firms/kyash|Kyash]] や [[payment-firms/paypay|PayPay]] super-app との対比が有用。BaaS 文脈は [[banking/baas-japan-landscape|BaaS Japan landscape]] を参照。
 
-## 3. この独立ページが重要な理由
+## 3. このページの意義
 
-SmartBankはメガバンクや通信系ウォレットに比べれば小さいが、金融UXが銀行業やコマースではなく家計管理から始まり得ることを示している。
+- 一社で資金移動業と第三者型前払式支払手段の双方を持つ license 構成の具体例を固定する。
+- 「prepaid（払戻し原則禁止）」と「funds-transfer（送金可）」を一社内で組み合わせる設計を可視化する。
+- 独立系 fintech が家計管理を入り口に payment account を作る事例 anchor になる。
 
 ## 関連
 
-- [[payments/cashless-jp-landscape]]
-- [[payments/funds-transfer-vs-prepaid-boundary]]
-- [[payment-firms/kyash]]
-- [[banking/baas-japan-landscape]]
+- [[payment-firms/INDEX|payment-firms INDEX]]
+- [[payment-firms/kyash|Kyash]]
+- [[payments/funds-transfer-vs-prepaid-boundary|funds-transfer vs prepaid boundary]]
+- [[banking/baas-japan-landscape|BaaS Japan landscape]]
+- [[INDEX|FinWiki index]]
 
 ## 出典
 
-- SmartBank会社概要： https://smartbank.co.jp/company
-- FSA資金移動業者一覧： https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf
+- SmartBank company profile: https://smartbank.co.jp/company
+- ワンバンク: 資金決済法に基づく表示: https://onebank.jp/settlement/
+- FSA funds-transfer service provider list (`shikin_idou.pdf`): https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf
+
+> [!info] 校核状態
+> confidence: likely。資金移動業（第00084号）・第三者型前払式支払手段（第00782号、2024 年登録）の二重 license は公開プレスリリース／登録一覧ベース。製品名称は B/43 →「ワンバンク」へ改称。

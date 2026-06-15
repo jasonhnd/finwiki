@@ -1,27 +1,27 @@
 ---
 source: megabanks/sony-fg
-source_hash: 03ca707c17d626b6
+source_hash: 660c32bc97cb4b14
 lang: ja
 status: machine
 fidelity: ok
-title: "ソニーフィナンシャルグループ"
-translated_at: 2026-06-02T15:14:17.098Z
+title: "ソニーフィナンシャルグループ (Sony FG)"
+translated_at: 2026-06-15T03:48:21.938Z
 ---
 
-# ソニーフィナンシャルグループ
+# ソニーフィナンシャルグループ (Sony FG)
 
-## ウィキ上の位置づけ
+## Wiki ルート
 
-この項目は [[megabanks/INDEX|megabanks INDEX]] の配下に置く。比較・対照の文脈は [[life-insurers/sony-life|ソニー生命保険]] と照合し、より広い制度・規制上の境界は [[banking/INDEX|banking index]] とあわせて読む。
+本項目は [[megabanks/INDEX|megabanks INDEX]] に属する。同業 / 対比の文脈については [[life-insurers/sony-life|ソニー生命保険]] を、より広い体系 / 規制の境界については [[banking/INDEX|banking index]] を併せて参照のこと。
 
-## 要約
+## TL;DR
 
 ソニーブランド × 個人金融に特化した総合金融持株会社。生命保険（ソニー生命、ライフプランナー営業）+ 損害保険（ソニー損保、ネット自動車保険）+ ネット銀行（ソニー銀行、外貨・住宅ローン強）の 3 本柱。2007 上場（旧称 SFH）→ **2020-09 親会社ソニーグループによる TOB で完全子会社化・上場廃止** → 2024-05 「金融事業分離・再上場」発表 → **2025-10-01 効力発生のパーシャルスピンオフ（日本初）でソニーフィナンシャルグループとして東証 PRIME 再上場**（証券コード 8729、再上場日 2025-09-29）。メガバンク系と異なり、製造業由来コングロマリットの金融部門が独立再上場するレアケース。
 
 ## 1. 会社概要
 
 **正式名**：ソニーフィナンシャルグループ株式会社 ^[extracted]
-**英名**：Sony Financial グループ, Inc.（旧称 Sony Financial Holdings, Inc. = SFH）
+**英名**：Sony Financial Group, Inc.（旧称 Sony Financial Holdings, Inc. = SFH）
 **証券コード**：東証 PRIME **8729**（2007-10-11 上場 → 2020-09-29 上場廃止 → **2025-09-29 再上場**、2025-10-01 効力発生のパーシャルスピンオフによる）^[extracted]
 **設立**：2004-04-01（ソニーフィナンシャルホールディングスとして設立、2007-10 上場）^[extracted]
 **本社**：東京都千代田区大手町 1-9-2 大手町フィナンシャルシティ グランキューブ ^[extracted]
@@ -95,9 +95,9 @@ translated_at: 2026-06-02T15:14:17.098Z
 - **新規上場審査**：日本取引所グループ（JPX）上場審査基準
 - **直近政策論点**：
   - 2024〜 日銀政策金利正常化 → ソニー銀行の預貸利ザヤ改善・ソニー生命の運用利回り改善ボーナス
-  - 個人金融市場の競争激化（楽天 / SBI / PayPay / au 等のプラットフォーマー金融）への対抗戦略
+  - 個人金融市場の競争激化（楽天 / SBI / [[megabanks/paypay-fg|PayPay FG]] / au 等のプラットフォーマー金融）への対抗戦略
 
-## 関連項目
+## 関連
 
 - [[megabanks/mufg]] · [[megabanks/smfg]] · [[megabanks/mizuho-fg]] · [[megabanks/ndfg]] · [[megabanks/sbi-hd]] · [[megabanks/paypay-fg]]
 - [[banking/rakuten-bank]] · [[regional-banks/sbi-shinsei-bank|banking/sbi-shinsei-bank]] · [[banking/au-jibun-bank]] · [[banking/minna-bank-baas-model]]
@@ -114,4 +114,4 @@ translated_at: 2026-06-02T15:14:17.098Z
 ---
 
 > [!info] 検証状況
-> 確度: **高め**（Wikipedia + 公式発表ベース、2026-05-19 校核 / 2026-05-30 スピンオフ実施を一次情報で確定）。重要数値（再上場日 **2025-09-29**、パーシャルスピンオフ効力発生 **2025-10-01**、TOB 完全子会社化 2020-09-29、各社設立年）は公式発表・証券各社告知ベース。**旧「予測（forecast）」標注（再上場・スピンオフ・親会社持株比率低下・現物配当）は実施確認により除去**（NLI 基礎研・SMBC 日興告知で確定）。再上場後の確定持株比率・主要株主構造は有価証券報告書ベースの数値更新を要する。
+> confidence: **likely**（Wikipedia + 公式発表ベース、2026-05-19 校核 / 2026-05-30 スピンオフ実施を一次情報で確定）。重要数値（再上場日 **2025-09-29**、パーシャルスピンオフ効力発生 **2025-10-01**、TOB 完全子会社化 2020-09-29、各社設立年）は公式発表・証券各社告知ベース。**旧「予測（forecast）」標注（再上場・スピンオフ・親会社持株比率低下・現物配当）は実施確認により除去**（NLI 基礎研・SMBC 日興告知で確定）。再上場後の確定持株比率・主要株主構造は有価証券報告書ベースの数値更新を要する。

@@ -1,33 +1,33 @@
 ---
 source: life-insurers/cardif-life
-source_hash: ab028c02626b694e
+source_hash: 0ba963b0056f2d1f
 lang: en
 status: machine
 fidelity: ok
-title: "Cardiff Life Insurance"
-translated_at: 2026-05-31T11:13:44.843Z
+title: "Cardif Life (カーディフ生命保険)"
+translated_at: 2026-06-15T03:48:21.844Z
 ---
 
-# Cardiff Life Insurance
+# Cardif Life (カーディフ生命保険)
 
 
 ## Wiki route
 
-This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it with [[insurance/INDEX|insurance index]] for adjacent context and [[financial-licenses/INDEX|JapanFG index]] for the broader system boundary.
+This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it alongside [[life-insurers/credit-agricole-life|クレディ・アグリコル生命]] as the closest same-domain peer — both are French-bank-affiliated, bancassurance-oriented Japan life insurers — with [[insurance/INDEX|insurance index]] for adjacent context and [[financial-licenses/INDEX|JapanFG index]] for the broader system boundary.
 
-##TL;DR
+## TL;DR
 
-Cardiff Life Insurance Co., Ltd. is a foreign-affiliated Japanese life insurer listed on the Financial Services Agency's life-insurer list and the Life Insurance Association member list. It is viewed under the same BNP Paribas / Cardif adjacency as [[foreign-financial-institutions/bnp-paribas-japan]], but FinWiki treats it as a credit protection and bancassurance-oriented life-insurance operating company instead of a bank / securities page.
+Cardif Life Insurance Co., Ltd. is a foreign-affiliated Japan life insurer listed on the FSA life-insurer list and the Life Insurance Association of Japan member roster. It is viewed under the same BNP Paribas / Cardif adjacency as [[foreign-financial-institutions/bnp-paribas-japan]], but in FinWiki it is treated not as a bank / securities page but as a credit protection and bancassurance-oriented life-insurance operating company.
 
 ## 1. License / group boundary
 
-|Item|Notes|
+| Item | Notes |
 |---|---|
-|Legal name|Cardiff Life Insurance Co., Ltd.|
-|License route|Insurance Business Act life-insurance company; FSA life insurer list|
-|Industry body|Life Insurance Association of Japan member|
-|Group adjacency|BNP Paribas Cardif / [[foreign-financial-institutions/bnp-paribas-japan]]|
-|Wiki roles|Foreign-affiliated life insurer with bancassurance / creditor-insurance relevance|
+| Legal name | Cardif Life Insurance Co., Ltd. |
+| License route | Insurance Business Act life-insurance company; FSA life insurer list |
+| Industry body | Life Insurance Association of Japan member |
+| Group adjacency | BNP Paribas Cardif / [[foreign-financial-institutions/bnp-paribas-japan]] |
+| Wiki role | Foreign-affiliated life insurer with bancassurance / creditor-insurance relevance |
 
 ## 2. Operating model
 
@@ -50,4 +50,4 @@ Cardif's Japan life-insurance surface is useful for mortgage / loan protection, 
 
 - FSA: life-insurance company license list, as of 2026-04-13.
 - Life Insurance Association of Japan: member-company list, as of 2026-04-13.
-- Cardiff Life official website.
+- Cardif Life official website.

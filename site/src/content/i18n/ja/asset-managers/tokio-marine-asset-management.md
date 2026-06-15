@@ -1,31 +1,32 @@
 ---
 source: asset-managers/tokio-marine-asset-management
-source_hash: 515723baeed88661
+source_hash: 0610ed33e0c3e96b
 lang: ja
 status: machine
 fidelity: ok
 title: "東京海上アセットマネジメント (Tokio Marine AM)"
-translated_at: 2026-06-02T16:33:58.464Z
+translated_at: 2026-06-15T03:48:21.861Z
 ---
+
 # 東京海上アセットマネジメント (Tokio Marine AM)
 
-## ウィキ上の位置づけ
+## Wiki 上の位置づけ
 
-この項目は [[asset-managers/INDEX|asset-managers INDEX]] 配下に置く。競合・比較対象の文脈は [[asset-managers/asset-management-one|アセットマネジメントOne]]、FIEA ライセンス境界は [[financial-licenses/securities-license-stack|securities license stack]]、登録簿レイヤーは [[securities/financial-instruments-business-operators-japan-index|FSA 金商業者 index]] と照合して読む。
+本項目は [[asset-managers/INDEX|asset-managers INDEX]] の下に位置する。ピア／対比のコンテキストとしては [[asset-managers/asset-management-one|アセットマネジメントOne]]、FIEA ライセンス境界としては [[financial-licenses/securities-license-stack|securities license stack]]、登録レイヤーとしては [[securities/financial-instruments-business-operators-japan-index|FSA 金商業者 index]] と併せて読むこと。
 
 ## 要約
 
-東京海上アセットマネジメント (TMAM) は [[non-life-insurers/tokio-marine|東京海上ホールディングス]] の資産運用事業会社。FSA 金融商品取引業者一覧では「東京海上アセットマネジメント株式会社」、関東財務局長(金商)第361号として掲載される。**3 メガ損保 (東京海上 / [[non-life-insurers/msad|MS&AD]] / [[non-life-insurers/sompo|SOMPO]]) の筆頭 [[non-life-insurers/tokio-marine|東京海上 HD]] の運用機能** を担う損保系運用会社で、損保責任準備金・年金運用を主軸とし、近年は公募投信・NISA 商品にも展開している。メガバンク系運用会社 ([[asset-managers/mufg-asset-management|MUAM]] / [[asset-managers/asset-management-one|アセマネOne]]) や生保系運用会社 ([[asset-managers/nissay-asset-management|ニッセイ AM]]) とは異なる**損保系運用会社**カテゴリの代表。
+東京海上アセットマネジメント (TMAM) は [[non-life-insurers/tokio-marine|東京海上ホールディングス]] の資産運用事業会社。FSA 金融商品取引業者一覧では「東京海上アセットマネジメント株式会社」、関東財務局長(金商)第361号として掲載される。**3 メガ損保 (東京海上 / [[non-life-insurers/msad|MS&AD]] / [[non-life-insurers/sompo|SOMPO]]) の筆頭 [[non-life-insurers/tokio-marine|東京海上 HD]] の運用機能** を担う損保系運用会社で、損保責任準備金・年金運用を主軸とし、近年は公募投信・NISA 商品にも展開。メガバンク系運用会社 ([[asset-managers/mufg-asset-management|MUAM]] / [[asset-managers/asset-management-one|アセマネOne]]) や生保系運用会社 ([[asset-managers/nissay-asset-management|ニッセイ AM]]) とは異なる**損保系運用会社**カテゴリの代表。
 
 ## 1. 法人・ライセンス境界
 
-| 項目 | 読み方 |
+| 項目 | 読み |
 |---|---|
-| 正式名 | 東京海上アセットマネジメント株式会社 |
+| 法人名 | 東京海上アセットマネジメント株式会社 |
 | 英名 | Tokio Marine Asset Management Co., Ltd. |
-| FSA登録 | 関東財務局長(金商)第361号 |
-| FIEA範囲 | 第二種金融商品取引業、投資助言・代理業、投資運用業 |
-| 親会社境界 | [[non-life-insurers/tokio-marine|東京海上 HD]] 100% の資産運用子会社 |
+| FSA 登録 | 関東財務局長(金商)第361号 |
+| FIEA 範囲 | 第二種金融商品取引業、投資助言・代理業、投資運用業 |
+| 親会社境界 | [[non-life-insurers/tokio-marine|東京海上 HD]] 100% asset-management 子会社 |
 | 本社 | 東京都千代田区 |
 
 ## 2. 事業上の役割
@@ -47,19 +48,19 @@ translated_at: 2026-06-02T16:33:58.464Z
         └── 投資一任 (機関投資家向け)
 ```
 
-- [[non-life-insurers/tokio-marine|東京海上 HD]] 100% 子会社であり、メガバンク系 AM のような JV 構造ではない。
+- [[non-life-insurers/tokio-marine|東京海上 HD]] 100% 子会社、メガバンク系 AM のような JV 構造ではない
 
-## 4. 独立ページとする理由
+## 4. 独立ページが重要な理由
 
-[[non-life-insurers/tokio-marine|東京海上 HD]] は損保 3 メガの筆頭で時価総額・海外比率ともに業界トップだが、運用機能を担う **TMAM** は独立した分析単位として重要：
+[[non-life-insurers/tokio-marine|東京海上 HD]] は損保 3 メガの筆頭で時価総額・海外比率ともに業界トップだが、運用機能を担う **TMAM** は独立分析単位として重要：
 
-1. **損保系運用会社カテゴリの代表**：[[non-life-insurers/msad|MS&AD]] や [[non-life-insurers/sompo|SOMPO]] 系運用会社と並ぶが、東京海上の海外展開・ESG リーダーシップが運用方針に反映される
-2. **NISA 拡充 + 公募投信競争** における損保系プレイヤー：銀行系 ([[asset-managers/mufg-asset-management|MUAM]]) / 証券系 ([[asset-managers/nomura-asset-management|野村アセット]]) / 信託系 ([[asset-managers/smt-am|SMT-AM]]) との競合
+1. **損保系運用会社カテゴリの代表**：[[non-life-insurers/msad|MS&AD]] や [[non-life-insurers/sompo|SOMPO]] 系運用会社と並ぶが、東京海上の海外展開・ESG リーダーシップが運用方針に反映
+2. **NISA 拡充 + 公募投信競争** の損保系プレイヤー：銀行系 ([[asset-managers/mufg-asset-management|MUAM]]) / 証券系 ([[asset-managers/nomura-asset-management|野村アセット]]) / 信託系 ([[asset-managers/smt-am|SMT-AM]]) との競合
 3. **損保責任準備金運用 (約 30 兆円規模) の運用方針** が中堅金融市場 (国内債・株式・オルタナティブ) に与える影響
 
-## 5. 競合・比較対象
+## 5. 競合・ピア
 
-| 比較対象 | 系譜 | 差別化軸 |
+| ピア | 系譜 | 差別化軸 |
 |---|---|---|
 | [[asset-managers/nissay-asset-management|ニッセイ AM]] | [[life-insurers/nippon-life|日本生命]] 系 | 生保責任準備金運用 + 公募投信 |
 | [[asset-managers/t-and-d-asset-management|T&D AM]] | [[life-insurers/td-hd|T&D HD]] 系 | 中堅生保 FG の運用機能 |

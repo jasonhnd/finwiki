@@ -1,60 +1,54 @@
 ---
 source: non-life-insurers/cardif-nonlife
-source_hash: b0737a58c150f879
+source_hash: d3f43ccfe8bf6ca3
 lang: ja
 status: machine
 fidelity: ok
-title: "カーディフ損害保険"
-translated_at: 2026-06-02T14:01:20.933Z
+title: "Cardif Non-Life Japan / カーディフ損害保険"
+translated_at: 2026-06-15T03:48:21.870Z
 ---
-# カーディフ損害保険
 
-## 要約
+# Cardif Non-Life Japan / カーディフ損害保険
 
-カーディフ損害保険を、BNP Paribas Cardif の日本における損害保険エンティティとして、外資系銀行窓販・保障性保険プラットフォームの損害保険側から整理する。
+Wiki 上の位置づけ: [[non-life-insurers/INDEX]] -> [[insurance/INDEX]] -> [[non-life-insurers/cardif-nonlife]]
 
-## ウィキ上の位置づけ
+## 概要
 
-このページは公開情報に基づく FinWiki の整理項目であり、関連する制度、会社、商品、規制、比較対象を同じ文脈で追えるようにするための入口である。本文は公開資料、公式開示、公開情報に基づく分析だけを対象とする。
+カーディフ損害保険は、BNP パリバ・カルディフの日本における損害保険事業体。外資系バンカシュアランス／プロテクション保険プラットフォームの損保サイドとして [[life-insurers/cardif-life]] と並んで位置する。
 
-## 主要ポイント
+## 事業体の境界
 
-- 生命保険側のエンティティとは分けて扱う。
-- 提携金融機関経由の商品と一般代理店網の商品を分ける。
-- BNP Paribas グループ文脈は日本エンティティが明示される場合に限って使う。
+本ページはカーディフ損害保険株式会社を扱う。公開されたグループ境界が関連する場合は三者すべてをリンクしつつ、[[life-insurers/cardif-life]] および [[foreign-financial-institutions/bnp-paribas-japan]] とは分けて扱うこと。
 
-## 公開参照キー
+## 事業上の役割マップ
 
-以下の参照キーは原文の占位符を出現順のまま保持したものである。翻訳時に削除、改変、統合、並べ替えを行わない。
+| 経路 | 読み |
+|---|---|
+| バンカシュアランス | 提携金融機関による販売およびプロテクション商品。 |
+| 損保事業体 | [[life-insurers/cardif-life]] 生命保険事業体とは別。 |
+| 外資系グループ | [[foreign-financial-institutions/bnp-paribas-japan]] に関連するが、投資銀行のページではない。 |
+| ライセンス／ソルベンシー | [[financial-licenses/insurance-license-and-solvency]] を経由する。 |
 
-- [[non-life-insurers/INDEX]]
-- [[insurance/INDEX]]
-- [[non-life-insurers/cardif-nonlife]]
-- [[life-insurers/cardif-life]]
-- [[life-insurers/cardif-life]]
-- [[foreign-financial-institutions/bnp-paribas-japan]]
-- [[life-insurers/cardif-life]]
-- [[foreign-financial-institutions/bnp-paribas-japan]]
-- [[financial-licenses/insurance-license-and-solvency]]
-- 1
-- 2
-- 3
+## 公開コンテキスト
+
+カーディフ損保が重要なのは、日本における外資系バンカシュアランスの損保サイド、とりわけ一般代理店網ではなく金融機関提携を通じて販売される商品を示すからである。スペシャルティ／プロテクション損保クラスタの中では、ダイレクト自動車保険会社ではなく、[[non-life-insurers/ji-accident-fire-insurance|ジェイアイ傷害火災保険]] のような傷害・火災のスペシャリストと並んで位置する。
+
+## リサーチ・チェックリスト
+
+1. 生保と損保の事業体メトリクスを分けて扱うこと。
+2. コーポレートプロフィール PDF 内の提携チャネル開示を追跡すること。
+3. BNP パリバのグループ・コンテキストは、日本の事業体が明示的に名指しされている場合にのみ用いること。
+
+## 関連項目
+
 - [[life-insurers/cardif-life]]
 - [[foreign-financial-institutions/bnp-paribas-japan]]
 - [[insurance/life-insurance-distribution-japan]]
 - [[financial-licenses/insurance-license-and-solvency]]
 - [[insurance/INDEX]]
-- 2025
-- 37
-- 2025
-- 12
-- 2025
-
-## 関連
-
-関連ページ、比較対象、規制ルート、出典リンクは上記の公開参照キーからたどる。
 
 ## 出典
 
-- 原文で示された公式資料、公開開示、業界団体資料、規制当局資料。
-- 各ページの公開参照キーに紐づく公開情報。
+- FSA non-life insurer list: https://www.fsa.go.jp/menkyo/menkyoj/songai.xlsx
+- Cardif Non-Life company profile: https://nonlife.cardif.co.jp/company/profile
+- Cardif Japan corporate profile 2025: https://nonlife.cardif.co.jp/wp-content/uploads/sites/37/2025/12/Cardif-CorporateProfile_2025.pdf

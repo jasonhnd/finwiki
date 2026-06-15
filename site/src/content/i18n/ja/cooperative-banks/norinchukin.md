@@ -1,22 +1,22 @@
 ---
 source: cooperative-banks/norinchukin
-source_hash: 3a466fc384176821
+source_hash: cdda4cec8d628dde
 lang: ja
 status: machine
 fidelity: ok
-title: "農林中央金庫"
-translated_at: 2026-06-02T14:54:39.090Z
+title: "農林中央金庫 (Norinchukin Bank)"
+translated_at: 2026-06-15T03:48:21.864Z
 ---
 
-# 農林中央金庫
+# 農林中央金庫 (Norinchukin Bank)
 
-## ウィキ上の位置づけ
+## Wiki 上の位置づけ
 
-この項目は [[cooperative-banks/INDEX|cooperative-banks INDEX]] 配下に置かれる。[[megabanks/mufg|三菱 UFJ FG (MUFG)]] は比較対象の文脈、[[banking/INDEX|banking index]] はより広い制度・規制境界の文脈として読む。
+本項目は [[cooperative-banks/INDEX|cooperative-banks INDEX]] の下に位置する。ピア／対比のコンテキストとしては [[megabanks/mufg|三菱 UFJ FG (MUFG)]] と、より広いシステム／規制の境界については [[banking/INDEX|banking index]] と併せて読むこと。
 
 ## 要約
 
-**世界最大級の協同組合系金融機関**。1923 産業組合中央金庫として設立、1943「農林中央金庫」改称、1986/2001 農林中央金庫法改正で現代的銀行業務へ。**株式会社ではない特殊法人**で、出資者は JA（農協）・JF（漁協）・森林組合等の系統団体。[[banking/ja-bank-system-japan|JA Bank system]] と [[banking/jf-marine-bank-system-japan|JF Marine Bank system]] の全国中央機関レイヤーを担い、系統信用事業の頂点 + **国内屈指の機関投資家**という二重性格を持つ。連結総資産は **91 兆 7,243 億円**（2024-09-30）。**2008 リーマン・ショックで米サブプライム関連約 1.5 兆円損失**、**2024 年は米国債等の含み損対策で資本増強**（2024-05-23 に約 1.2 兆円規模を検討公表 → 2024-08-01 に後配出資 7,360 億円 + 期限付劣後ローン約 6,000 億円で計 **約 1.3 兆円**規模に確定）^[extracted] — 2 度の大規模機関投資損失がガバナンス論点として浮上。
+**世界最大級の協同組合系金融機関**。1923 産業組合中央金庫として設立、1943「農林中央金庫」改称、1986/2001 農林中央金庫法改正で現代的銀行業務へ。**株式会社ではない特殊法人**で、出資者は JA（農協）・JF（漁協）・森林組合等の系統団体。[[banking/ja-bank-system-japan|JA Bank system]] と [[banking/jf-marine-bank-system-japan|JF Marine Bank system]] の national central institution layer を担い、系統信用事業の頂点 + **国内屈指の機関投資家**という二重性格を持つ。連結総資産は **91 兆 7,243 億円**（2024-09-30）。**2008 リーマン・ショックで米サブプライム関連約 1.5 兆円損失**、**2024 年は米国債等の含み損対策で資本増強**（2024-05-23 に約 1.2 兆円規模を検討公表 → 2024-08-01 に後配出資 7,360 億円 + 期限付劣後ローン約 6,000 億円で計 **約 1.3 兆円**規模に確定）^[extracted] — 2 度の大規模機関投資損失がガバナンス論点として浮上。
 
 ## 1. 会社概要
 
@@ -107,7 +107,7 @@ translated_at: 2026-06-02T14:54:39.090Z
 ### 系統金融再編
 
 - JA バンク全国システム（2002〜）の中央プレーヤー
-- 都道府県信連（信用農業協同組合連合会）との役割分担再編
+- 都道府県信連（[[cooperative-banks/ja-shinnoren|信用農業協同組合連合会]]）との役割分担再編
 - 漁協系統（JF マリンバンク）・森林組合系統（JForest）でも同様の中央銀行機能
 
 ### 競争ポジション

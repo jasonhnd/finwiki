@@ -1,21 +1,21 @@
 ---
 source: fintech/e-euro-retail-rollout
-source_hash: e702b1a7349bb5ab
+source_hash: 15fa0b8e1d92cac6
 lang: en
 status: machine
 fidelity: ok
-title: "Digital euro retail rollout — Preparation Phase 2023-2026, anti-disintermediation design, e-krona pause comparison"
-translated_at: 2026-05-31T06:16:15.753Z
+title: "Digital euro retail rollout — Preparation Phase 2023-2026,  anti-disintermediation design, e-krona pause comparison"
+translated_at: 2026-06-15T03:48:21.843Z
 ---
 
-# Digital euro retail rollout — Preparation Phase 2023-2026, anti-disintermediation design, e-krona pause comparison
+# Digital euro retail rollout — Preparation Phase 2023-2026,  anti-disintermediation design, e-krona pause comparison
 
 ## Wiki route
 
-This entry sits under [[fintech/INDEX|fintech index]] as the per-jurisdiction deep dive on the ECB digital euro for the 2026 Preparation-Phase snapshot. It pairs with [[fintech/cbdc-adoption-curve-china-japan-eu-india-2026|CBDC adoption curve 2026]] for the four-country comparative view, with [[fintech/cbdc-multi-tier-architecture-overview|CBDC 多层架构概览]] for architecture context, and with [[fintech/cbdc-multi-tier-architecture-three-paradigms|CBDC 三大现役范式]] for the three-paradigm classification. For per-jurisdiction peers see [[fintech/ecny-supply-chain-expansion|e-CNY supply-chain expansion]] and [[fintech/erupee-india-pilot-status|eRupee India pilot status]]; for wholesale-CBDC context relevant to the EU side (the BoF / BdF, BdI, and Bundesbank participate) see [[fintech/bis-project-agora-overview|BIS Project Agorá]]. For the broader EU stablecoin regulatory context that shapes the digital euro's competitive runway see [[fintech/mica-overview|MiCA overview]] and [[fintech/global-stablecoin-regulatory-five-pole-matrix|global stablecoin five-pole matrix]].
+This entry sits under [[fintech/INDEX|fintech index]] as the per-jurisdiction deep dive on the ECB digital euro for the 2026  Preparation-Phase snapshot. It pairs with [[fintech/cbdc-adoption-curve-china-japan-eu-india-2026|CBDC adoption curve 2026]] for the four-country comparative view, with [[fintech/cbdc-multi-tier-architecture-overview|CBDC 多层架构概览]] for architecture context, and with [[fintech/cbdc-multi-tier-architecture-three-paradigms|CBDC 三大现役范式]] for the three-paradigm classification. For per-jurisdiction peers see [[fintech/ecny-supply-chain-expansion|e-CNY supply-chain expansion]] and [[fintech/erupee-india-pilot-status|eRupee India pilot status]]; for wholesale-CBDC context relevant to the EU side (the BoF / BdF, BdI, and Bundesbank participate) see [[fintech/bis-project-agora-overview|BIS Project Agorá]]. For the broader EU stablecoin regulatory context that shapes the digital euro's competitive runway see [[fintech/mica-overview|MiCA overview]] and [[fintech/global-stablecoin-regulatory-five-pole-matrix|global stablecoin five-pole matrix]].
 
 > [!info] TL;DR
-> By mid-2026 the digital euro is still in **Preparation Phase**, originally bounded as a 2023-11 to 2025-10 two-year period and now extended into 2026-Q4+ to wait for EU co-legislative outcome. There is **no live issuance**, **no retail wallet**, **no live merchant**. The defining design choices — **two-tier intermediated distribution** via supervised PSPs, a **per-person holding limit currently proposed at €3,000-€4,000** with a reverse-waterfall to a linked bank account, and **zero interest** on retail balances — are the explicit anti-disintermediation defence. The closest cautionary tale is the Swedish e-krona project, which the Riksbank effectively paused in 2024-2025 with no decision on issuance and no live retail product, demonstrating that "preparation can extend indefinitely." The digital euro's pace is **not a technology limitation; it is a policy choice** to protect the €18T+ commercial-bank deposit base while waiting for political consensus.
+> By mid-2026  the digital euro is still in **Preparation Phase**, originally bounded as a 2023-11  to 2025-10  two-year period and now extended into 2026-Q4+ to wait for EU co-legislative outcome. There is **no live issuance**, **no retail wallet**, **no live merchant**. The defining design choices — **two-tier intermediated distribution** via supervised PSPs, a **per-person holding limit currently proposed at €3,000-€4,000** with a reverse-waterfall to a linked bank account, and **zero interest** on retail balances — are the explicit anti-disintermediation defence. The closest cautionary tale is the Swedish e-krona project, which the Riksbank effectively paused in 2024-2025  with no decision on issuance and no live retail product, demonstrating that "preparation can extend indefinitely." The digital euro's pace is **not a technology limitation; it is a policy choice** to protect the €18T+ commercial-bank deposit base while waiting for political consensus.
 
 ## Programme architecture
 
@@ -42,7 +42,7 @@ This entry sits under [[fintech/INDEX|fintech index]] as the per-jurisdiction de
                                   (pending; not yet entered)
                                             │
                                             ▼
-                                  Live issuance (not yet authorized)
+                                  Live issuance (not yet determined)
 ```
 
 ## Matrix A · Statute, regulator, phase status
@@ -51,20 +51,20 @@ This entry sits under [[fintech/INDEX|fintech index]] as the per-jurisdiction de
 |---|---|
 | Lead authority | European Central Bank (ECB) Governing Council + ECB Executive Board |
 | Legislative basis | Regulation establishing the digital euro — European Commission proposal June 2023; in EU Council + European Parliament co-decision (trilogue) |
-| Investigation Phase | 2021-10 → 2023-10 (concluded) |
+| Investigation Phase | 2021-10 → 2023-10  (concluded) |
 | Preparation Phase | 2023-11 → originally October 2025; **extended into 2026-Q4+** awaiting legislative outcome |
 | Issuance Decision Phase | NOT yet entered as of 2026-05; requires Governing Council decision + legislative basis |
-| Issuance start | Not scheduled; depends on the Issuance Decision Phase outcome; earliest realistic window is 2027-2028 |
+| Issuance start | Not yet determined; depends on Issuance Decision Phase outcome; earliest realistic 2027-2028  |
 | Reporting cadence | ECB publishes quarterly / periodic progress reports on the digital euro project page |
 
-The ECB explicitly clarifies in every progress report that **entering the Preparation Phase is not a decision to issue**. Issuance requires (i) the EU co-legislative regulation to be adopted, and (ii) a separate Governing Council decision to launch. As of 2026-05 neither has happened.
+The ECB explicitly clarifies in every progress report that **entering the Preparation Phase is not a decision to issue**. Issuance requires (i) the EU co-legislative regulation to be adopted, and (ii) a separate Governing Council decision to launch. As of 2026-05  neither has happened.
 
 ## Matrix B · Design choices — codified anti-disintermediation
 
 | Design choice | Detail | Why |
 |---|---|---|
 | **Two-tier intermediated** | ECB → supervised PSPs (banks, EMIs, payment institutions) → users; ECB does not directly distribute | Preserve commercial-bank role; consistent with [[fintech/cbdc-multi-tier-architecture-three-paradigms|three-paradigms]] dual-tier; avoid central-bank-direct-to-consumer disintermediation |
-| **Per-person holding limit** | Proposed €3,000-€4,000 per person (subject to legislative decision; not finalised) | Hard cap on aggregate digital-euro balance per person; prevents large-scale conversion of bank deposits into central-bank money |
+| **Per-person holding limit** | Proposed €3,000-€4,000  per person (subject to legislative decision; not finalised) | Hard cap on aggregate digital-euro balance per person; prevents large-scale conversion of bank deposits into central-bank money |
 | **Reverse waterfall** | If a payment exceeds the recipient's holding cap, the surplus auto-transfers to the recipient's linked commercial-bank account | Removes the holding cap as a UX blocker for individual payments above the cap |
 | **Zero interest** | The retail digital euro pays no interest | Removes the savings-substitution incentive vs commercial-bank deposits |
 | **Online + offline modes** | Online mode for general use; offline mode for low-value cash-like P2P | Offline mode replicates cash-like privacy and resilience; online mode supports merchant payments |
@@ -73,7 +73,7 @@ The ECB explicitly clarifies in every progress report that **entering the Prepar
 | **No interest + no programmability for retail** | Explicit rejection of programmable money for retail digital euro | Preserve flexibility; avoid conditional-payment misuse and welfare-state automation framing |
 | **Wholesale separate track** | Wholesale-CBDC use cases handled via separate Eurosystem exploratory work, not via the retail digital euro | Two distinct tracks; retail is the legislative focus |
 
-The three core anti-disintermediation parameters — **holding cap + reverse waterfall + zero interest** — are the most-debated public-policy items. Commercial banks have lobbied for a low cap (€1,000-€2,500 range) and emphasised the systemic-risk implication of a high cap. The ECB has signalled comfort with €3,000-€4,000 but has not finalised. The legislative outcome will be politically negotiated.
+The three core anti-disintermediation parameters — **holding cap + reverse waterfall + zero interest** — are the most-debated public-policy items. Commercial banks have lobbied for a low cap (€1,000-€2,500  range) and emphasised the systemic-risk implication of a high cap. The ECB has signalled comfort with €3,000-€4,000  but has not finalised. The legislative outcome will be politically negotiated.
 
 ## Matrix C · Preparation-Phase work-streams
 
@@ -100,7 +100,7 @@ The Preparation Phase is **not** a public pilot. It is internal design and techn
 | Wallet apps live | **0** |
 | Cross-border CBDC settlement | **0** |
 | Public pilot participants | **0** (Preparation Phase work is internal / vendor-side, not consumer-side) |
-| Vendor framework agreements signed | Multiple component-level (risk management, app SDK, alias lookup, offline payment); selected vendor names announced over 2024-2025 |
+| Vendor framework agreements signed | Multiple component-level (risk management, app SDK, alias lookup, offline payment); selected vendor names announced over 2024-2025  |
 
 This is the single defining fact: **the digital euro is the only of the four reference CBDC programmes with zero live retail activity** as of 2026-05. The "behind China" framing is technically accurate but materially misleading — the ECB has been explicit that this is **a policy choice**, not a technology gap.
 
@@ -140,14 +140,14 @@ For comparison, none of the other three reference CBDC programmes codify holding
 | Merchants | Accept digital euro payments via payment-scheme integration |
 | Consumers | Hold digital euro in PSP-provided wallet; pay merchants; P2P |
 
-The distribution model is **explicitly designed to keep commercial banks at the centre of the consumer relationship**. This is the largest single design difference from China's two-tier (which gives the 10 designated operators distribution authority but the PBoC defines the operators) and from India's two-tier (which uses the 17 participating banks). The EU design is the most protective of the existing commercial-bank distribution channel.
+The distribution model is **explicitly designed to keep commercial banks at the centre of the consumer relationship**. This is the largest single design difference from China's two-tier (which gives the 10  designated operators distribution authority but the PBoC defines the operators) and from India's two-tier (which uses the 17  participating banks). The EU design is the most protective of the existing commercial-bank distribution channel.
 
 ## Comparison to Sweden e-krona pause
 
-The Swedish e-krona project, run by Sveriges Riksbank since 2017, is the cautionary tale that informs the digital euro debate. The Riksbank's public position evolved from active pilot (2017-2022) to a deliberately undecided position (2023-2024) to an effective pause (2024-2025). Key public-source signals:
+The Swedish e-krona project, run by Sveriges Riksbank since 2017,  is the cautionary tale that informs the digital euro debate. The Riksbank's public position evolved from active pilot (2017-2022) to a deliberately undecided position (2023-2024) to an effective pause (2024-2025). Key public-source signals:
 
 - The Riksbank has published e-krona PoC reports across multiple phases since 2017.
-- By 2023-2024 public Riksbank communications increasingly emphasised that issuance is a **political-mandate question** that requires parliamentary decision, not solely a central-bank one.
+- By 2023-2024  public Riksbank communications increasingly emphasised that issuance is a **political-mandate question** that requires parliamentary decision, not solely a central-bank one.
 - The Riksbank shifted emphasis toward improving the existing payment infrastructure (RIX-INST instant-payments rail) rather than launching e-krona.
 - The e-krona discussion has effectively been deprioritised relative to other Riksbank work-streams.
 
@@ -158,7 +158,7 @@ The lesson for the digital euro: **"preparation" can extend indefinitely if poli
 | Authority | ECB Governing Council | Sveriges Riksbank |
 | Legislative basis | EU co-decision regulation pending | Swedish parliamentary decision required |
 | Architecture | Two-tier intermediated via supervised PSPs | Two-tier intermediated model (under design) |
-| Holding cap | Proposed €3,000-€4,000 | Not finalised; concept design referenced caps |
+| Holding cap | Proposed €3,000-€4,000  | Not finalised; concept design referenced caps |
 | Live retail | None | None |
 | Status (2026-05) | Preparation Phase (extended) | Effectively paused; no issuance decision |
 | Political momentum | Medium-low; commercial banks resist | Low; Riksbank deprioritised |

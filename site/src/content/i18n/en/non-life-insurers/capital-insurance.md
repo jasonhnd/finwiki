@@ -1,37 +1,37 @@
 ---
 source: non-life-insurers/capital-insurance
-source_hash: 0ea82c445860a5ed
+source_hash: e9ac2900beef8983
 lang: en
 status: machine
 fidelity: ok
-title: "Capital Insurance / Capital Insurance"
-translated_at: 2026-05-31T11:13:44.943Z
+title: "Capital Insurance / キャピタル損害保険"
+translated_at: 2026-06-15T03:48:21.858Z
 ---
 
-# Capital Insurance / Capital Insurance
+# Capital Insurance / キャピタル損害保険
 
 Wiki route: [[non-life-insurers/INDEX]] -> [[insurance/INDEX]] -> [[non-life-insurers/capital-insurance]]
 
-##Overview
+## Overview
 
 Capital Insurance is a licensed Japanese non-life insurer with public group-support disclosure tied to Mitsubishi HC Capital. In FinWiki it is a specialty non-life route adjacent to [[leasing-firms/mitsubishi-hc-capital]] and leasing / finance group insurance.
 
 ## Entity Boundary
 
-This page covers Capital General Insurance Co., Ltd., not the full Mitsubishi HC Capital group. It should be used when the insurance-company license and product route matter.
+This page covers キャピタル損害保険株式会社, not the full Mitsubishi HC Capital group. It should be used when the insurance-company license and product route matter.
 
 ## Business Role Map
 
-|Route|Reading|
+| Route | Reading |
 |---|---|
-|Group-linked non-life insurer|Insurance operating company connected to a finance / leasing group context.|
-|Mitsubishi HC Capital adjacency|Link to [[leasing-firms/mitsubishi-hc-capital]] when group support or ownership matters.|
-|Specialty insurer|Smaller non-life operator, not a domestic major.|
-|License/solvency|Routed through [[financial-licenses/insurance-license-and-solvency]].|
+| Group-linked non-life insurer | Insurance operating company connected to a finance / leasing group context. |
+| Mitsubishi HC Capital adjacency | Link to [[leasing-firms/mitsubishi-hc-capital]] when group support or ownership matters. |
+| Specialty insurer | Smaller non-life operator, not a domestic major. |
+| License / solvency | Routed through [[financial-licenses/insurance-license-and-solvency]]. |
 
 ## Public Context
 
-Capital Insurance matters because finance and leasing groups can carry insurance subsidiaries or affiliates that do not fit the direct-auto or domestic-major pattern. It is a useful bridge between non-life insurance and group-finance pages.
+Capital Insurance matters because finance and leasing groups can carry insurance subsidiaries or affiliates that do not fit the direct-auto or domestic-major pattern. It is a useful bridge between non-life insurance and group-finance pages. Among the specialty non-life cluster it sits beside other niche operators such as [[non-life-insurers/sakura-insurance|さくら損害保険]] rather than the domestic majors.
 
 ## Research Checklist
 

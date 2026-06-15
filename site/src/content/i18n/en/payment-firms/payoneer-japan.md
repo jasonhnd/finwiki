@@ -1,51 +1,58 @@
 ---
 source: payment-firms/payoneer-japan
-source_hash: c2a2cd594c5925b8
+source_hash: e595e16bc5444833
 lang: en
 status: machine
 fidelity: ok
 title: "Payoneer Japan"
-translated_at: 2026-06-01T00:41:50.443Z
+translated_at: 2026-06-15T03:48:21.884Z
 ---
-# Payoneer Japan
 
+# Payoneer Japan
 
 ## Wiki route
 
-This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it against [[payment-firms/wise-payments-japan|Wise Payments Japan]] for peer / contrast context and [[payments/INDEX|payments index]] for the broader system / regulatory boundary.
+This entry sits under [[payment-firms/INDEX|payment-firms INDEX]] (its domain route). Read it against [[payment-firms/wise-payments-japan|Wise Payments Japan]] and [[payment-firms/airwallex-japan|Airwallex Japan]] for peer / contrast (cross-border business-payment fintech), and against [[financial-regulators/fsa|the FSA]] plus [[payments/funds-transfer-vs-prepaid-boundary|the funds-transfer vs prepaid boundary]] for the supervisory / system boundary.
 
 ## TL;DR
 
-Payoneer Japan K.K. is the Japan funds-transfer entity of the Payoneer group. It appears in the FSA registration list as Kanto Local Finance Bureau Director 第00045号, and is important in global marketplace payout / freelancer / supplier-payment contexts.
+ペイオニア・ジャパン株式会社 is the Japan base of the US Payoneer group, an FSA-registered **type-II funds-transfer operator** (under the Payment Services Act; Director-General of the Kanto Local Finance Bureau 第00045号). Established in 2015 年, headquartered in Shibuya, Tokyo. It is important in the context of global marketplace payout / freelancer / supplier-payment, handling the receipts and payments of cross-border sellers and businesses that receive income from overseas platforms.
 
-## 1. Legal Entity / License Boundary
+## 1. License / group boundary
 
-| Item | Reading |
+| Item | Notes |
 |---|---|
-| Legal entity | Payoneer Japan K.K. |
-| Group | Payoneer Global Inc. |
-| Main lanes | Marketplace payouts, business payments, cross-border funds management |
-| FSA registry route | FSA funds-transfer list: Kanto Local Finance Bureau Director 第00045号, Payoneer Japan K.K. |
+| Legal name | ペイオニア・ジャパン株式会社 |
+| License route | type-II funds-transfer operator (funds-transfer, Payment Services Act); FSA Director-General of the Kanto Local Finance Bureau 第00045号 |
+| Parent / group | Payoneer Global Inc. (US, foreign parent) |
+| Established | 2015 年 |
+| Main lanes | Marketplace payouts, business payments, collection agency (収納代行), cross-border funds management |
+| Wiki role | Payoneer's Japan funds-transfer entity page |
 
-## 2. Business role
+## 2. Operating model
 
-- Serves global marketplace sellers, freelancers, contractors, and SMEs receiving foreign platform income.
-- Competes with [[payment-firms/wise-payments-japan|Wise]], [[payment-firms/paypal-pte-ltd-japan|PayPal]], [[payment-firms/airwallex-japan|Airwallex]], and bank wire services.
-- Important for Japan outbound / inbound digital-commerce payment flows.
+- Serves global marketplace sellers, freelancers, contractors, and small and medium-sized businesses that receive income from overseas platforms.
+- Competes with [[payment-firms/wise-payments-japan|Wise]], [[payment-firms/paypal-pte-ltd-japan|PayPal]], [[payment-firms/airwallex-japan|Airwallex]], and bank wires.
+- Important in Japan's outbound / inbound digital-commerce payment flows.
 
-## 3. Why this standalone page matters
+## 3. Why this page matters
 
-Payoneer is often discussed as a global platform, but Japan compliance and product analysis should reference the registered Japan entity.
+Payoneer tends to be discussed as a global platform, but Japan compliance and product analysis should reference the **registered Japan entity (type-II funds-transfer operator)**. It pins down a typical example of a foreign parent's Japan subsidiary operating under a funds-transfer license.
 
 ## Related
 
-- [[payment-firms/wise-payments-japan]]
-- [[payment-firms/paypal-pte-ltd-japan]]
-- [[payment-firms/airwallex-japan]]
-- [[payments/funds-transfer-vs-prepaid-boundary]]
+- [[payment-firms/INDEX|payment-firms INDEX]]
+- [[payment-firms/wise-payments-japan|Wise Payments Japan]]
+- [[payment-firms/airwallex-japan|Airwallex Japan]]
+- [[payment-firms/paypal-pte-ltd-japan|PayPal Pte. Ltd. Japan]]
+- [[payments/funds-transfer-vs-prepaid-boundary|funds-transfer vs prepaid boundary]]
+- [[INDEX|FinWiki index]]
 
 ## Sources
 
 - Payoneer Japan product surface: https://www.payoneer.com/ja/
 - Payoneer corporate profile: https://www.payoneer.com/about/
-- FSA funds transfer service provider list: https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf
+- FSA funds-transfer service provider list (`shikin_idou.pdf`): https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf
+
+> [!info] Verification status
+> confidence: likely. The type-II funds-transfer business (Director-General of the Kanto Local Finance Bureau 第00045号), establishment in 2015 年, and being a Payoneer Global subsidiary are public facts.

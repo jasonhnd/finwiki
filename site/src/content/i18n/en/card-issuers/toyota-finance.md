@@ -1,12 +1,13 @@
 ---
 source: card-issuers/toyota-finance
-source_hash: ed1a8443367e75da
+source_hash: abe6eb4a64af680f
 lang: en
 status: machine
 fidelity: ok
 title: "Toyota Finance"
-translated_at: 2026-06-01T02:31:57.132Z
+translated_at: 2026-06-15T03:48:21.851Z
 ---
+
 # Toyota Finance
 
 ## Wiki route
@@ -15,7 +16,7 @@ This entry sits under [[card-issuers/INDEX|card-issuers INDEX]]. Read it against
 
 ## Overview
 
-Toyota Finance Corporation is the domestic core finance company of the [[manufacturer-finance/toyota-motor|Toyota Motor]] group and a wholly owned subsidiary of [[leasing-firms/toyota-financial|Toyota Financial Services]]. Its official company profile states that it provides financial businesses such as sales finance and credit cards.
+トヨタファイナンス株式会社 is the domestic core finance company of the [[manufacturer-finance/toyota-motor|Toyota Motor]] group and a wholly owned subsidiary of [[leasing-firms/toyota-financial|Toyota Financial Services]]. Its official company profile states that it provides financial businesses such as sales finance and credit cards.
 
 This page splits the Japan operating company from the global TFS holding page. That separation matters because Toyota Finance is where domestic auto credit, dealer-linked finance, card products, and customer-facing financial services converge.
 
@@ -23,7 +24,7 @@ This page splits the Japan operating company from the global TFS holding page. T
 
 | Item | Reading |
 |---|---|
-| Legal entity | Toyota Finance Corporation |
+| Legal entity | トヨタファイナンス株式会社 / TOYOTA FINANCE CORPORATION |
 | Established | 1988-11-28 |
 | Shareholder | [[leasing-firms/toyota-financial|Toyota Financial Services]] 100% |
 | Parent group | [[manufacturer-finance/toyota-motor|Toyota Motor]] group |
@@ -34,6 +35,7 @@ This page splits the Japan operating company from the global TFS holding page. T
 - Toyota Finance presents itself as a mobility financial services company built on sales finance and credit-card businesses.
 - The company profile lists financial businesses including sales finance and credit cards, while the TFS parent company profile identifies Toyota Financial Services as the holding / coordinating company for auto sales finance services.
 - The operating model is not just "card issuing"; it links dealers, auto credit, leasing / sales finance, insurance adjacency, and Toyota customer data.
+- On the dealer-linked auto-loan lane it competes head-on with the independent 信販 issuer [[card-issuers/orico|オリコ]], domestic auto-loan No.1, which reaches the same showroom installment flow from a non-captive base.
 
 ## 3. Why This Standalone Page Matters
 

@@ -1,42 +1,42 @@
 ---
 source: financial-regulators/financial-reports-2020-index
-source_hash: f515edbaef7ad578
+source_hash: 7d98ec72afe2de93
 lang: en
 status: machine
 fidelity: ok
 title: "JapanFG financial reports 2020+ index"
-translated_at: 2026-05-31T15:29:03.887Z
+translated_at: 2026-06-15T03:48:21.894Z
 ---
 
 # JapanFG financial reports 2020+ index
 
 ## TL;DR
 
-This page consolidates entry points for **official financial reports, integrated reports, disclosure booklets, securities reports, and parent-company annual reports from 2020 onward** for financial companies and institutions in the [[financial-regulators/INDEX|financial-regulators INDEX]].
+This page consolidates into a single index the **official financial reports, integrated reports, disclosure journals, securities reports, and parent-company annual-report entry points from 2020 年 onward** for financial companies / financial institutions within [[financial-regulators/INDEX|financial-regulators INDEX]].
 
-The policy is **archive-first**: record official archive or back-number pages that can cover all reports from 2020 onward. Use direct PDF examples, parent-company annual reports, regulatory disclosures, or a public annual-report gap note only when the official site lacks a complete archive.
+The policy is **archive-first**: prioritize recording an official archive / backnumber page that can cover all reports from 2020 年 onward; only when the official page has no complete archive, record direct PDF samples, parent-company annual reports, regulatory disclosures, or a "public annual-report gap."
 
 ## Scope
 
-- Coverage: banks, financial groups, policy finance, trusts, securities firms, insurers, credit-sales companies, leasing companies, payments, fintech, crypto-asset firms, money-market brokers, and foreign financial entities or branches in JapanFG.
-- Excluded: cross-company pages such as [[payment-firms/bnpl-landscape|bnpl-landscape]], [[financial-regulators/boj-monetary-policy|boj-monetary-policy]], [[card-issuers/installment-sales-act-2020-amendment|installment-sales-act-2020-amendment]], [[financial-regulators/japan-policy-finance-map|japan-policy-finance-map]], [[financial-regulators/jsda|jsda]], [[financial-regulators/local-bond-market|local-bond-market]], and the deprecated mistaken link [[regional-banks/ssjbank|ssjbank]].
-- Date basis: 2026-05-20 JST. Do not force-fill FY2025 or 2026-03 annual and integrated reports if they are not yet public.
-- "2020+" means annual-report links traceable from 2020 onward. For companies established after 2020, the table states the predecessor-company or parent-company boundary.
+- In scope: banks, FGs, policy finance, trust, securities, insurance, credit / installment-sales, leasing, payments, fintech, crypto-assets, money-broker companies, and foreign in-Japan entities / branches under JapanFG.
+- Excluded: cross-company pages [[payment-firms/bnpl-landscape|bnpl-landscape]], [[financial-regulators/boj-monetary-policy|boj-monetary-policy]], [[card-issuers/installment-sales-act-2020-amendment|installment-sales-act-2020-amendment]], [[financial-regulators/japan-policy-finance-map|japan-policy-finance-map]], [[financial-regulators/jsda|jsda]], [[financial-regulators/local-bond-market|local-bond-market]], and the deprecated mis-link [[regional-banks/ssjbank|ssjbank]].
+- Date basis: 2026-05-20 JST. Where the 2026-03  term's annual / integrated report is unpublished, do not force-fill.
+- "2020+" refers to annual-report links traceable from 2020 年 onward; for companies established after 2020 年, the predecessor / parent boundary is noted in the table.
 
 ## Status legend
 
 | Status | Meaning |
 |---|---|
-| complete | Official archive or back-number page covers 2020-2025, or the company was established later and the predecessor boundary is clear |
-| boundary | The entry requires explanation of a parent company, predecessor, subsidiary, or Japan-entity boundary rather than a single listed entity |
-| partial | An official entry point exists, but year-by-year PDF expansion is required or a 2020 gap remains |
-| gap | No public annual-report or disclosure archive was found; only company, rating, regulatory, or parent-company entry points can be listed |
+| complete | An official archive / backnumber covers 2020-2025 , or establishment is late but the predecessor boundary is clear |
+| boundary | Not a single listed entity; an explanation of the parent, predecessor, subsidiary, or Japan-entity boundary is needed |
+| partial | An official entry point exists, but year-by-year PDF expansion is needed, or there is a 2020  gap |
+| gap | No public annual report / disclosure archive found; only company, rating, regulatory, or parent entry points can be listed |
 
 ## Source matrix
 
 | Status | Slug | Official source | Report type | Coverage | Boundary / gap |
 |---|---|---|---|---|---|
-| boundary | [[regional-banks/18-shinwa-bank|18-shinwa-bank]] | [Fukuoka FG integrated report archive](https://www.fukuoka-fg.com/investor/library/integrated_report/) | parent FG integrated / disclosure | 2020-2025 at parent level | Established through the 2020-10 merger; predecessor tracking is required for Eighteenth Bank and Shinwa Bank |
+| boundary | [[regional-banks/18-shinwa-bank|18-shinwa-bank]] | [Fukuoka FG integrated report archive](https://www.fukuoka-fg.com/investor/library/integrated_report/) | parent FG integrated / disclosure | 2020-2025 at parent level | 2020-10  formed by merger; predecessor Eighteenth Bank / Shinwa Bank need predecessor tracing |
 | complete | [[regional-banks/77-bank|77-bank]] | [77 Bank disclosure](https://www.77bank.co.jp/77bank/ir/disclosure.html) | integrated / disclosure | 2020-2025 | backnumber confirms 2020+ |
 | complete | [[consumer-finance/acom|acom]] | [ACOM integrated report](https://www.acom.co.jp/corp/ir/library/integrated_report/) | integrated report / annual report / securities report | 2020-2025 | FY2020 and before use annual report naming |
 | boundary | [[card-issuers/aeon-bank|aeon-bank]] | [AEON Financial Service integrated/disclosure](https://www.aeonfinancial.co.jp/ir/library/company_disclosure/) | parent integrated / disclosure | 2020-2025 | bank is unlisted subsidiary; use AEON FS parent |
@@ -57,7 +57,7 @@ The policy is **archive-first**: record official archive or back-number pages th
 | boundary | [[foreign-financial-institutions/bnp-paribas-japan|bnp-paribas-japan]] | [BNP Paribas group documents](https://group.bnpparibas/en/group/publications/group-documents) | parent URD / integrated report | 2020-2025 | Japan standalone annual archive not found |
 | boundary | [[foreign-financial-institutions/bny-mellon-japan|bny-mellon-japan]] | [BNY annual reports](https://www.bny.com/corporate/global/en/investor-relations/annual-reports-and-proxy.html.html) | parent annual report | 2020-2025 | Japan page confirms entities; no Japan standalone annual archive found |
 | gap | [[financial-regulators/central-tanshi|central-tanshi]] | [Central Tanshi rating](https://www.central-tanshi.com/profile/rating.html) | rating / company data substitute | no public annual archive found | short-term money broker; no annual/disclosure PDF archive found |
-| complete | [[regional-banks/chiba-bank|chiba-bank]] | [Chiba Bank disclosure](https://www.chibabank.co.jp/investor/ir/disclosure) | integrated / disclosure / interim disclosure | 2020-2025 | official page lists fiscal years from the period ended 2020-03 onward |
+| complete | [[regional-banks/chiba-bank|chiba-bank]] | [Chiba Bank disclosure](https://www.chibabank.co.jp/investor/ir/disclosure) | integrated / disclosure / interim disclosure | 2020-2025 | official page lists 2020年3月期 onward |
 | complete | [[regional-banks/chiba-kogyo-bank|chiba-kogyo-bank]] | [Chiba Kogyo disclosure](https://www.chibakogyo-bank.co.jp/ir/library/disclosure/) | integrated / disclosure | 2020-2025 | official backnumber lists 2020+ |
 | boundary | [[regional-banks/chugin-okayama|chugin-okayama]] | [Chugin FG disclosure](https://www.chugin-fg.co.jp/stockholder/disclosure/) | integrated / disclosure | FG 2022-2025; predecessor 2020-2021 | 2020-2021 use predecessor Chugoku Bank backnumbers |
 | boundary | [[foreign-financial-institutions/citigroup-japan|citigroup-japan]] | [Citigroup annual reports](https://www.citigroup.com/global/investors/annual-reports-and-proxy-statements) | parent annual report + Japan disclosures | 2020-2025 | Japan page has disclosures; no standalone annual report |
@@ -75,7 +75,7 @@ The policy is **archive-first**: record official archive or back-number pages th
 | complete | [[payment-firms/freee|freee]] | [freee IR](https://corp.freee.co.jp/ir/) | securities / IR library | 2020-2025 | official listed-company IR |
 | complete | [[regional-banks/fukuoka-fg|fukuoka-fg]] | [Fukuoka FG integrated report](https://www.fukuoka-fg.com/investor/library/integrated_report/) | integrated / disclosure | 2020-2025 | official archive |
 | complete | [[leasing-firms/fuyo-lease|fuyo-lease]] | [Fuyo Lease IR](https://www.fgl.co.jp/ir/) | integrated / securities | 2020-2025 | exact subpage still worth expanding |
-| complete | [[payment-firms/gmo-aozora-net|gmo-aozora-net]] | [GMO Aozora disclosure](https://gmo-aozora.com/company/disclosure.html?type=2) | disclosure / financial information | 2020-2025 | official page lists fiscal years 2020-2025 |
+| complete | [[payment-firms/gmo-aozora-net|gmo-aozora-net]] | [GMO Aozora disclosure](https://gmo-aozora.com/company/disclosure.html?type=2) | disclosure / financial information | 2020-2025 | official page lists 2020年度-2025年度 |
 | complete | [[payment-firms/gmo-coin|gmo-coin]] | [GMO Coin disclosure](https://coin.z.com/jp/corp/about/kaiji/) | disclosure / decision notices | 2020-2025 | official disclosure page |
 | complete | [[payment-firms/gmo-financial-hd|gmo-financial-hd]] | [GMO Financial HD IR](https://www.gmofh.com/ir/) | IR library | 2020-2025 | exact annual subpage should be expanded later |
 | complete | [[payment-firms/gmo-payment-gateway|gmo-payment-gateway]] | [GMO PG integrated reports](https://www.gmo-pg.com/ir/library/integrated-report/index.html) | integrated / annual report | 2020-2025 | official page includes FY2020 annual report |
@@ -136,7 +136,7 @@ The policy is **archive-first**: record official archive or back-number pages th
 | complete | [[regional-banks/nishi-nippon-fhd|nishi-nippon-fhd]] | [NNFH disclosure](https://www.nnfh.co.jp/shareholder/ir/disclosure.html) | integrated / disclosure | 2020-2025 | official archive |
 | complete | [[securities-firms/nomura-hd|nomura-hd]] | [Nomura annual reports](https://www.nomuraholdings.com/investor/library/ar/index.html) | annual / integrated | 2020-2025 | official archive |
 | complete | [[cooperative-banks/norinchukin|norinchukin]] | [Norinchukin annual reports](https://www.nochubank.or.jp/en/ir/annual_report/) | annual / integrated | 2020-2025 | official archive |
-| boundary | [[leasing-firms/ntt-tc-lease|ntt-tc-lease]] | [NX TC company / settlement notices](https://www.nxtclf.co.jp/aboutus/) | decision notices | 2021-2025 | 2021 company-split boundary; former NTT TC |
+| boundary | [[leasing-firms/ntt-tc-lease|ntt-tc-lease]] | [NX・TC company / settlement notices](https://www.nxtclf.co.jp/aboutus/) | decision notices | 2021-2025 | 2021 company-split boundary; former NTT・TC |
 | partial | [[regional-banks/ogaki-kyoritsu-bank|ogaki-kyoritsu-bank]] | [OKB investor top](https://www.okb.co.jp/investor/) | integrated / disclosure | 2024-2025 surfaced | older years need direct annual page expansion |
 | complete | [[securities-firms/okasan-sg|okasan-sg]] | [Okasan securities reports](https://www.okasan.jp/ir/finance/securities_report.html) | securities reports | 2020-2025 | official archive |
 | boundary | [[regional-banks/okinawa-fg|okinawa-fg]] | [Okinawa FG investor](https://www.okinawafg.co.jp/shareholder_investor/) | disclosure / integrated / business report | disclosure 2021-2025; integrated 2022-2025 | 2020 use predecessor Okinawa Bank |
@@ -202,15 +202,15 @@ The policy is **archive-first**: record official archive or back-number pages th
 
 These rows have a valid post-2020 archive but need predecessor URLs to create a strict six-year PDF manifest.
 
-- [[regional-banks/aichi-fg|aichi-fg]] -- Aichi Bank / Chukyo Bank for 2020-2022.
-- [[regional-banks/chugin-okayama|chugin-okayama]] -- Chugoku Bank for 2020-2021.
-- [[regional-banks/iyogin-hd|iyogin-hd]] -- Iyo Bank for 2020-2021.
-- [[regional-banks/juroku-fg|juroku-fg]] -- Juroku Bank for 2020.
-- [[regional-banks/kyoto-fg|kyoto-fg]] -- Bank of Kyoto for 2020-2022.
-- [[regional-banks/okinawa-fg|okinawa-fg]] -- Bank of Okinawa for 2020.
-- [[regional-banks/proclair-hd|proclair-hd]] -- Aomori Bank / Michinoku Bank for 2020-2022.
-- [[regional-banks/shizuoka-fg|shizuoka-fg]] -- Shizuoka Bank for 2020-2022.
-- [[leasing-firms/mitsubishi-hc-capital|mitsubishi-hc-capital]] -- Mitsubishi UFJ Lease / Hitachi Capital for 2020.
+- [[regional-banks/aichi-fg|aichi-fg]] — 愛知銀行 / 中京銀行 for 2020-2022.
+- [[regional-banks/chugin-okayama|chugin-okayama]] — 中国銀行 for 2020-2021.
+- [[regional-banks/iyogin-hd|iyogin-hd]] — 伊予銀行 for 2020-2021.
+- [[regional-banks/juroku-fg|juroku-fg]] — 十六銀行 for 2020.
+- [[regional-banks/kyoto-fg|kyoto-fg]] — 京都銀行 for 2020-2022.
+- [[regional-banks/okinawa-fg|okinawa-fg]] — 沖縄銀行 for 2020.
+- [[regional-banks/proclair-hd|proclair-hd]] — 青森銀行 / みちのく銀行 for 2020-2022.
+- [[regional-banks/shizuoka-fg|shizuoka-fg]] — 静岡銀行 for 2020-2022.
+- [[leasing-firms/mitsubishi-hc-capital|mitsubishi-hc-capital]] — 三菱UFJリース / 日立キャピタル for 2020.
 
 ### B. Needs direct PDF enumeration
 

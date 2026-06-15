@@ -1,13 +1,14 @@
 ---
 source: asset-managers/principal-japan
-source_hash: cb638775fba4ab23
+source_hash: c8432079b1c02079
 lang: en
 status: machine
 fidelity: ok
-title: "Principal Japan / Principal Japan"
-translated_at: 2026-06-01T00:41:50.444Z
+title: "Principal Japan / プリンシパル・ジャパン"
+translated_at: 2026-06-15T03:48:21.930Z
 ---
-# Principal Japan / Principal Japan
+
+# Principal Japan / プリンシパル・ジャパン
 
 ## Wiki route
 
@@ -39,7 +40,7 @@ Principal Financial Group's global business spans:
 - US Insurance Solutions (life and specialty benefits)
 - Principal International (selected non-US markets, historically Latin America and Asia)
 
-In Japan, Principal's institutional asset management and pension-advisory business has been the primary engagement model, with limited retail life insurance distribution compared with foreign retail life insurers. Principal Global Investors offers institutional investment management services to Japanese pension funds, financial institutions, and other institutional clients.
+In Japan, Principal's institutional asset management and pension-advisory business has been the primary engagement model, with limited retail life insurance distribution compared with foreign retail life insurers. Principal Global Investors offers institutional investment management services to Japanese pension funds, financial institutions, and other institutional clients — competing for the same institutional / pension mandate pool as large domestic managers such as [[asset-managers/asset-management-one|アセットマネジメントOne]].
 
 Compared with peers covered in JapanFG:
 
@@ -79,5 +80,5 @@ Principal's solvency / capital framework follows US National Association of Insu
 
 ---
 
-> [!info] Verification status
-> confidence: **likely** (constructed only from public information based on FSA business operator lists, Principal Financial Group official materials, and the Principal Annual Report, checked in 2026-05-24). Principal's Japan entity license route (asset management vs. insurance-licensed) should be verified against the latest FSA registry. Japan-entity-level financials are not separately publicly broken out in Principal Financial Group's NASDAQ disclosures.
+> [!info] 校核状态
+> confidence: **likely** (FSA business operator lists + Principal Financial Group official + Principal Annual Report による公開情報のみで構成、2026-05-24 校核). Principal's Japan entity license route (asset management vs. insurance-licensed) should be verified against the latest FSA registry. Japan-entity-level financials are not separately publicly broken out in Principal Financial Group's NASDAQ disclosures.

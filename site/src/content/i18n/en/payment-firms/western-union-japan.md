@@ -1,51 +1,58 @@
 ---
 source: payment-firms/western-union-japan
-source_hash: d9434c45e4f71c3d
+source_hash: 13b387e989cd2dd1
 lang: en
 status: machine
 fidelity: ok
-title: "Western Union Japan"
-translated_at: 2026-06-01T02:31:57.133Z
+title: "ウエスタンユニオンジャパン (Western Union Japan)"
+translated_at: 2026-06-15T03:48:21.873Z
 ---
-# Western Union Japan
 
+# ウエスタンユニオンジャパン (Western Union Japan)
 
 ## Wiki route
 
-This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it against [[payment-firms/wise-payments-japan|Wise Payments Japan]] for peer / contrast context and [[payments/INDEX|payments index]] for the broader system / regulatory boundary.
+This entry sits under [[payment-firms/INDEX|payment-firms INDEX]] (its domain route). Read it against [[payment-firms/sbi-remit|SBIレミット]] and [[payment-firms/travelex-japan|トラベレックスジャパン]] for peer / contrast (cross-border remittance / money-movement), and against [[financial-regulators/fsa|the FSA]] plus [[payments/funds-transfer-vs-prepaid-boundary|the funds-transfer vs prepaid boundary]] for the supervisory / system boundary.
 
 ## TL;DR
 
-Western Union Japan K.K. is Western Union's Japan funds-transfer operator. In the FSA registration list it is listed under Director-General of the Kanto Local Finance Bureau 第00039号, and it is a representative case of cash-pickup / agent-network remittance.
+Western Union Japan Co., Ltd. is the Western Union group's Japan **funds-transfer operator** (funds-transfer operator under the Payment Services Act; Director-General of the Kanto Local Finance Bureau 第00039号, registration 平成27年8月18日). Its head office is in Toranomon, Minato-ku, Tokyo. It is a representative example of cash-pickup / agent-network remittance, providing international remittance for migrant, travel, and cross-border household flows.
 
-## 1. Entity / license boundary
+## 1. License / group boundary
 
-| Item | Reading |
+| Item | Notes |
 |---|---|
-| Legal entity | Western Union Japan K.K. |
-| Group | Western Union group |
-| Main lanes | International money transfer, agent network, cash receipt / payout |
-| FSA registry route | FSA funds-transfer list: Director-General of the Kanto Local Finance Bureau 第00039号, Western Union Japan K.K. |
+| Legal name | ウエスタンユニオンジャパン株式会社 |
+| License route | Funds-transfer operator (funds-transfer, Payment Services Act); FSA Director-General of the Kanto Local Finance Bureau 第00039号 (registration 2015-08 ) |
+| Parent / group | Western Union group (foreign parent) |
+| Main lanes | International remittance, agent network, cash receipt / payout |
+| Home | Toranomon, Minato-ku, Tokyo |
+| Wiki role | Western Union's Japan funds-transfer entity page |
 
-## 2. Business role
+## 2. Operating model
 
 - Provides international remittance for migrant, travel, and cross-border household flows.
-- Differs from app-first fintechs because agent / cash-pickup infrastructure is central.
-- A comparator against [[payment-firms/sbi-remit|SBI Remit]], [[payment-firms/travelex-japan|Travelex]], [[payment-firms/wise-payments-japan|Wise]], and [[payment-firms/paypal-pte-ltd-japan|PayPal]].
+- It differs from app-first fintechs in that agent / cash-pickup infrastructure is at the center.
+- A comparator for [[payment-firms/sbi-remit|SBI Remit]], [[payment-firms/travelex-japan|Travelex]], [[payment-firms/wise-payments-japan|Wise]], and [[payment-firms/paypal-pte-ltd-japan|PayPal]].
 
-## 3. Why this standalone page matters
+## 3. Why this page matters
 
-Western Union's global brand is familiar, but the Japan legal entity and local terms govern the actual service boundary.
+Western Union's global brand is familiar, but what governs the actual service boundary is the **Japanese entity and local terms**. It pins down an example of a foreign parent's Japanese subsidiary operating agent-network remittance under a funds-transfer license.
 
 ## Related
 
-- [[payment-firms/sbi-remit]]
-- [[payment-firms/travelex-japan]]
-- [[payment-firms/wise-payments-japan]]
-- [[payments/funds-transfer-vs-prepaid-boundary]]
+- [[payment-firms/INDEX|payment-firms INDEX]]
+- [[payment-firms/sbi-remit|SBI Remit]]
+- [[payment-firms/travelex-japan|Travelex Japan]]
+- [[payment-firms/wise-payments-japan|Wise Payments Japan]]
+- [[payments/funds-transfer-vs-prepaid-boundary|funds-transfer vs prepaid boundary]]
+- [[INDEX|FinWiki index]]
 
 ## Sources
 
 - Western Union Japan send-money page: https://www.westernunion.com/jp/en/register-and-send-money.html
-- Western Union Japan terms in Japanese: https://www.westernunion.com/content/dam/wu/APAC/other/pdf/WU-terms-conditions-Japan-jp.pdf
-- FSA funds transfer service provider list: https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf
+- Western Union Japan terms (Japanese): https://www.westernunion.com/content/dam/wu/APAC/other/pdf/WU-terms-conditions-Japan-jp.pdf
+- FSA funds-transfer service provider list (`shikin_idou.pdf`): https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf
+
+> [!info] Verification status
+> confidence: likely. The funds-transfer business (Director-General of the Kanto Local Finance Bureau 第00039号, registration 2015-08 ), the Western Union group, and the Toranomon location are public facts.

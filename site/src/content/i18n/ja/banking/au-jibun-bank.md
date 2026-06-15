@@ -1,24 +1,24 @@
 ---
 source: banking/au-jibun-bank
-source_hash: 1b98cc563b361551
+source_hash: db6961f0cb46e2c8
 lang: ja
 status: machine
 fidelity: ok
 title: "auじぶん銀行 (au Jibun Bank)"
-translated_at: 2026-06-02T11:47:37.256Z
+translated_at: 2026-06-15T03:48:21.874Z
 ---
 
 # auじぶん銀行 (au Jibun Bank)
 
-## ウィキ上の位置づけ
+## Wiki 経路
 
-本エントリは [[banking/INDEX|banking index]] の配下に位置する。同位・対照の文脈としては [[banking/rakuten-bank|楽天銀行 (Rakuten Bank)]] と、より広いシステム・規制境界としては [[banking/cooperative-banking-japan|Cooperative banking in Japan]] と併せて読むこと。
+本項目は [[banking/INDEX|banking index]] の配下に、[[regional-banks/au-jibun-bank|auじぶん銀行 (au Jibun Bank) entity anchor]] にあるエンティティ・アンカーに対する operating-profile の補完として位置する。この banking ドメインのページは、同じエンティティのネット銀行 operating view である。ピア／対比の文脈については [[banking/rakuten-bank|楽天銀行 (Rakuten Bank)]]、より広いシステム／規制の境界については [[banking/cooperative-banking-japan|Cooperative banking in Japan]] と併せて読むこと。
 
-## 要約
+## 要点
 
 auじぶん銀行は au フィナンシャルホールディングス 100% のネット銀行。2008-06-17 設立、資本金 1,190 億円で、KDDI / au 金融圏に接続するスマホ中心の銀行ポジションを持つ。2026-04-01 時点の従業員数は 650 名、銀行コードは 0039。
 
-## 組織構造
+## 体制
 
 - **会社**: auじぶん銀行株式会社 / au Jibun Bank Corporation。
 - **株主**: [[megabanks/au-fh|au フィナンシャルホールディングス]] 100%。
@@ -31,7 +31,7 @@ auじぶん銀行は「通信キャリア経済圏の銀行」の代表例。銀
 
 [[banking/rakuten-bank|楽天銀行]] や [[banking/paypay-bank|PayPay 銀行]] と比較すると、auじぶん銀行は通信キャリアの既存契約・本人確認・請求関係と接続しやすい点が強み。一方、楽天市場や PayPay のような高頻度 commerce / payment 接点とは性質が異なる。
 
-## 関連項目
+## 関連
 
 - [[megabanks/au-fh]]
 - [[banking/rakuten-bank]]

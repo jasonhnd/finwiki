@@ -1,53 +1,58 @@
 ---
 source: payment-firms/rakuten-edy
-source_hash: 033724e2f2fd7246
+source_hash: f455a2113405c058
 lang: ja
 status: machine
 fidelity: ok
 title: "楽天Edy"
-translated_at: 2026-06-02T15:14:17.078Z
+translated_at: 2026-06-15T03:48:21.928Z
 ---
 
 # 楽天Edy
 
+## Wiki 経路
 
-## ウィキ上の位置づけ
+この項目は [[payment-firms/INDEX|payment-firms INDEX]]（そのドメイン経路）の下に位置する。グループ／親会社の文脈としては [[payment-firms/rakuten-fg|Rakuten financial ecosystem]] と、対比としては [[payment-firms/seven-payment-service|セブン・ペイメントサービス]] / nanaco 型の prepaid ピアと、監督／システムの境界としては [[payments/funds-transfer-vs-prepaid-boundary|the funds-transfer vs prepaid boundary]] および [[financial-regulators/fsa|the FSA]] と併せて読むこと。
 
-この項目は [[payment-firms/INDEX|payment-firms INDEX]] の配下に置かれる。隣接領域の文脈として [[payments/INDEX|payments index]]、制度全体の境界として [[payments/funds-transfer-vs-prepaid-boundary|Funds transfer vs prepaid boundary in Japan]] とあわせて読む。
+## 要点（TL;DR）
 
-## 要約
+楽天Edy株式会社は、楽天グループの **前払式支払手段（prepaid-instrument under 資金決済法）** 発行会社。電子マネー「楽天Edy」は複数加盟店で使える **第三者型前払式支払手段** に該当し、当局の事前登録を要する。これは資金移動業（送金）ではなく、原則払戻し禁止の stored-value rail である点が重要。発行者には未使用残高の半額以上の発行保証金供託が義務づけられる（保有者保護）。[[payment-firms/rakuten-fg|Rakuten]] のポイント・楽天キャッシュ・楽天ペイ・カードと隣接する prepaid 層を担う。
 
-楽天Edy株式会社は [[payment-firms/rakuten-fg|Rakuten financial ecosystem]] のプリペイド電子マネー / Rakuten Cash運営会社である。公式会社概要は「楽天Edy」「楽天キャッシュ」事業の企画・運営、利用店舗開拓、ブランド管理を示している。
+## 1. ライセンス／グループ境界
 
-## 1. 法人・ライセンス境界
-
-| 項目 | 読み方 |
+| Item | Notes |
 |---|---|
-| 法的主体 | 楽天Edy株式会社 |
-| グループ | [[payment-firms/rakuten-fg|Rakuten]] / Rakuten Payment子会社 |
-| 主な領域 | プリペイド電子マネー, Rakuten Cash, 加盟店受入, 前払式残高管理 |
-| FSA登録ルート | FSA資金移動業者一覧: 関東財務局長 第00067号, 楽天Edy株式会社。 |
+| Legal name | 楽天Edy株式会社 |
+| License route | 第三者型前払式支払手段発行者（資金決済法）; ※資金移動業ではない |
+| Parent / group | [[payment-firms/rakuten-fg|Rakuten]] / 楽天ペイメント系 |
+| Main lanes | 前払式電子マネー、楽天キャッシュ、加盟店開拓、stored-value 管理 |
+| Holder protection | 発行保証金供託（未使用残高の1/2以上、3/31・9/30 基準） |
+| Wiki role | 楽天グループの prepaid / e-money 発行会社ページ |
 
-## 2. 事業上の役割
+## 2. オペレーティングモデル
 
-- 初期から存在し、現在も重要なプリペイド電子マネーのレールを運営する。
-- Rakuten points、Rakuten Cash、Rakuten Pay、カードチャージ、加盟店受入を接続する。プリペイドスキームの経済性は [[payments/japan-payment-scheme-economics-matrix]] を参照。
-- プリペイドの前払式残高を、クレジットカード商品や銀行口座商品から切り分けるうえで有用であり、[[payments/funds-transfer-service-providers-japan-index]] でも扱われる。
+楽天Edy は、早期から普及し今なお material な prepaid 電子マネー rail を運営する。楽天ポイント・楽天キャッシュ・楽天ペイ・カードチャージ・加盟店受入を接続し、prepaid scheme の経済性は [[payments/japan-payment-scheme-economics-matrix|決済スキーム経済性マトリクス]] を参照。prepaid stored value を、クレジットカードや銀行口座型プロダクトから分離して捉えるのに有用で、[[payments/japan-prepaid-electronic-money-operator-matrix|前払式電子マネー事業者マトリクス]] にも現れる。
 
-## 3. この単独ページが重要な理由
+## 3. このページが重要な理由
 
-楽天カード、楽天ペイ、楽天Edy、楽天キャッシュは隣接しているが、法的には異なる接点である。このページでは、プリペイド / 資金移動のレイヤーを見える形で残す。
+- 楽天カード・楽天ペイ・楽天Edy・楽天キャッシュ は隣接するが法的に別々の surface。本ページが prepaid / 前払式の層を可視化する。
+- 「第三者型前払式支払手段（払戻し禁止）」と「資金移動業（送金可）」の規制体系の違いを明示する基準点になる。
+- グループの card-credit 視点（[[card-issuers/rakuten-card|楽天カード]]）と stored-value 視点を分離する。
 
 ## 関連
 
-- [[payment-firms/rakuten-fg]]
-- [[card-issuers/rakuten-card]]
-- [[payments/cashless-jp-landscape]]
-- [[payments/funds-transfer-vs-prepaid-boundary]]
-- [[loyalty/japan-points-landscape]]
+- [[payment-firms/INDEX|payment-firms INDEX]]
+- [[payment-firms/rakuten-fg|Rakuten FG]]
+- [[card-issuers/rakuten-card|楽天カード]]
+- [[payments/funds-transfer-vs-prepaid-boundary|funds-transfer vs prepaid boundary]]
+- [[loyalty/japan-points-landscape|Japan points landscape]]
+- [[INDEX|FinWiki index]]
 
 ## 出典
 
-- Rakuten Edy 会社概要: https://edy.rakuten.co.jp/company/company.html?l-id=lid_top_footer_company
-- Rakuten Edy company information: https://edy.rakuten.co.jp/company/?l-id=footer_company
-- FSA資金移動業者一覧: https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf
+- 楽天Edy company overview: https://edy.rakuten.co.jp/company/company.html
+- 日本資金決済業協会: 楽天Edy 前払式支払手段データ: https://www.s-kessai.jp/cms/card-data/detail/84/
+- FSA: 前払式支払手段 policy portal: https://www.fsa.go.jp/policy/prepaid/
+
+> [!info] 校核状态
+> confidence: likely。第三者型前払式支払手段としての位置づけ（資金移動業ではない）・発行保証金供託義務は資金決済法の公開枠組み。具体的な未使用残高・供託額は公開数値で要確認、本ページでは扱わない。

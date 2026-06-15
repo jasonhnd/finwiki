@@ -1,31 +1,32 @@
 ---
 source: asset-managers/t-and-d-asset-management
-source_hash: 8925088f83834522
+source_hash: 14845a7c6faffece
 lang: ja
 status: machine
 fidelity: ok
 title: "T&Dアセットマネジメント (T&D AM)"
-translated_at: 2026-06-02T16:33:58.464Z
+translated_at: 2026-06-15T03:48:21.849Z
 ---
+
 # T&Dアセットマネジメント (T&D AM)
 
-## ウィキ上の位置づけ
+## Wiki 内の位置づけ
 
-この項目は [[asset-managers/INDEX|asset-managers INDEX]] 配下に置く。競合・比較対象の文脈は [[asset-managers/nissay-asset-management|ニッセイアセットマネジメント]]、FIEA ライセンス境界は [[financial-licenses/securities-license-stack|securities license stack]]、登録簿レイヤーは [[securities/financial-instruments-business-operators-japan-index|FSA 金商業者 index]] と照合して読む。
+本項目は [[asset-managers/INDEX|asset-managers INDEX]] の下に位置する。同類比較・対照の文脈については [[asset-managers/nissay-asset-management|ニッセイアセットマネジメント]]、FIEA ライセンス境界については [[financial-licenses/securities-license-stack|securities license stack]]、登録レイヤーについては [[securities/financial-instruments-business-operators-japan-index|FSA 金商業者 index]] と併読されたい。
 
-## 要約
+## TL;DR
 
-T&Dアセットマネジメント (T&D AM) は [[life-insurers/td-hd|T&D ホールディングス (8795)]] の資産運用事業会社。FSA 金融商品取引業者一覧では「T&Dアセットマネジメント株式会社」、関東財務局長(金商)第363号として掲載される。**第一生命 / 日本生命 / 明治安田生命 に次ぐ中堅生保 FG** の [[life-insurers/td-hd|T&D HD]] (太陽生命 + 大同生命 + T&D フィナンシャル生命) の運用機能を担い、グループ生保責任準備金運用 + 公募投信 + 年金運用を扱う。**中堅生保系運用会社カテゴリ**として、最大手 [[asset-managers/nissay-asset-management|ニッセイ AM]] や [[asset-managers/asset-management-one|アセマネOne]] (第一生命 + みずほ JV) を補完する位置付け。
+T&Dアセットマネジメント (T&D AM) は [[life-insurers/td-hd|T&D ホールディングス (8795)]] の asset-management operating company。FSA 金融商品取引業者一覧では「T&Dアセットマネジメント株式会社」、関東財務局長(金商)第363号として掲載される。**第一生命 / 日本生命 / 明治安田生命 に次ぐ中堅生保 FG** の [[life-insurers/td-hd|T&D HD]] (太陽生命 + 大同生命 + T&D フィナンシャル生命) の運用機能を担い、グループ生保責任準備金運用 + 公募投信 + 年金運用を扱う。**中堅生保系運用会社カテゴリ**として、最大手 [[asset-managers/nissay-asset-management|ニッセイ AM]] や [[asset-managers/asset-management-one|アセマネOne]] (第一生命 + みずほ JV) の補完的位置付け。
 
 ## 1. 法人・ライセンス境界
 
-| 項目 | 読み方 |
+| Item | Reading |
 |---|---|
-| 正式名 | T&Dアセットマネジメント株式会社 |
+| Legal name | T&Dアセットマネジメント株式会社 |
 | 英名 | T&D Asset Management Co., Ltd. |
-| FSA登録 | 関東財務局長(金商)第363号 |
-| FIEA範囲 | 第二種金融商品取引業、投資助言・代理業、投資運用業 |
-| 親会社境界 | [[life-insurers/td-hd|T&D ホールディングス]] (上場 8795) 100% の資産運用子会社 |
+| FSA registration | 関東財務局長(金商)第363号 |
+| FIEA scope | 第二種金融商品取引業、投資助言・代理業、投資運用業 |
+| Parent boundary | [[life-insurers/td-hd|T&D ホールディングス]] (上場 8795) 100% asset-management 子会社 |
 | 本社 | 東京都中央区日本橋 |
 
 ## 2. 事業上の役割
@@ -51,18 +52,18 @@ T&D ホールディングス (上場 8795)
 
 - [[life-insurers/td-hd|T&D HD]] 100% 子会社、3 生保 (太陽 / 大同 / T&D フィナンシャル) の運用機能を集約
 
-## 4. 独立ページとする理由
+## 4. 独立ページが重要な理由
 
-[[life-insurers/td-hd|T&D HD]] は 4 大生保 (日本生命 / 第一生命 / 住友生命 / 明治安田生命) に次ぐ中堅生保 FG だが、その運用機能を担う **T&D AM** は独立した分析単位として重要：
+[[life-insurers/td-hd|T&D HD]] は 4 大生保 (日本生命 / 第一生命 / 住友生命 / 明治安田生命) に次ぐ中堅生保 FG だが、その運用機能を担う **T&D AM** は独立分析単位として重要：
 
 1. **中堅生保系運用会社カテゴリ**：[[asset-managers/nissay-asset-management|ニッセイ AM]] (最大手) と [[asset-managers/asset-management-one|アセマネOne]] (みずほ + 第一生命 JV) の間を埋める位置付け
-2. **太陽生命 (シニア層特化) + 大同生命 (中小企業オーナー向け) + T&D フィナンシャル生命 (販売チャネル特化)** という 3 異質な生保グループの運用ニーズを統合
-3. **NISA 拡充 + 公募投信競争** における中堅生保系プレイヤー ([[securities/nisa-2024-flow|nisa-2024-flow]] 文脈)
-4. **上場親会社 (T&D HD)** であるため、資本市場開示義務下で運用パフォーマンスの透明性を持つ (相互会社系 [[life-insurers/nippon-life|日本生命]] / [[asset-managers/nissay-asset-management|ニッセイ AM]] とは異なる)
+2. **太陽生命 (シニア層特化) + 大同生命 (中小企業オーナー向け) + T&D フィナンシャル生命 (販売チャネル特化)** の 3 異質生保グループの運用ニーズを統合
+3. **NISA 拡充 + 公募投信競争** での中堅生保系プレイヤー ([[securities/nisa-2024-flow|nisa-2024-flow]] 文脈)
+4. **上場親会社 (T&D HD)** であるため、資本市場開示義務下の運用パフォーマンス透明性 (相互会社系 [[life-insurers/nippon-life|日本生命]] / [[asset-managers/nissay-asset-management|ニッセイ AM]] とは異なる)
 
-## 5. 競合・比較対象
+## 5. 競合・peer
 
-| 比較対象 | 系譜 | 差別化軸 |
+| Peer | 系譜 | 差別化軸 |
 |---|---|---|
 | [[asset-managers/nissay-asset-management|ニッセイ AM]] | [[life-insurers/nippon-life|日本生命]] 系 (相互会社) | 生保系運用会社の最大手 |
 | [[asset-managers/asset-management-one|アセマネOne]] | みずほ + 第一生命 JV | 銀行 + 生保 JV |

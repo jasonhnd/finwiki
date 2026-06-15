@@ -1,12 +1,11 @@
 ---
 source: corporate-strategy/japan-group-tsusan-consolidated-tax-regime
-source_hash: 680dfe0d59619ad5
+source_hash: e67e19b3f08e6b7f
 lang: en
-model: claude-opus-4-8
 status: machine
 fidelity: ok
 title: "グループ通算制度 (Japan group tax-sharing regime) — the 2022 successor to 連結納税, loss-offsetting in wholly-owned groups, and its interaction with restructuring"
-translated_at: 2026-06-05T00:00:00.000Z
+translated_at: 2026-06-15T03:48:21.933Z
 ---
 
 # グループ通算制度 (Japan group tax-sharing regime) — the 2022 successor to 連結納税, loss-offsetting in wholly-owned groups, and its interaction with restructuring

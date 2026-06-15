@@ -1,12 +1,13 @@
 ---
 source: non-life-insurers/hyundai-marine-fire-japan
-source_hash: b70049ba38a58126
+source_hash: 42bca127d29fb978
 lang: en
 status: machine
 fidelity: ok
-title: "Hyundai Marine & Fire Japan / Hyundai Marine & Fire Insurance"
-translated_at: 2026-05-31T15:29:03.934Z
+title: "Hyundai Marine & Fire Japan / 現代海上火災保険"
+translated_at: 2026-06-15T03:48:21.882Z
 ---
+
 # Hyundai Marine & Fire Japan / 現代海上火災保険
 
 Wiki route: [[non-life-insurers/INDEX]] -> [[insurance/INDEX]] -> [[non-life-insurers/hyundai-marine-fire-japan]]
@@ -30,7 +31,7 @@ This page covers the Japan non-life insurer row for 現代海上火災保険株�
 
 ## Public Context
 
-Hyundai Marine & Fire matters because Korea-Japan financial corridors are not only banking corridors. Insurance entities also sit in cross-border corporate, commercial, and personal risk markets.
+Hyundai Marine & Fire matters because Korea-Japan financial corridors are not only banking corridors. Insurance entities also sit in cross-border corporate, commercial, and personal risk markets. It shares the foreign-affiliated direct non-life cluster (外国損害保険会社等) with carriers such as [[non-life-insurers/chubb-insurance-japan|Chubb損害保険]], differing mainly in parent-country corridor.
 
 ## Research Checklist
 

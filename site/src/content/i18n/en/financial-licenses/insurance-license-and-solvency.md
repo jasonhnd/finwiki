@@ -1,12 +1,13 @@
 ---
 source: financial-licenses/insurance-license-and-solvency
-source_hash: d24fec4b17cee6d7
+source_hash: 7723f65c094783cb
 lang: en
 status: machine
 fidelity: ok
 title: "Japan insurance license and solvency route"
-translated_at: 2026-05-31T23:59:49.311Z
+translated_at: 2026-06-15T03:48:21.816Z
 ---
+
 # Japan insurance license and solvency route
 
 ## Overview
@@ -35,7 +36,7 @@ In Japan, a bank counter, online broker, retailer, telecom group, payment app, o
 
 The risk-bearing insurer has policyholder liabilities, underwriting risk, asset-liability management, claims payment, reserves, solvency-margin / ESR supervision, and product-approval / actuarial controls. A distributor may own the customer touchpoint and brand experience, but the legal contract and capital risk can still sit with another entity.
 
-The same balance-sheet / distribution split also appears in [[banking/japan-baas-operating-models|BaaS operating models]]. Embedded finance and embedded insurance can place the customer interface at a platform while the regulated balance sheet belongs to a bank or insurer. Public product mapping records the contracting entity, premium recipient, claims-bearing entity, license category, and solicitation entity where disclosed.
+The same balance-sheet / distribution split also appears in [[banking/japan-baas-operating-models|BaaS operating models]] and in the [[financial-licenses/payment-license-stack|Japan payment license stack]], where the instruction / distribution layer is separated from the regulated balance-sheet holder. Embedded finance and embedded insurance can place the customer interface at a platform while the regulated balance sheet belongs to a bank or insurer. Public product mapping records the contracting entity, premium recipient, claims-bearing entity, license category, and solicitation entity where disclosed.
 
 ## Solvency Route
 
