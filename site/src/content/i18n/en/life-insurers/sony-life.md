@@ -1,6 +1,6 @@
 ---
 source: life-insurers/sony-life
-source_hash: 68e0df74f64ad7ed
+source_hash: 43021b2f0b4cab1a
 lang: en
 status: machine
 fidelity: ok
@@ -29,7 +29,7 @@ Sony Life Insurance Co., Ltd. is the core life-insurance operating company of [[
 
 ## 2. Operating model
 
-Sony Life strongly emphasizes consultative / planner-led life-insurance distribution. In JapanFG, it is kept separate from [[megabanks/sony-fg]] so that the [[regional-banks/sony-bank]] internet-bank model, Sony group financial reorganization, and the insurance / banking / non-life cross-sell surface can be tracked separately.
+Sony Life strongly emphasizes consultative / planner-led life-insurance distribution. In JapanFG, it is kept separate from [[megabanks/sony-fg]] so that the [[banking/sony-bank]] internet-bank model, Sony group financial reorganization, and the insurance / banking / non-life cross-sell surface can be tracked separately.
 
 Its positioning becomes clearer when compared with traditional mutual insurers, the stock-company insurer model of [[life-insurers/dai-ichi-life]], the online-direct model of [[life-insurers/lifenet]], and the ecosystem model of [[life-insurers/rakuten-life]].
 
@@ -42,7 +42,7 @@ Its positioning becomes clearer when compared with traditional mutual insurers, 
 ## Related
 
 - [[megabanks/sony-fg]]
-- [[regional-banks/sony-bank]]
+- [[banking/sony-bank]]
 - [[life-insurers/lifenet]]
 - [[life-insurers/rakuten-life]]
 - [[insurance/life-insurance-channel-mix]]
