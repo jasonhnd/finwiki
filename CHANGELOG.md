@@ -31,6 +31,18 @@
 
 ## 2026-06-08 (In progress)
 
+### Phase E1 dedup task packet — v12 double-batch read-only review (#15) / Scope v12 double-batch dedup packet / 圈定 v12 双批去重任务包
+
+#### 日本語記録 / English / 中文
+
+- **JST 時刻**: 2026-06-15 JST。
+- **背景**: [Issue #15](https://github.com/jasonhnd/finwiki/issues/15)(#8 の planning child)。Phase E1 の v12 double-batch 重複解消に着手する前に、読み取り専用レビューで file-scoped タスクパケットを作成。5 候補ドメイン(`loyalty`, `money-market`, `business`, `corporate-strategy`, `manufacturer-finance`、約 90 ページ)を 5 並列サブエージェントで分析。
+- **結論**: **真の merge は 3 件のみ** — money-market `japan-uncollateralized-vs-collateralized-call-market`→`call-market-structure`、loyalty `loyalty-liability-customer-funded-float`→`point-program-unit-economics`、corporate-strategy `partial-spinoff-tax-deferral`→`japan-kabushiki-bunpai-spinoff-regime`。加えて editorial trim 1 件(business `founder-pivot-outcome-template-matrix` の CZ 節)。残りは全て complementary hub-and-spoke(overview/matrix/mechanism/entity)で keep。各 merge に canonical・preserve すべき facts・更新すべき inbound wikilink 一覧を明記。
+- **範囲(planning のみ・wiki 本文不変)**: `docs/01-strategy/next-development-plan.md`(E1 をパケットに差し替え)、`CHANGELOG.md`。実装 handoff は #8 にコメント。
+- **検証**: `wiki_link_audit --fail-on-issues` dead=0(baseline)、`docs:audit` / `docs:stale` clean、`git diff --check` clean。wiki entry body は一切変更なし。
+- **EN**: #15 (planning child of #8). Read-only review producing a file-scoped dedup task packet before any v12 double-batch corpus edits. Five candidate domains (~90 pages) analyzed by 5 parallel sub-agents. Result: **only 3 true merges** (one each in money-market / loyalty / corporate-strategy) + 1 editorial trim (business `founder-pivot-outcome-template-matrix` CZ section); everything else is complementary hub-and-spoke and kept. Each merge records canonical, facts-to-preserve, and the inbound wikilinks to update. Planning-only: `next-development-plan.md` E1 replaced with the packet, `CHANGELOG.md`; implementation handoff posted to #8. Verified: `wiki_link_audit --fail-on-issues` dead=0, `docs:audit`/`docs:stale` clean, `git diff --check` clean; no wiki body changed.
+- **中文**: #15(#8 的规划子任务)。在改动 v12 双批语料前做只读审查,产出文件级去重任务包。5 个候选域(约 90 页)用 5 个并行子代理分析。结论:**真正要合并的只有 3 处**(money-market / loyalty / corporate-strategy 各 1)+ 1 处编辑裁剪(business `founder-pivot-outcome-template-matrix` 的 CZ 节);其余均为互补 hub-and-spoke,保留。每个合并都列出 canonical、需保留的事实、需更新的 inbound wikilink。仅规划、不改 wiki 正文:`next-development-plan.md` E1 换成任务包、`CHANGELOG.md`;实现交接发到 #8。已验证:`wiki_link_audit --fail-on-issues` dead=0、`docs:audit`/`docs:stale` clean、`git diff --check` clean;未改任何 wiki 正文。
+
 ### i18n Batch C-1 — link-only stale mirror の source_hash 再同期 + classifier (#21 進行中) / Re-sync content-current link-only mirrors / 重新同步 link-only 陈旧镜像
 
 #### 日本語記録 / English / 中文

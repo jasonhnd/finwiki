@@ -1,6 +1,6 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-06-15T13:22:23+09:00",
+  "generated_at": "2026-06-15T21:46:42+09:00",
   "counts": {
     "markdown_files": 1566,
     "public_markdown_pages": 1565,
@@ -9,8 +9,8 @@
     "link_audited_entries": 1485,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 11078235,
-    "word_like_tokens": 1787237,
+    "nonspace_utf8_chars": 11080512,
+    "word_like_tokens": 1787634,
     "entity_anchors": 12,
     "entity_mirror_pages": 12
   },
@@ -607,10 +607,10 @@
         "English",
         "中文",
         "2026-06-08 (In progress)",
+        "Phase E1 dedup task packet — v12 double-batch read-only review (#15) / Scope v12 double-batch dedup packet / 圈定 v12 双批去重任务包",
         "i18n Batch C-1 — link-only stale mirror の source_hash 再同期 + classifier (#21 進行中) / Re-sync content-current link-only mirrors / 重新同步 link-only 陈旧镜像",
         "i18n Batch C-2a — link-only mirror の確定的 wikilink リターゲット (#21 進行中) / Deterministic wikilink retarget for link-only mirrors / link-only 镜像的确定性 wikilink 重映射",
-        "i18n Batch C-2b — prose_changed / unknown / ambiguous の opus subagent 全量重訳 (#21 進行中) / Full opus-subagent retranslation of prose-drifted mirrors / opus subagent 全量重译正文漂移镜像",
-        "i18n Batch B — cooperative-banks 3 件を翻訳 + en needsreview を解消 (#20) / Translate 3 missing cooperative-banks mirrors + clear 1 en needsreview / 翻译 3 个缺失 cooperative-banks 镜像 + 清除 1 条 en needs_review"
+        "i18n Batch C-2b — prose_changed / unknown / ambiguous の opus subagent 全量重訳 (#21 進行中) / Full opus-subagent retranslation of prose-drifted mirrors / opus subagent 全量重译正文漂移镜像"
       ],
       "wikilinks": [
         "...",
@@ -854,6 +854,7 @@
         "https://github.com/jasonhnd/finwiki/issues/11",
         "https://github.com/jasonhnd/finwiki/issues/12",
         "https://github.com/jasonhnd/finwiki/issues/14",
+        "https://github.com/jasonhnd/finwiki/issues/15",
         "https://github.com/jasonhnd/finwiki/issues/18",
         "https://github.com/jasonhnd/finwiki/issues/19",
         "https://github.com/jasonhnd/finwiki/issues/2",
@@ -866,8 +867,8 @@
         "https://github.com/jasonhnd/finwiki/issues/7",
         "path"
       ],
-      "nonspace_chars": 599438,
-      "word_like_tokens": 107110,
+      "nonspace_chars": 601715,
+      "word_like_tokens": 107507,
       "last_modified": "2026-06-15"
     },
     {
