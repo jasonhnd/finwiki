@@ -184,18 +184,34 @@ Priority domains reviewed: `loyalty`, `money-market`; secondary: `business`, `co
 
 ### E2. Selective Small-Domain Expansion
 
-Candidate domains:
+> **Shortlist accepted 2026-06-15 (Issue #16).** Read-only review of the six candidate domains against their INDEX backlogs and current coverage, biased against volume growth (Planning Principle). Result: **1 recommended page + targeted deferrals**; most candidate domains are at healthy coverage. Implementation tracked by **#9**. No corpus entry was created by the planning pass.
 
-- `security`
-- `retail`
-- `consumer-finance`
-- `financial-licenses`
-- `trading-company-finance`
-- `financial-conglomerates`
+Candidate domains reviewed: `security`, `retail`, `consumer-finance`, `financial-licenses`, `trading-company-finance`, `financial-conglomerates`.
 
-Rule:
+Rule (unchanged): add pages only after a public-source gap is identified and the route cannot be served by an existing page.
 
-- Add pages only after a public-source gap is identified and the route cannot be served by an existing page.
+#### Recommended now (1)
+
+| Route | Domain | Rationale | Public-source basis | Why an existing page can't cover |
+|---|---|---|---|---|
+| `financial-licenses/japan-trust-business-license-stack` | financial-licenses | The domain holds horizontal license-**stack** pages for bank, securities, payment, and insurance, but **not trust** — trust is only a Core-License-Matrix row routing to entity pages. A trust-business license-stack page (信託業法: 運用型 / 管理型 信託会社, 信託兼営金融機関, 信託契約代理業, custody / master-trust functions, 特定信託) completes the parallel set. | 信託業法 (e-Gov 法令検索); FSA 信託会社 / 信託兼営金融機関 lists (fsa.go.jp/menkyo) | `trust-banks/*` (SMTH, Custody Bank, Master Trust Bank) are ENTITY pages; `financial-licenses/foreign-financial-group-adjacent-licenses` covers only the foreign-group trust slice. No horizontal Japanese trust-**license** page exists like the other four stacks. |
+
+#### Deferred — do not create now
+
+- `security/timelock-governance-pattern`, `security/non-evm-bytecode-forensics` — the only maintainer-noted future directions (security INDEX). Niche crypto-forensics, tangential to the Japan-finance core; revisit only on a concrete public-source trigger.
+- `financial-licenses/lending-installment-credit-license-stack` (貸金業法 + 割賦販売法 horizontal stack) — already partially served by `card-issuers/installment-sales-act-2020-amendment` and the `consumer-finance` INDEX regulation notes; create only if those prove insufficient for a real route.
+
+#### No expansion now — at healthy coverage (documented per acceptance)
+
+- `consumer-finance`: the 3 大消費者金融 (Acom / MUFG-affiliated, Promise / SMFG, Aiful / independent) + レイク (Shinsei Financial / SBI) are covered; no remaining major 貸金業 operator has an uncovered bank/megabank/card group relationship under the domain's strict expansion rule.
+- `retail`: INDEX Expansion Backlog is fully "Done" (Wave 6 wedge/economic-sphere matrices + the CVS-finance comparison shipped).
+- `trading-company-finance` and `financial-conglomerates`: both cover all seven sōgō-shōsha (Mitsubishi, Mitsui, Itochu, Sumitomo, Marubeni, Sojitz, Toyota Tsusho) as entity + finance-arm pairs — complete.
+
+#### Implementation scope for #9 (content agent)
+
+- **Allowed files**: `financial-licenses/japan-trust-business-license-stack.md` (new entry, use the financial-licenses INDEX Expansion Template), `financial-licenses/INDEX.md` (add to Domain Members + the Active Expansion Backlog row), README / CHANGELOG / `releases/**` / generated surfaces if counts change; optionally the new page's `site/src/content/i18n/{ja,zh,en}/...` mirrors via the i18n pipeline.
+- **Source-of-truth**: follow the financial-licenses INDEX "Source-of-Truth Checklist" (FSA lists → law / guideline → e-Gov text → entity disclosure → negative-finding discipline). No legal advice; promote to `confidence: likely` only when source-verified.
+- **Validation**: `bun tools/release.ts --write` then `bun tools/release.ts --check --strict`; `bun tools/wiki_link_audit.ts --fail-on-issues` (dead=0); `git diff --check`.
 
 ## Recommended Sequence
 
