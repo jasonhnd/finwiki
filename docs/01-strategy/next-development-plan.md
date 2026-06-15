@@ -146,23 +146,41 @@ Goal: resume content work only after the tooling/control gaps above are closed.
 
 ### E1. Deduplicate v12 Double-Batch Topics
 
-Priority domains:
+> **Task packet accepted 2026-06-15 (Issue #15).** A read-only review of all five candidate domains (~90 pages) found **3 true merges + 1 editorial trim**; everything else is complementary hub-and-spoke (overview / matrix / mechanism / entity by design) and must be kept. No wiki body was changed by the planning pass. Implementation is tracked by **#8** under the file scope below. Baseline before work: `wiki_link_audit` dead=0, canonical_drift=0.
 
-- `loyalty`
-- `money-market`
-- secondary review: `business`, `corporate-strategy`, `manufacturer-finance`
+Priority domains reviewed: `loyalty`, `money-market`; secondary: `business`, `corporate-strategy`, `manufacturer-finance`.
 
-Approach:
+#### Accepted merge actions (3)
 
-- Compare topic intent, source base and wikilink role.
-- Merge only true near-duplicates.
-- Preserve distinct benchmark, mechanism and case pages if they serve different routes.
+| # | Merge (source → canonical) | Inbound links to update (source files; ×3 i18n mirrors each) | Facts to preserve in canonical |
+|---|---|---|---|
+| 1 | `money-market/japan-uncollateralized-vs-collateralized-call-market` → `money-market/call-market-structure` | 5: `money-market/INDEX`, `japan-money-market-benchmark-reform-tona`, `japan-repo-transaction-structures-gensaki-cash-collateralized-securities-lending`, `japan-tibor-benchmark-rate`, `japan-torf-term-risk-free-rate` | segment-comparison table; "collateralized call rate not calculated since 2016-04 (no tanshi-intermediated trades)"; "repo absorbed secured funding" reasoning; relationship-to-other-front-end-markets table; reading checklist. Keep `call-market-structure` canonical (24 inbound files); carry over the 無担保/有担保コール aliases. |
+| 2 | `loyalty/loyalty-liability-customer-funded-float` → `loyalty/point-program-unit-economics` | 1: `loyalty/INDEX` | float-instrument 4-property table; the explicit "float ≠ breakage" framing; loyalty-point vs prepaid-stored-value contrast table; the 4-risk table; "why financial groups want this balance" (Rakuten FG / NDFG / PayPay FG). Drop breakage prose already in `point-liability-accounting-boundary`. |
+| 3 | `corporate-strategy/partial-spinoff-tax-deferral` → `corporate-strategy/japan-kabushiki-bunpai-spinoff-regime` | ~17: `corporate-strategy/INDEX` + 5 cs pages (`japan-kabushiki-bunpai-spinoff-regime`, `japan-kaisha-bunkatsu-tax-regime`, `spinoff-decision-tree-japan`, `kabushiki-koufu-stock-distribution-regime`, `toshiba-tob-squeeze-out-2023-2024-case`); 7 business pages (`sony-fg-partial-spinoff-case`, `japan-listed-corp-strategic-restructuring-matrix`, `softbank-vision-fund-arm-ipo-template`, `rakuten-group-mobile-finance-bundling-case`, `ntt-docomo-d-point-telco-finance-case`, `seven-bank-atm-platform-deconsolidation-case`, `kddi-au-financial-bundling-case`); 3 finance pages; `manufacturer-finance/sony-group-finance-arm` | パーシャルスピンオフ制度構造 table; 5-step transaction-flow; METI 2024-02-14 Sony 産業競争力強化法 認定 citation; 2024 税制改正 deadline-extension note; METI スピンオフ手引き 2025-07 revision note. Route Sony FG transaction detail to `business/sony-fg-partial-spinoff-case`. High inbound cost — keep the old slug as an alias unless every inbound link is updated. |
 
-Acceptance:
+#### Editorial trims (NO file merge)
 
-- No dead links after merges.
-- Redirects are not available, so merges must update inbound wikilinks.
-- README/CHANGELOG/release note record any public URL removals.
+- `business/founder-pivot-outcome-template-matrix`: trim the embedded CZ section to a summary + link to `business/cz-binance-founder-handoff-case` (the matrix currently restates a near-full case, unlike its other rows).
+- `loyalty/au-pay-loyalty-ecosystem-deep` and `loyalty/ponta-points-deep-dive`: slim the repeated Ponta-origin / Lawson-triangle narrative to a summary + forward-ref to the canonical Ponta page; keep both pages.
+- `loyalty/d-point-detailed-ecosystem` ↔ `d-point-au-kddi-docomo-telco-point-consolidation` and `v-point-smbc-ccc-case` ↔ `t-point-v-point-post-2024-merger`: keep both in each pair (operator deep-dive vs comparison/case); de-duplicate only the repeated coalition/accrual tables.
+
+#### Keep as-is — complementary, do NOT merge
+
+- **money-market**: `japan-money-market` (overview) + `japan-short-term-funding-instrument-matrix` (matrix) + per-instrument pages (cp / ncd / tbill / mmf) are intentional hub-and-spoke; TONA / TIBOR / TORF are distinct benchmarks; the three BOJ pages are distinct functions; `japan-repo-transaction-structures-...` (legal forms) vs `jgb-repo-market-japan` (market) are distinct.
+- **business**: founder templates ↔ `founder-pivot-outcome-template-matrix` (hub-spoke); the 4 telco-finance cases are a designed contrast set; restructuring matrix ↔ individual cases.
+- **manufacturer-finance**: Toyota (`toyota-motor` / `toyota-financial-services` / `business/...captive-finance-case`) is a 3-altitude set; Sony similar; mechanism pages vs per-company captive pages are hub-spoke. The `canonical_anchor` frontmatter already governs the cross-domain entity pairs (`leasing-firms/toyota-financial`, `megabanks/sony-fg`). Separate flag: `manufacturer-finance/seiko-epson` is a thin stub — a content-depth issue, not a dedup one.
+- **corporate-strategy**: the remaining regime pages (`japan-gappei-merger-regime`, `japan-kaisha-bunkatsu-tax-regime`, `japan-kabushiki-koukan-iten-regime`, `kabushiki-koufu-stock-distribution-regime`, `japan-group-tsusan-consolidated-tax-regime`, `japan-business-succession-jigyou-shoukei`, `japan-holding-company-conversion`, `spinoff-decision-tree-japan`) each cover a distinct legal mechanism. (The suspected `japan-kabushiki-koufu-...` duplicate does not exist.)
+
+#### Cross-domain (keep both; just verify cross-links exist)
+
+- loyalty ecosystem pages ↔ `business/` telco-finance cases (d-point / rakuten / kddi / paypay): point-economics lens vs corporate-architecture lens.
+- `business/japan-listed-corp-strategic-restructuring-matrix` ↔ `securities/japan-tob-mbo-large-deal-2023-2026-case-matrix`: shared anchors (Toshiba, Arm) but different axes — keep the scope-boundary prose explicit.
+
+#### Implementation scope for #8 (content agent)
+
+- **Allowed files**: only the named pairs in the three merges — the 3 source pages, their 3 canonicals, and the inbound-linker files listed above — plus those slugs' mirrors under `site/src/content/i18n/{ja,zh,en}/**`; README / CHANGELOG / `releases/**` / generated surfaces if public counts or URLs change. Do not touch unrelated entries or do broad formatting cleanup.
+- **Per merge**: copy the facts-to-preserve into the canonical page, update every inbound `[[domain/<old-slug>]]` → `[[domain/<canonical>]]`, then either delete the source page (records a public-URL removal) or keep it as an alias-only stub. Delete the 3 merged slugs' i18n mirrors if the page is removed.
+- **Validation**: `bun tools/release.ts --write` then `bun tools/release.ts --check --strict`; `bun tools/wiki_link_audit.ts --fail-on-issues` (dead must stay 0); `bun run i18n:status` after any mirror deletes; `git diff --check`. README/CHANGELOG/release note must record any public URL removals (up to 3 slugs).
 
 ### E2. Selective Small-Domain Expansion
 

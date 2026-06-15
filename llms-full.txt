@@ -1,6 +1,6 @@
 # FinWiki Full LLM Manifest
 
-Generated: 2026-06-15T13:22:23+09:00
+Generated: 2026-06-15T21:46:42+09:00
 Site: https://finwiki.zksc.io
 Markdown files: 1566
 Public pages listed: 1565
@@ -28,7 +28,7 @@ Public pages listed: 1565
 - Domain: root
 - Type: control_doc
 - Summary: 1. matt-huang-triple-role-coi-template — Stripe 取締役就任「2024」→ 2021-11(Stripe newsroom: 2021年11月5日)。 2. christine-moy-talent-signal-jpm-apollo — Apollo 移籍「2024」→ 2022-04(CoinDesk 2022-04-28 / Apollo 公式)。併せて整合しない「回収サイクル 6-18ヶ月」を「数年規模」へ修正。 3. jamie-dimon-anti-crypto-pivot-case — 「2022 ペットロック」を分離・修正:2022
-- Headings: CHANGELOG, 運用原則 / Maintenance Principles / 维护原则, 日本語, English, 中文, 2026-06-08 (In progress), i18n Batch C-1 — link-only stale mirror の source_hash 再同期 + classifier (#21 進行中) / Re-sync content-current link-only mirrors / 重新同步 link-only 陈旧镜像, i18n Batch C-2a — link-only mirror の確定的 wikilink リターゲット (#21 進行中) / Deterministic wikilink retarget for link-only mirrors / link-only 镜像的确定性 wikilink 重映射
+- Headings: CHANGELOG, 運用原則 / Maintenance Principles / 维护原则, 日本語, English, 中文, 2026-06-08 (In progress), Phase E1 dedup task packet — v12 double-batch read-only review (#15) / Scope v12 double-batch dedup packet / 圈定 v12 双批去重任务包, i18n Batch C-1 — link-only stale mirror の source_hash 再同期 + classifier (#21 進行中) / Re-sync content-current link-only mirrors / 重新同步 link-only 陈旧镜像
 - First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX, https://finwiki.zksc.io/asset-managers/mitsubishi-corp-asset-management, https://finwiki.zksc.io/asset-managers/nissay-asset-management, https://finwiki.zksc.io/asset-managers/principal-japan, https://finwiki.zksc.io/asset-managers/smt-am, https://finwiki.zksc.io/asset-managers/t-and-d-asset-management, https://finwiki.zksc.io/asset-managers/tokio-marine-asset-management, https://finwiki.zksc.io/banking/japan-banking-license-tier-comparison-matrix, https://finwiki.zksc.io/banking/japan-trust-bank-vs-global-custodian-comparison-matrix, https://finwiki.zksc.io/cooperative-banks/asahi-shinkin, https://finwiki.zksc.io/cooperative-banks/hamamatsu-iwata-shinkin, https://finwiki.zksc.io/cooperative-banks/ja-mitsui-leasing
 
 ### How to navigate FinWiki — reader profile guide
