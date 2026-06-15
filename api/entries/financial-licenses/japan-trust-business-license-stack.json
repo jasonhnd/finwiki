@@ -1,0 +1,104 @@
+{
+  "schema_version": "1.0",
+  "slug": "financial-licenses/japan-trust-business-license-stack",
+  "source_path": "financial-licenses/japan-trust-business-license-stack.md",
+  "url": "https://finwiki.zksc.io/financial-licenses/japan-trust-business-license-stack",
+  "github_url": "https://github.com/jasonhnd/finwiki/blob/main/financial-licenses/japan-trust-business-license-stack.md",
+  "raw_markdown_url": "https://raw.githubusercontent.com/jasonhnd/finwiki/main/financial-licenses/japan-trust-business-license-stack.md",
+  "domain": "financial-licenses",
+  "title": "Japan trust business license stack",
+  "entry_type": "wiki_entry",
+  "frontmatter": {
+    "title": "Japan trust business license stack",
+    "aliases": [
+      "japan-trust-business-license-stack",
+      "trust-business-license-stack",
+      "Japan trust license stack",
+      "信託業 license stack",
+      "信託業法 免許 登録 兼営",
+      "運用型 管理型 信託会社 boundary"
+    ],
+    "domain": "financial-licenses",
+    "created": "2026-06-15",
+    "last_updated": "2026-06-15",
+    "last_tended": "2026-06-15",
+    "review_by": "2026-12-15",
+    "confidence": "likely",
+    "tags": [
+      "JapanFG",
+      "trust",
+      "shintaku",
+      "financial-license",
+      "trust-bank",
+      "FIEA"
+    ],
+    "status": "active",
+    "sources": [
+      "https://www.fsa.go.jp/policy/shintaku/index.html",
+      "https://www.fsa.go.jp/common/law/guide/shintaku.pdf",
+      "https://www.fsa.go.jp/common/law/guide/shintaku/01.html",
+      "https://www.fsa.go.jp/common/law/guide/shintaku/05.html",
+      "https://www.fsa.go.jp/common/law/guide/shintaku/11.html",
+      "https://www.fsa.go.jp/menkyo/menkyo.html",
+      "https://www.shintaku-kyokai.or.jp/trust/more/law.html",
+      "https://lfb.mof.go.jp/kantou/kinyuu/pagekthp00400063.html",
+      "https://elaws.e-gov.go.jp/"
+    ]
+  },
+  "summary": "Japanese trust activity is not controlled by one generic \"trust license.\" The practical stack is assembled from three statutes and several registration routes: the Trust Act (信託法) sets the private-law relationship; the Trust Business Act (信託業法, Act No. 154 of 2004) governs who may act as a trustee a",
+  "headings": [
+    "Japan trust business license stack",
+    "Overview",
+    "The three-statute foundation",
+    "Regime Map",
+    "The operating-type vs management-type split",
+    "Source-of-Truth Stack",
+    "Practical Decision Tree",
+    "JapanFG Relevance",
+    "Boundary Cases",
+    "Research Checklist"
+  ],
+  "body_links": {
+    "wikilinks_count": 14,
+    "wikilinks": [
+      "INDEX",
+      "financial-licenses/INDEX",
+      "financial-licenses/bank-license-and-baas-boundary",
+      "financial-licenses/insurance-license-and-solvency",
+      "financial-licenses/payment-license-stack",
+      "financial-licenses/securities-license-stack",
+      "financial-regulators/INDEX",
+      "megabanks/mizuho-fg",
+      "megabanks/mufg",
+      "megabanks/smfg",
+      "securities/INDEX",
+      "trust-banks/custody-bank",
+      "trust-banks/master-trust-bank",
+      "trust-banks/sumitomo-mitsui-trust"
+    ],
+    "resolved_wikilinks": [
+      "https://finwiki.zksc.io/INDEX",
+      "https://finwiki.zksc.io/financial-licenses/INDEX",
+      "https://finwiki.zksc.io/financial-licenses/bank-license-and-baas-boundary",
+      "https://finwiki.zksc.io/financial-licenses/insurance-license-and-solvency",
+      "https://finwiki.zksc.io/financial-licenses/payment-license-stack",
+      "https://finwiki.zksc.io/financial-licenses/securities-license-stack",
+      "https://finwiki.zksc.io/financial-regulators/INDEX",
+      "https://finwiki.zksc.io/megabanks/mizuho-fg",
+      "https://finwiki.zksc.io/megabanks/mufg",
+      "https://finwiki.zksc.io/megabanks/smfg",
+      "https://finwiki.zksc.io/securities/INDEX",
+      "https://finwiki.zksc.io/trust-banks/custody-bank",
+      "https://finwiki.zksc.io/trust-banks/master-trust-bank",
+      "https://finwiki.zksc.io/trust-banks/sumitomo-mitsui-trust"
+    ],
+    "external_links_count": 0,
+    "external_links": []
+  },
+  "metrics": {
+    "nonspace_chars": 10484,
+    "word_like_tokens": 1735,
+    "inbound_wikilinks_count": 1,
+    "last_modified": "2026-06-15"
+  }
+}

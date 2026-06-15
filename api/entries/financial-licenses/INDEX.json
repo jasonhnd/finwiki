@@ -64,7 +64,7 @@
     "Source-of-Truth Checklist"
   ],
   "body_links": {
-    "wikilinks_count": 94,
+    "wikilinks_count": 95,
     "wikilinks": [
       "INDEX",
       "JapanFG/INDEX",
@@ -90,6 +90,7 @@
       "financial-licenses/foreign-bank-branch-license-route",
       "financial-licenses/foreign-financial-group-adjacent-licenses",
       "financial-licenses/insurance-license-and-solvency",
+      "financial-licenses/japan-trust-business-license-stack",
       "financial-licenses/payment-license-stack",
       "financial-licenses/securities-license-stack",
       "financial-regulators/INDEX",
@@ -144,8 +145,7 @@
       "payments/account-to-account-payment-japan",
       "payments/cashless-jp-landscape",
       "payments/japan-bank-api-payment-agency-route",
-      "payments/merchant-bank-pay-account-direct-acquiring",
-      "policy-finance/INDEX"
+      "payments/merchant-bank-pay-account-direct-acquiring"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX",
@@ -172,6 +172,7 @@
       "https://finwiki.zksc.io/financial-licenses/foreign-bank-branch-license-route",
       "https://finwiki.zksc.io/financial-licenses/foreign-financial-group-adjacent-licenses",
       "https://finwiki.zksc.io/financial-licenses/insurance-license-and-solvency",
+      "https://finwiki.zksc.io/financial-licenses/japan-trust-business-license-stack",
       "https://finwiki.zksc.io/financial-licenses/payment-license-stack",
       "https://finwiki.zksc.io/financial-licenses/securities-license-stack",
       "https://finwiki.zksc.io/financial-regulators/INDEX",
@@ -226,16 +227,15 @@
       "https://finwiki.zksc.io/payments/account-to-account-payment-japan",
       "https://finwiki.zksc.io/payments/cashless-jp-landscape",
       "https://finwiki.zksc.io/payments/japan-bank-api-payment-agency-route",
-      "https://finwiki.zksc.io/payments/merchant-bank-pay-account-direct-acquiring",
-      "https://finwiki.zksc.io/policy-finance/INDEX"
+      "https://finwiki.zksc.io/payments/merchant-bank-pay-account-direct-acquiring"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 25825,
-    "word_like_tokens": 3696,
-    "inbound_wikilinks_count": 125,
-    "last_modified": "2026-06-04"
+    "nonspace_chars": 26382,
+    "word_like_tokens": 3783,
+    "inbound_wikilinks_count": 126,
+    "last_modified": "2026-06-15"
   }
 }

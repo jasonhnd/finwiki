@@ -38,7 +38,7 @@ sources:
 
 ## Scope
 
-`financial-licenses/` is the standalone top-level domain for Japan's **law, regulation, and financial-license stack**. It routes the cross-cutting legal layer: bank licenses, securities / FIEA registration, insurance regulation, funds transfer / prepaid / electronic-payment-agency registration, crypto-asset exchange registration, stablecoin / EPI regimes, lending / installment-sales law, and policy-finance special statutes. It holds **7 thematic license-stack member pages**, listed under [Domain Members](#domain-members).
+`financial-licenses/` is the standalone top-level domain for Japan's **law, regulation, and financial-license stack**. It routes the cross-cutting legal layer: bank licenses, securities / FIEA registration, insurance regulation, funds transfer / prepaid / electronic-payment-agency registration, crypto-asset exchange registration, stablecoin / EPI regimes, lending / installment-sales law, and policy-finance special statutes. It holds **8 thematic license-stack member pages**, listed under [Domain Members](#domain-members).
 
 Use this domain when the question is **"what license / legal regime makes this financial activity possible?"** rather than **"which company is this?"**
 
@@ -52,7 +52,7 @@ This is a navigation and research-control page, not legal advice. Any actual lic
 
 ## Domain Members
 
-The seven thematic license-stack pages that physically live in this domain:
+The eight thematic license-stack pages that physically live in this domain:
 
 - [[financial-licenses/bank-license-and-baas-boundary|Japan bank license and BaaS boundary]] — Banking Act bank license, bank agency, electronic payment agency / handling, and BaaS deposit-claim boundary.
 - [[financial-licenses/payment-license-stack|Japan payment license stack]] — funds transfer, prepaid, electronic payment agency, EPI transaction, electronic payment handling, credit / card, and account-direct payment routes.
@@ -61,6 +61,7 @@ The seven thematic license-stack pages that physically live in this domain:
 - [[financial-licenses/foreign-bank-branch-license-route|Japan foreign-bank branch license route]] — foreign bank branch / representative-office / subsidiary / securities route split.
 - [[financial-licenses/foreign-bank-agency-business-route|Japan foreign bank agency business route]] — foreign bank agency-bank route, principal foreign bank, and cross-border service boundary.
 - [[financial-licenses/foreign-financial-group-adjacent-licenses|Foreign financial group adjacent licenses in Japan]] — foreign group bank / securities / custody / trust / payment stack route.
+- [[financial-licenses/japan-trust-business-license-stack|Japan trust business license stack]] — Trust Business Act operating-type (免許) vs management-type (登録) trust companies, 兼営法 trust banks, trust contract agency, and the FIEA beneficiary-right boundary.
 
 ## Route Map
 
@@ -82,7 +83,7 @@ The seven thematic license-stack pages that physically live in this domain:
 |---|---|---|---|---|
 | Taking deposits / lending as a bank | Bank license; bank holding company approval where applicable | Banking Act; FSA bank / bank holding company lists; [[financial-licenses/bank-license-and-baas-boundary|bank license and BaaS boundary]] | [[megabanks/mufg|MUFG]], [[megabanks/smfg|SMFG]], [[megabanks/mizuho-fg|Mizuho]], [[regional-banks/seven-bank|Seven Bank]], [[banking/rakuten-bank|Rakuten Bank]] | FSA "銀行" / "銀行持株会社" lists |
 | Foreign bank branch / agency | Foreign bank branch license; foreign bank agency bank route | Banking Act; FSA foreign-bank branch and foreign-bank agency lists; FSA monitoring report | [[foreign-financial-institutions/jpmorgan-japan|JPMorgan Japan]], [[foreign-financial-institutions/hsbc-japan|HSBC Japan]], [[foreign-financial-institutions/bny-mellon-japan|BNY Mellon Japan]], [[foreign-financial-institutions/state-street-japan|State Street Japan]] | [[financial-licenses/foreign-bank-branch-license-route|foreign-bank branch route]], [[financial-licenses/foreign-bank-agency-business-route|foreign bank agency route]] |
-| Trust banking / custody trust | Trust bank / trust business / trust-company route | Trust Business Act; trust-bank lists; FSA trust-company lists | [[trust-banks/sumitomo-mitsui-trust|SMTH]], [[trust-banks/custody-bank|Custody Bank]], [[trust-banks/master-trust-bank|Master Trust Bank]] | FSA "信託兼営金融機関" / "信託会社" lists |
+| Trust banking / custody trust | Trust bank / trust business / trust-company route | Trust Business Act; 兼営法; [[financial-licenses/japan-trust-business-license-stack|Japan trust business license stack]] | [[trust-banks/sumitomo-mitsui-trust|SMTH]], [[trust-banks/custody-bank|Custody Bank]], [[trust-banks/master-trust-bank|Master Trust Bank]] | FSA "信託兼営金融機関" / "信託会社" lists |
 | Securities brokerage / underwriting | Type I Financial Instruments Business Operator; registered financial institution where bank does securities business | Financial Instruments and Exchange Act; JSDA rules | [[securities-firms/nomura-hd|Nomura]], [[securities-firms/daiwa-sg|Daiwa]], [[securities-firms/smbc-nikko|SMBC Nikko]], [[securities-firms/mizuho-securities|Mizuho Securities]] | FSA "金融商品取引業者" / "登録金融機関" lists; [[financial-regulators/jsda|JSDA]] |
 | Asset management / investment advisory | Investment management / investment advisory and agency business | FIEA; FSA FIBO list | [[securities-firms/nomura-hd|Nomura]], [[megabanks/mufg|MUFG]], [[megabanks/mizuho-fg|Mizuho]] asset-management subsidiaries | FSA "金融商品取引業者" list |
 | Life / non-life insurance underwriting | Life insurer / non-life insurer license; insurance holding company | Insurance Business Act; FSA insurance lists; FSA economic-value solvency hub | [[life-insurers/dai-ichi-life|Dai-ichi Life]], [[life-insurers/nippon-life|Nippon Life]], [[non-life-insurers/tokio-marine|Tokio Marine]], [[non-life-insurers/msad|MS&AD]], [[non-life-insurers/sompo|Sompo]] | [[financial-licenses/insurance-license-and-solvency|insurance license and solvency route]], FSA "生命保険" / "損害保険" / "保険持株会社" lists |
@@ -199,6 +200,7 @@ Promote or create these pages first when expanding this domain:
 | Done | [[financial-licenses/payment-license-stack|Japan payment license stack]] | Created to record funds transfer, prepaid, electronic payment agency, EPI transaction, electronic payment handling, credit / card, and account-direct payment routes |
 | Done | [[financial-licenses/securities-license-stack|Japan securities license stack]] | Type I/II FIBO, registered financial institution, intermediary, advisory / management, PTS, JSDA |
 | Done | [[financial-licenses/insurance-license-and-solvency|Japan insurance license and solvency route]] | Insurance underwriting vs distribution, insurance holding company, agency / broker, solvency margin, ESR, and FSA licensing |
+| Done | [[financial-licenses/japan-trust-business-license-stack|Japan trust business license stack]] | Created 2026-06-15 (#9): completes the horizontal license-stack set — Trust Business Act 運用型 (免許) / 管理型 (登録) trust companies, 兼営法 trust banks, trust contract agency, and the FIEA beneficiary-right boundary |
 | Done | [[insurance/economic-value-based-solvency|Economic-value based solvency]] | Source-verified insurance regulatory-capital route under [[insurance/INDEX|insurance INDEX]] |
 | Done | [[securities/nisa-2024-flow|NISA 2024 flow]] | Source-verified securities distribution and household-investment policy route under [[securities/INDEX|securities INDEX]] |
 
